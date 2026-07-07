@@ -1,0 +1,524 @@
+[[dialogue]]
+speaker = "ナナカ"
+# 「――ってな感じでさ、いろいろあったわけよ」
+line = "「――ってな感じでさ、いろいろあったわけよ」"
+
+[[dialogue]]
+speaker = "ナナカ"
+# 「ほんっと、シンってば肝心な時にいてくれないんだから。タイミング悪いの、反省してよね」
+line = "「ほんっと、シンってば肝心な時にいてくれないんだから。タイミング悪いの、反省してよね」"
+
+[[dialogue]]
+speaker = "シン"
+# 「それ僕が悪いの？」
+line = "「それ僕が悪いの？」"
+
+[[dialogue]]
+speaker = "ナナカ"
+# 「恋人のピンチに駆けつけられないなんて、彼氏失格でしょーが」
+line = "「恋人のピンチに駆けつけられないなんて、彼氏失格でしょーが」"
+
+[[dialogue]]
+speaker = "シン"
+# 「それを言われると返す言葉がないなぁ」
+line = "「それを言われると返す言葉がないなぁ」"
+
+[[dialogue]]
+speaker = "ナナカ"
+# 「次は絶対アタシの隣にいて。これはお願いじゃなくて命令だから」
+line = "「次は絶対アタシの隣にいて。これはお願いじゃなくて命令だから」"
+
+[[dialogue]]
+speaker = "ナナカ"
+# 「それと……こっちは命令じゃなくてお願いの方なんだけど……」
+line = "「それと……こっちは命令じゃなくてお願いの方なんだけど……」"
+
+[[dialogue]]
+speaker = "ナナカ"
+# 「……寂しかった。だから慰めて」
+line = "「……寂しかった。だから慰めて」"
+
+[[dialogue]]
+speaker = "シン"
+# 「うん、いくらでも慰めるよ」
+line = "「うん、いくらでも慰めるよ」"
+
+[[dialogue]]
+speaker = "ナナカ"
+# 「ぎゅうってして欲しい。あと、髪を撫でるやつも」
+line = "「ぎゅうってして欲しい。あと、髪を撫でるやつも」"
+
+[[dialogue]]
+speaker = "シン"
+# 「ふふっ、今日のナナカは甘えんぼだなぁ」
+line = "「ふふっ、今日のナナカは甘えんぼだなぁ」"
+
+[[dialogue]]
+speaker = "ナナカ"
+# 「誰のせいよ、まったく。アタシがこうなる前に何とかしてよね」
+line = "「誰のせいよ、まったく。アタシがこうなる前に何とかしてよね」"
+
+[[dialogue]]
+speaker = "シン"
+# 「わかってるよ。今回はごめんね、傍にいてあげられなくて」
+line = "「わかってるよ。今回はごめんね、傍にいてあげられなくて」"
+
+[[dialogue]]
+speaker = "ナナカ"
+# 「うん……すっごく反省して。それと……いっぱいいっぱい……愛して……」
+line = "「うん……すっごく反省して。それと……いっぱいいっぱい……愛して……」"
+
+[[dialogue]]
+speaker = "unk"
+# こうしてじゃれ合うように言葉を交わしながら、恋人同士の関係に戻っていく。
+line = "こうしてじゃれ合うように言葉を交わしながら、恋人同士の関係に戻っていく。"
+
+[[dialogue]]
+speaker = "unk"
+# 幼馴染のナナカから、僕の恋人のナナカへ。
+line = "幼馴染のナナカから、僕の恋人のナナカへ。"
+
+[[dialogue]]
+speaker = "unk"
+# それは難しいようでいて、とっても簡単なことだった。
+line = "それは難しいようでいて、とっても簡単なことだった。"
+
+[[dialogue]]
+speaker = "ナナカ"
+# 「あっ……ここでしちゃうの……？」
+line = "「あっ……ここでしちゃうの……？」"
+
+[[dialogue]]
+speaker = "ナナカ"
+# 「ううん、ダメじゃないけど……誰か来ちゃうかもしれないし……」
+line = "「ううん、ダメじゃないけど……誰か来ちゃうかもしれないし……」"
+
+[[dialogue]]
+speaker = "ナナカ"
+# 「だ、だから、あまり激しくしないでよね。声出ちゃうと危ないから」
+line = "「だ、だから、あまり激しくしないでよね。声出ちゃうと危ないから」"
+
+[[dialogue]]
+speaker = "ナナカ"
+# 「ひゃん！　ちょっ、言ったそばからっ……あっ、やっ、そこ……<emoji=heart04>」
+line = "「ひゃん！　ちょっ、言ったそばからっ……あっ、やっ、そこ……<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "ナナカ"
+# 「もぉ……シンのえっち……まあ、アタシも人のことは言えないけどさ」
+line = "「もぉ……シンのえっち……まあ、アタシも人のことは言えないけどさ」"
+
+[[dialogue]]
+speaker = "ナナカ"
+# 「シンと恋人同士になってから、なんだかんだで結構えっちなこともしちゃってるし。最初はすっごく恥ずかしかったけど、今では……」
+line = "「シンと恋人同士になってから、なんだかんだで結構えっちなこともしちゃってるし。最初はすっごく恥ずかしかったけど、今では……」"
+
+[[dialogue]]
+speaker = "ナナカ"
+# 「ひゃんっ！　だ、だから不意打ちするなっての～～！　えっちなことするの慣れたけど、慣れないことだってあるんだからっ」
+line = "「ひゃんっ！　だ、だから不意打ちするなっての～～！　えっちなことするの慣れたけど、慣れないことだってあるんだからっ」"
+
+[[dialogue]]
+speaker = "ナナカ"
+# 「もうっ、してもいいけど、びっくりさせんじゃないよ。声、我慢しなくちゃなんないんだから」
+line = "「もうっ、してもいいけど、びっくりさせんじゃないよ。声、我慢しなくちゃなんないんだから」"
+
+[[dialogue]]
+speaker = "ナナカ"
+# 「んんっ……そう、そっとね……優しく触っても、十分気持ちいいから……ふぁっ、あっ、シン……<emoji=heart04>」
+line = "「んんっ……そう、そっとね……優しく触っても、十分気持ちいいから……ふぁっ、あっ、シン……<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "ナナカ"
+# 「うう、いつもより濡れるの早いかも……アタシ、期待しちゃってたのかなぁ」
+line = "「うう、いつもより濡れるの早いかも……アタシ、期待しちゃってたのかなぁ」"
+
+[[dialogue]]
+speaker = "ナナカ"
+# 「シンも……いつもより興奮してるでしょ？　わかるよ。息も荒くなってるし、それに……その、おち○ちん、も。凄いことになってるよね<emoji=heart04>」
+line = "「シンも……いつもより興奮してるでしょ？　わかるよ。息も荒くなってるし、それに……その、おち○ちん、も。凄いことになってるよね<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "ナナカ"
+# 「アタシで興奮してくれたんだ……ふふっ、なんか嬉しい。もっともっと、シンがアタシに夢中になったらいいのに」
+line = "「アタシで興奮してくれたんだ……ふふっ、なんか嬉しい。もっともっと、シンがアタシに夢中になったらいいのに」"
+
+[[dialogue]]
+speaker = "ナナカ"
+# 「って、態度で示さなくていいからぁ！　そこは普通言葉でしょ、もっと愛の言葉を囁けってのっ」
+line = "「って、態度で示さなくていいからぁ！　そこは普通言葉でしょ、もっと愛の言葉を囁けってのっ」"
+
+[[dialogue]]
+speaker = "ナナカ"
+# 「……えっちの時は結構意地悪なんだよねー、シンは。うん、だいたいわかってたけどさ」
+line = "「……えっちの時は結構意地悪なんだよねー、シンは。うん、だいたいわかってたけどさ」"
+
+[[dialogue]]
+speaker = "ナナカ"
+# 「アタシも……自分が素直じゃないのはわかってるし、言えって言われてすぐ言うタイプじゃないから……」
+line = "「アタシも……自分が素直じゃないのはわかってるし、言えって言われてすぐ言うタイプじゃないから……」"
+
+[[dialogue]]
+speaker = "ナナカ"
+# 「幼馴染なんだもんね、ちっとも似てないようでいて、似てるところもあるから……うん、いいよ、したいようにしても。行動でアタシに伝えて」
+line = "「幼馴染なんだもんね、ちっとも似てないようでいて、似てるところもあるから……うん、いいよ、したいようにしても。行動でアタシに伝えて」"
+
+[[dialogue]]
+speaker = "ナナカ"
+# 「んんっ……あんっ<emoji=heart04>　シンの手、いつもより優しいね……。気持ちいいよ<emoji=heart04>」
+line = "「んんっ……あんっ<emoji=heart04>　シンの手、いつもより優しいね……。気持ちいいよ<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "ナナカ"
+# 「アタシは全部、シンのだから……ふあっ、はぁ……その代わり、シンの全部も、アタシが独り占めしちゃうんだから」
+line = "「アタシは全部、シンのだから……ふあっ、はぁ……その代わり、シンの全部も、アタシが独り占めしちゃうんだから」"
+
+[[dialogue]]
+speaker = "ナナカ"
+# 「ふふっ、アタシもこう見えて独占欲強いんだから、覚悟してよね」
+line = "「ふふっ、アタシもこう見えて独占欲強いんだから、覚悟してよね」"
+
+[[dialogue]]
+speaker = "ナナカ"
+# 「んくっ、はぁん……<emoji=heart04>　もぉ、シンってばうますぎ……アタシの弱点全部知ってます～みたいに的確に愛撫してきて……」
+line = "「んくっ、はぁん……<emoji=heart04>　もぉ、シンってばうますぎ……アタシの弱点全部知ってます～みたいに的確に愛撫してきて……」"
+
+[[dialogue]]
+speaker = "ナナカ"
+# 「でも、そんな風に全部知られちゃってるのも、なんかいいね。好き<emoji=heart04>」
+line = "「でも、そんな風に全部知られちゃってるのも、なんかいいね。好き<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "ナナカ"
+# 「うん……シンのことも、好き<emoji=heart04>　大好き<emoji=heart04>」
+line = "「うん……シンのことも、好き<emoji=heart04>　大好き<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "ナナカ"
+# 「大好きなシンの手で……やらしいアタシになっちゃった<emoji=heart04>　ほら、くぱって開いて、シンのこと欲しがってるでしょ」
+line = "「大好きなシンの手で……やらしいアタシになっちゃった<emoji=heart04>　ほら、くぱって開いて、シンのこと欲しがってるでしょ」"
+
+[[dialogue]]
+speaker = "ナナカ"
+# 「そ、それでね……アタシの方は、もう準備出来てるから……シンがよければそろそろ……ね<emoji=heart04>」
+line = "「そ、それでね……アタシの方は、もう準備出来てるから……シンがよければそろそろ……ね<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "ナナカ"
+# 「ふふ……おち○ちん、かっこよくなってる。そんな見せつけなくても大丈夫だよ」
+line = "「ふふ……おち○ちん、かっこよくなってる。そんな見せつけなくても大丈夫だよ」"
+
+[[dialogue]]
+speaker = "ナナカ"
+# 「うん、来て……早くシンと繋がりたい……<emoji=heart04>」
+line = "「うん、来て……早くシンと繋がりたい……<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "ナナカ"
+# 「んあぁっっ<emoji=heart04>　入って……来たぁ<emoji=heart04>」
+line = "「んあぁっっ<emoji=heart04>　入って……来たぁ<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "ナナカ"
+# 「シンのおち○ちん、感じるよ……アタシで興奮してガチガチになってるね……<emoji=heart04>」
+line = "「シンのおち○ちん、感じるよ……アタシで興奮してガチガチになってるね……<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "ナナカ"
+# 「んふっ……遠慮しないでもっと奥まで……うん、そんな感じ……アタシの一番奥まで入って来て……<emoji=heart04>」
+line = "「んふっ……遠慮しないでもっと奥まで……うん、そんな感じ……アタシの一番奥まで入って来て……<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "ナナカ"
+# 「はぁぁ～～～っ、とうちゃーく<emoji=heart04>　全部入っちゃったね。うん……凄く満ち足りた感じ……やっとシンがアタシのところに帰ってきたんだなぁって実感してる」
+line = "「はぁぁ～～～っ、とうちゃーく<emoji=heart04>　全部入っちゃったね。うん……凄く満ち足りた感じ……やっとシンがアタシのところに帰ってきたんだなぁって実感してる」"
+
+[[dialogue]]
+speaker = "ナナカ"
+# 「ふふっ、ナカでビクンビクンしてるね<emoji=heart04>　そんなにアタシのおま○こ、気持ちいい？」
+line = "「ふふっ、ナカでビクンビクンしてるね<emoji=heart04>　そんなにアタシのおま○こ、気持ちいい？」"
+
+[[dialogue]]
+speaker = "ナナカ"
+# 「もちろんアタシも……すっごく気持ちいいよ<emoji=heart04>　奥でぐりぃって当たるたび、えっちな声が出ちゃいそうで」
+line = "「もちろんアタシも……すっごく気持ちいいよ<emoji=heart04>　奥でぐりぃって当たるたび、えっちな声が出ちゃいそうで」"
+
+[[dialogue]]
+speaker = "ナナカ"
+# 「ちょっ！　待って待って！　急にピストン始めないでってばぁ<emoji=heart04>」
+line = "「ちょっ！　待って待って！　急にピストン始めないでってばぁ<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "ナナカ"
+# 「ううっ、ぐちゅぐちゅ言ってる……こんなのされたら、いくら我慢強いアタシでもあんあん言っちゃうじゃん……」
+line = "「ううっ、ぐちゅぐちゅ言ってる……こんなのされたら、いくら我慢強いアタシでもあんあん言っちゃうじゃん……」"
+
+[[dialogue]]
+speaker = "ナナカ"
+# 「にしても、ほんとにエッチに慣れちゃったよね。最初は２人ともあんなにぎこちなかったのに<emoji=heart04>」
+line = "「にしても、ほんとにエッチに慣れちゃったよね。最初は２人ともあんなにぎこちなかったのに<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "ナナカ"
+# 「あぁんっ、あっ、あっ、はぁんっ<emoji=heart04>　おち○ちん凄いっ……んんっ、くぁっ、あんっ<emoji=heart04>　気持ちいいよ、シン……<emoji=heart04>」
+line = "「あぁんっ、あっ、あっ、はぁんっ<emoji=heart04>　おち○ちん凄いっ……んんっ、くぁっ、あんっ<emoji=heart04>　気持ちいいよ、シン……<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "ナナカ"
+# 「こ、声出ちゃうけど、ちょっとくらいなら平気だよね？　ていうか、こんなの我慢する方が無理だし……」
+line = "「こ、声出ちゃうけど、ちょっとくらいなら平気だよね？　ていうか、こんなの我慢する方が無理だし……」"
+
+[[dialogue]]
+speaker = "ナナカ"
+# 「もぉ、腰使いえっちすぎ<emoji=heart04>　幼馴染のアタシをこんなにいじめてどうしたいの？」
+line = "「もぉ、腰使いえっちすぎ<emoji=heart04>　幼馴染のアタシをこんなにいじめてどうしたいの？」"
+
+[[dialogue]]
+speaker = "ナナカ"
+# 「んくっ、ふっ、ふぁっ、はぁんっ<emoji=heart04>　アタシを気持ちよくして……自分も気持ちよくなりたいんだよね……ごめん、今更聞くことでもなかったね」
+line = "「んくっ、ふっ、ふぁっ、はぁんっ<emoji=heart04>　アタシを気持ちよくして……自分も気持ちよくなりたいんだよね……ごめん、今更聞くことでもなかったね」"
+
+[[dialogue]]
+speaker = "ナナカ"
+# 「いいよ、一緒に気持ちよくなろ<emoji=heart04>　アタシももっと……気持ちよくして欲しいし<emoji=heart04>」
+line = "「いいよ、一緒に気持ちよくなろ<emoji=heart04>　アタシももっと……気持ちよくして欲しいし<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "ナナカ"
+# 「あぁん<emoji=heart04>　あっ<emoji=heart04>　あっ<emoji=heart04>　おっぱいも……して<emoji=heart04>　うんっ、いっぱい触れて欲しい<emoji=heart04>」
+line = "「あぁん<emoji=heart04>　あっ<emoji=heart04>　あっ<emoji=heart04>　おっぱいも……して<emoji=heart04>　うんっ、いっぱい触れて欲しい<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "ナナカ"
+# 「はぁっ<emoji=heart04>　あんっ<emoji=heart04>　あっ<emoji=heart04>　だんだん激しく……なってきたね<emoji=heart04>　んうっ<emoji=heart04>　いいよ、我慢しないで。アタシも開き直っちゃうから<emoji=heart04>」
+line = "「はぁっ<emoji=heart04>　あんっ<emoji=heart04>　あっ<emoji=heart04>　だんだん激しく……なってきたね<emoji=heart04>　んうっ<emoji=heart04>　いいよ、我慢しないで。アタシも開き直っちゃうから<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "ナナカ"
+# 「ふふっ、生徒会長失格？　もう、そんなこと気にしないでよ。今のアンタはアタシの恋人なんだから、そっちに専念しなっての<emoji=heart04>」
+line = "「ふふっ、生徒会長失格？　もう、そんなこと気にしないでよ。今のアンタはアタシの恋人なんだから、そっちに専念しなっての<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "ナナカ"
+# 「そうそう<emoji=heart04>　んんっ、あんっ<emoji=heart04>　アタシの気持ちいいとこ、もっとずんずんしてっ<emoji=heart04>　シンのおち○ちんでアタシのおま○こいじめてぇっ<emoji=heart04>」
+line = "「そうそう<emoji=heart04>　んんっ、あんっ<emoji=heart04>　アタシの気持ちいいとこ、もっとずんずんしてっ<emoji=heart04>　シンのおち○ちんでアタシのおま○こいじめてぇっ<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "ナナカ"
+# 「あぁぁぁーーーっ<emoji=heart04>　あぁん<emoji=heart04>　やっ、凄いぃ<emoji=heart04>　こんなのダメぇ<emoji=heart04>　感じ過ぎちゃうからぁ<emoji=heart04>」
+line = "「あぁぁぁーーーっ<emoji=heart04>　あぁん<emoji=heart04>　やっ、凄いぃ<emoji=heart04>　こんなのダメぇ<emoji=heart04>　感じ過ぎちゃうからぁ<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "ナナカ"
+# 「気持ちよすぎて声出ちゃう<emoji=heart04>　やっ<emoji=heart04>　やぁん<emoji=heart04>　あっ<emoji=heart04>　あっ<emoji=heart04>　えっちしてるのバレちゃう……シンと気持ちいいとこぐちゅぐちゅしてるの見られちゃう<emoji=heart04>」
+line = "「気持ちよすぎて声出ちゃう<emoji=heart04>　やっ<emoji=heart04>　やぁん<emoji=heart04>　あっ<emoji=heart04>　あっ<emoji=heart04>　えっちしてるのバレちゃう……シンと気持ちいいとこぐちゅぐちゅしてるの見られちゃう<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "ナナカ"
+# 「み、見られても……別にいいけどっ<emoji=heart04>　シンと恋人同士のままでい続けるのは変わらないしっ<emoji=heart04>　あっ、でもやっぱり恥ずかしいから……んぅっ<emoji=heart04>」
+line = "「み、見られても……別にいいけどっ<emoji=heart04>　シンと恋人同士のままでい続けるのは変わらないしっ<emoji=heart04>　あっ、でもやっぱり恥ずかしいから……んぅっ<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "ナナカ"
+# 「や、やっぱりいつもよりヌルヌルがいっぱい出ちゃってる～<emoji=heart04>　普段はこんなじゃないのに<emoji=heart04>　今日は特別感じちゃってるみたい<emoji=heart04>」
+line = "「や、やっぱりいつもよりヌルヌルがいっぱい出ちゃってる～<emoji=heart04>　普段はこんなじゃないのに<emoji=heart04>　今日は特別感じちゃってるみたい<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "ナナカ"
+# 「繋がってるとこ、グプグプ言ってるし……あ～んっ、もう。後で床掃除しなきゃだよ……」
+line = "「繋がってるとこ、グプグプ言ってるし……あ～んっ、もう。後で床掃除しなきゃだよ……」"
+
+[[dialogue]]
+speaker = "ナナカ"
+# 「もう全部今更だよねっ<emoji=heart04>　いいよ、今は全部忘れて気持ちよくなっちゃお？　シンも気にしないで全力でアタシを愛してよね<emoji=heart04>」
+line = "「もう全部今更だよねっ<emoji=heart04>　いいよ、今は全部忘れて気持ちよくなっちゃお？　シンも気にしないで全力でアタシを愛してよね<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "ナナカ"
+# 「んううっ<emoji=heart04>　んぐっ<emoji=heart04>　すごぉ<emoji=heart04>　シンが夢中になってアタシを求めてるっ<emoji=heart04>　こんなのダメっ<emoji=heart04>　最初から好きで好きでたまんないのに、もっと好きになっちゃうからぁ<emoji=heart04>」
+line = "「んううっ<emoji=heart04>　んぐっ<emoji=heart04>　すごぉ<emoji=heart04>　シンが夢中になってアタシを求めてるっ<emoji=heart04>　こんなのダメっ<emoji=heart04>　最初から好きで好きでたまんないのに、もっと好きになっちゃうからぁ<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "ナナカ"
+# 「いいよ、シン<emoji=heart04>　もっと激しくして<emoji=heart04>　ズンズンって激しくアタシを突いてぇっ<emoji=heart04>」
+line = "「いいよ、シン<emoji=heart04>　もっと激しくして<emoji=heart04>　ズンズンって激しくアタシを突いてぇっ<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "ナナカ"
+# 「はぁぁっ<emoji=heart04>　あぁん<emoji=heart04>　あっ<emoji=heart04>　あんっ<emoji=heart04>　気持ちいいよぉ<emoji=heart04>　シン<emoji=heart04>　好き<emoji=heart04>　好きぃ<emoji=heart04>」
+line = "「はぁぁっ<emoji=heart04>　あぁん<emoji=heart04>　あっ<emoji=heart04>　あんっ<emoji=heart04>　気持ちいいよぉ<emoji=heart04>　シン<emoji=heart04>　好き<emoji=heart04>　好きぃ<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "ナナカ"
+# 「もっとアタシで気持ちよくなって<emoji=heart04>　んぅうっ<emoji=heart04>　んぐっ<emoji=heart04>　はぁぁっ<emoji=heart04>　あんっ<emoji=heart04>　あんっ<emoji=heart04>　んあぁぁぁーーーっ<emoji=heart04><emoji=heart04><emoji=heart04>」
+line = "「もっとアタシで気持ちよくなって<emoji=heart04>　んぅうっ<emoji=heart04>　んぐっ<emoji=heart04>　はぁぁっ<emoji=heart04>　あんっ<emoji=heart04>　あんっ<emoji=heart04>　んあぁぁぁーーーっ<emoji=heart04><emoji=heart04><emoji=heart04>」"
+
+[[dialogue]]
+speaker = "ナナカ"
+# 「ごめんっ、アタシそんなにもたないかもっ<emoji=heart04>　イっちゃいそう<emoji=heart04>　シンっ<emoji=heart04>　シン<emoji=heart04>　シンっっ<emoji=heart04><emoji=heart04><emoji=heart04>」
+line = "「ごめんっ、アタシそんなにもたないかもっ<emoji=heart04>　イっちゃいそう<emoji=heart04>　シンっ<emoji=heart04>　シン<emoji=heart04>　シンっっ<emoji=heart04><emoji=heart04><emoji=heart04>」"
+
+[[dialogue]]
+speaker = "ナナカ"
+# 「あぁぁぁっ<emoji=heart04>　好き<emoji=heart04>　大好きだよ<emoji=heart04>　ずっとずっと、こうしてたいっ<emoji=heart04>　シンとくっついてたいの<emoji=heart04>」
+line = "「あぁぁぁっ<emoji=heart04>　好き<emoji=heart04>　大好きだよ<emoji=heart04>　ずっとずっと、こうしてたいっ<emoji=heart04>　シンとくっついてたいの<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "ナナカ"
+# 「アタシのこと、絶対離さないでね<emoji=heart04>　逃げないようにぎゅうって捕まえといて<emoji=heart04>　あたしもっ、シンにしがみついてるからっっ<emoji=heart04>」
+line = "「アタシのこと、絶対離さないでね<emoji=heart04>　逃げないようにぎゅうって捕まえといて<emoji=heart04>　あたしもっ、シンにしがみついてるからっっ<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "ナナカ"
+# 「んあぁぁっ<emoji=heart04>　はぁんっ<emoji=heart04>　おち○ちんすごっ<emoji=heart04>　いつもより絶対おっきくなってるよね<emoji=heart04>　んもぉ、そこまでアタシに興奮しちゃってるんだ？　めちゃくちゃ嬉しいよぉ<emoji=heart04>」
+line = "「んあぁぁっ<emoji=heart04>　はぁんっ<emoji=heart04>　おち○ちんすごっ<emoji=heart04>　いつもより絶対おっきくなってるよね<emoji=heart04>　んもぉ、そこまでアタシに興奮しちゃってるんだ？　めちゃくちゃ嬉しいよぉ<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "ナナカ"
+# 「はぁっ<emoji=heart04>　はぁっ<emoji=heart04>　はぁっ<emoji=heart04>　来てぇ<emoji=heart04>　早く来てぇ<emoji=heart04>　来てくれないと、アタシ先にイっちゃうからぁ<emoji=heart04>」
+line = "「はぁっ<emoji=heart04>　はぁっ<emoji=heart04>　はぁっ<emoji=heart04>　来てぇ<emoji=heart04>　早く来てぇ<emoji=heart04>　来てくれないと、アタシ先にイっちゃうからぁ<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "ナナカ"
+# 「もうダメぇ<emoji=heart04>　無理っ<emoji=heart04>　イク<emoji=heart04>　イっちゃう<emoji=heart04>　我慢出来ないから早くぅ～～～っ<emoji=heart04><emoji=heart04><emoji=heart04>」
+line = "「もうダメぇ<emoji=heart04>　無理っ<emoji=heart04>　イク<emoji=heart04>　イっちゃう<emoji=heart04>　我慢出来ないから早くぅ～～～っ<emoji=heart04><emoji=heart04><emoji=heart04>」"
+
+[[dialogue]]
+speaker = "ナナカ"
+# 「うあっ<emoji=heart04>　ああぁっ<emoji=heart04>　やっ、おち○ちん凄いっっ<emoji=heart04>　来てっ<emoji=heart04>　もっとズンズン来てぇーーーっ<emoji=heart04>」
+line = "「うあっ<emoji=heart04>　ああぁっ<emoji=heart04>　やっ、おち○ちん凄いっっ<emoji=heart04>　来てっ<emoji=heart04>　もっとズンズン来てぇーーーっ<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "ナナカ"
+# 「イク<emoji=heart04>　イっちゃう<emoji=heart04>　アタシもうイクよ<emoji=heart04>　イクっ<emoji=heart04>　イクイクイクっっ<emoji=heart04>　シンのおち○ちんでイっちゃう～～～っっ<emoji=heart04><emoji=heart04><emoji=heart04>」
+line = "「イク<emoji=heart04>　イっちゃう<emoji=heart04>　アタシもうイクよ<emoji=heart04>　イクっ<emoji=heart04>　イクイクイクっっ<emoji=heart04>　シンのおち○ちんでイっちゃう～～～っっ<emoji=heart04><emoji=heart04><emoji=heart04>」"
+
+[[dialogue]]
+speaker = "ナナカ"
+# 「んくぅ～～～～～っ<emoji=heart04>　んんっ<emoji=heart04>　イクっ<emoji=heart04>　シン<emoji=heart04>　好き<emoji=heart04>　好き好き好きぃぃっ<emoji=heart04><emoji=heart04><emoji=heart04>」
+line = "「んくぅ～～～～～っ<emoji=heart04>　んんっ<emoji=heart04>　イクっ<emoji=heart04>　シン<emoji=heart04>　好き<emoji=heart04>　好き好き好きぃぃっ<emoji=heart04><emoji=heart04><emoji=heart04>」"
+
+[[dialogue]]
+speaker = "ナナカ"
+# 「イっくぅ～～～～～～～～～～っっっ<emoji=heart04><emoji=heart04><emoji=heart04><emoji=heart04><emoji=heart04>」
+line = "「イっくぅ～～～～～～～～～～っっっ<emoji=heart04><emoji=heart04><emoji=heart04><emoji=heart04><emoji=heart04>」"
+
+[[dialogue]]
+speaker = "ナナカ"
+# 「はぁ<emoji=heart04>　はぁ<emoji=heart04>　はぁ<emoji=heart04>　……いっぱい……出されちゃった……<emoji=heart04>」
+line = "「はぁ<emoji=heart04>　はぁ<emoji=heart04>　はぁ<emoji=heart04>　……いっぱい……出されちゃった……<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "ナナカ"
+# 「んくっ<emoji=heart04>　アタシのナカでビクンビクンしてる……元気に射精してるね……<emoji=heart04>」
+line = "「んくっ<emoji=heart04>　アタシのナカでビクンビクンしてる……元気に射精してるね……<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "ナナカ"
+# 「はぁっ<emoji=heart04>　精液の量多いよ……全部入りきらないじゃん……<emoji=heart04>」
+line = "「はぁっ<emoji=heart04>　精液の量多いよ……全部入りきらないじゃん……<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "ナナカ"
+# 「まーだビュルビュル出してるし……こんなに出されたらおなかがタプタプになっちゃうっての<emoji=heart04>」
+line = "「まーだビュルビュル出してるし……こんなに出されたらおなかがタプタプになっちゃうっての<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "ナナカ"
+# 「うん……やじゃないよ<emoji=heart04>　嬉しい<emoji=heart04>　おま○こにシンの精液入れてもらって……幸せだなぁって感じちゃってる<emoji=heart04>」
+line = "「うん……やじゃないよ<emoji=heart04>　嬉しい<emoji=heart04>　おま○こにシンの精液入れてもらって……幸せだなぁって感じちゃってる<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "ナナカ"
+# 「だ、だからね……遠慮しないでいっぱい出して……シンが出したいだけ……アタシに注いでいいから<emoji=heart04>」
+line = "「だ、だからね……遠慮しないでいっぱい出して……シンが出したいだけ……アタシに注いでいいから<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "ナナカ"
+# 「あんっ<emoji=heart04>　今ナカでビクンってしたぁ<emoji=heart04>　もう、シンのえっち<emoji=heart04>」
+line = "「あんっ<emoji=heart04>　今ナカでビクンってしたぁ<emoji=heart04>　もう、シンのえっち<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "ナナカ"
+# 「でも……気持ちいいもんね。もっとしたいって思うのも、当然だよね<emoji=heart04>」
+line = "「でも……気持ちいいもんね。もっとしたいって思うのも、当然だよね<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "ナナカ"
+# 「アタシだって、そのぉ……<emoji=heart04>　もぉ、バカぁ<emoji=heart04>　今、人のことえっちだーって思ったでしょ？」
+line = "「アタシだって、そのぉ……<emoji=heart04>　もぉ、バカぁ<emoji=heart04>　今、人のことえっちだーって思ったでしょ？」"
+
+[[dialogue]]
+speaker = "ナナカ"
+# 「んぅぅ……<emoji=heart04>　やっと射精終わったの？　スッキリした？」
+line = "「んぅぅ……<emoji=heart04>　やっと射精終わったの？　スッキリした？」"
+
+[[dialogue]]
+speaker = "ナナカ"
+# 「えへへ……彼氏を満足させられて、彼女的には達成感あり、かな<emoji=heart04>」
+line = "「えへへ……彼氏を満足させられて、彼女的には達成感あり、かな<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "ナナカ"
+# 「もちろん、これで満足したわけじゃないよ。お互いに……ねっ<emoji=heart04>」
+line = "「もちろん、これで満足したわけじゃないよ。お互いに……ねっ<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "ナナカ"
+# 「シンのおち○ちんも、アタシの中でまだ出したいよ～って言ってるし<emoji=heart04>」
+line = "「シンのおち○ちんも、アタシの中でまだ出したいよ～って言ってるし<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "ナナカ"
+# 「んぁっ<emoji=heart04>　抜けちゃう……あぁ～、抜けちゃった……」
+line = "「んぁっ<emoji=heart04>　抜けちゃう……あぁ～、抜けちゃった……」"
+
+[[dialogue]]
+speaker = "ナナカ"
+# 「はぁ<emoji=heart04>　はぁ<emoji=heart04>　はぁ<emoji=heart04>　あんなにおっきいのが入ってたから、ちょっとだけ喪失感」
+line = "「はぁ<emoji=heart04>　はぁ<emoji=heart04>　はぁ<emoji=heart04>　あんなにおっきいのが入ってたから、ちょっとだけ喪失感」"
+
+[[dialogue]]
+speaker = "ナナカ"
+# 「んんっ……<emoji=heart04>　せっかく入れてもらったのも、漏れて出ちゃう<emoji=heart04>」
+line = "「んんっ……<emoji=heart04>　せっかく入れてもらったのも、漏れて出ちゃう<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "ナナカ"
+# 「やんっ<emoji=heart04>　こら、かき出さなくてもいいんだからねっ。どうせもっと……たっぷり注いでもらうんだし<emoji=heart04>」
+line = "「やんっ<emoji=heart04>　こら、かき出さなくてもいいんだからねっ。どうせもっと……たっぷり注いでもらうんだし<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "ナナカ"
+# 「ねえ、シン……<emoji=heart04>　シンの精液のせいで、アタシえっちな子になっちゃった<emoji=heart04>」
+line = "「ねえ、シン……<emoji=heart04>　シンの精液のせいで、アタシえっちな子になっちゃった<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "ナナカ"
+# 「やらしくなった彼女を……彼氏さんはどうするつもり？」
+line = "「やらしくなった彼女を……彼氏さんはどうするつもり？」"
+
+[[dialogue]]
+speaker = "ナナカ"
+# 「シンがしたいこと……何でもしていいんだからね<emoji=heart04>」
+line = "「シンがしたいこと……何でもしていいんだからね<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "ナナカ"
+# 「ふふっ、おち○ちん上向いたぁ<emoji=heart04>　もう、元気なんだから<emoji=heart04>」
+line = "「ふふっ、おち○ちん上向いたぁ<emoji=heart04>　もう、元気なんだから<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "ナナカ"
+# 「あ、でもこれ以上ここでするのはまずいかな？　どうする？　バレるの前提で続けちゃう？」
+line = "「あ、でもこれ以上ここでするのはまずいかな？　どうする？　バレるの前提で続けちゃう？」"
+
+[[dialogue]]
+speaker = "ナナカ"
+# 「って、それはさすがにまずいか～。今気付かれなかったのは、ラッキーだったってことで……」
+line = "「って、それはさすがにまずいか～。今気付かれなかったのは、ラッキーだったってことで……」"
+
+[[dialogue]]
+speaker = "ナナカ"
+# 「じゃあ、続きは……どっちかの部屋で……ね？　たくさんエッチしよ<emoji=heart04>」
+line = "「じゃあ、続きは……どっちかの部屋で……ね？　たくさんエッチしよ<emoji=heart04>」"

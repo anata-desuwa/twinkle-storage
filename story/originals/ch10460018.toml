@@ -1,0 +1,564 @@
+[[dialogue]]
+speaker = "unk"
+# 俺は閃のことが好きだ――そう気付いてから、しばらく経つ。しかし、閃はヴィーナスが好きだと分かっているから、今の関係性を壊すのが怖くて、なかなか告白出来ずにいた。
+line = "俺は閃のことが好きだ――そう気付いてから、しばらく経つ。しかし、閃はヴィーナスが好きだと分かっているから、今の関係性を壊すのが怖くて、なかなか告白出来ずにいた。"
+
+[[dialogue]]
+speaker = "unk"
+# そんなある日、ヴィーナスから勉強を教えて欲しいと頼まれ、彼女の部屋にやって来ていたのだが――
+line = "そんなある日、ヴィーナスから勉強を教えて欲しいと頼まれ、彼女の部屋にやって来ていたのだが――"
+
+[[dialogue]]
+speaker = "クロト"
+# 「これは一体、どういう状況……！？」
+line = "「これは一体、どういう状況……！？」"
+
+[[dialogue]]
+speaker = "unk"
+# ヴィーナスからは、休憩時間になったらクローゼットを開けるように指示されていたのだが、その結果がこれだ。
+line = "ヴィーナスからは、休憩時間になったらクローゼットを開けるように指示されていたのだが、その結果がこれだ。"
+
+[[dialogue]]
+speaker = "閃"
+# 「んっ<emoji=heart04>　仕方ないです……私がクローゼットに隠れて監視していたところを、会長さんが気付いて見つけ出したりするから……っ」
+line = "「んっ<emoji=heart04>　仕方ないです……私がクローゼットに隠れて監視していたところを、会長さんが気付いて見つけ出したりするから……っ」"
+
+[[dialogue]]
+speaker = "閃"
+# 「お手洗いに行っていたお嬢様が、部屋に戻って来てしまったので……慌ててクローゼットの中に、引っ張り込まざるを得なくなってしまったんです……」
+line = "「お手洗いに行っていたお嬢様が、部屋に戻って来てしまったので……慌ててクローゼットの中に、引っ張り込まざるを得なくなってしまったんです……」"
+
+[[dialogue]]
+speaker = "閃"
+# 「隠れる必要はない？　んっ<emoji=heart04>　だって、ここはお嬢様のクローゼットの中ですよ？　はあぁ……<emoji=heart04>　お嬢様の下着とかも、しまってあるんです」
+line = "「隠れる必要はない？　んっ<emoji=heart04>　だって、ここはお嬢様のクローゼットの中ですよ？　はあぁ……<emoji=heart04>　お嬢様の下着とかも、しまってあるんです」"
+
+[[dialogue]]
+speaker = "閃"
+# 「出て行ったら、私が変な疑いを掛けられちゃうじゃ、ないですか。ふうぅ……<emoji=heart04>」
+line = "「出て行ったら、私が変な疑いを掛けられちゃうじゃ、ないですか。ふうぅ……<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "閃"
+# 「だから会長さんにも、共犯になってもらいます。もし言いつけたりしたら、一緒にコソコソしてたってバラしちゃいますから」
+line = "「だから会長さんにも、共犯になってもらいます。もし言いつけたりしたら、一緒にコソコソしてたってバラしちゃいますから」"
+
+[[dialogue]]
+speaker = "閃"
+# 「何故脱いでいるのか？　はあぁ……<emoji=heart04>　お嬢様と部屋で２人きりになったのをいいことに、会長さんがお嬢様の魅力にムラムラして、襲っちゃうかもしれませんから」
+line = "「何故脱いでいるのか？　はあぁ……<emoji=heart04>　お嬢様と部屋で２人きりになったのをいいことに、会長さんがお嬢様の魅力にムラムラして、襲っちゃうかもしれませんから」"
+
+[[dialogue]]
+speaker = "閃"
+# 「だったらここは、護衛のメイドである私が代わりに相手をして、お嬢様の貞操を守らないと……んっ<emoji=heart04>」
+line = "「だったらここは、護衛のメイドである私が代わりに相手をして、お嬢様の貞操を守らないと……んっ<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "閃"
+# 「しっ……大きな声を出しては、ダメですよ……お嬢様が部屋にいるんですから……ほら」
+line = "「しっ……大きな声を出しては、ダメですよ……お嬢様が部屋にいるんですから……ほら」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+# 「――クロト～？　あれ？　おかしいわね……クロトもお手洗いに行ったのかしら？」
+line = "「――クロト～？　あれ？　おかしいわね……クロトもお手洗いに行ったのかしら？」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+# 「まぁ、いいわ！　ちょっと疲れちゃったし、戻ってくるまで勉強は中断して休憩ね♪」
+line = "「まぁ、いいわ！　ちょっと疲れちゃったし、戻ってくるまで勉強は中断して休憩ね♪」"
+
+[[dialogue]]
+speaker = "閃"
+# 「……状況が分かりましたか？　んっ<emoji=heart04>　……私たちはお嬢様が再び部屋を出るまで、このクローゼットの中で大人しく、待機しなくちゃいけないんです」
+line = "「……状況が分かりましたか？　んっ<emoji=heart04>　……私たちはお嬢様が再び部屋を出るまで、このクローゼットの中で大人しく、待機しなくちゃいけないんです」"
+
+[[dialogue]]
+speaker = "閃"
+# 「でも、会長さんの性欲を放って置くわけにも行きません……幸いお嬢様の部屋は広いので、大きな声を出さなければ聞こえたりはしませんから……ふうぅ<emoji=heart04>」
+line = "「でも、会長さんの性欲を放って置くわけにも行きません……幸いお嬢様の部屋は広いので、大きな声を出さなければ聞こえたりはしませんから……ふうぅ<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "クロト"
+# 「い、いや……俺が好きなのはヴィーナスじゃなくって……っ」
+line = "「い、いや……俺が好きなのはヴィーナスじゃなくって……っ」"
+
+[[dialogue]]
+speaker = "閃"
+# 「問答、無用です……<emoji=heart04>　この待機時間を利用して、事を済ましてしまいましょう<emoji=heart04>　ほら、まずは素股で準備、しますよ……んんっ<emoji=heart04>」
+line = "「問答、無用です……<emoji=heart04>　この待機時間を利用して、事を済ましてしまいましょう<emoji=heart04>　ほら、まずは素股で準備、しますよ……んんっ<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "閃"
+# 「はあぁ……んっ<emoji=heart04>　ふうぅ……んん……<emoji=heart04>　んっ、はぁ……ふぅ<emoji=heart04>　んうぅ……はあぁ……ふうぅ……<emoji=heart04>　はぁっ、んっ……ふあぁ……<emoji=heart04>　んんっ……あん<emoji=heart04>　ふうぅ……<emoji=heart04>」
+line = "「はあぁ……んっ<emoji=heart04>　ふうぅ……んん……<emoji=heart04>　んっ、はぁ……ふぅ<emoji=heart04>　んうぅ……はあぁ……ふうぅ……<emoji=heart04>　はぁっ、んっ……ふあぁ……<emoji=heart04>　んんっ……あん<emoji=heart04>　ふうぅ……<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "閃"
+# 「んっ……<emoji=heart04>　会長さんは、やはり要注意な人です<emoji=heart04>　口では否定しつつも、みるみるおち○ちんが、大きくなってるじゃないですか……はあぁ……ふうぅ<emoji=heart04>」
+line = "「んっ……<emoji=heart04>　会長さんは、やはり要注意な人です<emoji=heart04>　口では否定しつつも、みるみるおち○ちんが、大きくなってるじゃないですか……はあぁ……ふうぅ<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "閃"
+# 「しかもこの大きさ……<emoji=heart04>　絶対に普通じゃありません……んんっ<emoji=heart04>　男の人の中でも、間違いなく大きい……ふうぅ……<emoji=heart04>」
+line = "「しかもこの大きさ……<emoji=heart04>　絶対に普通じゃありません……んんっ<emoji=heart04>　男の人の中でも、間違いなく大きい……ふうぅ……<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "閃"
+# 「太くて、固くて……あんっ<emoji=heart04>　凄い存在感で……はあぁ……<emoji=heart04>　あそこに擦り付けているだけで、濡れて来ちゃいます……<emoji=heart04>」
+line = "「太くて、固くて……あんっ<emoji=heart04>　凄い存在感で……はあぁ……<emoji=heart04>　あそこに擦り付けているだけで、濡れて来ちゃいます……<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "閃"
+# 「んっ……<emoji=heart04>　先っぽもよく濡らさないと……手で触りますね……はあぁ<emoji=heart04>　やっぱり、大きい……<emoji=heart04>　凄く熱くて、火傷しちゃいそうなくらい……ふうぅ……<emoji=heart04>」
+line = "「んっ……<emoji=heart04>　先っぽもよく濡らさないと……手で触りますね……はあぁ<emoji=heart04>　やっぱり、大きい……<emoji=heart04>　凄く熱くて、火傷しちゃいそうなくらい……ふうぅ……<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "閃"
+# 「んふっ<emoji=heart04>　手で撫でたら、ビクンって反応して……<emoji=heart04>　おち○ちん、先走り液が沢山でヌルヌルじゃないですか……<emoji=heart04>」
+line = "「んふっ<emoji=heart04>　手で撫でたら、ビクンって反応して……<emoji=heart04>　おち○ちん、先走り液が沢山でヌルヌルじゃないですか……<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "閃"
+# 「んっ……<emoji=heart04>　素股だけなのに、気持ち良かったんですか……？　これだけ濡れてたら、もう挿れちゃっても……あんっ<emoji=heart04>　ビクンって大きく反応して<emoji=heart04>」
+line = "「んっ……<emoji=heart04>　素股だけなのに、気持ち良かったんですか……？　これだけ濡れてたら、もう挿れちゃっても……あんっ<emoji=heart04>　ビクンって大きく反応して<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "閃"
+# 「はあぁ……あそこで……おま○こでするの、期待しちゃってるんですか……？　ふふっ<emoji=heart04>」
+line = "「はあぁ……あそこで……おま○こでするの、期待しちゃってるんですか……？　ふふっ<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "閃"
+# 「んっ<emoji=heart04>　ほら、おま○この穴は、ここです……<emoji=heart04>　先っぽに当たっているの、分かりますか……？」
+line = "「んっ<emoji=heart04>　ほら、おま○この穴は、ここです……<emoji=heart04>　先っぽに当たっているの、分かりますか……？」"
+
+[[dialogue]]
+speaker = "閃"
+# 「会長さんのおち○ちんが卑猥なせいで、愛液が溢れて、来ちゃってます……はぁん<emoji=heart04>」
+line = "「会長さんのおち○ちんが卑猥なせいで、愛液が溢れて、来ちゃってます……はぁん<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "閃"
+# 「お互いぬるぬるで、ちょっと先っぽ擦り付けるだけで凄い……ふあぁ<emoji=heart04>　これがもし中に来たりしたら……んんっ<emoji=heart04>」
+line = "「お互いぬるぬるで、ちょっと先っぽ擦り付けるだけで凄い……ふあぁ<emoji=heart04>　これがもし中に来たりしたら……んんっ<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "閃"
+# 「ほら、会長さん……<emoji=heart04>　後は腰を突き出すだけで――」
+line = "「ほら、会長さん……<emoji=heart04>　後は腰を突き出すだけで――」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+# 「クロト、遅いわね～？　屋敷の中で迷っちゃってるのかしら？　それとも……実は部屋のどこかに隠れているとか？」
+line = "「クロト、遅いわね～？　屋敷の中で迷っちゃってるのかしら？　それとも……実は部屋のどこかに隠れているとか？」"
+
+[[dialogue]]
+speaker = "クロト"
+# 「……！」
+line = "「……！」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+# 「隠れて私を驚かそうと……ありえるわね！　探してみようかしら？　まず１番怪しいのは、何といってもクローゼットよね！」
+line = "「隠れて私を驚かそうと……ありえるわね！　探してみようかしら？　まず１番怪しいのは、何といってもクローゼットよね！」"
+
+[[dialogue]]
+speaker = "閃"
+# 「んんっ……<emoji=heart04>」
+line = "「んんっ……<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "クロト"
+# 「ちょっ……閃……？　この状況で何で挿れようと……ヴィーナスがこっちに近付いて来てるのにっ……待っ――」
+line = "「ちょっ……閃……？　この状況で何で挿れようと……ヴィーナスがこっちに近付いて来てるのにっ……待っ――」"
+
+[[dialogue]]
+speaker = "閃"
+# 「ふうぅ……んんっ<emoji=heart04>　あっ……んんん～～～～～～っ<emoji=heart04><emoji=heart04><emoji=heart04>」
+line = "「ふうぅ……んんっ<emoji=heart04>　あっ……んんん～～～～～～っ<emoji=heart04><emoji=heart04><emoji=heart04>」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+# 「さ～て、クロトはクローゼットの中に居るかしら？　観念して出て来るなら今の内よ～？」
+line = "「さ～て、クロトはクローゼットの中に居るかしら？　観念して出て来るなら今の内よ～？」"
+
+[[dialogue]]
+speaker = "クロト"
+# （もうダメだ……！）
+line = "（もうダメだ……！）"
+
+[[dialogue]]
+speaker = "閃"
+# （いいえ……大丈夫ですよ<emoji=heart04>）
+line = "（いいえ……大丈夫ですよ<emoji=heart04>）"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+# 「ああ、でもよく考えたら、隠れているとかそんなわけないか。だって――」
+line = "「ああ、でもよく考えたら、隠れているとかそんなわけないか。だって――」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+# 「部屋の中に隠れているなら、護衛してくれているセンちゃんが、気付かないはずないもの♪」
+line = "「部屋の中に隠れているなら、護衛してくれているセンちゃんが、気付かないはずないもの♪」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+# 「だからきっと、屋敷の中が広いから迷っているのね。これは迎えに行かないと！」
+line = "「だからきっと、屋敷の中が広いから迷っているのね。これは迎えに行かないと！」"
+
+[[dialogue]]
+speaker = "クロト"
+# 「た、助かった……」
+line = "「た、助かった……」"
+
+[[dialogue]]
+speaker = "閃"
+# 「ね？　大丈夫だったでしょう……んんっ<emoji=heart04>　あっ……あぁんっ<emoji=heart04><emoji=heart04>」
+line = "「ね？　大丈夫だったでしょう……んんっ<emoji=heart04>　あっ……あぁんっ<emoji=heart04><emoji=heart04>」"
+
+[[dialogue]]
+speaker = "閃"
+# 「はあぁ<emoji=heart04>　ふぅん<emoji=heart04>　あっ<emoji=heart04>　おち○ちん凄い<emoji=heart04>　はっ……あんっ<emoji=heart04>　中押し広げられてぇ……はぁんっ<emoji=heart04>　おま○こ、会長さんの形に変わっちゃいます……あぁん<emoji=heart04>」
+line = "「はあぁ<emoji=heart04>　ふぅん<emoji=heart04>　あっ<emoji=heart04>　おち○ちん凄い<emoji=heart04>　はっ……あんっ<emoji=heart04>　中押し広げられてぇ……はぁんっ<emoji=heart04>　おま○こ、会長さんの形に変わっちゃいます……あぁん<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "閃"
+# 「何でバレないと分かったのか、ですか？　はぅん<emoji=heart04>　『予測の星眼』が、ありますから……あんっ<emoji=heart04>　お嬢様がクローゼットを開けない未来は、見えていたんです……はぁんっ<emoji=heart04>」
+line = "「何でバレないと分かったのか、ですか？　はぅん<emoji=heart04>　『予測の星眼』が、ありますから……あんっ<emoji=heart04>　お嬢様がクローゼットを開けない未来は、見えていたんです……はぁんっ<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "閃"
+# 「でも、お嬢様は最初から私に、気付いていたのかもしれませんけど……んっ<emoji=heart04>　会長さんを部屋に呼んだのも、もしかしたら……あっ<emoji=heart04>　ふあぁんっ<emoji=heart04>」
+line = "「でも、お嬢様は最初から私に、気付いていたのかもしれませんけど……んっ<emoji=heart04>　会長さんを部屋に呼んだのも、もしかしたら……あっ<emoji=heart04>　ふあぁんっ<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "閃"
+# 「とにかくお嬢様はしばらく戻って来ないよう、ですからっ……んあぁっ<emoji=heart04>　その間に性欲処理を……ふあぁっ<emoji=heart04>　初めてなのに、気持ちいい……ふあぁんっ<emoji=heart04>」
+line = "「とにかくお嬢様はしばらく戻って来ないよう、ですからっ……んあぁっ<emoji=heart04>　その間に性欲処理を……ふあぁっ<emoji=heart04>　初めてなのに、気持ちいい……ふあぁんっ<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "閃"
+# 「んっ<emoji=heart04>　そう、ですよ？　あんっ<emoji=heart04>　セックスは今日が初めて<emoji=heart04>　会長さんに、処女を破ってもらったんです<emoji=heart04>　あっ<emoji=heart04>　はあぁ……おち○ちんのカリ凄い<emoji=heart04>　んあぁっ<emoji=heart04>」
+line = "「んっ<emoji=heart04>　そう、ですよ？　あんっ<emoji=heart04>　セックスは今日が初めて<emoji=heart04>　会長さんに、処女を破ってもらったんです<emoji=heart04>　あっ<emoji=heart04>　はあぁ……おち○ちんのカリ凄い<emoji=heart04>　んあぁっ<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "閃"
+# 「別に何も、問題ないですっ……んはぁ<emoji=heart04>　あんっ<emoji=heart04>　初めてでも、全然痛くないですし<emoji=heart04>　むしろ……ふあぁっ<emoji=heart04>」
+line = "「別に何も、問題ないですっ……んはぁ<emoji=heart04>　あんっ<emoji=heart04>　初めてでも、全然痛くないですし<emoji=heart04>　むしろ……ふあぁっ<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "閃"
+# 「だから会長さんも、もっと腰を振れば、いいんです<emoji=heart04>　あっ<emoji=heart04>　はぁんっ……<emoji=heart04>　んんっ<emoji=heart04>　ふうぅっ……<emoji=heart04>　あっ<emoji=heart04>　はあぁ……んあぁっ<emoji=heart04>」
+line = "「だから会長さんも、もっと腰を振れば、いいんです<emoji=heart04>　あっ<emoji=heart04>　はぁんっ……<emoji=heart04>　んんっ<emoji=heart04>　ふうぅっ……<emoji=heart04>　あっ<emoji=heart04>　はあぁ……んあぁっ<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "閃"
+# 「ほら……こんなのは、どうですか？　んっ<emoji=heart04>　腰を振る時に、少しグラインドさせて……んあぁっ<emoji=heart04>」
+line = "「ほら……こんなのは、どうですか？　んっ<emoji=heart04>　腰を振る時に、少しグラインドさせて……んあぁっ<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "閃"
+# 「おち○ちん、ビクビクしてますよ？　はあぁ<emoji=heart04>　気持ちいいんですか？　んふっ……<emoji=heart04>」
+line = "「おち○ちん、ビクビクしてますよ？　はあぁ<emoji=heart04>　気持ちいいんですか？　んふっ……<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "閃"
+# 「はぁんっ<emoji=heart04>　お嬢様にぶつけるはずだった性欲は……んんっ<emoji=heart04>　私が全部、受け止めますから……<emoji=heart04>　あんっ<emoji=heart04>　はあぁ……そこ気持ちいい……ふあぁんっ<emoji=heart04>」
+line = "「はぁんっ<emoji=heart04>　お嬢様にぶつけるはずだった性欲は……んんっ<emoji=heart04>　私が全部、受け止めますから……<emoji=heart04>　あんっ<emoji=heart04>　はあぁ……そこ気持ちいい……ふあぁんっ<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "閃"
+# 「ふうぅ……<emoji=heart04>　会長さんはとにかく、我慢せずに……私の中で気持ち良くなっていれば、いいんです。んあぁんっ<emoji=heart04>　お嬢様を守るのが、私の役目なんですから<emoji=heart04>　はあぁんっ<emoji=heart04>」
+line = "「ふうぅ……<emoji=heart04>　会長さんはとにかく、我慢せずに……私の中で気持ち良くなっていれば、いいんです。んあぁんっ<emoji=heart04>　お嬢様を守るのが、私の役目なんですから<emoji=heart04>　はあぁんっ<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "閃"
+# 「……お嬢様に手を出す気はない？　んっ<emoji=heart04>　そんなこと言っても、もし迫られたりしたら、どうなるか分からないじゃないですか……はあぁ<emoji=heart04>」
+line = "「……お嬢様に手を出す気はない？　んっ<emoji=heart04>　そんなこと言っても、もし迫られたりしたら、どうなるか分からないじゃないですか……はあぁ<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "閃"
+# 「ふうぅ……お嬢様は、魅力的な女性なんですから……あんっ<emoji=heart04>　私に迫られて、エッチしちゃう会長さんが……あんっ<emoji=heart04>」
+line = "「ふうぅ……お嬢様は、魅力的な女性なんですから……あんっ<emoji=heart04>　私に迫られて、エッチしちゃう会長さんが……あんっ<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "閃"
+# 「お嬢様にムラムラしないなんて、信用出来ないです……はあぁ……<emoji=heart04>」
+line = "「お嬢様にムラムラしないなんて、信用出来ないです……はあぁ……<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "閃"
+# 「お嬢様の部屋なのに、こんなおち○ちん大きくしてる癖に……<emoji=heart04>　あっ<emoji=heart04>　ふあぁっ<emoji=heart04>　はあぁ……んっ<emoji=heart04>　あんっ<emoji=heart04>　ふうぅ……んっ<emoji=heart04>　あっ<emoji=heart04>　ふあぁっ……あぁんっ<emoji=heart04>」
+line = "「お嬢様の部屋なのに、こんなおち○ちん大きくしてる癖に……<emoji=heart04>　あっ<emoji=heart04>　ふあぁっ<emoji=heart04>　はあぁ……んっ<emoji=heart04>　あんっ<emoji=heart04>　ふうぅ……んっ<emoji=heart04>　あっ<emoji=heart04>　ふあぁっ……あぁんっ<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "クロト"
+# 「もしかして閃、ヴィーナスに嫉妬してる……？」
+line = "「もしかして閃、ヴィーナスに嫉妬してる……？」"
+
+[[dialogue]]
+speaker = "閃"
+# 「んっ<emoji=heart04>　違いますっ……私が好きなのは、ヴィーナスお嬢様で……あっ<emoji=heart04>　お嬢様と仲良くしてる、会長さんに……んあぁっ<emoji=heart04>　嫉妬してるんです……んふぅっ<emoji=heart04>」
+line = "「んっ<emoji=heart04>　違いますっ……私が好きなのは、ヴィーナスお嬢様で……あっ<emoji=heart04>　お嬢様と仲良くしてる、会長さんに……んあぁっ<emoji=heart04>　嫉妬してるんです……んふぅっ<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "クロト"
+# 「俺に嫉妬してるのに、俺とセックスしちゃうの？」
+line = "「俺に嫉妬してるのに、俺とセックスしちゃうの？」"
+
+[[dialogue]]
+speaker = "閃"
+# 「それはだから……お嬢様に手を出させない為で<emoji=heart04>　ふあぁっ<emoji=heart04>　会長さんじゃなく、お嬢様に嫉妬とかそんな……あんっ<emoji=heart04>　あり得ませんから……！」
+line = "「それはだから……お嬢様に手を出させない為で<emoji=heart04>　ふあぁっ<emoji=heart04>　会長さんじゃなく、お嬢様に嫉妬とかそんな……あんっ<emoji=heart04>　あり得ませんから……！」"
+
+[[dialogue]]
+speaker = "クロト"
+# 「でも……初めての男は俺でいいって、思ってくれたんだよね？」
+line = "「でも……初めての男は俺でいいって、思ってくれたんだよね？」"
+
+[[dialogue]]
+speaker = "閃"
+# 「そ、それは……あっ！？　あぁんっ<emoji=heart04>　会長さん、首筋にキスしちゃダメです……んあぁっ<emoji=heart04>　そんな何度も……はぁん<emoji=heart04>　背筋ゾクゾクしちゃいます……ふうぅ<emoji=heart04>」
+line = "「そ、それは……あっ！？　あぁんっ<emoji=heart04>　会長さん、首筋にキスしちゃダメです……んあぁっ<emoji=heart04>　そんな何度も……はぁん<emoji=heart04>　背筋ゾクゾクしちゃいます……ふうぅ<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "クロト"
+# 「っ……俺が好きなのは、ヴィーナスじゃなくて閃だ。……閃が相手だから、我慢できなかったんだっ」
+line = "「っ……俺が好きなのは、ヴィーナスじゃなくて閃だ。……閃が相手だから、我慢できなかったんだっ」"
+
+[[dialogue]]
+speaker = "閃"
+# 「え！？　あぁんっ<emoji=heart04>　そんな……ふあぁっ<emoji=heart04>　でも、私にお嬢様に勝る魅力なんて……んんっ<emoji=heart04>　女として選ぶなら、お嬢様の方が……あぁんっ<emoji=heart04>」
+line = "「え！？　あぁんっ<emoji=heart04>　そんな……ふあぁっ<emoji=heart04>　でも、私にお嬢様に勝る魅力なんて……んんっ<emoji=heart04>　女として選ぶなら、お嬢様の方が……あぁんっ<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "閃"
+# 「ふあぁっ<emoji=heart04>　決めたって、会長さん……いったい何を……あんっ<emoji=heart04>　あっ、奥突いちゃ……はあぁんっ<emoji=heart04>　そんなとこ擦っちゃ……ふあぁっ、ダメぇ<emoji=heart04>」
+line = "「ふあぁっ<emoji=heart04>　決めたって、会長さん……いったい何を……あんっ<emoji=heart04>　あっ、奥突いちゃ……はあぁんっ<emoji=heart04>　そんなとこ擦っちゃ……ふあぁっ、ダメぇ<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "クロト"
+# 「俺は……閃を孕ませて、ヴィーナスから寝取る！」
+line = "「俺は……閃を孕ませて、ヴィーナスから寝取る！」"
+
+[[dialogue]]
+speaker = "閃"
+# 「なっ！？　ね、寝取る！？　いきなり何でそんなこと……あっ、ふあぁっ<emoji=heart04>」
+line = "「なっ！？　ね、寝取る！？　いきなり何でそんなこと……あっ、ふあぁっ<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "閃"
+# 「私はお嬢様の護衛で……あっ、ダメ、今そこ突いちゃ……はあぁんっ<emoji=heart04>　頭の中、とろけちゃいますぅ<emoji=heart04>　あんっ、はぁんっ<emoji=heart04>」
+line = "「私はお嬢様の護衛で……あっ、ダメ、今そこ突いちゃ……はあぁんっ<emoji=heart04>　頭の中、とろけちゃいますぅ<emoji=heart04>　あんっ、はぁんっ<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "クロト"
+# 「俺が孕ませたい女は、ヴィーナスじゃなくて閃だ。だから閃を孕ませる。そして……ヴィーナスから寝取って、俺のことを好きだって言わせてみせる！」
+line = "「俺が孕ませたい女は、ヴィーナスじゃなくて閃だ。だから閃を孕ませる。そして……ヴィーナスから寝取って、俺のことを好きだって言わせてみせる！」"
+
+[[dialogue]]
+speaker = "閃"
+# 「そ、そんな……はあぁっ<emoji=heart04>　そんなこと……ふうぅ<emoji=heart04>　言われたら……あぁんっ<emoji=heart04>　お、おま○こ勝手に反応して、会長さんのおち○ちん、締め付けちゃいますぅ<emoji=heart04>」
+line = "「そ、そんな……はあぁっ<emoji=heart04>　そんなこと……ふうぅ<emoji=heart04>　言われたら……あぁんっ<emoji=heart04>　お、おま○こ勝手に反応して、会長さんのおち○ちん、締め付けちゃいますぅ<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "閃"
+# 「子宮口降りて来ちゃって、種付け体勢に入って……あっ……あんっ<emoji=heart04>　会長さん、ダメぇ……ふあぁっ<emoji=heart04>」
+line = "「子宮口降りて来ちゃって、種付け体勢に入って……あっ……あんっ<emoji=heart04>　会長さん、ダメぇ……ふあぁっ<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "閃"
+# 「あんっ<emoji=heart04>　おち○ちんで奥キスしちゃ……はあぁん<emoji=heart04>　子宮口開いちゃう<emoji=heart04>　あっ……んんっ<emoji=heart04>」
+line = "「あんっ<emoji=heart04>　おち○ちんで奥キスしちゃ……はあぁん<emoji=heart04>　子宮口開いちゃう<emoji=heart04>　あっ……んんっ<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "閃"
+# 「会長さんの孕ませ精子求めて、おち○ちんの先っぽに、ちゅっちゅって吸い付いちゃ……んあぁっ<emoji=heart04>」
+line = "「会長さんの孕ませ精子求めて、おち○ちんの先っぽに、ちゅっちゅって吸い付いちゃ……んあぁっ<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "クロト"
+# 「っ……閃！」
+line = "「っ……閃！」"
+
+[[dialogue]]
+speaker = "閃"
+# 「あっ<emoji=heart04>　ダメ、会長さん<emoji=heart04>　待って――あっ<emoji=heart04><emoji=heart04><emoji=heart04>」
+line = "「あっ<emoji=heart04>　ダメ、会長さん<emoji=heart04>　待って――あっ<emoji=heart04><emoji=heart04><emoji=heart04>」"
+
+[[dialogue]]
+speaker = "閃"
+# 「ふあああぁぁぁ～～～～～～っ<emoji=heart04><emoji=heart04><emoji=heart04>　ダメダメ、そんな激しくしちゃ<emoji=heart04>　はああぁぁんっ<emoji=heart04>」
+line = "「ふあああぁぁぁ～～～～～～っ<emoji=heart04><emoji=heart04><emoji=heart04>　ダメダメ、そんな激しくしちゃ<emoji=heart04>　はああぁぁんっ<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "閃"
+# 「あっ、あっ、気持ちいいっ、ふあぁぁっ<emoji=heart04>　奥っ<emoji=heart04>　奥激しっ<emoji=heart04>　あっ、あっ、あっ、んああぁんっ<emoji=heart04>」
+line = "「あっ、あっ、気持ちいいっ、ふあぁぁっ<emoji=heart04>　奥っ<emoji=heart04>　奥激しっ<emoji=heart04>　あっ、あっ、あっ、んああぁんっ<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "閃"
+# 「はあぁっ<emoji=heart04>　おち○ちん凄いっ<emoji=heart04>　あっ、あっ、あっ<emoji=heart04>　気持ちいいっ<emoji=heart04>　んっ、あっ、あっ、はっ、はぁっ、ふああぁんっ<emoji=heart04>　あっ、あんっ<emoji=heart04>　はああぁんっ<emoji=heart04>」
+line = "「はあぁっ<emoji=heart04>　おち○ちん凄いっ<emoji=heart04>　あっ、あっ、あっ<emoji=heart04>　気持ちいいっ<emoji=heart04>　んっ、あっ、あっ、はっ、はぁっ、ふああぁんっ<emoji=heart04>　あっ、あんっ<emoji=heart04>　はああぁんっ<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "閃"
+# 「会長さん<emoji=heart04>　あっ、あっ<emoji=heart04>　ダメ、ダメです<emoji=heart04>　あんっ、んあぁっ、ふああぁぁっ<emoji=heart04>」
+line = "「会長さん<emoji=heart04>　あっ、あっ<emoji=heart04>　ダメ、ダメです<emoji=heart04>　あんっ、んあぁっ、ふああぁぁっ<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "閃"
+# 「孕ませるなんてぇ<emoji=heart04>　やっ、あっ、いい<emoji=heart04>　はあぁんっ<emoji=heart04>　そこっ、あぁんっ<emoji=heart04>　ふああぁんっ<emoji=heart04>」
+line = "「孕ませるなんてぇ<emoji=heart04>　やっ、あっ、いい<emoji=heart04>　はあぁんっ<emoji=heart04>　そこっ、あぁんっ<emoji=heart04>　ふああぁんっ<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "閃"
+# 「あっ、あんっ<emoji=heart04>　私にはお嬢様がぁ<emoji=heart04>　はぁっ、はぁっ、あぁんっ<emoji=heart04>　お嬢様のメイドなのにぃ<emoji=heart04>　あっ、あっ、ふあぁっ<emoji=heart04>　気持ちいい<emoji=heart04>　はあぁっ、奥っ<emoji=heart04>　んあぁぁんっ<emoji=heart04>」
+line = "「あっ、あんっ<emoji=heart04>　私にはお嬢様がぁ<emoji=heart04>　はぁっ、はぁっ、あぁんっ<emoji=heart04>　お嬢様のメイドなのにぃ<emoji=heart04>　あっ、あっ、ふあぁっ<emoji=heart04>　気持ちいい<emoji=heart04>　はあぁっ、奥っ<emoji=heart04>　んあぁぁんっ<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "閃"
+# 「あぁん<emoji=heart04>　耳元でそんな、ふあぁっ<emoji=heart04>　何度も好きって囁いちゃダメぇ<emoji=heart04>」
+line = "「あぁん<emoji=heart04>　耳元でそんな、ふあぁっ<emoji=heart04>　何度も好きって囁いちゃダメぇ<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "閃"
+# 「はあぁんっ<emoji=heart04>　おま○こキュンって、あっ、あっ<emoji=heart04>　感じちゃいますぅ<emoji=heart04>　あっ、あっ、はああぁんっ<emoji=heart04>」
+line = "「はあぁんっ<emoji=heart04>　おま○こキュンって、あっ、あっ<emoji=heart04>　感じちゃいますぅ<emoji=heart04>　あっ、あっ、はああぁんっ<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "閃"
+# 「あっ、あっ<emoji=heart04>　おま○こ気持ちいい<emoji=heart04>　ふああぁぁぁ<emoji=heart04>　会長さんのおち○ちん、逞しくて、あぁんっ<emoji=heart04>　凄く気持ちいいのぉ<emoji=heart04>　奥っ、奥凄い<emoji=heart04>　はああぁぁんっ<emoji=heart04>」
+line = "「あっ、あっ<emoji=heart04>　おま○こ気持ちいい<emoji=heart04>　ふああぁぁぁ<emoji=heart04>　会長さんのおち○ちん、逞しくて、あぁんっ<emoji=heart04>　凄く気持ちいいのぉ<emoji=heart04>　奥っ、奥凄い<emoji=heart04>　はああぁぁんっ<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "閃"
+# 「か、会長さんとのセックス、ああぁんっ<emoji=heart04>　気持ち良くて、ふあぁぁっ<emoji=heart04>　忘れられなくなっちゃう<emoji=heart04>　あっ、あっ<emoji=heart04>　癖になっちゃうぅ<emoji=heart04>　そこっ、ダメっ<emoji=heart04>　ふああぁぁっ<emoji=heart04>」
+line = "「か、会長さんとのセックス、ああぁんっ<emoji=heart04>　気持ち良くて、ふあぁぁっ<emoji=heart04>　忘れられなくなっちゃう<emoji=heart04>　あっ、あっ<emoji=heart04>　癖になっちゃうぅ<emoji=heart04>　そこっ、ダメっ<emoji=heart04>　ふああぁぁっ<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "閃"
+# 「このままじゃ本当に寝取られちゃう<emoji=heart04>　あっ、あんっ、んああぁっ<emoji=heart04>　おち○ちん凄くて、はぁっ、はぁっ、あん<emoji=heart04>　会長さんの女にさせられちゃうぅん<emoji=heart04>　はあぁぁんっ<emoji=heart04>」
+line = "「このままじゃ本当に寝取られちゃう<emoji=heart04>　あっ、あんっ、んああぁっ<emoji=heart04>　おち○ちん凄くて、はぁっ、はぁっ、あん<emoji=heart04>　会長さんの女にさせられちゃうぅん<emoji=heart04>　はあぁぁんっ<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "閃"
+# 「あっ、あっ<emoji=heart04>　ダメ<emoji=heart04>　気持ち良いの来る<emoji=heart04>　ふああぁぁぁ<emoji=heart04>　知らない大きなアクメ来るぅ<emoji=heart04>　ふぅっ、ふぅっ、ああぁんっ<emoji=heart04>　おま○こ降参しちゃいますぅ<emoji=heart04>」
+line = "「あっ、あっ<emoji=heart04>　ダメ<emoji=heart04>　気持ち良いの来る<emoji=heart04>　ふああぁぁぁ<emoji=heart04>　知らない大きなアクメ来るぅ<emoji=heart04>　ふぅっ、ふぅっ、ああぁんっ<emoji=heart04>　おま○こ降参しちゃいますぅ<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "クロト"
+# 「閃、俺もう……！」
+line = "「閃、俺もう……！」"
+
+[[dialogue]]
+speaker = "閃"
+# 「あああっ<emoji=heart04>　ダメダメ、会長さん<emoji=heart04>　そんな奥突いちゃダメぇ<emoji=heart04>　あっ、あっ<emoji=heart04>　アクメ来る<emoji=heart04>　あっ、はっ、はああぁんっ<emoji=heart04>　凄い勢いで来ちゃいますからぁ<emoji=heart04>」
+line = "「あああっ<emoji=heart04>　ダメダメ、会長さん<emoji=heart04>　そんな奥突いちゃダメぇ<emoji=heart04>　あっ、あっ<emoji=heart04>　アクメ来る<emoji=heart04>　あっ、はっ、はああぁんっ<emoji=heart04>　凄い勢いで来ちゃいますからぁ<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "閃"
+# 「おち○ちん<emoji=heart04>　おち○ちん膨らんでる<emoji=heart04>　ダメダメダメぇ<emoji=heart04>　いま射精されたら、堕ちる、堕ちちゃうぅ<emoji=heart04>　あっ、あっ、ふあああっ<emoji=heart04>」
+line = "「おち○ちん<emoji=heart04>　おち○ちん膨らんでる<emoji=heart04>　ダメダメダメぇ<emoji=heart04>　いま射精されたら、堕ちる、堕ちちゃうぅ<emoji=heart04>　あっ、あっ、ふあああっ<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "閃"
+# 「あっ<emoji=heart04><emoji=heart04><emoji=heart04>　待って待って、来るくるくる来る<emoji=heart04>　来ちゃう<emoji=heart04>　イっちゃいます<emoji=heart04>」
+line = "「あっ<emoji=heart04><emoji=heart04><emoji=heart04>　待って待って、来るくるくる来る<emoji=heart04>　来ちゃう<emoji=heart04>　イっちゃいます<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "閃"
+# 「ダメダメダメ、イク<emoji=heart04>　あっあっあっ<emoji=heart04>　イクイクイク――」
+line = "「ダメダメダメ、イク<emoji=heart04>　あっあっあっ<emoji=heart04>　イクイクイク――」"
+
+[[dialogue]]
+speaker = "閃"
+# 「っ……ふあああああああああっ<emoji=heart04><emoji=heart04><emoji=heart04>　イックぅぅぅ―――――――――っ<emoji=heart04><emoji=heart04><emoji=heart04>」
+line = "「っ……ふあああああああああっ<emoji=heart04><emoji=heart04><emoji=heart04>　イックぅぅぅ―――――――――っ<emoji=heart04><emoji=heart04><emoji=heart04>」"
+
+[[dialogue]]
+speaker = "閃"
+# 「はあああぁぁぁ<emoji=heart04><emoji=heart04><emoji=heart04>　子宮に会長さんの精子、一杯入って来てますぅ<emoji=heart04><emoji=heart04><emoji=heart04>」
+line = "「はあああぁぁぁ<emoji=heart04><emoji=heart04><emoji=heart04>　子宮に会長さんの精子、一杯入って来てますぅ<emoji=heart04><emoji=heart04><emoji=heart04>」"
+
+[[dialogue]]
+speaker = "閃"
+# 「ふあああぁぁぁ……<emoji=heart04>　射精まだ続いて……お腹の中、熱くて凄い……<emoji=heart04>　はあぁ……<emoji=heart04>」
+line = "「ふあああぁぁぁ……<emoji=heart04>　射精まだ続いて……お腹の中、熱くて凄い……<emoji=heart04>　はあぁ……<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "閃"
+# 「んんっ<emoji=heart04>　はぁっ……はぁっ……射精やっと収まった……<emoji=heart04>　会長さんのおち○ちん、射精量も凄過ぎです……<emoji=heart04>」
+line = "「んんっ<emoji=heart04>　はぁっ……はぁっ……射精やっと収まった……<emoji=heart04>　会長さんのおち○ちん、射精量も凄過ぎです……<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "閃"
+# 「あんっ<emoji=heart04>　おち○ちん抜けちゃ……<emoji=heart04>」
+line = "「あんっ<emoji=heart04>　おち○ちん抜けちゃ……<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "閃"
+# 「んっ……はあぁ<emoji=heart04>　精子、中から溢れて来ちゃいます……<emoji=heart04>　会長さん、出し過ぎです……<emoji=heart04>　本当に１回で孕んじゃいますよ<emoji=heart04>」
+line = "「んっ……はあぁ<emoji=heart04>　精子、中から溢れて来ちゃいます……<emoji=heart04>　会長さん、出し過ぎです……<emoji=heart04>　本当に１回で孕んじゃいますよ<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "閃"
+# 「初めてのセックス、お嬢様の部屋でしちゃいました……<emoji=heart04>　んっ……き、気持ち良かったかなんて、わざわざ聞かないで下さい……<emoji=heart04>」
+line = "「初めてのセックス、お嬢様の部屋でしちゃいました……<emoji=heart04>　んっ……き、気持ち良かったかなんて、わざわざ聞かないで下さい……<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "閃"
+# 「会長さんこそ、どうだったんですか……？　気持ち良かったなら……その、よかったですけど……」
+line = "「会長さんこそ、どうだったんですか……？　気持ち良かったなら……その、よかったですけど……」"
+
+[[dialogue]]
+speaker = "閃"
+# 「えっと……それで……さっき言ったことって、本気なんですか……？」
+line = "「えっと……それで……さっき言ったことって、本気なんですか……？」"
+
+[[dialogue]]
+speaker = "閃"
+# 「は、孕ませたいって……お嬢様から寝取る、って言ったことです」
+line = "「は、孕ませたいって……お嬢様から寝取る、って言ったことです」"
+
+[[dialogue]]
+speaker = "閃"
+# 「本気……そ、そう、ですか……」
+line = "「本気……そ、そう、ですか……」"
+
+[[dialogue]]
+speaker = "閃"
+# 「え？　クローゼットから出る？　あ、ああ、後片付け……そうですよね、ぼーっとしてたら、お嬢様が戻って来ちゃいますし……」
+line = "「え？　クローゼットから出る？　あ、ああ、後片付け……そうですよね、ぼーっとしてたら、お嬢様が戻って来ちゃいますし……」"
+
+[[dialogue]]
+speaker = "閃"
+# 「……あ、あの、会長さん」
+line = "「……あ、あの、会長さん」"
+
+[[dialogue]]
+speaker = "閃"
+# 「少しだけ……いいですか？　顔をちょっと近付けて下さい……そう、それくらいで……」
+line = "「少しだけ……いいですか？　顔をちょっと近付けて下さい……そう、それくらいで……」"
+
+[[dialogue]]
+speaker = "閃"
+# 「んっ……<emoji=heart04>　ちゅっ……<emoji=heart04>」
+line = "「んっ……<emoji=heart04>　ちゅっ……<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "閃"
+# 「えっと……今のは、会長さんの本気に対する、私の返事というか……つまり――」
+line = "「えっと……今のは、会長さんの本気に対する、私の返事というか……つまり――」"
+
+[[dialogue]]
+speaker = "閃"
+# 「私も、会長さんのこと……好き、です<emoji=heart04>」
+line = "「私も、会長さんのこと……好き、です<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "unk"
+# そう言って閃は目を逸らしながら、恥ずかしそうに顔を赤くするのだった。
+line = "そう言って閃は目を逸らしながら、恥ずかしそうに顔を赤くするのだった。"

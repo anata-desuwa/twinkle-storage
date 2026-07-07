@@ -1,0 +1,704 @@
+[[dialogue]]
+speaker = "チナ"
+# 「くらえーーーっ！！」
+line = "「くらえーーーっ！！」"
+
+[[dialogue]]
+speaker = "チナ"
+# 「よし、またアタシの勝ちだな！　これで３連勝だ！」
+line = "「よし、またアタシの勝ちだな！　これで３連勝だ！」"
+
+[[dialogue]]
+speaker = "クロト"
+# 「今度は勝てると思ったのに……。俺の方がやりこんでるはずなのに、チナは強いな」
+line = "「今度は勝てると思ったのに……。俺の方がやりこんでるはずなのに、チナは強いな」"
+
+[[dialogue]]
+speaker = "チナ"
+# 「ははっ、格ゲーはいろいろコツがあるからな。知りたかったら教えてやるぞ」
+line = "「ははっ、格ゲーはいろいろコツがあるからな。知りたかったら教えてやるぞ」"
+
+[[dialogue]]
+speaker = "チナ"
+# 「だけど１０年前のゲームでも、やっぱり面白いもんは面白いもんだな。つい熱中しちまった」
+line = "「だけど１０年前のゲームでも、やっぱり面白いもんは面白いもんだな。つい熱中しちまった」"
+
+[[dialogue]]
+speaker = "クロト"
+# （１０年前……）
+line = "（１０年前……）"
+
+[[dialogue]]
+speaker = "unk"
+# 最新ゲームを昔のゲーム扱いされることにチクッとした胸の痛みを覚えつつ、ゲームを続ける。
+line = "最新ゲームを昔のゲーム扱いされることにチクッとした胸の痛みを覚えつつ、ゲームを続ける。"
+
+[[dialogue]]
+speaker = "unk"
+# だけど……
+line = "だけど……"
+
+[[dialogue]]
+speaker = "チナ"
+# 「ん？　じっとこっち見てどうした？」
+line = "「ん？　じっとこっち見てどうした？」"
+
+[[dialogue]]
+speaker = "unk"
+# 戦いがどうなったとしても、チナはいずれデネブの世界に帰ってしまう。
+line = "戦いがどうなったとしても、チナはいずれデネブの世界に帰ってしまう。"
+
+[[dialogue]]
+speaker = "unk"
+# デネブに会いに行くことができればいいが、そうでなければチナとは二度と会えなくなる。
+line = "デネブに会いに行くことができればいいが、そうでなければチナとは二度と会えなくなる。"
+
+[[dialogue]]
+speaker = "unk"
+# だから俺は──
+line = "だから俺は──"
+
+[[dialogue]]
+speaker = "クロト"
+# 「好きだ、チナ」
+line = "「好きだ、チナ」"
+
+[[dialogue]]
+speaker = "チナ"
+# 「は？」
+line = "「は？」"
+
+[[dialogue]]
+speaker = "チナ"
+# 「…………」
+line = "「…………」"
+
+[[dialogue]]
+speaker = "チナ"
+# 「はぁああああっ！！？　あんた、何言ってるのかわかってんのか！？」
+line = "「はぁああああっ！！？　あんた、何言ってるのかわかってんのか！？」"
+
+[[dialogue]]
+speaker = "チナ"
+# 「アタシとあんたは別の世界の人間だ。それに必要があれば、アタシはまたアルタイルと戦う」
+line = "「アタシとあんたは別の世界の人間だ。それに必要があれば、アタシはまたアルタイルと戦う」"
+
+[[dialogue]]
+speaker = "クロト"
+# 「わかってる。それでも好きだ」
+line = "「わかってる。それでも好きだ」"
+
+[[dialogue]]
+speaker = "チナ"
+# 「……あんた、本当にバカなんだな。そういうとこ、あんたらしいと思うけど」
+line = "「……あんた、本当にバカなんだな。そういうとこ、あんたらしいと思うけど」"
+
+[[dialogue]]
+speaker = "チナ"
+# 「アタシはあんたのこと、嫌いじゃない。アタシだって、その……離れたくないって思ってる」
+line = "「アタシはあんたのこと、嫌いじゃない。アタシだって、その……離れたくないって思ってる」"
+
+[[dialogue]]
+speaker = "チナ"
+# 「だから……」
+line = "「だから……」"
+
+[[dialogue]]
+speaker = "チナ"
+# 「ほら……好きにしろ」
+line = "「ほら……好きにしろ」"
+
+[[dialogue]]
+speaker = "unk"
+# チナが俺のベッドの上で服をはだけ、緊張した顔で俺を見つめる。
+line = "チナが俺のベッドの上で服をはだけ、緊張した顔で俺を見つめる。"
+
+[[dialogue]]
+speaker = "クロト"
+# 「いいのか？」
+line = "「いいのか？」"
+
+[[dialogue]]
+speaker = "チナ"
+# 「アタシはあんたのこと、好きって<b>言えない</b>。<b>言うわけにはいかない</b>。だからせめて……な」
+line = "「アタシはあんたのこと、好きって<b>言えない</b>。<b>言うわけにはいかない</b>。だからせめて……な」"
+
+[[dialogue]]
+speaker = "クロト"
+# 「……わかった」
+line = "「……わかった」"
+
+[[dialogue]]
+speaker = "unk"
+# 俺たちは一時的に共闘関係になったとはいえ、また敵に戻るかもしれない。
+line = "俺たちは一時的に共闘関係になったとはいえ、また敵に戻るかもしれない。"
+
+[[dialogue]]
+speaker = "unk"
+# だからあえて言葉で気持ちを確かめ合うことはせず、ただ体を重ねる。
+line = "だからあえて言葉で気持ちを確かめ合うことはせず、ただ体を重ねる。"
+
+[[dialogue]]
+speaker = "クロト"
+# 「じゃあ触っていくよ」
+line = "「じゃあ触っていくよ」"
+
+[[dialogue]]
+speaker = "unk"
+# 小ぶりで可愛らしいおっぱいに手を伸ばし、そっと愛撫していく。
+line = "小ぶりで可愛らしいおっぱいに手を伸ばし、そっと愛撫していく。"
+
+[[dialogue]]
+speaker = "チナ"
+# 「ん……はぁ……こんな小さな胸、触って嬉しいのか……？」
+line = "「ん……はぁ……こんな小さな胸、触って嬉しいのか……？」"
+
+[[dialogue]]
+speaker = "クロト"
+# 「もちろん。チナのおっぱいだから」
+line = "「もちろん。チナのおっぱいだから」"
+
+[[dialogue]]
+speaker = "チナ"
+# 「っ……バカ……んぁっ……はぁ、は……んん……」
+line = "「っ……バカ……んぁっ……はぁ、は……んん……」"
+
+[[dialogue]]
+speaker = "unk"
+# 指に力を込める度、小さな乳房がふにふにと形を変え、チナが声を漏らしながら震える。
+line = "指に力を込める度、小さな乳房がふにふにと形を変え、チナが声を漏らしながら震える。"
+
+[[dialogue]]
+speaker = "unk"
+# 秘部に視線を向けると、そこから透明な蜜がにじみ出していた。
+line = "秘部に視線を向けると、そこから透明な蜜がにじみ出していた。"
+
+[[dialogue]]
+speaker = "チナ"
+# 「ぅ……あんまりじっと見るなよ……恥ずかしいんだから。魔王だって……あ──」
+line = "「ぅ……あんまりじっと見るなよ……恥ずかしいんだから。魔王だって……あ──」"
+
+[[dialogue]]
+speaker = "unk"
+# チナがペニスの勃起に気付き、目を丸くして俺の股間を凝視する。
+line = "チナがペニスの勃起に気付き、目を丸くして俺の股間を凝視する。"
+
+[[dialogue]]
+speaker = "チナ"
+# 「魔王の、すごくでかい……。これ、いつもこうなってる……わけじゃないんだよな？」
+line = "「魔王の、すごくでかい……。これ、いつもこうなってる……わけじゃないんだよな？」"
+
+[[dialogue]]
+speaker = "クロト"
+# 「ああ、チナの前だからこんなに大きくなってるんだよ」
+line = "「ああ、チナの前だからこんなに大きくなってるんだよ」"
+
+[[dialogue]]
+speaker = "チナ"
+# 「そ、そうか……やっぱり物好きなやつ……」
+line = "「そ、そうか……やっぱり物好きなやつ……」"
+
+[[dialogue]]
+speaker = "unk"
+# 顔を赤くするチナの股間にペニスを添え、もう一度尋ねる。
+line = "顔を赤くするチナの股間にペニスを添え、もう一度尋ねる。"
+
+[[dialogue]]
+speaker = "クロト"
+# 「本当にいいんだな？」
+line = "「本当にいいんだな？」"
+
+[[dialogue]]
+speaker = "チナ"
+# 「何度も言わせるなよ……好きにしろって言ってんだろ」
+line = "「何度も言わせるなよ……好きにしろって言ってんだろ」"
+
+[[dialogue]]
+speaker = "unk"
+# こんな時でも強気な口調を崩さないチナに、彼女らしさを感じる。
+line = "こんな時でも強気な口調を崩さないチナに、彼女らしさを感じる。"
+
+[[dialogue]]
+speaker = "unk"
+# そして亀頭で膣口を押し広げて──
+line = "そして亀頭で膣口を押し広げて──"
+
+[[dialogue]]
+speaker = "チナ"
+# 「くうぅ～～～～～っ……！」
+line = "「くうぅ～～～～～っ……！」"
+
+[[dialogue]]
+speaker = "unk"
+# 小さな体にペニスを力ずくで押し込み、チナの顔が痛みに歪んだ。
+line = "小さな体にペニスを力ずくで押し込み、チナの顔が痛みに歪んだ。"
+
+[[dialogue]]
+speaker = "クロト"
+# 「大丈夫か？」
+line = "「大丈夫か？」"
+
+[[dialogue]]
+speaker = "チナ"
+# 「ふっ……ふぅ……星騎士なんだから、このくらい平気だっての……はぁ……でもあんたもつらそうな顔してないか……？」
+line = "「ふっ……ふぅ……星騎士なんだから、このくらい平気だっての……はぁ……でもあんたもつらそうな顔してないか……？」"
+
+[[dialogue]]
+speaker = "クロト"
+# 「いや、つらいんじゃなくて、チナの中がきつくて気持ちいいんだ」
+line = "「いや、つらいんじゃなくて、チナの中がきつくて気持ちいいんだ」"
+
+[[dialogue]]
+speaker = "チナ"
+# 「そ、そうか……ならいいんだけど」
+line = "「そ、そうか……ならいいんだけど」"
+
+[[dialogue]]
+speaker = "unk"
+# チナの体が小さいせいか、膣壁が強くペニスを締めつけてきて、こうして繋がっているだけでも快感が押し寄せる。
+line = "チナの体が小さいせいか、膣壁が強くペニスを締めつけてきて、こうして繋がっているだけでも快感が押し寄せる。"
+
+[[dialogue]]
+speaker = "unk"
+# それにチナの熱い体温や、蜜の濡れた感触、粘膜の柔らかさも相まって、ペニスがさらに怒張していく。
+line = "それにチナの熱い体温や、蜜の濡れた感触、粘膜の柔らかさも相まって、ペニスがさらに怒張していく。"
+
+[[dialogue]]
+speaker = "チナ"
+# 「んんっ……！？　あんたのが、ビクッてして……んっ……アタシの中で大きくなってる……」
+line = "「んんっ……！？　あんたのが、ビクッてして……んっ……アタシの中で大きくなってる……」"
+
+[[dialogue]]
+speaker = "チナ"
+# 「ふぅ……はぁ……そんなに気持ちいいんなら、我慢しなくていいぞ……」
+line = "「ふぅ……はぁ……そんなに気持ちいいんなら、我慢しなくていいぞ……」"
+
+[[dialogue]]
+speaker = "チナ"
+# 「ん、はぁ……はあぁ……アタシは大丈夫だから、好きに、動けよ……」
+line = "「ん、はぁ……はあぁ……アタシは大丈夫だから、好きに、動けよ……」"
+
+[[dialogue]]
+speaker = "unk"
+# チナの言葉に頷き、様子を窺いながら、腰をゆっくり前後に動かし始める。
+line = "チナの言葉に頷き、様子を窺いながら、腰をゆっくり前後に動かし始める。"
+
+[[dialogue]]
+speaker = "チナ"
+# 「くっ……んっ……はぁ、はぁ……んっ、はっ……はあぁ……」
+line = "「くっ……んっ……はぁ、はぁ……んっ、はっ……はあぁ……」"
+
+[[dialogue]]
+speaker = "チナ"
+# 「ふぅ、はぁ……アタシの中で、動いてる……？　はぁ……はっ……熱くて、大きい……これがあんたの、ち○ぽなんだな……」
+line = "「ふぅ、はぁ……アタシの中で、動いてる……？　はぁ……はっ……熱くて、大きい……これがあんたの、ち○ぽなんだな……」"
+
+[[dialogue]]
+speaker = "チナ"
+# 「んんっ……あんたのち○ぽで、アタシの中、広げられて……はっ、あぁ……あんたの形にされてる……」
+line = "「んんっ……あんたのち○ぽで、アタシの中、広げられて……はっ、あぁ……あんたの形にされてる……」"
+
+[[dialogue]]
+speaker = "チナ"
+# 「はぁ……ふぅ……はぁっ……これがエッチ……なんだな……はっ……はあぁ……」
+line = "「はぁ……ふぅ……はぁっ……これがエッチ……なんだな……はっ……はあぁ……」"
+
+[[dialogue]]
+speaker = "unk"
+# 慣らすようにペニスを小さく動かし、互いの性器を摩擦させていく。
+line = "慣らすようにペニスを小さく動かし、互いの性器を摩擦させていく。"
+
+[[dialogue]]
+speaker = "チナ"
+# 「ふっ……うっ……はぁ……はぁ……あんたのち○ぽと、アタシのあそこが擦れて……はあぁ……」
+line = "「ふっ……うっ……はぁ……はぁ……あんたのち○ぽと、アタシのあそこが擦れて……はあぁ……」"
+
+[[dialogue]]
+speaker = "チナ"
+# 「んはあぁ……あんたのち○ぽ、熱い……はっ……ふああぁっ……あっ、はっ……んんっ……」
+line = "「んはあぁ……あんたのち○ぽ、熱い……はっ……ふああぁっ……あっ、はっ……んんっ……」"
+
+[[dialogue]]
+speaker = "unk"
+# 愛液で濡れた粘膜とペニスが擦れ合う度、甘い快感が走る。
+line = "愛液で濡れた粘膜とペニスが擦れ合う度、甘い快感が走る。"
+
+[[dialogue]]
+speaker = "unk"
+# そしてチナと直接繋がることで感じられる温もりに、言葉にならない感動を覚えた。
+line = "そしてチナと直接繋がることで感じられる温もりに、言葉にならない感動を覚えた。"
+
+[[dialogue]]
+speaker = "クロト"
+# 「くっ……チナの中も熱いよ……」
+line = "「くっ……チナの中も熱いよ……」"
+
+[[dialogue]]
+speaker = "チナ"
+# 「そう、なのか……？　はっ、はぁ……お腹の中で、あんたのを感じて……んぁっ……こんなの、初めて、だ……」
+line = "「そう、なのか……？　はっ、はぁ……お腹の中で、あんたのを感じて……んぁっ……こんなの、初めて、だ……」"
+
+[[dialogue]]
+speaker = "チナ"
+# 「はぁっ……あっ……あんなおっきいのが、ほんとにアタシの中に、入るんだな……んん……」
+line = "「はぁっ……あっ……あんなおっきいのが、ほんとにアタシの中に、入るんだな……んん……」"
+
+[[dialogue]]
+speaker = "unk"
+# ペニスを突き入れると、膣壁に包まれてチナの体温を感じる。
+line = "ペニスを突き入れると、膣壁に包まれてチナの体温を感じる。"
+
+[[dialogue]]
+speaker = "unk"
+# チナの言う通り初めての感触で、深く繋がった実感があった。
+line = "チナの言う通り初めての感触で、深く繋がった実感があった。"
+
+[[dialogue]]
+speaker = "チナ"
+# 「んっ……はぁ……あそこ、変な感じ、する……」
+line = "「んっ……はぁ……あそこ、変な感じ、する……」"
+
+[[dialogue]]
+speaker = "クロト"
+# 「やっぱり痛い？」
+line = "「やっぱり痛い？」"
+
+[[dialogue]]
+speaker = "チナ"
+# 「痛いっていうよりも……はぁ……ジンジン？　いや、ムズムズするような……」
+line = "「痛いっていうよりも……はぁ……ジンジン？　いや、ムズムズするような……」"
+
+[[dialogue]]
+speaker = "unk"
+# チナが快感を感じているのかと思い、前後の動きを少し大きくしてみると──
+line = "チナが快感を感じているのかと思い、前後の動きを少し大きくしてみると──"
+
+[[dialogue]]
+speaker = "チナ"
+# 「んん～～～っ<emoji=heart04>」
+line = "「んん～～～っ<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "チナ"
+# 「ち○ぽで、中、擦られて……はぁっ、ああっ……なんか、感じる……んんっ<emoji=heart04>　ひぁああっ……あっ……ふやあぁっ<emoji=heart04>」
+line = "「ち○ぽで、中、擦られて……はぁっ、ああっ……なんか、感じる……んんっ<emoji=heart04>　ひぁああっ……あっ……ふやあぁっ<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "チナ"
+# 「これが、気持ちいいって、ことなのか……？　はあぁ……あっ……んっ……んんぅ～～っ<emoji=heart04>」
+line = "「これが、気持ちいいって、ことなのか……？　はあぁ……あっ……んっ……んんぅ～～っ<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "unk"
+# チナが確かに快感を覚えていることに安堵し、腰を動かすペースを上げながら、ペニスを膣壁に擦り当てていく。
+line = "チナが確かに快感を覚えていることに安堵し、腰を動かすペースを上げながら、ペニスを膣壁に擦り当てていく。"
+
+[[dialogue]]
+speaker = "チナ"
+# 「ひああぁっ<emoji=heart04>　あっ<emoji=heart04>　んんっ<emoji=heart04>　あんたのち○ぽで、アタシの中、擦れてぇ……はぁっ……ふぅっ……んんっ……<emoji=heart04>」
+line = "「ひああぁっ<emoji=heart04>　あっ<emoji=heart04>　んんっ<emoji=heart04>　あんたのち○ぽで、アタシの中、擦れてぇ……はぁっ……ふぅっ……んんっ……<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "チナ"
+# 「はあぁ……はっ……やっぱり、あんたの、大きい……ひぁっ<emoji=heart04>　あんたのち○ぽで、アタシのお腹、いっぱいになってるっ……」
+line = "「はあぁ……はっ……やっぱり、あんたの、大きい……ひぁっ<emoji=heart04>　あんたのち○ぽで、アタシのお腹、いっぱいになってるっ……」"
+
+[[dialogue]]
+speaker = "unk"
+# ペニスと粘膜が摩擦する度に、チナの体がビクビクと反応し、蜜の量も増していく。
+line = "ペニスと粘膜が摩擦する度に、チナの体がビクビクと反応し、蜜の量も増していく。"
+
+[[dialogue]]
+speaker = "unk"
+# そしてチナともっと繋がりたくて、唇を重ねる。
+line = "そしてチナともっと繋がりたくて、唇を重ねる。"
+
+[[dialogue]]
+speaker = "チナ"
+# 「んんっ──！？　んっ……んちゅっ……ちゅぅっ……<emoji=heart04>」
+line = "「んんっ──！？　んっ……んちゅっ……ちゅぅっ……<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "unk"
+# チナは目を見開いて驚いていたけど、拒むことなく受け入れてくれた。
+line = "チナは目を見開いて驚いていたけど、拒むことなく受け入れてくれた。"
+
+[[dialogue]]
+speaker = "チナ"
+# 「ちゅっ……ちゅる……んふっ……<emoji=heart04>　ちゅる、れろ……んっ、んんっ……んれる、れぇろ……ちゅぷちゅるっ……<emoji=heart04>」
+line = "「ちゅっ……ちゅる……んふっ……<emoji=heart04>　ちゅる、れろ……んっ、んんっ……んれる、れぇろ……ちゅぷちゅるっ……<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "unk"
+# 舌を絡め、互いの唾液を混ぜ合わせると、膣壁もぎゅっと締め付けてくる。
+line = "舌を絡め、互いの唾液を混ぜ合わせると、膣壁もぎゅっと締め付けてくる。"
+
+[[dialogue]]
+speaker = "チナ"
+# 「ちゅるる……んふっ……ふっ……んんっ<emoji=heart04>　んふぁ……ちゅぷっ、ちゅるっ…れるれろ<emoji=heart04>」
+line = "「ちゅるる……んふっ……ふっ……んんっ<emoji=heart04>　んふぁ……ちゅぷっ、ちゅるっ…れるれろ<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "チナ"
+# 「んん……ちゅぷちゅるっ……ぷぁっ……<emoji=heart04>　いきなり、キスしてきやがって……んぁっ……ビックリしたっての……はっ、んっ……<emoji=heart04>」
+line = "「んん……ちゅぷちゅるっ……ぷぁっ……<emoji=heart04>　いきなり、キスしてきやがって……んぁっ……ビックリしたっての……はっ、んっ……<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "unk"
+# 唇が離れると、唾液の糸が垂れて落ちた。
+line = "唇が離れると、唾液の糸が垂れて落ちた。"
+
+[[dialogue]]
+speaker = "unk"
+# 口では怒ったように言うものの、興奮を表すように、秘部から蜜が溢れていた。
+line = "口では怒ったように言うものの、興奮を表すように、秘部から蜜が溢れていた。"
+
+[[dialogue]]
+speaker = "クロト"
+# 「チナのおま○こ、トロトロになってるよ」
+line = "「チナのおま○こ、トロトロになってるよ」"
+
+[[dialogue]]
+speaker = "チナ"
+# 「～～っ<emoji=heart04>　お、おま○こ言うなっての……んはっ、はぁっ……<emoji=heart04>」
+line = "「～～っ<emoji=heart04>　お、おま○こ言うなっての……んはっ、はぁっ……<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "unk"
+# 中がほぐれてきたのか、動きもスムーズになってきた。これなら激しくしても大丈夫そうだ。
+line = "中がほぐれてきたのか、動きもスムーズになってきた。これなら激しくしても大丈夫そうだ。"
+
+[[dialogue]]
+speaker = "unk"
+# それなら──
+line = "それなら──"
+
+[[dialogue]]
+speaker = "チナ"
+# 「ひぁあああっ！？　んぁっ<emoji=heart04>　あっ<emoji=heart04>　ひぃああっ<emoji=heart04>　ち○ぽ、ズンズンって、勢いよく……っ<emoji=heart04>　ふぁっ<emoji=heart04>　ああぁっ<emoji=heart04>」
+line = "「ひぁあああっ！？　んぁっ<emoji=heart04>　あっ<emoji=heart04>　ひぃああっ<emoji=heart04>　ち○ぽ、ズンズンって、勢いよく……っ<emoji=heart04>　ふぁっ<emoji=heart04>　ああぁっ<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "チナ"
+# 「ひやぁあっ<emoji=heart04>　ああっ<emoji=heart04>　んんぁああっ<emoji=heart04>　激し、いっ<emoji=heart04>　ふぁああっ<emoji=heart04>　あぁっ<emoji=heart04>　深いところまで、来てるっ<emoji=heart04>」
+line = "「ひやぁあっ<emoji=heart04>　ああっ<emoji=heart04>　んんぁああっ<emoji=heart04>　激し、いっ<emoji=heart04>　ふぁああっ<emoji=heart04>　あぁっ<emoji=heart04>　深いところまで、来てるっ<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "チナ"
+# 「んんぁっ──はっ──あっ──ひやぁああっ<emoji=heart04>　おま○こズボズボされてっ<emoji=heart04>　ひぁっ<emoji=heart04>　あっ<emoji=heart04>　おっきなち○ぽで、おま○こ、いっぱいにされてるっ<emoji=heart04>」
+line = "「んんぁっ──はっ──あっ──ひやぁああっ<emoji=heart04>　おま○こズボズボされてっ<emoji=heart04>　ひぁっ<emoji=heart04>　あっ<emoji=heart04>　おっきなち○ぽで、おま○こ、いっぱいにされてるっ<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "チナ"
+# 「ふぁあっ<emoji=heart04>　ああっ<emoji=heart04>　あっ<emoji=heart04>　ぁんっ<emoji=heart04>　お腹、熱いぃっ<emoji=heart04>　ひやぁあっ<emoji=heart04>　ひあっ──あっ──んんあぁああっ<emoji=heart04>」
+line = "「ふぁあっ<emoji=heart04>　ああっ<emoji=heart04>　あっ<emoji=heart04>　ぁんっ<emoji=heart04>　お腹、熱いぃっ<emoji=heart04>　ひやぁあっ<emoji=heart04>　ひあっ──あっ──んんあぁああっ<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "unk"
+# 最初は挿入を拒むようにきつかった膣内も、すっかりペニスの形に広がっていた。
+line = "最初は挿入を拒むようにきつかった膣内も、すっかりペニスの形に広がっていた。"
+
+[[dialogue]]
+speaker = "unk"
+# とめどなく溢れる愛液がぐちゅぐちゅと卑猥な音を響かせ、ベッドのシーツに染みを作る。
+line = "とめどなく溢れる愛液がぐちゅぐちゅと卑猥な音を響かせ、ベッドのシーツに染みを作る。"
+
+[[dialogue]]
+speaker = "チナ"
+# 「ふああぁっ<emoji=heart04>　ひやぁっ<emoji=heart04>　ぁんっ<emoji=heart04>　ち○ぽ、奥まで、来てっ<emoji=heart04>　ひやっ<emoji=heart04>　ああぁっ<emoji=heart04>　おま○こ、ぐちゃぐちゃにされてるっ<emoji=heart04>」
+line = "「ふああぁっ<emoji=heart04>　ひやぁっ<emoji=heart04>　ぁんっ<emoji=heart04>　ち○ぽ、奥まで、来てっ<emoji=heart04>　ひやっ<emoji=heart04>　ああぁっ<emoji=heart04>　おま○こ、ぐちゃぐちゃにされてるっ<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "チナ"
+# 「んぁ──あ──あ──あぁああっ<emoji=heart04>　んひぁっ<emoji=heart04>　ああぁっ<emoji=heart04>　ち○ぽ、ズン、ズンって来て、気持ちいいっ<emoji=heart04>」
+line = "「んぁ──あ──あ──あぁああっ<emoji=heart04>　んひぁっ<emoji=heart04>　ああぁっ<emoji=heart04>　ち○ぽ、ズン、ズンって来て、気持ちいいっ<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "unk"
+# 腰を前後に動かしながら、かわいく揺れるおっぱいにまた手を伸ばす。
+line = "腰を前後に動かしながら、かわいく揺れるおっぱいにまた手を伸ばす。"
+
+[[dialogue]]
+speaker = "チナ"
+# 「ひぃんっ！？　何す──んんっ<emoji=heart04>　あっ<emoji=heart04>　乳首、指で、くりくりされて<emoji=heart04>　ひやあぁんっ<emoji=heart04>」
+line = "「ひぃんっ！？　何す──んんっ<emoji=heart04>　あっ<emoji=heart04>　乳首、指で、くりくりされて<emoji=heart04>　ひやあぁんっ<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "unk"
+# 存在を主張するように硬くなった乳首を、きゅっと摘まむ。
+line = "存在を主張するように硬くなった乳首を、きゅっと摘まむ。"
+
+[[dialogue]]
+speaker = "チナ"
+# 「んん～～～～っ<emoji=heart04><emoji=heart04>」
+line = "「んん～～～～っ<emoji=heart04><emoji=heart04>」"
+
+[[dialogue]]
+speaker = "unk"
+# するとチナはガクガクと体を震わせ、声にならない喘ぎを上げた。
+line = "するとチナはガクガクと体を震わせ、声にならない喘ぎを上げた。"
+
+[[dialogue]]
+speaker = "チナ"
+# 「おっぱいで、こんな感じたこと、ない……んんっ<emoji=heart04>　ふぁああっ<emoji=heart04>　はああぁっ<emoji=heart04>　あぁんっ<emoji=heart04>」
+line = "「おっぱいで、こんな感じたこと、ない……んんっ<emoji=heart04>　ふぁああっ<emoji=heart04>　はああぁっ<emoji=heart04>　あぁんっ<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "チナ"
+# 「んはぁっ<emoji=heart04>　あっ<emoji=heart04>　んんっ<emoji=heart04>　おっぱいとおま○こ、一緒に、されてぇっ<emoji=heart04>　はぁはぁっ<emoji=heart04>　変に、なるぅっ<emoji=heart04>」
+line = "「んはぁっ<emoji=heart04>　あっ<emoji=heart04>　んんっ<emoji=heart04>　おっぱいとおま○こ、一緒に、されてぇっ<emoji=heart04>　はぁはぁっ<emoji=heart04>　変に、なるぅっ<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "unk"
+# 乳首を責める度に、ただでさえ狭い膣がさらに収縮し、ペニスをきつく絞った。
+line = "乳首を責める度に、ただでさえ狭い膣がさらに収縮し、ペニスをきつく絞った。"
+
+[[dialogue]]
+speaker = "unk"
+# 強くなる快感に射精欲が増していくのを感じながら、腰の動きを加速させる。
+line = "強くなる快感に射精欲が増していくのを感じながら、腰の動きを加速させる。"
+
+[[dialogue]]
+speaker = "チナ"
+# 「ひぁああっ<emoji=heart04>　ふあっ<emoji=heart04>　ああっ<emoji=heart04>　んんっ<emoji=heart04>　ち○ぽが、奥まで、来てる<emoji=heart04>　おま○こ、熱いぃっ<emoji=heart04>」
+line = "「ひぁああっ<emoji=heart04>　ふあっ<emoji=heart04>　ああっ<emoji=heart04>　んんっ<emoji=heart04>　ち○ぽが、奥まで、来てる<emoji=heart04>　おま○こ、熱いぃっ<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "unk"
+# そして亀頭が子宮口に届いて──
+line = "そして亀頭が子宮口に届いて──"
+
+[[dialogue]]
+speaker = "チナ"
+# 「ふあああああああぁっ<emoji=heart04><emoji=heart04><emoji=heart04>」
+line = "「ふあああああああぁっ<emoji=heart04><emoji=heart04><emoji=heart04>」"
+
+[[dialogue]]
+speaker = "チナ"
+# 「なんだ、これっ……？　ち○ぽが、アタシの奥に……んんんっ<emoji=heart04>　んぁ<emoji=heart04>　んんっ<emoji=heart04>　ち○ぽが当たる度に、頭、真っ白になるっ<emoji=heart04>」
+line = "「なんだ、これっ……？　ち○ぽが、アタシの奥に……んんんっ<emoji=heart04>　んぁ<emoji=heart04>　んんっ<emoji=heart04>　ち○ぽが当たる度に、頭、真っ白になるっ<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "チナ"
+# 「ひっ<emoji=heart04>　んんっ<emoji=heart04>　ん～っ<emoji=heart04>　あ、これ、ダメっ<emoji=heart04>　お腹の奥が、きゅってなって<emoji=heart04>　はっ<emoji=heart04>　あっ<emoji=heart04>　なんか、来るっ<emoji=heart04>」
+line = "「ひっ<emoji=heart04>　んんっ<emoji=heart04>　ん～っ<emoji=heart04>　あ、これ、ダメっ<emoji=heart04>　お腹の奥が、きゅってなって<emoji=heart04>　はっ<emoji=heart04>　あっ<emoji=heart04>　なんか、来るっ<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "クロト"
+# 「っ……俺も、もうイキそうだ……！」
+line = "「っ……俺も、もうイキそうだ……！」"
+
+[[dialogue]]
+speaker = "チナ"
+# 「──！　これがイク、ってことなのか……ひぁっ、はあぁっ<emoji=heart04>　アタシ、イキそうなんだな……<emoji=heart04>」
+line = "「──！　これがイク、ってことなのか……ひぁっ、はあぁっ<emoji=heart04>　アタシ、イキそうなんだな……<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "チナ"
+# 「いいぞ……出して……はあぁっ、あっ<emoji=heart04>　あんっ<emoji=heart04>　アタシの中に、あんたの……出してくれ……ふはぁっ、はっ、ああぁっ<emoji=heart04>」
+line = "「いいぞ……出して……はあぁっ、あっ<emoji=heart04>　あんっ<emoji=heart04>　アタシの中に、あんたの……出してくれ……ふはぁっ、はっ、ああぁっ<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "unk"
+# ラストスパートをかけ、下半身を打ち付けるように腰を動かす。
+line = "ラストスパートをかけ、下半身を打ち付けるように腰を動かす。"
+
+[[dialogue]]
+speaker = "チナ"
+# 「んんぁあっ──あっ──あっ──あぁあああっ<emoji=heart04>　激しっ、いっ<emoji=heart04>　おま○こ、壊れそうっ<emoji=heart04>　ふぁああっ<emoji=heart04>　ち○ぽ、奥に、何度もぶつかって<emoji=heart04>　ひぁっ、ああぁんっ<emoji=heart04>」
+line = "「んんぁあっ──あっ──あっ──あぁあああっ<emoji=heart04>　激しっ、いっ<emoji=heart04>　おま○こ、壊れそうっ<emoji=heart04>　ふぁああっ<emoji=heart04>　ち○ぽ、奥に、何度もぶつかって<emoji=heart04>　ひぁっ、ああぁんっ<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "チナ"
+# 「ふぁっ<emoji=heart04>　あっ<emoji=heart04>　あぁんっ<emoji=heart04>　お腹の奥、きゅってして、イキそう<emoji=heart04>　ああっ<emoji=heart04>　おま○こイクっ<emoji=heart04>　イクぅっ<emoji=heart04>」
+line = "「ふぁっ<emoji=heart04>　あっ<emoji=heart04>　あぁんっ<emoji=heart04>　お腹の奥、きゅってして、イキそう<emoji=heart04>　ああっ<emoji=heart04>　おま○こイクっ<emoji=heart04>　イクぅっ<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "チナ"
+# 「ひぃあっ<emoji=heart04>　あっ<emoji=heart04>　んぁあっ<emoji=heart04>　あ──あ──あ──イッちゃうぅっ<emoji=heart04><emoji=heart04>」
+line = "「ひぃあっ<emoji=heart04>　あっ<emoji=heart04>　んぁあっ<emoji=heart04>　あ──あ──あ──イッちゃうぅっ<emoji=heart04><emoji=heart04>」"
+
+[[dialogue]]
+speaker = "チナ"
+# 「ひやぁああ～～～～～～～～っ<emoji=heart04><emoji=heart04><emoji=heart04>」
+line = "「ひやぁああ～～～～～～～～っ<emoji=heart04><emoji=heart04><emoji=heart04>」"
+
+[[dialogue]]
+speaker = "チナ"
+# 「んっ……んんんっ<emoji=heart04>　熱、いっ……<emoji=heart04>　はぁ、はっ……んんっ<emoji=heart04>　はあぁ<emoji=heart04>　んっ<emoji=heart04>　ん～っ<emoji=heart04>」
+line = "「んっ……んんんっ<emoji=heart04>　熱、いっ……<emoji=heart04>　はぁ、はっ……んんっ<emoji=heart04>　はあぁ<emoji=heart04>　んっ<emoji=heart04>　ん～っ<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "unk"
+# ビクビクと体を跳ねさせながら、射精を受け止めるチナ。
+line = "ビクビクと体を跳ねさせながら、射精を受け止めるチナ。"
+
+[[dialogue]]
+speaker = "unk"
+# 絶頂とともに膣がぎゅうっとしがみつくように締め付けてきて、強い快感に包まれながら射精を続ける。
+line = "絶頂とともに膣がぎゅうっとしがみつくように締め付けてきて、強い快感に包まれながら射精を続ける。"
+
+[[dialogue]]
+speaker = "チナ"
+# 「アタシの中で、ち○ぽが、ドクドクって……はあぁ<emoji=heart04>　ふはぁ……はぁ……んっ……<emoji=heart04>」
+line = "「アタシの中で、ち○ぽが、ドクドクって……はあぁ<emoji=heart04>　ふはぁ……はぁ……んっ……<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "チナ"
+# 「んんんっ……<emoji=heart04>　熱いの、まだ、出てる……<emoji=heart04>　アタシの中、いっぱいになるぅ……<emoji=heart04>　んっはぁ……<emoji=heart04>」
+line = "「んんんっ……<emoji=heart04>　熱いの、まだ、出てる……<emoji=heart04>　アタシの中、いっぱいになるぅ……<emoji=heart04>　んっはぁ……<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "チナ"
+# 「はぁ……はあぁ……はぁ、はぁ……」
+line = "「はぁ……はあぁ……はぁ、はぁ……」"
+
+[[dialogue]]
+speaker = "unk"
+# ペニスを引き抜くと、膣口から白い精液がドロリと垂れてくる。
+line = "ペニスを引き抜くと、膣口から白い精液がドロリと垂れてくる。"
+
+[[dialogue]]
+speaker = "unk"
+# 俺とチナが繋がった証だ。
+line = "俺とチナが繋がった証だ。"
+
+[[dialogue]]
+speaker = "チナ"
+# 「はぁ、はぁ……本当に、最後までしちゃったな……」
+line = "「はぁ、はぁ……本当に、最後までしちゃったな……」"
+
+[[dialogue]]
+speaker = "チナ"
+# 「アタシは、デネブを守るためなら死んでもいいと思ってた。……いや、今でもそう思ってる」
+line = "「アタシは、デネブを守るためなら死んでもいいと思ってた。……いや、今でもそう思ってる」"
+
+[[dialogue]]
+speaker = "チナ"
+# 「だから誰かとエッチすることなんかないと思ってたけど……よりにもよって、あんたとすることになるとはな……」
+line = "「だから誰かとエッチすることなんかないと思ってたけど……よりにもよって、あんたとすることになるとはな……」"
+
+[[dialogue]]
+speaker = "クロト"
+# 「後悔してる？」
+line = "「後悔してる？」"
+
+[[dialogue]]
+speaker = "チナ"
+# 「……いいや。してないよ」
+line = "「……いいや。してないよ」"
+
+[[dialogue]]
+speaker = "チナ"
+# 「もしデネブとアルタイルに別れても……あんたのこと、忘れないから」
+line = "「もしデネブとアルタイルに別れても……あんたのこと、忘れないから」"
+
+[[dialogue]]
+speaker = "unk"
+# そう言って寂しそうに笑むチナ。
+line = "そう言って寂しそうに笑むチナ。"
+
+[[dialogue]]
+speaker = "unk"
+# チナがデネブに帰ったとしても、いつか必ず会いに行こうと、心の中で決めたのだった。
+line = "チナがデネブに帰ったとしても、いつか必ず会いに行こうと、心の中で決めたのだった。"
