@@ -27,11 +27,7 @@ for i, filepath in enumerate(toml_files):
             if name in skip_names or name not in name_map:
                 new_lines.append(line)
             else:
-                # speaker = "Japanese" -> speaker_original = "Japanese"\nspeaker_translation = "Korean"
-                indent = line[:len(line) - len(line.lstrip())]
-                prefix = f'speaker_original = "{name}"'
-                suffix = f'{indent}speaker_translation = "{name_map[name]}"'
-                new_lines.append(f'{prefix}\n{suffix}\n')
+                new_lines.append(f'speaker_original = "{name}"\nspeaker_translation = "{name_map[name]}"\n')
                 changed = True
         else:
             new_lines.append(line)
