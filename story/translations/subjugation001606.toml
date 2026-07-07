@@ -1,0 +1,370 @@
+[[dialogue]]
+speaker = "unk"
+original = "翌日。"
+translation = "다음 날."
+
+[[dialogue]]
+speaker = "セナリィ"
+original = "「昨日あれだけ売りさばいたのに、その売り上げが消えて売ったはずのお菓子が出現しましたわーーー！？」"
+translation = "「어제 그렇게 팔아치웠는데, 그 매출이 사라지고 팔았어야 할 과자가 나타났어요---!?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "心底慌てた様子でセナリィが星徒会室に駆け込んできた。"
+translation = "심하게 당황한 기색으로 세나리가 성도회실에 뛰어 들어왔다."
+
+[[dialogue]]
+speaker = "セナリィ"
+original = "「どういうことですの！？\u3000皆さんは何か知ってるんですのよね！？\u3000私にはわかるんですの！」"
+translation = "「어떻게 된 일이죠!? 여러분은 뭔가 알고 계시는 거죠!? 전 알 수 있어요!」"
+
+[[dialogue]]
+speaker = "ヒトリ"
+original = "「せ、せせせ、セナリィさん……！\u3000まずは落ち着いてください……」"
+translation = "「세, 세세세, 세나리 씨……! 일단 진정하세요……」"
+
+[[dialogue]]
+speaker = "セナリィ"
+original = "「これが落ち着いていられますか！？」"
+translation = "「이게 진정하게 생겼나요!?」"
+
+[[dialogue]]
+speaker = "サラン"
+original = "「セナリィちゃん。こういう時こそ、急がば回れだよ～」"
+translation = "「세나리 짱. 이럴 때일수록 급할수록 돌아가야지~」"
+
+[[dialogue]]
+speaker = "ネーゼマイン"
+original = "「ほら、ヒトリさんが怯えちゃってるじゃん？」"
+translation = "「봐, 히토리 씨가 겁먹고 있잖아?」"
+
+[[dialogue]]
+speaker = "セナリィ"
+original = "「うっ、こほん。……申し訳ありませんわ。少々、気が動転してしまいまして……」"
+translation = "「윽, 흠흠. ……죄송합니다. 조금 정신이 없어서……」"
+
+[[dialogue]]
+speaker = "ヒトリ"
+original = "「……い、いえいえ……お気持ちはわかりますので……それじゃあ、わたしから説明させていただきますね」"
+translation = "「……아, 아니에요…… 그 마음 이해하니까요…… 그럼 제가 설명해 드릴게요」"
+
+[[dialogue]]
+speaker = "ヒトリ"
+original = "「実は今回のハロウィンなんですけど……１日の時間がループしちゃってるみたいなんです。その原因が、昨日セナリィさんも会ったジャクリーヌさんにあるみたいで……」"
+translation = "「사실 이번 할로윈 말인데요…… 하루의 시간이 루프하고 있는 모양이에요. 그 원인이 어제 세나리 씨도 만났던 자클린 씨에게 있는 것 같아서……」"
+
+[[dialogue]]
+speaker = "セナリィ"
+original = "「ジャクリーヌ様が？\u3000どういったことが要因でして？」"
+translation = "「자클린 님이요? 어떤 게 요인이 되어서요?」"
+
+[[dialogue]]
+speaker = "ヒトリ"
+original = "「詳しいことはまだよくわかってないんです。ただ、ジャクリーヌさんと深く関わったわたしたちの記憶だけが保持されてて、だからこそループに気づけているってだけで……」"
+translation = "「자세한 건 아직 잘 모르겠어요. 다만 자클린 씨와 깊게 관련된 우리들의 기억만 유지되고 있고, 그래서 루프를 눈치채고 있을 뿐이라서……」"
+
+[[dialogue]]
+speaker = "ゆーちゃん"
+original = "「ゆ～……」"
+translation = "「유~……」"
+
+[[dialogue]]
+speaker = "セナリィ"
+original = "「なるほどですわ。つまりこのループは初めてのことではなく、<b>直前</b>の回でジャクリーヌ様と関わったことで、私の記憶も保持された、ということですわね」"
+translation = "「그렇군요. 즉 이 루프는 처음이 아니라, <b>직전</b> 회차에서 자클린 님과 엮인 덕분에 제 기억도 유지되었다는 거군요」"
+
+[[dialogue]]
+speaker = "セナリィ"
+original = "「朝、目が覚めて以降、昨日と全く同じことが起きていて、周りの人に聞いても知らん顔で……私の頭がおかしくなったのかと思って焦りましたわ」"
+translation = "「아침에 눈을 뜬 이후로 어제와 완전히 똑같은 일이 일어나고 있고, 주변 사람들에게 물어봐도 모르는 척이라…… 제 머리가 이상해진 건가 싶어서 조마조마했어요」"
+
+[[dialogue]]
+speaker = "ネーゼマイン"
+original = "「セナリィの頭は元々おかし……」"
+translation = "「세나리 머리는 원래 이사……」"
+
+[[dialogue]]
+speaker = "セナリィ"
+original = "「マイン！？\u3000うっさいですわよ！」"
+translation = "「마인!? 시끄러워요!」"
+
+[[dialogue]]
+speaker = "ネーゼマイン"
+original = "「てへペロ♪」"
+translation = "「데헤페로♪」"
+
+[[dialogue]]
+speaker = "セナリィ"
+original = "「あら？\u3000そういえば、ループさせた張本人であるジャクリーヌ様はどこにいったんですの？\u3000姿が見当たらないようですけど」"
+translation = "「어라? 그러고 보니 루프를 시킨 장본인인 자클린 님은 어디에 갔나요? 모습이 보이지 않는 것 같습니다만」"
+
+[[dialogue]]
+speaker = "ネーゼマイン"
+original = "「それがね～、イタズラしてたのがバレちゃったから逃げちゃったんだよね～。困ったことに……」"
+translation = "「그게 말야~, 장난치던 게 들켜버려서 도망쳐 버렸거든~. 곤란하게도……」"
+
+[[dialogue]]
+speaker = "サラン"
+original = "「すぐ追いかけようとしたんだけど、ジャクリーヌちゃん、ふわふわ浮いてるから全然捕まえられなくて～」"
+translation = "「바로 뒤쫓으려 했지만, 자클린 짱, 둥실둥실 떠다니니까 전혀 잡을 수가 없어서~」"
+
+[[dialogue]]
+speaker = "セナリィ"
+original = "「なんですのそれ！？\u3000まるで子供みたいな……」"
+translation = "「뭐예요 그게!? 마치 어린아이 같은……」"
+
+[[dialogue]]
+speaker = "ヒトリ"
+original = "「ま、まあ……ジャクリーヌさんも人間界に来たばっかりですし……怒らないであげてください……」"
+translation = "「뭐, 뭐어…… 자클린 씨도 인간계에 온 지 얼마 안 됐고…… 너무 화내지 말아 주세요……」"
+
+[[dialogue]]
+speaker = "ネーゼマイン"
+original = "「まぁ、ついイタズラしたくなっちゃっただけじゃないかな～」"
+translation = "「뭐, 그저 장난을 치고 싶었을 뿐 아닐까나~」"
+
+[[dialogue]]
+speaker = "サラン"
+original = "「ハロウィンの化身ってお話だったしね～。ずっとハロウィンが続いてほしいと思ってても不思議じゃないよ～」"
+translation = "「할로윈의 화신이라는 이야기였으니까~. 계속 할로윈이 이어지길 바란대도 이상하지 않아~」"
+
+[[dialogue]]
+speaker = "セナリィ"
+original = "「そ、それはそうなのですけれど……まさかこのままってわけにも、いかないでしょう？」"
+translation = "「그, 그건 그렇습니다만…… 설마 이대로 둘 수도 없지 않겠어요?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "もう１日だけって約束だったんだけどな"
+translation = "딱 하루만 더라는 약속이었는데 말이지"
+
+[[dialogue]]
+speaker = "ヒトリ"
+original = "「約束、破られちゃいましたね……」"
+translation = "「약속, 어겨버렸네요……」"
+
+[[dialogue]]
+speaker = "サラン"
+original = "「このままだと、ジャクリーヌちゃんが色んなところに行けば行くほど……混乱が広がっちゃうよね～」"
+translation = "「이대로라면 자클린 짱이 여기저기 돌아다니면 돌아다닐수록…… 혼란이 퍼져버리겠지~」"
+
+[[dialogue]]
+speaker = "ヒトリ"
+original = "「た、確かにそうです！\u3000は、ははは、早くなんとかしないと……大変なことに！」"
+translation = "「화, 확실히 그래요! 빨리 어떻게든 하지 않으면…… 큰일이!」"
+
+[[dialogue]]
+speaker = "ヒトリ"
+original = "「ゆー！\u3000ゆー！」"
+translation = "「유-! 유-!」"
+
+[[dialogue]]
+speaker = "セナリィ"
+original = "「まずは彼女を探さないことには始まりませんわね……」"
+translation = "「일단 그녀를 찾지 않고서는 시작되지 않겠네요……」"
+
+[[dialogue]]
+speaker = "ネーゼマイン"
+original = "「そうと決まれば、早速探しに行くとしますか～！」"
+translation = "「그렇게 정해졌으면, 당장 찾으러 가볼까~!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "逃げてしまったジャクリーヌを探すことほぼ半日。"
+translation = "도망쳐버린 자클린을 찾는 데 거의 반나절."
+
+[[dialogue]]
+speaker = "unk"
+original = "俺たちは大聖堂に併設されているカフェテリアへとやってきていた。"
+translation = "우리들은 대성당에 병설된 카페테리아로 오게 되었다."
+
+[[dialogue]]
+speaker = "ネーゼマイン"
+original = "「そっちは見つかった～？」"
+translation = "「그쪽은 찾았어~?」"
+
+[[dialogue]]
+speaker = "サラン"
+original = "「う～ん、全然見当たらないね～……」"
+translation = "「으음, 전혀 안 보이네~……」"
+
+[[dialogue]]
+speaker = "セナリィ"
+original = "「ヒトリ様はどうですの？\u3000幽霊のことは一番わかっているでしょうから、私たちよりは見つけやすいと思うのですけれど……」"
+translation = "「히토리 님은 어떠신가요? 유령에 대해서는 가장 잘 알고 계실 테니, 저희보다는 찾기 쉬울 거라 생각합니다만……」"
+
+[[dialogue]]
+speaker = "ヒトリ"
+original = "「さっきから気配を探っているんですが……ジャクリーヌさん、本気で隠れてるみたいで、探知に引っかからなくて……」"
+translation = "「아까부터 기척을 살피고 있는데…… 자클린 씨, 작정하고 숨은 모양이라 탐지에 걸리질 않아서……」"
+
+[[dialogue]]
+speaker = "セナリィ"
+original = "「まさか、手詰まりですの？」"
+translation = "「설마 막다른 길인가요?」"
+
+[[dialogue]]
+speaker = "ネーゼマイン"
+original = "「もしかして、人間界に飽きて一足先に魔界へ帰っちゃったとか？」"
+translation = "「혹시 인간계에 질려서 한발 먼저 마계로 돌아가 버렸다거나?」"
+
+[[dialogue]]
+speaker = "ヒトリ"
+original = "「あんなにたくさんお菓子を食べて……ハロウィンを人一倍楽しんでいましたし、それはないと思うんですけど……」"
+translation = "「그렇게 잔뜩 과자를 먹고…… 할로윈을 남들보다 배로 즐기고 있었으니까, 그럴 리는 없을 것 같은데요……」"
+
+[[dialogue]]
+speaker = "ヒトリ"
+original = "「会長さん、そっちの方はどうでしょうか？」"
+translation = "「회장님, 그쪽은 어떤가요?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ごめん、こっちにもいないみたい"
+translation = "미안, 이쪽에도 없는 것 같아"
+
+[[dialogue]]
+speaker = "ヒトリ"
+original = "「ダメですか……もう別の場所に行っちゃったんでしょうか……」"
+translation = "「안 되나요…… 이미 다른 곳으로 가버린 걸까요……」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ヒトリがそう呟いた瞬間だった。"
+translation = "히토리가 그렇게 중얼거린 순간이었다."
+
+[[dialogue]]
+speaker = "ゆーちゃん"
+original = "「ゆー！\u3000ゆー！」"
+translation = "「유-! 유-!」"
+
+[[dialogue]]
+speaker = "ヒトリ"
+original = "「ゆーちゃん？\u3000も、もしかして見つかったの！？」"
+translation = "「유짱? 호, 혹시 찾은 거야!?」"
+
+[[dialogue]]
+speaker = "ゆーちゃん"
+original = "「ゆー！\u3000ゆー！」"
+translation = "「유-! 유-!」"
+
+[[dialogue]]
+speaker = "サラン"
+original = "「あ！\u3000あそこー！」"
+translation = "「아! 저기다-!」"
+
+[[dialogue]]
+speaker = "ネーゼマイン"
+original = "「あれあれ！\u3000頭についてるカボチャの片方がひょこっと見えてるよー！」"
+translation = "「저기저기! 머리에 달린 호박 중 한쪽이 삐죽 보이고 있어-!」"
+
+[[dialogue]]
+speaker = "ヒトリ"
+original = "「や、やっと見つけましたよ、ジャクリーヌさん……！」"
+translation = "「겨, 겨우 찾았어요, 자클린 씨……!」"
+
+[[dialogue]]
+speaker = "ジャクリーヌ"
+original = "「ゆゆ！？\u3000ゆーーーーー！？」"
+translation = "「유유!? 유-------!?」"
+
+[[dialogue]]
+speaker = "セナリィ"
+original = "「大人しく観念なさいですわーーー！！」"
+translation = "「순순히 체념하시지요----!!」"
+
+[[dialogue]]
+speaker = "ヒトリ"
+original = "「に、逃がしませんからね……！\u3000へんしんです……！」"
+translation = "「도, 도망치게 두지 않을 거니까요……! 변신이에요……!」"
+
+[[dialogue]]
+speaker = "ヒトリ"
+original = "「ジャクリーヌさん。あなたにお話したいことが……たくさんあるんです！」"
+translation = "「자클린 씨. 당신에게 하고 싶은 말이…… 아주 많아요!」"
+
+[[dialogue]]
+speaker = "ジャクリーヌ"
+original = "「に、逃げるが勝ちなのー！」"
+translation = "「도, 도망치는 게 이기는 유-!」"
+
+[[dialogue]]
+speaker = "ヒトリ"
+original = "「そうはいきません……！\u3000お、お覚悟……です！」"
+translation = "「그렇게는 안 돼요……! 각, 각오하세요……!」"
+
+[[dialogue]]
+speaker = "ジャクリーヌ"
+original = "「ふぎゃっ！？\u3000き、急に何もないところに壁が出たのーーーー！？」"
+translation = "「푸걋!? 갑, 갑자기 아무것도 없는 곳에 벽이 생겼어----!?」"
+
+[[dialogue]]
+speaker = "ヒトリ"
+original = "「つ、捕まえましたよ……！」"
+translation = "「잡, 잡았어요……!」"
+
+[[dialogue]]
+speaker = "サラン"
+original = "「ヒトリちゃん、すご～い！」"
+translation = "「히토리 짱, 대단해~!」"
+
+[[dialogue]]
+speaker = "セナリィ"
+original = "「やりましたわ！」"
+translation = "「해냈군요!」"
+
+[[dialogue]]
+speaker = "ネーゼマイン"
+original = "「さぁ、もう逃げ道はないよー！」"
+translation = "「자, 이제 도망갈 길은 없어-!」"
+
+[[dialogue]]
+speaker = "ジャクリーヌ"
+original = "「ど、どうして余を追ってくゆ！？」"
+translation = "「어, 어째서 짐을 쫓아오는 유!?」"
+
+[[dialogue]]
+speaker = "ヒトリ"
+original = "「わ、わたし……幽霊とはずっと友達だから、わかるんです……」"
+translation = "「저, 저는…… 유령과는 계속 친구였으니까, 알 수 있어요……」"
+
+[[dialogue]]
+speaker = "ヒトリ"
+original = "「際限なくイタズラをする幽霊は、いつか悪い幽霊になってしまう……今までそういう幽霊を、何人も見てきたから……」"
+translation = "「끝도 없이 장난을 치는 유령은, 언젠가 나쁜 유령이 되어버려요…… 지금까지 그런 유령을 몇 명이나 봐왔으니까……」"
+
+[[dialogue]]
+speaker = "ヒトリ"
+original = "「幽霊はヒトの法には縛られません。でも、だからこそ……『約束』を守らない幽霊は、簡単に歯止めが効かなくなる……」"
+translation = "「유령은 인간의 법에는 얽매이지 않아요. 하지만 그렇기에…… 『약속』을 지키지 않는 유령은 쉽게 제동이 걸리지 않게 돼요……」"
+
+[[dialogue]]
+speaker = "ヒトリ"
+original = "「ジャクリーヌさんにはそうなってほしくないから……！」"
+translation = "「자클린 씨에게는 그렇게 되지 않았으면 하니까……!」"
+
+[[dialogue]]
+speaker = "ネーゼマイン"
+original = "「ヒトリさん……」"
+translation = "「히토리 씨……」"
+
+[[dialogue]]
+speaker = "セナリィ"
+original = "「ヒトリ様……」"
+translation = "「히토리 님……」"
+
+[[dialogue]]
+speaker = "ヒトリ"
+original = "「だから友達として……わ、わたしがジャクリーヌさんのこと、叱りますっ！」"
+translation = "「그러니까 친구로서…… 저, 제가 자클린 씨를 혼낼 거예요!」"
+
+[[dialogue]]
+speaker = "ジャクリーヌ"
+original = "「ゆ～～～ん！\u3000怒られるのきら～いっ！\u3000余は悪いことしてないのっ。放っておいてなの～！」"
+translation = "「유~~~웅! 혼나는 건 싫어엇! 짐은 나쁜 짓 안 했유. 내버려 두는 유~!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "珍しく怒ったような様子のヒトリと、逃げようとするジャクリーヌの戦いが幕を開けた。"
+translation = "드물게 화가 난 듯한 히토리와, 도망치려 하는 자클린의 싸움이 막을 열었다."
+

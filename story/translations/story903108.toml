@@ -1,0 +1,460 @@
+[[dialogue]]
+speaker = "陽彩"
+original = "「やはり決戦の舞台にはここを選んだんだね」"
+translation = "「역시 결전의 무대로 여기를 골랐구나」"
+
+[[dialogue]]
+speaker = "いろは"
+original = "「まあ、あたしたちに馴染みの深い場所だもんね」"
+translation = "「뭐, 우리에게 익숙한 장소니까 말야」"
+
+[[dialogue]]
+speaker = "花織"
+original = "「陽彩ちゃん、キミは今、悪魔に寄生されて正気を失っちゃってるんだよ！」"
+translation = "「아키사 짱, 넌 지금 악마에게 기생당해 제정신을 잃은 상태야!」"
+
+[[dialogue]]
+speaker = "陽彩"
+original = "「ああ、わかっているとも。自分の状態は恐ろしいほど冷静に把握できているよ」"
+translation = "「아아, 알고 있어. 내 상태는 무서울 정도로 냉정하게 파악하고 있거든」"
+
+[[dialogue]]
+speaker = "陽彩"
+original = "「それでも自分の行動を……知りたいという欲望を止めることができない。これはそういうものさ！」"
+translation = "「그런데도 내 행동을…… 알고 싶다는 욕망을 멈출 수가 없어. 이건 그런 거니까!」"
+
+[[dialogue]]
+speaker = "ここあ"
+original = "「やっぱ戦うしかないって、そゆことね？」"
+translation = "「역시 싸울 수밖에 없다는 거네?」"
+
+[[dialogue]]
+speaker = "陽彩"
+original = "「その通りだとも」"
+translation = "「바로 그거야」"
+
+[[dialogue]]
+speaker = "ここあ"
+original = "「じゃー仕方なし、だ。オムにゃん、指示は任せたから！」"
+translation = "「그럼 어쩔 수 없지. 옴냥, 지시는 맡길게!」"
+
+[[dialogue]]
+speaker = "オムニス"
+original = "「ああ！！\u3000行くぞ、みんな！」"
+translation = "「아아!! 가자, 얘들아!」"
+
+[[dialogue]]
+speaker = "陽彩"
+original = "「デモンウイルス……レベル３……」"
+translation = "「데몬 바이러스…… 레벨 3……」"
+
+[[dialogue]]
+speaker = "いろは"
+original = "「くっ！」"
+translation = "「큭!」"
+
+[[dialogue]]
+speaker = "トレジアンナ"
+original = "「やはり能力が上がっているみたいですね。もう接触を行わなくても、感染させることが出来るようになっているみたいです……！」"
+translation = "「역시 능력이 올라간 모양이네요. 이제 접촉하지 않아도 감염시킬 수 있게 된 것 같습니다……!」"
+
+[[dialogue]]
+speaker = "サチ"
+original = "「私たちは近寄ったら邪魔になります、距離を取りましょう！」"
+translation = "「우리는 가까이 가면 방해가 됩니다, 거리를 둡시다!」"
+
+[[dialogue]]
+speaker = "シズハ"
+original = "「うんっ！\u3000頑張って、いろはさん、花織さん、ここあさん……！」"
+translation = "「응! 힘내, 이로하 씨, 카오리 씨, 코코아 씨……!」"
+
+[[dialogue]]
+speaker = "いろは"
+original = "「あたしが先陣を切るよ！\u3000ファーストアターーークッ！！」"
+translation = "「내가 앞장설게! 퍼스트 어태애애액!!」"
+
+[[dialogue]]
+speaker = "陽彩"
+original = "「っ！？\u3000どういうことかな……３人とも、ウイルスを浴びているはずだが……？」"
+translation = "「윽!? 어떻게 된 거지…… 세 명 다 바이러스를 뒤집어썼을 텐데……?」"
+
+[[dialogue]]
+speaker = "花織"
+original = "「残念ながらその能力は対策済みだよ！」"
+translation = "「아쉽지만 그 능력은 이미 대책을 세워뒀다구!」"
+
+[[dialogue]]
+speaker = "ここあ"
+original = "「大人しく、元のあきあきに戻っちゃいなよ！」"
+translation = "「얌전히 원래의 아키아키로 돌아오라구!」"
+
+[[dialogue]]
+speaker = "オムニス"
+original = "「動揺してるぞ！\u3000一気に畳みかけるんだ！」"
+translation = "「동요하고 있어! 단숨에 몰아붙이자!」"
+
+[[dialogue]]
+speaker = "陽彩"
+original = "「くっ、連携が……良くなってる？」"
+translation = "「큭, 연계가…… 좋아졌어?」"
+
+[[dialogue]]
+speaker = "いろは"
+original = "「それは、あれでしょ！\u3000いいお手本を見せてもらったからじゃない？\u3000異世界の魔法少女っていう」"
+translation = "「그건 그거겠지! 좋은 본보기를 봤으니까! 이세계의 마법소녀라는 거」"
+
+[[dialogue]]
+speaker = "サチ"
+original = "「えっ……？」"
+translation = "「엣……?」"
+
+[[dialogue]]
+speaker = "プリムラ"
+original = "「我らのことか？」"
+translation = "「우리 말인가?」"
+
+[[dialogue]]
+speaker = "オムニス"
+original = "「キミたちには感謝しなくちゃな。魔法少女の戦い方というものを色々見させてもらった」"
+translation = "「너희에게 감사해야겠어. 마법소녀의 싸우는 방식이라는 걸 여러모로 지켜봤거든」"
+
+[[dialogue]]
+speaker = "オムニス"
+original = "「あの子たちだけじゃなくて、俺もいろいろ勉強になったよ」"
+translation = "「아이들뿐만 아니라 나도 공부가 많이 됐어」"
+
+[[dialogue]]
+speaker = "陽彩"
+original = "「見たといっても数度に過ぎないじゃないか……それだけでこんなに上手く息が合うようになるものなのか？」"
+translation = "「봤다고 해도 몇 번뿐이지 않나…… 그것만으로 이렇게 손발이 척척 맞게 되는 건가?」"
+
+[[dialogue]]
+speaker = "ここあ"
+original = "「息は最初から合ってたんだよ。それはずっと一緒に戦ってきたあきあきだってわかってるでしょ？」"
+translation = "「손발은 처음부터 맞고 있었어. 그건 계속 같이 싸워온 아키아키도 알고 있잖아?」"
+
+[[dialogue]]
+speaker = "いろは"
+original = "「それを形に出来る戦い方を知った、それだけだよ！」"
+translation = "「그걸 형태로 만들 싸우는 법을 알게 된 것뿐이야!」"
+
+[[dialogue]]
+speaker = "陽彩"
+original = "「っ……！\u3000確かに、そうかもしれない……」"
+translation = "「윽……! 확실히 그럴지도 모르겠네……」"
+
+[[dialogue]]
+speaker = "オムニス"
+original = "「いいぞ、みんな！\u3000その調子だ！」"
+translation = "「좋아, 얘들아! 그 기세다!」"
+
+[[dialogue]]
+speaker = "陽彩"
+original = "「でも、圧倒的な力の差の前では無力に等しいんだ！」"
+translation = "「하지만 압도적인 힘의 차이 앞에서는 무력에 가깝다고!」"
+
+[[dialogue]]
+speaker = "ここあ"
+original = "「くっ……！」"
+translation = "「큭……!」"
+
+[[dialogue]]
+speaker = "花織"
+original = "「とんでもないパワーだね……。だけど……」"
+translation = "「엄청난 파워네…… 하지만……」"
+
+[[dialogue]]
+speaker = "いろは"
+original = "「らしくないよ、陽彩ちゃん！」"
+translation = "「너답지 않아, 아키사 짱!」"
+
+[[dialogue]]
+speaker = "陽彩"
+original = "「なっ！？」"
+translation = "「나앗!?」"
+
+[[dialogue]]
+speaker = "陽彩"
+original = "「ぐぅぅっ！！！？」"
+translation = "「구우욱!!!?」"
+
+[[dialogue]]
+speaker = "いろは"
+original = "「いつもの陽彩ちゃんだったら力押しなんてしないで、どんな状況でもちゃんと考えながら戦う」"
+translation = "「평소의 아키사 짱이라면 힘으로 밀어붙이지 않고 어떤 상황에서도 제대로 생각하며 싸웠을 거야」"
+
+[[dialogue]]
+speaker = "いろは"
+original = "「でも今の陽彩ちゃんはそうしてない。ううん、寄生型悪魔の影響で、それがどんどん出来なくなってるんだよ！」"
+translation = "「하지만 지금의 아키사 짱은 그러지 않아. 아니, 기생형 악마의 영향으로 그걸 점점 못 하게 되고 있는 거야!」"
+
+[[dialogue]]
+speaker = "オムニス"
+original = "「ああ、だったらどんなに力を持っていようと、恐れる相手じゃない」"
+translation = "「그래, 그렇다면 아무리 큰 힘을 가졌어도 두려운 상대가 아니지」"
+
+[[dialogue]]
+speaker = "いろは"
+original = "「カオリン！\u3000ここにゃん！\u3000攻撃を合わせて！」"
+translation = "「카올린! 코코냥! 공격을 맞춰!」"
+
+[[dialogue]]
+speaker = "花織"
+original = "「オッケー！」"
+translation = "「오케이!」"
+
+[[dialogue]]
+speaker = "ここあ"
+original = "「いつでもいいよっ！」"
+translation = "「언제든 괜찮아!」"
+
+[[dialogue]]
+speaker = "いろは"
+original = "「でりゃでりゃでりゃあああっ！！」"
+translation = "「데랴데랴데랴아아앗!!」"
+
+[[dialogue]]
+speaker = "花織"
+original = "「これで決めるっ！！」"
+translation = "「이걸로 끝내겠어!!」"
+
+[[dialogue]]
+speaker = "ここあ"
+original = "「やっちゃうよっ！！」"
+translation = "「해버리자구!!」"
+
+[[dialogue]]
+speaker = "３人"
+original = "「ユニゾンっ！」"
+translation = "「유니존!」"
+
+[[dialogue]]
+speaker = "いろは"
+original = "「たたみかけるよ！！\u3000これでも喰らえぇえええッ！！！」"
+translation = "「몰아붙이겠어!! 이것도 먹어라아아아앗!!!」"
+
+[[dialogue]]
+speaker = "陽彩"
+original = "「……っ！！！」"
+translation = "「……윽!!!」"
+
+[[dialogue]]
+speaker = "陽彩"
+original = "「参った、な……これは、ぼくの負けだ……」"
+translation = "「졌다, 고…… 이건 내 패배다……」"
+
+[[dialogue]]
+speaker = "サチ"
+original = "「──これで、拘束完了です」"
+translation = "「──이걸로 구속 완료입니다」"
+
+[[dialogue]]
+speaker = "いろは"
+original = "「陽彩ちゃん……」"
+translation = "「아키사 짱……」"
+
+[[dialogue]]
+speaker = "トレジアンナ"
+original = "「大丈夫♪\u3000解析魔法で調べましたが、気を失っているだけですよ」"
+translation = "「괜찮아요♪ 해석 마법으로 조사했습니다만, 정신을 잃었을 뿐이에요」"
+
+[[dialogue]]
+speaker = "シズハ"
+original = "「それじゃ、今がチャンスだね。陽彩さんとロストアイテムの切り離しを行わないと」"
+translation = "「그럼 지금이 기회네. 아키사 씨와 로스트 아이템을 분리해야 해」"
+
+[[dialogue]]
+speaker = "花織"
+original = "「そういえば、その肝心の方法を聞いてなかったような……」"
+translation = "「그러고 보니 그 중요한 방법을 못 들은 것 같은데……」"
+
+[[dialogue]]
+speaker = "トレジアンナ"
+original = "「ええ、まあ……それについては意図的に説明を後回しにしてまして～。あまり大っぴらに口にするようなことでもありませんし」"
+translation = "「에에, 뭐…… 그것에 대해서는 의도적으로 설명을 미뤄두고 있었거든요~. 그렇게 대놓고 입에 올릴 만한 일도 아니구요」"
+
+[[dialogue]]
+speaker = "ここあ"
+original = "「どういうこと……？」"
+translation = "「무슨 소리야……?」"
+
+[[dialogue]]
+speaker = "トレジアンナ"
+original = "「陽彩さんを元に戻すためには、オムニスさんの力が必要不可欠です☆」"
+translation = "「아키사 씨를 원래대로 되돌리기 위해서는 옴니스 씨의 힘이 필수적입니다☆」"
+
+[[dialogue]]
+speaker = "いろは"
+original = "「ここにきてオムオム？」"
+translation = "「이 시점에서 옴옴?」"
+
+[[dialogue]]
+speaker = "オムニス"
+original = "「俺に出来ることだったら何でもするつもりですけど……何をすれば？」"
+translation = "「내가 할 수 있는 일이라면 뭐든 할 생각입니다만…… 뭘 하면 되죠?」"
+
+[[dialogue]]
+speaker = "トレジアンナ"
+original = "「それは……ごにょごにょごにょ<emoji=heart04>」"
+translation = "「그건…… 소곤소곤소곤<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "オムニス"
+original = "「っ……！？」"
+translation = "「윽……!?」"
+
+[[dialogue]]
+speaker = "トレジアンナ"
+original = "「お願いできますか？」"
+translation = "「부탁드려도 될까요?」"
+
+[[dialogue]]
+speaker = "オムニス"
+original = "「は、はい……」"
+translation = "「하, 네……」"
+
+[[dialogue]]
+speaker = "トレジアンナ"
+original = "「これがロストアイテムを封印するための魔石です☆\u3000使い方は先ほど説明した通りですから～♪」"
+translation = "「이것이 로스트 아이템을 봉인하기 위한 마석입니다☆ 사용법은 방금 설명해 드린 대로예요~♪」"
+
+[[dialogue]]
+speaker = "オムニス"
+original = "「わ、わかりました。頑張ってみます……」"
+translation = "「아, 알겠습니다. 노력해 볼게요……」"
+
+[[dialogue]]
+speaker = "トレジアンナ"
+original = "「では、行ってらっしゃいませ～☆」"
+translation = "「그럼 다녀오세요~☆」"
+
+[[dialogue]]
+speaker = "花織"
+original = "「オムちゃんと陽彩ちゃんが消えた！？」"
+translation = "「옴 짱이랑 아키사 짱이 사라졌어!?」"
+
+[[dialogue]]
+speaker = "トレジアンナ"
+original = "「ロストアイテムを寄生型悪魔から引きはがすために、どうしても２人きりになってもらう必要がありましたので」"
+translation = "「로스트 아이템을 기생형 악마에게서 떼어내기 위해선 아무래도 둘만 있게 할 필요가 있었거든요」"
+
+[[dialogue]]
+speaker = "トレジアンナ"
+original = "「２人には一足先に<b>元の世界へ帰ってもらいました</b>☆」"
+translation = "「두 분은 한발 앞서 <b>원래</b> <b>세계로</b> <b>돌아갔습니다</b>☆」"
+
+[[dialogue]]
+speaker = "花織"
+original = "「えぇええっ！？\u3000２人だけ元の世界に？\u3000帰ったの！？」"
+translation = "「에에엣!? 둘만 원래 세계로? 돌아갔다구!?」"
+
+[[dialogue]]
+speaker = "トレジアンナ"
+original = "「はい♪\u3000通常、世界を転移するなんてことは簡単に出来ることではありません」"
+translation = "「네♪ 통상적으로 세계를 전이하는 건 간단히 할 수 있는 일이 아닙니다」"
+
+[[dialogue]]
+speaker = "トレジアンナ"
+original = "「ですがこのバカアワビには、それを可能にするための力が備わっているようです☆」"
+translation = "「하지만 이 바보 전복에는 그걸 가능하게 하는 힘이 갖춰져 있는 모양이에요☆」"
+
+[[dialogue]]
+speaker = "いろは"
+original = "「どうして２人だけ先に？\u3000オムオム、危険じゃないかな？」"
+translation = "「왜 둘만 먼저? 옴옴, 위험하지 않을까?」"
+
+[[dialogue]]
+speaker = "トレジアンナ"
+original = "「危険がないわけではないのですが、まあ大丈夫でしょう。というか他に方法がないので、オムニスさんには頑張ってもらう他ありませんね♪」"
+translation = "「위험이 없는 건 아니지만 뭐 괜찮겠죠. 그보다 다른 방법이 없으니 옴니스 씨가 힘내주시는 수밖에 없겠네요♪」"
+
+[[dialogue]]
+speaker = "トレジアンナ"
+original = "「心配しなくても事が終わり次第、こちらの世界に戻ってきますよ☆\u3000そうしたら改めて、皆さんを元の世界へお送りします！」"
+translation = "「걱정하지 마세요, 일이 끝나는 대로 이 세계로 돌아올 거예요☆ 그러면 다시 여러분을 원래 세계로 보내드릴게요!」"
+
+[[dialogue]]
+speaker = "トレジアンナ"
+original = "「それまで数日から１週間ほどの時間はかかるでしょうから、こちらの世界をどうぞゆっくり楽しみながらお待ちください～☆」"
+translation = "「그때까지 며칠에서 일주일 정도 시간은 걸릴 테니 이 세계를 부디 느긋하게 즐기며 기다려주세요~☆」"
+
+[[dialogue]]
+speaker = "いろは"
+original = "「そっかぁ、数日から１週間かぁ……」"
+translation = "「그렇구나, 며칠에서 일주일인가……」"
+
+[[dialogue]]
+speaker = "いろは"
+original = "「じゃあさ、じゃあさぁ！\u3000サチちゃんたちにこっちの世界、案内して欲しいな～♪」"
+translation = "「그럼 말야, 그럼 말야! 사치 짱네가 이 세계 안내해 줬으면 좋겠어~♪」"
+
+[[dialogue]]
+speaker = "花織"
+original = "「いろはは楽天的だよね……オムオムと陽彩ちゃんのこと、心配じゃないの？」"
+translation = "「이로하는 낙천적이네…… 옴옴이랑 아키사 짱 걱정 안 돼?」"
+
+[[dialogue]]
+speaker = "いろは"
+original = "「心配は心配だけど……オムにゃんに全部任せておけば、大丈夫かなって！」"
+translation = "「걱정은 되지만…… 옴냥에게 전부 맡겨두면 괜찮을 것 같아서!」"
+
+[[dialogue]]
+speaker = "ここあ"
+original = "「そうそう、それにここあたちには待つこと以外何も出来ないしね～」"
+translation = "「맞아 맞아, 게다가 코코아들은 기다리는 거 말고는 아무것도 할 수 없으니까 말야~」"
+
+[[dialogue]]
+speaker = "いろは"
+original = "「だったら楽しんだ方がいいよね♪」"
+translation = "「그렇다면 즐기는 게 낫지♪」"
+
+[[dialogue]]
+speaker = "花織"
+original = "「はぁ……もう……」"
+translation = "「하아…… 정말……」"
+
+[[dialogue]]
+speaker = "シズハ"
+original = "「まあまあ、これに関してはいろはさんたちの言う通りかも♪」"
+translation = "「자자, 이것에 관해서는 이로하 씨 일행 말이 맞을지도요♪」"
+
+[[dialogue]]
+speaker = "プリムラ"
+original = "「肩の力を抜いて、せいぜいこの世界を楽しんでいくがいいのじゃ」"
+translation = "「어깨에 힘 좀 빼고 기왕이면 이 세계를 즐기다 가도록 하느니라」"
+
+[[dialogue]]
+speaker = "花織"
+original = "「はは。まあ、うん……それはそう、だよね。……ありがとう、みんな」"
+translation = "「하하. 뭐, 응…… 그건 그렇네. ……고마워, 얘들아」"
+
+[[dialogue]]
+speaker = "いろは"
+original = "「よーし、そうと決まったらカラオケ行こっ♪\u3000こっちの世界の歌、どんなのがあるか気になるし！」"
+translation = "「좋아, 그렇게 정했으면 노래방 가자♪ 이 세계 노래는 어떤 게 있는지 궁금해!」"
+
+[[dialogue]]
+speaker = "トレジアンナ"
+original = "「いいですねぇ♪\u3000マスターしたばかりの魔法少女アニメの主題歌、ご披露しちゃいますよ～☆」"
+translation = "「좋네요♪ 방금 마스터한 마법소녀 애니메이션 주제가, 선보여 드릴게요~☆」"
+
+[[dialogue]]
+speaker = "サチ"
+original = "「あんな激しい戦いをした後だっていうのに、いろはさんは元気ですね……」"
+translation = "「그런 격렬한 싸움을 한 직후인데도 이로하 씨는 활기차네요……」"
+
+[[dialogue]]
+speaker = "ここあ"
+original = "「にゃはは～。ま、あれがいろはすだからね～」"
+translation = "「냐하하~. 뭐, 저게 이로하스니까 말야~」"
+
+[[dialogue]]
+speaker = "サチ"
+original = "「でも……なんだかすごく、元気をもらえます」"
+translation = "「하지만…… 왠지 굉장히 기운을 얻게 돼요」"
+
+[[dialogue]]
+speaker = "花織"
+original = "「それは間違いないかもだね……あはは」"
+translation = "「그건 틀림없을지도 모르겠네…… 아하하」"
+

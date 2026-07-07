@@ -1,0 +1,235 @@
+[[dialogue]]
+speaker = "unk"
+original = "第３話,コハルコの正体,P"
+translation = "제3화, 쿠하루코의 정체, P"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「大変大変大変～！？」"
+translation = "「큰일 큰일 큰일～!?」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「どうしたの突然。ネッシーの求愛動画でも見た？」"
+translation = "「갑자기 왜 그래. 네시의 구애 영상이라도 봤어?」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「それはそれで大変だけど！\u3000そうじゃなくて！」"
+translation = "「그건 그것대로 큰일이지만! 그게 아니라!」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「ジャスティスウィザードっていうハッカーが新星学園を攻撃するって宣言したんだって！」"
+translation = "「저스티스 위저드라는 해커가 신성학원을 공격하겠다고 선언했대!」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「何でも、『流星・新星両学園は星力という神秘の力を不当に独占している。システムを完全に停止させ、真実を白日の下に暴き出す』──とか言ってるらしいの」"
+translation = "「뭐라더라, 『유성·신성 두 학원은 성력이라는 신비한 힘을 부당하게 독점하고 있다. 시스템을 완전히 정지시키고, 진실을 천하에 폭로하겠다』──라고 말하고 있나 봐」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「何それ。そもそも星力が使えるかどうかは適性の問題じゃないの」"
+translation = "「뭐야 그게. 애초에 성력을 쓸 수 있는지 어떤지는 적성의 문제잖아」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「でもほんとに攻撃されたら厄介ねぇ。パソコンとか使えなくなるのかしら～？」"
+translation = "「하지만 정말로 공격당하면 골치 아프겠네에. 컴퓨터 같은 걸 못 쓰게 되는 걸까나～?」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「そんなものじゃ済まない思いますよ……」"
+translation = "「그 정도로 끝나지 않을 거라 생각해요……」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「今のところ打つ手なし。モンスターやアステラなら対処できますが、相手がハッカーでは星術で倒すわけにはいきませんし、どこにいるかもわかりません」"
+translation = "「현재로서는 손쓸 방도가 없습니다. 몬스터나 아스테라라면 대처할 수 있지만, 상대가 해커라면 성술로 쓰러뜨릴 수도 없고, 어디에 있는지도 모르니까요」"
+
+[[dialogue]]
+speaker = "コハルコ"
+original = "「こんにちは。放送委員会の書類を持ってきたんだけど……」"
+translation = "「안녕. 방송위원회 서류를 가져왔는데……」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「コハルコさん、今大変なことになってるんですけど！\u3000ジャスティンハザードってハッカーが──」"
+translation = "「쿠하루코 씨, 지금 큰일 났다니까요! 저스틴 해저드라는 해커가──」"
+
+[[dialogue]]
+speaker = "コハルコ"
+original = "「ああ、その話」"
+translation = "「아아, 그 이야기」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「落ち着いてる場合じゃないでしょ、新星学園が乗っ取られるかもしれないのよ！」"
+translation = "「태평하게 있을 때가 아니잖아, 신성학원이 점령당할지도 모른다고!」"
+
+[[dialogue]]
+speaker = "コハルコ"
+original = "「それならもう解決したよ」"
+translation = "「그거라면 이미 해결됐어」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「へ？」"
+translation = "「헤?」"
+
+[[dialogue]]
+speaker = "コハルコ"
+original = "「新星学園のシステムに不正に侵入しようとしてたから、攻撃元を突き止めて逆にクラックしたよ。警察に通報したし、もう捕まってるんじゃないかな」"
+translation = "「신성학원 시스템에 부정 침입하려 하길래, 공격 근원지를 알아내서 역으로 크래킹했어. 경찰에 신고했으니 이미 잡히지 않았을까」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「そんなあっさり……正義の魔法使いとやらもコハルコさんの前には形無しね」"
+translation = "「그렇게 간단히…… 정의의 마법사인지 뭔지도 쿠하루코 씨 앞에서는 체면이 말이 아니네」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「前はいいことをしていたのに残念だわ～」"
+translation = "「전에는 좋은 일을 했었는데 유감이네요～」"
+
+[[dialogue]]
+speaker = "コハルコ"
+original = "「そうだね……」"
+translation = "「그렇네……」"
+
+[[dialogue]]
+speaker = "コハルコ"
+original = "「で、本題なんだけど……」"
+translation = "「그래서 본론인데……」"
+
+[[dialogue]]
+speaker = "unk"
+original = "書類受け取ります"
+translation = "서류 받을게요"
+
+[[dialogue]]
+speaker = "コハルコ"
+original = "「うん、お願いね」"
+translation = "「응, 부탁해」"
+
+[[dialogue]]
+speaker = "コハルコ"
+original = "「さてと。今日は卵がお買い得な日──あ、会長さんも今帰り？」"
+translation = "「그럼. 오늘은 달걀이 저렴한 날── 아, 회장님도 지금 퇴근?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ジャスティス──"
+translation = "저스티스──"
+
+[[dialogue]]
+speaker = "コハルコ"
+original = "「！？」"
+translation = "「!?」"
+
+[[dialogue]]
+speaker = "コハルコ"
+original = "「も、もう、またジャスティスウィザードの話？\u3000意外と人気者なんだね。同じハッカーとして妬いちゃうなぁ～」"
+translation = "「정, 정말, 또 저스티스 위저드 이야기? 의외로 인기인이네. 같은 해커로서 질투 나는데에～」"
+
+[[dialogue]]
+speaker = "unk"
+original = "コハルコさんが本物なんですよね？"
+translation = "쿠하루코 씨가 진짜죠?"
+
+[[dialogue]]
+speaker = "コハルコ"
+original = "「ひゃいっ！？\u3000な、なんのことかな？\u3000私はジャスティスウィザードなんて関係ないけど……」"
+translation = "「햣!? 무, 무슨 소릴까나? 나는 저스티스 위저드 같은 거랑 상관없는데……」"
+
+[[dialogue]]
+speaker = "コハルコ"
+original = "「う……その目は確信してる目だね……」"
+translation = "「으…… 그 눈은 확신하고 있는 눈이네……」"
+
+[[dialogue]]
+speaker = "コハルコ"
+original = "「そうです。私がジャスティスウィザードです。本物の──だけど」"
+translation = "「맞아요. 내가 저스티스 위저드입니다. 진짜──였던 쪽이지만」"
+
+[[dialogue]]
+speaker = "unk"
+original = "じゃあ捕まったのは偽物？"
+translation = "그럼 잡힌 건 가짜?"
+
+[[dialogue]]
+speaker = "コハルコ"
+original = "「うん。彼は私がいなくなった後、私の名前を勝手に使ってただけ」"
+translation = "「응. 그는 내가 사라진 뒤에 내 이름을 마음대로 썼을 뿐이야」"
+
+[[dialogue]]
+speaker = "コハルコ"
+original = "「そもそも私はジャスティスウィザードなんて名乗った覚えはないの。好きでそんなダサい名前名乗らないから。マトイさんもしれっと間違えてたし」"
+translation = "「애초에 나는 저스티스 위저드라고 자처한 기억이 없어. 좋아서 그런 촌스러운 이름을 쓸 리 없잖아. 마토이 씨도 슬쩍 틀렸었고」"
+
+[[dialogue]]
+speaker = "コハルコ"
+original = "「ハッカーになったのは……えーと……どこから話そうかな。うち、お母さんが病気で手術のお金が必要になってね」"
+translation = "「해커가 된 건…… 에또…… 어디부터 이야기할까나. 우리 집, 엄마가 편찮으셔서 수술비가 필요했거든」"
+
+[[dialogue]]
+speaker = "コハルコ"
+original = "「お父さんにプログラミングを少し教えてもらってたから、何とか役立てられないかなと思って……必死になってるうちになんやかんやでハッカーになって」"
+translation = "「아빠한테 프로그래밍을 조금 배웠으니까 어떻게든 도움이 되지 않을까 싶어서…… 필사적으로 하다 보니 어쩌다 보니 해커가 됐어」"
+
+[[dialogue]]
+speaker = "unk"
+original = "（なんやかんやが大雑把すぎる）"
+translation = "(어쩌다 보니가 너무 대충인데)"
+
+[[dialogue]]
+speaker = "コハルコ"
+original = "「セキュリティの穴を見つけて賞金をもらって、お母さんの手術の費用は稼げたんだけど……」"
+translation = "「보안 취약점을 찾아내서 상금을 받고, 엄마 수술비는 벌었지만……」"
+
+[[dialogue]]
+speaker = "コハルコ"
+original = "「ハッカーの世界に首を突っ込んでみたら、悪い人に苦しめられてる人たちがいるのを知っちゃって」"
+translation = "「해커 세계에 발을 들여보니 나쁜 사람들에게 고통받는 사람들이 있다는 걸 알게 돼서」"
+
+[[dialogue]]
+speaker = "コハルコ"
+original = "「なんとか助けられないかなと思って、ちょーっと裏でこそこそやってたら、いつの間にか変な異名で呼ばれてたの」"
+translation = "「어떻게든 도와줄 수 없을까 싶어서, 조오금 뒤에서 몰래몰래 했더니 어느샌가 이상한 이명으로 불리고 있었어」"
+
+[[dialogue]]
+speaker = "コハルコ"
+original = "「でも誰かに身辺を探られてる気がして、表の仕事の伝で知り合った九浄ヘレナさんに相談したんだ」"
+translation = "「하지만 누군가 신변을 캐고 있다는 느낌이 들어서, 겉의 일로 알게 된 쿠죠 헬레나 씨에게 상담했지」"
+
+[[dialogue]]
+speaker = "コハルコ"
+original = "「で、身を守ってもらうために新星学園のシステム担当として採用してもらって。しかも星騎士の素質があったから生徒として入学したってわけ」"
+translation = "「그래서 신변 보호를 위해 신성학원 시스템 담당으로 채용됐어. 게다가 성기사 소질이 있어서 학생으로 입학하게 된 거야」"
+
+[[dialogue]]
+speaker = "コハルコ"
+original = "「そういうわけで非合法なハッカー活動からはもう足を洗ったの」"
+translation = "「그런 이유로 비합법적인 해커 활동에서는 이제 손을 뗐어」"
+
+[[dialogue]]
+speaker = "コハルコ"
+original = "「だから今はしてない……よ？」"
+translation = "「그러니까 지금은 안 해…… 알았지?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "本当に？"
+translation = "정말로?"
+
+[[dialogue]]
+speaker = "コハルコ"
+original = "「時々……たま～に……見過ごせないなーって案件はちょーっとだけ手を出してるけど。ほんとにちょこっとだけ」"
+translation = "「가끔…… 아주 가끔…… 묵인할 수 없는 건은 조오금씩 손대고 있지만. 정말 쬐금만」"
+
+[[dialogue]]
+speaker = "コハルコ"
+original = "「このことはみんなには秘密にしておいてね？\u3000あははは……」"
+translation = "「이 일은 모두에게 비밀로 해줘? 아하하하……」"
+

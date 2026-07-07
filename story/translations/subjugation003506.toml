@@ -1,0 +1,315 @@
+[[dialogue]]
+speaker = "unk"
+original = "ミルフィーとトリシャさんの活躍により、演劇部にいたゾンビ型幽霊は無事駆逐された。"
+translation = "밀피와 트리샤 씨의 활약 덕분에, 연극부에 있던 좀비형 유령은 무사히 구축되었다."
+
+[[dialogue]]
+speaker = "ミルフィー"
+original = "「会長くん、何か言うことは？」"
+translation = "「회장군, 뭐 할 말은?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "反省してます"
+translation = "반성하고 있어"
+
+[[dialogue]]
+speaker = "unk"
+original = "ごめんなさい"
+translation = "미안해"
+
+[[dialogue]]
+speaker = "ミルフィー"
+original = "「うん、じゃあ許す。会長くんも不可抗力だったよね。トリシャさんがあんなにぴょんぴょんするとは思わなかったもん」"
+translation = "「응, 그럼 용서해 줄게. 회장군도 불가항력이었지. 트리샤 씨가 그렇게 뿅뿅거릴 줄은 몰랐는걸.」"
+
+[[dialogue]]
+speaker = "トリシャ"
+original = "「ご安心ください、ミルフィーさんのことも見ていました。じっくりと……欲望に満ちた眼差しで……」"
+translation = "「안심하세요, 밀피 씨도 보고 있었습니다. 찬찬히…… 욕망에 가득 찬 눈빛으로……」"
+
+[[dialogue]]
+speaker = "ジャクリーヌ"
+original = "「ゆ！\u3000それは余も見てたゆ♪」"
+translation = "「유! 그건 유도 봤구유♪」"
+
+[[dialogue]]
+speaker = "ミルフィー"
+original = "「全然安心じゃないよ……も、もうっ！\u3000会長くんのエッチっ！」"
+translation = "「전혀 안심이 안 된다고…… 정, 정말! 회장군 변태!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "マトイから連絡だ"
+translation = "마토이에게 연락이다"
+
+[[dialogue]]
+speaker = "unk"
+original = "ちょっと待った！"
+translation = "잠깐 기다려!"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "『ついさっき、大量のゾンビ型幽霊が出現したっていう報告が舞亜ちゃんから入ったよ』"
+translation = "『방금 막, 대량의 좀비형 유령이 출현했다는 보고가 마아짱한테 들어왔어.』"
+
+[[dialogue]]
+speaker = "ミルフィー"
+original = "「すぐ行くよ！\u3000場所はどこ？」"
+translation = "「금방 갈게! 장소는 어디야?」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "『購買部。なんでもお菓子コーナーに大群が押し寄せてきたって……』"
+translation = "『매점. 아무래도 과자 코너에 대군이 몰려왔다나 봐……』"
+
+[[dialogue]]
+speaker = "ミルフィー"
+original = "「お菓子コーナー？\u3000どういうことかな？」"
+translation = "「과자 코너? 어떻게 된 거지?」"
+
+[[dialogue]]
+speaker = "トリシャ"
+original = "「フフ……邪霊はジャクリーヌさんが召喚したものですから……召喚主に似るのかもしれませんね……」"
+translation = "「후후…… 사령은 자클린 씨가 소환한 것이니까요…… 소환주를 닮는 것일지도 모르겠네요……」"
+
+[[dialogue]]
+speaker = "ジャクリーヌ"
+original = "「ゆ！\u3000余に似ているということは案外いいやつらかもしれないの♪」"
+translation = "「유! 유를 닮았다는 건 의외로 착한 녀석들일지도 모르겠구유♪」"
+
+[[dialogue]]
+speaker = "ミルフィー"
+original = "「思いっきり騒動を起こしてるのに……？」"
+translation = "「대놓고 소동을 일으키고 있는데……?」"
+
+[[dialogue]]
+speaker = "ジャクリーヌ"
+original = "「ゆゆっ！\u3000前言撤回ゆ！\u3000余には全然似てない連中ゆ！」"
+translation = "「유유! 전언 철회구유! 유하고는 전혀 안 닮은 녀석들이구유!」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "『ごめんね！\u3000別の報告が入ったよ。今度はトレーニング施設だって！』"
+translation = "『미안! 다른 보고가 들어왔어. 이번엔 트레이닝 시설이래!』"
+
+[[dialogue]]
+speaker = "ミルフィー"
+original = "「トレーニング施設……なにかジャクリーヌさんの興味を惹くものがあったかな？」"
+translation = "「트레이닝 시설…… 뭔가 자클린 씨의 흥미를 끌 만한 게 있었나?」"
+
+[[dialogue]]
+speaker = "ジャクリーヌ"
+original = "「ないゆ！\u3000余は幽霊だからトレーニングなんてしないゆ～♪」"
+translation = "「없구유! 유는 유령이라서 트레이닝 같은 건 안 하구유~♪」"
+
+[[dialogue]]
+speaker = "ミルフィー"
+original = "「だよねぇ。ってことは、ゾンビ型幽霊はジャクリーヌさんの嗜好とは関係ないのかも」"
+translation = "「그렇지. 그렇다는 건, 좀비형 유령은 자클린 씨의 기호와는 관계없을지도.」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "『わわっ！\u3000またもう１件報告！\u3000今度は大聖堂に大量出現したみたい！』"
+translation = "『와왓! 또 한 건 더 보고! 이번엔 대성당에 대량 출현한 것 같아!』"
+
+[[dialogue]]
+speaker = "unk"
+original = "これはまずいな……"
+translation = "이건 큰일인데……"
+
+[[dialogue]]
+speaker = "unk"
+original = "一度にこんなにたくさん"
+translation = "한꺼번에 이렇게 많이"
+
+[[dialogue]]
+speaker = "ミルフィー"
+original = "「どうしよう？\u3000このままじゃ全然追いつかないよ……」"
+translation = "「어떡하지? 이대로라면 도저히 따라잡지 못해……」"
+
+[[dialogue]]
+speaker = "トリシャ"
+original = "「全部で何体の幽霊ゾンビが現世に召喚されているのでしょうか……？」"
+translation = "「전부 몇 마리의 유령 좀비가 현세에 소환된 것일까요……?」"
+
+[[dialogue]]
+speaker = "ジャクリーヌ"
+original = "「わかんないゆ。でも、いっぱいいるゆ」"
+translation = "「모르구유. 하지만, 엄청 많이 있구유.」"
+
+[[dialogue]]
+speaker = "ミルフィー"
+original = "「今のペースで駆除していても追いつかないよね。なにかいい作戦があればいいんだけど……」"
+translation = "「지금 페이스로 구제해도 늦겠어. 뭔가 좋은 작전이 있으면 좋겠는데……」"
+
+[[dialogue]]
+speaker = "ミルフィー"
+original = "「うーん…………映画の中にヒントはないかな？\u3000たくさんのゾンビ型幽霊と戦う時どうしてた、とか」"
+translation = "「으음………… 영화 속에 힌트는 없을까? 수많은 좀비형 유령과 싸울 때 어떻게 했는지, 같은 거.」"
+
+[[dialogue]]
+speaker = "ジャクリーヌ"
+original = "「ミルフィーたちと同じゆ。剣とかお札とか、鏡も使ってたゆ」"
+translation = "「밀피 일행이랑 똑같구유. 검이나 부적, 거울도 썼구유.」"
+
+[[dialogue]]
+speaker = "トリシャ"
+original = "「フフ……それだけでしたか？\u3000よく思い出してください、ジャクリーヌさん」"
+translation = "「후후…… 그뿐이었나요? 잘 떠올려 보세요, 자클린 씨.」"
+
+[[dialogue]]
+speaker = "ジャクリーヌ"
+original = "「ゆゆっ！？」"
+translation = "「유유!?」"
+
+[[dialogue]]
+speaker = "トリシャ"
+original = "「彼女たちは幽霊ゾンビを一網打尽にするような秘策を……使ってはいませんでしたか……？」"
+translation = "「그녀들은 유령 좀비를 일망타진할 만한 비책을…… 사용하지 않았었나요……?」"
+
+[[dialogue]]
+speaker = "ジャクリーヌ"
+original = "「ゆっ！？\u3000そ、そうだったゆ！」"
+translation = "「유!? 그, 그랬구유!」"
+
+[[dialogue]]
+speaker = "トリシャ"
+original = "「そうです。さあ、ミルフィーさん。邪霊を引き寄せるあの霊具を……」"
+translation = "「맞습니다. 자, 밀피 씨. 사령을 끌어당기는 그 영구를……」"
+
+[[dialogue]]
+speaker = "ミルフィー"
+original = "「って言われても私は映画を見てないですし……分からないですよ……」"
+translation = "「그렇게 말씀하셔도 저는 영화를 안 봤고…… 모르겠는데요……」"
+
+[[dialogue]]
+speaker = "ミルフィー"
+original = "「あ、でも……もしかして……その霊具ってこれの事かな？」"
+translation = "「아, 하지만…… 설마…… 그 영구라는 게 이걸 말하는 걸까?」"
+
+[[dialogue]]
+speaker = "ジャクリーヌ"
+original = "「それだゆ！\u3000映画だとそのベルを鳴らすと、幽霊ゾンビがワラワラと寄ってきてたゆ！」"
+translation = "「그거구유! 영화에선 그 벨을 울리면, 유령 좀비가 바글바글 몰려왔구유!」"
+
+[[dialogue]]
+speaker = "ミルフィー"
+original = "「なんとなくそれっぽいって思ったけど、やっぱりそうなんだ」"
+translation = "「왠지 그럴싸하다고 생각했는데, 역시 그렇구나.」"
+
+[[dialogue]]
+speaker = "トリシャ"
+original = "「それはミルフィーさんの人工戦闘服の装備の１つで、幽霊が好きな音色を鳴らすことができるのです」"
+translation = "「그건 밀피 씨의 인공 전투복 장비 중 하나로, 유령이 좋아하는 음색을 울릴 수 있는 것입니다.」"
+
+[[dialogue]]
+speaker = "ジャクリーヌ"
+original = "「ゆ～、確かにいつまでも聴いていたくなる音ゆ～」"
+translation = "「유~, 확실히 언제까지고 듣고 싶어지는 소리구유~」"
+
+[[dialogue]]
+speaker = "ミルフィー"
+original = "「それじゃこれを使ってゾンビ型幽霊をひとつに集めればいいんだ」"
+translation = "「그럼 이걸 써서 좀비형 유령을 하나로 모으면 되겠어.」"
+
+[[dialogue]]
+speaker = "トリシャ"
+original = "「ミルフィーさんには幽霊ゾンビをその剣にて祓っていただく役目がありますから、集める役は私が務めましょう……」"
+translation = "「밀피 씨는 유령 좀비를 그 검으로 정화해야 하는 역할이 있으니까, 모으는 역할은 제가 맡도록 하죠……」"
+
+[[dialogue]]
+speaker = "ミルフィー"
+original = "「いいんですか、トリシャさん？」"
+translation = "「괜찮겠어요, 트리샤 씨?」"
+
+[[dialogue]]
+speaker = "トリシャ"
+original = "「私はミルフィーさんのオトモですから……お安い御用です……」"
+translation = "「저는 밀피 씨의 오토모(수행원)니까요…… 식은 죽 먹기입니다……」"
+
+[[dialogue]]
+speaker = "ミルフィー"
+original = "「…………」"
+translation = "「…………」"
+
+[[dialogue]]
+speaker = "ミルフィー"
+original = "「えっと……ずっと気になってたんですが『オトモ』というのはやめませんか？」"
+translation = "「저기…… 계속 신경 쓰였는데 『오토모』라는 건 그만두지 않을래요?」"
+
+[[dialogue]]
+speaker = "トリシャ"
+original = "「ガーーーン……！！\u3000そ、そんな……ミルフィーさんにとって私はオトモたりえない存在……」"
+translation = "「콰광……!! 그, 그럴 수가…… 밀피 씨에게 있어 저는 오토모조차 될 수 없는 존재……」"
+
+[[dialogue]]
+speaker = "ミルフィー"
+original = "「そ、そうじゃなくてですね！\u3000なんかオトモっていうと、主従みたいな感じになっちゃいますし……」"
+translation = "「그, 그게 아니라요! 왠지 오토모라고 하면, 주종 관계 같은 느낌이 들기도 하고……」"
+
+[[dialogue]]
+speaker = "トリシャ"
+original = "「ですが……ですが……オトモでなくなると……ミルフィーさんとオトモダチでもなくなってしまいます……」"
+translation = "「하지만…… 하지만…… 오토모가 아니게 되면…… 밀피 씨와 오토모다치(친구)도 아니게 되어버려요……」"
+
+[[dialogue]]
+speaker = "ミルフィー"
+original = "「そんなことないですよ！\u3000オトモじゃなくてもトリシャさんは大切なお友達ですっ！」"
+translation = "「그렇지 않아요! 오토모가 아니더라도 트리샤 씨는 소중한 친구예요!」"
+
+[[dialogue]]
+speaker = "トリシャ"
+original = "「…………本当、ですか？」"
+translation = "「…………정말, 인가요?」"
+
+[[dialogue]]
+speaker = "ミルフィー"
+original = "「だからオトモではなくて、普通に……お友達になってくれませんか？」"
+translation = "「그러니까 오토모가 아니라, 평범하게…… 친구가 되어주지 않을래요?」"
+
+[[dialogue]]
+speaker = "トリシャ"
+original = "「っ……！！」"
+translation = "「윽……!!」"
+
+[[dialogue]]
+speaker = "トリシャ"
+original = "「にへへ……嬉しい……その言葉を聞いたら……やる気が漲ってきました……」"
+translation = "「헤헤…… 기뻐요…… 그 말을 들으니…… 의욕이 샘솟아 오네요……」"
+
+[[dialogue]]
+speaker = "トリシャ"
+original = "「貴方のオトモダチとして……私にやらせて下さい……見事、幽霊ゾンビたちを引き連れてみせます」"
+translation = "「당신의 친구로서…… 제가 하게 해 주세요…… 멋지게, 유령 좀비들을 이끌어 보이겠습니다.」"
+
+[[dialogue]]
+speaker = "ミルフィー"
+original = "「トリシャさん……」"
+translation = "「트리샤 씨……」"
+
+[[dialogue]]
+speaker = "ミルフィー"
+original = "「うん、それじゃ誘導役は任せるね！\u3000一緒に頑張ろう！」"
+translation = "「응, 그럼 유도 역할은 맡길게! 같이 힘내자!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "う、美しい友情だ……"
+translation = "으, 아름다운 우정이다……"
+
+[[dialogue]]
+speaker = "ジャクリーヌ"
+original = "「これがヒトリの言ってた……てぇてぇ気持ちゆ……」"
+translation = "「이게 히토리가 말하던…… 테에테에한 기분이구유……」"
+
+[[dialogue]]
+speaker = "unk"
+original = "まるで映画のワンシーンのように手を取り合い、確かな友情を結ぶミルフィーとトリシャさん。"
+translation = "마치 영화의 한 장면처럼 손을 맞잡고, 확실한 우정을 맺는 밀피와 트리샤 씨."
+
+[[dialogue]]
+speaker = "unk"
+original = "そして、ゾンビ型幽霊を一ヶ所に集めて一網打尽にするという作戦が始まったのだった。"
+translation = "그리고 좀비형 유령을 한곳에 모아 일망타진한다는 작전이 시작되었다."
+

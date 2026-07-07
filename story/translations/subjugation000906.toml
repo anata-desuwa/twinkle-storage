@@ -1,0 +1,475 @@
+[[dialogue]]
+speaker = "unk"
+original = "その日の夜。俺たちは再び保健室にやって来ていた。"
+translation = "그날 밤. 우리는 다시 보건실로 찾아왔다."
+
+[[dialogue]]
+speaker = "ソフレ"
+original = "「……で、仕方なく、ソフレも調査とやらに協力してあげることにしたわけだけど――」"
+translation = "「……해서, 어쩔 수 없이 소프레도 조사라는 것에 협력해 주기로 했다만──」"
+
+[[dialogue]]
+speaker = "ソフレ"
+original = "「なぜ、こんな窮屈なところでコソコソしなければいけないのだわ！？」"
+translation = "「왜 이런 거북한 곳에서 웅크리고 있어야 하는 거예요!?」"
+
+[[dialogue]]
+speaker = "フェリシー"
+original = "「いや、本当に保健室に不審者が現れるなら、こっちの存在がバレないように隠れてないといけないでしょ？」"
+translation = "「아니, 정말로 보건실에 수상한 사람이 나타난다면 우리 존재가 들키지 않게 숨어있어야 하잖아?」"
+
+[[dialogue]]
+speaker = "ソフレ"
+original = "「だからって、つい立ての後ろに３人でぎゅうぎゅう詰めじゃ、暑苦しくて寝てられないのだわ！」"
+translation = "「그렇다고 칸막이 뒤에 셋이서 꽉 끼어 있으면 더워서 잠도 못 자는 거예요!」"
+
+[[dialogue]]
+speaker = "フェリシー"
+original = "「サボって居眠りする気満々じゃん！」"
+translation = "「땡땡이치고 낮잠 잘 생각 가득이잖아!」"
+
+[[dialogue]]
+speaker = "ソフレ"
+original = "「というか、お前はともかく、会長もいるのよ？\u3000少しは空気を読めなのだわ！」"
+translation = "「그보다 너는 그렇다 쳐도 회장도 있는 거예요! 눈치 좀 챙기는 거예요!」"
+
+[[dialogue]]
+speaker = "フェリシー"
+original = "「え？\u3000どゆこと？\u3000会長くんは助っ人だし……」"
+translation = "「어? 무슨 소리야? 회장군은 도와주러 온 거고……」"
+
+[[dialogue]]
+speaker = "ソフレ"
+original = "「距離が近いって言ってるのよ！\u3000なんでお前は、今日会ったばかりの男子と、そんなに平気でくっ付いていられるのだわ！？」"
+translation = "「거리가 가깝다고 말하는 거예요! 왜 너는 오늘 처음 만난 남자랑 그렇게 아무렇지 않게 붙어 있을 수 있는 거예요!?」"
+
+[[dialogue]]
+speaker = "フェリシー"
+original = "「あっ、そういうことか！\u3000またやっちゃった……！」"
+translation = "「앗, 그런 거였어! 또 그랬네……!」"
+
+[[dialogue]]
+speaker = "フェリシー"
+original = "「ごめんね、会長くん。嫌じゃなかった？」"
+translation = "「미안해, 회장군. 싫었어?」"
+
+[[dialogue]]
+speaker = "フェリシー"
+original = "「――大丈夫？\u3000なら、よかった。なんか、会長くんって親しみやすい雰囲気だから、つい♪」"
+translation = "「──괜찮아? 그럼 다행이다. 왠지 회장군은 친근한 분위기라 나도 모르게♪」"
+
+[[dialogue]]
+speaker = "ソフレ"
+original = "「大丈夫と言いつつ、会長、内心ドキドキしてるんじゃないの？」"
+translation = "「괜찮다고 하면서 회장, 내심 두근거리는 거 아니야?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "そ、そんなことないよ……？"
+translation = "그, 그런 거 아니야……?"
+
+[[dialogue]]
+speaker = "ソフレ"
+original = "「図星なのが顔に出てるのだわ」"
+translation = "「정곡을 찔려서 얼굴에 다 드러나는 거예요.」"
+
+[[dialogue]]
+speaker = "フェリシー"
+original = "「えっ、会長くん照れてるの？\u3000な、なんか、それ聞くと、私も照れちゃうかも……」"
+translation = "「엣, 회장군 부끄러워하는 거야? 왠지 그 말을 들으니까 나도 쑥스러워질지도……」"
+
+[[dialogue]]
+speaker = "ソフレ"
+original = "「はぁ……ソフレは離れたところで寝てるから、もうそのまま、２人で仲よく青春ごっこをしてればいいんじゃないかしら」"
+translation = "「하아…… 소프레는 떨어진 곳에서 잘 테니까 이제 그대로 둘이서 사이좋게 청춘 놀이나 하면 되지 않겠냐는 거예요.」"
+
+[[dialogue]]
+speaker = "フェリシー"
+original = "「って、いやいや！\u3000隠れてなきゃダメだって！\u3000ソフレが実際に見えるところで寝てたら、不審者と間違われちゃう可能性もあるでしょ？」"
+translation = "「아니 아니! 숨어있어야 한다니까! 소프레가 대놓고 보이는 데서 자고 있으면 수상한 사람으로 오해받을 수도 있잖아?」"
+
+[[dialogue]]
+speaker = "ソフレ"
+original = "「というか、そもそも何故、ソフレが犯人だと疑われているのだわ？」"
+translation = "「그보다 애초에 왜 소프레가 범인이라고 의심받는 거예요?」"
+
+[[dialogue]]
+speaker = "ソフレ"
+original = "「ソフレは確かに保健室をお昼寝スポットとして使ったりするけど、それはあくまで昼間の話。夜だったら普通に、流星寮の自室に帰って寝るのだわ」"
+translation = "「소프레는 확실히 보건실을 낮잠 장소로 쓰기도 하지만 그건 어디까지나 낮의 이야기인 거예요. 밤에는 평범하게 유성 기숙사의 자기 방으로 돌아가서 자는 거예요.」"
+
+[[dialogue]]
+speaker = "フェリシー"
+original = "「私は、ソフレが犯人だとは特に疑ってないよ」"
+translation = "「나는 소프레가 범인이라고 딱히 의심하지 않아.」"
+
+[[dialogue]]
+speaker = "フェリシー"
+original = "「ソフレは『暴虐の吸血鬼』として有名だけど、１００年経った今では、両学園で呼ばれてる『眠り姫』って、可愛いあだ名が付くくらいだし」"
+translation = "「소프레는 『포학의 흡혈귀』로 유명하지만 100년이 지난 지금은 양쪽 학원에서 『잠자는 공주』라는 귀여운 별명으로 불릴 정도고.」"
+
+[[dialogue]]
+speaker = "フェリシー"
+original = "「にも関わらず、目撃者の多くがわざわざ『暴虐の吸血鬼』って昔の呼び名を持ち出した」"
+translation = "「그럼에도 불구하고 목격자들 대부분이 굳이 『포학의 흡혈귀』라는 옛날 이름을 꺼냈어.」"
+
+[[dialogue]]
+speaker = "フェリシー"
+original = "「それって、不審者はソフレに似ているけど、何か違うって感じたからじゃないかと思うんだよね」"
+translation = "「그건 수상한 사람이 소프레를 닮았지만 뭔가 다르다고 느꼈기 때문이 아닐까 싶거든.」"
+
+[[dialogue]]
+speaker = "フェリシー"
+original = "「あと、探査星術にも引っかからないし、監視カメラにも映らないってのも、明らかに妙だしね」"
+translation = "「게다가 탐사 성술에도 걸리지 않고 감시 카메라에도 찍히지 않는다는 것도 분명 묘하니까 말이야.」"
+
+[[dialogue]]
+speaker = "unk"
+original = "――それから、１時間ほど経過して。"
+translation = "──그로부터 1시간 정도 경과한 뒤."
+
+[[dialogue]]
+speaker = "フェリシー"
+original = "「どうか、上手く行きますように……」"
+translation = "「부디 잘 풀리기를……」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ふと隣を見やると、フェリシーが手を合わせて、お祈りしている姿が目に入った。"
+translation = "문득 옆을 보니 펠리시가 손을 모으고 기도하고 있는 모습이 눈에 들어왔다."
+
+[[dialogue]]
+speaker = "unk"
+original = "どうしたのかと尋ねると――"
+translation = "왜 그러냐고 묻자──"
+
+[[dialogue]]
+speaker = "フェリシー"
+original = "「あっ、これ？\u3000実は私……結構心配症で、つい癖でお祈りしちゃうんだよね」"
+translation = "「앗, 이거? 사실 나…… 걱정이 좀 많아서 나도 모르게 버릇처럼 기도하게 되더라고.」"
+
+[[dialogue]]
+speaker = "フェリシー"
+original = "「ほら、何かをいざやろうとする時って、妙に不安な気持ちになったりしない？」"
+translation = "「봐봐, 뭔가를 막 시작하려고 할 때 묘하게 불안한 기분이 들거나 하지 않아?」"
+
+[[dialogue]]
+speaker = "ソフレ"
+original = "「ふん。悪い癖なのだわ」"
+translation = "「흥. 나쁜 버릇인 거예요.」"
+
+[[dialogue]]
+speaker = "ソフレ"
+original = "「自分に自信があれば、不安になんかなったりしないのよ」"
+translation = "「자신에게 자신이 있으면 불안해하거나 하지 않는 거예요.」"
+
+[[dialogue]]
+speaker = "ソフレ"
+original = "「祈りとは本来、他者への想いを願い、込めるもの……祈りにすがって、不安を忘れることではないのだわ」"
+translation = "「기도란 본래 타인을 향한 마음을 바라고 담는 것…… 기도에 매달려 불안을 잊는 것이 아닌 거예요.」"
+
+[[dialogue]]
+speaker = "ソフレ"
+original = "「お前が本当に、星に選ばれたエクソシストだというのなら――」"
+translation = "「네가 정말로 별에 선택받은 엑소시스트라면──」"
+
+[[dialogue]]
+speaker = "ソフレ"
+original = "「プライドを持って、自分のことくらい、祈らずに何とかしてみせろって話なのだわ」"
+translation = "「자부심을 가지고 자기 일 정도는 기도하지 말고 어떻게든 해보라는 소리인 거예요.」"
+
+[[dialogue]]
+speaker = "フェリシー"
+original = "「……ソフレは、やっぱり誇り高き吸血鬼だね！」"
+translation = "「……소프레는 역시 긍지 높은 흡혈귀구나!」"
+
+[[dialogue]]
+speaker = "ソフレ"
+original = "「はぁ？」"
+translation = "「하아?」"
+
+[[dialogue]]
+speaker = "フェリシー"
+original = "「お母さんやお祖母ちゃんから伝え聞いていた通りだよ！」"
+translation = "「엄마나 할머니한테 들었던 그대로야!」"
+
+[[dialogue]]
+speaker = "ソフレ"
+original = "「…………今のソフレは、昔とは違うのよ……」"
+translation = "「…………지금의 소프레는 옛날과는 다른 거예요……」"
+
+[[dialogue]]
+speaker = "ソフレ"
+original = "（今のは、何となく面白くなくて、つい口を挟んでしまっただけで……）"
+translation = "(방금 건 왠지 모르게 재미없어서 나도 모르게 참견했을 뿐이고……)"
+
+[[dialogue]]
+speaker = "ソフレ"
+original = "（プライドとか今更……そんなんじゃないのだわ。<b>アイツ</b>の言葉を借りただけだし……）"
+translation = "(자부심이라니 이제 와서…… 그런 게 아닌 거예요. <b>그</b> <b>녀석</b>의 말을 빌렸을 뿐이고……)"
+
+[[dialogue]]
+speaker = "unk"
+original = "と、その時。"
+translation = "그때였다."
+
+[[dialogue]]
+speaker = "？？？"
+original = "「…………」"
+translation = "「…………」"
+
+[[dialogue]]
+speaker = "unk"
+original = "２人共！\u3000後ろだ！"
+translation = "둘 다! 뒤야!"
+
+[[dialogue]]
+speaker = "フェリシー"
+original = "「えっ……？」"
+translation = "「엣……?」"
+
+[[dialogue]]
+speaker = "ソフレ"
+original = "「なっ……！？」"
+translation = "「닛……!?」"
+
+[[dialogue]]
+speaker = "フェリシー"
+original = "「ソフレがもう１人！？\u3000いつの間に！？」"
+translation = "「소프레가 한 명 더!? 어느 사이에!?」"
+
+[[dialogue]]
+speaker = "ソフレ"
+original = "「本当にそっくりなのだわ！？\u3000なにこれ、ドッペルゲンガー！？」"
+translation = "「정말로 똑 닮은 거예요!? 뭐야 이거, 도플갱어!?」"
+
+[[dialogue]]
+speaker = "フェリシー"
+original = "「全く気配を感じなかった……！」"
+translation = "「전혀 기척을 느끼지 못했어……!」"
+
+[[dialogue]]
+speaker = "偽物"
+original = "「暴虐の吸血鬼……本体を確認したわ」"
+translation = "「포학의 흡혈귀…… 본체를 확인했다.」"
+
+[[dialogue]]
+speaker = "偽物"
+original = "「好機と判断、<b>図書館</b>への強制転移を行うのだわ」"
+translation = "「호기라고 판단, <b>도서관</b>으로 강제 전이를 실행하는 거예요.」"
+
+[[dialogue]]
+speaker = "unk"
+original = "突然、室内が眩い光に包まれたかと思うと――"
+translation = "갑자기 실내가 눈부신 빛에 휩싸였다고 생각하자──"
+
+[[dialogue]]
+speaker = "ソフレ"
+original = "「これは……！？」"
+translation = "「이것은……!?」"
+
+[[dialogue]]
+speaker = "フェリシー"
+original = "「ソフレ！」"
+translation = "「소프레!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "次の瞬間には、ソフレとフェリシー、そして偽物の姿が消え去ってしまっていた。"
+translation = "다음 순간에는 소프레와 펠리시, 그리고 가짜의 모습이 사라져 버리고 말았다."
+
+[[dialogue]]
+speaker = "unk"
+original = "一体どこに……！？"
+translation = "대체 어디로……!?"
+
+[[dialogue]]
+speaker = "unk"
+original = "俺は２人を探す為、すぐさま保健室を飛び出すのだった――"
+translation = "나는 두 사람을 찾기 위해 곧바로 보건실을 뛰쳐나갔다──"
+
+[[dialogue]]
+speaker = "unk"
+original = "保健室で光に包まれたソフレとフェリシー。"
+translation = "보건실에서 빛에 휩싸인 소프레와 펠리시."
+
+[[dialogue]]
+speaker = "unk"
+original = "気付けば、２人は全く別の場所に立っていた。"
+translation = "정신을 차려보니 두 사람은 완전히 다른 장소에 서 있었다."
+
+[[dialogue]]
+speaker = "ソフレ"
+original = "「ここは……一体どこなのだわ……！？」"
+translation = "「여기는…… 대체 어디인 거예요……!?」"
+
+[[dialogue]]
+speaker = "フェリシー"
+original = "「この場所……『地下図書館』……！？」"
+translation = "「이 장소…… 『지하 도서관』……!?」"
+
+[[dialogue]]
+speaker = "ソフレ"
+original = "「それってウィステリアが言っていた……？」"
+translation = "「그거 위스테리아가 말했던……?」"
+
+[[dialogue]]
+speaker = "フェリシー"
+original = "「うん。ウィステリアさんに同伴してもらって、何度も来たことがあるから間違いないと思う」"
+translation = "「응. 위스테리아 씨랑 동행해서 몇 번 와본 적 있으니까 틀림없어.」"
+
+[[dialogue]]
+speaker = "フェリシー"
+original = "「地下図書館は、新星学園の地下３０００メートルに存在する謎の空間なの」"
+translation = "「지하 도서관은 신성학원 지하 3000미터에 존재하는 수수께끼의 공간이야.」"
+
+[[dialogue]]
+speaker = "フェリシー"
+original = "「新星学園の図書館とは、異空間を通じて繋がっている場所で……なんの力が働いているのか分かっていないみたいだけど、１つの異変として、確かにこうして存在している」"
+translation = "「신성학원 도서관과는 이공간을 통해 연결된 장소로…… 어떤 힘이 작용하고 있는지 밝혀지지 않았지만, 하나의 이변으로서 확실히 이렇게 존재해.」"
+
+[[dialogue]]
+speaker = "フェリシー"
+original = "「ウィステリアさんは、普通の司書として仕事する傍ら、新星学園の指示で、地下図書館の調査を任されているの」"
+translation = "「위스테리아 씨는 평범한 사서로 일하는 한편, 신성학원의 지시로 지하 도서관 조사를 맡고 있어.」"
+
+[[dialogue]]
+speaker = "フェリシー"
+original = "「でも、普段はウィステリアさんが出入口を封印しているから、ここには入れないはずなんだけど……」"
+translation = "「하지만 평소에는 위스테리아 씨가 출입구를 봉인하고 있어서 여기엔 들어올 수 없을 텐데……」"
+
+[[dialogue]]
+speaker = "ソフレ"
+original = "「だとすれば、ここに連れ込んだのは、ヤツなのだわ」"
+translation = "「그렇다면 여기에 끌어들인 건 저 녀석인 거예요.」"
+
+[[dialogue]]
+speaker = "偽物"
+original = "「…………」"
+translation = "「…………」"
+
+[[dialogue]]
+speaker = "偽物"
+original = "「本体の転移には成功。しかし――」"
+translation = "「본체 전이에 성공. 하지만──」"
+
+[[dialogue]]
+speaker = "偽物"
+original = "「直前の不可解な干渉で、余計なものに紛れ込まれたのだわ」"
+translation = "「직전의 불가해한 간섭으로 불필요한 것까지 섞여 들어온 거예요.」"
+
+[[dialogue]]
+speaker = "フェリシー"
+original = "「ソフレの偽物……！\u3000まさか、地下図書館の防衛システム……！？」"
+translation = "「소프레의 가짜……! 설마 지하 도서관의 방어 시스템……!?」"
+
+[[dialogue]]
+speaker = "ソフレ"
+original = "「防衛システム？」"
+translation = "「방어 시스템?」"
+
+[[dialogue]]
+speaker = "フェリシー"
+original = "「地下図書館には、侵入者を撃退する為に、ヒトの姿をコピーして、守護者を作り出すシステムがあるの」"
+translation = "「지하 도서관에는 침입자를 격퇴하기 위해 사람의 모습을 복제해서 수호자를 만들어내는 시스템이 있어.」"
+
+[[dialogue]]
+speaker = "ソフレ"
+original = "「でも、なんでソフレの姿に……？\u3000ソフレはこの場所に来たことなんてないのだわ」"
+translation = "「하지만 왜 소프레의 모습으로……? 소프레는 이 장소에 온 적 따위 없는 거예요.」"
+
+[[dialogue]]
+speaker = "フェリシー"
+original = "「！\u3000まさか……！」"
+translation = "「! 설마……!」"
+
+[[dialogue]]
+speaker = "フェリシー"
+original = "「私が地下図書館で、ソフレの封印を解く方法を探していたから……！？"
+translation = "「내가 지하 도서관에서 소프레의 봉인을 풀 방법을 찾고 있었기 때문에……!?」"
+
+[[dialogue]]
+speaker = "偽物"
+original = "「理由なんて、お前たちが知る必要はないのだわ」"
+translation = "「이유 같은 건 너희가 알 필요 없는 거예요.」"
+
+[[dialogue]]
+speaker = "偽物"
+original = "「必要としているのは、ソフレ・ヴァートリン本体の記録。余計な詮索はせずに、黙ってこちらの指示に従うのだわ」"
+translation = "「필요로 하는 것은 소프레 바트린 본체의 기록. 쓸데없는 참견은 하지 말고 얌전히 이쪽 지시에 따르는 거예요.」"
+
+[[dialogue]]
+speaker = "ソフレ"
+original = "「指示ですって？」"
+translation = "「지시라고요?」"
+
+[[dialogue]]
+speaker = "偽物"
+original = "「お前を拘束し、その情報を詳細に解析、記録する。それと――」"
+translation = "「너를 구속해 그 정보를 상세히 해석, 기록하겠다. 그리고──」"
+
+[[dialogue]]
+speaker = "偽物"
+original = "「関係のない侵入者は排除する。恵原フェリシー、ここからすぐに立ち去るのだわ」"
+translation = "「상관없는 침입자는 배제한다. 에바라 펠리시, 여기서 당장 떠나는 거예요.」"
+
+[[dialogue]]
+speaker = "フェリシー"
+original = "「ソフレを置いてくだなんて、そんな指示、従えるわけがないよ！」"
+translation = "「소프레를 두고 가라니, 그런 지시 따를 수 있을 리 없잖아!」"
+
+[[dialogue]]
+speaker = "ソフレ"
+original = "「ふん。ソフレだって、面倒事はゴメンなのだわ！」"
+translation = "「흥. 소프레도 귀찮은 일은 질색인 거예요!」"
+
+[[dialogue]]
+speaker = "偽物"
+original = "「そう。ならば仕方がない――」"
+translation = "「그런가. 그렇다면 어쩔 수 없지──」"
+
+[[dialogue]]
+speaker = "偽物"
+original = "「実力行使で制圧するのみ」"
+translation = "「실력 행사로 제압할 뿐.」"
+
+[[dialogue]]
+speaker = "フェリシー"
+original = "「ソフレ！」"
+translation = "「소프레!」"
+
+[[dialogue]]
+speaker = "ソフレ"
+original = "「わかっているのだわ！」"
+translation = "「알고 있는 거예요!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "２人は偽物の放つ攻撃を回避しながら、声を合わせる。"
+translation = "두 사람은 가짜가 쏘는 공격을 회피하며 소리를 맞춘다."
+
+[[dialogue]]
+speaker = "２人"
+original = "「変身！」"
+translation = "「변신!」"
+
+[[dialogue]]
+speaker = "偽物"
+original = "「……！」"
+translation = "「……!」"
+
+[[dialogue]]
+speaker = "フェリシー"
+original = "「一気に突破して、ここから脱出するよ！」"
+translation = "「단번에 돌파해서 여기서 탈출하자!」"
+
+[[dialogue]]
+speaker = "ソフレ"
+original = "「言われなくとも、ソフレはさっさと帰って寝させてもらうのだわ！」"
+translation = "「말하지 않아도 소프레는 어서 돌아가서 자고 싶은 거예요!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "地下図書館での戦闘が始まるのだった――"
+translation = "지하 도서관에서의 전투가 시작되었다──"
+

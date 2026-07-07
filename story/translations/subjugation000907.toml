@@ -1,0 +1,630 @@
+[[dialogue]]
+speaker = "unk"
+original = "ソフレの偽物との激しい戦闘が繰り広げられ、そして――"
+translation = "소프레의 가짜와 격렬한 전투가 펼쳐지고, 그리고──"
+
+[[dialogue]]
+speaker = "ソフレ"
+original = "「今なのだわ！」"
+translation = "「지금인 거예요!」"
+
+[[dialogue]]
+speaker = "フェリシー"
+original = "「はあぁっ！」"
+translation = "「하아앗!」"
+
+[[dialogue]]
+speaker = "偽物"
+original = "「……！」"
+translation = "「……!」"
+
+[[dialogue]]
+speaker = "フェリシー"
+original = "「よし！\u3000倒した！」"
+translation = "「좋아! 쓰러뜨렸어!」"
+
+[[dialogue]]
+speaker = "ソフレ"
+original = "「ふぅ……姿だけでなく、戦闘力までコピーするなんて、厄介だったのだわ」"
+translation = "「후우…… 모습뿐만 아니라 전투력까지 복제하다니 성가신 거예요.」"
+
+[[dialogue]]
+speaker = "フェリシー"
+original = "「でも、私たちの友情コンビネーションで倒せたね！」"
+translation = "「하지만 우리 우정의 콤비네이션으로 쓰러뜨렸네!」"
+
+[[dialogue]]
+speaker = "ソフレ"
+original = "「ふん、友情とか、何を言って……」"
+translation = "「흥, 우정이라니 무슨 소리를……」"
+
+[[dialogue]]
+speaker = "ソフレ"
+original = "「っ！\u3000フェリシー！」"
+translation = "「앗! 펠리시!」"
+
+[[dialogue]]
+speaker = "フェリシー"
+original = "「え？\u3000きゃっ！？」"
+translation = "「어? 꺄악!?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ソフレが突然、フェリシーを突き飛ばす。次の瞬間――"
+translation = "소프레가 갑자기 펠리시를 밀쳐낸다. 다음 순간──"
+
+[[dialogue]]
+speaker = "ソフレ"
+original = "「ぐっ……！」"
+translation = "「윽……!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "天井近くに仕掛けられた雷雲から放たれた落雷が、ソフレに直撃した。"
+translation = "천장 근처에 설치된 뇌운에서 쏟아진 낙뢰가 소프레를 직격했다."
+
+[[dialogue]]
+speaker = "フェリシー"
+original = "「ソフレ！？」"
+translation = "「소프레!?」"
+
+[[dialogue]]
+speaker = "ソフレ"
+original = "「抜かったのだわ……。偽物は、保健室に現れる際にも気配をまるで感じさせなかった……！」"
+translation = "「방심한 거예요……. 가짜는 보건실에 나타날 때도 기척을 전혀 느끼지 못하게 했었지……!」"
+
+[[dialogue]]
+speaker = "ソフレ"
+original = "「いつの間にか……周りを取り囲まれてる……！」"
+translation = "「어느새…… 주변을 둘러싸여 버린 거예요……!」"
+
+[[dialogue]]
+speaker = "偽物"
+original = "「…………」"
+translation = "「…………」"
+
+[[dialogue]]
+speaker = "偽物"
+original = "「実験体は山程用意してあるのだわ。逃がしはしないのよ」"
+translation = "「실험체는 얼마든지 준비되어 있는 거예요. 놓치지 않아.」"
+
+[[dialogue]]
+speaker = "フェリシー"
+original = "「なっ……ソフレのコピーがこんなに沢山……！？\u3000こんなこと、これまで１度もなかったのに……！」"
+translation = "「뭐…… 소프레의 복제가 이렇게 많이……!? 이런 일 지금까지 한 번도 없었는데……!」"
+
+[[dialogue]]
+speaker = "偽物"
+original = "「――捕縛術式、一斉に展開」"
+translation = "「──포박 술식, 일제 전개.」"
+
+[[dialogue]]
+speaker = "ソフレ"
+original = "「くっ！？」"
+translation = "「큭!?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "偽物が放った星術――雷の鎖が本物のソフレの手足に巻き付いて、拘束する。"
+translation = "가짜가 쏜 성술── 번개의 사슬이 본체 소프레의 손발에 감겨 구속한다."
+
+[[dialogue]]
+speaker = "ソフレ"
+original = "「鎖の数が多すぎて、動けないのだわ……！」"
+translation = "「사슬의 수가 너무 많아서 움직일 수 없는 거예요……!」"
+
+[[dialogue]]
+speaker = "フェリシー"
+original = "「ソフレ！\u3000今助けるから！」"
+translation = "「소프레! 지금 구할게!」"
+
+[[dialogue]]
+speaker = "偽物"
+original = "「お前は邪魔よ。排除する」"
+translation = "「너는 방해다. 배제한다.」"
+
+[[dialogue]]
+speaker = "unk"
+original = "偽物の半数が、ソフレに近付こうとするフェリシーに向かって、攻撃を放つ。その間に――"
+translation = "가짜의 절반이 소프레에게 다가가려는 펠리시를 향해 공격을 퍼붓는다. 그사이에──"
+
+[[dialogue]]
+speaker = "偽物"
+original = "「本体を異空間に転移、確保する」"
+translation = "「본체를 이공간으로 전이, 확보한다.」"
+
+[[dialogue]]
+speaker = "unk"
+original = "保健室の時のような眩い光が辺りを覆って――"
+translation = "보건실 때와 같은 눈부신 빛이 주변을 덮고──"
+
+[[dialogue]]
+speaker = "unk"
+original = "収まった後には、ソフレの姿は消えてしまっていた。"
+translation = "빛이 걷힌 후에는 소프레의 모습은 사라져 있었다."
+
+[[dialogue]]
+speaker = "フェリシー"
+original = "「ソフレーーーッ！！！」"
+translation = "「소프레───!!!」"
+
+[[dialogue]]
+speaker = "ソフレ"
+original = "「ここは……？」"
+translation = "「여기는……?」"
+
+[[dialogue]]
+speaker = "偽物"
+original = "「お前を隔離しておく為の異空間よ」"
+translation = "「너를 격리해 두기 위한 이공간이다.」"
+
+[[dialogue]]
+speaker = "ソフレ"
+original = "「くっ……！\u3000星術が使えないのだわ……！」"
+translation = "「큭……! 성술을 쓸 수 없는 거예요……!」"
+
+[[dialogue]]
+speaker = "偽物"
+original = "「無駄よ。守護星とのリンクは、ここでは完全に遮断されている。大人しくしているのだわ」"
+translation = "「소용없다. 수호성과의 링크는 여기서 완전히 차단되어 있다. 얌전히 있는 거예요.」"
+
+[[dialogue]]
+speaker = "ソフレ"
+original = "「お前たちの目的は、一体何なの……？\u3000ソフレを捕まえて、どうする気……？」"
+translation = "「너희의 목적은 대체 뭐야……? 소프레를 잡아서 어쩔 셈인 거예요……?」"
+
+[[dialogue]]
+speaker = "偽物"
+original = "「説明する必要はないのだわ。お前は黙って、サンプルとして記録されていればいい」"
+translation = "「설명할 필요 없다. 너는 입 다물고 샘플로서 기록되기만 하면 된다.」"
+
+[[dialogue]]
+speaker = "ソフレ"
+original = "（サンプル……？\u3000何の……？）"
+translation = "(샘플……? 무엇의……?)"
+
+[[dialogue]]
+speaker = "偽物"
+original = "「封印術式の解析を開始――」"
+translation = "「봉인 술식 해석 개시──」"
+
+[[dialogue]]
+speaker = "偽物"
+original = "「封印による行動範囲を解除する条件は――星騎士として善行を積むこと……」"
+translation = "「봉인에 의한 행동 범위를 해제하는 조건은── 성기사로서 선행을 쌓는 것……」"
+
+[[dialogue]]
+speaker = "ソフレ"
+original = "（封印術式……？\u3000それって、ソフレにかけられた３０００年の封印のこと？）"
+translation = "(봉인 술식……? 그건 소프레에게 걸린 3000년의 봉인을 말하는 건가?)"
+
+[[dialogue]]
+speaker = "ソフレ"
+original = "（星騎士として活躍すれば、その分刑期が短くなるって、フェリシーの言っていたこととも一致する）"
+translation = "(성기사로서 활약하면 그만큼 형기가 짧아진다는 펠리시의 말과도 일치해.)"
+
+[[dialogue]]
+speaker = "ソフレ"
+original = "（こいつらは、その封印を調べる為にソフレを捕まえたってこと……？\u3000でも、封印を調べて何をする気なの？）"
+translation = "(이 녀석들은 그 봉인을 조사하기 위해 소프레를 붙잡았다는 건가……? 하지만 봉인을 조사해서 뭘 할 셈이지?)"
+
+[[dialogue]]
+speaker = "ソフレ"
+original = "（……って、考えたところで、星術が使えなければ、ソフレにはどうにもならないのだわ……）"
+translation = "(……라고 생각해 봤자 성술을 쓸 수 없으면 소프레에겐 어쩔 도리가 없는 거예요……)"
+
+[[dialogue]]
+speaker = "ソフレ"
+original = "「……偽物、教えて欲しいのだわ。解析とやらにはどれくらい時間がかかるの？\u3000それが終われば、ソフレはここから出られるのかしら？」"
+translation = "「……가짜, 알려줬으면 하는 거예요. 해석이라는 것엔 얼마나 시간이 걸려? 그게 끝나면 소프레는 여기서 나갈 수 있는 거예요?」"
+
+[[dialogue]]
+speaker = "偽物"
+original = "「時間は未定よ。解放するかも未定。貴重なサンプルは確保しておきたいのだわ」"
+translation = "「시간은 미정이다. 해방할지도 미정. 귀중한 샘플은 확보해 두고 싶은 거예요.」"
+
+[[dialogue]]
+speaker = "ソフレ"
+original = "「……そう、時間がかかるのね。なら――」"
+translation = "「……그래, 시간이 걸리는구나. 그럼──」"
+
+[[dialogue]]
+speaker = "ソフレ"
+original = "「ソフレは寝て待つのだわ……」"
+translation = "「소프레는 자면서 기다리는 거예요……」"
+
+[[dialogue]]
+speaker = "ソフレ"
+original = "（別に、構わない。これまでもそうだった）"
+translation = "(딱히 상관없어. 지금까지도 그랬으니까.)"
+
+[[dialogue]]
+speaker = "ソフレ"
+original = "（３０００年という長い封印に、絶望した）"
+translation = "(3000년이라는 긴 봉인에 절망했어.)"
+
+[[dialogue]]
+speaker = "ソフレ"
+original = "（時間と共に心は諦めに支配されて、かつてのプライドは風化していった）"
+translation = "(시간과 함께 마음은 체념에 지배당했고 예전의 자부심은 풍화되어 갔어.)"
+
+[[dialogue]]
+speaker = "ソフレ"
+original = "（だから今更、何も変わらない）"
+translation = "(그러니 이제 와서 아무것도 변하지 않아.)"
+
+[[dialogue]]
+speaker = "ソフレ"
+original = "（今回も嫌なことなんて忘れて、眠ってしまえばいいのだわ）"
+translation = "(이번에도 싫은 일 따위 잊어버리고 잠들어 버리면 되는 거예요.)"
+
+[[dialogue]]
+speaker = "ソフレ"
+original = "（そうすれば、ソフレは……幸福なのだから）"
+translation = "(그러면 소프레는…… 행복할 테니까.)"
+
+[[dialogue]]
+speaker = "unk"
+original = "そうして、ソフレは目を閉じる。"
+translation = "그렇게 소프레는 눈을 감는다."
+
+[[dialogue]]
+speaker = "unk"
+original = "眠るのは得意だ。すぐに意識は旅立って――"
+translation = "잠드는 건 자신 있다. 곧 의식은 떠나가고──"
+
+[[dialogue]]
+speaker = "unk"
+original = "また、１００年前の夢を見た。"
+translation = "또 100년 전의 꿈을 꿨다."
+
+[[dialogue]]
+speaker = "ソフレ"
+original = "「――もういい加減、諦めたらどうなのかしら？\u3000フェリーチェ」"
+translation = "「──이제 그만 포기하는 게 어떠니? 펠리체.」"
+
+[[dialogue]]
+speaker = "フェリーチェ"
+original = "「はぁ……はぁ……！」"
+translation = "「하아…… 하아……!」"
+
+[[dialogue]]
+speaker = "ソフレ"
+original = "「確かに人間としては、お前はこれまで戦ってきた奴の中で一番手応えを感じるのだわ」"
+translation = "「확실히 인간치고 너는 지금까지 싸워온 녀석들 중에서 가장 상대할 맛이 나는 거예요.」"
+
+[[dialogue]]
+speaker = "ソフレ"
+original = "「だけど、ソフレは吸血鬼の中でも、更に上位種のデイマスター。どれだけ攻撃を受けたところで、体はすぐに再生する」"
+translation = "「하지만 소프레는 흡혈귀 중에서도 상위종인 데이 마스터. 아무리 공격을 받아봤자 몸은 금방 재생해.」"
+
+[[dialogue]]
+speaker = "ソフレ"
+original = "「お前の星術では、ソフレを殺し切ることは不可能よ」"
+translation = "「너의 성술로는 소프레를 완전히 죽이는 건 불가능해.」"
+
+[[dialogue]]
+speaker = "ソフレ"
+original = "「さっさと諦めて、せいぜい楽に死ねることを祈るといいのだわ」"
+translation = "「어서 포기하고 기껏해야 편하게 죽을 수 있기를 기도나 하는 게 좋을 거예요.」"
+
+[[dialogue]]
+speaker = "フェリーチェ"
+original = "「……へっ」"
+translation = "「……헷.」"
+
+[[dialogue]]
+speaker = "フェリーチェ"
+original = "「そんなダセェ祈り方なんて、できるわけねぇだろうが……！」"
+translation = "「그런 촌스러운 기도 같은 거 할 수 있을 리 없잖아……!」"
+
+[[dialogue]]
+speaker = "フェリーチェ"
+original = "「いいか？\u3000祈りってのは本来、他者への想いを願い、込めること。だからアタシは、エクソシストとして、自分が救われる為に祈ったりはしない……！」"
+translation = "「잘 들어. 기도란 본래 타인을 향한 마음을 바라고 담는 것. 그래서 난 엑소시스트로서 내가 구원받기 위해 기도하거나 하진 않아……!」"
+
+[[dialogue]]
+speaker = "フェリーチェ"
+original = "「何より、そいつはテメェのプライドが許さねぇ――」"
+translation = "「무엇보다 그건 네 자존심이 허락지 않거든──」"
+
+[[dialogue]]
+speaker = "フェリーチェ"
+original = "「よく聞け、吸血鬼。アタシはなぁ！」"
+translation = "「잘 들어라, 흡혈귀. 나는 말이야!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "フェリーチェは武器を構え直すと、言った。"
+translation = "펠리체는 무기를 다시 고쳐 쥐고 말했다."
+
+[[dialogue]]
+speaker = "フェリーチェ"
+original = "「アンタの為に、ここへ祈りに来たんだぜッ！！」"
+translation = "「널 위해서 여기에 기도하러 온 거라고!!」"
+
+[[dialogue]]
+speaker = "？？？"
+original = "「ソフレーーーーーーッ！！！」"
+translation = "「소프레──────!!!」"
+
+[[dialogue]]
+speaker = "ソフレ"
+original = "「フェリーチェ……？」"
+translation = "「펠리체……?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "名前を呼ばれてソフレが目を開けた、次の瞬間。"
+translation = "이름이 불려 소프레가 눈을 뜬 다음 순간."
+
+[[dialogue]]
+speaker = "フェリシー"
+original = "「私の友達を、返せぇぇぇーーーーーーーーーッ！！！」"
+translation = "「내 친구를 돌려줘────────!!!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "眩い光と共に、暗闇が砕けて、フェリシーが飛び込んできた。"
+translation = "눈부신 빛과 함께 어둠이 부서지며 펠리시가 뛰어 들어왔다."
+
+[[dialogue]]
+speaker = "フェリシー"
+original = "「ソフレ！\u3000無事！？」"
+translation = "「소프레! 무사해!?」"
+
+[[dialogue]]
+speaker = "ソフレ"
+original = "「フェリシー……！\u3000お前、どうやって……」"
+translation = "「펠리시……! 너 어떻게……」"
+
+[[dialogue]]
+speaker = "フェリシー"
+original = "「ただ、ソフレを助けたいって強く祈ったんだよ」"
+translation = "「그저 소프레를 구하고 싶다고 강하게 기도했을 뿐이야.」"
+
+[[dialogue]]
+speaker = "フェリシー"
+original = "「祈りを星術に変えて、奇跡を起こす。それが選星者『<ruby>祓魔師<rt>エクソシスト</rt></ruby>』の力だから」"
+translation = "「기도를 성술로 바꿔 기적을 일으킨다. 그것이 선성자 『엑소시스트』의 힘이니까.」"
+
+[[dialogue]]
+speaker = "ソフレ"
+original = "「ソフレの、為に……？」"
+translation = "「소프레를 위해서……?」"
+
+[[dialogue]]
+speaker = "フェリシー"
+original = "「私にとって、ソフレは大切な友達だから」"
+translation = "「나한테 소프레는 소중한 친구니까.」"
+
+[[dialogue]]
+speaker = "ソフレ"
+original = "「……！」"
+translation = "「……!」"
+
+[[dialogue]]
+speaker = "ソフレ"
+original = "「……私のことで、そこまで本気になれるなんて」"
+translation = "「……나 때문에 그렇게 진심이 될 수 있다니.」"
+
+[[dialogue]]
+speaker = "ソフレ"
+original = "（正直、コイツにいい感情なんてなかったのだわ）"
+translation = "(솔직히 이 녀석에게 좋은 감정은 없었던 거예요.)"
+
+[[dialogue]]
+speaker = "ソフレ"
+original = "（なにせ、私を封印したムカつくヤツの子孫だし。だけど……）"
+translation = "(무엇보다 나를 봉인한 짜증 나는 녀석의 후손이니까. 하지만……)"
+
+[[dialogue]]
+speaker = "ソフレ"
+original = "「お前はやっぱり、距離感がバグってて、変なやつなのだわ……」"
+translation = "「너는 역시 거리감이 고장 난 이상한 녀석인 거예요……」"
+
+[[dialogue]]
+speaker = "フェリシー"
+original = "「えへへ、ゴメン」"
+translation = "「에헤헤, 미안.」"
+
+[[dialogue]]
+speaker = "フェリシー"
+original = "「でも、友達になりたいって思っちゃったから、仕方がないよ」"
+translation = "「하지만 친구가 되고 싶다고 생각했으니까 어쩔 수 없어.」"
+
+[[dialogue]]
+speaker = "フェリシー"
+original = "「その気持ちだけは本当のことだって、私は自信を持って言うことができる」"
+translation = "「그 마음만큼은 진심이라고 나는 자신 있게 말할 수 있어.」"
+
+[[dialogue]]
+speaker = "フェリシー"
+original = "「行こう、ソフレ！」"
+translation = "「가자, 소프레!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "フェリシーがソフレに手を差し伸べる。"
+translation = "펠리시가 소프레에게 손을 내민다."
+
+[[dialogue]]
+speaker = "ソフレ"
+original = "「やれやれ……」"
+translation = "「이런 이런……」"
+
+[[dialogue]]
+speaker = "ソフレ"
+original = "「やっと安眠できると思ってたけど、仕方ないわね」"
+translation = "「겨우 안면을 취할 수 있을 줄 알았는데 어쩔 수 없네.」"
+
+[[dialogue]]
+speaker = "ソフレ"
+original = "「貸し借りを清算するためにも、乗ってあげるのだわ！」"
+translation = "「빚을 청산하기 위해서라도 어울려 주는 거예요!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ソフレはフェリシーの手を取って、一緒に異空間から脱出するのだった――"
+translation = "소프레는 펠리시의 손을 잡고 함께 이공간에서 탈출했다──"
+
+[[dialogue]]
+speaker = "unk"
+original = "異空間から脱出し、地下図書館に戻ってきたソフレとフェリシー。"
+translation = "이공간에서 탈출해 지하 도서관으로 돌아온 소프레와 펠리시."
+
+[[dialogue]]
+speaker = "偽物"
+original = "「またも不可解な術式で干渉を……これが選星者の力……！」"
+translation = "「또다시 불가해한 술식으로 간섭을…… 이것이 선성자의 힘인가……!」"
+
+[[dialogue]]
+speaker = "ソフレ"
+original = "「――ピンチから抜け出せたと思ったら、またピンチで最悪なのだわ。コピーの数、少なく見積もっても５０体以上はいるんじゃないかしら？」"
+translation = "「──위기에서 벗어난 줄 알았더니 또 위기라니 최악인 거예요. 복제 수, 적게 잡아도 50체 이상은 있지 않겠어?」"
+
+[[dialogue]]
+speaker = "フェリシー"
+original = "「だけど、こうなったらやるしかないよ！\u3000友達を助ける為なら、何度だって奇跡を起こしてみせる！」"
+translation = "「하지만 이렇게 된 이상 할 수밖에 없어! 친구를 돕기 위해서라면 몇 번이고 기적을 일으켜 보이겠어!」"
+
+[[dialogue]]
+speaker = "ソフレ"
+original = "「ふん、言うじゃない。なら、ソフレも――」"
+translation = "「흥, 말은 잘하는구나. 그럼 소프레도──」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ソフレ！\u3000フェリシー！"
+translation = "소프레! 펠리시!"
+
+[[dialogue]]
+speaker = "偽物"
+original = "「っ！？\u3000増援……！？」"
+translation = "「!? 증원……!?」"
+
+[[dialogue]]
+speaker = "フェリシー"
+original = "「会長くん！\u3000助けに来てくれたの！？」"
+translation = "「회장군! 구하러 와준 거야!?」"
+
+[[dialogue]]
+speaker = "フェリシー"
+original = "「それじゃあ、もしかして――」"
+translation = "「그렇다면 혹시──」"
+
+[[dialogue]]
+speaker = "ウィステリア"
+original = "「――術式凍結解除」"
+translation = "「──술식 동결 해제.」"
+
+[[dialogue]]
+speaker = "ウィステリア"
+original = "「シャドウメイルストラム！」"
+translation = "「섀도 메일스트롬!」"
+
+[[dialogue]]
+speaker = "偽物"
+original = "「っ……！\u3000この攻撃……！」"
+translation = "「윽……! 이 공격은……!」"
+
+[[dialogue]]
+speaker = "ウィステリア"
+original = "「どうやら間に合ったみたいね」"
+translation = "「아무래도 늦지 않은 모양이네.」"
+
+[[dialogue]]
+speaker = "偽物"
+original = "「ウィステリア……！」"
+translation = "「위스테리아……!」"
+
+[[dialogue]]
+speaker = "ウィステリア"
+original = "「２人共、無事？」"
+translation = "「둘 다 무사해?」"
+
+[[dialogue]]
+speaker = "ソフレ"
+original = "「全く……来るのが遅いのだわ」"
+translation = "「정말이지…… 오는 게 늦는 거예요.」"
+
+[[dialogue]]
+speaker = "ウィステリア"
+original = "「いや、真夜中だし！\u3000会長くんから連絡受けて、家から慌てて飛んで来たんだから、少しは感謝しなさいよ！」"
+translation = "「아니, 한밤중이라고! 회장군한테 연락받고 집에서 급하게 날아왔으니까 조금은 감사하라고!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "偽物が『図書館』って言ってたから"
+translation = "가짜가 『도서관』이라고 말했으니까"
+
+[[dialogue]]
+speaker = "unk"
+original = "ウィステリアさんなら何か分かるかもと思い、連絡したのだ。"
+translation = "위스테리아 씨라면 뭔가 알지도 모른다고 생각해서 연락한 것이다."
+
+[[dialogue]]
+speaker = "フェリシー"
+original = "「そうだったんだ！\u3000会長くんのおかげで助かったよ！\u3000グラッチェ♪\u3000ありがとう！」"
+translation = "「그랬구나! 회장군 덕분에 살았어! 그라체♪ 고마워!」"
+
+[[dialogue]]
+speaker = "ソフレ"
+original = "「やるじゃない。少しは見直してあげなくもないのだわ」"
+translation = "「제법인 거예요. 조금은 다시 봐줄 수도 있는 거예요.」"
+
+[[dialogue]]
+speaker = "フェリシー"
+original = "「敵の数が多くても、会長くんとウィステリアさんの力があれば、いけるかも！」"
+translation = "「적의 수가 많아도 회장군이랑 위스테리아 씨의 힘이 있다면 해낼 수 있을지도!」"
+
+[[dialogue]]
+speaker = "ソフレ"
+original = "「ソフレも少し、本気を出すのだわ」"
+translation = "「소프레도 조금 진심을 내는 거예요.」"
+
+[[dialogue]]
+speaker = "ソフレ"
+original = "「――変身」"
+translation = "「──변신.」"
+
+[[dialogue]]
+speaker = "ソフレ"
+original = "「……ソフレの姿を使って、随分と好き勝手してくれたのだわ。そのお返しに――」"
+translation = "「……소프레의 모습을 써서 꽤나 마음대로 해줬구나. 그 보답으로──」"
+
+[[dialogue]]
+speaker = "ソフレ"
+original = "「本物の『暴虐の吸血鬼』の力を、見せてあげるのだわ！」"
+translation = "「진짜 『포학의 흡혈귀』의 힘을 보여주는 거예요!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "フェリシーは手を合わせると、"
+translation = "펠리시는 손을 모으더니,"
+
+[[dialogue]]
+speaker = "フェリシー"
+original = "「どうか上手く行きますように――」"
+translation = "「부디 잘 풀리기를──」"
+
+[[dialogue]]
+speaker = "unk"
+original = "そう呟いてから、パイルバンカーを構え直す。"
+translation = "그렇게 중얼거리고는 파일 벙커를 고쳐 쥐었다."
+
+[[dialogue]]
+speaker = "フェリシー"
+original = "「……よしっ、それじゃあ――」"
+translation = "「……좋아, 그럼──」"
+
+[[dialogue]]
+speaker = "フェリシー"
+original = "「全力で、お祈り開始だよ！」"
+translation = "「전력으로 기도 개시야!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ソフレとフェリシーは並び立ち、防衛システムに立ち向かうのだった――"
+translation = "소프레와 펠리시는 나란히 서서 방어 시스템에 맞섰다──"
+

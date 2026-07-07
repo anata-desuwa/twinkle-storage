@@ -1,0 +1,470 @@
+[[dialogue]]
+speaker = "unk"
+original = "ミヤハルの住む『浅草安倍野神社』へ、巫女修行にやって来たマトイとルリエル、そしてトマル。"
+translation = "미야하르가 사는 『아사쿠사 아베노 신사』에 무녀 수행을 하러 온 마토이와 루리엘, 그리고 토마루."
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「それにしてもトマルさん、マトイさんの弟さんだとお聞きしてましたが、本当にどう見ても女の子にしか見えませんね～」"
+translation = "「그나저나 토마루 씨, 마토이 씨의 남동생이라고 들었습니다만 정말 아무리 봐도 여자아이로밖에 안 보이네요~」"
+
+[[dialogue]]
+speaker = "トマル"
+original = "「ありがとうございます、ルリエルさま。でも、今は本当に、女の子の体になっているんですよ」"
+translation = "「감사합니다, 루리엘 님. 하지만 지금은 정말로 여자아이의 몸이 되어 있거든요.」"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「えっ、やっぱりトマルさんは妹さんだったのですか！？」"
+translation = "「엣, 역시 토마루 씨는 여동생이었던 것인가요!?」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「違う違う。ややこしいと思うけど、本当の性別は男で合ってるよ」"
+translation = "「아니 아니. 복잡하겠지만 원래 성별은 남자가 맞아.」"
+
+[[dialogue]]
+speaker = "トマル"
+original = "「巫女修行するに当たり、アニマさまの女体化薬を使わせて頂いて、一時的に性転換をしているんです」"
+translation = "「무녀 수행을 함에 있어 아니마 님의 여체화 약을 사용해서 일시적으로 성전환을 하고 있는 거예요.」"
+
+[[dialogue]]
+speaker = "トマル"
+original = "「巫女の力を使えるようになるには、女の子じゃないと、どうやら難しいらしくて……」"
+translation = "「무녀의 힘을 쓸 수 있게 되려면 여자아이가 아니면 아무래도 어려운 모양이라서……」"
+
+[[dialogue]]
+speaker = "ミヤハル"
+original = "「トマルはんは驚くことに、男の体のままでも巫女の適正があったんよ」"
+translation = "「토마루 한은 놀랍게도 남자 몸인 채로도 무녀 적성이 있었는기라.」"
+
+[[dialogue]]
+speaker = "ミヤハル"
+original = "「それが女の体になってみせた途端、巫女の力を一気に引き出せるようになって、あっという間に修行を修めてしまった。あれはまさに覚醒やったね」"
+translation = "「근데 여자 몸이 되고 나니까 무녀의 힘을 단번에 끌어낼 수 있게 돼서 눈 깜짝할 새 수행을 마쳐버렸지예. 그건 정말 각성이었구마.」"
+
+[[dialogue]]
+speaker = "トマル"
+original = "「恐縮です。ですが、まだまだ力を使えるようになって日が浅い未熟者です。よろしければ姉さまと一緒に、引き続きご指導をお願いできればと……」"
+translation = "「과찬이십니다. 하지만 아직 힘을 쓸 수 있게 된 지 얼마 안 된 미숙자입니다. 괜찮으시다면 누님과 함께 계속해서 지도를 부탁드리고자……」"
+
+[[dialogue]]
+speaker = "ミヤハル"
+original = "「トマルはんは、ほんまに真面目でええ子やねぇ。そんな風にお願いされたら、億劫な仕事でも断れんわ～」"
+translation = "「토마루 한은 참말로 성실하고 착한 애구마. 그렇게 부탁하면 귀찮은 일이라도 거절할 수가 없지예~」"
+
+[[dialogue]]
+speaker = "ミヤハル"
+original = "「一応、うちが流星市国で真面目にやってますよ～って、京都の両親を安心させる為のポーズにもなるしな」"
+translation = "「일단 내 유성시국에서 성실하게 지내고 있습니데이~ 하고 교토의 부모님을 안심시키기 위한 포즈도 되니까 말이구마.」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「ミヤハルさんの実家は京都に？」"
+translation = "「미야하르 씨 본가는 교토에 있나요?」"
+
+[[dialogue]]
+speaker = "ミヤハル"
+original = "「生まれも育ちも京都やよ。この神社よりもっと大きい、『京都安倍野神社』っていうのがそこにあってな。宮司をやっているのが、うちのお母はんなんよ」"
+translation = "「태어난 것도 자란 것도 교토라예. 이 신사보다 훨씬 큰 『교토 아베노 신사』라는 게 거기 있는데, 궁사를 맡고 있는 게 내 어머니인 기라.」"
+
+[[dialogue]]
+speaker = "ミヤハル"
+original = "「あっ、ちなみにやけどな？\u3000うちの喋り方、ほんまもんの京都弁やのうて、似非どすえ<emoji=heart04>\u3000はんなりした言い回しが気に入ってて、それっぽく真似しとるだけなんよ～」"
+translation = "「앗, 참고로 하는 말인데예? 내 말투, 진짜 교토 사투리가 아니라 엉터리라예<emoji=heart04> 사뿐사뿐한 말투가 맘에 들어서 흉내 내고 있을 뿐인 기라~」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「京都出身者の似非京都弁ってなに！？」"
+translation = "「교토 출신자의 가짜 교토 사투리라니 무슨 소리야!?」"
+
+[[dialogue]]
+speaker = "ミヤハル"
+original = "「しゃーないんよ～。お父はんもお母はんも、うちの前ではあんまり方言使ってくれへんかったんどす<emoji=heart04>」"
+translation = "「어쩔 수 없습니데이~. 아버지도 어머니도 내 앞에서는 사투리를 잘 안 써줬거든예<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「ミヤハルさんは流星市国には１人で来たんですか？」"
+translation = "「미야하르 씨는 유성시국에 혼자 온 건가요?」"
+
+[[dialogue]]
+speaker = "ミヤハル"
+original = "「そ。この神社の裏にある離れで、お気楽な１人暮らしや<emoji=heart04>」"
+translation = "「그렇지예. 이 신사 뒤에 있는 별채에서 홀가분하게 혼자 살고 있습니데이<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「え？\u3000１人？\u3000他に神社を管理している人とかは……」"
+translation = "「에? 혼자요? 달리 신사를 관리하는 사람이라든가는……」"
+
+[[dialogue]]
+speaker = "ミヤハル"
+original = "「ああ、うちは陰陽術で式神を召喚するのが得意技なんで、掃除とかの管理はその子らにお願いしとるんよ。便利な能力やろ？」"
+translation = "「아아, 내는 음양술로 식신을 소환하는 게 특기라 청소 같은 관리는 그 애들한테 시키고 있거든예. 편리한 능력이지예?」"
+
+[[dialogue]]
+speaker = "ミヤハル"
+original = "「それに、１人の方がうちの性に合っとるしな。その代わり、こまめに連絡はしてくれ～って両親はよう心配しとるけど」"
+translation = "「글카고 혼자 있는 게 내 성미에도 맞고예. 그 대신 꼬박꼬박 연락은 하라고 부모님이 억수로 걱정하긴 하지만 말이구마.」"
+
+[[dialogue]]
+speaker = "ミヤハル"
+original = "「さて、うちの話はこれくらいにしておいて――本題の巫女修行の話に戻りまひょか<emoji=heart04>」"
+translation = "「자, 내 얘기는 이 정도로 하고 본론인 무녀 수행 얘기로 돌아가 볼까예<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "ミヤハル"
+original = "「巫女の力を上手く扱えるようにする方法なんやけど……『煩悩』を解放するというのが、うちのオススメや<emoji=heart04>」"
+translation = "「무녀의 힘을 잘 다루는 방법인데…… 『번뇌』를 해방하는 게 내 추천이라예<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「煩悩？」"
+translation = "「번뇌?」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「それってどういう……？」"
+translation = "「그건 어떤 의미인가요……?」"
+
+[[dialogue]]
+speaker = "ミヤハル"
+original = "「簡単に言うと～、心の内に抱える『欲望』やね<emoji=heart04>」"
+translation = "「간단히 말하면~ 마음속에 품은 『욕망』이지예<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "ミヤハル"
+original = "「うちはそれを、陰陽術で<b>心の影</b>として具現化することができる」"
+translation = "「내는 그걸 음양술로 <b>마음의</b> <b>그림자</b>로 구체화할 수 있습니데이.」"
+
+[[dialogue]]
+speaker = "ミヤハル"
+original = "「百聞は一見に如かず。実際にやってみまひょか」"
+translation = "「백문이 불여일견. 실제로 해볼까예.」"
+
+[[dialogue]]
+speaker = "ミヤハル"
+original = "「じゃあ――まずはマトイはんの煩悩から<emoji=heart04>」"
+translation = "「그럼── 우선 마토이 한의 번뇌부터<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「えっ、私から！？\u3000ちょ、ちょっと待って！\u3000心の準備が……！」"
+translation = "「엣, 나부터!? 자, 잠깐 기다려! 마음의 준비가……!」"
+
+[[dialogue]]
+speaker = "ミヤハル"
+original = "「ふふっ、ダメやよ～<emoji=heart04>\u3000その心と向き合うことが、今回の修業なんやから。それじゃあ、はんなりと行きますえ～<emoji=heart04>」"
+translation = "「후후, 안 된데이~<emoji=heart04> 그 마음과 마주하는 게 이번 수행이니까예. 그럼 사뿐하게 갑니데이~<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "ミヤハル"
+original = "「<ruby>急急如律令<rt>きゅうきゅうにょりつりょう</rt></ruby>、<ruby>心影投射<rt>しんえいとうしゃ</rt></ruby>――」"
+translation = "「급급여율령, 심영투사──」"
+
+[[dialogue]]
+speaker = "unk"
+original = "指で五芒星を描きながら、ミヤハルが呪文を口にすると。"
+translation = "손가락으로 오망성을 그리며 미야하르가 주문을 외우자."
+
+[[dialogue]]
+speaker = "クロト"
+original = "「…………」"
+translation = "「…………」"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「会長さんが現れたのです！？」"
+translation = "「회장님이 나타난 거예요!?」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「……やあ、みんな」"
+translation = "「……안녕, 얘들아.」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「しゃ、シャベッタァァァァァァッ！？」"
+translation = "「마, 말을 했어어어어어억!?」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「あはは♪\u3000何を言っているんだ、マトイ？\u3000いつも俺は普通に喋っているじゃないか」"
+translation = "「아하하♪ 무슨 말을 하는 거야, 마토이? 항상 난 평범하게 말하고 있잖아.」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「いや、そうなんだけども……！\u3000というか、なんで会長が現れたわけ！？\u3000これって本物じゃないよね！？」"
+translation = "「아니, 그렇긴 한데……! 그보다 왜 회장이 나타난 거야!? 이거 진짜 아니지!?」"
+
+[[dialogue]]
+speaker = "ミヤハル"
+original = "「ふふっ<emoji=heart04>\u3000さっき言った通りや。これがうちの陰陽術で具現化した、マトイはんの煩悩の影やよ<emoji=heart04>」"
+translation = "「후후<emoji=heart04> 아까 말한 대로라예. 이게 내 음양술로 구체화한 마토이 한의 번뇌의 그림자인 기라<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「はい！？\u3000私の煩悩が、か、会長……！？」"
+translation = "「네!? 제 번뇌가 회, 회장님……!?」"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「つまりは、マトイさんは会長さんに、強い『欲望』を持っているということですね！」"
+translation = "「즉 마토이 씨는 회장님에게 강한 『욕망』을 품고 있다는 것이네요!」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「ルリエルちゃん！？\u3000べべべ、別にそんなわけ……！」"
+translation = "「루리엘짱!? 떠, 딱히 그런 건……!」"
+
+[[dialogue]]
+speaker = "ミヤハル"
+original = "「ぷっ……ふふふっ<emoji=heart04>\u3000ルリエルはん、可愛い顔して強烈な発言をする子やねぇ。面白いわぁ<emoji=heart04>」"
+translation = "「풋…… 후후후<emoji=heart04> 루리엘 한, 귀여운 얼굴로 강렬한 발언을 하는 애구마. 재밌네예<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "煩悩クロト"
+original = "「マトイ」"
+translation = "「마토이.」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「え？\u3000な、何？\u3000そんないきなり近づいて来て――ひゃっ！？」"
+translation = "「에? 머, 뭐야? 그렇게 갑자기 다가와서── 히익!?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "会長の影はマトイに近づくと、そのまま後退りさせ、<b>壁ドン</b>をする。"
+translation = "회장의 그림자는 마토이에게 다가가 그대로 뒷걸음질 치게 하더니 <b>벽쿵</b>을 했다."
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「かかか、会長！？\u3000顔が近い近い近い～……！」"
+translation = "「회, 회회 회장님!? 얼굴이 너무 가까워가까워가까워~……!」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "（こ、これってもしかして壁ドンってやつ～！？\u3000う、生まれて初めてされちゃったんですけどぉ～～～！？）"
+translation = "（이, 이거 혹시 벽쿵이라는 거~!? 태, 태어나서 처음 당해버렸는데에에에~~~!?）"
+
+[[dialogue]]
+speaker = "煩悩クロト"
+original = "「ごめんよ。でも、マトイの煩悩が俺だって知ったら、つい嬉しくなっちゃって――」"
+translation = "「미안. 하지만 마토이의 번뇌가 나라는 걸 알자 그만 기뻐져서──」"
+
+[[dialogue]]
+speaker = "unk"
+original = "会長の影がマトイの耳元で囁く。"
+translation = "회장의 그림자가 마토이의 귓가에서 속삭인다."
+
+[[dialogue]]
+speaker = "煩悩クロト"
+original = "「ありがとな。俺を選んでくれて（イケボ）」"
+translation = "「고마워. 나를 선택해줘서 (꿀성대)」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「ひゃあああぁぁぁ～～～っ！？」"
+translation = "「히야아아아아아아아아아악~~~~!?」"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「マトイさんがスタンしてしまったのです！」"
+translation = "「마토이 씨가 스턴되어 버린 거예요!」"
+
+[[dialogue]]
+speaker = "トマル"
+original = "「マトイ姉さま、うらやま――いえ、大丈夫ですか！？」"
+translation = "「마토이 누님, 부러── 아니, 괜찮으세요!?」"
+
+[[dialogue]]
+speaker = "煩悩クロト"
+original = "「トマルも……羨ましかったのか？」"
+translation = "「토마루도…… 부러웠던 거야?」"
+
+[[dialogue]]
+speaker = "トマル"
+original = "「か、会長さま！？\u3000い、いえ……その……」"
+translation = "「회, 회장님!? 아, 아니…… 그게……」"
+
+[[dialogue]]
+speaker = "煩悩クロト"
+original = "「遠慮しなくてもいい。それなら、ほら――」"
+translation = "「부끄러워하지 않아도 돼. 그렇다면, 자──」"
+
+[[dialogue]]
+speaker = "トマル"
+original = "「ひゃあっ！？」"
+translation = "「히앗!?」"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「トマルさんにも壁ドン攻撃なのです！」"
+translation = "「토마루 씨에게도 벽쿵 공격인 거예요!」"
+
+[[dialogue]]
+speaker = "トマル"
+original = "「はあぁっ……<emoji=heart04>\u3000ダメです、会長さま、こんな……！」"
+translation = "「하아아……<emoji=heart04> 안 돼요, 회장님, 이런 건……!」"
+
+[[dialogue]]
+speaker = "トマル"
+original = "「貴方さまはあくまで、姉さまが呼び出した存在だというのに……！」"
+translation = "「당신은 어디까지나 누님이 불러낸 존재인데……!」"
+
+[[dialogue]]
+speaker = "煩悩クロト"
+original = "「トマルは優しいな。でも、だからこそ放って置けなくて……」"
+translation = "「토마루는 착하구나. 하지만 그래서 더 내버려 둘 수가 없어서……」"
+
+[[dialogue]]
+speaker = "煩悩クロト"
+original = "「姉想いの健気なトマルは、性別関係なく可愛いよ（耳元でイケボ）」"
+translation = "「누나를 생각하는 대견한 토마루는 성별 상관없이 귀여워 (귓가에 꿀성대)」"
+
+[[dialogue]]
+speaker = "トマル"
+original = "「～～～っ！？<emoji=heart04><emoji=heart04>」"
+translation = "「~~~윽!?<emoji=heart04><emoji=heart04>」"
+
+[[dialogue]]
+speaker = "トマル"
+original = "「はうぅ～ん……<emoji=heart04><emoji=heart04><emoji=heart04>」"
+translation = "「하우우우웅……<emoji=heart04><emoji=heart04><emoji=heart04>」"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「トマルさんも、会長さんにランブル負けなのです！」"
+translation = "「토마루 씨도 회장님에게 럼블 패배인 거예요!」"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「なんだか、お２人共すごく楽しそうなのです！\u3000次はルリエルもやってみたいのです♪」"
+translation = "「왠지 두 분 다 즐거워 보이는 거예요! 다음은 루리엘도 해보고 싶은 거예요♪」"
+
+[[dialogue]]
+speaker = "煩悩クロト"
+original = "「そうか。それなら、ルリエルだけ仲間ハズレには出来ないな。同じように壁ドンがいいか？」"
+translation = "「그래. 그렇다면 루리엘만 따돌릴 수는 없지. 똑같이 벽쿵이 좋을까?」"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「壁ドンも楽しそうですけど、わたしは１度、してみたかったことがあるのです！」"
+translation = "「벽쿵도 재밌어 보이지만, 저는 한 번 해보고 싶었던 게 있는 거예요!」"
+
+[[dialogue]]
+speaker = "煩悩クロト"
+original = "「してみたかったこと？」"
+translation = "「해보고 싶었던 거?」"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「はい♪\u3000ルリエルは、『お姫様抱っこ』というものを体験してみたいのです！」"
+translation = "「네♪ 루리엘은 『공주님 안기』라는 것을 체험해 보고 싶은 거예요!」"
+
+[[dialogue]]
+speaker = "煩悩クロト"
+original = "「なるほど。それじゃあ、失礼するよ。――よいしょっと」"
+translation = "「그렇구나. 그럼 실례할게. ──영차.」"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「きゃっ♪\u3000わぁ～～っ♪\u3000あはははっ♪」"
+translation = "「꺄♪ 와아~~♪ 아하하하♪」"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「これがお姫様抱っこなのですね～♪\u3000えへへへへへぇっ♪」"
+translation = "「이것이 공주님 안기인 것이네요~♪ 에헤헤헤헤헤헤♪」"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「なんだか、すごく懐かしい感じがして好きなのです♪\u3000昔、じっちゃんにおんぶして貰った時みたいな感じがします♪」"
+translation = "「왠지 굉장히 그리운 느낌이 들어서 좋은 거예요♪ 옛날에 할아버지가 업어주셨을 때 같은 느낌이 드는 거예요♪」"
+
+[[dialogue]]
+speaker = "ミヤハル"
+original = "「あ～ん、みんな楽しそうでずるいわぁ<emoji=heart04>\u3000会長はん、うちとも遊んで～<emoji=heart04>」"
+translation = "「아앙, 다들 즐거워 보여서 치사하구마<emoji=heart04> 회장 한, 내랑도 놀아줘예~<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "unk"
+original = "と、ミヤハルが会長の影に抱き着く。"
+translation = "하며 미야하르가 회장의 그림자에게 매달린다."
+
+[[dialogue]]
+speaker = "煩悩クロト"
+original = "「ミヤハルはどうして欲しいんだ？」"
+translation = "「미야하르는 어떻게 해줬으면 좋겠어?」"
+
+[[dialogue]]
+speaker = "ミヤハル"
+original = "「ふふっ<emoji=heart04>\u3000ほんなら、離れのうちの部屋で、ゆっくりとお話しまひょ<emoji=heart04>」"
+translation = "「후후<emoji=heart04> 글카면 별채에 있는 내 방에서 느긋하게 얘기나 좀 할까예<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「わざわざ離れに移動する必要ある！？」"
+translation = "「굳이 별채로 이동할 필요가 있어!?」"
+
+[[dialogue]]
+speaker = "煩悩クロト"
+original = "「おっと、ミヤハル、ごめんよ。どうやらお姫様がお目覚めみたいだ」"
+translation = "「이런, 미야하르, 미안. 아무래도 공주님이 눈을 뜬 모양이야.」"
+
+[[dialogue]]
+speaker = "ミヤハル"
+original = "「あらぁ、残念やわぁ。あんなことやこんなこともしてみたかったのに……」"
+translation = "「어머나, 아쉽네예. 이런 일이나 저런 일도 해보고 싶었는데……」"
+
+[[dialogue]]
+speaker = "煩悩クロト"
+original = "「マトイ、すまない。みんなが望んでくれるから、つい応えてしまっていたけれど、俺を呼んでくれたのはキミだ」"
+translation = "「마토이, 미안해. 다들 원하니까 그만 응해주고 말았지만, 나를 불러준 건 너야.」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「ちょっ……きゃっ！？\u3000今度は何～！？」"
+translation = "「잠깐…… 꺄앗!? 이번엔 또 뭐야~!?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "会長の影はマトイをお姫様抱っこすると、告げる。"
+translation = "회장의 그림자는 마토이를 공주님 안기로 안아 올리더니 말한다."
+
+[[dialogue]]
+speaker = "煩悩クロト"
+original = "「――俺にとって、いちばん大切なお姫様はキミだよ（イケボ）」"
+translation = "「──나에게 있어 가장 소중한 공주는 너야 (꿀성대)」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「ほああああああぁ～～～っ！？！？<emoji=heart04><emoji=heart04><emoji=heart04><emoji=heart04>」"
+translation = "「호아아아아아아아아아악~~~~!?<emoji=heart04><emoji=heart04><emoji=heart04><emoji=heart04>」"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「マトイさんが爆発して倒れたのです！」"
+translation = "「마토이 씨가 폭발해서 쓰러진 거예요!」"
+
+[[dialogue]]
+speaker = "トマル"
+original = "「なんとうらやま――いえ。おいたわしや、姉さま……」"
+translation = "「어찌나 부러── 아니. 가련하시어라, 누님……」"
+
+[[dialogue]]
+speaker = "ミヤハル"
+original = "「ふふっ<emoji=heart04>\u3000マトイはん、普通に見えて、えろう面白い煩悩を持ってはるねぇ<emoji=heart04>」"
+translation = "「후후<emoji=heart04> 마토이 한, 평범해 보여도 억수로 재밌는 번뇌를 갖고 있네예<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「う～ん……<emoji=heart04>」"
+translation = "「으으……<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "unk"
+original = "真っ赤な顔でのぼせながら、またしばらくダウンしてしまうマトイなのであった――"
+translation = "새빨개진 얼굴로 넋이 나간 채 다시 한동안 다운되어 버린 마토이였다──"
+

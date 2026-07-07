@@ -1,0 +1,495 @@
+[[dialogue]]
+speaker = "unk"
+original = "その日、附属校の『魔法少女』たちは、新たに出現したロストアイテムの回収にあたっていた。"
+translation = "그날 부속 학교의 『마법 소녀』들은 새로 출현한 로스트 아이템의 회수에 임하고 있었다."
+
+[[dialogue]]
+speaker = "サチ"
+original = "「じゃあ……プリムラ！\u3000息を合わせて行くよ！」"
+translation = "「그럼…… 프리뮬라! 호흡 맞춰서 가자!」"
+
+[[dialogue]]
+speaker = "プリムラ"
+original = "「言われずとも分かっておるのじゃ、サチ！\u3000そっちこそ足を引っ張るでないぞ！」"
+translation = "「말하지 않아도 알고 있느니라, 사치! 그대야말로 발목을 잡지 말거라!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "附属校生徒会長『<ruby>白詰<rt>しろつめ</rt></ruby>サチ』と、長く共に戦ってきた相棒『プリムラ』の魔法少女コンビが同時に飛び出す。"
+translation = "부속 학교 학생회장 『시로츠메 사치』와 오랫동안 함께 싸워온 파트너 『프리뮬라』의 마법 소녀 콤비가 동시에 뛰어 나간다."
+
+[[dialogue]]
+speaker = "ロストアイテム"
+original = "「～♪」"
+translation = "「~♪」"
+
+[[dialogue]]
+speaker = "unk"
+original = "魔法少女たちから逃げ回っているのは、大きいＵ字型の磁石――『磁力』のロストアイテムであった。"
+translation = "마법 소녀들로부터 도망치고 있는 것은 커다란 U자형 자석―― 『자기력』의 로스트 아이템이었다."
+
+[[dialogue]]
+speaker = "シズハ"
+original = "「よし、トレジアンナさん、私たちも！」"
+translation = "「좋아, 트레지안나 씨, 우리들도!」"
+
+[[dialogue]]
+speaker = "トレジアンナ"
+original = "「はい♪\u3000サチさんたちの反対側から回り込んじゃいますよ～！」"
+translation = "「네♪ 사치 씨 일행 반대편에서 돌아 들어가겠어요~!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "サチたちの後から魔法少女として加わった『追加戦士』の２人――『<ruby>染井<rt>そめい</rt></ruby>シズハ』と『トレジアンナ』も、挟み撃ちの体勢を取る。"
+translation = "사치 일행 뒤에 마법 소녀로서 가세한 『추가 전사』 두 사람―― 『소메이 시즈하』와 『트레지안나』도 협공 태세를 취한다."
+
+[[dialogue]]
+speaker = "ロストアイテム"
+original = "「……！」"
+translation = "「……!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "追い詰められたロストアイテムは能力を発動し、４人へ向けて『磁力ビーム』を放った。"
+translation = "막다른 곳에 몰린 로스트 아이템은 능력을 발동해 네 사람을 향해 『자기력 빔』을 쏘았다."
+
+[[dialogue]]
+speaker = "プリムラ"
+original = "「またあの厄介なビームなのじゃ！」"
+translation = "「또 그 번거로운 빔이니라!」"
+
+[[dialogue]]
+speaker = "サチ"
+original = "「うん！\u3000みんな――」"
+translation = "「응! 모두들――」"
+
+[[dialogue]]
+speaker = "サチ"
+original = "「作戦通り、<b>避けないで</b>そのまま突っ込むよ！」"
+translation = "「작전대로, <b>피하지</b> <b>말고</b> 그대로 돌진하자!」"
+
+[[dialogue]]
+speaker = "ロストアイテム"
+original = "「！？」"
+translation = "「!?」"
+
+[[dialogue]]
+speaker = "シズハ"
+original = "「オッケー♪\u3000いけいけゴーゴー！」"
+translation = "「오케이♪ 이케이케 고고!」"
+
+[[dialogue]]
+speaker = "トレジアンナ"
+original = "「いざ、ユニゾンです！」"
+translation = "「자, 유니존입니다!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "『磁力』のロストアイテムは、ビームを当てた対象に『Ｓ極』か『Ｎ極』を付与する能力を持っている。"
+translation = "『자기력』의 로스트 아이템은 빔을 맞춘 대상에게 『S극』 혹은 『N극』을 부여하는 능력을 갖추고 있다."
+
+[[dialogue]]
+speaker = "unk"
+original = "ここまでの戦闘で、サチたちはそれを見抜いていた。"
+translation = "여기까지의 전투에서 사치 일행은 그것을 간파하고 있었다."
+
+[[dialogue]]
+speaker = "サチ"
+original = "（挟み撃ちにすれば、付与する『極』のパターンは限られる……！）"
+translation = "(협공을 하면 부여하는 『극』의 패턴은 한정돼……!)"
+
+[[dialogue]]
+speaker = "シズハ"
+original = "（捕まりたくないなら、全員を同じ『極』にして反発させるはず！）"
+translation = "(잡히기 싫다면 전원을 같은 『극』으로 만들어서 반발하게 할 거야!)"
+
+[[dialogue]]
+speaker = "unk"
+original = "４人へ向けて磁力ビームが放たれる。"
+translation = "네 사람을 향해 자기력 빔이 발사된다."
+
+[[dialogue]]
+speaker = "トレジアンナ"
+original = "（磁力ビームは弾速が速すぎて、まず避けられないのはわかっています……ならば！）"
+translation = "(자기력 빔은 탄속이 너무 빨라서 우선 피할 수 없다는 건 알고 있습니다…… 그렇다면!)"
+
+[[dialogue]]
+speaker = "プリムラ"
+original = "（避けずに、防いでしまえばいいのじゃ！）"
+translation = "(피하지 않고 막아버리면 그만이니라!)"
+
+[[dialogue]]
+speaker = "unk"
+original = "サチの前にプリムラが、シズハの前にトレジアンナが飛び出し、ビームをその身で受け止める。"
+translation = "사치의 앞에는 프리뮬라가, 시즈하의 앞에는 트레지안나가 뛰어들어 빔을 몸으로 받아낸다."
+
+[[dialogue]]
+speaker = "unk"
+original = "同じ『極』を付与された２人は、強烈な反発で後方へ弾き飛ばされた。"
+translation = "같은 『극』을 부여받은 두 사람은 강력한 반발력으로 후방으로 튕겨 나갔다."
+
+[[dialogue]]
+speaker = "プリムラ"
+original = "「今じゃ、サチ！！」"
+translation = "「지금이니라, 사치!!」"
+
+[[dialogue]]
+speaker = "トレジアンナ"
+original = "「シズハさん、お願いしますっ！」"
+translation = "「시즈하 씨, 부탁해요!」"
+
+[[dialogue]]
+speaker = "サチ"
+original = "「はい！\u3000このチャンス――逃しません！」"
+translation = "「네! 이 찬스―― 놓치지 않겠어요!」"
+
+[[dialogue]]
+speaker = "シズハ"
+original = "「とりゃあぁ～～っ！！」"
+translation = "「토랴아아~~!!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ビームを受けなかったサチとシズハが、一斉に飛び出す。"
+translation = "빔을 맞지 않은 사치와 시즈하가 일제히 뛰어오른다."
+
+[[dialogue]]
+speaker = "unk"
+original = "そして――"
+translation = "그리고――"
+
+[[dialogue]]
+speaker = "サチ"
+original = "「……ロストアイテム、確保成功です！」"
+translation = "「……로스트 아이템, 확보 성공입니다!」"
+
+[[dialogue]]
+speaker = "シズハ"
+original = "「やったぁ～～～っ♪」"
+translation = "「해냈어~~~♪」"
+
+[[dialogue]]
+speaker = "unk"
+original = "２人は磁石のロストアイテムを同時に掴み取り、回収することに成功したのだった。"
+translation = "두 사람은 자석 로스트 아이템을 동시에 낚아채 회수하는 데 성공했다."
+
+[[dialogue]]
+speaker = "unk"
+original = "トレジアンナが回収魔法を発動し、ロストアイテムを亜空間へと収納する。"
+translation = "트레지안나가 회수 마법을 발동해 로스트 아이템을 아공간에 수납한다."
+
+[[dialogue]]
+speaker = "トレジアンナ"
+original = "「ふぅ……みなさん、お疲れ様でした～♪\u3000今回のロストアイテム回収は、これにて終了です！」"
+translation = "「후우…… 여러분 수고하셨어요~♪ 이번 로스트 아이템 회수는 이것으로 종료입니다!」"
+
+[[dialogue]]
+speaker = "プリムラ"
+original = "「フハハハ！\u3000我らにかかれば、こんなものじゃ♪」"
+translation = "「후하하하! 우리들이 나서면 이 정도이니라♪」"
+
+[[dialogue]]
+speaker = "シズハ"
+original = "「ふふっ♪\u3000私たち魔法少女の『絆』の勝利ね♪」"
+translation = "「후훗♪ 우리 마법 소녀들의 『인연』의 승리네♪」"
+
+[[dialogue]]
+speaker = "サチ"
+original = "「うん♪\u3000最近はお兄さんの手をわずらわせなくても、私たちだけでロストアイテムを回収できてるし――」"
+translation = "「응♪ 최근에는 오빠의 손을 빌리지 않아도 우리끼리 로스트 아이템을 회수할 수 있고――」"
+
+[[dialogue]]
+speaker = "シズハ"
+original = "「チームワークもよくなってきて、いけいけゴーゴーって感じだよね♪」"
+translation = "「팀워크도 좋아져서 이케이케 고고 하는 느낌이지♪」"
+
+[[dialogue]]
+speaker = "プリムラ"
+original = "「しかし、『ディーラック』を負かして一件落着かと思っておったのに、ロストアイテムは変わらず現れ続けるとはな」"
+translation = "「하지만 『디럭쿠』를 이겨서 일단락된 줄 알았는데, 로스트 아이템은 변함없이 계속 나타나는구나.」"
+
+[[dialogue]]
+speaker = "トレジアンナ"
+original = "「まあ、元々リクリエの影響でロストアイテムは活性化していましたからね～。そこにディーラックさんが便乗していた形なので……」"
+translation = "「뭐, 원래 리크리에의 영향으로 로스트 아이템은 활성화되어 있었으니까요~. 거기에 디럭쿠 씨가 편승하고 있었던 형태라……」"
+
+[[dialogue]]
+speaker = "トレジアンナ"
+original = "「ともあれ、今回も無事に回収できたわけですし、みなさんで勝利のハイタッチといきましょ～♪」"
+translation = "「어쨌든 이번에도 무사히 회수했으니, 다 같이 승리의 하이파이브라도 하죠~♪」"
+
+[[dialogue]]
+speaker = "シズハ"
+original = "「いぇ～い♪\u3000ハイタ～ッチ♪\u3000ほら、サチちゃんも♪」"
+translation = "「이예~이♪ 하이파이브♪ 자, 사치 짱도♪」"
+
+[[dialogue]]
+speaker = "サチ"
+original = "「う、うんっ。い、いぇ～い♪」"
+translation = "「으, 응. 이, 이예~이♪」"
+
+[[dialogue]]
+speaker = "プリムラ"
+original = "「仕方あるまい。我もしてやるのじゃ！」"
+translation = "「어쩔 수 없군. 짐도 해주겠느니라!」"
+
+[[dialogue]]
+speaker = "？？？"
+original = "「いぇ～い☆\u3000ハイタッチっす～♪」"
+translation = "「이예~이☆ 하이파이브임다~♪」"
+
+[[dialogue]]
+speaker = "サチ"
+original = "「は、ハイタ～ッチ♪\u3000……って、え？」"
+translation = "「하, 하이파이~브♪ ……엇, 에?」"
+
+[[dialogue]]
+speaker = "プリムラ"
+original = "「誰じゃ貴様！？」"
+translation = "「누구냐 네놈!?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "サチやプリムラとハイタッチしたのは、これまで見たことのない謎の存在だった。"
+translation = "사치나 프리뮬라와 하이파이브를 한 것은 지금까지 본 적 없는 수수께끼의 존재였다."
+
+[[dialogue]]
+speaker = "エントロフィー"
+original = "「ふふっ、初めましてっす！\u3000魔法少女のアネさんたち～♪\u3000ウチは『エントロフィー』って言いま～っす♪」"
+translation = "「후훗, 처음 뵙겠슴다! 마법 소녀 언니들~♪ 난 『엔트로피』라고 함다~♪」"
+
+[[dialogue]]
+speaker = "エントロフィー"
+original = "「では早速、挨拶代わりに――『反転』♪」"
+translation = "「그럼 당장 인사 대신에―― 『반전』♪」"
+
+[[dialogue]]
+speaker = "サチ"
+original = "「あっ……！？」"
+translation = "「앗……!?」"
+
+[[dialogue]]
+speaker = "プリムラ"
+original = "「なっ……！？」"
+translation = "「뭐냐……!?」"
+
+[[dialogue]]
+speaker = "サチ"
+original = "「か、体から急に力が抜けて……変身が解除された……！？」"
+translation = "「모, 몸에서 갑자기 힘이 빠져서…… 변신이 해제됐어……!?」"
+
+[[dialogue]]
+speaker = "プリムラ"
+original = "「っ……再変身もできん！\u3000貴様、一体何をしたのじゃ……！？」"
+translation = "「윽…… 재변신도 안 돼! 네놈, 대체 무엇을 한 것이냐……!?」"
+
+[[dialogue]]
+speaker = "エントロフィー"
+original = "「そうっすね～、簡単に言うと、ウチが持ってるこの『反転のロストアイテム』を使って～」"
+translation = "「그게 말임다~ 간단히 말하면 내가 가진 이 『반전의 로스트 아이템』을 써서~」"
+
+[[dialogue]]
+speaker = "unk"
+original = "取り出してみせたのは、『砂時計』型のロストアイテム。"
+translation = "꺼내 보인 것은 『모래시계』 형태의 로스트 아이템."
+
+[[dialogue]]
+speaker = "エントロフィー"
+original = "「さっき相手してた磁力のロストアイテムみたいに、お２人の力の『極』をくるっと反転させちゃった、みたいな感じっすかね～☆」"
+translation = "「방금 상대하던 자기력 로스트 아이템처럼, 두 분의 힘의 『극』을 휙 하고 반전시켜 버렸다는 느낌일까나~☆」"
+
+[[dialogue]]
+speaker = "トレジアンナ"
+original = "「まさか……ハイタッチした時に！？」"
+translation = "「설마…… 하이파이브했을 때!?」"
+
+[[dialogue]]
+speaker = "エントロフィー"
+original = "「ご名答～♪\u3000ウチ、しれっと素早く紛れ込むのは、得意なんすよ～♪」"
+translation = "「정답~♪ 나, 슬쩍 빠르게 섞여 들어가는 건 특기거든~♪」"
+
+[[dialogue]]
+speaker = "エントロフィー"
+original = "「あっ、次はシズハのアネさんと、トレジアンナのアネさんも、タッチして反転させちゃいますね～☆」"
+translation = "「앗, 다음은 시즈하 언니랑 트레지안나 언니도 터치해서 반전시켜 버릴게요~☆」"
+
+[[dialogue]]
+speaker = "シズハ"
+original = "「っ……！\u3000速い！？」"
+translation = "「윽……! 빨라!?」"
+
+[[dialogue]]
+speaker = "シズハ"
+original = "（目を離してなかったのに、一瞬で後ろに回り込まれた……！？\u3000避けられない……！）"
+translation = "(눈을 떼지 않았는데 순식간에 뒤로 돌아들어 왔어……!? 피할 수 없어……!)"
+
+[[dialogue]]
+speaker = "unk"
+original = "エントロフィーの手が、シズハに触れようとした、その瞬間。"
+translation = "엔트로피의 손이 시즈하에게 닿으려 하던 그 순간."
+
+[[dialogue]]
+speaker = "ディーラック"
+original = "「――おい、誰だか知らないけど、ボクの縄張りでなに好き勝手に暴れてんのサ？」"
+translation = "「――어이, 누군지는 모르겠지만 내 구역에서 왜 마음대로 날뛰는 거니?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "バリアのように、エネルギーフィールドがシズハの周囲に展開される。"
+translation = "배리어처럼 에너지 필드가 시즈하의 주위에 전개된다."
+
+[[dialogue]]
+speaker = "unk"
+original = "静電気のようにバチッと音がして、エントロフィーはその場から飛び退いた。"
+translation = "정전기처럼 파지직 소리가 나며 엔트로피는 그 자리에서 뒤로 물러났다."
+
+[[dialogue]]
+speaker = "シズハ"
+original = "「ディーちゃん！\u3000もしかして、近くで様子を見ていてくれたの？」"
+translation = "「디짱! 혹시 근처에서 지켜봐 주고 있었던 거야?」"
+
+[[dialogue]]
+speaker = "ディーラック"
+original = "「ふん……別に、たまたま暇だったから見にきただけサ」"
+translation = "「흥…… 딱히, 마침 한가해서 보러 온 것뿐이야.」"
+
+[[dialogue]]
+speaker = "エントロフィー"
+original = "「おおっと……これはこれは～♪\u3000ちわ～っす☆\u3000ディーラックのアネさん♪」"
+translation = "「오옷…… 이거 이거~♪ 안녕하심까☆ 디럭쿠 언니♪」"
+
+[[dialogue]]
+speaker = "ディーラック"
+original = "「あん？\u3000お前――」"
+translation = "「앙? 너――」"
+
+[[dialogue]]
+speaker = "ディーラック"
+original = "「『マイナスエネルギー』の気配がするな……」"
+translation = "「『마이너스 에너지』의 기색이 느껴지는군……」"
+
+[[dialogue]]
+speaker = "ディーラック"
+original = "「まさか、ボクと同類なのか……？」"
+translation = "「설마 나랑 동류인 거니……?」"
+
+[[dialogue]]
+speaker = "トレジアンナ"
+original = "「同類……！？\u3000ということは、ディーラックさんと同じ、マイナスエネルギーから生まれた『エネルギー生命体』……！？」"
+translation = "「동류……!? 그렇다면 디럭쿠 씨와 같은 마이너스 에너지에서 태어난 『에너지 생명체』……!?」"
+
+[[dialogue]]
+speaker = "エントロフィー"
+original = "「きゃははっ、正解～♪\u3000ウチはアネさんよりも後に生まれた『妹』っすよ～☆」"
+translation = "「캬하하, 정답~♪ 난 언니보다 나중에 태어난 『여동생』임다~☆」"
+
+[[dialogue]]
+speaker = "エントロフィー"
+original = "「種族名を付けるなら――『マイナスビースト』ってところっすかね～♪」"
+translation = "「종족명을 붙인다면―― 『마이너스 비스트』라고나 할까요~♪」"
+
+[[dialogue]]
+speaker = "ディーラック"
+original = "「はぁ？\u3000妹ぉ～？」"
+translation = "「하아? 여동생~?」"
+
+[[dialogue]]
+speaker = "プリムラ"
+original = "「貴様、新たな敵ということか……！」"
+translation = "「네놈, 새로운 적이라는 것이냐……!」"
+
+[[dialogue]]
+speaker = "サチ"
+original = "「あなたの目的は一体……！？」"
+translation = "「당신의 목적은 대체……!?」"
+
+[[dialogue]]
+speaker = "エントロフィー"
+original = "「ん～、全部明かしちゃうと面白くないんで、それはまた今度ってことで～☆」"
+translation = "「음~ 전부 밝히면 재미없으니까 그건 다음에 하는 걸로~☆」"
+
+[[dialogue]]
+speaker = "エントロフィー"
+original = "「顔合わせの挨拶は済みましたし、ここから更に戦うのは面倒そうなんで、今日のところはこれで引き上げるっす～♪」"
+translation = "「인사도 나눴고, 여기서 더 싸우는 건 귀찮아 보이니 오늘은 이만 물러가겠슴다~♪」"
+
+[[dialogue]]
+speaker = "エントロフィー"
+original = "「では、アネさん方、新顔の『エントロフィー』ちゃんのこと、覚えといて下さいね～☆」"
+translation = "「그럼 언니들, 신참 『엔트로피』 짱 기억해 주세요~☆」"
+
+[[dialogue]]
+speaker = "エントロフィー"
+original = "「失礼しま～すっ♪」"
+translation = "「실례하겠슴다~♪」"
+
+[[dialogue]]
+speaker = "unk"
+original = "そうして、エントロフィーは目にも止まらぬ速さで、その場から姿を消すのだった。"
+translation = "그렇게 엔트로피는 눈 깜짝할 사이에 그 자리에서 모습을 감추었다."
+
+[[dialogue]]
+speaker = "unk"
+original = "数日後。"
+translation = "며칠 후."
+
+[[dialogue]]
+speaker = "トレジアンナ"
+original = "「と、そんなわけで……」"
+translation = "「그래서 그렇게……」"
+
+[[dialogue]]
+speaker = "unk"
+original = "サチとプリムラは、大丈夫なのか？"
+translation = "사치랑 프리뮬라는 괜찮은 건가?"
+
+[[dialogue]]
+speaker = "unk"
+original = "新たな敵、エントロフィーのことは既に聞いていたが、それよりも俺が心配なのは２人のことだった。"
+translation = "새로운 적 엔트로피에 대해서는 이미 들었지만, 그보다 내가 걱정되는 건 두 사람의 상태였다."
+
+[[dialogue]]
+speaker = "シズハ"
+original = "「サチちゃんとプリムラちゃんは『反転のロストアイテム』の影響で、通常の変身ができなくなっちゃってて……」"
+translation = "「사치 짱이랑 프리뮬라 짱은 『반전의 로스트 아이템』 영향으로 일반 변신을 할 수 없게 돼버려서……」"
+
+[[dialogue]]
+speaker = "トレジアンナ"
+original = "「なので、元の力が戻るまでの間、今の状態で変身できるように――」"
+translation = "「그래서 원래 힘이 돌아올 때까지 현재 상태에서 변신할 수 있도록――」"
+
+[[dialogue]]
+speaker = "トレジアンナ"
+original = "「お２人の新しい戦闘服を作ってみたんです！」"
+translation = "「두 분의 새로운 전투복을 만들어 봤어요!」"
+
+[[dialogue]]
+speaker = "プリムラ"
+original = "「フッフッフ、見よ眷族！\u3000これが我の新たな姿じゃ！」"
+translation = "「훗훗훗, 보거라 <u>권속</u>! 이것이 짐의 새로운 모습이니라!」"
+
+[[dialogue]]
+speaker = "サチ"
+original = "「お兄さん、あ、あんまりじっと見ないで下さい……！」"
+translation = "「오빠, 너, 너무 빤히 보지 말아 주세요……!」"
+
+[[dialogue]]
+speaker = "トレジアンナ"
+original = "「名づけて、『リバースフォーム』です！」"
+translation = "「이름하여, 『리버스 폼』입니다!」"
+
+[[dialogue]]
+speaker = "プリムラ"
+original = "「どうじゃ、我もついに魔法少女っぽい装いになったぞ♪」"
+translation = "「어떠냐, 짐도 드디어 마법 소녀다운 옷차림이 되었느니라♪」"
+
+[[dialogue]]
+speaker = "サチ"
+original = "「うぅ……わ、私はなんか、悪の魔法少女っぽい感じに……」"
+translation = "「으으…… 저, 저는 왠지 악의 마법 소녀 같은 느낌이……」"
+
+[[dialogue]]
+speaker = "unk"
+original = "思ったよりも元気そうな２人の様子にほっとしつつ、俺は改めて事情を聞くことになるのだった。"
+translation = "생각보다 활기찬 두 사람의 모습에 안심하며, 나는 다시 한번 사정을 듣게 되었다."
+

@@ -1,0 +1,525 @@
+[[dialogue]]
+speaker = "unk"
+original = "第１０話,第１０話『クラウディア生誕祭』,B"
+translation = "제10화 『클라우디아 탄생제』"
+
+[[dialogue]]
+speaker = "unk"
+original = "ネビュラ基地にて──"
+translation = "네뷸라 기지에서──"
+
+[[dialogue]]
+speaker = "クラウディア"
+original = "「！\u3000こ、これは──一体どういうことだ」"
+translation = "「! 이, 이건── 대체 어찌 된 일이냐」"
+
+[[dialogue]]
+speaker = "クラウディア"
+original = "「カーテンの裏に隠れて、テープやらクラッカーやら……飾り付けの準備まで……」"
+translation = "「커튼 뒤에 숨어서, 테이프며 폭죽이며…… 장식 준비까지……」"
+
+[[dialogue]]
+speaker = "クラウディア"
+original = "「それに、こっちには『クラウディアさま\u3000おたんじょうびおめでとうございます』と……」"
+translation = "「게다가, 이쪽에는 『클라우디아 님 생일 축하드립니다』라고……」"
+
+[[dialogue]]
+speaker = "セドナ"
+original = "「姫様に見つからぬよう──誕生日パーティーの準備を進めていたのですよ」"
+translation = "「공주님께 들키지 않도록── 생일 파티 준비를 진행하고 있었던 겁니다」"
+
+[[dialogue]]
+speaker = "クラウディア"
+original = "「な、なんだとー！？」"
+translation = "「뭐, 뭐라고ー!?」"
+
+[[dialogue]]
+speaker = "アイリーン"
+original = "「あはは……結局バレちゃいましたね」"
+translation = "「아하하…… 결국 들켜버렸네요」"
+
+[[dialogue]]
+speaker = "クラウディア"
+original = "「アイリーン──お主、まさか」"
+translation = "「아이린── 네놈, 설마」"
+
+[[dialogue]]
+speaker = "アイリーン"
+original = "「はい♪\u3000さっきはとぼけちゃいましたけど──私たちがクラウディア様のお誕生日を忘れるなんてありえません♪」"
+translation = "「네♪ 아까는 시치미 뗐지만── 저희가 클라우디아 님 생일을 잊을 리가 없잖아요♪」"
+
+[[dialogue]]
+speaker = "ウェンディ"
+original = "「サプライズのつもりで、気取られないようにしていたんです」"
+translation = "「서프라이즈를 하려고, 눈치채지 못하게 하고 있었어요」"
+
+[[dialogue]]
+speaker = "ウェンディ"
+original = "「でも、おかげで最近、寂しい思いをさせてしまっていたかもしれません。ごめんなさい」"
+translation = "「하지만, 덕분에 요즘 외롭게 해드렸을지도 모르겠네요. 죄송해요」"
+
+[[dialogue]]
+speaker = "クラウディア"
+original = "「そ、そうだったのか……」"
+translation = "「그, 그랬던 것이냐……」"
+
+[[dialogue]]
+speaker = "ツェツィーリエ"
+original = "「良かったね、クラウディア様」"
+translation = "「잘됐네요, 클라우디아 님」"
+
+[[dialogue]]
+speaker = "クラウディア"
+original = "「うむ……うむ！\u3000お主らも、なかなか粋なはからいをするではないか！」"
+translation = "「음…… 음! 네놈들도, 제법 멋진 배려를 할 줄 아는구나!」"
+
+[[dialogue]]
+speaker = "クラウディア"
+original = "「よもやこんな準備をしているとは思わなかったぞ！」"
+translation = "「설마 이런 준비를 하고 있을 줄은 몰랐노라!」"
+
+[[dialogue]]
+speaker = "セドナ"
+original = "「魔女と人間界は交流を始めたばかりです。姫様の誕生日と知れ渡るのは、まだ先になるかと」"
+translation = "「마녀와 인간계는 교류를 시작한 지 얼마 되지 않았습니다. 공주님의 생일이라고 널리 알려지는 건, 아직 먼 훗날의 일이겠죠」"
+
+[[dialogue]]
+speaker = "セドナ"
+original = "「ですが──我々にとっては何より記念すべき日であることに変わりありません」"
+translation = "「하지만── 저희에게는 무엇보다 기념해야 할 날임에 변함이 없습니다」"
+
+[[dialogue]]
+speaker = "セドナ"
+original = "「姫様がお生まれになってくれたことはもちろん──」"
+translation = "「공주님이 태어나 주신 것은 물론──」"
+
+[[dialogue]]
+speaker = "セドナ"
+original = "「数千年に一度となる、光の魔女の生誕……森に残っている魔女たちにとっても同様でしょう」"
+translation = "「수천 년에 한 번 있는, 빛의 마녀의 탄생…… 숲에 남아 있는 마녀들에게도 마찬가지일 겁니다」"
+
+[[dialogue]]
+speaker = "クラウディア"
+original = "「みな……忘れていたわけではなかったのだな」"
+translation = "「모두…… 잊고 있었던 게 아니었구나」"
+
+[[dialogue]]
+speaker = "クラウディア"
+original = "「……仕方あるまい。人間界に知らしめるのは、またの機会としよう！」"
+translation = "「……어쩔 수 없지. 인간계에 알리는 것은, 다음 기회로 하겠노라!」"
+
+[[dialogue]]
+speaker = "ツェツィーリエ"
+original = "「ふふっ。それじゃ、プレゼント活動はもういい？」"
+translation = "「후훗. 그럼, 선물 활동은 이제 됐어요?」"
+
+[[dialogue]]
+speaker = "クラウディア"
+original = "「うむ。あれはあれで楽しかったが……今はお主たちに祝ってもらえれば、満足だ！」"
+translation = "「음. 그것은 그것대로 즐거웠지만…… 지금은 네놈들이 축하해 준다면, 만족하노라!」"
+
+[[dialogue]]
+speaker = "クラウディア"
+original = "「というわけで早速──な？」"
+translation = "「그런 고로 당장── 응?」"
+
+[[dialogue]]
+speaker = "ツェツィーリエ"
+original = "「？\u3000『な？』……って？」"
+translation = "「? 『응?』……이라니요?」"
+
+[[dialogue]]
+speaker = "クラウディア"
+original = "「パーティーの開始に決まっていよう！\u3000見つけてしまったからには、もう２５日までなど待てん！」"
+translation = "「파티의 시작임이 당연하지 않느냐! 찾아버린 이상, 이제 25일까지 기다릴 수 없노라!」"
+
+[[dialogue]]
+speaker = "ツェツィーリエ"
+original = "「ええっ！\u3000もう誕生日パーティーやっちゃうの！？」"
+translation = "「에엣! 벌써 생일 파티를 해버리는 거에요!?」"
+
+[[dialogue]]
+speaker = "ウェンディ"
+original = "「ふう……そんなことになると思ってました」"
+translation = "「후우…… 그렇게 될 줄 알았습니다」"
+
+[[dialogue]]
+speaker = "セドナ"
+original = "「だから必死に隠していたのだが……ウェンディ。頼んでいた例のものは大丈夫か？」"
+translation = "「그래서 필사적으로 숨기고 있었던 거다만…… 웨디. 부탁했던 그 물건은 괜찮나?」"
+
+[[dialogue]]
+speaker = "ウェンディ"
+original = "「はい。予定を前倒しでバースデーケーキを作ってもらうようお願いしておきました。お誕生日の前倒しなんて、聞いたことありませんけど……」"
+translation = "「네. 일정을 앞당겨서 생일 케이크를 만들어 달라고 부탁해 두었습니다. 생일을 앞당긴다는 말은 들어본 적도 없지만요……」"
+
+[[dialogue]]
+speaker = "セドナ"
+original = "「ま、姫様らしくていい。今日はお誕生日仕様で姫様を祝うとしよう」"
+translation = "「뭐, 공주님다워서 좋군. 오늘은 생일 사양으로 공주님을 축하하도록 하지」"
+
+[[dialogue]]
+speaker = "クラウディア"
+original = "「あっはっは！\u3000気分がよいとはこのことだ！」"
+translation = "「앗하하! 기분이 좋다는 건 바로 이런 것이로다!」"
+
+[[dialogue]]
+speaker = "クラウディア"
+original = "「……待てよ。お誕生日仕様ということは……もしや今日は、野菜を食べずともよいのではないか！？」"
+translation = "「……잠깐. 생일 사양이라는 것은…… 혹시 오늘은, 채소를 먹지 않아도 되는 것이 아니냐!?」"
+
+[[dialogue]]
+speaker = "セドナ"
+original = "「まあ、今日くらいはいいでしょう」"
+translation = "「뭐, 오늘 정도는 괜찮겠죠」"
+
+[[dialogue]]
+speaker = "クラウディア"
+original = "「わっはっは！\u3000毎日がお誕生日会だ！\u3000みなの者、プレゼントを用意するがよい！」"
+translation = "「왓하하! 매일이 생일 파티로다! 네놈들, 선물을 준비하거라!」"
+
+[[dialogue]]
+speaker = "ツェツィーリエ"
+original = "「いぇーい！\u3000改めてクラウディア様、誕生日おめでとーう！」"
+translation = "「이예이! 다시 한번 클라우디아 님, 생일 축하해요~!」"
+
+[[dialogue]]
+speaker = "セドナ"
+original = "「フッ──たまにはこんな年があっても、悪くないか」"
+translation = "「훗── 가끔은 이런 해도 나쁘지 않군」"
+
+[[dialogue]]
+speaker = "unk"
+original = "クラウディアのフライングバースデーパーティーは、本人が疲れて眠るまで大いに盛り上がるのだった……。"
+translation = "클라우디아의 앞당긴 생일 파티는, 본인이 지쳐 잠들 때까지 크게 북적였다……."
+
+[[dialogue]]
+speaker = "unk"
+original = "そうして、時は過ぎていき……"
+translation = "그렇게 시간은 흘러가고……"
+
+[[dialogue]]
+speaker = "クラウディア"
+original = "「んん……むにゃむにゃ……もう朝か……」"
+translation = "「음…… 우냐우냐…… 벌써 아침이냐……」"
+
+[[dialogue]]
+speaker = "クラウディア"
+original = "「いつもなら二度寝といきたいところだが……むくっ！\u3000今日は違うぞ」"
+translation = "「평소라면 늦잠을 자고 싶겠지만…… 벌떡! 오늘은 다르노라」"
+
+[[dialogue]]
+speaker = "unk"
+original = "クラウディアはシャキシャキと立ち上がり、ひとりでパジャマから着替え、顔を洗った。"
+translation = "클라우디아는 씩씩하게 일어나, 혼자서 잠옷을 갈아입고 세수를 했다."
+
+[[dialogue]]
+speaker = "クラウディア"
+original = "「──さあ！\u3000いよいよ今日は１２月２５日──余の誕生日当日だ！」"
+translation = "「──자! 드디어 오늘은 12월 25일── 짐의 생일 당일이로다!」"
+
+[[dialogue]]
+speaker = "クラウディア"
+original = "「どんな馳走とプレゼントに出会えるか、楽しみだのう！」"
+translation = "「어떤 성찬과 선물을 만날 수 있을지, 기대되는구나!」"
+
+[[dialogue]]
+speaker = "クラウディア"
+original = "「──皆のもの、ご苦労！」"
+translation = "「──네놈들, 수고가 많도다!」"
+
+[[dialogue]]
+speaker = "ウェンディ"
+original = "「クラウディア様、おはようございます」"
+translation = "「클라우디아 님, 좋은 아침입니다」"
+
+[[dialogue]]
+speaker = "アイリーン"
+original = "「おはようございまーす」"
+translation = "「좋은 아침이에요~」"
+
+[[dialogue]]
+speaker = "クラウディア"
+original = "「……？」"
+translation = "「……?」"
+
+[[dialogue]]
+speaker = "クラウディア"
+original = "「おい、ちぇちゅーりえ。今日もご苦労さんだ！」"
+translation = "「이봐, 체츄링코. 오늘도 수고가 많구나!」"
+
+[[dialogue]]
+speaker = "ツェツィーリエ"
+original = "「おはよー」"
+translation = "「안뇽~」"
+
+[[dialogue]]
+speaker = "クラウディア"
+original = "「……それだけか？」"
+translation = "「……그뿐이냐?」"
+
+[[dialogue]]
+speaker = "ツェツィーリエ"
+original = "「あ、お誕生日おめでとうございます──ですね♪\u3000今日も頑張りましょ～」"
+translation = "「아, 생일 축하드려용── 이네요♪ 오늘도 힘내자구요~」"
+
+[[dialogue]]
+speaker = "クラウディア"
+original = "「……」"
+translation = "「……」"
+
+[[dialogue]]
+speaker = "クラウディア"
+original = "「ど、どういうことだこれは……セドナ！」"
+translation = "「어, 어찌 된 일이냐 이건…… 세드나!」"
+
+[[dialogue]]
+speaker = "セドナ"
+original = "「おはようございます、姫様。今日は早起きですね、よい心がけです」"
+translation = "「좋은 아침입니다, 공주님. 오늘은 일찍 일어나셨군요, 좋은 자세입니다」"
+
+[[dialogue]]
+speaker = "クラウディア"
+original = "「ああ──じゃなくて！\u3000みな、そっけないにも程があるぞ！」"
+translation = "「아아── 가 아니라! 네놈들, 무심해도 정도가 있도다!」"
+
+[[dialogue]]
+speaker = "クラウディア"
+original = "「今日は余の誕生日であろう！？\u3000<b>たんぷれ</b>はどうした？\u3000ケーキは！？」"
+translation = "「오늘은 짐의 생일이지 않느냐!? 생선은 어찌 되었느냐? 케이크는!?」"
+
+[[dialogue]]
+speaker = "セドナ"
+original = "「たんぷれ？\u3000誕生日プレゼントのことであれば先日お渡ししたはずですが。ケーキについても同様です」"
+translation = "「생선? 생일 선물 말이라면 며칠 전에 드렸을 텐데요. 케이크에 대해서도 마찬가지입니다」"
+
+[[dialogue]]
+speaker = "クラウディア"
+original = "「なぁっ！？」"
+translation = "「뭐앗!?」"
+
+[[dialogue]]
+speaker = "クラウディア"
+original = "「も、もうプレゼントもケーキもないというのか……！？」"
+translation = "「버, 벌써 선물도 케이크도 없다는 말이냐……!?」"
+
+[[dialogue]]
+speaker = "セドナ"
+original = "「もちろん。あれは予定を前倒ししただけですから」"
+translation = "「물론이죠. 그건 일정을 앞당겼을 뿐이니까요」"
+
+[[dialogue]]
+speaker = "セドナ"
+original = "「ちなみに今日のお昼の献立はナスとほうれん草のソテーです」"
+translation = "「참고로 오늘 점심 메뉴는 가지와 시금치 소테입니다」"
+
+[[dialogue]]
+speaker = "クラウディア"
+original = "「はーーーーっ！？\u3000あ、ありえぬーーーー！！\u3000余の誕生日にそんな──そんな……がくっ」"
+translation = "「하아아──!? 마, 말도 안 되노라──!! 짐의 생일에 그런── 그런…… 털썩」"
+
+[[dialogue]]
+speaker = "クラウディア"
+original = "「しくしく……肝心の誕生日当日に、楽しみがなくなってしまうとは……余としたことが……うう……」"
+translation = "「흑흑…… 정작 생일 당일에, 즐거움이 없어져 버리다니…… 짐답지 않게…… 으우……」"
+
+[[dialogue]]
+speaker = "クラウディア"
+original = "「余としたことが何というミスだ。誕生日は、年に一度しか回ってこないというのに……これでは焦って消化してしまったみたいではないか」"
+translation = "「짐답지 않게 무슨 실수란 말이냐. 생일은 일 년에 한 번밖에 돌아오지 않는데…… 이래서는 서둘러서 소화해 버린 꼴이지 않느냐」"
+
+[[dialogue]]
+speaker = "アイリーン"
+original = "「──あ、そうだ。姫様あてにお届け物がありますよ」"
+translation = "「──아, 맞다. 공주님 앞으로 배달된 물건이 있어요」"
+
+[[dialogue]]
+speaker = "セドナ"
+original = "「うん……？\u3000学園からか？」"
+translation = "「음……? 학원에서 온 거냐?」"
+
+[[dialogue]]
+speaker = "アイリーン"
+original = "「いえ、それが──私にもよくわからないんですけど、クラウディア様あてのお手紙がたくさん届いているみたいです。ほら」"
+translation = "「아니요, 그게── 저도 잘 모르겠는데, 클라우디아 님 앞으로 온 편지가 잔뜩 도착한 것 같아요. 여기요」"
+
+[[dialogue]]
+speaker = "クラウディア"
+original = "「──なんと？」"
+translation = "「──무엇이라고?」"
+
+[[dialogue]]
+speaker = "セドナ"
+original = "「姫様に？」"
+translation = "「공주님께?」"
+
+[[dialogue]]
+speaker = "アイリーン"
+original = "「はい。可愛らしい便せんが何通も……危険性はなさそうですよ」"
+translation = "「네. 귀여운 편지지가 여러 통이나…… 위험성은 없어 보여요」"
+
+[[dialogue]]
+speaker = "クラウディア"
+original = "「ふむ、よこすがよい！」"
+translation = "「흠, 이리 내놓거라!」"
+
+[[dialogue]]
+speaker = "クラウディア"
+original = "「えーと……『ひかりのまじょさまへ\u3000プレゼントをくれてありがとうございます』」"
+translation = "「어디 보자…… 『빛의 마녀님께, 선물을 주셔서 감사합니다』」"
+
+[[dialogue]]
+speaker = "クラウディア"
+original = "「こっちは……『おかしおいしかった\u3000またらいねんもきてね\u3000たんじょうびおめでとう！』」"
+translation = "「이쪽은…… 『과자 맛있었어, 내년에도 또 와줘, 생일 축하해!』」"
+
+[[dialogue]]
+speaker = "クラウディア"
+original = "「これは──余がプレゼントを配った者たちからの手紙ではないか！」"
+translation = "「이것은── 짐이 선물을 나누어 준 자들로부터 온 편지가 아니냐!」"
+
+[[dialogue]]
+speaker = "アイリーン"
+original = "「すごい、クラウディア様、大人気ですね！」"
+translation = "「대단해요, 클라우디아 님, 인기 폭발이네요!」"
+
+[[dialogue]]
+speaker = "クラウディア"
+original = "「こっちも……こっちもだ！\u3000皆、お礼とともに余の誕生日を祝福してくれておる」"
+translation = "「이쪽도…… 이쪽도도다! 모두, 감사 인사와 함께 짐의 생일을 축복해 주고 있노라」"
+
+[[dialogue]]
+speaker = "ツェツィーリエ"
+original = "「あ、来客もあるみたいだよ」"
+translation = "「아, 손님도 온 것 같아요」"
+
+[[dialogue]]
+speaker = "クラウディア"
+original = "「なぬ？」"
+translation = "「뭐라?」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「ごめんくださーい」"
+translation = "「실례합니다~」"
+
+[[dialogue]]
+speaker = "トワ先生"
+original = "「うわ、何ここ！？\u3000こんなところあったんだ！」"
+translation = "「우와, 뭐야 여기!? 이런 곳이 있었구나!」"
+
+[[dialogue]]
+speaker = "セーラ"
+original = "「お邪魔します♪」"
+translation = "「방문할게요♪」"
+
+[[dialogue]]
+speaker = "ユウリ"
+original = "「基地に入んのは久しぶりだな……」"
+translation = "「기지에 들어오는 건 오랜만이네……」"
+
+[[dialogue]]
+speaker = "クラウディア"
+original = "「ほう。学園の者どもではないか！」"
+translation = "「호오. 학원 녀석들이 아니냐!」"
+
+[[dialogue]]
+speaker = "クラウディア"
+original = "「揃ってここへ来るなどどうしたのだ。珍しい者もおるようだが」"
+translation = "「다 같이 여기까지 오다니 어찌 된 일이냐. 희귀한 녀석도 섞여 있는 듯하다만」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「何って……ほら、プレゼントもらったから。お返しあげなくちゃと思って」"
+translation = "「뭐냐니…… 자, 선물 받았으니까. 답례를 해야겠다고 생각해서」"
+
+[[dialogue]]
+speaker = "クラウディア"
+original = "「なぬ？」"
+translation = "「뭐라?」"
+
+[[dialogue]]
+speaker = "ユウリ"
+original = "「１２月２５日──誕生日なんだろ？」"
+translation = "「12월 25일── 생일이지?」"
+
+[[dialogue]]
+speaker = "セーラ"
+original = "「だったらお祝いしなきゃって思って、みんなプレゼント持ってきたんだ♪」"
+translation = "「그러면 축하해야겠다고 생각해서, 모두 선물을 가져왔어♪」"
+
+[[dialogue]]
+speaker = "トワ先生"
+original = "「ここ来るのは初めてだったけど……最近は学園とも仲いいって聞くし。いいかなって」"
+translation = "「여기 오는 건 처음이지만…… 요즘은 학원과도 사이가 좋다고 들었으니까. 괜찮겠다 싶어서 말이야」"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「みんなでクラウディアさんのことを考えてプレゼントを選んできましたよ！」"
+translation = "「모두 함께 클라우디아 씨를 생각하며 선물을 골라왔어요!」"
+
+[[dialogue]]
+speaker = "クラウディア"
+original = "「お、おお……！\u3000お主たち──そうなのか！」"
+translation = "「오, 오오……! 네놈들── 그런 것이냐!」"
+
+[[dialogue]]
+speaker = "セドナ"
+original = "「良かったではありませんか、誕生日を皆に周知することができて」"
+translation = "「잘되지 않았나, 생일을 모두에게 알릴 수 있어서」"
+
+[[dialogue]]
+speaker = "クラウディア"
+original = "「うむ……そうだな！\u3000これはこれで、悪くない成果だ」"
+translation = "「음…… 그렇구나! 이것은 이것대로, 나쁘지 않은 성과로다」"
+
+[[dialogue]]
+speaker = "クラウディア"
+original = "「なるほど──プレゼントというのは、もらうだけじゃなく、与えるのも楽しいものなのだな！」"
+translation = "「과연── 선물이라는 것은, 받는 것뿐만 아니라, 주는 것도 즐거운 것이로구나!」"
+
+[[dialogue]]
+speaker = "アイリーン"
+original = "「ふふ、素敵な考えです！」"
+translation = "「후후, 멋진 생각이에요!」"
+
+[[dialogue]]
+speaker = "クラウディア"
+original = "「せっかくだ。今日は皆でクリスマスを祝うとしよう、今の余なら<ruby>快<rt>こころよ</rt></ruby>く受け入れられる気がするぞ！」"
+translation = "「기회로다. 오늘은 다 함께 크리스마스를 축하하도록 하자, 지금의 짐이라면 기꺼이 받아들일 수 있을 것 같구나!」"
+
+[[dialogue]]
+speaker = "セドナ"
+original = "「仕方ありません。特別に基地の一角の使用を許可します」"
+translation = "「어쩔 수 없군요. 특별히 기지의 일각을 사용하는 것을 허가하겠습니다」"
+
+[[dialogue]]
+speaker = "クラウディア"
+original = "「おお、セドナにしては話がわかるではないか！」"
+translation = "「오오, 세드나치고는 말이 통하지 않느냐!」"
+
+[[dialogue]]
+speaker = "ツェツィーリエ"
+original = "「うんうん。なかなか良いオチがついたね」"
+translation = "「응응. 꽤 괜찮은 결말이 났네요」"
+
+[[dialogue]]
+speaker = "ツェツィーリエ"
+original = "「アタシの『ホーリー・ベル』も、発明した甲斐があったってもんさ──」"
+translation = "「내 『홀리 벨』도, 발명한 보람이 있었다는 거자──」"
+
+[[dialogue]]
+speaker = "ウェンディ"
+original = "「あ、ツェツィーリエは始末書のほうも忘れないでくださいね」"
+translation = "「아, 체칠리에는 시말서 쪽도 잊지 말아 주세요」"
+
+[[dialogue]]
+speaker = "ツェツィーリエ"
+original = "「たはは……うやむやになったと思ってたのに、ダメか～」"
+translation = "「타하하…… 흐지부지된 줄 알았는데, 안 되나~」"
+
+[[dialogue]]
+speaker = "クラウディア"
+original = "「わっはっは！\u3000次の誕生日も、今から楽しみというものだ──！！」"
+translation = "「왓핫하! 다음 생일도, 벌써부터 기대되는구나──!!」"
+

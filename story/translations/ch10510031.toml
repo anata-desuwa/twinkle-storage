@@ -1,0 +1,175 @@
+[[dialogue]]
+speaker = "unk"
+original = "第１話,お主の欲しいもの,P"
+translation = "제1화, 그대가 원하는 것, P"
+
+[[dialogue]]
+speaker = "クラウディア"
+original = "「──どうだ、魔王よ！」"
+translation = "「──어떠냐, 마왕아!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ぴったりだ"
+translation = "딱 맞아"
+
+[[dialogue]]
+speaker = "unk"
+original = "似合ってる"
+translation = "잘 어울려"
+
+[[dialogue]]
+speaker = "クラウディア"
+original = "「あっはっは、そうであろうそうであろう！\u3000ただでさえぷりちーな余が、さらに可愛く大変身というわけだ」"
+translation = "「앗핫하, 그렇겠지 그렇겠지! 가뜩이나 프리티한 여가 더욱 귀엽게 대변신했다는 뜻이니라」"
+
+[[dialogue]]
+speaker = "クラウディア"
+original = "「うむ。実はちぇちゅーりえが、余のためにと開発してくれたらしくてな。余の専用フォームなのだ！」"
+translation = "「음. 사실 체츄리에가 여를 위해 개발해 준 모양이더구나. 여의 전용 폼이니라!」"
+
+[[dialogue]]
+speaker = "クラウディア"
+original = "「ふふふ。なにせ１２月２５日は余の誕生日だからな。特別な品こそふさわしいというものよ」"
+translation = "「후후후. 무엇보다 12월 25일은 여의 생일이니까 말이다. 특별한 물건이야말로 어울리는 법이지」"
+
+[[dialogue]]
+speaker = "クラウディア"
+original = "「このロッドか？\u3000そうだ、実はここにも仕掛けが施されていてな」"
+translation = "「이 로드 말이냐? 그렇다, 사실 여기에도 장치가 되어 있느니라」"
+
+[[dialogue]]
+speaker = "クラウディア"
+original = "「こうやって杖を振ると──えいっ！\u3000どうだ、雪がもりもり降ってくるのだ」"
+translation = "「이렇게 지팡이를 휘두르면── 에잇! 어떠냐, 눈이 펑펑 내리지 않느냐」"
+
+[[dialogue]]
+speaker = "unk"
+original = "何の意味が？"
+translation = "무슨 의미가?"
+
+[[dialogue]]
+speaker = "unk"
+original = "すごい"
+translation = "대단해"
+
+[[dialogue]]
+speaker = "クラウディア"
+original = "「綺麗であろう！\u3000意味などそれで十分！」"
+translation = "「아름답지 않느냐! 의미 따윈 그걸로 충분하느니라!」"
+
+[[dialogue]]
+speaker = "クラウディア"
+original = "「他にもまだまだあるぞ。ジングルベルが鳴ったり、ツリー用の飾りが出てきたりだな……」"
+translation = "「그 밖에도 아직 많느니라. 징글벨이 울리거나 트리용 장식이 나오기도 하고 말이다……」"
+
+[[dialogue]]
+speaker = "クラウディア"
+original = "「そして極めつけはプレゼント機能だ。このホーリー・ベルは、相手の望んだものを出すことが可能なのだ！」"
+translation = "「그리고 결정타는 선물 기능이니라. 이 홀리 벨은 상대가 원하는 것을 내놓는 것이 가능하느니라!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "さすがクラウディア"
+translation = "역시 클라우디아"
+
+[[dialogue]]
+speaker = "unk"
+original = "そっちは本当にすごい"
+translation = "그쪽은 정말 대단하네"
+
+[[dialogue]]
+speaker = "クラウディア"
+original = "「あっはっは、恐れ入ったか！」"
+translation = "「앗핫하, 겁먹었느냐!」"
+
+[[dialogue]]
+speaker = "クラウディア"
+original = "「どれ。試しに魔王にもプレゼントをしてみせようではないか」"
+translation = "「어디 보자. 시험 삼아 마왕에게도 선물을 해 주지 않겠느냐」"
+
+[[dialogue]]
+speaker = "クラウディア"
+original = "「ふっふっふっ……みなまで言うでない。余に伝えずとも、ホーリー・ベルはお主の希望を汲み取ってくれるであろう」"
+translation = "「훗훗훗…… 구태여 말하지 말거라. 여에게 전하지 않아도 홀리 벨은 그대의 희망을 알아채 줄 것이니라」"
+
+[[dialogue]]
+speaker = "クラウディア"
+original = "「そ～れ……メリークラウディアバースデ～！」"
+translation = "「자아…… 메리 클라우디아 버스데이~!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "人形だ"
+translation = "인형이다"
+
+[[dialogue]]
+speaker = "unk"
+original = "これは……"
+translation = "이건……"
+
+[[dialogue]]
+speaker = "クラウディア"
+original = "「む？\u3000これは小さいお人形──って……よく見れば、これは余そっくりではないか」"
+translation = "「음? 이것은 작은 인형── 어…… 자세히 보니 이건 여와 똑 닮지 않았느냐」"
+
+[[dialogue]]
+speaker = "クラウディア"
+original = "「お主はこんなものが欲しかったのか？\u3000──いや待てよ。この機能は残念ながら、希望の品をそのまま出してくれるわけではないのだ」"
+translation = "「그대는 이런 것이 갖고 싶었던 것이냐? ──아니 기다려 보거라. 이 기능은 안타깝게도 원하는 물건을 그대로 내놓는 것은 아니니라」"
+
+[[dialogue]]
+speaker = "クラウディア"
+original = "「実際に出てくるプレゼントは、希望よりいくつかグレードの下がったアイテムになってしまう」"
+translation = "「실제로 나오는 선물은 희망보다 몇 단계 등급이 낮은 아이템이 되어버리느니라」"
+
+[[dialogue]]
+speaker = "クラウディア"
+original = "「それで小さいクラウディア人形が出てくるということは、お主が本当に欲しかったのは、余そのものということになるわけで……」"
+translation = "「그래서 작은 클라우디아 인형이 나왔다는 것은, 그대가 정말로 원했던 것은 여 자신이라는 뜻이 되는데……」"
+
+[[dialogue]]
+speaker = "クラウディア"
+original = "「はあ……お主、そんなに余が好きなのか」"
+translation = "「하아…… 그대, 그렇게나 여가 좋은 것이냐」"
+
+[[dialogue]]
+speaker = "unk"
+original = "クラウディアが欲しい"
+translation = "클라우디아를 원해"
+
+[[dialogue]]
+speaker = "unk"
+original = "実はそう"
+translation = "사실 그래"
+
+[[dialogue]]
+speaker = "クラウディア"
+original = "「まったく……しようのないやつだ！\u3000こっちへ来い」"
+translation = "「정말이지…… 어쩔 수 없는 녀석이구나! 이쪽으로 오너라」"
+
+[[dialogue]]
+speaker = "クラウディア"
+original = "「すりすり～……ふふ、どうだ？\u3000欲しがりな魔王のために、余がひたすら引っついてやるのだ」"
+translation = "「부비부비~…… 후후, 어떠냐? 욕심쟁이 마왕을 위해 여가 한결같이 붙어 있어 주마」"
+
+[[dialogue]]
+speaker = "クラウディア"
+original = "「ふふっ、満足か？\u3000余も気分がよい」"
+translation = "「후훗, 만족하느니라? 여도 기분이 좋구나」"
+
+[[dialogue]]
+speaker = "クラウディア"
+original = "「そうだ。このままデートといきたいな……今日は外出の許可こそ降りておらぬが……」"
+translation = "「그렇다. 이대로 데이트를 가고 싶구나…… 오늘은 외출 허가가 내려지지 않았다만……」"
+
+[[dialogue]]
+speaker = "クラウディア"
+original = "「魔王がいれば大丈夫だ。というわけで──セドナの目を盗んでさっさとここから抜け出そうぞ。ふふ、お主も共犯というやつだ♪」"
+translation = "「마왕이 있다면 괜찮느니라. 그런 고로── 세드나의 눈을 피해 얼른 여기서 빠져나가자꾸나. 후후, 그대도 공범이라는 것이니라♪」"
+
+[[dialogue]]
+speaker = "unk"
+original = "そうしてその日は、クラウディアと共にお忍びデートへ出かけるのだった……。"
+translation = "그렇게 그날은 클라우디아와 함께 몰래 데이트를 나가는 것이었다……."
+

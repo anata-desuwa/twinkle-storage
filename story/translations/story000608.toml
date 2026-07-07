@@ -1,0 +1,415 @@
+[[dialogue]]
+speaker = "unk"
+original = "以前、俺は何度も新星寮へ出入りして、内部構造をよく知っていた。それにより、俺が移動指示を担当。潜入ミッションは今のところ順調に進んでいた――"
+translation = "이전에 나는 몇 번이나 신성료에 드나들어 내부 구조를 잘 알고 있었다. 그 덕분에 내가 이동 지시를 담당. 잠입 미션은 현재 순조롭게 진행되고 있었다――"
+
+[[dialogue]]
+speaker = "紅明"
+original = "「よし、次はここの部屋っしょ。セッシー、お願い」"
+translation = "「좋아, 다음은 이 방이라구. 세시, 부탁해」"
+
+[[dialogue]]
+speaker = "セシア"
+original = "「わかったわ、紅明ママ♪\u3000妖精を出すわね」"
+translation = "「알겠어, 코우메이 마마♪ 요정을 보낼게」"
+
+[[dialogue]]
+speaker = "unk"
+original = "各部屋の鍵は紅明がサンタの袋から出した鍵で解錠。セシアが星力で羽の生えた小さな妖精を作り出し、それにプレゼントを持たせると――"
+translation = "각 방의 열쇠는 코우메이가 산타 보따리에서 꺼낸 열쇠로 해제. 세시아가 성력으로 날개 돋친 작은 요정을 만들어내어 거기에 선물을 들려 보내자――"
+
+[[dialogue]]
+speaker = "セシア"
+original = "「ドアの隙間からそ～っと、音を立てないように枕元まで……うん、枕元に置けたわ。メリークリスマス……よい夢を♪」"
+translation = "「문틈으로 살그머니 소리 내지 않게 머리맡까지…… 응, 머리맡에 놨어. 메리 크리스마스…… 좋은 꿈 꾸길♪」"
+
+[[dialogue]]
+speaker = "ヨミ"
+original = "「セシアちゃんの妖精、爆裂便利ですね……視覚情報まで共有できるなんて」"
+translation = "「세시아 짱의 요정, 폭렬 편리하네요…… 시각 정보까지 공유할 수 있다니」"
+
+[[dialogue]]
+speaker = "セシア"
+original = "「クリスマスプレゼントを配って、力が蓄積されたことで使えるようになったのよ。複数出すこともできるわ」"
+translation = "「크리스마스 선물을 나눠주며 힘이 축적된 덕분에 쓸 수 있게 됐어요. 여러 마리 내보낼 수도 있어요」"
+
+[[dialogue]]
+speaker = "ヨミ"
+original = "「っ……！？\u3000皆さん、静かに……！」"
+translation = "「윽……!? 여러분, 조용히……!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ヨミは魔族として、この中で１番嗅覚と聴覚が優れていることを活かし、周囲の警戒を担当していた。"
+translation = "요미는 마족으로서 이 중에서 가장 후각과 청각이 뛰어난 점을 살려 주위 경계를 담당하고 있었다."
+
+[[dialogue]]
+speaker = "unk"
+original = "ということは、まさか……！？"
+translation = "그렇다는 건 설마……!?"
+
+[[dialogue]]
+speaker = "ヨミ"
+original = "「か、隠れて下さいっ。あの人が……マムがきます……！」"
+translation = "「스, 숨으세요. 그분이…… 마무님이 와요……!」"
+
+[[dialogue]]
+speaker = "紅明"
+original = "「マジか……！\u3000ヤバい……！」"
+translation = "「진짜냐……! 위험해……!」"
+
+[[dialogue]]
+speaker = "セシア"
+original = "「マム、どんな人か観察したいけど……」"
+translation = "「마무, 어떤 사람인지 관찰하고 싶지만……」"
+
+[[dialogue]]
+speaker = "ヨミ"
+original = "「絶対にダメですっ」"
+translation = "「절대로 안 돼요」"
+
+[[dialogue]]
+speaker = "セシア"
+original = "「残念だわ……」"
+translation = "「아쉽네요……」"
+
+[[dialogue]]
+speaker = "セシア"
+original = "「あっ、床板を踏んだら、軋んで音が……！」"
+translation = "「앗, 바닥을 밟았더니 삐걱 소리가……!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "マズい、セシアこっちに隠れてっ"
+translation = "안 좋아, 세시아 이쪽으로 숨어"
+
+[[dialogue]]
+speaker = "マハムート"
+original = "「…………」"
+translation = "「…………」"
+
+[[dialogue]]
+speaker = "ヨミ"
+original = "（ひいぃっ……！）"
+translation = "（히익……!）"
+
+[[dialogue]]
+speaker = "セシア"
+original = "（暗くてよく見えないわね……）"
+translation = "（어두워서 잘 안 보이네……）"
+
+[[dialogue]]
+speaker = "紅明"
+original = "（相変わらずマム、お師匠様みたいな迫力だぜ……！）"
+translation = "（여전히 마무, 스승님 같은 박력이구만!구!）"
+
+[[dialogue]]
+speaker = "マハムート"
+original = "「……どうやら、気のせいみたいね」"
+translation = "「……아무래도 기분 탓인가 보네」"
+
+[[dialogue]]
+speaker = "unk"
+original = "（た、助かった……）"
+translation = "（사, 살았다……）"
+
+[[dialogue]]
+speaker = "セシア"
+original = "「会長、さっきはわたくしを抱っこして隠れてくれたおかげで、助かったわ。ありがとう」"
+translation = "「회장님, 아까는 저를 안고 숨겨준 덕분에 살았어요. 고마워요」"
+
+[[dialogue]]
+speaker = "セシア"
+original = "「男の人に抱っこされたのは初めてだからかしら。ママの母性とは違う、不思議な感じがしたわ」"
+translation = "「남자분한테 안긴 건 처음이라 그런 걸까요. 마마의 모성과는 다른 신비한 느낌이 들었어요」"
+
+[[dialogue]]
+speaker = "unk"
+original = "嫌じゃなかった？"
+translation = "싫지는 않았어?"
+
+[[dialogue]]
+speaker = "セシア"
+original = "「大丈夫よ。むしろさっきの不思議な感じは興味があるわ。でも、それよりも今は、サンタ大作戦を成功させないとね」"
+translation = "「괜찮아요. 오히려 아까의 신비한 느낌은 흥미가 생겨요. 하지만 그보다 지금은 산타 대작전을 성공시켜야죠」"
+
+[[dialogue]]
+speaker = "紅明"
+original = "「仕切り直して、ダーリン、次の指示をお願い。マムの去っていった方とは逆方向から攻めた方がいいと思うんだよね――」"
+translation = "「정신 차리고 달링, 다음 지시 부탁해. 마무가 지나간 쪽과는 반대 방향부터 공략하는 게 좋겠어――」"
+
+[[dialogue]]
+speaker = "unk"
+original = "それから再び、俺たちはサンタ大作戦を進めていたのだが――"
+translation = "그리고 다시 우리들은 산타 대작전을 진행하고 있었는데――"
+
+[[dialogue]]
+speaker = "unk"
+original = "その時は突然やってきた。"
+translation = "그때는 갑자기 찾아왔다."
+
+[[dialogue]]
+speaker = "マハムート"
+original = "「……やはり、誰かいるわね」"
+translation = "「……역시 누군가 있구나」"
+
+[[dialogue]]
+speaker = "セシア"
+original = "「え？」"
+translation = "「에?」"
+
+[[dialogue]]
+speaker = "ヨミ"
+original = "「こやあぁぁぁっ！？」"
+translation = "「코야아아앗!?」"
+
+[[dialogue]]
+speaker = "紅明"
+original = "「ちょっ、いきなり鉄球が飛んできた！？\u3000マジか！」"
+translation = "「잠깐, 갑자기 철퇴가 날아왔어!? 실화냐!」"
+
+[[dialogue]]
+speaker = "ヨミ"
+original = "「に、逃げて下さいっ！\u3000マムです！」"
+translation = "「도, 도망치세요! 마무님이에요!」"
+
+[[dialogue]]
+speaker = "マハムート"
+original = "「……逃がさないわ」"
+translation = "「……놓치지 않아」"
+
+[[dialogue]]
+speaker = "ヨミ"
+original = "「ひいぃっ！\u3000超スピードで追ってきますぅっ！」"
+translation = "「히익! 초스피드로 쫓아와요!」"
+
+[[dialogue]]
+speaker = "紅明"
+original = "「ヤバいヤバいヤバい！\u3000みんな逃げるっしょぉぉぉっ！」"
+translation = "「위험해 위험해 위험해! 다들 도망가자구우우!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "俺たちは全力でその場から逃走を開始した――"
+translation = "우리들은 전력으로 그 현장에서 도주를 개시했다――"
+
+[[dialogue]]
+speaker = "ヨミ"
+original = "「こやあぁぁぁっ！\u3000マム、警告なしで容赦なく鉄球飛ばしまくってくるんですけどぉぉぉっ！？」"
+translation = "「코야아아앗! 마무님, 경고도 없이 사정없이 철퇴를 날려대고 있는데요오오!?」"
+
+[[dialogue]]
+speaker = "紅明"
+original = "「いやマジでシャレにならないんだが！？\u3000これ当たったら死ぬって！」"
+translation = "「아니 진짜 농담 아니라고!? 이거 맞으면 죽는다니까!」"
+
+[[dialogue]]
+speaker = "マハムート"
+original = "「…………」"
+translation = "「…………」"
+
+[[dialogue]]
+speaker = "紅明"
+original = "「ぎゃあぁぁぁっ！\u3000危なぁぁぁっ！？\u3000今ちょっと掠ったんだけどっ！？\u3000ていうか無言で追ってくるの超怖ぇぇぇっ！」"
+translation = "「갸아아앗! 위험해에에!? 방금 좀 스쳤는데!? 그보다 무표정으로 쫓아오는 거 겁나 무섭다구!」"
+
+[[dialogue]]
+speaker = "ヨミ"
+original = "「だから侵入するの止めようって言ったじゃないですかぁぁっ！」"
+translation = "「그러니까 침입하는 거 그만두자고 했잖아요오오!」"
+
+[[dialogue]]
+speaker = "セシア"
+original = "「やっぱり……！\u3000遠目に見るだけでも、強力なママの波動を感じるわ♪」"
+translation = "「역시……! 멀리서 보는 것만으로도 강력한 마마의 파동이 느껴져요♪」"
+
+[[dialogue]]
+speaker = "ヨミ"
+original = "「セシアちゃんはなんでそんな爆裂嬉しそうなんですか！？」"
+translation = "「세시아 짱은 왜 그렇게 폭렬 기뻐 보이는 거예요!?」"
+
+[[dialogue]]
+speaker = "セシア"
+original = "「ヨミヨミ、なにを言っているの？\u3000ママと鬼ごっこをして嬉しくならない子供がいるとでも？」"
+translation = "「요미요미, 무슨 소리예요? 마마랑 술래잡기를 하고 기쁘지 않은 아이가 있단 말이에요?」"
+
+[[dialogue]]
+speaker = "ヨミ"
+original = "「鉄球が飛んでくるこの状況で！？」"
+translation = "「철퇴가 날아오는 이 상황에서요!?」"
+
+[[dialogue]]
+speaker = "紅明"
+original = "「っ……！\u3000そうだ、このままじゃセッシーが危ない……！」"
+translation = "「윽……! 그래, 이대로라면 세시가 위험해……!」"
+
+[[dialogue]]
+speaker = "ヨミ"
+original = "「紅明先輩！？\u3000立ち止まったりして、どうしたんですか！？\u3000すぐにマムに追いつかれちゃいますよ！？」"
+translation = "「코우메이 선배!? 멈춰 서서 왜 그러시는 거예요!? 금방 마무님한테 따라잡힌다구요!?」"
+
+[[dialogue]]
+speaker = "紅明"
+original = "「ヨミヨミ、ダーリン。ここはアタシに任せて、先に行け！\u3000アタシがマムと戦って、足止めをする……！」"
+translation = "「요미요미, 달링. 여기는 나한테 맡기고 먼저 가! 내가 마무랑 싸워서 발을 묶을게……!」"
+
+[[dialogue]]
+speaker = "ヨミ"
+original = "「馬鹿ですか！？\u3000死にますよ！？」"
+translation = "「바보예요!? 죽는다구요!?」"
+
+[[dialogue]]
+speaker = "マハムート"
+original = "「……残念だけど、牛紅明。どっちみち全員逃さないわよ」"
+translation = "「……안타깝지만 규우 코우메이. 어느 쪽이든 전원 놓치지 않아」"
+
+[[dialogue]]
+speaker = "ヨミ"
+original = "「こやあぁぁぁっ！？\u3000追いつかれちゃいましたぁぁぁっ！」"
+translation = "「코야아아앗!? 따라잡혀 버렸어요어어!」"
+
+[[dialogue]]
+speaker = "マハムート"
+original = "「……侵入者は、あなたたちだったのね」"
+translation = "「……침입자는 당신들이었구나」"
+
+[[dialogue]]
+speaker = "セシア"
+original = "「一目でわかるわ。圧倒的なママオーラ……！\u3000間違いなく、わたくしの新しいママね♪」"
+translation = "「한눈에 알겠어요. 압도적인 마마 오라……! 틀림없이 저의 새로운 마마네요♪」"
+
+[[dialogue]]
+speaker = "マハムート"
+original = "「……ちょっとそっちの小さい子は何を言っているのかわからないけど、私と戦うということでいいのかしら？\u3000紅明」"
+translation = "「……조금 전부터 저 꼬마는 무슨 소릴 하는 건지 모르겠지만 나랑 싸우겠다는 걸로 받아들여도 되겠지? 코우메이」"
+
+[[dialogue]]
+speaker = "紅明"
+original = "「おうよ！\u3000こうなった以上、もはや逃げも隠れもしないぜ！\u3000あんたをここで倒して、クリスマスプレゼントを配り切る！」"
+translation = "「그래! 이렇게 된 이상 이제 도망치지도 숨지도 않겠다구! 당신을 여기서 쓰러뜨리고 크리스마스 선물을 다 나눠주겠어!」"
+
+[[dialogue]]
+speaker = "マハムート"
+original = "「……そう。あなたとは１度、本気で戦ってみたかったから、いい機会だわ」"
+translation = "「……그래. 너랑은 한번 진심으로 싸워보고 싶었으니까 좋은 기회네」"
+
+[[dialogue]]
+speaker = "紅明"
+original = "「マムからそう言ってもらえるなんて、光栄だね」"
+translation = "「마무한테 그런 말을 듣다니 영광이네」"
+
+[[dialogue]]
+speaker = "マハムート"
+original = "「……あなた、前からずっと思っていたんだけど――」"
+translation = "「……너, 전부터 계속 생각했던 건데――」"
+
+[[dialogue]]
+speaker = "マハムート"
+original = "「強いのに、実力を隠しているでしょう？」"
+translation = "「강하면서 실력을 숨기고 있지?」"
+
+[[dialogue]]
+speaker = "マハムート"
+original = "「どういう理由かわからないけど、あなたからは私よりもずっと、戦い慣れた強者の匂いがするのよ」"
+translation = "「무슨 이유인지는 모르겠지만 너한테서는 나보다 훨씬 더 싸움에 익숙한 강자의 냄새가 나」"
+
+[[dialogue]]
+speaker = "紅明"
+original = "「説明が簡単じゃないからアレだけど……まあ、戦い慣れてるのは合ってるよ。昔、歴史に残るようなとびきり強い連中と、色々あってね」"
+translation = "「설명이 간단하지 않아서 좀 그렇지만…… 뭐, 싸움에 익숙한 건 맞다구. 옛날에 역사에 남을 정도로 엄청 강한 녀석들이랑 이런저런 일이 있었거든」"
+
+[[dialogue]]
+speaker = "unk"
+original = "言葉を交わしつつ、両者は戦闘態勢に入る。"
+translation = "말을 주고받으며 양측은 전투 태세에 들어간다."
+
+[[dialogue]]
+speaker = "セシア"
+original = "「２人のママが戦うの？\u3000セシアは一体どっちの応援をしたら……」"
+translation = "「두 명의 마마가 싸우는 거야? 세시아는 대체 어느 쪽을 응원해야……」"
+
+[[dialogue]]
+speaker = "unk"
+original = "そこは紅明ママの応援では！？"
+translation = "거기는 코우메이 마마 응원 아니야!?"
+
+[[dialogue]]
+speaker = "unk"
+original = "ふと、その時、セシアの体が光り出し――"
+translation = "문득 그때 세시아의 몸이 빛나기 시작하며――"
+
+[[dialogue]]
+speaker = "セシア"
+original = "「あら？\u3000なんだか、力が湧いてきて……」"
+translation = "「어라? 왠지 힘이 솟아나서……」"
+
+[[dialogue]]
+speaker = "セシア"
+original = "「これは……？」"
+translation = "「이건……?」"
+
+[[dialogue]]
+speaker = "ヨミ"
+original = "「セシアちゃんが変身しました……！」"
+translation = "「세시아 짱이 변신했어요……!」"
+
+[[dialogue]]
+speaker = "セシア"
+original = "「変身？\u3000じゃあこれが、わたくしの戦闘服……？」"
+translation = "「변신? 그럼 이게 저의 전투복……?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "すると今度は、それに共鳴するかのように、マムの体が光り出して――"
+translation = "그러자 이번에는 그것에 공명하듯 마무의 몸이 빛나기 시작하며――"
+
+[[dialogue]]
+speaker = "マハムート"
+original = "「…………！？」"
+translation = "「…………!?」"
+
+[[dialogue]]
+speaker = "マハムート"
+original = "「体が勝手に『竜化』した……？」"
+translation = "「몸이 제멋대로 『용화』했어……?」"
+
+[[dialogue]]
+speaker = "ヨミ"
+original = "「こやあぁぁぁっ！？\u3000マムがとんでもない姿に変身したぁぁぁっ！？」"
+translation = "「코야아아앗!? 마무님이 말도 안 되는 모습으로 변신했다아아앗!?」"
+
+[[dialogue]]
+speaker = "マハムート"
+original = "「いや、本来の竜化とはまた違う……だとすれば、これはその子の力なのかしら？」"
+translation = "「아니, 본래의 용화와는 또 달라…… 그렇다면 이건 그 아이의 힘인 걸까?」"
+
+[[dialogue]]
+speaker = "セシア"
+original = "「ママが大きな竜になったのだわ……！\u3000これはこれでアリね♪」"
+translation = "「마마가 커다란 용이 된 거예요……! 이건 이거대로 괜찮네요♪」"
+
+[[dialogue]]
+speaker = "unk"
+original = "アリなの！？"
+translation = "괜찮은 거야!?"
+
+[[dialogue]]
+speaker = "紅明"
+original = "「おいおい、マジか……こいつはマジで本気出さんと勝てなさそうだぜ……！」"
+translation = "「어이어이, 실화냐…… 이건 진짜 진심을 내지 않으면 못 이길 것 같다구……!」"
+
+[[dialogue]]
+speaker = "マハムート"
+original = "「……いずれにせよ、あなた達へのお仕置きにはちょうどいいわ――」"
+translation = "「……어찌 됐든 당신들에게 줄 벌로는 딱 적당하네――」"
+
+[[dialogue]]
+speaker = "マハムート"
+original = "「さあ、いくわよ！」"
+translation = "「자, 간다!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "竜形態になったマムは咆哮すると、俺たちの前に立ちはだかるのだった――"
+translation = "용 형태가 된 마무는 포효하며 우리들의 앞을 가로막는 것이었다――"
+

@@ -1,0 +1,825 @@
+[[dialogue]]
+speaker = "unk"
+original = "第７話,シエルの筐,B"
+translation = "제7화, 시엘의 궤, B"
+
+[[dialogue]]
+speaker = "リノ"
+original = "「よく言ったわ──フィオナちゃん。何もかも救える未来があるなら、人類はそれに賭けるべきよね」"
+translation = "「잘 말했어── 피오나짱. 모든 것을 구할 수 있는 미래가 있다면, 인류는 그것에 걸어야지.」"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「ほえ？」"
+translation = "「호에?」"
+
+[[dialogue]]
+speaker = "リノ"
+original = "「よっ──と。お邪魔するわね、星徒会のみんな♪」"
+translation = "「욧──토. 방해 좀 할게, 성도회 모두들♪」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「か……母さん！？」"
+translation = "「어…… 엄마!?」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「ひ……緋宮くんのお母さん！？」"
+translation = "「히…… 히노미야 군의 어머니!?」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「あらあら。意外なご来客ばかりねえ」"
+translation = "「어머나. 의외의 손님들뿐이네.」"
+
+[[dialogue]]
+speaker = "unk"
+original = "俺たちとネビュラとの火花の間に、割って入るように現れたのは──魔女服に身を包んだ母さんだった。"
+translation = "우리들과 네뷸라와의 불꽃 사이에, 끼어들듯이 나타난 것은── 마녀 복장을 입은 엄마였다."
+
+[[dialogue]]
+speaker = "クロト"
+original = "「えーと──待ってくれ。まず、どうしてここに」"
+translation = "「에ー또── 잠깐 기다려. 우선, 왜 여기에.」"
+
+[[dialogue]]
+speaker = "ユウリ"
+original = "「な、なんだあ……！？\u3000クロトの母ちゃん……？」"
+translation = "「뭐, 뭐야……!? 쿠로토의 엄마……?」"
+
+[[dialogue]]
+speaker = "ソフィア"
+original = "「若すぎません？」"
+translation = "「너무 젊지 않나요?」"
+
+[[dialogue]]
+speaker = "リノ"
+original = "「まあまあ。細かいことはさておき」"
+translation = "「자자. 사소한 일은 제쳐두고.」"
+
+[[dialogue]]
+speaker = "ニャリオン"
+original = "「色々と言いたいことはあるニャンが、いちいち話してたらキリない気もするニャン」"
+translation = "「여러 가지 말하고 싶은 건 있냐옹만, 일일이 얘기하다 보면 끝이 없을 것 같기도 하냐옹.」"
+
+[[dialogue]]
+speaker = "unk"
+original = "恐らくはニャリオンの言う通り。"
+translation = "아마도 냐리온이 말하는 대로."
+
+[[dialogue]]
+speaker = "unk"
+original = "そして何より、母さんに物申したいのはどうやら俺だけでもなかったようで……"
+translation = "그리고 무엇보다, 엄마에게 할 말이 있는 것은 아무래도 나뿐만이 아니었던 것 같고……"
+
+[[dialogue]]
+speaker = "セドナ"
+original = "「リノ──貴様は介入するなと伝えたはずだ。最後まで<ruby>古巣<rt>われわれ</rt></ruby>の邪魔をする気か？」"
+translation = "「리노── 너는 개입하지 말라고 전했을 터다. 끝까지 옛 소굴의 방해를 할 셈인가?」"
+
+[[dialogue]]
+speaker = "リノ"
+original = "「今こそ実行の時だもの。フィオナちゃんの提案は、決して無下にできるものじゃないはずだわ」"
+translation = "「지금이야말로 실행할 때니까. 피오나짱의 제안은, 결코 무시할 수 있는 것이 아닐 거야.」"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "（ネ、ネビュラの方々ともお知り合いなのでありますか！？）"
+translation = "（네, 네뷸라 분들과도 아시는 사이인 것입니까!?）"
+
+[[dialogue]]
+speaker = "アナ"
+original = "（いつの間に……いえ。あるいは元々<ruby>知己<rt>ちき</rt></ruby>だったのでしょうか）"
+translation = "（언제 사이에…… 아니요. 혹은 원래 지기였던 것일까요.）"
+
+[[dialogue]]
+speaker = "クロト"
+original = "（ああ。恐らくな）"
+translation = "（아아. 아마도.）"
+
+[[dialogue]]
+speaker = "unk"
+original = "俺は、フィーニス第零層を踏破していく中で自分のルーツを見た。"
+translation = "나는, 피니스 제영층을 답파해 나가는 도중에 자신의 근원을 보았다."
+
+[[dialogue]]
+speaker = "unk"
+original = "そして、俺が目覚める瞬間に登場した母さんのことも。"
+translation = "그리고, 내가 눈을 뜨는 순간에 등장했던 엄마의 일도."
+
+[[dialogue]]
+speaker = "リノ"
+original = "「ごめんなさいね、クロト。今はあまり説明している余裕はないのだけど──味方ってことはわかってくれると嬉しいわ」"
+translation = "「미안하네, 쿠로토. 지금은 그다지 설명할 여유는 없지만── 아군이라는 건 알아주면 좋겠어.」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「わかってるよ。母さんは、元々魔女だったんだろ」"
+translation = "「알고 있어. 엄마는, 원래 마녀였잖아.」"
+
+[[dialogue]]
+speaker = "リノ"
+original = "「あら。さすが私の息子、理解が早いわ」"
+translation = "「어머. 역시 내 아들, 이해가 빠르네.」"
+
+[[dialogue]]
+speaker = "ユウリ"
+original = "「いやいやいや。何もわかんねーけど！？」"
+translation = "「아니아니아니. 아무것도 모르겠는데!?」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「ま、魔女ってことはネビュラ側ってこと……？」"
+translation = "「마, 마녀라는 건 네뷸라 측이라는 거……?」"
+
+[[dialogue]]
+speaker = "リノ"
+original = "「違うわ。マトイちゃん。ほら、セドナだってあんな嫌そうにしているでしょう」"
+translation = "「아니야. 마토이짱. 봐, 세드나도 저렇게 싫어하고 있잖아.」"
+
+[[dialogue]]
+speaker = "unk"
+original = "母さんの言葉を受けると、セドナさんは億劫そうにため息をついた。"
+translation = "엄마의 말을 듣자, 세드나 씨는 귀찮은 듯 한숨을 쉬었다."
+
+[[dialogue]]
+speaker = "セドナ"
+original = "「その女は<ruby>はぐれ魔女<rt>ヤーガ</rt></ruby>──森を去り、ネビュラからも除名された裏切り者だ。仲間と思われるのはこちらとしても心外だな」"
+translation = "「그 여자는 야가── 숲을 떠나, 네뷸라에서도 제명된 배신자다. 동료로 여겨지는 것은 우리로서도 불쾌하군.」"
+
+[[dialogue]]
+speaker = "ソフィア"
+original = "「追い出された……魔女……そんな人が……」"
+translation = "「쫓겨난…… 마녀…… 그런 분이……」"
+
+[[dialogue]]
+speaker = "セーラ"
+original = "「ていうか、超冷たい感じ」"
+translation = "「랄까, 엄청 차가운 느낌.」"
+
+[[dialogue]]
+speaker = "リノ"
+original = "「そうそう。だから今はみんなの味方よ」"
+translation = "「맞아 맞아. 그러니까 지금은 모두의 아군이야.」"
+
+[[dialogue]]
+speaker = "ニャリオン"
+original = "「で、でもニャ。どうして魔女たちと仲違いしちゃったのニャン……？」"
+translation = "「그, 그렇지만냐. 왜 마녀들과 사이가 틀어져 버린 거냐옹……?」"
+
+[[dialogue]]
+speaker = "アイリーン"
+original = "「えっと……」"
+translation = "「에또……」"
+
+[[dialogue]]
+speaker = "カヤ"
+original = "「そういえば、原因については聞いてなかったかも……」"
+translation = "「그러고 보니, 원인에 대해서는 못 들었을지도……」"
+
+[[dialogue]]
+speaker = "unk"
+original = "なぜ、母さんはセドナさんと──そして魔女たちと<ruby>袂<rt>たもと</rt></ruby>を分かってしまったのか。"
+translation = "왜, 엄마는 세드나 씨와── 그리고 마녀들과 소매를 나누게 되었는가."
+
+[[dialogue]]
+speaker = "unk"
+original = "その真相はセドナさんの口から語られた。"
+translation = "그 진상은 세드나 씨의 입에서 이야기되었다."
+
+[[dialogue]]
+speaker = "セドナ"
+original = "「リノは──世界樹に封印されていた先代魔王の生まれ変わりを人間界へ持ち出した。組織にまったくの無断でな」"
+translation = "「리노는── 세계수에 봉인되어 있던 선대 마왕의 환생을 인간계로 가져왔다. 조직에 완전히 무단으로 말이지.」"
+
+[[dialogue]]
+speaker = "アイリーン"
+original = "「！？」"
+translation = "「!?」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「っ……魔王の生まれ変わり──それは……」"
+translation = "「크읏…… 마왕의 환생── 그것은……」"
+
+[[dialogue]]
+speaker = "セドナ"
+original = "「これは、つい最近まで判明していなかった事実だ。当初リノは、ただ組織への離反を行ったとして元老会から処理されていた」"
+translation = "「이것은, 바로 최근까지 판명되지 않았던 사실이다. 당초 리노는, 그저 조직에 대한 이반을 행했다고 하여 원로회로부터 처리되고 있었다.」"
+
+[[dialogue]]
+speaker = "セドナ"
+original = "「なぜなら先代魔王ラクシスの<ruby>身代<rt>みのしろ</rt></ruby>は……３０００年前より続く謎として伝えられていた」"
+translation = "「왜냐하면 선대 마왕 락시스의 몸은…… 3000년 전부터 계속되는 수수께끼로 전해지고 있었기 때문이다.」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「確かに──現代でも謎とされていました。魔王をどう捉えるにしろ、その亡骸は未だ見つかっていないと」"
+translation = "「확실히── 현대에서도 수수께끼로 여겨졌습니다. 마왕을 어떻게 파악하든, 그 유해는 아직 발견되지 않았다고.」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「ええ。星見家の古文書にも記されておりませんでした。抹消された歴史、ですね」"
+translation = "「예. 호시미 가문의 고문서에도 기록되어 있지 않았습니다. 말소된 역사, 이군요.」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「先代魔王の肉体は──魔女たちの領域に眠っていたのですね」"
+translation = "「선대 마왕의 육체는── 마녀들의 영역에 잠들어 있었던 것이군요.」"
+
+[[dialogue]]
+speaker = "セーラ"
+original = "「でも、それをリノさんが見つけて目覚めさせた──」"
+translation = "「하지만, 그것을 리노 씨가 발견해서 눈뜨게 했다──」"
+
+[[dialogue]]
+speaker = "リノ"
+original = "「少し違うわ。ただ、覚醒の時が近づいているのを、私だけが認識していたの」"
+translation = "「조금 달라. 다만, 각성의 때가 다가오고 있다는 것을, 나만이 인식하고 있었어.」"
+
+[[dialogue]]
+speaker = "リノ"
+original = "「先代魔王は再誕の魔法を受けた。そうして３０００年越しに目覚めた彼は──魂だけを残して、記憶も知識も備えていない１人の少年に戻っていた」"
+translation = "「선대 마왕은 재탄의 마법을 받았어. 그렇게 3000년 만에 눈을 뜬 그는── 영혼만을 남기고, 기억도 지식도 갖추지 못한 한 명의 소년으로 돌아가 있었지.」"
+
+[[dialogue]]
+speaker = "リノ"
+original = "「いわば別人として、改めてこの世に生を受けたのよ。私が拾ったのはそんな状態の彼」"
+translation = "「말하자면 다른 사람으로서, 다시 이 세상에 태어난 거야. 내가 주운 것은 그런 상태의 그였지.」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「……」"
+translation = "「……」"
+
+[[dialogue]]
+speaker = "unk"
+original = "母さんの語る過去は……塔の教えてくれた事実と、何も違わなかった。"
+translation = "엄마가 이야기하는 과거는…… 탑이 알려준 사실과, 아무것도 다르지 않았다."
+
+[[dialogue]]
+speaker = "アイリーン"
+original = "「ですが──だとしたら、その少年というのはどこに？」"
+translation = "「하지만── 그렇다면, 그 소년이라는 것은 어디에?」"
+
+[[dialogue]]
+speaker = "セドナ"
+original = "「今、目の前にいるだろう？\u3000ずいぶん立派に育て上げたものだ」"
+translation = "「지금, 눈앞에 있지 않나? 꽤나 훌륭하게 키워냈더군.」"
+
+[[dialogue]]
+speaker = "アイリーン"
+original = "「え……？」"
+translation = "「에……?」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「も、もしかして……？」"
+translation = "「서, 설마……?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "全員の視線が俺へ集まる──"
+translation = "전원의 시선이 나에게 모인다──"
+
+[[dialogue]]
+speaker = "unk"
+original = "先代魔王ラクシスの生まれ変わりとは、この、緋宮クロトに他ならなかった。"
+translation = "선대 마왕 락시스의 환생이란, 이, 히노미야 쿠로토 외에는 다른 누구도 아니었다."
+
+[[dialogue]]
+speaker = "ユウリ"
+original = "「うっそだろ……んじゃ、クロトが先代魔王本人ってことかよ！」"
+translation = "「거짓말이지…… 그럼, 쿠로토가 선대 마왕 본인이란 거냐!」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「魔王の血統──では、確かにない。なるほど……私との違いは、そういうことでしたか」"
+translation = "「마왕의 혈통──은, 확실히 아니군요. 과연…… 저와의 차이는, 그런 것이었습니까.」"
+
+[[dialogue]]
+speaker = "ニャリオン"
+original = "「ど、道理で懐かしい雰囲気を感じるわけニャン！」"
+translation = "「어, 어쩐지 그리운 분위기를 느끼는 거냐옹!」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「俺もついさっき知ったばかりだ。塔を通じてな」"
+translation = "「나도 방금 막 알았을 뿐이야. 탑을 통해서 말이지.」"
+
+[[dialogue]]
+speaker = "unk"
+original = "実感があるかどうかと言われれば、ない。"
+translation = "실감이 있느냐고 묻는다면, 없다."
+
+[[dialogue]]
+speaker = "unk"
+original = "だが──先代魔王の記憶を覗いた立ち場として、彼の想いを継いでやりたい気持ちはあった。"
+translation = "하지만── 선대 마왕의 기억을 엿본 입장에서, 그의 뜻을 이어주고 싶은 마음은 있었다."
+
+[[dialogue]]
+speaker = "セドナ"
+original = "「再誕の魔法を使ったのは当時の光の魔女。だが、その事実は近年に至るまで闇に葬られていた」"
+translation = "「재탄의 마법을 사용한 것은 당시의 빛의 마녀. 하지만, 그 사실은 근년에 이르기까지 어둠에 묻혀 있었다.」"
+
+[[dialogue]]
+speaker = "クラウディア"
+original = "「先代か。大方、そのような契約を結んだのであろうな」"
+translation = "「선대인가. 대개, 그러한 계약을 맺었겠지.」"
+
+[[dialogue]]
+speaker = "リノ"
+original = "「そうね。私がクロトを拾ったあの日……まだ、他に『再誕』の秘密に気づいていた魔女はいなかったと思う」"
+translation = "「그렇지. 내가 쿠로토를 주웠던 그날…… 아직, 다른 이가 『재탄』의 비밀을 눈치채고 있던 마녀는 없었다고 생각해.」"
+
+[[dialogue]]
+speaker = "セドナ"
+original = "「貴様は目ざとくも先代魔王の再誕の絡繰りを解き明かし、新たな身代を発見した。それはいい」"
+translation = "「네놈은 눈치 빠르게도 선대 마왕의 재탄의 구조를 밝혀내고, 새로운 몸을 발견했다. 그것은 좋다.」"
+
+[[dialogue]]
+speaker = "セドナ"
+original = "「だが……それは本来、真っ先に組織へ報告すべき事案だ。なぜ無断で持ち去り、あまつさえ育てようとした？」"
+translation = "「하지만…… 그것은 본래, 가장 먼저 조직에 보고해야 할 사안이다. 왜 무단으로 가져가, 심지어 키우려고 했지?」"
+
+[[dialogue]]
+speaker = "リノ"
+original = "「……」"
+translation = "「……」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「母さん……」"
+translation = "「엄마……」"
+
+[[dialogue]]
+speaker = "unk"
+original = "俺にとっても思いもよらぬ過去だった。"
+translation = "나에게 있어서도 예상치 못한 과거였다."
+
+[[dialogue]]
+speaker = "unk"
+original = "母さんが俺を拾ったことで、他の魔女たちを裏切ることになっていたなんて。"
+translation = "엄마가 나를 주운 것으로, 다른 마녀들을 배신하게 되었을 줄이야."
+
+[[dialogue]]
+speaker = "リノ"
+original = "「だって……あなた達ネビュラは、彼を犠牲にしようとしていたでしょう？」"
+translation = "「왜냐면…… 당신들 네뷸라는, 그를 희생시키려고 하고 있었잖아?」"
+
+[[dialogue]]
+speaker = "アイリーン"
+original = "「！」"
+translation = "「!」"
+
+[[dialogue]]
+speaker = "ソフィア"
+original = "「犠牲……」"
+translation = "「희생……」"
+
+[[dialogue]]
+speaker = "セドナ"
+original = "「だったらなんだ？\u3000一族の宿願を忘れたのかと聞いたはずだ、リノ。どんな事情があれ組織からの命令違反は重罪だ」"
+translation = "「그렇다면 뭐냐? 일족의 숙원을 잊었느냐고 물었을 터다, 리노. 어떤 사정이 있든 조직으로부터의 명령 위반은 중죄다.」"
+
+[[dialogue]]
+speaker = "リノ"
+original = "「私はそのやり方に賛同できなかった。このまま彼を連れ帰ったらどうなるのか、察してしまったからよ」"
+translation = "「나는 그 방식에 찬동할 수 없었어. 이대로 그를 데려가면 어떻게 될지, 짐작해 버렸으니까.」"
+
+[[dialogue]]
+speaker = "クラウディア"
+original = "「余が生まれる前の時代……か。ふむ」"
+translation = "「여가 태어나기 전의 시대……인가. 흠.」"
+
+[[dialogue]]
+speaker = "リノ"
+original = "「ええ。私がクロトを見つけた当時──まだ、森にはクラウディア様が生まれていなかった」"
+translation = "「응. 내가 쿠로토를 발견했을 당시── 아직, 숲에는 클라우디아 님이 태어나지 않았어.」"
+
+[[dialogue]]
+speaker = "リノ"
+original = "「光の魔女が誕生するのは数百年か、あるいは数千年に一度の奇跡。必ずしも次のリクリエまでに生まれる保証はない」"
+translation = "「빛의 마녀가 탄생하는 것은 수백 년 혹은 수천 년에 한 번 있는 기적. 반드시 다음 리크리에까지 태어날 보장은 없어.」"
+
+[[dialogue]]
+speaker = "リノ"
+original = "「だから……当時のネビュラは《光の魔女》には頼れなかった。そこで目をつけたのが、どこかに眠っているはずの先代魔王の亡骸よ」"
+translation = "「그래서…… 당시의 네뷸라는 《빛의 마녀》에게는 의지할 수 없었지. 거기서 눈독을 들인 것이, 어딘가에 잠들어 있을 터인 선대 마왕의 유해였어.」"
+
+[[dialogue]]
+speaker = "セーラ"
+original = "「先代魔王──ってのは、今の新星会長さんのことだよね。それを犠牲にしよう、ってことは……」"
+translation = "「선대 마왕──이라는 건, 지금의 신성 회장 씨를 말하는 거지. 그것을 희생시키려고 한다는 건……」"
+
+[[dialogue]]
+speaker = "リノ"
+original = "「今とそう図式は変わらないわ。いわば、生け贄に用いられるはずだったの」"
+translation = "「지금과 그렇게 도식은 다르지 않아. 말하자면, 산제물로 사용될 예정이었던 거지.」"
+
+[[dialogue]]
+speaker = "リノ"
+original = "「グレート・ウォールの前身とも言える計画──『ヴォイド・プラン』のね」"
+translation = "「그레이트 월의 전신이라고도 할 수 있는 계획── 『보이드 플랜』의 말이야.」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「生け贄……！」"
+translation = "「산제물……!」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「……初耳だ」"
+translation = "「……처음 듣는 이야기다.」"
+
+[[dialogue]]
+speaker = "セドナ"
+original = "「『ヴォイド・プラン』において、確かに先代魔王の亡骸は仮のリソースに含まれていた。実現しうるかはともかく、な」"
+translation = "「『보이드 플랜』에서, 확실히 선대 마왕의 유해는 임시 리소스에 포함되어 있었다. 실현 가능할지는 차치하고 말이지.」"
+
+[[dialogue]]
+speaker = "リノ"
+original = "「私は何度も組織に言ったわ。もっと他に、三界すべてを救う方法があるはずだって」"
+translation = "「나는 몇 번이나 조직에 말했어. 다른 곳에, 삼계 모두를 구할 방법이 있을 거라고.」"
+
+[[dialogue]]
+speaker = "リノ"
+original = "「それに、何より──希少な魔王を消耗してしまうこと自体、とてつもないリスクを孕む行為よ」"
+translation = "「게다가, 무엇보다── 희귀한 마왕을 소모해 버리는 것 자체가, 엄청난 리스크를 내포하는 행위야.」"
+
+[[dialogue]]
+speaker = "unk"
+original = "母さんの懸念は正しいものだ。"
+translation = "엄마의 우려는 옳은 것이었다."
+
+[[dialogue]]
+speaker = "unk"
+original = "魔王を魔王たらしめる因子は、元はといえば青年Ｓのいたオルタナティブ宇宙からもたらされたもの──"
+translation = "마왕을 마왕답게 만드는 인자는, 원래는 청년 S가 있던 올터너티브 우주로부터 전해진 것──"
+
+[[dialogue]]
+speaker = "unk"
+original = "もし俺という存在がいなくなれば、二度とこの宇宙から生まれてくることはないだろう。"
+translation = "만약 나라는 존재가 없어진다면, 두 번 다시 이 우주에서 태어나는 일은 없을 것이다."
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「じゃ、じゃあ……リノさんがいなかったら、緋宮くんはもうここにいなかったってこと……！？」"
+translation = "「그, 그럼…… 리노 씨가 없었다면, 히노미야 군은 이제 여기에 없었다는 거……!?」"
+
+[[dialogue]]
+speaker = "ニャリオン"
+original = "「ワ、ワケわかんなくなってきたニャン……！」"
+translation = "「이, 이유를 모르겠게 되었냐옹……!」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「色々な思惑が……時を超えて交錯しあっていたようですね」"
+translation = "「여러 가지 의도가…… 시간을 넘어 서로 교차하고 있었던 것 같네요.」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「ああ。でも俺は──母さんのおかげでこうして生かされた」"
+translation = "「아아. 하지만 나는── 엄마 덕분에 이렇게 살아남았다.」"
+
+[[dialogue]]
+speaker = "unk"
+original = "行方知れずだった先代魔王の身代は……ネビュラだけじゃない、もっと多くの勢力が狙っていたのかもしれない。"
+translation = "행방불명이었던 선대 마왕의 몸은…… 네뷸라뿐만이 아니라, 더 많은 세력이 노리고 있었을지도 모른다."
+
+[[dialogue]]
+speaker = "リノ"
+original = "「私はネビュラと相容れなかった。私の描く理想は、三界どれも欠かさずに、３０００年前と同じようにリクリエを撃退すること」"
+translation = "「나는 네뷸라와 뜻이 맞지 않았어. 내가 그리는 이상은, 삼계 어느 곳도 빠짐없이, 3000년 전과 똑같이 리크리에를 격퇴하는 것.」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「それって……」"
+translation = "「그건……」"
+
+[[dialogue]]
+speaker = "リノ"
+original = "「ええ。星騎士に近いものだったから」"
+translation = "「응. 성기사에 가까운 것이었으니까.」"
+
+[[dialogue]]
+speaker = "リノ"
+original = "「でもね、セドナ。本当は今の状況を望んでたわけじゃないのよ」"
+translation = "「하지만 말이야, 세드나. 사실은 지금의 상황을 바란 건 아니었어.」"
+
+[[dialogue]]
+speaker = "セドナ"
+original = "「何……？」"
+translation = "「뭐……?」"
+
+[[dialogue]]
+speaker = "リノ"
+original = "「クロトは昔から──外に出るたびモンスターに襲われるような子だった。この子の出自を考えれば無理もないことなんでしょうけど」"
+translation = "「쿠로토는 옛날부터── 밖에 나갈 때마다 몬스터에게 습격당하는 아이였어. 이 아이의 출신을 생각하면 무리도 아닐 테지만.」"
+
+[[dialogue]]
+speaker = "リノ"
+original = "「この時代に生まれたクロトは、魔王としての力を完全に失っていたわ。だから思ったの。この子は先代魔王とは違う。クロトは、クロトなんだって」"
+translation = "「이 시대에 태어난 쿠로토는, 마왕으로서의 힘을 완전히 잃고 있었어. 그래서 생각했지. 이 아이는 선대 마왕과는 달라. 쿠로토는, 쿠로토라고.」"
+
+[[dialogue]]
+speaker = "リノ"
+original = "「だから……ふふ。親バカかもしれないけど──なるべく、危険には踏み入ってほしくなかった」"
+translation = "「그러니까…… 후후. 팔불출일지도 모르겠지만── 되도록, 위험에 발을 들이지 않기를 바랐어.」"
+
+[[dialogue]]
+speaker = "リノ"
+original = "「もし、この子の体質で、自らリクリエに遭遇するようなことがあったら……きっと無事ではいられないでしょうから」"
+translation = "「만약, 이 아이의 체질로, 스스로 리크리에와 조우하는 일이 생긴다면…… 분명 무사하지 못할 테니까.」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「母さん……」"
+translation = "「엄마……」"
+
+[[dialogue]]
+speaker = "リノ"
+original = "「でも──血は争えないわね。クロトは結局、自分で世界を救うために立ち上がった」"
+translation = "「하지만── 피는 속일 수 없네. 쿠로토는 결국, 스스로 세계를 구하기 위해 나섰어.」"
+
+[[dialogue]]
+speaker = "unk"
+original = "そうだ。俺はセイファート学園長との出会いを通じて、星騎士を志すようになるのだから。"
+translation = "그렇다. 나는 세이퍼트 학원장과의 만남을 통해, 성기사를 지망하게 되었으니까."
+
+[[dialogue]]
+speaker = "リノ"
+original = "「確かに今代のリクリエは過去のそれよりも強大で……何かを犠牲にしなくちゃ助からないのかもしれない」"
+translation = "「확실히 이번 대의 리크리에는 과거의 그것보다도 강대해서…… 무언가를 희생시키지 않으면 구원받지 못할지도 몰라.」"
+
+[[dialogue]]
+speaker = "リノ"
+original = "「だけど──前回のリクリエに打ち勝った魔王の系譜だって、間違いなく進化を遂げているのよ」"
+translation = "「하지만── 지난번 리크리에를 이겨낸 마왕의 계보 역시, 틀림없이 진화를 이루고 있어.」"
+
+[[dialogue]]
+speaker = "セドナ"
+original = "「……ふぅ」"
+translation = "「……휴.」"
+
+[[dialogue]]
+speaker = "セドナ"
+original = "「そいつはわざわざネビュラの基地にまで出戻り──我々に嘆願した。機会をくれ、とな」"
+translation = "「그 여자는 일부러 네뷸라의 기지에까지 되돌아와── 우리에게 탄원했다. 기회를 달라고 말이지.」"
+
+[[dialogue]]
+speaker = "セドナ"
+original = "「それで？\u3000可愛い我が子に希望を託すというのが、貴様のいう代案なのか？」"
+translation = "「그래서? 귀여운 네 자식에게 희망을 맡긴다는 것이, 네놈이 말하는 대안인가?」"
+
+[[dialogue]]
+speaker = "リノ"
+original = "「──それだけじゃないわ」"
+translation = "「──그것만이 아니야.」"
+
+[[dialogue]]
+speaker = "リノ"
+original = "「私も……今日という日のために、準備はしてきたのよ」"
+translation = "「나도…… 오늘이라는 날을 위해, 준비는 해왔어.」"
+
+[[dialogue]]
+speaker = "アイリーン"
+original = "「……？\u3000なんですか──？」"
+translation = "「……? 무엇입니까──?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "母さんが取り出したのは一辺がノート程度の立方体だった。"
+translation = "엄마가 꺼낸 것은 한 변이 노트 정도 크기의 입방체였다."
+
+[[dialogue]]
+speaker = "unk"
+original = "そのキューブは、それ自体が浮力をもって滞空し、また神々しい<ruby>金色<rt>こんじき</rt></ruby>の光を放ち始める。"
+translation = "그 큐브는, 그 자체가 부력을 가지고 체공하며, 또 신성한 금색의 빛을 내뿜기 시작한다."
+
+[[dialogue]]
+speaker = "ニャリオン"
+original = "「ニャ、ニャんニャあれは……？」"
+translation = "「냐, 뭐냐옹 저건……?」"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「おっきいサイコロみたいです──ってあれ？\u3000なんか見覚えがあるような……？」"
+translation = "「커다란 주사위 같아요── 라고 할까 어라? 뭔가 본 적이 있는 것 같은……?」"
+
+[[dialogue]]
+speaker = "ユウリ"
+original = "「？\u3000そうか……？」"
+translation = "「? 그런가……?」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「！\u3000それは──もしや、<ruby>聖庭園<rt>せいていえん</rt></ruby>に秘されているという『シエルの<ruby>筐<rt>はこ</rt></ruby>』では？」"
+translation = "「! 그것은── 혹시, 성정원에 숨겨져 있다는 『시엘의 궤』가 아닌가요?」"
+
+[[dialogue]]
+speaker = "リノ"
+original = "「ええ。無理を言って、中身はカラにしてもらったけどね」"
+translation = "「응. 무리해서, 내용물은 비워달라고 했지만.」"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「シ、シエルの筐！？」"
+translation = "「시, 시엘의 궤!?」"
+
+[[dialogue]]
+speaker = "ユウリ"
+original = "「知ってんのか、ルリエル」"
+translation = "「알고 있는 거냐, 루리엘.」"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「天界ではおとぎ話でも伝えられている伝説のアイテムです──天界にまつわる災いがいくつも封印されていると！」"
+translation = "「천계에서는 옛날이야기로도 전해지고 있는 전설의 아이템입니다── 천계에 얽힌 재앙이 여러 개 봉인되어 있다고!」"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「で、ですが、本物が実在しているだなんて……」"
+translation = "「하, 하지만, 실물이 실재하고 있다니요……」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「私も驚きです。聖庭園で厳重に管理されていると聞いていましたが……」"
+translation = "「저도 놀랍습니다. 성정원에서 엄중하게 관리되고 있다고 들었습니다만……」"
+
+[[dialogue]]
+speaker = "unk"
+original = "母さんが持ってきたのは、どうやら天界で知らぬものはいないほどの宝だったらしく。"
+translation = "엄마가 가져온 것은, 아무래도 천계에서 모르는 사람이 없을 정도의 보물이었던 듯하다."
+
+[[dialogue]]
+speaker = "クロト"
+original = "「母さん。どうしてそんなものを──」"
+translation = "「엄마. 왜 그런 것을──」"
+
+[[dialogue]]
+speaker = "リノ"
+original = "「これは天界のリガルタ老から譲り受けたもの。一時的にだけどね」"
+translation = "「이것은 천계의 리가르타 노인에게서 양도받은 것. 일시적으로지만 말이야.」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「リガルタ──あれ、これもどっかで聞いたような……？」"
+translation = "「리가르타── 어라, 이것도 어디선가 들은 것 같은……?」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「確か、塔の中で聞いた──」"
+translation = "「분명, 탑 안에서 들었던──」"
+
+[[dialogue]]
+speaker = "unk"
+original = "『天界の天使──リガルタ。聖庭園の長老として知られる彼ですが、魔王の血であることは古くより悟られぬよう暮らしているようです』"
+translation = "『천계의 천사── 리가르타. 성정원의 장로로 알려진 그이지만, 마왕의 피라는 것은 예부터 깨닫지 못하도록 살고 있는 것 같습니다.』"
+
+[[dialogue]]
+speaker = "unk"
+original = "あれは……フィオナが最たる魔王候補として告げられた時だ。"
+translation = "그것은…… 피오나가 가장 뛰어난 마왕 후보로서 고해졌을 때다."
+
+[[dialogue]]
+speaker = "unk"
+original = "三界に散っているという『魔王の血統』──そのうちの１人として、その名が挙げられていたはず。"
+translation = "삼계에 흩어져 있다는 『마왕의 혈통』── 그중 한 명으로서, 그 이름이 언급되었을 터."
+
+[[dialogue]]
+speaker = "リノ"
+original = "「当初、私はあなた達と同じように先代魔王がリクリエを討つキーになると考えた。でもクロトを育てていくうちに、この子１人に背負わせるわけにはいかないと思った」"
+translation = "「당초, 나는 당신들과 똑같이 선대 마왕이 리크리에를 물리칠 열쇠가 될 것이라고 생각했어. 하지만 쿠로토를 키워가면서, 이 아이 한 명에게 짊어지게 할 수는 없다고 생각했지.」"
+
+[[dialogue]]
+speaker = "リノ"
+original = "「だから私は──三界に散らばっている、他の魔王の血筋をあたった」"
+translation = "「그래서 나는── 삼계에 흩어져 있는, 다른 마왕의 혈통을 찾아다녔어.」"
+
+[[dialogue]]
+speaker = "リノ"
+original = "「そうして何度も交渉を重ねて譲り受けたの。実際、彼は天界でも姿を忍んでいたから見つけるのが大変だったけれど」"
+translation = "「그렇게 몇 번이나 교섭을 거듭해서 양도받은 거야. 실제로, 그는 천계에서도 모습을 숨기고 있었기 때문에 찾는 것이 힘들었지만.」"
+
+[[dialogue]]
+speaker = "セドナ"
+original = "「なるほど。それで──貴様はどうするつもりだ」"
+translation = "「과연. 그래서── 네놈은 어떻게 할 셈이지?」"
+
+[[dialogue]]
+speaker = "リノ"
+original = "「私の目的はひとつ。このシエルの筐に──『使徒の仮面』を封印する」"
+translation = "「내 목적은 하나. 이 시엘의 궤에── 『사도의 가면』을 봉인하는 것.」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「！」"
+translation = "「!」"
+
+[[dialogue]]
+speaker = "ニャリオン"
+original = "「か、仮面をニャ！\u3000でも確かに、それができればニャ……！」"
+translation = "「가, 가면을냐! 하지만 확실히, 그것이 가능하면냐……!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "リクリエの全力が集約されるアポロ──そのアポロを使徒化させる仮面──いわば物体化した元凶。"
+translation = "리크리에의 전력이 집약되는 아폴로── 그 아폴로를 사도화시키는 가면── 말하자면 물체화된 원흉."
+
+[[dialogue]]
+speaker = "unk"
+original = "それを封印することができたなら、確かにこの危機は乗り越えられる。"
+translation = "그것을 봉인할 수 있다면, 확실히 이 위기는 극복될 수 있다."
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「それに……お姉さんも助かるかも！」"
+translation = "「게다가…… 언니도 살 수 있을지도!」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「ふふ。確かに私たちの味方ね」"
+translation = "「후후. 확실히 우리들의 아군이네.」"
+
+[[dialogue]]
+speaker = "セドナ"
+original = "「肝心の『使徒』まで向かうのにどうするという？」"
+translation = "「가장 중요한 『사도』에게까지 가는데 어떻게 할 셈이지?」"
+
+[[dialogue]]
+speaker = "リノ"
+original = "「私が行くわ。魔力を使い果たしてでも」"
+translation = "「내가 갈 거야. 마력을 전부 써버려서라도.」"
+
+[[dialogue]]
+speaker = "カヤ"
+original = "「……！」"
+translation = "「……!」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "（こんな母さんは──初めて見る──）"
+translation = "（이런 엄마는── 처음 본다──）"
+
+[[dialogue]]
+speaker = "unk"
+original = "母さんからみなぎる魔力は、セドナさんにも引けを取らないものだった。"
+translation = "엄마에게서 넘쳐흐르는 마력은, 세드나 씨에게도 뒤지지 않는 것이었다."
+
+[[dialogue]]
+speaker = "リノ"
+original = "「実を言えばね。こうして、魔王の血統をあたっていた時……彼女にも会ったことがあるのよ。アポロ──じゃないわね、星見家の長女さんに」"
+translation = "「사실을 말하자면 말이야. 이렇게, 마왕의 혈통을 찾아다니고 있을 때…… 그녀도 만난 적이 있어. 아폴로──는 아니지, 호시미 가문의 장녀에게.」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「姉さんと──」"
+translation = "「언니와──」"
+
+[[dialogue]]
+speaker = "unk"
+original = "──向こうは覚えていないでしょうけど、と母さんはつけ加えて。"
+translation = "──저쪽은 기억하지 못하겠지만, 이라고 엄마는 덧붙였다."
+
+[[dialogue]]
+speaker = "セドナ"
+original = "「……本気か」"
+translation = "「……진심인가.」"
+
+[[dialogue]]
+speaker = "リノ"
+original = "「ええ。あなた達がどれだけ止めても──私は彼女のもとへ向かい、この『<ruby>筐<rt>はこ</rt></ruby>』を試させてもらう」"
+translation = "「응. 당신들이 아무리 막아도── 나는 그녀에게로 향해, 이 『궤』를 시험해 볼 거야.」"
+
+[[dialogue]]
+speaker = "リノ"
+original = "「もし、グレート・ウォールを実行したいのなら……私の死に様を見届けてからにすることね」"
+translation = "「만약, 그레이트 월을 실행하고 싶다면…… 내가 죽는 모습을 지켜보고 나서 하도록 해.」"
+
+[[dialogue]]
+speaker = "セドナ"
+original = "「承服しかねる。星騎士どもが弱体化している今、魔力を使えるだけで貴重な人材だ。<ruby>はぐれ魔女<rt>ヤーガ</rt></ruby>とはいえ、我々の計画に従って動いてもらう」"
+translation = "「승복하기 어렵다. 성기사들이 약체화하고 있는 지금, 마력을 사용할 수 있는 것만으로 귀중한 인재다. 야가라고는 해도, 우리들의 계획에 따라 움직이도록 하겠다.」"
+
+[[dialogue]]
+speaker = "リノ"
+original = "「優しいのね。無駄死にさせてくれないなんて」"
+translation = "「상냥하네. 헛되이 죽게 내버려 두지 않겠다니.」"
+
+[[dialogue]]
+speaker = "セドナ"
+original = "「愚かな。ここまで言ってもわからんとは」"
+translation = "「어리석군. 여기까지 말해도 모른다니.」"
+
+[[dialogue]]
+speaker = "unk"
+original = "にらみ合う２人の魔女。"
+translation = "서로 노려보는 두 마녀."
+
+[[dialogue]]
+speaker = "unk"
+original = "誰にも冒せない静寂が、一瞬その場を支配して……"
+translation = "누구도 침범할 수 없는 정적이, 일순 그 장소를 지배하고……"
+

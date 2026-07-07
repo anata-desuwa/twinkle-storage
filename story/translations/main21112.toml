@@ -1,0 +1,450 @@
+[[dialogue]]
+speaker = "unk"
+original = "第１２話,混沌の力,B"
+translation = "제12화, 혼돈의 힘, B"
+
+[[dialogue]]
+speaker = "ドラケルス"
+original = "「グルルゥ！」"
+translation = "「그르르!」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「ディマイズブレイカー！」"
+translation = "「디마이즈 브레이커!」"
+
+[[dialogue]]
+speaker = "ドラケルス"
+original = "「グラァアア………ッ」"
+translation = "「그아아아………윽」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「今ので機械型モンスターは最後ね！\u3000でも神殿はまだ動いている……梨緒たちはどうなったのかしら？」"
+translation = "「방금 걸로 기계형 몬스터는 끝이네! 하지만 신전은 아직 움직이고 있어…… 리오 일행은 어떻게 된 걸까?」"
+
+[[dialogue]]
+speaker = "ベアトリス"
+original = "「会長さーん！\u3000ヴィーナスさーん！」"
+translation = "「회장님! 비너스 씨!」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「この声は……ベアトリスね！」"
+translation = "「이 목소리는…… 베아트리스네!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "神殿の中から、選挙管理委員会の３人が飛んでくる。"
+translation = "신전 안에서, 선거관리위원회의 3명이 날아온다."
+
+[[dialogue]]
+speaker = "unk"
+original = "そしてもう１人──"
+translation = "그리고 또 한 명──"
+
+[[dialogue]]
+speaker = "ジグ"
+original = "「初めまして……は違うかな」"
+translation = "「처음 뵙겠습니다……는 아니려나.」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「仮面をしてないということは、正気に戻ったんだな？」"
+translation = "「가면을 쓰지 않았다는 건, 제정신으로 돌아왔다는 거군?」"
+
+[[dialogue]]
+speaker = "ジグ"
+original = "「ああ。改めて名乗ろう、私はレナーテ・Ｚ・サイフリート。ベガの星騎士だ」"
+translation = "「그래. 다시 통성명하지, 나는 레나테 Z 자이프리트. 베가의 성기사다.」"
+
+[[dialogue]]
+speaker = "ジグ"
+original = "「これからは君たちと共に<ruby>厄災<rt>リクリエ</rt></ruby>と戦うよ。私を弄んだ者への復讐も込みでね」"
+translation = "「이제부터는 너희와 함께 <ruby>재앙<rt>리크리에</rt></ruby>과 싸우겠어. 나를 농락한 자에 대한 복수도 포함해서 말이지.」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「梨緒たちがやってくれたのね！」"
+translation = "「리오 일행이 해냈구나!」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「なんとか……な。ベアトとナターシャにはまた助けられた」"
+translation = "「어떻게든…… 말이지. 베아토와 나타샤에게 또 도움을 받았어.」"
+
+[[dialogue]]
+speaker = "ベアトリス"
+original = "「梨緒ちゃん、かっこよかった！」"
+translation = "「리오짱, 멋있었어!」"
+
+[[dialogue]]
+speaker = "ナターシャ"
+original = "「いやー、ほんとヤバかった。ベアトが治療してくれなかったら死んでたよ」"
+translation = "「이야~ 진짜 위험했어. 베아토가 치료해 주지 않았으면 죽었을 거야.」"
+
+[[dialogue]]
+speaker = "ジグ"
+original = "「私がリクリエの使徒として、君たちにしたことを謝罪する。もちろんその咎も受けよう」"
+translation = "「내가 리크리에의 사도로서 너희에게 저지른 일을 사죄하마. 물론 그 죄값도 달게 받지.」"
+
+[[dialogue]]
+speaker = "ジグ"
+original = "「だがその前にやるべきことがある」"
+translation = "「하지만 그전에 해야 할 일이 있어.」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「神殿の中はどうなったんだ？\u3000今の状況は？」"
+translation = "「신전 안은 어떻게 됐지? 지금 상황은?」"
+
+[[dialogue]]
+speaker = "ジグ"
+original = "「神殿の移動システムは停止させた。だが質量の大きさから、神殿はまだ聖庭園に近づき続けている」"
+translation = "「신전의 이동 시스템은 정지시켰다. 하지만 질량이 너무 커서, 신전은 여전히 성정원에 계속 접근하고 있어.」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「つまりこの神殿を物理的に止める必要があるのか……」"
+translation = "「즉, 이 신전을 물리적으로 멈출 필요가 있다는 건가……」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "（これだけ巨大な建造物を、本当に止めることが可能なのか？）"
+translation = "(이토록 거대한 건조물을 정말로 멈추는 게 가능할까?)"
+
+[[dialogue]]
+speaker = "クロト"
+original = "（破壊するだけでも困難だが、傷つけずに止めるのは、破壊よりも何倍も難しい……）"
+translation = "(파괴하는 것조차 곤란한데, 상처 입히지 않고 멈추는 건 파괴보다 몇 배는 더 어려워……)"
+
+[[dialogue]]
+speaker = "メルエル"
+original = "「会長くん！」"
+translation = "「회장님!」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「メルエル！」"
+translation = "「메르엘!」"
+
+[[dialogue]]
+speaker = "メルエル"
+original = "「聖庭園の住民の避難は終わったよ！」"
+translation = "「성정원 주민들의 피난은 끝났어요!」"
+
+[[dialogue]]
+speaker = "メルエル"
+original = "「現地で聖庭園の空中島自体を移動させることはできないかって、試行錯誤してたんだけど……それはちょっと難しいみたい」"
+translation = "「현지에서 성정원의 공중섬 자체를 이동시킬 수는 없을까 하고 시행착오를 겪어봤는데…… 그건 좀 어려운 것 같아요.」"
+
+[[dialogue]]
+speaker = "メルエル"
+original = "「ただ、破壊するだけだったらできるかもって！\u3000ケイティお姉ちゃんたち、衛兵隊の人にも協力をお願いしてきたよ！」"
+translation = "「다만, 파괴하는 것뿐이라면 가능할지도 모른대요! 케이티 언니랑 위병대 분들에게도 협력을 부탁하고 왔어요!」"
+
+[[dialogue]]
+speaker = "メルエル"
+original = "「だけどその前に……」"
+translation = "「하지만 그전에……」"
+
+[[dialogue]]
+speaker = "unk"
+original = "メルエルが手のひら大の宝玉を差し出す。"
+translation = "메르엘이 손바닥 크기의 보옥을 내민다."
+
+[[dialogue]]
+speaker = "unk"
+original = "透き通る宝玉の中には、小さな文様が刻まれていた。"
+translation = "투명한 보옥 안에는 작은 문양이 새겨져 있었다."
+
+[[dialogue]]
+speaker = "メルエル"
+original = "「これがアルケインコードが刻まれた秘宝だよ」"
+translation = "「이게 아르케인 코드가 새겨진 비보예요.」"
+
+[[dialogue]]
+speaker = "メルエル"
+original = "「魔王の子孫だからかな、宝玉に触れたら、これにどんなアルケインコードが刻まれているか分かったの」"
+translation = "「마왕의 후손이라 그런 걸까요, 보옥에 손을 대니까 여기에 어떤 아르케인 코드가 새겨져 있는지 알 수 있었어요.」"
+
+[[dialogue]]
+speaker = "メルエル"
+original = "「コードの名は──アルケインカオスクエーサー」"
+translation = "「코드의 이름은── 아르케인 카오스 퀘이사.」"
+
+[[dialogue]]
+speaker = "メルエル"
+original = "「このアルケインコードは、魔王という器が取り込んでしまった異物を、自分の力に変換する術式」"
+translation = "「이 아르케인 코드는, 마왕이라는 그릇이 받아들여 버린 이물질을 자신의 힘으로 변환하는 술식이에요.」"
+
+[[dialogue]]
+speaker = "メルエル"
+original = "「初代魔王ラクシスさんも、その身に受けた多くの毒や瘴気に侵されて、浄化の方法を模索してたんだね……」"
+translation = "「초대 마왕 락시스 님도 그 몸에 받은 수많은 독과 장기에 침식되어 정화 방법을 모색하셨던 거군요……」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「メルエル、その話いったいどこで……！？」"
+translation = "「메르엘, 그 이야기를 대체 어디서……!?」"
+
+[[dialogue]]
+speaker = "メルエル"
+original = "「あっ、えっと……そういう記録も、宝玉の中に収められてたみたい。アルケインコードの情報と一緒に頭の中に入ってきたんだ」"
+translation = "「앗, 저기…… 그런 기록도 보옥 안에 담겨 있었나 봐요. 아르케인 코드의 정보와 함께 머릿속으로 들어왔거든요.」"
+
+[[dialogue]]
+speaker = "メルエル"
+original = "「あっ、初代魔王のラクシスさんって……つまり会長くんの……」"
+translation = "「앗, 초대 마왕인 락시스 님이라면…… 그러니까 회장님의……」"
+
+[[dialogue]]
+speaker = "メルエル"
+original = "「ううん、なんでもない！\u3000今は昔話をしてる場合じゃないもんね！」"
+translation = "「으응, 아무것도 아니에요! 지금은 옛날이야기를 하고 있을 때가 아니니까요!」"
+
+[[dialogue]]
+speaker = "メルエル"
+original = "「それでね！\u3000このアルケインコードは、ラクシスさんの頃にはまだなくて、天界に広がった魔王の子孫たちが完成させたものみたい！」"
+translation = "「그래서 말이죠! 이 아르케인 코드는 락시스 님 시절에는 아직 없었고, 천계로 퍼진 마왕의 후손들이 완성시킨 것 같아요!」"
+
+[[dialogue]]
+speaker = "メルエル"
+original = "「だからこれは、会長くんに使ってもらうためのものなんだよ！」"
+translation = "「그러니까 이건 회장님이 사용하시기 위한 거예요!」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「ありがとう、メルエル。使わせてもらうよ」"
+translation = "「고마워, 메르엘. 잘 쓸게.」"
+
+[[dialogue]]
+speaker = "unk"
+original = "メルエルが持つ宝玉に触れると、アルケインコードの術式が頭の中に流れ込んでくる。"
+translation = "메르엘이 들고 있는 보옥에 손을 대자, 아르케인 코드의 술식이 머릿속으로 흘러 들어온다."
+
+[[dialogue]]
+speaker = "クロト"
+original = "（ラクシスを苦しめていた浸食は、今の俺の状況とは異なる……）"
+translation = "(락시스를 괴롭히던 침식은 지금 내 상황과는 달라……)"
+
+[[dialogue]]
+speaker = "クロト"
+original = "（果たしてこの力が、リクリエの力を取り込んだ今の俺に適応できるかどうか……）"
+translation = "(과연 이 힘이 리크리에의 힘을 받아들인 지금의 내게 적응될 수 있을지……)"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「どう、クロト！？\u3000新しいアルケインコードは、ちゃんと使えそう……？」"
+translation = "「어때, 쿠로토!? 새로운 아르케인 코드는 제대로 쓸 수 있을 것 같아……?」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「……！！\u3000ああ、行けそうだ！」"
+translation = "「……!! 그래, 할 수 있을 것 같아!」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「このアルケインコードがあれば、俺の中のリクリエを恐れなくて済む……！」"
+translation = "「이 아르케인 코드가 있다면 내 안의 리크리에를 두려워하지 않아도 돼……!」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「行くぞ……！\u3000アルケインカオスクエーサー！！」"
+translation = "「간다……! 아르케인 카오스 퀘이사!!」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "（俺の中に渦巻くリクリエの力が、逆に俺を包み込んでいる……）"
+translation = "(내 안에서 소용돌이치는 리크리에의 힘이 오히려 나를 감싸고 있어……)"
+
+[[dialogue]]
+speaker = "クロト"
+original = "（今まで感じていた痛みや苦しさは感じない。これなら……──ぐっ！？）"
+translation = "(지금까지 느꼈던 고통이나 괴로움은 느껴지지 않아. 이 정도라면……──윽!?)"
+
+[[dialogue]]
+speaker = "unk"
+original = "自分の中で、練り上げていた力が反発し合い、弾かれるような感覚があった。"
+translation = "자신의 안에서 다듬어 올리던 힘이 서로 반발하며 튕겨 나가는 듯한 감각이 있었다."
+
+[[dialogue]]
+speaker = "unk"
+original = "神殿を受け止めるために『巨大な手』を作り出そうとしたが、今の俺にはそこまで精緻な力のコントロールはできないようだった。"
+translation = "신전을 받아내기 위해 『거대한 손』을 만들어내려 했지만, 지금의 나로서는 그 정도로 정밀한 힘의 컨트롤은 불가능한 듯했다."
+
+[[dialogue]]
+speaker = "クロト"
+original = "「だったら……！」"
+translation = "「그렇다면……!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "イメージするのは、シンプルで巨大な盾。"
+translation = "이미지하는 것은 심플하고 거대한 방패."
+
+[[dialogue]]
+speaker = "unk"
+original = "己の中にある『世界を再構成する力』を顕現させ、その莫大なエネルギーで現象を掌握する。"
+translation = "자신의 안에 있는 『세계를 재구성하는 힘』을 현현시켜, 그 막대한 에너지로 현상을 장악한다."
+
+[[dialogue]]
+speaker = "クロト"
+original = "「カオスイージス！！」"
+translation = "「카오스 이지스!!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "女神の神殿の進行方向に、数十メートル──いや１００メートルをゆうに超える巨大な盾が生まれた。"
+translation = "여신의 신전 진행 방향에 수십 미터── 아니, 100미터를 훌쩍 넘는 거대한 방패가 생겨났다."
+
+[[dialogue]]
+speaker = "unk"
+original = "巨大な不可視の盾は、移動を続ける女神の神殿を受け止め、膨大な運動エネルギーを吸収する。"
+translation = "거대한 불가시의 방패는 이동을 계속하던 여신의 신전을 받아내어 방대한 운동 에너지를 흡수한다."
+
+[[dialogue]]
+speaker = "unk"
+original = "しばらくの間、力と力がせめぎ合うような地響きが続いたが……やがて女神の神殿は、聖庭園に到着する前に完全に停止した。"
+translation = "한동안 힘과 힘이 맞부딪히는 듯한 지동이 이어졌으나…… 이윽고 여신의 신전은 성정원에 도착하기 직전에 완전히 정지했다."
+
+[[dialogue]]
+speaker = "メルエル"
+original = "「…………」"
+translation = "「…………」"
+
+[[dialogue]]
+speaker = "メルエル"
+original = "「って、ぽけっとしている場合じゃないよね！\u3000どうなっちゃったの！？」"
+translation = "「아니, 멍하니 있을 때가 아니지! 어떻게 된 거야!?」"
+
+[[dialogue]]
+speaker = "ナターシャ"
+original = "「神殿と聖庭園の距離を算出……うん、星術を使って計測しても、ちゃんと止まってるね」"
+translation = "「신전과 성정원의 거리를 산출…… 응, 성술을 써서 계측해 봐도 확실히 멈춰 있네.」"
+
+[[dialogue]]
+speaker = "メルエル"
+original = "「ってことは──」"
+translation = "「그렇다는 건──」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「今度こそ天界を守れたわね！」"
+translation = "「이번에야말로 천계를 지켜냈구나!」"
+
+[[dialogue]]
+speaker = "メルエル"
+original = "「やったぁっ！」"
+translation = "「만세!」"
+
+[[dialogue]]
+speaker = "ベアトリス"
+original = "「ふぅ～……」"
+translation = "「후우~……」"
+
+[[dialogue]]
+speaker = "unk"
+original = "危機が去ったことを実感し、みんなが喜びと安堵の声を漏らす。"
+translation = "위기가 떠나갔음을 실감하며 모두가 기쁨과 안도의 목소리를 흘린다."
+
+[[dialogue]]
+speaker = "unk"
+original = "極星星徒会とリクリエの使徒という強敵との連戦だったが、何とか女神の神殿を守ることができた。"
+translation = "극성성도회와 리크리에의 사도라는 강적과의 연전이었지만, 어떻게든 여신의 신전을 지켜낼 수 있었다."
+
+[[dialogue]]
+speaker = "クロト"
+original = "「みんな、お疲れ様」"
+translation = "「모두 고생했어.」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「ほんとよー。デネブから帰ってきて早々、天界が襲われたって聞いたものだからビックリしたわ」"
+translation = "「정말이야~. 데네브에서 돌아오자마자 천계가 습격당했다는 소릴 들어서 깜짝 놀랐다고.」"
+
+[[dialogue]]
+speaker = "ベアトリス"
+original = "「私もほんとにヘトヘトだよー……帰ったらニンニクたくさん食べようっと」"
+translation = "「나도 정말 녹초가 됐어~…… 집에 가면 마늘 잔뜩 먹어야지.」"
+
+[[dialogue]]
+speaker = "ナターシャ"
+original = "「エージェントだから体力には自信あったつもりだけど、今回はさすがに疲れたね」"
+translation = "「에이전트라 체력에는 자신 있었는데, 이번에는 역시 지치네.」"
+
+[[dialogue]]
+speaker = "unk"
+original = "疲労を表すように、大げさに肩をすくめてみせるナターシャ。"
+translation = "피로를 나타내듯 과장되게 어깨를 으쓱해 보이는 나타샤."
+
+[[dialogue]]
+speaker = "unk"
+original = "そこでナターシャとメルエルの目が合う。"
+translation = "거기서 나타샤와 메르엘의 눈이 마주친다."
+
+[[dialogue]]
+speaker = "ナターシャ"
+original = "「……」"
+translation = "「……」"
+
+[[dialogue]]
+speaker = "メルエル"
+original = "「……」"
+translation = "「……」"
+
+[[dialogue]]
+speaker = "unk"
+original = "少しの沈黙の後、会話もなく目を逸らす２人。"
+translation = "잠깐의 침묵 후, 대화도 없이 눈을 피하는 두 사람."
+
+[[dialogue]]
+speaker = "unk"
+original = "２人が今までのように、友人の距離に戻れることはあるのだろうか。"
+translation = "두 사람이 예전처럼 친구 사이로 돌아갈 수 있는 날이 올까."
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「ふぅ……長い一日だった」"
+translation = "「후우…… 긴 하루였어.」"
+
+[[dialogue]]
+speaker = "ジグ"
+original = "「私にはあまり実感がないな。仮面をしていた時は、夢を見ているようなものだったからね」"
+translation = "「나는 별로 실감이 안 나네. 가면을 쓰고 있을 때는 꿈을 꾸는 것 같았으니까.」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「まぁ……そうだろうな」"
+translation = "「뭐…… 그렇겠지.」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「君に言いたいことはたくさんある。いろいろ話をしたいところだが……」"
+translation = "「너한테 하고 싶은 말은 잔뜩 있어. 여러 가지 이야기를 나누고 싶지만……」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「帰ろう、新星学園に」"
+translation = "「돌아가자, 신성학원으로.」"
+
+[[dialogue]]
+speaker = "ジグ"
+original = "「私たちの──じゃないけどね」"
+translation = "「우리들의── 학원은 아니지만 말이야.」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「ああ、私たちの学園はなくなってしまった」"
+translation = "「아아, 우리들의 학원은 없어져 버렸지.」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「それでも新星学園はあるんだ。この世界に」"
+translation = "「그래도 신성학원은 있어. 이 세계에.」"
+
+[[dialogue]]
+speaker = "ジグ"
+original = "「うん……そうだね」"
+translation = "「응…… 그렇네.」"
+

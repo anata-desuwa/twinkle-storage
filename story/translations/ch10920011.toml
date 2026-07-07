@@ -1,0 +1,235 @@
+[[dialogue]]
+speaker = "unk"
+original = "第１話,江戸っ子巫女との出会い,P"
+translation = "제1화, 에도 말투 무녀와의 만남"
+
+[[dialogue]]
+speaker = "ミルフィー"
+original = "「会長くん、今日も星徒会活動お疲れさま。よかったら、ジュースでもどう？」"
+translation = "「회장군, 오늘도 성도회 활동 수고했어. 괜찮으면 주스라도 어때?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "せっかくだし、いただこうかな"
+translation = "기왕이면 받아 마실까."
+
+[[dialogue]]
+speaker = "ミルフィー"
+original = "「うん、一本どうぞ」"
+translation = "「응, 여기 한 병 받아」"
+
+[[dialogue]]
+speaker = "ヒヨ"
+original = "「おーっと！\u3000姐さんに近づこうとは、いい度胸だぜい！」"
+translation = "「오ー옷! 누님에게 접근하려 하다니, 좋은 배짱이로구먼!」"
+
+[[dialogue]]
+speaker = "ミルフィー"
+original = "「ヒヨちゃん！？」"
+translation = "「히요짱!?」"
+
+[[dialogue]]
+speaker = "ヒヨ"
+original = "「そこの怪しい男！\u3000姐さんに手を出そうたってそうはいかないぜ！」"
+translation = "「거기 수상한 남자! 누님에게 손을 대려 해도 그렇게는 안 될 거다!」"
+
+[[dialogue]]
+speaker = "ミルフィー"
+original = "「ヒヨちゃん、この人は新星学園の星徒会長だよ」"
+translation = "「히요짱, 이 사람은 신성학원의 성도회장이야」"
+
+[[dialogue]]
+speaker = "ヒヨ"
+original = "「星徒会長……？\u3000ってことは、あの有名な会長サンか！」"
+translation = "「성도회장……? 그렇다는 건, 그 유명한 회장님이냐!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "こんにちは、星徒会長の緋宮クロトだ"
+translation = "안녕, 성도회장 히노미야 쿠로토다."
+
+[[dialogue]]
+speaker = "ヒヨ"
+original = "「てやんでい！\u3000ここであったが百年目！\u3000このあたしが直々に成敗してやる！」"
+translation = "「무슨 소리야! 여기서 만난 게 백년하청! 이 몸이 직접 성패해 주마!」"
+
+[[dialogue]]
+speaker = "ミルフィー"
+original = "「なんで！？」"
+translation = "「왜!?」"
+
+[[dialogue]]
+speaker = "ヒヨ"
+original = "「だって、新星学園の星徒会長と言えば、星徒会でハーレムを作るわ、見目麗しい女生徒を片っ端からナンパするわで有名だろ？」"
+translation = "「그야 신성학원 성도회장이라 하면, 성도회에서 하렘을 만들고, 어여쁜 여학생들을 닥치는 대로 헌팅하는 걸로 유명하잖아!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "そんな認識されてるの！？"
+translation = "그런 인식을 받고 있었어!?"
+
+[[dialogue]]
+speaker = "ミルフィー"
+original = "「いやいや、会長くんはそんな人じゃないからっ」"
+translation = "「아냐 아냐, 회장군은 그런 사람이 아니니까」"
+
+[[dialogue]]
+speaker = "ヒヨ"
+original = "「嘘でえ！\u3000だって、現に姐さんにも言い寄ろうとしてたじゃねぇか……！」"
+translation = "「거짓말 마! 왜냐면 실제로 누님한테도 수작을 부리려 하고 있었잖아……!」"
+
+[[dialogue]]
+speaker = "ミルフィー"
+original = "「ただ、ジュースを渡そうとしてただけなんだけどなぁ～」"
+translation = "「그저 주스를 건네받으려던 것뿐이었는데 말야～」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ええと、それでこの子は？"
+translation = "저기, 그래서 이 아이는?"
+
+[[dialogue]]
+speaker = "ヒヨ"
+original = "「軟派者に名乗る名はねぇぜ」"
+translation = "「난봉꾼에게 알려줄 이름은 없다!」"
+
+[[dialogue]]
+speaker = "ミルフィー"
+original = "「もうヒヨちゃんってば、流石に失礼だよ」"
+translation = "「정말 히요짱도 참, 아무리 그래도 무례해」"
+
+[[dialogue]]
+speaker = "ヒヨ"
+original = "「ふんだっ」"
+translation = "「흥이다」"
+
+[[dialogue]]
+speaker = "ミルフィー"
+original = "「ごめんね、根はいい子なんだけど……」"
+translation = "「미안해, 본래는 착한 아이인데……」"
+
+[[dialogue]]
+speaker = "ミルフィー"
+original = "「それでね、この子は<ruby>天桐<rt>あまぎり</rt></ruby>ヒヨちゃん。陸上部の後輩でプリマステラなんだ。あとヒヨちゃんは神社の巫女さんでね、舞を踊るのがすごく上手なんだよ」"
+translation = "「그래서 말인데, 이 아이는 아마기리 히요짱이야. 육상부 후배이자 프리마스텔라지. 그리고 히요짱은 신사의 무녀님이라 춤을 추는 게 아주 능숙하단다」"
+
+[[dialogue]]
+speaker = "ヒヨ"
+original = "「天桐神社のご利益は恋愛・仕事・学業・健康なんでもござれだ！\u3000なんか困ったことがあったらうちの神社に来な！」"
+translation = "「아마기리 신사의 영험함은 연애, 사업, 학업, 건강 무엇이든 다 된다! 뭔가 곤란한 일이 있으면 우리 신사로 오라고!」"
+
+[[dialogue]]
+speaker = "ミルフィー"
+original = "「ヒヨちゃんの神社は本当に万能だよね～」"
+translation = "「히요짱네 신사는 정말 만능이네～」"
+
+[[dialogue]]
+speaker = "ヒヨ"
+original = "「たりめぇよ！\u3000うちの神社の神様は、いつもあたしたちを見守ってくれてるからな！」"
+translation = "「당연하지! 우리 신사 신령님은 언제나 우리를 보살펴 주시니까 말이야!」"
+
+[[dialogue]]
+speaker = "ミルフィー"
+original = "「ふふ、ヒヨちゃんのポジティブさには、いつも勇気づけられてるよ」"
+translation = "「후후, 히요짱의 긍정적인 면에는 언제나 용기를 얻고 있어」"
+
+[[dialogue]]
+speaker = "ヒヨ"
+original = "「照れるぜ姐さん。あたしも姐さんにはいつも助けてもらってるからな。少しは恩返しをしたいぜ！」"
+translation = "「쑥스럽구먼 누님. 나도 누님에겐 언제나 도움을 받고 있으니까. 조금이라도 은혜를 갚고 싶어!」"
+
+[[dialogue]]
+speaker = "ミルフィー"
+original = "「ヒヨちゃんがそばにいてくれるだけで充分だよ」"
+translation = "「히요짱이 곁에 있어 주는 것만으로 충분해」"
+
+[[dialogue]]
+speaker = "unk"
+original = "２人は本当に仲がいいんだな"
+translation = "둘은 정말 사이가 좋구나."
+
+[[dialogue]]
+speaker = "ヒヨ"
+original = "「おうよ！\u3000あたしと姐さんとの間には、切っても切れない縁があるからな！」"
+translation = "「당연하지! 나와 누님 사이에는 끊으려야 끊을 수 없는 인연이 있으니까!」"
+
+[[dialogue]]
+speaker = "ヒヨ"
+original = "「本当に姐さんには頭が上がらないぜ……今のあたしがあるのも、全部姐さんのおかげだ！」"
+translation = "「정말 누님에겐 고개를 들 수 없다고…… 지금의 내가 있는 것도 전부 누님 덕분이야!」"
+
+[[dialogue]]
+speaker = "ミルフィー"
+original = "「そんな大げさだよ。私なんて大したことしてないから」"
+translation = "「그렇게 과장하지 마. 난 별로 대단한 걸 한 게 아니니까」"
+
+[[dialogue]]
+speaker = "ヒヨ"
+original = "「いいや、そんなことはないぜ……あれは、あたしがプリマステラになる前の話でい……」"
+translation = "「아니, 그렇지 않아…… 그건 내가 프리마스텔라가 되기 전 이야기였지……」"
+
+[[dialogue]]
+speaker = "ヒヨ"
+original = "「星力に伸び悩んで弱気になっていた時、姐さんはずっとあたしを励ましてくれた。自分の時間を削って、ずっとずっと、あたしの訓練に付きっきりで……」"
+translation = "「성력이 늘지 않아 약해져 있을 때, 누님은 계속 나를 격려해 줬어. 자기 시간을 쪼개서 줄곧 내 훈련에 붙어 있어 주면서……」"
+
+[[dialogue]]
+speaker = "ミルフィー"
+original = "「あの頃のヒヨちゃんは、なんだか放っておけなくてね……でもそう言ってくれて嬉しいな」"
+translation = "「그 무렵 히요짱은 왠지 내버려 둘 수가 없었어…… 하지만 그렇게 말해주니 기쁘네」"
+
+[[dialogue]]
+speaker = "ヒヨ"
+original = "「そんな姐さんのおかげで、あたしは遂にプリマステラになれたってわけでい。それから尊敬と感謝の念を込めて、姐さんって呼ばせてもらってるんだぜい！」"
+translation = "「그런 누님 덕분에 나는 마침내 프리마스텔라가 될 수 있었던 거지! 그래서 존경과 감사의 마음을 담아 누님이라 부르고 있는 거다!」"
+
+[[dialogue]]
+speaker = "ミルフィー"
+original = "「姐さんって呼ばれると、なんだか勇ましい気がするけど……まあ、ヒヨちゃんがそう呼びたいならね」"
+translation = "「누님이라 불리면 왠지 씩씩해지는 기분이지만…… 뭐, 히요짱이 그렇게 부르고 싶다면야」"
+
+[[dialogue]]
+speaker = "unk"
+original = "２人はそんな関係だったんだな"
+translation = "둘은 그런 관계였구나."
+
+[[dialogue]]
+speaker = "ヒヨ"
+original = "「おう！\u3000だから姐さんに近づく不埒な輩は、あたしが許さねぇぜ！」"
+translation = "「그렇지! 그러니 누님에게 접근하는 불순한 놈들은 내가 용서치 않겠어!」"
+
+[[dialogue]]
+speaker = "ミルフィー"
+original = "「だから会長くんは違うって言ってるのにぃ～」"
+translation = "「그러니까 회장군은 다르다고 말하고 있는데에～」"
+
+[[dialogue]]
+speaker = "ヒヨ"
+original = "「いいや、会長サンは星徒会でのハーレムに飽き足らず、姐さんにも手を出そうとしてるに違いねぇ！」"
+translation = "「아니, 회장님은 성도회 하렘으로도 모자라 누님에게까지 손을 뻗으려 하는 게 틀림없어!」"
+
+[[dialogue]]
+speaker = "ヒヨ"
+original = "「てわけで、今日から会長サンのことを監視させてもらうぜい」"
+translation = "「그런 고로, 오늘부터 회장님을 감시하도록 하겠어!」"
+
+[[dialogue]]
+speaker = "ミルフィー"
+original = "「監視！？」"
+translation = "「감시!?」"
+
+[[dialogue]]
+speaker = "ヒヨ"
+original = "「姐さん安心してくだせぇ……ちゃんとあたしが監視して、会長サンの悪事の証拠を掴んでくるでい！」"
+translation = "「누님, 안심하십쇼…… 내가 확실히 감시해서 회장님의 악행 증거를 잡아올 테니까!」"
+
+[[dialogue]]
+speaker = "ミルフィー"
+original = "「私の話をちゃんと聞いてぇ～」"
+translation = "「내 말 좀 들어줘어～」"
+
+[[dialogue]]
+speaker = "ヒヨ"
+original = "「会長サン、そういうことだから覚悟しといてくれよな！」"
+translation = "「회장님, 그렇게 됐으니 각오하고 있으라고!」"
+

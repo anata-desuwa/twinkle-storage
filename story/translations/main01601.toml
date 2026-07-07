@@ -1,0 +1,600 @@
+[[dialogue]]
+speaker = "unk"
+original = "第１話,フィーニスを巡り,B"
+translation = "제1화, 피니스를 둘러싸고, B"
+
+[[dialogue]]
+speaker = "unk"
+original = "『グレート・ウォール』計画を推し進めようとしていたネビュラ達を撃破した俺たち。"
+translation = "『그레이트 월』 계획을 추진하려던 네뷸라들을 격파한 우리들."
+
+[[dialogue]]
+speaker = "unk"
+original = "フィオナの固い誓いを共有し、俺たちはフィーニスの塔の頂上に座すアポロのもとへ向かった……。"
+translation = "피오나의 굳은 맹세를 공유하고, 우리는 피니스의 탑 정상에 앉아 있는 아폴로에게로 향했다……."
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「第一層──懐かしいわね。初めて入ったのがうんと昔のことみたいだわ」"
+translation = "「제1계층── 그립네. 처음 들어갔던 게 아주 옛날 일 같아.」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「確かにな。あの時は、右も左もわからなかった」"
+translation = "「확실히. 그때는, 오른쪽도 왼쪽도 몰랐지.」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「中って、こんな風になってたんだ……」"
+translation = "「안은, 이렇게 생겼었구나……」"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「ルリエルの知っているフィーニスの塔の内部とは、全然違う趣でありますね！」"
+translation = "「루리엘이 알고 있는 피니스의 탑 내부와는, 전혀 다른 분위기인 것입니다!」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「フィーニスの塔は──階層によって全く装いが変わりますから」"
+translation = "「피니스의 탑은── 계층에 따라 완전히 모습이 달라지니까요.」"
+
+[[dialogue]]
+speaker = "セーラ"
+original = "「うちらが入ったあの滅亡ッポイ世界はー……第三層だっけ？」"
+translation = "「우리들이 들어갔던 그 멸망 같은 세계는ー…… 제3계층이었나?」"
+
+[[dialogue]]
+speaker = "リノ"
+original = "「ここは変わらないわね。瘴気の蔓延が少し増した気はするけれど」"
+translation = "「여기는 변함없네. 장기(瘴氣)의 만연이 조금 늘어난 것 같긴 하지만.」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「母さん、立ち入ったことがあるのか？」"
+translation = "「엄마, 들어와 본 적 있어?」"
+
+[[dialogue]]
+speaker = "リノ"
+original = "「昔にね。と言っても、最初の方だけよ。あなた達とは違って」"
+translation = "「옛날에. 라고 해도, 처음 부분뿐이야. 너희들과는 다르게.」"
+
+[[dialogue]]
+speaker = "unk"
+original = "母さんは、俺たちの無茶をややたしなめるように言った。"
+translation = "엄마는, 우리의 무모함을 약간 타이르듯이 말했다."
+
+[[dialogue]]
+speaker = "ソフィア"
+original = "「お姉さんがいるのは、この塔の頂上──」"
+translation = "「언니가 있는 곳은, 이 탑의 정상──」"
+
+[[dialogue]]
+speaker = "ニャリオン"
+original = "「そうニャ。ニャから、頂上目指して全部ぶち抜いていく必要ありニャ！\u3000気張っていくニャンよ！」"
+translation = "「그렇냥. 그러니까, 정상을 목표로 전부 뚫고 나갈 필요가 있냥! 힘내서 가는 거냥!」"
+
+[[dialogue]]
+speaker = "ユウリ"
+original = "「全部か……そりゃ気張るけど、間に合うのかよ？」"
+translation = "「전부라니…… 그야 힘내겠지만, 제시간에 도착할 수 있겠어?」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「魔界横断に比べたら、距離自体は大したものじゃないけどー……」"
+translation = "「마계 횡단에 비하면, 거리 자체는 별거 아니지만ー……」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「さすがに一階一階昇っていたら──キリがないかもしれませんね」"
+translation = "「아무리 그래도 한 층 한 층 올라가다가는── 끝이 없을지도 모르겠네요.」"
+
+[[dialogue]]
+speaker = "リノ"
+original = "「ふーむ……」"
+translation = "「흐음……」"
+
+[[dialogue]]
+speaker = "リノ"
+original = "「じゃ……やるしかないわね」"
+translation = "「그럼…… 할 수밖에 없겠네.」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「母さん？」"
+translation = "「엄마?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "どうにかして早急にこのフィーニスの塔を駆け上がらなくてはならない。"
+translation = "어떻게든 급히 이 피니스의 탑을 달려 올라가야만 한다."
+
+[[dialogue]]
+speaker = "unk"
+original = "その問題に対して、母さんは気安い調子で天井を指差した。"
+translation = "그 문제에 대해, 엄마는 태평한 목소리로 천장을 가리켰다."
+
+[[dialogue]]
+speaker = "リノ"
+original = "「──ぶち抜きなさい、クロト。今なら女神さまも許してくれるわ」"
+translation = "「──뚫고 나가, 쿠로토. 지금이라면 여신님도 용서해 줄 거야.」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「ぶ、ぶち抜くって……」"
+translation = "「뚫, 뚫고 나가라니……」"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「物理的にでありますかっ！？」"
+translation = "「물리적으로인 것입니까!?」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「なるほど──さすがクロトのママ！\u3000いちいち階段なんて昇ってられないものね！」"
+translation = "「과연── 역시 쿠로토의 엄마! 일일이 계단 같은 거 오르고 있을 순 없지!」"
+
+[[dialogue]]
+speaker = "ユウリ"
+original = "「いやいや、すげー無茶に聞こえるんだが」"
+translation = "「아니 아니, 엄청 무모하게 들리는데.」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「とはいえ……手荒ですが、それしかないかもしれません」"
+translation = "「그렇다고 해도…… 거칠지만, 그것밖에 없을지도 모릅니다.」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「迷ってる時間もないものねえ」"
+translation = "「망설일 시간도 없으니까 말이야.」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「……やってみるか。フィオナ、支援を頼めるか」"
+translation = "「……해 볼까. 피오나, 지원을 부탁할 수 있을까.」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「はい」"
+translation = "「네.」"
+
+[[dialogue]]
+speaker = "unk"
+original = "俺はフィオナに霊力の<ruby>経路<rt>パス</rt></ruby>を繋げてもらい、拳へ神経を集中させた。"
+translation = "나는 피오나에게 영력의 경로를 연결받아, 주먹에 신경을 집중시켰다."
+
+[[dialogue]]
+speaker = "クロト"
+original = "（今の俺なら──この塔の構造がよくわかる。最大効率で突破するには……ここだ！）"
+translation = "（지금의 나라면── 이 탑의 구조를 잘 알 수 있다. 최대 효율로 돌파하려면…… 여기다!）"
+
+[[dialogue]]
+speaker = "unk"
+original = "そして──"
+translation = "그리고──"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「──はあああああああっっ！！」"
+translation = "「──하아아아아아앗!!」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「……」"
+translation = "「……」"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「……」"
+translation = "「……」"
+
+[[dialogue]]
+speaker = "リノ"
+original = "「うんうん、いい感じね♪」"
+translation = "「응응, 좋은 느낌이네♪」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「これが魔王ビームよ！\u3000裏技ってやつだわ！」"
+translation = "「이것이 마왕 빔이야! 치트키라는 거지!」"
+
+[[dialogue]]
+speaker = "ニャリオン"
+original = "「うーむ……すごすぎるニャンね……」"
+translation = "「으ー음…… 너무 대단하냥……」"
+
+[[dialogue]]
+speaker = "unk"
+original = "俺の放った極大の閃撃は──もののみごとにこの階層の天井へ風穴を開けていた。"
+translation = "내가 쏜 극대의 섬격은── 보기 좋게 이 계층의 천장에 구멍을 뚫고 있었다."
+
+[[dialogue]]
+speaker = "unk"
+original = "後はここを通って飛んでいけば、またある程度の高みへ出られるはずだ。"
+translation = "이제 이곳을 통과해 날아가면, 또 어느 정도의 높은 곳으로 나갈 수 있을 것이다."
+
+[[dialogue]]
+speaker = "クロト"
+original = "「これで時間は大きく短縮できるはずだ。一刻も早く頂上へ向かうぞ！」"
+translation = "「이걸로 시간을 크게 단축할 수 있을 거야. 한시라도 빨리 정상으로 향하자!」"
+
+[[dialogue]]
+speaker = "ユウリ"
+original = "「っし！\u3000覚悟決めっか！」"
+translation = "「좋았어! 각오 다지자!」"
+
+[[dialogue]]
+speaker = "ソフィア"
+original = "「はい。行きましょう！」"
+translation = "「네. 가요!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "そうして、立ちはだかるガーディアンを蹴散らしながら駆け上がっていく俺たち。"
+translation = "그렇게, 가로막는 가디언을 걷어차며 달려 올라가는 우리들."
+
+[[dialogue]]
+speaker = "unk"
+original = "初めて入った頃と比べれば、こちらの戦力も段違いでレベルアップしていたようで……"
+translation = "처음 들어왔을 때와 비교하면, 이쪽의 전력도 엄청나게 레벨업 되어 있었던 것 같고……"
+
+[[dialogue]]
+speaker = "unk"
+original = "『ボス』が不在なことも相まって、速やかに昇っていくことができた。"
+translation = "『보스』가 부재한 것도 한몫하여, 신속하게 올라갈 수 있었다."
+
+[[dialogue]]
+speaker = "ユウリ"
+original = "「──うおっ！？\u3000また急に雰囲気が変わったな」"
+translation = "「──우왓!? 또 갑자기 분위기가 바뀌었네」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「第二階層だ」"
+translation = "「제2계층이다」"
+
+[[dialogue]]
+speaker = "ソフィア"
+original = "「遺跡のようですね……」"
+translation = "「유적 같네요……」"
+
+[[dialogue]]
+speaker = "ニャリオン"
+original = "「そういえば、こっちには入ったことなかったニャン」"
+translation = "「그러고 보니, 여기는 들어온 적 없었냥」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「あの時は……ニャリオンを呼ぼうとはしたのですが、なぜか呼び出せなかったんですよ」"
+translation = "「그때는…… 냐리온을 부르려고는 했지만, 어째서인지 불러낼 수 없었어요」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「召喚の経路が断たれてる、とか言ってたか」"
+translation = "「소환 경로가 끊겼다, 라고 말했었나」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「それほどまでに別世界──ということですね」"
+translation = "「그 정도로 별세계──라는 것이군요」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「色んな絵がたくさんあるわね」"
+translation = "「여러 가지 그림이 잔뜩 있네」"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「ですです。何やら遺跡っぽい雰囲気ですね！」"
+translation = "「맞아요 맞아요. 뭔가 유적 같은 분위기네요!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "通路の脇に立ち並ぶ古き壁画の数々。"
+translation = "통로 옆에 늘어선 오래된 벽화들."
+
+[[dialogue]]
+speaker = "unk"
+original = "そこには人間が、天使が、魔族が……そして様々な文明世界が描かれていた。"
+translation = "그곳에는 인간이, 천사가, 마족이…… 그리고 다양한 문명 세계가 그려져 있었다."
+
+[[dialogue]]
+speaker = "セーラ"
+original = "「滅んで、栄えて、また滅んで……ふむふむ。これがアレって感じかな？」"
+translation = "「멸망하고, 번성하고, 또 멸망하고…… 흠흠. 이게 그거라는 느낌일까?」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「ええ。これらは今までに築かれてきた過去──リクリエが回帰させてきた<ruby>暦<rt>こよみ</rt></ruby>の歴史です」"
+translation = "「그래. 이것들은 지금까지 쌓아 올려진 과거── 리크리에가 회귀시켜 온 <ruby>달력<rt>코요미</rt></ruby>의 역사다」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「マグダレナが教えてくれたんだったわね」"
+translation = "「막달레나가 알려줬던 거였지」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「後は……そっか。ここは確か、奥にアルモタヘルがいたところよ」"
+translation = "「그리고…… 그렇구나. 여기는 분명, 안쪽에 아르모타헬가 있던 곳이야」"
+
+[[dialogue]]
+speaker = "ユウリ"
+original = "「んじゃ、ここの層もボスはもう不在ってことだな」"
+translation = "「그럼, 이 계층도 보스는 이미 부재라는 거네」"
+
+[[dialogue]]
+speaker = "リノ"
+original = "「まだまだ先は長いものね。次の階層を目指して急ぎましょう」"
+translation = "「아직 갈 길은 멀지. 다음 계층을 향해 서두르자」"
+
+[[dialogue]]
+speaker = "ユウリ"
+original = "「ち……道がけっこう複雑だな。フィオナ、次の道はどっちだ？」"
+translation = "「칫…… 길이 꽤 복잡하네. 피오나, 다음 길은 어디야?」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「最初に来た時と構造がやや変わっていますね。どちらが正しいのか……」"
+translation = "「처음 왔을 때와 구조가 약간 바뀌었네요. 어느 쪽이 올바른지……」"
+
+[[dialogue]]
+speaker = "セーラ"
+original = "「えぇー。そんなのアリー？」"
+translation = "「에에ー. 그런 게 어딨어ー?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "第二階層の<ruby>壁画群<rt>ギャラリー</rt></ruby>はあまりに膨大で、そのルートも前回と大きく組み替えられていた。"
+translation = "제2계층의 <ruby>벽화군<rt>갤러리</rt></ruby>은 너무나 방대했고, 그 루트도 지난번과 크게 재편되어 있었다."
+
+[[dialogue]]
+speaker = "unk"
+original = "ガーディアンには手こずらないというのに、ここで迷っていては時間のロスになる。"
+translation = "가디언에게는 고전하지 않는데, 여기서 헤매고 있으면 시간 낭비가 된다."
+
+[[dialogue]]
+speaker = "unk"
+original = "しかし……"
+translation = "하지만……"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「うーん…………」"
+translation = "「으ー음…………」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「──こっちね！\u3000それから、次は右！\u3000それから左！\u3000その先に階段があるから！」"
+translation = "「──이쪽이야! 그리고, 다음은 오른쪽! 그리고 왼쪽! 그 앞에 계단이 있으니까!」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「そんでもって、そこの天井をぶち破ればうんと上まで昇れるはずよ！」"
+translation = "「게다가, 저기 천장을 부숴버리면 훨씬 위까지 올라갈 수 있을 거야!」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「ほ、ほんと？\u3000ヴィーナス」"
+translation = "「저, 정말이야? 비너스」"
+
+[[dialogue]]
+speaker = "ニャリオン"
+original = "「あっ──でもホントに見えてきたニャン！\u3000やるニャン！」"
+translation = "「앗── 근데 진짜로 보이기 시작했냥! 대단하냥!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "なぜかズバズバと正解の道を言い当てていくヴィーナス。"
+translation = "어째서인지 척척 정답의 길을 맞히는 비너스."
+
+[[dialogue]]
+speaker = "unk"
+original = "俄然いきいきとしながら、俺たちをぐんぐん先導していく。"
+translation = "갑자기 생기가 넘치면서, 우리들을 계속해서 앞장서 이끌었다."
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「そっちじゃないわクロト！\u3000こっちが近道よ！」"
+translation = "「거기 아니야 쿠로토! 이쪽이 지름길이야!」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「了解──」"
+translation = "「알겠다──」"
+
+[[dialogue]]
+speaker = "ニャリオン"
+original = "「どうしてわかるのニャ、九浄の娘！」"
+translation = "「어떻게 아는 거냥, 쿠죠의 딸!」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「知らない！\u3000けど、なんとなく！」"
+translation = "「몰라! 하지만, 그냥 느낌이!」"
+
+[[dialogue]]
+speaker = "ニャリオン"
+original = "「ニャんとニャくでいいのかニャ……！？」"
+translation = "「느낌으로 괜찮은 거냥……!?」"
+
+[[dialogue]]
+speaker = "リノ"
+original = "「でも、さっきから一度も行き止まりにはなってないわね」"
+translation = "「하지만, 아까부터 한 번도 막다른 길은 없었네」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「……」"
+translation = "「……」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「ヴィーナス──もしかして、またあの声が聞こえたのか？」"
+translation = "「비너스── 혹시, 또 그 목소리가 들린 건가?」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「ううん。今回は違う。けど、なんとなく──教えられてる気がするの。こっちだ、って」"
+translation = "「아니. 이번엔 달라. 하지만, 왠지 모르게── 알려주고 있다는 느낌이 들어. 이쪽이라고」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「……」"
+translation = "「……」"
+
+[[dialogue]]
+speaker = "unk"
+original = "俺たちには、初めてここへ立ち入った時のことがよみがえった。"
+translation = "우리들에게는, 처음 이곳에 발을 들였을 때의 일이 되살아났다."
+
+[[dialogue]]
+speaker = "テルル"
+original = "『よく来たわね……ヴィーナス……いい子……おいでなさい……こちらへ……』"
+translation = "『잘 왔어…… 비너스…… 착한 아이…… 이리 오렴…… 이쪽으로……』"
+
+[[dialogue]]
+speaker = "unk"
+original = "ヴィーナスを呼んでいた謎の『声』。"
+translation = "비너스를 부르던 수수께끼의 『목소리』."
+
+[[dialogue]]
+speaker = "unk"
+original = "あの声に導かれるようにして、俺たちは第二階層の最奥へと到達した……。"
+translation = "그 목소리에 이끌리듯이, 우리들은 제2계층의 가장 안쪽으로 도달했다……."
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "（……緋宮会長）"
+translation = "（……히노미야 회장）"
+
+[[dialogue]]
+speaker = "unk"
+original = "その時、ふと。"
+translation = "그때, 문득."
+
+[[dialogue]]
+speaker = "unk"
+original = "隣を走っていたフィオナが、そっと俺にだけ聞こえるように囁いてきた。"
+translation = "옆에서 달리고 있던 피오나가, 살짝 나에게만 들리도록 속삭여 왔다."
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「……気になっていたことを少し。よいですか？」"
+translation = "「……신경 쓰이는 것이 조금 있습니다. 괜찮으신가요?」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「なんだ？」"
+translation = "「뭔데?」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「フィーニスの塔では何度か……誰とも知れぬ『声』が響きました。特に、ヴィーナスさんへ語りかけていましたね」"
+translation = "「피니스의 탑에서는 몇 번인가…… 누구인지 알 수 없는 『목소리』가 울려 퍼졌습니다. 특히, 비너스 씨에게 말을 걸고 있었죠」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「あの『声』は──セイファート学園長の記憶にあった女神の声と、同じものではありませんでしたか？」"
+translation = "「그 『목소리』는── 세이퍼트 학원장의 기억에 있던 여신의 목소리와, 같은 것이 아니었습니까?」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「ああ。俺もそう思う」"
+translation = "「아아. 나도 그렇게 생각해」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「ヴィーナスさんを呼んでいたのは……女神の声」"
+translation = "「비너스 씨를 부르고 있던 것은…… 여신의 목소리」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「マグダレナさんは……そんなヴィーナスさんのことを『御子』と称していました。なら……」"
+translation = "「막달레나 씨는…… 그런 비너스 씨를 『미코』라고 칭했습니다. 그렇다면……」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「……」"
+translation = "「……」"
+
+[[dialogue]]
+speaker = "unk"
+original = "俺とヴィーナスの関係は、もうみんなに知れ渡っていることだ。"
+translation = "나와 비너스의 관계는, 이미 모두에게 알려져 있는 사실이다."
+
+[[dialogue]]
+speaker = "unk"
+original = "その先の推理もまた、俺とフィオナで結論に違いはないだろう。"
+translation = "그다음의 추리 역시, 나와 피오나가 내린 결론에 차이는 없을 것이다."
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「……わかりました。今はこれ以上、掘り下げる時でもありませんね」"
+translation = "「……알겠습니다. 지금은 더 이상, 파고들 때도 아니네요」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「ただ──ヴィーナスさんが特別製なのも、なんだか納得してしまいました」"
+translation = "「다만── 비너스 씨가 특별하다는 것도, 왠지 납득해 버렸습니다」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「はは……それには同意だ」"
+translation = "「하하…… 그건 동의한다」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「……それに。随分なプレイボーイでいらしたようですね──平行世界の緋宮会長は」"
+translation = "「……게다가. 꽤나 플레이보이셨던 것 같네요── 평행 세계의 히노미야 회장님은」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「……ご、ごほん。俺のことはいいだろう。先に進むぞ！」"
+translation = "「……커, 커흠. 내 일은 됐잖아. 앞으로 나아가자!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "実際問題、今の俺に自覚がないことを深掘りされても困るのだ。"
+translation = "실제 문제, 지금의 나에게 자각이 없는 것을 깊이 파고들어도 곤란하다."
+
+[[dialogue]]
+speaker = "unk"
+original = "女神の顔なんて、見たこともないし。"
+translation = "여신의 얼굴 같은 건, 본 적도 없고."
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「緋宮くーーん！\u3000フィオナさーーん！\u3000早くーー！」"
+translation = "「히노미야 군ーー! 피오나 씨ーー! 빨리ーー!」"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「置いていっちゃいますよ～～！」"
+translation = "「두고 가버릴 거예요～～!」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「ああ──すぐ行く！」"
+translation = "「아아── 금방 갈게!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "先陣切って駆け抜けるヴィーナスをみんなで追う。"
+translation = "선두를 끊고 달려 나가는 비너스를 모두가 뒤쫓는다."
+
+[[dialogue]]
+speaker = "unk"
+original = "ヴィーナスもまた……俺と同様に、自身のルーツにはもう気づいているのかもしれない。"
+translation = "비너스 역시…… 나와 마찬가지로, 자신의 근원에 대해서는 이미 깨닫고 있을지도 모른다."
+
+[[dialogue]]
+speaker = "unk"
+original = "けど、その話をするのは全部が終わってからだ。"
+translation = "하지만, 그 이야기를 하는 것은 모든 것이 끝나고 나서다."
+
+[[dialogue]]
+speaker = "unk"
+original = "今の俺たちが目指すべきはアポロ──塔の頂上にしかいないのだから。"
+translation = "지금 우리들이 목표로 해야 할 것은 아폴로── 탑의 정상에만 있는 것이다."
+

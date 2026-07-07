@@ -1,0 +1,225 @@
+[[dialogue]]
+speaker = "ミア"
+original = "「え…………？\u3000私、生きて……る？」"
+translation = "「에…………? 나, 살아…… 있어?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "１人でよく頑張った"
+translation = "혼자서 잘 버텼어"
+
+[[dialogue]]
+speaker = "ミア"
+original = "「会長さん……！」"
+translation = "「회장님……!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "俺が相手だ！"
+translation = "내가 상대다!"
+
+[[dialogue]]
+speaker = "キサナ"
+original = "「ハハハッ！\u3000随分とドラマチックに登場してくれるじゃねえか！\u3000いいぜぇ、それでこそ正義のヒーロー様だ……！」"
+translation = "「하하하! 제법 드라마틱하게 등장해주시는구만! 좋지, 그래야 정의의 히어로 님답지……!」"
+
+[[dialogue]]
+speaker = "キサナ"
+original = "「イラつくんだよ……！\u3000絶体絶命の窮地に現れて、か弱いやつを颯爽と守りますってその態度……！」"
+translation = "「짜증 난다고……! 절체절명의 위기에 나타나서 연약한 놈을 잽싸게 지킨다는 그 태도……!」"
+
+[[dialogue]]
+speaker = "キサナ"
+original = "「お望み通り、ぶちのめしてやるよ！\u3000ヒーロー気取りのその面っ──徹底的に歪ませてやらぁっ！」"
+translation = "「원하는 대로 박살을 내주마! 히어로인 척하는 그 낯짝── 철저하게 일그러뜨려주마!」"
+
+[[dialogue]]
+speaker = "ミア"
+original = "「気を付けてっ。そいつは星力を打ち消す力を持ってるわ……！」"
+translation = "「조심하세요! 그 녀석은 성력을 무효화하는 힘을 가지고 있어요……!」"
+
+[[dialogue]]
+speaker = "ミア"
+original = "「星力を使った身体能力向上も、星力を使った直接攻撃も、全部無効化されちゃう……！\u3000だからきっとエリス先輩もっ……！」"
+translation = "「성력을 이용한 신체 능력 향상도, 성력을 사용한 직접 공격도 전부 무효화돼요……! 그래서 분명 에리스 선배도……!」"
+
+[[dialogue]]
+speaker = "キサナ"
+original = "「あぁ？\u3000アタシのこと舐めてんじゃねえぞガキ。確かにこの力は便利だけどよ」"
+translation = "「아앙? 나를 얕보지 마라 꼬맹아. 확실히 이 힘은 편리하지만 말이야」"
+
+[[dialogue]]
+speaker = "キサナ"
+original = "「この力に頼り切ってるアタシじゃ──ねえ！」"
+translation = "「이 힘에만 의존하는 내가── 아니라고!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "強いっ……！"
+translation = "강하다……!"
+
+[[dialogue]]
+speaker = "キサナ"
+original = "「おらおら、どうしたよ、ヒーローさん？\u3000格好付けて登場した割に及び腰じゃねえか」"
+translation = "「어이 어이, 왜 그러냐 히어로? 폼 잡고 등장한 것치고는 뒤로 빼는 거 아니냐」"
+
+[[dialogue]]
+speaker = "キサナ"
+original = "「星力が使えなきゃ一般市民と同じですってか？\u3000魔王サマの実力ってのはこんなもんなのかよ？」"
+translation = "「성력을 못 쓰면 일반 시민이랑 똑같다는 거냐? 마왕 님의 실력이라는 게 고작 이 정도냐고?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "俺のことを知ってるのか？"
+translation = "나를 알고 있는 건가?"
+
+[[dialogue]]
+speaker = "キサナ"
+original = "「面だけはよーく知ってるぜ。無駄に覚えさせられたからな」"
+translation = "「낯짝만큼은 아주 잘 알지. 억지로 외우게 했으니까 말이야」"
+
+[[dialogue]]
+speaker = "キサナ"
+original = "「どーしてアイツらがテメエを気にしてるのかは知らねえし、興味もねえが……笑えるぜ」"
+translation = "「왜 그 녀석들이 네놈을 신경 쓰는지는 모르겠고 관심도 없지만…… 웃기는구만」"
+
+[[dialogue]]
+speaker = "キサナ"
+original = "「魔王なんて大層な肩書き付けてる癖に、星騎士どもとつるんで正義の味方側を気取ってるなんてなぁ！」"
+translation = "「마왕이라는 거창한 직함을 달고서 성기사 놈들이랑 어울리며 정의의 사자 쪽인 척하고 있다니!」"
+
+[[dialogue]]
+speaker = "ミア"
+original = "「えっ？\u3000──ひっ！」"
+translation = "「엣? ── 히익!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "大丈夫か？"
+translation = "괜찮아?"
+
+[[dialogue]]
+speaker = "ミア"
+original = "「会長さんっ！？\u3000わ、私を庇って……」"
+translation = "「회장님!? 저, 저를 감싸다가……」"
+
+[[dialogue]]
+speaker = "キサナ"
+original = "「ハハハッ、正義の味方は大変だな。雑魚を守りながら戦わなくちゃなんねえんだから」"
+translation = "「하하하, 정의의 사자는 고생이네. 조무래기를 지키면서 싸워야 하니까」"
+
+[[dialogue]]
+speaker = "キサナ"
+original = "「それでテメエがやられちまったら世話ねえぜ。んなチビほっときゃいいのによォ」"
+translation = "「그러다 네놈이 당해버리면 소용없다고. 그런 꼬맹이 따위 내버려 두면 될 텐데 말이야」"
+
+[[dialogue]]
+speaker = "ミア"
+original = "「そ、そいつの言う通りよ……！\u3000私のことなんか放っておいてっ……！」"
+translation = "「그, 그 녀석 말이 맞아요……! 제 걱정은 말고……!」"
+
+[[dialogue]]
+speaker = "ミア"
+original = "「このままじゃ会長さんもやられちゃうっ……！\u3000私のことなんか守らなくていいからっ……！」"
+translation = "「이대로라면 회장님도 당해버릴 거예요……! 저 같은 건 지키지 않아도 되니까……!」"
+
+[[dialogue]]
+speaker = "キサナ"
+original = "「今にも小便漏らしそうだったガキが強がるじゃねえか。んで、魔王サマはどう出るんだ！」"
+translation = "「금방이라도 오줌 지릴 것 같던 꼬맹이가 허세를 부리는구만. 자, 그럼 마왕 님은 어떻게 나오려나!」"
+
+[[dialogue]]
+speaker = "ミア"
+original = "「っっ……！！」"
+translation = "「윽……!!」"
+
+[[dialogue]]
+speaker = "ミア"
+original = "「あぁっ！？\u3000会長さんっ……！！」"
+translation = "「아앗!? 회장님……!!」"
+
+[[dialogue]]
+speaker = "キサナ"
+original = "「ハハァ！\u3000随分とお優しいこった！\u3000そのチビはそこまでボロボロになって守るような女かよ」"
+translation = "「하하! 아주 다정하시구만! 그 꼬맹이가 그렇게까지 만신창이가 돼서 지킬 만한 여자냐?」"
+
+[[dialogue]]
+speaker = "キサナ"
+original = "「代わりなんていくらでもいんだろぉ？\u3000アタシがチビをぶっ殺してる間に殴ってくりゃいいじゃねえか」"
+translation = "「대신할 건 얼마든지 있잖아? 내가 꼬맹이를 죽이고 있는 동안 때리러 오면 될 거 아니냐고」"
+
+[[dialogue]]
+speaker = "キサナ"
+original = "「アタシの世界じゃみんなそうしてきたぜ！\u3000でなきゃ自分が生き残れねえからよぉっ！」"
+translation = "「내 세계에선 다들 그렇게 해왔다고! 안 그러면 자기가 살아남을 수 없으니까 말이야!」"
+
+[[dialogue]]
+speaker = "ミア"
+original = "「っっ！\u3000もうやめてっ……！\u3000私なんか守らないで……！」"
+translation = "「윽! 이제 그만해……! 저 같은 건 지키지 마세요……!」"
+
+[[dialogue]]
+speaker = "ミア"
+original = "「そいつの言う通りだから……！\u3000私の代わりなんて、いくらでもいるもん……！」"
+translation = "「저 녀석 말이 맞으니까……! 나를 대신할 건 얼마든지 있단 말이야……!」"
+
+[[dialogue]]
+speaker = "ミア"
+original = "「こんなっ、こんな弱くて未熟な私なんて、見捨ててくれれば──」"
+translation = "「이런, 이렇게 약하고 미숙한 나 따위는 그냥 버려두면──」"
+
+[[dialogue]]
+speaker = "unk"
+original = "そんなこと──できない！"
+translation = "그럴 순── 없어!"
+
+[[dialogue]]
+speaker = "ミア"
+original = "「か、会長さん……」"
+translation = "「회, 회장님……」"
+
+[[dialogue]]
+speaker = "キサナ"
+original = "「いいねぇ、そのヒーローっぷり。惚れちまいそうだ」"
+translation = "「좋네, 그 히어로다운 모습. 반해버릴 것 같아」"
+
+[[dialogue]]
+speaker = "キサナ"
+original = "「けどアタシのいた世界じゃな……テメエみてえなヤツから死んでくんだよ！」"
+translation = "「하지만 내가 있던 세계에선 말이야…… 네놈 같은 녀석부터 죽어 나간다고!」"
+
+[[dialogue]]
+speaker = "ミア"
+original = "「っっ……！？\u3000あいつの後ろにモンスターが！」"
+translation = "「윽……!? 저 녀석 뒤에 몬스터가!」"
+
+[[dialogue]]
+speaker = "キサナ"
+original = "「チッ、ついてねえな……。コイツらぶっ殺してる間に襲われねえとも限らねえし……」"
+translation = "「치, 운도 없지……. 이 녀석들 죽이는 동안 습격당하지 말라는 법도 없고……」"
+
+[[dialogue]]
+speaker = "キサナ"
+original = "「ああもうダリぃ……完全に萎えちまった。モンスターの相手なんざ面倒なだけだしな……」"
+translation = "「아 정말 짜증 나네…… 완전히 김샜어. 몬스터 상대 따윈 귀찮을 뿐이니까……」"
+
+[[dialogue]]
+speaker = "ミア"
+original = "「えっ……。に、逃げた……？\u3000助かった、の……？」"
+translation = "「엣……. 도, 도망갔어……? 살았다, 는 건가……?」"
+
+[[dialogue]]
+speaker = "ミア"
+original = "「っっ。いえ、まだモンスターが……！\u3000会長さんだってボロボロじゃない……！\u3000私も、はぁはぁ、戦うわ……！」"
+translation = "「윽. 아뇨, 아직 몬스터가……! 회장님도 엉망진창이잖아요……! 저도, 하아 하아, 싸우겠어요……!」"
+
+[[dialogue]]
+speaker = "ミア"
+original = "「庇ってもらったおかげで、うくっっ……！\u3000モンスターを倒すくらいの力は戻ってきたから……！」"
+translation = "「지켜주신 덕분에, 으윽……! 몬스터를 쓰러뜨릴 정도의 힘은 돌아왔으니까……!」"
+
+[[dialogue]]
+speaker = "ミア"
+original = "「会長さんは絶対にやらせない……！\u3000この人を、私のせいで失うわけにはいかないもの……！」"
+translation = "「회장님은 절대로 당하게 두지 않겠어요……! 이분을 저 때문에 잃을 수는 없단 말이에요……!」"
+

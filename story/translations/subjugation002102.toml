@@ -1,0 +1,200 @@
+[[dialogue]]
+speaker = "unk"
+original = "それは下校中の出来事だった。"
+translation = "그것은 하교 중에 일어난 일이었다."
+
+[[dialogue]]
+speaker = "？？？"
+original = "「うううー？\u3000ここはどこなんだぞ……？」"
+translation = "「으으으? 여기는 어디냐구……?」"
+
+[[dialogue]]
+speaker = "？？？"
+original = "「あれれ？\u3000目印の赤い車もいなくなっちゃった……もしかして、あたし、迷子になっちゃったのかー！？」"
+translation = "「어라라? 표식인 빨간 차도 없어져 버렸어…… 설마, 나, 미아가 돼버린 거냐구ー!?」"
+
+[[dialogue]]
+speaker = "？？？"
+original = "「うわーん！\u3000誰かー！\u3000助けてくれー！」"
+translation = "「으와앙! 누구든! 도와달라구!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "えーと……大丈夫？"
+translation = "저기…… 괜찮아?"
+
+[[dialogue]]
+speaker = "迷子"
+original = "「だいじょばないぞー！\u3000ここはどこなんだー！\u3000ドーナツ屋はどこにあるんだー！」"
+translation = "「안 괜찮다구! 여기는 어디냐구! 도넛 가게는 어디에 있는 거냐구!」"
+
+[[dialogue]]
+speaker = "迷子"
+original = "「あたしの友達がドーナツ大好きだからな！\u3000チョーおいしいドーナツを買ってってあげようとしたんだぞ！」"
+translation = "「내 친구가 도넛을 정말 좋아하거든! 짱 맛있는 도넛을 사다 주려고 했다구!」"
+
+[[dialogue]]
+speaker = "迷子"
+original = "「そしたら、今、どこにいるのかわかんなくなっちゃった……リューセー市国はややこしいぞ……」"
+translation = "「그랬더니 지금 어디에 있는지 모르게 돼버렸어…… 유성시국은 복잡하다구……」"
+
+[[dialogue]]
+speaker = "unk"
+original = "道案内しようか？"
+translation = "길 안내해 줄까?"
+
+[[dialogue]]
+speaker = "unk"
+original = "（騒がしいけど悪い子じゃなさそうだ……）"
+translation = "（시끄럽긴 하지만 나쁜 아이 같지는 않아 보이는데……）"
+
+[[dialogue]]
+speaker = "迷子"
+original = "「ホントか！？\u3000助かるぞ！\u3000おまえ、いいやつだな！\u3000ここのドーナツ屋なんだけどなー？」"
+translation = "「정말이냐구!? 살았다구! 너, 좋은 녀석이구나! 여기 있는 도넛 가게인데 말야ー?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "そのドーナツ屋は、駅を挟んでまったくの逆方向だった。"
+translation = "그 도넛 가게는 역을 사이에 두고 완전히 반대 방향이었다."
+
+[[dialogue]]
+speaker = "unk"
+original = "俺が新星学園に転入する前にバイトしていた場所の１つでもある。"
+translation = "내가 신성학원에 전입하기 전에 알바했던 장소 중 한 곳이기도 하다."
+
+[[dialogue]]
+speaker = "迷子"
+original = "「やったー！\u3000ドーナツいっぱい買えたー！\u3000ありがとうな！」"
+translation = "「만세! 도넛 잔뜩 샀다구! 고마워!」"
+
+[[dialogue]]
+speaker = "メテオラ"
+original = "「あ、そうだ、まだ名前を言ってなかったな。あたしはメテオラだ！」"
+translation = "「아, 맞다, 아직 이름을 안 말했네. 나는 메테오라라구!」"
+
+[[dialogue]]
+speaker = "メテオラ"
+original = "「はー……できたてドーナツ、アツアツでチョーうまそーだなー！\u3000いっただきま──」"
+translation = "「하ー…… 갓 만든 도넛, 뜨끈뜨끈해서 짱 맛있어 보이네ー! 잘 먹겠습니──」"
+
+[[dialogue]]
+speaker = "メテオラ"
+original = "「はっ──このドーナツはエンジュの分だった！\u3000まだ食べちゃダメ……食べちゃダメ……ガマン、ガマンだぞ……」"
+translation = "「핫── 이 도넛은 엔쥬 몫이었어! 아직 먹으면 안 돼…… 먹으면 안 돼…… 참아야, 참아야 한다구……」"
+
+[[dialogue]]
+speaker = "メテオラ"
+original = "「うぅ……エンジュ、どこ行っちゃったんだー？\u3000エンジュも迷子になっちゃったのかー？」"
+translation = "「으으…… 엔쥬, 어디 가버린 거야ー? 엔쥬도 미아가 돼버린 거냐구ー?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "メテオラは流星市国に来たばっかり？"
+translation = "메테오라는 유성시국에 막 온 거야?"
+
+[[dialogue]]
+speaker = "メテオラ"
+original = "「ああ、そうだぞ。昨日着いたところなんだ」"
+translation = "「아아, 그렇다구. 어제 막 도착했어.」"
+
+[[dialogue]]
+speaker = "メテオラ"
+original = "「あたしはな、悪いやつをぶっとばしに来たんだぞ！\u3000エラいだろ！\u3000えっへん！」"
+translation = "「나는 말야, 나쁜 녀석들을 때려눕히러 왔다구! 장하지! 에헴!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "（警察には見えないけど……公安委員会の関係者？）"
+translation = "（경찰로는 안 보이는데…… 공안위원회 관계자?）"
+
+[[dialogue]]
+speaker = "unk"
+original = "（悪いやつをぶっとばす……？）"
+translation = "（나쁜 녀석들을 때려눕힌다……?）"
+
+[[dialogue]]
+speaker = "メテオラ"
+original = "「わっ、びっくりしたー！\u3000何の音だー！？」"
+translation = "「왓, 깜짝이야ー! 무슨 소리냐구ー!?」"
+
+[[dialogue]]
+speaker = "市民"
+original = "「事故だっ！\u3000早く救急車！\u3000大至急、救急車を呼んで！」"
+translation = "「사고다! 빨리 구급차! 대지체로 구급차를 불러!」"
+
+[[dialogue]]
+speaker = "市民"
+original = "「追突してきた車が邪魔だ。運転手は──逃げやがった！\u3000これじゃ救急車が入ってこれないじゃないか！」"
+translation = "「추돌해온 차가 방해야. 운전수는── 도망쳤어! 이래선 구급차가 들어올 수 없잖아!」"
+
+[[dialogue]]
+speaker = "メテオラ"
+original = "「あの車、おジャマなんだな？\u3000どかした方がいいな？」"
+translation = "「저 차, 방해되는 거냐구? 치우는 게 좋겠지?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "危ない！\u3000離れて！"
+translation = "위험해! 떨어져!"
+
+[[dialogue]]
+speaker = "unk"
+original = "オイルが漏れてるかもしれない"
+translation = "오일이 새고 있을지도 몰라"
+
+[[dialogue]]
+speaker = "メテオラ"
+original = "「変なこと言うなー？\u3000動いてないんだから、危なくないぞー？」"
+translation = "「이상한 소리 하지 마라구ー? 안 움직이고 있으니까 안 위험하다구ー?」"
+
+[[dialogue]]
+speaker = "メテオラ"
+original = "「よーい……しょっと！」"
+translation = "「영── 차!」"
+
+[[dialogue]]
+speaker = "市民"
+original = "「車を持ち上げたーっ！？！」"
+translation = "「차를 들어 올렸어ー!?!」"
+
+[[dialogue]]
+speaker = "メテオラ"
+original = "「うわ、足がぬるぬるするぞ！？\u3000おっとっと！\u3000わひゃーっ！」"
+translation = "「우와, 발이 미끌미끌하다구!? 어이쿠! 와햐앗!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ぶっ壊れたーっ！？"
+translation = "박살 났어ー!?"
+
+[[dialogue]]
+speaker = "unk"
+original = "ぶん投げたーっ！？"
+translation = "내던졌어ー!?"
+
+[[dialogue]]
+speaker = "メテオラ"
+original = "「ぎゃー！\u3000やっちゃったー！？」"
+translation = "「갸악! 사고 쳤다구ー!?」"
+
+[[dialogue]]
+speaker = "メテオラ"
+original = "「でもでも、悪い車だったもんな！？\u3000あたしはいいことしたよな！？」"
+translation = "「그래도 그래도, 나쁜 차였는걸!? 나는 좋은 일 한 거지!?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "どうやらこの子は優しい性格であるものの、少し……いや、かなり不器用らしい。"
+translation = "아무래도 이 아이는 상냥한 성격이긴 하지만 조금…… 아니, 상당히 서투른 모양이다."
+
+[[dialogue]]
+speaker = "？？？"
+original = "「なんだ、今の音は、それにこの騒ぎ……イヤな予感しかしないな……」"
+translation = "「뭐지, 방금 그 소리는. 게다가 이 소동은…… 안 좋은 예감밖에 안 드는군……」"
+
+[[dialogue]]
+speaker = "？？？"
+original = "「メテオラから目を離すと、だいたいあいつが原因で騒ぎが起こるんだよな……おーい、メテオラー！\u3000どこだー！」"
+translation = "「메테오라한테서 눈을 떼면, 대체로 저 녀석이 원인이 돼서 소동이 일어난단 말이지…… 어ー이, 메테오라ー! 어디냐ー!」"
+

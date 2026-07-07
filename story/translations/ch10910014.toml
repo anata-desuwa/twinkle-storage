@@ -1,0 +1,280 @@
+[[dialogue]]
+speaker = "unk"
+original = "第４話,梨緒との約束,P"
+translation = "제4화, 리오와의 약속 P"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「じー……」"
+translation = "「빤히~……」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「どうして私が星徒会室にいるか？\u3000当然、選挙管理委員会として、星徒会活動が適切に行われているか確認するためだ。邪魔はしない。気にしないでくれ」"
+translation = "「왜 내가 성도회실에 있냐고? 당연히 선거관리위원회로서 성도회 활동이 적절히 행해지고 있는지 확인하기 위해서다. 방해는 안 해. 신경 쓰지 마라」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「ふむ……仕事ぶりは堅実だな。私も星徒会業務をこなしていたからわかる」"
+translation = "「흠…… 업무 태도는 견실하군. 나도 성도회 업무를 해봐서 안다」"
+
+[[dialogue]]
+speaker = "unk"
+original = "せっかくだしお茶でも淹れようか？"
+translation = "기왕이니까 차라도 내올까?"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「いや、気持ちはありがたいがお断りしよう。遊びに来たわけではないし、選管が監視対象にもてなしを受けるわけにはいかない」"
+translation = "「아니, 마음은 고맙지만 거절하지. 놀러 온 게 아니고, 선관이 감시 대상에게 대접을 받을 수는 없다」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「それに、君はいつも忙しくしているからな。むしろお茶なら私が淹れたいくらいだ」"
+translation = "「게다가 너는 항상 바쁘게 움직이니까. 오히려 차라면 내가 내오고 싶을 정도다」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「幼い頃はイギリスに住んでいたから、紅茶には少しこだわりがある。フィオナもエリシアも、私が淹れたお茶を美味しいと言ってくれてな」"
+translation = "「어릴 적 영국에 살았어서 홍차에는 조금 고집이 있거든. 피오나도 엘리시아도 내가 내온 차를 맛있다고 해줬지」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「紅茶ならスコーンとジャム、クロテッドクリームもあるとなおいい。いわゆるクリームティーという組み合わせだ」"
+translation = "「홍차라면 스콘과 잼, 클로티드 크림도 있으면 더 좋지. 소위 크림 티라는 조합이다」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「スコーンを半分に割って、ジャムとクロテッドクリームを塗って……そうだ、君はどちらを先に塗る？\u3000私はジャムが先の方が好みなんだが……」"
+translation = "「스콘을 반으로 갈라서 잼과 클로티드 크림을 바르고…… 맞아, 너는 어느 쪽을 먼저 바르지? 나는 잼이 먼저인 쪽을 선호하는데……」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「特にこだわりはない？\u3000君らしいな。ふふ」"
+translation = "「딱히 고집하는 건 없어? 너답군. 후후」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「こんにちは、梨緒先輩」"
+translation = "「안녕하세요, 리오 선배」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「ひああぁっ！？」"
+translation = "「히아아앗!?」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「アナ、いつの間に来ていたんだ？」"
+translation = "「아나, 언제 온 거지?」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「おふたりがお話している間に。会長と梨緒先輩、最近よく一緒にいますね」"
+translation = "「두 분이 이야기하시는 동안에. 회장님과 리오 선배, 최근 자주 함께 있네요.」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「わ、私は選管として星徒会長を監視しているだけだっ。親しくなどしていないっ」"
+translation = "「나, 나는 선관으로서 성도회장을 감시하고 있는 것뿐이다앗. 친하게 지내는 게 아니야앗.」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「おふたりが親しくしている、とは私は一言も言っていませんが」"
+translation = "「두 분이 친하게 지낸다고는 저는 한마디도 안 했습니다만.」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「あ──！？」"
+translation = "「아──!?」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「いや、それは……コホン。言葉の綾だ、忘れてくれ」"
+translation = "「아니, 그건…… 크흠. 말실수다, 잊어줘.」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「会長には用件がもうひとつある。この間テストがあっただろう？」"
+translation = "「회장에게는 용건이 하나 더 있다. 요전에 테스트가 있었지?」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「星徒会長たる者、学業も優秀でなければならない。よって次のテスト、どちらが高い点数を取れるか勝負だ！」"
+translation = "「성도회장인 자, 학업도 우수해야만 한다. 따라서 다음 테스트, 어느 쪽이 높은 점수를 받는지 승부다!」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「……受けて立つ、か。いい返事だ。しかし後悔しても知らないぞ。私は学年で総合２位を取ったこともあるからな」"
+translation = "「……받아들이겠다, 인가. 좋은 대답이다. 하지만 후회해도 모른다구. 나는 학년에서 종합 2위를 한 적도 있으니까 말이야.」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「あ、また勝負してる。仲いいんだね」"
+translation = "「아, 또 승부하고 있어. 사이좋네.」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「あらあら、楽しそうね～」"
+translation = "「어머어머, 즐거워 보이네~」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「…………」"
+translation = "「…………」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「マトイ！？\u3000サーシャ先輩！？\u3000いつの間に！？」"
+translation = "「마토이!? 사샤 선배!? 어느 사이에!?」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「アナちゃんと一緒に来てたわよ～」"
+translation = "「아나 짱이랑 같이 왔었어~」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「思ったより早く来てた！？」"
+translation = "「생각보다 빨리 와 있었어!?」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「……緋宮会長。言っておくが、私は君と戯れているわけではない。選挙管理委員会の職務として、君が会長にふさわしいか確かめているだけだ」"
+translation = "「……히노미야 회장. 말해두겠는데, 나는 너와 희롱하고 있는 게 아니다. 선거관리위원회의 직무로서, 네가 회장에 어울리는지 확인하고 있을 뿐이다.」"
+
+[[dialogue]]
+speaker = "unk"
+original = "わかってるよ"
+translation = "알고 있어"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「ならいいんだが。君が不甲斐なければ、星徒会長の座を奪いに行くつもりだ。心しておいてくれ」"
+translation = "「라면 다행이지만. 네가 한심하다면, 성도회장의 자리를 뺏으러 갈 생각이다. 각오해 둬.」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「ではまた会おうっ」"
+translation = "「그럼 또 만나지.」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「来るとき梨緒とすれ違ったんだけど、何かあったの？\u3000顔が赤かった気がするけど……」"
+translation = "「올 때 리오랑 스쳐 지나갔는데, 무슨 일 있었어? 얼굴이 빨개졌던 것 같은데……」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「あはは……」"
+translation = "「아하하……」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「若気の至り的なサムシングです」"
+translation = "「젊은 날의 과오 같은 썸싱입니다.」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「？」"
+translation = "「?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "しばらくしてテストが返却されたのだが──"
+translation = "잠시 후 테스트가 반환되었는데──"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「うぅ……私はどうしようもない愚か者だ……」"
+translation = "「으으…… 나는 어찌할 도리 없는 바보다……」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「途中から回答欄が１つずれていたとは……これでは勝負になるはずがない。私はテストひとつまともに回答できない能無しなんだ……」"
+translation = "「도중부터 답안지가 한 칸씩 밀려 있었다니…… 이래서는 승부가 될 리가 없어. 나는 테스트 하나 제대로 답하지 못하는 무능력자다……」"
+
+[[dialogue]]
+speaker = "unk"
+original = "梨緒は立派だよ"
+translation = "리오는 훌륭해"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「！？\u3000聞こえていたのか──いや、今なんて……梨緒は立派？」"
+translation = "「!? 들리고 있었나── 아니, 지금 뭐라고…… 리오는 훌륭하다고?」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「なっ！？\u3000わわ、私は立派なんかじゃないぞ！\u3000何も守れなくて、仲間も、親友も失って……」"
+translation = "「나닛!? 와와, 나는 훌륭하지 않아! 아무것도 지키지 못하고, 동료도, 친우도 잃고……」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「御前試合にも勝てなくて、ひとりぼっちで……私には何ができるんだろう……」"
+translation = "「어전시합에서도 이기지 못하고, 혼자서…… 나에게는 무엇을 할 수 있는 걸까……」"
+
+[[dialogue]]
+speaker = "unk"
+original = "それでも梨緒は世界を諦めてない"
+translation = "그래도 리오는 세계를 포기하지 않았어"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「──！\u3000そう、だ……私は世界を守れなった……だから今度こそ世界を救う。絶対に」"
+translation = "「──! 그, 래…… 나는 세계를 지키지 못했어…… 그러니까 이번에야말로 세계를 구하겠어. 반드시.」"
+
+[[dialogue]]
+speaker = "unk"
+original = "だから梨緒は強いよ"
+translation = "그러니까 리오는 강해"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「私が強い……か。君のことだ、おだてているわけでもなさそうだ。慣れ合うわけにはいかないのに……困ったものだな」"
+translation = "「내가 강하다…… 인가. 너라면, 비행기를 태우는 것도 아닌 것 같군. 친하게 지낼 수는 없는데…… 곤란한 일이군.」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「私は君のことが嫌いなわけではない。むしろ信頼できる人物だと思っている」"
+translation = "「나는 네가 싫은 게 아니다. 오히려 신뢰할 수 있는 인물이라고 생각하고 있어.」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「だからこそ……君から目を離すことはできない」"
+translation = "「그렇기에…… 너에게서 눈을 뗄 수 없어.」"
+
+[[dialogue]]
+speaker = "unk"
+original = "初めて会った時のように、梨緒がクロスボウに番えた矢を俺に突き付ける。"
+translation = "처음 만났을 때처럼, 리오가 크로스보우에 먹인 화살을 나에게 들이댄다."
+
+[[dialogue]]
+speaker = "unk"
+original = "その矢に強い決意が秘められていることを今の俺は知っている。"
+translation = "그 화살에 강한 결의가 비겨져 있다는 것을 지금의 나는 알고 있다."
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「君が悪しき魔王に堕ちそうになったら、私が地獄の底まで追いかけて撃ち抜く。いいな」"
+translation = "「네가 악한 마왕으로 타락할 것 같으면, 내가 지옥 끝까지 쫓아가서 꿰뚫어 주마. 알겠나.」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ああ、約束だ"
+translation = "아아, 약속이야"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「笑ってそんな約束ができるのか。不思議なやつだな、君は」"
+translation = "「웃으면서 그런 약속을 할 수 있는 건가. 희한한 녀석이군, 너는.」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「これは君と私にしかできない約束だ。だからこの約束は必ず果たす」"
+translation = "「이건 너와 나만이 할 수 있는 약속이다. 그러니까 이 약속은 반드시 지키겠어.」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「忘れるな。いつでもこの矢が君を狙っているぞ」"
+translation = "「잊지 마라. 언제라도 이 화살이 너를 노리고 있다구.」"
+

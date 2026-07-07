@@ -1,0 +1,355 @@
+[[dialogue]]
+speaker = "unk"
+original = "第３話,仮面なき偽りの英雄,B"
+translation = "제3화, 가면 없는 거짓된 영웅, B"
+
+[[dialogue]]
+speaker = "ギエル"
+original = "「アポロ様。僭越ながら、これ以上の妄言に付き合う義理はないかと」"
+translation = "「아폴로 님. 외람되오나, 더 이상의 망언에 어울릴 의리는 없을 듯합니다」"
+
+[[dialogue]]
+speaker = "ギエル"
+original = "「倒すべき仇もそこにおります。まずは軽く、この流星市国を地図から消してさしあげましょう」"
+translation = "「쓰러뜨려야 할 원수도 저기에 있습니다. 우선 가볍게, 이 유성 시국을 지도에서 지워드리겠습니다」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「ああ……そうだなギエル」"
+translation = "「아아…… 그렇군 기엘」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「この鬱陶しい連中を、世界より一足先に滅亡させてやる！」"
+translation = "「이 성가신 녀석들을, 세상보다 한 발 먼저 멸망시켜주마!」"
+
+[[dialogue]]
+speaker = "ギエル"
+original = "「ええ、そうですとも！\u3000あなた様こそが三千世界に唯一のメシア！\u3000あのような<ruby>無知蒙昧<rt>むちもうまい</rt></ruby>の戯言など気にする必要はありません！」"
+translation = "「예, 그렇고 말고요! 당신이야말로 삼천세계에 유일한 메시아! 저런 무지몽매한 헛소리 따위 신경 쓸 필요 없습니다!」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「っ、これは……」"
+translation = "「큿, 이건……」"
+
+[[dialogue]]
+speaker = "unk"
+original = "夜空に砕け散っていた仮面の破片が、とてつもない混沌の瘴気をまとってアポロへと戻ってくる。"
+translation = "밤하늘에 부서져 흩어졌던 가면의 파편이, 엄청난 혼돈의 장기를 두르고 아폴로에게 되돌아온다."
+
+[[dialogue]]
+speaker = "unk"
+original = "さらに、膨れ上がる流星の力──"
+translation = "게다가, 부풀어 오르는 유성의 힘──"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「あの大嵐が来るわ──クロト！」"
+translation = "「저 대폭풍이 올 거야── 쿠로토!」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「ああ──！」"
+translation = "「아아──!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "流星ストームの予兆を感じ、俺とヴィーナスは封じ込みのフォーメーションを組む。"
+translation = "유성 스톰의 예조를 느끼고, 나와 비너스는 봉쇄 포메이션을 짠다."
+
+[[dialogue]]
+speaker = "unk"
+original = "だが──"
+translation = "하지만──"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「──ふぅ……」"
+translation = "「──후우……」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「え……？\u3000不発……？」"
+translation = "「에……? 불발……?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "嵐が止む。"
+translation = "폭풍이 멎는다."
+
+[[dialogue]]
+speaker = "unk"
+original = "だが、不発ではなかった。"
+translation = "하지만, 불발은 아니었다."
+
+[[dialogue]]
+speaker = "unk"
+original = "流星の嵐──その勢いと瞬きはすべて彼女の担ぐ大剣へ吸い込まれていく。"
+translation = "유성의 폭풍── 그 기세와 번쩍임은 모두 그녀가 짊어진 대검으로 빨려 들어간다."
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「潰すぞ」"
+translation = "「뭉개주마」"
+
+[[dialogue]]
+speaker = "ギエル"
+original = "「素晴らしい」"
+translation = "「훌륭합니다」"
+
+[[dialogue]]
+speaker = "ソフィア"
+original = "「きゃああああああっっ────！」"
+translation = "「꺄아아아아아아앗────!」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「こっちへ来て、ソフィ──！」"
+translation = "「이쪽으로 와, 소피──!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "市街中に吹き荒れていた流星──死した星々──の力が、あの大剣一本に集約されてみなぎっている。"
+translation = "시가 전체에 휘몰아치던 유성── 죽은 별들──의 힘이, 저 대검 한 자루에 집약되어 넘실거린다."
+
+[[dialogue]]
+speaker = "unk"
+original = "その剣閃は輝かしい軌道を夜空に描くも、星屑を掠めただけで死をもたらす致命のきらめきだ。"
+translation = "그 검광은 찬란한 궤도를 밤하늘에 그리지만, 별똥별을 스치기만 해도 죽음을 초래하는 치명적인 섬광이다."
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「消えろ──オマエのコトバは、聞くに耐えない」"
+translation = "「사라져── 네 말은, 듣기 괴롭다」"
+
+[[dialogue]]
+speaker = "エリシア"
+original = "「消えません──姉さんの目を覚ますまではっ！」"
+translation = "「사라지지 않아요── 언니의 눈을 뜨게 할 때까지!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "かつてない凍えた怒りを宿すアポロ。"
+translation = "이전과는 비교할 수 없는 얼어붙은 분노를 품은 아폴로."
+
+[[dialogue]]
+speaker = "unk"
+original = "自らを正義の味方と鼓舞していた、あの英雄気取りの口上も失せている。"
+translation = "스스로를 정의의 사도라고 고무하던, 그 영웅 행세의 장황한 말도 사라졌다."
+
+[[dialogue]]
+speaker = "unk"
+original = "その攻撃はエリシア一人だけを徹底的に狙っていて、俺たちの様子など視界にも入っていない様子だった。"
+translation = "그 공격은 엘리시아 한 사람만을 철저하게 노리고 있었고, 우리들의 모습 따위는 시야에도 들어오지 않은 듯했다."
+
+[[dialogue]]
+speaker = "ユウリ"
+original = "「ああもうっ！\u3000ワケわかんねえけどあたしらの頭がピンチだ──助けるぞ！」"
+translation = "「아아 정말! 뭔진 모르겠지만 우리 대가리가 위기다── 돕는다!」"
+
+[[dialogue]]
+speaker = "セーラ"
+original = "「ま、そーゆーことだね。別に名前が違ってもフィオナちゃんはフィオナちゃんだし」"
+translation = "「뭐, 그런 거지. 딱히 이름이 달라도 피오나짱은 피오나짱이고」"
+
+[[dialogue]]
+speaker = "ソフィア"
+original = "「私たちの仕えるべきお方に違いありません！」"
+translation = "「저희가 모셔야 할 분임에 틀림없습니다!」"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「援護ならお任せあれなのです！」"
+translation = "「지원이라면 맡겨주시옵니다!」"
+
+[[dialogue]]
+speaker = "エリシア"
+original = "「みんな……」"
+translation = "「모두……」"
+
+[[dialogue]]
+speaker = "unk"
+original = "先のラッシュで消耗したエリシアをカバーする流星のフォーメーション。"
+translation = "앞선 러시로 소모된 엘리시아를 커버하는 유성 포메이션."
+
+[[dialogue]]
+speaker = "unk"
+original = "それを見て、俺たちもなすべきことを理解した。"
+translation = "그것을 보고, 우리도 해야 할 일을 이해했다."
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「──新星だって負けてないわ！\u3000みんなでフィオ──じゃなかった、ええとエリちゃんを護るのよ！」"
+translation = "「──신성도 지지 않아! 모두 함께 피오── 아니, 그러니까 엘리짱을 지키는 거야!」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「名前なんて大差ないわよね──本人が本人なら」"
+translation = "「이름 따위 별 차이 없지── 본인이 본인이라면」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「同感です──俺たちのやることは変わらない！」"
+translation = "「동감입니다── 우리가 할 일은 변하지 않아!」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「私は地味ですし今まであんまり絡みもなかったですけど、流星の会長さんとして尊敬してますーっ！」"
+translation = "「저는 수수하고 지금까지 별로 엮이지도 않았지만, 유성의 회장님으로서 존경하고 있어요!」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「こんな時までネガティブしなくていいと思います、マトイ先輩」"
+translation = "「이런 때까지 부정적으로 생각할 필요는 없다고 생각합니다, 마토이 선배」"
+
+[[dialogue]]
+speaker = "エリシア"
+original = "「……皆さん……ありがとう、ございます」"
+translation = "「……여러분…… 고마워요」"
+
+[[dialogue]]
+speaker = "unk"
+original = "彼女を護る。その気持ちはみんな同じだ。"
+translation = "그녀를 지킨다. 그 마음은 모두 똑같다."
+
+[[dialogue]]
+speaker = "unk"
+original = "たとえ本来の彼女が、違う名前だったとしても変わらない。"
+translation = "설령 본래의 그녀가, 다른 이름이었다고 해도 변하지 않는다."
+
+[[dialogue]]
+speaker = "unk"
+original = "誰よりも最前線に出てアポロと対面した。"
+translation = "누구보다도 최전선에 나서서 아폴로와 대면했다."
+
+[[dialogue]]
+speaker = "unk"
+original = "俺がここで時間を稼げば、それだけ後方からの力強い支援が受けられる。"
+translation = "내가 여기서 시간을 벌면, 그만큼 후방으로부터 강력한 지원을 받을 수 있다."
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「邪魔だ……消えろ魔王。オマエの相手は後でしてやる」"
+translation = "「방해된다…… 사라져라 마왕. 네 상대는 나중에 해주마」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「随分とノリが変わったな。でも、顔が見える今の方がいい」"
+translation = "「상당히 태도가 바뀌었네. 하지만, 얼굴이 보이는 지금이 더 낫다」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「黙れ！」"
+translation = "「닥쳐!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "凄まじい膂力で振り払われ、近くの建物に思いきり打ちつけられる。"
+translation = "엄청난 완력으로 뿌리쳐져, 근처 건물에 세게 부딪힌다."
+
+[[dialogue]]
+speaker = "unk"
+original = "なんとか受け身を取った。"
+translation = "어떻게든 낙법을 취했다."
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「ちょ──だ、大丈夫！？\u3000緋宮くん！？」"
+translation = "「잠깐── ㄱ, 괜찮아!? 히노미야 군!?」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「昔、ヒーローショーのバイトで悪役をやっていた──やられるのは得意だ」"
+translation = "「옛날, 히어로 쇼 아르바이트로 악역을 했었다── 당하는 건 특기다」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「そ、そうなんだ……」"
+translation = "「그, 그렇구나……」"
+
+[[dialogue]]
+speaker = "ギエル"
+original = "「気に入りませんね、その眼。まるで諦める様子がない」"
+translation = "「마음에 들지 않는군요, 그 눈. 마치 포기할 기색이 없습니다」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「そりゃそうだ。諦めてないからな」"
+translation = "「당연하지. 포기 안 했으니까」"
+
+[[dialogue]]
+speaker = "unk"
+original = "いつまでも会話をしてはいられない。"
+translation = "언제까지고 대화를 하고 있을 수는 없다."
+
+[[dialogue]]
+speaker = "unk"
+original = "スキを晒した俺には目もくれず、アポロはエリシアに食らいついていく。"
+translation = "틈을 보인 나에게는 눈길도 주지 않고, 아폴로는 엘리시아에게 달려든다."
+
+[[dialogue]]
+speaker = "ニャリオン"
+original = "「フィオナ嬢を──ニャニャ、エリシア嬢をお守りするニャン！\u3000パワー全開ニャン！」"
+translation = "「피오나 아가씨를── 냐냐, 엘리시아 아가씨를 지키는 냥! 파워 전개 냥!」"
+
+[[dialogue]]
+speaker = "エリシア"
+original = "「！\u3000ニャリオン──ええ、わかりました」"
+translation = "「! 냐리온── 네, 알겠습니다」"
+
+[[dialogue]]
+speaker = "unk"
+original = "前のめりに飛び出すニャリオンを見て、エリシアは初めて黄金の魔導書を取り出した。"
+translation = "앞으로 튀어나가는 냐리온을 보고, 엘리시아는 처음으로 황금의 마도서를 꺼냈다."
+
+[[dialogue]]
+speaker = "エリシア"
+original = "「神霊猫ニャメニア・ワールフリオン──星見エリシアの名において命じます。守護なさい」"
+translation = "「신령묘 냐메니아 와르프리온── 호시미 엘리시아의 이름으로 명합니다. 수호하세요」"
+
+[[dialogue]]
+speaker = "ニャリオン"
+original = "「ニャニャーッッ！！\u3000ひ、久しぶりに力がみなぎるニャアアアアン！！」"
+translation = "「냐냐앗!! ㅎ, 오랜만에 힘이 넘치는 냐아아앙!!」"
+
+[[dialogue]]
+speaker = "ギエル"
+original = "「ちいっ──畜生風情が、生意気な！」"
+translation = "「칫── 짐승 따위가, 건방지게!」"
+
+[[dialogue]]
+speaker = "ニャリオン"
+original = "「猫は神聖な動物だと言ってるニャン！\u3000おまえなんかよりずっとよっぽど偉いのニャアアアン！」"
+translation = "「고양이는 신성한 동물이라고 말하는 냥! 너 따위보다 훨씬 더 위대한 냐아아앙!」"
+
+[[dialogue]]
+speaker = "ユウリ"
+original = "「アホ猫、ほんとに戦えたのかよ」"
+translation = "「바보 고양이, 진짜 싸울 수 있었던 거냐」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「ふふふ、チャンバラみたいで可愛いわね」"
+translation = "「후후후, 칼싸움 같아서 귀엽네」"
+
+[[dialogue]]
+speaker = "unk"
+original = "目覚めた（？）ニャリオンは途端に生き生きと小刀を振るい始めた。"
+translation = "눈을 뜬(?) 냐리온은 갑자기 생기 있게 단도를 휘두르기 시작했다."
+
+[[dialogue]]
+speaker = "unk"
+original = "だが、おかげで戦力も十分だ。"
+translation = "하지만, 덕분에 전력도 충분하다."
+
+[[dialogue]]
+speaker = "クロト"
+original = "「来いアポロ──仮面はもうない、いつまでも照れてないでエリシアと向き合え！」"
+translation = "「와라 아폴로── 가면은 이제 없어, 언제까지고 부끄러워하지 말고 엘리시아와 마주해!」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「潰してやるぞ──オマエも、アイツも！」"
+translation = "「뭉개주마── 너도, 그 녀석도!」"
+

@@ -1,0 +1,295 @@
+[[dialogue]]
+speaker = "？？？"
+original = "「その姿……星騎士だな」"
+translation = "「그 모습…… 성기사로군」"
+
+[[dialogue]]
+speaker = "新星学園星騎士"
+original = "「え……？\u3000はい、そうですけど……」"
+translation = "「에……? 네, 그렇습니다만……」"
+
+[[dialogue]]
+speaker = "unk"
+original = "モンスターの討伐を終えた星騎士の前に、黒い翼の天使が現れた。"
+translation = "몬스터 토벌을 마친 성기사 앞에 검은 날개의 천사가 나타났다."
+
+[[dialogue]]
+speaker = "unk"
+original = "彼女は薄い笑みを浮かべているものの、帯びる殺気は鋭く禍々しい。"
+translation = "그녀는 옅은 미소를 띠고 있지만, 풍기는 살기는 날카롭고 불길하다."
+
+[[dialogue]]
+speaker = "？？？"
+original = "「貴様、プリマステラか？」"
+translation = "「네놈, 프리마스텔라인가?」"
+
+[[dialogue]]
+speaker = "新星学園星騎士"
+original = "「な、なんですか急に……あなたは一体──」"
+translation = "「무, 무엇인가요 갑자기…… 당신은 대체──」"
+
+[[dialogue]]
+speaker = "？？？"
+original = "「プリマステラかと聞いている」"
+translation = "「프리마스텔라인지 묻고 있다」"
+
+[[dialogue]]
+speaker = "新星学園星騎士"
+original = "「！\u3000まさかコラプサー……！？\u3000武器を捨ててください、抵抗するなら、プリマステラとして容赦しません！」"
+translation = "「! 설마 콜랩서……!? 무기를 버려주세요, 저항한다면 프리마스텔라로서 용서치 않겠습니다!」"
+
+[[dialogue]]
+speaker = "？？？"
+original = "「やはりプリマステラか。ならば、狩らせてもらう！」"
+translation = "「역시 프리마스텔라였군. 그렇다면 사냥해 주마!」"
+
+[[dialogue]]
+speaker = "新星学園星騎士"
+original = "「きゃああああああああああッ！！」"
+translation = "「꺄아아아아아아아아악!!」"
+
+[[dialogue]]
+speaker = "？？？"
+original = "「弱い、弱すぎる。流星市国のプリマステラといってもこの程度か？」"
+translation = "「약해, 너무 약하군. 유성시국의 프리마스텔라라고 해도 이 정도인가?」"
+
+[[dialogue]]
+speaker = "新星学園星騎士"
+original = "「かはっ……はぁ、はぁ……」"
+translation = "「커헉…… 하아, 하아……」"
+
+[[dialogue]]
+speaker = "？？？"
+original = "「まあいい、貴様のセレスティアは貰っていくぞ」"
+translation = "「뭐 됐다, 네놈의 셀레스티아는 가져가겠다」"
+
+[[dialogue]]
+speaker = "新星学園星騎士"
+original = "「！？\u3000ま、待って……セレスティアがなかったら私……！」"
+translation = "「!? 기, 기다려…… 셀레스티아가 없으면 난……!」"
+
+[[dialogue]]
+speaker = "？？？"
+original = "「貴様のような弱者に戦う資格などない」"
+translation = "「너 같은 약자에게 싸울 자격 따윈 없다」"
+
+[[dialogue]]
+speaker = "新星学園星騎士"
+original = "「そんな……！\u3000お願いだから返して！\u3000私のセレスティアを返してぇ！！」"
+translation = "「그런……! 부탁이니까 돌려줘! 내 셀레스티아를 돌려줘!!」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「──というように、新星・流星の星騎士が次々と襲撃される事件が起きています」"
+translation = "「──라는 식으로 신성·유성의 성기사가 잇달아 습격당하는 사건이 일어나고 있습니다」"
+
+[[dialogue]]
+speaker = "unk"
+original = "放っておけないな"
+translation = "내버려 둘 수 없겠네."
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「うん、ただ襲われるだけじゃなくて、セレスティアまで奪われてるんだもん。早急に解決しなきゃ！」"
+translation = "「응, 그냥 습격당하는 것뿐만 아니라 셀레스티아까지 빼앗기고 있는걸. 조속히 해결해야 해!」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「犯人については、被害者の証言からいくつか手がかりを得ています」"
+translation = "「범인에 대해서는 피해자의 증언에서 몇 가지 단서를 얻었습니다」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「流石アナ！\u3000それで犯人はどういう人なの？」"
+translation = "「역시 아나! 그래서 범인은 어떤 사람이야?」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「特徴は、まず天使の女性であること、武器が日本刀であること」"
+translation = "「특징은 우선 천사 여성이라는 점, 무기가 일본도라는 점」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「そして、襲撃の際に『貴様、プリマステラか？』と必ず問うことが分かっています」"
+translation = "「그리고 습격할 때 『네놈, 프리마스텔라인가?』라고 반드시 묻는다는 것이 밝혀졌습니다」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「天使に日本刀……それと、プリマステラを探してる？」"
+translation = "「천사에 일본도…… 그리고 프리마스텔라를 찾고 있다?」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「どうやら、彼女は星騎士の中でもプリマステラのみを襲撃しているようです。プリマステラではない星騎士はみな被害に遭っていません」"
+translation = "「아무래도 그녀는 성기사 중에서도 프리마스텔라만을 습격하고 있는 모양입니다. 프리마스텔라가 아닌 성기사들은 모두 피해를 입지 않았습니다」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「うーん、プリマステラだけを狙うのには何か理由があるのかな？」"
+translation = "「으음, 프리마스텔라만 노리는 데는 무슨 이유가 있는 걸까?」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「今のところはなんとも言えません。ですが、この事件は過去の件と類似性があります」"
+translation = "「지금으로서는 뭐라 말씀드릴 수 없습니다. 하지만 이 사건은 과거의 건과 유사성이 있습니다」"
+
+[[dialogue]]
+speaker = "unk"
+original = "コラプサー……"
+translation = "콜랩서……."
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「コラプサー……！\u3000あの星騎士襲撃事件の……」"
+translation = "「콜랩서……! 그 성기사 습격 사건의……」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「はい、その可能性はかなり高いと考えています」"
+translation = "「네, 그 가능성이 상당히 높다고 보고 있습니다」"
+
+[[dialogue]]
+speaker = "キサナ"
+original = "『アタシらはコラプサー。星の光を喰らう者だ』"
+translation = "『우리는 콜랩서. 별의 빛을 삼키는 자다』"
+
+[[dialogue]]
+speaker = "unk"
+original = "過去二回に渡って現れた『コラプサー』と名乗る者たち。"
+translation = "과거 두 번에 걸쳐 나타난 『콜랩서』라 자칭하는 자들."
+
+[[dialogue]]
+speaker = "unk"
+original = "彼女らの明確な目的は不明だが、新星・流星の星騎士を襲撃し、多くの混沌を招いた。"
+translation = "그녀들의 명확한 목적은 불분명하지만 신성·유성의 성기사를 습격해 많은 혼돈을 불렀다."
+
+[[dialogue]]
+speaker = "unk"
+original = "圧倒的な戦闘力に、星力を打ち消す特殊能力。"
+translation = "압도적인 전투력에 성력을 무효화하는 특수 능력."
+
+[[dialogue]]
+speaker = "unk"
+original = "今回も彼女ら『コラプサー』が関わっているとすれば、また困難な事件となるだろう。"
+translation = "이번에도 그녀들 『콜랩서』가 연관되어 있다면 또다시 어려운 사건이 될 것이다."
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「コラプサーが関わってるなら、なおさら放っておけないよ！\u3000早く犯人を捕まえなきゃ！」"
+translation = "「콜랩서가 관련되어 있다면 더더욱 가만히 있을 수 없어! 빨리 범인을 잡아야 해!」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「ええ、ですから少しでも戦力が欲しいのが現状なのですが、コラプサーに立ち向かえる人員は限られていて──」"
+translation = "「네, 그래서 조금이라도 전력이 필요한 상황입니다만 콜랩서에 맞설 수 있는 인원은 한정되어 있어서──」"
+
+[[dialogue]]
+speaker = "カティア"
+original = "「そこで私の出番というわけですね！！！」"
+translation = "「거기서 제 차례라는 것이군요!!!」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「わあ！\u3000ビックリした！」"
+translation = "「와아! 깜짝이야!」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「カティアさん、どうしてここに？」"
+translation = "「카티아 씨, 어째서 여기에?」"
+
+[[dialogue]]
+speaker = "カティア"
+original = "「魔王様がピンチと聞いて駆けつけて来たんだワン！」"
+translation = "「마왕님이 위기라는 소리를 듣고 달려왔다멍!」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「つまり、盗み聞きをしていたと」"
+translation = "「즉, 엿듣고 있었다는 거군요」"
+
+[[dialogue]]
+speaker = "カティア"
+original = "「ギクッ！\u3000べべ別にわざとしてたわけじゃないワン！\u3000たまたま聞こえて来たんだガオ！」"
+translation = "「찔끔! 따따딱히 일부러 그런 건 아니다멍! 우연히 들려온 거다크앙!」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「盗み聞きしてたことは否定しないんだ……」"
+translation = "「엿들었다는 건 부정하지 않네……」"
+
+[[dialogue]]
+speaker = "カティア"
+original = "「それよりも魔王様。私も捜査のお供に加えてください……！」"
+translation = "「그것보다 마왕님. 저도 수사 동료로 넣어주세요……!」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「ですが、相手はコラプサー……危険な敵なんですよ？」"
+translation = "「하지만 상대는 콜랩서…… 위험한 적이라구요?」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「そうだよ。プリマステラならまだしも、一般の生徒が参加するだなんて……」"
+translation = "「그래. 프리마스텔라라면 몰라도 일반 학생이 참가한다니……」"
+
+[[dialogue]]
+speaker = "カティア"
+original = "「いえ、犯人はプリマステラだけを狙っているとのこと……なのでプリマステラではない私は逆に安全なはずです！」"
+translation = "「아뇨, 범인은 프리마스텔라만 노리고 있다고 하니…… 그러니 프리마스텔라가 아닌 저는 오히려 안전할 터입니다!」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「確かにそういう考え方も出来るかもしれないけど……」"
+translation = "「확실히 그런 생각도 가능할지 모르지만……」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「会長はどう思われます？」"
+translation = "「회장님은 어떻게 생각하세요?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "あまり賛同出来ないかな"
+translation = "별로 찬성할 수 없겠는데."
+
+[[dialogue]]
+speaker = "カティア"
+original = "「あ、危なくなったら逃げるワン！\u3000絶対に無理はしませんから！」"
+translation = "「아, 위험해지면 도망칠 거다멍! 절대 무리는 하지 않을 테니까요!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "本当に１人で逃げられる？"
+translation = "정말 혼자서 도망칠 수 있겠어?"
+
+[[dialogue]]
+speaker = "カティア"
+original = "「大丈夫だワン！\u3000走ることは大得意だガオ！」"
+translation = "「걱정 마라멍! 달리는 것 하나는 자신 있다크앙!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "……分かった。絶対に無理しないでね"
+translation = "……알았어. 절대 무리하지 마」"
+
+[[dialogue]]
+speaker = "カティア"
+original = "「流石魔王様！\u3000魔王様なら分かってくれると思ってました！」"
+translation = "「역시 마왕님! 마왕님이라면 알아주실 줄 알았어요!」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「少なくとも会長が一緒なら安心はできるね」"
+translation = "「적어도 회장이 함께라면 안심할 수 있겠네」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「それでは会長、カティアさんと一緒に調査をよろしくお願いします」"
+translation = "「그럼 회장님, 카티아 씨와 함께 조사를 부탁드립니다」"
+
+[[dialogue]]
+speaker = "カティア"
+original = "「ふっふっふっ、カティア刑事の腕が鳴るワン！」"
+translation = "「훗훗훗, 카티아 형사의 몸이 근질근질하다멍!」"
+

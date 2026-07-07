@@ -1,0 +1,275 @@
+[[dialogue]]
+speaker = "unk"
+original = "依頼を受け、ヒマワリとミウの２人が追いかけているのは、セレスティアの横領犯。"
+translation = "의뢰를 받고 히마와리와 미우 두 사람이 쫓고 있는 것은 셀레스티아 횡령범."
+
+[[dialogue]]
+speaker = "unk"
+original = "基本的に、星騎士でもセレスティアなしでは星術のコントロールは難しい。"
+translation = "기본적으로 성기사라도 셀레스티아 없이는 성술 컨트롤이 어렵다."
+
+[[dialogue]]
+speaker = "unk"
+original = "逆に在野の星力持ちでもセレスティアがあれば、ある程度星術が行使できるようになるため、セレスティアが闇取引されることがあるのだ。"
+translation = "반대로 재야의 성력 소유자라도 셀레스티아만 있으면 어느 정도 성술 행사가 가능해지기 때문에 셀레스티아가 암거래되는 경우가 있는 것이다."
+
+[[dialogue]]
+speaker = "ヒマワリ"
+original = "「セレスティア横領の現行犯で逮捕するーっ！\u3000待て待てーっ！」"
+translation = "「셀레스티아 횡령 현행범으로 체포하겠다ー! 게 섯거라ー!」"
+
+[[dialogue]]
+speaker = "横領犯"
+original = "「待てと言われて待つ阿呆がいるかよ！」"
+translation = "「서라고 한다고 서는 바보가 어딨냐!」"
+
+[[dialogue]]
+speaker = "ミウ"
+original = "「今度こそ逃がしません！\u3000今回は脚を射貫いてでも止めます！」"
+translation = "「이번에야말로 놓치지 않아요! 이번엔 다리를 쏴서라도 멈추겠어요!」"
+
+[[dialogue]]
+speaker = "ヒマワリ"
+original = "「あっ、待って！\u3000そこにモンスターが！」"
+translation = "「앗, 잠깐! 거기에 몬스터가!」"
+
+[[dialogue]]
+speaker = "横領犯"
+original = "「ハッ！\u3000そんな古い手に乗るか──」"
+translation = "「하! 그런 뻔한 수법에──」"
+
+[[dialogue]]
+speaker = "モンスター"
+original = "「ピガガー！」"
+translation = "「피가가!」"
+
+[[dialogue]]
+speaker = "横領犯"
+original = "「なっ、マジで──ぎゃあぁっ！？」"
+translation = "「뭣, 진짜냐── 갸아악!?」"
+
+[[dialogue]]
+speaker = "ヒマワリ"
+original = "「言わんこっちゃない。あたしはちゃんと教えてあげたのにー！」"
+translation = "「거봐, 내가 말했잖아. 난 분명히 가르쳐 줬다구ー!」"
+
+[[dialogue]]
+speaker = "ミウ"
+original = "「また新型モンスターだね、無理は禁物だよ、ヒマワリちゃん」"
+translation = "「또 신형 몬스터네, 무리는 금물이야, 히마와리짱.」"
+
+[[dialogue]]
+speaker = "ヒマワリ"
+original = "「わかってるって。──喰らえっ！」"
+translation = "「알고 있다니까. ──먹어라!」"
+
+[[dialogue]]
+speaker = "ヒマワリ"
+original = "「うわ、やっぱダメだー！\u3000めちゃめちゃ硬ーい！」"
+translation = "「우와, 역시 안 되네ー! 엄청나게 딱딱해ー!」"
+
+[[dialogue]]
+speaker = "ミウ"
+original = "「並の星騎士じゃ通用しないとは言われてたけど、まさか、私たちがここまで無力だなんて……」"
+translation = "「보통 성기사에겐 통하지 않는다고 들었지만 설마 우리가 이렇게나 무력할 줄이야……」"
+
+[[dialogue]]
+speaker = "ヒマワリ"
+original = "「ミウ、プランＡでもＢでもＣでもいいから、なんかないのー！？」"
+translation = "「미우, 플랜 A든 B든 C든 좋으니까 뭐 없어ー!?」"
+
+[[dialogue]]
+speaker = "ミウ"
+original = "「あいつ相手にはどうしようもないよ。全力で逃げるか、もしくは──」"
+translation = "「저 녀석 상대론 어쩔 도리가 없어. 전력으로 도망치든가, 아니면──」"
+
+[[dialogue]]
+speaker = "ヒマワリ"
+original = "「もしくは？」"
+translation = "「아니면?」"
+
+[[dialogue]]
+speaker = "ミウ"
+original = "「ヒーローの到着を願うだけ……助けてください！」"
+translation = "「히어로의 도착을 바랄 뿐…… 도와주세요!」"
+
+[[dialogue]]
+speaker = "ヒマワリ"
+original = "「セナリィ社長ーッ！」"
+translation = "「세나리 사장님ーー!」"
+
+[[dialogue]]
+speaker = "セナリィ（覚醒）"
+original = "「その願い、聞き届けましたわ！」"
+translation = "「그 소원, 수리했습니다!」"
+
+[[dialogue]]
+speaker = "セナリィ（覚醒）"
+original = "「私、颯爽登場ッッッ！」"
+translation = "「나, 씩씩하게 등장!」"
+
+[[dialogue]]
+speaker = "セナリィ（覚醒）"
+original = "「社員の窮地とあらば駆けつけるのが社長の役目！\u3000ウチの社員を可愛がってくれた礼は火力でお返ししますわ！」"
+translation = "「사원의 궁지라면 달려오는 것이 사장의 역할! 우리 사원을 귀여워해 준 보답은 화력으로 갚아주겠어요!」"
+
+[[dialogue]]
+speaker = "ミウ"
+original = "「やっちゃってください、社長ーっ！」"
+translation = "「해치워버리세요, 사장님ー!」"
+
+[[dialogue]]
+speaker = "セナリィ（覚醒）"
+original = "「武装展開！\u3000ミサイルストォオォォゥム！！」"
+translation = "「무장 전개! 미사일 스트으으으옴!!」"
+
+[[dialogue]]
+speaker = "モンスター"
+original = "「ピピピ……ガガーー……！」"
+translation = "「피피피…… 가가아……!」"
+
+[[dialogue]]
+speaker = "ヒマワリ"
+original = "「あたしたちがいくら撃ってもダメージを与えられなかった敵を、たったの一撃で……！」"
+translation = "「우리가 아무리 쏴도 대미지를 못 줬던 적을 단 일격에……!」"
+
+[[dialogue]]
+speaker = "ヒマワリ"
+original = "「さすがはセナリィ社長です！\u3000素敵ですー！\u3000社長についてきて良かったー！」"
+translation = "「역시 세나리 사장님이에요! 멋져요! 사장님 따라오길 잘했다ー!」"
+
+[[dialogue]]
+speaker = "セナリィ（覚醒）"
+original = "「そう、もっと、もっと！\u3000私を褒めなさいな！」"
+translation = "「그래요, 더, 더! 나를 칭찬하세요!」"
+
+[[dialogue]]
+speaker = "セナリィ（覚醒）"
+original = "「私は褒められて伸びる子！\u3000褒められることで私は無限の力を発揮しますわ！」"
+translation = "「저는 칭찬을 먹고 자라는 아이! 칭찬받음으로써 저는 무한한 힘을 발휘한답니다!」"
+
+[[dialogue]]
+speaker = "モンスター"
+original = "「ガアアアッ！！」"
+translation = "「가아아악!!」"
+
+[[dialogue]]
+speaker = "セナリィ（覚醒）"
+original = "「おっと、雑魚を片付けたところで、オヤブンのお出ましのようですわね」"
+translation = "「오호라, 조무래기를 해치우니 대장님이 나오신 모양이군요.」"
+
+[[dialogue]]
+speaker = "セナリィ（覚醒）"
+original = "「さ、このまま、銀河のチリにして差し上げますわ！」"
+translation = "「자, 이대로 은하의 먼지로 만들어 드리죠!」"
+
+[[dialogue]]
+speaker = "セナリィ（覚醒）"
+original = "「……あら？\u3000あら？\u3000あらら？」"
+translation = "「……어라? 어라? 어라라?」"
+
+[[dialogue]]
+speaker = "ミウ"
+original = "「どうしたんですか、セナリィ社長。またズドーンとやっちゃってください」"
+translation = "「왜 그러세요, 세나리 사장님. 다시 한번 콰쾅 하고 해치워주세요.」"
+
+[[dialogue]]
+speaker = "セナリィ（覚醒）"
+original = "「そうしたいのは、やまやまなんですけども……弾が出ませんわね？」"
+translation = "「그러고 싶은 마음은 굴뚝같습니다만…… 탄환이 나가질 않네요?」"
+
+[[dialogue]]
+speaker = "ヒマワリ"
+original = "「もしかして、もうエネルギー切れですか！？\u3000褒めたら無限の力じゃなかったんですかー！？」"
+translation = "「설마 벌써 에너지 방전인가요!? 칭찬하면 무한한 힘이라면서요ー!?」"
+
+[[dialogue]]
+speaker = "セナリィ（覚醒）"
+original = "「ノリですわ、ノリ！\u3000無限の力なんてあるはずがないでしょう！」"
+translation = "「기분이죠, 기분! 무한한 힘 같은 게 있을 리 없잖아요!」"
+
+[[dialogue]]
+speaker = "ヒマワリ"
+original = "「ま、そうですよねー」"
+translation = "「뭐, 그렇죠ー」"
+
+[[dialogue]]
+speaker = "ミウ"
+original = "「『褒め』にそこまでの力はありませんよね」"
+translation = "「『칭찬』에 그 정도의 힘은 없겠죠.」"
+
+[[dialogue]]
+speaker = "セナリィ（覚醒）"
+original = "「あなたたち、案外ドライですわよねぇー！」"
+translation = "「당신들, 생각보다 드라이하군요!!」"
+
+[[dialogue]]
+speaker = "モンスター"
+original = "「ギィィィ！\u3000ギィアァァァァ！」"
+translation = "「기이이! 기아아아아!」"
+
+[[dialogue]]
+speaker = "セナリィ（覚醒）"
+original = "「あいたたた！\u3000やめっ、やめなさい！\u3000こら！」"
+translation = "「아야야야! 그만, 그만두세요! 이 녀석!」"
+
+[[dialogue]]
+speaker = "ミウ"
+original = "「エネルギーが切れても、防御力は高いんですね。でも、持ち堪えてても攻撃はできないんじゃ、ただのサンドバッグ」"
+translation = "「에너지가 끊겨도 방어력은 높군요. 하지만 버티고만 있고 공격을 못 하면 그냥 샌드백이잖아요.」"
+
+[[dialogue]]
+speaker = "ヒマワリ"
+original = "「あたしたちの攻撃は、あいつには通じないし……このままじゃ社長がやられちゃうよー！」"
+translation = "「우리 공격은 저 녀석한테 안 통하고…… 이대로라면 사장님이 당하고 말 거야ー!」"
+
+[[dialogue]]
+speaker = "ミウ"
+original = "「絶体絶命のピンチ……何もしないでやられちゃうよりは、やってみるべきですよね♪」"
+translation = "「절체절명의 위기…… 아무것도 안 하고 당하는 것보다는 해보는 게 낫겠죠♪」"
+
+[[dialogue]]
+speaker = "ヒマワリ"
+original = "「え、なに？\u3000ミウ、ちょっと嬉しそうなんだけど」"
+translation = "「에, 뭐야? 미우 왠지 좀 즐거워 보이는데.」"
+
+[[dialogue]]
+speaker = "ミウ"
+original = "「ヒマワリちゃん！\u3000私にいい考えがあるんです！」"
+translation = "「히마와리짱! 저에게 좋은 생각이 있어요!」"
+
+[[dialogue]]
+speaker = "ヒマワリ"
+original = "「あ、もしかして、前に考えてたセナリィ社長に星力をリチャージする方法？」"
+translation = "「아, 설마 저번에 생각했던 세나리 사장님께 성력을 리차지하는 방법?」"
+
+[[dialogue]]
+speaker = "ミウ"
+original = "「そう！\u3000それにはヒマワリちゃんの星術が絶対に必要。ヒマワリちゃんじゃなきゃ、絶対にできないことなの」"
+translation = "「맞아요! 거기에는 히마와리짱의 성술이 반드시 필요해. 히마와리짱이 아니면, 절대로 할 수 없는 일이거든.」"
+
+[[dialogue]]
+speaker = "ヒマワリ"
+original = "「任せてよ！\u3000あたしにできることなら、なんだってやるからさ！」"
+translation = "「맡겨만 줘! 내가 할 수 있는 일이라면 뭐든 할 테니까!」"
+
+[[dialogue]]
+speaker = "ミウ"
+original = "「本当だね？\u3000えっとね、ごにょごにょごにょ」"
+translation = "「정말이지? 그게 말이야, 소곤소곤소곤.」"
+
+[[dialogue]]
+speaker = "ヒマワリ"
+original = "「──え？\u3000あたしの星術を社長に……うん、うん……ぅえぇぇ！？」"
+translation = "「──에? 내 성술을 사장님한테…… 응, 응…… 에에에에!?」"
+
+[[dialogue]]
+speaker = "ミウ"
+original = "「──って感じなんだけど、どう？\u3000イケると思う？」"
+translation = "「──라는 느낌인데, 어때? 할 수 있겠어?」"
+
+[[dialogue]]
+speaker = "ヒマワリ"
+original = "「あは、うはははっ♪\u3000やってみなきゃわかんないけど、ミウってばエグいこと考えるよねー！」"
+translation = "「아하, 우하하핫♪ 해보지 않으면 모르겠지만, 미우는 정말 지독한 걸 생각한다니까!」"
+

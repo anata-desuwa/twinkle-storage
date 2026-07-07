@@ -1,0 +1,245 @@
+[[dialogue]]
+speaker = "unk"
+original = "第２話,オペレーターコハルコ,P"
+translation = "제2화, 오퍼레이터 쿠하루코, P"
+
+[[dialogue]]
+speaker = "キャッピー"
+original = "「イ～～～～ッ！」"
+translation = "「이~~~~잇!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "星徒会長になってから幾度目のモンスターのと戦闘。"
+translation = "성도회장이 되고 나서 몇 번째인지 모를 몬스터와의 전투."
+
+[[dialogue]]
+speaker = "unk"
+original = "それもあと１匹で終わりだ。"
+translation = "그것도 이제 한 마리만 더 잡으면 끝이다."
+
+[[dialogue]]
+speaker = "キャッピー"
+original = "「イ～～……」"
+translation = "「이～～……」"
+
+[[dialogue]]
+speaker = "？？？"
+original = "「右後方、５時の方角です！」"
+translation = "「우측 후방, 5시 방향입니다!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "――！？"
+translation = "――!?"
+
+[[dialogue]]
+speaker = "フワッチ"
+original = "「イーーーーッ！」"
+translation = "「이――――잇!」"
+
+[[dialogue]]
+speaker = "フワッチ"
+original = "「イ～～……」"
+translation = "「이～～……」"
+
+[[dialogue]]
+speaker = "？？？"
+original = "「モンスターの消滅を確認。ですが３時の方角から新たなモンスター群が近づいています」"
+translation = "「몬스터의 소멸을 확인. 하지만 3시 방향에서 새로운 몬스터 무리가 접근하고 있습니다」"
+
+[[dialogue]]
+speaker = "？？？"
+original = "「申し遅れました。こちらコハルコです」"
+translation = "「말씀이 늦었네요. 여기는 쿠하루코입니다」"
+
+[[dialogue]]
+speaker = "？？？"
+original = "「細かい説明は後で。今はモンスターの殲滅を優先しましょう。ナビゲーションします」"
+translation = "「자세한 설명은 나중에. 지금은 몬스터 섬멸을 우선하죠. 네비게이션 하겠습니다」"
+
+[[dialogue]]
+speaker = "コハルコ"
+original = "「モンスターの討伐お疲れ様。怪我はない？」"
+translation = "「몬스터 토벌 수고했어. 다친 데는 없니?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "コハルコさんのおかげです"
+translation = "쿠하루코 씨 덕분이에요"
+
+[[dialogue]]
+speaker = "コハルコ"
+original = "「ふふ、なら良かった」"
+translation = "「후후, 그렇다면 다행이야」"
+
+[[dialogue]]
+speaker = "コハルコ"
+original = "「私が所属する放送委員会は、休み時間の放送や行事の進行だけじゃなくて、戦闘時のオペレーターも担当するの」"
+translation = "「내가 소속된 방송위원회는 쉬는 시간 방송이나 행사 진행뿐만 아니라, 전투 시의 오퍼레이터도 담당하거든」"
+
+[[dialogue]]
+speaker = "コハルコ"
+original = "「星徒会は強いから、オペレーションを必要としないことも多いけどね」"
+translation = "「성도회는 강하니까 오퍼레이션이 필요 없는 경우도 많지만 말이야」"
+
+[[dialogue]]
+speaker = "コハルコ"
+original = "「ちなみに私は委員長なの。１年の時から放送委員だから、サーシャとはけっこう長い付き合いかな」"
+translation = "「참고로 내가 위원장이야. 1학년 때부터 방송위원이었으니까, 사샤와는 꽤 오래 알고 지낸 사이일까나」"
+
+[[dialogue]]
+speaker = "unk"
+original = "コハルコさんは本当に何でもできるなぁ……"
+translation = "쿠하루코 씨는 정말 못 하는 게 없으시네요……"
+
+[[dialogue]]
+speaker = "コハルコ"
+original = "「そんなことないよ。私は会長さんみたいに面と向かって戦うのは得意じゃないし。一応プリマステラではあるけど、誰かと連携して戦う方が得意かな」"
+translation = "「그렇지 않아. 나는 회장님처럼 정면에서 싸우는 건 특기가 아니거든. 일단 프리마스텔라이긴 하지만, 누군가와 연계해서 싸우는 쪽이 더 자신 있어」"
+
+[[dialogue]]
+speaker = "コハルコ"
+original = "「モンスターは……うん、もういないね。私の家、割とこの近くなんだ。心配で来てみたんだけど、大丈夫そうで良かった」"
+translation = "「몬스터는…… 응, 이제 없네. 우리 집이 이 근처랑 꽤 가깝거든. 걱정돼서 와 봤는데, 괜찮아 보여서 다행이야」"
+
+[[dialogue]]
+speaker = "コハルコ"
+original = "「あ、そうだ。せっかくここまで来たんだし、ちょっとお願いがあるんだけど……いいかな？」"
+translation = "「아, 맞다. 어렵게 여기까지 왔는데, 잠깐 부탁이 하나 있는데…… 괜찮을까?」"
+
+[[dialogue]]
+speaker = "コハルコ"
+original = "「買い物袋持ってくれてありがとう。１人じゃ食料品はたくさん買えないし、男手があると助かるよ」"
+translation = "「장바구니 들어줘서 고마워. 혼자서는 식료품을 많이 살 수 없는데, 남자의 손길이 있으니 도움이 되네」"
+
+[[dialogue]]
+speaker = "コハルコ"
+original = "「私、家はこの辺なんだ。パソコンのパーツショップをやってるんだけど──」"
+translation = "「나, 집은 이 근처야. 컴퓨터 부품 샵을 하고 있는데──」"
+
+[[dialogue]]
+speaker = "ナツコ"
+original = "「お姉ちゃ～ん！」"
+translation = "「언니～!」"
+
+[[dialogue]]
+speaker = "トウコ"
+original = "「その人、コハルコお姉ちゃんのお友達……？」"
+translation = "「그 사람, 쿠하루코 언니 친구야……?」"
+
+[[dialogue]]
+speaker = "コハルコ"
+original = "「２人は学校終わったところかな。この人は私の学校の星徒会長さん。うちの学校で一番強いんだよ」"
+translation = "「둘 다 학교 끝난 참이니? 이분은 우리 학교의 성도회장님이야. 우리 학교에서 제일 강하단다」"
+
+[[dialogue]]
+speaker = "コハルコ"
+original = "「会長さん、こっちの２人はナツコとトウコ。私の妹なんだ」"
+translation = "「회장님, 이쪽의 두 명은 나츠코와 토우코. 내 여동생들이야」"
+
+[[dialogue]]
+speaker = "ナツコ"
+original = "「よろしくお願いしまーす！」"
+translation = "「잘 부탁드립니ー다!」"
+
+[[dialogue]]
+speaker = "トウコ"
+original = "「はい、よろしくお願いします」"
+translation = "「네, 잘 부탁드립니다」"
+
+[[dialogue]]
+speaker = "コハルコ"
+original = "「じゃあ、会長さんの袋は２人に持ってもらおうかな」"
+translation = "「그럼, 회장님 짐은 두 사람에게 들게 할까나」"
+
+[[dialogue]]
+speaker = "unk"
+original = "けっこう重いし家まで持ちますよ"
+translation = "꽤 무거우니까 집까지 제가 들게요"
+
+[[dialogue]]
+speaker = "コハルコ"
+original = "「そう？\u3000じゃあお願いしようかな。ふふ、会長さんは優しいね」"
+translation = "「그래? 그럼 부탁할까나. 후후, 회장님은 상냥하네」"
+
+[[dialogue]]
+speaker = "ナツコ"
+original = "「ねぇねぇ、お姉ちゃん、ジャスティス──」"
+translation = "「저기 저기, 언니, 저스티스──」"
+
+[[dialogue]]
+speaker = "コハルコ"
+original = "「ジャスティス！？」"
+translation = "「저스티스!?」"
+
+[[dialogue]]
+speaker = "トウコ"
+original = "「お姉ちゃん、どうかした？」"
+translation = "「언니, 왜 그래?」"
+
+[[dialogue]]
+speaker = "コハルコ"
+original = "「あ、ううん、何でもない……」"
+translation = "「아, 아니, 아무것도 아니야……」"
+
+[[dialogue]]
+speaker = "ナツコ"
+original = "「ジャスティスガールのポーチ、今クラスの女の子みんな持っててね、わたしも欲しいの！\u3000ダメ？」"
+translation = "「저스티스 걸 파우치, 지금 반 여자애들 다 가지고 있어서 나도 갖고 싶어! 안 돼?」"
+
+[[dialogue]]
+speaker = "コハルコ"
+original = "「ジャスティスガール？\u3000ああ、この前始まったアニメだね。女の子が悪者をパンチで倒していくやつ」"
+translation = "「저스티스 걸? 아아, 저번에 시작한 애니메이션이네. 여자아이가 악당을 펀치로 쓰러뜨리는 거」"
+
+[[dialogue]]
+speaker = "コハルコ"
+original = "「でもナツコはこの前新しいワンピース買ったからなー。どうしよっかな～」"
+translation = "「하지만 나츠코는 저번에 새 원피스 샀으니까 말이야ー. 어떡할까나～」"
+
+[[dialogue]]
+speaker = "ナツコ"
+original = "「いっぱいおうちのお手伝いするから～！\u3000お皿洗いとかお風呂掃除とかするから！\u3000ね、お願い？」"
+translation = "「집안일 많이 도와줄게～! 설거지랑 욕실 청소도 할게! 응, 부탁이야?」"
+
+[[dialogue]]
+speaker = "コハルコ"
+original = "「ふふ、じゃあそのお手伝い次第かな。トウコはジャスティスガール欲しくないの？」"
+translation = "「후후, 그럼 그 도움 주는 거에 달렸을까나. 토우코는 저스티스 걸 안 갖고 싶어?」"
+
+[[dialogue]]
+speaker = "トウコ"
+original = "「別に……そんなに好きじゃないし」"
+translation = "「딱히…… 그렇게 좋아하지도 않고」"
+
+[[dialogue]]
+speaker = "コハルコ"
+original = "「トウコは相変わらずだね。もっとナツコみたいにいろいろ言ってもいいんだよ？」"
+translation = "「토우코는 여전하네. 좀 더 나츠코처럼 이것저것 말해도 된다구?」"
+
+[[dialogue]]
+speaker = "トウコ"
+original = "「我慢してるわけじゃないもん」"
+translation = "「참고 있는 거 아닌걸」"
+
+[[dialogue]]
+speaker = "コハルコ"
+original = "「そっか。じゃあ欲しいものがあったらちゃんと言ってね」"
+translation = "「그래. 그럼 갖고 싶은 게 생기면 꼭 말해줘」"
+
+[[dialogue]]
+speaker = "unk"
+original = "（仲のいい姉妹だ）"
+translation = "(사이가 좋은 자매로군)"
+
+[[dialogue]]
+speaker = "コハルコ"
+original = "「って、会長さんに荷物持たせっぱなしだったね。ごめんごめん」"
+translation = "「그나저나 회장님한테 짐을 계속 들게 했네. 미안 미안」"
+
+[[dialogue]]
+speaker = "コハルコ"
+original = "「家までもうちょっとだから、お茶でも飲んでいって。遠慮せずにくつろいでいってよ」"
+translation = "「집까지 조금만 더 가면 되니까, 차라도 마시고 가. 부담 갖지 말고 편히 쉬다 가렴」"
+

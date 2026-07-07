@@ -1,0 +1,425 @@
+[[dialogue]]
+speaker = "unk"
+original = "第８話,梨緒とフィオナ,B"
+translation = "제8화, 리오와 피오나"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「わざわざ来てもらってすまない。聞きたいことがあって」"
+translation = "「일부러 와달라고 해서 미안해. 묻고 싶은 게 있어서.」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「いえ、私もお話したかったところですから」"
+translation = "「아니요, 저도 이야기하고 싶던 참이었으니까요.」"
+
+[[dialogue]]
+speaker = "ニャリオン"
+original = "「ニャー。また騒ぎになってるって聞いたニャンよ」"
+translation = "「냐아. 또 소동이 났다고 들었다냥.」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「はは……まぁそうなんだ」"
+translation = "「하하…… 뭐 그렇게 됐어.」"
+
+[[dialogue]]
+speaker = "unk"
+original = "カフェテリアでフィオナ（とニャリオン）と落ち合う。"
+translation = "카페테리아에서 피오나(와 냐리온)와 만난다."
+
+[[dialogue]]
+speaker = "unk"
+original = "先日のモンスターのことも相談したかったが……"
+translation = "요전번 몬스터 일도 상담하고 싶었지만……"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「聞きたかったのは梨緒さんのことですよね？」"
+translation = "「묻고 싶으신 건 리오 씨에 대한 거죠?」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「ああ。今は星見家にいるって聞いたんだが、知り合いなのか？」"
+translation = "「아아. 지금은 호시미 가문에 있다고 들었는데, 아는 사이야?」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「いえ、彼女は……」"
+translation = "「아니요, 그녀는……」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「彼女は教皇庁の前で倒れていたんです」"
+translation = "「그녀는 교황청 앞에서 쓰러져 있었어요.」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「ん、んん……」"
+translation = "「음, 으음……」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「目が覚めましたか？\u3000あなたは意識を失っていて──」"
+translation = "「정신이 드세요? 당신은 의식을 잃고 있어서──」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「エリシア！？\u3000生きていたんだな！\u3000良かった！」"
+translation = "「엘리시아!? 살아있었구나! 다행이다!」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「──！？\u3000どうしてその名前を……？」"
+translation = "「──!? 어떻게 그 이름을……?」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「いえ、私は星見フィオナです。エリシアという人間はここにはいません」"
+translation = "「아니요, 저는 호시미 피오나입니다. 엘리시아라는 사람은 여기 없어요.」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「何を言っている？\u3000いくら双子でも見分けはつくぞ。私にそんな冗談は通じな──」"
+translation = "「무슨 소리를 하는 거야? 아무리 쌍둥이라도 구분은 할 수 있어. 나한테 그런 농담은 안 통──」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「フィオナ～！\u3000一緒に流星ライダーの劇場版見ようぜ！」"
+translation = "「피오나~! 같이 유성 라이더 극장판 보자!」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「は──？」"
+translation = "「하──?」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「フィオナ！？\u3000フィオナが小さくなった！？\u3000本当にフィオナなのか！？\u3000どういうことだ！？」"
+translation = "「피오나!? 피오나가 작아졌어!? 정말 피오나야!? 어떻게 된 거야!?」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「だ、誰だおまえ？\u3000どうしてあたしたち姉妹のことを知っている！？」"
+translation = "「누, 누구냐 너? 어떻게 우리 자매에 대해 알고 있는 거야!?」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「誰って……梨緒だ！\u3000梨緒・Ａ・クリステレスだ！\u3000わからないのか！？」"
+translation = "「누구냐니…… 리오다! 리오·A·크리스테레스라고! 모르겠어!?」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「いえ……私はあなたのことを存じ上げません」"
+translation = "「아니요…… 저는 당신을 알지 못합니다.」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「何……！？」"
+translation = "「뭐……!?」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「彼女は私たち姉妹のことをよく知っているようでした。でも私たちは彼女を知りません」"
+translation = "「그녀는 저희 자매에 대해 잘 아는 것 같았어요. 하지만 저희는 그녀를 모릅니다.」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「ニャリオンの知り合いだったり……？」"
+translation = "「냐리온이 아는 사이라던가……?」"
+
+[[dialogue]]
+speaker = "ニャリオン"
+original = "「心当たりがないニャン」"
+translation = "「짐작 가는 게 없다냥.」"
+
+[[dialogue]]
+speaker = "unk"
+original = "フィオナの本名も、アポロとの関係も本当に一部の者しか知りえないはず……なのにフィオナたちは梨緒を知らない。"
+translation = "피오나의 본명도, 아폴로와의 관계도 정말 일부의 사람밖에 모를 텐데…… 그런데도 피오나 일행은 리오를 모른다."
+
+[[dialogue]]
+speaker = "unk"
+original = "ますます梨緒のことがわからなくなった。"
+translation = "점점 더 리오에 대해 알 수 없게 되었다."
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「彼女は身寄りがないそうで、当面は様子を見るために星見家にいてもらうことになりました」"
+translation = "「그녀는 연고가 없다고 해서, 당분간은 경과를 지켜보기 위해 호시미 가문에 머물게 하기로 했습니다.」"
+
+[[dialogue]]
+speaker = "ニャリオン"
+original = "「フィオナ嬢の秘密を知ってるから、放っておくわけにはいかないニャン」"
+translation = "「피오나 양의 비밀을 알고 있으니 내버려 둘 수는 없다냥.」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「姉さんを見た梨緒さんはひどく驚いて、取り乱していましたが……しばらくすると落ち着いて、自分は新星学園の星騎士だと説明しました」"
+translation = "「언니를 본 리오 씨는 몹시 놀라며 당황해했지만…… 잠시 후 진정되자 자신은 신성학원의 성기사라고 설명했습니다.」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「しかし新星学園に彼女の籍はなく、彼女が見せてくれた学生証も現行のものとは違うものでした」"
+translation = "「하지만 신성학원에 그녀의 학적은 없었고, 그녀가 보여준 학생증도 현행의 것과는 다른 것이었습니다.」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「ただ星騎士としての力は確かだったので、教皇庁から手回しして特例として転入させてもらったのですが……」"
+translation = "「다만 성기사로서의 실력은 확실했기에, 교황청에서 손을 써서 특례로 전입하게 되었습니다만……」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「まさか緋宮会長に御前試合を挑むなんて思いませんでした。それに緋宮会長を攻撃したとも聞いていますし……本当にすみません」"
+translation = "「설마 히노미야 회장님께 어전시합을 신청할 줄은 몰랐어요. 게다가 히노미야 회장님을 공격했다는 이야기도 들었고…… 정말 죄송합니다.」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「いやあれは……助かった」"
+translation = "「아니, 그건…… 도움이 됐어.」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「？\u3000助かった……ですか？」"
+translation = "「? 도움이 됐다……고요?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "あの光景を見た途端、得体の知れない破壊衝動が沸き起こった。"
+translation = "그 광경을 본 순간, 정체 모를 파괴 충동이 치밀어 올랐다."
+
+[[dialogue]]
+speaker = "unk"
+original = "梨緒の雷が俺を撃っていなかったら今頃どうなっていたか。"
+translation = "리오의 번개가 나를 치지 않았더라면 지금쯤 어떻게 되었을지."
+
+[[dialogue]]
+speaker = "クロト"
+original = "「……」"
+translation = "「……」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「何か……あったんですか？」"
+translation = "「무슨…… 일 있었나요?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "あの時のことをフィオナに伝えなければならない。"
+translation = "그때의 일을 피오나에게 전해야 한다."
+
+[[dialogue]]
+speaker = "unk"
+original = "だけど自分でも何が起きたか理解できていないのに、どうやって説明すればいいんだ……？"
+translation = "하지만 나조차 무슨 일이 일어났는지 이해하지 못했는데, 어떻게 설명해야 한단 말인가……?"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「エリシア──」"
+translation = "「엘리시아──」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「……緋宮クロト」"
+translation = "「……히노미야 쿠로토.」"
+
+[[dialogue]]
+speaker = "unk"
+original = "フィオナに声をかけようとしたのだろうが、俺の顔を見た途端、梨緒の表情が強張る。"
+translation = "피오나에게 말을 걸려던 모양이지만, 내 얼굴을 본 순간 리오의 표정이 굳어진다."
+
+[[dialogue]]
+speaker = "クロト"
+original = "「昨日以来だな」"
+translation = "「어제 이후로 처음이네.」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「フン。よくも顔を見せられたものだな」"
+translation = "「흥. 용케도 얼굴을 내미는군.」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「梨緒さん」"
+translation = "「리오 씨.」"
+
+[[dialogue]]
+speaker = "unk"
+original = "フィオナがたしなめるが、梨緒は敵意を向けたままだ。"
+translation = "피오나가 타이르지만, 리오는 적의를 드러낸 채다."
+
+[[dialogue]]
+speaker = "unk"
+original = "どうやら彼女にはとことん嫌われているらしい。"
+translation = "아무래도 그녀에게는 철저히 미움받고 있는 모양이다."
+
+[[dialogue]]
+speaker = "クロト"
+original = "「すまない、フィオナ。彼女とも話したい」"
+translation = "「미안, 피오나. 그녀와도 이야기하고 싶어.」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「ですが……」"
+translation = "「하지만……」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「大丈夫だ、エリ──……流星の会長。ここで緋宮クロトと戦うつもりはない。ここではな」"
+translation = "「괜찮아, 엘리──…… 유성의 회장. 여기서 히노미야 쿠로토와 싸울 생각은 없다. 여기서는 말이지.」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「ならいいのですけど……」"
+translation = "「그러면 다행입니다만……」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「すまない、まだフィオナと呼ぶ気にはなれないんだ。もう少し時間をくれ」"
+translation = "「미안해, 아직 피오나라고 부를 마음은 들지 않아. 시간을 좀 더 줘.」"
+
+[[dialogue]]
+speaker = "unk"
+original = "梨緒はフィオナの本名まで知っている。"
+translation = "리오는 피오나의 본명까지 알고 있다."
+
+[[dialogue]]
+speaker = "unk"
+original = "だけどフィオナは梨緒を知らなくて、そのズレが居心地の悪さを生んでいるようだった。"
+translation = "하지만 피오나는 리오를 모르고, 그 어긋남이 거북한 분위기를 만들고 있는 듯했다."
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「……わかりました。では少し外します」"
+translation = "「……알겠습니다. 그럼 잠시 자리를 비켜드릴게요.」"
+
+[[dialogue]]
+speaker = "ニャリオン"
+original = "「近くにいるから何かあったら呼ぶのニャン」"
+translation = "「근처에 있을 테니 무슨 일 있으면 부르라냥.」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「……」"
+translation = "「……」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「……」"
+translation = "「……」"
+
+[[dialogue]]
+speaker = "unk"
+original = "フィオナが離れると、間に沈黙が落ちる。"
+translation = "피오나가 멀어지자, 사이에 침묵이 내려앉는다."
+
+[[dialogue]]
+speaker = "unk"
+original = "痛いくらいの緊張が走り、ビリビリと電流が流れているようだ。"
+translation = "아플 정도의 긴장감이 감돌고, 찌릿찌릿 전류가 흐르는 것 같다."
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「君は今、新星学園の星徒会長だそうだな。周囲の人間には隠し通せているようだが、私は騙されないぞ」"
+translation = "「너는 지금 신성학원의 성도회장이라더군. 주변 사람들에게는 잘 숨기고 있는 모양이다만, 나는 속지 않아.」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「君は世界を滅ぼす魔王だ。だが君の好きにはさせない。私が必ず君を止める。今度こそ……！」"
+translation = "「너는 세계를 멸망시킬 마왕이다. 하지만 네 마음대로 하게 두지 않겠어. 내가 반드시 너를 막겠다. 이번에야말로……!」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「俺はそんなつもりはないけど……俺が世界を滅ぼすってどういう意味なんだ？」"
+translation = "「난 그럴 생각 없는데…… 내가 세계를 멸망시킨다는 게 무슨 의미야?」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「言葉通りの意味だ。それが私が見た君の姿。君の未来だ」"
+translation = "「말 그대로의 의미다. 그것이 내가 본 네 모습. 네 미래다.」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「じゃあ世界は一度滅びたのか？」"
+translation = "「그럼 세계는 한 번 멸망했던 거야?」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「……そのはずだった。だが何故か私は生きていて、今ここにいる。それ以上は聞かれても私にはわからない」"
+translation = "「……그랬어야 했다. 하지만 왠지 모르게 나는 살아있고, 지금 여기에 있지. 그 이상은 물어도 나도 모른다.」"
+
+[[dialogue]]
+speaker = "unk"
+original = "目を伏せながら答える梨緒の表情は、俺に対する明確な敵意と裏腹にどこか不安げだった。"
+translation = "눈을 내리깔며 대답하는 리오의 표정은, 나에 대한 명확한 적의와는 반대로 어딘가 불안해 보였다."
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「私が御前試合を挑んだのは、星徒会長になって君を退学にするためだ。セレスティアを没収し、戦う力を奪う」"
+translation = "「내가 어전시합을 신청한 건, 성도회장이 되어 너를 퇴학시키기 위해서다. 셀레스티아를 몰수하고 싸울 힘을 빼앗겠어.」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「また退学か……」"
+translation = "「또 퇴학인가……」"
+
+[[dialogue]]
+speaker = "unk"
+original = "やはり御前試合と退学は切っては切れないらしい。なぜだ。"
+translation = "역시 어전시합과 퇴학은 떼려야 뗄 수 없는 모양이다. 왜지."
+
+[[dialogue]]
+speaker = "クロト"
+original = "「ところで……君が着ているその制服は？」"
+translation = "「그나저나…… 네가 입고 있는 그 교복은?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "まとう赤は、新星学園の女子制服と同じ色。"
+translation = "두르고 있는 붉은색은 신성학원의 여자 교복과 같은 색."
+
+[[dialogue]]
+speaker = "unk"
+original = "制服を改造している者は多いが、彼女はまた違うもののように思えた。"
+translation = "교복을 개조하는 사람은 많지만, 그녀의 것은 또 다른 느낌이었다."
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「これはれっきとした新星学園の制服のはずなんだが……やはり今の新星学園では私は異分子のようだな」"
+translation = "「이건 어엿한 신성학원의 교복일 텐데…… 역시 지금의 신성학원에서 나는 이방인인 모양이군.」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「私の記憶では、新星の会長は君とは違う別の人間だった。私も元は副会長で……いや、いい。この話はエリシアも混乱していた」"
+translation = "「내 기억 속에서 신성의 회장은 네가 아닌 다른 사람이었어. 나도 원래는 부회장이었고…… 아니, 됐다. 이 이야기는 엘리시아도 혼란스러워했지.」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「説明したくとも、私にもわからないことが多い。だが──」"
+translation = "「설명하고 싶어도, 나조차 모르는 게 많다. 하지만──」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「私は世界を守れなかった」"
+translation = "「나는 세계를 지키지 못했어.」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「だから今度こそ君を止める。それだけだ」"
+translation = "「그러니 이번에야말로 너를 막겠다. 그뿐이다.」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「……そうか」"
+translation = "「……그래.」"
+
+[[dialogue]]
+speaker = "unk"
+original = "俺を睨む梨緒の目に迷いはない。"
+translation = "나를 노려보는 리오의 눈에 망설임은 없다."
+
+[[dialogue]]
+speaker = "unk"
+original = "その視線は俺の中の戸惑いを射貫くように、鋭く胸に突き刺さっていた。"
+translation = "그 시선은 내 안의 당혹감을 꿰뚫듯, 날카롭게 가슴에 꽂혀 있었다."
+

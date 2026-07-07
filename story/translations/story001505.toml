@@ -1,0 +1,235 @@
+[[dialogue]]
+speaker = "unk"
+original = "一方、サチとプリムラは消えたロストアイテムを探して、図書館へとやってきていた。"
+translation = "한편, 사치와 프리뮬라는 사라진 로스트 아이템을 찾아 도서관으로 왔다."
+
+[[dialogue]]
+speaker = "プリムラ"
+original = "「のうサチよ。わざわざ図書館を見回るのに、戦闘服にまで着替える必要があるのか？」"
+translation = "「보아라 사치여. 굳이 도서관을 둘러보는 데 전투복까지 갈아입을 필요가 있느냐?」"
+
+[[dialogue]]
+speaker = "サチ"
+original = "「さっきディーラックさんから連絡があってね。校内のところどころに感知術式を設置しておいたらしいんだけど、少し前にここからロストアイテムの反応があったみたい」"
+translation = "「아까 디럭쿠 씨에게 연락이 왔거든요. 교내 곳곳에 감지 술식을 설치해 둔 모양인데, 조금 전에 여기서 로스트 아이템 반응이 있었나 봐요」"
+
+[[dialogue]]
+speaker = "プリムラ"
+original = "「ほう。あやつ、ひょうきんな態度で意外とやるのじゃ！\u3000シズハよりも、我の使い魔としてスカウトするのも悪くないかもしれぬ」"
+translation = "「호오. 그놈, 익살스러운 태도치고는 의외로 쓸모 있군! 시즈하보다 나의 사역마로 스카우트하는 것도 나쁘지 않을지도 모르느니라.」"
+
+[[dialogue]]
+speaker = "トレジアンナ"
+original = "「ただ、私の探索術式では周囲に反応が感じられませんね～。果たして、この場所にとどまってくれているかどうか……」"
+translation = "「다만 제 탐색 술식으로는 주위에 반응이 느껴지지 않네요~. 과연 이곳에 머물러 주고 있을지……」"
+
+[[dialogue]]
+speaker = "サチ"
+original = "「……！\u3000プリムラ、また体が光ってる！」"
+translation = "「……! 프리뮬라, 또 몸이 빛나고 있어!」"
+
+[[dialogue]]
+speaker = "プリムラ"
+original = "「なっ……これは……！？」"
+translation = "「나앗…… 이건……!?」"
+
+[[dialogue]]
+speaker = "プリムラ"
+original = "「また、さっきと同じじゃ！\u3000体の中で力が荒れ狂うように、制御がっ……！」"
+translation = "「또 아까와 같으니라! 몸속에서 힘이 날뛰는 것처럼 제어가……!」"
+
+[[dialogue]]
+speaker = "プリムラ"
+original = "「ぐっ……ぬあああぁぁぁーーーっ！！？」"
+translation = "「윽…… 느아아아아――앗!!?」"
+
+[[dialogue]]
+speaker = "プリムラ（覚醒）"
+original = "「ま、また……勝手に、この形態に変身を……！」"
+translation = "「또, 또…… 제멋대로 이 형태로 변신을……!」"
+
+[[dialogue]]
+speaker = "サチ"
+original = "「ということは、近くに解放のロストアイテムがいるってこと……！？」"
+translation = "「그렇다는 건 근처에 해방의 로스트 아이템이 있다는 거……!?」"
+
+[[dialogue]]
+speaker = "プリムラ（覚醒）"
+original = "「おのれ……どこに隠れておるのじゃ！\u3000貴様、出てこーいっ！\u3000人の体で遊びおって！」"
+translation = "「이놈…… 어디에 숨어 있는 것이냐! 네놈, 나오너라! 사람의 몸으로 장난질을 치다니!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "と、その時だった。"
+translation = "그때였다."
+
+[[dialogue]]
+speaker = "プリムラ（覚醒）"
+original = "「……って、今度はなんじゃ！？\u3000急に真っ暗じゃぞ！？」"
+translation = "「……앗, 이번엔 뭐냐!? 갑자기 캄캄해졌느니라!?」"
+
+[[dialogue]]
+speaker = "サチ"
+original = "「な、何ここ……！？\u3000強制的に転移させられた……！？」"
+translation = "「뭐, 뭐야 여기……!? 강제적으로 전이당했어……!?」"
+
+[[dialogue]]
+speaker = "トレジアンナ"
+original = "「……！\u3000こ、ここは……『深淵書庫』……！」"
+translation = "「……! 이, 이곳은…… 『심연서고』……!」"
+
+[[dialogue]]
+speaker = "サチ"
+original = "「この場所を知っているんですか、トレジアンナさん？」"
+translation = "「이 장소를 알고 있나요, 트레지안나 씨?」"
+
+[[dialogue]]
+speaker = "トレジアンナ"
+original = "「ええ、この場所の存在は、学園に来る前から知っていました」"
+translation = "「네, 이곳의 존재는 학원에 오기 전부터 알고 있었습니다.」"
+
+[[dialogue]]
+speaker = "プリムラ（覚醒）"
+original = "「お、おい。どういうことじゃ、ここは……」"
+translation = "「어, 어이. 어찌 된 일이냐, 여기는……」"
+
+[[dialogue]]
+speaker = "プリムラ（覚醒）"
+original = "「周りの至るところから、ロストアイテムの反応がするぞ……！？」"
+translation = "「주변 곳곳에서 로스트 아이템의 반응이 느껴지느니라……!?」"
+
+[[dialogue]]
+speaker = "トレジアンナ"
+original = "「その通りです。何故ならこの深淵書庫は――」"
+translation = "「맞습니다. 왜냐하면 이 심연서고는――」"
+
+[[dialogue]]
+speaker = "トレジアンナ"
+original = "「それ自体が回収不可能な程に巨大な、ロストアイテムだからです」"
+translation = "「그 자체로 회수 불가능할 정도로 거대한 로스트 아이템이기 때문입니다.」"
+
+[[dialogue]]
+speaker = "シズハ"
+original = "「う～ん、ここもハズレかな。ディーちゃんはどう？」"
+translation = "「으음, 여기도 꽝인가. 디짱은 어때?」"
+
+[[dialogue]]
+speaker = "ディーラック"
+original = "「残念ながら、周囲にロストアイテムの反応はないね～」"
+translation = "「유감스럽게도 주위에 로스트 아이템 반응은 없네~」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「あら～。じゃあ、次はカフェテリアの方にでも行ってみる？」"
+translation = "「어머나~. 그럼 다음은 카페테리아 쪽이라도 가 볼까?」"
+
+[[dialogue]]
+speaker = "シズハ"
+original = "「そうね。焦っても仕方ないし……みんなでまた、お喋りしながら向かおっか♪」"
+translation = "「그렇네. 서둘러도 별수 없고…… 다 같이 다시 이야기하면서 가자♪」"
+
+[[dialogue]]
+speaker = "unk"
+original = "それからカフェテリアへと足を運びつつ、俺はふと湧いてきた疑問をシズハに尋ねてみた。"
+translation = "그 후 카페테리아로 발걸음을 옮기면서 나는 문득 떠오른 의문을 시즈하에게 물어보았다."
+
+[[dialogue]]
+speaker = "シズハ"
+original = "「――ん？\u3000会長、どうしたの？\u3000私に何か聞きたいこと？」"
+translation = "「――음? 회장님, 왜 그래? 나한테 뭐 물어볼 거라도 있어?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "２ヶ月前まで病院にいたって話だったけど\nシズハはどうして、人間界に？"
+translation = "2개월 전까지 병원에 있었다는 이야기였는데, 시즈하는 어째서 인간계에?"
+
+[[dialogue]]
+speaker = "シズハ"
+original = "「え？」"
+translation = "「에?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "俺は、シズハがいつ頃から人間界に来てたのか、気になっていた。"
+translation = "나는 시즈하가 언제쯤부터 인간계에 와 있었는지 궁금했다."
+
+[[dialogue]]
+speaker = "unk"
+original = "両親は魔界にいるんだよね？"
+translation = "부모님은 마계에 계신 거지?"
+
+[[dialogue]]
+speaker = "シズハ"
+original = "「ううん？\u3000両親は昔からずっと、人間界に住んでるよ？\u3000病院にもよくお見舞いに来てくれたし……」"
+translation = "「으응? 부모님은 옛날부터 계속 인간계에 살고 계셨는데? 병원에도 자주 병문안 와 주셨고……」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「あらあら、うふふ♪\u3000もう、なに言ってるのよ、シズハったら。お父さんお母さんはずっと魔界でしょ？」"
+translation = "「어머 어머, 우후후♪ 정말, 무슨 소리니 시즈하도 참. 아빠 엄마는 계속 마계에 계셨잖니?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "そう、サーシャさんやソフィアの故郷は、俺たちが以前訪れたこともある魔界の氷雪都市『レゾフ』だ。"
+translation = "그렇다. 사샤 씨나 소피아의 고향은 우리가 이전에 방문한 적도 있는 마계의 극한지 도시 『레조프』다."
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「シズハだって、レゾフの病院でずっと……あれ？」"
+translation = "「시즈하도 레조프 병원에서 계속…… 어라?」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「シズハっていつ、人間界へ来たんだったかしら……？」"
+translation = "「시즈하가 언제 인간계로 왔었더라……?」"
+
+[[dialogue]]
+speaker = "シズハ"
+original = "「ん……？\u3000あれ？\u3000会長、今……私たち、なんの話をしてたんだっけ？」"
+translation = "「음……? 어라? 회장님, 지금…… 우리 무슨 이야기를 하고 있었지?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "え？\u3000別に変わった話題は特に……"
+translation = "에? 별로 특별한 주제는 딱히……"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「……？\u3000う～ん……でも確か、何か３人で話してたはずよね？」"
+translation = "「……? 으음…… 하지만 분명히 뭔가 셋이서 이야기하고 있었을 텐데?」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「あらあら？\u3000もしかして私たち、３人ともド忘れしちゃったのかしら？\u3000ふふっ♪\u3000やっぱり姉と妹と弟で気が合うのね～♪」"
+translation = "「어머나? 혹시 우리 셋 다 깜빡 잊어버린 걸까? 후훗♪ 역시 누나랑 여동생이랑 남동생이라 죽이 잘 맞네~♪」"
+
+[[dialogue]]
+speaker = "unk"
+original = "しれっと弟にされてる！"
+translation = "슬그머니 남동생이 되어버렸다!"
+
+[[dialogue]]
+speaker = "シズハ"
+original = "「あははっ♪\u3000ってことは～、会長は私の――お兄ちゃんってことよね♪」"
+translation = "「아하하♪ 그렇다는 건~ 회장님은 나의―― 오빠라는 거네♪」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「あら～♪」"
+translation = "「어머나~♪」"
+
+[[dialogue]]
+speaker = "シズハ"
+original = "「ねぇねぇ、お兄ちゃん♪\u3000次の場所まで、仲良く手を繋いで行こうよ～♪」"
+translation = "「저기 저기, 오빠♪ 다음 장소까지 사이좋게 손잡고 가자~♪」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「あ～ん、ずるいわよ２人共～。お姉ちゃんだけ仲間外れにしないで～」"
+translation = "「아앙, 둘 다 치사해~. 누나만 따돌리지 마~」"
+
+[[dialogue]]
+speaker = "unk"
+original = "何故かシズハとサーシャさんに挟まれるようにして手を繋ぐことになりながら、再びロストアイテム探しに戻るのだった。"
+translation = "왠지 시즈하와 사샤 씨 사이에 끼어 손을 잡게 된 채로 다시 로스트 아이템 찾기로 돌아가는 것이었다."
+

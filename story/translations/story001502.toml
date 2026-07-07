@@ -1,0 +1,375 @@
+[[dialogue]]
+speaker = "unk"
+original = "サーシャさんと２人で、サチのところに駆けつける。"
+translation = "사샤 씨와 둘이서 사치가 있는 곳으로 달려간다."
+
+[[dialogue]]
+speaker = "サチ"
+original = "「お兄さ～ん！\u3000こっちです～」"
+translation = "「오빠~! 이쪽이에요~」"
+
+[[dialogue]]
+speaker = "サチ"
+original = "「いつも協力ありがとうございます……って、あれ？\u3000サーシャ先輩？」"
+translation = "「항상 협력해 주셔서 감사합니다…… 어라? 사샤 선배?」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「サチちゃ～ん、こんにちは～。お姉ちゃんも手伝いに来ちゃった♪」"
+translation = "「사치짱~ 안녕하세요~. 누나도 도와주러 왔단다♪」"
+
+[[dialogue]]
+speaker = "サチ"
+original = "「力を貸して頂けるんですか？\u3000すごく助かります！」"
+translation = "「힘을 빌려주시는 건가요? 정말 큰 도움이 돼요!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "彼女は『流星学園附属校』の生徒で、３年生の<ruby>白詰<rt>しろつめ</rt></ruby>サチ。"
+translation = "그녀는 『유성학원 부속교』의 학생으로, 3학년인 시로츠메 사치."
+
+[[dialogue]]
+speaker = "unk"
+original = "現時点でも本校の星徒会メンバーに並ぶ程の実力を持つ星騎士であり、生まれながらの異能である『幸運体質』によって、彼女は附属校最強の『生徒会長』を務めている。"
+translation = "현시점에서도 본교의 성도회 멤버와 견줄 만한 실력을 갖춘 성기사이며, 타고난 이능인 『행운 체질』에 의해 부속교 최강의 『학생회장』을 맡고 있다."
+
+[[dialogue]]
+speaker = "unk"
+original = "そして、周りには公にしていないが『魔法少女』として、ロストアイテムと呼ばれる存在の回収を行っている。"
+translation = "그리고 주변에는 비밀로 하고 있지만 『마법소녀』로서 로스트 아이템이라 불리는 존재의 회수를 수행하고 있다."
+
+[[dialogue]]
+speaker = "unk"
+original = "サチ、いつの間にサーシャさんと\nロストアイテムの回収を……？"
+translation = "사치, 언제 사샤 씨랑 로스트 아이템 회수를……?"
+
+[[dialogue]]
+speaker = "サチ"
+original = "「そういえば、お兄さんにはそのことをまだ伝えていませんでしたね」"
+translation = "「그러고 보니 오빠에겐 그 사실을 아직 전하지 않았네요.」"
+
+[[dialogue]]
+speaker = "トレジアンナ"
+original = "「実は、サーシャさんがロストアイテム回収に協力したのは、私たちとじゃないんですよね～」"
+translation = "「사실 사샤 씨가 로스트 아이템 회수에 협력한 건 저희랑이 아니거든요~」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ふと、サチが頭に付けている四つ葉のクローバー型の髪留めが点滅して、そこから声が聞こえてくる。"
+translation = "문득 사치가 머리에 달고 있는 네잎클로버 모양의 머리핀이 점멸하며 그곳에서 목소리가 들려온다."
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「トレジアンナさん、こんにちは～♪」"
+translation = "「트레지안나 씨, 안녕하세요~♪」"
+
+[[dialogue]]
+speaker = "トレジアンナ"
+original = "「はい♪\u3000サーシャさん、こんにちはです～♪」"
+translation = "「네♪ 사샤 씨, 안녕하세요예요~♪」"
+
+[[dialogue]]
+speaker = "unk"
+original = "彼女は、喋るロストアイテムであるトレジアンナさん。正確には、ロストアイテムの中に封印されているという、本人曰く『先代の魔法少女』である。"
+translation = "그녀는 말하는 로스트 아이템인 트레지안나 씨. 정확히는 로스트 아이템 속에 봉인되어 있다는, 본인 피셜 『선대 마법소녀』다."
+
+[[dialogue]]
+speaker = "unk"
+original = "それじゃあ、サーシャさんは誰と一緒に？"
+translation = "그러면 사샤 씨는 누구랑 같이?"
+
+[[dialogue]]
+speaker = "プリムラ"
+original = "「おお！\u3000待っていたぞ、我が眷族よ！\u3000それに今日は、サーシャも一緒か！」"
+translation = "「오오! 기다리고 있었다, 나의 권속이여! 게다가 오늘은 사샤도 함께인가!」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「あっ、プリムラちゃ～ん！\u3000そうなの～♪」"
+translation = "「앗, 프리뮬라짱~! 그렇단다♪」"
+
+[[dialogue]]
+speaker = "プリムラ"
+original = "「って、わわっ！？\u3000こら、貴様！\u3000気安く我にハグするでない！\u3000我は泣く子も黙る悪の終末兵器なのじゃぞ！？」"
+translation = "「앗, 와와!? 이봐, 네놈! 스스럼없이 나에게 허그하지 마라! 나는 우는 아이도 그치게 하는 악의 종말병기이니라!?」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「ふふっ、プリムラちゃん、今日もぷにぷにもちもち肌ね～♪\u3000お姉ちゃん、ついついくっ付きたくなっちゃう♪」"
+translation = "「후후, 프리뮬라짱, 오늘도 말랑말랑 쫀득쫀득한 피부네~♪ 누나도 모르게 달라붙고 싶어진단다♪」"
+
+[[dialogue]]
+speaker = "プリムラ"
+original = "「なに？\u3000貴様ァ……！」"
+translation = "「뭐냐? 네놈이……!」"
+
+[[dialogue]]
+speaker = "プリムラ"
+original = "「ふっ、ふふふっ♪\u3000まぁ、我のボディは、賢者の石によって作られたスペシャルボディじゃからな♪」"
+translation = "「훗, 후후후♪ 뭐, 나의 바디는 현자의 돌에 의해 만들어진 스페셜 바디니까 말이니라♪」"
+
+[[dialogue]]
+speaker = "プリムラ"
+original = "「そんじょそこらの柔らかクッションとは比べ物にならない程に魅力的なのは、当然のことなのじゃ！」"
+translation = "「그저 그런 부드러운 쿠션 따위와는 비교도 안 될 정도로 매력적인 건 당연한 일이니라!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "相変わらず、チョロい……！"
+translation = "여전히 넘어오기 쉽군……!"
+
+[[dialogue]]
+speaker = "トレジアンナ"
+original = "「プリムラさん、褒められるのに弱いですからね～」"
+translation = "「프리뮬라 씨, 칭찬에 약하니까요~」"
+
+[[dialogue]]
+speaker = "プリムラ"
+original = "「はあ！？\u3000何を言う、我は喜んでなどおらぬのじゃ！」"
+translation = "「하아!? 무슨 소리냐, 나는 기뻐하지 않았느니라!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "――彼女は、流星学園附属校２年のプリムラ。"
+translation = "――그녀는 유성학원 부속교 2학년인 프리뮬라."
+
+[[dialogue]]
+speaker = "unk"
+original = "学園の登録上では魔族ということになっているが、その正体は『創造』のロストアイテム『賢者の石』を核として創られた、終末兵器である。"
+translation = "학원 등록상으로는 마족으로 되어 있으나, 그 정체는 『창조』의 로스트 아이템 『현자의 돌』을 핵으로 만들어진 종말병기다."
+
+[[dialogue]]
+speaker = "unk"
+original = "１年以上前に何者かによって流星市国に投入されたが、サチがその場に居合わせたことで未然に制圧。"
+translation = "1년 이상 전에 누군가에 의해 유성시국에 투입되었으나, 사치가 그 자리에 있었던 덕분에 미연에 제압."
+
+[[dialogue]]
+speaker = "unk"
+original = "それから紆余曲折あり、現在はサチと共にロストアイテム回収を行っている。"
+translation = "그 후 여러 우여곡절을 거쳐 현재는 사치와 함께 로스트 아이템 회수를 하고 있다."
+
+[[dialogue]]
+speaker = "プリムラ"
+original = "「コホン！\u3000……戯言はそこまでにして、じゃ！\u3000今し方、その辺りを少し見回ってきたが、ロストアイテムの気配はかなり近くなっておるぞ」"
+translation = "「코흠! ……농담은 거기까지 하도록 하느니라! 방금 저 근처를 조금 둘러보았는데, 로스트 아이템의 기운이 상당히 가까워졌느니라.」"
+
+[[dialogue]]
+speaker = "サチ"
+original = "「って、見つけた！\u3000あそこに！」"
+translation = "「앗, 찾았다! 저기에!」"
+
+[[dialogue]]
+speaker = "ロストアイテム"
+original = "「…………」"
+translation = "「…………」"
+
+[[dialogue]]
+speaker = "プリムラ"
+original = "「よし、行くぞサチ！」"
+translation = "「좋아, 가자 사치!」"
+
+[[dialogue]]
+speaker = "サチ"
+original = "「うん！\u3000プリムラ！」"
+translation = "「응! 프리뮬라!」"
+
+[[dialogue]]
+speaker = "２人"
+original = "「変身！」"
+translation = "「변신!」"
+
+[[dialogue]]
+speaker = "プリムラ"
+original = "「さあ、しかと見よ！\u3000我は悪の終末兵器にして、いずれ世界を支配する者！\u3000漆黒の魔法少女、プリムラ†ノワール！」"
+translation = "「자, 똑똑히 보거라! 나는 악의 종말병기이자 조만간 세계를 지배할 자! 칠흑의 마법소녀, 프리뮬라†누아르!」"
+
+[[dialogue]]
+speaker = "トレジアンナ"
+original = "「そして、キュートでマジカルトレジャーな我らが主役♪\u3000幸運の魔法少女トレジャー☆サチ！」"
+translation = "「그리고 큐트하고 매지컬 트레저한 우리들의 주역♪ 행운의 마법소녀 트레저☆사치!」"
+
+[[dialogue]]
+speaker = "サチ"
+original = "「だからっ、名乗りはいらないって毎回言ってるのに！\u3000いいからロストアイテム回収、始めますよ！」"
+translation = "「그러니까, 자기소개는 필요 없다고 매번 말하는데! 됐으니까 로스트 아이템 회수, 시작할게요!」"
+
+[[dialogue]]
+speaker = "？？？"
+original = "「おっと、私も忘れてもらっちゃ困るわ！」"
+translation = "「오호, 나도 잊어주면 곤란해!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "声のした方を振り向くと、そこにいたのは――"
+translation = "목소리가 들린 쪽을 돌아보자 그곳에 있었던 것은――"
+
+[[dialogue]]
+speaker = "サチ"
+original = "「シズハちゃん！」"
+translation = "「시즈하짱!」"
+
+[[dialogue]]
+speaker = "プリムラ"
+original = "「遅いぞ、シズハ！」"
+translation = "「늦다, 시즈하!」"
+
+[[dialogue]]
+speaker = "シズハ"
+original = "「ごめんごめん♪\u3000まだ学園の地理に慣れてなくて、場所がすぐにわからなくて～」"
+translation = "「미안 미안♪ 아직 학원 지리에 익숙하지 않아서 장소를 바로 알 수가 없었어~」"
+
+[[dialogue]]
+speaker = "unk"
+original = "えっ……誰！？"
+translation = "엣…… 누구!?"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「あら～♪\u3000シズハ～！」"
+translation = "「어머나~♪ 시즈하~!」"
+
+[[dialogue]]
+speaker = "シズハ"
+original = "「って、お姉ちゃん！？\u3000もしかして、手伝いに来てくれたの？」"
+translation = "「엇, 누나!? 혹시 도와주러 온 거야?」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「ええ♪\u3000サチちゃんからの連絡を聞いてね」"
+translation = "「응♪ 사치짱의 연락을 듣고 왔지.」"
+
+[[dialogue]]
+speaker = "シズハ"
+original = "「わぁっ♪\u3000嬉しい！\u3000お姉ちゃんと一緒なら、私、百人力だよ～♪」"
+translation = "「와아♪ 기뻐! 누나랑 함께라면 나, 백인천력이야~♪」"
+
+[[dialogue]]
+speaker = "unk"
+original = "サーシャさん、この子を知ってるんですか？"
+translation = "사샤 씨, 이 아이를 아나요?"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「ええ。ほら、前に話したことがあったでしょう？\u3000私にはソフィのほかに、もう１人妹がいるって」"
+translation = "「응. 봐, 전에 이야기한 적 있었지? 나에겐 소피 말고 또 한 명의 여동생이 있다고.」"
+
+[[dialogue]]
+speaker = "unk"
+original = "えっ！？\u3000もう１人の妹……？"
+translation = "에!? 또 한 명의 여동생……?"
+
+[[dialogue]]
+speaker = "unk"
+original = "――そんなの、聞いたことあったっけ……？"
+translation = "――그런 거, 들은 적 있었나……?"
+
+[[dialogue]]
+speaker = "シズハ"
+original = "「あっ！\u3000新星学園の会長さんは初めましてだね♪\u3000でも、まずは先に、ロストアイテムを回収しちゃわないと！」"
+translation = "「앗! 신성학원의 회장님은 처음 뵙겠네♪ 하지만 일단 먼저 로스트 아이템을 회수해야지!」"
+
+[[dialogue]]
+speaker = "シズハ"
+original = "「――変身！」"
+translation = "「――변신!」"
+
+[[dialogue]]
+speaker = "シズハ"
+original = "「じゃ～ん！\u3000魔法少女グレイル☆シズハ、ここに参上！」"
+translation = "「짠! 마법소녀 그레일☆시즈하, 여기에 등장!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "３人目の魔法少女……！？"
+translation = "세 번째 마법소녀……!?"
+
+[[dialogue]]
+speaker = "シズハ"
+original = "「うん！\u3000実はそうなんだ♪」"
+translation = "「응! 사실 그렇단다♪」"
+
+[[dialogue]]
+speaker = "シズハ"
+original = "「よ～し、張り切って頑張っちゃうよ～！\u3000お姉ちゃんや会長さんに、カッコいいとこ見せちゃうんだから！」"
+translation = "「좋~아, 기운 내서 가보자고~! 누나랑 회장님한테 멋진 모습 보여줄 거니까!」"
+
+[[dialogue]]
+speaker = "ロストアイテム"
+original = "「…………」"
+translation = "「…………」"
+
+[[dialogue]]
+speaker = "シズハ"
+original = "「きゃっ！？\u3000なんかロストアイテムが光って……！？」"
+translation = "「꺄악!? 왠지 로스트 아이템이 빛나서……!?」"
+
+[[dialogue]]
+speaker = "シズハ"
+original = "「姿が消えた……！？\u3000一体どこに……！？」"
+translation = "「모습이 사라졌어……!? 대체 어디로……!?」"
+
+[[dialogue]]
+speaker = "プリムラ"
+original = "「ぐっ……！？」"
+translation = "「윽……!?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ふと、プリムラの様子がおかしいことに気づく。何だか苦しげな顔をしていて――"
+translation = "문득 프리뮬라의 상태가 이상하다는 것을 깨닫는다. 어딘가 괴로운 얼굴을 하고 있어서――"
+
+[[dialogue]]
+speaker = "プリムラ"
+original = "「か、体が急に熱く……！\u3000な、なんじゃこれは……ロストアイテムの能力か……！？」"
+translation = "「모, 몸이 갑자기 뜨겁게……! 이, 이건 뭐냐…… 로스트 아이템의 능력인가……!?」"
+
+[[dialogue]]
+speaker = "サチ"
+original = "「プリムラ、どうしたの……！？\u3000大丈夫！？」"
+translation = "「프리뮬라, 왜 그래……!? 괜찮아!?」"
+
+[[dialogue]]
+speaker = "プリムラ"
+original = "「だ、ダメじゃ……体が勝手に変形して……！\u3000うっ……ぬああぁーーーっ！？」"
+translation = "「안, 안 되겠느니라…… 몸이 제멋대로 변형돼서……! 윽…… 느아아아――앗!?」"
+
+[[dialogue]]
+speaker = "サチ"
+original = "「プリムラーー！？」"
+translation = "「프리뮬라――!!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "プリムラの体から眩い光が広がり、それが収まると――"
+translation = "프리뮬라의 몸에서 눈부신 빛이 퍼지고, 그것이 가라앉자――"
+
+[[dialogue]]
+speaker = "プリムラ（覚醒）"
+original = "「こ、これは……！」"
+translation = "「이, 이것은……!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "プリムラの戦闘服が変化した……！？"
+translation = "프리뮬라의 전투복이 변화했다……!?"
+
+[[dialogue]]
+speaker = "プリムラ（覚醒）"
+original = "「力が溢れて来る……まさか、封印されていた我の力が、引き出されているのか！？」"
+translation = "「힘이 넘쳐흐른다…… 설마 봉인되어 있던 나의 힘이 끌어내 지고 있는 것인가!?」"
+
+[[dialogue]]
+speaker = "トレジアンナ"
+original = "「あのロストアイテム、私も知らない物でしたが……鍵の形状をしていましたね」"
+translation = "「저 로스트 아이템, 저도 모르는 물건이었습니다만…… 열쇠 형태를 하고 있었네요.」"
+
+[[dialogue]]
+speaker = "トレジアンナ"
+original = "「封印を解く『解放』のロストアイテム、ということでしょうか……？」"
+translation = "「봉인을 푸는 『해방의 로스트 아이템』이라는 걸까요……?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "こうして、ロストアイテムを巡る新たな騒動が、幕を開けるのだった――"
+translation = "이렇게 로스트 아이템을 둘러싼 새로운 소동이 막을 올리는 것이었다――"
+

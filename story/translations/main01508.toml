@@ -1,0 +1,205 @@
+[[dialogue]]
+speaker = "unk"
+original = "第１０話,奥の手,B"
+translation = "제10화, 비장의 수, B"
+
+[[dialogue]]
+speaker = "クラウディア（黄昏）"
+original = "「──っふ」"
+translation = "「──훗」"
+
+[[dialogue]]
+speaker = "クラウディア（黄昏）"
+original = "「ここまで……か……」"
+translation = "「여기까지……인가……」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「ふぅ、ふぅ……っ……！\u3000なんとか──」"
+translation = "「후우, 후우……윽……! 어떻게든──」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「強すぎでした……覚醒した会長もいて、これとは……！」"
+translation = "「너무 강했습니다…… 각성한 회장도 있는데, 이 정도라니……!」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「ああ──ようやく超えられた……って感じだな」"
+translation = "「아아── 겨우 넘어섰다……는 느낌이네.」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「ほんと……なんで負けた側が、満足げにしちゃってんのよ……」"
+translation = "「정말…… 왜 진 쪽이, 만족스러운 표정을 짓고 있는 거야……」"
+
+[[dialogue]]
+speaker = "クラウディア（黄昏）"
+original = "「わはは……よいではないか。余も、久方ぶりに全力を出せて満足したのだ」"
+translation = "「와하하…… 좋지 않으냐. 여도, 오랜만에 전력을 낼 수 있어서 만족했다.」"
+
+[[dialogue]]
+speaker = "unk"
+original = "クラウディアは諸手を広げて、そのままバタリと後ろに倒れ込んだ。"
+translation = "클라우디아는 양팔을 벌리고, 그대로 털썩 뒤로 쓰러졌다."
+
+[[dialogue]]
+speaker = "セドナ"
+original = "「だが……どうするつもりだ。貴様らの作戦が──何もかもうまくいかなかったとしたら……？」"
+translation = "「하지만…… 어떻게 할 셈이냐. 너희들의 작전이── 아무것도 제대로 되지 않았다고 한다면……?」"
+
+[[dialogue]]
+speaker = "リノ"
+original = "「それは──」"
+translation = "「그건──」"
+
+[[dialogue]]
+speaker = "unk"
+original = "つまり、アポロの仮面を剥がせなかった場合。"
+translation = "즉, 아폴로의 가면을 벗겨내지 못했을 경우."
+
+[[dialogue]]
+speaker = "unk"
+original = "もしくは、覚醒した魔王２人でもっても、アポロに敵わなかった場合。"
+translation = "혹은, 각성한 마왕 두 명으로도, 아폴로에게 당해내지 못했을 경우."
+
+[[dialogue]]
+speaker = "unk"
+original = "あるいは、すべてがうまく運んだとしても、シエルの筐に仮面を封印できなかった場合。"
+translation = "또는, 모든 것이 잘 풀렸다고 해도, 시엘의 궤에 가면을 봉인하지 못했을 경우."
+
+[[dialogue]]
+speaker = "unk"
+original = "失敗する恐れはいくらだってある。でも──"
+translation = "실패할 위험은 얼마든지 있다. 하지만──"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「いや……大丈夫だ。俺にも案がある」"
+translation = "「아니…… 괜찮아. 나에게도 방안이 있어.」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「もし最悪の事態になっても、リクリエだけは食い止めてみせる。それが、<ruby>魔女<rt>あなた</rt></ruby>たちを超えていく者の責任のはずだから」"
+translation = "「만약 최악의 사태가 되어도, 리크리에만은 막아 보이겠다. 그것이, 마녀들을 넘어서는 자의 책임일 테니까.」"
+
+[[dialogue]]
+speaker = "セドナ"
+original = "「ほう……」"
+translation = "「호오……」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「会長……？」"
+translation = "「회장……?」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「それってどういう──」"
+translation = "「그건 대체 무슨──」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「まだ明かせない。今はまだ、アポロをどうにかするのが理想で先決だ」"
+translation = "「아직 밝힐 수 없어. 지금은 아직, 아폴로를 어떻게든 하는 것이 이상적이고 선결이다.」"
+
+[[dialogue]]
+speaker = "unk"
+original = "俺のルーツと、シエルの筐という道具と、リクリエの使徒の特性と。"
+translation = "나의 근원과, 시엘의 궤라는 도구와, 리크리에의 사도의 특성과."
+
+[[dialogue]]
+speaker = "unk"
+original = "これまでの情報をまとめて判断した結果だ。うまくいく保証はないが、最悪の場合はなんとかする──してみせる。"
+translation = "지금까지의 정보를 모아 판단한 결과다. 잘 될 거라는 보장은 없지만, 최악의 경우에는 어떻게든 한다── 해 보이겠다."
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「──いえ」"
+translation = "「──아닙니다.」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「それには及びません。緋宮会長。あなたが考えているプランは、代わりに私が実行します」"
+translation = "「그럴 필요는 없습니다. 히노미야 회장. 당신이 생각하고 있는 플랜은, 대신 제가 실행하겠습니다.」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「……フィオナ。でも」"
+translation = "「……피오나. 하지만」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「お互い様でしょう。それに……お母様の前で、そんな宣言はさせられません」"
+translation = "「피차일반이잖아요. 게다가…… 어머님 앞에서, 그런 선언은 하게 할 수 없습니다.」"
+
+[[dialogue]]
+speaker = "unk"
+original = "目線だけでたしなめられてしまった。"
+translation = "눈빛만으로 타이름을 당해 버렸다."
+
+[[dialogue]]
+speaker = "unk"
+original = "考えることはお互い一緒、というわけか……。"
+translation = "생각하는 것은 서로 같다는 건가…….」"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「……？\u3000何やらわかりませんが──奥の手があるってことは……いいこと、ですよね？」"
+translation = "「……? 뭔지는 모르겠지만── 비장의 수가 있다는 건…… 좋은 일, 이겠죠?」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「……ええ。私たちのなすべきは変わりません」"
+translation = "「……네. 우리가 해야 할 일은 변하지 않습니다.」"
+
+[[dialogue]]
+speaker = "ニャリオン"
+original = "「フィオナ嬢がそう言うのなら安心ニャン！\u3000そうと決まればさっそく塔を昇るのニャン！」"
+translation = "「피오나 아가씨가 그렇게 말한다면 안심이냥! 그렇게 결정됐으니 당장 탑을 오르는 거냥!」"
+
+[[dialogue]]
+speaker = "ソフィア"
+original = "「た、高すぎて目まいがするほどですが……ふぅ。気合を入れますよ」"
+translation = "「너, 너무 높아서 현기증이 날 정도지만…… 후우. 기합을 넣겠습니다.」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「母さんは……」"
+translation = "「엄마는……」"
+
+[[dialogue]]
+speaker = "リノ"
+original = "「当然向かうわ。組織に背いた責任は、最後まで取らせてもらわないとね」"
+translation = "「당연히 갈 거야. 조직을 등진 책임은, 끝까지 지게 해야지.」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「これでフルメンバーですね」"
+translation = "「이걸로 풀 멤버네요.」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「フィーニスの塔のてっぺんまで……よ、よし！\u3000頑張るよ！」"
+translation = "「피니스의 탑 꼭대기까지…… 조, 좋아! 힘낼게!」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「ええ、入るわよ──一刻も早く、アポロのところへ向かうために！」"
+translation = "「응, 들어갈게── 한시라도 빨리, 아폴로에게로 향하기 위해서!」"
+
+[[dialogue]]
+speaker = "ユウリ"
+original = "「おう！\u3000今度こそわからせてやんねえとな！」"
+translation = "「오우! 이번에야말로 깨닫게 해 줘야지!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "目指すはフィーニスの頂上──"
+translation = "목표는 피니스의 정상──"
+
+[[dialogue]]
+speaker = "unk"
+original = "決戦の時は、刻一刻と近づいていた。"
+translation = "결전의 시간은, 시시각각 다가오고 있었다."
+

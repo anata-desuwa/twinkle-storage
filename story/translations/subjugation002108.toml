@@ -1,0 +1,235 @@
+[[dialogue]]
+speaker = "エンジュ"
+original = "「ぅ……ぁ……──」"
+translation = "「으…… 아……──」"
+
+[[dialogue]]
+speaker = "メテオラ"
+original = "「あぁああああぁぁぁぁっ！！！」"
+translation = "「아아아아아아아아악!!!」"
+
+[[dialogue]]
+speaker = "リーリア"
+original = "「ウソ、立ち上がった！？\u3000コラプサーって不死身なんですかっ！？」"
+translation = "「거짓말, 일어섰어!? 콜랩서는 불사신인가요!?」"
+
+[[dialogue]]
+speaker = "コハルコ"
+original = "「なんか様子が変……！？\u3000正気じゃ……ない……？」"
+translation = "「뭔가 상태가 이상해……!? 제정신이…… 아니야……?」"
+
+[[dialogue]]
+speaker = "エンジュ"
+original = "「声……声が……声が聞こえる……うるさい……おまえらっ、うるさいっ、うるざいぃぃっ！」"
+translation = "「목소리…… 목소리가…… 목소리가 들려…… 시끄러워…… 너희들, 시끄러워, 시끄럽다구우우!」"
+
+[[dialogue]]
+speaker = "メテオラ"
+original = "「おまえたち、悪いやつ……許さない、ぜったい、ぜったい、ゆるさ、ないいぃいぃ……！」"
+translation = "「너희들, 나쁜 녀석…… 용서 못 해, 절대, 절대, 용서, 안 해애애애……!」"
+
+[[dialogue]]
+speaker = "エンジュ"
+original = "「うぁ……頭が……痛い痛い痛いぃッ！\u3000星騎士、は……潰す、ぶっっっ潰すぅッ！」"
+translation = "「으아…… 머리가…… 아파 아파 아파악! 성기사, 는…… 짓뭉개, 지이잇뭉개 줄 테다앗!」"
+
+[[dialogue]]
+speaker = "リーリア"
+original = "「きゃぁああああぁあぁっ！？」"
+translation = "「꺄아아아아악!?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "なんだ、この力っ！？"
+translation = "뭐지, 이 힘은!?"
+
+[[dialogue]]
+speaker = "ヒルディオーネ"
+original = "「ッ……！？\u3000凄まじい衝撃ですわ……！」"
+translation = "「윽……!? 어마어마한 충격이에요……!」"
+
+[[dialogue]]
+speaker = "リーリア"
+original = "「この感じ、星力でも魔力でもない……！？\u3000どうなってるんですか！？」"
+translation = "「이 느낌, 성력도 마력도 아니야……!? 어떻게 된 거죠!?」"
+
+[[dialogue]]
+speaker = "メテオラ"
+original = "「うぅあああああああっっっ！！！」"
+translation = "「으으아아아아아아아아앗!!!」"
+
+[[dialogue]]
+speaker = "エンジュ"
+original = "「おおぉぉおおおーーーッッ！！！」"
+translation = "「오오오오오오오오오오옷!!!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "獣のような咆哮と共に、メテオラとエンジュの体から力が弾けて──"
+translation = "짐승 같은 포효와 함께 메테오라와 엔쥬의 몸에서 힘이 터져 나오며──"
+
+[[dialogue]]
+speaker = "unk"
+original = "コラプサーの異常は、新星学園内部だけではなかった。"
+translation = "콜랩서의 이상은 신성학원 내부뿐만이 아니었다."
+
+[[dialogue]]
+speaker = "キサナ"
+original = "「んがぁあぁああっ！！\u3000止めろ！\u3000声を！\u3000止めろっつってんだよぉぉッ！！」"
+translation = "「으아아아아아악!! 멈춰! 목소리를! 멈추라고 했잖아아악!!」"
+
+[[dialogue]]
+speaker = "ミア"
+original = "「な、何が起こってるの！？\u3000話がまったく通じなくなってるし、無差別に大暴れするし、あいつもう正気じゃ──」"
+translation = "「무, 무슨 일이 일어나는 거야!? 말이 전혀 안 통하게 됐고, 무차별적으로 날뛰고 있고, 저 녀석 이제 제정신이──」"
+
+[[dialogue]]
+speaker = "キサナ"
+original = "「ぅあ……あ……あっ──！？」"
+translation = "「으아…… 아…… 앗──!?」"
+
+[[dialogue]]
+speaker = "ミア"
+original = "「え……動きが、止まった……？\u3000倒れちゃった……また動き出したりしないわよね……？\u3000まるで電池の切れたオモチャみたい……」"
+translation = "「어…… 움직임이 멈췄어……? 쓰러졌네…… 다시 움직이거나 하진 않겠지……? 마치 배터리 다 된 장난감 같아……」"
+
+[[dialogue]]
+speaker = "ミア"
+original = "「──えっと……こちら、ミアです。戦闘終了……劣勢でしたが、対象は突然、沈黙……動き出す気配はありません」"
+translation = "「──저기…… 여기는 미아. 전투 종료…… 열세였습니다만, 대상은 갑자기 침묵…… 움직일 기미는 없습니다.」"
+
+[[dialogue]]
+speaker = "ミア"
+original = "「えっ、他の地域のコラプサーも、同じように暴れ出して、急に大人しくなった……？\u3000了解です、ありがとうございます。お疲れさまでした」"
+translation = "「엣, 다른 지역의 콜랩서도 똑같이 날뛰다가 갑자기 얌전해졌다고요……? 알겠습니다, 감사합니다. 수고하셨습니다.」"
+
+[[dialogue]]
+speaker = "ミア"
+original = "「うーん……なんか腑に落ちないわね……気味が悪い」"
+translation = "「으음…… 뭔가 개운치 않네…… 기분 나빠.」"
+
+[[dialogue]]
+speaker = "キサナ"
+original = "「…………」"
+translation = "「…………」"
+
+[[dialogue]]
+speaker = "ミア"
+original = "「とりあえず、この人と戦うのは、もう勘弁。数奇なご縁もこれっきりにしたいものだわ……」"
+translation = "「일단 이 사람이랑 싸우는 건 이제 사양. 기구한 인연도 이걸로 끝내고 싶어지네……」"
+
+[[dialogue]]
+speaker = "unk"
+original = "エンジュとメテオラから迸った衝撃が、俺達を巻き込んでトレーニング施設を破壊する。"
+translation = "엔쥬와 메테오라로부터 뿜어져 나온 충격이 우리를 휘말리게 하며 트레이닝 시설을 파괴한다."
+
+[[dialogue]]
+speaker = "unk"
+original = "先ほどとは違い、今立っているのはコラプサーの２人の方だった。"
+translation = "조금 전과는 달리 지금 서 있는 것은 콜랩서 두 사람 쪽이었다."
+
+[[dialogue]]
+speaker = "エンジュ"
+original = "「はっ！？\u3000何が起こった！？」"
+translation = "「핫!? 무슨 일이 일어난 거지!?」"
+
+[[dialogue]]
+speaker = "メテオラ"
+original = "「体がボロボロだぞっ……おまえらがやったんだな！？\u3000くそーっ！」"
+translation = "「몸이 너덜너덜하다구…… 너희들이 한 짓이구나!? 젠장!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "正気を取り戻した！？"
+translation = "제정신을 차렸어!?"
+
+[[dialogue]]
+speaker = "エンジュ"
+original = "「な、なんだ？\u3000どうなってる、あたしら、やられたはずじゃ──いや、今はどうでもいい、コハルコを捕まえるぞっ！」"
+translation = "「뭐, 뭐야? 어떻게 된 거지, 우리 당했을 텐데── 아니, 지금은 아무래도 좋아, 코하루코를 붙잡는다!」"
+
+[[dialogue]]
+speaker = "メテオラ"
+original = "「おう！\u3000あたしたちの勝ちなのだ！」"
+translation = "「오우! 우리들의 승리다구!」"
+
+[[dialogue]]
+speaker = "エンジュ"
+original = "「コハルコ、お前を連れ帰れば、あたしたちの悲願は達成される！」"
+translation = "「코하루코, 너를 데려가면 우리들의 비원은 달성된다!」"
+
+[[dialogue]]
+speaker = "コハルコ"
+original = "「こ、来ないでっ！」"
+translation = "「오, 오지 마!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "執念で迫りくるコラプサーに対し、コハルコさんは両手を向けた。"
+translation = "집념으로 다가오는 콜랩서를 향해 코하루코 씨는 양손을 내밀었다."
+
+[[dialogue]]
+speaker = "メテオラ"
+original = "「無駄だぞっ……体はボロボロでもあたしたちは星力を吸収し──」"
+translation = "「소용없다구…… 몸은 너덜너덜해도 우리들은 성력을 흡수해서──」"
+
+[[dialogue]]
+speaker = "unk"
+original = "しかし放たれたのはドローンの射撃ではなく、彼女自身の手から生み出された光の矢だった。"
+translation = "하지만 발사된 것은 드론의 사격이 아니라, 그녀 자신의 손에서 만들어진 빛의 화살이었다."
+
+[[dialogue]]
+speaker = "エンジュ"
+original = "「ぐぁあぁぁっ！\u3000吸収、できないっ……？\u3000これは、まりょ……く……？」"
+translation = "「구아아악! 흡수할 수 없어……? 이건, 마려…… 력……?」"
+
+[[dialogue]]
+speaker = "メテオラ"
+original = "「今の、なんなんだぞ……！？」"
+translation = "「방금 건 대체 뭐냐구……!?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "コハルコさんが放った光は、何度攻撃を喰らっても立ち上がり続けたコラプサーたちへの最後の一撃となった。"
+translation = "코하루코 씨가 쏜 빛은 몇 번이나 공격을 당해도 계속 일어났던 콜랩서들에게 최후의 일격이 되었다."
+
+[[dialogue]]
+speaker = "ヒルディオーネ"
+original = "「はぁ、はぁ……動かなくなりましたわね。今度こそ私たちの勝ち……ですわね」"
+translation = "「하아, 하아…… 움직이지 않게 되었군요. 이번에야말로 저희의 승리……네요.」"
+
+[[dialogue]]
+speaker = "リーリア"
+original = "「ふう……お見事なフィニッシュブローでしたね、コハルコ先輩」"
+translation = "「후우…… 훌륭한 피니시 블로우였어요, 코하루코 선배.」"
+
+[[dialogue]]
+speaker = "コハルコ"
+original = "「…………」"
+translation = "「…………」"
+
+[[dialogue]]
+speaker = "コハルコ"
+original = "「……私が彼女たちに放った咄嗟の一撃……星力を使ったのなら、コラプサーの力によって無力化されたはず。だけど今の力は──」"
+translation = "「……내가 그녀들에게 쏜 필사적인 일격…… 성력을 사용했다면 콜랩서의 힘에 의해 무력화되었을 터. 하지만 지금의 힘은──」"
+
+[[dialogue]]
+speaker = "リーリア"
+original = "「あ～……さすがっていうか、当然っていうか……やっぱり、コハルコ先輩なら気づいちゃいますよね……」"
+translation = "「아~…… 역시랄까, 당연하달까…… 역시 코하루코 선배라면 알아채 버리시네요……」"
+
+[[dialogue]]
+speaker = "unk"
+original = "全てを知っていたリーリアは観念したように、それでいて、複雑そうな面持ちで。"
+translation = "모든 것을 알고 있던 리리아는 체념한 듯이, 그러면서도 복잡한 표정으로."
+
+[[dialogue]]
+speaker = "リーリア"
+original = "「コハルコ先輩、あなたの正体は魔女なんです」"
+translation = "「코하루코 선배, 당신의 정체는 마녀예요.」"
+
+[[dialogue]]
+speaker = "unk"
+original = "そう、はっきりと告げたのだった。"
+translation = "그렇게 똑똑히 알렸던 것이다."
+

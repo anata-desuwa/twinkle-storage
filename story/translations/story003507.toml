@@ -1,0 +1,420 @@
+[[dialogue]]
+speaker = "unk"
+original = "メルエルが『大聖堂』へ行くと、そこには小さなメルエルが１人で待っていた。"
+translation = "메루엘이 『대성당』으로 가자, 그곳에는 어린 메루엘이 혼자 기다리고 있었다."
+
+[[dialogue]]
+speaker = "メルエル"
+original = "「やっぱり、ここにいた……！」"
+translation = "「역시 여기 있었구나……!」"
+
+[[dialogue]]
+speaker = "メルエル（幼少）"
+original = "「……やっぱり、私自身には隠し通せないか」"
+translation = "「……역시 나 자신에겐 숨길 수 없는 걸까.」"
+
+[[dialogue]]
+speaker = "メルエル"
+original = "「うん。ここは昔……私が会長くんと約束を交わした場所だからね」"
+translation = "「응. 여기는 옛날에…… 내가 회장군과 약속을 나눴던 장소니까.」"
+
+[[dialogue]]
+speaker = "メルエル"
+original = "「私から告白するなら、ここに会長くんを呼び出してするって思ったから……」"
+translation = "「내가 고백한다면 여기에 회장군을 불러내서 하겠다고 생각했으니까……」"
+
+[[dialogue]]
+speaker = "メルエル（幼少）"
+original = "「……ねぇ、どうして邪魔をするの？」"
+translation = "「……저기, 왜 방해하는 거야?」"
+
+[[dialogue]]
+speaker = "メルエル（幼少）"
+original = "「私は、今まで勇気が出せなくて、会長くんに本当の気持ちを言うことができなかった」"
+translation = "「나는 지금까지 용기가 나지 않아서 회장군에게 진짜 마음을 말할 수 없었어.」"
+
+[[dialogue]]
+speaker = "メルエル（幼少）"
+original = "「だからこそ、今回はチャンスなのに。だって――」"
+translation = "「그렇기에 이번이 기회인데. 왜냐면――」"
+
+[[dialogue]]
+speaker = "メルエル（幼少）"
+original = "「小さい姿の私は、<b>精神強化の能力</b>によって、普段の私よりも『勇気を出す』ことができるって、前に説明しておいたでしょ？」"
+translation = "「작은 모습의 나는 <b>정신</b> <b>강화</b> <b>능력</b> 덕분에 평소의 나보다 『용기를 내는 것』이 가능하다고 전에 설명했잖아?」"
+
+[[dialogue]]
+speaker = "メルエル"
+original = "「うん。確かに、私は今まで勇気が足りてなかった。それでも――」"
+translation = "「응. 확실히 나는 지금까지 용기가 부족했어. 그래도――」"
+
+[[dialogue]]
+speaker = "メルエル"
+original = "「会長くんへの気持ちだけは、あなたにも譲れないよ」"
+translation = "「회장군을 향한 마음만큼은 너에게도 양보할 수 없어.」"
+
+[[dialogue]]
+speaker = "メルエル"
+original = "「告白は、能力を使わずに……自分自身の力でちゃんとしたい」"
+translation = "「고백은 능력을 쓰지 않고…… 나 자신의 힘으로 제대로 하고 싶어.」"
+
+[[dialogue]]
+speaker = "メルエル（幼少）"
+original = "「……そんな綺麗ごとばっかり言って。じゃあどうして、その自分自身の力で、ちゃんと告白しなかったの」"
+translation = "「……그런 입바른 소리만 하고. 그럼 왜 지금까지 그 나 자신의 힘으로 제대로 고백하지 않았던 거야?」"
+
+[[dialogue]]
+speaker = "メルエル"
+original = "「言い訳にはなっちゃうんだけど……聞いて欲しいな」"
+translation = "「변명이 되겠지만…… 들어줬으면 좋겠어.」"
+
+[[dialogue]]
+speaker = "メルエル"
+original = "「もし、もしね……？\u3000会長くんが私と一緒に遊んだ１０年前の記憶を覚えてたら……」"
+translation = "「만약, 만약에 말이야……? 회장군이 나랑 같이 놀았던 10년 전의 기억을 기억하고 있었다면……」"
+
+[[dialogue]]
+speaker = "メルエル"
+original = "「そうじゃなかったとしても、断片的にでも思い出してくれていたら、私はすぐにでも告白したと思うんだ」"
+translation = "「그렇지 않더라도 단편적으로나마 떠올려 주었다면, 나는 당장이라도 고백했을 거라고 생각해.」"
+
+[[dialogue]]
+speaker = "メルエル"
+original = "「でもね……会長くんは覚えてなかった。再会の約束も……『<ruby>結婚<rt>もうひとつ</rt></ruby>』の約束も」"
+translation = "「하지만…… 회장군은 기억하지 못했어. 재회의 약속도…… 『결혼』의 약속도.」"
+
+[[dialogue]]
+speaker = "メルエル"
+original = "「そんな会長くんに、私が告白するのは……迷惑になっちゃうかもって、ずっと思ってたの」"
+translation = "「그런 회장군에게 내가 고백하는 건…… 폐가 될지도 모른다고 계속 생각했어.」"
+
+[[dialogue]]
+speaker = "メルエル"
+original = "「それに、会長くんは魔王で、リクリエと戦うリーダーでしょ」"
+translation = "「게다가 회장군은 마왕이고, 리크리에와 싸우는 리더잖아.」"
+
+[[dialogue]]
+speaker = "メルエル"
+original = "「会長くんは色んな人と交渉したり、肩を並べて戦ったりしなきゃいけない人で……私も、プリマステラの１人として、戦力になっている自負はあるんだ」"
+translation = "「회장군은 여러 사람과 교섭하거나 어깨를 나란히 하고 싸워야 하는 사람이고…… 나도 프리마스텔라 중 한 명으로서 전력이 되고 있다는 자부심은 있어.」"
+
+[[dialogue]]
+speaker = "メルエル"
+original = "「もし、会長くんが責任ある立場じゃなかったら、きっとわき目も振らず告白してたと思う」"
+translation = "「만약 회장군이 책임 있는 입장이 아니었다면 분명 한눈팔지 않고 고백했을 거야.」"
+
+[[dialogue]]
+speaker = "メルエル"
+original = "「それで会長くんと両想いになれて、恋人になれたら、本当に幸せだと思う。本当に、どうにかなっちゃうくらい、幸せ」"
+translation = "「그래서 회장군과 서로 마음이 통하고 연인이 된다면 정말 행복할 거라고 생각해. 정말 어떻게 되어버릴 정도로 행복할 거야.」"
+
+[[dialogue]]
+speaker = "メルエル"
+original = "「だけど、もし会長くんが私のことをそういう風には見ていなかったら……告白された会長くんは、苦しいと思うの」"
+translation = "「하지만 만약 회장군이 나를 그런 식으로 보고 있지 않다면…… 고백받은 회장군은 괴로울 거라고 생각해.」"
+
+[[dialogue]]
+speaker = "メルエル"
+original = "「告白って……断る側も傷つくものだと思うから」"
+translation = "「고백이란 건…… 거절하는 쪽도 상처받는 법이니까.」"
+
+[[dialogue]]
+speaker = "メルエル（幼少）"
+original = "「って、そういう風に都合のいい言い訳をして、逃げていたんだよね？」"
+translation = "「그렇게 형편 좋은 변명을 대면서 도망치고 있었던 거지?」"
+
+[[dialogue]]
+speaker = "メルエル"
+original = "「うん、そうだと思う。本当は……私は怖かったんだよ――」"
+translation = "「응, 그런 것 같아. 사실은…… 나는 무서웠던 거야――」"
+
+[[dialogue]]
+speaker = "メルエル"
+original = "「会長くんに好きだって気持ちを伝えて、フラれてしまうのが」"
+translation = "「회장군에게 좋아한다는 마음을 전했다가 차여버리는 게.」"
+
+[[dialogue]]
+speaker = "メルエル"
+original = "「でもね、会長くんの迷惑になりたくなかったのも本当。フラれるのが怖かったのも本当。どっちも本当の自分だよ」"
+translation = "「하지만 회장군에게 폐를 끼치고 싶지 않았던 것도 진심이야. 차이는 게 무서웠던 것도 진심이고. 둘 다 진짜 나야.」"
+
+[[dialogue]]
+speaker = "メルエル（幼少）"
+original = "「だからこそ、私は『勇気を出す』能力で、もっと積極的な自分になろうと思ったんだよ」"
+translation = "「그렇기에 나는 『용기를 내는』 능력으로 좀 더 적극적인 내가 되려고 생각한 거야.」"
+
+[[dialogue]]
+speaker = "メルエル"
+original = "「わかるよ。あなたは私だもん……もうこれ以上、我慢できなかったんだよね」"
+translation = "「알아. 너는 나니까…… 이제 더 이상 참을 수 없었던 거지.」"
+
+[[dialogue]]
+speaker = "メルエル"
+original = "「だって……一緒の時間を過ごせば過ごすほど、会長くんのことが好きで好きで、たまらなくなってきちゃうもんね」"
+translation = "「그야…… 함께 시간을 보내면 보낼수록 회장군이 너무너무 좋아서 견딜 수 없게 되어버리는걸.」"
+
+[[dialogue]]
+speaker = "メルエル"
+original = "「再会する前よりずっと、再会したときよりずっと、何千倍も、会長くんのことが大好き」"
+translation = "「재회하기 전보다 훨씬, 재회했을 때보다 훨씬, 몇천 배나 회장군을 정말 좋아해.」"
+
+[[dialogue]]
+speaker = "メルエル（幼少）"
+original = "「……っ」"
+translation = "「……윽」"
+
+[[dialogue]]
+speaker = "メルエル"
+original = "「ちゃんと伝える。ちゃんとするから……」"
+translation = "「제대로 전할게. 제대로 할 테니까……」"
+
+[[dialogue]]
+speaker = "メルエル"
+original = "「だからその役目は、私に譲って欲しいな」"
+translation = "「그러니까 그 역할은 나에게 양보해 줬으면 좋겠어.」"
+
+[[dialogue]]
+speaker = "メルエル（幼少）"
+original = "「今までずっと言えなかったのに……ちゃんと言えるの？」"
+translation = "「지금까지 계속 말 못 했으면서…… 제대로 말할 수 있어?」"
+
+[[dialogue]]
+speaker = "メルエル"
+original = "「うん。友達から、勇気をもらったから」"
+translation = "「응. 친구들에게 용기를 얻었으니까.」"
+
+[[dialogue]]
+speaker = "メルエル"
+original = "「それに……小さい私から、学んだこともあるの」"
+translation = "「게다가…… 어린 나에게 배운 것도 있어.」"
+
+[[dialogue]]
+speaker = "unk"
+original = "メルエルはそう言って、後ろを振り返る。"
+translation = "메루엘은 그렇게 말하며 뒤를 돌아본다."
+
+[[dialogue]]
+speaker = "クロト"
+original = "「メルエル……」"
+translation = "「메루엘……」"
+
+[[dialogue]]
+speaker = "unk"
+original = "そこにはメルエルが想いを寄せる相手――クロトの姿があった。"
+translation = "그곳에는 메루엘이 연모하는 상대――쿠로토의 모습이 있었다."
+
+[[dialogue]]
+speaker = "unk"
+original = "俺が、小さなメルエルに呼び出されて大聖堂へ向かうと、そこには話し合っている２人のメルエルの姿があった。"
+translation = "내가 어린 메루엘의 부름을 받고 대성당으로 향하자, 그곳에는 대화를 나누고 있는 두 명의 메루엘이 있었다."
+
+[[dialogue]]
+speaker = "メルエル"
+original = "「えへへっ。恥ずかしいところ、見られちゃったね」"
+translation = "「에헤헤. 부끄러운 모습을 보여버렸네.」"
+
+[[dialogue]]
+speaker = "メルエル（幼少）"
+original = "「…………」"
+translation = "「…………」"
+
+[[dialogue]]
+speaker = "unk"
+original = "俺は少し前から２人の会話が聞こえていて、メルエルたちもそのことに気づいていたようだった。"
+translation = "나는 조금 전부터 두 사람의 대화가 들리고 있었고, 메루엘들도 그 사실을 눈치챈 듯했다."
+
+[[dialogue]]
+speaker = "メルエル"
+original = "「話が聞こえてたなら……ううん。会長くんのことだから、本当はもっとずっと前から、気持ちが伝わっちゃってるかもしれないけど……」"
+translation = "「이야기가 들렸다면…… 아니. 회장군이니까 사실은 훨씬 전부터 마음이 전해졌을지도 모르지만……」"
+
+[[dialogue]]
+speaker = "unk"
+original = "大きなメルエルが俺に正面から向き直って、視線を真っすぐに合わせる。"
+translation = "큰 메루엘이 나를 정면으로 마주 보며 시선을 똑바로 맞춘다."
+
+[[dialogue]]
+speaker = "メルエル"
+original = "「すぅ～……はあぁ……」"
+translation = "「후우~…… 하아……」"
+
+[[dialogue]]
+speaker = "unk"
+original = "彼女は１度深呼吸をしてから、告げた。"
+translation = "그녀는 한 번 심호흡을 하고는 고했다."
+
+[[dialogue]]
+speaker = "メルエル"
+original = "「私、姫咲メルエルは――会長くんのことが好きです」"
+translation = "「저, 히메사키 메루엘은―― 회장군을 좋아합니다.」"
+
+[[dialogue]]
+speaker = "メルエル"
+original = "「ずっと前から――子供の頃から、キミのことが好きでしたっ」"
+translation = "「아주 오래전부터―― 어릴 때부터 당신을 좋아했어요.」"
+
+[[dialogue]]
+speaker = "メルエル"
+original = "「再会してからは、好きって気持ちがもっともっと大きくなってて……」"
+translation = "「재회하고 나서는 좋아한다는 마음이 훨씬 더 커져서……」"
+
+[[dialogue]]
+speaker = "メルエル"
+original = "「今ではもう、伝えずにいたら……破裂しちゃいそうなくらい、私の中はキミへの気持ちで一杯なの」"
+translation = "「지금은 이제 전하지 않고 있으면…… 터져버릴 것 같을 정도로 내 안은 당신을 향한 마음으로 가득해요.」"
+
+[[dialogue]]
+speaker = "メルエル"
+original = "「それくらい……キミのことが大好き<emoji=heart04>」"
+translation = "「그 정도로…… 당신을 정말 좋아해❤」"
+
+[[dialogue]]
+speaker = "メルエル"
+original = "「もしかしたら、私の気持ちなんて、ずっと前からバレちゃってたかもしれないけど……」"
+translation = "「어쩌면 내 마음 같은 건 아주 오래전부터 들켰을지도 모르지만……」"
+
+[[dialogue]]
+speaker = "メルエル"
+original = "「でもやっぱり、『好き』って口にするのはちょっと勇気がいるね……えへへっ」"
+translation = "「하지만 역시 『좋아해』라고 입 밖으로 내는 건 조금 용기가 필요하네…… 에헤헤.」"
+
+[[dialogue]]
+speaker = "メルエル"
+original = "「ああ、でもようやく……会長くんに『好き』って言えた……本当に好き<emoji=heart04>\u3000大好き<emoji=heart04>」"
+translation = "「아아, 하지만 드디어…… 회장군에게 『좋아해』라고 말했다…… 정말 좋아해❤ 정말정말 좋아해❤」"
+
+[[dialogue]]
+speaker = "unk"
+original = "メルエル、えっと……"
+translation = "메루엘, 저기……"
+
+[[dialogue]]
+speaker = "メルエル"
+original = "「あっ、ごめんね！\u3000そのうえで、会長くんにはお願いしたいことがあるの……！」"
+translation = "「앗, 미안해! 그리고 회장군에게 부탁하고 싶은 게 있어……!」"
+
+[[dialogue]]
+speaker = "メルエル"
+original = "「えっと、これは本当に私のワガママになっちゃうんだけど……」"
+translation = "「저기, 이건 정말 내 이기적인 부탁이 되겠지만……」"
+
+[[dialogue]]
+speaker = "メルエル"
+original = "「告白の返事は、もう少しだけ待って欲しいんだ」"
+translation = "「고백의 대답은 조금만 더 기다려 줬으면 좋겠어.」"
+
+[[dialogue]]
+speaker = "メルエル"
+original = "「告白はしたけど、振ったり、ＯＫしたりするのを待って欲しいというか、なんというか……」"
+translation = "「고백은 했지만, 차거나 OK 하는 걸 기다려 달라고 해야 할까, 뭐라고 해야 할까……」"
+
+[[dialogue]]
+speaker = "unk"
+original = "保留してほしい、ってこと？"
+translation = "보류해 달라는 뜻이야?"
+
+[[dialogue]]
+speaker = "メルエル"
+original = "「う、うん……。今、世界はすごく大変な時期でしょ？」"
+translation = "「으, 응……. 지금 세계는 정말 힘든 시기잖아?」"
+
+[[dialogue]]
+speaker = "メルエル"
+original = "「これからリクリエとの最終決戦が始まるかもしれないって時に、余計なトラブルは持ち込みたくないから」"
+translation = "「이제부터 리크리에와의 최종 결전이 시작될지도 모르는 때에 불필요한 트러블은 가져오고 싶지 않으니까.」"
+
+[[dialogue]]
+speaker = "メルエル"
+original = "「会長くんに振られても……もし万が一、お付き合いできることになっても……どっちにしろ私、たぶん正気じゃいられなくなっちゃうと思うんだよねっ」"
+translation = "「회장군에게 차여도…… 만에 하나 사귈 수 있게 되어도…… 어느 쪽이든 나, 아마 제정신으로 있을 수 없게 될 것 같거든.」"
+
+[[dialogue]]
+speaker = "メルエル"
+original = "「一生懸命戦っている会長くんの邪魔も、したくないし……」"
+translation = "「열심히 싸우고 있는 회장군에게 방해가 되고 싶지도 않고……」"
+
+[[dialogue]]
+speaker = "メルエル"
+original = "「だから、リクリエとの決戦が終わったら、その時に告白の答え、聞かせてほしいな！」"
+translation = "「그러니까 리크리에와의 결전이 끝나면 그때 고백의 대답, 들려줬으면 좋겠어!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "メルエルが、それでいいなら"
+translation = "메루엘이 그걸로 괜찮다면"
+
+[[dialogue]]
+speaker = "unk"
+original = "……わかった。"
+translation = "……알았어."
+
+[[dialogue]]
+speaker = "メルエル"
+original = "「ありがとう、会長くん♪」"
+translation = "「고마워, 회장군♪」"
+
+[[dialogue]]
+speaker = "メルエル（幼少）"
+original = "「やっと言えたね、大きな私」"
+translation = "「드디어 말했네, 큰 나.」"
+
+[[dialogue]]
+speaker = "unk"
+original = "メルエルの告白の後、その様子を黙って見ていた小さなメルエルが口を開く。"
+translation = "메루엘의 고백 후, 그 모습을 잠자코 지켜보던 어린 메루엘이 입을 연다."
+
+[[dialogue]]
+speaker = "メルエル"
+original = "「あなたが私の気持ちを後押ししてくれたからだよ、ちっちゃな私」"
+translation = "「네가 내 마음을 밀어줬기 때문이야, 어린 나.」"
+
+[[dialogue]]
+speaker = "メルエル（幼少）"
+original = "「そんな風に言われたら、私の完敗だよ」"
+translation = "「그런 말을 들으면 나의 완패야.」"
+
+[[dialogue]]
+speaker = "メルエル（幼少）"
+original = "「でも……これからも勇気を出さずにまごまごしてたら、また私が出てきて、会長くんにアプローチしちゃうんだからね！」"
+translation = "「하지만…… 앞으로도 용기 내지 않고 우물쭈물하고 있으면 다시 내가 나타나서 회장군에게 대시해 버릴 거니까!」"
+
+[[dialogue]]
+speaker = "メルエル"
+original = "「うん。これからも全力で頑張るよ。……ううん、違うね――」"
+translation = "「응. 앞으로도 전력으로 노력할게. ……아니, 아니지――」"
+
+[[dialogue]]
+speaker = "メルエル"
+original = "「これからも一緒に頑張ろう！」"
+translation = "「앞으로도 함께 노력하자!」"
+
+[[dialogue]]
+speaker = "メルエル（幼少）"
+original = "「そうだね。私たち２人、抱いている気持ちは、同じものだから――」"
+translation = "「그렇네. 우리 둘이 품고 있는 마음은 똑같은 거니까――」"
+
+[[dialogue]]
+speaker = "unk"
+original = "そうして、笑顔を浮かべて握手を交わす２人。"
+translation = "그렇게 미소를 띠며 악수를 나누는 두 사람."
+
+[[dialogue]]
+speaker = "unk"
+original = "すると、２人のメルエルの体は、眩い白い光に包まれて――"
+translation = "그러자 두 메루엘의 몸은 눈부신 하얀 빛에 휩싸이고――"
+
+[[dialogue]]
+speaker = "unk"
+original = "収まった後には、小さな天使の姿はなく。"
+translation = "빛이 잦아든 후에는 작은 천사의 모습은 없었다."
+
+[[dialogue]]
+speaker = "メルエル"
+original = "「告白する勇気をくれて、ありがとう。ちっちゃな昔の私」"
+translation = "「고백할 용기를 줘서 고마워. 어린 시절의 나.」"
+
+[[dialogue]]
+speaker = "unk"
+original = "元の１人へと戻ったメルエルは、大切なものを心にしまうように、胸に両手を重ねながら微笑むのだった。"
+translation = "원래의 하나로 돌아온 메루엘은 소중한 것을 마음속에 간직하듯 가슴에 두 손을 얹으며 미소 지었다."
+

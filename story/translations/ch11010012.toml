@@ -1,0 +1,240 @@
+[[dialogue]]
+speaker = "unk"
+original = "第２話,何もしてないのに壊れた！,P"
+translation = "제2화, 아무것도 안 했는데 고장 났다!, P"
+
+[[dialogue]]
+speaker = "unk"
+original = "コハルコさんの依頼で、シミュレーターの調整を手伝っていた。"
+translation = "코하루코 씨의 의뢰로 시뮬레이터 조정을 돕고 있었다."
+
+[[dialogue]]
+speaker = "unk"
+original = "今回の作業は、リクリエの直前あたりから現れた新種のモンスターの登録も兼ねている。"
+translation = "이번 작업은 리크리에 직전 즈음부터 나타난 신종 몬스터의 등록도 겸하고 있다."
+
+[[dialogue]]
+speaker = "unk"
+original = "いわゆる大型アップデートだ。"
+translation = "이른바 대규모 업데이트다."
+
+[[dialogue]]
+speaker = "コハルコ"
+original = "「お疲れ様。進捗は順調だし、ここらで少し休憩しようか。お茶でいいかな？」"
+translation = "「수고했어. 진척은 순조롭고, 여기서 잠깐 쉴까. 차면 되겠지?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ありがとうございます"
+translation = "감사합니다."
+
+[[dialogue]]
+speaker = "コハルコ"
+original = "「それにしても、会長さんは強くなったね。初めて出会った頃と比べて、明らかに星力が伸びてる」"
+translation = "「그나저나 회장님은 강해졌네. 처음 만났을 때와 비교해서 분명하게 성력이 늘었어.」"
+
+[[dialogue]]
+speaker = "シルヴィ"
+original = "「コハルコ助けて～！\u3000何もしてないのにＤＩＳＣが壊れた～！」"
+translation = "「코하루코 도와줘~! 아무것도 안 했는데 DISC가 고장 났어~!」"
+
+[[dialogue]]
+speaker = "コハルコ"
+original = "「ＤＩＳＣは何もしてないのに壊れません！」"
+translation = "「DISC는 아무것도 안 했는데 고장 나지 않습니다!」"
+
+[[dialogue]]
+speaker = "シルヴィ"
+original = "「濡らしたり、落としたりはしてないよ！\u3000心当たりないんだって！」"
+translation = "「적시거나 떨어뜨리거나 하지 않았어! 짚이는 데가 없다니까!」"
+
+[[dialogue]]
+speaker = "コハルコ"
+original = "「シルヴィ、今日、変身したでしょ？」"
+translation = "「실비, 오늘 변신했지?」"
+
+[[dialogue]]
+speaker = "シルヴィ"
+original = "「うん」"
+translation = "「응.」"
+
+[[dialogue]]
+speaker = "コハルコ"
+original = "「そのあとすぐＤＩＳＣ触った？」"
+translation = "「그 뒤에 바로 DISC 만졌어?」"
+
+[[dialogue]]
+speaker = "シルヴィ"
+original = "「うん……あっ！」"
+translation = "「응…… 앗!」"
+
+[[dialogue]]
+speaker = "コハルコ"
+original = "「シルヴィは雷の星術なんだから気を付けなさいって私、何度も言ったよね？\u3000帯電したまま触ったら壊れるよって」"
+translation = "「실비는 번개의 성술이니까 조심하라고 내가 몇 번이나 말했지? 대전된 채로 만지면 고장 난다고.」"
+
+[[dialogue]]
+speaker = "コハルコ"
+original = "「対策はしてあるとはいえ、シルヴィの雷は一際強力なんだから、注意しないとダメだよ」"
+translation = "「대책은 세워두었다고는 해도 실비의 번개는 유독 강력하니까 주의하지 않으면 안 돼.」"
+
+[[dialogue]]
+speaker = "シルヴィ"
+original = "「うぅ……ごめんなさい」"
+translation = "「으으…… 미안해.」"
+
+[[dialogue]]
+speaker = "コハルコ"
+original = "「ほら、見せて。……うーん、これなら修理するより、データをサルベージして新しい端末に引き継いだ方がいいかな。私から申請しとくね」"
+translation = "「자, 보여줘. ……으음, 이 정도면 수리하기보다 데이터를 살베지해서 새 단말로 인계하는 게 좋겠네. 내가 신청해둘게.」"
+
+[[dialogue]]
+speaker = "シルヴィ"
+original = "「ありがとっ！\u3000今度チキンおごるね♪」"
+translation = "「고마워! 다음에 치킨 살게♪」"
+
+[[dialogue]]
+speaker = "コハルコ"
+original = "「いや、チキンはいいかな……そうだ、お礼するならひとつお願いがあるんだけど」"
+translation = "「아니, 치킨은 됐어…… 아, 보답한다면 부탁이 하나 있는데.」"
+
+[[dialogue]]
+speaker = "シルヴィ"
+original = "「いいよ！」"
+translation = "「좋아!」"
+
+[[dialogue]]
+speaker = "コハルコ"
+original = "「用件は聞いてから返事しなさい。面倒なデバッグとかだったらどうするの」"
+translation = "「용건은 듣고 나서 대답해. 귀찮은 디버그 같은 거면 어쩔 거야.」"
+
+[[dialogue]]
+speaker = "シルヴィ"
+original = "「でばっく……？\u3000バックするの？\u3000オーラーイって」"
+translation = "「디버그……? 뒤로 가는 거야? 오라이~ 하면서.」"
+
+[[dialogue]]
+speaker = "コハルコ"
+original = "「……私が悪かったから忘れて。で、そのお願いなんだけど、会長さんと一緒にシミュレーターで戦ってくれないかな？」"
+translation = "「……내가 잘못했으니까 잊어줘. 그래서 그 부탁인데, 회장님이랑 같이 시뮬레이터에서 싸워주지 않을래?」"
+
+[[dialogue]]
+speaker = "コハルコ"
+original = "「今のバージョンでデータを取りたいんだけど、サンプルは多い方がいいからね」"
+translation = "「지금 버전에서 데이터를 뽑고 싶은데 샘플은 많은 편이 좋으니까.」"
+
+[[dialogue]]
+speaker = "シルヴィ"
+original = "「おっけー！\u3000会長くんの実力も気になってたからね！」"
+translation = "「오케이! 회장군의 실력도 궁금했거든!」"
+
+[[dialogue]]
+speaker = "コハルコ"
+original = "「会長さんもいい？」"
+translation = "「회장님도 괜찮아?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "はい"
+translation = "네."
+
+[[dialogue]]
+speaker = "シルヴィ"
+original = "「決まりだね！」"
+translation = "「결정됐네!」"
+
+[[dialogue]]
+speaker = "シルヴィ"
+original = "「じゃあどっちが多くモンスターを倒せるか競争しようよ！\u3000勝ったら会長の座をいただいちゃおうかな！」"
+translation = "「그럼 누가 더 몬스터를 많이 잡나 경쟁하자! 이기면 회장 자리를 받아 가 버릴까!」"
+
+[[dialogue]]
+speaker = "シルヴィ"
+original = "「ふふ、負ける気はないって顔だね」"
+translation = "「후후, 질 생각은 없다는 표정이네.」"
+
+[[dialogue]]
+speaker = "シルヴィ"
+original = "「いくよっ！\u3000ワン、ツー、スリー、フォー！」"
+translation = "「간다! 원, 투, 쓰리, 포!」"
+
+[[dialogue]]
+speaker = "シルヴィ"
+original = "「負けたー！！」"
+translation = "「졌다~!!」"
+
+[[dialogue]]
+speaker = "シルヴィ"
+original = "「ふぃー、疲れた。こんなに動いたの久々かも」"
+translation = "「휘유, 힘들다. 이렇게 움직인 거 오랜만일지도.」"
+
+[[dialogue]]
+speaker = "コハルコ"
+original = "「お疲れ様。おかげでいいデータが取れたよ。シルヴィはオレンジジュースだったよね？\u3000会長さんは？」"
+translation = "「수고했어. 덕분에 좋은 데이터를 얻었어. 실비는 오렌지 주스였지? 회장님은?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "同じのでお願いします"
+translation = "같은 걸로 부탁합니다."
+
+[[dialogue]]
+speaker = "コハルコ"
+original = "「分かった。はい、どうぞ」"
+translation = "「알았어. 자, 여기.」"
+
+[[dialogue]]
+speaker = "unk"
+original = "コハルコ先輩のドローンが俺たちの前にドリンクを運んでくれる。オレンジの甘みと酸味が疲れた体に染み渡る。"
+translation = "코하루코 선배의 드론이 우리 앞에 음료를 날라준다. 오렌지의 단맛과 신맛이 피곤한 몸에 스며든다."
+
+[[dialogue]]
+speaker = "シルヴィ"
+original = "「ぷは～！\u3000１００％は効く～！」"
+translation = "「푸하~! 100%는 잘 듣네~!」"
+
+[[dialogue]]
+speaker = "コハルコ"
+original = "「おじさんみたいなこと言わないの。会長さんはシルヴィと戦ってみてどうだった？」"
+translation = "「아저씨 같은 소리 하지 마. 회장님은 실비와 싸워보니 어땠어?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "強くて派手でした"
+translation = "강하고 화려했습니다."
+
+[[dialogue]]
+speaker = "コハルコ"
+original = "「音とか光とかすごいからね。どこで戦っててもすぐ分かるんだよ。シルヴィは一緒に戦ってみてどうだった？」"
+translation = "「소리라든가 빛이라든가 엄청나니까요. 어디서 싸우고 있어도 금방 알 수 있거든요. 실비는 같이 싸워보니 어땠어?」"
+
+[[dialogue]]
+speaker = "シルヴィ"
+original = "「めーっちゃ強かった！\u3000さすが星徒会長！\u3000この学園で最強なだけあるね！」"
+translation = "「처어어엄청 강했어! 역시 성도회장! 이 학원에서 최강인 이유가 있네!」"
+
+[[dialogue]]
+speaker = "シルヴィ"
+original = "「君がいたから、リクリエは止められたんだね。……ありがとう、サーシャやみんなを守ってくれて」"
+translation = "「네가 있었기에 리크리에는 막을 수 있었던 거네. ……고마워, 사샤와 모두를 지켜줘서.」"
+
+[[dialogue]]
+speaker = "unk"
+original = "俺もみんなに助けられてきました"
+translation = "저도 모두에게 도움받아 왔습니다."
+
+[[dialogue]]
+speaker = "シルヴィ"
+original = "「そっか」"
+translation = "「그렇구나.」"
+
+[[dialogue]]
+speaker = "シルヴィ"
+original = "「いい子だな～もう！\u3000そういうとこ好きだよ！」"
+translation = "「착한 아이네 정말! 그런 점 좋아해!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "シルヴィ先輩に気に入られたのか、髪がボサボサになるまで撫でられてしまった。"
+translation = "실비 선배에게 마음에 들었는지 머리가 부스스해질 때까지 쓰다듬어지고 말았다."
+

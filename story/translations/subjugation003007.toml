@@ -1,0 +1,280 @@
+[[dialogue]]
+speaker = "unk"
+original = "巨大なアステラが流星市国の市街地上空に出現しているにも関わらず、周囲の人たちが全く気づいていないという異様な光景に、戸惑うアムとナミエル。"
+translation = "거대한 아스테라가 유성 시국의 시가지 상공에 출현했음에도 불구하고, 주변 사람들이 전혀 알아차리지 못하는 기이한 광경에 당황하는 아무와 나미엘."
+
+[[dialogue]]
+speaker = "スノーマン"
+original = "「多分、体を作ってもらう前のボクと同じように、他の人たちには見えていないんだと思う……」"
+translation = "「아마 몸을 만들기 전의 나처럼, 다른 사람들 눈에는 보이지 않는 거라고 생각해……」"
+
+[[dialogue]]
+speaker = "ナミエル"
+original = "「そうか……！\u3000スノーマンがカメラに映らなかったみたいに、アステラが認識できない状態になっているから、警報が鳴らないんですね……！」"
+translation = "「그렇군요……! 스노맨이 카메라에 찍히지 않았던 것처럼, 아스테라가 인식할 수 없는 상태가 되어 있어서 경보가 울리지 않는 거네요……!」"
+
+[[dialogue]]
+speaker = "アム"
+original = "「でも、だとしたら、このまま放置していると、かなりマズいんじゃ……」"
+translation = "「하지만 그렇다면 이대로 방치했다간 상당히 위험한 거 아냐……」"
+
+[[dialogue]]
+speaker = "ナミエル"
+original = "「……１度、会長に報告してみましょう。たとえ見えなくても、アステラに接近すれば侵入することはできるかもしれません」"
+translation = "「……한번 회장님께 보고해 보죠. 비록 보이지 않더라도 아스테라에 접근하면 침입할 수 있을지도 모릅니다.」"
+
+[[dialogue]]
+speaker = "アム"
+original = "「なるほど！\u3000ナミエル、頭いい！」"
+translation = "「그렇구나! 나미엘, 머리 좋은걸!」"
+
+[[dialogue]]
+speaker = "ナミエル"
+original = "「ですが……もし見えないだけじゃなくて、会長たちがあのアステラに侵入不可能となった場合は――」"
+translation = "「하지만…… 만약 보이지 않을 뿐만 아니라 회장님 일행이 저 아스테라에 침입할 수 없게 된다면――」"
+
+[[dialogue]]
+speaker = "アム"
+original = "「……！\u3000あたし達がどうにかしなきゃいけないかもしれない……ってことだね？」"
+translation = "「……! 우리가 어떻게든 해야 할지도 모른다는…… 뜻이네?」"
+
+[[dialogue]]
+speaker = "ナミエル"
+original = "「はい――心の準備はしておきましょう」"
+translation = "「네―― 마음의 준비는 해둡시다.」"
+
+[[dialogue]]
+speaker = "unk"
+original = "その後、ナミエルの予想は的中した。"
+translation = "그 후, 나미엘의 예상은 적중했다."
+
+[[dialogue]]
+speaker = "unk"
+original = "２人以外は、アステラを視認できず、接近しても侵入することはできなかった。"
+translation = "두 사람 외에는 아스테라를 시인할 수 없었고, 접근해도 침입할 수 없었다."
+
+[[dialogue]]
+speaker = "unk"
+original = "その為、クロトたち星騎士の精鋭部隊は外で待機し、アステラの攻略はナミエルとアムに託されることとなった。"
+translation = "그 때문에 쿠로토를 비롯한 성기사 정예 부대는 밖에서 대기하고, 아스테라 공략은 나미엘과 아무에게 맡겨지게 되었다."
+
+[[dialogue]]
+speaker = "ナミエル"
+original = "「――最深部に到達しましたが、これは……！」"
+translation = "「――최심부에 도달했습니다만, 이건……!」"
+
+[[dialogue]]
+speaker = "巨大スノーマン"
+original = "「スノォォォ……！」"
+translation = "「스노오오……!」"
+
+[[dialogue]]
+speaker = "アム"
+original = "「アステラのボスモンスターが、巨大なスノーマン……！\u3000これって……！？」"
+translation = "「아스테라의 보스 몬스터가 거대한 스노맨……! 이건……!?」"
+
+[[dialogue]]
+speaker = "スノーマン"
+original = "「ボク……思い出した」"
+translation = "「나…… 기억났어.」"
+
+[[dialogue]]
+speaker = "ナミエル"
+original = "「スノーマン？\u3000思い出したって……もしかして、記憶が……？」"
+translation = "「스노맨? 기억났다니…… 설마 기억이……?」"
+
+[[dialogue]]
+speaker = "スノーマン"
+original = "「うん……何があったか、全部――」"
+translation = "「응…… 무슨 일이 있었는지 전부――」"
+
+[[dialogue]]
+speaker = "スノーマンL"
+original = "「ボク、今回の冬が来て生まれた時、リクリエの瘴気に襲われた」"
+translation = "「나, 이번 겨울이 와서 태어났을 때 리크리에의 장기에 습격당했어.」"
+
+[[dialogue]]
+speaker = "スノーマンL"
+original = "「それで、リクリエの力はどんどん体の中に広がってきて……ボク、モンスターにされて、意識も飲まれそうになった……」"
+translation = "「그래서 리크리에의 힘이 점점 몸 안으로 퍼져나가서…… 나, 몬스터가 되고 의식도 삼켜질 뻔했어……」"
+
+[[dialogue]]
+speaker = "スノーマンL"
+original = "「だからボク、意識が完全に乗っ取られる前に、力の一部を切り離して、星騎士に助けてもらおうと思った……」"
+translation = "「그래서 나, 의식을 완전히 빼앗기기 전에 힘의 일부를 떼어내서 성기사가 도와주길 바랐어……」"
+
+[[dialogue]]
+speaker = "ナミエル"
+original = "「あっ……！\u3000その一部っていうのが、私たちのところに落ちてきた<b>シルクハット</b>……！」"
+translation = "「앗……! 그 일부라는 게 우리 곁으로 떨어진 <ruby>실크 햇<rt>·· ·</rt></ruby>……!」"
+
+[[dialogue]]
+speaker = "スノーマン"
+original = "「うん。それで、２人に力が渡って、ボクの姿が見えるようになった……」"
+translation = "「응. 그래서 두 사람에게 힘이 전해져서 내 모습이 보이게 된 거야……」"
+
+[[dialogue]]
+speaker = "アム"
+original = "「ってことは、あれがモンスター化したスノーマンの本体……！」"
+translation = "「그렇다면 저게 몬스터화된 스노맨의 본체……!」"
+
+[[dialogue]]
+speaker = "スノーマンL"
+original = "「そう……このままだと、冬の力が全部リクリエに飲み込まれちゃう。もしそうなったら……」"
+translation = "「응…… 이대로라면 겨울의 힘이 전부 리크리에에게 삼켜져 버릴 거야. 만약 그렇게 되면……」"
+
+[[dialogue]]
+speaker = "スノーマンL"
+original = "「人間界には春がいつまでも来なくて、生き物が住めなくなるくらい、もっと寒い冬が訪れるかもしれない……」"
+translation = "「인간계에는 봄이 영원히 오지 않고, 생물이 살 수 없을 정도로 더 추운 겨울이 찾아올지도 몰라……」"
+
+[[dialogue]]
+speaker = "アム"
+original = "「思っていたより、ずっとヤバいじゃん……！」"
+translation = "「생각했던 것보다 훨씬 심각하잖아……!」"
+
+[[dialogue]]
+speaker = "ナミエル"
+original = "「はい。なんとしても、止めないと……！」"
+translation = "「네. 어떻게 해서든 막아야 해요……!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "２人は頷き合うと、最奥へと進み、巨大スノーマンの前に立つ。"
+translation = "두 사람은 서로 고개를 끄덕이더니 최심부로 나아가 거대 스노맨 앞에 선다."
+
+[[dialogue]]
+speaker = "巨大スノーマン"
+original = "「……！\u3000スノオォォォーーーマンッ！！！」"
+translation = "「……! 스노오오오오오오맨!!!」"
+
+[[dialogue]]
+speaker = "ナミエル"
+original = "「アム先輩、私達は１メートル以上離れられないってこと、忘れないで下さいね……！」"
+translation = "「아무 선배님, 저희는 1미터 이상 떨어질 수 없다는 점 잊지 마세요……!」"
+
+[[dialogue]]
+speaker = "アム"
+original = "「わかってる。練習していた通り、二人三脚しているつもりで、息を合わせて戦うよ！」"
+translation = "「알고 있어. 연습했던 대로 2인 3각을 하고 있다는 생각으로 호흡을 맞춰서 싸울게!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "２人は巨大スノーマンとの戦闘を開始するのだった。"
+translation = "두 사람은 거대 스노맨과의 전투를 시작했다."
+
+[[dialogue]]
+speaker = "unk"
+original = "それから、息を合わせて巨大スノーマンと戦う２人。しかし――"
+translation = "그 후, 호흡을 맞춰 거대 스노맨과 싸우는 두 사람. 하지만――"
+
+[[dialogue]]
+speaker = "アム"
+original = "「はぁっ……はぁっ……！」"
+translation = "「하아…… 하아……!」"
+
+[[dialogue]]
+speaker = "ナミエル"
+original = "「これが、スノーマンの力……！\u3000強い……！」"
+translation = "「이것이 스노맨의 힘……! 강해……!」"
+
+[[dialogue]]
+speaker = "巨大スノーマン"
+original = "「スノオオオォーーーッ！！！」"
+translation = "「스노오오오오오――윽!!!」"
+
+[[dialogue]]
+speaker = "アム"
+original = "「それに、どれだけ攻撃しても、すぐ体を再生させてくる……！」"
+translation = "「게다가 아무리 공격해도 금방 몸을 재생시켜……!」"
+
+[[dialogue]]
+speaker = "ナミエル"
+original = "（このままじゃ、私をソリに乗せて、攻撃を回避し続けているアム先輩の方が、先に星力切れを起こしてしまう……！\u3000どうしたら……？）"
+translation = "（이대로라면 나를 썰매에 태우고 공격을 계속 회피하고 있는 아무 선배님이 먼저 성력이 바닥나버릴 거야……! 어떡하지?）"
+
+[[dialogue]]
+speaker = "スノーマン"
+original = "「……ナミエル、アム」"
+translation = "「……나미엘, 아무.」"
+
+[[dialogue]]
+speaker = "unk"
+original = "その時、小さなスノーマンが口を開く。"
+translation = "그때 작은 스노맨이 입을 열었다."
+
+[[dialogue]]
+speaker = "スノーマンL"
+original = "「ボクの持っている力、全部２人に渡す」"
+translation = "「내가 가진 힘을 전부 두 사람에게 줄게.」"
+
+[[dialogue]]
+speaker = "ナミエル"
+original = "「えっ……？\u3000これは……アステラの中に雪が……？」"
+translation = "「엣……? 이건…… 아스테라 안에 눈이……?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "小さなスノーマンから放たれた光が収まると、アステラ内にちらほらと『光の雪』が舞い降りてきていた。"
+translation = "작은 스노맨에게서 뿜어져 나온 빛이 잦아들자, 아스테라 내부에 듬성듬성 『빛의 눈』이 흩날리기 시작했다."
+
+[[dialogue]]
+speaker = "アム"
+original = "「なんか、この雪……すごい力が湧いて来る……！」"
+translation = "「왠지 이 눈…… 엄청난 힘이 솟아올라……!」"
+
+[[dialogue]]
+speaker = "スノーマン"
+original = "「２人共、これで行けそう……？」"
+translation = "「둘 다, 이걸로 해낼 수 있겠어……?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "２人共！\u3000大丈夫か！？"
+translation = "둘 다! 괜찮나!?"
+
+[[dialogue]]
+speaker = "unk"
+original = "それからすぐに、クロトと共に他の星騎士たちが、ナミエル達の元に駆けつけてくる。"
+translation = "그 후 곧바로 쿠로토와 함께 다른 성기사들이 나미엘 일행이 있는 곳으로 달려왔다."
+
+[[dialogue]]
+speaker = "ナミエル"
+original = "「会長……！\u3000どうしてここに？」"
+translation = "「회장님……! 어떻게 여기에?」"
+
+[[dialogue]]
+speaker = "アム"
+original = "「え？\u3000――外にも雪が降り始めて、それと同時に、アステラの輪郭が視認できるようになった……？」"
+translation = "「에? ――밖에도 눈이 내리기 시작해서, 그와 동시에 아스테라의 윤곽을 알아볼 수 있게 됐다고……?」"
+
+[[dialogue]]
+speaker = "スノーマンL"
+original = "「ボク、頑張った……。みんなの力も借りれば、ボクの本体……止められる？」"
+translation = "「나, 노력했어……. 모두의 힘도 빌리면 내 본체…… 멈출 수 있어?」"
+
+[[dialogue]]
+speaker = "アム"
+original = "「ありがとう、スノーマン！\u3000――ナミエル！\u3000この力で、もう１度！」"
+translation = "「고마워, 스노맨! ――나미엘! 이 힘으로 다시 한번!」"
+
+[[dialogue]]
+speaker = "ナミエル"
+original = "「はい、アム先輩……！\u3000――会長、指示をお願いできますか？」"
+translation = "「네, 아무 선배님……! ――회장님, 지시를 부탁드려도 될까요?」"
+
+[[dialogue]]
+speaker = "アム"
+original = "「そうしたらあたし達、百人力だよ！」"
+translation = "「그렇게 해주시면 우린 백인분 힘을 낼 수 있어!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ああ、任せろ！\u3000行くぞ、みんな！"
+translation = "그래, 맡겨줘! 가자, 모두들!"
+
+[[dialogue]]
+speaker = "unk"
+original = "クロト達の加勢を受けて、ナミエルとアムは再び、巨大スノーマンへと勝負を挑むのだった。"
+translation = "쿠로토 일행의 가세를 받아 나미엘과 아무는 다시 거대 스노맨에게 승부를 걸었다."
+

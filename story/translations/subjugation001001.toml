@@ -1,0 +1,265 @@
+[[dialogue]]
+speaker = "unk"
+original = "某日、俺が守護天使の２人――マグダレナさんとアルモタヘルさんに頼まれて、街での買い物に付き添っている際に、アステライトが出現。"
+translation = "어느 날, 내가 수호천사인 두 사람── 마그달레나 씨와 아르모타헬 씨의 부탁을 받아 거리의 쇼핑에 동행하던 중, 아스텔라이트가 출현."
+
+[[dialogue]]
+speaker = "unk"
+original = "そのまま２人の力を借りて、アステラ攻略を開始し、最深部でボスモンスターと交戦したのだが――"
+translation = "그대로 두 사람의 힘을 빌려 아스텔라 공략을 개시했고, 최심부에서 보스 몬스터와 교전했지만──"
+
+[[dialogue]]
+speaker = "モンスター"
+original = "「グオォォォーーーッ……！」"
+translation = "「구오오오───윽……!」"
+
+[[dialogue]]
+speaker = "マグダレナ"
+original = "「――どうやら、これで終わりのようですね」"
+translation = "「──아무래도 이걸로 끝인 것 같네요.」"
+
+[[dialogue]]
+speaker = "アルモタヘル"
+original = "「ああ、倒れた奴の体が崩壊を始めている。しかし……見たことない<ruby>種<rt>しゅ</rt></ruby>だな。本気を出さねば危うい程に、手強かった」"
+translation = "「아아, 쓰러진 놈의 몸이 붕괴하기 시작했다. 하지만…… 본 적 없는 종이군. 진심을 내지 않으면 위험할 정도로 강적이었어.」"
+
+[[dialogue]]
+speaker = "マグダレナ"
+original = "「会長さまは、このモンスターをご存知ですか？」"
+translation = "「회장님은 이 몬스터를 알고 계시나요?」"
+
+[[dialogue]]
+speaker = "モンスター"
+original = "「…………」"
+translation = "「…………」"
+
+[[dialogue]]
+speaker = "unk"
+original = "いや、初めて見るやつだ"
+translation = "아니, 처음 보는 녀석이야."
+
+[[dialogue]]
+speaker = "アルモタヘル"
+original = "「そうか。ならば、リクリエの勢力が増した影響で生まれた、新種ということであろう」"
+translation = "「그런가. 그렇다면 리크리에의 세력이 확장된 영향으로 태어난 신종이라는 것이겠군.」"
+
+[[dialogue]]
+speaker = "マグダレナ"
+original = "「とりあえず、倒すことはできましたし、アステラも崩壊を始めたようです。脱出しましょう」"
+translation = "「일단 쓰러뜨리는 데 성공했고, 아스텔라도 붕괴하기 시작한 것 같습니다. 탈출하죠.」"
+
+[[dialogue]]
+speaker = "unk"
+original = "と、その時だった。"
+translation = "그때였다."
+
+[[dialogue]]
+speaker = "アルモタヘル"
+original = "「！\u3000マグダレナ、後ろだ！」"
+translation = "「! 마그달레나, 뒤다!」"
+
+[[dialogue]]
+speaker = "マグダレナ"
+original = "「！？\u3000モンスターの体が、リクリエの瘴気に変化して……！？」"
+translation = "「!? 몬스터의 몸이 리크리에의 장기로 변화해서……!?」"
+
+[[dialogue]]
+speaker = "モンスター"
+original = "「オオオォォォッ……！」"
+translation = "「오오오오옷……!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "モンスターの体はそこで、完全に崩れ去る。"
+translation = "몬스터의 몸은 거기서 완전히 바스러졌다."
+
+[[dialogue]]
+speaker = "unk"
+original = "その代わりに、禍々しい霧のような、リクリエの瘴気が出現して――"
+translation = "그 대신 불길한 안개 같은 리크리에의 장기가 나타났고──"
+
+[[dialogue]]
+speaker = "アルモタヘル"
+original = "「いかん！\u3000避けろ、人の子よ！」"
+translation = "「안 된다! 피해라, 인간의 아이여!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "瘴気は俺たちに向かって、一気に押し寄せてきた。"
+translation = "장기는 우리를 향해 단숨에 몰려왔다."
+
+[[dialogue]]
+speaker = "unk"
+original = "咄嗟に攻撃を放つが、霧のような瘴気にはすり抜けるだけで通じず――"
+translation = "급히 공격을 날렸지만 안개 같은 장기에는 그저 스쳐 지나갈 뿐 통하지 않았고──"
+
+[[dialogue]]
+speaker = "マグダレナ"
+original = "「これは……！？\u3000瘴気が体に纏わりついて……！」」"
+translation = "「이것은……!? 장기가 몸에 휘감겨서……!」"
+
+[[dialogue]]
+speaker = "アルモタヘル"
+original = "「くっ……ぬかった……！\u3000人の子よ、せめてお前だけでも……！」"
+translation = "「큭…… 방심했다……! 인간의 아이여, 적어도 너만이라도……!」"
+
+[[dialogue]]
+speaker = "マグダレナ"
+original = "「私たちのことはいいですから、逃げて……下さい……！」"
+translation = "「저희는 괜찮으니까 도망……치세요……!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "２人が気を失って、地面に倒れてしまう。"
+translation = "두 사람이 정신을 잃고 지면에 쓰러지고 만다."
+
+[[dialogue]]
+speaker = "unk"
+original = "俺は瘴気を浴びながらも、何とか意識を保ち……"
+translation = "나는 장기를 뒤집어쓰면서도 어떻게든 의식을 유지하며……"
+
+[[dialogue]]
+speaker = "unk"
+original = "そんなこと……できるわけない……！"
+translation = "그런 짓…… 할 수 있을 리 없잖아……!"
+
+[[dialogue]]
+speaker = "unk"
+original = "２人の体を肩に抱え上げると、薄れゆく意識の中で、アステラの出口を目指すのだった――"
+translation = "두 사람의 몸을 어깨에 들쳐 메고는 희미해져 가는 의식 속에서 아스텔라의 출구를 향하는 것이었다──"
+
+[[dialogue]]
+speaker = "unk"
+original = "ん……誰か……俺の手を握ってくれている気がする……。"
+translation = "응…… 누군가…… 내 손을 잡아주고 있는 기분이 들어……."
+
+[[dialogue]]
+speaker = "unk"
+original = "次に目覚めると、そこは新星学園の保健室だった。"
+translation = "다음에 깨어났을 때, 그곳은 신성학원의 보건실이었다."
+
+[[dialogue]]
+speaker = "unk"
+original = "そして、ベッドで仰向けに寝ている俺の横に座り、手を握ってくれていたのは――"
+translation = "그리고 침대에 천장을 보고 누워 있는 내 옆에 앉아 손을 잡아주고 있었던 것은──"
+
+[[dialogue]]
+speaker = "アニマ"
+original = "「おや？\u3000お目覚めカナ？」"
+translation = "「오야? 잠에서 깼타?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "アニマ先輩……？"
+translation = "아니마 선배……?"
+
+[[dialogue]]
+speaker = "アニマ"
+original = "「ああ、そうダとも。お馴染み、購買部の看板娘にして、キミと共に世界を救う同志。天才美少女錬金術師のアニマだ」"
+translation = "「아아, 그렇타마다. 잘 알다시피 매점의 간판 아가씨이자 너와 함께 세계를 구할 동지. 천재 미소녀 연금술사 아니마다.」"
+
+[[dialogue]]
+speaker = "アニマ"
+original = "「――手を握ってくれてイタのかって？\u3000なに、こうスルと、意識はなくとも安心すると聞いたものでね。多少なりとも効果はあったカナ？」"
+translation = "「──손을 잡아주고 있었냐고? 뭐, 이렇게 하먼 의식은 없어도 안심한다고 들어서 말이타. 조금이나마 효과가 있었타?」"
+
+[[dialogue]]
+speaker = "アニマ"
+original = "「――そうか、効果があったなら、なによりダ。フヒ♪」"
+translation = "「──그렇군, 효과가 있었다면 다행이타. 후히♪」"
+
+[[dialogue]]
+speaker = "unk"
+original = "彼女は新星学園３年生のアニマ先輩。"
+translation = "그녀는 신성학원 3학년인 아니마 선배."
+
+[[dialogue]]
+speaker = "unk"
+original = "錬金術師であり、発明品の副作用によって様々なトラブルを巻き起こしたりもするが、その一方で、学園の対リクリエ技術において欠かせない存在でもある。"
+translation = "연금술사이며 발명품의 부작용으로 인해 다양한 트러블을 일으키기도 하지만, 한편으로는 학원의 대 리크리에 기술에 있어서 없어서는 안 될 존재이기도 하다."
+
+[[dialogue]]
+speaker = "unk"
+original = "守護天使２人が流星市国で活動する為のアバターを作り出したのも、実は彼女。まさに自他共に認める天才である。"
+translation = "수호천사 두 사람이 유성시국에서 활동하기 위한 아바타를 만들어낸 것도 사실 그녀다. 그야말로 자타공인 천재다."
+
+[[dialogue]]
+speaker = "unk"
+original = "！\u3000そうだ、守護天使の２人は！？"
+translation = "! 맞다, 수호천사 두 사람은!?"
+
+[[dialogue]]
+speaker = "アニマ"
+original = "「大丈夫、無事ダ。リクリエの瘴気による汚染が進行する前に、キミが学園まで運んできたおかげだナ」"
+translation = "「괜찮타, 무사하타. 리크리에 장기에 의한 오염이 진행되기 전에 네가 학원까지 운반해 온 덕분이타.」"
+
+[[dialogue]]
+speaker = "アニマ"
+original = "「朦朧とする意識の中で、大したものダ！\u3000同志として、敬意を表スル」"
+translation = "「몽롱한 의식 속에서 대단하타! 동지로서 경의를 표한타.」"
+
+[[dialogue]]
+speaker = "unk"
+original = "２人が無事だと安堵したのも束の間、何気なく触れた自身の体に違和感を覚えた。"
+translation = "두 사람이 무사하다는 것에 안도한 것도 잠시, 무심코 만진 자신의 몸에 위화감을 느꼈다."
+
+[[dialogue]]
+speaker = "アニマ"
+original = "「フヒ♪\u3000気づいたカ、会長」"
+translation = "「후히♪ 눈치챘나, 회장.」"
+
+[[dialogue]]
+speaker = "アニマ"
+original = "「今、ベッドの前に全身鏡を作るから、見てみるとイイ。それ♪」"
+translation = "「지금 침대 앞에 전신 거울을 만들 테니 봐 보거라. 이얏♪」"
+
+[[dialogue]]
+speaker = "unk"
+original = "アニマ先輩が作った全身鏡。そこに映っていたのは――"
+translation = "아니마 선배가 만든 전신 거울. 거기에 비친 것은──"
+
+[[dialogue]]
+speaker = "unk"
+original = "体が小さくなってるーーーっ！？"
+translation = "몸이 작아져 있어───!?"
+
+[[dialogue]]
+speaker = "アニマ"
+original = "「フヒヒッ、アハハッ♪\u3000その通り！\u3000会長、キミは今、アニマが作った『<ruby>幼<rt>よう</rt></ruby>アバター』の中に精神を移した状態なんダ♪」"
+translation = "「후히히, 아하하♪ 정답이타! 회장, 너는 지금 아니마가 만든 『어린 아바타』 속에 정신을 옮긴 상태란 말이타♪」"
+
+[[dialogue]]
+speaker = "unk"
+original = "いや、どういうこと！？"
+translation = "아니, 그게 무슨 소리야!?"
+
+[[dialogue]]
+speaker = "マグダレナ（幼少）"
+original = "「ママダレナ、ただいま戻りました～♪\u3000って、あっ！\u3000会長さま！」"
+translation = "「마마달레나, 방금 돌아왔어요~♪ 어, 앗! 회장님!」"
+
+[[dialogue]]
+speaker = "マグダレナ（幼少）"
+original = "「お目覚めになられたのですね！\u3000なかなか起きないから、心配してたんですよ～！」"
+translation = "「깨어나셨군요! 좀처럼 일어나지 않으셔서 걱정했다구요~!」"
+
+[[dialogue]]
+speaker = "アルモタヘル（幼少）"
+original = "「なんだと！？\u3000おお、人の子よ！\u3000よかったのだ！\u3000そうだ、お肉があるぞ、お肉！」"
+translation = "「뭐라!? 오오, 인간의 아이여! 다행인 것이다! 맞다, 고기가 있다구, 고기!」"
+
+[[dialogue]]
+speaker = "アルモタヘル（幼少）"
+original = "「沢山補充しておいたから、アルモたんと一緒に食べるのだ！\u3000元気が出るぞ♪」"
+translation = "「잔뜩 보충해 뒀으니까 알모땅이랑 같이 먹는 것이다! 기운이 날 거다♪」"
+
+[[dialogue]]
+speaker = "unk"
+original = "２人とも小さくなってるーーーーーっ！！？"
+translation = "둘 다 작아져 있어──────!!?"
+
+[[dialogue]]
+speaker = "unk"
+original = "守護天使２人の衝撃的な姿を見て、自分の時よりも驚いてしまうのであった――"
+translation = "수호천사 두 사람의 충격적인 모습을 보고 자신의 상태 때보다 더 놀라게 되는 것이었다──"
+

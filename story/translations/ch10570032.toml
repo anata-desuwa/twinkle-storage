@@ -1,0 +1,275 @@
+[[dialogue]]
+speaker = "unk"
+original = "第２話,初めてのチャレンジ,P"
+translation = "제2화, 첫 도전, P"
+
+[[dialogue]]
+speaker = "トリシャ"
+original = "「えぇぇ……」"
+translation = "「에에에……」"
+
+[[dialogue]]
+speaker = "unk"
+original = "海で泳いでみませんか──"
+translation = "바다에서 헤엄쳐 보지 않겠습니까──"
+
+[[dialogue]]
+speaker = "unk"
+original = "そう告げられたトリシャさんは、まったく乗り気ではない様子だった。"
+translation = "그 말을 들은 트리샤 씨는, 전혀 내키지 않는 기색이었다."
+
+[[dialogue]]
+speaker = "トリシャ"
+original = "「海は……綺麗……それはそう……私にもよくわかりました。かつてない絶景に、心洗われるようでもありました」"
+translation = "「바다는…… 아름다워요…… 그건 그래요…… 저도 잘 알았습니다. 유례없는 절경에, 마음이 씻겨 내려가는 듯하기도 했고요」"
+
+[[dialogue]]
+speaker = "トリシャ"
+original = "「ですが……これだけ広いのなら……見てるだけでも十分ではありませんか？」"
+translation = "「하지만…… 이렇게나 넓다면…… 바라보는 것만으로도 충분하지 않나요?」"
+
+[[dialogue]]
+speaker = "トリシャ"
+original = "「私はそのように──このちっぽけな体で海に足を踏み入れようとは、思いません……」"
+translation = "「저는 그렇게── 이 조그마한 몸으로 바다에 발을 들여놓으리라고는, 생각지 않습니다……」"
+
+[[dialogue]]
+speaker = "unk"
+original = "泳ぎたくない？"
+translation = "헤엄치기 싫어?"
+
+[[dialogue]]
+speaker = "unk"
+original = "怖い？"
+translation = "무서워?"
+
+[[dialogue]]
+speaker = "トリシャ"
+original = "「…………（こく）」"
+translation = "「…………(끄덕)」"
+
+[[dialogue]]
+speaker = "トリシャ"
+original = "「だって……こんなに大きいんですよ。それにとても深いと聞きます。眺めているだけでも圧倒されたのに……入るだなんて……」"
+translation = "「그게…… 이렇게나 크잖아요. 게다가 매우 깊다고 들었습니다. 바라보는 것만으로도 압도당했는데…… 들어간다니……」"
+
+[[dialogue]]
+speaker = "unk"
+original = "楽しいですよ"
+translation = "즐거워요"
+
+[[dialogue]]
+speaker = "unk"
+original = "無理強いはしない"
+translation = "강요는 하지 않을게"
+
+[[dialogue]]
+speaker = "トリシャ"
+original = "「確かに……皆さん、楽しそうに海辺ではしゃいでおられます……」"
+translation = "「과연…… 여러분, 즐거운 듯이 해변에서 떠들고 계시네요……」"
+
+[[dialogue]]
+speaker = "トリシャ"
+original = "「なるほど……深いところまで踏み込む必要はないのですね。波打ち際で<ruby>戯<rt>たわむ</rt></ruby>れるくらいなら、私にもできるかもしれません」"
+translation = "「그렇군요…… 깊은 곳까지 발을 들일 필요는 없는 거군요. 물가에서 노니는 정도라면, 저도 할 수 있을지도 모릅니다」"
+
+[[dialogue]]
+speaker = "トリシャ"
+original = "「と思いましたが──うっかり波にさらわれてしまう恐れもあります。これは困りました……」"
+translation = "「라고 생각했습니다만── 자칫 파도에 휩쓸려 버릴 우려도 있습니다. 이건 곤란하네요……」"
+
+[[dialogue]]
+speaker = "トリシャ"
+original = "「まずは占いを。これで最高の運勢が出たら、足先くらい入ってみるということで……」"
+translation = "「우선 점을 쳐보죠. 이걸로 최고의 운세가 나온다면, 발끝 정도는 담가 보는 걸로……」"
+
+[[dialogue]]
+speaker = "unk"
+original = "と、その時──"
+translation = "그때──"
+
+[[dialogue]]
+speaker = "リップル"
+original = "「オウ！\u3000どんな悪い運勢でも、吹き飛ばしてくれるのが海の魅力デース！」"
+translation = "「오우! 어떤 나쁜 운세라도, 날려버려 주는 것이 바다의 매력임다!」"
+
+[[dialogue]]
+speaker = "トリシャ"
+original = "「あ……リップルさん」"
+translation = "「아…… 리플 씨」"
+
+[[dialogue]]
+speaker = "リップル"
+original = "「ハーイ、トリシャ！\u3000海で泳ぎたいならお手伝いシマース！」"
+translation = "「하이, 트리샤! 바다에서 헤엄치고 싶다면 도와드리겠슴다!」"
+
+[[dialogue]]
+speaker = "トリシャ"
+original = "「あ、いえ……そこまでは。泳ぐのはまだ……怖いので……」"
+translation = "「아, 아니요…… 그 정도까지는. 헤엄치는 건 아직…… 무서워서……」"
+
+[[dialogue]]
+speaker = "リップル"
+original = "「なんともったいないデース！\u3000海は広くて綺麗なだけではありまセン──すべてを包み込んでくれる母のような存在なのデース！」"
+translation = "「정말 아깝슴다! 바다는 넓고 아름다울 뿐만이 아님다── 모든 것을 감싸 안아주는 어머니 같은 존재인 거임다!」"
+
+[[dialogue]]
+speaker = "トリシャ"
+original = "「な、なるほど……？」"
+translation = "「나, 과연……?」"
+
+[[dialogue]]
+speaker = "リップル"
+original = "「それに、海で一緒に遊んだあとはみんな仲良く友達デース！\u3000疲れた体で食べるかき氷はサイコーですヨ～！」"
+translation = "「게다가, 바다에서 같이 논 다음에는 모두 사이좋은 친구임다! 지친 몸으로 먹는 빙수는 최고여요~!」"
+
+[[dialogue]]
+speaker = "トリシャ"
+original = "「……！\u3000なんと……」"
+translation = "「……! 세상에……」"
+
+[[dialogue]]
+speaker = "トリシャ"
+original = "「せっかくビーチにはこれだけ人がいるのに……誰ともお友達になれないのは……もったいないです」"
+translation = "「모처럼 비치에 이렇게나 사람이 있는데…… 누구와도 친구가 되지 못하는 건…… 아까운 일이에요」"
+
+[[dialogue]]
+speaker = "リップル"
+original = "「トリシャは泳げないデースか？」"
+translation = "「트리샤는 못 헤엄침까?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "泳いだ経験がないから"
+translation = "헤엄친 경험이 없어서"
+
+[[dialogue]]
+speaker = "unk"
+original = "トリシャさんは海が初めて"
+translation = "트리샤 씨는 바다가 처음"
+
+[[dialogue]]
+speaker = "リップル"
+original = "「オウ、了解デース！\u3000それならばいいものがありマース！」"
+translation = "「오우, 알겠슴다! 그렇다면 좋은 것이 있슴다!」"
+
+[[dialogue]]
+speaker = "リップル"
+original = "「ＢＩＧ浮き輪デース！\u3000これに掴まっていれば、泳げなくてもへっちゃらデース！」"
+translation = "「BIG 튜브임다! 이걸 붙잡고 있으면, 못 헤엄쳐도 거뜬함다!」"
+
+[[dialogue]]
+speaker = "トリシャ"
+original = "「ほほう……こんなよいものが」"
+translation = "「호오…… 이런 좋은 물건이」"
+
+[[dialogue]]
+speaker = "リップル"
+original = "「それに、ここはワタシのリゾート結界デース。どんなに流されても、遭難することはないので安心してくだサーイ♪」"
+translation = "「게다가, 여기는 저의 리조트 결계임다. 아무리 떠내려가도, 조난당할 일은 없으니 안심하심쇼♪」"
+
+[[dialogue]]
+speaker = "トリシャ"
+original = "「ふむふむ……ありがとうございます。なんだかいける気がしてきました」"
+translation = "「흠흠…… 감사합니다. 왠지 할 수 있을 것 같은 기분이 들기 시작했어요」"
+
+[[dialogue]]
+speaker = "トリシャ"
+original = "「行きましょう、会長さん……このビッグウェーブ、逃がすわけにはいきません」"
+translation = "「가요, 회장님…… 이 빅 웨이브, 놓칠 수는 없습니다」"
+
+[[dialogue]]
+speaker = "トリシャ"
+original = "「よ、よし……まずは足から入っていきますよ」"
+translation = "「조, 좋아…… 우선 발부터 들어갈게요」"
+
+[[dialogue]]
+speaker = "トリシャ"
+original = "「ひゃっ……！\u3000お、思ったより冷たいのですね。いえ、大丈夫です。私は寒さには強いので……」"
+translation = "「히얏……! 새, 생각보다 차갑네요. 아니요, 괜찮습니다. 저는 추위에는 강하니까……」"
+
+[[dialogue]]
+speaker = "トリシャ"
+original = "「か、会長さんも隣にいてくださいね」"
+translation = "「회, 회장님도 곁에 있어 주세요」"
+
+[[dialogue]]
+speaker = "unk"
+original = "そばにいる"
+translation = "곁에 있을게"
+
+[[dialogue]]
+speaker = "unk"
+original = "わかった"
+translation = "알았어"
+
+[[dialogue]]
+speaker = "トリシャ"
+original = "「フフ……あなたがいてくれると、安心感が湧き上がってきますね」"
+translation = "「후후…… 당신이 곁에 있어 주니, 안심감이 샘솟네요」"
+
+[[dialogue]]
+speaker = "トリシャ"
+original = "「こうして腕も組めば……フフ、さらに安心です」"
+translation = "「이렇게 팔짱도 끼면…… 후후, 더욱 안심이에요」"
+
+[[dialogue]]
+speaker = "unk"
+original = "トリシャさんの柔らかな感触が、こちらの二の腕を包んだ。"
+translation = "트리샤 씨의 부드러운 감촉이, 이쪽의 팔뚝을 감쌌다."
+
+[[dialogue]]
+speaker = "トリシャ"
+original = "「もうちょっと……もうちょっと行けそうです。一緒に来てくれますか……？」"
+translation = "「조금만 더…… 조금만 더 갈 수 있을 것 같아요. 같이 가 주시겠어요……?」"
+
+[[dialogue]]
+speaker = "トリシャ"
+original = "「きゃっ、波が……ふぅ。驚いてしまいますね──んぁっ……。な、慣れませんと……んっ」"
+translation = "「꺄악, 파도가…… 후우. 깜짝 놀라게 되네요── 응앗……. 이, 익숙해지지 않으면…… 응읏」"
+
+[[dialogue]]
+speaker = "トリシャ"
+original = "「んっ──きゃぁっ……ご、ごめんなさい……」"
+translation = "「응읏── 꺄앗…… 죄, 죄송해요……」"
+
+[[dialogue]]
+speaker = "unk"
+original = "大きめの波が来るたびにトリシャさんはびくっと震え、こちらに抱きついてきた。"
+translation = "큰 파도가 올 때마다 트리샤 씨는 움찔하며 떨며, 이쪽으로 매달려 왔다."
+
+[[dialogue]]
+speaker = "トリシャ"
+original = "「会長さん……どうかしましたか？\u3000先ほどから、なんだか前かがみの様子ですが……」"
+translation = "「회장님…… 무슨 일인가요? 아까부터, 왠지 앞을 굽히고 있는 모습입니다만……」"
+
+[[dialogue]]
+speaker = "トリシャ"
+original = "「波で倒れそうになっているのでしょうか。でしたら、私がもっと密着して支えてあげなくては──」"
+translation = "「파도에 쓰러질 것 같으신 걸까요. 그렇다면, 제가 더 밀착해서 지탱해 드려야──」"
+
+[[dialogue]]
+speaker = "トリシャ"
+original = "「……あれ。さらに前かがみになってしまいました。これは摩訶不思議です……」"
+translation = "「……어라. 더욱 앞을 굽히게 되어버렸습니다. 이건 참으로 불가사의하네요……」"
+
+[[dialogue]]
+speaker = "トリシャ"
+original = "「ですが……ふふ。気づいたら、太ももまで浸かってしまいました」"
+translation = "「하지만…… 후후. 정신을 차려보니, 허벅지까지 잠겨버렸습니다」"
+
+[[dialogue]]
+speaker = "トリシャ"
+original = "「慣れてみると……この波に揺られる感じも、楽しいものですね……ふふ」"
+translation = "「익숙해지고 보니…… 이 파도에 흔들리는 느낌도, 즐거운 것이네요…… 후후」"
+
+[[dialogue]]
+speaker = "トリシャ"
+original = "「それとも……こんなに楽しいのは、隣にあなたがいるからでしょうか？」"
+translation = "「아니면…… 이렇게나 즐거운 건, 곁에 당신이 있기 때문일까요?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "至近距離で拝むトリシャさんの無邪気な笑顔は、ぎらつく太陽よりも眩しく感じた……。"
+translation = "지근거리에서 우러러보는 트리샤 씨의 천진난만한 미소는, 내리쬐는 태양보다도 눈부시게 느껴졌다……."
+

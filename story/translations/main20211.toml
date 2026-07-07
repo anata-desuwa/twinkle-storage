@@ -1,0 +1,740 @@
+[[dialogue]]
+speaker = "unk"
+original = "第１１話,白銀のガーディアン,B"
+translation = "제11화, 백은의 가디언, B"
+
+[[dialogue]]
+speaker = "unk"
+original = "そして、クイズ大会が始まった。"
+translation = "그리고 퀴즈 대회가 시작되었다."
+
+[[dialogue]]
+speaker = "ベアトリス"
+original = "「わかりました！\u3000答えは『坦々麺』です！」"
+translation = "「알겠습니다! 정답은 『탄탄면』이에요!」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「おおっ、正解みたいだぞ！\u3000すごいなベアトリス！」"
+translation = "「오오, 정답인 모양인데! 대단하다 베아트리스!」"
+
+[[dialogue]]
+speaker = "ナターシャ"
+original = "「こっちの答えも分かったよ。『ハルバード』だね」"
+translation = "「이쪽 답도 알겠어. 『할버드』네.」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「ナターシャもやるな」"
+translation = "「나타샤도 제법이군.」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「よーし、この調子でどんどん解いていくぞー！！」"
+translation = "「조아쓰, 이 기세로 팍팍 풀어버리자고!!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "選管チームは順当にポイントを重ねて勝ち上がり──"
+translation = "선관 팀은 순조롭게 포인트를 쌓으며 승리해 나갔고──"
+
+[[dialogue]]
+speaker = "unk"
+original = "一方で俺たち新星星徒会チームも予選、１回戦、２回戦と駒を進めていった。"
+translation = "한편 우리 신성 성도회 팀도 예선, 1회전, 2회전을 통과하며 승승장구했다."
+
+[[dialogue]]
+speaker = "unk"
+original = "そして、いよいよ迎えた決勝戦。その舞台に立っていたのは──"
+translation = "그리고 마침내 맞이한 결승전. 그 무대에 서 있던 것은──"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「やはり勝ち上がってきたな」"
+translation = "「역시 올라왔군.」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「あなたたちこそね！」"
+translation = "「너희야말로!」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「今日こそは絶対に勝つぞ、緋宮クロト！」"
+translation = "「오늘이야말로 반드시 이기겠다, 히노미야 쿠로토!」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「受けて立つよ、梨緒」"
+translation = "「받아주지, 리오.」"
+
+[[dialogue]]
+speaker = "紅明"
+original = "『おお～、バチバチ火花が散ってるぜ！\u3000因縁の対決ってやつだな！』"
+translation = "『오오~ 불꽃이 팍팍 튀는데! 인연의 대결이라는 거구만!』"
+
+[[dialogue]]
+speaker = "紅明"
+original = "『そいじゃ決勝戦のルール説明だ』"
+translation = "『그럼 결승전 규칙 설명이다!』"
+
+[[dialogue]]
+speaker = "紅明"
+original = "『決勝戦はなんとバトル形式だ。クイズが出題されると、空中を飛んでるドローンが画像を何枚か表示するぜ』"
+translation = "『결승전은 무려 배틀 형식이야. 퀴즈가 출제되면 공중을 나는 드론이 사진을 몇 장 표시할 거야!』"
+
+[[dialogue]]
+speaker = "紅明"
+original = "『その中から正解の画像を見つけて、星術で撃ち抜けばポイントだ』"
+translation = "『그중에서 정답 사진을 찾아 성술로 꿰뚫으면 포인트다!』"
+
+[[dialogue]]
+speaker = "紅明"
+original = "『もちろん相手チームを妨害するのもありだからバチバチやってくれよな！』"
+translation = "『물론 상대 팀을 방해하는 것도 가능하니까 화끈하게 해보라고!』"
+
+[[dialogue]]
+speaker = "紅明"
+original = "『さてと……それじゃ時間だ。両チーム、準備はいいか？』"
+translation = "『자 그럼…… 시간이 됐군. 양 팀, 준비됐나?』"
+
+[[dialogue]]
+speaker = "紅明"
+original = "『決勝戦──レディー……ゴー！！！！』"
+translation = "『결승전── 레디…… 고!!!!』"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「外さないわ！」"
+translation = "「놓치지 않아!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ヴィーナスの光条が解答を撃ち抜き、得点は４対４。息もつかせぬ接戦となっている。"
+translation = "비너스의 광조가 정답을 꿰뚫으며 득점은 4 대 4. 숨 막히는 접전이 이어지고 있다."
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「何とか追いついたけど……手ごわいわね、選管チーム」"
+translation = "「어떻게든 따라잡았지만…… 만만치 않네, 선관 팀.」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「ああ、急造チームとは思えないくらい息が合ってるな」"
+translation = "「아아, 급조된 팀이라고는 생각되지 않을 정도로 호흡이 잘 맞아.」"
+
+[[dialogue]]
+speaker = "unk"
+original = "稲妻のようなスピードを生かして積極的に答えを狙う梨緒。"
+translation = "번개 같은 스피드를 살려 적극적으로 정답을 노리는 리오."
+
+[[dialogue]]
+speaker = "unk"
+original = "気配なく接近し、こちらのチームを妨害するナターシャ。"
+translation = "기척 없이 접근해 우리 팀을 방해하는 나타샤."
+
+[[dialogue]]
+speaker = "unk"
+original = "そして２人を効率的に動かすためにフォローに回るベアトリス。"
+translation = "그리고 두 사람을 효율적으로 움직이게 하기 위해 서포트하는 베아트리스."
+
+[[dialogue]]
+speaker = "unk"
+original = "それぞれが実力の高い星騎士であり、全員が上手く立ち回っている。そして何より──"
+translation = "각자가 실력 있는 성기사이며 모두가 훌륭하게 대처하고 있다. 그리고 무엇보다──"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「大丈夫！\u3000ヒーローは追い詰められてからが本番だぞ！」"
+translation = "「괜찮아! 히어로는 몰린 다음부터가 진짜라고!」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「次はいけるぞ！\u3000みんな、頑張ろう！」"
+translation = "「다음엔 할 수 있어! 다들 힘내자!」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「ああ、絶対に諦めない！」"
+translation = "「아아, 절대로 포기하지 않아!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "目立った活躍こそしていないが、意外なことにチームの精神的な支柱となっているのはアポロだった。"
+translation = "눈에 띄는 활약은 아니었지만, 의외로 팀의 정신적 지주가 된 것은 아폴로였다."
+
+[[dialogue]]
+speaker = "unk"
+original = "他３人の連携が上手くいっているのは、アポロの存在があってこそと言えるだろう。"
+translation = "나머지 세 사람의 연계가 잘 이루어지는 것은 아폴로의 존재 덕분이라고 할 수 있으리라."
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「でも、チームワークなら星徒会だって負けてないわ。みんなで何度も危機を潜り抜けてきたんだから」"
+translation = "「하지만 팀워크라면 성도회도 지지 않아. 다 같이 몇 번이나 위기를 넘겨왔으니까.」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「そうだな、負けるわけにはいかない。絶対に勝って優勝する！」"
+translation = "「그래, 질 수는 없지. 반드시 이겨서 우승하겠어!」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「よく言ったわ、クロト！\u3000こうなったら私も奥の手を出すしかないわね」"
+translation = "「잘 말했어, 쿠로토! 이렇게 되면 나도 비장의 수단을 쓸 수밖에 없겠네.」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「……奥の手？\u3000何か作戦があるのか？」"
+translation = "「……비장의 수단? 무슨 작전이라도 있는 거야?」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「ふっふ～ん。私にドーンと任せなさいっ♪」"
+translation = "「훗훗~흥. 나한테 떡하니 맡겨두라고♪」"
+
+[[dialogue]]
+speaker = "紅明"
+original = "『うっしし～♪\u3000盛り上がってるね～！』"
+translation = "『히히히~♪ 분위기 달아오르는데~!』"
+
+[[dialogue]]
+speaker = "紅明"
+original = "『決勝戦は５点先取した方の勝利！\u3000つまり泣いても笑っても次が最後の問題だ！\u3000心してくれよな！』"
+translation = "『결승전은 5점을 먼저 따는 쪽이 승리! 즉 울어도 웃어도 다음이 마지막 문제다! 각오하라고!』"
+
+[[dialogue]]
+speaker = "紅明"
+original = "『では、問題！』"
+translation = "『그럼, 문제!』"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「……」"
+translation = "「……」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「……」"
+translation = "「……」"
+
+[[dialogue]]
+speaker = "紅明"
+original = "『──新星学園の学生寮はラルーナで・す・が～……流星学園の学生寮は何と呼ばれている？』"
+translation = "『──신성학원의 학생 기숙사는 라루나입·니·다·만~…… 유성학원의 학생 기숙사는 뭐라고 불릴까?』"
+
+[[dialogue]]
+speaker = "unk"
+original = "選択肢は『メンソーレ』『エルソーレ』『イルソーレ』……"
+translation = "선택지는 『멘소레』 『엘소레』 『일소레』……"
+
+[[dialogue]]
+speaker = "unk"
+original = "正解は──イルソーレ！"
+translation = "정답은── 일소레!"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「ヴィーナス！」"
+translation = "「비너스!」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「ええ、加減はしないわよ！」"
+translation = "「그래, 봐주지 않겠어!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ヴィーナスの鎖が俺の足に巻き付いて──"
+translation = "비너스의 사슬이 내 발에 감기더니──"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「ひっさつの～～……クロトハンマー！！」"
+translation = "「필사아아알~~…… 쿠로토 해머!!」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「は──？」"
+translation = "「하──?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "遠心力で加速された俺自身が、解答へと一直線に突き進んで──"
+translation = "원심력으로 가속된 나 자신이 정답을 향해 일직선으로 돌진하여──"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「な……そんなのアリか！？」"
+translation = "「뭐…… 저런 게 어딨어!?」"
+
+[[dialogue]]
+speaker = "ベアトリス"
+original = "「会長さんが突っ込んできますーーっ！？」"
+translation = "「회장님이 날아와요오오옷!?」"
+
+[[dialogue]]
+speaker = "ナターシャ"
+original = "「あはは、おもしろ」"
+translation = "「아하하, 재밌네.」"
+
+[[dialogue]]
+speaker = "unk"
+original = "迎撃しようとした梨緒たちの星術を突き破り、俺の拳が届く。"
+translation = "요격하려던 리오 일행의 성술을 뚫고 내 주먹이 닿는다."
+
+[[dialogue]]
+speaker = "クロト"
+original = "「俺たちの──勝ちだ！！」"
+translation = "「우리들의── 승리다!!」"
+
+[[dialogue]]
+speaker = "紅明"
+original = "『せ～いか～～いっ！！\u3000流星寮はイルソーレでした～っ！』"
+translation = "『저~엉다~~압!! 유성 기숙사는 일소레였습니다~!』"
+
+[[dialogue]]
+speaker = "紅明"
+original = "『ダーリ──オッホン。緋宮会長、体を張った魂の解答！\u3000星徒会チームの勝利だーーーーっ！！』"
+translation = "『달링── 흠흠. 히노미야 회장, 몸을 던진 영혼의 정답! 성도회 팀의 승리다아아아아아!!』"
+
+[[dialogue]]
+speaker = "unk"
+original = "観戦していた生徒たちから、どっと歓声が巻き起こる。"
+translation = "관전하던 학생들 사이에서 와아아 하고 함성이 터져 나왔다."
+
+[[dialogue]]
+speaker = "unk"
+original = "負けた生徒たちも少なからず見ていたようで、星徒会と選管の勝負を楽しんでくれたようだった。"
+translation = "패배한 학생들도 적지 않게 보고 있었던 모양이지만, 성도회와 선관의 승부를 즐겨준 듯했다."
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「お疲れ様！\u3000まさか緋宮くんがあんなことするとは思わなかったよ」"
+translation = "「수고했어! 설마 히노미야 군이 저런 짓을 할 줄은 몰랐어.」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「私とクロトの合体技よ！\u3000どう、羨ましい？」"
+translation = "「나와 쿠로토의 합체 기술이야! 어때, 부럽지?」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「いや、羨ましくはないかな……。というか緋宮くんは大丈夫？」"
+translation = "「아니, 부럽지는 않은데……. 그보다 히노미야 군은 괜찮아?」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「ああ、大丈夫。ちょっと目が回ったけど」"
+translation = "「아아, 괜찮아. 좀 어지럽긴 하지만.」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「やっぱり目は回るんだ……」"
+translation = "「역시 어지럽긴 하구나…….」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「ふふふ、主催なのに楽しんじゃったわね～」"
+translation = "「후후후, 주최자인데도 즐겨버렸네~」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「盛り上がったので結果オーライということで。その点では、選挙管理委員会のおかげでもありますが」"
+translation = "「분위기가 살았으니 결과적으로 좋았던 걸로 하죠. 그 점에서는 선거관리위원회 덕분이기도 합니다만.」"
+
+[[dialogue]]
+speaker = "unk"
+original = "梨緒に勝負を挑まれたからとはいえ、盛り上げるのに一役買ってくれた選管には感謝だ。"
+translation = "리오가 승부를 걸어왔기 때문이긴 하지만, 분위기를 띄우는 데 한몫해 준 선관에게는 고마울 따름이다."
+
+[[dialogue]]
+speaker = "unk"
+original = "その選管はというと……"
+translation = "그 선관은 어떠냐 하면……"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「ぐっ……負けた……！」"
+translation = "「큭…… 졌다……!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "地面に膝を付き、拳を握って悔しさを露わにする梨緒。"
+translation = "바닥에 무릎을 꿇고 주먹을 쥐며 분함을 드러내는 리오."
+
+[[dialogue]]
+speaker = "unk"
+original = "だけどすぐに俺に向き直り、姿勢よくビシッと指を突き立てて──"
+translation = "하지만 곧바로 나를 돌아보더니 자세를 가다듬고 삿대질을 하며──"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「緋宮クロト！\u3000次は必ず勝つ！\u3000勝つからな！」"
+translation = "「히노미야 쿠로토! 다음엔 반드시 이긴다! 이길 거니까!」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「あ、ああ……」"
+translation = "「아, 어어……」"
+
+[[dialogue]]
+speaker = "unk"
+original = "まるでゲームに負けた子どものように、目にわずかに涙を浮かべ、勝つと連呼する。"
+translation = "마치 게임에서 진 아이처럼 눈에 살짝 눈물을 머금고 이기겠다고 연신 외친다."
+
+[[dialogue]]
+speaker = "unk"
+original = "その剣幕に少し押されながら、本当に悔しかったんだな、と彼女の心境を想像する。"
+translation = "그 기세에 조금 눌리면서도, 정말 분했나 보구나 하며 그녀의 심경을 짐작해 본다."
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「あっはっはっはっは！\u3000いや～、楽しかったな、梨緒！\u3000あたしは全然活躍できなかったけど！」"
+translation = "「앗하하하하하! 야~ 즐거웠다, 리오! 난 전혀 활약 못 했지만!」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「それに比べて、オマエ凄いな！\u3000選管チームの正解の８割は梨緒だったぞ！」"
+translation = "「그거에 비하면 너 대단하더라! 선관 팀 정답의 8할은 리오였어!」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「あ、ぅ……だが負けたぞ。どうせ私は、知識ばかりを頭に詰め込んだ、頭でっかちの役立たずなんだ……」"
+translation = "「아, 으…… 하지만 졌다고. 어차피 난 지식만 머리에 가득 채운, 머리만 큰 쓸모없는 녀석이야……」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "（って、ちっがーーう！\u3000アポロはそんなこと言ってない！\u3000どうして私はいつもこう、勝手にスイッチが入ってしまうんだ！）"
+translation = "(아니, 아냐아아아! 아폴로는 그런 말 안 했어! 왜 난 항상 이렇게 멋대로 스위치가 켜져 버리는 거냐고!)"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "（早く否定しなくちゃ！\u3000せっかく仲間が褒めてくれたのに、急に相手の発言を否定するなんて失礼だぞ！）"
+translation = "(빨리 부정해야 해! 어렵사리 동료가 칭찬해 줬는데 갑자기 상대의 발언을 부정하다니 실례잖아!)"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「いや、すまない。発言を間違えた。……えっと、私はとっても賢いな。クイズも結構、得意な方だぞ」"
+translation = "「아니, 미안하다. 말을 잘못했어. ……음, 난 무척 똑똑하군. 퀴즈도 꽤 잘하는 편이다.」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "（って、今度は澄まし顔で何言ってるんだ、私はーー！？）"
+translation = "(아니, 이번엔 시치미 뚝 떼고 무슨 소릴 하는 거야, 나는──!?)"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「オマエは何を言ってるんだ？\u3000もしかして、実はちょっと頭が悪いのか？」"
+translation = "「너 무슨 소릴 하는 거야? 혹시 사실은 좀 머리가 나쁜 거냐?」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「もしかして結構真剣に頭の心配をされている！？」"
+translation = "「혹시 꽤 진지하게 머리 걱정을 사고 있는 건가!?」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「あのなぁ、もちろん勝った負けたは重要だぞ。強い弱いも大切なことだ！\u3000だけど、あたしが言いたかったことは……」"
+translation = "「이봐, 물론 이기고 지는 건 중요해. 강하고 약한 것도 소중한 일이지! 하지만 내가 하고 싶었던 말은……」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「──クイズ大会、楽しかったよな、ってことだ！」"
+translation = "「──퀴즈 대회, 즐거웠지, 라는 거다!」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「……！」"
+translation = "「……!」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「ここでオマエが言うべきことは、自分が『強かったか弱かったか』じゃなくて、『楽しかったかどうか』だ！」"
+translation = "「여기서 네가 해야 할 말은 자신이 『강했는지 약했는지』가 아니라, 『즐거웠는지 어땠는지』라고!」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「あたしは楽しかったぞ！\u3000仲間が点を沢山取ってるところは爽快だったからな！」"
+translation = "「난 즐거웠어! 동료가 점수를 잔뜩 따는 모습은 상쾌했으니까!」"
+
+[[dialogue]]
+speaker = "ベアトリス"
+original = "「わ、私も楽しかった……です！」"
+translation = "「저, 저도 즐거웠……어요!」"
+
+[[dialogue]]
+speaker = "ナターシャ"
+original = "「私も、思ってたより悪くなかったよ」"
+translation = "「나도 생각했던 것보다 나쁘지 않았어.」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「みんな……ああ、そうだな」"
+translation = "「다들…… 아아, 그렇군.」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「負けたけど、楽しかった。この４人で戦えたことが、何よりも」"
+translation = "「졌지만 즐거웠어. 이 네 명이서 싸울 수 있었던 것이 무엇보다도.」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「へへっ。梨緒、ちょっとはいい顔になったじゃんか！」"
+translation = "「헤헤. 리오, 이제 좀 표정이 좋아졌잖아!」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「だが、勝つことを諦めたわけじゃないぞ。私は必ず、緋宮クロトに勝ってみせる！」"
+translation = "「하지만 이기는 걸 포기한 건 아니다. 난 반드시 히노미야 쿠로토를 이겨 보이겠어!」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「もちろんだぜ！\u3000あたしたち、選挙管理委員会の力を見せてやる……！」"
+translation = "「당연하지! 우리 선거관리위원회의 힘을 보여주자고……!」"
+
+[[dialogue]]
+speaker = "ベアトリス"
+original = "「……すっかり意気投合してますけど、アポロさん、内部監査は大丈夫なんでしょうか？」"
+translation = "「……완전히 의기투합하셨는데, 아폴로 씨, 내부 감사는 괜찮은 걸까요?」"
+
+[[dialogue]]
+speaker = "ナターシャ"
+original = "「それ言うと、むしろ梨緒の方が星徒会の監視っていう目的を忘れてないか、不安になるけどね」"
+translation = "「그걸 따지자면 오히려 리오 쪽이 성도회 감시라는 목적을 잊어버린 게 아닌가 불안해지는데.」"
+
+[[dialogue]]
+speaker = "ナターシャ"
+original = "「ま、でもいいんじゃない。みんなが笑っていられるうちは、特に問題はないってことだと思うよ」"
+translation = "「뭐, 그래도 괜찮지 않아. 다들 웃고 있을 수 있는 동안은 딱히 문제없다는 뜻이라고 봐.」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ベアトリスは苦笑いを浮かべ、ナターシャはやれやれと肩を竦める。"
+translation = "베아트리스는 쓴웃음을 지었고 나타샤는 어쩔 수 없다는 듯 어깨를 으쓱였다."
+
+[[dialogue]]
+speaker = "unk"
+original = "だけど、しばらくすると梨緒も落ち着いてきたようで……"
+translation = "하지만 잠시 시간이 지나자 리오도 진정된 모양이라……"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「すまない。色々と恥ずかしいところを見せた」"
+translation = "「미안하다. 여러모로 부끄러운 모습을 보였군.」"
+
+[[dialogue]]
+speaker = "ベアトリス"
+original = "「いいえ。負けちゃって残念ですけど、楽しかったです、本当に」"
+translation = "「아니에요. 져서 아쉽긴 하지만 즐거웠어요, 정말로.」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「……そうか。なら参加した甲斐があったな」"
+translation = "「……그런가. 그럼 참가한 보람이 있었군.」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ベアトリスが柔らかく微笑むと、梨緒も小さく笑みを見せる。"
+translation = "베아트리스가 부드럽게 미소 짓자 리오도 작게 미소를 보였다."
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「選管に入ってくれてありがとう、ベアトリス」"
+translation = "「선관에 들어와 줘서 고맙다, 베아트리스.」"
+
+[[dialogue]]
+speaker = "ベアトリス"
+original = "「ベアトって呼んでください。仲のいい友達はそう呼ぶので」"
+translation = "「베아트라고 불러주세요. 친한 친구들은 그렇게 부르거든요.」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「そうか。なら君も敬語はやめてくれ」"
+translation = "「그런가. 그럼 너도 경어는 관둬라.」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「これからもよろしく、ベアト」"
+translation = "「앞으로도 잘 부탁한다, 베아트.」"
+
+[[dialogue]]
+speaker = "ベアトリス"
+original = "「……うん、梨緒ちゃん」"
+translation = "「……응, 리오짱.」"
+
+[[dialogue]]
+speaker = "ナターシャ"
+original = "「おやおや、おふたりさん、ずいぶん仲良くなったね」"
+translation = "「이런 이런, 두 사람 굉장히 사이좋아졌네.」"
+
+[[dialogue]]
+speaker = "ベアトリス"
+original = "「ナターシャちゃんも仲間だよ」"
+translation = "「나타샤짱도 동료예요.」"
+
+[[dialogue]]
+speaker = "ナターシャ"
+original = "「あ、私も入っていい流れ？」"
+translation = "「아, 나도 끼어도 되는 흐름?」"
+
+[[dialogue]]
+speaker = "ナターシャ"
+original = "「じゃあ遠慮なく。私もよろしくね、ベアト」"
+translation = "「그럼 사양 않고. 나도 잘 부탁해, 베아트.」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「あっはっはっはっは！\u3000あたしもよろしくなー、ベアト！」"
+translation = "「앗하하하하하! 나도 잘 부탁한다고, 베아트!」"
+
+[[dialogue]]
+speaker = "ベアトリス"
+original = "「うん♪\u3000アポロちゃん」"
+translation = "「응♪ 아폴로짱.」"
+
+[[dialogue]]
+speaker = "unk"
+original = "クイズ大会を経て、４人は仲間になれたようだった。"
+translation = "퀴즈 대회를 거치며 네 사람은 동료가 된 모양이었다."
+
+[[dialogue]]
+speaker = "unk"
+original = "星徒会で出ることになるとは思わなかったけど、留学生の親睦という最初の目的は果たせたようだ。"
+translation = "성도회로 나가게 될 줄은 몰랐지만, 유학생 친목이라는 최초의 목적은 달성한 듯하다."
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「よし。次こそ勝つぞ、この４人で」"
+translation = "「좋아. 다음엔 반드시 이기자, 이 네 명이서.」"
+
+[[dialogue]]
+speaker = "ナターシャ"
+original = "「ホント好きなんだねー、勝負するの。でもまた負けちゃうかもよ？」"
+translation = "「정말 좋아하는구나, 승부하는 거. 하지만 또 져버릴지도 모른다고?」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「負けるのはイヤだ」"
+translation = "「지는 건 싫다.」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「でも一度も勝てないのはもっとイヤだ。勝つまで諦めない」"
+translation = "「하지만 한 번도 이기지 못하는 건 더 싫어. 이길 때까지 포기하지 않겠다.」"
+
+[[dialogue]]
+speaker = "ナターシャ"
+original = "「あは。なるほど。一理あるね」"
+translation = "「아하. 그렇구나. 일리 있네.」"
+
+[[dialogue]]
+speaker = "紅明"
+original = "『んじゃ、閉会式と賞品の授与を──』"
+translation = "『그럼 폐회식과 상품 수여를──』"
+
+[[dialogue]]
+speaker = "紅明"
+original = "『！？\u3000街にモンスター……じゃない！？\u3000何かわかんないけど、とにかくヤバいのが暴れてるらしいぜ！』"
+translation = "『!? 거리에 몬스터……가 아냐!? 뭔지는 모르겠지만 아무튼 위험한 녀석이 날뛰고 있다는 모양이야!』"
+
+[[dialogue]]
+speaker = "unk"
+original = "ＤＩＳＣの通知を見て、アリーナにいたプリマステラたちが急ぎ駆けていく。"
+translation = "DISC의 통지를 보고 아레나에 있던 프리마스텔라들이 급히 달려 나간다."
+
+[[dialogue]]
+speaker = "unk"
+original = "情報によれば流星市国全域が何者かに襲われてるという。特に教皇庁周辺の脅威度が高い。"
+translation = "정보에 따르면 유성시국 전역이 누군가에게 습격당하고 있다고 한다. 특히 교황청 주변의 위협도가 높다."
+
+[[dialogue]]
+speaker = "クロト"
+original = "「新星星徒会、出撃だ！」"
+translation = "「신성 성도회, 출격이다!」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「うん！」"
+translation = "「응!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "この流星市国の中枢──流星教皇庁。"
+translation = "이 유성시국의 중추── 유성교황청."
+
+[[dialogue]]
+speaker = "unk"
+original = "俺たちが急行するとそこには──"
+translation = "우리가 급히 달려가자 그곳에는──"
+
+[[dialogue]]
+speaker = "スレイプニル"
+original = "「ブルルル……！」"
+translation = "「부르르르……!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "まるで騎士のような鎧をまとい、剣を携えた馬型のガーディアン。"
+translation = "마치 기사 같은 갑옷을 입고 검을 든 말 형태의 가디언."
+
+[[dialogue]]
+speaker = "unk"
+original = "巨躯の神馬が、刃を鈍く光らせ、鋼のごとき蹄を鳴らして街を蹂躙していた。"
+translation = "거구의 신마가 칼날을 둔탁하게 빛내며 강철 같은 발굽 소리를 내며 거리를 유린하고 있었다."
+
+[[dialogue]]
+speaker = "クロト"
+original = "「ガーディアン……？\u3000本来ならフィーニスの塔の内部にしかいないはずじゃ？」"
+translation = "「가디언……? 원래라면 피니스의 탑 내부에만 있어야 할 텐데?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "女神の領域たるフィーニスの塔。その内部を守る使徒がガーティアンだ。"
+translation = "여신의 영역인 피니스의 탑. 그 내부를 지키는 사도가 가디언이다."
+
+[[dialogue]]
+speaker = "unk"
+original = "ガーディアンは機械でできたものと、神獣の姿をしたものが現在確認されているが、あれは後者だ。"
+translation = "가디언은 기계로 된 것과 신수의 모습을 한 것이 현재 확인되어 있는데, 저것은 후자다."
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「またリクリエの瘴気に当てられて……って雰囲気じゃないよね。このガーディアンに、ああいう歪さはないし」"
+translation = "「또 리크리에의 장기에 오염돼서…… 라는 분위기는 아니네. 이 가디언에게 그런 일그러짐은 없고.」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「むしろ綺麗っていうか……いや、敵にこんなこと言うのは変だけど」"
+translation = "「오히려 아름답다고 해야 하나…… 아니, 적에게 이런 말 하는 건 이상하지만.」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「神々しさすら感じます。ですが」"
+translation = "「신성함마저 느껴집니다. 하지만.」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「街を破壊するなら捨て置けないわね～」"
+translation = "「거리를 파괴한다면 내버려 둘 수 없겠네~」"
+
+[[dialogue]]
+speaker = "unk"
+original = "まるで裁きだとでも言わんばかりに、天の使いが建物を、広場を破壊する。"
+translation = "마치 심판이라도 내리겠다는 듯 하늘의 사자가 건물과 광장을 파괴한다."
+
+[[dialogue]]
+speaker = "unk"
+original = "その光景は、破滅の尖兵たるモンスターが世界を侵すがごとく。"
+translation = "그 광경은 파멸의 선병인 몬스터가 세계를 침식하는 것과 같았다."
+
+[[dialogue]]
+speaker = "クロト"
+original = "「モンスターだろうと、ガーディアンだろうと、街を壊すなら戦うまでだ」"
+translation = "「몬스터든 가디언이든 거리를 부순다면 싸울 뿐이다.」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「ええ、宇宙の果てまでぶっ飛ばしてやるわ！」"
+translation = "「그래, 우주의 끝까지 날려버려 주겠어!」"
+

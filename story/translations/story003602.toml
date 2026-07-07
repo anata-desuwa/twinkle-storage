@@ -1,0 +1,290 @@
+[[dialogue]]
+speaker = "unk"
+original = "俺の前で、新たな戦闘服『リバースフォーム』に変身してみせたサチとプリムラ。"
+translation = "내 앞에서 새로운 전투복 『리버스 폼』으로 변신해 보인 사치와 프리뮬라."
+
+[[dialogue]]
+speaker = "サチ"
+original = "「あ、あの、お兄さん！\u3000この姿は不可抗力ですからね！？\u3000わ、私が望んでこうなったわけじゃなくて……！」"
+translation = "「저, 저기, 오빠! 이 모습은 불가항력이라니까요!? 제, 제가 원해서 이렇게 된 게 아니라……!」"
+
+[[dialogue]]
+speaker = "プリムラ"
+original = "「なぜサチが恥ずかしがるのか意味がわからんのじゃ。黒くて実にカッコよいではないか！」"
+translation = "「어째서 사치가 부끄러워하는지 이해할 수 없느니라. 검은색이 아주 멋지지 않으냐!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "えっと……褒めていいのかわからないけど"
+translation = "저기…… 칭찬해도 될지 모르겠지만."
+
+[[dialogue]]
+speaker = "サチ"
+original = "「えっ？\u3000……か、可愛い？\u3000あ、ありがとうございます……<emoji=heart04>」"
+translation = "「에? ……귀, 귀엽다고요? 가, 감사합니다……<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "プリムラ"
+original = "「はぁ！？\u3000我の衣装もか！？\u3000カッコいいならまだしも、可愛いなどと呼ばれて喜ぶとでも――」"
+translation = "「하아!? 짐의 의상도냐!? 멋지다면 모를까, 귀엽다는 소리를 듣고 기뻐할 줄이라도――」"
+
+[[dialogue]]
+speaker = "プリムラ"
+original = "「……フヘへへぇ<emoji=heart04>」"
+translation = "「……후헤헤헤에<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "サチ"
+original = "「喜んでるし……相変わらずチョロい……」"
+translation = "「기뻐하고 있고…… 여전히 단순해……」"
+
+[[dialogue]]
+speaker = "トレジアンナ"
+original = "「今回の衣装は、私がデザインしたわけではなく、通常の戦闘服と同様、力の発現によって自然形成されたものなんです」"
+translation = "「이번 의상은 제가 디자인한 게 아니라, 일반 전투복과 마찬가지로 힘의 발현에 의해 자연적으로 형성된 것입니다.」"
+
+[[dialogue]]
+speaker = "トレジアンナ"
+original = "「反転の力には未知数の部分が多く……まずは安全に制御できる機能の構築を優先し、アニマさんにもご協力頂いて製作しました」"
+translation = "「반전의 힘에는 미지수인 부분이 많아서…… 우선 안전하게 제어할 수 있는 기능 구축을 우선했고, 아니마 씨의 도움도 받아서 제작했습니다.」"
+
+[[dialogue]]
+speaker = "トレジアンナ"
+original = "「改めて説明しますと――お２人は現在、『反転のロストアイテム』の影響で、本来持っていた力の性質が逆転してしまっている状態です」"
+translation = "「다시 설명해 드리자면―― 두 분은 현재 『반전의 로스트 아이템』의 영향으로 본래 가지고 있던 힘의 성질이 역전되어 버린 상태입니다.」"
+
+[[dialogue]]
+speaker = "プリムラ"
+original = "「そのせいで、これまで通りの力を使っての変身ができなくなってしまったのじゃ」"
+translation = "「그 때문에 지금까지의 힘을 사용한 변신을 할 수 없게 되어버린 것이니라.」"
+
+[[dialogue]]
+speaker = "プリムラ"
+original = "「慣れ親しんだ力を奪われ、体に合わぬ力を与えられたような感覚じゃな」"
+translation = "「익숙한 힘을 빼앗기고 몸에 맞지 않는 힘을 부여받은 듯한 감각이구나.」"
+
+[[dialogue]]
+speaker = "トレジアンナ"
+original = "「その『反転した力』を制御し、戦闘可能にしたのが今回の『リバースフォーム』というわけです」"
+translation = "「그 『반전된 힘』을 제어해 전투 가능하게 한 것이 이번 『리버스 폼』이라는 것이죠.」"
+
+[[dialogue]]
+speaker = "サチ"
+original = "「ですから私たち、この力をちゃんと使いこなせるよう、訓練をしておきたくて……」"
+translation = "「그러니까 저희, 이 힘을 제대로 다룰 수 있도록 훈련을 해두고 싶어서……」"
+
+[[dialogue]]
+speaker = "トレジアンナ"
+original = "「力を元に戻すには、エントロフィーさんの持つロストアイテムを回収するしかないでしょう」"
+translation = "「힘을 원래대로 돌리려면 엔트로피 씨가 가진 로스트 아이템을 회수하는 수밖에 없겠죠.」"
+
+[[dialogue]]
+speaker = "サチ"
+original = "「次にエントロフィーさんが現れた時、自分たちの力で戦えるようにしたいんです」"
+translation = "「다음에 엔트로피 씨가 나타났을 때 자신들의 힘으로 싸울 수 있게 하고 싶어요.」"
+
+[[dialogue]]
+speaker = "プリムラ"
+original = "「奴め、こんな厄介な目に遭わせおって……この手で直接とっちめてやらねば気が済まんからな！」"
+translation = "「그 녀석, 이런 번거로운 꼴을 당하게 하다니…… 이 손으로 직접 혼내주지 않으면 직성이 풀리지 않으니까!」"
+
+[[dialogue]]
+speaker = "トレジアンナ"
+original = "「ただし現状、反転した力のデータは不十分です。制御を誤れば、暴走の危険性もあります」"
+translation = "「다만 현재 반전된 힘의 데이터가 불충분합니다. 제어를 잘못하면 폭주의 위험성도 있어요.」"
+
+[[dialogue]]
+speaker = "サチ"
+original = "「その時、私たちを抑え込んでもらう為に、お兄さんにも協力をお願いしたいんです」"
+translation = "「그때 저희를 억눌러 주시기 위해 오빠에게도 협력을 부탁드리고 싶어요.」"
+
+[[dialogue]]
+speaker = "プリムラ"
+original = "「眷族よ、頼めるか？」"
+translation = "「<u>권속</u>이여, 부탁해도 되겠느냐?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "わかった。任せてくれ"
+translation = "알았어. 맡겨줘."
+
+[[dialogue]]
+speaker = "サチ"
+original = "「ありがとうございます、お兄さん♪」"
+translation = "「감사합니다, 오빠♪」"
+
+[[dialogue]]
+speaker = "シズハ"
+original = "「もちろん、私たちもチームとして協力するよ！\u3000ね、ディーちゃん♪」"
+translation = "「물론 우리들도 팀으로서 협력할게! 그치, 디짱♪」"
+
+[[dialogue]]
+speaker = "ディーラック"
+original = "「はぁ？\u3000ボクは別に味方になったつもりはないし、面倒だからイヤなんだけど？」"
+translation = "「하아? 난 딱히 편이 된 적 없고 귀찮으니까 싫은데?」"
+
+[[dialogue]]
+speaker = "シズハ"
+original = "「そう言わずに！\u3000この前だって、私のことを助けてくれたでしょ？\u3000ねっ？」"
+translation = "「그러지 말고! 저번에도 나 도와줬었잖아? 그치?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "こうして俺は、サチとプリムラのリバースフォームを制御する訓練に協力することになった。"
+translation = "이렇게 나는 사치와 프리뮬라의 리버스 폼을 제어하는 훈련에 협력하게 되었다."
+
+[[dialogue]]
+speaker = "unk"
+original = "『仮想結界システム』を使い、選択した訓練フィールドは『魔界』。"
+translation = "『가상 결계 시스템』을 사용해 선택한 훈련 필드는 『마계』."
+
+[[dialogue]]
+speaker = "プリムラ"
+original = "「フハハハ！\u3000では、まず我からいくのじゃ♪」"
+translation = "「후하하하! 그럼 우선 짐부터 가겠느니라♪」"
+
+[[dialogue]]
+speaker = "プリムラ"
+original = "「見るがよい！\u3000これが我の、リバースフォームの力じゃ！」"
+translation = "「보거라! 이것이 짐의, 리버스 폼의 힘이니라!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "プリムラが杖を振るい、魔力を解放する。"
+translation = "프리뮬라가 지팡이를 휘둘러, 마력을 해방한다."
+
+[[dialogue]]
+speaker = "サチ"
+original = "「これは……！\u3000体に力が湧いてきて、回復してる……？」"
+translation = "「이건……! 몸에 힘이 솟아나고, 회복되고 있어……?」"
+
+[[dialogue]]
+speaker = "プリムラ"
+original = "「そう！\u3000元々の我の能力は、周囲のあらゆるエネルギーを吸収し、自らの力へと変換する『吸収変換』じゃった」"
+translation = "「그렇니라! 원래 짐의 능력은, 주위의 모든 에너지를 흡수해 자신의 힘으로 변환하는 『흡수 변환』이었느니라」"
+
+[[dialogue]]
+speaker = "プリムラ"
+original = "「それが反転し、他者へ適したエネルギーを送り込む力――名づけて『放出供給』へと変化したのじゃ！」"
+translation = "「그것이 반전되어, 타인에게 적합한 에너지를 불어넣는 힘―― 이름하여 『방출 공급』으로 변화한 것이니라!」"
+
+[[dialogue]]
+speaker = "トレジアンナ"
+original = "「つまり、仲間への回復や、エネルギー供給が可能になったということですね♪」"
+translation = "「즉, 동료에 대한 회복이나 에너지 공급이 가능해졌다는 거네요♪」"
+
+[[dialogue]]
+speaker = "プリムラ"
+original = "「うむ！\u3000その代わり、今までのフォームに比べて、火力は落ちてしまっているのは不本意じゃがな」"
+translation = "「음! 그 대신, 지금까지의 폼에 비해 화력이 떨어져 버린 것은 불본의지만 말이니라」"
+
+[[dialogue]]
+speaker = "シズハ"
+original = "「いやいや、すごいよ♪\u3000私たちの中で回復役ができるのは大きいし、戦い方の幅もすっごく広がるよ！」"
+translation = "「아니 아니, 대단해♪ 우리 중에서 회복 역을 할 수 있는 건 크고, 싸우는 방식의 폭도 굉장히 넓어질 거야!」"
+
+[[dialogue]]
+speaker = "プリムラ"
+original = "「ふん……そんなおだてても、我は調子には乗らぬぞ！」"
+translation = "「흥…… 그렇게 비행기 태워도, 짐은 우쭐해하지 않느니라!」"
+
+[[dialogue]]
+speaker = "プリムラ"
+original = "「――フハハハハ！！\u3000どうじゃ！\u3000我の供給するエネルギーは絶大であろう？」"
+translation = "「――후하하하하!! 어떠냐! 짐이 공급하는 에너지는 절대적이지 않느냐?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "仮想モンスターを相手に訓練は続いていた。"
+translation = "가상 몬스터를 상대로 훈련은 계속되고 있었다."
+
+[[dialogue]]
+speaker = "unk"
+original = "た、確かにすごいけど……"
+translation = "커, 확실히 대단하긴 한데……"
+
+[[dialogue]]
+speaker = "シズハ"
+original = "「う、うん。ちょっと過剰すぎるような……」"
+translation = "「으, 응. 조금 과잉인 것 같은……」"
+
+[[dialogue]]
+speaker = "ディーラック"
+original = "「あ～あ、完全に調子に乗ってるのサ」"
+translation = "「아~아, 완전히 우쭐해져 버렸음다」"
+
+[[dialogue]]
+speaker = "unk"
+original = "俺たちの技の出力は跳ね上がり、仮想モンスターは瞬殺状態。"
+translation = "우리 기술의 출력은 껑충 뛰어올랐고, 가상 몬스터는 순살 상태."
+
+[[dialogue]]
+speaker = "unk"
+original = "しかし、プリムラから供給されるエネルギー量は、明らかに過剰だった。"
+translation = "하지만, 프리뮬라로부터 공급되는 에너지양은 명백히 과잉이었다."
+
+[[dialogue]]
+speaker = "プリムラ"
+original = "「ほれほれ～！\u3000我が眷族たちよ！\u3000もっと我の力で大暴れするのじゃ～！\u3000フハハハハ♪」"
+translation = "「자자~! 짐의 <u>권속(眷族)</u>들이여! 좀 더 짐의 힘으로 대폭주하는 것이니라~! 후하하하하♪」"
+
+[[dialogue]]
+speaker = "サチ"
+original = "「プリムラ、飛ばしすぎだよ！\u3000リバースフォームは、まだ何が起こるかわからないんだから慎重に――」"
+translation = "「프리뮬라, 너무 무리하고 있어! 리버스 폼은 아직 무슨 일이 일어날지 모르니까 신중하게――」"
+
+[[dialogue]]
+speaker = "トレジアンナ"
+original = "「って、プリムラさん！？\u3000なんか体が発光していますよ！？」"
+translation = "「어라, 프리뮬라 씨!? 왠지 몸이 발광하고 있어요!?」"
+
+[[dialogue]]
+speaker = "プリムラ"
+original = "「な、なに！？\u3000ぬおっ……出力を上げ過ぎて、抑えが――」"
+translation = "「무, 무엇이냐!? 윽…… 출력을 너무 높여서, 제어가――」"
+
+[[dialogue]]
+speaker = "プリムラ"
+original = "「ぬわぁ～～～っ！？！？」"
+translation = "「느와아아~~~?!?!?」"
+
+[[dialogue]]
+speaker = "サチ"
+original = "「プリムラ！」"
+translation = "「프리뮬라!」"
+
+[[dialogue]]
+speaker = "プリムラ"
+original = "「…………」"
+translation = "「…………」"
+
+[[dialogue]]
+speaker = "サチ"
+original = "「ちょっと！\u3000大丈夫……！？」"
+translation = "「이봐! 괜찮아……!?」"
+
+[[dialogue]]
+speaker = "プリムラ"
+original = "「ばぶぅ……？」"
+translation = "「바부우……?」"
+
+[[dialogue]]
+speaker = "シズハ"
+original = "「赤ちゃんになっちゃった！？」"
+translation = "「아기가 되어버렸어!?」"
+
+[[dialogue]]
+speaker = "サチ"
+original = "「えぇ～～～っ！？」"
+translation = "「에에~~~?!」"
+
+[[dialogue]]
+speaker = "プリムラ"
+original = "「あぁ～い<emoji=heart04>」"
+translation = "「아아~이<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "unk"
+original = "唖然とする俺たちの前で、プリムラは無邪気な笑顔を浮かべるのだった。"
+translation = "어안이 벙벙한 우리 앞에서, 프리뮬라는 천진난만한 미소를 짓는 것이었다."
+

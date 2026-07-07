@@ -1,0 +1,255 @@
+[[dialogue]]
+speaker = "unk"
+original = "シャドウフィオナに勝負を挑んだ俺たち。その激戦の末――"
+translation = "섀도우 피오나에게 승부를 건 우리들. 격전 끝에――"
+
+[[dialogue]]
+speaker = "シャドウフィオナ"
+original = "「っ……！」"
+translation = "「윽……!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ついに、倒した……！"
+translation = "드디어 쓰러뜨렸다……!"
+
+[[dialogue]]
+speaker = "ウズメイア"
+original = "「やった～！\u3000すっごーいっ！\u3000会長くん、さっきの技って何！？」"
+translation = "「앗싸~! 굉장해! 회장군, 방금 그 기술 뭐야!?」"
+
+[[dialogue]]
+speaker = "舞亜"
+original = "「ビックリしちゃった。あんなに強かったフィオナ会長のシャドウを倒しちゃうなんて」"
+translation = "「깜짝 놀랐어. 그렇게 강했던 피오나 회장님의 섀도우를 쓰러뜨리다니.」"
+
+[[dialogue]]
+speaker = "unk"
+original = "今の俺にできる最大の新必殺技だ"
+translation = "지금의 내가 할 수 있는 최대의 신필살기야."
+
+[[dialogue]]
+speaker = "ソフィア"
+original = "「なるほど……魔王の力が使えないからこそ、技を磨き上げる。クールです」"
+translation = "「과연…… 마왕의 힘을 쓸 수 없기에 기술을 연마한다. 쿨하네요.」"
+
+[[dialogue]]
+speaker = "シャルレーヌ"
+original = "「これはご褒美に、後で労ってあげないといけませんね～。くふふっ♪」"
+translation = "「이건 포상으로 나중에 위로해 드려야겠네요~. 크후훗♪」"
+
+[[dialogue]]
+speaker = "ジャクリーヌ"
+original = "「ゆーゆっゆっゆ♪\u3000余も大活躍したの！\u3000感謝して、後でお菓子を沢山持って来るといいゆ♪」"
+translation = "「유유유유♪ 유도 대활약했다유! 감사하며 나중에 과자를 잔뜩 가져오면 좋다유♪」"
+
+[[dialogue]]
+speaker = "トリシャ"
+original = "「はい。ジャクリーヌさんにはすごく感謝しています。おかげで、戦いに勝てただけでなく、ヒトリさんが棺桶から出て来てくれましたから」"
+translation = "「네. 자클린 씨에게는 무척 감사하고 있어요. 덕분에 전투에서 이겼을 뿐만 아니라, 히토리 씨가 관에서 나와주었으니까요.」"
+
+[[dialogue]]
+speaker = "トリシャ"
+original = "「それでヒトリさん、改めてなのですが……」"
+translation = "「그래서 히토리 씨, 다시 한번 말씀드립니다만……」"
+
+[[dialogue]]
+speaker = "ヒトリ"
+original = "「は、はい。なんでしょう……？」"
+translation = "「네, 네. 뭔가요……?」"
+
+[[dialogue]]
+speaker = "トリシャ"
+original = "「私と、どうか友達になって頂けませんか？\u3000もちろん、ゆーさんも」"
+translation = "「저와 부디 친구가 되어 주시지 않겠어요? 물론 유짱도요.」"
+
+[[dialogue]]
+speaker = "ヒトリ"
+original = "「わ、私でよければ……ゆーちゃんのことが見えるヒトは少ないので、ありがたいです」"
+translation = "「저, 저로 괜찮다면…… 유짱이 보이는 사람은 적어서 감사해요.」"
+
+[[dialogue]]
+speaker = "トリシャ"
+original = "「よかった……前から仲良くなれたらと機会を窺っていたので、友達になれて嬉しいです。ふへへ♪」"
+translation = "「다행이다…… 전부터 사이좋게 지내고 싶어서 기회를 엿보고 있었기에 친구가 되어 기뻐요. 후헤헤♪」"
+
+[[dialogue]]
+speaker = "ヒトリ"
+original = "「そうだったんですね。その……私もトリシャさんと知り合えて嬉しいです。え、えへへへへ♪」"
+translation = "「그러셨군요. 그…… 저도 트리샤 씨와 알게 되어 기뻐요. 에, 에헤헤헤헤♪」"
+
+[[dialogue]]
+speaker = "ゆーちゃん"
+original = "「てーてー♪」"
+translation = "「떼-떼-♪」"
+
+[[dialogue]]
+speaker = "ウズメイア"
+original = "「というか、トリシャさんとのやり取り、邪魔しないように見守ってたけど――」"
+translation = "「그나저나 트리샤 씨와의 대화, 방해하지 않게 지켜보고 있었는데――」"
+
+[[dialogue]]
+speaker = "ウズメイア"
+original = "「あたしもヒトリちゃんと仲良くなりたいし！\u3000もち、ジャクリーヌちゃんとも！」"
+translation = "「나도 히토리짱이랑 친해지고 싶다구! 물론 자클린짱이랑도!」"
+
+[[dialogue]]
+speaker = "ヒトリ"
+original = "「ひゃあっ！？」"
+translation = "「히약!?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ヒトリが再び棺桶に隠れてしまう。"
+translation = "히토리가 다시 관 속에 숨어버린다."
+
+[[dialogue]]
+speaker = "舞亜"
+original = "「あっ、驚いてまた隠れちゃった」"
+translation = "「앗, 놀라서 또 숨어버렸네.」"
+
+[[dialogue]]
+speaker = "ジャクリーヌ"
+original = "「余と仲良くなりたいの？\u3000お菓子をくれたら、考えてあげてもいいゆ♪」"
+translation = "「유와 친해지고 싶어유? 과자를 준다면 고려해 봐도 좋다유♪」"
+
+[[dialogue]]
+speaker = "ウズメイア"
+original = "「それだけでいいの？\u3000お安い御用じゃん♪\u3000そしたら今度、一緒にオススメのスイーツのお店に食べに行こ～！\u3000絶対に美味しいから。奢るし♪」"
+translation = "「그거면 돼? 누워서 떡 먹기잖아♪ 그럼 다음에 같이 추천하는 디저트 가게에 먹으러 가자! 절대 맛있으니까. 내가 쏠게♪」"
+
+[[dialogue]]
+speaker = "舞亜"
+original = "「ヒトリさ～ん、ゆっくりでいいから、出て来なよ。同じ１年生なんだし、気を遣わなくてもいいからさ」"
+translation = "「히토리 씨~, 천천히 해도 좋으니까 나와봐. 같은 1학년이니까 너무 신경 쓰지 않아도 되니까 말이야.」"
+
+[[dialogue]]
+speaker = "ヒトリ"
+original = "「し、失礼しました……。つい癖で……」"
+translation = "「죄, 죄송합니다……. 그만 버릇이 돼서……」"
+
+[[dialogue]]
+speaker = "unk"
+original = "棺桶からおずおずと出て来ながら言うヒトリ。"
+translation = "관에서 머뭇머뭇 나오며 말하는 히토리."
+
+[[dialogue]]
+speaker = "ソフィア"
+original = "「ヒトリさんのことは前から知っていました。カフェテリアでよく、私たち３人を見ていましたよね？\u3000声を掛けようとすると、逃げられてしまっていましたが……」"
+translation = "「히토리 씨에 대해서는 전부터 알고 있었어요. 카페테리아에서 자주 저희 세 사람을 보고 계셨죠? 말을 걸려고 하면 도망가 버리곤 하셨지만……」"
+
+[[dialogue]]
+speaker = "ヒトリ"
+original = "「そ、それは……ごめんなさい」"
+translation = "「그, 그건…… 죄송해요.」"
+
+[[dialogue]]
+speaker = "ヒトリ"
+original = "「３人がすごく、てーてー関係に見えたので……邪魔したくなくて」"
+translation = "「세 분이 너무 떼-떼-한 관계로 보여서…… 방해하고 싶지 않았거든요.」"
+
+[[dialogue]]
+speaker = "ソフィア"
+original = "「てーてー？」"
+translation = "「떼-떼-?」"
+
+[[dialogue]]
+speaker = "ウズメイア"
+original = "「もしかしてそれ、『尊い』ってこと？\u3000あたし、日本文化好きだから聞いたことあるし！」"
+translation = "「설마 그거, 『고귀하다(토우토이)』는 뜻이야? 나 일본 문화 좋아해서 들어본 적 있다구!」"
+
+[[dialogue]]
+speaker = "ヒトリ"
+original = "「は、はい。最近は更に、３人の輪にシャルレーヌさんも加わって、てーてーにより深みが増して……」"
+translation = "「네, 네. 최근에는 거기에 샤를레느 씨까지 더해져서 떼-떼-함이 더욱 깊어져서……」"
+
+[[dialogue]]
+speaker = "シャルレーヌ"
+original = "「えっ、私もですか？\u3000それってどういう……」"
+translation = "「엣, 저도인가요? 그게 무슨 의미인지……」"
+
+[[dialogue]]
+speaker = "ヒトリ"
+original = "「はぅ……ごめんなさい！\u3000これ以上は、てーてー関係に余計な邪魔をしてしまうので、言えません……！」"
+translation = "「하우…… 죄송합니다! 더 이상은 떼-떼-한 관계에 불필요한 방해를 하게 되니 말할 수 없어요……!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "そこまで口にすると、ヒトリは三度棺桶に隠れてしまった。"
+translation = "거기까지 말하자 히토리는 세 번째로 관 속에 숨어버렸다."
+
+[[dialogue]]
+speaker = "ウズメイア"
+original = "「ちょっ、どういうこと？\u3000あたし、めっちゃ気になるんだけど～！」"
+translation = "「잠깐, 그게 무슨 소리야? 나 엄청 궁금해지는데~!」"
+
+[[dialogue]]
+speaker = "舞亜"
+original = "「ふふっ、これは後でみんなでスイーツ食べに行くのが楽しみだね～」"
+translation = "「후훗, 이건 나중에 다 같이 디저트 먹으러 가는 게 기대되겠네~」"
+
+[[dialogue]]
+speaker = "ソフィア"
+original = "「よろしければ、トリシャさんも一緒にいかがですか？」"
+translation = "「괜찮으시다면 트리샤 씨도 함께 어떠신가요?」"
+
+[[dialogue]]
+speaker = "トリシャ"
+original = "「私もいいんですか……？」"
+translation = "「저도 가도 되나요……?」"
+
+[[dialogue]]
+speaker = "ソフィア"
+original = "「もちろんです。友達ですから」"
+translation = "「물론이죠. 친구니까요.」"
+
+[[dialogue]]
+speaker = "トリシャ"
+original = "「……！\u3000ありがとうございます。占星術で今日はとてもいいことがあると出ていましたが、大当たりです。ふへへ♪」"
+translation = "「……! 감사합니다. 점성술로 오늘 무척 좋은 일이 있을 거라고 나왔는데, 정답이었네요. 후헤헤♪」"
+
+[[dialogue]]
+speaker = "unk"
+original = "そうして、トリシャは嬉しそうな笑顔を咲かせるのだった――"
+translation = "그렇게 트리샤는 기쁜 듯한 미소를 피워내는 것이었다――"
+
+[[dialogue]]
+speaker = "unk"
+original = "その後。"
+translation = "그 후."
+
+[[dialogue]]
+speaker = "unk"
+original = "シャドウフィオナが１度撃破されてから、俺たちが仮想空間を退出し、しばらくして。"
+translation = "섀도우 피오나가 한 번 격파된 뒤, 우리가 가상 공간을 퇴장하고 나서 얼마 후."
+
+[[dialogue]]
+speaker = "シャドウフィオナ"
+original = "「――――」"
+translation = "「――――」"
+
+[[dialogue]]
+speaker = "unk"
+original = "もう１度、シャドウフィオナを倒してみせる星騎士が現れた。それは――"
+translation = "다시 한번 섀도우 피오나를 쓰러뜨려 보인 성기사가 나타났다. 그것은――"
+
+[[dialogue]]
+speaker = "ヴィーナス（覚醒）"
+original = "「よし！\u3000確かに強かったけど、何とか勝てたわ！」"
+translation = "「좋아! 확실히 강했지만 어떻게든 이겼어!」"
+
+[[dialogue]]
+speaker = "ヴィーナス（覚醒）"
+original = "「だけど、う～ん……」"
+translation = "「하지만, 으음……」"
+
+[[dialogue]]
+speaker = "ヴィーナス（覚醒）"
+original = "「な～んかちょっと……違うのよね～」"
+translation = "「뭔~가 좀…… 다른단 말이지~」"
+
+[[dialogue]]
+speaker = "unk"
+original = "新星学園最強の星騎士と称される彼女は、思案するように呟くのだった――"
+translation = "신성학원 최강의 성기사라 칭송받는 그녀는 생각에 잠긴 듯 중얼거리는 것이었다――"
+

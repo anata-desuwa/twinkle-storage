@@ -1,0 +1,285 @@
+[[dialogue]]
+speaker = "unk"
+original = "第２話,マトイのお父さん,P"
+translation = "제2화, 마토이의 아버지, P"
+
+[[dialogue]]
+speaker = "unk"
+original = "とある週末の休日。俺はマトイと、学園近くでデートをする約束をしていたのだが――"
+translation = "어느 주말 휴일. 나는 마토이와 학원 근처에서 데이트를 하기로 약속했었지만――"
+
+[[dialogue]]
+speaker = "マトイ（覚醒）"
+original = "「それが、どうして家族とファミレスに入ることに……」"
+translation = "「그게 어째서 가족들과 패밀리 레스토랑에 들어오게 된 거야……」"
+
+[[dialogue]]
+speaker = "マトイ母"
+original = "「あら、いいじゃない♪\u3000せっかくお昼時に会ったんだし～」"
+translation = "「어머, 좋잖니♪ 마침 점심때 만났으니까~」"
+
+[[dialogue]]
+speaker = "unk"
+original = "そこはファミリーレストランの中。"
+translation = "그곳은 패밀리 레스토랑 안."
+
+[[dialogue]]
+speaker = "unk"
+original = "俺とマトイが隣り合って席に座り、テーブルを挟んで、向かいに座っているのはマトイのお母さん――マモリさんと、それから……"
+translation = "나와 마토이가 나란히 자리에 앉고, 테이블을 사이에 두고 맞은편에 앉아 있는 것은 마토이의 어머니인 마모리 씨와, 그리고……"
+
+[[dialogue]]
+speaker = "マトイ父"
+original = "「…………」"
+translation = "「…………」"
+
+[[dialogue]]
+speaker = "unk"
+original = "マモリさん達は、どうやら夫婦で買い物に来ていたらしい。街中でばったり顔を合わせて、せっかくだから挨拶がてら食事でもどうかという話になったのだった。"
+translation = "마모리 씨 일행은 아무래도 부부가 함께 쇼핑을 하러 왔던 모양이다. 거리에서 딱 마주치는 바람에, 이왕 만난 김에 인사도 할 겸 식사라도 하자는 이야기가 된 것이었다."
+
+[[dialogue]]
+speaker = "unk"
+original = "は、初めまして……"
+translation = "처, 처음 뵙겠습니다……"
+
+[[dialogue]]
+speaker = "unk"
+original = "俺は名前と、新星学園の星徒会長を務めていること、それと……マトイの彼氏として、男女のお付き合いをさせてもらっていることを自己紹介する。"
+translation = "나는 이름과 신성학원의 성도회장을 맡고 있다는 것, 그리고…… 마토이의 남자친구로서 교제하고 있다는 것을 자기소개한다."
+
+[[dialogue]]
+speaker = "マトイ父"
+original = "「…………」"
+translation = "「…………」"
+
+[[dialogue]]
+speaker = "マトイ（覚醒）"
+original = "「ちょっと、お父さん！\u3000黙ってないで、自己紹介してよ」"
+translation = "「잠깐, 아빠! 가만히 있지 말고 자기소개 좀 해.」"
+
+[[dialogue]]
+speaker = "マトイ父"
+original = "「……ああ。えっと……」"
+translation = "「……아아. 저기……」"
+
+[[dialogue]]
+speaker = "マトイ父"
+original = "「娘がお世話になっております。マトイの父――<ruby>詠野<rt>よみの</rt></ruby>ススムです。その……よろしくお願いします」"
+translation = "「딸아이가 신세를 지고 있습니다. 마토이의 아버지――요미노 스스무입니다. 그…… 잘 부탁하네.」"
+
+[[dialogue]]
+speaker = "マトイ母"
+original = "「ごめんね、会長くん。お父さん、ちょっと不愛想に見えるかもしれないけど、別に怒ってたりとかそんなんじゃないから」"
+translation = "「미안해, 회장군. 아빠가 좀 무뚝뚝해 보일지도 모르지만, 딱히 화가 났다거나 그런 건 아니니까.」"
+
+[[dialogue]]
+speaker = "マトイ（覚醒）"
+original = "「普段はもっと、普通のサラリーマンをやってるおじさんって感じなんだけど……」"
+translation = "「평소에는 훨씬 평범한 샐러리맨 아저씨 같은 느낌인데……」"
+
+[[dialogue]]
+speaker = "マトイ父"
+original = "「…………」"
+translation = "「…………」"
+
+[[dialogue]]
+speaker = "マトイ母"
+original = "「あっ、私、ちょっとお手洗いに行ってくるわね。マトイもこっち……！」"
+translation = "「앗, 나 잠깐 화장실 좀 다녀올게. 마토이도 이쪽으로……!」"
+
+[[dialogue]]
+speaker = "マトイ（覚醒）"
+original = "「えっ、私も？\u3000なんで？」"
+translation = "「엣, 나도? 왜?」"
+
+[[dialogue]]
+speaker = "マトイ母"
+original = "「いいからいいから。ほら、一緒に行きましょ♪\u3000ついでにドリンクバーで飲み物取って来るわね～。会長くんとお父さんは何がいいかしら？」"
+translation = "「됐으니까, 됐으니까. 자, 같이 가자♪ 가는 김에 드링크 바에서 마실 것 좀 챙겨올게~. 회장군이랑 아빠는 뭐가 좋아?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "えっと……そしたら緑茶で"
+translation = "저기…… 그럼 녹차로 할게요."
+
+[[dialogue]]
+speaker = "マトイ父"
+original = "「…………私も同じのを」"
+translation = "「…………나도 같은 걸로.」"
+
+[[dialogue]]
+speaker = "マトイ母"
+original = "「は～い♪\u3000それじゃあ、親子仲良く行って来ま～す♪」"
+translation = "「네~에♪ 그럼 부녀끼리 사이좋게 다녀오겠습니~다♪」"
+
+[[dialogue]]
+speaker = "マトイ（覚醒）"
+original = "「ちょっと、お母さん！\u3000私、別にお手洗いに行かなくても――わ～っ！？」"
+translation = "「잠깐, 엄마! 나 딱히 화장실 안 가도――와아앗!?」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "参った……どうしよう。マトイのお父さんと２人きりになってしまった……。一体、何を話したら……"
+translation = "큰일이다…… 어쩌지. 마토이의 아버님과 단둘이 남게 되어 버렸어……. 대체 무슨 말을 해야……"
+
+[[dialogue]]
+speaker = "unk"
+original = "気まずさを感じながら、悩んでいると――"
+translation = "어색함을 느끼며 고민하고 있자――"
+
+[[dialogue]]
+speaker = "マトイ父"
+original = "「……その、気分を悪くさせてしまっていたら、すまない」"
+translation = "「……그, 기분을 상하게 했다면 미안하네.」"
+
+[[dialogue]]
+speaker = "unk"
+original = "え……？"
+translation = "에……?"
+
+[[dialogue]]
+speaker = "unk"
+original = "俺はススムさんの顔を見る。緊張していて気づかなかったが、よく見るとそれは俺と同じ――"
+translation = "나는 스스무 씨의 얼굴을 본다. 긴장해서 눈치채지 못했지만, 자세히 보니 그것은 나와 같은――"
+
+[[dialogue]]
+speaker = "マトイ父"
+original = "「キミには……本当はもっと感謝しなくてはならないとわかっているんだ。娘から聞いている。キミが星騎士として、どんな厳しい戦いを乗り越えて、リクリエを退けたのか」"
+translation = "「자네에게는…… 사실 더 감사해야 한다는 걸 알고 있네. 딸에게 들었어. 자네가 성기사로서 어떤 험난한 싸움을 이겨내고 리크리에를 물리쳤는지.」"
+
+[[dialogue]]
+speaker = "マトイ父"
+original = "「だが、同時にマトイの彼氏と聞くと、やっぱり複雑な感情も抱いてしまって……こうして面と向かうと、どのように接したらいいのかわからないんだ……」"
+translation = "「하지만 동시에 마토이의 남자친구라는 말을 들으니, 역시 복잡한 감정도 들고 말이지…… 이렇게 마주하니 어떻게 대해야 할지 모르겠더군……」"
+
+[[dialogue]]
+speaker = "マトイ父"
+original = "「ただ、誤解はしないで欲しい！\u3000これは私という一個人の問題であって、娘には――マトイには関係がない」"
+translation = "「다만, 오해는 하지 말아주게! 이건 나라는 한 개인의 문제일 뿐이지, 딸에게는―― 마토이에게는 상관없는 일이야.」"
+
+[[dialogue]]
+speaker = "マトイ父"
+original = "「あの子はいい子なんだ。だから――」"
+translation = "「그 아이는 착한 아이라네. 그러니까――」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ススムさんは深く頭を下げて、言った。"
+translation = "스스무 씨는 깊숙이 고개를 숙이며 말했다."
+
+[[dialogue]]
+speaker = "マトイ父"
+original = "「どうか、これからもあの子のことをよろしくお願いします」"
+translation = "「부디, 앞으로도 그 아이를 잘 부탁하네.」"
+
+[[dialogue]]
+speaker = "unk"
+original = "す、ススムさん！\u3000頭を上げて下さい！"
+translation = "스, 스스무 씨! 고개를 들어주세요!"
+
+[[dialogue]]
+speaker = "クロト"
+original = "ああ、そうだ。この人は確かにマトイのお父さんだ。"
+translation = "아아, 그렇구나. 이 사람은 확실히 마토이의 아버지다."
+
+[[dialogue]]
+speaker = "クロト"
+original = "普通に優しくて、いい人なのだ。だから――"
+translation = "평범하게 상냥하고 좋은 사람인 것이다. 그러니까――"
+
+[[dialogue]]
+speaker = "unk"
+original = "俺、ススムさんとも仲良くなりたいです"
+translation = "저, 스스무 씨와도 친해지고 싶어요."
+
+[[dialogue]]
+speaker = "マトイ父"
+original = "「え……？」"
+translation = "「에……?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "少しして、マトイ達が帰って来ると――"
+translation = "잠시 후, 마토이 일행이 돌아오자――"
+
+[[dialogue]]
+speaker = "マトイ（覚醒）"
+original = "「こ、これは……」"
+translation = "「이, 이건……」"
+
+[[dialogue]]
+speaker = "マトイ父"
+original = "「そうか、そうか、ははは！\u3000マトイから話は聞いていたけど、まさかそこまで時代劇が好きだとは！」"
+translation = "「그렇군, 그렇군, 하하하! 마토이에게 이야기는 들었지만, 설마 그렇게까지 시대극을 좋아할 줄이야!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "まさか、ここまで趣味が一緒だなんて！"
+translation = "설마 이렇게까지 취미가 같을 줄이야!"
+
+[[dialogue]]
+speaker = "マトイ父"
+original = "「いや～、これならもっと早く顔を合わせておけばよかったな！\u3000はははは！」"
+translation = "「이야~ 이거라면 좀 더 일찍 만났으면 좋았을걸! 하하하하!」"
+
+[[dialogue]]
+speaker = "マトイ（覚醒）"
+original = "「離れていた数分の間に、一体何が！？」"
+translation = "「떨어져 있던 몇 분 사이에 대체 무슨 일이!?」"
+
+[[dialogue]]
+speaker = "マトイ母"
+original = "「ふふっ、お父さんと会長くん、絶対に気が合うと思ってたのよね～」"
+translation = "「후훗, 아빠랑 회장군, 분명히 마음이 잘 맞을 거라고 생각했거든~」"
+
+[[dialogue]]
+speaker = "マトイ（覚醒）"
+original = "「いや、確かに趣味は一緒だな～って前から思ってたけども！」"
+translation = "「아니, 확실히 취미는 같을 거라고 전부터 생각하긴 했지만!」"
+
+[[dialogue]]
+speaker = "マトイ父"
+original = "「あっ、そうだ、会長くん！\u3000少年漫画が好きだとも言っていたが、今流行りのアレは読んでいるかい？」"
+translation = "「앗, 맞다, 회장군! 소년 만화도 좋아한다고 했지, 지금 유행하는 그건 읽고 있나?」"
+
+[[dialogue]]
+speaker = "マトイ父"
+original = "「――そう、時代劇の！\u3000来週アレの映画、『鉄道編』が上映開始するじゃないか！」"
+translation = "「――그래, 시대극인 거! 다음 주에 그거 영화, 『철도편』이 상영 시작하잖나!」"
+
+[[dialogue]]
+speaker = "マトイ父"
+original = "「せっかくこうして知り合えたんだし、おじさんと一緒に観に行くかい！？」"
+translation = "「기왕 이렇게 알게 된 거, 이 아저씨랑 같이 보러 가겠나!?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "是非！\u3000行きましょう！"
+translation = "기꺼이요! 꼭 가요!"
+
+[[dialogue]]
+speaker = "マトイ父"
+original = "「よし！\u3000じゃあ今度、おじさんとデートをしようじゃないか♪\u3000はっはっはっは！」"
+translation = "「좋아! 그럼 다음에 이 아저씨랑 데이트를 하자고♪ 하하하하!」"
+
+[[dialogue]]
+speaker = "マトイ（覚醒）"
+original = "「ちょっ！？\u3000それ、私が会長を誘って行こうと思ってたのに！？」"
+translation = "「잠깐!? 그거 내가 회장님 꼬셔서 가려고 했던 건데!?」"
+
+[[dialogue]]
+speaker = "マトイ（覚醒）"
+original = "「彼女より先に、お父さんと彼氏がデートの約束してるってどういうことーーーーーーっ！？！？」"
+translation = "「여자친구보다 먼저 아빠랑 남자친구가 데이트 약속을 잡는 게 어디 있어――――――어!?!?」"
+
+[[dialogue]]
+speaker = "マトイ母"
+original = "「ぷっ……あはははっ♪\u3000これから色々と、楽しくなりそうね～♪」"
+translation = "「푸흡…… 아하하핫♪ 앞으로 여러모로 즐거워지겠네~♪」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ちなみにその後、折衷案で俺とマトイ一家のみんなで映画を観に行こうという話になり――いずれにしてもマトイのお父さんと仲良くなれそうで、嬉しく思う俺なのだった。"
+translation = "참고로 그 후, 절충안으로 나와 마토이 가족 모두가 영화를 보러 가기로 이야기가 되었고―― 어찌 됐든 마토이의 아버님과 친해질 수 있을 것 같아 기쁘게 생각하는 나였다."
+

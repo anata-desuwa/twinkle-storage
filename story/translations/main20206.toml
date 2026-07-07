@@ -1,0 +1,335 @@
+[[dialogue]]
+speaker = "unk"
+original = "第６話,大交流,B"
+translation = "제6화, 대교류, B"
+
+[[dialogue]]
+speaker = "unk"
+original = "大交流が行われ、年度途中ながらも例外的に、俺たちの学園へ神族と魔族の留学生がやってきた。"
+translation = "대교류가 진행되어 학년 도중임에도 예외적으로 우리 학원으로 신족과 마족 유학생이 찾아왔다."
+
+[[dialogue]]
+speaker = "unk"
+original = "タイミングが合わず、<ruby>フィヴォス流星群<rt>ギエルとの決戦</rt></ruby>には間に合わなかったものの、彼女たちはその才能を見込まれた精鋭と聞いている。"
+translation = "타이밍이 맞지 않아 <ruby>피보스 유성우<rt>기엘과의 결전</rt></ruby>에는 늦었지만, 그녀들은 그 재능을 인정받은 정예라고 들었다."
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「今回の留学生はスカウトだから、クロトと違って入学金は払わなくていいんだって」"
+translation = "「이번 유학생은 스카우트라서 쿠로토와 달리 입학금은 안 내도 된대.」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「もうちょっと待ってたらクロトもスカウトされてただろうし、働き損だったかもね！」"
+translation = "「조금만 더 기다렸으면 쿠로토도 스카우트됐을 텐데, 일한 보람이 없었을지도!」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「気にしてないよ。バイトでお金を貯めるのは、母さんを説得するためでもあったわけだし」"
+translation = "「신경 안 써. 아르바이트로 돈을 모은 건 어머니를 설득하기 위해서이기도 했으니까.」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「それにあそこで俺が転入してなかったら、力を付けるのが間に合わなくて、世界は守れなかったよ」"
+translation = "「게다가 그때 내가 편입하지 않았다면, 힘을 기르는 게 늦어져서 세계를 지키지 못했을 거야.」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「それもそうね。ふふ♪」"
+translation = "「그것도 그렇네. 후후♪」"
+
+[[dialogue]]
+speaker = "unk"
+original = "確かにバイトで入学資金を貯めるのは大変だったけど、あれはあれでいい思い出だ。"
+translation = "확실히 아르바이트로 입학 자금을 모으는 건 힘들었지만, 그건 그것대로 좋은 추억이다."
+
+[[dialogue]]
+speaker = "unk"
+original = "その頃に出会った環が守護天使で、俺を監視していたというのは驚いたけど。"
+translation = "그 무렵에 만난 타마키가 수호천사였고, 나를 감시하고 있었다는 사실에는 놀랐지만."
+
+[[dialogue]]
+speaker = "unk"
+original = "だけど守護天使はセイファート元学園長によって捕えられていたはず。"
+translation = "하지만 수호천사는 세이파트 전 학원장에 의해 붙잡혀 있었을 터."
+
+[[dialogue]]
+speaker = "unk"
+original = "その彼とも行動を共にしていたし、彼女の正体も目的もいまだにはっきりしていない。"
+translation = "그와도 행동을 함께했었고, 그녀의 정체도 목적도 아직은 확실하지 않다."
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「天界と魔界からスカウトされた精鋭らしいけど、どれくらい強いのかしら～？」"
+translation = "「천계와 마계에서 스카우트된 정예라던데, 얼마나 강할까나~?」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「ハッ──！？\u3000そんな優秀な留学生が来たら、もしかして私はお役御免に……！？」"
+translation = "「핫──!? 그런 우수한 유학생이 오면, 혹시 나는 이제 필요 없게 되는 건가……!?」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「ないない。今まで一緒に戦ってきただろ」"
+translation = "「그럴 리 없잖아. 지금까지 함께 싸워왔는데.」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「緋宮くん……！\u3000今度マフィン作ってくるね！」"
+translation = "「히노미야 군……! 다음에 머핀 만들어 올게!」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「別にマトイのお菓子が目当てなわけじゃないんだけど……いや、もちろんありがたいけど」"
+translation = "「딱히 마토이의 과자가 목적이라서 그런 건 아닌데…… 아니, 물론 고맙지만.」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「そろそろ本題に入ろうか。ほら、この前提案した企画」"
+translation = "「슬슬 본론으로 들어갈까. 봐, 저번에 제안했던 기획.」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「はい。留学生のためのクイズオリエンテーションですね」"
+translation = "「네. 유학생을 위한 퀴즈 오리엔테이션 말이죠.」"
+
+[[dialogue]]
+speaker = "unk"
+original = "他の生徒と打ち解けるためのオリエンテーションなんて、本来なら入学直後にするものだけど、俺みたいな転入生にはその機会がない。"
+translation = "다른 학생들과 친해지기 위한 오리엔테이션 같은 건 원래라면 입학 직후에 하는 것이지만, 나 같은 편입생에게는 그럴 기회가 없다."
+
+[[dialogue]]
+speaker = "unk"
+original = "だから季節外れの留学生のために、季節外れのイベントを用意しようというものだ。"
+translation = "그래서 때늦은 유학생들을 위해, 때늦은 이벤트를 준비하자는 것이다."
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「参加は留学生だけなの？」"
+translation = "「참가는 유학생뿐이야?」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「いや、留学生と在校生の交流を深めるのが目的だから、希望があれば誰でも参加できるようになってる」"
+translation = "「아니, 유학생과 재학생의 교류를 깊게 하는 게 목적이라서, 희망한다면 누구든 참가할 수 있게 되어 있어.」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「戦いが一段落したから、みんなもイベントがあった方が楽しいだろうし」"
+translation = "「싸움이 일단락됐으니까, 다들 이벤트가 있는 편이 즐거울 테고.」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「いいわね。私たち新星星徒会が勝利を頂くわ！」"
+translation = "「좋네. 우리 신성 성도회가 승리를 가져가겠어!」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「いや、主催が勝っちゃダメでしょ……」"
+translation = "「아니, 주최측이 이기면 안 되잖아……」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「クイズの作成はクイズ研究会にお願いし、進行は放送委員会が担当します。星徒会の参加自体は可能です」"
+translation = "「퀴즈 작성은 퀴즈 연구회에 부탁하고, 진행은 방송위원회가 담당합니다. 성도회의 참가 자체는 가능해요.」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「よし、決まりね！」"
+translation = "「좋아, 결정됐네!」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「いいのかな……このままじゃほんとに参戦しちゃいそう……」"
+translation = "「괜찮으려나…… 이대로라면 정말로 참전해버릴 것 같아……」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「はは……まぁ、その方が盛り上がりそうなら考えるかな」"
+translation = "「하하…… 뭐, 그편이 더 분위기가 살 것 같으면 고려해볼까.」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「具体的な予定は資料の通りだ。確認して、問題がありそうだったら言ってくれ」"
+translation = "「구체적인 예정은 자료에 적힌 대로야. 확인해보고 문제가 있을 것 같으면 말해줘.」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「了解。こういう企画してると、普通の生徒会っぽくてなんかいいね」"
+translation = "「알았어. 이런 기획을 하고 있으니까 평범한 학생회 같아서 왠지 좋네.」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「そうだな。みんなに楽しんでもらおう」"
+translation = "「그러게. 모두가 즐길 수 있게 하자.」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「うんっ」"
+translation = "「응!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "先頭に立って戦うだけじゃなくて、こうして生徒のために働くのも会長として充実感がある。"
+translation = "앞장서서 싸우는 것뿐만 아니라, 이렇게 학생들을 위해 일하는 것도 회장으로서 충실감이 느껴진다."
+
+[[dialogue]]
+speaker = "unk"
+original = "みんながこの新星学園をいい思い出とともに卒業できるよう、頑張っていきたいな。"
+translation = "모두가 이 신성학원을 좋은 추억과 함께 졸업할 수 있도록 노력하고 싶다."
+
+[[dialogue]]
+speaker = "クロト"
+original = "「……さて、今日の仕事はこんなものかな」"
+translation = "「……자, 오늘 일은 이 정도려나.」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「珍しく仕事が早く片付いたし、みんなでどこか寄っちゃう～？」"
+translation = "「드물게 일이 빨리 끝났는데, 다 같이 어디 좀 들렀다 갈까~?」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「さんせー！\u3000メイド隊のみんながオススメしてたお店があるの。行ってみましょっ♪」"
+translation = "「찬성! 메이드대 애들이 추천해준 가게가 있어. 가보자♪」"
+
+[[dialogue]]
+speaker = "ベアトリス"
+original = "「ほえ～……」"
+translation = "「호에~……」"
+
+[[dialogue]]
+speaker = "ベアトリス"
+original = "（ここが新星学園……<b>私たちの通っていた極星学園</b>とは、雰囲気が全然違う）"
+translation = "(여기가 신성학원…… <b>우리가</b> <b>다녔던</b> <b>극성학원</b>과는 분위기가 전혀 달라.)"
+
+[[dialogue]]
+speaker = "ベアトリス"
+original = "（偶然が味方したお陰で、すんなり<b>新星学園の留学生の立場</b>を手に入れられたけど、これからどうしよう……）"
+translation = "(우연이 도와준 덕분에 순조롭게 <b>신성학원</b> <b>유학생</b> <b>신분</b>을 손에 넣었지만, 이제부터 어쩌지……)"
+
+[[dialogue]]
+speaker = "ベアトリス"
+original = "（ルヴィの話によれば……ここはデネブを滅ぼす諸悪の根源、魔王クロトの根城）"
+translation = "(루비의 말에 따르면…… 여기는 데네브를 멸망시키는 제악의 근원, 마왕 쿠로토의 본거지.)"
+
+[[dialogue]]
+speaker = "ベアトリス"
+original = "（自分からデネブに戻る方法も、連絡を取る手段もないし、大人しく留学生として生活して、情報収集に努めるのが賢い選択……なのかな）"
+translation = "(스스로 데네브로 돌아갈 방법도, 연락을 취할 수단도 없고, 얌전히 유학생으로서 생활하며 정보 수집에 힘쓰는 게 현명한 선택……이려나.)"
+
+[[dialogue]]
+speaker = "ベアトリス"
+original = "（うぅぅ……潜入なんてガラじゃないのに、どうしてこんなことにぃ……）"
+translation = "(으으으…… 잠입 같은 건 적성에 안 맞는데, 어쩌다 이렇게 된 거야아……)"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「君、この前流星市国に来た留学生？」"
+translation = "「너, 저번에 유성시국에 온 유학생이야?」"
+
+[[dialogue]]
+speaker = "ベアトリス"
+original = "「ひあああっ！？」"
+translation = "「히아아앗!?」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「えっと、ごめん。そこまで驚かすつもりはなくて。……留学生で、もし道に迷ってたらと思って声をかけたんだけど」"
+translation = "「앗, 미안. 그렇게까지 놀라게 할 생각은 없었어. ……유학생인데 혹시 길을 헤매고 있나 싶어서 말을 걸었는데.」"
+
+[[dialogue]]
+speaker = "？？？"
+original = "「は、はい、私留学生で──ひ、ひ、緋宮クロト！？\u3000……さん？」"
+translation = "「네, 네, 저 유학생이라서── 히, 히, 히노미야 쿠로토!? ……씨?」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「ああ、うん、俺が緋宮クロトだけど……。俺のこと知ってるんだ？」"
+translation = "「아아, 응, 내가 히노미야 쿠로토인데……. 나를 알고 있어?」"
+
+[[dialogue]]
+speaker = "？？？"
+original = "「だってその、まお──星徒会長ですしっ」"
+translation = "「그야 그, 마왕── 성도회장이시니까요!」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「魔王は言われ慣れてるから大丈夫だよ」"
+translation = "「마왕은 듣는 게 익숙하니까 괜찮아.」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ヴィーナスを始め、アポロに、ネビュラに、いろんな相手から魔王と言われた。"
+translation = "비너스를 시작으로 아폴로, 네뷸라 등 여러 상대에게 마왕이라 불려왔다."
+
+[[dialogue]]
+speaker = "unk"
+original = "太陽の壁画では悪の存在として伝えられていたけど、今となっては遠い過去の話のようだ。"
+translation = "태양의 벽화에서는 악의 존재로 전해지고 있었지만, 지금에 와서는 먼 과거의 이야기인 것 같다."
+
+[[dialogue]]
+speaker = "ベアトリス"
+original = "「えっと、あの……私、ベアトリスですっ、ベアトリス・シェイドですっ。魔界からの留学生、ということになっていて……」"
+translation = "「저기, 그…… 저, 베아트리스예요, 베아트리스 셰이드입니다. 마계에서 온 유학생, 인 걸로 되어 있어서……」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「なっていて？」"
+translation = "「인 걸로?」"
+
+[[dialogue]]
+speaker = "ベアトリス"
+original = "「ひゃいっ！？\u3000なんでもないですっ！？」"
+translation = "「햐잇!? 아무것도 아니에요!?」"
+
+[[dialogue]]
+speaker = "ベアトリス"
+original = "「いえ、その、不審者じゃなくて、ここがあの新星学園なんだなーと、感心してしまって……だから不審者じゃないんですっ」"
+translation = "「아니, 그게, 수상한 사람이 아니라, 여기가 그 신성학원이구나~ 하고 감탄해버려서…… 그러니까 수상한 사람이 아니에요!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "不審者じゃないって二度言った。"
+translation = "수상한 사람이 아니라고 두 번 말했다."
+
+[[dialogue]]
+speaker = "unk"
+original = "別に怪しんでいないのに、そう言われると逆に怪しいと思ってしまう。"
+translation = "딱히 의심하지 않았는데 그렇게 말하니 오히려 수상하다는 생각이 든다."
+
+[[dialogue]]
+speaker = "ベアトリス"
+original = "「そ、それじゃ……ごめんなさいっ」"
+translation = "「그, 그럼…… 죄송합니다!」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「行っちゃった……」"
+translation = "「가버렸네……」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「ナンパ失敗しましたね」"
+translation = "「헌팅 실패했네요.」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「はは……残念だよ」"
+translation = "「하하…… 아쉽네.」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「緊張してたのかな？\u3000でも有名人にいきなり話しかけられたら、挙動不審になっちゃう気持ちはわかるかも……」"
+translation = "「긴장했던 걸까? 하지만 유명인이 갑자기 말을 걸면 거동이 수상해지는 기분은 이해할 수 있을지도……」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「あんまり精鋭って感じじゃなかったけど、あの子も戦ったら強いのかしら？」"
+translation = "「별로 정예라는 느낌은 아니었는데, 저 아이도 싸우면 강할까?」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「ふふふ。あの子もオリエンテーションで仲良くなれるといいわね～♪」"
+translation = "「후후후. 저 아이도 오리엔테이션에서 친해질 수 있으면 좋겠네요~♪」"
+

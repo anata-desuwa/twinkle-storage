@@ -1,0 +1,325 @@
+[[dialogue]]
+speaker = "メイプル"
+original = "「うぅ～ん……えっ……あれ……？」"
+translation = "「으으음~…… 엣…… 어라……?」"
+
+[[dialogue]]
+speaker = "メイプル"
+original = "「ここ、どこ……？\u3000あたし、何してたんだっけ……」"
+translation = "「여기, 어디야……? 나, 뭐 하고 있었더라……」"
+
+[[dialogue]]
+speaker = "unk"
+original = "気がついた？"
+translation = "정신이 들었어?"
+
+[[dialogue]]
+speaker = "メイプル"
+original = "「あっ、お兄ちゃん！」"
+translation = "「앗, 오빠!」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「よかった、あなたも正気に戻ったのね」"
+translation = "「다행이다, 너도 제정신으로 돌아왔네」"
+
+[[dialogue]]
+speaker = "メイプル"
+original = "「え……？\u3000正気、って、一体何のこと？」"
+translation = "「에……? 제정신, 이라니, 대체 무슨 말이야?」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「……この様子だと、どうやら、操られていた間の記憶はないみたいですね」"
+translation = "「……이 상태를 보니, 아무래도, 조종당하던 동안의 기억은 없는 것 같네요」"
+
+[[dialogue]]
+speaker = "ナナカ"
+original = "「てか、あのインチキパンダはどこ行きやがったんでい！」"
+translation = "「근데, 그 엉터리 팬더는 어디로 튀어 버린 거야!」"
+
+[[dialogue]]
+speaker = "ロロット"
+original = "「そういえば、先ほどからずっと、姿が見えませんねぇ」"
+translation = "「그러고 보니, 아까부터 계속, 모습이 보이지 않네요」"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「そうですよね、やっぱり、気のせいじゃありませんでしたよねっ」"
+translation = "「그렇죠, 역시, 기분 탓이 아니었죠!」"
+
+[[dialogue]]
+speaker = "ナナカ"
+original = "「ったく、逃げ足だけは早いんだから」"
+translation = "「이런, 도망치는 발만은 빠르다니까」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「でも、変ですね……以前の出来事と、これまでの状況から、パッキーさんが黒幕だと踏んでいたのですが」"
+translation = "「하지만, 이상하네요…… 이전의 일과, 지금까지의 상황으로 미루어, 팟키 씨가 흑막이라고 생각했는데」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「確かにそうよね。なんか怪しいわ」"
+translation = "「확실히 그렇네. 뭔가 수상해」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「はい、嫌な予感がします。ここで仕掛けてこないとなると、次の策でもあるのかもしれません」"
+translation = "「네, 불길한 예감이 듭니다. 여기서 일을 벌이지 않는다면, 다음 계책이라도 있는 것일지도 모릅니다」"
+
+[[dialogue]]
+speaker = "ナナカ"
+original = "「いや、そんな大層なやつじゃないと思うよ……」"
+translation = "「아니, 그렇게 대단한 녀석은 아닐 거라고 생각하는데……」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「えっ……アステラの反応……！？\u3000どうして……！」"
+translation = "「엣…… 아스테라 반응……!? 어째서……!」"
+
+[[dialogue]]
+speaker = "ナナカ"
+original = "「うわわっ！？」"
+translation = "「우와왓!?」"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「きゃあっ！？」"
+translation = "「꺄악!?」"
+
+[[dialogue]]
+speaker = "ロロット"
+original = "「ひえええっ！？\u3000てててっ、天変地異ですかっ！？\u3000って、天使じゃありませ～ん！」"
+translation = "「히에에에엑!? 자자자, 천변지이인가요!? 아니, 천사 아니에요~!」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「超揺れてるじゃない……！\u3000いきなりなんなの、この地響き……！」"
+translation = "「엄청 흔들리잖아……! 갑자기 뭐야, 이 지진은……!」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「はっ……！\u3000見て下さい、あれって……！」"
+translation = "「핫……! 보세요, 저건……!」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「まさか、アステライト……！？」"
+translation = "「설마, 아스테라이트……!?」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「そんな、こちらの世界には存在しないはずなのに……！」"
+translation = "「말도 안 돼, 이쪽 세계에는 존재하지 않을 텐데……!」"
+
+[[dialogue]]
+speaker = "ナナカ"
+original = "「アステライト……？」"
+translation = "「아스테라이트……?」"
+
+[[dialogue]]
+speaker = "ロロット"
+original = "「ってなんですか？」"
+translation = "「그게 뭔데요?」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「ん～とね～……簡単に言うと、私たちがいつも戦ってる、モンスターたちの巣みたいなもの、なんだけど……」"
+translation = "「음~ 그러니까~…… 간단히 말해서, 우리가 항상 싸우는, 몬스터들의 소굴 같은 거, 인데……」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「でも、私たちの知っているアステライトとは、なんだか少し、様子が違うような気もしますね」"
+translation = "「하지만, 우리가 알고 있는 아스테라이트와는, 뭔가 조금, 모습이 다른 것 같기도 하네요」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「そう？\u3000見た感じ、アステライトには変わりないみたいだけど……」"
+translation = "「그래? 보기엔, 아스테라이트와 다를 바 없는 것 같은데……」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「なんというか、誰かが真似して作り上げた、まがい物のような雰囲気を感じます」"
+translation = "「뭐랄까, 누군가가 흉내 내서 만들어낸, 가짜 같은 분위기가 느껴집니다」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「そ、そう言われてみれば確かにそうねっ、わたしもちょうどそんな気がしてたの」"
+translation = "「그, 그렇게 말하니 확실히 그렇네! 나도 마침 그런 생각이 들었어」"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「危険そうな香りも、ぷんぷんしますけど……！」"
+translation = "「위험한 냄새도, 풀풀 풍기는데요……!」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「そうですね、星騎士として、調査しないわけにはいきません」"
+translation = "「그렇네요, 성기사로서, 조사하지 않을 수는 없습니다」"
+
+[[dialogue]]
+speaker = "ロロット"
+original = "「しかしこれは、未知なる出来事への冒険心が、くすぐられてしまいますね～」"
+translation = "「하지만 이건, 미지의 사건에 대한 모험심이, 자극되는군요~」"
+
+[[dialogue]]
+speaker = "ナナカ"
+original = "「こんな時に、ちょっとわくわくしてんじゃないよっ」"
+translation = "「이런 때에, 좀 설레지 말라고!」"
+
+[[dialogue]]
+speaker = "ロロット"
+original = "「いえいえ、クルセイダースとしての、正義の使命感に燃えているのです！」"
+translation = "「아니요, 크루세이더스로서의, 정의의 사명감에 불타고 있는 거예요!」"
+
+[[dialogue]]
+speaker = "ナナカ"
+original = "「ならいいけど」"
+translation = "「그럼 됐고」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「さすがですね、頼りになります！」"
+translation = "「역시 대단하시네요, 든든합니다!」"
+
+[[dialogue]]
+speaker = "ロロット"
+original = "「ですが、怖いのは御免被りますので、皆さんお先にどうぞ」"
+translation = "「하지만, 무서운 건 사양하겠으니, 여러분 먼저 가세요」"
+
+[[dialogue]]
+speaker = "ナナカ"
+original = "「はいはい、そりゃどうも」"
+translation = "「네 네, 고맙다」"
+
+[[dialogue]]
+speaker = "unk"
+original = "よし、行こう！"
+translation = "좋아, 가자!"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「そうね！」"
+translation = "「그래!」"
+
+[[dialogue]]
+speaker = "メイプル"
+original = "「あっ、ちょっと待ってよっ、置いてかないでよ～っ！」"
+translation = "「앗, 잠깐 기다려! 두고 가지 마~!」"
+
+[[dialogue]]
+speaker = "ロロット"
+original = "「ほぇ～……」"
+translation = "「호에~……」"
+
+[[dialogue]]
+speaker = "ナナカ"
+original = "「これがアステライト……」"
+translation = "「이것이 아스테라이트……」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「やっぱり、何か様子が違いますね」"
+translation = "「역시, 뭔가 모습이 다르네요」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「モンスターの姿もないみたいだし……」"
+translation = "「몬스터의 모습도 없는 것 같고……」"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「もう、だいぶ奥まで進んできたはずですが……」"
+translation = "「벌써, 꽤 안쪽까지 들어온 것 같은데……」"
+
+[[dialogue]]
+speaker = "パッキー"
+original = "「グオオォォォッ！」"
+translation = "「그오오오오옷!」"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「ひゃっ！？\u3000パンダのお化けです～っ！」"
+translation = "「햣!? 팬더 귀신이에요~!」"
+
+[[dialogue]]
+speaker = "ナナカ"
+original = "「うへえ、なんじゃこりゃあ！？」"
+translation = "「우헤에, 뭐야 이거!?」"
+
+[[dialogue]]
+speaker = "ロロット"
+original = "「パンダさんが巨大化してます！」"
+translation = "「팬더 씨가 거대화했어요!」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「えーっ、これもまたなの！？」"
+translation = "「에엣, 이것도 또야!?」"
+
+[[dialogue]]
+speaker = "パッキー"
+original = "「チキショーッ！\u3000お前ら全員、俺様の本気のパワーで成敗してやるぜ！」"
+translation = "「젠장! 너희들 전부, 이 몸의 진심 파워로 성불시켜 주마!」"
+
+[[dialogue]]
+speaker = "ナナカ"
+original = "「やば、でっかくなったついでに、あいつも正気を失ってるっぽい！」"
+translation = "「위험해, 커진 김에, 쟤도 제정신이 아닌 것 같아!」"
+
+[[dialogue]]
+speaker = "パッキー"
+original = "「魔王因子を手に入れれば、巨乳のねーちゃんよりどりみどりな、ハーレムパラダイスも夢じゃなかったってのによぉ！」"
+translation = "「마왕 인자를 손에 넣으면, 거유 누님들 마음대로 골라 잡는, 하렘 파라다이스도 꿈이 아니었는데 말이야!」"
+
+[[dialogue]]
+speaker = "ナナカ"
+original = "「いや、ホントに正気失ってるか？」"
+translation = "「아니, 정말로 제정신을 잃은 건가?」"
+
+[[dialogue]]
+speaker = "パッキー"
+original = "「グヘヘヘ……しかし、よく見りゃあ、まあまあなたわわボディの持ち主もいるようだぜ……」"
+translation = "「크헤헤헤…… 하지만, 잘 보니, 꽤나 아아 바디의 소유자도 있는 것 같군……」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「うえっ、ヤダヤダっ、こっち見ないでよっ」"
+translation = "「우웩, 싫어 싫어, 이쪽 보지 마!」"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「言っていることは、あまり変わっていないような気がしますね……」"
+translation = "「말하는 내용은, 별로 달라지지 않은 것 같은데요……」"
+
+[[dialogue]]
+speaker = "メイプル"
+original = "「もしかしてあたし、あんなのに操られてたの……？\u3000最悪すぎるんだけど……」"
+translation = "「혹시 나, 저런 녀석한테 조종당했던 거야……? 최악인데……」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「まったく……これはもう、戦っておとなしくさせないとダメみたいね！」"
+translation = "「정말…… 이건 이제, 싸워서 얌전하게 만들지 않으면 안 될 것 같네!」"
+
+[[dialogue]]
+speaker = "ナナカ"
+original = "「よしきた、任せな！\u3000いつもみたく、ペッタンコにしてやらあ！」"
+translation = "「좋아, 맡겨 줘! 평소처럼, 납작하게 만들어 주겠어!」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「成敗されるのは、あなたの方ですよ！」"
+translation = "「성불당할 사람은, 당신이에요!」"
+
+[[dialogue]]
+speaker = "ロロット"
+original = "「悪さをするパンダさんには、きつ～いお仕置きなのです～！」"
+translation = "「나쁜 짓을 하는 팬더 씨에게는, 아주 따끔한 벌을 주는 거예요~!」"
+
+[[dialogue]]
+speaker = "パッキー"
+original = "「クックック……！\u3000いいぜぇ、魔王と小うるさいメスガキども！\u3000かかって来やがれ～！」"
+translation = "「크크크……! 좋다, 마왕과 시끄러운 암컷 꼬맹이들아! 덤벼 보시지~!」"
+

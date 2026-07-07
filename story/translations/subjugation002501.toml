@@ -1,0 +1,190 @@
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「ねぇ、今度、２つの学園の創立記念パーティーがあるじゃない？」"
+translation = "「있지, 이번에 두 학원의 창립 기념 파티가 있잖아?」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「せっかくだし、何かそこで楽しいイベントがやりたいわ！」"
+translation = "「이왕 하는 거, 거기서 뭔가 즐거운 이벤트를 하고 싶어!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ある日、星徒会で書類仕事をしていたところで、ヴィーナスが突然そんなことを言い出した。"
+translation = "어느 날, 성도회에서 서류 작업을 하던 도중 비너스가 갑자기 그런 말을 꺼냈다."
+
+[[dialogue]]
+speaker = "アナ"
+original = "「そういえば、新星学園と流星学園って創立記念日が一緒なんでしたっけ？」"
+translation = "「그러고 보니 신성학원과 유성학원은 창립 기념일이 같았었나요?」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「ええ。正確には、流星学園の創立記念日に合わせて、新星学園が開校されたのが始まりだったみたいね」"
+translation = "「네. 정확히는 유성학원의 창립 기념일에 맞춰 신성학원이 개교한 것이 시작이었던 것 같아요」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「でも、イベントってなんで突然？」"
+translation = "「그런데 이벤트라니 왜 갑자기요?」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「だって去年参加した時、みんなで会場に集まって食事するだけで、普通に終わっちゃったんだもの！」"
+translation = "「그야 작년에 참가했을 때, 다 같이 회장에 모여서 식사만 하고 평범하게 끝나버렸는걸!」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「ハロウィンとかクリスマスみたいに、何か凄いことが起きたり、楽しいことが起こったりしなかったわ！」"
+translation = "「할로윈이나 크리스마스처럼 뭔가 굉장한 일이 일어나거나 즐거운 일이 일어나지 않았어!」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「いや、普通でいいでしょ……。むしろハロウィンとクリスマスに変なことが起き過ぎなだけで」"
+translation = "「아니, 평범한 게 좋잖아요……. 오히려 할로윈이랑 크리스마스에 이상한 일이 너무 많이 일어난 것뿐이지」"
+
+[[dialogue]]
+speaker = "unk"
+original = "と、その時だった。"
+translation = "그런데 그때였다."
+
+[[dialogue]]
+speaker = "アニマ"
+original = "「失礼するヨ、星徒会の諸君」"
+translation = "「실례하마, 성도회 제군들」"
+
+[[dialogue]]
+speaker = "unk"
+original = "今日はどうしたんですか？"
+translation = "오늘은 어쩐 일이세요?"
+
+[[dialogue]]
+speaker = "unk"
+original = "アニマ先輩、こんにちは"
+translation = "아니마 선배, 안녕하세요."
+
+[[dialogue]]
+speaker = "アニマ"
+original = "「やあ、会長。実はまた、イイ発明ができたから、その報告に来たんだヨ♪」"
+translation = "「야아, 회장. 실은 또 좋은 발명을 했기에 그 보고를 하러 왔다네♪」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「もしかして、<b>アレ</b>ですか？」"
+translation = "「혹시 <b>그거</b>인가요?」"
+
+[[dialogue]]
+speaker = "アニマ"
+original = "「フヒ、察しがいいな、アナ。その通リ！\u3000名づけて――『仮想結界システム』ダ♪」"
+translation = "「후히, 눈치가 빠르구나, 아나. 바로 그렇다! 이름하여── 『가상 결계 시스템』이다♪」"
+
+[[dialogue]]
+speaker = "アニマ"
+original = "「リップルのリゾート結界と、ルルカのクリスマスフォームが持つ仮想空間を作り出す能力のデータを元に、ツェツィーリエ、トレジアンナの協力も得て、ついに完成しタ」"
+translation = "「리플의 리조트 결계와 루루카의 크리스마스 폼이 가진 가상 공간을 만들어내는 능력의 데이터를 토대로, 체칠리에, 트레지안나의 협력도 얻어 마침내 완성했다」"
+
+[[dialogue]]
+speaker = "アニマ"
+original = "「このシステムがあれば、周辺環境への配慮や、非常時に備えた星力温存の問題を解決して、本気の仮想戦闘を行うことができル」"
+translation = "「이 시스템만 있다면 주변 환경에 대한 배려나 비상시를 대비한 성력 온존 문제를 해결하여 진심 어린 가상 전투를 할 수 있다」"
+
+[[dialogue]]
+speaker = "アニマ"
+original = "「つまりは、キミたち星騎士が全力で戦い、より強くなれる環境が整うというわけダ！」"
+translation = "「즉, 너희 성기사들이 전력으로 싸워 더욱 강해질 수 있는 환경이 갖춰졌다는 것이다!」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「全力で戦う……」"
+translation = "「전력으로 싸운다……」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「それだわ！」"
+translation = "「이거야!」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「あら～♪\u3000ヴィーナスちゃん、何か閃いたのね？」"
+translation = "「어라~♪ 비너스 짱, 뭔가 떠오른 모양이네?」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「ええ！\u3000そのなんとかシステムを使って――」"
+translation = "「네! 그 뭐시기 시스템을 사용해서──」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「みんなで集まって、楽しいバトル大会をするのよ！！！」"
+translation = "「다 같이 모여서 즐거운 배틀 대회를 하는 거야!!!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "かくして、ヴィーナス発案の『バトル大会（仮）』が企画されることになり、その週に行われた合同会議でフィオナたち流星星徒会もまた、それを承認した。"
+translation = "그리하여 비너스 발안의 『배틀 대회(가칭)』가 기획되게 되었고, 그 주에 열린 합동 회의에서 피오나 일행 유성 성도회 또한 그것을 승인했다."
+
+[[dialogue]]
+speaker = "unk"
+original = "そして、企画が通った翌日――"
+translation = "그리고 기획이 통과된 다음 날──"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「たのもー！！」"
+translation = "「실례하겠어!!」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「きゃっ、ヴィーナスさん！？\u3000いきなり入って来るので、ビックリしました……！」"
+translation = "「꺄악, 비너스 씨!? 갑자기 들어오셔서 깜짝 놀랐습니다……!」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「こんにちは、フィオナ！\u3000今はあなた１人なの？」"
+translation = "「안녕, 피오나! 지금은 너 혼자야?」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「はい。ちょうどみんなには、外回りの仕事をお願いしてまして」"
+translation = "「네. 마침 다들에게는 외부 업무를 부탁해둬서요」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「それで、今日はどうされましたか？\u3000もしかして例のバトル大会について何かご相談でしょうか？」"
+translation = "「그런데 오늘은 무슨 일이신가요? 혹시 그 배틀 대회에 대해 상담할 거라도?」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「そうだけど、そうじゃないわ！\u3000私、今日は宣戦布告に来たのよ！」"
+translation = "「그렇기도 하지만 아니야! 나, 오늘은 선전포고를 하러 온 거야!」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「せ、宣戦布告……ですか？」"
+translation = "「선, 선전포고…… 말인가요?」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「そう！\u3000ねぇ、フィオナ！」"
+translation = "「그래! 저기, 피오나!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ヴィーナスはフィオナの両手を取ると、顔をぐっと勢いよく近づける。"
+translation = "비너스는 피오나의 양손을 잡더니 얼굴을 훅 기세 좋게 들이댄다."
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「私――フィオナと全力でバトルがしてみたいわ！！」"
+translation = "「나── 피오나와 전력으로 배틀해보고 싶어!!」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「えっ……！？」"
+translation = "「엣……!?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "キラキラと瞳を子供のように輝かせながら言うヴィーナスに、フィオナは目をぱちくりさせてしまうのだった――"
+translation = "반짝반짝 눈동자를 아이처럼 빛내며 말하는 비너스에게 피오나는 눈을 깜빡거릴 뿐이었다──"
+

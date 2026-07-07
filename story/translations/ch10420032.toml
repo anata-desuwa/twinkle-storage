@@ -1,0 +1,360 @@
+[[dialogue]]
+speaker = "unk"
+original = "第２話,フニとウサギとカニ,P"
+translation = "제2화. 후니와 토끼와 게."
+
+[[dialogue]]
+speaker = "unk"
+original = "普段、星見家メイド隊のバイトをしているフニ。"
+translation = "평소, 호시미 가문 메이드대의 아르바이트를 하는 후니."
+
+[[dialogue]]
+speaker = "unk"
+original = "その日は、メイドとしての料理スキルを高める為、カフェテリアへやって来ていたのだが――"
+translation = "그날은, 메이드로서의 요리 기술을 높이기 위해, 카페테리아에 와 있었는데――"
+
+[[dialogue]]
+speaker = "フェニエル"
+original = "「まさか……メイド長にご指導頂けるなんて……！」"
+translation = "「설마…… 메이드장에게 지도를 받을 수 있다니……!」"
+
+[[dialogue]]
+speaker = "蘭美"
+original = "「ふふっ、メイド長と言っても、星見家の方じゃなく、九浄家の方の――だけどね♪」"
+translation = "「후훗, 메이드장이라고 해도, 호시미 가문 쪽이 아니라, 쿠죠 가문 쪽의――이지만 말이야♪」"
+
+[[dialogue]]
+speaker = "unk"
+original = "たまたま居合わせた九浄家メイド隊の最年少メイド長――<ruby>羽宮蘭美<rt>はねみやらび</rt></ruby>が、ウィンクをしながら告げる。"
+translation = "마침 그 자리에 있던 쿠죠 가문 메이드대의 최연소 메이드장――하네미야 란미>가, 윙크를 하면서 말한다."
+
+[[dialogue]]
+speaker = "蘭美"
+original = "「カフェテリア料理長の蛍火からも教わったみたいだけど、会長からも頼まれたし、今日は私も特別に指導してあげるわ！\u3000光栄に思いなさい♪」"
+translation = "「카페테리아 요리장인 호타루비에게도 배운 것 같지만, 회장군에게도 부탁받았고, 오늘은 나도 특별히 지도해 줄게! 영광으로 생각하렴♪」"
+
+[[dialogue]]
+speaker = "フェニエル"
+original = "「ありがとうございます、蘭美先輩っ。けっぱって、学ばせて頂きますっ」"
+translation = "「감사합니다, 란미 선배. 힘내서, 배우겠습니다」"
+
+[[dialogue]]
+speaker = "unk"
+original = "フニのこと、よろしくお願いします"
+translation = "후니를 잘 부탁한다."
+
+[[dialogue]]
+speaker = "蘭美"
+original = "「ええ。それじゃあ、最速で指導スタートよ！」"
+translation = "「응. 그럼, 최속으로 지도 스타트야!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "それからカフェテリアの厨房の一角を借りて、料理指導が開始された。"
+translation = "그리고 나서 카페테리아 주방 한쪽을 빌려, 요리 지도가 시작되었다."
+
+[[dialogue]]
+speaker = "蘭美"
+original = "「うんっ、なかなか器用で手際がいいじゃない、フニ！\u3000星見家じゃなく、うちで正式にメイドとして迎えてもいいわよ？」"
+translation = "「응, 꽤나 솜씨 좋고 일 처리가 빠르잖아, 후니! 호시미 가문이 아니라, 우리 집에서 정식으로 메이드로 맞아도 괜찮아?」"
+
+[[dialogue]]
+speaker = "フェニエル"
+original = "「え？\u3000ありがとうございますっ。でも、星見家メイド隊の先輩たちにはなまらお世話になっているので……」"
+translation = "「에? 감사합니다. 하지만, 호시미 가문 메이드대의 선배들에게는 정말 신세를 지고 있어서……」"
+
+[[dialogue]]
+speaker = "蘭美"
+original = "「そう、惜しいわね。でも、気が変わったらいつでも来なさい。私が最速で歓迎してあげるわ！」"
+translation = "「그래, 아쉽네. 하지만, 마음이 바뀌면 언제든지 오렴. 내가 최속으로 환영해 줄게!」"
+
+[[dialogue]]
+speaker = "蘭美"
+original = "「その為にも、私の料理スキルが星見家メイド長のキリカに負けないくらいすごいってところを、見せておかないとね♪」"
+translation = "「그러기 위해서라도, 내 요리 기술이 호시미 가문 메이드장인 키리카에게 지지 않을 만큼 대단하다는 걸, 보여줘야겠지♪」"
+
+[[dialogue]]
+speaker = "蘭美"
+original = "「というわけで、蛍火に頼んで、特別な食材を貰ってきたわ！」"
+translation = "「그래서, 호타루비에게 부탁해서, 특별한 식재료를 받아왔어!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "そう言って、蘭美が台所の机に用意したのは――"
+translation = "그렇게 말하며, 란미가 부엌 식탁에 준비한 것은――"
+
+[[dialogue]]
+speaker = "フェニエル"
+original = "「これは<ruby>蟹<rt>かに</rt></ruby>ですか？\u3000なまら大きいです……！」"
+translation = "「이건 게인가요? 정말 큽니다……!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "魔界の蟹じゃないか？"
+translation = "마계의 게가 아닌가?"
+
+[[dialogue]]
+speaker = "unk"
+original = "これ、すごく美味しいって有名な"
+translation = "이거, 엄청 맛있다고 유명한"
+
+[[dialogue]]
+speaker = "蘭美"
+original = "「会長の言う通り、これは『超硬度食材』と呼ばれる魔界の大蟹――『サラタンガニ』よ！」"
+translation = "「회장군의 말대로, 이건 『초경도 식재료』라고 불리는 마계의 대게――『사라탄가니』야!」"
+
+[[dialogue]]
+speaker = "フェニエル"
+original = "「あっ、それってテレビの料理番組で観たことがありますっ。星騎士でも簡単に砕けないくらい固い甲羅を持っていて、<ruby>捌<rt>さば</rt></ruby>くのがすごい大変だって……」"
+translation = "「앗, 그거 TV 요리 프로그램에서 본 적이 있습니다. 성기사라도 쉽게 부술 수 없을 만큼 단단한 껍데기를 가지고 있어서, 손질하는 게 엄청 힘들다고……」"
+
+[[dialogue]]
+speaker = "蘭美"
+original = "「そう！\u3000今度『蟹フェス』をやるらしくて大量に仕入れたらしいんだけど、その１匹を今回特別に譲ってもらったのよ」"
+translation = "「맞아! 이번에 『게 페스티벌』을 한다고 해서 대량으로 들여온 것 같은데, 그 한 마리를 이번에 특별히 양보받은 거야」"
+
+[[dialogue]]
+speaker = "フェニエル"
+original = "「確か、サラタンガニを解体するには、なまらすごい包丁の技術が必要で、切り込む場所や角度も見極めないといけないんですよね……？」"
+translation = "「확실히, 사라탄가니를 해체하려면, 정말 대단한 칼 기술이 필요하고, 잘라 들어갈 장소나 각도도 잘 파악해야 하는 거죠……?」"
+
+[[dialogue]]
+speaker = "フェニエル"
+original = "「あの……どれだけ固いのか、ちょっと甲羅を触ってみてもいいでしょうか？」"
+translation = "「저기…… 얼마나 단단한지, 잠깐 껍데기를 만져 봐도 될까요?」"
+
+[[dialogue]]
+speaker = "蘭美"
+original = "「ふふっ、いいわよ！\u3000星力を込めて普通の蟹みたいに関節部分を折ろうとしても、ビクともしないんだから！」"
+translation = "「후훗, 괜찮아! 성력을 담아 보통 게처럼 관절 부분을 꺾으려고 해도, 꼼짝도 안 하니까!」"
+
+[[dialogue]]
+speaker = "フェニエル"
+original = "「そんなにですか……！？」"
+translation = "「그 정도인가요……!?」"
+
+[[dialogue]]
+speaker = "蘭美"
+original = "「ええ。私でも解体できるようになるまでに、何年も包丁の技術を磨いて――」"
+translation = "「응. 나도 해체할 수 있게 될 때까지, 몇 년이나 칼 기술을 갈고 닦아서――」"
+
+[[dialogue]]
+speaker = "unk"
+original = "――バキッ。"
+translation = "――빠직."
+
+[[dialogue]]
+speaker = "フェニエル"
+original = "「あれ……！？」"
+translation = "「어라……!?」"
+
+[[dialogue]]
+speaker = "蘭美"
+original = "「えっ？」"
+translation = "「엣?」"
+
+[[dialogue]]
+speaker = "フェニエル"
+original = "「ご、ごめんなさい！\u3000なんか星力込めてないのに、蟹の足が折れちゃいました……！」"
+translation = "「저, 죄송합니다! 뭔가 성력을 담지 않았는데, 게 다리가 부러져 버렸어요……!」"
+
+[[dialogue]]
+speaker = "蘭美"
+original = "「おかしいわね……蛍火が事前に包丁で、関節に切れ目でも入れてたのかしら？」"
+translation = "「이상하네…… 호타루비가 사전에 칼로, 관절에 칼집이라도 넣어 뒀던 걸까?」"
+
+[[dialogue]]
+speaker = "フェニエル"
+original = "「あっ、いえ……関節ではなくて、足の真ん中で……」"
+translation = "「앗, 아니요…… 관절이 아니라, 다리 한가운데서……」"
+
+[[dialogue]]
+speaker = "蘭美"
+original = "「は？\u3000真ん中？」"
+translation = "「하? 한가운데?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "フニが足の折ってしまった部分を、蘭美に見せる。"
+translation = "후니가 다리가 부러진 부분을, 란미에게 보여준다."
+
+[[dialogue]]
+speaker = "蘭美"
+original = "「な、なにこれ……切れ目からパックリ行ったような感じじゃなくて、無理矢理力でへし折ったみたいになってるんだけど……」"
+translation = "「뭐, 뭐야 이거…… 칼집을 따라 쩍 갈라진 듯한 느낌이 아니라, 억지로 힘으로 부러뜨린 것처럼 되어 있는데……」"
+
+[[dialogue]]
+speaker = "unk"
+original = "まさかフニ……素で割ったのか？"
+translation = "설마 후니…… 맨손으로 깬 건가?"
+
+[[dialogue]]
+speaker = "蘭美"
+original = "「は！？\u3000素ってどういうこと！？」"
+translation = "「하!? 맨손이라니 무슨 소리야!?」"
+
+[[dialogue]]
+speaker = "フェニエル"
+original = "「そう……なんですかね？」"
+translation = "「그런…… 건가요?」"
+
+[[dialogue]]
+speaker = "蘭美"
+original = "「いやいやいや！\u3000そんなわけないでしょ！？」"
+translation = "「아니 아니 아니! 그럴 리가 없잖아!?」"
+
+[[dialogue]]
+speaker = "蘭美"
+original = "「星力ありの星騎士でも、そう簡単に割れないのよ！？\u3000フニ、試しにもう１回やってみなさい！\u3000絶対に偶然だから！」"
+translation = "「성력을 쓰는 성기사라도, 그렇게 쉽게 깨지지 않는다고!? 후니, 시험 삼아 한 번 더 해 봐! 절대로 우연이니까!」"
+
+[[dialogue]]
+speaker = "フェニエル"
+original = "「は、はい。じゃあ――」"
+translation = "「네, 네. 그럼――」"
+
+[[dialogue]]
+speaker = "unk"
+original = "フニはサラタンガニの別の足を両手で持つと、ぐっと曲げるように力を込める。"
+translation = "후니는 사라탄가니의 다른 다리를 양손으로 잡고, 꾹 구부리듯이 힘을 준다."
+
+[[dialogue]]
+speaker = "フェニエル"
+original = "「えいっ」"
+translation = "「에잇」"
+
+[[dialogue]]
+speaker = "unk"
+original = "――バキンッ！"
+translation = "――빠킨!"
+
+[[dialogue]]
+speaker = "unk"
+original = "すると、今度こそ俺たちの目の前で、サラタンガニの足が真ん中から真っ二つにへし折れてしまった。"
+translation = "그러자, 이번에야말로 우리들 눈앞에서, 사라탄가니의 다리가 한가운데서 두 동강이 나 부러져 버렸다."
+
+[[dialogue]]
+speaker = "蘭美"
+original = "「えええぇーーーっ！！？」"
+translation = "「에에에에엑!!!?」"
+
+[[dialogue]]
+speaker = "フェニエル"
+original = "「行けちゃいました……！」"
+translation = "「되어 버렸습니다……!」"
+
+[[dialogue]]
+speaker = "蘭美"
+original = "「どういうことぴょん！？\u3000嘘でしょ！？」"
+translation = "「무슨 소리야 뿅!? 거짓말이지!?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "実は……フニはすごい怪力なんだ"
+translation = "실은…… 후니는 엄청난 괴력이다."
+
+[[dialogue]]
+speaker = "フェニエル"
+original = "「力にはちょっとだけ自信がありまして……えへへ♪」"
+translation = "「힘에는 조금 자신감이 있어서…… 에헤헤♪」"
+
+[[dialogue]]
+speaker = "蘭美"
+original = "「いや、おかしいでしょ！？\u3000星力使ってないはずなのに、なんか普通の蟹の足みたいに折ってたけど！？」"
+translation = "「아니, 이상하잖아!? 성력 쓰지 않았을 텐데, 뭔가 보통 게 다리처럼 꺾고 있었잖아!?」"
+
+[[dialogue]]
+speaker = "蘭美"
+original = "「き、きっとこの蟹の方がおかしいのよ！\u3000今度が私がやるわ！\u3000見てなさい！」"
+translation = "「흐, 분명 이 게가 이상한 거야! 이번엔 내가 할게! 보고 있으렴!」"
+
+[[dialogue]]
+speaker = "蘭美"
+original = "「――ふんぬっ！\u3000……はあぁ……ふうぅっ……えぇいっ！！\u3000っ……このっ！\u3000ふんぬううぅ～～っ！！！」"
+translation = "「――흥! ……하아…… 후우…… 에잇!! ……이것이! 흥으으으~~~!!!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "――それからしばらくして。"
+translation = "――그리고 나서 잠시 후."
+
+[[dialogue]]
+speaker = "蘭美"
+original = "「はぁ……はぁ……！\u3000ど、どうやっても割れない……！\u3000星力をフルパワーで使っても……！」"
+translation = "「하아…… 하아……! 도, 도저히 깰 수가 없어……! 성력을 풀 파워로 써도……!」"
+
+[[dialogue]]
+speaker = "フェニエル"
+original = "「あの……蘭美先輩、大丈夫ですか？」"
+translation = "「저기…… 란미 선배, 괜찮으세요?」"
+
+[[dialogue]]
+speaker = "蘭美"
+original = "「このままじゃ終われないわ……こうなったら、フニ！」"
+translation = "「이대로는 끝낼 수 없어…… 이렇게 된 이상, 후니!」"
+
+[[dialogue]]
+speaker = "フェニエル"
+original = "「は、はいっ。なんでしょう？」"
+translation = "「네, 네. 뭐죠?」"
+
+[[dialogue]]
+speaker = "蘭美"
+original = "「私はもう、意地を捨てるわ！\u3000包丁を使って、最速でサラタンガニを解体する。だから――」"
+translation = "「나는 이제, 고집을 버릴 거야! 칼을 사용해서, 최속으로 사라탄가니를 해체하겠어. 그러니까――」"
+
+[[dialogue]]
+speaker = "蘭美"
+original = "「私のスピードと、あなたのパワー、どっちが勝つか、勝負よ！」"
+translation = "「내 스피드와, 네 파워, 어느 쪽이 이길지, 승부야!」"
+
+[[dialogue]]
+speaker = "フェニエル"
+original = "「えぇっ！？\u3000私が蘭美先輩とですか！？」"
+translation = "「에엣!? 제가 란미 선배와 말인가요!?」"
+
+[[dialogue]]
+speaker = "蘭美"
+original = "「そうよ！\u3000私が認めた１人のメイドとして、受けて立ちなさい！」"
+translation = "「맞아! 내가 인정한 한 명의 메이드로서, 상대해!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "その後――"
+translation = "그 후――"
+
+[[dialogue]]
+speaker = "蘭美"
+original = "「ま、負けたぴょおおおぉぉぉんっ！！？」"
+translation = "「저, 졌다 뿅오오오오옷!!!?」"
+
+[[dialogue]]
+speaker = "フェニエル"
+original = "「やった……！\u3000勝ちましたよ、会長さんっ！」"
+translation = "「해냈다……! 이겼어요, 회장군!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "フニ、すごいぞ！\u3000力こそパワーだ！！"
+translation = "후니, 대단해! 힘이야말로 파워다!!"
+
+[[dialogue]]
+speaker = "フェニエル"
+original = "「ぴゃっ<emoji=heart04>\u3000会長さんにお姫様抱っこされちゃいましたっ。えへへへっ……♪」"
+translation = "「뺘앗<emoji=heart04> 회장군에게 공주님 안기를 당해 버렸어요. 에헤헤헷……♪」"
+
+[[dialogue]]
+speaker = "蘭美"
+original = "「くうぅぅ～～っ！\u3000もっとスピードを磨いて、必ずそのパワーに勝ってみせるんだから！\u3000次の勝負を待ってなさい、フニ！」"
+translation = "「크으으으~~~! 더 스피드를 갈고 닦아서, 반드시 그 파워를 이겨 보이겠어! 다음 승부를 기다리고 있으렴, 후니!」"
+
+[[dialogue]]
+speaker = "フェニエル"
+original = "「えっ！？\u3000また勝負するんですか！？」"
+translation = "「엣!? 또 승부하는 건가요!?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "その日以降、たびたびフニのパワーに対抗心を燃やしては、スピードで挑んで来るようになる蘭美なのであった――"
+translation = "그날 이후, 종종 후니의 파워에 대항심을 불태우며, 스피드로 도전해 오는 란미였던 것이다――"
+

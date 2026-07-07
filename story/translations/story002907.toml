@@ -1,0 +1,405 @@
+[[dialogue]]
+speaker = "シノ"
+original = "『星霊祭も２日目に突入です。引き続き、進行は新星学園学園長の十六夜シノと──』"
+translation = "『성령제도 2일 차에 돌입했습니다. 계속해서, 진행은 신성 학원 학원장인 이자요이 시노와──』"
+
+[[dialogue]]
+speaker = "マグダレナ"
+original = "『《境界》のマグダレナでお送りいたします。現在、初日の玉入れで圧倒的勝利を収めた新星学園が得点で上回っています。このまま優勢を維持できるでしょうか？』"
+translation = "『《경계》의 막달레나로 보내드리겠습니다. 현재, 첫날 공 던져 넣기에서 압도적인 승리를 거둔 신성 학원이 득점에서 앞서고 있습니다. 이대로 우세를 유지할 수 있을까요?』"
+
+[[dialogue]]
+speaker = "シノ"
+original = "『そうは問屋が卸さないのが好敵手である流星学園です。２日目最初の競技は、障害物競走になります』"
+translation = "『그렇게 쉽게 내줄 수 없는 것이 호적수인 유성 학원입니다. 2일 차 첫 번째 경기는, 장애물 경주가 되겠습니다』"
+
+[[dialogue]]
+speaker = "美鶴"
+original = "「きっと、次も普通の障害物競走じゃないんだよね？」"
+translation = "「분명, 다음도 평범한 장애물 경주는 아니겠지?」"
+
+[[dialogue]]
+speaker = "モンスター"
+original = "「イ～～ッ！！」"
+translation = "「이~~~잇!!」"
+
+[[dialogue]]
+speaker = "モンスター"
+original = "「ンギャオォゥッ！！」"
+translation = "「응갸오오옷!!」"
+
+[[dialogue]]
+speaker = "カティア"
+original = "「わっ、今度こそモンスターですガオ！？」"
+translation = "「왓, 이번에야말로 몬스터인가갸오!?」"
+
+[[dialogue]]
+speaker = "シノ"
+original = "『ご安心ください。それはシミュレーターによって投影されたモンスターです。しかし、その戦闘力は決して侮れません』"
+translation = "『안심하십시오. 그것은 시뮬레이터에 의해 투영된 몬스터입니다. 하지만, 그 전투력은 결코 무시할 수 없습니다』"
+
+[[dialogue]]
+speaker = "マグダレナ"
+original = "『迫りくるモンスターたちを蹴散らしながら、ゴールを目指していただきます。星騎士の能力を存分に活かせる競技ですね』"
+translation = "『밀려오는 몬스터들을 물리치면서, 골을 향해 달려주셔야 합니다. 성기사의 능력을 마음껏 활용할 수 있는 경기네요』"
+
+[[dialogue]]
+speaker = "美鶴"
+original = "「走りながら敵倒すとか、なかなかハードモードじゃん。うちらから出場するのは──」"
+translation = "「달리면서 적을 쓰러뜨리다니, 꽤나 하드 모드잖아. 우리 쪽에서 출전하는 건──」"
+
+[[dialogue]]
+speaker = "unk"
+original = "俺が出る！"
+translation = "내가 나간다!"
+
+[[dialogue]]
+speaker = "マグダレナ"
+original = "『あらあら、新星学園は会長さん直々の出走ですね。対する流星学園は──』"
+translation = "『어머나, 신성 학원은 회장군께서 직접 출전하시네요. 맞서는 유성 학원은──』"
+
+[[dialogue]]
+speaker = "アニュラス（覚醒）"
+original = "「私が出る！\u3000相手にとって不足はない！」"
+translation = "「내가 나간다! 상대에게 부족함은 없다!」"
+
+[[dialogue]]
+speaker = "シノ"
+original = "『流星学園からはアニュラスさんが出走です。実技試験では学年主席の実力者ですよ』"
+translation = "『유성 학원에서는 아뉴라스 씨가 출전합니다. 실기 시험에서는 학년 수석을 차지한 실력자예요』"
+
+[[dialogue]]
+speaker = "シノ"
+original = "『彼女は会長さんに対抗心を燃やしていますからね。注目の一戦となりそうです。目が離せませんね』"
+translation = "『그녀는 회장군에게 대항심을 불태우고 있으니까요. 주목할 만한 일전이 될 것 같습니다. 눈을 뗄 수 없겠네요』"
+
+[[dialogue]]
+speaker = "フラン"
+original = "「我らが会長の出番だ！\u3000みんなー、声を振り絞るぞー！\u3000フレー、フレー、か・い・ちょ・う！」"
+translation = "「우리 회장군의 차례다! 모두들, 목청껏 소리 질러라! 프레이, 프레이, 회・장! 프레이, 프레이, 회・장! 이대로 가라!」"
+
+[[dialogue]]
+speaker = "美鶴"
+original = "「フレー、フレー、会長さーん」"
+translation = "「프레이, 프레이, 회장 씨」"
+
+[[dialogue]]
+speaker = "ミルフィー"
+original = "「フレー、フレー、会長くーん！\u3000頑張ってーー！」"
+translation = "「프레이, 프레이, 회장군! 힘내!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "力が湧き出てくる……！"
+translation = "힘이 솟아난다……!"
+
+[[dialogue]]
+speaker = "unk"
+original = "みんなの声援が……！"
+translation = "모두의 응원 소리가……!"
+
+[[dialogue]]
+speaker = "アニュラス（覚醒）"
+original = "「大した応援だな。だが、私にも負けられない理由がある！」"
+translation = "「대단한 응원이군. 하지만, 나에게도 질 수 없는 이유가 있다!」"
+
+[[dialogue]]
+speaker = "シノ"
+original = "『それでは各選手、位置について──よーい……ドン！』"
+translation = "『그럼 각 선수, 위치로── 준비…… 땅!』"
+
+[[dialogue]]
+speaker = "ミルフィー"
+original = "「きゃーっ♪\u3000会長くん、いいスタートだよー！\u3000いけいけ！\u3000ゴーゴー！\u3000ジャーンプ！」"
+translation = "「꺄아~♪ 회장군, 좋은 스타트야! 가라 가! 고고! 점프!」"
+
+[[dialogue]]
+speaker = "モンスター"
+original = "「イーッ！」"
+translation = "「이잇!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "邪魔だっ！"
+translation = "방해된다!"
+
+[[dialogue]]
+speaker = "モンスター"
+original = "「イ～～ッ……」"
+translation = "「이~~~잇……」"
+
+[[dialogue]]
+speaker = "マグダレナ"
+original = "『さすがは星徒会長ですね。腕の一振りごとに、モンスターたちが星屑のように消えていきます』"
+translation = "『역시 성도회 회장답네요. 팔을 한 번 휘두를 때마다, 몬스터들이 별똥별처럼 사라져 갑니다』"
+
+[[dialogue]]
+speaker = "カティア"
+original = "「さすがは魔王様ですワン！\u3000いっけー！」"
+translation = "「역시 마왕님입니다멍! 가랏!」"
+
+[[dialogue]]
+speaker = "モンスター"
+original = "「ギャオーーゥ！」"
+translation = "「갸오오오옷!」"
+
+[[dialogue]]
+speaker = "アニュラス（覚醒）"
+original = "「ぐっ……！？\u3000こいつ、本当に投影されたモンスターか……！？\u3000見かけによらず手強い！」"
+translation = "「크윽……!? 이 녀석, 정말로 투영된 몬스터인가……!? 겉보기와 달리 만만치 않군!」"
+
+[[dialogue]]
+speaker = "マグダレナ"
+original = "『アニュラスさんは少しモンスターの対処に追われているようですね』"
+translation = "『아뉴라스 씨는 몬스터를 처리하느라 조금 고전하고 있는 듯하네요』"
+
+[[dialogue]]
+speaker = "シノ"
+original = "『星徒会長の面目躍如です！\u3000２日目も新星学園の勝利となるのでしょうか！』"
+translation = "『성도회 회장의 면목이 돋보입니다! 2일 차도 신성 학원의 승리가 될까요!』"
+
+[[dialogue]]
+speaker = "unk"
+original = "（この勝負……もらったっ！）"
+translation = "（이 승부…… 내가 가져간다!）"
+
+[[dialogue]]
+speaker = "アニュラス（覚醒）"
+original = "「──今『もらった』と思ったか？\u3000そう易々と勝利を譲るものかっ！」"
+translation = "「──지금 '가져간다'고 생각했나? 그렇게 쉽게 승리를 넘겨줄 것 같으냐!」"
+
+[[dialogue]]
+speaker = "アニュラス（覚醒）"
+original = "「油断大敵だな！\u3000勝ったと思ったその瞬間、最大の隙が生まれる！」"
+translation = "「방심은 금물이다! 이겼다고 생각한 그 순간, 최대의 빈틈이 생긴다!」"
+
+[[dialogue]]
+speaker = "シノ"
+original = "『いえ、まだでした！\u3000懸命に食らいつくアニュラスさん、勝負はついていません！』"
+translation = "『아닙니다, 아직이었습니다! 필사적으로 따라붙는 아뉴라스 씨, 승부는 아직 나지 않았습니다!』"
+
+[[dialogue]]
+speaker = "アニュラス（覚醒）"
+original = "「負けん……！\u3000負けないぞっ！」"
+translation = "「지지 않아……! 지지 않을 거다!」"
+
+[[dialogue]]
+speaker = "シノ"
+original = "『緋宮会長に燃やすのは対抗心か、執念か、はたまたそれとも！\u3000アニュラス選手の猛追ですっ！』"
+translation = "『히노미야 회장에게 불태우는 것은 대항심인가, 집념인가, 아니면 또 다른 무언가인가! 아뉴라스 선수의 맹추격입니다!』"
+
+[[dialogue]]
+speaker = "美鶴"
+original = "「なかなかやるね。一気に追いついてきた……会長さんの真後ろ──もう射程圏内じゃん」"
+translation = "「꽤 하는데. 단숨에 따라잡았어…… 회장 씨 바로 뒤── 벌써 사정권이잖아」"
+
+[[dialogue]]
+speaker = "フラン"
+original = "「うおおお、激アツ展開だぁっ！\u3000だけど会長、あんたならやれる！\u3000負けたりしねえよなっ！\u3000なあっ！」"
+translation = "「우오오오, 엄청 뜨거운 전개다! 하지만 회장, 너라면 할 수 있어! 질 리 없잖아! 안 그래!」"
+
+[[dialogue]]
+speaker = "ミルフィー"
+original = "「会長くんっ、がんばれーーっ！\u3000抜かれちゃダメーっ！」"
+translation = "「회장군, 힘내! 추월당하면 안 돼!」"
+
+[[dialogue]]
+speaker = "美鶴"
+original = "「会長さん、がんばれ、がんばれー」"
+translation = "「회장 씨, 힘내, 힘내」"
+
+[[dialogue]]
+speaker = "カティア"
+original = "「魔王様ーっ！\u3000負けちゃイヤですーーーっ！」"
+translation = "「마왕님! 지면 안 돼요!」"
+
+[[dialogue]]
+speaker = "ヒヨ"
+original = "「根性みせろ、根性ーっ！」"
+translation = "「근성 보여줘, 근성!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "みんなの声援が届く。胸の内から力が湧く。"
+translation = "모두의 응원이 닿는다. 가슴속에서 힘이 솟구친다."
+
+[[dialogue]]
+speaker = "unk"
+original = "新星学園星徒会長の名に懸けて……後に繋ぐためにも、負けるわけにはいかないっ！"
+translation = "신성 학원 성도회 회장의 이름에 걸고…… 다음으로 이어가기 위해서라도, 질 수는 없다!"
+
+[[dialogue]]
+speaker = "アニュラス（覚醒）"
+original = "「負けんっ、お前にだけはっ！\u3000うおおおおおおおおおおっっっ！」"
+translation = "「지지 않아, 너에게만은! 우오오오오오오오옷!!!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "うおおおおおおおおおおおっっっ！！"
+translation = "우오오오오오오오옷!!!"
+
+[[dialogue]]
+speaker = "unk"
+original = "みんな、俺に力を貸してくれっ！"
+translation = "모두, 나에게 힘을 빌려줘!"
+
+[[dialogue]]
+speaker = "シノ"
+original = "『ゴーーーーーーーーール、インッ！！！\u3000ほぼ同着ですっ！』"
+translation = "『고오오오오오오오올, 인!!! 거의 동시 착입니다!』"
+
+[[dialogue]]
+speaker = "マグダレナ"
+original = "『カメラ判定に持ち越されますので、今しばらくお待ちくださーい』"
+translation = "『카메라 판정으로 넘어가므로, 잠시만 기다려 주십시오』"
+
+[[dialogue]]
+speaker = "アニュラス（覚醒）"
+original = "「はぁっ、はぁ、はぁっ……！\u3000どっちだ……！？\u3000私は勝ったのか……！？」"
+translation = "「하아, 하아, 하아……! 어느 쪽이지……!? 내가 이긴 건가……!?」"
+
+[[dialogue]]
+speaker = "美鶴"
+original = "「会長さんの方が、ちょっと早かったよね……？」"
+translation = "「회장 씨 쪽이, 조금 빨랐지 않아……?」"
+
+[[dialogue]]
+speaker = "ミルフィー"
+original = "「わからないけど、た、たぶん……！\u3000大丈夫だよねっ……！？」"
+translation = "「모르겠지만, 아, 아마……! 괜찮겠지……!?」"
+
+[[dialogue]]
+speaker = "シノ"
+original = "『さぁ、注目のカメラ判定が出ました。結果は──』"
+translation = "『자, 주목의 카메라 판정이 나왔습니다. 결과는──』"
+
+[[dialogue]]
+speaker = "unk"
+original = "アリーナの大画面モニターにゴールテープを切った瞬間が映された。"
+translation = "아레나의 대형 화면 모니터에 골인 테이프를 끊는 순간이 비춰졌다."
+
+[[dialogue]]
+speaker = "ミルフィー"
+original = "「ア、アレって！\u3000先にゴールテープを切ったのは──」"
+translation = "「아, 저건! 먼저 골인 테이프를 끊은 건──」"
+
+[[dialogue]]
+speaker = "美鶴"
+original = "「会長さんだ。やっぱりね」"
+translation = "「회장 씨다. 역시나」"
+
+[[dialogue]]
+speaker = "シノ"
+original = "『ギリギリのムネ差！\u3000アニュラスさんも頑張りましたが、勝者は緋宮会長！\u3000新星学園の勝利です！』"
+translation = "『아슬아슬한 가슴 차이! 아뉴라스 씨도 분전했지만, 승자는 히노미야 회장! 신성 학원의 승리입니다!』"
+
+[[dialogue]]
+speaker = "アニュラス（覚醒）"
+original = "「くうぅ……っ！\u3000私のバストがもう少し大きければ！」"
+translation = "「크으으윽……! 내 가슴이 조금만 더 컸더라면!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "（それ以上大きくなったら不利になりそうだけど……）"
+translation = "（그 이상 커지면 불리해질 것 같지만……）"
+
+[[dialogue]]
+speaker = "カティア"
+original = "「魔王様の勝ちですーっ！」"
+translation = "「마왕님의 승리입니다!」"
+
+[[dialogue]]
+speaker = "ミルフィー"
+original = "「やったーーーっ！\u3000さすがは会長くんだよーーーっ！！」"
+translation = "「해냈다! 역시 회장군이야!」"
+
+[[dialogue]]
+speaker = "美鶴"
+original = "「すっごいギリギリだったね。勝負を分けたのは……うちらの応援の力だったりする……？」"
+translation = "「엄청 아슬아슬했네. 승부를 가른 건…… 우리들의 응원 덕분일까……?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "みんな、応援ありがとうー！"
+translation = "모두, 응원 고마워!"
+
+[[dialogue]]
+speaker = "unk"
+original = "声援がなかったら、俺の負けだったよ"
+translation = "응원이 없었다면, 내가 졌을 거야"
+
+[[dialogue]]
+speaker = "アニュラス（覚醒）"
+original = "「あと一歩、いや半歩のところで、勝利に手が届かなかったか……！\u3000不甲斐ない……！」"
+translation = "「앞으로 한 걸음, 아니 반 걸음 앞에서, 승리에 손이 닿지 않았나……! 한심하군……!」"
+
+[[dialogue]]
+speaker = "アニュラス（覚醒）"
+original = "「なぜ私は勝てなかった……あと半歩、私に何が足りなかったのだ……」"
+translation = "「왜 나는 이기지 못했지…… 앞으로 반 걸음, 나에게 무엇이 부족했던 걸까……」"
+
+[[dialogue]]
+speaker = "ミネコ"
+original = "「んー、星霊祭は個人戦じゃなくて、団体戦だから、じゃないかなー」"
+translation = "「음~, 성령제는 개인전이 아니라, 단체전이니까, 그렇지 않을까?」"
+
+[[dialogue]]
+speaker = "アニュラス（覚醒）"
+original = "「それはどういう意味だ……？」"
+translation = "「그것은 무슨 의미지……?」"
+
+[[dialogue]]
+speaker = "ミネコ"
+original = "「アニュラスさんはさ、会長に勝とうとしてたでしょ？」"
+translation = "「아뉴라스 씨는 말이야, 회장에게 이기려고 했잖아?」"
+
+[[dialogue]]
+speaker = "アニュラス（覚醒）"
+original = "「もちろんだ。勝つことのみを考えて──」"
+translation = "「물론이다. 이기는 것만을 생각하며──」"
+
+[[dialogue]]
+speaker = "ミネコ"
+original = "「それだよ。会長を負かそうとして──個人の勝利って宝石に目が眩んでいた」"
+translation = "「그거야. 회장을 꺾으려고── 개인의 승리라는 보석에 눈이 멀었던 거지」"
+
+[[dialogue]]
+speaker = "ミネコ"
+original = "「でも会長は個人じゃなくて、新星学園のための勝利を掴もうとした。だから、みんなの声援を受けて、それを力に変えた」"
+translation = "「하지만 회장은 개인이 아니라, 신성 학원을 위한 승리를 잡으려고 했어. 그래서, 모두의 응원을 받고, 그것을 힘으로 바꾼 거야」"
+
+[[dialogue]]
+speaker = "ミネコ"
+original = "「アニュラスさんにみんなの声援、届いてた？」"
+translation = "「아뉴라스 씨에게 모두의 응원, 닿았어?」"
+
+[[dialogue]]
+speaker = "アニュラス（覚醒）"
+original = "「私への応援……？」"
+translation = "「나를 향한 응원……?」"
+
+[[dialogue]]
+speaker = "流星生徒Ａ"
+original = "「アニュラスさーん！\u3000惜しかったよー！」"
+translation = "「아뉴라스 씨! 아까웠어요!」"
+
+[[dialogue]]
+speaker = "流星生徒Ｂ"
+original = "「次は絶対に勝てる！\u3000応援してるからねー！」"
+translation = "「다음엔 반드시 이길 수 있어요! 응원하고 있을게요!」"
+
+[[dialogue]]
+speaker = "アニュラス（覚醒）"
+original = "「なるほど。勝利に目が眩み、視界が狭まっていた私が愚かだったということか……敗北も道理……」"
+translation = "「과연. 승리에 눈이 멀어, 시야가 좁아졌던 내가 어리석었다는 건가…… 패배도 당연하군……」"
+
+[[dialogue]]
+speaker = "ミネコ"
+original = "「それがわかったなら、次は大丈夫だね！」"
+translation = "「그걸 알았다면, 다음은 괜찮을 거야!」"
+
+[[dialogue]]
+speaker = "アニュラス（覚醒）"
+original = "「ああ、次こそは……負けない！」"
+translation = "「아아, 다음이야말로…… 지지 않아!」"
+

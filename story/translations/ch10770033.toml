@@ -1,0 +1,460 @@
+[[dialogue]]
+speaker = "unk"
+original = "第３話,お嫁さんＶＳ師匠,P"
+translation = "제3화, 신부 VS 스승, P"
+
+[[dialogue]]
+speaker = "unk"
+original = "とある昼休み。最近は蘭美と一緒にランチを食べるのが定番になっていた。"
+translation = "어느 점심시간. 최근에는 라비와 함께 점심을 먹는 것이 일상이 되어 있었다."
+
+[[dialogue]]
+speaker = "蘭美"
+original = "「はい、あーんして<emoji=heart04>」"
+translation = "「자, 아앙 해<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "unk"
+original = "あーん<emoji=heart04>"
+translation = "아앙<emoji=heart04>"
+
+[[dialogue]]
+speaker = "蘭美"
+original = "「ふふっ、よく噛んで食べるのよ。好き嫌いもよくないわ。バランスよく食べることが大事なんだから」"
+translation = "「후훗, 잘 씹어 먹어. 편식하는 것도 좋지 않아. 균형 있게 먹는 것이 중요하니까」"
+
+[[dialogue]]
+speaker = "蘭美"
+original = "「……待ちなさい、ニンジンが残ってるわよ。もしかしてニンジンが食べられない、なんてことは……」"
+translation = "「……기다려, 당근이 남아 있네. 혹시 당근을 못 먹는 건, 아닐까……」"
+
+[[dialogue]]
+speaker = "unk"
+original = "でも、蘭美の好物だから"
+translation = "하지만, 라비의 좋아하는 음식이니까"
+
+[[dialogue]]
+speaker = "unk"
+original = "むしろニンジンは好きだよ"
+translation = "오히려 당근은 좋아해"
+
+[[dialogue]]
+speaker = "蘭美"
+original = "「あら、私のために取っておいてくれたのね。それなら喜んで頂くわ」"
+translation = "「어머, 나를 위해 남겨 뒀구나. 그렇다면 기꺼이 먹을게」"
+
+[[dialogue]]
+speaker = "蘭美"
+original = "「もちろん……私に食べさせてくれるのよね？\u3000じゃあ、はい、あーん……<emoji=heart04>」"
+translation = "「물론……나에게 먹여 줄 거지? 그럼, 자, 아앙……<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "unk"
+original = "って、あれ、キリカさん？"
+translation = "어, 저기, 키리카 씨?"
+
+[[dialogue]]
+speaker = "unk"
+original = "あーん──"
+translation = "아앙──"
+
+[[dialogue]]
+speaker = "キリカ"
+original = "「ごきげんよう、緋宮会長。それと……羽宮様も」"
+translation = "「안녕하세요, 히노미야 회장님. 그리고……하네미야 님도」"
+
+[[dialogue]]
+speaker = "蘭美"
+original = "「なかなかいいタイミングで現れるわね、上月キリカ……」"
+translation = "「꽤나 좋은 타이밍에 나타나네, 카미즈키 키리카……」"
+
+[[dialogue]]
+speaker = "蘭美"
+original = "「星見家のメイド長が学園に顔を出すなんて珍しい、何か急用でもあったのかしら？」"
+translation = "「호시미 가문의 메이드장이 학원에 얼굴을 비추다니 드문 일, 무슨 급한 용무라도 있었던 걸까?」"
+
+[[dialogue]]
+speaker = "キリカ"
+original = "「フィオナお嬢様の遣いで、新星の学園長代理に少々。用件も済みましたので、こちらで昼食を摂ろうと思ったのです」"
+translation = "「피오나 아가씨의 심부름으로, 신성의 학원장 대리에게 잠시. 용건도 끝났으니, 이쪽에서 점심 식사를 하려고 생각했습니다」"
+
+[[dialogue]]
+speaker = "蘭美"
+original = "「あら、そうなのね。だったら一緒にどうかしら？」"
+translation = "「어머, 그렇구나. 그렇다면 같이 하는 건 어때?」"
+
+[[dialogue]]
+speaker = "キリカ"
+original = "「羽宮様のお邪魔になりませんか？」"
+translation = "「하네미야 님께 방해가 되지 않을까요?」"
+
+[[dialogue]]
+speaker = "蘭美"
+original = "「今は会長との２人きりの時間を楽しんでいたところだけど、別に邪魔だなんて思ってはいないわ」"
+translation = "「지금은 회장과의 둘만의 시간을 즐기고 있던 참이지만, 딱히 방해라고 생각하지는 않아」"
+
+[[dialogue]]
+speaker = "キリカ"
+original = "「本心を隠しきれていないように思うのですが……。やはり私は遠慮いたしましょう」"
+translation = "「본심을 숨기지 못하고 계신 것 같습니다만……. 역시 저는 사양하겠습니다」"
+
+[[dialogue]]
+speaker = "蘭美"
+original = "「いいから座りなさい。そうね、これは貴方に、私と会長の仲の良さを見せつける絶好のチャンスかもしれないわ！」"
+translation = "「됐으니까 앉아. 그렇지, 이건 당신에게, 나와 회장의 사이좋음을 과시할 절호의 기회일지도 모르겠네!」"
+
+[[dialogue]]
+speaker = "キリカ"
+original = "「羽宮様と会長との交際は順調のようですね。仲睦まじいと、流星学園でも噂になっていますよ」"
+translation = "「하네미야 님과 회장님과의 교제는 순조로운 것 같네요. 다정하다고, 유성 학원에서도 소문이 나 있습니다」"
+
+[[dialogue]]
+speaker = "蘭美"
+original = "「あら、流星学園にまでそんな噂が流れているの？」"
+translation = "「어머, 유성 학원에까지 그런 소문이 돌고 있는 거야?」"
+
+[[dialogue]]
+speaker = "キリカ"
+original = "「お困りであれば、噂を消しましょうか？」"
+translation = "「곤란하시다면, 소문을 없앨까요?」"
+
+[[dialogue]]
+speaker = "蘭美"
+original = "「結構よ！\u3000会長と仲良しなのは事実なんだし、わざわざ火消しをする必要はないわ！」"
+translation = "「됐어! 회장과 사이좋은 건 사실이고, 일부러 불을 끌 필요는 없어!」"
+
+[[dialogue]]
+speaker = "蘭美"
+original = "「それよりも……１つ気になっていたことがあるの。いい機会だから言わせてもらうわ」"
+translation = "「그것보다도……하나 신경 쓰이는 게 있었어. 좋은 기회니까 말할게」"
+
+[[dialogue]]
+speaker = "蘭美"
+original = "「上月キリカ、貴方もウェディングフォームを所有しているのよね？」"
+translation = "「카미즈키 키리카, 당신도 웨딩 폼을 소유하고 있는 거지?」"
+
+[[dialogue]]
+speaker = "蘭美"
+original = "「貴方の戦闘技術とウェディングフォームが組み合わさったら、とんでもないことになるはず……興味があるわ、ぜひ手合わせを願いたいものね」"
+translation = "「당신의 전투 기술과 웨딩 폼이 합쳐지면, 엄청난 일이 벌어질 거야……흥미가 있어, 꼭 한 수 겨뤄 보고 싶네」"
+
+[[dialogue]]
+speaker = "キリカ"
+original = "「……九浄家が人工戦闘服のウェディングフォームを開発したという話は耳に届いています」"
+translation = "「……쿠죠 가문이 인공 전투복인 웨딩 폼을 개발했다는 이야기는 귀에 들어왔습니다」"
+
+[[dialogue]]
+speaker = "キリカ"
+original = "「お望みであれば、いつでもどうぞ」"
+translation = "「원하신다면, 언제든지요」"
+
+[[dialogue]]
+speaker = "蘭美"
+original = "「ふっ……自信たっぷりのようね、でも私のウェディングフォームの方が上なのは明白なんだからっ！」"
+translation = "「훗……자신감이 넘치는 것 같네, 하지만 내 웨딩 폼이 더 위라는 건 명백하니까!」"
+
+[[dialogue]]
+speaker = "キリカ"
+original = "「断言する理由を伺っても？」"
+translation = "「단언하시는 이유를 여쭤봐도 될까요?」"
+
+[[dialogue]]
+speaker = "蘭美"
+original = "「それはもちろん！\u3000彼の存在よ！」"
+translation = "「그건 물론이지! 그이의 존재야!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "お、俺ぇ！？"
+translation = "나, 나아!?"
+
+[[dialogue]]
+speaker = "蘭美"
+original = "「ウェディングフォームはその名の通り、花嫁衣装がモチーフになっているわ。だからこそ、伴侶の存在が力になる！」"
+translation = "「웨딩 폼은 그 이름대로, 신부 의상이 모티브가 되어 있어. 그렇기에, 반려자의 존재가 힘이 돼!」"
+
+[[dialogue]]
+speaker = "蘭美"
+original = "「『<ruby>Ｍ・Ｏ・Ｍ<rt>エム\u3000オー\u3000エム</rt></ruby>』では惜敗を喫したけれど、ウェディングフォーム対決なら私に分があるわ！」"
+translation = "「『M・O・M』에서는 아쉽게 패배했지만, 웨딩 폼 대결이라면 나에게 승산이 있어!」"
+
+[[dialogue]]
+speaker = "蘭美"
+original = "「ふふっ、どうかしら？\u3000私には彼がついているのよ。恋人であり、婚約者であり、未来の旦那様……」"
+translation = "「후훗, 어때? 나에게는 그이가 붙어 있어. 연인이며, 약혼자이며, 미래의 남편……」"
+
+[[dialogue]]
+speaker = "蘭美"
+original = "「こうして触れているだけで、力が漲ってくるわ。これぞ愛のパワー！」"
+translation = "「이렇게 만지고 있는 것만으로도, 힘이 넘쳐흘러. 이것이야말로 사랑의 파워!」"
+
+[[dialogue]]
+speaker = "蘭美"
+original = "「お嫁さんになった私には、たとえ『マスターメイド』の称号を持つ貴方であろうと絶対勝てないんだから！」"
+translation = "「신부가 된 나에게는, 설령 『마스터 메이드』의 칭호를 가진 당신이라 할지라도 절대 이길 수 없으니까!」"
+
+[[dialogue]]
+speaker = "キリカ"
+original = "「なるほど、理解しました」"
+translation = "「과연, 이해했습니다」"
+
+[[dialogue]]
+speaker = "キリカ"
+original = "「しかし……婚約者の立場なら、まだお嫁さんとは名乗れないのでは？」"
+translation = "「하지만……약혼자의 입장이라면, 아직 신부라고 자칭할 수는 없지 않나요?」"
+
+[[dialogue]]
+speaker = "蘭美"
+original = "「四捨五入すればラブラブ夫婦よ！」"
+translation = "「반올림하면 깨가 쏟아지는 부부야!」"
+
+[[dialogue]]
+speaker = "蘭美"
+original = "「ほら、こんなことだってしちゃうのよ？\u3000むぎゅ～～～っ<emoji=heart04>」"
+translation = "「자, 이런 일도 해 버린다구? 꼬옥～～～<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "キリカ"
+original = "「……ふむ、ラブラブですね」"
+translation = "「……흠, 깨가 쏟아지는군요」"
+
+[[dialogue]]
+speaker = "蘭美"
+original = "「こんなの私と会長には日常茶飯事なのよ。くっつくのだって、抱き締め合うのだって、特別じゃなく日常なんだから！」"
+translation = "「이런 건 나와 회장에게는 일상다반사야. 달라붙는 것도, 서로 끌어안는 것도, 특별한 게 아니라 일상이니까!」"
+
+[[dialogue]]
+speaker = "蘭美"
+original = "「さあ、どうかしら？\u3000降参するなんて興ざめなことは言わないわよね！」"
+translation = "「자, 어때? 항복한다니 맥 빠지는 말은 하지 않겠지!」"
+
+[[dialogue]]
+speaker = "キリカ"
+original = "「私としては降参しても構わないのですが、一方的に敗北することは、主であるフィオナお嬢様の名誉を汚すことになります……なので、１つだけ」"
+translation = "「저로서는 항복해도 상관없습니다만, 일방적으로 패배하는 것은, 주인인 피오나 아가씨의 명예를 더럽히는 일이 됩니다……그러니, 한 가지만」"
+
+[[dialogue]]
+speaker = "キリカ"
+original = "「私は会長の、武の師匠ですよ？」"
+translation = "「저는 회장님의, 무술 스승입니다만?」"
+
+[[dialogue]]
+speaker = "蘭美"
+original = "「し、師匠！？\u3000そのカードはズルだぴょん！？」"
+translation = "「스, 스승!? 그 카드는 반칙이잖아뿅!?」"
+
+[[dialogue]]
+speaker = "キリカ"
+original = "「その言葉、そっくりお返しします」"
+translation = "「그 말씀, 고스란히 돌려드리겠습니다」"
+
+[[dialogue]]
+speaker = "蘭美"
+original = "「師弟というのも特別な関係……恋人とはまた別の強い絆があるなんて、やはり侮れない強敵だわ」"
+translation = "「사제지간이라는 것도 특별한 관계……연인과는 또 다른 강한 유대가 있다니, 역시 얕볼 수 없는 강적이네」"
+
+[[dialogue]]
+speaker = "unk"
+original = "俺にとっては蘭美が一番だから"
+translation = "나에게는 라비가 최고니까"
+
+[[dialogue]]
+speaker = "蘭美"
+original = "「ありがとう、会長！\u3000とっても嬉しいわ」"
+translation = "「고마워, 회장! 정말 기뻐」"
+
+[[dialogue]]
+speaker = "蘭美"
+original = "「私も会長のことが、世界で一番大好きよ！」"
+translation = "「나도 회장을, 세상에서 가장 좋아해!」"
+
+[[dialogue]]
+speaker = "キリカ"
+original = "「……そろそろお暇してもいいでしょうか？」"
+translation = "「……슬슬 실례해도 될까요?」"
+
+[[dialogue]]
+speaker = "蘭美"
+original = "「だけど残念ながら、その『一番』という評価は会長の主観でしかない。客観的に私の方が上であることを証明する必要があるわ！」"
+translation = "「하지만 유감스럽게도, 그 『최고』라는 평가는 회장의 주관일 뿐이야. 객관적으로 내가 더 위라는 것을 증명할 필요가 있어!」"
+
+[[dialogue]]
+speaker = "キリカ"
+original = "「それは本当に証明しなければならないことでしょうか？」"
+translation = "「그것은 정말로 증명해야만 하는 일일까요?」"
+
+[[dialogue]]
+speaker = "蘭美"
+original = "「これはプライドの問題よ！\u3000お嫁さんと師匠、どちらがすごいか見せてあげる！」"
+translation = "「이건 자존심 문제야! 신부와 스승, 누가 더 대단한지 보여 줄게!」"
+
+[[dialogue]]
+speaker = "蘭美"
+original = "「師匠には無理で、お嫁さんにしかできないこと……何があるかしら……」"
+translation = "「스승에게는 무리이고, 신부만이 할 수 있는 일……무엇이 있을까……」"
+
+[[dialogue]]
+speaker = "unk"
+original = "土俵がそもそも違うんじゃ……"
+translation = "판 자체가 원래 다른 거 아닌가……"
+
+[[dialogue]]
+speaker = "unk"
+original = "お嫁さんＶＳ師匠って"
+translation = "신부 VS 스승이라니"
+
+[[dialogue]]
+speaker = "蘭美"
+original = "「抱擁、はどうかしら。ギュッと抱きしめ合うのは恋人同士の特権でしょう？」"
+translation = "「포옹, 은 어떨까. 꽉 끌어안는 건 연인 사이의 특권이잖아?」"
+
+[[dialogue]]
+speaker = "キリカ"
+original = "「場合によっては師匠と弟子も抱き合うことはあるのでは？」"
+translation = "「경우에 따라서는 스승과 제자도 서로 안을 수는 있지 않을까요?」"
+
+[[dialogue]]
+speaker = "蘭美"
+original = "「えぇっ！？\u3000したのぉ！？」"
+translation = "「에엣!? 했어!?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "し、してないっ！"
+translation = "아, 안 했어!"
+
+[[dialogue]]
+speaker = "蘭美"
+original = "「そ、そうよね！\u3000でも確かにシチュエーションによっては、師匠と弟子の抱擁はあるわね」"
+translation = "「그, 그렇지! 하지만 확실히 상황에 따라서는, 스승과 제자의 포옹은 있겠네」"
+
+[[dialogue]]
+speaker = "蘭美"
+original = "「ではデートはどうかしら？\u3000肩を並べて仲良くショッピングなんて師匠と弟子ではありえないでしょう！」"
+translation = "「그럼 데이트는 어떨까? 어깨를 나란히 하고 사이좋게 쇼핑하는 건 스승과 제자 사이에서는 있을 수 없잖아!」"
+
+[[dialogue]]
+speaker = "キリカ"
+original = "「普通にあると思います。一緒に竹刀を選んだり、トレーニングに適したシューズを探したり……」"
+translation = "「보통은 있다고 생각합니다. 함께 죽도를 고르거나, 트레이닝에 적합한 신발을 찾거나……」"
+
+[[dialogue]]
+speaker = "蘭美"
+original = "「えぇっ！？\u3000したのぉ！？」"
+translation = "「에엣!? 했어!?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "し、してないって！"
+translation = "아, 안 했다고!"
+
+[[dialogue]]
+speaker = "蘭美"
+original = "「だったら、だったら……そうね……キス！\u3000キスはどうかしら！」"
+translation = "「그렇다면, 그렇다면…… 그래…… 키스! 키스는 어떨까!」"
+
+[[dialogue]]
+speaker = "キリカ"
+original = "「……………………」"
+translation = "「……………………」"
+
+[[dialogue]]
+speaker = "蘭美"
+original = "「軽くチュッっていうのじゃないわよ、ちゃんと恋人同士で愛を確かめ合うキス！\u3000これならどうかしら！」"
+translation = "「가볍게 쪽 하는 게 아니야, 제대로 연인끼리 사랑을 확인하는 키스! 이건 어떨까!」"
+
+[[dialogue]]
+speaker = "キリカ"
+original = "「それは、ありませんね。恋人という関係だけのものです」"
+translation = "「그것은, 없습니다. 연인이라는 관계만의 것입니다.」"
+
+[[dialogue]]
+speaker = "蘭美"
+original = "「そうよね！\u3000ふふんっ、師弟ＶＳ恋人、どうやら軍配が上がったのは恋人の方だったようね！」"
+translation = "「그렇지! 후훗, 사제 VS 연인, 아무래도 승리의 깃발이 올라간 건 연인 쪽이었던 모양이네!」"
+
+[[dialogue]]
+speaker = "キリカ"
+original = "「では、今からお２人の恋人ぶりを見せて頂ける、と……そういうことでしょうか？」"
+translation = "「그렇다면, 지금부터 두 분의 연인 관계를 보여주실 수 있다는…… 그런 뜻일까요?」"
+
+[[dialogue]]
+speaker = "蘭美"
+original = "「えぇっ！？\u3000するのぉ！？」"
+translation = "「에엣!? 하는 거야!?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "…………どうする？"
+translation = "…………어떻게 할까?"
+
+[[dialogue]]
+speaker = "蘭美"
+original = "「も、もちろんいいわ！」"
+translation = "「모, 물론 괜찮아!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "いいのっ！？"
+translation = "괜찮은 거야!?"
+
+[[dialogue]]
+speaker = "蘭美"
+original = "「ここまで来たら後には引けないわ！\u3000勝利のために腹を括りなさいっ」"
+translation = "「여기까지 왔으면 물러설 수 없어! 승리를 위해 각오를 다져」"
+
+[[dialogue]]
+speaker = "蘭美"
+original = "「んーーーっ………………………ちゅっ<emoji=heart04>」"
+translation = "「음ーーー읏……………………… 쪽<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "蘭美"
+original = "「んっ……………………ちゅ<emoji=heart04>\u3000も、もっと……ちゅ<emoji=heart04>\u3000ちゅっ<emoji=heart04>\u3000ちゅ～～っ<emoji=heart04><emoji=heart04><emoji=heart04>」"
+translation = "「응읏…………………… 쪽<emoji=heart04> 모, 좀 더…… 쪽<emoji=heart04> 쪽<emoji=heart04> 쪽～～읏<emoji=heart04><emoji=heart04><emoji=heart04>」"
+
+[[dialogue]]
+speaker = "蘭美"
+original = "「はぁ……はぁ……目に焼き付けたかしら？\u3000これが私たちの愛の絆よ！」"
+translation = "「하아…… 하아…… 눈에 새겨뒀으려나? 이게 우리들의 사랑의 인연이야!」"
+
+[[dialogue]]
+speaker = "キリカ"
+original = "「はい……まさか本当にするとは……羽宮様の執念に感服しました」"
+translation = "「네…… 설마 정말로 할 줄은…… 하네미야 님의 집념에 감복했습니다.」"
+
+[[dialogue]]
+speaker = "蘭美"
+original = "「そ、そう？」"
+translation = "「그, 그래?」"
+
+[[dialogue]]
+speaker = "キリカ"
+original = "「ここまでされてしまったら素直に敗北を認めましょう。きっとフィオナお嬢様もお許しくださるはずです」"
+translation = "「이 정도까지 당했다면 순순히 패배를 인정하겠습니다. 분명 피오나 아가씨께서도 용서해 주실 겁니다.」"
+
+[[dialogue]]
+speaker = "キリカ"
+original = "「ですが、こういった行為は人前では控えた方がよろしいかと思いますよ」"
+translation = "「하지만, 이러한 행위는 사람들 앞에서는 삼가는 편이 좋다고 생각합니다.」"
+
+[[dialogue]]
+speaker = "蘭美"
+original = "「うっ……」"
+translation = "「윽……」"
+
+[[dialogue]]
+speaker = "unk"
+original = "冷静な忠告を受けて我に返る。"
+translation = "냉정한 충고를 받고 정신을 차린다."
+
+[[dialogue]]
+speaker = "unk"
+original = "大胆過ぎる公開キスに周囲の注目を集めまくりだった。"
+translation = "지나치게 대담한 공개 키스에 주변의 주목을 한 몸에 받고 있었다."
+
+[[dialogue]]
+speaker = "unk"
+original = "結局その後はいたたまれなくなって、逃げるようにカフェテリアを後にしたのだった。"
+translation = "결국 그 후에는 쑥스러워져서, 도망치듯이 카페테리아를 나섰다."
+

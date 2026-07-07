@@ -1,0 +1,280 @@
+[[dialogue]]
+speaker = "unk"
+original = "第３話,星徒会のお姉ちゃん、再び,P"
+translation = "제3화, 성도회의 누나, 다시 한번"
+
+[[dialogue]]
+speaker = "unk"
+original = "その日は、星徒会のみんなでお正月遊びをしよう、ということで、安倍野神社の境内を借りて楽しんでいた。"
+translation = "그날은 성도회 모두와 정월 놀이를 하자는 의미에서 아베노 신사의 경내를 빌려 즐기고 있었다."
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「この前の初詣でやってた『星術羽根突き』、私もやりたいわ！」"
+translation = "「저번 참배 때 했던 『성술 하네츠키』, 나도 하고 싶어!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ヴィーナスのひと言をきっかけに、みんなで羽根突きのリーグ戦をすることに。その結果、見事に優勝を勝ち取ったのは――サーシャさんだった。"
+translation = "비너스의 한마디를 계기로 모두 하네츠키 리그전을 하기로 했다. 그 결과 훌륭하게 우승을 차지한 것은── 사샤 씨였다."
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「あらあら、うふふっ。私の優勝ね～♪」"
+translation = "「어머어머, 우후훗. 나의 우승이네~♪」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「というわけでさっそく、みんなには向こう１ヵ月、私のことを『お姉ちゃん』って呼んでもらおうかしら～」"
+translation = "「그런 의미에서 당장 모두에게 앞으로 한 달 동안 나를 『누나』라고 부르게 해볼까~」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「なんか昔に比べて、罰ゲームの期間が妙に長くないですか！？」"
+translation = "「왠지 옛날에 비해 벌칙 기간이 묘하게 길지 않나요!?」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「ちょっと懐かしいですね。わかりました、<b>姉さま</b>。ルール通り、その罰ゲームでノープロブレムです」"
+translation = "「조금 그립네요. 알겠습니다, <b>언니</b>. 규칙대로 그 벌칙으로 노 프라블럼입니다」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「あ～ん<emoji=heart04>\u3000アナちゃんからのその呼ばれ方、久しぶり～！\u3000お姉ちゃん、キュンキュンしちゃうわ～♪\u3000ぎゅ～っ<emoji=heart04>」"
+translation = "「아~앙<emoji=heart04> 아나 짱이 그렇게 불러주는 거 오랜만이야! 누나, 심쿵해 버려~♪ 꼬옥~<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「おぼふ……！\u3000姉さま、ハグは嬉しいのですが、息ができないので、ホールドの加減をお願いします……」"
+translation = "「오보퓩……! 언니, 허그는 기쁩니다만 숨을 쉴 수 없으니 홀드 강도 조절 부탁드립니다……」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「私も全然構わないわよ、<b>姉さん</b>！\u3000あとハグの勝負なら、バッチコイよ！」"
+translation = "「나도 전혀 상관없어, <b>언니</b>! 그리고 허그 승부라면 언제든 환영이야!」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「ありがと～♪\u3000ヴィーナスちゃんも、ぎゅ～っ<emoji=heart04>\u3000あと、頭よしよしもしてあげるわね～♪\u3000ほ～ら、よしよ～し♪」"
+translation = "「고마워~♪ 비너스 짱도 꼬옥~<emoji=heart04> 그리고 머리 쓰다듬기도 해줄게~♪ 자아, 착하다 착해~♪」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「えへへっ♪\u3000姉さんのなでなで、くすぐったいわ♪」"
+translation = "「에헤헤♪ 언니가 쓰다듬어 주니까 간지러워♪」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「あ～ん！\u3000ヴィーナスちゃんが甘えてくれるの、可愛い～<emoji=heart04>\u3000ほら、次はマトイちゃんの番よ～♪」"
+translation = "「아~앙! 비너스 짱이 어리광 부려주니까 귀여워~<emoji=heart04> 자, 다음은 마토이 짱 차례야~♪」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「うぇっ！？\u3000そ、その……<b>お姉ちゃん</b>……お手柔らかに、お願いします……」"
+translation = "「우왓!? 저, 그게…… <b>누나</b>…… 살살 부탁드립니다……」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「は～い♪\u3000お姉ちゃんですよ～♪\u3000お手柔らかに、普通のぎゅ～っ<emoji=heart04>」"
+translation = "「네~♪ 누나예요~♪ 살살, 평범하게 꼬옥~<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「わぷっ！？\u3000ん、んむぅ～～っ！？」"
+translation = "「와퓩!? 으, 으음으으~~!?」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "（普通じゃない！\u3000全然お手柔らかじゃないです、お姉ちゃん……！\u3000というか、スーパー晴れ着フォームのせいで、ハグの威力が上昇してますっ！）"
+translation = "(평범하지 않아! 전혀 살살이 아니에요, 누나……! 그보다 슈퍼 후리소데 폼 때문에 허그 위력이 상승해 있어요!)"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「はふぅ～<emoji=heart04>\u3000堪能したわ～♪\u3000これで後は、会長くんだけね～」"
+translation = "「하후우~<emoji=heart04> 만끽했어~♪ 이제 남은 건 회장군뿐이네~」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「ぷはぁっ！？\u3000い、色んな意味でちょっと、天国が見えた……！」"
+translation = "「푸하앗!? 여, 여러 의미로 잠깐 천국이 보였어……!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "えっと……お、お姉ちゃん……"
+translation = "저기…… 누, 누나……"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「あれ？\u3000意外……。会長ってサーシャさんのこと『お姉ちゃん』って呼ぶの、まだ恥ずかしいんだ……」"
+translation = "「어라? 의외네……. 회장은 사샤 씨를 『누나』라고 부르는 거 아직 부끄러운 거야……?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "いや、『まだ』って何！？"
+translation = "아니, 『아직』이라니 뭐야!?"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「確かに。お２人だけの時は、そう呼んでイチャイチャしてそうなものですが」"
+translation = "「확실히. 두 분만 있을 때는 그렇게 부르며 꽁냥거리고 있을 것 같습니다만」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「この間、クロトがサーシャさんのこと、間違って『お姉ちゃん』って呼んでたところ、私、見かけたわよ！」"
+translation = "「저번에 쿠로토가 사샤 씨를 실수로 『누나』라고 부르는 거 나 봤어!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "…………"
+translation = "…………"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「耳まで真っ赤になってるし！\u3000絶対普段からお姉ちゃんプレイしてるやつじゃん！」"
+translation = "「귀까지 새빨개졌잖아! 이건 백퍼 평소에 누나 플레이하고 있는 거네!」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「あら～、みんな、もしかして聞いてくれるの～？」"
+translation = "「어머~ 모두 혹시 들어줄래~?」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「実は会長くん、最近ようやくお姉ちゃんに甘えるのが上手になってきてね～♪」"
+translation = "「사실 회장군, 최근에야 겨우 누나한테 어리광 부리는 게 능숙해져서 말이야~♪」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ちょっ、サーシャさん！？"
+translation = "잠깐, 사샤 씨!?"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「あらあら、うふふっ♪\u3000会長くん、ちゃんと『お姉ちゃん』って呼ばなきゃダメよ～？」"
+translation = "「어머어머, 우후훗♪ 회장군, 제대로 『누나』라고 부르지 않으면 안 돼~?」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「そうそう、それでね？\u3000普段は会長くんも恥ずかしがるんだけど～、とっても疲れてるときとかは、『お姉ちゃん』って甘えてきてくれるようになったの～♪」"
+translation = "「맞아 맞아, 그래서 말이지? 평소에는 회장군도 부끄러워하지만~ 정말 피곤할 때 같은 경우에는 『누나』라며 어리광 부려주게 되었어~♪」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「そういう時は耳かきをしてあげたり～、あと最近はおっぱいの谷間に顔をうずめてもらって、パフパフをしてあげるのがブームなのよ～」"
+translation = "「그럴 때는 귀 청소를 해주기도 하고~ 또 최근에는 가슴 골에 얼굴을 파묻게 하고 파후파후를 해주는 게 붐이야~」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「えっ……そ、そのパフパフというのは、まさか……」"
+translation = "「엣…… 그, 그 파후파후라는 건 설마……」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「もちろん、おっぱいの谷間に会長くんの顔を挟んで、左右の胸で頭をマッサージすることよ～♪」"
+translation = "「물론 가슴 골에 회장군 얼굴을 끼우고 양쪽 가슴으로 머리를 마사지해 주는 거야~♪」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「で、そうすると、会長くんの声がだんだん甘くなってきて、『お姉ちゃん、好き』って言って、後でたくさんキスしてくれるの～<emoji=heart04>」"
+translation = "「그러면 회장군 목소리가 점점 달콤해지면서 『누나, 좋아해』라고 말하고 나중에 키스 잔뜩 해줘~<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "unk"
+original = "あ゛あ゛あ゛あ゛あ゛あ゛あ゛っ！？"
+translation = "아아아아아아아아앗!?"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「会長……２人きりの時はそんななんだ……」"
+translation = "「회장…… 둘이 있을 때는 저런 거야……」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「ちょっと引く」"
+translation = "「조금 깬다」"
+
+[[dialogue]]
+speaker = "unk"
+original = "いっそ殺してくれ！！\u3000と思いながら、熱くなった顔面を両手で抑えてうずくまる俺。"
+translation = "차라리 죽여줘!! 라고 생각하며 뜨거워진 얼굴을 양손으로 감싸고 웅크리는 나."
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「あ、もちろん星徒会室では、服の上からしかやってないから安心してね♪」"
+translation = "「아, 물론 성도회실에서는 옷 위로만 하니까 안심해♪」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「そういう問題……？」"
+translation = "「그게 문제인 거야……?」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「クロトばっかりずるい！\u3000私も姉さんにパフパフしてほしいわ！」"
+translation = "「쿠로토만 치사해! 나도 언니한테 파후파후 받고 싶어!」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「うふふっ、もちろんいいわよ～♪」"
+translation = "「우후후, 물론 좋단다~♪」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「は～い、ヴィーナスちゃん、いらっしゃ～い♪\u3000お胸に、ぎゅ～っ<emoji=heart04>」"
+translation = "「자~ 비너스 짱, 이리 오렴~♪ 가슴에 꼬옥~<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「わぁ～っ♪\u3000これ、すごいわ！\u3000本当に顔全体がパフパフしてる！！」"
+translation = "「와아~♪ 이거 대단해! 정말 얼굴 전체가 파후파후해!!」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「マトイ、アナ！\u3000あなたたちも絶対やってもらった方がいいわ！\u3000これを体験しないなんて損よ！」"
+translation = "「마토이, 아나! 너희들도 무조건 받아보는 게 좋아! 이걸 체험하지 않는 건 손해야!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "そこで、はっとなるマトイとアナの２人。"
+translation = "거기서 정신이 번쩍 드는 마토이와 아나 두 사람."
+
+[[dialogue]]
+speaker = "マトイ"
+original = "（そ、そうか……！\u3000サーシャさんのベアーハグは、おっぱいで息ができなくなるのが問題なのであって……）"
+translation = "(그, 그렇군……! 사샤 씨의 베어 허그는 가슴 때문에 숨을 못 쉬게 되는 게 문제인 것이고……)"
+
+[[dialogue]]
+speaker = "アナ"
+original = "（それをパフパフ……マッサージにすることで、強烈なハグはなくなり、柔らか天国がノープロブレムで堪能できる！）"
+translation = "(그걸 파후파후…… 마사지로 바꿈으로써 강렬한 허그는 사라지고 부드러운 천국을 노 프라블럼으로 만끽할 수 있어!)"
+
+[[dialogue]]
+speaker = "マトイ＆アナ"
+original = "「ごくり……」"
+translation = "「꿀꺽……」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「マトイちゃん、アナちゃん、遠慮せずにいらっしゃ～い<emoji=heart04>」"
+translation = "「마토이 짱, 아나 짱, 사양 말고 이리 오렴~<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「姉さま！\u3000パフパフ１つ、お願いします～」"
+translation = "「언니! 파후파후 하나 부탁드립니다~」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「アナ、抜け駆けはよくないよ！？\u3000お姉ちゃん、私にも！！」"
+translation = "「아나, 새치기는 안 돼! 누나, 나도!!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "その後、星徒会メンバーは全員、お姉ちゃんのパフパフに、まんまと骨抜きにされてしまうのであった。"
+translation = "그 후 성도회 멤버 전원은 누나의 파후파후에 보기 좋게 매료되어 버리는 것이었다."
+
+[[dialogue]]
+speaker = "unk"
+original = "……そして俺は、敷地の隅で恥ずかしくて泣いた。"
+translation = "……그리고 나는 부지 구석에서 부끄러워서 울었다."
+

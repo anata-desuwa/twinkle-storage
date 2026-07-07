@@ -1,0 +1,350 @@
+[[dialogue]]
+speaker = "unk"
+original = "教皇庁主催のバレンタインイベント開催まであと数日……"
+translation = "교황청 주최의 발렌타인 이벤트 개최까지 앞으로 수일……"
+
+[[dialogue]]
+speaker = "シャロン"
+original = "「ウルスラさまのヘルプはとっても有難いですけど、３人がかりでも厳しくないですかーっ？」"
+translation = "「우르술라 님의 도움은 정말 감사하지만, 3명이서 해도 벅차지 않나용~?」"
+
+[[dialogue]]
+speaker = "ウルスラ"
+original = "「う～ん、今のペースだとギリギリですね。できればあと２、３人、お手伝いしてくださる方が欲しいところです」"
+translation = "「으음, 지금 페이스라면 아슬아슬하네요. 가능하다면 두세 명 정도 더 도와주실 분이 필요한 참이에요」"
+
+[[dialogue]]
+speaker = "イレーナ"
+original = "「頼れる味方を連れてくると会長さんがおっしゃっていましたけど……遅いですね。大丈夫でしょうか」"
+translation = "「의지할 수 있는 아군을 데려오겠다고 회장님이 말씀하셨는데…… 늦으시네요. 괜찮은 걸까요」"
+
+[[dialogue]]
+speaker = "unk"
+original = "チョコレート三銃士を連れてきたよ"
+translation = "초콜릿 삼총사를 데려왔어"
+
+[[dialogue]]
+speaker = "シャロン"
+original = "「チョコレート三銃士ですか！？」"
+translation = "「초콜릿 삼총사인가요!?」"
+
+[[dialogue]]
+speaker = "ウズメイア"
+original = "「ウズメイア、バレンタイン仕様ー♪\u3000会長くんの頼みなら断るわけにはいかないよねー。うちにも手伝わせろしー♪」"
+translation = "「우즈메, 발렌타인 사양~♪ 회장 군의 부탁이라면 거절할 수 없지~. 나도 돕게 해달라구~♪」"
+
+[[dialogue]]
+speaker = "シャルレーヌ"
+original = "「美味しさを決定づけるのは、気高く広がるフレーバー。香りの魔術師シャルレーヌです♪」"
+translation = "「맛을 결정짓는 것은 고귀하게 퍼지는 플레이버. 향기의 마술사 샤를렌입니다♪」"
+
+[[dialogue]]
+speaker = "せつな"
+original = "「呼ばれて飛び出てバレンタイン忍者、せつな推参！\u3000チョコゴーレムなら任せるでござる！」"
+translation = "「부름을 받고 나타난 발렌타인 닌자, 세츠나 등장! 초코 골렘이라면 맡겨주시오!」"
+
+[[dialogue]]
+speaker = "イレーナ"
+original = "（いやいや、チョコゴーレムは明らかに人選ミスでしょ！\u3000トラブルの予感しかしないわよ！）"
+translation = "(아니 아니, 초코 골렘은 명백히 인선 미스잖아! 트러블의 예감밖에 안 든다고!)"
+
+[[dialogue]]
+speaker = "unk"
+original = "こうしてチョコ作りの経験がある生徒たちもヘルプに呼びつつ──"
+translation = "이렇게 초코 제작 경험이 있는 학생들도 도움을 위해 부르면서──"
+
+[[dialogue]]
+speaker = "ウズメイア"
+original = "「急がなきゃいけないのはわかるけど、ラブも入れなきゃダメっしょ。美味しくな～れ、美味しくな～れ、ラブラブキュン<emoji=heart04>」"
+translation = "「서둘러야 하는 건 알지만, 러브도 넣어야 한다구. 맛있어져~라, 맛있어져~라, 러브러브 큥<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "シャルレーヌ"
+original = "「一口頬張っただけで、お口の中で甘～い恋の香りが弾けるんです。はい、会長さん、あ～ん<emoji=heart04>」"
+translation = "「한 입 머금기만 해도, 입안에서 달콤~한 사랑의 향기가 터지는 거예요. 자, 회장님, 아~앙<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "せつな"
+original = "「さぁ<ruby>出<rt>い</rt></ruby>でよ！\u3000愛の結晶、チョコゴーレムっ！」"
+translation = "「자, 나나타라! 사랑의 결정, 초코 골렘!」"
+
+[[dialogue]]
+speaker = "シャロン"
+original = "「<ruby>出<rt>い</rt></ruby>でさせちゃダメですよーっ！\u3000みんなでやっつけましょうっ！」"
+translation = "「나타나게 하면 안 돼요~! 다 같이 물리쳐요!」"
+
+[[dialogue]]
+speaker = "ウルスラ"
+original = "「はい、<ruby>解体<rt>バラ</rt></ruby>して溶かして固めて配ります」"
+translation = "「네, 해체해서 녹이고 굳혀서 배포할게요」"
+
+[[dialogue]]
+speaker = "unk"
+original = "そんなこんなありつつも、無事（？）イベント当日までに必要な数を完成させたのだった。"
+translation = "이런저런 일이 있었지만, 무사히(?) 이벤트 당일까지 필요한 수량을 완성시켰다."
+
+[[dialogue]]
+speaker = "unk"
+original = "そして教皇庁によるバレンタインイベント開催日。"
+translation = "그리고 교황청에 의한 발렌타인 이벤트 개최일."
+
+[[dialogue]]
+speaker = "unk"
+original = "大聖堂には、開始時間前から大混雑必至の行列ができていた。"
+translation = "대성당에는 시작 시간 전부터 대혼잡이 필연적인 행렬이 생겨나 있었다."
+
+[[dialogue]]
+speaker = "せつな"
+original = "「最前列は３日前から並んでいたそうでござるよ！」"
+translation = "「맨 앞줄은 3일 전부터 줄을 서 있었다고 하오!」"
+
+[[dialogue]]
+speaker = "シャルレーヌ"
+original = "「それはもはや不審者では？」"
+translation = "「그건 이제 불심검문 대상 아닌가요?」"
+
+[[dialogue]]
+speaker = "ウルスラ"
+original = "「イレーナさんの熱狂的ファン、ですかね」"
+translation = "「이레이나 씨의 열광적인 팬, 이려나요」"
+
+[[dialogue]]
+speaker = "イレーナ"
+original = "「私のファン……ですか？」"
+translation = "「제 팬…… 말인가요?」"
+
+[[dialogue]]
+speaker = "ウズメイア"
+original = "「こんなにおっきなイベントするのって初めてなんでしょ？\u3000憧れの聖女様からの手渡しで、手作りチョコがもらえるってのが話題になってるみたい～」"
+translation = "「이렇게 큰 이벤트 하는 건 처음이지? 동경하는 성녀님께 직접 수제 초코를 받을 수 있다는 게 화제가 된 모양이야~」"
+
+[[dialogue]]
+speaker = "ウルスラ"
+original = "「想定以上の盛り上がりです。個数制限や転売防止策も取り入れないといけませんね」"
+translation = "「상상 이상의 열기네요. 개수 제한이나 되팔이 방지책도 도입해야겠어요」"
+
+[[dialogue]]
+speaker = "イレーナ"
+original = "「まあまあ、それはそれは……」"
+translation = "「어머 어머, 그거 참……」"
+
+[[dialogue]]
+speaker = "イレーナ"
+original = "（はぁ……アイドルのイベントじゃないんだから……。でも人が集まるのはきっと教皇庁の思惑通りなのよね……ちょっとムカつくわ）"
+translation = "(하아…… 아이돌 이벤트도 아니고……. 하지만 사람이 모이는 건 분명 교황청의 의도대로겠지…… 조금 짜증 나네)"
+
+[[dialogue]]
+speaker = "シャルレーヌ"
+original = "「じーっ……」"
+translation = "「빤히……」"
+
+[[dialogue]]
+speaker = "イレーナ"
+original = "「……あら、シャルレーヌさん？\u3000どうかなさいました？」"
+translation = "「……어라, 샤를렌 씨? 무슨 일 있으신가요?」"
+
+[[dialogue]]
+speaker = "シャルレーヌ"
+original = "「いえ、なんとなく、なんですけどぉ……イレーナ先輩から、私と似たような匂いを感じたもので」"
+translation = "「아니요, 왠지 모르게, 지만요오…… 이레이나 선배에게서 저와 비슷한 냄새가 느껴져서요」"
+
+[[dialogue]]
+speaker = "イレーナ"
+original = "「似たような、匂い……ですか？」"
+translation = "「비슷한, 냄새…… 말인가요?」"
+
+[[dialogue]]
+speaker = "シャルレーヌ"
+original = "「あっ！\u3000清廉な聖女様と私が似ているだなんて、そんなはずないですよね。不快に感じちゃったらすみません」"
+translation = "「앗! 청렴한 성녀님과 제가 비슷하다니, 그럴 리 없겠죠. 불쾌하게 느끼셨다면 죄송해요」"
+
+[[dialogue]]
+speaker = "イレーナ"
+original = "「いえいえ、シャルレーヌさんのような可愛らしい方と似ているだなんて言われて、不快に思うはずもありません」"
+translation = "「아뇨 아뇨, 샤를렌 씨처럼 귀여운 분과 닮았다는 말을 듣고 불쾌해할 리가 없잖아요」"
+
+[[dialogue]]
+speaker = "シャルレーヌ"
+original = "「うふふ<emoji=heart04>\u3000イレーナ先輩のようなお美しい方にそう言ってもらえるなんて、とっても嬉しいですぅ<emoji=heart04>」"
+translation = "「우후후<emoji=heart04> 이레이나 선배처럼 아름다운 분께 그런 말을 듣다니, 정말 기뻐요오<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "イレーナ"
+original = "（この子、どんな匂いを感じ取ったのかしら……？\u3000もしかして、エセ聖女だってバレてる……！？\u3000まさか……ね……？）"
+translation = "(이 아이, 어떤 냄새를 알아챈 걸까……? 설마, 가짜 성녀라는 걸 들켰어……!? 설마…… 아니겠지……?)"
+
+[[dialogue]]
+speaker = "イレーナ"
+original = "「さ、そろそろ始まる時間ですよ。惜しみなく愛を込めて、皆さんに笑顔でお配りしましょうね」"
+translation = "「자, 슬슬 시작할 시간이에요. 아낌없이 사랑을 담아, 여러분께 웃으며 나눠드리도록 하죠」"
+
+[[dialogue]]
+speaker = "ウズメイア"
+original = "「イレーナさんが大人気な理由、そういうとこだし☆」"
+translation = "「이레이나가 인기 많은 이유, 그런 점이지☆」"
+
+[[dialogue]]
+speaker = "せつな"
+original = "「そういうとこでござるなぁ。聖女ってなんだかえっちな響きでござるよなぁ」"
+translation = "「그런 점이오나. 성녀라는 건 왠지 야릇한 울림이구려」"
+
+[[dialogue]]
+speaker = "イレーナ"
+original = "「えっち……？」"
+translation = "「야릇……?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "それからチョコの配布が始まって……"
+translation = "그 후 초코 배포가 시작되고……"
+
+[[dialogue]]
+speaker = "イレーナ"
+original = "「どうぞ。愛しき人と安らぎの時間を過ごせますように」"
+translation = "「여기요. 사랑하는 사람과 평온한 시간을 보내시길」"
+
+[[dialogue]]
+speaker = "シャロン"
+original = "「愛を込めたハートのチョコクッキーです<emoji=heart04>」"
+translation = "「사랑을 담은 하트 초코 쿠키예요<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "シャルレーヌ"
+original = "「辛くないので、お子様も安心ですよー<emoji=heart04>」"
+translation = "「맵지 않으니 아이들도 안심이라구용~<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "せつな"
+original = "「チョコゴーレムにもならないでござるよー<emoji=heart04>」"
+translation = "「초코 골렘도 되지 않소이다~<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "イレーナ"
+original = "（かつての反省を踏まえてるんだろうけど、余計な情報を付与されると、かえって不安になるわね……）"
+translation = "(과거의 반성을 토대로 한 거겠지만, 불필요한 정보가 덧붙여지니 오히려 불안해지네……)"
+
+[[dialogue]]
+speaker = "ウルスラ"
+original = "「大好評ですね。特にイレーナさんがお渡ししたチョコレートは、聖女様からの手渡しにご利益がありそうだと」"
+translation = "「대호평이네요. 특히 이레이나 씨가 건네준 초콜릿은 성녀님의 친수라 효험이 있을 것 같다고들」"
+
+[[dialogue]]
+speaker = "老信者"
+original = "「聖女様が手ずからお作りになられたチョコレートだなんてのう。食べたら大層なご利益がありそうじゃ」"
+translation = "「성녀님이 직접 만드신 초콜릿이라니. 먹으면 대단한 효험이 있을 것 같구먼」"
+
+[[dialogue]]
+speaker = "男性信者"
+original = "「ありがたや、ありがたや。女神像に奉納し、毎朝祈らせていただきます」"
+translation = "「감지덕지, 감지덕지. 여신상에 봉납하고 매일 아침 기도하겠습니다」"
+
+[[dialogue]]
+speaker = "イレーナ"
+original = "「女神様は貴重な食物を無駄にするのを厭われます。ちゃんと賞味期限までに召し上がってくださいね」"
+translation = "「여신님은 귀중한 음식을 낭비하는 것을 싫어하신답니다. 꼭 유통기한 전까지 드셔주세요」"
+
+[[dialogue]]
+speaker = "男性信者"
+original = "「はい、もったいないですけど、きちんと食べます！」"
+translation = "「네, 아깝지만 꼭 먹겠습니다!」"
+
+[[dialogue]]
+speaker = "シャロン"
+original = "「ふふ、さすがはイレーナさまです」"
+translation = "「후후, 역시 이레이나 님이에요」"
+
+[[dialogue]]
+speaker = "イレーナ"
+original = "（上に命じられて仕方なく、苦い顔しながら作ってたとは、口が裂けても言えないわね……）"
+translation = "(위에서 시켜서 어쩔 수 없이 쓴웃음 지으며 만들었다고는 죽어도 말 못 하겠네……)"
+
+[[dialogue]]
+speaker = "イレーナ"
+original = "「ハッピーバレンタイン。美味しく召し上がってくださいね」"
+translation = "「해피 발렌타인. 맛있게 드세요」"
+
+[[dialogue]]
+speaker = "unk"
+original = "イレーナが最後の１人にお菓子を手渡し、イベントは終了を迎えた。"
+translation = "이레이나가 마지막 한 명에게 과자를 건네주며 이벤트는 종료를 맞이했다."
+
+[[dialogue]]
+speaker = "ウルスラ"
+original = "「これで用意した１０００人分、全て配り終えました。皆さん、大変喜ばれていましたね」"
+translation = "「이것으로 준비한 1000명분, 모두 배포했습니다. 여러분, 무척 기뻐하셨네요」"
+
+[[dialogue]]
+speaker = "シャロン"
+original = "「イベントは大成功ですねっ！\u3000みなさま満足そうにされていて、私たちも幸せな気分になれました」"
+translation = "「이벤트 대성공이에요! 모두 만족해하시는 것 같아서 저희도 행복한 기분이 됐어요」"
+
+[[dialogue]]
+speaker = "イレーナ"
+original = "「ええ、信徒の皆様にも喜んでいただけて良かったです。安らかな時間を過ごせるよう祈りましょう」"
+translation = "「네, 신도 여러분도 기뻐해 주셔서 다행이에요. 평온한 시간을 보내실 수 있도록 기도하죠」"
+
+[[dialogue]]
+speaker = "シャロン"
+original = "「ウルスラさまのおっしゃってたバレンタインの波動？\u3000も、とても高まったんじゃないですか？」"
+translation = "「우르술라 님이 말씀하셨던 발렌타인 파동? 도 엄청 높아진 거 아닌가요?」"
+
+[[dialogue]]
+speaker = "ウルスラ"
+original = "「はい、非常に昂って……いえ、高まっています。ちょっと触れられただけで溢れてしまいそうなくらい……<emoji=heart04>」"
+translation = "「네, 굉장히 고양되어서…… 아니, 높아져 있어요. 살짝 닿기만 해도 넘쳐흐를 것 같을 정도로……<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "イレーナ"
+original = "（教皇庁が思いつきで始めたんじゃないかと思ってたけど……結果的には大成功だったわね）"
+translation = "(교황청이 생각 없이 시작한 게 아닌가 싶었지만…… 결과적으로는 대성공이었네)"
+
+[[dialogue]]
+speaker = "イレーナ"
+original = "（でもいつも以上に取り繕ってたから、心身ともにバテバテよ……こんなイベント、今回限りにして欲しいわ……）"
+translation = "(하지만 평소 이상으로 내숭을 떨었더니 심신이 다 지쳤어…… 이런 이벤트, 이번 한 번으로 끝냈으면 좋겠네……)"
+
+[[dialogue]]
+speaker = "ウルスラ"
+original = "「あら、バレンタインの波動に乱れが──イレーナさん、息抜きにはまだ早いようですよ」"
+translation = "「어라, 발렌타인 파동에 혼란이── 이레이나 씨, 한숨 돌리기엔 아직 이른 것 같네요」"
+
+[[dialogue]]
+speaker = "イレーナ"
+original = "「えっ……！？」"
+translation = "「엣……!?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "モンスターの反応だ！"
+translation = "몬스터의 반응이다!"
+
+[[dialogue]]
+speaker = "せつな"
+original = "「このタイミングでござるかーっ？」"
+translation = "「이 타이밍에 말이오!?」"
+
+[[dialogue]]
+speaker = "ウズメイア"
+original = "「そこは空気読んでほしいしー」"
+translation = "「그건 눈치 좀 챙겨줬으면 한다구~」"
+
+[[dialogue]]
+speaker = "unk"
+original = "みんな、力を貸してくれ！"
+translation = "모두, 힘을 빌려줘!"
+
+[[dialogue]]
+speaker = "シャロン"
+original = "「もちろん、了解ですっ！\u3000幸せなバレンタインをめちゃくちゃになんてさせませんよっ！」"
+translation = "「물론이죠, 알겠습니다! 행복한 발렌타인을 엉망으로 만들게 두지 않겠어요!」"
+
+[[dialogue]]
+speaker = "ウズメイア"
+original = "「バレンタインフォームが戦えるショコラティエってとこ、見せてあげるし！」"
+translation = "「발렌타인 폼이 싸울 수 있는 쇼콜라티에라는 걸 보여주겠어!」"
+
+[[dialogue]]
+speaker = "ウルスラ"
+original = "「まあ、なんて頼もしい。皆さんのお手並み、拝見させていただきますね<emoji=heart04>」"
+translation = "「어머, 정말 든든하네요. 여러분의 솜씨, 지켜보도록 할게요<emoji=heart04>」"
+

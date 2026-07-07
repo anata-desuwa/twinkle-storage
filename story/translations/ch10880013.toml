@@ -1,0 +1,270 @@
+[[dialogue]]
+speaker = "unk"
+original = "第３話,妹と遊園地,P"
+translation = "제3화, 여동생과 놀이공원, P"
+
+[[dialogue]]
+speaker = "リーナ"
+original = "「えへへ、お兄ちゃんと遊園地なんて夢みたい♪\u3000連れてきてくれてありがとう、お兄ちゃん<emoji=heart04>」"
+translation = "「에헤헤, 오빠랑 놀이공원이라니 꿈만 같아♪ 데려와 줘서 고마워, 오빠<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "リーナ"
+original = "「遊園地ってあんまり来たことないからワクワクするな～♪\u3000コーヒーカップに乗って～、チュロス食べて～、最後は観覧車でお兄ちゃんと街を眺めるのっ」"
+translation = "「놀이공원은 별로 와본 적이 없어서 두근두근해~♪ 회전 컵도 타고~, 츄러스도 먹고~, 마지막엔 관람차에서 오빠랑 거리를 내려다보는 거야.」"
+
+[[dialogue]]
+speaker = "リーナ"
+original = "「あ、でもジェットコースターは怖いからイヤ。リーナは絶対に乗らないからね」"
+translation = "「아, 하지만 제트 코스터는 무서우니까 싫어. 리나는 절대로 안 탈 거니까 말이야.」"
+
+[[dialogue]]
+speaker = "unk"
+original = "そもそもリーナの身長で乗れる？"
+translation = "애초에 리나의 키로 탈 수 있어?"
+
+[[dialogue]]
+speaker = "リーナ"
+original = "「もう、リーナそんなにちっちゃくないもんっ。お兄ちゃんのイジワル～」"
+translation = "「정말, 리나 그렇게 작지 않다구. 오빠는 심술쟁이~」"
+
+[[dialogue]]
+speaker = "リーナ"
+original = "「さ、行こ！\u3000早くしないとアトラクション並んじゃうよっ」"
+translation = "「자, 가자! 서두르지 않으면 어트랙션 줄 길어질 거야.」"
+
+[[dialogue]]
+speaker = "リーナ"
+original = "「アハハッ、アハハハハッ♪\u3000コーヒーカップ楽しい～♪」"
+translation = "「아하핫, 아하하하핫♪ 회전 컵 즐거워~♪」"
+
+[[dialogue]]
+speaker = "リーナ"
+original = "「ん～♪\u3000チュロスもシナモンたっぷりで美味しい♪\u3000もう１本食べちゃおっかな～♪」"
+translation = "「음~♪ 츄러스도 시나몬 듬뿍이라 맛있어♪ 한 개 더 먹어버릴까나~♪」"
+
+[[dialogue]]
+speaker = "リーナ"
+original = "「お兄ちゃん、次は何乗る？\u3000リーナ、お兄ちゃんと一緒にメリーゴーランドに──」"
+translation = "「오빠, 다음은 뭐 탈래? 리나, 오빠랑 같이 회전목마에──」"
+
+[[dialogue]]
+speaker = "女の子"
+original = "「ママ～、ジェットコースターのってみた～い」"
+translation = "「엄마~, 제트 코스터 타보고 싶어.」"
+
+[[dialogue]]
+speaker = "母親"
+original = "「危ないから、もっと大きくなったらね」"
+translation = "「위험하니까, 좀 더 크면 타자꾸나.」"
+
+[[dialogue]]
+speaker = "父親"
+original = "「よし、その時はパパと乗ろう！\u3000ジェットコースターは楽しいぞ～」"
+translation = "「좋아, 그때는 아빠랑 같이 타자! 제트 코스터는 아주 재미있단다~」"
+
+[[dialogue]]
+speaker = "リーナ"
+original = "「…………」"
+translation = "「…………」"
+
+[[dialogue]]
+speaker = "男の子"
+original = "「へへっ、オレはもう乗れるからな。次ジェットコースター行こうっと」"
+translation = "「헤헤, 난 이제 탈 수 있으니까 말이야. 다음엔 제트 코스터 가야지.」"
+
+[[dialogue]]
+speaker = "女の子"
+original = "「あ～、お兄ちゃんのイジワル～！」"
+translation = "「아~, 오빠 심술쟁이~!」"
+
+[[dialogue]]
+speaker = "リーナ"
+original = "「おにい……ちゃん……」"
+translation = "「오빠…… 오빠……」"
+
+[[dialogue]]
+speaker = "unk"
+original = "（やっぱり家族やお兄ちゃんが気になるんだ）"
+translation = "(역시 가족이나 오빠가 신경 쓰이는구나)"
+
+[[dialogue]]
+speaker = "リーナ"
+original = "「あ、ごめん、ぼーっとしてた。お兄ちゃんがせっかく連れてきてくれたんだから、ちゃんと楽しまないとダメだよね」"
+translation = "「아, 미안, 멍하니 있었어. 오빠가 모처럼 데려와 줬으니까, 제대로 즐겨야겠지.」"
+
+[[dialogue]]
+speaker = "サチ"
+original = "「あっ、お兄さん。こんなところで奇遇ですね」"
+translation = "「앗, 오빠. 이런 곳에서 기우네요.」"
+
+[[dialogue]]
+speaker = "サチ"
+original = "「ロストアイテムがあるかもという噂を聞きつけて遊園地に来たんですが、ハズレみたいでした。まぁ、事件が起こらなかったという意味では幸運だったかもしれませんけど」"
+translation = "「로스트 아이템이 있을지도 모른다는 소문을 듣고 놀이공원에 왔습니다만, 꽝이었나 보네요. 뭐, 사건이 일어나지 않았다는 의미에서는 행운이었을지도 모르지만요.」"
+
+[[dialogue]]
+speaker = "リーナ"
+original = "「ねぇ、お兄ちゃん……その子、誰？\u3000お兄ちゃんの妹はリーナだけだよね？」"
+translation = "「저기, 오빠…… 저 애, 누구야? 오빠의 여동생은 리나뿐이지?」"
+
+[[dialogue]]
+speaker = "サチ"
+original = "「！？\u3000この殺気……もしかして報告に挙がっていたコラプサー？\u3000どうしてお兄さんと──」"
+translation = "「!? 이 살기…… 설마 보고되었던 콜랩서? 어째서 오빠랑──」"
+
+[[dialogue]]
+speaker = "サチ"
+original = "「というか、お兄ちゃんって、また妹が増えたんですか……？」"
+translation = "「그나저나, 오빠라고 부르는…… 또 여동생이 늘어난 건가요……?」"
+
+[[dialogue]]
+speaker = "リーナ"
+original = "「お兄ちゃんの妹はリーナだけで十分だよね？\u3000他の妹はいらないよね？\u3000……ね？」"
+translation = "「오빠의 여동생은 리나로 충분하지? 다른 여동생은 필요 없지? ……그치?」"
+
+[[dialogue]]
+speaker = "トレジアンナ"
+original = "「おやおや修羅場ですか？\u3000修羅場ですね？」"
+translation = "「어라어라 수라장인가요? 수라장이죠?」"
+
+[[dialogue]]
+speaker = "リーナ"
+original = "「きゃっ！？\u3000クローバーの髪飾りがしゃべった！？」"
+translation = "「꺄악!? 클로버 머리장식이 말했어!?」"
+
+[[dialogue]]
+speaker = "トレジアンナ"
+original = "「まぁまぁ落ち着きましょう、ヤンデレ妹ガールさん。恋人や妻が何人もいたらいささか問題ですが、妹はたくさんいてもいいものです」"
+translation = "「자자 진정하세요, 얀데레 여동생 걸 양. 애인이나 아내가 여러 명 있다면 다소 문제지만, 여동생은 많이 있어도 좋은 법입니다.」"
+
+[[dialogue]]
+speaker = "トレジアンナ"
+original = "「妹は増えることはあれ、減ることはないもの。妹同士仲良くした方が得策じゃないですか～？」"
+translation = "「여동생은 늘어날지언정, 줄어들 일은 없는 법. 여동생끼리 사이좋게 지내는 편이 상책이지 않겠어요~?」"
+
+[[dialogue]]
+speaker = "リーナ"
+original = "「お兄ちゃん、このクローバー怖いよぅ……」"
+translation = "「오빠, 이 클로버 무서워……」"
+
+[[dialogue]]
+speaker = "サチ"
+original = "「怖がられてるっ！？」"
+translation = "「무서워하고 있어!?」"
+
+[[dialogue]]
+speaker = "リーナ"
+original = "「うぅ……ちょっとおトイレ行ってくるっ」"
+translation = "「으으…… 잠깐 화장실 좀 다녀올게.」"
+
+[[dialogue]]
+speaker = "サチ"
+original = "「しかも逃げられたっ！？\u3000もう、トレジアンナさんはいきなり喋らないでください！\u3000誰だって髪飾りが喋ったら驚きますよ！」"
+translation = "「심지어 도망갔어!? 정말, 트레지안나 씨는 갑자기 말하지 마세요! 누구라도 머리장식이 말을 하면 놀란다고요!」"
+
+[[dialogue]]
+speaker = "サチ"
+original = "「でも、いったいどうしてコラプサーがお兄さんの妹に……？」"
+translation = "「그나저나, 대체 어째서 콜랩서가 오빠의 여동생으로……?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "俺にもわからないけど……"
+translation = "나로서도 잘 모르겠지만……"
+
+[[dialogue]]
+speaker = "サチ"
+original = "「ふむふむ。本当は“お兄ちゃん”という存在を嫌っているはずなのに、お兄ちゃんって呼んでくると」"
+translation = "「흠흠. 실은 “오빠”라는 존재를 싫어할 텐데도, 오빠라고 부른다라」"
+
+[[dialogue]]
+speaker = "サチ"
+original = "「……それなら、嫌っているだけじゃないのかも」"
+translation = "「……그렇다면, 싫어하기만 하는 건 아닐지도 몰라요」"
+
+[[dialogue]]
+speaker = "サチ"
+original = "「何度も“お兄ちゃん”のことを聞かされているうちに、優しい“お兄ちゃん”が本当にいる想像をするようになっていたのかもしれません」"
+translation = "「몇 번이고 “오빠”에 대한 이야기를 듣는 사이에, 다정한 “오빠”가 정말로 존재한다는 상상을 하게 된 것일지도 모르겠네요」"
+
+[[dialogue]]
+speaker = "サチ"
+original = "「私だって、頼りになるお兄さんがいてくれたらって思っていましたから。縋りたくなる気持ちはわかる気がします」"
+translation = "「저조차도, 의지가 되는 오빠가 있어 줬으면 하고 생각했었으니까요. 매달리고 싶어지는 기분은 알 것 같아요」"
+
+[[dialogue]]
+speaker = "サチ"
+original = "「だから、“お兄ちゃん”に甘えたいのも、嫌いなのも、両方とも彼女の気持ちなんだと思います」"
+translation = "「그러니까, “오빠”에게 어리광 부리고 싶은 것도, 싫어하는 것도, 둘 다 그녀의 진심이라고 생각해요」"
+
+[[dialogue]]
+speaker = "トレジアンナ"
+original = "「好きと嫌いは相殺するとは限りませんからね～。妹心と乙女心は複雑なものですよ」"
+translation = "「좋아함과 싫어함은 상쇄된다고 단정할 수 없으니까요~. 여동생의 마음과 소녀의 마음은 복잡한 법이랍니다」"
+
+[[dialogue]]
+speaker = "unk"
+original = "両方とも本当の気持ち……"
+translation = "둘 다 진짜 마음……"
+
+[[dialogue]]
+speaker = "トレジアンナ"
+original = "「今のリーナさんは、元々抱いていた妄想と現実の区別がついていない……いえ、現実から逃げるために、妄想を現実だと思い込んでいるのでしょうか」"
+translation = "「지금의 리나 씨는, 본래 품고 있던 망상과 현실의 구분이 가지 않는…… 아니, 현실에서 도망치기 위해 망상을 현실이라고 믿어버리고 있는 걸까요」"
+
+[[dialogue]]
+speaker = "サチ"
+original = "「！\u3000モンスター！\u3000ここから近い──というかこの遊園地の敷地内じゃないですか！？」"
+translation = "「! 몬스터! 여기서 가까운── 그보다 이 유원지 부지 안이잖아요!?」"
+
+[[dialogue]]
+speaker = "女の子"
+original = "「キャ～～～～～ッ！！？」"
+translation = "「꺄아아아아아악!!?」"
+
+[[dialogue]]
+speaker = "男の子"
+original = "「モンスター！？\u3000早く逃げないと……」"
+translation = "「몬스터!? 빨리 도망쳐야……」"
+
+[[dialogue]]
+speaker = "父親"
+original = "「こ、こっちだ！\u3000モンスターのいないところに逃げ──」"
+translation = "「이, 이쪽이다! 몬스터가 없는 곳으로 도망──」"
+
+[[dialogue]]
+speaker = "ブヒモス"
+original = "「ブモォオオオオオッ！！」"
+translation = "「부모오오오오오옷!!」"
+
+[[dialogue]]
+speaker = "母親"
+original = "「ヒィッ！？」"
+translation = "「히익!?」"
+
+[[dialogue]]
+speaker = "リーナ"
+original = "「あ……」"
+translation = "「아……」"
+
+[[dialogue]]
+speaker = "リーナ"
+original = "「このままじゃ死んじゃう……」"
+translation = "「이대로라면 죽어버려……」"
+
+[[dialogue]]
+speaker = "リーナ"
+original = "「お父さんとお母さんが、死んじゃ──リーナの、お父さんと、お母さんは──」"
+translation = "「아빠랑 엄마가, 죽어── 리나의, 아빠랑, 엄마는──」"
+
+[[dialogue]]
+speaker = "リーナ"
+original = "「あ──あ──」"
+translation = "「아── 아──」"
+
+[[dialogue]]
+speaker = "リーナ"
+original = "「死ね……死ね……死ねぇえええっ！！」"
+translation = "「죽어…… 죽어…… 죽어버려어어어억!!」"
+

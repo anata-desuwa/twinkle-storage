@@ -1,0 +1,575 @@
+[[dialogue]]
+speaker = "unk"
+original = "正月休みのある日。俺はウズメに誘われて、街へ遊びにきていた――"
+translation = "신정 연휴의 어느 날. 나는 우즈메의 권유로 거리에 놀러 나와 있었다──"
+
+[[dialogue]]
+speaker = "ウズメイア"
+original = "「というわけで、日本のオタクの聖地、秋葉原へとやってきたし♪」"
+translation = "「그런 이유로 일본 오타쿠의 성지, 아키하바라에 왔지롱♪」"
+
+[[dialogue]]
+speaker = "ウズメイア"
+original = "「――うん？\u3000誘う相手がソフィじゃなくてよかったのかって？」"
+translation = "「──응? 부르는 상대가 소피가 아니라서 괜찮냐구?」"
+
+[[dialogue]]
+speaker = "ウズメイア"
+original = "「今日は会長くんと、もっと仲良くなりたいと思ったんだよね～」"
+translation = "「오늘은 회장군이랑 좀 더 친해지고 싶다고 생각했거든~」"
+
+[[dialogue]]
+speaker = "ウズメイア"
+original = "「ほら、会長くんとはまだ１度も遊びに出かけたことがなかったじゃん？」"
+translation = "「봐봐, 회장군과는 아직 한 번도 놀러 나간 적이 없었잖아?」"
+
+[[dialogue]]
+speaker = "ウズメイア"
+original = "「友達たるもの、やっぱ一緒におでかけしとかないとね♪\u3000みたいな？」"
+translation = "「친구라는 건 역시 같이 외출도 하고 그래야지♪ 같은 느낌?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "なるほど。誘われた理由はわかったけど――"
+translation = "과연. 권유받은 이유는 알겠지만──"
+
+[[dialogue]]
+speaker = "ヘレナ"
+original = "「ふふっ、貴殿の言いたいことはわかっているぞ、魔王よ」"
+translation = "「후훗, 귀공이 하고 싶은 말은 알고 있다, 마왕이여.」"
+
+[[dialogue]]
+speaker = "ヘレナ"
+original = "「ここに何故、プリティーでゴージャスなヘレナちゃんがいるのか――であろう？」"
+translation = "「이곳에 어째서 프리티하고 고저스한 헬레나 짱이 있는가──이겠지?」"
+
+[[dialogue]]
+speaker = "ヘレナ"
+original = "「なに、簡単な話だ。それは私と――」"
+translation = "「뭐, 간단한 이야기다. 그것은 나와──」"
+
+[[dialogue]]
+speaker = "ウズメイア"
+original = "「あたしが、友達同士だからだし♪」"
+translation = "「나랑 친구 사이니까라구♪」"
+
+[[dialogue]]
+speaker = "ヘレナ"
+original = "「ウズメは私のことを、素直にヘレナちゃんと呼んでくれるのでな。それに日本好きであるが故に、好みも合う」"
+translation = "「우즈메는 나를 스스럼없이 헬레나 짱이라 불러주거든. 게다가 일본을 좋아해서 취향도 잘 맞지.」"
+
+[[dialogue]]
+speaker = "ウズメイア"
+original = "「晴れ着フォームの起動実験で被験者に選ばれてから、友達になったんだよね～」"
+translation = "「설빔 폼 기동 실험에서 피험자로 뽑힌 뒤로 친구가 됐지롱~」"
+
+[[dialogue]]
+speaker = "ウズメイア"
+original = "「それで、ヘレナちゃんも会長くんとおでかけしたことないって聞いたから、３人で遊ぼうって話になったわけ」"
+translation = "「그래서 헬레나 짱도 회장군이랑 외출한 적 없다고 들었으니까, 셋이서 놀자는 얘기가 된 거야.」"
+
+[[dialogue]]
+speaker = "ヘレナ"
+original = "「我が魂も、宣伝をしとけと囁くのでな。今回、参戦した次第だ」"
+translation = "「나의 혼도 선전을 해두라고 속삭여서 말이지. 이번에 참전하게 된 거다.」"
+
+[[dialogue]]
+speaker = "ヘレナ"
+original = "「む？\u3000――宣伝というのは一体なんなのか、だと？」"
+translation = "「음? ──선전이라는 게 도대체 뭐냐고?」"
+
+[[dialogue]]
+speaker = "ヘレナ"
+original = "「それはもちろん、<b>貴殿</b>に対してのものに決まっておろう？\u3000これを機に、ヘレナちゃんの魅力を更に知ってもらわねばな」"
+translation = "「그거야 당연히 <b>귀공</b>을 향한 것으로 정해져 있지 않느냐? 이번 기회에 헬레나 짱의 매력을 더욱 알게 해야겠어.」"
+
+[[dialogue]]
+speaker = "unk"
+original = "それと、ウズメの衣装は……？"
+translation = "그것보다 우즈메의 의상은……?"
+
+[[dialogue]]
+speaker = "ウズメイア"
+original = "「晴れ着フォーム？\u3000お正月だし、日本のオタクたるもの、聖地に入るからには、コスプレをしないと♪」"
+translation = "「설빔 폼? 설날이기도 하고, 일본 오타쿠라면 성지에 들어올 때 코스프레 정도는 해줘야지♪」"
+
+[[dialogue]]
+speaker = "ウズメイア"
+original = "「うん？\u3000――また日本文化を勘違いしてる？」"
+translation = "「응? ──또 일본 문화를 착각하고 있다구?」"
+
+[[dialogue]]
+speaker = "ウズメイア"
+original = "「えっ、コスプレってギャルファッションみたいなオシャレとは違うの！？」"
+translation = "「엣, 코스프레는 갸루 패션 같은 멋내기랑은 다른 거야!?」"
+
+[[dialogue]]
+speaker = "ウズメイア"
+original = "「いやいや！\u3000あそこにもほら、ネコミミと尻尾付けたメイドさんが立ってるじゃん！？」"
+translation = "「아니 아니! 저기 봐봐, 고양이 귀랑 꼬리를 단 메이드 언니도 서 있잖아!?」"
+
+[[dialogue]]
+speaker = "ウズメイア"
+original = "「――あれはメイド喫茶の店員さん？\u3000そうなの！？」"
+translation = "「──저건 메이드 카페 점원이라고? 그랬구나!?」"
+
+[[dialogue]]
+speaker = "ヘレナ"
+original = "「ふふふ、コスプレして遊び歩くか。面白い。ウズメの友人として、この九浄ヘレナ、流れに乗らねばな！」"
+translation = "「후후후, 코스프레를 하고 돌아다니는 건가. 재미있군. 우즈메의 친구로서 이 쿠죠 헬레나, 흐름에 올라타야겠어!」"
+
+[[dialogue]]
+speaker = "ヘレナ"
+original = "「いざ――変身！」"
+translation = "「자── 변신!」"
+
+[[dialogue]]
+speaker = "ウズメイア"
+original = "「こ、これが……！」"
+translation = "「이, 이것이……!」"
+
+[[dialogue]]
+speaker = "ヘレナ"
+original = "「桜も羨むその姿、とくと目に焼き付けよ――」"
+translation = "「벚꽃도 시기할 그 모습, 똑똑히 눈에 새기거라──」"
+
+[[dialogue]]
+speaker = "ヘレナ"
+original = "「ラブリーでファンシーなヘレナちゃん戦闘フォーム、ここに降臨である！」"
+translation = "「러블리하고 팬시한 헬레나 짱 전투 폼, 이곳에 강림이다!」"
+
+[[dialogue]]
+speaker = "ウズメイア"
+original = "「ヤバッ……カッコよ過ぎじゃん！？」"
+translation = "「대박…… 너무 멋있잖아!?」"
+
+[[dialogue]]
+speaker = "ウズメイア"
+original = "「ヘレナちゃんの戦闘服、マジで神々しいんだけど！？\u3000日本文化オタクとしては、興奮不可避だし！」"
+translation = "「헬레나 짱의 전투복, 진짜 성스럽다구!? 일본 문화 오타쿠로서는 흥분 불가피라구!」"
+
+[[dialogue]]
+speaker = "ヘレナ"
+original = "「であろう？\u3000ふふっ、さあ、今日はこの姿で、思う存分休日を楽しもうぞ♪」"
+translation = "「그렇지? 후훗, 자, 오늘은 이 모습으로 마음껏 휴일을 즐겨보자꾸나♪」"
+
+[[dialogue]]
+speaker = "ヘレナ"
+original = "「ゆくぞ、ウズメ。ヘレナちゃんに付いてくるがよい」"
+translation = "「가자, 우즈메. 헬레나 짱을 따라오너라.」"
+
+[[dialogue]]
+speaker = "ウズメイア"
+original = "「うんっ♪\u3000あたしも正々堂々、晴れ着フォームで行くし♪」"
+translation = "「응♪ 나도 정정당당하게 설빔 폼으로 갈게♪」"
+
+[[dialogue]]
+speaker = "unk"
+original = "せめて武器はしまってね！？"
+translation = "적어도 무기는 넣어둬!?"
+
+[[dialogue]]
+speaker = "unk"
+original = "そうして秋葉原を歩き始めた俺たちは、アニメショップを見つけて入ることになった――"
+translation = "그렇게 아키하바라를 걷기 시작한 우리는 애니메이션 샵을 발견하고 들어가게 되었다──"
+
+[[dialogue]]
+speaker = "ウズメイア"
+original = "「会長くん、この漫画とかめっちゃ面白いから、ぜひ読んで欲しいし！\u3000神属性の居合術を使うキャラが出てきて、普段はヘタレなんだけど、戦闘になるとカッコよくてさ～」"
+translation = "「회장군, 이 만화 진짜 재밌으니까 꼭 읽어봤으면 좋겠다구! 신 속성의 거합술을 쓰는 캐릭터가 나오는데, 평소엔 허당이지만 전투할 땐 엄청 멋있거든~」"
+
+[[dialogue]]
+speaker = "ヘレナ"
+original = "「その漫画ならば、ヘレナちゃんの推しは五刀流の奴だ。技が派手で、アニメ版の演出は実によいぞ」"
+translation = "「그 만화라면 헬레나 짱의 최애는 오도류를 쓰는 녀석이다. 기술이 화려하고 애니메이션판의 연출이 아주 훌륭하지.」"
+
+[[dialogue]]
+speaker = "ウズメイア"
+original = "「わかりみが深いし♪\u3000日本刀、マジでカッコいいよね～。九浄家メイド隊の閃先輩とか、マジリスペクトなんだけど♪」"
+translation = "「완전 공감이라구♪ 일본도 진짜 멋있지~. 쿠죠 가문 메이드대의 센 선배라든가, 진짜 리스펙트한다구♪」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ウズメはサブカルチャーも好きなんだな"
+translation = "우즈메는 서브컬처도 좋아하는구나."
+
+[[dialogue]]
+speaker = "ウズメイア"
+original = "「そりゃもう、漫画やアニメも日本の文化だし♪」"
+translation = "「그럼 당연하지, 만화나 애니메이션도 일본의 문화니까♪」"
+
+[[dialogue]]
+speaker = "ヘレナ"
+original = "「私は時代劇が好きであるゆえ、ウズメよりもジャンルは偏っているがな」"
+translation = "「나는 시대극을 좋아해서 우즈메보다는 장르가 편향되어 있긴 하다만.」"
+
+[[dialogue]]
+speaker = "ウズメイア"
+original = "「ヘレナちゃんは可愛い女の子がいっぱい出てくる作品も好きだよね～」"
+translation = "「헬레나 짱은 귀여운 여자애가 많이 나오는 작품도 좋아하잖아~」"
+
+[[dialogue]]
+speaker = "ヘレナ"
+original = "「ラブリーでファンシーなものが好きなのでな。ほら、このラブコメ漫画とか、実によいぞ」"
+translation = "「러블리하고 팬시한 것을 좋아하니까 말이다. 봐라, 이 러브코미디 만화 같은 건 아주 좋지 않나.」"
+
+[[dialogue]]
+speaker = "ヘレナ"
+original = "「メイド服のプリティーな子が沢山出てくる。それに、主人公の男子もラブリーな顔をしていて、更によい。ふふっ……」"
+translation = "「메이드복을 입은 프리티한 아이들이 잔뜩 나온다. 게다가 주인공 소년도 러블리한 얼굴을 하고 있어서 더 좋군. 후훗……」"
+
+[[dialogue]]
+speaker = "ウズメイア"
+original = "「そういえば、九浄家メイド隊を作ったのもヘレナちゃんなんだっけ？」"
+translation = "「그러고 보니 쿠죠 가문 메이드대를 만든 것도 헬레나 짱이었지?」"
+
+[[dialogue]]
+speaker = "ヘレナ"
+original = "「その通り。星見家メイド隊が羨ましくて、作ったのだ。ちなみに、メイド服のデザインも私だったりするぞ」"
+translation = "「그렇다. 호시미 가문 메이드대가 부러워서 만들었지. 참고로 메이드복 디자인도 내가 했다고.」"
+
+[[dialogue]]
+speaker = "ウズメイア"
+original = "「――あっ、この辺はボーイズラブのコーナーだね～。じゃあ、飛ばして別のところに……」"
+translation = "「──앗, 이쪽은 보이즈 러브 코너네~. 그럼 건너뛰고 다른 곳으로……」"
+
+[[dialogue]]
+speaker = "ヘレナ"
+original = "「ふむ。待つがよい、ウズメよ」"
+translation = "「음. 기다리거라, 우즈메여.」"
+
+[[dialogue]]
+speaker = "ウズメイア"
+original = "「ヘレナちゃん？」"
+translation = "「헬레나 짱?」"
+
+[[dialogue]]
+speaker = "ヘレナ"
+original = "「なぜ<ruby>ＢＬ<rt>ビーエル</rt></ruby>を避けるのだ？」"
+translation = "「어찌하여 <ruby>BL<rt>비엘</rt></ruby>을 피하는 것이냐?」"
+
+[[dialogue]]
+speaker = "ウズメイア"
+original = "「え？\u3000何故って……」"
+translation = "「에? 왜냐니……」"
+
+[[dialogue]]
+speaker = "ヘレナ"
+original = "「これもまた、日本のサブカルチャーを代表する１つであろう？」"
+translation = "「이것 또한 일본 서브컬처를 대표하는 것 중 하나이지 않느냐?」"
+
+[[dialogue]]
+speaker = "ウズメイア"
+original = "「じ、実はその……あたし、人間界にくるまで、そういうジャンルがあるとは知らなくて……」"
+translation = "「시, 사실 그게…… 나, 인간계에 오기 전까지 그런 장르가 있는 줄 몰랐거든……」"
+
+[[dialogue]]
+speaker = "ウズメイア"
+original = "「あたしには刺激が強すぎて、触れてみる勇気がまだないというか～……」"
+translation = "「나한테는 자극이 너무 강해서 아직 접해볼 용기가 안 난달까~……」"
+
+[[dialogue]]
+speaker = "ヘレナ"
+original = "「オメガバース」"
+translation = "「오메가버스」"
+
+[[dialogue]]
+speaker = "ヘレナ"
+original = "「というのを知っているか？」"
+translation = "「라는 것을 알고 있나?」"
+
+[[dialogue]]
+speaker = "ウズメイア"
+original = "「え？\u3000いや、初めて聞いたかも。それって一体……？」"
+translation = "「에? 아니, 처음 들어본 것 같아. 그게 대체 뭐야……?」"
+
+[[dialogue]]
+speaker = "ヘレナ"
+original = "「簡単に言うと――」"
+translation = "「간단히 말하면──」"
+
+[[dialogue]]
+speaker = "ヘレナ"
+original = "「<b>男が子供を産める</b>のだ」"
+translation = "「<b>남자가</b> <b>아이를</b> <b>낳을</b> <b>수</b> <b>있다</b>는 거다.」"
+
+[[dialogue]]
+speaker = "ウズメイア"
+original = "「は？」"
+translation = "「하?」"
+
+[[dialogue]]
+speaker = "ウズメイア"
+original = "「えっ、ちょっと待って。どゆこと、どゆこと？\u3000それって自分１人で子孫を残せる的な？」"
+translation = "「엣, 잠깐만. 뭔 소리야, 뭔 소리? 그건 혼자서 자손을 남길 수 있다는 그런 거야?」"
+
+[[dialogue]]
+speaker = "ヘレナ"
+original = "「否、そうではない。これはＢＬの話だ」"
+translation = "「아니, 그렇지 않다. 이것은 BL 이야기다.」"
+
+[[dialogue]]
+speaker = "ウズメイア"
+original = "「それってつまり……」"
+translation = "「그 말은 즉……」"
+
+[[dialogue]]
+speaker = "ヘレナ"
+original = "「男同士で子を成せる世界観、ということだ」"
+translation = "「남자끼리 아이를 가질 수 있는 세계관이라는 뜻이다.」"
+
+[[dialogue]]
+speaker = "ウズメイア"
+original = "「そんなことが……！？」"
+translation = "「그런 일이……!?」"
+
+[[dialogue]]
+speaker = "ヘレナ"
+original = "「ウズメよ」"
+translation = "「우즈메여.」"
+
+[[dialogue]]
+speaker = "ヘレナ"
+original = "「オメガバースは、よいぞ？」"
+translation = "「오메가버스는 좋다?」"
+
+[[dialogue]]
+speaker = "ウズメイア"
+original = "「…………」"
+translation = "「…………」"
+
+[[dialogue]]
+speaker = "ウズメイア"
+original = "「ヘレナちゃん、ちなみにオススメは？」"
+translation = "「헬레나 짱, 참고로 추천하는 건?」"
+
+[[dialogue]]
+speaker = "ヘレナ"
+original = "「ふふっ、これとかよいぞ？\u3000『お前は魔王だ』と突然言われた主人公が、生徒会に入り、逆ハーレム状態で総受けになる――」"
+translation = "「후훗, 이런 게 좋지. 『너는 마왕이다』라고 갑자기 통보받은 주인공이 학생회에 들어가서 역하렘 상태로 총수가 되는──」"
+
+[[dialogue]]
+speaker = "ウズメイア"
+original = "「よし、買うし！」"
+translation = "「좋아, 살게!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "待て待て待て待て待て！！！"
+translation = "잠깐잠깐잠깐잠깐잠깐!!!"
+
+[[dialogue]]
+speaker = "unk"
+original = "どこかで聞いた設定に、全力でツッコミを入れる俺なのだった――"
+translation = "어디선가 들어본 설정에 온 힘을 다해 츳코미를 넣는 나였다──"
+
+[[dialogue]]
+speaker = "unk"
+original = "それから、ウズメはヘレナからオススメされた漫画を買って、アニメショップを後にした――"
+translation = "그러고 나서 우즈메는 헬레나가 추천해 준 만화를 사고 애니메이션 샵을 나섰다──"
+
+[[dialogue]]
+speaker = "ウズメイア"
+original = "「ふふっ……ついに新たな日本文化に手を出してしまった……。でも、早く読みたくて、ウズウズするし♪」"
+translation = "「후훗…… 드디어 새로운 일본 문화에 손을 대고 말았어……. 그래도 빨리 읽고 싶어서 몸이 근질근질하다구♪」"
+
+[[dialogue]]
+speaker = "unk"
+original = "くっ……！\u3000阻止できなかった！"
+translation = "큭……! 저지하지 못했어!"
+
+[[dialogue]]
+speaker = "ウズメイア"
+original = "「読み終わったら会長くんにも貸すね♪\u3000友達ならシェアしないと！」"
+translation = "「다 읽으면 회장군한테도 빌려줄게♪ 친구라면 쉐어해야지!」"
+
+[[dialogue]]
+speaker = "ヘレナ"
+original = "「――さて、２人共、次はどうする？\u3000私は、お腹がいい感じに空いてきたところではあるが……」"
+translation = "「──자, 둘 다 다음은 어쩔 건가? 나는 배가 기분 좋게 고파지기 시작했다만……」"
+
+[[dialogue]]
+speaker = "ウズメイア"
+original = "「あっ、確かに～！\u3000どっかで昼食にしよっか。なに食べたい？」"
+translation = "「앗, 확실히~! 어디서 점심 먹을까. 뭐 먹고 싶어?」"
+
+[[dialogue]]
+speaker = "ヘレナ"
+original = "「ふむ。ならば、せっかく秋葉原にきたのだし――」"
+translation = "「음. 그렇다면 모처럼 아키하바라에 왔으니──」"
+
+[[dialogue]]
+speaker = "ヘレナ"
+original = "「メイド喫茶に行ってみるのはどうだ？」"
+translation = "「메이드 카페에 가보는 건 어떠냐?」"
+
+[[dialogue]]
+speaker = "ウズメイア"
+original = "「あたし入ったことない！\u3000ヘレナちゃんは行ったことあるの？」"
+translation = "「나 가본 적 없어! 헬레나 짱은 가본 적 있어?」"
+
+[[dialogue]]
+speaker = "ヘレナ"
+original = "「無論、メイド好きとして行ったことがあるとも。貴殿はどうだ？」"
+translation = "「물론, 메이드 애호가로서 가본 적 있고말고. 귀공은 어떠냐?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "俺も……入ったことはない、かな……"
+translation = "나도…… 가본 적은 없나……"
+
+[[dialogue]]
+speaker = "ヘレナ"
+original = "「む？\u3000魔王よ、なぜ目を逸らすのだ？」"
+translation = "「음? 마왕이여, 왜 눈을 피하는 것이냐?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "と、その時だった。"
+translation = "그때였다."
+
+[[dialogue]]
+speaker = "メイドさん"
+original = "「あの～、ご主人様たちはひょっとして、メイド喫茶をお探しですかにゃん？」"
+translation = "「저기~ 주인님들은 혹시 메이드 카페를 찾고 계신 거냥?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "！？"
+translation = "!?"
+
+[[dialogue]]
+speaker = "ウズメイア"
+original = "「わっ、めっちゃ可愛い～！\u3000猫耳メイドさんだし♪\u3000もしかしてメイド喫茶の？」"
+translation = "「와, 진짜 귀엽다~! 고양이 귀 메이드 언니라구♪ 혹시 메이드 카페 점원분?」"
+
+[[dialogue]]
+speaker = "メイドさん"
+original = "「さすがは聡明なご主人様！\u3000その通りですにゃん♪\u3000私、近くにある猫耳メイド喫茶の店長をしてまして～」"
+translation = "「역시 명석하신 주인님이시네냥! 맞다냥♪ 저, 근처에 있는 고양이 귀 메이드 카페 점장을 맡고 있어서~」"
+
+[[dialogue]]
+speaker = "ヘレナ"
+original = "「ほう、実にプリティーではないか。ふふっ、我が魂も、その店に興味があると囁いているぞ」"
+translation = "「호오, 참으로 프리티하지 않은가. 후훗, 나의 혼도 그 가게에 흥미가 있다고 속삭이고 있군.」"
+
+[[dialogue]]
+speaker = "メイドさん"
+original = "「わぁっ♪\u3000本当ですかにゃん？\u3000ありがとうございます～♪\u3000じゃあ、早速ご案内を～……って、あら？」"
+translation = "「와아♪ 정말인가요냥? 감사합니다~♪ 그럼 바로 안내를~…… 어라?」"
+
+[[dialogue]]
+speaker = "メイドさん"
+original = "「そこにいるのって、もしかして……クロトくんじゃないかにゃん！？」"
+translation = "「거기 있는 거 혹시…… 쿠로토 군 아니냐냥!?」"
+
+[[dialogue]]
+speaker = "メイドさん"
+original = "「うわ～、久しぶり～♪\u3000元気にしてた？」"
+translation = "「우와~ 오랜만이야~♪ 잘 지냈어?」"
+
+[[dialogue]]
+speaker = "ウズメイア"
+original = "「えっ！？\u3000会長くん、知り合いなの！？」"
+translation = "「엣!? 회장군, 아는 사람이야!?」"
+
+[[dialogue]]
+speaker = "ヘレナ"
+original = "「ほほう、２人は一体どういう関係なのだ？」"
+translation = "「호호오, 두 사람은 대체 어떤 관계인 것이냐?」"
+
+[[dialogue]]
+speaker = "メイドさん"
+original = "「実はクロトくん、一時期うちの店でバイトしてたのにゃん！」"
+translation = "「사실 쿠로토 군, 한때 우리 가게에서 알바했었다냥!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "て、店長！\u3000その話は――"
+translation = "저, 점장님! 그 이야기는──"
+
+[[dialogue]]
+speaker = "ウズメイア"
+original = "「え～、そうなの！？\u3000別に恥ずかしがらずに言えばよかったのに～♪」"
+translation = "「에~ 그랬어!? 딱히 부끄러워하지 말고 말했으면 좋았을 텐데~♪」"
+
+[[dialogue]]
+speaker = "メイドさん"
+original = "「そうにゃん！\u3000なにせクロトくんは、うちの店で人気ナンバー１だったんだから！」"
+translation = "「그렇다냥! 그도 그럴 게 쿠로토 군은 우리 가게에서 인기 넘버원이었으니까!」"
+
+[[dialogue]]
+speaker = "ウズメイア"
+original = "「へぇ～！\u3000すご～い♪\u3000って」"
+translation = "「헤에~! 대단하다♪ ……어?」"
+
+[[dialogue]]
+speaker = "ウズメイア"
+original = "「え……？」"
+translation = "「에……?」"
+
+[[dialogue]]
+speaker = "ウズメイア"
+original = "「今なんて？」"
+translation = "「지금 뭐라고?」"
+
+[[dialogue]]
+speaker = "メイドさん"
+original = "「にゃん？\u3000クロトくんは当時、うちの店で人気ナンバー１のメ」"
+translation = "「냥? 쿠로토 군은 당시에 우리 가게에서 인기 넘버원 메」"
+
+[[dialogue]]
+speaker = "unk"
+original = "店長ぉぉぉ！\u3000ストォォォーーープッ！！！"
+translation = "점장니이이이임! 스토오오오오옵!!!"
+
+[[dialogue]]
+speaker = "ヘレナ"
+original = "「ふっ……ふふふっ……！」"
+translation = "「훗…… 후후후……!」"
+
+[[dialogue]]
+speaker = "ヘレナ"
+original = "「あはっ……あはははははっ！\u3000それは面白い！\u3000よし、今日のお昼はそこにするぞ♪」"
+translation = "「아하…… 아하하하하핫! 그거 재밌군! 좋아, 오늘 점심은 그곳으로 하겠다♪」"
+
+[[dialogue]]
+speaker = "ウズメイア"
+original = "「えっ、会長くん、マジで！？\u3000つまりはそういうこと！？」"
+translation = "「엣, 회장군 진짜루!? 그러니까 그런 거였어!?」"
+
+[[dialogue]]
+speaker = "ウズメイア"
+original = "「ヤバッ、なにそれ、めっちゃ気になるし！\u3000もっと詳しく聞きたいんだけど～！」"
+translation = "「대박, 뭐야 그거, 완전 궁금해! 좀 더 자세히 듣고 싶은데~!」"
+
+[[dialogue]]
+speaker = "メイドさん"
+original = "「もちろん、いいですよ～♪\u3000当時の写真や動画もありますから、是非是非～♪」"
+translation = "「물론이죠~♪ 당시 사진이나 영상도 있으니까 꼭꼭 봐주세요~♪」"
+
+[[dialogue]]
+speaker = "unk"
+original = "店長おおおぉぉぉーーーーーーっ！！？"
+translation = "점장니이이이이이이이이이익!!??"
+
+[[dialogue]]
+speaker = "ヘレナ"
+original = "「よし、猫耳メイド喫茶にいざ出陣だ♪」"
+translation = "「좋아, 고양이 귀 메이드 카페로 출진이다♪」"
+
+[[dialogue]]
+speaker = "ウズメイア"
+original = "「イェ～イ！\u3000レッツゴー♪」"
+translation = "「예~이! 렛츠 고♪」"
+
+[[dialogue]]
+speaker = "メイドさん"
+original = "「ご主人様３名、ご案内にゃ～ん♪」"
+translation = "「주인님 세 분, 안내하겠다냥~♪」"
+
+[[dialogue]]
+speaker = "unk"
+original = "その後、俺は猫耳メイド喫茶でのバイト経験について、２人から根ほり葉ほり聞かれることになったのだった――"
+translation = "그 뒤로 나는 고양이 귀 메이드 카페에서의 알바 경험에 대해 두 사람에게 꼬치꼬치 캐물음을 당하게 되었다──"
+

@@ -1,0 +1,380 @@
+[[dialogue]]
+speaker = "unk"
+original = "第３話,ここあの夢,P"
+translation = "제3화, 코코아의 꿈, P"
+
+[[dialogue]]
+speaker = "ここあ"
+original = "「やっちゃうよっ！」"
+translation = "「해버릴 거야!」"
+
+[[dialogue]]
+speaker = "ここあ"
+original = "「これがここあの取っておき！\u3000おりゃおりゃおりゃおりゃおりゃ～～！！」"
+translation = "「이게 코코아의 비장의 수! 오랴오랴오랴오랴오랴~~!!」"
+
+[[dialogue]]
+speaker = "シズハ"
+original = "「ありがとうございます、助かりました」"
+translation = "「감사합니다, 덕분에 살았어요」"
+
+[[dialogue]]
+speaker = "いろは"
+original = "「いーよいーよ、お世話になってるんだから、ちょっとでもお返ししないとね」"
+translation = "「아냐아냐, 신세 지고 있으니까 조금이라도 보답해야지」"
+
+[[dialogue]]
+speaker = "花織"
+original = "「ウチらで力になれることがあるなら、何でも言ってよ」"
+translation = "「우리들이 힘이 될 수 있는 일이라면 뭐든 말해줘」"
+
+[[dialogue]]
+speaker = "unk"
+original = "シズハと出かけている最中にモンスターに出くわし、それを助けて戦うことになった。"
+translation = "시즈하와 외출하던 중에 몬스터와 마주쳐, 그것을 도와 싸우게 되었다."
+
+[[dialogue]]
+speaker = "unk"
+original = "幸いなことにモンスターはそれほど強力でない相手だったのだが──"
+translation = "다행히도 몬스터는 그리 강력하지 않은 상대였지만──"
+
+[[dialogue]]
+speaker = "ここあ"
+original = "「んにゃ？」"
+translation = "「응냐?」"
+
+[[dialogue]]
+speaker = "美鶴"
+original = "「ふーん……シズハさんたちとはテイストが違うんよね～」"
+translation = "「흐음…… 시즈하 씨 일행과는 테이스트가 다르네~」"
+
+[[dialogue]]
+speaker = "ここあ"
+original = "「えっと……ここあのスカートをガン見してる方～？\u3000きみは誰なのかにゃ～？」"
+translation = "「저기…… 코코아의 스커트를 뚫어지게 쳐다보시는 분~? 너는 누구냐냐~?」"
+
+[[dialogue]]
+speaker = "美鶴"
+original = "「あ～……申し遅れました。うちは<ruby>長篠<rt>ながしの</rt></ruby><ruby>美鶴<rt>みつる</rt></ruby>っていいます」"
+translation = "「아~…… 인사가 늦었습니다. 저는 나가시노 미츠루라고 합니다」"
+
+[[dialogue]]
+speaker = "シズハ"
+original = "「長篠美鶴さん！？\u3000ということは、あの九浄家メイド隊の……」"
+translation = "「나가시노 미츠루 씨!? 그렇다는 건, 그 쿠죠 가문 메이드대의……」"
+
+[[dialogue]]
+speaker = "美鶴"
+original = "「ま、そんな感じっすね」"
+translation = "「뭐, 그런 느낌이죠」"
+
+[[dialogue]]
+speaker = "いろは"
+original = "「なになに？\u3000メイド隊なんてあるの！？」"
+translation = "「뭐야뭐야? 메이드대 같은 게 있어!?」"
+
+[[dialogue]]
+speaker = "シズハ"
+original = "「うん。九浄家のメイド隊はメンバーにも星騎士が多くて、結構有名なんだよ」"
+translation = "「응. 쿠죠 가문의 메이드대는 멤버 중에도 성기사가 많아서 꽤 유명해」"
+
+[[dialogue]]
+speaker = "美鶴"
+original = "「ま、九浄家メイド隊は有名っす。そんな中でもうちは、ボチボチでやらせてもらってる地味～なメンバーですけど」"
+translation = "「뭐, 쿠죠 가문 메이드대는 유명하죠. 그런 와중에 저는 그럭저럭 해나가고 있는 수수~한 멤버입니다만」"
+
+[[dialogue]]
+speaker = "シズハ"
+original = "「いえいえ、美鶴さんも十分有名ですから」"
+translation = "「아뇨아뇨, 미츠루 씨도 충분히 유명하시니까요」"
+
+[[dialogue]]
+speaker = "シズハ"
+original = "「星騎士としての実力もさることながら服飾関係に通じていて、九浄家の当主であり有名デザイナーでもある九浄ヘレナさんのお手伝いをしてるって聞きました」"
+translation = "「성기사로서의 실력도 실력이거니와 복식 관계에 정통해서, 쿠죠 가문의 당주이자 유명 디자이너이기도 한 쿠죠 헬레나 씨를 돕고 있다고 들었어요」"
+
+[[dialogue]]
+speaker = "シズハ"
+original = "「人工的に作り出された戦闘服の中には、美鶴さんが作ったものもあるんですよね？」"
+translation = "「인공적으로 만들어진 전투복 중에는 미츠루 씨가 만든 것도 있죠?」"
+
+[[dialogue]]
+speaker = "美鶴"
+original = "「うへ～、よく知ってるね～」"
+translation = "「우와~, 잘 아시네요~」"
+
+[[dialogue]]
+speaker = "ここあ"
+original = "「そっか……それでここあたちの服に興味を示してたんだ」"
+translation = "「그렇구나…… 그래서 코코아 일행의 옷에 흥미를 보였던 거네」"
+
+[[dialogue]]
+speaker = "美鶴"
+original = "「そそ、同じ魔法少女なのに結構違うんだな～って」"
+translation = "「그래그래, 같은 마법소녀인데도 꽤 다르구나~ 싶어서요」"
+
+[[dialogue]]
+speaker = "シズハ"
+original = "「え……何で私が魔法少女ってことを……」"
+translation = "「에…… 어떻게 제가 마법소녀라는 걸……」"
+
+[[dialogue]]
+speaker = "ここあ"
+original = "「それを言うならこの人、ここあたちが魔法少女ってことも知ってるみたいだよ？」"
+translation = "「그걸 말하자면 이 사람, 코코아 일행이 마법소녀라는 것도 알고 있는 것 같은데?」"
+
+[[dialogue]]
+speaker = "美鶴"
+original = "「まあまあ、うちの当主様は結構なんでもお見通し系の人なんで」"
+translation = "「뭐어뭐어, 우리 당주님은 꽤 뭐든 꿰뚫어 보시는 분이라서요」"
+
+[[dialogue]]
+speaker = "美鶴"
+original = "「今日、うちがここに現れたのも、噂の魔法少女たちのことを見てくるよう、当主様から仰せつかったからなんすよ」"
+translation = "「오늘 제가 여기 나타난 것도, 소문의 마법소녀들을 보고 오라고 당주님께서 분부하셨기 때문이에요」"
+
+[[dialogue]]
+speaker = "美鶴"
+original = "「だからみなさんの戦いぶりを、しっかり見届けてたっす」"
+translation = "「그래서 여러분의 싸우는 모습을 확실히 지켜보고 있었죠」"
+
+[[dialogue]]
+speaker = "花織"
+original = "「見てるなら手伝ってくれればよかったのに……」"
+translation = "「보고 있었다면 도와줬으면 좋았을 텐데……」"
+
+[[dialogue]]
+speaker = "美鶴"
+original = "「いやー、うちの受けた任務が『見てこい』ってだけだったし……それにうちが手を出さなくても片がつきそうだったんで」"
+translation = "「이야~, 제가 받은 임무가 『보고 와라』는 것뿐이기도 했고…… 게다가 제가 손을 쓰지 않아도 해결될 것 같았거든요」"
+
+[[dialogue]]
+speaker = "美鶴"
+original = "「それはそうとみなさんの着てる服、もっとじっくり見させてもらっていいっすか？」"
+translation = "「그건 그렇고 여러분이 입고 있는 옷, 좀 더 자세히 봐도 될까요?」"
+
+[[dialogue]]
+speaker = "いろは"
+original = "「うん、いいよ！\u3000ズバーーン、キラッ☆\u3000こんな感じ！？」"
+translation = "「응, 좋아! 즈바아안, 반짝☆ 이런 느낌!?」"
+
+[[dialogue]]
+speaker = "美鶴"
+original = "「あー、いいっすね～。決めポーズって感じで、超カッコいいっすよ～」"
+translation = "「아~ 좋네요~. 결정 포즈라는 느낌이라 초 멋있어요~」"
+
+[[dialogue]]
+speaker = "ここあ"
+original = "「…………」"
+translation = "「…………」"
+
+[[dialogue]]
+speaker = "美鶴"
+original = "「ありゃ？\u3000どうしたんすか？」"
+translation = "「어라? 왜 그러세요?」"
+
+[[dialogue]]
+speaker = "ここあ"
+original = "「え？\u3000いや……な、何でもないにゃ～♪」"
+translation = "「에? 아냐…… 아, 아무것도 아냐냐~♪」"
+
+[[dialogue]]
+speaker = "美鶴"
+original = "「ん～……あ、もしかして服飾に興味があったり？」"
+translation = "「음~…… 아, 혹시 복식에 흥미가 있다거나?」"
+
+[[dialogue]]
+speaker = "ここあ"
+original = "「にゃはは……どうなんだろ。カワイイ服とかたくさん作れたら楽しいだろうな～って、思ったりはするけどね……」"
+translation = "「냐하하…… 어떨까나. 귀여운 옷 같은 거 잔뜩 만들 수 있으면 즐겁겠지~ 하고 생각은 하지만 말이야……」"
+
+[[dialogue]]
+speaker = "美鶴"
+original = "「ただの興味本位にしては、目がだいぶマジだったと思うけど……ん～……そだ、うちの個人的な仕事場でよかったら見に来ます？」"
+translation = "「단순한 호기심이라기엔 눈이 꽤 진지했던 것 같은데…… 음~…… 아, 제 개인적인 작업실이라도 괜찮다면 보러 오실래요?」"
+
+[[dialogue]]
+speaker = "ここあ"
+original = "「え……」"
+translation = "「에……」"
+
+[[dialogue]]
+speaker = "美鶴"
+original = "「今作ってる服がカワイイ系で、いろいろ意見とかもらえたら嬉しいんすけど」"
+translation = "「지금 만들고 있는 옷이 귀여운 계열이라, 이런저런 의견 같은 걸 주시면 기쁘겠는데요」"
+
+[[dialogue]]
+speaker = "いろは"
+original = "「よかったね、ここにゃん！」"
+translation = "「잘됐다, 코코냥!」"
+
+[[dialogue]]
+speaker = "花織"
+original = "「いい話じゃないですか！\u3000ここあさんのファッションセンスを生かすチャンスだし、現場を見たら得るものも多そう！」"
+translation = "「좋은 이야기잖아요! 코코아 씨의 패션 센스를 살릴 기회고, 현장을 보면 얻는 것도 많을 거예요!」"
+
+[[dialogue]]
+speaker = "ここあ"
+original = "「ん～っと、そうなんだけど……ごめんなさい、遠慮しときます」"
+translation = "「음~ 그러니까, 그렇긴 한데…… 미안해, 사양할게」"
+
+[[dialogue]]
+speaker = "いろは"
+original = "「え～っ、なんで！？」"
+translation = "「에~, 왜!?」"
+
+[[dialogue]]
+speaker = "ここあ"
+original = "「にゃはは、いろいろあるんだよ、ここあにも」"
+translation = "「냐하하, 여러 가지 사정이 있어, 코코아에게도」"
+
+[[dialogue]]
+speaker = "美鶴"
+original = "「なーんかいろいろ事情がありそうなんで……あんま踏み込むべきじゃないっすね」"
+translation = "「뭐어~ 여러 가지 사정이 있는 것 같으니…… 너무 파고들면 안 되겠네요」"
+
+[[dialogue]]
+speaker = "美鶴"
+original = "「んでは、任務もだいたい果たしたことだし、うちはこの辺で」"
+translation = "「그럼 임무도 대충 완수했으니, 저는 이만」"
+
+[[dialogue]]
+speaker = "シズハ"
+original = "「……行っちゃったね」"
+translation = "「……가버렸네」"
+
+[[dialogue]]
+speaker = "いろは"
+original = "「どしたの、ここにゃん？\u3000らしくなかったけど」"
+translation = "「왜 그래, 코코냥? 너답지 않았는데」"
+
+[[dialogue]]
+speaker = "ここあ"
+original = "「ん～、これはまあ、お家の事情ってやつなんだけど……服飾系の道に進もうと思ったら学費とかでさ、結構なお金がかかっちゃうわけよ」"
+translation = "「음~ 이건 뭐, 집안 사정이라는 건데…… 복식 계열 길로 나아가려고 하면 학비 같은 걸로 말이야, 꽤 큰 돈이 든단 말이지」"
+
+[[dialogue]]
+speaker = "ここあ"
+original = "「知っての通りここあの家にはそんな余裕はないし、夢を叶えるにはちょーっと厳しい現実があるんだよね」"
+translation = "「알다시피 코코아네 집에는 그럴 여유가 없고, 꿈을 이루기엔 조~금 엄격한 현실이 있거든」"
+
+[[dialogue]]
+speaker = "ここあ"
+original = "「だから、この夢はすっぱり諦めた！\u3000そういう夢を持ってたことも、周りに言わないようにしてたんだ」"
+translation = "「그래서 이 꿈은 깨끗이 포기했어! 그런 꿈을 가졌다는 것도 주변에 말하지 않으려고 했고」"
+
+[[dialogue]]
+speaker = "ここあ"
+original = "「でも、あの美鶴さんって人を見てたら……抑えきれなくなって、ちょっと出ちゃってたみたい。にゃはは、ここあもまだまだだね～」"
+translation = "「하지만 저 미츠루라는 분을 보고 있으니까…… 억누를 수 없게 되어서 조금 티가 났나 봐. 냐하하, 코코아도 아직 멀었네~」"
+
+[[dialogue]]
+speaker = "花織"
+original = "「……ごめんなさい、そういう事情があったんですね……」"
+translation = "「……죄송해요, 그런 사정이 있었군요……」"
+
+[[dialogue]]
+speaker = "いろは"
+original = "「でも、難しいかもしれないけど……だからって抑え込んじゃわなくてもよくない？」"
+translation = "「하지만 어려울지도 모르지만…… 그렇다고 억눌러버리지 않아도 되지 않아?」"
+
+[[dialogue]]
+speaker = "ここあ"
+original = "「そーは言うけどさ、叶わない夢を抱え続けるのだって辛いものがあるんだよ」"
+translation = "「그렇게 말해도 말이야, 이뤄지지 않을 꿈을 계속 품고 있는 것도 괴로운 법이야」"
+
+[[dialogue]]
+speaker = "ここあ"
+original = "「ま、この話はここあの中でもう結論の出てることだから。忘れて、忘れて～」"
+translation = "「뭐, 이 이야기는 코코아 안에서 이미 결론이 난 일이니까. 잊어줘, 잊어줘~」"
+
+[[dialogue]]
+speaker = "ここあ"
+original = "「あ、元の世界に戻っても、他の人には内緒ね？\u3000セイラくらいしか知らないはずだからさ～」"
+translation = "「아, 원래 세계로 돌아가도 다른 사람들한테는 비밀이다? 세이라 정도밖에 모를 테니까 말이야~」"
+
+[[dialogue]]
+speaker = "花織"
+original = "「は、はい……」"
+translation = "「네, 네……」"
+
+[[dialogue]]
+speaker = "シズハ"
+original = "「待ってください！」"
+translation = "「기다려 주세요!」"
+
+[[dialogue]]
+speaker = "ここあ"
+original = "「シズハっち……」"
+translation = "「시즈하치……」"
+
+[[dialogue]]
+speaker = "シズハ"
+original = "「現実が厳しいからといって諦めてしまうにはまだ早いと思います！\u3000不可能だからと結論づけて、気持ちに蓋をしてしまうには早いと思います！」"
+translation = "「현실이 엄격하다고 해서 포기해버리기엔 아직 이르다고 생각해요! 불가능하다고 결론짓고 마음의 뚜껑을 닫아버리기엔 이르다고 생각해요!」"
+
+[[dialogue]]
+speaker = "シズハ"
+original = "「私……実は転入生なんです」"
+translation = "「저…… 사실 편입생이에요」"
+
+[[dialogue]]
+speaker = "シズハ"
+original = "「小さい頃から病気で、寝たきりの状態で病院でずっと過ごして……今の医学では治らない、不治の病だって言われてました」"
+translation = "「어릴 적부터 병으로 계속 누워 있는 상태로 병원에서 보내며…… 지금의 의학으로는 낫지 않는, 불치병이라는 말을 들었어요」"
+
+[[dialogue]]
+speaker = "シズハ"
+original = "「でも、ある日……魔法のような出来事が起きたんです。絶望的だった私の体は、とある出会いによって、死の淵から救い出されました」"
+translation = "「하지만 어느 날…… 마법 같은 일이 일어났어요. 절망적이었던 제 몸은 어떤 만남을 통해 죽음의 문턱에서 구원받았습니다」"
+
+[[dialogue]]
+speaker = "シズハ"
+original = "「この世には、奇跡も逆転もあるんです！\u3000だからきっと、ここあさんの夢だって、叶えられるはずです！」"
+translation = "「이 세상에는 기적도 역전도 있어요! 그러니까 분명, 코코아 씨의 꿈도 이뤄질 수 있을 거예요!」"
+
+[[dialogue]]
+speaker = "いろは"
+original = "「そうだよ！\u3000あたしは応援するよ、ここにゃん！」"
+translation = "「맞아! 나는 응원할게, 코코냥!」"
+
+[[dialogue]]
+speaker = "花織"
+original = "「ウチにも応援させてください！」"
+translation = "「저희도 응원하게 해주세요!」"
+
+[[dialogue]]
+speaker = "ここあ"
+original = "「シズハっち……いろはす……カオリン……」"
+translation = "「시즈하치…… 이로하스…… 카오린……」"
+
+[[dialogue]]
+speaker = "ここあ"
+original = "「ありがとう……そうだね。ちょっと勇気、出てきたかも……」"
+translation = "「고마워…… 그렇네. 조금 용기가 생겼을지도……」"
+
+[[dialogue]]
+speaker = "ここあ"
+original = "「シズハっち、何とかしてさっきの美鶴さんに、連絡を取ることってできないかな？」"
+translation = "「시즈하치, 어떻게든 아까 미츠루 씨한테 연락을 취할 수는 없을까?」"
+
+[[dialogue]]
+speaker = "シズハ"
+original = "「任せてください！\u3000相手は有名人ですし、これでも私、友達多いんですから！」"
+translation = "「맡겨주세요! 상대는 유명인이고, 이래 봬도 저, 친구 많으니까요!」"
+
+[[dialogue]]
+speaker = "ここあ"
+original = "「うん、ありがと♪」"
+translation = "「응, 고마워♪」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ここあは清々しい表情で頷く。"
+translation = "코코아는 상쾌한 표정으로 고개를 끄덕인다."
+
+[[dialogue]]
+speaker = "unk"
+original = "後日、無事に美鶴と連絡がとれたここあは、彼女の仕事場へ招待してもらったのだった。"
+translation = "며칠 뒤, 무사히 미츠루와 연락이 닿은 코코아는 그녀의 작업실로 초대받은 것이었다."
+

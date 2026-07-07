@@ -1,0 +1,340 @@
+[[dialogue]]
+speaker = "unk"
+original = "メインの大プールで泳いだ後は、別なプールへと移動する。"
+translation = "메인 대형 풀장에서 수영한 뒤에는 다른 풀장으로 이동한다."
+
+[[dialogue]]
+speaker = "unk"
+original = "次は定期的に波の発生するプールに遊びに来ていた。"
+translation = "다음은 정기적으로 파도가 발생하는 풀장에 놀러 왔다."
+
+[[dialogue]]
+speaker = "ラティエ"
+original = "「おおお、これは面白いな。プールなのにまるで海を泳いでいるようだ」"
+translation = "「오오오, 이거 재미있군. 풀장인데 마치 바다를 수영하는 것 같아」"
+
+[[dialogue]]
+speaker = "サラン"
+original = "「波にふわふわ、翻弄されちゃう～♪」"
+translation = "「파도에 둥실둥실, 휘둘려버려요~♪」"
+
+[[dialogue]]
+speaker = "unk"
+original = "泳げないサランは浮き輪をしっかり装着して、楽しそうに波に揺られている。"
+translation = "수영을 못 하는 사란은 튜브를 꽉 장착하고, 즐거운 듯 파도에 흔들리고 있다."
+
+[[dialogue]]
+speaker = "unk"
+original = "一方のエルゼは、プールを楽しんではいるものの、学園長とは距離を取りつつ冷たい態度を取り続けていた。"
+translation = "반면 엘제는 풀장을 즐기고는 있지만, 학원장과는 거리를 두며 차가운 태도를 유지하고 있었다."
+
+[[dialogue]]
+speaker = "エスメラルダ"
+original = "『エルデリーゼさん、学園長と何か因縁があるのかしら？』"
+translation = "『엘데리제 씨, 학원장과 무슨 인연이라도 있는 걸까?』"
+
+[[dialogue]]
+speaker = "unk"
+original = "エルゼはフィオナを敬愛しているんです"
+translation = "엘제는 피오나를 경애하고 있거든요."
+
+[[dialogue]]
+speaker = "unk"
+original = "因縁、というわけではないのですが"
+translation = "인연, 이라고 할 정도는 아니지만요."
+
+[[dialogue]]
+speaker = "unk"
+original = "聞いたところによると、エルゼが星騎士として伸び悩んでいた時に、相談に乗ってくれたのがフィオナだという話だ。"
+translation = "듣기로는, 엘제가 성기사로서 성장이 정체되어 고민할 때 상담해 준 것이 피오나라고 한다."
+
+[[dialogue]]
+speaker = "エスメラルダ"
+original = "『フィオナさんに迷惑をかけている学園長には思うところあり、ということなのね……』"
+translation = "『피오나 씨에게 폐를 끼치고 있는 학원장에게 불만이 있다는 거로군……』"
+
+[[dialogue]]
+speaker = "unk"
+original = "そんなエルゼの様子に、学園長も気付いてはいるのだろう。"
+translation = "그런 엘제의 모습을 학원장도 눈치채고는 있을 것이다."
+
+[[dialogue]]
+speaker = "unk"
+original = "しかし、特に気にした様子はなく、変わらぬ態度で２人に話しかけている。"
+translation = "하지만 딱히 신경 쓰는 기색 없이, 변함없는 태도로 두 사람에게 말을 걸고 있다."
+
+[[dialogue]]
+speaker = "ラティエ"
+original = "「波と言えば、２人は『<ruby>破滅の大波<rt>ドゥームズデイ</rt></ruby>』をご存知かな？」"
+translation = "「파도라고 하니, 두 사람은 『파멸의 대파』를 알고 있나?」"
+
+[[dialogue]]
+speaker = "サラン"
+original = "「ぽよ？\u3000聞いたことありませんね～、何なのでしょう～？」"
+translation = "「포요? 들어본 적 없네요~, 무엇인가요~?」"
+
+[[dialogue]]
+speaker = "ラティエ"
+original = "「魔界に『黒の海』と呼ばれる海域があるんだが、そこは魔界で最も波の荒い場所と言われているのだ」"
+translation = "「마계에 『검은 바다』라 불리는 해역이 있는데, 그곳은 마계에서 가장 파도가 거친 곳이라 불리지」"
+
+[[dialogue]]
+speaker = "ラティエ"
+original = "「当然その海域を、船は避けて運航する。だが、敢えてこの荒波に立ち向かおうという者たちもいる」"
+translation = "「당연히 그 해역을 배들은 피해서 운항하네. 하지만 굳이 이 거친 파도에 맞서려는 자들도 있지」"
+
+[[dialogue]]
+speaker = "ラティエ"
+original = "「その船に乗せてもらったことがあるのだが……あれは貴重な体験だった」"
+translation = "「그 배에 얻어 탄 적이 있는데…… 그건 귀중한 체험이었어」"
+
+[[dialogue]]
+speaker = "unk"
+original = "どうしてそんな危ない場所に……"
+translation = "어째서 그런 위험한 곳에……"
+
+[[dialogue]]
+speaker = "ラティエ"
+original = "「ひと言でいうなら冒険心をくすぐられた、というところかな」"
+translation = "「한마디로 말하자면 모험심을 자극받았다, 는 걸까」"
+
+[[dialogue]]
+speaker = "ラティエ"
+original = "「まさに命がけだった。それを団結してくぐり抜けた後は、まるで生まれ変わったような気持ちになれたよ」"
+translation = "「그야말로 목숨을 건 일이었지. 그걸 단결해서 헤쳐 나온 뒤에는 마치 다시 태어난 것 같은 기분이 들었어」"
+
+[[dialogue]]
+speaker = "エルデリーゼ"
+original = "「冒険心……」"
+translation = "「모험심……」"
+
+[[dialogue]]
+speaker = "ラティエ"
+original = "「おや、エルデリーゼ嬢も興味が湧いてきたかな？」"
+translation = "「오호, 엘데리제 양도 흥미가 생겼나?」"
+
+[[dialogue]]
+speaker = "エルデリーゼ"
+original = "「そ、そんなことはありませんわ！！」"
+translation = "「그, 그런 건 아니에요!!」"
+
+[[dialogue]]
+speaker = "エルデリーゼ"
+original = "「ありませんけど……他にはどんな経験をされておりますの？」"
+translation = "「아니지만…… 그 외에는 어떤 경험을 하셨나요?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "だが──少しずつではあるが、学園長の話にエルゼも反応し始めている。"
+translation = "하지만── 조금씩이긴 해도, 학원장의 이야기에 엘제도 반응하기 시작했다."
+
+[[dialogue]]
+speaker = "unk"
+original = "学園長の旅の話は、好奇心旺盛なエルゼにとって大好物のはずだった。"
+translation = "학원장의 여행 이야기는 호기심 왕성한 엘제에게 있어 매우 흥미로운 소재였을 것이다."
+
+[[dialogue]]
+speaker = "ラティエ"
+original = "「そうだな……面白い体験といえば、海賊に襲われたことがある」"
+translation = "「글쎄…… 재미있는 체험이라면, 해적에게 습격당한 적이 있지」"
+
+[[dialogue]]
+speaker = "エルデリーゼ"
+original = "「か、海賊ですの！？」"
+translation = "「해, 해적 말인가요!?」"
+
+[[dialogue]]
+speaker = "サラン"
+original = "「海賊さんって本当にいるんですね～」"
+translation = "「해적님은 정말로 있는 거군요~」"
+
+[[dialogue]]
+speaker = "ラティエ"
+original = "「これも魔界を旅していた時なんだが、突然船を襲われてね……あの時は驚いたよ」"
+translation = "「이것도 마계를 여행하던 때인데, 갑자기 배를 습격당해서 말이야…… 그때는 놀랐지」"
+
+[[dialogue]]
+speaker = "ラティエ"
+original = "「いで立ちもみんなが想像する通りの海賊の格好をしていた」"
+translation = "「차림새도 모두가 상상하는 그대로의 해적 모습이었어」"
+
+[[dialogue]]
+speaker = "エルデリーゼ"
+original = "「そんなの空想の世界にしか存在しないのかと思っていましたわ……」"
+translation = "「그런 건 공상 속 세계에만 존재하는 줄 알았습니다만……」"
+
+[[dialogue]]
+speaker = "ラティエ"
+original = "「世界には驚くことがいっぱいある。旅をしているとそういうものに、次々と出会うことが出来るからね」"
+translation = "「세계에는 놀라운 일이 가득하네. 여행을 하다 보면 그런 것들을 차례차례 만날 수 있으니까」"
+
+[[dialogue]]
+speaker = "サラン"
+original = "「だから学園長さんは旅がやめられないんですね～」"
+translation = "「그래서 학원장님은 여행을 그만둘 수 없으신 거군요~」"
+
+[[dialogue]]
+speaker = "ラティエ"
+original = "「はっはっは、そういうことだよ」"
+translation = "「핫핫핫, 그런 셈이지」"
+
+[[dialogue]]
+speaker = "ラティエ"
+original = "「そうだ、こういったイベントをしてみるのはどうだろう？\u3000突然船が襲われてしまったという設定で海賊が現れ──」"
+translation = "「그렇지, 이런 이벤트를 해보는 건 어떨까? 갑자기 배가 습격당했다는 설정으로 해적이 나타나──」"
+
+[[dialogue]]
+speaker = "unk"
+original = "っ……！！！？"
+translation = "윽……!!!?"
+
+[[dialogue]]
+speaker = "unk"
+original = "学園長は俺に背後から組み付き動けなくする。"
+translation = "학원장은 내 등 뒤에서 달려들어 움직이지 못하게 한다."
+
+[[dialogue]]
+speaker = "unk"
+original = "そのまま波を蹴って飛び上がり、ビーチサイドに軽やかに着地すると大声で叫んだ。"
+translation = "그대로 파도를 차고 뛰어올라 비치 사이드에 가볍게 착지하더니 큰 소리로 외쳤다."
+
+[[dialogue]]
+speaker = "ラティエ"
+original = "「我こそは大海賊ラティエである。この者の命が惜しければ金品を全て置いていくのだ！」"
+translation = "「내 이름은 대해적 라티에다. 이 자의 목숨이 아깝다면 금품을 모두 내놓아라!」"
+
+[[dialogue]]
+speaker = "サラン"
+original = "「まあ、大変。会長ちゃんが人質に～」"
+translation = "「어머, 세상에. 회장짱이 인질로~」"
+
+[[dialogue]]
+speaker = "エルデリーゼ"
+original = "「そうはさせませんわ！\u3000私が相手になります、海賊様！」"
+translation = "「그렇게 두지 않겠어요! 제가 상대하겠습니다, 해적 님!」"
+
+[[dialogue]]
+speaker = "ラティエ"
+original = "「これはこれは、可愛らしいピーターパンの登場だ！\u3000ではひとつ、手合わせを願おうか」"
+translation = "「이거 이거, 귀여운 피터팬의 등장이군! 그럼 한번 실력을 겨뤄볼까」"
+
+[[dialogue]]
+speaker = "エルデリーゼ"
+original = "「望むところです！」"
+translation = "「바라던 바입니다!」"
+
+[[dialogue]]
+speaker = "エスメラルダ"
+original = "『いい流れよ！\u3000これは学園長のデータを取るまたとない機会だわ！\u3000このまま続けて！！』"
+translation = "『좋은 흐름이에요! 이건 학원장의 데이터를 수집할 절호의 기회예요! 이대로 계속하세요!!』"
+
+[[dialogue]]
+speaker = "unk"
+original = "（悪いところ出てるっ！！！）"
+translation = "(나쁜 버릇 나왔어!!!)"
+
+[[dialogue]]
+speaker = "unk"
+original = "（先生～～！！！）"
+translation = "(선생님~~!!!)"
+
+[[dialogue]]
+speaker = "エルデリーゼ"
+original = "「いざ勝負！」"
+translation = "「자, 승부!」"
+
+[[dialogue]]
+speaker = "ラティエ"
+original = "「ああ、かかってこい！」"
+translation = "「오냐, 덤벼라!」"
+
+[[dialogue]]
+speaker = "ラティエ"
+original = "「はっはっは、さすがは星騎士。見事な連続攻撃だ。『最強の矛』という異名も伊達ではないな」"
+translation = "「핫핫핫, 역시 성기사로군. 훌륭한 연속 공격이다. 『최강의 창』이라는 이명도 허명은 아니군」"
+
+[[dialogue]]
+speaker = "エルデリーゼ"
+original = "「くっ……！」"
+translation = "「큭……!」"
+
+[[dialogue]]
+speaker = "エルデリーゼ"
+original = "（互角に打ち合っているように見せてはいますが、完全に余裕をもってあしらわれてしまっています）"
+translation = "(호각으로 맞붙고 있는 것처럼 보이지만, 완전히 여유 있게 받아넘겨지고 있습니다)"
+
+[[dialogue]]
+speaker = "エルデリーゼ"
+original = "（相当な実力差が無ければできない芸当ですわ。実力者だとは聞いていましたが、これ程とは思っておりませんでしたの……）"
+translation = "(상당한 실력 차이가 없으면 불가능한 기술이에요. 실력자라는 말은 들었지만, 이 정도일 줄은 몰랐습니다……)"
+
+[[dialogue]]
+speaker = "ラティエ"
+original = "「ほら、ヒロインのきみも何かやらないと」"
+translation = "「자, 히로인인 자네도 뭐라도 해야지」"
+
+[[dialogue]]
+speaker = "unk"
+original = "助けてー！\u3000エルデリーゼ！！"
+translation = "살려줘─! 엘데리제!!"
+
+[[dialogue]]
+speaker = "unk"
+original = "俺？\u3000え、えっと……"
+translation = "나? 어, 어라……"
+
+[[dialogue]]
+speaker = "エルデリーゼ"
+original = "「っ……！\u3000会長を、お放しくださいっ！！」"
+translation = "「윽……! 회장님을 놓아주세요!!」"
+
+[[dialogue]]
+speaker = "ラティエ"
+original = "（ほう……！\u3000これは、いい攻撃だ…………頃合いだな）"
+translation = "(호오……! 이건 좋은 공격이다………… 때가 됐군)"
+
+[[dialogue]]
+speaker = "ラティエ"
+original = "「む、しまった！\u3000武器を弾き飛ばされてしまった！」"
+translation = "「무, 이런! 무기를 튕겨 나가 버렸군!」"
+
+[[dialogue]]
+speaker = "エルデリーゼ"
+original = "「えっ！？」"
+translation = "「엣!?」"
+
+[[dialogue]]
+speaker = "ラティエ"
+original = "「やるではないか。きみの実力に敬意を表し、会長くんは返してやろう」"
+translation = "「제법이군. 자네의 실력에 경의를 표해 회장군은 돌려주도록 하지」"
+
+[[dialogue]]
+speaker = "ラティエ"
+original = "「また手合わせできる日を楽しみにしているぞ、さらばだ！」"
+translation = "「다시 겨뤄볼 날을 기대하고 있겠다, 그럼 이만!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "高笑いと共に学園長は飛び上がる。"
+translation = "호탕한 웃음과 함께 학원장은 뛰어오른다."
+
+[[dialogue]]
+speaker = "unk"
+original = "なっ……！？"
+translation = "뭐……!? "
+
+[[dialogue]]
+speaker = "unk"
+original = "と、その中空で突然、身体を解放される。"
+translation = "그런데 공중에서 갑자기 몸이 풀려난다."
+
+[[dialogue]]
+speaker = "unk"
+original = "当然俺はプールに向かって真っ逆さまに──"
+translation = "당연히 나는 풀장을 향해 곤두박질치고──"
+
+[[dialogue]]
+speaker = "エルデリーゼ"
+original = "「会長様～～～～っ！！！」"
+translation = "「회장님~~~~~!!!!」"
+

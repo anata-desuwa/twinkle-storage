@@ -1,0 +1,510 @@
+[[dialogue]]
+speaker = "unk"
+original = "俺たちの他に誰もいない、静寂のアリーナ。そこで、サーシャさんはシズハと向き合っていた――"
+translation = "우리 말고는 아무도 없는 정적의 아레나. 그곳에서 사샤 씨는 시즈하와 마주하고 있었다――"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「シズハちゃん。私は、あなたのお姉ちゃんにはなれない」"
+translation = "「시즈하짱. 나는 너의 언니가 될 수 없어」"
+
+[[dialogue]]
+speaker = "シズハ"
+original = "「……どうして？\u3000サーシャさん、前にお姉ちゃんって呼んでいいって、言ってくれたじゃない」"
+translation = "「……어째서요? 사샤 씨, 전에는 언니라고 불러도 된다고 말해줬잖아요」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「ええ、確かに言ったわ。だけど……実際にシズハちゃんの『お姉ちゃん』になってみて、間違ってるって気づいたの」"
+translation = "「에에, 분명 말했었지. 하지만…… 실제로 시즈하짱의 『언니』가 되어보니 잘못되었다는 걸 깨달았어」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「だから……ごめんなさい。自分の言葉を訂正するわ」"
+translation = "「그러니까…… 미안해. 내 말을 정정할게」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「私はあなたのお姉ちゃんの代わりにはなれない。なっちゃいけない」"
+translation = "「나는 네 언니의 대역은 될 수 없어. 되어서도 안 돼」"
+
+[[dialogue]]
+speaker = "シズハ"
+original = "「なんでそんな、冷たいことを言うの……？」"
+translation = "「왜 그런 차가운 말을 하시는 거예요……?」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「あなたに忘れて欲しくないから。あなたの――本当のお姉ちゃんのことを」"
+translation = "「네가 잊지 않았으면 좋겠으니까. 너의―― 진짜 언니를 말이야」"
+
+[[dialogue]]
+speaker = "シズハ"
+original = "「……！」"
+translation = "「……!」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「あの時、私に教えてくれたでしょう？\u3000お姉ちゃんがあなたに残した言葉――」"
+translation = "「그때 나에게 알려줬었지? 언니가 너에게 남긴 말――」"
+
+[[dialogue]]
+speaker = "unk"
+original = "その日はなんの前触れもなく、突然やってきた。"
+translation = "그날은 아무런 전조도 없이 갑자기 찾아왔다."
+
+[[dialogue]]
+speaker = "unk"
+original = "放課後にお見舞いに来てくれる約束だったお姉ちゃんが交通事故に遭い、病院に運ばれてきたのだった。"
+translation = "방과 후에 병문안을 오기로 약속했던 언니가 교통사고를 당해 병원으로 실려 온 것이었다."
+
+[[dialogue]]
+speaker = "シズハ"
+original = "「お姉ちゃん……嘘でしょ……お姉ちゃん……なんで、こんな……！」"
+translation = "「언니…… 거짓말이지…… 언니…… 왜, 이런 일이……!」"
+
+[[dialogue]]
+speaker = "シズハの姉"
+original = "「ごめん……ごめんね、シズハ」"
+translation = "「미안해…… 미안해, 시즈하」"
+
+[[dialogue]]
+speaker = "シズハの姉"
+original = "「お姉ちゃん……シズハのそばにいるって、約束したのに……守れなくて……」"
+translation = "「언니가…… 시즈하 곁에 있겠다고 약속했는데…… 지키지 못해서……」"
+
+[[dialogue]]
+speaker = "シズハ"
+original = "「ダメだよ！\u3000死んじゃダメ！\u3000私より先に死んじゃうなんて、そんなのダメ！」"
+translation = "「안 돼! 죽으면 안 돼! 나보다 먼저 죽다니 그런 건 안 돼!」"
+
+[[dialogue]]
+speaker = "シズハの姉"
+original = "「シズハ……よく聞いて……」"
+translation = "「시즈하…… 잘 들어……」"
+
+[[dialogue]]
+speaker = "シズハの姉"
+original = "「最後まで……生きるのを諦めないで。私の分も……少しでも長く生きて。どうか――」"
+translation = "「마지막까지…… 삶을 포기하지 마. 내 몫까지…… 조금이라도 오래 살아줘. 부디――」"
+
+[[dialogue]]
+speaker = "シズハの姉"
+original = "「幸せになって……シズハ」"
+translation = "「행복해지렴…… 시즈하」"
+
+[[dialogue]]
+speaker = "シズハの姉"
+original = "「お姉ちゃんからの……最後のお願い……」"
+translation = "「언니가 하는…… 마지막 부탁이야……」"
+
+[[dialogue]]
+speaker = "シズハ"
+original = "「お姉ちゃん……？\u3000お姉ちゃん……ねぇ、お姉ちゃんってば……！」"
+translation = "「언니……? 언니…… 있지, 언니라고 대답해 봐……!」"
+
+[[dialogue]]
+speaker = "シズハ"
+original = "「嫌だ！\u3000起きてよ！\u3000１人にしないで！」"
+translation = "「싫어! 일어나! 나를 혼자 두지 마!」"
+
+[[dialogue]]
+speaker = "シズハ"
+original = "「お姉ちゃん！\u3000お姉ちゃん！！\u3000お姉ちゃんっ！！！」"
+translation = "「언니! 언니!! 언니!!!」"
+
+[[dialogue]]
+speaker = "シズハ"
+original = "「うっ……うああああああぁぁぁーーーーーーーーーっ！！！」"
+translation = "「윽…… 으아아아아아아아아아아ーーーーーーーーー어!!!」"
+
+[[dialogue]]
+speaker = "シズハ"
+original = "「お姉ちゃんっ！！！\u3000ああああああぁぁぁーーーーーーーーーっ！！！」"
+translation = "「언니!!! 아아아아아아아아아아ーーーーーーーーー어!!!」"
+
+[[dialogue]]
+speaker = "シズハ"
+original = "「っ……お姉……ちゃん……」"
+translation = "「윽…… 언…… 니……」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「……本当のお姉ちゃんが言ったように、シズハちゃんはこれからも生きて、幸せにならなくちゃ。だから、ダメなの」"
+translation = "「……진짜 언니가 말했듯이 시즈하짱은 앞으로도 살아가서 행복해져야 해. 그러니까 안 돼」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「あなたのお姉ちゃんはもういない。自分の足で立って、しっかりと前を向いて進まなくちゃダメ」"
+translation = "「네 언니는 이제 없어. 네 발로 서서 똑바로 앞을 향해 나아가지 않으면 안 된단다」"
+
+[[dialogue]]
+speaker = "シズハ"
+original = "「嫌……私は……！」"
+translation = "「싫어…… 나는……!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "子供のように、首を強く横に振るシズハ。"
+translation = "아이처럼 고개를 강하게 가로저어 부정하는 시즈하."
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「あなたのお姉ちゃんはもういないの。それは、誰であっても代わりにはなれないわ」"
+translation = "「네 언니는 이제 없어. 그건 누구라 하더라도 대신할 수 없단다」"
+
+[[dialogue]]
+speaker = "シズハ"
+original = "「嫌だ……そんなこと言っちゃ嫌だ……！」"
+translation = "「싫어…… 그런 말 하지 마요……!」"
+
+[[dialogue]]
+speaker = "シズハ"
+original = "「――どこにも行かないでよ、お姉ちゃんっ！！！」"
+translation = "「――아무 데도 가지 마, 언니!!!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "シズハがそう叫んだ、次の瞬間。"
+translation = "시즈하가 그렇게 외친 다음 순간."
+
+[[dialogue]]
+speaker = "unk"
+original = "水面に雫が落ちて揺れるように、空間が歪んで行くのがわかった。"
+translation = "수면에 물방울이 떨어져 흔들리듯 공간이 왜곡되어 가는 것을 알 수 있었다."
+
+[[dialogue]]
+speaker = "unk"
+original = "そう、あの『違和感が消えてなくなる修正』がまた起ころうとしていた。"
+translation = "그렇다, 그 『위화감이 사라져 없어지는 수정』이 다시 일어나려 하고 있었다."
+
+[[dialogue]]
+speaker = "unk"
+original = "しかし――"
+translation = "하지만――"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「チェンジ――ノヴァフォーム！」"
+translation = "「체인지―― 노바 폼!」"
+
+[[dialogue]]
+speaker = "シズハ"
+original = "「え……？」"
+translation = "「에……?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "俺たちが再び修正現象に巻き込まれることは、なかった。"
+translation = "우리들이 다시 수정 현상에 휘말리는 일은 없었다."
+
+[[dialogue]]
+speaker = "unk"
+original = "シズハの前に立つサーシャさんの姿は――"
+translation = "시즈하 앞에 선 사샤 씨의 모습은――"
+
+[[dialogue]]
+speaker = "サーシャ（覚醒）"
+original = "「シズハちゃん」"
+translation = "「시즈하짱」"
+
+[[dialogue]]
+speaker = "unk"
+original = "新たな姿、ノヴァフォームへと覚醒を果たしていたから。"
+translation = "새로운 모습, 노바 폼으로 각성을 완수해 있었으니까."
+
+[[dialogue]]
+speaker = "サーシャ（覚醒）"
+original = "「私は、あなたのお姉ちゃんじゃない」"
+translation = "「나는 네 언니가 아니야」"
+
+[[dialogue]]
+speaker = "シズハ"
+original = "「どう……して……！？」"
+translation = "「어째……서……!?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "シズハと話をしようと教室を出る直前、サーシャさんは言った。"
+translation = "시즈하와 이야기를 하려고 교실을 나서기 직전 사샤 씨는 말했다."
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「会長くん、お願いがあるの。私に……アルケインコードを使ってくれないかしら？」"
+translation = "「회장군, 부탁이 있어. 나에게…… 아르케인 코드를 사용해 주지 않을래?」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「私、シズハちゃんを止められる力が欲しいの。自分の大切なものを守れる力を。だから――」"
+translation = "「나, 시즈하짱을 멈출 수 있는 힘이 필요해. 자신의 소중한 것을 지킬 수 있는 힘을. 그러니까――」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「聖杯に勝てる力を、私に頂戴」"
+translation = "「성배를 이길 수 있는 힘을 내게 줘」"
+
+[[dialogue]]
+speaker = "unk"
+original = "その時。サーシャさんの中に煌めく、星のような輝きが見えた。"
+translation = "그때 사샤 씨 안에서 번쩍이는 별과 같은 광채가 보였다."
+
+[[dialogue]]
+speaker = "unk"
+original = "マトイの時と同じような、新たな星が生まれるような眩しい光が――"
+translation = "마토이 때와 같은, 새로운 별이 태어나는 듯한 눈부신 빛이――"
+
+[[dialogue]]
+speaker = "unk"
+original = "――アルケインノヴァエクストリーム！！"
+translation = "――알케인 노바 익스트림!!"
+
+[[dialogue]]
+speaker = "サーシャ（覚醒）"
+original = "「――シズハちゃん、聖杯の力はもう発動しないわ」"
+translation = "「――시즈하짱, 성배의 힘은 이제 발동하지 않아」"
+
+[[dialogue]]
+speaker = "サーシャ（覚醒）"
+original = "「私の能力で、<b>凍らせた</b>から」"
+translation = "「내 능력으로 <b>얼려버렸으니까</b>」"
+
+[[dialogue]]
+speaker = "unk"
+original = "星騎士の能力は、進化すると物理法則を超えた『概念』にまで、影響を及ぼすこともある。"
+translation = "성기사의 능력은 진화하면 물리 법칙을 초월한 『개념』에까지 영향을 미치기도 한다."
+
+[[dialogue]]
+speaker = "unk"
+original = "サーシャさんが元々得意としていたのは、『氷』を操る星術。通常フォームの時点でも、学園でトップクラスの使い手であったが……"
+translation = "사샤 씨가 원래 잘 다루던 것은 『얼음』을 조종하는 성술. 통상 폼 시점에서도 학원에서 톱클래스의 실력자였지만……"
+
+[[dialogue]]
+speaker = "unk"
+original = "ノヴァフォームへと進化したことで至ったその力は、名付けるなら『事象凍結』。"
+translation = "노바 폼으로 진화하며 도달한 그 힘은 이름 붙이자면 『사상 동결』."
+
+[[dialogue]]
+speaker = "unk"
+original = "それによって、聖杯による修正を封じたのだ。"
+translation = "그것에 의해 성배에 의한 수정을 봉인한 것이다."
+
+[[dialogue]]
+speaker = "シズハ"
+original = "「っ…………」"
+translation = "「윽…………」"
+
+[[dialogue]]
+speaker = "unk"
+original = "シズハはその場で力が抜けたように、両膝を着く。"
+translation = "시즈하는 그 자리에서 힘이 빠진 듯 두 무릎을 꿇는다."
+
+[[dialogue]]
+speaker = "サーシャ（覚醒）"
+original = "「……本当は、私が気づくよりも前から、聖杯の能力が発動していたことに気づいていたのよね？」"
+translation = "「……사실은 내가 눈치채기 전부터 성배의 능력이 발동하고 있었다는 걸 알고 있었지?」"
+
+[[dialogue]]
+speaker = "シズハ"
+original = "「……うん。ごめん、なさい……」"
+translation = "「……응. 죄송해요……」"
+
+[[dialogue]]
+speaker = "シズハ"
+original = "「私……聖杯ちゃんと出会った時に、『生きたい』っていう願いを叶えてもらった。でも……」"
+translation = "「저…… 성배짱과 만났을 때 『살고 싶다』는 소원을 이뤄주었어요. 하지만……」"
+
+[[dialogue]]
+speaker = "シズハ"
+original = "「もうひとつ……聖杯ちゃんにだって叶えようのないものだってわかっていて、それでも捨て切れなかった願いもあった……」"
+translation = "「또 하나…… 성배짱이라 해도 이룰 수 없는 것이라는 걸 알면서도, 그래도 버릴 수 없었던 소원도 있었어요……」"
+
+[[dialogue]]
+speaker = "シズハ"
+original = "「叶うなら……お姉ちゃんと、もう１度会いたいって……」"
+translation = "「이루어진다면…… 언니와 다시 한번 만나고 싶다고……」"
+
+[[dialogue]]
+speaker = "シズハ"
+original = "「サーシャさんと出会ってから、お姉ちゃんが戻って来たみたいで嬉しかった……」"
+translation = "「사샤 씨와 만난 뒤로 언니가 돌아온 것 같아서 기뻤어요……」"
+
+[[dialogue]]
+speaker = "シズハ"
+original = "「私が外を歩けるようになって、病院の外でお姉ちゃんと過ごしたかった日々が、願いが叶ったみたいで……！」"
+translation = "「제가 밖을 걸을 수 있게 되어서 병원 밖에서 언니와 보내고 싶었던 나날이, 소원이 이루어진 것 같아서……!」"
+
+[[dialogue]]
+speaker = "サーシャ（覚醒）"
+original = "「私が指摘しなかったとしても、あなたはいつか必ず、自分自身の欺瞞に気づくわ。シズハちゃんは賢いから……」"
+translation = "「내가 지적하지 않았더라도 너는 언젠가 반드시 자기 자신의 기만을 깨달았을 거야. 시즈하짱은 영리하니까……」"
+
+[[dialogue]]
+speaker = "サーシャ（覚醒）"
+original = "「そうなった時、あなたは本当の姉を自分で消し去ったことを許せなくなる」"
+translation = "「그렇게 되었을 때 너는 진짜 언니를 스스로 지워버린 것을 용서할 수 없게 되겠지」"
+
+[[dialogue]]
+speaker = "サーシャ（覚醒）"
+original = "「それは、シズハちゃんのお姉ちゃんが願った『幸せ』からは程遠い。だから……」"
+translation = "「그건 시즈하짱의 언니가 바랐던 『행복』과는 거리가 멀어. 그러니까……」"
+
+[[dialogue]]
+speaker = "サーシャ（覚醒）"
+original = "「……私はあなたのお姉ちゃんには、ならない」"
+translation = "「……나는 너의 언니가 되지 않을 거야」"
+
+[[dialogue]]
+speaker = "シズハ"
+original = "「サーシャ、さん……」"
+translation = "「사샤 씨……」"
+
+[[dialogue]]
+speaker = "サーシャ（覚醒）"
+original = "「でも――」"
+translation = "「하지만――」"
+
+[[dialogue]]
+speaker = "unk"
+original = "サーシャさんはシズハに歩み寄ると、その体をそっと抱き締めた。"
+translation = "사샤 씨는 시즈하에게 다가가 그 몸을 살며시 껴안았다."
+
+[[dialogue]]
+speaker = "サーシャ（覚醒）"
+original = "「あなたが寂しくなった時は、こうして寄り添ってあげたいと思う」"
+translation = "「네가 외로워질 때는 이렇게 곁에 있어 주고 싶어」"
+
+[[dialogue]]
+speaker = "シズハ"
+original = "「え……？」"
+translation = "「에……?」"
+
+[[dialogue]]
+speaker = "サーシャ（覚醒）"
+original = "「だって、せっかく仲良くなったんだもの」"
+translation = "「왜냐면 모처럼 친해졌는걸」"
+
+[[dialogue]]
+speaker = "サーシャ（覚醒）"
+original = "「年上の『お姉さん』として優しくする分には、別に何の問題もないでしょう？」"
+translation = "「연상의 『언니』로서 상냥하게 대하는 것 정도는 별로 문제없잖니?」"
+
+[[dialogue]]
+speaker = "サーシャ（覚醒）"
+original = "「あなたは私の、可愛い後輩なんだから」"
+translation = "「너는 나의 귀여운 후배니까」"
+
+[[dialogue]]
+speaker = "unk"
+original = "そう言って優しく、シズハの頭を撫でる。"
+translation = "그렇게 말하며 부드럽게 시즈하의 머리를 쓰다듬는다."
+
+[[dialogue]]
+speaker = "シズハ"
+original = "「サーシャさん……」"
+translation = "「사샤 씨……」"
+
+[[dialogue]]
+speaker = "サーシャ（覚醒）"
+original = "「ね、シズハちゃん。もう１度、ここから私と仲良くしてくれるかしら？」"
+translation = "「자, 시즈하짱. 다시 한번 여기서부터 나랑 사이좋게 지내줄래?」"
+
+[[dialogue]]
+speaker = "シズハ"
+original = "「はい……はい……！\u3000だって私……」"
+translation = "「네…… 네……! 왜냐면 저……」"
+
+[[dialogue]]
+speaker = "シズハ"
+original = "「サーシャさんのこと、大好きですから……！」"
+translation = "「사샤 씨를 정말 좋아하니까요……!」"
+
+[[dialogue]]
+speaker = "サーシャ（覚醒）"
+original = "「ありがとう。私もよ」"
+translation = "「고마워. 나도란다」"
+
+[[dialogue]]
+speaker = "unk"
+original = "そうして、２人は嬉しそうに、しばらく抱き合うのだった――"
+translation = "그렇게 두 사람은 기쁜 듯이 한동안 서로 껴안고 있었다――"
+
+[[dialogue]]
+speaker = "unk"
+original = "それから、シズハが落ち着いた後。"
+translation = "그 후 시즈하가 진정된 뒤."
+
+[[dialogue]]
+speaker = "unk"
+original = "サーシャさんの手を取って立ち上がり、彼女は照れ臭そうな笑顔を浮かべてみせた。"
+translation = "사샤 씨의 손을 잡고 일어나며 그녀는 쑥스러운 듯한 미소를 지어 보였다."
+
+[[dialogue]]
+speaker = "シズハ"
+original = "「その……サーシャさん、会長、なんか……色々とご迷惑をお掛けしました」"
+translation = "「그…… 사샤 씨, 회장, 저기…… 여러모로 폐를 끼쳤습니다」"
+
+[[dialogue]]
+speaker = "unk"
+original = "いいさ。こういうのはお互い様だよ"
+translation = "괜찮아. 이런 건 서로 돕고 사는 거지"
+
+[[dialogue]]
+speaker = "シズハ"
+original = "「ありがとう。会長」"
+translation = "「고마워요. 회장」"
+
+[[dialogue]]
+speaker = "ディーラック"
+original = "「ひひっ♪\u3000シズハちゃん、元気になったみたいでよかったね～」"
+translation = "「히힛♪ 시즈하짱, 기운을 차린 것 같아서 다행이라네~」"
+
+[[dialogue]]
+speaker = "シズハ"
+original = "「うん！\u3000もう大丈夫！\u3000ここからは私、名誉挽回で頑張るよ！」"
+translation = "「응! 이제 괜찮아! 이제부터는 나, 명예 회복을 위해 열심히 할게!」"
+
+[[dialogue]]
+speaker = "サーシャ（覚醒）"
+original = "「あとは『解放』のロストアイテムを回収するだけね」"
+translation = "「남은 건 『해방』의 로스트 아이템을 회수하는 것뿐이네」"
+
+[[dialogue]]
+speaker = "サチ"
+original = "「いえ、それについてはもう既に回収済です」"
+translation = "「아니요, 그것에 대해서는 이미 회수 완료했습니다」"
+
+[[dialogue]]
+speaker = "シズハ"
+original = "「サチちゃん！\u3000プリムラちゃんも！」"
+translation = "「사치짱! 프리뮬라짱도!」"
+
+[[dialogue]]
+speaker = "プリムラ"
+original = "「おう。どうやらそっちも、知らぬ間に色々あったようじゃな」"
+translation = "「오냐. 아무래도 그쪽도 모르는 사이에 여러 일이 있었던 모양이구나」"
+
+[[dialogue]]
+speaker = "シズハ"
+original = "「ロストアイテムを２人が回収したなら、今回は、これにて一件落着ってことでいいのかな？」"
+translation = "「로스트 아이템을 두 사람이 회수했다면 이번에는 이걸로 사건 해결이라고 봐도 되는 걸까?」"
+
+[[dialogue]]
+speaker = "サチ"
+original = "「いいえ。残念ながら、まだ終わりではありません」"
+translation = "「아니요. 안타깝게도 아직 끝이 아닙니다」"
+
+[[dialogue]]
+speaker = "サーシャ（覚醒）"
+original = "「あら？\u3000それってどういう……？」"
+translation = "「어머나? 그건 무슨……?」"
+
+[[dialogue]]
+speaker = "サチ"
+original = "「シズハちゃんの聖杯が暴走していたのは――『解放』のロストアイテムが原因ではないからです」"
+translation = "「시즈하짱의 성배가 폭주하고 있었던 건―― 『해방』의 로스트 아이템 때문이 아니기 때문이에요」"
+
+[[dialogue]]
+speaker = "unk"
+original = "サチは俺たちにそう告げるのだった――"
+translation = "사치는 우리에게 그렇게 알리는 것이었다――"
+

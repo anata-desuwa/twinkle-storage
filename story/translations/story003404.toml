@@ -1,0 +1,465 @@
+[[dialogue]]
+speaker = "unk"
+original = "こちらの世界に来てからずっと、ステラは星徒会室に引きこもって生活している。"
+translation = "이쪽 세계에 오고 나서 줄곧 스텔라는 성도회실에 틀어박혀 생활하고 있다."
+
+[[dialogue]]
+speaker = "unk"
+original = "人と接するのが苦手という話なので、あまり干渉するつもりはなかったのだが──"
+translation = "사람과 접하는 게 서투르다는 이야기라 별로 간섭할 생각은 없었지만──"
+
+[[dialogue]]
+speaker = "unk"
+original = "ここまで星徒会室に閉じこもったままだと流石に不健康だと思い、ラファエロに相談してステラを散歩に連れ出すことにした。"
+translation = "이렇게까지 성도회실에 갇혀만 있는 건 역시 건강에 좋지 않다고 생각되어 라파엘로와 상담해 스텔라를 산책에 데리고 나가기로 했다."
+
+[[dialogue]]
+speaker = "unk"
+original = "というわけで、本日はルリエルと赤ちゃんクマロボも交えて５人（？）で秋葉原まで連れ立ってきていた。"
+translation = "그리하여 오늘은 루리엘과 아기 곰 로봇도 섞여서 5명(?)이서 아키하바라까지 동행해 와 있었다."
+
+[[dialogue]]
+speaker = "unk"
+original = "たまには外に出てみるのもいいだろ？"
+translation = "가끔은 밖에 나와 보는 것도 괜찮지?"
+
+[[dialogue]]
+speaker = "unk"
+original = "ステラ、どう？"
+translation = "스텔라, 어때?"
+
+[[dialogue]]
+speaker = "ステラ"
+original = "「……人がいっぱいで怖いです」"
+translation = "「……사람이 너무 많아서 무서워요」"
+
+[[dialogue]]
+speaker = "ラファエロ"
+original = "「そうだね。思っていた以上に大勢の人であふれているよ」"
+translation = "「그렇네. 생각했던 것 이상으로 많은 사람으로 붐비고 있어」"
+
+[[dialogue]]
+speaker = "ラファエロ"
+original = "「けれど、みんな忙しなく先を急いでいる様子だ。きみに奇異の目を向ける者はいないようだよ？」"
+translation = "「하지만 다들 바쁘게 앞을 서두르는 모양이야. 너에게 기이한 시선을 보내는 자는 없는 것 같은데?」"
+
+[[dialogue]]
+speaker = "ステラ"
+original = "「そ、そうですね……」"
+translation = "「그, 그렇네요……」"
+
+[[dialogue]]
+speaker = "ラファエロ"
+original = "「それにしても圧巻だね！\u3000巨大な建物が立ち並んでいて……とても興味深い街だ」"
+translation = "「그나저나 압권이네! 거대한 건물들이 늘어서 있고…… 아주 흥미로운 거리야」"
+
+[[dialogue]]
+speaker = "ステラ"
+original = "「はい……それに、変な乗り物がたくさん走ってます……」"
+translation = "「네…… 게다가 이상한 탈것들이 잔뜩 달리고 있어요……」"
+
+[[dialogue]]
+speaker = "ラファエロ"
+original = "「ぼくの知るどんな都市とも様子が違っているよ」"
+translation = "「내가 아는 어떤 도시와도 모습이 달라」"
+
+[[dialogue]]
+speaker = "unk"
+original = "以前にアルテがこの世界にやってきた時、１番興味を示していたのがこの秋葉原だった。"
+translation = "이전에 알테가 이 세계에 왔을 때 가장 흥미를 보였던 것이 이곳 아키하바라였다."
+
+[[dialogue]]
+speaker = "unk"
+original = "だから同じ藝術家であるラファエロも興味を示してくれるのではないか。お出かけ先に秋葉原を選んだのは、そういった理由からだった。"
+translation = "그래서 같은 예술가인 라파엘로도 흥미를 보여주지 않을까. 나들이 장소로 아키하바라를 고른 것은 그런 이유에서였다."
+
+[[dialogue]]
+speaker = "unk"
+original = "その時のことをラファエロに話すと、納得したように頷く。"
+translation = "그때의 일을 라파엘로에게 말하자 납득한 듯 고개를 끄덕인다."
+
+[[dialogue]]
+speaker = "ラファエロ"
+original = "「そうだったんだね、ありがとう。確かに創作意欲を刺激されるような面白い絵が街のあちこちに飾られている。目を輝かせているアルテの姿が浮かんでくるよ」"
+translation = "「그랬구나, 고마워. 확실히 창작 의욕을 자극할 만한 재미있는 그림들이 거리 곳곳에 장식되어 있어. 눈을 빛내고 있는 알테의 모습이 떠오르네」"
+
+[[dialogue]]
+speaker = "ラファエロ"
+original = "「中々にすごい街ではあるが……１点だけ欠けているものがある」"
+translation = "「상당히 대단한 거리긴 하지만…… 딱 한 가지 부족한 게 있어」"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「ほうほう、それは何でしょう？」"
+translation = "「호오호오, 그게 뭔가요?」"
+
+[[dialogue]]
+speaker = "ラファエロ"
+original = "「決まっているじゃないか、ぼくの絵だよ！」"
+translation = "「정해져 있잖아, 내 그림이야!」"
+
+[[dialogue]]
+speaker = "ラファエロ"
+original = "「この華やかな街並みに天才藝術家たるぼくの絵を加えれば完璧なものになる。そうは思わないかい？」"
+translation = "「이 화려한 거리 풍경에 천재 예술가인 내 그림을 더하면 완벽해질 거야. 그렇게 생각하지 않니?」"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「ラファエロさんの絵って、あの流星寮のロビーに新しく飾られた絵ですよね？」"
+translation = "「라파엘로 씨의 그림이라면 그 유성 기숙사 로비에 새로 장식된 그림 말이죠?」"
+
+[[dialogue]]
+speaker = "ラファエロ"
+original = "「その通りさ！」"
+translation = "「바로 그거야!」"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「きれいな絵だなーって思いますけど、秋葉原の街には合わないんじゃないでしょうか？」"
+translation = "「예쁜 그림이라고 생각하지만 아키하바라 거리에는 어울리지 않지 않을까요?」"
+
+[[dialogue]]
+speaker = "ラファエロ"
+original = "「そんな事はない。そうだね……あの高い建物の壁辺りなんかはどうだろう？」"
+translation = "「그럴 리 없어. 그래…… 저 높은 건물 벽 쪽 같은 데는 어떨까?」"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「ラファエロさん、そんなことをしたら、お金がたくさんかかっちゃうのです！」"
+translation = "「라파엘로 씨, 그런 짓을 하면 돈이 엄청 많이 든단 말이에요!」"
+
+[[dialogue]]
+speaker = "ラファエロ"
+original = "「そうだね、天才ラファエロの絵を飾るのだから、それなりのお金はかかるかもしれない」"
+translation = "「그렇겠지, 천재 라파엘로의 그림을 장식하는 거니까 그 나름대로 돈은 들지도 몰라」"
+
+[[dialogue]]
+speaker = "ラファエロ"
+original = "「だが今回は、ぼくの名をこの世界に売り込むという意味もある。無料で作品を提供してもいいと思っているよ」"
+translation = "「하지만 이번에는 내 이름을 이 세계에 알린다는 의미도 있어. 무료로 작품을 제공해도 좋다고 생각하고 있어」"
+
+[[dialogue]]
+speaker = "unk"
+original = "あ～、そうじゃなくてですね……"
+translation = "아~, 그게 아니라요……"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「人間界で学んだことを、ルリエルが教えてあげるのです！！」"
+translation = "「인간계에서 배운 것을 루리엘이 가르쳐 드릴게요!!」"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「街のああいったところに絵を貼りだすには、貼りたい人がたくさんお金を払わないといけないのです！」"
+translation = "「거리의 저런 곳에 그림을 게시하려면 붙이고 싶은 사람이 돈을 많이 내야 하는 거예요!」"
+
+[[dialogue]]
+speaker = "ラファエロ"
+original = "「なん、だって……！？」"
+translation = "「뭐, 라고……!?」"
+
+[[dialogue]]
+speaker = "ラファエロ"
+original = "「この世界はもしかして、アテネスと比べて芸術が軽んじられてしまっているのかい！？」"
+translation = "「이 세계는 혹시 아테네스와 비교해서 예술이 경시되고 있는 거니!?」"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「ルリエルも最初はびっくりしたのです！\u3000でも人間界では、絵を勝手に貼ったり飾ったりしたらダメなのですよ！」"
+translation = "「루리엘도 처음엔 깜짝 놀랐어요! 하지만 인간계에서는 그림을 마음대로 붙이거나 장식하면 안 된단 말이에요!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "大勢に周知するためにお金が払われるんです"
+translation = "많은 사람에게 알리기 위해 돈을 지불하는 거예요"
+
+[[dialogue]]
+speaker = "unk"
+original = "あれは『広告』というもので……"
+translation = "저건 『광고』라는 거라서……"
+
+[[dialogue]]
+speaker = "ラファエロ"
+original = "「ふむふむ。なかなか面白い仕組みだね。確かに、これだけの人が目にするなら、そういった商売も成り立つか」"
+translation = "「흠흠. 꽤 재미있는 구조네. 확실히 이만큼의 사람이 눈에 담는다면 그런 장사도 성립하겠어」"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「だからラファエロさんがどれだけ偉大な藝術家でも、お金がかかってしまうのです！」"
+translation = "「그러니까 라파엘로 씨가 아무리 위대한 예술가라도 돈이 드는 거예요!」"
+
+[[dialogue]]
+speaker = "ラファエロ"
+original = "「そうだったんだね。だが、それなら何の問題もなさそうだ」"
+translation = "「그랬구나. 하지만 그렇다면 아무 문제 없을 것 같네」"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「え、そうなのですか？」"
+translation = "「에, 그런가요?」"
+
+[[dialogue]]
+speaker = "ラファエロ"
+original = "「ぼくの作品が人々の目に留まり、評価を受ける」"
+translation = "「내 작품이 사람들의 눈에 띄어 평가를 받는다」"
+
+[[dialogue]]
+speaker = "ラファエロ"
+original = "「そうすれば多くのパトロンが集まるはずだ。その人たちに出資してもらえればいいだけのことさ」"
+translation = "「그러면 많은 후원자가 모일 거야. 그 사람들에게 출자를 받으면 될 일이지」"
+
+[[dialogue]]
+speaker = "ステラ"
+original = "「す、すごい自信です……」"
+translation = "「어, 엄청난 자신감이에요……」"
+
+[[dialogue]]
+speaker = "ラファエロ"
+original = "「どうだい、きみにもその未来が見えるだろう？」"
+translation = "「어때, 너에게도 그 미래가 보이지?」"
+
+[[dialogue]]
+speaker = "赤ちゃんクマロボ"
+original = "「ばぶー<emoji=heart04>」"
+translation = "「바부ー<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "ラファエロ"
+original = "「見たまえ。将来有望な赤ちゃんの、この賞賛の眼差しを！」"
+translation = "「보렴. 장래가 유망한 아기의 이 찬양하는 눈빛을!」"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「いえ、赤ちゃんクマロボさんはお腹が空いただけみたいなのです！」"
+translation = "「아니요, 아기 곰 로봇 씨는 배가 고파진 것뿐인 것 같아요!」"
+
+[[dialogue]]
+speaker = "赤ちゃんクマロボ"
+original = "「ばぶー<emoji=heart04>」"
+translation = "「바부ー<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "ラファエロ"
+original = "「ふふっ……この子にはまだ難しい話だったかな」"
+translation = "「후훗…… 이 아이에게는 아직 어려운 이야기였나 보네」"
+
+[[dialogue]]
+speaker = "unk"
+original = "とりあえず何か食べようか"
+translation = "일단 뭐 좀 먹을까"
+
+[[dialogue]]
+speaker = "unk"
+original = "俺たちは通りを歩きながら、目についたレストランに入った。"
+translation = "우리들은 거리를 걷다가 눈에 띈 레스토랑에 들어갔다."
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「はい、赤ちゃんクマロボさ～ん。ごはんですよ～♪」"
+translation = "「자, 아기 곰 로봇 씨~. 밥이에요~♪」"
+
+[[dialogue]]
+speaker = "赤ちゃんクマロボ"
+original = "「ばぶー<emoji=heart04>」"
+translation = "「바부ー<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「上手に食べれましたね～、えらいえらいです～<emoji=heart04>」"
+translation = "「잘 먹네요~, 기특해라 기특해~<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "ステラ"
+original = "「で、では次はボクが食べさせますね！\u3000はい、あ～んしてください♪」"
+translation = "「그, 그럼 다음은 내가 먹여줄게요! 자, 아~ 하세요♪」"
+
+[[dialogue]]
+speaker = "ラファエロ"
+original = "「ん、どうしたんだい会長？\u3000さっきから不思議そうな顔をして」"
+translation = "「음, 왜 그러니 회장? 아까부터 신기하다는 얼굴을 하고」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ロボットなのにご飯を食べるんだなって"
+translation = "로봇인데 밥을 먹는구나 싶어서"
+
+[[dialogue]]
+speaker = "unk"
+original = "あ、いや……"
+translation = "아, 아니……"
+
+[[dialogue]]
+speaker = "ラファエロ"
+original = "「確かに、言われてみれば不思議だね」"
+translation = "「확실히 듣고 보니 신기하네」"
+
+[[dialogue]]
+speaker = "ステラ"
+original = "「ですけど……ほら、美味しそうに食べてますよ？」"
+translation = "「그치만…… 보세요, 맛있게 먹고 있잖아요?」"
+
+[[dialogue]]
+speaker = "赤ちゃんクマロボ"
+original = "「ばぶー<emoji=heart04>」"
+translation = "「바부ー<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「この子も嬉しそうですし、問題ありませんよ、会長さん♪」"
+translation = "「이 아이도 기뻐 보이고 문제없어요, 회장님♪」"
+
+[[dialogue]]
+speaker = "unk"
+original = "うーん、そうだろうか……"
+translation = "으음, 그럴까……"
+
+[[dialogue]]
+speaker = "unk"
+original = "一度、疑問に思ってしまうと、なぜかその事が引っかかってしまう。"
+translation = "한번 의문이 생기자 왠지 그 점이 계속 마음에 걸린다."
+
+[[dialogue]]
+speaker = "赤ちゃんクマロボ"
+original = "「ばぶー<emoji=heart04>」"
+translation = "「바부ー<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "unk"
+original = "まあ、気にすることでもないか……"
+translation = "뭐, 신경 쓸 일도 아닌가……"
+
+[[dialogue]]
+speaker = "unk"
+original = "赤ちゃんクマロボは元気だし、それをお世話している３人も楽しそうだし……特に問題が起きていないのならそれで──"
+translation = "아기 곰 로봇은 건강하고 그걸 돌보는 세 사람도 즐거워 보이고…… 딱히 문제가 일어나지 않는다면 그걸로──"
+
+[[dialogue]]
+speaker = "ステラ"
+original = "「こんなに外を歩き回ったのは久しぶりな気がします。えへへ、頑張った頑張った」"
+translation = "「이렇게 밖을 돌아다닌 건 오랜만인 기분이 들어요. 에헤헤, 열심히 했다 열심히 했어」"
+
+[[dialogue]]
+speaker = "ステラ"
+original = "「これはもう頑張ったご褒美に、お菓子を食べながらゴロゴロするしかありませんね♪」"
+translation = "「이건 이제 열심히 한 보상으로 과자를 먹으면서 뒹굴뒹굴할 수밖에 없겠네요♪」"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「ステラさん……人前が苦手というより、ただ単にぐうたらするのが好きなんじゃないですか？」"
+translation = "「스텔라 씨…… 사람들 앞이 서투르다기보다 그냥 단순히 빈둥거리는 걸 좋아하는 거 아니에요?」"
+
+[[dialogue]]
+speaker = "ステラ"
+original = "「そ、そんなことはありませんよ！\u3000今お菓子を用意しますから、ラファエロさんもゆっくりしていってください」"
+translation = "「그, 그렇지 않아요! 지금 과자 준비할 테니까 라파엘로 씨도 쉬다 가세요」"
+
+[[dialogue]]
+speaker = "unk"
+original = "一応ここ、星徒会室だからね"
+translation = "일단 여기 성도회실이니까 말이야"
+
+[[dialogue]]
+speaker = "ステラ"
+original = "「はっ！\u3000すみません……もう我が家のような感覚になってしまっていました……」"
+translation = "「핫! 죄송합니다…… 벌써 우리 집 같은 감각이 되어버렸어요……」"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「とはいえ、流星星徒会も暇なときはお菓子を食べながらゲームしているのです！\u3000新星星徒会もそんな感じじゃないですか？」"
+translation = "「그렇긴 해도 유성 성도회도 한가할 때는 과자 먹으면서 게임한단 말이에요! 신성 성도회도 그런 느낌 아니에요?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "否定できない事実ではあるものの、ルリエルに指摘されるのは何故か<ruby>釈然<rt>しゃくぜん</rt></ruby>としない気持ちが残る……！"
+translation = "부정할 수 없는 사실이긴 하지만 루리엘에게 지적받는 건 왠지 석연치 않은 기분이 남는다……!"
+
+[[dialogue]]
+speaker = "ステラ"
+original = "「ん……？\u3000あ、あれ……？」"
+translation = "「응……? 어, 어라……?」"
+
+[[dialogue]]
+speaker = "ラファエロ"
+original = "「どうかしたのかい、ステラ？」"
+translation = "「무슨 일이니, 스텔라?」"
+
+[[dialogue]]
+speaker = "ステラ"
+original = "「こちらの棚に、買い込んだお菓子を入れておいたんですが……全部なくなっちゃってます……」"
+translation = "「이쪽 선반에 사다 둔 과자를 넣어뒀는데…… 전부 없어져 버렸어요……」"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「間違って誰かが食べちゃったんですかね？」"
+translation = "「실수로 누가 먹어버린 걸까요?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "いや、そんなはずは……"
+translation = "아니, 그럴 리가……"
+
+[[dialogue]]
+speaker = "unk"
+original = "星徒会のメンバーは出払ってしまっていて、今学園に残っているのは俺だけだ。"
+translation = "성도회 멤버들은 다 나가고 없고 지금 학원에 남아 있는 건 나뿐이다."
+
+[[dialogue]]
+speaker = "unk"
+original = "つまり星徒会室に出入りしているのはここにいるメンバーだけで、誰かが間違って食べてしまった、ということはないはずだ。"
+translation = "즉 성도회실에 드나드는 건 여기 있는 멤버들뿐이라 누군가 실수로 먹어버렸을 리는 없을 터다."
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「そういえば！\u3000お菓子がないと言えばなんですけど……」"
+translation = "「그러고 보니! 과자가 없다는 말이 나와서 말인데……」"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「最近、流星学園と新星学園の両方で、物がなくなる事件が起きてるみたいです～」"
+translation = "「최근 유성학원과 신성학원 양쪽에서 물건이 없어지는 사건이 일어나고 있는 모양이에요~」"
+
+[[dialogue]]
+speaker = "unk"
+original = "それは初耳だな"
+translation = "그건 처음 듣는 소리네"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「会長さんも学園掲示板をチェックするのです！\u3000ほら、ここに書いてありますよ」"
+translation = "「회장님도 학원 게시판을 체크해 보세요! 자, 여기 써 있어요」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ルリエルに言われて<ruby>ＤＩＳＣ<rt>ディスク</rt></ruby>で掲示板をチェックしてみると、そこでは確かに物がなくなったという書き込みがいくつも見つけられた。"
+translation = "루리엘의 말에 DISC로 게시판을 체크해 보니 그곳에는 확실히 물건이 없어졌다는 글이 여럿 발견되었다."
+
+[[dialogue]]
+speaker = "unk"
+original = "書き込みは新星学園の生徒と流星学園の生徒がほぼ均等で、起きている場所も不特定、いろいろな場所で起きているようだった。"
+translation = "글은 신성학원 학생과 유성학원 학생이 거의 균등했고 일어나는 장소도 특정되지 않은 채 여러 곳에서 일어나는 모양이었다."
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「たまたま、そういう事が重なってるってだけなんですかねぇ……？」"
+translation = "「우연히 그런 일이 겹친 것뿐일까요……?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "とりあえず皆に注意をうながそう"
+translation = "일단 모두에게 주의를 주자"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「了解なのです！\u3000流星学園の方でもやっておきます～」"
+translation = "「알겠습니다! 유성학원 쪽에서도 해둘게요~」"
+
+[[dialogue]]
+speaker = "unk"
+original = "星徒会からアナウンスを入れれば収まる程度の事件だと、この時の俺は軽く考えてしまっていた。"
+translation = "성도회에서 공지를 올리면 가라앉을 정도의 사건이라고 이때의 나는 가볍게 생각하고 있었다."
+
+[[dialogue]]
+speaker = "unk"
+original = "平穏に見える日常の裏で、事態が進行していることも知らずに──"
+translation = "평온해 보이는 일상의 이면에서 사태가 진행되고 있는 줄도 모르고──"
+

@@ -1,0 +1,275 @@
+[[dialogue]]
+speaker = "アニュラス"
+original = "「ではそろそろ、本題に入ろうか。具体的な計画について話していこう。寮長殿からのオーダーは確か……」"
+translation = "「그럼 슬슬, 본론으로 들어갈까. 구체적인 계획에 대해 이야기해보지. 기숙사장님으로부터의 오더는 분명……」"
+
+[[dialogue]]
+speaker = "舞亜"
+original = "「『流星寮の品格に相応しいクリスマスパーティー』って言ってたけど、それって具体的にどういうこと？」"
+translation = "「『유성 기숙사의 품격에 어울리는 크리스마스 파티』라고 했는데, 그건 구체적으로 어떤 거야?」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「楽しいだけじゃダメなのか？」"
+translation = "「즐겁기만 해서는 안 되는 건가?」"
+
+[[dialogue]]
+speaker = "アニュラス"
+original = "「パーティーが楽しいのは当然だからな、加えて格式高いパーティーであることを求められているのだろう」"
+translation = "「파티가 즐거운 것은 당연하니까 말이다, 거기에 더해 격식 높은 파티일 것을 요구받고 있는 것이겠지.」"
+
+[[dialogue]]
+speaker = "unk"
+original = "例えば？"
+translation = "예를 들면?"
+
+[[dialogue]]
+speaker = "アニュラス"
+original = "「そうだな……伝統に則った儀式や厳かな精神性を求めているのではないか？」"
+translation = "「글쎄…… 전통에 입각한 의식이나 엄숙한 정신성을 구하고 있는 것이 아닐까?」"
+
+[[dialogue]]
+speaker = "アニュラス"
+original = "「クリスマスの歴史を紐解き、古くから行われていた行事を踏襲してみるのはどうだろうか」"
+translation = "「크리스마스의 역사를 짚어보고, 옛날부터 행해지던 행사를 답습해 보는 건 어떨까 싶군.」"
+
+[[dialogue]]
+speaker = "アニュラス"
+original = "「詳細はこれから練っていくとして、まず最初に寮長殿の挨拶、その後皆で聖歌の合唱、食事も聖餐と呼ばれる特別メニューを用意して……」"
+translation = "「상세한 건 앞으로 다듬어가기로 하고, 우선 맨 처음에 기숙사장님의 인사, 그 후 다 함께 성가 합창, 식사도 성찬이라 불리는 특별 메뉴를 준비해서……」"
+
+[[dialogue]]
+speaker = "舞亜"
+original = "「アニュラスはそういうのが好きなの？」"
+translation = "「아뉴라스는 그런 걸 좋아해?」"
+
+[[dialogue]]
+speaker = "アニュラス"
+original = "「んん……特に考えたことはなかったが、歴史ある儀式には興味が湧く」"
+translation = "「음…… 딱히 생각해 본 적은 없지만, 역사 있는 의식에는 흥미가 생기는군.」"
+
+[[dialogue]]
+speaker = "舞亜"
+original = "「例えば……叙爵式とかそういうかっこいい感じとか？」"
+translation = "「예를 들면…… 서작식이라든가 그런 멋진 느낌 같은 거?」"
+
+[[dialogue]]
+speaker = "アニュラス"
+original = "「そうだな！\u3000クリスマスもかくあるべきだと思う。世俗に塗れた騒がしい宴ではなく、静かに祈りを捧げることこそ、寮長殿が求めたものだろう」"
+translation = "「그렇지! 크리스마스도 마땅히 그래야 한다고 생각한다. 세속에 찌든 시끄러운 연회가 아니라, 조용히 기도를 올리는 것이야말로 기숙사장님이 원하시는 것이겠지.」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「うーん……」"
+translation = "「으음……」"
+
+[[dialogue]]
+speaker = "アニュラス"
+original = "「どうしたアポロ、難しい顔をして？」"
+translation = "「왜 그러나 아폴로, 어려운 표정을 짓고?」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「あたしもかっこいいのは好きだ。でも、アニュラスのアイデアは……うーん……」"
+translation = "「나도 멋진 건 좋아한다. 하지만 아뉴라스의 아이디어는…… 으음……」"
+
+[[dialogue]]
+speaker = "アニュラス"
+original = "「ふむ……アポロのイメージするパーティーとは違うのか？」"
+translation = "「흠…… 아폴로가 이미지 하는 파티와는 다른가?」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「パーティーというのはもっと賑やかで楽しい感じのものだろ！」"
+translation = "「파티라는 건 좀 더 북적거리고 즐거운 느낌이잖아!」"
+
+[[dialogue]]
+speaker = "舞亜"
+original = "「言ってることは分かるけど、アニュラスのアイデアはちょっと硬いかもしれないね」"
+translation = "「무슨 말인지는 알겠는데, 아뉴라스의 아이디어는 조금 딱딱할지도 모르겠네.」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「そう、それだ！」"
+translation = "「그래, 그거야!」"
+
+[[dialogue]]
+speaker = "アニュラス"
+original = "「硬い、か……自分でもそういう風に思うことはある」"
+translation = "「딱딱하다, 라…… 스스로도 그렇게 생각할 때가 있다.」"
+
+[[dialogue]]
+speaker = "アニュラス"
+original = "「もっと柔軟な思考を持ちたいところだが……例えばアポロであればどんなパーティーを考える？」"
+translation = "「좀 더 유연한 사고를 갖고 싶다만…… 예를 들어 아폴로라면 어떤 파티를 생각하나?」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「そうだな……例えばトナカイのそりレースなんてどうだ？」"
+translation = "「그렇지…… 예를 들면 루돌프 썰매 레이스 같은 건 어때?」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「トナカイに引かせたそりでレースとか、聞いただけでワクワクしちゃうぜ！」"
+translation = "「루돌프가 끌게 하는 썰매로 레이스라니, 듣기만 해도 두근거린다고!」"
+
+[[dialogue]]
+speaker = "舞亜"
+original = "「確かにワクワクするね。どのトナカイが勝つか予想するのも楽しそう」"
+translation = "「확실히 두근거리네. 어느 루돌프가 이길지 예상하는 것도 즐거워 보여.」"
+
+[[dialogue]]
+speaker = "アニュラス"
+original = "「ああ、だがトナカイやそり、それにレースする場所も確保するのはかなり困難だぞ？」"
+translation = "「아아, 하지만 루돌프나 썰매, 그리고 레이스할 장소도 확보하는 건 꽤 곤란하다구?」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「そこをなんとかするのが実行委員会だ」"
+translation = "「그걸 어떻게든 하는 게 실행위원회지!」"
+
+[[dialogue]]
+speaker = "アニュラス"
+original = "「ふむ、そうか……他には何かあるか？」"
+translation = "「흠, 그런가…… 그 외에 다른 건 있나?」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「実物大のブッシュドノエルとかどうだ？\u3000でっかい丸太のケーキを作ってみんなで食べるんだ！」"
+translation = "「실물 크기의 부슈 드 노엘 같은 건 어때? 커다란 통나무 케이크를 만들어서 다 같이 먹는 거야!」"
+
+[[dialogue]]
+speaker = "アニュラス"
+original = "「そんなに大きなケーキを作って食べきれるのか？」"
+translation = "「그렇게 큰 케이크를 다 먹을 수 있겠나?」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「寮生たくさんいるし大丈夫なんじゃないか？」"
+translation = "「기숙사생들 많이 있으니까 괜찮지 않을까?」"
+
+[[dialogue]]
+speaker = "舞亜"
+original = "「流星寮にはエルゼちゃんもいるしね」"
+translation = "「유성 기숙사에는 엘제 짱도 있으니까 말이야.」"
+
+[[dialogue]]
+speaker = "アニュラス"
+original = "「だったら実物大でも問題なさそうだな」"
+translation = "「그렇다면 실물 크기라도 문제없겠군.」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「あとは巨大クリスマスツリー！\u3000これなら簡単じゃないか？」"
+translation = "「다음은 거대 크리스마스트리! 이거라면 간단하잖아?」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「こういうのがやりたいっていう画像があるんだ、これを見てくれ」"
+translation = "「이런 게 하고 싶다는 이미지가 있어, 이걸 봐줘.」"
+
+[[dialogue]]
+speaker = "アニュラス"
+original = "「……むむ、これは！\u3000天を衝くような巨木だな！」"
+translation = "「……무무, 이것은! 하늘을 찌를 듯한 거목이군!」"
+
+[[dialogue]]
+speaker = "舞亜"
+original = "「ツリーが高すぎると飾り付けをするのが大変そうだね」"
+translation = "「트리가 너무 높으면 장식하는 게 힘들 것 같네.」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「飛べるやつばっかりなんだから問題ないだろ」"
+translation = "「날 수 있는 녀석들뿐이니까 문제없잖아.」"
+
+[[dialogue]]
+speaker = "アニュラス"
+original = "「そうだな……。しかし、このような巨木、どこから調達するんだ？\u3000置き場にも困るだろう」"
+translation = "「그렇군……. 하지만 이런 거목을 어디서 조달하지? 둘 곳도 마땅치 않을 텐데.」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「寮の外にでーんと立てよう！」"
+translation = "「기숙사 밖에 떡하니 세우자!」"
+
+[[dialogue]]
+speaker = "舞亜"
+original = "「寮長さんは派手なの好きそうだし、千園寺家パワーで何とかしちゃうんじゃない？」"
+translation = "「기숙사장님은 화려한 거 좋아하실 것 같고, 치온지 가문의 파워로 어떻게든 해버리지 않을까?」"
+
+[[dialogue]]
+speaker = "アニュラス"
+original = "「なるほどな……アポロの抱いているクリスマスパーティーのイメージは何となく分かった」"
+translation = "「과연…… 아폴로가 품고 있는 크리스마스 파티의 이미지는 대충 알겠다.」"
+
+[[dialogue]]
+speaker = "アニュラス"
+original = "「だが、それらは寮長殿の『流星寮の品格に相応しいクリスマスパーティー』という要望に沿わないのではないか？」"
+translation = "「하지만 그것들은 기숙사장님의 『유성 기숙사의 품격에 어울리는 크리스마스 파티』라는 요망에 부합하지 않는 것 아닌가?」"
+
+[[dialogue]]
+speaker = "舞亜"
+original = "「まあ、それは……多分沿わないと思う」"
+translation = "「뭐, 그건…… 아마 부합하지 않을 것 같아.」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「でも格式とかにこだわって、面白くないパーティーになったら本末テントーってやつじゃないか」"
+translation = "「하지만 격식 같은 거에 집착하다가 재미없는 파티가 되면 본말전도잖아.」"
+
+[[dialogue]]
+speaker = "アニュラス"
+original = "「それはその通りだ……うーん……」"
+translation = "「그건 맞는 말이다…… 으음……」"
+
+[[dialogue]]
+speaker = "舞亜"
+original = "「とりあえず色々アイデアは出たし、今日はこんな所でいいんじゃない？」"
+translation = "「일단 여러 가지 아이디어는 나왔고, 오늘은 이쯤에서 끝내면 되지 않을까?」"
+
+[[dialogue]]
+speaker = "アニュラス"
+original = "「そうだな、一度持ち帰ってアイデアを練ってこよう」"
+translation = "「그렇군, 일단 돌아가서 아이디어를 다듬어 오지.」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「わかった、次に集まる時までにあたしも考えてくる」"
+translation = "「알았어, 다음에 모일 때까지 나도 생각해 올게.」"
+
+[[dialogue]]
+speaker = "unk"
+original = "次に集まる日を決めて、第１回流星寮クリスマスパーティー実行委員会の初回の会合は終わった。"
+translation = "다음에 모일 날짜를 정하고, 제1회 유성 기숙사 크리스마스 파티 실행위원회의 첫 회합은 끝났다."
+
+[[dialogue]]
+speaker = "unk"
+original = "アニュラスの抱くパーティーのイメージと、アポロの抱くパーティーのイメージ。"
+translation = "아뉴라스가 품은 파티의 이미지와, 아폴로가 품은 파티의 이미지."
+
+[[dialogue]]
+speaker = "unk"
+original = "それが全く逆の方向を向いていて、これをまとめるのは難航しそうな予感があった──"
+translation = "그것이 완전히 정반대 방향을 향하고 있어, 이것을 정리하는 것은 난항을 겪을 것 같은 예감이 들었다──"
+
+[[dialogue]]
+speaker = "舞亜"
+original = "「会長さん♪」"
+translation = "「회장님♪」"
+
+[[dialogue]]
+speaker = "unk"
+original = "どうしたの？"
+translation = "무슨 일이야?"
+
+[[dialogue]]
+speaker = "unk"
+original = "舞亜？"
+translation = "마이아?"
+
+[[dialogue]]
+speaker = "舞亜"
+original = "「ちょっと考え事に付き合って欲しくて、この後いいかな？」"
+translation = "「생각할 게 좀 있어서 같이 있어 줬으면 하는데, 이따가 시간 괜찮아?」"
+

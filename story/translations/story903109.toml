@@ -1,0 +1,295 @@
+[[dialogue]]
+speaker = "unk"
+original = "１週間が経って、オムニスが正気に戻った陽彩を連れて帰ってきた。"
+translation = "일주일이 지나고, 옴니스가 제정신으로 돌아온 아키사를 데리고 돌아왔다."
+
+[[dialogue]]
+speaker = "陽彩"
+original = "「ごめん……ぼくの好奇心のせいで、きみたちをとんでもない目に遭わせてしまった」"
+translation = "「미안…… 내 호기심 때문에 너희를 엄청난 일에 휘말리게 했어」"
+
+[[dialogue]]
+speaker = "いろは"
+original = "「いいのいいの、気にしないで～」"
+translation = "「괜찮아 괜찮아, 신경 쓰지 마~」"
+
+[[dialogue]]
+speaker = "花織"
+original = "「陽彩ちゃんがそういう性格だっていうことは、今に始まった話じゃないしね」"
+translation = "「아키사 짱이 그런 성격이라는 건 어제오늘 일도 아니니까 말야」"
+
+[[dialogue]]
+speaker = "ここあ"
+original = "「初めて悪魔に襲われた時も、巷の『アクマカクシ』の真相を解き明かそうとして巻き込まれたんだっけ～？」"
+translation = "「처음 악마에게 습격당했을 때도 세간의 『악마 카쿠시』 진상을 밝혀내려다 휘말렸었지~?」"
+
+[[dialogue]]
+speaker = "いろは"
+original = "「でも無事元に戻ってくれて、本当によかったよ～！」"
+translation = "「아무튼 무사히 원래대로 돌아와 줘서 정말 다행이야!」"
+
+[[dialogue]]
+speaker = "陽彩"
+original = "「うん。ありがとう……」"
+translation = "「응. 고마워……」"
+
+[[dialogue]]
+speaker = "陽彩"
+original = "「そうだ、トレジアンナというのは、どの人だい？」"
+translation = "「그나저나 트레지아나라는 건 어느 분이지?」"
+
+[[dialogue]]
+speaker = "トレジアンナ"
+original = "「はいは～い☆\u3000私がその蒐集の魔法少女、トレジアンナですよ～♪」"
+translation = "「네~네~☆ 제가 그 수집의 마법소녀 트레지아나랍니다~♪」"
+
+[[dialogue]]
+speaker = "陽彩"
+original = "「これが悪魔のロストアイテムの力を移した魔石だ」"
+translation = "「이것이 악마의 로스트 아이템의 힘을 옮긴 마석이다」"
+
+[[dialogue]]
+speaker = "トレジアンナ"
+original = "「ロストアイテム自体はどうなりましたか？」"
+translation = "「로스트 아이템 자체는 어떻게 되었나요?」"
+
+[[dialogue]]
+speaker = "陽彩"
+original = "「魔石がロストアイテムの力を吸い終わるのと同時に、悪魔と共にボロボロに崩れて消えた」"
+translation = "「마석이 로스트 아이템의 힘을 다 빨아들임과 동시에 악마와 함께 너덜너덜하게 부서져 사라졌어」"
+
+[[dialogue]]
+speaker = "陽彩"
+original = "「寄生されていたから感覚でわかるのだが、その力は完全にこの石に移された。今はこれが悪魔のロストアイテムだ」"
+translation = "「기생당했었기에 감각으로 알 수 있는데, 그 힘은 완전히 이 돌로 옮겨졌어. 지금은 이것이 악마의 로스트 아이템이다」"
+
+[[dialogue]]
+speaker = "トレジアンナ"
+original = "「ありがとうございます☆\u3000ではそちらは私の方でお預かりして、完全に封印しておきますね～」"
+translation = "「감사합니다☆ 그럼 그것은 제가 맡아서 완전히 봉인해 둘게요~」"
+
+[[dialogue]]
+speaker = "陽彩"
+original = "「ああ、頼んだ」"
+translation = "「아아, 부탁하지」"
+
+[[dialogue]]
+speaker = "オムニス"
+original = "「後は元の世界に戻るだけだが……もう一度、俺たち全員を元の世界に送ることは出来るのか？」"
+translation = "「남은 건 원래 세계로 돌아가는 것뿐이다만…… 다시 한번 우리 모두를 원래 세계로 보낼 수 있는 건가?」"
+
+[[dialogue]]
+speaker = "トレジアンナ"
+original = "「ええ、もちろん大丈夫ですよ☆\u3000お任せ下さい！」"
+translation = "「네, 물론 괜찮아요☆ 맡겨주세요!」"
+
+[[dialogue]]
+speaker = "花織"
+original = "「ほっ……良かったぁ～」"
+translation = "「휴우…… 다행이다~」"
+
+[[dialogue]]
+speaker = "いろは"
+original = "「それじゃあもう帰らなきゃか～……せっかくみんなとも仲良くなれたのに～」"
+translation = "「그럼 이제 돌아가야 하는 건가~…… 겨우 모두랑 친해졌는데~」"
+
+[[dialogue]]
+speaker = "ここあ"
+original = "「とはいえ、ここあたちが居なくなったままじゃ、他のみんなも心配してるだろうし……そろそろ帰らなきゃじゃない？」"
+translation = "「그렇긴 해도 코코아들이 없어진 채로 있으면 다른 애들도 걱정할 거고…… 슬슬 돌아가야 하지 않겠어?」"
+
+[[dialogue]]
+speaker = "いろは"
+original = "「うん、それもそうだねっ」"
+translation = "「응, 그것도 그렇네」"
+
+[[dialogue]]
+speaker = "いろは"
+original = "「サチちゃん、プリちゃん、アンナちゃん、シズシズ、またね♪」"
+translation = "「사치 짱, 프리 짱, 안나 짱, 시즈시즈, 또 봐♪」"
+
+[[dialogue]]
+speaker = "花織"
+original = "「いろいろお世話になりました、ありがとう！」"
+translation = "「여러모로 신세 많이 졌어, 고마워!」"
+
+[[dialogue]]
+speaker = "サチ"
+original = "「いえ、こちらこそ楽しかったです。いい経験になりました」"
+translation = "「아뇨, 저희야말로 즐거웠습니다. 좋은 경험이 되었어요」"
+
+[[dialogue]]
+speaker = "プリムラ"
+original = "「また気が向いたら、この世界に遊びに来るといいのじゃ」"
+translation = "「또 마음 내키면 이 세계에 놀러 오도록 하느니라」"
+
+[[dialogue]]
+speaker = "ここあ"
+original = "「プリちん、ここあのこと、ちゃーんと覚えててよ？」"
+translation = "「프리칭, 코코아인 거 꼬옥 기억하고 있어야 해?」"
+
+[[dialogue]]
+speaker = "プリムラ"
+original = "「ふん、そうじゃな……まあ、覚えといてやらんこともない」"
+translation = "「흥, 그렇구나…… 뭐, 기억해 주지 못할 것도 없느니라」"
+
+[[dialogue]]
+speaker = "サチ"
+original = "「ふふっ、プリムラってば、お別れの時くらい素直になればいいのに」"
+translation = "「후훗, 프리뮬러도 참, 작별할 때 정도는 솔직해지면 좋을 텐데」"
+
+[[dialogue]]
+speaker = "プリムラ"
+original = "「う、うるさいのじゃ、サチ！」"
+translation = "「시, 시끄럽느니라, 사치!」"
+
+[[dialogue]]
+speaker = "ここあ"
+original = "「ふふっ♪\u3000このケンカが見られなくなるのも寂しいね～」"
+translation = "「후훗♪ 이 싸움을 못 보게 되는 것도 아쉽네~」"
+
+[[dialogue]]
+speaker = "シズハ"
+original = "「いろはさんに教えてもらったポロキュアの主題歌、大好きになっちゃった♪\u3000また一緒に歌いたいから、絶対に遊びに来てね！」"
+translation = "「이로하 씨에게 배운 포로큐어 주제가, 정말 좋아하게 됐어요♪ 다시 같이 노래하고 싶으니까 꼭 놀러 오세요!」"
+
+[[dialogue]]
+speaker = "いろは"
+original = "「うん、約束だよ♪」"
+translation = "「응, 약속이야♪」"
+
+[[dialogue]]
+speaker = "シズハ"
+original = "「花織さんの熱唱もすごかったよ！\u3000また聞かせて♪」"
+translation = "「카오리 씨의 열창도 대단했어요! 또 들려주세요♪」"
+
+[[dialogue]]
+speaker = "花織"
+original = "「あはは、ありがとう。その時に備えてもっと練習しとくね」"
+translation = "「아하하, 고마워. 그때를 대비해서 더 연습해 둘게」"
+
+[[dialogue]]
+speaker = "トレジアンナ"
+original = "「――名残惜しいとは思いますが、そろそろ始めましょうか」"
+translation = "「――아쉽겠지만 슬슬 시작할까요」"
+
+[[dialogue]]
+speaker = "オムニス"
+original = "「そうだな。トレジアンナさん、お願いします」"
+translation = "「그래. 트레지아나 씨, 부탁합니다」"
+
+[[dialogue]]
+speaker = "トレジアンナ"
+original = "「……よし。わっかりました～！」"
+translation = "「……좋아. 알겠습니다~!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "いろは、花織、ここあ、陽彩、そしてオムニスが一ヶ所に固まる。"
+translation = "이로하, 카오리, 코코아, 아키사, 그리고 옴니스가 한곳에 뭉친다."
+
+[[dialogue]]
+speaker = "unk"
+original = "トレジアンナはその前に立ち、『バカアワビ』に魔力を込め始めた。"
+translation = "트레지아나는 그 앞에 서서 『바보 전복』에 마력을 담기 시작했다."
+
+[[dialogue]]
+speaker = "いろは"
+original = "「それじゃあ、またね！！！」"
+translation = "「그럼, 또 봐!!!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "周囲の空気に歪みが生まれる。"
+translation = "주변 공기에 왜곡이 생겨난다."
+
+[[dialogue]]
+speaker = "unk"
+original = "その中へと、異世界から来た魔法少女たちは姿を消していった。"
+translation = "그 안으로 이세계에서 온 마법소녀들은 모습을 감추었다."
+
+[[dialogue]]
+speaker = "サチ"
+original = "「……行っちゃいました」"
+translation = "「……가버렸네요」"
+
+[[dialogue]]
+speaker = "プリムラ"
+original = "「そうじゃな……」"
+translation = "「그렇구나……」"
+
+[[dialogue]]
+speaker = "シズハ"
+original = "「あ……トレジアンナさん、バカアワビが……！」"
+translation = "「아…… 트레지아나 씨, 바보 전복이……!」"
+
+[[dialogue]]
+speaker = "トレジアンナ"
+original = "「……消滅してしまいましたか。これでバカアワビを使っての世界を転移する方法は失われてしまいましたね……」"
+translation = "「……소멸해버렸나요. 이걸로 바보 전복을 써서 세계를 전이하는 방법은 잃어버리고 말았네요……」"
+
+[[dialogue]]
+speaker = "サチ"
+original = "「バカアワビについては調べていたんですよね？\u3000トレジアンナさんでも詳しい原理はわからなかったんですか？」"
+translation = "「바보 전복에 대해 조사하고 계셨죠? 트레지아나 씨도 자세한 원리는 몰랐던 건가요?」"
+
+[[dialogue]]
+speaker = "トレジアンナ"
+original = "「ええ。もうしばらく、調べる時間があればよかったのですが……」"
+translation = "「네. 조금만 더 조사할 시간이 있었다면 좋았을 텐데 말이죠……」"
+
+[[dialogue]]
+speaker = "トレジアンナ"
+original = "「やはり世界を転移するなんていうのは、そう簡単に出来ることではないということみたいですね」"
+translation = "「역시 세계를 전이하는 건 그렇게 간단히 할 수 있는 일이 아니라는 뜻 같네요」"
+
+[[dialogue]]
+speaker = "シズハ"
+original = "「それじゃあ、いろはさんたちには、もう会えないのかな……？」"
+translation = "「그럼 이로하 씨 일행은 이제 못 만나는 걸까……?」"
+
+[[dialogue]]
+speaker = "トレジアンナ"
+original = "「いえ、それはどうでしょう？\u3000悪魔が現れる時、バカアワビが生まれると言っていましたからね～」"
+translation = "「아뇨, 그건 어떨까요? 악마가 나타날 때 바보 전복이 생긴다고 했으니까요~」"
+
+[[dialogue]]
+speaker = "トレジアンナ"
+original = "「もしかしたら、それを使ってまた会いに来てくれるかもしれませんよ♪\u3000それにオールスターズ春映画というのは、定期的に次があるものなので♪」"
+translation = "「혹시 그걸 써서 다시 만나러 와줄지도 몰라요♪ 원래 올스타즈 봄 영화라는 건 정기적으로 다음 편이 나오기 마련이니까요♪」"
+
+[[dialogue]]
+speaker = "サチ"
+original = "「だったらその時までに、もっと強くならなくちゃですね……魔法少女として、それぞれの世界を守れるように」"
+translation = "「그렇다면 그때까지 더 강해져야겠네요…… 마법소녀로서 각자의 세계를 지킬 수 있도록」"
+
+[[dialogue]]
+speaker = "プリムラ"
+original = "「ふっ、そうじゃな！\u3000次あった時は、我の新フォームを見せてやるのじゃ！」"
+translation = "「훗, 그렇구나! 다음에 만났을 때는 짐의 새로운 폼을 보여줄 것이니라!」"
+
+[[dialogue]]
+speaker = "トレジアンナ"
+original = "「――さて、それではいろはさんたちを無事に見送ることもできましたし……」"
+translation = "「――자, 그럼 이로하 씨 일행을 무사히 배웅하기도 했고……」"
+
+[[dialogue]]
+speaker = "トレジアンナ"
+original = "「今回も無事にロストアイテムを回収できたということで、打ち上げ会といきましょうか☆」"
+translation = "「이번에도 무사히 로스트 아이템을 회수했으니 뒤풀이라도 할까요☆」"
+
+[[dialogue]]
+speaker = "３人"
+original = "「さんせーいっ♪」"
+translation = "「찬성-♪」"
+
+[[dialogue]]
+speaker = "unk"
+original = "平和を取り戻した夕暮れの空の下──魔法少女たちの明るい声が響き渡る。"
+translation = "평화를 되찾은 해 질 녘 하늘 아래── 마법소녀들의 밝은 목소리가 울려 퍼진다."
+
+[[dialogue]]
+speaker = "unk"
+original = "こうして、悪魔のロストアイテムを巡る事件は幕を閉じたのだった。"
+translation = "이렇게 악마의 로스트 아이템을 둘러싼 사건은 막을 내렸다."
+

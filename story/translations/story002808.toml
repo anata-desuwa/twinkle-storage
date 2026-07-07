@@ -1,0 +1,240 @@
+[[dialogue]]
+speaker = "ウィステリア"
+original = "「強引だけどあの術式を応用して、リソースを工面して……制約をかければ……うん、何とかなる気がするわ！」"
+translation = "「강압적이긴 하지만 그 술식을 응용해서 리소스를 마련하고…… 제약을 걸면…… 응, 어떻게든 될 것 같아!」"
+
+[[dialogue]]
+speaker = "モネ"
+original = "「さすがウィステリアさん、何か方法を見つけたんですね！」"
+translation = "「역시 위스테리아 씨, 뭔가 방법을 찾으셨군요!」"
+
+[[dialogue]]
+speaker = "ウィステリア"
+original = "「ええ、私１人じゃきっと思いつかなかったわ。ありがとう、紙屋敷さんのおかげだわ」"
+translation = "「응, 나 혼자였다면 분명 생각 못 했을 거야. 고마워, 카미야시키 양 덕분이야」"
+
+[[dialogue]]
+speaker = "モネ"
+original = "「いえいえ、私は本が読みたいだけですから」"
+translation = "「아니요 아니요, 저는 책이 읽고 싶을 뿐이니까요」"
+
+[[dialogue]]
+speaker = "ウィステリア"
+original = "「謙遜じゃなくて１００％言葉通りなんだからすごいわ……」"
+translation = "「겸손이 아니라 100% 말 그대로니까 정말 대단하다니까……」"
+
+[[dialogue]]
+speaker = "ヴィライア"
+original = "『何をするつもり？』"
+translation = "『무슨 짓을 할 셈이냐?』"
+
+[[dialogue]]
+speaker = "ウィステリア"
+original = "「簡単よ。私だけじゃ呪いを背負いきれないなら、分けちゃえばいいの。何も全てをひとりで背負う必要はないわ」"
+translation = "「간단해. 나 혼자서 저주를 다 짊어질 수 없다면 나누면 되는 거야. 굳이 전부를 혼자 짊어질 필요는 없지」"
+
+[[dialogue]]
+speaker = "ウィステリア"
+original = "「だって、私は『英雄』なんかじゃないんだもの」"
+translation = "「왜냐면 나는 『영웅』 같은 게 아니니까 말이야」"
+
+[[dialogue]]
+speaker = "ヴィライア"
+original = "『ふざけたことを……あなたが“英雄”にならなければ、誰が魔族の無念を晴らすというの』"
+translation = "『장난을…… 네가 “영웅”이 되지 않는다면 누가 마족의 원한을 풀어준다는 거냐』"
+
+[[dialogue]]
+speaker = "ウィステリア"
+original = "「いや、それ私の仕事じゃないから！」"
+translation = "「아니, 그건 내 알 바 아니거든!」"
+
+[[dialogue]]
+speaker = "ウィステリア"
+original = "「私の仕事は新星学園図書館の司書。業務内容は蔵書の管理と本の貸し出し、あといろいろ」"
+translation = "「내 일은 신성학원 도서관의 사서. 업무 내용은 장서 관리와 도서 대출, 그리고 기타 등등」"
+
+[[dialogue]]
+speaker = "ウィステリア"
+original = "「それを今から見せてあげる」"
+translation = "「그걸 지금부터 보여줄게」"
+
+[[dialogue]]
+speaker = "ウィステリア"
+original = "「さぁ、来なさい。深淵書庫の呪いとやら、受け止めてあげるわ」"
+translation = "「자, 오렴. 심연서고의 저주인지 뭔지, 받아내 주겠어」"
+
+[[dialogue]]
+speaker = "ヴィライア"
+original = "『そう。何か企みがあるようだけど、やれるものならやってみなさい』"
+translation = "『그래. 뭔가 꾸미는 모양이다만 할 수 있다면 해보아라』"
+
+[[dialogue]]
+speaker = "ヴィライア"
+original = "『魔本たちよ、英雄の魂に深き眠りを与えなさい』"
+translation = "『마본들이여, 영웅의 혼에 깊은 잠을 선사하라』"
+
+[[dialogue]]
+speaker = "unk"
+original = "呪いの奔流が、ウィステリアを飲み込まんと殺到する。"
+translation = "저주의 분출이 위스테리아를 집어삼키려 쇄도했다."
+
+[[dialogue]]
+speaker = "unk"
+original = "けれど、ウィステリアの眼に絶望はない。"
+translation = "하지만 위스테리아의 눈에 절망은 없었다."
+
+[[dialogue]]
+speaker = "ウィステリア"
+original = "「ああ……声が聞こえる」"
+translation = "「아아…… 목소리가 들려」"
+
+[[dialogue]]
+speaker = "男の声"
+original = "『死にたくない……死にたくないよぉ……』"
+translation = "『죽고 싶지 않아…… 죽고 싶지 않단 말이야……』"
+
+[[dialogue]]
+speaker = "子どもの声"
+original = "『お母さん、どこ？\u3000どこに行っちゃったの？』"
+translation = "『엄마, 어디 있어? 어디로 가버린 거야?』"
+
+[[dialogue]]
+speaker = "魔族の声"
+original = "『痛い、痛い、痛い！\u3000うで、うで、おれのうでがぁ！』"
+translation = "『아파, 아파, 아파! 팔이, 팔이, 내 팔이이이!』"
+
+[[dialogue]]
+speaker = "女の声"
+original = "『はははは！\u3000見て、街が燃えてるわ！\u3000……こんなの、もう笑うしか、ないでしょ……』"
+translation = "『하하하하! 봐, 도시가 불타고 있어! ……이런 건 이제 웃을 수밖에 없잖아……』"
+
+[[dialogue]]
+speaker = "ウィステリア"
+original = "「ヴィライアに……あるいはそれ以前のリクリエに滅ぼされた魔族たちの断末魔」"
+translation = "「빌라이아에게…… 혹은 그 이전의 리크리에로 멸망한 마족들의 단말마」"
+
+[[dialogue]]
+speaker = "ウィステリア"
+original = "「耳を貸してはいけない。少しでも心を動かせば、呪いに囚われる」"
+translation = "「귀를 기울여선 안 돼. 조금이라도 마음이 흔들리면 저주에 사로잡혀」"
+
+[[dialogue]]
+speaker = "男の声"
+original = "『憎い、憎い、憎い……私を殺したものが憎い』"
+translation = "『밉다, 밉다, 밉다…… 나를 죽인 자가 밉다』"
+
+[[dialogue]]
+speaker = "子どもの声"
+original = "『お母さん、お母さん、お母さんっ！』"
+translation = "『엄마, 엄마, 엄마아아!』"
+
+[[dialogue]]
+speaker = "魔族の声"
+original = "『おれのうで、あし、しっぽ…………どこだ、どこ……』"
+translation = "『내 팔, 다리, 꼬리………… 어디냐, 어디……』"
+
+[[dialogue]]
+speaker = "女の声"
+original = "『はは、あはは、ははははははっ！』"
+translation = "『하하, 아하하, 하하하하하하핫!』"
+
+[[dialogue]]
+speaker = "ウィステリア"
+original = "「激しい怒り、憎しみ、恨み……怨嗟は尽きない」"
+translation = "「격렬한 분노, 증오, 원망…… 원사는 끝이 없네」"
+
+[[dialogue]]
+speaker = "ウィステリア"
+original = "「けれど、紙屋敷さんの言葉を借りるなら、これも彼らの生きた証なのよね」"
+translation = "「하지만 카미야시키 양의 말을 빌리자면 이것도 그들이 살았던 증거라는 거지」"
+
+[[dialogue]]
+speaker = "ウィステリア"
+original = "「なら……」"
+translation = "「그렇다면……」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ウィステリアは手を伸ばし、目の前にある本の<ruby>頁<rt>ページ</rt></ruby>をめくる。呪いの奥にある、本当の心を見付けるために。"
+translation = "위스테리아는 손을 뻗어 눈앞에 있는 책의 페이지를 넘긴다. 저주 너머에 있는 진정한 마음을 찾기 위해서."
+
+[[dialogue]]
+speaker = "男の声"
+original = "『今日も平和だねぇ……こんな日がずっと続けばいいのにね』"
+translation = "『오늘도 평화롭네…… 이런 날이 계속 이어지면 좋을 텐데 말이야』"
+
+[[dialogue]]
+speaker = "子どもの声"
+original = "『お母さん、大好き！\u3000お母さんのごはんも大好き！』"
+translation = "『엄마, 사랑해! 엄마가 해준 밥도 너무 좋아!』"
+
+[[dialogue]]
+speaker = "魔族の声"
+original = "『どうだ、カッコいいだろ？\u3000この手足も、しっぽに角も、親父譲りなんだぜ』"
+translation = "『어때, 멋있지? 이 팔다리도, 꼬리에 뿔도 아버지를 쏙 빼닮았다고』"
+
+[[dialogue]]
+speaker = "女の声"
+original = "『この美しい街で、愛しい人と暮らすの。それだけで幸せ……』"
+translation = "『이 아름다운 도시에서 사랑하는 사람과 사는 것. 그것만으로 행복해……』"
+
+[[dialogue]]
+speaker = "ウィステリア"
+original = "「憎しみの裏には愛があり、怒りの裏には慈しみがあり、恨みの裏には安らぎがあった」"
+translation = "「증오의 이면에는 사랑이 있었고, 분노의 이면에는 자애가 있었으며, 원망의 이면에는 평온함이 있었어」"
+
+[[dialogue]]
+speaker = "ウィステリア"
+original = "「それを奪われたら、どす黒い呪いになるのも仕方ないわよね」"
+translation = "「그걸 빼앗겼으니 거무칙칙한 저주가 되는 것도 당연하겠지」"
+
+[[dialogue]]
+speaker = "ウィステリア"
+original = "「同情も同調もしない。でも寄り添い、残すことはできる」"
+translation = "「동정도 동조도 하지 않아. 하지만 곁에 있어 주고 남겨줄 수는 있어」"
+
+[[dialogue]]
+speaker = "ウィステリア"
+original = "「本という形で！」"
+translation = "「책이라는 형태로!」"
+
+[[dialogue]]
+speaker = "ウィステリア（覚醒）"
+original = "「ふぅ、なんとか戻ってこれたみたいね」"
+translation = "「후우, 어떻게든 돌아온 모양이네」"
+
+[[dialogue]]
+speaker = "モネ"
+original = "「ウィステリアさん、その姿は……！」"
+translation = "「위스테리아 씨, 그 모습은……!」"
+
+[[dialogue]]
+speaker = "ウィステリア（覚醒）"
+original = "「話はあとよ、このままじゃ私も呪いに押し潰されちゃう。だから……」"
+translation = "「이야기는 나중이야. 이대로라면 나도 저주에 짓눌려버릴 거야. 그러니까……」"
+
+[[dialogue]]
+speaker = "モネ"
+original = "「はい！\u3000ウィステリアさん、私に『本を貸してください』！」"
+translation = "「네! 위스테리아 씨, 저에게 『책을 빌려주세요』!」"
+
+[[dialogue]]
+speaker = "ウィステリア（覚醒）"
+original = "「ええ！\u3000魔本、貸出承認！」"
+translation = "「그래! 마본, 대출 승인!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ウィステリアが虚空に手をかざすと、光り輝く魔法陣が浮かんだ。"
+translation = "위스테리아가 허공에 손을 대자, 빛나는 마법진이 떠올랐다."
+
+[[dialogue]]
+speaker = "unk"
+original = "そして魔法陣から本が現れ、それをモネが手にする。"
+translation = "그리고 마법진에서 책이 나타나고, 그것을 모네가 손에 쥔다."
+
+[[dialogue]]
+speaker = "モネ（覚醒）"
+original = "「魔本、確かに受け取りました。──紙屋敷モネ、新章突入です！」"
+translation = "「마본, 확실히 받았습니다. ──카미야시키 모네, 신장 돌입입니다!」"
+

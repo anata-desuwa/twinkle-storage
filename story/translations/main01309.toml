@@ -1,0 +1,260 @@
+[[dialogue]]
+speaker = "unk"
+original = "第１０話,ルーツ,B"
+translation = "제10화, 뿌리, B"
+
+[[dialogue]]
+speaker = "ガーディアン"
+original = "「ピ──ピ──ピ、ガァァ………………！」"
+translation = "「삐──삐──삐, 가아아………………!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "もう何体目かもわからないガーディアンを撃退する。"
+translation = "이미 몇 번째인지도 모를 가디언을 격퇴한다."
+
+[[dialogue]]
+speaker = "ユウリ"
+original = "「代わり映えしねえと思ってたけど──進んでくうちに、なんか敵も手強くなってきやがったな」"
+translation = "「별로 달라지는 게 없다고 생각했는데── 나아가다 보니, 왠지 적들도 강해지기 시작했네.」"
+
+[[dialogue]]
+speaker = "ソフィア"
+original = "「周りの景観も、殺風景なのは変わりませんが、一応変化はしているんですよね」"
+translation = "「주변 경관도, 삭막한 것은 변함없지만, 일단 변화는 하고 있긴 하죠.」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「順調に進んではいる──と思ってよいのでしょうか」"
+translation = "「순조롭게 나아가고 있다고── 생각해도 괜찮을까요?」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「本当に人間界に出れればいいけど……こればっかりは信じるしかないわね～」"
+translation = "「정말로 인간계로 나갈 수 있으면 좋겠지만…… 이것만은 믿을 수밖에 없겠네~」"
+
+[[dialogue]]
+speaker = "ニャリオン"
+original = "「大丈夫ニャ。大賢者たるワガハイの勘も訴えているニャ、この塔は大昔から三界を貫いているとニャ」"
+translation = "「괜찮다냥. 대현자인 나의 감도 호소하고 있다냥, 이 탑은 아주 옛날부터 삼계를 꿰뚫고 있다고 냥.」"
+
+[[dialogue]]
+speaker = "ユウリ"
+original = "「その大賢者ってのが信用しづらいんだが」"
+translation = "「그 대현자라는 게 신용하기 어렵지만.」"
+
+[[dialogue]]
+speaker = "ニャリオン"
+original = "「嘆かわしいニャン。まだワガハイの威光がわからぬとはニャ……」"
+translation = "「한탄스럽다냥. 아직 나의 위광을 모른다니 냥……」"
+
+[[dialogue]]
+speaker = "ソフィア"
+original = "「その大賢者さんは、先代の魔王に仕えていたんですよね」"
+translation = "「그 대현자 씨는, 선대의 마왕을 모셨던 거죠.」"
+
+[[dialogue]]
+speaker = "ニャリオン"
+original = "「そうニャ」"
+translation = "「그렇다냥.」"
+
+[[dialogue]]
+speaker = "ソフィア"
+original = "「具体的には何をどうしていたんですか？」"
+translation = "「구체적으로는 무엇을 어떻게 하고 있었나요?」"
+
+[[dialogue]]
+speaker = "ニャリオン"
+original = "「そ、そりゃ……色々大活躍してたのニャ。大賢者は魔王を補佐するものと相場が決まってるのニャン！」"
+translation = "「그, 그야…… 여러모로 대활약했다냥. 대현자는 마왕을 보좌하는 것으로 정해져 있다냥!」"
+
+[[dialogue]]
+speaker = "ユウリ"
+original = "「聞いたこともねえけど」"
+translation = "「들어본 적도 없지만.」"
+
+[[dialogue]]
+speaker = "ソフィア"
+original = "「それに、大活躍の割にはあの『壁画』にも描かれていなかったような……」"
+translation = "「게다가, 대활약한 것치고는 그 『벽화』에도 그려져 있지 않았던 것 같은데……」"
+
+[[dialogue]]
+speaker = "ニャリオン"
+original = "「う……！\u3000ど、どこかにはワガハイのクールな絵も残されていたはずニャン！\u3000猫の壁画が──」"
+translation = "「으……! 어, 어딘가에는 나의 멋진 그림도 남아 있었을 거다냥! 고양이 벽화가──」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「３０００年前のことって言われても……誰も証明できないもんね」"
+translation = "「3000년 전 일이라고 해도…… 아무도 증명할 수 없잖아.」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「……いや」"
+translation = "「……아니.」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「ニャリオンの言うことは──本当だと思うよ」"
+translation = "「냐리온이 하는 말은── 사실인 것 같아.」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「え！」"
+translation = "「엣!」"
+
+[[dialogue]]
+speaker = "ユウリ"
+original = "「なんでだ？」"
+translation = "「왜인데?」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「なんとなく……だけど。真実味があるっていうか」"
+translation = "「왠지 모르게…… 그렇지만. 진실성이 있다고 할까.」"
+
+[[dialogue]]
+speaker = "ニャリオン"
+original = "「ニャーッニャッニャッ！\u3000さすがはワガハイのソウルフレンドニャン！\u3000ワガハイを信じてくれるのニャンね……！」"
+translation = "「냐ー앗 냐앗 냐앗! 역시 나의 소울 프렌드다냥! 나 님을 믿어주는 거다냥……!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "──男は大賢者と呼ばれる使い魔を従え、厄災の最前線へ立ち向かった。"
+translation = "── 남자는 대현자라 불리는 사역마를 거느리고, 재앙의 최전선으로 맞섰다."
+
+[[dialogue]]
+speaker = "unk"
+original = "今さっき垣間見えた……先代魔王にまつわる幻影によれば、そう語られていた。"
+translation = "방금 엿보았던…… 선대 마왕에 얽힌 환영에 따르면, 그렇게 이야기되고 있었다."
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「ふーむ……ですが、もしニャリオンがそんな存在だとすれば歴史的にも大発見です」"
+translation = "「흐음…… 하지만, 만약 냐리온이 그런 존재라고 한다면 역사적으로도 대발견입니다.」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「『月の壁画』どころではなく、歴史の生き証人となるわけですから」"
+translation = "「『달의 벽화』 정도가 아니라, 역사의 산증인이 되는 것이니까요.」"
+
+[[dialogue]]
+speaker = "ニャリオン"
+original = "「フ。そんなワガハイを召喚したフィオナ嬢も、誇っていいのニャンよ」"
+translation = "「흥. 그런 나 님을 소환한 피오나 양도, 자랑스러워해도 된다냥.」"
+
+[[dialogue]]
+speaker = "ソフィア"
+original = "「ますます調子に乗って……」"
+translation = "「점점 더 우쭐해져서……」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「星見家は先代魔王から続く一族～、ってことだから、一応つじつまは合ってるのかしら？」"
+translation = "「호시미 가문은 선대 마왕부터 이어지는 일족~, 이라는 거니까, 일단 앞뒤는 맞는 걸까?」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「なんか、壮大なスケールって感じ……」"
+translation = "「뭔가, 웅장한 스케일이라는 느낌……」"
+
+[[dialogue]]
+speaker = "unk"
+original = "星見家が正当な魔王の後継者──それはきっと事実だろう。なぜならそれは塔の『声』も告げていたことだからだ。"
+translation = "호시미 가문이 정당한 마왕의 후계자── 그것은 분명 사실일 것이다. 왜냐하면 그것은 탑의 『목소리』도 고하고 있었던 일이기 때문이다."
+
+[[dialogue]]
+speaker = "unk"
+original = "先代魔王──ラクシス──の血を最も色濃く引く人間は星見フィオナだと。"
+translation = "선대 마왕── 라크시스──의 피를 가장 짙게 잇는 인간은 호시미 피오나라고."
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「く……！\u3000となるとやっぱり、クロトにもいかつい使い魔が必要ね……！」"
+translation = "「크읏……! 그렇다면 역시, 쿠로토에게도 험상궂은 사역마가 필요하겠네……!」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「張り合うところはそこじゃないよ。ヴィーナス」"
+translation = "「경쟁할 부분은 거기가 아니야. 비너스.」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ただ……一旦、ニャリオンの言うことが真実だとすると、余計に謎が深くなる。"
+translation = "다만…… 일단, 냐리온이 하는 말이 진실이라고 한다면, 더욱더 수수께끼가 깊어진다."
+
+[[dialogue]]
+speaker = "クロト"
+original = "（ニャリオンは３０００年前も大賢者だった。それが時代を超えて、フィオナによって召喚された）"
+translation = "（냐리온은 3000년 전에도 대현자였다. 그것이 시대를 넘어, 피오나에 의해 소환되었다）"
+
+[[dialogue]]
+speaker = "クロト"
+original = "（そのニャリオンが──俺のことを『先代魔王に近い』と称した。ヴィーナスも、あの絵が俺に瓜二つと言っている）"
+translation = "（그 냐리온이── 나를 『선대 마왕에 가깝다』고 칭했다. 비너스도, 그 그림이 나와 똑 닮았다고 말하고 있다）"
+
+[[dialogue]]
+speaker = "クロト"
+original = "（だったら……俺は何者なんだ？\u3000フィオナの次の二番手なのか──それもしっくりこない）"
+translation = "（그렇다면…… 나는 누구지? 피오나 다음의 이인자인가── 그것도 마음에 와닿지 않는다）"
+
+[[dialogue]]
+speaker = "クロト"
+original = "（俺は──俺は魔王として覚醒した。霊力だって使えた。守護天使たちだって認めてくれた）"
+translation = "（나는── 나는 마왕으로서 각성했다. 영력도 사용할 수 있었다. 수호 천사들조차 인정해 주었다）"
+
+[[dialogue]]
+speaker = "クロト"
+original = "（なのに……なんだ？\u3000この、拭えない違和感は）"
+translation = "（그런데…… 뭐지? 이, 지울 수 없는 위화감은）"
+
+[[dialogue]]
+speaker = "unk"
+original = "ふと、足元が崩れていくような感覚に襲われた。"
+translation = "문득, 발밑이 무너져 내리는 듯한 감각에 휩싸였다."
+
+[[dialogue]]
+speaker = "unk"
+original = "魔王の血統──今まで済ませていたその言葉だけじゃ、全部に説明がつけられない気がする。"
+translation = "마왕의 혈통── 지금까지 끝내버렸던 그 말만으로는, 전부 설명할 수 없을 것 같다."
+
+[[dialogue]]
+speaker = "unk"
+original = "ニャリオンがルーツを自覚したように。"
+translation = "냐리온이 뿌리를 자각했던 것처럼."
+
+[[dialogue]]
+speaker = "unk"
+original = "俺にもまた、何か気づくべき根源があるのではないかと。"
+translation = "나에게도 역시, 무언가 깨달아야 할 근원이 있는 것은 아닌가 하고."
+
+[[dialogue]]
+speaker = "unk"
+original = "そして、その答えは──この場にいる誰でもなく、３０００年前の『彼』が持っているような気がしてならなかった。"
+translation = "그리고, 그 해답은── 이 자리에 있는 누구도 아닌, 3000년 전의 『그』가 가지고 있는 것만 같았다."
+
+[[dialogue]]
+speaker = "クロト"
+original = "（……知りたい。いや、知らなくちゃいけない気がする。彼のことを）"
+translation = "（……알고 싶다. 아니, 알아야 할 것 같다. 그의 것을）"
+
+[[dialogue]]
+speaker = "クロト"
+original = "（ラクシス──あなたは一体、どんな軌跡を歩んできたんだ？）"
+translation = "（라크시스── 당신은 도대체, 어떤 궤적을 걸어왔던 거지?）"
+
+[[dialogue]]
+speaker = "unk"
+original = "俺は塔を昇るにつれ、自身のルーツに思いを馳せるようになっていた。"
+translation = "나는 탑을 오를수록, 자신의 뿌리에 생각을 미치게 되었다."
+
+[[dialogue]]
+speaker = "unk"
+original = "雨滴のように降りてくる『彼』の幻影を手探りで拾っているうちに、俺は気づいた。"
+translation = "빗방울처럼 내려오는 『그』의 환영을 더듬어 주워 올리는 동안, 나는 깨달았다."
+
+[[dialogue]]
+speaker = "unk"
+original = "今回、フィーニスの塔が語りかけてきたのはヴィーナスじゃない──緋宮クロトに対してなんだと。"
+translation = "이번에, 피니스의 탑이 말을 걸어온 것은 비너스가 아니다── 히노미야 쿠로토에게라는 것을."
+

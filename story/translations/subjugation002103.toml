@@ -1,0 +1,270 @@
+[[dialogue]]
+speaker = "unk"
+original = "事故に巻き込まれた人は幸いにも命に別状はなく、救急車で運ばれていった。"
+translation = "사고에 휘말린 사람은 다행히 생명에는 지장이 없었고, 구급차로 실려 갔다."
+
+[[dialogue]]
+speaker = "unk"
+original = "そこに──"
+translation = "거기에──"
+
+[[dialogue]]
+speaker = "？？？"
+original = "「おーい、メテオラー！\u3000どこだー！」"
+translation = "「어ー이, 메테오라ー! 어디냐ー!」"
+
+[[dialogue]]
+speaker = "メテオラ"
+original = "「この声は！\u3000お～い、エンジュ～！\u3000こっちだぞ～！」"
+translation = "「이 목소리는! 어~이, 엔쥬~! 여기라구~!」"
+
+[[dialogue]]
+speaker = "エンジュ"
+original = "「やっぱりここにいたか……勝手にいなくなるなよ」"
+translation = "「역시 여기 있었나…… 멋대로 사라지지 마.」"
+
+[[dialogue]]
+speaker = "メテオラ"
+original = "「だって～……」"
+translation = "「그치만~……」"
+
+[[dialogue]]
+speaker = "エンジュ"
+original = "「『だって』じゃない。あたしから離れるなって、口が酸っぱくなるほど言っただろ！」"
+translation = "「『그치만』이 아냐. 나한테서 떨어지지 말라고, 입이 닳도록 말했잖아!」"
+
+[[dialogue]]
+speaker = "メテオラ"
+original = "「エンジュ、お口酸っぱいのか？」"
+translation = "「엔쥬, 입이 닳았어?」"
+
+[[dialogue]]
+speaker = "エンジュ"
+original = "「そういう例えだ！\u3000まったく、お前ときたら、いつも手間ばかり……ん？\u3000くんくん……なんだか良い匂いがするな」"
+translation = "「그런 비유야! 정말이지, 너란 녀석은 언제나 손만 많이 가고…… 응? 킁킁…… 왠지 좋은 냄새가 나는데.」"
+
+[[dialogue]]
+speaker = "メテオラ"
+original = "「エンジュの大好きなドーナツ買ってきたんだぞ！\u3000甘いドーナツで、酸っぱいお口を甘くしろー！」"
+translation = "「엔쥬가 짱 좋아하는 도넛 사 왔다구! 달콤한 도넛으로 닳은 입을 달콤하게 하라구ー!」"
+
+[[dialogue]]
+speaker = "エンジュ"
+original = "「ド、ドーナツ……！？\u3000あたしのためにわざわざドーナツを……！？」"
+translation = "「도, 도넛……!? 나를 위해서 일부러 도넛을……!?」"
+
+[[dialogue]]
+speaker = "メテオラ"
+original = "「だぞ！\u3000いらないかー？」"
+translation = "「그렇다구! 안 필요하냐구ー?」"
+
+[[dialogue]]
+speaker = "エンジュ"
+original = "「い、いる！\u3000いるに決まってるだろ！」"
+translation = "「피, 필요해! 당연히 필요하지!」"
+
+[[dialogue]]
+speaker = "メテオラ"
+original = "「だよなー！\u3000できたての内に食べるぞ！」"
+translation = "「그치ー! 갓 만들었을 때 먹자구!」"
+
+[[dialogue]]
+speaker = "メテオラ"
+original = "「ドーナツ屋を教えてくれたお礼に、おまえも一緒にどうだー？」"
+translation = "「도넛 가게 알려준 보답으로 너도 같이 어때ー?」"
+
+[[dialogue]]
+speaker = "エンジュ"
+original = "「ん？\u3000メテオラ、そいつは？」"
+translation = "「음? 메테오라, 그 녀석은?」"
+
+[[dialogue]]
+speaker = "メテオラ"
+original = "「あたしをドーナツ屋に連れてってくれたんだぞ。いいやつだぞ！」"
+translation = "「나를 도넛 가게에 데려다줬다구. 좋은 녀석이라구!」"
+
+[[dialogue]]
+speaker = "エンジュ"
+original = "「それは面倒かけさせて悪か──ッ！？\u3000メテオラ、そいつから離れろ！」"
+translation = "「그건 폐를 끼치게 해서 미안하──앗!? 메테오라, 그 녀석한테서 떨어져!」"
+
+[[dialogue]]
+speaker = "メテオラ"
+original = "「え？\u3000おっ、おう、離れるぞ！\u3000どうしたんだ？」"
+translation = "「에? 엇, 어우, 떨어지겠다구! 왜 그러냐구?」"
+
+[[dialogue]]
+speaker = "エンジュ"
+original = "「『どうしたんだ』はこっちの台詞だ。なんでお前は星騎士の──しかも魔王の世話になってんだよ！？」"
+translation = "「『왜 그러냐구』는 내가 할 소리야. 왜 너는 성기사의── 그것도 마왕의 도움을 받고 있는 거야!?」"
+
+[[dialogue]]
+speaker = "メテオラ"
+original = "「魔王……？\u3000あっ！\u3000言われてみれば、見たことある顔だぞ！」"
+translation = "「마왕……? 앗! 그러고 보니 본 적 있는 얼굴이라구!」"
+
+[[dialogue]]
+speaker = "エンジュ"
+original = "「そいつは要注意リストに入っていただろう！\u3000何を見ていたんだ！」"
+translation = "「그 녀석은 요주의 리스트에 들어 있었잖아! 뭘 보고 있었던 거야!」"
+
+[[dialogue]]
+speaker = "メテオラ"
+original = "「ドーナツ！」"
+translation = "「도넛!」"
+
+[[dialogue]]
+speaker = "エンジュ"
+original = "「ドーナツはもういい！\u3000いや、必ず美味しくいただくが、こいつを片づけた後だ！」"
+translation = "「도넛은 이제 됐어! 아니, 꼭 맛있게 먹긴 할 거지만, 이 녀석을 해치운 다음이다!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "星騎士に恨みでもあるのか？"
+translation = "성기사에게 원한이라도 있는 거야?"
+
+[[dialogue]]
+speaker = "unk"
+original = "俺を片付ける？"
+translation = "나를 해치운다고?"
+
+[[dialogue]]
+speaker = "メテオラ"
+original = "「エンジュは星騎士が大っ嫌いなんだぞ！\u3000あたしも嫌いだ！\u3000悪いやつだからな！」"
+translation = "「엔쥬는 성기사를 정말 싫어한다구! 나도 싫어해! 나쁜 녀석들이니까 말야!」"
+
+[[dialogue]]
+speaker = "コハルコ"
+original = "『会長さん、モンスター発生です！\u3000会長さんの現在地からすぐ近くなので、連絡させてもらいました！』"
+translation = "『회장님, 몬스터 발생이에요! 회장님의 현 위치에서 아주 가까운 곳이라, 연락드렸습니다!』"
+
+[[dialogue]]
+speaker = "コハルコ"
+original = "『敵の数、戦力ともに計測中です。多数のモンスターがいる可能性があるので、注意してください！』"
+translation = "『적의 수, 전력 모두 계측 중이에요. 다수의 몬스터가 있을 가능성이 있으니 주의해 주세요!』"
+
+[[dialogue]]
+speaker = "unk"
+original = "仕方ない、急行する！"
+translation = "어쩔 수 없지, 급행한다!"
+
+[[dialogue]]
+speaker = "unk"
+original = "よりによって、こんな時に！"
+translation = "하필이면 이런 때에!"
+
+[[dialogue]]
+speaker = "メテオラ"
+original = "「どこに行くー！\u3000逃げるのかー！\u3000あたしたちにおそれをなしたかー！\u3000ふははは！」"
+translation = "「어딜 가냐구ー! 도망가는 거냐구ー! 우리를 두려워하게 된 거냐구ー! 푸하하하!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "エンジュとメテオラに背を向け、全速力でモンスターの出現場所に駆けつける。"
+translation = "엔쥬와 메테오라에게 등을 돌리고 전속력으로 몬스터가 출현한 장소로 달려간다."
+
+[[dialogue]]
+speaker = "モンスター"
+original = "「イ～～～～～ッ！」"
+translation = "「이~~~~~잇!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "全部片づけるのは骨が折れそうだな……"
+translation = "전부 처리하기엔 꽤 고생 좀 하겠는데……"
+
+[[dialogue]]
+speaker = "unk"
+original = "想像以上の数だ"
+translation = "상상 이상의 숫자다"
+
+[[dialogue]]
+speaker = "？？？"
+original = "「そいつはあたしらの獲物だ！\u3000お前にはやらせないっ！」"
+translation = "「그 녀석은 우리 사냥감이다! 너한테는 안 넘겨!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "この声は──！？"
+translation = "이 목소리는──!?"
+
+[[dialogue]]
+speaker = "エンジュ"
+original = "「屈辱を味わえ、ヴェンジフル・エクリプス！」"
+translation = "「굴욕을 맛보아라, 벤지풀 에클립스!」"
+
+[[dialogue]]
+speaker = "モンスター"
+original = "「イ～～～～ッ！？」"
+translation = "「이~~~~잇!?」"
+
+[[dialogue]]
+speaker = "エンジュ"
+original = "「今だ、ぶっ放せっ、メテオラっ！」"
+translation = "「지금이다, 쏴버려, 메테오라!」"
+
+[[dialogue]]
+speaker = "メテオラ"
+original = "「よっしゃいっくぞーっ！\u3000どっかんミサイル１億万発ーっ！」"
+translation = "「좋아 간다구ー! 독캉 미사일 1억만 발이다구ー!」"
+
+[[dialogue]]
+speaker = "モンスター"
+original = "「イ～～～～～～～ッッ！！？」"
+translation = "「이~~~~~~~잇!!?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "突如現れたエンジュとメテオラによって、多数のモンスターがあっという間に撃滅され──"
+translation = "갑자기 나타난 엔쥬와 메테오라에 의해, 수많은 몬스터가 순식간에 격멸되고──"
+
+[[dialogue]]
+speaker = "メテオラ"
+original = "「どーだ、魔王っ！\u3000あたしたちは最強なんだぞ！」"
+translation = "「어떠냐, 마왕! 우리는 최강이라구!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "間違いない、２人はコラプサー……！"
+translation = "틀림없어, 두 사람은 콜랩서……!"
+
+[[dialogue]]
+speaker = "unk"
+original = "あれだけいたモンスターが一瞬で……"
+translation = "그렇게 많던 몬스터가 한순간에……"
+
+[[dialogue]]
+speaker = "エンジュ"
+original = "「星騎士なんかに世界は任せられない。世界を救うのは、あたしたちコラプサーだ」"
+translation = "「성기사 따위에게 세계를 맡길 수는 없어. 세계를 구하는 건 우리 콜랩서다.」"
+
+[[dialogue]]
+speaker = "メテオラ"
+original = "「ふひぃ、今のはちょっと頑張りすぎたなー。チョー疲れたぞー！」"
+translation = "「후히이, 방금 건 좀 너무 열심히 했다구ー. 짱 피곤하다구ー!」"
+
+[[dialogue]]
+speaker = "エンジュ"
+original = "「余計なことを言うな！\u3000……ったく、今日は退くぞ、メテオラ」"
+translation = "「쓸데없는 소리 마! ……정말이지, 오늘은 물러나겠다, 메테오라.」"
+
+[[dialogue]]
+speaker = "エンジュ"
+original = "「次に会った時が、お前ら星騎士どもの最期だ。首を洗って待っているんだな！」"
+translation = "「다음에 만날 때가 너희 성기사 놈들의 최후다. 목을 씻고 기다리고 있도록!」"
+
+[[dialogue]]
+speaker = "メテオラ"
+original = "「そうだぞ！\u3000ちゃんとお風呂に入っておけー！\u3000わ、わ、わ、エンジュ、待つんだぞー！」"
+translation = "「그렇다구! 제대로 목욕해 두라구ー! 와, 와, 와, 엔쥬, 기다리라구ー!」"
+
+[[dialogue]]
+speaker = "メテオラ"
+original = "「魔王、おまえは悪いやつだけど、ドーナツはありがとな！\u3000次は絶対やっつけてやるからな！\u3000イーッだ！」"
+translation = "「마왕, 너는 나쁜 녀석이지만 도넛은 고마웠다구! 다음엔 꼭 해치워 줄 거니까 말야! 에베베!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "エンジュとメテオラ、２人の姿は夜闇の中へと消えていった。"
+translation = "엔쥬와 메테오라, 두 사람의 모습은 밤의 어둠 속으로 사라져 갔다."
+

@@ -1,0 +1,255 @@
+[[dialogue]]
+speaker = "unk"
+original = "第２話,太くないって！,P"
+translation = "제2화, 안 굵다니까!, P"
+
+[[dialogue]]
+speaker = "unk"
+original = "ある日の昼休み、俺がフェリシー達と昼食を共にしていると――"
+translation = "어느 날 점심시간, 내가 펠리시 일행과 점심을 같이하고 있을 때――"
+
+[[dialogue]]
+speaker = "フェリシー"
+original = "「ん～、今日の日替わり定食も美味しい～♪\u3000この唐揚げ、絶品だよ～！\u3000もぐもぐ……」"
+translation = "「음~ 오늘 오늘의 정식도 맛있다~♪ 이 가라아게 완전 일품이야~! 우물우물……」"
+
+[[dialogue]]
+speaker = "ソフレ"
+original = "「……フェリシー、気になることがあるのだわ」"
+translation = "「……펠리시, 신경 쓰이는 게 있는거야」"
+
+[[dialogue]]
+speaker = "unk"
+original = "そう切り出したのは、流星学園２年、吸血鬼のソフレ・ヴァートリン。フェリシーのクラスメイトだ。"
+translation = "그렇게 말을 꺼낸 것은 유성학원 2학년, 흡혈귀인 소프레 바틀린. 펠리시의 클래스메이트다."
+
+[[dialogue]]
+speaker = "フェリシー"
+original = "「ん～？\u3000どうしたの、ソフレ？」"
+translation = "「응~? 왜 그래 소프레?」"
+
+[[dialogue]]
+speaker = "ソフレ"
+original = "「お前、もしかして最近――」"
+translation = "「너, 설마 최근에――」"
+
+[[dialogue]]
+speaker = "ソフレ"
+original = "「少し太ったのだわ？」"
+translation = "「조금 살찐 거 아니야?」"
+
+[[dialogue]]
+speaker = "フェリシー"
+original = "「っ……！\u3000ごほっ、ごほごほっ！」"
+translation = "「윽……! 컥, 컥컥!」"
+
+[[dialogue]]
+speaker = "フェリシー"
+original = "「何を言い出すの、いきなり！？」"
+translation = "「갑자기 무슨 소리를 하는 거야!?」"
+
+[[dialogue]]
+speaker = "ソフレ"
+original = "「いや、なんだか最近、お前の姿を見る度に違和感を覚えていたんだけど……その正体に今気付いたのだわ」"
+translation = "「아니, 왠지 요즘 네 모습을 볼 때마다 위화감이 느껴졌는데…… 그 정체를 방금 깨달은거야」"
+
+[[dialogue]]
+speaker = "ソフレ"
+original = "「体型がいつもよりアンバランスなのよ。そう――」"
+translation = "「체형이 평소보다 언밸런스해. 그래――」"
+
+[[dialogue]]
+speaker = "ソフレ"
+original = "「お前の太もも……前より太くなってない？」"
+translation = "「너 허벅지…… 전보다 굵어지지 않았어?」"
+
+[[dialogue]]
+speaker = "フェリシー"
+original = "「太くなってないよっ！？\u3000何を証拠にそんな……！」"
+translation = "「안 굵어졌어!! 무슨 증거로 그런……!」"
+
+[[dialogue]]
+speaker = "ソフレ"
+original = "「さっき日替わり定食の前に、別の定食を食べてなかったかしら？」"
+translation = "「방금 오늘의 정식 먹기 전에 다른 정식도 먹지 않았어?」"
+
+[[dialogue]]
+speaker = "フェリシー"
+original = "「…………カフェテリアのご飯、美味しいから……」"
+translation = "「…………카페테리아 밥이 맛있으니까……」"
+
+[[dialogue]]
+speaker = "ソフレ"
+original = "「確か、この前も定食を複数頼んでいたのだわ。それを考えると、やはり太――」"
+translation = "「분명 저번에도 정식을 여러 개 시켰던 것 같은거야. 그걸 생각하면 역시 굵――」"
+
+[[dialogue]]
+speaker = "フェリシー"
+original = "「太ってないっ！！」"
+translation = "「안 굵어졌다고!!」"
+
+[[dialogue]]
+speaker = "ソフレ"
+original = "「それなら会長に聞いてみればいいのだわ。会長はフェリシーの太ももを見て、どう思う？」"
+translation = "「그럼 회장에게 물어보면 되는거야. 회장은 펠리시의 허벅지를 보고 어떻게 생각해?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "……太いか、太くないかで言えば、太――"
+translation = "……굵냐 굵지 않냐로 따지면 굵――"
+
+[[dialogue]]
+speaker = "フェリシー"
+original = "「太くないってっ！！！\u3000というか、なんで太ももが基準なの！？」"
+translation = "「안 굵다니까!!! 그보다 왜 허벅지가 기준인 건데!?」"
+
+[[dialogue]]
+speaker = "ソフレ"
+original = "「フェリシーといえば、太ももなのだわ。それはもう、１００年前のフェリーチェよりも印象が強いくらいに」"
+translation = "「펠리시 하면 허벅지인거야. 그건 이미 100년 전의 펠리체보다도 인상이 강할 정도인야」"
+
+[[dialogue]]
+speaker = "フェリシー"
+original = "「そんな風に見られてたの！？\u3000ていうか私、ひいお祖母ちゃんよりも太いの！？」"
+translation = "「그런 식으로 보고 있었던 거야!? 그보다 나 증조할머니보다 굵은 거야!?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "モンスター発生のアラート……！"
+translation = "몬스터 발생 알람……!"
+
+[[dialogue]]
+speaker = "unk"
+original = "俺たち３人はモンスターが出現した場所に駆けつけ、戦闘を開始したのだが――"
+translation = "우리 셋은 몬스터가 출현한 장소로 달려가 전투를 시작했으나――"
+
+[[dialogue]]
+speaker = "フェリシー"
+original = "「くっ……！\u3000なんか、思うように体の動きが……！？」"
+translation = "「큭……! 왠지 생각처럼 몸이 안 움직여……!?」"
+
+[[dialogue]]
+speaker = "フェリシー"
+original = "「ま、まさか……本当に体重が増えたから……！？」"
+translation = "「서, 설마…… 정말로 몸무게가 늘어서……!?」"
+
+[[dialogue]]
+speaker = "ソフレ"
+original = "「いや……体重が原因ではないのだわ」"
+translation = "「아니…… 몸무게가 원인이 아닌거야」"
+
+[[dialogue]]
+speaker = "フェリシー"
+original = "「え？」"
+translation = "「에?」"
+
+[[dialogue]]
+speaker = "ソフレ"
+original = "「太ももが太くなったことが原因よ」"
+translation = "「허벅지가 굵어진 게 원인이야」"
+
+[[dialogue]]
+speaker = "フェリシー"
+original = "「だからなんで太もも！？」"
+translation = "「그러니까 왜 허벅지냐고!?」"
+
+[[dialogue]]
+speaker = "ソフレ"
+original = "「太ももが極端に太くなった結果――太もも同士の干渉により、足の可動域が減少したのよ！」"
+translation = "「허벅지가 극단적으로 굵어진 결과―― 허벅지끼리 간섭해서 다리의 가동 범위가 감소한 거야!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "フェリシー、危ない！"
+translation = "펠리시, 위험해!"
+
+[[dialogue]]
+speaker = "フェリシー"
+original = "「！\u3000し、しまった！\u3000足がもつれて避けられない……！」"
+translation = "「! 이, 이런! 다리가 꼬여서 피할 수 없어……!」"
+
+[[dialogue]]
+speaker = "フェリシー"
+original = "「って、会長くん！？\u3000ひゃっ！？」"
+translation = "「어, 회장군!? 히앗!?」"
+
+[[dialogue]]
+speaker = "フェリシー"
+original = "「こ、これってお姫様抱っこ！？\u3000ま、待って待って、いきなりこんな……！\u3000心の準備がぁ～～～っつ！」"
+translation = "「이, 이건 공주님 안기!? 자, 잠깐잠깐 갑자기 이런 건……! 마음의 준비가아~~~앗!」"
+
+[[dialogue]]
+speaker = "ソフレ"
+original = "「いや、普段の距離感バグって近過ぎるお前が、なんでされる側になると、恥ずかしがってるのよ……えいっ」"
+translation = "「아니, 평소엔 거리감 박살 나서 너무 가까운 네가 왜 당하는 입장이 되니까 부끄러워하는 거야…… 에잇」"
+
+[[dialogue]]
+speaker = "unk"
+original = "その後、ツッコミ代わりにソフレの放った落雷攻撃で、モンスターは一掃された――"
+translation = "그 후 태클 대신 소프레가 날린 낙뢰 공격으로 몬스터는 일소되었다――"
+
+[[dialogue]]
+speaker = "フェリシー"
+original = "「――うぅ……会長くんにお姫様抱っこされるなんて……！」"
+translation = "「――으으…… 회장군한테 공주님 안기를 당하다니……!」"
+
+[[dialogue]]
+speaker = "フェリシー"
+original = "「あっ、嫌なわけじゃないんだよ！？\u3000で、でも今はタイミングが悪いというか、その……」"
+translation = "「앗, 싫다는 게 아니야!? 하, 하지만 지금은 타이밍이 안 좋달까 그게……」"
+
+[[dialogue]]
+speaker = "ソフレ"
+original = "「なるほど、体重を気にしているのね。会長、実際どうなの？」"
+translation = "「과연 체중을 신경 쓰고 있는 거네. 회장 실제로 어때?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "……重いか、重くないかで言えば、重――"
+translation = "……무겁냐 무겁지 않냐로 따지면 무거――"
+
+[[dialogue]]
+speaker = "フェリシー"
+original = "「～～～っ！\u3000だ、ダイエットする！\u3000体重、絶対に元に戻すからぁぁぁっ！」"
+translation = "「~~~앗! 다, 다이어트 할 거야! 몸무게 반드시 원래대로 돌려놓을 거니까아아앗!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "それから数週間後――"
+translation = "그로부터 몇 주 후――"
+
+[[dialogue]]
+speaker = "フェリシー"
+original = "「２人共見て！\u3000あれからちゃんとダイエットして、体重を元に戻したよ！」"
+translation = "「둘 다 봐줘! 그때 이후로 제대로 다이어트해서 몸무게 원래대로 돌려놨어!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "おぉっ、えらい！\u3000おめでとう！"
+translation = "오오, 장하다! 축하해!"
+
+[[dialogue]]
+speaker = "ソフレ"
+original = "「確かに、体型のバランスはよくなったのだわ」"
+translation = "「확실히 체형 밸런스는 좋아진 거 같은거야」"
+
+[[dialogue]]
+speaker = "ソフレ"
+original = "「でも……」"
+translation = "「하지만……」"
+
+[[dialogue]]
+speaker = "ソフレ"
+original = "「改めて見るとお前――太ももは最初から、滅茶苦茶太いわね」"
+translation = "「새삼 다시 보니까 너―― 허벅지는 처음부터 엄청나게 굵구나」"
+
+[[dialogue]]
+speaker = "フェリシー"
+original = "「太くないって！！！」"
+translation = "「안 굵다니까!!!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "そこだけは絶対に認めないフェリシーなのであった――"
+translation = "그것만은 절대로 인정하지 않는 펠리시였다――"
+

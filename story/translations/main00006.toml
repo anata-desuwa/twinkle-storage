@@ -1,0 +1,290 @@
+[[dialogue]]
+speaker = "unk"
+original = "<size=40>第一章『新星学園星徒会』</size>"
+translation = "<size=40>제1장 『신성 학원 성도회』</size>"
+
+[[dialogue]]
+speaker = "unk"
+original = "<size=40>一日前──</size>"
+translation = "<size=40>하루 전──</size>"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「──よし」"
+translation = "「──좋아.」"
+
+[[dialogue]]
+speaker = "unk"
+original = "引き締まったネクタイを確認する。"
+translation = "단단히 맨 넥타이를 확인한다."
+
+[[dialogue]]
+speaker = "unk"
+original = "白い雲の浮かぶ青空は、まるで俺の新しい門出を祝うかのように晴れ渡っていた。"
+translation = "흰 구름이 떠 있는 푸른 하늘은, 마치 나의 새로운 출발을 축하하듯이 맑게 개어 있었다."
+
+[[dialogue]]
+speaker = "クロト"
+original = "「（転入初日か……緊張するな。でも心地いい緊張だ）」"
+translation = "「(전학 첫날인가…… 긴장되네. 하지만 기분 좋은 긴장감이다.)」"
+
+[[dialogue]]
+speaker = "unk"
+original = "今日は<ruby>黄雀<rt>こうじゃく</rt></ruby>ノ月・三日。"
+translation = "오늘은 황작의 달, 3일."
+
+[[dialogue]]
+speaker = "unk"
+original = "春はとうに過ぎ去り、もうすぐ本格的な夏が始まろうとしている今日が、俺の初登校日だ。"
+translation = "봄은 이미 지나가고, 이제 곧 본격적인 여름이 시작되려는 오늘이 나의 첫 등교일이다."
+
+[[dialogue]]
+speaker = "unk"
+original = "まだ新鮮なこの風景も、いつかは慣れ親しんだ通学路になっているのかもしれない。"
+translation = "아직 신선한 이 풍경도, 언젠가는 익숙한 통학로가 되어 있을지도 모른다."
+
+[[dialogue]]
+speaker = "クロト"
+original = "「（転入生挨拶なんかもあるんだろうし……しっかり考えておかないとな）」"
+translation = "「(전학생 인사 같은 것도 있을 테고…… 제대로 생각해 둬야겠네.)」"
+
+[[dialogue]]
+speaker = "unk"
+original = "と、万感の思いを巡らせながら進んでいると……"
+translation = "라고, 만감의 상념을 떠올리며 나아가고 있는데……"
+
+[[dialogue]]
+speaker = "叫ぶ女性"
+original = "「きゃあああああ──っ！\u3000だーれーかーっ！」"
+translation = "「꺄아아아아아──! 누ー구ー없ー어ー요ー!」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「っ──この声は──」"
+translation = "「크읏── 이 목소리는──」"
+
+[[dialogue]]
+speaker = "unk"
+original = "突如、閑静な住宅街を悲鳴がつんざいた。"
+translation = "갑자기, 한적한 주택가를 비명이 찢었다."
+
+[[dialogue]]
+speaker = "unk"
+original = "俺はすぐ声の元へと向かった。"
+translation = "나는 곧바로 소리가 나는 곳으로 향했다."
+
+[[dialogue]]
+speaker = "フワッチ"
+original = "「イ～ッ！」"
+translation = "「이ー잇!」"
+
+[[dialogue]]
+speaker = "フワッチ"
+original = "「ィィィ──！」"
+translation = "「이이이──!」"
+
+[[dialogue]]
+speaker = "叫ぶ女性"
+original = "「こ、子どもたちのバスがかじられてる──こ、このままじゃっ……！」"
+translation = "「저, 아이들의 버스가 갉아 먹히고 있어── 이, 이대로는……!」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「やっぱり──モンスター……っ！」"
+translation = "「역시── 몬스터……!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "現場では、何匹もの小型モンスターがスクールバスをガジガジと食い破っていた。"
+translation = "현장에서는, 수많은 소형 몬스터들이 스쿨버스를 우적우적 씹어 먹고 있었다."
+
+[[dialogue]]
+speaker = "unk"
+original = "あれは、確か近所の子ども園の……"
+translation = "저것은, 분명 근처 어린이집의……"
+
+[[dialogue]]
+speaker = "取り残された子"
+original = "「ふええぇーーん……！\u3000だれかぁー……たすけてぇぇー……！」"
+translation = "「흐에에엥ーー……! 누ー가ー…… 살려줘어어ー……!」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「（中に子どもが取り残されてる──危険だ）」"
+translation = "「(안에 아이가 갇혀 있어── 위험하다.)」"
+
+[[dialogue]]
+speaker = "unk"
+original = "モンスター。"
+translation = "몬스터."
+
+[[dialogue]]
+speaker = "unk"
+original = "それは、世界中に湧いては混乱をもたらす謎の生命体のこと。"
+translation = "그것은, 전 세계에 솟아나 혼란을 초래하는 정체불명의 생명체를 말한다."
+
+[[dialogue]]
+speaker = "unk"
+original = "あれだけの数が密集していては、バスごと子どもたちがやられてしまいかねない。"
+translation = "저 정도의 수가 밀집해 있다면, 버스째로 아이들이 당해 버릴 수도 있다."
+
+[[dialogue]]
+speaker = "unk"
+original = "なら……"
+translation = "그렇다면……"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「……っ、やめろ、モンスター！\u3000おまえ達の餌はこっちにいるぞ──俺が相手になってやる！」"
+translation = "「……크읏, 그만둬, 몬스터! 너희들의 먹이는 이쪽에 있다── 내가 상대해 주마!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "はやる心臓を抑えて、俺は大きな声でモンスターの注意を引く。"
+translation = "요동치는 심장을 억누르고, 나는 큰 소리로 몬스터들의 주의를 끈다."
+
+[[dialogue]]
+speaker = "unk"
+original = "大丈夫、あれくらいの相手なら、今までだって何度も相手にしてきた。"
+translation = "괜찮아, 저 정도 상대라면, 지금까지도 몇 번이나 상대해 왔으니까."
+
+[[dialogue]]
+speaker = "フワッチ"
+original = "「イーッ！」"
+translation = "「이ー잇!」"
+
+[[dialogue]]
+speaker = "フワッチ"
+original = "「ィィィィ！」"
+translation = "「이이이이!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "俺の姿を見つけるやいなや、示し合わせたようにこちらへ向かってくるモンスターの一群。"
+translation = "나의 모습을 발견하자마자, 약속이라도 한 듯 이쪽으로 향해 오는 몬스터 무리."
+
+[[dialogue]]
+speaker = "unk"
+original = "そう。俺は不幸なことに……彼らを引き寄せやすいという体質を持っていた。"
+translation = "그래. 나는 불행하게도…… 그들을 끌어들이기 쉬운 체질을 가지고 있었다."
+
+[[dialogue]]
+speaker = "叫ぶ女性"
+original = "「あ、あなたは……！？」"
+translation = "「아, 당신은……!?」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「俺は慣れてるから大丈夫です！\u3000今のうちにバスの避難を」"
+translation = "「저는 익숙하니까 괜찮습니다! 지금 바로 버스를 피난시키세요.」"
+
+[[dialogue]]
+speaker = "unk"
+original = "大好物の俺を見つけたことでモンスターたちの興味が子どもたちから逸れた。"
+translation = "가장 좋아하는 나를 발견한 덕분에 몬스터들의 관심이 아이들에게서 벗어났다."
+
+[[dialogue]]
+speaker = "unk"
+original = "後は、俺が奴らを相手すればいいだけだ。"
+translation = "이제, 내가 녀석들을 상대하기만 하면 된다."
+
+[[dialogue]]
+speaker = "クロト"
+original = "「（弱い個体だが、数が多い……でも弱気になっちゃいけない）」"
+translation = "「(약한 개체지만, 수가 많다…… 하지만 약해져서는 안 돼.)」"
+
+[[dialogue]]
+speaker = "unk"
+original = "俺はこういう悲劇を救うために<ruby>星騎士<rt>せいきし</rt></ruby>を志したのだ。"
+translation = "나는 이런 비극을 구하기 위해 성기사를 지망한 것이다."
+
+[[dialogue]]
+speaker = "unk"
+original = "今日から<ruby>新星<rt>しんせい</rt></ruby>学園の一員になる者として、奴らを撃退する役目がある。"
+translation = "오늘부터 신성 학원의 일원이 될 자로서, 녀석들을 격퇴할 임무가 있다."
+
+[[dialogue]]
+speaker = "クロト"
+original = "「来い。正確にはまだ入学前だけど……一人前になったところを見せてやる」"
+translation = "「덤벼라. 정확히는 아직 입학 전이지만…… 어엿한 사람이 된 모습을 보여주마.」"
+
+[[dialogue]]
+speaker = "フワッチ"
+original = "「イーッ！」"
+translation = "「이ー잇!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "<ruby>丹田<rt>たんでん</rt></ruby>に気を集中させ、拳に力を込める。"
+translation = "단전에 기를 집중시키고, 주먹에 힘을 싣는다."
+
+[[dialogue]]
+speaker = "unk"
+original = "いざ、せめて時間稼ぎにはなるよう戦闘開始──"
+translation = "자, 적어도 시간 벌이라도 되도록 전투 개시──"
+
+[[dialogue]]
+speaker = "unk"
+original = "──と。"
+translation = "──그런데."
+
+[[dialogue]]
+speaker = "クロト"
+original = "「ん……？」"
+translation = "「응……?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "どこからか聞こえる音──そして。"
+translation = "어디선가 들리는 소리── 그리고."
+
+[[dialogue]]
+speaker = "アナ"
+original = "「しゅわっち」"
+translation = "「슈왓치.」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「！？\u3000君は──」"
+translation = "「!? 너는──」"
+
+[[dialogue]]
+speaker = "unk"
+original = "突然、空から小さな女の子が降ってきた。"
+translation = "갑자기, 하늘에서 작은 여자아이가 떨어져 내렸다."
+
+[[dialogue]]
+speaker = "アナ"
+original = "「ん、間に合った。ハイこれ」"
+translation = "「응, 늦지 않았네. 자, 이거.」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「これって──え──？」"
+translation = "「이거는── 에──?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "少女から手渡された道具を受け取る。"
+translation = "소녀에게 건네받은 도구를 받는다."
+
+[[dialogue]]
+speaker = "unk"
+original = "これは……？"
+translation = "이것은……?"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「話は後で。とにかくそれで変身して」"
+translation = "「이야기는 나중에. 아무튼 그걸로 변신해.」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「変身……？\u3000よくわからないが──悩んでる暇はなさそうだなっ！」"
+translation = "「변신……? 잘 모르겠지만── 고민할 틈은 없을 것 같군!」"
+
+[[dialogue]]
+speaker = "フワッチ"
+original = "「ィ──ッ！」"
+translation = "「이──잇!」"
+

@@ -1,0 +1,140 @@
+[[dialogue]]
+speaker = "unk"
+original = "――目が覚めると、そこは何故か新星学園保健室のベッドの上だった。"
+translation = "――눈을 뜨자 그곳은 왠지 신성 학원 보건실 침대 위였다."
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「あっ！\u3000会長、起きた！？」"
+translation = "「앗! 회장, 일어났어!?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "マトイ……？"
+translation = "「마토이……?」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「目が覚めて、よかった～。先生は体に傷とかはないって言ってたけど、心配してたんだよ？」"
+translation = "「깨어나서 다행이야~. 선생님은 몸에 상처 같은 건 없다고 하셨지만 걱정했거든?」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「星徒会室の前の廊下で倒れてたのを発見した時は、血の気が引いたよ。もしかして過労で！？\u3000とか思っちゃったりして……」"
+translation = "「성도회실 앞 복도에서 쓰러져 있는 걸 발견했을 때는 핏기가 가시더라고. 설마 과로로!? 라고 생각하기도 하고……」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「でも、診察した先生は過労じゃないって言ってて。会長、一体何があったの？」"
+translation = "「하지만 진찰하신 선생님은 과로가 아니라고 하셨어. 회장, 대체 무슨 일이 있었던 거야?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "なんで倒れてたのか、思い出せない……"
+translation = "「왜 쓰러져 있었는지 기억이 안 나……」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「え？\u3000自分でもわからないってこと？」"
+translation = "「어? 스스로도 모르겠다는 거야?」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「――それだけじゃないって？\u3000一体どういう……」"
+translation = "「――그것뿐만이 아니라고? 대체 어떤……」"
+
+[[dialogue]]
+speaker = "？？？"
+original = "「会長さま、ご無事ですか！？」"
+translation = "「회장님, 무사하십니까!?」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「あっ、トマル！」"
+translation = "「앗, 토마루!」"
+
+[[dialogue]]
+speaker = "トマル"
+original = "「はぁっ……はぁっ……！\u3000マトイ姉さま！\u3000会長さまの容体は！？」"
+translation = "「하아…… 하아……! 마토이 누님! 회장님의 용태는 어떤가요!?」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「息切れしてるじゃない。ひとまず落ち着いて。会長は大丈夫だから」"
+translation = "「숨이 가쁘잖아. 일단 진정해. 회장은 괜찮으니까.」"
+
+[[dialogue]]
+speaker = "トマル"
+original = "「ご無事なのですね……！\u3000よかった……！」"
+translation = "「무사하시군요……! 다행이다……!」"
+
+[[dialogue]]
+speaker = "トマル"
+original = "「会長さまを探していたら、保健室に運び込まれたと聞いて……！」"
+translation = "「회장님을 찾고 있었는데 보건실로 실려 가셨다는 말을 듣고……!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "心配してくれてありがとう"
+translation = "「걱정해 줘서 고마워.」"
+
+[[dialogue]]
+speaker = "トマル"
+original = "「いえ、会長さまがご無事ならそれで……！」"
+translation = "「아니요, 회장님이 무사하시다면 그걸로……!」"
+
+[[dialogue]]
+speaker = "トマル"
+original = "「――え？\u3000どうしたのですか、会長さま？\u3000いきなり謝られたりして……」"
+translation = "「――어? 왜 그러시나요, 회장님? 갑자기 사과하시고……」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「――気を悪くしないでほしいって？\u3000なんか、浮かない顔してるけど……」"
+translation = "「――기분 나쁘게 듣지 말아 달라고? 뭔가 어두운 표정인데……」"
+
+[[dialogue]]
+speaker = "unk"
+original = "実は……トマル？\u3000のことが思い出せないんだ"
+translation = "「사실…… 토마루? 에 대해서 기억이 안 나.」"
+
+[[dialogue]]
+speaker = "トマル"
+original = "「え！？\u3000会長さま……まさか……！」"
+translation = "「에!? 회장님…… 설마……!」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「いやいや！\u3000今まで何度も会ってるでしょ！？」"
+translation = "「아니 아니! 지금까지 몇 번이나 만났잖아!?」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「私の弟の、<ruby>詠野<rt>よみの</rt></ruby>トマルよ！\u3000まさか……忘れちゃったの！？」"
+translation = "「내 동생인 에이노 토마루야! 설마…… 잊어버린 거야!?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "マトイの弟…………弟！？！？"
+translation = "「마토이의 남동생………… 남동생!?!?」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「まあ、どうやっても美少女にしか見えないけど……」"
+translation = "「뭐, 아무리 봐도 미소녀로밖에 안 보이지만……」"
+
+[[dialogue]]
+speaker = "トマル"
+original = "「あはは……はい。お恥ずかしながら――」"
+translation = "「아하하…… 네. 부끄럽게도――」"
+
+[[dialogue]]
+speaker = "トマル"
+original = "「私、男なんです……」"
+translation = "「저, 남자예요……」"
+
+[[dialogue]]
+speaker = "unk"
+original = "え……えええぇぇぇーーーーーーっ！！？"
+translation = "「에…… 에에에에에에엑――――――!!?」"
+

@@ -1,0 +1,155 @@
+[[dialogue]]
+speaker = "ヒルディオーネ"
+original = "（流星学園の合同で７日間に渡って行われる『星霊祭』……）"
+translation = "（유성 학원의 합동으로 7일간에 걸쳐 진행되는 『성령제』……）"
+
+[[dialogue]]
+speaker = "ヒルディオーネ"
+original = "（この祭典の中でも、特に注目を集めるのが、星騎士同士が１対１で武を競い合う個人戦トーナメント）"
+translation = "（이 축제 중에서도, 특히 주목을 끄는 것이, 성기사끼리 1대 1로 무를 겨루는 개인전 토너먼트）"
+
+[[dialogue]]
+speaker = "ヒルディオーネ"
+original = "（その名を――『<ruby>星霊舞闘会<rt>せいれいぶとうかい</rt></ruby>』という）"
+translation = "（그 이름은――『성령무투회』라고 한다）"
+
+[[dialogue]]
+speaker = "ヒルディオーネ"
+original = "（そして前回、頂点を制したのは――）"
+translation = "（그리고 지난번, 정점을 제패한 것은――）"
+
+[[dialogue]]
+speaker = "マハムート"
+original = "「――ドラゴニックメガフレア！」"
+translation = "「――드래고닉 메가 플레어!」"
+
+[[dialogue]]
+speaker = "ヒルディオーネ"
+original = "「かはっ……！」"
+translation = "「크하윽……!」"
+
+[[dialogue]]
+speaker = "マハムート"
+original = "「ふぅ……これで、終わりかしら……？」"
+translation = "「후우…… 이걸로, 끝일까……?」"
+
+[[dialogue]]
+speaker = "ヒルディオーネ"
+original = "「くっ……！」"
+translation = "「크윽……!」"
+
+[[dialogue]]
+speaker = "紅明"
+original = "『決着ーーーっ！！\u3000星霊舞闘会、優勝者は……新星寮寮長・妃竜院マハムートーーーっ！！！』"
+translation = "『결착ーーー!! 성령무투회, 우승자는…… 신성 기숙사 사감・히류인 마하무트ーーー!!!』"
+
+[[dialogue]]
+speaker = "ヒルディオーネ"
+original = "（ああ……また、勝つことができませんでしたわ……）"
+translation = "（아아…… 또, 이길 수가 없었습니다와……）"
+
+[[dialogue]]
+speaker = "マハムート"
+original = "「ふぅ……」"
+translation = "「후우……」"
+
+[[dialogue]]
+speaker = "ヒルディオーネ"
+original = "（こうしてまた<ruby>私<rt>わたくし</rt></ruby>は、最強の『竜』たる彼女の前に跪いて――）"
+translation = "（이렇게 또 저는, 최강의 『용』인 그녀 앞에 무릎 꿇고――）"
+
+[[dialogue]]
+speaker = "寮生Ａ"
+original = "「ああ、ヒルディーお姉様が……！」"
+translation = "「아아, 힐디 언니가……!」"
+
+[[dialogue]]
+speaker = "寮生Ｂ"
+original = "「負けてしまいましたわ……！」"
+translation = "「져버렸습니다와……!」"
+
+[[dialogue]]
+speaker = "ヒルディオーネ"
+original = "（応援しに来てくれている後輩たちの前で、みっともない負け姿を晒す。私は妃竜院マハムートと肩を並べる、流星寮の寮長だというのに）"
+translation = "（응원하러 와준 후배들 앞에서, 꼴사나운 패배한 모습을 드러낸다. 저는 히류인 마하무트와 어깨를 나란히 하는, 유성 기숙사의 사감인데도）"
+
+[[dialogue]]
+speaker = "ヒルディオーネ"
+original = "（私は未だ――１度として彼女に勝てたことがない）"
+translation = "（저는 아직――단 한 번도 그녀를 이겨본 적이 없다）"
+
+[[dialogue]]
+speaker = "unk"
+original = "次の星霊祭まであと２週間と迫った、週末前の放課後。"
+translation = "다음 성령제까지 앞으로 2주로 다가온, 주말 전 방과 후."
+
+[[dialogue]]
+speaker = "unk"
+original = "俺は流星学園３年生の<ruby>千園寺<rt>せんおんじ</rt></ruby>ヒルディオーネ先輩と、１年生のフェニエル――フニに頼まれて、ある場所へ合宿にやって来ていた。"
+translation = "나는 유성 학원 3학년인 치온지 힐디 오네 선배와, 1학년인 페니엘――후니에게 부탁받아, 어떤 장소로 합숙을 하러 와 있었다."
+
+[[dialogue]]
+speaker = "フェニエル"
+original = "「会長さん、改めて私の為にわざわざ<b>北海道</b>までご同行頂いて、ありがとうございます……！」"
+translation = "「회장군, 다시 한번 저를 위해 일부러 <b>홋카이도</b>까지 동행해 주셔서, 감사합니다……!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "久しぶりに帰省できてよかったな"
+translation = "오랜만에 귀성할 수 있어서 다행이네"
+
+[[dialogue]]
+speaker = "フェニエル"
+original = "「えへへ♪\u3000はいっ。村のみんなに会えて、すごく力が湧いて来ました♪」"
+translation = "「에헤헤♪ 네엣. 마을 사람들을 만나서, 엄청 힘이 솟아났어요♪」"
+
+[[dialogue]]
+speaker = "unk"
+original = "そう、俺たちが今来ている場所は、フニが育った北海道の村近くにある森の中であった。"
+translation = "그래, 우리가 지금 와 있는 장소는, 후니가 자란 홋카이도의 마을 근처에 있는 숲 속이었다."
+
+[[dialogue]]
+speaker = "ヒルディオーネ"
+original = "「――フニ、準備は出来ているようですわね。そろそろ合宿の本題に入りますわよ」"
+translation = "「――후니, 준비는 된 것 같네요. 슬슬 합숙의 본론으로 들어갑니다요」"
+
+[[dialogue]]
+speaker = "フェニエル"
+original = "「あっ、はいっ、ヒルディーお姉様！\u3000<b>ノヴァフォーム</b>になる為の特訓、ご指導よろしくお願いします……！」"
+translation = "「앗, 네엣, 힐디 언니! <ruby>노바 폼<rt>・・ ・</rt></ruby>이 되기 위한 특훈, 지도 잘 부탁드립니다……!」"
+
+[[dialogue]]
+speaker = "ヒルディオーネ"
+original = "「ええ。私自身も星霊舞闘会までにもっと強くなる為に来ていますから、一切手は抜きませんわ」"
+translation = "「예. 저 자신도 성령무투회까지 더욱 강해지기 위해 왔으니, 일절 봐주지 않겠습니다요」"
+
+[[dialogue]]
+speaker = "ヒルディオーネ"
+original = "「事前に言っていた通り――不可能を打ち砕く覚悟で来なさい、フニ！」"
+translation = "「사전에 말했던 대로―― 불가능을 부숴버릴 각오로 오세요, 후니!」"
+
+[[dialogue]]
+speaker = "フェニエル"
+original = "「はいっ……全力で行きます！」"
+translation = "「네엣…… 전력으로 갈게요!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "２人は構えて、戦闘態勢に入る。"
+translation = "두 사람은 자세를 취하고, 전투 태세에 들어간다."
+
+[[dialogue]]
+speaker = "フェニエル"
+original = "「てやぁーーーっ！」"
+translation = "「테야ーーー!」"
+
+[[dialogue]]
+speaker = "ヒルディオーネ"
+original = "「ふっーーー！」"
+translation = "「훗ーーー!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "こうして、星霊舞闘会に向けた強化合宿が開始されるのだった――"
+translation = "이렇게, 성령무투회를 향한 강화 합숙이 개시되는 것이었다――"
+

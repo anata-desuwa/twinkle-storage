@@ -1,0 +1,490 @@
+[[dialogue]]
+speaker = "unk"
+original = "クーシェンが学園にやって来てから１週間ほど経った休日。"
+translation = "쿠셴이 학원에 온 지 일주일 정도 지난 휴일."
+
+[[dialogue]]
+speaker = "unk"
+original = "紅明の発案で、クーシェンと一緒に街へ遊びに行くことなった。"
+translation = "코우메이의 제안으로 쿠셴과 함께 거리로 놀러 가게 되었다."
+
+[[dialogue]]
+speaker = "？？？"
+original = "「えへへっ、だ～れだ？」"
+translation = "「에헤헷, 누~구게?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "後ろから目隠しをされて、俺がクーシェンの名前を呼ぶと――"
+translation = "뒤에서 눈이 가려져서 내가 쿠셴의 이름을 부르자──"
+
+[[dialogue]]
+speaker = "クーシェン"
+original = "「ふふっ、せいか～い♪\u3000ボクだよ～♪」"
+translation = "「후훗, 정답~♪ 나야 나~♪」"
+
+[[dialogue]]
+speaker = "クーシェン"
+original = "「じゃ～ん☆\u3000にーにー、ボクの制服姿、どうどう？\u3000カッコ可愛いでしょ～？」"
+translation = "「짜잔~☆ 오빠, 내 교복 차림, 어때 어때? 멋쁘지(멋지고 귀엽지)?」"
+
+[[dialogue]]
+speaker = "クーシェン"
+original = "「附属校に通うことになったから、作ってもらったんだ～♪」"
+translation = "「부속교에 다니게 됐으니까, 맞춰줬다구~♪」"
+
+[[dialogue]]
+speaker = "unk"
+original = "よく似合ってる"
+translation = "잘 어울려"
+
+[[dialogue]]
+speaker = "クーシェン"
+original = "「えへへへ～っ♪\u3000まぁ、ボクなら当然だけどね～♪\u3000にーにー、もっと褒めてくれてもいいんだよ～？」"
+translation = "「에헤헤헤~♪ 뭐, 나라면 당연하겠지만 말야~♪ 오빠, 좀 더 칭찬해 줘도 된다구~?」"
+
+[[dialogue]]
+speaker = "紅明"
+original = "「うしし☆\u3000クーちん、ダーリンから褒めてもらえてよかったね～♪」"
+translation = "「우시시☆ 쿠셴, 달링한테 칭찬받아서 다행이네~♪」"
+
+[[dialogue]]
+speaker = "クーシェン"
+original = "「あっ、紅明ねーねー！\u3000おはよ～♪」"
+translation = "「앗, 코우메이 언니! 안녕~♪」"
+
+[[dialogue]]
+speaker = "クーシェン"
+original = "「ねーねーも見て見て！\u3000どう？\u3000ボクの制服、似合ってるでしょ～？」"
+translation = "「언니도 봐봐! 어때? 내 교복, 잘 어울리지?」"
+
+[[dialogue]]
+speaker = "紅明"
+original = "「お～！\u3000めっちゃ似合ってるじゃん！\u3000カッコ可愛いぞ～♪\u3000よしよし☆」"
+translation = "「오~! 엄청 잘 어울리잖아! 멋쁘다구~♪ 착하다 착해☆」"
+
+[[dialogue]]
+speaker = "クーシェン"
+original = "「んっ♪\u3000えへへへぇ♪\u3000ねーねー、ちょっと～！\u3000ボク、そんな頭ナデナデされる程小さい子供じゃないんだから、やめてよね～！」"
+translation = "「응♪ 에헤헤헤♪ 언니, 정말~! 나 그렇게 머리 쓰담쓰담 받을 만큼 어린애 아니니까 그만하라니까~!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "この前のアリーナで、御前試合の後に行われた紅明とクーシェンのエキシビションマッチは、紅明が勝利した。"
+translation = "지난번 아레나에서 어전 시합 뒤에 열린 코우메이와 쿠셴의 이벤트 매치는 코우메이가 승리했다."
+
+[[dialogue]]
+speaker = "unk"
+original = "クーシェンが消耗していたのも勿論あるが、芭蕉扇を使いこなした紅明の強さは圧倒的だった。"
+translation = "쿠셴이 소모되어 있었던 것도 물론 있지만, 파초선을 다루는 코우메이의 강함은 압도적이었다."
+
+[[dialogue]]
+speaker = "unk"
+original = "その後は、俺の時と似たようなやり取りがあって、紅明のことも『ねーねー』と呼ぶようになったというわけだった。"
+translation = "그 뒤에는 나와 비슷하게 이야기를 나누다가 코우메이도 『언니』라고 부르게 되었다는 것이었다."
+
+[[dialogue]]
+speaker = "紅明"
+original = "「よ～し、それじゃあクーちんの制服お披露目も終わったことだし、早速アキバへとレッツゴ～☆」"
+translation = "「좋~아, 그럼 쿠셴의 교복 선보이기도 끝났으니, 바로 아키바로 렛츠 고~☆」"
+
+[[dialogue]]
+speaker = "クーシェン"
+original = "「お～っ♪」"
+translation = "「오~♪」"
+
+[[dialogue]]
+speaker = "クーシェン"
+original = "「わぁ～♪\u3000ここが秋葉原か～！\u3000知らないものがいっぱいで、すっごくウキウキする～♪」"
+translation = "「와아~♪ 여기가 아키하바라구나~! 모르는 게 가득해서 정말 두근거려~♪」"
+
+[[dialogue]]
+speaker = "クーシェン"
+original = "「それでそれで？\u3000ねーねーはどこ案内してくれるの？」"
+translation = "「그래서 그래서? 언니는 어디로 안내해 줄 거야?」"
+
+[[dialogue]]
+speaker = "紅明"
+original = "「秋葉原といえば、日本のサブカルチャーの聖地！\u3000というわけで、アニメショップに行くっきゃないっしょ☆」"
+translation = "「아키하바라 하면 일본 서브컬처의 성지! 그런 고로 애니메이션 샵에 가야 하지 않겠어☆」"
+
+[[dialogue]]
+speaker = "クーシェン"
+original = "「さぶかる……？\u3000あにめ……？」"
+translation = "「서브컬……? 애니메……?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "そっか、クーシェンは知りようもないか"
+translation = "그렇지, 쿠셴이 알 리가 없지"
+
+[[dialogue]]
+speaker = "unk"
+original = "俺は漫画やアニメのことを説明する。"
+translation = "나는 만화나 애니메이션에 대해 설명한다."
+
+[[dialogue]]
+speaker = "クーシェン"
+original = "「まんが……？\u3000ボク、本で字を読むのはあんまり好きじゃないんだけど……」"
+translation = "「만화……? 나, 책으로 글자 읽는 건 별로 안 좋아하는데……」"
+
+[[dialogue]]
+speaker = "紅明"
+original = "「百聞は一見に如かず。そこは実際に見れば、すぐにわかるっしょ♪」"
+translation = "「백문이 불여일견. 그건 실제로 보면 바로 알 거라구♪」"
+
+[[dialogue]]
+speaker = "unk"
+original = "俺たちはアニメショップへと向かう前に、ＤＩＳＣの電子書籍で漫画がどういうものか見せる。"
+translation = "우리들은 애니메이션 샵으로 향하기 전에 DISC의 전자 서적으로 만화가 어떤 것인지 보여준다."
+
+[[dialogue]]
+speaker = "クーシェン"
+original = "「す、すごいっ！！\u3000これが漫画……！\u3000文字も書いてあるけど、絵がいっぱいでわかりやすい！\u3000これならボクでも読めそう♪」"
+translation = "「대, 대단해!! 이게 만화……! 글자도 적혀 있지만 그림이 가득해서 이해하기 쉬워! 이거라면 나도 읽을 수 있을 것 같아♪」"
+
+[[dialogue]]
+speaker = "紅明"
+original = "「ふふふっ、これとかクーちんの好きな、強い奴らがハチャメチャスパーキングにバトルする漫画なんだぜ～？」"
+translation = "「후후후, 이거라든가 쿠셴이 좋아하는 강한 녀석들이 화끈하게 스파킹하며 배틀하는 만화라구?」"
+
+[[dialogue]]
+speaker = "クーシェン"
+original = "「わっ！？\u3000絵なのにすごい迫力……！\u3000激しいバトルの動きが伝わって来るよ！」"
+translation = "「왓!? 그림인데 엄청난 박력……! 격렬한 배틀의 움직임이 전해져 와!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "今度は、クーシェンに見せたバトル漫画のアニメ版をＤＩＳＣの画面に流す。"
+translation = "이번에는 쿠셴에게 보여준 배틀 만화의 애니메이션판을 DISC 화면에 띄운다."
+
+[[dialogue]]
+speaker = "クーシェン"
+original = "「えっ、すごっ！？\u3000絵が動いてる！？\u3000何かそういう星術があるってこと！？」"
+translation = "「엣, 대박!? 그림이 움직여!? 뭔가 그런 성술이 있다는 거야!?」"
+
+[[dialogue]]
+speaker = "紅明"
+original = "「ちっちっちっ。甘いな、クーちん。これには種も仕掛けもない、全部ヒトが描いて作ってるんだぜ☆」"
+translation = "「치치치. 무르구먼, 쿠셴. 이건 속임수도 장치도 없어, 전부 사람이 그려서 만든 거라구☆」"
+
+[[dialogue]]
+speaker = "unk"
+original = "それから俺たちはアニメショップへと入り、クーシェンにオススメのバトル漫画を紹介しながら周っていたのだが――"
+translation = "그러고 나서 우리들은 애니메이션 샵에 들어가 쿠셴에게 추천 배틀 만화를 소개해 주며 둘러보고 있었는데──"
+
+[[dialogue]]
+speaker = "クーシェン"
+original = "「ん……？\u3000ちょっと待って、にーにー！\u3000ねーねー！」"
+translation = "「응……? 잠깐 기다려봐, 오빠! 언니!」"
+
+[[dialogue]]
+speaker = "クーシェン"
+original = "「この漫画、なんかすごく……エッチなやつじゃない！？」"
+translation = "「이 만화, 왠지 굉장히…… 야한 거 아냐!?」"
+
+[[dialogue]]
+speaker = "クーシェン"
+original = "「ほら、これとか――女の子のパンツがチラッと見えてるし！\u3000服の露出度もすごいし！\u3000これじゃまるで――星騎士の戦闘服だよ！？」"
+translation = "「봐봐, 이거라든가── 여자아이 팬티가 살짝 보이고 있구! 옷 노출도도 장난 아냐! 이래선 마치── 성기사의 전투복 같잖아!?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "それは言っちゃダメなやつ！"
+translation = "그건 말하면 안 되는 거야!"
+
+[[dialogue]]
+speaker = "クーシェン"
+original = "「え？\u3000そうなの？」"
+translation = "「에? 그래?」"
+
+[[dialogue]]
+speaker = "クーシェン"
+original = "「でも、漫画とかアニメって、こういうエッチなやつもあるんだね～！」"
+translation = "「하지만 만화나 애니메이션은 이런 야한 것도 있구나~!」"
+
+[[dialogue]]
+speaker = "クーシェン"
+original = "「ウキキっ♪\u3000実はにーにーもこういうの、結構好きなんじゃな～い？」"
+translation = "「우키키♪ 사실 오빠도 이런 거 꽤 좋아하는 거 아냐~?」"
+
+[[dialogue]]
+speaker = "クーシェン"
+original = "「――あっ、やっぱり読んだことあるんだ～？\u3000ん？\u3000この作品は物語もしっかりしてるって？」"
+translation = "「──앗, 역시 읽어본 적 있구나~? 응? 이 작품은 스토리도 탄탄하다구?」"
+
+[[dialogue]]
+speaker = "クーシェン"
+original = "「もう、にーにーのムッツリスケベ～♪\u3000言い訳もカッコ悪いよ～？\u3000そんなの、よわっちぃ奴の言う台詞みたいじゃ～ん」"
+translation = "「정말, 오빠는 음란마귀라니까~♪ 변명도 꼴불견이야~? 그런 건 약해빠진 녀석들이나 하는 대사 같다구~」"
+
+[[dialogue]]
+speaker = "クーシェン"
+original = "「ふふ～ん♪\u3000その点、ボクはもうほとんど大人だからね～！\u3000エッチなものに興味があるのは、隠したりしないんだよ？」"
+translation = "「후후~운♪ 그 점에서 나는 이미 거의 어른이니까! 야한 것에 흥미가 있는 건 숨기거나 하지 않는다구?」"
+
+[[dialogue]]
+speaker = "クーシェン"
+original = "「まあ？\u3000さすがのボクも、まだ『大人ゲージ』は溜まり切ってないけど～」"
+translation = "「뭐, 역시 나도 아직 『어른 게이지』는 다 차지 않았지만~」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ん？"
+translation = "응?"
+
+[[dialogue]]
+speaker = "クーシェン"
+original = "「もうすぐ大人に進化して、ねーねーみたいなボンキュッボンになっちゃうから、にーにーは覚悟しておいてよね～！」"
+translation = "「곧 어른으로 진화해서 언니처럼 쭉쭉빵빵이 될 거니까, 오빠는 각오해 두라구~!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "えっと、進化？\u3000それにゲージ……とは？"
+translation = "저기, 진화? 그리고 게이지……란?"
+
+[[dialogue]]
+speaker = "クーシェン"
+original = "「あっ、やっぱりにーにーも、まだ進化前なんだ～？」"
+translation = "「앗, 역시 오빠도 아직 진화 전이구나~?」"
+
+[[dialogue]]
+speaker = "クーシェン"
+original = "「ほら、ヒトって『大人ゲージ』が溜まることで、進化するでしょ？」"
+translation = "「봐봐, 사람은 『어른 게이지』가 쌓이면서 진화하잖아?」"
+
+[[dialogue]]
+speaker = "クーシェン"
+original = "「ねーねーはどう見ても、進化後だよね！\u3000おっぱいが滅茶苦茶おっきいし！」"
+translation = "「언니는 아무리 봐도 진화 후지! 가슴이 무지막지하게 크니까!」"
+
+[[dialogue]]
+speaker = "紅明"
+original = "「ふっ……その通り！\u3000アタシは大人だぜ！」"
+translation = "「훗…… 바로 보았구나! 나는 어른이라구!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ちょっ、紅明！？"
+translation = "잠깐, 코우메이!?"
+
+[[dialogue]]
+speaker = "クーシェン"
+original = "「いいな～！\u3000でも、ボクだってすぐに、大人に進化してみせちゃうから！」"
+translation = "「부럽네~! 하지만 나도 금방 어른으로 진화해 보일 거니까!」"
+
+[[dialogue]]
+speaker = "クーシェン"
+original = "「あっ、そうだ！\u3000にーにー、２人で手っ取り早く大人ゲージを貯める為に――」"
+translation = "「앗, 맞다! 오빠, 둘이서 쉽고 빠르게 어른 게이지를 채우기 위해서──」"
+
+[[dialogue]]
+speaker = "クーシェン"
+original = "「ボクと、キスしちゃう？」"
+translation = "「나랑 키스할래?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "俺は思わず、何もないところでむせてしまった。"
+translation = "나는 나도 모르게 아무것도 없는 곳에서 사레가 들리고 말았다."
+
+[[dialogue]]
+speaker = "クーシェン"
+original = "「にーにーがどうしてもって言うなら～、ボク、キスしてあげてもいいよ～？」"
+translation = "「오빠가 정 원한다면~ 내가 키스해 줄 수도 있다구~?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "そういうのは恋人同士じゃないとダメ！"
+translation = "그런 건 연인 사이여야만 해!"
+
+[[dialogue]]
+speaker = "クーシェン"
+original = "「ウキキ♪\u3000にーにー、まさか知らないの～？\u3000たとえキスしたとしても――」"
+translation = "「우키키♪ 오빠, 설마 모르는 거야~? 비록 키스를 한다고 해도──」"
+
+[[dialogue]]
+speaker = "クーシェン"
+original = "「お互い『好きゲージ』が貯まってなければ、妊娠したりしないんだよ？」"
+translation = "「서로 『애정 게이지』가 쌓여 있지 않으면 임신하거나 하지 않는다구?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "まさかのゲージ２本目！？"
+translation = "설마 했던 게이지 두 개째!?"
+
+[[dialogue]]
+speaker = "クーシェン"
+original = "「あ～っ！\u3000さてはにーにー、ボクがカッコ可愛いから……実はもう好きになっちゃってるとか～？」"
+translation = "「아~! 설마 오빠, 내가 멋쁘니까…… 사실은 벌써 좋아하게 돼버렸다든가~?」"
+
+[[dialogue]]
+speaker = "クーシェン"
+original = "「も～～♪\u3000にーにーは腕っぷしは強い癖に、そういうところチョロ弱で雑魚なんだから～♪」"
+translation = "「정말~~♪ 오빠는 싸움 실력은 강한 주제에 그런 쪽으로는 완전 허당이라니까~♪」"
+
+[[dialogue]]
+speaker = "クーシェン"
+original = "「大丈夫、大丈夫♪\u3000そうだとしても、恋人として付き合い始めてなければセーフだから！」"
+translation = "「괜찮아, 괜찮아♪ 그렇다고 해도 연인으로 사귀기 시작한 게 아니면 세이프니까!」"
+
+[[dialogue]]
+speaker = "クーシェン"
+original = "「好きゲージっていうのは、お互い『付き合おう』って伝え合って、恋人関係にならないと、貯まり始めないから――」"
+translation = "「애정 게이지라는 건 서로 『사귀자』고 전하고 연인 관계가 되지 않으면 쌓이기 시작하지 않으니까──」"
+
+[[dialogue]]
+speaker = "クーシェン"
+original = "「手を繋ぐみたいな<b>エッチなこと</b>でも、やり放題なんだよ！」"
+translation = "「손을 잡는 것 같은 <b>야한</b> <b>짓</b>도 마음껏 할 수 있다구!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "えええぇぇぇ～～～っ！？！？"
+translation = "에에에에에엑!?!?"
+
+[[dialogue]]
+speaker = "紅明"
+original = "「ちっちっちっ。甘い、甘いぜ、クーちん。この世にはもっとエロくて、興奮することが沢山あるんだぜ！」"
+translation = "「치치치. 무르다, 무르다구 쿠셴. 이 세상에는 더 야하고 흥분되는 일이 잔뜩 있다구!」"
+
+[[dialogue]]
+speaker = "クーシェン"
+original = "「もっとエッチなこと！？\u3000恋人同士で手を繋いだり、キスすることよりも！？」"
+translation = "「더 야한 일!? 연인끼리 손을 잡거나 키스하는 것보다도!?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "紅明さん！？\u3000公共の場ですからね……！！"
+translation = "코우메이 씨!? 공공장소라니까요……!!"
+
+[[dialogue]]
+speaker = "紅明"
+original = "「んモー♪\u3000ダーリンってば、そんなことわかってるって☆」"
+translation = "「정말~♪ 달링도 참, 그런 건 다 알고 있다구☆」"
+
+[[dialogue]]
+speaker = "クーシェン"
+original = "「──ボクには後日、正しい性教育の場を設けるから、今日はこの話はおしまい……？」"
+translation = "「──나한테는 나중에 올바른 성교육 시간을 마련할 테니까 오늘은 이 이야기는 끝……?」"
+
+[[dialogue]]
+speaker = "クーシェン"
+original = "「え～、ヤダヤダ！\u3000勉強きら～い！」"
+translation = "「에~, 싫어 싫어! 공부는 싫다구!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ワガママ言わない！"
+translation = "고집부리지 마!"
+
+[[dialogue]]
+speaker = "unk"
+original = "エッチな話も教えてあげるから！"
+translation = "야한 이야기도 가르쳐 줄 테니까!"
+
+[[dialogue]]
+speaker = "クーシェン"
+original = "「ウキキっ♪\u3000だいたい、にーにーがボクにエッチなことを教えるなんて、むりむり～！」"
+translation = "「우키키♪ 애초에 오빠가 나한테 야한 걸 가르친다니, 무리 무리~!」"
+
+[[dialogue]]
+speaker = "クーシェン"
+original = "「むしろボクの方が、女の子の扱い方を教えてあげるけど～？」"
+translation = "「오히려 내가 여자애 다루는 법을 가르쳐 줄 수도 있는데~?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "大人ゲージとか言ってるお子様から習う女の子扱い方なんてあるか！！"
+translation = "어른 게이지 운운하는 꼬맹이한테 배울 여자애 다루는 법이 어딨어!!"
+
+[[dialogue]]
+speaker = "紅明"
+original = "「――ぷっ……あははははははっ！\u3000ダメだ、ダーリンが子供扱いされてるの、面白くて……あははははははっ☆」"
+translation = "「──풋…… 아하하하하하하! 안 돼, 달링이 어린애 취급당하는 거 너무 웃겨서…… 아하하하하하하☆」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ツボに入ったらしく、それからしばらくお腹を抱えて爆笑する紅明なのであった――"
+translation = "웃음보가 터진 모양인지, 그러고 한참 동안 배를 잡고 폭소하는 코우메이였다──"
+
+[[dialogue]]
+speaker = "unk"
+original = "その後、俺たちはまた移動して、今度は渋谷の街を散策していた。"
+translation = "그 뒤에 우리들은 다시 이동해서 이번에는 시부야 거리를 산책하고 있었다."
+
+[[dialogue]]
+speaker = "クーシェン"
+original = "「わぁ～っ♪\u3000すごい！\u3000こんなに沢山の人が集まっている街、始めて見た！\u3000ウキウキ♪」"
+translation = "「와아~♪ 대단해! 이렇게 많은 사람이 모여 있는 거리, 처음 봤어! 신난다♪」"
+
+[[dialogue]]
+speaker = "紅明"
+original = "「クーちん、はしゃぐのはいいけど、ヒトにぶつからないように気を付けるんだぞ～？」"
+translation = "「쿠셴, 신나는 건 좋지만 사람한테 부딪히지 않게 조심하라구~?」"
+
+[[dialogue]]
+speaker = "クーシェン"
+original = "「うん！\u3000大丈夫大丈夫～♪\u3000よっと☆」"
+translation = "「응! 괜찮아 괜찮아~♪ 영차☆」"
+
+[[dialogue]]
+speaker = "紅明"
+original = "「ん？\u3000どうかした、ダーリン？\u3000アタシの顔をじ～っと見つめちゃって……」"
+translation = "「응? 왜 그래, 달링? 내 얼굴을 빤히 쳐다보고……」"
+
+[[dialogue]]
+speaker = "紅明"
+original = "「さては、アタシの可愛さを再確認して、惚れ直しちゃった？\u3000んモー、ダーリンてば～☆」"
+translation = "「설마 내 귀여움을 재확인하고 다시 반해버렸어? 정말~ 달링도 참~☆」"
+
+[[dialogue]]
+speaker = "unk"
+original = "悟空の記憶が戻らなくて、本当は寂しかったりしないか？"
+translation = "오공의 기억이 돌아오지 않아서 사실 외롭거나 하지는 않아?"
+
+[[dialogue]]
+speaker = "紅明"
+original = "「ダーリン……心配、してくれてたんだ」"
+translation = "「달링…… 걱정해 준 거구나」"
+
+[[dialogue]]
+speaker = "紅明"
+original = "「まあ、確かに。寂しい気持ちがないと言ったら、嘘になるけど……」"
+translation = "「뭐, 확실히. 외로운 마음이 없다고 하면 거짓말이겠지만……」"
+
+[[dialogue]]
+speaker = "unk"
+original = "と、その時だった。"
+translation = "하고 그때였다."
+
+[[dialogue]]
+speaker = "紅明"
+original = "「アステラ出現のアラーム……！」"
+translation = "「아스텔라 출현 알람……!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "アステラが出現したのは、渋谷近くのエリアだった。その為、１番近くにいた俺たちが先に突入して対処することになったのだが――"
+translation = "아스텔라가 출현한 곳은 시부야 근처 구역이었다. 그래서 가장 가까이 있던 우리들이 먼저 돌입해서 대처하게 되었는데──"
+
+[[dialogue]]
+speaker = "紅明（羅刹）"
+original = "「あれは……」"
+translation = "「저건……」"
+
+[[dialogue]]
+speaker = "クーシェン"
+original = "「ねーねー？\u3000あのモンスターを知ってるの……？」"
+translation = "「언니? 저 몬스터를 알아……?」"
+
+[[dialogue]]
+speaker = "紅明（羅刹）"
+original = "「牛魔王……！」"
+translation = "「우마왕……!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "彼女は、アステラの最奥に鎮座するモンスターを見据えながら、いつになく真剣な表情で呟くのだった――"
+translation = "그녀는 아스텔라 최심부에 자리 잡은 몬스터를 응시하며 여느 때와 다른 진지한 표정으로 중얼거렸다──"
+

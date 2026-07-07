@@ -1,0 +1,275 @@
+[[dialogue]]
+speaker = "unk"
+original = "第１話,フィクサーのお仕事,P"
+translation = "제1화, 픽서의 일"
+
+[[dialogue]]
+speaker = "unk"
+original = "ヴィーナスから星徒会長の役を引き継いでから、すぐのこと──"
+translation = "비너스로부터 성도회장의 역직을 인계받고 나서, 얼마 지나지 않았을 무렵──"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「みんな！\u3000今からトレーニングルームで、大量のＳランクモンスターが出現した際の訓練をするわよ！」"
+translation = "「모두들! 지금부터 트레이닝 룸에서, 대량의 S랭크 몬스터가 출현했을 때를 대비한 훈련을 하겠어!」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「いま忙しい。来週でお願いします」"
+translation = "「지금 바빠요. 다음 주에 부탁드립니다.」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「ご、ごめんねヴィーナスっ、私も今から職員室に行かなきゃいけなくて……！\u3000私抜きでお願いっ！」"
+translation = "「미, 미안해 비너스, 나도 지금부터 교무실에 가야 해서……! 나 빼고 부탁해!」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「会長くん、この書類を確認して承認のハンコを押してもらってもいいかしら？\u3000できれば今日中にお願い～」"
+translation = "「회장군, 이 서류를 확인하고 승인 도장을 찍어줄 수 있을까? 가급적 오늘 중으로 부탁해~」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「……まあ、忙しいことはいいことね！\u3000新しい新星星徒会、しっかり回ってるみたいでよかったわ」"
+translation = "「……뭐, 바쁜 건 좋은 일이네! 새로운 신성 성도회, 제대로 돌아가고 있는 것 같아서 다행이야.」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「で、クロトは？\u3000もちろん私と一緒にトレーニングするわよね？」"
+translation = "「그래서, 쿠로토는? 당연히 나랑 같이 트레이닝할 거지?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "今は手が空かないんで、ゴメン！"
+translation = "지금은 손이 비지 않아서, 미안!"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「…………」"
+translation = "「…………」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「みんな、よく聞いて。この星徒会のフィクサーとして、みんなに重要な任務を言い渡すわ」"
+translation = "「모두들, 잘 들어. 이 성도회의 픽서로서, 모두에게 중요한 임무를 하달하겠어.」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「──暇だわ！！！\u3000構って！！！」"
+translation = "「──심심해!!! 놀아줘!!!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "むしろ手伝って欲しいんだが！？"
+translation = "오히려 좀 도와줬으면 좋겠는데!?"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「仕方ありませんね。前会長、こちらを」"
+translation = "「어쩔 수 없군요. 전 회장님, 이걸.」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「なになに、私向きの仕事？\u3000何かしら？」"
+translation = "「뭐야 뭐야, 나한테 맞는 일이야? 뭔데?」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「この書類の向きを揃えておいてください。中身を見る必要はありません。向きを揃え終わったら、もう１度確認して揃えてください」"
+translation = "「이 서류들의 방향을 맞춰 두세요. 내용은 볼 필요 없습니다. 방향을 다 맞췄으면, 다시 한 번 확인해서 맞춰 주세요.」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「よくわからないけど、これは私にしかできないことなの？」"
+translation = "「잘은 모르겠지만, 이건 나밖에 할 수 없는 일이야?」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「前会長にしかできません。色んな意味で」"
+translation = "「전 회장님밖에 못 합니다. 여러 의미로요.」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「わかったわ！\u3000フィクサーである私に任せなさい！」"
+translation = "「알았어! 픽서인 나에게 맡겨줘!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "──１０分後。"
+translation = "──10분 후."
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「──耐えられないわ！！！\u3000アナ、このモナカあげるから代わって！！！」"
+translation = "「──못 참겠어!!! 아나, 이 모나카 줄 테니까 교대해줘!!!」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「交渉成立です。…………うま」"
+translation = "「협상 성립입니다. …………맛있어.」"
+
+[[dialogue]]
+speaker = "unk"
+original = "……他に渡せる仕事はないのか？"
+translation = "……달리 맡길 만한 일은 없는 거야?"
+
+[[dialogue]]
+speaker = "unk"
+original = "懐柔されてる！"
+translation = "회유당하고 있어!"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「前会長に本物の事務仕事をさせても、３０秒で飽きて放り出します。検証済み。だからいつも、街のパトロールに行ってもらってます」"
+translation = "「전 회장님에게 진짜 사무 일을 시켜도, 30초면 실증내서 내팽개칩니다. 검증 완료. 그래서 언제나, 거리의 순찰을 부탁드리고 있습니다.」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「ちょっと気になってることがあるんだけど……フィクサーって結局何なの？\u3000要するに２人目の会長ってこと？」"
+translation = "「조금 궁금한 게 있는데…… 픽서라는 건 결국 뭐야? 요컨대 두 번째 회장이라는 뜻?」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「星徒会長を引退した私は、この星徒会を裏から牛耳る影の権力者になったってことよ。カッコいいでしょ？」"
+translation = "「성도회장을 은퇴한 나는, 이 성도회를 뒤에서 주무르는 어둠의 권력자가 되었다는 소리야. 멋있지?」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「それってつまり、何をする役職なの？」"
+translation = "「그건 그러니까, 뭘 하는 직책인데?」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「ん～、裏ボス？\u3000的な存在らしいわよ。裏ボスって普段は表に出てこないじゃない？\u3000つまり、普段は何もしてないってことなんじゃないかしら？」"
+translation = "「음~, 히든 보스? 같은 존재인 것 같아. 히든 보스는 평소엔 겉으로 드러나지 않잖아? 즉, 평소엔 아무것도 안 한다는 소리 아닐까?」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「おサボりのいい口実を見つけたわね～」"
+translation = "「땡땡이치기 좋은 핑계를 찾아냈네~」"
+
+[[dialogue]]
+speaker = "unk"
+original = "暇なら俺の仕事を手伝ってくれないか？"
+translation = "한가하면 내 일 좀 도와주지 않을래?"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「嫌よ。書類の確認なんて性に合わないし。大体、クロトが来る前から書類はアナに任せっきりだったから、今さらやれと言われても出来ないわ」"
+translation = "「싫어. 서류 확인 같은 건 성미에 안 맞고. 애초에, 쿠로토가 오기 전부터 서류는 아나에게 전적으로 맡겼으니까, 이제 와서 하라고 해도 못 해.」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「等価交換は成立してる。文句はない」"
+translation = "「등가교환은 성립했어. 불만은 없다.」"
+
+[[dialogue]]
+speaker = "unk"
+original = "えぇ……"
+translation = "에휴……"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「ふふっ、モンスターからすれば、本当に裏ボス的な存在かもしれないわね？\u3000出会ったら倒されちゃう、理不尽なエンカウントエネミーみたいな？」"
+translation = "「후훗, 몬스터 입장에서 보면, 정말로 히든 보스 같은 존재일지도 모르겠네? 마주치면 쓰러져 버리는, 불합리한 인카운트 에너미 같은 거?」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「実際、前会長がよくパトロールをしてくれているおかげで、リクリエのモンスター被害が抑えられていることは事実です」"
+translation = "「실제로, 전 회장님이 자주 순찰을 해 주시는 덕분에, 리크리에의 몬스터 피해가 억제되고 있는 건 사실입니다.」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「影の立役者ってことね！」"
+translation = "「어둠의 주역이라는 거네!」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「影と言う割にはめちゃくちゃ目立ってる気がするけど……」"
+translation = "「어둠이라고 하기엔 엄청나게 눈에 띄는 것 같지만……」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「なんだかみんなに褒められて気分がいいわね。……そうだ、クロトも私のこと褒めていいわよ！\u3000いえ、褒めてちょうだい！」"
+translation = "「왠지 모두에게 칭찬받으니 기분이 좋네. ……맞다, 쿠로토도 나를 칭찬해도 좋아! 아니, 칭찬해 줘!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "褒められたいのなら、まず仕事を……"
+translation = "칭찬받고 싶으면, 일단 일을……"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「アナ！」"
+translation = "「아나!」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「ほいきた。これは高級かすていら……！\u3000いいんですか……！\u3000前会長は女神！」"
+translation = "「여기요. 이건 고급 카스테라……! 이래도 되나요……! 전 회장님은 여신!」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「優秀な人材に適任の仕事を与える。そしてその間、私は街の平和を守る。これがフィクサーである私の仕事よ！」"
+translation = "「우수한 인재에게 적합한 일을 부여한다. 그리고 그동안, 나는 거리의 평화를 지킨다. 이것이 픽서인 나의 일이야!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "アナさん、チョロ過ぎません！？"
+translation = "아나 씨, 너무 쉽지 않아요!?"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「会長くん、気持ちはわかるけど、諦めたほうがいいんじゃないかしら～。実際、ヴィーナスちゃんには外回りをしてもらったほうが、こっちとしても助かるのよ」"
+translation = "「회장군, 마음은 알겠지만 포기하는 게 좋지 않을까~. 실제로 비너스짱은 외부 활동을 해 주는 게 이쪽으로서도 도움이 되거든.」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「ふふんっ、心配ないわ。この私が選んだ最高のメンバーだもの。星徒会の事務仕事なんて私がいなくても、ちょちょいのちょいよ」"
+translation = "「후훗, 걱정 마. 이 내가 선택한 최고의 멤버인걸. 성도회의 사무 일 따위 내가 없어도 식은 죽 먹기야.」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「さあ、皆。仕事なんてさっさと終わらせて特訓よ！\u3000……ほら、クロトもそんな顔しないの！」"
+translation = "「자, 여러분. 일 따위 빨리 끝내고 특훈이야! ……자, 쿠로토도 그런 표정 짓지 말고!」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「大丈夫よ。あなただって、私が認めた最高の魔王にして星徒会長なんだから！\u3000自分に自信をもって、ドンと胸を張りなさい！」"
+translation = "「괜찮아. 당신도 내가 인정한 최고의 마왕이자 성도회장이니까! 자신감을 갖고 당당하게 가슴을 펴!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "（なんだか、不思議と出来る気がしてきた）"
+translation = "(왠지, 신기하게 할 수 있을 것 같은 기분이 들었다)"
+
+[[dialogue]]
+speaker = "unk"
+original = "……！！"
+translation = "……!!"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「あらあら～♪」"
+translation = "「어머어머~♪」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「ヴィーナスにそう言われると、何か本当にできるような気がしてきちゃうんだよね……魔法みたいに」"
+translation = "「비너스에게 그런 말을 들으면, 뭔가 정말로 할 수 있을 것 같은 기분이 든단 말이지…… 마법처럼.」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「会長。ジャスト・ドゥ・イット（やるしかない）」"
+translation = "「회장. 저스트 두 잇(할 수밖에 없다).」"
+
+[[dialogue]]
+speaker = "unk"
+original = "それから──ヴィーナスの応援でやる気の上がった俺たちは、バリバリと仕事をこなしていくのだった。"
+translation = "그러고 나서── 비너스의 응원으로 의욕이 생긴 우리들은, 맹렬하게 일을 처리해 나갔다."
+
+[[dialogue]]
+speaker = "unk"
+original = "いや、ヴィーナスも仕事しろよ！？"
+translation = "아니, 비너스도 일 하라고!?"
+

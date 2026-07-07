@@ -1,0 +1,320 @@
+[[dialogue]]
+speaker = "unk"
+original = "第１１話,逃走,B"
+translation = "제11화, 도주, B"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「ふぅ、フィーニスの塔を脱出できたわね。ラクシャのおかげで降りるのは早かったわ」"
+translation = "「후우, 피니스의 탑을 탈출했네. 락샤 덕분에 내려오는 건 빨랐어」"
+
+[[dialogue]]
+speaker = "スレイプニル"
+original = "「ブルルル──！」"
+translation = "「푸르르르──!」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「！\u3000極星従騎……予想以上に対応が早かったですね」"
+translation = "「! 극성종기…… 예상보다 대응이 빠르군요」"
+
+[[dialogue]]
+speaker = "リノ"
+original = "『今魔法であなたたちに呼びかけてるんだけど、みんな聞こえてる？\u3000塔の中で何かわかった？』"
+translation = "『지금 마법으로 너희에게 말을 걸고 있는데, 다들 들려? 탑 안에서 뭐 좀 알아냈어?』"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「おばあちゃん！」"
+translation = "「할머니!」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「詳しく話してる時間はないけど、ルヴィネは『<ruby>ＸＥＬＯＳ<rt>ゼロス</rt></ruby>』によって生み出された、新しい女神だったんだ」"
+translation = "「자세히 이야기할 시간은 없지만, 루비네는 『<ruby>XELOS<rt>제로스</rt></ruby>』에 의해 만들어진 새로운 여신이었어」"
+
+[[dialogue]]
+speaker = "リノ"
+original = "『つまりルヴィネはリクリエの側で、やっぱり敵だったってわけね。よく頑張ったわ』"
+translation = "『즉 루비네는 리크리에의 편이고, 역시 적이었다는 거네. 고생 많았어』"
+
+[[dialogue]]
+speaker = "リノ"
+original = "『極星従騎が集まっていることは把握してるわ。細かい話はいいから、言った通り教皇庁に来て！\u3000あなたたちをアルタイルに帰すわ！』"
+translation = "『극성종기가 모이고 있다는 건 파악하고 있어. 자세한 이야기는 됐으니까, 말한 대로 교황청으로 와! 너희를 알타이르로 돌려보내 줄게!』"
+
+[[dialogue]]
+speaker = "unk"
+original = "秘密基地を出発する前──"
+translation = "비밀기지를 출발하기 전──"
+
+[[dialogue]]
+speaker = "リノ"
+original = "「教皇庁にある時空の穴を使って、アルタイルに帰るのよ」"
+translation = "「교황청에 있는 시공의 구멍을 사용해서 알타이르로 돌아가는 거야」"
+
+[[dialogue]]
+speaker = "リノ"
+original = "「私の力だけでは平行世界を渡ることはできない。でもすでに穴が空いているなら話が別だわ」"
+translation = "「내 힘만으로는 평행세계를 건널 수 없어. 하지만 이미 구멍이 뚫려 있다면 이야기가 다르지」"
+
+[[dialogue]]
+speaker = "リノ"
+original = "「あの穴は、そのままではどこに出るかわからないし、通るだけでも命懸け。だから魔法でアルタイルに繋げて、安全に通れるようにするの」"
+translation = "「저 구멍은 그대로 두면 어디로 연결될지 모르고, 통과하는 것만으로도 목숨을 걸어야 해. 그래서 마법으로 알타이르에 연결해서 안전하게 통과할 수 있게 하는 거야」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「そんなことできるの？」"
+translation = "「그런 게 가능해?」"
+
+[[dialogue]]
+speaker = "リノ"
+original = "「ええ、『空間の魔女』と呼ばれた私の力ならね」"
+translation = "「응, 『공간의 마녀』라 불린 내 힘이라면 말이지」"
+
+[[dialogue]]
+speaker = "リノ"
+original = "「今までも平行世界の研究はしてきたけど、あなたたちが来てくれたことで必要なデータが揃って、ようやく実現できそうなの」"
+translation = "「지금까지도 평행세계를 연구해 왔지만, 너희가 와준 덕분에 필요한 데이터가 모여서 겨우 실현할 수 있을 것 같아」"
+
+[[dialogue]]
+speaker = "リノ"
+original = "「フィーニスの塔で何が起こるかはわからないわ。だからいつでもアルタイルに帰れるように準備しておくわね」"
+translation = "「피니스의 탑에서 무슨 일이 일어날지는 몰라. 그래서 언제든 알타이르로 돌아갈 수 있도록 준비해 둘게」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「教皇庁に向かうぞ、みんな！」"
+translation = "「교황청으로 향하자, 모두!」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「ええ、飛ばすわよ！」"
+translation = "「응, 전속력으로 가자고!」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「はい！」"
+translation = "「네!」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「選挙管理委員会もついてきてくれ！」"
+translation = "「선거관리위원회도 따라와 줘!」"
+
+[[dialogue]]
+speaker = "ナターシャ"
+original = "「はーい」"
+translation = "「네~」"
+
+[[dialogue]]
+speaker = "ベアトリス"
+original = "「う、うん……！」"
+translation = "「으, 응……!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "追いかけてくる極星従騎を無視し、人目も気にせず全力で飛ぶ。"
+translation = "뒤쫓아오는 극성종기를 무시하고, 남의 눈도 신경 쓰지 않은 채 전력으로 비행한다."
+
+[[dialogue]]
+speaker = "unk"
+original = "だが俺たちの前にガーディアンが立ちふさがる。"
+translation = "하지만 우리 앞을 가디언이 가로막는다."
+
+[[dialogue]]
+speaker = "スレイプニル"
+original = "「ブルルルル……！」"
+translation = "「부르르르르……!」"
+
+[[dialogue]]
+speaker = "ナターシャ"
+original = "「おや、前からも来ちゃったね。挟まれちゃったかな」"
+translation = "「어라, 앞에서도 와버렸네. 끼어버린 걸까나.」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「呑気に言ってる場合じゃないぞ！\u3000ここで足を止めれば極星従騎が集まってくる！」"
+translation = "「한가하게 말할 때가 아니야! 여기서 발이 묶이면 극성종기들이 몰려올 거야!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "目の前に飛来した極星従騎を、青く輝く一閃が切り裂いた。"
+translation = "눈앞으로 날아온 극성종기를, 푸르게 빛나는 일섬이 베어 넘겼다."
+
+[[dialogue]]
+speaker = "エステル"
+original = "「皆様、ご無事ですか！？」"
+translation = "「여러분, 무사하십니까!?」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「エステル！\u3000ああ、俺たちは大丈夫だ。ラクシャは塔の中に残してきてしまったけど……」"
+translation = "「에스텔! 아아, 우리는 괜찮아. 락샤는 탑 안에 남겨두고 왔지만……」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「私たち、今、教皇庁に向かってるの！」"
+translation = "「우리, 지금 교황청으로 향하고 있어!」"
+
+[[dialogue]]
+speaker = "エステル"
+original = "「でしたらこちらに。東側ならまだ手薄です」"
+translation = "「그러시다면 이쪽으로. 동쪽이라면 아직 감시가 허술합니다.」"
+
+[[dialogue]]
+speaker = "unk"
+original = "エステルの後に続いて、全速力で空を走る。"
+translation = "에스텔의 뒤를 이어, 전속력으로 하늘을 달린다."
+
+[[dialogue]]
+speaker = "unk"
+original = "俺たちに協力すればエステルだって危ういだろうに、彼女には助けられっぱなしだ。"
+translation = "우리에게 협력하면 에스텔조차 위험해질 텐데, 그녀에게는 도움만 받고 있다."
+
+[[dialogue]]
+speaker = "ベアトリス"
+original = "「あの、エステルちゃん、ルヴィのことなんだけど……」"
+translation = "「저기, 에스텔짱, 루비에 관한 건데……」"
+
+[[dialogue]]
+speaker = "エステル"
+original = "「ルヴィネ会長がどうされました？\u3000魔王様への誤解は解けたのですか？」"
+translation = "「루비네 회장님이 어떻게 되셨나요? 마왕님에 대한 오해는 풀린 건가요?」"
+
+[[dialogue]]
+speaker = "ベアトリス"
+original = "「いや、それが……」"
+translation = "「아니, 그게……」"
+
+[[dialogue]]
+speaker = "ベアトリス"
+original = "「ごめん、後で話すよ。今はそれどころじゃないから」"
+translation = "「미안, 나중에 얘기할게. 지금은 그럴 상황이 아니니까.」"
+
+[[dialogue]]
+speaker = "エステル"
+original = "「わかりました。では後ほどお聞かせください」"
+translation = "「알겠습니다. 그럼 나중에 들려주세요.」"
+
+[[dialogue]]
+speaker = "エステル"
+original = "「そろそろ教皇庁に到着します──！」"
+translation = "「이제 곧 교황청에 도착합니다──!」"
+
+[[dialogue]]
+speaker = "アポロ（大人）"
+original = "「お、来たな。ちゃんと全員揃って──いや、ラクシャがいないな」"
+translation = "「오, 왔군. 제대로 다 모여서── 아니, 락샤가 없나.」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「ラクシャは塔に残って俺たちを助けてくれた」"
+translation = "「락샤는 탑에 남아서 우리를 도와줬어.」"
+
+[[dialogue]]
+speaker = "アポロ（大人）"
+original = "「──そうか。だが、お前たちだけでもよく帰ってきた。いい子だ」"
+translation = "「──그런가. 하지만 너희만이라도 잘 돌아왔다. 착한 아이들이군.」"
+
+[[dialogue]]
+speaker = "アポロ（大人）"
+original = "「ところでその星騎士は？\u3000極星のか？」"
+translation = "「그런데 그 성기사는? 극성의 녀석인가?」"
+
+[[dialogue]]
+speaker = "エステル"
+original = "「極星学園１年、エステル・ミルフォードです。ええと、あの、あなたは……？」"
+translation = "「극성학원 1학년, 에스텔 밀포드입니다. 저기, 그, 당신은……?」"
+
+[[dialogue]]
+speaker = "アポロ（大人）"
+original = "「レジスタンスのアポロだ。お前は魔王の敵じゃないってことでいいんだよな？」"
+translation = "「레지스탕스의 아폴로다. 너는 마왕의 적이 아니라는 걸로 알면 되겠지?」"
+
+[[dialogue]]
+speaker = "エステル"
+original = "「はい、私の意志で魔王様についてきました」"
+translation = "「네, 제 의지로 마왕님을 따라왔습니다.」"
+
+[[dialogue]]
+speaker = "アポロ（大人）"
+original = "「ならいい。ったく、相変わらず魔王はモテモテだな」"
+translation = "「그럼 됐다. 나 원 참, 여전히 마왕은 인기가 많구만.」"
+
+[[dialogue]]
+speaker = "リノ"
+original = "「おかえり、クロト、ヴィーナスちゃん、フィオナちゃん。選管のみんなも怪我はなさそうね」"
+translation = "「어서 와, 쿠로토, 비너스짱, 피오나짱. 선관 모두도 다친 곳은 없어 보이네.」"
+
+[[dialogue]]
+speaker = "リノ"
+original = "「それじゃいくわよ──！」"
+translation = "「그럼 시작할게──!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "母さんがそう言ってロッドを構えると、空に時空の裂け目が開いた。"
+translation = "어머니가 그렇게 말하며 로드를 겨누자, 하늘에 시공의 균열이 열렸다."
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「空に空間の穴が……！\u3000さすがおばあちゃんね！」"
+translation = "「하늘에 공간의 구멍이……! 역시 할머니네!」"
+
+[[dialogue]]
+speaker = "リノ"
+original = "「ふふふっ、孫にそう言われると嬉しくなっちゃうわね！」"
+translation = "「후후훗, 손녀에게 그런 말을 들으니 기뻐지네!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ヴィーナスに飛び切りの笑顔を見せる母さん。"
+translation = "비너스에게 최고의 미소를 보여주는 어머니."
+
+[[dialogue]]
+speaker = "unk"
+original = "だけどその横顔は血の気が引き、青ざめていた。"
+translation = "하지만 그 옆얼굴은 핏기가 가시고 창백해져 있었다."
+
+[[dialogue]]
+speaker = "クロト"
+original = "「母さん、無理してない？」"
+translation = "「어머니, 무리하는 거 아냐?」"
+
+[[dialogue]]
+speaker = "リノ"
+original = "「最近、研究続きであんまり寝てなかったから、ちょっと疲れが出てるのかもね。ま、落ち着いたらぐっすり寝るわ」"
+translation = "「최근 연구가 계속돼서 잠을 잘 못 잤더니, 조금 피로가 쌓인 걸지도 모르겠네. 뭐, 진정되면 푹 잘게.」"
+
+[[dialogue]]
+speaker = "リノ"
+original = "「今アルタイルに繋いでるから、ちょっと待ってて」"
+translation = "「지금 알타이르에 연결하고 있으니까, 조금만 기다려줘.」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「……うん、ありがとう、母さん」"
+translation = "「……응, 고마워, 어머니.」"
+
+[[dialogue]]
+speaker = "unk"
+original = "おそらく相当な無茶をしているのだろう。"
+translation = "아마 상당한 무리를 하고 있는 것이리라."
+
+[[dialogue]]
+speaker = "unk"
+original = "強がりだとわかってはいても、今は母さんを頼るほかなかった。"
+translation = "허세라는 걸 알면서도, 지금은 어머니를 의지할 수밖에 없었다."
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「──！\u3000来るぞ！！」"
+translation = "「──! 온다!!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "梨緒が空を見上げると同時、破滅の手が俺たちへと迫りくる──！"
+translation = "리오가 하늘을 올려다봄과 동시에, 파멸의 손이 우리에게 다가온다──!"
+

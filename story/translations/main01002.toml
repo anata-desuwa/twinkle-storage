@@ -1,0 +1,430 @@
+[[dialogue]]
+speaker = "unk"
+original = "第３話,三種のメッセージ,B"
+translation = "제3화, 세 가지 메시지, B"
+
+[[dialogue]]
+speaker = "狒々の魔獣"
+original = "「ガ──ガウガウガ……ァッ……！」"
+translation = "「가── 가우가우가……앗……!」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「フゥ──こんなところですか」"
+translation = "「후우── 이 정도인가요」"
+
+[[dialogue]]
+speaker = "ソフィア"
+original = "「ばっちりです。ユウリ先輩も、助かりました」"
+translation = "「완벽합니다. 유우리 선배도, 덕분에 살았습니다」"
+
+[[dialogue]]
+speaker = "ユウリ"
+original = "「ああ。なんつーか、動物をいじめてるみたいで気が悪いけどな」"
+translation = "「아아. 뭐랄까, 동물을 괴롭히는 것 같아서 기분이 나쁘지만」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「油断は禁物よ～。人気のないところに出かけたら、魔獣に襲われて骨だけになっちゃいました～、なんてこと珍しくないんだから」"
+translation = "「방심은 금물이야. 인기척 없는 곳에 나갔다가, 마수에게 습격당해서 뼈만 남았어요, 같은 일은 드물지 않으니까」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「お、恐ろしい場所なんですね……」"
+translation = "「무, 무서운 곳이네요……」"
+
+[[dialogue]]
+speaker = "ソフィア"
+original = "「都市部に行けば安全ではありますが」"
+translation = "「도시부에 가면 안전하기는 하지만」"
+
+[[dialogue]]
+speaker = "ユウリ"
+original = "「もうちょっと栄えた町とかに下ろしてくれてもよかったのによ」"
+translation = "「좀 더 번화한 마을 같은 곳에 내려 줘도 좋았을 텐데」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「これでも彼女たちなりに、考えてくれたんだとは思うけど……」"
+translation = "「이래 봬도 그녀들 나름대로, 생각해 준 거라고는 생각하지만……」"
+
+[[dialogue]]
+speaker = "unk"
+original = "俺は魔界の地理に明るくないが、この地方を指定したのは他ならぬサーシャ先輩だ。"
+translation = "나는 마계의 지리에 밝지 않지만, 이 지방을 지정한 것은 다름 아닌 사샤 선배다."
+
+[[dialogue]]
+speaker = "アイリーン"
+original = "『魔界に配置されている『うろ』の<ruby>転送<rt>フォワード</rt></ruby>ポイントは多くありません。なるべくご希望には沿うように致しますが、人里から離れていることは覚悟してください』"
+translation = "『마계에 배치되어 있는 『빈 구멍』의 전송 포인트는 많지 않습니다. 되도록 희망하시는 대로 해 드리겠지만, 인가에서 멀리 떨어져 있다는 것은 각오해 주십시오』"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "『それじゃあ、ズヴィエダ地方でお願いできるかしら？』"
+translation = "『그럼, 즈비에다 지방으로 부탁할 수 있을까?』"
+
+[[dialogue]]
+speaker = "アイリーン"
+original = "『了解です。魔獣の脅威度もそれなりと記録されていますが、大丈夫ですか？』"
+translation = "『알겠습니다. 마수의 위협도도 그럭저럭이라고 기록되어 있습니다만, 괜찮으신가요?』"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "『ええ。あそこなら、最低限の土地勘はあるから』"
+translation = "『응. 저곳이라면, 최소한의 지리는 아니까』"
+
+[[dialogue]]
+speaker = "unk"
+original = "俺に魔界の土地勘はないが、ここが<ruby>辺鄙<rt>へんぴ</rt></ruby>な場所だというのはわかる。"
+translation = "나에게 마계의 지리는 없지만, 이곳이 후미진 장소라는 것은 알겠다."
+
+[[dialogue]]
+speaker = "unk"
+original = "恐らく魔女たちからしても、そう大っぴらな場所に出口を繋げることはしにくいのだろう。"
+translation = "아마 마녀들 입장에서도, 그렇게 공공연한 장소에 출구를 연결하는 것은 어려울 것이다."
+
+[[dialogue]]
+speaker = "unk"
+original = "どう動くべきか──と、思案していたところ。"
+translation = "어떻게 움직여야 할까── 하고, 생각하고 있던 참이었다."
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「！」"
+translation = "「!」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「ＤＩＳＣの着信──それもみんなに？」"
+translation = "「디스크의 착신── 그것도 모두에게?」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「も──もしかして……！」"
+translation = "「서, 설마……!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "誰もが淡い期待を抱きながらＤＩＳＣを開く。"
+translation = "모두가 희미한 기대를 품으며 디스크를 연다."
+
+[[dialogue]]
+speaker = "unk"
+original = "そこに表示されていたのは──まさしく期待通りの人物の名だった。"
+translation = "그곳에 표시되어 있던 것은── 바로 기대했던 인물의 이름이었다."
+
+[[dialogue]]
+speaker = "ユウリ"
+original = "「おいおい──マジでヴィーナスからの連絡かよ！」"
+translation = "「어이쿠── 진짜 비너스한테서 온 연락이냐!」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「ええ──ですが、これは……」"
+translation = "「네── 하지만, 이건……」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「メッセージ──それも意味深な……ですね」"
+translation = "「메시지── 그것도 의미심장한…… 것이네요」"
+
+[[dialogue]]
+speaker = "unk"
+original = "『来て』"
+translation = "『와 줘』"
+
+[[dialogue]]
+speaker = "unk"
+original = "『森』"
+translation = "『숲』"
+
+[[dialogue]]
+speaker = "unk"
+original = "『冬』"
+translation = "『겨울』"
+
+[[dialogue]]
+speaker = "unk"
+original = "計３通──それぞれが両星徒会全メンバーに送られている。"
+translation = "총 3통── 각각이 양 성도회 전 멤버에게 보내져 있다."
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「来て、森、冬──いえ。送信された順番は逆ですから……冬、森、来て、となるでしょうか」"
+translation = "「와 줘, 숲, 겨울── 아니요. 송신된 순서는 반대이니까…… 겨울, 숲, 와 줘, 가 될까요」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「……？？？\u3000さっぱり意味がわからないけど……」"
+translation = "「……??? 전혀 의미를 모르겠지만……」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「それでも──ヴィーナスちゃんからの貴重な連絡に変わりないわね」"
+translation = "「그렇더라도── 비너스짱한테서 온 귀중한 연락인 건 변함없네」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「ええ。送信されたのは数時間前のようです。ただ、それが……今になって届いた」"
+translation = "「네. 송신된 것은 몇 시간 전인 것 같습니다. 다만, 그것이…… 이제야 도착했다」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「……なるほど。私たちが魔界に来たことで、受信可能となったのですね」"
+translation = "「……과연. 저희가 마계에 온 것으로, 수신이 가능해진 것이군요」"
+
+[[dialogue]]
+speaker = "ユウリ"
+original = "「──ってことはやっぱり、ヴィーナスは魔界にいるんだな……！」"
+translation = "「──그렇다면 역시, 비너스는 마계에 있는 거네……!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "アニマ先輩の助力もあって推測した俺たちだったが──ここへきていよいよ確定となった。"
+translation = "아니마 선배의 도움도 있어 추측했던 우리였지만── 이제야말로 확정되었다."
+
+[[dialogue]]
+speaker = "クロト"
+original = "（……よかった。ヴィーナスは少なくともまだ生きていて──同じ大地を踏んでいる）"
+translation = "（……다행이다. 비너스는 적어도 아직 살아 있고── 같은 땅을 밟고 있다）"
+
+[[dialogue]]
+speaker = "unk"
+original = "安堵するとともに、底知れない闘志も湧き上がってきた。"
+translation = "안도함과 동시에, 끝을 알 수 없는 투지도 솟아올랐다."
+
+[[dialogue]]
+speaker = "クロト"
+original = "「よし。俺たちも魔界に着いたことを伝えよう。できればこの場所のことも」"
+translation = "「좋아. 우리도 마계에 도착했다는 것을 전하자. 가능하다면 이 장소에 대해서도」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「だねっ。もしかしたら、案外近くにいるかもしれないし──」"
+translation = "「그러네. 어쩌면, 의외로 가까이에 있을지도 모르고──」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「──いえ。少々お待ち下さい、緋宮会長」"
+translation = "「──아닙니다. 잠시 기다려 주십시오, 히노미야 회장」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「ん？」"
+translation = "「응?」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「その連絡に対して返信するのは、いささか危険を孕むのではないでしょうか」"
+translation = "「그 연락에 대해 답장하는 것은, 다소 위험을 내포하고 있지 않을까요」"
+
+[[dialogue]]
+speaker = "ユウリ"
+original = "「おいおい、どういうことだよフィオナ。せっかくヴィーナスと繋がったってのに」"
+translation = "「어이쿠, 무슨 소리야 피오나. 모처럼 비너스와 연결되었는데」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「……あ、そうか」"
+translation = "「……아, 그렇군」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「このメッセージ自体が罠である可能性──か」"
+translation = "「이 메시지 자체가 함정일 가능성──인가」"
+
+[[dialogue]]
+speaker = "ソフィア"
+original = "「！」"
+translation = "「!」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「はい。そうでなくとも、随分と怪しい文面ですから」"
+translation = "「네. 그렇지 않더라도, 꽤나 수상한 문구이니까요」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「でも……そんなまどろっこしいことするかな？\u3000あの凶暴な黒騎士──さんが」"
+translation = "「하지만…… 그런 답답한 짓을 할까요? 그 흉포한 검은 기사── 씨가」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「あくまでも可能性の話だ。実際、俺も十中八九、この連絡はヴィーナス本人からのものだと思う」"
+translation = "「어디까지나 가능성의 이야기다. 실제로, 나도 십중팔구, 이 연락은 비너스 본인에게서 온 것이라고 생각한다」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「だけど──そうだとしても、返信することにはリスクがある。フィオナが言ってるのはそういうことだ」"
+translation = "「하지만── 그렇다고 해도, 답장하는 것에는 리스크가 있다. 피오나가 말하는 건 그런 것이다」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「その通りです。もし、ヴィーナスさんが自由に連絡を取れる状態であるなら──わざわざこんな意味深な内容にする必要はありません」"
+translation = "「맞습니다. 만약, 비너스 씨가 자유롭게 연락을 취할 수 있는 상태라면── 굳이 이렇게 의미심장한 내용으로 할 필요는 없습니다」"
+
+[[dialogue]]
+speaker = "unk"
+original = "この『冬』『森』『来て』という短文の羅列は内容的にもヴィーナスらしくない。"
+translation = "이 『겨울』 『숲』 『와 줘』라는 단문의 나열은 내용적으로도 비너스답지 않다."
+
+[[dialogue]]
+speaker = "unk"
+original = "切羽詰まった状況のなか、どうにかこの３つのメッセージだけを託してくれた……と見るのが自然だろう。"
+translation = "절박한 상황 속에서, 어떻게든 이 세 가지 메시지만을 맡겨 준 것……으로 보는 것이 자연스러울 것이다."
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「……どうする？\u3000会長くん」"
+translation = "「……어떻게 할 거야? 회장 군」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「……」"
+translation = "「……」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ヴィーナスは今もどこかで耐え忍んでいる。"
+translation = "비너스는 지금도 어딘가에서 참고 견디고 있다."
+
+[[dialogue]]
+speaker = "unk"
+original = "ならばなおさら、一刻も早く駆けつけてやりたい。が……"
+translation = "그렇다면 더욱더, 한시라도 빨리 달려가 주고 싶다. 하지만……"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「……やめよう。これに返信するのはまだ、危険だ」"
+translation = "「……그만두자. 여기에 답장하는 것은 아직, 위험하다」"
+
+[[dialogue]]
+speaker = "unk"
+original = "こちらから有益な情報を送れるならともかく──『着いたよ』程度じゃ、リスクになる恐れのほうが高い。"
+translation = "이쪽에서 유익한 정보를 보낼 수 있다면 모를까── 『도착했어』 정도로는, 리스크가 될 우려가 더 높다."
+
+[[dialogue]]
+speaker = "ユウリ"
+original = "「ま、こっちからの着信のせいで<ruby>黒騎士<rt>アイツ</rt></ruby>に気づかれる──とかなっても寒いしな」"
+translation = "「뭐, 이쪽에서 온 착신 때문에 검은 기사에게 눈치채인다── 같은 일이 되어도 찝찝하고」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「うん。それに、ヴィーナスからメッセージが来たってだけでも、すっごい進歩だよ！」"
+translation = "「응. 게다가, 비너스한테서 메시지가 왔다는 것만으로도, 엄청난 진보야!」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「ええ。これは私たちに託された情報……必ずその真意を突き止めましょう」"
+translation = "「네. 이것은 저희에게 맡겨진 정보…… 반드시 그 진의를 밝혀냅시다」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「ああ。それにはもっと情報が必要だ」"
+translation = "「아아. 그러려면 더 정보가 필요하다」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「この広大な魔界から、どこにヴィーナスがいるのか突き止めるなら──」"
+translation = "「이 광대한 마계에서, 어디에 비너스가 있는지 밝혀낸다면──」"
+
+[[dialogue]]
+speaker = "ユウリ"
+original = "「そういや……ソフィア。さっき魔獣が出る前、寒いのは好都合とか言ってなかったか？」"
+translation = "「그러고 보니…… 소피아. 아까 마수가 나오기 전, 추운 건 호조건이라고 하지 않았냐?」"
+
+[[dialogue]]
+speaker = "ソフィア"
+original = "「そうでした。ちょうどこの寒冷な気候が──よい傾向かもということです」"
+translation = "「그랬습니다. 마침 이 한랭한 기후가── 좋은 경향일지도 모른다는 것입니다」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「というと、もしかして……」"
+translation = "「라고 하면, 혹시……」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「ええ。魔女さん達にお願いした甲斐があったみたいね」"
+translation = "「응. 마녀 씨들에게 부탁한 보람이 있었나 보네」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「この風景に見覚えはないけれど──懐かしい風を感じるわ。ここからなら、私たちの街も近いはず」"
+translation = "「이 풍경은 본 적 없지만── 그리운 바람을 느껴. 여기에서라면, 우리의 마을도 가까울 거야」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「そういえば──サーシャさんの地元は超寒かったって、前に聞いたような……」"
+translation = "「그러고 보니── 사샤 씨의 고향은 엄청 추웠다고, 전에 들은 것 같은데……」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ソフィアちゃんのいう『好都合』──それはつまり。"
+translation = "소피아짱이 말하는 『호조건』── 그것은 즉."
+
+[[dialogue]]
+speaker = "ソフィア"
+original = "「ここからなら私たちの故郷──レゾフが近いと思われます。情報を集めるなら、まずはそちらへ向かうべきでしょう」"
+translation = "「여기에서라면 저희의 고향── 레조프가 가깝다고 생각됩니다. 정보를 모은다면, 우선 그쪽으로 향해야 할 것입니다」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「わあ……！\u3000サーシャさんの故郷……！」"
+translation = "「와아……! 사샤 씨의 고향……!」"
+
+[[dialogue]]
+speaker = "ユウリ"
+original = "「近いってどんくらいだ？\u3000バスでも捕まんのか？」"
+translation = "「가깝다는 게 어느 정도냐? 버스라도 잡히는 거냐?」"
+
+[[dialogue]]
+speaker = "ソフィア"
+original = "「人間界で言うと、<ruby>州境<rt>しゅうざかい</rt></ruby>を２つまたぐくらいでしょうか」"
+translation = "「인간계로 말하자면, 주 경계를 두 개 넘는 정도일까요」"
+
+[[dialogue]]
+speaker = "ユウリ"
+original = "「どこが近いんだよ……」"
+translation = "「어디가 가깝다는 거냐……」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「それでも──情報収集ができそうな、栄えた街があるってことですよね？」"
+translation = "「그렇더라도── 정보 수집을 할 수 있을 만한, 번화한 마을이 있다는 것이죠?」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「ええ。レゾフなら私とソフィアが案内できるし……間違いなくヴィーナスちゃん探しの近道になるはずよ」"
+translation = "「응. 레조프라면 나와 소피아가 안내할 수 있고…… 틀림없이 비너스짱 찾기의 지름길이 될 거야」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「魔界で行動するにおいて──魔族の方の協力を仰げるなら、それに越したことはありませんね」"
+translation = "「마계에서 행동하는 데 있어서── 마족 분의 협력을 구할 수 있다면, 그보다 더 좋을 수는 없겠네요」"
+
+[[dialogue]]
+speaker = "ユウリ"
+original = "「決まりだ。目的地はソフィアの実家な！」"
+translation = "「결정이다. 목적지는 소피아의 본가다!」"
+
+[[dialogue]]
+speaker = "ソフィア"
+original = "（どんな顔して帰ればいいかはわかりませんが……）"
+translation = "（어떤 얼굴로 돌아가야 할지는 모르겠지만……）"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「わかった。そうと決まれば急ごう──ここにいたら、またいつ魔獣に襲われるとも限らない」"
+translation = "「알겠다. 그렇게 정해졌다면 서두르자── 여기에 있다가는, 또 언제 마수에게 습격당할지 모른다」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「ふふ、みんなついてきて♪」"
+translation = "「후후, 모두 따라와♪」"
+
+[[dialogue]]
+speaker = "unk"
+original = "そうして俺たちは、魔界の都市──レゾフを目指すこととなった。"
+translation = "그렇게 우리들은, 마계의 도시── 레조프를 목표로 하게 되었다."
+

@@ -1,0 +1,195 @@
+[[dialogue]]
+speaker = "unk"
+original = "パテルストーンの事件からしばらくして──"
+translation = "파텔 스톤 사건으로부터 얼마 뒤──"
+
+[[dialogue]]
+speaker = "マグダレナ（幼少）"
+original = "「はぁ……パテルの肝試しで、あんなに怖がってしまうとは思いませんでした」"
+translation = "「하아…… 파텔의 담력 시험에서 그렇게까지 겁을 먹을 줄은 몰랐어요」"
+
+[[dialogue]]
+speaker = "マグダレナ（幼少）"
+original = "「大人の姿ならあそこまで怖いと思わないはず……やっぱり肉体に感覚が引きずられているんですね」"
+translation = "「어른의 모습이라면 그렇게까지 무섭지 않았을 텐데…… 역시 육체에 감각이 이끌리고 마는 거네요」"
+
+[[dialogue]]
+speaker = "アルモタヘル（幼少）"
+original = "「マグダレナ、大変なのだ！」"
+translation = "「막달레나, 큰일인 것이다!」"
+
+[[dialogue]]
+speaker = "マグダレナ（幼少）"
+original = "「どうしました、アルモタヘル？」"
+translation = "「무슨 일인가요, 아르모타헬?」"
+
+[[dialogue]]
+speaker = "アルモタヘル（幼少）"
+original = "「アルモたんの肉巻きおにぎりが──」"
+translation = "「알모땅의 고기말이 주먹밥이──」"
+
+[[dialogue]]
+speaker = "アルモタヘル（幼少）"
+original = "「とろろ昆布巻きおにぎりになっていたのだ！！」"
+translation = "「고부라기 다시마말이 주먹밥이 되어버린 것이다!!」"
+
+[[dialogue]]
+speaker = "マグダレナ（幼少）"
+original = "「えええ～～っ！？」"
+translation = "「에에에~~엣!?」"
+
+[[dialogue]]
+speaker = "マグダレナ（幼少）"
+original = "「って、つい驚いちゃいましたけど、それは大したことないような……」"
+translation = "「앗, 그만 깜짝 놀라버렸지만, 그건 별일 아닌 것 같은……」"
+
+[[dialogue]]
+speaker = "アルモタヘル（幼少）"
+original = "「大問題なのだ！\u3000昆布も美味しいけど、お肉と昆布は違うのだ！」"
+translation = "「대문제인 것이다! 다시마도 맛있지만, 고기랑 다시마는 다른 것이다!」"
+
+[[dialogue]]
+speaker = "マグダレナ（幼少）"
+original = "「ハッ──！？\u3000私の抹茶クッキーもほうじ茶クッキーにすり替えられてます！\u3000だ、誰がこんなことを……！？」"
+translation = "「핫──!? 제 말차 쿠키도 호지차 쿠키로 바뀌어 있어요! 누, 누가 이런 짓을……!?」"
+
+[[dialogue]]
+speaker = "アルモタヘル（幼少）"
+original = "「あんまり違わないのだ」"
+translation = "「별 차이 없는 것이다」"
+
+[[dialogue]]
+speaker = "マグダレナ（幼少）"
+original = "「違いますぅ～っ！\u3000ほうじ茶もいいですけど、私は抹茶味が好きなんですぅ～っ！」"
+translation = "「다르다구요~옷! 호지차도 좋지만, 저는 말차 맛을 좋아한다구요~옷!」"
+
+[[dialogue]]
+speaker = "？？？"
+original = "「アハハ、ちっちゃい方の２人はからかい甲斐があるなぁ～」"
+translation = "「아하하, 꼬맹이 둘은 놀려 먹는 보람이 있네~」"
+
+[[dialogue]]
+speaker = "？？？"
+original = "「それじゃ次は……」"
+translation = "「그럼 다음은……」"
+
+[[dialogue]]
+speaker = "unk"
+original = "星徒会の仕事を終えて、いつものように通学路を通って帰宅していると──"
+translation = "성도회 일을 마치고 평소처럼 등굣길을 통해 귀가하고 있자──"
+
+[[dialogue]]
+speaker = "？？？"
+original = "「だ～れだ？」"
+translation = "「누~구게?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "パテル？"
+translation = "파텔?"
+
+[[dialogue]]
+speaker = "パテル"
+original = "「正解！\u3000また会ったね、魔王」"
+translation = "「정답! 또 만났네, 마왕」"
+
+[[dialogue]]
+speaker = "パテル"
+original = "「ほら、パテルストーンを一番見つけた人にご褒美あげるって言ってたでしょ。はい、肉巻きおにぎりと抹茶クッキーあげるね」"
+translation = "「자, 파텔 스톤을 가장 많이 찾은 사람한테 보상 준다고 했었지. 여기, 고기말이 주먹밥이랑 말차 쿠키 줄게」"
+
+[[dialogue]]
+speaker = "パテル"
+original = "「え？\u3000どこから持ってきたのって？\u3000大丈夫、食べても問題ないやつだから」"
+translation = "「에? 어디서 가져왔냐고? 괜찮아, 먹어도 문제없는 거니까」"
+
+[[dialogue]]
+speaker = "unk"
+original = "少し雰囲気変わった？"
+translation = "조금 분위기 변했어?"
+
+[[dialogue]]
+speaker = "パテル"
+original = "「そうかなー？\u3000そうかも」"
+translation = "「그럴까나~? 그럴지도」"
+
+[[dialogue]]
+speaker = "パテル"
+original = "「魔王やマグダレナたちのことはこっそり監視するつもりだったけど、監視してるって本人に言っちゃったからね。あんまり隠れる必要もないと思って」"
+translation = "「마왕이랑 막달레나 일행은 몰래 감시할 생각이었지만, 감시하고 있다고 본인한테 말해버렸으니까 말이야. 딱히 숨을 필요도 없다고 생각해서」"
+
+[[dialogue]]
+speaker = "パテル"
+original = "「だから今後はもう少しみんなの前に顔を出すと思うよ」"
+translation = "「그러니까 앞으로는 좀 더 모두 앞에 얼굴을 비칠 거라고 생각해」"
+
+[[dialogue]]
+speaker = "unk"
+original = "それはよかった"
+translation = "그거 다행이네"
+
+[[dialogue]]
+speaker = "パテル"
+original = "「フランとグロリアにも会ってきたところ。フランは相変わらずだけど、グロリアは喜んでくれたよ」"
+translation = "「프랑이랑 글로리아도 만나고 온 참이야. 프랑은 여전하지만, 글로리아는 기뻐해 줬어」"
+
+[[dialogue]]
+speaker = "パテル"
+original = "「魔王、ちょっとお願いしていい？」"
+translation = "「마왕, 부탁 하나 해도 될까?」"
+
+[[dialogue]]
+speaker = "パテル"
+original = "「正直言うと、勢いで肉体を作ってもらったし、後悔したこともあるから、あたしの分身が言ってたこともあながち否定できないんだよね」"
+translation = "「솔직히 말하면, 기세로 육체를 만들어 달라고 했고, 후회한 적도 있어서, 내 분신이 했던 말도 아주 부정할 수는 없거든」"
+
+[[dialogue]]
+speaker = "パテル"
+original = "「自分にあんなこと言った手前かっこ悪いけど、ちょっぴり不安なんだ。あたしがダメな死神にならないかって」"
+translation = "「자신한테 그런 소릴 한 마당에 꼴사납지만, 조금 불안해. 내가 형편없는 사신이 되지 않을까 하고」"
+
+[[dialogue]]
+speaker = "パテル"
+original = "「だから、あたしが死神らしくないことしそうになったら止めてほしいんだ」"
+translation = "「그러니까, 내가 사신답지 않은 짓을 하려고 하면 말려줬으면 좋겠어」"
+
+[[dialogue]]
+speaker = "unk"
+original = "そうならないと信じてるけど、わかった"
+translation = "그렇게 되지 않을 거라 믿지만, 알았어"
+
+[[dialogue]]
+speaker = "パテル"
+original = "「ありがと。頼りにしてるからね」"
+translation = "「고마워. 의지하고 있을 테니까」"
+
+[[dialogue]]
+speaker = "パテル"
+original = "「それじゃ──」"
+translation = "「그럼──」"
+
+[[dialogue]]
+speaker = "パテル"
+original = "「コチョコチョコチョコチョ～♪」"
+translation = "「간질간질간질간질~♪」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ワハハハハッ！？"
+translation = "와하하하핫!?"
+
+[[dialogue]]
+speaker = "パテル"
+original = "「真面目な話してて油断した？\u3000アハハ、死神に隙を見せちゃいけないんだよ～♪」"
+translation = "「진지한 얘기 하다가 방심했어? 아하하, 사신에게 빈틈을 보이면 안 된다구~♪」"
+
+[[dialogue]]
+speaker = "unk"
+original = "パテルはかわいい女の子で、その本分は冷酷な死神で、だけどイタズラ好きで。"
+translation = "파텔은 귀여운 여자아이고, 그 본분은 냉혹한 사신이지만, 그러면서도 장난을 좋아한다."
+
+[[dialogue]]
+speaker = "unk"
+original = "彼女の前ではいろんな意味で気を抜けないと、改めて思うのだった。"
+translation = "그녀 앞에서는 여러 의미로 긴장을 늦출 수 없다고, 새삼 생각하는 것이었다."
+

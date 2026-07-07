@@ -1,0 +1,280 @@
+[[dialogue]]
+speaker = "unk"
+original = "第２話,チョコレート全席,P"
+translation = "제2화, 초콜릿 전석, P"
+
+[[dialogue]]
+speaker = "unk"
+original = "流星学園のバレンタインイベント──大聖堂でのチョコレート配りはつつがなく終了した。"
+translation = "유성학원의 발렌타인 이벤트── 대성당에서의 초콜릿 배부는 차질 없이 종료되었다."
+
+[[dialogue]]
+speaker = "unk"
+original = "準備期間中にトラブルもあったが、大事には至らなかったので一安心。そしてとうとう、後片付けを終えたウズメが俺の家へとやってきて……"
+translation = "준비 기간 중에 트러블도 있었지만 큰일로 번지지는 않아서 다행이다. 그리고 드디어, 뒷정리를 마친 우즈메가 우리 집으로 찾아와서……"
+
+[[dialogue]]
+speaker = "ウズメイア"
+original = "「ふ～っ。会長くん、お待たせ。荷物が多くて手間取っちゃったし……！」"
+translation = "「후우~. 회장군, 기다렸지. 짐이 많아서 좀 늦어 버렸다구……!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "（友達から貰ったチョコかな……？）"
+translation = "(친구들에게 받은 초코인가……?)"
+
+[[dialogue]]
+speaker = "unk"
+original = "お疲れ様、すごい荷物だね"
+translation = "수고했어, 짐이 엄청나네."
+
+[[dialogue]]
+speaker = "ウズメイア"
+original = "「よいしょっと……さーて、ようやく２人きりだし。まずはずっと我慢してたスキンシップからしちゃうし～<emoji=heart04>」"
+translation = "「영차…… 자아, 드디어 둘뿐이네. 우선은 계속 참고 있었던 스킨십부터 해 버리겠다구~<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "ウズメイア"
+original = "「会長くん、好きー<emoji=heart04>\u3000んー……ちゅっ<emoji=heart04>」"
+translation = "「회장군, 좋아해~<emoji=heart04> 음─…… 쪽<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "ウズメイア"
+original = "「えへへ♪\u3000学園だと人目があるけど、会長くんのお家なら２人っきりだし。いっぱいイチャイチャできるから嬉しい<emoji=heart04>」"
+translation = "「에헤헤♪ 학원에서는 남의 눈이 있지만, 회장군 집이라면 둘뿐이니까. 잔뜩 꽁냥거릴 수 있어서 기뻐<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "ウズメイア"
+original = "「んー……ちゅ<emoji=heart04>\u3000ちゅっ……ちゅぅーっ……ちゅっ<emoji=heart04>」"
+translation = "「음─…… 쪽<emoji=heart04> 쪽…… 쪼오옥…… 쪽<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "ウズメイア"
+original = "「ふふ～♪\u3000会長くん、まだあたしからチョコ貰ってないのに、すっごく嬉しそうな顔してるし～<emoji=heart04>」"
+translation = "「후후~♪ 회장군, 아직 나한테 초코 안 받았는데 벌써 엄청 기쁜 표정 짓고 있다구~<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "unk"
+original = "すごくドキドキしてるんだ"
+translation = "무척 두근거리고 있어."
+
+[[dialogue]]
+speaker = "unk"
+original = "ウズメもバレンタイン衣装も可愛いから"
+translation = "우즈메도 발렌타인 의상도 귀여우니까."
+
+[[dialogue]]
+speaker = "ウズメイア"
+original = "「あはー♪\u3000嬉しいっ<emoji=heart04>\u3000会長くん、いっつもあたしのこと、いっぱい褒めてくれるから大好きっ<emoji=heart04>」"
+translation = "「아하~♪ 기뻐<emoji=heart04> 회장군, 맨날 나 엄청 칭찬해 주니까 너무 좋아<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "ウズメイア"
+original = "「改めて会長くん。流星学園のバレンタインイベント、色々と手伝ってくれてありがとね」"
+translation = "「새삼스럽지만 회장군. 유성학원 발렌타인 이벤트, 여러 가지로 도와줘서 고마워.」"
+
+[[dialogue]]
+speaker = "ウズメイア"
+original = "「フィオナ会長もすっごく助かったって言ってたし……もちろんあたしもシャルレーヌちゃんも、めっちゃ感謝してるよ！」"
+translation = "「피오나 회장님도 정말 큰 도움이 됐다고 하셨고…… 물론 나도 샬레느 짱도 엄청 감사하고 있어!」"
+
+[[dialogue]]
+speaker = "ウズメイア"
+original = "「頑張ってくれた会長くんにお待ちかね……こ、恋人のあたしから本命チョコ、プレゼントしちゃうし……<emoji=heart04>」"
+translation = "「열심히 해 준 회장군에게 기다리시던…… 여, 연인인 내가 본명 초코, 선물해 줄게……<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "ウズメイア"
+original = "「本当は大聖堂で渡すつもりだったんだけどさ。直前になって、友達の目があるのが恥ずかしくなっちゃって……」"
+translation = "「사실은 대성당에서 줄 생각이었는데 말야. 직전이 되니까 친구들 눈이 있는 게 부끄러워져서……」"
+
+[[dialogue]]
+speaker = "ウズメイア"
+original = "「めっっっちゃ気合い入れて作ったからさ……。それってあたしの想いの強さが形になってるわけで……それを見られるの、ハズいなって」"
+translation = "「저어어엉말 정성 들여 만들었으니까…… 그건 내 마음의 크기가 형태가 된 거잖아…… 그걸 들키는 게 쑥스럽더라고.」"
+
+[[dialogue]]
+speaker = "ウズメイア"
+original = "「へ、変だよね～。ギャルファッションにハマってから、そーゆー……羞恥心？\u3000みたいなの、耐性がついたと思ってたんだけど」"
+translation = "「이, 이상하지~. 갸루 패션에 빠진 뒤로 그런…… 수치심? 같은 거에 내성이 생겼다고 생각했는데.」"
+
+[[dialogue]]
+speaker = "ウズメイア"
+original = "「で、でも！\u3000いつまでもモジモジしてるのはあたしらしくないし！\u3000というわけで、はいこれ！\u3000受け取って！」"
+translation = "「하, 하지만! 언제까지고 우물쭈물하는 건 나답지 않으니까! 그런 의미에서, 자 이거! 받아 줘!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "…………んっ？"
+translation = "…………응?"
+
+[[dialogue]]
+speaker = "unk"
+original = "ウズメが部屋に入ってきた時に肩に担いでいた、まるでサンタクロースのプレゼント袋みたいな、巨大な大袋。"
+translation = "우즈메가 방에 들어올 때 어깨에 메고 있던, 마치 산타클로스의 선물 보따리 같은 거대한 큰 가방."
+
+[[dialogue]]
+speaker = "unk"
+original = "それが、俺の前にドンと置かれた──"
+translation = "그것이 내 앞에 쿵 하고 놓였다──"
+
+[[dialogue]]
+speaker = "unk"
+original = "……この中のどれが、俺へのチョコ？"
+translation = "……이 안의 어느 게 나한테 주는 초코야?"
+
+[[dialogue]]
+speaker = "ウズメイア"
+original = "「全部！！」"
+translation = "「전부!!」"
+
+[[dialogue]]
+speaker = "ウズメイア"
+original = "「この袋のチョコ……全部があたしの本命チョコだし！！」"
+translation = "「이 가방 속 초코…… 전부가 내 본명 초코라구!!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "本当にめっっっちゃ気合い入れたね！？"
+translation = "정말 처어어엄청 정성 들였네!?"
+
+[[dialogue]]
+speaker = "ウズメイア"
+original = "「むふふ～♪\u3000どうせなら思い出に残るインパクトってやつ、突き詰めてみようかと思って！」"
+translation = "「무후후~♪ 이왕이면 기억에 남을 임팩트라는 거, 제대로 파고들어 볼까 해서!」"
+
+[[dialogue]]
+speaker = "ウズメイア"
+original = "「しかもさ～、知ってる会長くん？\u3000バレンタインに贈るお菓子って、それぞれに意味があるんだよ！」"
+translation = "「게다가 말야~, 알고 있어 회장군? 발렌타인에 선물하는 과자는 저마다 의미가 있다구!」"
+
+[[dialogue]]
+speaker = "ウズメイア"
+original = "「マカロンは『あなたは特別な人』って意味だし、ドーナツは『永遠に大好き』って意味だし──」"
+translation = "「마카롱은 『당신은 특별한 사람』이라는 의미고, 도넛은 『영원히 너무 좋아』라는 의미고──」"
+
+[[dialogue]]
+speaker = "ウズメイア"
+original = "「マドレーヌは『仲良くなりたい』、キャンディーは『あなたと一緒にいたい』ってメッセージになるの！」"
+translation = "「마들렌은 『친해지고 싶어』, 캔디는 『당신과 함께 있고 싶어』라는 메시지가 돼!」"
+
+[[dialogue]]
+speaker = "ウズメイア"
+original = "「ヤバいよね！？\u3000日本のバレンタイン文化って本当に奥が深いし！\u3000で、どのメッセージにするか悩みに悩んでさ～？」"
+translation = "「대박이지!? 일본의 발렌타인 문화는 정말 심오하다구! 그래서 어떤 메시지로 할까 고민고민 하다가 말야~?」"
+
+[[dialogue]]
+speaker = "ウズメイア"
+original = "「会長くんってあたしの彼氏じゃん？\u3000つまり、究極の推しってことじゃん！？」"
+translation = "「회장군은 내 남자친구잖아? 즉, 최고의 최애라는 거잖아!?」"
+
+[[dialogue]]
+speaker = "ウズメイア"
+original = "「どれか１つを選んで贈るのは、そもそも間違いなんじゃないかなって思ったんだ～♪」"
+translation = "「어느 하나를 골라서 주는 건 애초에 틀린 게 아닐까 생각했어~♪」"
+
+[[dialogue]]
+speaker = "ウズメイア"
+original = "「で！\u3000それならいっそのこと、全部作っちゃえって！\u3000名付けて雨野ウズメイア特製──バレンタインチョコ全席だし～っ<emoji=heart04>」"
+translation = "「그래서! 그럴 바에야 차라리 전부 만들어 버리자고! 이름하여 아마노 우즈메이야 특제── 발렌타인 초코 전석이라구~<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "unk"
+original = "わ、わァ……！"
+translation = "와, 와아……!"
+
+[[dialogue]]
+speaker = "ウズメイア"
+original = "「むっふふふ～♪\u3000味はもちろん、ぜーんぶチョコ味！\u3000マトイ先輩直伝のビタースウィートな味付けだし～♪」"
+translation = "「무후후후~♪ 맛은 물론 저언부 초코 맛! 마토이 선배 전수의 비터 스위트한 맛이라구~♪」"
+
+[[dialogue]]
+speaker = "ウズメイア"
+original = "「それじゃ～早速、チョコマカロンからどーぞ<emoji=heart04>\u3000食べさせてあげるっ<emoji=heart04>」"
+translation = "「그러면~ 곧장 초코 마카롱부터 드세요<emoji=heart04> 먹여 줄게<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "unk"
+original = "お……おいしい！"
+translation = "어…… 맛있다!"
+
+[[dialogue]]
+speaker = "ウズメイア"
+original = "「でしょ～？\u3000にひひ、味見役のアナちゃんから花丸貰ったもんね～♪」"
+translation = "「그치~? 니히히, 시식 담당인 아나 짱한테 꽃점 받았는걸~♪」"
+
+[[dialogue]]
+speaker = "ウズメイア"
+original = "「さっきもゆった通り、マカロンは『あなたは特別な存在』って意味だよ。いっぱい味わってほしいな～<emoji=heart04>」"
+translation = "「아까 말했듯이 마카롱은 『당신은 특별한 존재』라는 의미야. 잔뜩 맛봐 줬으면 좋겠어~<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "ウズメイア"
+original = "「ねぇねぇ会長くん、次はどのチョコを食べたい？」"
+translation = "「저기 저기 회장군, 다음은 어떤 초코를 먹고 싶어?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "じゃあ、カップケーキで……"
+translation = "그럼, 컵케이크로……"
+
+[[dialogue]]
+speaker = "ウズメイア"
+original = "「これに目を付けるとは、お主なかなかの目利きであるな～……なんちて♪」"
+translation = "「여기에 눈독을 들이다니, 그대 제법 안목이 있구만 그래~…… 농담♪」"
+
+[[dialogue]]
+speaker = "ウズメイア"
+original = "「チョコチップを散らしてあるから、食感も楽しめるんだ！\u3000あ、ちなみにこれも『あなたは特別な存在』って意味♪」"
+translation = "「초코칩을 뿌려 둬서 식감도 즐길 수 있어! 아, 참고로 이것도 『당신은 특별한 존재』라는 의미♪」"
+
+[[dialogue]]
+speaker = "ウズメイア"
+original = "「面白いよね。お菓子の意味が被ってるやつも結構あるの。それ意味ないじゃんってマトイ先輩たちとツッコミ入れちゃったし♪」"
+translation = "「재밌지. 과자 의미가 겹치는 것도 꽤 있어. 그럴 거면 의미 없잖아 하고 마토이 선배랑 같이 츳코미 걸었다니까♪」"
+
+[[dialogue]]
+speaker = "ウズメイア"
+original = "「さぁお客さん、次のチョコは何にしやしょうっ？」"
+translation = "「자 손님, 다음 초코는 뭘로 하시겠습니까요?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "じゃ、じゃあマフィンで……"
+translation = "그, 그럼 머핀으로……"
+
+[[dialogue]]
+speaker = "ウズメイア"
+original = "「お目が高い！\u3000このチョコマフィン、会心の焼き加減なんだ～<emoji=heart04>\u3000味わって味わって<emoji=heart04>\u3000はい、あ～んっ♪」"
+translation = "「안목이 높네! 이 초코 머핀, 회심의 굽기 정도라구~<emoji=heart04> 음미해 줘 음미해 줘<emoji=heart04> 자, 아~앙♪」"
+
+[[dialogue]]
+speaker = "ウズメイア"
+original = "「にひひひ～っ♪\u3000大好きな会長くんに手作りお菓子食べてもらえるの、めっちゃ嬉しいし～<emoji=heart04>」"
+translation = "「니히히히~♪ 좋아하는 회장군한테 수제 과자 먹여 줄 수 있어서 너무 기쁘다구~<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "ウズメイア"
+original = "「ちなみにマフィンも『あなたは特別な存在』って意味らしいし♪\u3000３連続で同じ意味になっちゃったね、あはは♪」"
+translation = "「참고로 머핀도 『당신은 특별한 존재』라는 의미래♪ 3연속으로 같은 의미가 되어 버렸네, 아하하♪」"
+
+[[dialogue]]
+speaker = "ウズメイア"
+original = "「まだまだチョコドーナツもチョコバウムクーヘンもチョコマロングラッセもあるよっ♪\u3000次は何食べたい、会長くん？」"
+translation = "「아직 초코 도넛도 초코 바움쿠헨도 초코 마롱 글라세도 남아 있다구♪ 다음은 뭐 먹고 싶어, 회장군?」"
+
+[[dialogue]]
+speaker = "ウズメイア"
+original = "「あたしの推しへの愛、お腹い～っぱいになるまで──召し上がれっ<emoji=heart04>」"
+translation = "「내 최애를 향한 사랑, 배가 가~아득 찰 때까지── 드세요<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "unk"
+original = "胸焼けしそうになるほどの甘いチョコたちだったが、どれもウズメの愛情がこもっているのだと思うとお残しなんてできるはずもなく。"
+translation = "속이 아릴 정도의 달콤한 초콜릿들이었지만, 모두 우즈메의 애정이 담겨 있다고 생각하니 남길 수 있을 리 없었다."
+
+[[dialogue]]
+speaker = "unk"
+original = "この日、俺は間違いなく、人生史上最もチョコレートを食べた１日になったのだった──"
+translation = "이날, 나는 틀림없이 인생사 가장 많은 초콜릿을 먹은 하루가 되었다──"
+

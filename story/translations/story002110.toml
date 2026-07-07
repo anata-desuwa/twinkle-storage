@@ -1,0 +1,455 @@
+[[dialogue]]
+speaker = "unk"
+original = "『雪女』が撃退されたことで──"
+translation = "『설녀』가 격퇴됨으로써──"
+
+[[dialogue]]
+speaker = "unk"
+original = "リゾート結界に生じた『隙間』は修復され、再び潮風だけが吹くエンドレスサマーが戻ってきた。"
+translation = "리조트 결계에 생긴 『틈새』는 수리되었고, 다시 바닷바람만이 부는 엔들리스 서머가 돌아왔다."
+
+[[dialogue]]
+speaker = "unk"
+original = "さらに……"
+translation = "게다가……"
+
+[[dialogue]]
+speaker = "リップル"
+original = "「──デキマシター！\u3000ついにカンセイで～す！！」"
+translation = "「──해냈어-요! 드디어 완성이-에요!!」"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「おおっ、これは！？」"
+translation = "「오옷, 이것은!?」"
+
+[[dialogue]]
+speaker = "リップル"
+original = "「リゾート結界限定──常夏スノーボードにサマーこたつ、そしてトロピカル雪だるまデース！」"
+translation = "「리조트 결계 한정── 상하 스노보드에 서머 코타츠, 그리고 트로피컬 눈사람이에-요!」"
+
+[[dialogue]]
+speaker = "ユウリ"
+original = "「はえー、ホントに作っちまうとは」"
+translation = "「하아, 정말로 만들어버리다니.」"
+
+[[dialogue]]
+speaker = "リップル"
+original = "「セーラのアイディアに、ソフィアの『氷の星術』から着想を得て作ったのデース！」"
+translation = "「세라의 아이디어에 소피아의 『얼음 성술』에서 착상을 얻어 만든 것이-에요!」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「すっごい、この雪だるま全然溶けない！」"
+translation = "「굉장해, 이 눈사람 전혀 안 녹아!」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「うお、なんだこりゃ！\u3000このソリ、海の上を滑れるぞ！」"
+translation = "「우오, 뭐야 이거! 이 썰매, 바다 위를 미끄러질 수 있다고!」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「これは……高度な星術の制御が付与されていますね。それも複合属性の──」"
+translation = "「이것은…… 고도의 성술 제어가 부여되어 있군요. 그것도 복합 속성의──」"
+
+[[dialogue]]
+speaker = "リップル"
+original = "「フッフッフッ、リップルの夏に不可能はないのデース！」"
+translation = "「훗훗훗, 리플의 여름에 불가능은 없답니-다!」"
+
+[[dialogue]]
+speaker = "ユウリ"
+original = "（その力、もっと別のところで活かせねーのかな……？）"
+translation = "(그 힘, 좀 더 다른 데 활용할 수는 없는 걸까……?)"
+
+[[dialogue]]
+speaker = "リップル"
+original = "「──さらにこたつといえば！\u3000欠かせないモノがありますヨネ、皆サン？」"
+translation = "「──게다가 코타츠라고 하면! 빠질 수 없는 게 있죠, 여러분?」"
+
+[[dialogue]]
+speaker = "リップル"
+original = "「ワタシの企業努力にヨリ……『夏みかん』までも開発してしまいマシタ！」"
+translation = "「저의 기업 노력으-로…… 『여름 귤』까지 개발해버렸습니-다!」"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「あ、夏みかんは元々ありますよ」"
+translation = "「아, 여름 귤은 원래 있어요.」"
+
+[[dialogue]]
+speaker = "リップル"
+original = "「──ナンですト！？！？」"
+translation = "「──이럴 수-가!?!?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "お茶目だ"
+translation = "익살맞다."
+
+[[dialogue]]
+speaker = "unk"
+original = "これはこれで"
+translation = "이건 이것대로."
+
+[[dialogue]]
+speaker = "リップル"
+original = "「とはいえ、コレで結界はまた夏一色！\u3000以前よりもずーっと広く、固く、そして幅広い遊びが楽しめるヨウになりマシタ！」"
+translation = "「어쨌든 이걸로 결계는 다시 여름 일색! 이전보다 훨씬 넓고, 단단하고, 그리고 폭넓은 놀이를 즐길 수 있게 되었습니-다!」"
+
+[[dialogue]]
+speaker = "リップル"
+original = "「やっぱり夏はサイコ～で～す！\u3000ね、雪女サン？」"
+translation = "「역시 여름은 최-고예-요! 그쵸, 설녀 씨?」"
+
+[[dialogue]]
+speaker = "雪女"
+original = "「ワ、ワタシはなぜここに……？\u3000トカされたと思ったのに……」"
+translation = "「나, 나는 왜 여기에……? 녹아버린 줄 알았는데……」"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「おおっ雪女さん！\u3000あれ？\u3000どこか雰囲気変わりました？」"
+translation = "「오옷 설녀 씨! 어라? 어딘가 분위기가 바뀌었나요?」"
+
+[[dialogue]]
+speaker = "リップル"
+original = "「サマーエディションというコトで、アロハを身に着けてもらいマシタ！\u3000これでビーチにもピッタリでーす！」"
+translation = "「서머 에디션이라는 의미로 알로하를 입혀드렸습니-다! 이걸로 비치에도 딱이에-요!」"
+
+[[dialogue]]
+speaker = "雪女"
+original = "「ワタシの羽衣が……ケド……コレもコレで案外悪くないカモ……」"
+translation = "「나의 날개옷이…… 하-지만…… 이것도 이것대로 의외로 나쁘지 않을지-도……」"
+
+[[dialogue]]
+speaker = "リップル"
+original = "「フフフ！\u3000夏の魅力に取り憑かれてシマイましたか？」"
+translation = "「후후후! 여름의 매력에 홀려버렸나-요?」"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「リップルさん、恐るべし……ですね！」"
+translation = "「리플 씨, 정말 무서운 분……이네요!」"
+
+[[dialogue]]
+speaker = "リップル"
+original = "「これからは雪女サンも満足できるヨウナ、冬も楽しめる真のリゾートをメザしましょ～！」"
+translation = "「앞으로는 설녀 씨도 만족할 수 있-는, 겨울도 즐길 수 있는 진정한 리조트를 목표로 합시-다!」"
+
+[[dialogue]]
+speaker = "リップル"
+original = "「さあ雪女サン、さっそく、開発した冷たくない雪をリゾート中に降らすので～す！」"
+translation = "「자 설녀 씨, 어서 개발한 차갑지 않은 눈을 리조트 중에 내리는 거예-요!」"
+
+[[dialogue]]
+speaker = "リップル"
+original = "「セカイを夏で覆い尽くすまで──エンドレスサマーの開発は終わらナイのデ～ス！」"
+translation = "「세계를 여름으로 뒤덮을 때까지── 엔들리스 서머의 개발은 끝나지 않는 것이-에요!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "リップルのリゾート結界がより強固に進化した！"
+translation = "리플의 리조트 결계가 더욱 견고하게 진화했다!"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「ふぅ……色々あったけど、大団円ってとこかしら」"
+translation = "「휴우…… 여러 일이 있었지만, 대단원이라는 느낌일까.」"
+
+[[dialogue]]
+speaker = "unk"
+original = "あれ、ヴィーナス……"
+translation = "어라, 비너스……"
+
+[[dialogue]]
+speaker = "unk"
+original = "どこにいたの？"
+translation = "어디 있었어?"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「向こうで増えるアイスと闘ってたのよ！\u3000おかげでまだ頭がズキンズキンしてるわ……！」"
+translation = "「저쪽에서 늘어나는 아이스크림이랑 싸우고 있었어! 덕분에 아직도 머리가 찡하니 아파……!」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「ほんと大変だったんだから。ねえフィオナ……？」"
+translation = "「정말 힘들었다니까. 그치, 피오나……?」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「はい……しばらく冷たいものは、いい、です……」"
+translation = "「네…… 당분간 차가운 건, 됐, 어요……」"
+
+[[dialogue]]
+speaker = "ニャリオン"
+original = "「ワ、ワガハイも舌が凍ったかと思ったニャンよ……」"
+translation = "「나, 나님도 혀가 얼어붙는 줄 알았다냥……」"
+
+[[dialogue]]
+speaker = "unk"
+original = "どうやら海の家でも死闘が繰り広げられていたようだ。"
+translation = "아무래도 바다의 집에서도 사투가 벌어지고 있었던 모양이다."
+
+[[dialogue]]
+speaker = "unk"
+original = "俺も会長職としてアイス討伐に加わるべきだったのか……？"
+translation = "나도 회장직으로서 아이스크림 토벌에 가담했어야 했던 걸까……?"
+
+[[dialogue]]
+speaker = "unk"
+original = "水平線に沈みゆく夕日が、ビーチを鮮やかに染める。"
+translation = "지평선으로 저물어가는 석양이 비치를 선명하게 물들인다."
+
+[[dialogue]]
+speaker = "unk"
+original = "哀愁と美しさがただよう砂浜で、ひとりぽつんと座り込む少女がいた。"
+translation = "애수와 아름다움이 감도는 백사장에서 혼자 덩그러니 주저앉아 있는 소녀가 있었다."
+
+[[dialogue]]
+speaker = "ソフィア"
+original = "「……」"
+translation = "「……」"
+
+[[dialogue]]
+speaker = "ソフィア"
+original = "「あ、会長さん……」"
+translation = "「아, 회장님……」"
+
+[[dialogue]]
+speaker = "ソフィア"
+original = "「……楽しかったか、って？\u3000ええ。それはもう。こんなに素晴らしい時間を過ごせるとは思いませんでした」"
+translation = "「……즐거웠냐고, 요? 네. 그야말로. 이렇게 멋진 시간을 보낼 수 있을 줄은 몰랐어요.」"
+
+[[dialogue]]
+speaker = "unk"
+original = "もう日が暮れる"
+translation = "이제 해가 저문다."
+
+[[dialogue]]
+speaker = "unk"
+original = "そろそろ帰らないと"
+translation = "슬슬 돌아가야 해."
+
+[[dialogue]]
+speaker = "ソフィア"
+original = "「……どうしても」"
+translation = "「……꼭.」"
+
+[[dialogue]]
+speaker = "ソフィア"
+original = "「どうしても、帰らなきゃダメですか……？」"
+translation = "「꼭, 돌아가야만 하나요……?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "もちろん"
+translation = "물론이지."
+
+[[dialogue]]
+speaker = "unk"
+original = "明日もある"
+translation = "내일도 있어."
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「ほーら、ソフィ。そろそろ帰りましょ」"
+translation = "「자- 소피. 슬슬 돌아가자.」"
+
+[[dialogue]]
+speaker = "ソフィア"
+original = "「い……イヤです」"
+translation = "「시…… 싫습니다.」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「え……？」"
+translation = "「에……?」"
+
+[[dialogue]]
+speaker = "ソフィア"
+original = "「外は……寒くて……冷たいです。帰りたくありません」"
+translation = "「밖은…… 춥고…… 차갑습니다. 돌아가고 싶지 않아요.」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「もう。そんなわがまま言って」"
+translation = "「정말. 그런 억지를 부리고.」"
+
+[[dialogue]]
+speaker = "リップル"
+original = "「ハハハー、リゾート結界は大歓迎デース！\u3000気が済むまでここで夏を楽しむとよいのデス！\u3000向こうにキャンプ用のバンガローもありマスよ？」"
+translation = "「하하하- 리조트 결계는 대환영이에-요! 마음이 풀릴 때까지 여기서 여름을 즐기면 되는 것이-에요! 저쪽에 캠핑용 방갈로도 있답니-다?」"
+
+[[dialogue]]
+speaker = "ソフィア"
+original = "「リップル神……！」"
+translation = "「리플 신……!」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「そういうわけにもいかないのよ、リップルちゃん」"
+translation = "「그렇게는 안 된다구, 리플짱.」"
+
+[[dialogue]]
+speaker = "ユウリ"
+original = "「そうだぞソフィア、明日も授業あんだから」"
+translation = "「그렇다구 소피아, 내일도 수업 있잖아.」"
+
+[[dialogue]]
+speaker = "ソフィア"
+original = "「うう……せめて今日くらい──外の空気を吸わずに寝たいのです……！」"
+translation = "「으으…… 적어도 오늘만큼은── 바깥 공기를 마시지 않고 자고 싶단 말이에요……!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ソフィアちゃんがイヤイヤ期に入ってしまった。"
+translation = "소피아짱이 투정 부리는 시기에 들어갔다."
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「帰りましょう、ソフィア」"
+translation = "「돌아가요, 소피아.」"
+
+[[dialogue]]
+speaker = "ソフィア"
+original = "「フィオナ会長……」"
+translation = "「피오나 회장님……」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「今日も本来は、星徒会業務の一環──『合宿』としてお願いしたものです。少々、イレギュラーな事態にはなってしまいましたが」"
+translation = "「오늘도 본래는 성도회 업무의 일환── 『합숙』으로서 부탁드린 것입니다. 조금 불규칙한 사태가 되어버리긴 했지만요.」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「ソフィアがいなかったら……流星の会長としては、困ってしまいますね。うちに欠かせない人材ですから」"
+translation = "「소피아가 없으면…… 유성의 회장으로서는 곤란해져요. 우리에게 없어서는 안 될 인재니까요.」"
+
+[[dialogue]]
+speaker = "ソフィア"
+original = "「……！」"
+translation = "「……!」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「そうだぞ、ソフィア！\u3000ソフィアがいなかったら……またフィオナがてんてこまいになっちゃうぞ！」"
+translation = "「그렇다구, 소피아! 소피아가 없으면…… 또 피오나가 허둥지둥하게 될 거라구!」"
+
+[[dialogue]]
+speaker = "ニャリオン"
+original = "「そうニャ！\u3000会計書の作成とか備品の発注とかニャ……！」"
+translation = "「그렇다냥! 회계 장부 작성이라든가 비품 발주라든가다냥……!」"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「はい！\u3000ＵＭＯのメンバーだって足りなくなっちゃいますし──」"
+translation = "「네! UMO 멤버도 부족해져 버리고요──」"
+
+[[dialogue]]
+speaker = "ソフィア"
+original = "「皆さん……」"
+translation = "「여러분……」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "（あなた達は手伝ってくれてもいいんですよ……？）"
+translation = "(당신들이 도와주셔도 되는데요……?)"
+
+[[dialogue]]
+speaker = "セーラ"
+original = "「ね、帰ろ。ソフィアちゃん」"
+translation = "「자, 가자. 소피아짱.」"
+
+[[dialogue]]
+speaker = "ソフィア"
+original = "「セーラさん……」"
+translation = "「세라 씨……」"
+
+[[dialogue]]
+speaker = "セーラ"
+original = "「外の寒さは厳しいし、夏も夏でサイコーだけどさ。それだってまとめて思い出になるよ。きっと」"
+translation = "「밖의 추위는 엄격하고 여름은 여름대로 최고지만 말이야. 그런 것도 전부 합쳐서 추억이 될 거야. 분명.」"
+
+[[dialogue]]
+speaker = "セーラ"
+original = "「それに、ほら。リップルちゃんはいつでも歓迎してくれるし──また一緒に来ればいいじゃん」"
+translation = "「게다가, 봐봐. 리플짱은 언제든 환영해 줄 테니까── 나중에 다시 같이 오면 되잖아.」"
+
+[[dialogue]]
+speaker = "ソフィア"
+original = "「う……はい。わがまま言ってごめんなさい」"
+translation = "「우…… 네. 고집 피워서 죄송해요.」"
+
+[[dialogue]]
+speaker = "ソフィア"
+original = "「また明日来ればいいですもんね！\u3000リップルさん、うちの星徒会室にもゲート設置をお願いします！」"
+translation = "「내일 다시 오면 되는 거니까요! 리플 씨, 우리 성도회실에도 게이트 설치 부탁드려요!」"
+
+[[dialogue]]
+speaker = "ユウリ"
+original = "「──って早ぇな！？」"
+translation = "「──태세 전환 빠르네!?」"
+
+[[dialogue]]
+speaker = "リップル"
+original = "「アハハー、お安いゴヨウなのデース！\u3000リップルとサマーリゾートはいつでも大歓迎デスヨ？」"
+translation = "「아하하~, 식은 죽 먹기인 거예요! 리플과 서머 리조트는 언제나 대환영이라구요?」"
+
+[[dialogue]]
+speaker = "リップル"
+original = "「モシクは～、そうデス！\u3000以前考案した<ruby>時間停止機構<rt>タイムストッパー</rt></ruby>『エターナル・バケーション・システム』の再実装を……」"
+translation = "「아니면~, 맞다! 이전에 고안했던 시간 정지 기구 『에터널 버케이션 시스템』의 재구현을……」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「あ、あれは絶対ダメです！」"
+translation = "「아, 그건 절대 안 돼요!」"
+
+[[dialogue]]
+speaker = "リップル"
+original = "「Ｏｈ、残念デース。ですが、今回の合宿を通じて、ソフィアという同志が得られたコトを喜ばしく思いマス！」"
+translation = "「Oh, 유감이예요. 하지만 이번 합숙을 통해 소피아라는 동지를 얻게 된 것을 기쁘게 생각함미다!」"
+
+[[dialogue]]
+speaker = "リップル"
+original = "「ソフィア。またいつでも遊びにキテください」"
+translation = "「소피아. 또 언제든 놀러 오시는 거예요.」"
+
+[[dialogue]]
+speaker = "リップル"
+original = "「そして、イズレは……共にこの結界を世界中に広げ、真のエンドレスサマーをカンセイさせまショウ！」"
+translation = "「그리고 언젠가는…… 함께 이 결계를 전 세계로 넓혀서, 진정한 엔들리스 서머를 완셰시키자구요!」"
+
+[[dialogue]]
+speaker = "ソフィア"
+original = "「──この身を捧げます！！」"
+translation = "「──이 몸을 바치겠습니다!!」"
+
+[[dialogue]]
+speaker = "ユウリ"
+original = "「やべー組み合わせが生まれちまったかもしれん……！」"
+translation = "「위험한 조합이 태어나 버린 것 같구먼……!」"
+
+[[dialogue]]
+speaker = "リップル"
+original = "「アハハ、夏というのはどう満喫してもいいものデース！」"
+translation = "「아하하, 여름이란 건 어떻게 만끽해도 좋은 법이예요!」"
+
+[[dialogue]]
+speaker = "リップル"
+original = "「それじゃ～サイゴに、盛大に花火を上げて解散にしまショ～～！」"
+translation = "「그럼~ 마지마그로 성대하게 불꽃을 쏘아 올리고 해산함시쇼~~!」"
+
+[[dialogue]]
+speaker = "ソフィア＆リップル"
+original = "「たまや～～～～～～～～～～～～！！！」"
+translation = "「타마야~~~~~~~~~~~~~!!!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "そうして、今年の冬合宿は無事に終わりを告げるのだった……。"
+translation = "그렇게 올해의 겨울 합숙은 무사히 끝을 고하는 것이었다……."
+

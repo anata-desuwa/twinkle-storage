@@ -1,0 +1,245 @@
+[[dialogue]]
+speaker = "unk"
+original = "第４話,敗残者の怨念,B"
+translation = "제4화, 패잔자의 원념, B"
+
+[[dialogue]]
+speaker = "unk"
+original = "俺たちはそれからもひたすらフィーニスの塔・第零層を駆け上がっていった。"
+translation = "우리는 그 후로도 오로지 피니스의 탑・제영층을 계속 달려 올라갔다."
+
+[[dialogue]]
+speaker = "ユウリ"
+original = "「おっと──行き止まりか？」"
+translation = "「이런── 막다른 길인가?」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「ここが終点ってことかしら？\u3000いつもの感じなら、最後には大体ボスが待ってるはずなんだけど──」"
+translation = "「여기가 종착점이라는 걸까? 평소대로라면, 마지막에는 대개 보스가 기다리고 있을 텐데──」"
+
+[[dialogue]]
+speaker = "ソフィア"
+original = "「ま、前のドラゴンみたいな……！」"
+translation = "「저, 저번 드래곤처럼……!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "きょろきょろと周囲を見渡す俺たち。"
+translation = "두리번거리며 주변을 둘러보는 우리."
+
+[[dialogue]]
+speaker = "unk"
+original = "しかし、どこからも新手が飛び出してくる様子はなかった。"
+translation = "하지만, 어디에서도 새로운 적이 튀어나올 기미는 없었다."
+
+[[dialogue]]
+speaker = "クロト"
+original = "「何もな──いや。あそこを見てくれ」"
+translation = "「아무것도 없── 아니. 저길 봐」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「──あれは……？」"
+translation = "「──저것은……?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "そこにあったのは不吉な色をしたオーブだった。"
+translation = "그곳에는 불길한 색을 띤 오브가 있었다."
+
+[[dialogue]]
+speaker = "unk"
+original = "どす黒いオーラをまとった水晶玉が、幾何学模様の上にぽつんと鎮座している。"
+translation = "검은 오라를 두른 수정 구슬이, 기하학 무늬 위에 덩그러니 자리 잡고 있다."
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「な、何あれ……？\u3000なんか不気味な感じ……」"
+translation = "「뭐, 뭐야 저거……? 뭔가 섬뜩한 느낌……」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「拾っていいのかしら……？」"
+translation = "「주워도 되는 걸까……?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "警戒しつつオーブへと近づいていく──と。"
+translation = "경계하며 오브로 다가간다── 그러자."
+
+[[dialogue]]
+speaker = "敗残の亡霊"
+original = "『オオオオオオオォォォォ────ン………………』"
+translation = "『오오오오오오오오오오────온………………』"
+
+[[dialogue]]
+speaker = "ユウリ"
+original = "「んなっ──」"
+translation = "「뭐, 뭐야──」"
+
+[[dialogue]]
+speaker = "ソフィア"
+original = "「ユ、ユーレイ！？」"
+translation = "「유, 유령!?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "瘴気が実体化して──俺たちの前に立ちはだかった！"
+translation = "장기가 실체화하여── 우리 앞에 가로막아 섰다!"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「どうやら……こいつが<ruby>零層<rt>ここ</rt></ruby>の番人みたいだな」"
+translation = "「아무래도…… 이 녀석이 제영층의 문지기인 것 같군.」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「なんと<ruby>禍々<rt>まがまが</rt></ruby>しい存在……あのオーブに宿っているようですね」"
+translation = "「이토록 불길한 존재라니…… 저 오브에 깃들어 있는 것 같네요.」"
+
+[[dialogue]]
+speaker = "敗残の亡霊"
+original = "『オォォ……ウゥゥ……ォォーン…………』"
+translation = "『오오오…… 우우우…… 오오온…………』"
+
+[[dialogue]]
+speaker = "ニャリオン"
+original = "「な……なんニャ、この感覚は。ワガハイ、アイツを知ってる気がするニャ」"
+translation = "「뭐…… 뭐냐냥, 이 감각은. 나, 저 녀석을 아는 것 같다냥.」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「気のせいじゃない？\u3000こんなの地上にいないでしょ」"
+translation = "「착각 아니야? 이런 건 지상에 없잖아.」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「いや……俺もだ、ニャリオン。この空気……どこか覚えがあるような……」"
+translation = "「아니…… 나도다, 냐리온. 이 분위기…… 어딘가 기억이 나는 듯한……」"
+
+[[dialogue]]
+speaker = "unk"
+original = "謎の既視感。その正体は、亡霊そのものが明かしてくれた。"
+translation = "수수께끼의 기시감. 그 정체는, 망령 그 자체가 밝혀주었다."
+
+[[dialogue]]
+speaker = "敗残の亡霊"
+original = "『リク……リエは……黙示録の表す……崇高なる天の啓示……』"
+translation = "『리크……리에는…… 묵시록이 나타내는…… 숭고한 하늘의 계시……』"
+
+[[dialogue]]
+speaker = "敗残の亡霊"
+original = "『よって……世界の再創生とは……女神をも超越する……チャカパラ神のご意思なのだァ……ッ……！！』"
+translation = "『그러므로…… 세계의 재창생이란…… 여신마저 초월하는…… 차카파라 신의 뜻인 것이다아……앗……!!』"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「っ──！\u3000その戯けた教義──まさか、バジュラ教団か！」"
+translation = "「윽──! 그 시답잖은 교의── 설마, 바쥬라 교단인가!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "バジュラ教団──それはかつて、<ruby>先代魔王<rt>ラクシス</rt></ruby>に滅ぼされた抵抗勢力のひとつ。"
+translation = "바쥬라 교단── 그것은 과거, <ruby>선대 마왕<rt>라크시스</rt></ruby>에게 멸망당한 저항 세력 중 하나."
+
+[[dialogue]]
+speaker = "unk"
+original = "そしてこの亡霊は、恐らく彼らを率いていた教祖の……！"
+translation = "그리고 이 망령은, 아마도 그들을 이끌었던 교주의……!"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「ってことは──３０００年前の怨霊ってこと！？」"
+translation = "「그렇다면── 3000년 전의 원령이라는 거야!?」"
+
+[[dialogue]]
+speaker = "ユウリ"
+original = "「さっきの話を聞く限り、魔王の邪魔してたんだろ？\u3000すげえはた迷惑な連中だったな」"
+translation = "「방금 이야기를 들으니, 마왕을 방해했던 거잖아? 엄청나게 민폐인 녀석들이었네.」"
+
+[[dialogue]]
+speaker = "ニャリオン"
+original = "「ニャんでそんニャのがここに残ってるニャンか──！？」"
+translation = "「왜 그런 녀석이 여기에 남아있는 거냐냥──!?」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「前回のドラゴンさんは確か、朱雀暦を滅ぼした元凶だっけ……？」"
+translation = "「지난번 드래곤 씨는 분명, 주작력을 멸망시킨 원흉이었던가……?」"
+
+[[dialogue]]
+speaker = "ソフィア"
+original = "「過去の厄介者たちばかりですね……」"
+translation = "「과거의 골칫거리들뿐이네요……」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「もしかすると、フィーニスの塔は──これらを幽閉する役割をも担っていたのかもしれませんね」"
+translation = "「어쩌면, 피니스의 탑은── 이들을 유폐하는 역할도 맡고 있었을지도 모르겠네요.」"
+
+[[dialogue]]
+speaker = "unk"
+original = "フィオナの推測は正しく思えた。"
+translation = "피오나의 추측은 옳은 것처럼 보였다."
+
+[[dialogue]]
+speaker = "unk"
+original = "たちまち広がったバジュラ教祖の怨霊は、恨みがましい眼で俺を見据える。"
+translation = "이내 퍼져나간 바쥬라 교주의 원령은, 원망스러운 눈으로 나를 노려본다."
+
+[[dialogue]]
+speaker = "敗残の亡霊"
+original = "『魔王……ラクシスよ……貴様だけは……許しておけぬ……！』"
+translation = "『마왕…… 라크시스여…… 너만은…… 용서할 수 없다……!』"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「……ここにラクシスはいない。目を覚ましたらどうだ」"
+translation = "「……여기에 라크시스는 없다. 정신 차리는 게 어떠냐.」"
+
+[[dialogue]]
+speaker = "敗残の亡霊"
+original = "『黙レ……！\u3000貴様はラクシス──教団を解体させた、忌むべき宿敵……！」"
+translation = "『닥쳐라……! 너는 라크시스── 교단을 해체시킨, 꺼림칙한 숙적……!』"
+
+[[dialogue]]
+speaker = "敗残の亡霊"
+original = "『チャカパラ様の降臨まであと一歩だったというのに……貴様のせいで……これ以上、我らの邪魔をするなァ……！』"
+translation = "『차카파라 님의 강림까지 한 걸음이었는데…… 네놈 때문에…… 더 이상, 우리의 방해를 하지 마라아……!』"
+
+[[dialogue]]
+speaker = "ユウリ"
+original = "「聞く耳持たねーみたいだな」"
+translation = "「들을 귀가 없는 모양이네.」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「クロトはあの壁画の魔王にもそっくりだものねー」"
+translation = "「쿠로토는 그 벽화의 마왕과도 똑 닮았으니까ー」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「モンスターといい、アポロちゃんといい……会長くんは悪くないのに、ずいぶん恨まれちゃうのね」"
+translation = "「몬스터도 그렇고, 아폴로짱도 그렇고…… 회장군은 잘못한 게 없는데, 꽤 원망을 사네.」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「仕方ありません。これも３０００年前から続く──魔王の宿縁ということでしょう」"
+translation = "「어쩔 수 없습니다. 이것도 3000년 전부터 이어지는── 마왕의 숙연이겠지요.」"
+
+[[dialogue]]
+speaker = "unk"
+original = "今の俺には、現代の魔王として……過去の因果もひっくるめて背負う覚悟がある。"
+translation = "지금의 나에게는, 현대의 마왕으로서…… 과거의 인과도 통틀어 짊어질 각오가 있다."
+
+[[dialogue]]
+speaker = "クロト"
+original = "「来い。名も知らない教祖の亡霊──俺がここで清算してやる」"
+translation = "「와라. 이름 모를 교주의 망령── 내가 여기서 청산해 주마.」"
+
+[[dialogue]]
+speaker = "敗残の亡霊"
+original = "『ほざけ……貴様は今度こそ、チャカパラ様の贄となるのだァッ──！』"
+translation = "『헛소리 마라…… 네놈은 이번에야말로, 차카파라 님의 제물이 될 것이다앗──!』"
+

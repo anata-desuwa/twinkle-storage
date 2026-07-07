@@ -1,0 +1,660 @@
+[[dialogue]]
+speaker = "unk"
+original = "第７話,星騎士と守護星,B"
+translation = "제7화, 성기사와 수호성, B"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「ふぅ──っと。なかなか手ごわい相手だったな」"
+translation = "「후우──. 꽤나 만만치 않은 상대였군」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「計測終了です。お疲れさまでした」"
+translation = "「측정 종료입니다. 수고하셨습니다」"
+
+[[dialogue]]
+speaker = "unk"
+original = "モンスターを倒し終えると、バトルフィールドも終了した。"
+translation = "몬스터를 쓰러뜨리자, 배틀 필드도 종료되었다."
+
+[[dialogue]]
+speaker = "unk"
+original = "力を測るということなので、全力を出した。それなりに早く討伐できたように思う。"
+translation = "힘을 측정하는 것이므로, 전력을 다했다. 그럭저럭 빠르게 토벌할 수 있었다고 생각한다."
+
+[[dialogue]]
+speaker = "クロト"
+original = "「これで俺のポテンシャルがわかる──のか？」"
+translation = "「이걸로 나의 잠재력을 알 수 있는── 건가?」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「はい。結果がこちらになります」"
+translation = "「네. 결과는 이쪽입니다」"
+
+[[dialogue]]
+speaker = "unk"
+original = "アナが施設にあった機械をピポパポと操作すると、ウィーンと電子画面が浮かび上がってきた。"
+translation = "아나가 시설에 있던 기계를 삐뽀빠뽀 조작하자, 위잉 하고 전자 화면이 떠올랐다."
+
+[[dialogue]]
+speaker = "unk"
+original = "<size=30>計測結果</size>"
+translation = "<size=30>측정 결과</size>"
+
+[[dialogue]]
+speaker = "unk"
+original = "<size=30>TIME_02:45.00</size>"
+translation = "<size=30>TIME_02:45.00</size>"
+
+[[dialogue]]
+speaker = "unk"
+original = "<size=30>守護星：地球\u3000適正属性：闇</size>"
+translation = "<size=30>수호성: 지구 적정 속성: 어둠</size>"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「２分４５秒──でもって守護星は……え？」"
+translation = "「2분 45초── 게다가 수호성은…… 에?」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「これって……！」"
+translation = "「이거……!」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「？」"
+translation = "「?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "２人が画面を見て何やら驚いていた。"
+translation = "두 사람이 화면을 보고 무언가 놀라고 있었다."
+
+[[dialogue]]
+speaker = "unk"
+original = "どうしたことかと訊ねようとすると……"
+translation = "무슨 일인지 물어보려 하자……"
+
+[[dialogue]]
+speaker = "トワ先生"
+original = "「あ、こらーっ！\u3000そこの生徒、勝手にトレーニングモードを起動するのは危険だからダメって言ったでしょ～！」"
+translation = "「아, 이봐요ー! 거기 학생, 함부로 트레이닝 모드를 기동하는 건 위험하니까 안 된다고 말했잖아ー!」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「トワちゃん先生……！？」"
+translation = "「토와짱 선생님……!?」"
+
+[[dialogue]]
+speaker = "トワ先生"
+original = "「ってあれ……星徒会のみんな？\u3000それに緋宮くんも」"
+translation = "「어라…… 성도회 모두? 게다가 히노미야 군도」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「かくかくしかじかで必要になった。一応、許可はもらっています」"
+translation = "「이러저러해서 필요하게 되었습니다. 일단, 허가는 받았습니다」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「俺の面倒を見てもらっています」"
+translation = "「저를 돌봐주고 계십니다」"
+
+[[dialogue]]
+speaker = "unk"
+original = "一般生徒と早とちりしたトワちゃん先生に、俺たちは経緯を説明した。"
+translation = "일반 학생으로 착각한 토와짱 선생님에게, 우리는 경위를 설명했다."
+
+[[dialogue]]
+speaker = "トワ先生"
+original = "「なるほどぉ～。それで、緋宮くんの腕前を測ってたわけだね～」"
+translation = "「과연ー. 그래서, 히노미야 군의 실력을 측정하고 있었던 거군요ー」"
+
+[[dialogue]]
+speaker = "トワ先生"
+original = "「どれどれ、先生が見てあげよぉ～」"
+translation = "「어디 보자, 선생님이 봐줄게ー」"
+
+[[dialogue]]
+speaker = "トワ先生"
+original = "「──ってえぇっ！？」"
+translation = "「──라니 에엣!?」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「先生にも驚かれてしまった……」"
+translation = "「선생님도 놀라셨네……」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「だ、だってこんなのすごく珍しいもん──守護星が地球なんて！」"
+translation = "「왜, 왜냐면 이런 건 엄청 희귀하잖아── 수호성이 지구라니!」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「会長が気にかける理由が少しわかった気がします」"
+translation = "「회장님이 신경 쓰는 이유를 조금 알 것 같습니다」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「そうなのか……？」"
+translation = "「그런가……?」"
+
+[[dialogue]]
+speaker = "トワ先生"
+original = "「そうだよ！\u3000わたしも教師として色んな生徒を見てきたけど……まさか地球とリンクしてる子がいるなんて思わなかった」"
+translation = "「그렇고말고! 나도 교사로서 여러 학생들을 봐왔지만…… 설마 지구와 링크된 아이가 있을 줄은 생각도 못 했어」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「そう言われると……守護星というのはそもそも何なのでしょう？」"
+translation = "「그렇게 말씀하시니…… 수호성이라는 것은 대체 무엇인가요?」"
+
+[[dialogue]]
+speaker = "トワ先生"
+original = "「いい質問だね！」"
+translation = "「좋은 질문이네!」"
+
+[[dialogue]]
+speaker = "トワ先生"
+original = "「守護星っていうのは<ruby>星騎士<rt>スターナイト</rt></ruby>が星力を借り受ける星のことだよ。あ、星力はわかるよね？」"
+translation = "「수호성이라는 건 성기사가 성력을 빌려오는 별을 말해. 아, 성력은 알지?」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「なんとなくは。こう、モンスターに対して有効なすごいパワーみたいな……？」"
+translation = "「어렴풋이는. 뭐랄까, 몬스터에게 유효한 대단한 파워 같은……?」"
+
+[[dialogue]]
+speaker = "トワ先生"
+original = "「うーん、ちょっと大雑把すぎるかなあ。転入してきたばかりだからしょうがないんだけどね！」"
+translation = "「음ー, 조금 너무 대략적인가. 막 전입해 왔으니 어쩔 수 없지만 말이야!」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「（今までフィーリングだけであれだけ戦えてたんだ……逆にすごいかも……）」"
+translation = "「(지금까지 감만으로 저렇게 싸울 수 있었다니…… 오히려 대단할지도……)」"
+
+[[dialogue]]
+speaker = "unk"
+original = "『星力』。"
+translation = "『성력』."
+
+[[dialogue]]
+speaker = "unk"
+original = "平たく言えば俺たち<ruby>星騎士<rt>スターナイト</rt></ruby>の扱う力の総称であり、たとえば戦闘服への変身も星々の加護を伴う。"
+translation = "쉽게 말해 우리 성기사가 다루는 힘의 총칭이며, 예를 들어 전투복으로의 변신도 별들의 가호를 수반한다."
+
+[[dialogue]]
+speaker = "unk"
+original = "また星力を扱うことができるのは「（ごく一部の例外を除き）」若年層に限られており、加齢と共にそのエネルギーは衰えていくという。"
+translation = "또한 성력을 다룰 수 있는 것은 「(극히 일부의 예외를 제외하고)」 젊은 층에 한정되어 있으며, 나이가 들면서 그 에너지는 쇠퇴해 간다고 한다."
+
+[[dialogue]]
+speaker = "unk"
+original = "そして、人がその力を引き出す源の星を『守護星』と言うらしい。"
+translation = "그리고, 사람이 그 힘을 끌어내는 근원의 별을 『수호성』이라고 부르는 모양이다."
+
+[[dialogue]]
+speaker = "トワ先生"
+original = "「星騎士はまるで恋人みたいに、宇宙にある一つの星とリンクを結ぶよ。そして、その天体と交信することで『星力』を引き出せるってこと」"
+translation = "「성기사는 마치 연인처럼, 우주에 있는 하나의 별과 링크를 맺어. 그리고, 그 천체와 교신함으로써 『성력』을 끌어낼 수 있다는 거지」"
+
+[[dialogue]]
+speaker = "トワ先生"
+original = "「緋宮くんとか詠野さんがモンスター相手に使ってる力も、ぜんぶ星力だからね」"
+translation = "「히노미야 군이나 에이노 씨가 몬스터 상대로 사용하는 힘도, 전부 성력이니까」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「なるほど。みんな守護星から力を借りて戦ってるわけですね」"
+translation = "「과연. 모두 수호성으로부터 힘을 빌려 싸우는 것이군요」"
+
+[[dialogue]]
+speaker = "トワ先生"
+original = "「そうそう！\u3000ちなみに、例えば私の守護星なら『水星』だよ。アナちゃんは……」"
+translation = "「맞아 맞아! 참고로, 예를 들어 나의 수호성은 『수성』이야. 아나짱은……」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「火星です。適正属性は炎」"
+translation = "「화성입니다. 적정 속성은 불」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「へえ、火星か。なんとなく意外なイメージだな」"
+translation = "「헤에, 화성인가. 왠지 모르게 의외의 이미지네」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「マトイは？」"
+translation = "「마토이는?」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「私はオシリス──って言っても、わかんないよね」"
+translation = "「나는 오시리스──라고 해도, 모르겠지」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「ペガスス座にある惑星なんだ。地球からはとんでもなく離れてるんだけど……」"
+translation = "「페가수스자리에 있는 행성이야. 지구에서는 엄청나게 떨어져 있지만……」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「へえ。でも、オシリスなんて強そうだな」"
+translation = "「헤에. 하지만, 오시리스라니 강할 것 같네」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「実際、オシリスの直径は太陽系のどの惑星よりも大きいです。私たちに身近じゃないだけですね」"
+translation = "「실제로, 오시리스의 직경은 태양계의 어떤 행성보다도 큽니다. 우리에게 친숙하지 않을 뿐이죠」"
+
+[[dialogue]]
+speaker = "トワ先生"
+original = "「守護星は自分じゃ選べないからね～。でも、それだけに運命的って感じがするよね～！」"
+translation = "「수호성은 스스로 고를 수 없으니까ー. 하지만, 그만큼 운명적이라는 느낌이 들지ー!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "守護星の候補は、文字通り星の数だけ存在する。"
+translation = "수호성의 후보는, 말 그대로 별의 수만큼 존재한다."
+
+[[dialogue]]
+speaker = "unk"
+original = "自分がどれと紐づくかの法則は解き明かされておらず、また星の質量が大きければ星力が強いというわけでもない。"
+translation = "자신이 어떤 별과 연결되는지의 법칙은 해명되지 않았으며, 또한 별의 질량이 크다고 해서 성력이 강한 것도 아니다."
+
+[[dialogue]]
+speaker = "unk"
+original = "どこまで星の加護を引き出せるかは──ひとえに、星騎士の腕にかかっているという話だった。"
+translation = "어디까지 별의 가호를 끌어낼 수 있는지는── 오로지, 성기사의 실력에 달려 있다는 이야기였다."
+
+[[dialogue]]
+speaker = "クロト"
+original = "「それで俺の守護星『地球』はレアケースだと」"
+translation = "「그래서 나의 수호성 『지구』는 레어 케이스라는 거군」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「うんうん！\u3000まさか私たちの住んでる地球なんて……」"
+translation = "「응 응! 설마 우리가 살고 있는 지구라니……」"
+
+[[dialogue]]
+speaker = "トワ先生"
+original = "「ヒーローっぽくて素敵だぞ、緋宮くん！」"
+translation = "「히어로 같고 멋지다구, 히노미야 군!」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「（主人公属性……いいなあ……）」"
+translation = "「(주인공 속성…… 좋겠다……)」"
+
+[[dialogue]]
+speaker = "unk"
+original = "どうやら俺の守護星が『特別』なのは間違いないようだった。"
+translation = "아무래도 나의 수호성이 『특별』하다는 것은 틀림없는 듯했다."
+
+[[dialogue]]
+speaker = "クロト"
+original = "「待てよ──ってことは。もしかしてこのタイムもかなりの高スコアなんじゃ……！？」"
+translation = "「잠깐만── 그렇다면. 혹시 이 타임도 꽤나 높은 점수 아닌가……!?」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「……いや」"
+translation = "「……아니」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「そっちはフツー」"
+translation = "「그쪽은 평범」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「フツーなんかい」"
+translation = "「평범한 거냐」"
+
+[[dialogue]]
+speaker = "トワ先生"
+original = "「あはは。そこそこ早いけど、Ｃランクモンスター相手だからね」"
+translation = "「아하하. 꽤 빠른 편이지만, C 랭크 몬스터 상대니까」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「ただ、一般人ではありえないスコア。今まで市井の学校にいたものとは思えない」"
+translation = "「다만, 일반인으로서는 있을 수 없는 점수. 지금까지 시중의 학교에 있었다고는 생각되지 않습니다」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「環境のせいかな……」"
+translation = "「환경 탓일까……」"
+
+[[dialogue]]
+speaker = "unk"
+original = "昔からモンスターにばかり好かれる俺は、そのぶん一人で対処しなくちゃいけない機会も多かった。"
+translation = "예전부터 몬스터에게만 사랑받는 나는, 그만큼 혼자 대처해야 할 기회도 많았다."
+
+[[dialogue]]
+speaker = "unk"
+original = "しかしその甲斐あって、新星の編入試験にも受かれたと考えると……いいトレーニングだったのかもしれない。"
+translation = "하지만 그 덕분에, 신성 편입 시험에도 합격할 수 있었다고 생각하면…… 좋은 트레이닝이었을지도 모른다."
+
+[[dialogue]]
+speaker = "アナ"
+original = "「Ｃランク討伐のタイムは新星全生徒の平均が確か３分１４秒。そもそも勝てない生徒の数も合わせると、はっきり上位には位置してる」"
+translation = "「C 랭크 토벌 타임은 신성 전 학생의 평균이 아마 3분 14초. 애초에 이기지 못하는 학생들의 수까지 합치면, 확실히 상위권에 위치합니다」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「学園での訓練を積んでないのにこの数値で、しかも守護星は希少な地球。次期会長は優れた素質。現会長が目をつけたのも頷ける」"
+translation = "「학원에서의 훈련을 쌓지 않았는데도 이 수치이며, 게다가 수호성은 희귀한 지구. 차기 회장은 뛰어난 소질. 현 회장이 눈독 들인 것도 납득이 갑니다」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「す、すごいんだ……」"
+translation = "「대, 대단하네……」"
+
+[[dialogue]]
+speaker = "unk"
+original = "べた褒めだった。"
+translation = "극찬이었다."
+
+[[dialogue]]
+speaker = "unk"
+original = "なら──"
+translation = "그렇다면──"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「星徒会長──ヴィーナスなら今の相手、どのくらいで倒せるんだ？」"
+translation = "「성도 회장── 비너스라면 지금 상대를 어느 정도로 쓰러뜨릴 수 있지?」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「２秒」"
+translation = "「2초」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「２びょ……？」"
+translation = "「2초……?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "顔が引きつってしまった。"
+translation = "얼굴이 굳어버렸다."
+
+[[dialogue]]
+speaker = "unk"
+original = "上出来と慢心しかけていた自分が恥ずかしくなるほどの開きがある。"
+translation = "잘했다고 자만하려 했던 자신이 부끄러워질 정도의 격차가 있다."
+
+[[dialogue]]
+speaker = "アナ"
+original = "「２秒もかからないかもしれない。Ｃランクならモンスターのほうが逃げてく」"
+translation = "「2초도 걸리지 않을지도 모릅니다. C 랭크라면 몬스터 쪽이 도망칠 겁니다」"
+
+[[dialogue]]
+speaker = "トワ先生"
+original = "「うーん、九浄さんはねえ。ちょっと別格だからねえ」"
+translation = "「음ー, 쿠죠 씨는 말이지. 조금 별격이니까」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「思った以上の化け物みたいだな……」"
+translation = "「생각했던 것 이상의 괴물 같네……」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「むしろ現会長は星力の強さだけでその座についてると言っても過言じゃない。星騎士は実力主義」"
+translation = "「오히려 현 회장은 성력의 강함만으로 그 자리에 올랐다고 해도 과언이 아닙니다. 성기사는 실력주의」"
+
+[[dialogue]]
+speaker = "unk"
+original = "そう言えば、机仕事はアナに任せっきりなんだっけか。"
+translation = "그러고 보니, 책상 일은 아나에게 맡기고 있다고 했었지."
+
+[[dialogue]]
+speaker = "unk"
+original = "俺はまだヴィーナスのことをよく知らないが、星徒会長というのはやはり伊達ではないらしい。"
+translation = "나는 아직 비너스를 잘 모르지만, 성도 회장이라는 것은 역시 허세가 아닌 모양이다."
+
+[[dialogue]]
+speaker = "クロト"
+original = "「もし俺がヴィーナスに勝とうと思ったら、この訓練でどのくらい太刀打ちできればいいんだ？」"
+translation = "「만약 내가 비너스에게 이기려고 한다면, 이 훈련에서 어느 정도 맞설 수 있어야 하는 거지?」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「少なくとも、Ｃランクは余裕で瞬殺できなきゃダメかも」"
+translation = "「적어도, C 랭크는 여유롭게 순식간에 해치울 수 있어야 할지도」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「確か会長のハイスコアはＳランク相手に１０秒１１。互角にやるつもりならそのあたりを最終目標にしないと、厳しい」"
+translation = "「확실히 회장님의 하이 스코어는 S 랭크 상대로 10초 11. 호각으로 할 생각이라면 그 정도를 최종 목표로 삼지 않으면, 힘들 겁니다」"
+
+[[dialogue]]
+speaker = "トワ先生"
+original = "「アナちゃん、なんでも覚えててスゴイねぇ～」"
+translation = "「아나짱, 뭐든지 기억하고 있어서 대단하네ー」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「ちなみに言うと……私でもＣランク相手なら１０秒かからないと思う」"
+translation = "「참고로 말하자면…… 나라도 C 랭크 상대라면 10초는 걸리지 않을 거라고 생각해」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「マトイもか。……強いんだな」"
+translation = "「마토이도인가. ……강하네」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「星徒会メンバーなら大体それくらいが平均かと。過去の例を見ても」"
+translation = "「성도회 멤버라면 대략 그 정도가 평균일 겁니다. 과거의 예를 보더라도」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「ただ、それを大きく上回るのが現会長です。少なくとも彼女と同じ域で星力を操れる生徒は過去にもいない」"
+translation = "「다만, 그것을 크게 웃도는 것이 현 회장입니다. 적어도 그녀와 같은 영역에서 성력을 조종할 수 있는 학생은 과거에도 없습니다」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ヴィーナスが俺にどれほどの無茶振りを課したのか理解できた。"
+translation = "비너스가 나에게 얼마나 무리한 요구를 했는지 이해할 수 있었다."
+
+[[dialogue]]
+speaker = "unk"
+original = "しかし……"
+translation = "하지만……"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「Ｃランク相手に２分……か」"
+translation = "「C 랭크 상대로 2분……인가」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「これまで何度もモンスターに襲われて。その度に勝てるよう鍛錬して、努力を積み重ねてきた結果がこれってことは……」"
+translation = "「지금까지 몇 번이나 몬스터에게 습격당하고. 그때마다 이길 수 있도록 단련하고, 노력을 쌓아 올린 결과가 이것이라는 건……」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「緋宮くん……」"
+translation = "「히노미야 군……」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「……」"
+translation = "「……」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「もっと努力するしかないってことだな」"
+translation = "「더 노력할 수밖에 없다는 거네」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「ポ、ポジティブなのね。やっぱり」"
+translation = "「포, 포지티브하네. 역시」"
+
+[[dialogue]]
+speaker = "unk"
+original = "険しい道のりなのはわかった。でも、それが諦める理由にはならない。"
+translation = "험난한 길이라는 것은 알았다. 하지만, 그것이 포기할 이유가 되지는 않는다."
+
+[[dialogue]]
+speaker = "unk"
+original = "何より、九浄ヴィーナス──彼女の底知れない強さを聞くたびに体がぞくぞくするのを感じていた。"
+translation = "무엇보다, 쿠죠 비너스── 그녀의 헤아릴 수 없는 강함을 들을 때마다 몸이 짜릿해지는 것을 느끼고 있었다."
+
+[[dialogue]]
+speaker = "クロト"
+original = "「俺の守護星は地球だ。つまり、地球からもっと力を引き出せればあいつくらい強い<ruby>星騎士<rt>スターナイト</rt></ruby>になれるってことだろう？」"
+translation = "「나의 수호성은 지구다. 즉, 지구에서 더 힘을 끌어낼 수 있다면 그 녀석만큼 강한 성기사가 될 수 있다는 거겠지?」"
+
+[[dialogue]]
+speaker = "トワ先生"
+original = "「おお……」"
+translation = "「오오……」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「でも、実際そう。もう受けちゃった以上しょうがない。私たちも応援する」"
+translation = "「하지만, 실제로 그래. 이미 받아들인 이상 어쩔 수 없어. 우리도 응원할게」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「……そうね。私も、あんまりネガティブなこと言うのは悪い癖かも」"
+translation = "「……그러네. 나도, 너무 부정적인 말을 하는 건 나쁜 버릇일지도」"
+
+[[dialogue]]
+speaker = "unk"
+original = "マトイがそっと自身のセレスティアを俺へあてる。"
+translation = "마토이가 살짝 자신의 셀레스티아를 나에게 갖다 댄다."
+
+[[dialogue]]
+speaker = "unk"
+original = "すると、俺の身にささやかな光が宿った。"
+translation = "그러자, 나의 몸에 자그마한 빛이 깃들었다."
+
+[[dialogue]]
+speaker = "クロト"
+original = "「これは……」"
+translation = "「이것은……」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「回復の星術──私はヒーラーが専門じゃないから、あんまり上手にできないけど」"
+translation = "「회복의 성술── 나는 힐러가 전문이 아니라서, 그다지 능숙하게는 못 하지만」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「緋宮くんが頑張るなら、私もできる限り応援するよ！\u3000入ったばかりなんだから──これからまだまだ伸びるってこともあると思う！」"
+translation = "「히노미야 군이 노력한다면, 나도 할 수 있는 한 응원할게! 막 들어왔으니까── 앞으로도 계속 성장할 수 있을 거라고 생각해!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "マトイに握られた手から、消耗した怪我や星力が癒やされていくのを感じた。"
+translation = "마토이에게 잡힌 손에서, 소모된 부상이나 성력이 치유되는 것을 느꼈다."
+
+[[dialogue]]
+speaker = "クロト"
+original = "「ありがとう──マトイ。世話になるよ」"
+translation = "「고마워── 마토이. 신세 지겠어」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「うん。て言っても、それでも会長に届くかどうかは……厳しいけど……」"
+translation = "「응. 라고 해도, 그래도 회장에게 닿을 수 있을지는…… 힘들지만……」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「明日から頑張りましょう──次期会長。星徒会の権限で、この施設をしばらく貸し切るようにしておきます」"
+translation = "「내일부터 힘내세요── 차기 회장. 성도회의 권한으로, 이 시설을 당분간 전세 내도록 해두겠습니다」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「恩に着る。時間もないしな──やれることをやるしかない」"
+translation = "「은혜를 갚지. 시간도 없으니── 할 수 있는 것을 할 수밖에」"
+
+[[dialogue]]
+speaker = "unk"
+original = "俺のこれからの方針が決まった。"
+translation = "나의 앞으로의 방침이 정해졌다."
+
+[[dialogue]]
+speaker = "unk"
+original = "一週間後に控えたヴィーナスとの果し合い──それまでに彼女を超えられるよう、己を鍛える。"
+translation = "일주일 후에 다가온 비너스와의 승부── 그때까지 그녀를 뛰어넘을 수 있도록, 자신을 단련한다."
+
+[[dialogue]]
+speaker = "アナ"
+original = "「それじゃ、打倒ヴィーナス現会長ということで。がんばろ～」"
+translation = "「그럼, 타도 비너스 현 회장이라는 것으로. 힘내자ー」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「応！」"
+translation = "「오!」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「おー！」"
+translation = "「오ー!」"
+
+[[dialogue]]
+speaker = "トワ先生"
+original = "「おー？」"
+translation = "「오ー?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "そんなこんなで、俺はみんなの助力を得られるようになった。"
+translation = "이런저런 일로, 나는 모두의 도움을 받을 수 있게 되었다."
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「……」"
+translation = "「……」"
+
+[[dialogue]]
+speaker = "unk"
+original = "月明かりの差す星徒会室。"
+translation = "달빛이 비치는 성도회실."
+
+[[dialogue]]
+speaker = "unk"
+original = "<b>現</b>星徒会長である九浄ヴィーナスはただ１人、窓の向こうを歩くクロトらを眺めてつぶやいた。"
+translation = "<b>현</b>성도 회장인 쿠죠 비너스는 단 한 사람, 창문 너머를 걷는 쿠로토 일행을 바라보며 중얼거렸다."
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「目覚めなさい──緋宮クロト。あなたこそ真の魔王に他ならないわ」"
+translation = "「눈을 뜨세요── 히노미야 쿠로토. 당신이야말로 진정한 마왕에 다름없어요」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「そして、私も……これから全力であなたにぶつかる。それが私の使命」"
+translation = "「그리고, 저도…… 지금부터 전력으로 당신에게 부딪힐 거예요. 그것이 저의 사명」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ヴィーナスは開いていた日誌をパタンと閉じた。"
+translation = "비너스는 펼쳐져 있던 일지를 덮었다."
+
+[[dialogue]]
+speaker = "unk"
+original = "万感の思いを、そのわずかな動作に込めるかのように。"
+translation = "벅찬 감정을, 그 작은 동작에 담는 것처럼."
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「私はこの時を……ずっと待ち続けてきたんだから！」"
+translation = "「저는 이 순간을…… 계속 기다려 왔으니까!」"
+

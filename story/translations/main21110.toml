@@ -1,0 +1,785 @@
+[[dialogue]]
+speaker = "unk"
+original = "第１０話,ベガの光,B"
+translation = "제10화, 베가의 빛, B"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「私はリクリエの使徒にはならない。君も戻ってこい、ジグ！」"
+translation = "「나는 리크리에의 사도는 되지 않아. 너도 돌아와라, 지그!」"
+
+[[dialogue]]
+speaker = "ジグ"
+original = "「馬鹿な……！\u3000“真なる神”の天啓を拒むなど、何かの間違いだ……！」"
+translation = "「말도 안 돼……! “진정한 신”의 천계를 거부하다니, 뭔가 잘못된 거다……!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "梨緒は己の決意で、リクリエの使徒への誘惑を絶ち切った。"
+translation = "리오는 자신의 결의로, 리크리에의 사도로의 유혹을 끊어냈다."
+
+[[dialogue]]
+speaker = "unk"
+original = "それを目の当たりにしたジグからいつもの余裕が完全に消え去り、声に怒りがにじむ。"
+translation = "그것을 목격한 지그에게서 평소의 여유가 완전히 사라지고, 목소리에 분노가 서린다."
+
+[[dialogue]]
+speaker = "ジグ"
+original = "「君が“真なる神”の声を拒めるはずがない！\u3000あんなに弱かった君が！」"
+translation = "「네가 “진정한 신”의 목소리를 거부할 수 있을 리가 없어! 그렇게나 약했던 네가!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "もう一度瘴気が仮面を形作り、再び梨緒に仮面が装着される。"
+translation = "다시 한번 장기가 가면의 형태를 이루고, 다시 리오에게 가면이 장착된다."
+
+[[dialogue]]
+speaker = "unk"
+original = "しかし梨緒は避けることすらしなかった。"
+translation = "하지만 리오는 피하려고조차 하지 않았다."
+
+[[dialogue]]
+speaker = "幼い梨緒"
+original = "『うぅ……ぐす……ひくっ……』"
+translation = "『으으…… 흑…… 히끅……』"
+
+[[dialogue]]
+speaker = "幼い梨緒"
+original = "『どうして……？\u3000どうして私、何もできないの？\u3000算数も運動もできなくて……絵もぐちゃぐちゃだし、歌もダメで……』"
+translation = "『어째서……? 어째서 난, 아무것도 못 하는 거야? 산수도 운동도 못 하고…… 그림도 엉망진창이고, 노래도 안 되고……』"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "（私は何もできない子だった。かけっこも、勉強も、お絵かきも、何をしても勝てなくて、負ける度に泣いていた）"
+translation = "(나는 아무것도 못 하는 아이였어. 달리기 시합도, 공부도, 그림 그리기도, 뭘 해도 이기지 못해서, 질 때마다 울었지)"
+
+[[dialogue]]
+speaker = "幼い梨緒"
+original = "『私が星騎士になれる……！？\u3000こんな私でも……？』"
+translation = "『내가 성기사가 될 수 있어……!? 이런 나라도……?』"
+
+[[dialogue]]
+speaker = "幼い梨緒"
+original = "『星騎士になれば、私は──』"
+translation = "『성기사가 되면, 나는──』"
+
+[[dialogue]]
+speaker = "幼い梨緒"
+original = "『負けない』"
+translation = "『지지 않아』"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "（だから私は星騎士になった。星騎士になれば、もう負けないと思ったから）"
+translation = "(그래서 나는 성기사가 됐어. 성기사가 되면, 더 이상 지지 않을 거라고 생각했으니까)"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "（ジグが嫌いだった。何をしても勝てない、弱い自分を思い出させられるから）"
+translation = "(지그가 싫었어. 뭘 해도 이길 수 없는, 약한 내 자신을 떠올리게 하니까)"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "（ジグに負ける度に思っていた。こんなはずじゃない、やり直したい、と）"
+translation = "(지그에게 질 때마다 생각했어. 이럴 리 없어, 다시 시작하고 싶다고)"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "（だけど──）"
+translation = "(하지만──)"
+
+[[dialogue]]
+speaker = "ベアトリス"
+original = "「泣くならちゃんと、私の見えるところで泣いて。そうじゃないと、必要な時に助けられなくなっちゃう」"
+translation = "「울 거라면 제대로, 내가 보이는 곳에서 울어. 안 그러면 필요할 때 도와줄 수 없게 되니까」"
+
+[[dialogue]]
+speaker = "ベアトリス"
+original = "「まだ結成して日は浅いかもしれないけど、私たちは同じ、選挙管理委員会の仲間でしょ？」"
+translation = "「아직 결성한 지 얼마 안 됐을지도 모르지만, 우리는 똑같은 선거관리위원회의 동료잖아?」"
+
+[[dialogue]]
+speaker = "ナターシャ"
+original = "「うん、負けを認められないのは梨緒の弱いところだと思ってるけど、かわいげがあるじゃん」"
+translation = "「응, 패배를 인정하지 못하는 건 리오의 약한 부분이라고 생각하지만, 귀여운 구석이 있잖아」"
+
+[[dialogue]]
+speaker = "ナターシャ"
+original = "「何でもかんでもその調子じゃ困るけど、負けて悔しがってる梨緒を見るのは嫌いじゃないからね」"
+translation = "「사사건건 그런 식이면 곤란하지만, 져서 분해하는 리오를 보는 건 싫지 않으니까 말이야」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「オマエは全てを失ったかもしれない。あたしたちじゃ、オマエが失くしたものの代わりになれないなんてわかってる」"
+translation = "「너는 모든 걸 잃었을지도 몰라. 우리로선 네가 잃어버린 것의 대신이 될 수 없다는 건 알고 있어」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「それでも今、オマエは１人じゃない。あたしたちがいる！」"
+translation = "「그래도 지금, 너는 혼자가 아니야. 우리가 있어!」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "（負け続けたから出会えた仲間がいる）"
+translation = "(계속해서 졌기에 만날 수 있었던 동료가 있어)"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "（仲間のおかげで、弱い自分も認められるようになった）"
+translation = "(동료 덕분에, 약한 내 자신도 인정할 수 있게 됐어)"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "（自分の弱さから目を逸らすために、世界を救うと嘯いて、星騎士になった）"
+translation = "(자신의 약함에서 눈을 돌리기 위해, 세계를 구한다고 호언장담하며 성기사가 됐어)"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "（だけどその嘘を信じてもがき続けていなければ、ここまで戦ってこれなかった）"
+translation = "(하지만 그 거짓말을 믿고 계속해서 발버둥 치지 않았다면, 여기까지 싸워올 수 없었겠지)"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "（ベガの最期の時、抵抗を諦めてジグを見捨て、ジグはリクリエの使徒にされた）"
+translation = "(베가의 최후의 순간, 저항을 포기하고 지그를 저버렸고, 지그는 리크리에의 사도가 되었어)"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "（情けなくて、自分の弱さが嫌で、一度は忘却すらしてしまった。それでもあの時立ち向かっていれば、私は生きていなかった）"
+translation = "(한심하고, 자신의 약함이 싫어서, 한 번은 망각조차 해버렸지. 그래도 그때 맞서 싸웠더라면, 나는 살아있지 못했을 거야)"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "（弱い自分がいたから、私は今ここにいる）"
+translation = "(약한 내가 있었기에, 나는 지금 여기에 있어)"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「人は弱いか強いかじゃない。弱くて強いんだ」"
+translation = "「사람은 약하거나 강한 게 아니야. 약하면서 강한 거야」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「弱さを強さに変えて、君に勝つ！\u3000それが私だ！」"
+translation = "「약함을 강함으로 바꿔서, 너에게 이기겠어! 그게 나다!」"
+
+[[dialogue]]
+speaker = "ジグ"
+original = "「──ッ！？」"
+translation = "「──윽!?」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「私をリクリエの使徒にしようとしても、もう通用しないぞ、ジグ」"
+translation = "「나를 리크리에의 사도로 만들려고 해도, 이제 통하지 않아, 지그」"
+
+[[dialogue]]
+speaker = "ジグ"
+original = "「何故だ！？\u3000どうして“真なる神”の声を拒絶する！？\u3000どうして拒めるんだ！？」"
+translation = "「어째서냐!? 어째서 “진정한 신”의 목소리를 거절하지!? 어떻게 거부할 수 있는 거냐!?」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「だって使徒になったら、君に勝てないじゃないか」"
+translation = "「그야 사도가 되면, 너에게 이길 수 없잖아」"
+
+[[dialogue]]
+speaker = "ジグ"
+original = "「は──？」"
+translation = "「하──?」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「私は君に勝ちたいし、勝つまで勝負をやめるつもりはない。勝ち逃げはさせないぞ」"
+translation = "「나는 너에게 이기고 싶고, 이길 때까지 승부를 멈출 생각은 없어. 이긴 채로 도망치게 두지 않겠다」"
+
+[[dialogue]]
+speaker = "ジグ"
+original = "「は？\u3000はぁ？\u3000こんな時に何を言っているんだ……？」"
+translation = "「하? 하아? 이런 상황에 무슨 소리를 하는 거야……?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "あくまで個人の勝負にこだわる場違いな言葉に、忘我するほどの混乱を見せるジグ。"
+translation = "어디까지나 개인의 승부에 집착하는 뜬금없는 말에, 넋이 나갈 정도의 혼란을 보이는 지그."
+
+[[dialogue]]
+speaker = "unk"
+original = "だがジグを見つめる梨緒の表情は何もふざけてなどいなかった。"
+translation = "하지만 지그를 바라보는 리오의 표정은 전혀 장난기가 없었다."
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「自分を失いたくないばかりに、勝ちにこだわるのは私の弱さだ」"
+translation = "「자신을 잃고 싶지 않은 나머지, 승리에 집착하는 건 나의 약함이야」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「だけど自分の弱さを少しは認められるようになった。今さら君に勝てなかったからといって、私が私でなくなるとは思わない」"
+translation = "「하지만 나의 약함을 조금은 인정할 수 있게 됐어. 이제 와서 너에게 이기지 못했다고 해서, 내가 내가 아니게 된다고는 생각하지 않아」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「それでも君に勝ちたいという気持ちを消し去ることはできない」"
+translation = "「그래도 너에게 이기고 싶다는 마음을 지워버릴 수는 없어」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「君に勝つために、リクリエの使徒になんてなっている暇はない！！」"
+translation = "「너에게 이기기 위해, 리크리에의 사도 따위가 되고 있을 틈은 없어!!」"
+
+[[dialogue]]
+speaker = "ベアトリス"
+original = "「さすが梨緒ちゃん！」"
+translation = "「역시 리오짱!」"
+
+[[dialogue]]
+speaker = "ナターシャ"
+original = "「結局、梨緒は梨緒ってことか……一周回ってかっこよく見えてきたよ」"
+translation = "「결국 리오는 리오라는 건가…… 한 바퀴 돌아서 멋있어 보이기 시작했어」"
+
+[[dialogue]]
+speaker = "ナターシャ"
+original = "「まぁ、負けられない戦いだし、意地張ってるくらいでちょうどいいか」"
+translation = "「뭐, 질 수 없는 싸움이고, 고집 부리는 정도가 딱 적당하려나」"
+
+[[dialogue]]
+speaker = "ベアトリス"
+original = "「私、梨緒ちゃんが必ず勝つって信じてるから！」"
+translation = "「나, 리오짱이 반드시 이길 거라고 믿으니까!」"
+
+[[dialogue]]
+speaker = "ベアトリス"
+original = "「梨緒ちゃん──」"
+translation = "「리오짱──」"
+
+[[dialogue]]
+speaker = "ナターシャ"
+original = "「梨緒──」"
+translation = "「리오──」"
+
+[[dialogue]]
+speaker = "２人"
+original = "「勝って！！」"
+translation = "「이겨줘!!」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「ああ！\u3000私は今度こそ勝つ！」"
+translation = "「아아! 나는 이번에야말로 이기겠어!」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「今まで何度も“今度こそ”と言って負けてきた。それでも言う。勝つまで何度でも言ってやる──“今度こそ”と！」"
+translation = "「지금까지 몇 번이나 “이번에야말로”라고 말하며 져왔어. 그래도 말하겠어. 이길 때까지 몇 번이고 말해주마── “이번에야말로”라고!」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「君を救うには、君に勝つしかないのだから！」"
+translation = "「너를 구하려면, 너에게 이길 수밖에 없으니까!」"
+
+[[dialogue]]
+speaker = "ジグ"
+original = "「そうかい。君はそうまでして“真なる神”の救いを拒むんだね」"
+translation = "「그렇군. 너는 그렇게까지 해서 “진정한 신”의 구원을 거부하는구나」"
+
+[[dialogue]]
+speaker = "ジグ"
+original = "「君はどうしようもない愚か者だ。その愚かさを、命で償ってもらおう！」"
+translation = "「너는 어찌할 도리 없는 어리석은 자다. 그 어리석음을 목숨으로 갚게 해주마!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ジグの剣に炎が滾り、攻撃が激しさを増す。"
+translation = "지그의 검에 불꽃이 끓어오르고, 공격이 격렬함을 더한다."
+
+[[dialogue]]
+speaker = "unk"
+original = "首や心臓、一撃で致命となる急所ばかり狙った攻撃を繰り出すが、梨緒は斬撃をことごとく躱していく。"
+translation = "목이나 심장, 일격에 치명상이 되는 급소만을 노린 공격을 퍼붓지만, 리오는 참격을 낱낱이 피해 나간다."
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「より速く……より鋭く……！\u3000運命の糸を手繰り寄せろ……！」"
+translation = "「보다 빠르게…… 보다 날카롭게……! 운명의 실을 끌어당겨라……!」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「見えた！」"
+translation = "「보였다!」"
+
+[[dialogue]]
+speaker = "ジグ"
+original = "「くっ……！」"
+translation = "「큭……!」"
+
+[[dialogue]]
+speaker = "ジグ"
+original = "「何故だ……！？\u3000『可能性』の中ではまだ私が勝っている！\u3000もう梨緒を幾万──いや、億は斬った！」"
+translation = "「어째서냐……!? 『가능성』 속에서는 아직 내가 이기고 있다! 이미 리오를 수만── 아니, 수억 번은 베었다!」"
+
+[[dialogue]]
+speaker = "ジグ"
+original = "「なのに何故、この眼で見れば見るほど、可能性が増えていく……！？」"
+translation = "「그런데 어째서, 이 눈으로 보면 볼수록 가능성이 늘어나는 거지……!?」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「君に勝つためなら増えもするさっ！」"
+translation = "「너에게 이기기 위해서라면 늘어나기도 한다고!」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「私は負けて、負けて、負け続けて……その敗北が糧になる。私は負けるほど強くなるんだ……！」"
+translation = "「나는 지고, 지고, 계속해서 지며…… 그 패배가 거름이 돼. 나는 질수록 강해지는 거야……!」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "（私はジグが嫌いだった。負けるのが嫌だった）"
+translation = "(나는 지그가 싫었어. 지는 게 싫었지)"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "（だけどそれだけじゃなかった）"
+translation = "(하지만 그것뿐만이 아니었어)"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "（ジグとの勝負は自分を高めてくれた）"
+translation = "(지그와의 승부는 나를 높여주었어)"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "（ジグと勝負するのが楽しかった）"
+translation = "(지그와 승부하는 게 즐거웠어)"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "（私はジグとの勝負が好きだった）"
+translation = "(나는 지그와의 승부를 좋아했어)"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "（だからありがとう、ジグ）"
+translation = "(그러니 고맙다, 지그)"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「ジグ──君は私のライバルだ！\u3000君が私をそう思っていなくても！」"
+translation = "「지그── 너는 나의 라이벌이다! 네가 나를 그렇게 생각하지 않더라도!」"
+
+[[dialogue]]
+speaker = "ジグ"
+original = "「君は本当に身勝手だな……！\u3000私は君が嫌いだと言っただろう！」"
+translation = "「너는 정말 제멋대로구나……! 나는 네가 싫다고 말했을 텐데!」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「問題ない！\u3000私だって君が気に入らない！」"
+translation = "「문제없어! 나도 네가 마음에 안 드니까!」"
+
+[[dialogue]]
+speaker = "ジグ"
+original = "「話が通じないな、このストーカー！」"
+translation = "「말이 안 통하는군, 이 스토커!」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「気安くアガサと呼んできたのは君の方だろう！」"
+translation = "「허물없이 아가사라고 불러댄 건 너잖아!」"
+
+[[dialogue]]
+speaker = "ジグ"
+original = "「こんなにしつこい女だとは思わなかったさ！」"
+translation = "「이렇게 끈질긴 여자일 줄은 몰랐다고!」"
+
+[[dialogue]]
+speaker = "ナターシャ"
+original = "「うわー、天使みんなの命がかかってるのに超低レベル……」"
+translation = "「우와─, 천사 모두의 목숨이 걸려 있는데 초 저수준……」"
+
+[[dialogue]]
+speaker = "ベアトリス"
+original = "「あはは、梨緒ちゃんらしいね」"
+translation = "「아하하, 리오짱답네」"
+
+[[dialogue]]
+speaker = "unk"
+original = "梨緒は一見クールで凛々しく見えるが、中身は子どもっぽくて、強情の塊だ。"
+translation = "리오는 언뜻 쿨하고 늠름해 보이지만, 속은 어린애 같고 고집불통 덩어리다."
+
+[[dialogue]]
+speaker = "unk"
+original = "世界の命運がかかっていても、梨緒はどうしようもなく梨緒だった。"
+translation = "세계의 운명이 걸려 있어도, 리오는 어찌할 도리 없이 리오였다."
+
+[[dialogue]]
+speaker = "ジグ"
+original = "「君は私が殺す。我が神のため、新しい世界のために……！」"
+translation = "「너는 내가 죽이겠다. 우리 신을 위해, 새로운 세계를 위해……!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "劫火とリクリエの力を漲らせて、その命を絶たんと襲い掛かるジグ。"
+translation = "겁화와 리크리에의 힘을 갈무리하고, 그 목숨을 끊으려 덤벼드는 지그."
+
+[[dialogue]]
+speaker = "unk"
+original = "梨緒も自身の星力と、ノルンの霊力を全開にして迎え撃つ。"
+translation = "리오도 자신의 성력과 노른의 영력을 전개하여 맞서 싸운다."
+
+[[dialogue]]
+speaker = "ジグ"
+original = "「はぁああっ！」"
+translation = "「하아아앗!」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「おおおぉっ！」"
+translation = "「오오오옷!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ジグはリクリエの力を最大まで解放し、その圧倒的な力で梨緒を押し潰そうとする。"
+translation = "지그는 리크리에의 힘을 최대까지 해방해, 그 압도적인 힘으로 리오를 짓눌러버리려 한다."
+
+[[dialogue]]
+speaker = "梨緒"
+original = "（ジグも全力を出してきた。それは追い込まれているということだ。ようやく勝利が見えてきた）"
+translation = "(지그도 전력을 다해왔어. 그건 몰리고 있다는 뜻이야. 드디어 승리가 보이기 시작했어)"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "（だが、たとえジグを倒して仮面を割ったとしても、リクリエの力がある限り、仮面は再生する）"
+translation = "(하지만 설령 지그를 쓰러뜨리고 가면을 부순다 해도, 리크리에의 힘이 있는 한 가면은 재생해)"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "（ジグの中のリクリエだけを消し去る方法はないか？\u3000私とノルンの力だけでは……）"
+translation = "(지그 안의 리크리에만을 지워버릴 방법은 없을까? 나와 노른의 힘만으로는……)"
+
+[[dialogue]]
+speaker = "？？？"
+original = "『梨緒、聞こえる？』"
+translation = "『리오, 들려?』"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「！？\u3000この声は──」"
+translation = "「!? 이 목소리는──」"
+
+[[dialogue]]
+speaker = "？？？"
+original = "『ようやく話せたわね、梨緒』"
+translation = "『드디어 대화하게 됐네, 리오』"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「ここは……？\u3000君は誰だ……？」"
+translation = "「여기는……? 너는 누구지……?」"
+
+[[dialogue]]
+speaker = "ノルン"
+original = "『ここはあなたの精神世界──夢みたいなものよ。私はノルン。最初の守護天使、《運命》のノルンと言えばわかるかしら』"
+translation = "『여기는 너의 정신세계── 꿈 같은 거야. 나는 노른. 최초의 수호천사, 《운명》의 노른이라고 하면 알까』"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「！\u3000君が……私の中にいる守護天使なのか……」"
+translation = "「! 네가…… 내 안에 있는 수호천사인 건가……」"
+
+[[dialogue]]
+speaker = "ノルン"
+original = "『ええ、そうよ。あなたが私の力を使いこなすのに時間がかかったおかげで、話すのも今さらになっちゃったわ』"
+translation = "『응, 맞아. 네가 내 힘을 다루는 데 시간이 걸린 덕분에, 말하는 것도 이제 와서야 하게 됐네』"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「それはすまない……だが君、そんな性格だったのか……」"
+translation = "「그건 미안하군…… 하지만 너, 그런 성격이었나……」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「私は君のおかげで生きながらえて、ここまで来ることができた。感謝する」"
+translation = "「나는 너 덕분에 목숨을 부지하고 여기까지 올 수 있었어. 감사한다」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「だがどうして私に力を貸してくれたんだ……？」"
+translation = "「하지만 어째서 나에게 힘을 빌려준 거지……?」"
+
+[[dialogue]]
+speaker = "ノルン"
+original = "『私はラクシャの言う通り、リクリエに敗れ、残滓として時空の狭間を彷徨っていた』"
+translation = "『나는 락샤가 말한 대로 리크리에에 패배해, 잔재로서 시공의 틈새를 떠돌고 있었어』"
+
+[[dialogue]]
+speaker = "ノルン"
+original = "『そこに、ディザスターハンドの力の余波で飛ばされてきたあなたがやってきた』"
+translation = "『거기에 디재스터 핸드의 힘의 여파로 날려온 네가 나타난 거야』"
+
+[[dialogue]]
+speaker = "ノルン"
+original = "『それはただの偶然。創造神でもなく、女神様でもなく、誰が意図したものでもない』"
+translation = "『그건 그저 우연. 창조신도 아니고, 여신님도 아니고, 누구의 의도도 아니야』"
+
+[[dialogue]]
+speaker = "ノルン"
+original = "『死に瀕しているあなたを救うために、私はあなたの半身になることにした』"
+translation = "『죽어가는 너를 구하기 위해, 나는 너의 반신이 되기로 했어』"
+
+[[dialogue]]
+speaker = "ノルン"
+original = "『もちろんリクリエと戦うためでもあるけど。私はリクリエに対抗するために、女神テルル様に生み出された第一世代の守護天使なんだから』"
+translation = "『물론 리크리에와 싸우기 위해서이기도 하지만. 나는 리크리에에 대항하기 위해 여신 테루루 님에 의해 만들어진 제1세대 수호천사니까』"
+
+[[dialogue]]
+speaker = "ノルン"
+original = "『ベガから飛ばされてきたあなたは世界を滅ぼされ、ジグを見捨ててしまった絶望に打ちひしがれていた』"
+translation = "『베가에서 날려온 너는 세계를 멸망당하고, 지그를 저버렸다는 절망에 짓눌려 있었지』"
+
+[[dialogue]]
+speaker = "ノルン"
+original = "『だけど、あなたなら一度絶望しても──いいえ、何度心折れても、また立ち上がってくれると信じていたわ』"
+translation = "『하지만 너라면 한 번 절망해도── 아니, 몇 번이나 마음이 꺾여도 다시 일어서줄 거라고 믿었어』"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「そこまで私を信じてくれていたんだな」"
+translation = "「그렇게까지 나를 믿어주었군」"
+
+[[dialogue]]
+speaker = "ノルン"
+original = "『ええ、あなたのことはわかるわ。私も負けず嫌いだから』"
+translation = "『응, 네 마음은 잘 알아. 나도 지기 싫어하니까』"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「フ──なるほど。私も君も、死に損ないの上に筋金入りの負けず嫌いで、似た者同士のようだ」"
+translation = "「후── 과연. 나나 너나, 죽다 살아난 데다 뼛속까지 지기 싫어하는 게, 닮은꼴인 모양이군」"
+
+[[dialogue]]
+speaker = "ノルン"
+original = "『今のあなたなら、私の力を──いえ、みんなの力を使うことができるわ』"
+translation = "『지금의 너라면 나의 힘을── 아니, 모두의 힘을 사용할 수 있어』"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「みんな……？\u3000まさか君以外の第一世代の守護天使か？」"
+translation = "「모두……? 설마 너 이외의 제1세대 수호천사인가?」"
+
+[[dialogue]]
+speaker = "ノルン"
+original = "『いいえ、あなたのよく知る人たちよ』"
+translation = "『아니, 네가 잘 아는 사람들이야』"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「──！」"
+translation = "「──!」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「この力は……太陽と月の守護星……それだけじゃない、他の星の力も感じる……」"
+translation = "「이 힘은…… 태양과 달의 수호성…… 그뿐만이 아니야, 다른 별의 힘도 느껴져……」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「しかもこの星々は、アルタイルのものじゃない……」"
+translation = "「게다가 이 별들은 알타이르의 것이 아니야……」"
+
+[[dialogue]]
+speaker = "ノルン"
+original = "『私は《運命》のノルン。因果の摂理を司る者。そして運命の糸を紡ぐ者』"
+translation = "『나는 《운명》의 노른. 인과의 섭리를 관장하는 자. 그리고 운명의 실을 잣는 자』"
+
+[[dialogue]]
+speaker = "ノルン"
+original = "『あなたがベガからアルタイルに飛ばされてくる時、守護星と運命の糸を結んでおいたわ。あなたの仲間──ベガの星騎士の守護星とね』"
+translation = "『네가 베가에서 알타이르로 날려올 때, 수호성과 운명의 실을 묶어두었어. 너의 동료── 베가의 성기사의 수호성과 말이야』"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「ベガの……みんなの……守護星……」"
+translation = "「베가의…… 모두의…… 수호성……」"
+
+[[dialogue]]
+speaker = "ノルン"
+original = "『あなたは私の運命の糸を通して、ベガと繋がっている。本当に細い、今にも切れてしまいそうな繋がりだけど』"
+translation = "『너는 나의 운명의 실을 통해 베가와 연결되어 있어. 정말 가늘고, 당장이라도 끊어질 것 같은 연결이지만』"
+
+[[dialogue]]
+speaker = "ノルン"
+original = "『私の力を解放しても、もしあなたが弱いままであれば、ベガの滅びの因果に呑み込まれていたわ』"
+translation = "『나의 힘을 해방해도 만약 네가 약한 그대로였다면, 베가의 멸망의 인과에 집어삼켜졌을 거야』"
+
+[[dialogue]]
+speaker = "ノルン"
+original = "『だけど梨緒・Ａ・クリステレスは、アルタイルに根付き、独自の因果を紡ぐ存在になった。あなた自身の成長と、仲間との関わりのおかげでね』"
+translation = "『하지만 리오·A·크리스테레스는 알타이르에 뿌리 내리고, 독자적인 인과를 잣는 존재가 됐어. 너 자신의 성장과 동료와의 관계 덕분에 말이야』"
+
+[[dialogue]]
+speaker = "ノルン"
+original = "『今なら滅びたベガの因果に引き寄せられることなく、運命の糸を通して守護星の力を呼び起こせるわ』"
+translation = "『지금이라면 멸망한 베가의 인과에 끌려가지 않고, 운명의 실을 통해 수호성의 힘을 불러일으킬 수 있어』"
+
+[[dialogue]]
+speaker = "ノルン"
+original = "『守護天使ノルンの──いえ、ベガの星騎士の真の力を見せてやりなさい！』"
+translation = "『수호천사 노른의── 아니, 베가의 성기사의 진정한 힘을 보여주렴!』"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「私はまだ……いいや、ずっとベガと繋がっていたんだな」"
+translation = "「나는 아직…… 아니, 계속 베가와 연결되어 있었구나」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「ありがとう、ノルン」"
+translation = "「고맙다, 노른」"
+
+[[dialogue]]
+speaker = "ノルン"
+original = "『ええ、存分に恩に着るといいわ』"
+translation = "『그래, 마음껏 고맙게 여기도록 해』"
+
+[[dialogue]]
+speaker = "ノルン"
+original = "『私がここまでやってあげたんだから勝ちなさい！\u3000梨緒！』"
+translation = "『내가 여기까지 해줬으니까 이기라고! 리오!』"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「ああ、行ってくる！」"
+translation = "「아아, 다녀오마!」"
+
+[[dialogue]]
+speaker = "ジグ"
+original = "「焼き尽くせ──シャルラハロート・フリューゲル！」"
+translation = "「불태워라── 샬라할로트 플뤼겔!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ジグが魔剣を薙ぎ払うと、炎の奔流が竜となり、翼を広げて襲い掛かる。"
+translation = "지그가 마검을 휘두르자, 화염의 분류가 용이 되어 날개를 펼치고 덮쳐온다."
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「力を貸してくれ──<b>エリシア</b>！」"
+translation = "「힘을 빌려줘── <b>엘리시아</b>!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "迎え撃つ梨緒の手の中に、灼熱の太陽が生まれる。"
+translation = "맞서 싸우는 리오의 손안에 작열하는 태양이 태어난다."
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「ヒューペリオンイレイザー！！」"
+translation = "「히페리온 이레이저!!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "そして竜と太陽がぶつかり合い、神殿を揺るがす衝撃と共に相殺された。"
+translation = "용과 태양이 충돌하고, 신전을 뒤흔드는 충격과 함께 상쇄되었다."
+
+[[dialogue]]
+speaker = "ジグ"
+original = "「な……！？\u3000その星術はエリシアの……！？」"
+translation = "「뭐……!? 그 성술은 엘리시아의……!?」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「ああ、そうだ。どうやら私は知らず知らずのうちに、守護天使ノルンだけでなく、ベガのみんなの力を借りていたらしい」"
+translation = "「아아, 그래. 아무래도 나는 나도 모르는 사이에 수호천사 노른뿐만 아니라, 베가의 모두의 힘을 빌리고 있었던 모양이야」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「フィオナ、エリシア、みんな……一緒にジグを救わせてくれ！」"
+translation = "「피오나, 엘리시아, 모두들…… 함께 지그를 구하게 해줘!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "梨緒の脳裏に、星見家の双子の顔が浮かぶ。"
+translation = "리오의 뇌리에 호시미 가문의 쌍둥이 얼굴이 떠오른다."
+
+[[dialogue]]
+speaker = "梨緒"
+original = "（フィオナ、エリシア……私は君たちを守れなかった。それでもジグを救いたい。だからこそ、ジグだけは救いたい）"
+translation = "(피오나, 엘리시아…… 나는 너희를 지키지 못했어. 그래도 지그를 구하고 싶어. 그렇기에, 지그만은 구하고 싶어)"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "（虫のいい話だが、きっと君たちも同じ気持ちのはずだ！）"
+translation = "(염치없는 소리지만, 분명 너희도 같은 마음일 거야!)"
+
+[[dialogue]]
+speaker = "ジグ"
+original = "「く──！」"
+translation = "「큭──!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "雷の矢がジグの胸に吸い込まれる。"
+translation = "번개의 화살이 지그의 가슴으로 빨려 들어간다."
+
+[[dialogue]]
+speaker = "unk"
+original = "さらに──"
+translation = "거기에──"
+
+[[dialogue]]
+speaker = "ジグ"
+original = "「ぐぁあああっ！！？」"
+translation = "「구아아아악!!?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "緋宮クロトに植え付けられた力を取り除いた時のように、電流が内側から<ruby>厄災<rt>リクリエ</rt></ruby>を焼く。"
+translation = "히노미야 쿠로토에게 심어진 힘을 제거했을 때처럼, 전류가 안쪽에서 <ruby>재앙<rt>리크리에</rt></ruby>을 태운다."
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「あの時は魔王の中の、使徒の力を除くことはできなかった。だが……！」"
+translation = "「그때는 마왕 안의 사도의 힘을 제거할 수 없었어. 하지만……!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "雷撃から逃れるように、ジグの中から紫の瘴気が溢れ、仮面が溶けるように消えた。"
+translation = "뇌격에서 도망치듯 지그의 안에서 보랏빛 장기가 흘러넘치고, 가면이 녹아내리듯 사라졌다."
+
+[[dialogue]]
+speaker = "unk"
+original = "器を失ったリクリエの瘴気が溢れ、神殿を埋め尽くそうとするが、ノルンの糸が光の網となって瘴気を抑え込む。"
+translation = "그릇을 잃은 리크리에의 장기가 넘쳐나 신전을 가득 채우려 하지만, 노른의 실이 빛의 그물이 되어 장기를 억눌러 가둔다."
+
+[[dialogue]]
+speaker = "unk"
+original = "そして梨緒はクロスボウに矢を番え、過たず狙い撃つ。"
+translation = "그리고 리오는 크로스보우에 화살을 먹이고, 틀림없이 조준한다."
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「<ruby>我ら<rt>ベガ</rt></ruby>の守護星たちよ。今こそ救世の誓いに応えてくれ」"
+translation = "「<ruby>우리<rt>베가</rt></ruby>의 수호성들이여. 지금이야말로 구세의 맹세에 응답해다오」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「星力結晶、装填」"
+translation = "「성력 결정, 장전」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「次元を超えて、破滅を切り裂け」"
+translation = "「차원을 넘어, 파멸을 갈라라」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「ディメンション──」"
+translation = "「디멘션──」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「エクスウェーブ！！！」"
+translation = "「엑스 웨이브!!!」"
+

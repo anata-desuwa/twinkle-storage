@@ -1,0 +1,285 @@
+[[dialogue]]
+speaker = "unk"
+original = "テント設営が終わった後、今度は食料調達をすることになった。"
+translation = "텐트 설치가 끝난 뒤, 이번에는 식료 조달을 하게 되었다."
+
+[[dialogue]]
+speaker = "unk"
+original = "魚を釣って食べようと、俺達は波打ち際にある岩場へ向かった――"
+translation = "물고기를 낚아서 먹으려고, 우리들은 파도가 치는 바닷가 암석 지대로 향했다――"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「う～ん、釣りをするのは始めてだけど、実際にやってみるとなかなか難しいのね～」"
+translation = "「으음~ 낚시를 하는 건 처음이지만, 실제로 해 보니 꽤나 어렵네~」"
+
+[[dialogue]]
+speaker = "unk"
+original = "俺が教えますよ"
+translation = "내가 가르쳐 줄게요"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「会長くん、ありがと～♪」"
+translation = "「회장군, 고마워~♪」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「テントの設営も分かりやすく教えてくれたし、頼りになるわ～」"
+translation = "「텐트 설치도 알기 쉽게 가르쳐 줬고, 정말 의지가 되네~」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「あ、うふふ♪\u3000会長くん、照れてる～」"
+translation = "「아, 우후후♪ 회장군, 수줍어하고 있어~」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「あ～ん、可愛いわ～♪\u3000姉心がくすぐられて、キュンキュンしちゃう♪」"
+translation = "「아앙, 귀여워라~♪ 언니 마음이 근질근질해서 큥큥거려 버려♪」"
+
+[[dialogue]]
+speaker = "unk"
+original = "アナは、釣りの経験は――"
+translation = "아나는 낚시 경험은――"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「ノープロブレム。私は大丈夫です」"
+translation = "「노 프로블럼. 저는 괜찮습니다」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「――よし、ロッドの組み立て完了です」"
+translation = "「――좋아, 로드 조립 완료입니다」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「え？\u3000アナちゃん、それってもしかして自分の釣り竿？」"
+translation = "「에? 아나 짱, 그거 설마 개인용 낚싯대?」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「イエス。前の合宿の時は出番がありませんでしたが、ついにお目見えです」"
+translation = "「예스. 저번 합숙 때는 차례가 없었습니다만, 드디어 첫선을 보이네요」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「いざ、フィッシング」"
+translation = "「자, 피싱」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「アナちゃん、凄いわ～♪\u3000あれから１０分くらいしか経ってないのに」"
+translation = "「아나 짱, 대단해~♪ 아까부터 10분 정도밖에 안 지났는데」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ばんばん魚を釣ってる！"
+translation = "펑펑 물고기를 낚고 있어!"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「取ったど～」"
+translation = "「잡았다~」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「また釣り上げたわ～。凄～い♪\u3000アナちゃんは釣りが得意なのね～」"
+translation = "「또 낚아 올렸어~. 대단해♪ 아나 짱은 낚시가 특기구나~」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「いえ、普通です」"
+translation = "「아니요, 평범합니다」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「あら、そうなの？\u3000でも、釣りの動作とか、凄く手馴れているように見えたけど……」"
+translation = "「어머, 그래? 하지만 낚시 동작 같은 게 굉장히 능숙해 보였는데……」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「私より釣りが上手い人なんて、沢山いますから」"
+translation = "「저보다 낚시를 잘하는 사람은 잔뜩 있으니까요」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「おや、また糸が引いていますね。むっ……しかも、これはなかなか――」"
+translation = "「오야, 또 줄이 당겨지네요. 윽…… 게다가 이건 꽤――」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「せいっ」"
+translation = "「세잇」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「わぁ～♪\u3000今度釣りあげた魚は、抱えるくらい大きいわ～」"
+translation = "「와아~♪ 이번에 낚아 올린 물고기는 안아야 할 정도로 크네~」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「おー」"
+translation = "「오-」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「これはＤＩＳＣで記録を残しておきましょう。自撮りモードにして……」"
+translation = "「이건 DISC로 기록을 남겨 둬야겠어요. 셀카 모드로 해서……」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「それから、ちょっと場所を失礼します――」"
+translation = "「그리고, 잠시 자리 좀 실례하겠습니다――」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「あら？\u3000アナちゃん、白い布を広げたりして、どうしたの？」"
+translation = "「어머? 아나 짱, 흰 천을 펼치거나 하고 왜 그러니?」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「せっかくの大物なので、簡易的ですが魚拓を取っておこうかと」"
+translation = "「모처럼 대물이니 간이적이지만 어탁을 떠 둘까 해서요」"
+
+[[dialogue]]
+speaker = "unk"
+original = "まさかのその場で！？"
+translation = "설마 현장에서!?"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「え～と、もしかしなくてもアナちゃんって……釣りが大好きだったりする？」"
+translation = "「에~ 그러니까, 설마가 아니더라도 아나 짱은…… 낚시를 엄청 좋아하는 거야?」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「ええ、実は」"
+translation = "「네, 사실은」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「全然知らなかったわ～。これまでそういったことは、言ってなかったわよね？」"
+translation = "「전혀 몰랐어~. 지금까지 그런 건 말 안 했었지?」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「本当に個人的な趣味で、わざわざ自分から言うほどのことではなかったので」"
+translation = "「정말로 개인적인 취미라, 굳이 스스로 말할 정도의 일은 아니었으니까요」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「女の子としては珍しいかもしれないけど、私はいい趣味だと思うわよ？」"
+translation = "「여자아이로서는 드물지도 모르지만, 나는 좋은 취미라고 생각한다구?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "今度、一緒にどこか釣りに行く？"
+translation = "다음에 같이 어디 낚시 가러 갈래?"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「え」"
+translation = "「에」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「それは本当ですか？\u3000会長」"
+translation = "「그거 정말인가요? 회장님」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「本当なら是非」"
+translation = "「정말이라면 부디」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「具体的に、いつにしましょう？\u3000５日後とか？\u3000６日後でも構わない」"
+translation = "「구체적으로 언제로 할까요? 5일 뒤라든가? 6일 뒤라도 상관없어요」"
+
+[[dialogue]]
+speaker = "unk"
+original = "圧が凄い！"
+translation = "압박이 엄청나!"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「あら～♪\u3000会長くんの言葉で、見事に釣れちゃったわね～」"
+translation = "「어머나~♪ 회장군의 말 한마디에 훌륭하게 낚여 버렸네~」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「まさか会長、冗談だったとは言いませんよね？」"
+translation = "「설마 회장님, 농담이었다고는 말 안 하시겠죠?」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「男として、１度言ったことには責任を持って頂かないと」"
+translation = "「남성으로서 한 번 뱉은 말에는 책임을 져 주셔야겠습니다」"
+
+[[dialogue]]
+speaker = "unk"
+original = "わかったわかった！\u3000約束するから！"
+translation = "알았어 알았어! 약속할 테니까!"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「さすが会長。そうこなくては……むふ～」"
+translation = "「역시 회장님. 그래야죠…… 므후~」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「ふふっ♪\u3000アナちゃんったら、嬉しそうな顔してる♪」"
+translation = "「후훗♪ 아나 짱도 참, 기뻐 보이는 얼굴을 하고 있어♪」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「せっかくの機会ですから、サーシャ先輩にも釣りの楽しさを伝えたいですね。会長と一緒に、私も釣りのやり方を教えます」"
+translation = "「모처럼의 기회니까 사샤 선배에게도 낚시의 즐거움을 전해드리고 싶네요. 회장님과 함께 저도 낚시하는 법을 가르쳐 드릴게요」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「そうね、是非ともお願いするわ～♪」"
+translation = "「그래, 부디 부탁할게~♪」"
+
+[[dialogue]]
+speaker = "unk"
+original = "アナはそれから、サーシャさんの横に付いて釣りのやり方を教えて行き――"
+translation = "아나는 그 뒤, 사샤 씨의 곁에 붙어서 낚시 방법을 가르쳐 주기 시작했고――"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「今です、サーシャ先輩」"
+translation = "「지금입니다, 사샤 선배」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「え～い！」"
+translation = "「에잇!」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「きゃ～♪\u3000会長くん、アナちゃん、見て見て～！\u3000ついに初めての魚を釣り上げたわ～♪」"
+translation = "「꺄~♪ 회장군, 아나 짱, 봐봐 봐봐! 드디어 첫 물고기를 낚아 올렸어~♪」"
+
+[[dialogue]]
+speaker = "unk"
+original = "お見事です！"
+translation = "훌륭합니다!"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「グッジョブ。喜んで貰えて、私も嬉しい」"
+translation = "「굿 잡. 기뻐해 주시니 저도 기쁘네요」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「アナちゃんが教えてくれたおかげよ～♪\u3000ありがと～♪」"
+translation = "「아나 짱이 가르쳐 준 덕분이야~♪ 고마워~♪」"
+
+[[dialogue]]
+speaker = "unk"
+original = "サーシャさんのはしゃぐ様子に、アナもまた嬉しそうに微笑むのだった。"
+translation = "사샤 씨가 들떠 있는 모습에, 아나 또한 기쁜 듯이 미소 짓는 것이었다."
+

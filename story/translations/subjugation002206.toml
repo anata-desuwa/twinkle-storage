@@ -1,0 +1,300 @@
+[[dialogue]]
+speaker = "unk"
+original = "ジュエリーとミネコの対決がついに始まり、俺もジュエリーの助手として加勢しようとした――のだが。"
+translation = "주얼리와 미네코의 대결이 드디어 시작되고 나도 주얼리의 조수로서 가세하려 했으나──."
+
+[[dialogue]]
+speaker = "unk"
+original = "ミネコが指を弾いて音が鳴った瞬間、俺は北海道──人間界の『<ruby>鏡界の湖<rt>ラーゴ・シエロ</rt></ruby>』付近の森へと飛ばされてしまっていた。"
+translation = "미네코가 손가락을 튕겨 소리가 난 순간 나는 홋카이도── 인간계의 『<ruby>경계의 호수<rt>라르고 시엘로</rt></ruby>』 근처의 숲으로 날아와 버리고 말았다."
+
+[[dialogue]]
+speaker = "unk"
+original = "やられた……！"
+translation = "당했다……!"
+
+[[dialogue]]
+speaker = "unk"
+original = "俺はすぐさま空中へと飛躍し、東京方面――流星市国に向かって飛行を開始した。"
+translation = "나는 곧바로 공중으로 도약해 도쿄 방면── 유성 시국을 향해 비행을 개시했다."
+
+[[dialogue]]
+speaker = "unk"
+original = "同時刻、流星学園の敷地内にて。"
+translation = "동시각, 유성 학원의 부지 내에서."
+
+[[dialogue]]
+speaker = "unk"
+original = "ジュエリーはミネコとの戦闘を開始していた。"
+translation = "주얼리는 미네코와 전투를 시작하고 있었다."
+
+[[dialogue]]
+speaker = "ミネコ"
+original = "「――そういうわけで、厄介なキミの助手には一旦、北海道まで退場してもらったよ♪」"
+translation = "「──그런 고로 성가신 네 조수는 일단 홋카이도까지 퇴장시켜 뒀어♪」"
+
+[[dialogue]]
+speaker = "ジュエリー"
+original = "「<ruby>鏡界の湖<rt>ラーゴ・シエロ</rt></ruby>……ということは、推測するに、土地に流れる龍脈を利用した『転送星術』か。用意周到なことだ」"
+translation = "「<ruby>경계의 호수<rt>라르고 시엘로</rt></ruby>…… 그렇다는 건 추측건대 대지에 흐르는 용맥을 이용한 『전송 성술』인가. 준비성이 철저하군.」"
+
+[[dialogue]]
+speaker = "ミネコ"
+original = "「すぐにそこまで考えが至るとは。恐れ入るよ、名探偵」"
+translation = "「금세 거기까지 생각이 미치다니. 감탄스럽네, 명탐정.」"
+
+[[dialogue]]
+speaker = "ミネコ"
+original = "「準備にすごく時間はかかるけど、こういうトラップ系の手品みたいな星術を仕込んでおくのは得意なんだ。キミも何度か味わったことがあるでしょ？」"
+translation = "「준비에 시간은 엄청 걸리지만 이런 트랩계 마술 같은 성술을 심어두는 건 특기거든. 너도 몇 번 맛본 적 있지?」"
+
+[[dialogue]]
+speaker = "ジュエリー"
+original = "「ああ。しかし、キミは我が助手を甘くみている。彼は１度リクリエを退けた『魔王』だ」"
+translation = "「아아. 하지만 너는 나의 조수를 얕보고 있어. 그는 한 번 리크리에를 물리친 『마왕』이다.」"
+
+[[dialogue]]
+speaker = "ジュエリー"
+original = "「最強格の星騎士である助手なら、その程度の距離を飛ばしたところで、１０分もあれば戻ってくるよ？」"
+translation = "「최강격 성기사인 조수라면 그 정도 거리를 날려 보냈어도 10분이면 돌아올 거야.」"
+
+[[dialogue]]
+speaker = "ミネコ"
+original = "「ははは♪\u3000甘くみているのは、ジュエリー、キミの方じゃないかな？」"
+translation = "「하하하♪ 얕보고 있는 건 주얼리, 네 쪽이 아닐까?」"
+
+[[dialogue]]
+speaker = "ミネコ"
+original = "「――私が盗み終わるのに、１０分もかかると思ってる？」"
+translation = "「──내가 다 훔치는 데 10분이나 걸릴 것 같아?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ミネコがパチンと指を鳴らす。すると――"
+translation = "미네코가 딱 하고 손가락을 튕긴다. 그러자──"
+
+[[dialogue]]
+speaker = "unk"
+original = "彼女の影から立ち上がるように、『長身の紳士』のような大きな影が姿を現した。"
+translation = "그녀의 그림자에서 일어서듯이 『장신의 신사』 같은 커다란 그림자가 모습을 드러냈다."
+
+[[dialogue]]
+speaker = "ミネコ"
+original = "「スティールファントム」"
+translation = "「스틸 팬텀.」"
+
+[[dialogue]]
+speaker = "ジュエリー"
+original = "「出したね、キミの影――『大怪盗』の幻影を」"
+translation = "「꺼냈군, 네 그림자── 『대괴도』의 환영을.」"
+
+[[dialogue]]
+speaker = "unk"
+original = "それは、大怪盗フランボウがメディアに写真や映像で取り沙汰されている姿。"
+translation = "그것은 대괴도 플랑보가 미디어에서 사진이나 영상으로 거론되고 있는 모습."
+
+[[dialogue]]
+speaker = "ミネコ"
+original = "「この『変装』についても、大体予測がついているみたいだね」"
+translation = "「이 『변장』에 대해서도 대충 예측하고 있는 모양이네.」"
+
+[[dialogue]]
+speaker = "ジュエリー"
+original = "「ああ。これまでその幻影とは、何度も手合わせしてきた。情報改竄によって見せているただの幻でないことは、もうわかっている」"
+translation = "「아아. 지금까지 그 환영과는 몇 번이나 합을 겨뤄왔지. 정보 개찬에 의해 보여주는 단순한 환상이 아니라는 건 이미 알고 있어.」"
+
+[[dialogue]]
+speaker = "ミネコ"
+original = "「ならこの状況、どっちが有利かもわかっているよね？\u3000私の変装は――」"
+translation = "「그럼 이 상황, 어느 쪽이 유리한지도 알고 있겠지? 내 변장은──」"
+
+[[dialogue]]
+speaker = "unk"
+original = "大怪盗の幻影がジュエリーに向かって、素早く拳を握って振り下ろす。"
+translation = "대괴도의 환영이 주얼리를 향해 빠르게 주먹을 쥐고 내리친다."
+
+[[dialogue]]
+speaker = "ジュエリー"
+original = "「っ……！」"
+translation = "「윽……!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "後ろに飛んで避けるジュエリー。彼女がそれまで立っていた場所には――"
+translation = "뒤로 뛰어 피하는 주얼리. 그녀가 그때까지 서 있던 장소에는──"
+
+[[dialogue]]
+speaker = "unk"
+original = "地面が大きく陥没する程のクレーターが出来上がっていた。"
+translation = "지면이 크게 함몰될 정도의 크레이터가 생겨나 있었다."
+
+[[dialogue]]
+speaker = "ミネコ"
+original = "「近接戦において、星騎士を真正面から殴り倒せる程のパワーを持っている」"
+translation = "「근접전에서 성기사를 정면에서 때려눕힐 정도의 파워를 가지고 있지.」"
+
+[[dialogue]]
+speaker = "ミネコ"
+original = "「果たして戦闘に不向きな能力しかないキミ１人で、これを倒せるかな？\u3000ジュエリー・ブラウン」"
+translation = "「과연 전투에 부적합한 능력밖에 없는 너 혼자서 이걸 쓰러뜨릴 수 있을까? 주얼리 브라운.」"
+
+[[dialogue]]
+speaker = "unk"
+original = "怪盗の幻影は、再びジュエリーに向けて拳を構えるのだった。"
+translation = "괴도의 환영은 다시 주얼리를 향해 주먹을 겨누는 것이었다."
+
+[[dialogue]]
+speaker = "unk"
+original = "それから変装したミネコとの戦闘が始まり――"
+translation = "그러고는 변장한 미네코와의 전투가 시작되어──"
+
+[[dialogue]]
+speaker = "ミネコ"
+original = "「ラッシュオブイリュージョンッ！」"
+translation = "「러시 오브 일루전!」"
+
+[[dialogue]]
+speaker = "ジュエリー"
+original = "「くっ……！」"
+translation = "「큭……!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "素早くもパワーある拳のラッシュにジュエリーは圧倒され、苦戦を強いられていた。"
+translation = "빠르면서도 파워 있는 주먹의 러시에 주얼리는 압도당하며 고전을 면치 못하고 있었다."
+
+[[dialogue]]
+speaker = "ジュエリー"
+original = "「やはり、他の星騎士は呼べないか……！」"
+translation = "「역시 다른 성기사는 부를 수 없는 건가……!」"
+
+[[dialogue]]
+speaker = "ミネコ"
+original = "「残念だけど対策済みだよ。ルパンの一族は代々、機械いじりも得意でね――」"
+translation = "「안타깝지만 대책 완료야. 루팡 일족은 대대로 기계 만지는 것도 잘하거든──」"
+
+[[dialogue]]
+speaker = "ミネコ"
+original = "「事前に仕掛けておいた、ＤＩＳＣの電波と大聖堂周辺の音をかき消す装置をオンにしてある。キミが叫んだり連絡しようとしても、大聖堂まで届きはしないよ」"
+translation = "「사전에 설치해 둔 DISC 전파와 대성당 주변의 소리를 지워버리는 장치를 켜뒀어. 네가 소리를 지르거나 연락하려 해도 대성당까지 닿지는 않을 거야.」"
+
+[[dialogue]]
+speaker = "ミネコ"
+original = "「今頃大聖堂の方では、私が仕掛けてきてると勘違いして、守りをガチガチに固めているんじゃないかな？\u3000配置を離れて、わざわざこの場所に来たりしないよ」"
+translation = "「지금쯤 대성당 쪽에서는 내가 걸어오고 있다고 착각해서 수비를 꽁꽁 굳히고 있지 않을까? 배치를 벗어나 굳이 이 장소에 오지는 않을 거라고.」"
+
+[[dialogue]]
+speaker = "ミネコ"
+original = "「――さあ、会長が戻って来る前に、そろそろ倒させてもらおうか、名探偵！」"
+translation = "「──자, 회장님이 돌아오기 전에 슬슬 쓰러뜨려 줄까, 명탐정!」"
+
+[[dialogue]]
+speaker = "ジュエリー"
+original = "「……ああ、そうだね。そろそろ――」"
+translation = "「……아아, 그래. 슬슬──」"
+
+[[dialogue]]
+speaker = "ジュエリー"
+original = "「私も反撃を始めるとしよう」"
+translation = "「나도 반격을 시작하도록 하지.」"
+
+[[dialogue]]
+speaker = "ジュエリー"
+original = "「チェンジ――『エクリプスフォーム』！」"
+translation = "「체인지── 『에클립스 폼』!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "眩い光が辺りを包む。"
+translation = "눈부신 빛이 주변을 감싼다."
+
+[[dialogue]]
+speaker = "ミネコ"
+original = "「……！」"
+translation = "「……!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "光が収まると、そこには――"
+translation = "빛이 잦아들자 그곳에는──"
+
+[[dialogue]]
+speaker = "unk"
+original = "新フォームへと変身した、ジュエリーの姿があった。"
+translation = "새로운 폼으로 변신한 주얼리의 모습이 있었다."
+
+[[dialogue]]
+speaker = "ジュエリー（究明）"
+original = "「……フランボウ、今日まででキミの能力は十分に見させてもらった」"
+translation = "「……플랑보, 오늘까지 네 능력은 충분히 지켜봤다.」"
+
+[[dialogue]]
+speaker = "ジュエリー（究明）"
+original = "「故に、ここからは私の番だ。この新たな力『エクリプスフォーム』で、キミを批評させてもらおう」"
+translation = "「고로 여기서부터는 내 차례야. 이 새로운 힘 『에클립스 폼』으로 너를 비평해 주도록 하지.」"
+
+[[dialogue]]
+speaker = "unk"
+original = "日傘を差した『名探偵』は、純白の輝きを放つ星力を纏いながら、怪盗の幻影の前に立つ。"
+translation = "양산을 쓴 『명탐정』은 순백의 광채를 내뿜는 성력을 두르며 괴도의 환영 앞에 선다."
+
+[[dialogue]]
+speaker = "ミネコ"
+original = "「エクリプスフォーム……？\u3000ノヴァフォームじゃなくて？」"
+translation = "「에클립스 폼……? 노바 폼이 아니라?」"
+
+[[dialogue]]
+speaker = "ジュエリー（究明）"
+original = "「そこも下調べをしていたようだね。確かにこれは、ノヴァフォームに近い力だ。しかし調べてみて、厳密には違うということがわかった」"
+translation = "「그 부분도 조사를 한 모양이군. 확실히 이것은 노바 폼에 가까운 힘이다. 하지만 조사해 본 결과 엄밀하게는 다르다는 것을 알았지.」"
+
+[[dialogue]]
+speaker = "ジュエリー（究明）"
+original = "「これには、別の力が混じっている。アルケインノヴァエクストリームは、魔王と絆を結んだ相手の潜在能力を覚醒させるという技だ」"
+translation = "「여기에는 다른 힘이 섞여 있어. 알케인 노바 익스트림은 마왕과 인연을 맺은 상대의 잠재 능력을 각성시킨다는 기술이다.」"
+
+[[dialogue]]
+speaker = "ジュエリー（究明）"
+original = "「故に私の場合、『選星者』の力が引き出された。過去のとある『名探偵』が培ってきた能力が、今の私には宿っている」"
+translation = "「고로 내 경우 『선성자』의 힘이 끌어 올려졌지. 과거의 어떤 『명탐정』이 쌓아온 능력이 지금의 나에게는 깃들어 있다.」"
+
+[[dialogue]]
+speaker = "ミネコ"
+original = "「とある名探偵……？」"
+translation = "「어떤 명탐정……?」"
+
+[[dialogue]]
+speaker = "ジュエリー（究明）"
+original = "「私の先祖――世界三大探偵の１人『ブラウン神父』」"
+translation = "「나의 조상── 세계 3대 탐정 중 한 명인 『브라운 신부』.」"
+
+[[dialogue]]
+speaker = "ミネコ"
+original = "「……！」"
+translation = "「……!」"
+
+[[dialogue]]
+speaker = "ジュエリー（究明）"
+original = "「不思議な感覚だよ。彼の活躍が描かれた小説を読んだ時にも感じていたが、私たちは思考がよく似ている」"
+translation = "「신기한 감각이야. 그의 활약이 그려진 소설을 읽었을 때도 느꼈지만 우리는 사고가 무척 닮았어.」"
+
+[[dialogue]]
+speaker = "ジュエリー（究明）"
+original = "「だからこそ、客観的にわかる。何をどうすれば、自身が更なる思考の先へ辿り着けるのか」"
+translation = "「그렇기에 객관적으로 알 수 있지. 무엇을 어떻게 해야 자신이 더더욱 사고의 너머에 도달할 수 있는지.」"
+
+[[dialogue]]
+speaker = "ジュエリー（究明）"
+original = "「さあ、どうする？\u3000大怪盗フランボウ。私の計算では、もう間もなく愛しの助手が帰って来るよ」"
+translation = "「자, 어쩔 테지? 대괴도 플랑보. 내 계산으로는 이제 곧 사랑하는 조수가 돌아올 거다.」"
+
+[[dialogue]]
+speaker = "ミネコ"
+original = "「その前に、拳で眠らせる！」"
+translation = "「그전에 주먹으로 잠재워 주지!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "名探偵と大怪盗の本気の戦いが始まるのだった――"
+translation = "명탐정과 대괴도의 진심 어린 싸움이 시작되는 것이었다──"
+

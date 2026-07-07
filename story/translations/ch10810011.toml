@@ -1,0 +1,250 @@
+[[dialogue]]
+speaker = "unk"
+original = "第１話,未来の展望,P"
+translation = "제1화, 미래의 전망, P"
+
+[[dialogue]]
+speaker = "unk"
+original = "大聖堂を訪れると、熱心に祈りを捧げている女性の後ろ姿が目に入った。"
+translation = "대성당을 방문하자, 열심히 기도를 올리고 있는 여성의 뒷모습이 눈에 들어왔다."
+
+[[dialogue]]
+speaker = "unk"
+original = "グロリアさんは今日もお祈り？"
+translation = "글로리아 씨는 오늘도 기도 중인가요?"
+
+[[dialogue]]
+speaker = "グロリア"
+original = "「まあ、会長さん……！\u3000またお会いしましたね」"
+translation = "「어머, 회장님……! 또 만났네요」"
+
+[[dialogue]]
+speaker = "グロリア"
+original = "「やはり、会長さんは私の運命の人なのかも……ぜひ、私と一緒に死んでいただけませんか？」"
+translation = "「역시, 회장님은 저의 운명인 걸지도…… 부디, 저와 함께 죽어주시지 않겠나요?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "もはやグロリアさんお決まり、文字通りの殺し文句。"
+translation = "이제는 글로리아 씨의 전매특허, 말 그대로의 킬러 레이즈."
+
+[[dialogue]]
+speaker = "フラン"
+original = "「だーかーら、ソレはやめろって言ったろ？」"
+translation = "「그으래서어, 그건 하지 말라고 했잖아?」"
+
+[[dialogue]]
+speaker = "グロリア"
+original = "「あっ、ごめんなさい。素敵な方に出会うとどうしても……なんだか口癖になっているみたいで」"
+translation = "「앗, 죄송해요. 멋진 분을 만나면 나도 모르게…… 왠지 입버릇이 된 것 같아요」"
+
+[[dialogue]]
+speaker = "フラン"
+original = "「口癖にするには物騒すぎんだよ。悪ぃな、会長。グロリアも悪気があって言ってるわけじゃないんだが」"
+translation = "「입버릇으로 삼기엔 너무 살벌하다고. 미안해, 회장. 글로리아도 악의가 있어서 하는 말은 아니지만」"
+
+[[dialogue]]
+speaker = "unk"
+original = "グロリアさんが善い人なのはわかってますよ"
+translation = "글로리아 씨가 좋은 사람인 건 알고 있어요"
+
+[[dialogue]]
+speaker = "グロリア"
+original = "「ありがとうございます……！\u3000ですが、私が善い人というのは買い被りですよ」"
+translation = "「감사합니다……! 하지만, 제가 좋은 사람이라는 건 과찬이세요」"
+
+[[dialogue]]
+speaker = "グロリア"
+original = "「今までの私は、人々の幸せのために尽くしていたのではなく、一刻も早く両親の元へと赴くために善行を積んでいたんです」"
+translation = "「지금까지의 저는, 사람들의 행복을 위해 헌신한 것이 아니라, 한시라도 빨리 부모님 곁으로 가기 위해 선행을 쌓아온 것뿐이에요」"
+
+[[dialogue]]
+speaker = "グロリア"
+original = "「とても利己的な、偽善だったんです。ですから、褒められるようなことは何も……」"
+translation = "「무척 이기적인 위선이었어요. 그러니 칭찬받을 일은 아무것도……」"
+
+[[dialogue]]
+speaker = "フラン"
+original = "「お前が内心でどう思ってたかはともかく、グロリアは良いことをしてたんだろ。ならそれでいいじゃねえか」"
+translation = "「네가 속으로 어떻게 생각했든 간에, 글로리아는 좋은 일을 했잖아. 그럼 그걸로 된 거 아니냐고」"
+
+[[dialogue]]
+speaker = "グロリア"
+original = "「ええ、まあ……ゴミ拾いのボランティアや子ども会のお食事会に参加したり、孤児院に慰問したりとか、ですけど――」"
+translation = "「네, 뭐…… 쓰레기 줍기 봉사나 어린이회 식사 모임에 참여하거나, 고아원에 위문하거나 하는 것들이었지만――」"
+
+[[dialogue]]
+speaker = "シャロン"
+original = "「グロリアさまの焼くクッキーは子どもたちにも評判が良かったんですよ！」"
+translation = "「글로리아 님이 굽는 쿠키는 아이들에게도 평판이 좋았답니다!」"
+
+[[dialogue]]
+speaker = "シャロン"
+original = "「子どもたちもとても懐いていましたし、グロリアさまが訪れるとみんな大喜びでした！」"
+translation = "「아이들도 무척 잘 따랐고, 글로리아 님이 방문하면 다들 아주 기뻐했어요!」"
+
+[[dialogue]]
+speaker = "フラン"
+original = "「大人気じゃねえか！\u3000めちゃめちゃ偉いと思うぜ、オレは」"
+translation = "「대인기잖아! 엄청 대단하다고 생각해, 나는」"
+
+[[dialogue]]
+speaker = "グロリア"
+original = "「そ、そうでしょうか」"
+translation = "「그, 그럴까요」"
+
+[[dialogue]]
+speaker = "フラン"
+original = "「ああ！\u3000グロリアはそれが善行だって、誰かのためになるってわかってやってたんだろ？」"
+translation = "「그래! 글로리아는 그게 선행이라는 걸, 누군가에게 도움이 된다는 걸 알고서 한 거잖아?」"
+
+[[dialogue]]
+speaker = "グロリア"
+original = "「は、はい、もちろんです！」"
+translation = "「네, 네, 물론이죠!」"
+
+[[dialogue]]
+speaker = "フラン"
+original = "「悪事に手を染めてるわけじゃねえんだ、自分のやったことに胸を張れよ。グロリアに出会って救われてるやつが、ちゃんといるんだぜ？」"
+translation = "「나쁜 짓을 저지른 게 아니야, 네가 한 일에 자부심을 가져. 글로리아를 만나서 구원받은 녀석이 분명히 있다고」"
+
+[[dialogue]]
+speaker = "シャロン"
+original = "「もちろん、私も、子どもたちもです。グロリアさまにはとても助けられてますよ」"
+translation = "「물론, 저도, 아이들도요. 글로리아 님에게 큰 도움을 받고 있답니다」"
+
+[[dialogue]]
+speaker = "unk"
+original = "これからの自分の幸せに目を向けましょう"
+translation = "앞으로의 자신의 행복에 눈을 돌려봐요"
+
+[[dialogue]]
+speaker = "unk"
+original = "過去の自分を後悔するより"
+translation = "과거의 자신을 후회하기보다"
+
+[[dialogue]]
+speaker = "グロリア"
+original = "「これから……？\u3000私が幸せになってもいいんですか……？」"
+translation = "「앞으로……? 제가 행복해져도 되는 건가요……?」"
+
+[[dialogue]]
+speaker = "シャロン"
+original = "「当然ではないですか。幸せになる権利は誰にも奪えない尊いもの、女神様からの贈り物ですよ」"
+translation = "「당연하지 않나요. 행복해질 권리는 누구도 뺏을 수 없는 고귀한 것, 여신님이 주신 선물이에요」"
+
+[[dialogue]]
+speaker = "フラン"
+original = "「ダメなんていうやつがいたら、オレがぶん殴ってやるぜ！」"
+translation = "「안 된다고 하는 녀석이 있으면, 내가 한 대 때려줄게!」"
+
+[[dialogue]]
+speaker = "シャロン"
+original = "「フランさま、ぶん殴ってはダメです」"
+translation = "「프랑 님, 때리는 건 안 됩니다」"
+
+[[dialogue]]
+speaker = "フラン"
+original = "「えー。殴るとこだろそこは」"
+translation = "「에이. 때려야 할 타이밍이잖아, 여긴」"
+
+[[dialogue]]
+speaker = "グロリア"
+original = "「ですが、難しいものですね。目先の死に向かって生きてきたので、いざ幸せについて考えるとなると……」"
+translation = "「하지만, 어렵네요. 당장의 죽음을 향해 살아왔기에, 막상 행복에 대해 생각하려니……」"
+
+[[dialogue]]
+speaker = "フラン"
+original = "「ありきたりだけどよ。好きな男のひとりでも、作ってみたらどうだ？」"
+translation = "「흔한 소리지만 말이야. 좋아하는 남자라도 한 명 만들어보는 건 어때?」"
+
+[[dialogue]]
+speaker = "シャロン"
+original = "「素晴らしいです！\u3000いつの世も愛する人と結ばれるのは、女性の幸せのひとつですよね！」"
+translation = "「멋져요! 어느 시대든 사랑하는 사람과 맺어지는 것은 여성의 행복 중 하나죠!」"
+
+[[dialogue]]
+speaker = "グロリア"
+original = "「愛する人と……そ、そんなそんな！\u3000私が男性と結ばれるなんて１００年早いです」"
+translation = "「사랑하는 사람과…… 그, 그럴 수가! 제가 남성과 맺어지다니 100년은 일러요」"
+
+[[dialogue]]
+speaker = "シャロン"
+original = "「それではお婆ちゃんになってしまいますよ？」"
+translation = "「그러면 할머니가 되어버릴 텐데요?」"
+
+[[dialogue]]
+speaker = "フラン"
+original = "「グロリア、エロい体してるしさ。婆ちゃんになる前に活かさなきゃもったいねえぜ？」"
+translation = "「글로리아, 야한 몸을 하고 있기도 하고 말이지. 할머니가 되기 전에 활용하지 않으면 아깝다고?」"
+
+[[dialogue]]
+speaker = "グロリア"
+original = "「エロくなんてありません！？」"
+translation = "「야하지 않아요!?」"
+
+[[dialogue]]
+speaker = "フラン"
+original = "「いや、エロいよ。なあ、会長？」"
+translation = "「아니, 야해. 그치, 회장?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "…………"
+translation = "…………"
+
+[[dialogue]]
+speaker = "グロリア"
+original = "「目を逸らさないでください！？」"
+translation = "「눈 피하지 마세요!?」"
+
+[[dialogue]]
+speaker = "フラン"
+original = "「グロリアはふわふわしてるから、隙がありそうに見えるんだよなー。だから余計な男が寄ってくるんだよ」"
+translation = "「글로리아는 멍하니 있으니까, 빈틈이 많아 보이거든. 그래서 쓸데없는 남자들이 꼬이는 거야」"
+
+[[dialogue]]
+speaker = "グロリア"
+original = "「そんなことは……」"
+translation = "「그런 일은……」"
+
+[[dialogue]]
+speaker = "フラン"
+original = "「あるんだよ。グロリアが気づいてないだけで、オレが追っ払ってるんだ」"
+translation = "「있다니까. 글로리아가 눈치채지 못할 뿐이지, 내가 다 쫓아버리고 있다고」"
+
+[[dialogue]]
+speaker = "グロリア"
+original = "「そ、そうだったのですね。ありがとうございます」"
+translation = "「그, 그랬던 거군요. 감사합니다」"
+
+[[dialogue]]
+speaker = "フラン"
+original = "「でもオレだって四六時中グロリアの傍にいられるわけじゃねえ」"
+translation = "「하지만 나도 24시간 내내 글로리아 곁에 있을 수는 없잖아」"
+
+[[dialogue]]
+speaker = "フラン"
+original = "「グロリアを守ってくれるカッケえ騎士様でもいれば、オレも安心して、傍を離れられるんだけどなあ？」"
+translation = "「글로리아를 지켜줄 멋진 기사님이라도 있으면, 나도 안심하고 곁을 떠날 수 있을 텐데 말이야?」"
+
+[[dialogue]]
+speaker = "フラン"
+original = "「なあ、会長？\u3000へへへ」"
+translation = "「그치, 회장? 헤헤헤」"
+
+[[dialogue]]
+speaker = "シャロン"
+original = "「だそうですよ、会長さま。ふふふ」"
+translation = "「그렇다고 하네요, 회장님. 후후후」"
+
+[[dialogue]]
+speaker = "グロリア"
+original = "「え、それって……ぽっ」"
+translation = "「어, 그건…… 화끈」"
+
+[[dialogue]]
+speaker = "unk"
+original = "グロリアさんの頬が染まると同時に、俺の顔も熱くなるのを感じたのだった。"
+translation = "글로리아 씨의 뺨이 붉어짐과 동시에, 내 얼굴도 뜨거워지는 것을 느꼈다."
+

@@ -1,0 +1,380 @@
+[[dialogue]]
+speaker = "unk"
+original = "第２話,サチと妹同盟,P"
+translation = "제2화, 사치와 여동생 동맹"
+
+[[dialogue]]
+speaker = "unk"
+original = "ルルカやリコリンも戦闘訓練に参加する中、リバースフォームが暴走し、精神が反転してしまったサチ。"
+translation = "루루카나 리코린도 전투 훈련에 참가하는 도중, 리버스 폼이 폭주해 정신이 반전되어 버린 사치."
+
+[[dialogue]]
+speaker = "unk"
+original = "あれからしばらくして、熱が冷めるようにサチは元に戻ったのだが……。"
+translation = "그로부터 얼마 지나지 않아 열이 식듯 사치는 원래대로 돌아왔지만……."
+
+[[dialogue]]
+speaker = "サチ"
+original = "「え、エッチに暴走してる私を見られてしまいましたぁぁぁ～～～っ！！！」"
+translation = "「여, 야하게 폭주하는 제 모습을 보여버렸어요오오오~~~!!!」"
+
+[[dialogue]]
+speaker = "サチ"
+original = "「は、恥ずかしくて死んでしまいそうです……っ！！」"
+translation = "「부, 부끄러워서 죽어버릴 것 같아요……!!」"
+
+[[dialogue]]
+speaker = "ルルカ"
+original = "「あははは……す、すごかったね……」"
+translation = "「아하하하…… 대, 대단했지……」"
+
+[[dialogue]]
+speaker = "unk"
+original = "大丈夫だ、落ち着いて"
+translation = "「괜찮아, 진정해」"
+
+[[dialogue]]
+speaker = "unk"
+original = "俺はサチの頭を優しく撫でる。"
+translation = "나는 사치의 머리를 상냥하게 쓰다듬는다."
+
+[[dialogue]]
+speaker = "サチ"
+original = "「うぅ……リバースフォームを使いこなそうとすること自体が、間違っているのでしょうか……？」"
+translation = "「우으…… 리버스 폼을 다루려고 하는 것 자체가 잘못된 걸까요……?」"
+
+[[dialogue]]
+speaker = "ルルカ"
+original = "「う～ん、それなら――」"
+translation = "「으음, 그렇다면――」"
+
+[[dialogue]]
+speaker = "ルルカ"
+original = "「サチちゃんがリバースフォームを使いこなせるように、あたしたちも協力するよ！」"
+translation = "「사치짱이 리버스 폼을 다룰 수 있게 우리도 협력할게!」"
+
+[[dialogue]]
+speaker = "サチ"
+original = "「えっ……？\u3000いいんですか……？」"
+translation = "「엣……? 그래도 되나요……?」"
+
+[[dialogue]]
+speaker = "ルルカ"
+original = "「もちろん♪\u3000あたしたち『妹同盟』の仲で、友達でしょ？」"
+translation = "「물론이지♪ 우리 『여동생 동맹』 동료이자 친구잖아?」"
+
+[[dialogue]]
+speaker = "ルルカ"
+original = "「それに一応、あたしはサチちゃんの先輩でもあるしね♪」"
+translation = "「거기에 일단 나는 사치짱의 선배이기도 하고♪」"
+
+[[dialogue]]
+speaker = "サチ"
+original = "「ルルカ先輩……！」"
+translation = "「루루카 선배……!」"
+
+[[dialogue]]
+speaker = "リコリンフィア"
+original = "「リコリンも、妹同盟の仲間として協力するよ～♪\u3000サチお姉ちゃん♪」"
+translation = "「리코린도 여동생 동맹의 동료로서 협력할게~♪ 사치 언니♪」"
+
+[[dialogue]]
+speaker = "サチ"
+original = "「リコリンちゃんも、ありがとうございます♪\u3000私、気を取り直して頑張ります！」"
+translation = "「리코린짱도 고마워요♪ 저, 기운 차리고 열심히 할게요!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "仮想結界のフィールドを切り替え、それからしばらく訓練を続けて。"
+translation = "가상결계의 필드를 전환하고, 그 후로 한동안 훈련을 계속했다."
+
+[[dialogue]]
+speaker = "リコリンフィア"
+original = "「ふむふむ、なるほど～。ちょっとわかってきたかも～」"
+translation = "「흠흠, 과연~. 조금 알 것 같을지도~」"
+
+[[dialogue]]
+speaker = "ルルカ"
+original = "「リコリンちゃん、何か思いついたの？」"
+translation = "「리코린짱, 뭐 생각난 거 있어?」"
+
+[[dialogue]]
+speaker = "リコリンフィア"
+original = "「うん。サチお姉ちゃんは、リバースフォームに『抗おう』とし過ぎて、上手く行ってない気がするな～」"
+translation = "「응. 사치 언니는 리버스 폼에 너무 『저항』하려고 해서 잘 안 되는 것 같아~」"
+
+[[dialogue]]
+speaker = "サチ"
+original = "「えっと、それってどういう……？」"
+translation = "「에토, 그건 어떤……?」"
+
+[[dialogue]]
+speaker = "リコリンフィア"
+original = "「例えばね、リコリンの能力って『毒』を作ることなんだけど～」"
+translation = "「예를 들어 말이야, 리코린의 능력은 『독』을 만드는 거지만~」"
+
+[[dialogue]]
+speaker = "リコリンフィア"
+original = "「毒って悪いイメージがあるでしょ？\u3000でも、その成分をうまく使えば、人を助ける薬にもなるんだよ」"
+translation = "「독은 나쁜 이미지가 있잖아? 하지만 그 성분을 잘 쓰면 사람을 돕는 약도 되거든」"
+
+[[dialogue]]
+speaker = "リコリンフィア"
+original = "「サチお姉ちゃんのリバースフォームも同じで、考え方を変えて向き合えば、もっと上手な使い方ができるんじゃないかな？」"
+translation = "「사치 언니의 리버스 폼도 마찬가지로, 생각을 바꿔서 마주하면 더 잘 쓸 수 있지 않을까?」"
+
+[[dialogue]]
+speaker = "サチ"
+original = "「考え方を変える……」"
+translation = "「생각을 바꾼다……」"
+
+[[dialogue]]
+speaker = "リコリンフィア"
+original = "「暴走しちゃった時のサチお姉ちゃん、性格は確かに変わっちゃってたけど――」"
+translation = "「폭주했을 때의 사치 언니, 성격은 확실히 변해 있었지만――」"
+
+[[dialogue]]
+speaker = "リコリンフィア"
+original = "「リコリンは別に、そこまで悪いお姉ちゃんだとは思わなかったよ？」"
+translation = "「리코린은 딱히 그렇게 나쁜 언니라고 생각하지 않았어?」"
+
+[[dialogue]]
+speaker = "ルルカ"
+original = "「！\u3000そうだよ、サチちゃん！」"
+translation = "「! 그래, 사치짱!」"
+
+[[dialogue]]
+speaker = "ルルカ"
+original = "「いっそ暴走したまま――精神が反転した状態で戦ってみるっていうのはどう？」"
+translation = "「차라리 폭주한 채로―― 정신이 반전된 상태에서 싸워보는 건 어때?」"
+
+[[dialogue]]
+speaker = "サチ"
+original = "「えっ……！？」"
+translation = "「엣……!?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "サチは２人のアドバイスを受け、訓練を再開する。"
+translation = "사치는 두 사람의 조언을 받아 훈련을 재개한다."
+
+[[dialogue]]
+speaker = "サチ"
+original = "「――ふぅ……精神がまた、暴走状態に入っちゃいました♪」"
+translation = "「――후우…… 정신이 또 폭주 상태에 들어갔어요♪」"
+
+[[dialogue]]
+speaker = "ルルカ"
+original = "「ねぇ、サチちゃん、どう？\u3000その状態で戦える？」"
+translation = "「있지, 사치짱, 어때? 그 상태로 싸울 수 있겠어?」"
+
+[[dialogue]]
+speaker = "サチ"
+original = "「ふふっ、ルルカ先輩、もちろんですよ♪\u3000今なら――」"
+translation = "「후훗, 루루카 선배, 물론이죠♪ 지금이라면――」"
+
+[[dialogue]]
+speaker = "サチ"
+original = "「アンラッキーが起きることすら、楽しめちゃいそうな気がします♪」"
+translation = "「언럭키가 일어나는 것조차 즐길 수 있을 것 같은 기분이 들어요♪」"
+
+[[dialogue]]
+speaker = "リコリンフィア"
+original = "「――そうだ。サチ、それでいい」"
+translation = "「――그래. 사치, 그거면 돼」"
+
+[[dialogue]]
+speaker = "リコリンフィア"
+original = "「今のキミは、本来の自分とは異なる、反転した力を使っている」"
+translation = "「지금의 너는 본래의 자신과는 다른 반전된 힘을 쓰고 있어」"
+
+[[dialogue]]
+speaker = "リコリンフィア"
+original = "「その力に合うように精神も変化させることは、何もおかしいことじゃない。だから――」"
+translation = "「그 힘에 맞게 정신도 변화시키는 건 전혀 이상한 일이 아니야. 그러니까――」"
+
+[[dialogue]]
+speaker = "リコリンフィア"
+original = "「今のリコリンみたいに、役になりきるつもりで演じちゃおっ♪」"
+translation = "「지금의 리코린처럼, 역할에 몰입할 생각으로 연기해 버리자♪」"
+
+[[dialogue]]
+speaker = "ルルカ"
+original = "「それにサチちゃん！\u3000性格が変わっても、あたしたちはちゃんとわかってるから大丈夫だよ！」"
+translation = "「그리고 사치짱! 성격이 변해도, 우리들은 제대로 알고 있으니까 괜찮아!」"
+
+[[dialogue]]
+speaker = "ルルカ"
+original = "「あたしたち――友達なんだから♪」"
+translation = "「우리들―― 친구니까♪」"
+
+[[dialogue]]
+speaker = "unk"
+original = "恋人の俺もいるぞ！"
+translation = "연인인 나도 있다구!"
+
+[[dialogue]]
+speaker = "サチ"
+original = "「みなさん……そんなことを言われたら私――」"
+translation = "「여러분…… 그런 말을 들으면 저――」"
+
+[[dialogue]]
+speaker = "サチ"
+original = "「思いっきり、アンラッキーで大暴れしたくなっちゃいます♪」"
+translation = "「마음껏, 언럭키로 대폭주하고 싶어져 버려요♪」"
+
+[[dialogue]]
+speaker = "unk"
+original = "――やがて、サチの斧がモンスターに強烈な一撃を叩き込む。"
+translation = "――이윽고, 사치의 도끼가 몬스터에게 강렬한 일격을 두드려 넣는다."
+
+[[dialogue]]
+speaker = "ブヒモス"
+original = "「ブヒーーーッ！？」"
+translation = "「부히이이익!?」"
+
+[[dialogue]]
+speaker = "サチ"
+original = "「あ……私……」"
+translation = "「아…… 나……」"
+
+[[dialogue]]
+speaker = "unk"
+original = "暴走状態が収まったサチは、驚いたように目を見開きながら言う。"
+translation = "폭주 상태가 가라앉은 사치는, 놀란 듯이 눈을 크게 뜨며 말한다."
+
+[[dialogue]]
+speaker = "サチ"
+original = "「自分の力で、モンスターを倒すことができた……？」"
+translation = "「자신의 힘으로, 몬스터를 쓰러뜨릴 수 있었어……?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ついにやったな！"
+translation = "드디어 해냈구나!"
+
+[[dialogue]]
+speaker = "サチ"
+original = "「――ひゃっ！？\u3000お、お兄さん、こんなところでそんな、抱き着いたりしちゃダメです！\u3000エッチなことは禁止です～～っ！」"
+translation = "「――히익!? 오, 오빠, 이런 곳에서 그렇게, 껴안거나 하면 안 돼요! 에치한 건 금지예요~~!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "感激のあまり、俺はサチをぎゅっと抱きしめてしまう。"
+translation = "감격한 나머지, 나는 사치를 꼬옥 껴안고 만다."
+
+[[dialogue]]
+speaker = "ルルカ"
+original = "「おめでとう、サチちゃん！」"
+translation = "「축하해, 사치짱!」"
+
+[[dialogue]]
+speaker = "リコリンフィア"
+original = "「すごくカッコよかったよ！\u3000サチお姉ちゃん♪」"
+translation = "「정말 멋있었어! 사치 언니♪」"
+
+[[dialogue]]
+speaker = "サチ"
+original = "「ありがとうございます。お２人が私に、アドバイスをくれたおかげです」"
+translation = "「감사합니다. 두 분이 저에게, 조언을 주신 덕분이에요」"
+
+[[dialogue]]
+speaker = "サチ"
+original = "「実際に暴走状態で戦ってみて、わかったんです」"
+translation = "「실제로 폭주 상태로 싸워 보고, 알게 되었어요」"
+
+[[dialogue]]
+speaker = "サチ"
+original = "「私……アンラッキーの能力も、精神が反転してしまうことも、ずっとネガティブなものだと思って、抑え込もうとしていました」"
+translation = "「저…… 언럭키의 능력도, 정신이 반전되어 버리는 것도, 계속 부정적인 것이라고 생각해서, 억누르려고만 했었어요」"
+
+[[dialogue]]
+speaker = "サチ"
+original = "「だから、リバースフォームをうまく使いこなせていなかったんだと思います」"
+translation = "「그래서, 리버스 폼을 제대로 다루지 못했던 거라고 생각해요」"
+
+[[dialogue]]
+speaker = "サチ"
+original = "「精神が反転している時……アンラッキーが起きる『予兆』みたいな感覚をなんとなく掴めるようになっていたのに……私はそのことに全然気づけていなかったんです」"
+translation = "「정신이 반전되어 있을 때…… 언럭키가 일어나는 『예조』 같은 감각을 어렴풋이 잡을 수 있게 되었는데도…… 저는 그 사실을 전혀 깨닫지 못하고 있었어요」"
+
+[[dialogue]]
+speaker = "unk"
+original = "先ほどの暴走状態のサチは、それが当たり前であるかのようにアンラッキーを逆利用し、敵を翻弄してみせた。"
+translation = "방금 전의 폭주 상태의 사치는, 그것이 당연하다는 듯이 언럭키를 역이용해, 적을 농락해 보였다."
+
+[[dialogue]]
+speaker = "サチ"
+original = "「これからは、考え方を改めて……この力と、ちゃんと向き合っていきたいと思います」"
+translation = "「앞으로는, 생각을 고쳐서…… 이 힘과, 제대로 마주해 나가고 싶어요」"
+
+[[dialogue]]
+speaker = "リコリンフィア"
+original = "「リコリンは、これからもサチお姉ちゃんの『妹仲間』だよ♪\u3000困ったことがあったら、いつでも相談してね！」"
+translation = "「리코린은, 앞으로도 사치 언니의 『여동생 동료』야♪ 곤란한 일이 있으면, 언제든 상담해 줘!」"
+
+[[dialogue]]
+speaker = "サチ"
+original = "「はい。ありがとうございます、リコリンちゃん♪」"
+translation = "「네. 고마워요, 리코린짱♪」"
+
+[[dialogue]]
+speaker = "リコリンフィア"
+original = "「――ねぇねぇ、サチお姉ちゃん♪\u3000今度はリコリンが相談してもいい？」"
+translation = "「――저기 저기, 사치 언니♪ 이번에는 리코린이 상담해도 돼?」"
+
+[[dialogue]]
+speaker = "サチ"
+original = "「はい、なんでしょう？」"
+translation = "「네, 뭔가요?」"
+
+[[dialogue]]
+speaker = "リコリンフィア"
+original = "「リコリンね、ちょっと気になってることがあって～」"
+translation = "「리코린 말이야, 조금 궁금한 게 있어서~」"
+
+[[dialogue]]
+speaker = "リコリンフィア"
+original = "「お兄ちゃんとサチお姉ちゃんが、恋人同士として２人きりの時、どんなふうに過ごしてるのか……教えてほしいな～♪」"
+translation = "「오빠랑 사치 언니가, 연인 사이로서 단둘이 있을 때, 어떤 식으로 지내는지…… 알려줬으면 좋겠어~♪」"
+
+[[dialogue]]
+speaker = "ルルカ"
+original = "「あっ、それあたしも知りた～い♪」"
+translation = "「앗, 그거 나도 알고 싶어~♪」"
+
+[[dialogue]]
+speaker = "サチ"
+original = "「えっ、えぇっ……！？\u3000そ、それはちょっと……」"
+translation = "「엣, 에엣……!? 그, 그건 좀……」"
+
+[[dialogue]]
+speaker = "リコリンフィア"
+original = "「お姉ちゃん、お願い～！\u3000うるうる……」"
+translation = "「언니, 부탁이야~! 글썽글썽……」"
+
+[[dialogue]]
+speaker = "サチ"
+original = "「う……そんな目で見られると……」"
+translation = "「우…… 그런 눈으로 보시면……」"
+
+[[dialogue]]
+speaker = "ルルカ"
+original = "「サチちゃん、あたしからもお願～い♪\u3000うるうる……♪」"
+translation = "「사치짱, 나도 부탁할게~♪ 글썽글썽……♪」"
+
+[[dialogue]]
+speaker = "サチ"
+original = "「ルルカ先輩まで！？」"
+translation = "「루루카 선배까지!?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "――その後。"
+translation = "――그 후."
+
+[[dialogue]]
+speaker = "unk"
+original = "恋愛事情について２人から根掘り葉掘り聞かれ、すっかり振り回されてしまうサチと俺なのであった。"
+translation = "연애 사정에 대해 두 사람에게 낱낱이 질문 공세를 받아, 완전히 휘둘려 버리고 마는 사치와 나였다."
+

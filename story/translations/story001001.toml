@@ -1,0 +1,245 @@
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「死神……ね」"
+translation = "「사신……이라.」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「はい。流星市国近隣で『死神を見た』という噂が広まっています。漆黒の装束をまとい、大鎌を持った人物……いわゆる死神の姿をした何者かを目撃したと」"
+translation = "「네. 유성시국 근처에서 『사신을 봤다』는 소문이 퍼지고 있습니다. 칠흑의 장속을 걸치고, 거대한 낫을 든 인물…… 이른바 사신의 모습을 한 누군가를 목격했다고 합니다.」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「流星市国のあちこちで目撃される死神……なんか不吉……」"
+translation = "「유성시국 곳곳에서 목격되는 사신…… 왠지 불길해……」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「一応聞きますけど、サーシャさんじゃないですよね？\u3000サーシャさんも黒いし大鎌使ってますけど」"
+translation = "「일단 묻겠는데, 사샤 씨는 아니죠? 사샤 씨도 검은색이고 큰 낫을 쓰잖아요.」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「違うわよ～。私、死神っぽくなんてないでしょ？」"
+translation = "「아니라구~. 나, 사신 같지는 않잖아?」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「でも戦ってる時のサーシャさんの冷たさはちょっと死神っぽいような気も……」"
+translation = "「하지만 싸울 때 사샤 씨의 차가움은 좀 사신 같은 기분도……」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「いえ。状況から考えるに、会長や前会長が先日戦った堕天使と推定するのが自然かと」"
+translation = "「아니요. 상황으로 미루어 볼 때, 회장이나 전 회장이 일전에 싸웠던 타천사라고 추정하는 것이 자연스럽습니다.」"
+
+[[dialogue]]
+speaker = "unk"
+original = "数日前、俺とヴィーナス、フィオナでフィーニスの塔を探索していた時のこと。"
+translation = "며칠 전, 나와 비너스, 피오나가 피니스의 탑을 탐색하고 있었을 때의 일."
+
+[[dialogue]]
+speaker = "unk"
+original = "そこで遭遇したのは──"
+translation = "거기서 조우한 것은──"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「くっ……強い……！」"
+translation = "「큭…… 강해……!」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「そこよ！」"
+translation = "「거기야!」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「あ、避けられた！\u3000くぅ～、すばしっこいわね！」"
+translation = "「아, 피했다! 쿠으~, 재빠르네!」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「黒いオーラに包まれて姿が捉えづらいですね……。この力、そして気配……彼女は堕天使のようです」"
+translation = "「검은 오라에 휩싸여 모습을 포착하기 어렵네요……. 이 힘, 그리고 기척…… 그녀는 타천사인 것 같습니다.」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「ですが好きにはさせません。まずは動きを止めます！」"
+translation = "「하지만 마음대로 하게 두지 않겠어요. 우선 움직임을 멈추겠습니다!」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「いい足止めよ、フィオナ！\u3000私もいくわよ──ディバインスフィア！」"
+translation = "「좋은 발묶기야, 피오나! 나도 간다── 디바인 스피어!」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「クロト！\u3000お願い！」"
+translation = "「쿠로토! 부탁해!」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「さすがクロト！\u3000堕天使も木っ端ミジンコね♪」"
+translation = "「역시 쿠로토! 타천사도 가루가 됐네♪」"
+
+[[dialogue]]
+speaker = "unk"
+original = "あまり手応えがなかったような……"
+translation = "별로 손맛이 없었던 것 같은데……"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「はい、妙にあっさりしていたような……本当に倒せたのでしょうか」"
+translation = "「네, 묘하게 허무했던 것 같은…… 정말로 쓰러뜨린 걸까요.」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「え、そう？\u3000うーん……恐れをなして逃げたのかしら」"
+translation = "「에, 그래? 으음…… 겁을 먹고 도망친 걸까.」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「ほんとに倒せてなかったのね……不覚だわ」"
+translation = "「정말로 쓰러뜨리지 못한 거네…… 불찰이야.」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「堕天使になっていたのは守護天使《試練》のパテル。守護する摂理は『淘汰』。……環境に適応できなかったものを滅する存在だそうです」"
+translation = "「타천사가 된 것은 수호천사 《시련》의 파텔. 수호하는 섭리는 『도태』. ……환경에 적응하지 못한 자를 멸하는 존재라고 합니다.」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「滅する……当然殺すって意味よね」"
+translation = "「멸한다…… 당연히 죽인다는 뜻이겠지.」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「つまり本物の死神ってことね～」"
+translation = "「즉 진짜 사신이라는 거네~」"
+
+[[dialogue]]
+speaker = "unk"
+original = "堕天使……死神……"
+translation = "타천사…… 사신……"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「その堕天使は逃げて何をしようとしているんだろ……？\u3000前は暴れるだけだったのに」"
+translation = "「그 타천사는 도망쳐서 뭘 하려는 걸까……? 전에는 난동만 피웠는데.」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「死神であるからには、あの世に連れていく人を探しているのかしら～？」"
+translation = "「사신인 이상, 저세상으로 데려갈 사람을 찾고 있는 걸까나~?」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「うう……怖い……」"
+translation = "「으으…… 무서워……」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「詳しいことは不明です。今はおとなしくしてるようですが、野放しにしておくわけにはいきません」"
+translation = "「자세한 것은 불명입니다. 지금은 얌전히 있는 것 같습니다만, 방치해 둘 수는 없습니다.」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「ええ！\u3000早く見つけて今度こそ正気に戻してあげるわ！」"
+translation = "「응! 빨리 찾아서 이번에야말로 제정신으로 돌려줄 거야!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "そうして星徒会は堕天使パテルの捜索を開始。"
+translation = "그리하여 성도회는 타천사 파텔의 수색을 개시."
+
+[[dialogue]]
+speaker = "unk"
+original = "しかしパトロールの途中でモンスターと遭遇し、戦闘に突入した。"
+translation = "하지만 순찰 도중 몬스터와 조우하여 전투에 돌입했다."
+
+[[dialogue]]
+speaker = "イグニック"
+original = "「イィィイイイイッ！」"
+translation = "「이이이이이이익!」"
+
+[[dialogue]]
+speaker = "女の子"
+original = "「きゃあああっ！？」"
+translation = "「꺄아아악!?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "危ない！"
+translation = "위험해!"
+
+[[dialogue]]
+speaker = "女の子"
+original = "「ありがとう、お兄ちゃん！」"
+translation = "「고마워, 오빠!」"
+
+[[dialogue]]
+speaker = "？？？"
+original = "「……」"
+translation = "「……」"
+
+[[dialogue]]
+speaker = "？？？"
+original = "「ん？\u3000ああ、あたしのことは気にせず続けて続けて。ほら、またお客さん来てるよ」"
+translation = "「응? 아, 나는 신경 쓰지 말고 계속해 계속. 봐, 또 손님 왔어.」"
+
+[[dialogue]]
+speaker = "ダークキングフワッチ"
+original = "「ーーーーーッ！！」"
+translation = "「────────!!」"
+
+[[dialogue]]
+speaker = "？？？"
+original = "「そいつで最後みたいだから頑張ってね～」"
+translation = "「그 녀석이 마지막인 것 같으니까 힘내~」"
+
+[[dialogue]]
+speaker = "？？？"
+original = "「やーお疲れさまー。虫歯のカバみたいな暴れっぷりだったね」"
+translation = "「야- 수고했어. 충치 생긴 하마 같은 난동이었네.」"
+
+[[dialogue]]
+speaker = "unk"
+original = "どうして見ているだけだったんだ？"
+translation = "왜 보고만 있었던 거야?"
+
+[[dialogue]]
+speaker = "？？？"
+original = "「あの女の子を助けられたのにって？\u3000ん～、そだなー……」"
+translation = "「그 여자애를 구할 수 있었는데 말이냐고? 음~, 그러게나 말이지~……」"
+
+[[dialogue]]
+speaker = "？？？"
+original = "「たとえばさ、あたしが助けた猫がネズミを殺したら、あたしがネズミを殺したことにならない？\u3000だからあんまり手出ししたくないんだよねー」"
+translation = "「예를 들어 말이야, 내가 구한 고양이가 쥐를 죽이면, 내가 쥐를 죽인 게 되지 않아? 그래서 별로 간섭하고 싶지 않거든.」"
+
+[[dialogue]]
+speaker = "？？？"
+original = "「ハハ、よくわかんないって顔してるね、おにーさん♪」"
+translation = "「하하, 잘 모르겠다는 얼굴이네, 오빠♪」"
+
+[[dialogue]]
+speaker = "？？？"
+original = "「──って、あそっか、この制服着てるのにって話か。ほらあれ、あたしプリなんとか……プリンステーキじゃないし」"
+translation = "「──아 맞다, 이 교복을 입고 있는데 무슨 소리냐는 건가. 저기 그게, 나는 프리 뭐시기…… 프린스 스테이크 같은 게 아니니까.」"
+
+[[dialogue]]
+speaker = "？？？"
+original = "「縁があったらまた会おうね。シーユー♪」"
+translation = "「인연이 있으면 또 보자. 씨 유♪」"
+
+[[dialogue]]
+speaker = "unk"
+original = "不思議な子だったな……"
+translation = "신기한 아이였네……"
+
+[[dialogue]]
+speaker = "unk"
+original = "その後パトロールを続けるも、堕天使パテルは発見できなかったのだった。"
+translation = "그 후 순찰을 계속했지만, 타천사 파텔은 발견하지 못했다."
+

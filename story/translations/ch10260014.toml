@@ -1,0 +1,230 @@
+[[dialogue]]
+speaker = "unk"
+original = "第４話,曇りのちラディアントブルー,P"
+translation = "제4화, 흐린 뒤 라디안트 블루, P"
+
+[[dialogue]]
+speaker = "unk"
+original = "──これまで毎日のように絡んできていたリーリアが、ある日を境に１週間も顔を見せていない。"
+translation = "──지금까지 매일같이 얽혀오던 리리아가 어느 날을 기점으로 일주일 동안이나 모습을 보이지 않고 있다."
+
+[[dialogue]]
+speaker = "unk"
+original = "心配になって探していると、空き教室で窓の外を眺めている彼女の姿を見つけた。"
+translation = "걱정되어 찾고 있자니, 빈 교실에서 창밖을 바라보고 있는 그녀의 모습을 발견했다."
+
+[[dialogue]]
+speaker = "リーリア"
+original = "「はぁ……」"
+translation = "「하아……」"
+
+[[dialogue]]
+speaker = "リーリア"
+original = "「……って、あれ？\u3000センパイじゃないですか」"
+translation = "「……어라? 선배 아니에요」"
+
+[[dialogue]]
+speaker = "リーリア"
+original = "「こんな校舎の端っこまで、何か星徒会の用事でも？」"
+translation = "「이런 교사 구석까지 무슨 성도회 일이라도?」"
+
+[[dialogue]]
+speaker = "リーリア"
+original = "「え……私のことを探していた、んですか？\u3000センパイが……？」"
+translation = "「에…… 저를 찾고 있었던, 건가요? 선배가……?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "何かあったのか？"
+translation = "무슨 일 있었어?"
+
+[[dialogue]]
+speaker = "リーリア"
+original = "「……あー－いや、実はちょっと、頭冷やせってある人に言われて。それで１週間、自分を見つめ直してた感じです」"
+translation = "「……아── 아니, 사실 좀 머리 좀 식히라고 어떤 사람한테 들어서요. 그래서 일주일 동안 자신을 되돌아보고 있었던 느낌이에요」"
+
+[[dialogue]]
+speaker = "リーリア"
+original = "「でも、私はまだ、考えを改める気になれなくて。これからどうしたものかな～って……ちょっと途方に暮れてたところです」"
+translation = "「하지만 저는 아직 생각을 고칠 마음이 안 생겨서. 앞으로 어떻게 해야 하나~ 하고…… 좀 막막해하던 참이었어요」"
+
+[[dialogue]]
+speaker = "unk"
+original = "リーリアさえよければ、相談に乗るぞ？"
+translation = "리리아만 괜찮다면 상담해 줄게?"
+
+[[dialogue]]
+speaker = "リーリア"
+original = "「…………」"
+translation = "「…………」"
+
+[[dialogue]]
+speaker = "リーリア"
+original = "「……例えば。例えばですよ？\u3000センパイ……」"
+translation = "「……예를 들어. 예를 들어서 말이에요? 선배……」"
+
+[[dialogue]]
+speaker = "リーリア"
+original = "「私が……世界を救おうとしてる、『悪』の秘密結社エージェントだったりしたら、どうしますか？」"
+translation = "「제가…… 세계를 구하려고 하는 『악』의 비밀결사 에이전트 같은 거라면 어떻게 할 거예요?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "世界を救おうとしてるのに、悪なのか？"
+translation = "세계를 구하려고 하는데 악인 거야?"
+
+[[dialogue]]
+speaker = "リーリア"
+original = "「ええ、まあ。……大を救う為なら、小は切り捨てるという方針の組織なので、私からすれば、やっぱり『悪』だと思いますね」"
+translation = "「네, 뭐. ……대(大)를 구하기 위해서라면 소(小)는 버린다는 방침의 조직이라서, 제가 보기엔 역시 『악』이라고 생각하거든요」"
+
+[[dialogue]]
+speaker = "リーリア"
+original = "「それで、私は今回、直属の上司にとある上申をしたわけです」"
+translation = "「그래서 저는 이번에 직속 상사에게 어떤 건의를 했어요」"
+
+[[dialogue]]
+speaker = "リーリア"
+original = "「学園と秘密結社が協力関係を結べば、小を切り捨てずとも、世界を救えるんじゃないか──」"
+translation = "「학원과 비밀결사가 협력 관계를 맺으면 소를 버리지 않고도 세계를 구할 수 있지 않을까──」"
+
+[[dialogue]]
+speaker = "リーリア"
+original = "「いつまでも監視ばっかりしてないで、その分の時間を信頼関係構築に当てた方がいいんじゃないか……ってね」"
+translation = "「언제까지 감시만 하지 말고 그만큼의 시간을 신뢰 관계 구축에 쓰는 게 좋지 않을까…… 하고요」"
+
+[[dialogue]]
+speaker = "リーリア"
+original = "「ところが、その上司というのが、組織の方針を体現するようなクールな人でして。淡々と怒られたわけです。曰く──」"
+translation = "「그런데 그 상사라는 사람이 조직의 방침을 체현하는 듯한 쿨한 사람이라서요. 담담하게 혼났지 뭐예요. 말하기를──」"
+
+[[dialogue]]
+speaker = "リーリア"
+original = "「学園や、切り捨てることになるかもしれない『小』に、私情を挟んでいるのではないか……とのことで」"
+translation = "「학원이나 버리게 될지도 모르는 『소』에 사사로운 감정을 품고 있는 게 아니냐……라더군요」"
+
+[[dialogue]]
+speaker = "リーリア"
+original = "「で、任務を正しく遂行できていないから頭を冷やせと、１週間の謹慎を言い渡されたわけです」"
+translation = "「그래서 임무를 제대로 수행하지 못하고 있으니 머리 좀 식히라고 일주일간 근신 처분을 받은 거예요」"
+
+[[dialogue]]
+speaker = "unk"
+original = "リーリア、それって……"
+translation = "리리아, 그거……"
+
+[[dialogue]]
+speaker = "リーリア"
+original = "「……な～んてね！\u3000まあ全部作り話なんですけど☆\u3000あはは♪」"
+translation = "「……라든가 말이죠! 뭐 전부 지어낸 이야기지만요☆ 아하하♪」"
+
+[[dialogue]]
+speaker = "リーリア"
+original = "「本当はちょっと友達と喧嘩して、ギスってた気持ちを癒してただけです☆」"
+translation = "「사실은 좀 친구랑 싸워서 가라앉은 기분을 달래고 있었을 뿐이에요☆」"
+
+[[dialogue]]
+speaker = "リーリア"
+original = "「もしかして信じちゃいましたか？\u3000センパイってば、なんだかんだ言って私のこと好きすぎですもんね～♪」"
+translation = "「혹시 믿어버렸나요? 선배는 정말이지 저를 너무 좋아한다니까요~♪」"
+
+[[dialogue]]
+speaker = "unk"
+original = "そっか、作り話か"
+translation = "그렇구나, 지어낸 이야기구나"
+
+[[dialogue]]
+speaker = "リーリア"
+original = "「ええ。私が本当にスパイだったりしたら、格好良かったんですけどね～」"
+translation = "「네. 제가 정말 스파이 같은 거였다면 멋있었을 텐데 말이죠~」"
+
+[[dialogue]]
+speaker = "リーリア"
+original = "「残念ながら、私は世界一可愛いだけが取り柄の、しがないセンパイの後輩なので☆」"
+translation = "「안타깝게도 저는 세계에서 제일 귀여운 것만이 장점인 보잘것없는 선배의 후배라서☆」"
+
+[[dialogue]]
+speaker = "unk"
+original = "でも、仮にリーリアがスパイだったとしても、安心したよ"
+translation = "하지만 만약 리리아가 스파이였다고 해도 안심했어"
+
+[[dialogue]]
+speaker = "リーリア"
+original = "「え？」"
+translation = "「에?」"
+
+[[dialogue]]
+speaker = "リーリア"
+original = "「センパイ、それってどういう──」"
+translation = "「선배, 그게 무슨──」"
+
+[[dialogue]]
+speaker = "unk"
+original = "リーリアは俺たちを裏切らないってことだ"
+translation = "리리아는 우리를 배신하지 않을 거라는 뜻이야"
+
+[[dialogue]]
+speaker = "unk"
+original = "利害一致してるなら、"
+translation = "이해관계가 일치한다면,"
+
+[[dialogue]]
+speaker = "リーリア"
+original = "「な……」"
+translation = "「나……」"
+
+[[dialogue]]
+speaker = "リーリア"
+original = "「ふ……ふふっ……」"
+translation = "「후…… 후훗……」"
+
+[[dialogue]]
+speaker = "リーリア"
+original = "「……なんか、ちょっとだけわかった気がします」"
+translation = "「……왠지 조금은 알 것 같은 기분이 들어요」"
+
+[[dialogue]]
+speaker = "リーリア"
+original = "「何を……って、センパイが実は、超マジカルおバカな人だってことをです」"
+translation = "「뭐를…… 이라니, 선배가 사실은 엄청 매지컬하게 바보 같은 사람이라는 걸요」"
+
+[[dialogue]]
+speaker = "unk"
+original = "いきなり酷くない！？"
+translation = "갑자기 너무하네!?"
+
+[[dialogue]]
+speaker = "リーリア"
+original = "「あ～、何かセンパイと話してたら、落ち込んでるのがバカらしくなってきちゃいました！」"
+translation = "「아~ 왠지 선배랑 얘기하니까 우울해하던 게 바보 같아졌어요!」"
+
+[[dialogue]]
+speaker = "リーリア"
+original = "「私、いまとてもパフェが食べたい気分です☆」"
+translation = "「저 지금 너무 파페가 먹고 싶은 기분이에요☆」"
+
+[[dialogue]]
+speaker = "リーリア"
+original = "「センパイに朗報です♪\u3000世界一可愛い後輩に、パフェを餌付けする権利をあげます。あはっ☆\u3000利害が一致しますね？」"
+translation = "「선배에게 낭보입니다♪ 세계에서 제일 귀여운 후배에게 파페를 먹여줄 권리를 드릴게요. 아핫☆ 이해관계가 일치하네요?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "それで利害一致するのか？"
+translation = "그걸로 이해관계가 일치하는 거야?"
+
+[[dialogue]]
+speaker = "リーリア"
+original = "「ええ、もちろん──」"
+translation = "「네, 물론이죠──」"
+
+[[dialogue]]
+speaker = "リーリア"
+original = "「私、ウィンウィンな関係が好きなんで♪」"
+translation = "「전 윈윈인 관계를 좋아하거든요♪」"
+
+[[dialogue]]
+speaker = "unk"
+original = "すっかり元気を取り戻したリーリアは、そう言って晴れやかな笑顔を見せるのだった。"
+translation = "말끔히 기운을 되찾은 리리아는 그렇게 말하며 화사한 미소를 짓는 것이었다."
+

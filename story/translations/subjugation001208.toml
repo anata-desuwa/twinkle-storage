@@ -1,0 +1,325 @@
+[[dialogue]]
+speaker = "unk"
+original = "アーネストのライブが、白紙に……！？"
+translation = "어니스트의 라이브가 백지화……!?"
+
+[[dialogue]]
+speaker = "レミカ"
+original = "「……ごめん。昨日の夜に……ポラリスプロダクションの社長から連絡があって……」"
+translation = "「……미안해. 어제 밤에…… 폴라리스 프로덕션 사장님한테 연락이 왔어……」"
+
+[[dialogue]]
+speaker = "レミカ"
+original = "「詳しい話を聞いたら、つい最近、別の芸能事務所で似たようなライブがあったみたい」"
+translation = "「자세한 이야기를 들어보니 아주 최근에 다른 연예 기획사에서 비슷한 라이브가 있었나 봐」"
+
+[[dialogue]]
+speaker = "レミカ"
+original = "「要するに、『カワイイ』系のアイドルが、一度もやったことのない『クール』系の路線でライブにチャレンジしたらしくて……」"
+translation = "「요컨대 『귀여운』 계열 아이돌이 한 번도 해본 적 없는 『쿨』 계열 노선으로 라이브에 도전했나 봐……」"
+
+[[dialogue]]
+speaker = "レミカ"
+original = "「その人のライブ、思いっきり大コケしちゃったみたい。今ＳＮＳでお祭りみたいに炎上してて……」"
+translation = "「그 사람 라이브가 아주 시원하게 망해버렸대. 지금 SNS에서 난리가 나서 불타고 있고……」"
+
+[[dialogue]]
+speaker = "レミカ"
+original = "「こんなライブ見たくなかった。誰得なんだよこれ──みたいなのがずら～っと並んでるみたい……」"
+translation = "「이런 라이브 보고 싶지 않았다. 대체 누구 좋으라고 한 거냐── 같은 글이 주르륵 올라오나 봐……」"
+
+[[dialogue]]
+speaker = "レミカ"
+original = "「社長、完全にびびっちゃってさ。稼ぎ頭の私に大コケされたら困るからって……予定してた会場も全部白紙。キャンセルされちゃった」"
+translation = "「사장님이 완전히 겁을 먹어버렸어. 수익원인 내가 크게 실패하면 곤란하다면서…… 예정했던 공연장도 전부 백지. 취소됐어」"
+
+[[dialogue]]
+speaker = "レミカ"
+original = "「私がしたいだけならゲリラのライブもありなんだろうけど……今まで本当に、すごくよくしてくれた社長だから……裏切れないし……」"
+translation = "「나만 하고 싶은 거라면 게릴라 라이브라도 하겠지만…… 지금까지 정말 잘해주셨던 사장님이라…… 배신할 수 없고……」"
+
+[[dialogue]]
+speaker = "メルエル"
+original = "「レミカちゃん……」"
+translation = "「레미카짱……」"
+
+[[dialogue]]
+speaker = "レミカ"
+original = "「２人とも、本当にごめん……。こんなことになっちゃって……たくさん練習、付き合ってもらったのに」"
+translation = "「둘 다 정말 미안해……. 이런 일이 생겨서…… 연습도 많이 도와줬는데」"
+
+[[dialogue]]
+speaker = "unk"
+original = "レミカ……"
+translation = "레미카……"
+
+[[dialogue]]
+speaker = "レミカ"
+original = "「もう少しで……昔からの夢が叶えられるって、思ってたんだけどなー……あは。まあしょうがない、のかな……」"
+translation = "「조금만 더 있으면…… 옛날부터 꿈꾸던 게 이뤄질 수 있을 거라 생각했는데 말이야─ 아하. 뭐 어쩔 수 없나……」"
+
+[[dialogue]]
+speaker = "レミカ"
+original = "「企業が絡んだら当然、大人の事情ってやつもあるし……諦めるしか……」"
+translation = "「기업이 얽히면 당연히 어른들의 사정이라는 게 있으니까…… 포기할 수밖에……」"
+
+[[dialogue]]
+speaker = "メルエル"
+original = "「……ダメだよ、そんなの！」"
+translation = "「……안 돼, 그런 건!」"
+
+[[dialogue]]
+speaker = "メルエル"
+original = "「練習やろう、レミカちゃん！\u3000諦めちゃダメだよ。中止になったのは、今度のライブだけでしょ……！？」"
+translation = "「연습하자, 레미카짱! 포기하면 안 돼. 취소된 건 이번 라이브뿐이잖아……!?」"
+
+[[dialogue]]
+speaker = "メルエル"
+original = "「社長さんだってレミカちゃんの想いはわかってるよ！\u3000今だって何とか開催しようと努力してくれてるはず……！」"
+translation = "「사장님도 레미카짱의 마음은 알고 있을 거야! 지금도 어떻게든 개최하려고 노력해 주시고 계실 텐데……!」"
+
+[[dialogue]]
+speaker = "メルエル"
+original = "「だったらアイドルの私たちは、いつでもライブできるようにしておかないと！」"
+translation = "「그렇다면 아이돌인 우리는 언제든 라이브 할 수 있게 준비해둬야지!」"
+
+[[dialogue]]
+speaker = "レミカ"
+original = "「メルエル……」"
+translation = "「메르엘……」"
+
+[[dialogue]]
+speaker = "メルエル"
+original = "「ほら、衣装に着替えて！\u3000今日もいつもどおり練習しよ！」"
+translation = "「자, 의상 갈아입고! 오늘도 평소처럼 연습하자!」"
+
+[[dialogue]]
+speaker = "レミカ"
+original = "「…………うん。変身……！」"
+translation = "「…………응. 변신……!」"
+
+[[dialogue]]
+speaker = "レミカ"
+original = "「あ、れ……？」"
+translation = "「어, 라……?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "何も、起きない……？"
+translation = "아무 일도 일어나지 않아……?"
+
+[[dialogue]]
+speaker = "レミカ"
+original = "「……ごめん。今メルエルが言ってくれた言葉……『そうだね』って思ってない自分がいるんだと思う」"
+translation = "「……미안. 방금 메르엘이 해준 말…… 『그렇네』라고 생각하지 않는 내가 있는 것 같아」"
+
+[[dialogue]]
+speaker = "レミカ"
+original = "「うちの社長って優しい人だけど、会社の……従業員をよく守る人だってわかってるから……」"
+translation = "「우리 사장님은 다정한 분이지만 회사의…… 직원들을 잘 지키는 분이라는 걸 아니까……」"
+
+[[dialogue]]
+speaker = "レミカ"
+original = "「今回のライブのリスクを考えたら、たぶん……『すまないけど我慢してくれ』って言うと、思うんだよね……」"
+translation = "「이번 라이브의 리스크를 생각하면 아마…… 『미안하지만 참아줘』라고 하실 것 같거든……」"
+
+[[dialogue]]
+speaker = "レミカ"
+original = "「本当に、ごめん……」"
+translation = "「정말 미안해……」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「そんな……中止だなんて。あ、あんなに頑張ってたのに……」"
+translation = "「세상에…… 중지라니. 그렇게나 열심히 했었는데……」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「大企業だからこそリスクを取りたくないのもわかりますが、あまりに酷です……」"
+translation = "「대기업이라 리스크를 감수하고 싶지 않은 건 알겠지만 너무 가혹합니다……」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「そうね……って、ヴィーナスちゃん。さっきからＤＩＳＣで何を調べてるの？」"
+translation = "「그러게…… 어라, 비너스짱. 아까부터 DISC로 뭘 알아보고 있는 거야?」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「あったま来ちゃったからポラプロの本社ビルの場所を調べてるの！\u3000社長にゴッデスビームをぶちこんで気合いを入れてやるわ！」"
+translation = "「머리 끝까지 화가 나서 폴라프로 본사 빌딩 위치를 찾고 있어! 사장에게 고데스 빔을 쏴서 정신을 차리게 해주겠어!」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「それは本当にダメなやつだよ！？」"
+translation = "「그건 정말로 안 되는 거야!?」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「どうするの、会長くん？」"
+translation = "「어떻게 할 거야, 회장군?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "諦めたくはないですけど……"
+translation = "포기하고 싶지는 않습니다만……"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「しかし事務所が許可しないのであれば、打つ手はありません」"
+translation = "「하지만 사무소에서 허가하지 않는다면 방법이 없습니다」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「だよね。学生の私たちにできることなんてあるのかな……会長、どうしよう？」"
+translation = "「그치. 학생인 우리가 할 수 있는 게 있을까…… 회장, 어쩌지?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "──ちょっと考えてくる"
+translation = "──잠깐 생각 좀 하고 올게"
+
+[[dialogue]]
+speaker = "unk"
+original = "──芸能事務所からストップをかけられてしまったアーネストのライブ。どうすればいいのだろう。"
+translation = "──연예 기획사로부터 중단 명령을 받은 어니스트의 라이브. 어떻게 하면 좋을까."
+
+[[dialogue]]
+speaker = "unk"
+original = "レミカの夢を叶え、メルエルの努力を無駄にせず、そしてポラプロの社長にも納得してもらえるライブ開催の方法……"
+translation = "레미카의 꿈을 이뤄주고 메르엘의 노력을 헛되이 하지 않으며, 폴라프로 사장님도 납득시킬 수 있는 라이브 개최 방법……"
+
+[[dialogue]]
+speaker = "unk"
+original = "悩みながら歩く俺の元へ、声が聞こえてきた。"
+translation = "고민하며 걷던 내 곁으로 목소리가 들려왔다."
+
+[[dialogue]]
+speaker = "メルエル"
+original = "「１、２、３、４っ！\u3000５、６、７、８っ！」"
+translation = "「원, 투, 쓰리, 포! 파이브, 식스, 세븐, 에잇!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "この声は……？"
+translation = "이 목소리는……?"
+
+[[dialogue]]
+speaker = "メルエル"
+original = "「ふぅっ──こんな感じかな。ちょっと休憩……！」"
+translation = "「후우── 이런 느낌이려나. 잠깐 휴식……!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "メルエル？"
+translation = "메르엘?"
+
+[[dialogue]]
+speaker = "メルエル"
+original = "「わわっ！？\u3000会長くん！？\u3000い、いつからいたのっ？」"
+translation = "「와왓!? 회장군!? 어, 언제부터 있었어?」"
+
+[[dialogue]]
+speaker = "メルエル"
+original = "「ちょっと前からって……あわわ、恥ずかしいっ……！」"
+translation = "「조금 전부터라니…… 아와와, 창피해……!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "練習、してたんだな"
+translation = "연습하고 있었구나"
+
+[[dialogue]]
+speaker = "メルエル"
+original = "「うん。あんなことになっちゃったけど、まだ諦めきれなくって……もやもやした気持ちを吹き飛ばすには、身体を動かすのが一番だし」"
+translation = "「응. 그렇게 돼버렸지만 아직 포기가 안 돼서…… 답답한 마음을 날려버리는 데는 몸을 움직이는 게 최고니까」"
+
+[[dialogue]]
+speaker = "unk"
+original = "メルエルは強いんだな"
+translation = "메르엘은 강하구나"
+
+[[dialogue]]
+speaker = "メルエル"
+original = "「そんなことないけど……えへ。私、諦めないことだけは昔から得意なんだ」"
+translation = "「그렇지 않지만…… 에헤. 나, 포기하지 않는 것만큼은 옛날부터 자신 있거든」"
+
+[[dialogue]]
+speaker = "メルエル"
+original = "「身体を動かしながら色々考えてるんだよ。レミカちゃんと一緒に、ポラプロの社長さんに練習風景を見てもらったらどうかなー、とか」"
+translation = "「몸을 움직이면서 이런저런 생각을 하고 있어. 레미카짱이랑 같이 폴라프로 사장님께 연습 풍경을 보여드리면 어떨까─ 하고」"
+
+[[dialogue]]
+speaker = "メルエル"
+original = "「きっと不安になってるだけだと思うの。アーネストがとっても魅力的なユニットだって伝われば……」"
+translation = "「분명 불안해서 그러시는 걸 거야. 어니스트가 정말 매력적인 유닛이라는 게 전해지면……」"
+
+[[dialogue]]
+speaker = "メルエル"
+original = "「──って、やっぱり難しいかな……？」"
+translation = "「──라지만 역시 어려우려나……?」"
+
+[[dialogue]]
+speaker = "メルエル"
+original = "「でもやっぱり何もせずに諦めたくないよ！\u3000辛い時こそ、笑わなきゃ！」"
+translation = "「하지만 역시 아무것도 안 하고 포기하고 싶지 않아! 힘들 때일수록 웃어야지!」"
+
+[[dialogue]]
+speaker = "メルエル"
+original = "「それに！\u3000明日は新星学園のオープンキャンパスでしょ？\u3000このまま暗い顔をしてたら、入学希望の子たちもがっかりしちゃうよ。笑顔、笑顔！」"
+translation = "「게다가! 내일은 신성학원 오픈 캠퍼스잖아? 이대로 어두운 얼굴을 하고 있으면 입학하고 싶은 아이들도 실망할 거야. 웃자, 웃어!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "オープンキャンパスだ！"
+translation = "오픈 캠퍼스다!"
+
+[[dialogue]]
+speaker = "unk"
+original = "──そうか"
+translation = "──그렇군"
+
+[[dialogue]]
+speaker = "メルエル"
+original = "「わわっ、会長くん、どうしたの……えっ、アイデアが閃いた……！？」"
+translation = "「와왓, 회장군, 왜 그래…… 엣, 아이디어가 떠올랐어……!?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "やってみる価値はある……！"
+translation = "해볼 가치는 있어……!"
+
+[[dialogue]]
+speaker = "unk"
+original = "できるかどうかわからないけど"
+translation = "될지 어떨지는 모르겠지만"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「正気ですか、会長……？」"
+translation = "「정신 나갔습니까, 회장님……?」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「あらあら、うふふ♪\u3000面白くなってきたわね～♪」"
+translation = "「어머어머, 우후후♪ 재미있어지겠네~♪」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「いいアイデアだと思うわ！\u3000そうと決まれば、行動開始ね！」"
+translation = "「좋은 아이디어라고 생각해! 그렇게 결정됐으면 바로 행동 개시야!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "そうして俺は、この計画の成功のカギとなる人物へ電話をかけることにした。"
+translation = "그렇게 나는 이 계획 성공의 열쇠가 될 인물에게 전화를 걸기로 했다."
+
+[[dialogue]]
+speaker = "ヘレナ"
+original = "「立てばプリティ、座ればゴージャス。電話越しでもラブリーキュートなヘレナちゃんだ。魔王から電話とは珍しい」"
+translation = "「서면 프리티, 앉으면 고져스. 전화 너머로도 러블리 큐트한 헬레나짱이다. 마왕이 전화를 다 하다니 드문 일이군」"
+
+[[dialogue]]
+speaker = "ヘレナ"
+original = "「要件は何だ。面白いことであったなら嬉しいが……ほう、ほう……♪」"
+translation = "「용건은 뭐냐. 재미있는 일이라면 좋겠다만…… 호오, 호오……♪」"
+

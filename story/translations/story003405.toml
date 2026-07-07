@@ -1,0 +1,225 @@
+[[dialogue]]
+speaker = "蛍火"
+original = "「実は……カフェテリアでも気になる事件が起きているんです」"
+translation = "「실은…… 카페테리아에서도 신경 쓰이는 사건이 일어나고 있어요」"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「食材がなくなったり、作ったはずの料理が消えてしまったりする感じでしょうか！？」"
+translation = "「식재료가 없어지거나 만들었어야 할 요리가 사라지거나 하는 느낌인가요!?」"
+
+[[dialogue]]
+speaker = "蛍火"
+original = "「それだけなら、まだ良かったのですが……実は──」"
+translation = "「그것뿐이라면 차라리 나았겠지만…… 실은──」"
+
+[[dialogue]]
+speaker = "unk"
+original = "カフェテリアの被害は食材や料理の他に、スプーンやフォーク、お皿などの食器類にまで及んでいるらしい。"
+translation = "카페테리아의 피해는 식재료나 요리 외에도 스푼이나 포크, 접시 등의 식기류에까지 미치고 있는 모양이다."
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「う～ん。事件の報告件数も増えてきて、『ちょっとした気のせい』とかではない感じになってきてしまっているのです～」"
+translation = "「으음. 사건 보고 건수도 늘어나서 『단순한 기분 탓』 같은 게 아닌 느낌이 되어버렸어요~」"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「誰が犯人なのでしょうか？\u3000ご飯がなくなるだけなら、誰かがつまみ食いしてるんじゃないかと思ってたんですけど」"
+translation = "「누가 범인일까요? 밥이 없어지는 것뿐이라면 누가 몰래 먹는 게 아닐까 생각했는데요」"
+
+[[dialogue]]
+speaker = "ラファエロ"
+original = "「金銭目当ての窃盗、ということはないかな？」"
+translation = "「금전 목적의 절도는 아닐까?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "わざわざ学園でやるかな……？"
+translation = "굳이 학원에서 그럴까……?"
+
+[[dialogue]]
+speaker = "ステラ"
+original = "「お金が目当てなら、もっと価値のあるものを狙いそうですけどね……」"
+translation = "「돈이 목적이라면 좀 더 가치 있는 걸 노릴 것 같은데 말이죠……」"
+
+[[dialogue]]
+speaker = "ラファエロ"
+original = "「価値のあるもの……つまりぼくの絵が狙われている、ということか！」"
+translation = "「가치 있는 것…… 즉 내 그림이 노려지고 있다는 건가!」"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「ラファエロさんの絵が狙われた、という報告はあがってきていないのです！」"
+translation = "「라파엘로 씨의 그림이 노려졌다는 보고는 올라오지 않았어요!」"
+
+[[dialogue]]
+speaker = "ラファエロ"
+original = "「なるほど。つまり犯人は芸術の何たるかを理解しない者、か……これは大きな手がかりかもしれないね」"
+translation = "「과연. 즉 범인은 예술이 무엇인지 이해하지 못하는 자인가…… 이건 큰 단서가 될지도 모르겠네」"
+
+[[dialogue]]
+speaker = "赤ちゃんクマロボ"
+original = "「ばぶー<emoji=heart04>」"
+translation = "「바부ー<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「あ～、ごめんなさい！\u3000お腹が空いたんですね～。すぐに食べさせてあげますからね～<emoji=heart04>」"
+translation = "「아~, 미안해요! 배가 고파졌구나~. 금방 먹여줄 테니까요~<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "unk"
+original = "赤ちゃんクマロボの鳴き声で、話し込んでしまっていた俺たちは、運ばれてきた料理を食べ始める。"
+translation = "아기 곰 로봇의 울음소리에 이야기에 열중하던 우리들은 운반되어 온 요리를 먹기 시작한다."
+
+[[dialogue]]
+speaker = "unk"
+original = "３人は順番に赤ちゃんクマロボを抱きかかえては、甲斐甲斐しく料理を食べさせていた。"
+translation = "세 사람은 번갈아 가며 아기 곰 로봇을 껴안고 지극정성으로 요리를 먹이고 있었다."
+
+[[dialogue]]
+speaker = "unk"
+original = "（うーん……）"
+translation = "(으음……)"
+
+[[dialogue]]
+speaker = "unk"
+original = "ふと、疑問が湧いてくる。"
+translation = "문득 의문이 솟구친다."
+
+[[dialogue]]
+speaker = "unk"
+original = "……結局、この『赤ちゃんクマロボ』とは一体何なのだろうか？"
+translation = "……결국 이 『아기 곰 로봇』이란 대체 무엇일까?"
+
+[[dialogue]]
+speaker = "unk"
+original = "黒ベア子が操るクマ型ロボットの赤ちゃんバージョン。"
+translation = "흑베아코가 조종하는 곰 형태 로봇의 아기 버전."
+
+[[dialogue]]
+speaker = "unk"
+original = "まるでこの子が誰かから生まれたように黒ベア子は話していたけれど……冷静に考えてみるとロボットだ。"
+translation = "마치 이 아이가 누군가로부터 태어난 것처럼 흑베아코는 말했지만…… 냉정하게 생각하면 로봇이다."
+
+[[dialogue]]
+speaker = "unk"
+original = "黒ベア子たちは大真面目にこの子の父親を捜していたけど、そもそもこの子に父親なんているのだろうか？"
+translation = "흑베아코 일행은 아주 진지하게 이 아이의 아버지를 찾고 있었지만 애초에 이 아이에게 아버지 같은 게 있기는 한 걸까?"
+
+[[dialogue]]
+speaker = "unk"
+original = "今まで深く考えていなかったけれど、この赤ちゃんクマロボは謎だらけの存在だ──"
+translation = "지금까지 깊게 생각하지 않았지만 이 아기 곰 로봇은 수수께끼투성이인 존재다──"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「はーい、それじゃ最後にルリエルがデザートを食べさせてあげますからね～<emoji=heart04>」"
+translation = "「자~, 그럼 마지막으로 루리엘이 디저트를 먹여줄게요~<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "ステラ"
+original = "「ルリエルさん、そろそろ交代の時間ですよ。デザートを食べさせる役目はボクがやりますから」"
+translation = "「루리엘 씨, 슬슬 교대할 시간이에요. 디저트를 먹이는 역할은 내가 할게요」"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「え～、もう少しだけいいじゃないですか～。ちょっとだけ延長、お願いしますよ～」"
+translation = "「에~, 조금만 더 하면 안 될까요~. 아주 잠깐만 연장 부탁드려요~」"
+
+[[dialogue]]
+speaker = "ステラ"
+original = "「う～、そんなこと言って～。ルリエルさん、ちょっとだけって言いながらずーっと抱っこしてるんですから～」"
+translation = "「우~, 그런 소리나 하고~. 루리엘 씨, 아주 잠깐이라고 하면서 계속 안고 있잖아요~」"
+
+[[dialogue]]
+speaker = "ラファエロ"
+original = "「まあまあ、延長の時間を決めればいいじゃないか」"
+translation = "「자자, 연장 시간을 정하면 되잖니」"
+
+[[dialogue]]
+speaker = "ステラ"
+original = "「そうですね……じゃ、１分延長でお願いします」"
+translation = "「그렇네요…… 그럼 1분 연장으로 부탁해요」"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「１分は短すぎます～。せめて３分、お願いします！」"
+translation = "「1분은 너무 짧아요~. 적어도 3분 부탁드려요!」"
+
+[[dialogue]]
+speaker = "ステラ"
+original = "「３分もですか～？\u3000待ちきれませんよ～」"
+translation = "「3분이나요~? 못 기다려요~」"
+
+[[dialogue]]
+speaker = "ラファエロ"
+original = "「やれやれ、２人は完全に赤ちゃんクマロボに夢中になってしまっているね」"
+translation = "「이런 이런, 두 사람은 완전히 아기 곰 로봇에게 매료되어 버렸구나」"
+
+[[dialogue]]
+speaker = "ステラ"
+original = "「えへへ、だって可愛いですから～<emoji=heart04>」"
+translation = "「에헤헤, 그치만 귀여우니까요~<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「いつまででも抱っこしていたいですよね～<emoji=heart04>」"
+translation = "「언제까지라도 안고 있고 싶단 말이에요~<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "ラファエロ"
+original = "「その気持ちはわかるよ。……いっそこの子が３体に分裂してくれれば解決するんだけどね」"
+translation = "「그 기분은 이해해. ……차라리 이 아이가 3체로 분열해 주면 해결될 텐데 말이야」"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「あはは、それはいいですね～！\u3000そしたら独り占めして、付きっ切りで可愛がれちゃうんですけど♪」"
+translation = "「아하하, 그거 좋네요~! 그러면 독차지해서 곁에 붙어 귀여워해 줄 수 있을 텐데♪」"
+
+[[dialogue]]
+speaker = "蛍火"
+original = "「あの～、すみません」"
+translation = "「저기~, 실례합니다」"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「ほぇ？\u3000蛍火先輩、どうかしましたか？」"
+translation = "「호에? 호타루비 선배님, 무슨 일인가요?」"
+
+[[dialogue]]
+speaker = "蛍火"
+original = "「この子が厨房の方に紛れ込んでしまっていたので……どうぞ」"
+translation = "「이 아이가 주방 쪽에 숨어 들어와 있어서…… 여기요」"
+
+[[dialogue]]
+speaker = "赤ちゃんクマロボＢ"
+original = "「ばぶー<emoji=heart04>」"
+translation = "「바부ー<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「…………え？」"
+translation = "「…………에?」"
+
+[[dialogue]]
+speaker = "赤ちゃんクマロボＡ"
+original = "「ばぶー<emoji=heart04>」"
+translation = "「바부ー<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "ステラ"
+original = "「…………え？」"
+translation = "「…………에?」"
+
+[[dialogue]]
+speaker = "２体の赤ちゃん"
+original = "「「ばぶー<emoji=heart04>」」"
+translation = "「「바부ー<emoji=heart04>」」"
+
+[[dialogue]]
+speaker = "全員"
+original = "「増えたーーー！！？？？」"
+translation = "「늘어났다ーーー!!???」"
+

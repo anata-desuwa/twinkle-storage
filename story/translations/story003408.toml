@@ -1,0 +1,640 @@
+[[dialogue]]
+speaker = "ルリエル"
+original = "「つ、疲れました～～～！！\u3000でも、ようやく全員……捕まえ終えたみたいなのですぅ……」"
+translation = "「드, 드디어 끝났어요~~!! 하지만 겨우 전원…… 다 잡은 모양이에요……」"
+
+[[dialogue]]
+speaker = "ステラ"
+original = "「もう……新しく現れたりしていませんし……これで終わりだと、思います……」"
+translation = "「이제…… 새로 나타나거나 하지 않고…… 이걸로 끝이라고 생각해요……」"
+
+[[dialogue]]
+speaker = "unk"
+original = "購買ではとても広さが足りない、ということで、俺たちはアリーナに移動していた。"
+translation = "구매부로는 도저히 넓이가 부족해서 우리들은 아레나로 이동해 있었다."
+
+[[dialogue]]
+speaker = "unk"
+original = "その中央には、捕まえた赤ちゃんクマロボが山のように積み上がっている。"
+translation = "그 중앙에는 붙잡은 아기 곰 로봇이 산처럼 쌓여 있다."
+
+[[dialogue]]
+speaker = "セシア"
+original = "「これでもう大丈夫かしら？」"
+translation = "「이걸로 이제 괜찮을까?」"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「はい。急にお呼びしてしまい、すみませんでした！」"
+translation = "「네. 갑자기 불러내서 죄송했습니다!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ありがとう、助かったよセシア"
+translation = "고마워, 덕분에 살았어 세시아"
+
+[[dialogue]]
+speaker = "セシア"
+original = "「気にしないで、会長。では、わたくしたちはこれで撤収するわね」"
+translation = "「신경 쓰지 마, 회장. 그럼 우리들은 이만 철수할게」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ひと仕事を終えたセシアとママ軍団は、やり切った顔で帰っていった。"
+translation = "한바탕 일을 마친 세시아와 엄마 군단은 뿌듯한 얼굴로 돌아갔다."
+
+[[dialogue]]
+speaker = "unk"
+original = "実際その助けが無かったら、とてもではないがこの量の赤ちゃんクマロボを捕まえることは出来なかっただろう。"
+translation = "실제로 그 도움이 없었다면 도저히 이 양의 아기 곰 로봇을 잡을 수는 없었을 것이다."
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「全員捕まえたはいいのですが……もしかして、次に黒ベア子さんがやってくるまで、見張り続けないといけないのでしょうか？」"
+translation = "「전부 잡은 건 좋은데…… 혹시 다음에 흑베아코 씨가 올 때까지 계속 감시해야 하는 걸까요?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "そういうことになるね……"
+translation = "그렇게 되겠지……"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「そんなぁ～！\u3000あの子、いつ帰ってくるかわからないじゃないですか～」"
+translation = "「그럴 수가~! 그 아이, 언제 돌아올지 모르잖아요~」"
+
+[[dialogue]]
+speaker = "unk"
+original = "今のところ捕まった赤ちゃんクマロボたちは大人しくしており、暴れたり逃げ出そうとする様子はない。"
+translation = "현재로서는 잡힌 아기 곰 로봇들은 얌전히 있으며 난동을 부리거나 도망치려 하는 기색은 없다."
+
+[[dialogue]]
+speaker = "unk"
+original = "だが、時間が経てばどうなるかわからないので、ちょっと怖いというのが本音だ。"
+translation = "하지만 시간이 지나면 어떻게 될지 모르기에 조금 무섭다는 게 본심이다."
+
+[[dialogue]]
+speaker = "unk"
+original = "黒ベア子には一刻も早く、赤ちゃんクマロボの山を引き取りにきてもらいたいのだが……"
+translation = "흑베아코가 한시라도 빨리 아기 곰 로봇 더미를 인수하러 와주길 바랄 뿐인데……"
+
+[[dialogue]]
+speaker = "ラファエロ"
+original = "「んん？」"
+translation = "「응?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "そんな事を考えていると、ラファエロが何かに気付いた様子で、近くの赤ちゃんクマロボの１体に近づく。"
+translation = "그런 생각을 하고 있자 라파엘로가 무언가 눈치챈 듯 근처의 아기 곰 로봇 중 한 마리에게 다가간다."
+
+[[dialogue]]
+speaker = "ラファエロ"
+original = "「これは……なんだ？」"
+translation = "「이건…… 뭐지?」"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「わ、なんだか気持ち悪いのです！\u3000赤ちゃんクマロボさんに引っ付いていたのでしょうか？」"
+translation = "「와, 왠지 징그러워요! 아기 곰 로봇 씨에게 붙어 있었던 걸까요?」"
+
+[[dialogue]]
+speaker = "ラファエロ"
+original = "「そうみたいだね」"
+translation = "「그런 것 같네」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ラファエロが摘まんでいた、謎の生き物を全員で注視する。が──"
+translation = "라파엘로가 집어 든 수수께끼의 생물을 전원이 주시한다. 하지만──"
+
+[[dialogue]]
+speaker = "クマロボ"
+original = "「クマーーー！！」"
+translation = "「쿠마ーー!!」"
+
+[[dialogue]]
+speaker = "ステラ"
+original = "「えぇえぇええぇっ！！？\u3000赤ちゃんクマロボさんが突然別のクマさんの姿に！？」"
+translation = "「에에에에에엣!!? 아기 곰 로봇 씨가 갑자기 다른 곰 씨 모습으로!?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "これは、普通のクマロボ！？"
+translation = "이건 평범한 곰 로봇!?"
+
+[[dialogue]]
+speaker = "ラファエロ"
+original = "「さっきのやつを引きはがしたから、姿が変化したように見えたね。もし、これが本来の姿だと言うのなら、つまり……」"
+translation = "「방금 그걸 떼어냈으니까 모습이 변화한 것처럼 보였네. 만약 이게 본래 모습이라고 한다면 즉……」"
+
+[[dialogue]]
+speaker = "ステラ"
+original = "「赤ちゃんクマロボさんが大量発生していた原因は、さっきの変な生き物ということになります！」"
+translation = "「아기 곰 로봇 씨가 대량 발생했던 원인은 방금 그 이상한 생물이라는 게 돼요!」"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「他の子も調べて見ましょう！」"
+translation = "「다른 아이도 조사해 보죠!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "俺たちは近くの赤ちゃんクマロボを調べようとする。しかし──"
+translation = "우리들은 근처의 아기 곰 로봇을 조사하려 한다. 그러나──"
+
+[[dialogue]]
+speaker = "赤ちゃんクマロボＡ"
+original = "「おぎゃ……おぎゃぁ……」"
+translation = "「응애…… 응애……」"
+
+[[dialogue]]
+speaker = "赤ちゃんクマロボＢ"
+original = "「おんぎゃーーーーーーっ！！！！」"
+translation = "「응애ーーーーーー!!!!」"
+
+[[dialogue]]
+speaker = "ラファエロ"
+original = "「うわぁっ！？」"
+translation = "「우와앗!?」"
+
+[[dialogue]]
+speaker = "ステラ"
+original = "「すごい鳴き声ですっ！」"
+translation = "「엄청난 울음소리예요!」"
+
+[[dialogue]]
+speaker = "大量の赤ちゃん"
+original = "「「「「おんぎゃーーーーーーっ！！！！」」」」"
+translation = "「「「「응애ーーーーーー!!!!」」」」"
+
+[[dialogue]]
+speaker = "unk"
+original = "赤ちゃんクマロボが一斉に鳴き始める。"
+translation = "아기 곰 로봇이 일제히 울기 시작한다."
+
+[[dialogue]]
+speaker = "unk"
+original = "思わず耳をふさいでいると、積み上がっていた赤ちゃんクマロボの山が、眩い光を放った。"
+translation = "나도 모르게 귀를 막고 있자 쌓여 있던 아기 곰 로봇 더미가 눈부신 빛을 내뿜었다."
+
+[[dialogue]]
+speaker = "？？？"
+original = "『おんぎゃーーーーー！！！！』"
+translation = "『응애ーーーーー!!!!』"
+
+[[dialogue]]
+speaker = "ステラ"
+original = "「きゃあっ！！」"
+translation = "「꺄악!!」"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「赤ちゃんクマロボさんが合体して、超巨大赤ちゃんクマロボさんになったのですーーー！！？」"
+translation = "「아기 곰 로봇 씨가 합체해서 초거대 아기 곰 로봇 씨가 된 거예요ーーー!!?」"
+
+[[dialogue]]
+speaker = "超巨大Ａクマロボ"
+original = "『おんぎゃーーーーー！！！！』"
+translation = "『응애ーーーーー!!!!』"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「って！\u3000このままじゃ、学園のアリーナが壊されちゃうのです！！」"
+translation = "「잠깐! 이대로라면 학원 아레나가 부서져 버리겠어요!!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ステラとラファエロは安全な所へ"
+translation = "스텔라랑 라파엘로는 안전한 곳으로"
+
+[[dialogue]]
+speaker = "unk"
+original = "ルリエル、俺たちで迎え撃とう！"
+translation = "루리엘, 우리끼리 맞서 싸우자!"
+
+[[dialogue]]
+speaker = "ステラ"
+original = "「だ、大丈夫なんですか……？」"
+translation = "「괘, 괜찮은 건가요……?」"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「お任せください！\u3000こう見えてルリエル、世界の平和を守る<ruby>星騎士<rt>スターナイト</rt></ruby>なんですから！」"
+translation = "「맡겨주세요! 이래 봬도 루리엘, 세계의 평화를 지키는 성기사니까요!」"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「変身っ！」"
+translation = "「변신!」"
+
+[[dialogue]]
+speaker = "ステラ"
+original = "「わわっ、何だかとっても頼もしいです！」"
+translation = "「와왓, 왠지 무척 든든해요!」"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「ふふふ♪\u3000では行きましょう、会長さん！\u3000突撃ぃ～～～～～っ！！！」"
+translation = "「후후후♪ 그럼 가요, 회장님! 돌격어어어어억!!!」"
+
+[[dialogue]]
+speaker = "超巨大Ａクマロボ"
+original = "『バーーーーーブーーーーー！！！！』"
+translation = "『바부우우우우우!!!!』"
+
+[[dialogue]]
+speaker = "ラファエロ"
+original = "「あ……」"
+translation = "「아……」"
+
+[[dialogue]]
+speaker = "ステラ"
+original = "「簡単に吹っ飛ばされちゃいました……」"
+translation = "「간단히 날아가 버렸네요……」"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「ふふふ、なかなかやるじゃないですか……ですが、星騎士は決して挫けないのです！\u3000リメンバー突撃ーーーっ！！！」"
+translation = "「후후후, 제법 하잖아요…… 하지만 성기사는 결코 꺾이지 않아요! 리멤버 돌격어어어억!!!」"
+
+[[dialogue]]
+speaker = "超巨大Ａクマロボ"
+original = "『バブーーーーー！！！！』"
+translation = "『바부우우우우!!!!』"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「ひょえぇええええっ！！！！」"
+translation = "「효에에에에에에엣!!!!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "だ、大丈夫か……？"
+translation = "괘, 괜찮냐……?"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「会長さぁん……じぇんじぇん歯が立ちませ～ん……」"
+translation = "「회장니이임…… 저어어언혀 상대가 안 돼요~……」"
+
+[[dialogue]]
+speaker = "unk"
+original = "無茶な突撃はしないで"
+translation = "무모한 돌격은 하지 마"
+
+[[dialogue]]
+speaker = "unk"
+original = "ルリエルはサポーターなんだから"
+translation = "루리엘은 서포터니까"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「わかりましたぁ～～～」"
+translation = "「알겠습니다아아아~~」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ルリエルを後ろに下がらせ、巨大化した赤ちゃんクマロボと対峙する。"
+translation = "루리엘을 뒤로 물러나게 하고 거대화한 아기 곰 로봇과 대치한다."
+
+[[dialogue]]
+speaker = "unk"
+original = "……ぱっと見、ふざけた姿をしているけれど……どうやら強敵のようだ……"
+translation = "……겉보기엔 장난스러운 모습이지만…… 아무래도 강적인 모양이다……"
+
+[[dialogue]]
+speaker = "unk"
+original = "こうしてにらみ合っているだけで、巨体から漂う圧力に汗が滲んでしまう。"
+translation = "이렇게 노려보고 있는 것만으로도 거구에서 풍기는 압력에 땀이 배어 나온다."
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「か、会長さん、頑張ってください！」"
+translation = "「회, 회장님, 힘내세요!」"
+
+[[dialogue]]
+speaker = "ラファエロ"
+original = "「くそっ……こっちの世界でも力が使えれば、ぼくも戦いに参加できるのに……」"
+translation = "「젠장…… 이쪽 세계에서도 힘을 쓸 수 있다면 나도 전투에 참가할 수 있을 텐데……」"
+
+[[dialogue]]
+speaker = "ステラ"
+original = "「ボクも、もっと花騎士の力が使えれば……。でも、この世界では世界花の力も届きませんし……」"
+translation = "「나도 좀 더 꽃의 기사의 힘을 쓸 수 있다면……. 하지만 이 세계에서는 세계화의 힘도 닿지 않고……」"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「っ……！\u3000この穴はっ……！」"
+translation = "「윽……! 이 구멍은……!」"
+
+[[dialogue]]
+speaker = "黒ベア子"
+original = "「お待ちどうさまだくま！」"
+translation = "「기다리게 했다곰!」"
+
+[[dialogue]]
+speaker = "ステラ"
+original = "「黒ベア子さん！」"
+translation = "「흑베아코 씨!」"
+
+[[dialogue]]
+speaker = "ラファエロ"
+original = "「丁度いいところに！\u3000あいつを何とかしてくれないかい！？」"
+translation = "「마침 좋은 때에! 저 녀석을 어떻게든 해주지 않겠니!?」"
+
+[[dialogue]]
+speaker = "黒ベア子"
+original = "「くまっ！？\u3000合体して『超融合宇宙生命体ＢＡＢＵＭＩクマロボ』になっちゃってるくま！！」"
+translation = "「쿠맛!? 합체해서 『초융합 우주 생명체 BABUMI 곰 로봇』이 되어버렸다곰!!」"
+
+[[dialogue]]
+speaker = "ラファエロ"
+original = "「ばぶみ……なんだって？？？」"
+translation = "「바부미…… 뭐라고???」"
+
+[[dialogue]]
+speaker = "黒ベア子"
+original = "「あのままじゃどうにも出来ないくま。あいつを１回倒して、大人しくさせるくま！」"
+translation = "「저대로는 어쩔 수 없다곰. 저 녀석을 한 번 쓰러뜨려서 얌전하게 만드는 거다곰!」"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「大人しくさせるっていっても、どうすればいいんですかぁ！？\u3000あれ、とんでもなく強いですよ！？」"
+translation = "「얌전하게 만든다니 어떻게 하면 되는데요!? 저거 엄청나게 강하다고요!?」"
+
+[[dialogue]]
+speaker = "黒ベア子"
+original = "「心配ないくま。あれに対抗できる力を、みんなに与えるくま！」"
+translation = "「걱정 마라곰. 저 녀석에게 대항할 수 있는 힘을 모두에게 주겠다곰!」"
+
+[[dialogue]]
+speaker = "黒ベア子"
+original = "「そーれ、みんなで変身くまっ！」"
+translation = "「자아, 다 같이 변신이다곰!」"
+
+[[dialogue]]
+speaker = "ラファエロ"
+original = "「制服が、こっちにやってきた時の姿に変化した！？\u3000いや、それだけじゃない！\u3000力が使えるぞ！」"
+translation = "「제복이 이쪽으로 왔을 때의 모습으로 변화했어!? 아니, 그것뿐만이 아니야! 힘을 쓸 수 있어!」"
+
+[[dialogue]]
+speaker = "ステラ"
+original = "「ボクもです！\u3000世界花の力を感じます！\u3000これなら、いつも通り戦えそうです！」"
+translation = "「저도요! 세계화의 힘이 느껴져요! 이거라면 평소처럼 싸울 수 있을 것 같아요!」"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「おおおぉ！？\u3000なぜかルリエルも、こっちのフォームに変身してるのです！」"
+translation = "「오오오오!? 왠지 루리엘도 이쪽 폼으로 변신했어요!」"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「しかも、何だか新しい力が湧いてくるような気がしてきましたっ！」"
+translation = "「게다가 왠지 새로운 힘이 솟구치는 기분이 들어요!」"
+
+[[dialogue]]
+speaker = "黒ベア子"
+original = "「みんなで『超融合宇宙生命体ＢＡＢＵＭＩクマロボ』を倒すくま！」"
+translation = "「다 같이 『초융합 우주 생명체 BABUMI 곰 로봇』을 쓰러뜨리는 거다곰!」"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「会長さん！」"
+translation = "「회장님!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "その格好は……"
+translation = "그 차림은……"
+
+[[dialogue]]
+speaker = "unk"
+original = "みんな！？"
+translation = "모두들!?"
+
+[[dialogue]]
+speaker = "ステラ"
+original = "「黒ベア子さんが、ボクたちも戦えるようにしてくれたんです！」"
+translation = "「흑베아코 씨가 저희도 싸울 수 있게 해줬어요!」"
+
+[[dialogue]]
+speaker = "ラファエロ"
+original = "「加勢するよ、天才藝術家たるこのぼくの力があれば、もう安心だよ！」"
+translation = "「가세할게, 천재 예술가인 내 힘이 있다면 이제 안심이야!」"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「やいやい、でっかいの！\u3000今度はさっきのようにはいきませんよぉ！」"
+translation = "「이봐 이봐, 커다란 놈! 이번에는 아까처럼 되지는 않을 거예요!」"
+
+[[dialogue]]
+speaker = "超巨大Ａクマロボ"
+original = "『バブーーーーー！！！！』"
+translation = "『바부우우우우!!!!』"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「ひょえぇっ！？」"
+translation = "「효에엣!?」"
+
+[[dialogue]]
+speaker = "ステラ"
+original = "「くっ……すごい咆哮です……！」"
+translation = "「큭…… 굉장한 포효예요……!」"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「負けていられないのです！\u3000ルリエルたちも声を出していきますよー！！」"
+translation = "「지고 있을 수 없어요! 루리엘 일행도 소리를 내서 갈 거예요!!」"
+
+[[dialogue]]
+speaker = "ステラ"
+original = "「こ、声って……！？」"
+translation = "「소, 소리라니……!?」"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「技名を叫ぶのです！\u3000『なんとかシャイニング！』とか『ウルトラスーパースター！』とかっ」"
+translation = "「기술명을 외치는 거예요! 『무슨무슨 샤이닝!』이라든가 『울트라 슈퍼스타!』라든가!」"
+
+[[dialogue]]
+speaker = "ラファエロ"
+original = "「それはいいね。ぼくも真似させてもらうよ！\u3000……イノセンス・アローっ！！！」"
+translation = "「그거 좋네. 나도 흉내 내보도록 할게! ……이노센스 애로우!!!」"
+
+[[dialogue]]
+speaker = "ステラ"
+original = "「こんな感じでしょうかっ！？\u3000ブ、ブライト・スター！！」"
+translation = "「이런 느낌일까요!? 브, 브라이트 스타!!」"
+
+[[dialogue]]
+speaker = "超巨大Ａクマロボ"
+original = "『バブーーーーー！！！！？？』"
+translation = "『바부우우우우!!!!??』"
+
+[[dialogue]]
+speaker = "ラファエロ"
+original = "「ふふっ！\u3000効いてるようだね……！」"
+translation = "「후훗! 효과가 있는 모양이네……!」"
+
+[[dialogue]]
+speaker = "ステラ"
+original = "「会長さん、ルリエルさん、今のうちに攻撃を！」"
+translation = "「회장님, 루리엘 씨, 지금 공격을!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ありがとう！"
+translation = "고마워!"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「いきますよ～～！\u3000シャイニー・イレイサー！」"
+translation = "「갑니다아아~~! 샤이니 이레이저!」"
+
+[[dialogue]]
+speaker = "超巨大Ａクマロボ"
+original = "『バブーーーーーっ！！！！』"
+translation = "『바부우우우우!!!!』"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「ふぇえっ！？\u3000手ごたえはあるんですけど……とんでもなくタフなんでしょうかっ！？」"
+translation = "「후에엣!? 손맛은 있는데…… 엄청나게 터프한 걸까요!?」"
+
+[[dialogue]]
+speaker = "ラファエロ"
+original = "「だったら倒れるまで、攻撃を繰り返すまでさ！」"
+translation = "「그렇다면 쓰러질 때까지 공격을 반복할 뿐이지!」"
+
+[[dialogue]]
+speaker = "ステラ"
+original = "「ボクも全力で行きます！\u3000眩しかったらごめんなさいっ！！」"
+translation = "「나도 전력으로 갈게요! 눈부시다면 죄송해요!!」"
+
+[[dialogue]]
+speaker = "ステラ"
+original = "「アンリーシュド・ラディアンスっ！」"
+translation = "「언리쉬드 래디언스!」"
+
+[[dialogue]]
+speaker = "ラファエロ"
+original = "「それがきみの能力か！\u3000なかなか強烈な光だね！！」"
+translation = "「그게 네 능력이니! 꽤 강렬한 빛이구나!!」"
+
+[[dialogue]]
+speaker = "ラファエロ"
+original = "「ぼくも負けていられないな……ヘブンリー・レクイエムっ！」"
+translation = "「나도 지고 있을 수는 없지…… 헤븐리 레퀴엠!」"
+
+[[dialogue]]
+speaker = "超巨大Ａクマロボ"
+original = "『バブーーーーーっ！！！！』"
+translation = "『바부우우우우!!!!』"
+
+[[dialogue]]
+speaker = "unk"
+original = "２人の連続攻撃によって咆哮を上げる巨大赤ちゃんクマロボ。"
+translation = "두 사람의 연속 공격에 포효를 내지르는 거대 아기 곰 로봇."
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「大暴れですね……もはや可愛げの欠片もありません！」"
+translation = "「난동이 심하네요…… 이제 귀여운 구석이라곤 눈곱만큼도 없어요!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "それだけ追い詰められるってことだ！"
+translation = "그만큼 궁지에 몰렸다는 뜻이야!"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「はい、その通りなのです！」"
+translation = "「네, 바로 그렇답니다!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "手負いのクマのような大暴れをかいくぐり、最後の一撃を叩き込むチャンスを待つ。"
+translation = "부상당한 곰처럼 날뛰는 공격을 피해 가며, 마지막 일격을 가할 찬스를 기다린다."
+
+[[dialogue]]
+speaker = "unk"
+original = "そして、その瞬間が来た──"
+translation = "그리고, 그 순간이 왔다──"
+
+[[dialogue]]
+speaker = "unk"
+original = "無言のままルリエルと目が合い、同時に動く！"
+translation = "무언중에 루리엘과 눈이 마주치고, 동시에 움직인다!"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「ルリエルに続いてください！\u3000……ピカっと瞬け、お星様っ！」"
+translation = "「루리엘을 따라와 주세요! ……반짝하고 빛나라, 별님!」"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「ルミナス・スプリンクルっ！！！」"
+translation = "「루미너스 스프링클!!!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ルリエルと俺の２人で放ったユニゾンアタックが炸裂し、巨大赤ちゃんクマロボの動きが止まる。"
+translation = "루리엘과 나, 둘이서 날린 유니존 어택이 작렬하며 거대 아기 곰 로봇의 움직임이 멈춘다."
+
+[[dialogue]]
+speaker = "超巨大Ａクマロボ"
+original = "『バーーーブゥーーーーッ！！！』"
+translation = "『바아아아부우우우우!!!』"
+
+[[dialogue]]
+speaker = "unk"
+original = "巨体に亀裂が入り、そこから四方に光が漏れる。"
+translation = "거구에 균열이 생기고, 그 틈으로 사방에 빛이 새어 나온다."
+
+[[dialogue]]
+speaker = "unk"
+original = "そして次の瞬間──巨大赤ちゃんクマロボの身体は爆発四散していた。"
+translation = "그리고 다음 순간── 거대 아기 곰 로봇의 신체는 폭발사산했다."
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「やったぁ！\u3000やりましたよぉ！！」"
+translation = "「만세! 해냈어요!!」"
+
+[[dialogue]]
+speaker = "ステラ"
+original = "「あ……赤ちゃんクマロボさんたちが……！」"
+translation = "「아…… 아기 곰 로봇 분들이……!」"
+
+[[dialogue]]
+speaker = "ラファエロ"
+original = "「クマロボに戻っていく……」"
+translation = "「곰 로봇으로 돌아가고 있어……」"
+
+[[dialogue]]
+speaker = "黒ベア子"
+original = "「ナイスだくま！\u3000これでこの世界の危機は回避されたくま！\u3000合体が解けたおかげで、クマロボたちを全員連れて帰れるくま」"
+translation = "「나이스다곰! 이걸로 이 세계의 위기는 회피되었다곰! 합체가 풀린 덕분에 곰 로봇들을 전원 데리고 돌아갈 수 있다곰」"
+
+[[dialogue]]
+speaker = "unk"
+original = "数がものすごいけど大丈夫か？"
+translation = "수가 엄청난데 괜찮겠어?"
+
+[[dialogue]]
+speaker = "黒ベア子"
+original = "「…………」"
+translation = "「…………」"
+
+[[dialogue]]
+speaker = "黒ベア子"
+original = "「た、大変そうだけど……まあ、なんとかなるくま♪」"
+translation = "「드, 힘들 것 같지만…… 뭐, 어떻게든 될 거다곰♪」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ひきつった笑みを浮かべる黒ベア子に少し不安を覚えつつも、ひとまず当面の事件が解決したことに胸をなでおろすのだった。"
+translation = "경련하는 미소를 짓는 흑베아코에게 조금 불안을 느끼면서도, 우선 당면한 사건이 해결된 것에 가슴을 쓸어내렸다."
+

@@ -1,0 +1,350 @@
+[[dialogue]]
+speaker = "unk"
+original = "第１話,満腹フードファイト,P"
+translation = "제1화,만복 푸드 파이트,P"
+
+[[dialogue]]
+speaker = "カティア"
+original = "「魔王様とご飯ですガオー♪\u3000でも食べ放題をご馳走してくれるなんて、本当にいいんですか？」"
+translation = "「마왕님과 밥입니다갸오♪ 그런데 뷔페를 대접해 주시다니, 정말 괜찮으신가요?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "頑張ったご褒美だよ"
+translation = "「열심히 한 것에 대한 포상이야」"
+
+[[dialogue]]
+speaker = "unk"
+original = "学園対抗リレー、お疲れさま"
+translation = "「학원 대항 릴레이, 수고했어」"
+
+[[dialogue]]
+speaker = "カティア"
+original = "「そういうことでしたらお言葉に甘えちゃいますワン♪」"
+translation = "「그런 말씀이시라면 감사히 받겠습니다멍♪」"
+
+[[dialogue]]
+speaker = "カティア"
+original = "「ここにあるものなんでも食べ放題なんて……うぅ、目移りしちゃう──あれ？」"
+translation = "「여기에 있는 것 전부 마음껏 먹을 수 있다니…… 으으, 눈이 돌아가 버려── 어라?」"
+
+[[dialogue]]
+speaker = "ヒヨ"
+original = "「おっ、ワン公じゃねえか」"
+translation = "「엇, 멍멍이 아니냐」"
+
+[[dialogue]]
+speaker = "ミルフィー"
+original = "「カティアちゃんも会長くんもお疲れ様♪」"
+translation = "「카티아짱도 회장군도 수고했어♪」"
+
+[[dialogue]]
+speaker = "カティア"
+original = "「なんでヒヨたちもここにいるワン！？」"
+translation = "「왜 히요들도 여기에 있는 거냐멍!?」"
+
+[[dialogue]]
+speaker = "ヒヨ"
+original = "「そりゃこっちのセリフだ！\u3000姐さんがご馳走してくれるっていうから、お腹ペコペコにして来たんでい！」"
+translation = "「그건 내가 할 말이다! 누님이 대접해 준다고 하셔서, 배를 쫄쫄 굶기고 왔다구!」"
+
+[[dialogue]]
+speaker = "ミルフィー"
+original = "「あはは、会長くんも考えることは同じだ。星霊祭の打ち上げで、食べ放題ビュッフェは定番だもんね」"
+translation = "「아하하, 회장군도 생각하는 건 똑같네. 성령제 뒤풀이로 뷔페는 단골 메뉴잖아.」"
+
+[[dialogue]]
+speaker = "ミルフィー"
+original = "「カティアちゃんと会長くんも、良かったら一緒の席で食べない？」"
+translation = "「카티아짱이랑 회장군도, 괜찮다면 같이 앉아서 먹지 않을래?」"
+
+[[dialogue]]
+speaker = "カティア"
+original = "「はい！\u3000きっとその方が楽しいですガオ！」"
+translation = "「네! 분명 그 편이 더 즐거울 거예요갸오!」"
+
+[[dialogue]]
+speaker = "カティア"
+original = "「あ……お腹の音が……」"
+translation = "「아…… 배에서 소리가……」"
+
+[[dialogue]]
+speaker = "ヒヨ"
+original = "「あたしもお腹と背中がくっついちまいそうだぜぃ……」"
+translation = "「나도 배랑 등이 붙어버릴 것 같다구……」"
+
+[[dialogue]]
+speaker = "ミルフィー"
+original = "「ふふ、好きなものを好きなだけ取ってきていいからね」"
+translation = "「후후, 좋아하는 걸 좋아하는 만큼 가져와도 돼.」"
+
+[[dialogue]]
+speaker = "カティア"
+original = "「夢のようだワン♪\u3000行ってきまーす！」"
+translation = "「꿈만 같다멍♪ 다녀오겠습니다!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ずらりと並んだ料理の方へ、子犬のように小走りで駆けていくカティア。"
+translation = "가지런히 늘어선 요리 쪽으로, 강아지처럼 종종걸음으로 달려가는 카티아."
+
+[[dialogue]]
+speaker = "unk"
+original = "少しすると、お皿に肉を山盛りにして戻ってきた。"
+translation = "잠시 후, 접시에 고기를 산더미처럼 쌓아 돌아왔다."
+
+[[dialogue]]
+speaker = "カティア"
+original = "「お肉たっぷり取ってきましたー！」"
+translation = "「고기 잔뜩 가져왔어요~!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ミートマウンテンだ！"
+translation = "미트 마운틴이다!"
+
+[[dialogue]]
+speaker = "unk"
+original = "てんこ盛りの肉、肉、肉！"
+translation = "수북이 쌓인 고기, 고기, 고기!"
+
+[[dialogue]]
+speaker = "ヒヨ"
+original = "「おいおい、欲張りすぎじゃねえのかい、ワン公」"
+translation = "「어이, 어이, 너무 욕심부리는 거 아니냐, 멍멍이」"
+
+[[dialogue]]
+speaker = "カティア"
+original = "「ふふん、このくらいペロリだワン。いっぱい食べないと、強い体は作れないですガオ」"
+translation = "「흐흥, 이 정도는 꿀꺽이다멍. 많이 먹지 않으면, 강한 몸을 만들 수 없어요갸오」"
+
+[[dialogue]]
+speaker = "カティア"
+original = "「いっぱい食べて、ヒヨよりものすごーく強くて速くなってやるワン♪」"
+translation = "「많이 먹고, 히요보다 엄청나게 강하고 빨라질 거다멍♪」"
+
+[[dialogue]]
+speaker = "ヒヨ"
+original = "「なにをぉ？\u3000そいつぁ聞き捨てならねえな。あたしも追加で盛ってくるぜい！」"
+translation = "「뭐라고오? 그건 못 들은 척할 수 없지. 나도 추가로 담아 올 거다!」"
+
+[[dialogue]]
+speaker = "ミルフィー"
+original = "「ちょ、ちょっとヒヨちゃん？\u3000今でも結構モリモリだよ！？」"
+translation = "「저, 잠깐 히요짱? 지금도 꽤 잔뜩인데!?」"
+
+[[dialogue]]
+speaker = "ヒヨ"
+original = "「止めないでおくんなせえ。女のプライドに賭けて、どんなことでもワン公に負けるわけにゃいかねえんだ」"
+translation = "「말리지 말아주세요. 여자의 자존심을 걸고, 어떤 일이라도 멍멍이에게 질 수는 없다구.」"
+
+[[dialogue]]
+speaker = "カティア"
+original = "「それじゃ……いただきまーす！」"
+translation = "「그럼…… 잘 먹겠습니다!」"
+
+[[dialogue]]
+speaker = "ヒヨ"
+original = "「あたしもいただくぜぃ！」"
+translation = "「나도 잘 먹을게!」"
+
+[[dialogue]]
+speaker = "カティア"
+original = "「あむっ！\u3000ん～～～～っ！？\u3000美味っしい～～～っっ！！」"
+translation = "「앙! 음~~~~~!? 맛있어~~~~~~!!」"
+
+[[dialogue]]
+speaker = "ヒヨ"
+original = "「めちゃくちゃうめぇなあ！\u3000これならいつまでも食い続けられるぜえ！」"
+translation = "「엄청 맛있네! 이 정도라면 언제까지고 계속 먹을 수 있겠어!」"
+
+[[dialogue]]
+speaker = "カティア"
+original = "「お口の中で肉汁がほとばしる～……お塩もソースもバッチリ合いますし、無限に食べられます、あむあむあむ」"
+translation = "「입안에서 육즙이 터져 나와~…… 소금도 소스도 딱 맞고, 무한으로 먹을 수 있어요, 냠냠냠」"
+
+[[dialogue]]
+speaker = "ミルフィー"
+original = "「うわぁ、すごい食べっぷり……！」"
+translation = "「우와, 대단한 먹성이야……!」"
+
+[[dialogue]]
+speaker = "カティア"
+original = "「ミルフィー先輩は食べないんですガオ？」"
+translation = "「밀피 선배는 안 드시는 건가요갸오?」"
+
+[[dialogue]]
+speaker = "ミルフィー"
+original = "「お腹いっぱい食べたいのはやまやまなんだけど、ほどほどにしておかないと全部自分のお肉になっちゃうから……あはは」"
+translation = "「배불리 먹고 싶은 마음은 굴뚝같지만, 적당히 해두지 않으면 전부 내 살이 되어버리니까…… 아하하」"
+
+[[dialogue]]
+speaker = "カティア"
+original = "「こういう時くらい、気にしないで食べた方がいいと思いますよ？\u3000おかわり行ってきま～す！」"
+translation = "「이럴 때일수록, 신경 쓰지 말고 먹는 게 좋다고 생각해요? 리필하러 다녀오겠습니다~!」"
+
+[[dialogue]]
+speaker = "ヒヨ"
+original = "「あたしもおかわりでい！」"
+translation = "「나도 리필이다!」"
+
+[[dialogue]]
+speaker = "ミルフィー"
+original = "「２人とも早っ！\u3000よく噛んで食べてねー！？」"
+translation = "「둘 다 빠르네! 잘 씹어 먹어~!?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "肉が盛られた皿を次々に空にしていくカティアとヒヨ。"
+translation = "고기가 담긴 접시를 차례차례 비워나가는 카티아와 히요."
+
+[[dialogue]]
+speaker = "unk"
+original = "本当に無限に食べ続けるのではないかと思われた２人だったが──"
+translation = "정말로 무한히 계속 먹을 것만 같았던 두 사람이었지만──"
+
+[[dialogue]]
+speaker = "カティア"
+original = "「あむ、あむ……あむ、あむ……ヒヨ、そろそろ限界じゃないんですかー？\u3000けぷっ」"
+translation = "「냠, 냠…… 냠, 냠…… 히요, 슬슬 한계 아닌가요~? 끄윽」"
+
+[[dialogue]]
+speaker = "ヒヨ"
+original = "「そういうワン公こそよお……スピードダウンしてるぜえ」"
+translation = "「그런 멍멍이야말로 말이지…… 속도가 느려지고 있다구.」"
+
+[[dialogue]]
+speaker = "カティア"
+original = "「ま、まだまだ食べられますガオ！？\u3000お残しは厳禁、その時点で負けですワン！」"
+translation = "「아, 아직도 먹을 수 있어요갸오!? 남기는 건 엄금, 그 시점에서 패배다멍!」"
+
+[[dialogue]]
+speaker = "カティア"
+original = "（ぐぬぬぬぅ……正直、そろそろ限界……！\u3000お腹百分目だワン……でも、でもでもでも！）"
+translation = "（크으으으으…… 솔직히, 슬슬 한계……! 배가 백 퍼센트다멍…… 하지만, 하지만 하지만 하지만!）"
+
+[[dialogue]]
+speaker = "カティア"
+original = "「絶対お残しはしないです！\u3000どんな悪行よりも食べ物を粗末にするのだけはいけないんです！」"
+translation = "「절대 남기지 않을 거예요! 어떤 악행보다도 음식을 함부로 하는 것만은 안 돼요!」"
+
+[[dialogue]]
+speaker = "カティア"
+original = "「私の胃袋はブラックホールだガオー！\u3000もぐもぐもぐもぐもぐもぐ！」"
+translation = "「내 위장은 블랙홀이다갸오! 냠냠냠냠냠냠!」"
+
+[[dialogue]]
+speaker = "ミルフィー"
+original = "「カティアちゃん、一気に行ったー！\u3000これ食べきったらカティアちゃんの勝ちだねっ」"
+translation = "「카티아짱, 한 번에 간다~! 이거 다 먹으면 카티아짱 승리네!」"
+
+[[dialogue]]
+speaker = "ヒヨ"
+original = "「んだとぉっ！\u3000負けるわけにはいかねえっ！\u3000もぎゅもぎゅもぎゅもぎゅっ！」"
+translation = "「뭐라고옷! 질 수는 없다! 우물우물우물우물!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ヒヨもいったーーっ！"
+translation = "히요도 돌진한다--!"
+
+[[dialogue]]
+speaker = "カティア"
+original = "「んんぐっ！？」"
+translation = "「응읍!?」"
+
+[[dialogue]]
+speaker = "ヒヨ"
+original = "「がふっ！？」"
+translation = "「커헉!?」"
+
+[[dialogue]]
+speaker = "カティア"
+original = "「も、もう食べられないです……がくっ」"
+translation = "「더, 더는 못 먹겠어요…… 털썩」"
+
+[[dialogue]]
+speaker = "ヒヨ"
+original = "「あたしもこいつでギブアップだ……がくっ」"
+translation = "「나도 이걸로 기브업이다…… 털썩」"
+
+[[dialogue]]
+speaker = "unk"
+original = "２人の負けず嫌いは筋金入りだね"
+translation = "두 사람의 지기 싫어하는 성격은 뼛속까지 박혀있네"
+
+[[dialogue]]
+speaker = "unk"
+original = "気絶するまで食べ続けた……"
+translation = "기절할 때까지 계속 먹었다니……"
+
+[[dialogue]]
+speaker = "ミルフィー"
+original = "「この勝負、引き分けっ！」"
+translation = "「이 승부, 무승부!」"
+
+[[dialogue]]
+speaker = "ミルフィー"
+original = "「もう、２人とも苦しくなるまで食べたり、お店に迷惑かけちゃダメっ！」"
+translation = "「정말, 둘 다 괴로울 때까지 먹거나, 가게에 폐 끼치면 안 돼!」"
+
+[[dialogue]]
+speaker = "ミルフィー"
+original = "「今後、大食いで勝負するのは禁止！\u3000ご飯は美味しく楽しく、だからねっ！」"
+translation = "「앞으로, 대식으로 승부하는 건 금지! 밥은 맛있고 즐겁게, 알았지!」"
+
+[[dialogue]]
+speaker = "ヒヨ"
+original = "「面目ねえ……」"
+translation = "「면목 없네……」"
+
+[[dialogue]]
+speaker = "カティア"
+original = "「はぁい……ごめんなさい……うぷ」"
+translation = "「네에…… 죄송합니다…… 우웁」"
+
+[[dialogue]]
+speaker = "カティア"
+original = "「でも、まだまだ食べきれないくらいお料理、たくさんありますよね……残っちゃったらどうするのかな？」"
+translation = "「하지만, 아직도 다 먹지 못할 만큼 요리가 많이 남아있는데…… 남으면 어떻게 되는 걸까요?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "環境に優しい人がいるから……"
+translation = "「환경에 친화적인 사람이 있으니까……」"
+
+[[dialogue]]
+speaker = "unk"
+original = "大丈夫じゃないかな"
+translation = "「괜찮지 않을까」"
+
+[[dialogue]]
+speaker = "カティア"
+original = "「わふ？\u3000魔王様、心当たりがあるんですか？」"
+translation = "「와프? 마왕님, 짐작 가는 데가 있으신가요?」"
+
+[[dialogue]]
+speaker = "カティア"
+original = "「え？\u3000ブラックホール？\u3000どういうことですか……？」"
+translation = "「네? 블랙홀이요? 무슨 말씀이신가요……?」"
+
+[[dialogue]]
+speaker = "？？？"
+original = "「ああ、食べ放題ビュッフェ、なんて素晴らしいシステムなんでしょう……！」"
+translation = "「아아, 뷔페, 얼마나 멋진 시스템이란 말인가요……!」"
+
+[[dialogue]]
+speaker = "？？？"
+original = "「ハンバーグもカレーも唐揚げもどれだけ食べても怒られないだなんて……うめ、うめ……うめうめ」"
+translation = "「함박스테이크도 카레도 닭튀김도 아무리 먹어도 혼나지 않는다니…… 냠, 냠…… 냠냠」"
+
+[[dialogue]]
+speaker = "？？？"
+original = "「ひゅごっ……ひゅごっ……」"
+translation = "「휴걱…… 휴걱……」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ビュッフェで提供されている料理は、全て美味しくいただかれております。廃棄率０％ですのでご安心ください。"
+translation = "뷔페에서 제공되는 요리는, 모두 맛있게 드셔지고 있습니다. 폐기율 0%이니 안심하십시오."
+

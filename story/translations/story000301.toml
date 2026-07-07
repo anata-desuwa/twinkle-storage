@@ -1,0 +1,195 @@
+[[dialogue]]
+speaker = "ウェンディ"
+original = "「あ、モンスターがそちらに！」"
+translation = "「아, 몬스터가 그쪽에!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "任せろ"
+translation = "맡겨둬."
+
+[[dialogue]]
+speaker = "ウェンディ"
+original = "「会長さん、ナイス足止めです。では──スミス！」"
+translation = "「회장님, 나이스하게 발을 묶으셨네요. 그럼── 스미스!」"
+
+[[dialogue]]
+speaker = "スミス"
+original = "「ゲコ」"
+translation = "「게코.」"
+
+[[dialogue]]
+speaker = "ウェンディ"
+original = "「アクアシーリング！」"
+translation = "「아쿠아 실링!」"
+
+[[dialogue]]
+speaker = "ウェンディ"
+original = "「ゲッコー！」"
+translation = "「겟코!」"
+
+[[dialogue]]
+speaker = "ウェンディ"
+original = "「ふぅ、これでまた一体捕まえられましたね」"
+translation = "「후우, 이걸로 또 한 마리 잡았네요.」"
+
+[[dialogue]]
+speaker = "unk"
+original = "彼女はネビュラの魔女ウェンディ。"
+translation = "그녀는 네뷸라의 마녀 웬디."
+
+[[dialogue]]
+speaker = "unk"
+original = "どうして俺がネビュラの魔女とモンスターを捕獲しているのかというと──"
+translation = "어째서 내가 네뷸라의 마녀와 몬스터를 포획하고 있느냐 하면──"
+
+[[dialogue]]
+speaker = "unk"
+original = "本当は星徒会のみんなと、備品を購入するついでにお茶でもする予定だったのだけど。"
+translation = "사실은 성도회 일행과 비품을 구매하는 김에 차라도 마실 예정이었지만."
+
+[[dialogue]]
+speaker = "unk"
+original = "それぞれ用事が入ってしまって、俺１人でお使いをすることになった。"
+translation = "제각기 볼일이 생기는 바람에 나 혼자 심부름을 하게 되었다."
+
+[[dialogue]]
+speaker = "unk"
+original = "せっかくの休日なのに残念だ。"
+translation = "모처럼의 휴일인데 아쉽다."
+
+[[dialogue]]
+speaker = "unk"
+original = "しかしこの辺りに来ると先日の戦いを思い出す──"
+translation = "하지만 이 근처에 오면 요전번의 싸움이 생각난다──"
+
+[[dialogue]]
+speaker = "unk"
+original = "アポロが呼び出す特殊なモンスター。"
+translation = "아폴로가 소환하는 특수한 몬스터."
+
+[[dialogue]]
+speaker = "unk"
+original = "アポロとフィオナの秘密。"
+translation = "아폴로와 피오나의 비밀."
+
+[[dialogue]]
+speaker = "unk"
+original = "星騎士と守護星のリンクを遮断する“天蓋”。"
+translation = "성기사와 수호성의 링크를 차단하는 “천개”."
+
+[[dialogue]]
+speaker = "unk"
+original = "謎の巨大な“手”。"
+translation = "수수께끼의 거대한 “손”."
+
+[[dialogue]]
+speaker = "unk"
+original = "どれも記憶に残る出来事で、新たに判明したこともあれば、余計にわからなくなった謎もある。"
+translation = "하나같이 기억에 남는 사건들이며, 새로 판명된 것도 있는가 하면 오히려 더 알 수 없게 된 수수께끼도 있다."
+
+[[dialogue]]
+speaker = "unk"
+original = "そして──"
+translation = "그리고──"
+
+[[dialogue]]
+speaker = "unk"
+original = "“魔女”。"
+translation = "“마녀”."
+
+[[dialogue]]
+speaker = "unk"
+original = "魔力と呼ばれる未知の力を操る者たち。"
+translation = "마력이라 불리는 미지의 힘을 다루는 자들."
+
+[[dialogue]]
+speaker = "unk"
+original = "ネビュラと名乗る秘密組織。"
+translation = "네뷸라라고 자처하는 비밀 조직."
+
+[[dialogue]]
+speaker = "unk"
+original = "彼女たちもリクリエを防ごうとしているらしいが、本当のところはわからない。"
+translation = "그녀들도 리크리에를 막으려 하는 것 같지만, 진실은 알 수 없다."
+
+[[dialogue]]
+speaker = "unk"
+original = "そして俺は新星学園の星徒会長だ。"
+translation = "그리고 나는 신성학원의 성도회장이다."
+
+[[dialogue]]
+speaker = "unk"
+original = "流星と新星──この世界を守る星騎士の両翼の、その頂点に立つ存在。"
+translation = "유성과 신성── 이 세계를 지키는 성기사의 양 날개, 그 정점에 서 있는 존재."
+
+[[dialogue]]
+speaker = "unk"
+original = "大きな責任を負う者として、俺は数々の異変にどう向き合っていくべきだろうか。"
+translation = "큰 책임을 짊어진 자로서, 나는 수많은 이변에 어떻게 맞서야 할 것인가."
+
+[[dialogue]]
+speaker = "unk"
+original = "だけど今この瞬間、街は紛れもなく平和だ。"
+translation = "하지만 지금 이 순간, 거리는 틀림없이 평화롭다."
+
+[[dialogue]]
+speaker = "unk"
+original = "たとえこの先厳しい運命が待ち受けているとしても、俺１人だとしても、ひとまずはこの平和を享受しようと──"
+translation = "설령 앞으로 가혹한 운명이 기다리고 있다 해도, 나 혼자뿐이라 해도, 우선은 이 평화를 만끽하자고──"
+
+[[dialogue]]
+speaker = "unk"
+original = "…………"
+translation = "…………"
+
+[[dialogue]]
+speaker = "unk"
+original = "……………………"
+translation = "……………………"
+
+[[dialogue]]
+speaker = "unk"
+original = "アポロのモンスター！？"
+translation = "아폴로의 몬스터!?"
+
+[[dialogue]]
+speaker = "unk"
+original = "見るからに大人しく、暴れるようなそぶりはない。"
+translation = "겉보기엔 얌전하고 날뛰는 기색은 없다."
+
+[[dialogue]]
+speaker = "unk"
+original = "だけどモンスターは人々に危害をもたらす脅威だ。"
+translation = "하지만 몬스터는 사람들에게 해를 끼치는 위협이다."
+
+[[dialogue]]
+speaker = "unk"
+original = "まだ被害が出ていないうちに仕留めようと、拳を握り──"
+translation = "아직 피해가 나오지 않았을 때 해치우려고 주먹을 꽉 쥐자──"
+
+[[dialogue]]
+speaker = "？？？"
+original = "「そのモンスター、倒すのちょっと待って下さい！」"
+translation = "「그 몬스터, 쓰러뜨리는 거 잠깐만 기다려 주세요!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "！？"
+translation = "!? "
+
+[[dialogue]]
+speaker = "ウェンディ"
+original = "「はぁ、はぁ、はぁ……すみません、そこのモンスター、うちから逃げ出したやつでして……」"
+translation = "「하아, 하아, 하아…… 죄송합니다, 거기 있는 몬스터, 저희 집에서 도망친 녀석이라서요……」"
+
+[[dialogue]]
+speaker = "unk"
+original = "うちから？"
+translation = "저희 집에서?"
+
+[[dialogue]]
+speaker = "ウェンディ"
+original = "「あ、モンスターが逃げちゃいます！？\u3000詳しいことは後で説明しますから、捕まえるの手伝ってくださーい！」"
+translation = "「아, 몬스터가 도망쳐요!? 자세한 건 나중에 설명해 드릴 테니까 잡는 것 좀 도와주세요!」"
+

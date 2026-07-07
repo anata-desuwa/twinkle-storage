@@ -1,0 +1,270 @@
+[[dialogue]]
+speaker = "unk"
+original = "第２話,仇敵、相まみえる,P"
+translation = "제2화, 구적, 마주하다, P"
+
+[[dialogue]]
+speaker = "ラティエ"
+original = "「ここに遊びにくるのも久しぶりだな、相変わらずにぎやかだ」"
+translation = "「여기에 놀러 오는 것도 오랜만이군, 여전히 북적거려」"
+
+[[dialogue]]
+speaker = "unk"
+original = "訓練の後、学園長に誘われてカジノへやってきていた。"
+translation = "훈련 후 학원장의 권유로 카지노에 와 있었다."
+
+[[dialogue]]
+speaker = "ラティエ"
+original = "「ここに遊びに来たのは初めてかい？」"
+translation = "「여기에 놀러 온 건 처음인가?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "いえ、何度か来たことがあります"
+translation = "아뇨, 몇 번 와본 적 있습니다."
+
+[[dialogue]]
+speaker = "ラティエ"
+original = "「ほう、ならば細かい説明は必要ないかな？」"
+translation = "「호오, 그렇다면 자세한 설명은 필요 없겠군?」"
+
+[[dialogue]]
+speaker = "ラティエ"
+original = "「私はずっと以前、このカジノが出来たばかりのころに何度か遊びに来たことがあったんだよ」"
+translation = "「나는 아주 예전, 이 카지노가 처음 생겼을 무렵에 몇 번 놀러 온 적이 있었지」"
+
+[[dialogue]]
+speaker = "ラティエ"
+original = "「その時は楽しく遊ばせて貰っただけでなく、懐の方もとても温かくして貰ったものだ」"
+translation = "「그때는 즐겁게 놀았을 뿐 아니라 지갑도 아주 두둑해져서 돌아갔던 기억이 나네」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ええ、まあ……"
+translation = "네, 뭐……"
+
+[[dialogue]]
+speaker = "unk"
+original = "（その時の話はヘレナちゃんから……）"
+translation = "(그때 이야기는 헬레나짱한테서……)"
+
+[[dialogue]]
+speaker = "ラティエ"
+original = "「さあ、何から遊ぼうか。私のお勧めはやはりカードなのだが……」"
+translation = "「자, 뭐부터 해볼까. 내 추천은 역시 카드다만……」"
+
+[[dialogue]]
+speaker = "ラティエ"
+original = "「ひとついいことを教えてやろう。ギャンブルは運の強い者が勝つんじゃない、数字に強い者が勝つんだ」"
+translation = "「하나 좋은 걸 가르쳐 주지. 도박은 운이 좋은 자가 이기는 게 아냐, 숫자에 강한 자가 이기는 거다」"
+
+[[dialogue]]
+speaker = "ラティエ"
+original = "「きみは学業の成績も優秀と聞いている。もしかしたら隠れた才能が眠っているかもしれないぞ？」"
+translation = "「자네는 학업 성적도 우수하다고 들었네. 어쩌면 숨겨진 재능이 잠들어 있을지도 모른다고?」"
+
+[[dialogue]]
+speaker = "ヘレナ"
+original = "「よくもぬけぬけと顔を出せたものだな、白夜院ラティエ」"
+translation = "「잘도 뻔뻔하게 얼굴을 내밀었군, 뱌쿠야인 라티에」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ホールに声が響く。"
+translation = "홀에 목소리가 울려 퍼진다."
+
+[[dialogue]]
+speaker = "unk"
+original = "気が付くといつの間にか、黒い服を着た人たちに周りを取り囲まれていた。"
+translation = "정신을 차려보니 어느샌가 검은 옷을 입은 사람들에게 둘러싸여 있었다."
+
+[[dialogue]]
+speaker = "ラティエ"
+original = "「おや、あなたは……」"
+translation = "「오 이런, 당신은……」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ヘレナちゃん、いらっしゃったんですか？"
+translation = "헬레나짱, 와 계셨나요?"
+
+[[dialogue]]
+speaker = "ヘレナ"
+original = "「いらっしゃるも何も、このカジノを経営しているのは私だからな」"
+translation = "「와 있고 말고, 이 카지노를 경영하는 건 나니까 말이다」"
+
+[[dialogue]]
+speaker = "ヘレナ"
+original = "「立てばプリティ、座ればゴージャス。カジノオーナーにして九浄家二十六代目当主・九浄ヘレナちゃんとは、私のことであるっ！」"
+translation = "「서면 프리티, 앉으면 고져스. 카지노 오너이자 쿠죠 가문 26대 당주, 쿠죠 헬레나짱이란 바로 나를 말하는 것이다!」"
+
+[[dialogue]]
+speaker = "ラティエ"
+original = "「そして学園の理事長である、と。ご無沙汰しているな、理事長。先日は素晴らしい人工戦闘服をどうもありがとう」"
+translation = "「그리고 학원의 이사장이라는 거지. 오랜만이군, 이사장. 지난번에는 훌륭한 인공 전투복을 고마웠네」"
+
+[[dialogue]]
+speaker = "ヘレナ"
+original = "「なぁに、星騎士としての実力を見込んでのことだ。そして貴殿の特別な力の謎を解明するためでもある」"
+translation = "「아니, 성기사로서의 실력을 높이 사서 그런 거다. 그리고 귀공의 특별한 힘의 수수께끼를 해명하기 위해서이기도 하지」"
+
+[[dialogue]]
+speaker = "ラティエ"
+original = "「私の謎、か……別に特別な力は持ち合わせていないのだがね」"
+translation = "「나의 수수께끼라…… 딱히 특별한 힘을 가지고 있지는 않다만」"
+
+[[dialogue]]
+speaker = "ラティエ"
+original = "「それでも私が<ruby>星騎士<rt>スターナイト</rt></ruby>たちの未来の礎となれるというならば光栄なことだ」"
+translation = "「그래도 내가 성기사들의 미래의 초석이 될 수 있다면 영광스러운 일이군」"
+
+[[dialogue]]
+speaker = "ヘレナ"
+original = "「殊勝だな。だが、そう思うなら放浪の旅は卒業して、少しは研究に協力して欲しいものだ」"
+translation = "「기특하군. 하지만 그렇게 생각한다면 방랑 여행은 졸업하고 조금은 연구에 협조해 줬으면 좋겠군」"
+
+[[dialogue]]
+speaker = "ラティエ"
+original = "「しているだろう。旅から帰るたび、そこで得た有益な情報は共有しているつもりだが？」"
+translation = "「하고 있지 않나. 여행에서 돌아올 때마다 그곳에서 얻은 유익한 정보는 공유하고 있다고 생각하네만?」"
+
+[[dialogue]]
+speaker = "ヘレナ"
+original = "「確かに貴殿のもたらす情報には有益なものが多い」"
+translation = "「확실히 귀공이 가져오는 정보에는 유익한 것이 많지」"
+
+[[dialogue]]
+speaker = "ヘレナ"
+original = "「だが貴殿の振る舞いは奔放が過ぎる。大人としての立場を弁えた行動を望みたいものだな」"
+translation = "「하지만 귀공의 처신은 지나치게 분방하다. 어른으로서의 입장을 분별한 행동을 바라고 싶군」"
+
+[[dialogue]]
+speaker = "ラティエ"
+original = "「奔放なのは性分でね。こればかりは目を瞑って頂くほかない」"
+translation = "「분방한 건 천성이라서 말이야. 이것만큼은 눈감아 주시는 수밖에 없네」"
+
+[[dialogue]]
+speaker = "unk"
+original = "（とんでもなくピリついてるんだが……）"
+translation = "(엄청나게 살벌한데……)"
+
+[[dialogue]]
+speaker = "unk"
+original = "（く、空気が……）"
+translation = "(고, 공기가……)"
+
+[[dialogue]]
+speaker = "ラティエ"
+original = "「それで？\u3000カジノオーナー自らホールに現れて何をしようというのだ？」"
+translation = "「그래서? 카지노 오너가 직접 홀에 나타나 무엇을 하려는 건가?」"
+
+[[dialogue]]
+speaker = "ヘレナ"
+original = "「忘れたとは言わせぬぞ？\u3000以前、貴殿がこのカジノを訪れた時、散々荒らしていってくれたではないか」"
+translation = "「잊었다고는 말하지 못하겠지? 이전에 귀공이 이 카지노를 방문했을 때 실컷 난장판을 쳐놓지 않았나」"
+
+[[dialogue]]
+speaker = "ラティエ"
+original = "「人聞きの悪い。私はだた普通に楽しんでいただけだ」"
+translation = "「듣기 거북하군. 나는 그저 평범하게 즐겼을 뿐이네」"
+
+[[dialogue]]
+speaker = "ヘレナ"
+original = "「店を潰しかけておいてよく言う……。また荒らしに来たか？\u3000だが、私の目が黒いうちは好きにさせぬぞ」"
+translation = "「가게를 거덜 낼 뻔해놓고 잘도 말하는군……. 또 난장판을 치러 왔나? 하지만 내 눈에 흙이 들어가기 전까진 마음대로 하게 두지 않겠다」"
+
+[[dialogue]]
+speaker = "ラティエ"
+original = "「フム、ということはオーナー権限により、このカジノに出入り禁止かな？」"
+translation = "「흠, 그렇다는 건 오너 권한으로 이 카지노 출입 금지인가?」"
+
+[[dialogue]]
+speaker = "ヘレナ"
+original = "「当然だろう？\u3000未来永劫、永久に貴様は来店禁止だ」"
+translation = "「당연하지 않겠나? 영겁토록, 영구히 네놈은 내점 금지다」"
+
+[[dialogue]]
+speaker = "ヘレナ"
+original = "「……と言いたいところだが、客の立場からすればそれも理不尽な話だろう？」"
+translation = "「……라고 말하고 싶다만, 손님 입장에서 보면 그것도 불합리한 이야기겠지?」"
+
+[[dialogue]]
+speaker = "ヘレナ"
+original = "「だから、相手をしてやろう。この私が直々にな……」"
+translation = "「그러니 상대해 주마. 이 내가 몸소 말이다……」"
+
+[[dialogue]]
+speaker = "ラティエ"
+original = "「なるほど、それは面白い……」"
+translation = "「과연, 그거 재미있겠군……」"
+
+[[dialogue]]
+speaker = "unk"
+original = "（コワイコワイコワイコワイっ！！！！）"
+translation = "(무서워무서워무서워무서워!!!!)"
+
+[[dialogue]]
+speaker = "unk"
+original = "空気が冷え切っている。"
+translation = "공기가 얼어붙어 있다."
+
+[[dialogue]]
+speaker = "unk"
+original = "２人の圧に圧し潰されて、黒服の中には泡を吹いて倒れる者まで出始めている。"
+translation = "두 사람의 압박에 짓눌려 검은 옷들 중에는 거품을 물고 쓰러지는 자까지 나타나기 시작했다."
+
+[[dialogue]]
+speaker = "ラティエ"
+original = "「何から始める？」"
+translation = "「뭐부터 시작할까?」"
+
+[[dialogue]]
+speaker = "ヘレナ"
+original = "「何でもよい。好きなゲームを選べ」"
+translation = "「무엇이든 좋다. 원하는 게임을 골라라」"
+
+[[dialogue]]
+speaker = "ラティエ"
+original = "「そうか……ではまず、カードで遊びたいな」"
+translation = "「그렇군…… 그럼 먼저 카드로 놀고 싶군」"
+
+[[dialogue]]
+speaker = "ヘレナ"
+original = "「ほぅ、カードと一口に言っても、当カジノにはいろいろあるが何をご所望かな？」"
+translation = "「호오, 카드라고 해도 우리 카지노에는 여러 종류가 있는데 무엇을 원하시나?」"
+
+[[dialogue]]
+speaker = "ラティエ"
+original = "「流星星徒会で流行っているゲームがある。まずはそれで勝負しようじゃないか……」"
+translation = "「유성 성도회에서 유행하는 게임이 있네. 우선 그걸로 승부하지 않겠나……」"
+
+[[dialogue]]
+speaker = "ヘレナ"
+original = "「あれか……ふっ、いいだろう……」"
+translation = "「그건가…… 훗, 좋지……」"
+
+[[dialogue]]
+speaker = "unk"
+original = "こうして──"
+translation = "이렇게 해서──"
+
+[[dialogue]]
+speaker = "unk"
+original = "ポーカーもブラックジャックもルーレットもダイスゲームも全てスルーして、なぜか一般的なルールのトランプが始まってしまった。"
+translation = "포커도 블랙잭도 룰렛도 다이스 게임도 전부 무시하고, 왠지 일반적인 규칙의 트럼프가 시작되어 버렸다."
+
+[[dialogue]]
+speaker = "unk"
+original = "ただし、プレイヤーのオーラが半端ではない。"
+translation = "단, 플레이어의 오라가 장난이 아니다."
+
+[[dialogue]]
+speaker = "unk"
+original = "結局、２人の対決はいつまでたっても決着がつかないまま延々と続き──"
+translation = "결국 두 사람의 대결은 시간이 지나도 결판이 나지 않은 채 끊임없이 이어졌고──"
+
+[[dialogue]]
+speaker = "unk"
+original = "付き合わされていた黒服の皆さんが限界を迎えてしまったため、引き分けということでお開きになったのだった。"
+translation = "곁에 있던 검은 옷의 여러분이 한계에 도달했기 때문에 무승부로 끝이 났다."
+

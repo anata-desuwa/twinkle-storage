@@ -1,0 +1,240 @@
+[[dialogue]]
+speaker = "unk"
+original = "第２話,影を渡るモノ,P"
+translation = "제2화, 그림자를 건너는 자"
+
+[[dialogue]]
+speaker = "unk"
+original = "特殊なモンスターの捜索と討伐の依頼を受けたゴールデングース。"
+translation = "특수한 몬스터의 수색과 토벌 의뢰를 받은 골든 구스."
+
+[[dialogue]]
+speaker = "unk"
+original = "そのモンスターにはある特徴があって──"
+translation = "그 몬스터에게는 어떤 특징이 있어서──"
+
+[[dialogue]]
+speaker = "ミウ"
+original = "「目を離すと、一瞬の隙に逃げられてしまうんだそうです。溶けるように、すーって」"
+translation = "「눈을 떼면 찰나의 틈을 타 도망쳐버린대요. 녹아내리듯 스윽 하고요.」"
+
+[[dialogue]]
+speaker = "ヒマワリ"
+original = "「なにそれー、お化けみたいだね」"
+translation = "「뭐야 그게, 귀신 같네.」"
+
+[[dialogue]]
+speaker = "セナリィ"
+original = "「ここにいるのは間違いないのでしょう？\u3000手分けして探すとしましょう。発見次第、速やかに連絡するように」"
+translation = "「이곳에 있는 것은 확실하겠지요? 분담해서 찾기로 하죠. 발견하는 즉시 신속하게 연락하도록 하세요.」"
+
+[[dialogue]]
+speaker = "ミウ"
+original = "「でも、セナリィ社長、下手に戦力を分散すると、各個撃破される危険性が……」"
+translation = "「하지만 세나리 사장님, 어설프게 전력을 분산하면 각개격파당할 위험성이……」"
+
+[[dialogue]]
+speaker = "ヒマワリ"
+original = "「大丈夫だよ、ミウ。そういうヘンテコ系能力の敵って、戦闘力はそんな高くないってのがセオリーじゃん。倒せるようならやっちゃお！」"
+translation = "「괜찮아, 미우. 그런 희한한 능력 계통 적은 전투력은 별로 안 높다는 게 정설이잖아. 잡을 수 있을 것 같으면 해치워버리자!」"
+
+[[dialogue]]
+speaker = "セナリィ"
+original = "「時間は限られてますわ。怪しいところを発見次第、コール。合流して叩きます。くれぐれも無茶は禁物ですわよ」"
+translation = "「시간이 한정되어 있어요. 수상한 곳을 발견하는 즉시 콜. 합류해서 때려잡겠습니다. 절대로 무리는 금물이에요.」"
+
+[[dialogue]]
+speaker = "ヒマワリ＆ミウ"
+original = "「はいっ！」"
+translation = "「네!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "俺たちは手分けして、神出鬼没なモンスターの捜索へと赴く。"
+translation = "우리들은 흩어져서, 신출귀몰한 몬스터를 수색하러 나선다."
+
+[[dialogue]]
+speaker = "ヒマワリ"
+original = "「どこだーい、モンスターちゃーん。ひゅーっ、ゾンビゲームみたいで、ドッキドキするー」"
+translation = "「어디 있니, 몬스터야. 휘유, 좀비 게임 같아서 두근두근하네.」"
+
+[[dialogue]]
+speaker = "セナリィ"
+original = "『こちら、セナリィ、敵影なしですわ。どうぞ』"
+translation = "『여기는 세나리, 적의 그림자 없음입니다. 이상.』"
+
+[[dialogue]]
+speaker = "ミウ"
+original = "『こちら、ミウ、同じく敵影なしです。どうぞ』"
+translation = "『여기는 미우, 마찬가지로 적의 그림자 없습니다. 이상.』"
+
+[[dialogue]]
+speaker = "ヒマワリ"
+original = "「こちら、ヒマワリ。問題なし。どうぞ」"
+translation = "「여기는 히마와리. 문제 없음. 이상.」"
+
+[[dialogue]]
+speaker = "モンスター"
+original = "「──────」"
+translation = "「──────」"
+
+[[dialogue]]
+speaker = "ヒマワリ"
+original = "「──えっ、影の中からっ──んんぐぅっ！？」"
+translation = "「── 앗, 그림자 속에서── 응구윽!?」"
+
+[[dialogue]]
+speaker = "ヒマワリ"
+original = "（舐めプしすぎたっ……！\u3000手ぇ動かないし、口塞がれて、声も、出せなっ──）"
+translation = "(너무 방심했어……! 손이 안 움직이고, 입이 막혀서 목소리도 안──)"
+
+[[dialogue]]
+speaker = "ヒマワリ"
+original = "（な、なにこれっ……影の中に、引きずり込まれるっ……！\u3000やだやだやだやだっ！\u3000怖い怖い怖いってぇ！）"
+translation = "(이, 이게 뭐야…… 그림자 속으로 끌려 들어가……! 싫어싫어싫어! 무서워무서워무섭다고!)"
+
+[[dialogue]]
+speaker = "ヒマワリ"
+original = "（やっ、嘘っ、あたし、死んじゃうのっ……！？\u3000こんな一瞬で──）"
+translation = "(아, 거짓말, 나 죽는 거야……!? 이런 순식간에──)"
+
+[[dialogue]]
+speaker = "unk"
+original = "ヒマワリっ！"
+translation = "히마와리!"
+
+[[dialogue]]
+speaker = "モンスター"
+original = "「────ッ！」"
+translation = "「────윽!」"
+
+[[dialogue]]
+speaker = "ヒマワリ"
+original = "「ぅえほっ！\u3000えほっ！\u3000えほっ！？\u3000な、なにがあったの……？\u3000あたし、助かった……？」"
+translation = "「우에혹! 에혹! 에혹!? 무, 무슨 일이 있었던 거야……? 나 산 거야……?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "大丈夫か！？"
+translation = "괜찮아!?"
+
+[[dialogue]]
+speaker = "ヒマワリ"
+original = "「会長、さんっ……！？」"
+translation = "「회장, 님……!?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ごめん、ヒマワリを尾けていた"
+translation = "미안, 히마와리를 미행하고 있었어."
+
+[[dialogue]]
+speaker = "ヒマワリ"
+original = "「おとり捜査ってやつ……？\u3000会長さん、ひどいことするじゃん……ミウと良い勝負だよ」"
+translation = "「함정 수사라는 거야……? 회장님, 너무한 짓을 하잖아…… 미우랑 막상막하야.」"
+
+[[dialogue]]
+speaker = "ヒマワリ"
+original = "「でも、すぐに助けてくれたから許してあげる！」"
+translation = "「하지만 금방 구해줬으니까 용서해줄게!」"
+
+[[dialogue]]
+speaker = "ヒマワリ"
+original = "「こんにゃろー！\u3000いたいけな少女をまるっと飲み込もうとか鬼畜な趣味してんじゃん！\u3000絶～～っ対、許さないからねっ！」"
+translation = "「이 녀석! 가련한 소녀를 통째로 집어삼키려 들다니 귀축 같은 취미를 가졌구나! 절～～대로 용서 안 할 테니까!」"
+
+[[dialogue]]
+speaker = "モンスター"
+original = "「────！！」"
+translation = "「────!!」"
+
+[[dialogue]]
+speaker = "ヒマワリ"
+original = "「はぁ、はぁっ……やっつけたぁ……！\u3000こちら、ヒマワリ……対象モンスターを撃破。どうぞ」"
+translation = "「하아, 하앗…… 해치웠다……! 여기는 히마와리…… 대상 몬스터를 격파. 이상.」"
+
+[[dialogue]]
+speaker = "ミウ"
+original = "『えっ、大丈夫だった！？』"
+translation = "『앗, 괜찮았어!?』"
+
+[[dialogue]]
+speaker = "ヒマワリ"
+original = "「平気、平気。会長さんが助けてくれたから」"
+translation = "「평정해, 평정해. 회장님이 구해줬으니까.」"
+
+[[dialogue]]
+speaker = "セナリィ"
+original = "『私が倒したかったですけど、お疲れさま、ヒマワリ。先ほど決めた場所で落ち合いましょう』"
+translation = "『제가 쓰러뜨리고 싶었습니다만, 수고하셨습니다, 히마와리. 아까 정한 장소에서 합류하죠.』"
+
+[[dialogue]]
+speaker = "ヒマワリ"
+original = "「……ふう、ありがとね、会長さん」"
+translation = "「……후우, 고마워요, 회장님.」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ヒマワリが無事で良かったよ"
+translation = "히마와리가 무사해서 다행이야."
+
+[[dialogue]]
+speaker = "ヒマワリ"
+original = "「っ……！\u3000ぅえ、ふぇ、ぅえぇえぇぇぇぇっ！」"
+translation = "「윽……! 으에, 에, 으에에에에에에엥!」"
+
+[[dialogue]]
+speaker = "ヒマワリ"
+original = "「っうぇ……怖かった……怖かったよぉ……！\u3000助けてくれて、ありがと、ありがと、会長さぁん……！」"
+translation = "「으으…… 무서웠어…… 무서웠다고오……! 구해줘서 고마워요, 고마워요, 회장님……!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "縋りつくヒマワリの涙が収まるまで、俺は胸を貸してあげた。"
+translation = "매달려 우는 히마와리의 눈물이 그칠 때까지 나는 가슴을 빌려주었다."
+
+[[dialogue]]
+speaker = "ヒマワリ"
+original = "「うぅぅ、恥ずかしいところ見られちゃったな……」"
+translation = "「으으으, 창피한 모습을 보여버렸네……」"
+
+[[dialogue]]
+speaker = "unk"
+original = "治まった？"
+translation = "진정됐어?"
+
+[[dialogue]]
+speaker = "ヒマワリ"
+original = "「……うん、油断してたあたしが悪かったです。次はもっとしっかりします」"
+translation = "「……응, 방심한 제 잘못이에요. 다음엔 더 정신 차릴게요.」"
+
+[[dialogue]]
+speaker = "ヒマワリ"
+original = "「会長さんたちも、今まで何度も怖い目に遭ってきたんですよね……？」"
+translation = "「회장님들도 지금까지 몇 번이나 무서운 경험을 해오셨던 거죠……?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "そうだね、数えきれないくらい"
+translation = "그렇지, 셀 수 없을 정도로."
+
+[[dialogue]]
+speaker = "ヒマワリ"
+original = "「そう、ですよね……強くなるには一度や二度くらいのピンチでビビッてらんないですよね！\u3000よーし、もっと気合入れてこ！」"
+translation = "「그렇, 군요…… 강해지려면 한두 번 정도의 위기에 겁먹고 있을 순 없죠! 좋아, 더 기합 넣자!」"
+
+[[dialogue]]
+speaker = "ヒマワリ"
+original = "「じゃ、みんなのところに戻りま──あっ、会長さん！」"
+translation = "「그럼 모두가 있는 곳으로 돌아가── 앗, 회장님!」"
+
+[[dialogue]]
+speaker = "ヒマワリ"
+original = "「あたしが怖くて泣いちゃったの……みんなには絶対に内緒ですからね……！？」"
+translation = "「제가 무서워서 울어버린 거…… 모두에겐 절대 비밀이에요……!?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "こうして、ヒマワリと俺は２人だけの秘密を共有することになったのである。"
+translation = "이렇게 히마와리와 나는 둘만의 비밀을 공유하게 된 것이다."
+

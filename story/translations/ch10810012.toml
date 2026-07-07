@@ -1,0 +1,255 @@
+[[dialogue]]
+speaker = "unk"
+original = "第２話,カレーライスとカツ丼,P"
+translation = "제2화, 카레라이스와 돈가스 덮밥, P"
+
+[[dialogue]]
+speaker = "unk"
+original = "たまにはカフェでランチを──と訪れたそこには見知った先客がいた。"
+translation = "가끔은 카페에서 점심을── 하고 방문한 그곳에는 낯익은 선객이 있었다."
+
+[[dialogue]]
+speaker = "フラン"
+original = "「おっ、会長じゃねえか。今日はひとり飯か？」"
+translation = "「오, 회장 아냐. 오늘은 혼밥이냐?」"
+
+[[dialogue]]
+speaker = "グロリア"
+original = "「あの、よろしければ、ご一緒にいかがです？」"
+translation = "「저기, 괜찮으시다면 같이 드시지 않겠어요?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "じゃあお言葉に甘えて"
+translation = "그럼 사양 않고"
+
+[[dialogue]]
+speaker = "グロリア"
+original = "「女神様に感謝して……いただきます」"
+translation = "「여신님께 감사하며…… 잘 먹겠습니다」"
+
+[[dialogue]]
+speaker = "フラン"
+original = "「いただきまーす！\u3000おっ、会長さんのはなんだ？」"
+translation = "「잘 먹겠습니다! 오, 회장님 건 뭐야?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "たっぷりキノコの和風パスタ"
+translation = "버섯 가득한 일본풍 파스타"
+
+[[dialogue]]
+speaker = "フラン"
+original = "「おしゃれなもん食ってんなあ。そんなんでパワーがみなぎるのかよ」"
+translation = "「세련된 걸 먹고 있네. 그런 걸로 파워가 솟아나겠냐고」"
+
+[[dialogue]]
+speaker = "グロリア"
+original = "「フランさんは今日もカツ丼なんですね」"
+translation = "「프랑 씨는 오늘도 돈가스 덮밥이네요」"
+
+[[dialogue]]
+speaker = "フラン"
+original = "「おうよ！\u3000しかも、今日はカツ２倍の特盛だぜ！\u3000放課後に部活の応援が３件入ってるからな！」"
+translation = "「당연하지! 게다가 오늘은 가츠 2배 곱빼기라고! 방과 후에 동아리 응원이 3건이나 잡혀 있거든!」"
+
+[[dialogue]]
+speaker = "フラン"
+original = "「……で、グロリアもいつものなのな」"
+translation = "「……그리고, 글로리아도 평소 먹던 거네」"
+
+[[dialogue]]
+speaker = "グロリア"
+original = "「はい、お子様ハンバーグオムカレーです」"
+translation = "「네, 어린이용 함박 오므카레예요」"
+
+[[dialogue]]
+speaker = "フラン"
+original = "「電車の形をしたプレートに……ハンバーグとオムレツとカレーが乗ってて、ライスにはご丁寧に国旗まで刺さってらぁ……」"
+translation = "「기차 모양의 플레이트에…… 함박스테이크랑 오므라이스랑 카레가 얹혀 있고, 밥에는 정성스럽게 국기까지 꽂혀 있네……」"
+
+[[dialogue]]
+speaker = "フラン"
+original = "「なんで学生用のカフェテリアにお子様ランチがあるんだ……？」"
+translation = "「왜 학생용 카페테리아에 어린이 런치가 있는 거야……?」"
+
+[[dialogue]]
+speaker = "グロリア"
+original = "「私はフランさんみたいにたくさんは食べられませんから、お子様サイズで十分なんです」"
+translation = "「저는 프랑 씨처럼 많이 먹지 못하니까, 어린이 사이즈로 충분해요」"
+
+[[dialogue]]
+speaker = "グロリア"
+original = "「でも、すごく美味しいんですよ。こんなに美味しい食べ物は他にありません。あ～……ん～～っ<emoji=heart04>\u3000美味しいです……<emoji=heart04>」"
+translation = "「하지만 정말 맛있답니다. 이렇게 맛있는 음식은 또 없어요. 아~…… 음~~<emoji=heart04> 맛있어요……<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "フラン"
+original = "「いや、ここの飯は美味えよ？\u3000美味えし、悪く言うつもりはねえけどよ……」"
+translation = "「아니, 여기 밥 맛있긴 하지? 맛있고, 나쁘게 말할 생각은 없는데 말이야……」"
+
+[[dialogue]]
+speaker = "フラン"
+original = "「グロリアの食いものの好み、いくらなんでも子どもっぽすぎねえか？」"
+translation = "「글로리아의 음식 취향, 아무리 그래도 너무 어린애 같지 않아?」"
+
+[[dialogue]]
+speaker = "グロリア"
+original = "「そうでしょうか？」"
+translation = "「그럴까요?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "スパゲティといったら？"
+translation = "스파게티라고 한다면?"
+
+[[dialogue]]
+speaker = "グロリア"
+original = "「ミートソースか、ナポリタンですね」"
+translation = "「미트소스나 나폴리탄이죠」"
+
+[[dialogue]]
+speaker = "フラン"
+original = "「な？\u3000いつもこんな調子で、子どもが食うものばっかりなんだよ。会長、なんか言ってやってくれ」"
+translation = "「봤지? 항상 이런 식이라니까, 애들이 먹는 것만 고르고. 회장, 한마디 해줘」"
+
+[[dialogue]]
+speaker = "グロリア"
+original = "「まあ！\u3000フランさんだってカツ丼ばかり食べてるじゃないですか」"
+translation = "「어머! 프랑 씨야말로 돈가스 덮밥만 드시잖아요」"
+
+[[dialogue]]
+speaker = "フラン"
+original = "「カツ丼は美味えだろ！\u3000ゲン担ぎだしな！」"
+translation = "「돈가스 덮밥은 맛있다고! 승리 기원이기도 하고!」"
+
+[[dialogue]]
+speaker = "グロリア"
+original = "「カレーだって美味しいです！」"
+translation = "「카레도 맛있어요!」"
+
+[[dialogue]]
+speaker = "フラン"
+original = "「超甘口のカレーなんてカレーじゃねえし！」"
+translation = "「초순한맛 카레 같은 건 카레도 아니라고!」"
+
+[[dialogue]]
+speaker = "グロリア"
+original = "「そんなことありません～～！」"
+translation = "「그렇지 않아요~~!」"
+
+[[dialogue]]
+speaker = "グロリア"
+original = "「そもそも、私の舌がお子様だとしても、フランさんには特に迷惑もかからないのでは？」"
+translation = "「애초에 제 입맛이 어린애 같다고 해도, 프랑 씨에게 특별히 폐를 끼치는 것도 아니지 않나요?」"
+
+[[dialogue]]
+speaker = "フラン"
+original = "「迷惑はかかんねえけどさ……一生、お子様カレー以外の食べ物を知らなくてもよさそうな顔してんのが、ちょっと不安なんだよ」"
+translation = "「폐는 안 끼치지만 말이야…… 평생 어린이 카레 이외의 음식을 몰라도 상관없다는 표정을 짓고 있는 게 좀 불안하다고」"
+
+[[dialogue]]
+speaker = "グロリア"
+original = "「不安、ですか？」"
+translation = "「불안, 하신가요?」"
+
+[[dialogue]]
+speaker = "フラン"
+original = "「親御さんのしがらみも、ちっとは晴れたんだからよ。グロリアにはもっと広い世界を知ってほしいんだ」"
+translation = "「부모님과의 굴레도 조금은 걷혔으니까 말이야. 글로리아가 더 넓은 세상을 알았으면 좋겠어」"
+
+[[dialogue]]
+speaker = "フラン"
+original = "「世の中にはお子様カレー以外にも、美味いもんがたくさんあるってさ」"
+translation = "「세상에는 어린이 카레 말고도 맛있는 게 잔뜩 있다고」"
+
+[[dialogue]]
+speaker = "フラン"
+original = "「せっかくなら同じ美味い物を一緒に食べて、同じように笑いたいじゃねえか」"
+translation = "「이왕이면 같은 맛있는 음식을 같이 먹고, 똑같이 웃고 싶잖아」"
+
+[[dialogue]]
+speaker = "フラン"
+original = "「友達ならさ、そういうの、分かち合いたくなるもんなんだよ」"
+translation = "「친구라면 말이야, 그런 거 공유하고 싶어지는 법이라고」"
+
+[[dialogue]]
+speaker = "グロリア"
+original = "「友達……フランさん、ありがとうございます。あの……フランさんのカツ丼、一口いただいてもよろしいですか？」"
+translation = "「친구…… 프랑 씨, 감사해요. 저기…… 프랑 씨의 돈가스 덮밥, 한 입만 먹어봐도 될까요?」"
+
+[[dialogue]]
+speaker = "フラン"
+original = "「おお、食え食え！\u3000一口と言わずに全部──いや半分までは食っていいぞ！」"
+translation = "「오오, 먹어 먹어! 한 입 말고 전부── 아니 절반까지는 먹어도 된다고!」"
+
+[[dialogue]]
+speaker = "グロリア"
+original = "「そこまで頂くつもりはありませんが……。では、いただきます……ぁむ」"
+translation = "「그 정도로 뺏어 먹을 생각은 없지만요……. 그럼, 잘 먹겠습니다…… 아음」"
+
+[[dialogue]]
+speaker = "フラン"
+original = "「……どうだ？」"
+translation = "「……어때?」"
+
+[[dialogue]]
+speaker = "グロリア"
+original = "「っ！\u3000美味しいです！\u3000カツがサクサクで、卵もトロトロで、出汁の風味もふわぁって……！」"
+translation = "「! 맛있어요! 고기가 바삭바삭하고, 계란도 보들보들하고, 육수의 풍미가 확 하고……!」"
+
+[[dialogue]]
+speaker = "フラン"
+original = "「だろ？\u3000オレもそのカレー、一口もらっていいか？」"
+translation = "「그치? 나도 그 카레, 한 입만 먹어도 될까?」"
+
+[[dialogue]]
+speaker = "グロリア"
+original = "「……はいっ！\u3000もちろんです！」"
+translation = "「……네! 물론이죠!」"
+
+[[dialogue]]
+speaker = "フラン"
+original = "「んじゃ、いただきます……ぱく――んんっ！？」"
+translation = "「그럼, 잘 먹겠습니다…… 냠―― 응!?」"
+
+[[dialogue]]
+speaker = "グロリア"
+original = "「ど、どうですか……？」"
+translation = "「어, 어떤가요……?」"
+
+[[dialogue]]
+speaker = "フラン"
+original = "「お子様味かと思ってたけど、このカレー、すげえ本格派じゃねえか……！\u3000甘口なのにスパイスが効いてて、コクと旨味がすっげえ……！」"
+translation = "「어린애 맛인 줄 알았는데, 이 카레 완전 본격적인데……! 순한맛인데도 향신료가 제대로고, 깊은 맛이랑 감칠맛이 엄청나……!」"
+
+[[dialogue]]
+speaker = "グロリア"
+original = "「そうでしょう？\u3000ここのカレーは絶品なんです！」"
+translation = "「그렇죠? 여기 카레는 일품이에요!」"
+
+[[dialogue]]
+speaker = "フラン"
+original = "「味がわからねえみたいな言い方して悪かった！\u3000このカレーとカツを合わせて、カツカレーにしても美味いかもな」"
+translation = "「맛을 모른다는 식으로 말해서 미안! 이 카레랑 돈가스를 합쳐서 돈가스 카레로 만들어도 맛있겠네」"
+
+[[dialogue]]
+speaker = "グロリア"
+original = "「私とフランさんの大好きな物の良いとこ取りですね、ふふ」"
+translation = "「저와 프랑 씨가 제일 좋아하는 것들의 장점만 모은 거네요, 후후」"
+
+[[dialogue]]
+speaker = "グロリア"
+original = "「会長さんのスパゲティも、一口いただいても？」"
+translation = "「회장님의 스파게티도 한 입 먹어봐도 될까요?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ぜひ、どうぞ！"
+translation = "부디, 마음껏 드세요!"
+
+[[dialogue]]
+speaker = "unk"
+original = "こうして今日、グロリアさんの好物が新たに２つ増えたのであった。"
+translation = "이렇게 해서 오늘, 글로리아 씨의 좋아하는 음식이 새롭게 두 개 늘어났다."
+

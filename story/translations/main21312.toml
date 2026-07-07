@@ -1,0 +1,200 @@
+[[dialogue]]
+speaker = "unk"
+original = "第１２話,開戦,B"
+translation = "제12화, 개전, B"
+
+[[dialogue]]
+speaker = "unk"
+original = "とうとう、極星学園生全員の怪我が完治した。それを機に俺は、彼女たちを星徒会室に呼び出した──"
+translation = "드디어 극성학원생 전원의 부상이 완치되었다. 그것을 계기로 나는 그녀들을 성도회실로 불러냈다──"
+
+[[dialogue]]
+speaker = "グレイス"
+original = "「私たちのセレスティア……いいんですか？」"
+translation = "「저희의 셀레스티아…… 괜찮은 건가요?」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「ああ。本来の機能を１００％引き出せるように調整してある。使ってくれ」"
+translation = "「그래. 본래의 기능을 100% 끌어낼 수 있도록 조정해 뒀어. 사용해 줘.」"
+
+[[dialogue]]
+speaker = "レティシア"
+original = "「寝首をかかれても知らないわよ？」"
+translation = "「자다가 목이 베여도 난 모른다?」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「そうならないよう、努力する」"
+translation = "「그렇게 되지 않도록 노력할게.」"
+
+[[dialogue]]
+speaker = "チナ"
+original = "「……いよいよデネブに帰る。そういうことだな？」"
+translation = "「……드디어 데네브로 돌아간다. 그런 뜻이지?」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「天界と魔界、双方からの応援が到着次第、転送装置を使ってデネブに乗り込む。今日か明日か、数日先か……でも長いこと待たせないよ」"
+translation = "「천계와 마계, 양쪽에서의 지원이 도착하는 대로 전송 장치를 사용해 데네브로 쳐들어간다. 오늘일지 내일일지, 며칠 뒤일지…… 하지만 오래 기다리게 하지는 않을 거야.」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「それまでに各自、準備を整えておいてくれ」"
+translation = "「그때까지 각자 준비를 갖춰둬.」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「いよいよ最終決戦ってわけね！\u3000燃えてきたわ！」"
+translation = "「드디어 최종 결전이네! 불타오르는데!」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「全員、存分に腕を振るってほしい。ただし俺たちの目的はあくまで、リクリエを止めること」"
+translation = "「전원 마음껏 실력을 발휘해 줬으면 좋겠어. 다만 우리의 목적은 어디까지나 리크리에를 멈추는 것.」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「リクリエを扇動するルヴィネを説得し、彼女の助力を持って『<ruby>ＸＥＬＯＳ<rt>ゼロス</rt></ruby>』にアプローチをとる」"
+translation = "「리크리에를 선동하는 루비네를 설득하고, 그녀의 도움을 받아 『<ruby>XELOS<rt>제로스</rt></ruby>』에게 접근한다.」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「和平交渉になるのか、創造神を討つことになるのか……出たとこ勝負になるだろう。でも、譲るつもりはない」"
+translation = "「화평 협상이 될지, 창조신을 토벌하게 될지…… 부딪혀 봐야 알겠지. 하지만 물러설 생각은 없어.」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「アルタイルとデネブ、２つの世界を救う──掴み取ろう。俺たちの未来を！」"
+translation = "「알타이르와 데네브, 두 세계를 구한다── 쟁취하자. 우리의 미래를!」"
+
+[[dialogue]]
+speaker = "チナ"
+original = "「……ああ！」"
+translation = "「……그래!」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「──ジグ。今、君にはどんな未来が視える？」"
+translation = "「──지그. 지금 너에게는 어떤 미래가 보여?」"
+
+[[dialogue]]
+speaker = "ジグ"
+original = "「……少し待ってくれるかい。<ruby>可能性<rt>みらい</rt></ruby>を探ってみよう」"
+translation = "「……잠시 기다려 주겠나. 가능성을 탐색해 보지.」"
+
+[[dialogue]]
+speaker = "unk"
+original = "瞳を閉じるジグに、全員が固唾をのんで見守っていると──"
+translation = "눈을 감는 지그를 모두가 마른침을 삼키며 지켜보고 있자──"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「これは──！」"
+translation = "「이건──!」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「み、皆っ！\u3000外を見て！！\u3000空が……！！」"
+translation = "「모, 모두! 밖을 봐!! 하늘이……!!」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「フィヴォス流星群の時と同じ……いや、あの時以上の……！？」"
+translation = "「피보스 유성우 때와 똑같아…… 아니, 그때 이상의……!?」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「まさか乗り込んできたのか、ルヴィネ本人が！？」"
+translation = "「설마 직접 쳐들어온 건가, 루비네 본인이!?」"
+
+[[dialogue]]
+speaker = "ベアトリス"
+original = "「……ルヴィ。待ってて。絶対に止めて見せるから……！」"
+translation = "「……루비. 기다려. 절대로 멈춰 보이겠어……!」"
+
+[[dialogue]]
+speaker = "ルヴィネ"
+original = "「──宣戦布告よ、アルタイルの星騎士たち」"
+translation = "「──선전포고예요, 알타이르의 성기사들.」"
+
+[[dialogue]]
+speaker = "ルヴィネ"
+original = "「……お父様。見ていてください。これより、世界の刷新を始めます」"
+translation = "「……아버님. 지켜봐 주세요. 지금부터 세계의 쇄신을 시작합니다.」"
+
+[[dialogue]]
+speaker = "unk"
+original = "──全員が星徒会室を飛び出して行き、部屋の中にジグだけが残された。"
+translation = "──전원이 성도회실을 뛰어나갔고, 방 안에는 지그만이 남겨졌다."
+
+[[dialogue]]
+speaker = "ジグ"
+original = "「……残念だ」"
+translation = "「……안타깝군.」"
+
+[[dialogue]]
+speaker = "ジグ"
+original = "「視える未来に変化はなし──ルヴィネは、死ぬ」"
+translation = "「보이는 미래에 변화는 없어── 루비네는 죽는다.」"
+
+[[dialogue]]
+speaker = "ジグ"
+original = "「これは後味の悪い戦いになりそうだ……それとも魔王。君ならここからでも、まだ未来を変えられるのかな？」"
+translation = "「이건 뒷맛이 개운치 않은 싸움이 되겠군…… 아니면 마왕. 너라면 여기서부터라도 아직 미래를 바꿀 수 있을까?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "元よりジグは、ルヴィネの死については致し方ないと思っている。"
+translation = "애초에 지그는 루비네의 죽음에 대해서는 어쩔 수 없다고 생각하고 있다."
+
+[[dialogue]]
+speaker = "unk"
+original = "最も知るべきは、これから緋宮クロトが辿る結末だ。"
+translation = "가장 알아야 할 것은 앞으로 히노미야 쿠로토가 걷게 될 결말이다."
+
+[[dialogue]]
+speaker = "unk"
+original = "星眼の連続使用は負担も大きいが、覗き見るしかない。ルヴィネの死亡よりもさらに先──世界の最後の希望である魔王が見るであろう光景を。"
+translation = "성안의 연속 사용은 부담도 크지만 엿볼 수밖에 없다. 루비네의 사망보다 더 먼 미래── 세계의 마지막 희망인 마왕이 보게 될 광경을."
+
+[[dialogue]]
+speaker = "ジグ"
+original = "（あの破滅の世界が見えるのか。『<ruby>ＸＥＬＯＳ<rt>ゼロス</rt></ruby>』を倒す彼が見えるのか──どっちだ？）"
+translation = "(그 파멸의 세계가 보이는가. 『<ruby>XELOS<rt>제로스</rt></ruby>』를 쓰러뜨리는 그가 보이는가── 어느 쪽이지?)"
+
+[[dialogue]]
+speaker = "ジグ"
+original = "（…………！？）"
+translation = "(…………!?)"
+
+[[dialogue]]
+speaker = "unk"
+original = "視えたのは、一面の黒。"
+translation = "보인 것은 온통 검은색."
+
+[[dialogue]]
+speaker = "ジグ"
+original = "（……なんだ、これは？）"
+translation = "(……뭐지, 이건?)"
+
+[[dialogue]]
+speaker = "unk"
+original = "音もなく、光もなく、温かくも冷たくもない──完全な『無』が広がっている。"
+translation = "소리도 없고, 빛도 없고, 따뜻하지도 차갑지도 않은── 완전한 『무』가 펼쳐져 있다."
+
+[[dialogue]]
+speaker = "ジグ"
+original = "（これが……魔王に訪れる、彼が視ることになる──未来だと？）"
+translation = "(이것이…… 마왕에게 찾아올, 그가 보게 될── 미래라고?)"
+
+[[dialogue]]
+speaker = "ジグ"
+original = "（私の能力の限界なのか。それとも……）"
+translation = "(내 능력의 한계인 걸까. 아니면……)"
+
+[[dialogue]]
+speaker = "ジグ"
+original = "（本当にこれが起きる、というのか……！？）"
+translation = "(정말로 이런 일이 일어난다는 것인가……!?)"
+

@@ -1,0 +1,290 @@
+[[dialogue]]
+speaker = "unk"
+original = "第４話,ちょっと早めに,P"
+translation = "제4화, 조금 이르게"
+
+[[dialogue]]
+speaker = "unk"
+original = "夕霧庵で提供するスイーツの試作を重ねていた俺とナナカ。"
+translation = "유우기리안에서 제공할 스위츠의 시제품을 거듭 만들던 나와 나나카."
+
+[[dialogue]]
+speaker = "unk"
+original = "やっと完成したので、みんなに試食をしてもらうことになった。"
+translation = "드디어 완성되었기에 다 같이 시식을 해보기로 했다."
+
+[[dialogue]]
+speaker = "ナナカ"
+original = "「じゃじゃーん！\u3000これが夕霧庵の新メニュー候補、そば茶プリンでーすっ！」"
+translation = "「짜잔! 이게 유우기리안의 신메뉴 후보, 소바차 푸딩입니다!」"
+
+[[dialogue]]
+speaker = "ロロット"
+original = "「おお～、ちょうどおいしいおやつがほしいと思っていたところなのです～」"
+translation = "「오오~ 마침 맛있는 간식이 필요하다고 생각하던 참인 거예요~」"
+
+[[dialogue]]
+speaker = "ナナカ"
+original = "「よかったら、食べて感想聞かせて。ロロちゃんだけじゃなくて、ルリちゃんもね」"
+translation = "「괜찮다면 먹어보고 감상 들려줘. 로로짱뿐만 아니라 루리짱도 말이야.」"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「はいっ、試食の大役、しっかり務めさせて頂きますっ！」"
+translation = "「네! 시식이라는 대역, 확실히 수행하겠습니다!」"
+
+[[dialogue]]
+speaker = "ナナカ"
+original = "「あんがとね。ほんとはもっと人数いたらよかったんだけど、みんな捕まらなくてさ」"
+translation = "「고마워. 원래 인원이 더 많았으면 좋았을 텐데, 다들 바빠서 말이야.」"
+
+[[dialogue]]
+speaker = "ナナカ"
+original = "「ま、何はともあれ、さっそく試食いってみよう♪\u3000はい、スプーン持って～」"
+translation = "「뭐, 어쨌든 바로 시식해보자♪ 자, 스푼 들고~」"
+
+[[dialogue]]
+speaker = "unk"
+original = "いただきます！"
+translation = "잘 먹겠습니다!"
+
+[[dialogue]]
+speaker = "ロロット"
+original = "「こ、これは……！\u3000とってもなめらかで、おいしいのです～！」"
+translation = "「이, 이것은……! 정말 부드럽고 맛있는 거예요~!」"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「そば茶の香りが落ち着きますね。甘さも優しくて、わたし、好きかもです」"
+translation = "「소바차의 향기가 마음을 차분하게 해주네요. 단맛도 부드러워서 저, 좋아할지도 몰라요.」"
+
+[[dialogue]]
+speaker = "ナナカ"
+original = "「よかった～。なかなかの好感触、だよね？」"
+translation = "「다행이다~ 꽤 반응 좋은데?」"
+
+[[dialogue]]
+speaker = "ロロット"
+original = "「プリンでありながら和の香りを感じますし、食後のデザートにもさっぱりと食べられそうなのです。これは別腹もお腹いっぱいになってしまいそうですねぇ～」"
+translation = "「푸딩이면서도 일본의 향기가 느껴지고, 식후 디저트로도 깔끔하게 먹을 수 있을 것 같은 거예요. 이건 디저트 배도 꽉 차버릴 것 같네요~」"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「こんなスイーツ初めてです。向こうに戻ったら食べられなくなっちゃうのが残念ですね」"
+translation = "「이런 스위츠는 처음이에요. 저쪽으로 돌아가면 못 먹게 되는 게 아쉽네요.」"
+
+[[dialogue]]
+speaker = "ナナカ"
+original = "「それなら、会長が作れるからさ、食べたくなったら頼めばいいと思うよ」"
+translation = "「그렇다면 회장이 만들 줄 아니까, 먹고 싶어지면 부탁하면 된다고 생각해.」"
+
+[[dialogue]]
+speaker = "ロロット"
+original = "「ふむ……これだけでも満足ですが、おソバを食べた後のデザートとして味わうのも、魅力的かもしれませんねぇ。おっと、食いしん坊ではありませんよ」"
+translation = "「흠…… 이것만으로도 만족스럽지만, 소바를 먹은 뒤의 디저트로 맛보는 것도 매력적일지 모르겠네요. 앗, 먹보인 건 아니에요.」"
+
+[[dialogue]]
+speaker = "ナナカ"
+original = "「ロロちゃん、いいこと言った！\u3000次はおソバとセットにして試してみよう！」"
+translation = "「로로짱, 좋은 말 했어! 다음은 소바랑 세트로 해서 시도해보자!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "夕霧庵に移動する？"
+translation = "유우기리안으로 이동할까?"
+
+[[dialogue]]
+speaker = "ナナカ"
+original = "「うーん、それは明日にしとこうかな。うちも営業中だしね」"
+translation = "「으음, 그건 내일로 할까. 우리 집도 영업 중이니까 말이야.」"
+
+[[dialogue]]
+speaker = "ロロット"
+original = "「となると、予定が空いてしまいましたね。皆さんは、この後どうされるのでしょう？」"
+translation = "「그렇게 되면 예정이 비어버렸네요. 여러분은 이다음에 어떻게 하시나요?」"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「わたしはフィオナ会長のところに行こうかなって思ってます」"
+translation = "「저는 피오나 회장님 계신 곳으로 갈까 생각 중이에요.」"
+
+[[dialogue]]
+speaker = "ロロット"
+original = "「おお！\u3000では、わたしもご一緒させてもらいましょう。あの方とも、もっとお話しがしたいのです♪」"
+translation = "「오오! 그럼 저도 함께 가게 해주세요. 그분과도 좀 더 이야기하고 싶은 거예요♪」"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「どうぞどうぞ～。ロロットさんならフィオナ会長も大歓迎ですよ～」"
+translation = "「좋아요 좋아요~ 로롯토 씨라면 피오나 회장님도 대환영일 거예요~」"
+
+[[dialogue]]
+speaker = "unk"
+original = "こっちはどうする？"
+translation = "이쪽은 어떻게 할래?"
+
+[[dialogue]]
+speaker = "ナナカ"
+original = "「そうさねぇ……」"
+translation = "「글쎄다……」"
+
+[[dialogue]]
+speaker = "ナナカ"
+original = "「おっ、そうだっ！\u3000よければ流星町をもうちょっとだけ案内させてよ」"
+translation = "「앗, 그렇다! 괜찮으면 유성 마을을 조금만 더 안내하게 해줘.」"
+
+[[dialogue]]
+speaker = "ナナカ"
+original = "「せっかくだし、アタシしか知らないような穴場にも連れて行きたいんだ～。ね、いいでしょ？」"
+translation = "「이왕 하는 거 나밖에 모르는 숨은 명소에도 데려가고 싶어~ 응, 괜찮지?」"
+
+[[dialogue]]
+speaker = "ナナカ"
+original = "「ふぅ～、遊んだ遊んだ～」"
+translation = "「후우~ 잘 놀았다~」"
+
+[[dialogue]]
+speaker = "ナナカ"
+original = "「どう？\u3000流星町もなかなかのもんでしょ？」"
+translation = "「어때? 유성 마을도 제법이지?」"
+
+[[dialogue]]
+speaker = "ナナカ"
+original = "「会長はもうすぐ帰っちゃうけどさ、それでもアタシたちが暮らすこの町のこと、ちょっとでも好きになってくれたら、嬉しいなってね」"
+translation = "「회장은 이제 곧 돌아가겠지만, 그래도 우리가 사는 이 마을을 조금이라도 좋아해 준다면 기쁘겠어.」"
+
+[[dialogue]]
+speaker = "unk"
+original = "とても楽しかったよ"
+translation = "정말 즐거웠어"
+
+[[dialogue]]
+speaker = "ナナカ"
+original = "「そうっしょ、そうっしょ。なんたって、このアタシのエスコートなんだから！」"
+translation = "「그렇지, 그렇지. 뭐니 뭐니 해도 이 나의 에스코트니까!」"
+
+[[dialogue]]
+speaker = "ナナカ"
+original = "「ま、ほんとなら、もっといっぱい色んなとこ連れてってあげたかったんだけど……タイムアップかね」"
+translation = "「뭐, 원래라면 좀 더 여러 군데 데려가 주고 싶었지만…… 타임 오버인가.」"
+
+[[dialogue]]
+speaker = "ナナカ"
+original = "「っていうか、アタシがスウィーツ同好会の活動や新メニューの考案に付き合わせたりしなきゃ、もっといろいろ出来たんだろうけどさ」"
+translation = "「그보다 내가 스위츠 동호회 활동이나 신메뉴 고안에 어울리게 하지만 않았어도 더 여러 가지 할 수 있었을 텐데 말이야.」"
+
+[[dialogue]]
+speaker = "ナナカ"
+original = "「会長は特に振り回しちゃったよね。シンにもよく注意されるんだけど、アタシってばこういう性格なもんでね～」"
+translation = "「회장은 특히 휘둘러버렸네. 신에게도 자주 주의 듣긴 하는데, 내가 워낙 이런 성격이라 말이지~」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ナナカらしくていいと思うよ"
+translation = "나나카다워서 좋다고 생각해"
+
+[[dialogue]]
+speaker = "ナナカ"
+original = "「うん、アタシもそう思う。シンだって、アタシはこのままでいいって、言ってくれてるしさ」"
+translation = "「응, 나도 그렇게 생각해. 신도 나는 이대로가 좋다고 말해줬고 말이야.」"
+
+[[dialogue]]
+speaker = "ナナカ"
+original = "「たははっ、のろけちゃって悪いねぇ。会長もメルエルのことで、のろけちまってもいいんじゃないの？」"
+translation = "「타하핫, 닭살 돋게 해서 미안하네. 회장도 메르엘 이야기로 닭살 좀 돋아도 되지 않아?」"
+
+[[dialogue]]
+speaker = "ナナカ"
+original = "「どうなのさ、相談とか、してみちゃったりする？」"
+translation = "「어떤 거야, 상담이라든가 한번 해볼래?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "大事なことだから自分で考えるよ"
+translation = "소중한 일이니까 스스로 생각할게"
+
+[[dialogue]]
+speaker = "ナナカ"
+original = "「おっ、そいつはそうだね。うんうん、そうしてあげて♪」"
+translation = "「오, 그거 맞는 말이네. 응응, 그렇게 해줘♪」"
+
+[[dialogue]]
+speaker = "ナナカ"
+original = "「アタシも、シンのことはなかなか他の人には相談出来ないし」"
+translation = "「나도 신의 일은 웬만해선 다른 사람에겐 상담 못 하니까.」"
+
+[[dialogue]]
+speaker = "ナナカ"
+original = "「あ、今こうやって話してんのは、相談じゃないからねっ。誤解しないよーに」"
+translation = "「아, 지금 이렇게 얘기하는 건 상담 아니니까 말이야. 오해하지 말도록.」"
+
+[[dialogue]]
+speaker = "ナナカ"
+original = "「まぁ結局さ……大事なことは、自分で考えて決めなきゃいけないんだよね……そんなことわかってるってのに」"
+translation = "「뭐 결국…… 중요한 건 스스로 생각해서 결정해야 하는 거니까…… 그런 건 다 알고 있는데도 말이야.」"
+
+[[dialogue]]
+speaker = "ナナカ"
+original = "「メルエルのことも、勝手にいろいろ言っちゃってごめんね。余計なお世話だったかもしんない」"
+translation = "「메르엘의 일도 마음대로 이것저것 말해서 미안해. 오지랖이었을지도 몰라.」"
+
+[[dialogue]]
+speaker = "ナナカ"
+original = "「でもっ、メルエルの話を聞いて、会長のこと、もっと知れたから、結果オーライかな」"
+translation = "「하지만 메르엘 이야기를 듣고 회장에 대해 좀 더 알게 됐으니까, 결과적으론 오라이(Ok)려나.」"
+
+[[dialogue]]
+speaker = "ナナカ"
+original = "「今回は、ほんとあんがとねっ。スウィーツのことも、それ以外のことも」"
+translation = "「이번엔 정말 고마웠어. 스위츠 일도, 그 외의 일도.」"
+
+[[dialogue]]
+speaker = "ナナカ"
+original = "「会長はもうすぐ帰っちゃうけどさ、きっとまた会えるよね？」"
+translation = "「회장은 이제 곧 돌아가겠지만, 분명 다시 만날 수 있겠지?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "きっと会えるよ"
+translation = "분명 만날 수 있을 거야"
+
+[[dialogue]]
+speaker = "ナナカ"
+original = "「だよねっ。１回どころか２回も来てるんだし、こりゃ３回目もあるってこった！」"
+translation = "「그치! 한 번도 아니고 두 번이나 왔으니까 이건 세 번째도 있다는 소리야!」"
+
+[[dialogue]]
+speaker = "ナナカ"
+original = "「どうせまた、何かのトラブルに巻き込まれちゃうんだろうけど……それはそれか」"
+translation = "「어차피 또 무슨 트러블에 휘말리게 되겠지만…… 그건 그거고.」"
+
+[[dialogue]]
+speaker = "ナナカ"
+original = "「そんじゃ、あっちに帰る時は他にも大勢いると思うから、今ここで言っとくよ」"
+translation = "「그럼 저쪽으로 돌아갈 때는 다른 사람들도 많을 테니까 지금 여기서 말해둘게.」"
+
+[[dialogue]]
+speaker = "ナナカ"
+original = "「またね！\u3000次は、もっともっと一緒に遊ぼうじゃないの！」"
+translation = "「다음에 봐! 다음엔 훨씬 훨씬 더 많이 같이 놀자고!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "またね、ナナカ"
+translation = "다음에 봐, 나나카"
+
+[[dialogue]]
+speaker = "ナナカ"
+original = "「あいよっ。ってことで、ちょっと早めのお別れ終了～♪」"
+translation = "「오냐. 이걸로 조금 이른 작별 인사 종료~♪」"
+
+[[dialogue]]
+speaker = "ナナカ"
+original = "「これで当日は泣かないで済むね。あっ、アタシじゃないよ、会長のことに決まってるでしょうが」"
+translation = "「이걸로 당일엔 안 울어도 되겠네. 앗, 나 말하는 거 아니야, 당연히 회장 말하는 거잖아.」"
+
+[[dialogue]]
+speaker = "unk"
+original = "こうして俺とナナカは、一足早い別れを済ませたのだった。"
+translation = "이렇게 나와 나나카는 한발 앞선 작별을 마친 것이었다."
+

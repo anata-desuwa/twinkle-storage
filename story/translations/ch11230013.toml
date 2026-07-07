@@ -1,0 +1,305 @@
+[[dialogue]]
+speaker = "unk"
+original = "第３話,小さな疑問,P"
+translation = "제3화, 작은 의문, P"
+
+[[dialogue]]
+speaker = "unk"
+original = "放課後、アリーナにて。"
+translation = "방과 후, 아레나에서."
+
+[[dialogue]]
+speaker = "unk"
+original = "いつものようにリーエンと模擬戦をするはずだったが、この日は少々様子が異なっていた。"
+translation = "평소처럼 리엔과 모의전을 치를 예정이었지만, 이날은 평소와 모습이 조금 달랐다."
+
+[[dialogue]]
+speaker = "リーエン"
+original = "「魔王よ！\u3000今日だけは決して負けるわけにはいかぬ！\u3000全力でいかせてもらうぞ！」"
+translation = "「마왕이여! 오늘만큼은 결코 질 수 없다! 전력으로 상대해주마!」"
+
+[[dialogue]]
+speaker = "リーエン"
+original = "「あたしは陛下に勝利を捧げる！\u3000これは御前試合だ！」"
+translation = "「이 몸은 폐하께 승리를 바치겠다! 이것은 어전 시합이다!」"
+
+[[dialogue]]
+speaker = "煌嶺"
+original = "「リーエンちゃん、頑張って～！\u3000負けたら承知しないぞ～！」"
+translation = "「리엔짱, 힘내~! 지면 가만 안 둘 거야~!」"
+
+[[dialogue]]
+speaker = "煌嶺"
+original = "「魔王さんも無様な戦いをしたら処しちゃうからね～♪」"
+translation = "「마왕 씨도 한심한 싸움을 하면 처벌할 테니까~♪」"
+
+[[dialogue]]
+speaker = "リーエン"
+original = "「クッ、おまえまで陛下から応援を……ず、ずるいぞっ！」"
+translation = "「큭, 너까지 폐하의 응원을…… 치, 치사하다!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "応援なのか、あれ？"
+translation = "응원인 건가, 저거?"
+
+[[dialogue]]
+speaker = "煌嶺"
+original = "「では、始め～♪」"
+translation = "「그럼, 시작~♪」"
+
+[[dialogue]]
+speaker = "リーエン"
+original = "「うおおおおおおおおっ！！！！」"
+translation = "「우오오오오오오오옷!!!!」"
+
+[[dialogue]]
+speaker = "リーエン"
+original = "「煌け新星ッ──ノヴァフォォォォーーーームッ！！！！」"
+translation = "「빛나라 신성── 노바 포오오오오오옴!!!!」"
+
+[[dialogue]]
+speaker = "リーエン"
+original = "「どうだ、魔王！\u3000これがあたしの全力……陛下の剣だ！」"
+translation = "「어떠냐, 마왕! 이것이 나의 전력…… 폐하의 검이다!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "これがリーエンのノヴァフォーム……"
+translation = "이것이 리엔의 노바 폼……"
+
+[[dialogue]]
+speaker = "リーエン"
+original = "「おまえが魔王の力を引き出せない以上、こちらもノヴァフォームを封印していたがッ！」"
+translation = "「네놈이 마왕의 힘을 끌어내지 못하는 이상, 이쪽도 노바 폼을 봉인하고 있었지만!」"
+
+[[dialogue]]
+speaker = "リーエン"
+original = "「陛下の御前だ、この圧倒的な力によって、勝利を掴む！！」"
+translation = "「폐하의 어전이다, 이 압도적인 힘으로 승리를 거머쥐겠다!!」"
+
+[[dialogue]]
+speaker = "リーエン"
+original = "「往くぞ、魔王！\u3000……死ぬなよ」"
+translation = "「간다, 마왕! ……죽지 마라」"
+
+[[dialogue]]
+speaker = "リーエン"
+original = "「おおおおおおおおおおーーーーーーーっ！！！！」"
+translation = "「오오오오오오오오오──────옷!!!!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "リーエンの攻撃は今までになく苛烈を極めた。"
+translation = "리엔의 공격은 전례 없이 가혹하기 짝이 없었다."
+
+[[dialogue]]
+speaker = "unk"
+original = "それを何とか凌ぎながら攻撃を繰り出す──そして……"
+translation = "그것을 어떻게든 버텨내며 공격을 펼친다── 그리고……"
+
+[[dialogue]]
+speaker = "リーエン"
+original = "「はぁっ……はぁっ……はぁっ……」"
+translation = "「하아…… 하아…… 하아……」"
+
+[[dialogue]]
+speaker = "リーエン"
+original = "「やったぞ……ついに魔王に打ち勝った……あたしの勝利だ！」"
+translation = "「해냈다…… 드디어 마왕을 꺾었어…… 나의 승리다!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "悔しいけど完敗だよ"
+translation = "분하지만 완패야"
+
+[[dialogue]]
+speaker = "リーエン"
+original = "「フッ、全力のあたしには、魔王も及ばなかったようだな」"
+translation = "「훗, 전력인 나에게는 마왕도 미치지 못한 모양이군」"
+
+[[dialogue]]
+speaker = "リーエン"
+original = "「だが、ノヴァフォーム相手に健闘したと思うぞ。さすが魔王だ」"
+translation = "「하지만 노바 폼을 상대로 건투했다고 생각한다. 과연 마왕이로군」"
+
+[[dialogue]]
+speaker = "煌嶺"
+original = "「うんうん、いい勝負だったね～。私も満足だよ～♪」"
+translation = "「음음, 좋은 승부였어~. 나도 만족스러워~♪」"
+
+[[dialogue]]
+speaker = "リーエン"
+original = "「ハッ、陛下！\u3000御身のため、勝利を掴みました」"
+translation = "「핫, 폐하! 옥체를 위해 승리를 거머쥐었습니다」"
+
+[[dialogue]]
+speaker = "煌嶺"
+original = "「リーエンちゃんも強くなったみたいだね。最近は魔王さんとよく模擬戦やってるって聞いたけど」"
+translation = "「리엔짱도 강해진 것 같네. 최근 마왕 씨랑 자주 모의전을 한다고 들었는데」"
+
+[[dialogue]]
+speaker = "リーエン"
+original = "「ご覧の通り、魔王はあたしにこそ及びませんが、なかなかの剛の者です。陛下の配下に加わる資格は備えているでしょう」"
+translation = "「보시는 바와 같이 마왕은 나에게는 미치지 못하나, 상당한 강자입니다. 폐하의 수하로 들어올 자격은 갖추고 있겠지요」"
+
+[[dialogue]]
+speaker = "煌嶺"
+original = "「うん、それはだいたい知ってる。でも、ちょ～～っと仲良くしすぎじゃない？」"
+translation = "「응, 그건 대충 알고 있어. 하지만, 너어~~무 사이가 좋은 거 아냐?」"
+
+[[dialogue]]
+speaker = "リーエン"
+original = "「え？\u3000そ、それは……」"
+translation = "「에? 그, 그것은……」"
+
+[[dialogue]]
+speaker = "煌嶺"
+original = "「リーエンちゃんは私の護衛だよね？\u3000それなのに、最近は魔王さんと一緒にいる時間の方が多いんじゃないかな～って」"
+translation = "「리엔짱은 나의 호위잖아? 그런데 최근에는 마왕 씨랑 같이 있는 시간이 더 많은 것 같아서~」"
+
+[[dialogue]]
+speaker = "煌嶺"
+original = "「ねえ、もしかして……私から離れて彼のものになるつもりだったりする？」"
+translation = "「저기, 혹시…… 나에게서 멀어져서 그의 것이 될 생각이라든가?」"
+
+[[dialogue]]
+speaker = "リーエン"
+original = "「そのような心積もり、一切ありませぬ！\u3000もし我が忠誠をお疑いなら、疾くこの首をお刎ね下さい！！」"
+translation = "「그런 마음가짐, 일절 없사옵니다! 만약 저의 충성을 의심하신다면, 어서 이 목을 베어 주십시오!!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "そんなことは絶対にさせない"
+translation = "그런 짓은 절대로 하게 두지 않아"
+
+[[dialogue]]
+speaker = "リーエン"
+original = "「おい！\u3000魔王には関係ないだろう！」"
+translation = "「어이! 마왕과는 상관없지 않나!」"
+
+[[dialogue]]
+speaker = "煌嶺"
+original = "「じゃーん、ここに取り出しましたる短刀を……こうしてリーエンちゃんの首筋にぴた～ってくっつけたら……」"
+translation = "「짜잔, 여기에 꺼내든 단도를…… 이렇게 리엔짱의 목덜미에 착~ 하고 갖다 대면……」"
+
+[[dialogue]]
+speaker = "unk"
+original = "っ！？\u3000や、やめろっ！"
+translation = "윽!? 그, 그만둬!"
+
+[[dialogue]]
+speaker = "煌嶺"
+original = "「だって。ほら、すっごく動揺してるじゃない。大切にされてるね～」"
+translation = "「거봐. 봐, 엄청 동요하고 있잖아. 소중히 여겨지고 있네~」"
+
+[[dialogue]]
+speaker = "リーエン"
+original = "「ち、違います！\u3000魔王はただ、誰に対しても優しい、博愛の心を持つ者だからっ……」"
+translation = "「치, 아닙니다! 마왕은 그저 누구에게나 다정한 박애의 마음을 가진 자라……」"
+
+[[dialogue]]
+speaker = "煌嶺"
+original = "「リーエンちゃんはこう言ってるけど、そうなの、魔王さん？」"
+translation = "「리엔짱은 이렇게 말하는데, 그런 거야, 마왕 씨?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "誰よりも大切にしてる"
+translation = "누구보다 소중히 여기고 있어"
+
+[[dialogue]]
+speaker = "unk"
+original = "リーエンは特別だ"
+translation = "리엔은 특별해"
+
+[[dialogue]]
+speaker = "リーエン"
+original = "「なっ、おまえ……正気か？」"
+translation = "「나, 네놈…… 제정신이냐?」"
+
+[[dialogue]]
+speaker = "煌嶺"
+original = "「魔王さん的には、むしろリーエンちゃんの正気を疑いたい気分だよね～」"
+translation = "「마왕 씨 입장에서는 오히려 리엔짱의 제정신을 의심하고 싶은 기분이겠지~」"
+
+[[dialogue]]
+speaker = "リーエン"
+original = "「へ、陛下、あの……すみません、あたしにはどういうことだかまったく……」"
+translation = "「페, 폐하, 저기…… 죄송합니다, 저로서는 무슨 말씀이신지 전혀……」"
+
+[[dialogue]]
+speaker = "煌嶺"
+original = "「リーエンちゃん、確かに魔王さんはものすご～～くお人好しちゃんだけどね……」"
+translation = "「리엔짱, 확실히 마왕 씨는 어어엄청~~나게 좋은 사람이긴 하지만 말이야……」"
+
+[[dialogue]]
+speaker = "煌嶺"
+original = "「敵になるかもしれない相手と呑気に模擬戦するほど、お間抜けさんじゃないと思うな」"
+translation = "「적이 될지도 모르는 상대와 한가하게 모의전을 할 정도로 멍청이는 아니라고 봐」"
+
+[[dialogue]]
+speaker = "リーエン"
+original = "「ええと……やっぱりあたしにはわかりません……」"
+translation = "「저기…… 역시 저로서는 모르겠습니다……」"
+
+[[dialogue]]
+speaker = "煌嶺"
+original = "「後は魔王さんから直接聞いて。じゃあ、私はそろそろ行くね～。いいもの見せてくれてありがと～」"
+translation = "「나머지는 마왕 씨한테 직접 들어. 그럼 난 슬슬 가볼게~. 좋은 구경시켜줘서 고마워~」"
+
+[[dialogue]]
+speaker = "煌嶺"
+original = "「あ、そうそう最後に１つだけ」"
+translation = "「아, 그래그래 마지막으로 한 가지만」"
+
+[[dialogue]]
+speaker = "煌嶺"
+original = "「リーエンよ、欲するものはどんな手段を使ってでも絶対に手に入れる……わかっているな？」"
+translation = "「리엔아, 원하는 것은 어떤 수단을 써서라도 반드시 손에 넣는다…… 알고 있겠지?」"
+
+[[dialogue]]
+speaker = "リーエン"
+original = "「はっ」"
+translation = "「핫」"
+
+[[dialogue]]
+speaker = "煌嶺"
+original = "「妾の剣に相応しい働きを期待する」"
+translation = "「이 몸의 검에 걸맞은 활약을 기대하마」"
+
+[[dialogue]]
+speaker = "リーエン"
+original = "「欲するものはどんな手段を使ってでも……絶対に手に入れる……」"
+translation = "「원하는 것은 어떤 수단을 써서라도…… 반드시 손에 넣는다……」"
+
+[[dialogue]]
+speaker = "リーエン"
+original = "「まさに陛下の生き様だ……」"
+translation = "「그야말로 폐하의 삶의 방식이다……」"
+
+[[dialogue]]
+speaker = "unk"
+original = "どういうことかわかった？"
+translation = "무슨 뜻인지 알겠어?"
+
+[[dialogue]]
+speaker = "リーエン"
+original = "「陛下のお考えは、あたしなんかにわかるはずがない」"
+translation = "「폐하의 생각을 나 따위가 알 수 있을 리 없다」"
+
+[[dialogue]]
+speaker = "リーエン"
+original = "「ただ……陛下のように生きよ、と……そう望まれたように感じた……」"
+translation = "「다만…… 폐하처럼 살아가라고…… 그렇게 바라시는 것처럼 느껴졌다……」"
+
+[[dialogue]]
+speaker = "リーエン"
+original = "「あたしは……いったい何を欲しているんだ……？」"
+translation = "「나는…… 대체 무엇을 원하고 있는 거지……?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "こうして、リーエンの中に小さな疑問が芽生えるのだった。"
+translation = "이리하여 리엔의 마음속에 작은 의문이 싹트는 것이었다."
+

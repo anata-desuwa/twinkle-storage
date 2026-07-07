@@ -1,0 +1,295 @@
+[[dialogue]]
+speaker = "unk"
+original = "一夜明けて朝、外に出るとせつなが修行していた。"
+translation = "하룻밤이 지나 아침, 밖으로 나가니 세츠나가 수행을 하고 있었다."
+
+[[dialogue]]
+speaker = "せつな"
+original = "「せいっ！\u3000たぁっ！\u3000とおっ！」"
+translation = "「세잇! 타앗! 토옷!」"
+
+[[dialogue]]
+speaker = "シズル"
+original = "「甘い甘い、その程度じゃ全然届きませんよ～」"
+translation = "「멀었어 멀었어, 그 정도로는 전혀 닿지 않는다구요~」"
+
+[[dialogue]]
+speaker = "せつな"
+original = "「喰らえ！\u3000風花手裏剣！」"
+translation = "「먹어라! 풍화수리검!」"
+
+[[dialogue]]
+speaker = "シズル"
+original = "「おっと、危ないです。それを正面から受け止めるのは無理ですね」"
+translation = "「오옷, 위험하네요. 그걸 정면에서 받아내는 건 무리겠죠」"
+
+[[dialogue]]
+speaker = "ウズメイア"
+original = "「華麗に全部受け流してるし……さすがおししょー様でござる」"
+translation = "「화려하게 전부 흘려보내고 있고…… 역시 스승님인 것이오」"
+
+[[dialogue]]
+speaker = "ヨミ"
+original = "「……その、ござるって言うのそろそろやめません？」"
+translation = "「……저기, 그 '것이오'라고 하는 거 슬슬 그만두지 않을래요?」"
+
+[[dialogue]]
+speaker = "ウズメイア"
+original = "「やっぱあたしには合わないかなぁ？」"
+translation = "「역시 나한테는 안 어울리려나?」"
+
+[[dialogue]]
+speaker = "ヨミ"
+original = "「そう思います」"
+translation = "「그렇게 생각해요」"
+
+[[dialogue]]
+speaker = "ウズメイア"
+original = "「わかった。じゃあやめる～！\u3000修行する時はござるに戻すけど、それ以外は普通にしゃべることにするよ」"
+translation = "「알았어. 그럼 그만둘래~! 수행할 때는 고자루로 돌아가겠지만, 그 외에는 평범하게 말하도록 할게」"
+
+[[dialogue]]
+speaker = "ウズメイア"
+original = "「ニンジャコトバ、憧れだったんだけどな～」"
+translation = "「닌자 말투, 동경했었는데 말이야~」"
+
+[[dialogue]]
+speaker = "せつな"
+original = "「はぁっ、はぁっ、はぁっ……さすが師匠！\u3000立ち会ってみるとわかる、圧倒的な力の差でござる」"
+translation = "「하아, 하아, 하아…… 역시 스승님! 직접 상대해 보니 알겠소, 압도적인 힘의 차이구려」"
+
+[[dialogue]]
+speaker = "シズル"
+original = "「せつなもなかなかですよ。ずっと修行に励んでいた、という言葉に嘘はないようですね」"
+translation = "「세츠나도 제법이에요. 계속 수행에 힘썼다는 말에 거짓은 없는 모양이네요」"
+
+[[dialogue]]
+speaker = "せつな"
+original = "「嬉しい言葉でござるが、師匠を一歩でも動かしてから言われたいでござる！」"
+translation = "「기쁜 말씀이오나, 스승님을 한 걸음이라도 움직이게 한 뒤에 듣고 싶소!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "その場から一歩も動いてない"
+translation = "그 자리에서 한 걸음도 움직이지 않았다"
+
+[[dialogue]]
+speaker = "unk"
+original = "言われてみれば"
+translation = "듣고 보니"
+
+[[dialogue]]
+speaker = "ヨミ"
+original = "「動く必要もない、ということでしょうか……」"
+translation = "「움직일 필요도 없다는 뜻일까요……」"
+
+[[dialogue]]
+speaker = "ウズメイア"
+original = "「なんとしてでも動かしてみたいかも」"
+translation = "「어떻게 해서든 움직이게 해보고 싶을지도」"
+
+[[dialogue]]
+speaker = "ヨミ"
+original = "「……やります？」"
+translation = "「……하실래요?」"
+
+[[dialogue]]
+speaker = "ウズメイア"
+original = "「よし、やっちゃおう！\u3000おししょー様、お覚悟でござる～！！」"
+translation = "「좋아, 해버리자! 스승님, 각오하시구려~!!」"
+
+[[dialogue]]
+speaker = "せつな"
+original = "「ウズメ殿！？\u3000みんなも参加するでござるか？」"
+translation = "「우즈메 공!? 모두들 참여하는 것이오?」"
+
+[[dialogue]]
+speaker = "シズル"
+original = "「ふふっ、いいでしょう。全員まとめてかかってきなさい」"
+translation = "「후훗, 좋아요. 전원 한꺼번에 덤비세요」"
+
+[[dialogue]]
+speaker = "シズル"
+original = "「私を一歩でも動かすことができたら、食後のデザートを出してあげますね」"
+translation = "「나를 한 걸음이라도 움직이게 할 수 있다면, 식후 디저트를 내어줄게요」"
+
+[[dialogue]]
+speaker = "せつな"
+original = "「４人でかかっても完敗でござる～～」"
+translation = "「넷이서 덤벼도 완패구려~~」"
+
+[[dialogue]]
+speaker = "ウズメイア"
+original = "「はぁっ、はぁっ……強すぎっしょ……」"
+translation = "「하아, 하아…… 너무 강하잖아……」"
+
+[[dialogue]]
+speaker = "ヨミ"
+original = "「まさかここまでとは思いませんでした……」"
+translation = "「설마 이 정도일 줄은 몰랐습니다……」"
+
+[[dialogue]]
+speaker = "シズル"
+original = "「まだまだ若い子には負けませんよ。もっと修行を積んで強くなって、私に楽をさせて下さいね」"
+translation = "「아직 젊은 애들한테는 지지 않아요. 좀 더 수행을 쌓고 강해져서, 나를 편하게 해줘야 해요」"
+
+[[dialogue]]
+speaker = "せつな"
+original = "「ぐぬぬ、もっともっと頑張るでござる……」"
+translation = "「구누누, 더욱더 정진하겠소……」"
+
+[[dialogue]]
+speaker = "シズル"
+original = "「そうそう、傷ができたでしょう？\u3000秘薬を塗ってあげます♪」"
+translation = "「맞다 맞다, 상처가 생겼죠? 비약을 발라줄게요♪」"
+
+[[dialogue]]
+speaker = "せつな"
+original = "「え、それは遠慮するでござる」"
+translation = "「에, 그건 사양하겠소」"
+
+[[dialogue]]
+speaker = "シズル"
+original = "「薬を塗らないと強くなれませんよ。それとも、飲み薬の方がいいですか？」"
+translation = "「약을 바르지 않으면 강해질 수 없어요. 아니면, 먹는 약 쪽이 더 좋은가요?」"
+
+[[dialogue]]
+speaker = "せつな"
+original = "「飲み薬！\u3000それなら大歓迎でござるよ～！」"
+translation = "「먹는 약! 그거라면 대환영이오~!」"
+
+[[dialogue]]
+speaker = "ウズメイア"
+original = "「なになに～、もしかしてめっちゃおいしい薬だったりとか？」"
+translation = "「뭐야 뭐야~, 혹시 엄청 맛있는 약이라거나?」"
+
+[[dialogue]]
+speaker = "せつな"
+original = "「子どもでも飲みやすくした、あま～いお薬でござる。怪我もないのに欲しがる子が続出でござったな～」"
+translation = "「아이들도 마시기 편하게 만든, 다아~콤한 약이라오. 부상도 없는데 달라고 조르는 애들이 속출했었지~」"
+
+[[dialogue]]
+speaker = "シズル"
+original = "「懐かしいですね。はい、どうぞ、飲み薬ですよ♪」"
+translation = "「그립네요. 자, 여기요, 먹는 약이에요♪」"
+
+[[dialogue]]
+speaker = "せつな"
+original = "「わあ～～い♪\u3000いっただっきまぁ～～す！」"
+translation = "「와아~~아♪ 잘 먹겠소오~~!!」"
+
+[[dialogue]]
+speaker = "せつな"
+original = "「みぎゃっ！\u3000にがぁぁ～～～～～っ！！\u3000師匠っ、話が違うでござるよ～～！」"
+translation = "「미걋! 써어어어어~~억!! 스승님, 말이 다르지 않소~~!」"
+
+[[dialogue]]
+speaker = "シズル"
+original = "「あれから反省したんです、おいしい秘薬というのはよくないなって。なので子どもが必要以上に飲みたがらないように、めっちゃにが薬に改善したんですよ♪」"
+translation = "「그 후로 반성했거든요, 맛있는 비약이라는 건 좋지 않겠구나 하고. 그래서 아이들이 필요 이상으로 마시고 싶어 하지 않도록, 엄청 쓴 약으로 개선했답니다♪」"
+
+[[dialogue]]
+speaker = "せつな"
+original = "「こんなの改悪でござる～～～！！」"
+translation = "「이런 건 개악이오~~~!!」"
+
+[[dialogue]]
+speaker = "シズル"
+original = "「効能はアップしてるんですよ。なんと効き目は塗り薬以上ですっ♪」"
+translation = "「효능은 업그레이드됐답니다. 무려 효과는 바르는 약 이상이에요♪」"
+
+[[dialogue]]
+speaker = "シズル"
+original = "「ところでせつな、まだ１口しか飲んでませんよ？\u3000ちゃんと全部飲まないと」"
+translation = "「그런데 세츠나, 아직 한 입밖에 안 마셨잖아요? 제대로 다 마셔야죠」"
+
+[[dialogue]]
+speaker = "せつな"
+original = "「失礼！\u3000ドロンするでござる！」"
+translation = "「실례! 도론하겠소!」"
+
+[[dialogue]]
+speaker = "シズル"
+original = "「逃がしませんよ～！」"
+translation = "「놓치지 않아요~!」"
+
+[[dialogue]]
+speaker = "せつな"
+original = "「にゃっ！？\u3000師匠っ、いつのまに！？」"
+translation = "「냐앗!? 스승님, 어느 틈에!?」"
+
+[[dialogue]]
+speaker = "シズル"
+original = "「たった今です♪」"
+translation = "「방금 전이랍니다♪」"
+
+[[dialogue]]
+speaker = "せつな"
+original = "「めちゃにが薬は勘弁して欲しいでござるぅ～～～～っ！！」"
+translation = "「엄청 쓴 약은 봐줬으면 좋겠소오~~~~!!」"
+
+[[dialogue]]
+speaker = "シズル"
+original = "「もう、そこまで嫌がらなくてもいいのに。仕方ありませんね、普通のあま～い秘薬をあげましょう」"
+translation = "「정말, 그렇게까지 싫어하지 않아도 되는데. 어쩔 수 없네요, 평범한 다아~콤한 비약을 줄게요」"
+
+[[dialogue]]
+speaker = "せつな"
+original = "「ほ、ほんとでござるか？\u3000甘いと見せかけて、またにがにが薬じゃ……」"
+translation = "「정, 정말이오? 달콤한 척하면서, 또 엄청 쓴 약인 건 아니겠지……」"
+
+[[dialogue]]
+speaker = "シズル"
+original = "「ふふっ、用心深いのは忍として正しいです。ですが、かわいい弟子にそこまで疑われるのは、ちょっぴり寂しいですねぇ……」"
+translation = "「후훗, 조심성 있는 건 닌자로서 옳아요. 하지만, 귀여운 제자에게 그 정도까지 의심받는 건 조금 쓸쓸하네요……」"
+
+[[dialogue]]
+speaker = "ヨミ"
+original = "「せつなさん……何だかシズルさんが可哀想になってきました……」"
+translation = "「세츠나 씨…… 왠지 시즈루 씨가 가여워지기 시작했어요……」"
+
+[[dialogue]]
+speaker = "ウズメイア"
+original = "「そうだよ、ござるちゃん！\u3000大好きなおししょー様を疑っちゃダメだよ！」"
+translation = "「맞아, 고자루 짱! 정말 좋아하는 스승님을 의심하면 안 돼!」"
+
+[[dialogue]]
+speaker = "せつな"
+original = "「わ、わかったでござる！\u3000たとえこれがめっちゃ苦くても、飲み切ってみせるでござる！」"
+translation = "「아, 알겠소! 설령 이것이 엄청 쓰더라도, 다 마셔 보이겠소!」"
+
+[[dialogue]]
+speaker = "せつな"
+original = "「ごくっ、ごくっ、ごくっ……みゃ？」"
+translation = "「꿀꺽, 꿀꺽, 꿀꺽…… 먀?」"
+
+[[dialogue]]
+speaker = "せつな"
+original = "「あまぁ～～～～いっ！\u3000うまっ！\u3000めちゃうまでござるよ、師匠～！」"
+translation = "「다아~~~~콤해! 맛있어! 엄청 맛있소, 스승님~!」"
+
+[[dialogue]]
+speaker = "シズル"
+original = "「だから甘いと言ったじゃないですか。もう、私は嘘は言いませんよ」"
+translation = "「그러니까 달다고 했잖아요. 이제 저는 거짓말은 안 해요」"
+
+[[dialogue]]
+speaker = "せつな"
+original = "「……いや、それは無理があるでござる」"
+translation = "「……아니, 그건 무리가 있소」"
+
+[[dialogue]]
+speaker = "シズル"
+original = "「信じてくれないんですね。先ほども本気で逃げようとしてましたし……しょんぼりです」"
+translation = "「믿어주지 않는군요. 아까도 진심으로 도망치려 했고…… 시무룩이에요」"
+
+[[dialogue]]
+speaker = "せつな"
+original = "「あわわっ、ごめんなさいでござる～」"
+translation = "「아와왓, 죄송하오나이다~」"
+
+[[dialogue]]
+speaker = "シズル"
+original = "「ふふっ、なんて冗談ですよ。この程度で落ち込む私じゃありませんから」"
+translation = "「후훗, 농담이에요. 이 정도로 낙담할 제가 아니니까요」"
+

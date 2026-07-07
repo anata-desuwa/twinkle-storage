@@ -1,0 +1,240 @@
+[[dialogue]]
+speaker = "ミルフィー"
+original = "「あれ……生きて、る……？」"
+translation = "「어라…… 살아, 있어……?」"
+
+[[dialogue]]
+speaker = "ヒヨ"
+original = "「はぁ、はぁ……死ぬかと思ったぜ……」"
+translation = "「하아, 하아…… 죽는 줄 알았다구……」"
+
+[[dialogue]]
+speaker = "ミルフィー"
+original = "「ヒヨちゃん！？\u3000どうしてここに！？」"
+translation = "「히요짱!? 어떻게 여기에!?」"
+
+[[dialogue]]
+speaker = "ヒヨ"
+original = "「そりゃ姐さんを助けるためでい！\u3000姐さん今ヤバかったじゃねえか！」"
+translation = "「그야 누님을 구하기 위해서지! 누님 지금 위험했잖아!」"
+
+[[dialogue]]
+speaker = "ヒヨ"
+original = "「姐さんにはプリマステラにしてもらった恩があるんでい！\u3000恩を返す前に死なれちゃ困るってんだ！\u3000無茶すんなって言ったろうが！」"
+translation = "「누님한테는 프리마스텔라로 만들어 준 은혜가 있다구! 은혜를 갚기도 전에 죽어버리면 곤란하단 말이야! 무리하지 말라고 했잖아!」"
+
+[[dialogue]]
+speaker = "ミルフィー"
+original = "「ご、ごめんなさい……」"
+translation = "「미, 미안해……」"
+
+[[dialogue]]
+speaker = "ヒヨ"
+original = "「こんなにボロボロになっちまって……今治してやるからな。──焔ノ剣紅蓮神楽！」"
+translation = "「이렇게 엉망진창이 돼선…… 지금 고쳐줄 테니까. ──불꽃의 검 홍련신락!」"
+
+[[dialogue]]
+speaker = "ミルフィー"
+original = "「ありがとう。でもどうやって魔界に……？」"
+translation = "「고마워. 근데 어떻게 마계에……?」"
+
+[[dialogue]]
+speaker = "ヒヨ"
+original = "「そりゃこっちの魔女の姉ちゃんに連れてきてもらったのさ！」"
+translation = "「그야 이쪽 마녀 누나가 데려다줬지!」"
+
+[[dialogue]]
+speaker = "ウェンディ"
+original = "「ええ、彼女がどうしてもこちらに来たいと言ったもので」"
+translation = "「네, 그녀가 어떻게 해서든 이곳에 오고 싶다고 말해서요」"
+
+[[dialogue]]
+speaker = "ウェンディ"
+original = "「尊敬する人の力になりたいと言われたら、その、何とかしてあげたくなるじゃないですか。気持ちはわかりますし」"
+translation = "「존경하는 사람에게 힘이 되고 싶다는 말을 들으면, 그게, 어떻게든 도와주고 싶어지잖아요. 그 마음 이해하니까요」"
+
+[[dialogue]]
+speaker = "ミルフィー"
+original = "「ウェンディさん！？」"
+translation = "「웬디 씨!?」"
+
+[[dialogue]]
+speaker = "ウェンディ"
+original = "「はぁ、またセドナ長官に怒られる……。私にこんなことさせたんですから、ちゃんと戦ってくださいね！」"
+translation = "「하아, 또 세드나 장관님께 혼나겠네……. 저한테 이런 짓까지 시켰으니까, 제대로 싸워주셔야 해요!」"
+
+[[dialogue]]
+speaker = "ヒヨ"
+original = "「おうよ！\u3000任せなぁ！」"
+translation = "「오냐! 맡겨두라구!」"
+
+[[dialogue]]
+speaker = "ヒヨ"
+original = "「そんで──ついでに助っ人も連れてきたぜぃ！」"
+translation = "「그리고── 덤으로 도우미도 데려왔다구!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "助っ人？"
+translation = "도우미?"
+
+[[dialogue]]
+speaker = "？？？"
+original = "「フッフッフ……真のヒーローはピンチにやってくる……」"
+translation = "「훗훗훗…… 진정한 히어로는 위기 상황에 나타나는 법……」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「闇夜に煌めく正義の一閃！\u3000流星ライダーアポロ、見参！」"
+translation = "「어두운 밤에 반짝이는 정의의 일섬! 유성 라이더 아폴로, 등장!」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「姉さん！？」"
+translation = "「언니!?」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「あたしも戦うぞ、フィオナ！\u3000今度こそ世界を救う正義の味方としてな！」"
+translation = "「나도 싸우겠어, 피오나! 이번에야말로 세계를 구하는 정의의 사도로서 말이야!」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「姉さんも一緒なら心強いです。でもここに繋がる世界樹の根が細くて、数人しか通れないはずだったんじゃ……」"
+translation = "「언니도 함께라면 든든해요. 하지만 여기로 이어지는 세계수의 뿌리가 가늘어서 몇 명밖에 못 통과한다고 들었는데……」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「その辺はウェンディが何とかしてくれた！\u3000魔力の消費とかめちゃくちゃ大変らしいけどな！」"
+translation = "「그건 웬디가 어떻게든 해줬어! 마력 소비가 엄청나게 힘들다나 봐!」"
+
+[[dialogue]]
+speaker = "イニシュ"
+original = "「っ……ダメージ増大……」"
+translation = "「윽…… 데미지 증대……」"
+
+[[dialogue]]
+speaker = "？？？"
+original = "「インパルスストリーム！」"
+translation = "「임펄스 스트림!」"
+
+[[dialogue]]
+speaker = "イニシュ"
+original = "「！\u3000支援感謝します」"
+translation = "「! 지원 감사합니다」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「この雷は──」"
+translation = "「이 번개는──」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「みんな、無事か？」"
+translation = "「모두 무사해?」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「やっぱり梨緒ね！\u3000当然こっちは全員生きてるわ！」"
+translation = "「역시 리오네! 당연히 이쪽은 전원 살아있어!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "梨緒も来たんだな"
+translation = "리오도 왔구나"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「世界の危機ならば私が戦わない理由はない。それに魔王から目を離すわけにはいかないからな」"
+translation = "「세계의 위기라면 내가 싸우지 않을 이유가 없어. 게다가 마왕에게서 눈을 뗄 수는 없으니까 말이야」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「すー、はー……私は強い、私ならできる……」"
+translation = "「후우, 하아…… 나는 강하다, 나라면 할 수 있다……」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「？\u3000どうした、大丈夫か？」"
+translation = "「? 왜 그래, 괜찮아?」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「だだ、大丈夫だ、気にするなっ」"
+translation = "「괘, 괜찮다, 신경 쓰지 마라」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「フィオナが小さくなっているのは未だに戸惑うが……そんなことを言っている場合ではないな」"
+translation = "「피오나가 작아진 것에는 아직도 당황스럽지만…… 그런 말을 하고 있을 상황이 아니군」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「梨緒・Ａ・クリステレス、魔女を支援し、モンスターを駆逐する！」"
+translation = "「리오 A 크리스텔레스, 마녀를 지원하고 몬스터를 구축한다!」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「正義の味方にふさわしい舞台だ。大暴れするぞ！\u3000いくぞフィオナ！」"
+translation = "「정의의 사도에게 어울리는 무대군. 한바탕 날뛰어 보자고! 가자 피오나!」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「はい、共に世界を救いましょう！」"
+translation = "「네, 함께 세계를 구해요!」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「新星学園も負けてられないわね！\u3000行くわよ、クロト、ミルフィー、ヒヨ！」"
+translation = "「신성학원도 지고 있을 순 없지! 가자, 쿠로토, 밀피, 히요!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ミルフィー、いけるか？"
+translation = "밀피, 갈 수 있겠어?"
+
+[[dialogue]]
+speaker = "ミルフィー"
+original = "「うん、もう大丈夫。ヒヨちゃんに回復させてもらったから」"
+translation = "「응, 이제 괜찮아. 히요짱이 회복해 줬으니까」"
+
+[[dialogue]]
+speaker = "ヒヨ"
+original = "「へへん！\u3000どんなもんだい！」"
+translation = "「헤헤헷! 어떠냐!」"
+
+[[dialogue]]
+speaker = "マグダレナ"
+original = "「世界は１つになる……３つの世界が溶けて、ひとつに……」"
+translation = "「세계는 하나가 된다…… 세 세계가 녹아서 하나로……」"
+
+[[dialogue]]
+speaker = "ヒヨ"
+original = "「守護天使さんよ、あんたがど偉い存在だってことは聞いてるが、姐さんは渡せねえ」"
+translation = "「수호천사님, 당신이 어마어마한 존재라는 건 들었지만, 누님은 못 넘겨준다구」"
+
+[[dialogue]]
+speaker = "ヒヨ"
+original = "「姐さんとやりたいこと、行きたいとこ、たくさんあるんだ。あたしらの新星学園に連れて帰らせてもらうぜぃ！」"
+translation = "「누님과 하고 싶은 일, 가고 싶은 곳이 잔뜩 있다구. 우리들의 신성학원으로 데리고 돌아가겠어!」"
+
+[[dialogue]]
+speaker = "ミルフィー"
+original = "「うん、一緒に帰ろう、ヒヨちゃん！\u3000またたい焼き食べよう！」"
+translation = "「응, 같이 돌아가자, 히요짱! 가서 또 붕어빵 먹자!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "みんなで世界を守るぞ！"
+translation = "다 같이 세계를 지키는 거야!"
+
+[[dialogue]]
+speaker = "ヒヨ"
+original = "「おうさ！」"
+translation = "「오냐!」"
+
+[[dialogue]]
+speaker = "ミルフィー"
+original = "「私たちの領域を──世界を守るために、いきますっ！」"
+translation = "「저희의 영역을── 세계를 지키기 위해서, 가겠어요!」"
+

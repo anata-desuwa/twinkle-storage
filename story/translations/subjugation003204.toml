@@ -1,0 +1,280 @@
+[[dialogue]]
+speaker = "イクシリオン"
+original = "「まさか、先生までバレンタインフォームになってしまうなんて……！」"
+translation = "「설마 선생님까지 발렌타인 폼이 되어 버리다니……!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "トワは１度落ち着いて、自分の衣装を見回しながら考え込む。"
+translation = "토와는 일단 진정하고 자신의 의상을 둘러보며 생각에 잠긴다."
+
+[[dialogue]]
+speaker = "トワ先生"
+original = "「……これはおそらく、以前『太陽フレア』が起きた時と同じような現象じゃないかな――」"
+translation = "「……이건 아마 이전에 『태양 플레어』가 일어났을 때와 비슷한 현상이 아닐까――」"
+
+[[dialogue]]
+speaker = "イクシリオン"
+original = "「太陽フレアというと、トワ先生よりも前に、流星学園のフィオナ会長がウェディングフォームに覚醒したっていう……？」"
+translation = "「태양 플레어라고 하면 토와 선생님보다 이전에 유성 학원의 피오나 회장님이 웨딩 폼으로 각성했다는……?」"
+
+[[dialogue]]
+speaker = "トワ先生"
+original = "「そう。あの時はフィオナちゃんの星力が暴走して、その余波を受けたキリカちゃんやナミエルちゃんも、同じようにウェディングフォームに変身しちゃったの」"
+translation = "「맞아. 그때는 피오나 양의 성력이 폭주해서 그 여파를 받은 키리카 양이나 나미엘 양도 똑같이 웨딩 폼으로 변신해 버렸거든.」"
+
+[[dialogue]]
+speaker = "トワ先生"
+original = "「――今回も同じように、イクシリオンちゃんの力の余波で、私もバレンタインフォームに覚醒したんだと思う」"
+translation = "「――이번에도 마찬가지로 익실리온 양의 힘의 여파로 나도 발렌타인 폼으로 각성한 거라고 생각해.」"
+
+[[dialogue]]
+speaker = "イクシリオン"
+original = "「私の力が暴走したせいで……！\u3000申し訳ありません、先生！」"
+translation = "「제 힘이 폭주한 탓에……! 죄송합니다, 선생님!」"
+
+[[dialogue]]
+speaker = "トワ先生"
+original = "「ううん、謝らなくて大丈夫だよ。不測の事態ではあるけど、新しい力に目覚めるのは星騎士として喜ばしいことだからね」"
+translation = "「아니야, 사과하지 않아도 괜찮아. 예측하지 못한 사태긴 하지만 새로운 힘에 눈뜨는 건 성기사로서 기쁜 일이니까.」"
+
+[[dialogue]]
+speaker = "トワ先生"
+original = "「ま、まあ……ちょっとフリフリで、着てると照れくさくはあるけど……」"
+translation = "「뭐, 뭐어…… 좀 하늘하늘해서 입고 있으면 쑥스럽긴 하지만……」"
+
+[[dialogue]]
+speaker = "イクシリオン"
+original = "「そんなことありません！\u3000先生にとても似合っていますよ！」"
+translation = "「그렇지 않아요! 선생님께 정말 잘 어울려요!」"
+
+[[dialogue]]
+speaker = "トワ先生"
+original = "「あ、ありがとう♪\u3000――とにかく、もう１度チョコ作りを試してみよう。星力の制御には、先生ちょっと自信あるから♪」"
+translation = "「아, 고마워♪ ――어쨌든 다시 한번 초콜릿 만들기를 시도해 보자. 성력 제어에는 선생님 좀 자신 있거든♪」"
+
+[[dialogue]]
+speaker = "unk"
+original = "そんなわけで、トワとイクシリオンは再びチョコ作りに取りかかった――のだが。"
+translation = "그런 이유로 토와와 익실리온은 다시 초콜릿 만들기에 착수했다――만."
+
+[[dialogue]]
+speaker = "トワ先生"
+original = "「し、失礼しま～す……！」"
+translation = "「시, 실례합니~다……!」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「トワ先生、お疲れ様です。どうしました？」"
+translation = "「토와 선생님, 수고하셨습니다. 무슨 일이세요?」"
+
+[[dialogue]]
+speaker = "トワ先生"
+original = "「あっ、会長くん……！\u3000今日の仕事はもう終わり？\u3000今、少し時間いいかな……？」"
+translation = "「앗, 회장군……! 오늘 일은 벌써 끝났어? 지금 잠깐 시간 괜찮을까……?」"
+
+[[dialogue]]
+speaker = "トワ先生"
+original = "「その……今日はバレンタインデーでしょ？\u3000だから――」"
+translation = "「그게…… 오늘은 발렌타인데이잖아? 그러니까――」"
+
+[[dialogue]]
+speaker = "トワ先生"
+original = "「は、はいっ……！\u3000これ、チョコをどうぞ……！」"
+translation = "「하, 하잇……! 이거 초콜릿 받으세요……!」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「えっ、先生が俺に……？」"
+translation = "「엣, 선생님이 나한테……?」"
+
+[[dialogue]]
+speaker = "トワ先生"
+original = "「う、うん……先生が生徒に渡すのは、やっぱり変かなって思ったんだけど……」"
+translation = "「으, 응…… 선생님이 학생에게 주는 건 역시 이상할까 생각도 했지만……」"
+
+[[dialogue]]
+speaker = "トワ先生"
+original = "「でも、この前のジューンブライドの時も、すごくお世話になったし……感謝の気持ちをちゃんと伝えたくて！」"
+translation = "「하지만 지난번 지우브라이드 때도 정말 신세를 졌고…… 감사의 마음을 제대로 전하고 싶어서!」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「驚いただけなので、そんなにかしこまらなくても大丈夫ですよ、先生。ううん――」"
+translation = "「놀랐을 뿐이니까 그렇게 격식을 차리지 않아도 괜찮아요, 선생님. 아니――」"
+
+[[dialogue]]
+speaker = "unk"
+original = "クロトは柔らかく微笑み、言葉を続ける。"
+translation = "쿠로토는 부드럽게 미소 지으며 말을 잇는다."
+
+[[dialogue]]
+speaker = "クロト"
+original = "「ありがとう、トワちゃん。俺、本当に嬉しい」"
+translation = "「고마워, 토와짱. 나 정말 기뻐.」"
+
+[[dialogue]]
+speaker = "トワ先生"
+original = "「～～～っ！？\u3000か、会長くん……<emoji=heart04>」"
+translation = "「~~~윽!? 회, 회장군……<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "トワ先生"
+original = "（はわわっ<emoji=heart04>\u3000急にちゃん付けしてくるのは……ずるいよぉ……！\u3000胸がドキドキ止まらなくなっちゃう……<emoji=heart04>）"
+translation = "(하와왓<emoji=heart04> 갑자기 '짱'을 붙여서 부르는 건…… 치사해……! 가슴이 두근거려서 멈추지 않게 돼버려……<emoji=heart04>)"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「あのさ、トワちゃん。俺、前からずっと言いたかったことがあって――」"
+translation = "「저기 말야, 토와짱. 나 전부터 계속 말하고 싶었던 게 있는데――」"
+
+[[dialogue]]
+speaker = "トワ先生"
+original = "「な、なに……？」"
+translation = "「무, 무엇을……?」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「先生と生徒じゃなくて――俺と恋人として付き合ってほしい」"
+translation = "「선생님과 학생이 아니라―― 나와 연인으로서 사귀어 줬으면 좋겠어.」"
+
+[[dialogue]]
+speaker = "トワ先生"
+original = "「はわわぁ～～～っ！？！？\u3000こ、恋人ぉ！？」"
+translation = "「하와와아~~~!? 연인!?」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「うん。ダメかな……？」"
+translation = "「응. 안 될까……?」"
+
+[[dialogue]]
+speaker = "トワ先生"
+original = "「で、でも、私は先生だし……年上だし……！」"
+translation = "「하, 하지만 나는 선생님이고…… 연상이고……!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "クロトはトワの手を取って、まっすぐ見つめる。"
+translation = "쿠로토는 토와의 손을 잡고 똑바로 바라본다."
+
+[[dialogue]]
+speaker = "クロト"
+original = "「立場も年齢も関係ない。俺はトワちゃんだから好きなんだ」"
+translation = "「입장도 나이도 상관없어. 나는 토와짱이니까 좋아하는 거야.」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「前に疑似結婚式で、愛を誓ってくれた時……あれは、本気じゃなかった？」"
+translation = "「전에 의사 결혼식에서 사랑을 맹세해 줬을 때…… 그건 진심이 아니었어?」"
+
+[[dialogue]]
+speaker = "トワ先生"
+original = "「わ、私は……」"
+translation = "「나, 나는……」"
+
+[[dialogue]]
+speaker = "トワ先生"
+original = "「私は、会長くんのこと――！」"
+translation = "「나는 회장군을――!」"
+
+[[dialogue]]
+speaker = "イクシリオン"
+original = "「――先生！\u3000トワ先生っ！」"
+translation = "「――선생님! 토와 선생님!」"
+
+[[dialogue]]
+speaker = "トワ先生"
+original = "「……はっ！？\u3000まさか今、私も妄想トリップしてた……！？」"
+translation = "「……핫!? 설마 지금 나도 망상 트립 하고 있었어……!?」"
+
+[[dialogue]]
+speaker = "イクシリオン"
+original = "「は、はい。チョコを混ぜながらも、ずっとうっとりした顔で……それで――」"
+translation = "「네, 네. 초콜릿을 섞으면서도 계속 황홀한 얼굴로…… 그래서――」"
+
+[[dialogue]]
+speaker = "バレンタヒヒーン"
+original = "「バレンタヒヒーン！」"
+translation = "「바렌타히히잉!」"
+
+[[dialogue]]
+speaker = "トワ先生"
+original = "「はわぁっ！？\u3000ま、また動く巨大チョコができてるぅ～～～っ！？！？」"
+translation = "「하와앗!? 또, 또 움직이는 거대 초콜릿이 만들어져 있어~~~!?」"
+
+[[dialogue]]
+speaker = "イクシリオン"
+original = "「先生のバレンタインフォームも、私と同じように暴走状態になってしまっているみたいです……」"
+translation = "「선생님의 발렌타인 폼도 저와 마찬가지로 폭주 상태가 되어 버린 것 같습니다……」"
+
+[[dialogue]]
+speaker = "unk"
+original = "――それから、１週間ほどが経過した。"
+translation = "――그로부터 1주일 정도가 경과했다."
+
+[[dialogue]]
+speaker = "unk"
+original = "放課後のたびに２人はチョコ作りを繰り返していたが……。"
+translation = "방과 후마다 두 사람은 초콜릿 만들기를 반복했지만……."
+
+[[dialogue]]
+speaker = "バレンタヒヒーン"
+original = "「バレンタヒヒーン！！！」"
+translation = "「바렌타히히잉!!!」"
+
+[[dialogue]]
+speaker = "トワ先生"
+original = "「はぁ、はぁ……！\u3000ダメだ……何度やっても、途中で妄想が暴走して、動くチョコになっちゃう……！」"
+translation = "「하아, 하아……! 안 돼…… 몇 번을 해도 도중에 망상이 폭주해서 움직이는 초콜릿이 되어 버려……!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "毎回どちらか、あるいは２人とも妄想トリップを引き起こし、結果――バレンタヒヒーンは量産され続けていた。"
+translation = "매번 어느 한쪽, 혹은 두 사람 모두 망상 트립을 일으켰고, 결과―― 바렌타히히잉은 계속 양산되고 있었다."
+
+[[dialogue]]
+speaker = "イクシリオン"
+original = "「……申し訳ありません、先生」"
+translation = "「……죄송합니다, 선생님.」"
+
+[[dialogue]]
+speaker = "トワ先生"
+original = "「イクシリオンちゃん……？」"
+translation = "「익실리온 양……?」"
+
+[[dialogue]]
+speaker = "イクシリオン"
+original = "「私の妄想癖のせいで、先生まで巻き込んでしまって……本当に恥ずかしいです……」"
+translation = "「제 망상벽 탓에 선생님까지 휘말리게 해버려서…… 정말 부끄러워요……」"
+
+[[dialogue]]
+speaker = "unk"
+original = "トワが顔を覗き込むと、イクシリオンはしょんぼりと肩を落としていた。"
+translation = "토와가 얼굴을 들여다보자 익실리온은 풀이 죽어 어깨를 늘어뜨리고 있었다."
+
+[[dialogue]]
+speaker = "イクシリオン"
+original = "「私……先生に、まだ言えてなかったことがあって……」"
+translation = "「저…… 선생님께 아직 말씀드리지 못한 게 있어서……」"
+
+[[dialogue]]
+speaker = "unk"
+original = "イクシリオンは１度深呼吸をしてから、意を決して口を開く。"
+translation = "익실리온은 한 번 심호흡을 한 뒤, 결심한 듯 입을 연다."
+
+[[dialogue]]
+speaker = "イクシリオン"
+original = "「本当は私――普段から、<b>エッチで恥ずかしい</b>妄想ばかりしてるんですっ……！」"
+translation = "「실은 저―― 평소부터 <b>야하고</b> <b>부끄러운</b> 망상만 하고 있어요……!」"
+
+[[dialogue]]
+speaker = "トワ先生"
+original = "「えっ！？\u3000突然なんのカミングアウト！？」"
+translation = "「엣!? 갑자기 웬 커밍아웃!?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "イクシリオンの爆弾発言に、トワは思わず目を丸くして固まってしまうのだった。"
+translation = "익실리온의 폭탄 발언에 토와는 저도 모르게 눈을 동그랗게 뜨고 굳어 버렸다."
+

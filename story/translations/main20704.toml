@@ -1,0 +1,325 @@
+[[dialogue]]
+speaker = "unk"
+original = "第４話,厄災の封印,B"
+translation = "제4화, 재앙의 봉인, B"
+
+[[dialogue]]
+speaker = "unk"
+original = "俺はアポロと母さんに、デネブに渡ってくるまでの一部始終を語った。"
+translation = "나는 아폴로와 누나에게 데네브로 건너오기까지의 자초지종을 이야기했다."
+
+[[dialogue]]
+speaker = "unk"
+original = "俺の魔王の力の暴走と、ベガから来た梨緒との御前試合。"
+translation = "나의 마왕의 힘의 폭주와, 베가에서 온 리오와의 어전시합."
+
+[[dialogue]]
+speaker = "unk"
+original = "極星学園の襲来と宣戦布告。ディザスターハンドとの遭遇。"
+translation = "극성학원의 습격과 선전포고. 디재스터 핸드와의 조우."
+
+[[dialogue]]
+speaker = "unk"
+original = "俺たちアルタイルはデネブと戦わない道を選んだこと。"
+translation = "우리 알타이르는 데네브와 싸우지 않는 길을 택했다는 것."
+
+[[dialogue]]
+speaker = "unk"
+original = "チナの装置を破壊した余波で、デネブにやってきたことなどを一通り説明した。"
+translation = "치나의 장치를 파괴한 여파로 데네브에 오게 된 것 등을 한차례 설명했다."
+
+[[dialogue]]
+speaker = "アポロ（大人）"
+original = "「なんだ、自分たちの意志で乗り込んできたんじゃなかったのか。それは災難だったな」"
+translation = "「뭐야, 자신들의 의지로 쳐들어온 게 아니었나. 그거 참 안됐군」"
+
+[[dialogue]]
+speaker = "アポロ（大人）"
+original = "「しかし『デネブと共にリクリエと戦う』か……お前らしいな。かっこいいじゃないか」"
+translation = "「하지만 『데네브와 함께 리크리에와 싸운다』라…… 너답네. 멋지잖아」"
+
+[[dialogue]]
+speaker = "アポロ（大人）"
+original = "「レジスタンスとしても望ましい方針だ。できるだけ協力しよう」"
+translation = "「레지스탕스로서도 바라는 방침이다. 최대한 협력하지」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「ああ、助かるよ」"
+translation = "「아아, 고마워」"
+
+[[dialogue]]
+speaker = "リノ"
+original = "「だけど大きな手……ディザスターハンドについては初めて聞く情報ね」"
+translation = "「하지만 커다란 손…… 디재스터 핸드에 대해서는 처음 듣는 정보네」"
+
+[[dialogue]]
+speaker = "アポロ（大人）"
+original = "「あたしは一度接触したことがあるが……リクリエの使徒だった頃の話だし、１０年前だったからすっかり忘れていたな」"
+translation = "「난 한 번 접촉한 적이 있지만…… 리크리에의 사도였을 때 이야기고, 10년 전이라 완전히 잊고 있었군」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「ディザスターハンドについては、俺たちも多くを知らない。今のところどう対処するのかも検討中だ」"
+translation = "「디재스터 핸드에 대해서는 우리도 아는 게 많지 않아. 현재로서는 어떻게 대처할지 검토 중이야」"
+
+[[dialogue]]
+speaker = "ラクシャ"
+original = "「そのディザスターハンドの正体なんだけどさー」"
+translation = "「그 디재스터 핸드의 정체 말인데 말이야─」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「！\u3000それは秘密にするはずじゃなかったのか……！？」"
+translation = "「! 그건 비밀로 하기로 하지 않았나……!?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ラクシャの言葉に、梨緒の顔色が変わる。"
+translation = "락샤의 말에 리오의 안색이 변한다."
+
+[[dialogue]]
+speaker = "unk"
+original = "ディザスターハンドの情報は梨緒からもたらされたもの。"
+translation = "디재스터 핸드의 정보는 리오가 가져온 것."
+
+[[dialogue]]
+speaker = "unk"
+original = "俺たちより情報を持っていてもおかしくないが、ならどうして今まで黙っていたんだ？"
+translation = "우리보다 정보를 더 많이 가지고 있어도 이상할 게 없지만, 그렇다면 왜 지금까지 침묵하고 있었던 거지?"
+
+[[dialogue]]
+speaker = "ラクシャ"
+original = "「いつまでも隠しているわけにはいかないし、何とかする目途が立ったからね」"
+translation = "「언제까지고 숨길 수는 없는 노릇이고, 어떻게든 할 방도가 섰으니까」"
+
+[[dialogue]]
+speaker = "ラクシャ"
+original = "「梨緒の口から言いたくないならボクが言うけど？」"
+translation = "「리오의 입으로 말하기 싫다면 내가 말할까?」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「……いや、私が言おう」"
+translation = "「……아니, 내가 말하겠다」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「ディザスターハンドの正体……それはベガの君だ、緋宮クロト」"
+translation = "「디재스터 핸드의 정체…… 그것은 베가의 너다, 히노미야 쿠로토」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「──！？」"
+translation = "「──!?」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「クロトが！？\u3000ディザスターハンド！？」"
+translation = "「쿠로토가!? 디재스터 핸드!?」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「あのディザスターハンドは、魔王であった緋宮クロトがリクリエの側に堕ち、姿を変えたものだ」"
+translation = "「그 디재스터 핸드는 마왕이었던 히노미야 쿠로토가 리크리에 측으로 타락해 모습이 변한 것이다」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「じゃあ俺がベガを滅ぼしたのか？」"
+translation = "「그럼 내가 베가를 멸망시킨 건가?」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「ああ。だが平行世界の緋宮クロトはあくまで別人だ。君を責めるつもりはない」"
+translation = "「아아. 하지만 평행세계의 히노미야 쿠로토는 어디까지나 별개다. 너를 탓할 생각은 없어」"
+
+[[dialogue]]
+speaker = "ラクシャ"
+original = "「今まで秘密にしていたのは、君がディザスターハンドになる可能性を少しでも減らすためだ」"
+translation = "「지금까지 비밀로 했던 건 네가 디재스터 핸드가 될 가능성을 조금이라도 줄이기 위해서야」"
+
+[[dialogue]]
+speaker = "ラクシャ"
+original = "「ヴィーナスが君に『魔王になる』と知らせたように、可能性を知ることでその未来に近づくことがあるからね」"
+translation = "「비너스가 너에게 『마왕이 된다』고 알렸던 것처럼, 가능성을 아는 것으로 그 미래에 가까워지는 경우가 있으니까」"
+
+[[dialogue]]
+speaker = "ラクシャ"
+original = "「デネブのクロトは、平行世界を超える力で、ベガの自分がディザスターハンドになったことを知った」"
+translation = "「데네브의 쿠로토는 평행세계를 넘는 힘으로 베가의 자신이 디재스터 핸드가 된 것을 알았어」"
+
+[[dialogue]]
+speaker = "ラクシャ"
+original = "「だからボクは彼に頼まれて、アルタイルの緋宮クロトがそうならないように監視してたんだ」"
+translation = "「그래서 난 그의 부탁을 받고 알타이르의 히노미야 쿠로토가 그렇게 되지 않도록 감시하고 있었지」"
+
+[[dialogue]]
+speaker = "ラクシャ"
+original = "「だけど隠すにも限界があるし、暴走する可能性があるのは危険だし、魔王ラクシスの力を一時的に封印してしまおうってわけ」"
+translation = "「하지만 숨기는 데도 한계가 있고, 폭주할 가능성이 있는 건 위험하니까 마왕 락시스의 힘을 일시적으로 봉인해 버리자는 거야」"
+
+[[dialogue]]
+speaker = "unk"
+original = "魔王ラクシスの力は、世界を超え、可能性を収束させる力。"
+translation = "마왕 락시스의 힘은 세계를 넘고 가능성을 수렴시키는 힘."
+
+[[dialogue]]
+speaker = "unk"
+original = "リクリエの打ち勝つには必要なものだが、今は暴走の危険がある爆弾と化していた。"
+translation = "리크리에를 이겨내기 위해 필요한 것이지만, 지금은 폭주의 위험이 있는 폭탄으로 변해 있었다."
+
+[[dialogue]]
+speaker = "クロト"
+original = "「そんなことが可能なのか？\u3000もちろんできるならありがたいが……」"
+translation = "「그런 게 가능한가? 물론 할 수 있다면 고맙겠지만……」"
+
+[[dialogue]]
+speaker = "ラクシャ"
+original = "「ヴィーナスはノヴァフォームになったことで、女神に近づいた。そしてボクの手には今、セイファートから取り返した女神テルルの力がある。これで準備は整った」"
+translation = "「비너스는 노바 폼이 되면서 여신에 가까워졌어. 그리고 내 손에는 지금 세이퍼트에게서 되찾은 여신 테루루의 힘이 있지. 이걸로 준비는 끝났어」"
+
+[[dialogue]]
+speaker = "ラクシャ"
+original = "「というわけでヴィーナス、ノヴァフォームになってくれる？\u3000ラクシスの力を封印するのに必要なんだ」"
+translation = "「그런 고로 비너스, 노바 폼이 되어줄래? 락시스의 힘을 봉인하는 데 필요해」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「変身すればいいのね？\u3000……チェンジ・ノヴァフォーム！」"
+translation = "「변신하면 되는 거지? ……체인지 노바 폼!」"
+
+[[dialogue]]
+speaker = "ヴィーナス（覚醒）"
+original = "「なったけど……どうすればいいの？」"
+translation = "「됐는데…… 어떻게 하면 돼?」"
+
+[[dialogue]]
+speaker = "ラクシャ"
+original = "「まずヴィーナスに女神の力を渡すね。そしたらヴィーナスは、鎖を巻き付けるイメージで力を注ぎ込んでみて」"
+translation = "「먼저 비너스에게 여신의 힘을 건네줄게. 그러면 비너스는 사슬을 감는다는 이미지로 힘을 쏟아부어 봐」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ラクシャの手から光の球が浮かび、それがヴィーナスの中に吸い込まれる。"
+translation = "락샤의 손에서 빛의 구슬이 떠오르고, 그것이 비너스 안으로 흡수된다."
+
+[[dialogue]]
+speaker = "ヴィーナス（覚醒）"
+original = "「これが女神の……ママの力……。温かいけど、透き通るみたいな……不思議な感じね」"
+translation = "「이것이 여신의…… 엄마의 힘……. 따뜻하면서도 투명한 듯한…… 신기한 느낌이네」"
+
+[[dialogue]]
+speaker = "ヴィーナス（覚醒）"
+original = "「じゃあやるわよ、クロト」"
+translation = "「그럼 시작할게, 쿠로토」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「ああ、頼む」"
+translation = "「아아, 부탁해」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ヴィーナスが俺の胸にそっと手を当てる。"
+translation = "비너스가 내 가슴에 살며시 손을 댄다."
+
+[[dialogue]]
+speaker = "unk"
+original = "そしてヴィーナスが目をつむって念じると──"
+translation = "그리고 비너스가 눈을 감고 염원하자──"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「！」"
+translation = "「!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ヴィーナスの手から女神の力を注がれ、自分の中に白い光が広がる。"
+translation = "비너스의 손에서 여신의 힘이 주입되어 내 안에서 하얀 빛이 퍼져나간다."
+
+[[dialogue]]
+speaker = "ヴィーナス（覚醒）"
+original = "「どう、クロト？」"
+translation = "「어때, 쿠로토?」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「自分でもよくわからないな……」"
+translation = "「나도 잘 모르겠어……」"
+
+[[dialogue]]
+speaker = "ラクシャ"
+original = "「じゃあ、ちゃんと封印されてるか試してもらっていい？」"
+translation = "「그럼 제대로 봉인됐는지 시험해 봐도 될까?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "おそるおそる慎重に、軽くアクセルを踏むように力を解き放つ。"
+translation = "조심조심 신중하게, 가볍게 액셀을 밟듯이 힘을 해방한다."
+
+[[dialogue]]
+speaker = "クロト"
+original = "「フロンティアドライブ──」"
+translation = "「프론티어 드라이브──」"
+
+[[dialogue]]
+speaker = "unk"
+original = "………………"
+translation = "………………"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「……何も起きないな」"
+translation = "「……아무 일도 일어나지 않네」"
+
+[[dialogue]]
+speaker = "ラクシャ"
+original = "「うん、成功だね」"
+translation = "「응, 성공이네」"
+
+[[dialogue]]
+speaker = "ラクシャ"
+original = "「女神の力による封印だから、解けるのも女神に準ずる者だけ。来るべき時が来たら、ヴィーナスが魔王の力を解き放ってね」"
+translation = "「여신의 힘에 의한 봉인이니까 풀 수 있는 것도 여신에 준하는 자뿐이야. 때가 되면 비너스가 마왕의 힘을 해방해 줘」"
+
+[[dialogue]]
+speaker = "ヴィーナス（覚醒）"
+original = "「ええ、わかったわ。ふふ、やっぱりクロトには私が必要ね！」"
+translation = "「응, 알았어. 후후, 역시 쿠로토에겐 내가 필요하네!」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「……ふぅ。だけど一日に二度もノヴァフォームになったら、さすがに疲れるわ」"
+translation = "「……후우. 하지만 하루에 두 번이나 노바 폼이 됐더니 역시 피곤하네」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「ありがとう、ヴィーナス」"
+translation = "「고마워, 비너스」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「いいのよ。言ったでしょ、パパの面倒を見るのは私の仕事だって」"
+translation = "「괜찮아. 말했잖아, 파파를 돌보는 건 내 일이라고」"
+
+[[dialogue]]
+speaker = "ラクシャ"
+original = "「だけど今封印したのはラクシスの力。リクリエの力は相変わらず暴走する可能性があるから、そこは注意してね」"
+translation = "「하지만 지금 봉인한 건 락시스의 힘이야. 리크리에의 힘은 여전히 폭주할 가능성이 있으니까 그 점은 주의해」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「ああ、わかってる」"
+translation = "「아아, 알고 있어」"
+
+[[dialogue]]
+speaker = "unk"
+original = "俺の体に潜む爆弾はもう１つ。"
+translation = "내 몸에 잠복한 폭탄은 하나 더 있다."
+
+[[dialogue]]
+speaker = "unk"
+original = "<ruby>厄災の化身<rt>ディザスターハンド</rt></ruby>となって世界を滅ぼさないように、気を抜いてはいけないと自戒するのだった。"
+translation = "재앙의 화신이 되어 세계를 멸망시키지 않도록 방심해서는 안 된다고 자계했다."
+

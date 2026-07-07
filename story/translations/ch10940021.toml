@@ -1,0 +1,425 @@
+[[dialogue]]
+speaker = "unk"
+original = "第１話,元気の出る応援,P"
+translation = "제1화, 기운이 나는 응원, P"
+
+[[dialogue]]
+speaker = "unk"
+original = "星霊祭が終わり、その後処理に明け暮れていたある日──"
+translation = "성령제가 끝나고, 그 뒷처리에 매달리던 어느 날──"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「ふー、これで星霊祭関係の仕事は全部終わりかな。アナとサーシャさんがいなくても、ちゃんと片付いたね」"
+translation = "「휴, 이걸로 성령제 관련 업무는 전부 끝난 건가. 아나와 사샤 씨가 없어도, 제대로 정리됐네」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「でも何か大事なものを忘れてるような……」"
+translation = "「하지만 뭔가 중요한 걸 잊은 듯한……」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「あっ、クロト、マトイ、ごっめーん」"
+translation = "「앗, 쿠로토, 마토이, 미안해ー」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「どうしたの？\u3000……なんか嫌～な予感がするんだけど」"
+translation = "「무슨 일이야? ……왠지 싫ー은 예감이 드는데」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「星霊祭の会計報告書を、学園長に出さないといけないんだったわ！」"
+translation = "「성령제 회계 보고서를 학원장에게 제출해야 했어!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "星霊祭の会計報告！？"
+translation = "성령제 회계 보고?!"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「ヴィーナス！？\u3000なんでそんな大事な書類、隠してたのー！？」"
+translation = "「비너스!? 왜 그런 중요한 서류를 숨기고 있었던 거야ー!?」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「隠してたんじゃないわ、隠れちゃってたのよ！」"
+translation = "「숨기고 있었던 게 아니야, 숨어버렸던 거라고!」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「それっていつまでに提出しないといけないやつ？」"
+translation = "「그거 언제까지 제출해야 하는 건데?」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「それが今日中なのよ！」"
+translation = "「그게 오늘 중이야!」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「今日中！？\u3000完全下校まで、あと２時間だよ！？」"
+translation = "「오늘 중!? 완전 하교까지 앞으로 두 시간밖에 안 남았잖아!?」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「猫の手も借りたいのに、今日に限ってアナもサーシャさんもいないけど……それでも、やらなきゃだよね」"
+translation = "「고양이 손이라도 빌리고 싶은데, 오늘따라 아나도 사샤 씨도 없지만…… 그래도, 해야겠지」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「大丈夫！\u3000私がいるわ！」"
+translation = "「괜찮아! 내가 있잖아!」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「ヴィーナスが手を出すと、余計に混乱するからダメ！\u3000隅っこでジッとしてて！」"
+translation = "「비너스가 손대면, 오히려 더 혼란스러워지니까 안 돼! 구석에서 가만히 있어!」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「猫の手以下！？\u3000ひどいわ！？」"
+translation = "「고양이 손 이하!? 너무해!?」"
+
+[[dialogue]]
+speaker = "美鶴"
+original = "「何の騒ぎですか、お三方。廊下まで聞こえてますよ」"
+translation = "「무슨 소란입니까, 세 분. 복도까지 들리고 있습니다」"
+
+[[dialogue]]
+speaker = "unk"
+original = "騒がしい星徒会室に顔を覗かせたのは、九浄家メイド隊の長篠美鶴だ。"
+translation = "시끄러운 성도회실에 얼굴을 내민 것은, 쿠죠 가문 메이드대의 나가시노 미츠루다."
+
+[[dialogue]]
+speaker = "美鶴"
+original = "「あー、お嬢様がまた余計なことをやらかしたんで？」"
+translation = "「아ー, 아가씨가 또 쓸데없는 일을 저지르신 겁니까?」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「ご主人様のトラブルメーカーっぷりをよくご存じで……」"
+translation = "「주인님의 트러블 메이커 기질을 잘 알고 계시는군요……」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「今回は違うわ！\u3000やらなきゃいけないことをすっかり忘れていたのよ！」"
+translation = "「이번엔 달라! 해야 할 일을 완전히 잊고 있었던 것뿐이야!」"
+
+[[dialogue]]
+speaker = "美鶴"
+original = "「もっとタチが悪いすね。すみません、皆様。うちのお嬢様が」"
+translation = "「더 질이 나쁘네요. 죄송합니다, 여러분. 저희 아가씨가」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「そんなことより良いところに来たわ、美鶴！」"
+translation = "「그런 것보다 잘 왔어, 미츠루!」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「あっ、美鶴ちゃんに手伝ってもらうの？\u3000猫の手も借りたいって言ったけど、それはちょっと悪い──」"
+translation = "「앗, 미츠루짱에게 도와달라고 할 거야? 고양이 손이라도 빌리고 싶다고 했지만, 그건 좀 미안──」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「星霊祭で着てたチアガールの戦闘服があったでしょ。アレを着て、私たちを応援しなさい！」"
+translation = "「성령제 때 입었던 치어리더 전투복이 있었잖아. 그걸 입고, 우리를 응원해!」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「なんで着替えさせるのー！？\u3000普通に手伝ってもらえばいいじゃない！」"
+translation = "「왜 옷을 갈아입히는 거야ー!? 평범하게 도와달라고 하면 되잖아!」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「予算報告書は一応、星徒会内で片づけなきゃいけない案件でしょ？」"
+translation = "「예산 보고서는 일단 성도회 내에서 처리해야 하는 안건이잖아?」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「部外者の美鶴に助力は頼めないわ。一般の学生には見せられない情報もあるし」"
+translation = "「외부인인 미츠루에게 도움을 청할 수는 없어. 일반 학생에게는 보여줄 수 없는 정보도 있고」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ちゃんとした理由があった……"
+translation = "제대로 된 이유가 있었다……"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「だから、美鶴には応援だけしてもらおうと思って。美鶴のチアガール姿なんてスーパーウルトラゴッデスレアよ」"
+translation = "「그러니까, 미츠루에게는 응원만 해달라고 하려고. 미츠루의 치어리더 모습은 슈퍼 울트라 갓데스 레어야」"
+
+[[dialogue]]
+speaker = "美鶴"
+original = "「え、普通にイヤですけど」"
+translation = "「에, 평범하게 싫은데요」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「秒で拒否られたんですけど！？」"
+translation = "「순식간에 거절당했는데요!?」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「そんなこと言わないで！\u3000あんなに可愛い美鶴を星霊祭の１回こっきりで終わらせちゃうには惜しすぎるわ！\u3000世界の損失よ！」"
+translation = "「그런 말 하지 마! 그렇게 귀여운 미츠루를 성령제 한 번으로 끝내기엔 너무 아까워! 세계의 손실이라고!」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「それはまぁ、確かに……美鶴ちゃんのチアガール、すっごく可愛かったし……」"
+translation = "「그건 뭐, 확실히…… 미츠루짱의 치어리더, 엄청 귀여웠고……」"
+
+[[dialogue]]
+speaker = "美鶴"
+original = "「おだてても着ませんて。恥ずいし」"
+translation = "「치켜세워도 안 입습니다. 부끄럽고」"
+
+[[dialogue]]
+speaker = "unk"
+original = "チアガールの美鶴、可愛かったな……"
+translation = "치어리더 복장의 미츠루, 귀여웠지……"
+
+[[dialogue]]
+speaker = "美鶴"
+original = "「……うちが着替えれば、満足するんです？」"
+translation = "「……제가 갈아입으면, 만족하시겠습니까?」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「大・満・足よ！\u3000クロトも大喜びよね？」"
+translation = "「대・만・족이야! 쿠로토도 엄청 기뻐하겠지?」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "（あれ？\u3000美鶴ちゃん、かなりチョロめ？）"
+translation = "（어라? 미츠루짱, 상당히 단순한 편인가?）"
+
+[[dialogue]]
+speaker = "美鶴"
+original = "「はいはい、わかりました、わかりました。お嬢様の命令には逆らえません」"
+translation = "「네 네, 알겠습니다, 알겠어요. 아가씨의 명령에는 거역할 수 없죠」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "（ヴィーナスというか、会長のためな気がする……）"
+translation = "（비너스라기보다는, 회장군을 위해서인 것 같은데……）"
+
+[[dialogue]]
+speaker = "美鶴"
+original = "「んじゃ早速──」"
+translation = "「그럼 바로──」"
+
+[[dialogue]]
+speaker = "美鶴"
+original = "「これでいいんですよね、お嬢様」"
+translation = "「이걸로 된 거죠, 아가씨」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「やっぱかわいいっ！\u3000いつもとギャップがあるよね！」"
+translation = "「역시 귀여워! 평소와 갭이 있네!」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「でしょー？\u3000いつものメイド服もいいけど、たまにはこれで仕事してくれたらいいのにって思うわ」"
+translation = "「그렇지ー? 평소의 메이드복도 좋지만, 가끔은 이걸 입고 일해줬으면 좋겠다고 생각해」"
+
+[[dialogue]]
+speaker = "美鶴"
+original = "「愛でていただくのは悪い気はしませんが、勘弁してください。それよりも今は急がなくてはいけない緊急事態なのでは？」"
+translation = "「예뻐해 주시는 건 기분 나쁘지 않지만, 참아주세요. 그보다 지금은 서둘러야 할 긴급 상황 아닌가요?」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「そうだった！\u3000提出期限まであと１時間半しかないよー！」"
+translation = "「맞아! 제출 기한까지 앞으로 한 시간 반밖에 안 남았어ー!」"
+
+[[dialogue]]
+speaker = "美鶴"
+original = "「わざわざ着替えたうちは、何をすればよろしいので？」"
+translation = "「일부러 갈아입은 저는, 뭘 하면 될까요?」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「応援よ！\u3000切羽詰まっている２人を励ましてあげて！」"
+translation = "「응원이야! 궁지에 몰린 두 사람을 격려해 줘!」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「誰のせいで切羽詰まったと思ってるのかなぁ？」"
+translation = "「누구 때문에 궁지에 몰렸다고 생각하는 걸까나?」"
+
+[[dialogue]]
+speaker = "美鶴"
+original = "「はぁ……そんなんでいいんでしたら……がーんばれ、がーんばれ」"
+translation = "「하아…… 그런 걸로 괜찮다면야…… 힘내라, 힘내라」"
+
+[[dialogue]]
+speaker = "美鶴"
+original = "「何やってるかよくわかんないんで、ちっとも気持ちは入ってないんすけど……こんなのでよろしいんすかね」"
+translation = "「뭘 하는 건지 잘 모르겠어서, 전혀 마음은 안 담겨 있습니다만…… 이런 걸로 괜찮을까요」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「なんだろう……美鶴ちゃんの応援……気持ちが籠ってる感じはしないのに……」"
+translation = "「뭘까…… 미츠루짱의 응원…… 마음이 담겨 있는 것 같지는 않은데도……」"
+
+[[dialogue]]
+speaker = "unk"
+original = "み・な・ぎっ・て・き・た・ぜ！"
+translation = "기・운・이・솟・아・난・다!"
+
+[[dialogue]]
+speaker = "unk"
+original = "妙にやる気が湧いてくる……！"
+translation = "묘하게 의욕이 솟아오른다……!"
+
+[[dialogue]]
+speaker = "美鶴"
+original = "「そんならいいんすけど……ふぁーいと、ふぁーいと」"
+translation = "「그렇다면야 괜찮습니다만…… 파ー이팅, 파ー이팅」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「一気にやっちゃうよっ！\u3000私はこっちの領収書の数字を読み上げてくから、入力お願いできるかなっ！？」"
+translation = "「단숨에 해치우자! 나는 이쪽 영수증 숫자를 읽어줄 테니까, 입력 부탁할 수 있을까!?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "秒で終わらせてやる！"
+translation = "순식간에 끝내주마!"
+
+[[dialogue]]
+speaker = "unk"
+original = "任せろ！"
+translation = "맡겨라!"
+
+[[dialogue]]
+speaker = "美鶴"
+original = "「やーればでっきるー、なーせばっなるー」"
+translation = "「하ー면 된ー다ー, 하ー면 이ー룬ー다ー」"
+
+[[dialogue]]
+speaker = "美鶴"
+original = "「いけいけマトイー、いけいけかいちょー」"
+translation = "「가라 가라 마토이ー, 가라 가라 회장ー」"
+
+[[dialogue]]
+speaker = "美鶴"
+original = "「……我ながら何やってんだかって感じなんすけど」"
+translation = "「……스스로도 뭘 하고 있나 싶습니다만」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「冷静になっちゃダメ！\u3000応援を止めちゃダメよ、美鶴！」"
+translation = "「냉정해지면 안 돼! 응원을 멈추면 안 돼, 미츠루!」"
+
+[[dialogue]]
+speaker = "美鶴"
+original = "「はぁ……まだ勤務時間内なんでやりますけど……で、ヴィーナスお嬢様は何やってんすか」"
+translation = "「하아…… 아직 근무 시간 내니까 하겠습니다만…… 그래서, 비너스 아가씨는 뭘 하고 계신 겁니까」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「美鶴の勇姿を目に焼き付けつつ、画像と動画も残してるわ！」"
+translation = "「미츠루의 용감한 모습을 눈에 새기면서, 사진과 동영상도 남기고 있어!」"
+
+[[dialogue]]
+speaker = "美鶴"
+original = "「ちょ、撮影許可出してないんすけど。追加のお給金請求してもいいヤツすよね、これ」"
+translation = "「잠깐, 촬영 허가 안 냈는데요. 추가 급여 청구해도 되는 거 맞죠, 이거」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「収支トータルプラマイゼロ！\u3000誤差なし！\u3000完璧だよ！」"
+translation = "「수지 총합 플러스 마이너스 제로! 오차 없음! 완벽해!」"
+
+[[dialogue]]
+speaker = "美鶴"
+original = "「お疲れさまです。てか、１時間しか経ってませんけど」"
+translation = "「수고하셨습니다. 그나저나, 한 시간밖에 안 지났는데요」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「なんかあっという間だったよ。集中力が研ぎ澄まされて、ゾーンに入ったみたいになって……嘘みたいなスピードで片付いちゃった……」"
+translation = "「왠지 순식간이었어. 집중력이 갈고닦여서, 존에 들어간 것처럼 되어서…… 거짓말 같은 속도로 처리돼 버렸어……」"
+
+[[dialogue]]
+speaker = "unk"
+original = "美鶴の応援のおかげだ"
+translation = "미츠루의 응원 덕분이다"
+
+[[dialogue]]
+speaker = "美鶴"
+original = "「えっへん」"
+translation = "「에헴」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「それはつまり、美鶴を着替えさせた私の功績でもあるわね！\u3000えっへん！」"
+translation = "「그건 즉, 미츠루를 갈아입게 한 나의 공적이기도 하겠네! 에헴!」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「それはない」"
+translation = "「그건 아니야」"
+
+[[dialogue]]
+speaker = "美鶴"
+original = "「ないです」"
+translation = "「아닙니다」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「なんでよー！？」"
+translation = "「왜 아니야ー!?」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「そもそも、ヴィーナスが忘れてなければ、こんな大変なことにはならなかったんだからね！」"
+translation = "「애초에, 비너스가 잊지 않았더라면, 이렇게 큰일이 되지는 않았을 테니까!」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「てへぺろ☆」"
+translation = "「테헤페로☆」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「そういえば、美鶴って本気出して集中するとゾーンに入って、すっごく強くなるのよね？\u3000前にヘレナちゃんから聞いたわ」"
+translation = "「그러고 보니, 미츠루는 진심을 내서 집중하면 존에 들어가서, 엄청 강해진다고 했지? 예전에 헬레나짱한테 들었어」"
+
+[[dialogue]]
+speaker = "美鶴"
+original = "「そうらしいすね。うちが本気出すのなんて、多くて年イチくらいすけど」"
+translation = "「그런 것 같습니다. 제가 진심을 내는 건, 많아 봐야 일 년에 한 번 정도지만요」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「美鶴の超集中ゾーンが、応援した人にエンチャントされる──って感じなのかしら。すごく便利ね！\u3000ピンチになったら、またお願いするわ！」"
+translation = "「미츠루의 초집중 존이, 응원한 사람에게 인챈트되는── 그런 느낌인 걸까. 정말 편리하네! 위기에 처하면, 또 부탁할게!」"
+
+[[dialogue]]
+speaker = "美鶴"
+original = "「もうヤです。そもそもピンチにならないようにしてください」"
+translation = "「더는 싫습니다. 애초에 위기에 처하지 않도록 해 주세요」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「ごもっともだよ。ヴィーナスは反省して！」"
+translation = "「지당한 말씀이야. 비너스는 반성해!」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「はーい」"
+translation = "「네ー」"
+
+[[dialogue]]
+speaker = "unk"
+original = "兎にも角にも、美鶴の応援のおかげで重要書類は爆速で完成し、星徒会は窮地を免れたのであった。"
+translation = "어쨌든, 미츠루의 응원 덕분에 중요 서류는 초고속으로 완성되었고, 성도회는 위기를 모면했던 것이다."
+

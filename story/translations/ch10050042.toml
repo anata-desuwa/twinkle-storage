@@ -1,0 +1,300 @@
+[[dialogue]]
+speaker = "unk"
+original = "第２話,パンケーキの秘伝、学びます！,P"
+translation = "제2화,팬케이크의 비전,배웁니다!,P"
+
+[[dialogue]]
+speaker = "ソフィア"
+original = "「サラン先輩……いえ、先生！\u3000今日はよろしくお願いします！」"
+translation = "「사란 선배…… 아니, 선생님! 오늘은 잘 부탁드립니다!」"
+
+[[dialogue]]
+speaker = "サラン"
+original = "「は～い、よろしくね～♪」"
+translation = "「네~, 잘 부탁해요~♪」"
+
+[[dialogue]]
+speaker = "サラン"
+original = "「ところでソフィアちゃんはハロウィンフォームでパンケーキを生み出せるのに、どうして実際に自分でも作ってみようと思ったの？」"
+translation = "「그런데 소피아짱은 할로윈 폼으로 팬케이크를 만들어낼 수 있는데, 왜 실제로 직접 만들어 보려고 생각했어요?」"
+
+[[dialogue]]
+speaker = "ソフィア"
+original = "「手作りして食べてもらいたい相手がいまして……」"
+translation = "「직접 만들어서 먹여주고 싶은 상대가 있어서요……」"
+
+[[dialogue]]
+speaker = "ソフィア"
+original = "「それに、せっかくだから自分でもちゃんと作れるようになりたいな、と」"
+translation = "「게다가, 모처럼이니 스스로도 제대로 만들 수 있게 되고 싶어서요.」"
+
+[[dialogue]]
+speaker = "サラン"
+original = "「嬉しい～♪\u3000お菓子作りに興味を持ってくれてありがと～」"
+translation = "「기뻐요~♪ 과자 만들기에 흥미를 가져줘서 고마워요~」"
+
+[[dialogue]]
+speaker = "サラン"
+original = "「それじゃ、さっそく始めましょう。材料はこちらに準備してあるから」"
+translation = "「그럼, 바로 시작하죠. 재료는 여기에 준비해뒀으니까.」"
+
+[[dialogue]]
+speaker = "ソフィア"
+original = "「まずは卵の黄身と薄力粉、ベーキングパウダーを入れてそれをかき混ぜるところからですね──」"
+translation = "「우선 달걀노른자와 박력분, 베이킹파우더를 넣고 그것을 휘젓는 것부터군요──」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「あら、誰かお客さんかしら？」"
+translation = "「어머, 누가 손님이라도 왔나?」"
+
+[[dialogue]]
+speaker = "ソフィア"
+original = "「……ちらっ。姉さん……今、姉さんと会長さんの他には誰もいませんね？」"
+translation = "「……힐끗. 언니…… 지금, 언니와 회장님 외에는 아무도 없죠?」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「ええ、私たちだけよ？」"
+translation = "「응, 우리뿐이야.」"
+
+[[dialogue]]
+speaker = "ソフィア"
+original = "「では、こほん……」"
+translation = "「그럼, 크흠……」"
+
+[[dialogue]]
+speaker = "ソフィア"
+original = "「トリック＆トリート～！」"
+translation = "「트릭 앤 트리트~!」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「あらあら！」"
+translation = "「어머나, 어머나!」"
+
+[[dialogue]]
+speaker = "ソフィア"
+original = "「どうです、驚きましたか？\u3000新しく発現したハロウィンフォームです」"
+translation = "「어때요, 놀랐나요? 새로 발현한 할로윈 폼이에요.」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「ええ、とっても驚いたし、とっても可愛いわ」"
+translation = "「응, 정말 놀랐고, 정말 귀여워.」"
+
+[[dialogue]]
+speaker = "ソフィア"
+original = "「そうでしょうそうでしょう。ですがこれだけではありませんよ？」"
+translation = "「그렇죠, 그렇죠. 하지만 이것뿐만이 아니랍니다?」"
+
+[[dialogue]]
+speaker = "ソフィア"
+original = "「これを作ってきました！\u3000じゃーん、サラン先輩に教わって作ったパンケーキです♪\u3000姉さんに食べてもらおうと思って持ってきました」"
+translation = "「이걸 만들어 왔어요! 짜잔, 사란 선배에게 배워서 만든 팬케이크예요♪ 언니에게 먹여주려고 가져왔어요.」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「私のために？\u3000嬉しいわ、ソフィ……ありがとう……」"
+translation = "「나를 위해서? 기쁘네, 소피…… 고마워……」"
+
+[[dialogue]]
+speaker = "ソフィア"
+original = "「『美味しいお菓子で、姉さんを驚かせよう大作戦』は成功のようですね……」"
+translation = "「『맛있는 과자로, 언니를 놀라게 하자 대작전』은 성공인 것 같네요……」"
+
+[[dialogue]]
+speaker = "unk"
+original = "サランの所に通ってたのはそういうことか"
+translation = "사란에게 다녔던 건 그런 이유였나 보군."
+
+[[dialogue]]
+speaker = "ソフィア"
+original = "「ええ、味の方もサラン先生のお墨付きをもらいました。さあさあ、どうぞ食べてください」"
+translation = "「네, 맛도 사란 선생님의 보증을 받았어요. 자자, 어서 드세요.」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「ありがとう、さっそくいただくわね～」"
+translation = "「고마워, 바로 먹을게~」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「もぐ……あら、本当に美味しい……すごいわ、ソフィ♪」"
+translation = "「냠…… 어머, 정말 맛있어…… 대단하네, 소피♪」"
+
+[[dialogue]]
+speaker = "ソフィア"
+original = "「それほどでも……♪」"
+translation = "「그 정도까지는……♪」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「こっちにいらっしゃい、一緒に食べましょうよ。ポンポン、いつものようにお膝の上に乗って～♪」"
+translation = "「이리 와, 같이 먹자. 퐁퐁, 평소처럼 무릎 위에 앉아~♪」"
+
+[[dialogue]]
+speaker = "ソフィア"
+original = "「ええ、そうさせてもらいます……<emoji=heart04>」"
+translation = "「네, 그렇게 할게요……<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「お姉ちゃんハグ、ぎゅーっ。はい、あーん口を開けて、食べさせてあげるわ～」"
+translation = "「언니 허그, 꼬옥. 자, 아~ 입 벌려, 먹여줄게~」"
+
+[[dialogue]]
+speaker = "ソフィア"
+original = "「あーん……<emoji=heart04>」"
+translation = "「아~앙……<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "ソフィア"
+original = "「あれ、どうしましたか会長さん？」"
+translation = "「어라, 왜 그러세요 회장님?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "メッチャ甘えるじゃん！"
+translation = "엄청 응석 부리잖아!"
+
+[[dialogue]]
+speaker = "ソフィア"
+original = "「だって会長さんには、私が姉さんと２人きりの時甘えまくりだということがバレてしまっていますからね」"
+translation = "「왜냐하면 회장님에게는 제가 언니와 단둘이 있을 때 응석을 잔뜩 부린다는 것이 들켜버렸으니까요.」"
+
+[[dialogue]]
+speaker = "ソフィア"
+original = "「何の遠慮もなく甘やかしてもらえます。そうですね、姉さん？」"
+translation = "「아무 거리낌 없이 응석을 부릴 수 있어요. 그렇죠, 언니?」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「うふふ、そうよ～。よしよし、頭をなでなでしてあげますね」"
+translation = "「우후후, 그렇지~. 아이고, 아이고, 머리를 쓰담쓰담 해줄게.」"
+
+[[dialogue]]
+speaker = "unk"
+original = "これは浮気だ！"
+translation = "이건 바람이다!"
+
+[[dialogue]]
+speaker = "unk"
+original = "納得いかない！"
+translation = "납득할 수 없어!"
+
+[[dialogue]]
+speaker = "ソフィア"
+original = "「そういうのじゃありませんよ、これは！」"
+translation = "「그런 게 아니에요, 이건!」"
+
+[[dialogue]]
+speaker = "ソフィア"
+original = "「姉さんとは姉妹なんですから甘えるのは自然なことです。浮気ではないでしょう？」"
+translation = "「언니와는 자매니까 응석 부리는 건 당연한 일이에요. 바람이 아니잖아요?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "恋人である俺を放置はいかがなものか"
+translation = "연인인 나를 방치하는 건 좀 그렇지 않나."
+
+[[dialogue]]
+speaker = "unk"
+original = "だからといって"
+translation = "그렇다고 해서."
+
+[[dialogue]]
+speaker = "ソフィア"
+original = "「むぅ……仕方がありませんね。ではどうすればいいんですか？」"
+translation = "「음…… 어쩔 수 없네요. 그럼 어떻게 해야 하죠?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "頭を撫でながらパンケーキを食べさせたい"
+translation = "머리를 쓰다듬으면서 팬케이크를 먹여주고 싶다."
+
+[[dialogue]]
+speaker = "unk"
+original = "俺もソフィアを抱っこしたい"
+translation = "나도 소피아를 안고 싶다."
+
+[[dialogue]]
+speaker = "ソフィア"
+original = "「分かりました。では会長さん、お膝の上に乗せてください」"
+translation = "「알겠습니다. 그럼 회장님, 무릎 위에 앉혀주세요.」"
+
+[[dialogue]]
+speaker = "ソフィア"
+original = "「んっ……えへへ……やっぱり会長さんの頭なでなでは、いいですね……」"
+translation = "「응…… 에헤헤…… 역시 회장님의 머리 쓰다듬기는, 좋네요……」"
+
+[[dialogue]]
+speaker = "unk"
+original = "はい、あーん"
+translation = "자, 아~앙."
+
+[[dialogue]]
+speaker = "ソフィア"
+original = "「あーんっ♪」"
+translation = "「아~앙♪」"
+
+[[dialogue]]
+speaker = "ソフィア"
+original = "「もぐもぐ……はぁ……恋人に抱っこされながら食べるパンケーキも素晴らしいものです……<emoji=heart04>」"
+translation = "「냠냠…… 하아…… 연인에게 안겨서 먹는 팬케이크도 정말 멋지네요……<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「あーん、会長くんってば、可愛い妹をとらないで欲しいわ～。ソフィ、お姉ちゃんを捨てちゃうの？」"
+translation = "「아~앙, 회장군은 귀여운 여동생을 뺏지 말아줬으면 좋겠어~. 소피, 언니를 버릴 거야?」"
+
+[[dialogue]]
+speaker = "ソフィア"
+original = "「す、捨てるって！\u3000そんなことするわけないじゃありませんか！」"
+translation = "「버, 버리다니! 그런 짓을 할 리가 없잖아요!」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「だったら戻ってきてちょうだい！\u3000もっといっぱい甘やかしてあげるから～♪」"
+translation = "「그렇다면 돌아와 줘! 더 많이 응석 부리게 해줄 테니까~♪」"
+
+[[dialogue]]
+speaker = "ソフィア"
+original = "「わ、わかりました……では……」"
+translation = "「아, 알겠습니다…… 그럼……」"
+
+[[dialogue]]
+speaker = "unk"
+original = "行かないでくれ、ソフィア！"
+translation = "가지 마, 소피아!"
+
+[[dialogue]]
+speaker = "ソフィア"
+original = "「ふえっ、会長さん！？」"
+translation = "「후엣, 회장님!?」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「お姉ちゃんのこと、選んでくれるでしょ？\u3000ソフィ？」"
+translation = "「언니를 선택해 줄 거지? 소피?」"
+
+[[dialogue]]
+speaker = "ソフィア"
+original = "「む、むむむ……」"
+translation = "「으, 으으음……」"
+
+[[dialogue]]
+speaker = "ソフィア"
+original = "「こんなの選べません！！\u3000どうすればいいんですか～～～～～～っ！！！」"
+translation = "「이런 건 고를 수 없어요!! 어떻게 해야 하는 건가요~~~~~~~!!!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "俺もサーシャさんも真っ赤になって困り果てるソフィアに、懸命に笑いをこらえる。"
+translation = "나도 사샤 씨도 새빨개져서 곤란해하는 소피아에게 필사적으로 웃음을 참는다."
+
+[[dialogue]]
+speaker = "unk"
+original = "そんな風にして俺たちは、ソフィアの作ってきてくれたパンケーキを存分に味わったのだった。"
+translation = "그렇게 우리는 소피아가 만들어 온 팬케이크를 마음껏 맛보았던 것이었다."
+

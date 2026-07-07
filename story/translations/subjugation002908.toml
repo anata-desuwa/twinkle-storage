@@ -1,0 +1,340 @@
+[[dialogue]]
+speaker = "unk"
+original = "その後、星霊舞闘会でヒルディオーネが優勝したことにより、星霊祭は流星学園が総合優勝を飾り、幕を閉じた。"
+translation = "그 후, 성령무투회에서 힐디 오네가 우승함으로써, 성령제는 유성 학원이 종합 우승을 차지하며 막을 내렸다."
+
+[[dialogue]]
+speaker = "unk"
+original = "しかし、全力で競い合った生徒たちは、どちらの学園も関係なく笑顔で後夜祭のパーティーに参加し、盛り上がっていた。"
+translation = "하지만, 전력으로 경쟁한 학생들은 어느 학원과도 관계없이 웃는 얼굴로 후야제 파티에 참가하여, 분위기가 고조되고 있었다."
+
+[[dialogue]]
+speaker = "フェニエル"
+original = "「お姉様、舞闘会優勝、おめでとうございますっ」"
+translation = "「언니님, 무투회 우승, 축하드립니다」"
+
+[[dialogue]]
+speaker = "ヒルディオーネ"
+original = "「ありがとう、フニ」"
+translation = "「고맙습니다요, 후니」"
+
+[[dialogue]]
+speaker = "寮生Ａ"
+original = "「お姉様！\u3000決勝戦、本当にすごかったですわ！\u3000私、感動しました！」"
+translation = "「언니님! 결승전, 정말 대단했어요! 저, 감동했어요!」"
+
+[[dialogue]]
+speaker = "寮生Ｂ"
+original = "「お姉様の覚醒した姿、あまりにもカッコよくて、涙が溢れて来てしまいましたわ……！」"
+translation = "「언니님의 각성한 모습, 너무나 멋져서, 눈물이 흘러나와 버렸어요……!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "そんな中で、ヒルディオーネはフェニエルや流星寮の寮生たちに囲まれ、口々に祝福される。"
+translation = "그런 가운데, 힐디 오네는 페니엘이나 유성 기숙사 학생들에게 둘러싸여, 입을 모아 축복을 받는다."
+
+[[dialogue]]
+speaker = "ヒルディオーネ"
+original = "「皆さんもありがとうございますわ。私、あなた達の全力の応援が聞こえたからこそ、ミーティアフォームに覚醒することができましたのよ」"
+translation = "「여러분도 고맙습니다요. 저, 당신들의 전력의 응원이 들렸기 때문에, 미티어 폼으로 각성할 수 있었습니다요」"
+
+[[dialogue]]
+speaker = "ヒルディオーネ"
+original = "「私１人では決して、マムに勝つことはできませんでしたわ」"
+translation = "「저 혼자서는 결코, 마무에게 이길 수 없었습니다요」"
+
+[[dialogue]]
+speaker = "ヒルディオーネ"
+original = "「私が勝てたのは、皆さんのおかげですの」"
+translation = "「제가 이길 수 있었던 것은, 여러분 덕분입니다요」"
+
+[[dialogue]]
+speaker = "寮生Ｃ"
+original = "「お姉様、そんな……！」"
+translation = "「언니님, 그런……!」"
+
+[[dialogue]]
+speaker = "寮生Ｄ"
+original = "「そんなこと言われたら私たち、感激してまた泣いてしまいますわ……！」"
+translation = "「그런 말 들으면 저희, 감격해서 또 울어버릴 거예요……!」"
+
+[[dialogue]]
+speaker = "フェニエル"
+original = "「お姉様、私も次の舞闘会は、優勝を目指して本気で頑張ります！\u3000お姉様にも負けないくらい、強い気持ちを持って！」"
+translation = "「언니님, 저도 다음 무투회는, 우승을 목표로 진심으로 열심히 할게요! 언니님에게도 지지 않을 만큼, 강한 마음을 가지고!」"
+
+[[dialogue]]
+speaker = "ヒルディオーネ"
+original = "「ええ、その意気ですわ。あなたがノヴァフォームを使いこなせるようになれば、私やマムも簡単には勝てないでしょう」"
+translation = "「네, 그 기세입니다요. 당신이 노바 폼을 자유자재로 다룰 수 있게 된다면, 저나 마무도 간단히는 이길 수 없겠지요」"
+
+[[dialogue]]
+speaker = "ヒルディオーネ"
+original = "「あなたの成長、心から期待していますわよ、フニ」"
+translation = "「당신의 성장, 진심으로 기대하고 있습니다요, 후니」"
+
+[[dialogue]]
+speaker = "フェニエル"
+original = "「はいっ、けっぱります♪」"
+translation = "「네, 열심히 할게요♪」"
+
+[[dialogue]]
+speaker = "マハムート"
+original = "「ヒルディオーネ」"
+translation = "「힐디 오네」"
+
+[[dialogue]]
+speaker = "ヒルディオーネ"
+original = "「マム、星霊祭と舞闘会、お疲れ様でしたわ」"
+translation = "「마무, 성령제와 무투회, 수고하셨습니다요」"
+
+[[dialogue]]
+speaker = "マハムート"
+original = "「ええ。あなたもね――それで、改めて言っておきたいことがあったのよ」"
+translation = "「그래. 너도―― 그래서, 다시 한번 말해두고 싶은 게 있었어」"
+
+[[dialogue]]
+speaker = "ヒルディオーネ"
+original = "「言っておきたいこと、ですの？」"
+translation = "「말해두고 싶은 것, 말입니까요?」"
+
+[[dialogue]]
+speaker = "マハムート"
+original = "「そう。口に出すと負けた気持ちになるから、今まで言って来なかったけど……」"
+translation = "「응. 입 밖에 내면 진 기분이 드니까, 지금까지 말하지 않았지만……」"
+
+[[dialogue]]
+speaker = "マハムート"
+original = "「あなたは――『努力の天才』よ」"
+translation = "「너는―― 『노력의 천재』야」"
+
+[[dialogue]]
+speaker = "ヒルディオーネ"
+original = "「え……？」"
+translation = "「에……?」"
+
+[[dialogue]]
+speaker = "マハムート"
+original = "「私は幼い頃から、妃竜院家の中でも歴代最強の天才だって、周りから言われて育った。だからこそ――」"
+translation = "「나는 어릴 때부터, 히류인 가문 중에서도 역대 최강의 천재라고, 주변에서 듣고 자랐어. 그렇기 때문에――」"
+
+[[dialogue]]
+speaker = "マハムート"
+original = "「そんな私に追いつこうと、凄まじい成長速度で強くなり続けているあなたの存在を、ずっと脅威に感じていた」"
+translation = "「그런 나를 따라잡으려고, 엄청난 성장 속도로 계속 강해지고 있는 너의 존재를, 줄곧 위협으로 느끼고 있었어」"
+
+[[dialogue]]
+speaker = "マハムート"
+original = "「私がここまで強くなれたのは、あなたに追いつかれまいと己のプライドにかけて、努力を続けてきたからなのよ」"
+translation = "「내가 여기까지 강해질 수 있었던 건, 너에게 따라잡히지 않으려고 자신의 자존심을 걸고, 노력을 계속해 왔기 때문이야」"
+
+[[dialogue]]
+speaker = "マハムート"
+original = "「要するに、何が言いたいかっていうと――」"
+translation = "「요컨대, 무슨 말을 하고 싶으냐 하면――」"
+
+[[dialogue]]
+speaker = "マハムート"
+original = "「このまま勝ち逃げなんて絶対にさせないから、畏怖をもって覚悟してなさいってことよ」"
+translation = "「이대로 이기고 도망치는 짓은 절대로 못 하게 할 테니, 외경심을 가지고 각오하고 있으라는 거야」"
+
+[[dialogue]]
+speaker = "ヒルディオーネ"
+original = "「……私はこれからも、あなたに何度も負け続けてしまうと思いますわ」"
+translation = "「……저는 앞으로도, 당신에게 몇 번이고 계속 져버릴 거라고 생각합니다요」"
+
+[[dialogue]]
+speaker = "マハムート"
+original = "「え？」"
+translation = "「에?」"
+
+[[dialogue]]
+speaker = "ヒルディオーネ"
+original = "「でも、今回のことで分かりましたの。何度負けたって、別に構わない」"
+translation = "「하지만, 이번 일로 알았습니다요. 몇 번을 져도, 별로 상관없습니다요」"
+
+[[dialogue]]
+speaker = "ヒルディオーネ"
+original = "「そのたびに、悔しさを抱えて、諦めずに立ち上がって。私はまた強くなってみせますの。勝てるまで、何度だって」"
+translation = "「그때마다, 분함을 안고, 포기하지 않고 일어서서. 저는 다시 강해져 보이겠습니다요. 이길 때까지, 몇 번이라도」"
+
+[[dialogue]]
+speaker = "ヒルディオーネ"
+original = "「それが私――千園寺ヒルディオーネなのですわ」"
+translation = "「그것이 저―― 치온지 힐디 오네입니다요」"
+
+[[dialogue]]
+speaker = "マハムート"
+original = "「……ふっ、生意気ね」"
+translation = "「……훗, 건방지네」"
+
+[[dialogue]]
+speaker = "マハムート"
+original = "「でも――それでこそ、妃竜院マハムートに勝ってみせたライバルよ」"
+translation = "「하지만―― 그래서야말로, 히류인 마하무트에게 이겨 보인 라이벌이지」"
+
+[[dialogue]]
+speaker = "ヒルディオーネ"
+original = "「ふふっ、当然ですわ♪」"
+translation = "「후훗, 당연합니다요♪」"
+
+[[dialogue]]
+speaker = "unk"
+original = "そうして、改めて２人は微笑み合うのだった――"
+translation = "그렇게, 다시 한번 두 사람은 서로 미소 짓는 것이었다――"
+
+[[dialogue]]
+speaker = "unk"
+original = "翌日。"
+translation = "다음 날."
+
+[[dialogue]]
+speaker = "unk"
+original = "流星学園の方では、朝からちょっとした騒ぎが起こっていた。"
+translation = "유성 학원 쪽에서는, 아침부터 작은 소동이 일어나고 있었다."
+
+[[dialogue]]
+speaker = "ヒルディオーネ（覚醒）"
+original = "「ふっ……！\u3000はっ……！」"
+translation = "「훗……! 핫……!」"
+
+[[dialogue]]
+speaker = "寮生Ａ"
+original = "「ど、どうして……」"
+translation = "「어, 어째서……」"
+
+[[dialogue]]
+speaker = "寮生Ｂ"
+original = "「お姉様がここに……？」"
+translation = "「언니님이 여기에……?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "汗だくになりながらミーティアフォームで槍の素振りを続けていたヒルディオーネが、やって来た後輩たちの存在に気づいて、視線を向ける。"
+translation = "땀투성이가 되면서 미티어 폼으로 창 휘두르기를 계속하고 있던 힐디 오네가, 다가온 후배들의 존재를 깨닫고, 시선을 돌린다."
+
+[[dialogue]]
+speaker = "ヒルディオーネ（覚醒）"
+original = "「ふぅ……あら、皆さんごきげんよう。あなた達も朝のトレーニングですの？」"
+translation = "「후우…… 어머, 여러분 안녕하신가요. 당신들도 아침 훈련입니까요?」"
+
+[[dialogue]]
+speaker = "フェニエル"
+original = "「お姉様、おはようございます」"
+translation = "「언니님, 안녕하세요」"
+
+[[dialogue]]
+speaker = "ヒルディオーネ（覚醒）"
+original = "「フニもおはようございますわ」"
+translation = "「후니도 안녕하신가요」"
+
+[[dialogue]]
+speaker = "フェニエル"
+original = "「今日は、一体どうされたんですか？\u3000朝から運動場にいらっしゃるなんて……」"
+translation = "「오늘은, 대체 어떻게 된 일인가요? 아침부터 운동장에 계시다니……」"
+
+[[dialogue]]
+speaker = "unk"
+original = "フェニエルも驚いていた。ヒルディオーネはこれまで、自身の努力している姿を見せるのは『エレガントではない』と、トレーニングも隠れて行うようにしていたからだ。"
+translation = "페니엘도 놀라고 있었다. 힐디 오네는 지금까지, 자신이 노력하는 모습을 보이는 것은 『우아하지 않다』며, 훈련도 숨어서 하도록 해왔기 때문이다."
+
+[[dialogue]]
+speaker = "ヒルディオーネ（覚醒）"
+original = "「ええ。そのことですが……私、わざわざ隠れて努力するのは、もうやめにしようと思いましたの」"
+translation = "「네. 그 말입니다만…… 저, 일부러 숨어서 노력하는 것은, 이제 그만두려고 생각했습니다요」"
+
+[[dialogue]]
+speaker = "フェニエル"
+original = "「えっ？」"
+translation = "「엣?」"
+
+[[dialogue]]
+speaker = "ヒルディオーネ（覚醒）"
+original = "「……私、これからは自分の努力を、ちゃんと誇れるようになりたいと思ったのですわ」"
+translation = "「……저, 이제부터는 자신의 노력을, 제대로 자랑스러워할 수 있게 되고 싶다고 생각했습니다요」"
+
+[[dialogue]]
+speaker = "ヒルディオーネ（覚醒）"
+original = "「今更みっともないでしょうけれど……それでも『努力』とは何なのか、先輩として、ちゃんとあなた達に背中を見せられるように」"
+translation = "「이제 와서 보기 흉하겠지만…… 그래도 『노력』이란 무엇인지, 선배로서, 제대로 당신들에게 등을 보일 수 있도록」"
+
+[[dialogue]]
+speaker = "フェニエル"
+original = "「――いいえ。お姉様、それは勘違いしていますよ」"
+translation = "「――아닙니다. 언니님, 그것은 착각하고 계세요」"
+
+[[dialogue]]
+speaker = "ヒルディオーネ（覚醒）"
+original = "「え？」"
+translation = "「에?」"
+
+[[dialogue]]
+speaker = "寮生Ａ"
+original = "「私たち、お姉様がみっともないなんて思ったこと、１度だってありませんわ！」"
+translation = "「저희, 언니님이 보기 흉하다고 생각한 적, 한 번도 없습니다요!」"
+
+[[dialogue]]
+speaker = "寮生Ｂ"
+original = "「ええ、そうですとも！\u3000だって――」"
+translation = "「네, 그렇고 말고요! 왜냐하면――」"
+
+[[dialogue]]
+speaker = "unk"
+original = "フェニエルと寮生たちは顔を見合わせて微笑むと、言った。"
+translation = "페니엘과 기숙사 학생들은 서로 얼굴을 마주 보고 미소 지으며, 말했다."
+
+[[dialogue]]
+speaker = "寮生Ａ"
+original = "「お姉様は今までも、これからも、私たち流星学園生徒の誇りですもの！」"
+translation = "「언니님은 지금까지도, 앞으로도, 저희 유성 학원 학생들의 자랑입니다요!」"
+
+[[dialogue]]
+speaker = "寮生Ｂ"
+original = "「お姉様はお姉様らしく、ご自身の信じる道を進み続けて下さい！」"
+translation = "「언니님은 언니님답게, 스스로 믿는 길을 계속 나아가 주세요!」"
+
+[[dialogue]]
+speaker = "フェニエル"
+original = "「その背中を、これからも私たちは追いかけて、応援し続けますっ！」"
+translation = "「그 뒷모습을, 앞으로도 저희는 쫓아가서, 계속 응원하겠습니다!」"
+
+[[dialogue]]
+speaker = "ヒルディオーネ（覚醒）"
+original = "「……！\u3000あなた達……」"
+translation = "「……! 당신들……」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ヒルディオーネは思わず、感情が込み上げてきて。"
+translation = "힐디 오네는 무심코, 감정이 북받쳐 올라."
+
+[[dialogue]]
+speaker = "寮生Ａ"
+original = "「えっ、お姉様！？」"
+translation = "「엣, 언니님!?」"
+
+[[dialogue]]
+speaker = "寮生Ｂ"
+original = "「泣いてらっしゃいますの！？」"
+translation = "「울고 계신 건가요!?」"
+
+[[dialogue]]
+speaker = "フェニエル"
+original = "「は、ハンカチを……！」"
+translation = "「하, 손수건을……!」"
+
+[[dialogue]]
+speaker = "ヒルディオーネ（覚醒）"
+original = "「っ……ありがとうございますわ……！」"
+translation = "「……고맙습니다요……!」"
+
+[[dialogue]]
+speaker = "ヒルディオーネ（覚醒）"
+original = "「私、素晴らしい後輩たちに恵まれて、すごく幸せ者ですの……！」"
+translation = "「저, 훌륭한 후배들을 만나서, 정말 행복한 사람입니다요……!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "寮生たちに背中を支えられ、ハンカチで涙を拭われながら、ヒルディオーネは心からの笑顔を浮かべるのだった――"
+translation = "기숙사 학생들에게 등을 지탱 받고, 손수건으로 눈물을 닦이면서, 힐디 오네는 진심에서 우러나오는 미소를 짓는 것이었다――"
+

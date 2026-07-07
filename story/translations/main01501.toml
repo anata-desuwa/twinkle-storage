@@ -1,0 +1,310 @@
+[[dialogue]]
+speaker = "unk"
+original = "第１話,天海の指揮者,B"
+translation = "제1화, 천해의 지휘자, B"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「みんなの力を……貸してください。この未曾有の危機を乗り越え──姉さんを取り戻すために！」"
+translation = "「모두의 힘을…… 빌려주세요. 이 미증유의 위기를 극복하고── 언니를 되찾기 위해서!」"
+
+[[dialogue]]
+speaker = "みんな"
+original = "「おー！」「はいっ！」「ええ！」"
+translation = "「오!」「네!」「예!」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「アポロは──お姉さんは遥か高みで観測されています。恐らくはもう雲の上……」"
+translation = "「아폴로는── 언니는 아득히 높은 곳에서 관측되고 있습니다. 아마도 이미 구름 위……」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「おっけ。ならブースト全開──みんな、アポロのいるてっぺんまでかっ飛ばすわよ！」"
+translation = "「오케이. 그럼 부스트 전개── 모두, 아폴로가 있는 꼭대기까지 날려버리자고!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "俺たちは全員で飛翔する。"
+translation = "우리는 전원이 비상한다."
+
+[[dialogue]]
+speaker = "unk"
+original = "襲い来るモンスターも、流れ星の雨すらも跳ね除けて……"
+translation = "습격해 오는 몬스터도, 별똥별의 비조차도 튕겨내며……"
+
+[[dialogue]]
+speaker = "unk"
+original = "そして──雲海すら超える高空に達し、ようやく辿り着いた。"
+translation = "그리고── 운해마저 넘는 높은 하늘에 도달하여, 겨우 도착했다."
+
+[[dialogue]]
+speaker = "unk"
+original = "彼女は静かに浮かんでいた。人間界を見下ろし、成り行きを示す指揮者のように。"
+translation = "그녀는 조용히 떠 있었다. 인간계를 내려다보며, 사태의 추이를 지시하는 지휘자처럼."
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「ようやく……あなたと向き合う覚悟ができました。姉さん」"
+translation = "「드디어…… 당신과 마주할 각오가 섰습니다. 언니」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「……」"
+translation = "「……」"
+
+[[dialogue]]
+speaker = "unk"
+original = "星見の名を冠した２人の姉妹が向かい合う。だが……"
+translation = "호시미의 이름을 짊어진 두 자매가 마주 본다. 하지만……"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「──誰だ、オマエは」"
+translation = "「──누구냐, 너는」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「……え……？」"
+translation = "「……에……?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "こちらを振り向いたアポロの<ruby>貌<rt>かんばせ</rt></ruby>には──いつかの仮面が、元通りの姿で貼りついていた。"
+translation = "이쪽을 돌아본 아폴로의 얼굴에는── 예전의 가면이, 원래 모습 그대로 달라붙어 있었다."
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「っ、待って──仮面が……！」"
+translation = "「윽, 잠깐── 가면이……!」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「戻ってる──？」"
+translation = "「돌아왔다고──?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "あれは以前、フィオナの手によって砕かれたはず。"
+translation = "저것은 이전에, 피오나의 손에 의해 부서졌을 터."
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「姉さん──また忘れてしまったのですか。私です……エリシアです。本当のあなたを取り戻すために、ここまで来ました」"
+translation = "「언니── 또 잊어버리신 건가요. 저예요…… 엘리시아예요. 진정한 언니를 되찾기 위해, 여기까지 왔어요」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「姉だと……？\u3000あたしはオマエのような人間を知らない」"
+translation = "「언니라고……? 나는 너 같은 인간은 모른다」"
+
+[[dialogue]]
+speaker = "unk"
+original = "騙っているようには見えない。どうやら本気で、<ruby>妹<rt>エリシア</rt></ruby>のことを認識できなくなっているようだ。"
+translation = "속이는 것처럼 보이지 않는다. 아무래도 진심으로, <ruby>동생<rt>엘리시아</rt></ruby>을 인식하지 못하게 된 것 같다."
+
+[[dialogue]]
+speaker = "セーラ"
+original = "「もしかしなくても、<ruby>仮面<rt>アレ</rt></ruby>のせいかなー」"
+translation = "「혹시나 해서 말인데, 저것 때문일까나ー」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「ええ……以前のアポロも、仮面を割られることで初めてフィオナのことを認識していました」"
+translation = "「네…… 이전의 아폴로도, 가면이 깨지고 나서야 비로소 피오나를 인식했습니다」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「デネブに拐われたマルキアさんと同じ。あれが使徒を使徒たらしめている元凶でしょう」"
+translation = "「데네브에 납치된 마르키아 씨와 같아요. 저것이 사도를 사도답게 만드는 원흉이겠지요」"
+
+[[dialogue]]
+speaker = "unk"
+original = "セイファート学園長の奥さんもまた、同じく仮面に操られて自我を封じられていた。"
+translation = "세이퍼트 학원장의 부인 역시, 마찬가지로 가면에게 조종당하며 자아가 봉인되어 있었다."
+
+[[dialogue]]
+speaker = "unk"
+original = "それでも、アポロに関しちゃ一度は正気を取り戻しかけたはずなのに。"
+translation = "그런데도, 아폴로에 관해서는 한 번은 제정신을 되찾을 뻔했는데."
+
+[[dialogue]]
+speaker = "クロト"
+original = "「アポロ──俺たちは、本当の君を知っている」"
+translation = "「아폴로── 우리는, 너의 진짜 모습을 알고 있다」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「目を覚ましてくれ。共にリクリエに抗うんだ。そうすれば、きっと、君の妹──エリシアと一緒に暮らせる日も来るはずだから」"
+translation = "「눈을 떠 줘. 함께 리크리에에 맞서는 거야. 그렇게 하면, 분명, 너의 동생── 엘리시아와 함께 살 수 있는 날도 올 테니까」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「魔王か……寝言を抜かすようになったな」"
+translation = "「마왕인가…… 잠꼬대를 하는군」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「あたしはひーろー。おまえは魔王。あたし達が出会ったなら戦うだけ、違うか？」"
+translation = "「나는 히어로. 너는 마왕. 우리가 만났다면 싸울 뿐, 다른가?」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「違う。俺たちは星騎士──リクリエっていう厄災に立ち向かうだけの存在だ。戦うべき相手は、君じゃない」"
+translation = "「다르다. 우리는 성기사── 리크리에라는 재앙에 맞설 뿐인 존재다. 싸워야 할 상대는, 네가 아니야」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「はい。それに本当の姉さんは、誰よりも世界の救済を願っていたのですから」"
+translation = "「네. 게다가 진정한 언니는, 누구보다도 세계의 구원을 바랐으니까요」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「たとえ忘れてしまったとしても……何度だって思い出させてあげるだけです」"
+translation = "「설령 잊어버렸다고 해도…… 몇 번이고 다시 생각나게 해 줄 뿐입니다」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「かけがえのない仲間の手も借りて──私は本心に気づきました。だから姉さん、あなたにも……！」"
+translation = "「둘도 없는 동료들의 도움도 빌려── 저는 진심을 깨달았습니다. 그러니 언니, 당신에게도……!」"
+
+[[dialogue]]
+speaker = "セーラ"
+original = "「……！\u3000フィオナちゃんの、魔王の力……」"
+translation = "「……! 피오나짱의, 마왕의 힘……」"
+
+[[dialogue]]
+speaker = "unk"
+original = "フィオナの全身から熾烈な覇気が<ruby>迸<rt>ほとばし</rt></ruby>る。"
+translation = "피오나의 전신에서 맹렬한 패기가 터져 나온다."
+
+[[dialogue]]
+speaker = "unk"
+original = "かつてアポロと邂逅した際とは比べ物にならない、魔力と霊力の発露──"
+translation = "예전에 아폴로와 해후했을 때와는 비교도 안 될 정도의, 마력과 영력의 발로──"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「……なるほど。よくわからんが……目障りなのは確かだ」"
+translation = "「……과연. 잘 모르겠지만…… 눈엣가시인 것은 확실하다」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「魔王と同じ波動を感じる。つまり、<ruby>アポロ<rt>あたし</rt></ruby>の敵だ」"
+translation = "「마왕과 같은 파동을 느낀다. 즉, 나의 적이다」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「──っ……！？」"
+translation = "「──윽……!?」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「リクリエは成る。たとえ、<ruby>魔王<rt>てき</rt></ruby>が２人に増えようと、あたしのやることは変わらない」"
+translation = "「리크리에는 이루어진다. 설령, 적이 두 명으로 늘어난다 해도, 내가 할 일은 변하지 않아」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「あたしは流星ライダー・アポロ……どんな悪党もぶっ倒す、正義のヒーローなんだ……！」"
+translation = "「나는 유성 라이더 아폴로…… 어떤 악당도 때려눕히는, 정의의 히어로다……!」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「いいえ──あなたは星見の本当の長女、フィオナ。いつも一緒に遊んでくれた、私の自慢の姉さんです──！」"
+translation = "「아뇨── 당신은 별을 보는 진정한 장녀, 피오나. 언제나 함께 놀아주었던, 저의 자랑스러운 언니예요──!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "仮面の発する妖力は以前よりも凄まじく、そして、邪悪。"
+translation = "가면이 발하는 요력은 이전보다 엄청나고, 그리고, 사악하다."
+
+[[dialogue]]
+speaker = "unk"
+original = "その覇気はやがて、アポロの担ぐ大剣へと練りこまれてゆき──"
+translation = "그 패기는 이윽고, 아폴로가 짊어진 대검으로 연마되어 가고──"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「来い」"
+translation = "「와라」"
+
+[[dialogue]]
+speaker = "ユウリ"
+original = "「んなっ──」"
+translation = "「뭐야──」"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「ア──アステラが出ましたっ！？」"
+translation = "「아── 아스테라가 나왔어요!?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "アポロが大剣を振るった──それだけで、大量のモンスターがひしめく<ruby>巣窟<rt>アステラ</rt></ruby>が生成される。"
+translation = "아폴로가 대검을 휘둘렀다── 그것만으로, 대량의 몬스터가 밀집한 <ruby>소굴<rt>아스테라</rt></ruby>가 생성된다."
+
+[[dialogue]]
+speaker = "unk"
+original = "さらに──"
+translation = "게다가──"
+
+[[dialogue]]
+speaker = "モンスター"
+original = "「ジュクジュク……ウジウジ……ジュク……ジュク…………」"
+translation = "「질퍽질퍽…… 꾸물꾸물…… 질퍽…… 질퍽…………」"
+
+[[dialogue]]
+speaker = "モンスター"
+original = "「ベトォ……ズズ……ズ……ザザ……ゲヘヘ…………」"
+translation = "「끈적…… 스윽…… 스윽…… 쏴아…… 게헤헤…………」"
+
+[[dialogue]]
+speaker = "unk"
+original = "アステラの外縁がぼろぼろと崩れ去るや、その場に足場を形成して中から生まれ落ちた異形たちを支えていた。"
+translation = "아스테라의 외곽이 너덜너덜하게 무너지자, 그 자리에 발판을 형성하여 안에서 태어난 이형들을 지탱하고 있었다."
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「やれ。魔王も、その配下も──まとめてゴミクズにしてしまえ」"
+translation = "「해치워라. 마왕도, 그 부하들도── 모조리 쓰레기로 만들어 버려」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「前は精々、モンスターを率いるくらいじゃなかった──？」"
+translation = "「전에는 기껏해야, 몬스터를 이끄는 정도 아니었어──?」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「格段に出力が跳ね上がっていますね。本体も含め……！」"
+translation = "「확실히 출력이 훨씬 높아졌습니다. 본체를 포함해서……!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "アステラは通常、星騎士たちがチームを組んで撃破にあたる。"
+translation = "아스테라는 통상, 성기사들이 팀을 이루어 격파에 나선다."
+
+[[dialogue]]
+speaker = "unk"
+original = "それだけの災禍を自在に生成されてしまっては、もはや戦いを長引かせるだけで大きな不利だ。"
+translation = "그 정도의 재앙이 자유자재로 생성되어 버린다면, 이제 싸움을 길게 끄는 것만으로도 큰 불리함이다."
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「ヒーローはいつだってひとりなんだ。オマエたちみたいな、よってたかっていじめる悪党どもとは違う！」"
+translation = "「히어로는 언제나 혼자다. 너희들처럼, 떼 지어 괴롭히는 악당들과는 달라!」"
+
+[[dialogue]]
+speaker = "ユウリ"
+original = "「よく言う──そのモンスターどもはなんなんだっての」"
+translation = "「잘도 말한다── 그 몬스터들은 뭔데」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「もう一度アポロの仮面を砕く。正気さえ取り戻してくれれば、俺たちは戦わなくてもいいはずだ」"
+translation = "「다시 한번 아폴로의 가면을 부순다. 제정신만 되찾아 준다면, 우리는 싸우지 않아도 될 터다」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「決して諦めません──私の刃を、姉さんの心に届かせるまで！」"
+translation = "「결코 포기하지 않겠습니다── 저의 칼날을, 언니의 마음에 닿게 할 때까지!」"
+

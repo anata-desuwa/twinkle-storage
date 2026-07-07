@@ -1,0 +1,390 @@
+[[dialogue]]
+speaker = "リーリア"
+original = "「…………」"
+translation = "「…………」"
+
+[[dialogue]]
+speaker = "unk"
+original = "あの……誰から？"
+translation = "저기…… 누구한테서?"
+
+[[dialogue]]
+speaker = "リーリア"
+original = "「セドナ長官」"
+translation = "「세드나 장관님.」"
+
+[[dialogue]]
+speaker = "リーリア"
+original = "「…………ほんっとにあのヒトは、どーしてこんなに間が悪いかなあ！」"
+translation = "「…………정말로 저 사람은 어째서 이렇게 타이밍이 안 좋을까요!」"
+
+[[dialogue]]
+speaker = "リーリア"
+original = "「せっかくいい雰囲気だったのに、全部台無しなんですけどぉ！？」"
+translation = "「모처럼 좋은 분위기였는데 전부 망쳐버렸잖아요!?」"
+
+[[dialogue]]
+speaker = "リーリア"
+original = "「うーん、このまま無視しちゃう……というわけにはいきませんよね……？\u3000はぁ……」"
+translation = "「으음, 이대로 무시해 버린다……는 건 안 되겠죠……? 하아……」"
+
+[[dialogue]]
+speaker = "リーリア"
+original = "「はい、長官、何でしょう？\u3000え……今からですか？\u3000大丈夫ですけど……」"
+translation = "「네, 장관님, 무슨 일이세요? 에…… 지금부터요? 상관없긴 한데……」"
+
+[[dialogue]]
+speaker = "リーリア"
+original = "「……分かりました、私も外にいるので、これから向かいます」"
+translation = "「……알겠습니다, 저도 밖에 있으니까 지금 갈게요.」"
+
+[[dialogue]]
+speaker = "リーリア"
+original = "「はぁ……何だかよく分からないけど、呼び出されちゃったのでちょっと行ってきます」"
+translation = "「하아…… 왠지 잘 모르겠지만 호출당했으니 좀 다녀올게요.」"
+
+[[dialogue]]
+speaker = "セドナ"
+original = "「来たか」"
+translation = "「왔나.」"
+
+[[dialogue]]
+speaker = "リーリア"
+original = "「はい、来ましたけど……急にどういったお話です？」"
+translation = "「네, 왔는데요…… 갑자기 무슨 이야기예요?」"
+
+[[dialogue]]
+speaker = "セドナ"
+original = "「ん……どうした？\u3000あまり機嫌がよくないようだが……」"
+translation = "「음…… 왜 그러지? 별로 기분이 좋지 않아 보인다만……」"
+
+[[dialogue]]
+speaker = "リーリア"
+original = "「そんなことはありませんよ。ぜ～んぜんっ！」"
+translation = "「전혀 그렇지 않아요. 저~언혀요!」"
+
+[[dialogue]]
+speaker = "セドナ"
+original = "「そうか……まあいいだろう。そこに座って楽にしろ」"
+translation = "「그런가…… 뭐 좋다. 거기 앉아서 편히 해라.」"
+
+[[dialogue]]
+speaker = "リーリア"
+original = "「はい、分かりました……」"
+translation = "「네, 알겠어요……」"
+
+[[dialogue]]
+speaker = "セドナ"
+original = "「ん……」"
+translation = "「음……」"
+
+[[dialogue]]
+speaker = "リーリア"
+original = "「…………」"
+translation = "「…………」"
+
+[[dialogue]]
+speaker = "セドナ"
+original = "「…………」"
+translation = "「…………」"
+
+[[dialogue]]
+speaker = "リーリア"
+original = "「あの……長官？\u3000それでお話というのは？」"
+translation = "「저기…… 장관님? 그래서 하실 말씀이란 건요?」"
+
+[[dialogue]]
+speaker = "セドナ"
+original = "「……お前は、私のことをどう思う？」"
+translation = "「……너는 나를 어떻게 생각하나?」"
+
+[[dialogue]]
+speaker = "リーリア"
+original = "「え？\u3000……はぁ、いや、どうって……ええと……私の上司？」"
+translation = "「예? ……하아, 아니, 어떻게라니…… 그게…… 제 상사?」"
+
+[[dialogue]]
+speaker = "セドナ"
+original = "「そういうことではなくてだな……」"
+translation = "「그런 뜻이 아니다만……」"
+
+[[dialogue]]
+speaker = "リーリア"
+original = "「どうしたんですか？\u3000珍しく歯切れが悪いみたいですけど」"
+translation = "「왜 그러세요? 드물게 말이 막히시는 것 같은데.」"
+
+[[dialogue]]
+speaker = "セドナ"
+original = "「ん……そうだな……」"
+translation = "「음…… 그렇군……」"
+
+[[dialogue]]
+speaker = "セドナ"
+original = "「今日一日、新星星徒会の皆に対するお前の接し方を見ていて、感じたことなのだが……」"
+translation = "「오늘 하루 신성학생회 사람들을 대하는 네 태도를 보고 느낀 것이다만……」"
+
+[[dialogue]]
+speaker = "リーリア"
+original = "「は、はい……」"
+translation = "「네, 네……」"
+
+[[dialogue]]
+speaker = "セドナ"
+original = "「どうにも私とお前は相容れぬ存在であるようだ」"
+translation = "「아무래도 나와 너는 용납할 수 없는 존재인 것 같구나.」"
+
+[[dialogue]]
+speaker = "リーリア"
+original = "「……え？」"
+translation = "「……예?」"
+
+[[dialogue]]
+speaker = "セドナ"
+original = "「私は私の考えに信念を持っている。それはきっとお前もそうだろう。このままでは決して交わらぬふたつの線……」"
+translation = "「나는 내 생각에 신념을 가지고 있다. 그건 분명 너도 그렇겠지. 이대로는 결코 만나지 못할 두 선……」"
+
+[[dialogue]]
+speaker = "リーリア"
+original = "「あ、あの……それで一体、何が言いたいんでしょう……？」"
+translation = "「저, 저기…… 그래서 대체 무슨 말씀을 하고 싶으신 건가요……?」"
+
+[[dialogue]]
+speaker = "セドナ"
+original = "「私はそれを何とかしたい。我々の間にあるわだかまりを何とか取り払いたいのだ」"
+translation = "「나는 그것을 어떻게든 하고 싶다. 우리 사이에 있는 앙금을 어떻게든 걷어내고 싶다.」"
+
+[[dialogue]]
+speaker = "セドナ"
+original = "「だから、そのために……その…………なんだ……」"
+translation = "「그러니까 그러기 위해…… 그………… 뭐냐……」"
+
+[[dialogue]]
+speaker = "リーリア"
+original = "「……？」"
+translation = "「……?」"
+
+[[dialogue]]
+speaker = "セドナ"
+original = "「『お話』をしようっ！！」"
+translation = "「『대화』를 하자!!」"
+
+[[dialogue]]
+speaker = "リーリア"
+original = "「……………………」"
+translation = "「……………………」"
+
+[[dialogue]]
+speaker = "セドナ"
+original = "「お前の考えを受け入れることは出来ないが、理解することは出来る！」"
+translation = "「네 생각을 받아들일 수는 없지만 이해할 수는 있다!」"
+
+[[dialogue]]
+speaker = "セドナ"
+original = "「だからお前も……私の考えに準じて欲しいとは望まない。ただ、聞いて、知って、理解を示して欲しい！」"
+translation = "「그러니 너도…… 내 생각을 따르길 바라지 않는다. 그저 듣고, 알고, 이해해 주었으면 한다!」"
+
+[[dialogue]]
+speaker = "セドナ"
+original = "「そのためには対話だ。だからリーリア、もっと私と――」"
+translation = "「그러기 위해서는 대화다. 그러니 리리아, 좀 더 나와――」"
+
+[[dialogue]]
+speaker = "リーリア"
+original = "「あの……」"
+translation = "「저기요……」"
+
+[[dialogue]]
+speaker = "セドナ"
+original = "「ん、何だ？」"
+translation = "「음, 뭐지?」"
+
+[[dialogue]]
+speaker = "リーリア"
+original = "「まさかそんな事のために、私のこと呼び出したんですか？」"
+translation = "「설마 그런 것 때문에 저를 호출하신 건가요?」"
+
+[[dialogue]]
+speaker = "セドナ"
+original = "「『そんな事』ではない……！\u3000これは私たちにとって大事なことで、ひいては組織にとっても――！」"
+translation = "「『그런 것』이 아니다……! 이건 우리에게 중요한 일이고, 나아가서는 조직에게 있어서도――!」"
+
+[[dialogue]]
+speaker = "リーリア"
+original = "「あ～～！\u3000もう、そうじゃなくて！\u3000も～～～～、あったまきた！！」"
+translation = "「아~~! 정말, 그게 아니라! 정말이지~~~~, 열받아!!」"
+
+[[dialogue]]
+speaker = "リーリア"
+original = "「長官がクソ真面目なヒトで、ちゃんと色々考えてて、みんなのために最良の選択を取ろうとして――」"
+translation = "「장관님이 엄청나게 성실한 사람이고, 제대로 이것저것 생각하고 있고, 모두를 위해 최선의 선택을 하려 하고――」"
+
+[[dialogue]]
+speaker = "リーリア"
+original = "「そういうのいちいち説明してくれなくても、全部わかってますってば！！」"
+translation = "「그런 거 일일이 설명 안 해줘도 다 알고 있다니까요!!」"
+
+[[dialogue]]
+speaker = "セドナ"
+original = "「そ、そうか……」"
+translation = "「그, 그런가……」"
+
+[[dialogue]]
+speaker = "リーリア"
+original = "「あと楽しむのが下手で、空気読めなくて、でも全然悪気はなくて！」"
+translation = "「거기에 노는 것도 못하고, 눈치도 없고, 하지만 전혀 악의는 없고!」"
+
+[[dialogue]]
+speaker = "リーリア"
+original = "「だからこそタチが悪いんです！\u3000そうじゃなかったらもっと事は簡単なんです！」"
+translation = "「그래서 더 골치 아픈 거예요! 그렇지 않았으면 일이 훨씬 간단했을 거라구요!」"
+
+[[dialogue]]
+speaker = "リーリア"
+original = "「もう無理に打ち解けようとか、反省しようとかしなくていいです！\u3000そんなの無駄なだけですから！」"
+translation = "「이제 억지로 친해지려거나 반성하려거나 하지 않아도 돼요! 그런 건 헛수고일 뿐이니까요!」"
+
+[[dialogue]]
+speaker = "セドナ"
+original = "（んん？\u3000思った以上にひどい言われようではないか？）"
+translation = "（음음? 생각했던 것보다 심한 말을 듣고 있지 않나?）"
+
+[[dialogue]]
+speaker = "リーリア"
+original = "「っていうか、どうしてそんな破滅的に間が悪いんですかっ！？」"
+translation = "「그보다 어째서 그렇게 파멸적으로 타이밍이 안 좋은 건가요!?」"
+
+[[dialogue]]
+speaker = "リーリア"
+original = "「いいところだったのに！\u3000めっっっちゃいいところだったのに！」"
+translation = "「좋은 분위기였는데! 어어어엄청 좋은 분위기였는데!」"
+
+[[dialogue]]
+speaker = "リーリア"
+original = "「そりゃ途中でちょっとヒヨって、『今の関係を維持できればそれで満足かも』なんて考えたりもしましたけど！」"
+translation = "「그야 도중에 조금 겁이 나서 『지금 관계를 유지할 수 있으면 그걸로 만족할지도』라거나 생각하긴 했지만요!」"
+
+[[dialogue]]
+speaker = "リーリア"
+original = "「それでもですね！\u3000あそこまで雰囲気出来ちゃったら、最後まで行きたいじゃないですか！！」"
+translation = "「그래도요! 저 정도까지 분위기가 잡혔으면 끝까지 가고 싶잖아요!!」"
+
+[[dialogue]]
+speaker = "セドナ"
+original = "「リーリア、お前が何に怒っているのか分からなくなってきたのだが？\u3000きちんと全て順を追って説明しろ」"
+translation = "「리리아, 네가 무엇에 화를 내고 있는 건지 알 수 없게 되었다만? 제대로 처음부터 차근차근 설명해라.」"
+
+[[dialogue]]
+speaker = "リーリア"
+original = "「せ、説明～～～！？\u3000説明なんて出来るわけないじゃないですか！\u3000ヴァカなんじゃないですか！？」"
+translation = "「설, 설명~~~!? 설명을 할 수 있을 리가 없잖아요! 바보 아니세요!?」"
+
+[[dialogue]]
+speaker = "セドナ"
+original = "「稚拙な罵倒語だな。それでは何も分からないし何も始まらないだろう！」"
+translation = "「치졸한 매도어로군. 그래선 아무것도 알 수 없고 아무것도 시작되지 않을 거다!」"
+
+[[dialogue]]
+speaker = "リーリア"
+original = "「始まらなくていいんです！\u3000理解し合わなくたっていいんですよ！」"
+translation = "「안 시작해도 돼요! 서로 이해 안 해도 된다구요!」"
+
+[[dialogue]]
+speaker = "リーリア"
+original = "「勝手に怒ってるだけなんですから、私のことはもう放っておいてください！」"
+translation = "「멋대로 화내는 것뿐이니까 저 같은 건 이제 내버려 두세요!」"
+
+[[dialogue]]
+speaker = "セドナ"
+original = "「放っておけるか！\u3000お前は私の部下なのだぞ！」"
+translation = "「내버려 둘 수 있겠나! 너는 내 부하란 말이다!」"
+
+[[dialogue]]
+speaker = "リーリア"
+original = "「そういうのは余計なおせっかいって言うんです！」"
+translation = "「그런 걸 쓸데없는 참견이라고 하는 거예요!」"
+
+[[dialogue]]
+speaker = "セドナ"
+original = "「む、む……先ほどから訳の分からないことを言いたい放題……流石の私も堪忍袋の緒が切れるぞ……？」"
+translation = "「음, 음…… 아까부터 영문 모를 소리를 마음껏…… 나라도 참는 데 한계가 있다고……?」"
+
+[[dialogue]]
+speaker = "リーリア"
+original = "「なんです！？\u3000やりますか？\u3000いいですよ？\u3000やったろうじゃありませんか！？」"
+translation = "「뭐예요!? 하실래요? 좋아요? 한번 해보자 이거죠!?」"
+
+[[dialogue]]
+speaker = "セドナ"
+original = "「いい覚悟だ……全力でかかってこい！！！」"
+translation = "「좋은 각오다…… 전력으로 덤벼라!!!」"
+
+[[dialogue]]
+speaker = "リノ"
+original = "「あらあら、大変なことになっちゃったかも？」"
+translation = "「어머어머, 큰일이 나버렸을지도?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "セドナさんに何か吹き込んだ？"
+translation = "세드나 씨한테 바람 넣었어?"
+
+[[dialogue]]
+speaker = "unk"
+original = "もしかしてかあさん……"
+translation = "설마 엄마가……"
+
+[[dialogue]]
+speaker = "リノ"
+original = "「吹き込んだなんて人聞きが悪いわ。お友達の背中をかるーく押してあげただけじゃない♪」"
+translation = "「바람을 넣었다니 듣기 안 좋네. 친구의 등을 살짝 밀어줬을 뿐인걸♪」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「あれ、止めなくて大丈夫でしょうか？」"
+translation = "「저거, 안 말려도 괜찮을까요?」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「へーきへーき！\u3000拳と拳をぶつけ合って理解し合う。まさに青春って感じじゃない？」"
+translation = "「괜찮아 괜찮아! 주먹과 주먹을 맞대며 서로를 이해한다. 그야말로 청춘이라는 느낌 아니니?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "もしかしてずっと見てた……？"
+translation = "혹시 계속 보고 있었어……?"
+
+[[dialogue]]
+speaker = "unk"
+original = "うわっ、みんな！？"
+translation = "우왓, 다들!?"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「ええ、実は最初の方からずーっと見てたのよ～」"
+translation = "「네, 사실 처음부터 주욱 보고 있었어~」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「魔力式の水着フォーム同士の対決……これは目が離せません」"
+translation = "「마력식 수영복 폼끼리의 대결…… 이건 눈을 뗄 수 없습니다.」"
+
+[[dialogue]]
+speaker = "アイリーン"
+original = "「雨降って地固まればいいんだけどね～」"
+translation = "「비 온 뒤에 땅이 굳어지면 좋겠네~」"
+
+[[dialogue]]
+speaker = "リーリア"
+original = "「勝負です！\u3000うわぉあああああああああ！！！」"
+translation = "「승부예요! 우와아아아아아아아아!!!」"
+
+[[dialogue]]
+speaker = "セドナ"
+original = "「勝負だ！\u3000うぉおおおおおおおっ！！！！」"
+translation = "「승부다! 우오오오오오오오!!!!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "リーリアとセドナさんの魔法のぶつかり合う音が、戦いの始まりを告げるゴングのように鳴り響いた。"
+translation = "리리아와 세드나 씨의 마법이 부딪치는 소리가 싸움의 시작을 알리는 공처럼 울려 퍼졌다."
+

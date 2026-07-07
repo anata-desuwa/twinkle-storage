@@ -1,0 +1,415 @@
+[[dialogue]]
+speaker = "ウズメイア"
+original = "「ん……？」"
+translation = "「응……?」"
+
+[[dialogue]]
+speaker = "せつな"
+original = "「ウズメ殿、どうかしたでござるか？」"
+translation = "「우즈메 공, 무슨 일이라도 있소?」"
+
+[[dialogue]]
+speaker = "ウズメイア"
+original = "「えっと……なんていうのかな～、嫌な予感がしたっていうか……」"
+translation = "「에또…… 뭐라 해야 할까~ 안 좋은 예감이 들었다고나 할까……」"
+
+[[dialogue]]
+speaker = "せつな"
+original = "「何事でござるかっ！？」"
+translation = "「무슨 일이오!?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "アステラだ！！"
+translation = "아스텔라다!!"
+
+[[dialogue]]
+speaker = "ヨミ"
+original = "「緊急事態です！\u3000紫桜の里にアステラが発生！\u3000星騎士に至急出動を要請します！」"
+translation = "「긴급사태입니다! 자앵마을에 아스텔라가 발생! 성기사에게 시급히 출동을 요청합니다!」"
+
+[[dialogue]]
+speaker = "ヨミ"
+original = "「って、ここには私たち以外、星騎士はいないんでした！」"
+translation = "「앗, 여기엔 저희 말고는 성기사가 없었죠!」"
+
+[[dialogue]]
+speaker = "ウズメイア"
+original = "「なんで急にアステラが来るわけ！？\u3000そんなの聞いてないし～！」"
+translation = "「왜 갑자기 아스텔라가 오는 건데!? 그런 말 못 들었다구~!」"
+
+[[dialogue]]
+speaker = "ヨミ"
+original = "「文句は後で。ウズメさんもよろしくお願いします！」"
+translation = "「불평은 나중에. 우즈메 씨도 부탁드려요!」"
+
+[[dialogue]]
+speaker = "ウズメイア"
+original = "「わかってるっしょ～！」"
+translation = "「알고 있다구~!」"
+
+[[dialogue]]
+speaker = "ヨミ"
+original = "「会長とせつなさんも急いで下さい！」"
+translation = "「회장과 세츠나 씨도 서둘러 주세요!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "すぐに対処しよう！"
+translation = "바로 대처하자!"
+
+[[dialogue]]
+speaker = "unk"
+original = "了解！"
+translation = "알았어!"
+
+[[dialogue]]
+speaker = "せつな"
+original = "「わ、わかったでござる！」"
+translation = "「아, 알겠소!」"
+
+[[dialogue]]
+speaker = "せつな"
+original = "「星騎士として培ってきた実力、今こそ見せる時でござるよっ！」"
+translation = "「성기사로서 쌓아온 실력, 지금이야말로 보여줄 때이오!」"
+
+[[dialogue]]
+speaker = "シズル"
+original = "「……この気配は……もしかして」"
+translation = "「……이 기척은…… 설마」"
+
+[[dialogue]]
+speaker = "せつな"
+original = "「紫電旋風っ！」"
+translation = "「자전선풍!」"
+
+[[dialogue]]
+speaker = "さつき"
+original = "「すごい、せつな……里に居た頃とは比べ物にならないくらい力をつけてる」"
+translation = "「대단해, 세츠나…… 마을에 있을 때와는 비교도 안 될 정도로 힘을 길렀어」"
+
+[[dialogue]]
+speaker = "ちとせ"
+original = "「私たちも負けてられないよ。はああっ！！！」"
+translation = "「우리도 질 수 없지. 하아앗!!!」"
+
+[[dialogue]]
+speaker = "せつな"
+original = "「２人も見違えるほど腕を上げたでござる！」"
+translation = "「두 사람도 몰라보게 실력이 늘었소!」"
+
+[[dialogue]]
+speaker = "ちとせ"
+original = "「当然だよ！\u3000もう二度とあんな惨劇は起こさせたりしないんだから！」"
+translation = "「당연하지! 이제 두 번 다시 그런 참극은 일어나게 두지 않을 거니까!」"
+
+[[dialogue]]
+speaker = "ヨミ"
+original = "「ちとせさんもさつきさんも凄いです！」"
+translation = "「치토세 씨랑 사츠키 씨도 대단해요!」"
+
+[[dialogue]]
+speaker = "ウズメイア"
+original = "「さすが本場の忍者！\u3000あたしたちも負けてられないね！」"
+translation = "「과연 본고장의 닌자! 우리도 질 수 없지!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "星騎士と紫桜の里の忍者の連合軍は、アステラから湧き出てくるモンスターを次々倒していく。"
+translation = "성기사와 자앵마을 닌자의 연합군은, 아스텔라에서 솟아 나오는 몬스터를 차례차례 쓰러뜨려 간다."
+
+[[dialogue]]
+speaker = "せつな"
+original = "「もう一息でござる！\u3000このまま一気にアステラを制圧するでござるよ！」"
+translation = "「이제 한숨 돌릴 수 있겠소! 이대로 단숨에 아스텔라를 제압하는 것이오!」"
+
+[[dialogue]]
+speaker = "ヨミ"
+original = "「っ……待ってください、せつなさん！\u3000嫌な気配が……アステラの内側から膨らんでいます……！！」"
+translation = "「윽…… 잠시만요, 세츠나 씨! 불길한 기운이…… 아스텔라 안쪽에서 부풀어 오르고 있어요……!!」"
+
+[[dialogue]]
+speaker = "せつな"
+original = "「むむ、新手でござるか？\u3000どんな敵が相手でもせつなが倒して──」"
+translation = "「무무, 지원군이오? 어떤 적이 상대라도 세츠나가 쓰러뜨려──」"
+
+[[dialogue]]
+speaker = "せつな"
+original = "「っ……！？」"
+translation = "「윽……!?」"
+
+[[dialogue]]
+speaker = "さつき"
+original = "「あ……あのモンスターは……」"
+translation = "「저…… 저 몬스터는……」"
+
+[[dialogue]]
+speaker = "ちとせ"
+original = "「里を滅ぼしかけた……あのモンスター……」"
+translation = "「마을을 멸망시킬 뻔했던…… 그 몬스터……」"
+
+[[dialogue]]
+speaker = "せつな"
+original = "「ぁ……ぅ……」"
+translation = "「아…… 우……」"
+
+[[dialogue]]
+speaker = "ウズメイア"
+original = "「ござるちゃん？\u3000それに他の忍者ちゃんたちも急にどしたの？\u3000ピタッて動きが止まっちゃって……？」"
+translation = "「고자루짱? 그리고 다른 닌자짱들도 갑자기 왜 그래? 피탁 하고 움직임이 멈춰버렸는데……?」"
+
+[[dialogue]]
+speaker = "せつな"
+original = "「間違いないでござる……あのモンスターは忘れもしない……」"
+translation = "「틀림없소…… 저 몬스터는 잊을 수도 없소……」"
+
+[[dialogue]]
+speaker = "せつな"
+original = "「あの日、紫桜の里に突然現れて……村を滅茶苦茶に壊していった、あのモンスターでござる……」"
+translation = "「그날, 자앵마을에 갑자기 나타나서…… 마을을 엉망진창으로 파괴했던, 저 몬스터이오……」"
+
+[[dialogue]]
+speaker = "ヨミ"
+original = "「ええっ！？」"
+translation = "「에엣!?」"
+
+[[dialogue]]
+speaker = "ケルウス"
+original = "「ケェエーーーーーーーッ！！！！」"
+translation = "「케에에에에에에엣!!!!」"
+
+[[dialogue]]
+speaker = "さつき"
+original = "「ひっ……！？」"
+translation = "「히익……!?」"
+
+[[dialogue]]
+speaker = "ちとせ"
+original = "「い……や……」"
+translation = "「시…… 렁……」"
+
+[[dialogue]]
+speaker = "unk"
+original = "２人とも、危ない！！！"
+translation = "두 사람 다, 위험해!!!"
+
+[[dialogue]]
+speaker = "ウズメイア"
+original = "「ナイス、会長くんっ！」"
+translation = "「나이스, 회장군!」"
+
+[[dialogue]]
+speaker = "ヨミ"
+original = "「せつなさん！\u3000会長が攻撃を防いでいるうちに２人を……！\u3000せつなさん？」"
+translation = "「세츠나 씨! 회장이 공격을 막고 있는 동안에 두 사람을……! 세츠나 씨?」"
+
+[[dialogue]]
+speaker = "せつな"
+original = "「っ……う……」"
+translation = "「윽…… 우……」"
+
+[[dialogue]]
+speaker = "せつな"
+original = "「た、大変でござる……師匠……師匠はどこでござるか……？」"
+translation = "「크, 큰일이오…… 스승님…… 스승님은 어디 계시오……?」"
+
+[[dialogue]]
+speaker = "ヨミ"
+original = "「せつなさん……？」"
+translation = "「세츠나 씨……?」"
+
+[[dialogue]]
+speaker = "せつな"
+original = "「あいつは今までの敵とは違うでござる……けれど……」"
+translation = "「저놈은 지금까지의 적과는 다르오…… 하지만……」"
+
+[[dialogue]]
+speaker = "せつな"
+original = "「あの時とは違うでござる……あの時は師匠が村に居なかった……けれど今回は、師匠がいるから……安心なのでござる……」"
+translation = "「그때와는 다르오…… 그때는 스승님이 마을에 없었소…… 하지만 이번에는, 스승님이 계시니까…… 안심이오……」"
+
+[[dialogue]]
+speaker = "ケルウス"
+original = "「ケェエーーーーーーーッ！！！！」"
+translation = "「케에에에 eeee 엣!!!!」"
+
+[[dialogue]]
+speaker = "せつな"
+original = "「っ……！！」"
+translation = "「윽……!!」"
+
+[[dialogue]]
+speaker = "ウズメイア"
+original = "「どうしちゃったのさ、ござるちゃん！」"
+translation = "「어떻게 된 거야, 고자루짱!」"
+
+[[dialogue]]
+speaker = "せつな"
+original = "「ちとせーーっ！！\u3000さつきーーっ！！\u3000どこでござるかーーーーっ！！！！」"
+translation = "「치토세!! 사츠키!! 어디 있소!!!!」"
+
+[[dialogue]]
+speaker = "ちとせ"
+original = "「せ、せつな！\u3000ここだよ！\u3000ここにいるよっ！！」"
+translation = "「세, 세츠나! 여기야! 여기 있다구!!」"
+
+[[dialogue]]
+speaker = "せつな"
+original = "「無事でござったか……よかったでござる……。さつきも一緒でござるか？」"
+translation = "「무사하였소…… 다행이오……. 사츠키도 함께 있소?」"
+
+[[dialogue]]
+speaker = "ちとせ"
+original = "「うん……でも、あいつの攻撃で深手を追っちゃって……」"
+translation = "「응…… 하지만 저놈의 공격으로 중상을 입어서……」"
+
+[[dialogue]]
+speaker = "さつき"
+original = "「ごめん…………ちとせ……せつな……」"
+translation = "「미안해………… 치토세…… 세츠나……」"
+
+[[dialogue]]
+speaker = "さつき"
+original = "「私たちの攻撃……あいつに全然通じなかった……。逃げるのが精一杯で……村が滅茶苦茶にされていくのを……見ている事しかできなかった……」"
+translation = "「우리의 공격…… 저놈에게 전혀 통하지 않았어……. 도망치는 게 고작이라…… 마을이 엉망이 되어가는 걸…… 지켜보는 것밖에 할 수 없었어……」"
+
+[[dialogue]]
+speaker = "せつな"
+original = "「っ……！\u3000それは……せつなも同じでござる……」"
+translation = "「윽……! 그것은…… 세츠나도 마찬가지이오……」"
+
+[[dialogue]]
+speaker = "せつな"
+original = "「師匠が居てくれたら……こんな事にはならなかったでござる……！\u3000せつなたちが未熟なばかりにっ……！」"
+translation = "「스승님이 계셔주셨다면…… 이런 일은 없었을 것이오……! 세츠나들이 미숙한 탓에!」"
+
+[[dialogue]]
+speaker = "ケルウス"
+original = "「ケェエーーーーーーーッ！！！！」"
+translation = "「케에에에 eeee 엣!!!!」"
+
+[[dialogue]]
+speaker = "せつな"
+original = "「ひっ！！\u3000こっちに……来たでござる……」"
+translation = "「히익!! 이쪽으로…… 왔소……」"
+
+[[dialogue]]
+speaker = "ちとせ"
+original = "「せつな、無理だよ！\u3000見習いの私たちじゃ勝てっこない！\u3000悔しいけど今は逃げるしかないよ！」"
+translation = "「세츠나, 무리야! 견습생인 우리로선 이길 리가 없어! 분하지만 지금은 도망칠 수밖에 없어!」"
+
+[[dialogue]]
+speaker = "せつな"
+original = "（逃げなかったのではなく……逃げられなかったのでござる……）"
+translation = "(도망치지 않은 것이 아니라…… 도망칠 수 없었던 것이오……)"
+
+[[dialogue]]
+speaker = "せつな"
+original = "（あの時、刀を構えたせつなは……あのモンスターを前にして……動けなかったでござる……）"
+translation = "(그때, 칼을 겨눈 세츠나는…… 저 몬스터를 앞에 두고…… 움직일 수 없었소……)"
+
+[[dialogue]]
+speaker = "せつな"
+original = "（怖くて……足が震えて……）"
+translation = "(무서워서…… 다리가 떨려서……)"
+
+[[dialogue]]
+speaker = "せつな"
+original = "（何をしているのでござる！\u3000今のせつなはもう、あの時のせつなではござらん！）"
+translation = "(무엇을 하고 있는 것이오! 지금의 세츠나는 이제, 그때의 세츠나가 아니오!)"
+
+[[dialogue]]
+speaker = "せつな"
+original = "（星騎士として、忍者として……皆を守れるよう……あの日から研鑽を積んできたのでござる……）"
+translation = "(성기사로서, 닌자로서…… 모두를 지킬 수 있도록…… 그날부터 연찬을 쌓아왔소……)"
+
+[[dialogue]]
+speaker = "せつな"
+original = "（なのに、どうして……！\u3000あの時と同じ、せつなの足は竦んで動かないのでござるか……！）"
+translation = "(그런데, 어째서……! 그때와 똑같이, 세츠나의 다리는 얼어붙어 움직이지 않는 것이오!)"
+
+[[dialogue]]
+speaker = "ウズメイア"
+original = "「会長くんっ！\u3000ござるちゃんの様子がおかしいよ！」"
+translation = "「회장군! 고자루짱의 상태가 이상해!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "一度退いて立て直そう"
+translation = "일단 물러나서 전열을 가다듬자"
+
+[[dialogue]]
+speaker = "unk"
+original = "わかってる！"
+translation = "알고 있어!"
+
+[[dialogue]]
+speaker = "せつな"
+original = "「主様っ！\u3000ここで退いたら、村がまた……！」"
+translation = "「주군! 여기서 물러나면, 마을이 또……!」"
+
+[[dialogue]]
+speaker = "ヨミ"
+original = "「皆さんの命には代えられませんよっ！」"
+translation = "「여러분들의 목숨과는 바꿀 수 없어요!」"
+
+[[dialogue]]
+speaker = "せつな"
+original = "「ですがっ……！」"
+translation = "「하지만……!」"
+
+[[dialogue]]
+speaker = "せつな"
+original = "「師匠は？\u3000師匠はどこでござるか？\u3000師匠ならばあのモンスターがいかに強力でも、簡単に倒してくれるでござる……」"
+translation = "「스승님은? 스승님은 어디 계시오? 스승님이라면 저 몬스터가 아무리 강력해도, 간단히 쓰러뜨려 주실 것이오……」"
+
+[[dialogue]]
+speaker = "ヨミ"
+original = "「そう言えば姿が見えませんが……どうしたのでしょう？」"
+translation = "「그러고 보니 모습이 보이지 않습니다만…… 어떻게 된 걸까요?」"
+
+[[dialogue]]
+speaker = "ウズメイア"
+original = "「あれが襲ってくる前は確かに居たんだけど、どこかに出かけちゃった？」"
+translation = "「저게 습격해오기 전까진 분명히 있었는데, 어디 나간 거야?」"
+
+[[dialogue]]
+speaker = "せつな"
+original = "「師匠が村に居ない……そんな……またあの時と同じでござる……」"
+translation = "「스승님이 마을에 없소…… 그럴 수가…… 또 그때와 똑같소……」"
+
+[[dialogue]]
+speaker = "ウズメイア"
+original = "「しっかりしなって、ござるちゃん！\u3000おししょー様が居ないなら、あたしらで何とかするしかないじゃん！」"
+translation = "「정신 차리라구, 고자루짱! 스승님이 없다면 우리끼리 어떻게든 하는 수밖에 없잖아!」"
+
+[[dialogue]]
+speaker = "ヨミ"
+original = "「そうですよ！\u3000強敵ではありますが、このくらいのピンチは何度も乗り越えてきたはずです！」"
+translation = "「맞아요! 강적이긴 하지만, 이 정도의 위기는 몇 번이고 뛰어넘어 왔을 터입니다!」"
+
+[[dialogue]]
+speaker = "せつな"
+original = "「わかっているでござる……。でもあのモンスターだけは……ダメなのでござる……」"
+translation = "「알고 있소……. 하지만 저 몬스터만큼은…… 안 되는 것이오……」"
+
+[[dialogue]]
+speaker = "せつな"
+original = "「姿を見ただけで、体が強張って動かなくなってしまったでござる……情けないでござる……こんな醜態を主様に晒してしまうなんて……」"
+translation = "「모습을 본 것만으로, 몸이 굳어서 움직이지 않게 되어버렸소…… 한심하오…… 이런 추태를 주군께 보이고 말다니……」"
+
+[[dialogue]]
+speaker = "unk"
+original = "今は安全な所へ！"
+translation = "지금은 안전한 곳으로!"
+
+[[dialogue]]
+speaker = "unk"
+original = "とにかく一度退こう！"
+translation = "어쨌든 일단 물러나자!"
+
+[[dialogue]]
+speaker = "せつな"
+original = "「あ、主様……わかったでござる……」"
+translation = "「주, 주군…… 알겠소……」"
+

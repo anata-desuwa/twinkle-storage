@@ -1,0 +1,510 @@
+[[dialogue]]
+speaker = "unk"
+original = "第７話,星徒会長として,B"
+translation = "제7화, 성도회장으로서, B"
+
+[[dialogue]]
+speaker = "シノ"
+original = "「学園長をお受けするか検討するにあたって、今の新星学園をよく知るおふたりにお話を聞きたいと思っていたんです」"
+translation = "「학원장직을 수락할지 검토함에 있어 지금의 신성학원을 잘 아는 두 분께 이야기를 듣고 싶었습니다.」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「もちろん。俺に話せることなら」"
+translation = "「물론이죠. 제가 말할 수 있는 거라면 무엇이든.」"
+
+[[dialogue]]
+speaker = "シノ"
+original = "「ふむ……とても興味深いお話をありがとうございました。星騎士について、新星学園について、より深く学ぶことができました」"
+translation = "「흠…… 매우 흥미로운 이야기 감사합니다. 성기사에 대해, 신성학원에 대해 더 깊이 배울 수 있었습니다.」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「気付いたらたくさん話してたわね。シノが聞き上手なのかしら」"
+translation = "「정신 차려보니 엄청 많이 떠들었네. 시노가 이야기를 잘 들어주는 걸까.」"
+
+[[dialogue]]
+speaker = "unk"
+original = "俺が星騎士を目指した理由や、転入後の活動など個人的な話から、星徒会長として学園を見た所感まで、様々なことを話した。"
+translation = "내가 성기사를 목표로 한 이유나 전입 후의 활동 등 개인적인 이야기부터, 성도회장으로서 학원을 바라본 소감까지 다양한 이야기를 나누었다."
+
+[[dialogue]]
+speaker = "unk"
+original = "新星学園に来て、星騎士になって、星徒会長になって……本当にいろいろなことがあった。"
+translation = "신성학원에 와서, 성기사가 되고, 성도회장이 되어…… 정말 여러 가지 일이 있었다."
+
+[[dialogue]]
+speaker = "unk"
+original = "たくさんの出来事があった。たくさんの出会いがあった。"
+translation = "수많은 사건이 있었다. 수많은 만남이 있었다."
+
+[[dialogue]]
+speaker = "unk"
+original = "心の奥の震えは止まらないけど、その<b>たくさん</b>が俺を強くしてくれた。"
+translation = "마음 깊은 곳의 떨림은 멈추지 않지만, 그 <b>수많은</b> <b>것들</b>이 나를 강하게 만들어 주었다."
+
+[[dialogue]]
+speaker = "シノ"
+original = "「しかし課題は……これからのことですね」"
+translation = "「하지만 과제는…… 앞으로의 일이군요.」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「それは……はい。極星学園とデネブに対して、どうするべきなのか……」"
+translation = "「그건…… 네. 극성학원과 데네브에 대해서 어떻게 해야 할지……」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「……」"
+translation = "「……」"
+
+[[dialogue]]
+speaker = "unk"
+original = "星徒会長として俺が迷っている。"
+translation = "성도회장으로서 나는 망설이고 있다."
+
+[[dialogue]]
+speaker = "unk"
+original = "<ruby>煌嶺<rt>こうれい</rt></ruby>は理事会の場で「極星学園と戦い、この世界を守る」と言った。"
+translation = "코레이는 이사회 자리에서 「극성학원과 싸워 이 세계를 지키겠다」고 말했다."
+
+[[dialogue]]
+speaker = "unk"
+original = "だけどチナの言葉を信じるなら、それはデネブを滅ぼすことで……"
+translation = "하지만 치나의 말을 믿는다면 그것은 데네브를 멸망시키는 일이고……"
+
+[[dialogue]]
+speaker = "シノ"
+original = "「まずは情報を整理しましょう」"
+translation = "「우선 정보를 정리하죠.」"
+
+[[dialogue]]
+speaker = "シノ"
+original = "「アルタイル、デネブ、ベガ……デネブから来たというヴィーナスさんの存在を考えても、３つの平行世界が存在するのは間違いないでしょう」"
+translation = "「알타이르, 데네브, 베가…… 데네브에서 왔다는 비너스 씨의 존재를 생각해도 세 개의 평행세계가 존재하는 것은 틀림없겠죠.」"
+
+[[dialogue]]
+speaker = "シノ"
+original = "「加えて、いずれもリクリエによって危機にさらされている。しかしベガはすでに滅んだ」"
+translation = "「게다가 어느 쪽이든 리크리에에 의해 위기에 처해 있습니다. 하지만 베가는 이미 멸망했죠.」"
+
+[[dialogue]]
+speaker = "シノ"
+original = "「デネブも危うい状態であるはずだった。しかしそこから極星学園が現れ、アルタイルに宣戦布告した」"
+translation = "「데네브도 위태로운 상태여야 했습니다. 하지만 그곳에서 극성학원이 나타나 알타이르에 선전포고를 했죠.」"
+
+[[dialogue]]
+speaker = "シノ"
+original = "「これは生存競争であり、アルタイルとデネブのどちらかが滅びなければいけないと」"
+translation = "「이것은 생존 경쟁이며 알타이르와 데네브 중 어느 한쪽이 멸망해야만 한다고.」"
+
+[[dialogue]]
+speaker = "シノ"
+original = "「その真偽を確かめるため、新星学園は情報収集中──ということですね」"
+translation = "「그 진위를 확인하기 위해 신성학원은 정보 수집 중──이라는 것이군요.」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「はい、間違いありません」"
+translation = "「네, 맞습니다.」"
+
+[[dialogue]]
+speaker = "unk"
+original = "そして残念ながら、極星学園の主張を裏付ける、あるいは否定する情報は掴めていない。"
+translation = "그리고 안타깝게도 극성학원의 주장을 뒷받침하거나 혹은 부정할 정보는 잡지 못했다."
+
+[[dialogue]]
+speaker = "unk"
+original = "そのうえ例の動画が広がり、星騎士たちにも一般人にも混乱が<ruby>伝播<rt>でんぱ</rt></ruby>していた。"
+translation = "게다가 그 동영상이 퍼지면서 성기사들에게도 일반인들에게도 혼란이 전파되고 있었다."
+
+[[dialogue]]
+speaker = "シノ"
+original = "「残念ながら、周囲は情報が揃うのを待ってはくれません。何らかの方針を打ち出す必要があるでしょう」"
+translation = "「유감스럽게도 주변 상황은 정보가 갖춰지기를 기다려주지 않습니다. 어떤 식으로든 방침을 내세울 필요가 있겠죠.」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「そう……ですね。わかってはいるつもりなんですけど」"
+translation = "「그렇……네요. 알고는 있습니다만.」"
+
+[[dialogue]]
+speaker = "シノ"
+original = "「……心苦しそうなお顔をされていますね。星騎士の先頭に立つ責任を考えれば、無理もありません」"
+translation = "「……괴로워 보이는 표정을 짓고 계시네요. 성기사의 선두에 서는 책임을 생각하면 무리도 아닙니다.」"
+
+[[dialogue]]
+speaker = "シノ"
+original = "「では一旦、どうしたいかだけを考えましょう」"
+translation = "「그럼 일단 어떻게 하고 싶은지만 생각하죠.」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「どうしたいか……？」"
+translation = "「어떻게 하고 싶은지……?」"
+
+[[dialogue]]
+speaker = "シノ"
+original = "「はい。ひとまず理想を言葉にしてみましょう。都合のいい仮定で構いません」"
+translation = "「네. 우선 이상을 말로 표현해 보세요. 형편 좋은 가정이라도 상관없습니다.」"
+
+[[dialogue]]
+speaker = "シノ"
+original = "「無茶でも不可能でもいいんです。現実とのギャップを認識するためにも有効なことだと思いますよ」"
+translation = "「무모해도 불가능해도 괜찮습니다. 현실과의 격차를 인식하기 위해서도 유효한 일이니까요.」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「それなら……」"
+translation = "「그렇다면……」"
+
+[[dialogue]]
+speaker = "unk"
+original = "自分の中に渦巻いていた想いを、頭の中で言葉にしていく。"
+translation = "자신의 안에 소용돌이치던 생각을 머릿속에서 문장으로 만들어 나간다."
+
+[[dialogue]]
+speaker = "セイファート"
+original = "『君の両手には……他者を救う温かさが宿っている』"
+translation = "『네 양손에는…… 타인을 구하는 따스함이 깃들어 있다』"
+
+[[dialogue]]
+speaker = "unk"
+original = "あの言葉は、彼にとって気紛れに出たものなんだろう。"
+translation = "그 말은 그에게 있어 변덕스럽게 나온 것이었을지도 모른다."
+
+[[dialogue]]
+speaker = "unk"
+original = "でも俺はあの言葉を本当にするために星騎士になったから。"
+translation = "하지만 나는 그 말을 진실로 만들기 위해 성기사가 되었으니까."
+
+[[dialogue]]
+speaker = "クロト"
+original = "「俺はこの世界を守りたい」"
+translation = "「나는 이 세계를 지키고 싶어.」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「みんながいる世界を。みんなで守った世界を」"
+translation = "「모두가 있는 세계를. 모두가 지켜낸 세계를.」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「でもそのためにデネブを滅ぼしたくはない。アルタイルも、デネブも……滅びたと言われているベガだって救いたい」"
+translation = "「하지만 그 때문에 데네브를 멸망시키고 싶지는 않아. 알타이르도, 데네브도…… 멸망했다고 일컬어지는 베가조차 구하고 싶어.」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「手の届く限り全ての人を……いや届かないなら、この手を伸ばして、届かせたい」"
+translation = "「손이 닿는 한 모든 사람을…… 아니, 닿지 않는다면 이 손을 뻗어서 닿게 하고 싶어.」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「俺たち星騎士は、そのために守護星から力を授かったんだから……！」"
+translation = "「우리 성기사들은 그러기 위해 수호성으로부터 힘을 부여받은 거니까……!」"
+
+[[dialogue]]
+speaker = "シノ"
+original = "「……」"
+translation = "「……」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「──と、すみません。熱くなってしまいました」"
+translation = "「──아, 죄송합니다. 흥분해 버렸네요.」"
+
+[[dialogue]]
+speaker = "unk"
+original = "つい語気が強くなってしまったが、シノさんの視線に気付いてハッと我に返る。"
+translation = "나도 모르게 어조가 강해졌지만, 시노 씨의 시선을 느끼고 아차 하며 정신을 차린다."
+
+[[dialogue]]
+speaker = "unk"
+original = "いつの間にか、爪が食い込むほど拳を固く握っていた。"
+translation = "어느샌가 손톱이 파고들 정도로 주먹을 꽉 쥐고 있었다."
+
+[[dialogue]]
+speaker = "シノ"
+original = "「いえ、緋宮会長のお気持ちがよくわかりました」"
+translation = "「아뇨, 히노미야 회장님의 마음을 잘 알겠습니다.」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「よく言ったわ。それでこそクロトよ！」"
+translation = "「잘 말했어. 그래야 쿠로토지!」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「はは……かっこつけちゃったかな」"
+translation = "「하하…… 너무 폼 잡았나.」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ヴィーナスの言葉が少しこそばゆい。"
+translation = "비너스의 말이 조금 간지럽다."
+
+[[dialogue]]
+speaker = "シノ"
+original = "「では、前会長のヴィーナスさんはどうお考えですか？」"
+translation = "「그럼 전 회장인 비너스 씨는 어떻게 생각하시나요?」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「クロトと同じよ！\u3000星騎士らしく戦うわ！」"
+translation = "「쿠로토와 같아! 성기사답게 싸울 거야!」"
+
+[[dialogue]]
+speaker = "シノ"
+original = "「ふふ、気持ちのいいお言葉ですね」"
+translation = "「후후, 기분 좋은 말씀이네요.」"
+
+[[dialogue]]
+speaker = "シノ"
+original = "「ですが同時に、今どうしないといけないかも考えないといけません」"
+translation = "「하지만 동시에 지금 어떻게 해야 하는지도 생각해야만 합니다.」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「……！」"
+translation = "「……!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "優しく微笑んでいたシノさんが、現実という刃を突き付ける。"
+translation = "상냥하게 미소 짓던 시노 씨가 현실이라는 칼날을 들이댄다."
+
+[[dialogue]]
+speaker = "unk"
+original = "理想を語るだけで実現できるなら、誰だって苦労はしないのだ。"
+translation = "이상만을 말하는 것으로 실현할 수 있다면 누구든 고생하지 않을 것이다."
+
+[[dialogue]]
+speaker = "シノ"
+original = "「緋宮会長も理解しているはずです。香堂チナの言葉が本当なら、星徒会長として何を求められるか」"
+translation = "「히노미야 회장님도 이해하고 계실 겁니다. 코도 치나의 말이 사실이라면 성도회장으로서 무엇을 요구받게 될지.」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「……」"
+translation = "「……」"
+
+[[dialogue]]
+speaker = "unk"
+original = "否定できなくて、つい押し黙ってしまう。"
+translation = "부정할 수 없어서 나도 모르게 입을 다물고 만다."
+
+[[dialogue]]
+speaker = "unk"
+original = "だけど自分から肯定することはできない。ましてやヴィーナスの前で。"
+translation = "하지만 스스로 긍정할 수는 없다. 하물며 비너스의 앞에서는."
+
+[[dialogue]]
+speaker = "シノ"
+original = "「緋宮会長が考えていることを、あえて私が口にしましょう」"
+translation = "「히노미야 회장님이 생각하고 계신 것을 감히 제가 입 밖으로 내보죠.」"
+
+[[dialogue]]
+speaker = "シノ"
+original = "「新星学園の星徒会長を任された者として、何としてでもアルタイルを守る責任がある」"
+translation = "「신성학원의 성도회장을 맡은 자로서 어떻게 해서든 알타이르를 지켜야 할 책임이 있다.」"
+
+[[dialogue]]
+speaker = "シノ"
+original = "「この世界の命運は俺たちに託されている。デネブと戦わなくてはいけないなら、自分が戦うと」"
+translation = "「이 세계의 운명은 우리에게 맡겨져 있다. 데네브와 싸워야만 한다면 자신이 싸우겠다고.」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「……」"
+translation = "「……」"
+
+[[dialogue]]
+speaker = "unk"
+original = "アルタイルとデネブ、どちらかを取らなければいけないのなら、俺はアルタイルを選ぶしかないだろう。"
+translation = "알타이르와 데네브 중 하나를 택해야만 한다면 나는 알타이르를 택할 수밖에 없을 것이다."
+
+[[dialogue]]
+speaker = "unk"
+original = "でもそれを口にするのは……誰かを犠牲にするのは、星騎士として一線を越える気がして。"
+translation = "하지만 그것을 입에 담는 것은…… 누군가를 희생시키는 것은 성기사로서 선을 넘는 기분이 들어서."
+
+[[dialogue]]
+speaker = "シノ"
+original = "「緋宮会長が、感情と立場の間で板挟みにあっているのは理解できます」"
+translation = "「히노미야 회장님이 감정과 입장 사이에서 딜레마에 빠져 계신 것은 이해합니다.」"
+
+[[dialogue]]
+speaker = "シノ"
+original = "「こうして迷っている間にも極星学園は攻めてくるかもしれない。決断するなら早い方がいい」"
+translation = "「이렇게 망설이는 동안에도 극성학원은 쳐들어올지도 모르죠. 결단한다면 빠른 편이 좋습니다.」"
+
+[[dialogue]]
+speaker = "シノ"
+original = "「選択を間違えればこの世界が滅ぶ──そうお考えなのでしょう」"
+translation = "「선택을 틀리면 이 세계가 멸망한다── 그렇게 생각하고 계신 거겠죠.」"
+
+[[dialogue]]
+speaker = "シノ"
+original = "「でも経験上、ひとつ言っておかなくてはいけないことがあります」"
+translation = "「하지만 경험상 한 가지 말씀드려야 할 게 있습니다.」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「はい？」"
+translation = "「네?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "緊張が少し緩んだ──気がした。"
+translation = "긴장이 조금 풀린── 기분이 들었다."
+
+[[dialogue]]
+speaker = "シノ"
+original = "「間違わないことなんて不可能ですよ。私たちは神様じゃないんですから」"
+translation = "「틀리지 않는다는 건 불가능해요. 우리들은 신이 아니니까요.」"
+
+[[dialogue]]
+speaker = "シノ"
+original = "「ましてや女神様だってピンチという話じゃないですか。魔王と言えどヒトの子。できることには限りがあります」"
+translation = "「하물며 여신님조차 위기라는 상황 아닙니까. 마왕이라 해도 인간의 아이. 할 수 있는 일에는 한계가 있습니다.」"
+
+[[dialogue]]
+speaker = "シノ"
+original = "「選択が間違いだったとしたら、気付いた時に何とかするしかないんです」"
+translation = "「선택이 잘못된 것이라면 깨달았을 때 어떻게든 수습하는 수밖에 없어요.」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「もし手遅れになったら……？」"
+translation = "「만약 때를 놓치게 된다면……?」"
+
+[[dialogue]]
+speaker = "シノ"
+original = "「その時はその時です。不確定な状況の中で、確実な選択などありえません」"
+translation = "「그때는 그때입니다. 불확정적인 상황 속에서 확실한 선택이란 존재할 수 없으니까요.」"
+
+[[dialogue]]
+speaker = "シノ"
+original = "「合理的な判断をしたうえで、結果が伴わなかった場合は仕方ないです。もちろん反省して今後に活かしますが、どうしようもない時はどうしようもないです」"
+translation = "「합리적인 판단을 내린 뒤 결과가 따르지 않는다면 어쩔 수 없는 일입니다. 물론 반성해서 향후에 활용하겠지만, 도저히 안 될 때는 안 되는 법이죠.」"
+
+[[dialogue]]
+speaker = "シノ"
+original = "「私たちにできるのは、最善を尽くすことだけ。結果は後にならないとわからないものです」"
+translation = "「우리에게 가능한 것은 최선을 다하는 것뿐. 결과는 나중이 되어야 알 수 있는 법입니다.」"
+
+[[dialogue]]
+speaker = "シノ"
+original = "「そしてもうひとつ、経営者としてアドバイスです」"
+translation = "「그리고 또 한 가지, 경영자로서 드리는 조언입니다.」"
+
+[[dialogue]]
+speaker = "シノ"
+original = "「現実と理想のギャップを埋めることは大事ですが、それは現実に屈することを意味しません」"
+translation = "「현실과 이상의 격차를 메우는 것은 중요하지만, 그것이 현실에 굴복하는 것을 의미하지는 않습니다.」"
+
+[[dialogue]]
+speaker = "シノ"
+original = "「何かを為すということは、現実を変えて、理想へと近づけていくことなんです」"
+translation = "「무언가를 이룬다는 것은 현실을 바꾸어 이상으로 가까이 다가가는 것이니까요.」"
+
+[[dialogue]]
+speaker = "シノ"
+original = "「もちろん、上手くいかないことも多々あります」"
+translation = "「물론 잘 풀리지 않을 때도 많습니다.」"
+
+[[dialogue]]
+speaker = "シノ"
+original = "「それでも、現実に打ちのめされても諦めなかった者だけが、真に理想を実現することができるんです」"
+translation = "「그래도 현실에 두들겨 맞으면서도 포기하지 않은 자만이 진정으로 이상을 실현할 수 있는 법입니다.」"
+
+[[dialogue]]
+speaker = "unk"
+original = "そう語るシノさんの表情はどこまでも真摯で、その瞳に宿った意志の強さが伝わってくる。"
+translation = "그렇게 말하는 시노 씨의 표정은 더없이 진지했고, 그 눈동자에 깃든 의지의 강함이 전해져 온다."
+
+[[dialogue]]
+speaker = "unk"
+original = "経営のことは詳しくないけど、彼女が社長として呼ばれる理由が少しわかった気がした。"
+translation = "경영에 대해서는 잘 모르지만 그녀가 사장으로서 불려 다니는 이유를 조금은 알 것 같은 기분이 들었다."
+
+[[dialogue]]
+speaker = "クロト"
+original = "「……自分と同年代とは思えませんね」"
+translation = "「……저와 동갑이라고는 생각되지 않네요.」"
+
+[[dialogue]]
+speaker = "シノ"
+original = "「あはは……つい偉そうに語っちゃいました。ちょっと変わった人生経験してきただけなのに」"
+translation = "「아하하…… 저도 모르게 잘난 듯이 말해버렸네요. 조금 특이한 인생 경험을 했을 뿐인데.」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「いえ。生徒たちの上に立つ星徒会長として、とてもためにお話でした」"
+translation = "「아뇨. 학생들 위에 서는 성도회장으로서 정말 도움이 되는 이야기였습니다.」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「よくわかんないけどわかった気がするわ！」"
+translation = "「잘은 모르겠지만 알 것 같은 기분이 들어!」"
+
+[[dialogue]]
+speaker = "シノ"
+original = "「だったらいいんですけど……うぅ、恥ずかしい……」"
+translation = "「그렇다면 다행입니다만…… 으으, 부끄러워라……」"
+
+[[dialogue]]
+speaker = "unk"
+original = "さっきとは打って変わって、年相応の女の子の表情を見せるシノさん。"
+translation = "조금 전과는 딴판으로, 제 나이 또래 소녀의 표정을 보여주는 시노 씨."
+
+[[dialogue]]
+speaker = "unk"
+original = "もじもじと照れているところが、小動物的でかわいらしい。"
+translation = "머뭇거리며 수줍어하는 모습이 소동물 같아서 귀엽다."
+
+[[dialogue]]
+speaker = "シノ"
+original = "「ですが、会長さんたちの想い、確かにお聞きしました」"
+translation = "「하지만 회장님들의 마음, 확실히 들었습니다.」"
+
+[[dialogue]]
+speaker = "シノ"
+original = "「学園は畑違いだと思っていたんですけど、学園長、お引き受けします。私でよければ力にならせてください」"
+translation = "「학원은 제 분야가 아니라고 생각했습니다만, 학원장직, 수락하겠습니다. 저라도 괜찮으시다면 힘을 보태게 해주세요.」"
+
+[[dialogue]]
+speaker = "ヘレナ"
+original = "「うむ。その言葉が聞きたかったぞ」"
+translation = "「음. 그 말이 듣고 싶었느니라.」"
+
+[[dialogue]]
+speaker = "シノ"
+original = "「ヘレナさんの手のひらの上で踊らされた気がしないでもないですけど……まぁいいでしょう」"
+translation = "「헬레나 씨의 손바닥 위에서 놀아난 기분이 들지 않는 것도 아니지만…… 뭐, 좋겠죠.」"
+
+[[dialogue]]
+speaker = "シノ"
+original = "「もちろん、私が学園長になるには理事会を説得しないといけません。そして煌嶺さんと対峙する必要があります」"
+translation = "「물론 제가 학원장이 되려면 이사회를 설득해야 합니다. 그리고 코레이 씨와 대치할 필요가 있죠.」"
+
+[[dialogue]]
+speaker = "シノ"
+original = "「煌嶺さんの好きにはさせませんよ」"
+translation = "「코레이 씨 마음대로 하게 두지는 않겠어요.」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「よろしくお願いします！」"
+translation = "「잘 부탁드립니다!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "生徒である俺では、理事会では何もできない。"
+translation = "학생인 나로서는 이사회에서 아무것도 할 수 없다."
+
+[[dialogue]]
+speaker = "unk"
+original = "だけど彼女なら、きっと任せられると思ったのだった。"
+translation = "하지만 그녀라면 분명 맡길 수 있을 거라 생각했다."
+

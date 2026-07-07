@@ -1,0 +1,250 @@
+[[dialogue]]
+speaker = "unk"
+original = "忍の里に、賑やかな夜が訪れる。"
+translation = "닌자 마을에, 북적거리는 밤이 찾아온다."
+
+[[dialogue]]
+speaker = "unk"
+original = "遠方からの来客である俺たちを、里のみんなは盛大にもてなしてくれた。"
+translation = "먼 곳에서 온 손님인 우리를, 마을 사람들은 성대하게 대접해 주었다."
+
+[[dialogue]]
+speaker = "ウズメイア"
+original = "「ヤバ！\u3000これすっごくおいしい～！」"
+translation = "「대박! 이거 정말 맛있어~!」"
+
+[[dialogue]]
+speaker = "ヨミ"
+original = "「素材がいいんでしょうか、滋味深い味わいがありますね」"
+translation = "「식재료가 좋은 걸까요, 깊은 맛이 느껴지네요」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ウズメやヨミたちを少し遠目に見ながら、俺も用意された食事に舌つづみを打つ。"
+translation = "우즈메와 요미 일행을 조금 멀리서 바라보며, 나도 준비된 음식을 맛있게 먹는다."
+
+[[dialogue]]
+speaker = "シズル"
+original = "「どうですか？\u3000歓迎の宴は楽しんでいますか？」"
+translation = "「어떠신가요? 환영 연회는 즐기고 계신가요?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ありがとうございます！"
+translation = "감사합니다!"
+
+[[dialogue]]
+speaker = "unk"
+original = "はい、とっても！"
+translation = "네, 정말로요!"
+
+[[dialogue]]
+speaker = "シズル"
+original = "「よかったです、遠慮せずにどんどんおかわりしてください♪」"
+translation = "「다행이네요, 사양 말고 마음껏 드세요♪」"
+
+[[dialogue]]
+speaker = "シズル"
+original = "「そうそう、せっかくなので魔王さんにせつなのことを聞いてもいいですか？」"
+translation = "「그나저나, 모처럼이니 마왕님께 세츠나에 대해 물어봐도 될까요?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "メキメキ力をつけています"
+translation = "눈에 띄게 실력이 늘고 있습니다"
+
+[[dialogue]]
+speaker = "unk"
+original = "心配ありませんよ"
+translation = "걱정할 것 없어요"
+
+[[dialogue]]
+speaker = "シズル"
+original = "「ほうほう、そうですか。……ですがそれは忍として、その戦闘能力が、ということですよね？」"
+translation = "「호오호오, 그렇습니까. ……하지만 그것은 닌자로서, 그 전투 능력이 그렇다는 말씀이시죠?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "他に何か？"
+translation = "그 외에 다른 거라도?"
+
+[[dialogue]]
+speaker = "シズル"
+original = "「いーえ、何もありませんよ？\u3000でも……なるほど……今の反応でおおよそ理解しました」"
+translation = "「아뇨~, 아무것도 아니에요? 하지만…… 과연…… 지금 반응으로 대충 이해했습니다」"
+
+[[dialogue]]
+speaker = "シズル"
+original = "「まあ、いいでしょう。急いては事をし損じると言いますし、長い目で見ることにします……今後もせつなをよろしくお願いしますね、魔王さん♪」"
+translation = "「뭐, 좋겠죠. 서두르면 일을 그르친다고도 하고, 긴 안목으로 보기로 하죠…… 앞으로도 세츠나를 잘 부탁드려요, 마왕님♪」"
+
+[[dialogue]]
+speaker = "せつな"
+original = "「おや主様、どうしたでござるか？\u3000何をこんな所で突っ立っているのでござる？」"
+translation = "「오야 주군, 어찌 된 일이오? 무엇을 이런 곳에 우두커니 서 있는 것이오?」"
+
+[[dialogue]]
+speaker = "せつな"
+original = "「ささっ、こちらへ！\u3000皆に主様のことをちゃんと紹介したいでござるよ！」"
+translation = "「자자, 이쪽으로! 모두에게 주군을 제대로 소개하고 싶은 것이오!」"
+
+[[dialogue]]
+speaker = "せつな"
+original = "「ちとせ、さつき、改めてこの人がせつなの主様でござる」"
+translation = "「치토세, 사츠키, 다시 한번 이분이 세츠나의 주군이오」"
+
+[[dialogue]]
+speaker = "ちとせ"
+original = "「うんうん、せつなの大事な主様だよね」"
+translation = "「응응, 세츠나의 소중한 주군님이네」"
+
+[[dialogue]]
+speaker = "さつき"
+original = "「せつなの手紙でいつも登場する愛しの人──」"
+translation = "「세츠나의 편지에서 언제나 등장하는 사랑하는 사람──」"
+
+[[dialogue]]
+speaker = "せつな"
+original = "「にゃああっ！！！\u3000なっ、何を言うでござるか！\u3000デタラメなことを吹き込まないで欲しいでござるっ！」"
+translation = "「냐아앗!!! 무, 무슨 소리를 하는 것이오! 엉터리 같은 소리를 불어넣지 말아줬으면 하는 것이오!」"
+
+[[dialogue]]
+speaker = "ちとせ"
+original = "「デタラメじゃないでしょ？\u3000仕えるべき主様を見つけたってそれはもう詳しーく教えてくれたじゃない」"
+translation = "「엉터리 아니잖아? 섬겨야 할 주군님을 찾았다고 아주 자~세히 알려줬으면서」"
+
+[[dialogue]]
+speaker = "さつき"
+original = "「せつなの手紙にはいつも名前が出てくるのも本当のこと」"
+translation = "「세츠나의 편지에는 항상 이름이 나오는 것도 사실인걸」"
+
+[[dialogue]]
+speaker = "せつな"
+original = "「それはそうでござるがっ！\u3000そんなハレンチな書き方は断じてしていないでござるよっ！」"
+translation = "「그건 그렇소만! 그런 파렴치한 말투로는 결코 쓰지 않았단 말이오!」"
+
+[[dialogue]]
+speaker = "せつな"
+original = "「おふざけはそこまででござる！\u3000からかうなら主様の紹介はしないでござる！」"
+translation = "「장난은 거기까지 하시오! 놀린다면 주군을 소개하지 않을 것이오!」"
+
+[[dialogue]]
+speaker = "ちとせ"
+original = "「あはは、ごめんだって」"
+translation = "「아하하, 미안하다니까」"
+
+[[dialogue]]
+speaker = "さつき"
+original = "「でも、最後にひとつだけ確認させて欲しい……房中術はもうしたの？」"
+translation = "「그치만, 마지막으로 하나만 확인하게 해줘…… 방중술은 벌써 했어?」"
+
+[[dialogue]]
+speaker = "せつな"
+original = "「にゃにゃにゃにゃあっ！！！！！」"
+translation = "「냐냐냐냐앗!!!!!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "虫よけ？"
+translation = "벌레 쫓기?"
+
+[[dialogue]]
+speaker = "unk"
+original = "防虫術？"
+translation = "방충술?"
+
+[[dialogue]]
+speaker = "ちとせ"
+original = "「違うよ～、夜の秘術の方だよ。せつなの具合がどうだったか、感想を聞かせて欲しいな～って」"
+translation = "「아니야~, 밤의 비술 쪽이야. 세츠나의 상태가 어땠는지, 감상을 들려줬으면 해서~」"
+
+[[dialogue]]
+speaker = "さつき"
+original = "「ちとせ……今の反応を見る限り、多分まだ何もしていないっぽい」"
+translation = "「치토세…… 지금 반응을 보아하니, 아마 아직 아무것도 안 한 모양이야」"
+
+[[dialogue]]
+speaker = "せつな"
+original = "「そ、そんなことはっ……あっ、あ、あるまじきでござるっ！\u3000それはもう毎晩毎夜、使いまくりの乱れまくりでござるっ！」"
+translation = "「그, 그런 일은…… 어, 어, 있을 수 없는 일이오! 그건 벌써 매일 밤낮으로, 엄청나게 해대서 정신을 못 차릴 정도요!」"
+
+[[dialogue]]
+speaker = "さつき"
+original = "「せつなからの手紙にはいろいろ書いてあるのに、その話題だけ頑なに触れてないのはおかしいよ」"
+translation = "「세츠나가 보낸 편지에는 이것저것 적혀 있는데, 그 화제만 끈질기게 언급 안 하는 건 이상해」"
+
+[[dialogue]]
+speaker = "ちとせ"
+original = "「確かにそうかも！\u3000こらせつな、隠さないで白状しなさいっ！」"
+translation = "「과연 그럴지도! 이봐 세츠나, 숨기지 말고 자백해!」"
+
+[[dialogue]]
+speaker = "せつな"
+original = "「ううう……さすがはさつき、痛いところを突いてくるでござる」"
+translation = "「우우우…… 역시 사츠키, 아픈 곳을 찔러오는구료」"
+
+[[dialogue]]
+speaker = "せつな"
+original = "「いかにも……主様とはまだ、床へ呼ばれる関係に至っていないでござるが……」"
+translation = "「정말로…… 주군과는 아직, 잠자리로 불려갈 관계에 이르지 못했소만……」"
+
+[[dialogue]]
+speaker = "せつな"
+original = "「お願いでござるっ！\u3000２人ともこの事は師匠には内密にして欲しいでござるっ！\u3000こんな事を知られたら大目玉でござるっ！」"
+translation = "「부탁이오! 두 사람 모두 이 일은 스승님께는 비밀로 해줬으면 하오! 이런 사실을 들켰다간 큰 꾸중을 들을 것이오!」"
+
+[[dialogue]]
+speaker = "ちとせ"
+original = "「ま、せつなだから仕方ないね」"
+translation = "「뭐, 세츠나니까 어쩔 수 없네」"
+
+[[dialogue]]
+speaker = "さつき"
+original = "「ここはひとつ、笹団子で手を打とうじゃない」"
+translation = "「이번엔 경단으로 합의 봐줄게」"
+
+[[dialogue]]
+speaker = "せつな"
+original = "「それでお願いするでござる……」"
+translation = "「그걸로 부탁하오……」"
+
+[[dialogue]]
+speaker = "unk"
+original = "仲良しなんだね"
+translation = "사이가 좋구나"
+
+[[dialogue]]
+speaker = "unk"
+original = "楽しそうだね"
+translation = "즐거워 보이네"
+
+[[dialogue]]
+speaker = "せつな"
+original = "「この２人は同い年で、互いに切磋琢磨してきた大切な仲間なのでござる」"
+translation = "「이 두 사람은 동갑내기로, 서로 절차탁마해 온 소중한 동료인 것이오」"
+
+[[dialogue]]
+speaker = "ちとせ"
+original = "「村がピンチの時も肩を並べて戦ったしね。私たちは固い絆で結ばれてるんだ～」"
+translation = "「마을이 위기일 때도 어깨를 나란히 하고 싸웠지. 우리들은 굳건한 유대감으로 묶여 있어~」"
+
+[[dialogue]]
+speaker = "ちとせ"
+original = "「そんなせつなが選んだ主様は、私たちにとっても特別な人なんだよ。だからほら、もっと飲んで、食べて！\u3000めいっぱい盛り上がってよ♪」"
+translation = "「그런 세츠나가 선택한 주군님은, 우리에게도 특별한 사람이야. 그러니까 자, 더 마시고, 먹어! 마음껏 즐겨줘♪」"
+
+[[dialogue]]
+speaker = "せつな"
+original = "「そうでござる♪\u3000ささ、主様。料理を取り分けたでござる。師匠が作ってくれたご馳走を、いっぱい味わって欲しいでござる！」"
+translation = "「그렇소♪ 자, 주군. 요리를 덜어왔소. 스승님이 만들어 주신 진미를, 잔뜩 맛보셨으면 좋겠소!」"
+
+[[dialogue]]
+speaker = "せつな"
+original = "「師匠は秘薬づくりもさることながら、料理の腕も天下一品でござるから！」"
+translation = "「스승님은 비약 제조도 제조거니와, 요리 솜씨도 천하일품인 것이오!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "こうして、宴の夜は賑やかに過ぎていくのだった。"
+translation = "이렇게, 연회의 밤은 시끌벅적하게 흘러갔다."
+

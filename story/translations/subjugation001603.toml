@@ -1,0 +1,345 @@
+[[dialogue]]
+speaker = "unk"
+original = "ハロウィン当日。"
+translation = "할로윈 당일."
+
+[[dialogue]]
+speaker = "unk"
+original = "ジャクリーヌに人間界のハロウィンを楽しんでもらうため、俺たちは大聖堂カフェテリアにやってきた。"
+translation = "자클린에게 인간계의 할로윈을 즐겁게 해주기 위해, 우리들은 대성당 카페테리아로 왔다."
+
+[[dialogue]]
+speaker = "ヒトリ"
+original = "「うわぁ、色んな衣装を着ている人がいっぱいです……」"
+translation = "「우와아, 여러 의상을 입은 사람이 가득해요……」"
+
+[[dialogue]]
+speaker = "ジャクリーヌ"
+original = "「お菓子♪\u3000お菓子♪」"
+translation = "「과자♪ 과자♪」"
+
+[[dialogue]]
+speaker = "ヒトリ"
+original = "「ジャクリーヌさん、楽しみなのはわかりますが、先に行っちゃダメです……迷子になっちゃいます。あと、ゆーちゃんもさっきから早いよぉ……」"
+translation = "「자클린 씨, 기대되는 건 알겠지만 먼저 가면 안 돼요…… 길 잃어버려요. 그리고 유짱도 아까부터 너무 빨라아……」"
+
+[[dialogue]]
+speaker = "ゆーちゃん"
+original = "「ゆー！」"
+translation = "「유-!」"
+
+[[dialogue]]
+speaker = "ジャクリーヌ"
+original = "「ヒトリおそいのー！\u3000早く早く、こっちの方から美味しそうな匂いがすゆー！」"
+translation = "「히토리는 너무 느린유-! 빨리빨리, 이쪽에서 맛있는 냄새가 난다유-!」"
+
+[[dialogue]]
+speaker = "ヒトリ"
+original = "「もう、待ってくださーい……！」"
+translation = "「정말, 기다려 주세요-……!」"
+
+[[dialogue]]
+speaker = "ジャクリーヌ"
+original = "「ゆゆっ、あそこにいるのは……っ！」"
+translation = "「유유, 저기 있는 건……!」"
+
+[[dialogue]]
+speaker = "ジャクリーヌ"
+original = "「サランなのー！\u3000ここで何をしてゆ？」"
+translation = "「사란인유-! 여기서 뭘 하고 있는유?」"
+
+[[dialogue]]
+speaker = "サラン"
+original = "「ここでお店を出してるんだよ～♪」"
+translation = "「여기서 가게를 열고 있어~♪」"
+
+[[dialogue]]
+speaker = "unk"
+original = "お菓子作りが得意なサランらしいな"
+translation = "과자 만들기가 특기인 사란답네"
+
+[[dialogue]]
+speaker = "サラン"
+original = "「実は前回の実績が認められてね～。ブースを出店することになったから、こうして新作のお菓子を売ってるの～♪」"
+translation = "「사실 지난 실적을 인정받았거든~. 부스를 출점하게 되어서 이렇게 신작 과자를 팔고 있어~♪」"
+
+[[dialogue]]
+speaker = "ヒトリ"
+original = "「それで朝早くから登校されてたんですね。すごいです、サランさん！」"
+translation = "「그래서 아침 일찍부터 등교하신 거였군요. 대단해요, 사란 씨!」"
+
+[[dialogue]]
+speaker = "サラン"
+original = "「えへへ、ありがと～。頑張った甲斐があったよ～」"
+translation = "「에헤헤, 고마워~. 노력한 보람이 있었어~」"
+
+[[dialogue]]
+speaker = "ジャクリーヌ"
+original = "「トリックオアトリート！\u3000さっそくお菓子くれなの！」"
+translation = "「트릭 오어 트릿! 당장 과자 달라는유!」"
+
+[[dialogue]]
+speaker = "ヒトリ"
+original = "「あっ、ジャクリーヌさん。こういうところではテルスを出して買わないといけなくて……」"
+translation = "「앗, 자클린 씨. 이런 곳에서는 텔루스를 내고 사야 해서……」"
+
+[[dialogue]]
+speaker = "サラン"
+original = "「いいの、いいの～。お菓子の感想をくれる知り合いには無料で配ってるし、今日はジャクリーヌちゃんがいるってわかってたから、多めに作っておいたんだ～」"
+translation = "「괜찮아, 괜찮아~. 과자 감상을 들려주는 지인에게는 무료로 나눠주고 있고, 오늘은 자클린짱이 있을 거란 걸 알았으니까 넉넉히 만들어 뒀어~」"
+
+[[dialogue]]
+speaker = "サラン"
+original = "「というわけで、ジャクリーヌちゃん。どれを食べてみたい～？」"
+translation = "「그런 의미에서 자클린짱. 어느 걸 먹어보고 싶어~?」"
+
+[[dialogue]]
+speaker = "ジャクリーヌ"
+original = "「いっぱいあって迷っちゃうの～……じゃあ、そこにある丸くて真ん中に穴が開いてるのにすゆ！」"
+translation = "「잔뜩 있어서 망설여지는유~…… 그럼 저기 있는 동그랗고 가운데 구멍 뚫린 걸로 하겠유!」"
+
+[[dialogue]]
+speaker = "ヒトリ"
+original = "「ドーナツですね。おいしいですよね～」"
+translation = "「도넛이네요. 맛있죠~」"
+
+[[dialogue]]
+speaker = "サラン"
+original = "「じゃあ、カボチャみたいなジャクリーヌちゃんには、このハロウィン限定パンプキン味のドーナツをあげちゃう～<emoji=heart04>」"
+translation = "「그럼 호박 같은 자클린짱에게는 이 할로윈 한정 펌킨 맛 도넛을 줄게~<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "ジャクリーヌ"
+original = "「ゆーっゆっゆっゆ♪\u3000それじゃあ、いただきますなのー！」"
+translation = "「유-윳유윳유♪ 그럼 잘 먹겠는유-!」"
+
+[[dialogue]]
+speaker = "サラン"
+original = "「ヒトリちゃんと会長ちゃんもどうぞ～♪」"
+translation = "「히토리짱이랑 회장짱도 자~♪」"
+
+[[dialogue]]
+speaker = "ヒトリ"
+original = "「あ、ありがとうございます、いただきます……！」"
+translation = "「아, 감사합니다, 잘 먹겠습니다……!」"
+
+[[dialogue]]
+speaker = "ジャクリーヌ"
+original = "「はぐっ！\u3000んぐんぐ……もぐもぐ……んん～～～！\u3000おいしいのー！」"
+translation = "「와구! 냠냠…… 우물우물…… 음~~~! 맛있는유-!」"
+
+[[dialogue]]
+speaker = "ヒトリ"
+original = "「パンプキン味のドーナツなんて初めてですけど、これはおいしいですね！」"
+translation = "「펌킨 맛 도넛은 처음인데 이거 맛있네요!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "甘すぎなくて美味しい！\nこれは一杯売れそうな気がする"
+translation = "너무 달지 않고 맛있어!\\n이거 많이 팔릴 것 같은 기분이 들어"
+
+[[dialogue]]
+speaker = "サラン"
+original = "「会長ちゃんもありがとね～！」"
+translation = "「회장짱도 고마워~!」"
+
+[[dialogue]]
+speaker = "ジャクリーヌ"
+original = "「これは食べやすくて穴も空いてるから、いくらでもイケちゃうのー！\u3000もう１個くれゆ！」"
+translation = "「이건 먹기도 편하고 구멍도 뚫려 있어서 얼마든지 들어가는유-! 한 개 더 달라는유!」"
+
+[[dialogue]]
+speaker = "サラン"
+original = "「は～い♪\u3000どんどん食べてねー！」"
+translation = "「네에-♪ 팍팍 먹으렴-!」"
+
+[[dialogue]]
+speaker = "ジャクリーヌ"
+original = "「もぐもぐ、んぐんぐ……ほれじゃあふぎは……ごっくん！\u3000そこにある色んな形になってるお菓子をもらうの！」"
+translation = "「우물우물, 냠냠…… 그럼 다으믄…… 꿀꺽! 저기 있는 여러 모양으로 된 과자를 달라는유!」"
+
+[[dialogue]]
+speaker = "サラン"
+original = "「これはクッキーって言うんだよ～。ハロウィンだからジャックちゃんの形だったり、幽霊の形にしてみたんだ～♪」"
+translation = "「이건 쿠키라고 해~. 할로윈이니까 잭짱 모양이나 유령 모양으로 만들어 봤어~♪」"
+
+[[dialogue]]
+speaker = "ヒトリ"
+original = "「うわぁ～♪\u3000これはかわいいです♪\u3000これなんて、ゆーちゃんみたいですし！」"
+translation = "「우와아~♪ 이건 귀엽네요♪ 이건 꼭 유짱 같고요!」"
+
+[[dialogue]]
+speaker = "サラン"
+original = "「そうなの～。ゆーちゃんを意識して作ったんだよ～♪」"
+translation = "「그렇지~. 유짱을 의식해서 만든 거야~♪」"
+
+[[dialogue]]
+speaker = "unk"
+original = "霊感のない人には普段見ることのできないゆーちゃんだが、ハロウィンの日は普通の人にも見えるらしい。"
+translation = "영감이 없는 사람에게는 평소 보이지 않는 유짱이지만, 할로윈 날에는 평범한 사람에게도 보이는 모양이다."
+
+[[dialogue]]
+speaker = "unk"
+original = "それに加えて、ハロウィンフォームになったヒトリの周りには『ハロウィンの力』が渦巻いているらしく……"
+translation = "거기에 더해 할로윈 폼이 된 히토리 주변에는 『할로윈의 힘』이 휘몰아치고 있는 듯해서……"
+
+[[dialogue]]
+speaker = "unk"
+original = "ヒトリと常に一緒にいるゆーちゃんの姿は、昨日の段階から俺やサランにもはっきりと見えていた。"
+translation = "히토리와 항상 함께 있는 유짱의 모습은 어제 단계부터 나나 사란에게도 또렷하게 보이고 있었다."
+
+[[dialogue]]
+speaker = "ゆーちゃん"
+original = "「ゆー！\u3000ゆー！」"
+translation = "「유-! 유-!」"
+
+[[dialogue]]
+speaker = "ヒトリ"
+original = "「でも、似すぎてて食べちゃうのが、ちょっと勿体ない感じもします……」"
+translation = "「하지만 너무 닮아서 먹어버리는 게 좀 아까운 느낌도 들어요……」"
+
+[[dialogue]]
+speaker = "ジャクリーヌ"
+original = "「それ、いただきなのー！\u3000ぱくっ！」"
+translation = "「그거 유가 먹겠유-! 앙!」"
+
+[[dialogue]]
+speaker = "ヒトリ"
+original = "「ああっ！？」"
+translation = "「아앗!?」"
+
+[[dialogue]]
+speaker = "ジャクリーヌ"
+original = "「あぐあぐ、んぐんぐ……ごっくん！\u3000これもおいしいの～♪」"
+translation = "「아구아구, 냠냠…… 꿀꺽! 이것도 맛있는유~♪」"
+
+[[dialogue]]
+speaker = "ヒトリ"
+original = "「ゆ、ゆーちゃんが……ジャクリーヌさんのお腹の中に……」"
+translation = "「유, 유짱이…… 자클린 씨 뱃속에……」"
+
+[[dialogue]]
+speaker = "ゆーちゃん"
+original = "「ゆー！？」"
+translation = "「유-!?」"
+
+[[dialogue]]
+speaker = "サラン"
+original = "「クッキーだから心配しなくても大丈夫だよ～♪」"
+translation = "「쿠키니까 걱정하지 않아도 괜찮아~♪」"
+
+[[dialogue]]
+speaker = "ヒトリ"
+original = "「だ、だって、あまりにも似ているので……。すみません！\u3000おいしそうなのは本当なんですけど……わたし、これは勿体なくて食べられません……っ！」"
+translation = "「그, 그치만 너무 닮아서…… 죄송해요! 맛있어 보이는 건 사실이지만…… 저, 이건 아까워서 못 먹겠어요……!」"
+
+[[dialogue]]
+speaker = "ジャクリーヌ"
+original = "「こっちのパパみたいな形したのもいただくのー！」"
+translation = "「이쪽의 아빠 같은 모양을 한 것도 먹겠유-!」"
+
+[[dialogue]]
+speaker = "サラン"
+original = "「どうぞどうぞー！\u3000いっぱい食べてね～♪」"
+translation = "「자 자 드세요-! 많이 먹어~♪」"
+
+[[dialogue]]
+speaker = "ジャクリーヌ"
+original = "「ん～～～♪\u3000このクッキーもいくら食べても飽きないの～♪」"
+translation = "「음~~~♪ 이 쿠키도 아무리 먹어도 질리지 않는유~♪」"
+
+[[dialogue]]
+speaker = "ヒトリ"
+original = "「すっごい食べっぷりです……他の人が食べる前に無くなっちゃいそう……」"
+translation = "「엄청난 식성이네요…… 다른 사람이 먹기 전에 다 없어질 것 같아……」"
+
+[[dialogue]]
+speaker = "サラン"
+original = "「大丈夫～、後ろの方にもまだまだあるから～！\u3000次はこれとかどうかな～？」"
+translation = "「괜찮아~, 뒤쪽에 아직 잔뜩 있으니까~! 다음은 이건 어떨까나~?」"
+
+[[dialogue]]
+speaker = "ジャクリーヌ"
+original = "「余はまだまだ食べられるから、どんどん来るゆ！」"
+translation = "「유는 아직 더 먹을 수 있으니 계속 내놓으라는유!」"
+
+[[dialogue]]
+speaker = "ヒトリ"
+original = "「こ、これまたおっきぃですね……！」"
+translation = "「이, 이건 또 엄청 크네요……!」"
+
+[[dialogue]]
+speaker = "サラン"
+original = "「ジャクリーヌちゃんの歓迎用ってのもあるんだけど～。会長ちゃんやヒトリちゃんにも食べてほしくて、気合い入れちゃったんだ～<emoji=heart04>」"
+translation = "「자클린짱 환영용인 것도 있지만~. 회장짱이랑 히토리짱한테도 먹여주고 싶어서 기합 좀 넣었지~<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "ジャクリーヌ"
+original = "「ゆーっゆっゆっゆ♪\u3000これまた美味しそうなの♪\u3000遠慮なくいただくゆ！」"
+translation = "「유-윳유윳유♪ 이건 또 맛있어 보이는유♪ 사양 않고 먹겠유!」"
+
+[[dialogue]]
+speaker = "サラン"
+original = "「ほら、２人も食べちゃって～」"
+translation = "「자, 두 사람도 먹어~」"
+
+[[dialogue]]
+speaker = "ヒトリ"
+original = "「ほ、ホントにいいんですか？」"
+translation = "「정, 정말 괜찮나요?」"
+
+[[dialogue]]
+speaker = "サラン"
+original = "「サランはもう十分味見しちゃってるから～。ジャクリーヌちゃんとヒトリちゃんと会長ちゃんに食べて欲しいんだ～」"
+translation = "「사란은 이미 충분히 맛봤으니까~. 자클린짱이랑 히토리짱이랑 회장짱이 먹어줬으면 좋겠어~」"
+
+[[dialogue]]
+speaker = "ヒトリ"
+original = "「わ、わかりました……い、いただきます！」"
+translation = "「아, 알겠습니다…… 자, 잘 먹겠습니다!」"
+
+[[dialogue]]
+speaker = "ジャクリーヌ"
+original = "「はぐはぐはぐはぐ！\u3000もぐもぐもぐもぐ！！」"
+translation = "「허겁지겁! 우물우물!!」"
+
+[[dialogue]]
+speaker = "ヒトリ"
+original = "「もぐもぐ、んぐんぐ……」"
+translation = "「우물우물, 냠냠……」"
+
+[[dialogue]]
+speaker = "サラン"
+original = "「どうかな～？\u3000自信作なんだけど……」"
+translation = "「어떠려나~? 자신작인데……」"
+
+[[dialogue]]
+speaker = "unk"
+original = "これもめちゃくちゃおいしい！"
+translation = "이것도 엄청나게 맛있어!"
+
+[[dialogue]]
+speaker = "ヒトリ"
+original = "「はい！\u3000とってもおいしいです！」"
+translation = "「네! 정말 맛있어요!」"
+
+[[dialogue]]
+speaker = "ジャクリーヌ"
+original = "「あぐあぐあぐあぐ！\u3000がつがつがつがつ！！\u3000ん～～～～、今日食べたので一番おいしいの～～～♪」"
+translation = "「아구아구! 게걸게걸!! 음~~~~, 오늘 먹은 것 중에 제일 맛있는유~~~~♪」"
+
+[[dialogue]]
+speaker = "サラン"
+original = "「えへへ～<emoji=heart04>\u3000そう言ってもらえてサランも嬉しいな～<emoji=heart04>」"
+translation = "「에헤헤~<emoji=heart04> 그렇게 말해주니 사란도 기쁘네~<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "サラン"
+original = "「じゃんじゃん食べてって～！\u3000本当にたくさん作ってきたんだから～♪」"
+translation = "「마음껏 먹으렴~! 정말 많이 만들어 왔으니까 말이야~♪」"
+
+[[dialogue]]
+speaker = "unk"
+original = "そんなこんなで、サランが作ってくれたお菓子をたらふく食べつつ、ハロウィンパーティーは大盛況のうちに終わったのだった。"
+translation = "이러쿵저러쿵 사란이 만들어준 과자를 배부르게 먹으며 할로윈 파티는 성황리에 끝난 것이었다."
+

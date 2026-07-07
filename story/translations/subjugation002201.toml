@@ -1,0 +1,325 @@
+[[dialogue]]
+speaker = "unk"
+original = "俺はある日、ＤＩＳＣで呼び出しを受けて、大聖堂へとやって来ていた。"
+translation = "나는 어느 날, DISC로 호출을 받고 대성당으로 와 있었다."
+
+[[dialogue]]
+speaker = "unk"
+original = "少し待っていると、入り口の扉が開いて、１人の女生徒が<b>日傘を差したまま</b>入って来る。"
+translation = "조금 기다리고 있자 입구의 문이 열리고, 한 명의 여학생이 **양산을 쓴 채로** 들어온다."
+
+[[dialogue]]
+speaker = "ジュエリー"
+original = "「やあ、来てくれてありがとう、我が助手」"
+translation = "「여어, 와 줘서 고마워, 나의 조수.」"
+
+[[dialogue]]
+speaker = "ジュエリー"
+original = "「ひょっとして待たせてしまったかい？」"
+translation = "「혹시 기다리게 한 걸까?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "大丈夫、今来たところだよ"
+translation = "괜찮아, 방금 왔어."
+
+[[dialogue]]
+speaker = "ジュエリー"
+original = "「ならよかった。……すまないね。いざキミと会うとなると、つい自分の身だしなみが気になってしまうんだよ」"
+translation = "「그렇다면 다행이군. ……미안하네. 막상 너와 만나게 된다고 생각하니 나도 모르게 내 매무새가 신경 쓰여서 말이야.」"
+
+[[dialogue]]
+speaker = "ジュエリー"
+original = "「ここに来る前にちょっとセットして来たんだ。どうだろう？\u3000変なところはないかな？」"
+translation = "「여기 오기 전에 잠깐 세팅하고 왔어. 어때? 이상한 데는 없나?」"
+
+[[dialogue]]
+speaker = "ジュエリー"
+original = "「ふふっ♪\u3000愛する助手の前では、可愛い自分でいたいからね」"
+translation = "「후훗♪ 사랑하는 조수 앞에서는 귀여운 나로 있고 싶으니까 말이야.」"
+
+[[dialogue]]
+speaker = "unk"
+original = "そう言ってくるくると日傘を回す彼女は、流星学園１年生の『ジュエリー・ブラウン』。"
+translation = "그렇게 말하며 빙글빙글 양산을 돌리는 그녀는 유성학원 1학년 『주얼리 브라운』."
+
+[[dialogue]]
+speaker = "unk"
+original = "流星市国や日本で数々の事件を解決している『名探偵』であり、屋内外問わず日傘を差している姿から『日傘探偵』という愛称で呼ばれている。"
+translation = "유성시국이나 일본에서 수많은 사건을 해결하고 있는 『명탐정』이며, 안팎을 가리지 않고 양산을 쓰고 있는 모습 때문에 『양산 탐정』이라는 애칭으로 불리고 있다."
+
+[[dialogue]]
+speaker = "unk"
+original = "日傘を差しているのは生まれつき肌が弱く、日光に当たると火傷してしまうという真っ当な理由なのだが──"
+translation = "양산을 쓰고 있는 것은 태어날 때부터 피부가 약해 햇빛에 닿으면 화상을 입어버린다는 정당한 이유 때문이지만──"
+
+[[dialogue]]
+speaker = "unk"
+original = "屋内でも日傘を差しているのは、そうして常に手に持っていれば、どこかに日傘を置き忘れて困る心配がないから、というズボラな理由だったりする。"
+translation = "실내에서도 양산을 쓰고 있는 것은, 그렇게 항상 손에 들고 있으면 어딘가에 양산을 두고 와서 곤란해질 걱정이 없기 때문이라는 게으른 이유이기도 하다."
+
+[[dialogue]]
+speaker = "ジュエリー"
+original = "「ああ、そうだ。それでキミを呼び出した用件だったね――」"
+translation = "「아아, 그렇지. 그래서 너를 불러낸 용건이었지──」"
+
+[[dialogue]]
+speaker = "ジュエリー"
+original = "「以前、キミにも話したことがあるだろう？\u3000私と同じ選星者の１人で、友人の『予言者』がいると」"
+translation = "「이전에 너에게도 이야기한 적이 있지? 나와 같은 선성자 중 한 명이자 친구인 『예언자』가 있다고.」"
+
+[[dialogue]]
+speaker = "ジュエリー"
+original = "「彼女からまた、予言を受けてね。それでキミに協力をお願いしたいんだ」"
+translation = "「그녀에게서 또 예언을 받아서 말이야. 그래서 너에게 협력을 부탁하고 싶어.」"
+
+[[dialogue]]
+speaker = "unk"
+original = "その予言って……？"
+translation = "그 예언이라는 건……?"
+
+[[dialogue]]
+speaker = "ジュエリー"
+original = "「友人曰く、魔王との絆によって、私の力が覚醒を迎える……とのことらしい」"
+translation = "「친구 말로는 마왕과의 유대에 의해 나의 힘이 각성을 맞이한다……는 모양이야.」"
+
+[[dialogue]]
+speaker = "ジュエリー"
+original = "「キミのこれまでの経緯を踏まえて、その言葉を明解に換言するならば――」"
+translation = "「네가 지금까지 겪어온 경위를 토대로 그 말을 명쾌하게 환언하자면──」"
+
+[[dialogue]]
+speaker = "ジュエリー"
+original = "「魔王と絆を結んだ者を覚醒させる術『アルケインコード』によって、私の新たな力が目覚める、ということではないかと推察できる」"
+translation = "「마왕과 유대를 맺은 자를 각성시키는 술법 『아르케인 코드』에 의해 나의 새로운 힘이 깨어난다, 는 것이 아닐까 하고 추측할 수 있지.」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ジュエリーが『ノヴァフォーム』に！？"
+translation = "주얼리가 『노바 폼』으로!?"
+
+[[dialogue]]
+speaker = "ジュエリー"
+original = "「もしそれが本当ならば、私としては願ってもないことだ。キミとの絆……それは明解に換言するならば、つまり――」"
+translation = "「만약 그것이 사실이라면 나로서는 바랄 나위 없는 일이야. 너와의 유대…… 그것을 명쾌하게 환언하자면 즉──」"
+
+[[dialogue]]
+speaker = "ジュエリー"
+original = "「キミとの『愛』、ということに他ならないからね。ふふっ♪」"
+translation = "「너와의 『사랑』, 이라는 것에 다름없으니까. 후훗♪」"
+
+[[dialogue]]
+speaker = "unk"
+original = "あ、愛って……"
+translation = "사, 사랑이라니……"
+
+[[dialogue]]
+speaker = "unk"
+original = "ジュエリーは俺に対してよく、『愛している』という言葉を口にする。"
+translation = "주얼리는 나에게 자주 『사랑한다』는 말을 입에 담는다."
+
+[[dialogue]]
+speaker = "unk"
+original = "普通のテンションでさらっと言うので、どこまで本気なのかよくわからず、俺はいつもくすぐったい気持ちになる。"
+translation = "보통 텐션으로 아무렇지 않게 말하기 때문에 어디까지가 진심인지 잘 모르겠어서, 나는 항상 간지러운 기분이 된다."
+
+[[dialogue]]
+speaker = "ジュエリー"
+original = "「それに、いざという時の為に力があるに越したことはない。私は『考える』のは得意だが、『戦う』ことは決して得意分野ではないからね」"
+translation = "「게다가 만약을 위해 힘은 있어서 나쁠 것 없지. 나는 『생각하는 것』은 잘하지만 『싸우는 것』은 결코 특기 분야가 아니니까 말이야.」"
+
+[[dialogue]]
+speaker = "ジュエリー"
+original = "「そういうわけで助手、どうだろうか？\u3000協力してくれるかい？」"
+translation = "「그런 고로 조수, 어떨까? 협력해 주겠나?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "もちろん。試してみようか"
+translation = "물론이지. 한번 해볼까."
+
+[[dialogue]]
+speaker = "ジュエリー"
+original = "「決まりだね。それじゃあ、お願いするよ」"
+translation = "「결정됐군. 그럼 부탁할게.」"
+
+[[dialogue]]
+speaker = "unk"
+original = "俺は彼女の額の辺りに手をかざす。"
+translation = "나는 그녀의 이마 부근에 손을 갖다 댄다."
+
+[[dialogue]]
+speaker = "unk"
+original = "すると、ジュエリーの奥に灯る星のような輝きが見えた。"
+translation = "그러자 주얼리의 깊은 곳에서 타오르는 별 같은 광채가 보였다."
+
+[[dialogue]]
+speaker = "unk"
+original = "（この感じ……）"
+translation = "（이 느낌……）"
+
+[[dialogue]]
+speaker = "unk"
+original = "（ジュエリーは１発で行けるのか！？）"
+translation = "（주얼리는 한 번에 갈 수 있는 건가!?）"
+
+[[dialogue]]
+speaker = "unk"
+original = "驚くと同時に、いつもとちょっと違うような感覚も受けた。いずれにしても、試してみる価値はある。"
+translation = "놀람과 동시에 평소와는 조금 다른 듯한 감각도 받았다. 어찌 됐든 시도해 볼 가치는 있다."
+
+[[dialogue]]
+speaker = "ジュエリー"
+original = "「行けそうかい、助手？\u3000私はいつでも準備できているよ」"
+translation = "「갈 수 있겠나, 조수? 나는 언제든 준비되어 있어.」"
+
+[[dialogue]]
+speaker = "unk"
+original = "俺は頷いて、アルケインコードを発動する。"
+translation = "나는 고개를 끄덕이고 아르케인 코드를 발동한다."
+
+[[dialogue]]
+speaker = "unk"
+original = "アルケインノヴァエクストリーム！"
+translation = "알케인 노바 익스트림!"
+
+[[dialogue]]
+speaker = "ジュエリー"
+original = "「ああ……キミの温かい心を感じる。これが――」"
+translation = "「아아…… 네 따뜻한 마음이 느껴져. 이것이──」"
+
+[[dialogue]]
+speaker = "ジュエリー（究明）"
+original = "「キミと私の愛の力か……！」"
+translation = "「너와 나의 사랑의 힘인가……!」"
+
+[[dialogue]]
+speaker = "ジュエリー（究明）"
+original = "「ふふっ♪\u3000やったぞ、助手。見てくれ、これが私の新しいフォームだ♪」"
+translation = "「후훗♪ 해냈어, 조수. 봐 줘, 이것이 나의 새로운 폼이야♪」"
+
+[[dialogue]]
+speaker = "ジュエリー（究明）"
+original = "「どうだい？\u3000似合うかい？」"
+translation = "「어때? 잘 어울리나?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "似合っていて、可愛いと思う"
+translation = "잘 어울리고 귀엽다고 생각해."
+
+[[dialogue]]
+speaker = "ジュエリー（究明）"
+original = "「ん♪\u3000……ふふふっ」"
+translation = "「응♪ ……후후후.」"
+
+[[dialogue]]
+speaker = "ジュエリー（究明）"
+original = "「キミが可愛いと言ってくれるなら、これ以上に嬉しいことはないよ。しばらくはこの衣装でずっと過ごすことにしよう♪」"
+translation = "「네가 귀엽다고 말해 준다면 이보다 더 기쁜 일은 없어. 당분간은 이 의상으로 계속 지내기로 하자♪」"
+
+[[dialogue]]
+speaker = "unk"
+original = "と、その時だった。"
+translation = "하고, 그때였다."
+
+[[dialogue]]
+speaker = "ミネコ"
+original = "「失礼しま～す♪」"
+translation = "「실례함다~♪」"
+
+[[dialogue]]
+speaker = "ミネコ"
+original = "「おっ、いたいた♪\u3000お～い、ジュエリー！」"
+translation = "「오, 있다 있다♪ 어~이, 주얼리!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "見知らぬ女生徒が、大聖堂の中にやって来た。"
+translation = "낯선 여학생이 대성당 안으로 들어왔다."
+
+[[dialogue]]
+speaker = "ジュエリー（究明）"
+original = "「ミネコか。何か私に用かい？」"
+translation = "「미네코인가. 나에게 무슨 용건이지?」"
+
+[[dialogue]]
+speaker = "ミネコ"
+original = "「うん♪\u3000ジュエリーと新星学園の会長が、ここへ入るのを見たって聞いてね」"
+translation = "「응♪ 주얼리랑 신성학원 회장이 여기 들어가는 걸 봤다는 얘길 들어서 말야.」"
+
+[[dialogue]]
+speaker = "ミネコ"
+original = "「せっかくだし、私も会長に挨拶しときたいなと思ってさ♪」"
+translation = "「기왕 온 김에 나도 회장님한테 인사 좀 해두고 싶어서 말이지♪」"
+
+[[dialogue]]
+speaker = "unk"
+original = "キミは……？"
+translation = "너는……?"
+
+[[dialogue]]
+speaker = "ミネコ"
+original = "「はっじめまして～♪\u3000私、流星学園の１年生でジュエリーのクラスメイト、『ミネコ・フランボワーズ』って言いま～す♪」"
+translation = "「처음 뵙겠슴다~♪ 저는 유성학원 1학년이자 주얼리의 클래스메이트, 『미네코 프랑보와즈』라고 합니당~♪」"
+
+[[dialogue]]
+speaker = "ジュエリー（究明）"
+original = "「クラスメイトになったのは、<b>今日から</b>だけどね」"
+translation = "「클래스메이트가 된 건 **오늘부터**지만 말이야.」"
+
+[[dialogue]]
+speaker = "unk"
+original = "転入生ってこと？"
+translation = "전학생이라는 소리야?"
+
+[[dialogue]]
+speaker = "ジュエリー（究明）"
+original = "「いいや、そうじゃない。今日登校したら、いつの間にか<b>クラスメイトだったこと</b>になっていたんだ」"
+translation = "「아니, 그렇지 않아. 오늘 등교했더니 어느새 **클래스메이트였던 것**으로 되어 있었어.」"
+
+[[dialogue]]
+speaker = "ジュエリー（究明）"
+original = "「明解に換言するならば――」"
+translation = "「명쾌하게 환언하자면──」"
+
+[[dialogue]]
+speaker = "ジュエリー（究明）"
+original = "「私以外の学園関係者の記憶や情報が、書き換えられていたんだよ」"
+translation = "「나 이외의 학원 관계자의 기억이나 정보가 조작되어 있었던 거지.」"
+
+[[dialogue]]
+speaker = "ミネコ"
+original = "「いやだな～、ジュエリー、私たち前からズッ友だったじゃない♪」"
+translation = "「너무하네~ 주얼리, 우리 예전부터 짱친(즈토모)이었잖아♪」"
+
+[[dialogue]]
+speaker = "ジュエリー（究明）"
+original = "「ズッ友じゃなく、『因縁』の間違いだろう」"
+translation = "「짱친이 아니라 『인연』의 착오겠지.」"
+
+[[dialogue]]
+speaker = "ジュエリー（究明）"
+original = "「キミの正体は……私と以前から高価な宝石や美術品を巡る事件で何度も衝突している相手――」"
+translation = "「네 정체는…… 나와 이전부터 고가의 보석이나 미술품을 둘러싼 사건으로 몇 번이나 충돌했던 상대──」"
+
+[[dialogue]]
+speaker = "ジュエリー（究明）"
+original = "「『選星者』の１人、『大怪盗フランボウ』なのだから」"
+translation = "「『선성자』 중 한 명, 『대괴도 플랑보』니까 말이야.」"
+
+[[dialogue]]
+speaker = "unk"
+original = "大怪盗フランボウっ！？"
+translation = "대괴도 플랑보!?"
+
+[[dialogue]]
+speaker = "ミネコ"
+original = "「ふふっ♪\u3000会長、以後どうかお見知りおきを♪」"
+translation = "「후훗♪ 회장님, 앞으로 부디 잘 부탁드림다♪」"
+
+[[dialogue]]
+speaker = "unk"
+original = "彼女は紳士のお辞儀――『ボウ・アンド・スクレープ』をしながら、不敵な笑みを浮かべるのだった。"
+translation = "그녀는 신사의 인사── 『보 앤 스크레이프』를 하며 불길한 미소를 짓는 것이었다."
+

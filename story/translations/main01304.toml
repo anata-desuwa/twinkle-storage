@@ -1,0 +1,240 @@
+[[dialogue]]
+speaker = "unk"
+original = "第４話,レゾフでの休息,B"
+translation = "제4화, 레조프에서의 휴식, B"
+
+[[dialogue]]
+speaker = "unk"
+original = "来た道をはるばると駆け、ようやくレゾフにまで戻ってくる俺たち。"
+translation = "왔던 길을 멀리까지 달려, 겨우 레조프에까지 돌아온 우리들."
+
+[[dialogue]]
+speaker = "unk"
+original = "街では『スタンピード』により押し寄せた魔獣たちの死骸が、そこら中に所狭しと打ち捨てられていた。"
+translation = "거리에는 『스탬피드』로 밀려온 마수들의 시체가, 여기저기에 좁은 틈도 없이 버려져 있었다."
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「うぇ、すご……」"
+translation = "「우엑, 대단……」"
+
+[[dialogue]]
+speaker = "ラティエ"
+original = "「後片付けまでしている余裕はなかったのでな。ま、すぐに凍るから腐臭の心配はなかろう」"
+translation = "「뒷정리까지 할 여유는 없었으니까. 뭐, 금방 얼어붙으니 썩는 냄새 걱정은 없겠지」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「よかった。街にはほとんど被害がないみたい」"
+translation = "「다행이다. 마을에는 거의 피해가 없는 것 같아」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「学園長は……しっかりお役目を果たしてくれていましたか？」"
+translation = "「학원장님은…… 제대로 임무를 완수해 주셨습니까?」"
+
+[[dialogue]]
+speaker = "ソフィア"
+original = "「はい。なんというか……壮絶でした」"
+translation = "「네. 뭐라고 할까…… 장렬했어요」"
+
+[[dialogue]]
+speaker = "ユウリ"
+original = "「ああ。剣の一振りで魔獣の十体二十体は当たり前……全盛期には振らずに<ruby>殲滅<rt>せんめつ</rt></ruby>って感じだったな」"
+translation = "「아아. 검 한 번 휘두르는 것에 마수 열 마리 스무 마리는 당연…… 전성기에는 휘두르지 않고 섬멸하는 느낌이었지」"
+
+[[dialogue]]
+speaker = "ラティエ"
+original = "「ふふ。今後は鍛錬も兼ねて、冬にはここを訪れることとしようか」"
+translation = "「후후. 앞으로는 단련도 겸해서, 겨울에는 이곳을 방문하도록 할까」"
+
+[[dialogue]]
+speaker = "unk"
+original = "『大いなる冬』もいくらか落ち着いてきたようで、俺たちが街を出たころより吹雪はずっとおとなしくなっていた。"
+translation = "『대자연의 겨울』도 어느 정도 진정된 듯, 우리가 마을을 나섰을 때보다 눈보라는 훨씬 얌전해져 있었다."
+
+[[dialogue]]
+speaker = "unk"
+original = "と、そこへ──"
+translation = "그런데, 그곳에──"
+
+[[dialogue]]
+speaker = "トリシャ"
+original = "「おお……迷える仔羊たち！」"
+translation = "「오오…… 길 잃은 어린양들이여!」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「──トリシャさん」"
+translation = "「──트리샤 씨」"
+
+[[dialogue]]
+speaker = "unk"
+original = "近くの小屋からローブ姿で出てきたのは、占星術師のトリシャさんだった。"
+translation = "근처 오두막에서 로브 차림으로 나온 것은, 점성술사 트리샤 씨였다."
+
+[[dialogue]]
+speaker = "トリシャ"
+original = "「ひい、ふう、みい……全員無事。見知らぬ方も。ほっ……作戦はうまくいったようですね。いえ、これも星の導き通り」"
+translation = "「하나, 둘, 셋…… 전원 무사. 낯선 분도. 휴우…… 작전은 잘 된 것 같군요. 아니, 이것도 별의 인도대로」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「みんなの新しい友だち？\u3000私ヴィーナス、よろしくね！」"
+translation = "「모두의 새로운 친구? 나는 비너스, 잘 부탁해!」"
+
+[[dialogue]]
+speaker = "トリシャ"
+original = "「よ、よ、よろしく。へ、へへ……また友だちが増えました」"
+translation = "「자, 자, 잘 부탁해요. 헤, 헤헤…… 또 친구가 늘었습니다」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「おかげでみんな無事で済んだよ。ありがとう」"
+translation = "「덕분에 모두 무사했어요. 고맙습니다」"
+
+[[dialogue]]
+speaker = "unk"
+original = "俺たちは、トリシャさんの示した『森』ですべての決着をつけてきたことを話した。"
+translation = "우리는, 트리샤 씨가 알려준 『숲』에서 모든 결판을 짓고 왔다는 것을 이야기했다."
+
+[[dialogue]]
+speaker = "トリシャ"
+original = "「なるほど……想像以上の死闘であった様子。血で血を洗うほどの……」"
+translation = "「과연…… 상상 이상의 사투였던 모양이군요. 피로 피를 씻을 정도의……」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「すごい。そんなことまでわかっちゃうのね！」"
+translation = "「대단해. 그런 것까지 알 수 있는 거야!」"
+
+[[dialogue]]
+speaker = "トリシャ"
+original = "「いえ、単にあなた方がものすごい傷だらけなので」"
+translation = "「아뇨, 단순히 당신들이 엄청나게 상처투성이이기에」"
+
+[[dialogue]]
+speaker = "ニャリオン"
+original = "「そりゃそうだニャ」"
+translation = "「그야 그렇겠지냥」"
+
+[[dialogue]]
+speaker = "トリシャ"
+original = "「こちらはようやく吹雪も静まりつつあり……こうして、ようやく表に出られるくらいには落ち着いてきました」"
+translation = "「이곳은 겨우 눈보라도 잠잠해지고…… 이렇게, 겨우 밖에 나올 수 있을 정도로 진정되었습니다」"
+
+[[dialogue]]
+speaker = "トリシャ"
+original = "「スタンピードの猛攻は凄まじかったですが──主にそちらの方のおかげで被害もなく」"
+translation = "「스탬피드의 맹공은 굉장했지만── 주로 저분 덕분에 피해도 없이」"
+
+[[dialogue]]
+speaker = "ラティエ"
+original = "「フ。トリシャ殿も助力していただろうに、謙遜することはない」"
+translation = "「흥. 트리샤 님도 도움을 주었을 텐데, 겸손할 필요는 없다」"
+
+[[dialogue]]
+speaker = "トリシャ"
+original = "「ふへへ」"
+translation = "「후헤헤」"
+
+[[dialogue]]
+speaker = "ソフィア"
+original = "「ありがとうございます。町を……レゾフを守ってくれて」"
+translation = "「고맙습니다. 마을을…… 레조프를 지켜주셔서」"
+
+[[dialogue]]
+speaker = "unk"
+original = "一件落着──といったところか。"
+translation = "일단락──이라고 할까."
+
+[[dialogue]]
+speaker = "unk"
+original = "すっかり陽も暮れたレゾフの町には、徐々にランプの明かりが灯り始める。"
+translation = "완전히 해가 진 레조프 마을에는, 서서히 램프의 불빛이 켜지기 시작한다."
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「それじゃあ……みんな疲れたでしょうし、一旦はうちでお休みかしら」"
+translation = "「그럼…… 모두 지쳤을 테니, 일단은 우리 집에서 쉬는 게 어떨까」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「さ、賛成っ！\u3000もう色んなことありすぎて疲れたよ～！」"
+translation = "「자, 찬성! 이제 온갖 일들이 너무 많아서 지쳤어～!」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「人間界に残したみんなには、一刻も早く連絡したいところだけど……」"
+translation = "「인간계에 남겨둔 모두에게는, 한시라도 빨리 연락하고 싶지만……」"
+
+[[dialogue]]
+speaker = "ラティエ"
+original = "「なに、急がば回れだ。戦士には休息も必要というものだよ」"
+translation = "「무슨, 급할수록 돌아가라 했다. 전사에게는 휴식도 필요한 법이다」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「確かに……今日、これ以上の行動は厳しいですね」"
+translation = "「확실히…… 오늘, 이 이상의 행동은 무리겠네요」"
+
+[[dialogue]]
+speaker = "unk"
+original = "捕縛されていたヴィーナスは元より、戦い漬けの俺たちも消耗は激しい。"
+translation = "포박되어 있던 비너스는 물론이거니와, 싸움만 해온 우리들도 소모가 심하다."
+
+[[dialogue]]
+speaker = "unk"
+original = "寒波が落ち着いている今のうちに休んでおくべきかもしれない。"
+translation = "한파가 잠잠해진 지금 쉬어두는 편이 좋을지도 모른다."
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「サーシャさんのお家に遊びに行く日が来るなんて思わなかったわ！\u3000楽しみね！」"
+translation = "「사샤 씨 집에 놀러 가는 날이 올 줄은 몰랐어! 기대되네!」"
+
+[[dialogue]]
+speaker = "ユウリ"
+original = "「そういや、ヴィーナスはレゾフも初めてか」"
+translation = "「그러고 보니, 비너스는 레조프도 처음인가」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「ヴィーナスちゃんには特製のシチューを振る舞ってあげるわ。隠し味にコオリンゴが入ったやつよ」"
+translation = "「비너스짱에게는 특제 스튜를 대접해 줄게. 숨겨진 맛으로 얼음 사과가 들어간 거야」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「それって、いつかレゾフ名物って言ってたやつよね！？\u3000あー楽しみー私が一番乗りーっと♪」"
+translation = "「그거, 언젠가 레조프 명물이라고 했던 거 맞지!? 아ー 기대돼ー 내가 제일 먼저ー♪」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「ああっ、違うわヴィーナスちゃんそっちじゃなくて……もう」"
+translation = "「아앗, 아니야 비너스짱 거기가 아니라…… 정말」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「ふふ……まだまだ気力が有り余っているようですね」"
+translation = "「후후…… 아직 기력이 남아도는 것 같네요」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「底なしだな、もう」"
+translation = "「끝이 없군, 정말」"
+
+[[dialogue]]
+speaker = "ニャリオン"
+original = "「ニャッニャッニャッ。九浄の娘はああでないとニャン！」"
+translation = "「냐냐냐. 쿠죠의 딸은 저래야 한다냥!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "久方ぶりの賑わいがなんだか懐かしく思えて……"
+translation = "오랜만의 북적거림이 왠지 모르게 그리워져서……"
+
+[[dialogue]]
+speaker = "unk"
+original = "俺はその晩ずっと、戻ってきた喧騒のありがたみを噛みしめるのだった。"
+translation = "나는 그날 밤 내내, 돌아온 소란스러움의 고마움을 곱씹는 것이었다."
+

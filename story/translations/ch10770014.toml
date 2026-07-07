@@ -1,0 +1,235 @@
+[[dialogue]]
+speaker = "unk"
+original = "第４話,貴方にチョコを,P"
+translation = "제4화, 당신에게 초콜릿을, P"
+
+[[dialogue]]
+speaker = "unk"
+original = "蘭美とデートに出かける仲になってから、しばらく経ったある日のこと。彼女が俺の家へ遊びに来ることになった――"
+translation = "라비와 데이트를 나가는 사이가 되고 나서, 한동안 지난 어느 날의 일. 그녀가 우리 집으로 놀러 오게 되었다――"
+
+[[dialogue]]
+speaker = "蘭美"
+original = "「お邪魔しま～す。ここが会長の家ね♪」"
+translation = "「실례하겠습니다~. 여기가 회장 집이네♪」"
+
+[[dialogue]]
+speaker = "蘭美"
+original = "「今日は会長のお母様、仕事でいらっしゃらないのよね？\u3000会ってみたかったけど、残念だわ。挨拶はまた次の機会ね」"
+translation = "「오늘은 회장 어머님, 일 때문에 안 계시는 거지? 만나 뵙고 싶었는데, 아쉽네. 인사는 또 다음 기회에」"
+
+[[dialogue]]
+speaker = "蘭美"
+original = "「それで、言っていた通り、今日は前にオススメしてたボードゲームを沢山持ってきたわ」"
+translation = "「그래서, 말했던 대로, 오늘은 전에 추천했던 보드게임을 잔뜩 가져왔어」"
+
+[[dialogue]]
+speaker = "蘭美"
+original = "「ルールは教えるから、対戦しましょ♪」"
+translation = "「규칙은 가르쳐 줄 테니, 대전하자♪」"
+
+[[dialogue]]
+speaker = "蘭美"
+original = "「おっ、そうきたわね。私は次の手番、どうしようかしら？」"
+translation = "「오, 그렇게 나왔네. 나는 다음 차례, 어떻게 할까?」"
+
+[[dialogue]]
+speaker = "蘭美"
+original = "「って、会長、どうしたの？\u3000なにか気になることでもあるの？」"
+translation = "「랄까, 회장, 왜 그래? 뭔가 신경 쓰이는 거라도 있어?」"
+
+[[dialogue]]
+speaker = "蘭美"
+original = "「――隣に座って、手を繋いでボードゲームしてるのが、変な感じ？」"
+translation = "「――옆에 앉아서, 손을 잡고 보드게임을 하는 게, 이상한 느낌?」"
+
+[[dialogue]]
+speaker = "蘭美"
+original = "「一応、今日は家デートという名目で来ているんだもの。外のデートでも手は繋いで歩いたりするんだし、別におかしくはないでしょう？」"
+translation = "「일단, 오늘은 집 데이트라는 명목으로 온 거잖아. 밖 데이트에서도 손은 잡고 걷기도 하니까, 별로 이상하지 않잖아?」"
+
+[[dialogue]]
+speaker = "蘭美"
+original = "「――ふふっ♪\u3000そうよ。だから、この天才飛び級美少女と手を繋げること、光栄に思いなさい？」"
+translation = "「――후훗♪ 그래. 그러니까, 이 천재 월반 미소녀와 손을 잡을 수 있다는 것을, 영광으로 생각하도록 해?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "（距離感が近すぎる気もするけど……）"
+translation = "（거리가 너무 가까운 것 같기도 하지만……）"
+
+[[dialogue]]
+speaker = "unk"
+original = "蘭美が楽しそうならそれでもいいか、と思う俺なのだった。"
+translation = "라비가 즐거워한다면 그것도 괜찮겠다고, 생각하는 나였다."
+
+[[dialogue]]
+speaker = "蘭美"
+original = "「ん～！\u3000結構長い時間続けてボードゲームやってたし、一旦休憩しましょうか」"
+translation = "「음~! 꽤 오랜 시간 계속 보드게임을 했으니, 일단 휴식할까」"
+
+[[dialogue]]
+speaker = "蘭美"
+original = "「そうだわ、会長。実は今日、私、サプライズを用意してきたの」"
+translation = "「맞다, 회장. 사실 오늘, 나, 서프라이즈를 준비해 왔어」"
+
+[[dialogue]]
+speaker = "蘭美"
+original = "「はい、これ♪」"
+translation = "「자, 이거♪」"
+
+[[dialogue]]
+speaker = "unk"
+original = "これは……もしかしてチョコレート？"
+translation = "이건…… 혹시 초콜릿?"
+
+[[dialogue]]
+speaker = "蘭美"
+original = "「そう、バレンタインチョコよ♪\u3000――時期はもう過ぎてるのに、どうしてかって？」"
+translation = "「그래, 발렌타인 초콜릿이야♪ ――시기는 이미 지났는데, 왜냐고?」"
+
+[[dialogue]]
+speaker = "蘭美"
+original = "「ほら、この前のバレンタインの時は、まだ知り合ったばかりだったし、せつなのチョコ作りを手伝ったりで、渡しそびれちゃったでしょ？」"
+translation = "「이봐, 지난번 발렌타인 때는, 아직 알게 된 지 얼마 안 됐었고, 세츠나의 초콜릿 만들기를 돕거나 해서, 전해 주지 못했잖아?」"
+
+[[dialogue]]
+speaker = "蘭美"
+original = "「それで、最近はデートに行くようにもなって……結構親しくなってきたじゃない？\u3000だから――」"
+translation = "「그래서, 최근에는 데이트도 가게 되고…… 꽤 친해졌잖아? 그러니까――」"
+
+[[dialogue]]
+speaker = "蘭美"
+original = "「大分遅れてではあるけど、作ってみたのよ。というわけで、あげるわ♪」"
+translation = "「꽤 늦긴 했지만, 만들어 봤어. 그런 이유로, 줄게♪」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ありがとう。すごく嬉しい"
+translation = "「고마워. 정말 기뻐」"
+
+[[dialogue]]
+speaker = "蘭美"
+original = "「ん……♪\u3000光栄に思って、受け取りなさい」"
+translation = "「응……♪ 영광으로 생각하고, 받도록 해」"
+
+[[dialogue]]
+speaker = "蘭美"
+original = "「って、なに？\u3000もう食べるの？」"
+translation = "「랄까, 뭐야? 벌써 먹는 거야?」"
+
+[[dialogue]]
+speaker = "蘭美"
+original = "「――せっかくだから？\u3000まぁ……私も作った手前、反応は気になるしね」"
+translation = "「――이왕 이렇게 된 거니까? 뭐…… 나도 만든 입장이니, 반응은 신경 쓰이고」"
+
+[[dialogue]]
+speaker = "蘭美"
+original = "「一応、この私が気合いを入れて、メイドとしての料理スキルを駆使して作ったものだから、味は保証するわよ」"
+translation = "「일단, 이 내가 기합을 넣고, 메이드로서의 요리 스킬을 구사해서 만든 것이니까, 맛은 보장할게」"
+
+[[dialogue]]
+speaker = "unk"
+original = "俺はバレンタインチョコの封を開けて、食べてみる。"
+translation = "나는 발렌타인 초콜릿의 봉투를 열고, 먹어 본다."
+
+[[dialogue]]
+speaker = "蘭美"
+original = "「……どう？」"
+translation = "「……어때?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "うまい！\u3000さすが蘭美の作ったチョコだ"
+translation = "「맛있다! 역시 라비가 만든 초콜릿이야」"
+
+[[dialogue]]
+speaker = "蘭美"
+original = "「そう。よかったわ。ふふっ……♪」"
+translation = "「그래. 다행이네. 후훗……♪」"
+
+[[dialogue]]
+speaker = "蘭美"
+original = "「って、んっ……<emoji=heart04>\u3000い、いきなり頭を撫でたりして、なに？」"
+translation = "「랄까, 응읏……<emoji=heart04> 아, 갑자기 머리를 쓰다듬거나 해서, 뭐야?」"
+
+[[dialogue]]
+speaker = "蘭美"
+original = "「これも男女のデートのスキンシップ？\u3000私のこと、褒めてくれてるわけ？」"
+translation = "「이것도 남녀 데이트의 스킨십? 나를, 칭찬해 주는 거야?」"
+
+[[dialogue]]
+speaker = "蘭美"
+original = "「ま、まぁ、別に悪い気分はしないけど……♪」"
+translation = "「마, 뭐, 별로 나쁜 기분은 안 들지만……♪」"
+
+[[dialogue]]
+speaker = "unk"
+original = "蘭美は長い耳はぴょこんと持ち上がらせ、機嫌よさそうに呟くのだった。"
+translation = "라비는 긴 귀를 쫑긋 세우고, 기분 좋은 듯 중얼거리는 것이었다."
+
+[[dialogue]]
+speaker = "unk"
+original = "２人でいる時間はあっという間に過ぎ、気づけばもう日が暮れて、遅い時間になっていた。"
+translation = "둘이서 있는 시간은 눈 깜짝할 사이에 지나, 정신 차려 보니 이미 해가 지고, 늦은 시간이 되어 있었다."
+
+[[dialogue]]
+speaker = "蘭美"
+original = "「そろそろ帰らないといけないわね。今日はなかなか楽しかったわ」"
+translation = "「슬슬 돌아가야겠네. 오늘은 꽤 즐거웠어」"
+
+[[dialogue]]
+speaker = "蘭美"
+original = "「――ん？\u3000なに、会長？\u3000バレンタインチョコがどうかしたの？」"
+translation = "「――응? 뭐야, 회장? 발렌타인 초콜릿이 어떻다는 거야?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "今度、お返しにクッキーを作るよ"
+translation = "「다음에, 답례로 쿠키를 만들게」"
+
+[[dialogue]]
+speaker = "蘭美"
+original = "「……！\u3000それって、ホワイトデーの……？」"
+translation = "「……! 그거, 화이트 데이의……?」"
+
+[[dialogue]]
+speaker = "蘭美"
+original = "「――ふふっ……♪\u3000なら、期待しているわね♪」"
+translation = "「――후훗……♪ 그럼, 기대하고 있을게♪」"
+
+[[dialogue]]
+speaker = "蘭美"
+original = "「あっ、会長。ちょっと屈んでみなさい。頭に埃が付いてるわよ。取ってあげるわ」"
+translation = "「앗, 회장. 잠깐 몸을 숙여 봐. 머리에 먼지가 붙었네. 떼어 줄게」"
+
+[[dialogue]]
+speaker = "蘭美"
+original = "「ちゅっ……<emoji=heart04>」"
+translation = "「츄릅……<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "unk"
+original = "えっ！？\u3000い、いま頬っぺたに……！？"
+translation = "엣!? 지, 지금 뺨에……!?"
+
+[[dialogue]]
+speaker = "蘭美"
+original = "「――ふふっ……♪\u3000これもまた、男女のスキンシップよ」"
+translation = "「――후훗……♪ 이것도 역시, 남녀의 스킨십이야」"
+
+[[dialogue]]
+speaker = "蘭美"
+original = "「また明日、学園でね。会長♪」"
+translation = "「내일 또, 학원에서 봐. 회장♪」"
+
+[[dialogue]]
+speaker = "unk"
+original = "少し照れた笑顔を浮かべて、蘭美は帰っていく。"
+translation = "조금 수줍은 미소를 띠우고, 라비는 돌아간다."
+
+[[dialogue]]
+speaker = "unk"
+original = "残された俺は、頬に残った熱に手で触れながら、しばらくドキドキしてしまうのだった――"
+translation = "남겨진 나는, 뺨에 남은 열기에 손으로 만지면서, 한동안 두근거리고 마는 것이었다――"
+

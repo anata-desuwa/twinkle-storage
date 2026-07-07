@@ -1,0 +1,335 @@
+[[dialogue]]
+speaker = "フィオナ"
+original = "「フレイムフォーム……？？」"
+translation = "「플레임 폼……??」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「そう、さっき突然変身できるようになったんだ！\u3000かっこいいだろ！」"
+translation = "「그래, 아까 갑자기 변신할 수 있게 됐어! 멋지지!」"
+
+[[dialogue]]
+speaker = "アルテ"
+original = "「おや、私の持っている衣装に似ています。その華麗さゆえに真似したくなるのも理解できますが、さすがに私には及びませんね」"
+translation = "「오야, 제가 가진 의상과 비슷하군요. 그 화려함 때문에 흉내 내고 싶어지는 것도 이해합니다만, 역시 저에게는 미치지 못하네요.」"
+
+[[dialogue]]
+speaker = "アルテ"
+original = "「まぁでも、私の次くらいには似合ってますよ。自信を持ってください」"
+translation = "「뭐 그래도 제 다음 정도로는 어울립니다. 자신감을 가지세요.」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「なんだ、こいつ……？\u3000妙に上から目線だな……」"
+translation = "「뭐야, 이 녀석은……? 묘하게 위에서 내려다보는 눈빛이군……」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「アルテはこういう子なのよ」"
+translation = "「아르테는 원래 이런 아이야.」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「そ、そうか……そういうもんなのか……」"
+translation = "「그, 그런가…… 그런 거군……」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「だけど１つ問題があってな。このフォームに変身したと同時に、普通のフォームに変身出来なくなっちゃったんだ」"
+translation = "「하지만 한 가지 문제가 있어서 말이야. 이 폼으로 변신함과 동시에 보통 폼으로 변신할 수 없게 되어버렸어.」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「それって大問題じゃないの！」"
+translation = "「그거 큰 문제 아니야!」"
+
+[[dialogue]]
+speaker = "アルテ"
+original = "「タイミングを考えると……これもあの黒ベア子の起こした異変のひとつ、ということですかね？」"
+translation = "「타이밍을 생각하면…… 이것도 그 흑베아코가 일으킨 이변 중 하나라는 걸까요?」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「多分、そういうことね。ひとまず当面は……」"
+translation = "「아마 그렇겠지. 일단 당분간은……」"
+
+[[dialogue]]
+speaker = "unk"
+original = "相談の結果、プトラは星見家、アルテは九浄家に滞在することになった。"
+translation = "상담 결과, 푸트라는 호시미 가문, 아르테는 쿠죠 가문에 머물기로 했다."
+
+[[dialogue]]
+speaker = "unk"
+original = "方針が定まったところで、２人にこの世界のことを知ってもらおうと、軽く街を案内することに。"
+translation = "방침이 정해진 참에 두 사람에게 이 세계를 알려주기 위해 가볍게 거리를 안내하기로 했다."
+
+[[dialogue]]
+speaker = "プトラ"
+original = "「うわー、人がいっぱい！\u3000着てる服もあたしたちの世界と全然違うな～！」"
+translation = "「우와ー, 사람이 많아! 입고 있는 옷도 우리 세계랑 전혀 다르네～!」"
+
+[[dialogue]]
+speaker = "アルテ"
+original = "「ここも巨大な建物がたくさんありますね。しかし先ほどの街よりも落ち着いた雰囲気です」"
+translation = "「여기도 거대한 건물이 잔뜩 있군요. 하지만 아까 거리보다는 차분한 분위기입니다.」"
+
+[[dialogue]]
+speaker = "プトラ"
+original = "「ねえねえ、あっちの大きな建物はなんだろ？」"
+translation = "「저기 저기, 저쪽의 큰 건물은 뭐야?」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「あれは東京駅よ」"
+translation = "「저건 도쿄역이야.」"
+
+[[dialogue]]
+speaker = "プトラ"
+original = "「駅！？\u3000この世界の列車！？」"
+translation = "「역!? 이 세계의 열차!?」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「ああ、当然プトラさんは興味を示しますよね」"
+translation = "「아아, 역시 푸트라 씨는 관심을 보이시는군요.」"
+
+[[dialogue]]
+speaker = "プトラ"
+original = "「こっちの世界の列車がどんな感じか見てみたいな～」"
+translation = "「이쪽 세계의 열차가 어떤 느낌인지 보고 싶어～」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「乗ってみるか？」"
+translation = "「타볼래?」"
+
+[[dialogue]]
+speaker = "プトラ"
+original = "「いいの！？」"
+translation = "「좋아!?」"
+
+[[dialogue]]
+speaker = "アルテ"
+original = "「面白そうですね。私も乗ってみたいです」"
+translation = "「재밌겠네요. 저도 타보고 싶습니다.」"
+
+[[dialogue]]
+speaker = "プトラ"
+original = "「でも、幻霧の中でミストモンスターに襲われたらどうしよう？\u3000今の装備じゃ戦えないよ」"
+translation = "「하지만 환무 속에서 미스트 몬스터에게 습격당하면 어떡하지? 지금 장비로는 못 싸워.」"
+
+[[dialogue]]
+speaker = "unk"
+original = "幻霧？"
+translation = "환무?"
+
+[[dialogue]]
+speaker = "プトラ"
+original = "「うん……イリスクラウドは大陸全土を幻霧っていう謎の霧に覆われてるの」"
+translation = "「응…… 이리스 클라우드는 대륙 전역이 환무라는 수수께끼의 안개에 뒤덮여 있어.」"
+
+[[dialogue]]
+speaker = "プトラ"
+original = "「それでね、霧の中には凶悪なミストモンスターが棲みついていて、人を惑わせたり襲ったりするんだ」"
+translation = "「그래서 말이야, 안개 속에는 흉악한 미스트 몬스터가 살고 있어서 사람을 홀리거나 습격해.」"
+
+[[dialogue]]
+speaker = "プトラ"
+original = "「そんな霧の中を突っ切って走ることが出来る列車──それが魔導列車ミストトレインなんだよ！」"
+translation = "「그런 안개 속을 뚫고 달릴 수 있는 열차── 그게 마도 열차 미스트 트레인이야!」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「そっちはそっちで大変な世界みたいね……」"
+translation = "「그쪽은 그쪽대로 힘든 세계인 모양이네……」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「大丈夫です。こちらの世界に幻霧は発生しませんから」"
+translation = "「괜찮습니다. 이쪽 세계에는 환무가 발생하지 않으니까요.」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「代わりにアステラが発生して、モンスターに襲われる可能性もあるけどね」"
+translation = "「대신 아스테라가 발생해서 몬스터에게 습격당할 가능성은 있지만 말이야.」"
+
+[[dialogue]]
+speaker = "プトラ"
+original = "「モンスター？\u3000ミストモンスターじゃないモンスターがこっちにはいるんだ？」"
+translation = "「몬스터? 미스트 몬스터가 아닌 몬스터가 이쪽에는 있는 거야?」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「この世界は、リクリエという破滅の危機に直面しているわ」"
+translation = "「이 세계는 리크리에라는 파멸의 위기에 직면해 있어.」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「リクリエはモンスターを生み出し、モンスターは人々や街を襲います。アステラはモンスターの巣なんです」"
+translation = "「리크리에는 몬스터를 만들어내고, 몬스터는 사람들이나 거리를 습격해. 아스테라는 몬스터의 둥지야.」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「あたしたち星騎士は、日夜そのモンスターと戦ってるんだ！」"
+translation = "「우리 성기사는 밤낮으로 그 몬스터와 싸우고 있어!」"
+
+[[dialogue]]
+speaker = "プトラ"
+original = "「ほぇ～……こっちの世界も大変なんだ……」"
+translation = "「호에～…… 이쪽 세계도 힘들구나……」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「ま、プトラとアルテは安心してていいぞ。いざという時はあたしたちが守るからな！」"
+translation = "「뭐, 푸트라랑 아르테는 안심하고 있어도 돼. 유사시에는 우리가 지켜줄 테니까!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "山手線に乗った俺たちは、ぐるりと一周して東京駅へと戻ってきた。"
+translation = "야마노테선을 탄 우리들은 한 바퀴를 돌아 도쿄역으로 돌아왔다."
+
+[[dialogue]]
+speaker = "unk"
+original = "電車から降りて駅の外へ出ると、プトラの魂が抜けかかっている。"
+translation = "열차에서 내려 역 밖으로 나오자, 푸트라의 넋이 반쯤 나가 있다."
+
+[[dialogue]]
+speaker = "プトラ"
+original = "「…………」"
+translation = "「…………」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「プトラ、どうしちゃったの？」"
+translation = "「푸트라, 왜 그래?」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「おそらく、カルチャーショックを受けてるんじゃないかと」"
+translation = "「아마 컬처 쇼크를 받은 게 아닐까 싶네요.」"
+
+[[dialogue]]
+speaker = "プトラ"
+original = "「特鉄隊じゃない一般の人たちもミストトレイン……じゃない列車に乗ってるし……」"
+translation = "「특철대원이 아닌 일반인들도 미스트 트레인……이 아니라 열차를 타고 있고……」"
+
+[[dialogue]]
+speaker = "プトラ"
+original = "「幻霧が無くなれば、あたしたちの世界もあんな風になるのかな」"
+translation = "「환무가 사라지면 우리 세계도 저런 모습이 될까?」"
+
+[[dialogue]]
+speaker = "プトラ"
+original = "「あたし、何だかワクワクしてきたよ！」"
+translation = "「나, 왠지 두근거리기 시작했어!」"
+
+[[dialogue]]
+speaker = "アルテ"
+original = "「きっとそうなりますよ。もぐもぐ……」"
+translation = "「꼭 그렇게 될 거예요. 우물우물……」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「で、おまえは何をしこたま買い込んでるんだ？」"
+translation = "「그건 그렇고, 너는 뭘 그렇게 잔뜩 사들인 거야?」"
+
+[[dialogue]]
+speaker = "アルテ"
+original = "「おみやげコーナーを見ていたら美味しそうなものがたくさん並んでいたので、フィオナにお願いして買ってもらいました」"
+translation = "「기념품 코너를 구경하다 보니 맛있어 보이는 게 잔뜩 진열되어 있어서, 피오나 씨에게 부탁해서 샀어요.」"
+
+[[dialogue]]
+speaker = "unk"
+original = "……フィオナ？"
+translation = "……피오나?"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「お店の前で食べたそうにしていたので……つい」"
+translation = "「가게 앞에서 너무 먹고 싶어 하길래…… 그만.」"
+
+[[dialogue]]
+speaker = "アルテ"
+original = "「ん～、フワフワの生地にバナナ味のクリーム……このお菓子、お土産に持って帰りたいですね」"
+translation = "「음~ 폭신폭신한 반죽에 바나나맛 크림…… 이 과자, 기념품으로 사 가고 싶네요.」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「フィオナ、甘やかしちゃだめじゃないの！」"
+translation = "「피오나, 너무 응석을 받아주면 안 되잖아!」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「す、すみません……」"
+translation = "「죄, 죄송합니다……」"
+
+[[dialogue]]
+speaker = "アルテ"
+original = "「おや、あれは……？」"
+translation = "「어라, 저건……?」"
+
+[[dialogue]]
+speaker = "アルテ"
+original = "「建物の中に絵が飾ってありますが、美術館というわけではなさそうですね」"
+translation = "「건물 안에 그림이 걸려 있는데, 미술관 같지는 않아 보이네요.」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「あれはギャラリーですね。スペースを借りて個展をしているんです」"
+translation = "「저건 갤러리에요. 공간을 빌려서 개인전을 열고 있는 거죠.」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「ここから少し行くと銀座って場所があるんですけど、そこにはああいうギャラリーが沢山あるんですよ」"
+translation = "「여기서 조금만 가면 긴자라는 곳이 있는데, 거기엔 저런 갤러리가 아주 많답니다.」"
+
+[[dialogue]]
+speaker = "アルテ"
+original = "「ほうほう」"
+translation = "「호오호오.」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「へぇ、藝術家の血が騒ぐのかしら？\u3000行ってみたい？」"
+translation = "「헤에, 예술가의 피가 끓는 걸까? 가보고 싶어?」"
+
+[[dialogue]]
+speaker = "アルテ"
+original = "「面白そうですね。ですが、それより私はあちこちに建っている料理のお店の方に興味があります」"
+translation = "「흥미롭네요. 하지만 그것보다 저는 여기저기 세워진 음식점 쪽에 더 관심이 있어요.」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「あなたさっきお菓子を食べてたでしょう？」"
+translation = "「너 방금 과자 먹었잖아?」"
+
+[[dialogue]]
+speaker = "アルテ"
+original = "「それは別腹です」"
+translation = "「그건 디저트 배죠.」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「でも確かに、そろそろお腹が空いてきた頃合いではあるわね」"
+translation = "「하긴 확실히 슬슬 배가 고파질 때긴 하네.」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「どこかお店を探して入りましょうか？」"
+translation = "「어디 가게를 찾아서 들어갈까요?」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「２人は何が食べたいんだ？」"
+translation = "「둘은 뭐가 먹고 싶어?」"
+
+[[dialogue]]
+speaker = "アルテ"
+original = "「それはもちろん──」"
+translation = "「그건 당연히──」"
+
+[[dialogue]]
+speaker = "プトラ"
+original = "「あたしはね──」"
+translation = "「나는 말이야──」"
+

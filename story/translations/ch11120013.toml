@@ -1,0 +1,305 @@
+[[dialogue]]
+speaker = "unk"
+original = "第３話,チナの地元,P"
+translation = "제3화, 치나의 동네, P"
+
+[[dialogue]]
+speaker = "unk"
+original = "今日はチナとともに繁華街に来ていた。"
+translation = "오늘은 치나와 함께 번화가에 와 있었다."
+
+[[dialogue]]
+speaker = "unk"
+original = "チナだけで外出を許すことはできないので、俺が監視という名目でついている。"
+translation = "치나 혼자 외출을 허락할 수는 없으므로, 내가 감시라는 명목으로 따라붙었다."
+
+[[dialogue]]
+speaker = "チナ"
+original = "「別にあんたが監視じゃなくてもよかっただろ。星徒会長なんだから忙しいんじゃないのか？」"
+translation = "「딱히 네가 감시가 아니어도 됐잖아. 성도회장인데 바쁘지 않아?」"
+
+[[dialogue]]
+speaker = "チナ"
+original = "「あんたがアタシと出かけたかった……？\u3000あっそ。そりゃ物好きなことで」"
+translation = "「네가 나랑 외출하고 싶었다……? 흥. 별난 취미도 다 있네」"
+
+[[dialogue]]
+speaker = "チナ"
+original = "「……外出の目的？\u3000別にねーよ。ずっと同じ部屋にいると気が滅入るから、外の空気を吸いたいだけだ」"
+translation = "「……외출 목적? 딱히 없어. 계속 같은 방에 있으니 기가 막혀서, 바깥 공기를 쐬고 싶을 뿐이다」"
+
+[[dialogue]]
+speaker = "チナ"
+original = "「しいて言うなら──あった！\u3000<ruby>肉肉飯店<rt>ローローハンテン</rt></ruby>だ！」"
+translation = "「굳이 말하자면── 찾았다! 육육반점이다!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "肉肉飯店はこの辺りで有名な、とても美味しい肉まんのお店だ。"
+translation = "육육반점은 이 근방에서 유명한, 아주 맛있는 고기만두 가게다."
+
+[[dialogue]]
+speaker = "unk"
+original = "俺もこの近くでアルバイトしたことがあるので、何度か近くを通ったことがある。"
+translation = "나도 이 근처에서 아르바이트를 한 적이 있어서, 몇 번인가 근처를 지나친 적이 있다."
+
+[[dialogue]]
+speaker = "チナ"
+original = "「ん？\u3000アタシの記憶より店がでかくなってるような……？\u3000アタシの襲撃で壊れた後、煌嶺が金を出して改装した？」"
+translation = "「응? 내 기억보다 가게가 커진 것 같은데……? 내가 습격해서 부순 후에, 코우레이가 돈을 내서 개장했나?」"
+
+[[dialogue]]
+speaker = "チナ"
+original = "「そりゃ悪かったな……。でもそんな金をポンと出せるってことは、煌嶺は相当な金持ちなんだな」"
+translation = "「그건 미안하게 됐네……. 하지만 그런 돈을 펑펑 낼 수 있다는 건, 코우레이는 상당한 부자라는 거네」"
+
+[[dialogue]]
+speaker = "チナ"
+original = "「そんなやつに目を付けられるなんて、肉肉飯店も有名になったもんだ」"
+translation = "「그런 녀석에게 눈도장을 찍히다니, 육육반점도 유명해졌군」"
+
+[[dialogue]]
+speaker = "チナ"
+original = "「魔王は食べたことあるか知らないが、肉肉飯店の肉まんは最高なんだぞ。皮はふかふかで、中の肉はジューシーで、本当にうまいんだ」"
+translation = "「마왕은 먹어봤는지 모르겠지만, 육육반점의 고기만두는 최고라고. 껍질은 폭신폭신하고, 속의 고기는 육즙이 풍부해서, 정말 맛있어」"
+
+[[dialogue]]
+speaker = "チナ"
+original = "「父さんが買ってきてくれた時は、ちょっとお祭り気分だったな」"
+translation = "「아버지가 사다 주셨을 때는, 살짝 축제 분위기였지」"
+
+[[dialogue]]
+speaker = "unk"
+original = "せっかくだから買ってくるよ"
+translation = "모처럼이니 사 올게"
+
+[[dialogue]]
+speaker = "チナ"
+original = "「いいけど、けっこう並ぶぞ？\u3000朝イチとかじゃないと、１時間くらい並ぶ時もあるし」"
+translation = "「좋지만, 꽤 줄 서야 할걸? 아침 일찍이 아니면, 한 시간 정도 줄 설 때도 있고」"
+
+[[dialogue]]
+speaker = "チナ"
+original = "「１人で並ぶから大丈夫……？\u3000オイ待て、あんたはアタシの監視で来てるんだろうが。置いてってどうする」"
+translation = "「혼자 줄 설 테니 괜찮다고……? 야 잠깐, 너는 나를 감시하러 온 거잖아. 두고 가면 어쩌자는 거야」"
+
+[[dialogue]]
+speaker = "チナ"
+original = "「仕方ないな。アタシも一緒に並ぶよ」"
+translation = "「어쩔 수 없네. 나도 같이 줄 설게」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ありがとう！"
+translation = "고마워!"
+
+[[dialogue]]
+speaker = "チナ"
+original = "「お礼言うとこじゃないだろ……変なやつ」"
+translation = "「고맙다고 할 상황이 아니잖아…… 이상한 녀석」"
+
+[[dialogue]]
+speaker = "unk"
+original = "それからきっかり１時間並んで、肉肉飯店の肉まんをゲットした。"
+translation = "그리고 정확히 한 시간을 줄 서서, 육육반점의 고기만두를 손에 넣었다."
+
+[[dialogue]]
+speaker = "チナ"
+original = "「アタシの分も買ってもらってよかったのか？\u3000……一緒に並んでくれたお礼？\u3000だから礼はいいって言ってんのに」"
+translation = "「내 몫까지 사줘도 괜찮은 거야? ……같이 줄 서준 보답? 그러니까 고맙다는 말은 필요 없다고 하는데」"
+
+[[dialogue]]
+speaker = "チナ"
+original = "「まぁいいや、それなら遠慮なく食うぞ。いただきまーす」"
+translation = "「뭐 됐어, 그럼 사양 않고 먹을게. 잘 먹겠습니다」"
+
+[[dialogue]]
+speaker = "unk"
+original = "！\u3000めちゃくちゃ美味しい！"
+translation = "! 엄청 맛있다!"
+
+[[dialogue]]
+speaker = "チナ"
+original = "「ん～～っ♪\u3000やっぱり肉肉飯店の肉まんは最高だ！」"
+translation = "「음~~♪ 역시 육육반점의 고기만두는 최고야!」"
+
+[[dialogue]]
+speaker = "チナ"
+original = "「あんたのＤＩＳＣ、鳴ってるぞ。モンスターか？」"
+translation = "「네 디스크, 울리고 있어. 몬스터인가?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "俺、行ってくるよ"
+translation = "나, 갔다 올게"
+
+[[dialogue]]
+speaker = "チナ"
+original = "「いや、あんたは監視だからアタシを置いていっちゃダメだろ。アタシが逃げたらどうするんだよ」"
+translation = "「야, 너는 감시니까 나를 두고 가면 안 되잖아. 내가 도망가면 어쩌려고」"
+
+[[dialogue]]
+speaker = "チナ"
+original = "「チナはそんなことしないから大丈夫……？\u3000なんでそんなこと言えるんだよ……はぁ、好きにしろ」"
+translation = "「치나는 그런 짓 안 할 테니 괜찮다고……? 어떻게 그런 말을 할 수 있는 거야…… 하아, 마음대로 해」"
+
+[[dialogue]]
+speaker = "チナ"
+original = "（アルタイルのリクリエを止めれば、デネブのリクリエが進む。デネブのリクリエを止めれば、アルタイルのリクリエが進む。ルヴィにそう言われた）"
+translation = "（알타이르의 리크리에를 막으면, 데네브의 리크리에가 진행된다. 데네브의 리크리에를 막으면, 알타이르의 리크리에가 진행된다. 루비에게 그렇게 들었다）"
+
+[[dialogue]]
+speaker = "チナ"
+original = "（デネブのリクリエが進む可能性がある以上、アタシはアルタイルを守ることはできない）"
+translation = "（데네브의 리크리에가 진행될 가능성이 있는 이상, 나는 알타이르를 지킬 수 없다）"
+
+[[dialogue]]
+speaker = "モンスター"
+original = "「イー！」"
+translation = "「이이ー!」"
+
+[[dialogue]]
+speaker = "チナ"
+original = "「つっても、モンスターがアタシに向かってくるんだから仕方ないよな！」"
+translation = "「라고 해도, 몬스터가 나한테 달려드는데 어쩔 수 없잖아!」"
+
+[[dialogue]]
+speaker = "チナ"
+original = "「これは正当防衛だ！\u3000消えろモンスター！」"
+translation = "「이건 정당방위다! 사라져라 몬스터!」"
+
+[[dialogue]]
+speaker = "モンスター"
+original = "「イー！？」"
+translation = "「이이ー!?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "チナの参戦のおかげで、あっという間にモンスターを駆逐できた。"
+translation = "치나의 참전 덕분에, 순식간에 몬스터를 구축할 수 있었다."
+
+[[dialogue]]
+speaker = "unk"
+original = "俺も周囲の無事を確認して、チナのところに戻る。"
+translation = "나도 주변의 무사함을 확인하고, 치나에게 돌아간다."
+
+[[dialogue]]
+speaker = "チナ"
+original = "「よう、そっちも終わったのか」"
+translation = "「어이, 너도 끝났냐」"
+
+[[dialogue]]
+speaker = "チナ"
+original = "「礼はいらない。アタシは街を守ったんじゃなくて、モンスターが襲ってきたから自分の身を守っただけだ」"
+translation = "「고맙다는 말은 필요 없어. 나는 마을을 지킨 게 아니라, 몬스터가 습격해왔으니까 내 몸을 지킨 것뿐이다」"
+
+[[dialogue]]
+speaker = "チナ"
+original = "「んじゃ、肉まんも食ったしそろそろ帰るか」"
+translation = "「그럼, 고기만두도 먹었으니 슬슬 돌아갈까」"
+
+[[dialogue]]
+speaker = "unk"
+original = "アルタイルの両親に会っていく？"
+translation = "알타이르의 부모님을 만나고 갈래?"
+
+[[dialogue]]
+speaker = "チナ"
+original = "「──！」"
+translation = "「──!」"
+
+[[dialogue]]
+speaker = "チナ"
+original = "「そうか。こっちにはうちの親がいるんだな……」"
+translation = "「그렇지. 여기에는 우리 부모님이 계시지……」"
+
+[[dialogue]]
+speaker = "チナ"
+original = "「でもダメだ」"
+translation = "「하지만 안 돼」"
+
+[[dialogue]]
+speaker = "チナ"
+original = "「アタシはアルタイルを滅ぼそうとしたんだ。それなのに、都合良く会いに行けるか」"
+translation = "「나는 알타이르를 멸망시키려 했어. 그런데, 형편 좋게 만나러 갈 수 있겠어」"
+
+[[dialogue]]
+speaker = "チナ"
+original = "「それにアタシのせいで、アルタイルのアタシは眠ってる。向こうからしたら、さっさと消えてほしい邪魔者だろ」"
+translation = "「게다가 나 때문에, 알타이르의 나는 잠들어 있어. 그쪽 입장에선, 빨리 사라져줬으면 하는 방해꾼이겠지」"
+
+[[dialogue]]
+speaker = "unk"
+original = "そんなことないよ"
+translation = "그렇지 않아"
+
+[[dialogue]]
+speaker = "チナ"
+original = "「はぁ？\u3000どうしてそんなこと言えるんだよ」"
+translation = "「하아? 어떻게 그런 말을 할 수 있는 거야」"
+
+[[dialogue]]
+speaker = "unk"
+original = "だって知っているから。"
+translation = "왜냐하면 알고 있으니까."
+
+[[dialogue]]
+speaker = "unk"
+original = "世界を超えて出会った双子のことを。"
+translation = "세계를 넘어 만난 쌍둥이의 일을."
+
+[[dialogue]]
+speaker = "unk"
+original = "平行世界からやってきた娘もいる。"
+translation = "평행 세계에서 온 딸도 있다."
+
+[[dialogue]]
+speaker = "unk"
+original = "デネブにも母さんがいた。"
+translation = "데네브에도 엄마가 있었다."
+
+[[dialogue]]
+speaker = "unk"
+original = "確かに生きる世界は違う。この世界にはこの世界の家族がいる。"
+translation = "확실히 사는 세계는 다르다. 이 세계에는 이 세계의 가족이 있다."
+
+[[dialogue]]
+speaker = "unk"
+original = "それでも、他人だと割り切ることなんてできない。"
+translation = "그럼에도, 타인이라고 단정 지을 수는 없다."
+
+[[dialogue]]
+speaker = "チナ"
+original = "「……なんだよ、何か言いたそうな顔して。ちょっと寂しそうな顔してるぞ」"
+translation = "「……뭐야, 뭔가 말하고 싶은 듯한 얼굴을 하고. 살짝 쓸쓸해 보이는 얼굴을 하고 있잖아」"
+
+[[dialogue]]
+speaker = "チナ"
+original = "「会わないって言ったら会わない。アタシがそう決めたんだ」"
+translation = "「안 만난다고 했으면 안 만나는 거야. 내가 그렇게 결정했어」"
+
+[[dialogue]]
+speaker = "unk"
+original = "……そっか"
+translation = "……그렇구나"
+
+[[dialogue]]
+speaker = "チナ"
+original = "「だから何であんたが寂しそうな顔するんだよ……あーもう。こういう雰囲気ってニガテなんだよな……」"
+translation = "「그러니까 왜 네가 쓸쓸한 얼굴을 하는 건데…… 아, 정말. 이런 분위기는 질색이라고……」"
+
+[[dialogue]]
+speaker = "チナ"
+original = "「よし、気が変わった。とっておきの場所に連れてってやる。路地を入ったところにあるボロいゲームセンターでな、珍しいゲームがたくさんあるんだ」"
+translation = "「좋아, 마음이 바뀌었다. 비장의 장소로 데려다줄게. 골목으로 들어간 곳에 있는 허름한 게임 센터인데, 희귀한 게임이 잔뜩 있어」"
+
+[[dialogue]]
+speaker = "チナ"
+original = "「ゲームで勝負だ、魔王！\u3000ボコボコにしてやる！」"
+translation = "「게임으로 승부다, 마왕! 박살 내 주마!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "それから日が暮れるまで、チナとゲーム勝負をしたのだった。"
+translation = "그리고 해가 질 때까지, 치나와 게임 승부를 했던 것이었다."
+

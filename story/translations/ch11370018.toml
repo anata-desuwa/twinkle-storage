@@ -1,0 +1,640 @@
+[[dialogue]]
+speaker = "unk"
+original = "放課後の星徒会室。その日、レミカは夜になってから、１人事務作業をしている会長のもとを訪ねていた。"
+translation = "방과 후의 성도회실. 그날, 레미카는 밤이 되어서야 혼자 사무 작업을 하고 있는 회장을 찾아왔다."
+
+[[dialogue]]
+speaker = "レミカ（幼少）"
+original = "「会長、お疲れ様」"
+translation = "「회장, 수고했어.」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「あれ？\u3000レミカ、お疲れ様。確か今日は、アイドルの仕事があるって言ってなかったっけ？」"
+translation = "「어라? 레미카, 수고했어. 분명 오늘은 아이돌 일이 있다고 하지 않았어?」"
+
+[[dialogue]]
+speaker = "レミカ（幼少）"
+original = "「うん。でも、今日はたまたま早く終わったんだ」"
+translation = "「응. 하지만 오늘은 마침 일찍 끝났거든.」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「というか、どうしてリトルフォームに？」"
+translation = "「그나저나, 왜 리틀 폼 상태야?」"
+
+[[dialogue]]
+speaker = "レミカ（幼少）"
+original = "「それには、ちょっと理由があって……ほら、最近お互い仕事が忙しくて、その……恋人としての時間がなかなか取れてなかったでしょ？」"
+translation = "「그건 좀 이유가 있어서…… 봐봐, 최근 서로 일이 바빠서, 그…… 연인으로서 시간을 좀처럼 내지 못했잖아?」"
+
+[[dialogue]]
+speaker = "レミカ（幼少）"
+original = "「だから……会長。先に謝っておくね。――ごめん！」"
+translation = "「그러니까…… 회장. 먼저 사과해 둘게. ――미안!」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「……へ？」"
+translation = "「……에?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "不意を突かれて目を瞬かせる会長の前で、レミカが取り出してみせたのは、ヴィーナスがリトルフォーム時に使えるようになった武器――『ビーム銃』であった。"
+translation = "허를 찔려 눈을 깜빡이는 회장 앞에서, 레미카가 꺼내 보인 것은 비너스가 리틀 폼일 때 사용할 수 있게 된 무기―― 『빔 총』이었다."
+
+[[dialogue]]
+speaker = "レミカ（幼少）"
+original = "「さ、催眠ゴッデスビーム！」"
+translation = "「최, 최면 가디스 빔!」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「催眠！？\u3000ふにゃあ～……」"
+translation = "「최면!? 후냐아~……」"
+
+[[dialogue]]
+speaker = "unk"
+original = "なぜレミカがヴィーナスのビーム銃を持っているのか。そう考える間もなく、会長の意識は、糸が切れたようにふわりと落ちていくのだった。"
+translation = "왜 레미카가 비너스의 빔 총을 가지고 있는가. 그런 생각을 할 겨를도 없이 회장의 의식은 실이 끊어진 것처럼 둥실 떠오르며 떨어져 갔다."
+
+[[dialogue]]
+speaker = "レミカ（幼少）"
+original = "「――ヴィーナスに相談したら貸してくれたけど……ほ、本当にこれで催眠にかかってるのかな？」"
+translation = "「――비너스한테 상담했더니 빌려줬는데…… 정, 정말 이걸로 최면에 걸린 걸까?」"
+
+[[dialogue]]
+speaker = "レミカ（幼少）"
+original = "「えっと……会長。これから私が言うお願い、聞いてくれる？」"
+translation = "「저기…… 회장. 이제부터 내가 하는 부탁, 들어줄래?」"
+
+[[dialogue]]
+speaker = "レミカ（幼少）"
+original = "「……あ、頷いてくれた」"
+translation = "「……아, 고개를 끄덕여줬어.」"
+
+[[dialogue]]
+speaker = "レミカ（幼少）"
+original = "「そ、それじゃあ……ちょっと、耳を貸して？\u3000ごにょごにょ――」"
+translation = "「그, 그럼…… 잠깐 귀 좀 빌려줄래? 소곤소곤――」"
+
+[[dialogue]]
+speaker = "unk"
+original = "レミカは少し頬を赤らめながら、会長の耳元へ顔を寄せ、ある『<b>ロールプレイ</b>』を、囁くように吹き込んでいく。"
+translation = "레미카는 뺨을 살짝 붉히며 회장의 귓가에 얼굴을 가까이 대고, 어떤 『<b>롤플레이</b>』를 속삭이듯 불어넣는다."
+
+[[dialogue]]
+speaker = "unk"
+original = "そして――"
+translation = "그리고――"
+
+[[dialogue]]
+speaker = "レミカ"
+original = "「――きゃっ！？\u3000ダメだよ、プロデューサー！\u3000どうしてこんなことを……！」"
+translation = "「――꺄앗!? 안 돼요, 프로듀서님! 어째서 이런 짓을……!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "小さな姿のレミカは『新人アイドル』として、『担当プロデューサー』に『鍵のかけられた控え室』で襲われることになった。"
+translation = "어린 모습의 레미카는 『신인 아이돌』로서, 『담당 프로듀서』에게 『잠긴 대기실』에서 덮쳐지게 되었다."
+
+[[dialogue]]
+speaker = "クロト"
+original = "「決まっているだろう？\u3000プロデューサーとして、新人アイドルへの教育ってやつだ」"
+translation = "「당연한 거 아닌가? 프로듀서로서 신인 아이돌에 대한 교육이라는 거다.」"
+
+[[dialogue]]
+speaker = "unk"
+original = "プロデューサーはニヤリと悪い笑みを浮かべて、レミカの太ももからお尻にかけて、いやらしい手つきで撫でていく。"
+translation = "프로듀서는 씨익 사악한 미소를 지으며 레미카의 허벅지부터 엉덩이까지 음란한 손길로 쓰다듬는다."
+
+[[dialogue]]
+speaker = "クロト"
+original = "「それに……こんな瑞々しい果実を目の前にしたら、味見したくなるというものだろう？」"
+translation = "「게다가…… 이런 싱싱한 과실을 눈앞에 두면, 맛보고 싶어지는 법이잖아?」"
+
+[[dialogue]]
+speaker = "レミカ"
+original = "「さ、最低……<emoji=heart04>\u3000私、プロデューサーのこと、信じてたのに……<emoji=heart04>」"
+translation = "「최, 최악이야……<emoji=heart04> 나, 프로듀서님을 믿고 있었는데……<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「トップアイドルを目指すなら、こういう綺麗事だけじゃ済まないこともあるって、ちゃんと知っておかないとな」"
+translation = "「톱 아이돌을 목표로 한다면, 이런 깨끗한 일로만 끝나지 않는 경우도 있다는 걸 제대로 알아둬야지.」"
+
+[[dialogue]]
+speaker = "レミカ"
+original = "「こ、これ以上は大声を出して人を呼ぶよ……！？」"
+translation = "「더, 더 이상은 큰 소리를 내서 사람을 부를 거예요……!?」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「構わないが、その場合は隠しカメラで録画しているこの映像が、後でネット上にバラまかれてしまうかもしれないぞ？」"
+translation = "「상관없지만, 그 경우에는 몰래카메라로 녹화 중인 이 영상이 나중에 인터넷에 뿌려질지도 모른다고?」"
+
+[[dialogue]]
+speaker = "レミカ"
+original = "「ひ、卑怯者……<emoji=heart04>」"
+translation = "「비, 비겁한 자식……<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「大人しくしていれば、ちゃんと気持ちいい思いをさせてやるぞ？\u3000こんな風に……」"
+translation = "「얌전히 있으면 제대로 기분 좋게 해 주겠어. 이런 식으로……」"
+
+[[dialogue]]
+speaker = "レミカ"
+original = "「あっ<emoji=heart04>\u3000やっ……！<emoji=heart04>\u3000おち○ちん、そんなところに擦り付けちゃダメぇっ<emoji=heart04>」"
+translation = "「앗<emoji=heart04> 하앗……!<emoji=heart04> 자지, 그런 곳에 비벼대면 안 돼애<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "レミカ"
+original = "（はあぁっ<emoji=heart04>\u3000催眠にかかった会長、自分のことを本気で悪いプロデューサーだと思い込んで、ちっちゃい私をレイプしにきてるぅ<emoji=heart04>）"
+translation = "（하아아<emoji=heart04> 최면에 걸린 회장님, 자신을 진심으로 나쁜 프로듀서라고 믿고서, 조그만 나를 강간하러 오고 있어어<emoji=heart04>）"
+
+[[dialogue]]
+speaker = "レミカ"
+original = "（会長以外に犯されちゃうのは絶対に嫌だけど……普段紳士的な会長が性欲のままに、小さい私の体を犯そうとしてるんだと思うと……はああぁっ<emoji=heart04>）"
+translation = "（회장님 말고 다른 사람한테 범해지는 건 절대 싫지만…… 평소에 신사적인 회장님이 성욕이 이끄는 대로 작은 내 몸을 범하려 한다고 생각하니…… 하아아아<emoji=heart04>）"
+
+[[dialogue]]
+speaker = "レミカ"
+original = "（興奮して、おま○こ濡れてきちゃうよぉ……っ<emoji=heart04>）"
+translation = "（흥분해서, 보지 젖어버려어……<emoji=heart04>）"
+
+[[dialogue]]
+speaker = "レミカ"
+original = "「んっ<emoji=heart04>\u3000ふうぅ……っ<emoji=heart04>」"
+translation = "「응읏<emoji=heart04> 후우우……<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「ダメと言いつつ、処女なのにもうこんなに濡れてるじゃないか。レミカはアイドルだけじゃなくて、エッチの才能もあるみたいだな」"
+translation = "「안 된다고 말하면서, 처녀인데 벌써 이렇게 젖어 있잖아. 레미카는 아이돌뿐만 아니라, 섹스에도 재능이 있는 모양이네」"
+
+[[dialogue]]
+speaker = "レミカ"
+original = "「やぁっ<emoji=heart04>\u3000そんなことないっ……！<emoji=heart04>\u3000私はエッチなんかじゃないからぁ<emoji=heart04>」"
+translation = "「야앗<emoji=heart04> 그럴 리 없어……!<emoji=heart04> 나는 야하지 않으니까아<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「これだけ濡れてれば、もう大丈夫そうだな――そろそろ、小さなアイドルの初物を味わわせてもらうぞ？」"
+translation = "「이만큼 젖었으면, 이제 괜찮겠군―― 슬슬, 꼬마 아이돌의 첫 경험을 맛보실까?」"
+
+[[dialogue]]
+speaker = "レミカ"
+original = "「あっ、ダメぇっ<emoji=heart04>\u3000好きでもない人に、初めてを奪われちゃうなんてぇ……っ<emoji=heart04>」"
+translation = "「앗, 안 돼에<emoji=heart04> 좋아하지도 않는 사람에게, 처음을 빼앗겨버리다니……<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "レミカ"
+original = "（ああっ<emoji=heart04>\u3000リトルフォームになってから、まだ１度もエッチしてなかったから、初エッチした時みたいにドキドキしてきちゃう<emoji=heart04>）"
+translation = "(아앗<emoji=heart04> 리틀 폼이 되고 나서, 아직 한 번도 섹스하지 않았으니까, 첫 섹스했을 때처럼 두근거려 버려<emoji=heart04>)"
+
+[[dialogue]]
+speaker = "レミカ"
+original = "（処女の時よりももっと好きになってる会長に、もう１度私の処女、奪われちゃうぅ～っ<emoji=heart04>）"
+translation = "(처녀 때보다 훨씬 더 좋아하게 된 회장님에게, 다시 한번 내 처녀, 빼앗겨버려어~<emoji=heart04>)"
+
+[[dialogue]]
+speaker = "レミカ"
+original = "「あっ<emoji=heart04>\u3000プロデューサー、ダメぇっ<emoji=heart04><emoji=heart04>\u3000挿れちゃ――あっ<emoji=heart04><emoji=heart04>」"
+translation = "「앗<emoji=heart04> 프로듀서, 안 돼에<emoji=heart04><emoji=heart04> 삽입하면―― 앗<emoji=heart04><emoji=heart04>」"
+
+[[dialogue]]
+speaker = "レミカ"
+original = "「んうぅっ――ふあああぁぁぁ～～～っ<emoji=heart04><emoji=heart04><emoji=heart04>\u3000おち○ちん、入ってきたぁ～～～～っ<emoji=heart04><emoji=heart04><emoji=heart04>」"
+translation = "「응우으―― 후아아아아아~~~<emoji=heart04><emoji=heart04><emoji=heart04> 자지, 들어왔어어~~~~<emoji=heart04><emoji=heart04><emoji=heart04>」"
+
+[[dialogue]]
+speaker = "レミカ"
+original = "「あっ<emoji=heart04>\u3000あんっ<emoji=heart04>\u3000はあぁっ<emoji=heart04>\u3000んあぁっ<emoji=heart04>\u3000ふああぁんっ<emoji=heart04>\u3000あっ<emoji=heart04>\u3000んっ<emoji=heart04>\u3000んうぅっ<emoji=heart04>\u3000ふあぁっ<emoji=heart04>\u3000はああぁんっ<emoji=heart04><emoji=heart04>」"
+translation = "「앗<emoji=heart04> 앙<emoji=heart04> 하아<emoji=heart04> 응아<emoji=heart04> 후아아앙<emoji=heart04> 앗<emoji=heart04> 응<emoji=heart04> 응우으<emoji=heart04> 후아<emoji=heart04> 하아아앙<emoji=heart04><emoji=heart04>」"
+
+[[dialogue]]
+speaker = "レミカ"
+original = "「プロデューサーのおち○ちん、無理矢理挿れられちゃってるぅっ<emoji=heart04>\u3000処女だったのぃっ<emoji=heart04>\u3000あっ<emoji=heart04>\u3000あんっ<emoji=heart04>\u3000んうぅっ<emoji=heart04>\u3000ふあぁっ<emoji=heart04>\u3000んああぁんっ<emoji=heart04>」"
+translation = "「프로듀서의 자지, 억지로 삽입당하고 있어어<emoji=heart04> 처녀였는데에<emoji=heart04> 앗<emoji=heart04> 앙<emoji=heart04> 응우으<emoji=heart04> 후아<emoji=heart04> 응아아앙<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "レミカ"
+original = "（はああぁっ<emoji=heart04>\u3000ゾクゾクしちゃうぅっ<emoji=heart04>\u3000会長の巨根おち○ちんが、私の小さな膣穴を容赦なく広げて、自分の物にしに来てるぅっ<emoji=heart04>）"
+translation = "(하아아아앗<emoji=heart04> 소름 돋아버려어<emoji=heart04> 회장님의 거근 자지가, 내 작은 질 구멍을 사정없이 넓히면서, 자기 걸로 만들러 오고 있어어<emoji=heart04>)"
+
+[[dialogue]]
+speaker = "レミカ"
+original = "「ふああぁっ<emoji=heart04>\u3000プロデューサー、そんなに動いちゃダメぇっ<emoji=heart04>\u3000お願いっ、おち○ちん抜いてぇっ<emoji=heart04>\u3000んうぅっ<emoji=heart04>\u3000あっ<emoji=heart04>\u3000あんっ<emoji=heart04>\u3000んあぁっ<emoji=heart04>\u3000ふああぁんっ<emoji=heart04>」"
+translation = "「후아아아앗<emoji=heart04> 프로듀서, 그렇게 움직이면 안 돼애<emoji=heart04> 부탁이야, 자지 빼줘어<emoji=heart04> 응으읏<emoji=heart04> 앗<emoji=heart04> 안앗<emoji=heart04> 응아앗<emoji=heart04> 후아아앙<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "レミカ"
+original = "（はああぁっ<emoji=heart04>\u3000ちっちゃい膣穴押し広げてくるおち○ちんすごいぃっ<emoji=heart04>\u3000もっと動いてっ<emoji=heart04>\u3000もっといっぱい挿れて、おま○こ気持ちよくしてぇっ<emoji=heart04>）"
+translation = "(하아아아앗<emoji=heart04> 좁은 질 구멍을 비집고 들어오는 자지 굉장해에<emoji=heart04> 더 움직여줘어<emoji=heart04> 더 잔뜩 삽입해서, 보지 기분 좋게 해줘어<emoji=heart04>)"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「抜いてと言いつつ、喘ぎ声は嬉しそうだぞ？\u3000本当は気持ちいいんじゃないのか？」"
+translation = "「빼달라고 하면서, 신음 소리는 기뻐 보이는데? 사실은 기분 좋은 거 아니야?」"
+
+[[dialogue]]
+speaker = "レミカ"
+original = "「そ、そんなことないぃっ<emoji=heart04>\u3000私、プロデューサーに無理矢理レイプされてるんだからぁっ<emoji=heart04>\u3000んっ<emoji=heart04>\u3000あっ<emoji=heart04>\u3000ふああぁっ……<emoji=heart04>」"
+translation = "「그, 그럴 리 없어어<emoji=heart04> 나, 프로듀서한테 억지로 강간당하고 있는 거니까아<emoji=heart04> 응읏<emoji=heart04> 앗<emoji=heart04> 후아아앗……<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "レミカ"
+original = "「おち○ちんなんて、全然気持ちよくないぃっ<emoji=heart04>\u3000んうぅっ<emoji=heart04>\u3000ふうぅっ<emoji=heart04>\u3000んんうぅ～っ……！<emoji=heart04>」"
+translation = "「자지 같은 거, 전혀 기분 좋지 않아아<emoji=heart04> 응으읏<emoji=heart04> 후우읏<emoji=heart04> 응응으으~읏……!<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "レミカ"
+original = "（ふわああぁっ<emoji=heart04>\u3000おち○ちん気持ちいいっ<emoji=heart04>\u3000好きっ<emoji=heart04>\u3000おま○こ幸せぇっ<emoji=heart04>\u3000会長の極太おち○ちん、気持ちよくて幸せぇ～～っ<emoji=heart04><emoji=heart04>）"
+translation = "(후와아아아앗<emoji=heart04> 자지 기분 좋아아<emoji=heart04> 좋아해엣<emoji=heart04> 보지 행복해에<emoji=heart04> 회장님의 극태 자지, 기분 좋아서 행복해애~~엣<emoji=heart04><emoji=heart04>)"
+
+[[dialogue]]
+speaker = "レミカ"
+original = "「あっ<emoji=heart04>\u3000ダメぇっ<emoji=heart04>\u3000あっ<emoji=heart04>\u3000あんっ<emoji=heart04>\u3000そこぉっ<emoji=heart04>\u3000あっ<emoji=heart04>\u3000ふああぁんっ<emoji=heart04>」"
+translation = "「앗<emoji=heart04> 안 돼애<emoji=heart04> 앗<emoji=heart04> 안앗<emoji=heart04> 거기이<emoji=heart04> 앗<emoji=heart04> 후아아앙<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "レミカ"
+original = "（そこいいっ<emoji=heart04>\u3000気持ちいいＧスポットぉ<emoji=heart04>\u3000強く擦られて感じちゃうっ<emoji=heart04>\u3000もっとぉっ<emoji=heart04>\u3000もっとそこ、いっぱいカリで擦ってぇ～っ<emoji=heart04><emoji=heart04>）"
+translation = "(거기 좋아아<emoji=heart04> 기분 좋은 G스팟어<emoji=heart04> 강하게 문질러져서 느껴버려어<emoji=heart04> 더어<emoji=heart04> 더 거기, 잔뜩 귀두로 문질러줘어~엣<emoji=heart04><emoji=heart04>)"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「何がダメだ、明らかに気持ちよく感じてるだろっ！\u3000この淫乱アイドルめっ！」"
+translation = "「뭐가 안 된다는 거냐, 분명히 기분 좋게 느끼고 있잖아! 이 음란한 아이돌 녀석!」"
+
+[[dialogue]]
+speaker = "レミカ"
+original = "「あっ<emoji=heart04>\u3000やぁんっ<emoji=heart04>\u3000淫乱なんて言わないでぇっ<emoji=heart04>\u3000私は『可愛いアイドル』を目指してるんだからぁっ<emoji=heart04>\u3000あっ<emoji=heart04>\u3000あんっ<emoji=heart04>\u3000んああぁんっ<emoji=heart04>」"
+translation = "「앗<emoji=heart04> 야앙<emoji=heart04> 음란하다고 하지 마아<emoji=heart04> 나는 『귀여운 아이돌』을 목표로 하고 있으니까아<emoji=heart04> 앗<emoji=heart04> 안앗<emoji=heart04> 응아아앙<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "レミカ"
+original = "（はああぁ～っ<emoji=heart04><emoji=heart04>\u3000会長に淫乱って言われてゾクゾクして、腰が勝手に動いちゃうよぉ～～っ<emoji=heart04><emoji=heart04>）"
+translation = "(하아아아~앗<emoji=heart04><emoji=heart04> 회장님한테 음란하다는 말을 들어서 소름 돋고, 허리가 멋대로 움직여버려어~~어<emoji=heart04><emoji=heart04>)"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「本当はもっと気持ちよくなりたいんだろ！\u3000素直に言えっ！」"
+translation = "「사실은 더 기분 좋아지고 싶은 거잖아! 솔직하게 말해!」"
+
+[[dialogue]]
+speaker = "レミカ"
+original = "「あっ！？\u3000――ふああああぁっ<emoji=heart04><emoji=heart04>\u3000ダメっ、プロデューサー！\u3000私の腰掴んで、無理矢理動かしちゃあっ<emoji=heart04>\u3000あっ<emoji=heart04>\u3000あんっ<emoji=heart04>\u3000んあぁっ<emoji=heart04>\u3000はああぁんっ<emoji=heart04><emoji=heart04>」"
+translation = "「앗!? ――후아아아아앗<emoji=heart04><emoji=heart04> 안 돼, 프로듀서! 내 허리 잡고, 억지로 움직이지 마아앗<emoji=heart04> 앗<emoji=heart04> 안앗<emoji=heart04> 응아앗<emoji=heart04> 하아아앙<emoji=heart04><emoji=heart04>」"
+
+[[dialogue]]
+speaker = "unk"
+original = "プロデューサーはレミカの腰を掴むと、ピストンに合わせて、グイグイと強引に動かしてくる。"
+translation = "프로듀서는 레미카의 허리를 붙잡고는, 피스톤에 맞춰서 구이구이 강압적으로 움직여 온다."
+
+[[dialogue]]
+speaker = "レミカ"
+original = "（ふああああああっ<emoji=heart04><emoji=heart04>\u3000ピストンのたびに腰を引っ張られながら、奥突かれるのすごいっ<emoji=heart04>\u3000気持ちよくて、自分でも腰が勝手にヘコヘコ動いちゃうぅ～っ<emoji=heart04><emoji=heart04>）"
+translation = "(후아아아아아앗<emoji=heart04><emoji=heart04> 피스톤을 할 때마다 허리가 끌려가면서, 안쪽이 찔리는 거 굉장해에<emoji=heart04> 기분 좋아서, 나도 모르게 허리가 멋대로 헐떡헐떡 움직여버려어~어<emoji=heart04><emoji=heart04>)"
+
+[[dialogue]]
+speaker = "レミカ"
+original = "「あっ<emoji=heart04>\u3000はあぁっ<emoji=heart04>\u3000イヤなのに――おま○こ気持ちいぃっ<emoji=heart04>\u3000悪いプロデューサーのおち○ちんで、気持ちよくなっちゃううぅぅっ<emoji=heart04><emoji=heart04>」"
+translation = "「앗<emoji=heart04> 하아앗<emoji=heart04> 싫은데도――보지 기분 좋아아<emoji=heart04> 나쁜 프로듀서의 자지로, 기분 좋아져 버려어어어엇<emoji=heart04><emoji=heart04>」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「やっぱり気持ちいいんじゃないか！\u3000この嘘つきアイドルめ！\u3000罰としてお仕置きしてやるっ！」"
+translation = "「역시 기분 좋은 거잖아! 이 거짓말쟁이 아이돌 녀석! 벌로서 가르침을 주마!」"
+
+[[dialogue]]
+speaker = "レミカ"
+original = "「やぁんっ<emoji=heart04>\u3000あっ！？\u3000はああぁっ<emoji=heart04><emoji=heart04>\u3000あっ<emoji=heart04>\u3000あんっ<emoji=heart04>\u3000はあぁっ<emoji=heart04>\u3000ふあぁっ<emoji=heart04>\u3000んああぁんっ<emoji=heart04><emoji=heart04>」"
+translation = "「야앙<emoji=heart04> 앗!? 하아아앗<emoji=heart04><emoji=heart04> 앗<emoji=heart04> 안앗<emoji=heart04> 하아앗<emoji=heart04> 후아앗<emoji=heart04> 응아아앙<emoji=heart04><emoji=heart04>」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ペニスが強く奥へと挿入されるたび、レミカの膣も勝手にペニスを飲み込むように動き、喜んで迎え入れてしまう。"
+translation = "페니스가 강하게 안쪽으로 삽입될 때마다, 레미카의 질도 멋대로 페니스를 집어삼키듯이 움직이며, 기뻐하며 받아들여 버린다."
+
+[[dialogue]]
+speaker = "レミカ"
+original = "「んうううぅ～っ<emoji=heart04>\u3000ダメぇっ<emoji=heart04>\u3000ちっちゃいおま○こが喜んでるっ<emoji=heart04>\u3000このままじゃイっちゃうっ<emoji=heart04><emoji=heart04>\u3000これ以上、グイグイ動かしちゃダメえぇ～～っ<emoji=heart04><emoji=heart04>」"
+translation = "「응으으으~읏<emoji=heart04> 안 돼애<emoji=heart04> 작은 보지가 기뻐하고 있어어<emoji=heart04> 이대로라면 가버려어<emoji=heart04><emoji=heart04> 이 이상, 구이구이 움직이면 안 돼애~~엣<emoji=heart04><emoji=heart04>」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「ダメだ！\u3000さっき嘘をついた罰だ！\u3000気持ちよくなっても、勝手にイクなよっ！」"
+translation = "「안 돼! 아까 거짓말을 한 벌이다! 기분 좋아지더라도, 멋대로 가지 마라!」"
+
+[[dialogue]]
+speaker = "レミカ"
+original = "「えっ……！？」"
+translation = "「엣……!?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "プロデューサーはレミカの耳元に顔を近づけ、囁くように命令する。"
+translation = "프로듀서는 레미카의 귓가에 얼굴을 가까이 대고, 속삭이듯 명령한다."
+
+[[dialogue]]
+speaker = "クロト"
+original = "「イキたければ、プロデューサーである俺にちゃんと許可を取れ」"
+translation = "「가고 싶으면, 프로듀서인 나에게 제대로 허락을 맡아」"
+
+[[dialogue]]
+speaker = "レミカ"
+original = "「～～～っ<emoji=heart04><emoji=heart04>\u3000だ、ダメっ<emoji=heart04>\u3000そんなの言えるわけ……っ！<emoji=heart04>\u3000言ったら絶対、おま○こイかされちゃうっ<emoji=heart04>」"
+translation = "「~~~앗<emoji=heart04><emoji=heart04> 아, 안 돼<emoji=heart04> 그런 걸 말할 수 있을 리가……앗!<emoji=heart04> 말하면 분명, 보지 가버리게 될 거야아<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「もし勝手にイったら、お仕置きとして――子宮の中にたくさん中出ししてやるからな」"
+translation = "「만약 멋대로 가버리면, 벌로서――자궁 안에 잔뜩 질내사정 해줄 테니까」"
+
+[[dialogue]]
+speaker = "レミカ"
+original = "「ふあぁぁっ！？\u3000そ、そんなぁっ<emoji=heart04>\u3000それだけはダメぇっ<emoji=heart04>\u3000んっ<emoji=heart04>\u3000はあぁっ<emoji=heart04>\u3000私――」"
+translation = "「후아아앗!? 그, 그럴 수가아<emoji=heart04> 그것만은 안 돼애<emoji=heart04> 응읏<emoji=heart04> 하아앗<emoji=heart04> 나――」"
+
+[[dialogue]]
+speaker = "レミカ"
+original = "「今日は、<b>危険日</b>なのぉっ<emoji=heart04><emoji=heart04>\u3000中に出されたりしたらっ――赤ちゃんできちゃうぅ～～～っ<emoji=heart04><emoji=heart04><emoji=heart04>」"
+translation = "「오늘은, <b>위험일</b>이란 말이야아<emoji=heart04><emoji=heart04> 안에 싸버리거나 하면――아기 생겨버려어~~~어<emoji=heart04><emoji=heart04><emoji=heart04>」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「っ！」"
+translation = "「윽!」"
+
+[[dialogue]]
+speaker = "レミカ"
+original = "（あんっ<emoji=heart04><emoji=heart04>\u3000すぉごいっ<emoji=heart04>\u3000危険日って言ったら、会長のおち○ちん興奮して、中でもっと大きくなったぁっ<emoji=heart04><emoji=heart04>）"
+translation = "（앙<emoji=heart04><emoji=heart04> 거어엄청나<emoji=heart04> 위험일이라고 했더니, 회장님의 자지가 흥분해서, 안에서 더 커졌어어<emoji=heart04><emoji=heart04>）"
+
+[[dialogue]]
+speaker = "レミカ"
+original = "「だから……お願いぃっ<emoji=heart04><emoji=heart04>\u3000中出しだけはっ――絶対にダメえぇ～～～っ<emoji=heart04><emoji=heart04><emoji=heart04>」"
+translation = "「그러니까…… 부탁이야아<emoji=heart04><emoji=heart04> 질내사정만은―― 절대로 안 돼애애～～～<emoji=heart04><emoji=heart04><emoji=heart04>」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「……そうか、なら――」"
+translation = "「……그런가, 그렇다면――」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「先に１人でイったりしないように、頑張るんだなっ！！」"
+translation = "「먼저 혼자서 가버리지 않도록, 힘내보라고!!」"
+
+[[dialogue]]
+speaker = "レミカ"
+original = "「あっ！？\u3000プロデューサー、ダメダメっ<emoji=heart04><emoji=heart04>\u3000待っ――<emoji=heart04><emoji=heart04><emoji=heart04>」"
+translation = "「앗!? 프로듀서, 안 돼안 돼<emoji=heart04><emoji=heart04> 기다――<emoji=heart04><emoji=heart04><emoji=heart04>」"
+
+[[dialogue]]
+speaker = "レミカ"
+original = "「ふあぁっ<emoji=heart04><emoji=heart04><emoji=heart04>\u3000はあああぁああぁあぁ～～～～～～っ<emoji=heart04><emoji=heart04><emoji=heart04>」"
+translation = "「후아아<emoji=heart04><emoji=heart04><emoji=heart04> 하아아아아아아아아아～～～～～～<emoji=heart04><emoji=heart04><emoji=heart04>」"
+
+[[dialogue]]
+speaker = "unk"
+original = "レミカの言葉で興奮したプロデューサーは、容赦なくピストンを激しくし始めた。"
+translation = "레미카의 말에 흥분한 프로듀서는, 용서 없이 피스톤을 격렬하게 하기 시작했다."
+
+[[dialogue]]
+speaker = "レミカ"
+original = "「あんっ、あんっ、あんっ<emoji=heart04>\u3000ダメぇっ、おち○ちん激しいぃ～～っ<emoji=heart04><emoji=heart04>\u3000あっ、あっ、あっ、あっ、んああぁっ<emoji=heart04><emoji=heart04>\u3000ふあああぁ～っ<emoji=heart04><emoji=heart04>」"
+translation = "「앙, 앙, 앙<emoji=heart04> 안 돼에, 자지 격렬해에～～<emoji=heart04><emoji=heart04> 앗, 앗, 앗, 앗, 응아아<emoji=heart04><emoji=heart04> 후아아아아～<emoji=heart04><emoji=heart04>」"
+
+[[dialogue]]
+speaker = "レミカ"
+original = "「ダメぇっ、気持ちいいっ<emoji=heart04>\u3000ダメなのに、おち○ちんで奥突かれるの気持ちいいよぉ～～っ<emoji=heart04><emoji=heart04>\u3000あんっ、あんっ、あんっ、ふあぁっ、はああぁ～～っ<emoji=heart04><emoji=heart04>」"
+translation = "「안 돼에, 기분 좋아<emoji=heart04> 안 되는데, 자지로 안쪽 찔리는 거 기분 좋아아～～<emoji=heart04><emoji=heart04> 앙, 앙, 앙, 후아아, 하아아아～～<emoji=heart04><emoji=heart04>」"
+
+[[dialogue]]
+speaker = "レミカ"
+original = "「気持ちよくて、子宮キュンキュン喜んじゃうぅんっ<emoji=heart04><emoji=heart04>\u3000あっ、あっ、あっ、あっ<emoji=heart04>\u3000んあぁっ<emoji=heart04>\u3000ふあああぁ～～っ<emoji=heart04><emoji=heart04>」"
+translation = "「기분 좋아서, 자궁이 큥큥 기뻐해애읏<emoji=heart04><emoji=heart04> 앗, 앗, 앗, 앗<emoji=heart04> 응아앗<emoji=heart04> 후아아아아~~앗<emoji=heart04><emoji=heart04>」"
+
+[[dialogue]]
+speaker = "レミカ"
+original = "「あっ、あっ、あっ<emoji=heart04>\u3000ダメぇっ<emoji=heart04>\u3000ダメなのに、子宮が排卵準備、始めちゃうぅっ<emoji=heart04>」"
+translation = "「앗, 앗, 앗<emoji=heart04> 안 돼애<emoji=heart04> 안 되는데, 자궁이 배란 준비, 시작해버려어엇<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "レミカ"
+original = "「卵子生まれちゃうのぉ～～っ<emoji=heart04><emoji=heart04>\u3000はぁんっ、ああっ、あぁあんっ<emoji=heart04>\u3000ふああぁんっ<emoji=heart04><emoji=heart04>」"
+translation = "「난자 태어나버려어어~~엇<emoji=heart04><emoji=heart04> 하앙, 아앗, 아아앙<emoji=heart04> 후아아앙<emoji=heart04><emoji=heart04>」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「レミカの子宮、精液欲しがって、入り口がペニスに吸いついてきてるぞ……！」"
+translation = "「레미카의 자궁, 정액을 원해서, 입구가 페니스에 달라붙어 오고 있어……!」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「すぐにたっぷり中出しして、妊娠させてやるからなっ！」"
+translation = "「금방 듬뿍 질내사정해서, 임신시켜 줄 테니까!」"
+
+[[dialogue]]
+speaker = "レミカ"
+original = "「ふあああぁっ<emoji=heart04><emoji=heart04>\u3000そんなこと耳元で言っちゃダメぇっ<emoji=heart04>\u3000ダメなのにっ<emoji=heart04>\u3000想像が膨らんで、赤ちゃん作る準備進んじゃうからぁっ<emoji=heart04><emoji=heart04>」"
+translation = "「후아아아앗<emoji=heart04><emoji=heart04> 그런 거 귓가에서 말하면 안 돼애<emoji=heart04> 안 되는데도<emoji=heart04> 상상이 부풀어서, 아기 만들 준비가 진행되어 버리니까아앗<emoji=heart04><emoji=heart04>」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「いいぞ、卵子出せっ！\u3000俺の精子で受精させて――腹ボテアイドルにしてやるっ！！」"
+translation = "「좋아, 난자 내보내! 내 정자로 수정시켜서―― 배불뚝이 아이돌로 만들어 주마!!」"
+
+[[dialogue]]
+speaker = "レミカ"
+original = "「ふあああぁっ！？<emoji=heart04><emoji=heart04>\u3000ダメダメっ<emoji=heart04>\u3000そんなこと言ったら、想像して卵子出ちゃうっ<emoji=heart04>\u3000ダメなのにおま○こ気持ちいいの登ってきて、イク準備しちゃううぅ～～っ<emoji=heart04><emoji=heart04>」"
+translation = "「후아아앗!?<emoji=heart04><emoji=heart04> 안 돼안 돼<emoji=heart04> 그런 말 하면, 상상해서 난자 나와버려어<emoji=heart04> 안 되는데 보지 기분 좋은 게 올라와서, 가버릴 준비 해버려어어~~엇<emoji=heart04><emoji=heart04>」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「イけっ！\u3000一緒に中出ししてやるから、孕んで受精イキしろっ！！」"
+translation = "「가버려! 같이 질내사정 해줄 테니까, 임신해서 수정 절정 해버려!!」"
+
+[[dialogue]]
+speaker = "レミカ"
+original = "「ダメダメ、ダメぇっ<emoji=heart04><emoji=heart04>\u3000本当にイっちゃうからぁ<emoji=heart04>\u3000それ以上おち○ちん、激しくしちゃダメぇぇぇ～～～っ<emoji=heart04><emoji=heart04>」"
+translation = "「안 돼안 돼, 안 돼애<emoji=heart04><emoji=heart04> 정말로 가버리니까아<emoji=heart04> 그 이상 자지, 격하게 하면 안 돼애애애~~~앗<emoji=heart04><emoji=heart04>」"
+
+[[dialogue]]
+speaker = "レミカ"
+original = "「んああああああっ<emoji=heart04><emoji=heart04>\u3000本当にダメっ<emoji=heart04><emoji=heart04><emoji=heart04>\u3000気持ちよすぎて、もうイっちゃうっ<emoji=heart04><emoji=heart04>\u3000すごい絶頂きちゃうのぉ～～～っ<emoji=heart04><emoji=heart04><emoji=heart04>」"
+translation = "「응아아아아아앗<emoji=heart04><emoji=heart04> 정말 안 돼<emoji=heart04><emoji=heart04><emoji=heart04> 너무 기분 좋아서, 이제 가버려어<emoji=heart04><emoji=heart04> 엄청난 절정 와버려어어~~~엇<emoji=heart04><emoji=heart04><emoji=heart04>」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「俺も精子登ってきたっ！\u3000レミカ、このまま孕ませるぞっ！！」"
+translation = "「나도 정자 올라왔어! 레미카, 이대로 임신시킨다!!」"
+
+[[dialogue]]
+speaker = "レミカ"
+original = "「いやあぁっ<emoji=heart04><emoji=heart04>\u3000プロデューサー、ダメぇっ<emoji=heart04><emoji=heart04>\u3000本当に赤ちゃんできちゃうぅ～～～っ<emoji=heart04><emoji=heart04><emoji=heart04>」"
+translation = "「이야아앗<emoji=heart04><emoji=heart04> 프로듀서, 안 돼애<emoji=heart04><emoji=heart04> 정말로 아기 생겨버려어어~~~엇<emoji=heart04><emoji=heart04><emoji=heart04>」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「プロデューサー命令だっ！\u3000俺だけの専属ボテ腹アイドルになれっ！！」"
+translation = "「프로듀서 명령이다! 나만의 전속 배불뚝이 아이돌이 되어라!!」"
+
+[[dialogue]]
+speaker = "レミカ"
+original = "「あっあっあっあんっ<emoji=heart04><emoji=heart04>\u3000ダメダメ、来ちゃうううぅっ<emoji=heart04><emoji=heart04>\u3000あんっあんっあんっあっ、んああああああぁぁぁっ<emoji=heart04><emoji=heart04><emoji=heart04>」"
+translation = "「앗앗앗앙<emoji=heart04><emoji=heart04> 안 돼안 돼, 와버려어어엇<emoji=heart04><emoji=heart04> 앙앙앙앗, 응아아아아아아아앗<emoji=heart04><emoji=heart04><emoji=heart04>」"
+
+[[dialogue]]
+speaker = "レミカ"
+original = "「イクっ<emoji=heart04><emoji=heart04>\u3000イクイクイクイクっ<emoji=heart04><emoji=heart04><emoji=heart04>\u3000あ、あ、あ、あっ<emoji=heart04>\u3000ふあああぁぁぁ～～～っ<emoji=heart04><emoji=heart04><emoji=heart04>」"
+translation = "「가버려<emoji=heart04><emoji=heart04> 가버려가버려가버려가버려엇<emoji=heart04><emoji=heart04><emoji=heart04> 아, 아, 아, 앗<emoji=heart04> 후아아아아아~~~앗<emoji=heart04><emoji=heart04><emoji=heart04>」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「くっ……もう出るっ！！\u3000中に出すぞっ！！！」"
+translation = "「큭…… 이제 나온다!! 안에 내보낸다!!!」"
+
+[[dialogue]]
+speaker = "レミカ"
+original = "「いやあああぁぁぁっ<emoji=heart04><emoji=heart04><emoji=heart04>\u3000ダメえええぇぇぇっ<emoji=heart04><emoji=heart04><emoji=heart04>」"
+translation = "「이야아아아아앗<emoji=heart04><emoji=heart04><emoji=heart04> 안 돼애애애애앗<emoji=heart04><emoji=heart04><emoji=heart04>」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「レミカ、孕めっ！！！」"
+translation = "「레미카, 임신해라!!!」"
+
+[[dialogue]]
+speaker = "レミカ"
+original = "「あっ――――<emoji=heart04><emoji=heart04><emoji=heart04><emoji=heart04>」"
+translation = "「앗――――<emoji=heart04><emoji=heart04><emoji=heart04><emoji=heart04>」"
+
+[[dialogue]]
+speaker = "レミカ"
+original = "「ふあああああぁぁぁーーーーーーーーーっ<emoji=heart04><emoji=heart04><emoji=heart04><emoji=heart04><emoji=heart04>\u3000イックうううぅぅぅ～～～～～～～～～っ<emoji=heart04><emoji=heart04><emoji=heart04><emoji=heart04><emoji=heart04>」"
+translation = "「후아아아아아아아아─────────앗<emoji=heart04><emoji=heart04><emoji=heart04><emoji=heart04><emoji=heart04> 가버려어어어어어어어~~~~~~~~~엇<emoji=heart04><emoji=heart04><emoji=heart04><emoji=heart04><emoji=heart04>」"
+
+[[dialogue]]
+speaker = "unk"
+original = "レミカのいちばん奥までペニスが挿入され、子宮口に力強く押し付けられると、熱い精液を爆発するように勢いよく噴き出した。"
+translation = "레미카의 가장 안쪽까지 페니스가 삽입되어, 자궁구에 힘차게 밀어붙여지자, 뜨거운 정액을 폭발하듯 기세 좋게 뿜어냈다."
+
+[[dialogue]]
+speaker = "レミカ"
+original = "「んああああああぁぁぁっ～～～<emoji=heart04><emoji=heart04><emoji=heart04>\u3000どくどくっって、精液いっぱい出されてるぅぅぅ～～～っ<emoji=heart04><emoji=heart04><emoji=heart04>\u3000あっ、ふあああぁぁぁ～～～っ<emoji=heart04><emoji=heart04><emoji=heart04>」"
+translation = "「응아아아아아아앗~~~<emoji=heart04><emoji=heart04><emoji=heart04> 울컥울컥하고, 정액 잔뜩 내보내지고 있어어어~~~앗<emoji=heart04><emoji=heart04><emoji=heart04> 앗, 후아아아아~~~앗<emoji=heart04><emoji=heart04><emoji=heart04>」"
+
+[[dialogue]]
+speaker = "レミカ"
+original = "「んっ<emoji=heart04><emoji=heart04>\u3000はあああぁ～～っ<emoji=heart04><emoji=heart04>\u3000ダメなのに、どろっどろに濃い精子、中に出されちゃってるぅっ……<emoji=heart04><emoji=heart04>」"
+translation = "「응<emoji=heart04><emoji=heart04> 하아아아~~앗<emoji=heart04><emoji=heart04> 안 되는데, 걸쭉하게 진한 정자, 안에 내보내지고 있어……<emoji=heart04><emoji=heart04>」"
+
+[[dialogue]]
+speaker = "レミカ"
+original = "「あっ……んあああぁっ……<emoji=heart04><emoji=heart04>\u3000卵子に精子群がって、プロデューサーの赤ちゃん孕んじゃうっ……<emoji=heart04>\u3000んっ<emoji=heart04>\u3000はあぁっ……<emoji=heart04>\u3000んふぅぅぅ<emoji=heart04>」"
+translation = "「앗…… 응아아앗……<emoji=heart04><emoji=heart04> 난자에 정자 떼 지어 몰려와서, 프로듀서의 아기 임신해버려……<emoji=heart04> 응<emoji=heart04> 하아앗……<emoji=heart04> 응후우우<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "unk"
+original = "やがて、小さな子宮を満たしきってしまうような長い射精が終わり、膣内からペニスが引き抜かれる。"
+translation = "이윽고, 작은 자궁을 다 채워버릴 것 같은 긴 사정이 끝나고, 질 내에서 페니스가 뽑혀 나간다."
+
+[[dialogue]]
+speaker = "レミカ"
+original = "「あっ……<emoji=heart04>\u3000んっ……ふうぅ……<emoji=heart04>」"
+translation = "「앗……<emoji=heart04> 응…… 후우……<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "unk"
+original = "レミカが甘い快楽の余韻に浸りながら息を整えていると、小さい膣穴に入りきらなかった白濁が溢れ出してくる。"
+translation = "레미카가 달콤한 쾌락의 여운에 젖어 숨을 고르고 있자, 작은 질 구멍에 다 들어가지 못한 백탁액이 흘러넘쳐 온다."
+
+[[dialogue]]
+speaker = "レミカ"
+original = "「すごい……<emoji=heart04>\u3000<b>会長</b>の精液、いつもよりいっぱい溢れてきてる……<emoji=heart04>」"
+translation = "「대단해……<emoji=heart04> <b>회장</b>의 정액, 평소보다 잔뜩 흘러넘치고 있어……<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "レミカ"
+original = "「はあぁ……<emoji=heart04>\u3000今日は私もすごく興奮しちゃって……。小さい体でのロールプレイ、ハマっちゃうかも……<emoji=heart04>」"
+translation = "「하아……<emoji=heart04> 오늘은 나도 엄청 흥분해버려서……. 작은 몸으로 하는 롤플레이, 빠져버릴지도……<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「ん……あれ……？\u3000レミカ……？\u3000俺、何をして……」"
+translation = "「음…… 어라……? 레미카……? 나, 뭘 하고……」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ふと、会長は寝起きのように目を瞬かせると、状況を確かめるように、ゆっくりと周囲へ視線を巡らせた。"
+translation = "문득, 회장은 자다 깬 것처럼 눈을 깜빡이더니, 상황을 확인하려는 듯 천천히 주위로 시선을 돌렸다."
+
+[[dialogue]]
+speaker = "レミカ"
+original = "「あっ、会長。もしかして催眠、解けちゃった……？」"
+translation = "「앗, 회장. 혹시 최면, 풀려버린 거야……?」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「催眠……？\u3000そうか、俺、悪いプロデューサーになりきって……小さいレミカとエッチして……」"
+translation = "「최면……? 그렇군, 나, 나쁜 프로듀서가 된 셈 치고…… 어린 레미카랑 섹스하고……」"
+
+[[dialogue]]
+speaker = "unk"
+original = "どうやら行為中の記憶は覚えているらしい。"
+translation = "아무래도 행위 중의 기억은 남아 있는 모양이다."
+
+[[dialogue]]
+speaker = "レミカ"
+original = "「その……ごめんね？\u3000会長。このところ忙しくてなかなか会えなかったから……私、ムラムラしちゃって……」"
+translation = "「그…… 미안해? 회장. 요새 바빠서 좀처럼 만나지 못했으니까…… 나, 몸이 달아올라 버려서……」"
+
+[[dialogue]]
+speaker = "レミカ"
+original = "「でも、もし会長がイヤじゃなかったら――」"
+translation = "「하지만, 만약 회장이 싫지 않다면――」"
+
+[[dialogue]]
+speaker = "unk"
+original = "レミカは再び自分の片足を上げて開いてみせながら、会長の目を見つめて言う。"
+translation = "레미카는 다시 자신의 한쪽 다리를 들어 올려 벌려 보이면서, 회장의 눈을 응시하며 말한다."
+
+[[dialogue]]
+speaker = "レミカ"
+original = "「今日はこのままもう少し、悪いプロデューサーを続けて欲しいな<emoji=heart04>」"
+translation = "「오늘은 이대로 조금 더, 나쁜 프로듀서를 계속해 줬으면 좋겠어<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「……！」"
+translation = "「……!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "すると、会長のペニスは、射精直後にも関わらず再び大きく反応してみせて。"
+translation = "그러자 회장의 자지는 사정 직후임에도 불구하고 다시 크게 반응해 보였고."
+
+[[dialogue]]
+speaker = "レミカ"
+original = "「――あっ<emoji=heart04>\u3000プロデューサー、ダメぇ<emoji=heart04>\u3000これ以上されたら、本当に赤ちゃんできちゃうよぉ……<emoji=heart04>」"
+translation = "「――앗<emoji=heart04> 프로듀서, 안 돼애<emoji=heart04> 이 이상 당하면, 정말로 아기 생겨버려어……<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「プロデューサーに催眠をかけるような悪いアイドルには、ちゃんとお仕置きをしとかないとな？」"
+translation = "「프로듀서에게 최면을 거는 나쁜 아이돌에게는, 제대로 벌을 줘야겠지?」"
+
+[[dialogue]]
+speaker = "レミカ"
+original = "「そんなぁ<emoji=heart04>\u3000あっ……はあぁん……<emoji=heart04><emoji=heart04>」"
+translation = "「그런어어<emoji=heart04> 앗…… 하아앙……<emoji=heart04><emoji=heart04>」"
+
+[[dialogue]]
+speaker = "unk"
+original = "そうして催眠が解けた後も、２人はロールプレイを続けたまま、エッチに興じ続けるのだった。"
+translation = "그렇게 최면이 풀린 후에도, 두 사람은 롤플레이를 계속한 채 섹스에 열중하는 것이었다."
+

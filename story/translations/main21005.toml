@@ -1,0 +1,665 @@
+[[dialogue]]
+speaker = "unk"
+original = "第５話,墜落,B"
+translation = "제5화, 추락, B"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「っ……はぁ……何が起きたんだ……？」"
+translation = "「윽…… 하아…… 무슨 일이 일어난 거지……?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "地面に激突した痛みをこらえながら起き上がる。"
+translation = "지면에 격돌한 통증을 참으며 일어난다."
+
+[[dialogue]]
+speaker = "unk"
+original = "そこは──"
+translation = "그곳은──"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「ここは……？\u3000ガーディアンの自爆に巻き込まれて……落ちたのか……？」"
+translation = "「여기는……? 가디언의 자폭에 휘말려서…… 떨어진 건가……?」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「俺だけか？\u3000みんなはどこに……？」"
+translation = "「나뿐인가? 다들 어디에……?」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「あたたたた……」"
+translation = "「아이고고고……」"
+
+[[dialogue]]
+speaker = "メルエル"
+original = "「うぅ……頭痛い……」"
+translation = "「으으…… 머리 아파……」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「ヴィーナス！\u3000メルエル！\u3000怪我はないか？」"
+translation = "「비너스! 메르엘! 다친 데는 없어?」"
+
+[[dialogue]]
+speaker = "メルエル"
+original = "「ありがとう、私は大丈夫。ちょっとふらふらしてるけど、すぐ収まると思う」"
+translation = "「고마워요, 전 괜찮아요. 조금 어질어질하지만 금방 가라앉을 것 같아요.」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「ええ、私も平気よ。２人も一緒に落ちてきたのね。無事でよかったわ」"
+translation = "「응, 나도 멀쩡해. 둘도 같이 떨어진 모양이네. 무사해서 다행이야.」"
+
+[[dialogue]]
+speaker = "メルエル"
+original = "「うん、会長くんとヴィーナスちゃんが元気そうで安心した。だけど他のみんなは……」"
+translation = "「응, 회장님과 비너스짱이 건강해 보여서 안심했어. 하지만 다른 사람들은……」"
+
+[[dialogue]]
+speaker = "unk"
+original = "周囲を見回してみるが、俺とヴィーナス、メルエル以外の姿はない。"
+translation = "주위를 둘러보지만 나와 비너스, 메르엘 이외의 모습은 보이지 않는다."
+
+[[dialogue]]
+speaker = "unk"
+original = "他のみんなは別のところに落ちたか、ガーディアンの光に巻き込まれなかったか……どちらにせよ今すぐ安否を確かめる手段はない。"
+translation = "다른 동료들은 다른 곳으로 떨어졌거나, 가디언의 빛에 휘말리지 않았거나…… 어느 쪽이든 지금 당장 안부를 확인할 방법은 없다."
+
+[[dialogue]]
+speaker = "メルエル"
+original = "「飛んで戻れればいいんだけど……ダメ。星力を使っても体が浮かないよ」"
+translation = "「날아서 돌아갈 수 있으면 좋겠는데…… 안 돼. 성력을 써도 몸이 뜨질 않아.」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「私もね。クロトは？」"
+translation = "「나도 그래. 쿠로토는?」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「俺も飛べないみたいだ」"
+translation = "「나도 날 수 없는 것 같아.」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「だけど戦闘服のままだし、星力は失われていないはず。さっきの光は、おそらく星騎士の飛行能力を麻痺させるものだと思う」"
+translation = "「하지만 전투복 상태 그대로고, 성력은 잃지 않았을 터. 방금 그 빛은 아마 성기사의 비행 능력을 마비시키는 것이라고 생각해.」"
+
+[[dialogue]]
+speaker = "メルエル"
+original = "「なるほど、それは厄介だね。そのうち戻るといいんだけど……」"
+translation = "「과연, 그건 골치 아프네. 조만간 돌아오면 좋겠는데……」"
+
+[[dialogue]]
+speaker = "メルエル"
+original = "「でも……ここはどこ？」"
+translation = "「그런데…… 여기는 어디야?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "今自分たちがいる場所を見上げる。"
+translation = "지금 자신들이 있는 장소를 올려다본다."
+
+[[dialogue]]
+speaker = "unk"
+original = "大樹のような巨大な柱に、高層ビルでも届かないような遥か高い天井。"
+translation = "거목 같은 거대한 기둥에 고층 빌딩도 닿지 않을 듯한 아득히 높은 천장."
+
+[[dialogue]]
+speaker = "unk"
+original = "巨人でも出てきそうな広大な空間だ。"
+translation = "거인이라도 튀어나올 것 같은 광대한 공간이다."
+
+[[dialogue]]
+speaker = "クロト"
+original = "「おそらくここは女神の神殿の内部だろう。神殿の中に入れたのは、怪我の功名だ」"
+translation = "「아마 이곳은 여신의 신전 내부겠지. 신전 안에 들어온 건 불행 중 다행이야.」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「みんなと合流したいが、極星星徒会に先を越されるとまずい。このまま中枢まで向かおう」"
+translation = "「모두와 합류하고 싶지만, 극성성도회에게 선수를 빼앗기면 곤란해. 이대로 중추까지 향하자.」"
+
+[[dialogue]]
+speaker = "メルエル"
+original = "「うん、私も賛成だよ」"
+translation = "「응, 나도 찬성해.」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「じゃあノヴァフォームで神殿をぶち抜いて、一気に進むわよ！」"
+translation = "「그럼 노바 폼으로 신전을 뚫어버리고 단숨에 나아가자고!」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「いや、それは待ってくれ。進む方向がわからないのにノヴァフォームを使用して、消耗するのはまずい」"
+translation = "「아니, 그건 기다려 줘. 나아갈 방향도 모르는데 노바 폼을 사용해서 소모하는 건 좋지 않아.」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「それにあのガーディアンの自爆の時……」"
+translation = "「게다가 그 가디언이 자폭할 때……」"
+
+[[dialogue]]
+speaker = "メルエル"
+original = "「ナターシャちゃんが言ってた。『魔王の力に反応した』──って」"
+translation = "「나타샤짱이 말했었지. 『마왕의 힘에 반응했다』──라고.」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ナターシャの説明によると、約２０００年前、この神殿は悪しき魔王に狙われた。"
+translation = "나타샤의 설명에 따르면 약 2000년 전, 이 신전은 사악한 마왕의 표적이 되었다."
+
+[[dialogue]]
+speaker = "unk"
+original = "であれば、魔王への対策があってもおかしくないだろう。"
+translation = "그렇다면 마왕에 대한 대책이 있어도 이상하지 않을 것이다."
+
+[[dialogue]]
+speaker = "クロト"
+original = "「ノヴァフォームは魔王因子を使うものだし、今変身すると何が起こるか分からない」"
+translation = "「노바 폼은 마왕 인자를 사용하는 것이니, 지금 변신하면 무슨 일이 일어날지 몰라.」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「極星星徒会と直接戦闘することもあるだろうし、いざという時の切り札にしておこう」"
+translation = "「극성성도회와 직접 전투하게 될 일도 있을 테니, 만약을 위한 히든카드로 남겨두자.」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「……わかったわ。ノヴァフォームは消耗が激しいし、ここぞというタイミングで使いたいものね」"
+translation = "「……알았어. 노바 폼은 소모가 심하니까, 정말 중요한 타이밍에 쓰고 싶기도 하고.」"
+
+[[dialogue]]
+speaker = "unk"
+original = "温存の方針は決まった。だが神殿内を進むにはもう１つ問題がある。"
+translation = "온존 방침은 정해졌다. 하지만 신전 안을 나아가기에는 또 하나의 문제가 있다."
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「でもどっちに進めばいいのかしら？\u3000神殿の構造なんてわからないし……」"
+translation = "「그런데 어느 쪽으로 가야 할까? 신전 구조 같은 건 모르는데……」"
+
+[[dialogue]]
+speaker = "ガーディアン"
+original = "「ピーガガガ」"
+translation = "「삐가가가」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「あら、フィーニスの塔でも見たガーディアンじゃない。もはや懐かしさすら感じるわ」"
+translation = "「어머, 피니스의 탑에서도 봤던 가디언 아니니. 이제는 그리움마저 느껴지네.」"
+
+[[dialogue]]
+speaker = "ガーディアン"
+original = "「ピピピピ！」"
+translation = "「삐삐삐삐!」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「攻撃してきた──！」"
+translation = "「공격해 왔다──!」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「ちょっと、私たちは神殿を守りに来たんだけど！\u3000見境無しってこと！？」"
+translation = "「잠깐, 우리는 신전을 지키러 온 건데! 가리지 않고 공격한다는 거야!?」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "（応戦するか、力を温存するために隠れるか……）"
+translation = "（응전할 것인가, 힘을 온존하기 위해 숨을 것인가……）"
+
+[[dialogue]]
+speaker = "unk"
+original = "いくつかの選択肢が頭に浮かぶ。"
+translation = "몇 가지 선택지가 머릿속에 떠오른다."
+
+[[dialogue]]
+speaker = "unk"
+original = "このガーディアンを倒せば道が開けるとは限らない。戦いを避けるのも１つの手のように思える。"
+translation = "이 가디언을 쓰러뜨린다고 길이 열린다는 보장은 없다. 싸움을 피하는 것도 하나의 방법처럼 보인다."
+
+[[dialogue]]
+speaker = "メルエル"
+original = "「ねぇ、ガーディアンは神殿を守ろうとしてるんだよね？」"
+translation = "「저기, 가디언은 신전을 지키려고 하는 거지?」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「多分そうだけど……どうしたの、メルエル？」"
+translation = "「아마 그렇겠지만…… 왜 그래, 메르엘?」"
+
+[[dialogue]]
+speaker = "メルエル"
+original = "「今思ったんだけど、きっとガーディアンは中枢に向かう敵を排除しようとしてる」"
+translation = "「방금 생각한 건데, 분명 가디언은 중추로 향하는 적을 배제하려고 할 거야.」"
+
+[[dialogue]]
+speaker = "メルエル"
+original = "「じゃあ逆に、ガーディアンのいる方に進めば、神殿の中枢に近づけるんじゃないかな？」"
+translation = "「그럼 반대로, 가디언이 있는 쪽으로 나아가면 신전의 중추에 가까워질 수 있지 않을까?」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「……一理あるな。よし、ガーディアンを撃破しながら進もう！」"
+translation = "「……일리가 있군. 좋아, 가디언을 격파하며 나아가자!」"
+
+[[dialogue]]
+speaker = "メルエル"
+original = "「うん！」"
+translation = "「응!」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「ええ、力ずくで進むわよ！」"
+translation = "「그래, 힘으로 밀어붙이자고!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "道標は他にない。極星星徒会が先んずる可能性を考えれば、迷っている暇はなかった。"
+translation = "이정표는 따로 없다. 극성성도회가 앞설 가능성을 생각하면 망설일 틈이 없었다."
+
+[[dialogue]]
+speaker = "unk"
+original = "ならここはわずかな手がかりに懸けるべきだ。"
+translation = "그렇다면 여기서는 근소한 단서에 걸어야 한다."
+
+[[dialogue]]
+speaker = "メルエル"
+original = "「ディヴォーテッド・スラスト！」"
+translation = "「디보티드 슬러스트!」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「ヴィーナスエクスカリバー！」"
+translation = "「비너스 엑스칼리버!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "そしてガーディアンを撃破しながら突き進み──"
+translation = "그리고 가디언을 격파하며 돌진하여──"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「進む度にガーディアンが増えてきたわね。きっとメルエルが言ったので正解だわ！」"
+translation = "「나아갈 때마다 가디언이 늘어나네. 분명 메르엘이 말한 게 정답이야!」"
+
+[[dialogue]]
+speaker = "メルエル"
+original = "「はぁ、はぁ……うん、ならよかった」"
+translation = "「하아, 하아…… 응, 그렇다면 다행이야.」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「メルエル、大丈夫か？」"
+translation = "「메르엘, 괜찮아?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ガーディアンとの連戦のせいで、疲労が表情に表れている。"
+translation = "가디언과의 연전 탓에 피로가 표정에 드러나 있다."
+
+[[dialogue]]
+speaker = "unk"
+original = "メルエルも優秀なプリマステラだが、ヴィーナスについてくるのは負担が大きかったかもしれない。"
+translation = "메르엘도 우수한 프리마스텔라지만, 비너스를 따라오는 것은 부담이 컸을지도 모른다."
+
+[[dialogue]]
+speaker = "メルエル"
+original = "「平気！\u3000絶対役に立つって言ったでしょ。こんなところでへばってなんていられないんだから！」"
+translation = "「멀쩡해! 꼭 도움이 되겠다고 말했잖아. 이런 데서 지쳐 쓰러질 수는 없으니까!」"
+
+[[dialogue]]
+speaker = "メルエル"
+original = "「だからどんどん頼って、会長くん！」"
+translation = "「그러니까 마음껏 의지해 줘, 회장님!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "瞳に強い意志を宿し、気丈に笑顔を作るメルエル。"
+translation = "눈동자에 강한 의지를 담고 꿋꿋하게 미소 짓는 메르엘."
+
+[[dialogue]]
+speaker = "unk"
+original = "この戦いには、天界の<ruby>趨勢<rt>すうせい</rt></ruby>と、天使全ての命が懸かっている。もちろんメルエル自身の命も。"
+translation = "이 싸움에는 천계의 추세와 모든 천사의 목숨이 걸려 있다. 물론 메르엘 자신의 목숨도."
+
+[[dialogue]]
+speaker = "unk"
+original = "ここは無理のしどころだ。"
+translation = "지금은 무리해야 할 때다."
+
+[[dialogue]]
+speaker = "クロト"
+original = "「ああ、わかった。頼むぞ、メルエル」"
+translation = "「아아, 알았어. 부탁한다, 메르엘.」"
+
+[[dialogue]]
+speaker = "メルエル"
+original = "「うん！」"
+translation = "「응!」"
+
+[[dialogue]]
+speaker = "ゴルドン"
+original = "「ピガガガー！」"
+translation = "「삐가가가──!」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「またおいでなすったわね！\u3000何度でもスクラップにしてあげるわ！」"
+translation = "「또 오셨구만! 몇 번이고 고철로 만들어 주겠어!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "行く手に立ちはだかるように、機械型のガーディアンがまた現れる。"
+translation = "가는 길을 가로막듯 기계형 가디언이 다시 나타난다."
+
+[[dialogue]]
+speaker = "フェアリー"
+original = "「──」"
+translation = "「──」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「！\u3000いつの間に──」"
+translation = "「! 어느 사이에──」"
+
+[[dialogue]]
+speaker = "unk"
+original = "しかし他のガーディアンを囮にして、小型のガーディアンがいつの間にか接近していた。"
+translation = "하지만 다른 가디언을 미끼로 삼아, 소형 가디언이 어느샌가 접근해 있었다."
+
+[[dialogue]]
+speaker = "メルエル"
+original = "「きゃあっ！？」"
+translation = "「꺄악!?」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "（！？\u3000この光景は……俺がアステラに連れ去られた時の……？）"
+translation = "（!? 이 광경은…… 내가 아스테라에 끌려갔을 때의……?）"
+
+[[dialogue]]
+speaker = "unk"
+original = "まるで蟻のように俺に群がるモンスター。"
+translation = "마치 개미처럼 나에게 몰려드는 몬스터들."
+
+[[dialogue]]
+speaker = "unk"
+original = "必死の抵抗も虚しくアステラ内部に連れていかれ、死を待つだけの状態だった。"
+translation = "필사적인 저항도 헛되이 아스테라 내부로 끌려가, 죽음만을 기다리던 상태였다."
+
+[[dialogue]]
+speaker = "unk"
+original = "セイファート元学園長が来てくれなければ、俺は死体も残らず朽ち果てていただろう。"
+translation = "세이파트 전 학원장이 와주지 않았다면, 나는 시체도 남지 않고 썩어 문드러졌을 것이다."
+
+[[dialogue]]
+speaker = "クロト"
+original = "（あの時の怖さは今でも覚えている。忘れるはずがない）"
+translation = "（그때의 공포는 지금도 기억하고 있어. 잊을 수 있을 리가 없지）"
+
+[[dialogue]]
+speaker = "unk"
+original = "冷たい汗が噴き出て、心臓の鼓動が速くなる。"
+translation = "식은땀이 솟구치고 심장 박동이 빨라진다."
+
+[[dialogue]]
+speaker = "unk"
+original = "比べ物にならない強敵と戦ってきたけど、あの時より恐怖を覚えたことはなかった。"
+translation = "비교도 안 될 강적과 싸워왔지만, 그때보다 더한 공포를 느낀 적은 없었다."
+
+[[dialogue]]
+speaker = "メルエル"
+original = "「大丈夫、会長くん！？」"
+translation = "「괜찮아요, 회장님!?」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「あ、ああ……ありがとう、メルエル。だけど今見えたものは……？」"
+translation = "「아, 아아…… 고마워, 메르엘. 그런데 방금 보인 것은……?」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「ガーディアンの光を浴びたら、何かが見えて……アステラの中だった気がするわね」"
+translation = "「가디언의 빛을 쬐었더니 무언가가 보여서…… 아스테라 안이었던 것 같네.」"
+
+[[dialogue]]
+speaker = "メルエル"
+original = "「うん、私もアステラが見えたよ」"
+translation = "「응, 나도 아스테라가 보였어.」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「ヴィーナスとメルエルにも見えたのか？」"
+translation = "「비너스와 메르엘에게도 보인 거야?」"
+
+[[dialogue]]
+speaker = "メルエル"
+original = "「会長くんも？\u3000顔色が悪いみたいだけど……」"
+translation = "「회장님도? 안색이 안 좋아 보이는데……」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「……あの光景は、俺がアステラに連れ去られた時のものなんだ」"
+translation = "「……그 광경은 내가 아스테라에 끌려갔을 때의 일이야.」"
+
+[[dialogue]]
+speaker = "メルエル"
+original = "「会長くんの記憶……！？\u3000どういうこと……？」"
+translation = "「회장님의 기억……!? 어떻게 된 거지……?」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「わからない。だけどあれが神殿の防衛機構だとすれば、多分トラウマを刺激して、精神攻撃を行うものだと思う」"
+translation = "「모르겠어. 하지만 저게 신전의 방어 기구라면, 아마 트라우마를 자극해서 정신 공격을 하는 거라고 생각해.」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「きっとトラウマを伝播させて、見境なく侵入者を攻撃しているんじゃないか」"
+translation = "「분명 트라우마를 전파시켜서 가리지 않고 침입자를 공격하고 있는 거겠지.」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「女神の神殿なのに、随分いやらしい攻撃してくれるじゃない」"
+translation = "「여신의 신전 주제에 꽤나 비겁한 공격을 해주네.」"
+
+[[dialogue]]
+speaker = "メルエル"
+original = "「女神様でも、それはちょっとひどいと思うな……！」"
+translation = "「여신님이라도 그건 좀 너무하다고 생각해요……!」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「でもそういう攻撃をしてくるガーディアンがいるってわかれば、注意すればいいだけだわ」"
+translation = "「하지만 그런 공격을 해오는 가디언이 있다는 걸 알았으니 주의하면 그만이야.」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ガーディアンに向かって杖を構えるヴィーナス。しかしそこに──"
+translation = "가디언을 향해 지팡이를 겨누는 비너스. 그러나 그곳에──"
+
+[[dialogue]]
+speaker = "ホルン"
+original = "「クルルー！」"
+translation = "「쿠루루──!」"
+
+[[dialogue]]
+speaker = "スレイプニル"
+original = "「ブルル！」"
+translation = "「부르르!」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「極星従騎まで……！」"
+translation = "「극성종기까지……!」"
+
+[[dialogue]]
+speaker = "メルエル"
+original = "「でも極星従騎がいるってことは……」"
+translation = "「하지만 극성종기가 있다는 건……」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「ああ、おそらく極星星徒会がここを通ったはずだ」"
+translation = "「아아, 아마 극성성도회가 이곳을 지나갔을 거야.」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「極星従騎は強敵だ。ここで足止めされれば、極星星徒会が先に神殿の奥に行ってしまう」"
+translation = "「극성종기는 강적이다. 여기서 발이 묶이면 극성성도회가 먼저 신전 깊숙이 가버리고 말아.」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「つまり、今が切り札の使い時ってことね？」"
+translation = "「즉, 지금이 히든카드를 쓸 때라는 거지?」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「ああ、頼んだ！」"
+translation = "「아아, 부탁한다!」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「まっかせなさい！\u3000チェンジ・ノヴァフォーム！」"
+translation = "「맡겨만 줘! 체인지 노바 폼!」"
+
+[[dialogue]]
+speaker = "ヴィーナス（覚醒）"
+original = "「今度こそノヴァフォームの力、見せつけてやるわ！」"
+translation = "「이번에야말로 노바 폼의 힘, 제대로 보여주겠어!」"
+
+[[dialogue]]
+speaker = "メルエル"
+original = "「これがヴィーナスちゃんのノヴァフォーム……すっごく強そう……！」"
+translation = "「이게 비너스짱의 노바 폼…… 정말 강해 보여……!」"
+
+[[dialogue]]
+speaker = "ヴィーナス（覚醒）"
+original = "「もちろん強いわよ！\u3000クロト、メルエル、ちょっとじっとしててね」"
+translation = "「물론 강하고말고! 쿠로토, 메르엘, 잠깐 가만히 있어 봐.」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ヴィーナスが俺とメルエルを脇に抱える。"
+translation = "비너스가 나와 메르엘을 옆구리에 낀다."
+
+[[dialogue]]
+speaker = "クロト"
+original = "「ん？」"
+translation = "「응?」"
+
+[[dialogue]]
+speaker = "メルエル"
+original = "「え？」"
+translation = "「에?」"
+
+[[dialogue]]
+speaker = "ヴィーナス（覚醒）"
+original = "「クロト、メルエル、しっかり掴まっててね！\u3000それじゃ──」"
+translation = "「쿠로토, 메르엘, 꽉 잡고 있어! 그럼──」"
+
+[[dialogue]]
+speaker = "ヴィーナス（覚醒）"
+original = "「ノヴァダーーーーーッシュ！！！」"
+translation = "「노바 대시──!!!」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「うわぁっ！？」"
+translation = "「으와앗!?」"
+
+[[dialogue]]
+speaker = "メルエル"
+original = "「わーーーーーーっ！！？」"
+translation = "「와아아아아──!!?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "そしてヴィーナスは星力の光をまとい、弾丸となって走り出した。"
+translation = "그리고 비너스는 성력의 빛을 두르고 탄환이 되어 달리기 시작했다."
+
+[[dialogue]]
+speaker = "ヴィーナス（覚醒）"
+original = "「飛べないならジャンプすればいいのよ！」"
+translation = "「날 수 없다면 점프하면 되는 거야!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "その言葉通り一跳びで数十メートルを跳躍し、猛烈なスピードで神殿内を駆ける。"
+translation = "그 말대로 한 번의 도약으로 수십 미터를 뛰어넘으며 맹렬한 속도로 신전 내부를 달린다."
+
+[[dialogue]]
+speaker = "スレイプニル"
+original = "「ブルルル！」"
+translation = "「부르르르!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "極星従騎が前に立ちふさがるが──"
+translation = "극성종기가 앞을 가로막지만──"
+
+[[dialogue]]
+speaker = "ヴィーナス（覚醒）"
+original = "「邪魔！」"
+translation = "「비켜!」"
+
+[[dialogue]]
+speaker = "スレイプニル"
+original = "「！？」"
+translation = "「!?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ヴィーナスは星術を使うことすらなく、体当たりで極星従騎を粉々にした。"
+translation = "비너스는 성술을 쓰지도 않고 몸통 박치기로 극성종기를 산산조각 냈다."
+
+[[dialogue]]
+speaker = "メルエル"
+original = "「極星従騎がこんな簡単に……！？\u3000これがノヴァフォームの力！？」"
+translation = "「극성종기가 이렇게 간단히……!? 이게 노바 폼의 힘!?」"
+
+[[dialogue]]
+speaker = "メルエル"
+original = "「だけど目が回るよ～～～っ！！」"
+translation = "「그치만 눈이 돌아가요~~~앗!!」"
+
+[[dialogue]]
+speaker = "ヴィーナス（覚醒）"
+original = "「さらに加速するわよーーっ！！」"
+translation = "「더 가속한다──앗!!」"
+
+[[dialogue]]
+speaker = "メルエル"
+original = "「きゃ～～～っ！？」"
+translation = "「꺄아아악──!?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "アトラクションじみた加速と疾走感とともに、一直線に駆け抜けて──"
+translation = "어트랙션 같은 가속과 질주감과 함께 일직선으로 달려 나가──"
+
+[[dialogue]]
+speaker = "グレイス"
+original = "「まさか飛行が不可能になるとは思いませんでした……しかしもうすぐで最深部に──」"
+translation = "「설마 비행이 불가능해질 줄은 몰랐습니다…… 하지만 곧 최심부에──」"
+
+[[dialogue]]
+speaker = "メルエル"
+original = "「いた！\u3000極星星徒会の星騎士だ！」"
+translation = "「찾았다! 극성성도회의 성기사다!」"
+
+[[dialogue]]
+speaker = "グレイス"
+original = "「！\u3000アルタイルの星騎士……緋宮クロト……！」"
+translation = "「! 알타이르의 성기사…… 히노미야 쿠로토……!」"
+
+[[dialogue]]
+speaker = "ヴィーナス（覚醒）"
+original = "「見つけたわ、極星星徒会！\u3000あなたたちの思い通りにはさせないわよ！」"
+translation = "「찾아냈어, 극성성도회! 당신들 마음대로 하게 두지 않겠어!」"
+

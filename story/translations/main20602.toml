@@ -1,0 +1,505 @@
+[[dialogue]]
+speaker = "unk"
+original = "第２話,デネブでの再会,B"
+translation = "제2화, 데네브에서의 재회"
+
+[[dialogue]]
+speaker = "unk"
+original = "クロトとヴィーナスが極星従騎の襲撃を受ける少し前。"
+translation = "쿠로토와 비너스가 극성종기의 습격을 받기 조금 전."
+
+[[dialogue]]
+speaker = "unk"
+original = "梨緒も目を覚まし、建物の陰に身を潜めてていた。"
+translation = "리오도 눈을 뜨고, 건물 그늘에 몸을 숨기고 있었다."
+
+[[dialogue]]
+speaker = "梨緒"
+original = "（見慣れない景色……だが遠くにフィーニスの塔が見えた。ここは流星市国だ）"
+translation = "(낯선 풍경…… 하지만 멀리 피니스의 탑이 보였어. 여기는 유성시국이다)"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "（おそらくデネブの……な。平行世界を転移するのも二度目だ、さすがにわかる）"
+translation = "(아마 데네브의…… 겠지. 평행세계를 전이하는 것도 두 번째다, 과연 알겠어)"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "（ベガ、アルタイル、デネブ……これで３つの平行世界全てを訪れたことになる。もしかすると私が初めてだろうか）"
+translation = "(베가, 알타이르, 데네브…… 이것으로 3개의 평행세계 모두를 방문한 셈이 되네. 어쩌면 내가 처음일까)"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "（それともリクリエの使徒となった君の方が先なのか？\u3000……ジグ）"
+translation = "(아니면 리크리에의 사도가 된 네가 먼저인 건가? ……지그)"
+
+[[dialogue]]
+speaker = "ジグ"
+original = "「私は可能性を見た。だけど世界を救える未来なんてどこにもなかった」"
+translation = "「나는 가능성을 보았어. 하지만 세계를 구할 수 있는 미래 같은 건 어디에도 없었지.」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "（あの言葉とあの表情は、リクリエの使徒としてではなく、新星の星徒会長としてのものだった）"
+translation = "(그 말과 그 표정은, 리크리에의 사도로서가 아니라, 신성의 성도회장으로서의 것이었어)"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "（ジグは世界を救えないと、最初からそう思っていたのか……？\u3000君は諦めていたのか……？）"
+translation = "(지그는 세계를 구할 수 없다고, 처음부터 그렇게 생각하고 있었던 건가……? 너는 포기하고 있었던 거야……?)"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "（ならどうして言わなかった？\u3000星徒会副会長として、私はそんなに頼りなかったのか？）"
+translation = "(그렇다면 왜 말하지 않았지? 성도회 부회장으로서, 나는 그렇게 믿음직스럽지 못했던 건가?)"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "（…………副会長、か）"
+translation = "(…………부회장, 인가)"
+
+[[dialogue]]
+speaker = "チナ"
+original = "「副会長！？\u3000どうしてここに！？」"
+translation = "「부회장!? 어떻게 여기에!?」"
+
+[[dialogue]]
+speaker = "ベアトリス"
+original = "「……！\u3000チナちゃんっ！」"
+translation = "「……! 치나짱!」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "（あの時、チナはベアトを『副会長』と呼んだ。そしてベアトはそれを否定せず、空間の穴からチナを助けた）"
+translation = "(그때, 치나는 베아토를 『부회장』이라 불렀어. 그리고 베아토는 그것을 부정하지 않고, 공간의 구멍에서 치나를 구했지)"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "（ベアトが極星学園の星徒会副会長であることは、状況からして間違いないだろう）"
+translation = "(베아토가 극성학원의 성도회 부회장이라는 건, 상황으로 보아 틀림없겠지)"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "（彼女は魔界からの留学生と聞いていたが、どうやって新星学園に入った……？）"
+translation = "(그녀는 마계에서 온 유학생이라고 들었는데, 어떻게 신성학원에 들어온 거지……?)"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "（彼女の目的は何だ？\u3000チナとともにアルタイルを滅ぼすことか？）"
+translation = "(그녀의 목적은 뭐지? 치나와 함께 알타이르를 멸망시키는 것인가?)"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "（だがそれならチナを支援したはず……それとも味方としてチナの自爆を止めたのか……？）"
+translation = "(하지만 그렇다면 치나를 지원했을 터…… 아니면 아군으로서 치나의 자폭을 막은 건가……?)"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "（ベアト……君は敵なのか？）"
+translation = "(베아토…… 너는 적인가?)"
+
+[[dialogue]]
+speaker = "ベアトリス"
+original = "「泣くならちゃんと、私の見えるところで泣いて。そうじゃないと、必要な時に助けられなくなっちゃう」"
+translation = "「울 거라면 제대로, 내가 보이는 곳에서 울어줘. 그렇지 않으면, 필요할 때 도와줄 수 없게 되니까.」"
+
+[[dialogue]]
+speaker = "ベアトリス"
+original = "「まだ結成して日は浅いかもしれないけど、私たちは同じ、選挙管理委員会の仲間でしょ？」"
+translation = "「아직 결성한 지 얼마 안 됐을지도 모르지만, 우리들은 똑같은, 선거관리위원회의 동료잖아?」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "（君はそう言って、私の涙を拭ってくれた……）"
+translation = "(너는 그렇게 말하며, 나의 눈물을 닦아주었지……)"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "（だけどそれは、私に取り入って新星学園に潜入するためだったのか……？\u3000ずっと私を騙していたのか……？）"
+translation = "(하지만 그것은, 나에게 접근해서 신성학원에 잠입하기 위해서였던 건가……? 계속 나를 속이고 있었던 거야……?)"
+
+[[dialogue]]
+speaker = "unk"
+original = "極星星徒会は敵だ。ならベアトリスも敵だ。"
+translation = "극성성도회는 적이다. 그렇다면 베아트리스도 적이다."
+
+[[dialogue]]
+speaker = "unk"
+original = "だがベアトリスが敵なら、チナに加担してアルタイルを滅ぼそうとしたはずだ。だがベアトリスにそんな素振りはなかった。"
+translation = "하지만 베아트리스가 적이라면, 치나에게 가담해서 알타이르를 멸망시키려 했을 것이다. 하지만 베아트리스에게 그런 기색은 없었다."
+
+[[dialogue]]
+speaker = "unk"
+original = "それに思い浮かぶベアトリスの言葉は、笑顔は、敵が向けてくるものだとはとても思えなかった。"
+translation = "게다가 떠오르는 베아트리스의 말은, 미소는, 적이 향하는 것이라고는 도저히 생각되지 않았다."
+
+[[dialogue]]
+speaker = "梨緒"
+original = "（君は敵なのか？\u3000味方なのか？）"
+translation = "(너는 적인가? 아군인가?)"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "（敵でないならどうして私に言わなかった？\u3000ベアトも、ジグも、どうして私に黙っていたんだ……！？）"
+translation = "(적이 아니라면 왜 나에게 말하지 않았지? 베아토도, 지그도, 왜 나에게 침묵하고 있었던 거야……!?)"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「……いや、今は動こう。デネブに飛ばされた仲間と合流しなければ」"
+translation = "「……아니, 지금은 움직이자. 데네브로 날려 온 동료들과 합류해야 해.」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ここは敵地だ。考えに耽ってばかりでは、敵である極星学園に見つかってしまう。"
+translation = "여기는 적지다. 생각에만 잠겨 있어서는, 적인 극성학원에 들키고 만다."
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「闇雲に行動しても危険なだけだ。ならばどう動く……？」"
+translation = "「무턱대고 행동하는 건 위험할 뿐이다. 그렇다면 어떻게 움직이지……?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "新星・流星学園は星騎士たちの本拠地。"
+translation = "신성·유성학원은 성기사들의 본거지."
+
+[[dialogue]]
+speaker = "unk"
+original = "そして学園の敷地内には、流星教の中心である大聖堂と、三界を繋ぐフィーニスの塔がある。目印としてはこれ以上のものはない。"
+translation = "그리고 학원 부지 내에는, 유성교의 중심인 대성당과, 삼계를 잇는 피니스의 탑이 있다. 이정표로서는 이 이상의 것이 없다."
+
+[[dialogue]]
+speaker = "unk"
+original = "だがそこには極星学園がある可能性が高い。"
+translation = "하지만 그곳에는 극성학원이 있을 가능성이 높다."
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「虎穴に入らずんば虎子を得ず……か」"
+translation = "「호랑이 굴에 들어가지 않으면 호랑이 새끼를 잡을 수 없다…… 인가.」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ある程度の危険を承知で、人目のある道を避けながらフィーニスの塔を目指すと──"
+translation = "어느 정도의 위험을 각오하고, 사람 눈에 띄는 길을 피하며 피니스의 탑을 향하자──"
+
+[[dialogue]]
+speaker = "ベアトリス"
+original = "「あ──」"
+translation = "「아──」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「ッ──！」"
+translation = "「윽──!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "咄嗟に変身し、警戒を露わにする梨緒。ベアトリスも変身して梨緒に対峙する。"
+translation = "황급히 변신하여, 경계심을 드러내는 리오. 베아트리스도 변신하여 리오와 대치한다."
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「……」"
+translation = "「……」"
+
+[[dialogue]]
+speaker = "ベアトリス"
+original = "「ぁ……ぅ……」"
+translation = "「아…… 우……」"
+
+[[dialogue]]
+speaker = "unk"
+original = "梨緒はクロスボウを向けていないものの、強張った表情でベアトリスをにらむ。"
+translation = "리오는 크로스보우를 겨누지는 않았지만, 굳은 표정으로 베아트리스를 노려본다."
+
+[[dialogue]]
+speaker = "unk"
+original = "一方、ベアトリスは口を開いては閉じたりを繰り返し、何も言葉にできずにいた。"
+translation = "한편, 베아트리스는 입을 열었다 닫았다를 반복하며, 아무 말도 하지 못하고 있었다."
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「ベアトリス……なんだな」"
+translation = "「베아트리스……구나.」"
+
+[[dialogue]]
+speaker = "ベアトリス"
+original = "「……うん」"
+translation = "「……응.」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「いくつか確認させてくれ。ここはデネブで間違いないな？」"
+translation = "「몇 가지 확인하게 해줘. 여기는 데네브가 틀림없지?」"
+
+[[dialogue]]
+speaker = "ベアトリス"
+original = "「……うん」"
+translation = "「……응.」"
+
+[[dialogue]]
+speaker = "unk"
+original = "梨緒の問いに、ベアトリスが力なく頷く。"
+translation = "리오의 질문에, 베아트리스가 힘없이 고개를 끄덕인다."
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「デネブに飛ばされる前、チナは君を副会長と呼び、君はチナを助けた」"
+translation = "「데네브로 날려 오기 전, 치나는 너를 부회장이라 불렀고, 너는 치나를 구했어.」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「君は極星星徒会の副会長……だな？」"
+translation = "「너는 극성성도회의 부회장……이지?」"
+
+[[dialogue]]
+speaker = "ベアトリス"
+original = "「…………うん」"
+translation = "「…………응.」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「……！」"
+translation = "「……!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "自身の出自をとうとう認めるベアトリス。"
+translation = "자신의 출신을 드디어 인정하는 베아트리스."
+
+[[dialogue]]
+speaker = "unk"
+original = "梨緒が向ける視線はより厳しいものになる。"
+translation = "리오가 향하는 시선은 더욱 엄격해진다."
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「チナは君にとって仲間なのか？」"
+translation = "「치나는 너에게 동료인가?」"
+
+[[dialogue]]
+speaker = "ベアトリス"
+original = "「……うん。チナちゃんは星徒会の庶務で、私がドジするといつも助けてくれて……」"
+translation = "「……응. 치나짱은 성도회의 서무고, 내가 실수하면 언제나 도와줘서……」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「どうして極星の星徒会であることを黙っていた？\u3000私たちを騙し討ちにするためか？」"
+translation = "「왜 극성의 성도회라는 걸 숨기고 있었지? 우리를 기습하기 위해서인가?」"
+
+[[dialogue]]
+speaker = "ベアトリス"
+original = "「ち、ちが──！？\u3000そんなつもりじゃなくて……」"
+translation = "「아, 아냐──!? 그럴 생각은 아니었고……」"
+
+[[dialogue]]
+speaker = "ベアトリス"
+original = "「私は……梨緒ちゃんたちを傷つけるつもりじゃ……」"
+translation = "「나는…… 리오짱 일행을 상처 입힐 생각은……」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「なら、どうして言わなかった？\u3000なぜ自分から教えてくれなかった？」"
+translation = "「그럼, 왜 말하지 않았지? 왜 스스로 가르쳐주지 않았어?」"
+
+[[dialogue]]
+speaker = "ベアトリス"
+original = "「え、えっと……それは……」"
+translation = "「어, 에또…… 그건……」"
+
+[[dialogue]]
+speaker = "ベアトリス"
+original = "（もしアルタイルが、デネブのように他の平行世界を滅ぼそうと考えていたら……デネブ出身の私はどうなるかわからなかった）"
+translation = "(만약 알타이르가, 데네브처럼 다른 평행세계를 멸망시키려 생각하고 있었다면…… 데네브 출신인 내가 어떻게 될지 몰랐어)"
+
+[[dialogue]]
+speaker = "ベアトリス"
+original = "（だから、私がどこから来たかを話すわけにはいかなかった）"
+translation = "(그래서, 내가 어디서 왔는지를 말할 수는 없었어)"
+
+[[dialogue]]
+speaker = "ベアトリス"
+original = "（でもアルタイルは、デネブと戦うことを選ばなかった。むしろデネブと一緒にリクリエと戦う道を選んだ）"
+translation = "(하지만 알타이르는, 데네브와 싸우는 것을 택하지 않았어. 오히려 데네브와 함께 리크리에와 싸우는 길을 택했지)"
+
+[[dialogue]]
+speaker = "ベアトリス"
+original = "（私が極星の副会長だって、話せたはずなのに……私は怖くて……）"
+translation = "(내가 극성의 부회장이라고, 말할 수 있었을 텐데…… 나는 무서워서……)"
+
+[[dialogue]]
+speaker = "ベアトリス"
+original = "「…………」"
+translation = "「…………」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「教えてくれ、ベアトリス。君は私たちの敵なのか？」"
+translation = "「가르쳐줘, 베아트리스. 너는 우리들의 적이야?」"
+
+[[dialogue]]
+speaker = "ベアトリス"
+original = "「っ……それは……」"
+translation = "「윽…… 그건……」"
+
+[[dialogue]]
+speaker = "ベアトリス"
+original = "（チナちゃんはみんなを傷つけて、アルタイルを滅ぼそうとした。デネブを守るためで、気持ちは痛いほどわかるけど……それは許されないことだ）"
+translation = "(치나짱은 모두를 상처 입히고, 알타이르를 멸망시키려 했어. 데네브를 지키기 위해서였고, 그 마음은 아플 정도로 잘 알지만…… 그건 용서받을 수 없는 일이야)"
+
+[[dialogue]]
+speaker = "ベアトリス"
+original = "（アルタイルにとって極星学園は敵で、私は極星星徒会の副会長で……）"
+translation = "(알타이르에게 극성학원은 적이고, 나는 극성성도회의 부회장이고……)"
+
+[[dialogue]]
+speaker = "ベアトリス"
+original = "（私が敵じゃないって言ったって、どうやって信じてもらえるんだろう……？）"
+translation = "(내가 적이 아니라고 말한들, 어떻게 믿어줄 수 있을까……?)"
+
+[[dialogue]]
+speaker = "ベアトリス"
+original = "（私が敵じゃないなんて、何の証拠もない……。そんな都合のいいこと、信じてもらえるんだろうか……？）"
+translation = "(내가 적이 아니라는 건, 아무런 증거도 없어……. 그런 형편 좋은 말을, 믿어줄 수 있을까……?)"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "（極星学園はアルタイルを滅ぼそうとする敵だ。だが、ベアトを敵だと断定するには疑問が多い）"
+translation = "(극성학원은 알타이르를 멸망시키려 하는 적이다. 하지만, 베아토를 적이라고 단정하기에는 의문이 많아)"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "（理由があるなら、納得できるように説明してくれ）"
+translation = "(이유가 있다면, 납득할 수 있게 설명해줘)"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "（敵でないなら、そう言ってくれ……私を信じさせてくれ……）"
+translation = "(적이 아니라면, 그렇다고 말해줘…… 나를 믿게 해줘……)"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「答えられないのか？」"
+translation = "「대답할 수 없는 건가?」"
+
+[[dialogue]]
+speaker = "ベアトリス"
+original = "「ぅ…………」"
+translation = "「우…………」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「では問いを変えよう。君の目的は何だ？\u3000君は何のためにアルタイルにやってきた？」"
+translation = "「그럼 질문을 바꾸지. 네 목적은 뭐지? 너는 무엇을 위해 알타이르에 왔어?」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「新星学園の情報を集めることか？\u3000それともアルタイルを滅ぼすことか？」"
+translation = "「신성학원의 정보를 모으는 것인가? 아니면 알타이르를 멸망시키는 것인가?」"
+
+[[dialogue]]
+speaker = "ベアトリス"
+original = "「そうじゃ、なくて……」"
+translation = "「그런 게, 아니라……」"
+
+[[dialogue]]
+speaker = "ベアトリス"
+original = "（私はデネブも、アルタイルも、滅びなくていい道を探したかった）"
+translation = "(나는 데네브도, 알타이르도, 멸망하지 않아도 되는 길을 찾고 싶었어)"
+
+[[dialogue]]
+speaker = "ベアトリス"
+original = "（ルヴィに無茶だ、不可能だって言われて、それでもアルタイルに渡った）"
+translation = "(루비에게 무리다, 불가능하다는 말을 듣고도, 그래도 알타이르로 건너갔어)"
+
+[[dialogue]]
+speaker = "ベアトリス"
+original = "（……でも私には何もできなかった）"
+translation = "(……하지만 나에게는 아무것도 할 수 없었어)"
+
+[[dialogue]]
+speaker = "ベアトリス"
+original = "（チナちゃんがデネブからやってきて、アルタイルを滅ぼそうとして……だけど私はチナちゃんを説得することも、戦いを止めることもできなかった）"
+translation = "(치나짱이 데네브에서 건너와서, 알타이르를 멸망시키려 하고…… 하지만 나는 치나짱을 설득하는 것도, 싸움을 멈추는 것도 할 수 없었어)"
+
+[[dialogue]]
+speaker = "ベアトリス"
+original = "（今でも気持ちは変わらない。デネブもアルタイルも救いたいと思ってる。でも私は何の力もない役立たずで……）"
+translation = "(지금도 마음은 변하지 않았어. 데네브도 알타이르도 구하고 싶다고 생각해. 하지만 나는 아무런 힘도 없는 쓸모없는 사람이라……)"
+
+[[dialogue]]
+speaker = "ベアトリス"
+original = "（２つの世界を救いたかったなんて、自信を持って言えない……この気持ちを梨緒ちゃんにまで否定されたら、私は──）"
+translation = "(두 세계를 구하고 싶었다니, 자신 있게 말할 수 없어…… 이 마음을 리오짱에게까지 부정당한다면, 나는──)"
+
+[[dialogue]]
+speaker = "ベアトリス"
+original = "「私は……私は……」"
+translation = "「나는…… 나는……」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「君は仲間だと言ってくれた。私が泣いていたら、ハンカチで涙を拭うと言ってくれた」"
+translation = "「너는 동료라고 말해줬어. 내가 울고 있다면, 손수건으로 눈물을 닦아주겠다고 말했지.」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「その言葉は嘘だったのか、ベアト……！」"
+translation = "「그 말은 거짓말이었어, 베아토……!」"
+
+[[dialogue]]
+speaker = "ベアトリス"
+original = "「──！」"
+translation = "「──!」"
+
+[[dialogue]]
+speaker = "ベアトリス"
+original = "「ごめん……本当にごめんなさい……私は、梨緒ちゃんを裏切っちゃったんだね……」"
+translation = "「미안해…… 정말 미안해…… 나는, 리오짱을 배신해 버린 거네……」"
+
+[[dialogue]]
+speaker = "ベアトリス"
+original = "「私はもう、梨緒ちゃんの前にいない方がいいと思う。だから──」"
+translation = "「나는 이제, 리오짱 앞에 있지 않는 게 좋다고 생각해. 그러니까──」"
+
+[[dialogue]]
+speaker = "ベアトリス"
+original = "「ごめんっ！」"
+translation = "「미안해!」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「ベアト──！？」"
+translation = "「베아토──!?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ベアトリスが梨緒に背を向けて駆け出す。"
+translation = "베아트리스가 리오에게 등을 돌리고 달려 나간다."
+
+[[dialogue]]
+speaker = "unk"
+original = "梨緒がベアトリスを追おうとした瞬間──"
+translation = "리오가 베아트리스를 쫓으려던 순간──"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「──！？」"
+translation = "「──!?」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「どこかで戦闘が起きているのか？\u3000どこで誰が戦っている……？」"
+translation = "「어딘가에서 전투가 일어나고 있는 건가? 어디서 누가 싸우고 있는 거지……?」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「…………くっ──！」"
+translation = "「…………큭──!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "梨緒は一瞬の逡巡の後、ベアトリスの背中を追って駆け出した。"
+translation = "리오는 순간의 주저함 끝에, 베아트리스의 뒤를 쫓아 달려 나갔다."
+

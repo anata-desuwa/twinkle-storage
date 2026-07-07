@@ -1,0 +1,350 @@
+[[dialogue]]
+speaker = "unk"
+original = "クリスマスまであと１週間となった休日。"
+translation = "크리스마스까지 앞으로 1주일 남은 휴일."
+
+[[dialogue]]
+speaker = "unk"
+original = "なんだかんだ、あれからブレスレット作りも順調で、その日は気晴らしにみんなで街へ遊びに来ていた。"
+translation = "어찌저찌 그때부터 팔찌 만들기도 순조로웠고, 그날은 기분 전환 겸 다 같이 거리로 놀러 나왔다."
+
+[[dialogue]]
+speaker = "unk"
+original = "ショッピングモールの中を歩いていると、先日の話題になる。"
+translation = "쇼핑몰 안을 걷다 보니 요전번의 화제가 나왔다."
+
+[[dialogue]]
+speaker = "セシア"
+original = "「そういえばルルカ、あれからクリスマスソングの作詞は進んでいるの？」"
+translation = "「그러고 보니 루루카, 그때부터 크리스마스 송 작사는 진행되고 있니?」"
+
+[[dialogue]]
+speaker = "ルルカ"
+original = "「いや～、それがまだ全然で……。途中まで書いてみたんだけど、いまいちしっくり来ないというか」"
+translation = "「아니~ 그게 아직 전혀라서……. 중간까지 써보긴 했는데 영 어색하다고 해야 할까.」"
+
+[[dialogue]]
+speaker = "ルルカ"
+original = "「これまで恋愛経験がないのに、『恋人とのラブソング』ってテーマが無茶だったかなぁって、今更ちょっと後悔してたり……あはは」"
+translation = "「지금껏 연애 경험도 없으면서 『연인과의 러브송』이라는 테마가 무리였나 싶어서 이제 와서 좀 후회 중이야…… 아하하.」"
+
+[[dialogue]]
+speaker = "ルルカ"
+original = "「――あ～あ、恋人の１人でも本当にできたら、エネルギー全開になって、オリジナルソングの１つや２つ、サクッと作れちゃいそうなのにな～」"
+translation = "「――아~아, 연인 한 명이라도 정말 생기면 에너지 풀 충전돼서 오리지널 송 한두 개는 슥슥 만들 수 있을 것 같은데 말이지~」"
+
+[[dialogue]]
+speaker = "フェニエル"
+original = "「あっ」"
+translation = "「앗.」"
+
+[[dialogue]]
+speaker = "ルルカ"
+original = "「って、フニちゃん、立ち止まってどうしたの？」"
+translation = "「어라, 후니 짱, 멈춰 서서 왜 그래?」"
+
+[[dialogue]]
+speaker = "フェニエル"
+original = "「これ、可愛い便箋と封筒だなって思って。ちょっと買って来てもいいでしょうか？」"
+translation = "「이거, 예쁜 편지지랑 봉투라고 생각해서요. 잠깐 사와도 괜찮을까요?」"
+
+[[dialogue]]
+speaker = "ルルカ"
+original = "「もちろんいいけど、誰かに手紙を送るの？」"
+translation = "「물론 괜찮지만 누구한테 편지 쓰려고?」"
+
+[[dialogue]]
+speaker = "フェニエル"
+original = "「はい。クリスマスなので、北海道の村のみんな宛に近況報告と、メリークリスマスって伝えられたらなって」"
+translation = "「네. 크리스마스니까 홋카이도 마을 분들께 근황 보고랑 메리 크리스마스라고 전하고 싶어서요.」"
+
+[[dialogue]]
+speaker = "セシア"
+original = "「……！」"
+translation = "「……!」"
+
+[[dialogue]]
+speaker = "フェニエル"
+original = "「じゃあ私、ちょっと買いに行って来ますねっ」"
+translation = "「그럼 저 잠시 사러 다녀올게요!」"
+
+[[dialogue]]
+speaker = "セシア"
+original = "「――ねぇ、ルルカ。わたくし、ちょっと思ったのだけれど……」"
+translation = "「――있잖아, 루루카. 저, 조금 생각한 건데……」"
+
+[[dialogue]]
+speaker = "セシア"
+original = "「<b>ママへのラブソング</b>じゃ、ダメかしら？」"
+translation = "「<b>마마를</b> <b>향한</b> <b>러브송</b>이면 안 될까?」"
+
+[[dialogue]]
+speaker = "ルルカ"
+original = "「え？」"
+translation = "「에?」"
+
+[[dialogue]]
+speaker = "セシア"
+original = "「わたくしもルルカと同じで、恋愛経験はないわ。だから、恋人とのラブソングが書きたいということなら、上手いアドバイスはできない」"
+translation = "「저도 루루카랑 마찬가지로 연애 경험은 없어요. 그러니 연인과의 러브송을 쓰고 싶은 거라면 좋은 조언은 해줄 수 없죠.」"
+
+[[dialogue]]
+speaker = "セシア"
+original = "「それはわたくしの中に、恋愛に関するアドバイスを引き出せるような『蓄積』がないからよ。だけど……」"
+translation = "「그건 제 안에 연애에 관한 조언을 끌어낼 만한 『축적』이 없기 때문이에요. 하지만……」"
+
+[[dialogue]]
+speaker = "セシア"
+original = "「ラブソングで歌う愛って、必ずしも恋人が相手じゃなければダメなのかしら？\u3000フニが北海道の村の人たち――」"
+translation = "「러브송에서 노래하는 사랑이란 게 반드시 연인이 상대여야만 하는 걸까요? 후니가 홋카이도 마을 사람들에게――」"
+
+[[dialogue]]
+speaker = "セシア"
+original = "「家族へメリークリスマスを伝えたいと思っているのも、愛の１つではないかしら？」"
+translation = "「가족에게 메리 크리스마스를 전하고 싶어 하는 것도 사랑의 하나 아닐까요?」"
+
+[[dialogue]]
+speaker = "ルルカ"
+original = "「あ……！\u3000そっか――」"
+translation = "「아……! 그렇구나――」"
+
+[[dialogue]]
+speaker = "ルルカ"
+original = "「そうだよね……あたし、大切なことを忘れてた。どうして、クリスマスソングを作ろうと思ったのか……」"
+translation = "「맞아…… 나 중요한 걸 잊고 있었어. 왜 크리스마스 송을 만들려고 했었는지……」"
+
+[[dialogue]]
+speaker = "ルルカ"
+original = "「あたし……いつも応援してくれているリスナーの『お兄ちゃん』『お姉ちゃん』への感謝として、新曲を披露するつもりだったんだ」"
+translation = "「나…… 항상 응원해 주는 리스너인 『오빠』, 『언니』들을 향한 감사로서 신곡을 선보일 생각이었어.」"
+
+[[dialogue]]
+speaker = "ルルカ"
+original = "「それが段々、作るならちゃんとウケるようにしなくちゃって思って、『恋人とのラブソング』が定番だからとか、変にカッコつけようとして……」"
+translation = "「그게 점점 만들 거면 제대로 인기 있게 해야지 싶어서 『연인과의 러브송』이 대세니까 같은 식으로 이상하게 폼 잡으려고만 하고……」"
+
+[[dialogue]]
+speaker = "ルルカ"
+original = "「あたしはいつの間にか、自分の中にない気持ちを、歌詞にしようとしてた……」"
+translation = "「나는 어느샌가 내 안에 없는 감정을 가사로 쓰려고 했었어……」"
+
+[[dialogue]]
+speaker = "ルルカ"
+original = "「そうじゃなくて、あたしが歌詞にすべきは、応援してくれるリスナーさんへの……家族のように大切な人たちへの感謝の気持ちだったんだ」"
+translation = "「그게 아니라 내가 가사로 써야 할 건 응원해 주는 리스너 분들을 향한…… 가족처럼 소중한 사람들을 향한 감사의 마음이었어.」"
+
+[[dialogue]]
+speaker = "セシア"
+original = "「シャルルママだけじゃなくて、応援してくれる人たちが『家族』……ふふっ♪」"
+translation = "「샤를 마마뿐만 아니라 응원해 주는 사람들이 『가족』…… 후훗♪」"
+
+[[dialogue]]
+speaker = "セシア"
+original = "「ルルカはやっぱり、わたくしの見込んだ『潜在ママ<ruby>力<rt>りょく</rt></ruby>』の持ち主だったわね――」"
+translation = "「루루카는 역시 제가 눈여겨본 『잠재 마마력』의 소유자였네요――」"
+
+[[dialogue]]
+speaker = "unk"
+original = "そう言うと、セシアはクリスマスフォームに変身して――"
+translation = "그렇게 말하며 세시아는 크리스마스 폼으로 변신하고서――"
+
+[[dialogue]]
+speaker = "セシア"
+original = "「フォッフォッフォ♪\u3000ママ判定、プラス１００ポイントよ♪」"
+translation = "「허허허♪ 마마 판정, 플러스 100포인트예요♪」"
+
+[[dialogue]]
+speaker = "unk"
+original = "潜在ママ力？"
+translation = "잠재 마마력?"
+
+[[dialogue]]
+speaker = "セシア"
+original = "「ええ。わたくしがルルカとフニを今回のサンタ仲間として誘ったのは、２人共、将来的に開花しそうなママとしての潜在能力が高いと思ったからなの♪」"
+translation = "「네. 제가 루루카와 후니를 이번 산타 동료로 영입한 건, 두 사람 모두 장래적으로 개화할 마마로서의 잠재능력이 높다고 생각했기 때문이에요♪」"
+
+[[dialogue]]
+speaker = "unk"
+original = "完全に趣味！！！"
+translation = "완전히 취미잖아!!!"
+
+[[dialogue]]
+speaker = "セシア"
+original = "「いいえ、そんなことないわよ、会長。紅明ママが実際に、証明しているでしょう？」"
+translation = "「아니요, 그렇지 않아요, 회장님. 코우메이 마마가 실제로 증명하고 있잖아요?」"
+
+[[dialogue]]
+speaker = "セシア"
+original = "「自分ではない誰かの為に何かをしてあげたいという、『本気で相手を想える心』。それはママにもサンタにも通じるポイントだと、わたくしは思うの」"
+translation = "「자신이 아닌 누군가를 위해 무언가를 해주고 싶어 하는 『진심으로 상대를 생각하는 마음』. 그것은 마마에게도 산타에게도 통하는 포인트라고 저는 생각해요.」"
+
+[[dialogue]]
+speaker = "セシア"
+original = "「だから――ルルカ。あなたはきっと、リスナーにとってのサンタになれるはずよ」"
+translation = "「그러니까―― 루루카. 당신은 분명 리스너들에게 산타가 될 수 있을 거예요.」"
+
+[[dialogue]]
+speaker = "ルルカ"
+original = "「あたしがサンタ……うん！\u3000あたし、改めてみんなへの感謝の気持ちを込めて、歌詞を作ってみるよ！\u3000ありがとう、セッシーちゃん！\u3000ううん――」"
+translation = "「내가 산타…… 응! 나 다시 한번 모두를 향한 감사의 마음을 담아서 가사를 만들어 볼게! 고마워, 세시 짱! 아니――」"
+
+[[dialogue]]
+speaker = "ルルカ"
+original = "「ありがとう、サンタさん♪」"
+translation = "「고마워요, 산타 할아버지♪」"
+
+[[dialogue]]
+speaker = "セシア"
+original = "「……！」"
+translation = "「……!」"
+
+[[dialogue]]
+speaker = "セシア"
+original = "「ふふっ、あなたに喜んでもらえたなら、わたくしも嬉しいわ♪」"
+translation = "「후훗, 당신이 기뻐해 줬다면 저도 기쁘네요♪」"
+
+[[dialogue]]
+speaker = "ルルカ"
+original = "「えへへ♪」"
+translation = "「에헤헤♪」"
+
+[[dialogue]]
+speaker = "フェニエル"
+original = "「お待たせしました。買って来ました～」"
+translation = "「오래 기다리셨습니다. 사 왔어요~」"
+
+[[dialogue]]
+speaker = "フェニエル"
+original = "「……って、あれ？」"
+translation = "「……어라?」"
+
+[[dialogue]]
+speaker = "フェニエル"
+original = "「ルルカちゃん、さっきよりも、すごく明るい顔になってます。何かいい事でもありましたか？」"
+translation = "「루루카 짱, 아까보다 표정이 훨씬 밝아졌네요. 무슨 좋은 일이라도 있었나요?」"
+
+[[dialogue]]
+speaker = "ルルカ"
+original = "「うんっ、そうなの♪\u3000聞いて、フニちゃん――」"
+translation = "「응, 맞아♪ 들어봐, 후니 짱――」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ルルカはそれから、フニが居なかった間のやり取りを嬉しそうに話すのだった――"
+translation = "루루카는 그 후 후니가 없던 동안의 대화를 즐겁게 들려주는 것이었다――"
+
+[[dialogue]]
+speaker = "unk"
+original = "翌日。"
+translation = "다음 날."
+
+[[dialogue]]
+speaker = "ルルカ"
+original = "「――というわけで、昨日帰ってから、作詞が一気に進んだの！」"
+translation = "「――그렇게 돼서 어제 집에 가서 작사가 한 번에 술술 풀렸어!」"
+
+[[dialogue]]
+speaker = "ルルカ"
+original = "「これなら、クリスマスまでにちゃんと曲が完成しそう！」"
+translation = "「이대로라면 크리스마스까지 무사히 곡이 완성될 것 같아!」"
+
+[[dialogue]]
+speaker = "セシア"
+original = "「そう。よかったわね、ルルカ♪」"
+translation = "「그래. 잘됐구나, 루루카♪」"
+
+[[dialogue]]
+speaker = "unk"
+original = "楽しみにしてる"
+translation = "기대하고 있을게."
+
+[[dialogue]]
+speaker = "ルルカ"
+original = "「うん♪\u3000完成したら、お兄ちゃん達にも披露するね♪」"
+translation = "「응♪ 완성되면 오빠 일행한테도 보여줄게♪」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ルルカの悩みも解決して、そんな風に談笑していると――ふと気づく。"
+translation = "루루카의 고민도 해결되어 그렇게 담소하고 있자니―― 문득 깨닫는다."
+
+[[dialogue]]
+speaker = "フェニエル"
+original = "「…………」"
+translation = "「…………」"
+
+[[dialogue]]
+speaker = "ルルカ"
+original = "「あれ？\u3000フニちゃん？」"
+translation = "「어라? 후니 짱?」"
+
+[[dialogue]]
+speaker = "ルルカ"
+original = "「なんか今日……いつもより顔が赤くない？」"
+translation = "「왠지 오늘…… 평소보다 얼굴이 붉지 않아?」"
+
+[[dialogue]]
+speaker = "フェニエル"
+original = "「っ……」"
+translation = "「윽……」"
+
+[[dialogue]]
+speaker = "unk"
+original = "次の瞬間、フニの体がふらっと揺れて、そのまま倒れそうになる。"
+translation = "다음 순간, 후니의 몸이 비틀거리더니 그대로 쓰러질 듯 기울었다."
+
+[[dialogue]]
+speaker = "セシア"
+original = "「フニ……！？」"
+translation = "「후니……!?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "俺は慌てて駆け寄り、体を支える。"
+translation = "나는 서둘러 달려가 몸을 지탱했다."
+
+[[dialogue]]
+speaker = "unk"
+original = "大丈夫か、フニ！？"
+translation = "괜찮아, 후니!?"
+
+[[dialogue]]
+speaker = "unk"
+original = "セシアがフニの額に手を触れて──"
+translation = "세시아가 후니의 이마에 손을 대고──"
+
+[[dialogue]]
+speaker = "セシア"
+original = "「すごい熱だわ……！\u3000この前測った時とは、比べものにならないくらい」"
+translation = "「엄청난 열이에요……! 저번에 쟀을 때와는 비교도 안 될 정도로.」"
+
+[[dialogue]]
+speaker = "フェニエル"
+original = "「……はぁ……はぁ……」"
+translation = "「……하아…… 하아……」"
+
+[[dialogue]]
+speaker = "ルルカ"
+original = "「フニちゃん、しっかりして！\u3000フニちゃん！」"
+translation = "「후니 짱, 정신 차려! 후니 짱!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "フニの意識は朦朧としているようで、俺たちの呼びかけに返事はない。"
+translation = "후니의 의식은 몽롱한 모양인지 우리의 부름에 대답이 없다."
+
+[[dialogue]]
+speaker = "unk"
+original = "ただ、小さく――"
+translation = "그저, 작게――"
+
+[[dialogue]]
+speaker = "フェニエル"
+original = "「ホウちゃんが……呼んでる……」"
+translation = "「호우 짱이…… 부르고 있어……」"
+
+[[dialogue]]
+speaker = "unk"
+original = "そう呟いて、彼女は気を失ってしまうのだった――"
+translation = "그렇게 중얼거리고 그녀는 정신을 잃고 말았다――"
+

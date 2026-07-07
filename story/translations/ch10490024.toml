@@ -1,0 +1,255 @@
+[[dialogue]]
+speaker = "unk"
+original = "第４話,紅明の子守唄,P"
+translation = "제4화, 코우메이의 자장가, P"
+
+[[dialogue]]
+speaker = "unk"
+original = "もうすぐ冬が終わろうという季節の変わり目に、俺は風邪を引いてしまった。しかし、母さんが仕事で家を空けている為、自炊しようと起き上がっていると――"
+translation = "이제 곧 겨울이 끝나가려는 환절기에 나는 감기에 걸리고 말았다. 하지만 어머니가 일 때문에 집을 비우셨기에 자취를 하려고 일어나자──"
+
+[[dialogue]]
+speaker = "紅明"
+original = "「おいっす、ダーリンっ。『見るエナジードリンク』ことアタシ、牛紅明が元気をお届けにきたっしょ♪」"
+translation = "「오잇스, 달링. 『보는 에너지 드링크』인 나, 규우 코우메이가 활기를 전해주러 왔슴다♪」"
+
+[[dialogue]]
+speaker = "紅明"
+original = "「ん？\u3000いつもよりテンション控えめ？\u3000今日はダーリンの看病にきたからね～」"
+translation = "「응? 평소보다 텐션이 낮다고? 오늘은 달링 간병하러 왔으니까~」"
+
+[[dialogue]]
+speaker = "紅明"
+original = "「――風邪が移るかも？\u3000そこは気を付けるから大丈夫。それより愛するダーリンに何もしないことの方が、アタシ的には嫌だし」"
+translation = "「──감기 옮을지도 모른다고? 그건 조심할 테니까 괜찮아. 그것보다 사랑하는 달링에게 아무것도 못 해주는 게 내 입장에서는 더 싫거든」"
+
+[[dialogue]]
+speaker = "紅明"
+original = "「だから、看病させて欲しいな。早くダーリンに元気になって欲しいし」"
+translation = "「그러니까 간병하게 해줬으면 좋겠어. 빨리 달링이 건강해졌으면 좋겠으니까」"
+
+[[dialogue]]
+speaker = "unk"
+original = "正直、紅明が来てくれて嬉しい"
+translation = "솔직히 코우메이가 와줘서 기뻐"
+
+[[dialogue]]
+speaker = "紅明"
+original = "「ふふっ、心細かったんだ？\u3000風邪の時あるあるだよね～」"
+translation = "「후후, 마음이 허전했어? 감기 걸렸을 때 흔히 있는 일이지~」"
+
+[[dialogue]]
+speaker = "紅明"
+original = "「大丈夫、今日はアタシがずっと一緒にいるから、寂しくないよ。遠慮せずに甘えていいからね、ダーリン♪」"
+translation = "「괜찮아, 오늘은 내가 계속 같이 있을 테니까 외롭지 않을 거야. 사양 말고 어리광 부려도 되니까, 달링♪」"
+
+[[dialogue]]
+speaker = "紅明"
+original = "「それじゃあ、まずは食事でも作りますか☆\u3000ちょうどお腹空いてたんじゃない？」"
+translation = "「그럼 우선 식사부터 만들까요☆ 마침 배고프지 않았어?」"
+
+[[dialogue]]
+speaker = "紅明"
+original = "「あはは、顔を見ればわかるよ～。大好きなダーリンのことだもん」"
+translation = "「아하하, 얼굴 보면 다 알아~. 너무 좋아하는 달링인걸」"
+
+[[dialogue]]
+speaker = "紅明"
+original = "「ほら、ダーリンはソファに座って休んでて。今日はアタシが将来の奥さんとして、家庭的なところを見せちゃうから♪」"
+translation = "「자, 달링은 소파에 앉아서 쉬고 있어. 오늘은 내가 미래의 아내로서 가정적인 면모를 보여줄 테니까♪」"
+
+[[dialogue]]
+speaker = "unk"
+original = "そうしてキッチンに立った紅明は、手馴れた様子で料理を作って、持ってきてくれて――"
+translation = "그렇게 주방에 선 코우메이는 익숙한 솜씨로 요리를 만들어 가져다주었고──"
+
+[[dialogue]]
+speaker = "紅明"
+original = "「風邪の時に食べやすいものといえば、お粥っしょ☆\u3000というわけで、卵と鰹節入りで作ってみました～」"
+translation = "「감기 걸렸을 때 먹기 편한 거라면 죽이지☆ 그런 고로 계란이랑 가다랑어포를 넣어서 만들어 봤슴다~」"
+
+[[dialogue]]
+speaker = "紅明"
+original = "「あっ、せっかくだし、ダーリンはそのままでいいよ。アタシが食べさせたげる<emoji=heart04>」"
+translation = "「앗, 기왕 하는 거 달링은 그대로 있어도 돼. 내가 먹여줄게<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "紅明"
+original = "「それじゃあ、熱いのふーふーして冷ますから待っててね。ふ～、ふ～」"
+translation = "「그럼 뜨거운 거 후후 불어서 식힐 테니까 기다려. 후~ 후~」"
+
+[[dialogue]]
+speaker = "紅明"
+original = "「はい、ダーリン、口開けて？\u3000あ～ん<emoji=heart04>」"
+translation = "「자, 달링, 입 벌려봐? 아~앙<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "紅明"
+original = "「どう？\u3000ダーリンの口に合うといいんだけど……」"
+translation = "「어때? 달링 입맛에 맞으면 좋겠는데……」"
+
+[[dialogue]]
+speaker = "unk"
+original = "うまい！"
+translation = "맛있어!"
+
+[[dialogue]]
+speaker = "紅明"
+original = "「えへへ～<emoji=heart04>\u3000それならよかった♪」"
+translation = "「에헤헤~<emoji=heart04> 그렇다면 다행이야♪」"
+
+[[dialogue]]
+speaker = "紅明"
+original = "「うん、料理はこう見えて得意なんだぜ？\u3000なにせ、前世ではお母さんをやってたからね～」"
+translation = "「응, 요리는 이래 봬도 자신 있거든? 그야 전생에서는 엄마였으니까~」"
+
+[[dialogue]]
+speaker = "紅明"
+original = "「お粥を食べ終わったら、ダーリンはゆっくり休んでてね。家事はアタシが全部やっちゃうからさ☆」"
+translation = "「죽 다 먹으면 달링은 푹 쉬고 있어. 집안일은 내가 전부 다 해버릴 테니까☆」"
+
+[[dialogue]]
+speaker = "unk"
+original = "紅明はその後、掃除と洗濯もテキパキとこなして、終わらせてしまった。"
+translation = "코우메이는 그 후 청소와 빨래도 척척 해치워 끝내버렸다."
+
+[[dialogue]]
+speaker = "紅明"
+original = "「ふふっ、どうよダーリン、アタシの奥さん力は。なかなかのもんっしょ？」"
+translation = "「후후, 어때 달링, 나의 아내력은. 제법이지?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "惚れ直した"
+translation = "다시 반했어"
+
+[[dialogue]]
+speaker = "紅明"
+original = "「んモー、ダーリンってば<emoji=heart04>\u3000嬉しいから、膝枕サービスもしちゃう<emoji=heart04>\u3000ほら、横になって？」"
+translation = "「음메, 달링도 참<emoji=heart04> 기쁘니까 무릎베개 서비스도 해줄게<emoji=heart04> 자, 누워봐?」"
+
+[[dialogue]]
+speaker = "紅明"
+original = "「よいしょっと☆\u3000――こうして頭撫でると、気分も落ち着くっしょ」"
+translation = "「영차☆ ──이렇게 머리 쓰다듬어주면 기분도 진정되겠지」"
+
+[[dialogue]]
+speaker = "紅明"
+original = "「あはっ、ダーリン、子供みたいな顔してて可愛い<emoji=heart04>\u3000なでなで♪」"
+translation = "「아핫, 달링, 어린애 같은 얼굴을 하고 있어서 귀여워<emoji=heart04> 쓰담쓰담♪」"
+
+[[dialogue]]
+speaker = "紅明"
+original = "「ん～？\u3000――アタシが本当にお母さんみたいだから？\u3000そうなんよ～」"
+translation = "「응~? ──내가 정말 엄마 같아서? 그렇다니까~」"
+
+[[dialogue]]
+speaker = "unk"
+original = "普段はそんな風に見えないから、ギャップがある"
+translation = "평소에는 그렇게 안 보이니까 갭이 있네"
+
+[[dialogue]]
+speaker = "紅明"
+original = "「だとしたら、それは多分――」"
+translation = "「그렇다면 그건 아마──」"
+
+[[dialogue]]
+speaker = "紅明"
+original = "「現在進行形で、ダーリンに恋してるからじゃないかな？」"
+translation = "「현재진행형으로 달링에게 반해있기 때문 아닐까?」"
+
+[[dialogue]]
+speaker = "紅明"
+original = "「あ～、ダーリン、今もしかして、ドキっとしたっしょ～？\u3000ふふっ、キスして欲しそうな顔してるし<emoji=heart04>」"
+translation = "「아~ 달링, 지금 혹시 두근거렸지~? 후후, 키스해 줬으면 하는 얼굴 하고 있고<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "紅明"
+original = "「うん<emoji=heart04>\u3000大好きなダーリンのことだから、お見通し<emoji=heart04>」"
+translation = "「응<emoji=heart04> 너무 좋아하는 달링이니까 다 꿰뚫어 보고 있지<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "紅明"
+original = "「――風邪が移るといけないから？\u3000う～ん、確かに……」"
+translation = "「──감기 옮으면 안 되니까? 으음, 확실히……」"
+
+[[dialogue]]
+speaker = "紅明"
+original = "「でも……ちゅっ……<emoji=heart04>」"
+translation = "「하지만…… 츄……<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "紅明"
+original = "「――えへへ<emoji=heart04>\u3000ダーリンが可愛くて、アタシも我慢できなくなっちゃった。ごめんね<emoji=heart04>」"
+translation = "「──에헤헤<emoji=heart04> 달링이 귀여워서 나도 참을 수 없게 돼버렸어. 미안해<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "unk"
+original = "どうなっても知らないからな"
+translation = "어떻게 돼도 모른다니까"
+
+[[dialogue]]
+speaker = "紅明"
+original = "「その時は、責任取ってね。色々と<emoji=heart04>」"
+translation = "「그때는 책임져줘. 여러 가지로<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "紅明"
+original = "「ん……<emoji=heart04>\u3000ダーリン……<emoji=heart04>\u3000ちゅっ……<emoji=heart04>」"
+translation = "「응……<emoji=heart04> 달링……<emoji=heart04> 츄……<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "unk"
+original = "そうして、紅明と甘い時を過ごした後――"
+translation = "그렇게 코우메이와 달콤한 시간을 보낸 후──"
+
+[[dialogue]]
+speaker = "紅明"
+original = "「ダーリン、疲れて眠くなってきちゃった？\u3000このまま膝枕の上で寝ちゃってもいいからね」"
+translation = "「달링, 피곤해서 졸려졌어? 이대로 무릎 위에서 자버려도 되니까」"
+
+[[dialogue]]
+speaker = "紅明"
+original = "「大丈夫、今日はアタシ、ずっと一緒にいるって言ったでしょ？\u3000だから気にしないで、眠っていいよ」"
+translation = "「괜찮아, 오늘은 내가 계속 같이 있겠다고 했잖아? 그러니까 신경 쓰지 말고 자도 돼」"
+
+[[dialogue]]
+speaker = "unk"
+original = "紅明が頭を撫でてくれて、俺は安心した気持ちになる。彼女は穏やかな声で歌を口ずさんで――"
+translation = "코우메이가 머리를 쓰다듬어주자 나는 안심되는 기분이 들었다. 그녀는 온화한 목소리로 노래를 흥얼거리며──"
+
+[[dialogue]]
+speaker = "紅明"
+original = "「ね～んねん、ころり～よ、おころりよ～♪」"
+translation = "「자장자장 우리 아가, 잘도 잔다 우리 아가~♪」"
+
+[[dialogue]]
+speaker = "紅明"
+original = "「――ん？\u3000そう、子守唄。よく眠れるって、子供たちに評判だったんだ」"
+translation = "「──응? 맞아, 자장가. 잘 잘 수 있다고 아이들에게 평판이 좋았어」"
+
+[[dialogue]]
+speaker = "紅明"
+original = "「――今すっごく、奥さんにしたい気分？\u3000ふふっ……<emoji=heart04>」"
+translation = "「──지금 엄청 아내로 삼고 싶은 기분이야? 후후……<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "紅明"
+original = "「アタシは出会った時から、ダーリンと夫婦になりたい気分だったけどね<emoji=heart04>」"
+translation = "「나는 만났을 때부터 달링이랑 부부가 되고 싶은 기분이었는데 말이야<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "unk"
+original = "俺はそのまま、心地良い微睡みに身を任せて、目を閉じる。"
+translation = "나는 그대로 기분 좋은 졸음에 몸을 맡기고 눈을 감는다."
+
+[[dialogue]]
+speaker = "紅明"
+original = "「おやすみ、ダーリン<emoji=heart04>\u3000ちゅっ……<emoji=heart04>」"
+translation = "「잘 자, 달링<emoji=heart04> 츄……<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "unk"
+original = "紅明はおでこにキスしてくれた後、俺が眠るまで、子守唄を口ずさんでくれたのだった――"
+translation = "코우메이는 이마에 키스해 준 뒤 내가 잠들 때까지 자장가를 흥얼거려 주었다──"
+

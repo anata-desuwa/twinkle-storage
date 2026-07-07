@@ -1,0 +1,240 @@
+[[dialogue]]
+speaker = "unk"
+original = "第１話,スーパー司書さん（不運もマシマシ）,P"
+translation = "제1화, 슈퍼 사서님 (불운도 곱빼기)"
+
+[[dialogue]]
+speaker = "モンスター"
+original = "「ビビビビ！」"
+translation = "「비비비비!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "モンスター出現の知らせを受け、近くにいた俺が迎撃にあたる。"
+translation = "몬스터 출현 소식을 듣고 근처에 있던 내가 요격에 나선다."
+
+[[dialogue]]
+speaker = "unk"
+original = "そこに──"
+translation = "거기에──"
+
+[[dialogue]]
+speaker = "ウィステリア"
+original = "「あら、会長くんじゃない。機械型モンスターが出たって聞いて来たけど、私が出る幕はないかしら」"
+translation = "「어머, 회장군이잖아. 기계형 몬스터가 나왔다고 해서 왔는데 내가 나설 자리는 없으려나」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ウィステリアさんが一緒だと心強いです！"
+translation = "위스테리아 씨가 함께라면 든든해요!"
+
+[[dialogue]]
+speaker = "ウィステリア"
+original = "「ふふ。そう言われたら、私も戦わないわけにはいかないわね。さっさと終わらせちゃいましょう」"
+translation = "「후후. 그렇게 말해주니 나도 싸우지 않을 수 없겠네. 얼른 끝내버리자」"
+
+[[dialogue]]
+speaker = "ウィステリア"
+original = "「消し飛びなさい──フォビドゥンリアクター！」"
+translation = "「날아가 버리렴── 포비든 리액터!」"
+
+[[dialogue]]
+speaker = "モンスター"
+original = "「ビビビッ！？」"
+translation = "「비비빗!?」"
+
+[[dialogue]]
+speaker = "モンスター"
+original = "「グルルッ！」"
+translation = "「그르르!」"
+
+[[dialogue]]
+speaker = "ウィステリア"
+original = "「あら、大型のも出てきたわね。なら──」"
+translation = "「어머, 대형도 나왔네. 그럼──」"
+
+[[dialogue]]
+speaker = "ウィステリア"
+original = "「え、他にも機械型のモンスターが出た？\u3000数は……大型の機械型モンスターが１０体！？」"
+translation = "「에, 다른 곳에도 기계형 몬스터가 나왔어? 수는…… 대형 기계형 몬스터가 10체!?」"
+
+[[dialogue]]
+speaker = "モンスター"
+original = "「グラァアアッ！！」"
+translation = "「그라아아앗!!」"
+
+[[dialogue]]
+speaker = "ウィステリア"
+original = "「さすがに私でもこの数はきついわね。それじゃ──」"
+translation = "「아무리 나라도 이 숫자는 힘들겠네. 그렇다면──」"
+
+[[dialogue]]
+speaker = "ウィステリア（覚醒）"
+original = "「新しい力を見せてあげましょう！」"
+translation = "「새로운 힘을 보여줄게!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "その姿が例の……！"
+translation = "그 모습은 그때의……!"
+
+[[dialogue]]
+speaker = "ウィステリア（覚醒）"
+original = "「ええ。これが新たに会得した魔将フォームよ」"
+translation = "「응. 이게 새로 터득한 마장 폼이야」"
+
+[[dialogue]]
+speaker = "ウィステリア（覚醒）"
+original = "「新星学園の地下深くに存在する『地下図書館』……その正体は、リクリエに滅ぼされた魔族たちの怨念が呪いとなって集まったものだった」"
+translation = "「신성학원 지하 깊숙이 존재하는 『지하 도서관』…… 그 정체는 리크리에에 의해 멸망한 마족들의 원념이 저주가 되어 모인 것이었어」"
+
+[[dialogue]]
+speaker = "ウィステリア（覚醒）"
+original = "「私はその呪いを分割し、制御して力にする『魔将システム』を構築した」"
+translation = "「나는 그 저주를 분할하고 제어해서 힘으로 바꾸는 『마장 시스템』을 구축했지」"
+
+[[dialogue]]
+speaker = "ウィステリア（覚醒）"
+original = "「『魔将システム』に選ばれた者は、地下図書館の魔本の力を使うことができる。そして私もその１人、『怠惰』の魔将」"
+translation = "「『마장 시스템』에 선택받은 자는 지하 도서관의 마본의 힘을 사용할 수 있어. 그리고 나도 그중 한 명, 『나태』의 마장」"
+
+[[dialogue]]
+speaker = "ウィステリア（覚醒）"
+original = "「魔導書を通して感じるわ……リクリエへの憎しみを……全てを奪われた嘆きを」"
+translation = "「마도서를 통해 느껴져…… 리크리에에 대한 증오를…… 모든 것을 빼앗긴 탄식을」"
+
+[[dialogue]]
+speaker = "ウィステリア（覚醒）"
+original = "「ええ、そうよ。私たち魔将は魔族たちの無念とともに戦う者。その怨嗟を以て破滅を打ち砕く者」"
+translation = "「그래, 맞아. 우리 마장은 마족들의 원한과 함께 싸우는 자. 그 원사를 가지고 파멸을 쳐부수는 자」"
+
+[[dialogue]]
+speaker = "ウィステリア（覚醒）"
+original = "「さぁ、思う存分恨みを晴らしなさい！\u3000ただし私が許す範囲でね！」"
+translation = "「자, 마음껏 한을 풀렴! 단, 내가 허용하는 범위 내에서 말이야!」"
+
+[[dialogue]]
+speaker = "ウィステリア（覚醒）"
+original = "「アポカリプスリアクター！」"
+translation = "「아포칼립스 리액터!」"
+
+[[dialogue]]
+speaker = "モンスター"
+original = "「グルルァアア……ッ！！」"
+translation = "「그르르아아아……!!」"
+
+[[dialogue]]
+speaker = "ウィステリア（覚醒）"
+original = "「全てのモンスターの消滅を確認……これでおしまいね」"
+translation = "「모든 몬스터의 소멸을 확인…… 이걸로 끝이네」"
+
+[[dialogue]]
+speaker = "unk"
+original = "むしろ俺の出る幕がなかったんですが……"
+translation = "오히려 제가 나설 자리가 없었는데요……"
+
+[[dialogue]]
+speaker = "ウィステリア（覚醒）"
+original = "「あ……ごめんなさい、出しゃばっちゃったわね」"
+translation = "「아…… 미안해, 너무 나섰나 보네」"
+
+[[dialogue]]
+speaker = "ウィステリア（覚醒）"
+original = "「まぁ、街も人も無事なんだから誰が倒したかなんて別にいいでしょ。あはは」"
+translation = "「뭐, 거리도 사람도 무사하니까 누가 쓰러뜨렸는지는 상관없잖아. 아하하」"
+
+[[dialogue]]
+speaker = "unk"
+original = "魔将フォーム、強くてかっこいいです！"
+translation = "마장 폼, 강하고 멋져요!"
+
+[[dialogue]]
+speaker = "ウィステリア（覚醒）"
+original = "「そう？\u3000会長くんがそう言ってくれると、このフォームになった甲斐があるわね」"
+translation = "「그래? 회장군이 그렇게 말해주니 이 폼이 된 보람이 있네」"
+
+[[dialogue]]
+speaker = "ウィステリア（覚醒）"
+original = "「今までは自分の魔導書だけを使っていたけど、この魔将フォームでは地下図書館の魔本の魔力を使うことができる」"
+translation = "「지금까지는 내 마도서만 사용했지만, 이 마장 폼에서는 지하 도서관의 마본의 마력을 사용할 수 있어」"
+
+[[dialogue]]
+speaker = "ウィステリア（覚醒）"
+original = "「制御はより難しくなったけど、その分戦闘力も格段に向上したの。前はヴィライアと引き分けだったけど、今ならきっと倒せるわ」"
+translation = "「제어는 더 어려워졌지만 그만큼 전투력도 격단으로 향상됐지. 전에는 빌라이아와 무승부였지만 지금이라면 분명 쓰러뜨릴 수 있어」"
+
+[[dialogue]]
+speaker = "ウィステリア（覚醒）"
+original = "「まぁ、強くなっても嬉しくはないんだけど。私、現役の星騎士じゃないし」"
+translation = "「뭐, 강해져도 기쁘지는 않지만. 난 현역 성기사도 아니고」"
+
+[[dialogue]]
+speaker = "ウィステリア（覚醒）"
+original = "「ただこの魔将フォーム、ちょっとどころじゃない問題があってね──」"
+translation = "「다만 이 마장 폼, 조금 정도가 아닌 문제가 있어서 말이야──」"
+
+[[dialogue]]
+speaker = "ウィステリア（覚醒）"
+original = "「きゃあぁあああっ！！？」"
+translation = "「꺄아아아앗!!?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "爆発した！？\u3000攻撃！？"
+translation = "폭발했다!? 공격인가!?"
+
+[[dialogue]]
+speaker = "ウィステリア（覚醒）"
+original = "「はぁ、はぁ……死ぬかと思ったわ。星騎士だから平気だけど……」"
+translation = "「하아, 하아…… 죽는 줄 알았어. 성기사니까 괜찮지만……」"
+
+[[dialogue]]
+speaker = "ウィステリア（覚醒）"
+original = "「今のは攻撃じゃないわ。かすかに匂いがするし、地面に穴が空いているから、きっと地下のガス管が爆発したのね……」"
+translation = "「방금 건 공격이 아니야. 희미하게 냄새가 나고 지면에 구멍이 뚫린 걸 보니 분명 지하 가스관이 폭발한 거겠네……」"
+
+[[dialogue]]
+speaker = "ウィステリア（覚醒）"
+original = "「ひぎぃっ！！？」"
+translation = "「히기잇!!?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "上から何か落ちてきた！？"
+translation = "위에서 뭔가가 떨어졌다!?"
+
+[[dialogue]]
+speaker = "ウィステリア（覚醒）"
+original = "「あいたた……今、硬いものが頭に当たって……え、看板！？\u3000ビルの上にあった看板が地面に転がってるんですけど！？」"
+translation = "「아야야…… 방금 딱딱한 게 머리에 맞아서…… 에, 간판!? 빌딩 위에 있던 간판이 바닥에 굴러다니고 있는데!?」"
+
+[[dialogue]]
+speaker = "ウィステリア（覚醒）"
+original = "「モンスターのせいか、固定が緩んでたのか知らないけど、看板が頭に直撃したのは初めてよ！？」"
+translation = "「몬스터 때문인지 고정이 헐거워졌던 건지 모르겠지만 간판이 머리에 직격한 건 처음이야!?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "問題ってまさか……"
+translation = "문제라는 게 설마……"
+
+[[dialogue]]
+speaker = "ウィステリア（覚醒）"
+original = "「ええ、そうよ。ただでさえ運が悪かったのに──」"
+translation = "「그래, 맞아. 가뜩이나 운이 없었는데──」"
+
+[[dialogue]]
+speaker = "ウィステリア（覚醒）"
+original = "「魔導書の呪いが強くなったせいで、余計に不運になっちゃったのよ！！」"
+translation = "「마도서의 저주가 강해진 탓에 더더욱 불운해져 버렸어!!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "魔将という強大な力を得た代わりに、大きな代償を支払ったウィステリアさん。"
+translation = "마장이라는 강대한 힘을 얻은 대신 커다란 대가를 치른 위스테리아 씨."
+
+[[dialogue]]
+speaker = "unk"
+original = "その不運さと不憫さに同情を禁じ得ないのであった……"
+translation = "그 불운함과 가련함에 동정을 금치 못하는 것이었다……"
+

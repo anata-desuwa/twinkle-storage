@@ -1,0 +1,225 @@
+[[dialogue]]
+speaker = "unk"
+original = "第１話,びっくり留学生？,P"
+translation = "제1화, 깜짝 유학생?, P"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「今日は星徒会のお仕事早く終わってよかったね。こうして帰りに寄り道できるし」"
+translation = "「오늘은 성도회 일이 일찍 끝나서 다행이네. 이렇게 돌아가는 길에 들를 수도 있고」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「話によれば、新しいお団子のお店はこの近くのはず。……おや？」"
+translation = "「들은 바에 의하면 새로운 경단 가게는 이 근처일 터. ……어라?」"
+
+[[dialogue]]
+speaker = "アイリーン"
+original = "「こんにちは、新星星徒会のみなさん」"
+translation = "「안녕하세요, 신성학원 성도회 여러분」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「あなた、ネビュラの……なんでここに！？」"
+translation = "「당신, 네뷸라의…… 왜 여기에!?」"
+
+[[dialogue]]
+speaker = "アイリーン"
+original = "「──な～んてね！\u3000せっかく会ったんだし仲良くしよーよ！」"
+translation = "「──라~구 농담이야! 어렵게 만났으니까 사이좋게 지내자!」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「えぇっ！？」"
+translation = "「에엣!?」"
+
+[[dialogue]]
+speaker = "ミネルバ"
+original = "「ホー！」"
+translation = "「호!」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「なんというか、前会った時と全然雰囲気が違うような……」"
+translation = "「뭐랄까, 전에 만났을 때랑 전혀 분위기가 다른 것 같은……」"
+
+[[dialogue]]
+speaker = "アイリーン"
+original = "「この前は、セドナさんが任務中はネビュラの構成員らしくしろって言うからお澄まししてたの。ほんとはみんなとお話したくてうずうずしてたんだから！」"
+translation = "「저번에는 세드나 씨가 임무 중에는 네뷸라 구성원답게 굴라고 해서 얌전한 척했던 거야. 사실은 모두랑 얘기하고 싶어서 근질근질했다니까!」"
+
+[[dialogue]]
+speaker = "アイリーン"
+original = "「というわけで……改めまして、魔女のアイリーンです！\u3000人間界のこといろいろ教えてくれると嬉しいな」"
+translation = "「그런 고로…… 다시 인사할게, 마녀 아이린이야! 인간계에 대해 이것저것 알려주면 좋겠어」"
+
+[[dialogue]]
+speaker = "アイリーン"
+original = "「こっちは使い魔のミーちゃん！\u3000ほんとはミネルバっていうんだけど、かわいいからいつもミーちゃんって呼んでるんだ」"
+translation = "「이쪽은 사역마인 미짱! 원래는 미넬바라고 하지만 귀여우니까 항상 미짱이라고 부르고 있어」"
+
+[[dialogue]]
+speaker = "ミネルバ"
+original = "「ホー」"
+translation = "「호」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「アナです」"
+translation = "「아나입니다」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「私は詠野マトイ。こちらこそ……よろしく？」"
+translation = "「나는 에이노 마토이. 이쪽이야말로…… 잘 부탁해?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "よろしく"
+translation = "잘 부탁해"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「ていうか、どうして流星市国にいるの？\u3000普通にこっち来て平気なの？」"
+translation = "「그나저나 왜 유성시국에 있는 거야? 평범하게 이쪽으로 와도 괜찮은 거야?」"
+
+[[dialogue]]
+speaker = "アイリーン"
+original = "「うん。新星学園じゃないけど、今は流星市国の学校に短期留学中ってことになってるから」"
+translation = "「응. 신성학원은 아니지만 지금은 유성시국의 학교에 단기 유학 중인 걸로 되어 있거든」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「留学！？\u3000書類とかどうなってるの……？」"
+translation = "「유학!? 서류 같은 건 어떻게 된 거야……?」"
+
+[[dialogue]]
+speaker = "アイリーン"
+original = "「うーん、そこはネビュラの人がやってくれたからわかんない。会長さんたちは何してたところ？\u3000今から遊びに行くの？」"
+translation = "「으음, 그건 네뷸라 사람이 해줘서 잘 몰라. 회장님들은 뭐 하던 중이었어? 지금부터 놀러 가는 거야?」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「はい、これから新しいお団子のお店に行くところでした」"
+translation = "「네, 이제부터 새로운 경단 가게에 가려던 참이었습니다」"
+
+[[dialogue]]
+speaker = "アイリーン"
+original = "「お団子！\u3000お母さんに聞いたことある！」"
+translation = "「경단! 엄마한테 들은 적 있어!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "アイリーンも来る？"
+translation = "아이린도 올래?"
+
+[[dialogue]]
+speaker = "アイリーン"
+original = "「うん、行く！」"
+translation = "「응, 갈래!」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「うちの星徒会長、もう馴染んでおられる……！」"
+translation = "「우리 성도회장님, 벌써 적응하셨어……!」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「ふむ、ここが噂のお店ですか。店内での飲食だけでなく持ち帰りもできるようです」"
+translation = "「흠, 여기가 소문의 가게인가요. 점내 식사뿐만 아니라 포장도 가능한 모양이네요」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「オーソドックスなあんこやみたらしもいいですが、くるみ味噌も捨てがたい……チョコソースもありますね。合うのでしょうか？」"
+translation = "「오소독스한 팥이나 미타라시도 좋지만 호두 된장도 버리기 어렵네요…… 초코 소스도 있군요. 어울릴까요?」"
+
+[[dialogue]]
+speaker = "アイリーン"
+original = "「どんな味がするのかな～？\u3000ねぇねぇ、オススメとかある？」"
+translation = "「어떤 맛이 날까~? 저기 저기, 추천하는 거 있어?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ここはあえて……チョコ！"
+translation = "여기는 과감하게…… 초코!"
+
+[[dialogue]]
+speaker = "アイリーン"
+original = "「じゃあそれにしよっと！\u3000チョコ団子くださーい！」"
+translation = "「그럼 그걸로 할래! 초코 경단 주세요!」"
+
+[[dialogue]]
+speaker = "アイリーン"
+original = "「いただきまーす！\u3000あむっ」"
+translation = "「잘 먹겠습니다! 아앙」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「ど、どう？\u3000お団子にチョコってあり……？\u3000というか、魔女の味覚ってどうなんだろ……？」"
+translation = "「어, 어때? 경단에 초코라니 괜찮아……? 아니 그보다 마녀의 미각은 어떤 거지……?」"
+
+[[dialogue]]
+speaker = "アイリーン"
+original = "「ん～っ、おいしーっ！！」"
+translation = "「음~ 맛있다!!」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「これは……アリ寄りのアリですね」"
+translation = "「이것은…… 괜찮은 쪽에 가깝네요」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「それは完璧にアリなんじゃ……。じゃあ私も食べてみよっと。あ、ほんとにおいしい」"
+translation = "「그건 완벽하게 괜찮다는 거잖아……. 그럼 나도 먹어봐야지. 아, 진짜 맛있다」"
+
+[[dialogue]]
+speaker = "unk"
+original = "俺も好きかも"
+translation = "나도 좋아할지도"
+
+[[dialogue]]
+speaker = "アイリーン"
+original = "「甘くてもちもちしてる～♪\u3000魔女の森でこんなの食べたことない！\u3000ほらミーちゃんも！」"
+translation = "「달콤하고 쫄깃쫄깃해~♪ 마녀의 숲에서 이런 거 먹어본 적 없어! 자 미짱도!」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「フクロウってお団子食べられるの！？」"
+translation = "「부엉이가 경단을 먹을 수 있어!?」"
+
+[[dialogue]]
+speaker = "ミネルバ"
+original = "「ホホー！」"
+translation = "「호호!」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「ほんとに食べた！？\u3000しかもけっこう喜んでる……？」"
+translation = "「진짜 먹었어!? 게다가 꽤 기뻐하고 있어……?」"
+
+[[dialogue]]
+speaker = "アイリーン"
+original = "「ミーちゃんも気に入ったみたい。はむはむ、はむはむ……ん～っ、おいひいっ」"
+translation = "「미짱도 마음에 든 모양이야. 함냠, 함냠…… 음~ 마시떠」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「うーん……ネビュラの人だから身構えちゃったけど、今のところは大丈夫そうかな……？」"
+translation = "「으음…… 네뷸라 사람이라 경계했는데 지금으로선 괜찮아 보이려나……?」"
+
+[[dialogue]]
+speaker = "アイリーン"
+original = "「ネビュラの人たちにも持って帰ってあげよっかな？\u3000でもセドナさん甘いもの好きじゃないしなー」"
+translation = "「네뷸라 사람들한테도 사다 줄까? 하지만 세드나 씨는 단 거 안 좋아하고 말이지~」"
+
+[[dialogue]]
+speaker = "アイリーン"
+original = "「まぁいいや、全部食べちゃえっ♪\u3000はむはむ……ごちそうさま！」"
+translation = "「뭐 됐어, 다 먹어버리자♪ 함냠…… 잘 먹었습니다!」"
+
+[[dialogue]]
+speaker = "アイリーン"
+original = "「会長さんのオススメにして良かった！\u3000ありがとね、会長さん！」"
+translation = "「회장님 추천으로 하길 잘했어! 고마워, 회장님!」"
+

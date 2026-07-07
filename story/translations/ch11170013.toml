@@ -1,0 +1,245 @@
+[[dialogue]]
+speaker = "unk"
+original = "第３話,力の使い方,P"
+translation = "제3화, 힘의 사용법, P"
+
+[[dialogue]]
+speaker = "unk"
+original = "星徒会室に場所を移すと──"
+translation = "학생회실로 자리를 옮기자──"
+
+[[dialogue]]
+speaker = "エンジュ"
+original = "「なあ、星騎士ってのは、弱いやつをモンスターから守ってくれるもんなんだろ？」"
+translation = "「저기, 성기사라는 건 약한 사람을 몬스터로부터 지켜주는 거잖아?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ああ、そうだよ"
+translation = "아아, 맞아"
+
+[[dialogue]]
+speaker = "エンジュ"
+original = "「……！\u3000だけどあいつは──あいつは──」"
+translation = "「……! 하지만 그 녀석은── 그 녀석은──」"
+
+[[dialogue]]
+speaker = "エンジュ"
+original = "「あいつは町を捨てて、流星市国に逃げ出したんだ……！」"
+translation = "「그 녀석은 마을을 버리고 유성시국으로 도망쳤어……!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "逃げ出した……？"
+translation = "도망쳤다니……?"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「どういうことなの……？」"
+translation = "「어떻게 된 거야……?」"
+
+[[dialogue]]
+speaker = "エンジュ"
+original = "「ある日、あたしたちの町にモンスターが押し寄せた」"
+translation = "「어느 날, 우리 마을에 몬스터가 들이닥쳤어」"
+
+[[dialogue]]
+speaker = "エンジュ"
+original = "「だけどあいつは、あたしたちを、町を……守らなかった」"
+translation = "「하지만 그 녀석은 우리를, 마을을…… 지키지 않았어」"
+
+[[dialogue]]
+speaker = "エンジュ"
+original = "「あいつが守ったのは自分の屋敷だけ。町のやつらがどうなろうが、素知らぬ顔で見捨てやがった……！」"
+translation = "「그 녀석이 지킨 건 자신의 저택뿐. 마을 사람들이 어떻게 되든 모르는 척 내버려 뒀어……!」"
+
+[[dialogue]]
+speaker = "エンジュ"
+original = "「何人もの住民がモンスターの餌食になった」"
+translation = "「수많은 주민이 몬스터의 먹이가 되었지」"
+
+[[dialogue]]
+speaker = "エンジュ"
+original = "「あたしの両親も、あたしをかばって、大怪我を負った。医者に診せることもできず、悶えながら死んだ」"
+translation = "「내 부모님도 나를 감싸다 큰 부상을 입었어. 의사에게 보일 수도 없어서 괴로워하다 돌아가셨지」"
+
+[[dialogue]]
+speaker = "エンジュ"
+original = "「だからあたしは、１人であいつの屋敷に乗り込んだ。屈辱を晴らすために……そして町のみんなの痛みを味わわせるために……！」"
+translation = "「그래서 나는 혼자 그 녀석의 저택에 쳐들어갔어. 굴욕을 갚아주기 위해…… 그리고 마을 사람들의 고통을 맛보게 해주기 위해……!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "そんな無謀な……！"
+translation = "그런 무모한 짓을……!"
+
+[[dialogue]]
+speaker = "エンジュ"
+original = "「でも、あたしが屋敷に踏み込んだ時には既に遅かった。もぬけの殻だったんだ。新星学園に入学した、とか言ってな」"
+translation = "「하지만 내가 저택에 들어갔을 땐 이미 늦었어. 텅 비어 있었지. 신성학원에 입학했다나 뭐라나 하면서 말이야」"
+
+[[dialogue]]
+speaker = "エンジュ"
+original = "「ついでに屋敷の用心棒どもと出くわして、ボコボコにされて……気付いたら<b>力</b>に目覚めていた」"
+translation = "「덤으로 저택의 경호원 녀석들과 마주쳐서 얻어맞다가…… 정신을 차려보니 힘에 눈을 떠 있었어」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「……それがエンジュちゃんの覚醒のきっかけだったのね」"
+translation = "「……그게 엔주 짱이 각성하게 된 계기였구나」"
+
+[[dialogue]]
+speaker = "エンジュ"
+original = "「コラプサーの力を手に入れたあたしは、用心棒のやつらを逆にブッ倒して、屋敷をぶっ壊した」"
+translation = "「콜랩서의 힘을 손에 넣은 나는 경호원 녀석들을 반대로 쓰러뜨리고 저택을 부숴버렸어」"
+
+[[dialogue]]
+speaker = "エンジュ"
+original = "「それからモンスターにボロボロにされた町から人がいなくなっていって、最後は町がなくなった」"
+translation = "「그 후 몬스터에게 엉망이 된 마을에서 사람이 떠나갔고, 결국 마을은 사라졌지」"
+
+[[dialogue]]
+speaker = "エンジュ"
+original = "「そしてあたしは、魔界を彷徨ってたところをコラプサーに拾われた」"
+translation = "「그리고 나는 마계를 떠돌다가 콜랩서에게 거두어졌어」"
+
+[[dialogue]]
+speaker = "エンジュ"
+original = "「さぁ、あいつを出せ！\u3000あいつに復讐するためにあたしはここに来たんだ！」"
+translation = "「자, 그 녀석을 내놔! 그 녀석에게 복수하기 위해 난 여기 온 거야!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "エンジュから聞いた『あいつ』の名前を、データベースで検索すると──"
+translation = "엔주에게 들은 『그 녀석』의 이름을 데이터베이스에서 검색하자──"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「あ、見つけたわ～」"
+translation = "「아, 찾았어~」"
+
+[[dialogue]]
+speaker = "エンジュ"
+original = "「──！！」"
+translation = "「──!!」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「でもその子、入学して４カ月後に問題を起こして退学処分になってるわね～」"
+translation = "「하지만 그 아이, 입학하고 4개월 뒤에 문제를 일으켜서 퇴학 처분당했네~」"
+
+[[dialogue]]
+speaker = "エンジュ"
+original = "「……は？」"
+translation = "「……하?」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「一般人に星術を使って、怪我を負わせたの～。重大な校則違反よ～。当然、星騎士になる資格はなくなっちゃったわ」"
+translation = "「일반인에게 성술을 써서 부상을 입혔어~. 중대한 학칙 위반이야~. 당연히 성기사가 될 자격은 없어져 버렸지」"
+
+[[dialogue]]
+speaker = "エンジュ"
+original = "「どうなってる？\u3000そんなのありかよ？\u3000またあたしから逃げんのか……？」"
+translation = "「어떻게 된 거야? 그런 게 어딨어? 또 나한테서 도망치는 거냐……?」"
+
+[[dialogue]]
+speaker = "エンジュ"
+original = "「おい、あいつは今どこにいる！？\u3000教えろ！\u3000あたしはあいつに復讐するために来たんだ！」"
+translation = "「어이, 그 녀석 지금 어디 있어!? 말해! 난 그 녀석에게 복수하러 왔단 말이야!」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「わからないわ～。大交流で魔界に帰ったと記録されているけど、その後の足取りは不明ね～」"
+translation = "「모르겠어~. 대교류 때 마계로 돌아갔다고 기록되어 있지만 그 후의 행방은 불명이네~」"
+
+[[dialogue]]
+speaker = "エンジュ"
+original = "「…………」"
+translation = "「…………」"
+
+[[dialogue]]
+speaker = "エンジュ"
+original = "「はは……ははははははっ！\u3000あははっ、あははははははっ！」"
+translation = "「하하…… 하하하하하핫! 아하하, 아하하하하하핫!」"
+
+[[dialogue]]
+speaker = "エンジュ"
+original = "「とんだ間抜けじゃねえか、あたしは……はは、ははは……何のために、流星市国まで……」"
+translation = "「완전 바보 같잖아, 나는…… 하하, 하하하…… 무엇을 위해서 유성시국까지……」"
+
+[[dialogue]]
+speaker = "エンジュ"
+original = "「これまでやってきたことは、全部無駄だったってことか……はは……バカじゃねえか、あたし……」"
+translation = "「지금까지 해온 일이 전부 헛수고였다는 건가…… 하하…… 바보 아냐, 나……」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「エンジュちゃん……」"
+translation = "「엔주 짱……」"
+
+[[dialogue]]
+speaker = "unk"
+original = "無駄じゃなかったよ"
+translation = "헛수고가 아니었어"
+
+[[dialogue]]
+speaker = "エンジュ"
+original = "「は……？」"
+translation = "「하……?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "流星市国の人々を守ってくれた"
+translation = "유성시국 사람들을 지켜줬잖아"
+
+[[dialogue]]
+speaker = "エンジュ"
+original = "「いや、それは……成り行きで……」"
+translation = "「아니, 그건…… 어쩌다 보니……」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「成り行きなんかじゃないわ～。あなたは自分の意志で、モンスターと戦って、人を助けた」"
+translation = "「어쩌다 그런 게 아니야~. 너는 자신의 의지로 몬스터와 싸워 사람들을 구했어」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「コラプサーとして私たちと戦いはしたけれど、あなたの言う『あいつ』よりよっぽど星騎士みたいだわ～」"
+translation = "「콜랩서로서 우리와 싸우긴 했지만, 네가 말하는 『그 녀석』보다 훨씬 성기사다워~」"
+
+[[dialogue]]
+speaker = "エンジュ"
+original = "「なんだ、それ……励ましてるつもりか？」"
+translation = "「뭐야 그건…… 위로할 셈이냐?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "復讐以外の目的を持ってみたら？"
+translation = "복수 이외의 목적을 가져보는 건 어때?"
+
+[[dialogue]]
+speaker = "エンジュ"
+original = "「はぁ？\u3000まさかあたしに人を守れって言いたいのかよ？」"
+translation = "「하아? 설마 나더러 사람을 지키라는 소리를 하고 싶은 거야?」"
+
+[[dialogue]]
+speaker = "エンジュ"
+original = "「あいつは必ず見つけて復讐する。必ずだ」"
+translation = "「그 녀석은 반드시 찾아내서 복수할 거야. 반드시」"
+
+[[dialogue]]
+speaker = "エンジュ"
+original = "「だけどあたしはあいつと同じにはならない」"
+translation = "「하지만 난 그 녀석과 똑같이 되지는 않겠어」"
+
+[[dialogue]]
+speaker = "エンジュ"
+original = "「だからモンスターも倒す！\u3000リクリエの好きにはさせない！」"
+translation = "「그러니까 몬스터도 쓰러뜨릴 거야! 리크리에 마음대로 하게 두지 않겠어!」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「ふふふ、心強いわね～」"
+translation = "「후후후, 든든하네~」"
+

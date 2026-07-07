@@ -1,0 +1,315 @@
+[[dialogue]]
+speaker = "unk"
+original = "星力を打ち消すブラックホールの力には限界があるのは、以前のコラプサーとの戦闘で判明している。"
+translation = "성력을 무효화하는 블랙홀의 능력에는 한계가 있다는 것은 이전의 콜랩서와의 전투에서 판명되어 있다."
+
+[[dialogue]]
+speaker = "unk"
+original = "コラプサーは星騎士の天敵ではあるが、無敵ではない。"
+translation = "콜랩서는 성기사의 천적이긴 하지만 무적은 아니다."
+
+[[dialogue]]
+speaker = "メテオラ"
+original = "「んがっ！\u3000魔王の攻撃、ちょっと痛いぞっ！？」"
+translation = "「응갹! 마왕의 공격, 조금 아프다구!?」"
+
+[[dialogue]]
+speaker = "エンジュ"
+original = "「くそっ、攻撃の全ては吸いきれなくなってきたか……！」"
+translation = "「젠장, 공격을 전부 다 빨아들이지는 못하게 된 건가……!」"
+
+[[dialogue]]
+speaker = "コハルコ"
+original = "「会長さん、右からエンジュの攻撃が来ます！\u3000リーリアさんは左方向からのミサイルを撃ち落として！\u3000そのままメテオラに追撃を！」"
+translation = "「회장님, 오른쪽에서 엔쥬의 공격이 와요! 리리아 씨는 왼쪽 방향에서 오는 미사일을 격추해 주세요! 그대로 메테오라에게 추격을!」"
+
+[[dialogue]]
+speaker = "リーリア"
+original = "「ラジャーですっ！\u3000そこ！」"
+translation = "「라져입니다! 거기!」"
+
+[[dialogue]]
+speaker = "メテオラ"
+original = "「くっ……！」"
+translation = "「큭……!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "確かにエンジュとメテオラの連携は厄介だが、コハルコさんは幾多の戦場で星騎士たちを導いてきた、熟練のオペレーターだ。"
+translation = "확실히 엔쥬와 메테오라의 연계는 까다롭지만, 코하루코 씨는 수많은 전장에서 성기사들을 인도해 온 숙련된 오퍼레이터다."
+
+[[dialogue]]
+speaker = "unk"
+original = "コハルコさんがサポートに徹することで、俺達は最適解で動くことができ、リーリアを軸とした攻撃で反撃に転じていた。"
+translation = "코하루코 씨가 서포트에 전념함으로써 우리들은 최적해로 움직일 수 있었고, 리리아를 주축으로 한 공격으로 반격에 나서고 있었다."
+
+[[dialogue]]
+speaker = "unk"
+original = "観念したらどうだ！"
+translation = "념념하고 항복하는 게 어떠냐!"
+
+[[dialogue]]
+speaker = "コハルコ"
+original = "「そうだよ、おとなしく投降すれば悪いようには──」"
+translation = "「그래요, 얌전히 투항하면 나쁘게는──」"
+
+[[dialogue]]
+speaker = "エンジュ"
+original = "「ふざけるな！\u3000あたしは星騎士だけには負けるわけにはいかないんだ！」"
+translation = "「웃기지 마! 나는 성기사에게만은 질 수 없단 말이다!」"
+
+[[dialogue]]
+speaker = "リーリア"
+original = "「どうして星騎士をそんなに憎むの！？」"
+translation = "「어째서 성기사를 그렇게 증오하는 거야!?」"
+
+[[dialogue]]
+speaker = "エンジュ"
+original = "「決まっているだろう！\u3000星騎士なんてどいつもこいつも生まれ持った力に胡坐をかいた偽善者ばかり！」"
+translation = "「뻔한 거 아니겠나! 성기사니 뭐니 하는 것들은 하나같이 타고난 힘에 안주하는 위선자들뿐이야!」"
+
+[[dialogue]]
+speaker = "エンジュ"
+original = "「大した力もないクセに威張り散らかし、いざ窮地に陥れば尻尾を巻いて逃げ出す卑怯者ばかりだ！\u3000そんな奴らに、あたしは辱めをっ……！」"
+translation = "「대단한 힘도 없는 주제에 거드름 피우다가, 막상 궁지에 몰리면 꼬리를 말고 도망치는 비겁자들뿐이라고! 그런 녀석들에게 나는 모욕을……!」"
+
+[[dialogue]]
+speaker = "リーリア"
+original = "「そんなひどい人なんていない！\u3000私の知ってる星騎士は、力ない人を守ろうとするいい人ばかりだよ！」"
+translation = "「그런 끔찍한 사람은 없어! 내가 아는 성기사는 힘없는 사람을 지키려 하는 좋은 사람들뿐이야!」"
+
+[[dialogue]]
+speaker = "コハルコ"
+original = "「会長さんは無闇に誰かを傷つけたりしない。権力を笠に偉ぶったりもしない。あなただって、メテオラだって、薄々気づいてるんじゃないの？」"
+translation = "「회장님은 무턱대고 누군가를 상처 입히지 않아. 권력을 등에 업고 거드름 피우지도 않고. 당신도, 메테오라도 어렴풋이 느끼고 있는 거 아냐?」"
+
+[[dialogue]]
+speaker = "メテオラ"
+original = "「うぅ、確かに魔王はちょっといい人だぞ……」"
+translation = "「으으, 확실히 마왕은 조금 좋은 사람이다구……」"
+
+[[dialogue]]
+speaker = "エンジュ"
+original = "「それなら──」"
+translation = "「그렇다면──」"
+
+[[dialogue]]
+speaker = "エンジュ"
+original = "「どうしてあの時！\u3000あたしを助けてくれなかった！」"
+translation = "「어째서 그때! 나를 도와주지 않았지!」"
+
+[[dialogue]]
+speaker = "エンジュ"
+original = "「虐げられ、笑われ、土下座までさせられて、心にもないことを誓わされ、足蹴にされたあたしを！」"
+translation = "「천대받고, 비웃음당하고, 도게자까지 강요당하고, 마음에도 없는 맹세를 하게 되고, 발길질당하던 나를!」"
+
+[[dialogue]]
+speaker = "コハルコ"
+original = "「くっ……！？\u3000エンジュの力が、より強くっ……！」"
+translation = "「큭……!? 엔쥬의 힘이 더욱 강하게……!」"
+
+[[dialogue]]
+speaker = "エンジュ"
+original = "「受けた屈辱を万倍にして返すその時まで、あたしは星騎士たちをぶちのめし続ける！」"
+translation = "「받은 굴욕을 만 배로 갚아줄 그날까지, 나는 성기사 녀석들을 때려눕히는 걸 멈추지 않겠다!」"
+
+[[dialogue]]
+speaker = "コハルコ"
+original = "「そんなの逆恨みだよ！」"
+translation = "「그런 건 화풀이일 뿐이야!」"
+
+[[dialogue]]
+speaker = "エンジュ"
+original = "「うるさいうるさいうるさぁいっ！\u3000メテオラ、こいつらの戯言に耳を貸すな！」"
+translation = "「시끄러워 시끄러워 시끄러워어억! 메테오라, 이 녀석들의 헛소리에 귀 기울이지 마!」"
+
+[[dialogue]]
+speaker = "メテオラ"
+original = "「わかったぞ！\u3000エンジュをイジめるやつは、みんな悪いやつだ！\u3000あたしがぶっ壊してやるっ！」"
+translation = "「알겠다구! 엔쥬를 괴롭히는 녀석들은 전부 나쁜 녀석들이다구! 내가 다 때려 부숴 주겠어!」"
+
+[[dialogue]]
+speaker = "リーリア"
+original = "「あなたに何があったかは知らない。そんなに強く恨むだけの理由があるんだと思う。──それでも！」"
+translation = "「당신에게 무슨 일이 있었는지는 몰라요. 그렇게 강하게 원망할 만한 이유가 있을 거라 생각해요. ──그래도!」"
+
+[[dialogue]]
+speaker = "リーリア"
+original = "「星騎士のみんなは、魔女で、スパイで、その上人間界を見捨てようとした私だって受け入れてくれた」"
+translation = "「성기사 모두는 마녀에, 스파이에, 거기다 인간계를 버리려 했던 나조차 받아줬어.」"
+
+[[dialogue]]
+speaker = "リーリア"
+original = "「そんなみんなを、仲間を、悪いやつなんて言わせないよ！」"
+translation = "「그런 모두를, 동료를, 나쁜 녀석이라고 말하게 두지 않겠어!」"
+
+[[dialogue]]
+speaker = "エンジュ"
+original = "「なら、その仲間ともどもくたばれ！\u3000行くぞ、メテオラ！」"
+translation = "「그렇다면 그 동료와 함께 뒈져버려라! 간다, 메테오라!」"
+
+[[dialogue]]
+speaker = "メテオラ"
+original = "「おう！\u3000合体アタックいっくぞー！」"
+translation = "「오우! 합체 어택 간다구ー!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "２人の星力が融合して、異常に高まってる……！"
+translation = "두 사람의 성력이 융합하여 이상할 정도로 높아지고 있어……!"
+
+[[dialogue]]
+speaker = "リーリア"
+original = "「ちょ、ちょっ、コハルコ先輩が消し炭になっちゃったら、連れて帰るどころじゃなくないですか！？」"
+translation = "「자, 잠깐, 코하루코 선배가 숯더미가 되어버리면 데려가는 게 문제가 아니게 되는 거 아닌가요!?」"
+
+[[dialogue]]
+speaker = "コハルコ"
+original = "「怖いこと言わないで！\u3000これ、防げるの！？」"
+translation = "「무서운 소리 하지 마! 이거 막을 수 있는 거야!?」"
+
+[[dialogue]]
+speaker = "エンジュ"
+original = "「あたしらの怒り、思い知れっ！\u3000ツイステッド・ヴェンデッタァァァァッ！」"
+translation = "「우리들의 분노를 맛봐라! 트위스티드 벤데타아아아악!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "リーリアっ！"
+translation = "리리아!"
+
+[[dialogue]]
+speaker = "unk"
+original = "コハルコさん！"
+translation = "코하루코 씨!"
+
+[[dialogue]]
+speaker = "unk"
+original = "身を呈して、彼女たちの壁になろうとしたその時──"
+translation = "몸을 던져 그녀들의 벽이 되려 하던 그때──"
+
+[[dialogue]]
+speaker = "？？？"
+original = "「緋宮会長、格好よくキメているところ、お邪魔させていただきますわ！」"
+translation = "「히노미야 회장, 멋지게 폼 잡고 계신 와중에 실례 좀 하겠어요!」"
+
+[[dialogue]]
+speaker = "ヒルディオーネ"
+original = "「ミラージュ──ブレイカーッ！！」"
+translation = "「미라쥬── 브레이커!!」"
+
+[[dialogue]]
+speaker = "メテオラ"
+original = "「あれれれれぇ！？\u3000あたしが撃ったミサイルがどっか行っちゃったぞ！？」"
+translation = "「어레레레레!? 내가 쏜 미사일이 어디론가 가 버렸다구!?」"
+
+[[dialogue]]
+speaker = "エンジュ"
+original = "「ドリル女……お前、何をした！？」"
+translation = "「드릴 여자…… 너, 무슨 짓을 한 거냐!?」"
+
+[[dialogue]]
+speaker = "ヒルディオーネ"
+original = "「おーっほっほっ！\u3000星術を無効化するのは、あなた方の専売特許ではなくてよ」"
+translation = "「오~홋홋홋! 성술을 무효화하는 건 당신들만의 전매특허가 아니랍니다!」"
+
+[[dialogue]]
+speaker = "ヒルディオーネ"
+original = "「あなた方の攻撃も技である以上、私の力で打ち破れますの。思い通りにいかず、残念でしたわね！」"
+translation = "「당신들의 공격도 기술인 이상, 저의 힘으로 타파할 수 있지요. 뜻대로 되지 않아 유감이겠어요!」"
+
+[[dialogue]]
+speaker = "コハルコ"
+original = "「ヒルディオーネさん！\u3000どうしてここに！？」"
+translation = "「힐디오네 씨! 어째서 여기에!?」"
+
+[[dialogue]]
+speaker = "ヒルディオーネ"
+original = "「実家から戻ったら、街にはモンスターと負傷者が溢れかえっていたものですから。偶然アステラには突入していませんでしたの」"
+translation = "「본가에서 돌아오니 거리엔 몬스터와 부상자가 넘쳐나고 있었으니까요. 우연히 아스텔라에는 돌입하지 않고 있었답니다.」"
+
+[[dialogue]]
+speaker = "ヒルディオーネ"
+original = "「しかしそれが<ruby>僥倖<rt>ぎょうこう</rt></ruby>でしたわね。何やら新星学園が騒がしかったので、こうして駆けつけた次第ですわ」"
+translation = "「하지만 그것이 교행이었네요. 아무래도 신성학원이 소란스럽길래 이렇게 달려온 참입니다.」"
+
+[[dialogue]]
+speaker = "ヒルディオーネ"
+original = "「皆様とはティータイムのお約束をしていますから。こんなところで倒れてもらっては困りますのよ」"
+translation = "「여러분과는 티타임 약속을 했으니까요. 이런 곳에서 쓰러져 주시면 곤란하답니다.」"
+
+[[dialogue]]
+speaker = "メテオラ"
+original = "「ぐうう！\u3000おまえ、ムカつくぞー！」"
+translation = "「으으으! 너, 짜증 난다구ー!」"
+
+[[dialogue]]
+speaker = "エンジュ"
+original = "「今更、星騎士が１人増えたところで！\u3000メテオラ、もう一撃──」"
+translation = "「이제 와서 성기사가 한 명 늘어봤자! 메테오라, 한 방 더──」"
+
+[[dialogue]]
+speaker = "unk"
+original = "このチャンスは逃がさない！"
+translation = "이 찬스는 놓치지 않아!"
+
+[[dialogue]]
+speaker = "unk"
+original = "ありがとう、ヒルディー先輩！"
+translation = "고마워요, 힐디 선배!"
+
+[[dialogue]]
+speaker = "リーリア"
+original = "「センパイと私からのお返し、いっきますよ～☆」"
+translation = "「선배와 제가 드리는 답례, 갑니다요~☆」"
+
+[[dialogue]]
+speaker = "コハルコ"
+original = "「私も忘れないでね、リーリアさん！」"
+translation = "「나도 잊지 말아줘, 리리아 씨!」"
+
+[[dialogue]]
+speaker = "リーリア"
+original = "「彩愛の魔弾・アオハルレインボーッ！」"
+translation = "「채애의 마탄·아오하르 레인보우!」"
+
+[[dialogue]]
+speaker = "メテオラ"
+original = "「エ、エンジュッ、吸い取れないぞっ……！？」"
+translation = "「에, 엔쥬, 빨아들일 수 없다구……!?」"
+
+[[dialogue]]
+speaker = "エンジュ"
+original = "「ぐぅっ、この、程度……あ、あたしは負ける、わけにはっ……！」"
+translation = "「으윽, 이, 정도…… 나, 나는 질 수, 없단 말이……!」"
+
+[[dialogue]]
+speaker = "２人"
+original = "「うわああぁぁあぁぁっ！！」"
+translation = "「으아아아아아아악!!」"
+
+[[dialogue]]
+speaker = "リーリア"
+original = "「私とセンパイの愛の共同作業、炸☆裂☆\u3000ちょ～っとやりすぎちゃったかな？」"
+translation = "「저와 선배의 사랑의 공동 작업, 작☆렬☆ 조~금 너무 과했으려나?」"
+
+[[dialogue]]
+speaker = "コハルコ"
+original = "「えーと、私もいたんだけど？」"
+translation = "「저기~ 나도 있었거든?」"
+
+[[dialogue]]
+speaker = "ヒルディオーネ"
+original = "「文字通りの横槍でしたが、貢献はできましたわね」"
+translation = "「말 그대로 옆에서 찌른 꼴이었지만 공헌은 할 수 있었군요.」"
+
+[[dialogue]]
+speaker = "リーリア"
+original = "「いやぁ、本当に助かりましたよ～。消し飛ばされるかと思ったんですから」"
+translation = "「이야~ 정말 큰 도움 됐어요~. 소멸해 버리는 줄 알았다니까요.」"
+
+[[dialogue]]
+speaker = "unk"
+original = "俺たちのユニゾンにより、手強いコラプサーたちとの決着はついた──かに見えた。"
+translation = "우리들의 유니존에 의해 강적 콜랩서들과의 결착은 났다── 는 듯 보였다."
+

@@ -1,0 +1,255 @@
+[[dialogue]]
+speaker = "unk"
+original = "第２話,幸せの匂い,P"
+translation = "제2화, 행복의 냄새, P"
+
+[[dialogue]]
+speaker = "unk"
+original = "巫女修行を経て、巫術を扱えるようになった後も、ルリエルは時々神社を訪れて訓練を継続していた。"
+translation = "무녀 수행을 거쳐 무술을 다룰 수 있게 된 후에도, 루리엘은 가끔 신사를 방문해 훈련을 계속하고 있었다."
+
+[[dialogue]]
+speaker = "unk"
+original = "そして、その日はミヤハルが不在な代わりに、ある助っ人に特別講師をお願いしていた――"
+translation = "그리고 그날은 미야하르가 부재중인 대신, 어떤 도우미에게 특별 강사 요청을 해두었다──"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「ヨミさん、すごいのです！\u3000巫女の力をそんな自然に扱えるなんて！\u3000ミヤハルさんにも負けてませんよ！」"
+translation = "「요미 씨, 대단해요! 무녀의 힘을 그렇게 자연스럽게 다루다니! 미야하르 씨에게도 지지 않아요!」"
+
+[[dialogue]]
+speaker = "ヨミ"
+original = "「なんか、改めてそんな風に褒められると、照れちゃいますね……」"
+translation = "「왠지 새삼스럽게 그런 칭찬을 들으니 쑥스럽네요……」"
+
+[[dialogue]]
+speaker = "unk"
+original = "新星学園１年生の<ruby>天ヶ崎<rt>あまがさき</rt></ruby>ヨミ。魔界で３０００年の歴史を持つ『<ruby>天ヶ崎<rt>あまがさき</rt></ruby>神宮』を守ってきた一族の末裔で、彼女もまた巫女の星騎士だ。"
+translation = "신성 학원 1학년인 아마가사키 요미. 마계에서 3000년의 역사를 지닌 『아마가사키 신궁』을 지켜온 일족의 후예로, 그녀 또한 무녀 성기사다."
+
+[[dialogue]]
+speaker = "ヨミ"
+original = "「私の場合は、子供の頃から巫女のお母さんに力の扱い方を教えてもらっていたので、使い慣れているんです」"
+translation = "「제 경우에는 어릴 때부터 무녀인 어머니께 힘을 다루는 법을 배워서 익숙한 것뿐이에요」"
+
+[[dialogue]]
+speaker = "ヨミ"
+original = "「ただ、リズム感が無いせいで、巫女舞を必要とする術は、未だに全然使えないんですけどね……」"
+translation = "「다만 리듬감이 없는 탓에, 무녀 춤을 필요로 하는 술법은 아직도 전혀 못 쓰지만요……」"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「大丈夫です！\u3000誰にだって苦手なことはあるのです♪\u3000それに、伝説のクルセイダースが使っていた『破邪の鈴』を操れるのは、ヨミさんだけなんですよね？」"
+translation = "「괜찮아요! 누구에게나 서툰 건 있는 법이에요♪ 게다가 전설의 크루세이더스가 사용했던 『파사의 방울』을 다룰 수 있는 건 요미 씨뿐이잖아요?」"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「だから、ヨミさんはたとえ舞が踊れなくても、すごい巫女さんなのです！\u3000ルリエルは尊敬します！」"
+translation = "「그러니까 요미 씨는 설령 춤을 못 추더라도 대단한 무녀님이에요! 루리엘은 존경해요!」"
+
+[[dialogue]]
+speaker = "ヨミ"
+original = "「あ、ありがとうございます。そう言ってもらえると……なんだか自信を持てます♪\u3000えへへ♪」"
+translation = "「고, 고마워요. 그렇게 말해주니…… 왠지 자신감이 생기네요♪ 에헤헤♪」"
+
+[[dialogue]]
+speaker = "unk"
+original = "（ルリエルの素直な言葉はやっぱり強いな）"
+translation = "(루리엘의 솔직한 말은 역시 강력하네)"
+
+[[dialogue]]
+speaker = "unk"
+original = "訓練を見学しに来ていた俺は、恋人として誇らしい気持ちになる。"
+translation = "훈련을 견학하러 온 나는 연인으로서 자랑스러운 기분이 든다."
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「それで、ヨミさんみたいな立派な巫女さんになれるように、お聞きしたいのですが――」"
+translation = "「그래서 요미 씨 같은 훌륭한 무녀님이 될 수 있도록 여쭤보고 싶은 게 있는데요──」"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「ヨミさんの持っている<b>煩悩</b>は、一体どんなものなのです？」"
+translation = "「요미 씨가 가지고 있는 <b>번뇌</b>는 대체 어떤 것인가요?」"
+
+[[dialogue]]
+speaker = "ヨミ"
+original = "「こやっ！？\u3000ぼ、煩悩ですか！？」"
+translation = "「코얏!? 버, 번뇌 말인가요!?」"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「はい！\u3000ルリエル達も巫女修行の時に煩悩を解放したので、気になるのです！」"
+translation = "「네! 루리엘 일행도 무녀 수행 때 번뇌를 해방했기 때문에 궁금해요!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "俺もルリエルやマトイから話に聞いていたが、どうやら巫女の力を操るには『煩悩<ruby>解脱<rt>げだつ</rt></ruby>』というものをする必要があるらしい。"
+translation = "나도 루리엘이나 마토이에게 들어서 알고 있었지만, 아무래도 무녀의 힘을 조종하려면 『번뇌 해탈』이라는 것을 할 필요가 있는 모양이다."
+
+[[dialogue]]
+speaker = "ヨミ"
+original = "「ええっとぉ……」"
+translation = "「에, 그러니까……」"
+
+[[dialogue]]
+speaker = "ヨミ"
+original = "（ど、どうしよう！？\u3000私の場合、物心付く前からなんとなく巫女の力を使えていたので、実は煩悩<ruby>解脱<rt>げだつ</rt></ruby>の修業は全然やったことなくて……！）"
+translation = "(어, 어쩌지!? 나 같은 경우엔 철들기 전부터 왠지 모르게 무녀의 힘을 쓸 수 있었으니까, 사실 번뇌 해탈 수행은 전혀 해본 적이 없어서……!)"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「わくわく♪」"
+translation = "「두근두근♪」"
+
+[[dialogue]]
+speaker = "ヨミ"
+original = "（う……ルリエルさん、すごい期待の眼差しをこちらに向けて来てます……！）"
+translation = "(으…… 루리엘 씨, 엄청난 기대의 눈빛을 이쪽으로 보내고 있어요……!)"
+
+[[dialogue]]
+speaker = "ヨミ"
+original = "（こ、ここは、たとえやったことがなくても、天ヶ崎家の巫女として、ちゃんと答えないと！）"
+translation = "(어, 여기서는 설령 해본 적이 없더라도 아마가사키 가문의 무녀로서 제대로 대답해야 해!)"
+
+[[dialogue]]
+speaker = "ヨミ"
+original = "「に……」"
+translation = "「취……」"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「に？」"
+translation = "「취?」"
+
+[[dialogue]]
+speaker = "ヨミ"
+original = "「――匂いフェチです！！！」"
+translation = "「──취향이 냄새 페티시예요!!!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ぶっちゃけてきた！？"
+translation = "다짜고짜 털어놨어!?"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「匂いフェチ？\u3000それは一体、どういう煩悩なのです？」"
+translation = "「냄새 페티시? 그건 대체 어떤 번뇌인가요?」"
+
+[[dialogue]]
+speaker = "ヨミ"
+original = "「まさかの伝わってない！？」"
+translation = "「설마 안 통한 거야!?」"
+
+[[dialogue]]
+speaker = "ヨミ"
+original = "「ええっと、簡単に言うとですね……匂いが好きといいますか……」"
+translation = "「에 그러니까, 간단히 말하자면요…… 냄새를 좋아한다고나 할까……」"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「ふむふむ。どんな匂いが好きなのですか？」"
+translation = "「흠흠. 어떤 냄새를 좋아하시나요?」"
+
+[[dialogue]]
+speaker = "ヨミ"
+original = "「そ、それはぁ……ヒトの体の匂いとか、そのぉ……」"
+translation = "「그, 그건…… 사람의 몸 냄새라든가, 그게……」"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「ヒトの？\u3000ん～、例えばどんな感じの……」"
+translation = "「사람의? 음~ 예를 들면 어떤 느낌의……」"
+
+[[dialogue]]
+speaker = "ヨミ"
+original = "「こやや！？\u3000こ――」"
+translation = "「코야야!? 코──」"
+
+[[dialogue]]
+speaker = "ヨミ"
+original = "「これ以上は会長さんも居る前では恥ずかしくて言えませぇ～んっ！！\u3000ごめんなさいっ！\u3000こやああぁぁ～～～んっ！！！」"
+translation = "「이 이상은 회장님도 계신 앞이라 부끄러워서 못 말해요오~옷!! 죄송해요옷! 코야아아아아~~~~앙!!!」"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「えぇっ！？\u3000そんなぁ～！\u3000その先がすごく気になるのに～！？」"
+translation = "「에엣!? 너무해요~! 그 뒤가 엄청 궁금한데~!」"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「……こうなったら、実際に試してみるのしかないのです！」"
+translation = "「……이렇게 된 이상, 실제로 시험해 보는 수밖에 없겠어요!」"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「会長さん、失礼します！」"
+translation = "「회장님, 실례할게요!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "えっ、ルリエル！？"
+translation = "엣, 루리엘!?"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「くんくん……！」"
+translation = "「킁킁……!」"
+
+[[dialogue]]
+speaker = "ヨミ"
+original = "「こやっ！？\u3000ルリエルさん、会長さんの匂いを嗅いで……！？」"
+translation = "「코얏!? 루리엘 씨, 회장님의 냄새를 맡고……!?」"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「あっ……！\u3000くんくん<emoji=heart04>\u3000くんくんくん<emoji=heart04>」"
+translation = "「앗……! 킁킁<emoji=heart04> 킁킁킁<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「――えへへ<emoji=heart04>\u3000ヨミさんの言っている意味が、ちょっとわかったかもなのです♪」"
+translation = "「──에헤헤<emoji=heart04> 요미 씨가 하는 말의 의미를 조금 알 것 같기도 해요♪」"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「会長さんの匂い、なんだかすごくクセになりそうな感じがするのです<emoji=heart04>\u3000嗅いでいると安心して落ち着くというか、ずっと包まれていたくなる感じで……<emoji=heart04>」"
+translation = "「회장님의 냄새, 왠지 굉장히 중독될 것 같은 느낌이 들어요<emoji=heart04> 맡고 있으면 안심되고 차분해진달까, 계속 감싸여 있고 싶은 느낌이라……<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「もっと試してみたくなっちゃうのです♪\u3000え～いっ<emoji=heart04>」"
+translation = "「더 시험해 보고 싶어지네요♪ 에잇<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「くんくん<emoji=heart04>\u3000くんくん<emoji=heart04>」"
+translation = "「킁킁<emoji=heart04> 킁킁<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "ヨミ"
+original = "「こやっ！？\u3000会長さんに『だいしゅきホールド』で抱き着いたりして、大胆な！？\u3000こやや……<emoji=heart04>」"
+translation = "「코얏!? 회장님에게 『다이슈키 홀드』로 매달리다니, 대담해!? 코야야……<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ヨミが見てる！\u3000見てるから！！"
+translation = "요미가 보고 있어! 보고 있다고!!"
+
+[[dialogue]]
+speaker = "unk"
+original = "ちょっ、ルリエル！"
+translation = "잠깐, 루리엘!"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「えへへへへへぇ<emoji=heart04>\u3000会長さん、幸せな匂いがするのです……<emoji=heart04>\u3000くんくん<emoji=heart04>」"
+translation = "「에헤헤헤헤헤<emoji=heart04> 회장님, 행복한 냄새가 나요……<emoji=heart04> 킁킁<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "unk"
+original = "それからしばらく、ルリエルは幸せそうな顔で、俺に抱き着いたままでいるのであった――"
+translation = "그러고 나서 한동안, 루리엘은 행복한 얼굴로 나에게 매달린 채로 있었다──"
+

@@ -1,0 +1,400 @@
+[[dialogue]]
+speaker = "unk"
+original = "第２話,双子の絆,B"
+translation = "제2화, 쌍둥이의 인연, B"
+
+[[dialogue]]
+speaker = "ギエル"
+original = "「──そうです！\u3000あなた様こそがアポロ！\u3000この世界の英雄にして、私を救いたもうた救世主に他なりません！」"
+translation = "「──그렇습니다! 당신이야말로 아폴로! 이 세계의 영웅이자, 저를 구원하신 구세주에 다름 아닙니다!」"
+
+[[dialogue]]
+speaker = "エリシア"
+original = "「っつ────！！」"
+translation = "「크으────!!」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「ギエル──！」"
+translation = "「기엘──!」"
+
+[[dialogue]]
+speaker = "ギエル"
+original = "「フフフ、少々遅れを取ってしまいましたが。まだ戦闘は終わっていないというのに、呆けているのは感心しませんねえ」"
+translation = "「후후후, 조금 늦어버렸습니다만. 아직 전투가 끝나지 않았는데, 멍하니 있는 것은 감탄스럽지 않군요」"
+
+[[dialogue]]
+speaker = "unk"
+original = "アポロと挟み撃ちするように、ギエルが攻撃を仕掛けてきた。"
+translation = "아폴로와 협공하듯이, 기엘이 공격을 걸어왔다."
+
+[[dialogue]]
+speaker = "unk"
+original = "衝撃を逸らすも、真横に吹き飛ばされてしまったフィオナを受け止めて抱える。"
+translation = "충격을 피했지만, 바로 옆으로 날아가 버린 피오나를 받아 안는다."
+
+[[dialogue]]
+speaker = "クロト"
+original = "「大丈夫だったか──フィオナ。いや、エリシア」"
+translation = "「괜찮았어── 피오나. 아니, 엘리시아」"
+
+[[dialogue]]
+speaker = "エリシア"
+original = "「緋宮、会長……あ、ありがとうございます」"
+translation = "「히노미야, 회장…… 아, 감사합니다」"
+
+[[dialogue]]
+speaker = "unk"
+original = "抱きかかえた彼女がこちらを見上げる。"
+translation = "안아 올린 그녀가 이쪽을 올려다본다."
+
+[[dialogue]]
+speaker = "unk"
+original = "その眼には、不安と戸惑いも混じっていた。"
+translation = "그 눈에는, 불안과 당혹감도 섞여 있었다."
+
+[[dialogue]]
+speaker = "クロト"
+original = "「──大丈夫だ。俺たちにとって、君は君……仲間であることに変わりはない」"
+translation = "「──괜찮아. 우리에게 있어, 너는 너…… 동료라는 사실에는 변함이 없어」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「正直、まだ理解は追いついてないけどな。そのへんは後で聞かせてもらおう」"
+translation = "「솔직히, 아직 이해는 따라가지 못하고 있지만. 그 부분은 나중에 듣도록 할게」"
+
+[[dialogue]]
+speaker = "エリシア"
+original = "「緋宮会長……はい。ありがとうございます」"
+translation = "「히노미야 회장…… 네. 감사합니다」"
+
+[[dialogue]]
+speaker = "unk"
+original = "フィオナが地に降りると、俺たちは再び彼らと向かい合う格好となった。"
+translation = "피오나가 땅에 내려서자, 우리는 다시 그들과 마주 보는 형태가 되었다."
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「ふう……いいぞギエル、よくやった」"
+translation = "「후우…… 좋아 기엘, 잘했어」"
+
+[[dialogue]]
+speaker = "ギエル"
+original = "「いえいえ。主の危機に馳せ参じるのは従者として当然でございます」"
+translation = "「아닙니다. 주인의 위기에 달려가는 것은 종자로서 당연한 일입니다」"
+
+[[dialogue]]
+speaker = "ギエル"
+original = "「あなた様はアポロ。魔王を倒し、世界を救うヒーローに他なりません。でしょう？」"
+translation = "「당신이야말로 아폴로. 마왕을 쓰러뜨리고, 세계를 구할 히어로에 다름 아닙니다. 그렇지요?」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「ああ──その通りだ。危うく、大義を忘れるところだったぞ」"
+translation = "「아아── 그 말대로다. 하마터면, 대의를 잊을 뻔했군」"
+
+[[dialogue]]
+speaker = "unk"
+original = "アポロの様子はいくらか落ち着き、仮面を装着している頃のテンションに戻りかけていた。"
+translation = "아폴로의 모습은 어느 정도 진정되어, 가면을 장착하고 있을 때의 텐션으로 돌아가려 하고 있었다."
+
+[[dialogue]]
+speaker = "ユウリ"
+original = "「あの野郎……なんか余計なこと吹き込んでねえか」"
+translation = "「저 자식…… 뭔가 쓸데없는 소리 불어넣은 거 아냐」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「あちらの関係も気にかかりますが──」"
+translation = "「저쪽 관계도 마음에 걸립니다만──」"
+
+[[dialogue]]
+speaker = "unk"
+original = "乱入してきたギエルは訳知り顔で、こちらへと語りかける。"
+translation = "난입해 온 기엘은 사정을 다 아는 듯한 얼굴로, 이쪽을 향해 말을 건다."
+
+[[dialogue]]
+speaker = "ギエル"
+original = "「……ククク。化けの皮が剥がれたというならあなたも同じでしょう、星見のご令嬢」"
+translation = "「……크크크. 정체가 드러났다고 한다면 당신도 마찬가지겠지요, 호시미 가문의 영애」"
+
+[[dialogue]]
+speaker = "エリシア"
+original = "「……」"
+translation = "「……」"
+
+[[dialogue]]
+speaker = "ギエル"
+original = "「まあ無理もありませんか！\u3000五年前──『魔王』を志すも虚しく昏睡状態に陥ってしまった双子の姉の姿が、そのまま暴れているとあってはねぇ」"
+translation = "「뭐 무리도 아니겠지요! 5년 전── 『마왕』을 지망했으나 허무하게 혼수 상태에 빠져버린 쌍둥이 언니의 모습이, 그대로 날뛰고 있다고 한다면 말입니다」"
+
+[[dialogue]]
+speaker = "エリシア"
+original = "「あなた……何？」"
+translation = "「당신…… 뭐예요?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "そのおどけた様子に、彼女は冷徹に問いかけた。"
+translation = "그 익살스러운 모습에, 그녀는 냉철하게 물었다."
+
+[[dialogue]]
+speaker = "エリシア"
+original = "「あなたは……あなたは何を、どこまで知っているのです？」"
+translation = "「당신은…… 당신은 무엇을, 어디까지 알고 있는 것입니까?」"
+
+[[dialogue]]
+speaker = "エリシア"
+original = "「私は──姉さんとは幼い頃からずっと一緒でした。ですが、あなたのことはこれっぽっちも存じません」"
+translation = "「저는── 언니와는 어릴 때부터 계속 함께였습니다. 하지만, 당신에 대해서는 이만큼도 알지 못합니다」"
+
+[[dialogue]]
+speaker = "エリシア"
+original = "「もし、あなたが姉さんを焚きつけているのなら──私は決して許せません」"
+translation = "「만약, 당신이 언니를 부추기고 있는 것이라면── 저는 결코 용서할 수 없습니다」"
+
+[[dialogue]]
+speaker = "ギエル"
+original = "「何、私はただの人間ですとも。この偉大なる救世主──アポロ様に目を覚ましてもらった、ね」"
+translation = "「뭘, 저는 그저 인간일 뿐입니다. 이 위대하신 구세주── 아폴로님께서 눈을 뜨게 해 주신, 말입니다」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「フン」"
+translation = "「흥」"
+
+[[dialogue]]
+speaker = "unk"
+original = "慇懃にアポロを敬うギエル──"
+translation = "공손하게 아폴로를 공경하는 기엘──"
+
+[[dialogue]]
+speaker = "unk"
+original = "彼の忠誠心は確かに本物のようで、それが余計に関係のいびつさを浮き彫りにさせる。"
+translation = "그의 충성심은 확실히 진짜인 듯하여, 그것이 더욱 관계의 일그러짐을 부각시킨다."
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「魔王……？\u3000双子の姉……？\u3000気になるワードが多すぎてついていけないわ……！」"
+translation = "「마왕……? 쌍둥이 언니……? 신경 쓰이는 단어가 너무 많아서 따라갈 수가 없어……!」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「双子──面影は見られますね。アポロと、流星会長──」"
+translation = "「쌍둥이── 모습은 보입니다. 아폴로와, 유성 회장──」"
+
+[[dialogue]]
+speaker = "unk"
+original = "仮面の剥がれたアポロ。"
+translation = "가면이 벗겨진 아폴로."
+
+[[dialogue]]
+speaker = "unk"
+original = "俺たちがフィオナだと思っていたエリシア。"
+translation = "우리가 피오나라고 생각했던 엘리시아."
+
+[[dialogue]]
+speaker = "unk"
+original = "２人の顔立ちは似通っており、同じ血が流れているとしても確かに納得のいくものがある。"
+translation = "두 사람의 생김새는 서로 닮아 있어, 같은 피가 흐르고 있다고 해도 확실히 납득이 가는 부분이 있다."
+
+[[dialogue]]
+speaker = "unk"
+original = "ただ……"
+translation = "다만……"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「双子さんなのに、全然学年が違うように見えると申しますか……！」"
+translation = "「쌍둥이인데도, 전혀 학년이 다르게 보인다고 할까요……!」"
+
+[[dialogue]]
+speaker = "エリシア"
+original = "「それは、姉の成長が５年前で止まっているためです」"
+translation = "「그것은, 언니의 성장이 5년 전에 멈춰 있기 때문입니다」"
+
+[[dialogue]]
+speaker = "エリシア"
+original = "「意識を失い、覚めない眠りについてしまった、あの日から……ずっと」"
+translation = "「의식을 잃고, 깨지 않는 잠에 빠져버린, 그날부터…… 계속」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "（っ──なんだ……？）"
+translation = "（크── 뭐지……?）"
+
+[[dialogue]]
+speaker = "unk"
+original = "一瞬──"
+translation = "일순──"
+
+[[dialogue]]
+speaker = "unk"
+original = "俺の頭の中に見知らぬ少女の姿が湧き上がってきた。"
+translation = "내 머릿속에 낯선 소녀의 모습이 떠올랐다."
+
+[[dialogue]]
+speaker = "unk"
+original = "まさか覚えがあるわけでもないというのに──"
+translation = "설마 기억이 있는 것도 아닌데──"
+
+[[dialogue]]
+speaker = "エリシア"
+original = "「最初は……誰かが姉さんの姿を騙っているのかと、思っていました」"
+translation = "「처음에는…… 누군가가 언니의 모습을 속이고 있는 것이라고, 생각했습니다」"
+
+[[dialogue]]
+speaker = "エリシア"
+original = "「本物の姉さんは……今も眠っているはずですから」"
+translation = "「진짜 언니는…… 지금도 잠들어 있을 테니까요」"
+
+[[dialogue]]
+speaker = "ニャリオン"
+original = "「そ……そうニャ！\u3000本物のフィオナ嬢はずっと意識不明のままニャン、これは間違いないニャン！」"
+translation = "「그…… 그렇다 냥! 진짜 피오나 아가씨는 계속 의식불명인 채다 냥, 이건 틀림없다 냥!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "５年前寝たきりになったはずの姉──"
+translation = "5년 전 몸져누웠을 터인 언니──"
+
+[[dialogue]]
+speaker = "unk"
+original = "その立場を継いで『フィオナ』として生きていくことを決めた彼女の前に、その姿そのものが現れたのだ。"
+translation = "그 입장을 이어받아 『피오나』로서 살아가기로 결정한 그녀 앞에, 그 모습 자체가 나타난 것이다."
+
+[[dialogue]]
+speaker = "unk"
+original = "心中穏やかでないのも頷ける。"
+translation = "마음속이 편치 않은 것도 고개를 끄덕일 만하다."
+
+[[dialogue]]
+speaker = "エリシア"
+original = "「──ですが」"
+translation = "「──하지만」"
+
+[[dialogue]]
+speaker = "エリシア"
+original = "「こうして──言葉を交わして確信しました。彼女は本物──いえ、少なくとも本物が<b>混じっている</b>」"
+translation = "「이렇게── 말을 나누고 확신했습니다. 그녀는 진짜── 아니, 적어도 진짜가 <ruby>섞여 있다<rt>・・ ・・</rt></ruby>」"
+
+[[dialogue]]
+speaker = "エリシア"
+original = "「そして……それならなおのこと許せない！」"
+translation = "「그리고…… 그렇다면 더욱더 용서할 수 없습니다!」"
+
+[[dialogue]]
+speaker = "エリシア"
+original = "「姉さんは……姉さんは、あんなことする人じゃありませんでした。決して！」"
+translation = "「언니는…… 언니는, 저런 짓을 할 사람이 아니었습니다. 결코!」"
+
+[[dialogue]]
+speaker = "ギエル"
+original = "「──などと仰っておられますが、アポロ様？」"
+translation = "「──라고 말씀하고 계십니다만, 아폴로님?」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「……フン。ヨマイゴトだな」"
+translation = "「……흥. 헛소리군」"
+
+[[dialogue]]
+speaker = "unk"
+original = "エリシアの弁を最後まで聞き届けて──"
+translation = "엘리시아의 변명을 끝까지 듣고──"
+
+[[dialogue]]
+speaker = "unk"
+original = "アポロは、偉そうに両腕を組んだ。"
+translation = "아폴로는, 거만하게 양팔을 꼬았다."
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「あたしは正義のヒーロー──アポロだ。他の名はない」"
+translation = "「나는 정의의 히어로── 아폴로다. 다른 이름은 없어」"
+
+[[dialogue]]
+speaker = "エリシア"
+original = "「嘘です。ならなぜ私の本名を知っていたのですか」"
+translation = "「거짓말입니다. 그렇다면 왜 제 본명을 알고 있었습니까」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「たまたまだ」"
+translation = "「우연이다」"
+
+[[dialogue]]
+speaker = "エリシア"
+original = "「欺瞞ですね。あなたは、自分をも偽ろうとしている」"
+translation = "「기만입니다. 당신은, 자신마저 속이려 하고 있습니다」"
+
+[[dialogue]]
+speaker = "エリシア"
+original = "「『流星ライダーアポロ』だって、私と姉が欠かさず観ていた番組です。姉さんは、誰よりアポロが好きでした」"
+translation = "「『유성 라이더 아폴로』도, 저와 언니가 빠짐없이 보던 프로그램입니다. 언니는, 누구보다 아폴로를 좋아했습니다」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "（え、フィオナ……あの番組知ってたんだ……？）"
+translation = "（에, 피오나…… 저 프로그램 알고 있었던 거야……?）"
+
+[[dialogue]]
+speaker = "unk"
+original = "フィオナにはずっと『アポロ』の名に引っかかるものがあったのかもしれない。"
+translation = "피오나에게는 줄곧 『아폴로』라는 이름에 마음에 걸리는 것이 있었을지도 모른다."
+
+[[dialogue]]
+speaker = "unk"
+original = "仮面の上からでも彼女の存在を確信できるほどに。"
+translation = "가면 위에서라도 그녀의 존재를 확신할 수 있을 정도로."
+
+[[dialogue]]
+speaker = "エリシア"
+original = "「２人でごっこ遊びをしていたのを覚えていますか？\u3000そんなのは男の子のやることだと、父に小言を言われたのも」"
+translation = "「두 사람이 소꿉놀이를 했던 것을 기억하십니까? 그런 건 남자애들이나 하는 짓이라고, 아버지께 잔소리를 들었던 것도」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「っ……！」"
+translation = "「크……!」"
+
+[[dialogue]]
+speaker = "エリシア"
+original = "「思い出せるはずです。どんなに時が経っても──姉さんは姉さんですから」"
+translation = "「기억해 낼 수 있을 것입니다. 아무리 시간이 흘러도── 언니는 언니이니까요」"
+
+[[dialogue]]
+speaker = "unk"
+original = "フィオナの眼からは怒りが消えていた。"
+translation = "피오나의 눈에서는 분노가 사라져 있었다."
+
+[[dialogue]]
+speaker = "unk"
+original = "アポロを姉であると確信し、そこからの希望をすでに見出している。"
+translation = "아폴로를 언니라고 확신하고, 그곳에서부터 희망을 이미 찾아내고 있다."
+
+[[dialogue]]
+speaker = "unk"
+original = "つまり──"
+translation = "즉──"
+
+[[dialogue]]
+speaker = "エリシア"
+original = "「解き放ってみせます──私が。姉さんを、そんな姿に変えてしまった、呪いから」"
+translation = "「풀어 보이겠습니다── 제가. 언니를, 저런 모습으로 바꿔버린, 저주로부터」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「ッッ……！！」"
+translation = "「크윽……!!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ためらうことなくアポロを見据える瞳──"
+translation = "망설임 없이 아폴로를 응시하는 눈동자──"
+
+[[dialogue]]
+speaker = "unk"
+original = "それは妹による、救済の宣戦布告だった。"
+translation = "그것은 여동생에 의한, 구제의 선전포고였다."
+

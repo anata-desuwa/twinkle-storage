@@ -1,0 +1,280 @@
+[[dialogue]]
+speaker = "unk"
+original = "第１話,巫女神楽修業,P"
+translation = "제1화, 무녀 카구라 수행"
+
+[[dialogue]]
+speaker = "unk"
+original = "舞亜から、九浄家に来てほしいと呼び出された。"
+translation = "마이아로부터, 쿠죠 가문에 와달라는 호출을 받았다."
+
+[[dialogue]]
+speaker = "unk"
+original = "意外な場所に首を傾げながら、九浄家の屋敷に向かうと──"
+translation = "의외의 장소에 고개를 갸웃거리며, 쿠죠 가문의 저택으로 향하자──"
+
+[[dialogue]]
+speaker = "舞亜"
+original = "「あ、来てくれたんだ、会長さん。ありがと」"
+translation = "「아, 와줬구나, 회장님. 고마워」"
+
+[[dialogue]]
+speaker = "ヨミ"
+original = "「いらっしゃいませ、会長」"
+translation = "「어서 오세요, 회장」"
+
+[[dialogue]]
+speaker = "ヒヨ"
+original = "「なんでい、会長サンじゃねえか。会長サンもお屋敷に何か用事かい？」"
+translation = "「뭐야, 회장님 아니신가. 회장님도 저택에 무슨 용건이라도 있나?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "どういう集まり……？"
+translation = "어떻게 모인 거야……?"
+
+[[dialogue]]
+speaker = "舞亜"
+original = "「ほら私、この前巫女の戦闘服をもらったでしょ？\u3000でも私、神楽舞は素人だから、本物の巫女さんにご教示お願いしたってわけ」"
+translation = "「있잖아 나, 요전에 무녀 전투복을 받았잖아? 하지만 난 카구라 춤은 초보니까, 진짜 무녀님에게 가르침을 부탁했다는 거지」"
+
+[[dialogue]]
+speaker = "ヨミ"
+original = "「わたしが世界的スケーターの舞亜さんに踊りを教えるなんて……！\u3000あわわわ……おそれ多いです……」"
+translation = "「제가 세계적인 스케이터인 마이아 씨에게 춤을 가르치다니……! 아와와와…… 황송합니다……」"
+
+[[dialogue]]
+speaker = "ヒヨ"
+original = "「スケートのことはよく知らねえが、神様に失礼があっちゃいけねぇからな。巫女を名乗るってんなら、あたしがみっちり教えてやらぁ！」"
+translation = "「스케이트는 잘 모르겠지만, 신령님께 결례를 범해선 안 되니까 말이야. 무녀를 자처하겠다면, 내가 확실히 가르쳐 주지!」"
+
+[[dialogue]]
+speaker = "舞亜"
+original = "「よろしくお願いします、先生方。やるからには最高の舞を披露したいから、厳しくしてね」"
+translation = "「잘 부탁드립니다, 선생님들. 하는 이상 최고의 춤을 선보이고 싶으니까, 엄하게 해줘」"
+
+[[dialogue]]
+speaker = "ヒヨ"
+original = "「おお、いい根性だ！\u3000うちの天桐神社の神楽でよけりゃ、全部叩き込んでやるぜ！」"
+translation = "「오오, 배짱 좋군! 우리 아마기리 신사의 카구라로 괜찮다면, 전부 때려 박아 주겠어!」"
+
+[[dialogue]]
+speaker = "ヨミ"
+original = "「完璧を目指すストイックさ、恐れ入ります。ですがわたしも天ヶ崎神社の巫女……妥協はしません……！」"
+translation = "「완벽을 지향하는 스토익함, 경의를 표합니다. 하지만 저도 아마가사키 신사의 무녀…… 타협은 하지 않겠어요……!」"
+
+[[dialogue]]
+speaker = "舞亜"
+original = "「そうこなくっちゃ。どんなスパルタ特訓でも乗り越えてみせるよ」"
+translation = "「그래야지. 어떤 스파르타 특훈이라도 이겨내 보이겠어」"
+
+[[dialogue]]
+speaker = "舞亜"
+original = "「いっち、にー、さーん、しー……のリズムで動くの。はい、やってみて」"
+translation = "「하나, 둘, 셋, 넷…… 리듬으로 움직이는 거야. 자, 해봐」"
+
+[[dialogue]]
+speaker = "ヨミ"
+original = "「いーち……にぃ～……さぁん……しぃ～……？」"
+translation = "「하-나…… 두-울…… 세-엣…… 네-엣……?」"
+
+[[dialogue]]
+speaker = "舞亜"
+original = "「そうじゃなくて……いっち、にー、さーん、しー」"
+translation = "「그게 아니라…… 하나, 둘, 셋, 넷」"
+
+[[dialogue]]
+speaker = "ヨミ"
+original = "「む……むむむ……？\u3000な、なるほど……？」"
+translation = "「으…… 으으으……? 과, 과연……?」"
+
+[[dialogue]]
+speaker = "ヒヨ"
+original = "「……どうしてこうなってんでい」"
+translation = "「……어째서 이렇게 된 거야」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ヨミが舞亜に教えられてる……"
+translation = "요미가 마이아에게 배우고 있어……"
+
+[[dialogue]]
+speaker = "ヨミ"
+original = "「うぅ……わたしにリズム感がないばかりに……巫女として情けないですぅ……」"
+translation = "「우으…… 저에게 리듬감이 없는 탓에…… 무녀로서 한심해요오……」"
+
+[[dialogue]]
+speaker = "ヨミ"
+original = "「でも舞亜さんは──」"
+translation = "「하지만 마이아 씨는──」"
+
+[[dialogue]]
+speaker = "舞亜"
+original = "「右に振って、左、左……回って……こう、こう、こう……でいい？」"
+translation = "「오른쪽으로 흔들고, 왼쪽, 왼쪽…… 돌아서…… 이렇게, 이렇게, 이렇게…… 하면 돼?」"
+
+[[dialogue]]
+speaker = "ヨミ"
+original = "「すでにほぼ完璧……！\u3000なんなんですか天才ですか！？\u3000天才でした！」"
+translation = "「벌써 거의 완벽……! 뭡니까 천재인가요!? 천재였어요!」"
+
+[[dialogue]]
+speaker = "ヒヨ"
+original = "「あたしが教えたこと、もうすっかり覚えちまいやがった。大したもんでい」"
+translation = "「내가 가르친 걸 벌써 다 외워버렸구만. 대단하네」"
+
+[[dialogue]]
+speaker = "舞亜"
+original = "「会長さんから見てどんな感じ？」"
+translation = "「회장님이 보기에 어떤 느낌이야?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "すごく綺麗で優雅だ"
+translation = "정말 아름답고 우아해"
+
+[[dialogue]]
+speaker = "舞亜"
+original = "「そっかそっか。それじゃあ練習したかいあったね」"
+translation = "「그렇구나 그렇구나. 그럼 연습한 보람이 있네」"
+
+[[dialogue]]
+speaker = "舞亜"
+original = "「なんというか……『踊り』には根本的に通ずる部分があるのかな、フィギュアとは形が違っても、なんかわかる気がする」"
+translation = "「뭐랄까…… 『춤』에는 근본적으로 통하는 부분이 있는 걸까, 피겨와는 형태가 달라도 왠지 알 것 같은 기분이 들어」"
+
+[[dialogue]]
+speaker = "舞亜"
+original = "「でもやっぱり、教え方が上手いからかな。２人ともありがと」"
+translation = "「하지만 역시, 가르치는 방법이 훌륭해서일까. 둘 다 고마워」"
+
+[[dialogue]]
+speaker = "ヒヨ"
+original = "「へん、謙遜はいらねぇぜ。ていうか、うちの神社に来てほしいぐれぇだ。どうだい、今からでもうちの巫女になんねぇかい？」"
+translation = "「흥, 겸손은 필요 없어. 그보다 우리 신사에 왔으면 좋겠을 정도라고. 어때, 지금이라도 우리 무녀가 되지 않겠나?」"
+
+[[dialogue]]
+speaker = "舞亜"
+original = "「うーん……魅力的な申し出だけど、今はスケートがあるから無理かな。引退してから考えてもいい？」"
+translation = "「으음…… 매력적인 제안이지만, 지금은 스케이트가 있으니까 무리일까나. 은퇴하고 나서 생각해도 돼?」"
+
+[[dialogue]]
+speaker = "ヒヨ"
+original = "「おう、期待してるぜぃ！」"
+translation = "「오우, 기대하고 있겠어!」"
+
+[[dialogue]]
+speaker = "舞亜"
+original = "「だけど……神聖さっていうのかな？\u3000２人みたいな厳かな雰囲気は出せてない気がするんだよね。そこは本職との差かな」"
+translation = "「하지만…… 신성함이라고 해야 하나? 두 사람 같은 엄숙한 분위기는 못 내고 있는 것 같단 말이지. 그건 본업과의 차이일까」"
+
+[[dialogue]]
+speaker = "ヒヨ"
+original = "「う～ん……別に雰囲気出そうと思って出してるわけでもねぇんだが。神様が見てると思うとそうなるのかもしれねぇな」"
+translation = "「으음…… 딱히 분위기를 내려고 내는 것도 아니지만 말이야. 신령님이 보고 계신다고 생각하면 그렇게 되는 걸지도 모르겠네」"
+
+[[dialogue]]
+speaker = "舞亜"
+original = "「見られてる……か。フィギュアの大会でもお客さんがいるから、見られることは意識してるつもりだけど」"
+translation = "「보고 계신다……라. 피겨 대회에서도 관객이 있으니까, 보여지는 건 의식하고 있다고 생각하지만」"
+
+[[dialogue]]
+speaker = "ヨミ"
+original = "「そうですね……見てもらうというより、捧げるということが大事なんじゃないでしょうか」"
+translation = "「그렇네요…… 보여드린다는 것보다, 바친다는 것이 중요하지 않을까요」"
+
+[[dialogue]]
+speaker = "ヨミ"
+original = "「神様のために、ためだけに、自分を使って表現する……それが神楽なのかもしれません」"
+translation = "「신령님을 위해, 오직 위함만을 위해, 자신을 사용해 표현하는 것…… 그것이 카구라일지도 모릅니다」"
+
+[[dialogue]]
+speaker = "舞亜"
+original = "「捧げる……捧げる……なるほど。ちょっとイメージできたかも」"
+translation = "「바친다…… 바친다…… 과연. 조금 이미지가 잡혔을지도」"
+
+[[dialogue]]
+speaker = "舞亜"
+original = "「……チラ」"
+translation = "「……힐끗」"
+
+[[dialogue]]
+speaker = "unk"
+original = "（今、俺の方を見た……？）"
+translation = "（지금, 나를 봤나……?）"
+
+[[dialogue]]
+speaker = "舞亜"
+original = "「じゃあやってみるね」"
+translation = "「그럼 해볼게」"
+
+[[dialogue]]
+speaker = "unk"
+original = "扇を手に、流麗な神楽舞を披露する舞亜。"
+translation = "부채를 손에 들고, 유려한 카구라 춤을 선보이는 마이아."
+
+[[dialogue]]
+speaker = "unk"
+original = "全身を使って、空を舞う風を、降り注ぐ雨を表現し、俺たちは揃って見惚れるのだった。"
+translation = "전신을 사용하여, 하늘을 휘도는 바람을, 쏟아지는 비를 표현하고, 우리들은 일제히 넋을 잃고 바라보았다."
+
+[[dialogue]]
+speaker = "舞亜"
+original = "「……どうかな？」"
+translation = "「……어때?」"
+
+[[dialogue]]
+speaker = "ヒヨ"
+original = "「ほえ～……神楽ってこんなに綺麗なものだったのかい。あたしの方が驚いちまった」"
+translation = "「호에~…… 카구라가 이렇게 아름다운 것이었나. 내가 더 놀라버렸어」"
+
+[[dialogue]]
+speaker = "ヨミ"
+original = "「巫女の神楽とは少し違いますけど、艶やかで綺麗です……」"
+translation = "「무녀의 카구라와는 조금 다르지만, 화사하고 아름다워요……」"
+
+[[dialogue]]
+speaker = "unk"
+original = "言葉も出ないほど美しい……"
+translation = "말도 안 나올 정도로 아름다워……"
+
+[[dialogue]]
+speaker = "舞亜"
+original = "「良かった。さっきのは自分でも自信あるから」"
+translation = "「다행이다. 방금 건 나 스스로도 자신 있거든」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ちなみに俺はどうして呼ばれたの？"
+translation = "그나저나 나는 왜 부른 거야?"
+
+[[dialogue]]
+speaker = "舞亜"
+original = "「見てほしいから」"
+translation = "「봐줬으면 하니까」"
+
+[[dialogue]]
+speaker = "舞亜"
+original = "「綺麗にできたら、好きな人に見てもらいたいでしょ？\u3000今の神楽も会長さんに捧げるつもりで舞ったんだよ」"
+translation = "「예쁘게 해내면, 좋아하는 사람에게 보여주고 싶잖아? 방금 카구라도 회장님에게 바칠 생각으로 춘 거야」"
+
+[[dialogue]]
+speaker = "ヒヨ"
+original = "「なんでい、のろけじゃねえか」"
+translation = "「뭐야, 닭살 돋잖아」"
+
+[[dialogue]]
+speaker = "ヨミ"
+original = "「こやや……ラブラブです……」"
+translation = "「코야야…… 러브러브예요……」"
+
+[[dialogue]]
+speaker = "舞亜"
+original = "「神様じゃなくて会長さんのために舞うのは、ちょっと不敬だったかな。でもうまくいったでしょ？」"
+translation = "「신령님이 아니라 회장님을 위해 추는 건 조금 불경했을까. 그래도 잘 됐지?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "舞亜らしいクールで熱い愛情に、こそばゆさと嬉しさを感じるのだった。"
+translation = "마이아다운 쿨하고 뜨거운 애정에, 간지러우면서도 기쁨을 느끼는 것이었다."
+

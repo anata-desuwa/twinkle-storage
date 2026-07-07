@@ -1,0 +1,190 @@
+[[dialogue]]
+speaker = "モンスター"
+original = "「グ──ガアァアアアアッ！！」"
+translation = "「그──가아아아악!!」"
+
+[[dialogue]]
+speaker = "イニシュ"
+original = "「引き裂け──アンブラルヴァナルガンド」"
+translation = "「찢어버려라── 엄브럴 바나르간드」"
+
+[[dialogue]]
+speaker = "モンスター"
+original = "「ガアアァ……！」"
+translation = "「가아아……!」"
+
+[[dialogue]]
+speaker = "イニシュ"
+original = "「モンスターの掃討は私が担当します。みなさんは堕天使を攻撃してください」"
+translation = "「몬스터 소탕은 제가 담당하겠습니다. 여러분은 타락천사를 공격해 주세요」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「あのイニシュって魔女、めちゃくちゃ強いじゃない！\u3000任せたわよ！」"
+translation = "「저 이니슈라는 마녀, 엄청 강하잖아! 맡길게!」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「はい、私たちはマグダレナさんの下へ！」"
+translation = "「네, 저희는 마그달레나 씨가 있는 곳으로!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "全速力で神殿の中心部まで駆け抜けると──"
+translation = "전속력으로 신전 중심부까지 달려가자──"
+
+[[dialogue]]
+speaker = "マグダレナ"
+original = "「……」"
+translation = "「……」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「いたわね！\u3000いかにも堕天使って感じだわ！」"
+translation = "「찾았다! 정말이지 타락천사라는 느낌이네!」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「堕天使となったマグダレナさんと戦うのは二度目ですが──」"
+translation = "「타락천사가 된 마그달레나 씨와 싸우는 건 두 번째입니다만──」"
+
+[[dialogue]]
+speaker = "マグダレナ"
+original = "「滅びよ──」"
+translation = "「멸망하라──」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「くっ……！\u3000以前戦った時とは段違いの力とプレッシャーです。守護天使の本体ともなれば当然なのでしょうが……」"
+translation = "「큭……! 이전에 싸웠을 때와는 차원이 다른 힘과 압박감이에요. 수호천사의 본체라면 당연하겠지만……」"
+
+[[dialogue]]
+speaker = "ミルフィー"
+original = "「守護天使様は世界を運営する存在。守護天使様を相手にするってことは、世界を相手にすることだよ」"
+translation = "「수호천사님은 세계를 운영하는 존재. 수호천사님을 상대한다는 건 세계를 상대하는 것과 마찬가지야」"
+
+[[dialogue]]
+speaker = "コハルコ"
+original = "『霊力数値を計測……──っ！\u3000この数値は……他の堕天使より数段上の霊力です』"
+translation = "『영력 수치를 계측…… ──윽! 이 수치는…… 다른 타락천사보다 몇 단계 위의 영력입니다』"
+
+[[dialogue]]
+speaker = "コハルコ"
+original = "『リクリエの浸食も進んでいる……。堕天使マグダレナは今回の作戦で最も脅威度が高いターゲットです！』"
+translation = "『리크리에의 침식도 진행되고 있어요……. 타락천사 마그달레나는 이번 작전에서 가장 위협도가 높은 타겟입니다!』"
+
+[[dialogue]]
+speaker = "ミルフィー"
+original = "「マグダレナ様……少しだけ待っていてください。今お救いします」"
+translation = "「마그달레나님…… 조금만 기다려 주세요. 지금 구해드릴게요」"
+
+[[dialogue]]
+speaker = "マグダレナ"
+original = "「世界をひとつに……終焉を……」"
+translation = "「세계를 하나로…… 종언을……」"
+
+[[dialogue]]
+speaker = "ミルフィー"
+original = "「っ──！」"
+translation = "「윽──!」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「せっかく助けに来たんだから、大人しくしてなさい！\u3000フィオナ！」"
+translation = "「기껏 구하러 왔으니까 얌전히 있어! 피오나!」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「ええ、力を重ねましょう！\u3000──エクリプスディザスター！」"
+translation = "「네, 힘을 합쳐요! ──에클립스 디재스터!」"
+
+[[dialogue]]
+speaker = "マグダレナ"
+original = "「儚き者たちよ……静かに眠りなさい……」"
+translation = "「덧없는 자들이여…… 조용히 잠드세요……」"
+
+[[dialogue]]
+speaker = "マグダレナ"
+original = "「──ッ！」"
+translation = "「──윽!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "今の俺は魔王の力を十全には扱えない。"
+translation = "지금의 나는 마왕의 힘을 온전히 다룰 수 없다."
+
+[[dialogue]]
+speaker = "unk"
+original = "それでも俺は１人の星騎士で、新星学園の星徒会長だ。"
+translation = "그래도 나는 한 명의 성기사이자 신성학원의 성도회장이다."
+
+[[dialogue]]
+speaker = "unk"
+original = "なら力の限りこの拳を振るうだけだ！"
+translation = "그렇다면 온 힘을 다해 이 주먹을 휘두를 뿐이다!"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「生半可な攻撃では回復されてしまいます。一気に決着させましょう！」"
+translation = "「어설픈 공격으로는 회복되어 버립니다. 단숨에 결판을 내죠!」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「とっとと目を覚まさせてやるわ！」"
+translation = "「빨리 눈을 뜨게 해주겠어!」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「効いてはいるようね。このまま押し切るわよ！」"
+translation = "「공격이 먹히고 있는 것 같네. 이대로 밀어붙이자!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "世界の崩壊まで残された時間は少ない。"
+translation = "세계의 붕괴까지 남겨진 시간은 적다."
+
+[[dialogue]]
+speaker = "unk"
+original = "後先のことは考えず、ひたすらに攻撃を叩き込む！"
+translation = "앞뒤 생각하지 않고 오로지 공격을 쏟아붓는다!"
+
+[[dialogue]]
+speaker = "ミルフィー"
+original = "（子どもの頃からマグダレナ様の話を聞かされていた。三界を見守る優しいお方だと。天界・人間界・魔界──３つの世界が争わずにいられるのはマグダレナ様のおかげなのだと）"
+translation = "(어릴 때부터 마그달레나님에 관한 이야기를 들어왔어. 삼계를 지켜보는 상냥한 분이라고. 천계·인간계·마계── 세 세계가 다투지 않고 지낼 수 있는 건 마그달레나님 덕분이라고)"
+
+[[dialogue]]
+speaker = "ミルフィー"
+original = "（だからマグダレナ様のように、三界を守る存在になりたかった。優しい人になりたかった）"
+translation = "(그래서 마그달레나님처럼 삼계를 지키는 존재가 되고 싶었어. 상냥한 사람이 되고 싶었어)"
+
+[[dialogue]]
+speaker = "ミルフィー"
+original = "（でもリクリエとの戦いでは役に立てなかった。マグダレナ様が囚われていたのに何もできなかった。だから──）"
+translation = "(하지만 리크리에와의 싸움에선 도움이 되지 못했어. 마그달레나님이 붙잡혀 있었는데 아무것도 못 했어. 그러니까──)"
+
+[[dialogue]]
+speaker = "ミルフィー"
+original = "「今行きます、マグダレナ様！」"
+translation = "「지금 갑니다, 마그달레나님!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ミルフィー、１人で突っ込むのは危険だ！"
+translation = "밀피, 혼자 뛰어드는 건 위험해!"
+
+[[dialogue]]
+speaker = "ミルフィー"
+original = "「大丈夫！\u3000私、プリマステラの中でも強い方なんだから！\u3000それに攻撃力と機動力なら自信あるし──」"
+translation = "「괜찮아! 나, 프리마스텔라 중에서도 강한 편이니까! 거기다 공격력과 기동력이라면 자신 있고──」"
+
+[[dialogue]]
+speaker = "ミルフィー"
+original = "「！\u3000この距離なら届く──！」"
+translation = "「! 이 거리라면 닿아──!」"
+
+[[dialogue]]
+speaker = "ミルフィー"
+original = "「私がお救いします！\u3000マグダレナ様……！」"
+translation = "「제가 구해드릴게요! 마그달레나님……!」"
+

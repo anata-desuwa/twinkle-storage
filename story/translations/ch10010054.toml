@@ -1,0 +1,250 @@
+[[dialogue]]
+speaker = "unk"
+original = "第４話,幸せのお裾分け,P"
+translation = "제4화, 행복의 나눔, P"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「アニマ先輩──あなたが、私たちのグッズを製造・販売していたんですね！」"
+translation = "「아니마 선배── 당신이, 저희 굿즈를 제조・판매하고 있었군요!」"
+
+[[dialogue]]
+speaker = "アニマ"
+original = "「ムゥ……バレてしまっては仕方がない。その通りダ。アニマに造れないものはナイ！」"
+translation = "「무우…… 들켜버렸으니 어쩔 수 없다. 그 말대로다. 아니마에게 만들 수 없는 것은 없다!」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「確かにこのグッズのクオリティは認めますが──無断でこんなものを販売することは、星徒会長として見過ごせません。販売の差し止めを要求します」"
+translation = "「확실히 이 굿즈의 퀄리티는 인정합니다만── 무단으로 이런 것을 판매하는 것은, 성도회장으로서 간과할 수 없습니다. 판매 중지를 요구합니다.」"
+
+[[dialogue]]
+speaker = "アニマ"
+original = "「な、なんだっテ！\u3000しかし……これも消費者が求めた結果ダ。需要と供給なんダ」"
+translation = "「뭐, 뭐라고! 하지만…… 이것도 소비자가 원한 결과다. 수요와 공급인 거다」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「なんですって……？」"
+translation = "「뭐라고요……?」"
+
+[[dialogue]]
+speaker = "アニマ"
+original = "「見よ。先月の購買部アンケートの結果ダ。売ってほしい商品リクエスト第１位」"
+translation = "「보라. 지난달 구매부 설문조사 결과다. 팔아줬으면 하는 상품 리퀘스트 제1위」"
+
+[[dialogue]]
+speaker = "unk"
+original = "すごい数の用紙だ"
+translation = "엄청난 수의 용지다"
+
+[[dialogue]]
+speaker = "unk"
+original = "本当だ……"
+translation = "정말이다……"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「そんなに私たち推しが広がっていたとは……で、ですが！\u3000だとしても、ですよ！」"
+translation = "「그렇게나 저희를 미는 것이 퍼져 있었다니…… 그, 그렇지만! 그렇다고 해도, 말이에요!」"
+
+[[dialogue]]
+speaker = "アニマ"
+original = "「アニマは生徒たちのことを想ってこれらを造っているんだゾ」"
+translation = "「아니마는 학생들을 생각해서 이것들을 만들고 있는 거다조」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「生徒たちのことを……？\u3000どういう意味です」"
+translation = "「학생들을……? 무슨 의미인가요.」"
+
+[[dialogue]]
+speaker = "アニマ"
+original = "「２人は幸せに付き合っている。それを見て星ミミのみんなも幸せになる。これぞハッピーのおすそ分けなんダ！」"
+translation = "「두 사람은 행복하게 사귀고 있다. 그것을 보고 호시미미 모두도 행복해진다. 이것이야말로 행복의 나눔인 거다!」"
+
+[[dialogue]]
+speaker = "アニマ"
+original = "「人々に幸せを分け与えるＷ会長グッズを差し止める権利がどこにあるというのダ……！？」"
+translation = "「사람들에게 행복을 나눠주는 W 회장 굿즈를 중지시킬 권리가 어디에 있다는 거다……!?」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「肖像権およびパブリシティ権の侵害ですね」"
+translation = "「초상권 및 퍼블리시티권 침해네요.」"
+
+[[dialogue]]
+speaker = "アニマ"
+original = "「……………………」"
+translation = "「……………………」"
+
+[[dialogue]]
+speaker = "unk"
+original = "正論すぎた"
+translation = "너무 정론이었다"
+
+[[dialogue]]
+speaker = "unk"
+original = "黙っちゃった"
+translation = "입 다물었네"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「……と言っても、既に広まってしまったグッズを回収するようなことはしませんから」"
+translation = "「……라고 해도, 이미 퍼져버린 굿즈를 회수하는 일은 하지 않을 테니까요.」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「これからはグッズを造るにしても、ちゃんと私たちの許可を取るようにしてくださいね」"
+translation = "「앞으로는 굿즈를 만들더라도, 제대로 저희 허가를 받도록 해주세요.」"
+
+[[dialogue]]
+speaker = "unk"
+original = "次はシールがいい"
+translation = "다음은 스티커가 좋겠다"
+
+[[dialogue]]
+speaker = "unk"
+original = "俺は構わない"
+translation = "나는 상관없어"
+
+[[dialogue]]
+speaker = "アニマ"
+original = "「フ……なるほど。会長たちは器も大きいものだナ。真摯に受け止めるとしよう」"
+translation = "「흐…… 과연. 회장님들은 그릇도 큰 것이카나. 진지하게 받아들이도록 하겠다.」"
+
+[[dialogue]]
+speaker = "unk"
+original = "そんなこんなで──"
+translation = "이러쿵저러쿵해서──"
+
+[[dialogue]]
+speaker = "unk"
+original = "会長推しグッズ密売事件は、無事に解決を見るのだった。"
+translation = "회장 밀어주기 굿즈 밀매 사건은, 무사히 해결을 맞이하는 것이었다."
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「まさか購買で堂々と売られているなんて……これは灯台下暗しでした」"
+translation = "「설마 구매부에서 당당하게 팔리고 있었다니…… 이건 등잔 밑이 어두웠네요.」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「え？\u3000星ミミたちを注意しなくてよかったのか……って？」"
+translation = "「에? 호시미미들을 주의시키지 않아도 괜찮았냐고요……요?」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「そうですね──そこまでしようとは思いませんでした。私が問い詰めたファンの子たちも、純粋に私のことを好いてくれている様子でしたし」"
+translation = "「그렇네요── 거기까지 하려고는 생각하지 않았어요. 제가 추궁했던 팬들도, 순수하게 저를 좋아해 주는 모습이었고요.」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「私たちの関係で、他の誰かが幸せを感じてくれるなんて……素敵じゃありませんか。それを考えたら、別にいっかなって」"
+translation = "「저희 관계로, 다른 누군가가 행복을 느껴준다니…… 멋지지 않나요. 그것을 생각하니, 별로 상관없지 않나 싶어서요.」"
+
+[[dialogue]]
+speaker = "unk"
+original = "フィオナは優しいな"
+translation = "피오나는 상냥하네"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「ふふ。緋宮会長だって、特に怒ってなかったじゃありませんか」"
+translation = "「후후. 히노미야 회장도, 딱히 화내지 않았잖아요.」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「それに──星徒会長たるもの、生徒たちの模範であるべきです。その目が常にあると意識しておくのも、必要なのかもしれません」"
+translation = "「게다가── 성도회장이라면, 학생들의 모범이 되어야 합니다. 그 시선이 항상 있다는 것을 의식해 두는 것도, 필요할지도 모르겠네요.」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ちなみに、それは？"
+translation = "그건 그렇고, 그건?"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「ん……あ」"
+translation = "「응…… 아」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「あはは……バレてしまいましたか。実はアニマ先輩に頼んで、ひとつだけ」"
+translation = "「아하하…… 들켜버렸나요. 실은 아니마 선배에게 부탁해서, 하나만」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「私と緋宮会長のストラップ──可愛くてついもらっちゃいました。好きな人が手のひらに乗せられるなんて、素敵だなと想って」"
+translation = "「저와 히노미야 회장의 스트랩── 귀여워서 그만 받아버렸어요. 좋아하는 사람이 손바닥에 올려질 수 있다니, 멋지다고 생각해서.」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「好きな漫画のキーホルダーなんかを集めているうちに、収集癖がついてしまったのかもしれません。ふふふ」"
+translation = "「좋아하는 만화의 키홀더 같은 것을 모으는 사이에, 수집벽이 생겨버렸을지도 모르겠네요. 후후후」"
+
+[[dialogue]]
+speaker = "unk"
+original = "たくさんあったやつだ"
+translation = "많이 있던 거다"
+
+[[dialogue]]
+speaker = "unk"
+original = "レアモノじゃないけど……"
+translation = "레어템은 아니지만……"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「ええ。でも、いいんです。本当にレアな緋宮会長は、私にしか見られないものですから」"
+translation = "「네. 하지만, 괜찮아요. 정말로 레어한 히노미야 회장은, 저에게밖에 보이지 않는 것이니까요.」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「可愛いんですよ、これ。ほら。こうして並べたら……」"
+translation = "「귀여워요, 이거. 자. 이렇게 나란히 놓으면……」"
+
+[[dialogue]]
+speaker = "unk"
+original = "フィオナは、２つのストラップの顔同士をくっつけた。"
+translation = "피오나는, 두 개의 스트랩 얼굴끼리 붙였다."
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「……チュッ。みたいな？」"
+translation = "「……츄. 같은 느낌?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "なら、本物も"
+translation = "그럼, 실물도"
+
+[[dialogue]]
+speaker = "unk"
+original = "……"
+translation = "……"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「あっ……」"
+translation = "「앗……」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「待っ……こっちのフィオナは、心の準備が……んっ」"
+translation = "「잠깐…… 이쪽 피오나는, 마음의 준비가…… 응읏」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「ちゅ……はっ……もう……強引ですよ。緋宮会長」"
+translation = "「츄…… 핫…… 정말…… 강압적이네요. 히노미야 회장」"
+
+[[dialogue]]
+speaker = "unk"
+original = "──そうして。"
+translation = "──그렇게."
+
+[[dialogue]]
+speaker = "unk"
+original = "誰にもお裾分けされることのない、２人だけの幸せな夜を過ごすのだった……。"
+translation = "누구에게도 나눠지지 않는, 두 사람만의 행복한 밤을 보내는 것이었다……"
+

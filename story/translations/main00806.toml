@@ -1,0 +1,560 @@
+[[dialogue]]
+speaker = "unk"
+original = "第８話,再覚醒の兆し,B"
+translation = "제8화, 재각성의 징조, B"
+
+[[dialogue]]
+speaker = "煌竜ヴィライア"
+original = "「ウウウ──ウオオオォォォォォン──！！！」"
+translation = "「우우우── 우오오오오오오오옹──!!!」"
+
+[[dialogue]]
+speaker = "ユウリ"
+original = "「チッ──」"
+translation = "「칫──」"
+
+[[dialogue]]
+speaker = "ニャリオン"
+original = "「つ、強すぎるニャン──！？」"
+translation = "「느, 너무 강하냥──!?」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「一旦退こう──まだ体勢を立て直せる！\u3000状況はこっちが有利だ！」"
+translation = "「일단 물러서자── 아직 체세를 재정비할 수 있다! 상황은 우리가 유리하다!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "俺は全員に後退を命じる。しかし……"
+translation = "나는 전원에게 후퇴를 명령한다. 하지만……"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「いいえクロト──今なら、あのゲキリンを捉えられるわ！」"
+translation = "「아니야 쿠로토── 지금이라면, 저 역린을 포착할 수 있어!」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「ッ──待てヴィーナス！\u3000今の竜に突っ込むのは危険すぎる！」"
+translation = "「읏── 기다려 비너스! 지금 용에게 돌진하는 건 너무 위험해!」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「やっつけるなら──ここしか──！」"
+translation = "「해치운다면── 여기밖에──!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "引き下がる俺たちとは真逆に──煌竜の喉元まで疾走し、星術を放つヴィーナス。"
+translation = "물러서는 우리들과는 정반대로── 황룡의 목덜미까지 질주하며, 성술을 쏘는 비너스."
+
+[[dialogue]]
+speaker = "unk"
+original = "だが……"
+translation = "하지만……"
+
+[[dialogue]]
+speaker = "煌竜ヴィライア"
+original = "「グルルル──グオオオォォォォォン──！！！」"
+translation = "「크르르르── 크오오오오오오오옹──!!!」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「なっ──！？」"
+translation = "「낫──!?」"
+
+[[dialogue]]
+speaker = "ニャリオン"
+original = "「き、効いてないニャン──！？」"
+translation = "「크, 안 통하냥──!?」"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「ピンピンしておられます……！」"
+translation = "「멀쩡하십니다……!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "日誌に記されていたはずの『攻略法』は通じず──どころか、最接近したヴィーナスはまんまとブレスの餌食となった。"
+translation = "일지에 기록되어 있었을 터인 『공략법』은 통하지 않았을 뿐만 아니라── 오히려, 가장 가까이 접근했던 비너스는 보기 좋게 브레스의 먹이가 되었다."
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「っ、きゃああああああ────っっ！！」"
+translation = "「크, 꺄아아아아아아────!!」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「ヴィーナス──ッ！」"
+translation = "「비너스──읏!」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「見る限り──<ruby>逆鱗<rt>げきりん</rt></ruby>らしき部位は、存在すらしていないようです……！\u3000逆さまの鱗なんて一枚もありません！」"
+translation = "「보기에는── 역린 같은 부위는, 존재조차 하지 않는 것 같습니다……! 거꾸로 돋아난 비늘은 한 장도 없습니다!」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「！\u3000最悪ね──弱点なんて話からしてウソなんて……！」"
+translation = "「! 최악이네── 약점 같은 이야기는 처음부터 거짓말이라니……!」"
+
+[[dialogue]]
+speaker = "煌竜ヴィライア"
+original = "「グルルルルルルル………………」"
+translation = "「크르르르르르르………………」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「っ、っ……！\u3000どうして──力を合わせれば勝てるはずじゃ、なかったの……！？」"
+translation = "「크, 크윽……! 어째서── 힘을 합치면 이길 수 있을 거라 생각하지, 않았던 거야……!?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "全身を灼かれたヴィーナスに、影が忍び寄る。"
+translation = "전신을 불태워진 비너스에게, 그림자가 스며든다."
+
+[[dialogue]]
+speaker = "クロト"
+original = "「今いく、待ってろ──」"
+translation = "「지금 간다, 기다려──」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「っ、ダメです会長──生身で飛び出したら巻き添えを受けます！」"
+translation = "「크, 안 됩니다 회장── 맨몸으로 뛰쳐나가면 휘말립니다!」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「けど──っ！」"
+translation = "「하지만──읏!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "絶望の光景だった。"
+translation = "절망적인 광경이었다."
+
+[[dialogue]]
+speaker = "unk"
+original = "鎖に封じられているとはいえ──一度は世界を滅ぼした魔竜。"
+translation = "사슬에 봉인되어 있다고는 하지만── 한때 세계를 멸망시켰던 마룡."
+
+[[dialogue]]
+speaker = "unk"
+original = "唯一の突破口さえ通じなかった今、もはや彼女を救う手立てはない。"
+translation = "유일한 돌파구마저 통하지 않았던 지금, 더 이상 그녀를 구할 방법은 없다."
+
+[[dialogue]]
+speaker = "クロト"
+original = "（ヴィーナスを失う──このままじゃ──）"
+translation = "（비너스를 잃는다── 이대로는──）"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「緋宮クロト──あなたは魔王となって、この世界を救うのよ！」"
+translation = "「히노미야 쿠로토── 당신은 마왕이 되어, 이 세계를 구하는 거야!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "魔王。そして世界。"
+translation = "마왕. 그리고 세계."
+
+[[dialogue]]
+speaker = "unk"
+original = "あの時の言葉が、今の俺にはより鮮明にのしかかる。"
+translation = "그때의 말이, 지금의 나에게는 더욱 선명하게 짓누른다."
+
+[[dialogue]]
+speaker = "unk"
+original = "なら、俺にはどうしようもないのか？\u3000違う。"
+translation = "그렇다면, 나는 어떻게 할 수 없는 건가? 아니다."
+
+[[dialogue]]
+speaker = "セイファート"
+original = "『強くあれ。世界を取り込まんとする力に、決して飲まれることなきように』"
+translation = "『강해져라. 세계를 집어삼키려는 힘에, 결코 먹히지 않도록』"
+
+[[dialogue]]
+speaker = "unk"
+original = "そうだ──"
+translation = "그렇다──"
+
+[[dialogue]]
+speaker = "unk"
+original = "緋宮クロトの生き方は、誰に従うでもなく最初から決まっていた。"
+translation = "히노미야 쿠로토의 삶의 방식은, 누구를 따르는 것도 없이 처음부터 정해져 있었다."
+
+[[dialogue]]
+speaker = "unk"
+original = "世界を滅ぼした存在が相手だというのなら──世界を救う存在になればいい。"
+translation = "세계를 멸망시킨 존재가 상대라면── 세계를 구하는 존재가 되면 된다."
+
+[[dialogue]]
+speaker = "unk"
+original = "俺にはそれができる。"
+translation = "나는 그것을 할 수 있다."
+
+[[dialogue]]
+speaker = "unk"
+original = "──彼女を。"
+translation = "──그녀를."
+
+[[dialogue]]
+speaker = "unk"
+original = "──助けるためなら。"
+translation = "──구하기 위해서라면."
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「緋宮、会長……！？」"
+translation = "「히노미야, 회장……!?」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「っ──その姿は、もしかして……」"
+translation = "「크읏── 그 모습은, 혹시……」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「話は後だ──竜を無力化する。巻き込まない保証はないから、下がっててくれ」"
+translation = "「이야기는 나중에── 용을 무력화한다. 휘말리지 않을 거라는 보장은 없으니, 뒤로 물러서 있어」"
+
+[[dialogue]]
+speaker = "煌竜ヴィライア"
+original = "「ウウウ──ウオオオォォォォォン──！！！」"
+translation = "「우우우── 우오오오오오오오옹──!!!」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「そこを退け──ヴィーナスに指一本触れさせやしない！」"
+translation = "「거기서 비켜── 비너스에게 손가락 하나 대게 하지 않아!」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「クロト──！？」"
+translation = "「쿠로토──!?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "めくるめく閃撃が竜を打ちのめす。"
+translation = "눈부시게 번뜩이는 섬격이 용을 때려눕힌다."
+
+[[dialogue]]
+speaker = "unk"
+original = "俺が拳を振り抜くごとに、多重の追撃が影のように発生していた。"
+translation = "내가 주먹을 휘두를 때마다, 다중의 추격이 그림자처럼 발생하고 있었다."
+
+[[dialogue]]
+speaker = "クロト"
+original = "「──オオオオオオっ！」"
+translation = "「──오오오오오오옷!」"
+
+[[dialogue]]
+speaker = "煌竜ヴィライア"
+original = "「──ギアアアアアアアァァァァァッッッ………………！！！」"
+translation = "「──기아아아아아아아아아아앗………………!!!」"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「……」"
+translation = "「……」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「倒し……たの？」"
+translation = "「쓰러뜨린…… 거야?」"
+
+[[dialogue]]
+speaker = "ユウリ"
+original = "「そうみてえ──だな……？」"
+translation = "「그런 것 같──네……?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "崩れゆく自縛の魔竜。"
+translation = "무너져가는 자박의 마룡."
+
+[[dialogue]]
+speaker = "unk"
+original = "今の一瞬で、叩き込んだ連撃は千にも及ぶ──自分でも信じられない力の解放だった。"
+translation = "방금 그 한순간에, 퍼부은 연격은 천 번에 달한다── 스스로도 믿을 수 없는 힘의 해방이었다."
+
+[[dialogue]]
+speaker = "クロト"
+original = "「──無事だったか」"
+translation = "「──무사했나」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「──え、ええ……びっくりしちゃったけど……あ、ありがとう」"
+translation = "「──으, 응…… 깜짝 놀랐지만…… 아, 고마워」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「いつの間に、それ──引き出せるようになったの……？」"
+translation = "「언제 사이에, 그걸── 끌어낼 수 있게 된 거야……?」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「わからない。ただ、どうしても必要だと思ったから」"
+translation = "「모르겠어. 다만, 어떻게든 필요하다고 생각했으니까」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「相変わらず──土壇場にならなきゃ、力を貸してくれないみたいだけどな」"
+translation = "「여전히── 막다른 상황이 되지 않으면, 힘을 빌려주지 않는 것 같지만 말이야」"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「ほええ……！\u3000新星会長さんが、進化を遂げてしまいました……！」"
+translation = "「호에에……! 신성 회장님이, 진화를 이루셨습니다……!」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「初めて見ました……それが、御前試合の時に見せたという力ですね」"
+translation = "「처음 봤습니다…… 그것이, 어전 시합 때 보여주셨다는 힘이군요」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「ああ──俺に流れてる魔王の血ってやつは、恐らくこういうことなんだろう」"
+translation = "「아아── 나에게 흐르는 마왕의 피라는 건, 아마 이런 걸 말하는 거겠지」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「と言っても……まだ一部しか引き出せてないけどな」"
+translation = "「라고 해도…… 아직 일부밖에 끌어내지 못했지만 말이야」"
+
+[[dialogue]]
+speaker = "ユウリ"
+original = "「それで一部なのかよ」"
+translation = "「그게 일부냐」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「確かに、あの時はもっと派手だったよね……」"
+translation = "「확실히, 그때는 좀 더 화려했었지……」"
+
+[[dialogue]]
+speaker = "セーラ"
+original = "「何か条件とかあるカンジかな？」"
+translation = "「뭔가 조건 같은 게 있는 느낌일까?」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「感覚的にはそうです。ただ──今の俺には、一体、何が条件となっているのかわかりません」"
+translation = "「감각적으로는 그렇다. 다만── 지금의 나로서는, 대체, 무엇이 조건이 되는지 모르겠다」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「でもでも、ピンチになったら目覚めるなんて恐るべき<ruby>主人公<rt>ヒーロー</rt></ruby>補正……！\u3000羨ましい……！」"
+translation = "「하지만 하지만, 위기에 처하면 눈을 뜬다니 무시무시한 주인공 보정……! 부러워……!」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "（しかし、今の感覚は──なんだったんだ。俺の攻撃が、二重に感じられたような……）"
+translation = "（하지만, 지금의 감각은── 뭐였을까. 내 공격이, 이중으로 느껴진 것 같은……）"
+
+[[dialogue]]
+speaker = "unk"
+original = "拳撃にも。星術にも。"
+translation = "권격에도. 성술에도."
+
+[[dialogue]]
+speaker = "unk"
+original = "なぜだか、複数回相手を捉えるような感覚があった。"
+translation = "왠지 모르게, 여러 번 상대를 포착하는 듯한 감각이 있었다."
+
+[[dialogue]]
+speaker = "unk"
+original = "魔王の血が生み出す力は──単なる能力の底上げではないのだろうか……？"
+translation = "마왕의 피가 만들어내는 힘은── 단순한 능력의 향상이 아닌 걸까……?"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「にしても──くっ……。反動が──半端じゃないな。短時間、だけでも……」"
+translation = "「그렇다고 해도── 크윽……. 반동이── 장난이 아니네. 짧은 시간, 만으로도……」"
+
+[[dialogue]]
+speaker = "ニャリオン"
+original = "「ニャッニャッニャッ。まだまだ魔王としては未熟ということニャン！」"
+translation = "「냥냥냥. 아직 마왕으로서는 미숙하다는 거냥!」"
+
+[[dialogue]]
+speaker = "ソフィア"
+original = "（魔王の血──ってことは、フィオナ会長にも同じ資質があるのかな……？\u3000会長の進化モード、見てみたいかも……）"
+translation = "（마왕의 피──라는 건, 피오나 회장에게도 같은 자질이 있는 걸까……? 회장의 진화 모드, 보고 싶을지도……）"
+
+[[dialogue]]
+speaker = "unk"
+original = "身に余る力の反動がぶり返していた。"
+translation = "몸에 넘치는 힘의 반동이 되살아나고 있었다."
+
+[[dialogue]]
+speaker = "unk"
+original = "まだ、これだけの力を扱える『器』として成熟していない──ということなのかもしれない。"
+translation = "아직, 이 정도의 힘을 다룰 『그릇』으로서 성숙하지 않았다──는 것일지도 모른다."
+
+[[dialogue]]
+speaker = "ソフィア"
+original = "「それにしても、強敵すぎました──会長たちがいなかったらどうなっていたか」"
+translation = "「게다가, 너무 강적이었습니다── 회장님들이 없었다면 어떻게 되었을지」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「看板に偽りなしでしたね」"
+translation = "「간판에 거짓이 없었네요」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「これでも最初から相当弱ってそうなのよねえ……本来どれほどの力だったのか、怖くて想像もつかないわね」"
+translation = "「이래도 처음부터 상당히 약해져 있었을 것 같네…… 본래 얼마나 강했을지, 무서워서 상상도 안 가네」"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「く、鎖を巻いてくれた方に感謝ですっ」"
+translation = "「크, 사슬을 감아주신 분께 감사드립니다!」"
+
+[[dialogue]]
+speaker = "ユウリ"
+original = "「そういや──これで、ボスを倒したっつーことになんのか？」"
+translation = "「그러고 보니── 이걸로, 보스를 쓰러뜨렸다는 게 되는 건가?」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「！\u3000そのはずよ──第三層の攻略は完了したわ」"
+translation = "「! 그럴 거야── 제3계층의 공략은 완료됐어」"
+
+[[dialogue]]
+speaker = "unk"
+original = "これまでの例からしてこいつがこの階層の主であったのは間違いないだろう。"
+translation = "지금까지의 예로 볼 때 이 녀석이 이 계층의 주인임은 틀림없을 것이다."
+
+[[dialogue]]
+speaker = "unk"
+original = "そうなると、次は何かしらのメッセンジャーが現れる……というのがこれまでの通例だ。"
+translation = "그렇다면, 다음은 무언가의 메신저가 나타나는…… 것이 지금까지의 통례다."
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「クロトがボスを倒したわ──これで文句ないはずよ！」"
+translation = "「쿠로토가 보스를 쓰러뜨렸어── 이걸로 불만 없을 거야!」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「守護天使でも、ヘンちくりんな声でも、なんでもいいから──さあ！\u3000私たちを導きなさい！」"
+translation = "「수호 천사든, 이상한 목소리든, 뭐든지 좋으니까── 자! 우리를 인도해!」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「元気ね、ヴィーナスは……！」"
+translation = "「활기차네, 비너스는……!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "自身もかなり消耗したろうに、あの声を求めて叫ぶヴィーナス。"
+translation = "자신도 상당히 소모했을 텐데, 그 목소리를 찾아 외치는 비너스."
+
+[[dialogue]]
+speaker = "unk"
+original = "だが……"
+translation = "하지만……"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「……？\u3000何よ。どうして反応がないの？\u3000おーーーーいっ！」"
+translation = "「……? 뭐야. 왜 반응이 없어? 어~~~~이!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "今度はなかなか聞こえないようで、あちこち探し回っては声を張り上げていた。"
+translation = "이번에는 좀처럼 들리지 않는지, 여기저기 찾아다니며 목소리를 높이고 있었다."
+
+[[dialogue]]
+speaker = "unk"
+original = "すると、地面からモゴモゴと音を立てて、壊れかけの機械が現れる。"
+translation = "그러자, 땅바닥에서 우물쭈물 소리를 내며, 고장 난 기계가 나타난다."
+
+[[dialogue]]
+speaker = "ガーディアン"
+original = "「ウィーン──ウィーン──煌竜ヴィライアの沈没を確認」"
+translation = "「위잉── 위잉── 황룡 빌라이아의 침몰을 확인」"
+
+[[dialogue]]
+speaker = "ニャリオン"
+original = "「ニャッ！？\u3000ガーディアンニャ！」"
+translation = "「냥!? 가디언이냥!」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「あら。こいつが今回のメッセンジャーかしら？」"
+translation = "「어라. 이 녀석이 이번 메신저인 걸까?」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「攻撃してくる意図はないようですが……」"
+translation = "「공격해 올 의도는 없는 것 같습니다만……」"
+
+[[dialogue]]
+speaker = "ガーディアン"
+original = "「フィーニスの塔第三階層を解放。全護衛の出力をオフ。空間は環境維持モードへ移行されました」"
+translation = "「피니스의 탑 제3계층을 해방. 전 호위의 출력을 오프. 공간은 환경 유지 모드로 이행되었습니다」"
+
+[[dialogue]]
+speaker = "ガーディアン"
+original = "「オメデトウゴザイマス。オメデトウゴザイマス。ピピ、ガガ……ウィーン…………」"
+translation = "「오메데토우고자이마스. 오메데토우고자이마스. 삐삐, 가가…… 위잉…………」"
+
+[[dialogue]]
+speaker = "unk"
+original = "意味不明なメッセージの羅列──"
+translation = "의미를 알 수 없는 메시지의 나열──"
+
+[[dialogue]]
+speaker = "unk"
+original = "その機械音を残したのち、ガーディアンはうんともすんとも言わなくなってしまった。"
+translation = "그 기계음을 남긴 후, 가디언은 꼼짝도 하지 않게 되어버렸다."
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「……」"
+translation = "「……」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「…………」"
+translation = "「…………」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「………………へ？」"
+translation = "「………………헤?」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「あ、あれ？\u3000もう終わり？」"
+translation = "「아, 어라? 벌써 끝이야?」"
+
+[[dialogue]]
+speaker = "ユウリ"
+original = "「レベルアップイベントはどうなったんだよ」"
+translation = "「레벨업 이벤트는 어떻게 된 거냐」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「ちょ──待ちなさいよ、ポンコツスクラップ！\u3000あんな竜を倒したのに、何もないってどういうこと！？」"
+translation = "「잠깐── 기다려 봐, 고물 스크랩! 저런 용을 쓰러뜨렸는데, 아무것도 없다는 게 무슨 말이야!?」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「魔王は？\u3000アポロは？\u3000フィオナのお姉さんの件は、どうなっちゃったのよ──！」"
+translation = "「마왕은? 아폴로는? 피오나 언니 일은, 어떻게 된 거냐고──!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "喜んでいたのもつかの間。"
+translation = "기뻐했던 것도 잠시."
+
+[[dialogue]]
+speaker = "unk"
+original = "ヴィーナスは一転して動揺し、次いで空に向かって怒り始めた。"
+translation = "비너스는 일변하여 동요하더니, 이어서 하늘을 향해 화를 내기 시작했다."
+

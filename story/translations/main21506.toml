@@ -1,0 +1,350 @@
+[[dialogue]]
+speaker = "unk"
+original = "第６話,極星は輝いているか,B"
+translation = "제6화, 극성은 빛나고 있는가"
+
+[[dialogue]]
+speaker = "テルル"
+original = "『すべてを思い出したようですね、ルヴィネ』"
+translation = "『모든 것을 떠올린 모양이군요, 루비네』"
+
+[[dialogue]]
+speaker = "ルヴィネ"
+original = "「テルル……みんなは今、どうしているの！？」"
+translation = "「테루루…… 모두는 지금 어떻게 하고 있어!?」"
+
+[[dialogue]]
+speaker = "テルル"
+original = "『次々に複製される女神の幼体を相手に、抵抗を続けています。死の<ruby>水際<rt>みぎわ</rt></ruby>にいる貴女を庇いながら……』"
+translation = "『끊임없이 복제되는 여신의 유체를 상대로 저항을 계속하고 있습니다. 죽음의 문턱에 서 있는 당신을 감싸 안으며……』"
+
+[[dialogue]]
+speaker = "テルル"
+original = "『しかしそれも時間の問題です。すでに魔王もヴィーナスも……他の者たちも限界が近づいています』"
+translation = "『하지만 그것도 시간문제입니다. 이미 마왕도 비너스도…… 다른 이들도 한계에 도달해 가고 있습니다』"
+
+[[dialogue]]
+speaker = "ルヴィネ"
+original = "「そんな……お願い、貴女の助力で何とか──」"
+translation = "「그럴 수가…… 부탁해, 당신의 힘으로 어떻게든──」"
+
+[[dialogue]]
+speaker = "テルル"
+original = "『申し訳ありません。今の私には、余力がないのです……』"
+translation = "『죄송합니다. 지금의 저에게는 그럴 여력이 남아있지 않습니다……』"
+
+[[dialogue]]
+speaker = "ルヴィネ"
+original = "「だったら……声だけでも届けて！」"
+translation = "「그렇다면…… 목소리만이라도 전해줘!」"
+
+[[dialogue]]
+speaker = "ルヴィネ"
+original = "「私のことは見捨てなさいと伝えて！\u3000そうすれば少しでも余裕が……！」"
+translation = "「나는 신경 쓰지 말고 내버려 두라고 전해줘! 그러면 조금이라도 여유가 생길 테니까……!」"
+
+[[dialogue]]
+speaker = "テルル"
+original = "『ルヴィネ。貴女自身がわかっているはずです。その申し出を、あの子たちが受け入れると思うのですか？』"
+translation = "『루비네. 당신 스스로도 알고 있을 텐데요. 그 부탁을 그 아이들이 받아들일 거라 생각합니까?』"
+
+[[dialogue]]
+speaker = "ルヴィネ"
+original = "「……っ！\u3000だったら、貴女はなぜここに来たの……！？」"
+translation = "「……! 그렇다면 당신은 어째서 여기에 온 거야……!?」"
+
+[[dialogue]]
+speaker = "テルル"
+original = "『貴女に死んでほしくない……生き延びて欲しいのです』"
+translation = "『당신이 죽지 않기를 바라기 때문입니다…… 살아남아 주기를 원하니까요』"
+
+[[dialogue]]
+speaker = "テルル"
+original = "『同じ父から生まれた姉妹である貴女を、このまま逝かせるのは忍びない。それに……』"
+translation = "『같은 아버지에게서 태어난 자매인 당신을 이대로 보내기에는 마음이 아픕니다. 게다가……』"
+
+[[dialogue]]
+speaker = "テルル"
+original = "『貴女でなければできないことを頼みたい……そのために、私はここへ来ました──』"
+translation = "『당신이 아니면 할 수 없는 일을 부탁하고 싶습니다…… 그것을 위해 저는 여기에 왔습니다──』"
+
+[[dialogue]]
+speaker = "ホロウ・ルヴィネ"
+original = "「対ディザスターハンド、相当な消耗だったようね？\u3000私たちとの戦いはまだ始まったばかりだと言うのに、動きがどんどん鈍くなっているわよ」"
+translation = "「대 디재스터 핸드전으로 꽤 소모된 모양이네? 우리와의 싸움은 이제 막 시작되었을 뿐인데 움직임이 점점 둔해지고 있어」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「はぁっ……ぜぇっ、はぁっ！！」"
+translation = "「하앗…… 헉, 하앗!!」"
+
+[[dialogue]]
+speaker = "ホロウ・ルヴィネL"
+original = "「しかし私の肉体も潮時かしら──新調しましょう」"
+translation = "「하지만 내 육체도 수명이 다한 모양이네── 새로 장만하도록 하자」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「くそっ……きりが、ない……！」"
+translation = "「젠장…… 끝이, 없잖아……!」"
+
+[[dialogue]]
+speaker = "ヴィーナス（覚醒）"
+original = "「クロトっ……ごめんなさい……！」"
+translation = "「쿠로토…… 미안해……!」"
+
+[[dialogue]]
+speaker = "フィオナ（魔王）"
+original = "「げ、限界、ですっ……！」"
+translation = "「하, 한계, 예요……!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ヴィーナスたちのノヴァフォームも時間切れ──俺ももう、立っているのがやっとだ……！"
+translation = "비너스 일행의 노바 폼도 시간 초과── 나도 이젠 서 있는 것조차 고작이다……!"
+
+[[dialogue]]
+speaker = "煌嶺"
+original = "「壁にもならぬ騎士など邪魔なだけだ、下がれ」"
+translation = "「방패막이조차 되지 못하는 기사 따위 방해만 될 뿐이다, 물러서거라」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「煌嶺……！？」"
+translation = "「코레이……!?」"
+
+[[dialogue]]
+speaker = "煌嶺"
+original = "「ここまで手を焼かせる相手は久方ぶりだ。複製体と、妾の集めた魔物たちの軍勢──どちらが先に尽きるか試してやろう」"
+translation = "「이토록 애를 먹이게 만드는 상대는 실로 오랜만이구나. 복제체와 소첩이 모은 마물 군세── 어느 쪽이 먼저 바닥날지 시험해 보자꾸나」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ぐわ──と空気が歪み、煌嶺の背後に大量の魔獣たちがひしめき始める。"
+translation = "훵하니 공기가 왜곡되며 코레이의 배후에 수많은 마수들이 우글거리기 시작한다."
+
+[[dialogue]]
+speaker = "ホロウ・ルヴィネ"
+original = "「生物型に、機械型のリクリエモンスター。大型の魔獣に極星従騎……まるで百鬼夜行ね」"
+translation = "「생물형에 기계형 리크리에 몬스터. 대형 마수에 극성종기라…… 그야말로 백귀야행이 따로 없네」"
+
+[[dialogue]]
+speaker = "煌嶺"
+original = "「千を優に超え、万に届く魔の軍勢を拝ませてやる。光栄に思え──<ruby>千熾万紅<rt>せんしばんこう</rt></ruby>！！」"
+translation = "「천을 아득히 넘고 만에 육박하는 마의 군세를 보여주마. 영광으로 알거라── 천치만홍!!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "煌嶺の戦闘力はすさまじいの一言だが、無限とも言えるホロウが相手ではいつかは押し切られてしまう。"
+translation = "코레이의 전투력은 실로 경이로울 따름이지만, 무한에 가까운 호로우를 상대로는 언젠가 밀릴 수밖에 없다."
+
+[[dialogue]]
+speaker = "unk"
+original = "俺も渾身の星力を注ぎ直し、戦線に復帰しなくては──！！"
+translation = "나도 전신의 성력을 다시 쏟아부어 전선에 복귀해야 해──!!"
+
+[[dialogue]]
+speaker = "unk"
+original = "テルルが頼みたいこと。その想いはくみ取れる──けれど。"
+translation = "테루루가 부탁하고 싶어 하는 일. 그 마음은 충분히 이해한다── 하지만."
+
+[[dialogue]]
+speaker = "ルヴィネ"
+original = "「──無理よ。今さら私に、そんな大役……」"
+translation = "「──무리야. 이제 와서 내게 그런 큰 역할을……」"
+
+[[dialogue]]
+speaker = "テルル"
+original = "『貴女はもう、創造神の傀儡ではありません。意思を持ち、願いを抱き、作り物でしかなかった命を輝かせた──１人の貴い天使です』"
+translation = "『당신은 이제 창조신의 꼭두각시가 아닙니다. 의지를 지니고, 염원을 품어, 그저 만들어진 것에 불과했던 생명을 빛내 보인── 한 명의 고귀한 천사입니다』"
+
+[[dialogue]]
+speaker = "テルル"
+original = "『そんな貴女だからこそ託したい。だからどうか、生き延びてください。息を吹き返し、現実世界への帰還を果たすのです』"
+translation = "『그러한 당신이기에 탁성하고 싶은 것입니다. 그러니 부디 살아남아 주세요. 숨을 되찾아 현실 세계로의 귀환을 완수하는 것입니다』"
+
+[[dialogue]]
+speaker = "ルヴィネ"
+original = "「でも、どうやって……？」"
+translation = "「하지만 어떻게……?」"
+
+[[dialogue]]
+speaker = "ルヴィネ"
+original = "「わかるのよ、テルル。今こうしている間も……私は失われ続けている……」"
+translation = "「알 수 있어, 테루루. 지금 이러고 있는 동안에도…… 나는 계속해서 소멸해 가고 있어……」"
+
+[[dialogue]]
+speaker = "ルヴィネ"
+original = "「命を繋ぎ留められない……それにもし戻ったとしても、今の私には何もない……！」"
+translation = "「생명을 붙잡아 둘 수 없어…… 게다가 만약 돌아간다고 한들 지금의 내게는 아무것도 없어……!」"
+
+[[dialogue]]
+speaker = "ルヴィネ"
+original = "「霊力はもうないの！\u3000みんなどころか、自分の身だって守れない……役立たずなのよ！」"
+translation = "「영력은 이제 남아있지 않아! 모두는커녕 내 한 몸뚱이조차 지킬 수 없어…… 아무짝에도 쓸모없는 존재란 말이야!」"
+
+[[dialogue]]
+speaker = "テルル"
+original = "『星に願いを届けて──嘘を真にするのです』"
+translation = "『별에게 소원을 전하세요── 거짓을 진실로 바꾸는 것입니다』"
+
+[[dialogue]]
+speaker = "テルル"
+original = "『私は強き想いを抱くヒトの子らのために、夜空に星々を浮かべました……』"
+translation = "『저는 강인한 마음을 품은 인간들을 위해 밤하늘에 별들을 수놓았습니다……』"
+
+[[dialogue]]
+speaker = "テルル"
+original = "『守護の星は──私が授けているものではないのです。あくまでヒトと星々の橋渡しを、取り計らったにすぎません』"
+translation = "『수호의 별은── 제가 부여해 주는 것이 아닙니다. 그저 인간과 별들을 이어주는 가교 역할을 조율했을 뿐입니다』"
+
+[[dialogue]]
+speaker = "テルル"
+original = "『ですから……全ては貴女次第。どうか、どうか戻ってきてください。ルヴィネ……』"
+translation = "『그러니…… 모든 것은 당신에게 달렸습니다. 부디, 부디 돌아와 주세요. 루비네……』"
+
+[[dialogue]]
+speaker = "ルヴィネ"
+original = "「──テルル！\u3000待って、そんなこと……！！」"
+translation = "「──테루루! 기다려, 그런 건……!!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "──テルルの声が聴こえなくなった。"
+translation = "──테루루의 목소리가 들리지 않게 되었다."
+
+[[dialogue]]
+speaker = "unk"
+original = "彼女は本当に消耗している──本当なら自分に会いに来るなど、とてもできないほどに弱り果てていた。"
+translation = "그녀는 정말로 소모되어 있었다──원래대로라면 자신을 만나러 오는 것 따윈 엄두도 내지 못할 정도로 약해져 있었다."
+
+[[dialogue]]
+speaker = "unk"
+original = "それなのに、声を届けに来てくれた。"
+translation = "그런데도 목소리를 전하러 와 주었다."
+
+[[dialogue]]
+speaker = "ルヴィネ"
+original = "「……星に、願いを？」"
+translation = "「……별에게, 소원을?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "夜空を見上げることが大嫌いだった。"
+translation = "밤하늘을 올려다보는 것을 너무나도 싫어했다."
+
+[[dialogue]]
+speaker = "ルヴィネ"
+original = "「嘘を……真に…………？」"
+translation = "「거짓을…… 진실로…………?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "己の嘘を、咎められているような気がして──だから目を背けていた。"
+translation = "자신의 거짓말을 질책받는 듯한 기분이 들어──그래서 눈을 돌리고 있었다."
+
+[[dialogue]]
+speaker = "ルヴィネ"
+original = "「…………ポラリス」"
+translation = "「…………포라리스」"
+
+[[dialogue]]
+speaker = "unk"
+original = "私の声は、届くのだろうか？"
+translation = "나의 목소리는 닿는 것일까?"
+
+[[dialogue]]
+speaker = "unk"
+original = "あまりに虫が良すぎることは理解している。どの面を下げて、となじられて当然──だけど。"
+translation = "너무나 염치없다는 것은 이해하고 있다. 무슨 낯짝으로, 라며 매도당해도 당연해──하지만."
+
+[[dialogue]]
+speaker = "ルヴィネ"
+original = "「お願い……私に……愛しい世界を……」"
+translation = "「부탁이야…… 내게…… 사랑스런 세계를……」"
+
+[[dialogue]]
+speaker = "ルヴィネ"
+original = "「大好きな友達を……守る力を…………！！」"
+translation = "「정말 좋아하는 친구들을…… 지킬 힘을…………!!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "どうか、私に──"
+translation = "부디 내게──"
+
+[[dialogue]]
+speaker = "ベアトリス"
+original = "「……っ！？\u3000ルヴィが──！」"
+translation = "「……윽!? 루비가──!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "瞳は閉ざされ、脈も呼吸も止めていたルヴィネの右腕が──持ち上がる。"
+translation = "눈은 감기고 맥박도 호흡도 멈춰 있던 루비네의 오른팔이──올라간다."
+
+[[dialogue]]
+speaker = "トリュファイナ"
+original = "「目が覚めた……わけではない──いったい……！？」"
+translation = "「눈을 뜬…… 것은 아니야──대체……!?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "その華奢な手のひらは、何かを掴み取ろうとするように天空へ向かって伸ばされて──"
+translation = "그 가녀린 손바닥은 무언가를 붙잡으려는 듯이 하늘을 향해 뻗어지고──"
+
+[[dialogue]]
+speaker = "チナ"
+original = "「ルヴィ……！？」"
+translation = "「루비……!?」"
+
+[[dialogue]]
+speaker = "グレイス"
+original = "「あっ──！？」"
+translation = "「앗──!?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "天使の少女の制服に忍ばせられていたものが。"
+translation = "천사 소녀의 제복 안에 숨겨져 있던 것이."
+
+[[dialogue]]
+speaker = "レティシア"
+original = "「────綺麗」"
+translation = "「────아름다워」"
+
+[[dialogue]]
+speaker = "unk"
+original = "偽りの象徴であったはずのセレスティアが、爆発的な閃光を巻き起こす──"
+translation = "거짓의 상징이었을 터인 셀레스티아가 폭발적인 섬광을 일으킨다──"
+
+[[dialogue]]
+speaker = "ベアトリス"
+original = "「ここを使えばきっとアルタイルに行ける……はず！」"
+translation = "「이곳을 통하면 분명 알타이르로 갈 수 있을…… 거야!」"
+
+[[dialogue]]
+speaker = "ベアトリス"
+original = "「何だか不思議だね。前に似たようなことがあった時は『待ちなさい、ベアト』って止められたのに」"
+translation = "「왠지 신기하네. 전에 비슷한 일이 있었을 때는 『기다려, 베아토』라며 말렸었는데」"
+
+[[dialogue]]
+speaker = "ベアトリス"
+original = "「でも、大好きな友達とのお別れなんて１回でたくさん。だからルヴィ──」"
+translation = "「하지만 정말 좋아하는 친구와의 작별 같은 건 한 번으로 족해. 그러니까 루비──」"
+
+[[dialogue]]
+speaker = "ベアトリス"
+original = "「今度は……一緒に行こっ！」"
+translation = "「이번에는…… 같이 가자!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "……ありがとう、ベアト。"
+translation = "……고마워, 베아토."
+
+[[dialogue]]
+speaker = "unk"
+original = "そして、今度こそ────"
+translation = "그리고 이번에야말로────"
+

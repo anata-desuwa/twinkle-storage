@@ -1,0 +1,265 @@
+[[dialogue]]
+speaker = "unk"
+original = "第１話,星徒会にご挨拶,P"
+translation = "제1화, 성도회에 인사를, P"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「みんな、今日の仕事終わった？\u3000よし！\u3000時間あるし、みんなでカフェテリアでも行かない？」"
+translation = "「모두들, 오늘 일 끝났어? 좋아! 시간도 있으니까, 다 같이 카페테리아라도 가지 않을래?」"
+
+[[dialogue]]
+speaker = "マグダレナ"
+original = "「お邪魔します」"
+translation = "「실례하겠습니다」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「あなたは……！？」"
+translation = "「당신은……!?」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「え、ヴィーナスの知ってる人？\u3000すごく綺麗な人だけど……どなたですか？\u3000生徒でも先生でもないようだし……」"
+translation = "「에, 비너스가 아는 사람? 굉장히 아름다운 분인데…… 누구신가요? 학생도 선생님도 아닌 것 같고……」"
+
+[[dialogue]]
+speaker = "マグダレナ"
+original = "「守護天使、《境界》のマグダレナと申します。この度は新星学園星徒会の皆さまにご挨拶に伺いました」"
+translation = "「수호천사, 《경계》의 막달레나라고 합니다. 이번에 신성학원 성도회 여러분께 인사를 드리러 찾아왔습니다」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「そうそう。フィーニスの塔で会ったんだけど話の途中で消えちゃって……本体は遠くにいるって言ってなかったっけ？」"
+translation = "「맞아 맞아. 피니스의 탑에서 만났는데 이야기 도중에 사라져 버려서…… 본체는 멀리 있다고 하지 않았었나?」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「はい。ですから私とアニマ先輩で依り代となるボディを作り、力と意識の一部を移す形で現界してもらいました」"
+translation = "「네. 그래서 저와 아니마 선배가 매개체가 될 바디를 만들어, 힘과 의식의 일부를 옮기는 형태로 현계하게 했습니다」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「そんなことできるんだ！？」"
+translation = "「그런 게 가능해!?」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「フィーニスの塔ではいろいろありがとうね」"
+translation = "「피니스의 탑에서는 여러모로 고마웠어.」"
+
+[[dialogue]]
+speaker = "マグダレナ"
+original = "「いいえ、礼には及びません。この身は領域の摂理を司る守護天使。天界・人間界・魔界、それぞれの境界を守る者ですから」"
+translation = "「아니요, 감사 인사는 과분합니다. 이 몸은 영역의 섭리를 관장하는 수호천사. 천계·인간계·마계, 각각의 경계를 지키는 자니까요.」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「それってつまり、あなたがいなかったら三界がぐちゃぐちゃになるってこと？」"
+translation = "「그 말은 즉, 당신이 없으면 삼계가 엉망진창이 된다는 거야?」"
+
+[[dialogue]]
+speaker = "マグダレナ"
+original = "「はい、大まかに言うとそうなりますね」"
+translation = "「네, 대략적으로 말하자면 그렇게 되겠네요.」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「へぇ～、守護天使ってほんとにすごいんだ……」"
+translation = "「헤에~, 수호천사라는 거 정말 대단하구나……」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「じゃあ何とお呼びすれば……？\u3000守護天使って女神様に仕えるかなり高位の存在……なんですよね？」"
+translation = "「그럼 뭐라고 부르면……? 수호천사라면 여신님을 모시는 꽤 고위 존재……인 거죠?」"
+
+[[dialogue]]
+speaker = "マグダレナ"
+original = "「そうですね……」"
+translation = "「그렇네요……」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "（三界の境界を守る守護天使ってことは、かなりカッチリした方なんじゃ……やっぱり様付けしないと……）"
+translation = "(삼계의 경계를 지키는 수호천사라면, 꽤 딱딱한 분 아닐까…… 역시 '님'을 붙여야……)"
+
+[[dialogue]]
+speaker = "マグダレナ"
+original = "「お好きなように呼んでいただいて構いませんよ～。マグダレナでもマグちゃんでも呼びやすいものでどうぞ」"
+translation = "「편하신 대로 불러주셔도 상관없답니다~. 막달레나든 마그짱이든 부르기 쉬운 걸로 부르세요.」"
+
+[[dialogue]]
+speaker = "マグダレナ"
+original = "「守護天使とはいえ、今の私は皆さまと同じく自らの足で大地を踏む者。お気遣いなさらず、気軽にお声がけください。ふふふ」"
+translation = "「수호천사라고는 해도, 지금의 저는 여러분과 똑같이 자신의 발로 대지를 밟는 자. 신경 쓰지 마시고, 편하게 말을 걸어주세요. 후후후.」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "（思ったよりぽわぽわしてる……！\u3000しかも眩しい！）"
+translation = "(생각보다 둥실둥실한 느낌이야……! 게다가 눈부셔!)"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「神々しいわ～。じゃあマグダレナさんで」"
+translation = "「성스러워라~. 그럼 막달레나 씨로.」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「私はマグダレナで！\u3000前からそう呼んでるしいいわよね？」"
+translation = "「나는 막달레나로! 전부터 그렇게 불렀으니 괜찮지?」"
+
+[[dialogue]]
+speaker = "マグダレナ"
+original = "「はい、もちろんです」"
+translation = "「네, 물론이죠.」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「ほんとに気軽！？\u3000まぁヴィーナスらしいけど……」"
+translation = "「정말로 편해!? 뭐, 비너스답긴 하지만……」"
+
+[[dialogue]]
+speaker = "マグダレナ"
+original = "「一度は敵になったとはいえ、我々守護天使は世界の理を守る者。世界の崩壊を防ぐためにともに戦わせてください」"
+translation = "「한때는 적이 되었다고는 하나, 우리 수호천사는 세계의 이치를 지키는 자. 세계의 붕괴를 막기 위해 함께 싸우게 해주세요.」"
+
+[[dialogue]]
+speaker = "unk"
+original = "よろしくお願いします！"
+translation = "잘 부탁드립니다!"
+
+[[dialogue]]
+speaker = "マグダレナ"
+original = "「こちらこそよろしくお願いいたします。では流星学園の方々にもご挨拶に――」"
+translation = "「저야말로 잘 부탁드립니다. 그럼 유성 학원 분들께도 인사를――」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「今の……誰？」"
+translation = "「방금…… 누구?」"
+
+[[dialogue]]
+speaker = "マグダレナ"
+original = "「失礼しました、今のお腹の音は私です……。本来守護天使は食事を必要としないのですが、肉体を得て栄養を欲しているようです」"
+translation = "「실례했습니다, 방금 꼬르륵 소리는 저예요……. 본래 수호천사는 식사를 필요로 하지 않습니다만, 육체를 얻어 영양을 원하고 있는 모양입니다.」"
+
+[[dialogue]]
+speaker = "マグダレナ"
+original = "「なるほど、人前でお腹が鳴るといささか恥ずかしいのですね。ひとつ学ぶことができました」"
+translation = "「과연, 사람들 앞에서 배꼽시계가 울리면 조금 부끄러운 것이군요. 하나 배울 수 있었습니다.」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「よーし、それじゃ改めて、みんなでカフェテリア行きましょ！」"
+translation = "「좋아, 그럼 다시 한번, 다 같이 카페테리아로 가자!」"
+
+[[dialogue]]
+speaker = "マグダレナ"
+original = "「こちらの場所は……？\u3000良い香りがしますね」"
+translation = "「이곳은……? 좋은 향기가 나네요.」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「新星と流星の両校の生徒がお茶する場所」"
+translation = "「신성과 유성 양쪽 학교의 학생들이 차를 마시는 곳.」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「コーヒーや紅茶の他に、いろいろなケーキもあるのよ～」"
+translation = "「커피나 홍차 외에도, 여러 가지 케이크도 있단다~」"
+
+[[dialogue]]
+speaker = "unk"
+original = "星騎士たちの憩いの場所です"
+translation = "성기사들의 휴식처입니다."
+
+[[dialogue]]
+speaker = "マグダレナ"
+original = "「それは興味深いです。ご一緒してもよろしいのですか？」"
+translation = "「그것참 흥미롭네요. 함께해도 괜찮을까요?」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「もっちろん！\u3000とりあえず、コーヒーと日替わりケーキ、人数分お願いしまーす！」"
+translation = "「무우론이지! 일단, 커피랑 오늘의 케이크, 인원수대로 부탁해~!」"
+
+[[dialogue]]
+speaker = "マグダレナ"
+original = "「日替わりケーキ……不思議と胸がときめく言葉ですね。ふふふっ」"
+translation = "「오늘의 케이크…… 신기하게 가슴이 설레는 말이네요. 후후훗.」"
+
+[[dialogue]]
+speaker = "マグダレナ"
+original = "「あ、来ました。ではさっそく……あむ」"
+translation = "「아, 왔네요. 그럼 당장…… 냠.」"
+
+[[dialogue]]
+speaker = "マグダレナ"
+original = "「！\u3000口の中に広がる甘さ……初めての刺激ですが、これが美味しいという感情なのですね」"
+translation = "「! 입안에 퍼지는 달콤함…… 처음 느껴보는 자극입니다만, 이것이 맛있다는 감정이군요.」"
+
+[[dialogue]]
+speaker = "マグダレナ"
+original = "「コーヒーも風味豊かで、空腹も満たされて……体を得るとこんなことができるようになるのですね」"
+translation = "「커피도 풍미가 풍부하고, 허기도 채워지고…… 몸을 얻으면 이런 것을 할 수 있게 되는군요.」"
+
+[[dialogue]]
+speaker = "マグダレナ"
+original = "「あら？\u3000マトイさま、お口の周りにクリームが付いておりますよ。お拭きいたしますね」"
+translation = "「어라? 마토이 님, 입 주변에 크림이 묻어있어요. 닦아드릴게요.」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「あ、いえいえ、お気になさらず！\u3000自分で拭きますから！」"
+translation = "「아, 아뇨 아뇨, 신경 쓰지 마세요! 제가 닦을 테니까요!」"
+
+[[dialogue]]
+speaker = "マグダレナ"
+original = "「遠慮なさらずともよろしいですのに……」"
+translation = "「부담 갖지 않으셔도 괜찮은데……」"
+
+[[dialogue]]
+speaker = "マグダレナ"
+original = "「あら、ヴィーナスさまのカップがもう空に……こういう時は追加で注文すれば良いのでしょうか」"
+translation = "「어라, 비너스 님의 컵이 벌써 비었네요…… 이럴 때는 추가로 주문하면 되는 걸까요?」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「あ、だいじょーぶ、自分でやるって」"
+translation = "「아, 괜찮아, 내가 알아서 할게.」"
+
+[[dialogue]]
+speaker = "マグダレナ"
+original = "「さようですか……あ、会長さま。食べる手が止まっているようですが、どうされました？\u3000食べさせて差し上げましょうか？」"
+translation = "「그러신가요…… 아, 회장님. 먹는 손이 멈춘 것 같은데, 무슨 일이신가요? 먹여 드릴까요?」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「え」"
+translation = "「에.」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「あら～？」"
+translation = "「어머나~?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "大丈夫です！"
+translation = "괜찮습니다!"
+
+[[dialogue]]
+speaker = "マグダレナ"
+original = "「あら、そうですか。あーんして差し上げようと思ったのですが」"
+translation = "「어라, 그런가요. 아~ 해드리려고 생각했습니다만.」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「会長がフリーズしてる」"
+translation = "「회장이 정지했어.」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "（この天使様、もしかしてめちゃくちゃ甘やかすタイプ……？）"
+translation = "(이 천사님, 혹시 엄청나게 응석을 받아주는 타입……?)"
+

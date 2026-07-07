@@ -1,0 +1,305 @@
+[[dialogue]]
+speaker = "unk"
+original = "第４話,甘えんぼのエリシア,P"
+translation = "제4화, 응석받이 엘리시아"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「おはようございます、あなた」"
+translation = "「좋은 아침이에요, 당신」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「星見家の改装も今日で終わりです。この呼び方も、しばらくおあずけだと思うと、名残惜しいですね」"
+translation = "「호시미 가문의 개조도 오늘로 끝입니다. 이 호칭도, 당분간 보류라고 생각하니, 아쉽네요」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「今日はキリカが迎えに来ることになっています。私ひとりでも帰れるんですが、キリカがご挨拶したいと言って……すみません」"
+translation = "「오늘은 키리카가 마중 오기로 되어 있어요. 저 혼자서도 돌아갈 수 있지만, 키리카가 인사하고 싶다고 해서…… 죄송합니다」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「フィオナ、久しぶりだな！\u3000魔王も元気だったか！」"
+translation = "「피오나, 오랜만이네! 마왕도 잘 지냈냐!」"
+
+[[dialogue]]
+speaker = "キリカ"
+original = "「お嬢様が一緒にいらしたいと無理を仰いまして、ついてきてしまいました。申し訳ありません。こちら、粗品です。お納めください」"
+translation = "「아가씨께서 함께 오고 싶다고 무리하게 말씀하셔서, 따라와 버렸습니다. 죄송합니다. 이것은, 변변치 않은 선물입니다. 받아주십시오」"
+
+[[dialogue]]
+speaker = "キリカ"
+original = "「……リノ様がいらっしゃらないようですが」"
+translation = "「……리노 님은 안 계신 듯합니다만」"
+
+[[dialogue]]
+speaker = "unk"
+original = "母は急な出張で出かけています"
+translation = "어머니는 급한 출장으로 나가 계십니다"
+
+[[dialogue]]
+speaker = "キリカ"
+original = "「そうでしたか。いずれまたご挨拶に伺います。よろしくお伝えください」"
+translation = "「그러셨군요. 조만간 다시 인사드리러 오겠습니다. 안부 전해 주십시오」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「フィオナ、魔王と魔王のお母さんに迷惑かけなかったか～？」"
+translation = "「피오나, 마왕이랑 마왕 엄마한테 폐 끼치지 않았냐~?」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「むっ。姉さん、どういう意味ですか？」"
+translation = "「흥. 언니, 무슨 뜻이에요?」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「ちっちゃい頃のお泊り会の時なんか、寂しいって先生にムリ言って、よそのクラスなのに、あたしの隣で寝ただろ」"
+translation = "「어렸을 때 잠자리 모임 같은 때, 외롭다고 선생님한테 억지 부려서, 다른 반인데도, 내 옆에서 잤잖아」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「他にも、晩ご飯の野菜を食べてやったり、割れたクッキー交換してやったり。あたしはお前が心配だったぞ！」"
+translation = "「그 외에도, 저녁밥 채소를 대신 먹어주거나, 깨진 쿠키를 바꿔주거나. 나는 네가 걱정이었다고!」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「…………姉さん」"
+translation = "「…………언니」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「それは二人だけのヒミツって約束したでしょっ！？\u3000も～怒った！\u3000怒りましたよ！」"
+translation = "「그건 둘만의 비밀이라고 약속했잖아요!? 모~ 화났다! 화났어요!」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「新年らしく、羽根つきで勝負はいかがですか？」"
+translation = "「새해답게, 하네츠키로 승부하는 건 어떠세요?」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「いいぜ。その勝負、受けて立つ！」"
+translation = "「좋아. 그 승부, 받아주마!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "２人が上空へと飛び立ち、星術スーパー羽根つき星見家杯がここに開幕した。"
+translation = "두 사람이 상공으로 날아오르고, 성술 슈퍼 하네츠키 호시미 가문배가 여기에 개막했다."
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「星見流羽根突術・暁！」"
+translation = "「호시미류 하네츠키술・새벽!」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「なんの、裏・星見流羽根突術・黄昏！」"
+translation = "「뭐야, 뒤 호시미류 하네츠키술・황혼!」"
+
+[[dialogue]]
+speaker = "キリカ"
+original = "「星見流羽根突術とはいったい……？\u3000裏とは……？」"
+translation = "「호시미류 하네츠키술이란 대체……? 뒤란……?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ノリで言ってるだけだと思います"
+translation = "분위기에 휩쓸려서 말하는 것 같습니다"
+
+[[dialogue]]
+speaker = "キリカ"
+original = "「そうですか……さすが双子、息がぴったりですね」"
+translation = "「그러십니까…… 역시 쌍둥이, 호흡이 척척 맞으시네요」"
+
+[[dialogue]]
+speaker = "キリカ"
+original = "「出先でケンカとは……帰ったらおふたりともお説教ですね。ふふ」"
+translation = "「외출지에서 싸움이라니…… 돌아가면 두 분 다 꾸중을 들으셔야겠네요. 후후」"
+
+[[dialogue]]
+speaker = "unk"
+original = "楽しそうですね？"
+translation = "즐거워 보이네요?"
+
+[[dialogue]]
+speaker = "キリカ"
+original = "「おふたりはいつも一緒でしたから、ケンカも珍しいことではありませんでした。ですが、とても…………とても久しぶりだったので、つい」"
+translation = "「두 분은 항상 함께 계셨으니까, 싸움도 드문 일은 아니었습니다. 하지만, 굉장히………… 굉장히 오랜만이었기에, 저도 모르게」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「私に恋人がいたら悪いんですか！？\u3000私の恥ずかしいところばっかり緋宮会長の前で言わないでください！」"
+translation = "「저에게 연인이 있으면 안 되나요!? 저의 부끄러운 부분만 히노미야 회장 앞에서 말하지 말아 주세요!」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「そうは言ってないだろー！\u3000あたしは心配なんだ！」"
+translation = "「그렇게 말 안 했잖아! 나는 걱정이라고!」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「ほんとはお前、メチャクチャ甘えんぼのくせに、カッコつけようとして無理してないか！？」"
+translation = "「사실 너, 엄청 응석받이면서, 멋있는 척하려고 무리하는 거 아니냐!?」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「誰が甘えんぼですか、普通です普通！」"
+translation = "「누가 응석받이예요, 평범해요 평범!」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「流星ライダーの食玩のシークレット、泣いて欲しがっただろ！」"
+translation = "「유성 라이더 식완의 시크릿, 울면서 갖고 싶어 했잖아!」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「そんなことも……ありましたけど！」"
+translation = "「그런 일도…… 있었지만요!」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「グリンピース食べられるようになったか！？」"
+translation = "「그린피스 먹을 수 있게 됐냐!?」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「すでに姉さんの前で何度も食べてます！」"
+translation = "「이미 언니 앞에서 몇 번이나 먹었어요!」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「ピーマンは！？」"
+translation = "「피망은!?」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「…………もういいでしょう、姉さん。そろそろ決着を付けましょう！」"
+translation = "「…………이제 됐어요, 언니. 슬슬 결착을 냅시다!」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「おい、誤魔化すな！」"
+translation = "「야, 얼버무리지 마!」"
+
+[[dialogue]]
+speaker = "キリカ"
+original = "「ご覧のように、フィオナ……いえ、エリシアお嬢様は幼い頃はそれはそれは甘えん坊で、フィオナお嬢様の後ろをついて回っておられました」"
+translation = "「보시다시피, 피오나…… 아니, 엘리시아 아가씨께서는 어릴 적에는 정말로 응석받이여서, 피오나 아가씨의 뒤를 따라다니셨습니다」"
+
+[[dialogue]]
+speaker = "キリカ"
+original = "「ですが、それもフィオナお嬢様がお眠りになるまで」"
+translation = "「하지만, 그것도 피오나 아가씨께서 잠드실 때까지였습니다」"
+
+[[dialogue]]
+speaker = "キリカ"
+original = "「エリシアお嬢様が『星見フィオナ』となってからはご自身を厳しく律していらっしゃいました。張り詰めているご様子で、仕える私たちも、時折心配になるほどでした」"
+translation = "「엘리시아 아가씨께서 『호시미 피오나』가 되신 후로는 스스로를 엄격하게 다스리고 계셨습니다. 긴장하고 계신 모습에, 모시는 저희도, 때때로 걱정될 정도였습니다」"
+
+[[dialogue]]
+speaker = "キリカ"
+original = "「けれど、緋宮会長がお嬢様と寄り添うようになってから、全てが変わりました。最近はいつも楽しそうに笑っておられて…………あなたのおかげです」"
+translation = "「하지만, 히노미야 회장님께서 아가씨와 가까워지신 후부터, 모든 것이 바뀌었습니다. 최근에는 항상 즐겁게 웃고 계셔서………… 당신 덕분입니다」"
+
+[[dialogue]]
+speaker = "キリカ"
+original = "「幼い日のように、無邪気にケンカする日が来るなんて、思いもしませんでした」"
+translation = "「어린 시절처럼, 천진난만하게 싸우는 날이 올 줄은, 생각지도 못했습니다」"
+
+[[dialogue]]
+speaker = "キリカ"
+original = "「星見家メイド長として、私個人としてもお礼を言います。本当に、ありがとうございます」"
+translation = "「호시미 가문 메이드장으로서, 저 개인적으로도 감사를 표합니다. 정말로, 감사합니다」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「行きますよ、姉さん！\u3000全力で攻撃するので、全力で打ち返してきてください！\u3000私が勝ったらこれからピーマンは姉さんが食べてください！」"
+translation = "「갈게요, 언니! 전력으로 공격할 테니, 전력으로 되받아쳐 주세요! 제가 이기면 이제부터 피망은 언니가 드세요!」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「いや自分で食べろ！\u3000まぁいい、どうせあたしが勝つからな！\u3000来い！」"
+translation = "「야, 네가 먹어! 뭐 됐어, 어차피 내가 이길 테니까! 와!」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「星見流羽根突術奥義・御来光！」"
+translation = "「호시미류 하네츠키술 오의・일출!」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「裏・星見流羽根突術奥義・逢魔ヶ時！」"
+translation = "「뒤 호시미류 하네츠키술 오의・황혼!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "微笑むキリカ師匠の頭上で閃光が弾け、視界が遮られる。そして──"
+translation = "미소 짓는 키리카 사부의 머리 위에서 섬광이 터져, 시야가 가려진다. 그리고──"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「はーはっはっは！\u3000お姉ちゃんの勝ちだ！」"
+translation = "「하하핫! 언니의 승리다!」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「くっ、そんなぁ……」"
+translation = "「크윽, 그럴 수가……」"
+
+[[dialogue]]
+speaker = "unk"
+original = "惜しくも負けて落下するフィオナを、俺も変身してお姫様抱っこで受け止める。"
+translation = "아쉽게도 패배하여 낙하하는 피오나를, 나도 변신하여 공주님 안기로 받아낸다."
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「あ、受け止めてくださったんですね。ありがとうございます」"
+translation = "「아, 받아주셨군요. 감사합니다」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「姉さんに負けてしまいました……。新しい戦闘服にも早く慣れないとですね」"
+translation = "「언니에게 져버렸어요……. 새로운 전투복에도 빨리 익숙해져야겠네요」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「ま～た人前でイチャイチャしてるな」"
+translation = "「또 사람들 앞에서 알콩달콩하고 있네」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「ま、魔王にはちゃんと甘えられてるみたいで安心したぜ。あたしはこのまま飛んで帰る。キリカ、行くぞ」"
+translation = "「뭐, 마왕한테는 제대로 응석 부리는 것 같아서 안심했다. 나는 이대로 날아서 돌아갈게. 키리카, 가자」"
+
+[[dialogue]]
+speaker = "キリカ"
+original = "「はい。ではフィオナお嬢様、失礼いたします」"
+translation = "「네. 그럼 피오나 아가씨, 실례하겠습니다」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「気を使ってくれたんでしょうか？\u3000２人とも、迎えに来たのに先に帰ってしまいました」"
+translation = "「배려해 준 걸까요? 두 사람 다, 마중 왔는데 먼저 돌아가 버렸어요」"
+
+[[dialogue]]
+speaker = "unk"
+original = "俺の初夢、まだ言ってなかったよね？"
+translation = "내 첫 꿈, 아직 말 안 했지?"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「あなたの初夢、ですか？\u3000どんな夢だったんでしょう？」"
+translation = "「당신의 첫 꿈, 인가요? 어떤 꿈이었을까요?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "結婚して一緒に住む夢だったんだ"
+translation = "결혼해서 같이 사는 꿈이었어"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「ふふ、それは素敵な夢ですね。その初夢、必ず一緒に叶えましょう」"
+translation = "「후후, 그것은 멋진 꿈이네요. 그 첫 꿈, 반드시 함께 이뤄요」"
+

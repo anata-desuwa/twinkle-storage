@@ -1,0 +1,285 @@
+[[dialogue]]
+speaker = "ソフィア"
+original = "「寄せては返す白波……サンサンと照る太陽……心地よい海風……」"
+translation = "「밀려왔다 되돌아가는 하얀 파도…… 이글거리는 태양…… 기분 좋은 바닷바람……」"
+
+[[dialogue]]
+speaker = "ソフィア"
+original = "「まさに極楽。私はもう人間界にも魔界にも帰りません。ここで春が来るまで過ごさせていただきます」"
+translation = "「그야말로 극락. 저는 이제 인간계에도 마계에도 돌아가지 않겠습니다. 여기서 봄이 올 때까지 지내겠어요」"
+
+[[dialogue]]
+speaker = "ユウリ"
+original = "「クマかよ」"
+translation = "「곰이냐」"
+
+[[dialogue]]
+speaker = "ソフィア"
+original = "「人間界にも魔界にも私にとって安住の地はありませんでした。しかし、ここにはあるのです」"
+translation = "「인간계에도 마계에도 저에게 안식처는 없었습니다. 하지만 여기에는 있어요」"
+
+[[dialogue]]
+speaker = "ソフィア"
+original = "「今までお世話になりました、ユウリ先輩……」"
+translation = "「지금까지 신세 많이 졌습니다, 유우리 선배……」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「もう。ソフィったらすっかりリゾートに染まっちゃって」"
+translation = "「증말. 소피도 참 리조트에 푹 빠져버렸다니까」"
+
+[[dialogue]]
+speaker = "リップル"
+original = "「──アハハー！\u3000リゾート結界を気に入ってもらえて、リップルはサイコーにウレシーでーす！」"
+translation = "「──아하하! 리조트 결계를 마음에 들어 해 줘서, 리플은 최고로 기쁩니다!」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「──ん？\u3000おい魔王、どこへ行こうとしてるんだ？」"
+translation = "「──음? 어이 마왕, 어디 가려고 하는 거야?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "釣り"
+translation = "낚시하러"
+
+[[dialogue]]
+speaker = "unk"
+original = "魚を捕りに"
+translation = "물고기 잡으러"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「釣りか！\u3000へえ、面白そうじゃんか。あたしにもやらせてくれよ！」"
+translation = "「낚시인가! 헤에, 재밌어 보이잖아. 나도 하게 해 줘!」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「やったこと？\u3000ないぞ。磯釣り？\u3000沖釣り？\u3000知らん！\u3000とにかくでっかい魚が釣れればなんでもいい！」"
+translation = "「해본 적? 없지. 갯바위 낚시? 배낚시? 몰라! 아무튼 커다란 물고기만 낚을 수 있으면 뭐든 좋아!」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「もちろん、やるとなったら勝負だぞ！\u3000よりでっけー魚を釣ったほうが勝ちだ！」"
+translation = "「물론 하게 된다면 승부다! 더 커다란 물고기를 낚는 쪽이 이기는 거야!」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「あら、釣りをするのね？\u3000なら当然私も参加するわ！」"
+translation = "「어머, 낚시를 하는 거니? 그렇다면 당연히 나도 참가하겠어!」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「ふむ。私も興味が。この結界の中において、どのような海洋生物が生息しているのか……」"
+translation = "「흠. 저도 흥미가 있군요. 이 결계 안에서 어떤 해양 생물이 서식하고 있는지……」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「賑やかになってきたな。よーし、釣れそうなスポットに案内してくれ！\u3000魔王！」"
+translation = "「북적북적해졌구만. 좋아, 잘 낚일 만한 곳으로 안내해 줘! 마왕!」"
+
+[[dialogue]]
+speaker = "リップル"
+original = "「皆サ～ン！\u3000そろそろお腹が空いてマセンか～？\u3000お昼にしまショ～！」"
+translation = "「여러부~운! 슬슬 배고프지 않으신가요~? 점심 먹어욧~!」"
+
+[[dialogue]]
+speaker = "リップル"
+original = "「海の家には夏の名物がたくさんありマ～ス！\u3000ここで元気をチャージするとよいデース！」"
+translation = "「바다의 집에는 여름의 명물이 잔뜩 있어요! 여기서 기운을 충전하는 게 좋습니까요!」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「おーっ！\u3000イカ焼きもトウモロコシも超うまそうだ……！」"
+translation = "「오옷! 오징어 구이도 옥수수도 엄청 맛있어 보여……!」"
+
+[[dialogue]]
+speaker = "ユウリ"
+original = "「やべ……さっき調子に乗って焼きそば食っちまった。まだ入っかな……」"
+translation = "「큰일이네…… 아까 신나서 야키소바 먹어버렸음. 더 들어갈까……」"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「ほーほー。確かに満腹のご様子です」"
+translation = "「호오호오. 확실히 배가 부르신 모양이네요」"
+
+[[dialogue]]
+speaker = "ユウリ"
+original = "「や、やめろってルリ！\u3000お腹つまむなよっ」"
+translation = "「그, 그만하라니까 루리! 배 꼬집지 마!」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「ふふ、水着だと無防備になってしまいますね」"
+translation = "「후후, 수영복이면 무방비해져 버리네요」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「──ひっ！？\u3000な、何これっ！」"
+translation = "「──히익!? 뭐야 이거!」"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「ありゃ。虫じゃないですか？」"
+translation = "「어라. 벌레 아닌가요?」"
+
+[[dialogue]]
+speaker = "リップル"
+original = "「ワーオ！\u3000それは以前、アナに頼まれてセッチした虫取りエリアの虫デスネ～！」"
+translation = "「와오! 그건 이전에 아나에게 부탁받아 설치한 곤충 채집 구역의 벌레입니다!」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「な、なんだもう……びっくりしたぁ」"
+translation = "「뭐, 뭐야 정말…… 깜짝 놀랐잖아」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「おおっ虫取りか！\u3000それも確かに夏の<b>ふーぶつし</b>だな！」"
+translation = "「오옷 곤충 채집인가! 그것도 확실히 여름의 <b>풍물시</b>지!」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「確かに希望しましたが……あれはあくまで虫取りエリア限定のはずでは？」"
+translation = "「확실히 희망은 했습니다만…… 저건 어디까지나 곤충 채집 구역 한정이었을 텐데요?」"
+
+[[dialogue]]
+speaker = "セーラ"
+original = "「てか、めっちゃ流出してない？」"
+translation = "「그보다, 엄청 유출된 거 아냐?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ここは虫取りエリアから離れているにもかかわらず、昆虫たちが何匹か発生していた。"
+translation = "이곳은 곤충 채집 구역에서 떨어져 있음에도 불구하고, 곤충들이 몇 마리나 발생해 있었다."
+
+[[dialogue]]
+speaker = "unk"
+original = "前はカブトムシだったけど……"
+translation = "전에는 장수풍뎅이였는데……"
+
+[[dialogue]]
+speaker = "unk"
+original = "前はクワガタだったけど……"
+translation = "전에는 사슴벌레였는데……"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「なんだか見慣れない虫が多いような」"
+translation = "「왠지 낯선 벌레가 많은 것 같네요」"
+
+[[dialogue]]
+speaker = "セーラ"
+original = "「色合いが不気味に見えるんだけど、これ捕っても平気なの？」"
+translation = "「색깔이 기분 나빠 보이는데, 이거 잡아도 괜찮은 거야?」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「いえ。以前、オーダーしたのはレアなカブクワ達でしたが……今回のこれは冬に活動するアブやカマキリですね」"
+translation = "「아니요. 이전에 오더한 것은 레어한 장수풍뎅이와 사슴벌레들이었습니다만…… 이번 이것은 겨울에 활동하는 등에나 사마귀네요」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「この子なんかは毒の噴射液を吹きつけてくるので普通に害虫です」"
+translation = "「이 녀석은 독 분사액을 내뿜기 때문에 그냥 해충입니다」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「全然ダメじゃん！？」"
+translation = "「전혀 안 되잖아!?」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「へっ──害虫がなんぼのもんだ。このアポロ様に任せろ～！」"
+translation = "「헷── 해충이 다 뭐야. 이 아폴로 님에게 맡겨두라고~!」"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「よおし、わたしも！\u3000退治してゆっくりランチと参りましょ～！」"
+translation = "「좋아, 저도! 퇴치하고 느긋하게 런치를 즐기자구요~!」"
+
+[[dialogue]]
+speaker = "ソフィア"
+original = "「虫は得意ではありませんが、平穏な夏を守るため戦います──！」"
+translation = "「벌레는 잘 못 다루지만, 평온한 여름을 지키기 위해 싸우겠어요──!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "アポロを筆頭にみんなが虫を退治していった。"
+translation = "아폴로를 필두로 모두가 벌레를 퇴치해 나갔다."
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「……それにしても、妙ねえ」"
+translation = "「……그건 그렇고, 묘하네」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「確かここって、元々は快適さ重視で虫１匹いなかったはずよね。なのに意図しない害虫が自然発生するなんて……」"
+translation = "「분명 여기는 원래 쾌적함 중시라 벌레 한 마리 없었을 텐데. 그런데 의도치 않은 해충이 자연 발생하다니……」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「……リップルさんらしくない気はしますね」"
+translation = "「……리플 씨답지 않은 기분이 드네요」"
+
+[[dialogue]]
+speaker = "リップル"
+original = "「ウ……」"
+translation = "「우……」"
+
+[[dialogue]]
+speaker = "unk"
+original = "元気がなさそうだ"
+translation = "기운이 없어 보인다"
+
+[[dialogue]]
+speaker = "unk"
+original = "何かあったのか？"
+translation = "무슨 일 있었어?"
+
+[[dialogue]]
+speaker = "リップル"
+original = "「ま、参りましたデ～ス。カイチョ―達にそう心配されてはお伝えするしかありまセン」"
+translation = "「지, 진 거예요. 회장님 일행이 그렇게 걱정하시니 말씀드릴 수밖에 없겠네욧」"
+
+[[dialogue]]
+speaker = "セーラ"
+original = "「何か事情があるって感じかな？」"
+translation = "「무슨 사정이 있다는 느낌일까?」"
+
+[[dialogue]]
+speaker = "リップル"
+original = "「ハイ……ジツは……」"
+translation = "「하이…… 사실은……」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「──ひゃあっ！？」"
+translation = "「──히얏!?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "冷たっ！？"
+translation = "차가워!?"
+
+[[dialogue]]
+speaker = "unk"
+original = "すごい風が……"
+translation = "엄청난 바람이……"
+
+[[dialogue]]
+speaker = "unk"
+original = "潮風の凪いだ隙に吹き抜けた、一陣の冷風──"
+translation = "바닷바람이 잦아든 틈을 타 불어온, 한 줄기 찬바람──"
+
+[[dialogue]]
+speaker = "リップル"
+original = "「こ、コレです──コレが、リゾート結界をオビヤかしている脅威なのデ～ス！」"
+translation = "「이, 이겁니다── 이것이, 리조트 결계를 위협하고 있는 위협인 것입니다!」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「なんですって！？」"
+translation = "「뭐라구!?」"
+

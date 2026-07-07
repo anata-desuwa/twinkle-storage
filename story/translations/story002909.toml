@@ -1,0 +1,330 @@
+[[dialogue]]
+speaker = "unk"
+original = "滞りなくプログラムは進み、『星霊祭』６日目。"
+translation = "순조롭게 프로그램은 진행되어, 『성령제』 6일째."
+
+[[dialogue]]
+speaker = "マグダレナ"
+original = "『本日の最初の競技は槍投げです。新星学園からはミルフィーさんが出場ですね』"
+translation = "『오늘의 첫 번째 경기는 창던지기입니다. 신성 학원에서는 밀피 씨가 출전하셨네요』"
+
+[[dialogue]]
+speaker = "ミルフィー"
+original = "「すぅ、ふぅ、すぅ、ふぅ……！」"
+translation = "「후우, 후우, 후우, 후우……!」"
+
+[[dialogue]]
+speaker = "シノ"
+original = "『ミルフィーさん、呼吸を整えて、槍を構えます。玉入れでも大活躍でしたし、大記録を打ち立ててくれそうな勢いを感じますね』"
+translation = "『밀피 씨, 호흡을 가다듬고, 창을 겨눕니다. 공 넣기에서도 대활약했으니, 대기록을 세워줄 것 같은 기세가 느껴지네요』"
+
+[[dialogue]]
+speaker = "ミルフィー"
+original = "（まだ、まだだよ……焦らなくていい……雰囲気に飲まれちゃダメ……心は落ち着かせて……精神を研ぎ澄まして……）"
+translation = "（아직, 아직이야…… 초조해하지 않아도 돼…… 분위기에 휩쓸리면 안 돼…… 마음은 가라앉히고…… 정신을 곤두세워서……）"
+
+[[dialogue]]
+speaker = "ヒヨ"
+original = "「姐さーん！\u3000思いっきりやっちまえー！」"
+translation = "「누님ー! 마음껏 해치워 버려ー!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "決めろ、ミルフィーッ！"
+translation = "결정해, 밀피!"
+
+[[dialogue]]
+speaker = "ミルフィー"
+original = "（こんなにも激しい大歓声の中でも……聞こえたよ、ヒヨちゃんと会長くんの声！）"
+translation = "（이렇게나 격렬한 대환호 속에서도…… 들렸어, 히요짱과 회장군의 목소리가!）"
+
+[[dialogue]]
+speaker = "シノ"
+original = "『ミルフィーさん、駆け出す！\u3000いい助走ですね。これは──出ますよ』"
+translation = "『밀피 씨, 달려 나갑니다! 좋은 도움닫기네요. 이것은── 나오겠어요』"
+
+[[dialogue]]
+speaker = "ミルフィー"
+original = "「てぇぃりゃああぁぁぁぁぁぁっ！」"
+translation = "「테이야아아아아아앗!」"
+
+[[dialogue]]
+speaker = "シノ"
+original = "『気合一閃！\u3000ミルフィーさんの放った槍は空を裂き、なんとアリーナの端まで飛んでいきました！』"
+translation = "『기합 일섬! 밀피 씨가 던진 창은 하늘을 가르고, 무려 아레나의 끝까지 날아갔습니다!』"
+
+[[dialogue]]
+speaker = "マグダレナ"
+original = "『まあまあまあ。文句なしの大会新記録ですね』"
+translation = "『와아 와아 와아. 나무랄 데 없는 대회 신기록이네요』"
+
+[[dialogue]]
+speaker = "ミルフィー"
+original = "「はぁ、はぁっ、はぁっ……やったぁっ……！\u3000マグダレナ様と、みんなに格好いいとこ見せられたよねっ！」"
+translation = "「하아, 하앗, 하앗…… 해냈다앗……! 막달레나 님과, 모두에게 멋진 모습을 보여줬지!」"
+
+[[dialogue]]
+speaker = "シノ"
+original = "『さぁ星霊祭も、ついに残るは最終競技、学園対抗リレーを残すのみとなりました』"
+translation = "『자, 성령제도 드디어 남은 것은 최종 경기, 학원 대항 계주만을 남겨두게 되었습니다』"
+
+[[dialogue]]
+speaker = "マグダレナ"
+original = "『現時点では僅かながら新星学園がリードしていますが、学園対抗リレーは高得点。逆転の可能性も十分にあり得ますね』"
+translation = "『현시점에서는 근소하게 신성 학원이 리드하고 있지만, 학원 대항 계주는 고득점. 역전의 가능성도 충분히 있을 수 있겠네요』"
+
+[[dialogue]]
+speaker = "フラン"
+original = "「最終競技は、待ちに待った学園対抗リレーだぜ！\u3000応援にも力が入るってもんだ！」"
+translation = "「최종 경기는, 기다리고 기다리던 학원 대항 계주다! 응원에도 힘이 들어가는 법이지!」"
+
+[[dialogue]]
+speaker = "ミルフィー"
+original = "「リレーは大量得点だからね！\u3000ここで勝てば、大きくアドバンテージを取れるよ！」"
+translation = "「계주는 대량 득점이니까! 여기서 이기면, 크게 우위를 점할 수 있어!」"
+
+[[dialogue]]
+speaker = "美鶴"
+original = "「逆に言うと、ここを落としたら逆転されるね。何が何でも勝っとかないと」"
+translation = "「반대로 말하면, 여기를 놓치면 역전당하는 거지. 무슨 일이 있어도 이겨야 해」"
+
+[[dialogue]]
+speaker = "カティア"
+original = "「大玉転がしの雪辱を果たすワン！\u3000むふーっ！」"
+translation = "「큰 공 굴리기의 설욕을 갚는 와앙! 무후웃!」"
+
+[[dialogue]]
+speaker = "ヒヨ"
+original = "「鼻息荒くしすぎて転ぶんじゃねえぞ」"
+translation = "「어이 어이, 콧김 너무 거칠게 내뿜다가 넘어지지 마라」"
+
+[[dialogue]]
+speaker = "フラン"
+original = "「新星ーっ！\u3000ファイッオー！」"
+translation = "「신성ー! 파이잇오ー!」"
+
+[[dialogue]]
+speaker = "美鶴"
+original = "「ゴー・ファイト・ウィン」"
+translation = "「고 파이트 윈」"
+
+[[dialogue]]
+speaker = "ミルフィー"
+original = "「ヒヨちゃん、カティアちゃん、あれだけ練習したんだもん、絶対に大丈夫！\u3000悔いが残らないようにね！」"
+translation = "「히요짱, 카티아짱, 그렇게나 연습했으니까, 절대로 괜찮아! 후회가 남지 않도록 해!」"
+
+[[dialogue]]
+speaker = "ヒヨ"
+original = "「姐さん……！\u3000よっしゃ、行ってくるぜい！」"
+translation = "「누님……! 좋아, 다녀올게!」"
+
+[[dialogue]]
+speaker = "カティア"
+original = "「行ってきますワン！\u3000魔王様っ、応援してくださいね！」"
+translation = "「다녀오겠습니다 와앙! 마왕님, 응원해 주세요!」"
+
+[[dialogue]]
+speaker = "マグダレナ"
+original = "『泣いても笑っても、最終競技です。学園対抗リレー、位置について──よーい……ドン♪』"
+translation = "『울든 웃든, 최종 경기입니다. 학원 대항 계주, 위치에 서서── 준비…… 땅♪』"
+
+[[dialogue]]
+speaker = "unk"
+original = "ピストルの合図とともに、第一走者が勢いよくスタートを切った。"
+translation = "권총 신호와 함께, 첫 번째 주자가 힘차게 스타트를 끊었다."
+
+[[dialogue]]
+speaker = "unk"
+original = "抜いては抜かれ、抜かれては抜き、走者を交代しながら一進一退のレースが続く。"
+translation = "앞지르고는 앞질러지고, 앞질러지고는 앞지르며, 주자를 교대하면서 일진일퇴의 레이스가 계속된다."
+
+[[dialogue]]
+speaker = "ミルフィー"
+original = "「行っけー行け行け、新星！\u3000押っせー押せ押せ、し・ん・せ・いっ！」"
+translation = "「가아라ー 가라 가라, 신성! 밀어ー 밀어 밀어, 시・인・서・엉!」"
+
+[[dialogue]]
+speaker = "シノ"
+original = "『さあ、学園対抗リレーも終盤戦。両校ともに応援も白熱しています』"
+translation = "『자, 학원 대항 계주도 종반전. 양 학교 모두 응원도 백열하고 있습니다』"
+
+[[dialogue]]
+speaker = "マグダレナ"
+original = "『テイクオーバーゾーンには５人目のランナーが控えています。アンカーにバトンを託す重要な役目ですね』"
+translation = "『테이크 오버 존에는 다섯 번째 주자가 대기하고 있습니다. 앵커에게 바통을 넘겨주는 중요한 역할이네요』"
+
+[[dialogue]]
+speaker = "ヒヨ"
+original = "「ふーっ、さすがに緊張してきたぜぇ……手汗がすげえや」"
+translation = "「후우, 역시 긴장되네에…… 손에 땀이 엄청나」"
+
+[[dialogue]]
+speaker = "ヒヨ"
+original = "「あたしがぶっちぎって、ワン公にバトンを渡す……それだけ考えてりゃいい……！」"
+translation = "「내가 단숨에 치고 나가서, 멍멍이에게 바통을 넘긴다…… 그것만 생각하면 돼……!」"
+
+[[dialogue]]
+speaker = "ミルフィー"
+original = "「頑張って、ヒヨちゃーんっ！」"
+translation = "「힘내, 히요짱ー!」"
+
+[[dialogue]]
+speaker = "ヒヨ"
+original = "「姐さんの期待にも応えなきゃ──」"
+translation = "「누님의 기대에도 부응해야지──」"
+
+[[dialogue]]
+speaker = "マグダレナ"
+original = "『新星学園がわずかにリード。５人目のランナー、ヒヨ選手にバトンが渡ります』"
+translation = "『신성 학원이 근소하게 리드. 다섯 번째 주자, 히요 선수에게 바통이 건네집니다』"
+
+[[dialogue]]
+speaker = "新星陸上部"
+original = "「ヒヨ、お願い──あっ！？」"
+translation = "「히요, 부탁해── 앗!?」"
+
+[[dialogue]]
+speaker = "ヒヨ"
+original = "「あっ！？\u3000しまったぁ！」"
+translation = "「앗!? 이런, 실수했다아!」"
+
+[[dialogue]]
+speaker = "シノ"
+original = "『汗で滑ってしまったようですね。渡されたはずのバトンは弾かれて転がってしまいました。痛恨のパスミスです』"
+translation = "『땀 때문에 미끄러진 것 같네요. 건네받았어야 할 바통이 튕겨져 굴러가 버렸습니다. 통한의 패스 미스입니다』"
+
+[[dialogue]]
+speaker = "流星生徒Ａ"
+original = "「ラッキー！\u3000お先にっ！」"
+translation = "「럭키! 먼저 간다!」"
+
+[[dialogue]]
+speaker = "マグダレナ"
+original = "『一方、流星学園のバトンパスはスムーズにおこなわれました。ここで順位が入れ替わります』"
+translation = "『한편, 유성 학원의 바통 패스는 순조롭게 이루어졌습니다. 여기서 순위가 뒤바뀝니다』"
+
+[[dialogue]]
+speaker = "ヒヨ"
+original = "「ちいっ！\u3000まだ諦めるような差じゃねえやっ！」"
+translation = "「칫! 아직 포기할 만한 차이는 아니야!」"
+
+[[dialogue]]
+speaker = "ミルフィー"
+original = "「大丈夫っ、大丈夫だよっ！\u3000がんばれ、ヒヨーっ！」"
+translation = "「괜찮아, 괜찮아! 힘내, 히요옷!」"
+
+[[dialogue]]
+speaker = "ミルフィー"
+original = "「みんなも声援を送って！\u3000名前を呼んであげてーっ！」"
+translation = "「모두도 성원을 보내줘! 이름을 불러줘ー!」"
+
+[[dialogue]]
+speaker = "美鶴"
+original = "「みんな、いくよー。ヒーヨッ、ヒーヨッ、ヒーヨッ」"
+translation = "「모두, 간다ー. 히ー요옷, 히ー요옷, 히ー요옷」"
+
+[[dialogue]]
+speaker = "応援団員"
+original = "「ヒーヨッ！\u3000ヒーヨッ！\u3000ヒーヨッ！\u3000ヒーヨッ！」"
+translation = "「히ー요옷! 히ー요옷! 히ー요옷! 히ー요옷!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ヒーヨッ！\u3000ヒーヨッ！\u3000ヒーヨッ！\u3000ヒーヨッ！"
+translation = "히ー요옷! 히ー요옷! 히ー요옷! 히ー요옷!"
+
+[[dialogue]]
+speaker = "unk"
+original = "新星学園の生徒たち一斉のヒヨコールはアリーナを揺るがす。"
+translation = "신성 학원 학생들의 일제 히요 콜은 아레나를 뒤흔든다."
+
+[[dialogue]]
+speaker = "ヒヨ"
+original = "「こっ恥ずかしいったらありゃしねえ！\u3000だけど、不思議なことにもりもりと力が湧いてくる！」"
+translation = "「쪽팔려 죽겠네! 하지만, 신기하게도 힘이 불끈불끈 솟아난다!」"
+
+[[dialogue]]
+speaker = "ヒヨ"
+original = "「姐さんたちの応援がありゃ、百人力さあっ！」"
+translation = "「누님들의 응원만 있다면, 백 명의 힘이야!」"
+
+[[dialogue]]
+speaker = "シノ"
+original = "『ヒヨ選手、超加速です！\u3000彼女の小さな体のどこに、これだけの瞬発力が眠っていたのでしょう！』"
+translation = "『히요 선수, 초가속입니다! 그녀의 작은 몸 어디에, 이 정도의 순발력이 잠들어 있었던 걸까요!』"
+
+[[dialogue]]
+speaker = "ヒヨ"
+original = "「小さいは余計でえっ！\u3000もうちょい、もうちょいなのによぉ！\u3000くそっ、これでも、届かねえかっ！」"
+translation = "「작다는 말은 여분이라고! 조금만 더, 조금만 더인데! 젠장, 이것으로도, 닿지 않는 건가!」"
+
+[[dialogue]]
+speaker = "カティア"
+original = "「ヒヨーっ！\u3000こっちこっちー！」"
+translation = "「히요ー! 이쪽 이쪽ー!」"
+
+[[dialogue]]
+speaker = "ヒヨ"
+original = "「リード作って、ワン公に楽させるつもりだったのによぉ……まったく不甲斐ねえ」"
+translation = "「리드를 만들어서, 멍멍이를 편하게 해줄 생각이었는데…… 정말 한심하네」"
+
+[[dialogue]]
+speaker = "ヒヨ"
+original = "「頼んだぜ、ワン公！\u3000おまえさんのトップスピード、見せつけてやんなあ！」"
+translation = "「부탁한다, 멍멍이! 너의 최고 속도를, 보여줘 버려!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "パシッ！"
+translation = "착!"
+
+[[dialogue]]
+speaker = "カティア"
+original = "「やってやるワーンっ！」"
+translation = "「해내겠어요 와앙!」"
+
+[[dialogue]]
+speaker = "マグダレナ"
+original = "『今度は大丈夫ですね。アンカーのカティア選手へと、バトンは確実に託されました』"
+translation = "『이번에는 괜찮네요. 앵커인 카티아 선수에게, 바통은 확실하게 건네졌습니다』"
+
+[[dialogue]]
+speaker = "ヒヨ"
+original = "「ああ……そういや、ワン公のヤツ、どんなに壁に突っ込んだり、転んだりしてもよぉ」"
+translation = "「아아…… 그러고 보니, 멍멍이 그 녀석은, 아무리 벽에 부딪히거나, 넘어져도 말이야」"
+
+[[dialogue]]
+speaker = "ヒヨ"
+original = "「あたしとのバトンタッチをミスったことは、一度もなかったなぁ……」"
+translation = "「나와의 바통 터치를 실수한 적은, 한 번도 없었지……」"
+
+[[dialogue]]
+speaker = "ヒヨ"
+original = "「やっちまえーっ！\u3000カティアーっ！」"
+translation = "「해치워 버려ー! 카티아ー!」"
+
+[[dialogue]]
+speaker = "カティア"
+original = "「ワォオォォォォォォォンッ！！」"
+translation = "「와오오오오오오오오옹!!」"
+
+[[dialogue]]
+speaker = "ヒヨ"
+original = "「へへ、いい返事じゃねえか……」"
+translation = "「헤헤, 좋은 대답이잖아……」"
+
+[[dialogue]]
+speaker = "ミルフィー"
+original = "「ヒヨちゃん、大丈夫っ！？\u3000すごい走りだったよっ！\u3000頑張ったね！\u3000私、感動しちゃったよ！」"
+translation = "「히요짱, 괜찮아!? 굉장한 달리기였어! 잘했어! 나, 감동했어!」"
+
+[[dialogue]]
+speaker = "ヒヨ"
+original = "「へへ、ちょっと星力を使いすぎちまったみてえで……ちょいとだけ姐さんの胸の中で、休ませてくんなあ」"
+translation = "「헤헤, 조금 성력을 너무 많이 써버린 것 같아서…… 아주 잠깐만 누님의 품속에서, 쉬게 해줘」"
+
+[[dialogue]]
+speaker = "unk"
+original = "学園対抗リレーの勝負の行方は、アンカーのカティアに託された──"
+translation = "학원 대항 계주의 승패는, 앵커인 카티아에게 맡겨졌다──"
+

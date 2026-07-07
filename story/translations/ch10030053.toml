@@ -1,0 +1,320 @@
+[[dialogue]]
+speaker = "unk"
+original = "第３話,剣からビーム,P"
+translation = "제3화, 검에서 빔"
+
+[[dialogue]]
+speaker = "unk"
+original = "バトルフェスタ以来、学園に実装された仮想結界システムにより、周辺環境に気兼ねすることなく、全力を出しての戦闘訓練が可能となった。"
+translation = "배틀 페스타 이후 학원에 구현된 가상 결계 시스템 덕분에 주변 환경을 신경 쓰지 않고 전력을 다해 전투 훈련을 할 수 있게 되었다."
+
+[[dialogue]]
+speaker = "unk"
+original = "それにより、ノヴァフォームの練習がしたいと言い出したヴィーナスであったが――"
+translation = "그 덕분에 노바 폼 연습을 하고 싶다고 말한 비너스였지만──"
+
+[[dialogue]]
+speaker = "ヴィーナス（覚醒）"
+original = "「私、<b>剣</b>の訓練がしたいわ！」"
+translation = "「나, <b>검</b> 훈련을 하고 싶어!」"
+
+[[dialogue]]
+speaker = "マトイ（覚醒）"
+original = "「剣？\u3000あっ、もしかして私が呼ばれたのって、武器が剣だから？」"
+translation = "「검? 앗, 혹시 내가 불려 온 게 무기가 검이라서야?」"
+
+[[dialogue]]
+speaker = "ヴィーナス（覚醒）"
+original = "「そういうことよ！\u3000マトイには剣の使い方を教えて欲しいの！」"
+translation = "「맞아! 마토이가 검 사용법을 가르쳐 줬으면 좋겠어!」"
+
+[[dialogue]]
+speaker = "ヴィーナス（覚醒）"
+original = "「ほら、ノヴァフォームになったら、私の武器が剣にフォームチェンジしたじゃない？」"
+translation = "「봐봐, 노바 폼이 되면 내 무기가 검으로 폼 체인지 했잖아?」"
+
+[[dialogue]]
+speaker = "ヴィーナス（覚醒）"
+original = "「それで、今日はもう１人、剣使いの星騎士にコーチをお願いしているわ！」"
+translation = "「그래서 오늘은 또 한 명, 검술을 쓰는 성기사에게 코치를 부탁했어!」"
+
+[[dialogue]]
+speaker = "メルエル"
+original = "「は～い♪\u3000会長くん、マトイちゃん、こんにちは～♪」"
+translation = "「안녕~♪ 회장군, 마토이짱, 안녕~♪」"
+
+[[dialogue]]
+speaker = "マトイ（覚醒）"
+original = "「メルエルちゃん！\u3000こんにちは♪」"
+translation = "「메루엘짱! 안녕♪」"
+
+[[dialogue]]
+speaker = "メルエル"
+original = "「でも、私でよかったのかな？\u3000剣使いの星騎士は他にもいるじゃない？\u3000聖剣使いのユーリスくんとか……」"
+translation = "「근데 내가 와도 괜찮았으려나? 검을 쓰는 성기사는 다른 사람도 있잖아? 성검을 쓰는 유리치군이라든가……」"
+
+[[dialogue]]
+speaker = "ヴィーナス（覚醒）"
+original = "「ユーリスにもお願いはしたんだけど、残念ながら今日は用事があるみたいで来れなかったの。それにメルエルは、剣からビームを撃てるじゃない？」"
+translation = "「유리스에게도 부탁은 했는데 아쉽게도 오늘은 용무가 있어서 못 온대. 게다가 메루엘은 검에서 빔을 쏠 수 있잖아?」"
+
+[[dialogue]]
+speaker = "メルエル"
+original = "「私の場合、光で剣先を伸ばすみたいな感じだけど……ビームといえばビーム、なのかなぁ？」"
+translation = "「내 경우에는 빛으로 검끝을 늘리는 느낌이지만…… 빔이라면 빔이려나?」"
+
+[[dialogue]]
+speaker = "ヴィーナス（覚醒）"
+original = "「あれはビームよ！\u3000私がそう判断したわ！」"
+translation = "「그건 빔이야! 내가 그렇게 판단했어!」"
+
+[[dialogue]]
+speaker = "ヴィーナス（覚醒）"
+original = "「マトイがノヴァフォームで撃つ必殺技の星術は、間違いなくビームよね！\u3000ほら、リフレクトゴッデスカリバーってやつ！」"
+translation = "「마토이가 노바 폼으로 쏘는 필살 성술은 틀림없이 빔이잖아! 봐, 리플렉트 고데스 칼리버라는 거!」"
+
+[[dialogue]]
+speaker = "マトイ（覚醒）"
+original = "「え？\u3000あっ、うん、そうだね！\u3000あははは……」"
+translation = "「에? 앗, 응, 그렇지! 아하하하……」"
+
+[[dialogue]]
+speaker = "マトイ（覚醒）"
+original = "（本当はヴィーナスのゴッデスビームを参考にした技なんだけど、直接言うのは恥ずかしいから、本人には秘密にしてるんだよね……）"
+translation = "（사실 비너스의 고데스 빔을 참고한 기술이지만 직접 말하긴 부끄러우니까 본인에겐 비밀로 하고 있단 말이지……）"
+
+[[dialogue]]
+speaker = "unk"
+original = "それから、仮想結界を周囲に展開した上で、訓練が始まったのだが――"
+translation = "그리고 가상 결계를 주변에 전개한 뒤 훈련이 시작되었는데──"
+
+[[dialogue]]
+speaker = "ヴィーナス（覚醒）"
+original = "「うーーーん、やっぱり剣を振るとビームが出ちゃうのよね」"
+translation = "「으음~ 역시 검을 휘두르면 빔이 나와버리네」"
+
+[[dialogue]]
+speaker = "メルエル"
+original = "「あとはちょっと剣が大振りかなぁ……？」"
+translation = "「그리구 조금 검을 크게 휘두르는 편이려나……?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ヴィーナスには『ゴリ押し癖』があるな"
+translation = "비너스에겐 『밀어붙이기 버릇』이 있어"
+
+[[dialogue]]
+speaker = "ヴィーナス（覚醒）"
+original = "「ゴリ押し癖……？」"
+translation = "「밀어붙이기 버릇……?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ヴィーナスは規格外の星力を有するが故に、そのパワーでゴリ押す戦い方をつい選びがちだと指摘する。"
+translation = "비너스는 규격 외의 성력을 가졌기에 그 파워로 밀어붙이는 전투 방식을 무심코 택하곤 한다고 지적한다."
+
+[[dialogue]]
+speaker = "ヴィーナス（覚醒）"
+original = "「――何故ならそれが１番早く敵を倒せて効率的だから？\u3000うーん、そういえば自分がどうやってビームを出すようになったのか、覚えてないわね」"
+translation = "「──왜냐면 그게 제일 빨리 적을 쓰러뜨릴 수 있고 효율적이니까? 으음, 그러고 보니 내가 어떻게 빔을 쏘게 됐는지 기억이 안 나네」"
+
+[[dialogue]]
+speaker = "マトイ（覚醒）"
+original = "「ヴィーナスの場合、適当に剣を振ってビームを撃ちまくるだけでも勝てちゃうからすごいんだけど――」"
+translation = "「비너스의 경우 적당히 검을 휘둘러서 빔을 난사하는 것만으로도 이겨버리니까 대단하긴 한데──」"
+
+[[dialogue]]
+speaker = "マトイ（覚醒）"
+original = "「確かにプラスで剣術も加わったら、普通じゃない無双の強さを手に入れられるかもね」"
+translation = "「확실히 플러스로 검술까지 더해진다면 평범하지 않은 무쌍의 강함을 손에 넣을 수 있을지도 모르겠네」"
+
+[[dialogue]]
+speaker = "ヴィーナス（覚醒）"
+original = "「なんか、剣として使う時に、ビームに代わるかけ声が欲しいのよね」"
+translation = "「뭔가 검으로 쓸 때 빔을 대신할 구호가 있었으면 좋겠어」"
+
+[[dialogue]]
+speaker = "メルエル"
+original = "「かけ声？」"
+translation = "「구호?」"
+
+[[dialogue]]
+speaker = "ヴィーナス（覚醒）"
+original = "「そう！\u3000ゴッデスビームみたいに、しっくり来るやつがいいわ！」"
+translation = "「응! 고데스 빔처럼 딱 들어맞는 게 좋겠어!」"
+
+[[dialogue]]
+speaker = "マトイ（覚醒）"
+original = "「それ、重要なの？」"
+translation = "「그게 중요해?」"
+
+[[dialogue]]
+speaker = "ヴィーナス（覚醒）"
+original = "「重要よ！\u3000その方が攻撃する時のイメージがはっきりするじゃない」"
+translation = "「중요해! 그래야 공격할 때의 이미지가 확실해지잖아」"
+
+[[dialogue]]
+speaker = "メルエル"
+original = "「わかる！\u3000攻撃の内容を瞬時にイメージするために、技名はちゃんと決めておいた方がいいって言うもんね♪」"
+translation = "「알 것 같아! 공격 내용을 순식간에 이미지하기 위해서 기술 이름은 제대로 정해두는 게 좋다고들 하니까♪」"
+
+[[dialogue]]
+speaker = "メルエル"
+original = "「例えば……なんとかスラ～ッシュ！\u3000とか？」"
+translation = "「예를 들면…… 무슨무슨 슬래~쉬! 라든가?」"
+
+[[dialogue]]
+speaker = "ヴィーナス（覚醒）"
+original = "「う～ん、それだと普通ね！」"
+translation = "「으음~ 그건 너무 평범해!」"
+
+[[dialogue]]
+speaker = "マトイ（覚醒）"
+original = "「普段叫んでるゴッデスビームも、割と普通だと思うけど……」"
+translation = "「평소에 외치는 고데스 빔도 충분히 평범하다고 생각하는데……」"
+
+[[dialogue]]
+speaker = "unk"
+original = "剣術らしいかけ声……あっ！"
+translation = "검술다운 구호…… 앗!"
+
+[[dialogue]]
+speaker = "メルエル"
+original = "「会長くん、何か思いついたの？」"
+translation = "「회장군, 뭔가 떠올랐어?」"
+
+[[dialogue]]
+speaker = "ヴィーナス（覚醒）"
+original = "「チェストォーーーッ！！！」"
+translation = "「체스토오오오오옷!!!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "声と共に伸びた光の刀身が、大地に閃光を走らせ、仮想モンスターを真っ二つにする。"
+translation = "기합과 함께 늘어난 빛의 칼날이 대지에 섬광을 뿌리며 가상 몬스터를 두 동강 낸다."
+
+[[dialogue]]
+speaker = "ヴィーナス（覚醒）"
+original = "「うん！\u3000いい感じにイメージできるようになったわ！」"
+translation = "「응! 느낌 있게 이미지가 그려지게 됐어!」"
+
+[[dialogue]]
+speaker = "マトイ（覚醒）"
+original = "「いや、普通にビームなのでは……？」"
+translation = "「아니, 그냥 빔인 것 같은데……?」"
+
+[[dialogue]]
+speaker = "メルエル"
+original = "「まぁ、かけ声と一緒に刀身が伸びる感じだし……」"
+translation = "「뭐, 구호와 함께 칼날이 늘어나는 느낌이니까……」"
+
+[[dialogue]]
+speaker = "ヴィーナス（覚醒）"
+original = "「チェストォ！！！」"
+translation = "「체스토!!!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "今度は光の斬撃が飛んで、敵が木っ端ミジンコに吹き飛ぶ。"
+translation = "이번에는 빛의 참격이 날아가 적을 산산조각으로 날려버린다."
+
+[[dialogue]]
+speaker = "マトイ（覚醒）"
+original = "「今のは普通にビームでは！？」"
+translation = "「방금 건 그냥 빔이잖아!」"
+
+[[dialogue]]
+speaker = "ヴィーナス（覚醒）"
+original = "「誤チェストよ！」"
+translation = "「오체스토야!」"
+
+[[dialogue]]
+speaker = "ヴィーナス（覚醒）"
+original = "「これで最後よ……！」"
+translation = "「이게 마지막이야……!」"
+
+[[dialogue]]
+speaker = "ヴィーナス（覚醒）"
+original = "「ヴィーナスエクスカリバー・ノヴァ！！」"
+translation = "「비너스 엑스칼리버 노바!!」"
+
+[[dialogue]]
+speaker = "マトイ（覚醒）"
+original = "「技名が原点回帰してるんだけど！？」"
+translation = "「기술 이름이 원점 회귀했는데!?」"
+
+[[dialogue]]
+speaker = "ヴィーナス（覚醒）"
+original = "「ふぅ～、最後にようやくしっくりくる感じになったわね！」"
+translation = "「후우~ 마지막에 드디어 딱 맞는 느낌이 됐네!」"
+
+[[dialogue]]
+speaker = "メルエル"
+original = "「最後、凄い威力だったね、ヴィーナスちゃん！\u3000エクスカリバーも剣の名前だし♪」"
+translation = "「마지막에 엄청난 위력이었어, 비너스짱! 엑스칼리버도 검 이름이니까♪」"
+
+[[dialogue]]
+speaker = "マトイ（覚醒）"
+original = "「結局ほぼビームだし、今日の特訓は何だったんだってことに目をつぶれば、凄い成果だよ、ヴィーナス」"
+translation = "「결국 거의 빔이고 오늘 특훈이 대체 뭐였나 하는 점만 눈감아주면 엄청난 성과야, 비너스」"
+
+[[dialogue]]
+speaker = "ヴィーナス（覚醒）"
+original = "「マトイ、メルエル、訓練に付き合ってくれてありがとね！\u3000おかげで剣での戦い方が少しわかって来たわ！」"
+translation = "「마토이, 메루엘, 훈련 도와줘서 고마워! 덕분에 검으로 싸우는 법을 조금 알게 됐어!」"
+
+[[dialogue]]
+speaker = "マトイ（覚醒）"
+original = "「まあ……うん。参考になる部分があったなら、良かったけども」"
+translation = "「뭐…… 응. 참고가 된 부분이 있다면 다행이지만」"
+
+[[dialogue]]
+speaker = "メルエル"
+original = "「力になれたなら嬉しいな♪\u3000私ももっと強くなりたいから、星徒会のみんなと訓練できて、すごく勉強になったよ」"
+translation = "「도움이 됐다면 기뻐♪ 나도 더 강해지고 싶으니까 성도회 모두랑 훈련할 수 있어서 공부가 많이 됐어」"
+
+[[dialogue]]
+speaker = "ヴィーナス（覚醒）"
+original = "「あっ、そうだわ！\u3000２人共、この前言ったことも考えておいてね♪」"
+translation = "「앗, 맞다! 둘 다 저번에 말한 것도 생각해 둬♪」"
+
+[[dialogue]]
+speaker = "unk"
+original = "この前言ったこと？"
+translation = "저번에 말한 거?"
+
+[[dialogue]]
+speaker = "ヴィーナス（覚醒）"
+original = "「魔王ハーレム建造計画よ！\u3000マトイとメルエルなら、クロトとも私とも仲が良いから、問題ないでしょ？」"
+translation = "「마왕 하렘 건조 계획이야! 마토이랑 메루엘이라면 쿠로토랑도 나랑도 친하니까 문제없지?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "あれ九浄家の外でも言ってるの！？"
+translation = "그걸 쿠죠 가문 밖에서도 말하고 다니는 거야!?"
+
+[[dialogue]]
+speaker = "メルエル"
+original = "「…………」"
+translation = "「…………」"
+
+[[dialogue]]
+speaker = "マトイ（覚醒）"
+original = "「…………」"
+translation = "「…………」"
+
+[[dialogue]]
+speaker = "unk"
+original = "２人共！？"
+translation = "둘 다!?"
+
+[[dialogue]]
+speaker = "ヴィーナス（覚醒）"
+original = "「うん！\u3000こっちの方もいい感じね♪」"
+translation = "「응! 이쪽도 느낌이 좋네♪」"
+
+[[dialogue]]
+speaker = "unk"
+original = "２人の反応を見て、満足そうに頷くヴィーナスなのであった――"
+translation = "둘의 반응을 보고 만족스럽게 고개를 끄덕이는 비너스였다──"
+

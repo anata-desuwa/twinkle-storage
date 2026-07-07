@@ -1,0 +1,480 @@
+[[dialogue]]
+speaker = "unk"
+original = "日が明けて、ハロウィンの当日がやってくる。"
+translation = "날이 밝아 할로윈 당일이 찾아온다."
+
+[[dialogue]]
+speaker = "unk"
+original = "カフェテリアには手はず通り、ジャクリーヌを楽しませるためのメンバーが集まっていた。"
+translation = "카페테리아에는 절차대로 자클린을 즐겁게 하기 위한 멤버들이 모여 있었다."
+
+[[dialogue]]
+speaker = "ソフィア"
+original = "「ジャクリーヌさんと言えばお菓子好き。お菓子好きと言えばこの人です」"
+translation = "「자클린 씨 하면 과자광. 과자광 하면 이 사람입니다.」"
+
+[[dialogue]]
+speaker = "ジャクリーヌ"
+original = "「わくわく♪」"
+translation = "「두근두근♪」"
+
+[[dialogue]]
+speaker = "ソフィア"
+original = "「ではご登場いただきましょう！\u3000どうぞ～！」"
+translation = "「그럼 모셔보도록 하죠! 나와주세요~!」"
+
+[[dialogue]]
+speaker = "サラン"
+original = "「ジャクリーヌちゃん、トリックオアトリート～♪」"
+translation = "「자클린 짱, 트릭 오어 트리트~♪」"
+
+[[dialogue]]
+speaker = "ジャクリーヌ"
+original = "「サランだゆ！\u3000今回も新しいお菓子を用意してくれたのかゆ？」"
+translation = "「사란이다유! 이번에도 새로운 과자를 준비해 온 거냐유?」"
+
+[[dialogue]]
+speaker = "サラン"
+original = "「えへへ、いっぱいハロウィンスイーツを用意してきたよ～♪\u3000ジャクリーヌちゃんに喜んでもらえるといいな～」"
+translation = "「에헤헤, 가득 할로윈 스위츠를 준비해 왔어~♪ 자클린 짱이 기뻐해 주면 좋겠네~」"
+
+[[dialogue]]
+speaker = "ソフィア"
+original = "「さあさあ、ジャクリーヌさん。お菓子を選びますか？\u3000それともイタズラを選びますか？」"
+translation = "「자 자, 자클린 씨. 과자를 고르시겠어요? 아니면 장난을 고르시겠어요?」"
+
+[[dialogue]]
+speaker = "ジャクリーヌ"
+original = "「ゆゆゆ……イタズラもしたいけど、サランのお菓子は絶対に外せないゆ……！」"
+translation = "「유유유…… 장난도 치고 싶지만 사란의 과자는 절대 놓칠 수 없다유……!」"
+
+[[dialogue]]
+speaker = "ジャクリーヌ"
+original = "「決めたゆ！\u3000お菓子をよこすゆ！」"
+translation = "「결정했다유! 과자를 내놓으라유!」"
+
+[[dialogue]]
+speaker = "サラン"
+original = "「はーい、どうぞめしあがれ～♪」"
+translation = "「네에, 자 드세요~♪」"
+
+[[dialogue]]
+speaker = "ジャクリーヌ"
+original = "「美味しいゆ～♪\u3000やっぱりサランのお菓子は最高だゆ～♪」"
+translation = "「맛있다유~♪ 역시 사란의 과자는 최고다유~♪」"
+
+[[dialogue]]
+speaker = "ジャクリーヌ"
+original = "「どんどん持ってくるゆ～♪\u3000でないとサランにイタズラしちゃうゆ～♪」"
+translation = "「계속 가져오라유~♪ 안 그러면 사란에게 장난칠 거다유~♪」"
+
+[[dialogue]]
+speaker = "サラン"
+original = "「たーいへーんっ♪\u3000いっぱいお菓子をあげるから、イタズラだけは許して欲しいかも～♪」"
+translation = "「크으은일이네~♪ 과자 잔뜩 줄 테니까 장난만은 봐줬으면 좋겠어~♪」"
+
+[[dialogue]]
+speaker = "ジャクリーヌ"
+original = "「ゆっゆっゆ～♪」"
+translation = "「유유유~♪」"
+
+[[dialogue]]
+speaker = "ソフィア"
+original = "「お菓子に囲まれて上機嫌ですね。これならすぐにでも変身を解くことができそうです」"
+translation = "「과자에 둘러싸여서 기분이 좋으시네요. 이 정도면 금방 변신을 풀 수 있을 것 같아요.」"
+
+[[dialogue]]
+speaker = "ウズメイア"
+original = "「呑気に静観してる場合じゃないっしょ、ソフィもいくし！」"
+translation = "「한가하게 지켜보고 있을 때가 아냐, 소피도 가야지!」"
+
+[[dialogue]]
+speaker = "ソフィア"
+original = "「えっ？\u3000っと……それは……」"
+translation = "「에? 어…… 그건……」"
+
+[[dialogue]]
+speaker = "ジャクリーヌ"
+original = "「ソフィアも何かくれるのかゆ？」"
+translation = "「소피아도 뭔가 주는 거냐유?」"
+
+[[dialogue]]
+speaker = "ソフィア"
+original = "「サラン先輩の後だと非常に出しづらいのですが……」"
+translation = "「사란 선배 다음이라 매우 꺼내기 힘듭니다만……」"
+
+[[dialogue]]
+speaker = "サラン"
+original = "「気にしなくてもいいんじゃないかな～。サランもソフィアちゃんのスイーツ食べたいかも～」"
+translation = "「신경 안 써도 괜찮을 것 같은데~. 사란도 소피아 짱의 스위츠 먹고 싶을지도~」"
+
+[[dialogue]]
+speaker = "サラン"
+original = "「トリックオアトリート～♪\u3000ソフィアちゃん、お菓子をくれなきゃイタズラしちゃうよ～♪」"
+translation = "「트릭 오어 트리트~♪ 소피아 짱, 과자를 안 주면 장난칠 거야~♪」"
+
+[[dialogue]]
+speaker = "ソフィア"
+original = "「ううっ……わ、わかりました、それでは行きますよ！\u3000えーいっ！」"
+translation = "「으으…… 아, 알겠습니다, 그럼 갑니다! 에잇!」"
+
+[[dialogue]]
+speaker = "ジャクリーヌ"
+original = "「ゆっ！？\u3000パンケーキが出てきたの！」"
+translation = "「유!? 팬케이크가 나왔다유!」"
+
+[[dialogue]]
+speaker = "ソフィア"
+original = "「この戦闘服の能力で、なぜかパンケーキを作り出すことが出来るみたいなんです」"
+translation = "「이 전투복의 능력으로 왜인지 팬케이크를 만들어낼 수 있는 모양이에요.」"
+
+[[dialogue]]
+speaker = "ウズメイア"
+original = "「すごいけど……パンケーキ限定なの？」"
+translation = "「대단하긴 한데…… 팬케이크 한정이야?」"
+
+[[dialogue]]
+speaker = "ソフィア"
+original = "「そのようですね。まあ私と言えば、ホットなパンケーキですから」"
+translation = "「그런 것 같네요. 뭐, 저 하면 핫한 팬케이크니까요.」"
+
+[[dialogue]]
+speaker = "サラン"
+original = "「ソフィアちゃんはパンケーキが好きなんだ～」"
+translation = "「소피아 짱은 팬케이크를 좋아하는구나~」"
+
+[[dialogue]]
+speaker = "ソフィア"
+original = "「はい。私の故郷であるレゾフにはケーキの類はほぼありませんでした。強いて言えば復活祭の時の『クリーチ』くらいでしょうか？」"
+translation = "「네. 제 고향인 레조프에는 케이크류가 거의 없었습니다. 굳이 말하자면 부활절 때의 『쿠리치』 정도일까요?」"
+
+[[dialogue]]
+speaker = "ソフィア"
+original = "「ですが人間界に来ていろいろなケーキに出会いました！\u3000中でもパンケーキはホットで最高なのです♪」"
+translation = "「하지만 인간계에 와서 여러 가지 케이크를 만났습니다! 그중에서도 팬케이크는 핫해서 최고예요♪」"
+
+[[dialogue]]
+speaker = "ウズメイア"
+original = "「それでパンケーキを出せるようになっちゃうなんて面白過ぎでしょ」"
+translation = "「그래서 팬케이크를 내놓을 수 있게 되다니 너무 웃기잖아.」"
+
+[[dialogue]]
+speaker = "ジャクリーヌ"
+original = "「それじゃ頂くゆ♪\u3000あ～、んむっ！」"
+translation = "「그럼 잘 먹겠다유♪ 아~ 암!」"
+
+[[dialogue]]
+speaker = "ジャクリーヌ"
+original = "「ゆ～っ♪\u3000ソフィアのパンケーキ美味しいゆ～♪」"
+translation = "「유~♪ 소피아의 팬케이크 맛있다유~♪」"
+
+[[dialogue]]
+speaker = "サラン"
+original = "「ふわぁ～、ホントにそうだね～。ソフィアちゃんのパンケーキ、美味しくって心がぽかぽかしてきちゃう～♪」"
+translation = "「후아~, 정말 그렇네~. 소피아 짱의 팬케이크, 맛있어서 마음이 포근포근해져~♪」"
+
+[[dialogue]]
+speaker = "ウズメイア"
+original = "「ありゃ？\u3000サラン先輩、フラフラしちゃってどうしたの？」"
+translation = "「어라? 사란 선배, 비틀거리고 왜 그래?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "美食酔いだね"
+translation = "미식 취기네."
+
+[[dialogue]]
+speaker = "ジャクリーヌ"
+original = "「ゆっゆっゆ♪\u3000お顔を真っ赤にしてフラフラして面白いゆ～♪」"
+translation = "「유유유♪ 얼굴을 새빨갛게 물들이고 비틀거리는 게 재밌다유~♪」"
+
+[[dialogue]]
+speaker = "ヒトリ"
+original = "「ジャクリーヌちゃんもますますご機嫌です。この調子でどんどんいきましょう……」"
+translation = "「자클린 짱도 점점 더 기분이 좋아지고 있어요. 이 기세로 계속 가보죠……」"
+
+[[dialogue]]
+speaker = "ジャクリーヌ"
+original = "「あっちで面白そうなことをやってるゆ！\u3000見に行ってみるゆ！」"
+translation = "「저쪽에서 재밌을 것 같은 걸 하고 있다유! 구경하러 가보는 유!」"
+
+[[dialogue]]
+speaker = "セナリィ（覚醒）"
+original = "「ふふふ、何と今回のハロウィンはカフェテリアで出店する権利を勝ち取りましたわ！」"
+translation = "「후후후, 무려 이번 할로윈은 카페테리아에서 노점을 열 권리를 따냈답니다!」"
+
+[[dialogue]]
+speaker = "セナリィ（覚醒）"
+original = "「ミウとヒマワリがいろいろ手を回してくれて……まったく持つべきは優秀な部下ですわね！」"
+translation = "「미우와 히마와리가 여러모로 손을 써줘서…… 역시 유능한 부하는 두고 볼 일이네요!」"
+
+[[dialogue]]
+speaker = "セナリィ（覚醒）"
+original = "「この機会、存分に活かして見せますわよ！\u3000さあさあ、みなさんどんどん挑戦してくださいまし！」"
+translation = "「이 기회, 마음껏 살려보겠어요! 자 자, 여러분들 팍팍 도전해 주세요!」"
+
+[[dialogue]]
+speaker = "ウズメイア"
+original = "「ハッピーハロウィン♪\u3000ここは何をやってるお店なんですか？」"
+translation = "「해피 할로윈♪ 여기는 뭐 하는 가게인가요?」"
+
+[[dialogue]]
+speaker = "セナリィ（覚醒）"
+original = "「らっしゃいませ～ですわ。なんと本日限定、ハロウィンくじをやっていますのよ」"
+translation = "「어서 오세요~ 예요. 무려 오늘 한정, 할로윈 뽑기를 하고 있답니다.」"
+
+[[dialogue]]
+speaker = "ジャクリーヌ"
+original = "「くじ！\u3000面白そうだゆ！」"
+translation = "「뽑기! 재밌겠다유!」"
+
+[[dialogue]]
+speaker = "セナリィ（覚醒）"
+original = "「ジャクリーヌ様じゃありませんの、ご無沙汰しておりましたわ」"
+translation = "「자클린 님 아니신가요, 오랜만이네요.」"
+
+[[dialogue]]
+speaker = "ジャクリーヌ"
+original = "「このおっきなカボチャは何者だゆ？」"
+translation = "「이 커다란 호박은 뭐냐유?」"
+
+[[dialogue]]
+speaker = "ソフィア"
+original = "「カボチャの頭に穴が開いています。ここから手を入れてくじを引くのでは？」"
+translation = "「호박 머리에 구멍이 뚫려 있어요. 여기로 손을 넣어서 뽑기를 뽑는 건가요?」"
+
+[[dialogue]]
+speaker = "セナリィ（覚醒）"
+original = "「その通りですわ！\u3000名付けて『当たり確定ハズレなし！\u3000ドキドキワクワクハロウィン限定ボックスくじ』ですわ！」"
+translation = "「맞아요! 이름하여 『당첨 확정 꽝 없음! 두근두근 할로윈 한정 박스 뽑기』예요!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "……なんか怪しい"
+translation = "……왠지 수상한데."
+
+[[dialogue]]
+speaker = "セナリィ（覚醒）"
+original = "「そ、そんなことありませんわ……会長様、ちょっとこちらへ」"
+translation = "「그, 그렇지 않아요…… 회장님, 잠시 이쪽으로.」"
+
+[[dialogue]]
+speaker = "セナリィ（覚醒）"
+original = "「滅多なことを言わないで欲しいですわ。今回のハロウィンはこれに賭けていますの」"
+translation = "「괜한 소리 마세요. 이번 할로윈은 여기에 걸고 있단 말이에요.」"
+
+[[dialogue]]
+speaker = "セナリィ（覚醒）"
+original = "「特等や１等の枚数はちょっとばかり低く設定していますが、決してインチキではありませんのよ……くっくっく」"
+translation = "「특등이나 1등의 개수는 조금 낮게 설정되어 있지만, 결코 속임수는 아니라고요…… 큭큭큭.」"
+
+[[dialogue]]
+speaker = "ジャクリーヌ"
+original = "「何をこそこそ話してるゆ！\u3000くじを引かせるゆ！」"
+translation = "「뭘 소곤소곤 얘기하는 거냐유! 뽑기를 하게 하라유!」"
+
+[[dialogue]]
+speaker = "セナリィ（覚醒）"
+original = "「はいはい、お待ちくださいな。１回３００テルスですのよ」"
+translation = "「네네, 잠시 기다려주세요. 한 번에 300텔루스랍니다.」"
+
+[[dialogue]]
+speaker = "ソフィア"
+original = "「では１回お願いします」"
+translation = "「그럼 한 번 부탁합니다.」"
+
+[[dialogue]]
+speaker = "セナリィ（覚醒）"
+original = "「１回でいいんですの？\u3000こういうのは１０連が基本ですけど？」"
+translation = "「한 번으로 되겠어요? 이런 건 10연속이 기본인 법이라고요?」"
+
+[[dialogue]]
+speaker = "ソフィア"
+original = "「む……そういうものですか。では１０回で……」"
+translation = "「음…… 그런 건가요. 그럼 10번으로……」"
+
+[[dialogue]]
+speaker = "ウズメイア"
+original = "「はいはーい、んじゃあたしも１０回で！」"
+translation = "「네네, 그럼 나도 10번!」"
+
+[[dialogue]]
+speaker = "ジャクリーヌ"
+original = "「余も１０枚引かせるゆ！」"
+translation = "「여도 10장 뽑게 하라유!」"
+
+[[dialogue]]
+speaker = "ヒトリ"
+original = "「わ、わたしもいいですか……？」"
+translation = "「저, 저도 괜찮을까요……?」"
+
+[[dialogue]]
+speaker = "セナリィ（覚醒）"
+original = "「まいどありですわ～♪\u3000ではでは祈りを込めてくじを引いちまってください」"
+translation = "「매번 감사합니다~♪ 그럼 기도를 담아 뽑기를 뽑아버려 주세요.」"
+
+[[dialogue]]
+speaker = "ソフィア"
+original = "「…………」"
+translation = "「…………」"
+
+[[dialogue]]
+speaker = "ウズメイア"
+original = "「…………」"
+translation = "「…………」"
+
+[[dialogue]]
+speaker = "ジャクリーヌ"
+original = "「…………」"
+translation = "「…………」"
+
+[[dialogue]]
+speaker = "ヒトリ"
+original = "「…………」"
+translation = "「…………」"
+
+[[dialogue]]
+speaker = "ソフィア"
+original = "「私は全部５等でした。みなさんはどうでした？」"
+translation = "「전부 5등이었어요. 여러분은 어떠셨나요?」"
+
+[[dialogue]]
+speaker = "ウズメイア"
+original = "「あたしもだよ。ついてないし……」"
+translation = "「나도야. 운도 없지……」"
+
+[[dialogue]]
+speaker = "ジャクリーヌ"
+original = "「余も同じなの」"
+translation = "「여도 마찬가지유.」"
+
+[[dialogue]]
+speaker = "ヒトリ"
+original = "「わたしもでした……」"
+translation = "「저도 그랬어요……」"
+
+[[dialogue]]
+speaker = "ジャクリーヌ"
+original = "「どういうことだゆ！\u3000説明するゆ！」"
+translation = "「어떻게 된 거냐유! 설명하라유!」"
+
+[[dialogue]]
+speaker = "セナリィ（覚醒）"
+original = "「説明も何もくじですから、こういうこともありますわ。はい、５等のポケットティッシュですわ～」"
+translation = "「설명할 것도 없이 뽑기니까 이런 일도 있는 법이죠. 자, 5등 상품 휴대용 티슈예요~」"
+
+[[dialogue]]
+speaker = "ジャクリーヌ"
+original = "「本当にこの中に当たりは入ってるのかゆ？」"
+translation = "「정말로 이 안에 당첨이 들어있긴 한 거냐유?」"
+
+[[dialogue]]
+speaker = "セナリィ（覚醒）"
+original = "「もっちろんですとも！」"
+translation = "「무으울론이죠!」"
+
+[[dialogue]]
+speaker = "セナリィ（覚醒）"
+original = "「特等はあの棚に並んでいる、ヒマワリの作ったパンプキンロボットと、ミウの作ったパンプキンぬいぐるみですのよ」"
+translation = "「특등은 저 선반에 놓여 있는, 히마와리가 만든 펌킨 로봇이랑 미우가 만든 펌킨 인형이랍니다.」"
+
+[[dialogue]]
+speaker = "ウズメイア"
+original = "「なにあれ！\u3000超きゃわわなんですけど！」"
+translation = "「뭐야 저거! 초 귀여운데!」"
+
+[[dialogue]]
+speaker = "セナリィ（覚醒）"
+original = "「なんでしたらもう１０連引いていきますの？」"
+translation = "「내친김에 10연속 더 뽑고 가시겠어요?」"
+
+[[dialogue]]
+speaker = "ウズメイア"
+original = "「うーっ、どうしよっかな……」"
+translation = "「으~, 어떡할까나……」"
+
+[[dialogue]]
+speaker = "セナリィ（覚醒）"
+original = "（くっくっく、儲かって儲かって仕方がありませんわ♪\u3000くじをやろうと言い始めたのはヒマワリですが、さすがの商才ですわね）"
+translation = "（큭큭큭, 돈이 굴러들어와서 어쩔 줄을 모르겠네요♪ 뽑기를 하자고 제안한 건 히마와리지만 역시 대단한 장사 수완이에요.）"
+
+[[dialogue]]
+speaker = "セナリィ（覚醒）"
+original = "（『ボックスから当たりくじを抜いておけばいい』というミウの提案は、流石にやり過ぎだと却下しましたが──）"
+translation = "（『박스에서 당첨 제비를 빼두면 된다』는 미우의 제안은 아무리 그래도 너무하다고 기각했습니다만──）"
+
+[[dialogue]]
+speaker = "セナリィ（覚醒）"
+original = "（この調子でじゃんじゃん稼いで、前回のハロウィンをはるかに上回る収益を出して見せますわっ！）"
+translation = "（이 기세로 팍팍 벌어서 지난 할로윈을 훨씬 뛰어넘는 수익을 내고 말겠어요!）"
+
+[[dialogue]]
+speaker = "ソフィア"
+original = "「っ……！？」"
+translation = "「윽……!?」"
+
+[[dialogue]]
+speaker = "ヒトリ"
+original = "「ハロウィンパワーが急激に増大しています……っ！」"
+translation = "「할로윈 파워가 급격하게 증대하고 있어요……!」"
+
+[[dialogue]]
+speaker = "セナリィ（覚醒）"
+original = "「何事ですの？\u3000何が起こるんですの！？」"
+translation = "「무슨 일이죠? 무슨 일이 일어나는 건가요!?」"
+
+[[dialogue]]
+speaker = "セナリィ（覚醒）"
+original = "「へっ……カボチャが真っ二つに……」"
+translation = "「헷…… 호박이 두 동강이……」"
+
+[[dialogue]]
+speaker = "ウズメイア"
+original = "「わわっ、くじの数とんでもないんだけど……！」"
+translation = "「와와, 뽑기 수가 어마어마한데……!」"
+
+[[dialogue]]
+speaker = "ジャクリーヌ"
+original = "「ゆゆゆ……頭の中に流れ込んできたゆ……このくじの中に特賞は２枚……」"
+translation = "「유유유…… 머릿속으로 흘러 들어왔다유…… 이 뽑기 중에 특상은 2장……」"
+
+[[dialogue]]
+speaker = "ソフィア"
+original = "「こんなの当たるわけありません！」"
+translation = "「이런 건 당첨될 리가 없어요!」"
+
+[[dialogue]]
+speaker = "ヒトリ"
+original = "「どうやら不正を許せない気持ちが、戦闘服を暴走させてしまったようですね……」"
+translation = "「아무래도 부정을 용납할 수 없는 마음이 전투복을 폭주시켜 버린 모양이네요……」"
+
+[[dialogue]]
+speaker = "セナリィ（覚醒）"
+original = "「ふっ……ばれちまっては仕方ありませんわ……」"
+translation = "「훗…… 들킨 이상 어쩔 수 없죠……」"
+
+[[dialogue]]
+speaker = "セナリィ（覚醒）"
+original = "「私は悪の秘密結社『ゴールデングース』の総帥、バンデット・セナリィですわ！\u3000お金を稼ぐことこそが正義！\u3000不正をして何が悪いんですの！」"
+translation = "「저는 악의 비밀결사 『골든 구스』의 총수, 밴디트 세나리예요! 돈을 버는 것이야말로 정의! 부정을 하는 게 뭐가 나쁘다는 거죠!」"
+
+[[dialogue]]
+speaker = "キャナンシー"
+original = "「あらぁん、お話はぜぇんぶ聞かせてもらったわぁ」"
+translation = "「어머어~, 이야기는 저언부 들었단다아~」"
+
+[[dialogue]]
+speaker = "セナリィ（覚醒）"
+original = "「え……実行委員長？」"
+translation = "「에…… 실행위원장님?」"
+
+[[dialogue]]
+speaker = "キャナンシー"
+original = "「神聖なるハロウィンパーティーの場において不正はご法度。直ちに追放させてもらうわぁ～」"
+translation = "「신성한 할로윈 파티의 장에서 부정은 금물. 즉시 추방하도록 할게에~」"
+
+[[dialogue]]
+speaker = "セナリィ（覚醒）"
+original = "「そ、そんな！\u3000せっかく勝ち取った売り場が！\u3000委員長ーっ、お慈悲をくださいませ～っ！！」"
+translation = "「그, 그럴 수가! 어렵게 따낸 매장이! 위원장니임~, 자비를 베풀어 주세요오~!!」"
+

@@ -1,0 +1,225 @@
+[[dialogue]]
+speaker = "unk"
+original = "第２話,変なあだ名はやめて！,P"
+translation = "제2화, 이상한 별명은 그만둬!, P"
+
+[[dialogue]]
+speaker = "附属生"
+original = "「さすがのアムでも５人がかりならいけるはず……一斉にいくよ！」"
+translation = "「아무리 아무라도 5명이 덤비면 할 수 있을 거야…… 한꺼번에 가자!」"
+
+[[dialogue]]
+speaker = "アム"
+original = "「ふっふーん！\u3000このくらい全然へーき！」"
+translation = "「훗훈~! 이 정도는 전혀 아무렇지도 않아!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "攻撃を全て防いでる！？"
+translation = "공격을 전부 막아내고 있어!?"
+
+[[dialogue]]
+speaker = "アム"
+original = "「よーし、反撃だ！\u3000シールド解放──いっけー！！」"
+translation = "「좋아, 반격이다! 실드 해방── 가라!!」"
+
+[[dialogue]]
+speaker = "アム"
+original = "「勝者、あたし！\u3000やったー！」"
+translation = "「승자는 나! 야호!」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「うーん、流石はアムちゃんだね。以前に見た時よりも動きに磨きがかかってる」"
+translation = "「으음, 역시 아무짱이네. 예전에 봤을 때보다 움직임이 더 날카로워졌어.」"
+
+[[dialogue]]
+speaker = "unk"
+original = "盾からビームが出た……！？"
+translation = "방패에서 빔이 나갔어……!?"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「光の星力を収束させて盾の防御力を強化。その後、一気に放出させる必殺技です。何を隠そう、前会長のアドバイスで生まれた技」"
+translation = "「빛의 성력을 수렴시켜 방패의 방어력을 강화. 그 후 단번에 방출시키는 필살기입니다. 사실은 전 회장님의 조언으로 탄생한 기술이죠.」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「ヴィーナスのアイデアだったんだ、あれ」"
+translation = "「비너스의 아이디어였구나, 저거.」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「ぎゅんぎゅんって溜めてどかーんってやったらどうかしら？\u3000……みたいなことを言っていた覚えがあります」"
+translation = "「규웅규웅 하고 모아서 콰광 하고 쏘면 어떨까? ……같은 말을 했던 기억이 있습니다.」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「相変わらずフィーリングで語るね、ヴィーナスは……」"
+translation = "「여전히 느낌으로만 말하네, 비너스는……」"
+
+[[dialogue]]
+speaker = "アム"
+original = "「ふぃ～。何だか物足りないなー……ぁ、会長じゃん！\u3000それに星徒会のみなさんも！」"
+translation = "「후우~. 왠지 좀 부족한데…… 아, 회장이잖아! 게다가 성도회 여러분도!」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「アムちゃん、お疲れ様。凄かったよ！」"
+translation = "「아무짱, 수고했어. 대단하더라!」"
+
+[[dialogue]]
+speaker = "アム"
+original = "「えへへっ、それほどでも……あるけど！\u3000ありがとうございます！」"
+translation = "「에헤헷, 그 정도까진…… 맞지만! 감사합니다!」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「今の模擬戦も見事だったけれど、いつもの彼女は？」"
+translation = "「방금 모의전도 훌륭했습니다만, 평소의 그녀는?」"
+
+[[dialogue]]
+speaker = "アム"
+original = "「エルゼは誘ったんだけど断られちゃったんです。用事があるので失礼しますわ、なんて言ってさ～」"
+translation = "「엘제는 불렀는데 거절당했어요. 용무가 있으니 실례할게요~ 라고 하면서 말이죠.」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「桜十路エルデリーゼ。流星学園附属の槍使いで、彼女のライバル」"
+translation = "「사쿠라코지 엘데리제. 유성 학원 부속 창술사로, 그녀의 라이벌입니다.」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「有名だよね。流星附属の無敵の槍と無敵の盾。今日勝つのはどっちだー、っていつも盛り上がるんだよ！」"
+translation = "「유명하지. 유성 부속의 무적의 창과 무적의 방패. 오늘 이기는 건 어느 쪽일까~ 하고 언제나 달아오른다고!」"
+
+[[dialogue]]
+speaker = "アム"
+original = "「今のところ１２０勝１２０敗。あ～あ、今日はエルゼ用に新技も用意してたのになぁ」"
+translation = "「지금까지 120승 120패. 아~ 오늘 엘제용으로 신기술도 준비해 왔는데 말이야.」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「向上心が凄い。流石は『流星最硬のタンク』」"
+translation = "「향상심이 대단하네요. 과연 『유성 최경의 탱크』.」"
+
+[[dialogue]]
+speaker = "アム"
+original = "「──はぅっ！？」"
+translation = "「──하윽!?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "流星最硬の……何だって？"
+translation = "유성 최경의…… 뭐라고?"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「『流星最硬のタンク』。彼女のあだ名」"
+translation = "「『유성 최경의 탱크』. 그녀의 별명입니다.」"
+
+[[dialogue]]
+speaker = "アム"
+original = "「アナ先輩。そのあだ名はあたし、ちょ～っと苦手というか……っていうか新星学園の方にも伝わってるの！？」"
+translation = "「아나 선배. 그 별명 나, 조~금 서투르달까…… 그보다 신성 학원 쪽에도 퍼져 있는 거야!?」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「他にもいっぱいあるよね。『盾騎士』とか『小さな要塞』とか『しんがり乙女』とか」"
+translation = "「그 밖에도 잔뜩 있잖아. 『방패 기사』라든가 『작은 요새』라든가 『후방 소녀』라든가.」"
+
+[[dialogue]]
+speaker = "アム"
+original = "「や、やめてっ！\u3000ていうか何それ、聞いたことないのもある！？」"
+translation = "「그, 그만해! 그보다 뭐야 그건, 들어본 적 없는 것도 있어!?」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「後はどんな悪条件でも生存、帰還することから『生還少女』とか『不死身シールド』とか……」"
+translation = "「나머지는 어떤 악조건에서도 생존, 귀환한다고 해서 『생환 소녀』라든가 『불사신 실드』라든가……」"
+
+[[dialogue]]
+speaker = "アム"
+original = "「その２つ、ほんっと嫌い！！\u3000広めたの誰だよほんとに～！！」"
+translation = "「그 두 개, 진~짜 싫어!! 퍼뜨린 게 누구야 정말로!!」"
+
+[[dialogue]]
+speaker = "アム"
+original = "「うぅううっ……どうしてみんなあたしに変なあだ名付けるんだよぅ……！」"
+translation = "「으으으윽…… 어째서 다들 나한테 이상한 별명을 붙이는 거야……!」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「アムちゃんってアステラ対処でよく出動するし、危ないところを救われた生徒も多いから。人によってあだ名が違うんだよね」"
+translation = "「아무짱은 아스텔라 대처로 자주 출동하고, 위험한 상황에서 구해진 학생도 많으니까. 사람마다 별명이 다르더라고.」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「そう。おまけに小さい背丈でマスコットみがあるから、いじられるのも仕方がない」"
+translation = "「맞아. 게다가 키가 작아서 마스코트 같은 면이 있으니, 놀림당하는 것도 어쩔 수 없지.」"
+
+[[dialogue]]
+speaker = "アム"
+original = "「それアナ先輩に言われるのは何か納得いかないんですけど！？」"
+translation = "「그걸 아나 선배한테 듣는 건 왠지 납득이 안 가는데요!?」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "（……なお会長。あだ名を用いる際は、あんまりしつこくしないこと。でないと大変なことになる）"
+translation = "（……참고로 회장님. 별명을 부를 때는 너무 끈질기게 하지 말 것. 안 그러면 큰일 나니까.）"
+
+[[dialogue]]
+speaker = "unk"
+original = "それは一体、どういう？"
+translation = "그건 대체 무슨?"
+
+[[dialogue]]
+speaker = "附属生"
+original = "「やー、さすがはアム。今日もすごかったね！\u3000流石は『絶壁』！」"
+translation = "「야~ 역시 아무. 오늘도 대단했어! 과연 『절벽』!」"
+
+[[dialogue]]
+speaker = "アム"
+original = "「ぜっぺき！？\u3000む──むむ──むむむ──！」"
+translation = "「절벽!? 으── 으으── 으으으!」"
+
+[[dialogue]]
+speaker = "アム"
+original = "「むっかー！！\u3000そのあだ名、一番嫌いって言ってるじゃん！！\u3000も～あったま来た！」"
+translation = "「욱해!! 그 별명, 제일 싫다고 말했잖아!! 아~ 진짜 화나!」"
+
+[[dialogue]]
+speaker = "附属生"
+original = "「うわあああああ！？\u3000ちょっ、悪かったってばー！」"
+translation = "「으와아아아아!? 잠깐, 미안하다니까!」"
+
+[[dialogue]]
+speaker = "アム"
+original = "「待てー！\u3000逃げるなー！！」"
+translation = "「게 서라! 도망가지 마!」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「プッツンするとビームを撃ちまくる悪癖がある。注意」"
+translation = "「뚜껑이 열리면 빔을 난사하는 나쁜 버릇이 있습니다. 주의.」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「あはは……アムちゃん、我慢が利かないから……」"
+translation = "「아하하…… 아무짱, 참을성이 없어서……」"
+
+[[dialogue]]
+speaker = "unk"
+original = "乱れ飛ぶビームを避ける生徒を見て、俺は絶対にあだ名でアムをからかわないようにしようと誓うのだった。"
+translation = "어지럽게 날아다니는 빔을 피하는 학생을 보며, 나는 절대로 별명으로 아무를 놀리지 않겠다고 맹세했다."
+
+[[dialogue]]
+speaker = "unk"
+original = "なおその後、ビーム乱射のお叱りを受けたアムが反省文を書かされたのは言うまでもない。"
+translation = "그 후, 빔 난사로 꾸중을 들은 아무가 반성문을 쓰게 된 것은 말할 것도 없다."
+
+[[dialogue]]
+speaker = "アム"
+original = "「うぅ……また内申点、下がっちゃった。星徒会長になれなかったらどうしよう～……！？」"
+translation = "「우으…… 또 내신 점수 깎였어. 성도회장이 못 되면 어떡하지~……!?」"
+

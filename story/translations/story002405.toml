@@ -1,0 +1,295 @@
+[[dialogue]]
+speaker = "マトイ"
+original = "「花嫁修業その２！\u3000お掃除対決です～！」"
+translation = "「신부 수업 그 두 번째! 청소 대결입니다~!」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「でも、こちらは実力差がかなりありそうですね。対決じゃなくて、教えっこにしますか？」"
+translation = "「하지만 이쪽은 실력 차이가 꽤 날 것 같네요. 대결이 아니라 가르쳐 주는 걸로 할까요?」"
+
+[[dialogue]]
+speaker = "トワ先生"
+original = "「そうしてもらえると非常に助かるよ……」"
+translation = "「그렇게 해주면 정말 큰 도움이 되겠어……」"
+
+[[dialogue]]
+speaker = "蘭美"
+original = "「あら、お掃除は苦手かしら？」"
+translation = "「어머, 청소는 서툰가?」"
+
+[[dialogue]]
+speaker = "トワ先生"
+original = "「実はそうなんだよね～。ダメだと思ってるんだけど、どうしても優先度が下になっちゃって」"
+translation = "「사실 그렇단 말이지~. 안 된다고 생각은 하는데 아무래도 우선순위가 낮아져 버려서」"
+
+[[dialogue]]
+speaker = "ヨミ"
+original = "「お掃除なら、メイドの私達にお任せですね～！\u3000手間のかからないお掃除のコツをお教えしますよ」"
+translation = "「청소라면 메이드인 저희에게 맡겨주세요~! 손이 덜 가는 청소 비결을 알려드릴게요」"
+
+[[dialogue]]
+speaker = "トワ先生"
+original = "「本当？\u3000助かるよ～」"
+translation = "「정말? 고마워~」"
+
+[[dialogue]]
+speaker = "蘭美"
+original = "「では今回は、九浄家メイド隊流お掃除術を披露しましょう。私の手にかかればこの通りっ」"
+translation = "「그럼 이번에는 쿠죠 가문 메이드대류 청소술을 보여드리죠. 제 손을 거치면 이처럼」"
+
+[[dialogue]]
+speaker = "蘭美"
+original = "「しゃらんら～♪」"
+translation = "「샤랑라~♪」"
+
+[[dialogue]]
+speaker = "unk"
+original = "うわ！\u3000一瞬でピカピカに！"
+translation = "우와! 순식간에 반짝반짝하게!"
+
+[[dialogue]]
+speaker = "トワ先生"
+original = "「まるで魔法です……」"
+translation = "「마치 마법 같아요……」"
+
+[[dialogue]]
+speaker = "ヨミ"
+original = "「よーし、私も……しゃらんら～♪」"
+translation = "「좋ー아, 나도…… 샤랑라~♪」"
+
+[[dialogue]]
+speaker = "トワ先生"
+original = "「こっちも！？\u3000九浄家メイド隊はなんなんですか、魔法少女の集団ですか？」"
+translation = "「이쪽도!? 쿠죠 가문 메이드대는 정체가 뭐예요, 마법 소녀 집단인가요?」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「いえ、よく見て下さい」"
+translation = "「아니요, 잘 보세요」"
+
+[[dialogue]]
+speaker = "unk"
+original = "普通の掃除だね"
+translation = "평범한 청소네"
+
+[[dialogue]]
+speaker = "unk"
+original = "効果音を口で言ってるだけで"
+translation = "효과음을 입으로 말하고 있을 뿐이고"
+
+[[dialogue]]
+speaker = "蘭美"
+original = "「卓越した技術は魔法と区別がつかない、そういうことね」"
+translation = "「탁월한 기술은 마법과 구별되지 않는다, 그런 뜻이야」"
+
+[[dialogue]]
+speaker = "トワ先生"
+original = "「そりゃそうだよね。でも高速でお掃除してるのは事実だし、ちゃんと学ばせてもらわなきゃ」"
+translation = "「그렇겠네. 하지만 고속으로 청소하고 있는 건 사실이니까 제대로 배워야겠어」"
+
+[[dialogue]]
+speaker = "蘭美"
+original = "「いい心がけね。では極意を伝授してあげるわ」"
+translation = "「좋은 마음가짐이야. 그럼 극의를 전수해 주지」"
+
+[[dialogue]]
+speaker = "トワ先生"
+original = "「お、お願いします！」"
+translation = "「부, 부탁합니다!」"
+
+[[dialogue]]
+speaker = "蘭美"
+original = "「料理には愛情が大切だけど、それはお掃除においても同じなのよ」"
+translation = "「요리에는 애정이 중요하지만 그것은 청소에 있어서도 마찬가지야」"
+
+[[dialogue]]
+speaker = "ヨミ"
+original = "「相手が快適に過ごせるようにって考えたら、細かいところまで気配りする必要が出てきますからね」"
+translation = "「상대방이 쾌적하게 지낼 수 있도록 생각한다면 세밀한 부분까지 배려할 필요가 생기니까요」"
+
+[[dialogue]]
+speaker = "蘭美"
+original = "「ただきれいにすればいい訳ではなく、思いやりの心が大事なのよ！」"
+translation = "「그저 깨끗하게만 하면 되는 게 아니라 배려하는 마음이 중요한 거야!」"
+
+[[dialogue]]
+speaker = "トワ先生"
+original = "「えっと、具体的にどうすればいいの？」"
+translation = "「에또, 구체적으로 어떻게 하면 돼?」"
+
+[[dialogue]]
+speaker = "蘭美"
+original = "「そうね……会長は年頃の男性だから、他者に立ち入られたくない部分があるのよ」"
+translation = "「글쎄…… 회장은 혈기 왕성한 남성이니까 타인이 손대지 않았으면 하는 부분이 있을 거야」"
+
+[[dialogue]]
+speaker = "蘭美"
+original = "「どんなお掃除をされたら嬉しいか、どこを掃除されたくないか。そこを常に考えてみるといいわ」"
+translation = "「어떤 청소를 받았을 때 기쁠지, 어디를 청소 받고 싶지 않을지. 그것을 항상 생각해 보도록 해」"
+
+[[dialogue]]
+speaker = "トワ先生"
+original = "「わ、わかりました！\u3000やってみます！」"
+translation = "「아, 알겠습니다! 해볼게요!」"
+
+[[dialogue]]
+speaker = "トワ先生"
+original = "「心を込めて、ふきふき♪\u3000ふきふき♪」"
+translation = "「정성을 담아서, 슥삭슥삭♪ 슥삭슥삭♪」"
+
+[[dialogue]]
+speaker = "トワ先生"
+original = "「お掃除のこと、今まであんまり考えてこなかったなぁ。散らかってなければそれでいいって感じで」"
+translation = "「청소에 대해서 지금까지 별로 생각해 본 적이 없었네. 어질러져 있지 않으면 그걸로 됐다는 느낌으로」"
+
+[[dialogue]]
+speaker = "トワ先生"
+original = "「メイプルちゃんと同居するようになってから、お掃除もちゃんとするようになったけど……」"
+translation = "「메이플 짱이랑 동거하게 된 뒤로는 청소도 제대로 하게 됐지만……」"
+
+[[dialogue]]
+speaker = "トワ先生"
+original = "「誰かのために、とか……あんまり考えてなかったかもしれない」"
+translation = "「누군가를 위해, 라든가…… 별로 생각하지 않았을지도 몰라」"
+
+[[dialogue]]
+speaker = "トワ先生"
+original = "「お嫁さんになるって、旦那さまと共同生活をするってことだから……こういうことも、もっとしっかり考える必要があるんだ」"
+translation = "「아내가 된다는 건 남편과 공동생활을 한다는 뜻이니까…… 이런 것도 더 확실히 생각할 필요가 있구나」"
+
+[[dialogue]]
+speaker = "トワ先生"
+original = "「ただきれいにするだけのお掃除じゃなく、誰かと快適な生活を送るための気配り」"
+translation = "「그저 깨끗하게만 하는 청소가 아니라 누군가와 쾌적한 생활을 보내기 위한 배려」"
+
+[[dialogue]]
+speaker = "トワ先生"
+original = "「わたしには欠けてた要素かもなぁ」"
+translation = "「나에게 부족했던 요소일지도 모르겠네」"
+
+[[dialogue]]
+speaker = "トワ先生"
+original = "「終わりました～。どうですか？」"
+translation = "「끝났어요~. 어떤가요?」"
+
+[[dialogue]]
+speaker = "蘭美"
+original = "「素晴らしい掃除っぷりだったわ、お見事ね！」"
+translation = "「훌륭한 청소 솜씨였어, 멋지군!」"
+
+[[dialogue]]
+speaker = "ヨミ"
+original = "「心を込めてお掃除しているのが伝わってきました～♪」"
+translation = "「정성을 담아 청소하고 있다는 게 전해져 왔어요~♪」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「皆さん、お掃除お疲れさまでした！\u3000それぞれ花嫁衣装で頑張ってる姿は、とってもお嫁さんでしたよ」"
+translation = "「여러분, 청소하시느라 고생 많으셨어요! 각자 신부 의상을 입고 열심히 하는 모습은 영락없는 아내였어요」"
+
+[[dialogue]]
+speaker = "unk"
+original = "掃除しても全然汚れないんだね"
+translation = "청소해도 전혀 더러워지지 않네"
+
+[[dialogue]]
+speaker = "トワ先生"
+original = "「確かに。お掃除したら多少は汚れるはずなのに」"
+translation = "「확실히. 청소를 하면 조금은 더러워져야 할 텐데」"
+
+[[dialogue]]
+speaker = "トワ先生"
+original = "「通常の花嫁衣装とは異なるってことかなぁ。これもウェディングフォームの特殊性かもしれないね」"
+translation = "「통상적인 신부 의상과는 다르다는 뜻이려나. 이것도 웨딩 폼의 특수성일지도 모르겠네」"
+
+[[dialogue]]
+speaker = "蘭美"
+original = "「当主様に報告すべき事柄ね。喜んで頂けるといいのだけれど」"
+translation = "「당주님께 보고해야 할 사항이군. 기뻐해 주시면 좋으련만」"
+
+[[dialogue]]
+speaker = "unk"
+original = "１日花嫁修業してみてどうだった？"
+translation = "하루 동안 신부 수업 해보니까 어땠어?"
+
+[[dialogue]]
+speaker = "蘭美"
+original = "「そうね、メイドとして身に着けた技術をそのまま使える部分も確かにあったわ。だけど、やはり似て非なるものね……勉強になったわ」"
+translation = "「글쎄, 메이드로서 익힌 기술을 그대로 쓸 수 있는 부분도 확실히 있었어. 하지만 역시 비슷하면서도 다른 것이네…… 공부가 됐어」"
+
+[[dialogue]]
+speaker = "ヨミ"
+original = "「私はメイドとしても自分の未熟さを感じた１日でした。もっと頑張らなきゃって思いました」"
+translation = "「저는 메이드로서도 자신의 미숙함을 느낀 하루였어요. 더 열심히 해야겠다고 생각했습니다」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「トワちゃん先生はどうでしたか？」"
+translation = "「토와 짱 선생님은 어떠셨나요?」"
+
+[[dialogue]]
+speaker = "トワ先生"
+original = "「わたしは……楽しかった、かな」"
+translation = "「나는…… 즐거웠어, 일까나」"
+
+[[dialogue]]
+speaker = "トワ先生"
+original = "「今までは、自分が結婚してお嫁さんになるってこと、全然実感できなかったんだよね」"
+translation = "「지금까지는 내가 결혼해서 아내가 된다는 게 전혀 실감이 안 났거든」"
+
+[[dialogue]]
+speaker = "トワ先生"
+original = "「でも、こうして花嫁修業をしてみて、お嫁さんになるってどういうことなのか、考えるきっかけになったと思う」"
+translation = "「하지만 이렇게 신부 수업을 해보니까 아내가 된다는 게 어떤 의미인지 생각하는 계기가 된 것 같아」"
+
+[[dialogue]]
+speaker = "トワ先生"
+original = "「なんとなくふわ～っと憧れてたけど、もうちょっと地に足がついたっていうか」"
+translation = "「막연하게 둥실둥실 동경해 왔지만 좀 더 현실적으로 와닿았다고나 할까」"
+
+[[dialogue]]
+speaker = "トワ先生"
+original = "「だから、今日はみんなありがとう。すごくいい経験になりました」"
+translation = "「그러니까 오늘 다들 고마워. 정말 좋은 경험이 됐어」"
+
+[[dialogue]]
+speaker = "トワ先生"
+original = "「今日は本当に楽しかったなぁ。あんなに笑ったのは久し振りかも」"
+translation = "「오늘은 정말 즐거웠네. 그렇게 웃어본 건 오랜만일지도」"
+
+[[dialogue]]
+speaker = "トワ先生"
+original = "「でも……自分のことだからわかるんだ。星見家での事件のことからだけじゃなくて、当事者としても肌で感じてる」"
+translation = "「하지만…… 내 일이니까 알 수 있어. 호시미 가문에서의 사건뿐만 아니라 당사자로서도 피부로 느끼고 있어」"
+
+[[dialogue]]
+speaker = "トワ先生"
+original = "「ウェディングフォームを解除する……ううん、ウェディングフォームの力を引き出すには、足りない」"
+translation = "「웨딩 폼을 해제하기 위해…… 아니, 웨딩 폼의 힘을 끌어내기에는 부족해」"
+
+[[dialogue]]
+speaker = "トワ先生"
+original = "「やっぱり……あれをやらなきゃダメなのかなぁ？」"
+translation = "「역시…… '그거'를 하지 않으면 안 되는 걸까?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "トワ先生は小さくため息をついた。"
+translation = "토와 선생님은 작게 한숨을 내쉬었다."
+
+[[dialogue]]
+speaker = "unk"
+original = "ウェディングフォームへの固定を解除する方法。"
+translation = "웨딩 폼으로의 고정을 해제하는 방법."
+
+[[dialogue]]
+speaker = "unk"
+original = "それは星見家の事件に倣うならば、結婚式を挙げ、自身の結婚願望を満たすしかない。"
+translation = "그것은 호시미 가문의 사건을 따른다면 결혼식을 올려 자신의 결혼 소망을 충족시키는 수밖에 없다."
+
+[[dialogue]]
+speaker = "unk"
+original = "だが、しかし──だからといって、勢いで式を挙げてしまえるほど若くはない有明トワ（自主規制）歳なのだった。"
+translation = "하지만 그렇다고 해서 기세만으로 식을 올려버릴 수 있을 만큼 젊지는 않은 아리아케 토와(자체 규제) 세였던 것이다."
+

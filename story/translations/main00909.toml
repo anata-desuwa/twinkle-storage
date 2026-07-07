@@ -1,0 +1,175 @@
+[[dialogue]]
+speaker = "unk"
+original = "第１１話,帰路,B"
+translation = "제11화, 귀로, B"
+
+[[dialogue]]
+speaker = "アイリーン"
+original = "「……『世界樹のうろ』を再び停止しました。流星学園・新星学園一行は、無事に送られたものと思われます」"
+translation = "「……『세계수의 빈 구멍』을 다시 정지했습니다. 유성 학원・신성 학원 일행은, 무사히 보내진 것으로 생각됩니다」"
+
+[[dialogue]]
+speaker = "セドナ"
+original = "「ご苦労。今日はもう上がっていいぞ」"
+translation = "「수고했다. 오늘은 이제 퇴근해도 좋다」"
+
+[[dialogue]]
+speaker = "アイリーン"
+original = "「は。ステーションへ戻ります」"
+translation = "「하. 스테이션으로 돌아가겠습니다」"
+
+[[dialogue]]
+speaker = "カヤ"
+original = "「じゃ……私は見張りに戻ろっかな」"
+translation = "「그럼…… 나는 감시로 돌아갈까」"
+
+[[dialogue]]
+speaker = "unk"
+original = "組織『ネビュラ』基地・指令室──"
+translation = "조직 『네뷸라』 기지・지령실──"
+
+[[dialogue]]
+speaker = "unk"
+original = "すでに零時を回った夜半、残されたアイリーンはもやもやした気持ちを抱えていた。"
+translation = "이미 자정을 넘긴 밤중, 남겨진 아이린은 찜찜한 기분을 안고 있었다."
+
+[[dialogue]]
+speaker = "アイリーン"
+original = "「……」"
+translation = "「……」"
+
+[[dialogue]]
+speaker = "アイリーン"
+original = "「……その。本当によかったのでしょうか」"
+translation = "「……그. 정말로 괜찮았던 걸까요」"
+
+[[dialogue]]
+speaker = "セドナ"
+original = "「何がだ？」"
+translation = "「뭐가 말이냐?」"
+
+[[dialogue]]
+speaker = "アイリーン"
+original = "「彼ら──魔女でない人間や魔族たちに、我々の『世界樹』を通させてしまって」"
+translation = "「그들── 마녀가 아닌 인간이나 마족들에게, 저희의 『세계수』를 통과시켜 버린 것이」"
+
+[[dialogue]]
+speaker = "アイリーン"
+original = "「も、もちろんっ。彼らののっぴきならない事情は理解していますが……」"
+translation = "「무, 물론. 그들의 피치 못할 사정은 이해하고 있습니다만……」"
+
+[[dialogue]]
+speaker = "カヤ"
+original = "「上官が許可を出した。私たちエージェントが口を挟むことじゃない」"
+translation = "「상관이 허가를 내렸다. 우리 에이전트가 참견할 일이 아니다」"
+
+[[dialogue]]
+speaker = "アイリーン"
+original = "「そ、そうですけどっ。こんなことは数千年間、一度もなかったんですよね……！」"
+translation = "「그, 그렇지만요. 이런 일은 수천 년간, 한 번도 없었잖아요……!」"
+
+[[dialogue]]
+speaker = "セドナ"
+original = "「フ。まあ確かにそうだが、仕方あるまい。姫が興じてしまったのだから」"
+translation = "「흥. 뭐 확실히 그렇지만, 어쩔 수 없겠지. 공주가 흥미를 가져 버린 것이니」"
+
+[[dialogue]]
+speaker = "アイリーン"
+original = "「クラウディア様……確かに」"
+translation = "「클라우디아 님…… 확실히」"
+
+[[dialogue]]
+speaker = "unk"
+original = "納得しようとするアイリーン──"
+translation = "납득하려는 아이린──"
+
+[[dialogue]]
+speaker = "unk"
+original = "そこへ、カヤが思い出したようにつぶやいた。"
+translation = "그때, 카야가 생각났다는 듯 중얼거렸다."
+
+[[dialogue]]
+speaker = "カヤ"
+original = "「……あ。でも私、疑問があるな」"
+translation = "「……아. 근데 나, 의문이 있어」"
+
+[[dialogue]]
+speaker = "アイリーン"
+original = "「疑問？」"
+translation = "「의문이요?」"
+
+[[dialogue]]
+speaker = "カヤ"
+original = "「うん。あの人たち──帰り道はどうするの？」"
+translation = "「응. 저 사람들── 돌아가는 길은 어떻게 해?」"
+
+[[dialogue]]
+speaker = "アイリーン"
+original = "「あ……」"
+translation = "「아……」"
+
+[[dialogue]]
+speaker = "セドナ"
+original = "「ハハッ。よい着眼点だ──魔女でない彼らに、うろを再び開く<ruby>術<rt>すべ</rt></ruby>はないのだからな」"
+translation = "「하하. 좋은 착안점이군── 마녀가 아닌 그들에게, 빈 구멍을 다시 열 술은 없을 테니 말이다」"
+
+[[dialogue]]
+speaker = "unk"
+original = "それは当然といえば当然の疑問だった。"
+translation = "그것은 당연하다면 당연한 의문이었다."
+
+[[dialogue]]
+speaker = "unk"
+original = "対してセドナは、どこか晴れ晴れとした様子で告げる。"
+translation = "이에 대해 세드나는 어딘가 후련한 모습으로 고한다."
+
+[[dialogue]]
+speaker = "セドナ"
+original = "「──<b>帰り道などない</b>よ、カヤ。彼らはそのままでいいんだ」"
+translation = "「──<ruby>돌아갈 길 따윈 없다<rt>・・・ ・ ・・ ・・</rt></ruby>고, 카야. 그들은 그대로 있어도 돼」"
+
+[[dialogue]]
+speaker = "アイリーン"
+original = "「……！？」"
+translation = "「……!?」"
+
+[[dialogue]]
+speaker = "カヤ"
+original = "「ん。上官が許可した理由、なんとなくわかった」"
+translation = "「응. 상관이 허가한 이유, 대충 알았다」"
+
+[[dialogue]]
+speaker = "unk"
+original = "驚くアイリーンに対して、カヤは今度こそ納得の表情を浮かべた。"
+translation = "놀라는 아이린에게, 카야는 이번에야말로 납득하는 표정을 지었다."
+
+[[dialogue]]
+speaker = "unk"
+original = "彼ら『ネビュラ』の行動原理に基づけば──その判断は<b>合理的</b>なものだったからだ。"
+translation = "그들 『네뷸라』의 행동 원리에 근거하면── 그 판단은 <b>합리적</b>인 것이었기 때문이다."
+
+[[dialogue]]
+speaker = "セドナ"
+original = "「流星・新星星徒会──彼らにはまとめて魔界へ退避していてもらう。その方が、我々にとって好都合だ」"
+translation = "「유성・신성 성도회── 그들은 통째로 마계로 대피해 있도록 하겠다. 그 편이 우리에게는 형편이 좋다」"
+
+[[dialogue]]
+speaker = "アイリーン"
+original = "「それは、つまり……」"
+translation = "「그것은, 즉……」"
+
+[[dialogue]]
+speaker = "セドナ"
+original = "「計画の始動は近い──ゆめゆめ目的を忘れるなよ、おまえ達」"
+translation = "「계획의 시동은 가깝다── 꿈에도 목적을 잊지 마라, 너희들」"
+
+[[dialogue]]
+speaker = "unk"
+original = "夜空へうそぶくセドナ。"
+translation = "밤하늘에 으스대는 세드나."
+
+[[dialogue]]
+speaker = "unk"
+original = "魔女という種の積年の願いが、今まさに開花しようとしていた。"
+translation = "마녀라는 종족의 숙원의 염원이, 지금 막 개화하려 하고 있었다."
+

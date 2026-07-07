@@ -1,0 +1,235 @@
+[[dialogue]]
+speaker = "unk"
+original = "第４話,絶対しもべ宣言！,P"
+translation = "제4화,절대 하인 선언!,P"
+
+[[dialogue]]
+speaker = "シャルレーヌ"
+original = "「おはようございます、会長さん<emoji=heart04>」"
+translation = "「안녕하세요, 회장군<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "unk"
+original = "何の用かな？"
+translation = "무슨 용건이지?"
+
+[[dialogue]]
+speaker = "シャルレーヌ"
+original = "「そろそろ私のペットになる決心がついた頃かと思いまして……返答はいかがです？」"
+translation = "「슬슬 제 펫이 될 결심이 섰을까 싶어서요…… 대답은 어떠신가요?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "君のペットになんてならないよ"
+translation = "네 펫 같은 건 되지 않아"
+
+[[dialogue]]
+speaker = "unk"
+original = "何度も断ってるはずだけど"
+translation = "몇 번이나 거절했을 텐데"
+
+[[dialogue]]
+speaker = "カティア"
+original = "「くんくん……このクラクラするような甘い匂いは──」"
+translation = "「킁킁…… 이 아찔할 정도로 달콤한 냄새는──」"
+
+[[dialogue]]
+speaker = "シャルレーヌ"
+original = "「あら、カティア先輩。おはようございます」"
+translation = "「어머, 카티아 선배. 안녕하세요」"
+
+[[dialogue]]
+speaker = "カティア"
+original = "「ひぃっ、シャルレーヌ……様」"
+translation = "「히익, 샤를렌…… 님」"
+
+[[dialogue]]
+speaker = "シャルレーヌ"
+original = "「『様』はいらないと、前に申し上げたではないですか。そんな畏まらずに」"
+translation = "「'님'은 필요 없다고, 전에 말씀드리지 않았나요. 그렇게 어려워하지 마세요」"
+
+[[dialogue]]
+speaker = "シャルレーヌ"
+original = "「あ、そうです、カティア先輩。先日の星霊祭でのご活躍、拝見させていただきました」"
+translation = "「아, 맞다, 카티아 선배. 요전 성령제에서의 활약, 잘 봤습니다」"
+
+[[dialogue]]
+speaker = "カティア"
+original = "「ありがとうございます……あんまり見られたくないとこもありましたけど……」"
+translation = "「감사합니다…… 별로 보이고 싶지 않은 부분도 있었습니다만……」"
+
+[[dialogue]]
+speaker = "シャルレーヌ"
+original = "「ますますもって、私はカティア先輩が欲しくなりました」"
+translation = "「더욱더, 저는 카티아 선배가 탐나게 되었어요」"
+
+[[dialogue]]
+speaker = "カティア"
+original = "「そ、そうですか……？」"
+translation = "「그, 그러신가요……?」"
+
+[[dialogue]]
+speaker = "シャルレーヌ"
+original = "「草花と心を交わし、類稀なる嗅覚を持っているのに加えて、いざという時の大胆さも兼ね備えている。我がディアーブル家にとって理想的な存在です」"
+translation = "「초목과 마음을 나누고, 유례없는 후각을 가지고 있는 데다가, 결정적일 때의 대담함까지 겸비하고 있다. 저희 디아블 가문에게 이상적인 존재입니다」"
+
+[[dialogue]]
+speaker = "シャルレーヌ"
+original = "「私は本当にカティア先輩を買ってるんです。学園の卒業後は当家の専属庭師として好待遇をお約束しますよ」"
+translation = "「저는 정말로 카티아 선배를 높이 사고 있어요. 학원 졸업 후에는 저희 가문의 전속 정원사로서 좋은 대우를 약속드립니다」"
+
+[[dialogue]]
+speaker = "カティア"
+original = "「うっ……それは本当に嬉しいんですけど──」"
+translation = "「윽…… 그건 정말 기쁘지만──」"
+
+[[dialogue]]
+speaker = "カティア"
+original = "（星騎士としては全然弱っちくて、プリマステラにもまだ程遠い私の就職先としては最高なんだけど──）"
+translation = "（성기사로서는 전혀 약해 빠졌고, 프리마스텔라에도 아직 한참 먼 나의 취직처로서는 최고지만──）"
+
+[[dialogue]]
+speaker = "カティア"
+original = "（やっぱり、シャルレーヌ様の甘い匂いの裏には、嫌～な臭いが潜んでる気がする……）"
+translation = "（역시, 샤를렌 님의 달콤한 냄새 뒤에는, 싫～은 냄새가 숨어 있는 것 같아……）"
+
+[[dialogue]]
+speaker = "カティア"
+original = "（うぅ……魔王様、私はどうしたらいいんでしょう……）"
+translation = "（우으…… 마왕님, 저는 어떻게 해야 할까요……）"
+
+[[dialogue]]
+speaker = "シャルレーヌ"
+original = "「──そう考えていたのですが、話はもっとシンプルになりましたね」"
+translation = "「──그렇게 생각하고 있었는데, 이야기는 더 간단해졌네요」"
+
+[[dialogue]]
+speaker = "カティア"
+original = "「ふぇ？\u3000シンプル……ですか？」"
+translation = "「훼? 간단…… 말인가요?」"
+
+[[dialogue]]
+speaker = "シャルレーヌ"
+original = "「はい、カティア先輩は、会長さんの忠実なしもべなんですよね？」"
+translation = "「네, 카티아 선배는, 회장군의 충실한 하인이잖아요?」"
+
+[[dialogue]]
+speaker = "カティア"
+original = "「は、はい、魔王様が行くところなら、たとえ火の中、水の中！\u3000どこにでもお供しますワン！」"
+translation = "「네, 네, 마왕님이 가시는 곳이라면, 설령 불 속, 물 속이라도! 어디든 모시겠습니다멍!」"
+
+[[dialogue]]
+speaker = "シャルレーヌ"
+original = "「なら、仮に会長さんが私のディアーブル家に婿入りしたとしても、会長さんのお供をする、と」"
+translation = "「그렇다면, 가령 회장군이 저희 디아블 가문에 데릴사위로 들어온다고 해도, 회장군을 모시겠다, 는 거네요」"
+
+[[dialogue]]
+speaker = "カティア"
+original = "「わふんっ！？\u3000婿入りって、ま、魔王様が、シャルレーヌ様とっ……！？」"
+translation = "「와훙!? 데릴사위라니, 마, 마왕님이, 샤를렌 님과앗……!?」"
+
+[[dialogue]]
+speaker = "シャルレーヌ"
+original = "「はい、会長さんをディアーブル家に引き入れれば、もれなくしもべであるカティア先輩もついてくる」"
+translation = "「네, 회장군을 디아블 가문에 들이면, 덤으로 하인인 카티아 선배도 따라오죠」"
+
+[[dialogue]]
+speaker = "シャルレーヌ"
+original = "「どうです、会長さん。カティア先輩の未来のためにも、私のものになるというのは」"
+translation = "「어떠세요, 회장군. 카티아 선배의 미래를 위해서라도, 제 것이 되는 건」"
+
+[[dialogue]]
+speaker = "unk"
+original = "それはちょっとズルくない？"
+translation = "그건 좀 치사하지 않아?"
+
+[[dialogue]]
+speaker = "シャルレーヌ"
+original = "「いいえ、これは<ruby>交渉術<rt>ネゴシエーション</rt></ruby>。ビジネスのやり口です。誰も損しない、素晴らしい提案だと思いますけど？」"
+translation = "「아뇨, 이건 <ruby>교섭술<rt>네고시에이션</rt></ruby>. 비즈니스의 수법입니다. 아무도 손해 보지 않는, 멋진 제안이라고 생각하는데요?」"
+
+[[dialogue]]
+speaker = "カティア"
+original = "「わ、私は魔王様のオマケじゃないですワン！」"
+translation = "「저, 저는 마왕님의 덤이 아닙니다멍!」"
+
+[[dialogue]]
+speaker = "カティア"
+original = "「決めました！\u3000私は魔王様以外の誰にもお仕えしたりしない！」"
+translation = "「결정했습니다! 저는 마왕님 이외의 누구도 섬기지 않겠어요!」"
+
+[[dialogue]]
+speaker = "カティア"
+original = "「魔王様に無理やり手を出すつもりなら──ディアーブルの貴族様であろうとも容赦しません！\u3000です！」"
+translation = "「마왕님께 억지로 손을 댈 생각이라면── 디아블의 귀족님일지라도 용서하지 않겠습니다! 입니다!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "カティア、ステイ"
+translation = "카티아, 스테이"
+
+[[dialogue]]
+speaker = "unk"
+original = "落ち着いて"
+translation = "진정해"
+
+[[dialogue]]
+speaker = "カティア"
+original = "「で、でもっ……！\u3000ガルルル……！」"
+translation = "「하, 하지만……! 으르르르……!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "シャルレーヌにはあげないよ"
+translation = "샤를렌에게는 안 넘겨"
+
+[[dialogue]]
+speaker = "unk"
+original = "カティアは俺だけのしもべだから"
+translation = "카티아는 나만의 하인이니까"
+
+[[dialogue]]
+speaker = "カティア"
+original = "「ま、魔王様～～っ！？」"
+translation = "「마, 마왕님～～!?」"
+
+[[dialogue]]
+speaker = "シャルレーヌ"
+original = "「あらら……２人の結束は思っていたよりお堅いようで。まとめてフラれちゃうなんて、ショック～」"
+translation = "「어머나…… 두 분의 결속은 생각보다 단단한 것 같네요. 한꺼번에 차이다니, 충격～」"
+
+[[dialogue]]
+speaker = "シャルレーヌ"
+original = "「でも私、と～～っても諦めの悪い女だから」"
+translation = "「하지만 저는 너～～무 포기가 나쁜 여자라서」"
+
+[[dialogue]]
+speaker = "シャルレーヌ"
+original = "「誰が飼い主なのか……いつか絶対にわからせてあげますね、くふふっ♪」"
+translation = "「누가 주인인지…… 언젠가 반드시 깨닫게 해 드릴게요, 크흐흣♪」"
+
+[[dialogue]]
+speaker = "unk"
+original = "捨て台詞と甘い香水の香りを残して、シャルレーヌは去っていった。"
+translation = "작별 인사와 달콤한 향수의 향기를 남기고, 샤를렌은 떠나갔다."
+
+[[dialogue]]
+speaker = "カティア"
+original = "「はふぅ……シャルレーヌ様の香水の匂いが強すぎて、息をするのも苦しかったです……」"
+translation = "「하아…… 샤를렌 님의 향수 냄새가 너무 강해서, 숨 쉬는 것도 괴로웠어요……」"
+
+[[dialogue]]
+speaker = "カティア"
+original = "「でもでも、魔王様が『俺だけのしもべ』ってシャルレーヌ様に言ってくれたの……とっても嬉しかったです……<emoji=heart04>」"
+translation = "「하지만 하지만, 마왕님이 '나만의 하인'이라고 샤를렌 님께 말해준 거…… 너무 기뻤습니다……<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "カティア"
+original = "「私こそ魔王様の唯一のしもべ……すなわち、忠実なるペットですワン！」"
+translation = "「저야말로 마왕님의 유일한 하인…… 즉, 충실한 펫입니다멍!」"
+
+[[dialogue]]
+speaker = "カティア"
+original = "「一生、お傍にいさせてくださいね、魔王様<emoji=heart04>」"
+translation = "「평생, 곁에 있게 해 주세요, 마왕님<emoji=heart04>」"
+

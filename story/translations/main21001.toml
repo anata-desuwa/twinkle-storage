@@ -1,0 +1,280 @@
+[[dialogue]]
+speaker = "unk"
+original = "第１話,神と使徒,B"
+translation = "제1화, 신과 사도"
+
+[[dialogue]]
+speaker = "ルヴィネ"
+original = "「…………」"
+translation = "「…………」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ルヴィネはタブレット端末を手に、１人黙々と星徒会業務をこなしていた。"
+translation = "루비네는 태블릿 단말기를 손에 들고, 혼자 묵묵히 성도회 업무를 처리하고 있었다."
+
+[[dialogue]]
+speaker = "unk"
+original = "しかし気配に気付き、後ろを振り返る。"
+translation = "하지만 기척을 느끼고 뒤를 돌아본다."
+
+[[dialogue]]
+speaker = "ルヴィネ"
+original = "「何か用？」"
+translation = "「무슨 용건이지?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "その視線の先には──"
+translation = "그 시선 끝에는──"
+
+[[dialogue]]
+speaker = "ジグ"
+original = "「おや、せっかく顔を出したのに冷たいじゃないか。目的を同じくする仲間だろう？」"
+translation = "「이런, 공들여 얼굴을 비췄는데 너무 차갑지 않은가. 목적을 같이하는 동료잖아?」"
+
+[[dialogue]]
+speaker = "ルヴィネ"
+original = "「あなたを仲間だと思ったことはないわ。それに仮面をしているから顔は出してないじゃない」"
+translation = "「당신을 동료라고 생각한 적은 없어. 게다가 가면을 쓰고 있으니 얼굴을 비춘 것도 아니잖아」"
+
+[[dialogue]]
+speaker = "ジグ"
+original = "「はは、確かに。これは一本取られた」"
+translation = "「하하, 확실히. 이거 한 방 먹었군」"
+
+[[dialogue]]
+speaker = "ルヴィネ"
+original = "「あなたを呼んだ覚えはない。ここは極星学園の星徒会室。部外者の立ち入りは遠慮してもらってるわ」"
+translation = "「당신을 부른 기억은 없어. 여기는 극성학원의 성도회실. 외부인의 출입은 삼가 주었으면 하는데」"
+
+[[dialogue]]
+speaker = "ジグ"
+original = "「手厳しいね。では改めて入室の許可をいただけるかな、星徒会長さん？」"
+translation = "「엄격하군. 그럼 다시 입실 허가를 받을 수 있을까, 성도회장님?」"
+
+[[dialogue]]
+speaker = "ルヴィネ"
+original = "「はぁ、断ると言っても、大人しく立ち去る気はないんでしょう。好きにしなさい」"
+translation = "「하아, 거절한다고 해도 순순히 물러날 생각은 없겠지. 마음대로 해」"
+
+[[dialogue]]
+speaker = "ジグ"
+original = "「ふふ。ありがとう」"
+translation = "「후후. 고마워」"
+
+[[dialogue]]
+speaker = "unk"
+original = "リクリエによる再創世を目指す──ジグの言う通り、その目的は一致しているはずだが、ルヴィネの反応は冷たい。"
+translation = "리크리에를 통한 재창세를 목표로 한다── 지그의 말대로 그 목적은 일치할 터였으나, 루비네의 반응은 차갑다."
+
+[[dialogue]]
+speaker = "unk"
+original = "だがジグは、そのつれない態度すら楽しむように軽薄に笑う。"
+translation = "하지만 지그는 그 무정한 태도조차 즐기는 듯 경박하게 웃는다."
+
+[[dialogue]]
+speaker = "ジグ"
+original = "「そういえば、アルタイルから飛ばされた魔王たちがデネブに来ていたそうだね」"
+translation = "「그러고 보니, 알타이르에서 날려 보내진 마왕 일행이 데네브에 왔었다더군」"
+
+[[dialogue]]
+speaker = "ルヴィネ"
+original = "「ええ。だけど取り逃がしてしまったわ。我ながら失態ね」"
+translation = "「그래. 하지만 놓쳐버렸어. 나답지 않은 실책이야」"
+
+[[dialogue]]
+speaker = "ジグ"
+original = "「私はそこまでは言っていないよ？」"
+translation = "「나는 거기까지 말하진 않았네만?」"
+
+[[dialogue]]
+speaker = "ルヴィネ"
+original = "「どうだか。私を<ruby>詰<rt>なじ</rt></ruby>りに来たんじゃないの」"
+translation = "「글쎄. 나를 비난하러 온 거 아니었어?」"
+
+[[dialogue]]
+speaker = "ルヴィネ"
+original = "「それに魔王たちは私の正体ばかりか、創造神の存在まで知ってしまった。<ruby>旧世代の女神<rt>テルル</rt></ruby>が余計なことをするから」"
+translation = "「게다가 마왕 일행은 내 정체뿐만 아니라, 창조신의 존재까지 알아버렸어. <ruby>구세대의 여신<rt>테루루</rt></ruby>이 쓸데없는 짓을 하는 바람에」"
+
+[[dialogue]]
+speaker = "ルヴィネ"
+original = "「そうそう。魔王たちは創造神を『<ruby>ＸＥＬＯＳ<rt>ゼロス</rt></ruby>』と名付けていたわ」"
+translation = "「맞아. 마왕 일행은 창조신을 『<ruby>ＸＥＬＯＳ<rt>제로스</rt></ruby>』라고 이름 붙였더군」"
+
+[[dialogue]]
+speaker = "ルヴィネ"
+original = "「あなたは“神の騎士”を名乗っているから、一応伝えておくわね」"
+translation = "「당신은 “신의 기사”를 자처하고 있으니, 일단 전해두지」"
+
+[[dialogue]]
+speaker = "ジグ"
+original = "「我が神に名を……？\u3000人間風情が神に名前を付けるなんて不敬だよ。存在を認識することすら分不相応だ」"
+translation = "「우리 신에게 이름을……? 인간 따위가 신에게 이름을 붙이다니 불경하군. 존재를 인식하는 것조차 분수에 넘치는 일이다」"
+
+[[dialogue]]
+speaker = "ジグ"
+original = "「ああ、もちろん君は別だよ。君は創造神自らが生み出した、新たな女神なのだから」"
+translation = "「아아, 물론 너는 예외야. 너는 창조신께서 직접 낳으신 새로운 여신이니까」"
+
+[[dialogue]]
+speaker = "ルヴィネ"
+original = "「あっそう。別にあなたの許しなんて欲しくないのだけど」"
+translation = "「아 그래. 딱히 당신의 허락 따윈 필요 없는데」"
+
+[[dialogue]]
+speaker = "ジグ"
+original = "「ところで、君以外の星徒会役員はどうしたんだい？\u3000せっかく広い星徒会室なのに、君１人のようだが」"
+translation = "「그런데, 너 말고 다른 성도회 임원들은 어찌 된 거지? 모처럼 넓은 성도회실인데 너 혼자인 것 같군」"
+
+[[dialogue]]
+speaker = "ルヴィネ"
+original = "「レティシアとグレイスなら、アルタイルの天界で作戦中よ。女神の神殿を破壊すれば、アルタイルの天使は全て消滅する」"
+translation = "「레티시아와 그레이스라면 알타이르의 천계에서 작전 중이야. 여신의 신전을 파괴하면 알타이르의 천사는 모두 소멸해」"
+
+[[dialogue]]
+speaker = "ジグ"
+original = "「そうなればアルタイルの敗北は必至──ということか。面白いことを考えるね」"
+translation = "「그렇게 되면 알타이르의 패배는 필연──이라는 건가. 재미있는 생각을 하는군」"
+
+[[dialogue]]
+speaker = "ジグ"
+original = "（……なるほど、それは使えそうだ）"
+translation = "（……과연, 그건 써먹을 수 있겠어）"
+
+[[dialogue]]
+speaker = "ジグ"
+original = "「しかし君はアルタイルに行かなくていいのかい？」"
+translation = "「하지만 너는 알타이르에 가지 않아도 괜찮은 건가?」"
+
+[[dialogue]]
+speaker = "ルヴィネ"
+original = "「ディザスターハンドを制御する必要がある以上、私はデネブを離れることはできない」"
+translation = "「디재스터 핸드를 제어해야 하는 이상, 나는 데네브를 떠날 수 없어」"
+
+[[dialogue]]
+speaker = "ルヴィネ"
+original = "「それに平行世界を超える転送装置は、ディザスターハンドの力を抽出して作成したもの。そう簡単には用意できないわ」"
+translation = "「게다가 평행세계를 넘는 전송 장치는 디재스터 핸드의 힘을 추출해서 만든 것. 그렇게 간단히 준비할 수 있는 게 아니야」"
+
+[[dialogue]]
+speaker = "ジグ"
+original = "「ふ～ん。具体的にはいくつあるんだい？」"
+translation = "「흐음. 구체적으로는 몇 개나 있지?」"
+
+[[dialogue]]
+speaker = "ルヴィネ"
+original = "「…………今のところ、製造に成功した転送装置は２つだけ」"
+translation = "「…………지금으로선 제조에 성공한 전송 장치는 두 개뿐이야」"
+
+[[dialogue]]
+speaker = "ルヴィネ"
+original = "「１つは先日のチナのアルタイル侵攻時に使わせたもの。けれど、これは消失している可能性が高いわ」"
+translation = "「하나는 요전번 치나의 알타이르 침공 때 사용하게 했어. 하지만 이건 소실되었을 가능성이 커」"
+
+[[dialogue]]
+speaker = "ルヴィネ"
+original = "「最後の１つは、今回の作戦でグレイスに持たせたもの。３つ目は作っている途中だけれど、まだ完成の目途が立っていないの」"
+translation = "「마지막 하나는 이번 작전에서 그레이스에게 들려 보냈지. 세 번째는 만드는 중이지만 아직 완성될 기미가 보이지 않아」"
+
+[[dialogue]]
+speaker = "ジグ"
+original = "「なるほど。それならデネブから動けないのも仕方ない」"
+translation = "「과연. 그렇다면 데네브에서 움직이지 못하는 것도 어쩔 수 없군」"
+
+[[dialogue]]
+speaker = "ジグ"
+original = "「一応確認しておくけど、アルタイルを滅ぼした後は、今度こそデネブでリクリエを起こすんだよね？」"
+translation = "「일단 확인해두겠는데, 알타이르를 멸망시킨 후에는 이번에야말로 데네브에서 리크리에를 일으키는 거지?」"
+
+[[dialogue]]
+speaker = "ルヴィネ"
+original = "「ええ、もちろん。それが新たな女神たる私の役目なのだから」"
+translation = "「그래, 물론이지. 그것이 새로운 여신인 나의 역할이니까」"
+
+[[dialogue]]
+speaker = "ジグ"
+original = "「……そうだよね。うん、それを聞いて安心したよ」"
+translation = "「……그렇겠지. 응, 그 말을 들으니 안심이 되는군」"
+
+[[dialogue]]
+speaker = "ジグ"
+original = "「いやぁ、もしかするとデネブに愛着が湧いて役割を放棄してしまわないかと思ったけど、杞憂だったようだ。疑ってごめんよ」"
+translation = "「아니, 혹시나 데네브에 애착이 생겨서 역할을 포기해버리지 않을까 생각했다만, 기우였던 모양이야. 의심해서 미안하군」"
+
+[[dialogue]]
+speaker = "ルヴィネ"
+original = "「謝っているようには聞こえないのだけれど……まぁいいわ。でもあなたこそどうなのかしら？」"
+translation = "「사과하는 것처럼 들리지는 않지만…… 뭐 됐어. 하지만 당신이야말로 어떤 거지?」"
+
+[[dialogue]]
+speaker = "ジグ"
+original = "「私がベガで新星学園の星徒会長をしていたことを言っているのかい？」"
+translation = "「내가 베가에서 신성학원의 성도회장을 맡았던 걸 말하는 건가?」"
+
+[[dialogue]]
+speaker = "ジグ"
+original = "「なら心配はいらないよ。あの頃の記憶を取り戻しはしたが、今の私にとっては意味のないものだ」"
+translation = "「그렇다면 걱정할 것 없어. 그때의 기억을 되찾기는 했지만, 지금의 내게는 의미 없는 것들이다」"
+
+[[dialogue]]
+speaker = "ルヴィネ"
+original = "「記憶を取り戻したあなたに、本当に『リクリエの使徒』の役目が果たせるの？」"
+translation = "「기억을 되찾은 당신이 정말로 『리크리에의 사도』의 역할을 다할 수 있겠어?」"
+
+[[dialogue]]
+speaker = "ジグ"
+original = "「無論だとも」"
+translation = "「물론이고말고」"
+
+[[dialogue]]
+speaker = "ジグ"
+original = "「ベガの星騎士、レナーテ・<ruby>Ｚ<rt>ジグ</rt></ruby>・サイフリートはとうに死んだ。私はジグ。“真なる神の騎士”だ」"
+translation = "「베가의 성기사, 레나테·<ruby>Ｚ<rt>지그</rt></ruby>·자이프리트는 이미 죽었다. 나는 지그. “진정한 신의 기사”다」"
+
+[[dialogue]]
+speaker = "ルヴィネ"
+original = "「同じベガの星騎士──梨緒・<ruby>Ａ<rt>アガサ</rt></ruby>・クリステレスのことは気にならないと？」"
+translation = "「같은 베가의 성기사── 리오·<ruby>Ａ<rt>아가사</rt></ruby>·크리스테레스의 일은 신경 쓰이지 않는다는 건가?」"
+
+[[dialogue]]
+speaker = "ジグ"
+original = "「ああ。彼女がどこで何をしようが気にならないよ。どこかで野垂れ死にしてくれていい」"
+translation = "「아아. 그녀가 어디서 무엇을 하든 신경 쓰지 않아. 어디선가 길바닥에서 죽어버려도 상관없지」"
+
+[[dialogue]]
+speaker = "ルヴィネ"
+original = "「……そう」"
+translation = "「……그래」"
+
+[[dialogue]]
+speaker = "ジグ"
+original = "「アルタイルの天界襲撃、成功するといいね。じゃあ私はこれで」"
+translation = "「알타이르의 천계 습격, 성공하길 빌지. 그럼 난 이만」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ジグはわざとらしい笑みを作ると、軽く手を振ってどこかへと消えていった。"
+translation = "지그는 작위적인 미소를 지으며 가볍게 손을 흔들고는 어딘가로 사라졌다."
+
+[[dialogue]]
+speaker = "ルヴィネ"
+original = "「はぁ……ようやく行ったわね」"
+translation = "「하아…… 드디어 갔네」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ジグが去った跡を、忌々しそうに見つめるルヴィネ。"
+translation = "지그가 떠난 자리를 불쾌한 듯이 노려보는 루비네."
+
+[[dialogue]]
+speaker = "ルヴィネ"
+original = "「私は私の計画を進めるとしましょう」"
+translation = "「나는 내 계획을 진행하도록 할까」"
+
+[[dialogue]]
+speaker = "unk"
+original = "そして作業していたタブレットを置き、ルヴィネもまた星徒会室を後にした。"
+translation = "그리고 작업하던 태블릿을 내려놓고 루비네 또한 성도회실을 나섰다."
+

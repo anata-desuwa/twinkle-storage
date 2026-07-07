@@ -1,0 +1,165 @@
+[[dialogue]]
+speaker = "unk"
+original = "大聖堂の怪盗事件があった、２日後。"
+translation = "대성당 괴도 사건이 있은 지 이틀 뒤."
+
+[[dialogue]]
+speaker = "unk"
+original = "俺は日常に戻り、星徒会室で書類仕事をしていたのだが――"
+translation = "나는 일상으로 돌아와 성도회실에서 서류 업무를 하고 있었는데──"
+
+[[dialogue]]
+speaker = "ミネコ"
+original = "「やっほ～♪\u3000おはよう、会長♪」"
+translation = "「얏호~♪ 안녕, 회장♪」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ミネコ！？"
+translation = "미네코!?"
+
+[[dialogue]]
+speaker = "unk"
+original = "以前と変わらぬ、人懐っこい笑顔で現れた彼女に、俺は思わず席から立ち上がる。"
+translation = "이전과 다름없는 싹싹한 미소로 나타난 그녀에게 나는 나도 모르게 자리에서 일어난다."
+
+[[dialogue]]
+speaker = "ミネコ"
+original = "「うん。また来ちゃった♪」"
+translation = "「응. 또 왔어♪」"
+
+[[dialogue]]
+speaker = "unk"
+original = "昨日、ジュエリーからミネコが欠席して、学園へ来ていないことを伝えられていた。"
+translation = "어제 주얼리에게서 미네코가 결석해서 학원에 오지 않았다는 이야기를 들었었다."
+
+[[dialogue]]
+speaker = "unk"
+original = "それで、俺はもう、ミネコが再び学園に通うことはないのかもと、少し寂しい気持ちになったりもしたのだが……"
+translation = "그래서 나는 이제 미네코가 다시 학원에 다니는 일은 없을지도 모른다며 조금 쓸쓸한 기분이 들기도 했었지만……"
+
+[[dialogue]]
+speaker = "ミネコ"
+original = "「あはは♪\u3000大聖堂から逃げた後さ～、さすがに私も疲労困憊で、昨日は１日休むことにしたんだよね～」"
+translation = "「아하하♪ 대성당에서 도망친 뒤에 말야~ 역시 나도 피로곤비해서 어제는 하루 쉬기로 했거든~」"
+
+[[dialogue]]
+speaker = "ミネコ"
+original = "「で、休みながら今後のことを色々考えたりもして……決めたんだ」"
+translation = "「그래서 쉬면서 앞으로의 일을 이것저것 생각하기도 하고…… 결정했어.」"
+
+[[dialogue]]
+speaker = "ミネコ"
+original = "「私、このまましばらく、学園に残ろうと思うの！」"
+translation = "「나, 이대로 당분간 학원에 남기로 했어!」"
+
+[[dialogue]]
+speaker = "ミネコ"
+original = "「ジュエリーの話を聞いて、会長にもっと興味が湧いたからね♪」"
+translation = "「주얼리의 이야기를 듣고 회장에게 더 흥미가 생겼으니까♪」"
+
+[[dialogue]]
+speaker = "unk"
+original = "俺に……？"
+translation = "나에게……?"
+
+[[dialogue]]
+speaker = "ミネコ"
+original = "「うん♪\u3000ジュエリーの言う『愛』ってやつ、私もちょっと知りたくなっちゃった♪」"
+translation = "「응♪ 주얼리가 말하는 『사랑』이라는 거, 나도 좀 알고 싶어졌거든♪」"
+
+[[dialogue]]
+speaker = "ミネコ"
+original = "「だ・か・ら」"
+translation = "「그·러·니·까」"
+
+[[dialogue]]
+speaker = "unk"
+original = "彼女は猫のようにするりと席を回り込んで俺の前まで来ると、上目遣いで見上げて来て──"
+translation = "그녀는 고양이처럼 스르륵 자리를 돌아 내 앞까지 오더니, 치켜뜬 눈으로 올려다보며──"
+
+[[dialogue]]
+speaker = "ミネコ"
+original = "「それなら会長から教わるのが、一番楽しいかな～って♪\u3000ふふっ<emoji=heart04>」"
+translation = "「그렇다면 회장에게 배우는 게 가장 즐거울 것 같아서 말야~♪ 후훗♥」"
+
+[[dialogue]]
+speaker = "ジュエリー"
+original = "「無駄だよ、ミネコ」"
+translation = "「무다다, 미네코.」"
+
+[[dialogue]]
+speaker = "ミネコ"
+original = "「おっと、ジュエリー、いつの間に……」"
+translation = "「오옷, 주얼리, 어느 사이에…….」"
+
+[[dialogue]]
+speaker = "ジュエリー"
+original = "「選星者の能力で、星徒会室に何かが起こりそうな予感がしたのさ」"
+translation = "「선성자의 능력으로 성도회실에 무언가 일어날 것 같은 예감이 들었거든.」"
+
+[[dialogue]]
+speaker = "ジュエリー"
+original = "「来てみれば、キミが部屋の中へ入って行く姿が見えたというわけだ」"
+translation = "「와 보니 네가 방 안으로 들어가는 모습이 보였다는 거지.」"
+
+[[dialogue]]
+speaker = "ミネコ"
+original = "「ありゃりゃ、こんな時まで発動するだなんて、つくづく厄介な能力だこと」"
+translation = "「아구구, 이런 때까지 발동하다니 정말 성가신 능력이네.」"
+
+[[dialogue]]
+speaker = "ジュエリー"
+original = "「ふふっ、助手との愛の絆を舐めてもらっては困る。仮に能力が発動しなくとも、助手がキミ側に付くことはないと断言できるよ」"
+translation = "「후훗, 조수와의 사랑의 유대를 우습게 봐서는 곤란해. 설령 능력이 발동하지 않더라도 조수가 네 편에 서는 일은 없다고 단언할 수 있어.」"
+
+[[dialogue]]
+speaker = "ミネコ"
+original = "「ふふっ、そうだね～。でも――」"
+translation = "「후훗, 그렇네~. 하지만──」"
+
+[[dialogue]]
+speaker = "ミネコ"
+original = "「あいにく、私は難易度が高い方が燃えるタチでね♪」"
+translation = "「불행히도 나는 난이도가 높을수록 불타오르는 성미라서 말야♪」"
+
+[[dialogue]]
+speaker = "ジュエリー"
+original = "「そうか。だが、キミが怪盗を続けようとする限り、私は必ず証拠を掴んで、キミを捕まえてみせる」"
+translation = "「그러냐. 하지만 네가 괴도 짓을 계속하려 하는 한, 나는 반드시 증거를 잡아 너를 붙잡아 보이겠어.」"
+
+[[dialogue]]
+speaker = "ジュエリー"
+original = "「何より――」"
+translation = "「무엇보다──」"
+
+[[dialogue]]
+speaker = "ジュエリー"
+original = "「どんな物語も、最後には愛が勝つものだからね」"
+translation = "「어떤 이야기든 결국에는 사랑이 이기는 법이니까.」"
+
+[[dialogue]]
+speaker = "ミネコ"
+original = "「ふふっ♪\u3000そそるね～♪」"
+translation = "「후훗♪ 구미가 당기는걸~♪」"
+
+[[dialogue]]
+speaker = "ミネコ"
+original = "「でもさ、私ってば怪盗なんだよね。だから――」"
+translation = "「하지만 말야, 난 괴도거든. 그러니까──」"
+
+[[dialogue]]
+speaker = "ミネコ"
+original = "「最後に愛が勝つのなら、その愛を盗ませてもらうとするよ♪」"
+translation = "「결국 사랑이 이긴다면, 그 사랑을 훔쳐 가기로 할게♪」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ミネコはそう言って、最初に出会った時のように、不敵に微笑む。"
+translation = "미네코는 그렇게 말하고 처음 만났을 때처럼 대담하게 미소 짓는다."
+
+[[dialogue]]
+speaker = "unk"
+original = "どうやら探偵と怪盗の戦いは、これからも学園で続いて行くらしかった――"
+translation = "아무래도 탐정과 괴도의 싸움은 앞으로도 학원에서 계속될 모양이었다──"
+

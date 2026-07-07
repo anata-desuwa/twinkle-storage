@@ -1,0 +1,180 @@
+[[dialogue]]
+speaker = "unk"
+original = "そして、ついに――"
+translation = "그리고 마침내──"
+
+[[dialogue]]
+speaker = "アラクネ"
+original = "「――――っ！！」"
+translation = "「──────윽!!」"
+
+[[dialogue]]
+speaker = "オムニス"
+original = "「や、やった……！」"
+translation = "「해, 해냈다……!」"
+
+[[dialogue]]
+speaker = "いろは"
+original = "「全部倒した～～っ！！」"
+translation = "「전부 쓰러뜨렸다~~!!」"
+
+[[dialogue]]
+speaker = "花織"
+original = "「やった～～っ！！」"
+translation = "「해냈어~~!!」"
+
+[[dialogue]]
+speaker = "ここあ"
+original = "「いぇ～い☆\u3000勝ったぁ～っ♪」"
+translation = "「예~이☆ 이겼다~♪」"
+
+[[dialogue]]
+speaker = "unk"
+original = "魔法少女たちは目の前に立ち塞がっていた最後の１体を倒し、悪魔討伐を果たすことに成功した。"
+translation = "마법 소녀들은 눈앞을 가로막고 있던 마지막 한 마리를 쓰러뜨리고 악마 토벌을 완수하는 데 성공했다."
+
+[[dialogue]]
+speaker = "陽彩"
+original = "「ふぅ……少なくともこの辺りにいたアラクネは全て倒し切ったようだ。これでひとまずは安心だな……」"
+translation = "「후우…… 적어도 이 근처에 있던 아라크네는 전부 쓰러뜨린 모양이군. 이걸로 일단은 안심이다……」"
+
+[[dialogue]]
+speaker = "オムニス"
+original = "「みんな、お疲れ様！\u3000陽彩もすごかったぞ！」"
+translation = "「얘들아, 수고했어! 아키사도 대단했다고!」"
+
+[[dialogue]]
+speaker = "陽彩"
+original = "「ああ。皮肉にも、向こうの世界やみんなに迷惑をかけた力があったからこそ、状況を打開することができた……」"
+translation = "「아아. 아이러니하게도 저쪽 세계나 모두에게 폐를 끼쳤던 힘이 있었기에 상황을 타개할 수 있었어……」"
+
+[[dialogue]]
+speaker = "陽彩"
+original = "「これだけで、ぼくのやったことの罪滅ぼしになったとは思わないが……」"
+translation = "「이것만으로 내가 저지른 일의 속죄가 된다고는 생각하지 않지만……」"
+
+[[dialogue]]
+speaker = "いろは"
+original = "「そんなことないよ！\u3000陽彩ちゃん、ピンチを助けてくれて、ありがと～♪」"
+translation = "「그렇지 않아! 아키사짱, 위기에서 구해줘서 고마워~♪」"
+
+[[dialogue]]
+speaker = "陽彩"
+original = "「わっ！？\u3000い、いろは、いきなり抱き着いてきたら驚くだろう！」"
+translation = "「왓!? 이, 이로하, 갑자기 껴안으면 놀라잖아!」"
+
+[[dialogue]]
+speaker = "いろは"
+original = "「感謝の気持ちを伝えたかったから♪\u3000本当に陽彩ちゃんのお陰なんだから、貸し借りなし！\u3000今回のことは気にしないで！」"
+translation = "「감사한 마음을 전하고 싶었으니까♪ 정말로 아키사짱 덕분이니까 비긴 걸로 쳐! 이번 일은 신경 쓰지 마!」"
+
+[[dialogue]]
+speaker = "陽彩"
+original = "「そうは言っても……周りに大きな迷惑をかけたって思うと、やっぱり落ち込むんだ……」"
+translation = "「그렇게 말해도…… 주변에 큰 폐를 끼쳤다고 생각하면 역시 우울해져……」"
+
+[[dialogue]]
+speaker = "いろは"
+original = "「う～ん、でもさ、もし逆の立場だったら、陽彩ちゃんだって助けてくれようとするでしょ？」"
+translation = "「으음, 하지만 말이야, 만약 반대 입장이었다면 아키사짱도 도와주려고 했을 거잖아?」"
+
+[[dialogue]]
+speaker = "いろは"
+original = "「あたしが悪魔に寄生されて、異世界に飛び出しちゃった～……ってなったらさ！」"
+translation = "「내가 악마에게 기생당해서 이세계로 튀어나가 버렸다~…… 같이 되면 말이야!」"
+
+[[dialogue]]
+speaker = "陽彩"
+original = "「それは、まぁ…………友達だし」"
+translation = "「그건 뭐………… 친구니까」"
+
+[[dialogue]]
+speaker = "いろは"
+original = "「だから、こういうのお互い様だよ！\u3000あたしが、もしもこの先――」"
+translation = "「그러니까 이런 건 서로 돕는 거야! 내가 만약 앞으로──」"
+
+[[dialogue]]
+speaker = "いろは"
+original = "「同じように悪魔になっちゃったりしたら、今度は陽彩ちゃんが助けにきてよ！\u3000もちろん、ここにゃんや――カオリンもね♪」"
+translation = "「똑같이 악마가 되어버리거나 하면, 그때는 아키사짱이 구하러 와줘! 물론 코코냥이랑── 카오링도 말이야♪」"
+
+[[dialogue]]
+speaker = "花織"
+original = "「あのねぇ……せっかく勝ったんだから、縁起でもないこと言わないでよ～」"
+translation = "「얘는 참…… 어렵게 이겼는데 재수 없는 소리 하지 마~」"
+
+[[dialogue]]
+speaker = "いろは"
+original = "「あははっ♪\u3000ごめ～ん！」"
+translation = "「아하하♪ 미안~!」"
+
+[[dialogue]]
+speaker = "ここあ"
+original = "「にゃははっ☆\u3000いろはすなら、闇落ちしかけても気合いでなんとかちゃいそうだけどね～」"
+translation = "「냐하하☆ 이로하스라면 타락할 뻔해도 기합으로 어떻게든 해버릴 것 같지만 말이야~」"
+
+[[dialogue]]
+speaker = "陽彩"
+original = "「あ～……その、あれだ……」"
+translation = "「아~…… 그, 저기 말이다……」"
+
+[[dialogue]]
+speaker = "いろは"
+original = "「ん？\u3000陽彩ちゃん、どうかした？」"
+translation = "「응? 아키사짱, 왜 그래?」"
+
+[[dialogue]]
+speaker = "陽彩"
+original = "「ぼくはいろはみたいに人付き合いが得意じゃないから、上手く言えていなかった気がするんだけど……」"
+translation = "「나는 이로하처럼 사람 대하는 게 능숙하지 않아서 제대로 말하지 못했던 것 같은데……」"
+
+[[dialogue]]
+speaker = "陽彩"
+original = "「今回の件は、本当にみんなに迷惑をかけた……すまないっ。あと――」"
+translation = "「이번 일은 정말 모두에게 폐를 끼쳤다…… 미안하다. 그리고──」"
+
+[[dialogue]]
+speaker = "陽彩"
+original = "「助けに来てくれて……ありがとう。本当に、感謝してる」"
+translation = "「구하러 와줘서…… 고마워. 정말로 감사하고 있어」"
+
+[[dialogue]]
+speaker = "いろは"
+original = "「うんっ、どういたしまして♪」"
+translation = "「응, 천만에♪」"
+
+[[dialogue]]
+speaker = "花織"
+original = "「陽彩ちゃんが無事でよかったよ！」"
+translation = "「아키사짱이 무사해서 다행이야!」"
+
+[[dialogue]]
+speaker = "ここあ"
+original = "「終わり良ければすべて良しってね☆」"
+translation = "「끝이 좋으면 다 좋은 거지☆」"
+
+[[dialogue]]
+speaker = "ここあ"
+original = "「それじゃ、ここあたちの世界に帰ろう♪\u3000他のみんなもきっと、寂しがってるんじゃないかにゃ～？」"
+translation = "「그럼 코코아들의 세계로 돌아가자♪ 다른 애들도 분명 외로워하고 있지 않을까냥~?」"
+
+[[dialogue]]
+speaker = "オムニス"
+original = "「そうだな。帰ろう、陽彩！」"
+translation = "「그래. 돌아가자, 아키사!」"
+
+[[dialogue]]
+speaker = "陽彩"
+original = "「ああ。道中にまだ悪魔が残っている可能性もあるから、気を付けて帰ろう」"
+translation = "「아아. 도중에 아직 악마가 남아있을 가능성도 있으니 조심해서 돌아가자」"
+
+[[dialogue]]
+speaker = "いろは"
+original = "「よ～し、それじゃあ改めて、みんなで仲良く、しゅっぱ～つ♪」"
+translation = "「조~아, 그럼 다시 한번 다 같이 사이좋게, 출바~알♪」"
+
+[[dialogue]]
+speaker = "unk"
+original = "こうして、陽彩は明るい表情を取り戻して、友達と共に元の世界へと帰って行くのだった。"
+translation = "이렇게 해서 아키사는 밝은 표정을 되찾고, 친구와 함께 원래 세계로 돌아가는 것이었다."
+

@@ -1,0 +1,295 @@
+[[dialogue]]
+speaker = "unk"
+original = "第５話,マトイＶＳヴィーナス,B"
+translation = "제5화 마토이 VS 비너스 B"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "『う～～～ん』"
+translation = "『으으으음』"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "『どうしたんです、ヴィーナス会長』"
+translation = "『왜 그러세요, 비너스 회장님.』"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "『まだ足りないわ！』"
+translation = "『아직 부족해!』"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "『希望通りに花火大会までやるのに、まだ足りないんですか？\u3000十分に満足してもらえると思いますけど』"
+translation = "『원하시는 대로 불꽃놀이 대회까지 했는데 아직도 부족한가요? 충분히 만족하셨을 거라 생각하는데요.』"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "『血沸き肉躍るサーカスがないじゃない！』"
+translation = "『피가 끓고 살이 떨리는 서커스가 없잖아!』"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "『そうだわ！\u3000マトイ、私と戦ってちょうだい！』"
+translation = "『그렇지! 마토이, 나랑 싸워줘!』"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "『えーっ！？\u3000模擬戦がサーカス代わりですか！？』"
+translation = "『에엣!? 모의전이 서커스 대신인가요!?』"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「この模擬戦は私、星徒会副会長兼会計の奏サーシャが取り仕切らせてもらいま～す」"
+translation = "「이 모의전은 저, 성도회 부회장 겸 회계인 카나데 사샤가 진행하도록 하겠어요~」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「ヴィーナスちゃんＶＳマトイちゃん。星徒会役員同士のドリームマッチ、見逃しちゃダメダメよ～」"
+translation = "「비너스짱 VS 마토이짱. 성도회 임원끼리의 드림 매치, 절대 놓치면 안 돼요~」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「いざ尋常に～……スタ～ト！」"
+translation = "「정정당당하게~…… 스타~트!」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「行くわよ、マトイ！」"
+translation = "「간다, 마토이!」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「胸を借りるつもりで……行きます！」"
+translation = "「한 수 배운다는 생각으로…… 가겠습니다!」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「おっぱいをもぎ取るつもりで来なさい！」"
+translation = "「가슴을 뜯어내겠다는 기세로 오렴!」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「新入生たちの前で、何言ってるんです！？」"
+translation = "「신입생들 앞에서 무슨 소릴 하시는 거예요!?」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「ディバインスフィア！」"
+translation = "「디바인 스피어!」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「ぐうっ！？」"
+translation = "「구우윽!?」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "（攻撃を盾で防ぐたびに、腕にとんでもない負荷がかかってる）"
+translation = "(공격을 방패로 막을 때마다 팔에 엄청난 부하가 걸리고 있어.)"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "（あんなに軽やかに放たれてる星術なのに、一発一発がハンマーで思いっきり殴られているみたいに重いっ！）"
+translation = "(저렇게 가볍게 쏘는 성술인데도, 한 발 한 발이 망치로 힘껏 얻어맞는 것처럼 무거워!)"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「守ってるだけじゃ、私は倒せないわよ！」"
+translation = "「방어만 해서는 나를 쓰러뜨릴 수 없어!」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「つけ入る隙くらい、見せてくださいよ！」"
+translation = "「파고들 틈이라도 좀 보여달라고요!」"
+
+[[dialogue]]
+speaker = "新入生Ａ"
+original = "「ヴィーナス先輩の息をもつかせぬ攻撃、素敵……！\u3000まるで踊っているようだわ！」"
+translation = "「비너스 선배의 쉴 틈 없는 공격, 멋져……! 마치 춤을 추는 것 같아!」"
+
+[[dialogue]]
+speaker = "新入生Ｂ"
+original = "「あのヴィーナス先輩の攻撃を受け止めてる人だって……えっと、マトイさんだっけ？\u3000彼女も、すごいよ！」"
+translation = "「저 비너스 선배의 공격을 받아내고 있는 사람도…… 그러니까, 마토이 씨였나? 그녀도 대단해!」"
+
+[[dialogue]]
+speaker = "新入生Ａ"
+original = "「どっちもがんばってー！」"
+translation = "「둘 다 힘내라!」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「いいわよ、マトイ！\u3000私たち、注目の的よ！」"
+translation = "「좋아, 마토이! 우리 주목받고 있어!」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「そうですね。新入生歓迎会は大成功です！\u3000良かったですねー！」"
+translation = "「그러게요. 신입생 환영회는 대성공이네요! 다행이에요!」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「まだまだ、これからよ！\u3000もっともーっと盛り上げていくんだから！」"
+translation = "「아직 멀었어! 더욱더 분위기를 띄울 거니까!」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「もう支えてるだけで精いっぱいなんですってばぁっ！」"
+translation = "「전 버티는 것만으로도 벅차다니까요!」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "（でも……ヴィーナス会長の攻撃のリズムは掴めてきた）"
+translation = "(하지만…… 비너스 회장의 공격 리듬이 파악되기 시작했어.)"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "（次の次──右から４発、左から３発の光弾が放たれた後、わずかに下方向に抜ける隙間ができるはず）"
+translation = "(다음 다음── 오른쪽에서 4발, 왼쪽에서 3발의 광탄이 발사된 후, 아주 약간 아래쪽으로 빠지는 틈이 생길 거야.)"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "（狙うなら、そのタイミング。体を屈めて、一気に距離を詰めて反撃を──）"
+translation = "(노린다면 그때야. 몸을 숙여서 단숨에 거리를 좁히고 반격을──)"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「よーし、そろそろクライマックスね！\u3000パワーＭＡＸで行っくわよー！\u3000準備はいいわね、マトイっ？」"
+translation = "「좋아, 슬슬 클라이맥스네! 파워 MAX로 간다아! 준비됐지, 마토이?」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「ウソッ！？\u3000まだここからギアを上げるつもりなの！？」"
+translation = "「거짓말!? 여기서 기어를 더 올릴 생각인가요!?」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「シャーイニングぅ……ゴッデスぅ──」"
+translation = "「샤이닝…… 가디스──」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「──ビーーーーーィンムゥゥゥッ！！！」"
+translation = "「──비이이이이임!!!」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「ぐぅううぅぅぅっ！！？」"
+translation = "「구우우우우욱!!?」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「はーっ、はーっ……！\u3000死ぬかと思った……！」"
+translation = "「하아, 하아……! 죽는 줄 알았네……!」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「おお……今のを止めた……？」"
+translation = "「오오…… 방금 그걸 막았어……?」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「さすがマトイ。それでこそ私の見込んだ星徒会役員だわ！」"
+translation = "「역시 마토이. 그래야 내가 점찍은 성도회 임원답지!」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「お褒めの言葉、ありがとうございます……！」"
+translation = "「칭찬해 주셔서 감사합니다……!」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "（直撃は避けたものの、盾の耐久力はギリギリ。受け止めただけで精いっぱい）"
+translation = "(직격은 피했지만 방패의 내구도는 한계야. 받아내는 것만으로도 온 힘을 다했어.)"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "（足腰はもうフラフラだし、手だってビリビリ痺れてるし、さすがにこれ以上は――）"
+translation = "(다리는 이미 후들거리고 손도 찌릿찌릿 저려와. 역시 더 이상은──)"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「は～い、ストップストッ～プ。ヴィーナスちゃん、ハッスルしすぎ～」"
+translation = "「자~아, 스톱 스토~옵. 비너스짱, 너무 흥분했어~」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「もう時間も押しちゃってるし～、２人とも決定的なダメージはないし………この勝負、引き分けってことでいいかしら～？」"
+translation = "「시간도 많이 지체됐고~, 둘 다 결정적인 대미지는 없으니까…… 이번 승부는 무승부로 하는 게 어떨까~?」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「はーい、ドローゲームね」"
+translation = "「그래, 드로우 게임이네.」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「異論なし、です……というか、止めてくれて助かりました……」"
+translation = "「이견 없습니다…… 그보다 말려주셔서 살았어요……」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "（助かった、のに……なんだろう、この気持ち……）"
+translation = "(살았는데…… 뭘까, 이 기분은……)"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "（引き分けにはしてもらったけど、今の勝負は誰の目から見ても勝者は明らかだった）"
+translation = "(무승부로 끝나긴 했지만, 이번 승부는 누가 봐도 승자가 명확했어.)"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "（あのままサーシャさんが止めることなく続いていたら、確実に私の負けだった……）"
+translation = "(이대로 사샤 씨가 멈추지 않고 계속되었다면 확실히 나의 패배였을 거야……)"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「こういうの、ドラマとか漫画でよくあるわよね」"
+translation = "「이런 거 드라마나 만화에서 자주 나오지.」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「……え？」"
+translation = "「……네?」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「言葉ではなく拳で語る熱い展開よ。戦うことでお互いを認め合い、ライバルになったりとか」"
+translation = "「말이 아니라 주먹으로 대화하는 뜨거운 전개 말이야. 싸우면서 서로를 인정하고 라이벌이 된다거나 하는 거.」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「少年漫画っぽいですね」"
+translation = "「소년 만화 같네요.」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「そ！\u3000これで私とマトイは、引き分けたライバルってことよ！」"
+translation = "「그렇지! 이걸로 나랑 마토이는 비긴 라이벌인 거야!」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「また今度、続きやりましょ！」"
+translation = "「다음에 또 이어서 하자!」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "２人で握手を交わすと、アリーナのボルテージがより一層上がる。"
+translation = "둘이서 악수를 나누자 경기장의 열기가 한층 더 고조되었다."
+
+[[dialogue]]
+speaker = "マトイ"
+original = "割れんばかりの喝采の声が、私の耳にもようやく届いた。"
+translation = "떠나갈 듯한 갈채 소리가 그제야 내 귀에도 닿았다."
+
+[[dialogue]]
+speaker = "マトイ"
+original = "正直、もうヴィーナス会長と戦うのは御免こうむりたい、という気持ちではある。"
+translation = "솔직히 이제 비너스 회장과 싸우는 건 사양하고 싶은 마음이다."
+
+[[dialogue]]
+speaker = "マトイ"
+original = "けれど少しだけ……力をつけて、もう一度挑んでみたい――そんな気持ちが心の隅に生まれていることも認めざるを得なかった。"
+translation = "하지만 아주 조금은…… 실력을 키워서 다시 한번 도전해 보고 싶다── 그런 마음이 마음 한구석에 생겨난 것도 인정할 수밖에 없었다."
+

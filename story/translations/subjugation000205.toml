@@ -1,0 +1,290 @@
+[[dialogue]]
+speaker = "unk"
+original = "合宿２日目。"
+translation = "합숙 2일째."
+
+[[dialogue]]
+speaker = "unk"
+original = "昨日と同じように、俺達はビーチの先にある森の中で、湧き水を汲んでいた。"
+translation = "어제와 마찬가지로 우리는 해변 끝에 있는 숲속에서 솟는 물을 긷고 있었다."
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「……よし、持ってきたペットボトルに全部入れ終わったわ。これで今日の分の飲み水は確保できたわね～」"
+translation = "「……좋아, 가져온 페트병에 다 채웠어. 이걸로 오늘 치 식수는 확보했네~」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「お２人共、ビーチに戻る前に私から提案があるのですが、よろしいでしょうか？」"
+translation = "「두 분 다, 해변으로 돌아가기 전에 제가 제안할 것이 있는데 괜찮을까요?」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「あら、アナちゃん、何かしら？」"
+translation = "「어머, 아나짱, 뭔데?」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「水汲みもひと段落しましたので、今日はついでに、この森の近くでレクリエーションをしたいと思っていまして……」"
+translation = "「물 긷기도 일단락되었으니, 오늘은 김에 이 숲 근처에서 레크리에이션을 하고 싶어서요……」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「レクリエーション？」"
+translation = "「레크리에이션?」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「イエス。せっかくの合宿ですし、夏の思い出作りに遊ぶのも良いかなと。いかがでしょう？」"
+translation = "「예스. 기왕 온 합숙이니, 여름의 추억 만들기로 노는 것도 좋지 않을까 해서요. 어떠신가요?」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「いいんじゃないかしら♪\u3000面白そうなことは大歓迎よ～」"
+translation = "「좋지 않을까♪ 재미있어 보이는 건 대환영이야~」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「――ふむ、会長もＯＫということで。それでは……」"
+translation = "「――흠, 회장도 OK라는 걸로. 그러면……」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「森で虫取りをしましょう」"
+translation = "「숲에서 곤충 채집을 하죠」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「えっ……む、虫？」"
+translation = "「엣…… 고, 곤충?」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「リゾート結界には虫は居なかったはずじゃ……？\u3000リップルちゃんから、快適さを優先して、虫は省いているって聞いてたけど……」"
+translation = "「리조트 결계에는 곤충이 없었을 텐데……? 리플짱한테 쾌적함을 우선해서 곤충은 제외했다고 들었는데……」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「だから私、前の合宿の時は安心して探検を……」"
+translation = "「그래서 나, 저번 합숙 때는 안심하고 탐험을……」"
+
+[[dialogue]]
+speaker = "unk"
+original = "確かに、見かけたことなかったな"
+translation = "확실히 본 적이 없었지."
+
+[[dialogue]]
+speaker = "アナ"
+original = "「その通りです。夏の風物詩とも言える蚊をはじめとして、基本的に虫の存在は省かれています」"
+translation = "「맞습니다. 여름의 풍물시라고 할 수 있는 모기를 비롯해서 기본적으로 곤충의 존재는 제외되어 있습니다」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「しかし今回、私の方から夏休みといえば虫取りだとリップルさんに力説して、特別に――」"
+translation = "「하지만 이번에 제가 여름방학 하면 곤충 채집이라고 리플 씨에게 역설해서 특별히――」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「カブトムシやクワガタが捕まえられる、虫取りエリアを作って貰ったのです……ふふふ」"
+translation = "「장수풍뎅이나 사슴벌레를 잡을 수 있는 곤충 채집 구역을 만들게 한 겁니다…… 후후후」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「えっと……もしかしてアナちゃん、虫が好きなの？」"
+translation = "「그게…… 혹시 아나짱, 곤충을 좋아해?」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「はい、実は。釣りと同じくらい、虫取りは好きです」"
+translation = "「네, 사실. 낚시만큼이나 곤충 채집도 좋아합니다」"
+
+[[dialogue]]
+speaker = "unk"
+original = "カブトムシとクワガタ、カッコイイよな！"
+translation = "장수풍뎅이랑 사슴벌레, 멋있긴 하지!"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「さすが会長、分かってますね」"
+translation = "「역시 회장, 잘 아시는군요」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「個人的には、人間界の中でも１、２を争う程にイケてる生物だと思ってます」"
+translation = "「개인적으로는 인간계 중에서도 1, 2위를 다툴 정도로 멋진 생물이라고 생각합니다」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「か、会長くんも好きなの？」"
+translation = "「회, 회장군도 좋아해?」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「じ、実は私……虫はちょっと……」"
+translation = "「사, 사실 나…… 곤충은 좀……」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「おや？\u3000サーシャ先輩は虫が苦手なのですか？」"
+translation = "「오야? 사샤 선배는 곤충을 잘 못 하시나요?」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「ええ、故郷のレゾフには虫自体いなかったから……」"
+translation = "「응, 고향인 레조프에는 곤충 자체가 없었으니까……」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「その……虫って、モンスターより不気味な見た目をしてない？」"
+translation = "「그…… 곤충은 몬스터보다 징그럽게 생기지 않았어?」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「う～ん、そうでしょうか……？」"
+translation = "「으음, 그럴까요……?」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「確かに、先輩の仰る通り、中には生存戦略として不気味な見た目をしている種もいますが……」"
+translation = "「확실히 선배 말씀대로 생존 전략으로서 기괴한 외형을 한 종도 있습니다만……」"
+
+[[dialogue]]
+speaker = "unk"
+original = "カブトムシは普通にカッコイイよね？"
+translation = "장수풍뎅이는 평범하게 멋있지 않아?"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「肯定。子供にも人気の虫ですよ？」"
+translation = "「긍정. 아이들에게도 인기 있는 곤충이라고요?」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「そ、それは一応、知ってるけど……」"
+translation = "「그, 그건 일단 알고 있지만……」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「慣れれば、きっとサーシャ先輩も、カブトムシやクワガタが好きになるはずです」"
+translation = "「익숙해지면 분명 사샤 선배도 장수풍뎅이나 사슴벌레가 좋아질 겁니다」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「そ、そうかしら……？」"
+translation = "「그, 그럴까……?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "そうして、虫取りをすることになったのだが──"
+translation = "그렇게 해서 곤충 채집을 하게 되었습니다만──"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「きゃあああぁぁぁーーーっ！！！」"
+translation = "「꺄아아아아아아악!!!」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「カブトムシとクワガタが飛んで追い駆けてくるわぁぁぁ～～～っ！」"
+translation = "「장수풍뎅이랑 사슴벌레가 날아서 쫓아오잖아아아아~~~!」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「しかも何で皆、私の方に飛んでくるのぉーーー！？\u3000いやぁぁぁーーーっ！」"
+translation = "「게다가 왜 다들 나한테만 날아오는 거야아아아!? 싫어어어어억!」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「おぉ……サーシャ先輩、蜜の出てる木みたいに人気ですね……！」"
+translation = "「오오…… 사샤 선배, 꿀이 나오는 나무처럼 인기 폭발이네요……!」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「言ってないで助けてぇぇぇ～～～っ！？\u3000早くしないと追いつかれちゃうぅぅぅーーー！」"
+translation = "「말만 하지 말고 도와줘어어어어어억!? 빨리 안 하면 잡힌단 말이야아아아!」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「あ、すみません。サーシャ先輩が本気で慌ててる姿を初めて見たので、驚いて……」"
+translation = "「아, 죄송합니다. 사샤 선배가 진심으로 당황하는 모습은 처음 봐서 놀라느라……」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「ひぃぃぃ～～～っ！\u3000カブトムシとクワガタ、見た目が！\u3000やっぱり見た目が怖いわぁ～～～っ！」"
+translation = "「히이이이익~~~! 장수풍뎅이랑 사슴벌레, 생김새가! 역시 생김새가 무서워어어어어억!」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「どうしてこの子たち、自分の何倍も大きい生き物に飛び掛かってくるのぉ～～～！\u3000あぁぁ～～ん、こっち来ないでぇぇぇ～～～っ！」"
+translation = "「어째서 이 애들은 자기보다 몇 배나 큰 생물한테 달려드는 거야아아아~~~! 아아아앙, 이쪽으로 오지 마아아아아악!」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「というか、なんで私の方ばっかり寄って来るのぉぉぉーーーっ！？」"
+translation = "「그보다 왜 나한테만 꼬이는 거야아아아아악!?」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「ふむ、サーシャ先輩は甘いフェロモンが人一倍出てるので、それで追いかけられてるのかもしれません」"
+translation = "「흠, 사샤 선배는 달콤한 페로몬이 남들보다 배로 나오고 있어서 그래서 쫓기는 걸지도 모릅니다」"
+
+[[dialogue]]
+speaker = "unk"
+original = "（確かに抱き着かれると、いい匂いする……）"
+translation = "(확실히 안겼을 때 좋은 냄새가 났지……)"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「冷静に考察してる場合じゃないからぁぁぁ～～～っ！\u3000追って来てるカブトムシとクワガタを捕まえてぇぇぇ！\u3000早くぅぅぅーーーっ！」"
+translation = "「냉정하게 고찰하고 있을 때가 아니잖아아아아악! 쫓아오는 장수풍뎅이랑 사슴벌레 좀 잡아줘어어어! 빨리이이이이익!」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「あ、サーシャ先輩の髪にクワガタがくっ付きました」"
+translation = "「아, 사샤 선배 머리에 사슴벌레가 달라붙었습니다」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「いやぁぁぁ～～～～～っ！！？\u3000アナちゃん、取って取ってぇぇぇーーーっ！」"
+translation = "「이갸아아아아아악!!? 아나짱, 떼줘 떼줘어어어어어억!」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「了解。取りますから、じっとしてて下さい」"
+translation = "「알겠습니다. 뗄 테니까 가만히 계세요」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「無理無理無理無理ムリぃぃぃーーーっ！\u3000じっとしてたら他の子にも捕まっちゃうから、止まるなんて無理ぃぃぃ～～～っ！」"
+translation = "「무리무리무리무리 무리이이이이익! 가만히 있으면 다른 애들한테도 잡힐 테니까 멈추는 건 무리이이이이이~~~!」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「って、きゃあぁぁぁーーーっ！！？\u3000前に回り込まれて、胸の谷間にカブトムシがぁぁぁ～～～っ！」"
+translation = "「어머, 꺄아아아아악!!? 앞으로 돌아 들어와서 가슴 골에 장수풍뎅이가아아아~~~!」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「なるほど。確かにそこが１番、フェロモンの出てそうな場所ですね」"
+translation = "「과연. 확실히 그곳이 가장 페로몬이 나올 법한 장소군요」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「ちょっ、待って！\u3000カブトムシ動いてる！！\u3000ダメダメ、そこはダメぇッ！！！」"
+translation = "「잠깐, 기다려! 장수풍뎅이가 움직여!! 안 돼 안 돼, 거기는 안 돼엣!!!」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「む、むむむむ胸の谷間に潜り込まれちゃった！？\u3000いやぁぁぁ～～～～ん！！\u3000会長くん、私のおっぱいを助けてぇぇぇーーーーっ！！！」"
+translation = "「가, 가가가가가 가슴 골에 파고들어 버렸어!? 싫어어어어어어언!! 회장군, 내 가슴을 도와줘어어어어어어어억!!!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "おっぱいは無理です！！！"
+translation = "가슴은 무리입니다!!!"
+
+[[dialogue]]
+speaker = "unk"
+original = "結局その後、カブトムシとクワガタはアナの手によって無事保護されたのだった。"
+translation = "결국 그 후 장수풍뎅이와 사슴벌레는 아나의 손에 의해 무사히 보호되었다."
+

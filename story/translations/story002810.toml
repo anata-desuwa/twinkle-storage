@@ -1,0 +1,215 @@
+[[dialogue]]
+speaker = "ヴィライア"
+original = "『煌竜ヴィライアが、こんないいようにやられるなんて……これが魔将の力……！？』"
+translation = "『황룡 빌라이아가 이렇게 속수무책으로 당하다니…… 이것이 마장의 힘……!?』"
+
+[[dialogue]]
+speaker = "ヴィライア"
+original = "『それに魔本の制御が利かない……！\u3000私は書庫の管理システムなのに……！』"
+translation = "『게다가 마본의 제어가 듣지 않아……! 나는 서고의 관리 시스템인데……!』"
+
+[[dialogue]]
+speaker = "モネ（覚醒）"
+original = "「決めましょう、ウィステリアさん！」"
+translation = "「결판을 내요, 위스테리아 씨!」"
+
+[[dialogue]]
+speaker = "ウィステリア（覚醒）"
+original = "「ええ！\u3000極限術式起動──」"
+translation = "「그래! 극한 술식 기동 ──」"
+
+[[dialogue]]
+speaker = "モネ（覚醒）"
+original = "「ルシファーアセンション！」"
+translation = "「루시퍼 어센션!」"
+
+[[dialogue]]
+speaker = "ウィステリア（覚醒）"
+original = "「ベルフェゴールディプラヴィティ！」"
+translation = "「벨페고르 디프라비티!」"
+
+[[dialogue]]
+speaker = "ヴィライア"
+original = "『くああああっ……！！』"
+translation = "『크아아아악……!!』"
+
+[[dialogue]]
+speaker = "unk"
+original = "闇の奔流を受け、竜が虚空に溶けるように消える。"
+translation = "어둠의 분류를 맞고 용이 허공에 녹아내리듯 사라진다."
+
+[[dialogue]]
+speaker = "unk"
+original = "そこに残されたのは、書庫の管理システムと名乗った少女の姿だった。"
+translation = "그곳에 남겨진 것은 서고의 관리 시스템이라 자칭했던 소녀의 모습이었다."
+
+[[dialogue]]
+speaker = "管理システム"
+original = "「…………」"
+translation = "「…………」"
+
+[[dialogue]]
+speaker = "unk"
+original = "少女が呆けた表情で床に転がっている。作り物めいた見た目も相まって、人形が打ち捨てられているかのようだ。"
+translation = "소녀가 멍한 표정으로 바닥에 뒹굴고 있다. 인조물 같은 외형까지 더해져 인형이 내팽개쳐진 듯한 모습이다."
+
+[[dialogue]]
+speaker = "ウィステリア（覚醒）"
+original = "「思ったよりあっさりだったわね。どうしたの？\u3000お腹でも痛い？」"
+translation = "「생각보다 싱거웠네. 왜 그래? 어디 배라도 아파?」"
+
+[[dialogue]]
+speaker = "管理システム"
+original = "「痛くない。魔本たちが私の言うことを聞かなくなったのよ。魔本の魔力の供給がなければ、ヴィライアの姿も維持できないわ」"
+translation = "「안 아파. 마본들이 내 말을 듣지 않게 됐어. 마본들의 마력 공급이 없으면 빌라이아의 모습도 유지할 수 없어」"
+
+[[dialogue]]
+speaker = "unk"
+original = "そう言って少女がモネを見やると、モネは書庫の本たちに囲まれていた。"
+translation = "그렇게 말하며 소녀가 모네를 바라보자, 모네는 서고의 책들에 둘러싸여 있었다."
+
+[[dialogue]]
+speaker = "モネ（覚醒）"
+original = "「ありがとう、みんなのおかげで勝てたよ。えっ、かっこよかった？\u3000照れちゃうな～。あははは」"
+translation = "「고마워, 모두 덕분에 이겼어. 엣, 멋있었다고? 부끄러운데~. 아하하하」"
+
+[[dialogue]]
+speaker = "ウィステリア（覚醒）"
+original = "（紙屋敷さんの周りに本がいくつも浮いてる。即死級の呪いの本なんだけど、平然としてるわ……）"
+translation = " (카미야시키 씨 주변에 책이 몇 권이나 떠 있어. 즉사급 저주가 걸린 책들인데 태연하네……) "
+
+[[dialogue]]
+speaker = "ウィステリア（覚醒）"
+original = "「見事に魔本に裏切られたわね」"
+translation = "「훌륭하게 마본들에게 배신당했네」"
+
+[[dialogue]]
+speaker = "管理システム"
+original = "「そうね、あの娘をあまりにも見くびっていたわ」"
+translation = "「그래, 저 아이를 너무 얕봤어」"
+
+[[dialogue]]
+speaker = "管理システム"
+original = "「紙屋敷モネ」"
+translation = "「카미야시키 모네」"
+
+[[dialogue]]
+speaker = "モネ（覚醒）"
+original = "「ひゃいっ！？」"
+translation = "「히익!?」"
+
+[[dialogue]]
+speaker = "管理システム"
+original = "「あなたを『傲慢』の魔将として認めるわ。本たちをよろしく」"
+translation = "「너를 『오만』의 마장으로 인정할게. 책들을 잘 부탁해」"
+
+[[dialogue]]
+speaker = "モネ（覚醒）"
+original = "「はい！\u3000みんな大事な友達です！」"
+translation = "「네! 모두 소중한 친구들이에요!」"
+
+[[dialogue]]
+speaker = "管理システム"
+original = "「それから、魔将に適合しそうな魔族……でなくてもいいけど、できれば魔族がいいわ。目ぼしい候補者がいたら、ここへ連れてきなさい」"
+translation = "「그리고, 마장에 적합할 것 같은 마족……이 아니어도 좋지만, 가능하면 마족이 좋겠어. 눈에 띄는 후보자가 있다면 이리로 데려와」"
+
+[[dialogue]]
+speaker = "管理システム"
+original = "「呪いの暴走は今は収まっているけれど、解決したわけではないわ」"
+translation = "「저주의 폭주는 지금은 가라앉았지만, 해결된 건 아니야」"
+
+[[dialogue]]
+speaker = "管理システム"
+original = "「分割されようと、担い手がいなければ呪いはいずれ暴走するわ。それを防ぐためにも、そしてもちろんリクリエと戦うためにも、魔将は必要よ」"
+translation = "「분할되었다 한들, 짊어질 자가 없으면 저주는 언젠가 폭주해. 그걸 막기 위해서라도, 그리고 물론 리크리에와 싸우기 위해서라도 마장은 필요해」"
+
+[[dialogue]]
+speaker = "管理システム"
+original = "「ウィステリアが全て受け入れていれば、そんな心配はなかったのだけど」"
+translation = "「위스테리아가 전부 받아들였다면 그런 걱정은 없었을 텐데」"
+
+[[dialogue]]
+speaker = "ウィステリア（覚醒）"
+original = "「私のせいみたいに言わないで。無理なものは無理よ」"
+translation = "「내 탓인 것처럼 말하지 마. 안 되는 건 안 되는 거야」"
+
+[[dialogue]]
+speaker = "ウィステリア（覚醒）"
+original = "「さて、帰りましょうか。地下図書館の正体も分かったことだし、早く報告しておかなくちゃ」"
+translation = "「자, 돌아갈까. 지하 도서관의 정체도 알았으니 빨리 보고해야지」"
+
+[[dialogue]]
+speaker = "管理システム"
+original = "「そうね、早く行きなさい。あなたの顔を見てると口から火が出るわ。しっし」"
+translation = "「그래, 어서 가버려. 네 얼굴을 보고 있으면 입에서 불이 나올 것 같아. 저리 가」"
+
+[[dialogue]]
+speaker = "モネ（覚醒）"
+original = "「……あなたも一緒に来ませんか？」"
+translation = "「……당신도 함께 가지 않을래요?」"
+
+[[dialogue]]
+speaker = "管理システム"
+original = "「……え？」"
+translation = "「……에?」"
+
+[[dialogue]]
+speaker = "モネ（覚醒）"
+original = "「読書を豊かにするのは、本だけではありません。広い世界を知ることで、より深く書と向き合うことができるんです」"
+translation = "「독서를 풍요롭게 만드는 건 책뿐만이 아니에요. 넓은 세계를 앎으로써 더 깊이 글과 마주할 수 있거든요」"
+
+[[dialogue]]
+speaker = "ウィステリア（覚醒）"
+original = "「それもお祖父さんが言ってたの？」"
+translation = "「그것도 할아버지가 하신 말씀이야?」"
+
+[[dialogue]]
+speaker = "モネ（覚醒）"
+original = "「いえ、私の体験です。祖父の書斎を出て、私は多くの人と出会い、多くのことを学びました。その経験があるから、今は前より読書が楽しいんです」"
+translation = "「아니요, 제 체험이에요. 할아버지의 서재를 나와 저는 많은 사람을 만났고 많은 것을 배웠어요. 그 경험이 있기에 지금은 전보다 독서가 즐거워요」"
+
+[[dialogue]]
+speaker = "モネ（覚醒）"
+original = "「だから、あなたも一緒に……どうですか？」"
+translation = "「그러니까 당신도 함께…… 어떠세요?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "そう言って、モネは手を伸ばす。もう片方に本を持ちながら。"
+translation = "그렇게 말하며 모네는 손을 뻗는다. 다른 한 손엔 책을 든 채로."
+
+[[dialogue]]
+speaker = "管理システム"
+original = "「でも私は……魔族でも人間でもない……名前もないし…………」"
+translation = "「하지만 난…… 마족도 인간도 아니야…… 이름도 없고…………」"
+
+[[dialogue]]
+speaker = "モネ（覚醒）"
+original = "「なら、私が贈ります」"
+translation = "「그럼 제가 드릴게요」"
+
+[[dialogue]]
+speaker = "モネ（覚醒）"
+original = "「あなたは……リィベル・ビブリオテーク」"
+translation = "「당신은…… 리벨 비블리오테크」"
+
+[[dialogue]]
+speaker = "モネ（覚醒）"
+original = "「幼い頃に読んだ本に出てきた、本の妖精の名前です」"
+translation = "「어릴 적 읽었던 책에 나온 책의 요정 이름이에요」"
+
+[[dialogue]]
+speaker = "リィベル"
+original = "「リィベル・ビブリオテーク……」"
+translation = "「리벨 비블리오테크……」"
+
+[[dialogue]]
+speaker = "リィベル"
+original = "「……まぁ、悪くはないわ」"
+translation = "「……뭐, 나쁘지 않네」"
+
+[[dialogue]]
+speaker = "unk"
+original = "竜翼の少女は初めて微笑み、モネの手をとった。"
+translation = "용의 날개를 가진 소녀는 처음으로 미소 지으며 모네의 손을 잡았다."
+

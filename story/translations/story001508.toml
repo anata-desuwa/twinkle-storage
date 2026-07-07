@@ -1,0 +1,295 @@
+[[dialogue]]
+speaker = "unk"
+original = "一方その頃、サチとプリムラは深淵書庫の防衛システムと戦いを続けていた――"
+translation = "한편 그 무렵, 사치와 프리뮬라는 심연서고의 방위 시스템과 싸움을 이어가고 있었다――"
+
+[[dialogue]]
+speaker = "プリムラ（覚醒）"
+original = "「おのれ、これではキリがないのじゃ……！」"
+translation = "「이놈, 이래서는 끝이 없느니라……!」"
+
+[[dialogue]]
+speaker = "メルクリウス"
+original = "「…………」"
+translation = "「…………」"
+
+[[dialogue]]
+speaker = "サチ"
+original = "「やっと倒しても、次の複製体がすぐ現れる……！\u3000やっぱり、ここは逃げるしかない……！」"
+translation = "「겨우 쓰러뜨려도 다음 복제체가 바로 나타나……! 역시 여기서는 도망칠 수밖에 없어……!」"
+
+[[dialogue]]
+speaker = "プリムラ（覚醒）"
+original = "「しかし、我がこうして力を解放させられている以上、近くにロストアイテムが隠れているのは間違いないのじゃ！」"
+translation = "「허나 짐이 이렇게 힘을 해방하고 있는 이상, 근처에 로스트 아이템이 숨겨져 있는 것은 틀림없느니라!」"
+
+[[dialogue]]
+speaker = "プリムラ（覚醒）"
+original = "「トレジアンナ！\u3000ロストアイテムの反応はないのか！？」"
+translation = "「트레지안나! 로스트 아이템의 반응은 없느냐!?」"
+
+[[dialogue]]
+speaker = "トレジアンナ"
+original = "「探索術式は使ってるんですけど、この深淵書庫自体がロストアイテムですから、その反応が大きくて見つけられないんですよ～！\u3000木を隠すなら森っていうか～」"
+translation = "「탐색 술식은 쓰고 있는데 이 심연서고 자체가 로스트 아이템이라서 그 반응이 너무 커서 찾을 수가 없어요~! 나무를 숨기려면 숲이라고나 할까~」"
+
+[[dialogue]]
+speaker = "プリムラ（覚醒）"
+original = "「ええい、厄介な場所に引き込まれたもんじゃ！\u3000ん？\u3000待てよ、木を隠すなら森……？」"
+translation = "「에잇, 성가신 장소에 끌려왔구나! 응? 잠깐, 나무를 숨기려면 숲……?」"
+
+[[dialogue]]
+speaker = "サチ"
+original = "「プリムラ？\u3000どうしたの？」"
+translation = "「프리뮬라? 왜 그래?」"
+
+[[dialogue]]
+speaker = "プリムラ（覚醒）"
+original = "「……トレジアンナ！\u3000よく聞け！」"
+translation = "「……트레지안나! 잘 들어라!」"
+
+[[dialogue]]
+speaker = "プリムラ（覚醒）"
+original = "「――我に向かって、今すぐロストアイテムの回収術式を放て！」"
+translation = "「――짐을 향해 지금 바로 로스트 아이템 회수 술식을 쏘아라!」"
+
+[[dialogue]]
+speaker = "トレジアンナ"
+original = "「えぇっ！？\u3000そんなことしたら、プリムラさんはただの賢者の石に戻っちゃうので、消滅しちゃいますよ？」"
+translation = "「에엣!? 그런 짓을 하면 프리뮬라 씨는 그냥 현자의 돌로 돌아가 버리니까 소멸해 버린다고요?」"
+
+[[dialogue]]
+speaker = "プリムラ（覚醒）"
+original = "「阿呆！\u3000そんなもん一時的に決まっとるじゃろうが！\u3000後で必ず元に戻せ！\u3000戻さないと尻叩き１００回の刑じゃぞ！？」"
+translation = "「멍청이! 그런 건 일시적인 게 당연하지 않느냐! 나중에 반드시 원래대로 돌려놓아라! 안 돌려놓으면 엉덩이 매질 100대의 형벌이니라!?」"
+
+[[dialogue]]
+speaker = "サチ"
+original = "「プリムラ、もしかして……！？」"
+translation = "「프리뮬라, 설마……!?」"
+
+[[dialogue]]
+speaker = "プリムラ（覚醒）"
+original = "「サチ、我が賢者の石に戻ったら、さっさとここから脱出しろ！\u3000敵が目の前にいるから、細かい話は後じゃ！」"
+translation = "「사치, 짐이 현자의 돌로 돌아가면 얼른 여기서 탈출해라! 적이 눈앞에 있으니 자세한 이야기는 나중이니라!」"
+
+[[dialogue]]
+speaker = "サチ"
+original = "「……うん、わかった！\u3000トレジアンナさん、お願い！」"
+translation = "「……응, 알았어! 트레지안나 씨, 부탁해요!」"
+
+[[dialogue]]
+speaker = "トレジアンナ"
+original = "「とりあえず……やればいいんですね！？\u3000回収術式――」"
+translation = "「일단…… 하면 되는 거죠!? 회수 술식――」"
+
+[[dialogue]]
+speaker = "トレジアンナ"
+original = "「え～いっ！」"
+translation = "「에~잇!」"
+
+[[dialogue]]
+speaker = "プリムラ（覚醒）"
+original = "「っ……！」"
+translation = "「윽……!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "回収術式を受け、プリムラの体がその場から消失する。"
+translation = "회수 술식을 받고 프리뮬라의 형체가 그 자리에서 사라진다."
+
+[[dialogue]]
+speaker = "unk"
+original = "そして、プリムラが先程までいた場所に、力を失って落ちたのは――"
+translation = "그리고 프리뮬라가 조금 전까지 있던 자리에 힘을 잃고 떨어진 것은――"
+
+[[dialogue]]
+speaker = "トレジアンナ"
+original = "「『解放』のロストアイテム！」"
+translation = "「『해방』의 로스트 아이템!」"
+
+[[dialogue]]
+speaker = "サチ"
+original = "「よし、回収して、すぐにここから脱出しましょう！\u3000トレジアンナさん！」"
+translation = "「좋아, 회수해서 바로 여기서 탈출해요! 트레지안나 씨!」"
+
+[[dialogue]]
+speaker = "トレジアンナ"
+original = "「はい！\u3000脱出できるゲートを作るので、その間持ちこたえて下さい！」"
+translation = "「네! 탈출할 수 있는 게이트를 만들 테니 그동안 버텨주세요!」"
+
+[[dialogue]]
+speaker = "サチ"
+original = "「大丈夫。やると決まれば……私、<ruby>幸運<rt>ラッキー</rt></ruby>ですから！」"
+translation = "「괜찮아요. 하기로 마음먹으면…… 저, <ruby>운이 좋으<rt>럭키</rt></ruby>니까요!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "――その後、サチはメルクリウスを抑えきり、トレジアンナの術式によって深淵書庫からの脱出に成功。元の図書館へと戻ってきた。"
+translation = "――그 후, 사치는 메르쿠리우스를 억누르고 트레지안나의 술식에 의해 심연서고로부터 탈출에 성공. 원래의 도서관으로 돌아왔다."
+
+[[dialogue]]
+speaker = "プリムラ"
+original = "「ふぅ。……どうやら上手く行ったようじゃな？」"
+translation = "「후우. ……아무래도 잘 된 모양이구나?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "トレジアンナが回収術式を解き、プリムラは再び姿を取り戻す。"
+translation = "트레지안나가 회수 술식을 풀자 프리뮬라는 다시 모습을 되찾는다."
+
+[[dialogue]]
+speaker = "サチ"
+original = "「うん。プリムラの機転のおかげでね」"
+translation = "「응. 프리뮬라의 기지 덕분이야」"
+
+[[dialogue]]
+speaker = "トレジアンナ"
+original = "「いや～、でもまさか、ロストアイテムがプリムラさんの中に潜伏していたとは思いませんでしたよ」"
+translation = "「이야~ 그런데 설마 로스트 아이템이 프리뮬라 씨 안에 잠복해 있었을 줄은 몰랐네요」"
+
+[[dialogue]]
+speaker = "プリムラ"
+original = "「我の体も当然、ロストアイテムとして探索術式に反応する。それを隠れ蓑にしていたというわけじゃな！」"
+translation = "「짐의 몸도 당연히 로스트 아이템으로서 탐색 술식에 반응하느니라. 그것을 은신처로 삼고 있었다는 것이지!」"
+
+[[dialogue]]
+speaker = "プリムラ"
+original = "「それで？\u3000肝心のロストアイテムは？」"
+translation = "「그래서? 제일 중요한 로스트 아이템은?」"
+
+[[dialogue]]
+speaker = "サチ"
+original = "「ちゃんと回収したよ。ほら」"
+translation = "「제대로 회수했어. 자」"
+
+[[dialogue]]
+speaker = "プリムラ"
+original = "「ふむ、そうか。なら逃がさんように、トレジアンナの術でさっさとしまっておけ」"
+translation = "「흠, 그런가. 그렇다면 놓치지 않도록 트레지안나의 술법으로 얼른 치워두어라」"
+
+[[dialogue]]
+speaker = "サチ"
+original = "「え？\u3000いいの……？」"
+translation = "「에? 그래도 돼……?」"
+
+[[dialogue]]
+speaker = "プリムラ"
+original = "「ん？\u3000何じゃサチ、意外そうな顔をして」"
+translation = "「음? 왜 그러느냐 사치, 의외라는 표정을 짓고」"
+
+[[dialogue]]
+speaker = "サチ"
+original = "「だってこれを使えば、プリムラは自分の封印を解くことができるんでしょ？\u3000だからてっきり、寄こせって言い出すんじゃないかって……」"
+translation = "「그치만 이걸 쓰면 프리뮬라는 자신의 봉인을 풀 수 있는 거지? 그래서 당연히 내놓으라고 할 줄 알았는데……」"
+
+[[dialogue]]
+speaker = "プリムラ"
+original = "「ふん、バカめ。貴様……一体いつまで、我を昔のままだと思っているのじゃ！」"
+translation = "「흥, 바보 같으니. 네놈…… 대체 언제까지 짐을 예전 그대로라고 생각하고 있는 것이냐!」"
+
+[[dialogue]]
+speaker = "プリムラ"
+original = "「我が今更封印を解いて、昔の力を取り戻す程度で満足するとでも？」"
+translation = "「짐이 이제 와서 봉인을 풀고 예전 힘을 되찾는 정도로 만족할 줄 알았느냐?」"
+
+[[dialogue]]
+speaker = "サチ"
+original = "「……！」"
+translation = "「……!」"
+
+[[dialogue]]
+speaker = "プリムラ"
+original = "「本来の力を取り戻したところで、サチ、貴様に勝てなければ何の意味もないのじゃ」"
+translation = "「본래의 힘을 되찾아봤자 사치, 네놈을 이기지 못하면 아무런 의미가 없느니라」"
+
+[[dialogue]]
+speaker = "プリムラ"
+original = "「何故なら――」"
+translation = "「왜냐하면――」"
+
+[[dialogue]]
+speaker = "プリムラ"
+original = "「我の今の野望はサチ、貴様を超える最強の魔法少女となり、世界を征服することなのじゃからな！」"
+translation = "「짐의 지금 야망은 사치, 네놈을 뛰어넘는 최강의 마법소녀가 되어 세계를 정복하는 것이기 때문이니라!」"
+
+[[dialogue]]
+speaker = "サチ"
+original = "「いや、私は別に魔法少女じゃないけどね！？」"
+translation = "「아니, 난 딱히 마법소녀는 아니지만!?」"
+
+[[dialogue]]
+speaker = "サチ"
+original = "「でも……そっか。プリムラが最強を目指すっていうなら、より一層負けられないね。だって――」"
+translation = "「하지만…… 그렇구나. 프리뮬라가 최강을 목표로 한다면 한층 더 질 수 없겠네. 왜냐면――」"
+
+[[dialogue]]
+speaker = "サチ"
+original = "「私の目標も、リクリエから世界を救えるような、最強の星騎士になることなんだから！」"
+translation = "「내 목표도 리크리에로부터 세계를 구할 수 있는 최강의 성기사가 되는 거니까!」"
+
+[[dialogue]]
+speaker = "プリムラ"
+original = "「ふっ……それでこそ我が宿敵。倒し甲斐があるというものじゃ」"
+translation = "「훗…… 그래야 짐의 숙적답지. 쓰러뜨릴 보람이 있다는 것이니라」"
+
+[[dialogue]]
+speaker = "プリムラ"
+original = "「せいぜい幸運にあぐらをかいて、待っているがよい」"
+translation = "「기껏해야 행운에 안주하며 기다리고 있거라」"
+
+[[dialogue]]
+speaker = "サチ"
+original = "「残念。私、人事天命がモットーだから、どんどん鍛錬して強くなるよ。……ふふっ♪」"
+translation = "「미안하지만. 나, 진인사대천명이 모토라서 계속 단련해서 강해질 거야. ……후훗♪」"
+
+[[dialogue]]
+speaker = "unk"
+original = "そう言って、サチは嬉しそうに微笑むのだった。"
+translation = "그렇게 말하며 사치는 기쁜 듯이 미소 짓는 것이었다."
+
+[[dialogue]]
+speaker = "トレジアンナ"
+original = "「これは……サーシャさんがこの場にいたら、『あら～♪』とでも言いそうな、いい雰囲気ですね～♪」"
+translation = "「이건…… 사샤 씨가 이 자리에 있었다면 『어머나~♪』라고라도 말할 법한 좋은 분위기네요~♪」"
+
+[[dialogue]]
+speaker = "シズハ"
+original = "「……お姉ちゃん。それで、話って……？」"
+translation = "「……언니. 그래서, 할 이야기라는 건……?」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「……シズハちゃん、あのね」"
+translation = "「……시즈하짱, 저기 말이야」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「私は、あなたと出会ってまだそんなに経っていないけれど、それでも大切にしたいって思っている」"
+translation = "「나는 너와 만난 지 아직 그렇게 오래되지 않았지만, 그래도 소중하게 생각하고 있어」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「妹のように可愛く思えて、幸せになって欲しいって……だから」"
+translation = "「여동생처럼 귀엽게 느껴져서 행복해졌으면 좋겠다고…… 그러니까」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「あなたには厳しくすると決めた」"
+translation = "「너에게는 엄격하게 하기로 결정했어」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「私は――」"
+translation = "「나는――」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「あなたの『お姉ちゃん』であることを否定するわ」"
+translation = "「너의 『언니』인 것을 부정할게」"
+
+[[dialogue]]
+speaker = "unk"
+original = "サーシャさんはシズハに、そう宣言するのだった――"
+translation = "사샤 씨는 시즈하에게 그렇게 선언하는 것이었다――"
+

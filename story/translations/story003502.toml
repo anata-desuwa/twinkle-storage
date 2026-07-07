@@ -1,0 +1,220 @@
+[[dialogue]]
+speaker = "unk"
+original = "突然増えてしまったヴィーナス、メルエル、レミカの小さな分身たち。"
+translation = "갑자기 늘어나 버린 비너스, 메루엘, 레미카의 작은 분신들."
+
+[[dialogue]]
+speaker = "ヴィーナス（幼少）"
+original = "「ねぇねぇパパ、どう？\u3000小さくなった私の姿、可愛い？」"
+translation = "「있지 있지 아빠, 어때? 작아진 내 모습, 귀여워?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "俺が『可愛い』と答えると、小さなヴィーナスは嬉しそうな笑顔を見せる。"
+translation = "내가 『귀엽다』고 대답하자, 어린 비너스는 기쁜 듯한 미소를 짓는다."
+
+[[dialogue]]
+speaker = "ヴィーナス（幼少）"
+original = "「えへへぇ～♪\u3000パパに褒められて嬉しいわ♪」"
+translation = "「에헤헤~♪ 아빠한테 칭찬받아서 기뻐♪」"
+
+[[dialogue]]
+speaker = "unk"
+original = "なんか精神も少し子供っぽくなってるような？"
+translation = "왠지 정신도 조금 어린애 같아진 것 같은데?"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「そうかしら？\u3000自分から見ると、いつも通りって感じがするけど」"
+translation = "「그럴까? 내가 보기엔 평소랑 똑같은 느낌인데」"
+
+[[dialogue]]
+speaker = "ヴィーナス（幼少）"
+original = "「あっ、でも、この姿だと、いつもよりたくさん『パパ』って呼びたくなるわ♪」"
+translation = "「앗, 하지만 이 모습이면 평소보다 더 많이 『아빠』라고 부르고 싶어져♪」"
+
+[[dialogue]]
+speaker = "メルエル（幼少）"
+original = "「ねぇ、会長くん、私はどうかな？\u3000ヴィーナスちゃんみたいに、可愛くなってる？」"
+translation = "「저기, 회장군, 나는 어때? 비너스 짱처럼 귀여워졌어?」"
+
+[[dialogue]]
+speaker = "メルエル"
+original = "「えっ！？\u3000と、突然何を言ってるの、ちっちゃな私！？」"
+translation = "「엣!? 가, 갑자기 무슨 소릴 하는 거야, 어린 나!?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "俺が小さなメルエルにも素直に『可愛い』と告げると、照れた笑顔を見せる。"
+translation = "내가 어린 메루엘에게도 솔직하게 『귀엽다』고 말하자, 수줍은 미소를 띤다."
+
+[[dialogue]]
+speaker = "メルエル（幼少）"
+original = "「え、えへへへへへぇ<emoji=heart04>\u3000ありがとう♪\u3000すごく嬉しくて、メルトしちゃいそう<emoji=heart04>」"
+translation = "「에, 에헤헤헤헤헤<emoji=heart04> 고마워♪ 너무 기뻐서 멜트해버릴 것 같아<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "メルエル"
+original = "「か、可愛いんだ……<emoji=heart04>」"
+translation = "「귀, 귀엽구나……<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "メルエル"
+original = "（はうぅぅ<emoji=heart04>\u3000そんなこと言われたら、大きい私までメルトしちゃうよぉ～<emoji=heart04>）"
+translation = "（하우우우<emoji=heart04> 그런 말을 들으면 큰 나까지 멜트해버려~<emoji=heart04>）"
+
+[[dialogue]]
+speaker = "レミカ（幼少）"
+original = "「あっ、えっと……私のことは褒めてもらわなくても大丈夫だから。小さい姿になっても、２人より『可愛い』ってことはないと思うし……」"
+translation = "「앗, 저기…… 내 쪽은 칭찬 안 해줘도 괜찮으니까. 작은 모습이 돼도 두 사람보다 『귀엽다』는 생각은 안 들고……」"
+
+[[dialogue]]
+speaker = "unk"
+original = "俺と視線が合うと、そんなことを言う小さなレミカ。"
+translation = "나와 시선이 마주치자 그런 말을 하는 어린 레미카."
+
+[[dialogue]]
+speaker = "レミカ（幼少）"
+original = "「――え？\u3000元の私も可愛いけど、小さくなった姿もすごく可愛い？\u3000も、もう、会長っ、言わなくていいって言ったのに……！」"
+translation = "「――에? 원래의 나도 귀엽지만, 작아진 모습도 정말 귀엽다고? 저, 정말, 회장, 말 안 해도 된다고 했는데……!」"
+
+[[dialogue]]
+speaker = "レミカ"
+original = "「い、いやまぁ、褒めてくれるのは嬉しいんだけど……照れるじゃん……」"
+translation = "「아, 아니 뭐, 칭찬해주는 건 기쁘지만…… 부끄럽잖아……」"
+
+[[dialogue]]
+speaker = "unk"
+original = "２人共顔を赤くして、仲良く視線を逸らしてしまう。うん、可愛い。"
+translation = "두 사람 모두 얼굴을 붉히며 사이좋게 시선을 돌려버린다. 응, 귀엽네."
+
+[[dialogue]]
+speaker = "unk"
+original = "でも３人共、なんで増えたりしたんだ？"
+translation = "그런데 세 사람 다 왜 늘어난 거지?"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「それがよくわからないのよね！\u3000なんだか『不思議な力』が私の体から湧いてきて、気づいたら小さい私が増えてて」"
+translation = "「그걸 잘 모르겠어! 왠지 『신비한 힘』이 내 몸에서 솟아나더니, 정신 차려보니 어린 내가 늘어나 있었거든」"
+
+[[dialogue]]
+speaker = "レミカ"
+original = "「心当たりがあるとすれば……『こどもの日』の話をしてたことかな？」"
+translation = "「짐작 가는 게 있다면…… 『어린이날』 이야기를 하고 있었던 걸까?」"
+
+[[dialogue]]
+speaker = "メルエル"
+original = "「ヴィーナスちゃんの体が突然光り出して、その後に小さな私たちが現れたんだよね」"
+translation = "「비너스 짱의 몸이 갑자기 빛나기 시작하더니, 그 후에 어린 우리가 나타났지」"
+
+[[dialogue]]
+speaker = "ヴィーナス（幼少）"
+original = "「言われてみれば私、あの時『こどもの日をパパにお祝いされたい』って思ってたわ！」"
+translation = "「듣고 보니 나, 그때 『어린이날을 아빠가 축하해줬으면 좋겠다』고 생각했어!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "だとしたら、ヴィーナスの中にある『女神』の力が発動したのかもしれない。"
+translation = "그렇다면 비너스 안에 있는 『여신』의 힘이 발동한 것일지도 모른다."
+
+[[dialogue]]
+speaker = "unk"
+original = "俺はその推測をみんなに話す。"
+translation = "나는 그 추측을 모두에게 이야기한다."
+
+[[dialogue]]
+speaker = "メルエル（幼少）"
+original = "「――ヴィーナスちゃんの願いがきっかけで、ちっちゃな私たちが生まれたのかも、ってこと？」"
+translation = "「――비너스 짱의 소원이 계기가 되어서 어린 우리가 태어난 걸지도 모른다는 거야?」"
+
+[[dialogue]]
+speaker = "レミカ（幼少）"
+original = "「それなら、ヴィーナスの望みを叶えたら元に戻れる、とか……？」"
+translation = "「그렇다면 비너스의 소원을 들어주면 원래대로 돌아갈 수 있다든가……?」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「それだわ！」"
+translation = "「그거야!」"
+
+[[dialogue]]
+speaker = "ヴィーナス（幼少）"
+original = "「願いを叶えてもらえるなら、私、パパから『こどもの日』をちゃんとお祝いしてもらいたいわ♪」"
+translation = "「소원을 들어준다면, 나, 아빠한테 『어린이날』을 제대로 축하받고 싶어♪」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「いいわね！\u3000それなら、みんなで『こどもの日パーティー』を開催しましょ♪」"
+translation = "「좋네! 그렇다면 다 같이 『어린이날 파티』를 열자♪」"
+
+[[dialogue]]
+speaker = "ヴィーナス（幼少）"
+original = "「そうね！\u3000メルエルとレミカも一緒に！」"
+translation = "「그래! 메루엘이랑 레미카도 같이!」"
+
+[[dialogue]]
+speaker = "メルエル（幼少）"
+original = "「え？\u3000私たちも参加していいの？」"
+translation = "「에? 우리도 참가해도 돼?」"
+
+[[dialogue]]
+speaker = "ヴィーナス（幼少）"
+original = "「もちろん♪\u3000だって、パーティーはみんなでやった方が楽しいでしょ？」"
+translation = "「물론이지♪ 그야 파티는 다 같이 하는 게 더 즐겁잖아?」"
+
+[[dialogue]]
+speaker = "ヴィーナス（幼少）"
+original = "「それに小さくなっちゃったのは２人も一緒なんだから、こどもの日をちゃんとお祝いしてもらわないと！」"
+translation = "「게다가 작아진 건 두 사람도 마찬가지니까, 어린이날을 제대로 축하받아야지!」"
+
+[[dialogue]]
+speaker = "レミカ（幼少）"
+original = "「確かに、私たちもお祝いしてもらわないと、元に戻れない可能性があるのか……」"
+translation = "「확실히 우리도 축하받지 않으면 원래대로 못 돌아갈 가능성이 있겠네……」"
+
+[[dialogue]]
+speaker = "unk"
+original = "２人のことも全力でお祝いするぞ"
+translation = "두 사람의 몫까지 전력으로 축하해주겠어."
+
+[[dialogue]]
+speaker = "メルエル（幼少）"
+original = "「わぁっ♪\u3000会長くんにお祝いしてもらえると思ったら、すごく嬉しくなってきちゃう♪」"
+translation = "「와아♪ 회장군이 축하해준다고 생각하니 정말 기뻐지네♪」"
+
+[[dialogue]]
+speaker = "レミカ（幼少）"
+original = "「じゃあ、せっかくだし……お願いしようかな？」"
+translation = "「그럼, 모처럼이니까…… 부탁해볼까?」"
+
+[[dialogue]]
+speaker = "ヴィーナス（幼少）"
+original = "「決まりね♪\u3000よ～し、それじゃあ、今夜のパーティーの準備を始めるわよ！」"
+translation = "「결정됐네♪ 좋아, 그럼 오늘 밤 파티 준비를 시작하자!」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「お～♪」"
+translation = "「오~♪」"
+
+[[dialogue]]
+speaker = "メルエル"
+original = "「って、パーティーって今日やるの！？」"
+translation = "「잠깐, 파티를 오늘 한다고!?」"
+
+[[dialogue]]
+speaker = "ヴィーナス（幼少）"
+original = "「もちろん！\u3000『善は急がばすぐ回れ』よ♪」"
+translation = "「물론이지! 『쇠뿔도 단김에 빼라』는 말도 있잖아♪」"
+
+[[dialogue]]
+speaker = "レミカ"
+original = "「う～ん、安定の無茶ぶりだね……」"
+translation = "「으음, 여전한 막무가내네……」"
+
+[[dialogue]]
+speaker = "unk"
+original = "そんなこんなで、俺も協力して『こどもの日パーティー』を開催することになるのだった。"
+translation = "이래저래 나도 협력하여 『어린이날 파티』를 개최하게 되었다."
+

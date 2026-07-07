@@ -1,0 +1,230 @@
+[[dialogue]]
+speaker = "unk"
+original = "第２話,妄想メルトダウン,P"
+translation = "제2화, 망상 멜트다운, P"
+
+[[dialogue]]
+speaker = "unk"
+original = "これはメルエルと恋人同士になってすぐの頃に伝えられた話──"
+translation = "이것은 멜레르와 연인 사이가 되고 나서 얼마 지나지 않았을 때 들은 이야기──"
+
+[[dialogue]]
+speaker = "メルエル"
+original = "「会長くんとお付き合いできるようになったから、その……思い切って言っちゃうんだけど……」"
+translation = "「회장군이랑 사귀게 됐으니까, 그…… 용기 내서 말하는 건데……」"
+
+[[dialogue]]
+speaker = "メルエル"
+original = "「私ね。よく妄想を始めちゃう癖があるの……！\u3000考え事をし始めたら、そのままこう、意識が旅立っちゃうっていうか……！」"
+translation = "「나 말이야. 자주 망상을 시작해버리는 버릇이 있어……! 생각을 시작하면 그대로 이렇게, 의식이 여행을 떠나버린달까……!」"
+
+[[dialogue]]
+speaker = "メルエル"
+original = "「キミと１０年も会えなかったからかな、色んな事を想像するのが癖になっちゃってて……」"
+translation = "「너랑 10년이나 못 만나서 그런가, 여러 가지를 상상하는 게 버릇이 돼버려서……」"
+
+[[dialogue]]
+speaker = "メルエル"
+original = "「だから、ぼーっとしてたら肩を揺すってくれていいからね。お願い！」"
+translation = "「그러니까 멍하니 있으면 어깨를 흔들어줘도 되니까. 부탁해!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "打ち明けられた当時こそよくわからなかったが、今となっては慣れっこだ。"
+translation = "고백받았을 당시에는 잘 몰랐지만, 지금에 와서는 익숙한 일이다."
+
+[[dialogue]]
+speaker = "unk"
+original = "というより、俺もメルエルの妄想が始まるのを楽しみにしている節があって……"
+translation = "라기보다, 나도 멜레르의 망상이 시작되는 것을 즐기는 면이 있어서……"
+
+[[dialogue]]
+speaker = "メルエル"
+original = "「会長くん、お仕事お疲れ様♪\u3000コーヒー淹れてきたよ～」"
+translation = "「회장군, 일하느라 수고했어♪ 커피 타 왔어~」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ありがとう、メルエル"
+translation = "고마워, 멜레르"
+
+[[dialogue]]
+speaker = "メルエル"
+original = "「ふふ～っ……えへへへ<emoji=heart04>」"
+translation = "「후후~…… 에헤헤헤<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "unk"
+original = "俺の顔、何かついてる？"
+translation = "내 얼굴에 뭐 묻었어?"
+
+[[dialogue]]
+speaker = "メルエル"
+original = "「あっ、ううん、そんなことないよ！\u3000その、コーヒー片手に資料を読むキミもかっこいいなぁ～……って」"
+translation = "「앗, 아니, 그런 거 아니야! 그, 커피 한 손에 들고 자료를 읽는 너도 멋있어서~…… 하고」"
+
+[[dialogue]]
+speaker = "メルエル"
+original = "「あ、何だか恥ずかしいこと言っちゃってるね、私……！」"
+translation = "「아, 왠지 부끄러운 소리를 해버렸네, 나……!」"
+
+[[dialogue]]
+speaker = "メルエル"
+original = "「お仕事の邪魔しちゃってごめんねっ。席外してた方がいいかな？」"
+translation = "「일 방해해서 미안해. 자리를 비켜주는 게 좋을까?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "メルエルには側にいてほしい"
+translation = "멜레르는 곁에 있어 줬으면 좋겠어"
+
+[[dialogue]]
+speaker = "unk"
+original = "そんなことないよ"
+translation = "그런 거 아니야"
+
+[[dialogue]]
+speaker = "メルエル"
+original = "「うんっ。ありがとう、じゃあ近くにいるね」"
+translation = "「응. 고마워, 그럼 근처에 있을게」"
+
+[[dialogue]]
+speaker = "メルエル"
+original = "「──退屈？\u3000ううん、そんなことないよ！」"
+translation = "「──지루해? 아니, 전혀 그렇지 않아!」"
+
+[[dialogue]]
+speaker = "メルエル"
+original = "（大好きなキミと一緒にいられるんだもん、退屈なわけないよー……<emoji=heart04>）"
+translation = "(정말 좋아하는 너와 함께 있을 수 있는걸, 지루할 리가 없잖아~……<emoji=heart04>)"
+
+[[dialogue]]
+speaker = "メルエル"
+original = "（でもこうやってのどかな休日を過ごすの、久しぶりだなあ。最近、出動要請も多かったし）"
+translation = "(하지만 이렇게 평화로운 휴일을 보내는 거, 오랜만이네. 최근에 출동 요청도 많았고)"
+
+[[dialogue]]
+speaker = "メルエル"
+original = "（リクリエの危機が過ぎ去ったら、毎日を平和に過ごせるようになるのかな。そうなったら素敵だなー♪）"
+translation = "(리크리에의 위기가 지나가면 매일을 평화롭게 보낼 수 있게 될까. 그렇게 되면 멋지겠다~♪)"
+
+[[dialogue]]
+speaker = "メルエル"
+original = "（ううん、平和な未来のために私たちは戦ってるんだもん。頑張らなきゃ……！）"
+translation = "(아니, 평화로운 미래를 위해서 우리는 싸우고 있는걸. 힘내야지……!)"
+
+[[dialogue]]
+speaker = "メルエル"
+original = "（世界が平和になって……私たちは学園を卒業して、結婚して……一緒のお家に住んで……）"
+translation = "(세계가 평화로워지고…… 우리는 학원을 졸업해서, 결혼하고…… 같이 살 집에서……)"
+
+[[dialogue]]
+speaker = "メルエル"
+original = "（私はお料理を作りながら、会長くんがお仕事から帰ってくるのを待ってー……あ、その未来、すっごく素敵かも……！）"
+translation = "(나는 요리를 하면서 회장군이 일 마치고 돌아오기를 기다리고── 아, 그 미래, 정말 멋질지도……!)"
+
+[[dialogue]]
+speaker = "メルエル"
+original = "「ふんふん、ふ～んっ♪\u3000今日は会長くんが早く帰ってくる日～♪」"
+translation = "「흠흠, 흠~♪ 오늘은 회장군이 일찍 돌아오는 날~♪」"
+
+[[dialogue]]
+speaker = "メルエル"
+original = "「お仕事で疲れてるだろうし、会長くんの大好きなアイドル衣装でお出迎えしちゃお～っと♪」"
+translation = "「일하느라 지쳤을 테니까, 회장군이 정말 좋아하는 아이돌 의상으로 마중 나가야지~♪」"
+
+[[dialogue]]
+speaker = "メルエル"
+original = "「学生の頃の服だから恥ずかしいけど、これを着たら会長くん、すっごく喜んでくれるんだよねっ<emoji=heart04>」"
+translation = "「학생 때 옷이라 부끄럽지만, 이걸 입으면 회장군이 정말 기뻐해 주거든<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "メルエル"
+original = "「夕ご飯の準備もばっちり、なんだけど……ちょっと作りすぎちゃったかなぁ？」"
+translation = "「저녁밥 준비도 완벽하지만…… 조금 너무 많이 만들었나?」"
+
+[[dialogue]]
+speaker = "メルエル"
+original = "「あ、リノお義母さんも呼んじゃおうかな！\u3000ご飯は賑やかなのが一番だし！」"
+translation = "「아, 리노 시어머님도 부를까! 밥은 북적북적한 게 제일이니까!」"
+
+[[dialogue]]
+speaker = "メルエル"
+original = "「ふふ～。まだかな、まだかなっ……会長くん、早く帰ってこないかなー……♪」"
+translation = "「후후~. 아직일까, 아직일까…… 회장군, 빨리 안 돌아오려나~……♪」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ただいま、メルエル"
+translation = "다녀왔어, 멜레르"
+
+[[dialogue]]
+speaker = "メルエル"
+original = "「あっ──お帰りっ、会長くん！\u3000お疲れ様っ！」"
+translation = "「앗── 다녀왔어, 회장군! 수고했어!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "また『会長くん』って呼んでる"
+translation = "또 『회장군』이라고 부르네"
+
+[[dialogue]]
+speaker = "メルエル"
+original = "「あっ、ご、ごめんねっ……学生の頃の癖が抜けなくって……！」"
+translation = "「앗, 미, 미안해…… 학생 때 버릇이 안 빠져서……!」"
+
+[[dialogue]]
+speaker = "メルエル"
+original = "「えっと……お、お帰りなさい、あなたっ<emoji=heart04>」"
+translation = "「저기…… 다녀오셨어요, 여·보·야<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "メルエル"
+original = "「あ、うんっ……この衣装、変じゃないかな。これ着るとあなたが喜んでくれるから……えへへ<emoji=heart04>」"
+translation = "「아, 응…… 이 의상, 이상하지 않아? 이걸 입으면 네가 기뻐해 주니까…… 에헤헤<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "メルエル"
+original = "「あ、だ、ダメだよぉ<emoji=heart04>\u3000チューされると嬉しくなって……もっとしたいって思っちゃう。お料理冷めちゃうし……後にしよ？」"
+translation = "「아, 안, 안 돼애<emoji=heart04> 키스 받으면 기뻐져서…… 더 하고 싶다고 생각하게 돼. 요리 식어버리니까…… 나중에 하자?」"
+
+[[dialogue]]
+speaker = "メルエル"
+original = "「ぁ──んんっ……ちゅっ<emoji=heart04>\u3000んちゅっ……ちゅぅっ……でも、強引なあなたも、好きっ……<emoji=heart04>」"
+translation = "「아── 으음…… 츄<emoji=heart04> 읍…… 츄우…… 하지만, 강압적인 너도, 좋아……<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "メルエル"
+original = "「えへへへへぇ～～<emoji=heart04>\u3000メルトしちゃうよぉ……<emoji=heart04>」"
+translation = "「에헤헤헤헤~~<emoji=heart04> 멜트 되어버려어……<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "リノ"
+original = "「ね、ねえクロト？\u3000メルエルちゃんどうしちゃったの……？\u3000さっきからぽやや～んってしてるけど……」"
+translation = "「저, 저기 쿠로토? 멜레르 짱 왜 저러니……? 아까부터 멍하니 있는 것 같은데……」"
+
+[[dialogue]]
+speaker = "unk"
+original = "可愛いよね"
+translation = "귀엽잖아요"
+
+[[dialogue]]
+speaker = "リノ"
+original = "「確かに可愛らしいけれど……お、起こしてあげた方がいいんじゃないかしら～？」"
+translation = "「확실히 귀엽긴 하지만…… 깨, 깨워주는 게 좋지 않을까~?」"
+
+[[dialogue]]
+speaker = "メルエル"
+original = "「ほわほわほわ～ん……<emoji=heart04>\u3000会長くん、しゅきー……<emoji=heart04>」"
+translation = "「호와호와호와~앙……<emoji=heart04> 회장군, 조아해~……<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "unk"
+original = "幸せそうに妄想に浸るメルエルの傍で、俺はその日の仕事をどんどん片付けていった。"
+translation = "행복하게 망상에 젖어 있는 멜레르 곁에서, 나는 그날의 업무를 척척 해치워 나갔다."
+
+[[dialogue]]
+speaker = "unk"
+original = "メルエルが妄想に描いている以上の幸せを実現してみせる。そのためにリクリエだって退けてみせると、心に誓いながら──"
+translation = "멜레르가 망상에 그리는 이상의 행복을 실현해 보이겠다. 그러기 위해 리크리에라도 물리쳐 보이겠다고 마음속으로 맹세하며──"
+

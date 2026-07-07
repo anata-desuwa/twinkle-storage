@@ -1,0 +1,530 @@
+[[dialogue]]
+speaker = "unk"
+original = "合宿２日目の夜。"
+translation = "합숙 2일째 밤."
+
+[[dialogue]]
+speaker = "unk"
+original = "俺達はアナの提案で再び、レクリエーションをすることになった――"
+translation = "우리는 아나의 제안으로 다시 레크리에이션을 하게 되었다――"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「今回は、事前に協力をお願いしていたリップルさんも参加です」"
+translation = "「이번에는 미리 협력을 부탁드린 리플 씨도 참가합니다」"
+
+[[dialogue]]
+speaker = "リップル"
+original = "「ラッシャーセー♪\u3000時間を作って、アソビに来ちゃいました～！」"
+translation = "「어서옵쇼~♪ 시간을 내서 놀러 왔습니나리~!」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「リップルちゃん、歓迎するわ～♪」"
+translation = "「리플짱, 환영해~♪」"
+
+[[dialogue]]
+speaker = "リップル"
+original = "「アリガトございま～す♪\u3000合宿参加したかったのでウレシイで～す！」"
+translation = "「고맙습니나리~♪ 합숙 참가하고 싶었어서 기쁩니나리!」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「それで、アナちゃん。レクリエーションの内容についてまだ聞かされてなかったけど、何して遊ぶのかしら？」"
+translation = "「그래서 아나짱. 레크리에이션 내용에 대해서 아직 못 들었는데, 뭐 하고 노는 걸까?」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「では、リップルさんも来ましたし、発表しますね」"
+translation = "「그럼 리플 씨도 오셨으니 발표하죠」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「今回はズバリ――」"
+translation = "「이번에는 바로――」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「肝試しをしようと思います」"
+translation = "「담력 시험을 하려고 합니다」"
+
+[[dialogue]]
+speaker = "リップル"
+original = "「ホラーは夏の定番デスね～」"
+translation = "「호러는 여름의 단골입니나리~」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「リップルさんは知っての通り、結界内で様々なものを作り出すことができます。そこで今回協力して貰ったのは……」"
+translation = "「리플 씨는 아시다시피 결계 내에서 다양한 것들을 만들어낼 수 있습니다. 그래서 이번에 협력받은 건……」"
+
+[[dialogue]]
+speaker = "リップル"
+original = "「肝試しのオバケを作るコトで～す♪」"
+translation = "「담력 시험용 귀신을 만드는 것이었습니나리~♪」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「あら～♪\u3000それは面白そうね～」"
+translation = "「어머나~♪ 그거 재미있을 것 같네~」"
+
+[[dialogue]]
+speaker = "リップル"
+original = "「フフフ、あっと驚かせちゃうので、期待しててクダさい！」"
+translation = "「후후후, 깜짝 놀라게 해드릴 테니 기대하시라나리!」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「コースも決めてあるので、早速スタートしましょう」"
+translation = "「코스도 정해두었으니 바로 시작하죠」"
+
+[[dialogue]]
+speaker = "unk"
+original = "そうして、俺達が肝試しのコースを進んでいると――"
+translation = "그렇게 우리가 담력 시험 코스를 나아가고 있자――"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「あら？\u3000草むらの中から、何か出て来たわ～」"
+translation = "「어라? 풀숲 사이에서 뭔가가 나왔어~」"
+
+[[dialogue]]
+speaker = "リップル"
+original = "「フフフ……ついに現れましたね。ワタシの作り出した恐怖のオバケが！」"
+translation = "「후후후…… 드디어 나타났군요. 제가 만들어낸 공포의 귀신이!」"
+
+[[dialogue]]
+speaker = "？？？"
+original = "「グルルルル……！」"
+translation = "「그르르르르……!」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「こ、これは……」"
+translation = "「이, 이것은……」"
+
+[[dialogue]]
+speaker = "犬？"
+original = "「ワン！」"
+translation = "「멍!」"
+
+[[dialogue]]
+speaker = "リップル"
+original = "「紹介します！\u3000噛まれたらゾンビ化する、恐怖のゾンビ犬で～す♪」"
+translation = "「소개합니나리! 물리면 좀비가 되는 공포의 좀비 개입니나리~♪」"
+
+[[dialogue]]
+speaker = "unk"
+original = "これオバケ違う！"
+translation = "이건 귀신이 아니잖아!"
+
+[[dialogue]]
+speaker = "リップル"
+original = "「え、そうなんですか？\u3000ホラー映画で出てきたので、てっきり……」"
+translation = "「에, 그런가요? 호러 영화에서 나왔길래 당연히……」"
+
+[[dialogue]]
+speaker = "リップル"
+original = "「――なんちゃらハザード……？\u3000言われてみれば、そんなタイトルだったような……」"
+translation = "「――뭐시기 하저드……? 듣고 보니 그런 제목이었던 것 같기도……」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「というか、リップルさん。噛まれたらどうなるって言いました……？」"
+translation = "「그보다 리플 씨. 물리면 어떻게 된다고 하셨죠……?」"
+
+[[dialogue]]
+speaker = "リップル"
+original = "「ハイ？\u3000噛まれたら一時的デスが、もれなくゾンビ化しま～す♪\u3000何せゾンビ犬デスので！」"
+translation = "「네? 물리면 일시적이지만 빠짐없이 좀비가 됩니나리~♪ 뭐니 뭐니 해도 좀비 개니까나리!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "怖い怖い怖い！"
+translation = "무서워 무서워 무서워!"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「ま、まさかの物理的恐怖……！\u3000がくがくぶるぶる……」"
+translation = "「마, 마사카의 물리적 공포……! 덜덜덜덜……」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「あらあら、うふふ♪\u3000ゾンビ体験って何だか面白そうね～」"
+translation = "「어머어머, 우후후♪ 좀비 체험이라니 왠지 재미있을 것 같네~」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「ファッ！？\u3000サーシャ先輩は怖くないんですか……？」"
+translation = "「핫!? 사샤 선배는 안 무서우신가요……?」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「う～ん、虫に比べたら、全然平気じゃないかしら？」"
+translation = "「으음, 곤충에 비하면 전혀 괜찮지 않을까?」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「えぇ……」"
+translation = "「에휴……」"
+
+[[dialogue]]
+speaker = "リップル"
+original = "「ちなみに、今回のゾンビ犬は、フローラルな香りがする特別仕様で～す！」"
+translation = "「참고로 이번 좀비 개는 플로럴 향기가 나는 특별 사양입니나리!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "何故にフローラル！？"
+translation = "어째서 플로럴!?"
+
+[[dialogue]]
+speaker = "リップル"
+original = "「夏ですし、腐った匂いがするのはＮＧな気がしたんデスよね～」"
+translation = "「여름이고 하니 썩은 냄새가 나는 건 NG인 것 같았습니나리~」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「噛まれてゾンビ化するのはアウトじゃないんですか……！？」"
+translation = "「물려서 좀비가 되는 건 아웃 아닙니까……!?」"
+
+[[dialogue]]
+speaker = "リップル"
+original = "「アハハ！\u3000大丈夫デスよ～♪\u3000ゾンビ化するのはあくまで一時的なものデスし、健康に害はアリマセンから！」"
+translation = "「아하하! 괜찮습니나리~♪ 좀비가 되는 건 어디까지나 일시적인 것이고 건강에 해는 없으니까나리!」"
+
+[[dialogue]]
+speaker = "ゾンビ犬"
+original = "「ワン！」"
+translation = "「멍!」"
+
+[[dialogue]]
+speaker = "リップル"
+original = "「オウ！？\u3000シマッタです……説明しててユダンしました……！」"
+translation = "「어우!? 실수했습니나리…… 설명하다가 방심했습니나리……!」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「え……あの、リップルさん？」"
+translation = "「에…… 저기, 리플 씨?」"
+
+[[dialogue]]
+speaker = "リップル"
+original = "「残念ながら、ゾンビ化１号はワタシみたいデスね……犬に足を噛まれてしまいました……」"
+translation = "「유감스럽게도 좀비화 1호는 저인 것 같습니나리…… 개한테 발을 물리고 말았습니나리……」"
+
+[[dialogue]]
+speaker = "リップル"
+original = "「それでは皆さん、頑張ってゾンビ犬やワタシから逃げ切ってクダさい……グッドラック……！」"
+translation = "「그럼 여러분, 열심히 좀비 개와 저로부터 도망쳐 주시라나리…… 굿 럭……!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "作った本人が一番先に逝ったぁーーーっ！？"
+translation = "만든 본인이 제일 먼저 갔어어어어억!?"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「あら～♪」"
+translation = "「어머나~♪」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「あわわ……いやこれ、本当にどうするんです……！？」"
+translation = "「아와와…… 아니 이거 진짜 어떻게 하는 거예요……!?」"
+
+[[dialogue]]
+speaker = "ゾンビ犬"
+original = "「グルルル……ワン！」"
+translation = "「그르르…… 멍!」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「うわわっ！？\u3000こっちに来ましたよ！？」"
+translation = "「우와왓!? 이쪽으로 왔어요!?」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「私、狙われてません！？\u3000ちょっ、来ないで下さい……！」"
+translation = "「저 노려지고 있는 거 아니에요!? 잠깐, 오지 마세요……!」"
+
+[[dialogue]]
+speaker = "ゾンビ犬"
+original = "「オレ……カジル……！\u3000オマエ、マルカジリ……！」"
+translation = "「나…… 씹는다……! 너, 통째로……!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "シャベッタァァァーーーッ！！？"
+translation = "말했다아아아아아아악!!?"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「喋るの怖っ！\u3000というか、足が速いです……！\u3000逃げ切れません……！」"
+translation = "「말하는 거 무서워! 그보다 발이 빨라요……! 못 도망치겠어요……!」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「抑えようにも捕まえられないくらい、すばっしこいわ～」"
+translation = "「잡으려고 해도 잡을 수 없을 정도로 날쌔네~」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「あわわわ、追い詰められました……！\u3000近くで見ると、目が飛び出してたり、中身がハミ出してたりで、グロテスクです……！」"
+translation = "「아와와와, 막다른 곳에 몰렸어요……! 가까이서 보니까 눈알이 튀어나와 있거나 내용물이 흘러나와 있어서 그로테스크해요……!」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「あ、でも香りは本当にフローラルで、気分が思わずホッとして……あ」"
+translation = "「아, 그래도 향기는 정말 플로럴해서 마음이 나도 모르게 놓여서…… 아」"
+
+[[dialogue]]
+speaker = "ゾンビ犬"
+original = "「ワン！」"
+translation = "「멍!」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「フローラルな良い匂いが逆にトラップに……おうふ」"
+translation = "「플로럴한 좋은 향기가 역으로 트랩이…… 오우후」"
+
+[[dialogue]]
+speaker = "unk"
+original = "アナが噛まれたぁぁぁーーーっ！"
+translation = "아나가 물렸다아아아아아악!"
+
+[[dialogue]]
+speaker = "ゾンビ犬"
+original = "「グルル……ツギハ、オマエタチト遊ブ……！」"
+translation = "「그르르…… 다음은 너희랑 논다……!」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「あらあら、ワンちゃん、今度は私達を狙って来たわね～」"
+translation = "「어머어머, 강아지야, 이번엔 우리를 노리러 왔구나~」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「いや、ワンちゃんだけじゃなくて――」"
+translation = "「아니, 강아지뿐만 아니라――」"
+
+[[dialogue]]
+speaker = "リップル"
+original = "「カイチョーとサーシャも……ゾンビにウェルカムで～す」"
+translation = "「회장하고 사샤도…… 좀비로 웰컴입니나리」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「ノープロブレム……慣れれば怖くないですよ……？」"
+translation = "「노 프로블럼…… 익숙해지면 무섭지 않다고요……?」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「２人ともゾンビ化しちゃったわね～♪」"
+translation = "「둘 다 좀비가 되어버렸네~♪」"
+
+[[dialogue]]
+speaker = "リップル"
+original = "「アハハ～」"
+translation = "「아하하~」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「ニチャア……」"
+translation = "「니챠아……」"
+
+[[dialogue]]
+speaker = "unk"
+original = "虚ろな笑顔が怖い怖い怖い！"
+translation = "텅 빈 웃음소리 무서워 무서워 무서워!"
+
+[[dialogue]]
+speaker = "ゾンビ犬"
+original = "「ニガサナイ……ワン！」"
+translation = "「안 놓쳐…… 멍!」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「あらあら、うふふ♪\u3000あっという間に取り囲まれちゃったわ～」"
+translation = "「어머어머, 우후후♪ 순식간에 둘러싸여 버렸네~」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「――大ピンチなのに冷静……？\u3000ううん、会長くん、むしろ逆よ～」"
+translation = "「――대위기인데 냉정하다고? 아니아니, 회장군, 오히려 반대야~」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「ピンチだからこそドキドキして、面白くなっちゃっうのよ～。肝試しって実は私、大好きなの～♪」"
+translation = "「위기니까 더 두근거려서 재미있어지는걸. 담력 시험은 사실 나, 정말 좋아하거든~♪」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「――どうやってこの状況を切り抜けるか？\u3000１つだけ、もしかしたらって思うことがあるのよね～」"
+translation = "「――어떻게 이 상황을 헤쳐나갈까? 딱 하나, 어쩌면 하고 생각하는 게 있긴 해~」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「ダメならダメで、ゾンビ体験してみるのも面白そうだし、やってみようかしら♪」"
+translation = "「안 되면 안 되는 대로 좀비 체험 해보는 것도 재미있을 것 같고, 한번 해볼까♪」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「ねぇ、ワンちゃん。さっき私達と遊ぶって言ってたけど、それって仲良くなりたいってことかしら？」"
+translation = "「있지, 강아지야. 아까 우리랑 논다고 했는데, 그건 사이좋게 지내고 싶다는 뜻일까?」"
+
+[[dialogue]]
+speaker = "ゾンビ犬"
+original = "「ソウ……ダカラ、カジッテゾンビニスル……ソウスレバ、ナカヨシ……」"
+translation = "「그래…… 그러니까 씹어서 좀비로 만든다…… 그러면 친구……」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「なるほどね～。でもお姉ちゃん、齧られたらワンちゃんを抱き締めたり、いい子いい子できなくなっちゃうわ～」"
+translation = "「그렇구나~ 하지만 언니, 물려버리면 강아지를 껴안거나 착하지 착해를 해줄 수 없게 되잖아~」"
+
+[[dialogue]]
+speaker = "ゾンビ犬"
+original = "「オネエチャン……？\u3000イイコイイコ……？」"
+translation = "「언니……? 착하지 착해……?」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「だから～、えいっ♪」"
+translation = "「그러니까~ 에잇♪」"
+
+[[dialogue]]
+speaker = "unk"
+original = "自分からゾンビ犬にハグを！？"
+translation = "자기부터 좀비 개에게 허그를!?"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「よ～しよしよし♪\u3000ワンちゃん、いい子いい子～♪」"
+translation = "「옳지 옳지 옳지♪ 강아지야, 착하다~♪」"
+
+[[dialogue]]
+speaker = "ゾンビ犬"
+original = "「ワン！？\u3000ナニヲスル……！？\u3000ゾンビノオレガ、コワクナイノカ……！？」"
+translation = "「멍!? 뭘 하는 거냐……!? 좀비인 내가 무섭지 않은 거냐……!?」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「ん～？\u3000個性的だけど、カブトムシに比べたら可愛いわよ～？\u3000それにフローラルな良い匂いもするし、お姉ちゃんは好きよ～♪」"
+translation = "「음~? 개성적이지만 장수풍뎅이에 비하면 귀여운걸~? 게다가 플로럴한 좋은 냄새도 나고, 언니는 좋아해~♪」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「だから齧るのは止めて、お姉ちゃんと仲良く遊びましょう♪\u3000ね？」"
+translation = "「그러니까 물지 말고 언니랑 사이좋게 놀자♪ 응?」"
+
+[[dialogue]]
+speaker = "ゾンビ犬"
+original = "「オ、オレハ……ゾンビ……カジラナイト、ナカヨクシタリナド……！」"
+translation = "「나, 나는…… 좀비…… 물지 않으면 사이좋게 지내거나 하는 건……!」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「は～い、お姉ちゃんと仲良しのハグをしましょうね～♪\u3000ぎゅ～っ<emoji=heart04>」"
+translation = "「자~ 언니랑 사이좋게 허그 하자~♪ 꼬옥~ <emoji=heart04>」"
+
+[[dialogue]]
+speaker = "ゾンビ犬"
+original = "「オ……オォォォ……！」"
+translation = "「오…… 오오오……!」"
+
+[[dialogue]]
+speaker = "ゾンビ犬"
+original = "「……クゥ～ン<emoji=heart04>」"
+translation = "「……낑~ <emoji=heart04>」"
+
+[[dialogue]]
+speaker = "unk"
+original = "お姉ちゃん力で手懐けたぁぁぁーーーっ！！"
+translation = "언니 포스로 길들였다아아아아아악!!"
+
+[[dialogue]]
+speaker = "ゾンビ犬"
+original = "「オレ、オネエチャンノ、イウコトキク……♪」"
+translation = "「나, 언니 말 잘 들을게……♪」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「は～い♪\u3000じゃあ、リップルちゃんとアナちゃんも、ぎゅ～っ<emoji=heart04>」"
+translation = "「자~♪ 그럼 리플짱이랑 아나짱도 꼬옥~ <emoji=heart04>」"
+
+[[dialogue]]
+speaker = "リップル"
+original = "「ワオ！？\u3000……お姉ちゃんのハグで、ＢＩＧハッピーで～す♪」"
+translation = "「와오!? ……언니의 허그로 BIG 해피입니나리~♪」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「ほわぁ……イエス、オネエチャン。あなたが神です」"
+translation = "「호와아…… 예스, 언니. 당신이 신입니다」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「あらあら、うふふ♪\u3000皆、お姉ちゃんって呼んでくれて、嬉しいわ～♪」"
+translation = "「어머어머, 우후후♪ 다들 언니라고 불러줘서 기쁘네~♪」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「よしよし、いい子いい子♪」"
+translation = "「옳지 옳지, 착하다 착해♪」"
+
+[[dialogue]]
+speaker = "unk"
+original = "お、お姉ちゃん無双……！"
+translation = "어, 언니 무쌍……!"
+
+[[dialogue]]
+speaker = "unk"
+original = "こうして、肝試しはサーシャさんの１人勝ちで幕を閉じたのだった――"
+translation = "이렇게 담력 시험은 사샤 씨의 판정승으로 막을 내렸습니다――"
+
+[[dialogue]]
+speaker = "unk"
+original = "翌日。アナとリップルのゾンビ化は無事に解けていた。"
+translation = "다음 날. 아나와 리플의 좀비화는 무사히 풀려 있었다."
+
+[[dialogue]]
+speaker = "リップル"
+original = "「お姉ちゃん、それじゃあ今日も海の家で頑張ってキマすね～♪」"
+translation = "「언니, 그럼 오늘도 바다의 집에서 열심히 하고 오겠습니나리~♪」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「は～い、いってらっしゃい♪」"
+translation = "「응~ 다녀와♪」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「おはようございます。今日もサバイバル、頑張って行きましょう」"
+translation = "「안녕하세요. 오늘도 서바이벌, 힘내서 갑시다」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「アナちゃん、おはよ～♪\u3000今日も釣りのこと、色々教えてね」"
+translation = "「아나짱, 안녕~♪ 오늘도 낚시에 대해 이것저것 가르쳐줘」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「はい、お姉ちゃん」"
+translation = "「네, 언니」"
+
+[[dialogue]]
+speaker = "unk"
+original = "違うのが感染してるぅぅぅーーーっ！！？"
+translation = "다른 게 감염됐잖아아아아아아악!!?"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「あらあら、うふふ♪」"
+translation = "「어머어머, 우후후♪」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ホラーな展開に思わず叫んでしまう俺なのだった――"
+translation = "호러 같은 전개에 나도 모르게 소리 지르고 마는 나였다――"
+

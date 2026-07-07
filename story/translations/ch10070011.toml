@@ -1,0 +1,210 @@
+[[dialogue]]
+speaker = "unk"
+original = "第１話,ドジっ子ルリエル,P"
+translation = "제1화, 덜렁이 루리엘"
+
+[[dialogue]]
+speaker = "unk"
+original = "モンスター出現の知らせを聞いて急行していると……"
+translation = "몬스터 출현 소식을 듣고 급히 달려가던 중……"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「わわわっ！？」"
+translation = "「와와왓!?」"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「あたたた～……あっ！\u3000すみません、慌ててて……大丈夫ですかっ？」"
+translation = "「아야야야~…… 앗! 죄송해요, 서두르느라…… 괜찮으신가요?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "俺は大丈夫だけど、君は？"
+translation = "나는 괜찮은데, 너는?"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「ご心配ありがとうございますっ。わたしはこの通りピンピンしてますっ、ヘーキなのですっ」"
+translation = "「걱정해 주셔서 감사해요. 전 보시다시피 쌩쌩하답니다, 괜찮아요!」"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「ん？\u3000どこかでお会いしたような……あ～っ、新星の会長さんじゃないですか！」"
+translation = "「음? 어디서 뵌 적이 있는 것 같은데…… 아~! 신성의 회장님 아니신가요!」"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「わ～～～っ！？」"
+translation = "「와~~~!?」"
+
+[[dialogue]]
+speaker = "セーラ"
+original = "「ルリちー、先走りすぎ……あ、会長さんじゃん。やっほー、うちのルリちーがごめんね～」"
+translation = "「루리치, 너무 앞서갔어…… 어, 회장님이잖아. 안녕~ 우리 루리치가 미안해~」"
+
+[[dialogue]]
+speaker = "セーラ"
+original = "「せっかくだし、今日は一緒に戦おっか？\u3000ルリちーもいいよね？」"
+translation = "「이왕 이렇게 된 거, 오늘은 같이 싸울까? 루리치도 괜찮지?」"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「はいっ。ルリエルはここから挽回しますよ～っ」"
+translation = "「네! 루리엘은 여기서부터 만회할게요~」"
+
+[[dialogue]]
+speaker = "セーラ"
+original = "「うちが援護するから、会長さんは前衛いってもらっていい？\u3000ルリちーはうちらに加護をお願い」"
+translation = "「우리가 원호할 테니까, 회장님은 전방으로 가줄래? 루리치는 우리한테 가호를 부탁해」"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「はーいっ」"
+translation = "「네~!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "はい！"
+translation = "그래!"
+
+[[dialogue]]
+speaker = "セーラ"
+original = "「こいつらけっこう硬いね～。まぁルリちーにバフかけてもらえばラクショー……」"
+translation = "「이 녀석들 꽤 단단하네~. 뭐, 루리치한테 버프 받으면 식은 죽 먹기……」"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「すー……」"
+translation = "「스으……」"
+
+[[dialogue]]
+speaker = "セーラ"
+original = "「ルリちー、ぶちかませ～！」"
+translation = "「루리치, 한 방 먹여줘~!」"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「んにゅ……ふ……ふ……」"
+translation = "「으뉴…… 흐…… 흐……」"
+
+[[dialogue]]
+speaker = "セーラ"
+original = "「ルリちー？」"
+translation = "「루리치?」"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「ふぇーくっしょんっ！！」"
+translation = "「에에취!!」"
+
+[[dialogue]]
+speaker = "セーラ"
+original = "「ルリちー～！」"
+translation = "「루리치~!」"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「すみませんっ……ふぇ、ふぇ……ふぇ～っくしょんっ！！」"
+translation = "「죄송해요…… 에, 에…… 에~취!!」"
+
+[[dialogue]]
+speaker = "セーラ"
+original = "「うわっ、モンスターめっちゃきた！\u3000こうなったら手数で押し返すよ。ルリちーはとりあえずバフ！」"
+translation = "「우와, 몬스터 엄청 몰려왔어! 이렇게 되면 머릿수로 밀어붙이자. 루리치는 일단 버프!」"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「はい、もうくしゃみはしませんっ。今度こそ……」"
+translation = "「네, 이제 재채기 안 할게요. 이번에야말로……」"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「くちゅんっ」"
+translation = "「쿠츙」"
+
+[[dialogue]]
+speaker = "セーラ"
+original = "「あ、角笛落とした」"
+translation = "「아, 뿔나팔 떨어뜨렸다」"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「角笛がモンスターに蹴飛ばされて……」"
+translation = "「뿔나팔이 몬스터에게 채여서……」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ピンボールのように弾かれて向こうに……"
+translation = "핀볼처럼 튕겨 나가 저편으로……"
+
+[[dialogue]]
+speaker = "セーラ"
+original = "「え～っ、そんなんあるっ！？\u3000あはははっ！\u3000もう面白くなってきた、お腹痛い……」"
+translation = "「에~, 그런 게 어딨어!? 아하하하! 이제 웃음이 나오네, 배 아파……」"
+
+[[dialogue]]
+speaker = "セーラ"
+original = "「ルリちーはとりあえず角笛取りにダッシュ！\u3000うちと会長さんでこじ開けてやるからガンバレ！」"
+translation = "「루리치는 일단 뿔나팔 가지러 대시! 나랑 회장님이 길을 열어줄 테니까 힘내!」"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「はい～っ！」"
+translation = "「네에~!」"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「はぁ、はぁ、はぁ……角笛、ゲットォ～！」"
+translation = "「하아, 하아, 하아…… 뿔나팔, 겟~!」"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「三度目の正直……ルリエルいきまーすっ」"
+translation = "「삼세판의 진실…… 루리엘 갑니다~!」"
+
+[[dialogue]]
+speaker = "セーラ"
+original = "「よし来た！\u3000一気に決めるよ、会長さんっ！」"
+translation = "「좋아, 왔다! 단숨에 끝내자, 회장님!」"
+
+[[dialogue]]
+speaker = "セーラ"
+original = "「お疲れ～。星力めっちゃ使ったけど、まぁなんとかなったね。はは」"
+translation = "「수고했어~. 성력을 엄청 썼지만, 뭐 어떻게든 됐네. 하하」"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「今日はすみませんでした～っ！」"
+translation = "「오늘은 죄송했습니다~!」"
+
+[[dialogue]]
+speaker = "セーラ"
+original = "「ルリちーもやればできる子なんだけどねー。ま、今日はルリちーの噂してた誰かさんが悪いということで……ダメ？」"
+translation = "「루리치도 하면 되는 아이긴 한데 말이야. 뭐, 오늘은 루리치 소문을 퍼뜨린 누군가가 나쁜 걸로 치고…… 안 돼?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "それでいいです"
+translation = "그걸로 됐어"
+
+[[dialogue]]
+speaker = "セーラ"
+original = "「あはは、ありがとー」"
+translation = "「아하하, 고마워~」"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「今日はありがとうございました、新星の会長さん」"
+translation = "「오늘 감사했습니다, 신성의 회장님」"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「今度一緒に戦う時はちゃんとサポートしてみせますので、またよろしくお願いしますっ！」"
+translation = "「다음에 같이 싸울 때는 제대로 서포트해 보일 테니까, 또 잘 부탁드려요!」"
+
+[[dialogue]]
+speaker = "セーラ"
+original = "「まぁ……めげないところはルリちーのいいとこ、かな？\u3000またよろしくね～」"
+translation = "「뭐…… 굴하지 않는 점은 루리치의 장점일까나? 또 봐~」"
+

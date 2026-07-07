@@ -1,0 +1,350 @@
+[[dialogue]]
+speaker = "unk"
+original = "第２話,グレイスとエステル,P"
+translation = "제2화, 그레이스와 에스텔, P"
+
+[[dialogue]]
+speaker = "グレイス"
+original = "「魔王さん、わざわざありがとうございます」"
+translation = "「마왕 씨, 일부러 와주셔서 감사합니다」"
+
+[[dialogue]]
+speaker = "unk"
+original = "俺に用事があるって？"
+translation = "나한테 용건이 있다고?"
+
+[[dialogue]]
+speaker = "グレイス"
+original = "「はい。小耳に挟んだのですが、私たちに先んじて、アルタイルの世界にエステルが来ているんですよね？」"
+translation = "「네. 얼핏 들었는데, 저희보다 먼저 알타이르 세계에 에스텔이 와 있다면서요?」"
+
+[[dialogue]]
+speaker = "グレイス"
+original = "「あの子と会ってお話がしたいんですけれど、取次ぎをお願いできますか……？」"
+translation = "「그 아이와 만나서 이야기하고 싶은데, 주선 좀 부탁드려도 될까요……?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "問題ないよ。エステルも喜ぶと思う"
+translation = "문제없어. 에스텔도 기뻐할 거야."
+
+[[dialogue]]
+speaker = "グレイス"
+original = "「……そう、でしょうか。あはは」"
+translation = "「……그럴까요. 아하하」"
+
+[[dialogue]]
+speaker = "グレイス"
+original = "「私とあの子はそりが合わない──って言ったらお互いに問題があるように聞こえちゃいますね」"
+translation = "「저랑 그 아이는 사이가 안 좋다──고 하면 서로에게 문제가 있는 것처럼 들리겠네요」"
+
+[[dialogue]]
+speaker = "グレイス"
+original = "「あの子は何も悪くないんです。私が一方的に苦手意識を持って、デネブにいた頃はぎくしゃくしてたんです……」"
+translation = "「그 아이는 아무 잘못 없어요. 제가 일방적으로 거북함을 느껴서 데네브에 있을 때는 서먹서먹했거든요……」"
+
+[[dialogue]]
+speaker = "グレイス"
+original = "「──だから謝りたくて。エステルと一度、お話をさせてくれませんか？」"
+translation = "「──그래서 사과하고 싶어서요. 에스텔과 한 번 이야기하게 해주지 않을래요?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "俺はフィオナに連絡を取り、星見家の邸宅の一室で、グレイスとエステルを引き合わせることにした。"
+translation = "나는 피오나에게 연락을 취해, 호시미 가문 저택의 한 방에서 그레이스와 에스텔을 만나게 해주기로 했다."
+
+[[dialogue]]
+speaker = "エステル"
+original = "「グレイス先輩、お久しぶりです！」"
+translation = "「그레이스 선배, 오랜만이에요!」"
+
+[[dialogue]]
+speaker = "グレイス"
+original = "「は、はい。エステルも、元気そうで……」"
+translation = "「네, 네. 에스텔도 잘 지낸 것 같아서……」"
+
+[[dialogue]]
+speaker = "エステル"
+original = "「わざわざ私の顔を見に来ていただけるだなんて嬉しいです。本日はどのような……？」"
+translation = "「일부러 제 얼굴을 보러 와주시다니 기뻐요. 오늘은 어떤 일로……?」"
+
+[[dialogue]]
+speaker = "グレイス"
+original = "「そ、そのこと、なのですが……ええと……」"
+translation = "「그, 그게 말이지…… 에또……」"
+
+[[dialogue]]
+speaker = "unk"
+original = "エステルに謝りたいんだって"
+translation = "에스텔에게 사과하고 싶대."
+
+[[dialogue]]
+speaker = "エステル"
+original = "「謝る、ですか……？\u3000あっ、もしかして──」"
+translation = "「사과한다고요……? 앗, 혹시──」"
+
+[[dialogue]]
+speaker = "グレイス"
+original = "「はい。ちょっと前にデネブであった、あの一件のことで……」"
+translation = "「네. 얼마 전에 데네브에서 있었던 그 일로……」"
+
+[[dialogue]]
+speaker = "グレイス"
+original = "「あれっ？\u3000エステル、手帳から何か落ちましたよ！\u3000拾ってあげますね！」"
+translation = "「어라? 에스텔, 수첩에서 뭐가 떨어졌어요! 주워줄게요!」"
+
+[[dialogue]]
+speaker = "エステル"
+original = "「あっ──」"
+translation = "「앗──」"
+
+[[dialogue]]
+speaker = "グレイス"
+original = "「……こ、これはっ！？」"
+translation = "「……이, 이것은!?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "グレイスが拾ったのは、ぼろぼろに擦りきれた雑誌の１ページ──その切り抜きだった。"
+translation = "그레이스가 주운 것은 너덜너덜하게 해진 잡지의 한 페이지── 그 스크랩이었다."
+
+[[dialogue]]
+speaker = "unk"
+original = "『流星市国を守る、新星学園の星徒会長に迫る』と銘打たれた記事と、１人の星騎士の写真──"
+translation = "『유성시국을 지키는 신성학원의 성도회장을 파헤치다』라는 제목의 기사와 한 성기사의 사진──"
+
+[[dialogue]]
+speaker = "グレイス"
+original = "「緋宮、クロト……！」"
+translation = "「히노미야 쿠로토……!」"
+
+[[dialogue]]
+speaker = "エステル"
+original = "「す、すみません、グレイス先輩……あの……」"
+translation = "「죄, 죄송해요 그레이스 선배…… 저기……」"
+
+[[dialogue]]
+speaker = "グレイス"
+original = "「どうして……こんなものを？\u3000エステル、この男は裏切り者ですよ！？」"
+translation = "「어째서…… 이런 걸? 에스텔, 이 남자는 배신자라구요!?」"
+
+[[dialogue]]
+speaker = "エステル"
+original = "「……グレイス先輩。そんなこと、仰らないでください……魔王様は何も悪いことなど……」"
+translation = "「……그레이스 선배. 그런 말씀 하지 말아 주세요…… 마왕님은 아무런 잘못도……」"
+
+[[dialogue]]
+speaker = "グレイス"
+original = "「目を覚ましてください！\u3000こいつはデネブを……私たちを見捨てたんです！\u3000自分だけが助かるために！！」"
+translation = "「정신 차리세요! 이 녀석은 데네브를…… 우리를 버렸다구요! 자기 혼자만 살기 위해서!!」"
+
+[[dialogue]]
+speaker = "エステル"
+original = "「……違います。きっと何か、誤解があるはずなんです……」"
+translation = "「……아니에요. 분명 뭔가 오해가 있을 거예요……」"
+
+[[dialogue]]
+speaker = "エステル"
+original = "「私はかつて、魔王様に命を救われました。あの御方がいなかったら今、私は生きていません……命の、恩人なんです……」"
+translation = "「저는 예전에 마왕님께 목숨을 구원받았어요. 그분이 없었다면 지금 저는 살아있지 못해요…… 생명의 은인이라구요……」"
+
+[[dialogue]]
+speaker = "グレイス"
+original = "「…………！！」"
+translation = "「…………!!」"
+
+[[dialogue]]
+speaker = "エステル"
+original = "「ルヴィネ会長のお言葉も、女神様のお話も、理解はしています。でも私は、信じているんです……」"
+translation = "「루비네 회장님의 말씀도, 여신님의 이야기도 이해는 하고 있어요. 하지만 저는 믿고 있어요……」"
+
+[[dialogue]]
+speaker = "グレイス"
+original = "（…………この子は、まだ？）"
+translation = "(…………이 아이는 아직도?)"
+
+[[dialogue]]
+speaker = "グレイス"
+original = "（…………私はとっくに、諦めたのに）"
+translation = "(…………나는 진작에 포기했는데)"
+
+[[dialogue]]
+speaker = "グレイス"
+original = "「……返します。ですが、これはお家の引き出しにでも入れておいてください。持ち歩くのは感心しません」"
+translation = "「……돌려줄게요. 하지만 이건 집 서랍에라도 넣어두세요. 가지고 다니는 건 바람직하지 않아요」"
+
+[[dialogue]]
+speaker = "エステル"
+original = "「い、いいんですか……？\u3000ありがとうございます……！」"
+translation = "「괘, 괜찮나요……? 감사합니다……!」"
+
+[[dialogue]]
+speaker = "グレイス"
+original = "「……私は何も見ていません。だからお礼なんて、いりません」"
+translation = "「……전 아무것도 못 본 거예요. 그러니까 감사 인사는 필요 없어요」"
+
+[[dialogue]]
+speaker = "グレイス"
+original = "「アルタイルにやってきて……真実を知りました。デネブの魔王さんは裏切ってなんかいないって」"
+translation = "「알타이르에 와서…… 진실을 알았어요. 데네브의 마왕 씨는 배신 같은 거 하지 않았다는걸」"
+
+[[dialogue]]
+speaker = "エステル"
+original = "「……はい」"
+translation = "「……네」"
+
+[[dialogue]]
+speaker = "グレイス"
+original = "「あの時から私、変にエステルのことを意識して……つっけんどんな態度、いっぱい取っちゃいました。だから……ごめんなさい」"
+translation = "「그때부터 제가 괜히 에스텔을 의식해서…… 퉁명스러운 태도 많이 보여버렸어요. 그러니까…… 미안해요」"
+
+[[dialogue]]
+speaker = "エステル"
+original = "「そんな……謝らないでください。私、気にしていません。ベアトリス副会長から、色々お話も聞いていますし……」"
+translation = "「아니에요…… 사과하지 마세요. 저, 신경 쓰지 않아요. 베아트리스 부회장님께 여러 이야기도 들었고요……」"
+
+[[dialogue]]
+speaker = "グレイス"
+original = "「──ベアトから？」"
+translation = "「──베아토한테?」"
+
+[[dialogue]]
+speaker = "エステル"
+original = "「はい。グレイス先輩と私の様子を心配して、声をかけてくださって……」"
+translation = "「네. 그레이스 선배와 제 사이를 걱정해서 말을 걸어주셔서……」"
+
+[[dialogue]]
+speaker = "エステル"
+original = "「その時に聞きました。グレイス先輩は昔、魔王様のことを信じていたと……」"
+translation = "「그때 들었어요. 그레이스 선배는 옛날에 마왕님을 믿고 있었다고……」"
+
+[[dialogue]]
+speaker = "エステル"
+original = "「流星群の後の避難地で、魔王様の潔白を誰よりも強く訴えていたのが、グレイス先輩だと聞きました」"
+translation = "「유성우 이후의 피난지에서 마왕님의 결백을 누구보다 강하게 주장했던 게 그레이스 선배라고 들었어요」"
+
+[[dialogue]]
+speaker = "グレイス"
+original = "「でも結局……私は信じるのをやめました。エステルは、強いですね……」"
+translation = "「하지만 결국…… 저는 믿는 걸 그만뒀어요. 에스텔은 강하네요……」"
+
+[[dialogue]]
+speaker = "エステル"
+original = "「やめざるを得なかっただけだと思います。１０年前のあの騒動を現地で経験すれば……無理もありません」"
+translation = "「그만둘 수밖에 없었을 뿐이라고 생각해요. 10년 전의 그 소동을 현지에서 겪었다면…… 무리도 아니에요」"
+
+[[dialogue]]
+speaker = "エステル"
+original = "「私はあの時、両親と一緒に市国の外に避難していました──家族が、いましたから……」"
+translation = "「저는 그때 부모님과 함께 시국 밖으로 피난해 있었어요── 가족이 있었으니까요……」"
+
+[[dialogue]]
+speaker = "エステル"
+original = "「でもご両親を亡くされた、幼い頃のグレイス先輩は……心を守るためにも魔王様を恨むしかなかった……」"
+translation = "「하지만 부모님을 잃으신 어린 시절의 그레이스 선배는…… 마음을 지키기 위해서라도 마왕님을 원망할 수밖에 없었을 거예요……」"
+
+[[dialogue]]
+speaker = "エステル"
+original = "「だから私、何も気にしていません。お気になさらないでください」"
+translation = "「그러니까 저, 아무것도 신경 쓰지 않아요. 개의치 말아 주세요」"
+
+[[dialogue]]
+speaker = "グレイス"
+original = "「……ありがとうございます。エステル、その……これからは、仲良くしてもらえると嬉しいです」"
+translation = "「……고마워요. 에스텔, 저기…… 앞으로는 사이좋게 지낼 수 있으면 좋겠어요」"
+
+[[dialogue]]
+speaker = "エステル"
+original = "「こちらこそ、喜んで！」"
+translation = "「저야말로 기꺼이요!」"
+
+[[dialogue]]
+speaker = "ナミエル"
+original = "「失礼します。お客さまがいらっしゃると聞いて……お茶をお持ちしました」"
+translation = "「실례합니다. 손님이 오셨다고 들어서…… 차를 가져왔습니다」"
+
+[[dialogue]]
+speaker = "エステル"
+original = "「ナミエルさん。ありがとうございます♪」"
+translation = "「나미엘 씨. 감사합니다♪」"
+
+[[dialogue]]
+speaker = "ナミエル"
+original = "「はい。そしてグレイスさま、初めまして。星見家メイド隊のナミエルと申します」"
+translation = "「네. 그리고 그레이스 님, 처음 뵙겠습니다. 호시미 가문 메이드대의 나미엘이라고 합니다」"
+
+[[dialogue]]
+speaker = "グレイス"
+original = "「ど、どうもっ！\u3000初めまして！」"
+translation = "「저, 저기요! 처음 뵙겠습니다!」"
+
+[[dialogue]]
+speaker = "ナミエル"
+original = "「エステルさまのご学友なのですよね？」"
+translation = "「에스텔 님의 학우분이시죠?」"
+
+[[dialogue]]
+speaker = "エステル"
+original = "「はい。頼りになるプリマステラの先輩で──」"
+translation = "「네. 의지가 되는 프리마스텔라 선배이자──」"
+
+[[dialogue]]
+speaker = "エステル"
+original = "「私と同じく、魔王様を深く深く敬愛する方ですよ♪」"
+translation = "「저와 마찬가지로 마왕님을 깊고 깊게 경애하는 분이에요♪」"
+
+[[dialogue]]
+speaker = "ナミエル"
+original = "「…………えっ？」"
+translation = "「…………엣?」"
+
+[[dialogue]]
+speaker = "ナミエル"
+original = "「ま、また強火魔王信者が増えた、ということですか……！？」"
+translation = "「또, 또 극성 마왕 신자가 늘어났다는 건가요……!?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "強火魔王信者──なんだそれ！？"
+translation = "극성 마왕 신자── 그게 뭐야!?"
+
+[[dialogue]]
+speaker = "エステル"
+original = "「私は幼き頃、魔王様に命を救われた身です……この身も心も捧げるのは当然のことです♪」"
+translation = "「저는 어린 시절 마왕님께 목숨을 구원받은 몸입니다…… 이 몸도 마음도 바치는 건 당연한 일이에요♪」"
+
+[[dialogue]]
+speaker = "グレイス"
+original = "「このグレイス・オベロニア！\u3000魔王さんとの約束のために、命を懸けて戦いますとも！」"
+translation = "「이 그레이스 오베로니아! 마왕 씨와의 약속을 위해 목숨을 걸고 싸우겠습니다!」"
+
+[[dialogue]]
+speaker = "ナミエル"
+original = "「どうして緋宮会長は、出会う女性をことごとく落としていくのです？\u3000えっちなのは許しませんよ」"
+translation = "「어째서 히노미야 회장은 만나는 여성들을 죄다 꼬시는 건가요? 야한 건 용서 못 해요」"
+
+[[dialogue]]
+speaker = "unk"
+original = "濡れ衣だ！？！？"
+translation = "누명이다!?!?"
+
+[[dialogue]]
+speaker = "unk"
+original = "グレイスとエステルのわだかまりが溶けたのは良いとして……"
+translation = "그레이스와 에스텔의 앙금이 풀린 건 좋다 치고……"
+
+[[dialogue]]
+speaker = "ナミエル"
+original = "「お嬢様には改めて、プレイボーイな緋宮会長を警戒するよう進言しておきましょう」"
+translation = "「아가씨께는 다시 한번, 플레이보이인 히노미야 회장을 경계하도록 진언해 두겠습니다」"
+
+[[dialogue]]
+speaker = "unk"
+original = "俺はナミエルから冷ややかな視線を貰うことになるのだった……"
+translation = "나는 나미엘로부터 싸늘한 시선을 받게 되는 것이었다……"
+
+[[dialogue]]
+speaker = "unk"
+original = "──なんで？？？？？"
+translation = "──왜?????"
+

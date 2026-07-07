@@ -1,0 +1,250 @@
+[[dialogue]]
+speaker = "unk"
+original = "第４話,流星市国の夏,P"
+translation = "제4화, 유성시국의 여름, P"
+
+[[dialogue]]
+speaker = "unk"
+original = "夏の日のこと──"
+translation = "어느 여름날의 일──"
+
+[[dialogue]]
+speaker = "トリシャ"
+original = "「……」"
+translation = "「……」"
+
+[[dialogue]]
+speaker = "トリシャ"
+original = "「うだるような暑さ……ですね。ビーチの熱気は……あんなにも爽やかでしたのに……」"
+translation = "「푹푹 찌는 듯한 더위……네요. 비치의 열기는…… 그렇게나 상쾌했는데……」"
+
+[[dialogue]]
+speaker = "unk"
+original = "リゾート結界は特別"
+translation = "리조트 결계는 특별"
+
+[[dialogue]]
+speaker = "unk"
+original = "本来はこんなもの"
+translation = "본래는 이런 것"
+
+[[dialogue]]
+speaker = "トリシャ"
+original = "「なるほど……そうでしたか。魔界にも気温の高い地域はありましたが、これほどの湿度は初めてかもしれません」"
+translation = "「과연…… 그랬군요. 마계에도 기온이 높은 지역은 있었지만, 이 정도의 습도는 처음일지도 모르겠어요」"
+
+[[dialogue]]
+speaker = "トリシャ"
+original = "「風通しのよい格好……のつもりでしたが……布地の裏が、いつになく蒸しています……」"
+translation = "「통풍이 잘되는 복장……일 생각이었지만…… 옷감 안쪽이, 평소보다 후끈거려요……」"
+
+[[dialogue]]
+speaker = "トリシャ"
+original = "「……ふう。魔界の荒野を思い出して、心を落ち着けましょう」"
+translation = "「……후우. 마계의 황야를 떠올리며, 마음을 진정시키죠」"
+
+[[dialogue]]
+speaker = "トリシャ"
+original = "「……む……？」"
+translation = "「……음……?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "どうされました？"
+translation = "무슨 일이세요?"
+
+[[dialogue]]
+speaker = "unk"
+original = "何か？"
+translation = "무언가?"
+
+[[dialogue]]
+speaker = "トリシャ"
+original = "「あ、いえ……先ほどから、ジージーという音があちこちから聞こえるような気がして」"
+translation = "「아, 아니요…… 아까부터, 지지거리는 소리가 여기저기서 들리는 것 같아서」"
+
+[[dialogue]]
+speaker = "トリシャ"
+original = "「なんなのでしょう……この地上にまで、星の声が響いているのでしょうか……？」"
+translation = "「무엇일까요…… 이 지상에까지, 별의 목소리가 울려 퍼지고 있는 걸까요……?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "セミの声だ"
+translation = "매미 소리다"
+
+[[dialogue]]
+speaker = "トリシャ"
+original = "「セミ……聞いたことはあります。虫の一種ですね」"
+translation = "「매미…… 들어본 적은 있어요. 벌레의 일종이죠」"
+
+[[dialogue]]
+speaker = "トリシャ"
+original = "「毎年この時期になると聴こえてくる──なるほど……これもまた、人間界の夏というわけですね」"
+translation = "「매년 이 시기가 되면 들려온다── 과연…… 이것 또한, 인간계의 여름이라는 거군요」"
+
+[[dialogue]]
+speaker = "トリシャ"
+original = "「ここは初詣に来た場所でもあります。もしかすると、夏には夏の願掛けがあるのでしょうか？」"
+translation = "「여기는 하츠모데를 왔던 장소이기도 해요. 어쩌면, 여름에는 여름의 소원 빌기가 있는 걸까요?」"
+
+[[dialogue]]
+speaker = "トリシャ"
+original = "「あれは年に一度？\u3000ふむ……なかなか一筋縄ではいきませんね」"
+translation = "「그건 1년에 한 번? 흠…… 좀처럼 만만치 않네요」"
+
+[[dialogue]]
+speaker = "トリシャ"
+original = "「その代わりに、あなたが夏の名物を案内してくれる──？\u3000なんと。とても温かな気持ちになります……こんなに暑いのに」"
+translation = "「그 대신에, 당신이 여름의 명물을 안내해 준다──? 세상에. 무척 따뜻한 기분이 돼요…… 이렇게나 더운데」"
+
+[[dialogue]]
+speaker = "トリシャ"
+original = "「これもまたデート──はっ」"
+translation = "「이것도 또한 데이트── 핫」"
+
+[[dialogue]]
+speaker = "トリシャ"
+original = "「デート、ということは……やはり、手を繋ぐのが作法でしょうか」"
+translation = "「데이트, 라는 것은…… 역시, 손을 잡는 것이 예법일까요」"
+
+[[dialogue]]
+speaker = "unk"
+original = "さすがに暑い"
+translation = "역시나 덥다"
+
+[[dialogue]]
+speaker = "unk"
+original = "いや……"
+translation = "아니……"
+
+[[dialogue]]
+speaker = "トリシャ"
+original = "「ふむ……そこは気温優先でしたか。確かに辺りを見ても、手を繋いだカップルはいないようです」"
+translation = "「흠…… 그 부분은 기온 우선이었나요. 확실히 주변을 봐도, 손을 잡은 커플은 없는 것 같네요」"
+
+[[dialogue]]
+speaker = "トリシャ"
+original = "「あなたの温もりであれば、私は別に構いませんが……ここは一般的な作法に従うとしましょう」"
+translation = "「당신의 온기라면, 저는 딱히 상관없습니다만…… 여기서는 일반적인 예법을 따르기로 하죠」"
+
+[[dialogue]]
+speaker = "トリシャ"
+original = "「ではさっそく──夏の名物というものを案内お願いします」"
+translation = "「그럼 당장── 여름의 명물이라는 것을 안내 부탁드려요」"
+
+[[dialogue]]
+speaker = "トリシャ"
+original = "「ふむ……」"
+translation = "「흠……」"
+
+[[dialogue]]
+speaker = "トリシャ"
+original = "「流しそうめん……実に不思議なグルメでした。割った竹に水を流して、そこからすくい取った麺を食す……など」"
+translation = "「나가시 소멘…… 참으로 신기한 미식이었어요. 쪼갠 대나무에 물을 흘려보내고, 거기서 건져낸 면을 먹는다……니」"
+
+[[dialogue]]
+speaker = "トリシャ"
+original = "「流されてばかりでは悪いので、私もレゾフ土産の氷結カステラを放流しようかと思ったのですが……」"
+translation = "「흘러가기만 해서는 미안하니까, 저도 레조프 기념품인 빙결 카스텔라를 방류할까 생각했습니다만……」"
+
+[[dialogue]]
+speaker = "unk"
+original = "食べるだけでいい"
+translation = "먹기만 하면 돼"
+
+[[dialogue]]
+speaker = "unk"
+original = "だめ"
+translation = "안 돼"
+
+[[dialogue]]
+speaker = "トリシャ"
+original = "「ふむ……そうでしたか。確かにあの竹筒では、流せるものは限られていそうです」"
+translation = "「흠…… 그랬군요. 확실히 그 대나무통으로는, 흘려보낼 수 있는 것이 한정되어 있을 것 같아요」"
+
+[[dialogue]]
+speaker = "トリシャ"
+original = "「もしや他にも、餅や中華麺を流したりするのでしょうか……？」"
+translation = "「설마 그 외에도, 떡이나 중화면을 흘려보내기도 하는 걸까요……?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "そうめんだけ"
+translation = "소멘뿐"
+
+[[dialogue]]
+speaker = "unk"
+original = "流さない"
+translation = "흘려보내지 않아"
+
+[[dialogue]]
+speaker = "トリシャ"
+original = "「そうめんだけ……？\u3000なるほど……ますます謎が深まります」"
+translation = "「소멘뿐……? 과연…… 점점 더 수수께끼가 깊어지네요」"
+
+[[dialogue]]
+speaker = "トリシャ"
+original = "「ですが……フフ。大変おいしくいただきました。また、あなたに教えられてしまいましたね」"
+translation = "「하지만…… 후후. 아주 맛있게 잘 먹었습니다. 또, 당신에게 배우고 말았네요」"
+
+[[dialogue]]
+speaker = "unk"
+original = "それからもトリシャさんと楽しいひとときを過ごした──"
+translation = "그 후로도 트리샤 씨와 즐거운 한때를 보냈다──"
+
+[[dialogue]]
+speaker = "トリシャ"
+original = "「フフ……今日はとても楽しめました。こんなにも遊んだのは、いつぶりでしょう」"
+translation = "「후후…… 오늘은 무척 즐거웠어요. 이렇게나 논 것은, 얼마 만일까요」"
+
+[[dialogue]]
+speaker = "トリシャ"
+original = "「海以外にも、これだけ色々な楽しみがあるなんて──ふふ。ありがとうございます」"
+translation = "「바다 말고도, 이만큼이나 여러 가지 즐거움이 있다니── 후후. 감사합니다」"
+
+[[dialogue]]
+speaker = "トリシャ"
+original = "「え……？\u3000夏はまだ終わっていない……？」"
+translation = "「에……? 여름은 아직 끝나지 않았다구요……?」"
+
+[[dialogue]]
+speaker = "トリシャ"
+original = "「ですが、すっかり日が暮れてしまっているような……」"
+translation = "「하지만, 완전히 해가 저물어 버린 것 같은데……」"
+
+[[dialogue]]
+speaker = "unk"
+original = "花火だ"
+translation = "불꽃놀이다"
+
+[[dialogue]]
+speaker = "unk"
+original = "夏祭りだ"
+translation = "여름 축제다"
+
+[[dialogue]]
+speaker = "トリシャ"
+original = "「花火……夏祭り……どちらも、大変興味深い響きです」"
+translation = "「불꽃놀이…… 여름 축제…… 어느 쪽도, 무척 흥미로운 울림이에요」"
+
+[[dialogue]]
+speaker = "トリシャ"
+original = "「日が暮れてからが本番……そういった体験もあるのですね。人間界の夏は、奥が深いです」"
+translation = "「해가 저물고 나서가 본편…… 그러한 경험도 있는 것이군요. 인간계의 여름은, 심오해요」"
+
+[[dialogue]]
+speaker = "トリシャ"
+original = "「星徒会の皆さんと合流？\u3000ふふ、もちろん構いません。大歓迎です」"
+translation = "「성도회 여러분과 합류? 후후, 물론 상관없어요. 대환영입니다」"
+
+[[dialogue]]
+speaker = "トリシャ"
+original = "「……お友達がたくさん、ですね。私、そんなに幸せでよいのでしょうか」"
+translation = "「……친구가 잔뜩, 이네요. 저, 그렇게나 행복해도 되는 걸까요」"
+
+[[dialogue]]
+speaker = "トリシャ"
+original = "「これからも、訪れる春夏秋冬を──あなたと過ごしていきたいです。よろしくお願いしますね」"
+translation = "「앞으로도, 찾아올 봄 여름 가을 겨울을── 당신과 보내고 싶어요. 잘 부탁드려요」"
+

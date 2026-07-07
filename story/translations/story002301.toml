@@ -1,0 +1,280 @@
+[[dialogue]]
+speaker = "unk"
+original = "コラプサーによる新星学園襲撃からしばらく。コハルコは実家のパーツショップの店番をしていた。"
+translation = "콜랩서에 의한 신성학원 습격으로부터 얼마간의 시간이 흘렀다. 코하루코는 친가인 부품 샵의 가게를 보고 있었다."
+
+[[dialogue]]
+speaker = "unk"
+original = "校舎の修理のため学園は臨時休校中。妹ふたりは学校で、父と母は検査で病院に行っている。"
+translation = "교사 수리를 위해 학원은 임시 휴교 중. 두 여동생은 학교에, 아버지와 어머니는 검사를 위해 병원에 가 있다."
+
+[[dialogue]]
+speaker = "リーリア"
+original = "『コハルコ先輩、あなたの正体は魔女なんです』"
+translation = "『코하루코 선배, 당신의 정체는 마녀예요』"
+
+[[dialogue]]
+speaker = "コハルコ"
+original = "（私は赤ん坊のころ、今の両親に拾われた。家族と血が繋がってないのは知ってたけど……）"
+translation = " (나는 아기였을 때 지금의 부모님에게 거둬졌어. 가족과 피가 섞이지 않았다는 건 알고 있었지만……) "
+
+[[dialogue]]
+speaker = "リーリア"
+original = "「コハルコ先輩、荷物の片付け終わりました！」"
+translation = "「코하루코 선배, 짐 정리 끝났어요!」"
+
+[[dialogue]]
+speaker = "コハルコ"
+original = "「ごめんね。護衛で来てくれたのに、お店まで手伝わせちゃって」"
+translation = "「미안해. 호위로 와줬는데 가게 일까지 도와주게 해서」"
+
+[[dialogue]]
+speaker = "リーリア"
+original = "「いえいえ、お安い御用です」"
+translation = "「아뇨아뇨, 별거 아니에요」"
+
+[[dialogue]]
+speaker = "unk"
+original = "彼女は魔女の組織、ネビュラのエージェントだ。先日の襲撃以後、護衛としてコハルコについてくれている。"
+translation = "그녀는 마녀 조직 네뷸라의 에이전트다. 지난번 습격 이후, 호위로서 코하루코를 따라다니고 있다."
+
+[[dialogue]]
+speaker = "コハルコ"
+original = "「例の話なんだけど……」"
+translation = "「그 이야기에 대해서인데……」"
+
+[[dialogue]]
+speaker = "リーリア"
+original = "「ええと、それはコハルコ先輩の心の準備ができてからで……というか私も詳しくは知らされてなくてですね……ごめんなさい」"
+translation = "「그건 코하루코 선배의 마음의 준비가 된 다음에……라기보다 저도 자세히는 전달받지 못해서요…… 죄송해요」"
+
+[[dialogue]]
+speaker = "コハルコ"
+original = "「そっか、こっちこそ迷惑かけてごめんね」"
+translation = "「그렇구나, 나야말로 폐 끼쳐서 미안해」"
+
+[[dialogue]]
+speaker = "コハルコ"
+original = "「ところで、リーリアさんって実際いくつなの？\u3000ネビュラの人たちって見た目と歳が違うんだよね」"
+translation = "「그런데 리리아 씨는 실제 나이가 어떻게 돼? 네뷸라 사람들은 겉모습이랑 나이가 다르잖아」"
+
+[[dialogue]]
+speaker = "リーリア"
+original = "「もう、私はみなさんと変わりませんって！」"
+translation = "「정말, 저는 여러분이랑 다를 게 없다니까요!」"
+
+[[dialogue]]
+speaker = "リーリア"
+original = "「年齢が上なのは他の魔女です。確かセドナ長官は３００歳くらい、マリオンさんは５００歳……だったかな」"
+translation = "「나이가 많은 건 다른 마녀분들이에요. 분명 세드나 장관님이 300살 정도, 마리온 씨가 500살……이었나」"
+
+[[dialogue]]
+speaker = "コハルコ"
+original = "「魔女のひとって本当に長生きなんだね。……その、やっぱり個人差もあるの？」"
+translation = "「마녀라는 사람들은 정말 오래 사는구나. ……그거, 역시 개인차도 있어?」"
+
+[[dialogue]]
+speaker = "リーリア"
+original = "「もちろんあります。マリオンさんは長生きな方ですけど、それでも２００歳とかは普通ですね。魔女の森の長老格ですと、千年越えもあり得ます」"
+translation = "「물론 있죠. 마리온 씨는 오래 사시는 편이지만, 그래도 200살 정도는 보통이에요. 마녀의 숲의 장로급이라면 천 년을 넘기는 일도 가능해요」"
+
+[[dialogue]]
+speaker = "コハルコ"
+original = "「千……年……」"
+translation = "「천…… 년……」"
+
+[[dialogue]]
+speaker = "コハルコ"
+original = "（もし私が本当に魔女なら……この先、何年も生きることになる。１００年、２００年、あるいはその先もずっと）"
+translation = " (만약 내가 정말 마녀라면…… 앞으로 수만 년을 살게 돼. 100년, 200년, 혹은 그 너머까지도 계속.) "
+
+[[dialogue]]
+speaker = "コハルコ"
+original = "（お父さんやお母さんが私より先に旅立ってしまうことは、まだ、分かる。イヤでイヤで仕方ないけど、納得はできる）"
+translation = " (아빠나 엄마가 나보다 먼저 떠나버리는 건 아직 이해할 수 있어. 너무 싫어서 견딜 수 없지만, 납득은 가.) "
+
+[[dialogue]]
+speaker = "コハルコ"
+original = "（でも、妹たちが私より先に逝くのは耐えられない。想像することさえしたくない）"
+translation = " (하지만 여동생들이 나보다 먼저 가는 건 견딜 수 없어. 상상조차 하고 싶지 않아.) "
+
+[[dialogue]]
+speaker = "コハルコ"
+original = "（しかも、その先の人生が１００年……もしかすると千年以上も続いてしまうなんて……）"
+translation = " (게다가 그 뒤의 인생이 100년…… 어쩌면 천 년 이상이나 더 이어져 버리다니……) "
+
+[[dialogue]]
+speaker = "リーリア"
+original = "「…………」"
+translation = "「…………」"
+
+[[dialogue]]
+speaker = "ナツコ"
+original = "「お姉ちゃん、ただいま！」"
+translation = "「언니, 다녀왔어!」"
+
+[[dialogue]]
+speaker = "トウコ"
+original = "「ただいま。リーリアさん、来てたんですね」"
+translation = "「다녀왔어요. 리리아 씨, 와 계셨네요」"
+
+[[dialogue]]
+speaker = "コハルコ"
+original = "「おかえり、ふたりとも。今日は一緒だったんだ」"
+translation = "「어서 와, 둘 다. 오늘은 같이 왔네」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ナツコとトウコ。コハルコの妹だ。"
+translation = "나츠코와 토우코. 코하루코의 여동생들이다."
+
+[[dialogue]]
+speaker = "unk"
+original = "ナツコは名前の通り明るい女の子。トウコはしっかり者の女の子。ふたりとも大切な妹だ。"
+translation = "나츠코는 이름처럼 밝은 여자아이. 토우코는 야무진 여자아이. 둘 다 소중한 여동생이다."
+
+[[dialogue]]
+speaker = "ナツコ"
+original = "「リーリアさん、ゲームしようよ！」"
+translation = "「리리아 씨, 게임하자!」"
+
+[[dialogue]]
+speaker = "コハルコ"
+original = "「こーら。ゲームは宿題が終わってからにしなさい。リーリアさんも無理に付き合わなくていいからね」"
+translation = "「허허, 참. 게임은 숙제 끝내고 나서 하렴. 리리아 씨도 억지로 어울려주지 않아도 되니까」"
+
+[[dialogue]]
+speaker = "リーリア"
+original = "「いえ。私、姉妹がいないから、ナツコちゃんやトウコちゃんと遊ぶの楽しいです」"
+translation = "「아뇨. 전 형제가 없어서 나츠코짱이나 토우코짱이랑 노는 거 즐거워요」"
+
+[[dialogue]]
+speaker = "トウコ"
+original = "「私も一緒にゲームしていいですか？」"
+translation = "「저도 같이 게임해도 될까요?」"
+
+[[dialogue]]
+speaker = "リーリア"
+original = "「もちろん！\u3000じゃあ早く宿題やろうね」"
+translation = "「물론이지! 그럼 빨리 숙제하자」"
+
+[[dialogue]]
+speaker = "ナツコ"
+original = "「はーいっ！\u3000行こ、トウコ」"
+translation = "「네에~! 가자, 토우코」"
+
+[[dialogue]]
+speaker = "トウコ"
+original = "「うん」"
+translation = "「응」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ナツコとトウコが嬉しそうに家の中へ駆けていく。"
+translation = "나츠코와 토우코가 기쁜 듯이 집 안으로 달려 들어간다."
+
+[[dialogue]]
+speaker = "コハルコ"
+original = "「魔女にも姉妹っているの？」"
+translation = "「마녀에게도 자매가 있어?」"
+
+[[dialogue]]
+speaker = "リーリア"
+original = "「そうですねぇ……私たち魔女は世界樹から生まれるので、本当は親はいないんですけど、年長の魔女が子どもの魔女を育てる習慣があります」"
+translation = "「글쎄요…… 저희 마녀들은 세계수에서 태어나기 때문에 원래 부모는 없지만, 나이가 많은 마녀가 아이 마녀를 기르는 관습이 있어요」"
+
+[[dialogue]]
+speaker = "リーリア"
+original = "「その魔女を母親って呼んだり、同じ家で育った魔女を姉妹と呼んだりしますね」"
+translation = "「그 마녀를 어머니라고 부르거나, 같은 집에서 자란 마녀를 자매라고 부르곤 하죠」"
+
+[[dialogue]]
+speaker = "コハルコ"
+original = "「なるほど。血は繋がってないけど、家族の関係はあるんだ」"
+translation = "「그렇구나. 피는 섞이지 않았지만 가족 관계는 있는 거네」"
+
+[[dialogue]]
+speaker = "コハルコ父"
+original = "「ただいま、コハルコ。リーリアさんもいらっしゃい」"
+translation = "「다녀왔다, 코하루코. 리리아 씨도 오셨군요」"
+
+[[dialogue]]
+speaker = "unk"
+original = "病院に行っていたコハルコの両親も帰ってきた。"
+translation = "병원에 갔던 코하루코의 부모님도 돌아왔다."
+
+[[dialogue]]
+speaker = "リーリア"
+original = "「お邪魔してまーすっ」"
+translation = "「실례하고 있습니다~!」"
+
+[[dialogue]]
+speaker = "コハルコ母"
+original = "「コハルコにはいつも面倒かけてごめんね」"
+translation = "「코하루코에겐 항상 폐만 끼쳐서 미안하구나」"
+
+[[dialogue]]
+speaker = "コハルコ"
+original = "「ううん、気にしないで。検査はどうだった？」"
+translation = "「아니야, 신경 쓰지 마. 검사는 어땠어?」"
+
+[[dialogue]]
+speaker = "コハルコ母"
+original = "「数値もレントゲンも異常なしだって。少し疲れが溜まってたのかもしれないわね」"
+translation = "「수치도 엑스레이도 이상 없대. 조금 피로가 쌓였던 걸지도 모르겠구나」"
+
+[[dialogue]]
+speaker = "コハルコ"
+original = "「それはよかった。ひと安心だね」"
+translation = "「다행이다. 한시름 놨네」"
+
+[[dialogue]]
+speaker = "unk"
+original = "コハルコの母親は生まれつき体が弱い。だから、少々の不調でもすぐ病院にかかるようにしている。"
+translation = "코하루코의 어머니는 태생적으로 몸이 약하다. 그래서 조금만 컨디션이 안 좋아도 바로 병원에 가도록 하고 있다."
+
+[[dialogue]]
+speaker = "コハルコ母"
+original = "「コハルコ。あなたこそ、疲れてない？\u3000なんだか元気がないような……」"
+translation = "「코하루코. 너야말로 피곤한 거 아니니? 왠지 기운이 없는 것 같구나……」"
+
+[[dialogue]]
+speaker = "コハルコ"
+original = "「……どうだろ。学園が襲撃されるなんて今までなかったから、ナーバスになってるのかも」"
+translation = "「……글쎄. 학원이 습격당하는 일은 지금까지 없었으니까, 예민해진 걸지도 몰라」"
+
+[[dialogue]]
+speaker = "コハルコ"
+original = "（……余計な心配かけたくないから、学園襲撃のターゲットが私だったことは家族には伝えてない。いつも通りにしてるつもりだけど、やっぱりお母さんには分かっちゃうのかな）"
+translation = "（……불필요한 걱정을 끼치고 싶지 않아서, 학원 습격의 타겟이 나였다는 건 가족에게 말하지 않았어. 평소처럼 행동하려고 했지만, 역시 엄마는 다 아는 걸까）"
+
+[[dialogue]]
+speaker = "コハルコ父"
+original = "「辛かったら休んでいていいんだよ。店だってずっと開けてなくてもいいんだから」"
+translation = "「힘들면 쉬어도 된단다. 가게도 계속 열어두지 않아도 되니까.」"
+
+[[dialogue]]
+speaker = "コハルコ"
+original = "「ううん、むしろ店番してる方が気が楽かな。あ、ナツコとトウコもう帰ってるよ」"
+translation = "「아니야, 오히려 가게 보고 있는 게 마음이 편해. 아, 나츠코랑 토우코도 벌써 돌아왔어.」"
+
+[[dialogue]]
+speaker = "コハルコ父"
+original = "「ああ、分かった」"
+translation = "「그래, 알았다.」"
+
+[[dialogue]]
+speaker = "コハルコ母"
+original = "「今日はお母さんが晩ごはん作るわね。腕によりをかけるから楽しみにしてて」"
+translation = "「오늘은 엄마가 저녁밥 만들게. 솜씨 발휘할 테니까 기대하렴.」"
+
+[[dialogue]]
+speaker = "コハルコ"
+original = "「……うん、ありがと」"
+translation = "「……응, 고마워.」"
+
+[[dialogue]]
+speaker = "？？？"
+original = "「…………」"
+translation = "「…………」"
+

@@ -1,0 +1,450 @@
+[[dialogue]]
+speaker = "メルクリウス"
+original = "「…………」"
+translation = "「…………」"
+
+[[dialogue]]
+speaker = "サチ"
+original = "「これが、プリムラの元の姿……！？\u3000でも私……プリムラと出会ったことは覚えてるはずなのに、この形態と戦った時の記憶がない……！」"
+translation = "「이게 프리뮬러의 원래 모습……!? 하지만 나…… 프리뮬러와 만난 건 기억하고 있을 텐데, 이 형태와 싸웠을 때의 기억이 없어……!」"
+
+[[dialogue]]
+speaker = "プリムラ"
+original = "「やはりか。こいつがサチから奪い取った記憶は、終末兵器を再現する為のもの……！」"
+translation = "「역시나군. 이 녀석이 사치에게서 빼앗은 기억은 종말 병기를 재현하기 위한 것……!」"
+
+[[dialogue]]
+speaker = "プリムラ"
+original = "「それに付随して、我に関する１年間の記憶も、再現に必要な分を奪い取ったのじゃ！」"
+translation = "「그에 부수하여 짐에 관한 1년간의 기억도 재현에 필요한 만큼 빼앗은 것이니라!」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「うわ～。なんかすごくボスっぽい見た目……」"
+translation = "「우와~ 뭔가 엄청 보스 같은 겉모습……」"
+
+[[dialogue]]
+speaker = "プリムラ"
+original = "「気を抜くな！\u3000くるぞ！」"
+translation = "「방심하지 마라! 온다!」"
+
+[[dialogue]]
+speaker = "トマル"
+original = "「え？\u3000あ……！？」"
+translation = "「에? 아……!?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "き、急に体の力が抜けて……！"
+translation = "갑자기 몸에 힘이 빠져서……!"
+
+[[dialogue]]
+speaker = "トレジアンナ"
+original = "「これ、あの時のプリムラさんの能力を再現しているなら、ヤバくないですか！？\u3000シャレにならない状況ですよ！」"
+translation = "「이거 그때 프리뮬러 씨의 능력을 재현하고 있는 거라면 위험하지 않나요!? 농담이 아닌 상황이라구요!」"
+
+[[dialogue]]
+speaker = "プリムラ"
+original = "「いいか、全員よく聞くのじゃ！\u3000時間がないから１度しか言わん！」"
+translation = "「잘 들어라, 전원! 시간이 없으니 한 번만 말하겠다!」"
+
+[[dialogue]]
+speaker = "プリムラ"
+original = "「今そいつが再現しているのは、終末兵器メルクリウスの<b>防御形態</b>！」"
+translation = "「지금 저 녀석이 재현하고 있는 것은 종말 병기 메르쿠리우스의 <b>방어</b> <b>형태</b>!」"
+
+[[dialogue]]
+speaker = "プリムラ"
+original = "「柔らかい体で物理衝撃を吸収するだけでなく、周囲のあらゆるエネルギーを取り込み、己が力に変える我本来の能力『吸収変換』を使う！」"
+translation = "「부드러운 몸으로 물리 충격을 흡수할 뿐만 아니라, 주위의 모든 에너지를 거두어들여 자신의 힘으로 바꾸는 짐 본래의 능력 『흡수 변환』을 사용하느니라!」"
+
+[[dialogue]]
+speaker = "プリムラ"
+original = "「体の力が抜けていくのは、こいつが吸収変換のフィールドを周囲に展開し、我らの星力や生命力が吸収されているからじゃ！」"
+translation = "「몸에 힘이 빠지는 것은 이 녀석이 흡수 변환 필드를 주위에 전개하여 우리의 성력과 생명력이 흡수되고 있기 때문이지!」"
+
+[[dialogue]]
+speaker = "プリムラ"
+original = "「そして取り込んだエネルギーを更なる力に変えて、この吸収フィールドは際限なく広がり続ける！」"
+translation = "「그리고 거두어들인 에너지를 더 큰 힘으로 바꾸어 이 흡수 필드는 끝없이 계속 넓어지느니라!」"
+
+[[dialogue]]
+speaker = "プリムラ"
+original = "「どこまでも無限にじゃ！\u3000このまま止めなければ、フィールドは最終的に人間界を覆い尽くすぞ！」"
+translation = "「어디까지나 무한히 말이다! 이대로 멈추지 않으면 필드는 최종적으로 인간계를 뒤덮을 것이니라!」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「そ、それって……」"
+translation = "「그, 그건……」"
+
+[[dialogue]]
+speaker = "プリムラ"
+original = "「世界の終末が――」"
+translation = "「세계의 종말이――」"
+
+[[dialogue]]
+speaker = "プリムラ"
+original = "「<b>リクリエ</b>が今、目の前で始まったということじゃ！」"
+translation = "「<b>리크리에</b>가 지금 눈앞에서 시작되었다는 것이니라!」"
+
+[[dialogue]]
+speaker = "プリムラ"
+original = "「フィールドはあらゆるエネルギーを吸収する！\u3000人や生き物の生命力、星力、電力、熱量、それに光さえも！」"
+translation = "「필드는 모든 에너지를 흡수한다! 사람이나 생물의 생명력, 성력, 전력, 열량, 그리고 빛조차도!」"
+
+[[dialogue]]
+speaker = "トマル"
+original = "「周囲が夜みたいに暗く見えるのは、そのせいで……！」"
+translation = "「주변이 밤처럼 어둡게 보이는 건 그 때문이고……!」"
+
+[[dialogue]]
+speaker = "プリムラ"
+original = "「それが、終末兵器メルクリウスじゃ！\u3000吸収フィールドがトレジアンナの人払いの範囲を越える前に、なんとしても止めるのじゃ！」"
+translation = "「그것이 종말 병기 메르쿠리우스니라! 흡수 필드가 트레지안나의 인척 차단 범위를 넘기 전에 어떻게든 멈춰야 하느니라!」"
+
+[[dialogue]]
+speaker = "プリムラ"
+original = "「さもなくば、本当に世界が滅びるぞ！」"
+translation = "「그렇지 않으면 정말로 세계가 멸망할 것이니라!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "っ……みんな、やるぞ！"
+translation = "윽…… 모두들, 하자!"
+
+[[dialogue]]
+speaker = "サチ"
+original = "「はい！」"
+translation = "「네!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "しかし――"
+translation = "하지만――"
+
+[[dialogue]]
+speaker = "サチ"
+original = "「くっ……！\u3000隙がない……！」"
+translation = "「큭……! 틈이 없어……!」"
+
+[[dialogue]]
+speaker = "サチ"
+original = "（弾幕のように強力なビームを連射して近寄らせず、接近しても柔らかい体で衝撃を吸収して防がれる）"
+translation = "(탄막처럼 강력한 빔을 연사해서 가까이 오지 못하게 하고, 접근해도 부드러운 몸으로 충격을 흡수해 막아낸다)"
+
+[[dialogue]]
+speaker = "サチ"
+original = "（おまけに、私の幸運体質が通用しない。奪われた記憶からメルクリウス自身も幸運体質を再現して、相殺してる……！）"
+translation = "(게다가 나의 행운 체질이 통하지 않아. 빼앗긴 기억으로부터 메르쿠리우스 자신도 행운 체질을 재현해서 상쇄하고 있어……!)"
+
+[[dialogue]]
+speaker = "サチ"
+original = "（そして、手間取って時間をかける程に、私達の星力は吸われて、衰弱していく……！）"
+translation = "(그리고 지체하며 시간을 끌수록 우리의 성력은 빨려 나가 쇠약해져 가……!)"
+
+[[dialogue]]
+speaker = "サチ"
+original = "（いや、弱気になるな……！\u3000私は運勢がよくない時だって、生徒会長として恥じない実力でいられるように、訓練を積んできたんだから……！）"
+translation = "(아니, 약해지지 마……! 나는 운세가 좋지 않을 때라도 학생회장으로서 부끄럽지 않은 실력을 갖출 수 있도록 훈련을 쌓아왔으니까……!)"
+
+[[dialogue]]
+speaker = "サチ"
+original = "「フォーチュンウェーブ！」"
+translation = "「포춘 웨이브!」"
+
+[[dialogue]]
+speaker = "サチ"
+original = "「よし、直撃した！\u3000怯んでる今のうちに……！」"
+translation = "「좋아, 직격했다! 주춤거리는 지금 사이에……!」"
+
+[[dialogue]]
+speaker = "プリムラ"
+original = "「いかん、サチ！\u3000攻撃を受けたのはわざとじゃ！」"
+translation = "「안 된다, 사치! 공격을 받은 건 일부러느니라!」"
+
+[[dialogue]]
+speaker = "サチ"
+original = "「え？\u3000しまっ……！」"
+translation = "「에? 아차……!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "それは、追撃しようとサチが見せた一瞬の隙。メルクリウスはダメージを無視して、瞬時にカウンターでビームを放っていた。"
+translation = "그것은 추격하려던 사치가 보인 찰나의 빈틈. 메르쿠리우스는 데미지를 무시하고 순식간에 카운터로 빔을 쏘았다."
+
+[[dialogue]]
+speaker = "unk"
+original = "間に合わない！"
+translation = "늦겠어!"
+
+[[dialogue]]
+speaker = "unk"
+original = "咄嗟にサチの元へ飛び込んだが、あと数メートル距離が届かない。サチの体をビームが貫こうとする、その時だった。"
+translation = "급히 사치가 있는 곳으로 뛰어들었지만, 아직 몇 미터 거리가 닿지 않는다. 사치의 몸을 빔이 꿰뚫으려던 그때였다."
+
+[[dialogue]]
+speaker = "プリムラ"
+original = "「この馬鹿者が！」"
+translation = "「이 바보 같은 녀석이!」"
+
+[[dialogue]]
+speaker = "サチ"
+original = "「きゃっ！？\u3000プリムラ！？」"
+translation = "「꺄악!? 프리뮬러!?」"
+
+[[dialogue]]
+speaker = "プリムラ"
+original = "「っ……！」"
+translation = "「윽……!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "サチを突き飛ばし、割って入ったプリムラが、ビームに貫かれた。"
+translation = "사치를 밀쳐내고 끼어든 프리뮬러가 빔에 꿰뚫렸다."
+
+[[dialogue]]
+speaker = "サチ"
+original = "「プリ……ムラ……？\u3000嘘でしょ……！？」"
+translation = "「프리……뮬러……? 거짓말이지……!?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "倒れたプリムラはそのまま、力を急速に失っていき……やがて光の粒に変わって、その場から消滅した――"
+translation = "쓰러진 프리뮬러는 그대로 힘을 급격히 잃어가더니…… 이윽고 빛의 알갱이로 변해 그 자리에서 소멸했다――"
+
+[[dialogue]]
+speaker = "サチ"
+original = "「そ、そんな……！\u3000プリムラ！\u3000どうしてよ……プリムラぁぁぁっ！」"
+translation = "「그, 그럴 수가……! 프리뮬러! 왜…… 프리뮬러어어어억!」"
+
+[[dialogue]]
+speaker = "プリムラ"
+original = "「――そんなもん、死なんからに決まっとるじゃろ、全く……」"
+translation = "「――그딴 걸로 안 죽으니까 당연한 거 아니냐, 정말이지……」"
+
+[[dialogue]]
+speaker = "サチ"
+original = "「え……？\u3000あれ！？\u3000プリムラ……なんで……！？」"
+translation = "「에……? 어라!? 프리뮬러…… 어째서……!?」"
+
+[[dialogue]]
+speaker = "サチ"
+original = "「あ……私のペンダントが……封印のロストアイテムが光ってる……？」"
+translation = "「아…… 내 펜던트가…… 봉인의 로스트 아이템이 빛나고 있어……?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "サチがペンダントを取り出すと、繋がれた宝石が光り輝いていた。"
+translation = "사치가 펜던트를 꺼내자 연결된 보석이 눈부시게 빛나고 있었다."
+
+[[dialogue]]
+speaker = "プリムラ"
+original = "「我の力の大部分――賢者の石の核は、お前の持つ『星の鎖』によって封印されている。簡単に言うと、我の本体はペンダントの中にあるということじゃ」"
+translation = "「짐의 힘의 대부분―― 현자의 돌의 핵은 네가 가진 『별의 사슬』에 의해 봉인되어 있느니라. 간단히 말하면 짐의 본체는 펜던트 안에 있다는 것이지」"
+
+[[dialogue]]
+speaker = "プリムラ"
+original = "「こうして外に出ている我は、本体から遠隔操作している端末――アバターのようなもの。よって、消滅すればペンダントから復活――リスポーンできるというわけじゃ」"
+translation = "「이렇게 밖으로 나와 있는 짐은 본체에서 원격 조작하는 단말―― 아바타 같은 것이니라. 따라서 소멸하면 펜던트에서 부활―― 리스폰할 수 있다는 뜻이지」"
+
+[[dialogue]]
+speaker = "プリムラ"
+original = "「ただ、クールタイムがあって連続でポンポン復活できるわけではないがな」"
+translation = "「다만 쿨타임이 있어서 연속으로 펑펑 부활할 수 있는 건 아니지만 말이다」"
+
+[[dialogue]]
+speaker = "プリムラ"
+original = "「まあ、それに……あれじゃ……」"
+translation = "「뭐, 그리고…… 그거니라……」"
+
+[[dialogue]]
+speaker = "プリムラ"
+original = "「不本意ではあるが、貴様は<b>相棒</b>じゃからな」"
+translation = "「본의는 아니지만 네놈은 <b>파트너</b>니까 말이다」"
+
+[[dialogue]]
+speaker = "サチ"
+original = "「あ……」"
+translation = "「아……」"
+
+[[dialogue]]
+speaker = "サチ"
+original = "（激しい既視感。それと共に、私は半年前の記憶が、パズルのピースが埋まるように蘇ってきた――）"
+translation = "(강렬한 기시감. 그와 동시에 반년 전의 기억이 퍼즐 조각이 맞춰지듯 되살아났다――)"
+
+[[dialogue]]
+speaker = "サチ"
+original = "（そう、その時もプリムラと一緒にロストアイテム回収を行っていて。私が苦戦して、攻撃をくらいそうになったんだ）"
+translation = "(그래, 그때도 프리뮬러와 함께 로스트 아이템 회수를 하고 있었지. 내가 고전해서 공격을 당할 뻔했어)"
+
+[[dialogue]]
+speaker = "サチ"
+original = "（そこでプリムラが私を庇って、ダメージを受けて消滅。星の鎖から復活して……）"
+translation = "(거기서 프리뮬러가 나를 감싸고 데미지를 입어 소멸. 별의 사슬에서 부활해서……)"
+
+[[dialogue]]
+speaker = "サチ"
+original = "（私は、ロストアイテムが逃げるのも構わず、プリムラに泣いて怒ってしまった――）"
+translation = "(나는 로스트 아이템이 도망가는 것도 아랑곳하지 않고 프리뮬러에게 울며 화를 내버렸어――)"
+
+[[dialogue]]
+speaker = "プリムラ"
+original = "「お、おい！\u3000サチ、貴様……なんで泣くのじゃ！？」"
+translation = "「어, 어이! 사치, 네놈…… 왜 우는 것이냐!?」"
+
+[[dialogue]]
+speaker = "サチ"
+original = "「よく知ってる奴が死んだら、泣くのは当たり前でしょ！？」"
+translation = "「잘 아는 사람이 죽으면 우는 게 당연하잖아!」"
+
+[[dialogue]]
+speaker = "プリムラ"
+original = "「我は貴様の宿敵！\u3000悪の終末兵器じゃぞ！？」"
+translation = "「짐은 네놈의 숙적! 악의 종말 병기란 말이다!?」"
+
+[[dialogue]]
+speaker = "サチ"
+original = "「悪でも宿敵でも、泣くものは泣くのよ！」"
+translation = "「악이든 숙적이든 울 건 우는 거야!」"
+
+[[dialogue]]
+speaker = "プリムラ"
+original = "「わけわからん！\u3000生意気だとか、ムカつくとか、ひどい奴だとかいつも言っていたではないか！」"
+translation = "「영문을 모르겠구나! 건방지다느니, 짜증 난다느니, 지독한 녀석이라느니 항상 말하지 않았느냐!」"
+
+[[dialogue]]
+speaker = "サチ"
+original = "「仕方ないでしょ！\u3000不本意でも――」"
+translation = "「어쩔 수 없잖아! 본의 아니더라도――」"
+
+[[dialogue]]
+speaker = "サチ"
+original = "「これまで一緒にやってきた相棒なんだから！」"
+translation = "「지금까지 함께해 온 파트너니까!」"
+
+[[dialogue]]
+speaker = "プリムラ"
+original = "「我が……相棒、じゃと……？」"
+translation = "「짐이…… 파트너라고……?」"
+
+[[dialogue]]
+speaker = "サチ"
+original = "（そうだ、思い出した。私達の関係は、トマルくんみたいな友達とも、トレジアンナさんのような家族とも、違う――）"
+translation = "(그래, 기억났어. 우리 관계는 토마루 군 같은 친구와도, 트레지안나 씨 같은 가족과도 달라――)"
+
+[[dialogue]]
+speaker = "サチ"
+original = "「プリムラ」"
+translation = "「프리뮬러」"
+
+[[dialogue]]
+speaker = "サチ"
+original = "「――私、謝らないからね。不本意な記憶喪失だったんだし」"
+translation = "「――나, 사과 안 할 거니까. 본의 아닌 기억상실이었으니까」"
+
+[[dialogue]]
+speaker = "プリムラ"
+original = "「サチ、まさか貴様……？」"
+translation = "「사치, 설마 네놈……?」"
+
+[[dialogue]]
+speaker = "プリムラ"
+original = "「フ、フフ……」"
+translation = "「후, 후후……」"
+
+[[dialogue]]
+speaker = "プリムラ"
+original = "「ふん、よく言うわ。庇って死んだら泣くとか言っておきながら、貴様の方は我を庇って記憶を奪われた癖に」"
+translation = "「흥, 말은 잘하는구나. 감싸고 죽으면 운다느니 말해놓고는, 정작 네놈 쪽은 짐을 감싸다가 기억을 빼앗긴 주제에」"
+
+[[dialogue]]
+speaker = "プリムラ"
+original = "「まあよい。何が起こったかわからぬが、記憶が戻ったなら好都合」"
+translation = "「뭐 됐다. 무슨 일이 일어난 건진 모르겠지만 기억이 돌아왔다면 다행이군」"
+
+[[dialogue]]
+speaker = "プリムラ"
+original = "「さっさと手を貸せ。我はこんな面倒くさいことを引き起こしたロストアイテムに、痛い目を見せてやらねば気が済まん」"
+translation = "「어서 손을 빌려라. 짐은 이런 번거로운 일을 일으킨 로스트 아이템에게 본때를 보여주지 않으면 직성이 안 풀리느니라」"
+
+[[dialogue]]
+speaker = "サチ"
+original = "「そうね……私も借りがあるし、お兄さんの記憶も返してもらわないとだし――」"
+translation = "「그렇네…… 나도 빚이 있고, 오빠의 기억도 돌려받아야 하니까――」"
+
+[[dialogue]]
+speaker = "unk"
+original = "魔法少女２人が並んで、終末兵器へ向き直る。"
+translation = "마법 소녀 두 명이 나란히 종말 병기를 향해 돌아선다."
+
+[[dialogue]]
+speaker = "unk"
+original = "その時、確かに見えた。"
+translation = "그때 확실히 보였다."
+
+[[dialogue]]
+speaker = "unk"
+original = "終末兵器の絶望的な強さを前にしながら……サチを中心として、見えない大きな流れがこちらへ傾くのを。"
+translation = "종말 병기의 절망적인 강함 앞에서도…… 사치를 중심으로 보이지 않는 커다란 흐름이 이쪽으로 기우는 것을."
+
+[[dialogue]]
+speaker = "unk"
+original = "みんな！\u3000今がチャンスだ！"
+translation = "모두들! 지금이 기회야!"
+
+[[dialogue]]
+speaker = "サチ"
+original = "「！\u3000はい、お兄さん！」"
+translation = "「! 네, 오빠!」"
+
+[[dialogue]]
+speaker = "プリムラ"
+original = "「ふっ、眷族の頼みならば、仕方あるまい」"
+translation = "「훗, 권속의 부탁이라면 어쩔 수 없지」"
+
+[[dialogue]]
+speaker = "トレジアンナ"
+original = "「魔法少女活動のクライマックスですよ～！」"
+translation = "「마법 소녀 활동의 클라이맥스예요~!」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「防御は私に任せて！」"
+translation = "「방어는 나한테 맡겨!」"
+
+[[dialogue]]
+speaker = "トマル"
+original = "「援護は私に！\u3000ですから、サチさま、プリムラさま――」"
+translation = "「원호는 저에게! 그러니까 사치 님, 프리뮬러 님――」"
+
+[[dialogue]]
+speaker = "トマル"
+original = "「ご存分に暴れて下さい！」"
+translation = "「마음껏 날뛰어 주세요!」"
+
+[[dialogue]]
+speaker = "サチ"
+original = "「うん！\u3000行くよ、相棒」"
+translation = "「응! 가자, 파트너」"
+
+[[dialogue]]
+speaker = "プリムラ"
+original = "「おう！」"
+translation = "「오냐!」"
+
+[[dialogue]]
+speaker = "サチ"
+original = "「人事天命……ここからは――」"
+translation = "「인사천명…… 이제부터는――」"
+
+[[dialogue]]
+speaker = "プリムラ"
+original = "「ハズレなしじゃ！」"
+translation = "「꽝 없음이니라!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ロストアイテムとの決戦が、幕を開けるのだった。"
+translation = "로스트 아이템과의 결전이 막을 올리는 것이었다."
+

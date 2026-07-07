@@ -1,0 +1,200 @@
+[[dialogue]]
+speaker = "アルモタヘル（幼少）"
+original = "「肝試しもやるとは思わなかったのだ……やっぱり海は暗いとちょっと怖いのだ……」"
+translation = "「담력 시험까지 할 줄은 몰랐던 것이다…… 역시 바다는 어두우면 좀 무서운 것이다……」"
+
+[[dialogue]]
+speaker = "マグダレナ（幼少）"
+original = "「空気も昼間より冷ややかで……風が吹くと、ぞくっとしちゃいますね……」"
+translation = "「공기도 낮보다 서늘하고…… 바람이 불면 소름이 돋네요……」"
+
+[[dialogue]]
+speaker = "アルモタヘル（幼少）"
+original = "「向こうのボートに置いてある鍵を持って帰れば終わり……なのだが、ボートが遠く感じるのだ」"
+translation = "「저쪽 보트에 놓인 열쇠를 가지고 돌아오면 끝……인데, 보트가 멀게 느껴지는 것이다.」"
+
+[[dialogue]]
+speaker = "マグダレナ（幼少）"
+original = "「ひゃっ──！？\u3000足元に何か……あ、ヤドカリですか……。お化けかと思っちゃいました」"
+translation = "「히얏──!? 발밑에 뭔가가…… 아, 소라게인가요……. 귀신인 줄 알았어요.」"
+
+[[dialogue]]
+speaker = "マグダレナ（幼少）"
+original = "「気を付けてください、どこから何が現れるか──」"
+translation = "「조심하세요, 어디서 무엇이 나타날지──」"
+
+[[dialogue]]
+speaker = "幽霊？"
+original = "「私と一緒に死んでくれませんか？」"
+translation = "「저와 함께 죽어주시겠어요?」"
+
+[[dialogue]]
+speaker = "２人"
+original = "「ひぃ～～～～～っ！？」"
+translation = "「히이이이익!?」"
+
+[[dialogue]]
+speaker = "パテル"
+original = "（アハハッ♪\u3000マグダレナもアルモタヘルも怖がってる♪）"
+translation = "(아하하♪ 막달레나도 아르모타헬도 무서워하고 있어♪)"
+
+[[dialogue]]
+speaker = "フラン"
+original = "（いつもの顔でいつものセリフ言ってるだけじゃねえか！）"
+translation = "(평소 얼굴로 평소 대사 하고 있을 뿐이잖아!)"
+
+[[dialogue]]
+speaker = "パテル"
+original = "「グロリア、フラン、久しぶり～♪」"
+translation = "「글로리아, 프랑, 오랜만~♪」"
+
+[[dialogue]]
+speaker = "フラン"
+original = "「会長が用があるっていうから来てみればパテルかよ。まぁ別にいいけどさ」"
+translation = "「회장이 용건이 있다고 해서 와봤더니 파텔이냐. 뭐 상관없지만 말이야.」"
+
+[[dialogue]]
+speaker = "グロリア"
+original = "「久しぶりですね。プルちゃんが元気で良かったです」"
+translation = "「오랜만이네요. 푸루짱이 건강해서 다행이에요.」"
+
+[[dialogue]]
+speaker = "パテル"
+original = "「グロリアもね。２人を呼んでもらったのは、ちょっと手を貸してほしいからなんだ。かくかくしかじか……」"
+translation = "「글로리아도 말이야. 둘을 부른 건 좀 도와줬으면 하는 게 있어서 그래. 이러쿵저러쿵……」"
+
+[[dialogue]]
+speaker = "フラン"
+original = "「肝試し～？\u3000なんでオレがそんなの手伝わなきゃいけないんだよ」"
+translation = "「담력 시험~? 왜 내가 그런 걸 도와줘야 하는 건데.」"
+
+[[dialogue]]
+speaker = "パテル"
+original = "「わかってないなぁ～。これは勝負なんだよ。だーかーら、あたしはフランを呼んだんだ」"
+translation = "「모르는구나~. 이건 승부라고. 그·래·서 내가 프랑을 부른 거야.」"
+
+[[dialogue]]
+speaker = "フラン"
+original = "「ふーん……勝負と聞いちゃ黙ってられねぇな。相手が守護天使様ならなおさらだ」"
+translation = "「흐음…… 승부라고 들으니 가만히 있을 수 없겠네. 상대가 수호천사님이라면 더더욱 말이야.」"
+
+[[dialogue]]
+speaker = "グロリア"
+original = "「マグダレナ様とアルモタヘル様には悪いですけど、思いっきり怖がらせてあげましょう」"
+translation = "「막달레나 님과 아르모타헬 님께는 죄송하지만, 마음껏 겁주어 드리죠.」"
+
+[[dialogue]]
+speaker = "パテル"
+original = "「決まりだね♪\u3000協力感謝するよ」"
+translation = "「결정이네♪ 협력 감사해.」"
+
+[[dialogue]]
+speaker = "パテル"
+original = "「それじゃ、あの２人を恐怖のどん底に突き落としてやるぞー、おー！」"
+translation = "「그럼 저 둘을 공포의 구렁텅이로 떨어뜨려 주자고, 오!」"
+
+[[dialogue]]
+speaker = "マグダレナ（幼少）"
+original = "「はぁ、はぁ……今のは、海で溺れた天使の亡霊でしょうか……？」"
+translation = "「하아, 하아…… 방금 그건 바다에서 익사한 천사의 망령일까요……?」"
+
+[[dialogue]]
+speaker = "アルモタヘル（幼少）"
+original = "「アルモたんたちを道連れにしようとしているのだ……？\u3000でもリゾート結界に幽霊なんていないはずなのだ……」"
+translation = "「알모땅 일행을 길동무로 삼으려 하는 것이다……? 하지만 리조트 결계에 유령 같은 건 없을 텐데 말이다……」"
+
+[[dialogue]]
+speaker = "フラン"
+original = "（んじゃ、次はオレの番か）"
+translation = "(그럼 다음은 내 차례인가)"
+
+[[dialogue]]
+speaker = "マグダレナ（幼少）"
+original = "「ひゃっ！？\u3000何かプルプルしたものが、顔に当たって……！？\u3000何かいるんですか！？」"
+translation = "「히얏!? 뭔가 말랑말랑한 게 얼굴에 닿아서……!? 뭐가 있는 건가요!?」"
+
+[[dialogue]]
+speaker = "アルモタヘル（幼少）"
+original = "「ひゃわわっ！？\u3000暗くて何かわからないのだ！？\u3000ひんやりしてちょっと気持ちいいけど、やっぱり怖いのだ！？」"
+translation = "「히야와와!? 어두워서 뭔지 모르겠는 것이다!? 차가워서 좀 기분 좋긴 하지만 역시 무서운 것이다!?」"
+
+[[dialogue]]
+speaker = "フラン"
+original = "（見えないところからこんにゃく吊るしてるだけでも怖がるもんなんだなぁ……）"
+translation = "(보이지 않는 곳에서 곤약을 매달아 놓기만 해도 무서워하는구나……)"
+
+[[dialogue]]
+speaker = "フラン"
+original = "（よし、後はパテルだな）"
+translation = "(좋아, 다음은 파텔이군)"
+
+[[dialogue]]
+speaker = "アルモタヘル（幼少）"
+original = "「は、早く鍵を持って帰るのだっ！\u3000ここにいるのはあんまりよくないのだ！」"
+translation = "「어, 얼른 열쇠를 가지고 돌아가는 것이다! 여기 있는 건 별로 좋지 않은 것이다!」"
+
+[[dialogue]]
+speaker = "マグダレナ（幼少）"
+original = "「そ、そうですね、急ぎま──」"
+translation = "「그, 그러게요, 서두르──」"
+
+[[dialogue]]
+speaker = "？？？"
+original = "「ハラ……ヘッタ……」"
+translation = "「배가…… 고파……」"
+
+[[dialogue]]
+speaker = "マグダレナ（幼少）"
+original = "「──！？\u3000今、声がしたような……」"
+translation = "「──!? 방금 목소리가 들린 것 같은……」"
+
+[[dialogue]]
+speaker = "アルモタヘル（幼少）"
+original = "「きっと気のせいなのだ！\u3000だから早く行くのだ！」"
+translation = "「분명 기분 탓인 것이다! 그러니까 빨리 가는 것이다!」"
+
+[[dialogue]]
+speaker = "？？？"
+original = "「クイタイ……」"
+translation = "「먹고 싶어……」"
+
+[[dialogue]]
+speaker = "？？？"
+original = "「チイサクテ……ヤワラカイ……コドモガクイタイ……」"
+translation = "「작고…… 부드러운…… 아이를 먹고 싶어……」"
+
+[[dialogue]]
+speaker = "アルモタヘル（幼少）"
+original = "「気のせいじゃないぞ！\u3000やっぱり聞こえるのだ！」"
+translation = "「기분 탓이 아니다! 역시 들리는 것이다!」"
+
+[[dialogue]]
+speaker = "マグダレナ（幼少）"
+original = "「だ、だ、誰なんですか！？」"
+translation = "「누, 누, 누구세요!?」"
+
+[[dialogue]]
+speaker = "？？？"
+original = "「コドモヲ──」"
+translation = "「아이를──」"
+
+[[dialogue]]
+speaker = "？？？"
+original = "「クワセロオオオッ！！！」"
+translation = "「먹게 해다오오오옷!!!」"
+
+[[dialogue]]
+speaker = "２人"
+original = "「キャ～～～ッ！！？」"
+translation = "「꺄아아아악!!?」"
+
+[[dialogue]]
+speaker = "パテル"
+original = "「アハハハッ、２人ともいい顔してたな～♪\u3000残念ながら、肝試し試練は乗り越えられなかったね♪」"
+translation = "「아하하핫, 둘 다 아주 좋은 표정이었어~♪ 아쉽게도, 담력 시험 시련은 극복하지 못했네♪」"
+
+[[dialogue]]
+speaker = "unk"
+original = "２人の小さな天使の悲鳴と、イタズラ好きの死神の笑い声が夜の海に響いたのだった。"
+translation = "두 어린 천사의 비명과, 장난기 많은 사신의 웃음소리가 밤바다에 울려 퍼졌다."
+

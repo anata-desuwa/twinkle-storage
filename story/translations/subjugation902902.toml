@@ -1,0 +1,450 @@
+[[dialogue]]
+speaker = "ルリエル"
+original = "「きゅ～～～ん……」"
+translation = "「큐～～～웅……」"
+
+[[dialogue]]
+speaker = "メイプル"
+original = "「……ふにゃあ～～～」"
+translation = "「……푸냐아～～～」"
+
+[[dialogue]]
+speaker = "ルネア"
+original = "「ふ～ん……あなたたち、思った以上にやるのね。少し驚いたわ」"
+translation = "「흐음…… 너희들, 생각보다 잘하는구나. 조금 놀랐어」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「くっ……今の戦い、かなり危なかったわねっ」"
+translation = "「크읏…… 방금 싸움, 상당히 위험했네」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「ええ、なんて強大な力……女神を名乗るだけのことはあるというわけですか……」"
+translation = "「예, 어쩌면 이렇게나 강대한 힘을…… 여신을 자칭할 만하다는 것이군요……」"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「う、う～ん……」"
+translation = "「으, 으～음……」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「あっ、ルリエル！\u3000正気に戻りましたか！？」"
+translation = "「앗, 루리엘! 제정신으로 돌아왔습니까!?」"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「ルリエル……？\u3000はて、どちら様のことでしょう……？」"
+translation = "「루리엘……? 하테, 누구를 말씀하시는 걸까요……?」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「えっ……まさか、今度は……」"
+translation = "「엣…… 설마, 이번에는……」"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「わたしは、ロロット・ローゼンクロイツと申します。どちら様かは存じませんが、どうぞ、以後お見知りおきを、なのです♪」"
+translation = "「저는, 로롯토 로젠크로이츠라고 합니다. 누구신지는 모르겠지만, 부디, 이후 잘 부탁드립니다, 인 것입니다♪」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「も～っ、何回人格を見失えば気が済むのよ～っ！」"
+translation = "「모～옷, 몇 번이나 인격을 잃어야 직성이 풀리는 거야～읏!」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「では、こちらも……」"
+translation = "「그럼, 이쪽도……」"
+
+[[dialogue]]
+speaker = "メイプル"
+original = "「ぬっふっふ……！\u3000魔王マカロン様、参上！」"
+translation = "「느흐훗후……! 마왕 마카롱 님, 등장!」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「やっぱりー！」"
+translation = "「역시나!」"
+
+[[dialogue]]
+speaker = "ルネア"
+original = "「……なんというか、さっきからずっとやかましいわね、この２人」"
+translation = "「……뭐랄까, 아까부터 계속 시끄럽네, 이 두 사람」"
+
+[[dialogue]]
+speaker = "ルネア"
+original = "「便利な案内役としてちょうどいいと思ったのに……こんなことなら、連れてくるんじゃなかったわ」"
+translation = "「편리한 안내역으로 딱 좋다고 생각했는데…… 이럴 거면, 데려오는 게 아니었어」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「２人のこと、あなたが自分で操ってたんじゃないの……？」"
+translation = "「두 사람을, 당신이 직접 조종한 거 아니었어……?」"
+
+[[dialogue]]
+speaker = "ルネア"
+original = "「それは、その……さっきから、ちゃんと言うことを聞かない感じなのよ。見ればわかるでしょ」"
+translation = "「그건, 그…… 아까부터, 제대로 말을 듣지 않는 느낌이야. 보면 알잖아」"
+
+[[dialogue]]
+speaker = "エグザエル"
+original = "「どうやら戦闘のショックで、洗脳効果が暴走してしまったようですな」"
+translation = "「아무래도 전투의 충격으로, 세뇌 효과가 폭주해 버린 것 같습니다나」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「えっ、待って待って！\u3000また知らないおじさんの声……怖いわ！？」"
+translation = "「엣, 잠깐 잠깐! 또 모르는 아저씨 목소리…… 무서워!?」"
+
+[[dialogue]]
+speaker = "ルネア"
+original = "「ん～……こちらの世界だと、力のチューニングが上手くいかないのかしら？」"
+translation = "「음～…… 이쪽 세계에서는, 힘의 튜닝이 잘 안 되는 걸까?」"
+
+[[dialogue]]
+speaker = "エグザエル"
+original = "「その可能性はありますな」"
+translation = "「그럴 가능성은 있습니다나」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「ほらっ、やっぱり！\u3000絶対誰か喋ってるでしょ！？」"
+translation = "「봐, 역시! 분명 누가 말하고 있잖아!?」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「今度は私にもしっかりと聞こえました……。まだもう１人、いらっしゃるようですね」"
+translation = "「이번에는 저에게도 확실히 들렸습니다……. 아직 한 명 더, 계신 것 같네요」"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「はて……ところで、どうしてわたしはこんなところにいるのでしょう？\u3000皆さん、初めましてのようですし……」"
+translation = "「하테…… 그런데, 어째서 저는 이런 곳에 있는 걸까요? 여러분, 처음 뵙는 것 같고……」"
+
+[[dialogue]]
+speaker = "メイプル"
+original = "「そうだよ！\u3000あたし、さっきまで魔王の修行中だったのに、気づいたらこんなところにいるし！\u3000ここどこ！？」"
+translation = "「맞아! 나, 아까까지 마왕 수련 중이었는데, 정신 차려보니 이런 곳에 있고! 여기 어디야!?」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「……どうやら、以前とはまた違う時期の意識と、入れ替わってしまっているようですが……」"
+translation = "「……아무래도, 이전과는 또 다른 시기의 의식과, 뒤바뀌어 버린 것 같습니다만……」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「どーするのよ、これ……」"
+translation = "「어떻게 할 거야, 이거……」"
+
+[[dialogue]]
+speaker = "ルネア"
+original = "「まったく、こんな予定じゃなかったのに……」"
+translation = "「정말이지, 이런 예정이 아니었는데……」"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「むむむっ！\u3000ビビッときちゃいましたよ！\u3000さてはあなた、わたしたちのことを、何か知っていますね！」"
+translation = "「무무뭇! 찌릿 왔어요! 혹시 당신, 저희에 대해서, 뭔가 알고 있죠!」"
+
+[[dialogue]]
+speaker = "ルネア"
+original = "「えっ、わたし！？\u3000まぁ、知っていると言えば知ってはいるけれど……」"
+translation = "「엣, 나!? 뭐, 알고 있다고 하면 알고는 있지만……」"
+
+[[dialogue]]
+speaker = "メイプル"
+original = "「確かに！\u3000なんだかちょっと懐かしいような、不思議な雰囲気を感じるよ！」"
+translation = "「확실히! 왠지 모르게 조금 그리운 듯한, 신기한 분위기를 느껴!」"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「わたしもそう思っていたのです。このただ者ではないオーラ……きっと、重要な情報を握っているに違いありません！」"
+translation = "「저도 그렇게 생각했던 것입니다. 이 예사롭지 않은 오라…… 분명, 중요한 정보를 쥐고 있는 것이 틀림없습니다!」"
+
+[[dialogue]]
+speaker = "ルネア"
+original = "「ちょっと、待ってもらえるかしら！？\u3000あなたたちの人格が迷子な件については、わたしに訊かれても困るのだけれど……」"
+translation = "「잠깐, 기다려 줄래!? 너희들의 인격이 미아인 건에 대해서는, 나에게 물어봐도 곤란한데……」"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「おや、心外ですね。わたしは間違いなくロロットですし、迷子になるような子供でもありませ～ん！」"
+translation = "「어머, 의외네요. 저는 틀림없이 로롯토이고, 미아가 될 만한 아이도 아니에～요!」"
+
+[[dialogue]]
+speaker = "メイプル"
+original = "「マカロン様はいつだって、自分の信念に従って行動してるんだから！\u3000迷いなんてないよ！」"
+translation = "「마카롱 님은 언제나, 자신의 신념에 따라 행동하고 있으니까! 망설임 같은 건 없어!」"
+
+[[dialogue]]
+speaker = "ルネア"
+original = "「発言が１から１００まで全部迷子なのだけれど！？」"
+translation = "「발언이 1부터 100까지 전부 미아잖아!?」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「これは困りましたね……魔王因子を返せ、という話についても、詳しく聞かせてもらわなければいけませんし……」"
+translation = "「이거 곤란해졌네요…… 마왕 인자를 돌려달라는 이야기에 대해서도, 자세히 들어봐야겠습니다만……」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「そうだったわ！\u3000クロトもやっぱり、心当たりはないみたいだし」"
+translation = "「맞다! 쿠로토도 역시, 짐작 가는 데가 없는 것 같고」"
+
+[[dialogue]]
+speaker = "ルネア"
+original = "「ふぅん……まだそんな白々しい態度をとるのね」"
+translation = "「흐음…… 아직도 그렇게 시치미 떼는 태도를 취하는구나」"
+
+[[dialogue]]
+speaker = "ルネア"
+original = "「さっきも言った通り、わたしはただ取り戻しに来ただけよ。わたしの『恋人』であるシンから、クロトが奪った、その魔王因子をね！」"
+translation = "「아까도 말했듯이, 나는 그저 되찾으러 왔을 뿐이야. 나의 『연인』인 신에게서, 쿠로토가 빼앗은, 그 마왕 인자를 말이야!」"
+
+[[dialogue]]
+speaker = "メイプル"
+original = "「えっ、ちょっと待って！\u3000お兄ちゃんが恋人ってどういうことっ！？\u3000あたしじゃなくてっ！？\u3000そんなの聞いてないよっ！」"
+translation = "「엣, 잠깐 기다려! 오빠가 연인이라는 게 무슨 말이야!? 내가 아니고!? 그런 거 못 들었어!」"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「どちらもおかしいのです！\u3000そもそも、会長さんはわたしとお付き合いをしているのです。勝手に恋人を名乗られては困りますっ！」"
+translation = "「둘 다 이상한 것입니다! 애초에, 회장군은 저와 교제하고 있는 것입니다. 멋대로 연인이라고 자칭하면 곤란합니다!」"
+
+[[dialogue]]
+speaker = "ルネア"
+original = "「あら、今度はあなたたちまで、わたしの邪魔をする気なの？\u3000だったら、容赦はしないけど……」"
+translation = "「어머, 이번에는 너희들까지, 나를 방해할 생각인 거야? 그렇다면, 용서는 안 하지만……」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「えっと、なんでしょう……今の２人は両方とも、そのシンという方と、特別な関係という認識のようですが……」"
+translation = "「음, 뭘까요…… 지금 두 사람은 둘 다, 그 신이라는 분과, 특별한 관계라고 인식하고 있는 것 같습니다만……」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「なになに、どういうことなの！？\u3000もしかしてそのシンっていう人、すっごい節操のない人だったわけ……？」"
+translation = "「뭐야 뭐야, 무슨 말이야!? 혹시 그 신이라는 사람, 엄청나게 절조 없는 사람이었던 거야……?」"
+
+[[dialogue]]
+speaker = "３人"
+original = "「シンはそんなんじゃないわ！（ありません！）（ないもん！）」"
+translation = "「신은 그렇지 않아! (않습니다!) (아니거든!)」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「えっ、うん、何かごめんね……？」"
+translation = "「엣, 응, 뭔가 미안하네……?」"
+
+[[dialogue]]
+speaker = "エグザエル"
+original = "「ふむ……おそらく、その２人に宿っている平行時間軸の記憶同士が、混線してしまっているのでしょうな」"
+translation = "「흠…… 아마도, 그 두 사람에게 깃들어 있는 평행 시간축의 기억끼리, 혼선되어 버린 것이겠지요나」"
+
+[[dialogue]]
+speaker = "ルネア"
+original = "「なるほど……厄介なことになったわね」"
+translation = "「과연…… 골치 아프게 되었네」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「えっと、つまり……？」"
+translation = "「음, 그러니까……?」"
+
+[[dialogue]]
+speaker = "ルネア"
+original = "「下手に刺激すると、２人の人格にどんな影響があるかわからないから、手がつけられない……という感じかしら」"
+translation = "「함부로 자극하면, 두 사람의 인격에 어떤 영향이 있을지 모르니까, 손을 쓸 수 없다…… 라는 느낌일까」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「そんな……！\u3000２人を安全に元に戻してあげる方法はないんですか！？」"
+translation = "「이런……! 두 사람을 안전하게 원래대로 되돌려 줄 방법은 없습니까!?」"
+
+[[dialogue]]
+speaker = "ルネア"
+original = "「わたしにとっても予想外のことだし……こちらの世界の<ruby>理<rt>ことわり</rt></ruby>について、全て理解しているわけじゃないもの」"
+translation = "「나에게도 예상 밖의 일이고…… 이쪽 세계의 이치에 대해서, 전부 이해하고 있는 건 아니니까」"
+
+[[dialogue]]
+speaker = "unk"
+original = "何か元に戻す方法は……"
+translation = "뭔가 되돌릴 방법은……"
+
+[[dialogue]]
+speaker = "ニャリオン"
+original = "「ニャニャ……？\u3000なんだか随分と騒がしいニャン」"
+translation = "「냐냐……? 왠지 꽤나 시끄러운 냥」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「あっ、ニャリオン！」"
+translation = "「앗, 냐리온!」"
+
+[[dialogue]]
+speaker = "ニャリオン"
+original = "「やっぱりこっちにいらしてたのニャン！」"
+translation = "「역시 이쪽에 와 계셨군요 냥!」"
+
+[[dialogue]]
+speaker = "ニャリオン"
+original = "「フィオナ嬢の戻りが遅いから探しに来てみれば……これは一体、どういうことニャン？」"
+translation = "「피오나 양이 돌아오는 것이 늦어서 찾으러 와봤더니…… 이건 대체, 무슨 일인 냥?」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「それが……」"
+translation = "「그게……」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「かくかくしかじかなのよ！」"
+translation = "「이러쿵저러쿵한 거야!」"
+
+[[dialogue]]
+speaker = "ニャリオン"
+original = "「ニャ～ン……変な状況すぎて、よくわからないのニャ」"
+translation = "「냐～앙…… 이상한 상황이라서, 잘 모르겠는 냥」"
+
+[[dialogue]]
+speaker = "メイプル"
+original = "「も～～！\u3000ずっと訳が分からない話ばっかりして！」"
+translation = "「모～～! 계속 알 수 없는 이야기만 하고!」"
+
+[[dialogue]]
+speaker = "メイプル"
+original = "「というか、もしかして！\u3000この人たち、あたしたちを誘拐しようとしてる、悪い人たちなんじゃ……！」"
+translation = "「그나저나, 혹시! 이 사람들, 우리를 유괴하려고 하는, 나쁜 사람들인 거 아냐……!」"
+
+[[dialogue]]
+speaker = "エグザエル"
+original = "「むっ、ルネア様を悪人呼ばわりとは、愚かな……」"
+translation = "「뭇, 루네아 님을 악인 취급하다니, 어리석은……」"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「おお、確かに怪しいのです！\u3000なんだか悪そうなおじさまの囁きも聞こえましたし、きっと悪の組織に違いありません！」"
+translation = "「오오, 확실히 수상한 것입니다! 왠지 나쁜 아저씨의 속삭임도 들렸고, 분명 악의 조직임이 틀림없습니다!」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「組織って……えっ、私たちまで！？」"
+translation = "「조직이라니…… 엣, 우리까지!?」"
+
+[[dialogue]]
+speaker = "ニャリオン"
+original = "「ニャニャ！？\u3000状況はどうあれ、フィオナ嬢に不敬な態度をとるのは許せないニャン！」"
+translation = "「냐냐!? 상황이 어떻든, 피오나 양에게 불경한 태도를 취하는 것은 용서할 수 없는 냥!」"
+
+[[dialogue]]
+speaker = "ニャリオン"
+original = "「２人とも、いい加減にするのニャ！」"
+translation = "「두 사람 다, 적당히 하는 냥!」"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「ふにゃっ！？」"
+translation = "「푸냐앗!?」"
+
+[[dialogue]]
+speaker = "メイプル"
+original = "「ひゃうっ！？」"
+translation = "「햐우읏!?」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「あっ……！」"
+translation = "「앗……!」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「全然痛くなさそうな猫パンチね！\u3000腰が入ってないのよ、腰が！」"
+translation = "「전혀 아프지 않을 것 같은 고양이 펀치네! 허리가 안 들어갔잖아, 허리가!」"
+
+[[dialogue]]
+speaker = "ニャリオン"
+original = "「うるさいニャン！！」"
+translation = "「시끄러운 냥!!」"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「えっ、あれ……フィオナ会長？\u3000わたしは今まで、何をしていたんでしょう……？」"
+translation = "「엣, 어라…… 피오나 회장? 저는 지금까지, 뭘 하고 있었던 걸까요……?」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「ルリエル！？\u3000今ので元に戻ったんですか！？」"
+translation = "「루리엘!? 방금 그걸로 원래대로 돌아왔습니까!?」"
+
+[[dialogue]]
+speaker = "メイプル"
+original = "「くっ、あたしのほっぺが疼く……！\u3000はっ、まさか、闇の力が暴走していたというのか！？」"
+translation = "「크읏, 내 뺨이 욱신거려……! 핫, 설마, 어둠의 힘이 폭주하고 있었다는 건가!?」"
+
+[[dialogue]]
+speaker = "ルネア"
+original = "「それ、元に戻ってるの……？」"
+translation = "「그거, 원래대로 돌아온 거니……?」"
+
+[[dialogue]]
+speaker = "エグザエル"
+original = "「どうやら今の衝撃で、運良く本人たちの人格にチャンネルが合ったようですな」"
+translation = "「아무래도 방금 충격으로, 운 좋게 본인들의 인격에 채널이 맞은 것 같습니다나」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「古いテレビは叩けば直るって言うものね！」"
+translation = "「오래된 TV는 때리면 고쳐진다고 하는 법이지!」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「仲間を古い電化製品扱いはちょっと……」"
+translation = "「동료를 오래된 가전제품 취급하는 건 좀……」"
+
+[[dialogue]]
+speaker = "ルネア"
+original = "「ソフトな刺激がちょうどよかったということかしら。ふふ……なかなか優秀な仲間を連れているようね、クロト！」"
+translation = "「부드러운 자극이 딱 좋았던 걸까. 후후…… 꽤나 우수한 동료들을 데리고 있는 것 같네, 쿠로토!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "優秀な仲間が多いのは認めるよ"
+translation = "「우수한 동료가 많은 건 인정해」"
+
+[[dialogue]]
+speaker = "unk"
+original = "今のは全部偶然だったけどね……"
+translation = "「방금 건 전부 우연이었지만 말이야……」"
+
+[[dialogue]]
+speaker = "エグザエル"
+original = "「まぁ、いざとなれば、我が輩のボディプレスが火を噴いていたところではありますな」"
+translation = "「뭐, 유사시에는, 이 몸의 보디 프레스가 불을 뿜었을 터입니다나」"
+
+[[dialogue]]
+speaker = "ルネア"
+original = "「張り合わなくてもいいわよ」"
+translation = "「경쟁할 필요는 없어」"
+
+[[dialogue]]
+speaker = "ルネア"
+original = "「それよりも……これで少しは落ち着いて、あなたたちの弁明を聞かせてもらえそうね」"
+translation = "「그것보다…… 이걸로 조금은 진정하고, 너희들의 변명을 들을 수 있을 것 같네」"
+
+[[dialogue]]
+speaker = "unk"
+original = "……！"
+translation = "「……!」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「こちらの話を聞いていただけると……？」"
+translation = "「저희의 이야기를 들어주시겠다는……?」"
+
+[[dialogue]]
+speaker = "ルネア"
+original = "「もちろん、少しくらいならいいわよ。女神は寛大だもの」"
+translation = "「물론, 조금 정도는 괜찮아. 여신은 관대하니까」"
+

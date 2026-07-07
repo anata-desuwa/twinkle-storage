@@ -1,0 +1,295 @@
+[[dialogue]]
+speaker = "unk"
+original = "カフェテリアのゴーレム騒動があってから、数日が経った。"
+translation = "카페테리아의 골렘 소동이 있은 지 며칠이 지났다."
+
+[[dialogue]]
+speaker = "unk"
+original = "俺は放課後、学園内を探し回って、ようやく見つけた彼女に、声をかける。"
+translation = "나는 방과 후 학원 안을 샅샅이 뒤져 겨우 찾아낸 그녀에게 말을 건다."
+
+[[dialogue]]
+speaker = "unk"
+original = "せつな、見つけた！"
+translation = "세츠나, 찾았다!"
+
+[[dialogue]]
+speaker = "せつな"
+original = "「え？\u3000主様……？\u3000どうしたのでござるか？」"
+translation = "「에? 주군……? 무슨 일이오?」"
+
+[[dialogue]]
+speaker = "せつな"
+original = "「――ここ数日、せつなの元気がなさそうに見えたから気になった？」"
+translation = "「──요 며칠 세츠나가 기운이 없어 보여서 신경 쓰였다고?」"
+
+[[dialogue]]
+speaker = "せつな"
+original = "「主様……ありがとうございまする。ご心配をおかけして、申し訳ございませぬ」"
+translation = "「주군…… 감사하옵니다. 걱정을 끼쳐 송구하오.」"
+
+[[dialogue]]
+speaker = "せつな"
+original = "「――何があったのか、でござるか？\u3000それは……その……」"
+translation = "「──무슨 일이 있었느냐 말이오? 그것은…… 그게……」"
+
+[[dialogue]]
+speaker = "unk"
+original = "言いづらいこと？"
+translation = "말하기 힘든 일이야?"
+
+[[dialogue]]
+speaker = "せつな"
+original = "「う、後ろめたいことがあるわけではないのでござる！\u3000そこだけはせつな、主様に誓えまする！」"
+translation = "「떠, 떳떳하지 못한 일이 있는 건 아니오! 그 점만큼은 세츠나, 주군께 맹세할 수 있소!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "だったらこうしよう、と俺は彼女にある提案をする。"
+translation = "그렇다면 이렇게 하자며 나는 그녀에게 한 가지 제안을 한다."
+
+[[dialogue]]
+speaker = "せつな"
+original = "「――気晴らしに、これから街へ遊びに……でござるか？」"
+translation = "「──기분 전환으로 지금부터 시내에 놀러…… 말이오?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "俺はどうするか迷っているせつなの手を取って、学園の外に連れ出した。"
+translation = "나는 어떻게 할지 망설이는 세츠나의 손을 잡고 학원 밖으로 데리고 나갔다."
+
+[[dialogue]]
+speaker = "せつな"
+original = "（主様の命のまま、来てしまったでござるが……。正直、今はあまり、遊びを楽しめる心持ちでは……）"
+translation = "(주군의 명대로 따라오긴 했소만……. 솔직히 지금은 그다지 놀이를 즐길 수 있는 마음이……)"
+
+[[dialogue]]
+speaker = "せつな"
+original = "「――え？\u3000ゲームセンターに行くのでござるか？」"
+translation = "「──에? 게임 센터에 가는 것이오?」"
+
+[[dialogue]]
+speaker = "せつな"
+original = "「あっ、お待ち下さいませ、主様！」"
+translation = "「앗, 기다려 주시오, 주군!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "俺はせつなをゲームセンターに引っ張って行き、２人プレイのガンシューティングゲームに付き合ってもらう。"
+translation = "나는 세츠나를 게임 센터로 끌고 가 2인 플레이 건슈팅 게임을 같이 한다."
+
+[[dialogue]]
+speaker = "せつな"
+original = "「ぞ、ゾンビを銃で撃つゲームでござるか！？\u3000って、もういきなりスタート！？」"
+translation = "「조, 좀비를 총으로 쏘는 게임 말이오!? 앗, 벌써 바로 시작!?」"
+
+[[dialogue]]
+speaker = "せつな"
+original = "「主様！\u3000せつな、このゲームはやったことがなくて、細かい操作が分からなくて……！」"
+translation = "「주군! 세츠나, 이 게임은 해본 적이 없어서 자세한 조작법을 모르오……!」"
+
+[[dialogue]]
+speaker = "せつな"
+original = "「わわっ、ゾンビが近づいてきてるでござる！\u3000と、とりあえず撃つでござる！」"
+translation = "「와와, 좀비가 다가오고 있소! 이, 일단 쏘는 소!」"
+
+[[dialogue]]
+speaker = "せつな"
+original = "「あっ、弾切れでござる！\u3000リロードはどうしたら……！？」"
+translation = "「앗, 탄약이 다 떨어진 소! 재장전은 어떻게……!?」"
+
+[[dialogue]]
+speaker = "せつな"
+original = "「あわわ、ゾンビにやられてしまうでござる！」"
+translation = "「아와와, 좀비에게 당해 버리는 소!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "大丈夫だ、任せろ！"
+translation = "괜찮아, 맡겨둬!"
+
+[[dialogue]]
+speaker = "せつな"
+original = "「おぉっ！\u3000主様、すごいでござる！\u3000全てのゾンビをヘッドショットで、あっという間に倒してしまったでござる……！」"
+translation = "「오오! 주군, 대단하오! 모든 좀비를 헤드샷으로 순식간에 쓰러뜨려 버린 소……!」"
+
+[[dialogue]]
+speaker = "せつな"
+original = "「あっ、今度は大きなゾンビが出現して……！\u3000これがステージのボスでござるか！？\u3000リロードの方法はなるほど……主様、教えてくれてありがとうございまする！」"
+translation = "「앗, 이번엔 커다란 좀비가 출현해서……! 이것이 스테이지 보스이오!? 재장전 방법은 과연…… 주군, 가르쳐 주셔서 감사하오!」"
+
+[[dialogue]]
+speaker = "せつな"
+original = "「――ボスは耐久力が高くて、主様お１人では厳しい？\u3000せつなの協力が必要……！」"
+translation = "「──보스는 내구력이 높아서 주군 혼자서는 힘들다고? 세츠나의 협력이 필요……!」"
+
+[[dialogue]]
+speaker = "せつな"
+original = "「はい！\u3000お任せ下さいませ！\u3000せつな、忍びとして主様を全力でお守り致しまする！」"
+translation = "「네! 맡겨 주시오! 세츠나, 닌자로서 주군을 전력을 다해 지키겠소!」"
+
+[[dialogue]]
+speaker = "せつな"
+original = "「参りまする！\u3000えいっ！\u3000とやぁっ！\u3000そこでござる！」"
+translation = "「갑니다! 에잇! 토얏! 거기오!」"
+
+[[dialogue]]
+speaker = "せつな"
+original = "「よしっ！\u3000ボスの弱点に当たって――倒しましたでござる！\u3000これでステージクリアでござる～～～っ♪」"
+translation = "「좋았어! 보스의 약점에 맞아서── 쓰러뜨린 소! 이걸로 스테이지 클리어이오~~~~~♪」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ナイスだ、せつな！"
+translation = "나이스야, 세츠나!"
+
+[[dialogue]]
+speaker = "せつな"
+original = "「えへへぇ～♪\u3000せつなと主様の、主従の絆による勝利でござる♪」"
+translation = "「에헤헤~♪ 세츠나와 주군의 주종의 유대에 의한 승리이오♪」"
+
+[[dialogue]]
+speaker = "せつな"
+original = "「主様、クレーンゲームで景品を取って下さって、ありがとうございまする！」"
+translation = "「주군, 크레인 게임으로 경품을 뽑아 주셔서 감사하오!」"
+
+[[dialogue]]
+speaker = "せつな"
+original = "「忍者ネコのぬいぐるみ、せつな、家宝としてずっと大切に致しまする♪」"
+translation = "「닌자 고양이 인형, 세츠나, 가보로서 평생 소중히 간직하겠소♪」"
+
+[[dialogue]]
+speaker = "せつな"
+original = "「えへへぇ……♪」"
+translation = "「에헤헤……♪」"
+
+[[dialogue]]
+speaker = "unk"
+original = "よかった。元気が出たみたいだな"
+translation = "다행이다. 기운이 난 모양이네."
+
+[[dialogue]]
+speaker = "せつな"
+original = "「あ……！\u3000気づいたら、主様と遊ぶのが楽しくて、忘れてしまっていたでござる……！」"
+translation = "「아……! 정신을 차려보니 주군과 노는 게 즐거워서 잊고 있었소……!」"
+
+[[dialogue]]
+speaker = "せつな"
+original = "「というか、放課後とはいえ、せつなにこんなにも長い時間付き合って下さって、大丈夫だったのでござるか……？」"
+translation = "「그보다 방과 후라곤 해도 세츠나에게 이렇게 긴 시간 어울려 주셔도 괜찮은 소이었소……?」"
+
+[[dialogue]]
+speaker = "せつな"
+original = "「主様は、星徒会のお仕事とかあったのでは……？」"
+translation = "「주군은 성도회 업무 같은 게 있으셨던 게 아닌지……?」"
+
+[[dialogue]]
+speaker = "せつな"
+original = "「え？\u3000――昨日のうちに、今日の分を終わらせておいたから大丈夫、でござるか？」"
+translation = "「에? ──어제 미리 오늘의 분량까지 끝내두었으니 괜찮다고 말이오?」"
+
+[[dialogue]]
+speaker = "せつな"
+original = "「それってまさか……せつなの為に、わざわざ……？」"
+translation = "「그건 설마…… 세츠나를 위해 일부러……?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "俺は一応、せつなの『主様候補』だからな"
+translation = "나는 일단 세츠나의 '주군 후보'니까 말이야."
+
+[[dialogue]]
+speaker = "せつな"
+original = "「主様……！」"
+translation = "「주군……!」"
+
+[[dialogue]]
+speaker = "せつな"
+original = "「えへへ♪\u3000主様……ありがとうございまする♪」"
+translation = "「에헤헤♪ 주군…… 감사하오♪」"
+
+[[dialogue]]
+speaker = "蘭美"
+original = "（心配して、こっそり付いて来ちゃったけど……）"
+translation = "(걱정돼서 몰래 따라와 버렸지만……)"
+
+[[dialogue]]
+speaker = "蘭美"
+original = "（会長のおかげで、せつなはどうやら大丈夫そうね）"
+translation = "(회장 덕분에 세츠나는 아무래도 괜찮아 보이네.)"
+
+[[dialogue]]
+speaker = "unk"
+original = "影から様子を伺いながら、蘭美はふっと柔らかい笑みを浮かべるのだった――"
+translation = "그림자 속에서 상황을 살피며 라비는 훗 하고 부드러운 미소를 짓는 것이었다──"
+
+[[dialogue]]
+speaker = "unk"
+original = "その翌日――"
+translation = "그 이튿날──"
+
+[[dialogue]]
+speaker = "せつな"
+original = "「蘭美殿！\u3000先日は修業を見て頂いたにも関わらず、泣き言を口にして、大変申し訳ございませぬ！」"
+translation = "「라비 공! 지난번엔 수행을 봐주셨음에도 불구하고 나약한 소리를 내뱉어 대단히 송구하오!」"
+
+[[dialogue]]
+speaker = "蘭美"
+original = "「その格好で来たということは、チョコ作りを再開する気になったのかしら？」"
+translation = "「그 복장으로 왔다는 건 초코 만들기를 재개할 마음이 생겼다는 걸까?」"
+
+[[dialogue]]
+speaker = "せつな"
+original = "「はい！\u3000せつなは何度失敗したとしても、やっぱり――」"
+translation = "「네! 세츠나는 몇 번을 실패한다 하더라도 역시──」"
+
+[[dialogue]]
+speaker = "せつな"
+original = "「心からの愛を込めた『主様チョコ』を作って、バレンタインにお渡ししたいでござる！」"
+translation = "「진심 어린 사랑을 담은 『주군 초코』를 만들어 밸런타인에 드리고 싶은 소!」"
+
+[[dialogue]]
+speaker = "蘭美"
+original = "「いい心意気ね。それでこそ、私の率いる九浄家メイド隊の一員よ！」"
+translation = "「좋은 각오네. 그래야 내가 이끄는 쿠죠 가문 메이드대의 일원이지!」"
+
+[[dialogue]]
+speaker = "蘭美"
+original = "「なら、私も貴方の本気に応えて、全力で指導してあげるわ！」"
+translation = "「그렇다면 나도 네 진심에 보답해서 전력을 다해 지도해 줄게!」"
+
+[[dialogue]]
+speaker = "せつな"
+original = "「はい！\u3000改めて、よろしくお願い致しまする！」"
+translation = "「네! 다시 한번 잘 부탁드리오!」"
+
+[[dialogue]]
+speaker = "せつな"
+original = "「せつな、失敗を無駄にせずに、必ずやチョコを作り上げてみせまする！」"
+translation = "「세츠나, 실패를 헛되이 하지 않고 반드시 초코를 만들어 보이겠소!」"
+
+[[dialogue]]
+speaker = "蘭美"
+original = "「失敗を無駄にせず……ね」"
+translation = "「실패를 헛되이 하지 않고……라니」"
+
+[[dialogue]]
+speaker = "蘭美"
+original = "「ねぇ、せつな。実は私、ちょっと思いついたことがあるの」"
+translation = "「저기, 세츠나. 사실 나, 좋은 생각이 하나 떠올랐어」"
+
+[[dialogue]]
+speaker = "蘭美"
+original = "「試すのは結構大変かもしれないけど、手伝ってくれるかしら？」"
+translation = "「시험해 보는 건 꽤 힘들지도 모르겠지만, 도와줄래?」"
+
+[[dialogue]]
+speaker = "せつな"
+original = "「もちろんでござる！\u3000メイド長の命とあらば、お供致しまする！」"
+translation = "「물론이오! 메이드장의 명이라면 기꺼이 따르겠소!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "せつなは力強く、頷いてみせるのだった――"
+translation = "세츠나는 힘차게 고개를 끄덕여 보이는 것이었다──"
+

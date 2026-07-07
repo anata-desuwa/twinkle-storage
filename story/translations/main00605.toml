@@ -1,0 +1,195 @@
+[[dialogue]]
+speaker = "unk"
+original = "第６話,焔の魔女,B"
+translation = "제6화, 불꽃의 마녀, B"
+
+[[dialogue]]
+speaker = "セドナ"
+original = "「魔導三式──<ruby>炎の女王<rt>イフリータ</rt></ruby>」"
+translation = "「마도 삼식──불꽃의 여왕」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「──づううぅっ！？」"
+translation = "「──끄으으윽!?」"
+
+[[dialogue]]
+speaker = "エリシア"
+original = "「……！？」"
+translation = "「……!?」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「な……！」"
+translation = "「뭐……!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "目の前を黒炎が横切った。"
+translation = "눈앞을 검은 불꽃이 가로질렀다."
+
+[[dialogue]]
+speaker = "unk"
+original = "炸裂した火花はそのままアポロを飲み込んでゆき、地獄のような灼熱をその場に顕現させる。"
+translation = "작렬한 불꽃은 그대로 아폴로를 집어삼키며, 지옥과 같은 작열을 그 자리에 현현시킨다."
+
+[[dialogue]]
+speaker = "unk"
+original = "アナ──でもない。"
+translation = "아나──도 아니다."
+
+[[dialogue]]
+speaker = "unk"
+original = "だって、彼女の星術は今も使えないままだ。"
+translation = "왜냐하면, 그녀의 성술은 지금도 사용할 수 없는 채이기 때문이다."
+
+[[dialogue]]
+speaker = "unk"
+original = "なら、なぜ──"
+translation = "그렇다면, 왜──"
+
+[[dialogue]]
+speaker = "セドナ"
+original = "「撃て」"
+translation = "「쏴라」"
+
+[[dialogue]]
+speaker = "ネビュラ隊員Ａ"
+original = "「──イエス、マム！」"
+translation = "「──예스, 마담!」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「っ──くっ──」"
+translation = "「윽──크윽──」"
+
+[[dialogue]]
+speaker = "ギエル"
+original = "「新手──バカな、星力はすべて封じているはずなのに──」"
+translation = "「새로운 적──말도 안 돼, 성력은 모두 봉인했을 텐데──」"
+
+[[dialogue]]
+speaker = "unk"
+original = "驟雨のごとき一斉掃射がアポロとギエルを蜂の巣にする。"
+translation = "소나기 같은 일제 사격이 아폴로와 기엘을 벌집으로 만든다."
+
+[[dialogue]]
+speaker = "unk"
+original = "その弾丸は、先の炎と同じ黒き光で出来ていた。"
+translation = "그 탄환은, 앞선 불꽃과 같은 검은 빛으로 되어 있었다."
+
+[[dialogue]]
+speaker = "unk"
+original = "そのどれも、見たこともない攻撃で……"
+translation = "그 모든 것이, 본 적 없는 공격이었고……"
+
+[[dialogue]]
+speaker = "セドナ"
+original = "「『仮面の少女』の動向を<ruby>窺<rt>うかが</rt></ruby>っていたつもりだったが──思いのほか<ruby>逼迫<rt>ひっぱく</rt></ruby>した事態となったな」"
+translation = "「『가면의 소녀』의 동향을 엿보고 있었다고 생각했는데──생각보다 다급한 사태가 되었군」"
+
+[[dialogue]]
+speaker = "セドナ"
+original = "「それに、興味深いことも聞けた」"
+translation = "「게다가, 흥미로운 것도 들을 수 있었고」"
+
+[[dialogue]]
+speaker = "unk"
+original = "その全てを指揮した人物は、悠然と割れたコンクリートに佇んでいた。"
+translation = "그 모든 것을 지휘한 인물은, 유유히 갈라진 콘크리트 위에 서 있었다."
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「み、味方……？」"
+translation = "「아, 아군……?」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「みたいだけど」"
+translation = "「인 것 같지만」"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "（アナさんっ！）"
+translation = "（아나 씨!）"
+
+[[dialogue]]
+speaker = "アナ"
+original = "（データにないです）"
+translation = "（데이터에 없습니다）"
+
+[[dialogue]]
+speaker = "unk"
+original = "見覚えのない顔立ち、服装。"
+translation = "낯선 얼굴 생김새, 복장."
+
+[[dialogue]]
+speaker = "unk"
+original = "その場の誰も彼女らに覚えはないようで、しかも駆けつけてきたのは一人や二人ではなかった。"
+translation = "그 자리에 있던 누구도 그녀들을 아는 것 같지 않았고, 게다가 달려온 것은 한두 명이 아니었다."
+
+[[dialogue]]
+speaker = "アイリーン"
+original = "「セドナ長官。ターゲットの沈黙を確認、しかし依然として鼓動を感じます」"
+translation = "「세드나 장관. 타깃의 침묵을 확인, 하지만 여전히 고동이 느껴집니다」"
+
+[[dialogue]]
+speaker = "セドナ"
+original = "「ご苦労。古来より駄々っ子には灸を据えるものだ」"
+translation = "「수고했다. 예부터 떼쟁이에게는 뜸을 뜨는 법이다」"
+
+[[dialogue]]
+speaker = "unk"
+original = "黒炎の術式が天を灼く。"
+translation = "검은 불꽃의 술식이 하늘을 태운다."
+
+[[dialogue]]
+speaker = "unk"
+original = "すると、張られていた障壁が散開して効力を失った。"
+translation = "그러자, 쳐져 있던 장벽이 흩어지며 효력을 잃었다."
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「っ……力が使える！\u3000やっと戻ったわよ、みんな！」"
+translation = "「윽…… 힘을 쓸 수 있어! 드디어 돌아왔어, 모두!」"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「おおおっ！\u3000あ、安心しますね──これなら百人力です！」"
+translation = "「오오옷! 아, 안심이 되네요── 이 정도면 천하무적입니다!」"
+
+[[dialogue]]
+speaker = "ソフィア"
+original = "「油断しないの、ルリ。まだ終わってないです」"
+translation = "「방심하지 마, 루리. 아직 안 끝났어요」"
+
+[[dialogue]]
+speaker = "unk"
+original = "再び星力をみなぎらせて、アポロの消えた砂塵を見る。"
+translation = "다시 성력을 끌어올리며, 아폴로가 사라진 모래 먼지를 본다."
+
+[[dialogue]]
+speaker = "unk"
+original = "すると……"
+translation = "그러자……"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「ホンットに……どいつも、こいつも……！」"
+translation = "「정말…… 어느 놈이든, 이놈이든……!」"
+
+[[dialogue]]
+speaker = "アイリーン"
+original = "「っ……！？\u3000まだ戦えるなんて──不死身ですかっ！？」"
+translation = "「윽……!? 아직 싸울 수 있다니── 불사신입니까!?」"
+
+[[dialogue]]
+speaker = "セドナ"
+original = "「無力化するぞ。手を貸せ、<ruby>星騎士<rt>スターナイト</rt></ruby>のひよっ子ども」"
+translation = "「무력화할 거다. 힘을 빌려라, 성기사의 애송이들」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「どなたか存じ上げませんが──了解っ！」"
+translation = "「누구신지는 모르겠지만── 알겠습니다!」"
+

@@ -1,0 +1,565 @@
+[[dialogue]]
+speaker = "unk"
+original = "流星寮のクリスマスパーティーの後、場所を変えてアポロとクリスマスを楽しんでいた。"
+translation = "유성 기숙사의 크리스마스 파티가 끝난 후, 장소를 옮겨 아폴로와 크리스마스를 즐기고 있었다."
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「フィオナたちはしばらく帰らないって言ったけど、そっちはどうなんだ？」"
+translation = "「피오나 일행은 당분간 안 돌아온다고 했는데, 그쪽은 어때?」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「母さんは相変わらず忙しいみたいだよ」"
+translation = "「어머니는 여전히 바쁘신 모양이야.」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「なんだ、おまえも１人か。じゃあ、あたしが帰ったら寂しくなっちゃうな？」"
+translation = "「뭐야, 너도 혼자인 거냐. 그럼 내가 가면 외로워지겠네?」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「それなら、もうちょっとここに残るぞ。フィオナから連絡があるまで一緒にいよう」"
+translation = "「그렇다면 조금 더 여기 남아있을게. 피오나한테 연락 올 때까지 같이 있자.」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「あと２時間は終わらないと思うけど」"
+translation = "「앞으로 2시간은 안 끝날 것 같은데.」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「２時間か……丁度いいかもな……よし、決めたぞ！」"
+translation = "「2시간이라…… 딱 좋을지도 모르겠네…… 좋아, 결정했다!」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「決めたって？」"
+translation = "「결정했다니?」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「き、決まってるだろ！\u3000鈍いやつだな……アレに、決まってるじゃないか……！」"
+translation = "「버, 뻔하잖아! 둔한 녀석이라니까…… '그거'로 정했단 말이다……!」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「あぅ……こ、こんなのでいいのか？」"
+translation = "「아으…… 이, 이런 걸로 괜찮은 거냐?」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「はだかになってもよかったのに、クリスマスフォームのままがいいなんて……ほんっと、魔王はこういうの好きだな……<emoji=heart04>」"
+translation = "「홀딱 벗어도 괜찮았는데, 크리스마스 폼 그대로인 게 좋다니…… 정말이지, 마왕은 이런 걸 좋아한다니까……<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「でもっ、さすがにこのポーズは恥ずかしすぎないか？\u3000大事なとこだけ丸見えだし」"
+translation = "「하지만 역시 이 포즈는 너무 부끄럽지 않아? 중요한 곳만 다 보이잖아.」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「おい、なにか言ってくれ。こっちはおまえの反応待ちなんだぞ？」"
+translation = "「어이, 뭐라도 말 좀 해봐. 이쪽은 네 반응을 기다리고 있단 말이다.」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「……やっぱりめちゃくちゃ可愛い！」"
+translation = "「……역시 엄청나게 귀여워!」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「かわいいってのはお腹いっぱいだぞ……。今日だけでも、いろんなやつから散々言われたしな……」"
+translation = "「귀엽다는 소리는 이제 배부르다구……. 오늘만 해도 여러 녀석한테 진득하게 들었으니까……」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「でもまあ……うん、恋人から言われるのは特別だ。胸のとこ、キュッてなっちゃったぞ……<emoji=heart04>」"
+translation = "「하지만 뭐…… 응, 연인한테 듣는 건 특별하네. 가슴 쪽이 찡해졌다구……<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「こっちもちょびっと反応しちゃったな……おまえとしてから、すぐここがトロトロが出てくるようになっちゃったんだ……」"
+translation = "「이쪽도 쪼금 반응해버렸네…… 너랑 하고 나서부터는 금방 여기가 질퍽질퍽하게 나와버리게 됐단 말이지……」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「スケベな顔してるぞ。いつもは余裕そうにしてるくせして、あたしのおま○こに釘付けじゃないか」"
+translation = "「야한 얼굴 하고 있네. 평소에는 여유로운 척하면서, 내 보지에서 눈을 못 떼잖아.」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「……見てるだけでいいのか？\u3000触っても……いいんだぞ<emoji=heart04>」"
+translation = "「……보고만 있을 거야? 만져도…… 된다구<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「べ、別に触って欲しいとかじゃなくてっ……おまえが触りたそうだと思って……違うのか……？」"
+translation = "「딱, 딱히 만져줬으면 하는 게 아니라…… 네가 만지고 싶어 할 것 같아서…… 아냐……?」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「違わないよ。今すぐアポロに触りたい」"
+translation = "「아니지 않아. 지금 당장 아폴로를 만지고 싶어.」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「なら、好きにしろ。あたしはおまえの彼女だからな。触りたかったら、いつでも触っていいんだ」"
+translation = "「그럼 마음대로 해. 나는 네 여자친구니까 말야. 만지고 싶으면 언제든 만져도 돼.」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「それはあたしにも言えるんだぞ……。おまえを触りたくなったら、いつでも触ってやる。これがあたしの恋人なんだぞ～って分からせてやるんだ」"
+translation = "「그건 나도 마찬가지라고……. 너를 만지고 싶어지면 언제든 만져줄 거야. 이게 내 연인이다~ 라는 걸 깨닫게 해줄 테니까.」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「でもこの体勢じゃ、今は何も出来ないな」"
+translation = "「하지만 이 자세로는 지금 아무것도 할 수 없는데.」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「う……そ、そうだぞ……！\u3000だから……おまえが触ってくれ、魔王……」"
+translation = "「으…… 그, 그러네……! 그러니까…… 네가 만져줘, 마왕……」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「あ、あんま強くするなよ？\u3000感じすぎちゃうからな……。今更あたしが注意しなくても、おまえはわかってると思うけど……」"
+translation = "「너, 너무 세게 하지는 마라? 너무 느껴버리니까……. 이제 와서 내가 주의 주지 않아도 너는 알고 있겠지만……」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「んふっ、あっ……はぁっ……割れ目のとこ、すりすりって……これされると、いっつも変な声出ちゃうな……かっこ悪いのに……」"
+translation = "「응훗, 앗…… 하아…… 갈라진 곳을 문질문질…… 이거 당하면 항상 이상한 목소리가 나와버린단 말이지…… 꼴사나운데……」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「だけどっ、気持ちいいから気にしなくていいぞ。これはあたしが喜んでる証拠みたいなもんだしな」"
+translation = "「그치만 기분 좋으니까 신경 안 써도 돼. 이건 내가 기뻐하고 있다는 증거 같은 거니까.」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「んんっ……そのまま……くり……だったか……？\u3000そこはそっと頼む。一番気持ちよくなっちゃうとこだから……」"
+translation = "「응윽…… 그대로…… 클리……였나……? 거기는 살살 부탁해. 제일 기분 좋아져 버리는 곳이니까……」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「ふあぁっ、はぁっ、あんっ……やっぱ魔王はうまいな……あたしを気持ちよくする天才だ<emoji=heart04>」"
+translation = "「후아앗, 하앗, 앙…… 역시 마왕은 잘하네…… 나를 기분 좋게 만드는 천재야<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「こんなの知らなかったのに……気持ちいいとこ、おまえにいっぱい教えてもらって……恥ずかしいけど、好き、だって思ってる<emoji=heart04>」"
+translation = "「이런 거 몰랐었는데…… 기분 좋은 곳을 너한테 잔뜩 배워서…… 부끄럽지만, 좋다고 생각하고 있어<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「エッチなことも……おまえにしてもらうのは好きだ<emoji=heart04>\u3000これからも、もっとあたしにいろいろ教えてくれ<emoji=heart04>」"
+translation = "「야한 짓도…… 네가 해주는 건 좋아<emoji=heart04> 앞으로도 더 나한테 이것저것 가르쳐줘<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「お、おいっ、おち○ちんビクンってしたぞっ。今ので興奮しちゃったのか？」"
+translation = "「어, 어이, 자지가 움찔했어. 방금 걸로 흥분해버린 거야?」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「ただでさえでっかくなってるのに、あたしの割れ目にグリグリ押しつけやがって……もう爆発しそうなほどパンパンになってるぞ」"
+translation = "「안 그래도 커져 있는데, 내 가랑이에 억지로 비벼대고 말이야…… 금방이라도 폭발할 것처럼 팽팽해져 있잖아.」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「んんっ……ふぁ<emoji=heart04>\u3000それずるいぞ……あたしの汁を塗るみたいにしてっ……こんなの気持ちよくなっちゃうだろ<emoji=heart04>」"
+translation = "「응윽…… 하아<emoji=heart04> 그거 치사하다구…… 내 애액을 바르는 것처럼 해서…… 이런 거 기분 좋아져 버리잖아<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「くそっ、おまえのせいでおま○こ変になっちゃったじゃないか……彼氏として、ちゃんと責任取ってくれよな<emoji=heart04>」"
+translation = "「젠장, 너 때문에 보지 이상해져 버렸잖아…… 남자친구로서 제대로 책임지라구<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「うん……もう準備できてるから……おまえのおち○ちん、あたしにズブってしてくれ……<emoji=heart04>」"
+translation = "「응…… 이제 준비됐으니까…… 네 자지, 나한테 푹 꽂아줘……<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「ふあぁぁぁ～～～っ！\u3000はぁん！\u3000入ってきたぁ<emoji=heart04>\u3000魔王のおち○ちん、あたしに入っちゃったぁ<emoji=heart04>」"
+translation = "「후아아아아~~! 하앙! 들어왔다아<emoji=heart04> 마왕 자지가 나한테 들어와 버렸어어<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「うう、おっきすぎるぞ……もうちょっとあたしの体格を気にして欲しいぞ……」"
+translation = "「으으, 너무 크다구…… 좀 더 내 체격을 배려해줬으면 좋겠어……」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「そう言うあたしも、すっかりこいつに馴染んじゃったけどな……何度も入れてもらったから広がるようになっちゃったぞ<emoji=heart04>」"
+translation = "「그렇게 말하는 나도 완전히 이 녀석한테 익숙해져 버렸지만 말야…… 몇 번이나 넣어줬으니까 벌어지게 돼버렸다구<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「ったく、めちゃくちゃ気持ちよさそうな顔して。あたしのおま○こはそんなに気持ちいいか？」"
+translation = "「참 나, 엄청나게 기분 좋아 보이는 얼굴 하고는. 내 보지가 그렇게 기분 좋냐?」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「こっちも……ちゃんと気持ちいいぞ。つながってるとこ、ドバッて汁が出てるし……」"
+translation = "「이쪽도…… 확실히 기분 좋아. 연결된 곳에서 즙이 왈칵왈칵 나오고 있고……」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「うう～っ、あたしのおなかもポコッとしちゃってる。魔王のでっかいのが入ってるって丸わかりだな<emoji=heart04>」"
+translation = "「으으~ 내 배도 볼록해져 버렸어. 마왕의 커다란 게 들어있다는 게 다 보이네<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「サイズが違うから無理矢理してるのに……あたしも気持ちいいからＯＫってなっちゃってるんだ」"
+translation = "「사이즈가 다르니까 억지로 하는 건데…… 나도 기분 좋으니까 OK가 돼버려.」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「この先も……もっともっとあたしを気持ちよくしてくれるんだろうなって、期待しちゃう……」"
+translation = "「앞으로도…… 더더욱 나를 기분 좋게 해주겠지 하고 기대하게 돼버려……」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「おまえだって、おち○ちん入れただけじゃ満足しないだろ？\u3000ちゃんと動いて……あたしのちっちゃいおま○こでズブズブしごかないと白いの出ないってわかってるんだぞ」"
+translation = "「너도 자지만 넣은 거로는 만족 못 하잖아? 제대로 움직여서…… 내 작은 보지로 뻑뻑하게 조여줘야 하얀 게 나온다는 거 알고 있다구.」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「もう大丈夫だから。ていうか、あたしもして欲しくなってるから……だから……うん」"
+translation = "「이제 괜찮으니까. 그보다 나도 해줬으면 하니까…… 그러니까…… 응.」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「動いて……気持ちよくなってくれ……魔王<emoji=heart04>」"
+translation = "「움직여서…… 기분 좋아져 줘…… 마왕<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「あぁんっ<emoji=heart04>\u3000はぁっ<emoji=heart04>\u3000あっ、あっ、あっ、すごいっ<emoji=heart04>\u3000こんなっ、いきなり激しくっ<emoji=heart04>」"
+translation = "「아앙<emoji=heart04> 하앗<emoji=heart04> 앗, 앗, 앗, 굉장해<emoji=heart04> 이렇게, 갑자기 격렬하게<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「動いていいって言ったけど、こんなのされたら、壊れちゃうじゃないかぁっ<emoji=heart04>\u3000もっとやさしく出し入れしてくれっ。あたしは逃げないからっ<emoji=heart04>」"
+translation = "「움직여도 된다고 했지만, 이런 짓 당하면 망가져 버리잖아아앗<emoji=heart04> 좀 더 살살 넣었다 뺐다 해줘. 나 도망 안 가니까아<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「んううぅ～～～っ<emoji=heart04>\u3000今度はねっとり動いて……ずるいぞ、こんなの<emoji=heart04>\u3000どんな風にされても気持ちよくなっちゃう<emoji=heart04>」"
+translation = "「응으으으~~<emoji=heart04> 이번엔 끈적하게 움직이고…… 치사해, 이런 거<emoji=heart04> 어떤 식으로 당해도 기분 좋아져 버려<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「おまえっ、あたしの反応楽しんでるだろ！\u3000絶対にそうだ！\u3000んぅううっ……いつもおち○ちんに負けてるからって……調子に乗って！」"
+translation = "「너, 내 반응 즐기고 있지! 절대 그럴 거야! 응으으윽…… 항상 자지한테 지고 있다고 해서…… 우쭐대기는!」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「せめてあたしが動けるポーズだったら……こんな格好じゃ、絶対に……あ、ああっ……負けちゃうじゃないかっ……！」"
+translation = "「적어도 내가 움직일 수 있는 포즈였다면…… 이런 자세로는 절대…… 아, 아앗…… 져버리잖아……!」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「負けポーズは嫌？」"
+translation = "「항복하는 포즈는 싫어?」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「そんなこと言ってないだろ！\u3000おまえになら、こんな風に負けるのだって……いいと思ってる<emoji=heart04>」"
+translation = "「그런 말 안 했잖아! 너한테라면 이런 식으로 지는 것도…… 괜찮다고 생각하고 있어<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「くっそ～～っ、好きになったら……負けだぁ……！\u3000なんでも……んんっ……許しちゃう気分だぞ……！」"
+translation = "「제기랄~~ 좋아하게 되면…… 지는 거다아……! 뭐든지…… 응윽…… 허락해버릴 기분이라구……!」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「とにかくっ、そのくらいあたしはおまえに夢中なんだ<emoji=heart04>\u3000だからっ、したいようにしていいんだぞ。どんな風にされても、どーせあたしはあんあん言っちゃうんだから<emoji=heart04>」"
+translation = "「어쨌든, 그 정도로 나는 너한테 푹 빠져있단 말야<emoji=heart04> 그러니까 하고 싶은 대로 해도 좋아. 어떤 식으로 당해도 어차피 나는 앙앙거릴 테니까<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「んぁっ<emoji=heart04>\u3000あぁっ<emoji=heart04>\u3000そ、そうだぞ<emoji=heart04>\u3000あたしをめいっぱい楽しんでくれ<emoji=heart04>\u3000あたしで気持ちよくなって欲しい<emoji=heart04>」"
+translation = "「응아앗<emoji=heart04> 아앗<emoji=heart04> 그, 그래<emoji=heart04> 나를 마음껏 즐겨줘<emoji=heart04> 나로 기분 좋아졌으면 좋겠어<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「おっぱいの方は全然だからな。おしりもちっちゃいし……だから、おま○こがあたしの最強の武器なんだ」"
+translation = "「가슴 쪽은 영 꽝이니까 말야. 엉덩이도 작고…… 그러니까 보지가 나의 최강의 무기야.」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「おまえも大好きって言ってくれたし……だからもっと、おま○こで気持ちよくなってくれっ<emoji=heart04>」"
+translation = "「너도 정말 좋아한다고 말해줬고…… 그러니까 더, 내 보지로 기분 좋아져 줘어<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「んんっ<emoji=heart04>\u3000はぁんっ<emoji=heart04>\u3000ああっ<emoji=heart04>\u3000あんっ<emoji=heart04>\u3000あんっ<emoji=heart04>\u3000もっと……あたしに夢中になって……あたしの全部を味わってくれ<emoji=heart04>」"
+translation = "「응윽<emoji=heart04> 하앙<emoji=heart04> 아앗<emoji=heart04> 앙<emoji=heart04> 앙<emoji=heart04> 좀 더…… 나한테 푹 빠져서…… 내 전부를 맛봐줘<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「へへっ、めちゃくちゃ気持ちいいんだよな？\u3000おち○ちんでわかるぞ。パンパンに膨らんで、中でびくんびくんしてっ……あああっ……<emoji=heart04>」"
+translation = "「헤헤, 엄청나게 기분 좋은 거지? 자지 보면 알 수 있다구. 팽팽하게 부풀어서 안에서 움찔움찔거리고…… 아아앗……<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「あたしのこと大好きだ～って伝わってくるぞ<emoji=heart04>\u3000ほら<emoji=heart04>\u3000好きなんだろ？\u3000あたしのことが好きで好きでたまんないんだよなっ<emoji=heart04>」"
+translation = "「나를 정말 좋아한다는 게 전해져 온다구<emoji=heart04> 자<emoji=heart04> 좋은 거지? 내가 좋아서 좋아서 어쩔 줄 모르는 거지이<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「あたしもっ……おまえが好きだぞ、魔王<emoji=heart04>\u3000エッチしてる時に言うもんじゃないけど、でも好きって言いたくなっちゃったんだからしょうがないよな<emoji=heart04>」"
+translation = "「나도…… 네가 좋다구, 마왕<emoji=heart04> 섹스할 때 할 말은 아니지만, 그래도 좋다고 말하고 싶어졌으니까 어쩔 수 없잖아<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「えへへ～、好き好き同士でこうしてくっつきあって……はぁ、んぅ……エッチなとこぐちゅぐちゅさせて……最高に気持ちいいなっ<emoji=heart04>」"
+translation = "「에헤헤~ 서로 좋아하는 것끼리 이렇게 달라붙어서…… 하아, 응윽…… 야한 곳을 질퍽질퍽하게 만들고…… 최고로 기분 좋네에<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「んんっ、ぁ、ああっ……あたしもすっかりスケベになっちゃった……おまえと同じだ<emoji=heart04>」"
+translation = "「응윽, 아, 아앗…… 나도 완전히 음란해져 버렸어…… 너랑 똑같아<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「もっともっと……あたしをおまえに近づけてくれよ<emoji=heart04>\u3000あたしが好きなおまえみたいになりたいんだ<emoji=heart04>\u3000だからエッチだって……今よりもっと頑張るぞ<emoji=heart04>」"
+translation = "「좀 더 좀 더…… 나를 너에게 가깝게 해줘어<emoji=heart04> 내가 좋아하는 너처럼 되고 싶단 말야<emoji=heart04> 그러니까 섹스도…… 지금보다 더 열심히 할 거야<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「んあぁっ<emoji=heart04>\u3000今のでおち○ちん膨らんだのか？\u3000まったく、おまえが興奮するツボがあたしにはわかんないぞ」"
+translation = "「응아앗<emoji=heart04> 방금 걸로 자지가 부풀어 오른 거야? 참 나, 네가 흥분하는 포인트는 나로서는 모르겠다구.」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「オトコとオンナで違うから……わからないのか？\u3000でも、あたしは諦めないぞ！\u3000もっとおまえを理解するためにっ……いっぱいエッチして欲しい<emoji=heart04>」"
+translation = "「남자랑 여자랑 다르니까…… 모르는 건가? 하지만 나는 포기 안 해! 너를 더 이해하기 위해서…… 섹스 잔뜩 해줬으면 좋겠어<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「あぁぁっ<emoji=heart04>\u3000あんっ<emoji=heart04>\u3000はぁんっ<emoji=heart04>\u3000そうだっ、もっと<emoji=heart04>\u3000もっとあたしに夢中になってくれ<emoji=heart04>」"
+translation = "「아아앗<emoji=heart04> 앙<emoji=heart04> 하앙<emoji=heart04> 그래, 좀 더<emoji=heart04> 좀 더 나한테 푹 빠져줘<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「いいぞっ<emoji=heart04>\u3000もっとパンパンしろ<emoji=heart04>\u3000あたしで気持ちよくなって……ドピュってしてくれ<emoji=heart04>」"
+translation = "「좋아<emoji=heart04> 좀 더 퍽퍽 쳐줘<emoji=heart04> 나로 기분 좋아져서…… 찍 싸달라구<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「んうううう～～～～っ<emoji=heart04>\u3000本気出したなっ、魔王<emoji=heart04>\u3000出す前の動きになったぞっ<emoji=heart04>」"
+translation = "「응으으으으~~~~<emoji=heart04> 본때를 보여주는구나, 마왕<emoji=heart04> 싸기 직전의 움직임이 됐어어!」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「こんなされたらあたしも一気におかしくなっちゃうぞ<emoji=heart04>\u3000ふあぁっ<emoji=heart04>\u3000あぁっ<emoji=heart04>\u3000あんっ<emoji=heart04>\u3000あんっ<emoji=heart04>\u3000すごっ<emoji=heart04>\u3000うあぁぁ～～～っっ<emoji=heart04>」"
+translation = "「이러면 나도 한꺼번에 이상해져 버린다구<emoji=heart04> 후아앗<emoji=heart04> 아앗<emoji=heart04> 앙<emoji=heart04> 앙<emoji=heart04> 굉장해<emoji=heart04> 우아아아~~~~앗<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「入ってるとこもっ、ぶちゅぶちゅ言っててやらしーなっ<emoji=heart04>\u3000あたしとおまえがエッチしてるんだなって実感するぞっ」"
+translation = "「박혀 있는 곳도 질퍽질퍽 소리가 나서 야하네에<emoji=heart04> 너랑 내가 섹스하고 있다는 게 실감 나아!」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「ううっ、おま○この中がおかしいほどヌルヌルだぞっ<emoji=heart04>\u3000こんなっ、蛇口がぶっ壊れたみたいに垂れ流してっ……あっ、あああっ<emoji=heart04>」"
+translation = "「으윽, 보지 안이 이상할 정도로 미끌미끌해에<emoji=heart04> 이렇게, 수도꼭지 고장 난 것처럼 쏟아내고…… 앗, 아아앗<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「シーツを汚したって、後で怒られたら……はぁ、あっ……あたしのせいにしていいからなっ<emoji=heart04>\u3000あたしとエッチして、おま○この汁出されたって<emoji=heart04>」"
+translation = "「시트를 더럽혔다고 나중에 혼나면…… 하아, 앗…… 내 탓으로 해도 되니까아<emoji=heart04> 나랑 섹스해서 보지물 흘린 거라고<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「我慢したいけど、絶対無理だからっ<emoji=heart04>\u3000悪いけど開き直っちゃうぞ<emoji=heart04>\u3000いっぱいヌルヌル出すからっ、おまえもたっぷり白いの出してくれっ<emoji=heart04>」"
+translation = "「참고 싶지만 절대 무리니까아<emoji=heart04> 미안하지만 배 째라 할 거야아<emoji=heart04> 미끈미끈하게 잔뜩 낼 테니까, 너도 듬뿍 하얀 거 내달라구!」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「魔王のせーし……あたしにくれよっ<emoji=heart04>\u3000一番奥でドバッと出されるのが気持ちいいんだっ<emoji=heart04>\u3000何度もされて癖になっちゃったみたいだな<emoji=heart04>」"
+translation = "「마왕 정액…… 나한테 줘어<emoji=heart04> 제일 깊은 곳에서 왈칵 싸주는 게 기분 좋단 말야<emoji=heart04> 몇 번이나 당해서 버릇이 돼버린 모양이네<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「ほらっ、もっとズンズンしてっ、気持ちよくなってくれ<emoji=heart04>\u3000あたしもっ、おまえが動いたらめちゃくちゃ気持ちいいからっ<emoji=heart04>」"
+translation = "「자, 좀 더 쿵쾅거려서 기분 좋아져 줘<emoji=heart04> 나도, 네가 움직이면 엄청나게 기분 좋으니까아<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「んあぁぁ～～～っ<emoji=heart04>\u3000はぁっ<emoji=heart04>\u3000やばっ<emoji=heart04>\u3000いっちゃいそうだったぞ<emoji=heart04>\u3000あたしももう限界みたいだっ<emoji=heart04>\u3000魔王っ<emoji=heart04>\u3000早くっ<emoji=heart04>\u3000早くドピュってしてぇっ<emoji=heart04>」"
+translation = "「응아아아~~앗<emoji=heart04> 하앗<emoji=heart04> 위험해<emoji=heart04> 가버릴 것 같았어어. 나도 이제 한계인가 봐아<emoji=heart04> 마왕<emoji=heart04> 빨리<emoji=heart04> 빨리 싸줘어어<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「あたしを好きだって言ってくれるならっ<emoji=heart04>\u3000全力で応えてくれよっ<emoji=heart04>\u3000んんっ<emoji=heart04>\u3000乱暴にしていいぞっ<emoji=heart04>\u3000あたしはこの程度じゃ壊れないからな<emoji=heart04>」"
+translation = "「나를 좋아한다고 말해줄 거면! 전력으로 응해달라구! 응윽<emoji=heart04> 거칠게 해도 좋아! 나는 이 정도론 안 망가지니까 말야<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「おまえの全力であたしを愛してくれよっ<emoji=heart04>\u3000もっと<emoji=heart04>\u3000もっとあたしを貪ってくれ<emoji=heart04>」"
+translation = "「네 전력으로 나를 사랑해줘어! 좀 더<emoji=heart04> 좀 더 나를 탐해달라구<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「魔王<emoji=heart04>\u3000魔王っ<emoji=heart04>\u3000あああぁぁあぁぁ～～～～～っ<emoji=heart04>\u3000好き<emoji=heart04>\u3000好きだっ<emoji=heart04>\u3000魔王が好きだっ<emoji=heart04>\u3000あたしっ<emoji=heart04>\u3000あたしっ<emoji=heart04>」"
+translation = "「마왕<emoji=heart04> 마왕아아<emoji=heart04> 아아아아아아아~~~~~앗<emoji=heart04> 좋아해<emoji=heart04> 좋아한다구<emoji=heart04> 마왕이 좋아아<emoji=heart04> 나아<emoji=heart04> 나아<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「もういくっ<emoji=heart04>\u3000いっちゃうぞっ<emoji=heart04>\u3000魔王も来てぇ<emoji=heart04>\u3000んああぁぁ～～っ<emoji=heart04>\u3000はぁんっ<emoji=heart04>\u3000あっ<emoji=heart04>\u3000あっ<emoji=heart04>\u3000あんっ<emoji=heart04>」"
+translation = "「이제 가아<emoji=heart04> 가버린다아! 마왕도 같이 와아<emoji=heart04> 응아아아~~앗<emoji=heart04> 하앙<emoji=heart04> 앗<emoji=heart04> 앗<emoji=heart04> 앙<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「我慢出来ないっ<emoji=heart04>\u3000いくっ<emoji=heart04>\u3000いくいくいくっ<emoji=heart04>\u3000いくぅぅ～～～～～～～っっ<emoji=heart04><emoji=heart04><emoji=heart04>」"
+translation = "「못 참겠어어! 가아! 갈래갈래갈래! 가버려어어어어~~~~~~엇<emoji=heart04><emoji=heart04><emoji=heart04>」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「うああぁぁぁあああぁぁぁっ～～～～～あぁっ、はああぁぁああ～～っ<emoji=heart04><emoji=heart04><emoji=heart04>」"
+translation = "「우아아아아아아아아아~~~~~아앗, 하아아아아아아~~앗<emoji=heart04><emoji=heart04><emoji=heart04>」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「うあぁっ<emoji=heart04>\u3000はあっ<emoji=heart04>\u3000はぁっ<emoji=heart04>\u3000でっかい声出ちゃった……<emoji=heart04>\u3000めちゃくちゃ気持ちよかったぁ<emoji=heart04>」"
+translation = "「우아앗<emoji=heart04> 하앗<emoji=heart04> 하앗<emoji=heart04> 큰 목소리 나와버렸어……<emoji=heart04> 엄청나게 기분 좋았다아<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「んんっ<emoji=heart04>\u3000魔王もいっぱい出してるな<emoji=heart04>\u3000あたしの奥でドクドクしてるぞっ<emoji=heart04>\u3000量もたっぷりだ<emoji=heart04>」"
+translation = "「응윽<emoji=heart04> 마왕도 잔뜩 싸고 있네. 내 깊은 곳에서 울컥울컥하고 있어! 양도 듬뿍이네<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「遠慮しないで……最後まで全部出していいぞ<emoji=heart04>\u3000途中で止めたら気持ち悪いだろうし」"
+translation = "「사양하지 말고…… 마지막까지 전부 싸도 돼<emoji=heart04> 도중에 멈추면 기분 나쁠 테니까.」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「大丈夫だ、あたしも……出されてるのを楽しんでるから<emoji=heart04>\u3000ふふっ、あたしで気持ちよくなったんだって、嬉しくなるから……<emoji=heart04>」"
+translation = "「괜찮아, 나도…… 싸지는 걸 즐기고 있으니까<emoji=heart04> 후훗, 나로 기분 좋아진 거라고 생각하면 기뻐지니까……<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「好きって気持ちはでっかくても、体で満足してもらえるかなって、ちょっぴり不安だから。魔王が夢中で腰振ってくれるとホッとするんだ」"
+translation = "「좋아하는 마음은 커도, 몸으로 만족시켜 줄 수 있을까 조금 불안하거든. 마왕이 정신없이 허리를 흔들어주면 안심하게 돼.」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「そうだぞ……あたしで気持ちよくなってくれてありがとな<emoji=heart04>\u3000最高のエッチだったぞ<emoji=heart04>」"
+translation = "「그래…… 나로 기분 좋아져 줘서 고마워<emoji=heart04> 최고의 섹스였어<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「……おい、出してる時間いつもより長くないか？\u3000さっきからどんだけあたしの中でドクドクしてるんだよ？」"
+translation = "「……어이, 싸고 있는 시간 평소보다 길지 않아? 아까부터 대체 내 안에서 얼마나 울컥거리는 거냐고?」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「もしかしてクリスマスフォームで興奮してるせいか？\u3000かわいいって言われるのあたしが嫌がってたから、おまえは遠慮してくれてたみたいだけどさ」"
+translation = "「혹시 크리스마스 폼 때문에 흥분한 탓인가? 귀엽다는 소리 듣는 거 내가 싫어했으니까, 너는 사양해준 것 같지만 말야.」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「そういうのを水くさいって言うんだぞ。おまえはあたしの恋人なんだから、好きなだけかわいいって言えばいいんだ」"
+translation = "「그런 걸 서먹서먹하다고 하는 거다. 너는 내 연인이니까, 마음껏 귀엽다고 하면 돼.」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「それが……彼氏の特権ってやつだ<emoji=heart04>」"
+translation = "「그게…… 남자친구의 특권이라는 거다<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「ふふっ、たくさん出たな～。もうおしまいか？\u3000ドクドクもなくなったし、終わったら抜いていいぞ」"
+translation = "「후훗, 잔뜩 나왔네~. 이제 끝이야? 움찔거리는 것도 멈췄고, 끝났으면 빼도 돼.」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「んん～～～っ<emoji=heart04>\u3000はぁん<emoji=heart04>\u3000この抜ける瞬間も気持ちいいんだよなぁ<emoji=heart04>」"
+translation = "「응으으으~~음<emoji=heart04> 하앙<emoji=heart04> 이 빠지는 순간도 기분 좋단 말이지이.」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「うへぇ、白いのがドバッと出てきた。こうして見るとすごい量だな……」"
+translation = "「우헤에, 하얀 게 왈칵 쏟아져 나왔어. 이렇게 보니 엄청난 양이네……」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「えへへ、あたしで夢中になった証だな<emoji=heart04>\u3000気持ちよかったか？」"
+translation = "「에헤헤, 나한테 푹 빠졌다는 증거네<emoji=heart04> 기분 좋았어?」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「うん、めちゃくちゃ気持ちよかったよ」"
+translation = "「응, 엄청나게 기분 좋았어.」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「そっかそっか。あたしも……ううん、あたしの方が気持ちよかったぞ……」"
+translation = "「그렇구나 그렇구나. 나도…… 아니, 내가 더 기분 좋았다구……」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「そこ、競うとこか？」"
+translation = "「그런 걸 겨뤄야 해?」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「えへへ、あたしの方がずっとおまえのこと好きだって、教えたいからな<emoji=heart04>」"
+translation = "「에헤헤, 내가 훨씬 더 너를 좋아한다고 알려주고 싶으니까 말야<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「いつもはあんま言えなくてごめんな。でも、その分こういうときは、いっぱい言うから……」"
+translation = "「평소엔 잘 말 못 해서 미안해. 하지만 그만큼 이럴 때는 잔뜩 말해줄 테니까……」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「好きだぞ<emoji=heart04>\u3000すごくすごぉ～～～く好きだっ<emoji=heart04>」"
+translation = "「좋아해<emoji=heart04> 정말 정말로~~~~ 좋아한다구<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「俺もアポロのことが、すごくすごくすごぉ～～～～く、めちゃくちゃ好きで好きでたまんないぞ！」"
+translation = "「나도 아폴로가 정말 정말 정말로~~~~, 엄청나게 좋아서 좋아서 어쩔 줄 모르겠어!」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「おいっ、あたしより多く好きって言うなぁ！」"
+translation = "「이봐, 나보다 더 많이 좋아한다고 하지 마!」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「こっちだっておまえのこと、好きで好きで好きすぎてっ<emoji=heart04>\u3000ほんともうわけわかんないくらい好きなんだからなっ<emoji=heart04>」"
+translation = "「이쪽도 네가 좋아서 좋아서 너무 좋아서어<emoji=heart04> 정말 이제 나도 모를 정도로 좋아한단 말이다아!」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「エッチだって、あたしの方が気持ちよくなってるしっ、おまえのことも気持ちよくさせてるしっ<emoji=heart04>」"
+translation = "「섹스도 내가 더 기분 좋아졌고, 너도 기분 좋게 해줬으니까아<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「よーしっ、じゃあ勝負するか？」"
+translation = "「좋아, 그럼 승부할까?」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「望むところだ！\u3000まだフィオナから連絡ないし、このまま続けて行くぞ<emoji=heart04>」"
+translation = "「바라던 바다! 아직 피오나한테 연락 없으니까 이대로 계속 가는 거다아<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「今のはあたしに不利だから、次は騎乗位でエッチだ！\u3000覚悟しろよ～、魔王<emoji=heart04>」"
+translation = "「방금 건 나한테 불리했으니까, 다음은 기승위로 섹스다! 각오하라구, 마왕<emoji=heart04>」"
+

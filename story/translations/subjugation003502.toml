@@ -1,0 +1,280 @@
+[[dialogue]]
+speaker = "unk"
+original = "カフェテリアで起きた騒動の関係者として、星徒会室にジャクリーヌが連行されてきた。"
+translation = "카페테리아에서 일어난 소동의 관계자로서, 성도회실에 자클린이 연행되어 왔다."
+
+[[dialogue]]
+speaker = "ジャクリーヌ"
+original = "「ゆ……許して欲しいゆ……」"
+translation = "「유…… 용서해주길 바란유……」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「まずは事情を聞いてからですね。いったい何が起こってるのか、詳しく説明してもらえますか？」"
+translation = "「우선은 사정부터 들어야겠네요. 도대체 무슨 일이 일어나고 있는지, 자세히 설명해주시겠어요?」"
+
+[[dialogue]]
+speaker = "ジャクリーヌ"
+original = "「わかったゆ……全部話すゆ……」"
+translation = "「알았유…… 전부 말하겠유……」"
+
+[[dialogue]]
+speaker = "舞亜"
+original = "「現場にいた私たちも話を聞いてるから、その都度補足説明するね」"
+translation = "「현장에 있던 저희도 이야기를 들을 테니까, 그때마다 보충 설명을 할게.」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「ありがとうございます」"
+translation = "「감사합니다.」"
+
+[[dialogue]]
+speaker = "ジャクリーヌ"
+original = "「昨日の夜、ヒトリと一緒に映画を見たゆ。すごく面白いゾンビ映画だったゆ。あれはおすすめゆ～♪」"
+translation = "「어젯밤에, 히토리와 함께 영화를 봤유. 엄청 재미있는 좀비 영화였유. 그건 추천유~♪」"
+
+[[dialogue]]
+speaker = "unk"
+original = "どういう映画なの？"
+translation = "어떤 영화인데?"
+
+[[dialogue]]
+speaker = "ジャクリーヌ"
+original = "「幽霊ゾンビたちを引き連れた冥界道士が悪のゾンビたちと戦うお話ゆ！」"
+translation = "「유령 좀비들을 이끄는 명계도사가 악의 좀비들과 싸우는 이야기유!」"
+
+[[dialogue]]
+speaker = "ジャクリーヌ"
+original = "「幽霊ゾンビはほんとはとっても狂暴な存在ゆ！\u3000だけど道士の術で幽霊ゾンビたちを従えることができるゆ！」"
+translation = "「유령 좀비는 사실 엄청나게 흉포한 존재유! 하지만 도사의 술법으로 유령 좀비들을 부릴 수 있유!」"
+
+[[dialogue]]
+speaker = "ジャクリーヌ"
+original = "「そいつらにはノッポなのとか、太っちょなのとか、ちびっこいのとか色んなのがいるゆ♪\u3000それがドジだったり、恐がりだったり、甘えん坊だったりするゆ♪」"
+translation = "「그 녀석들 중에는 키다리도 있고, 뚱보도 있고, 꼬맹이도 있고 여러 종류가 있유♪ 그게 덜렁거리기도 하고, 겁쟁이이기도 하고, 어리광쟁이이기도 하유♪」"
+
+[[dialogue]]
+speaker = "ジャクリーヌ"
+original = "「でも、ひとたび道士が命令を下すと、一致団結して悪のゾンビに立ち向かっていくゆ！\u3000それがとってもカッコイイゆ♪」"
+translation = "「하지만, 일단 도사가 명령을 내리면, 일치단결해서 악의 좀비에게 맞서 싸우는 유! 그게 너무 멋있유♪」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「あ～、昔の映画だけど有名なやつだよね？\u3000私も見たことあるかも……何てタイトルだったっけ？」"
+translation = "「아~ 옛날 영화지만 유명한 거네? 나도 본 적 있을지도…… 제목이 뭐였더라?」"
+
+[[dialogue]]
+speaker = "ジャクリーヌ"
+original = "「その名の通り『冥界道士』ゆ！」"
+translation = "「그 이름 그대로 『명계도사』유!」"
+
+[[dialogue]]
+speaker = "ソフィア"
+original = "「……それで、映画を見た後はどうしたんですか？」"
+translation = "「……그래서, 영화를 본 후에는 어떻게 했나요?」"
+
+[[dialogue]]
+speaker = "ジャクリーヌ"
+original = "「ゆ……面白くて、カッコよかったから…………余も欲しいって思ったゆ……」"
+translation = "「유…… 재미있고, 멋있어서………… 여도 갖고 싶다고 생각했유……」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「え……欲しいって、幽霊ゾンビ軍団を？\u3000まさかそれで……」"
+translation = "「에…… 갖고 싶다니, 유령 좀비 군단을? 설마 그래서……」"
+
+[[dialogue]]
+speaker = "ジャクリーヌ"
+original = "「近くの公園で儀式をしたゆ。でも、ちょっと気合いが入り過ぎちゃったゆ」"
+translation = "「근처 공원에서 의식을 했유. 하지만, 조금 기합이 너무 들어가 버렸유.」"
+
+[[dialogue]]
+speaker = "ジャクリーヌ"
+original = "「次から次へと幽霊ゾンビが出てきて止まらなくなっちゃったゆ……」"
+translation = "「차례차례 유령 좀비가 나와서 멈추지 않게 되어버렸유……」"
+
+[[dialogue]]
+speaker = "舞亜"
+original = "「それが今、あちこちでお騒がせしてるアレってこと？」"
+translation = "「그게 지금, 여기저기서 소동을 피우고 있는 저거라는 거야?」"
+
+[[dialogue]]
+speaker = "ジャクリーヌ"
+original = "「そういうことだゆ」"
+translation = "「그렇게 된 거유.」"
+
+[[dialogue]]
+speaker = "unk"
+original = "それからどうしたの？"
+translation = "그다음엔 어떻게 했어?"
+
+[[dialogue]]
+speaker = "unk"
+original = "およそ事情はわかったけど"
+translation = "대충 사정은 알겠는데"
+
+[[dialogue]]
+speaker = "ジャクリーヌ"
+original = "「ゆ……」"
+translation = "「유……」"
+
+[[dialogue]]
+speaker = "ソフィア"
+original = "「答えてください、ジャクリーヌさん」"
+translation = "「대답해주세요, 자클린 씨.」"
+
+[[dialogue]]
+speaker = "ジャクリーヌ"
+original = "「と、止めようと思ったゆ！\u3000でも、全然止まらなかったゆ！\u3000もはや余の力ではどうしようもなかったゆ！」"
+translation = "「머, 멈추려고 생각했유! 하지만, 전혀 멈추지 않았유! 이미 여의 힘으로는 어쩔 도리가 없었유!」"
+
+[[dialogue]]
+speaker = "ジャクリーヌ"
+original = "「それで……それで…………諦めて帰ったゆ☆」"
+translation = "「그래서…… 그래서………… 포기하고 돌아갔유☆」"
+
+[[dialogue]]
+speaker = "ソフィア"
+original = "「ゆ☆\u3000じゃ、ありません！！！」"
+translation = "「유☆ 가 아닙니다!!!」"
+
+[[dialogue]]
+speaker = "ジャクリーヌ"
+original = "「ごめんなさいだゆ！\u3000朝になったらみんな消えていなくなると思ってたゆ！\u3000こんな騒ぎになるとは思ってなかったゆ！」"
+translation = "「죄송하다유! 아침이 되면 다들 사라져 없어질 줄 알았유! 이런 소동이 될 줄은 몰랐유!」"
+
+[[dialogue]]
+speaker = "舞亜"
+original = "「とまあ、そんな感じなんだけど……会長さん、どうしよっか？」"
+translation = "「뭐 대충 그런 느낌인데…… 회장님, 어떻게 할까?」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「えっと……本当にどうする、会長？」"
+translation = "「저기…… 정말로 어떻게 할 거야, 회장?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "どんな被害が出てる？"
+translation = "어떤 피해가 나오고 있어?"
+
+[[dialogue]]
+speaker = "舞亜"
+original = "「それなんだけど、ぴょんぴょん飛び回ってるだけで、実害らしい実害は出てないみたいなんだよね」"
+translation = "「그건데, 뿅뿅 뛰어다니기만 할 뿐, 실질적인 피해다운 피해는 나오지 않는 것 같아.」"
+
+[[dialogue]]
+speaker = "舞亜"
+original = "「とはいえ、かな～り鬱陶しいから、放っておくわけにもいかない、みたいな？」"
+translation = "「그렇긴 해도, 꽤나 성가시니까, 내버려 둘 수도 없는 노릇이랄까?」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「ジャクリーヌちゃんの呼び出したそのゾンビは……ええと、ゾンビなんでしょうか？\u3000幽霊なんでしょうか？」"
+translation = "「자클린짱이 불러낸 그 좀비는…… 에또, 좀비인가요? 유령인가요?」"
+
+[[dialogue]]
+speaker = "ジャクリーヌ"
+original = "「余が呼び出した眷属だから幽霊ゆ」"
+translation = "「여가 불러낸 권속이니까 유령유.」"
+
+[[dialogue]]
+speaker = "ソフィア"
+original = "「そうですね。カフェテリアに現れた幽霊も実体が無くて捕まえることが出来ませんでした」"
+translation = "「그렇네요. 카페테리아에 나타난 유령도 실체가 없어서 잡을 수가 없었습니다.」"
+
+[[dialogue]]
+speaker = "ウズメイア"
+original = "「そーそー、捕まえようとしてもスカッ！\u3000スカッ！\u3000って感じだし」"
+translation = "「맞아 맞아, 잡으려 해도 헛손질! 헛손질! 하는 느낌이라구.」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「ええっ、それじゃどうやって捕まえればいいの！？」"
+translation = "「에엣, 그럼 어떻게 잡아야 하는 거야!?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "……専門家の力を借りた方がいいかも"
+translation = "……전문가의 힘을 빌리는 게 좋을지도 몰라."
+
+[[dialogue]]
+speaker = "ジャクリーヌ"
+original = "「ゆ～っゆっゆっゆ♪\u3000幽霊のことなら余にお任せなの♪\u3000１番の専門家なの～♪」"
+translation = "「유~유유유유♪ 유령에 관한 거라면 여에게 맡겨달라는 거유♪ 최고의 전문가유~♪」"
+
+[[dialogue]]
+speaker = "ソフィア"
+original = "「そうかもしれませんが、あなたはどうにも出来なくて逃げ出したクチでしょう？」"
+translation = "「그럴지도 모르지만, 당신은 어떻게 하지도 못하고 도망친 쪽이잖아요?」"
+
+[[dialogue]]
+speaker = "ジャクリーヌ"
+original = "「……そうだったゆ」"
+translation = "「……그랬유.」"
+
+[[dialogue]]
+speaker = "舞亜"
+original = "「他に頼れそうなヒトって言ったら……ヒトリさんかな？」"
+translation = "「달리 의지할 만한 사람이라고 하면…… 히토리 씨일까?」"
+
+[[dialogue]]
+speaker = "ウズメイア"
+original = "「そうだね～、他に思い浮かばないし」"
+translation = "「그렇네~ 다른 사람은 안 떠오르고.」"
+
+[[dialogue]]
+speaker = "ヘレナ"
+original = "「ふふふ、誰か忘れていないかな、諸君？」"
+translation = "「후후후, 누구 한 명 잊고 있지 않나, 제군들?」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「わっ！\u3000ヘレナさん！？」"
+translation = "「왓! 헬레나 씨!?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "いつもの事ながら唐突に登場ですね"
+translation = "언제나 그렇듯 갑작스러운 등장이네요."
+
+[[dialogue]]
+speaker = "ヘレナ"
+original = "「今回の騒ぎは既に新星、流星学園両校の全域にまで及び、今なお拡大を続けているのだ……」"
+translation = "「이번 소동은 이미 신성, 유성 학원 양교의 전역에까지 미쳤으며, 지금도 계속해서 확대되고 있는 것이다……」"
+
+[[dialogue]]
+speaker = "ヘレナ"
+original = "「速やかな鎮静化が必要となれば、ここはやはり九浄家当主にして学園理事長たるこの九浄ヘレナちゃんが動くしかあるまい！」"
+translation = "「신속한 진정이 필요하다면, 여기는 역시 쿠죠 가문 당주이자 학원 이사장인 이 쿠죠 헬레나짱이 움직일 수밖에 없노라!」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「何か対抗手段があるんですか？」"
+translation = "「무슨 대항 수단이 있나요?」"
+
+[[dialogue]]
+speaker = "ヘレナ"
+original = "「うむ、見るがよい！\u3000この日のために用意した、対ゾンビ型幽霊用の人工戦闘服だ！」"
+translation = "「음, 보거라! 이 날을 위해 준비한, 대 좀비형 유령용 인공 전투복이다!」"
+
+[[dialogue]]
+speaker = "ジャクリーヌ"
+original = "「ゆ、ゆゆっ！！？」"
+translation = "「유, 유유!!?」"
+
+[[dialogue]]
+speaker = "ミルフィー"
+original = "「し、失礼します……」"
+translation = "「시, 실례합니다……」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ヘレナちゃんの高らかな宣言とは対極的な控えめな声とともに、ゆっくりと星徒会室のドアが開かれる。"
+translation = "헬레나짱의 드높은 선언과는 대조적인 조심스러운 목소리와 함께, 천천히 성도회실의 문이 열린다."
+
+[[dialogue]]
+speaker = "unk"
+original = "そして──姿を現したのは俺たちのクラスの委員長、ミルフィー・インセントだった。"
+translation = "그리고── 모습을 나타낸 것은 우리 반의 위원장, 밀피 인센트였다."
+

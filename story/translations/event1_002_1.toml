@@ -1,0 +1,365 @@
+[[dialogue]]
+speaker = "unk"
+original = "季節は夏になり、新星学園も長期休暇を迎えた。"
+translation = "계절은 여름이 되고, 신성 학원도 장기 휴가를 맞이했다."
+
+[[dialogue]]
+speaker = "unk"
+original = "ヴィーナスの発案によって、星徒会での強化合宿があっという間に決定。俺達は九浄家の所有する島へとやって来ていた――"
+translation = "비너스의 제안에 따라, 성도회에서의 강화 합숙이 순식간에 결정. 우리들은 쿠죠 가문이 소유한 섬으로 오게 되었다──"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「――というわけで、今日から１週間、この島で強化合宿をしていくわよ！」"
+translation = "「──그런 고로, 오늘부터 1주일, 이 섬에서 강화 합숙을 할 거야!」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「ヴィーナス、質問いい？」"
+translation = "「비너스, 질문해도 돼?」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「何かしら、マトイ？」"
+translation = "「뭐니, 마토이?」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「九浄家の島なのはまぁ、いいんだけど……この島見たところ、建物の１つも無くない？」"
+translation = "「쿠죠 가문의 섬인 건 뭐, 좋은데…… 이 섬 보아하니 건물 하나도 없지 않아?」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「良いところに気付いたわね！\u3000その通り、今回の合宿は――」"
+translation = "「좋은 점을 짚었네! 맞아, 이번 합숙은──」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「無人島でサバイバル生活をするわよ！」"
+translation = "「무인도에서 서바이벌 생활을 할 거야!」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「初耳なんですけど！？」"
+translation = "「처음 듣는 소린데!?」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「ノープロブレム。こんなこともあろうかと、サバイバルグッズの準備は万全です」"
+translation = "「노 프로블럼. 이런 일이 있을 줄 알고, 서바이벌 굿즈 준비는 만전입니다」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「待って、アナ！\u3000サバイバルをする前提で話を進めないで……っ」"
+translation = "「잠깐, 아나! 서바이벌을 한다는 전제로 이야기를 진행하지 마……윽」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「うふふ、島を探検したくてワクワクしちゃうわね～。無人島の洞窟とか、何かありそうじゃない？」"
+translation = "「우후후, 섬을 탐험하고 싶어서 두근두근거리네~. 무인도의 동굴이라니, 뭔가 있을 것 같지 않니?」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「探検とか言ってる場合じゃないですから！\u3000１週間も、食料はどうするんですかっ」"
+translation = "「탐험 같은 소리 할 때가 아니거든요! 1주일이나 식량은 어떡할 건데요」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「……えっ、会長？\u3000食料確保なら任せろって――」"
+translation = "「……엣, 회장? 식량 확보라면 맡겨달라니──」"
+
+[[dialogue]]
+speaker = "unk"
+original = "サバイバルはバイトで経験がある！"
+translation = "서바이벌은 알바로 경험해본 적 있어!"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「いや、どんなバイト！？」"
+translation = "「아니, 대체 무슨 알바야!?」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「あーもう、会長もノリノリって……！\u3000フィオナさん、この人達に何か言ってやって下さい」"
+translation = "「아 정말, 회장도 신났네……! 피오나 씨, 이 사람들에게 뭐라고 좀 해주세요」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「ふふっ、新星学園の星徒会って、いつもこんな感じなんですね。私は好きですよ」"
+translation = "「후훗, 신성 학원의 성도회는 항상 이런 느낌이군요. 저는 좋아요」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「そうでしょう？\u3000私の自慢の仲間達よ！」"
+translation = "「그렇지? 내 자랑스러운 동료들이야!」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「改めて、今回は私もお招き頂いて、ありがとうございます。強化合宿の助っ人として、しっかりお手伝いさせて頂きますね」"
+translation = "「새삼스럽지만, 이번에는 저도 초대해주셔서 감사합니다. 강화 합숙의 도우미로서 열심히 도와드릴게요」"
+
+[[dialogue]]
+speaker = "unk"
+original = "そこまで畏まらずに、仲良く合宿を楽しもう"
+translation = "그렇게 격식 차리지 말고, 사이좋게 합숙을 즐기자"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「はい、ありがとうございます。緋宮会長」"
+translation = "「네, 감사합니다. 히노미야 회장님」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「……ところで、さっきから気になってるんだけど。そこにある変な穴も、ヴィーナスの仕込みなの？」"
+translation = "「……그런데, 아까부터 신경 쓰이는데. 저기 있는 이상한 구멍도 비너스가 준비한 거야?」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「ちなみにマトイ先輩が言っているのは、空間に空いた謎の黒い点であり、私の名前ではありません」"
+translation = "「참고로 마토이 선배가 말하는 것은 공간에 뚫린 수수께끼의 검은 점이며, 제 이름이 아닙니다」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「誰もそんなこと気にしてないよ！？」"
+translation = "「아무도 그런 거 신경 안 써!?」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「マトイがつまらないギャグを言ったってこと？」"
+translation = "「마토이가 재미없는 농담을 했다는 뜻이야?」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「冤罪すぎる……！\u3000ああ、もう、すぐ脱線する。ヴィーナスの後ろの空間に何か穴みたいなのがあるでしょ、ほら！」"
+translation = "「너무 억울해……! 아, 정말, 자꾸 딴 길로 새네. 비너스 뒤쪽 공간에 무슨 구멍 같은 게 있잖아, 봐!」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「何の話？\u3000……って、何これ？\u3000確かに空間に穴が開いてるわね」"
+translation = "「무슨 소리야? ……어, 이게 뭐야? 확실히 공간에 구멍이 뚫려 있네」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「あら？\u3000私もてっきり、ヴィーナスちゃんのサプライズか何かだと思ってたけど……違うの？」"
+translation = "「어머? 나도 당연히 비너스짱의 깜짝 선물 같은 거라고 생각했는데…… 아니었니?」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「穴の向こう側、こことは違うビーチが見えていませんか？\u3000何か建物があるような……」"
+translation = "「구멍 너머로 여기와는 다른 해변이 보이지 않나요? 뭔가 건물이 있는 것 같은……」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「うわっ！？\u3000穴が急に広がって、吸い込まれ……きゃあぁっ！？」"
+translation = "「우와앗!? 구멍이 갑자기 넓어지더니, 빨려 들어…… 꺄아아악!?」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「皆、大丈夫！？\u3000景色が歪んで……よく見えないわ！」"
+translation = "「얘들아, 괜찮아!? 경치가 일그러져서…… 잘 안 보여!」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「視界が晴れて……ここって、さっきの穴から覗いていた建物、でしょうか……？」"
+translation = "「시야가 맑아지고…… 여기는 아까 그 구멍으로 들여다보던 건물, 인가요……?」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「な、何これ？\u3000無人島に建物は無かったはずじゃ……」"
+translation = "「뭐, 뭐야 이거? 무인도에 건물은 없었을 텐데……」"
+
+[[dialogue]]
+speaker = "？？？"
+original = "「あっ！？\u3000ヒト！？\u3000ワタシ以外の人がイルでーす！」"
+translation = "「앗!? 히토!? 와타시 이외의 사람이 이써요!」"
+
+[[dialogue]]
+speaker = "？？？"
+original = "「ヘイ！\u3000ラッシャーセー♪\u3000リゾート結界への初めてのお客様、カンゲイしま～す♪」"
+translation = "「헤이! 어서오세여♪ 리조트 결계의 첫 손님들, 환영함다~♪」"
+
+[[dialogue]]
+speaker = "unk"
+original = "えっ、誰！？"
+translation = "엣, 누구!?"
+
+[[dialogue]]
+speaker = "リップル"
+original = "「ワタシ？\u3000ワタシは、天使のリップルとイイまーす！」"
+translation = "「와타시? 와타시는 천사인 리플이라고 함다!」"
+
+[[dialogue]]
+speaker = "リップル"
+original = "「このリゾート結界で、理想の海の家をツクってます♪\u3000アナタのお名前は？」"
+translation = "「이 리조트 결계에서 이상적인 바다의 집을 만들고 이씀다♪ 당신의 이름은?」"
+
+[[dialogue]]
+speaker = "リップル"
+original = "「――なるほど、カイチョーですか！\u3000耳に残る良い名前だとオモうです！」"
+translation = "「──과연, 카이쵸임까! 귀에 쏙 들어오는 좋은 이름이라고 생각함다!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "いや、会長は名前じゃなくて役職……"
+translation = "아니, 회장은 이름이 아니라 직책……"
+
+[[dialogue]]
+speaker = "リップル"
+original = "「よろしくオネガイします！\u3000カイチョー♪」"
+translation = "「잘 부탁드림다! 카이쵸♪」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「ちょっ！？\u3000いきなり何で抱き着いて……！？」"
+translation = "「잠깐!? 갑자기 왜 매달리는 거야……!?」"
+
+[[dialogue]]
+speaker = "リップル"
+original = "「親愛のハグで～す♪\u3000アナタのお名前も聞かせて欲シイです！」"
+translation = "「친애의 허그임다~♪ 당신의 이름도 들려주길 바람다!」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「わ、私はマトイだけど……」"
+translation = "「나, 나는 마토이인데……」"
+
+[[dialogue]]
+speaker = "リップル"
+original = "「マトイ！\u3000素敵な日本のお名前です♪\u3000よろしくオネガイしま～す！」"
+translation = "「마토이! 멋진 일본 이름임다♪ 잘 부탁드림다!」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「あら～♪」"
+translation = "「어머나~♪」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「こ、これはいわゆる欧米的スキンシップ……！」"
+translation = "「이, 이것이 이른바 서구적 스킨십……!」"
+
+[[dialogue]]
+speaker = "リップル"
+original = "「ワタシに海の家の魅力を教えてくれた、シショ―達から学んだアイサツです♪」"
+translation = "「와타시에게 바다의 집의 매력을 알려준 스승님들에게 배운 인사임다♪」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「詳しい事情は後で聞かせて貰いたいところだけど、リップル。ひとまず確認よ」"
+translation = "「자세한 사정은 나중에 듣고 싶지만, 리플. 일단 확인 좀 할게」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「この場所……さっき結界って言ってたかしら。それを作ったのはあなたってことで合っているのかしら？」"
+translation = "「이 장소…… 아까 결계라고 했었지. 그걸 만든 게 너라는 게 맞는 거니?」"
+
+[[dialogue]]
+speaker = "リップル"
+original = "「はい、ソウです！\u3000ここは、ワタシが作った常夏のリゾート結界――名付けて『エンドレスサマー』で～す♪」"
+translation = "「네, 맞슴다! 여기는 와타시가 만든 상하의 리조트 결계── 이름하여 『엔들리스 서머』임다~♪」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「く、空間を丸ごと作り出したってことですか？\u3000しかも、この規模で……！？\u3000だとしたら、もの凄い星術です……！」"
+translation = "「공, 공간을 통째로 만들어냈다는 건가요? 게다가 이 규모로……!? 그렇다면 엄청난 성술이에요……!」"
+
+[[dialogue]]
+speaker = "リップル"
+original = "「セイジュツ……？\u3000それは、どんな字を書く言葉デスか？」"
+translation = "「성술……? 그건 어떤 글자로 쓰는 말임까?」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「なんと……星術を知らない？\u3000じゃあ、ひょっとして星力のことも……？」"
+translation = "「세상에…… 성술을 몰라? 그럼 혹시 성력에 대해서도……?」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「星術を知らないのだとしたら、これだけの空間をどのようにして維持しているのでしょうか……」"
+translation = "「성술을 모른다면 이 정도의 공간을 어떻게 유지하고 있는 걸까요……」"
+
+[[dialogue]]
+speaker = "リップル"
+original = "「結界はワタシが目覚めた時から知ってて、使えたチカラです。なるほど、セイジュツという名前があったのデスね～」"
+translation = "「결계는 와타시가 깨어났을 때부터 알고 있었고, 쓸 수 있었던 힘임다. 과연, 성술이라는 이름이 있었군여~」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「この結界には星力が満ちているのを感じるから、リップルが使っているのは星術で間違いないわ。まさかこんなところに、これほどの力の持ち主が居るなんて……」"
+translation = "「이 결계에는 성력이 가득 차 있는 게 느껴지니까, 리플이 쓰는 건 성술이 틀림없어. 설마 이런 곳에 이 정도의 실력자가 있을 줄이야……」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「リップルさん、一体何者……？」"
+translation = "「리플 씨, 대체 정체가……?」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「でも、結界を作ったのがリップルなら、術を解除して元の空間に戻れるってことよね。とりあえず、それなら安心したわ」"
+translation = "「하지만 결계를 만든 게 리플이라면, 술법을 해제하고 원래 공간으로 돌아갈 수 있다는 거네. 일단 그렇다면 안심이야」"
+
+[[dialogue]]
+speaker = "リップル"
+original = "「あ～……えっと……ゴメンナサイ。それが今はデキなくて……」"
+translation = "「아~…… 에또…… 죄송함다. 그게 지금은 안 돼서……」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「え」"
+translation = "「에」"
+
+[[dialogue]]
+speaker = "リップル"
+original = "「実はワタシ、ここでリゾート結界の製作を進めていたのデスが、なかなか上手に形にデキず……」"
+translation = "「사실 와타시, 여기서 리조트 결계 제작을 진행하고 이썼는데, 좀처럼 예쁘게 모양이 안 나와서……」"
+
+[[dialogue]]
+speaker = "リップル"
+original = "「考え過ぎて、悩んでいるのが結界に反映サレてしまったのか、その……結界の壁がユガんでしまってて……」"
+translation = "「너무 고민해서, 괴로워하는 게 결계에 반영되어 버린 건지, 그게…… 결계의 벽이 일그러져 버려서……」"
+
+[[dialogue]]
+speaker = "リップル"
+original = "「気付いた時には、自分でも結界から出られないというか……え～と、確かこういう状態をコトバにすると……す、ス、スゥ～？」"
+translation = "「정신 차렸을 때는 스스로도 결계에서 나갈 수 없달까…… 에또, 분명 이런 상태를 말로 하면…… 스, 스, 스으~?」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「スランプ？」"
+translation = "「슬럼프?」"
+
+[[dialogue]]
+speaker = "リップル"
+original = "「そう、ソレです！」"
+translation = "「맞슴다, 그거임다!」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「つ、つまり……私達は結界に閉じ込められてしまった、ということでしょうか……？」"
+translation = "「그, 그러니까…… 저희는 결계에 갇혀버렸다는 뜻인가요……?」"
+
+[[dialogue]]
+speaker = "リップル"
+original = "「え～っと……」"
+translation = "「에또……」"
+
+[[dialogue]]
+speaker = "リップル"
+original = "「なんか、ゴメンね？」"
+translation = "「왠지, 미안함다?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "え……"
+translation = "에……"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「ええぇぇぇ～～～～～～っ！！？」"
+translation = "「에에에에엑~~~~~~!!?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "果たして俺達の合宿は、常夏のリゾート結界で幕を開けるのであった――"
+translation = "과연 우리들의 합숙은 상하의 리조트 결계에서 막을 올리는 것이었다──"
+

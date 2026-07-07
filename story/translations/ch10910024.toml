@@ -1,0 +1,295 @@
+[[dialogue]]
+speaker = "unk"
+original = "第４話,君から目を離さない,P"
+translation = "제4화, 너에게서 눈을 떼지 않아, P"
+
+[[dialogue]]
+speaker = "モンスター"
+original = "「シャーーーッ！！」"
+translation = "「샤아아앗!!」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「あれが今回のボスモンスターだな。強敵だが、こちらも雑魚モンスターを狩って強化は十分だ。ここであれを倒す！」"
+translation = "「저게 이번 보스 몬스터군. 강적이지만, 이쪽도 잡몹 몬스터를 사냥해서 강화는 충분해. 여기서 저놈을 쓰러뜨린다!」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「させませんよ」"
+translation = "「하게 두지 않겠어요.」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「抜け駆けはダメよ～」"
+translation = "「가로채기는 안 돼~」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「くっ……後ろからサーシャさんのチームが……！」"
+translation = "「큭…… 뒤에서 사샤 씨 팀이……!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "梨緒の背中は俺が守る！"
+translation = "리오의 등은 내가 지킬게!"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「ああ、任せた！」"
+translation = "「아아, 맡기마!」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "（今回のルールでは、モンスターと戦闘するだけでなく、他チームを攻撃して妨害することも可能だ）"
+translation = "(이번 룰에서는 몬스터와 전투하는 것뿐만 아니라, 타 팀을 공격해서 방해하는 것도 가능하다.)"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "（このままではボスモンスターとサーシャさんのチームに挟み撃ちにされた上、私たちが消耗させたボスモンスターを横取りされてしまうだろう）"
+translation = "(이대로라면 보스 몬스터와 사샤 씨 팀에게 협공당하는 데다, 우리가 소모시킨 보스 몬스터를 가로채기 당하고 말 거야.)"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "（だが何も考えていない訳じゃない……！）"
+translation = "(하지만 아무 생각도 없는 건 아니야……!)"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「出遅れちゃった！\u3000ほら、ヴィーナスがゆっくり朝ご飯食べてるから！」"
+translation = "「늦어버렸어! 봐, 비너스가 느긋하게 아침밥 먹고 있으니까!」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「大丈夫よ！\u3000ここから巻き返すわ！」"
+translation = "「괜찮아! 여기서부터 역전할 거야!」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「あら、マトイちゃんとヴィーナスちゃんが後ろから来ちゃったわ～」"
+translation = "「어머, 마토이 짱이랑 비너스 짱이 뒤에서 와버렸네~」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「迂闊でした。逆に挟まれる展開になりましたね」"
+translation = "「방심했네요. 역으로 끼이는 전개가 되었군요.」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「ここに来るまでに、ヴィーナスたちの野営地の周りに道標を残しておいた。そろそろ来る頃だと思っていたよ」"
+translation = "「여기 오기까지 비너스 일행의 야영지 주변에 이정표를 남겨두었지. 슬슬 올 때라고 생각하고 있었어.」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ボスモンスターと３チームの乱戦だが、アナとサーシャさん、マトイとヴィーナスのチームがぶつかる形だ。"
+translation = "보스 몬스터와 3팀의 난전이지만, 아나와 사샤 씨, 마토이와 비너스 팀이 맞붙는 형태다."
+
+[[dialogue]]
+speaker = "unk"
+original = "そして俺と梨緒のチームがボスの一番近くにいる。"
+translation = "그리고 나와 리오 팀이 보스와 가장 가까이에 있다."
+
+[[dialogue]]
+speaker = "モンスター"
+original = "「シャーーーッ！」"
+translation = "「샤아아앗!」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「勝つのは──私たちだ！！」"
+translation = "「이기는 건── 우리다!!」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「私たちの勝ちだ！」"
+translation = "「우리의 승리다!」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「他の２チームを争わせ、その間にボスモンスターを倒すとは……作戦勝ちですね」"
+translation = "「다른 두 팀을 싸우게 하고, 그사이에 보스 몬스터를 쓰러뜨리다니…… 작전 승리네요.」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「アナもサーシャさんも、その実力はよく知っているからな」"
+translation = "「아나도 사샤 씨도 그 실력은 잘 알고 있으니까.」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「ジグを星徒会長に指名したのは他でもないサーシャさんだし、アナの優秀さは、１つ上の学年の私たちの間でも噂になっていた」"
+translation = "「지그를 학생회장으로 지명한 건 다름 아닌 사샤 씨고, 아나의 우수함은 한 학년 위인 우리 사이에서도 소문이 자자했지.」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「クレバーな作戦をとってくると踏んでいたから、ヴィーナスを誘導して作戦を乱させてもらった」"
+translation = "「영리한 작전을 짜올 거라 예상했기에, 비너스를 유도해서 작전을 흐트러뜨려 보았다.」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「うまくしてやられたわね～」"
+translation = "「교묘하게 당해버렸네~」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「う～ん、ヴィーナスの猪突猛進さを利用されちゃった……」"
+translation = "「으~음, 비너스의 저돌맹진함을 이용당해버렸어……」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「私たちの負けだわ。やるじゃない、梨緒！」"
+translation = "「우리들의 패배야. 제법이잖아, 리오!」"
+
+[[dialogue]]
+speaker = "リップル"
+original = "「皆さーん、お疲れサマでしたー！\u3000こっちでバーベキューしましょー！」"
+translation = "「여러분~, 수고하셨어용~! 여기서 바비큐 해용~!」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「やったー！\u3000ほらみんな行きましょ！」"
+translation = "「앗싸~! 자, 다들 가자!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "リップルに案内され、ヴィーナスたちが海の家の方に向かっていく。"
+translation = "리플의 안내를 받아, 비너스 일행이 바다의 집 쪽으로 향한다."
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「ふぅ……何とか勝てた。さっきは得意顔で語ってしまったが、ギリギリの勝利だったな」"
+translation = "「후우…… 어떻게든 이겼다. 아까는 기세등등하게 말해버렸지만, 아슬아슬한 승리였군」"
+
+[[dialogue]]
+speaker = "unk"
+original = "お疲れ様、梨緒"
+translation = "수고했어, 리오"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「ああ、お疲れ様。ありがとう。君のおかげで勝つことができたよ」"
+translation = "「아아, 수고했어. 고마워. 네 덕분에 이길 수 있었어」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「あ、思ったより疲労が──」"
+translation = "「아, 생각보다 피로가──」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「ひゃぁっ！？」"
+translation = "「히얏!?」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「あ……すまない……押し倒すような形になってしまった……」"
+translation = "「아…… 미안…… 밀어 넘어뜨리는 형태가 되어버렸군……」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「…………」"
+translation = "「…………」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「その……君とはいろいろあったな……本当にいろいろ……迷惑をかけたこともあった」"
+translation = "「그게…… 너와는 여러 일이 있었지…… 정말 여러 가지로…… 폐를 끼친 적도 있었다」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「うまく言えないが……君のことは、かけがえのない存在だと思っている」"
+translation = "「잘 말할 수는 없지만…… 너는, 무엇과도 바꿀 수 없는 존재라고 생각하고 있어」"
+
+[[dialogue]]
+speaker = "unk"
+original = "俺もそうだよ"
+translation = "나도 그래"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「──！\u3000そ、そうか……それは素直に嬉しいな……」"
+translation = "「──! 그, 그런가…… 그것은 솔직히 기쁘군……」"
+
+[[dialogue]]
+speaker = "unk"
+original = "俺のこと、ずっと見ていてほしい"
+translation = "나를, 계속 지켜봐 줬으면 좋겠어"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「ずっと……か」"
+translation = "「계속……인가」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「仕方ない。魔王が悪に堕ちないよう、監視の目が必要だからな」"
+translation = "「어쩔 수 없지. 마왕이 악으로 타락하지 않도록, 감시의 눈이 필요하니까 말이야」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「おーい、梨緒ー！」"
+translation = "「어ー이, 리오ー!」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「ひゃっ！？」"
+translation = "「히얏!?」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「ん？\u3000魔王とくっついて何やってたんだ？」"
+translation = "「응? 마왕이랑 딱 붙어서 뭐 하고 있었어?」"
+
+[[dialogue]]
+speaker = "ベアトリス"
+original = "「なんだかすごく親しそうに見えたけど……」"
+translation = "「왠지 굉장히 친해 보였는데……」"
+
+[[dialogue]]
+speaker = "ナターシャ"
+original = "「もしかしてお邪魔だったかな？」"
+translation = "「혹시 방해한 걸까?」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「ななな、何でもない！\u3000ちょっとこけてしまっただけだ！\u3000それよりどうして君たちがここに？」"
+translation = "「무무무, 아무것도 아니야! 살짝 넘어졌을 뿐이다! 그보다 어째서 너희가 여기에?」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「リゾート結界で面白いことやってるって聞いてな。新星星徒会とチーム戦なら、選管が受けてたつぞ！」"
+translation = "「리조트 결계에서 재밌는 걸 하고 있다고 들어서 말이야. 신성학생회와 팀전이라면, 선관이 상대해 주지!」"
+
+[[dialogue]]
+speaker = "ベアトリス"
+original = "「クイズ大会のリベンジだよ！\u3000選管があの時とは違うってとこ、見せてあげよう！」"
+translation = "「퀴즈 대회의 리벤지야! 선관이 그때와는 다르다는 걸 보여주겠어!」"
+
+[[dialogue]]
+speaker = "ナターシャ"
+original = "「お、ベアトがやる気だ。それなら私も一肌脱がなくちゃね」"
+translation = "「오, 베아트가 의욕이 넘치네. 그렇다면 나도 한 팔 거들어야겠는걸」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「みんな……」"
+translation = "「모두들……」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「ああ、そうだな。やはりリベンジマッチは直接対決でないとな」"
+translation = "「아아, 그렇군. 역시 리벤지 매치는 직접 대결이어야지」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「というわけだ、魔王。バーベキューが終わったら、選管と新星星徒会でもう一度勝負だ」"
+translation = "「그렇게 됐다, 마왕. 바비큐가 끝나면, 선관과 신성학생회로 다시 한번 승부다」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「君がいるところに私がいる。君から目を離さない」"
+translation = "「네가 있는 곳에 내가 있다. 너에게서 눈을 떼지 않겠어」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「嫌と言っても、地の果てまで──いや天界だろうが平行世界だろうが追いかけてやるから、覚悟するんだな」"
+translation = "「싫다고 해도, 땅끝까지── 아니 천계든 평행세계든 쫓아가 줄 테니, 각오하도록 해」"
+

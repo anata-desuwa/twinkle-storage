@@ -1,0 +1,215 @@
+[[dialogue]]
+speaker = "コハルコ"
+original = "「星騎士の皆さん、応答願います。緊急事態です！\u3000未確認のアステラが発生しました！」"
+translation = "「성기사 여러분, 응답 바랍니다. 긴급사태입니다! 미확인 아스테라가 발생했습니다!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "流星市国、上空。"
+translation = "유성시국 상공."
+
+[[dialogue]]
+speaker = "unk"
+original = "そこには紫色の不気味なアステラが発生していた。"
+translation = "그곳에는 보랏빛의 불길한 아스테라가 발생해 있었다."
+
+[[dialogue]]
+speaker = "unk"
+original = "即応できたプリマステラとともに、星徒会長として調査にやってきたのだが……"
+translation = "즉시 대응한 프리마스텔라와 함께 성도회장으로서 조사하러 왔는데……"
+
+[[dialogue]]
+speaker = "イクシリオン"
+original = "「どうなっているんでしょう、これは……！？\u3000禍々しい雰囲気を感じます！」"
+translation = "「어떻게 된 걸까요, 이건……!? 불길한 분위기가 느껴집니다!」"
+
+[[dialogue]]
+speaker = "パルミエ"
+original = "「むぅ……初めて見るタイプのアステラよね～？」"
+translation = "「으음…… 처음 보는 타입의 아스테라네～?」"
+
+[[dialogue]]
+speaker = "パルミエ"
+original = "「う～ん。サボりすぎて私だけ知らない、とかじゃなければいいんだけど～」"
+translation = "「으～음. 너무 땡땡이쳐서 나만 모르는 거지만 아니면 좋겠는데～」"
+
+[[dialogue]]
+speaker = "マハムート"
+original = "「やれやれ。この威圧感を前に、それだけ軽口が叩ければ上等よ」"
+translation = "「이런이런. 이 위압감 앞에서 그 정도 농담을 던질 수 있다면 훌륭하군.」"
+
+[[dialogue]]
+speaker = "マハムート"
+original = "「ちょっといいかしら、会長。私もコレは初めて見るけど、あなたはどう？」"
+translation = "「잠깐 괜찮을까, 회장. 나도 이건 처음 보는데 너는 어때?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "初めてです。マム"
+translation = "처음입니다. 마무."
+
+[[dialogue]]
+speaker = "メルエル"
+original = "「会長くん、どうしよう？\u3000このまま突入してもいいのかな？」"
+translation = "「회장군, 어떡하지? 이대로 돌입해도 될까?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "通常のアステラであれば、これだけのメンバーなら容易に対処できるだろう。しかし、どう見てもこれは普通ではない。"
+translation = "통상적인 아스테라라면 이 정도 멤버로 쉽게 대처할 수 있을 것이다. 하지만 아무리 봐도 이건 보통이 아니다."
+
+[[dialogue]]
+speaker = "unk"
+original = "星騎士としての経験が、人間の生物としての本能が、警告を発する。"
+translation = "성기사로서의 경험이, 인간이라는 생물로서의 본능이 경고를 보낸다."
+
+[[dialogue]]
+speaker = "コハルコ"
+original = "「トワ先生が到着しました。今、通信に出てもらいます。トワ先生、お願いします」"
+translation = "「토와 선생님이 도착했습니다. 지금 통신 연결하겠습니다. 토와 선생님, 부탁드려요.」"
+
+[[dialogue]]
+speaker = "トワ先生"
+original = "「はーい！\u3000もしもーし、会長くん、みんな、聞こえる？\u3000まずは現在の状況を教えてくれるかな？」"
+translation = "「네에! 여보세요, 회장군, 모두들 들려? 우선 현재 상황을 알려줄래?」"
+
+[[dialogue]]
+speaker = "イクシリオン"
+original = "「そうですね。現在、モンスターは出現しておらず、奥の様子は伺いしれません。ですが気配からして、今までにない脅威であることは間違いなさそうです」"
+translation = "「글쎄요. 현재 몬스터는 출현하지 않았고 내부 상황은 알 수 없습니다. 하지만 기색으로 보아 지금까지 없었던 위협임은 틀림없어 보입니다.」"
+
+[[dialogue]]
+speaker = "トワ先生"
+original = "「そっか、なるほど……未知数なことが多いね。脅威度が高いからこそ、ここは一度帰還して、戦力を整えてから……」"
+translation = "「그렇구나, 과연…… 미지수인 게 많네. 위협도가 높으니까 일단 귀환해서 전력을 가다듬은 뒤에……」"
+
+[[dialogue]]
+speaker = "マハムート"
+original = "「お言葉ですが、先生。どうやらそう悠長なことも言っていられないようです」"
+translation = "「외람된 말씀입니다만, 선생님. 아무래도 그렇게 한가하게 있을 상황은 아닌 듯합니다.」"
+
+[[dialogue]]
+speaker = "トワ先生"
+original = "「えっ！？\u3000どういうこと！？」"
+translation = "「엣!? 그게 무슨 소리야!?」"
+
+[[dialogue]]
+speaker = "マハムート"
+original = "「この特殊なアステラは、少しずつ肥大化しているようです。このまま大きくなり続けるようであれば、いずれ街に大きな被害が出ます」"
+translation = "「이 특수한 아스테라는 조금씩 비대해지고 있습니다. 이대로 계속 커진다면 머지않아 거리에 큰 피해가 발생할 겁니다.」"
+
+[[dialogue]]
+speaker = "パルミエ"
+original = "「対処は急を要する、ってことよね？\u3000賛成～。私も二度手間はイヤだもの」"
+translation = "「대처가 시급하다는 거지? 찬성～. 나도 두 번 일하는 건 싫거든.」"
+
+[[dialogue]]
+speaker = "トワ先生"
+original = "「……みんな同じ意見なんだね。でも、くれぐれも無理はしないで。応援も編成次第、すぐ出撃させるから！」"
+translation = "「……모두 같은 의견이구나. 하지만 부디 무리는 하지 마. 지원군도 편성되는 대로 바로 출격시킬 테니까!」"
+
+[[dialogue]]
+speaker = "イクシリオン"
+original = "「はい、ありがとうございます！」"
+translation = "「네, 감사합니다!」"
+
+[[dialogue]]
+speaker = "メルエル"
+original = "「き、緊張するけど、頑張るよっ！」"
+translation = "「기, 긴장되지만 힘낼게!」"
+
+[[dialogue]]
+speaker = "パルミエ"
+original = "「…………」"
+translation = "「…………」"
+
+[[dialogue]]
+speaker = "パルミエ"
+original = "「ところで～、ダーリンとメルエルちゃんって、どういう関係なの～？」"
+translation = "「그런데～, 달링이랑 메르엘 짱은 무슨 관계야～?」"
+
+[[dialogue]]
+speaker = "メルエル"
+original = "「ダ、ダダダ、ダーリン！？\u3000会長くんが！？」"
+translation = "「다, 다다다, 달링!? 회장군이!?」"
+
+[[dialogue]]
+speaker = "パルミエ"
+original = "「そうよ～？\u3000ここに殿方はダーリンしかいないでしょ？」"
+translation = "「그렇단다～? 여기에 남자는 달링밖에 없잖아?」"
+
+[[dialogue]]
+speaker = "メルエル"
+original = "「会長くんと私は、その、幼馴染というか……パルミエ先輩こそ、どういうご関係なんですか！？」"
+translation = "「회장군과 저는, 그게, 소꿉친구라고 해야 하나…… 팔미에 선배야말로 어떤 관계신가요!?」"
+
+[[dialogue]]
+speaker = "パルミエ"
+original = "「私～？\u3000ダーリンがいれば、隣にはハニーがいるものよ～」"
+translation = "「나～? 달링이 있으면 옆에는 하니가 있는 법이란다～」"
+
+[[dialogue]]
+speaker = "イクシリオン"
+original = "（これは……修羅場！？\u3000本で読んだシチュエーションでは！？）"
+translation = "（이것은…… 수라장!? 책에서 읽었던 시추에이션인가!?）"
+
+[[dialogue]]
+speaker = "イクシリオン"
+original = "「お２人とも、争いはいけません！\u3000ここは公平に、会長との体の相性で決着を付けましょう！」"
+translation = "「두 분 다 싸우면 안 됩니다! 여기서는 공평하게 회장과의 몸의 궁합으로 결판을 내죠!」"
+
+[[dialogue]]
+speaker = "メルエル"
+original = "「……ほぇ？」"
+translation = "「……호에?」"
+
+[[dialogue]]
+speaker = "パルミエ"
+original = "「……は？」"
+translation = "「……하?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "「ああいえ、その！？\u3000今のはいかがわしい意味ではなくてですね！\u3000連携の相性的な話です！！」"
+translation = "「아아 아니, 그게!? 방금 건 이상한 의미가 아니라요! 연계의 궁합 같은 이야기입니다!!」"
+
+[[dialogue]]
+speaker = "マハムート"
+original = "「まったく、そういうのは帰ってからやりなさい。これから戦うのは間違いなく強敵。油断は命取りよ」"
+translation = "「정말이지, 그런 건 돌아가서 해라. 이제부터 싸울 상대는 틀림없는 강적. 방심은 곧 죽음이다.」"
+
+[[dialogue]]
+speaker = "マハムート"
+original = "「会長も、あなたが原因なんだから、見てないでなんとかなさい」"
+translation = "「회장 너도, 네가 원인이니까 구경만 하지 말고 어떻게든 해봐.」"
+
+[[dialogue]]
+speaker = "unk"
+original = "今どうすればよかったんですか！？"
+translation = "방금 어떻게 했어야 했나요!?"
+
+[[dialogue]]
+speaker = "マハムート"
+original = "「さて、<ruby>流星寮<rt>イルソーレ</rt></ruby>の連中が来る前に、新星学園の星騎士の力、見せつけてやるわ。行くわよ！」"
+translation = "「자, 유성 기숙사<rt>일 소레</rt></ruby> 녀석들이 오기 전에 신성 학원 성기사의 힘을 보여주겠어. 가자!」"
+
+[[dialogue]]
+speaker = "メルエル"
+original = "「イエス、マム！」"
+translation = "「예스, 마무!」"
+
+[[dialogue]]
+speaker = "イクシリオン"
+original = "「イエス、マム！」"
+translation = "「예스, 마무!」"
+
+[[dialogue]]
+speaker = "パルミエ"
+original = "「は～い。滅多に出さない私の本気、見せてあげるわ～」"
+translation = "「네～에. 좀처럼 내지 않는 나의 진심, 보여줄게～」"
+
+[[dialogue]]
+speaker = "unk"
+original = "そうして俺たちは、臨時の編成を組み立て、未知のアステライトへと突入するのだった。"
+translation = "그렇게 우리들은 임시 편성을 짜고 미지의 아스테라이트로 돌입했다."
+

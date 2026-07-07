@@ -1,0 +1,790 @@
+[[dialogue]]
+speaker = "unk"
+original = "第３話,煌めきへの導き,B"
+translation = "제3화, 반짝임으로의 인도, B"
+
+[[dialogue]]
+speaker = "unk"
+original = "──そうして、放課後。"
+translation = "──그렇게, 방과 후."
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「みんな待たせて悪かったわね──集まってもらったのは他でもないわ。ついに進展があったのよ！」"
+translation = "「모두 기다리게 해서 미안했네── 모이게 한 것은 다름이 아니야. 드디어 진전이 있었어!」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「もしや……例の日誌が更新されましたか」"
+translation = "「혹시…… 그 일지가 갱신되었습니까」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「ええ──これでようやく、こちらから動けるというものだわ」"
+translation = "「응── 이걸로 드디어, 우리 쪽에서 움직일 수 있다는 거야」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「ここ２週間くらい、いやに平和だったものねえ」"
+translation = "「여기 2주 정도, 이상하게 평화로웠었지」"
+
+[[dialogue]]
+speaker = "ユウリ"
+original = "「ですね。アステラなんかも普段よりめっきり少なかったっつーか……」"
+translation = "「그렇죠. 아스테라 같은 것도 평소보다 훨씬 적었다고 할까……」"
+
+[[dialogue]]
+speaker = "ソフィア"
+original = "「あれだけのことがあった後ですので、逆に薄気味悪いくらいでした」"
+translation = "「그 정도의 일이 있은 후였으니, 오히려 섬뜩할 정도였습니다」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「──お聞かせいただけますか。ヴィーナスさん」"
+translation = "「──들려주시겠어요. 비너스 씨」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「ええ。クロト、そのまま読み上げちゃって」"
+translation = "「응. 쿠로토, 그대로 읽어버려」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「了解──」"
+translation = "「알겠어──」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「『私たちは再び天高き無窮の塔を昇る』」"
+translation = "「『우리는 다시 하늘 높은 무궁의 탑을 오른다』」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「『最奥にて待ち受けるは煌竜ヴィライア。かの竜を討滅することで、星徒会はついに第三階層をも踏破する』」"
+translation = "「『최심부에서 기다리는 것은 황룡 빌라이아. 그 용을 토멸함으로써, 성도회는 마침내 제3계층마저 돌파한다』」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「『そして、私たちはようやく《流れ星の魔王》をその<ruby>縛<rt>いまし</rt></ruby>めから解き放つ……』"
+translation = "「『그리고, 우리는 마침내 《유성(별똥별)의 마왕》을 그 구속에서 해방시킨다……』"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「……だそうだ」"
+translation = "「……라고 한다」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「無窮の塔──という表現は以前にもありましたね。フィーニスの塔のことでしたか」"
+translation = "「무궁의 탑── 이라는 표현은 이전에도 있었죠. 피니스의 탑 말이었습니까」"
+
+[[dialogue]]
+speaker = "セーラ"
+original = "「最後の文、なんか意味深な感じっぽい」"
+translation = "「마지막 문장, 뭔가 의미심장한 느낌 같아」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「ええ！\u3000流れ星の魔王──これって、誰かさんのことを指してると思わない？」"
+translation = "「응! 유성(별똥별)의 마왕── 이거, 누군가를 가리키는 거라고 생각하지 않아?」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「もしかして……アポロのこと？」"
+translation = "「혹시…… 아폴로 말이야?」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「流星ライダー、とかって名乗ってたものねえ」"
+translation = "「유성 라이더, 라고 자칭했었지」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「そう！\u3000でもって、イマシメっていうのは──えっと──なんだっけ？」"
+translation = "「맞아! 게다가, 구속이라는 건── 음── 뭐였더라?」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「縛りつけること──捕縛、束縛といったところでしょうか」"
+translation = "「묶어두는 것── 포박, 속박 정도일까요」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「そうそれ！\u3000つまりこれを読み解くとこうよ！」"
+translation = "「맞아 그거! 즉 이걸 해석하면 이렇다는 거야!」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「塔のボスを倒して、第三層を攻略できれば──フィオナのお姉さんを解放できるってワケ♪」"
+translation = "「탑의 보스를 쓰러뜨리고, 제3층을 공략할 수 있다면── 피오나의 언니를 해방할 수 있다는 거지♪」"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「ほええ……なんでもお見通しなのですね。その日記さんは！」"
+translation = "「호에에…… 뭐든지 꿰뚫어 보고 있는 거군요. 그 일지 씨는!」"
+
+[[dialogue]]
+speaker = "ニャリオン"
+original = "「相変わらず原理が不明で怪しいのニャン……」"
+translation = "「여전히 원리가 불분명해서 수상한 거다냥……」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「ヴィーナスさんなりの解釈が入っている気もしますが──これまでの例からしても、あの塔が鍵を握っている可能性は少なくなさそうです」"
+translation = "「비너스 씨 나름의 해석이 들어가 있는 것 같기도 하지만── 지금까지의 예로 볼 때도, 그 탑이 열쇠를 쥐고 있을 가능성은 적지 않은 것 같습니다」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「……」"
+translation = "「……」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「？\u3000どうされましたか、会長」"
+translation = "「? 무슨 일이십니까, 회장」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「いや……なんでもない」"
+translation = "「아니…… 아무것도 아니야」"
+
+[[dialogue]]
+speaker = "unk"
+original = "『フィーニスの塔』が気にかかるというのは俺も先日、ヴィーナスに伝えていた話。"
+translation = "『피니스의 탑』이 마음에 걸린다는 것은 나도 요전에, 비너스에게 전했던 이야기."
+
+[[dialogue]]
+speaker = "unk"
+original = "あの時は躊躇していたのに、いざ日誌に書かれるとこうも機敏に動くものか──と、やややきもきしてしまった。"
+translation = "그때는 주저하고 있었는데, 막상 일지에 쓰이니 이렇게도 기민하게 움직이는 건가── 하고, 다소 애가 탔다."
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「それにしても──その竜というのはかっこよさそうな名でありますね」"
+translation = "「그렇다고 해도── 그 용이라는 것은 멋있을 것 같은 이름이옵니다」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「……そこが問題ですね」"
+translation = "「……그것이 문제군요」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「だな……」"
+translation = "「그렇지……」"
+
+[[dialogue]]
+speaker = "ソフィア"
+original = "「？\u3000お心当たりがあるのですか？」"
+translation = "「? 짐작 가는 바가 있으신가요?」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「ああ……覚えがあるんだ」"
+translation = "「아아…… 기억나는 이름이야」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「煌竜ヴィライア……その名は」"
+translation = "「황룡 빌라이아…… 그 이름은」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「かつて、朱雀暦の魔界を破滅へ追いやった──魔竜ですね」"
+translation = "「과거, 주작력의 마계를 파멸로 몰아넣었던── 마룡이죠」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「！\u3000異なる暦……」"
+translation = "「! 다른 역법……」"
+
+[[dialogue]]
+speaker = "セーラ"
+original = "「この前話してた～……かつてあった世界、ってヤツだね」"
+translation = "「전에 이야기했던～…… 과거에 있던 세계, 라는 거네」"
+
+[[dialogue]]
+speaker = "マグダレナ"
+original = "「煌竜ヴィライア──そう称された魔物の襲来により、あまねく生命は息絶えてしまいました」"
+translation = "「황룡 빌라이아── 그렇게 칭해진 마물의 습격으로, 모든 생명은 숨을 거두고 말았습니다」"
+
+[[dialogue]]
+speaker = "unk"
+original = "──壁画に描かれていた煌めくドラゴン。"
+translation = "──벽화에 그려져 있던 반짝이는 드래곤."
+
+[[dialogue]]
+speaker = "unk"
+original = "今の森羅暦から何代か前の世界──を終焉へと導いた存在。"
+translation = "지금의 신라력에서 몇 대 전의 세계──를 종언으로 이끌었던 존재."
+
+[[dialogue]]
+speaker = "unk"
+original = "滅亡の歴史に名を刻んでいた魔竜が、あの塔に待ち構えていると日誌は言う。"
+translation = "멸망의 역사에 이름을 새기고 있던 마룡이, 그 탑에 기다리고 있다고 일지는 말한다."
+
+[[dialogue]]
+speaker = "ソフィア"
+original = "「そ、そんな相手を倒しにいけってことですか？」"
+translation = "「그, 그런 상대를 쓰러뜨리러 가라는 말인가요?」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「大ボスってところね。でも大丈夫よ、最後には勝つって書いてあるんだから」"
+translation = "「대보스라는 거지. 하지만 괜찮아, 마지막에는 이긴다고 쓰여 있으니까」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「とはいえ──そのアイテムを信じすぎるのも危険かと」"
+translation = "「그렇다고는 해도── 그 아이템을 너무 믿는 것도 위험할까 합니다」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「それこそアポロと初めて出会った時のように、改ざんされてしまう恐れもありますし」"
+translation = "「그야말로 아폴로와 처음 만났을 때처럼, 위변조될 우려도 있고요」"
+
+[[dialogue]]
+speaker = "ユウリ"
+original = "「なんか都合よすぎる気はするよな」"
+translation = "「뭔가 너무 형편이 좋은 것 같긴 해」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「確かに絶対とは言えないわ。でも、今回の日誌にはしっかり『星徒会』って書かれてる。だから──みんなの力が必要なの。敵が強大なら、なおさらね」"
+translation = "「확실히 절대라고는 말할 수 없어. 하지만, 이번 일지에는 분명히 『성도회』라고 쓰여 있어. 그러니까── 모두의 힘이 필요한 거야. 적이 강대하다면, 더욱더 그렇지」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「何より──フィオナのお姉さんのことが懸かってるんだから！」"
+translation = "「무엇보다── 피오나의 언니 일이 걸려 있으니까!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "日誌そのものへの信憑性に疑問は呈されつつも──"
+translation = "일지 그 자체의 신빙성에 의문은 제기되면서도──"
+
+[[dialogue]]
+speaker = "unk"
+original = "こちらから動ける唯一の道筋が提示されたことで、いくらか前向きになれていた。"
+translation = "우리 쪽에서 움직일 수 있는 유일한 길목이 제시된 것으로, 다소 긍정적으로 변해 있었다."
+
+[[dialogue]]
+speaker = "ユウリ"
+original = "「まあ内容はわかった。んで……そいつはいつ頃の出来事なんだ？」"
+translation = "「뭐 내용은 알았다. 근데…… 그건 언제쯤의 일이야?」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「今日よ！」"
+translation = "「오늘이야!」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「今日！？」"
+translation = "「오늘!?」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「困ったわねえ。何も準備できてないのに」"
+translation = "「곤란하네. 아무것도 준비되어 있지 않은데」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「日誌の日付を違えるわけにはいかないわ。ひとまず──みんなで塔まで行きましょ！」"
+translation = "「일지의 날짜를 어길 수는 없어. 일단── 모두 함께 탑까지 가자!」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「フィーニスの塔──絶対入っちゃダメって言われてるのに」"
+translation = "「피니스의 탑── 절대 들어가면 안 된다고 들었는데」"
+
+[[dialogue]]
+speaker = "ソフィア"
+original = "「両学園の星徒会が侵入したと知れたら、大問題ですね……」"
+translation = "「양 학원의 성도회가 침입했다는 것을 알게 되면, 큰 문제겠네요……」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「大丈夫大丈夫♪\u3000私たちはもう何度も入ってるから──ね、フィオナ」"
+translation = "「괜찮아 괜찮아♪ 우리는 이미 몇 번이나 들어갔으니까── 그치, 피오나」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「う……は、はい」"
+translation = "「으…… 네, 네」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「ふふふ。会長くん達から聞いてはいるけど、中が見てみたいものよね」"
+translation = "「후후후. 회장 군들에게서 듣긴 했지만, 안을 보고 싶긴 하네」"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「確かに……立ち入り厳禁と言われるほど、気になってしまうものであります！」"
+translation = "「확실히…… 출입 엄금이라고 들을수록, 신경 쓰이게 되는 법이옵니다!」"
+
+[[dialogue]]
+speaker = "ユウリ"
+original = "「どっから入りゃいいんだ？」"
+translation = "「어디로 들어가야 하는 거야?」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「勝手に招かれるようになってる。恐らく、ヴィーナスの存在をキーとして」"
+translation = "「저절로 초대받게 되어 있어. 아마도, 비너스의 존재를 열쇠로 해서」"
+
+[[dialogue]]
+speaker = "unk"
+original = "塔の内部からは常にヴィーナスを呼ぶ『声』がしていた。"
+translation = "탑 내부에서는 항상 비너스를 부르는 『목소리』가 들려왔다."
+
+[[dialogue]]
+speaker = "unk"
+original = "恐らく彼女についていけば、他の面々も共に塔の中へ入れるはずだ。"
+translation = "아마도 그녀를 따라가면, 다른 멤버들도 함께 탑 안으로 들어갈 수 있을 것이다."
+
+[[dialogue]]
+speaker = "unk"
+original = "そこへ……"
+translation = "그때……"
+
+[[dialogue]]
+speaker = "アニュラス"
+original = "「──待て、星徒会」"
+translation = "「──기다려, 성도회」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「あら？\u3000この声は……」"
+translation = "「어머? 이 목소리는……」"
+
+[[dialogue]]
+speaker = "アニュラス"
+original = "「話は聞いたぞ。ドラゴン退治に行くのだな」"
+translation = "「이야기는 들었다. 드래곤 퇴치하러 가는 것이지」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「どこで聞いてたの……？」"
+translation = "「어디서 들은 거야……?」"
+
+[[dialogue]]
+speaker = "アニュラス"
+original = "「そんなことはどうでもいい。私も連れて行け。数多の精鋭と修行して鍛えたこの魔剣──必ずや役に立つ」"
+translation = "「그런 건 아무래도 좋다. 나도 데려가라. 수많은 정예와 수행하여 단련한 이 마검── 반드시 도움이 될 것이다」"
+
+[[dialogue]]
+speaker = "unk"
+original = "どこからか事情を聞きつけていたアニュラスは、赤黒くきらめいた剣を抜いて俺たちに示した。"
+translation = "어디선가 사정을 듣고 온 아뉴라스는, 붉고 검게 반짝이는 검을 뽑아 우리에게 보였다."
+
+[[dialogue]]
+speaker = "unk"
+original = "ひしひしと感じる星力の強さは星徒会メンバーのそれと比べても遜色ない。"
+translation = "절실히 느껴지는 성력의 강함은 성도회 멤버들의 그것과 비교해도 손색이 없다."
+
+[[dialogue]]
+speaker = "アニュラス"
+original = "「それに緋宮クロト！\u3000おまえは先ほどしきりに眼をこすっていたな──戦士に寝不足などあってはならない！」"
+translation = "「게다가 히노미야 쿠로토! 너는 아까부터 자꾸 눈을 비비고 있었지── 전사에게 잠 부족 따위 있어서는 안 된다!」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「よく見てるなあ……ちょっと夜更かししちゃっただけだよ」"
+translation = "「잘 보고 있네…… 잠깐 밤샘한 것뿐이야」"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「あ、アニュラスさん。こんなところで」"
+translation = "「아, 아뉴라스 씨. 이런 곳에서」"
+
+[[dialogue]]
+speaker = "アニュラス"
+original = "「む、ルリエル殿か。ちょうどいい。あなたも説得してくれ」"
+translation = "「흠, 루리엘 양인가. 마침 잘 됐다. 너도 설득해 줘」"
+
+[[dialogue]]
+speaker = "ユウリ"
+original = "「戦闘じゃなくてもその仮面してんのか……？」"
+translation = "「전투가 아니어도 그 가면 쓰고 있는 거야……?」"
+
+[[dialogue]]
+speaker = "アニュラス"
+original = "「悪いか！？\u3000ああいや先輩？\u3000悪いですか！？」"
+translation = "「나쁜가!? 아아 아뇨 선배? 나쁩니까!?」"
+
+[[dialogue]]
+speaker = "セーラ"
+original = "「おバカなのか律儀なのか、よくわかんないコだよね～」"
+translation = "「바보인 건지 융통성 있는 건지, 잘 모르겠는 애네～」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「ふふふ。でもそういう子、可愛いわ～」"
+translation = "「후후후. 하지만 그런 애, 귀엽네～」"
+
+[[dialogue]]
+speaker = "ソフィア"
+original = "（むっ……）"
+translation = "（흠읏……）"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "（初めて見る子だけど……）"
+translation = "（처음 보는 애지만……）"
+
+[[dialogue]]
+speaker = "アナ"
+original = "（セイファート学園長の娘。クロト会長とは何やらただならぬ関係にある模様）"
+translation = "（세이퍼트 학원장의 딸. 쿠로토 회장과는 뭔가 심상치 않은 관계에 있는 모양）"
+
+[[dialogue]]
+speaker = "クロト"
+original = "（言い方）"
+translation = "（말하는 방식이）"
+
+[[dialogue]]
+speaker = "unk"
+original = "一方的にライバル視されているというだけで、やましい縁ではない。"
+translation = "일방적으로 라이벌로 여겨지고 있을 뿐이지, 부끄러운 인연은 아니다."
+
+[[dialogue]]
+speaker = "unk"
+original = "にしても……"
+translation = "그렇다고 해도……"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「アニュラスさん。これからわたし達がどこへ行くかわかっておられますか……？」"
+translation = "「아뉴라스 씨. 지금부터 저희가 어디로 갈지 알고 계십니까……?」"
+
+[[dialogue]]
+speaker = "アニュラス"
+original = "「ああ。フィーニスの塔、だろう」"
+translation = "「아아. 피니스의 탑, 이겠지」"
+
+[[dialogue]]
+speaker = "アニュラス"
+original = "「フィーニスの塔といえば流星市国のシンボル──しかしその面はあくまで表の顔」"
+translation = "「피니스의 탑이라고 하면 유성 시국의 상징── 하지만 그 면은 어디까지나 겉모습」"
+
+[[dialogue]]
+speaker = "アニュラス"
+original = "「本来は魔界、人間界、天界を繋ぐ──４０００階にも及ぶ神々の連絡塔。お前たちはこの塔で三界の摂理を司る守護天使とも出会っている」"
+translation = "「본래는 마계, 인간계, 천계를 잇는── 4000층에 달하는 신들의 연락탑. 너희들은 이 탑에서 삼계의 섭리를 관장하는 수호 천사와도 만났다」"
+
+[[dialogue]]
+speaker = "ソフィア"
+original = "「！\u3000守護天使のことまで……」"
+translation = "「! 수호 천사 일까지……」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「どうして一緒に来たいんだ？」"
+translation = "「왜 같이 오고 싶은 거야?」"
+
+[[dialogue]]
+speaker = "アニュラス"
+original = "「決まっている。目覚ましい戦果を上げることが、お父様に認められる近道だからだ」"
+translation = "「정해져 있다. 눈부신 전과를 올리는 것이, 아버님께 인정받는 지름길이기 때문이다」"
+
+[[dialogue]]
+speaker = "アニュラス"
+original = "「おまえ達が目立った成果を上げてきたのはわかっている。お父様にあれだけ目をかけられているのだからな」"
+translation = "「너희들이 눈에 띄는 성과를 올려왔다는 것은 알고 있다. 아버님께서 그만큼 신경 쓰고 계시니까」"
+
+[[dialogue]]
+speaker = "アニュラス"
+original = "「しかし私も！\u3000腕では決して劣るものではないと自負している。ダンジョン攻略なら決して引けを取らないぞ！」"
+translation = "「하지만 나도! 실력으로는 결코 뒤지지 않는다고 자부하고 있다. 던전 공략이라면 결코 뒤처지지 않을 것이다!」"
+
+[[dialogue]]
+speaker = "ユウリ"
+original = "（へえ。根性ありそーな一年じゃねーか）"
+translation = "（헤에. 근성 있어 보이는 1학년이잖아）"
+
+[[dialogue]]
+speaker = "ソフィア"
+original = "（新星の学園長さんの娘ですし）"
+translation = "（신성 학원장님의 딸이시고요）"
+
+[[dialogue]]
+speaker = "クロト"
+original = "（実力は確かだよ）"
+translation = "（실력은 확실해）"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「よくわからないけれど、確かに中々腕が立ちそうだわ！\u3000ちょうど今は戦力をかき集めたかったところだし」"
+translation = "「잘 모르겠지만, 확실히 꽤 실력이 있을 것 같네! 마침 지금은 전력을 끌어모으고 싶었던 참이고」"
+
+[[dialogue]]
+speaker = "アニュラス"
+original = "「おお！\u3000新星の元会長殿……ならば」"
+translation = "「오오! 신성 학원의 전 회장 양…… 그렇다면」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「は～い、きびだんごをあげますからねえ～」"
+translation = "「하～이, 수수경단을 드릴게요～」"
+
+[[dialogue]]
+speaker = "アニュラス"
+original = "「む、よいのですか──じゃない！\u3000私をイヌ猿キジと一緒にするな！」"
+translation = "「흠, 괜찮은 건가요── 가 아니지! 나를 개 원숭이 꿩과 똑같이 취급하지 마라!」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「やっぱり可愛いわねぇ～」"
+translation = "「역시 귀엽네～」"
+
+[[dialogue]]
+speaker = "unk"
+original = "アニュラスもパーティご一行に──と思いきや。"
+translation = "아뉴라스도 파티 일행에── 라고 생각했지만."
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「──いえ。セイファートさん、あなたは地上に留まっていてください」"
+translation = "「──아뇨. 세이퍼트 씨, 당신은 지상에 머물러 있어 주세요」"
+
+[[dialogue]]
+speaker = "アニュラス"
+original = "「！？\u3000なぜですか、星見会長……今の私では不足と仰るのですか」"
+translation = "「!? 왜 그러십니까, 호시미 회장…… 지금의 저로서는 부족하다고 말씀하시는 건가요」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「いいえ。むしろ、逆です。今の流星市国は度重なる異変の生じている非常事態──あまり戦力を分散させるのは好ましくありません」"
+translation = "「아뇨. 오히려, 그 반대입니다. 지금의 유성 시국은 거듭되는 이변이 발생하고 있는 비상사태── 너무 전력을 분산시키는 것은 좋지 않습니다」"
+
+[[dialogue]]
+speaker = "ソフィア"
+original = "「確かに……いつ<b>彼女</b>がこちらに現れてもおかしくありません」"
+translation = "「확실히…… 언제 <b>그녀</b>가 이쪽에 나타나도 이상하지 않습니다」"
+
+[[dialogue]]
+speaker = "アニュラス"
+original = "「う……で、ですが……」"
+translation = "「으…… 하, 하지만……」"
+
+[[dialogue]]
+speaker = "セーラ"
+original = "「うちらもなるべくチャチャッと帰ってこないとね～」"
+translation = "「우리도 되도록 빨리 돌아와야지～」"
+
+[[dialogue]]
+speaker = "unk"
+original = "フィオナの態度は毅然としたものだった。"
+translation = "피오나의 태도는 의연했다."
+
+[[dialogue]]
+speaker = "unk"
+original = "アニュラスの実力を信頼しているからこそ、軽々しく連れていくわけにはいかないのだろう。"
+translation = "아뉴라스의 실력을 신뢰하고 있기 때문에, 경솔하게 데려갈 수는 없는 것일 터이다."
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「学園長から許可もらってくればいいんじゃないの？\u3000娘なのよね！？」"
+translation = "「학원장에게 허락받아 오면 되는 거 아니야? 딸이잖아!?」"
+
+[[dialogue]]
+speaker = "アニュラス"
+original = "「お、お父様からは……星見会長の判断に従えと。お父様はあくまで、新星の学園長なので……」"
+translation = "「아, 아버님께서는…… 호시미 회장의 판단에 따르라고. 아버님은 어디까지나, 신성 학원의 학장이시니까……」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「まあ、妥当な判断ですね」"
+translation = "「뭐, 타당한 판단이네요」"
+
+[[dialogue]]
+speaker = "unk"
+original = "アニュラスはしばらくもにょもにょしていたが、やがて納得したのかキリッと居住まいを正した。"
+translation = "아뉴라스는 잠시 우물쭈물하고 있었지만, 이윽고 납득했는지 단정하게 자세를 고쳤다."
+
+[[dialogue]]
+speaker = "アニュラス"
+original = "「く……わかりました。星見会長の命とあらば仕方ありません。今の私ではまだ実力不足というわけですね」"
+translation = "「크…… 알겠습니다. 호시미 회장의 명령이라면 어쩔 수 없습니다. 지금의 저로서는 아직 실력 부족이라는 말이군요」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「あ、いえ、そういうわけではなく逆で……」"
+translation = "「아, 아뇨, 그런 것이 아니라 그 반대로……」"
+
+[[dialogue]]
+speaker = "アニュラス"
+original = "「いつかお父様にも、星見会長にも認めてもらえるような<ruby>星騎士<rt>スターナイト</rt></ruby>となって……目にもの見せてやるぞ。待っていろ、緋宮クロト！」"
+translation = "「언젠가 아버님께도, 호시미 회장에게도 인정받을 수 있는 성기사가 되어…… 본때를 보여주겠다. 기다려라, 히노미야 쿠로토!」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「あまり人の話を聞かない方のようです」"
+translation = "「별로 남의 말을 듣지 않는 분 같습니다」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「別に俺は敵じゃないんだけどな……」"
+translation = "「딱히 나는 적이 아닌데 말이지……」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「あはは。好かれてるんだね、会長」"
+translation = "「아하하. 사랑받고 있네, 회장」"
+
+[[dialogue]]
+speaker = "unk"
+original = "アニュラスがいなくなって──"
+translation = "아뉴라스가 사라지고──"
+
+[[dialogue]]
+speaker = "unk"
+original = "その場に残った俺たちは、いよいよ立ちはだかる塔の前に立った。"
+translation = "그 자리에 남은 우리들은, 드디어 가로막고 선 탑 앞에 섰다."
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「……」"
+translation = "「……」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「本当に……よいのでしょうか」"
+translation = "「정말로…… 괜찮을까요」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「この先には恐らく──かつてないほどの脅威が待っています。そんな死地に、みんなを連れていくなんて……」"
+translation = "「이 앞에는 아마도── 전례 없는 위협이 기다리고 있습니다. 그런 사지에, 모두를 데리고 간다는 건……」"
+
+[[dialogue]]
+speaker = "ソフィア"
+original = "「……言いっこなしですよ、フィオナ会長」"
+translation = "「……그런 말은 하지 마세요, 피오나 회장」"
+
+[[dialogue]]
+speaker = "ソフィア"
+original = "「お姉さんを救いたいという気持ちは──ヴィーナスさんだけじゃありません。たとえ、会長ご自身が否定されたとしても」"
+translation = "「언니를 구하고 싶다는 마음은── 비너스 씨뿐만이 아닙니다. 설령, 회장님 스스로가 부정하신다 해도」"
+
+[[dialogue]]
+speaker = "ユウリ"
+original = "「だな。ま、頑固なのは知ってっから今さらだ」"
+translation = "「그렇지. 뭐, 고집이 센 건 알고 있으니 새삼스러울 것도 없지」"
+
+[[dialogue]]
+speaker = "セーラ"
+original = "「まーねー。それにこの塔の中、いっつも会長さん達だけでずるいし♪」"
+translation = "「뭐어 그렇지ー. 게다가 이 탑 안, 항상 회장님들끼리만 가서 치사하고♪」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「みんな……」"
+translation = "「모두……」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "（フィオナさんって……流星のみんなから、すごく信頼されてるよね）"
+translation = "（피오나 씨는…… 유성의 모두에게, 엄청 신뢰받고 있네）"
+
+[[dialogue]]
+speaker = "アナ"
+original = "（どこぞの自称フィクサーとはえらい違いですね）"
+translation = "（어디의 자칭 픽서와는 엄청난 차이네요）"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "（誰のこと？）"
+translation = "（누구 말이야?）"
+
+[[dialogue]]
+speaker = "unk"
+original = "<ruby>新星星徒会<rt>おれたち</rt></ruby>にしたって気持ちは同じだ。"
+translation = "신성 성도회도 마음은 마찬가지다."
+
+[[dialogue]]
+speaker = "unk"
+original = "現状を打破したいという想いを胸に──みんなで塔の前へ立つ。"
+translation = "현 상황을 타파하고 싶다는 마음을 품고── 모두 함께 탑 앞으로 나선다."
+
+[[dialogue]]
+speaker = "unk"
+original = "いつもの調子なら、このまま内部へ招かれて──"
+translation = "평소대로라면, 이대로 내부로 초대받아──"
+
+[[dialogue]]
+speaker = "クロト"
+original = "（────っ）"
+translation = "（────읏）"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「……」"
+translation = "「……」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「？\u3000どしたの、緋宮くん」"
+translation = "「? 왜 그래, 히노미야 군」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「………………いや」"
+translation = "「………………아니」"
+
+[[dialogue]]
+speaker = "unk"
+original = "振り向いた先には──誰もいなかった。"
+translation = "돌아본 곳에는── 아무도 없었다."
+
+[[dialogue]]
+speaker = "unk"
+original = "一瞬、刺すような気配を覚えたが……。"
+translation = "순간, 찌르는 듯한 기척을 느꼈지만……."
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「あらあら。まだあの子が見ていたのかしら」"
+translation = "「어머나. 아직도 그 아이가 보고 있었나」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「いえ……アニュラスは校舎のほうへ去っていきましたが……」"
+translation = "「아뇨…… 아뉴라스는 교사 쪽으로 떠났습니다만……」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "（気のせい──では、なさそうだが。これ以上気配は追えないな）"
+translation = "（기분 탓──은 아닌 것 같지만. 더 이상 기척을 쫓을 수는 없군）"
+
+[[dialogue]]
+speaker = "unk"
+original = "どうやら彼女以外にも、俺たちの動向を気にかけている人物がいるようだ。"
+translation = "아무래도 그녀 외에도, 우리들의 동향을 신경 쓰고 있는 인물이 있는 듯하다."
+
+[[dialogue]]
+speaker = "unk"
+original = "ソフィアちゃんの言っていたように、見咎められたら校則違反になってしまうが──その報いは後で受けるとしよう。"
+translation = "소피아짱이 말했던 것처럼, 발각되면 교칙 위반이 되겠지만── 그 대가는 나중에 치르기로 하자."
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「さあ、行くわよみんな──準備はいい？」"
+translation = "「자, 가자 모두── 준비됐어?」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「ああ。もちろんだ。アポロを解放するためにも──必ず塔を攻略しよう」"
+translation = "「아아. 물론이지. 아폴로를 해방하기 위해서라도── 반드시 탑을 공략하자」"
+
+[[dialogue]]
+speaker = "unk"
+original = "何者かの影を背後に感じつつも──"
+translation = "누군가의 그림자를 등 뒤로 느끼면서도──"
+
+[[dialogue]]
+speaker = "unk"
+original = "俺たちは初のフルメンバーで、フィーニスの塔へ突入した。"
+translation = "우리들은 첫 풀 멤버로, 피니스의 탑으로 돌입했다."
+

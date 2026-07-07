@@ -1,0 +1,335 @@
+[[dialogue]]
+speaker = "unk"
+original = "第３話,男の子？女の子？,P"
+translation = "제3화, 남자아이? 여자아이?"
+
+[[dialogue]]
+speaker = "いろは"
+original = "「シズシズ、やっほー♪」"
+translation = "「시즈시즈, 야호~♪」"
+
+[[dialogue]]
+speaker = "シズハ"
+original = "「あ、いろはさん。ごきげんよう～」"
+translation = "「아, 이로하 씨. 평안하신가요~」"
+
+[[dialogue]]
+speaker = "いろは"
+original = "「この子は？\u3000シズシズのお友達？」"
+translation = "「이 애는 누구? 시즈시즈 친구?」"
+
+[[dialogue]]
+speaker = "トマル"
+original = "「初めまして、いろはさまですね？\u3000サチさまたちからお話は伺っております」"
+translation = "「처음 뵙겠습니다, 이로하 님이시군요? 사치 님 일행에게서 말씀은 들었습니다」"
+
+[[dialogue]]
+speaker = "トマル"
+original = "「詠野トマルと申します。どうぞよろしくお願い致します」"
+translation = "「에이노 토마루라고 합니다. 부디 잘 부탁드립니다」"
+
+[[dialogue]]
+speaker = "いろは"
+original = "「…………」"
+translation = "「…………」"
+
+[[dialogue]]
+speaker = "シズハ"
+original = "「どうしたの、いろはさん？」"
+translation = "「왜 그래요, 이로하 씨?」"
+
+[[dialogue]]
+speaker = "いろは"
+original = "「美少女！\u3000しかもとんでもない美少女！！」"
+translation = "「미소녀! 그것도 엄청난 미소녀!!」"
+
+[[dialogue]]
+speaker = "トマル"
+original = "「えっ……？」"
+translation = "「엣……?」"
+
+[[dialogue]]
+speaker = "いろは"
+original = "「もしかしてトマルちゃんも、魔法少女だったりするの？」"
+translation = "「혹시 토마루짱도 마법소녀라거나 그래?」"
+
+[[dialogue]]
+speaker = "トマル"
+original = "「サチさまたちと一緒に、ロストアイテム回収のお手伝いはさせて頂いています」"
+translation = "「사치 님 일행과 함께 로스트 아이템 회수 도움은 드리고 있습니다」"
+
+[[dialogue]]
+speaker = "トマル"
+original = "「ですが、魔法少女ではありません。それに紛らわしくて申し訳ありませんが、私は──」"
+translation = "「하지만 마법소녀는 아닙니다. 그리고 헷갈리게 해드려 죄송합니다만, 저는──」"
+
+[[dialogue]]
+speaker = "いろは"
+original = "「違うの！？\u3000うう～っ、残念すぎるよ！\u3000こんな可愛いのに、魔法少女じゃないなんて！」"
+translation = "「아니야!? 으으~, 너무 아쉬워! 이렇게 귀여운데 마법소녀가 아니라니!」"
+
+[[dialogue]]
+speaker = "いろは"
+original = "「はっ、待って！\u3000トレちぇりにいた！\u3000魔法少女じゃないけど、いつもちえりちゃんと一緒にいて、戦いの記録を撮影している女の子！」"
+translation = "「핫, 잠깐! 트레체리에 있었어! 마법소녀는 아니지만 항상 치에리짱이랑 같이 다니면서 전투 기록을 촬영하는 여자애!」"
+
+[[dialogue]]
+speaker = "いろは"
+original = "「つまりトモカちゃんなんだ！！」"
+translation = "「즉 토모카짱인 거구나!!」"
+
+[[dialogue]]
+speaker = "トマル"
+original = "「あの……トモカではなくトマルです。それに私は──」"
+translation = "「저기…… 토모카가 아니라 토마루입니다. 게다가 저는──」"
+
+[[dialogue]]
+speaker = "いろは"
+original = "「このおしとやかで上品な感じ、サチちゃんやプリちゃん、シズシズやアンナちゃんとも違って新鮮だな～」"
+translation = "「이 조신하고 고상한 느낌, 사치짱이나 프리짱, 시즈시즈나 안나짱이랑도 달라서 신선하네~」"
+
+[[dialogue]]
+speaker = "いろは"
+original = "「この学園に通ってるってことは魔法少女じゃなくても、ええと……何だっけ？」"
+translation = "「이 학원에 다닌다는 건 마법소녀가 아니더라도, 에또…… 뭐였더라?」"
+
+[[dialogue]]
+speaker = "シズハ"
+original = "「星騎士？」"
+translation = "「성기사?」"
+
+[[dialogue]]
+speaker = "いろは"
+original = "「そう！\u3000せーきしではあるんだよね？」"
+translation = "「맞아! 성기사이기는 한 거지?」"
+
+[[dialogue]]
+speaker = "トマル"
+original = "「は、はい……」"
+translation = "「네, 네……」"
+
+[[dialogue]]
+speaker = "いろは"
+original = "「ううっ、トマルちゃんの変身、見たいな～……絶対可愛いに決まってるよ……」"
+translation = "「으으, 토마루짱의 변신, 보고 싶다~…… 분명 귀여울 게 뻔해……」"
+
+[[dialogue]]
+speaker = "シズハ"
+original = "「ええと……いろはさん、多分誤解してるから説明しなきゃだけど」"
+translation = "「저기…… 이로하 씨, 아마 오해하고 계시니까 설명해야 할 것 같은데」"
+
+[[dialogue]]
+speaker = "いろは"
+original = "「ん、なになに？」"
+translation = "「응, 뭐야 뭐야?」"
+
+[[dialogue]]
+speaker = "シズハ"
+original = "「トマルくん、男の子なんだよ」"
+translation = "「토마루 군, 남자아이야」"
+
+[[dialogue]]
+speaker = "いろは"
+original = "「……………………………………」"
+translation = "「……………………………………」"
+
+[[dialogue]]
+speaker = "いろは"
+original = "「ええええええええええええええっ！！！！！！？？？」"
+translation = "「에에에에에에에에에에에에에에엣!!!!!!???」"
+
+[[dialogue]]
+speaker = "いろは"
+original = "「男の子？\u3000こんなに可愛いのに？」"
+translation = "「남자아이? 이렇게 귀여운데?」"
+
+[[dialogue]]
+speaker = "いろは"
+original = "「ううん、こんなに可愛いからこそ、女の子であるはずがないのかも……え？\u3000あれ、あたし何を言ってるの？」"
+translation = "「아니, 이렇게 귀여우니까 오히려 여자애일 리가 없는 걸지도…… 어? 어라, 나 무슨 소릴 하는 거야?」"
+
+[[dialogue]]
+speaker = "シズハ"
+original = "「いろはさーん、冷静になってくださーい」"
+translation = "「이로하 씨, 냉정해지세요~」"
+
+[[dialogue]]
+speaker = "いろは"
+original = "「はっ？\u3000う、うん……冷静になる……」"
+translation = "「핫? 응, 응…… 냉정해질게……」"
+
+[[dialogue]]
+speaker = "トマル"
+original = "「大変紛らわしくて、申し訳ございません……」"
+translation = "「매우 혼란스럽게 해드려 죄송합니다……」"
+
+[[dialogue]]
+speaker = "いろは"
+original = "「ううん、こんだけ可愛かったら大したものだよ！」"
+translation = "「아니야, 이 정도로 귀여우면 대단한 거야!」"
+
+[[dialogue]]
+speaker = "トマル"
+original = "「そうですか？\u3000あ、ありがとうございます……嬉しいです……」"
+translation = "「그런가요? 아, 감사합니다…… 기뻐요……」"
+
+[[dialogue]]
+speaker = "いろは"
+original = "「か、可愛いすぎるんですけど……！」"
+translation = "「너, 너무 귀여운데요……!」"
+
+[[dialogue]]
+speaker = "シズハ"
+original = "「正直私も、まだトマルくんのこと男の子だって信じられないんだよね。だってこんなに可愛いんだもん」"
+translation = "「솔직히 저도 아직 토마루 군이 남자애라는 거 믿기지 않거든요. 그야 이렇게 귀여운걸요」"
+
+[[dialogue]]
+speaker = "シズハ"
+original = "「トマルくん、実は自分のことを男の子だって思い込んでるだけの、ただの美少女だったりしない？」"
+translation = "「토마루 군, 사실 자기 자신을 남자애라고 착각하고 있을 뿐인 그냥 미소녀 아니야?」"
+
+[[dialogue]]
+speaker = "トマル"
+original = "「そんなことはありませんよ。私はまぎれもなく男子です」"
+translation = "「그럴 리 없잖아요. 저는 틀림없는 남자입니다」"
+
+[[dialogue]]
+speaker = "いろは"
+original = "「…………えいっ」"
+translation = "「…………에잇」"
+
+[[dialogue]]
+speaker = "トマル"
+original = "「きゃっ！！」"
+translation = "「꺄악!!」"
+
+[[dialogue]]
+speaker = "いろは"
+original = "「触ってみた感じ、やわらかモチモチ、女の子のお尻って感じだね」"
+translation = "「만져본 느낌, 말랑말랑 쫀득쫀득, 여자애 엉덩이라는 느낌이네」"
+
+[[dialogue]]
+speaker = "シズハ"
+original = "「そうなんですよ。男の子のお尻というには少々、柔らかすぎる揉み心地……いやもちろん、男子のお尻にはそれ独自の美しさと良さがあるんですけどね？」"
+translation = "「그러게요. 남자아이 엉덩이라고 하기엔 조금 너무 부드러운 주무름 맛…… 아니 물론, 남자 엉덩이에는 그것만의 독자적인 아름다움과 장점이 있지만요?」"
+
+[[dialogue]]
+speaker = "トマル"
+original = "「あぅ……！\u3000シズハさままで……お尻を、揉まないで……」"
+translation = "「아으……! 시즈하 님까지…… 엉덩이를 주무르지 마세요……」"
+
+[[dialogue]]
+speaker = "いろは"
+original = "「トマルちゃん、今なら間に合うよ！\u3000実は女の子でしたってことにしとこう！」"
+translation = "「토마루짱, 지금이라도 안 늦었어! 사실은 여자애였습니다라고 해두자!」"
+
+[[dialogue]]
+speaker = "トマル"
+original = "「間に合うって何ですか！\u3000意味がわかりませんっ」"
+translation = "「안 늦었다니 뭐가요! 의미를 모르겠어요」"
+
+[[dialogue]]
+speaker = "シズハ"
+original = "「お姉さんみたいな素敵な女の子になるのが夢なんでしょう？」"
+translation = "「언니 같은 멋진 여자애가 되는 게 꿈이라면서요?」"
+
+[[dialogue]]
+speaker = "トマル"
+original = "「そ、それはそうなんですけどっ！\u3000本当に私は男なんですっ！！」"
+translation = "「그, 그건 그렇지만요! 정말 저는 남자입니다!!」"
+
+[[dialogue]]
+speaker = "いろは"
+original = "「そこまで言うなら仕方がないね。最後の方法で確認するしかないよ……」"
+translation = "「그렇게까지 말한다면 어쩔 수 없네. 마지막 방법으로 확인할 수밖에 없어……」"
+
+[[dialogue]]
+speaker = "シズハ"
+original = "「ごくり……最後の方法？\u3000それって、まさか……」"
+translation = "「꿀꺽…… 마지막 방법? 그거 설마……」"
+
+[[dialogue]]
+speaker = "いろは"
+original = "「前を触って確かめる！」"
+translation = "「앞을 만져서 확인한다!」"
+
+[[dialogue]]
+speaker = "トマル"
+original = "「いやーーーーっ、やめてくださーーーーいっ！！！」"
+translation = "「시러요ーーーー욧, 하지 마세요ーーーー욧!!!」"
+
+[[dialogue]]
+speaker = "サチ"
+original = "「何をしてるんですか、こんなところでハレンチな！」"
+translation = "「뭘 하고 있는 건가요, 이런 곳에서 파렴치하게!」"
+
+[[dialogue]]
+speaker = "いろは"
+original = "「ええと、トマルちゃんが本当に男の子なのか触って確かめようと……」"
+translation = "「에또, 토마루짱이 정말 남자애인지 만져서 확인하려고……」"
+
+[[dialogue]]
+speaker = "サチ"
+original = "「そんな事しなくても、トマルくんは男の子です！」"
+translation = "「그런 짓 안 해도 토마루 군은 남자애예요!」"
+
+[[dialogue]]
+speaker = "いろは"
+original = "「え……サチちゃんは見たことあるの？」"
+translation = "「어…… 사치짱은 본 적 있어?」"
+
+[[dialogue]]
+speaker = "サチ"
+original = "「見たこと、は……ありませんけど……トマルくんのお姉さんのマトイ先輩がそう言ってるんですから、間違いありません！」"
+translation = "「본 적, 은…… 없습니다만…… 토마루 군의 누나인 마토이 선배가 그렇게 말했으니까 틀림없어요!」"
+
+[[dialogue]]
+speaker = "いろは"
+original = "「自分の目で確かめたわけじゃないんだ。だったら絶対に間違いないって言い切れないよね？」"
+translation = "「자기 눈으로 확인한 건 아니구나. 그렇다면 절대 틀림없다고 단정 지을 순 없겠네?」"
+
+[[dialogue]]
+speaker = "サチ"
+original = "「そ、それは……」"
+translation = "「그, 그건……」"
+
+[[dialogue]]
+speaker = "シズハ"
+original = "「サチちゃん、ここは真実をはっきりさせておこうよ！\u3000トマルくんだってその方がいいよね？」"
+translation = "「사치짱, 여기선 진실을 확실히 해두자! 토마루 군도 그게 좋지?」"
+
+[[dialogue]]
+speaker = "トマル"
+original = "「いやですーーーっ！！！」"
+translation = "「싫어요ーーー욧!!!」"
+
+[[dialogue]]
+speaker = "シズハ"
+original = "「ほら、トマルくんだってこう言ってる！」"
+translation = "「봐, 토마루 군도 이렇게 말하잖아!」"
+
+[[dialogue]]
+speaker = "サチ"
+original = "「嫌がってるじゃないですか！？」"
+translation = "「싫어하고 있잖아요!?」"
+
+[[dialogue]]
+speaker = "いろは"
+original = "「お願いサチちゃん！\u3000もう気になって気になって、確かめないではいられないんだよ！」"
+translation = "「부탁이야 사치짱! 이제 궁금해서 궁금해서 확인하지 않고는 못 배기겠단 말이야!」"
+
+[[dialogue]]
+speaker = "サチ"
+original = "「いくら頼み込まれたってダメです！\u3000エッチなことはぜぇーーーーったい、許しませんっ！！！」"
+translation = "「아무리 간청하셔도 안 돼요! 에치한 짓은 저어어어어얼대 허락 못 합니다!!!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "それでも好奇心を抑えられずに、トマルの性別を確かめようとする懲りないいろは。"
+translation = "그런데도 호기심을 억누르지 못하고 토마루의 성별을 확인하려 하는 구제 불능 이로하."
+
+[[dialogue]]
+speaker = "unk"
+original = "そんないろはを、声が枯れるまでサチはお説教し続けることになったのだった。"
+translation = "그런 이로하를 사치는 목이 쉴 때까지 계속 훈계하게 되는 것이었다."
+

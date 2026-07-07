@@ -1,0 +1,405 @@
+[[dialogue]]
+speaker = "マリーベル"
+original = "「スカーレットペイン！」"
+translation = "「스칼렛 페인!」"
+
+[[dialogue]]
+speaker = "イングリット"
+original = "「効かんな」"
+translation = "「통하지 않는다」"
+
+[[dialogue]]
+speaker = "イングリット"
+original = "「フンッ──！」"
+translation = "「흥──!」"
+
+[[dialogue]]
+speaker = "マリーベル"
+original = "「くうぅっ……！\u3000さすがの攻撃力ね……」"
+translation = "「크윽……! 역시 대단한 공격력이네……」"
+
+[[dialogue]]
+speaker = "カティア"
+original = "「わわ……戦いが激しすぎてついていけないワン……」"
+translation = "「와와…… 싸움이 너무 격렬해서 따라갈 수가 없다멍……」"
+
+[[dialogue]]
+speaker = "イングリット"
+original = "「魔王の本気が見られるかと思ったが……期待外れだ。そろそろ終わらせるとしよう」"
+translation = "「마왕의 진심을 볼 수 있을까 싶었지만…… 기대 이하다. 슬슬 끝내도록 하지」"
+
+[[dialogue]]
+speaker = "unk"
+original = "２人とも！\u3000一旦引いて！"
+translation = "두 사람 다! 일단 물러나!"
+
+[[dialogue]]
+speaker = "イングリット"
+original = "「漆黒の渦に飲まれろ──ダークネス・オブリビオン」"
+translation = "「칠흑의 소용돌이에 삼켜져라── 다크니스 오브리비언」"
+
+[[dialogue]]
+speaker = "unk"
+original = "イングリットの眼前に飛び込み、拳で攻撃を相殺させる──！"
+translation = "잉그리드의 눈앞으로 뛰어들어, 주먹으로 공격을 상쇄시킨다──!"
+
+[[dialogue]]
+speaker = "unk"
+original = "ぐっ……！"
+translation = "큭……!"
+
+[[dialogue]]
+speaker = "カティア"
+original = "「魔王様！？」"
+translation = "「마왕님!?」"
+
+[[dialogue]]
+speaker = "マリーベル"
+original = "「会長さん、大丈夫！？」"
+translation = "「회장님, 괜찮아!?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "なんとか……"
+translation = "어떻게든……"
+
+[[dialogue]]
+speaker = "イングリット"
+original = "「ほう。今の拳は良かったぞ。やればできるじゃないか」"
+translation = "「호오. 방금 주먹은 좋았다. 하면 되지 않나」"
+
+[[dialogue]]
+speaker = "マリーベル"
+original = "「好き勝手言ってくれるわね。……でもこのままじゃ勝機がないわ」"
+translation = "「멋대로들 말해주네. ……하지만 이대로는 승기가 없어」"
+
+[[dialogue]]
+speaker = "カティア"
+original = "「せめて星力を無力化されなければ戦いようがあるのに……」"
+translation = "「적어도 성력을 무력화당하지만 않는다면 싸워볼 만할 텐데……」"
+
+[[dialogue]]
+speaker = "マリーベル"
+original = "「コラプサーが星力を吸収できる量には限界があるそうだけど、彼女はまだまだ余裕そうね」"
+translation = "「콜랩서가 성력을 흡수할 수 있는 양에는 한계가 있다고 들었지만, 그녀는 아직 여유로워 보이네」"
+
+[[dialogue]]
+speaker = "マリーベル"
+original = "「あの能力……何か抜け穴がないかしら」"
+translation = "「저 능력…… 뭔가 허점이 없을까」"
+
+[[dialogue]]
+speaker = "カティア"
+original = "「トワちゃん先生たち曰く、コラプサーも星力を使ってるそうですが──」"
+translation = "「토와짱 선생님 말씀으로는, 콜랩서도 성력을 사용하고 있다고 합니다만──」"
+
+[[dialogue]]
+speaker = "トワ先生"
+original = "「コラプサーが使う星力は、私たちが使っているのとは違う……負の星力とでも言うべきものなの。それに彼女たちの守護星も観測できてなくて」"
+translation = "「콜랩서가 사용하는 성력은, 우리가 사용하는 것과는 달라…… 부의 성력이라고 불러야 할 물건이야. 게다가 그녀들의 수호성도 관측되지 않아서」"
+
+[[dialogue]]
+speaker = "カティア"
+original = "「？？？\u3000守護星がないのに、星力を使えるってことです……？」"
+translation = "「??? 수호성이 없는데, 성력을 쓸 수 있다는 건가요……?」"
+
+[[dialogue]]
+speaker = "トワ先生"
+original = "「ううん。守護星は確実に<b>ある</b>はずなの……だけど、数値がちゃんと出ないんだ」"
+translation = "「아니. 수호성은 확실히 <b>있을</b> 거야…… 하지만, 수치가 제대로 나오지 않아」"
+
+[[dialogue]]
+speaker = "カティア"
+original = "「数値が出ない？\u3000観測できない守護星なんてあるんですか？\u3000私の守護星なんてちっぽけな衛星でもわかったのに」"
+translation = "「수치가 나오지 않아? 관측할 수 없는 수호성 같은 게 있나요? 제 수호성 같은 자그마한 위성도 알아냈는데」"
+
+[[dialogue]]
+speaker = "エスメラルダ"
+original = "「星力がほんの少しだとわからない場合もあるけど、守護星である以上、普通は特定できるわ」"
+translation = "「성력이 아주 조금이라면 모르는 경우도 있지만, 수호성인 이상 보통은 특정할 수 있어」"
+
+[[dialogue]]
+speaker = "トワ先生"
+original = "「だから守護星が観測出来ないのは、コラプサーの能力なのかもしれない」"
+translation = "「그러니 수호성을 관측할 수 없는 건, 콜랩서의 능력일지도 몰라」"
+
+[[dialogue]]
+speaker = "エスメラルダ"
+original = "「もしくは、よほど<b>特別な</b>守護星を持っているか、ね」"
+translation = "「혹은, 아주 <b>특별한</b> 수호성을 가지고 있거나 말이야」"
+
+[[dialogue]]
+speaker = "マリーベル"
+original = "「特別な守護星……もしその力で星力を吸収しているとしたら……それに観測できないということは……」"
+translation = "「특별한 수호성…… 만약 그 힘으로 성력을 흡수하고 있다면…… 게다가 관측할 수 없다는 건……」"
+
+[[dialogue]]
+speaker = "マリーベル"
+original = "「会長さん、知ってる？\u3000その存在は知られていても、長い間、直接的に観測できなかった天体があることを？」"
+translation = "「회장님, 알고 있어? 그 존재는 알려져 있어도, 오랫동안 직접적으로 관측할 수 없었던 천체가 있다는 걸?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ブラックホール……！"
+translation = "블랙홀……!"
+
+[[dialogue]]
+speaker = "イングリット"
+original = "「そうだ。私たちコラプサーは皆ブラックホールを守護星に持っている。だがそれがわかったところで何になる」"
+translation = "「그렇다. 우리 콜랩서는 모두 블랙홀을 수호성으로 가지고 있지. 하지만 그걸 알았다고 해서 뭐가 되겠나」"
+
+[[dialogue]]
+speaker = "カティア"
+original = "「ブラックホールが守護星なんてアリなの！？」"
+translation = "「블랙홀이 수호성이라니 그게 가능해!?」"
+
+[[dialogue]]
+speaker = "マリーベル"
+original = "「ブラックホールは、活動を終えた恒星が、自身の膨大な質量によって収縮したもの。星の一種と言えなくもないわ」"
+translation = "「블랙홀은 활동을 마친 항성이 자신의 방대한 질량에 의해 수축한 것. 별의 일종이라고 할 수 없지도 않지」"
+
+[[dialogue]]
+speaker = "カティア"
+original = "「そ、そうなんですね……だけどブラックホールを破る方法なんてあるんでしょうか？」"
+translation = "「그, 그렇군요…… 하지만 블랙홀을 깨뜨릴 방법 같은 게 있을까요?」"
+
+[[dialogue]]
+speaker = "マリーベル"
+original = "「ブラックホールは無限に物質を吸い込むけど、吸い込む際にエネルギーが発生し、光が放出されることもある……」"
+translation = "「블랙홀은 무한히 물질을 빨아들이지만, 빨아들일 때 에너지가 발생해서 빛이 방출되는 경우도 있어……」"
+
+[[dialogue]]
+speaker = "unk"
+original = "全部は吸収できないってこと？"
+translation = "전부 흡수할 수는 없다는 뜻이야?"
+
+[[dialogue]]
+speaker = "マリーベル"
+original = "「ええ、だから瞬間的に限界があるのかもしれない」"
+translation = "「응, 그래서 순간적으로 한계가 있을지도 몰라」"
+
+[[dialogue]]
+speaker = "カティア"
+original = "「つまり、とにかく巨大なエネルギーを一瞬でぶつければ何とかなるかもってことですね……！」"
+translation = "「즉, 어쨌든 거대한 에너지를 한순간에 부딪치면 어떻게든 될지도 모른다는 거네요……!」"
+
+[[dialogue]]
+speaker = "マリーベル"
+original = "「そうね。でも生半可じゃ通じない。一瞬ですべて出し切るつもりでいかないといけないわ」"
+translation = "「그래. 하지만 어설퍼서는 통하지 않아. 한순간에 모든 걸 쏟아부을 생각으로 가야 해」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ユニゾンアタックをしかけよう！"
+translation = "유니존 어택을 시도하자!"
+
+[[dialogue]]
+speaker = "イングリット"
+original = "「そろそろ死ぬ準備は済んだか」"
+translation = "「슬슬 죽을 준비는 끝났나」"
+
+[[dialogue]]
+speaker = "カティア"
+original = "「そんな準備はしてないガオ！」"
+translation = "「그런 준비는 안 했다가오!」"
+
+[[dialogue]]
+speaker = "マリーベル"
+original = "「次の攻撃であなたを倒してみせるわ」"
+translation = "「다음 공격으로 당신을 쓰러뜨려 보이겠어」"
+
+[[dialogue]]
+speaker = "イングリット"
+original = "「面白い冗談だ。出来るものならやってみせろ」"
+translation = "「재미있는 농담이다. 할 수 있다면 해 봐라」"
+
+[[dialogue]]
+speaker = "カティア"
+original = "「目にものを見せてやるワン──ケルベロス百裂拳！」"
+translation = "「본때를 보여주겠다멍── 켈베로스 백렬권!」"
+
+[[dialogue]]
+speaker = "マリーベル"
+original = "「磔にしてあげる──ドゥームローズガーデン！」"
+translation = "「처형해주마── 둠 로즈 가든!」"
+
+[[dialogue]]
+speaker = "イングリット"
+original = "「同時攻撃とは面白い！\u3000だが、私にそのような攻撃は──」"
+translation = "「동시 공격이라니 재미있군! 하지만 나에게 그런 공격은──」"
+
+[[dialogue]]
+speaker = "unk"
+original = "まだだ！\u3000いくぞカティア、マリーベル！"
+translation = "아직이야! 가자 카티아, 마리벨!"
+
+[[dialogue]]
+speaker = "３人"
+original = "「ユニゾン！」"
+translation = "「유니존!」"
+
+[[dialogue]]
+speaker = "イングリット"
+original = "「なにっ！？」"
+translation = "「뭐랏!?」"
+
+[[dialogue]]
+speaker = "マリーベル"
+original = "「ひっさ～つ！\u3000バーニングアターック！！」"
+translation = "「필~살! 버닝 어택!!」"
+
+[[dialogue]]
+speaker = "イングリット"
+original = "「──ぐうぅぅううう！！？」"
+translation = "「──구우우우우우우!!?」"
+
+[[dialogue]]
+speaker = "カティア"
+original = "「アステラが消滅した……！？\u3000もしかして今の攻撃で？\u3000アステラってそういうものなんですか？」"
+translation = "「아스텔라가 소멸했어……!? 설마 방금 공격으로? 아스텔라란 게 원래 그런 건가요?」"
+
+[[dialogue]]
+speaker = "マリーベル"
+original = "「いいえ、アステラは中のモンスターを倒すことで消滅するわ。元から普通のアステラじゃなかったってことね」"
+translation = "「아니, 아스텔라는 안의 몬스터를 쓰러뜨림으로써 소멸해. 처음부터 평범한 아스텔라가 아니었다는 뜻이네」"
+
+[[dialogue]]
+speaker = "イングリット"
+original = "「はぁ、はぁ……この私の力が、敗れるだと……？」"
+translation = "「하아, 하아…… 이 나의 힘이, 패배하다니……?」"
+
+[[dialogue]]
+speaker = "ジュリエッテ"
+original = "「大丈夫でございますか、イングリット様……！\u3000お気を確かに……」"
+translation = "「괜찮으시사와요, 잉그리드 님……! 정신 차리세요……」"
+
+[[dialogue]]
+speaker = "ジュリエッテ"
+original = "（ふふふ、ざまぁーみろでございますの！\u3000わたくしに手間をかけさせた罰でございますの！）"
+translation = "（후후후, 꼴좋네요! 저를 고생시킨 벌이에요!）"
+
+[[dialogue]]
+speaker = "マリーベル"
+original = "「さて、あなたが奪ったセレスティアは返してもらうわよ」"
+translation = "「자, 당신이 빼앗은 셀레스티아는 돌려받겠어」"
+
+[[dialogue]]
+speaker = "イングリット"
+original = "「……好きにするがいい」"
+translation = "「……마음대로 해라」"
+
+[[dialogue]]
+speaker = "カティア"
+original = "「これで事件解決ですね、魔王様！」"
+translation = "「이걸로 사건 해결이네요, 마왕님!」"
+
+[[dialogue]]
+speaker = "マリーベル"
+original = "「あとは学園まで連行すれば──」"
+translation = "「남은 건 학원까지 연행하면──」"
+
+[[dialogue]]
+speaker = "カティア"
+original = "「わわぁっ！？」"
+translation = "「와와앗!?」"
+
+[[dialogue]]
+speaker = "キサナ"
+original = "「そうはさせねえよ」"
+translation = "「그렇게는 안 되지」"
+
+[[dialogue]]
+speaker = "ジュリエッテ"
+original = "「キサナ様！？」"
+translation = "「키사나 님!?」"
+
+[[dialogue]]
+speaker = "キサナ"
+original = "「ったく、面倒かけさせやがって……任務は終わりだ。さっさと帰るぞ」"
+translation = "「나 원, 번거롭게 시리…… 임무는 끝이다. 얼른 돌아가자」"
+
+[[dialogue]]
+speaker = "マリーベル"
+original = "「そう簡単に逃がすわけにはいかないわ」"
+translation = "「그렇게 쉽게 놓아줄 순 없어」"
+
+[[dialogue]]
+speaker = "キサナ"
+original = "「そんなボロボロの体で何言ってんだ？\u3000死にてえのか？」"
+translation = "「그런 너덜너덜한 몸으로 무슨 소리냐? 죽고 싶어?」"
+
+[[dialogue]]
+speaker = "カティア"
+original = "「マリーベル先輩、さすがにこれ以上は……」"
+translation = "「마리벨 선배, 아무래도 이 이상은……」"
+
+[[dialogue]]
+speaker = "マリーベル"
+original = "「……不愉快ね」"
+translation = "「……불쾌하네」"
+
+[[dialogue]]
+speaker = "ジュリエッテ"
+original = "「ええ、追わないのが賢明ですわ。それでは魔王様……わたくしもこれで失礼いたします」"
+translation = "「예, 쫓지 않는 게 현명하시네요. 그럼 마왕님…… 저도 이만 실례하겠어요」"
+
+[[dialogue]]
+speaker = "マリーベル"
+original = "「あなた、コラプサーに無理やり従わされてるのではなかったの？」"
+translation = "「당신, 콜랩서에게 억지로 복종하고 있던 게 아니었어?」"
+
+[[dialogue]]
+speaker = "キサナ"
+original = "「は？\u3000どういうこった？」"
+translation = "「하? 뭔 소리야?」"
+
+[[dialogue]]
+speaker = "ジュリエッテ"
+original = "「ああいえ！？\u3000それは言葉の綾といいますか！！」"
+translation = "「아아 아니예요!? 그건 말의 뉘앙스랄까!!」"
+
+[[dialogue]]
+speaker = "キサナ"
+original = "「テメエ、後で詳しく話を聞かせてもらうからな」"
+translation = "「네놈, 나중에 자세히 이야기를 들어야겠군」"
+
+[[dialogue]]
+speaker = "ジュリエッテ"
+original = "「うぅ……わかりましたわ……」"
+translation = "「우으…… 알겠어요……」"
+
+[[dialogue]]
+speaker = "イングリット"
+original = "「今回は無様な姿を晒したが、次はこうはいかないぞ……首を洗って待っていろ、魔王……！」"
+translation = "「이번에는 보기 흉한 모습을 보였지만, 다음엔 이렇게 안 될 거다…… 목을 씻고 기다려라, 마왕……!」"
+
+[[dialogue]]
+speaker = "マリーベル"
+original = "「ひとまずお疲れ様ね」"
+translation = "「일단 수고했어」"
+
+[[dialogue]]
+speaker = "カティア"
+original = "「やっとアステラから出られたワン……早く帰ってシャワーを浴びたいガオ～……」"
+translation = "「겨우 아스텔라에서 나왔다멍…… 빨리 돌아가서 샤워하고 싶다가오~……」"
+
+[[dialogue]]
+speaker = "ジュリエッテ"
+original = "『コラプサーの目的は救世。あなた方と同じく世界を守ることでございます』"
+translation = "『콜랩서의 목적은 구세. 당신들과 마찬가지로 세계를 지키는 것이예요』"
+
+[[dialogue]]
+speaker = "unk"
+original = "コラプサーの目的。彼女らの守護星。"
+translation = "콜랩서의 목적. 그녀들의 수호성."
+
+[[dialogue]]
+speaker = "unk"
+original = "コラプサーのことは少しずつ明らかになってきている。"
+translation = "콜랩서에 대해서는 조금씩 밝혀지고 있다."
+
+[[dialogue]]
+speaker = "unk"
+original = "それでも得体の知れないものがすぐそこまで迫っているような違和感を覚えるのは、気のせいだろうか……？"
+translation = "그런데도 정체 모를 무언가가 바로 저기까지 다가오고 있는 듯한 위화감을 느끼는 건, 기분 탓일까……?"
+

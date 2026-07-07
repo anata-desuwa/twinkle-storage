@@ -1,0 +1,410 @@
+[[dialogue]]
+speaker = "unk"
+original = "第５話,さすらいの旅人,B"
+translation = "제5화, 떠돌이 여행자, B"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「……ふぅ」"
+translation = "「……후우」"
+
+[[dialogue]]
+speaker = "unk"
+original = "荒鷹ノ月十七日・午前５時３０分──"
+translation = "황응의 달 17일・오전 5시 30분──"
+
+[[dialogue]]
+speaker = "unk"
+original = "仮眠を終えて外へ出ると、凍てつくような寒さが肌を刺した。"
+translation = "가면을 마치고 밖으로 나오자, 얼어붙을 듯한 추위가 피부를 찔렀다."
+
+[[dialogue]]
+speaker = "クロト"
+original = "（とてつもない気候だな。明らかに、人間の住める環境を超えてる）"
+translation = "（엄청난 기후군. 명백히, 인간이 살 수 있는 환경을 넘어서고 있어）"
+
+[[dialogue]]
+speaker = "unk"
+original = "魔族の人たちは──もしくレゾフの人たちはどうも普通の人間より寒さに強いようだ。"
+translation = "마족 사람들은── 혹은 레조프 사람들은 아무래도 보통 인간보다 추위에 강한 것 같다."
+
+[[dialogue]]
+speaker = "unk"
+original = "観察も兼ねて朝の街を歩いていると……"
+translation = "관찰도 겸해 아침 거리를 걷고 있는데……"
+
+[[dialogue]]
+speaker = "リタおばさん"
+original = "「おはよう。何か困ったことがあったら言うんだよ、事情は詮索しないけどねえ」"
+translation = "「안녕. 뭔가 곤란한 일이 있으면 말해, 사정은 캐묻지 않겠지만 말이야」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「あ……昨日の。おはようございます」"
+translation = "「아…… 어제의. 안녕하세요」"
+
+[[dialogue]]
+speaker = "リタおばさん"
+original = "「なあに。レゾフはめっぽう寒い土地だが──住んどる人の心だきゃ温かいからねえ」"
+translation = "「별말씀을. 레조프는 몹시 추운 땅이지만── 살고 있는 사람들의 마음만은 따뜻하니까」"
+
+[[dialogue]]
+speaker = "リタおばさん"
+original = "「ま……こんな時期なのは災難だろうけども。サーシャ達がついてるんなら安心だよ。じゃあね」"
+translation = "「뭐…… 이런 시기인 건 재난이겠지만. 사샤들이 붙어 있다면 안심이야. 그럼 이만」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "（こんな時期……？）"
+translation = "（이런 시기……?）"
+
+[[dialogue]]
+speaker = "unk"
+original = "羊のような巻き角を生やしたリタおばさんを見送る。"
+translation = "양 같은 뿔을 가진 리타 아줌마를 배웅한다."
+
+[[dialogue]]
+speaker = "unk"
+original = "他に行き交う人々も、ほぼ全員が魔族だった。それが魔界にとっては当然なのだが、俺からすると新鮮に映る。"
+translation = "다른 오가는 사람들도, 거의 전원이 마족이었다. 그것이 마계에서는 당연한 것이지만, 나에게는 신선하게 비쳤다."
+
+[[dialogue]]
+speaker = "クロト"
+original = "（サーシャ先輩の生まれ故郷……ヴィーナスがいたらどんな反応をするかな）"
+translation = "（사샤 선배의 고향…… 비너스가 있다면 어떤 반응을 할까）"
+
+[[dialogue]]
+speaker = "unk"
+original = "彼女を無事に取り返したら、一緒にここへ立ち寄ってみたい。そう思った。"
+translation = "그녀를 무사히 되찾으면, 함께 여기에 들러보고 싶다. 그렇게 생각했다."
+
+[[dialogue]]
+speaker = "クロト"
+original = "（……さて。そのためにも、あいつを見つけてやらないとな）"
+translation = "（……자. 그러기 위해서라도, 그 녀석을 찾아내야지）"
+
+[[dialogue]]
+speaker = "unk"
+original = "星力探知アンテナ──"
+translation = "성력 탐지 안테나──"
+
+[[dialogue]]
+speaker = "unk"
+original = "アニマ先輩から預かったアイテムを使い、『金星』の星力をサーチする。"
+translation = "아니마 선배에게 맡긴 아이템을 사용해, 『금성』의 성력을 탐색한다."
+
+[[dialogue]]
+speaker = "unk"
+original = "しかしながら魔界へ降り立った時から変わらず、ヴィーナスの力の痕跡は見つけられなかった。"
+translation = "하지만 마계에 내려섰을 때부터 변함없이, 비너스의 힘의 흔적은 찾을 수 없었다."
+
+[[dialogue]]
+speaker = "クロト"
+original = "（魔界にいるのは確か──なのに場所は探れない。どこかに幽閉されているのか……？）"
+translation = "（마계에 있는 건 확실한데── 장소는 찾을 수 없어. 어딘가에 유폐되어 있는 건가……?）"
+
+[[dialogue]]
+speaker = "unk"
+original = "嫌な想像が頭の中を駆け巡る。"
+translation = "불길한 상상이 머릿속을 맴돈다."
+
+[[dialogue]]
+speaker = "unk"
+original = "俺は、改めて昨日ヴィーナスから送られてきたメッセージを見た。"
+translation = "나는, 다시 한번 어제 비너스에게서 온 메시지를 보았다."
+
+[[dialogue]]
+speaker = "クロト"
+original = "（『冬』……『森』……『来て』……この３通。一体どういう意味があるのか）"
+translation = "（『겨울』……『숲』……『와』…… 이 세 통. 대체 무슨 의미가 있는 걸까）"
+
+[[dialogue]]
+speaker = "unk"
+original = "それぞれ時機と、場所と、行動を示しているのはハッキリしている。"
+translation = "각각 시기와, 장소와, 행동을 나타내고 있는 것은 분명하다."
+
+[[dialogue]]
+speaker = "unk"
+original = "森に置き去りにされたヴィーナスの様子がそれとなく浮かんだ。"
+translation = "숲에 버려진 비너스의 모습이 어렴풋이 떠올랐다."
+
+[[dialogue]]
+speaker = "クロト"
+original = "（にしても……『冬』？\u3000今は荒鷹ノ月だ、レゾフはたまたま寒いけど、人間界に照らして言えば冬じゃあない）"
+translation = "（그렇다고 해도…… 『겨울』? 지금은 황응의 달이다, 레조프는 마침 춥지만, 인간계에 비추어 말하면 겨울은 아니야）"
+
+[[dialogue]]
+speaker = "unk"
+original = "それに、時機を指定するにしたって季節じゃ大ざっぱすぎる。"
+translation = "게다가, 시기를 지정하는 것치고는 계절은 너무 대략적이다."
+
+[[dialogue]]
+speaker = "unk"
+original = "あれほど『日誌』にこだわっていた彼女なら、より詳細な日時を伝えたかったはずだ。"
+translation = "그토록 『일지』에 집착했던 그녀라면, 더 상세한 일시를 전하고 싶었을 것이다."
+
+[[dialogue]]
+speaker = "クロト"
+original = "（……わからないな。まだ手がかりが足りない）"
+translation = "（……모르겠군. 아직 단서가 부족해）"
+
+[[dialogue]]
+speaker = "unk"
+original = "焦燥がにわかに募り始める。"
+translation = "초조함이 갑자기 커지기 시작한다."
+
+[[dialogue]]
+speaker = "unk"
+original = "だが、それを表に出すわけにはいかない。"
+translation = "하지만, 그것을 겉으로 드러낼 수는 없다."
+
+[[dialogue]]
+speaker = "クロト"
+original = "（俺はみんなを率いる星徒会長なんだ。みっともなく焦ってたんじゃ、ヴィーナスにだってたどり着けない）"
+translation = "（나는 모두를 이끄는 성도 회장이다. 꼴사납게 초조해하고 있어서는, 비너스에게도 도달할 수 없어）"
+
+[[dialogue]]
+speaker = "unk"
+original = "こんな時は、日課の鍛錬をして心を落ち着かせよう。"
+translation = "이럴 때는, 일과인 단련을 해서 마음을 진정시키자."
+
+[[dialogue]]
+speaker = "クロト"
+original = "（ユウリじゃないけど──体を鈍らせるわけにもいかないしな。どこか拳を振るえる場所はないか……？）"
+translation = "（유우리는 아니지만── 몸을 둔하게 할 수도 없지. 어딘가 주먹을 휘두를 곳은 없을까……?）"
+
+[[dialogue]]
+speaker = "unk"
+original = "普段なら学園のトレーニング施設を使わせてもらってたものだけど……ここじゃそうもいかない。"
+translation = "평소라면 학원의 트레이닝 시설을 사용했을 텐데…… 여기서는 그럴 수 없다."
+
+[[dialogue]]
+speaker = "unk"
+original = "俺は土地勘のない中を、きょろきょろと見回しながらほっつき歩く……"
+translation = "나는 지리에 익숙하지 않은 채, 두리번거리며 배회한다……"
+
+[[dialogue]]
+speaker = "unk"
+original = "──と、そこへ。"
+translation = "──그때, 그곳에."
+
+[[dialogue]]
+speaker = "？？？"
+original = "「──やあ、青年」"
+translation = "「──여어, 청년」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「！\u3000おはようございます」"
+translation = "「! 안녕하세요」"
+
+[[dialogue]]
+speaker = "？？？"
+original = "「おはよう。何をしているのかな？」"
+translation = "「안녕. 뭘 하고 있나?」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「朝の鍛錬を──ああ、いえ。俺はレイル区のシードルさん宅でお世話になっている緋宮クロトという人間です」"
+translation = "「아침 단련을── 아, 아니요. 저는 레일 구역의 시드르 씨 댁에서 신세를 지고 있는 히노미야 쿠로토라는 인간입니다」"
+
+[[dialogue]]
+speaker = "unk"
+original = "俺はまず怪しまれないよう素性を名乗った。"
+translation = "나는 우선 의심받지 않도록 신분을 밝혔다."
+
+[[dialogue]]
+speaker = "unk"
+original = "レイル区のシードルさんというのは──サーシャ先輩たちのお父さんのことだ。"
+translation = "레일 구역의 시드르 씨라는 것은── 사샤 선배들의 아버지이다."
+
+[[dialogue]]
+speaker = "unk"
+original = "レゾフを含むズヴィエダ地方には本来名字という概念がないらしく、こう言わないとどの家だか通じないらしい。"
+translation = "레조프를 포함한 즈비에다 지방에는 본래 성씨라는 개념이 없는 것 같고, 이렇게 말하지 않으면 어느 집인지 통하지 않는다고 한다."
+
+[[dialogue]]
+speaker = "unk"
+original = "ちなみに『奏』というのは、サーシャ先輩が人間界で生活していくために自ら決めた名字とのことだった。"
+translation = "덧붙여서 『카나데』라는 것은, 사샤 선배가 인간계에서 생활하기 위해 스스로 정한 성씨라고 한다."
+
+[[dialogue]]
+speaker = "？？？"
+original = "「はっはっはっ──道理でそんな薄着なわけだ。レゾフは初めてのようだな」"
+translation = "「하하하── 어쩐지 그렇게 얇게 입었더라니. 레조프는 처음인 것 같군」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「昨日着いたばかりで。つかぬことをおうかがいしますが、あなたは……？」"
+translation = "「어제 막 도착해서요. 실례되는 질문이지만, 당신은……?」"
+
+[[dialogue]]
+speaker = "？？？"
+original = "「私か。私は──ふむ。そうだな……さすらいの旅人、とでも名乗っておこうか」"
+translation = "「나 말인가. 나는── 흠. 그렇군…… 떠돌이 여행자, 라고라도 자칭해 둘까」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「さすらいの──はあ……」"
+translation = "「떠돌이── 하아……」"
+
+[[dialogue]]
+speaker = "unk"
+original = "警戒されているのかと思ったが──"
+translation = "경계하고 있는 건가 싶었지만──"
+
+[[dialogue]]
+speaker = "unk"
+original = "どうやら彼女も地元民ではなく、レゾフを訪れた旅人だという。"
+translation = "아무래도 그녀도 현지인이 아니라, 레조프를 방문한 여행자라고 한다."
+
+[[dialogue]]
+speaker = "unk"
+original = "レゾフの人たちが揃って装備している耳あてや毛皮の帽子もつけていない。"
+translation = "레조프 사람들이 모두 장비하고 있는 귀마개나 모피 모자도 쓰고 있지 않다."
+
+[[dialogue]]
+speaker = "？？？"
+original = "「私は各地を巡って困りごとを解決するのを生業としていてね。君も、何か手助けが必要になったら言うといい」"
+translation = "「나는 각지를 돌며 곤란한 일을 해결하는 것을 생업으로 삼고 있어서 말이야. 자네도, 뭔가 도움이 필요하게 되면 말하게」"
+
+[[dialogue]]
+speaker = "？？？"
+original = "「もうじき、大いなる冬も訪れる──ここは嵐の渦中になるだろうからね」"
+translation = "「이제 곧, 대자연의 겨울도 찾아올 테니── 이곳은 폭풍의 소용돌이가 될 테니까」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「は、はあ……覚えておきます」"
+translation = "「하, 하아…… 기억해 두겠습니다」"
+
+[[dialogue]]
+speaker = "unk"
+original = "なんだか呑まれそうになる雰囲気のお人だった。"
+translation = "왠지 모르게 압도될 것 같은 분위기의 사람이었다."
+
+[[dialogue]]
+speaker = "レゾフの住人"
+original = "「お～い！\u3000旅人さんよ──正門にも防風網を張りたいんだが、手伝ってくれねえかー！？」"
+translation = "「어～이! 여행자 씨여── 정문에도 방풍망을 치고 싶은데, 좀 도와주지 않겠어!?」"
+
+[[dialogue]]
+speaker = "？？？"
+original = "「おっと──今日もどこかで私を呼ぶ声がする。ではな、青年」"
+translation = "「이런── 오늘도 어딘가에서 나를 부르는 소리가 들리는군. 그럼 이만, 청년」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「はい。俺の仲間も何人かレゾフに滞在しているので、お見知りおきを」"
+translation = "「네. 제 동료도 몇 명 레조프에 머물고 있으니, 알아봐 주십시오」"
+
+[[dialogue]]
+speaker = "？？？"
+original = "「フフ。心得た」"
+translation = "「후후. 알겠다」"
+
+[[dialogue]]
+speaker = "unk"
+original = "そうして、彼女は背を向ける──寸前。"
+translation = "그렇게, 그녀는 등을 돌린다── 직전."
+
+[[dialogue]]
+speaker = "？？？"
+original = "「──ああそうだ。鍛錬なら……南口に数匹の魔獣が湧いているから、手頃な相手になるだろう」"
+translation = "「──아, 맞다. 단련이라면…… 남쪽 출구에 몇 마리의 마수가 솟아나고 있으니, 적당한 상대가 될 걸세」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「……！\u3000当たってみます」"
+translation = "「……! 가보겠습니다」"
+
+[[dialogue]]
+speaker = "unk"
+original = "そう言い残して──『さすらい』さんは去っていった。"
+translation = "그렇게 말하고── 『떠돌이』 씨는 떠나갔다."
+
+[[dialogue]]
+speaker = "クロト"
+original = "（旅人か……確かに今の人には、角がなかったな）"
+translation = "（여행자인가…… 확실히 방금 그 사람은, 뿔이 없었지）"
+
+[[dialogue]]
+speaker = "unk"
+original = "俺と同じ人間だろうか。"
+translation = "나와 같은 인간일까."
+
+[[dialogue]]
+speaker = "unk"
+original = "昨日、リタおばさんが語っていた人物かもしれない。"
+translation = "어제, 리타 아줌마가 말했던 인물일지도 모른다."
+
+[[dialogue]]
+speaker = "クロト"
+original = "（南口か……行ってみる価値はあるな）"
+translation = "（남쪽 출구인가…… 가볼 가치는 있겠군）"
+
+[[dialogue]]
+speaker = "unk"
+original = "──南口からレゾフを出た俺。そこには……"
+translation = "──남쪽 출구로 레조프를 나선 나. 그곳에는……"
+
+[[dialogue]]
+speaker = "鹿の魔獣"
+original = "「オォーン！\u3000オォッ、オォーン！！」"
+translation = "「오오온! 오옷, 오오온!!」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「おっと……本当にお出ましか」"
+translation = "「이런…… 정말로 나와 있군」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ゾウほどもある鹿の魔獣が数頭の群れをなしていた。"
+translation = "코끼리만큼이나 큰 사슴 마수가 몇 마리 무리를 이루고 있었다."
+
+[[dialogue]]
+speaker = "クロト"
+original = "「こいつは……かなり歯ごたえのありそうな魔獣だな」"
+translation = "「이 녀석은…… 상당히 씹는 맛이 있을 것 같은 마수군」"
+
+[[dialogue]]
+speaker = "unk"
+original = "トレーニング施設のモンスターレベルに換算すればＡ──いやＳランクは固いか。"
+translation = "트레이닝 시설의 몬스터 레벨로 환산하면 A── 아니 S랭크는 확실할까."
+
+[[dialogue]]
+speaker = "unk"
+original = "今の俺なら程よく打ちのめせる相手で、確かに朝の鍛錬としてはちょうどいい。"
+translation = "지금의 나라면 적당히 때려눕힐 수 있는 상대이니, 확실히 아침 단련으로는 딱 좋다."
+
+[[dialogue]]
+speaker = "クロト"
+original = "（って──待て。どうしてあの人……俺がそこまで戦えるってわかったんだ？）"
+translation = "（라고── 잠깐. 어째서 저 사람…… 내가 그 정도까지 싸울 수 있다는 걸 알았지?）"
+
+[[dialogue]]
+speaker = "鹿の魔獣"
+original = "「オォォン……！\u3000オォォォォン……！！」"
+translation = "「오오오온……! 오오오오온……!!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "この魔獣はどう見たって──一頭でも一般人の手に負える相手じゃない。手頃だなんてもってのほかだ。"
+translation = "이 마수는 아무리 봐도── 한 마리만으로도 일반인이 감당할 상대가 아니다. 적당하다는 건 말도 안 된다."
+
+[[dialogue]]
+speaker = "unk"
+original = "じゃあさっきのやり取りだけで、俺は実力を見抜かれていたっていうのか……？"
+translation = "그럼 방금 전의 대화만으로, 나는 실력을 간파당했다는 건가……?"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「まあいいか──望んでた通りの相手には違いない。いくぞっ！」"
+translation = "「뭐 상관없나── 원하던 상대인 건 틀림없다. 간다!」"
+
+[[dialogue]]
+speaker = "鹿の魔獣"
+original = "「オオオォォォォ────ン！」"
+translation = "「오오오오오오────온!」"
+

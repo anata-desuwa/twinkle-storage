@@ -1,0 +1,345 @@
+[[dialogue]]
+speaker = "unk"
+original = "第２話,アニュラスと完全栄養食,P"
+translation = "제2화, 아뉴라스와 완전 영양식"
+
+[[dialogue]]
+speaker = "unk"
+original = "クリスマスパーティーの準備で、俺たち実行委員はカフェテリアに集まっていた。"
+translation = "크리스마스 파티 준비로, 우리 실행위원들은 카페테리아에 모여 있었다."
+
+[[dialogue]]
+speaker = "unk"
+original = "ああでもないこうでもないと激論を交わしていたが、疲れたので小休止ということになった。"
+translation = "이렇다 저렇다 격론을 나누고 있었지만, 피곤해서 잠시 휴식을 취하기로 했다."
+
+[[dialogue]]
+speaker = "アニュラス"
+original = "「もぐもぐもぐ……」"
+translation = "「우물우물우물……」"
+
+[[dialogue]]
+speaker = "アニュラス"
+original = "「ずずずずずーっ……ごくんっ、ふぅ～～」"
+translation = "「후루루룩…… 꿀꺽, 후우~~」"
+
+[[dialogue]]
+speaker = "舞亜"
+original = "「無理矢理流し込んでるように見えるんだけど、大丈夫？」"
+translation = "「억지로 밀어 넣고 있는 것처럼 보이는데, 괜찮아?」"
+
+[[dialogue]]
+speaker = "アニュラス"
+original = "「へ、平気だ」"
+translation = "「괘, 괜찮다」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「全然平気そうじゃないぞ。苦行に耐えてるって顔だ！」"
+translation = "「전혀 안 괜찮아 보인다고. 고행을 견디고 있다는 얼굴이야!」"
+
+[[dialogue]]
+speaker = "舞亜"
+original = "「……まずいの？」"
+translation = "「……맛없어?」"
+
+[[dialogue]]
+speaker = "アニュラス"
+original = "「そそ、そんなことはないぞ！\u3000ただちょっと飲み込みづらいだけだ。貴重な食糧を作ってくれた人に、私は心から感謝している」"
+translation = "「그그, 그런 건 아니다! 다만 좀 삼키기 힘들 뿐이다. 귀중한 식량을 만들어 준 사람에게, 나는 진심으로 감사하고 있다네」"
+
+[[dialogue]]
+speaker = "舞亜"
+original = "「まずいならまずいって言えばいいのに」"
+translation = "「맛없으면 맛없다고 말하면 될 텐데」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ちょっと気になるかも"
+translation = "조금 궁금할지도"
+
+[[dialogue]]
+speaker = "unk"
+original = "何食べてるの？"
+translation = "뭐 먹고 있어?"
+
+[[dialogue]]
+speaker = "アニュラス"
+original = "「これは完全栄養食だな。新星の新学園長の要望で、最近売るようになったと聞いている」"
+translation = "「이것은 완전 영양식이라네. 신성의 신 학원장의 요청으로, 최근 팔게 되었다고 들었군」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「完全栄養食！？\u3000なんかすごそうな名前だなっ」"
+translation = "「완전 영양식!? 뭔가 굉장해 보이는 이름이네!」"
+
+[[dialogue]]
+speaker = "舞亜"
+original = "「いくら凄くても、まずいんでしょ？」"
+translation = "「아무리 굉장해도, 맛없는 거지?」"
+
+[[dialogue]]
+speaker = "アニュラス"
+original = "「ちち、違うぞ！\u3000まずいとは一言も言ってない。強い精神の持ち主でなければ、飲み込むことすら困難なのは事実だが……」"
+translation = "「아아, 아니다! 맛없다고는 한마디도 안 했다. 강한 정신의 소유자가 아니라면, 삼키는 것조차 곤란한 것은 사실이다만……」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「精神が試されるのか！\u3000なら挑戦してみたいぞ！」"
+translation = "「정신이 시험받는 건가! 그렇다면 도전해보고 싶어!」"
+
+[[dialogue]]
+speaker = "アニュラス"
+original = "「いい覚悟だ。アポロも流星ライダーを志すなら、強い精神でなければならないからな。それ、１口やろう」"
+translation = "「좋은 각오군. 아폴로도 유성 라이더를 지망한다면, 강한 정신을 가져야 하니까 말이지. 자, 한 입 주마」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「わぁーい！\u3000んじゃ、いただきまーすっ！\u3000あむっ、むぐむぐむぐ……」"
+translation = "「와아! 그럼, 잘 먹겠습니다! 냠냠, 우물우물……」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「なんだこれぇ、ぼそぼそするぞぉ」"
+translation = "「뭐야 이거어, 푸석푸석해애」"
+
+[[dialogue]]
+speaker = "舞亜"
+original = "「はい、飲み物。慌てて飲むとむせるからゆっくりね」"
+translation = "「자, 여기 음료수. 서둘러 마시면 사레들리니까 천천히 마셔」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「んぐっ、んぐっ、んぐっ……ふぅ～～～っ、助かった。ありがとなっ、舞亜」"
+translation = "「벌컥, 벌컥, 벌컥…… 후으~~~ 살았다. 고마워, 마이아」"
+
+[[dialogue]]
+speaker = "舞亜"
+original = "「どういたしまして。食べにくそうなのは伝わったけど、結局味はまずいの？」"
+translation = "「천만에. 먹기 힘들어 보이는 건 전달됐는데, 결국 맛은 없는 거야?」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「正直ぼそぼそしててよくわかんなかった。でも食べた感想は、もう２度と食べなくていいと思ったぞ！」"
+translation = "「솔직히 푸석푸석해서 잘 모르겠어. 하지만 먹어본 감상은, 이제 두 번 다시 안 먹어도 되겠다고 생각했어!」"
+
+[[dialogue]]
+speaker = "アニュラス"
+original = "「我慢して飲み込んだアポロは偉いぞ。これで強い精神の持ち主だと証明出来たな」"
+translation = "「참고 삼킨 아폴로는 훌륭하군. 이것으로 강한 정신의 소유자라는 것을 증명했군」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「やった！\u3000まずかったけど、あたしの勝利だな！」"
+translation = "「해냈다! 맛없었지만, 나의 승리네!」"
+
+[[dialogue]]
+speaker = "舞亜"
+original = "「そこまでまずいんだ？\u3000ちょっと気になるかも」"
+translation = "「그렇게나 맛없어? 조금 궁금할지도」"
+
+[[dialogue]]
+speaker = "アニュラス"
+original = "「ならば舞亜もチャレンジしてくれ」"
+translation = "「그렇다면 마이아도 챌린지해주게」"
+
+[[dialogue]]
+speaker = "舞亜"
+original = "「え～～？\u3000まあ、いいけどさ……」"
+translation = "「에~~? 뭐, 좋지만……」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「頑張れ、舞亜！\u3000強い心で戦うんだ！」"
+translation = "「힘내, 마이아! 강한 마음으로 싸우는 거야!」"
+
+[[dialogue]]
+speaker = "舞亜"
+original = "「はーい、それじゃミルクティーにどっぷり浸けて……うん、これでぼそぼそ解消♪」"
+translation = "「네에, 그럼 밀크티에 푹 적셔서…… 응, 이걸로 푸석거림 해소♪」"
+
+[[dialogue]]
+speaker = "舞亜"
+original = "「はむっ、ふむふむふむ……うん、確かにおいしくないね。でも、ぼそぼそじゃなくなったら素朴な味で案外いける？」"
+translation = "「냠냠, 흠흠…… 응, 확실히 맛있지는 않네. 하지만, 푸석거리지 않게 되니까 소박한 맛이라 의외로 괜찮을지도?」"
+
+[[dialogue]]
+speaker = "アニュラス"
+original = "「ひ、卑怯な……そんな加工法があったなんて……」"
+translation = "「비, 비겁하다…… 그런 가공법이 있었다니……」"
+
+[[dialogue]]
+speaker = "舞亜"
+original = "「元々こうやって食べるよう想定されてるものなのかもね。買うとき説明してくれたらいいのに」"
+translation = "「원래 이렇게 먹도록 상정된 것일지도 몰라. 살 때 설명해줬으면 좋았을 텐데」"
+
+[[dialogue]]
+speaker = "アニュラス"
+original = "「いや、説明はしてもらったが……」"
+translation = "「아니, 설명은 들었다만……」"
+
+[[dialogue]]
+speaker = "舞亜"
+original = "「は？\u3000じゃあなんでそのまま食べてるの？」"
+translation = "「하? 그럼 왜 그대로 먹고 있는 거야?」"
+
+[[dialogue]]
+speaker = "アニュラス"
+original = "「いや、その……なんだ、このまま食べた方が修行になるかと思って」"
+translation = "「아니, 그게…… 뭐랄까, 이대로 먹는 편이 수행이 될 것 같아서」"
+
+[[dialogue]]
+speaker = "舞亜"
+original = "「おいしく食べる方法がわかってるのに、まずいまま食べなくてもいいでしょ。前から思ってたんだけど、もしかしてアニュラスって……Ｍ？」"
+translation = "「맛있게 먹는 방법을 알고 있는데, 맛없는 채로 먹지 않아도 되잖아. 전부터 생각했는데, 혹시 아뉴라스는…… M?」"
+
+[[dialogue]]
+speaker = "アニュラス"
+original = "「Ｍじゃない！\u3000断じてＭじゃないぞ！」"
+translation = "「M이 아니다! 단연코 M이 아니라고!」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「えむってなんだ？」"
+translation = "「엠이 뭐야?」"
+
+[[dialogue]]
+speaker = "舞亜"
+original = "「あっ、アポロちゃんは知らなくていいからね～。大人になったら教えてあげるから」"
+translation = "「앗, 아폴로 짱은 몰라도 돼~. 어른이 되면 가르쳐 줄 테니까」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「そっか！\u3000うん、わかった！」"
+translation = "「그렇구나! 응, 알았어!」"
+
+[[dialogue]]
+speaker = "舞亜"
+original = "「意外と素直だ……」"
+translation = "「의외로 솔직해……」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「大人になったら教えるって言われてること、いっぱいあるからな。多すぎて、あたしも諦めた！」"
+translation = "「어른이 되면 가르쳐 준다고 하는 거, 잔뜩 있으니까 말이야. 너무 많아서, 나도 포기했어!」"
+
+[[dialogue]]
+speaker = "アニュラス"
+original = "「アポロはそれでいい。知識は知るべき時に自然と入ってくるものだからな」"
+translation = "「아폴로는 그걸로 됐다. 지식은 알아야 할 때 자연스럽게 들어오는 법이니까 말이지」"
+
+[[dialogue]]
+speaker = "アニュラス"
+original = "「それより、この完全栄養食でパーティーのアイデアを１つ閃いたぞ！」"
+translation = "「그보다, 이 완전 영양식으로 파티 아이디어를 하나 떠올렸군!」"
+
+[[dialogue]]
+speaker = "舞亜"
+original = "「え？\u3000なんだか嫌な予感がするんだけど……」"
+translation = "「에? 왠지 안 좋은 예감이 드는데……」"
+
+[[dialogue]]
+speaker = "アニュラス"
+original = "「パーティーの食事に、完全栄養食を出すんだ！\u3000ふふっ、きっといい思い出になるはず……」"
+translation = "「파티 음식으로, 완전 영양식을 내놓는 거다! 후훗, 분명 좋은 추억이 될 터……」"
+
+[[dialogue]]
+speaker = "舞亜"
+original = "「いや、それはただの罰ゲームでしょ」"
+translation = "「아니, 그건 그냥 벌칙 게임이잖아」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「あたしは反対だ！\u3000クリスマスのご馳走はおいしい方が絶対いいぞ！」"
+translation = "「나는 반대야! 크리스마스 진미는 맛있는 편이 절대 좋다고!」"
+
+[[dialogue]]
+speaker = "アニュラス"
+original = "「そうだろうか？\u3000みんなで耐えながら食すのも一興だと思ったんだが」"
+translation = "「그럴까? 다 함께 견디며 먹는 것도 하나의 재미라고 생각했다만」"
+
+[[dialogue]]
+speaker = "舞亜"
+original = "「却下。どうして苦行めいたことばかり求めるの？」"
+translation = "「기각. 어째서 고행 같은 것만 요구하는 거야?」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「アニュラスが頑張ってることは伝わったけどな！」"
+translation = "「아뉴라스가 노력하고 있다는 건 전달됐지만 말이야!」"
+
+[[dialogue]]
+speaker = "アニュラス"
+original = "「では更に頑張ってアポロが満足する出し物を考えよう。そうだな、例えば……」"
+translation = "「그럼 더욱 노력해서 아폴로가 만족할 만한 장기자랑을 생각해보지. 그러게, 예를 들면……」"
+
+[[dialogue]]
+speaker = "舞亜"
+original = "「ちょっと待った。アニュラスの気持ちはわかるけど、いったん落ち着こ？」"
+translation = "「잠깐만. 아뉴라스의 마음은 알겠는데, 일단 진정하자?」"
+
+[[dialogue]]
+speaker = "アニュラス"
+original = "「どうしてだ？\u3000パーティー当日まで、時間はあまりないのだろう？」"
+translation = "「어째서인가? 파티 당일까지 시간은 얼마 없지 않나?」"
+
+[[dialogue]]
+speaker = "舞亜"
+original = "「まだ焦るほどじゃないよ。もっとじっくり腰を据えて考えようよ。ちゃんとしなきゃって思いが空回りしてるよ？」"
+translation = "「아직 서두를 정도는 아니야. 좀 더 느긋하게 허리를 거치고 생각하자. 잘해야겠다는 마음이 헛돌고 있다고?」"
+
+[[dialogue]]
+speaker = "舞亜"
+original = "「なんのためにパーティーをするのか。それって<ruby>流星寮<rt>イルソーレ</rt></ruby>のみんなに楽しんでもらいたいからでしょ？\u3000相手の顔を見て、どうしたら喜んでくれるかを考えて」"
+translation = "「무엇을 위해 파티를 하는 걸까. 그건 유성 기숙사 모두가 즐거워하길 바라기 때문이잖아? 상대의 얼굴을 보고, 어떻게 하면 기뻐해 줄지를 생각해 봐.」"
+
+[[dialogue]]
+speaker = "アニュラス"
+original = "「なるほどな。ではアポロ、失礼するぞ」"
+translation = "「과연 그렇군. 그럼 아폴로, 실례하겠다.」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「うわっ、近い！\u3000近いってば～！」"
+translation = "「우와, 가까워! 가깝다니까~!」"
+
+[[dialogue]]
+speaker = "アニュラス"
+original = "「アポロは可愛いな？\u3000笑顔もきれいだ」"
+translation = "「아폴로는 귀엽군? 미소도 아름답다.」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「至近距離で褒めるなってばぁ！\u3000アニュラスだってかわいいぞ！\u3000いい顔だ！」"
+translation = "「지근거리에서 칭찬하지 말라니까! 아뉴라스도 귀엽다고! 보기 좋군!」"
+
+[[dialogue]]
+speaker = "アニュラス"
+original = "「当然だ、私は美人だからな」"
+translation = "「당연하다, 나는 미인이니까 말이다.」"
+
+[[dialogue]]
+speaker = "舞亜"
+original = "「うわ、すごい自信だ……」"
+translation = "「우와, 엄청난 자신감이네……」"
+
+[[dialogue]]
+speaker = "アニュラス"
+original = "「舞亜も可愛いぞ。私とは違う方向の美人だな」"
+translation = "「마이아도 귀엽군. 나와는 다른 방향의 미인이다.」"
+
+[[dialogue]]
+speaker = "舞亜"
+original = "「ちょお！\u3000こっちにも来るの！？\u3000いい顔で褒めないでっ、照れるっ、照れるから～～っ！！」"
+translation = "「잠까! 이쪽으로도 오는 거야!? 그런 얼굴로 칭찬하지 마, 부끄러워, 부끄러우니까~~!!」"
+
+[[dialogue]]
+speaker = "アニュラス"
+original = "「お世辞じゃないぞ。みんな可愛い。その可愛い顔がもっと可愛くなるようにするのが、私の仕事だ！」"
+translation = "「빈말이 아니다. 모두 귀엽군. 그 귀여운 얼굴이 더욱 귀여워지도록 만드는 것이 나의 일이다!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "こうして、アニュラスの無自覚な褒め殺しが、全方位に向けて炸裂するのであった。"
+translation = "이렇게 해서, 아뉴라스의 자각 없는 칭찬 공세가 전방위를 향해 작렬하는 것이었다."
+

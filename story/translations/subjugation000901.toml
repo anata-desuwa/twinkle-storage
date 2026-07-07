@@ -1,0 +1,55 @@
+[[dialogue]]
+speaker = "unk"
+original = "１００年前――"
+translation = "100년 전──"
+
+[[dialogue]]
+speaker = "？？？"
+original = "「よお――」"
+translation = "「안녕──」"
+
+[[dialogue]]
+speaker = "？？？"
+original = "「エンジョイしてるかい？」"
+translation = "「즐기고 있어?」"
+
+[[dialogue]]
+speaker = "？？？"
+original = "「流星市国で暴れているっていう『暴虐の吸血鬼』ってのは、アンタでいいんだよな？」"
+translation = "「유성시국에서 날뛰고 있다는 『폭학의 흡혈귀』라는 게 너 맞지?」"
+
+[[dialogue]]
+speaker = "ソフレ"
+original = "「お前……誰なの？」"
+translation = "「너…… 누구야?」"
+
+[[dialogue]]
+speaker = "ソフレ"
+original = "「建物の周りは雷雲で囲っていて、そう簡単に入ってこれないはずなのに……」"
+translation = "「건물 주변은 뇌운으로 둘러싸서 그렇게 쉽게 들어올 수 없었을 텐데……」"
+
+[[dialogue]]
+speaker = "？？？"
+original = "「あいにく、普通はあり得ないような奇跡を起こすのが得意でね」"
+translation = "「불행히도 보통은 있을 수 없는 기적을 일으키는 게 특기라서 말이야」"
+
+[[dialogue]]
+speaker = "フェリーチェ"
+original = "「アタシは、フェリーチェ・パッショーネ。『<ruby>選星者<rt>ロールスター</rt></ruby>』って呼ばれる内の１人――」"
+translation = "「난 펠리체 파쇼네. 『<ruby>선성자<rt>롤 스타</rt></ruby>』라고 불리는 이들 중 한 명──」"
+
+[[dialogue]]
+speaker = "フェリーチェ"
+original = "「さすらいの『<ruby>祓魔師<rt>エクソシスト</rt></ruby>』さ」"
+translation = "「떠돌이 『엑소시스트』지」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ああ、久しぶりに……"
+translation = "아아, 오랜만에……"
+
+[[dialogue]]
+speaker = "unk"
+original = "イヤな奴の夢を見てしまったのだわ――"
+translation = "기분 나쁜 녀석의 꿈을 꾸고 만 거예요──"
+

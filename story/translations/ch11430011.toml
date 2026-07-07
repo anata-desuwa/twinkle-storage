@@ -1,0 +1,260 @@
+[[dialogue]]
+speaker = "unk"
+original = "第１話,ラファエロのカリスマ,P"
+translation = "제1화, 라파엘로의 카리스마"
+
+[[dialogue]]
+speaker = "unk"
+original = "異邦の地アテネスから流星市国に迷い込んでしまった天才藝術家ラファエロ・サーラ。"
+translation = "이방의 땅 아테네스에서 유성시국으로 길을 잃고 들어온 천재 예술가 라파엘로 사라."
+
+[[dialogue]]
+speaker = "unk"
+original = "彼女にとっては見るもの全てが異端であり、さぞや不安な日々を過ごしているであろう──"
+translation = "그녀에게는 보이는 모든 것이 이단일 것이며, 분명 불안한 나날을 보내고 있으리라──"
+
+[[dialogue]]
+speaker = "ラファエロ"
+original = "「この流星学園の制服、実にいいね！」"
+translation = "「이 유성학원의 교복, 정말 좋네!」"
+
+[[dialogue]]
+speaker = "ラファエロ"
+original = "「同じ学び舎に通う者が一律で着用する統一性、肌触りも快適で動きやすい機能性、加えて、デザインも素晴らしい！\u3000ぼくの魅力がより一層、引き出されてしまうよ！」"
+translation = "「같은 배움터에 다니는 자들이 일률적으로 착용하는 통일성, 감촉도 쾌적하고 움직이기 편한 기능성, 게다가 디자인도 훌륭해! 나의 매력이 한층 더 돋보여 버리는걸!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "──と思いきや、本人は異世界を快適に楽しんでいた。"
+translation = "──라고 생각했으나, 본인은 이세계를 쾌적하게 즐기고 있었다."
+
+[[dialogue]]
+speaker = "ラファエロ"
+original = "「しかし、この世界の人々は本当にぼくを知らないんだね」"
+translation = "「하지만 이 세계 사람들은 정말 나를 모르는구나」"
+
+[[dialogue]]
+speaker = "ラファエロ"
+original = "「天才藝術家のぼくの名も、さすがに異邦の地までは轟いていなかったか。いやはや、ぼくもまだまだだね」"
+translation = "「천재 예술가인 나의 이름도 역시 이방의 땅까지는 울려 퍼지지 않았던 건가. 이래저래 나도 아직 멀었네」"
+
+[[dialogue]]
+speaker = "ラファエロ"
+original = "「アテネスではぼくの名を知らない人なんて誰ひとり、いや、猫の子１匹に至るまでいなかったくらいさ」"
+translation = "「아테네스에서는 내 이름을 모르는 사람이 단 한 명도, 아니, 고양이 새끼 한 마리조차 없었을 정도였는데 말이야」"
+
+[[dialogue]]
+speaker = "ラファエロ"
+original = "「そんなぼくのことを誰も知らないなんて、ちょっと驚いたけど、なんだか新鮮な気分だよ！」"
+translation = "「그런 나를 아무도 모르다니 조금 놀랐지만, 왠지 신선한 기분이야!」"
+
+[[dialogue]]
+speaker = "ソフィア"
+original = "「あの……ラファエロさんから見たら、ここは見知らぬ異世界……なんですよね？」"
+translation = "「저기…… 라파엘로 씨가 보기에 이곳은 낯선 이세계……인 거죠?」"
+
+[[dialogue]]
+speaker = "ラファエロ"
+original = "「もちろんそうさ。見るもの聞くもの全てが初めて。このぼくの想像さえも上回るものばかりだ」"
+translation = "「물론이지. 보고 듣는 모든 것이 처음이야. 이 나의 상상조차 뛰어넘는 것들뿐이야」"
+
+[[dialogue]]
+speaker = "unk"
+original = "不安だったりしないの？"
+translation = "불안하거나 하지는 않아?"
+
+[[dialogue]]
+speaker = "ラファエロ"
+original = "「不安なんて言葉は、ぼくの辞書にはないよ」"
+translation = "「불안이라는 단어는 내 사전에는 없어」"
+
+[[dialogue]]
+speaker = "ラファエロ"
+original = "「この程度のイレギュラー、天才のぼくにとっては創作のインスピレーションをかき立てるスパイスになるだけさ」"
+translation = "「이 정도의 이례적인 상황은 천재인 내게 창작의 영감을 자극하는 스파이스가 될 뿐이지」"
+
+[[dialogue]]
+speaker = "ラファエロ"
+original = "「ああ、きみ、何か画材はないかい？\u3000紙とペンだけでもいい！\u3000この衝動は描き留めておかないとね」"
+translation = "「아아, 너, 혹시 화구는 없니? 종이와 펜만이라도 좋아! 이 충동을 그려두지 않으면 안 되겠어」"
+
+[[dialogue]]
+speaker = "ソフィア"
+original = "「それなら流星星徒会の備品が……これでいいでしょうか？」"
+translation = "「그거라면 유성 성도회의 비품이…… 이걸로 괜찮을까요?」"
+
+[[dialogue]]
+speaker = "ラファエロ"
+original = "「十分だよ！\u3000天才のぼくにもまだまだ伸び代があったなんて。新たな出会いに感謝しないとね！」"
+translation = "「충분해! 천재인 내게도 아직 성장할 여지가 있었다니. 새로운 만남에 감사해야겠는걸!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ものすごい勢いで絵を描いている……！"
+translation = "엄청난 기세로 그림을 그리고 있어……!"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「自分で天才って言っちゃうんですねー。自信満々なだけに、すっごくお上手なのです！」"
+translation = "「스스로 천재라고 말하시네요~. 자신만만한 만큼 정말 솜씨가 좋으신 거예요!」"
+
+[[dialogue]]
+speaker = "ソフィア"
+original = "「そういえば、以前に来たというアルテさんも、自分で天才って自称するタイプなんでしたっけ──？」"
+translation = "「그러고 보니 이전에 왔던 아르테 씨도 스스로 천재라고 자칭하는 타입이었던가요──?」"
+
+[[dialogue]]
+speaker = "ラファエロ"
+original = "「ん？\u3000なんだい、この音は」"
+translation = "「응? 뭐야, 이 소리는」"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「モンスター出現警報なのです！」"
+translation = "「몬스터 출현 경보예요!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "出動だ！"
+translation = "출동이다!"
+
+[[dialogue]]
+speaker = "ソフィア"
+original = "「ラファエロさんはここでお待ちください！」"
+translation = "「라파엘로 씨는 여기서 기다려 주세요!」"
+
+[[dialogue]]
+speaker = "ラファエロ"
+original = "「モンスターというのは、この世界の人に<ruby>仇<rt>あだ</rt></ruby>なす<ruby>異形<rt>いぎょう</rt></ruby>のことだね？」"
+translation = "「몬스터라는 건 이 세계 사람들에게 해를 끼치는 이형을 말하는 거지?」"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「はい！\u3000とっても強くて、危ないのです！」"
+translation = "「네! 무척 강하고 위험해요!」"
+
+[[dialogue]]
+speaker = "ラファエロ"
+original = "「ふむ。ぼくの世界でいうところの『死の芸術』か……」"
+translation = "「흠. 내 세계로 치면 『죽음의 예술』인가……」"
+
+[[dialogue]]
+speaker = "ラファエロ"
+original = "「ならば、ぼくも戦わせてもらうよ。例の事件で、ぼくもこの世界で戦うすべを手に入れてしまったからね」"
+translation = "「그렇다면 나도 싸우게 해 줘. 그 사건으로 나도 이 세계에서 싸울 수단을 손에 넣었으니까」"
+
+[[dialogue]]
+speaker = "unk"
+original = "危ないと思ったら退いてくれ"
+translation = "위험하다 싶으면 물러나 줘"
+
+[[dialogue]]
+speaker = "ラファエロ"
+original = "「ふふ、ありがとう。ご忠告感謝するよ。では、改めて──星騎士の諸君、出撃だ！」"
+translation = "「후후, 고마워. 충고 감사히 받지. 그럼 다시금── 성기사 제군, 출격이다!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "何故かラファエロが率いる形で、俺たちはモンスター反応のある地点へと向かうのだった。"
+translation = "어째서인지 라파엘로가 이끄는 형태로 우리는 몬스터 반응이 있는 지점으로 향하는 것이었다."
+
+[[dialogue]]
+speaker = "モンスター"
+original = "「イーーーーッ！」"
+translation = "「이이익!」"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「現場到着！\u3000うじゃうじゃいますよ～っ！」"
+translation = "「현장 도착! 우글우글해요~!」"
+
+[[dialogue]]
+speaker = "ラファエロ"
+original = "「なるほど、あれがこの世界のモンスターか。見た目はさほど手強そうには見えないが……油断せずにいくよ！」"
+translation = "「과연, 저게 이 세계의 몬스터인가. 겉보기엔 그리 강해 보이지 않지만…… 방심하지 않고 가겠어!」"
+
+[[dialogue]]
+speaker = "ラファエロ"
+original = "「ぼくの真髄、見せてあげよう！」"
+translation = "「나의 진수, 보여주도록 하지!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ラファエロの協力もあり、無数のモンスターたちがあっという間に蹴散らされていく。"
+translation = "라파엘로의 협력도 있어 무수한 몬스터들이 순식간에 흩어져 나간다."
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「もうおしまいですか？\u3000ラファエロさんのおかげで、すぐ終わっちゃいました！\u3000楽勝なのです～！」"
+translation = "「벌써 끝인가요? 라파엘로 씨 덕분에 금방 끝나버렸어요! 낙승이에요~!」"
+
+[[dialogue]]
+speaker = "ソフィア"
+original = "「待ってルリ！\u3000５、６、７……反応より１匹足りない！\u3000まだどこかに１匹──」"
+translation = "「기다려 루리! 5, 6, 7…… 반응보다 한 마리 부족해! 아직 어딘가에 한 마리──」"
+
+[[dialogue]]
+speaker = "女性"
+original = "「きゃああああぁああぁぁっ！」"
+translation = "「꺄아아아아아아악!」"
+
+[[dialogue]]
+speaker = "フワッチ"
+original = "「イ～～～ッ！」"
+translation = "「이이익!」"
+
+[[dialogue]]
+speaker = "ラファエロ"
+original = "「女性の悲鳴──そっちかっ！\u3000イノセンス・アローッ！」"
+translation = "「여성의 비명── 그쪽인가! 이노센스 애로우!」"
+
+[[dialogue]]
+speaker = "フワッチ"
+original = "「イーーッ！？」"
+translation = "「이익!?」"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「ラファエロさん、ナイスなのです！\u3000間一髪でしたー！」"
+translation = "「라파엘로 씨, 나이스예요! 간발의 차였어요!」"
+
+[[dialogue]]
+speaker = "ラファエロ"
+original = "「お嬢さん、大丈夫かい？\u3000怪我はなかったかな？」"
+translation = "「아가씨, 괜찮니? 다친 곳은 없나?」"
+
+[[dialogue]]
+speaker = "女性"
+original = "「は、はい……助けてくださって、ありがとうございます！\u3000初めてお見かけしましたけれど……あなたも星騎士なんですか？」"
+translation = "「네, 네…… 구해주셔서 감사합니다! 처음 뵙습니다만…… 당신도 성기사인가요?」"
+
+[[dialogue]]
+speaker = "ラファエロ"
+original = "「ぼくはラファエロ・サーラ。異邦から来た天才藝術家さ」"
+translation = "「나는 라파엘로 사라. 이방에서 온 천재 예술가야」"
+
+[[dialogue]]
+speaker = "女性"
+original = "「藝術家……？\u3000星騎士ではないのに、私たちのために──」"
+translation = "「예술가……? 성기사가 아닌데도 저희를 위해서──」"
+
+[[dialogue]]
+speaker = "ラファエロ"
+original = "「流星市国の人たちには、お世話になってるからね。みんなを守るためなら、喜んでこの身を捧げるよ」"
+translation = "「유성시국 사람들에게는 신세를 지고 있으니까. 모두를 지키기 위해서라면 기꺼이 이 몸을 바치겠어」"
+
+[[dialogue]]
+speaker = "女性"
+original = "「まあ……！\u3000ラファエロ……ラファエロ・サーラ様<emoji=heart04>」"
+translation = "「어머나……! 라파엘로…… 라파엘로 사라 님♥」"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「バッチリ表情がキマってます！\u3000流星市国の人もすっかりラファエロさんの虜なのです！」"
+translation = "「표정이 아주 딱 잡혔어요! 유성시국 사람들도 완전히 라파엘로 씨의 포로예요!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "たった一度の出撃でラファエロの存在と認知度は流星市国に広まり、市民のハートを鷲掴みにしたのだった。"
+translation = "단 한 번의 출격으로 라파엘로의 존재와 인지도는 유성시국에 퍼졌고, 시민들의 마음을 사로잡았다."
+

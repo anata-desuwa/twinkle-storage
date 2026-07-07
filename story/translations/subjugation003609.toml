@@ -1,0 +1,310 @@
+[[dialogue]]
+speaker = "unk"
+original = "そしていつもの式場にて、イレーナ、ジュエリーとの結婚式が開かれた。"
+translation = "그리고 평소의 식장에서 이레이나, 주얼리와의 결혼식이 열렸다."
+
+[[dialogue]]
+speaker = "unk"
+original = "神官役はフィオナが務め、シャロン、トワ先生といった事情を知るごく限られた数名が参列者となった。"
+translation = "신관 역할은 피오나가 맡았으며, 샤론, 토와 선생님처럼 사정을 아는 극히 제한된 몇 명만이 참례자가 되었다."
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「新郎緋宮クロト。あなたはイレーナ・ロレンツェッティを妻とし、健やかなる時も病める時も、富める時も貧しき時も……」"
+translation = "「신랑 히노미야 쿠로토. 당신은 이레이나 로렌체티를 아내로 맞이하여, 건강할 때나 아플 때나, 부유할 때나 가난할 때나……」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「彼女を愛し、慈しみ、共に助け合い……命の限り真心を尽くすことを誓いますか？」"
+translation = "「그녀를 사랑하고 아끼며, 서로 도우며…… 목숨이 다할 때까지 진심을 다할 것을 맹세합니까?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "はい、誓います"
+translation = "네, 맹세합니다."
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「新婦イレーナ・ロレンツェッティ。あなたは緋宮クロトを夫とし、健やかなる時も病める時も、富める時も貧しき時も……」"
+translation = "「신부 이레이나 로렌체티. 당신은 히노미야 쿠로토를 남편으로 맞이하여, 건강할 때나 아플 때나, 부유할 때나 가난할 때나……」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「彼を愛し、慈しみ、共に助け合い……命の限り真心を尽くすことを誓いますか？」"
+translation = "「그를 사랑하고 아끼며, 서로 도우며…… 목숨이 다할 때까지 진심을 다할 것을 맹세합니까?」"
+
+[[dialogue]]
+speaker = "イレーナ"
+original = "「はい、誓います」"
+translation = "「네, 맹세합니다.」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「では……誓いの口付けを……」"
+translation = "「그럼…… 맹세의 입맞춤을……」"
+
+[[dialogue]]
+speaker = "イレーナ"
+original = "「あくまで結婚式のふりですから、頬にキスさせていただきますね。……いきます、会長さん」"
+translation = "「어디까지나 결혼식 흉내니까 뺨에 키스하도록 할게요. ……갑니다, 회장님.」"
+
+[[dialogue]]
+speaker = "イレーナ"
+original = "「ちゅっ」"
+translation = "「쪽」"
+
+[[dialogue]]
+speaker = "unk"
+original = "イレーナにキスしてもらい、俺も頬にキスを返す。"
+translation = "이레이나에게 키스를 받고, 나도 뺨에 키스로 화답한다."
+
+[[dialogue]]
+speaker = "イレーナ"
+original = "「これは何とも……何度も見てきましたが、自分でするとこそばゆい気持ちになりますね……」"
+translation = "「이건 참…… 몇 번이고 봐왔지만, 직접 하니 근질거리는 기분이 되네요……」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「それでは引き続き、ジュエリーさん」"
+translation = "「그럼 이어서 주얼리 씨.」"
+
+[[dialogue]]
+speaker = "ジュエリー"
+original = "「ああ、いつでもいいよ」"
+translation = "「아아, 언제든 좋네.」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「では……新郎緋宮クロト。あなたはジュエリー・ブラウンを妻とし、健やかなる時も病める時も、富める時も貧しき時も……」"
+translation = "「그럼…… 신랑 히노미야 쿠로토. 당신은 주얼리 브라운을 아내로 맞이하여, 건강할 때나 아플 때나, 부유할 때나 가난할 때나……」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「彼女を愛し、慈しみ、共に助け合い……命の限り真心を尽くすことを誓いますか？」"
+translation = "「그녀를 사랑하고 아끼며, 서로 도우며…… 목숨이 다할 때까지 진심을 다할 것을 맹세합니까?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "はい、誓います"
+translation = "네, 맹세합니다."
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「新婦ジュエリー・ブラウン。あなたは緋宮クロトを夫とし、健やかなる時も病める時も、富める時も貧しき時も……」"
+translation = "「신부 주얼리 브라운. 당신은 히노미야 쿠로토를 남편으로 맞이하여, 건강할 때나 아플 때나, 부유할 때나 가난할 때나……」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「彼を愛し、慈しみ、共に助け合い……命の限り真心を尽くすことを誓いますか？」"
+translation = "「그를 사랑하고 아끼며, 서로 도우며…… 목숨이 다할 때까지 진심을 다할 것을 맹세합니까?」"
+
+[[dialogue]]
+speaker = "ジュエリー"
+original = "「ああ、もちろん誓うとも」"
+translation = "「아아, 물론 맹세하고말고.」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「では……誓いの口付けを……」"
+translation = "「그럼…… 맹세의 입맞춤을……」"
+
+[[dialogue]]
+speaker = "ジュエリー"
+original = "「では私はイレーナさんと反対の頬にさせてもらおうかな」"
+translation = "「그럼 나는 이레이나 양과는 반대쪽 뺨에 하도록 할까.」"
+
+[[dialogue]]
+speaker = "ジュエリー"
+original = "「愛しているよ、我が助手……」"
+translation = "「사랑하네, 나의 조수여……」"
+
+[[dialogue]]
+speaker = "ジュエリー"
+original = "「ちゅっ」"
+translation = "「쪽」"
+
+[[dialogue]]
+speaker = "unk"
+original = "そして俺もジュエリーの頬にキスをする。"
+translation = "그리고 나도 주얼리의 뺨에 키스한다."
+
+[[dialogue]]
+speaker = "ジュエリー"
+original = "「ふふ。ふりとはいえ、キミにキスされると嬉しいね。我が愛しの助手」"
+translation = "「후후. 흉내라고는 해도 자네에게 키스 받으니 기쁘군그래. 사랑스러운 나의 조수여.」"
+
+[[dialogue]]
+speaker = "イレーナ"
+original = "「ウェディングドレスが……」"
+translation = "「웨딩드레스가……」"
+
+[[dialogue]]
+speaker = "ジュエリー"
+original = "「元に戻った。どうやら成功のようだね」"
+translation = "「원래대로 돌아왔군. 아무래도 성공한 모양이야.」"
+
+[[dialogue]]
+speaker = "イレーナ"
+original = "「ホッとしました……。会長さん、ご協力ありがとうございます」"
+translation = "「안심했어요……. 회장님, 협력해 주셔서 감사해요.」"
+
+[[dialogue]]
+speaker = "unk"
+original = "どういたしまして"
+translation = "천만에."
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「イレーナさん、ジュエリーさん、本当にごめんなさい」"
+translation = "「이레이나 씨, 주얼리 씨, 정말로 죄송해요.」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「元はと言えば、ウェディング因子は私が生み出してしまったものです。そのせいでご迷惑をおかけしてしまって……」"
+translation = "「원래대로라면 웨딩 인자는 제가 만들어내 버린 것이니까요. 그 탓에 폐를 끼쳐버려서……」"
+
+[[dialogue]]
+speaker = "ジュエリー"
+original = "「ふふ、むしろ愛しの助手と睦まじい時間を過ごせて感謝したいくらいさ。そうだろう、イレーナさん？」"
+translation = "「후후, 오히려 사랑스러운 조수와 화목한 시간을 보낼 수 있어서 감사하고 싶을 정도라네. 그렇지 않나, 이레이나 양?」"
+
+[[dialogue]]
+speaker = "イレーナ"
+original = "「ひゃいっ！？」"
+translation = "「햣!?」"
+
+[[dialogue]]
+speaker = "イレーナ"
+original = "（ちょっ……！？\u3000あたしも一緒にしないでよ！）"
+translation = "（잠깐……!? 나까지 싸잡지 말라구!）"
+
+[[dialogue]]
+speaker = "イレーナ"
+original = "（そりゃ……まあ……花嫁修業とか、何だかんだ楽しかったし……キスとか……ちょっとドキドキしたけど……）"
+translation = "（그거야…… 뭐…… 신부 수업 같은 거, 이러니저러니 해도 즐거웠고…… 키스라든가…… 조금 두근거렸지만……）"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「イレーナさん？」"
+translation = "「이레이나 씨?」"
+
+[[dialogue]]
+speaker = "イレーナ"
+original = "「あ……そ、そうですね。貴重な体験をさせていただききました」"
+translation = "「아…… 그, 그렇네요. 귀중한 체험을 했어요.」"
+
+[[dialogue]]
+speaker = "ジュエリー"
+original = "「ふふ……でも正直に言うとね、イレーナさんが助手の頬にキスした時、内心ではハラハラしていたよ」"
+translation = "「후후…… 하지만 솔직히 말하자면 말이야, 이레이나 양이 조수의 뺨에 키스했을 때 내심 조마조마했다네.」"
+
+[[dialogue]]
+speaker = "イレーナ"
+original = "「そうなんですか？」"
+translation = "「그랬나요?」"
+
+[[dialogue]]
+speaker = "ジュエリー"
+original = "「キミが素敵な花嫁だったからね。もしかしたら助手の心を奪われてしまうのではないかと心配になったんだ」"
+translation = "「자네가 멋진 신부였으니까 말이야. 혹시나 조수의 마음을 빼앗겨 버리는 건 아닐까 걱정이 됐다네.」"
+
+[[dialogue]]
+speaker = "イレーナ"
+original = "「ジュエリーさんは確か、会長さんは最終的に自分の隣に戻ってくると信じている……とおっしゃっていたような？」"
+translation = "「주얼리 씨는 분명, 회장님은 최종적으로 자신의 곁으로 돌아올 거라고 믿고 있다……고 말씀하셨던 것 같은데요?」"
+
+[[dialogue]]
+speaker = "ジュエリー"
+original = "「ライバルを前にうろたえる姿を見せたくないじゃないか……あれは私なりの精一杯の強がりだよ」"
+translation = "「라이벌 앞에서 당황하는 모습을 보여주고 싶지 않지 않은가…… 그건 나 나름대로의 한계까지 짜낸 허세라네.」"
+
+[[dialogue]]
+speaker = "ジュエリー"
+original = "「しかし、愛しの助手よ。私はここに改めて誓うよ。花嫁としてより精進し、キミのためにキミだけの最高の花嫁になってみせるとね」"
+translation = "「하지만, 사랑스러운 조수여. 나는 여기서 다시 한번 맹세하겠네. 신부로서 더욱 정진하여, 자네를 위해 자네만의 최고의 신부가 되어 보이겠다고 말이야.」"
+
+[[dialogue]]
+speaker = "イレーナ"
+original = "「そうですね。私も本当の結婚の時は、花嫁に相応しい女性でありたいものです」"
+translation = "「그렇네요. 저도 진짜 결혼을 할 때는 신부에 어울리는 여성이 되고 싶은 법이죠.」"
+
+[[dialogue]]
+speaker = "イレーナ"
+original = "「はぁ……本っ当に大変だったわ……花嫁なんてもうコリゴリよ……」"
+translation = "「하아…… 정~말로 힘들었어…… 신부 같은 건 이제 지긋지긋해……」"
+
+[[dialogue]]
+speaker = "unk"
+original = "結婚式が終わり大聖堂に戻ってきて、ようやく緊張を緩めるイレーナ。"
+translation = "결혼식이 끝나고 대성당으로 돌아와서 겨우 긴장을 푸는 이레이나."
+
+[[dialogue]]
+speaker = "ジュエリー"
+original = "「おや、では助手は私が貰っていってもいいのかな？」"
+translation = "「오야, 그럼 조수는 내가 데려가도 괜찮은 건가?」"
+
+[[dialogue]]
+speaker = "イレーナ"
+original = "「う……そういう意味じゃないけど……」"
+translation = "「우…… 그런 뜻은 아니지만……」"
+
+[[dialogue]]
+speaker = "ジュエリー"
+original = "「ほほう……では、助手を巡る花嫁対決から降りるつもりはない、ということだね？」"
+translation = "「호오…… 그럼 조수를 둘러싼 신부 대결에서 물러날 생각은 없다는 뜻이군?」"
+
+[[dialogue]]
+speaker = "イレーナ"
+original = "「べ、別にあいつのことはどうだっていいけど、花嫁対決に負けるのは嫌だし……」"
+translation = "「벼, 별로 저 녀석은 어떻게 되든 상관없지만, 신부 대결에서 지는 건 싫으니까……」"
+
+[[dialogue]]
+speaker = "ジュエリー"
+original = "「素直じゃないね……まあ、今はそういう事にしておいてあげよう」"
+translation = "「솔직하지 못하군…… 뭐, 지금은 그런 걸로 해 두도록 하지.」"
+
+[[dialogue]]
+speaker = "ジュエリー"
+original = "「ところでイレーナさん。事件もひと段落したことだし……ここらでひと勝負といかないかい？」"
+translation = "「그런데 이레이나 양. 사건도 일단락됐으니…… 여기서 한 판 승부해보지 않겠나?」"
+
+[[dialogue]]
+speaker = "イレーナ"
+original = "「そうね、１ラウンドずつ取ったところで中断になっちゃったし。今度は最初から全力で行くわよ」"
+translation = "「그러네, 1라운드씩 따낸 상태에서 중단되어 버렸으니까. 이번엔 처음부터 전력으로 가겠어.」"
+
+[[dialogue]]
+speaker = "ジュエリー"
+original = "「望むところだ」"
+translation = "「바라던 바다.」"
+
+[[dialogue]]
+speaker = "unk"
+original = "どこでやるの？"
+translation = "어디서 하게?"
+
+[[dialogue]]
+speaker = "unk"
+original = "対決はいいんだけど……"
+translation = "대결은 좋은데……"
+
+[[dialogue]]
+speaker = "ジュエリー"
+original = "「言うまでもないだろう？」"
+translation = "「말할 것도 없지 않은가?」"
+
+[[dialogue]]
+speaker = "イレーナ"
+original = "「あんたの部屋に決まってるでしょ。素のあたしで対戦できるところなんてあそこしかないんだから」"
+translation = "「네 방으로 정해져 있잖아. 본래의 나로 대전할 수 있는 곳은 거기밖에 없으니까.」"
+
+[[dialogue]]
+speaker = "イレーナ"
+original = "「妻の趣味には付き合うものよ。ね、旦那様？」"
+translation = "「아내의 취미에는 어울려주는 법이야. 그치, 여보?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "それから夜遅くまで、２人の花嫁の戦いで白熱したのだった。"
+translation = "그 후 밤늦게까지 두 신부의 싸움으로 열기가 뜨거웠다."
+

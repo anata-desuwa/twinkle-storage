@@ -1,0 +1,815 @@
+[[dialogue]]
+speaker = "unk"
+original = "第６話,魔王の力,B"
+translation = "제6화, 마왕의 힘, B"
+
+[[dialogue]]
+speaker = "unk"
+original = "アポロとルリエルは一時流星学園を離れ、負傷した星騎士たちの撤退支援を行っていたが――"
+translation = "아폴로와 루리앨은 일시적으로 유성학원을 떠나, 부상당한 성기사들의 철수 지원을 수행하고 있었지만――"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「ヒーローはっ……決して諦めない！\u3000――はああぁっ！！」"
+translation = "「히어로는…… 결코 포기하지 않아! ――하아아앗!!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "傷ついた星騎士を庇い、<ruby>殿<rt>しんがり</rt></ruby>を務めながら流星学園へと撤退していくアポロたち。"
+translation = "상처 입은 성기사를 감싸며, 후방 방어를 맡아 유성학원으로 철수해 가는 아폴로 일행."
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「はぁ……はぁ……！」"
+translation = "「하아…… 하아……!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "アポロは魔王の力を使って敵を次々と撃破するが、連戦の消耗は激しく、成長の遅れたアポロの体には大きな負荷をかけていた。"
+translation = "아폴로는 마왕의 힘을 사용하여 적을 차례차례 격파하지만, 연전의 소모는 격렬했고, 성장이 늦은 아폴로의 몸에는 큰 부하를 주고 있었다."
+
+[[dialogue]]
+speaker = "アポロ"
+original = "（選管のみんなは無事か！？\u3000ナターシャはともかく、梨緒は危なっかしいしベアトはドジだし、心配になるぞ……）"
+translation = "(선관 애들은 무사할까!? 나타샤는 그렇다 치고, 리오는 위태위태하고 베아토는 덜렁대니까 걱정된다고……)"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "（つっても、こっちもこっちで向こうに合流する余裕はないけどな……）"
+translation = "(그렇다 해도, 이쪽도 이쪽대로 저쪽에 합류할 여유는 없지만 말이야……)"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「アポロさん、大丈夫ですか！？」"
+translation = "「아폴로 씨, 괜찮으세요!?」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「ああ、これくらいヒーローなら平気だ、ルリ！\u3000オマエこそ大丈夫か？」"
+translation = "「아아, 이 정도는 히어로라면 아무렇지도 않아, 루리! 너야말로 괜찮아?」"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「ルリエルはもうヘトヘトのくたくたなのですよ～……」"
+translation = "「루리앨은 이제 헤롱헤롱에 녹초가 된 거예요~……」"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「――でも、負けません！\u3000わたしたちの学園も、星騎士も、絶対に守ってみせます！」"
+translation = "「――하지만, 지지 않아요! 우리 학원도, 성기사도, 절대로 지켜내 보이겠어요!」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「ああ、その意気だ！\u3000また来るぞ！」"
+translation = "「아아, 그 기세다! 또 온다!」"
+
+[[dialogue]]
+speaker = "マキナ・スクアルス"
+original = "「シャーーッ！！」"
+translation = "「샤아앗!!」"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「こっちめがけて高速で突っ込んでくるのですーーっ！？」"
+translation = "「이쪽을 향해 고속으로 돌진해 오는 거예요――!?」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「一刀爆散！\u3000メテオライト――キャリバー！！」"
+translation = "「일도폭산! 메테오라이트――캘리버!!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "大剣がモンスターを真一文字に切り裂き、さながらヒーローに敗れた怪獣のごとく、敵が閃光とともに爆散した。"
+translation = "대검이 몬스터를 일직선으로 베어 넘겼고, 마치 히어로에게 패배한 괴수처럼 적이 섬광과 함께 폭산했다."
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「た、助かりました！\u3000ありがとうございます、アポロさん！」"
+translation = "「사, 살았습니다! 감사합니다, 아폴로 씨!」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「背中は任せておけ！\u3000だけど、ガーディアンもモンスターも、あとどんだけいるんだ……？」"
+translation = "「등 뒤는 맡겨둬! 그건 그렇고, 가디언이랑 몬스터가 대체 얼마나 더 있는 거야……?」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "（敵がたくさんいて……フィヴォス流星群の時を思い出すな）"
+translation = "(적이 잔뜩 있어서…… 피보스 유성우 때가 생각나네)"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "（まぁあたしは、流星群を起こす側だったんだけど……あの時、操られていたとは言え、あたしは本気で流星市国を、世界を滅ぼそうとしてた）"
+translation = "(뭐, 나는 유성우를 일으키는 쪽이었지만…… 그때, 조종당하고 있었다고는 해도, 나는 진심으로 유성시국을, 세계를 멸망시키려 했어)"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "（だけど今度は、あたしが世界を守るんだ……！\u3000そうじゃなきゃみんなに……エリシアに顔向けできない！）"
+translation = "(하지만 이번에는 내가 세계를 지키는 거야……! 그러지 않으면 모두에게…… 엘리시아에게 얼굴을 들 수 없어!)"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「来い！\u3000平和を脅かす悪党共！\u3000この流星ライダーアポロが、いくらでも相手になってやる！！」"
+translation = "「와라! 평화를 위협하는 악당 놈들! 이 유성 라이더 아폴로가 얼마든지 상대해 주마!!」"
+
+[[dialogue]]
+speaker = "ドラケルス"
+original = "「グルルゥ！」"
+translation = "「그르르!」"
+
+[[dialogue]]
+speaker = "スレイプニル"
+original = "「ブルル……！」"
+translation = "「부르르……!」"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「！？\u3000敵性反応、増援多数なのです──！？」"
+translation = "「!? 적성 반응, 증원 다수인 거예요──!?」"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「周辺のモンスター及びガーディアンの数……１００……３００……５００体以上！？\u3000１体ずつでも大変なのに、そんな大群とても相手しきれませんよぉ！？」"
+translation = "「주변의 몬스터 및 가디언의 수…… 100…… 300…… 500체 이상!? 한 마리씩 상대하기도 힘든데, 그런 대군은 도저히 감당할 수 없어요!」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「５００……！」"
+translation = "「500……!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "アポロの指は疲労に震え、すでに剣を握るのもやっとの状態だった。"
+translation = "아폴로의 손가락은 피로로 떨렸고, 이미 검을 쥐는 것조차 겨우인 상태였다."
+
+[[dialogue]]
+speaker = "unk"
+original = "それでも――"
+translation = "그럼에도――"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「……上等だ！\u3000逆境で強くなるヒーローの底力を見せてやる！」"
+translation = "「……좋아! 역경에서 강해지는 히어로의 저력을 보여주마!」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「決して消えぬ星の輝きを恐れぬならば――全員まとめて、かかって来やがれ！！」"
+translation = "「결코 꺼지지 않는 별의 광휘를 두려워하지 않는다면―― 전부 한꺼번에 덤벼라!!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "アポロは剣を力の限り握って、ルリエルと背中合わせに、一斉に襲い来る大群に立ち向かう──！"
+translation = "아폴로는 검을 힘껏 쥐고, 루리앨과 등을 맞댄 채 일제히 습격해 오는 대군에 맞선다──!"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「うおおおぉぉ――ッ！！！」"
+translation = "「우오오오오――앗!!!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "アポロが限界を超えて星力を絞り出し、敵を一撃の元に次々と斬り裂いていく。"
+translation = "아폴로가 한계를 넘어 성력을 짜내어, 적을 일격에 차례차례 베어 넘긴다."
+
+[[dialogue]]
+speaker = "unk"
+original = "もはや技ではなく気合いそのもので全力斬りを繰り出し続け、襲い来る大群を捌き続ける。"
+translation = "더 이상 기술이 아니라 기합 그 자체로 전력 베기를 계속 내질러, 습격해 오는 대군을 계속 쳐낸다."
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「アポロさん……！\u3000だったら、わたしも火事場の底力なのです！\u3000――グリスターウェーブ！！」"
+translation = "「아폴로 씨……! 그렇다면 저도 위기 상황의 저력인 거예요! ――글리스터 웨이브!!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ルリエルの奥の手である、角笛を砲身としてビームを撃ち出す星術。"
+translation = "루리앨의 비장의 수인, 뿔나팔을 포신으로 삼아 빔을 쏘아내는 성술."
+
+[[dialogue]]
+speaker = "unk"
+original = "その威力はアポロの斬撃とは比べるべくもないが、密集して押し寄せる敵の足を止めさせ、よろめいた個体を吹き飛ばすことには成功した。"
+translation = "그 위력은 아폴로의 참격과는 비교할 바가 못 되지만, 밀집해서 몰려오는 적의 발을 묶고, 비틀거리는 개체들을 날려버리는 데는 성공했다."
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「ルリもやるじゃんか！\u3000その調子でじゃんじゃん撃ちまくれ！！」"
+translation = "「루리도 제법이잖아! 그 기세로 팍팍 쏴버려!!」"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「はい！\u3000やってやりますよぉ――ッ！！」"
+translation = "「네! 해내 보이겠어요――앗!!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "……それから、どれだけ時間が経っただろうか。"
+translation = "……그로부터 얼마나 시간이 흘렀을까."
+
+[[dialogue]]
+speaker = "ドラケルス"
+original = "「グルルオォ――ッ！」"
+translation = "「그르르오오――앗!」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「ぐあぁっ！？」"
+translation = "「구앗!?」"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「アポロさん！\u3000――きゃあぁっ！？」"
+translation = "「아폴로 씨! ――꺄앗!?」"
+
+[[dialogue]]
+speaker = "スレイプニル"
+original = "「ヒヒィンッ！」"
+translation = "「히히잉!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "２人の限界を超えた死闘によって、倒した敵の数は３０体を超えていた。"
+translation = "두 사람의 한계를 넘은 사투로 인해 쓰러뜨린 적의 수는 30체를 넘고 있었다."
+
+[[dialogue]]
+speaker = "unk"
+original = "しかし、多勢に無勢。絶え間なく襲い来る圧倒的な物量によって、アポロとルリエルは何度もダメージを受け、すでに意識を保つことすらギリギリの所まで追い詰められていた。"
+translation = "하지만 중과부적. 끊임없이 습격해 오는 압도적인 물량에 의해 아폴로와 루리앨은 몇 번이고 대미지를 입었고, 이미 의식을 유지하는 것조차 간당간당한 곳까지 내몰려 있었다."
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「はぁ、はぁ、はぁ……」"
+translation = "「하아, 하아, 하아……」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「ルリ、敵はあと何体残ってる……？」"
+translation = "「루리, 적은 이제 몇 마리 남았어……?」"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「はぁ……はぁ……。４００体以上、なのです……」"
+translation = "「하아…… 하아……. 400체 이상인 거예요……」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「…………そうか。なら、仕方ない、な」"
+translation = "「…………그래. 그렇다면 어쩔 수 없지」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「ルリ。オマエ――ここから全力で逃げろ」"
+translation = "「루리. 너―― 여기서 전력으로 도망쳐」"
+
+[[dialogue]]
+speaker = "unk"
+original = "敵の攻撃を剣で弾きながら、アポロは告げる。"
+translation = "적의 공격을 검으로 튕겨내며 아폴로가 고한다."
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「は？\u3000何を……何を言ってるのですか、アポロさん！？」"
+translation = "「네? 무슨…… 무슨 소리를 하는 건가요, 아폴로 씨!?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ルリエルは地面に片膝を着いて、息絶え絶えに角笛を吹きながら、聞き返す。"
+translation = "루리앨은 지면에 한쪽 무릎을 꿇고, 숨을 헐떡이며 뿔나팔을 불다 되묻는다."
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「他のみんながどこまで避難できたかは分からない。だけど、やれるだけはやった」"
+translation = "「다른 사람들이 어디까지 피난했는지는 모르겠어. 하지만 할 수 있는 만큼은 했어」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「だから、ルリ。オマエももう撤退しろ。あたしがオマエの逃げる時間を、敵の首に食らいついてでも稼いでやる」"
+translation = "「그러니까 루리. 너도 이제 철수해. 내가 네가 도망칠 시간을, 적의 목덜미를 물고 늘어져서라도 벌어줄게」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「それが……あたしにできる最後の罪滅ぼしだ」"
+translation = "「이게…… 내가 할 수 있는 마지막 속죄야」"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「嫌なのです！」"
+translation = "「싫은 거예요!」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「え？」"
+translation = "「에?」"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「わたしは、アポロさんを置いて逃げたりしません！\u3000フィオナ会長は、アポロさんを助けることを諦めませんでした！」"
+translation = "「저는 아폴로 씨를 두고 도망치지 않아요! 피오나 회장님은 아폴로 씨를 구하는 것을 포기하지 않았어요!」"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「だからわたしも、最後まで絶対に諦めたりしないのです！」"
+translation = "「그러니까 저도 마지막까지 절대로 포기하지 않는 거예요!」"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「それに……ルリエルはこう見えても、星力総量だけは流星星徒会で１番なのです！」"
+translation = "「게다가…… 루리앨은 이래 봬도 성력 총량만큼은 유성성도회에서 1등인 거예요!」"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「やるしかないのなら……ルリエルはあと４００発、敵を倒しきるまで角笛ビームを撃ち込んでやりますよぉ――ッ！！」"
+translation = "「할 수밖에 없다면…… 루리앨은 앞으로 400발, 적을 다 쓰러뜨릴 때까지 뿔나팔 빔을 쏴주겠어요――앗!!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ふらつく足で気丈に立ち上がり、声を上げるルリエル。"
+translation = "비틀거리는 다리로 꿋꿋하게 일어서며 소리치는 루리앨."
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「ルリ、オマエ……！」"
+translation = "「루리, 너……!」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「ああ……忘れてたよ。オマエもあの時、フィオナと一緒にあたしを救いに来てくれたヒーローだったんだよな」"
+translation = "「아아…… 잊고 있었어. 너도 그때, 피오나와 함께 나를 구하러 와줬던 히어로였지」"
+
+[[dialogue]]
+speaker = "unk"
+original = "と、アポロがルリエルの体を突き飛ばす。"
+translation = "그때, 아폴로가 루리앨의 몸을 밀쳐낸다."
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「アポロさんッ！？」"
+translation = "「아폴로 씨!?」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「だから、後は託すぜ、あたしのヒーロー」"
+translation = "「그러니까 뒷일은 맡길게, 나의 히어로」"
+
+[[dialogue]]
+speaker = "unk"
+original = "アポロはわかってしまった。満身創痍で立ち上がったルリエルの背後に、敵の攻撃が迫っていることが。"
+translation = "아폴로는 알고 말았다. 만신창이로 일어선 루리앨의 등 뒤로 적의 공격이 육박하고 있다는 것을."
+
+[[dialogue]]
+speaker = "unk"
+original = "そして、その攻撃は、今の自分に残された力では防ぎ切れないことも。"
+translation = "그리고 그 공격은 지금의 자신에게 남겨진 힘으로는 막아낼 수 없다는 것도."
+
+[[dialogue]]
+speaker = "アポロ"
+original = "（悪い、エリシア。後は頼んだ）"
+translation = "(미안, 엘리시아. 나머지는 부탁할게)"
+
+[[dialogue]]
+speaker = "unk"
+original = "もう１人のヒーローである妹へ、想いを馳せる。"
+translation = "또 한 명의 히어로인 동생을 떠올린다."
+
+[[dialogue]]
+speaker = "マキナ・スクアルス"
+original = "「シャアァ―――ッ！！！」"
+translation = "「샤아아아――앗!!!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "と、その時だった。"
+translation = "그때였다."
+
+[[dialogue]]
+speaker = "？？？"
+original = "「待たせてごめんなさい、姉さん！！」"
+translation = "「기다리게 해서 미안해요, 언니!!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "直径数十メートルの灼熱の光球──小さな太陽が、周囲十数体の極星従騎たちを呑み込み、欠片も残らないほどに焼き尽くした。"
+translation = "직경 수십 미터의 작열하는 광구── 작은 태양이 주변 수십 체의 극성종기들을 집어삼켰고, 파편조차 남지 않을 정도로 태워버렸다."
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「これは、まさか……！？」"
+translation = "「이건, 설마……!?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "そして――"
+translation = "그리고――"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「流星学園星徒会長、星見フィオナ。ただいま戻りました」"
+translation = "「유성학원 성도회장, 호시미 피오나. 지금 돌아왔습니다.」"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「ふぃ、フィオナ会長～～～～っ！！」"
+translation = "「피, 피오나 회장님~~~~앗!!」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「エリシア！\u3000魔界での戦いは終わったのか……！？」"
+translation = "「엘리시아! 마계에서의 싸움은 끝난 거야……!?」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「ええ。正直、何度死ぬと思ったかわかりませんが、それでもなんとか邪竜を討ち取ることができました」"
+translation = "「네. 솔직히 몇 번이나 죽을 줄 알았는지 모르겠지만, 그래도 어떻게든 사룡을 토벌할 수 있었습니다.」"
+
+[[dialogue]]
+speaker = "unk"
+original = "森羅暦以前の歴史──リクリエによってリセットされる前の世界を滅ぼした煌竜ヴィライア。"
+translation = "삼라력 이전의 역사── 리크리에에 의해 리셋되기 전의 세계를 멸망시켰던 황룡 비라이아."
+
+[[dialogue]]
+speaker = "unk"
+original = "それと同等の存在がついに森羅暦にも現れ、フィオナは魔女と共にそれと戦っていたのだ。"
+translation = "그것과 동등한 존재가 마침내 삼라력에도 나타났고, 피오나는 마녀와 함께 그것과 싸우고 있었던 것이다."
+
+[[dialogue]]
+speaker = "ドラケルス"
+original = "「グルルァ……！」"
+translation = "「그르르아……!」"
+
+[[dialogue]]
+speaker = "スレイプニル"
+original = "「ヒヒィン！」"
+translation = "「히히잉!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "次々と押し寄せてくる機械型モンスターと極星従騎が、新しく現れたフィオナを敵と認識し、一斉に敵意を向ける。"
+translation = "차례차례 몰려오는 기계형 몬스터와 극성종기가 새로 나타난 피오나를 적이라 인식하고, 일제히 적의를 향한다."
+
+[[dialogue]]
+speaker = "unk"
+original = "そしてモンスターの炎が、ガーディアンの剣が、フィオナに殺到する──！"
+translation = "그리고 몬스터의 화염이, 가디언의 검이 피오나에게 쇄도한다──!"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「マズい！\u3000エリシアっ！！」"
+translation = "「위험해! 엘리시아!!」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「大丈夫です、姉さん」"
+translation = "「괜찮아요, 언니.」"
+
+[[dialogue]]
+speaker = "unk"
+original = "アポロの耳に、凛とした澄んだ声が響く。"
+translation = "아폴로의 귀에 늠름하고 맑은 목소리가 울린다."
+
+[[dialogue]]
+speaker = "unk"
+original = "それは落ち着いていて、しかし力強く――"
+translation = "그것은 차분하면서도 힘차게――"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「『アルケインソーラーブレイズ』！」"
+translation = "「『아르케인 솔라 블레이즈』!」"
+
+[[dialogue]]
+speaker = "フィオナ（魔王）"
+original = "「これが――邪竜を討ち取った魔王の新たな力です」"
+translation = "「이것이―― 사룡을 토벌한 마왕의 새로운 힘입니다.」"
+
+[[dialogue]]
+speaker = "unk"
+original = "フィオナが変身するのと同時に、殺到していた攻撃は何事もなかったかのように収まり、それどころか攻撃を仕掛けた敵さえも一瞬で<b>消え去っていた</b>。"
+translation = "피오나가 변신함과 동시에 쇄도하던 공격은 아무 일도 없었다는 듯이 잦아들었고, 오히려 공격을 시도한 적들조차 순식간에 <b>사라져</b> <b>있었다</b>."
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「エリシア……オマエ、その姿……！」"
+translation = "「엘리시아…… 너, 그 모습……!」"
+
+[[dialogue]]
+speaker = "フィオナ（魔王）"
+original = "「今までの私の力では、<b>万全の状態</b>で現れたヴィライアは倒せませんでした。ですから魔界に隠されていたアルケインコードを手に入れたんです」"
+translation = "「지금까지의 제 힘으로는 <b>만전의</b> <b>상태</b>로 나타난 비라이아를 쓰러뜨릴 수 없었습니다. 그래서 마계에 숨겨져 있던 아르케인 코드를 손에 넣었어요.」"
+
+[[dialogue]]
+speaker = "フィオナ（魔王）"
+original = "「新たなコードの名は──アルケインソーラーブレイズ」"
+translation = "「새로운 코드의 이름은── 아르케인 솔라 블레이즈.」"
+
+[[dialogue]]
+speaker = "フィオナ（魔王）"
+original = "「その力で私の中の魔王因子を活性化させることで、この姿――『魔王フォーム』に至ったんです」"
+translation = "「그 힘으로 제 안의 마왕 인자를 활성화시킴으로써, 이 모습―― 『마왕 폼』에 도달한 것입니다.」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「め、滅茶苦茶かっこいいぃ～～～っ！！！」"
+translation = "「워, 엄청나게 멋있어~~~!!!」"
+
+[[dialogue]]
+speaker = "フィオナ（魔王）"
+original = "「そ、そうですか？\u3000ちょっと……というか、かなり大胆なような……」"
+translation = "「그, 그런가요? 조금…… 아니, 꽤 대담한 것 같은데……」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「いや、いいじゃんか！\u3000魔王らしく程良くブラックテイストで、ワイルドだぞ！？\u3000角もすげぇ強そうだし！！」"
+translation = "「아니, 좋잖아! 마왕답게 적당히 블랙 테이스트에 와일드하다고!? 뿔도 엄청 강해 보이고!!」"
+
+[[dialogue]]
+speaker = "フィオナ（魔王）"
+original = "「この角は……ラクシスに流れていた魔族の血が目覚めたんでしょうか？\u3000正直まだ慣れてなくて、少しくすぐったいです……」"
+translation = "「이 뿔은…… 락시스에게 흐르던 마족의 피가 깨어난 걸까요? 솔직히 아직 익숙하지 않아서 조금 간지러워요……」"
+
+[[dialogue]]
+speaker = "unk"
+original = "<ruby>緋<rt>あか</rt></ruby>い目が覚醒した魔王の証。"
+translation = "붉은 눈이 각성한 마왕의 증거."
+
+[[dialogue]]
+speaker = "unk"
+original = "モンスターとガーディアンの猛攻を浴びようとも傷ひとつなく、力が燃えるように滾る。"
+translation = "몬스터와 가디언의 맹공을 받아도 상처 하나 없이, 힘이 타오르듯 끓어오른다."
+
+[[dialogue]]
+speaker = "マキナ・スクアルス"
+original = "「シャアァーーッ！！」"
+translation = "「샤아아앗!!」"
+
+[[dialogue]]
+speaker = "スレイプニル"
+original = "「ヒヒィンッ！！」"
+translation = "「히히잉!!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "だが、その炎を吹き消さんと、先程よりも更に多くの極星従騎たちが攻撃を仕掛けて来る。"
+translation = "하지만 그 불꽃을 불어 끄려는 듯, 아까보다 훨씬 더 많은 극성종기들이 공격을 시도해 온다."
+
+[[dialogue]]
+speaker = "フィオナ（魔王）"
+original = "「……久しぶりの流星市国ですが、帰郷を喜んでいる場合ではありませんね。早急に敵を倒し、流星学園に戻りましょう」"
+translation = "「……오랜만의 유성시국입니다만, 귀향을 기뻐하고 있을 상황은 아니군요. 조속히 적을 쓰러뜨리고 유성학원으로 돌아가죠.」"
+
+[[dialogue]]
+speaker = "unk"
+original = "フィオナは敵に向けて、手の平をかざして。"
+translation = "피오나는 적을 향해 손바닥을 내밀고."
+
+[[dialogue]]
+speaker = "フィオナ（魔王）"
+original = "「プロミネンスシェード！」"
+translation = "「프로미넌스 셰이드!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "その技を口にすると同時に、フィオナの体から闇色の炎が湧き上がり、太陽のごとく吹き荒れる。"
+translation = "그 기술을 입에 담음과 동시에 피오나의 몸에서 어둠 빛의 불꽃이 솟구쳐 올라, 태양처럼 휘몰아친다."
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「おおぉっ！？」"
+translation = "「오오옷!?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "炎は近くにいたアポロやルリエルも巻き込むが……"
+translation = "불꽃은 근처에 있던 아폴로나 루리앨도 휘말리게 하지만……"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「あれ！？\u3000温かいですけど、熱くないのです！？」"
+translation = "「어라!? 따뜻하긴 한데 뜨겁지 않은 거예요!?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "その一方で、その炎に包まれた敵は――"
+translation = "그 반면, 그 불꽃에 휩싸인 적은――"
+
+[[dialogue]]
+speaker = "スレイプニル"
+original = "「ヒヒィィィィンッ！！」"
+translation = "「히히이이이잉!!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "瞬く間に灰のようになって、次々と消滅していく。"
+translation = "순식간에 재처럼 되어 차례차례 소멸해 간다."
+
+[[dialogue]]
+speaker = "unk"
+original = "ならばと敵が遠距離から攻撃を一斉に放って来るが──"
+translation = "그러자 적들이 원거리에서 공격을 일제히 퍼붓지만──"
+
+[[dialogue]]
+speaker = "フィオナ（魔王）"
+original = "「無駄です」"
+translation = "「무의미합니다.」"
+
+[[dialogue]]
+speaker = "unk"
+original = "その攻撃さえも、フィオナが火の粉を払うように手を振ると、<b>蒸発するように</b>消えてしまう。"
+translation = "그 공격조차 피오나가 불똥을 털어내듯 손을 휘두르자 <b>증발하듯이</b> 사라져 버린다."
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「全部防いでる……！？\u3000いや、もしかして燃やしてるのか！？」"
+translation = "「전부 막고 있어……!? 아니, 설마 태워버리는 건가!?」"
+
+[[dialogue]]
+speaker = "フィオナ（魔王）"
+original = "「はい。善を守り、悪しきを浄化する太陽の炎。こちらに敵意をぶつけてくるものを捕捉し、焼き尽くします」"
+translation = "「네. 선을 지키고 악한 것을 정화하는 태양의 불꽃. 이쪽에 적의를 부딪쳐 오는 것을 포착해 불태워버립니다.」"
+
+[[dialogue]]
+speaker = "フィオナ（魔王）"
+original = "「そしてその対象は、物理的なものだけではなく、能力や概念にまで及ぶ。私自身を太陽そのものと規定し、『近づこうとする万象一切を灰燼に帰す』」"
+translation = "「그리고 그 대상은 물리적인 것뿐만 아니라 능력이나 개념에까지 미치죠. 저 자신을 태양 그 자체로 규정하여, 『가까이 오려는 만상일체를 회진으로 되돌린다』.」"
+
+[[dialogue]]
+speaker = "unk"
+original = "フィオナの手の中に小さな炎が浮かび上がる。"
+translation = "피오나의 손안에 작은 불꽃이 떠오른다."
+
+[[dialogue]]
+speaker = "フィオナ（魔王）"
+original = "「それが、魔王フォームで覚醒した私の新たな能力――『<ruby>事象滅却<rt>じしょうめっきゃく</rt></ruby>』です」"
+translation = "「이것이 마왕 폼으로 각성한 저의 새로운 능력―― 『사상멸각』입니다.」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「か、かっこいい……！！」"
+translation = "「머, 멋있어……!!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "フィオナの圧倒的な力を前に、極星従騎の軍勢が二の足を踏む。ここまでずっと、ガーディアンたちは数に物を言わせ、消耗戦を強いる戦術を用いて来た。"
+translation = "피오나의 압도적인 힘 앞에 극성종기의 군세가 주춤거린다. 지금까지 가디언들은 머릿수를 앞세워 소모전을 강요하는 전술을 사용해 왔다."
+
+[[dialogue]]
+speaker = "unk"
+original = "しかし、アポロとルリエルを背中で守るように立つフィオナを前にして、ついにジリジリと距離を計るような動きを取り始めた。"
+translation = "하지만 아폴로와 루리앨을 등 뒤에서 지키듯 서 있는 피오나 앞에서, 마침내 슬금슬금 거리를 재는 듯한 움직임을 보이기 시작했다."
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「アルケインコードってことは、魔王の力なんだよな？\u3000そんなのどこにあったんだ！？」"
+translation = "「아르케인 코드라는 건 마왕의 힘인 거지? 그런 게 어디에 있었던 거야!?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "アルケインコードは、先代の魔王ラクシスが遺した、魔王のみが使える秘術。"
+translation = "아르케인 코드는 선대 마왕 락시스가 남긴, 마왕만이 사용할 수 있는 비술."
+
+[[dialogue]]
+speaker = "unk"
+original = "マトイたちをノヴァフォームに覚醒させた『アルケインノヴァエクストリーム』もその１つだ。"
+translation = "마토이 일행을 노바 폼으로 각성시킨 『아르케인 노바 익스트림』도 그중 하나다."
+
+[[dialogue]]
+speaker = "フィオナ（魔王）"
+original = "「キュリオスの<ruby>メイプルさん<rt>モノクラウン家</rt></ruby>が伝承していたように、アルケインコードは世界に散らばっているようです」"
+translation = "「큐리오스의 메이플 씨가 전승하고 있었던 것처럼, 아르케인 코드는 세계에 흩어져 있는 모양입니다.」"
+
+[[dialogue]]
+speaker = "フィオナ（魔王）"
+original = "「ネビュラが見つけてくれたのですが、強力な魔獣が持つ秘宝にアルケインコードが刻まれていて……ヴィライアほどではないですが、その魔獣を倒すのも苦労しました」"
+translation = "「네뷸라가 찾아주었습니다만, 강력한 마수가 가진 비보에 아르케인 코드가 새겨져 있어서…… 비라이아 정도는 아니지만 그 마수를 쓰러뜨리는 것도 고생했어요.」"
+
+[[dialogue]]
+speaker = "unk"
+original = "襲い掛かるタイミングを計っている軍勢に目を配りながら、フィオナは先ほど生み出した手のひらの上の小さな炎を、徐々に上空へと持ち上げていく。"
+translation = "습격할 타이밍을 노리는 군세를 살피며, 피오나는 방금 만들어낸 손바닥 위의 작은 불꽃을 서서히 상공으로 들어 올린다."
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「秘宝は強～いボスが守ってるのがお決まりだもんな！\u3000魔王の力ってことは、あたしも使えるのか！？」"
+translation = "「비보는 강~한 보스가 지키고 있는 게 정석이지! 마왕의 힘이라는 건 나도 쓸 수 있는 거야!?」"
+
+[[dialogue]]
+speaker = "フィオナ（魔王）"
+original = "「このアルケインコードの能力は、魔王因子の活性化」"
+translation = "「이 아르케인 코드의 능력은 마왕 인자의 활성화.」"
+
+[[dialogue]]
+speaker = "フィオナ（魔王）"
+original = "「肉体に大きな負荷をかける代わりに、一時的に星力・魔力・霊力の燃焼効率を上昇させ、より強大な力を引き出します」"
+translation = "「육체에 큰 부하를 주는 대신, 일시적으로 성력·마력·영력의 연소 효율을 상승시켜 더욱 강대한 힘을 끌어냅니다.」"
+
+[[dialogue]]
+speaker = "フィオナ（魔王）"
+original = "「命に関わるほどではないですけど、やはり負担が大きいので、今の姉さんの体だと難しいかもしれません……」"
+translation = "「생명에 지장이 있을 정도는 아니지만 역시 부담이 크기에, 지금 언니의 몸으로는 어려울지도 몰라요……」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「あたしじゃ使えないのか～……」"
+translation = "「나는 못 쓰는 건가~……」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「だけど反動があるパワーアップとか、すげーかっこいいな！\u3000その分強いんだろ！」"
+translation = "「그치만 반동이 있는 파워 업이라니, 엄청 멋지네! 그만큼 강한 거겠지!」"
+
+[[dialogue]]
+speaker = "フィオナ（魔王）"
+original = "「はい、もちろん！\u3000邪竜を倒した力、お見せします！」"
+translation = "「네, 물론이죠! 사룡을 쓰러뜨린 힘, 보여드리겠습니다!」"
+
+[[dialogue]]
+speaker = "フィオナ（魔王）"
+original = "「このフォームは消耗が激しいので、短期決戦と行きましょう……大規模攻撃のための準備、整いました！」"
+translation = "「이 폼은 소모가 격렬하니 단기 결전으로 가죠…… 대규모 공격을 위한 준비, 끝났습니다!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "先程、フィオナが手の平に浮かべていた小さな炎。それは頭上へと昇りながら、段々と巨大な光球へと育っていた。"
+translation = "방금 피오나가 손바닥에 띄우고 있던 작은 불꽃. 그것은 머리 위로 솟아오르며 점점 거대한 광구로 자라나고 있었다."
+
+[[dialogue]]
+speaker = "unk"
+original = "それはさながら、流星市国に生まれた小さな太陽のように――"
+translation = "그것은 마치 유성시국에 태어난 작은 태양처럼――"
+
+[[dialogue]]
+speaker = "フィオナ（魔王）"
+original = "「悪しきを浄化せし、太陽の聖炎！」"
+translation = "「악한 것을 정화하는 태양의 성염!」"
+
+[[dialogue]]
+speaker = "フィオナ（魔王）"
+original = "「――ソルフレアバーストッ！！」"
+translation = "「――솔 플레어 버스트!!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "フィオナの詠唱すると同時に、光球が一気に膨れ上がり、周辺一帯を巻き込む程の大爆発を引き起こす。"
+translation = "피오나가 영창함과 동시에 광구가 단숨에 팽창하여 주변 일대를 휘말리게 할 정도의 대폭발을 일으킨다."
+
+[[dialogue]]
+speaker = "unk"
+original = "だがそれは、街に傷一つ付けることなく、敵だけをことごとく焼き尽くす劫火の奔流。"
+translation = "하지만 그것은 거리에 상처 하나 내지 않고 적들만을 모조리 태워버리는 업화의 분류."
+
+[[dialogue]]
+speaker = "スレイプニル"
+original = "「ッ――――！！」"
+translation = "「윽――――!!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "爆発が収まった後、周囲からは敵の気配が完全に消え去っていた。"
+translation = "폭발이 가라앉은 후, 주변에서는 적의 기척이 완전히 사라져 있었다."
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「す、すごいのです……！\u3000周辺の敵反応ゼロ！\u3000４００体以上残っていた敵を、まとめて全部倒しちゃったのです！」"
+translation = "「대, 대단한 거예요……! 주변 적 반응 제로! 400체 이상 남아있던 적을 한꺼번에 전부 쓰러뜨려 버린 거예요!」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「マジか！？\u3000これがフィオナの新しい魔王の力……！」"
+translation = "「진짜냐!? 이게 피오나의 새로운 마왕의 힘……!」"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「いえ～い♪\u3000フィオナ会長がいれば、流星星徒会は無敵なのです！」"
+translation = "「예이~♪ 피오나 회장님만 있으면 유성성도회는 무적인 거예요!」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「とりあえず……この場は切り抜けたみたいだな。おっと……」"
+translation = "「일단…… 이 자리는 벗어난 모양이네. 어라……」"
+
+[[dialogue]]
+speaker = "フィオナ（魔王）"
+original = "「姉さんっ」"
+translation = "「언니!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "緊張の糸が途切れ、倒れかかったアポロをフィオナが受け止める。"
+translation = "긴장의 끈이 풀려 쓰러지려 하는 아폴로를 피오나가 받아낸다."
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「へへ、悪い……星力を使い過ぎたみたいだ。しばらく動けそうにない……」"
+translation = "「헤헤, 미안…… 성력을 너무 많이 쓴 모양이야. 당분간 못 움직일 것 같아……」"
+
+[[dialogue]]
+speaker = "フィオナ（魔王）"
+original = "「大丈夫です。後は任せてください、姉さん」"
+translation = "「괜찮아요. 나머지는 제게 맡겨주세요, 언니.」"
+
+[[dialogue]]
+speaker = "unk"
+original = "そう言って、フィオナは力強い笑みを姉に見せるのだった――"
+translation = "그렇게 말하며 피오나는 힘찬 미소를 언니에게 보여주는 것이었다――"
+

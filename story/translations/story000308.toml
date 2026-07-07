@@ -1,0 +1,370 @@
+[[dialogue]]
+speaker = "セドナ"
+original = "「改めて評価するまでもないが、モンスターを戦力とする実験は失敗といっていいだろう」"
+translation = "「새삼스럽게 평가할 것도 없지만, 몬스터를 전력으로 삼는 실험은 실패라고 봐도 좋겠지.」"
+
+[[dialogue]]
+speaker = "セドナ"
+original = "「だがその過程は看過できないな。事情を整理するに──」"
+translation = "「하지만 그 과정은 간과할 수 없군. 사정을 정리하자면──」"
+
+[[dialogue]]
+speaker = "セドナ"
+original = "「ミスで実験対象のモンスターを逃がし」"
+translation = "「실수로 실험 대상인 몬스터를 놓치고,」"
+
+[[dialogue]]
+speaker = "ウェンディ"
+original = "「うっ」"
+translation = "「윽.」"
+
+[[dialogue]]
+speaker = "セドナ"
+original = "「それを私に報告せず」"
+translation = "「그걸 나에게 보고하지 않았으며,」"
+
+[[dialogue]]
+speaker = "ウェンディ"
+original = "「うぐっ」"
+translation = "「우윽.」"
+
+[[dialogue]]
+speaker = "セドナ"
+original = "「捕獲にも失敗した挙句」"
+translation = "「포획에도 실패한 끝에,」"
+
+[[dialogue]]
+speaker = "ウェンディ"
+original = "「くはっ」"
+translation = "「커흑.」"
+
+[[dialogue]]
+speaker = "セドナ"
+original = "「全て失ったと……そういうことで間違いないな？」"
+translation = "「전부 잃었다…… 그렇게 이해하면 틀림없겠나?」"
+
+[[dialogue]]
+speaker = "ウェンディ"
+original = "「はい、その通りです。この度は申し訳ございませんでした……」"
+translation = "「네, 그렇습니다. 이번 일은 정말 면목 없습니다…….」"
+
+[[dialogue]]
+speaker = "セドナ"
+original = "「はっきり言って失望している。お前はもっと利口だと思っていたんだがな」"
+translation = "「솔직히 실망했다. 너는 좀 더 영리할 거라고 생각했는데 말이다.」"
+
+[[dialogue]]
+speaker = "セドナ"
+original = "「更迭に値する失態だ。お前が魔女の森に戻されればどうなるか……わかっているだろうな」"
+translation = "「경질에 해당하는 실태다. 네가 마녀의 숲으로 돌려보내지면 어떻게 될지…… 알고 있겠지.」"
+
+[[dialogue]]
+speaker = "ウェンディ"
+original = "「はい……どのような処分でもお受けいたします」"
+translation = "「네…… 어떤 처분이라도 달게 받겠습니다.」"
+
+[[dialogue]]
+speaker = "セドナ"
+original = "「言ったな？\u3000ではネビュラの活動資金を２０％増やせ」"
+translation = "「말했겠다? 그럼 네뷸라의 활동 자금을 20% 늘려라.」"
+
+[[dialogue]]
+speaker = "ウェンディ"
+original = "「は──？」"
+translation = "「하──?」"
+
+[[dialogue]]
+speaker = "セドナ"
+original = "「お前が欠けると<b>計画</b>に支障が出る。働きで返せ」"
+translation = "「네가 빠지면 <b>계획</b>에 지장이 생긴다. 일로 갚아라.」"
+
+[[dialogue]]
+speaker = "ウェンディ"
+original = "「は……はい！」"
+translation = "「네…… 네!」"
+
+[[dialogue]]
+speaker = "ウェンディ"
+original = "「って、相当無茶なんですけど！？\u3000関連会社は今の利益を維持するので精いっぱいですし、ネビュラ内の資金運用も切り詰めて……」"
+translation = "「그게, 상당히 무리한 요구인데요!? 관련 회사는 지금 이익을 유지하는 것만으로도 벅차고, 네뷸라 내의 자금 운용도 줄이고 줄여서……」"
+
+[[dialogue]]
+speaker = "セドナ"
+original = "「処分なのだから無茶なぐらいでないと意味がない。それとも……お前にはできないか？」"
+translation = "「처분이니까 무리한 정도가 아니면 의미가 없지. 아니면…… 너는 할 수 없나?」"
+
+[[dialogue]]
+speaker = "ウェンディ"
+original = "「で……できまぁす！」"
+translation = "「하…… 할 수 이쓰으읍니다!」"
+
+[[dialogue]]
+speaker = "セドナ"
+original = "「さて……問題行動を起こしたのはもう１人。イニシュ。お前には出撃の命令は下っていなかったはずだが」"
+translation = "「자…… 문제 행동을 일으킨 게 한 명 더 있군. 이니슈. 너에게는 출격 명령이 내려지지 않았을 텐데.」"
+
+[[dialogue]]
+speaker = "イニシュ"
+original = "「ネビュラはリクリエを防ぐための機関です。モンスターを駆逐するのに命令など必要ありません」"
+translation = "「네뷸라는 리크리에를 막기 위한 기관입니다. 몬스터를 구축하는 데 명령 같은 건 필요 없습니다.」"
+
+[[dialogue]]
+speaker = "イニシュ"
+original = "「それにモンスターを使った実験とは何です？\u3000我々ネビュラがモンスターを使役するなど、リクリエの危険性を理解しているのですか？」"
+translation = "「게다가 몬스터를 이용한 실험이란 건 뭡니까? 우리 네뷸라가 몬스터를 부리다니, 리크리에의 위험성을 이해하고는 있는 것입니까?」"
+
+[[dialogue]]
+speaker = "セドナ"
+original = "「毒を以て毒を制す。使えるものは使うのがネビュラだろう？」"
+translation = "「독으로써 독을 제압한다. 쓸 수 있는 건 쓰는 게 네뷸라지 않나?」"
+
+[[dialogue]]
+speaker = "セドナ"
+original = "「それにお前は兵器としてネビュラに置いてやっている身だ。私に意見する権利はない」"
+translation = "「게다가 너는 병기로서 네뷸라에 놔두고 있는 몸이다. 나에게 의견을 제시할 권리는 없어.」"
+
+[[dialogue]]
+speaker = "セドナ"
+original = "「……」"
+translation = "「……」"
+
+[[dialogue]]
+speaker = "イニシュ"
+original = "「……」"
+translation = "「……」"
+
+[[dialogue]]
+speaker = "unk"
+original = "（一触即発……！？）"
+translation = "（일촉즉발……!?）"
+
+[[dialogue]]
+speaker = "セドナ"
+original = "「……まぁいい。実験内容を知らなかったことに免じて、謹慎程度にしておいてやる。どうせお前はスリープしているだろうがな」"
+translation = "「……뭐 됐다. 실험 내용을 몰랐던 것을 참작해 근신 정도로 해두지. 어차피 너는 슬립하고 있겠지만 말이다.」"
+
+[[dialogue]]
+speaker = "イニシュ"
+original = "「……了解です」"
+translation = "「……알겠습니다.」"
+
+[[dialogue]]
+speaker = "セドナ"
+original = "（森ではさんざん頑固な老人たちの相手をさせられたが、一番頑固な魔女はこちらにいたか）"
+translation = "（숲에서는 내내 완고한 노인네들 상대만 했건만, 가장 완고한 마녀는 여기 있었나.）"
+
+[[dialogue]]
+speaker = "セドナ"
+original = "（やはりイニシュは始祖の時代の……）"
+translation = "（역시 이니슈는 시조 시대의……）"
+
+[[dialogue]]
+speaker = "セドナ"
+original = "「魔王よ」"
+translation = "「마왕이여.」"
+
+[[dialogue]]
+speaker = "unk"
+original = "！？"
+translation = "!?"
+
+[[dialogue]]
+speaker = "セドナ"
+original = "「相変わらず不甲斐ない戦いぶりだったな。魔王の名が泣くぞ」"
+translation = "「여전히 한심한 싸움 방식이더군. 마왕의 이름이 울겠어.」"
+
+[[dialogue]]
+speaker = "セドナ"
+original = "「ところでアイリーンによると、何者かが再捕獲したモンスターを逃がしたそうだ。外部から侵入された形跡もあった。魔王に心当たりはないか？」"
+translation = "「그건 그렇고 아이린에 따르면, 누군가가 재포획한 몬스터를 풀어주었다고 하더군. 외부에서 침입한 흔적도 있었다. 마왕, 짚이는 구석은 없나?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "わからないです"
+translation = "모르겠습니다."
+
+[[dialogue]]
+speaker = "セドナ"
+original = "「だろうな。所在を知られているからといって、お前たち星徒会に易々と侵入されるほどネビュラの警備は甘くはない」"
+translation = "「그렇겠지. 소재를 알고 있다고 해서 너희 성도회에게 호락호락하게 침입당할 만큼 네뷸라의 경비는 허술하지 않다.」"
+
+[[dialogue]]
+speaker = "セドナ"
+original = "「星騎士と魔女、そしてリクリエの使徒以外にも思惑を持って動いている者がいるということだ。注意しておけ、魔王」"
+translation = "「성기사와 마녀, 그리고 리크리에의 사도 이외에도 다른 의도를 가지고 움직이는 자가 있다는 뜻이다. 주의해라, 마왕.」"
+
+[[dialogue]]
+speaker = "セドナ"
+original = "「では私は行く。今日は野次馬をしに来たわけではないからな」"
+translation = "「그럼 난 가보지. 오늘은 구경이나 하러 온 게 아니니까.」"
+
+[[dialogue]]
+speaker = "イニシュ"
+original = "「──魔王」"
+translation = "「──마왕.」"
+
+[[dialogue]]
+speaker = "イニシュ"
+original = "「今日は魔王のおかげで、初めて本物のラーメンを食すことができました」"
+translation = "「오늘 마왕 덕분에 처음으로 진짜 라멘을 먹을 수 있었습니다.」"
+
+[[dialogue]]
+speaker = "イニシュ"
+original = "「どの店にも個性があり、甲乙つけがたい味でした。しかも人間界にはまだまだたくさんのラーメンがあると聞きます」"
+translation = "「어느 가게나 개성이 있어 우열을 가리기 힘든 맛이었습니다. 게다가 인간계에는 아직도 수많은 라멘이 있다고 들었습니다.」"
+
+[[dialogue]]
+speaker = "イニシュ"
+original = "「しばらくは謹慎の身になってしまいますが、いつかまた一緒にラーメンを食べたいです」"
+translation = "「당분간은 근신하는 몸이 되겠지만, 언젠가 다시 함께 라멘을 먹고 싶습니다.」"
+
+[[dialogue]]
+speaker = "ウェンディ"
+original = "「あのイニシュがこんなに柔らかく……。これもラーメンの力……！？」"
+translation = "「그 이니슈가 이렇게 부드러워지다니……. 이것도 라멘의 힘……!?」"
+
+[[dialogue]]
+speaker = "ウェンディ"
+original = "「えーっと、あの……なんか流れで私の順番になってますけど……今日はご協力ありがとうございました」"
+translation = "「에-또, 저기…… 왠지 흐름상 제 차례가 된 것 같은데…… 오늘 협력해 주셔서 감사합니다.」"
+
+[[dialogue]]
+speaker = "ウェンディ"
+original = "「結果的にはモンスターは燃やされてしまいましたが、報酬も提示していないのに全力を尽くしていただいて感謝しています」"
+translation = "「결과적으로는 몬스터가 타버렸습니다만, 보상도 제시하지 않았는데 전력을 다해 주셔서 감사하고 있어요.」"
+
+[[dialogue]]
+speaker = "ウェンディ"
+original = "「見返りとして、私個人にできることなら何でもします。あくまで私個人にできる範囲でですが」"
+translation = "「보답으로 저 개인이 할 수 있는 일이라면 무엇이든 하겠습니다. 어디까지나 저 개인의 범위 내에서지만요.」"
+
+[[dialogue]]
+speaker = "ウェンディ"
+original = "「仕事には報酬を。ビジネスの基本です」"
+translation = "「일에는 보상을. 비즈니스의 기본이죠.」"
+
+[[dialogue]]
+speaker = "ウェンディ"
+original = "「私は基本内勤なので、あまり機会はないかもしれませんが、またお会いしましょう」"
+translation = "「저는 기본적으로 내근직이라 기회가 많지 않을지도 모르지만, 또 봬요.」"
+
+[[dialogue]]
+speaker = "イニシュ"
+original = "「失礼します」"
+translation = "「실례하겠습니다.」"
+
+[[dialogue]]
+speaker = "リーリア"
+original = "「空気読んで引っ込んでましたけどなんなんですかね、あの人たち」"
+translation = "「분위기 파악해서 빠져 있었는데 대체 뭐 하는 사람들이래요, 저 사람들은.」"
+
+[[dialogue]]
+speaker = "コハルコ"
+original = "『おそらく、以前星徒会の報告に挙がっていた魔女だね。私はちょっと特殊な立場だから情報共有されてるけど、一般生徒には明かされてないから秘密にしておいてね』"
+translation = "『아마 예전에 성도회 보고에 올라왔던 마녀일 거야. 나는 좀 특수한 입장이라 정보를 공유받고 있지만, 일반 학생들에게는 밝혀지지 않았으니 비밀로 해줘.』"
+
+[[dialogue]]
+speaker = "リーリア"
+original = "「はーい、リーリアお口チャックしてまーす♪」"
+translation = "「네-엣, 리리아 입 조심하고 있을게요♪」"
+
+[[dialogue]]
+speaker = "リーリア"
+original = "「でもラーメンの話してるから、私も食べたくなっちゃいましたよ。めちゃくちゃ戦ったしお腹ペコペコです」"
+translation = "「근데 라멘 이야기하니까 저도 먹고 싶어지네요. 엄청나게 싸웠더니 배가 고파 죽겠어요.」"
+
+[[dialogue]]
+speaker = "コハルコ"
+original = "『あはは、確かに。近くで女の子でも入れそうなお店探してみるね』"
+translation = "『아하하, 확실히. 근처에 여자애들도 들어갈 수 있을 만한 가게 찾아볼게.』"
+
+[[dialogue]]
+speaker = "リーリア"
+original = "「ところでセンパイ。今さらなんですけど……センパイって何しにおでかけしてたんです？」"
+translation = "「그건 그렇고 선배. 새삼스러운 질문인데…… 선배는 뭐 하러 외출하신 거예요?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "……"
+translation = "……"
+
+[[dialogue]]
+speaker = "unk"
+original = "…………"
+translation = "…………"
+
+[[dialogue]]
+speaker = "unk"
+original = "お使い忘れてたーーーー！？"
+translation = "심부름 잊어버렸다~~~~!? "
+
+[[dialogue]]
+speaker = "環"
+original = "「あーあ、たくさん用意したのにあっさりやられちゃったなー。ま、急ごしらえのリサイクル品じゃこんなもんか」"
+translation = "「아-아, 잔뜩 준비했는데 허무하게 당해버렸네. 뭐, 급조한 재활용품으론 이 정도인가.」"
+
+[[dialogue]]
+speaker = "環"
+original = "「魔女の力も測りきれなかったし、今回は無駄骨だったね。これならバイトしてた方がマシだったよ」"
+translation = "「마녀의 힘도 다 측정하지 못했고, 이번엔 헛수고였네. 이럴 거면 아르바이트나 하는 게 나았겠어.」"
+
+[[dialogue]]
+speaker = "環"
+original = "「ま、いいや。ラーメンでも食べて帰ろーっと」"
+translation = "「뭐, 됐어. 라멘이나 먹고 돌아가야지.」"
+
+[[dialogue]]
+speaker = "ウェンディ"
+original = "「ふぅ……今日は大変な一日でした。ラーメンくらいしかいい思い出がないです」"
+translation = "「후우…… 오늘은 힘든 하루였어요. 라멘 정도밖에 좋은 추억이 없네요.」"
+
+[[dialogue]]
+speaker = "アイリーン"
+original = "「おかえりなさーい。いいなー、私もラーメン食べてみたいなー」"
+translation = "「어서 와요~ 좋겠다, 나도 라멘 먹어보고 싶어.」"
+
+[[dialogue]]
+speaker = "ウェンディ"
+original = "「セドナ長官には改めて謝らないと。はぁ……信頼を裏切ってしまいました……」"
+translation = "「세드나 장관님께는 다시 사과드려야겠어. 하아…… 신뢰를 저버리고 말았네요…….」"
+
+[[dialogue]]
+speaker = "アイリーン"
+original = "「セドナさんならまだ戻ってないよ？」"
+translation = "「세드나 씨라면 아직 안 돌아왔는데?」"
+
+[[dialogue]]
+speaker = "ウェンディ"
+original = "「え？」"
+translation = "「에?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "セドナは基地に戻るでもなく、ひとり人間界の繁華街にいた。"
+translation = "세드나는 기지로 돌아가지 않고 홀로 인간계의 번화가에 있었다."
+
+[[dialogue]]
+speaker = "unk"
+original = "曲がりくねった細い路地を、勝手知ったるとばかりに迷いなく歩く。"
+translation = "구불구불한 좁은 골목길을 잘 안다는 듯 망설임 없이 걷는다."
+
+[[dialogue]]
+speaker = "unk"
+original = "そして『<ruby>辣麺<rt>ラーメン</rt></ruby>』と書かれたのれんををくぐって──"
+translation = "그리고 『<ruby>커러멘<rt>라멘</rt></ruby>』이라고 적힌 노렌을 걷어 올리고 들어가──"
+
+[[dialogue]]
+speaker = "セドナ"
+original = "「激烈<ruby>麻辣<rt>マーラー</rt></ruby>麺、唐辛子１０倍で」"
+translation = "「격렬 마라면, 고춧가루 10배로.」"
+
+[[dialogue]]
+speaker = "unk"
+original = "それはセドナがこの店で頼むお決まりのメニュー。"
+translation = "그것은 세드나가 이 가게에서 시키는 정해진 메뉴."
+
+[[dialogue]]
+speaker = "unk"
+original = "セドナは涼しい顔で赤いスープに塗れた麺をすすり、彼女の獄炎のごとき辛味に舌鼓を打つのであった──"
+translation = "세드나는 태연한 얼굴로 빨간 스프에 젖은 면을 들이켜며, 그녀의 옥염과도 같은 매운맛에 입맛을 다시는 것이었다──"
+

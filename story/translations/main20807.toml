@@ -1,0 +1,315 @@
+[[dialogue]]
+speaker = "unk"
+original = "第８話,守護天使の加護,B"
+translation = "제8화, 수호천사의 가호, B"
+
+[[dialogue]]
+speaker = "ナターシャ"
+original = "「はい、おしまい。極星従騎の相手も慣れてきたね」"
+translation = "「자, 끝. 극성종기 상대도 익숙해졌네.」"
+
+[[dialogue]]
+speaker = "ラクシャ"
+original = "「やっぱ不自然だよね、極星従騎って。女神テルルに新しいガーディアンを生み出す余力なんてないはずだし」"
+translation = "「역시 부자연스럽단 말이지, 극성종기는. 여신 테루루에게 새로운 가디언을 만들어낼 여력 따윈 없을 텐데.」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「じゃあ極星従騎は偽物のガーディアンなのか？」"
+translation = "「그럼 극성종기는 가짜 가디언인 건가?」"
+
+[[dialogue]]
+speaker = "ラクシャ"
+original = "「いいや、守護天使として断言するけど、極星従騎は紛れもなくガーディアンだよ」"
+translation = "「아니, 수호천사로서 단언하는데, 극성종기는 틀림없는 가디언이야.」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「ベアトは極星従騎について何か知らないか？」"
+translation = "「베아토는 극성종기에 대해 뭐 아는 거 없어?」"
+
+[[dialogue]]
+speaker = "ベアトリス"
+original = "「ううん。私がデネブにいた頃にはいなかったから……」"
+translation = "「으응. 내가 데네브에 있었을 때는 없었으니까……」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「そうか。今まで幾度も戦ってきた極星従騎だが、ガーディアンであること以外何もわかっていないんだな」"
+translation = "「그런가. 지금까지 몇 번이고 싸워온 극성종기지만, 가디언이라는 것 외에는 아무것도 알지 못하는군.」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ここ最近ではモンスターよりも極星従騎との戦いの方が多いくらいだが、未だに謎の多い存在だ。"
+translation = "최근에는 몬스터보다 극성종기와의 싸움이 더 많을 정도지만, 여전히 수수께끼가 많은 존재다."
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「みんな、天井を見て！\u3000さっき極星従騎が降りてきたところに穴があるわ！」"
+translation = "「얘들아, 천장을 봐! 방금 극성종기가 내려온 곳에 구멍이 있어!」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「もしかすると、あの穴を通ってルヴィネは頂上に向かったのかもしれません。追いかけましょう」"
+translation = "「어쩌면, 저 구멍을 통해 루비네는 꼭대기로 향했을지도 모릅니다. 쫓아가죠.」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「では作戦通り、道中の敵は私たち選挙管理委員会が引き付ける」"
+translation = "「그럼 작전대로, 도중의 적은 우리 선거관리위원회가 끌어들이겠다.」"
+
+[[dialogue]]
+speaker = "ベアトリス"
+original = "「うん、暴れちゃうよ！」"
+translation = "「응, 날뛰어줄게!」"
+
+[[dialogue]]
+speaker = "ナターシャ"
+original = "「私は隠れてこそこそする方が得意なんだけど、ま、そういう割り振りだから仕方ないね」"
+translation = "「나는 숨어서 살금살금 하는 쪽이 특기지만, 뭐, 그런 역할 분담이니까 어쩔 수 없네.」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「魔王、フィオナ、ヴィーナス。君たちは頂上へ行ってくれ」"
+translation = "「마왕, 피오나, 비너스. 너희는 꼭대기로 가줘.」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「はい。敵を押し付けるようですみませんが、よろしくお願いします」"
+translation = "「네. 적을 떠넘기는 것 같아 죄송합니다만, 잘 부탁드립니다.」"
+
+[[dialogue]]
+speaker = "ラクシャ"
+original = "「じゃあボクは手はず通り、半身と合流するために第零層へ向かうよ」"
+translation = "「그럼 난 수순대로, 반신과 합류하기 위해 제0층으로 향할게.」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「ああ、後でみんな合流しよう！」"
+translation = "「아아, 나중에 모두 합류하자!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "分かれた仲間の無事を願いつつ、それぞれの目的地へ向かった。"
+translation = "갈라진 동료들의 무사를 빌며, 각자의 목적지로 향했다."
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「着いたわ！」"
+translation = "「도착했어!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "アルタイルでは二度辿り着いた頂上。"
+translation = "알타이르에서는 두 번 도달했던 꼭대기."
+
+[[dialogue]]
+speaker = "unk"
+original = "平行世界デネブでは初めての場所だが──"
+translation = "평행세계 데네브에서는 처음인 장소지만──"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「っ！？\u3000ディザスターハンド！？\u3000やっぱりこっちにも……！？」"
+translation = "「윽!? 디재스터 핸드!? 역시 이쪽에도……!?」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「正面からぶつかるわけにはいかない、今すぐ撤退──」"
+translation = "「정면으로 부딪힐 수는 없어, 지금 당장 철수──」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「待ってください、あそこに……！」"
+translation = "「기다려 주세요, 저기에……!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "フィーニスの塔の頂上、その上空に<ruby>聳<rt>そび</rt></ruby>えるディザスターハンド──の真下。"
+translation = "피니스의 탑 꼭대기, 그 상공에 우뚝 솟은 디재스터 핸드──의 바로 아래."
+
+[[dialogue]]
+speaker = "unk"
+original = "そこに佇む小さな影は……"
+translation = "그곳에 서 있는 작은 그림자는……"
+
+[[dialogue]]
+speaker = "ルヴィネ"
+original = "「……！\u3000あなたたち、どうしてここに……？」"
+translation = "「……! 당신들, 어째서 여기에……?」"
+
+[[dialogue]]
+speaker = "ルヴィネ"
+original = "「まさかこんなところにまで来るとは思わなかったわ。近づかれるまで気づかないなんて、<b>これ</b>の制御に気を取られ過ぎたわね」"
+translation = "「설마 이런 곳까지 올 줄은 몰랐네. 가까이 올 때까지 눈치채지 못하다니, <b>이것</b>의 제어에 너무 정신을 팔았나 보네」"
+
+[[dialogue]]
+speaker = "unk"
+original = "「これ」とはディザスターハンドを指しているのだろう。"
+translation = "「이것」이란 디재스터 핸드를 가리키는 것이리라."
+
+[[dialogue]]
+speaker = "unk"
+original = "だがどうしてルヴィネがディザスターハンドと共にいる？"
+translation = "하지만 어째서 루비네가 디재스터 핸드와 함께 있는 거지?"
+
+[[dialogue]]
+speaker = "unk"
+original = "ルヴィネはデネブの守護者じゃなかったのか？"
+translation = "루비네는 데네브의 수호자가 아니었나?"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「ルヴィネ。君の上にある巨大な手……あれを俺たちはディザスターハンドと呼んでいる」"
+translation = "「루비네. 네 위에 있는 거대한 손…… 저걸 우리들은 디재스터 핸드라고 부르고 있어」"
+
+[[dialogue]]
+speaker = "ルヴィネ"
+original = "「ディザスターハンド……厄災の手、ね。私は名前を付けていなかったけど、確かに相応しい名前かもしれないわ」"
+translation = "「디재스터 핸드…… 재액의 손, 이구나. 나는 이름을 붙이지 않았지만, 확실히 어울리는 이름일지도 모르겠네」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「涼しい顔してるんじゃないわよ！\u3000どうしてあんたがあの手と一緒にいるの？\u3000やっぱりリクリエの側だったっていうの？」"
+translation = "「태연한 얼굴 하고 있지 마! 어째서 네가 저 손이랑 같이 있는 거야? 역시 리크리에의 편이었다는 거야?」"
+
+[[dialogue]]
+speaker = "ルヴィネ"
+original = "「……いいえ。これはアルタイルを滅ぼすために使うもの。デネブを守るためなら私は手段を選ばないわ」"
+translation = "「……아니. 이것은 알타이르를 멸망시키기 위해 사용하는 것. 데네브를 지키기 위해서라면 나는 수단을 가리지 않아」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「じゃあ私たちがアルタイルのフィーニスの塔に登ってきた時、あの手が襲ってきたのはあんたの仕業なの？」"
+translation = "「그럼 우리가 알타이르의 피니스의 탑에 올랐을 때, 저 손이 습격해 온 건 네 짓이야?」"
+
+[[dialogue]]
+speaker = "ルヴィネ"
+original = "「ええ。あの時は仕留め損なったわ。あの時あなたたちを消せていれば、今頃アルタイルを滅ぼすことができていたでしょうに」"
+translation = "「그래. 그때는 놓치고 말았지만. 그때 너희를 지울 수 있었다면, 지금쯤 알타이르를 멸망시킬 수 있었을 텐데 말이야」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「……ッ！」"
+translation = "「……윽!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "冷たく言ってのけるルヴィネに、怒りをにじませるヴィーナス。"
+translation = "차갑게 내뱉는 루비네에게 분노를 내비치는 비너스."
+
+[[dialogue]]
+speaker = "unk"
+original = "アルタイルに住まう者として、確かに彼女の言動は許せるものではない。"
+translation = "알타이르에 사는 자로서, 확실히 그녀의 언동은 용서할 수 있는 것이 아니다."
+
+[[dialogue]]
+speaker = "unk"
+original = "だけどルヴィネの言葉は一貫しているようで、引っかかる点がある。"
+translation = "하지만 루비네의 말은 일관된 듯하면서도, 걸리는 점이 있다."
+
+[[dialogue]]
+speaker = "クロト"
+original = "「君はデネブを守るために、ディザスターハンドを使うと言うんだな」"
+translation = "「너는 데네브를 지키기 위해, 디재스터 핸드를 사용한다는 거군」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「それならなおさら分からない。君ほどの力があれば、あの手の脅威は理解できるはずだ」"
+translation = "「그렇다면 더더욱 이해가 안 가. 너 정도의 힘이라면 저 손의 위협을 이해하고 있을 텐데」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「悔しいけど、あの手だけでアルタイルの総力に匹敵する……いやそれ以上かもしれない」"
+translation = "「분하지만 저 손 하나만으로 알타이르의 총력에 필적해…… 아니, 그 이상일지도 몰라」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「デネブにとっても、ディザスターハンドは脅威のはずだ。首尾よくアルタイルを滅ぼせたとしても、あの手にデネブが滅ぼされるかもしれない」"
+translation = "「데네브에게도 디재스터 핸드는 위협일 터다. 설령 알타이르를 성공적으로 멸망시킨다 해도, 저 손에 의해 데네브가 멸망당할지도 몰라」"
+
+[[dialogue]]
+speaker = "ルヴィネ"
+original = "「ご忠告痛み入るわ。だけどあなたたちに心配される筋合いはない」"
+translation = "「충고는 고맙게 받을게. 하지만 너희에게 걱정받을 이유는 없어」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「言っただろ、俺たちはアルタイルもデネブも守りたいんだ」"
+translation = "「말했잖아, 우리들은 알타이르도 데네브도 지키고 싶다고」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「そこでひとつ俺から君に提案だ」"
+translation = "「그래서 한 가지 제안을 하마」"
+
+[[dialogue]]
+speaker = "ルヴィネ"
+original = "「提案……？」"
+translation = "「제안……?」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「一緒にディザスターハンドを倒さないか？\u3000あの手は途方もなく強大だが、君とならできるかもしれない」"
+translation = "「함께 디재스터 핸드를 쓰러뜨리지 않겠나? 저 손은 터무니없이 강대하지만, 너와 함께라면 가능할지도 몰라」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「アルタイルもデネブもリクリエに脅かされている。ならともにリクリエと戦うべきだ」"
+translation = "「알타이르도 데네브도 리크리에에게 위협받고 있어. 그렇다면 함께 리크리에와 싸워야 해」"
+
+[[dialogue]]
+speaker = "ルヴィネ"
+original = "「……馬鹿馬鹿しいわね。今この瞬間まで敵対していたのに、はいそうですかと共闘できるわけがない。背中を撃たれるかもしれないのだから」"
+translation = "「……바보 같네. 방금 이 순간까지 적대하고 있었는데, 네 알겠습니다 하고 공투할 수 있을 리가 없잖아. 등 뒤에서 총을 맞을지도 모르는데」"
+
+[[dialogue]]
+speaker = "ルヴィネ"
+original = "「そもそもあなたたちと問答する気はないわ。あなたたちは敵よ」"
+translation = "「애초에 너희와 문답할 생각은 없어. 너희는 적이야」"
+
+[[dialogue]]
+speaker = "ルヴィネ"
+original = "「だから──消えなさい」"
+translation = "「그러니까── 사라지렴」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「チェンジ・ノヴァフォーム！」"
+translation = "「체인지 노바 폼!」"
+
+[[dialogue]]
+speaker = "ヴィーナス（覚醒）"
+original = "「そうはさせないわ！」"
+translation = "「그렇게 두지 않아!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "敵意を向けるルヴィネに対抗し、ヴィーナスがノヴァフォームに変身する。"
+translation = "적의를 드러내는 루비네에게 대항하여, 비너스가 노바 폼으로 변신한다."
+
+[[dialogue]]
+speaker = "ヴィーナス（覚醒）"
+original = "「──！？」"
+translation = "「──!?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "だがその瞬間、塔の頂上が白い光に包まれて──"
+translation = "하지만 그 순간, 탑의 꼭대기가 하얀 빛에 휩싸이고──"
+
+[[dialogue]]
+speaker = "unk"
+original = "その頃、ラクシャは無事に第零層へとたどり着いていた。"
+translation = "그 무렵, 락샤는 무사히 제0층에 도달해 있었다."
+
+[[dialogue]]
+speaker = "ラクシャ"
+original = "「はーい、とうちゃーく。それじゃ早速半身と同期して──」"
+translation = "「네에, 도오착. 그럼 바로 반신과 동기화해서──」"
+
+[[dialogue]]
+speaker = "ラクシャ"
+original = "「いやこれまずいな」"
+translation = "「아니, 이거 좀 위험한데」"
+

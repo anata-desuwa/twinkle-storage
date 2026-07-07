@@ -1,0 +1,435 @@
+[[dialogue]]
+speaker = "unk"
+original = "サチのことも気になったので、プリムラを一旦マトイに任せて、今度はトマルたちと合流した。"
+translation = "사치의 상태도 신경 쓰여서 프리뮬러를 일단 마토이에게 맡기고 이번에는 토마루 일행과 합류했다."
+
+[[dialogue]]
+speaker = "サチ"
+original = "「ルーレットロット」"
+translation = "「룰렛 롯」"
+
+[[dialogue]]
+speaker = "サチ"
+original = "「――止まった結果は……東ですね。いきましょう」"
+translation = "「――멈춘 결과는…… 동쪽이네요. 가요」"
+
+[[dialogue]]
+speaker = "unk"
+original = "（サチ、ちょっと元気がない気がするな……）"
+translation = "(사치, 좀 기운이 없는 것 같네……)"
+
+[[dialogue]]
+speaker = "unk"
+original = "やっぱり、プリムラのことを気にしているからだろうか……そんな風に思っていると――"
+translation = "역시 프리뮬러를 신경 쓰고 있기 때문일까…… 그런 생각을 하고 있자니――"
+
+[[dialogue]]
+speaker = "サチ"
+original = "「あれ？\u3000お兄さん、どうかしましたか？」"
+translation = "「어라? 오빠, 무슨 일인가요?」"
+
+[[dialogue]]
+speaker = "サチ"
+original = "「なにか聞きたそうな顔をしてますけど……」"
+translation = "「뭔가 묻고 싶은 듯한 표정인데……」"
+
+[[dialogue]]
+speaker = "unk"
+original = "いや、えっと……ルーレットが気になって"
+translation = "아니, 그게…… 룰렛이 궁금해서"
+
+[[dialogue]]
+speaker = "トマル"
+original = "「サチさまの能力は、幸運であること。生まれながらの幸運体質なんです」"
+translation = "「사치 님의 능력은 행운인 것. 타고난 행운 체질이에요」"
+
+[[dialogue]]
+speaker = "トレジアンナ"
+original = "「サチさんはそれで、附属校で最強のプリマステラって呼ばれているんですよ～。実際に生徒会長を務めていますしね☆」"
+translation = "「사치 씨는 그래서 부속교에서 최강의 프리마스텔라라고 불리고 있답니다~. 실제로 학생회장을 맡고 있기도 하고요☆」"
+
+[[dialogue]]
+speaker = "トマル"
+original = "「もちろん、サチさま自身の努力によって培われた純粋な戦闘力の高さもありますが、そこに幸運が合わさることで、無敵とも言える強さを発揮するんです」"
+translation = "「물론 사치 님 자신의 노력으로 일궈낸 순수한 전투력의 높이도 있지만, 거기에 행운이 합쳐짐으로써 무적이라고도 할 수 있는 강함을 발휘하는 거예요」"
+
+[[dialogue]]
+speaker = "サチ"
+original = "「無敵は大げさですけどね……実際には、どう足掻いても運勢の波が存在しますから、安定性に難がありますし」"
+translation = "「무적은 과장이지만요…… 실제로는 아무리 애써도 운세의 파동이 존재하기 때문에 안정성에는 난점이 있고요」"
+
+[[dialogue]]
+speaker = "サチ"
+original = "「今回だって、見ての通り絶不調で……記憶を奪われる事態になっちゃってますから」"
+translation = "「이번에도 보시다시피 절망적으로 운이 없어서…… 기억을 빼앗기는 사태가 되어버렸으니까요」"
+
+[[dialogue]]
+speaker = "サチ"
+original = "「ただ、自分に備わった能力を最大限活用しないのも、それはそれで違うって、私は思うので」"
+translation = "「다만 자신에게 갖춰진 능력을 최대한 활용하지 않는 것도 그건 그것대로 아니라고 저는 생각해서요」"
+
+[[dialogue]]
+speaker = "サチ"
+original = "「こうして幸運体質を活かして、得意な失せもの占いでロストアイテムを探しているというわけです」"
+translation = "「이렇게 행운 체질을 살려 특기인 물건 찾기 점으로 로스트 아이템을 찾고 있는 셈이에요」"
+
+[[dialogue]]
+speaker = "unk"
+original = "そうだ、気になってることといえば――"
+translation = "맞다, 궁금한 점이라고 하면――"
+
+[[dialogue]]
+speaker = "サチ"
+original = "「――トレジアンナさんが何者なのか、ですか？」"
+translation = "「――트레지안나 씨가 누구인지, 인가요?」"
+
+[[dialogue]]
+speaker = "トレジアンナ"
+original = "「あー、やっぱり気になっちゃいます？\u3000声とか可愛いから気になっちゃうって？\u3000いやー、会長さんに言われると照れちゃいますね～☆」"
+translation = "「아~ 역시 신경 쓰이나요? 목소리 같은 게 귀여워서 궁금해졌다고요? 이야~ 회장님한테 그런 소릴 들으니 쑥스럽네요~☆」"
+
+[[dialogue]]
+speaker = "サチ"
+original = "「そこまでは言ってないです」"
+translation = "「거기까진 말 안 했어요」"
+
+[[dialogue]]
+speaker = "トレジアンナ"
+original = "「私、さっきはわかりやすくロストアイテムだって自己紹介してましたけど、正確にはロストアイテムに封印されちゃってる感じなんですよね～」"
+translation = "「저, 아까는 알기 쉽게 로스트 아이템이라고 자기소개했지만 정확히는 로스트 아이템에 봉인당해 버린 느낌이거든요~」"
+
+[[dialogue]]
+speaker = "トレジアンナ"
+original = "「『精神の水晶』ってロストアイテムなんですけど、大昔、ミスってそれに体ごと取り込まれちゃったっていうか～。憑依、みたいな？」"
+translation = "「『정신의 수정』이라는 로스트 아이템인데 아주 옛날에 실수로 거기에 몸째로 빨려 들어가 버렸달까~. 빙의, 같은 거?」"
+
+[[dialogue]]
+speaker = "トレジアンナ"
+original = "「で、そのままずっと眠ってたんですけど、今回のリクリエに際して目覚めたところで、幸運にもサチさんと出会ったんですよ～」"
+translation = "「그래서 그대로 계속 잠들어 있었는데 이번 리크리에를 맞이해 깨어난 참에 운 좋게 사치 씨와 만난 거예요~」"
+
+[[dialogue]]
+speaker = "サチ"
+original = "「２年前、附属校に入学したばかりの時に、飛び回ってる水晶からフランクに話しかけられて……それがトレジアンナさんだったんです」"
+translation = "「2년 전, 부속교에 갓 입학했을 때 날아다니는 수정이 싹싹하게 말을 걸어와서…… 그게 트레지안나 씨였어요」"
+
+[[dialogue]]
+speaker = "サチ"
+original = "「で、ロストアイテム回収を手伝ってたら、いつの間にか私の杖とか髪飾りとかにとり憑いてて……」"
+translation = "「그래서 로스트 아이템 회수를 돕다 보니 어느새 제 지팡이나 머리 장식 같은 데 들러붙어 있어서……」"
+
+[[dialogue]]
+speaker = "トレジアンナ"
+original = "「そんな、とり憑くだなんて、悪霊みたいに言わないでくださいよ～」"
+translation = "「세상에, 들러붙다니 악령처럼 말하지 말아 주세요~」"
+
+[[dialogue]]
+speaker = "トレジアンナ"
+original = "「ズバリ、何を隠そう私の正体は、ロストアイテム回収のスペシャリスト、今は封印されてる先代の魔法少女なので～す♪\u3000キラッ☆」"
+translation = "「자, 정체를 밝히자면 제 정체는 로스트 아이템 회수의 스페셜리스트, 지금은 봉인되어 있는 전대 마법소녀랍니다~♪ 반짝☆」"
+
+[[dialogue]]
+speaker = "サチ"
+original = "「とか本人は言ってますけど、魔法少女はこの人の趣味なので、多分大昔の星騎士なんじゃないかと私は思ってます」"
+translation = "「라고 본인은 말하지만 마법소녀는 이 사람 취미니까 아마 아주 옛날의 성기사가 아닐까 저는 생각하고 있어요」"
+
+[[dialogue]]
+speaker = "トレジアンナ"
+original = "「いやいや、本当なんですって！\u3000私の本来の姿はもう、可愛くてダイナマイトボディな永遠の美少女なんですよ！？\u3000声から想像してください、声から！」"
+translation = "「아니 아니, 정말이라니까요! 제 본래 모습은 이미 귀엽고 다이너마이트 보디인 영원한 미소녀라고요!? 목소리로 상상해 보세요, 목소리로!」"
+
+[[dialogue]]
+speaker = "サチ"
+original = "「ね？\u3000胡散くさいでしょう？」"
+translation = "「그쵸? 수상쩍죠?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "確かに……"
+translation = "확실히……"
+
+[[dialogue]]
+speaker = "トレジアンナ"
+original = "「会長さんも、そこは否定してくださいよ～！？」"
+translation = "「회장님도 거기서 긍정하시면 어떡해요~!?」"
+
+[[dialogue]]
+speaker = "トレジアンナ"
+original = "「ぐぬぬ～、いつか封印解除のロストアイテムを回収した暁には、必ずや第３の魔法少女として華麗に復活してみせます……！」"
+translation = "「구누누~ 언젠가 봉인 해제 로스트 아이템을 회수하는 날에는 반드시 제3의 마법소녀로서 화려하게 부활해 보이겠어요……!」"
+
+[[dialogue]]
+speaker = "サチ"
+original = "「はいはい、見つかるといいですね～」"
+translation = "「네 네, 찾으면 좋겠네요~」"
+
+[[dialogue]]
+speaker = "トレジアンナ"
+original = "「返事に心が込もってない！」"
+translation = "「대답에 영혼이 안 담겨 있어!」"
+
+[[dialogue]]
+speaker = "ロストアイテム"
+original = "「…………」"
+translation = "「…………」"
+
+[[dialogue]]
+speaker = "unk"
+original = "って、見つけたぁーーーっ！"
+translation = "아니, 찾았다ーーー!"
+
+[[dialogue]]
+speaker = "トレジアンナ"
+original = "「えっ、もしかして来ちゃいました！？\u3000第２の魔法少女が誕生したばかりなのに、もう私の実装きちゃった感じですか！？」"
+translation = "「엣, 혹시 와버렸나요!? 제2의 마법소녀가 탄생한 지 얼마 안 됐는데 벌써 제 실장 차례인가요!?」"
+
+[[dialogue]]
+speaker = "サチ"
+original = "「そうじゃなくて、記憶のロストアイテムです！」"
+translation = "「그게 아니라 기억의 로스트 아이템이에요!」"
+
+[[dialogue]]
+speaker = "トマル"
+original = "「初撃必中！\u3000穿ちます！」"
+translation = "「초격 필중! 꿰뚫겠습니다!」"
+
+[[dialogue]]
+speaker = "トマル"
+original = "「避けられました……！\u3000やはり速い……！」"
+translation = "「피해졌어요……! 역시 빨라……!」"
+
+[[dialogue]]
+speaker = "サチ"
+original = "「でも、室内なら……！\u3000トレジアンナさん、アレをやります！」"
+translation = "「하지만 실내라면……! 트레지안나 씨, 그걸 할게요!」"
+
+[[dialogue]]
+speaker = "トレジアンナ"
+original = "「はいは～い！\u3000いきますよ～、ルーレットスタート☆」"
+translation = "「네에 네에~! 갑니다~ 룰렛 스타트☆」"
+
+[[dialogue]]
+speaker = "サチ"
+original = "「フォーチュンドロップ、シックスバレット――」"
+translation = "「포춘 드롭, 식스 불렛――」"
+
+[[dialogue]]
+speaker = "サチ"
+original = "「ランダムシュート！」"
+translation = "「랜덤 슛!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "星術を詠み上げて、サチは６発の水球を作り出すと、図書館内各所に向かってバラバラに撃ち放った。"
+translation = "성술을 읊조리며 사치는 6발의 수구를 만들어내더니 도서관 내 각처를 향해 뿔뿔이 쏘아 보냈다."
+
+[[dialogue]]
+speaker = "unk"
+original = "サチ、ダメだ！\u3000ここには沢山の本が！"
+translation = "사치, 안 돼! 여기엔 책이 잔뜩 있어!"
+
+[[dialogue]]
+speaker = "サチ"
+original = "「大丈夫です、お兄さん！\u3000撃つと決めた以上――」"
+translation = "「괜찮아요, 오빠! 쏘기로 결정한 이상――」"
+
+[[dialogue]]
+speaker = "サチ"
+original = "「絶対に<b>ハズレ</b>ませんから！」"
+translation = "「절대로 <b>빗나가지</b> 않으니까요!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "水球は床や壁に当たって跳弾し、図書館内を飛び回る。しかし、計算されたかのように本棚にだけは当たらない。そして――"
+translation = "수구는 바닥이나 벽에 맞고 튕겨 도서관 내를 날아다닌다. 하지만 계산된 것처럼 책장만큼은 맞지 않는다. 그리고――"
+
+[[dialogue]]
+speaker = "unk"
+original = "水球を避け続けるロストアイテムを追い詰めるような軌跡を描き、最後には吸い込まれるように６発とも全弾直撃！"
+translation = "수구를 계속 피하는 로스트 아이템을 몰아넣는 듯한 궤적을 그리더니 마지막에는 빨려 들어가듯 6발 모두 전탄 직격!"
+
+[[dialogue]]
+speaker = "ロストアイテム"
+original = "「～～～～～～っ！？」"
+translation = "「～～～～～～!?」"
+
+[[dialogue]]
+speaker = "サチ"
+original = "「グッドラックです！」"
+translation = "「굿 럭이에요!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "これが、サチの幸運の力……！"
+translation = "이것이 사치의 행운의 힘……!"
+
+[[dialogue]]
+speaker = "サチ"
+original = "「トマルくん！\u3000お願い！」"
+translation = "「토마루 군! 부탁해!」"
+
+[[dialogue]]
+speaker = "トマル"
+original = "「はい！\u3000サチさま！」"
+translation = "「네! 사치 님!」"
+
+[[dialogue]]
+speaker = "トマル"
+original = "「一本集中！」"
+translation = "「일본 집중!」"
+
+[[dialogue]]
+speaker = "トマル"
+original = "「よし！\u3000当たりました！」"
+translation = "「좋아! 맞았습니다!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "このまま一気に攻める！\u3000俺も――"
+translation = "이대로 단번에 몰아붙인다! 나도――"
+
+[[dialogue]]
+speaker = "トレジアンナ"
+original = "「あっ、しまった！\u3000会長さん！\u3000サチさんと一緒に戦うのは、混ぜたら危険というか――」"
+translation = "「앗, 이런! 회장님! 사치 씨와 함께 싸우는 건, 섞으면 위험하다고나 할까――」"
+
+[[dialogue]]
+speaker = "サチ"
+original = "「そっか！\u3000お兄さん記憶喪失だから、そのことも忘れて……きゃっ！？」"
+translation = "「그렇구나! 오빠는 기억상실이라 그 일도 잊어버려서…… 꺄악!?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "サチが着地した瞬間に、ツルッと足を滑らせる。その隙にロストアイテムが攻撃を放ってきた！"
+translation = "사치가 착지한 순간, 미끄덩하며 발을 헛디딘다. 그 틈에 로스트 아이템이 공격을 날려왔다!"
+
+[[dialogue]]
+speaker = "unk"
+original = "サチ！\u3000危ない！"
+translation = "사치! 위험해!"
+
+[[dialogue]]
+speaker = "サチ"
+original = "「ひゃっ！？\u3000お兄さんに抱きかかえられて……っ！」"
+translation = "「히익!? 오빠한테 안겨서……!」"
+
+[[dialogue]]
+speaker = "サチ"
+original = "「あ、ありがとうございます。お兄さんのおかげで攻撃をかわせました……！」"
+translation = "「고, 고맙습니다. 오빠 덕분에 공격을 피할 수 있었어요……!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "よかった……って、俺も足元が滑っ……！？"
+translation = "다행이다…… 싶었는데, 나도 발밑이 미끄러……!?"
+
+[[dialogue]]
+speaker = "サチ"
+original = "「お兄さん！？\u3000バランスが崩れて……わわっ！？」"
+translation = "「오빠!? 중심이 무너져서…… 와와앗!?」"
+
+[[dialogue]]
+speaker = "サチ"
+original = "「う、う～ん……大丈夫ですか、お兄さん……？」"
+translation = "「으, 으음…… 괜찮으세요, 오빠……?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "大丈夫、ちょっと転んだだけ……って"
+translation = "괜찮아, 조금 넘어졌을 뿐…… 인데"
+
+[[dialogue]]
+speaker = "unk"
+original = "一体どう転んだらそうなるのか――サチと色々密着して、床に押し倒すような形になってしまっていた。"
+translation = "도대체 어떻게 넘어지면 이렇게 되는 건지―― 사치와 여러모로 밀착해서, 바닥에 눌러버린 듯한 형태가 되어 있었다."
+
+[[dialogue]]
+speaker = "サチ"
+original = "「き……きゃあぁぁぁ～～～っ！\u3000何やってんですか、お兄さん！？\u3000えっっっ――」"
+translation = "「꺄…… 꺄아아아아아아~~악! 뭐 하시는 거예요, 오빠!? 엣――」"
+
+[[dialogue]]
+speaker = "サチ"
+original = "「エッチなことは禁止ですーーーっ！」"
+translation = "「야한 짓은 금지예요~~~!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ご、ごめんっ！\u3000わざとじゃないんだ！"
+translation = "미, 미안! 고의가 아니었어!"
+
+[[dialogue]]
+speaker = "トレジアンナ"
+original = "「あちゃ～」"
+translation = "「아차~」"
+
+[[dialogue]]
+speaker = "トマル"
+original = "「サチさま、会長さまとなんて羨まし……いえ、大変な体勢に……！」"
+translation = "「사치 님, 회장님과 그런…… 아니, 대단한 자세가……!」"
+
+[[dialogue]]
+speaker = "ロストアイテム"
+original = "「…………♪」"
+translation = "「…………♪」"
+
+[[dialogue]]
+speaker = "トレジアンナ"
+original = "「ロストアイテム、また逃げられちゃいましたね……」"
+translation = "「로스트 아이템, 또 놓쳐버리고 말았네요……」"
+
+[[dialogue]]
+speaker = "サチ"
+original = "「うぅ……やっぱり今日は、絶不調です……」"
+translation = "「우으…… 역시 오늘은 최악의 컨디션이에요……」"
+
+[[dialogue]]
+speaker = "トレジアンナ"
+original = "「サチさんと会長さんが一緒にいると、なぜかこういうエッチなトラブルがよく起きちゃうんですよね～」"
+translation = "「사치 씨와 회장님이 함께 있으면, 왠지 이런 야한 트러블이 자주 일어나곤 하죠~」"
+
+[[dialogue]]
+speaker = "サチ"
+original = "「一緒に戦おうとする時には、特に注意が必要で……説明しとくのをすっかり忘れてました……」"
+translation = "「함께 싸우려고 할 때는 특히 주의가 필요해서…… 설명해 두는 걸 깜빡 잊고 있었어요……」"
+
+[[dialogue]]
+speaker = "トレジアンナ"
+original = "「まあ、いわゆるラッキースケベなんで、これも幸運の内だと私は思うんですけどね～♪」"
+translation = "「뭐, 이른바 럭키 스케베니까, 이것도 행운의 일종이라고 저는 생각하지만요~♪」"
+
+[[dialogue]]
+speaker = "サチ"
+original = "「全然ラッキーじゃないです！\u3000違いますからね、お兄さん！？」"
+translation = "「전혀 럭키하지 않아요! 아니니까요, 오빠!?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "でも、俺のせいで逃げられちゃったな……"
+translation = "하지만 내 실수로 놓쳐버렸네……"
+
+[[dialogue]]
+speaker = "トマル"
+original = "「それは大丈夫です、会長さま」"
+translation = "「그건 괜찮습니다, 회장님」"
+
+[[dialogue]]
+speaker = "トマル"
+original = "「マーキングはもう、成功しましたから」"
+translation = "「마킹은 이미 성공했으니까요」"
+
+[[dialogue]]
+speaker = "unk"
+original = "マーキング……？"
+translation = "마킹……?"
+
+[[dialogue]]
+speaker = "トマル"
+original = "「はい。私、１度帯電させた相手は、追跡することができるんです」"
+translation = "「네. 저, 한 번 대전시킨 상대는 추적할 수 있거든요」"
+
+[[dialogue]]
+speaker = "unk"
+original = "そう言って、トマルは優しく微笑むのだった。"
+translation = "그렇게 말하며 토마루는 상냥하게 미소 짓는 것이었다."
+

@@ -1,0 +1,145 @@
+[[dialogue]]
+speaker = "unk"
+original = "第６話,最後の階,B"
+translation = "제6화, 마지막 층, B"
+
+[[dialogue]]
+speaker = "敗残の亡霊"
+original = "『グ……ガ……ガァァッ……貴、様…………！』"
+translation = "『크…… 가…… 가아앗…… 네, 놈…………!』"
+
+[[dialogue]]
+speaker = "敗残の亡霊"
+original = "『俺ハ……俺ハ決して滅びぬ……！\u3000リクリエの到来と共に……チャカパラ様の誕生を見届けるまで……！』"
+translation = "『나느은…… 나는 결코 멸망하지 않는다……! 리크리에의 도래와 함께…… 차카파라 님의 탄생을 지켜볼 때까지……!』"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「ふーんだ！\u3000あんたなんか魔王に敵いっこないんだから！」"
+translation = "「흥! 너 같은 건 마왕을 이길 수 없을 테니까!」"
+
+[[dialogue]]
+speaker = "ニャリオン"
+original = "「そうニャそうニャ。まったくしつこい野郎ニャン」"
+translation = "「그렇다냥 그렇다냥. 정말 끈질긴 녀석이다냥.」"
+
+[[dialogue]]
+speaker = "unk"
+original = "瘴気の薄まっていくなかで、亡霊は最後に俺へ言葉を遺した。"
+translation = "장기가 옅어지는 가운데, 망령은 마지막으로 나에게 말을 남겼다."
+
+[[dialogue]]
+speaker = "敗残の亡霊"
+original = "『血は受け継がれるものだ……貴様がそうだったように──』"
+translation = "『피는 계승되는 것이다…… 네놈이 그러했듯이──』"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「！」"
+translation = "「!」"
+
+[[dialogue]]
+speaker = "敗残の亡霊"
+original = "『故ニ、俺は……何度でも……よみがえ、る……ォォォォーン…………！』"
+translation = "『그러니, 나는…… 몇 번이고…… 되살아, 난다…… 오오오오오온…………!』"
+
+[[dialogue]]
+speaker = "unk"
+original = "うめくような断末魔を残して──バジュラ教団の亡霊は消え去っていった。"
+translation = "신음하는 듯한 단말마를 남기고── 바쥬라 교단의 망령은 사라져 갔다."
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「ほ……やっと消えてくれた。怖かったー」"
+translation = "「후…… 겨우 사라졌네. 무서웠어ー」"
+
+[[dialogue]]
+speaker = "ソフィア"
+original = "「あ……オーブも無くなりましたね」"
+translation = "「아…… 오브도 없어졌네요.」"
+
+[[dialogue]]
+speaker = "ユウリ"
+original = "「完全討伐ってことだな」"
+translation = "「완전 토벌이라는 거네.」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「クロトもフィオナも最高潮じゃない──ここをサクッと通過できたのは大きいわよ！」"
+translation = "「쿠로토도 피오나도 최고조잖아── 여기를 잽싸게 통과할 수 있었던 건 큰 수확이야!」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「あの黒騎士に比べれば……まだ易しい相手でしたね」"
+translation = "「그 검은 기사에 비하면…… 아직 쉬운 상대였네요.」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「……」"
+translation = "「……」"
+
+[[dialogue]]
+speaker = "unk"
+original = "亡霊からの呪言を浴びて、俺にも先代魔王の苦悩がなんとなくわかった気がした。"
+translation = "망령으로부터 저주를 받고, 나도 선대 마왕의 고뇌를 어렴풋이 알 것 같았다."
+
+[[dialogue]]
+speaker = "クロト"
+original = "（リクリエを救った英雄と言っても──みんなから支持されてたわけじゃない。色んなものを抱えていたんだろう）"
+translation = "（리크리에를 구한 영웅이라고 해도── 모두에게 지지받았던 건 아니다. 여러 가지를 짊어지고 있었겠지.）"
+
+[[dialogue]]
+speaker = "unk"
+original = "過去の因縁も気になるところだったが……ひとまず今は門番の突破を喜びたい。"
+translation = "과거의 인연도 신경 쓰이는 부분이었지만…… 일단 지금은 문지기의 돌파를 기뻐하고 싶다."
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「この層の主を倒せた──ってことなら、もしかして……」"
+translation = "「이 층의 주인을 쓰러뜨렸다──는 거라면, 혹시……」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「！\u3000見て、階段が現れたわ！」"
+translation = "「! 봐, 계단이 나타났어!」"
+
+[[dialogue]]
+speaker = "ユウリ"
+original = "「ってことは、もしかして──」"
+translation = "「그렇다면, 혹시──」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「この先に……人間界が！」"
+translation = "「이 앞에…… 인간계가!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "無機質な空間の最奥に、輝く<ruby>階<rt>きざはし</rt></ruby>が出現した。"
+translation = "무기질적인 공간의 가장 안쪽에, 빛나는 계단이 출현했다."
+
+[[dialogue]]
+speaker = "クロト"
+original = "「行こう。出口は近い」"
+translation = "「가자. 출구가 가깝다.」"
+
+[[dialogue]]
+speaker = "unk"
+original = "そうして、俺たちはフィーニスの塔・第零層を踏破する──"
+translation = "그렇게, 우리는 피니스의 탑・제영층을 돌파한다──"
+
+[[dialogue]]
+speaker = "unk"
+original = "その直前で、俺は初めて直に<b>彼女</b>の囁きを聞いた。"
+translation = "그 직전에, 나는 처음으로 직접 <b>그녀</b>의 속삭임을 들었다."
+
+[[dialogue]]
+speaker = "テルル"
+original = "『聞こえますか？\u3000緋宮クロト』"
+translation = "『들리십니까? 히노미야 쿠로토』"
+
+[[dialogue]]
+speaker = "テルル"
+original = "『これは……私に許された最後の伝言。あなたへと捧げる──魔王の運命の記録です』"
+translation = "『이것은…… 저에게 허락된 마지막 전언. 당신에게 바치는── 마왕의 운명의 기록입니다』"
+

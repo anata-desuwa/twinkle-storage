@@ -1,0 +1,240 @@
+[[dialogue]]
+speaker = "unk"
+original = "第２話,マリンスポーツ,P"
+translation = "제2화, 마린 스포츠, P"
+
+[[dialogue]]
+speaker = "セーラ"
+original = "「よーし……よっ……いい感じいい感じ……このまま前に歩いて……空のお散歩を──って、あっ！」"
+translation = "「좋아…… 영차…… 느낌 좋아 좋아…… 이대로 앞으로 걸어서…… 하늘 산책을── 어, 앗!」"
+
+[[dialogue]]
+speaker = "セーラ"
+original = "「──きゃあっ！？」"
+translation = "「──꺄악!?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "いま助けます！"
+translation = "지금 구하러 갈게요!"
+
+[[dialogue]]
+speaker = "unk"
+original = "大丈夫ですか"
+translation = "괜찮으세요?"
+
+[[dialogue]]
+speaker = "セーラ"
+original = "「──あはは、大失敗！\u3000でもちょー面白い！」"
+translation = "「──아하하, 대실패! 그래도 엄청 재밌다!」"
+
+[[dialogue]]
+speaker = "セーラ"
+original = "「これがフライボードってやつなんだねー！\u3000雑誌だと簡単そうに見えたけど、やってみたら激ムズじゃん！」"
+translation = "「이게 플라이보드라는 거구나! 잡지에선 쉬워 보였는데, 직접 해보니까 완전 어렵잖아!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "楽しかった"
+translation = "즐거웠어"
+
+[[dialogue]]
+speaker = "unk"
+original = "難しかったけど……"
+translation = "어려웠지만……"
+
+[[dialogue]]
+speaker = "セーラ"
+original = "「ね！\u3000わかる！\u3000落っこちちゃっても逆に楽しい？\u3000みたいな！」"
+translation = "「그치! 알 것 같아! 떨어져 버려도 오히려 즐겁달까? 그런 느낌!」"
+
+[[dialogue]]
+speaker = "セーラ"
+original = "「下手な落ち方しなくてよかったぁ……打ちつけられたら超痛そうだもんね……」"
+translation = "「잘못 떨어지지 않아서 다행이다아…… 부딪히면 엄청 아플 것 같았거든……」"
+
+[[dialogue]]
+speaker = "セーラ"
+original = "「それじゃ、この後はパラセーリングね！\u3000リップルちゃんのお師匠さんがボート運転してくれるんだって！」"
+translation = "「그럼, 이 다음은 패러세일링이야! 리플이 스승님이 보트를 운전해주신대!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "パラセーリングをして、穏やかな空の遊覧を楽しんだ……。"
+translation = "패러세일링을 하며, 평온한 하늘 유람을 즐겼다……."
+
+[[dialogue]]
+speaker = "セーラ"
+original = "「いや～楽しかった、っと。一旦休憩～♪」"
+translation = "「이야~ 즐거웠다. 일단 휴식~♪」"
+
+[[dialogue]]
+speaker = "セーラ"
+original = "「大人っぽい遊び方だった？\u3000あはは、そんなことないっしょ。うちだってどっちも初めてだったんだから」"
+translation = "「어른스러운 놀이 방법이었어? 아하하, 그럴 리가. 나도 둘 다 처음이었는걸」"
+
+[[dialogue]]
+speaker = "セーラ"
+original = "「あと雑誌にはどんなアクティビティが載ってたかなー……カヤックとかラフティング──は海でやるものじゃないし……」"
+translation = "「또 잡지에는 어떤 액티비티가 실려 있었더라~…… 카약이나 래프팅──은 바다에서 하는 게 아니지……」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「──よう、セーラ！\u3000今ヒマか？」"
+translation = "「──여어, 세라! 지금 한가하냐?」"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「新星会長さんもいます！\u3000真夏の太陽に負けないラブラブっぷりです！」"
+translation = "「신성 회장님도 계시네요! 한여름 태양에 지지 않을 만큼 러브러브한 모습입니다!」"
+
+[[dialogue]]
+speaker = "セーラ"
+original = "「アポロちゃんにルリちー。どしたん？」"
+translation = "「아폴로랑 루리치. 웬일이야?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "//キュピーン！\u3000ひらめき"
+translation = "//큐피잉! 번뜩임"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「へっ……セーラはいい銃をお持ちだと思ってな！」"
+translation = "「헷…… 세라가 좋은 총을 가지고 있다고 생각해서 말이지!」"
+
+[[dialogue]]
+speaker = "セーラ"
+original = "「銃って……これのこと～？」"
+translation = "「총이라니…… 이거 말이야~?」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「ああ！\u3000これから流星星徒会にあたしを加えたメンバーでウォーターサバイバルゲームをやろうって話になったんだ」"
+translation = "「그래! 이제부터 유성 성도회에 나를 포함한 멤버로 워터 서바이벌 게임을 하자는 얘기가 나왔거든」"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「流星イチのスナイパー、セーラ先輩もぜひ参加を！\u3000と思いまして！」"
+translation = "「유성 제일의 스나이퍼, 세라 선배님도 꼭 참가를! 하셨으면 해서요!」"
+
+[[dialogue]]
+speaker = "ソフィア"
+original = "「私やフィオナ会長も連れてこられました」"
+translation = "「저나 피오나 회장님도 끌려왔습니다.」"
+
+[[dialogue]]
+speaker = "セーラ"
+original = "「へー……面白そう！\u3000会長さんもやるよね？」"
+translation = "「헤에…… 재밌겠다! 회장님도 할 거지?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "流星じゃないけどいいの？"
+translation = "유성 멤버는 아닌데 괜찮아?"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「いいぜ！\u3000たまには魔王とチームってのも悪くないな！」"
+translation = "「괜찮다구! 가끔은 마왕이랑 팀인 것도 나쁘지 않지!」"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「セーラ先輩は日頃から銃を得物としていますからね！\u3000強敵です」"
+translation = "「세라 선배님은 평소에도 총을 무기로 쓰시니까요! 강적입니다.」"
+
+[[dialogue]]
+speaker = "ソフィア"
+original = "「えふぴーえす……でしたっけ？\u3000撃ち合うゲームにも慣れていますし、手ごわそうです」"
+translation = "「에프피에스……였나요? 서로 쏘는 게임에도 익숙하시고, 까다로울 것 같습니다.」"
+
+[[dialogue]]
+speaker = "セーラ"
+original = "「ふふふ～バレちゃった？\u3000セーラ先輩は手強いよ～」"
+translation = "「후후후~ 들켜버렸나? 세라 선배는 만만치 않다구~」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「んじゃ、そういうことで参加決定な。向こうで待ってるからな～！」"
+translation = "「그럼, 그런 걸로 참가 결정이다. 저쪽에서 기다릴 테니까~!」"
+
+[[dialogue]]
+speaker = "セーラ"
+original = "「よいしょっ……と。じゃ、うちらも行こっか」"
+translation = "「영차…… 하고. 그럼 우리도 갈까」"
+
+[[dialogue]]
+speaker = "セーラ"
+original = "「水鉄砲の撃ち合いなんて腕がなるよ～！\u3000めっちゃわくわくする！」"
+translation = "「물총 싸움이라니 실력 발휘 좀 해볼까~! 정말 기대돼!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "どっちのほうが好き？"
+translation = "어느 쪽이 더 좋아?"
+
+[[dialogue]]
+speaker = "unk"
+original = "セーラさんは……"
+translation = "세라 씨는……"
+
+[[dialogue]]
+speaker = "セーラ"
+original = "「……へ？\u3000何その質問」"
+translation = "「……에? 뭐야 그 질문은」"
+
+[[dialogue]]
+speaker = "セーラ"
+original = "「どっちって──ああ。２人の時と、みんなでいる時ってこと？」"
+translation = "「어느 쪽이라니── 아아. 둘이 있을 때랑, 다 같이 있을 때 말이야?」"
+
+[[dialogue]]
+speaker = "セーラ"
+original = "「そんなの──どっちも好きだよ。会長さんと２人でいるのも、みんなでワイワイやってるのも」"
+translation = "「그런 건── 둘 다 좋아해. 회장님이랑 둘이 있는 것도, 다 같이 왁자지껄하게 노는 것도」"
+
+[[dialogue]]
+speaker = "セーラ"
+original = "「会長さんに色んな顔があるように……うちにも色んな側面があるってだけ」"
+translation = "「회장님에게 여러 얼굴이 있듯이…… 나에게도 여러 측면이 있을 뿐이야」"
+
+[[dialogue]]
+speaker = "セーラ"
+original = "「恋人として会長さんと接してるうち、先輩として流星のみんなと遊んでるうち、上の先輩に可愛がられてた頃の後輩としてのうち……」"
+translation = "「연인으로서 회장님을 대하는 나, 선배로서 유성 애들이랑 노는 나, 윗선배들한테 귀염받던 시절의 후배로서의 나……」"
+
+[[dialogue]]
+speaker = "セーラ"
+original = "「ま、会長さんには全部のうちを知ってほしいって思うけどね♪」"
+translation = "「뭐, 회장님한테는 전부의 나를 알아줬으면 좋겠다고 생각하지만 말이야♪」"
+
+[[dialogue]]
+speaker = "unk"
+original = "俺も知りたい"
+translation = "나도 알고 싶어"
+
+[[dialogue]]
+speaker = "unk"
+original = "俺も教えたい"
+translation = "나도 알려주고 싶어"
+
+[[dialogue]]
+speaker = "セーラ"
+original = "「ふふっ、可愛いこと言うよね会長さんは。うちもだよ」"
+translation = "「후후, 귀여운 소릴 하네 회장님은. 나도 그래」"
+
+[[dialogue]]
+speaker = "セーラ"
+original = "「これからもずっと一緒にいるんだから──お互いのこと、もっと知ってこ♪」"
+translation = "「앞으로도 계속 같이 있을 거니까── 서로에 대해 더 알아가자♪」"
+
+[[dialogue]]
+speaker = "セーラ"
+original = "「──ってことで、会長さんは敵チームね。日頃味わえないうちの射撃スキル──存分に体感してもらうから！」"
+translation = "「──그런 의미에서, 회장님은 적 팀이야. 평소에 맛볼 수 없는 나의 사격 스킬── 마음껏 체감하게 해줄 테니까!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "それからは流星星徒会のメンバーに囲まれて、ビーチでのひと時を過ごすのだった。"
+translation = "그 후로는 유성 성도회 멤버들에게 둘러싸여, 비치에서의 한때를 보내는 것이었다."
+

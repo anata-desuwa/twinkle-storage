@@ -1,0 +1,285 @@
+[[dialogue]]
+speaker = "unk"
+original = "第２話,新メニュー開発！,P"
+translation = "제2화, 신메뉴 개발!"
+
+[[dialogue]]
+speaker = "リップル"
+original = "「クリスマスは、リゾート結界にあまりお客サン来てくれませーん……」"
+translation = "「크리스마스는 리조트 결계에 손님이 별로 안 오네용……」"
+
+[[dialogue]]
+speaker = "リップル"
+original = "「そこで、クリスマスにお客サンがリゾート結界に来たくナルような、海の家のクリスマスメニューをモネと考えていたのデスが……うまくイキません」"
+translation = "「그래서 크리스마스에 손님이 리조트 결계에 오고 싶어질 만한 바닷가 집의 크리스마스 메뉴를 모네와 생각하고 있었습니당만…… 잘 안 풀려용」"
+
+[[dialogue]]
+speaker = "モネ"
+original = "「お力になれなくて、すみません……」"
+translation = "「힘이 되어드리지 못해서 죄송해요……」"
+
+[[dialogue]]
+speaker = "リップル"
+original = "「ですから、いろんなアルバイトをしてきたカイチョーにも協力してホシイです！」"
+translation = "「그러니까 여러 가지 아르바이트를 해온 회장님도 협력해줬으면 해용!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "俺にできることなら喜んで！"
+translation = "「내가 할 수 있는 일이라면 기꺼이!」"
+
+[[dialogue]]
+speaker = "リップル"
+original = "「アリガトございます！\u3000カイチョーがいればヒャクニンリキでーす！」"
+translation = "「고맙습니당! 회장님이 있으면 천군만마예용!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "モネとどんなメニューを考えていたの？"
+translation = "「모네와 어떤 메뉴를 생각하고 있었어?」"
+
+[[dialogue]]
+speaker = "リップル"
+original = "「ハイ！\u3000ひとつめはサンタクロースの激辛ケーキでーす！」"
+translation = "「하잇! 첫 번째는 산타클로스의 아주 매운 케이크입니당!」"
+
+[[dialogue]]
+speaker = "モネ"
+original = "「デフォルメしたサンタクロースの形をしていて、赤い部分が辛くなっている、というメニューなんですけど……」"
+translation = "「데포르메한 산타클로스 모양을 하고 있고, 빨간 부분이 맵게 되어있는 메뉴입니다만……」"
+
+[[dialogue]]
+speaker = "リップル"
+original = "「モネ以外食べられマセンでした……」"
+translation = "「모네 말고는 못 먹었습니당……」"
+
+[[dialogue]]
+speaker = "モネ"
+original = "「それに赤くない部分は普通に甘いので、全体としてはあまり美味しくなかったです……。世界にはスパイスを使ったチョコレートもあるので、いけるかもと思ったんですが」"
+translation = "「게다가 빨갛지 않은 부분은 평범하게 달아서, 전체적으로는 별로 맛이 없었어요……. 세계에는 스파이스를 사용한 초콜릿도 있으니까 괜찮을까 싶었는데」"
+
+[[dialogue]]
+speaker = "リップル"
+original = "「他にはモネのアイデアで、トナカイ料理も考えたのデスが……」"
+translation = "「그 외에는 모네의 아이디어로 순록 요리도 생각했습니당만……」"
+
+[[dialogue]]
+speaker = "unk"
+original = "トナカイって食べられるの？"
+translation = "「순록을 먹을 수 있어?」"
+
+[[dialogue]]
+speaker = "モネ"
+original = "「はい。トナカイを家畜にしている地域では、ソリを引かせるだけでなく、食肉用としても飼育しています」"
+translation = "「네. 순록을 가축으로 기르는 지역에서는 썰매를 끌게 할 뿐만 아니라 식용으로도 사육해요」"
+
+[[dialogue]]
+speaker = "モネ"
+original = "「祖父は食べたことがあるそうで、臭みもなくて美味しいって言っていました」"
+translation = "「할아버지가 드셔보신 적이 있는데, 잡내도 없고 맛있다고 하셨거든요」"
+
+[[dialogue]]
+speaker = "モネ"
+original = "「それに、トナカイはシカの仲間ですから。鹿肉はジビエでよく食されていますよね」"
+translation = "「게다가 순록은 사슴의 동료니까요. 사슴고기는 지비에로 자주 식용되잖아요」"
+
+[[dialogue]]
+speaker = "リップル"
+original = "「でも、トナカイはサンタのソリ引きます！\u3000ミンナのために働いているのに食べるのカワイソウです！」"
+translation = "「하지만 순록은 산타의 썰매를 끌어용! 모두를 위해 일하는데 먹는 건 불쌍해용!」"
+
+[[dialogue]]
+speaker = "モネ"
+original = "「……と、馴染みのない地域では、心理的に抵抗がある人もいるのでやめておこうということになりました」"
+translation = "「……라고, 낯선 지역에서는 심리적으로 저항감이 있는 사람도 있을 테니 그만두기로 했습니다」"
+
+[[dialogue]]
+speaker = "モネ"
+original = "「トナカイ肉を結界で再現するとしても、そもそもリップルさんがトナカイ肉を食べないといけないので、いろいろと難度が高いです……」"
+translation = "「순록 고기를 결계에서 재현한다고 해도, 애초에 리플 씨가 순록 고기를 먹어야만 하니까 여러모로 난도가 높아요……」"
+
+[[dialogue]]
+speaker = "リップル"
+original = "「最後はコレ！\u3000リゾート結界特製ドキドキプレゼントボックスです！\u3000中にランダムでおもちゃやプレゼントがハイッテます♪」"
+translation = "「마지막은 이거! 리조트 결계 특제 두근두근 선물 상자입니당! 안에 랜덤으로 장난감이나 선물이 들어있어용♪」"
+
+[[dialogue]]
+speaker = "unk"
+original = "面白そう！"
+translation = "「재밌겠는데!」"
+
+[[dialogue]]
+speaker = "モネ"
+original = "「あ、ちょっと待ってください、それは──」"
+translation = "「아, 잠깐 기다려주세요, 그건──」"
+
+[[dialogue]]
+speaker = "unk"
+original = "俺がプレゼントを開封しようとした瞬間、閃光とともに爆発した。"
+translation = "내가 선물을 개봉하려던 순간, 섬광과 함께 폭발했다."
+
+[[dialogue]]
+speaker = "モネ"
+original = "「たまに爆発するので、危険だからダメって言ったんです」"
+translation = "「가끔 폭발하니까 위험하다고 안 된다고 말했어요」"
+
+[[dialogue]]
+speaker = "リップル"
+original = "「人体に害はないカヤクですよ？」"
+translation = "「인체에 해가 없는 화약이라구용?」"
+
+[[dialogue]]
+speaker = "モネ"
+original = "「それでもダメです。ビックリしてひっくり返ったら、頭を打ったりしますから」"
+translation = "「그래도 안 돼요. 깜짝 놀라서 넘어지면 머리를 부딪칠 수도 있으니까요」"
+
+[[dialogue]]
+speaker = "リップル"
+original = "「ウーン、ワタシは面白いとオモったのですが……」"
+translation = "「으음, 저는 재밌다고 생각했습니당만……」"
+
+[[dialogue]]
+speaker = "モネ"
+original = "「こんな感じで、新メニュー開発に苦慮している状態でして……」"
+translation = "「이런 느낌으로 신메뉴 개발에 고심하고 있는 상태라서……」"
+
+[[dialogue]]
+speaker = "リップル"
+original = "「カイチョー！\u3000何かいいアイデアはナイですか！？」"
+translation = "「회장님! 뭐 좋은 아이디어 없나용!?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "海の家に元からあるメニューを改良するとか？"
+translation = "「바닷가 집에 원래 있던 메뉴를 개량한다든가?」"
+
+[[dialogue]]
+speaker = "リップル"
+original = "「ナルホド！\u3000クリスマスバージョンにスルのですね！」"
+translation = "「과연! 크리스마스 버전으로 만드는 거군뇨!」"
+
+[[dialogue]]
+speaker = "モネ"
+original = "「じゃあカレーを──」"
+translation = "「그럼 카레를──」"
+
+[[dialogue]]
+speaker = "リップル"
+original = "「カライのはキャッカですっ」"
+translation = "「매운 건 기각입니당!」"
+
+[[dialogue]]
+speaker = "モネ"
+original = "「先手を打たれた！？」"
+translation = "「선수를 쳤어!?」"
+
+[[dialogue]]
+speaker = "リップル"
+original = "「でもカレーをクリスマスバージョンにするのはイイですね。どんなスペシャルにしましょーか？」"
+translation = "「하지만 카레를 크리스마스 버전으로 만드는 건 좋네용. 어떤 스페셜로 할까용?」"
+
+[[dialogue]]
+speaker = "リップル"
+original = "「お客サンが楽しめるメニューがイイとオモウのですが……」"
+translation = "「손님이 즐길 수 있는 메뉴가 좋겠다고 생각합니당만……」"
+
+[[dialogue]]
+speaker = "unk"
+original = "リップルが楽しいものって何？"
+translation = "「리플이 즐거운 건 뭐야?」"
+
+[[dialogue]]
+speaker = "リップル"
+original = "「サーフィンです！\u3000波に乗るソウカイカンはサイコーです！」"
+translation = "「서핑입니당! 파도를 타는 상쾌함은 최고예용!」"
+
+[[dialogue]]
+speaker = "リップル"
+original = "「──！\u3000今、ヒラメキました……イメージがワイテきまーす……」"
+translation = "「──! 지금 번뜩였어용…… 이미지가 솟아나네용……」"
+
+[[dialogue]]
+speaker = "リップル"
+original = "「イイコト考えました！\u3000モネ、チョット手伝ってください！」"
+translation = "「좋은 거 생각났어용! 모네, 잠깐 도와주세용!」"
+
+[[dialogue]]
+speaker = "モネ"
+original = "「私ですかっ？\u3000お役に立てればいいですけど……」"
+translation = "「저 말인가요? 도움이 된다면 좋겠습니다만……」"
+
+[[dialogue]]
+speaker = "リップル"
+original = "「カイチョー、少しマッテテくださいね！」"
+translation = "「회장님, 조금만 기다려주세용!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "そうして出来あがったのは──"
+translation = "그렇게 완성된 것은──"
+
+[[dialogue]]
+speaker = "リップル"
+original = "「デキました！\u3000特製『波乗りサンタカレー』です！\u3000青いルーを海に見立てて、そこにサンタの飾りをノセました♪」"
+translation = "「완성됐습니당! 특제 『파도타기 산타 카레』예용! 파란 루를 바다로 비유하고, 거기에 산타 장식을 올렸습니당♪」"
+
+[[dialogue]]
+speaker = "リップル"
+original = "「飾りはモネに作ってモライました。モネはとっても器用です♪」"
+translation = "「장식은 모네에게 만드, 만들어 달라고 했어용. 모네는 정말 손재주가 좋아용♪」"
+
+[[dialogue]]
+speaker = "モネ"
+original = "「いつも本の修繕をしているおかげですかね。思ったより上手くできました」"
+translation = "「항상 책 수선을 하고 있는 덕분일까요. 생각보다 잘 만들어졌네요」"
+
+[[dialogue]]
+speaker = "リップル"
+original = "「味も自信作ですよ♪\u3000タベテみてください♪\u3000あ～ん♪」"
+translation = "「맛도 자신작이에용♪ 먹어보세용♪ 아~앙♪」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ちゃんとカレーの味で美味しい！"
+translation = "「제대로 카레 맛이라서 맛있어!」"
+
+[[dialogue]]
+speaker = "リップル"
+original = "「デスよね～♪\u3000ワタシにもタベさせてください♪\u3000あ～……んっ♪」"
+translation = "「그쵸~♪ 저에게도 먹여주세용♪ 아~…… 앙♪」"
+
+[[dialogue]]
+speaker = "リップル"
+original = "「ん～っ、ワレながらよくデキました♪\u3000カイチョーにタベさせてもらうとＢＩＧオイシイで～す♪」"
+translation = "「음~, 제가 만들었지만 잘 만들었네용♪ 회장님이 먹여주시니까 BIG 맛있어용~♪」"
+
+[[dialogue]]
+speaker = "モネ"
+original = "「当然のようにお互いあ～んしてる……すごい……」"
+translation = "「당연하다는 듯이 서로 아앙 하고 있어…… 대단해……」"
+
+[[dialogue]]
+speaker = "リップル"
+original = "「あ、ホッペタにご飯粒がツイテまーす。動かナイでくださいね……」"
+translation = "「아, 뺨에 밥알이 묻어있어용. 움직이지 마세용……」"
+
+[[dialogue]]
+speaker = "リップル"
+original = "「チュッ♪」"
+translation = "「쪽♪」"
+
+[[dialogue]]
+speaker = "モネ"
+original = "「しかもキスまで……！？」"
+translation = "「게다가 키스까지……!?」"
+
+[[dialogue]]
+speaker = "リップル"
+original = "「カイチョーのおかげでクリスマスメニューがデキました。アリガトございます！」"
+translation = "「회장님 덕분에 크리스마스 메뉴가 완성됐습니당. 고맙습니당!」"
+
+[[dialogue]]
+speaker = "リップル"
+original = "「いつもワタシの力になってくれて、カイチョーのことダイスキです♪」"
+translation = "「항상 제 힘이 되어주셔서 회장님이 정말 좋아용♪」"
+

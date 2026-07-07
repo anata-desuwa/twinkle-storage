@@ -1,0 +1,245 @@
+[[dialogue]]
+speaker = "グロリア"
+original = "「！」"
+translation = "「!」"
+
+[[dialogue]]
+speaker = "フラン"
+original = "「てめえ、オレがいねえ間に何してやがる？」"
+translation = "「네 이놈, 내가 없는 사이에 무슨 지거리야?」"
+
+[[dialogue]]
+speaker = "グロリア"
+original = "「フ、フランさん……」"
+translation = "「프, 프랑 씨……」"
+
+[[dialogue]]
+speaker = "unk"
+original = "グロリアさん、大丈夫ですか？"
+translation = "글로리아 씨, 괜찮나요?"
+
+[[dialogue]]
+speaker = "グロリア"
+original = "「会長さんっ」"
+translation = "「회장님!」"
+
+[[dialogue]]
+speaker = "フラン"
+original = "「グロリアが孤立したところを狙うとはいい度胸じゃねえか。だが姿を見せたからには容赦しねえ。きれいさっぱり燃やし尽くしてやる！」"
+translation = "「글로리아가 고립된 틈을 노리다니 배짱 한번 좋구만. 하지만 모습을 드러낸 이상 봐주지 않겠어. 아주 깨끗하게 태워 없애주마!」"
+
+[[dialogue]]
+speaker = "フラン"
+original = "「ハッ、この程度！」"
+translation = "「핫, 이 정도쯤이야!」"
+
+[[dialogue]]
+speaker = "フラン"
+original = "「会長、合わせろ！\u3000フレイムリインフォース！」"
+translation = "「회장, 맞춰라! 플레임 리인포스!」"
+
+[[dialogue]]
+speaker = "フラン"
+original = "「いねえ……チッ、逃げたか……」"
+translation = "「없어…… 칫, 도망쳤나……」"
+
+[[dialogue]]
+speaker = "グロリア"
+original = "「ご無事ですか、フランさんっ、会長さんっ」"
+translation = "「무사하신가요, 프랑 씨, 회장님.」"
+
+[[dialogue]]
+speaker = "フラン"
+original = "「見ての通りピンピンしてるよ。……ったく、みすみす逃がしちまうとはオレも焼きが回ったな」"
+translation = "「보는 대로 쌩쌩해. ……나 원 참, 눈앞에서 놓쳐버리다니 나도 녹슬었나 보군.」"
+
+[[dialogue]]
+speaker = "unk"
+original = "怪我はないですか？"
+translation = "다친 곳은 없나요?"
+
+[[dialogue]]
+speaker = "グロリア"
+original = "「はい。フランさんも会長さんも、助けていただいてありがとうございました。おふたりにはいつもお世話になってばかりで……」"
+translation = "「네. 프랑 씨도 회장님도, 구해주셔서 감사합니다. 두 분께는 언제나 신세만 져서……」"
+
+[[dialogue]]
+speaker = "グロリア"
+original = "「……おふたりとも一緒に死んでいただけませんか？」"
+translation = "「……두 분 다 함께 죽어주지 않으시겠어요?」"
+
+[[dialogue]]
+speaker = "フラン"
+original = "「それじゃ助けた意味ねえだろうが！」"
+translation = "「그러면 구한 의미가 없잖아!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "あはは……"
+translation = "아하하……"
+
+[[dialogue]]
+speaker = "プルちゃん"
+original = "「おーい、なんかあったー？\u3000賑やかな音が聞こえてきたんだけど」"
+translation = "「어─이, 무슨 일 있었어─? 시끌벅적한 소리가 들리길래.」"
+
+[[dialogue]]
+speaker = "フラン"
+original = "「なんかあったー、じゃねえよ。お前がいない間に出たんだよ、死神が」"
+translation = "「무슨 일 있었어─, 가 아니라고. 네가 없는 사이에 나타났단 말이다, 사신이.」"
+
+[[dialogue]]
+speaker = "プルちゃん"
+original = "「やった！\u3000あたし自由研究に死神捕まえに来たんだよね～！\u3000標本にしてやる～！」"
+translation = "「앗싸! 나 자유연구로 사신 잡으러 온 거거든~! 표본으로 만들어 버릴 거야~!」"
+
+[[dialogue]]
+speaker = "フラン"
+original = "「夏休みの昆虫採集か」"
+translation = "「여름 방학 곤충 채집이냐.」"
+
+[[dialogue]]
+speaker = "グロリア"
+original = "「でも厳密には堕天した守護天使様だそうで……。堕天使になっているのは《試練》のパテル様だそうです」"
+translation = "「하지만 엄밀히는 타락한 수호천사님이라고 하더라고요……. 타락천사가 되어있는 건 《시련》의 파텔 님이라고 해요.」"
+
+[[dialogue]]
+speaker = "プルちゃん"
+original = "「へー、しゅごてんしのパテルさまねー。きっとプリチーでエレガントな天使様なんだろうな～」"
+translation = "「헤─, 수호천사 파텔 님이구나─. 분명 프리티하고 엘레강트한 천사님이겠지~」"
+
+[[dialogue]]
+speaker = "フラン"
+original = "「ハッ、グロリアが１人になったところを狙ってきた卑怯者だろ。守護天使が聞いて呆れるぜ」"
+translation = "「핫, 글로리아가 혼자 있는 틈을 노린 비겁자잖아. 수호천사가 다 얼어 죽겠군.」"
+
+[[dialogue]]
+speaker = "プルちゃん"
+original = "「ハハ、それはスマートっていうんだよ。さすが守護天使様だね！」"
+translation = "「하하, 그건 스마트하다고 하는 거야. 역시 수호천사님답네!」"
+
+[[dialogue]]
+speaker = "プルちゃん"
+original = "「でも……それは利用できるかも」"
+translation = "「하지만…… 그건 이용할 수 있을지도.」"
+
+[[dialogue]]
+speaker = "フラン"
+original = "「利用？」"
+translation = "「이용?」"
+
+[[dialogue]]
+speaker = "プルちゃん"
+original = "「パテルはグロリアおねーさんが１人になったところを狙ってきた。てことはあたしたちが集まってる間はきっと襲ってこないよ」"
+translation = "「파텔은 글로리아 언니가 혼자 있을 때를 노렸어. 그 말은 우리가 뭉쳐있는 동안에는 분명 습격하지 않을 거야.」"
+
+[[dialogue]]
+speaker = "プルちゃん"
+original = "「だからあえてバラバラになって、パテルが襲撃してきたところを、連絡を取り合って挟み撃ちにする」"
+translation = "「그러니까 일부러 흩어져서, 파텔이 습격해오면 서로 연락해서 협공하는 거지.」"
+
+[[dialogue]]
+speaker = "プルちゃん"
+original = "「悠長にしてられないし、おびき寄せて逃がさないようにするっていうならこれが一番なんじゃない？」"
+translation = "「여유 부릴 때도 아니고, 유인해서 놓치지 않으려면 이게 제일 낫지 않아?」"
+
+[[dialogue]]
+speaker = "フラン"
+original = "「ダメだ。オレと会長はともかく、グロリアが心配だ。そもそもグロリアは１人で戦うには不向きなんだよ」"
+translation = "「안 돼. 나랑 회장은 그렇다 쳐도, 글로리아가 걱정이다. 애당초 글로리아는 혼자 싸우기에는 부적합하다고.」"
+
+[[dialogue]]
+speaker = "グロリア"
+original = "「大丈夫です。私とてプリマステラですから、フランさんと会長さんと合流するまでは耐えてみせます」"
+translation = "「괜찮습니다. 저도 프리마스텔라니까요, 프랑 씨와 회장님과 합류할 때까지는 버텨 보이겠습니다.」"
+
+[[dialogue]]
+speaker = "グロリア"
+original = "「ダメでも守護天使様に連れていってもらえるなら……」"
+translation = "「안 되더라도 수호천사님이 데려가 주신다면……」"
+
+[[dialogue]]
+speaker = "フラン"
+original = "「ぶれねーなぁ……」"
+translation = "「한결같구만 정말……」"
+
+[[dialogue]]
+speaker = "プルちゃん"
+original = "「んじゃあさぁ、あたしＤＩＳＣ忘れて連絡できないし、単独行動は不安だし、あたしとグロリアおねーさんで行動しようよ。戦力的にはバランス取れるんじゃない？」"
+translation = "「그럼 말이야, 나는 DISC를 깜빡해서 연락을 못 하니까 단독 행동은 불안하고, 나랑 글로리아 언니랑 같이 행동하자. 전력상으로는 밸런스가 맞지 않겠어?」"
+
+[[dialogue]]
+speaker = "フラン"
+original = "「それで大丈夫かぁ？」"
+translation = "「그걸로 괜찮겠어?」"
+
+[[dialogue]]
+speaker = "プルちゃん"
+original = "「あたしだって星騎士だよ？\u3000おねーさんを守るくらいはできるって。屋形船に乗ったつもりで任せといてよ」"
+translation = "「나도 성기사라고? 언니 하나 지키는 것 정도는 할 수 있어. 큰 배에 탄 셈 치고 맡겨달라구.」"
+
+[[dialogue]]
+speaker = "グロリア"
+original = "「ふふふ、頼りにしていますね、プルちゃん」"
+translation = "「후후후, 믿고 있을게요, 플짱.」"
+
+[[dialogue]]
+speaker = "プルちゃん"
+original = "「うん！\u3000大暴れしておにーさんとフランおねーさんをビックリさせてやろー！」"
+translation = "「응! 한바탕 난동 피워서 오빠야랑 프랑 언니를 깜짝 놀라게 해줘야지!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "それからプルちゃんの言うとり、３つに分かれて堕天使パテルをおびき寄せることになった。"
+translation = "그러고 나서 플짱의 말대로, 셋으로 나뉘어 타락천사 파텔을 유인하기로 했다."
+
+[[dialogue]]
+speaker = "unk"
+original = "そして──"
+translation = "그리고──"
+
+[[dialogue]]
+speaker = "unk"
+original = "こっちに出た！"
+translation = "이쪽에 나타났다!"
+
+[[dialogue]]
+speaker = "フラン"
+original = "『ああ？\u3000こっちにも死神出たぞ！\u3000どうなってんだ！？』"
+translation = "『아아? 이쪽에도 사신이 나타났다고! 어떻게 된 거야!?』"
+
+[[dialogue]]
+speaker = "フラン"
+original = "『もしかしてグロリアの方にも──』"
+translation = "『설마 글로리아 쪽에도──』"
+
+[[dialogue]]
+speaker = "グロリア"
+original = "「堕天使が来ました。フランさんたちが来るまで一緒に頑張りましょう、プルちゃん！」"
+translation = "「타락천사가 왔어요. 프랑 씨 일행이 올 때까지 함께 힘내요, 플짱!」"
+
+[[dialogue]]
+speaker = "グロリア"
+original = "「え……あれ……堕天使がたくさん……？」"
+translation = "「에…… 어라…… 타락천사가 잔뜩……?」"
+
+[[dialogue]]
+speaker = "プルちゃん"
+original = "「フフ……」"
+translation = "「후후……」"
+
+[[dialogue]]
+speaker = "グロリア"
+original = "「プルちゃん……？」"
+translation = "「플짱……?」"
+
+[[dialogue]]
+speaker = "プルちゃん"
+original = "「改めて自己紹介するよ。附属のアイドル・プルちゃんは仮の姿──」"
+translation = "「새삼스럽게 자기소개할게. 부속의 아이돌 플짱은 가짜 모습──」"
+
+[[dialogue]]
+speaker = "パテル"
+original = "「あたしは《試練》のパテル。この世界の死神さ！」"
+translation = "「나는 《시련》의 파텔. 이 세계의 사신이야!」"
+

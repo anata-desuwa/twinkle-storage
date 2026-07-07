@@ -1,0 +1,240 @@
+[[dialogue]]
+speaker = "unk"
+original = "第１話,番長襲来！？,P"
+translation = "제1화, 번장 습격!?"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「ふぅ……今日は仕事も少ないし、モンスターも発生してないし、平和だね」"
+translation = "「후우…… 오늘은 일도 적고, 몬스터도 발생하지 않았고, 평화롭네」"
+
+[[dialogue]]
+speaker = "unk"
+original = "確かに"
+translation = "확실히"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「こんな日が続けばいいんだけど……」"
+translation = "「이런 날이 계속되면 좋겠는데……」"
+
+[[dialogue]]
+speaker = "モネ"
+original = "「た、大変ですっ！\u3000隣の学園の番長が殴り込みに来ました～っ！」"
+translation = "「크, 큰일이에요! 옆 학원의 번장이 쳐들어왔어요~!」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「番長！？」"
+translation = "「번장!?」"
+
+[[dialogue]]
+speaker = "ユウリ"
+original = "「よぅ、新星の会長さん。あたしは流星の――」"
+translation = "「여어, 신성의 회장님. 난 유성의──」"
+
+[[dialogue]]
+speaker = "unk"
+original = "番長さんですか？"
+translation = "번장님이신가요?"
+
+[[dialogue]]
+speaker = "ユウリ"
+original = "「誰が番長だ！\u3000星徒会役員だっての！」"
+translation = "「누가 번장이야! 성도회 임원이라고!」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「だよね……良かった、番長じゃなくて……」"
+translation = "「그렇지…… 다행이다, 번장이 아니라서……」"
+
+[[dialogue]]
+speaker = "ユウリ"
+original = "「知ってると思うが一応。あたしは流星星徒会の楠葉ユウリ。役職は庶務だ」"
+translation = "「알고 있겠지만 일단. 난 유성 성도회의 쿠스하 유우리. 직책은 서무다」"
+
+[[dialogue]]
+speaker = "ユウリ"
+original = "「ったく、なんであたしが番長ってことになってるんだよ。どこからどう見ても品行方正な星徒会役員だろ」"
+translation = "「나 원 참, 왜 내가 번장이라는 소리를 듣는 거야. 어디를 봐도 품행 방정한 성도회 임원이잖아」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "（それはどうかな……？）"
+translation = "（그건 어떨까……?）"
+
+[[dialogue]]
+speaker = "モネ"
+original = "「なんというか、こう……やんちゃというか、不良っぽい感じのオーラが……」"
+translation = "「뭐랄까, 그…… 개구쟁이랄까, 불량배 같은 느낌의 오라가……」"
+
+[[dialogue]]
+speaker = "ユウリ"
+original = "「なんだと？」"
+translation = "「뭐라고?」"
+
+[[dialogue]]
+speaker = "モネ"
+original = "「ひいっ、ごめんなさい～っ！」"
+translation = "「히익, 죄송해요~!」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "（紙屋敷さん、正直すぎる……あと普通に失礼）"
+translation = "（카미야시키 씨, 너무 솔직해…… 그리고 보통 실례야）"
+
+[[dialogue]]
+speaker = "unk"
+original = "何か用事？"
+translation = "무슨 용건이야?"
+
+[[dialogue]]
+speaker = "ユウリ"
+original = "「ああ、そうそう。ほい、企画書。うちの星徒会で作ったからそっちでも読んでおいてくれ」"
+translation = "「아아, 그렇지. 자, 기획서. 우리 성도회에서 만들었으니까 그쪽에서도 읽어둬」"
+
+[[dialogue]]
+speaker = "モネ"
+original = "「企画書？」"
+translation = "「기획서?」"
+
+[[dialogue]]
+speaker = "ユウリ"
+original = "「ほら、ヤバそうな事件がいろいろ起きてるだろ。今までは星徒会だけでも十分だったが、これから何が起こるかわからない」"
+translation = "「봐, 위험해 보이는 사건들이 이것저것 일어나고 있잖아. 지금까지는 성도회만으로도 충분했지만, 앞으로 무슨 일이 일어날지 몰라」"
+
+[[dialogue]]
+speaker = "ユウリ"
+original = "「だから戦力の底上げだ。星騎士全員が戦えるように、両星徒会が相手の学園に行って稽古をつけるのはどうかってな」"
+translation = "「그러니까 전력 보강이다. 성기사 전원이 싸울 수 있도록, 양 성도회가 상대 학원에 가서 연습을 시켜주는 건 어떨까 해서 말이야」"
+
+[[dialogue]]
+speaker = "ユウリ"
+original = "「普段は向こうの星徒会役員なんて接点がないし、刺激になるんじゃないか……って<ruby>流星<rt>うち</rt></ruby>の副会長が言ってた」"
+translation = "「평소에는 저쪽 성도회 임원들이랑 접점이 없기도 하고, 자극이 되지 않을까…… 하고 유성 부회장이 말했어」"
+
+[[dialogue]]
+speaker = "モネ"
+original = "「へぇ、そんなことが……戦うの得意じゃないのになぁ……」"
+translation = "「헤에, 그런 일이…… 싸우는 거 잘 못하는데……」"
+
+[[dialogue]]
+speaker = "ユウリ"
+original = "「そういう生徒がいるからこそだ。今度のリクリエは星騎士全員の力が必要になるかもしれない」"
+translation = "「그런 학생이 있으니까 더더욱 필요한 거야. 이번 리크리에는 성기사 전원의 힘이 필요하게 될지도 몰라」"
+
+[[dialogue]]
+speaker = "ユウリ"
+original = "「今までは戦闘が苦手でも何とかなってたが、これからは自分の身を守るためにも強くなってもらわないとな」"
+translation = "「지금까지는 전투가 서툴러도 어떻게든 됐지만, 앞으로는 자신의 몸을 지키기 위해서라도 강해져야 하니까」"
+
+[[dialogue]]
+speaker = "モネ"
+original = "「そ、それはそうなんですけど……うぅ、ちょっと憂鬱……」"
+translation = "「그, 그건 그렇지만요…… 으으, 조금 우울해……」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「ところで、どうして手にサンドイッチを？」"
+translation = "「그런데, 왜 손에 샌드위치를?」"
+
+[[dialogue]]
+speaker = "ユウリ"
+original = "「ああ、星徒会室に来る途中で料理研究会に出くわしてよ。ちょっと審査員してくれって言われて付き合ったら、お礼にもらった」"
+translation = "「아아, 성도회실에 오는 길에 요리연구회랑 마주쳤거든. 잠깐 심사위원을 해달라고 해서 어울려줬더니, 답례로 받았어」"
+
+[[dialogue]]
+speaker = "ユウリ"
+original = "「はむはむ……ごちそうさま。けっこううまかったぜ」"
+translation = "「함냠함냠…… 잘 먹었습니다. 꽤 맛있었다고」"
+
+[[dialogue]]
+speaker = "ユウリ"
+original = "「で、あたしを番長呼ばわりしたお前は何してたとこなんだ？\u3000てか何持ってんだ？」"
+translation = "「그래서, 나를 번장이라 부른 너는 뭘 하던 중이었냐? 그건 또 뭐고?」"
+
+[[dialogue]]
+speaker = "モネ"
+original = "「あ、これ、本を修理する道具なんです。図書館に持っていくところだったんでした……」"
+translation = "「아, 이거, 책을 수리하는 도구예요. 도서관에 가져가려던 참이었는데……」"
+
+[[dialogue]]
+speaker = "ユウリ"
+original = "「ああ、お前図書委員だったのか。それ貸せよ」"
+translation = "「아아, 너 도서위원이었냐. 그거 이리 내」"
+
+[[dialogue]]
+speaker = "モネ"
+original = "「カツアゲ！？」"
+translation = "「삥 뜯기!?」"
+
+[[dialogue]]
+speaker = "ユウリ"
+original = "「ちげーよ。けっこう重そうだから持ってやる。新星の図書館まででいいんだよな？」"
+translation = "「아니라고. 꽤 무거워 보이니까 들어줄게. 신성 도서관까지면 되지?」"
+
+[[dialogue]]
+speaker = "モネ"
+original = "「いいんですか？\u3000わたし失礼なこと言ったのに……」"
+translation = "「괜찮나요? 제가 실례되는 말을 했는데……」"
+
+[[dialogue]]
+speaker = "ユウリ"
+original = "「別にそのくらい気にしやしねーよ。どっかのアホ猫の方が十倍失礼なこと言ってきやがるし」"
+translation = "「별로 그 정도는 신경 안 써. 어디 사는 바보 고양이 녀석이 열 배는 더 실례되는 말을 해대니까」"
+
+[[dialogue]]
+speaker = "ニャリオン"
+original = "『誰がアホ猫ニャン！』"
+translation = "『누가 바보 고양이냥!』"
+
+[[dialogue]]
+speaker = "モネ"
+original = "「じゃあ、半分お願いします……」"
+translation = "「그럼, 절반만 부탁드릴게요……」"
+
+[[dialogue]]
+speaker = "ユウリ"
+original = "「おう、任せろ。それじゃあな、新星の会長さん」"
+translation = "「오냐, 맡겨둬. 그럼 나중에 보자, 신성의 회장님」"
+
+[[dialogue]]
+speaker = "unk"
+original = "優しい人だ"
+translation = "친절한 사람이네"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「そうだね。意外とって言うと失礼だけど」"
+translation = "「그러게. 의외라고 하면 실례지만」"
+
+[[dialogue]]
+speaker = "モネ"
+original = "「ひゃあっ！？」"
+translation = "「히얏!?」"
+
+[[dialogue]]
+speaker = "ユウリ"
+original = "「おおっと。自分で言うのもなんだがナイスキャッチ」"
+translation = "「오옷. 내가 말하긴 좀 그렇지만 나이스 캐치」"
+
+[[dialogue]]
+speaker = "モネ"
+original = "「ありがとうございます……」"
+translation = "「감사합니다……」"
+
+[[dialogue]]
+speaker = "ユウリ"
+original = "「道具持ったままこけるなっての。危なっかしいから全部貸せ」"
+translation = "「도구 든 채로 넘어지지 말라고. 위태로우니까 전부 이리 내」"
+
+[[dialogue]]
+speaker = "モネ"
+original = "「すみません……」"
+translation = "「죄송합니다……」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「ほんとにいい人だな……あはは」"
+translation = "「정말 좋은 사람이네…… 아하하」"
+

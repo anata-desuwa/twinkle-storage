@@ -1,0 +1,235 @@
+[[dialogue]]
+speaker = "unk"
+original = "第４話,プランニングビギナー,P"
+translation = "제4화, 플래닝 비기너"
+
+[[dialogue]]
+speaker = "ミウ"
+original = "「う～ん、どうしよう……」"
+translation = "「으음, 어쩌지……」"
+
+[[dialogue]]
+speaker = "ミウ"
+original = "「あっ、会長さん。そろそろ定期試験の時期じゃないですか」"
+translation = "「앗, 회장님. 슬슬 정기시험 기간이잖아요.」"
+
+[[dialogue]]
+speaker = "ミウ"
+original = "「ゴールデングースの活動に入れこんじゃったんで、今回はちょっと心配なんです」"
+translation = "「골든 구스 활동에 너무 몰두해버려서 이번에는 좀 걱정이에요.」"
+
+[[dialogue]]
+speaker = "ミウ"
+original = "「なので、頼れる先輩に勉強を教えてもらえたらなーって思うんですけど……チラッ、チラッ」"
+translation = "「그래서 믿음직한 선배님께 공부를 배울 수 있으면 좋겠다~ 하고 생각하는데…… 힐끔, 힐끔.」"
+
+[[dialogue]]
+speaker = "unk"
+original = "……俺で良かったら、教えようか？"
+translation = "……나라도 괜찮다면 가르쳐 줄까?"
+
+[[dialogue]]
+speaker = "ミウ"
+original = "「いいんですか！？\u3000ありがとうございます！」"
+translation = "「정말인가요!? 감사합니다!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "こうして俺は、テストまでの間、ミウに勉強を教える特別講師となった。"
+translation = "이렇게 나는 시험 때까지 미우에게 공부를 가르치는 특별 강사가 되었다."
+
+[[dialogue]]
+speaker = "ミウ"
+original = "「ああ……それでこっちの三角形とこっちの三角形が同じになって……なるほど、解けました！」"
+translation = "「아아…… 그래서 이쪽 삼각형이랑 이쪽 삼각형이 같아지고…… 과연, 풀렸어요!」"
+
+[[dialogue]]
+speaker = "ミウ"
+original = "「お稽古の時も思いましたけど、会長さんって人に教えるの、すごく上手ですよね。先生になれるんじゃないですか？」"
+translation = "「대련 때도 느꼈지만 회장님은 남을 가르치는 게 정말 능숙하시네요. 선생님이 되셔도 되지 않을까요?」"
+
+[[dialogue]]
+speaker = "ミウ"
+original = "「お散歩の時に助けてもらったのといい、お稽古といい、会長さんには甘えっぱなしです。いつもありがとうございます」"
+translation = "「산책할 때 도움받은 것도 그렇고 대련에 공부까지, 회장님께 어리광만 부리고 있네요. 항상 감사합니다.」"
+
+[[dialogue]]
+speaker = "unk"
+original = "可愛い後輩のためなら、どうってことないよ"
+translation = "귀여운 후배를 위해서라면 아무것도 아니야."
+
+[[dialogue]]
+speaker = "ミウ"
+original = "「『可愛い後輩』……ですか。『可愛い』って言われるのは嬉しいですけど、枕詞みたいですよね……」"
+translation = "「『귀여운 후배』……인가요. 『귀엽다』는 말을 듣는 건 기쁘지만 수식어 같네요……」"
+
+[[dialogue]]
+speaker = "ミウ"
+original = "「数学の試験範囲は、ここまでです。これなら数学は無事に乗り切れそうです！」"
+translation = "「수학 시험 범위는 여기까지예요. 이 정도면 수학은 무사히 넘길 수 있을 것 같아요!」"
+
+[[dialogue]]
+speaker = "ミウ"
+original = "「え……？\u3000俺が教えるまでもなかった……？」"
+translation = "「에……? 제가 가르칠 필요도 없었다고요……?」"
+
+[[dialogue]]
+speaker = "ミウ"
+original = "「い、いえ、まだ数学だけですから……！\u3000他の教科も心配なので……！」"
+translation = "「아, 아뇨, 아직 수학뿐이니까요……! 다른 과목도 걱정이라서요……!」"
+
+[[dialogue]]
+speaker = "ミウ"
+original = "「会長さんの大切なお時間を奪っちゃうのは心苦しいんですけど……良かったらまた勉強に付き合ってもらえませんか？」"
+translation = "「회장님의 소중한 시간을 뺏는 건 죄송스럽지만…… 괜찮으시다면 또 공부를 도와주실 수 있나요?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "それから数日。俺は空き時間を見ては、ミウの試験勉強を見てあげた。"
+translation = "그 후로 며칠간. 나는 틈틈이 미우의 시험 공부를 도와주었다."
+
+[[dialogue]]
+speaker = "unk"
+original = "教える度にめきめきと成果を出してくれる、実に教え甲斐のある生徒だった。"
+translation = "가르칠 때마다 쑥쑥 성과를 내주는, 참으로 가르치는 보람이 있는 학생이었다."
+
+[[dialogue]]
+speaker = "unk"
+original = "そして、試験前日の最終日。試験を模した小テスト。"
+translation = "그리고 시험 전날 마지막 날. 시험을 모방한 소테스트."
+
+[[dialogue]]
+speaker = "ミウ"
+original = "「ドキドキ……ど、どうですか……？」"
+translation = "「두근두근…… 어, 어떤가요……?」"
+
+[[dialogue]]
+speaker = "ミウ"
+original = "「１００点満点！？\u3000やったぁっ……！\u3000会長さんの教え方が上手だったおかげです。ありがとうございます！」"
+translation = "「100점 만점!? 해냈다……! 회장님이 잘 가르쳐 주신 덕분이에요. 감사합니다!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ミウ自身の努力のおかげだよ"
+translation = "미우 스스로의 노력 덕분이야."
+
+[[dialogue]]
+speaker = "ミウ"
+original = "「そ、そうでしょうか……そう言ってもらえると、嬉しいです……えへへ」"
+translation = "「그, 그럴까요…… 그렇게 말씀해 주시니 기뻐요…… 에헤헤.」"
+
+[[dialogue]]
+speaker = "ミウ"
+original = "「あの、会長さん……頭を撫でてくれませんか？\u3000会長さんからパワーをもらえたら、本番も頑張れると思うんで！」"
+translation = "「저기, 회장님…… 머리 쓰다듬어 주시지 않을래요? 회장님께 파워를 받으면 본 시험도 잘 볼 수 있을 것 같아서요!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "よくできました。よしよし"
+translation = "참 잘했어요. 착하지 착해."
+
+[[dialogue]]
+speaker = "ミウ"
+original = "「はぅうぅぅん……♪\u3000も、もっと、パワーを……なでなでしてください……」"
+translation = "「하우우웅……♪ 더, 더 파워를…… 쓰담쓰담해 주세요……」"
+
+[[dialogue]]
+speaker = "unk"
+original = "よしよし、よしよし"
+translation = "착하지 착해, 착하지."
+
+[[dialogue]]
+speaker = "ミウ"
+original = "「はぅ、はぅ、はぅうぅんっ……♪」"
+translation = "「하우, 하우, 하우우웅……♪」"
+
+[[dialogue]]
+speaker = "unk"
+original = "……このくらいで大丈夫？"
+translation = "……이 정도면 됐어?"
+
+[[dialogue]]
+speaker = "ミウ"
+original = "「はっ……！？\u3000おっ、お忙しい中、本当にありがとうございました。会長さんの教えを無駄にしないよう、頑張ってきます！」"
+translation = "「핫……!? 바, 바쁘신 와중에 정말 감사합니다. 회장님의 가르침을 헛되게 하지 않도록 열심히 하고 올게요!」"
+
+[[dialogue]]
+speaker = "ミウ"
+original = "「会長さんのことはセナリィ社長の次に尊敬しています。それは今も変わりません。でも……」"
+translation = "「회장님은 세나리 사장님 다음으로 존경하고 있어요. 그건 지금도 변함없어요. 하지만……」"
+
+[[dialogue]]
+speaker = "ミウ"
+original = "「好きなのは、会長さんです」"
+translation = "「좋아하는 건 회장님이에요.」"
+
+[[dialogue]]
+speaker = "ミウ"
+original = "「あっ！？\u3000その、今の『好き』っていうのは、ひ、人としてですよ！？\u3000恋愛感情とかそういうのではなくて！」"
+translation = "「앗!? 그, 방금 『좋아한다』는 건 사, 사람으로서예요!? 연애 감정이라든가 그런 게 아니라!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "わかってる、嬉しいよ。ありがとう、ミウ"
+translation = "알고 있어, 기쁘네. 고마워, 미우."
+
+[[dialogue]]
+speaker = "ミウ"
+original = "「わかられちゃダメなのに……」"
+translation = "「알아버리면 안 되는데……」"
+
+[[dialogue]]
+speaker = "ミウ"
+original = "「あっ、いえ、な、なんでもないですっ！\u3000そのー、しっ、失礼しまぁす！」"
+translation = "「앗, 아뇨, 아, 아무것도 아니에요! 그럼, 실례하겠습니다!」"
+
+[[dialogue]]
+speaker = "ミウ"
+original = "「はぁぁ……あっ、ヒマワリちゃん……」"
+translation = "「하아…… 앗, 히마와리짱……」"
+
+[[dialogue]]
+speaker = "ヒマワリ"
+original = "「ミウ、どうしたのー、ため息なんてついちゃってさー。会長さんに勉強教わってたんでしょ？\u3000上手くいった？」"
+translation = "「미우, 왜 그래~ 한숨이나 푹푹 쉬고. 회장님한테 공부 배웠지? 잘 됐어?」"
+
+[[dialogue]]
+speaker = "ミウ"
+original = "「うーん……０点、かな」"
+translation = "「으음…… 0점, 이려나.」"
+
+[[dialogue]]
+speaker = "ヒマワリ"
+original = "「えー！？\u3000学年トップレベルのミウが！？」"
+translation = "「에!? 학년 톱 레벨인 미우가!?」"
+
+[[dialogue]]
+speaker = "ミウ"
+original = "「会長さんに私の想い、ちっとも届かなかったみたいだから」"
+translation = "「회장님한테 내 마음, 조금도 전달되지 않은 것 같거든.」"
+
+[[dialogue]]
+speaker = "ヒマワリ"
+original = "「あー、そっちの話かー。会長さん、肝心なとこでニブチンっぽいもんねー」"
+translation = "「아~ 그쪽 얘기야? 회장님 중요한 대목에서 둔탱이 같긴 하니까~.」"
+
+[[dialogue]]
+speaker = "ミウ"
+original = "「ううん、会長さんのせいじゃない。私の問題だよ」"
+translation = "「으응, 회장님 탓이 아니야. 내 문제지.」"
+
+[[dialogue]]
+speaker = "ミウ"
+original = "「会長さんの前だと、いつもみたいに冷静ではいられなくなっちゃう……恋愛のプランニングはまだまだ初心者だね」"
+translation = "「회장님 앞에서는 평소처럼 냉정해질 수가 없어…… 연애 플래닝은 아직 한참 멀었네.」"
+
+[[dialogue]]
+speaker = "unk"
+original = "翌日、おこなわれた定期試験。"
+translation = "다음 날 치러진 정기 시험."
+
+[[dialogue]]
+speaker = "unk"
+original = "ミウはぶっちぎりの学年１位になったと聞いて、俺も嬉しく思ったのだった。"
+translation = "미우는 압도적인 차이로 학년 1위가 되었다는 소식을 듣고 나도 기쁘게 생각했다."
+

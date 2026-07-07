@@ -1,0 +1,310 @@
+[[dialogue]]
+speaker = "unk"
+original = "第３話,甘えんぼヘレナちゃん,P"
+translation = "제3화, 어리광쟁이 헬레나짱, P"
+
+[[dialogue]]
+speaker = "unk"
+original = "ある日のこと──"
+translation = "어느 날의 일──"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「会長～。この書類作ったから、見てみてくれない？」"
+translation = "「회장~. 이 서류 만들었으니까, 봐주지 않을래?」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「会長。次回の流星との合同会議における議題なのですが……」"
+translation = "「회장. 다음번 유성과의 합동 회의에 대한 의제입니다만……」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「会長くーん。茶道部の子が部室の鍵なくしちゃったみたいなんだけど～」"
+translation = "「회장구운. 다도부 아이가 부실 열쇠를 잃어버린 것 같은데에~」"
+
+[[dialogue]]
+speaker = "unk"
+original = "俺はいつものように、会長の仕事をまっとうしていた。"
+translation = "나는 평소처럼 회장의 일을 완수하고 있었다."
+
+[[dialogue]]
+speaker = "ヘレナ"
+original = "「……」"
+translation = "「……」"
+
+[[dialogue]]
+speaker = "ヘレナ"
+original = "「魔王よ。疲れてはいないか？\u3000仕事は順調か？」"
+translation = "「마왕이여. 지치지는 않았느냐? 일은 순조로운가?」"
+
+[[dialogue]]
+speaker = "ヘレナ"
+original = "「茶菓子もあるぞ。もし肩が凝っておるのなら、私が丹念に揉みほぐしてやる」"
+translation = "「다과도 있단다. 혹시 어깨가 결린다면, 내가 정성껏 주물러 풀어 주마」"
+
+[[dialogue]]
+speaker = "unk"
+original = "いつものこと"
+translation = "늘 있는 일이야"
+
+[[dialogue]]
+speaker = "unk"
+original = "問題ない"
+translation = "문제없어"
+
+[[dialogue]]
+speaker = "ヘレナ"
+original = "「そうか……」"
+translation = "「그러냐……」"
+
+[[dialogue]]
+speaker = "ヘレナ"
+original = "「だが、疲れた時はいつでも言うがよい。このヘレナちゃんがいつでも貴殿の癒やしとなろうぞ」"
+translation = "「하지만, 지쳤을 때는 언제든 말하거라. 이 헬레나짱이 언제든 귀하의 치유가 되어 주마」"
+
+[[dialogue]]
+speaker = "ヘレナ"
+original = "「貴殿はいつも無理しがちな面があるからな。たまには息抜きも必要だ」"
+translation = "「귀하는 항상 무리하기 십상인 면이 있으니까 말이다. 가끔은 휴식도 필요하다」"
+
+[[dialogue]]
+speaker = "ヘレナ"
+original = "「私とはもう、単なる生徒と学園の関係者……という関係を超えた仲だ。いつでも頼ってくればよい」"
+translation = "「나와는 이제, 단순한 학생과 학원 관계자……라는 관계를 넘어선 사이다. 언제든 의지하러 오거라」"
+
+[[dialogue]]
+speaker = "ヘレナ"
+original = "「なんなら、この間の猫カフェにでも一緒に──」"
+translation = "「아니라면, 요전번의 고양이 카페라도 같이──」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「……ねえ、ヘレナちゃん。すっごい気が散るんだけど」"
+translation = "「……저기, 헬레나짱. 엄청 신경 쓰이는데」"
+
+[[dialogue]]
+speaker = "ヘレナ"
+original = "「気にするでない」"
+translation = "「신경 쓰지 말거라」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「気にするわよ！\u3000大体、なんでうちの星徒会室にちゃっかり潜り込んでるのよ！」"
+translation = "「신경 쓰인다고! 애초에, 왜 우리 성도회실에 떡하니 끼어들어 있는 거야!」"
+
+[[dialogue]]
+speaker = "ヘレナ"
+original = "「新星学園の理事長として、いくつか相談事を引き受けていてな──たまたまこちらへ来ていたのだ」"
+translation = "「신성 학원의 이사장으로서, 몇 가지 상담 거리를 맡고 있어서 말이지── 우연히 이쪽으로 왔던 것이다」"
+
+[[dialogue]]
+speaker = "ヘレナ"
+original = "「そのついでに、伴侶の仕事ぶりでも見ておこうかと思ったまでだ」"
+translation = "「그 김에, 반려의 업무 모습이라도 봐 둘까 생각했을 뿐이다」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「伴侶！？」"
+translation = "「반려!?」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「あらあら。会長くんも将来安泰ねえ」"
+translation = "「어머 어머. 회장군도 장래가 유망하네에」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「もう。最近はそっちばっかり……愛娘のことも少しは気にしたらどうなのよ！」"
+translation = "「정말. 요즘은 그쪽만…… 사랑하는 딸도 좀 신경 쓰면 어떠냐고!」"
+
+[[dialogue]]
+speaker = "ヘレナ"
+original = "「今は娘より伴侶だ」"
+translation = "「지금은 딸보다 반려다」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「むう！」"
+translation = "「무우!」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「まあ、お２人も大概仲良く見えますが」"
+translation = "「뭐, 두 분도 대충 사이좋아 보입니다만」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「でも、会長を支えてくれる人ができたのはいいことなんじゃない？」"
+translation = "「하지만, 회장을 지탱해 줄 사람이 생긴 건 좋은 일 아냐?」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「それもそうね。会長くんが無理しないように見ていてくれるのなら」"
+translation = "「그것도 그렇네. 회장군이 무리하지 않도록 지켜봐 준다면」"
+
+[[dialogue]]
+speaker = "ヘレナ"
+original = "「ふふふ、その通りだ。私は貴重な人材なのだぞ」"
+translation = "「후후후, 그렇고말고. 나는 귀중한 인재란 말이다」"
+
+[[dialogue]]
+speaker = "ヘレナ"
+original = "「魔王もとくとありがたみを噛みしめるがよい。私の奉仕を受けられる贅沢な人間など、この世に２人といないのだからな」"
+translation = "「마왕도 톡톡히 고마움을 되새기도록 해라. 나의 봉사를 받을 수 있는 사치스러운 인간 따위, 이 세상에 둘도 없을 테니까 말이다」"
+
+[[dialogue]]
+speaker = "ヘレナ"
+original = "「私がたっぷりと甘やかしてやる。この、大人の包容力でな……ふふふ」"
+translation = "「내가 듬뿍 응석을 받아 주마. 이, 어른의 포용력으로 말이지…… 후후후」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ヘレナちゃんが甘えたいだけ"
+translation = "헬레나짱이 어리광 부리고 싶을 뿐"
+
+[[dialogue]]
+speaker = "unk"
+original = "甘やかしてるんじゃなくて……"
+translation = "응석을 받아 주는 게 아니라……"
+
+[[dialogue]]
+speaker = "ヘレナ"
+original = "「！」"
+translation = "「!」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「あらあら」"
+translation = "「어머 어머」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「え……そうなの？」"
+translation = "「어…… 그래?」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「確かに……甘やかすといいつつ、ずっと会長さんにもたれかかっていましたね」"
+translation = "「확실히…… 응석을 받아 준다면서, 계속 회장님에게 기대고 계셨네요」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「猫カフェも、自分が行きたかっただけなんじゃない……？」"
+translation = "「고양이 카페도, 자기가 가고 싶었을 뿐인 거 아냐……?」"
+
+[[dialogue]]
+speaker = "ヘレナ"
+original = "「い、いや……あれはそういうことではなく……」"
+translation = "「아, 아니…… 그건 그런 게 아니라……」"
+
+[[dialogue]]
+speaker = "ヘレナ"
+original = "「私はただ、魔王に日々の疲れを癒やしてほしくて……だな……」"
+translation = "「나는 그저, 마왕에게 일상의 피로를 풀게 해 주고 싶어서…… 말이지……」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「なに照れてんの、ヘレナちゃん」"
+translation = "「뭘 부끄러워하는 거야, 헬레나짱」"
+
+[[dialogue]]
+speaker = "ヘレナ"
+original = "「やかましいぞ、<ruby>不肖<rt>ふしょう</rt></ruby>の娘」"
+translation = "「시끄럽구나, 못난 딸내미」"
+
+[[dialogue]]
+speaker = "unk"
+original = "愛おしい"
+translation = "사랑스러워"
+
+[[dialogue]]
+speaker = "unk"
+original = "可愛い"
+translation = "귀여워"
+
+[[dialogue]]
+speaker = "ヘレナ"
+original = "「むぅ……魔王よ、そのようなことは軽々しく言うものでないぞ」"
+translation = "「무으…… 마왕이여, 그런 말을 가볍게 하는 것이 아니다」"
+
+[[dialogue]]
+speaker = "ヘレナ"
+original = "「だが──フフ、悪くはない。学園で愛を<ruby>囁<rt>ささや</rt></ruby>き合うというのは……この上ない青春だ」"
+translation = "「하지만── 후후, 나쁘지는 않구나. 학원에서 사랑을 속삭이는 것은…… 더할 나위 없는 청춘이다」"
+
+[[dialogue]]
+speaker = "ヘレナ"
+original = "「貴殿と出会ってから……未知の体験ばかりをさせられているな。それでいて、心温まるから不思議なものだ」"
+translation = "「귀하와 만나고 나서…… 미지의 체험만을 하게 되는구나. 그러면서도, 마음이 따뜻해지니 신기한 일이다」"
+
+[[dialogue]]
+speaker = "unk"
+original = "お互い様"
+translation = "서로 마찬가지야"
+
+[[dialogue]]
+speaker = "unk"
+original = "俺も"
+translation = "나도"
+
+[[dialogue]]
+speaker = "ヘレナ"
+original = "「何？\u3000自分もだと？\u3000ふふ、それもそうか」"
+translation = "「뭐? 자신도 그렇다고? 후후, 그것도 그런가」"
+
+[[dialogue]]
+speaker = "ヘレナ"
+original = "「私はもう、成熟した大人だと思っていたが……そうでもなかったのかもしれん。魔王と出会わなければ、こんな感情にはなれなかった」"
+translation = "「나는 이제 성숙한 어른이라고 생각했다만…… 그렇지도 않았던 모양이군. 마왕과 만나지 않았다면, 이런 감정이 되지는 못했을 터」"
+
+[[dialogue]]
+speaker = "ヘレナ"
+original = "「私も……まだまだ未熟な乙女だったということよな。ふふふ」"
+translation = "「나도…… 아직은 미숙한 소녀였다는 것이겠지. 후후후」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「２人だけの世界になっちゃった」"
+translation = "「둘만의 세계가 돼 버렸어」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「あのー……堂々といちゃつかないでほしいんですけど」"
+translation = "「저기요…… 당당하게 염장 지르지 말아 줬으면 하는데요」"
+
+[[dialogue]]
+speaker = "ヘレナ"
+original = "「うるさい。魔王はやらんぞ、私のものだ」"
+translation = "「시끄럽다. 마왕은 안 준다, 내 것이다」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「開き直っちゃった……」"
+translation = "「아예 배를 쨌네……」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「ラブラブなのは、いいことよね♪」"
+translation = "「러브러브한 건 좋은 일이지♪」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「さすがに時と場合を選んでほしいですが……」"
+translation = "「과연 때와 장소를 가려 주셨으면 합니다만……」"
+
+[[dialogue]]
+speaker = "ヘレナ"
+original = "「なあ、魔王？\u3000カフェテリアに美味なスイーツがあるそうなのだ、一緒にどうだ……？」"
+translation = "「저기, 마왕? 카페테리아에 맛있는 스위츠가 있다고 하더군, 함께 어떠냐……?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "背中越しに抱きついてくるヘレナちゃん。"
+translation = "등 뒤로 껴안아 오는 헬레나짱."
+
+[[dialogue]]
+speaker = "unk"
+original = "俺たちは冷ややかな視線を受けながらも、堂々と触れ合い続けるのだった……。"
+translation = "우리들은 싸늘한 시선을 받으면서도, 당당하게 신체 접촉을 계속하는 것이었다……."
+

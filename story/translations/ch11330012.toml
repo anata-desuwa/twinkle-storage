@@ -1,0 +1,295 @@
+[[dialogue]]
+speaker = "unk"
+original = "第２話,深淵より来たる炎,P"
+translation = "제2화, 심연으로부터 오는 불꽃, P"
+
+[[dialogue]]
+speaker = "unk"
+original = "リィベルと共に戦った翌日、彼女を訪ねに図書館へ向かった。"
+translation = "리벨과 함께 싸운 다음 날, 그녀를 찾아 도서관으로 향했다."
+
+[[dialogue]]
+speaker = "リィベル"
+original = "「あら、魔王じゃない。何か用？\u3000本の貸出？\u3000それとも返却かしら」"
+translation = "「어머, 마왕이잖아. 무슨 일이야? 책 대출? 아니면 반납이려나」"
+
+[[dialogue]]
+speaker = "unk"
+original = "昨日はありがとう"
+translation = "어제는 고마웠어"
+
+[[dialogue]]
+speaker = "リィベル"
+original = "「は？\u3000礼を言われるようなことはしていないはずだけど」"
+translation = "「하? 고맙다는 말을 들을 만한 일은 하지 않았을 텐데」"
+
+[[dialogue]]
+speaker = "リィベル"
+original = "「……誰より早く駆け付けてモンスターを倒した？\u3000それはそうだけど……はぁ」"
+translation = "「……누구보다 빨리 달려가서 몬스터를 쓰러뜨렸다고? 그건 그렇지만…… 하아」"
+
+[[dialogue]]
+speaker = "リィベル"
+original = "「ちょっと来なさい」"
+translation = "「잠깐 이리 와」"
+
+[[dialogue]]
+speaker = "リィベル"
+original = "「ここは『深淵書庫』。あなたもここに来たことはあったわよね」"
+translation = "「여기는 『심연 서고』. 너도 여기에 온 적은 있었지」"
+
+[[dialogue]]
+speaker = "リィベル"
+original = "「書架に並ぶ本たちは、幾度も繰り返されてきたリクリエで滅ぼされた魔族たちの怨念と無念を宿したもの」"
+translation = "「서가에 늘어선 책들은, 몇 번이고 반복되어 온 리크리에로 멸망당한 마족들의 원념과 무념을 품은 것」"
+
+[[dialogue]]
+speaker = "unk"
+original = "怨念と無念……"
+translation = "원념과 무념……"
+
+[[dialogue]]
+speaker = "リィベル"
+original = "「そうよ。リクリエによって世界が滅びる瞬間を、想像したことはあるかしら？」"
+translation = "「그래. 리크리에에 의해 세계가 멸망하는 순간을, 상상해 본 적은 있으려나?」"
+
+[[dialogue]]
+speaker = "リィベル"
+original = "「友と笑い合う者がいた。家族と穏やかな時を過ごす者もいた。熟達した技を使って生計を立てる者もいた」"
+translation = "「친구와 서로 웃는 자가 있었다. 가족과 평온한 시간을 보내는 자도 있었다. 숙련된 기술을 사용하여 생계를 유지하는 자도 있었다」"
+
+[[dialogue]]
+speaker = "リィベル"
+original = "「そんな営みが、<ruby>厄災<rt>リクリエ</rt></ruby>によって無に帰す。その恨みを理解できる？\u3000まぁ、理解する必要はないし、理解してほしいわけでもないけれど」"
+translation = "「그런 삶이, 액재에 의해 무로 돌아간다. 그 한을 이해할 수 있어? 뭐, 이해할 필요는 없고, 이해해 주길 바라는 것도 아니지만」"
+
+[[dialogue]]
+speaker = "リィベル"
+original = "「ここの本たちはそんなリクリエへの怒りと憎しみで満ちている。そしてその怨嗟は呪いとなる」"
+translation = "「여기의 책들은 그런 리크리에를 향한 분노와 증오로 가득 차 있어. 그리고 그 원한은 저주가 된다」"
+
+[[dialogue]]
+speaker = "リィベル"
+original = "「つまり、この書庫は呪いでできているのよ。そして、私自身も」"
+translation = "「즉, 이 서고는 저주로 되어 있는 거야. 그리고, 나 자신도」"
+
+[[dialogue]]
+speaker = "リィベル"
+original = "「魔本たちがリクリエと戦うのは、魔族たちの無念を晴らすため」"
+translation = "「마본들이 리크리에와 싸우는 것은, 마족들의 무념을 풀기 위해서」"
+
+[[dialogue]]
+speaker = "リィベル"
+original = "「復讐は自分の手で遂げてこそ意味がある」"
+translation = "「복수는 자신의 손으로 이뤄야만 의미가 있어」"
+
+[[dialogue]]
+speaker = "リィベル"
+original = "「だから、あなたと慣れ合うつもりはない」"
+translation = "「그러니, 너와 어울릴 생각은 없어」"
+
+[[dialogue]]
+speaker = "リィベル"
+original = "「これは警告よ。私はあなたと協力するつもりはない。……もし私の邪魔をするなら容赦なく呪うわ」"
+translation = "「이건 경고야. 나는 너와 협력할 생각은 없어. ……만약 내 방해를 한다면 용서 없이 저주할 거야」"
+
+[[dialogue]]
+speaker = "unk"
+original = "リィベルの警告から数日後。また現場で一緒になった。"
+translation = "리벨의 경고로부터 며칠 후. 다시 현장에서 함께하게 되었다."
+
+[[dialogue]]
+speaker = "リィベル"
+original = "「……はぁ。また魔王……できれば魔族と一緒に戦いたいのだけど」"
+translation = "「……하아. 또 마왕…… 가능하다면 마족과 함께 싸우고 싶은데」"
+
+[[dialogue]]
+speaker = "リィベル"
+original = "「まぁいいわ。やることは変わらないのだし」"
+translation = "「뭐 됐어. 할 일은 변하지 않으니까」"
+
+[[dialogue]]
+speaker = "リィベル"
+original = "「カースドパブリケーション」"
+translation = "「커스드 퍼블리케이션」"
+
+[[dialogue]]
+speaker = "モンスター"
+original = "「ガガピー」"
+translation = "「가가피」"
+
+[[dialogue]]
+speaker = "unk"
+original = "新たに出現した機械型モンスターはそれまでのモンスターに比べて頑丈だ。生半可な攻撃は通用しない。"
+translation = "새로 출현한 기계형 몬스터는 이전까지의 몬스터에 비해 단단하다. 어설픈 공격은 통하지 않는다."
+
+[[dialogue]]
+speaker = "リィベル"
+original = "「固いわね……厄介な」"
+translation = "「단단하네…… 골치 아픈」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ヴィライアに変身できるって聞いたけど"
+translation = "빌라이아로 변신할 수 있다고 들었는데"
+
+[[dialogue]]
+speaker = "リィベル"
+original = "「それが可能なのは深淵書庫の中だけよ。ヴィライアの因子を持っているといっても、通常空間ではあの姿にはなれないわ」"
+translation = "「그게 가능한 건 심연 서고 안에서뿐이야. 빌라이아의 인자를 가지고 있다고 해도, 통상 공간에서는 그 모습이 될 수 없어」"
+
+[[dialogue]]
+speaker = "リィベル"
+original = "「だいたい、こんなところでヴィライアが暴れたら大変なことに──いえ、何でもないわ」"
+translation = "「대체로, 이런 곳에서 빌라이아가 날뛰면 큰일이── 아니, 아무것도 아니야」"
+
+[[dialogue]]
+speaker = "リィベル"
+original = "「……それならここは協力すべき？\u3000必要ないわ。言ったでしょう、リクリエを打倒するのは私たちだと。むしろ手出ししないで欲しいくらいよ」"
+translation = "「……그렇다면 여기서는 협력해야 할까? 필요 없어. 말했잖아, 리크리에를 타도하는 건 우리라고. 오히려 손대지 말아 줬으면 할 정도야」"
+
+[[dialogue]]
+speaker = "女の子"
+original = "「お母さん、どこー？\u3000……わっ、モンスター！？」"
+translation = "「엄마, 어디ー? ……와, 몬스터!?」"
+
+[[dialogue]]
+speaker = "リィベル"
+original = "「なんで、こんなところに子どもがいるのよ……親は何をしているのかしら」"
+translation = "「왜, 이런 곳에 아이가 있는 거야…… 부모는 뭘 하고 있는 걸까」"
+
+[[dialogue]]
+speaker = "モンスター"
+original = "「ガガガッ！」"
+translation = "「가가가!」"
+
+[[dialogue]]
+speaker = "リィベル"
+original = "「やらせないっ……！」"
+translation = "「당하게 두지 않아……!」"
+
+[[dialogue]]
+speaker = "リィベル"
+original = "「く、うぅ……」"
+translation = "「크, 으윽……」"
+
+[[dialogue]]
+speaker = "女の子"
+original = "「お姉ちゃん！？\u3000大丈夫！？」"
+translation = "「언니!? 괜찮아!?」"
+
+[[dialogue]]
+speaker = "リィベル"
+original = "「ふん、このくらいなんてことないわ」"
+translation = "「흥, 이 정도는 아무것도 아니야」"
+
+[[dialogue]]
+speaker = "リィベル"
+original = "「前言撤回よ。魔王、手を貸しなさい」"
+translation = "「전언 철회야. 마왕, 손을 빌려 줘」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ああ、もちろん！"
+translation = "아아, 물론이지!"
+
+[[dialogue]]
+speaker = "モンスター"
+original = "「ピガガッ！？」"
+translation = "「피가가!?」"
+
+[[dialogue]]
+speaker = "リィベル"
+original = "「呪いの炎に焼かれなさい……ダークブレイズブレス！」"
+translation = "「저주의 불꽃에 타 버려라…… 다크 블레이즈 브레스!」"
+
+[[dialogue]]
+speaker = "モンスター"
+original = "「ピガーーッ！？」"
+translation = "「피거ーー!?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "リィベルが口から火を吐いたー！？"
+translation = "리벨이 입에서 불을 뿜었다ー!?"
+
+[[dialogue]]
+speaker = "リィベル"
+original = "「忘れたの？\u3000煌竜ヴィライアの因子を持っていると言ったでしょう。このくらいわけないわ」"
+translation = "「잊었어? 황룡 빌라이아의 인자를 가지고 있다고 말했잖아. 이 정도는 아무것도 아니야」"
+
+[[dialogue]]
+speaker = "リィベル"
+original = "「モンスターはさっきので片付いたみたいね。……そこの娘、怪我はない？」"
+translation = "「몬스터는 방금 걸로 처리된 것 같네. ……거기 아가씨, 다친 데는 없어?」"
+
+[[dialogue]]
+speaker = "女の子"
+original = "「う、うん……ありがとう」"
+translation = "「으, 응…… 고마워」"
+
+[[dialogue]]
+speaker = "リィベル"
+original = "「……何よ、魔王。私が人間の子どもを助けたのが意外だった？」"
+translation = "「……뭐야, 마왕. 내가 인간 아이를 도운 게 의외였어?」"
+
+[[dialogue]]
+speaker = "リィベル"
+original = "「……そうね、私も想定外よ。咄嗟に体が動いたわ」"
+translation = "「……그러네, 나도 상정 외야. 순간적으로 몸이 움직였어」"
+
+[[dialogue]]
+speaker = "リィベル"
+original = "「私は知っているわ。数えきれない魔族たちが、家族の名を呼びながら死んでいったことを」"
+translation = "「나는 알고 있어. 셀 수 없는 마족들이, 가족의 이름을 부르며 죽어 갔다는 것을」"
+
+[[dialogue]]
+speaker = "リィベル"
+original = "「だから、あの子を見過ごせなかったのかもしれないわね」"
+translation = "「그러니, 그 아이를 못 본 척할 수 없었을지도 모르겠네」"
+
+[[dialogue]]
+speaker = "女の子"
+original = "「あ、お母さん！」"
+translation = "「아, 엄마!」"
+
+[[dialogue]]
+speaker = "母親"
+original = "「こんなところにいたのね……無事でよかった……！」"
+translation = "「이런 곳에 있었구나…… 무사해서 다행이다……!」"
+
+[[dialogue]]
+speaker = "母親"
+original = "「星騎士の皆さんが娘を助けてくださったんですね、本当にありがとうございます！」"
+translation = "「성기사 여러분이 딸을 도와주셨군요, 정말 감사합니다!」"
+
+[[dialogue]]
+speaker = "リィベル"
+original = "（私は星騎士ではないのだけど）"
+translation = "（나는 성기사가 아니지만）"
+
+[[dialogue]]
+speaker = "unk"
+original = "（まぁまぁ……）"
+translation = "（뭐, 뭐……）"
+
+[[dialogue]]
+speaker = "女の子"
+original = "「じゃあね、かえんほうしゃのお姉ちゃん！」"
+translation = "「그럼 안녕, 화염 방사 언니!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "母親に手を引かれ、女の子が遠ざかっていく。"
+translation = "어머니에게 손이 이끌려, 소녀가 멀어져 간다."
+
+[[dialogue]]
+speaker = "リィベル"
+original = "「ふふっ……何よ、火炎放射って」"
+translation = "「후훗…… 뭐야, 화염 방사라니」"
+
+[[dialogue]]
+speaker = "unk"
+original = "親子を見送るリィベルの表情は、小さく微笑んでいた。"
+translation = "모녀를 배웅하는 리벨의 표정은, 작게 미소 짓고 있었다."
+

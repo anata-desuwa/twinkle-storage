@@ -1,0 +1,295 @@
+[[dialogue]]
+speaker = "unk"
+original = "第２話,勉強は苦手,P"
+translation = "제2화, 공부는 질색"
+
+[[dialogue]]
+speaker = "unk"
+original = "極星学園星徒会のみんなは、一時的に<ruby>逗留<rt>とうりゅう</rt></ruby>している平行世界人だ。"
+translation = "극성 학원 성도회 멤버들은 일시적으로 체류하고 있는 평행 세계인들이다."
+
+[[dialogue]]
+speaker = "unk"
+original = "しかし学生である以上、勉学をおろそかにしてはいけない──それが学園長であるシノさんからのお達しだ。"
+translation = "하지만 학생인 이상 학업을 소홀히 해서는 안 된다── 그것이 학원장인 시노 씨의 지침이다."
+
+[[dialogue]]
+speaker = "グレイス"
+original = "「すごい量の本ですね～っ！\u3000やっぱり復興した後の極星学園に比べて、蔵書が桁違いです！」"
+translation = "「엄청난 양의 책이네요~! 역시 부흥한 뒤의 극성 학원에 비해 장서가 차원이 달라요!」"
+
+[[dialogue]]
+speaker = "チナ"
+original = "「うっ……活字まみれの本……頭が……」"
+translation = "「윽…… 글자투성이인 책…… 머리가……」"
+
+[[dialogue]]
+speaker = "レティシア"
+original = "「困ったわね。どうにかして本を読まずに、課題を終わらせられないかしら」"
+translation = "「곤란하네. 어떻게든 책을 읽지 않고 과제를 끝낼 수는 없을까」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「レティシアさんって、読書はしないんですか？」"
+translation = "「레티시아 씨는 독서를 안 하시나요?」"
+
+[[dialogue]]
+speaker = "レティシア"
+original = "「まったくしないわね。ページをめくる暇があったら、戦闘訓練の方が有意義だもの」"
+translation = "「전혀 안 해. 페이지를 넘길 틈이 있다면 전투 훈련을 하는 편이 유의미하니까」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「意外かも……何だか本を読む姿が、すごく絵になる人に見えますけど」"
+translation = "「의외일지도…… 왠지 책 읽는 모습이 굉장히 잘 어울릴 것 같은 분으로 보이는데」"
+
+[[dialogue]]
+speaker = "レティシア"
+original = "「それ、デネブでもよく言われるのよね……イメージと違うって。どうしてかしら？」"
+translation = "「그거 데네브에서도 자주 듣는 소리네…… 이미지와 다르다고. 왜일까?」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「落ち着いたお姉さんですから、何でもできちゃう感じが漂っているっていうか……」"
+translation = "「차분한 언니 같은 느낌이라 뭐든 잘해낼 것 같은 분위기가 풍긴달까……」"
+
+[[dialogue]]
+speaker = "レティシア"
+original = "「偏見ね。自慢じゃないけれど──私は本を一切読まないわ」"
+translation = "「편견이야. 자랑은 아니지만── 난 책을 일절 읽지 않아」"
+
+[[dialogue]]
+speaker = "unk"
+original = "本当に自慢にならない……！"
+translation = "정말로 자랑이 아니야……!"
+
+[[dialogue]]
+speaker = "レティシア"
+original = "「私の役割は、ルヴィの命令を完遂することだもの。読書する暇があったら刀を振るうべきでしょう？」"
+translation = "「내 역할은 루비의 명령을 완수하는 것인걸. 독서할 틈이 있다면 칼을 휘둘러야지?」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「す、すごい思いきり。一応、合理的ではあるのかな……？」"
+translation = "「수, 상당히 단호하시네요. 일단 합리적이기는 한 건가……?」"
+
+[[dialogue]]
+speaker = "グレイス"
+original = "「よ～し！\u3000ひとまずお勉強、始めちゃいましょう！\u3000私、本を見繕ってきます！」"
+translation = "「좋~아! 일단 공부 시작해 봐요! 제가 책 좀 골라올게요!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "せっかくなので極星のみんなと同じテーブルで、俺とマトイも学園の課題を進めることにした──"
+translation = "기왕 이렇게 된 거 극성 멤버들과 같은 테이블에서 나와 마토이도 학원 과제를 진행하기로 했다──"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「あれ……？\u3000この数式、どうやって解けばいいんだっけ……会長、わかる？」"
+translation = "「어라……? 이 수식, 어떻게 푸는 거였더라…… 회장, 알아?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "……ごめん、俺もわからない"
+translation = "……미안, 나도 모르겠어"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「最近、出撃続きで復習ができてないんだよね……こんな時、サーシャさんがいてくれたらなぁ……」"
+translation = "「요즘 계속 출격하느라 복습을 못 했거든…… 이럴 때 사샤 씨가 있어 준다면 좋을 텐데……」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「あ──そうだっ。レティシアさん、ちょっと聞いてもいいですか？」"
+translation = "「아── 맞다. 레티시아 씨, 잠시 물어봐도 될까요?」"
+
+[[dialogue]]
+speaker = "レティシア"
+original = "「あら。何かしら」"
+translation = "「어머. 뭘까」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「この設問なんですけど、ちょっと詰まってて……よかったら教えてくれませんか？」"
+translation = "「이 문항인데, 좀 막혀서…… 괜찮으시면 가르쳐 주실 수 있나요?」"
+
+[[dialogue]]
+speaker = "レティシア"
+original = "「……どうしてみんな、私に勉強を教えてって言うのかしら？\u3000デネブでもよく聞かれるのよね」"
+translation = "「……어째서 다들 나한테 공부를 가르쳐달라고 하는 걸까? 데네브에서도 자주 질문받았거든」"
+
+[[dialogue]]
+speaker = "チナ"
+original = "「レティシアはアタシより勉強できないぞ」"
+translation = "「레티시아는 나보다 공부 못한다고」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「ええっ！？」"
+translation = "「에엣!?」"
+
+[[dialogue]]
+speaker = "グレイス"
+original = "「極星星徒会の中で一番成績悪いですからね……」"
+translation = "「극성 성도회 중에서 가장 성적이 나쁘니까요……」"
+
+[[dialogue]]
+speaker = "unk"
+original = "い、意外だ……"
+translation = "의, 의외다……"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「うん。すっごく勉強、できそうに見えるのに……！」"
+translation = "「응. 굉장히 공부 잘할 것 같이 보이는데……!」"
+
+[[dialogue]]
+speaker = "レティシア"
+original = "「偏見ね。自慢じゃないけれど──私の成績は下から数えた方が早いの。覚えておいてね」"
+translation = "「편견이야. 자랑은 아니지만── 내 성적은 뒤에서 세는 게 빠르단다. 기억해 둬」"
+
+[[dialogue]]
+speaker = "unk"
+original = "そ、そんなに悪いのか……！？"
+translation = "그, 그렇게나 나쁜 건가……!?"
+
+[[dialogue]]
+speaker = "レティシア"
+original = "「あなたたち、星徒会の役員なのでしょう？\u3000思い込みや偏見は捨てないとダメじゃないかしら？」"
+translation = "「너희, 성도회 임원이지? 선입견이나 편견은 버리지 않으면 안 되지 않겠니?」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「あれ？\u3000なんか逆にお説教されてる……！？」"
+translation = "「어라? 왠지 역으로 설교 듣고 있어……!?」"
+
+[[dialogue]]
+speaker = "チナ"
+original = "「これでもマシになったんだぞ？\u3000アタシらと出会った時は、読み書きだってできなかったし……」"
+translation = "「이것도 나아진 거라고? 우리랑 처음 만났을 때는 읽고 쓰는 것도 못 했으니까……」"
+
+[[dialogue]]
+speaker = "チナ"
+original = "「ていうかちょっと聞きたいんだけどさ。アタシら５人の成績……どういう順番だとお前らは思ってるんだ？」"
+translation = "「그보다 좀 묻고 싶은데 말이야. 우리 5명의 성적…… 너희는 어떤 순서라고 생각하냐?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "次は……ベアトリスあたり？"
+translation = "다음은…… 베아트리스 정도?"
+
+[[dialogue]]
+speaker = "unk"
+original = "ルヴィネが一番成績が良さそう"
+translation = "루비네가 성적이 가장 좋을 것 같아"
+
+[[dialogue]]
+speaker = "レティシア"
+original = "「ルヴィについてはその通りね。入学した時からずっと首席。あの子が満点以外を取ってるところ、見たことがないわ。でも……」"
+translation = "「루비에 대해서는 정답이야. 입학했을 때부터 줄곧 수석. 그 아이가 만점 이외를 받는 걸 본 적이 없거든. 하지만……」"
+
+[[dialogue]]
+speaker = "グレイス"
+original = "「ええ、さっそく訂正しなくては！\u3000２番目は私です！\u3000ていうか学年次席です！\u3000えっへん！！」"
+translation = "「네, 바로 정정해야겠네요! 2등은 저입니다! 그보다 전교 차석이라고요! 에헴!!」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「えええぇええっ！？\u3000グレイスちゃんが！？」"
+translation = "「에에에에엑!? 그레이스짱이!?」"
+
+[[dialogue]]
+speaker = "チナ"
+original = "「驚きだろ？\u3000こいつアホだけど、成績だけはいいんだ……」"
+translation = "「놀랍지? 이 녀석 바보 같아 보여도 성적만큼은 좋다고……」"
+
+[[dialogue]]
+speaker = "グレイス"
+original = "「アホは余計ですよチナ！\u3000私はしっかり者です！！」"
+translation = "「바보는 사족이에요 치나! 전 똑부러지는 사람이라고요!!」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「ど、どうやってそんないい成績を！？\u3000勉強法、知りたい……！」"
+translation = "「어, 어떻게 그렇게 좋은 성적을!? 공부법 알고 싶어……!」"
+
+[[dialogue]]
+speaker = "グレイス"
+original = "「授業をしっかり聞いていればＯＫです！\u3000テストの点はそれでばっちりです！」"
+translation = "「수업을 제대로 듣기만 하면 OK예요! 시험 점수는 그걸로 완벽해요!」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「身も蓋もない！！\u3000じゃ、じゃあ３番目はベアトリスさん……？」"
+translation = "「너무 뻔한 소리잖아!! 그, 그럼 3등은 베아트리스 씨……?」"
+
+[[dialogue]]
+speaker = "チナ"
+original = "「アタシだよ！\u3000ベアトはアタシの下！！」"
+translation = "「나야! 베아트는 내 밑!!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "チナが──３番目に成績がいい！？"
+translation = "치나가── 3번째로 성적이 좋다고!?"
+
+[[dialogue]]
+speaker = "チナ"
+original = "「失礼すぎるリアクション……！\u3000くそっ、どいつもこいつも！\u3000デネブの奴らもみんな同じことを言いやがって……！！」"
+translation = "「너무 실례되는 반응인데……! 젠장, 다들 똑같아! 데네브 녀석들도 다들 같은 소리를 해대고……!!」"
+
+[[dialogue]]
+speaker = "レティシア"
+original = "「でもチナとベアトはほとんど並んでるわ。ぶっちぎりで私だけができないの。ふふふ」"
+translation = "「하지만 치나랑 베아트는 거의 비슷비슷해. 압도적으로 나만 못하는 거야. 후후후」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「笑ってる場合じゃないですよレティシアさん！？」"
+translation = "「웃고 계실 때가 아니에요 레티시아 씨!?」"
+
+[[dialogue]]
+speaker = "チナ"
+original = "「戦闘中の判断スピードとか、頭の回転っていうのか？\u3000そういうのはレティシア、めちゃくちゃ凄いんだけど……」"
+translation = "「전투 중의 판단 속도라든가 두뇌 회전 같은 거? 그런 건 레티시아가 엄청나긴 한데……」"
+
+[[dialogue]]
+speaker = "レティシア"
+original = "「文字に書かれた知識の蓄積は一切できないと思って頂戴？\u3000自慢じゃないけれど、教科書だって読んだ試しがないもの」"
+translation = "「문자로 쓰인 지식의 축적은 일절 못 한다고 생각해 줄래? 자랑은 아니지만 교과서조차 읽어본 적이 없는걸」"
+
+[[dialogue]]
+speaker = "レティシア"
+original = "「授業中は、訓練に備えて眠っているくらい。<ruby>積極的休養<rt>アクティブレスト</rt></ruby>、というやつね」"
+translation = "「수업 중에는 훈련에 대비해서 잠들어 있는 정도지. 적극적 휴식이라는 거야」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「もうやめましょう、それ！\u3000本当に自慢じゃないです！\u3000あとアクティブレストもぜんぜん意味が違うと思います！！」"
+translation = "「이제 그만하세요, 그거! 정말 자랑 아니거든요! 그리고 액티브 레스트도 전혀 의미가 다르다고 생각해요!!」"
+
+[[dialogue]]
+speaker = "レティシア"
+original = "「でも私より成績の悪い子が、デネブには何人かいるのよね……少し心配になっちゃうわ。大丈夫かしら……？」"
+translation = "「그래도 나보다 성적이 나쁜 아이들이 데네브에는 몇 명 있거든…… 조금 걱정되네. 괜찮을까……?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "他人の心配してる場合じゃない！！"
+translation = "남 걱정할 때가 아니야!!"
+
+[[dialogue]]
+speaker = "チナ"
+original = "「まあそんなわけだから……レティシアに聞いても何も進まないぞってことは教えとくよ……」"
+translation = "「뭐 그런 상황이니까…… 레티시아한테 물어봐도 아무것도 진척 안 된다는 건 알려둘게……」"
+
+[[dialogue]]
+speaker = "unk"
+original = "レティシアは勉強ができない──それだけでなく。"
+translation = "레티시아는 공부를 못한다── 그뿐만이 아니라."
+
+[[dialogue]]
+speaker = "unk"
+original = "極星星徒会のメンバーの、意外な成績事情を知ってしまう俺とマトイなのだった……"
+translation = "극성 성도회 멤버들의 의외인 성적 사정을 알게 된 나와 마토이였다……"
+

@@ -1,0 +1,325 @@
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「ふむふむ……それが交流会の企画書？」"
+translation = "「흐음…… 그게 교류회 기획서?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "どうかな？"
+translation = "어때?"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「うん、バッチリだと思うわ！\u3000あとはフィオナと話を詰めていくだけね」"
+translation = "「응, 완벽하다고 생각해! 이제 피오나와 이야기를 마무리 지으면 되겠네」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「早速、流星学園にお邪魔しましょ。あちらも何かアイデアを思いついてる頃だろうし」"
+translation = "「바로 유성 학원에 가보자. 그쪽도 뭔가 아이디어를 떠올렸을 테니까」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「ごめんください」"
+translation = "「실례하겠습니다」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「あ、フィオナ。ちょうど訪ねるところだったのよ」"
+translation = "「아, 피오나. 마침 찾아가려던 참이었어」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「例の交流会のお話ですね？\u3000私たちも良案を思いついていますよ」"
+translation = "「그 교류회에 대한 이야기 말씀이시죠? 저희도 좋은 안을 떠올렸습니다」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「でもごめんなさい。その前にお伺いしたいことがありまして。お二人ともルリエルを──」"
+translation = "「하지만 죄송합니다. 그전에 여쭤보고 싶은 것이 있어서요. 두 분 다 루리엘을──」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「きゃっ！？\u3000日誌が……！」"
+translation = "「꺅!? 일지가……!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "まさかまた新しいページが？"
+translation = "설마 또 새로운 페이지가?"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「今度は一体──って、あら？\u3000特にページは増えてないわね」"
+translation = "「이번엔 대체── 어라? 딱히 페이지가 늘어나진 않았네」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「まさか……」"
+translation = "「설마……」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「ん？\u3000何か心当たりあるの？\u3000で、さっき言ってた伺いたいことって？」"
+translation = "「응? 뭔가 짐작 가는 거 있어? 그래서, 아까 말했던 여쭤보고 싶었던 건 뭔데?」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「もしかすると関係があるのかもしれませんが……お二人とも、ルリエルを見かけませんでしたか？」"
+translation = "「어쩌면 관계가 있을지도 모르겠습니다만…… 두 분 다, 루리엘을 못 보셨나요?」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「ルリエル？\u3000ああ、あのそそっかしい天使の子よね？\u3000私たちは見ていないけど」"
+translation = "「루리엘? 아아, 그 덜렁대는 천사 아이 말이지? 우리는 못 봤는데」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「やはり……そうですか。実は彼女、数日前から行方知れずになっているんです」"
+translation = "「역시…… 그런가요. 실은 그녀, 며칠 전부터 행방불명이 되었어요」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「大変じゃない！\u3000モンスターに囚われていたりしたら……！」"
+translation = "「큰일이잖아! 몬스터에게 붙잡히기라도 했다면……!」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「いえ、それはないと思います。アステラが発生したという報告も受けていませんから」"
+translation = "「아뇨, 그럴 일은 없을 겁니다. 아스테라가 발생했다는 보고도 받지 못했으니까요」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「しかしだからこそ心配で。そこでお二人にも相談をと思って訪ねてきたのですが」"
+translation = "「하지만 그렇기에 더욱 걱정돼서요. 그래서 두 분께도 상담을 할까 해서 찾아왔는데」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「そのタイミングで私の日誌が光った……と。これはきっと偶然じゃないわね！」"
+translation = "「그 타이밍에 내 일지가 빛났다……라. 이건 분명 우연이 아닐 거야!」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「そうなのかもしれません。もしかするとルリエルはあの塔に……」"
+translation = "「그럴지도 모릅니다. 어쩌면 루리엘은 그 탑에……」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「とにかくフィーニスの塔へ行ってみましょ。何かわかるかもしれないわ」"
+translation = "「어쨌든 피니스 탑으로 가보자. 뭔가 알 수 있을지도 몰라」"
+
+[[dialogue]]
+speaker = "マグダレナ"
+original = "「これは一体……」"
+translation = "「이건 대체……」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「あら、マグダレナ？」"
+translation = "「어라, 막달레나?」"
+
+[[dialogue]]
+speaker = "マグダレナ"
+original = "「ヴィーナスさま。フィオナさまや会長さまも。どうしてこちらに？」"
+translation = "「비너스 님. 피오나 님이나 회장님도. 어째서 여기에?」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「私たちはルリエルを探しに──いえ、それよりマグダレナこそどうしたの？\u3000深刻な顔をして」"
+translation = "「우리는 루리엘을 찾으러── 아니, 그보다 막달레나야말로 왜 그래? 심각한 얼굴을 하고」"
+
+[[dialogue]]
+speaker = "マグダレナ"
+original = "「実は世界の境界に、原因不明の乱れが発生しているようなのです」"
+translation = "「실은 세계의 경계에, 원인 불명의 흐트러짐이 발생하고 있는 듯합니다」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「乱れ、ですか？」"
+translation = "「흐트러짐, 말인가요?」"
+
+[[dialogue]]
+speaker = "マグダレナ"
+original = "「はい。このようなことは私も初めてです」"
+translation = "「네. 이런 일은 저도 처음입니다」"
+
+[[dialogue]]
+speaker = "マグダレナ"
+original = "「邪悪な気配は感じませんが、しかし何が起こるか──」"
+translation = "「사악한 기운은 느껴지지 않지만, 하지만 무슨 일이 일어날지──」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「きゃっ。また日誌が」"
+translation = "「꺅. 또 일지가」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「フィーニスの塔も光り輝いています……！」"
+translation = "「피니스 탑도 빛나고 있습니다……!」"
+
+[[dialogue]]
+speaker = "マグダレナ"
+original = "「これは……日誌とフィーニスの塔が共鳴している……？\u3000光が──」"
+translation = "「이건…… 일지와 피니스 탑이 공명하고 있는……? 빛이──」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「何が何だかわからないけど望むところよ！\u3000受けて立つわ！」"
+translation = "「뭐가 뭔지는 모르겠지만 바라던 바야! 받아주겠어!」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「ええっ、ヴィーナスさん！？\u3000ダメです、呑み込まれます……！」"
+translation = "「에엣, 비너스 씨!? 안 됩니다, 휩쓸려요……!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "っっ──！！"
+translation = "크읏──!!"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「ここ、は……？\u3000フィーニスの塔の中じゃないわよね」"
+translation = "「여, 기는……? 피니스 탑 안은 아니네」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「どこかの学園……でしょうか？\u3000なぜ私たちはこんな場所に？」"
+translation = "「어딘가의 학원……일까요? 왜 우리는 이런 곳에?」"
+
+[[dialogue]]
+speaker = "マグダレナ"
+original = "「境界の乱れに巻き込まれてしまったようですね……。人間界のどこかに転移させられてしまったようです」"
+translation = "「경계의 흐트러짐에 휘말려 버린 것 같네요……. 인간계 어딘가로 전이된 것 같습니다」"
+
+[[dialogue]]
+speaker = "unk"
+original = "見慣れない場所だ"
+translation = "낯선 장소다"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「相当遠くまで飛ばされちゃったのかしら。現在地の確認を──って、あら？\u3000ＤＩＳＣが圏外だわ」"
+translation = "「꽤 멀리 날아와 버린 건가. 현재 위치를 확인을── 어라? DISC가 권외네」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「私のＤＩＳＣもです。おかしいですね、人間界で圏外だなんて……」"
+translation = "「제 DISC도 그렇습니다. 이상하네요, 인간계에서 권외라니……」"
+
+[[dialogue]]
+speaker = "マグダレナ"
+original = "「世界の摂理が機能していない……？\u3000いえ、そもそも世界の構造が違う……？\u3000いったい何が……」"
+translation = "「세계의 섭리가 기능하지 않는……? 아니, 애초에 세계의 구조가 다른……? 대체 무슨 일이……」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「ブツブツ言ってどうしたの、マグダレナ？」"
+translation = "「중얼중얼거리고 왜 그래, 막달레나?」"
+
+[[dialogue]]
+speaker = "マグダレナ"
+original = "「まだ推測の域を出ませんが。もしかすると──」"
+translation = "「아직 추측의 영역을 벗어나지 못했습니다만. 어쩌면──」"
+
+[[dialogue]]
+speaker = "？？？"
+original = "「待ちなさーいっ！！」"
+translation = "「기다려어어ー!!」"
+
+[[dialogue]]
+speaker = "？？？"
+original = "「また悪さばっかりしてっ。お仕置きなんだからーっ！」"
+translation = "「또 나쁜 짓만 하고. 벌을 받아야지이ー!」"
+
+[[dialogue]]
+speaker = "雑魚魔族"
+original = "「イー！」"
+translation = "「이이!」"
+
+[[dialogue]]
+speaker = "リア"
+original = "「相変わらず逃げ足だけは速い……！\u3000聖沙ちゃん、追いかけるよ！」"
+translation = "「여전히 도망치는 발만 빠르네……! 미사짱, 쫓아가자!」"
+
+[[dialogue]]
+speaker = "聖沙"
+original = "「は、はいっ！\u3000どこまでもお供します、お姉さまっ！」"
+translation = "「하, 하잇! 어디까지라도 모시겠습니다, 언니!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ここにもモンスターが！"
+translation = "여기에도 몬스터가!"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「そうね。でもさっきの２人、見覚えがないわね。流星学園の星騎士かしら」"
+translation = "「그러게. 근데 아까 그 두 사람, 본 적이 없네. 유성 학원의 성기사인가」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「いえ、私も知らない星騎士ですね。とにかく先程の二人を追いかけましょう」"
+translation = "「아뇨, 저도 모르는 성기사입니다. 일단 방금 그 두 사람을 쫓아갑시다」"
+
+[[dialogue]]
+speaker = "聖沙"
+original = "「追い詰めたわよ、観念なさい！」"
+translation = "「궁지에 몰아넣었어, 단념해!」"
+
+[[dialogue]]
+speaker = "リア"
+original = "「みんなから盗ったものを返して！」"
+translation = "「모두에게서 훔친 걸 돌려줘!」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「手を貸すわ！\u3000二人だけじゃ危険よ！」"
+translation = "「도와줄게! 둘이서만은 위험해!」"
+
+[[dialogue]]
+speaker = "聖沙"
+original = "「えっ、と……どちら様？」"
+translation = "「엣, 그러니까…… 누구세요?」"
+
+[[dialogue]]
+speaker = "リア"
+original = "「ダメだよ。魔族は普通の人には倒せな──」"
+translation = "「안 돼. 마족은 보통 사람으로는 쓰러뜨릴 수 없──」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「心配しないでください。私たちも──<ruby>星騎士<rt>スターナイト</rt></ruby>ですから」"
+translation = "「걱정하지 마세요. 저희도── <ruby>성기사<rt>스타 나이츠</rt></ruby>니까요」"
+
+[[dialogue]]
+speaker = "聖沙"
+original = "「へ？\u3000すたー……ないと……？」"
+translation = "「헤? 스타ー…… 나이츠……?」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「みんな、戦闘準備！」"
+translation = "「모두, 전투 준비!」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「さぁ、参りましょう！」"
+translation = "「자, 가봅시다!」"
+
+[[dialogue]]
+speaker = "リア"
+original = "「どういう、こと？\u3000どうして私たち以外にクルセイダースが……」"
+translation = "「무슨, 일이야? 어째서 우리 말고 크루세이더스가……」"
+
+[[dialogue]]
+speaker = "聖沙"
+original = "「先輩っ、今は魔族をっ」"
+translation = "「선배, 지금은 마족을」"
+
+[[dialogue]]
+speaker = "リア"
+original = "「そ、そうだねっ。とにかく、みんなから奪った福引き券は返してもらうんだから～っ！」"
+translation = "「그, 그렇네. 어쨌든, 모두에게서 빼앗은 복권은 돌려받아야 하니까아～!」"
+

@@ -1,0 +1,505 @@
+[[dialogue]]
+speaker = "unk"
+original = "第１話,黒の正体,B"
+translation = "제1화, 검은 정체, B"
+
+[[dialogue]]
+speaker = "unk"
+original = "──その一撃は<ruby>兜<rt>かぶと</rt></ruby>を割った。"
+translation = "──그 일격은 투구를 갈랐다."
+
+[[dialogue]]
+speaker = "unk"
+original = "そして、甲冑の下から現れたのは……"
+translation = "그리고, 갑옷 아래에서 나타난 것은……"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「……」"
+translation = "「……」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「……」"
+translation = "「……」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「セイファート……学園……長……」"
+translation = "「세이퍼트…… 학원…… 장……」"
+
+[[dialogue]]
+speaker = "unk"
+original = "俺たち新星学園星騎士たちの長──ジェラルド・セイファートその人だった。"
+translation = "우리 신성 학원 성기사들의 장── 제럴드 세이퍼트 바로 그 사람이었다."
+
+[[dialogue]]
+speaker = "セイファート"
+original = "「いつから……気づいていた……」"
+translation = "「언제부터…… 눈치챘지……」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「拳を交えた時に……その呼吸から。信じたくは、なかったけど……」"
+translation = "「주먹을 맞댔을 때…… 그 호흡에서부터. 믿고 싶지는, 않았지만……」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "（緋宮くんは……戦いの中で……）"
+translation = "（히노미야 군은…… 싸움 속에서……）"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "（そういえば──この間、稽古をつけてもらったとかって……）"
+translation = "（그러고 보니── 얼마 전, 검술 지도를 받았다고 했었는데……）"
+
+[[dialogue]]
+speaker = "unk"
+original = "学園長は膝を地につき、それ以上抵抗する素振りを見せなかった。"
+translation = "학원장은 무릎을 땅에 대고, 더 이상 저항할 기색을 보이지 않았다."
+
+[[dialogue]]
+speaker = "unk"
+original = "御前試合を取り仕切ってくれていたときの毅然さはもうない。"
+translation = "어전 시합을 주관해 주었을 때의 의연함은 더 이상 없다."
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「学園、長……どうして、あなたが……」"
+translation = "「학원, 장…… 어째서, 당신이……」"
+
+[[dialogue]]
+speaker = "セイファート"
+original = "「……フ。ま……知られては仕方がないな」"
+translation = "「……훗. 뭐…… 알려졌다면 어쩔 수 없지.」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「あなたは俺たち新星の星騎士を率いる者──俺は星徒会長として、このまま見過ごすわけにはいかない」"
+translation = "「당신은 우리 신성의 성기사를 이끄는 자── 나는 성도 회장으로서, 이대로 못 본 척할 수는 없다.」"
+
+[[dialogue]]
+speaker = "セイファート"
+original = "「……ああ。申し開きをするつもりはない」"
+translation = "「……아아. 변명할 생각은 없다.」"
+
+[[dialogue]]
+speaker = "セイファート"
+original = "「私はもはや身も心も暗黒に堕ちた。おまえ達にとって憎むべき仇敵……それだけだ」"
+translation = "「나는 이미 몸도 마음도 암흑에 떨어졌다. 너희들에게 있어 증오해야 할 원수…… 그뿐이다.」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「そうじゃない──！\u3000俺はただ、あなたの本心を……！」"
+translation = "「그렇지 않아──! 나는 그저, 당신의 본심을……!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "黙ろうとする学園長に、俺は焦りがこらえきれず叫んだ。"
+translation = "침묵하려는 학원장에게, 나는 초조함을 참지 못하고 소리쳤다."
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「私も……このまま見過ごすわけにはいきません」"
+translation = "「저도…… 이대로 못 본 척할 수는 없습니다.」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「──お聞かせください。なぜ、あなたがそうなってしまったのか」"
+translation = "「──들려주세요. 어째서, 당신이 그렇게 되어버렸는지.」"
+
+[[dialogue]]
+speaker = "セイファート"
+original = "「……星見の娘」"
+translation = "「……별을 보는 딸.」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「いつだったか……父が言っていました。あなたは、流星市国を守る真の騎士であると」"
+translation = "「언젠가…… 아버지가 말했습니다. 당신은, 유성 시국을 지키는 진정한 기사라고.」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「フィオナのお父さん──流星教皇が？」"
+translation = "「피오나의 아버지── 유성 교황이?」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「知り合いだったの……？」"
+translation = "「아는 사이였어……?」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「ええ。そもそも、彼を新星学園の初代学園長へ推薦したのも──私の父ですから」"
+translation = "「네. 애초에, 그분을 신성 학원의 초대 학원장으로 추천한 것도── 제 아버지이니까요.」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「そ、そうだったんだ……」"
+translation = "「그, 그랬던 거구나……」"
+
+[[dialogue]]
+speaker = "unk"
+original = "それは意外な関係だった。セイファート学園長と流星教皇は昔からの仲だったようだ。"
+translation = "그것은 의외의 관계였다. 세이퍼트 학원장과 유성 교황은 옛날부터 친분이 있었던 모양이다."
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「父は……それほどまでにあなたを信頼していました。陰ながら流星市国を支え続けてきた、あなたを」"
+translation = "「아버지는…… 그 정도로 당신을 신뢰했습니다. 남몰래 유성 시국을 계속 지탱해 온, 당신을.」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「流星市国を支える──それは、どういう……？」"
+translation = "「유성 시국을 지탱한다── 그것은, 어떤……?」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「今の私たちと似たようなものです。彼は独自の立場で、数々のリクリエ問題に対処し続けてきた……」"
+translation = "「지금의 저희와 비슷한 것입니다. 그분은 독자적인 입장에서, 수많은 리크리에 문제에 계속 대처해 왔습니다……」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「特に新星学園の設立前──増え続けるアステラに対し、出動できる星騎士たちの数は限られていましたから」"
+translation = "「특히 신성 학원 설립 전── 계속 늘어나는 아스테라에 대해, 출동할 수 있는 성기사들의 수는 한정되어 있었으니까요.」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「そうして彼は、人知れず多くの街と命を救っていた……」"
+translation = "「그렇게 그분은, 남몰래 많은 마을과 생명을 구하고 있었습니다……」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「生徒としてでも、教師としてでもない……ただ純粋に平和を願う『流星の騎士』として」"
+translation = "「학생으로서도, 교사로서도 아닌…… 그저 순수하게 평화를 바라는 『유성의 기사』로서.」"
+
+[[dialogue]]
+speaker = "セイファート"
+original = "『──怪我はないか、少年』"
+translation = "『──다친 데는 없느냐, 소년.』"
+
+[[dialogue]]
+speaker = "セイファート"
+original = "『強くあれ。世界を取り込まんとする力に、決して飲まれることなきように』"
+translation = "『강해져라. 세계를 집어삼키려는 힘에, 결코 먹히는 일이 없도록.』"
+
+[[dialogue]]
+speaker = "unk"
+original = "俺の原点――"
+translation = "나의 원점――"
+
+[[dialogue]]
+speaker = "unk"
+original = "いつだって胸の中に抱いてきた、あの日の言葉がよみがえる。"
+translation = "언제나 가슴속에 품어왔던, 그날의 말이 되살아난다."
+
+[[dialogue]]
+speaker = "unk"
+original = "あの頃の彼は──学園長でも黒騎士でもない、ただの正義感あふれる戦士として……"
+translation = "그때의 그는── 학원장도 검은 기사도 아닌, 그저 정의감 넘치는 전사로서……"
+
+[[dialogue]]
+speaker = "セイファート"
+original = "「……過ぎた話だ。人は変わる」"
+translation = "「……지나간 이야기다. 사람은 변한다.」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「いいえ──私は星見の娘として、あなたを選んだ責任を背負わねばなりません」"
+translation = "「아닙니다── 저는 별을 보는 딸로서, 당신을 선택한 책임을 짊어져야 합니다.」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「アニュラスさんだって──父親であるあなたを目標としていました。その人物像が作られたものでないことくらいわかります」"
+translation = "「아뉴라스 씨도── 아버지인 당신을 목표로 삼고 있었습니다. 그 인물상이 만들어진 것이 아니라는 것 정도는 압니다.」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「そんなあなたが……なぜリクリエを望むのです？\u3000そして再三口にしていたデネブとはなんなのですか？」"
+translation = "「그런 당신이…… 왜 리크리에를 바라는 것인가요? 그리고 되풀이해서 말하던 데네브란 무엇인가요?」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「すべてを明かしていただけるまで──この剣はあなたを放しません」"
+translation = "「모든 것을 밝혀주실 때까지── 이 검은 당신을 놓아주지 않을 것입니다.」"
+
+[[dialogue]]
+speaker = "セイファート"
+original = "「……フッ」"
+translation = "「……훗.」"
+
+[[dialogue]]
+speaker = "unk"
+original = "太陽の星力で編まれた剣を、眼前へと突きつけるフィオナ。"
+translation = "태양의 성력으로 엮어낸 검을, 눈앞으로 들이대는 피오나."
+
+[[dialogue]]
+speaker = "unk"
+original = "だが、セイファート学園長は膝をついたままくつくつと笑った。"
+translation = "하지만, 세이퍼트 학원장은 무릎을 꿇은 채 쿡쿡 웃었다."
+
+[[dialogue]]
+speaker = "unk"
+original = "そこで俺はもう、我慢が効かなくなってしまった。"
+translation = "거기서 나는 더 이상, 참을 수 없게 되어버렸다."
+
+[[dialogue]]
+speaker = "クロト"
+original = "「…………えてくれよ」"
+translation = "「…………해 줘.」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「え……」"
+translation = "「에……」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「答えてくれよ……何が目的だってんだよっ！\u3000学園長っ！！」"
+translation = "「대답해 줘…… 목적이 대체 뭐냐고! 학원장!!」"
+
+[[dialogue]]
+speaker = "セイファート"
+original = "「……」"
+translation = "「……」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「緋宮、くん……」"
+translation = "「히노미야, 군……」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「あなたは……あなたは俺に示してくれたはずだ。星騎士としての道を。破滅から人々を救う手立てを」"
+translation = "「당신은…… 당신은 나에게 보여줬을 터다. 성기사로서의 길을. 파멸로부터 사람들을 구할 방법을.」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「──だったらっ！\u3000どうして自分から災厄を招くような真似をするんだ！\u3000どうしてヴィーナスに手をかけようなんて思うんだ！」"
+translation = "「──그렇다면! 어째서 스스로 재앙을 불러오는 짓을 하는 거야! 어째서 비너스에게 손을 대려고 생각하는 거야!」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「あの時の言葉は嘘だったのか！？\u3000答えて、くれよ……っ！」"
+translation = "「그때의 말은 거짓이었던 건가!? 대답해, 달라고……!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "抑えていた感情があふれ出す。"
+translation = "억누르고 있던 감정이 넘쳐흐른다."
+
+[[dialogue]]
+speaker = "unk"
+original = "俺は期待していたのだろう。彼もまた、なんらかの不可抗力によって操られているのかもしれないと。"
+translation = "나는 기대하고 있었던 것이리라. 그 역시, 무언가의 불가항력에 의해 조종당하고 있을지도 모른다고."
+
+[[dialogue]]
+speaker = "unk"
+original = "だが……"
+translation = "하지만……"
+
+[[dialogue]]
+speaker = "セイファート"
+original = "「当時の私の考えを語るのは易い。目の前の悪を倒していれば、飽くなき平和が手に入ると信じていた……青い理想だ」"
+translation = "「당시 나의 생각을 말하는 것은 쉽다. 눈앞의 악을 쓰러뜨리고 있으면, 끝없는 평화가 손에 들어올 것이라 믿었다…… 미숙한 이상이지.」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「ッ……！\u3000あくまで……<ruby>顧<rt>かえり</rt></ruby>みないって、いうのか」"
+translation = "「윽……! 끝까지…… 돌아보지 않겠다는, 거냐.」"
+
+[[dialogue]]
+speaker = "セイファート"
+original = "「ああ。過去の私は過っていた。それだけだ」"
+translation = "「아아. 과거의 나는 잘못되었다. 그뿐이다.」"
+
+[[dialogue]]
+speaker = "unk"
+original = "彼には<ruby>韜晦<rt>とうかい</rt></ruby>も……改心もなかった。真っ直ぐに見返すその瞳に陰りはない。"
+translation = "그에게는 도회도…… 개심도 없었다. 곧바로 되돌아보는 그 눈동자에 그늘은 없다."
+
+[[dialogue]]
+speaker = "セイファート"
+original = "「どうした？\u3000その拳は、剣は飾りか？\u3000生徒として──不甲斐ない教師に引導を渡すのなら、今しかないぞ？」"
+translation = "「왜 그러지? 그 주먹은, 검은 장식인가? 학생으로서── 못난 교사에게 마지막을 고할 생각이라면, 지금밖에 없다.」"
+
+[[dialogue]]
+speaker = "ニャリオン"
+original = "「ニャ……っ！？」"
+translation = "「냥……윽!?」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「このままとどめを刺せっていうの──？」"
+translation = "「이대로 마무리를 지으라는 거야──?」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「待ってください──聞きたいことがまだ全く聞けていません！」"
+translation = "「기다려 주세요── 묻고 싶은 것을 아직 전혀 듣지 못했습니다!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "セイファート──学園長──は、無防備に大手を広げてみせた。"
+translation = "세이퍼트── 학원장──은, 무방비하게 팔을 활짝 펼쳐 보였다."
+
+[[dialogue]]
+speaker = "セイファート"
+original = "「倒すべき敵なのだろう。許すべからざる相手だろう。それを殺す覚悟もなしに、のこのこと乗り込んできたのか？」"
+translation = "「쓰러뜨려야 할 적이겠지. 용서할 수 없는 상대일 것이다. 그것을 죽일 각오도 없이, 태평하게 쳐들어온 것인가?」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「……あなたの言う通りだ。俺たちはとうに覚悟を決めてきた」"
+translation = "「……당신의 말대로다. 우리는 이미 각오를 다져 왔다.」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「ちょっと、緋宮くん──っ！？」"
+translation = "「잠깐, 히노미야 군──윽!?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "この拳を振り下ろす。少なくともそれで、<ruby>仇<rt>かたき</rt></ruby>としていた黒騎士は討てる。"
+translation = "이 주먹을 내리친다. 적어도 그것으로, 원수로 여겼던 검은 기사는 쓰러뜨릴 수 있다."
+
+[[dialogue]]
+speaker = "unk"
+original = "彼が憧れの騎士だったというのは俺の個人的な感情で、強大な力を持ちリクリエに加担する存在を、星徒会長として見逃すわけにはいかない。"
+translation = "그가 동경의 기사였다는 것은 나의 개인적인 감정이며, 강대한 힘을 가지고 리크리에에 가담하는 존재를, 성도 회장으로서 못 본 척할 수는 없다."
+
+[[dialogue]]
+speaker = "unk"
+original = "なにより、同情も共感も、理解さえも。この漆黒の騎士は求めていなかった。"
+translation = "무엇보다, 동정도 공감도, 이해조차도. 이 칠흑의 기사는 바라지 않았다."
+
+[[dialogue]]
+speaker = "クロト"
+original = "（手を下すなら、俺がやるべきだ。他のみんなに、この役目を負わせるわけには──）"
+translation = "（손을 쓴다면, 내가 해야 한다. 다른 모두에게, 이 역할을 지게 할 수는──）"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「……ふざけんじゃないわよ」"
+translation = "「……까불지 마.」"
+
+[[dialogue]]
+speaker = "unk"
+original = "無限にも等しい<ruby>逡巡<rt>しゅんじゅん</rt></ruby>が回り回った、その時──ヴィーナスが重たい口を開いた。"
+translation = "무한과도 같은 망설임이 맴돌고 맴돌았던, 그때── 비너스가 무거운 입을 열었다."
+
+[[dialogue]]
+speaker = "セイファート"
+original = "「……ああ。デネブの娘──悪かったな。失望したか？」"
+translation = "「……아아. 데네브의 딸── 미안하군. 실망했나?」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「──違うわよ。謝る相手が違うでしょ」"
+translation = "「──아니거든. 사과할 상대가 다르잖아.」"
+
+[[dialogue]]
+speaker = "セイファート"
+original = "「何……？」"
+translation = "「뭐……?」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「……怒ってるわ。私。でも、それは私を連れ去ったとか、悪事を働いたとかじゃなくて」"
+translation = "「……화났어. 나. 하지만, 그건 나를 납치했다거나, 악행을 저질렀다거나 하는 게 아니라」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「あんたが……クロトの想いを裏切ったこと。それだけは絶対に許せない」"
+translation = "「네가…… 쿠로토의 마음을 배신한 것. 그것만은 절대로 용서할 수 없어.」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「ヴィー……ナス……」"
+translation = "「비……너스……」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「クロトはね──あんたを尊敬してたのよ！\u3000新星に入学するずっと前から！」"
+translation = "「쿠로토는 말이야── 너를 존경했어! 신성에 입학하기 훨씬 전부터!」"
+
+[[dialogue]]
+speaker = "セイファート"
+original = "「…………」"
+translation = "「…………」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「会長になった次の日──私に教えてくれたわ。いつかの学園長の背中を見て、星騎士になるのを決めたんだって。御前試合が終わって、憧れのあんたがいることに気づいたんだって」"
+translation = "「회장이 된 다음 날── 나에게 알려줬어. 언젠가의 학원장의 뒷모습을 보고, 성기사가 되기로 결심했다고. 어전 시합이 끝나고, 동경하던 네가 있다는 걸 깨달았다고.」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「なのに、そのあんたが……みっともなく開き直ってんじゃないわよ！」"
+translation = "「그런데, 그 네가…… 꼴사납게 뻔뻔하게 굴지 마!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ヴィーナスは──過去に例を見ないほど、激昂していた。"
+translation = "비너스는── 과거에 유례가 없을 정도로, 격앙되어 있었다."
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「私のことなんてどうでもいいから──あんたはクロトにけじめをつけなさいよ！\u3000負け逃げなんて、絶対に許さないんだから──！」"
+translation = "「나에 대한 건 아무래도 좋으니까── 너는 쿠로토에게 매듭을 지어! 패배하고 도망치는 건, 절대로 용서하지 않을 테니까──!」"
+
+[[dialogue]]
+speaker = "セイファート"
+original = "「っっ……何──！？」"
+translation = "「윽윽…… 뭐──!?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "黒騎士──否、セイファート学園長の握っていた『未来の日誌』が、突如として宙へ舞い上がった。"
+translation = "검은 기사── 아니, 세이퍼트 학원장이 쥐고 있던 『미래의 일지』가, 돌연 하늘로 솟아올랐다."
+
+[[dialogue]]
+speaker = "クロト"
+original = "（<ruby>持ち主<rt>ヴィーナス</rt></ruby>へ還っている──？\u3000いや違う、これは……！）"
+translation = "（주인에게 돌아가고 있는 건가──? 아니, 달라, 이것은……!）"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「デブだかデネブだかなんだか知らないけど──人のことほじくり返しといて、自分は黙秘なんてムシがよすぎるのよ」"
+translation = "「데브인지 데네브인지 뭔지는 모르겠지만── 남의 일 들춰내 놓고, 자신은 묵비권이라니 뻔뻔하기 짝이 없어.」"
+
+[[dialogue]]
+speaker = "ニャリオン"
+original = "「ニャ──ニャんニャのニャ、これは──！？」"
+translation = "「냥── 뭐인 거냐옹, 이것은──!?」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「光の星術──それも、<b>日誌そのものを媒体とした</b>──！？」"
+translation = "「빛의 성술── 그것도, 일지 그 자체를 매개로 삼은──!?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "弾けた日誌のページ、その一枚一枚が粉雪のように舞い散っていく──そうして放たれた輝きは冥森林の一帯を包み込んだ。"
+translation = "터져 나온 일지의 페이지, 그 한 장 한 장이 가루 눈처럼 흩날린다── 그렇게 방출된 빛은 명삼림 일대를 감쌌다."
+
+[[dialogue]]
+speaker = "unk"
+original = "黒騎士の鎧、その中身を<ruby>漂白<rt>ひょうはく</rt></ruby>するかのように！"
+translation = "검은 기사의 갑옷, 그 내용물을 표백하듯이!"
+
+[[dialogue]]
+speaker = "セイファート"
+original = "「なんだ──この波動は──っ……！」"
+translation = "「뭐냐── 이 파동은──윽……!」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「暴かせてもらうわ、あんたの全部──そこでおとなしくしてなさい！」"
+translation = "「파헤쳐 주겠어, 네 모든 것을── 거기서 얌전히 있어!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "そうして俺たちは、白濁する光の中へとに呑み込まれた……。"
+translation = "그렇게 우리들은, 희뿌옇게 흐려지는 빛 속으로 삼켜졌다……. "
+

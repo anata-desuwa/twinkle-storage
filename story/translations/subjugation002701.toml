@@ -1,0 +1,200 @@
+[[dialogue]]
+speaker = "unk"
+original = "とある放課後、俺はまた九浄家からの呼び出しを受けていた。"
+translation = "어느 방과 후, 나는 다시 쿠죠 가문으로부터 호출을 받았다."
+
+[[dialogue]]
+speaker = "ヘレナ"
+original = "「よく来てくれたな、魔王。時間もない故、早速本題に入ろう」"
+translation = "「잘 와주었군, 마왕. 시간도 없으니 바로 본론으로 들어가지.」"
+
+[[dialogue]]
+speaker = "ヘレナ"
+original = "「実は、アニマがとんでもないものを発明してくれてな。……ヨミヨミ、例の物を」"
+translation = "「실은, 아니마가 엄청난 것을 발명해 주어서 말이다. ……요미요미, 예의 그 물건을.」"
+
+[[dialogue]]
+speaker = "ヨミ"
+original = "「はいっ、当主様」"
+translation = "「네, 당주님.」"
+
+[[dialogue]]
+speaker = "unk"
+original = "これは何です？"
+translation = "이건 뭐죠?"
+
+[[dialogue]]
+speaker = "unk"
+original = "なんだか物々しい機械が……"
+translation = "왠지 삼엄한 기계가……"
+
+[[dialogue]]
+speaker = "ヘレナ"
+original = "「ふっふっふ……何を隠そう、これは空間転移装置だ！」"
+translation = "「훗훗훗…… 다른 무엇도 아닌, 이건 공간 전이 장치다!」"
+
+[[dialogue]]
+speaker = "ヘレナ"
+original = "「どうだ、驚いて声も出まい。その名の通り、空間を転移する装置なのだ！」"
+translation = "「어떠냐, 놀라서 목소리도 안 나오겠지. 이름 그대로, 공간을 전이하는 장치인 것이다!」"
+
+[[dialogue]]
+speaker = "ヘレナ"
+original = "「星騎士は高速で移動することが出来るが、それでも超長距離を一瞬でというわけにはいかぬ」"
+translation = "「성기사는 고속으로 이동할 수 있지만, 그래도 초장거리를 순식간에 이동할 수는 없지.」"
+
+[[dialogue]]
+speaker = "ヘレナ"
+original = "「ところがこの装置を使えば、リンクを行った場所に一瞬で転移することが出来るのだ」"
+translation = "「그런데 이 장치를 쓰면, 링크를 수행한 장소로 순식간에 전이할 수 있는 것이다.」"
+
+[[dialogue]]
+speaker = "ヘレナ"
+original = "「ただ今はまだ、転移先を自由に設定することは出来ない。転移できる場所は数か所に限られている。そういう意味ではこの装置は未完成なのだ」"
+translation = "「다만 지금은 아직 전이 대상을 자유롭게 설정할 수는 없지. 전이할 수 있는 장소는 몇 군데로 한정되어 있다. 그런 의미에서 이 장치는 미완성인 게지.」"
+
+[[dialogue]]
+speaker = "ヘレナ"
+original = "「そこで魔王には、この空間転移装置のテストをしてもらいたい。なに、そんな心配そうな顔をするな、転移自体には何も問題はない」"
+translation = "「그래서 마왕에게는 이 공간 전이 장치의 테스트를 해주었으면 한다. 뭐, 그렇게 걱정스러운 얼굴 하지 말거라, 전이 자체에는 아무런 문제가 없으니.」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ほ、本当ですか……？"
+translation = "정, 정말인가요……?"
+
+[[dialogue]]
+speaker = "ヘレナ"
+original = "「本当だとも。ついでと言っては何だが、転移先の視察も行ってきてくれれば重畳だ」"
+translation = "「정말이고말고. 덤이라고 하긴 뭐하다만, 전이 장소의 시찰도 다녀와 준다면 더할 나위 없겠지.」"
+
+[[dialogue]]
+speaker = "ヘレナ"
+original = "「その場所は以前、突発的に出現したアステラによって壊滅しかかった」"
+translation = "「그곳은 이전에 돌발적으로 출현한 아스테라에 의해 괴멸할 뻔했느니라.」"
+
+[[dialogue]]
+speaker = "ヘレナ"
+original = "「今は復興が進んでいるが、流星市国から遠く離れた場所故に、なかなか視察に赴くことも難しい」"
+translation = "「지금은 부흥이 진행되고 있지만, 유성시국에서 멀리 떨어진 곳이라 좀처럼 시찰을 가기도 어렵지.」"
+
+[[dialogue]]
+speaker = "ヘレナ"
+original = "「その場所に赴いて、魔王の目でその復興状況を確かめて来て欲しい。どうだ、頼まれてくれるか？」"
+translation = "「그 장소에 가서 마왕의 눈으로 부흥 상황을 확인하고 와주길 바란다. 어떠냐, 맡아주겠느냐?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "任せて下さい！"
+translation = "맡겨 주세요!"
+
+[[dialogue]]
+speaker = "unk"
+original = "そういうことであれば！"
+translation = "그렇게 된 거라면!"
+
+[[dialogue]]
+speaker = "ヘレナ"
+original = "「うむ、よい返事だな。結構結構」"
+translation = "「음, 좋은 대답이로군. 좋아 좋아.」"
+
+[[dialogue]]
+speaker = "ヘレナ"
+original = "「では今回、魔王たちに向かってもらう場所なのだが……『紫桜の里』だ」"
+translation = "「그럼 이번에 마왕 일행이 향할 장소인데…… 『자앵마을』이다.」"
+
+[[dialogue]]
+speaker = "せつな"
+original = "「何と！\u3000それは誠でござるか！」"
+translation = "「무엇이! 그것이 참말이오 소!」"
+
+[[dialogue]]
+speaker = "ヨミ"
+original = "「こやっ！？」"
+translation = "「코얏!?」"
+
+[[dialogue]]
+speaker = "ヘレナ"
+original = "「せつな……私が呼ぶまで忍んでいよと言い含めていたのだが、我慢できずに出てきてしまったか。まあ、分かってはいたがな」"
+translation = "「세츠나…… 내가 부를 때까지 숨어 있으라고 일러두었거늘, 참지 못하고 나와 버렸느냐. 뭐, 알고는 있었지만 말이다.」"
+
+[[dialogue]]
+speaker = "せつな"
+original = "「はっ！？\u3000申し訳ないでござる、当主様……」"
+translation = "「핫!? 죄송하오 소, 당주님……」"
+
+[[dialogue]]
+speaker = "せつな"
+original = "「ですがですが！\u3000紫桜の里と聞いては黙って忍んでなどおられませぬ！」"
+translation = "「하지만 하지만! 자앵마을이라 듣고서는 가만히 숨어 있을 수 없었소 소!」"
+
+[[dialogue]]
+speaker = "ヘレナ"
+original = "「そうだろうな。紫桜の里は忍者の里であり、せつなの故郷だ」"
+translation = "「그렇겠지. 자앵마을은 닌자 마을이자, 세츠나의 고향이니까.」"
+
+[[dialogue]]
+speaker = "ヘレナ"
+original = "「故にせつなよ、この任務はお前に任せようと思う。魔王に同行し、その身を守護するのだ！」"
+translation = "「고로 세츠나여, 이 임무는 네게 맡기려 한다. 마왕과 동행하여 그 몸을 수호하거라!」"
+
+[[dialogue]]
+speaker = "せつな"
+original = "「その任、しかと承ったでござる！」"
+translation = "「그 임무, 확실히 수락했소 소!」"
+
+[[dialogue]]
+speaker = "ヘレナ"
+original = "「なーに、畏まらず久しぶりの里帰りも兼ねた休暇だと思えばよい」"
+translation = "「나 참, 그리 격식 차리지 말고 오랜만의 귀향을 겸한 휴가라고 생각하면 된다.」"
+
+[[dialogue]]
+speaker = "ヨミ"
+original = "「よかったですね、せつなさん。お土産話をたくさん期待してますよ～」"
+translation = "「잘됐네요, 세츠나 씨. 다녀와서 들려줄 이야기를 많이 기대할게요~」"
+
+[[dialogue]]
+speaker = "ヘレナ"
+original = "「何を言う、ヨミヨミ？\u3000まるで他人事のようなことを」"
+translation = "「무슨 소리냐, 요미요미? 마치 남 일처럼 말하기는.」"
+
+[[dialogue]]
+speaker = "ヨミ"
+original = "「はい？」"
+translation = "「네?」"
+
+[[dialogue]]
+speaker = "ヘレナ"
+original = "「紫桜の里にはヨミヨミにも行ってもらう。魔王とせつなだけでは、少々心許ないからな」"
+translation = "「자앵마을에는 요미요미도 가줘야겠다. 마왕과 세츠나만으로는 조금 불안하니 말이다.」"
+
+[[dialogue]]
+speaker = "ヨミ"
+original = "「こやっ！？\u3000わ、私もですか！？」"
+translation = "「코얏!? 저, 저도 말인가요!?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "頼りにしてるよ"
+translation = "믿고 있을게"
+
+[[dialogue]]
+speaker = "せつな"
+original = "「何か問題が生じたら、ヨミ殿に頼ればいいでござるな！」"
+translation = "「무슨 문제가 생기면 요미 공에게 의지하면 되겠소 소!」"
+
+[[dialogue]]
+speaker = "ヘレナ"
+original = "「はっはっは、頼んだぞ、ヨミヨミ」"
+translation = "「하하하, 부탁한다, 요미요미.」"
+
+[[dialogue]]
+speaker = "ヨミ"
+original = "「こやぁぁ～～～～んっ！」"
+translation = "「코야아아아앙~!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "こうして俺とせつな、ヨミヨミの３人は、空間転移装置を使って紫桜の里を訪れることになったのだった。"
+translation = "그렇게 나와 세츠나, 요미요미 세 사람은 공간 전이 장치를 이용해 자앵마을을 방문하게 된 것이었다."
+

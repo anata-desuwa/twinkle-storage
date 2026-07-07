@@ -1,0 +1,205 @@
+[[dialogue]]
+speaker = "unk"
+original = "第１４話,絶望の果てに,B"
+translation = "제15화, 절망의 끝에서, B"
+
+[[dialogue]]
+speaker = "unk"
+original = "同刻。アルタイルにて──"
+translation = "같은 시각. 알타이르에서──"
+
+[[dialogue]]
+speaker = "ホロウ・ルヴィネL"
+original = "「世界の再生を──」"
+translation = "「세계의 재생을──」"
+
+[[dialogue]]
+speaker = "ホロウ・ルヴィネ"
+original = "「進歩と成長を──」"
+translation = "「진보와 성장을──」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「くっそ……タケノコかこいつら！\u3000次から次へと……！」"
+translation = "「젠장…… 이 자식들 죽순이냐! 끝도 없이 계속 나와……!」"
+
+[[dialogue]]
+speaker = "セドナ"
+original = "「アポロ、いったん退け。魔女の治癒を受けろ」"
+translation = "「아폴로, 일단 물러서라. 마녀의 치유를 받아라」"
+
+[[dialogue]]
+speaker = "ウェンディ"
+original = "「ええ。私たちが時間を稼ぎます！」"
+translation = "「예. 저희가 시간을 벌겠습니다!」"
+
+[[dialogue]]
+speaker = "ホロウ・ルヴィネ"
+original = "「逃がすわけがない。魔王の血統は不確定要素が多い……一斉にかかる──」"
+translation = "「놓칠 리가 없지. 마왕의 혈통은 불확정 요소가 많아…… 일제히 덤벼라──」"
+
+[[dialogue]]
+speaker = "ウェンディ"
+original = "「さ、さらに増援がっ──！？」"
+translation = "「그, 게다가 증원이──!?」"
+
+[[dialogue]]
+speaker = "セドナ"
+original = "「ウェンディ、<ruby>水鏡<rt>すいきょう</rt></ruby>の魔法で全力防御だ。模造品たちは私の<ruby>焔<rt>ほむら</rt></ruby>で焼き尽くす」"
+translation = "「웨디, 수경의 마법으로 전력 방어다. 모조품들은 나의 불꽃으로 태워버리겠다」"
+
+[[dialogue]]
+speaker = "ウェンディ"
+original = "「イエス、マム！！」"
+translation = "「예, 대장님!!」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "（魔王……早く、デネブで決着をつけてくれ！\u3000もう長くはもたないぞっ！！）"
+translation = "（마왕…… 빨리 데네브에서 결판을 내줘! 이제 오래는 못 버틴다고!!）"
+
+[[dialogue]]
+speaker = "フィオナ（魔王）"
+original = "「──くうぅぅううっ！？」"
+translation = "「──크으으으윽!?」"
+
+[[dialogue]]
+speaker = "ヴィーナス（覚醒）"
+original = "「きゃぁぁあっ──！？」"
+translation = "「꺄아아악──!?」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "（…………く、そっ）"
+translation = "（…………제, 장）"
+
+[[dialogue]]
+speaker = "unk"
+original = "フィオナとヴィーナスの叫び声で、失っていた意識が、戻ってきた。"
+translation = "피오나와 비너스의 비명에 잃어가던 의식이 되돌아왔다."
+
+[[dialogue]]
+speaker = "クロト"
+original = "（ダメージが、甚大すぎる……星力が、練れ、ない……）"
+translation = "（대미지가 너무 막대해…… 성력이 모이지, 않아……）"
+
+[[dialogue]]
+speaker = "unk"
+original = "地面に倒れ伏して、地球とのつながりは限りなく近いにも関わらず──星力が身体に満ちていかない。"
+translation = "지면에 쓰러져 지구와의 연결이 한없이 가까움에도 불구하고, 성력이 몸에 채워지지 않는다."
+
+[[dialogue]]
+speaker = "unk"
+original = "負傷によって守護星とのリンクが閉じかけている。戦闘服すら、気を抜いたら弾けて消えてしまいそうなほどの消耗──"
+translation = "부상 때문에 수호성과의 링크가 닫혀가고 있다. 전투복조차 방심하면 흩어져 사라질 정도의 소모──"
+
+[[dialogue]]
+speaker = "unk"
+original = "高次元存在の『ＸＥＬＯＳ』には、攻撃も防御すらも、全てが無意味。"
+translation = "고차원 존재인 『XELOS』에게는 공격도 방어조차도 전부 무의미하다."
+
+[[dialogue]]
+speaker = "unk"
+original = "低次元存在の俺たちは、一方的に触れられ、いいようにオモチャにされている──"
+translation = "저차원 존재인 우리는 일방적으로 유린당하며 그저 장난감처럼 다뤄지고 있다──"
+
+[[dialogue]]
+speaker = "クロト"
+original = "（…………動け、ない）"
+translation = "（…………움직일 수, 없어）"
+
+[[dialogue]]
+speaker = "unk"
+original = "立ち上がらなければ、ならないのに。"
+translation = "일어서야만 하는데."
+
+[[dialogue]]
+speaker = "unk"
+original = "こんなところで死ぬわけにはいかない。何としても生き伸びなければ、ならないのに──"
+translation = "이런 곳에서 죽을 수는 없다. 어떻게 해서든 살아남아야만 하는데──"
+
+[[dialogue]]
+speaker = "unk"
+original = "抵抗しようという気持ちすら萎えるほどの、間違いなく、最強の敵──"
+translation = "저항하려는 마음마저 시들게 만드는, 틀림없는 최강의 적──"
+
+[[dialogue]]
+speaker = "unk"
+original = "──こんなの、×××わけがない。"
+translation = "──이런 거, 자지 보지 할 수 있을 리가 없다."
+
+[[dialogue]]
+speaker = "クロト"
+original = "（…………ダメだ、侵入を許すな）"
+translation = "（…………안 돼, 침입을 허용하지 마）"
+
+[[dialogue]]
+speaker = "unk"
+original = "──×××わけがなかったんだ。"
+translation = "──자지 보지 할 수 있을 리가 없었던 것이다."
+
+[[dialogue]]
+speaker = "クロト"
+original = "（………………黙れ！\u3000消えろ！！）"
+translation = "（………………닥쳐! 사라져!!）"
+
+[[dialogue]]
+speaker = "unk"
+original = "──<ruby>××<rt>むり</rt></ruby>だ。"
+translation = "──<ruby>무리<rt>××</rt></ruby>다."
+
+[[dialogue]]
+speaker = "unk"
+original = "──<ruby>×××<rt>かてる</rt></ruby>わけがない。"
+translation = "──<ruby>이길<rt>××</rt></ruby> 수 있을 리 없다."
+
+[[dialogue]]
+speaker = "unk"
+original = "──<ruby>××××××<rt>あきらめれば</rt></ruby>、楽になれる。"
+translation = "──<ruby>포기하면<rt>××××</rt></ruby> 편해진다."
+
+[[dialogue]]
+speaker = "クロト"
+original = "（俺が折れたら終わりなんだ──なのに）"
+translation = "（내가 꺾이면 끝장이야── 그런데도）"
+
+[[dialogue]]
+speaker = "クロト"
+original = "（弱気の虫が、どんどん流れ込んで、俺を飲み込んで──）"
+translation = "（약한 생각이 끊임없이 흘러들어와 나를 삼키고──）"
+
+[[dialogue]]
+speaker = "？？？"
+original = "「────もう限界か、少年？」"
+translation = "「────벌써 한계인가, 소년?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "────今の、声は？"
+translation = "────방금 그 목소리는?"
+
+[[dialogue]]
+speaker = "？？？"
+original = "「いいや、そんなはずはない。私が見込んだ君は、命ある限り諦めない──そういう男だ」"
+translation = "「아니, 그럴 리가 없지. 내가 눈여겨본 너는 목숨이 붙어있는 한 포기하지 않아── 그런 남자다」"
+
+[[dialogue]]
+speaker = "unk"
+original = "どうして、あなたの声が、聞こえるんだ──"
+translation = "어째서 당신의 목소리가 들리는 거지──"
+
+[[dialogue]]
+speaker = "？？？"
+original = "「遅れてすまなかった……始めるぞ、少年」"
+translation = "「늦어서 미안하군…… 시작하자, 소년」"
+
+[[dialogue]]
+speaker = "？？？"
+original = "「全ての世界を救う……現代の魔王の物語を！！」"
+translation = "「모든 세계를 구하는…… 현대 마왕의 이야기를!!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "To be continued..."
+translation = "To be continued..."
+

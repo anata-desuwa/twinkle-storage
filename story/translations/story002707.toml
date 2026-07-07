@@ -1,0 +1,330 @@
+[[dialogue]]
+speaker = "unk"
+original = "マトイやルリエルが放課後に巫女修行をするようになってから、数週間が経った。"
+translation = "마토이와 루리엘이 방과 후에 무녀 수행을 하게 된 지도 수주가 흘렀다."
+
+[[dialogue]]
+speaker = "unk"
+original = "そして、ついに――"
+translation = "그리고 마침내――"
+
+[[dialogue]]
+speaker = "ミヤハル"
+original = "「マトイにルリはん、巫女の力のコントロール、大分できるようになりましたなぁ」"
+translation = "「마토이에 루리 한, 무녀 힘 컨트롤을 제법 할 수 있게 됐네예」"
+
+[[dialogue]]
+speaker = "ミヤハル"
+original = "「そろそろ修行の大詰めとして、巫女の力を使っての試験と行きまひょか<emoji=heart04>」"
+translation = "「슬슬 수행의 막바지로 무녀의 힘을 사용한 시험을 쳐볼까예<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "ミヤハル"
+original = "「<b>２対２</b>の実戦形式で」"
+translation = "「**2대 2** 실전 형식으로」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ミヤハルが再び、ルリエルとマトイに戦いを持ちかける。"
+translation = "미야하르가 다시 루리엘과 마토이에게 대결을 제안한다."
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「２対２で……？\u3000それだと、組み合わせは――」"
+translation = "「2대 2로……? 그러면 조합은――」"
+
+[[dialogue]]
+speaker = "トマル"
+original = "「巫女修行の先達として、私がミヤハルさまと共に相手をさせて頂きます」"
+translation = "「무녀 수행의 선배로서 제가 미야하르 님과 함께 상대해 드리겠습니다」"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「トマルさんが……？」"
+translation = "「토마루 씨가……?」"
+
+[[dialogue]]
+speaker = "トマル"
+original = "「はい。私も全力で参ります」"
+translation = "「네. 저도 전력을 다하겠습니다」"
+
+[[dialogue]]
+speaker = "トマル"
+original = "「――フォームチェンジ」"
+translation = "「――폼 체인지」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「えっ！？」"
+translation = "「엣!?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "マトイが驚き、目を見開いた、次の瞬間。"
+translation = "마토이가 놀라 눈을 크게 뜬 다음 순간."
+
+[[dialogue]]
+speaker = "トマル（覚醒）"
+original = "「これが私の、巫女修行を経て覚醒した姿です」"
+translation = "「이것이 저의, 무녀 수행을 거쳐 각성한 모습입니다」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「トマルの新フォーム……！？」"
+translation = "「토마루의 새로운 폼……!?」"
+
+[[dialogue]]
+speaker = "トマル（覚醒）"
+original = "「はい。実は姉さまを驚かせたくて、今日まで秘密にしていたんです」"
+translation = "「네. 사실 누님을 놀라게 해드리고 싶어서 오늘까지 비밀로 하고 있었어요」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "（巫女の力は感じるけど、それと同時に魔力の気配も感じる……。もしかして、これって<b>魔法少女</b>の！？）"
+translation = "(무녀의 힘은 느껴지지만 그와 동시에 마력의 기운도 느껴져……. 설마 이거 **마법소녀**의!?)"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「わぁっ♪\u3000トマルさんの新フォーム、すごく可愛いのです！」"
+translation = "「와아♪ 토마루 씨의 새로운 폼, 정말 귀여운 것입니다!」"
+
+[[dialogue]]
+speaker = "トマル（覚醒）"
+original = "「ふふっ、ありがとうございます。ルリさま♪」"
+translation = "「후훗, 감사합니다. 루리 님♪」"
+
+[[dialogue]]
+speaker = "ミヤハル"
+original = "「さあ、うちも今回は陰陽術を解禁して戦うから、マトイとルリはんも遠慮せんと、全力でおいでやす<emoji=heart04>\u3000さもないと――」"
+translation = "「자, 내도 이번에는 음양술을 해금해서 싸울 테니까 마토이랑 루리 한도 사양 말고 전력으로 오이소<emoji=heart04> 안 카면――」"
+
+[[dialogue]]
+speaker = "ミヤハル"
+original = "「うちには絶対、勝たれへんよ？」"
+translation = "「내한테 절대 못 이긴데이?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "マトイとルリエルは、ミヤハル達への挑戦を開始するのだった――"
+translation = "마토이와 루리엘은 미야하르 일행을 향한 도전을 시작했다――"
+
+[[dialogue]]
+speaker = "unk"
+original = "マトイはミヤハルと戦いながら、修業の中に言われたことを思い出していた――"
+translation = "마토이는 미야하르와 싸우며 수행 중에 들었던 말을 떠올리고 있었다――"
+
+[[dialogue]]
+speaker = "ミヤハル"
+original = "「『煩悩解脱』っていうのはな。煩悩を捨て去ることが真ではないんよ」"
+translation = "「『번뇌 해탈』이라는 건 말이다. 번뇌를 내다 버리는 게 정답은 아인기라」"
+
+[[dialogue]]
+speaker = "ミヤハル"
+original = "「人は決して、煩悩の全てを捨て去ることはできないって言われとる。スケベぇなことばっかり考えとるうちなんか、特にそうや」"
+translation = "「사람은 결코 번뇌를 전부 버릴 수는 없다고들 안 글나. 야한 생각만 하는 내 같은 경우는 특히 더 글코」"
+
+[[dialogue]]
+speaker = "ミヤハル"
+original = "「にも関わらず、うちは神聖な星力である巫女の力を使えとる。なんでか不思議に思うやろ？」"
+translation = "「카는데도 내는 신성한 성력인 무녀의 힘을 쓰고 있제. 와 그런지 궁금하지 않나?」"
+
+[[dialogue]]
+speaker = "ミヤハル"
+original = "「自分の心と向き合うて、煩悩をちゃんと見つめて……ほんで、そんままの自分を認めること。うちはそれが、悟りちゅうもんやと思うてるんよ」"
+translation = "「자기 마음이랑 마주하고 번뇌를 똑바로 쳐다보고…… 카고 그대로의 자신을 인정하는 거. 내는 그게 깨달음이라는 거라 생각한데이」"
+
+[[dialogue]]
+speaker = "ミヤハル"
+original = "「言ってしまえば、ある種の<b>開き直り</b>やね」"
+translation = "「말하자면 일종의 **배째라** 하는 정신이지」"
+
+[[dialogue]]
+speaker = "ミヤハル"
+original = "「……力とは使い方次第で、良くも悪くもなる」"
+translation = "「……힘이란 건 쓰는 법에 따라 좋게도 나쁘게도 변하는 법」"
+
+[[dialogue]]
+speaker = "ミヤハル"
+original = "「無邪気な力は決して真ではなく、邪気を理解した上で、清く使う。それこそが真の力となる」"
+translation = "「천진난만한 힘은 결코 진실이 아니고, 사악함을 이해한 상태에서 맑게 쓴다. 그것이야말로 진정한 힘이 되는 기라」"
+
+[[dialogue]]
+speaker = "ミヤハル"
+original = "「あとは感覚で、それを掴めるかどうか……」"
+translation = "「남은 건 감각으로 그걸 잡을 수 있느냐 없느냐……」"
+
+[[dialogue]]
+speaker = "ミヤハル"
+original = "「煩悩を解放して開き直る感覚。そこで１度裏返った精神を、自身の意思で良き方向へと導く――」"
+translation = "「번뇌를 해방하고 배째라 하는 감각. 거기서 한 번 뒤집힌 정신을 자신의 의지로 좋은 방향으로 이끄는 거――」"
+
+[[dialogue]]
+speaker = "ミヤハル"
+original = "「それこそが悪しきを浄化する、『巫女の力』の境地や」"
+translation = "「그것이 바로 악한 것을 정화하는 『무녀의 힘』의 경지입니데이」"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「ルリエルは！\u3000美味しいものがいっぱい食べたいのですーーーっ！！」"
+translation = "「루리엘은! 맛있는 걸 잔뜩 먹고 싶은 것입니다ーーー앗!!」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「……！」"
+translation = "「……!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "戦闘が続く中、ルリエルの不意に大きく叫ぶ声が聞こえて、はっと我に返るマトイ。"
+translation = "전투가 이어지는 가운데 루리엘이 난데없이 크게 외치는 소리가 들려와 정신을 차리는 마토이."
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「でんでん♪\u3000なのですっ！」"
+translation = "「둥둥♪ 인 것입니다!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "合わせて太鼓を叩き、雨の星術を発動してミヤハルとトマルに攻撃する。"
+translation = "박자에 맞춰 북을 치며 비의 성술을 발동해 미야하르와 토마루를 공격한다."
+
+[[dialogue]]
+speaker = "unk"
+original = "マトイはそんなルリエルの横顔を見て――"
+translation = "마토이는 그런 루리엘의 옆모습을 보며――"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "（ああ……すごい）"
+translation = "(아…… 대단해)"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "（やっぱり、ルリちゃんは普通じゃないね）"
+translation = "(역시 루리짱은 평범하지 않네)"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "（だから、私も――）"
+translation = "(그러니까 나도――)"
+
+[[dialogue]]
+speaker = "unk"
+original = "マトイは１度大きく息を吸ってから、叫ぶ。"
+translation = "마토이는 한 번 크게 숨을 들이마신 뒤 외친다."
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「私も！\u3000太るのなんか気にせずに、美味しい物をいっぱい食べたいっ！！」"
+translation = "「나도! 살찌는 거 같은 건 신경 안 쓰고 맛있는 걸 잔뜩 먹고 싶어!!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "二刀流の刀を交差させた斬撃星術を放つ。"
+translation = "이도류 칼날을 교차시킨 참격 성술을 내뿜는다."
+
+[[dialogue]]
+speaker = "ミヤハル"
+original = "「そんな風に、ただ煩悩を叫べばええってわけじゃあらへんよ？\u3000──陰陽術！」"
+translation = "「그런 식으로 그냥 번뇌만 소리친다고 되는 게 아인기라? ──음양술!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ミヤハルが五芒星を描き、収束した膨大な魔力から巨大な式神が生まれて、マトイとルリエルの攻撃を吹き飛ばす。"
+translation = "미야하르가 오망성을 그리자 수속된 방대한 마력에서 거대한 식신이 태어나 마토이와 루리엘의 공격을 날려버린다."
+
+[[dialogue]]
+speaker = "unk"
+original = "それでも――"
+translation = "그래도――"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「友達を沢山作りたいのです！」"
+translation = "「친구를 많이 만들고 싶은 것입니다!」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「普通じゃない力が欲しい！」"
+translation = "「평범하지 않은 힘을 갖고 싶어!」"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「セクシーな服を着てみたいのです！」"
+translation = "「섹시한 옷을 입어보고 싶은 것입니다!」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「ヴィーナスよりも強くなりたい！」"
+translation = "「비너스보다 강해지고 싶어!」"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「もっといっぱい、友達を作りたいのです！」"
+translation = "「더 많이 친구를 만들고 싶은 것입니다!」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「物語のカッコいいヒロインみたいになりたい！」"
+translation = "「이야기 속의 멋진 여주인공처럼 되고 싶어!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "２人は思い浮かぶ煩悩を、心のままに口にする。"
+translation = "두 사람은 떠오르는 번뇌를 마음 가는 대로 입 밖으로 낸다."
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「――ミヤハルさんとも、友達になりたいのですっ！！」"
+translation = "「――미야하르 씨와도 친구가 되고 싶은 것입니다!!」"
+
+[[dialogue]]
+speaker = "ミヤハル"
+original = "「えっ……」"
+translation = "「에……」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「……そうだね。こんなに強いんだから」"
+translation = "「……그렇네. 이렇게나 강하니까」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「――もっと前線に出て来て、私たちと一緒に戦ってよっ！！\u3000ミヤハルッ！！！」"
+translation = "「――좀 더 전선에 나와서 우리랑 같이 싸워줘!! 미야하르!!!」"
+
+[[dialogue]]
+speaker = "ミヤハル"
+original = "「……！」"
+translation = "「……!」"
+
+[[dialogue]]
+speaker = "トマル（覚醒）"
+original = "「この光は……！」"
+translation = "「이 빛은……!」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「息を合わせて行こう、ルリちゃん！」"
+translation = "「호흡을 맞춰서 가자, 루리짱!」"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「はいなのです！\u3000マトイさん！」"
+translation = "「네, 인 것입니다! 마토이 씨!」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「レディー！！」"
+translation = "「레디!!」"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「ゴーなのです！！！」"
+translation = "「고, 인 것입니다!!!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "２人は清く眩い巫女の力を纏いながら、再びミヤハル達へと立ち向かうのだった――"
+translation = "두 사람은 맑고 눈부신 무녀의 힘을 두르며 다시 미야하르 일행에게 맞서는 것이었다――"
+

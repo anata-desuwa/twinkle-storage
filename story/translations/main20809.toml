@@ -1,0 +1,325 @@
+[[dialogue]]
+speaker = "unk"
+original = "第１０話,守護天使ノルン,B"
+translation = "제10화, 수호천사 노른, B"
+
+[[dialogue]]
+speaker = "ナターシャ"
+original = "「ダメかと思った……っていうか、ダメだった？\u3000もしかしてここ天国？」"
+translation = "「안 되나 싶었네…… 아니, 안 된 건가? 혹시 여기 천국?」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「ここは……？\u3000さっきまでフィーニスの塔の頂上にいたはず……」"
+translation = "「여기는……? 방금 전까지 피니스의 탑 꼭대기에 있었을 텐데……」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「ていうか私のノヴァフォームも解けちゃってるし、何が起きたの？」"
+translation = "「그보다 내 노바 폼도 풀려버렸고, 무슨 일이 일어난 거야?」"
+
+[[dialogue]]
+speaker = "？？？"
+original = "『強引に離脱させたからね。緊張が解けて、ノヴァフォームも解除されちゃったんじゃない？』"
+translation = "『강제로 이탈시켰으니까. 긴장이 풀려서 노바 폼도 해제된 거 아냐?』"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「この声……ラクシャか！？」"
+translation = "「이 목소리…… 락샤냐!?」"
+
+[[dialogue]]
+speaker = "ラクシャ"
+original = "「そう、ボクさ。守護天使の力で一瞬だけフィーニスの塔のコントロールを奪わせてもらった。ルヴィネは女神としては若輩だからギリギリなんとかなったよ」"
+translation = "「그래, 나야. 수호천사의 힘으로 아주 잠깐 피니스의 탑의 컨트롤을 빼앗았어. 루비네는 여신으로서는 풋내기라 아슬아슬하게 어떻게든 됐네」"
+
+[[dialogue]]
+speaker = "ラクシャ"
+original = "「今はフィーニスの塔からキミたちを<ruby>排出<rt>イジェクト</rt></ruby>しているところ。塔の外に出すから少し待っててね」"
+translation = "「지금은 피니스의 탑에서 너희를 <ruby>배출<rt>이젝트</rt></ruby>하는 중이야. 탑 밖으로 내보낼 테니까 조금만 기다려」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「ありがとう！\u3000助かったわ、ラクシャ！」"
+translation = "「고마워! 살았어, 락샤!」"
+
+[[dialogue]]
+speaker = "ラクシャ"
+original = "「礼には及ばないよ。女神テルルに仕える守護天使として、ルヴィネの好きにさせるわけにはいかないからさ」"
+translation = "「인사는 됐어. 여신 텔르를 모시는 수호천사로서 루비네 마음대로 하게 둘 수는 없으니까」"
+
+[[dialogue]]
+speaker = "ラクシャ"
+original = "「で……ボクも一部始終を聞いていたけど、ルヴィネの正体がわかったみたいだね」"
+translation = "「그리고…… 나도 자초지종을 다 들었는데, 루비네의 정체를 알게 된 모양이네」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「ああ。ルヴィネは新たな女神で、『<ruby>ＸＥＬＯＳ<rt>ゼロス</rt></ruby>』によって生み出された存在だった」"
+translation = "「아아. 루비네는 새로운 여신이고, 『<ruby>XELOS<rt>제로스</rt></ruby>』에 의해 만들어진 존재였어」"
+
+[[dialogue]]
+speaker = "ラクシャ"
+original = "「うん、これで敵が明確になった。リクリエの使徒ジグ、新たな女神ルヴィネ、そしてリクリエの化身となったディザスターハンド」"
+translation = "「응, 이걸로 적이 명확해졌어. 리크리에의 사도 지그, 새로운 여신 루비네, 그리고 리크리에의 화신이 된 디재스터 핸드」"
+
+[[dialogue]]
+speaker = "ラクシャ"
+original = "「それらがキミたちがこれから打ち倒すべきものだ」"
+translation = "「그것들이 너희가 앞으로 타도해야 할 것들이야」"
+
+[[dialogue]]
+speaker = "ベアトリス"
+original = "「ルヴィ……」"
+translation = "「루비……」"
+
+[[dialogue]]
+speaker = "unk"
+original = "目に涙を浮かべて打ちひしがれるベアトリス。"
+translation = "눈에 눈물을 머금고 망연자실해 있는 베아트리스."
+
+[[dialogue]]
+speaker = "unk"
+original = "道を違えたとはいえ、デネブを守ろうという想いは同じと信じていた。"
+translation = "길은 달라졌을지언정 데네브를 지키려는 마음은 같다고 믿고 있었다."
+
+[[dialogue]]
+speaker = "unk"
+original = "それが裏切られたとなれば衝撃を受けるのも当然だろう。"
+translation = "그것이 배신당했다면 충격을 받는 것도 당연하리라."
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「軽々しく言いたくはないが……気持ちはわかる」"
+translation = "「가볍게 말하고 싶지는 않지만…… 기분은 이해해」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「だが俯いている時間はない。今は生き残ることを考えよう」"
+translation = "「하지만 고개를 숙이고 있을 시간은 없어. 지금은 살아남는 것을 생각하자」"
+
+[[dialogue]]
+speaker = "ベアトリス"
+original = "「う……うん……」"
+translation = "「으…… 응……」"
+
+[[dialogue]]
+speaker = "ラクシャ"
+original = "「梨緒、最後にキミの秘密を伝えておこう。キミは守護天使だ」"
+translation = "「리오, 마지막으로 너의 비밀을 전해둘게. 너는 수호천사야」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「守護天使！？\u3000そんなはずはない、私はイングランド生まれの人間だ」"
+translation = "「수호천사!? 그럴 리 없어, 나는 잉글랜드 태생의 인간이다」"
+
+[[dialogue]]
+speaker = "ラクシャ"
+original = "「そうなんだけど、キミの中に守護天使が存在している」"
+translation = "「그렇긴 한데, 네 안에 수호천사가 존재하고 있어」"
+
+[[dialogue]]
+speaker = "ラクシャ"
+original = "「確証がなかったから今までは断言しなかったんだけど、ここ数日一緒に行動して確認したから間違いない」"
+translation = "「확증이 없어서 지금까지는 단언하지 않았지만, 요 며칠 함께 행동하며 확인했으니 틀림없어」"
+
+[[dialogue]]
+speaker = "ラクシャ"
+original = "「実は守護天使は、幾度も繰り返されるリクリエの中で、何度か代替わりし、転生し続けてきた。ボクたち六柱は第三世代だ」"
+translation = "「사실 수호천사는 수없이 반복되는 리크리에 속에서 몇 번인가 대를 잇고 환생해 왔어. 우리 육주는 제3세대야」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「第三世代……？\u3000なら第一世代や第二世代もいるのか？」"
+translation = "「제3세대……? 그럼 제1세대나 제2세대도 있는 건가?」"
+
+[[dialogue]]
+speaker = "ラクシャ"
+original = "「そうだよ。ほら、シエルの<ruby>筐<rt>はこ</rt></ruby>とか鍵ってあったでしょ。あれはボクたちの１つ前の先輩──第二世代の守護天使が作ったものだ。リクリエを超えて残ったんだね」"
+translation = "「그렇지. 봐, 시엘의 상자나 열쇠 같은 거 있었잖아. 그건 우리 바로 전 선배── 제2세대 수호천사가 만든 거야. 리크리에를 넘어 남은 거지」"
+
+[[dialogue]]
+speaker = "ラクシャ"
+original = "「それじゃ守護天使の成り立ちから説明しよう」"
+translation = "「그럼 수호천사의 유래부터 설명할게」"
+
+[[dialogue]]
+speaker = "ラクシャ"
+original = "「最初は守護天使は存在せず、女神テルルだけで世界を運営していた。その頃は『<ruby>ＸＥＬＯＳ<rt>ゼロス</rt></ruby>』に逆らうことはなかった」"
+translation = "「처음에는 수호천사가 존재하지 않았고, 여신 텔르 혼자서 세계를 운영했어. 그때는 『<ruby>XELOS<rt>제로스</rt></ruby>』를 거스르는 일이 없었지」"
+
+[[dialogue]]
+speaker = "ラクシャ"
+original = "「だが女神テルルは次第にリクリエというシステムに疑問を抱き始める。だがリクリエを止めることは叶わなかった」"
+translation = "「하지만 여신 텔르는 점차 리크리에라는 시스템에 의문을 품기 시작해. 하지만 리크리에를 멈추는 것은 불가능했지」"
+
+[[dialogue]]
+speaker = "ラクシャ"
+original = "「単身でリクリエに対抗することに限界を感じた女神テルルは、自身の補佐として守護天使を生み出した」"
+translation = "「단신으로 리크리에에 대항하는 것에 한계를 느낀 여신 텔르는 자신의 보좌로서 수호천사를 만들어냈어」"
+
+[[dialogue]]
+speaker = "ラクシャ"
+original = "「そして梨緒、キミの中にいるのは第一世代、《運命》のノルン。女神によって造られた最初の守護天使だ」"
+translation = "「그리고 리오, 네 안에 있는 건 제1세대, 《운명》의 노른. 여신에 의해 만들어진 최초의 수호천사야」"
+
+[[dialogue]]
+speaker = "ラクシャ"
+original = "「彼女の司る摂理は“因果”。物事の原因と結果、その必然を司っている」"
+translation = "「그녀가 관장하는 섭리는 “인과”. 사물의 원인과 결과, 그 필연을 관장하고 있어」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「《運命》のノルン……それが私の中にいるのか？\u3000だが今の守護天使とは管理する摂理が違うようだが」"
+translation = "「《운명》의 노른…… 그것이 내 안에 있다는 건가? 하지만 지금의 수호천사와는 관리하는 섭리가 다른 것 같다만」"
+
+[[dialogue]]
+speaker = "ラクシャ"
+original = "「それは女神なりの試行錯誤だよ」"
+translation = "「그건 여신 나름대로의 시행착오야」"
+
+[[dialogue]]
+speaker = "ラクシャ"
+original = "「守護天使の権能は元々女神の力。世代ごとに異なる権能を与えて、より効率的に世界を運営しようとしているんだよ」"
+translation = "「수호천사의 권능은 원래 여신의 힘. 세대마다 다른 권능을 부여해서 더 효율적으로 세계를 운영하려 한 거야」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「……ノルンについてはある程度わかった。だがどうして私にそんなものが宿った？\u3000私はただの人間だぞ」"
+translation = "「……노른에 대해서는 어느 정도 알겠다. 하지만 어째서 나에게 그런 것이 깃든 거지? 나는 평범한 인간이라고」"
+
+[[dialogue]]
+speaker = "ラクシャ"
+original = "「んーとね……」"
+translation = "「음─ 그러니까……」"
+
+[[dialogue]]
+speaker = "ラクシャ"
+original = "「わかんない」"
+translation = "「몰라」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「は？」"
+translation = "「하?」"
+
+[[dialogue]]
+speaker = "ラクシャ"
+original = "「いや、正直ボクにもなんでかはわからないんだよ」"
+translation = "「아니, 솔직히 나도 왜인지는 모르겠어」"
+
+[[dialogue]]
+speaker = "ラクシャ"
+original = "「可能性があるとしたら、梨緒がディザスターハンドの力でベガから飛ばされた時に、次元の狭間に漂ってたノルンの残滓と融合した……とか？」"
+translation = "「가능성이 있다면, 리오가 디재스터 핸드의 힘으로 베가에서 날려졌을 때, 차원의 틈새를 떠돌던 노른의 잔재와 융합했다……든가?」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「なんだその自信のなさそうな説明は」"
+translation = "「뭐냐 그 자신 없어 보이는 설명은」"
+
+[[dialogue]]
+speaker = "ラクシャ"
+original = "「だって本当にそうとしか説明できないんだよ」"
+translation = "「그치만 정말 그렇게밖에 설명할 수 없는걸」"
+
+[[dialogue]]
+speaker = "ラクシャ"
+original = "「でももしそうだとしたら、とんでもない奇跡だよ。ラクシスが世界を超える力を生まれ持っていたようにね」"
+translation = "「하지만 만약 그렇다면 엄청난 기적이야. 락시스가 세계를 넘는 힘을 타고났던 것처럼 말이야」"
+
+[[dialogue]]
+speaker = "ラクシャ"
+original = "「その奇跡がなければ、梨緒はきっと生きていなかったはずだ」"
+translation = "「그 기적이 없었다면 리오는 분명 살아있지 못했을 거야」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「つまり私は……ただの偶然で命を拾ったのか？」"
+translation = "「즉 나는…… 그저 우연히 목숨을 건진 건가?」"
+
+[[dialogue]]
+speaker = "ラクシャ"
+original = "「多分そう。その偶然をどう使うかは梨緒次第さ」"
+translation = "「아마도. 그 우연을 어떻게 쓸지는 리오 하기 나름이지」"
+
+[[dialogue]]
+speaker = "ラクシャ"
+original = "「おっと、そろそろ処理が終わりそうだ」"
+translation = "「오, 슬슬 처리가 끝날 것 같네」"
+
+[[dialogue]]
+speaker = "ラクシャ"
+original = "「さて、キミたちはこれからアルタイルに帰らないといけない。その準備は今リノたちがしてくれてるよ」"
+translation = "「자, 너희는 이제 알타이르로 돌아가야 해. 그 준비는 지금 리노 일행이 해주고 있어」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「ラクシャも来るのか？\u3000味方だってわかったんだし、また新星学園に──」"
+translation = "「락샤도 오는 거지? 아군이라는 걸 알았으니 다시 신성학원에──」"
+
+[[dialogue]]
+speaker = "ラクシャ"
+original = "「いや、ボクは行けない」"
+translation = "「아니, 나는 못 가」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「──！」"
+translation = "「──!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "目の前にいたラクシャの姿がかき消える。"
+translation = "눈앞에 있던 락샤의 모습이 사라진다."
+
+[[dialogue]]
+speaker = "ラクシャ"
+original = "『ごめんね。さっきまで見せてた姿はただのイメージだ。ボクは今、第零層にいる』"
+translation = "『미안해. 방금 전까지 보여준 모습은 그냥 이미지야. 나는 지금 제0층에 있어』"
+
+[[dialogue]]
+speaker = "ラクシャ"
+original = "『残念ながら、フィーニスの塔にいる守護天使はみんなルヴィネに封印されていた』"
+translation = "『안타깝게도 피니스의 탑에 있는 수호천사는 전부 루비네에게 봉인되어 있었어』"
+
+[[dialogue]]
+speaker = "ラクシャ"
+original = "『ボクはフィーニスの塔のコントロールを奪うために、半身と同化した。ボクも間もなく封印されて動けなくなる』"
+translation = "『나는 피니스의 탑의 컨트롤을 뺏기 위해 반신과 동화했어. 나도 머지않아 봉인되어 움직일 수 없게 될 거야』"
+
+[[dialogue]]
+speaker = "ラクシャ"
+original = "『だからここで一旦お別れだ』"
+translation = "『그러니 여기서 일단 작별이야』"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「……わかった」"
+translation = "「……알았어」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「いつか迎えに来るよ、環」"
+translation = "「언젠가 데리러 올게, 타마키」"
+
+[[dialogue]]
+speaker = "ラクシャ"
+original = "『あのさぁ……』"
+translation = "『저기 말이야……』"
+
+[[dialogue]]
+speaker = "ラクシャ"
+original = "『それは２人っきりの時って言ったじゃん』"
+translation = "『그건 둘만 있을 때라고 했잖아』"
+
+[[dialogue]]
+speaker = "ラクシャ"
+original = "『じゃあフィーニスの塔の前に出すよ。行ってらっしゃい！』"
+translation = "『그럼 피니스의 탑 앞으로 내보낼게. 잘 다녀와!』"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「ああ！\u3000後は任せてくれ！」"
+translation = "「아아! 나머지는 맡겨줘!」"
+

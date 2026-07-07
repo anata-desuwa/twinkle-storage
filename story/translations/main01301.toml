@@ -1,0 +1,365 @@
+[[dialogue]]
+speaker = "unk"
+original = "第１話,この時のために,B"
+translation = "제1화, 이 때를 위해, B"
+
+[[dialogue]]
+speaker = "パワゴン"
+original = "「イイイィィ──！！」"
+translation = "「이이이이이──!!」"
+
+[[dialogue]]
+speaker = "ビュンタ"
+original = "「ィィィィィ──」"
+translation = "「이이이이이──」"
+
+[[dialogue]]
+speaker = "アニュラス"
+original = "「──はぁぁぁぁぁっ！！」"
+translation = "「──하아아아아앗!!」"
+
+[[dialogue]]
+speaker = "パワゴン"
+original = "「イイイィィィ～～～ッ！！」"
+translation = "「이이이이이～～～잇!!」"
+
+[[dialogue]]
+speaker = "アニュラス"
+original = "「──こんなものか」"
+translation = "「──이 정도인가」"
+
+[[dialogue]]
+speaker = "エリス"
+original = "「上々ですね」"
+translation = "「훌륭하네요」"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「お～すごいです！\u3000さすがエリス先輩もアニュラス先輩も流星屈指の実力者……！」"
+translation = "「오～ 대단합니다! 역시 에리스 선배도 아뉴라스 선배도 유성 굴지의 실력자……!」"
+
+[[dialogue]]
+speaker = "アニュラス"
+original = "「フッ、私にかかれば余裕だ──だが油断するな！\u3000まだ次が来る！」"
+translation = "「훗, 나에게는 여유롭다── 하지만 방심하지 마라! 아직 다음이 온다!」"
+
+[[dialogue]]
+speaker = "エリス"
+original = "「モンスターどころか、<ruby>巣<rt>アステラ</rt></ruby>が無限に生まれています……！\u3000いくらなんでもキリがありませんね──」"
+translation = "「몬스터는 물론, 둥지가 무한히 생겨나고 있습니다……! 아무리 그래도 끝이 없네요──」"
+
+[[dialogue]]
+speaker = "unk"
+original = "フィヴォス流星群──"
+translation = "필보스 유성군──"
+
+[[dialogue]]
+speaker = "unk"
+original = "そう名付けられた天空の異変から向こう、地上においてもリクリエ現象の混乱が続いていた。"
+translation = "그렇게 이름 붙여진 하늘의 이변 이후, 지상에서도 리크리에 현상의 혼란이 이어지고 있었다."
+
+[[dialogue]]
+speaker = "エリス"
+original = "「ルリエルさん。そういえば、フィオナ会長やソフィアさんはどちらに……？」"
+translation = "「루리엘 씨. 그러고 보니, 피오나 회장님이나 소피아 씨는 어디에……?」"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「え、え～っと……今、とんでもなく遠いところへ出張中であります！\u3000帰りの予定は……わかりません！」"
+translation = "「에, 에～엣…… 지금, 엄청나게 먼 곳으로 출장 중인 것입니다! 돌아올 예정은…… 모르겠습니다!」"
+
+[[dialogue]]
+speaker = "エリス"
+original = "「フィオナ会長がこんな時に出張……重大な要件があるようですね」"
+translation = "「피오나 회장님이 이런 때에 출장이라니…… 중대한 용건이 있는 것 같네요」"
+
+[[dialogue]]
+speaker = "アニュラス"
+original = "「問題ない。たとえ会長たちが不在でも──いや、不在だからこそ私たちの真価を示せるはずだ」"
+translation = "「문제없다. 설령 회장들이 부재하더라도── 아니, 부재하기 때문에 우리의 진가를 보여줄 수 있을 것이다」"
+
+[[dialogue]]
+speaker = "エリス"
+original = "「……なるほど。確かにそうかもしれません」"
+translation = "「……과연. 확실히 그럴지도 모릅니다」"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「ルリエルも信じているのです！\u3000フィオナ会長も、緋宮会長も、ヴィーナスさんも……みんな揃って帰ってくるって！」"
+translation = "「루리엘도 믿고 있는 것입니다! 피오나 회장님도, 히노미야 회장님도, 비너스 씨도…… 모두 함께 돌아올 거라고!」"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「だから……どんな困難にもめげてる場合じゃないのです！」"
+translation = "「그러니까…… 어떤 곤란에도 기죽을 때가 아닌 것입니다!」"
+
+[[dialogue]]
+speaker = "ズシオーン"
+original = "「──グオオオォォンッ！！」"
+translation = "「──그오오오오온!!」"
+
+[[dialogue]]
+speaker = "キリカ"
+original = "「──背中を任せても構いませんか？\u3000セーラ様」"
+translation = "「──등을 맡겨도 괜찮겠습니까? 세라 님」"
+
+[[dialogue]]
+speaker = "セーラ"
+original = "「ＯＫに決まってるっしょ──キリカさんっ！」"
+translation = "「OK로 정해져 있지── 키리카 씨!」"
+
+[[dialogue]]
+speaker = "ズシオーン"
+original = "「──グウウウァァ…………！！」"
+translation = "「──그우우우아아…………!!」"
+
+[[dialogue]]
+speaker = "セーラ"
+original = "「ふー。これでここは大丈夫……っと」"
+translation = "「후우. 이걸로 여기는 괜찮겠지……」"
+
+[[dialogue]]
+speaker = "キリカ"
+original = "「さっそく、次の街へ向かいましょう。被害の広がらないうちに」"
+translation = "「바로, 다음 마을로 향합시다. 피해가 확산되기 전에」"
+
+[[dialogue]]
+speaker = "アニマ"
+original = "「待テ。十二時の方角から──次の流れ星が堕ちてくるゾ。迎撃されたシ」"
+translation = "「기다려. 열두 시 방향에서── 다음 유성이 떨어지고 있어. 요격해야지」"
+
+[[dialogue]]
+speaker = "セーラ"
+original = "「また？\u3000ていうか、簡単に言ってくれるけど、あれ相当だるいんだかんね？」"
+translation = "「또? 그나저나, 쉽게 말하지만, 저거 엄청 귀찮다고?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "今も空には無数の流れ星が瞬いていた。"
+translation = "지금도 하늘에는 무수한 유성이 반짝이고 있었다."
+
+[[dialogue]]
+speaker = "unk"
+original = "流星たちはその多くが燃え尽きて消滅するも、何発かの流れ弾が絶え間なく地表へと降り注いでいた。"
+translation = "유성들은 그 대부분이 타서 소멸하지만, 몇 발의 유탄이 끊임없이 지표로 쏟아지고 있었다."
+
+[[dialogue]]
+speaker = "unk"
+original = "そのうちの一発でも迎撃に失敗すれば──多くの命が危険にさらされるだろう。"
+translation = "그중 한 발이라도 요격에 실패하면── 많은 생명이 위험에 처할 것이다."
+
+[[dialogue]]
+speaker = "アニマ"
+original = "「大気圏内で小惑星を破砕させれバ、摩擦も含めておよそ５ｍｍ以下の岩石片にまで分裂すル。そこまで小さくできれば、アニマの用意した結界でみんなの安全は保障するヨ」"
+translation = "「대기권 내에서 소행성을 파쇄하면, 마찰을 포함하여 대략 5mm 이하의 암석 조각으로 분열할 수 있다. 그 정도까지 작게 만들 수 있다면, 아니마가 준비한 결계로 모두의 안전은 보장할게」"
+
+[[dialogue]]
+speaker = "セーラ"
+original = "「モンスターの方もやばげだけど──」"
+translation = "「몬스터 쪽도 위험해 보이는데──」"
+
+[[dialogue]]
+speaker = "キリカ"
+original = "「仕方ありませんね。この際、建物の被害には目を瞑るしかないかと。流星群を止められなければ……私たち全員も危ういのですから」"
+translation = "「어쩔 수 없겠네요. 이쯤에서, 건물 피해는 눈감는 수밖에 없을 것 같습니다. 유성군을 막지 못하면…… 우리 모두도 위험하니까요.」"
+
+[[dialogue]]
+speaker = "アニマ"
+original = "「これも対リクリエの一環。進め、星騎士たちヨ！」"
+translation = "「이것도 대 리크리에의 일환. 나아가라, 성기사들이여!」"
+
+[[dialogue]]
+speaker = "セーラ"
+original = "「一発も撃ち漏らせないシューティング──緊張感ありすぎっしょ。ま、やるっきゃないけど」"
+translation = "「한 발도 놓칠 수 없는 슈팅── 긴장감이 너무 넘치네. 뭐, 할 수밖에 없지만」"
+
+[[dialogue]]
+speaker = "キリカ"
+original = "「サポートいたします」"
+translation = "「지원하겠습니다.」"
+
+[[dialogue]]
+speaker = "unk"
+original = "二人は揃って空を眺む──数瞬して、アニマの計測器が警告音を鳴らした。"
+translation = "두 사람은 나란히 하늘을 바라본다── 몇 순간 후, 아니마의 계측기가 경고음을 울렸다."
+
+[[dialogue]]
+speaker = "アニマ"
+original = "「──今ダッ！」"
+translation = "「──지금이다!」"
+
+[[dialogue]]
+speaker = "セーラ"
+original = "「おっけ──うちの神エイム見せたげるから。いくよ、キリカさんっ！」"
+translation = "「오케이── 나의 갓 에임 보여줄 테니까. 간다, 키리카 씨!」"
+
+[[dialogue]]
+speaker = "キリカ"
+original = "「承知──<ruby>偃月<rt>えんげつ</rt></ruby>」"
+translation = "「알겠습니다── 언월」"
+
+[[dialogue]]
+speaker = "unk"
+original = "星騎士たちによる共同戦線は、全世界各地へと広がっていった……。"
+translation = "성기사들에 의한 공동 전선은, 전 세계 각지로 퍼져나갔다……."
+
+[[dialogue]]
+speaker = "ウィステリア"
+original = "「フィヴォス流星群……間違いないわね。規模も、現象も、３０００年前のセレーネ流星群にそっくり」"
+translation = "「필보스 유성군…… 틀림없네요. 규모도, 현상도, 3000년 전의 셀레네 유성군과 똑같아」"
+
+[[dialogue]]
+speaker = "ウィステリア"
+original = "「アナさん、これをどう見る？」"
+translation = "「아나 씨, 이것을 어떻게 보나요?」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「リクリエの前兆……いえ、もうこのような表現の必要はありませんね」"
+translation = "「리크리에의 전조…… 아니요, 더 이상 이러한 표현은 필요 없겠네요」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「世界の終わりが始まった。ということかと」"
+translation = "「세계의 종말이 시작되었다. 라는 것이라고」"
+
+[[dialogue]]
+speaker = "ウィステリア"
+original = "「つまり、もうじき……どうあれ三界の命運は決する」"
+translation = "「즉, 머지않아…… 어떻게 되든 삼계의 명운은 결정될 거예요」"
+
+[[dialogue]]
+speaker = "ウィステリア"
+original = "「……不思議なものね。この時のために設立された学園なのに、夢でも見てるみたい」"
+translation = "「……신기한 일이네요. 이 때를 위해 설립된 학원인데, 꿈이라도 꾸는 것 같아요」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「いえ。私も……恐らくみんな、同じ気持ちのはずです」"
+translation = "「아뇨. 저도…… 아마 모두, 같은 기분일 것입니다.」"
+
+[[dialogue]]
+speaker = "unk"
+original = "リクリエに抗うために戦ってきた星騎士たち。"
+translation = "리크리에에 저항하기 위해 싸워온 성기사들."
+
+[[dialogue]]
+speaker = "unk"
+original = "そんな彼らをしても、いざ本当の破滅が迫りくるとなれば、現実味も薄れてしまうのが心情というものだった。"
+translation = "그런 그들조차도, 막상 진정한 파멸이 다가오면, 현실감이 희미해지는 것이 인지상정이었다."
+
+[[dialogue]]
+speaker = "アナ"
+original = "（ですが、この空……<b>彼女</b>が来ているのは間違いありません。それは紛れもなく３０００年前にはなかったファクター）"
+translation = "（하지만, 이 하늘…… <b>그녀</b>가 와 있는 것은 틀림없습니다. 그것은 틀림없이 3000년 전에는 없었던 요인）"
+
+[[dialogue]]
+speaker = "unk"
+original = "起きている事態に、アナは<ruby>思惟<rt>しい</rt></ruby>を巡らせる。"
+translation = "벌어지고 있는 사태에, 아나는 사유를 돌린다."
+
+[[dialogue]]
+speaker = "ウィステリア"
+original = "「……魔界はどうなっているのかしら」"
+translation = "「……마계는 어떻게 되어 있을까요」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「人間界でこれだけの異変が起こっているのですから、魔界でも通常ではあり得ない現象が起きていても不思議ではありません」"
+translation = "「인간계에서 이 정도의 이변이 일어나고 있으니, 마계에서도 통상적으로는 있을 수 없는 현상이 일어나고 있어도 이상하지 않습니다」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「ですが、連絡手段もない以上、私たちは会長たちの無事を祈るしかありません……」"
+translation = "「하지만, 연락 수단도 없는 이상, 우리는 회장님들의 무사를 빌 수밖에 없습니다……」"
+
+[[dialogue]]
+speaker = "ウィステリア"
+original = "「確かに、それもそうね」"
+translation = "「확실히, 그것도 그렇네요」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「そういえば、これだけの緊急事態であれば、予備エネルギーを用いた『大交流』も作動しうるのでしょうか……？」"
+translation = "「그러고 보니, 이 정도의 긴급 사태라면, 예비 에너지를 이용한 『대교류』도 작동할 수 있을까요……?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "アナがいくつもの可能性を推測する──その時だった。"
+translation = "아나가 여러 가능성을 추측한다── 그때였다."
+
+[[dialogue]]
+speaker = "トワ先生"
+original = "「たったっ──大変だよお！\u3000アナちゃあん！」"
+translation = "「타타타── 큰일 났어! 아나 짱!」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「トワ先生──どうされました？」"
+translation = "「토와 선생님── 무슨 일이십니까?」"
+
+[[dialogue]]
+speaker = "トワ先生"
+original = "「はぁ、はぁ……い、今つい入ってきたばかりの情報なんだけど」"
+translation = "「하아, 하아…… 바, 방금 막 들어온 정보인데」"
+
+[[dialogue]]
+speaker = "トワ先生"
+original = "「<ruby>鏡界の湖<rt>ラーゴ・シエロ</rt></ruby>が──何者かにジャックされちゃったんだって！」"
+translation = "「<ruby>경계의 호수<rt>라고 시에로</rt></ruby>가── 누군가에게 장악당해 버렸대!」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「！」"
+translation = "「!」"
+
+[[dialogue]]
+speaker = "ウィステリア"
+original = "「どういうことですか？\u3000いったい、何の目的で……」"
+translation = "「무슨 말씀이십니까? 대체, 무슨 목적으로……」"
+
+[[dialogue]]
+speaker = "トワ先生"
+original = "「わ、わかんないけど……なんか、魔女みたいな服の女の子たちが押し寄せてきて──制圧されちゃった、とかって」"
+translation = "「모, 모르겠지만…… 뭔가, 마녀 같은 옷을 입은 여자애들이 몰려와서── 제압당해 버렸다, 라던가」"
+
+[[dialogue]]
+speaker = "ウィステリア"
+original = "「モンスターのせいでもなく──ということですか？\u3000<ruby>鏡界の湖<rt>ラーゴ・シエロ</rt></ruby>が通れなかったら、そもそも三界の行き来さえできないっていうのに……！」"
+translation = "「몬스터 때문도 아니고── 라는 말씀이십니까? <ruby>경계의 호수<rt>라고 시에로</rt></ruby>를 통과할 수 없다면, 애초에 삼계의 왕래조차 할 수 없는데……!」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「……」"
+translation = "「……」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「魔女みたいな服の女性たち──もしかして、ネビュラ……？」"
+translation = "「마녀 같은 옷을 입은 여성들── 혹시, 네뷸라……?」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "（何のつもり──？\u3000彼女らは共にリクリエに抗う同志……と言ってた。あれは、嘘じゃなかった、と思う）"
+translation = "（무슨 생각이지──? 그녀들은 함께 리크리에에 저항하는 동지……라고 말했다. 그것은, 거짓말이 아니었다, 고 생각한다）"
+
+[[dialogue]]
+speaker = "アナ"
+original = "（ネビュラは会長たちを、どうするつもり……？）"
+translation = "（네뷸라는 회장님들을, 어떻게 할 생각이지……?）"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「……」"
+translation = "「……」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "（すべては終わり……そして始まる。あたし……流星ライダーアポロは、ただそのためだけの存在）"
+translation = "（모든 것은 끝…… 그리고 시작된다. 나…… 유성 라이더 아폴로는, 오직 그것만을 위한 존재）"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "（でも……叶うなら。魔王もひーろーもいない……次は……そんな世界に……）"
+translation = "（하지만…… 가능하다면. 마왕도 히어로도 없는…… 다음은…… 그런 세계로……）"
+

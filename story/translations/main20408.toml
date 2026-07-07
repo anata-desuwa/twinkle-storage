@@ -1,0 +1,535 @@
+[[dialogue]]
+speaker = "unk"
+original = "第８話,アルタイルの梨緒,B"
+translation = "제8화, 알타이르의 리오, B"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「先ほど、イングランドの方から教皇庁に返答が返ってきた。問い合わせが具体的だったから、時間はかからなかったそうだ」"
+translation = "「방금 영국 쪽에서 교황청으로 답변이 돌아왔다. 문의가 구체적이었기에 시간은 걸리지 않았다고 하더군.」"
+
+[[dialogue]]
+speaker = "unk"
+original = "空き教室に集まる選挙管理員会のメンバーたち。"
+translation = "빈 교실에 모인 선거관리위원회 멤버들."
+
+[[dialogue]]
+speaker = "unk"
+original = "その前で梨緒は、手元に届いた調査結果を読み上げる。"
+translation = "그 앞에서 리오는 손에 든 조사 결과를 낭독한다."
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「梨緒・Ａ・クリステレス、およびその家族は森羅暦２９９２年、モンスターに襲われ死亡──」"
+translation = "「리오 A 크리스테레스 및 그 가족은 삼라력 2992년, 몬스터에게 습격당해 사망──」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「だそうだ」"
+translation = "「라고 한다.」"
+
+[[dialogue]]
+speaker = "unk"
+original = "感情を押し殺して、淡々と自分の死を伝える梨緒。"
+translation = "감정을 억누르고 담담하게 자신의 죽음을 전하는 리오."
+
+[[dialogue]]
+speaker = "unk"
+original = "アポロたちはすぐに反応を返せず、教室に沈黙が落ちた。"
+translation = "아폴로 일행은 즉시 반응하지 못했고, 교실에는 침묵이 내려앉았다."
+
+[[dialogue]]
+speaker = "梨緒"
+original = "（こちらの私と出会ったらどうするかなんて、少し考えてもみたが……無駄だったな）"
+translation = "（이쪽의 나와 만나면 어떻게 할까 조금 생각해 보기도 했지만…… 무의미했군.）"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "（平行世界なんて最初は信じられなかった。今も馬鹿げていると思っている）"
+translation = "（평행세계 같은 건 처음엔 믿을 수 없었다. 지금도 터무니없다고 생각하고 있어.）"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "（だが私の新星学園と異なる星徒会や、小さいフィオナ──アポロを見せられ、こうして証拠を突きつけられれば、もう否定はできない）"
+translation = "（하지만 내가 아는 신성학원과 다른 성도회나, 어린 피오나──아폴로를 보고, 이렇게 증거까지 들이밀어지면 더 이상 부정할 수 없지.）"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「アルタイル、デネブ、ベガは根本が同じ平行世界とはいえ、多少の差異が生じるんだろう。私の生死はその多少の部分ということだ」"
+translation = "「알타이르, 데네브, 베가는 근본이 같은 평행세계라고는 해도 다소의 차이가 생기는 모양이다. 나의 생사는 그 다소의 차이에 해당하는 부분이겠지.」"
+
+[[dialogue]]
+speaker = "ベアトリス"
+original = "「梨緒ちゃん……」"
+translation = "「리오짱……」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「不安な顔をする必要はない、ベアト。問い合わせを依頼した時点で、覚悟はしていたことだ」"
+translation = "「불안한 표정을 지을 필요는 없다, 베아토. 문의를 의뢰한 시점에서 각오는 하고 있었던 일이다.」"
+
+[[dialogue]]
+speaker = "ナターシャ"
+original = "「おや、気丈だね。さすがに凹むかと思ったんだけど」"
+translation = "「어라, 꿋꿋하네. 내심 낙담할 줄 알았는데.」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「正直、私自身もこの知らせをどう受け止めていいかわからない」"
+translation = "「솔직히 나 자신도 이 소식을 어떻게 받아들여야 할지 모르겠다.」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「喪失感がないと言えば嘘になる。この世界の梨緒は私自身でもあるが、他人でもあって……言葉にし難い心境だ」"
+translation = "「상실감이 없다고 하면 거짓말이겠지. 이 세계의 리오는 나 자신이기도 하지만 타인이기도 해서…… 말로 표현하기 힘든 심경이다.」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「家族と再会できるという期待もなくはなかったが、別れは元の世界でとうに済ませている」"
+translation = "「가족과 재회할 수 있다는 기대가 없지는 않았지만, 이별은 원래 세계에서 이미 끝마쳤으니까.」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「だがリクリエを止めるという意志は変わらない。ジグやディザスターハンドとも戦わなければいけないからな」"
+translation = "「하지만 리크리에를 막겠다는 의지는 변함없다. 지그나 디재스터 핸드와도 싸워야만 하니까.」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「アポロもありがとう。君のおかげで、ようやく自分が平行世界から来たと認めることができた」"
+translation = "「아폴로도 고맙다. 너 덕분에 겨우 내가 평행세계에서 왔다는 걸 인정할 수 있었어.」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「……ああ」"
+translation = "「……아아.」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「残念ながら、“真なる神”に関して新たに判明した事実はない。報告は以上だ」"
+translation = "「안타깝지만, “진정한 신”에 관해 새로 판명된 사실은 없다. 보고는 이상이다.」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「今日は解散にしよう」"
+translation = "「오늘은 해산하도록 하지.」"
+
+[[dialogue]]
+speaker = "unk"
+original = "選挙管理委員会のメンバーと別れた後、梨緒の足は自然と大聖堂に向いていた。"
+translation = "선거관리위원회 멤버들과 헤어진 후, 리오의 발걸음은 자연스레 대성당으로 향하고 있었다."
+
+[[dialogue]]
+speaker = "unk"
+original = "梨緒は特別信仰心が強いわけではないが、それでもここは他の場所より少し気持ちが落ち着く気がするからだ。"
+translation = "리오는 특별히 신앙심이 깊은 것은 아니지만, 그래도 이곳은 다른 장소보다 조금 마음이 진정되는 기분이 들기 때문이다."
+
+[[dialogue]]
+speaker = "梨緒"
+original = "（この世界──アルタイルにも梨緒・Ａ・クリステレスがいた。ならば私は別の平行世界の梨緒だ）"
+translation = "（이 세계──알타이르에도 리오 A 크리스테레스가 있었다. 그렇다면 나는 다른 평행세계의 리오다.）"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "（だが私はデネブにあるという、極星学園を知らない）"
+translation = "（하지만 나는 데네브에 있다는 극성학원을 모른다.）"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "（私が知るフィオナ──アポロも、デネブのアポロとは辿った経緯が異なる。よって私の世界はデネブではない）"
+translation = "（내가 아는 피오나──아폴로도 데네브의 아폴로와는 걸어온 경위가 달라. 따라서 내 세계는 데네브가 아니다.）"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "（つまり私の世界は残る１つ──ベガ）"
+translation = "（즉 내 세계는 남은 하나──베가.）"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "（そして私の記憶が正しければ……ベガはリクリエに敗北し、滅んだ）"
+translation = "（그리고 내 기억이 맞다면…… 베가는 리크리에에 패배해 멸망했다.）"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "（薄々わかっていたことだろう。今だって驚きはない。ようやく納得がいっただけだ）"
+translation = "（어렴풋이 알고 있었겠지. 지금 와서 놀랍지는 않다. 겨우 납득이 갔을 뿐이다.）"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "（それでも──）"
+translation = "（그래도──）"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "（私は世界の終わりを目の当たりにした。世界の終焉に立ち会った）"
+translation = "（나는 세계의 끝을 목격했다. 세계의 종언을 함께했다.）"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "（だけど気が付けば私は、まだ滅びていない流星市国にいた）"
+translation = "（하지만 정신을 차려보니 나는 아직 멸망하지 않은 유성시국에 있었다.）"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "（やり直すことができる。今度こそ世界を救えると思った）"
+translation = "（다시 시작할 수 있어. 이번에야말로 세계를 구할 수 있다고 생각했다.）"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「いや！\u3000私は今度こそ世界を守る！\u3000そのために私はここにいるんだ！」"
+translation = "「아니! 나는 이번에야말로 세계를 지키겠어! 그러기 위해 나는 여기에 있는 거야!」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「今度こそ……今度こそ、世界を救う。そう誓った」"
+translation = "「이번에야말로…… 이번에야말로 세계를 구하겠다고, 그렇게 맹세했어.」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「だけどその誓いは──無駄だったんだな」"
+translation = "「하지만 그 맹세는── 헛수고였던 거구나.」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「ぅっ……ぐすっ……」"
+translation = "「윽…… 흐윽……」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「友人と共に学んだ新星学園も、家族と過ごした流星市国も、生まれた故郷も、何もかも失くなってしまった……」"
+translation = "「친구와 함께 공부했던 신성학원도, 가족과 보냈던 유성시국도, 태어난 고향도, 무엇 하나 남지 않고 사라져 버렸어……」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「母さんが焼いたスコーンももう食べられない……放課後にみんなで紅茶を飲むこともできない……」"
+translation = "「엄마가 구워준 스콘도 이제 먹을 수 없어…… 방과 후에 다 같이 홍차를 마시는 것도 할 수 없어……」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「一緒に笑い合った仲間も、フィオナも、エリシアも……みんな……いないんだな」"
+translation = "「함께 웃었던 동료들도, 피오나도, 엘리시아도…… 모두…… 없는 거구나.」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「ひぐっ、ぅっ……ううぅ……」"
+translation = "「히윽, 윽…… 으으으……」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「ジグ……」"
+translation = "「지그……」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "（私が弱くて、情けなくて泣いていると、君がいつの間にか傍にいた。泣いているところを見せたくなんかないのに）"
+translation = "（내가 약해서, 한심해서 울고 있으면 어느샌가 네가 곁에 있었지. 우는 모습 따위 보여주고 싶지 않은데.）"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "（それでも君の軽薄な笑顔を見ると、不思議と涙は引いていた）"
+translation = "（그래도 네 경박한 미소를 보면 신기하게도 눈물이 쏙 들어갔었어.）"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "（私は同じ世界の仲間をすべて失った。──だけど）"
+translation = "（나는 같은 세계의 동료를 모두 잃었다. ──하지만）"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "（ジグはまだ生きている。今は敵だとしても）"
+translation = "（지그는 아직 살아있어. 지금은 적이라고 해도.）"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "（だからジグは取り戻す。ジグだけは救ってみせる）"
+translation = "（그러니까 지그는 되찾겠어. 지그만은 구해내고 말겠어.）"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "（また戦うことになっても、負けるわけにはいかない）"
+translation = "（다시 싸우게 되더라도 질 수는 없다.）"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "（リクリエの使徒に……勝つ……！）"
+translation = "（리크리에의 사도에게…… 이기겠어……!）"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「見つけたぞ、梨緒！」"
+translation = "「찾았다, 리오!」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「──！？」"
+translation = "「──!?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "梨緒の涙を吹き飛ばすように、大聖堂の扉が勢いよく開け放たれた。"
+translation = "리오의 눈물을 날려버리듯 대성당의 문이 힘차게 열렸다."
+
+[[dialogue]]
+speaker = "unk"
+original = "アポロたち選挙管理委員会のメンバーが、梨緒の元にやってくる。"
+translation = "아폴로를 비롯한 선거관리위원회 멤버들이 리오에게 다가온다."
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「ど、どうして君たちがここに……！？」"
+translation = "「어, 어떻게 너희들이 여기에……!?」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「<ruby>星見家<rt>うち</rt></ruby>に帰らないから心配して探しに来たんだ。んで魔王に聞いてみたら、前にここで泣いてたって言っててな」"
+translation = "「호시미 가문에 돌아오지 않길래 걱정돼서 찾으러 왔지. 그래서 마왕한테 물어봤더니 예전에 여기서 울고 있었다고 하더라고.」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「い、いや、私は泣いてないっ」"
+translation = "「아, 아니, 난 안 울었어.」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「めちゃくちゃ目が赤いぞ。さすがに無理があるだろ」"
+translation = "「눈이 엄청나게 빨갛다고. 아무리 그래도 무리가 있잖아.」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「ずいぶんあっさりしてると思ったが、やっぱりショックなんじゃないか。それならそう言え！」"
+translation = "「굉장히 덤덤해 보인다고 생각했는데, 역시 충격받은 거 아냐? 그러면 그렇다고 말을 해!」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「だって……私の世界のことは、君たちには関係ないし……」"
+translation = "「그치만…… 내 세계 일은 너희랑 상관없고……」"
+
+[[dialogue]]
+speaker = "ベアトリス"
+original = "「確かに私たちは、梨緒ちゃんの世界は知らないよ」"
+translation = "「확실히 우리는 리오짱의 세계를 모르긴 해.」"
+
+[[dialogue]]
+speaker = "ベアトリス"
+original = "「でも梨緒ちゃんのことは知ってる。だから、関係ないなんて言わないで」"
+translation = "「하지만 리오짱에 대해서는 알아. 그러니까 상관없다는 말은 하지 마.」"
+
+[[dialogue]]
+speaker = "ベアトリス"
+original = "「それに言ったでしょ。１人で泣かないでほしいって」"
+translation = "「게다가 말했잖아. 혼자서 울지 않았으면 좋겠다고.」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「ベアト……」"
+translation = "「베아토……」"
+
+[[dialogue]]
+speaker = "ベアトリス"
+original = "「というわけで、梨緒ちゃんの涙を拭きに来たよ。梨緒ちゃんが泣くわけないもんね？」"
+translation = "「그런 고로, 리오짱의 눈물을 닦아주러 왔어. 리오짱이 울 리가 없으니까, 그치?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ハンカチを構えて、梨緒ににじり寄るベアトリス。"
+translation = "손수건을 들고 리오에게 야금야금 다가가는 베아트리스."
+
+[[dialogue]]
+speaker = "unk"
+original = "そのままぐいぐいと近づいていって、力ずくで涙を拭いていく。"
+translation = "그대로 슥슥 다가가 힘으로 눈물을 닦아낸다."
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「待て……やめろ……！\u3000ていうか君、力強いな……！」"
+translation = "「잠깐…… 하지 마……! 그보다 너, 힘 엄청 세네……!」"
+
+[[dialogue]]
+speaker = "ベアトリス"
+original = "「だって吸血鬼だからねっ」"
+translation = "「그야 흡혈귀니까!」"
+
+[[dialogue]]
+speaker = "ナターシャ"
+original = "「１人で泣いてすっきりしたければ、２人連れて出ていくけど、どうする？」"
+translation = "「혼자 울어서 후련해지고 싶다면 둘을 데리고 나가주겠는데, 어떻게 할래?」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「もう遅い！\u3000というか私は泣いてないと言っているだろうっ！」"
+translation = "「이미 늦었어! 애초에 나는 안 울었다고 말하고 있잖아!」"
+
+[[dialogue]]
+speaker = "ナターシャ"
+original = "「ほんと強情なんだから。かわいくないよね」"
+translation = "「정말 고집불통이라니까. 귀엽지 않네.」"
+
+[[dialogue]]
+speaker = "unk"
+original = "やれやれと肩を竦めるナターシャ。梨緒の意地っ張りに呆れるのもお決まりになってきた。"
+translation = "어쩔 수 없다는 듯 어깨를 으쓱이는 나타샤. 리오의 고집에 질리는 것도 이제 일상이 되었다."
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「あと、さっき無駄がどうとか聞こえたけど、オマエがやってきたことは無駄じゃないからな！」"
+translation = "「그리고 아까 헛수고니 뭐니 들린 것 같은데, 네가 해온 일은 헛수고가 아니니까 말이야!」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「え？」"
+translation = "「에?」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「オマエは世界を守ろうと頑張って、モンスターを倒して、<ruby>極星従騎<rt>きょくせいじゅうき</rt></ruby>と戦った。そのおかげで助けられた人がいる」"
+translation = "「너는 세계를 지키려고 열심히 노력했고, 몬스터를 쓰러뜨리고, 극성종기와 싸웠어. 그 덕분에 도움받은 사람이 있다고.」"
+
+[[dialogue]]
+speaker = "ベアトリス"
+original = "「それだけじゃないよ。梨緒ちゃんが選挙管理委員会を作ってくれたおかげで、私は１人にならずに済んだ」"
+translation = "「그뿐만이 아냐. 리오짱이 선거관리위원회를 만들어준 덕분에 나는 혼자가 되지 않아도 됐어.」"
+
+[[dialogue]]
+speaker = "ベアトリス"
+original = "「右も左もわからない新星学園で、仲間を作ることができた。梨緒ちゃんのおかげだよ」"
+translation = "「아무것도 모르던 신성학원에서 동료를 만들 수 있었어. 리오짱 덕분이야.」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「私の……おかげ……？」"
+translation = "「나…… 덕분……?」"
+
+[[dialogue]]
+speaker = "ナターシャ"
+original = "「そうそう。魔王の監視っていう、私の任務にもちょうどいいしね」"
+translation = "「그래그래. 마왕 감시라는 내 임무에도 딱 좋고 말이지.」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「最後のはいらないぞ」"
+translation = "「마지막 말은 필요 없어.」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「それにだ」"
+translation = "「게다가 말이다.」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「オマエは全てを失ったかもしれない。あたしたちじゃ、オマエが失くしたものの代わりになれないなんてわかってる」"
+translation = "「너는 모든 것을 잃었을지도 몰라. 우리로서는 네가 잃어버린 것들의 대신이 될 수 없다는 건 알고 있어.」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「それでも今、オマエは１人じゃない。あたしたちがいる！」"
+translation = "「그래도 지금 너는 혼자가 아냐. 우리가 있잖아!」"
+
+[[dialogue]]
+speaker = "ベアトリス"
+original = "「うん。私はちょっと頼りないかもしれないけど、梨緒ちゃんを１人にはさせないから」"
+translation = "「응. 나는 좀 미덥지 못할지도 모르지만, 리오짱을 혼자 두지 않을 거니까.」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「…………」"
+translation = "「…………」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「……ありがとう、みんな」"
+translation = "「……고마워, 모두들.」"
+
+[[dialogue]]
+speaker = "unk"
+original = "アポロやベアトリスの言葉を受け止め、梨緒が少しだけ微笑む。"
+translation = "아폴로나 베아트리스의 말을 받아들이며 리오가 살짝 미소 짓는다."
+
+[[dialogue]]
+speaker = "unk"
+original = "涙はいつの間にか乾いていた。"
+translation = "눈물은 어느샌가 말라 있었다."
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「改めて言っておく。私の世界が滅んだのだとしても、私はリクリエとの戦いをやめるつもりはない」"
+translation = "「다시 한번 말해두지. 내 세계가 멸망했다고 해도, 나는 리크리에와의 싸움을 그만둘 생각은 없다.」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「緋宮クロトの監視についても同様だ。私が知る彼は平行世界の彼だったが、アルタイルの緋宮クロトが同じ過ちを繰り返さないと決まったわけではない。まだまだ注視が必要だろう」"
+translation = "「히노미야 쿠로토의 감시에 대해서도 마찬가지다. 내가 알던 그는 평행세계의 그였지만, 알타이르의 히노미야 쿠로토가 같은 잘못을 반복하지 않으리란 법은 없으니까. 아직은 주시가 필요하겠지.」"
+
+[[dialogue]]
+speaker = "ベアトリス"
+original = "「うん、異議なし！\u3000リクリエは止めないといけないもんね」"
+translation = "「응, 이의 없음! 리크리에는 막아야만 하니까.」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「なら、あたしも監査を続けるまでだ。魔王の監視をする以上、オマエたちにもズルはさせないからな」"
+translation = "「그럼 나도 감사를 계속할 뿐이야. 마왕을 감시하는 이상 너희도 속임수는 못 쓰게 할 테니까.」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「ああ、これからもよろしく頼む」"
+translation = "「아아, 앞으로도 잘 부탁한다.」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「そしてジグについての方針も変わらない。彼女は私と同じく、ベガの数少ない生き残りだ」"
+translation = "「그리고 지그에 대한 방침도 변함없다. 그녀는 나와 마찬가지로 베가의 얼마 안 되는 생존자다.」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「たとえ厳しい戦いになったとしても、ジグに勝って彼女を取り戻す……！」"
+translation = "「설령 험난한 싸움이 되더라도, 지그에게 이겨서 그녀를 되찾겠어……!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "その先にジグがいるかの如く、遠くを見据えて鋭い眼差しを向ける梨緒。"
+translation = "그곳에 지그가 있는 것처럼 먼 곳을 응시하며 날카로운 눈빛을 보내는 리오."
+
+[[dialogue]]
+speaker = "unk"
+original = "瞳に宿る闘志は、決して衰えてはいなかった。"
+translation = "눈동자에 깃든 투지는 결코 쇠퇴하지 않았다."
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「ああ、その意気だ！\u3000あたしたちは負けないぞ！」"
+translation = "「아아, 그 기세다! 우리는 지지 않는다고!」"
+
+[[dialogue]]
+speaker = "ナターシャ"
+original = "「ふーん……」"
+translation = "「흐음……」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「どうした、ナターシャ？」"
+translation = "「왜 그래, 나타샤?」"
+
+[[dialogue]]
+speaker = "ナターシャ"
+original = "「ああいや、梨緒が元気になって良かったなーって。嬉しいよ」"
+translation = "「아니, 리오가 기운을 차려서 다행이다 싶어서. 기뻐.」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「あまり感情がこもってないように聞こえるんだが」"
+translation = "「별로 감정이 담겨 있지 않은 것처럼 들린다만.」"
+
+[[dialogue]]
+speaker = "ナターシャ"
+original = "「それは元からだよ元から。私、基本的に感情薄めだから」"
+translation = "「그건 원래부터야, 원래부터. 나, 기본적으로 감정이 희박하거든.」"
+
+[[dialogue]]
+speaker = "ナターシャ"
+original = "（もっとポキッて折れてもおかしくないかと思ったんだけど、すんなり立ち直っちゃったね）"
+translation = "（좀 더 꺾여버려도 이상하지 않다고 생각했는데, 순순히 다시 일어서 버렸네.）"
+
+[[dialogue]]
+speaker = "ナターシャ"
+original = "（まぁ戦う気力があるなら結果オーライ……なのかな？）"
+translation = "（뭐, 싸울 기력이 있다면 결과적으로는 잘된 일……인 걸까?）"
+

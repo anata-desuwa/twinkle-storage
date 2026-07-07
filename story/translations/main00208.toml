@@ -1,0 +1,290 @@
+[[dialogue]]
+speaker = "unk"
+original = "第１０話,日誌に導かれて,B"
+translation = "제10화, 일지에 이끌려, B"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「それでヴィーナス──『日誌』の増えたページには、他になにか書かれてなかったのか？」"
+translation = "「그래서 비너스──『일지』에 늘어난 페이지에는, 달리 뭔가 적혀 있지 않았나?」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「んー、ちょいとあるわね」"
+translation = "「음ー, 조금은 있지」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「『塔の奥地で私たちは《境界》に出会う。彼女との出会いは《魔王》の目覚めを促進するものと信じて……』」"
+translation = "「『탑의 오지에서 우리는 《경계》를 만난다. 그녀와의 만남은 《마왕》의 각성을 촉진하는 것이라 믿으며……』」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「──だって！」"
+translation = "「──래!」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「《境界》……あれ。さっき、フィオナの話でその言葉が出なかったか？」"
+translation = "「《경계》……어라. 아까, 피오나의 이야기에서 그 단어가 나오지 않았나?」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「！\u3000そうですね。私たち流星星徒会がアステラで出会った守護天使──彼女は《境界》を司るものと名乗っていました」"
+translation = "「! 그렇습니다. 저희 유성 성도회가 아스테라에서 만났던 수호 천사──그녀는 《경계》를 관장하는 자라고 자칭했습니다」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「へえ。ビンゴじゃない！」"
+translation = "「헤에. 빙고네!」"
+
+[[dialogue]]
+speaker = "ニャリオン"
+original = "「ニャニャ。この先に同じのが待ってるのかニャン……？」"
+translation = "「냐냐. 이 앞에 똑같은 게 기다리고 있는 거냥……?」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「それに魔王の目覚め……か。わからないが、今は進んでいくしかない」"
+translation = "「게다가 마왕의 각성……인가. 모르겠지만, 지금은 나아갈 수밖에 없다」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ヴィーナスに栞を託した存在がこの先で待ち受けている──とすれば、筋は通っている。"
+translation = "비너스에게 책갈피를 맡긴 존재가 이 앞에서 기다리고 있다──고 한다면, 이치에 맞는다."
+
+[[dialogue]]
+speaker = "unk"
+original = "俺たちは日誌の記述に従い、塔の奥へと進んでいった……。"
+translation = "우리는 일지의 기술에 따라, 탑의 안쪽으로 나아갔다……."
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「ふー……また階段ね。もう３階くらいは昇ったのに」"
+translation = "「후우……또 계단이네. 벌써 3층 정도는 올라왔는데」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「外から見た高さを考えると……まだ序の口なんだろうな」"
+translation = "「밖에서 본 높이를 생각하면……아직 시작에 불과하겠지」"
+
+[[dialogue]]
+speaker = "unk"
+original = "行っても行っても同じ景色が続く。"
+translation = "가도 가도 똑같은 풍경이 이어진다."
+
+[[dialogue]]
+speaker = "unk"
+original = "だんだんと、自分たちがどこにいるのか麻痺しかけてくる頃……"
+translation = "점점, 자신들이 어디에 있는지 마비되어 갈 무렵……"
+
+[[dialogue]]
+speaker = "unk"
+original = "曲がり角から影が飛び出してきた。"
+translation = "모퉁이에서 그림자가 튀어나왔다."
+
+[[dialogue]]
+speaker = "不思議な機械？"
+original = "「ピ……ピ……ガガ……ピピ……ガガ……」"
+translation = "「삐……삐……가가……삐삐……가가……」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「！\u3000驚きました……何でしょう、あれは」"
+translation = "「! 놀랐습니다……뭘까요, 저것은」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ノイズのような音を出して徘徊する謎の物体。"
+translation = "노이즈 같은 소리를 내며 배회하는 수수께끼의 물체."
+
+[[dialogue]]
+speaker = "unk"
+original = "機械……のように見えるが。"
+translation = "기계……처럼 보이지만."
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「お掃除ロボね、きっと！\u3000マトイの部屋で似たようなのを見たことあるわ！」"
+translation = "「청소 로봇이네, 분명! 마토이의 방에서 비슷한 걸 본 적 있어!」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「待て、ヴィーナス。様子がおかしい」"
+translation = "「기다려, 비너스. 상태가 이상하다」"
+
+[[dialogue]]
+speaker = "不思議な機械？"
+original = "「侵入者・発見。対象・四名。人間・<emoji=abb><emoji=abb><emoji=abb>・人間・人間ト推定」"
+translation = "「침입자・발견. 대상・사명. 인간・<emoji=abb><emoji=abb><emoji=abb>・인간・인간으로 추정」"
+
+[[dialogue]]
+speaker = "ニャリオン"
+original = "「ワガハイが頭数に入っていないニャン！」"
+translation = "「내가 머릿수에 들어가지 않았냥!」"
+
+[[dialogue]]
+speaker = "不思議な機械？"
+original = "「モンスター確認。戦力微小ト推定」"
+translation = "「몬스터 확인. 전력 미소로 추정」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「ぷ。モンスター扱いされてる」"
+translation = "「푸. 몬스터 취급당하네」"
+
+[[dialogue]]
+speaker = "ニャリオン"
+original = "「あ、頭に来たニャン！\u3000あんなロボットもどきはワガハイがスクラップにしてやるニャン！」"
+translation = "「화, 화가 났냥! 저런 로봇 짝퉁은 내가 고철로 만들어 버릴 거냥!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ニャリオンは怒ってそのロボットもどきに突撃していった！"
+translation = "냐리온은 화가 나서 그 로봇 짝퉁에게 돌격해 갔다!"
+
+[[dialogue]]
+speaker = "unk"
+original = "しかし……"
+translation = "하지만……"
+
+[[dialogue]]
+speaker = "ニャリオン"
+original = "「グエー！\u3000や、やられたニャン！\u3000こいつ強いニャン！」"
+translation = "「꽥ー! 당, 당했다냥! 이 녀석 강하냥!」"
+
+[[dialogue]]
+speaker = "不思議な機械？"
+original = "「ピピ。ガガ。撃退成功」"
+translation = "「삐삐. 가가. 격퇴 성공」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ニャリオン怒涛のひっかきも機械の体には通用せず、たやすく返り討ちにされてしまった。"
+translation = "냐리온의 노도와 같은 할퀴기도 기계의 몸에는 통하지 않고, 손쉽게 역습당하고 말았다."
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「！\u3000確かに結構な脅威のようです……皆さん、ご注意を」"
+translation = "「! 확실히 상당한 위협인 것 같습니다……여러분, 조심하십시오」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「どうやら──侵入者と見なされてるみたいだな」"
+translation = "「아무래도──침입자로 간주되는 모양이군」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「ふふん。機械風情がパトロールなんて生意気じゃない！」"
+translation = "「후훗. 기계 주제에 순찰이라니 건방지잖아!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "俺たちは臨戦態勢を取る──が、それより先に。"
+translation = "우리는 임전 태세를 취한다──하지만, 그보다 먼저."
+
+[[dialogue]]
+speaker = "キリカ"
+original = "「──お下がりください、皆さま」"
+translation = "「──물러서십시오, 여러분」"
+
+[[dialogue]]
+speaker = "不思議な機械？"
+original = "「ピガッ──ギギギ！」"
+translation = "「삐각──기기기!」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「！？」"
+translation = "「!?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "キリカさんの放った拳撃──それから蹴りの合わせ技が、機械をたちまち破壊していた。"
+translation = "키리카 씨가 날린 권격──그리고 발차기의 합기술이, 기계를 순식간에 파괴하고 있었다."
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「見えなかった──<ruby>疾<rt>はや</rt></ruby>っ……！」"
+translation = "「보이지 않았어── 빨랏……!」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「なんて身のこなしだ──」"
+translation = "「대단한 몸놀림이다──」"
+
+[[dialogue]]
+speaker = "キリカ"
+original = "「恐縮です。ですが──そこにも」"
+translation = "「황송합니다. 하지만──저기에도」"
+
+[[dialogue]]
+speaker = "不思議な機械？"
+original = "「ピガァッ──！！」"
+translation = "「삐가앗──!!」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「！\u3000──ありがとうございます、キリカ」"
+translation = "「! ──감사합니다, 키리카」"
+
+[[dialogue]]
+speaker = "キリカ"
+original = "「いえ。この身はそのためにあるものですから──それに、まだ来ます」"
+translation = "「아닙니다. 이 몸은 그것을 위해 있는 것이니까요──게다가, 아직 옵니다」"
+
+[[dialogue]]
+speaker = "不思議な機械？"
+original = "「増援……要請……至急、侵入者、排除サレタシ」"
+translation = "「증원……요청……긴급, 침입자, 배제되도록」"
+
+[[dialogue]]
+speaker = "不思議な機械？"
+original = "「ピ……ガ……ガガピピ……ピピ……ガガ……」"
+translation = "「삐……가……가가삐삐……삐삐……가가……」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「さっきより数が増えてる──壊されると仲間を呼ぶ仕組みになってるのか」"
+translation = "「아까보다 수가 늘었어──부서지면 동료를 부르는 구조로 되어 있는 건가」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「なるほどね！\u3000なら、全部集まったところをまとめてぶっ叩くしかないわ！」"
+translation = "「과연! 그럼, 전부 모인 곳을 한꺼번에 때려 부술 수밖에 없겠네!」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「その算段で参りましょう。新星のお二方、お力を貸していただけますか」"
+translation = "「그 계산대로 가시지요. 신성 두 분, 힘을 빌려주시겠습니까」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「もちろんだ。それに、今の俺たちは互いに当事者だろう？」"
+translation = "「물론이다. 게다가, 지금의 우리는 서로 당사자이지 않나?」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「ふふ、それもそうでしたね。では──共に参りましょう」"
+translation = "「후후, 그것도 그렇군요. 그럼──함께 가시지요」"
+
+[[dialogue]]
+speaker = "unk"
+original = "機械は次々と仲間を呼び、おびただしい頭数に膨れ上がっていた。"
+translation = "기계는 차례차례 동료를 부르며, 엄청난 머릿수로 불어났다."
+
+[[dialogue]]
+speaker = "unk"
+original = "しかし、俺たち４人なら戦える。キリカさんも相当な戦力になってくれそうだ。"
+translation = "하지만, 우리 넷이라면 싸울 수 있다. 키리카 씨도 상당한 전력이 되어 줄 것 같다."
+
+[[dialogue]]
+speaker = "不思議な機械？"
+original = "「迎撃ヲ開始スル。バトルフォーメーション・Ｂ」"
+translation = "「요격울 개시한다. 배틀 포메이션・B」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「──来ます。総員、戦闘準備を」"
+translation = "「──옵니다. 총원, 전투 준비를」"
+

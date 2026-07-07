@@ -1,0 +1,125 @@
+[[dialogue]]
+speaker = "unk"
+original = "それはリクリエを退けてしばらく経った、ある日のこと。"
+translation = "그것은 리크리에를 물리치고 시간이 조금 흐른 어느 날의 일."
+
+[[dialogue]]
+speaker = "unk"
+original = "サーシャさんと２人で、星徒会の書類仕事をしていたのだが――"
+translation = "사샤 씨와 둘이서 성도회의 서류 업무를 하고 있었는데――"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「ねぇ、会長くん。そういえばこの前、マトイちゃんがノヴァフォームへの変身に成功したじゃない？」"
+translation = "「저기, 회장군. 그러고 보니 저번에 마토이짱이 노바 폼으로 변신하는 데 성공했잖아?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "初夏に行われた、『マム』こと妃竜院マハムート先輩によるビーチバレー特訓。"
+translation = "초여름에 행해진, 『마무』라 불리는 키류인 마하무트 선배의 비치발리볼 특훈."
+
+[[dialogue]]
+speaker = "unk"
+original = "その後に現れた新種モンスターとの戦闘で、魔王の秘技である『アルケインノヴァエクストリーム』の発動に再び成功。マトイはノヴァフォームへの覚醒を果たしたのだった。"
+translation = "그 후에 나타난 신종 몬스터와의 전투에서 마왕의 비기인 『알케인 노바 익스트림』의 발동에 다시 성공. 마토이는 노바 폼으로 각성한 것이었다."
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「私もマトイちゃんから話を聞いたりして、改めてノヴァフォームになれないかどうか、研究してるんだけど……」"
+translation = "「나도 마토이짱에게 이야기를 듣기도 하면서, 새삼 노바 폼이 될 수 없을지 연구하고 있는데……」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「やっぱりそう簡単には行かなくて……ちょっと悩んでるのよね～」"
+translation = "「역시 그렇게 쉽지는 않아서…… 조금 고민 중이거든~」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「またどこかで時間を作って、会長くんも一緒にノヴァフォームの研究会をやりたいんだけど。どうかしら……？」"
+translation = "「다시 어디선가 시간을 내서, 회장군도 같이 노바 폼 연구회를 하고 싶은데. 어떨까……?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "もちろんです。一緒にやりましょう"
+translation = "물론이죠. 같이 해요."
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「本当？\u3000ありがとう♪\u3000優しい弟くんで、お姉ちゃん助かるわ～♪」"
+translation = "「정말? 고마워♪ 상냥한 동생 덕분에 누나가 살겠네~♪」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「ぎゅ～っ♪」"
+translation = "「꼬옥~♪」"
+
+[[dialogue]]
+speaker = "unk"
+original = "さ、サーシャさん、胸に埋もれて息が……"
+translation = "사, 사샤 씨, 가슴에 파묻혀서 숨이……"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「あら～？\u3000ふふっ、ごめんなさい。嬉しくなってつい、またやっちゃったわ～」"
+translation = "「어머나~? 후훗, 미안해. 기뻐서 그만 또 저질러 버렸네~」"
+
+[[dialogue]]
+speaker = "unk"
+original = "と、その時だった。"
+translation = "그때였다."
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「会長くん、ＤＩＳＣが鳴ってるみたいよ？」"
+translation = "「회장군, DISC가 울리는 모양이야?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "画面を確認すると、電話がかかって来ていた。通話ボタンを押すと――"
+translation = "화면을 확인하니 전화가 걸려 오고 있었다. 통화 버튼을 누르자――"
+
+[[dialogue]]
+speaker = "サチ"
+original = "「お兄さん、失礼します。今、お時間よろしいでしょうか？」"
+translation = "「오빠, 실례하겠습니다. 지금 시간 괜찮으신가요?」"
+
+[[dialogue]]
+speaker = "サチ"
+original = "「――ありがとうございます。実はもし可能なら、<b>助っ人</b>をお願いできないかと思いまして」"
+translation = "「――감사합니다. 실은 가능하다면 **헬프**를 부탁드려도 될까 싶어서요.」"
+
+[[dialogue]]
+speaker = "unk"
+original = "わかった。これから合流するよ"
+translation = "알았어. 지금 합류할게."
+
+[[dialogue]]
+speaker = "サチ"
+original = "「よろしくお願いします。そうしたら、場所は――」"
+translation = "「잘 부탁드립니다. 그러면 장소는――」"
+
+[[dialogue]]
+speaker = "unk"
+original = "合流場所を聞いて、通話を終了する。"
+translation = "합류 장소를 듣고 통화를 종료한다."
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「ねぇ、もしかして用件は――ロストアイテム関連かしら？」"
+translation = "「저기, 혹시 용건은―― 로스트 아이템 관련일까?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "え！？\u3000サーシャさんがどうしてそれを……"
+translation = "에!? 사샤 씨가 어떻게 그걸……"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「うん、実は少し前にちょっとね～」"
+translation = "「응, 사실 조금 전에 말이야~」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「さっ、そういうことなら急ぎましょう。魔法少女たちが助けを求めてるんだもの♪」"
+translation = "「자, 그렇다면 서두르자. 마법소녀들이 도움을 요청하고 있는걸♪」"
+

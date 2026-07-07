@@ -1,0 +1,480 @@
+[[dialogue]]
+speaker = "ナターシャ"
+original = "「じゃあ私とアポロ、梨緒とベアトがチームってことで」"
+translation = "「그럼 나랑 아폴로, 리오랑 베아트가 팀인 걸로」"
+
+[[dialogue]]
+speaker = "ベアトリス"
+original = "「ビーチバレーなんて楽しみ♪\u3000頑張ろうね、梨緒ちゃん」"
+translation = "「비치발리볼이라니 기대돼♪ 힘내자, 리오 짱」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「やるからには必ず勝つ。手は抜かないからな、２人とも！」"
+translation = "「하는 이상 반드시 이기겠느니라. 봐주지 않을 테니까, 둘 다!」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「それはこっちの台詞だぜ！\u3000本気でかかってこいっ！」"
+translation = "「그건 이쪽 대사라고! 진심으로 덤벼!」"
+
+[[dialogue]]
+speaker = "ナターシャ"
+original = "「負けた方は何か罰ゲームでもする？\u3000そっちの方が盛り上がるよね♪」"
+translation = "「진 쪽은 뭔가 벌칙 게임이라도 할까? 그게 더 분위기 살잖아♪」"
+
+[[dialogue]]
+speaker = "ベアトリス"
+original = "「うっ、罰ゲームって聞くとプレッシャーが……。ドジを踏まないようにしないと」"
+translation = "「으윽, 벌칙 게임이라고 들으니까 프레셔가……. 실수하지 않도록 해야지」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「大丈夫だ、ベアト。もし失敗しても私がフォローする」"
+translation = "「괜찮으니라, 베아트. 혹시 실패하더라도 내가 보조하겠느니라」"
+
+[[dialogue]]
+speaker = "ベアトリス"
+original = "「梨緒ちゃん……うんっ、張り切っていこっ」"
+translation = "「리오 짱…… 응, 기운 내서 가자」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「もちろんだ。私と同じチームになったからには、ベアトに黒星は付けさせない！」"
+translation = "「물론이니라. 나와 같은 팀이 된 이상, 베아트에게 패배를 안겨주지는 않겠느니라!」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「そこだっ──！！」"
+translation = "「거기다──!!」"
+
+[[dialogue]]
+speaker = "ナターシャ"
+original = "「おっとっ。中々鋭いアタックだね」"
+translation = "「오호. 꽤 날카로운 어택이네」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「ナイスレシーブだぜ、ナターシャっ！\u3000次はあたしが──」"
+translation = "「나이스 리시브야, 나타샤! 다음은 내가──」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「あっ、やべっ……！！」"
+translation = "「앗, 위험해……!!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "アポロがスパイクを決めようとするが、わずかに手が届かずそのままボールが自陣に落ちる。"
+translation = "아폴로가 스파이크를 결정지으려 하지만, 간발의 차로 손이 닿지 않아 그대로 공이 자기 진영에 떨어진다."
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「くっそーっ！\u3000またギリギリ届かなかったーっ……！！」"
+translation = "「젠장─! 또 아슬아슬하게 안 닿았어─……!!」"
+
+[[dialogue]]
+speaker = "ナターシャ"
+original = "「ドンマイドンマイ。気にしないで」"
+translation = "「돈마이 돈마이. 신경 쓰지 마」"
+
+[[dialogue]]
+speaker = "ベアトリス"
+original = "「梨緒ちゃん、今のスパイクよかったよ！」"
+translation = "「리오 짱, 방금 스파이크 좋았어!」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「ありがとう、ベアト。以前ジグとバレー勝負をした経験が役に立ったな」"
+translation = "「고맙구나, 베아트. 이전에 지그와 발리볼 승부를 했던 경험이 도움이 되었느니라」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「……ふふふ。私たちが大量リードか。数字で相手を上回っているのは気分がいいな」"
+translation = "「……후후후. 우리가 대량 리드인가. 숫자로 상대를 앞서는 것은 기분이 좋구나」"
+
+[[dialogue]]
+speaker = "ベアトリス"
+original = "「意外と勝っちゃってるね。罰ゲームは避けられそうかも」"
+translation = "「의외로 이기고 있네. 벌칙 게임은 피할 수 있을지도」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「くっ、悪いナターシャ。あたし、足を引っ張っちまってる……！\u3000あたしの手がもうちょい長けりゃ届くのに……！」"
+translation = "「큭, 미안 나타샤. 내가 발목을 잡고 있어……! 내 팔이 조금만 더 길었으면 닿았을 텐데……!」"
+
+[[dialogue]]
+speaker = "ナターシャ"
+original = "「アポロは小柄だからね。仕方ないよ」"
+translation = "「아폴로는 아담하니까. 어쩔 수 없지」"
+
+[[dialogue]]
+speaker = "ナターシャ"
+original = "「それより梨緒のコントロールの良さが予想外だったかな。的確にラインギリギリを攻めてくる」"
+translation = "「그보다 리오의 컨트롤이 예상외로 좋네. 정확하게 라인 끝을 노려와」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「このまま一気に決めさせてもらうぞ、２人とも！\u3000罰ゲームを受ける覚悟をしておくんだな！」"
+translation = "「이대로 단숨에 끝내주겠느니라, 둘 다! 벌칙 게임을 받을 각오를 해두거라!」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「むむっ、梨緒のヤツ、顔が半分にやけてるぞ！\u3000もう勝ったつもりだ！」"
+translation = "「무무, 리오 녀석, 얼굴이 반쯤 풀려 있어! 벌써 이겼다고 생각하고 있어!」"
+
+[[dialogue]]
+speaker = "ナターシャ"
+original = "「まぁまぁアポロはそのまま伸び伸びプレイしてたらいいよ」"
+translation = "「자자, 아폴로는 그대로 마음껏 플레이하면 돼」"
+
+[[dialogue]]
+speaker = "ナターシャ"
+original = "「私もそろそろ本気を出すからね」"
+translation = "「나도 슬슬 본 실력을 낼 테니까」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「ふふ、強がっても無駄だ。私たちの勝利は揺るがないっ！」"
+translation = "「후후, 강한 척해봐야 소용없느니라. 우리의 승리는 흔들리지 않느니라!」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「あっ！\u3000まためんどくさい位置に飛んできたっ……！」"
+translation = "「앗! 또 귀찮은 위치로 날아왔어……!!」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「矢だろうとボールだろうと、正確に狙った場所を射抜いてみせるっ……！！」"
+translation = "「화살이든 공이든, 정확히 노린 장소를 꿰뚫어 보이겠느니라……!!」"
+
+[[dialogue]]
+speaker = "ベアトリス"
+original = "「うわ、すごいっ。またラインギリギリに……！」"
+translation = "「우와, 대단해. 또 라인 끝에……!」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「チクショーっ！！\u3000間に合わねえっ！！」"
+translation = "「빌어먹을!! 늦겠어!!」"
+
+[[dialogue]]
+speaker = "ナターシャ"
+original = "「はい──ドンピシャ真正面にどーも」"
+translation = "「자── 딱 맞춰서 정면에 고마워」"
+
+[[dialogue]]
+speaker = "ベアトリス"
+original = "「えっ！？\u3000急にナターシャちゃんが現れて！？」"
+translation = "「엣!? 갑자기 나타샤 짱이 나타나서!?」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「バカなっ。そこには誰もいなかったはず！？」"
+translation = "「바보 같은. 거기엔 아무도 없었을 터!?」"
+
+[[dialogue]]
+speaker = "ナターシャ"
+original = "「ずっといたよ。限りなく気配を消していただけ」"
+translation = "「계속 있었어. 한없이 기척을 지우고 있었을 뿐」"
+
+[[dialogue]]
+speaker = "ナターシャ"
+original = "「それよりほら。チャンスだよ、アポロ。思いっきりぶち込んでやって」"
+translation = "「그것보다 봐. 찬스야, 아폴로. 마음껏 꽂아버려」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「ナターシャ……！\u3000おうっ！！」"
+translation = "「나타샤……! 오우!!」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「うわっ！？」"
+translation = "「우와!?」"
+
+[[dialogue]]
+speaker = "ナターシャ"
+original = "「いえーい、こっちの得点だね。さっすがアポロ、強烈だ♪」"
+translation = "「예이, 우리 득점이네. 역시 아폴로, 강력해♪」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「すごいなナターシャ、さっきのが取れると思わなかったぞ！」"
+translation = "「대단해 나타샤, 방금 걸 받아낼 줄은 몰랐어!」"
+
+[[dialogue]]
+speaker = "ナターシャ"
+original = "「暗殺者として鍛えてるからね。これくらい朝飯前」"
+translation = "「암살자로서 단련하고 있으니까. 이 정도는 식은 죽 먹기」"
+
+[[dialogue]]
+speaker = "ナターシャ"
+original = "「てなわけで安心して、アポロ。どこにボールが飛んで来ても私が拾ってあげるから」"
+translation = "「그러니까 안심해, 아폴로. 어디로 공이 날아와도 내가 주워줄 테니까」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「あたしは相手のコートにぶち込んでやりゃいいんだなっ。わかったぜ、ナターシャ！」"
+translation = "「나는 상대 코트에 꽂아버리기만 하면 된다는 거구나. 알았어, 나타샤!」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「今度はこっちの番だ。サービスエースを見せてやる！」"
+translation = "「이번엔 우리 차례야. 서비스 에이스를 보여주겠어!」"
+
+[[dialogue]]
+speaker = "ベアトリス"
+original = "「わわわっ。一体どこに打ち返したら……！」"
+translation = "「와와왓. 대체 어디로 받아쳐야……!」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「くっ……どこに打っても、ナターシャの射程範囲内か……！」"
+translation = "「큭…… 어디로 쳐도 나타샤의 사정거리 안인가……!」"
+
+[[dialogue]]
+speaker = "ナターシャ"
+original = "「さてさて～、罰ゲームは何がいいかな～？\u3000アポロも考えておきなよ～？」"
+translation = "「자자~, 벌칙 게임은 뭐가 좋을까~? 아폴로도 생각해 두라고~?」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「くっ、意趣返しのつもりかっ……！」"
+translation = "「큭, 앙갚음할 생각인가……!」"
+
+[[dialogue]]
+speaker = "ベアトリス"
+original = "「落ち着こう、梨緒ちゃん……！\u3000私たちもチームワークでは負けてないはずだよっ！」"
+translation = "「진정하자, 리오짱……! 우리도 팀워크에서는 지지 않았을 거야!」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「ああっ、勝つのは私たちだっ……！\u3000このまま負けてたまるかっ！」"
+translation = "「아앗, 이기는 건 우리다……! 이대로 질 순 없느니라!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "そうして一進一退の攻防を繰り広げ──"
+translation = "그렇게 일진일퇴의 공방을 펼치고──"
+
+[[dialogue]]
+speaker = "ナターシャ"
+original = "「２４対２４。デュースなしだから、お互いマッチポイントってことでいいよね？」"
+translation = "「24 대 24. 듀스 없으니까, 서로 매치 포인트인 걸로 하면 되지?」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「はぁはぁ……ああ、そうだ。決着を付けよう」"
+translation = "「하아, 하아…… 그래. 결판을 내자」"
+
+[[dialogue]]
+speaker = "ナターシャ"
+original = "「よくここまで粘ったと褒めてあげるよ」"
+translation = "「여기까지 잘 버텼다고 칭찬해 줄게」"
+
+[[dialogue]]
+speaker = "ナターシャ"
+original = "「それっ──！！」"
+translation = "「이얏──!!」"
+
+[[dialogue]]
+speaker = "ベアトリス"
+original = "「お願いっ、梨緒ちゃんっ」"
+translation = "「부탁해, 리오짱!」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「任せろ、ベアトっ！」"
+translation = "「맡겨라, 베아트!」"
+
+[[dialogue]]
+speaker = "ナターシャ"
+original = "「体勢を整える前に速攻か。返り討ちにしてあげる」"
+translation = "「태세를 가다듬기 전에 속공인가. 역전시켜 줄게」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "（油断したな、ナターシャ。君は活躍しすぎたっ）"
+translation = "（방심했구나, 나타샤. 너는 너무 활약했어）"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "（今はもう君の動きが見えるぞ。がら空きの場所がよくわかる──！）"
+translation = "（이제는 네 움직임이 보인다. 텅 빈 곳이 아주 잘 보여──!）"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「そこだっ！」"
+translation = "「거기다!」"
+
+[[dialogue]]
+speaker = "ナターシャ"
+original = "「しまったっ！」"
+translation = "「아차!」"
+
+[[dialogue]]
+speaker = "ナターシャ"
+original = "「なーんて」"
+translation = "「……라나 뭐라나」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「あははっ、なんだっ？\u3000あたしにパスでもしてくれたのかっ？」"
+translation = "「아하하, 뭐야? 나한테 패스라도 해준 거냐?」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「なっ！？\u3000どうしてアポロがそこに！？」"
+translation = "「나앗!? 어째서 아폴로가 거기에!?」"
+
+[[dialogue]]
+speaker = "ナターシャ"
+original = "「ふふ、私の気配に気を取られて、今度はアポロの存在を忘れてたでしょ。気配隠しの応用だよ」"
+translation = "「후후, 내 기척에 정신이 팔려서 이번엔 아폴로의 존재를 잊었나 보네. 기척 숨기기의 응용이야」"
+
+[[dialogue]]
+speaker = "ナターシャ"
+original = "「決めるよ、アポロ。必殺の一撃、お見舞いしちゃってっ」"
+translation = "「결정해, 아폴로. 필살의 일격, 선사해 버려!」"
+
+[[dialogue]]
+speaker = "ベアトリス"
+original = "「ふぇっ、あんな空高くトスをっ」"
+translation = "「후에, 저렇게 하늘 높이 토스를!」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「ブロックさせないつもりか？\u3000だが、いくらなんでも届かないぞっ」"
+translation = "「블로킹을 못 하게 할 셈인가? 하지만 아무리 그래도 닿지 않느니라!」"
+
+[[dialogue]]
+speaker = "ナターシャ"
+original = "「乗って、アポロっ」"
+translation = "「올라타, 아폴로!」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「ん？\u3000ははっ、そーゆーことかっ！」"
+translation = "「응? 하하, 그런 거였나!」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「ナターシャの拳にアポロが乗って！？」"
+translation = "「나타샤의 주먹 위에 아폴로가 올라타서!?」"
+
+[[dialogue]]
+speaker = "ベアトリス"
+original = "「そのまま空にレシーブしちゃったっ！？」"
+translation = "「그대로 하늘로 리시브해 버렸어!?」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「いっくぜーーっ！！\u3000流星ライダースパーイクっ！！」"
+translation = "「가자아아아!! 유성 라이더 스파이크!!」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「勝ったっ！\u3000勝ったぞ、ナターシャ！！\u3000オマエのおかげだ！！」"
+translation = "「이겼다! 이겼어, 나타샤!! 네 덕분이다!!」"
+
+[[dialogue]]
+speaker = "ナターシャ"
+original = "「アポロのポテンシャルあっての勝利だよ。どっちが勝ってもおかしくなかったしね」"
+translation = "「아폴로의 잠재력 덕분에 이긴 거야. 어느 쪽이 이겨도 이상하지 않았으니까」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「いや、実際ナターシャはすごかったよ。水着フォームになって、一段と身体能力が上がってるんじゃないか？」"
+translation = "「아니, 실제로 나타샤는 대단했어. 수영복 폼이 되어서 한층 신체 능력이 올라간 것 아니냐?」"
+
+[[dialogue]]
+speaker = "ベアトリス"
+original = "「どこからともなく現れて、ブロックされたり、アタックされたり、ビックリしたよ～」"
+translation = "「어디선가 갑자기 나타나서 블로킹하고 공격하니까 깜짝 놀랐어요~」"
+
+[[dialogue]]
+speaker = "ナターシャ"
+original = "「なになに、みんなして褒めてくれて。そんなに褒めても罰ゲームはなくならないよ～？」"
+translation = "「뭐야 뭐야, 다들 칭찬해 주고. 그렇게 칭찬해도 벌칙 게임은 없어지지 않아~?」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「うっ、見抜かれていたか……」"
+translation = "「윽, 꿰뚫어 보고 있었나……」"
+
+[[dialogue]]
+speaker = "ベアトリス"
+original = "「お手柔らかに。お手柔らかに、ねっ？」"
+translation = "「살살해 주세요. 살살, 알았죠?」"
+
+[[dialogue]]
+speaker = "ナターシャ"
+original = "「ふっふー、どうしようかな～。アポロはどんな罰ゲームがいいと思う？」"
+translation = "「훗후~, 어떻게 할까나~. 아폴로는 어떤 벌칙 게임이 좋을 것 같아?」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「その前にＭＶＰへのご褒美だっ。ナターシャにいいものをやるぞ！」"
+translation = "「그전에 MVP를 위한 포상이다! 나타샤에게 좋은 걸 주지!」"
+
+[[dialogue]]
+speaker = "ナターシャ"
+original = "「いいもの？」"
+translation = "「좋은 거?」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「ほら、あっちでカブトムシを見つけたんだ！\u3000にしし、格好いいだろっ♪」"
+translation = "「봐라, 저기서 장수풍뎅이를 찾았어! 니시시, 멋지지?♪」"
+
+[[dialogue]]
+speaker = "ナターシャ"
+original = "「カブッ──！？\u3000ひゃあああああっ！！？」"
+translation = "「장수풍……!? 히야아아아악!!?」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「ん？\u3000どーした？」"
+translation = "「응? 왜 그래?」"
+
+[[dialogue]]
+speaker = "ナターシャ"
+original = "「むむむ、虫はダメっ！\u3000近づけないでっ！」"
+translation = "「버, 벌레는 안 돼! 가까이 오지 마!」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「あはは、もしかして虫が苦手なのか？\u3000こんなに格好いいのにもったいないぞ！」"
+translation = "「아하하, 설마 벌레를 싫어하는 거냐? 이렇게 멋진데 아깝다구!」"
+
+[[dialogue]]
+speaker = "ナターシャ"
+original = "「ひぃああっ！？\u3000だから近づけないでってばっ！\u3000全然格好よくないから、ギシギシしてて気持ち悪いからっ！」"
+translation = "「히익!? 그러니까 가까이 오지 말라니까! 전혀 안 멋있어, 삐걱거려서 기분 나쁘단 말이야!」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「ふふ、こんなに取り乱すナターシャも珍しいな」"
+translation = "「후후, 이렇게 당황하는 나타샤도 드물군」"
+
+[[dialogue]]
+speaker = "ベアトリス"
+original = "「なんだか可愛い。ナターシャちゃんって、いっつもクールだから」"
+translation = "「왠지 귀여워요. 나타샤 짱은 언제나 쿨하니까」"
+
+[[dialogue]]
+speaker = "ナターシャ"
+original = "「笑ってないで２人とも助けてっ！\u3000ふおおおっ、腕に乗せないで、アポロっ！？」"
+translation = "「웃지만 말고 둘 다 도와줘! 후오오오, 팔에 올리지 마, 아폴로!?」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「触れ合ってりゃ好きになってくって♪\u3000そーだ、あとで一緒に虫取りにいこーぜっ、相棒っ！」"
+translation = "「자주 접하다 보면 좋아질 거라니까♪ 맞다, 나중에 같이 벌레 잡으러 가자구, 파트너!」"
+
+[[dialogue]]
+speaker = "ナターシャ"
+original = "「絶対っ、行かないからぁ～～～っ！！」"
+translation = "「절대, 안 갈 거야아아아~~!!」"
+

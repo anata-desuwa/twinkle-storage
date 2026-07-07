@@ -1,0 +1,515 @@
+[[dialogue]]
+speaker = "unk"
+original = "新種のモンスターから逃げて、アステラ中心部を離れるように逃走し続けるトワとメイプル。"
+translation = "신종 몬스터로부터 도망쳐 아스텔라 중심부를 벗어나기 위해 계속 도주하는 토와와 메이플."
+
+[[dialogue]]
+speaker = "unk"
+original = "しかし――"
+translation = "그러나──"
+
+[[dialogue]]
+speaker = "メイプル"
+original = "「くっ……ダメ！\u3000逃げ切れない！\u3000このモンスター、速すぎる！」"
+translation = "「큭…… 안 돼! 따돌릴 수 없어! 이 몬스터 너무 빨라!」"
+
+[[dialogue]]
+speaker = "モンスター"
+original = "「グオォォォッ！」"
+translation = "「구오오오옷!」"
+
+[[dialogue]]
+speaker = "メイプル"
+original = "「きゃあぁっ！？」"
+translation = "「꺄앗!?」"
+
+[[dialogue]]
+speaker = "トワ先生"
+original = "「メイプルちゃん！」"
+translation = "「메이플짱!」"
+
+[[dialogue]]
+speaker = "メイプル"
+original = "「うっ……！\u3000今の攻撃で足が……！」"
+translation = "「윽……! 방금 공격으로 다리가……!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "片足にダメ―ジを受けて、メイプルはすぐに立ち上がることができない。"
+translation = "한쪽 다리에 대미지를 입어 메이플은 즉시 일어날 수 없었다."
+
+[[dialogue]]
+speaker = "トワ先生"
+original = "（この傷は回復しなくちゃダメだ。でも、この速い相手に、回復の星術を使ってる暇はない……！）"
+translation = "（이 상처는 회복하지 않으면 안 돼. 하지만 이렇게 빠른 상대를 두고 회복 성술을 쓸 틈이 없어……!）"
+
+[[dialogue]]
+speaker = "メイプル"
+original = "「トワちゃん、あたしのことはいいから逃げて……！」"
+translation = "「토와짱, 나는 괜찮으니까 도망쳐……!」"
+
+[[dialogue]]
+speaker = "トワ先生"
+original = "「……それはできない。私は先生だから」"
+translation = "「……그럴 순 없어. 나는 선생님이니까」"
+
+[[dialogue]]
+speaker = "メイプル"
+original = "「でも、あたしはまだ学園に通ってない……！」"
+translation = "「하지만 나는 아직 학원에 다니지 않는데……!」"
+
+[[dialogue]]
+speaker = "トワ先生"
+original = "「これから通うんでしょ。それに、生徒だから守るんじゃないよ」"
+translation = "「이제부터 다닐 거잖아. 그리고 학생이라서 지키는 게 아냐」"
+
+[[dialogue]]
+speaker = "トワ先生"
+original = "「私が先生として、そうなりたいから守るの」"
+translation = "「내가 선생님으로서 그렇게 하고 싶으니까 지키는 거야」"
+
+[[dialogue]]
+speaker = "メイプル"
+original = "「トワちゃん……先生……」"
+translation = "「토와짱…… 선생님……」"
+
+[[dialogue]]
+speaker = "トワ先生"
+original = "「だから見てて。先生の戦うところ」"
+translation = "「그러니 보고 있으렴. 선생님이 싸우는 모습을」"
+
+[[dialogue]]
+speaker = "unk"
+original = "トワはメイプルの頭を優しく撫でて、立ち上がる。"
+translation = "토와는 메이플의 머리를 상냥하게 쓰다듬고 일어선다."
+
+[[dialogue]]
+speaker = "unk"
+original = "そして、楽しむかのように空中から見下ろしているモンスターと、改めて向き直った。"
+translation = "그리고 즐기기라도 하는 듯 공중에서 내려다보고 있는 몬스터와 다시 마주 보았다."
+
+[[dialogue]]
+speaker = "トワ先生"
+original = "（マリオン、使うよ。あの技を）"
+translation = "（마리온, 사용할게. 그 기술을）"
+
+[[dialogue]]
+speaker = "unk"
+original = "トワは１度、深呼吸をして……その技を口にする。"
+translation = "토와는 한 번 심호흡을 하고…… 그 기술의 이름을 입에 담는다."
+
+[[dialogue]]
+speaker = "トワ先生"
+original = "「ライズ・オーバーブースト」"
+translation = "「라이즈 오버부스트」"
+
+[[dialogue]]
+speaker = "メイプル"
+original = "「え……！？」"
+translation = "「에……!?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "次の瞬間、メイプルの目の前に立っていたトワの姿が消えていた。"
+translation = "다음 순간, 메이플의 눈앞에 서 있던 토와의 모습이 사라졌다."
+
+[[dialogue]]
+speaker = "メイプル"
+original = "（いや違う！\u3000一瞬でモンスターの背後に！？）"
+translation = "（아니 아냐! 순식간에 몬스터의 배후로!?）"
+
+[[dialogue]]
+speaker = "トワ先生"
+original = "「はあああぁぁぁーーーッ！」"
+translation = "「하아아아아──앗!」"
+
+[[dialogue]]
+speaker = "モンスター"
+original = "「グオオォォォッ！？」"
+translation = "「구오오오옷!?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "トワはモンスターの背中に拳を叩き込み、その体を地面に叩きつける。"
+translation = "토와는 몬스터의 등 뒤에 주먹을 내리꽂아 그 몸을 지면에 메친다."
+
+[[dialogue]]
+speaker = "トワ先生"
+original = "「とりゃああぁぁぁーーーッ！」"
+translation = "「토랴아아아아──앗!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "そのまま隙を与えず、地面に瞬間移動してモンスターを掴むと、宙に背負い投げる。"
+translation = "그대로 틈을 주지 않고 지면으로 순간 이동해 몬스터를 붙잡고는 공중으로 업어친다."
+
+[[dialogue]]
+speaker = "unk"
+original = "そこから四方八方に瞬間移動し、ピンボールのように滅多打ちにし――"
+translation = "거기서 사방팔방으로 순간 이동하며 핀볼처럼 난타하고──"
+
+[[dialogue]]
+speaker = "トワ先生"
+original = "「星力反転……！」"
+translation = "「성력 반전……!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "トワの手の平に、暁色に輝く星力を収束させた球体が形成される。"
+translation = "토와의 손바닥에 새벽빛으로 빛나는 성력을 수습시킨 구체가 형성된다."
+
+[[dialogue]]
+speaker = "unk"
+original = "それをモンスターの腹部に押し付けるように、撃ち放った。"
+translation = "그것을 몬스터의 복부에 밀어 넣듯 발사했다."
+
+[[dialogue]]
+speaker = "トワ先生"
+original = "「ライジングマーキュリー！」"
+translation = "「라이징 머큐리!」"
+
+[[dialogue]]
+speaker = "モンスター"
+original = "「ウオオオォォォーーーーーーッ！！？」"
+translation = "「우오오오오──────옷!!?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "凄まじい閃光と共に、モンスターが遠くまで吹き飛ばされ、アステラ内のオブジェクトに激突。"
+translation = "어마어마한 섬광과 함께 몬스터가 멀리 날아가 아스텔라 내의 오브젝트에 격돌."
+
+[[dialogue]]
+speaker = "unk"
+original = "衝撃で崩壊したオブジェクトの瓦礫に押しつぶされて、沈黙した。"
+translation = "충격으로 붕괴한 오브젝트의 잔해에 깔려 침묵했다."
+
+[[dialogue]]
+speaker = "メイプル"
+original = "「すごい……！\u3000あのモンスターを倒しちゃうなんて……！」"
+translation = "「대단해……! 저 몬스터를 쓰러뜨리다니……!」"
+
+[[dialogue]]
+speaker = "トワ先生"
+original = "「はぁ……はぁ……！」"
+translation = "「하아…… 하아……!」"
+
+[[dialogue]]
+speaker = "メイプル"
+original = "「先生、すごいよ！\u3000まさかこんな力を隠してるなんて……！」"
+translation = "「선생님, 대단해! 설마 이런 힘을 숨기고 있었다니……!」"
+
+[[dialogue]]
+speaker = "トワ先生"
+original = "「っ……！」"
+translation = "「윽……!」"
+
+[[dialogue]]
+speaker = "メイプル"
+original = "「先生！？」"
+translation = "「선생님!?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "トワは苦しそうな表情を浮かべ、地面に崩れ落ちてしまう。"
+translation = "토와는 괴로운 표정을 지으며 지면에 주저앉고 만다."
+
+[[dialogue]]
+speaker = "メイプル"
+original = "「どうしたの先生！？\u3000大丈夫！？\u3000……えっ！？」"
+translation = "「왜 그래요 선생님!? 괜찮아요!? ……엣!?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "慌ててトワの体を支えるメイプルだったが、触れた手の平に違和感を感じて、見やると――"
+translation = "서둘러 토와의 몸을 지탱하던 메이플이었지만, 닿은 손바닥에 위화감을 느껴 바라보자──"
+
+[[dialogue]]
+speaker = "メイプル"
+original = "「血……！？\u3000トワちゃん、体から血が出てる！？\u3000どうして！？」"
+translation = "「피……!? 토와짱, 몸에서 피가 나고 있어!? 어째서!?」"
+
+[[dialogue]]
+speaker = "メイプル"
+original = "「すごい速さで動き回って、敵の攻撃は受けてなかったはず。なのに……！」"
+translation = "「엄청난 속도로 움직여서 적의 공격은 받지 않았을 텐데. 그런데도……!」"
+
+[[dialogue]]
+speaker = "トワ先生"
+original = "「っ……これはそういう、リスクのある技だから……」"
+translation = "「윽…… 이건 그런 리스크가 있는 기술이라서……」"
+
+[[dialogue]]
+speaker = "メイプル"
+original = "「リスク……！？」"
+translation = "「리스크……!?」"
+
+[[dialogue]]
+speaker = "トワ先生"
+original = "「ライズ・オーバーブーストは……私の自動回復の出力を極限まで引き上げる。そうすることで、体の限界を無視して星力を引き出す技なの」"
+translation = "「라이즈 오버부스트는…… 내 자동 회복의 출력을 극한까지 끌어올려. 그렇게 함으로써 몸의 한계를 무시하고 성력을 이끌어내는 기술이야」"
+
+[[dialogue]]
+speaker = "トワ先生"
+original = "「簡単に言うと、ドーピングみたいな感じ。だから……こうして反動がある……」"
+translation = "「쉽게 말하면 도핑 같은 느낌. 그래서…… 이렇게 반동이 있는 거야……」"
+
+[[dialogue]]
+speaker = "トワ先生"
+original = "「ちょっとでも星力制御を誤ると、回復のし過ぎで体の細胞が壊れちゃうの……」"
+translation = "「조금이라도 성력 제어를 실수하면 회복이 지나쳐서 몸의 세포가 파괴되어 버려……」"
+
+[[dialogue]]
+speaker = "トワ先生"
+original = "（学園を卒業してから１０年以上も星力制御を磨き続けて……それでやっと１分……）"
+translation = "（학원을 졸업하고 10년 넘게 성력 제어를 계속 연마해 와서…… 이제야 겨우 1분……）"
+
+[[dialogue]]
+speaker = "unk"
+original = "それはかつて、トワが学生時代、最強の星徒会長であるマリオンに追いつき、隣に立って戦いたいが為に編み出した技だった。"
+translation = "그것은 과거 토와가 학생 시절 최강의 성도회장인 마리온을 따라잡아 곁에 서서 싸우고 싶었기에 고안해낸 기술이었다."
+
+[[dialogue]]
+speaker = "unk"
+original = "しかし――"
+translation = "그러나──"
+
+[[dialogue]]
+speaker = "マリオン"
+original = "「――トワ、私の勝ちです。約束通り、星徒会長の権限を以て、その技の使用を禁じます」"
+translation = "「──토와, 나의 승리입니다. 약속대로 성도회장의 권한으로 그 기술의 사용을 금지합니다」"
+
+[[dialogue]]
+speaker = "トワ先生"
+original = "「くっ……！\u3000あとちょっと……だったのに……！\u3000あと数秒……制御が上手く行っていれば……！」"
+translation = "「큭……! 조금만 더……였는데……! 몇 초만 더…… 제어가 잘 되었더라면……!」"
+
+[[dialogue]]
+speaker = "マリオン"
+original = "「……ええ。強かった。わずか１分にも満たない間に、私の分身が全滅させられる程に……」"
+translation = "「……네. 강했습니다. 불과 1분도 채 되지 않는 사이에 나의 분신이 전멸당할 정도로……」"
+
+[[dialogue]]
+speaker = "マリオン"
+original = "「ですが……ダメです。使う度にそんな血まみれの自傷を繰り返す技は、星徒会長として……いえ、友人として看過できない」"
+translation = "「하지만…… 안 됩니다. 쓸 때마다 그렇게 피투성이가 되는 자상 기술을 반복하는 건 성도회장으로서…… 아니, 친구로서 묵과할 수 없어요」"
+
+[[dialogue]]
+speaker = "トワ先生"
+original = "「でも……！\u3000やっとマリオンと……みんなと一緒に戦えるようになる方法を見つけたのに……！」"
+translation = "「하지만……! 드디어 마리온과…… 모두와 함께 싸울 수 있게 되는 방법을 찾았는데……!」"
+
+[[dialogue]]
+speaker = "マリオン"
+original = "「……トワは自身だけでなく、他者にも長時間の持続性を持つ『自動回復』をかけることができる。それだけでも十分すぎる能力です」"
+translation = "「……토와는 자신뿐만 아니라 타인에게도 장시간의 지속성을 가진 『자동 회복』을 걸어줄 수 있어요. 그것만으로도 충분히 넘치는 능력입니다」"
+
+[[dialogue]]
+speaker = "トワ先生"
+original = "「それでも、私は……！」"
+translation = "「그래도 나는……!」"
+
+[[dialogue]]
+speaker = "マリオン"
+original = "「トワ！」"
+translation = "「토와!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "今までにないほど真剣なマリオンの声にトワが頭を上げると、そこには――"
+translation = "지금까지 없었을 정도로 진지한 마리온의 목소리에 토와가 고개를 들자 그곳에는──"
+
+[[dialogue]]
+speaker = "マリオン"
+original = "「お願いだから、その技はもう使わないで……！」"
+translation = "「부탁이니까 그 기술은 이제 쓰지 마세요……!」"
+
+[[dialogue]]
+speaker = "メイプル"
+original = "「ごめん、なさい……先生……！」"
+translation = "「죄송, 해요…… 선생님……!」"
+
+[[dialogue]]
+speaker = "トワ先生"
+original = "「メイプル、ちゃん……？」"
+translation = "「메이플, 짱……?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "トワが頭を上げるとそこには、涙をこぼすメイプルの泣き顔があった。"
+translation = "토와가 고개를 들자 그곳에는 눈물을 쏟는 메이플의 우는 얼굴이 있었다."
+
+[[dialogue]]
+speaker = "メイプル"
+original = "「私が先生の言うことを聞いて、１人でモンスターと戦おうとなんかしていなければ、こんなことにならずに済んだのに……！」"
+translation = "「내가 선생님 말을 듣고 혼자서 몬스터와 싸우려고만 하지 않았어도 이런 일은 겪지 않아도 됐을 텐데……!」"
+
+[[dialogue]]
+speaker = "トワ先生"
+original = "「今回のは……メイプルちゃんのせいじゃないよ。仮にメイプルちゃんがいなくても、先生は現場に駆け付けて、アステラの発生に巻き込まれてたと思うし……」"
+translation = "「이번 일은…… 메이플짱 탓이 아니야. 설령 메이플짱이 없었더라도 선생님은 현장으로 달려가서 아스텔라 발생에 휘말렸을 테고……」"
+
+[[dialogue]]
+speaker = "メイプル"
+original = "「でも、あたしがいなければ、先生は技を使わずに済んだかもしれない！」"
+translation = "「하지만 내가 없었다면 선생님은 기술을 쓰지 않아도 됐을지 몰라!」"
+
+[[dialogue]]
+speaker = "メイプル"
+original = "「……本当は、わかってたの。自分のワガママだって……！」"
+translation = "「……사실은 알고 있었어. 내 억지였다는 걸……!」"
+
+[[dialogue]]
+speaker = "メイプル"
+original = "「あたしが世界を救う魔王になるって言った時、煌嶺には笑われて、パパとママには無理だと言われた」"
+translation = "「내가 세계를 구하는 마왕이 되겠다고 했을 때 코우레이에겐 비웃음을 사고 아빠와 엄마에겐 무리라는 말을 들었어」"
+
+[[dialogue]]
+speaker = "メイプル"
+original = "「悔しかった。あたしの憧れる魔王という存在まで馬鹿にされたみたいで……！\u3000何もせずに諦めることが、どうしてもできなかった……！」"
+translation = "「분했어. 내가 동경하는 마왕이라는 존재까지 바보 취급당한 것 같아서……! 아무것도 하지 않고 포기하는 게 도저히 안 됐어……!」"
+
+[[dialogue]]
+speaker = "メイプル"
+original = "「血を引いているから魔王になれるんじゃない。世界を救う英雄が魔王と呼ばれるんだって、証明したかった……！」"
+translation = "「피를 이어받았기에 마왕이 되는 게 아냐. 세계를 구하는 영웅이 마왕이라 불리는 거라는 걸 증명하고 싶었어……!」"
+
+[[dialogue]]
+speaker = "メイプル"
+original = "「トワ先生……ワガママで困らせて、ごめんなさい……！」"
+translation = "「토와 선생님…… 고집 피워서 곤란하게 해 드려 죄송해요……!」"
+
+[[dialogue]]
+speaker = "トワ先生"
+original = "「……わかるよ。私もずっと……今も、諦めきれないでいるから……」"
+translation = "「……알아. 나도 계속…… 지금도 포기하지 못하고 있으니까……」"
+
+[[dialogue]]
+speaker = "メイプル"
+original = "「え……？」"
+translation = "「에……?」"
+
+[[dialogue]]
+speaker = "トワ先生"
+original = "「私の星騎士としての適性は、回復星術……でも、周りの子たちが強い星騎士ばかりで、自分も一緒に戦えるようになりたいって……下らない憧れを抱いちゃったの……」"
+translation = "「내 성기사로서의 적성은 회복 성술…… 하지만 주변 아이들이 강한 성기사뿐이라 나도 함께 싸울 수 있게 되고 싶다고…… 하찮은 동경을 품어버렸어……」"
+
+[[dialogue]]
+speaker = "トワ先生"
+original = "「それを諦めきれずに、考え出したのがさっきのライズ・オーバーブースト……自傷を免れない危険な星術だった……」"
+translation = "「그걸 포기하지 못해서 고안해낸 게 아까의 라이즈 오버부스트…… 자상을 피할 수 없는 위험한 성술이었어……」"
+
+[[dialogue]]
+speaker = "トワ先生"
+original = "「親友から使うなって言われてたのに、ワガママを通して使い続けて、使用禁止まで言い渡されたのに……今もまだ諦めきれないでいる……」"
+translation = "「친우로부터 쓰지 말라는 말을 들었는데도 고집을 부려 계속 사용하고 사용 금지 명령까지 받았는데도…… 지금도 아직 포기하지 못하고 있어……」"
+
+[[dialogue]]
+speaker = "トワ先生"
+original = "「『自動回復』の特異体質も同じ……卒業してから星力制御を鍛錬し続けて、本当は自分の意思でオフにできるようになったのに、色々理由を付けて結局できずにいる……」"
+translation = "「『자동 회복』 특이체질도 마찬가지…… 졸업하고 성력 제어를 계속 단련해서 사실은 내 의지로 끌 수 있게 되었는데도 여러 핑계를 대며 결국 못 하고 있어……」"
+
+[[dialogue]]
+speaker = "トワ先生"
+original = "「私はまだ、星騎士でいたいんだよ。しかも、できればまだ強くなりたいとまで思い続けてる……」"
+translation = "「나는 아직 성기사로 남고 싶어. 게다가 할 수 있다면 아직 더 강해지고 싶다고까지 계속 생각하고 있어……」"
+
+[[dialogue]]
+speaker = "トワ先生"
+original = "「つまりは……先生もまだ、大人になりきれていないんだ……」"
+translation = "「결국은…… 선생님도 아직 어른이 다 되지 못한 거야……」"
+
+[[dialogue]]
+speaker = "トワ先生"
+original = "「諦めきれないんだよ。みんなと一緒にリクリエと戦うことを……」"
+translation = "「포기할 수 없는 거야. 모두와 함께 리크리에와 싸우는 걸……」"
+
+[[dialogue]]
+speaker = "トワ先生"
+original = "「だから……メイプルちゃんが諦めきれないなら、先生が応援する」"
+translation = "「그러니까…… 메이플짱이 포기할 수 없다면 선생님이 응원할게」"
+
+[[dialogue]]
+speaker = "トワ先生"
+original = "「魔王になる夢を応援するよ」"
+translation = "「마왕이 되는 꿈을 응원할게」"
+
+[[dialogue]]
+speaker = "トワ先生"
+original = "「だから、１人で戦おうとしないで。メイプルちゃんと一緒に戦おうとしてくれる仲間は……ちゃんと周りにいるから」"
+translation = "「그러니 혼자서 싸우려고 하지 마. 메이플짱과 함께 싸우려는 동료는…… 분명 주변에 있으니까」"
+
+[[dialogue]]
+speaker = "unk"
+original = "トワ先生ーーッ！！\u3000メイプルーーッ！！"
+translation = "토와 선생님──!! 메이플──!!"
+
+[[dialogue]]
+speaker = "メイプル"
+original = "「この声、お兄ちゃん……！？」"
+translation = "「이 목소리, 오빠……!?」"
+
+[[dialogue]]
+speaker = "トワ先生"
+original = "「ほら、助けに来てくれた……」"
+translation = "「봐, 도와주러 와 줬잖아……」"
+
+[[dialogue]]
+speaker = "unk"
+original = "よかった！\u3000やっぱり２人共一緒にいた！"
+translation = "다행이다! 역시 두 사람 다 같이 있었구나!"
+
+[[dialogue]]
+speaker = "メイプル"
+original = "「お兄ちゃん！」"
+translation = "「오빠!」"
+
+[[dialogue]]
+speaker = "トワ先生"
+original = "「これで後は……アステラから脱出するだけ……あれ……？」"
+translation = "「이걸로 남은 건…… 아스텔라에서 탈출하는 것뿐…… 어라……?」"
+
+[[dialogue]]
+speaker = "メイプル"
+original = "「先生？\u3000どうしたの……？」"
+translation = "「선생님? 왜 그래요……?」"
+
+[[dialogue]]
+speaker = "トワ先生"
+original = "「ボスモンスターは倒したはずなのに……」"
+translation = "「보스 몬스터는 쓰러뜨렸을 텐데……」"
+
+[[dialogue]]
+speaker = "トワ先生"
+original = "「アステラの崩壊が始まっていない……？」"
+translation = "「아스텔라의 붕괴가 시작되지 않아……?」"
+
+[[dialogue]]
+speaker = "メイプル"
+original = "「え……？」"
+translation = "「에……?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "その時、遠くのオブジェクトの瓦礫が崩れる音がして、その中から――"
+translation = "그때 먼 곳의 오브젝트 잔해가 무너지는 소리가 나며 그 안에서──"
+
+[[dialogue]]
+speaker = "モンスター"
+original = "「…………」"
+translation = "「…………」"
+
+[[dialogue]]
+speaker = "メイプル"
+original = "「う……嘘でしょ……？\u3000まだ生きてるなんて……！」"
+translation = "「거…… 거짓말이지……? 아직 살아있다니……!」"
+
+[[dialogue]]
+speaker = "モンスター"
+original = "「グオオオォォォーーーーーーッ！！！」"
+translation = "「구오오오오──────옷!!!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "新種モンスターは、怒るかのように再び咆哮を上げるのだった――"
+translation = "신종 몬스터는 분노한 듯 다시 한번 포효했다──"
+

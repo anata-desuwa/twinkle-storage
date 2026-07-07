@@ -1,0 +1,260 @@
+[[dialogue]]
+speaker = "unk"
+original = "第１話,トワちゃんの年齢の秘密,P"
+translation = "제1화, 토와짱의 나이의 비밀"
+
+[[dialogue]]
+speaker = "unk"
+original = "ある日のこと。俺はヴィーナスと、プリマステラから提出された戦闘報告書に目を通していた。"
+translation = "어느 날. 나는 비너스와 프리마스텔라에서 제출된 전투 보고서를 훑어보고 있었다."
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「──それでね、アナが言うには最近のモンスター発生場所には、何か法則性がありそうって話らしいのよ」"
+translation = "「──그래서 말이야, 아나가 말하길 최근 몬스터 발생 장소에는 뭔가 법칙성이 있을 것 같다는 이야기인가 봐」"
+
+[[dialogue]]
+speaker = "トワ先生"
+original = "「会長くん、この前頼まれてた会計資料のチェックが終わったから、持って来たよ」"
+translation = "「회장군, 요전에 부탁받았던 회계 자료 체크가 끝나서 가져왔어」"
+
+[[dialogue]]
+speaker = "トワ先生"
+original = "「あと、廊下でフィオナちゃんと会ったから、一緒に連れて来たんだ～」"
+translation = "「그리고 복도에서 피오나짱을 만나서 같이 데려왔단다~」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「こんにちは、緋宮会長、ヴィーナスさん。先日のアステラ掃討の報告書を作成したので、見て頂きたくお持ちしました」"
+translation = "「안녕하세요, 히노미야 회장, 비너스 씨. 요전번의 아스텔라 소탕 보고서를 작성했기에 검토해 주셨으면 해서 가져왔습니다」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「こんにちは、フィオナ。珍しい組み合わせじゃない」"
+translation = "「안녕, 피오나. 드문 조합이네」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「トワちゃんがフィオナを下の名前で呼んでるってことは、ふたりは知り合いだったの？」"
+translation = "「토와짱이 피오나를 이름으로 부른다는 건, 둘이 아는 사이였어?」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「ええ、先生は流星学園星徒会のＯＧなんです。以前、星徒会の仕事で困った時に手伝って頂いたことがありまして」"
+translation = "「네, 선생님은 유성 학원 성도회의 OG이십니다. 이전에 성도회 업무로 곤란했을 때 도움을 받은 적이 있어서요」"
+
+[[dialogue]]
+speaker = "unk"
+original = "先生、星徒会の元メンバーだったんだ……！"
+translation = "선생님, 성도회 전 멤버였구나……!"
+
+[[dialogue]]
+speaker = "トワ先生"
+original = "「えっへん！\u3000そうなのです。流星学園で３年間、会計の役職に就いてたんだよ。こう見えて先生、優秀だったんだから！」"
+translation = "「에헴! 그렇단다. 유성 학원에서 3년간 회계직을 맡았었어. 이래봬도 선생님, 우수했으니까!」"
+
+[[dialogue]]
+speaker = "トワ先生"
+original = "「ところで、会長くんとヴィーナスちゃん、さっきモンスターの発生場所がどうとかって話してなかった？」"
+translation = "「그건 그렇고, 회장군이랑 비너스짱, 아까 몬스터 발생 장소가 어떻다느니 이야기하지 않았어?」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「私も気になっていたので、是非聞かせていただけませんか？」"
+translation = "「저도 궁금했으니 부디 들려주실 수 없을까요?」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「そうね。といっても、そこまで深刻な話じゃないんだけど。実は──」"
+translation = "「그래. 그렇다고 해도 그렇게 심각한 이야기는 아니지만. 실은──」"
+
+[[dialogue]]
+speaker = "unk"
+original = "最初はモンスターについて話していたのだが、途中から話が逸れて女子３人のガールズトークみたいな流れになっていた。"
+translation = "처음에는 몬스터에 대해 이야기하고 있었지만, 도중에 이야기가 새어 여자 세 명의 걸즈 토크 같은 흐름이 되어 있었다."
+
+[[dialogue]]
+speaker = "トワ先生"
+original = "「へぇ～、最近２人は会う機会があったんだ？」"
+translation = "「헤에~ 최근 두 사람은 만날 기회가 있었어?」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「そうなの。フィオナと親戚の結婚式で偶然会って、会場でも一緒に過ごしたのよね～」"
+translation = "「응. 피오나와 친척 결혼식에서 우연히 만나서 식장에서도 같이 보냈거든~」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「ええ、花嫁さんが九浄家の方で、花婿さんが星見家の分家筋の方だったんです。なので私も招待されていて」"
+translation = "「네, 신부님이 쿠죠 가문 분이시고 신랑님이 호시미 가문의 방계 쪽 분이셨어요. 그래서 저도 초대받았거든요」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「花嫁さん、とっても綺麗だったわよね！」"
+translation = "「신부님, 정말 예뻤지!」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「はい、ウェディングドレスも憧れてしまいます……」"
+translation = "「네, 웨딩드레스도 동경하게 돼요……」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「そういえば、トワちゃんは結婚したりしないの？」"
+translation = "「그러고 보니 토와짱은 결혼하거나 하지 않아?」"
+
+[[dialogue]]
+speaker = "トワ先生"
+original = "「何故そこでわたし！？」"
+translation = "「왜 거기서 나야!?」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「だって、トワちゃんくらいの年齢になると、結婚しててもおかしくないでしょ？」"
+translation = "「그치만 토와짱 정도 나이가 되면 결혼했어도 이상하지 않잖아?」"
+
+[[dialogue]]
+speaker = "トワ先生"
+original = "「ヴィーナスちゃんは先生をいくつだと思ってるのかな！？」"
+translation = "「비너스짱은 선생님을 몇 살이라고 생각하는 걸까!?」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「……大人の女性って、２０歳をこえたら結婚するものなんじゃないの？」"
+translation = "「……어른 여성은 20살을 넘기면 결혼하는 거 아니야?」"
+
+[[dialogue]]
+speaker = "トワ先生"
+original = "「純真１００パーセントの眼差し……！」"
+translation = "「순진 100퍼센트의 눈빛……!」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「そ、そうなんですか！？\u3000どうしましょう、もう何年もないのに、私はまだ男の人とお付き合いした経験もありませんが……」"
+translation = "「그, 그런가요!? 어쩌죠, 이제 몇 년 남지도 않았는데 저는 아직 남자분과 사귀어 본 경험도 없는데……」"
+
+[[dialogue]]
+speaker = "トワ先生"
+original = "「そんなのわたしだって全然経験ないけど！\u3000こんな歳なのに……！」"
+translation = "「그런 건 나도 전혀 경험 없지만! 이 나이인데도……!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "（トワ先生って何歳なんだ……？）"
+translation = "（토와 선생님은 몇 살인 거지……?）"
+
+[[dialogue]]
+speaker = "unk"
+original = "（そういえば、誰も突っ込まないけど）"
+translation = "（그러고 보니 아무도 지적하지 않지만）"
+
+[[dialogue]]
+speaker = "トワ先生"
+original = "「──いやもう、結婚の話題はいいから本題に戻ろうよ！」"
+translation = "「──아니 이제 결혼 화제는 됐으니까 본론으로 돌아가자!」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「確かに。すっかり話し込んで、脱線しちゃってたわ」"
+translation = "「하긴. 푹 빠져서 이야기가 샜네」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「そういえば、元はモンスターの発生場所についてのお話だったでしょうか」"
+translation = "「그러고 보니 원래는 몬스터 발생 장소에 대한 이야기였죠」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「そうそう。たとえば、新星学園が開校した時から今までのアステラの発生場所とかって、図書委員の人に聞けばなにかわかるかしら？」"
+translation = "「그래그래. 예를 들어 신성 학원이 개교했을 때부터 지금까지의 아스텔라 발생 장소 같은 건 도서 위원에게 물어보면 뭔가 알 수 있을까?」"
+
+[[dialogue]]
+speaker = "トワ先生"
+original = "「ふふんっ。そういうことは、新星学園が開校した年から教員をやっている、わたしに聞きなさいっ」"
+translation = "「후훗. 그런 건 신성 학원이 개교한 해부터 교사를 하고 있는 나에게 물어보렴!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "先生、それ逆算で年齢が……"
+translation = "선생님, 그거 역산하면 나이가……"
+
+[[dialogue]]
+speaker = "トワ先生"
+original = "「ふぇ……？」"
+translation = "「후에……?」"
+
+[[dialogue]]
+speaker = "トワ先生"
+original = "「はわわわわわわわ……！？」"
+translation = "「하와와와와와와와……!?」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「ま、まあ、トワ先生が何歳でも、可愛らしいことには変わりありませんし！」"
+translation = "「뭐, 뭐어, 토와 선생님이 몇 살이든 귀여우신 건 변함없으니까요!」"
+
+[[dialogue]]
+speaker = "トワ先生"
+original = "「それは果たしてフォローになってるのかな！？」"
+translation = "「그게 과연 위로가 되는 걸까!?」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「というか、トワちゃんがそんなに若くないのって、みんな知ってることなんじゃないの？」"
+translation = "「그보다 토와짱이 그렇게 젊지 않다는 건 다들 알고 있는 거 아니야?」"
+
+[[dialogue]]
+speaker = "トワ先生"
+original = "「ガーン……！」"
+translation = "「가안……!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "あーあ……"
+translation = "아아……"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「あれ？\u3000トワちゃんもわかっててやってるんだと思ってたけど」"
+translation = "「어라? 토와짱도 알고서 그러는 줄 알았는데」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「あはは……」"
+translation = "「아하하……」"
+
+[[dialogue]]
+speaker = "トワ先生"
+original = "「……………………」"
+translation = "「……………………」"
+
+[[dialogue]]
+speaker = "トワ先生"
+original = "「はっ……！\u3000わたしはいったいなにを！？」"
+translation = "「핫……! 나는 대체 무엇을!?」"
+
+[[dialogue]]
+speaker = "トワ先生"
+original = "「えっと……そうそう！\u3000モンスターに関する資料だっけ」"
+translation = "「에또…… 그래그래! 몬스터에 관한 자료였지」"
+
+[[dialogue]]
+speaker = "トワ先生"
+original = "「ヴィーナスちゃん、すぐに用意するから待っててね♪」"
+translation = "「비너스짱, 금방 준비할 테니까 기다려줘♪」"
+
+[[dialogue]]
+speaker = "unk"
+original = "余りの衝撃に耐えきれなかったトワ先生の脳は、意識を切断することで正気を保つことを選択したらしい。"
+translation = "너무나 큰 충격을 견디지 못한 토와 선생님의 뇌는 의식을 차단함으로써 제정신을 유지하는 것을 선택한 모양이다."
+
+[[dialogue]]
+speaker = "トワ先生"
+original = "「ふんふん、ふふ～ん♪」"
+translation = "「흠흠, 흐흐~음♪」"
+
+[[dialogue]]
+speaker = "unk"
+original = "なるほど──と。トワ先生の年齢の秘密が、生徒たちの間で暗黙の了解と化している理由を知る俺たちなのであった。"
+translation = "과연── 하고. 토와 선생님의 나이의 비밀이 학생들 사이에서 암묵적인 룰이 되어 있는 이유를 알게 된 우리였다."
+

@@ -1,0 +1,390 @@
+[[dialogue]]
+speaker = "unk"
+original = "第２話,ジュエリーとゲーム合宿,P"
+translation = "제2화, 쥬얼리와 게임 합숙"
+
+[[dialogue]]
+speaker = "unk"
+original = "ある日の放課後。"
+translation = "어느 날 방과 후."
+
+[[dialogue]]
+speaker = "unk"
+original = "俺とジュエリーは空き教室に呼び出されていた。"
+translation = "나와 쥬얼리는 빈 교실로 불려 가 있었다."
+
+[[dialogue]]
+speaker = "ジュエリー"
+original = "「ミネコが話があるって言うから来てみたが……嫌な予感しかしないよ、助手」"
+translation = "「미네코가 할 말이 있다고 해서 와 봤지만…… 좋지 않은 예감밖에 안 드는군, 조수」"
+
+[[dialogue]]
+speaker = "ミネコ"
+original = "「フッフッフ……待っていたよ、２人とも！」"
+translation = "「훗훗훗…… 기다리고 있었다구, 두 사람 다!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "透明になって姿を隠していたミネコが、得意げに姿を現す。"
+translation = "투명해져서 모습을 숨기고 있던 미네코가 의기양양하게 모습을 드러낸다."
+
+[[dialogue]]
+speaker = "unk"
+original = "彼女はジュエリーと同じく、『大怪盗』の<ruby>役職<rt>ロール</rt></ruby>を持つ『選星者』だ。"
+translation = "그녀는 쥬얼리와 마찬가지로 『대괴도』의 역직을 가진 『선성자』다."
+
+[[dialogue]]
+speaker = "ミネコ"
+original = "「今日はこの『大怪盗フランボウ』から、名探偵ジュエリー・ブラウンへ挑戦状を叩き付けにきたよ！」"
+translation = "「오늘은 이 『대괴도 플랑보』가 명탐정 쥬얼리 브라운에게 도전장을 내밀러 왔다구!」"
+
+[[dialogue]]
+speaker = "ミネコ"
+original = "「会長と結婚したいというのなら――」"
+translation = "「회장과 결혼하고 싶다면──」"
+
+[[dialogue]]
+speaker = "ミネコ"
+original = "「この日本製のレトロゲーム、横スクロールアクション『ジ・キルちゃんのオゥ・マイ・ダーリン！』をクリアしてみたまえ！」"
+translation = "「이 일본제 레트로 게임, 횡스크롤 액션 『지킬짱의 오 마이 달링!』을 클리어해 보라구!」"
+
+[[dialogue]]
+speaker = "ジュエリー"
+original = "「……キミのオススメゲームという時点で嫌な予感しかしないんだが」"
+translation = "「……네 추천 게임이라는 시점에서 안 좋은 예감밖에 안 들지만」"
+
+[[dialogue]]
+speaker = "ミネコ"
+original = "「フッフッフ！\u3000もしクリアできなければ、会長の愛はこの大怪盗フランボウが頂くよ♪」"
+translation = "「훗훗훗! 만약 클리어하지 못하면 회장의 사랑은 이 대괴도 플랑보가 가져가겠어♪」"
+
+[[dialogue]]
+speaker = "ジュエリー"
+original = "「いや、ゲーム関係なく、絶対に渡す気はないが……」"
+translation = "「아니, 게임과 상관없이 절대로 넘겨줄 생각은 없지만……」"
+
+[[dialogue]]
+speaker = "unk"
+original = "そんなわけで週末。"
+translation = "그런 연유로 주말."
+
+[[dialogue]]
+speaker = "unk"
+original = "俺の家で『ゲーム合宿』が行われることになり、ジュエリーとミネコが遊びにやって来ていた。"
+translation = "나의 집에서 『게임 합숙』이 열리게 되어 쥬얼리와 미네코가 놀러 왔다."
+
+[[dialogue]]
+speaker = "ジュエリー"
+original = "「結局押し切られて、プレイすることになってしまった……」"
+translation = "「결국 억지에 밀려서 플레이하게 되어 버렸군……」"
+
+[[dialogue]]
+speaker = "ミネコ"
+original = "「さて、改めて説明しよう！\u3000このゲームの主人公は、結婚式に向かう花嫁の『ジ・キルちゃん』！」"
+translation = "「자, 다시 한번 설명하지! 이 게임의 주인공은 결혼식으로 향하는 신부 『지킬짱』!」"
+
+[[dialogue]]
+speaker = "ミネコ"
+original = "「教会へ向かう道中のトラブルを乗り越え、愛しのダーリンの元へ辿り着いて結婚式を挙げるのが目的だ！」"
+translation = "「교회로 향하는 도중의 트러블을 극복하고, 사랑하는 달링의 곁에 도착해 결혼식을 올리는 것이 목적이라구!」"
+
+[[dialogue]]
+speaker = "ミネコ"
+original = "「さぁ、花嫁になったつもりで頑張りたまえ、名探偵！」"
+translation = "「자, 신부가 된 셈 치고 힘내라구, 명탐정!」"
+
+[[dialogue]]
+speaker = "ジュエリー"
+original = "「設定的に、今の自分と重ねられなくもないが……」"
+translation = "「설정상 지금의 자신과 겹쳐 보지 못할 것도 없지만……」"
+
+[[dialogue]]
+speaker = "unk"
+original = "そうして、ミネコが持ってきた据え置きの古いゲーム機を起動し、プレイを開始するジュエリー。"
+translation = "그렇게 미네코가 가져온 거치형의 낡은 게임기를 기동하여 플레이를 시작하는 쥬얼리."
+
+[[dialogue]]
+speaker = "ジュエリー"
+original = "「……なんだこれは。主人公の歩行速度が異常に遅くないか……？」"
+translation = "「……뭐지 이건. 주인공의 보행 속도가 이상하게 느리지 않아……?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "移動ボタン、壊れてない？"
+translation = "이동 버튼, 고장 난 거 아냐?"
+
+[[dialogue]]
+speaker = "ジュエリー"
+original = "「それに何故か街の住人が、主人公を目の敵にしたかのように襲ってくるんだが……この街は暴徒の巣窟なのか？」"
+translation = "「게다가 왠지 마을 주민들이 주인공을 눈엣가시로 여기는 것처럼 습격해 오는데…… 이 마을은 폭도들의 소굴인가?」"
+
+[[dialogue]]
+speaker = "ミネコ"
+original = "「説明書によれば、舞台は『ロンドン』とのことだよ」"
+translation = "「설명서에 따르면 무대는 『런던』이라고 하네」"
+
+[[dialogue]]
+speaker = "ジュエリー"
+original = "「私の知っているロンドンとは、あまりにも違いすぎるんだが……」"
+translation = "「내가 알고 있는 런던과는 너무나도 다른데……」"
+
+[[dialogue]]
+speaker = "ジ・キルちゃん"
+original = "『あぉおおおうっ！！』"
+translation = "『아으으으으윽!!』"
+
+[[dialogue]]
+speaker = "ジュエリー"
+original = "「気持ち悪い叫びと共に、主人公が死んだぞ……？」"
+translation = "「기분 나쁜 비명과 함께 주인공이 죽었어……?」"
+
+[[dialogue]]
+speaker = "ミネコ"
+original = "「まだ死んでないよ！\u3000説明書によれば、敵からの攻撃でダメージを受けてストレスが溜まると花嫁は『闇堕ちモード』に入るんだ！」"
+translation = "「아직 안 죽었어! 설명서에 따르면 적의 공격으로 데미지를 입어 스트레스가 쌓이면 신부는 『흑화 모드』에 들어가는 거야!」"
+
+[[dialogue]]
+speaker = "ミネコ"
+original = "「ジ・キルちゃんは実は二重人格で、悪の人格に目覚めると住民たちに逆襲を始めるんだよ！」"
+translation = "「지킬짱은 사실 이중인격이라, 악의 인격에 눈을 뜨면 주민들에게 역습을 시작한다구!」"
+
+[[dialogue]]
+speaker = "ジュエリー"
+original = "「なるほど、読めてきたぞ」"
+translation = "「과연, 파악했다」"
+
+[[dialogue]]
+speaker = "ジュエリー"
+original = "「彼女の悪の人格は『元暗殺者』で、襲ってきているのも結婚を阻むため住民に扮した暗殺者たち――そういう設定だろう？」"
+translation = "「그녀의 악의 인격은 『전직 암살자』이고, 습격해 오는 것도 결혼을 막기 위해 주민으로 변장한 암살자들── 그런 설정이지?」"
+
+[[dialogue]]
+speaker = "ミネコ"
+original = "「うーん、惜しい！\u3000ジ・キルちゃんの悪の人格が元暗殺者なのは合ってるけど、襲ってきてるのはただの住人だよ」"
+translation = "「으음, 아깝네! 지킬짱의 악의 인격이 전직 암살자인 건 맞지만, 습격해 오는 건 그냥 주민이야」"
+
+[[dialogue]]
+speaker = "unk"
+original = "世紀末かな？"
+translation = "세기말인가?"
+
+[[dialogue]]
+speaker = "ジュエリー"
+original = "「つくづく民度が終わってるロンドンだな……」"
+translation = "「그야말로 민도가 끝장난 런던이군……」"
+
+[[dialogue]]
+speaker = "unk"
+original = "それからジュエリーは、不条理な攻撃の嵐に苦しみ続けていた。"
+translation = "그 뒤로 쥬얼리는 불합리한 공격의 폭풍에 계속 고통받고 있었다."
+
+[[dialogue]]
+speaker = "ジュエリー"
+original = "「こんなの……かわしきれるわけないだろう……！」"
+translation = "「이런 건…… 다 피할 수 있을 리가 없잖아……!」"
+
+[[dialogue]]
+speaker = "ジュエリー"
+original = "「住民、動物、虫、それに謎に転がってくる<ruby>樽<rt>たる</rt></ruby>！\u3000全てが主人公の命を狙っているレベルで、執拗に攻撃してくるんだが……！？」"
+translation = "「주민, 동물, 벌레, 그리고 왠지 굴러오는 통! 모든 것이 주인공의 목숨을 노리는 수준으로 집요하게 공격해 오는데……!?」"
+
+[[dialogue]]
+speaker = "ジュエリー"
+original = "「あと中でも最悪の敵が、この『爆弾魔』だ！\u3000こいつだけは絶対に住人じゃないだろう！？」"
+translation = "「그중에서도 최악의 적이 이 『폭탄마』다! 이놈만큼은 절대로 주민이 아니겠지!?」"
+
+[[dialogue]]
+speaker = "ミネコ"
+original = "「説明書には、その爆弾魔も善良な市民って書いてあるよ」"
+translation = "「설명서에는 그 폭탄마도 선량한 시민이라고 적혀 있어」"
+
+[[dialogue]]
+speaker = "ジュエリー"
+original = "「善良の意味を辞書で引いてきたまえ！」"
+translation = "「선량의 의미를 사전에서 찾아보고 오라구!」"
+
+[[dialogue]]
+speaker = "ジュエリー"
+original = "「あと、爆弾のエフェクトはショボいのに、当たり判定が凄まじく大きいのはどうなっているんだ！？」"
+translation = "「그리고 폭탄 이펙트는 허접한데 피격 판정이 엄청나게 큰 건 어떻게 된 거지!?」"
+
+[[dialogue]]
+speaker = "ジュエリー"
+original = "「威力も一撃で瀕死になるレベルだぞ！？\u3000操作性が劣悪だから、回避もしづらいし！」"
+translation = "「위력도 일격에 빈사 상태가 될 수준이라구!? 조작성이 열악해서 회피하기도 힘들고!」"
+
+[[dialogue]]
+speaker = "ミネコ"
+original = "「説明書によると、すごい威力の爆弾なんだって」"
+translation = "「설명서에 따르면 엄청난 위력의 폭탄이라나 봐」"
+
+[[dialogue]]
+speaker = "unk"
+original = "なんでも書いてある説明書だな……"
+translation = "별게 다 적혀 있는 설명서네……"
+
+[[dialogue]]
+speaker = "ジュエリー"
+original = "「説明書に書いてあれば何でも許されると思わないでほしいんだが！？」"
+translation = "「설명서에 적혀 있으면 뭐든 용서받을 수 있다고 생각하지 말았으면 하는데!?」"
+
+[[dialogue]]
+speaker = "ジュエリー"
+original = "「ミネコから紹介された時点でなんとなくそんな予感はしていたが……明解に換言するならばこれは――」"
+translation = "「미네코에게 소개받은 시점에서 왠지 모르게 그런 예감은 했지만…… 명확하게 바꾸어 말하자면 이건──」"
+
+[[dialogue]]
+speaker = "ジュエリー"
+original = "「クソゲーじゃないか！」"
+translation = "「망겜이잖아!」"
+
+[[dialogue]]
+speaker = "ミネコ"
+original = "「人生って、クソゲーに似てるよね♪」"
+translation = "「인생이란 망겜이랑 닮았지♪」"
+
+[[dialogue]]
+speaker = "ミネコ"
+original = "「でも、だからこそ私は、挑戦する意味があると思うんだよね～」"
+translation = "「하지만 그렇기에 나는 도전하는 의미가 있다고 생각한다구~」"
+
+[[dialogue]]
+speaker = "ミネコ"
+original = "「理不尽なことがあって、それでも乗り越えるからこそ、見られる景色がある」"
+translation = "「부조리한 일이 있어도 그것을 극복하기에 볼 수 있는 경치가 있어」"
+
+[[dialogue]]
+speaker = "ミネコ"
+original = "「人生は山あり谷あり。このゲームのように、『結婚』も必ずしも幸せなことばかりじゃないかもしれないよ？」"
+translation = "「인생은 산 넘어 산. 이 게임처럼 『결혼』도 반드시 행복한 일만 있는 건 아닐지도 모른다구?」"
+
+[[dialogue]]
+speaker = "ジュエリー"
+original = "「ミネコ……」"
+translation = "「미네코……」"
+
+[[dialogue]]
+speaker = "ジュエリー"
+original = "「このゲームの制作者は、絶対そこまで考えてないと思うぞ」"
+translation = "「이 게임의 제작자는, 절대 거기까지 생각하지 않았을 거라고 봐」"
+
+[[dialogue]]
+speaker = "ミネコ"
+original = "「会長～！\u3000キミの恋人、すごくドライなんですけど～！？」"
+translation = "「회장~! 너네 연인, 엄청 드라이한데~!?」"
+
+[[dialogue]]
+speaker = "ジュエリー"
+original = "「失礼なことを言うな！\u3000私は助手にはすごくウェットだぞ！」"
+translation = "「실례되는 소리 마라! 나는 조수에게는 굉장히 웨트하다고!」"
+
+[[dialogue]]
+speaker = "ミネコ"
+original = "「それはそれでなんか嫌じゃない……？」"
+translation = "「그건 그것대로 좀 싫지 않아……?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "大丈夫、俺も大概ウェットだから"
+translation = "대체로 나도 웨트하니까 괜찮아"
+
+[[dialogue]]
+speaker = "ジュエリー"
+original = "「ふふっ、助手……<emoji=heart04>\u3000愛しているよ<emoji=heart04>」"
+translation = "「후훗, 조수……<emoji=heart04> 사랑하고 있어<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "ミネコ"
+original = "「あ、うん。似た者カップルだったわ……」"
+translation = "「아, 응. 끼리끼리 커플이었네……」"
+
+[[dialogue]]
+speaker = "unk"
+original = "──翌日。"
+translation = "──다음 날."
+
+[[dialogue]]
+speaker = "unk"
+original = "ゲーム合宿改め『クソゲー合宿』で挑んだ『ジ・キルちゃんのオゥ・マイ・ダーリン！』。"
+translation = "게임 합숙에서 『쿠소게 합숙』으로 바뀐 채 도전한 『지킬짱의 오 마이 달링!』."
+
+[[dialogue]]
+speaker = "unk"
+original = "ジュエリーは何度もコンティニューを繰り返した末、ついにラスボスを撃破しエンディングへ到達した。"
+translation = "쥬얼리는 몇 번이고 컨티뉴를 반복한 끝에, 마침내 최종 보스를 격파하고 엔딩에 도달했다."
+
+[[dialogue]]
+speaker = "ジュエリー"
+original = "「や、やったぞ……！\u3000ついに結婚式場にたどり着いた……！\u3000見たか、ミネコ！」"
+translation = "「해, 해냈다……! 드디어 결혼식장에 도착했어……! 봤느냐, 미네코!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "しかし、画面に映ったのは――"
+translation = "하지만, 화면에 비친 것은──"
+
+[[dialogue]]
+speaker = "unk"
+original = "『ＢＡＤ\u3000ＥＮＤ～闇堕ち花嫁～』"
+translation = "『BAD END ~타락한 신부~』"
+
+[[dialogue]]
+speaker = "ジュエリー"
+original = "「……………………は？」"
+translation = "「……………………하?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "え……どういうこと……？"
+translation = "에…… 어떻게 된 거지……?"
+
+[[dialogue]]
+speaker = "ミネコ"
+original = "「ハッハッハッ！\u3000説明しよう！\u3000このゲームは『１度も闇堕ちルートに入らないで』ゲームクリアしないと、真のハッピーエンドを迎えられないのさ♪」"
+translation = "「핫핫하! 설명해주지! 이 게임은 『단 한 번도 타락 루트에 빠지지 않고』 게임을 클리어해야만 진정한 해피 엔딩을 맞이할 수 있다고♪」"
+
+[[dialogue]]
+speaker = "ジュエリー"
+original = "「やっぱりクソゲーじゃないか！？」"
+translation = "「역시 쿠소게가 아닌가!?」"
+
+[[dialogue]]
+speaker = "ミネコ"
+original = "「あははははっ♪\u3000というわけで、次こそはハッピーエンドを目指して頑張ろっか♪」"
+translation = "「아하하하하♪ 그런 고로, 다음번에야말로 해피 엔딩을 목표로 힘내볼까♪」"
+
+[[dialogue]]
+speaker = "ジュエリー"
+original = "「誰がやるかっ！」"
+translation = "「누가 할 것 같으냐!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "──それから数週間後。"
+translation = "──그로부터 수주 후."
+
+[[dialogue]]
+speaker = "ジュエリー"
+original = "「――助手。あのゲームは、ちゃんとハッピーエンドでクリアしておいたよ」"
+translation = "「──조수. 그 게임은, 제대로 해피 엔딩으로 클리어해 뒀다」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ジュエリーの淡々とした報告に、俺は驚く。"
+translation = "쥬얼리의 담담한 보고에 나는 놀란다."
+
+[[dialogue]]
+speaker = "ジュエリー"
+original = "「あのまま終わりでは、ミネコの挑戦に負けたことになってしまうからね」"
+translation = "「그대로 끝내서는 미네코의 도전에 패배한 것이 되어버리니까 말이야」"
+
+[[dialogue]]
+speaker = "ジュエリー"
+original = "「大怪盗フランボウには、私たちの愛の邪魔などさせないさ」"
+translation = "「대괴도 프랑보에게 우리 사랑의 방해 따위는 하게 두지 않겠어」"
+
+[[dialogue]]
+speaker = "unk"
+original = "そんなふうに言って微笑むジュエリーに、俺は思わず嬉しくなってしまうのだった。"
+translation = "그런 식으로 말하며 미소 짓는 쥬얼리에게, 나는 그만 기분이 좋아지고 말았다."
+

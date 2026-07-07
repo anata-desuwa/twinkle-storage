@@ -1,0 +1,365 @@
+[[dialogue]]
+speaker = "unk"
+original = "第１話,メイプルとロロット,P"
+translation = "제1화, 메이플과 로롯토, P"
+
+[[dialogue]]
+speaker = "unk"
+original = "異世界の流星クルセイダースの一員であるロロット・ローゼンクロイツ。"
+translation = "이세계의 유성 크루세이더즈의 일원인 로롯토 로젠크로이츠."
+
+[[dialogue]]
+speaker = "unk"
+original = "世界の境界の乱れが落ち着くまで時間がかかる為、俺はメイプルと共に、彼女から流星町を案内してもらっていた――"
+translation = "세계 경계의 혼란이 진정될 때까지 시간이 걸리기 때문에, 나는 메이플과 함께 그녀에게 유성 마을 안내를 받고 있었다――"
+
+[[dialogue]]
+speaker = "メイプル"
+original = "「ここが流星町の<ruby>月ノ尾<rt>つきのお</rt></ruby>公園か～♪」"
+translation = "「여기가 유성 마을의 츠키노오 공원이구나~♪」"
+
+[[dialogue]]
+speaker = "ロロット"
+original = "「じ～っ……」"
+translation = "「빤히――……」"
+
+[[dialogue]]
+speaker = "メイプル"
+original = "「ん？\u3000ロロット？\u3000あたしの顔をじっと見たりして、どうしたの？」"
+translation = "「응? 로롯토? 내 얼굴을 그렇게 빤히 보고, 왜 그래?」"
+
+[[dialogue]]
+speaker = "ロロット"
+original = "「――やっぱり、雰囲気が似ているのです」"
+translation = "「――역시, 분위기가 닮은 거예요」"
+
+[[dialogue]]
+speaker = "メイプル"
+original = "「それって、この戦闘服の元になった『マカロン』って子のこと？」"
+translation = "「그건 이 전투복의 모델이 된 『마카롱』이라는 애 말이야?」"
+
+[[dialogue]]
+speaker = "ロロット"
+original = "「はい。わたしとルリエルさんがそうであるように、あなたはわたしたちが知っているその人と――」"
+translation = "「네. 저와 루리엘 씨가 그러하듯, 당신은 저희가 알고 있는 그 사람과――」"
+
+[[dialogue]]
+speaker = "ロロット"
+original = "「ズバリ、『キャラ被り』をしているのです！」"
+translation = "「정곡을 찌르자면, 『캐릭터 겹침』을 하고 있는 거예요!」"
+
+[[dialogue]]
+speaker = "メイプル"
+original = "「その言い方はどうなのかな！？」"
+translation = "「말투가 좀 그렇지 않아!?」"
+
+[[dialogue]]
+speaker = "ロロット"
+original = "「ところで、お名前はなんでしたっけ？」"
+translation = "「그나저나, 성함이 뭐였죠?」"
+
+[[dialogue]]
+speaker = "メイプル"
+original = "「しかもまだちゃんと名前を覚えられてない！」"
+translation = "「심지어 아직 이름도 제대로 못 외웠어!」"
+
+[[dialogue]]
+speaker = "メイプル"
+original = "「もう！\u3000１回自己紹介したでしょ！\u3000メイプルだよ、メイプル！」"
+translation = "「정말! 벌써 한 번 자기소개했잖아! 메이플이야, 메이플!」"
+
+[[dialogue]]
+speaker = "ロロット"
+original = "「おお！\u3000そうでした。舐めたら甘そうなお名前というのは覚えていたのですが、失礼しました、２号さん」"
+translation = "「오오! 그랬었죠. 핥으면 달콤할 것 같은 이름이라는 건 기억하고 있었습니다만, 실례했습니다, 2호 씨」"
+
+[[dialogue]]
+speaker = "メイプル"
+original = "「似てるからって２号呼びは酷くないかな！？」"
+translation = "「닮았다고 2호라고 부르는 건 너무하지 않아!?」"
+
+[[dialogue]]
+speaker = "ロロット"
+original = "「ところで、気になっていたのですが――」"
+translation = "「그건 그렇고, 궁금한 게 있었습니다만――」"
+
+[[dialogue]]
+speaker = "メイプル"
+original = "「な、何……？」"
+translation = "「뭐, 뭔데……?」"
+
+[[dialogue]]
+speaker = "ロロット"
+original = "「２号さんがずっと連れている、クマのぬいぐるみ……お名前はあるのでしょうか？」"
+translation = "「2호 씨가 계속 데리고 있는 곰 인형…… 이름이 있는 것일까요?」"
+
+[[dialogue]]
+speaker = "メイプル"
+original = "「……！」"
+translation = "「……!」"
+
+[[dialogue]]
+speaker = "メイプル"
+original = "「そういえば、ロロットも豚の貯金箱を抱っこしてるよね？\u3000もしかして……」"
+translation = "「그러고 보니, 로롯토도 돼지 저금통을 안고 있네? 혹시……」"
+
+[[dialogue]]
+speaker = "メイプル"
+original = "「それにもちゃんと名前がある感じ？」"
+translation = "「그것도 제대로 이름이 있는 느낌?」"
+
+[[dialogue]]
+speaker = "ロロット"
+original = "「はい♪\u3000この貯金箱は『トントロ』というのです！」"
+translation = "「네♪ 이 저금통은 『톤토로』라고 하는 거예요!」"
+
+[[dialogue]]
+speaker = "メイプル"
+original = "「そうなんだ♪\u3000あたしのはね、本当はモノクロベアーっていう白黒のパペットで――それっ♪」"
+translation = "「그렇구나♪ 내 거는 말이야, 사실 모노크로 베어라는 흑백 퍼펫인데―― 자♪」"
+
+[[dialogue]]
+speaker = "メイプル"
+original = "「じゃ～ん♪\u3000名前は白い方がベッキーで、黒い方がアルザードって言うんだよ♪」"
+translation = "「쨔잔♪ 이름은 하얀 쪽이 베키고, 검은 쪽이 알자드라고 해♪」"
+
+[[dialogue]]
+speaker = "ロロット"
+original = "「わぁ～♪\u3000可愛いのです♪」"
+translation = "「와아~♪ 귀여운 거예요♪」"
+
+[[dialogue]]
+speaker = "unk"
+original = "と、その時だった。"
+translation = "그때였다."
+
+[[dialogue]]
+speaker = "unk"
+original = "ロロットがはしゃいで身を乗り出した拍子に、トントロが腕からポロッと滑り落ちて――"
+translation = "로롯토가 신이 나서 몸을 내민 순간, 톤토로가 팔에서 툭 하고 미끄러져 떨어져서――"
+
+[[dialogue]]
+speaker = "メイプル"
+original = "「ちょっ……ロロット！？」"
+translation = "「잠깐…… 로롯토!?」"
+
+[[dialogue]]
+speaker = "ロロット"
+original = "「え？\u3000あっ！」"
+translation = "「에? 앗!」"
+
+[[dialogue]]
+speaker = "ロロット"
+original = "「ああぁ～っ！？\u3000トントロぉぉぉ～～～ッ！！！」"
+translation = "「아아아~앗!? 톤토로오오오~~~옷!!!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "トントロは地面に落ちて、無残にも砕け散ってしまった。"
+translation = "톤토로는 바닥에 떨어져, 처참하게 부서지고 말았다."
+
+[[dialogue]]
+speaker = "メイプル"
+original = "「わあああぁ～～～っ！？\u3000は、破片を拾い集めないと！」"
+translation = "「와아아아~앗!? 파, 파편을 주워 모아야 해!」"
+
+[[dialogue]]
+speaker = "ロロット"
+original = "「ふぅ。なんとか元に戻ったのです……！」"
+translation = "「후우. 어떻게든 원래대로 돌아온 거예요……!」"
+
+[[dialogue]]
+speaker = "メイプル"
+original = "「まさか瞬間接着剤を常時持ち歩いているとは……しかも、器用に直しちゃうし」"
+translation = "「설마 순간접착제를 항상 가지고 다닐 줄이야…… 게다가 능숙하게 고쳐버리고」"
+
+[[dialogue]]
+speaker = "ロロット"
+original = "「ふふふ、不思議とよく割れてしまうので、直し慣れているのです♪」"
+translation = "「후후후, 신기하게도 자주 깨져버려서 고치는 데 익숙한 거예요♪」"
+
+[[dialogue]]
+speaker = "メイプル"
+original = "「自慢げに言うことじゃないよ！？」"
+translation = "「자랑스럽게 말할 게 아니라고!?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ロロット、思ったんだけどさ……"
+translation = "로롯토, 생각한 건데 말이야……"
+
+[[dialogue]]
+speaker = "ロロット"
+original = "「え？\u3000それなら、持ち歩かずに家に置いておいた方がいいんじゃないか……ですか？」"
+translation = "「에? 그렇다면 들고 다니지 말고 집에 두는 편이 좋지 않겠냐……는 말씀이신가요?」"
+
+[[dialogue]]
+speaker = "ロロット"
+original = "「――いいえ。新星会長さん、逆なのです」"
+translation = "「――아니요. 신성 회장님, 반대인 거예요」"
+
+[[dialogue]]
+speaker = "ロロット"
+original = "「大切だからこそ、肌身離さず持っておくのです！」"
+translation = "「소중하기 때문에 항상 곁에 두는 거예요!」"
+
+[[dialogue]]
+speaker = "メイプル"
+original = "「……！\u3000その気持ち、わかる！」"
+translation = "「……! 그 기분, 알아!」"
+
+[[dialogue]]
+speaker = "メイプル"
+original = "「あたしもアルザードとベッキー、いつも持ち歩いてるし！」"
+translation = "「나도 알자드랑 베키를 항상 들고 다니거든!」"
+
+[[dialogue]]
+speaker = "メイプル"
+original = "「あっ、そうだ！\u3000持ち歩きたいけど、落とさないようにするなら――」"
+translation = "「앗, 맞다! 들고 다니고 싶지만 떨어뜨리지 않게 하려면――」"
+
+[[dialogue]]
+speaker = "メイプル"
+original = "「『クリアバッグ』とかどうかな？」"
+translation = "「『클리어 백』 같은 건 어때?」"
+
+[[dialogue]]
+speaker = "ロロット"
+original = "「くりあばっぐ……？\u3000それは一体、どういうバッグなのでしょうか？」"
+translation = "「클리어 백……? 그건 대체 어떤 가방인 것일까요?」"
+
+[[dialogue]]
+speaker = "メイプル"
+original = "「あれ？\u3000知らない？\u3000えっとね～」"
+translation = "「어라? 몰라? 그러니까~」"
+
+[[dialogue]]
+speaker = "メイプル"
+original = "「ほら、こういう透明で、入れてる中身が見えるやつ♪」"
+translation = "「봐봐, 이렇게 투명해서 들어있는 내용물이 보이는 거♪」"
+
+[[dialogue]]
+speaker = "unk"
+original = "そう言って変身を解いたメイプルは、肩から下げているバッグを見せる。"
+translation = "그렇게 말하며 변신을 푼 메이플은 어깨에 메고 있는 가방을 보여준다."
+
+[[dialogue]]
+speaker = "メイプル"
+original = "「あたしはいつも、こうやって中にベッキーとアルザードを入れて、持ち歩いてるんだよ♪」"
+translation = "「난 항상 이렇게 안에 베키랑 알자드를 넣어서 들고 다녀♪」"
+
+[[dialogue]]
+speaker = "ロロット"
+original = "「異世界には、そんな便利なものが……！？\u3000カルチャーショックなのです！」"
+translation = "「이세계에는 그런 편리한 물건이……!? 문화 충격인 거예요!」"
+
+[[dialogue]]
+speaker = "メイプル"
+original = "「う～ん、そっか……こっちの世界にはクリアバッグが売ってないかもしれないのかぁ」"
+translation = "「음, 그렇구나…… 이쪽 세계에는 클리어 백을 안 팔지도 모르겠네」"
+
+[[dialogue]]
+speaker = "unk"
+original = "（ここは一旦メイプルに任せよう）"
+translation = "(여기는 일단 메이플에게 맡기자)"
+
+[[dialogue]]
+speaker = "unk"
+original = "（ロロットが知らないだけな気もするけど）"
+translation = "(로롯토가 모를 뿐인 것 같은 기분도 들지만)"
+
+[[dialogue]]
+speaker = "メイプル"
+original = "「だったら――」"
+translation = "「그렇다면――」"
+
+[[dialogue]]
+speaker = "メイプル"
+original = "「元の世界に帰る前の置き土産に、このクリアバッグ、ロロットにあげるよ♪」"
+translation = "「원래 세계로 돌아가기 전의 작별 선물로 이 클리어 백, 로롯토에게 줄게♪」"
+
+[[dialogue]]
+speaker = "ロロット"
+original = "「え？\u3000いいのですか？」"
+translation = "「에? 괜찮은 거예요?」"
+
+[[dialogue]]
+speaker = "メイプル"
+original = "「うん！\u3000クリアバッグは元の世界に帰ったら、また同じのを買えばいいし♪」"
+translation = "「응! 클리어 백은 원래 세계로 돌아가면 또 똑같은 걸 사면 되니까♪」"
+
+[[dialogue]]
+speaker = "ロロット"
+original = "「わぁ～っ♪\u3000ありがとうございます！」"
+translation = "「와아~♪ 감사합니다!」"
+
+[[dialogue]]
+speaker = "メイプル"
+original = "「ふふっ。いいのいいの♪\u3000大切なものを持ち歩く者同士、絆の証に、ね♪」"
+translation = "「후훗. 괜찮아 괜찮아♪ 소중한 것을 들고 다니는 사람끼리, 유대의 증표로 말이야♪」"
+
+[[dialogue]]
+speaker = "unk"
+original = "翌日――"
+translation = "다음날――"
+
+[[dialogue]]
+speaker = "メイプル"
+original = "「えっと……ロロット？」"
+translation = "「저기…… 로롯토?」"
+
+[[dialogue]]
+speaker = "ロロット"
+original = "「はい、なんでしょう？」"
+translation = "「네, 무슨 일이신가요?」"
+
+[[dialogue]]
+speaker = "メイプル"
+original = "「昨日、あたしがあげたクリアバッグは？」"
+translation = "「어제 내가 준 클리어 백은?」"
+
+[[dialogue]]
+speaker = "ロロット"
+original = "「それでしたら、ちゃ～んと、家に置いてきたのです♪」"
+translation = "「그거라면 자아~알 집에 두고 온 거예요♪」"
+
+[[dialogue]]
+speaker = "メイプル"
+original = "「なんで！？\u3000昨日いい感じで終わって、使ってくれる流れだったよね！？」"
+translation = "「왜!? 어제 분위기 좋게 끝나서 써주는 흐름이었잖아!?」"
+
+[[dialogue]]
+speaker = "ロロット"
+original = "「わたしもそのつもりだったのですが――」"
+translation = "「저도 그럴 생각 이었습니다만――」"
+
+[[dialogue]]
+speaker = "ロロット"
+original = "「やはり、友達がくれたプレゼントですので、傷が付かないように飾っておこうと思いまして！」"
+translation = "「역시 친구가 준 선물이니까 상처가 나지 않게 장식해 두기로 했어요!」"
+
+[[dialogue]]
+speaker = "メイプル"
+original = "「……！」"
+translation = "「……!」"
+
+[[dialogue]]
+speaker = "ロロット"
+original = "「大切にしますね、<b>メイプル</b>さん♪」"
+translation = "「소중히 간직할게요, <b>메이플</b> 씨♪」"
+
+[[dialogue]]
+speaker = "メイプル"
+original = "「ロロット……！」"
+translation = "「로롯토……!」"
+
+[[dialogue]]
+speaker = "メイプル"
+original = "「にへへ♪」"
+translation = "「니헤헤♪」"
+
+[[dialogue]]
+speaker = "unk"
+original = "まさに天使のような笑顔を浮かべるロロットに、照れ臭そうな笑みを返すメイプルなのだった――"
+translation = "그야말로 천사 같은 미소를 짓는 로롯토에게 쑥스러운 듯한 웃음을 돌려주는 메이플이었다――"
+

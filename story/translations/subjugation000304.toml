@@ -1,0 +1,280 @@
+[[dialogue]]
+speaker = "イクシリオン"
+original = "「図書委員の当番お疲れ様でした、モネさん」"
+translation = "「도서위원 당번 수고하셨습니다, 모네 씨.」"
+
+[[dialogue]]
+speaker = "モネ"
+original = "「……」"
+translation = "「……」"
+
+[[dialogue]]
+speaker = "モネ"
+original = "「あ、すみません、考え事をしていて」"
+translation = "「아, 죄송합니다, 딴생각을 하느라.」"
+
+[[dialogue]]
+speaker = "イクシリオン"
+original = "「図書館の利用者を増やす方法ですね」"
+translation = "「도서관 이용자를 늘리는 방법 말이죠.」"
+
+[[dialogue]]
+speaker = "モネ"
+original = "「はい。でも何も浮かばなくて、読書していても半分くらいしかページが進みません……」"
+translation = "「네. 하지만 아무것도 떠오르지 않아서 독서를 하고 있어도 평소의 절반 정도밖에 안 넘어가요……」"
+
+[[dialogue]]
+speaker = "イクシリオン"
+original = "（それでもすごいスピードでページをめくっています……集中したらどのくらい読めるのでしょうか）"
+translation = "(그래도 엄청난 속도로 페이지를 넘기고 계십니다…… 집중하면 어느 정도나 읽으시는 걸까요)"
+
+[[dialogue]]
+speaker = "モネ"
+original = "「図書館としては、いろいろな取り組みをしているつもりなんです」"
+translation = "「도서관으로서는 여러 노력을 하고 있다고 생각해요.」"
+
+[[dialogue]]
+speaker = "モネ"
+original = "「流行しているドラマの原作を紹介したり、刀剣をテーマにした作品が話題になると、刀の歴史の本を取り上げたりとか」"
+translation = "「유행하는 드라마의 원작을 소개하거나, 도검을 테마로 한 작품이 화제가 되면 칼의 역사책을 다루기도 하고요.」"
+
+[[dialogue]]
+speaker = "モネ"
+original = "「詩を募集して、生徒の詩集を作るという企画もありました。本の製法を学ぶワークショップも催しました」"
+translation = "「시를 모집해서 학생 시집을 만드는 기획도 있었어요. 책 제작법을 배우는 워크숍도 열었고요.」"
+
+[[dialogue]]
+speaker = "モネ"
+original = "「本以外にも、講演会を開いたり、視聴覚室で映画を上映したり……」"
+translation = "「책 이외에도 강연회를 열거나 시청각실에서 영화를 상영하기도 하고……」"
+
+[[dialogue]]
+speaker = "イクシリオン"
+original = "「なるほど。私は魅力的だと思うのですが……難しいですね」"
+translation = "「과연. 저는 매력적이라고 생각합니다만…… 어렵군요.」"
+
+[[dialogue]]
+speaker = "モネ"
+original = "「ところでイクシーさんが食べてるのは……」"
+translation = "「그나저나 익실 씨가 드시고 계신 건……」"
+
+[[dialogue]]
+speaker = "イクシリオン"
+original = "「ふわふわパンケーキとプリン２つです」"
+translation = "「푹신푹신한 팬케이크랑 푸딩 두 개입니다.」"
+
+[[dialogue]]
+speaker = "モネ"
+original = "「お昼少なかったんですか？」"
+translation = "「점심이 적었나요?」"
+
+[[dialogue]]
+speaker = "イクシリオン"
+original = "「いえ、しっかり食べました。ですが人間界の食べ物はどれもおいしくて……ふふ♪」"
+translation = "「아니요, 든든히 먹었습니다. 하지만 인간계의 음식은 무엇이든 맛있어서…… 후후♪」"
+
+[[dialogue]]
+speaker = "モネ"
+original = "「そ、そうですか……」"
+translation = "「그, 그렇군요……」"
+
+[[dialogue]]
+speaker = "イクシリオン"
+original = "「む」"
+translation = "「음.」"
+
+[[dialogue]]
+speaker = "モネ"
+original = "「どうしました？」"
+translation = "「왜 그러세요?」"
+
+[[dialogue]]
+speaker = "イクシリオン"
+original = "「プリンを２つ並べて、上にさくらんぼを乗せると、こう、何かに見えてくるような……柔らかくてプルプル揺れる何かに……」"
+translation = "「푸딩을 두 개 나란히 두고 위에 체리를 얹으면, 이렇게, 무언가로 보이는 듯한…… 부드럽고 탱글탱글 떨리는 무언가로……」"
+
+[[dialogue]]
+speaker = "モネ"
+original = "「は、はぁ……」"
+translation = "「하, 하아……」"
+
+[[dialogue]]
+speaker = "モネ"
+original = "（イクシーさんって時々よくわからない……）"
+translation = "(익실 씨는 가끔 잘 모르겠어……)"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「あ、モネちゃん。お疲れさま～」"
+translation = "「아, 모네짱. 수고했어~」"
+
+[[dialogue]]
+speaker = "モネ"
+original = "「しゃしゃ、サーシャさん！？\u3000お疲れ様です！」"
+translation = "「사, 사샤 씨!? 수고하십니다!」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「と、イクシーさん」"
+translation = "「그리고 익실 씨.」"
+
+[[dialogue]]
+speaker = "イクシリオン"
+original = "「こんにちは～」"
+translation = "「안녕하세요~」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「私たち星徒会のお仕事が終わったところなの～。ご一緒させてもらうわね～」"
+translation = "「우리 성도회 업무가 끝난 참이란다~. 같이 좀 앉아도 될까?」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「お邪魔します」"
+translation = "「실례하겠습니다.」"
+
+[[dialogue]]
+speaker = "モネ"
+original = "「あ、ど、どうも……」"
+translation = "「아, 네, 아무쪼록……」"
+
+[[dialogue]]
+speaker = "モネ"
+original = "（おふたりは星徒会だし、イクシーさんはプリマステラだし、肩身が狭い……）"
+translation = "(두 분은 성도회고 익실 씨는 프리마스텔라니까 주눅 들어……)"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「２人は何のお話してたの～？」"
+translation = "「두 사람은 무슨 이야기 중이었니?」"
+
+[[dialogue]]
+speaker = "モネ"
+original = "「ええっと実は、図書館の利用者を増やしたいと思っていまして……よく図書館を利用されるサーシャさんとアナさんからも何かご意見ありませんか？」"
+translation = "「저기 사실은 도서관 이용자를 늘리고 싶다고 생각해서요…… 도서관을 자주 이용하시는 사샤 씨와 아나 씨께서도 뭐 의견 없으신가요?」"
+
+[[dialogue]]
+speaker = "モネ"
+original = "「こうした方がいいああした方がいいというのだけじゃなくて、不満でもいいので何か……何か……」"
+translation = "「이렇게 하는 게 좋다 저렇게 하는 게 좋다는 것뿐만 아니라 불만이라도 좋으니 무엇이든…… 무엇이든……」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「そう言われてもー」"
+translation = "「그렇게 말해도―」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「特になし」"
+translation = "「딱히 없음.」"
+
+[[dialogue]]
+speaker = "モネ"
+original = "「そんなぁっ！？」"
+translation = "「그럴 수가!?」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「悪い意味じゃないのよ～。新星学園の図書館にはお世話になってるし、モネちゃんはじめ図書委員や司書さんにはよくしてもらってるわ～」"
+translation = "「나쁜 의미가 아니란다~. 신성학원 도서관에는 신세 지고 있고 모네짱을 비롯해 도서위원이나 사서분들이 잘해주시니까~」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「はい。私も図書館に不満はありません。稀に求める資料がない場合もありますが、おそらくどの図書館でも扱っていないものでしょう」"
+translation = "「네. 저도 도서관에 불만은 없습니다. 드물게 원하는 자료가 없는 경우도 있습니다만 아마 어느 도서관에서도 취급하지 않는 것이겠죠.」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「図書館の利用者を増加させたいのは理解できます。ただ注意点として、現在図書館を利用している生徒の満足度を損ねる施策は避けるべき」"
+translation = "「도서관 이용자를 증가시키고 싶은 점은 이해합니다. 다만 주의점으로 현재 도서관을 이용하는 학생의 만족도를 해치는 대책은 피해야 합니다.」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「それはそうね～。新しく人が来るようになっても、今来てる人が来なくなっても意味がないもの」"
+translation = "「그건 그렇네~. 새로 사람이 오게 되어도 지금 오던 사람이 안 오게 되면 의미가 없는걸.」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「それに、図書館の利用者が少なくなっているのだとしても、それはモネちゃんや司書さんたちのせいじゃないわ～」"
+translation = "「게다가 도서관 이용자가 줄어들고 있다고 해도 그건 모네짱이나 사서분들 탓이 아니야~」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「特別な施策を行うのではなく、現在のサービスを維持、または向上させていくのも１つの手かと」"
+translation = "「특별한 대책을 세우는 게 아니라 현재의 서비스를 유지하거나 향상해 나가는 것도 하나의 방법이라고 봅니다.」"
+
+[[dialogue]]
+speaker = "モネ"
+original = "「な、なるほど……」"
+translation = "「그, 그렇군요……」"
+
+[[dialogue]]
+speaker = "モネ"
+original = "「…………」"
+translation = "「…………」"
+
+[[dialogue]]
+speaker = "モネ"
+original = "「今図書館を利用している人が満足していれば、確かにそれでいいのかもしれません」"
+translation = "「지금 도서관을 이용하는 사람이 만족하고 있다면 확실히 그걸로 충분할지도 몰라요.」"
+
+[[dialogue]]
+speaker = "モネ"
+original = "「でも私のエゴだとしても、もっと多くの人に図書館に来てもらいたいです」"
+translation = "「하지만 제 욕심일지라도 더 많은 분이 도서관에 와주셨으면 해요.」"
+
+[[dialogue]]
+speaker = "モネ"
+original = "「私はとても本の多い家で育ちました」"
+translation = "「저는 책이 아주 많은 집에서 자랐어요.」"
+
+[[dialogue]]
+speaker = "モネ"
+original = "「いつも書斎でおじいちゃんと本を読んでいて……おじいちゃんが亡くなってからも、本たちはずっと一緒にいてくれました」"
+translation = "「항상 서재에서 할아버지와 책을 읽었고…… 할아버지가 돌아가신 뒤에도 책들은 계속 함께해주었어요.」"
+
+[[dialogue]]
+speaker = "モネ"
+original = "「私にとって本は友達なんです。だから寂しがっている友達を見ていられなくて……もっともっと、みんなに本を手に取ってほしいんです！」"
+translation = "「저에게 책은 친구예요. 그래서 외로워하고 있는 친구들을 보고 있을 수가 없어서…… 더 많이, 모두가 책을 손에 들어줬으면 좋겠어요!」"
+
+[[dialogue]]
+speaker = "モネ"
+original = "「──って、すみません！\u3000せっかくご意見いただいたのに、私ったらつい……」"
+translation = "「──라니, 죄송해요! 기껏 의견 주셨는데 저도 모르게 그만……」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「ふふふ～♪\u3000モネちゃんは本をとても大事にしているのね～。いいと思うわ～」"
+translation = "「후후후~♪ 모네짱은 책을 무척 아끼는구나~. 좋다고 생각해~」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「しかしモネ先輩の理想を実現するには今までにない作戦が必要。それこそ逆転の発想と言えるような何かが」"
+translation = "「하지만 모네 선배의 이상을 실현하려면 지금까지 없었던 작전이 필요. 그야말로 역발상이라고 할 만한 무언가가.」"
+
+[[dialogue]]
+speaker = "モネ"
+original = "「作戦……逆転の発想……」"
+translation = "「작전…… 역발상……」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「ところでイクシーちゃんは何をしてるの～？」"
+translation = "「그건 그렇고 익실짱은 뭐 하고 있니~?」"
+
+[[dialogue]]
+speaker = "イクシリオン"
+original = "「ううむ……まだ小腹が空いているような……購買でおやつを買うのもいいですが、学園の外に出るのもアリですね」"
+translation = "「으음…… 아직 배가 좀 고픈 듯한…… 매점에서 간식을 사는 것도 좋지만 학원 밖으로 나가는 것도 방법이겠네요.」"
+
+[[dialogue]]
+speaker = "モネ"
+original = "「外に出る……外に……」"
+translation = "「밖으로 나간다…… 밖으로……」"
+
+[[dialogue]]
+speaker = "モネ"
+original = "「！\u3000ちょっと思いついたかもしれません！」"
+translation = "「! 어쩌면 좋은 생각이 떠오른 것 같아요!」"
+

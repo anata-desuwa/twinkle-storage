@@ -1,0 +1,495 @@
+[[dialogue]]
+speaker = "unk"
+original = "犯罪組織ユゴスによるリゾート結界の襲撃事件。"
+translation = "범죄 조직 유고스에 의한 리조트 결계 습격 사건."
+
+[[dialogue]]
+speaker = "unk"
+original = "果たしてそれは、公に知られることがないまま、公安委員会の手によって秘密裏に処理された。"
+translation = "결국 그것은 외부에 알려지는 일 없이 공안위원회의 손에 의해 비밀리에 처리되었다."
+
+[[dialogue]]
+speaker = "unk"
+original = "確保された主犯の異東ヤハト及びミュータントたちは、公安委員会の地下施設に移送され、これから順次取り調べを行っていくことになるという。"
+translation = "확보된 주범 이토 야하토 및 뮤턴트들은 공안위원회 지하 시설로 이송되어 앞으로 순차적으로 조사를 진행하게 될 것이라고 한다."
+
+[[dialogue]]
+speaker = "リコリンフィア"
+original = "「とまぁ、ユゴスの連中を無事、裏方の職員たちに引き渡し終えたところで――」"
+translation = "「뭐 그렇게 유고스 녀석들을 무사히 뒷수습 직원들에게 인계하고 난 참에──」"
+
+[[dialogue]]
+speaker = "リコリンフィア"
+original = "「ひとまず、ここに集っている公安委員会のエージェントたちには、本部長権限をもって、一時の休息を許可する！」"
+translation = "「일단 여기 모여 있는 공안위원회 에이전트들에게는 본부장 권한으로 일시 휴식을 허가한다!」"
+
+[[dialogue]]
+speaker = "リコリンフィア"
+original = "「総員、飲み物は持ったか？」"
+translation = "「총원, 음료수는 챙겼나?」"
+
+[[dialogue]]
+speaker = "リコリンフィア"
+original = "「それでは――乾杯！」"
+translation = "「그러면── 건배!」"
+
+[[dialogue]]
+speaker = "全員"
+original = "「カンパ～イ！！」"
+translation = "「건배~!!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "そうして、俺たちはリコさんの号令で、任務終了のささやかな打ち上げ会を行うことになった。"
+translation = "그렇게 우리들은 리코 씨의 구호로 임무 종료의 소박한 뒤풀이 파티를 열게 되었다."
+
+[[dialogue]]
+speaker = "unk"
+original = "俺は公安委員会のメンバーに挨拶とお礼をして回りながら、その中でも一際目立つ人物に声をかける。"
+translation = "나는 공안위원회 멤버들에게 인사와 감사를 전하며 돌아다니다가 그중에서도 유독 눈에 띄는 인물에게 말을 건다."
+
+[[dialogue]]
+speaker = "ミネコ"
+original = "「あっ、会長～、お疲れ～♪」"
+translation = "「앗, 회장~, 수고했어~♪」"
+
+[[dialogue]]
+speaker = "unk"
+original = "それは、能力の『<ruby>情報改竄<rt>じょうほうかいざん</rt></ruby>』で周囲には怪盗紳士に見えるようにしつつ参加しているミネコであった。"
+translation = "그것은 능력인 『정보 개찬』으로 주변에는 괴도 신사로 보이게끔 하며 참가하고 있는 미네코였다."
+
+[[dialogue]]
+speaker = "ミネコ"
+original = "「ちょっと待ってね、会長にだけは姿が見えるようにするから」"
+translation = "「잠깐만 기다려 봐, 회장한테만은 모습이 보이게 할 테니까.」"
+
+[[dialogue]]
+speaker = "unk"
+original = "小声でそう言うと、パチンと指を弾き、ミネコの姿が鮮明になる。"
+translation = "작은 목소리로 그렇게 말하고는 딱 하고 손가락을 튕기자 미네코의 모습이 선명해진다."
+
+[[dialogue]]
+speaker = "ミネコ"
+original = "「ほいっと♪」"
+translation = "「쨔잔♪」"
+
+[[dialogue]]
+speaker = "unk"
+original = "今回は協力してくれてありがとう"
+translation = "이번에 협력해 줘서 고마워."
+
+[[dialogue]]
+speaker = "ミネコ"
+original = "「あははっ、別にお礼を言われることじゃないよ。元々は協力する気なんて全然なかったし」"
+translation = "「아하하, 딱히 고맙다는 말을 들을 일은 아니야. 원래는 협력할 마음 따위 전혀 없었으니까.」"
+
+[[dialogue]]
+speaker = "ミネコ"
+original = "「さっきも言ってたけど、今回はマインの交渉術にまんまとしてやられちゃっただけだから」"
+translation = "「방금도 말했지만 이번에는 마인의 교섭술에 보기 좋게 넘어가 버린 것뿐이라서.」"
+
+[[dialogue]]
+speaker = "ネーゼマイン"
+original = "「おや？\u3000私のことを呼んだかな～？」"
+translation = "「어라? 나를 불렀나~?」"
+
+[[dialogue]]
+speaker = "ミネコ"
+original = "「おっ、来たな、可愛い子ちゃんな顔して腹黒な小悪魔天使め」"
+translation = "「오, 왔구나. 귀여운 얼굴을 해가지고는 속이 검은 소악마 천사 녀석.」"
+
+[[dialogue]]
+speaker = "ネーゼマイン"
+original = "「にひひ♪\u3000酷いな～」"
+translation = "「니히히♪ 너무하네~」"
+
+[[dialogue]]
+speaker = "ネーゼマイン"
+original = "「ん？\u3000――どんな交渉をして、大怪盗に協力してもらったのかって？\u3000それはね～」"
+translation = "「응? ──어떤 교섭을 해서 대괴도에게 협력을 받았냐고? 그건 말이지~」"
+
+[[dialogue]]
+speaker = "unk"
+original = "以前行われたバトルフェスタ・ペンタグラムで、ミネコと友人になったマイン。"
+translation = "이전에 열렸던 배틀 페스타 펜타그램에서 미네코와 친구가 된 마인."
+
+[[dialogue]]
+speaker = "unk"
+original = "今回の事件でクロトに声を掛けるよりも先に、彼女はミネコを呼び出して――"
+translation = "이번 사건에서 쿠로토에게 말을 걸기보다 먼저 그녀는 미네코를 불러내어──"
+
+[[dialogue]]
+speaker = "ミネコ"
+original = "「大怪盗の私が、ユゴスに潜入……？\u3000それ、本気で言ってる？」"
+translation = "「대괴도인 내가 유고스에 잠입……? 그거 진심으로 하는 소리야?」"
+
+[[dialogue]]
+speaker = "ネーゼマイン"
+original = "「うん、相手がすごく慎重で、うちの本部長がどうしたもんかと悩んでてさ～」"
+translation = "「응, 상대가 엄청 신중해서 우리 본부장이 어떻게 할까 고민하고 있더라고~」"
+
+[[dialogue]]
+speaker = "ネーゼマイン"
+original = "「そこで、ミネコのチートな情報改竄能力なら、何とかなるんじゃないと思ったわけ♪」"
+translation = "「그래서 미네코의 치트급 정보 개찬 능력이라면 어떻게든 되지 않을까 생각한 거지♪」"
+
+[[dialogue]]
+speaker = "ネーゼマイン"
+original = "「で、潜入して敵の情報をこっちに伝えて貰う代わりに、報酬は連中が隠し持ってるポイズナイトでどう？」"
+translation = "「그래서 잠입해서 적의 정보를 이쪽에 전해주는 대신, 보수는 녀석들이 숨겨두고 있는 포이즈나이트로 어때?」"
+
+[[dialogue]]
+speaker = "ミネコ"
+original = "「なるほど、確かにポイズナイトは魅力的なお宝だね――」"
+translation = "「과연, 확실히 포이즈나이트는 매력적인 보물이긴 하네──」"
+
+[[dialogue]]
+speaker = "ミネコ"
+original = "「でも、断る」"
+translation = "「하지만 거절하겠어.」"
+
+[[dialogue]]
+speaker = "ネーゼマイン"
+original = "「ありゃ、それはどうして？」"
+translation = "「어라라, 그건 어째서?」"
+
+[[dialogue]]
+speaker = "ミネコ"
+original = "「私には、大怪盗としての誇りがあるからね。ポイズナイトを盗みこそすれ、公安委員会の手伝いはしない」"
+translation = "「나에겐 대괴도로서의 긍지가 있으니까. 포이즈나이트를 훔칠지언정, 공안위원회를 돕지는 않아.」"
+
+[[dialogue]]
+speaker = "ミネコ"
+original = "「それは決して、<b>ロマン</b>ある盗みじゃない」"
+translation = "「그건 결코, <b>로망</b>이 있는 도둑질이 아니거든.」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ミネコの真っ直ぐな視線を受けて、ネーゼマインは肩をすくめて笑ってみせる。"
+translation = "미네코의 곧은 시선을 받으며, 네제마인은 어깨를 으쓱하며 웃어 보였다."
+
+[[dialogue]]
+speaker = "ネーゼマイン"
+original = "「そうか～、交渉失敗か～。いや～、残念。なら、仕方ないよね～」"
+translation = "「그래~? 교섭 실패인가~. 에구~ 아쉬워라. 그럼 어쩔 수 없네~」"
+
+[[dialogue]]
+speaker = "ネーゼマイン"
+original = "「――潔く、もう１人の大怪盗、ルパンに頼んでみることにするよ」"
+translation = "「──깔끔하게, 또 한 명의 대괴소, 루팡에게 부탁해 보기로 할게.」"
+
+[[dialogue]]
+speaker = "ミネコ"
+original = "「え」"
+translation = "「에.」"
+
+[[dialogue]]
+speaker = "ネーゼマイン"
+original = "「あなたの優秀な娘さんでも無理って言っちゃうくらいの難しい潜入先だから、どうか協力して貰えませんか～、ってね。にひひ♪」"
+translation = "「당신의 우수한 따님이라도 무리라고 할 정도의 어려운 잠입처니까, 부디 협력해 주지 않겠느냐고~ 말이야. 니히히♪」"
+
+[[dialogue]]
+speaker = "unk"
+original = "頬杖をつきながら、楽しそうな笑みを浮かべるマイン。"
+translation = "턱을 괴고서 즐거운 듯한 미소를 띄우는 마인."
+
+[[dialogue]]
+speaker = "ミネコ"
+original = "「……！\u3000マイン、キミは……！」"
+translation = "「……! 마인, 너는……!」"
+
+[[dialogue]]
+speaker = "ネーゼマイン"
+original = "「ゴメンね～。ほら、私も仕事だからさ～」"
+translation = "「미안해~. 봐봐, 나도 일이니까 말이야~」"
+
+[[dialogue]]
+speaker = "ネーゼマイン"
+original = "「断られちゃったら、他を探さなきゃいけないじゃん？」"
+translation = "「거절당하면 다른 곳을 찾아봐야 하잖아?」"
+
+[[dialogue]]
+speaker = "ネーゼマイン"
+original = "「となると、必然的に……ねぇ？」"
+translation = "「그렇게 되면 필연적으로…… 그치?」"
+
+[[dialogue]]
+speaker = "ネーゼマイン"
+original = "「ミネコの家族関係を知っている以上、ルパンのおじ様も交渉相手の１人として、どうしても候補に上がっちゃうんだよね～」"
+translation = "「미네코의 가족 관계를 알고 있는 이상, 루팡 아저씨도 교섭 상대 중 한 명으로서 아무래도 후보에 오르게 된단 말이지~」"
+
+[[dialogue]]
+speaker = "ネーゼマイン"
+original = "「だけど、私としてはやっぱり、仲の良い友達の方を贔屓したいじゃん？」"
+translation = "「하지만 나로서는 역시 사이좋은 친구 쪽을 편애하고 싶단 말이야?」"
+
+[[dialogue]]
+speaker = "ネーゼマイン"
+original = "「ルパンよりも、大怪盗フランボウが活躍してくれる方をさ♪」"
+translation = "「루팡보다는 대괴도 플랑보가 활약해 주는 쪽을 말이지♪」"
+
+[[dialogue]]
+speaker = "ミネコ"
+original = "「っ…………」"
+translation = "「윽…………」"
+
+[[dialogue]]
+speaker = "ミネコ"
+original = "「ふっ、ふふっ――」"
+translation = "「훗, 후후──」"
+
+[[dialogue]]
+speaker = "ミネコ"
+original = "「参った……とんだクソゲーだ……！」"
+translation = "「당했네…… 완전 망겜이야……!」"
+
+[[dialogue]]
+speaker = "ミネコ"
+original = "「舐めていたよ、立朽ネーゼマイン」"
+translation = "「얕보고 있었어, 타치쿠치 네제마인.」"
+
+[[dialogue]]
+speaker = "ミネコ"
+original = "「キミは私が想像していたよりずっと、恐ろしい<ruby>交渉人<rt>ネゴシエイター</rt></ruby>だ」"
+translation = "「너는 내가 상상했던 것보다 훨씬 더 무서운 교섭인이야.」"
+
+[[dialogue]]
+speaker = "ネーゼマイン"
+original = "「キャハハハ♪\u3000大怪盗に褒められて光栄だよ♪」"
+translation = "「캬하하하♪ 대괴도에게 칭찬받다니 영광인걸♪」"
+
+[[dialogue]]
+speaker = "ミネコ"
+original = "「とまぁ、そんな感じで……全く、悪どい正義の味方だよ」"
+translation = "「뭐, 그런 느낌으로…… 정말이지, 지독한 정의의 사도라니까.」"
+
+[[dialogue]]
+speaker = "ネーゼマイン"
+original = "「にひひ♪\u3000それが公安委員会ってやつだからね～」"
+translation = "「니히히♪ 그게 공안위원회라는 거니까~」"
+
+[[dialogue]]
+speaker = "ネーゼマイン"
+original = "「というわけで、また次の機会があったらよろしくね、大怪盗さん♪」"
+translation = "「그런 고로, 다음에 또 기회가 있으면 잘 부탁해, 대괴도 씨♪」"
+
+[[dialogue]]
+speaker = "unk"
+original = "マインが紙コップを差し出しながら言う。"
+translation = "마인이 종이컵을 내밀며 말한다."
+
+[[dialogue]]
+speaker = "ミネコ"
+original = "「冗談じゃない。同じクソゲーなら、次は攻略してみせるよ、<ruby>交渉人<rt>ネゴシエイター</rt></ruby>」"
+translation = "「농담 마. 같은 망겜이라면 다음엔 공략해 주겠어, 교섭인.」"
+
+[[dialogue]]
+speaker = "unk"
+original = "そう言いつつも、ミネコも紙コップを差し出して、コツンと<ruby>縁<rt>ふち</rt></ruby>をぶつけてみせるのだった――"
+translation = "그렇게 말하면서도 미네코도 종이컵을 내밀어 툭 하고 가장자리를 부딪쳐 보였다──"
+
+[[dialogue]]
+speaker = "unk"
+original = "それからまた、他の公安委員会の面々に声をかけて周って、その後、母さんを見つけて声をかける。"
+translation = "그 뒤로 또 다른 공안위원회 면면들에게 말을 걸고 다닌 뒤, 어머니를 발견해 말을 건다."
+
+[[dialogue]]
+speaker = "リノ"
+original = "「――あら、クロト。みんなとは話してきたの？」"
+translation = "「──어머, 쿠로토. 다들 하고는 얘기하고 왔니?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "母さんも今回はありがとう"
+translation = "어머니도 이번에 고마워요."
+
+[[dialogue]]
+speaker = "リノ"
+original = "「ふふっ、可愛い息子を守るのは、母親なら当たり前のことよ」"
+translation = "「후후, 귀여운 아들을 지키는 건 엄마라면 당연한 일인걸.」"
+
+[[dialogue]]
+speaker = "リノ"
+original = "「――え？\u3000何かお礼がしたいって？」"
+translation = "「──어? 뭔가 보답을 하고 싶다고?」"
+
+[[dialogue]]
+speaker = "リノ"
+original = "「そうね～。なら、たまにはお母さんと休日に、またデートをして欲しいわ♪」"
+translation = "「글쎄~. 그럼 가끔은 엄마랑 휴일에 다시 데이트를 해줬으면 좋겠어♪」"
+
+[[dialogue]]
+speaker = "リノ"
+original = "「親子水入らずで。どう？」"
+translation = "「모자 단둘이서만. 어때?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "喜んで"
+translation = "기꺼이요."
+
+[[dialogue]]
+speaker = "unk"
+original = "俺が頷いて答えると、母さんは嬉しそうに笑って――"
+translation = "내가 고개를 끄덕이며 대답하자 엄마는 기쁜 듯이 웃으며──"
+
+[[dialogue]]
+speaker = "リノ"
+original = "「ふふっ、お母さんとの約束よ♪」"
+translation = "「후후, 엄마랑 약속한 거다♪」"
+
+[[dialogue]]
+speaker = "リノ"
+original = "「あっ！\u3000そうだわ。お母さん、デートの他にも海でしてみたかったことがあって～」"
+translation = "「앗! 맞다. 엄마, 데이트 말고도 바다에서 해보고 싶었던 게 있어서~」"
+
+[[dialogue]]
+speaker = "リノ"
+original = "「ほら、マインちゃんがこの前、サンオイルを塗ってたでしょ～？\u3000私、久しぶりにあれをお願いしたいわ♪」"
+translation = "「봐봐, 마인짱이 저번에 선오일을 바르고 있었지~? 나, 오랜만에 그걸 부탁하고 싶어♪」"
+
+[[dialogue]]
+speaker = "unk"
+original = "それはちょっと恥ずかしいかも……"
+translation = "그건 좀 부끄러울지도……"
+
+[[dialogue]]
+speaker = "リノ"
+original = "「え～？\u3000なんで～？\u3000昔、クロトが小さい時に海に出かけて、お母さんに塗ってくれたことあったじゃな～い」"
+translation = "「에~? 왜~? 옛날에 쿠로토가 어릴 때 바다에 가서 엄마한테 발라준 적 있었잖~니.」"
+
+[[dialogue]]
+speaker = "リノ"
+original = "「成長しても、親子なんだから恥ずかしがらなくて大丈夫よ。ねぇ、久しぶりにお願～い♪」"
+translation = "「성장했어도 가족이니까 부끄러워하지 않아도 괜찮아. 응? 오랜만에 부탁해~♪」"
+
+[[dialogue]]
+speaker = "リノ"
+original = "「――いいの？\u3000ふふっ、優しい息子でお母さん嬉しいわ♪\u3000その時は、お母さんもクロトに塗ってあげるわね♪」"
+translation = "「──괜찮니? 후후, 착한 아들이라 엄마는 기쁘단다♪ 그때는 엄마도 쿠로토에게 발라줄게♪」"
+
+[[dialogue]]
+speaker = "リコリンフィア"
+original = "「全く……相変わらず、恋人のようなイチャイチャっぷりだな、リノ」"
+translation = "「정말이지…… 여전히 연인처럼 꽁냥대는구나, 리노.」"
+
+[[dialogue]]
+speaker = "リノ"
+original = "「あら、リコ。ふふっ、いいでしょ～♪\u3000羨ましい？」"
+translation = "「어머, 리코. 후후, 부럽지~♪ 샘나니?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "リコさんも、ありがとうございました"
+translation = "리코 씨도 감사했습니다."
+
+[[dialogue]]
+speaker = "リコリンフィア"
+original = "「こちらこそ協力に感謝する、少年。キミのおかげでユゴスの幹部をついに捕らえることができた」"
+translation = "「나야말로 협력해줘서 고맙다, 소년. 너 덕분에 유고스의 간부를 마침내 붙잡을 수 있었다.」"
+
+[[dialogue]]
+speaker = "リコリンフィア"
+original = "「そして、キミを囮にしたことに関しては、心から謝罪する。申し訳なかった」"
+translation = "「그리고 너를 미끼로 쓴 것에 관해서는 진심으로 사과하마. 미안했다.」"
+
+[[dialogue]]
+speaker = "unk"
+original = "俺は首を横に振る。自分で協力すると決めたのだから、そこに関して俺は、何も思うところはない。"
+translation = "나는 고개를 저었다. 스스로 협력하기로 결정한 것이기에 그 부분에 대해 나는 아무런 불만이 없다."
+
+[[dialogue]]
+speaker = "リコリンフィア"
+original = "「そうか。ふっ……少年はマインが言っていた通り、本当にお人好しだな」"
+translation = "「그런가. 훗…… 소년은 마인이 말한 대로 정말로 사람이 좋구나.」"
+
+[[dialogue]]
+speaker = "unk"
+original = "リコさんも、素敵な大人です"
+translation = "리코 씨도 멋진 어른이에요."
+
+[[dialogue]]
+speaker = "リコリンフィア"
+original = "「ほう、そんな褒め方をすると、お姉さん、ますます少年のことを気に入ってしまうぞ？\u3000ふふっ」"
+translation = "「호오, 그렇게 칭찬하면 이 누님은 점점 소년이 마음에 들어버린다고? 후후.」"
+
+[[dialogue]]
+speaker = "リコリンフィア"
+original = "「まあ、とりあえず、顔見知りになった以上、これから学園で会う機会も増えるだろう。その時は――」"
+translation = "「뭐, 일단 안면을 튼 이상 앞으로 학원에서 만날 기회도 늘어나겠지. 그때는──」"
+
+[[dialogue]]
+speaker = "リコリンフィア"
+original = "「附属生の後輩として、リコリンのこともよろしくね、お兄ちゃん♪」"
+translation = "「부속생 후배로서 리코린도 잘 부탁해, 오빠♪」"
+
+[[dialogue]]
+speaker = "リコリンフィア"
+original = "「てへっ♪」"
+translation = "「데헷♪」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ちょっとだけリコリンになり切ってみせた後、リコさんは再び大人のお姉さんの顔に戻って――"
+translation = "잠시 리코린 흉내를 내 보인 뒤, 리코 씨는 다시 성숙한 누님의 얼굴로 돌아와서──"
+
+[[dialogue]]
+speaker = "リコリンフィア"
+original = "「――さてと」"
+translation = "「──자, 그럼.」"
+
+[[dialogue]]
+speaker = "リコリンフィア"
+original = "「公安委員会エージェントの諸君、注目～！」"
+translation = "「공안위원회 에이전트 여러분, 주목~!」"
+
+[[dialogue]]
+speaker = "リコリンフィア"
+original = "「さっき買い出しに行った時、花火を買い込んできたから、みんなでやるぞ～！」"
+translation = "「아까 장 보러 갔을 때 불꽃놀이 세트를 잔뜩 사 왔으니까 다 같이 하자~!」"
+
+[[dialogue]]
+speaker = "せつな"
+original = "「おぉ～～～♪\u3000さすがは本部長殿にござる！」"
+translation = "「오오~~~♪ 과연 본부장님이시오!」"
+
+[[dialogue]]
+speaker = "シアン"
+original = "「花火とか、もう長いことやってないな」"
+translation = "「불꽃놀이라니, 정말 오랫동안 안 해봤네.」"
+
+[[dialogue]]
+speaker = "セナリィ"
+original = "「そういえば私も、花火は生まれて１度もやったことがありませんわね」"
+translation = "「그러고 보니 저도 불꽃놀이는 태어나서 한 번도 해본 적이 없어요.」"
+
+[[dialogue]]
+speaker = "ミネコ"
+original = "「えっ、そうなの？\u3000ならば、私がやり方を教えてあげよう！」"
+translation = "「엣, 그래? 그렇다면 내가 하는 법을 가르쳐 주지!」"
+
+[[dialogue]]
+speaker = "ネーゼマイン"
+original = "「きゃはははっ☆\u3000怪盗紳士の姿だと、めっちゃシュールなんだけど！」"
+translation = "「캬하하하☆ 괴도 신사 모습으로 그러니까 엄청 슈르한데!」"
+
+[[dialogue]]
+speaker = "リノ"
+original = "「ふふっ、お母さんもみんなと一緒にしていいかしら？」"
+translation = "「후후, 엄마도 다들 하고 같이 해도 될까?」"
+
+[[dialogue]]
+speaker = "ミネコ"
+original = "「ええ、もちろん！\u3000美しき魔女様、この大怪盗フランボウがエスコート致しましょう。ささ、どうぞこちらへ♪」"
+translation = "「네, 물론이죠! 아름다운 마녀님, 이 대괴도 플랑보가 에스코트해 드리겠습니다. 자자, 이쪽으로♪」"
+
+[[dialogue]]
+speaker = "リノ"
+original = "「あら、怪盗紳士さん、お上手♪\u3000よろしくね♪」"
+translation = "「어머, 괴도 신사님, 솜씨가 좋네♪ 잘 부탁해♪」"
+
+[[dialogue]]
+speaker = "unk"
+original = "それから、俺は母さんや大怪盗、公安委員会の面々と、楽しく花火で盛り上がるのだった――"
+translation = "그 뒤로 나는 엄마와 대괴도, 공안위원회 면면들과 즐겁게 불꽃놀이로 흥을 돋웠다──"
+

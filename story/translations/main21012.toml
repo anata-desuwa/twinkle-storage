@@ -1,0 +1,255 @@
+[[dialogue]]
+speaker = "unk"
+original = "第１２話,使徒,B"
+translation = "제12화, 사도, B"
+
+[[dialogue]]
+speaker = "グレイス"
+original = "「うぅ……うっ……ひくっ……」"
+translation = "「으으…… 윽…… 히끅……」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「泣いちゃった！？\u3000あなた、大丈夫なの！？」"
+translation = "「울어버렸어!? 너, 괜찮은 거야!?」"
+
+[[dialogue]]
+speaker = "グレイス"
+original = "「ほ、ほっといてください！\u3000ただの思い出し泣きですっ！」"
+translation = "「내, 내버려 두세요! 그냥 옛날 생각이 나서 우는 것뿐이에요!」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「どういうこと？」"
+translation = "「무슨 소리야?」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「まぁ、もう戦えないみたいだし、今はそっとしておこう」"
+translation = "「뭐, 이제 싸울 수 없는 것 같으니 지금은 가만히 놔두자.」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ひとまず極星星徒会の１人を無力化できた。"
+translation = "일단 극성성도회 중 한 명을 무력화했다."
+
+[[dialogue]]
+speaker = "unk"
+original = "あとは仲間の安否と、レティシアがどうなっているかが気になる。"
+translation = "남은 것은 동료들의 안위와 레티시아가 어떻게 되었는지가 신경 쓰인다."
+
+[[dialogue]]
+speaker = "ナターシャ"
+original = "「あ、もう終わってる感じ？」"
+translation = "「아, 벌써 끝난 분위기네?」"
+
+[[dialogue]]
+speaker = "メルエル"
+original = "「ナターシャちゃん！\u3000無事でよかった！」"
+translation = "「나타샤짱! 무사해서 다행이야!」"
+
+[[dialogue]]
+speaker = "ナターシャ"
+original = "「メルエルもね。極星星徒会を倒すなんて大手柄じゃん」"
+translation = "「메르엘도 말이야. 극성성도회를 쓰러뜨리다니 큰 공인데?」"
+
+[[dialogue]]
+speaker = "メルエル"
+original = "「ううん、会長くんと力を合わせたからだよ」"
+translation = "「아니에요, 회장님과 힘을 합쳤으니까요.」"
+
+[[dialogue]]
+speaker = "メルエル"
+original = "「でもありがとう。天使の１人として、女神様の神殿を守ることができたよ」"
+translation = "「그래도 고마워요. 천사 중 한 명으로서 여신님의 신전을 지킬 수 있었어요.」"
+
+[[dialogue]]
+speaker = "unk"
+original = "無事を喜び合うメルエルとナターシャ。"
+translation = "무사를 기뻐하는 메르엘과 나타샤."
+
+[[dialogue]]
+speaker = "unk"
+original = "だけどナターシャと一緒にやってきた梨緒は、ひどく暗い顔をしていた。"
+translation = "하지만 나타샤와 함께 온 리오는 몹시 어두운 표정을 짓고 있었다."
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「すまない……役に立てなかった」"
+translation = "「미안하다…… 도움이 되지 못했어.」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「いや、それはいいんだが……」"
+translation = "「아니, 그건 괜찮다만……」"
+
+[[dialogue]]
+speaker = "ナターシャ"
+original = "（ごめん、今はほっといてあげて。途中でガーディアンにやられたんだ）"
+translation = "（미안, 지금은 내버려 둬 줘. 도중에 가디언에게 당했거든）"
+
+[[dialogue]]
+speaker = "クロト"
+original = "（……わかった）"
+translation = "（……알았어）"
+
+[[dialogue]]
+speaker = "unk"
+original = "梨緒は明らかに平静な状態ではなかったが、今はかける言葉がなさそうだった。"
+translation = "리오는 분명히 평온한 상태가 아니었지만, 지금은 해줄 말이 없어 보였다."
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「大丈夫か、みんな！？」"
+translation = "「다들 괜찮아!?」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「アポロも無事だったのね！」"
+translation = "「아폴로도 무사했구나!」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「こっちはクロトとメルエルと一緒にグレイスを止めたわ。ナターシャと梨緒も合流したところよ」"
+translation = "「이쪽은 쿠로토랑 메르엘이랑 같이 그레이스를 막았어. 나타샤와 리오도 막 합류한 참이야.」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「そっか、じゃあみんな無事なんだな。あたしはベアトと一緒にレティシアを倒したぞ」"
+translation = "「그렇구나, 다들 무사해서 다행이네. 아타시는 베아토랑 같이 레티시아를 쓰러뜨렸어.」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「チナが力を貸してくれて、なんとかなったんだ」"
+translation = "「치나가 힘을 빌려줘서 어떻게든 됐지.」"
+
+[[dialogue]]
+speaker = "グレイス"
+original = "「チナが！？\u3000ここにいるんですか！？」"
+translation = "「치나가!? 여기 있는 건가요!?」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「ああ。ルヴィネの気持ちを確かめるって言ってな」"
+translation = "「어. 루비네의 진심을 확인하겠다고 하더군.」"
+
+[[dialogue]]
+speaker = "グレイス"
+original = "「そう……ですか」"
+translation = "「그렇……군요.」"
+
+[[dialogue]]
+speaker = "unk"
+original = "チナがアルタイル側についたと聞き、落ち込む様子を見せるグレイス。"
+translation = "치나가 알타이르 편에 섰다는 말을 듣고 낙담하는 기색을 보이는 그레이스."
+
+[[dialogue]]
+speaker = "unk"
+original = "だけど今ならチナと直接話すこともできる。"
+translation = "하지만 지금이라면 치나와 직접 이야기할 수도 있다."
+
+[[dialogue]]
+speaker = "unk"
+original = "落ち着いて話せば、きっと分かり合えると思う。"
+translation = "진정하고 대화하면 분명 서로 이해할 수 있을 것이다."
+
+[[dialogue]]
+speaker = "クロト"
+original = "「極星星徒会の２人を無力化できたし、みんなのおかげで女神の神殿を守ることができた」"
+translation = "「극성성도회 두 명을 무력화했고, 모두 덕분에 여신의 신전을 지킬 수 있었어.」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「だけど守護天使の神殿も守らないといけない。一旦聖庭園に帰還して──」"
+translation = "「하지만 수호천사의 신전도 지켜야 해. 일단 성정원으로 귀환해서──」"
+
+[[dialogue]]
+speaker = "ジグ"
+original = "「おや、もうステージはお終いかい？」"
+translation = "「이런, 벌써 스테이지는 끝인 건가?」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「──！？」"
+translation = "「──!?」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「ジグ……！？」"
+translation = "「지그……!?」"
+
+[[dialogue]]
+speaker = "ジグ"
+original = "「やぁ、こうして会うのは久しぶりだね、星騎士の諸君」"
+translation = "「안녕, 이렇게 만나는 건 오랜만이네, 성기사 제군들.」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「……っ！？\u3000なんだ、力が抜ける……！？」"
+translation = "「……윽!? 뭐야, 힘이 빠져나간다……!?」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「何、これ……ちょっと体が重いんだけど……」"
+translation = "「뭐야, 이거…… 좀 몸이 무거운데……」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「ぐぅぅっ……ぐぬぬ……」"
+translation = "「구우우윽…… 으으으……」"
+
+[[dialogue]]
+speaker = "メルエル"
+original = "「体が……うご、かない……」"
+translation = "「몸이…… 움직이지, 않아……」"
+
+[[dialogue]]
+speaker = "unk"
+original = "神殿に光が走った瞬間、俺とヴィーナス、アポロ、メルエルがその場に膝をつく。"
+translation = "신전에 빛이 달린 순간, 나와 비너스, 아폴로, 메르엘이 그 자리에 무릎을 꿇는다."
+
+[[dialogue]]
+speaker = "unk"
+original = "星力が勝手に放出されてしまって、うまく体に力が入らない。"
+translation = "성력이 멋대로 방출되어 버려서 몸에 제대로 힘이 들어가지 않는다."
+
+[[dialogue]]
+speaker = "ジグ"
+original = "「神殿の仕掛けに細工させてもらったんだ。どうだい、戦ったばかりだからリラックスにはちょうどいいだろう？」"
+translation = "「신전 장치에 손을 좀 써뒀거든. 어때, 방금 싸웠으니 휴식하기엔 딱 좋지?」"
+
+[[dialogue]]
+speaker = "グレイス"
+original = "「何が起こっているんですか！？\u3000私は何も感じないんですけど！？」"
+translation = "「무슨 일이 일어난 건가요!? 저는 아무렇지도 않은데요!?」"
+
+[[dialogue]]
+speaker = "ナターシャ"
+original = "「多分、魔王関係者にしか効かない仕掛けじゃないかな。他にも魔王対策の罠があったし」"
+translation = "「아마 마왕 관계자에게만 듣는 장치 아닐까. 그 밖에도 마왕 대책 함정이 있었고.」"
+
+[[dialogue]]
+speaker = "メルエル"
+original = "（えっ……！？\u3000魔王対策ならどうして私にも効いてるの……！？）"
+translation = "（엣……!? 마왕 대책이라면 왜 나한테도 듣는 거야……!?）"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「！？\u3000女神の神殿が揺れて……いや、動いている！？」"
+translation = "「!? 여신의 신전이 흔들리고…… 아니, 움직이고 있어!?」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「何をした、ジグ！？」"
+translation = "「무슨 짓을 한 거야, 지그!?」"
+
+[[dialogue]]
+speaker = "ジグ"
+original = "「神殿の機能をいじって行き先を設定させてもらったんだ」"
+translation = "「신전의 기능을 만져서 목적지를 설정해 뒀지.」"
+
+[[dialogue]]
+speaker = "ジグ"
+original = "「女神の神殿はもうすぐ──聖庭園に衝突するよ」"
+translation = "「여신의 신전은 곧── 성정원에 충돌할 거야.」"
+

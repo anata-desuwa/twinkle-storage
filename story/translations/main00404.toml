@@ -1,0 +1,555 @@
+[[dialogue]]
+speaker = "unk"
+original = "第４話,星徒会の邂逅,B"
+translation = "제4화, 성도회의 해후, B"
+
+[[dialogue]]
+speaker = "ユウリ"
+original = "「フィーオナー……あれ。いねえ」"
+translation = "「피오나ー…… 어라. 없네」"
+
+[[dialogue]]
+speaker = "ニャリオン"
+original = "「おかしいニャンね。何かあったらみんニャに連絡するって言ってたニャンが」"
+translation = "「이상하다냥. 무슨 일 있으면 모두에게 연락한다고 했다냥」"
+
+[[dialogue]]
+speaker = "unk"
+original = "塔のふもとを訪れた流星星徒会。"
+translation = "탑의 기슭을 찾은 유성 성도회."
+
+[[dialogue]]
+speaker = "unk"
+original = "しかし彼女たちの前に、長であるフィオナの姿はなかった。"
+translation = "하지만 그녀들 앞에, 장인 피오나의 모습은 없었다."
+
+[[dialogue]]
+speaker = "ソフィア"
+original = "「私たちが遊んでばかりいるから愛想を尽かされちゃったんじゃ……！\u3000ああフィオナ会長、私は……！」"
+translation = "「저희가 놀기만 하니까 정이 떨어지신 건 아닐지……! 아아 피오나 회장님, 저는……!」"
+
+[[dialogue]]
+speaker = "セーラ"
+original = "「もー、ネガネガしすぎだよソフィアちゃん。フィオナちゃんもそんな子じゃないから」"
+translation = "「모ー, 너무 부정적으로 생각하지 마 소피아짱. 피오나짱도 그런 애 아니니까」"
+
+[[dialogue]]
+speaker = "unk"
+original = "周囲を見渡してフィオナを探す一行。"
+translation = "주위를 둘러보며 피오나를 찾는 일행."
+
+[[dialogue]]
+speaker = "unk"
+original = "そんな折、ルリエルがある集団を発見した。"
+translation = "그러던 중, 루리엘가 어떤 집단을 발견했다."
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「やや……！？\u3000もしや、あそこにいるのは」"
+translation = "「어어……!? 혹시, 저기에 있는 건」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「ん──？\u3000あ！\u3000流星の……！」"
+translation = "「응──? 아! 유성의……!」"
+
+[[dialogue]]
+speaker = "セーラ"
+original = "「新星メンツじゃん♪\u3000どしたの、こんなところで勢揃いなんて奇遇～」"
+translation = "「신성 멤버잖아♪ 왜 그래, 이런 곳에 모두 모여 있다니 우연이네~」"
+
+[[dialogue]]
+speaker = "ユウリ"
+original = "「奇遇つか、向こうも学園長からのオーダー受けてんじゃないすか？」"
+translation = "「우연이라기보단, 저쪽도 학원장한테서 오더 받은 거 아니겠어?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "流星星徒会と新星星徒会。"
+translation = "유성 성도회와 신성 성도회."
+
+[[dialogue]]
+speaker = "unk"
+original = "ぞろぞろと互いに歩み寄ると、それぞれトップの抜けた奇妙な連合体が形成される。"
+translation = "줄줄이 서로에게 다가가자, 각자 탑이 빠진 기묘한 연합체가 형성된다."
+
+[[dialogue]]
+speaker = "ソフィア"
+original = "「……！」"
+translation = "「……!」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「……」"
+translation = "「……」"
+
+[[dialogue]]
+speaker = "unk"
+original = "その合間、わずかに視線を交わした２人にも──まだ気づく者はなく。"
+translation = "그 사이, 희미하게 시선을 마주친 두 사람에게도── 아직 눈치채는 이는 없었다."
+
+[[dialogue]]
+speaker = "アナ"
+original = "「ご無沙汰しています。流星星徒会の皆さま」"
+translation = "「오랜만입니다. 유성 성도회 여러분」"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「そう固くならなくて大丈夫ですよ、アナちゃん！\u3000わたし達は同じ一年生ですから！」"
+translation = "「그렇게 딱딱하게 굴지 않아도 괜찮아요, 아나짱! 저희는 같은 1학년이니까요!」"
+
+[[dialogue]]
+speaker = "ニャリオン"
+original = "「ルリエルはもうちょっと畏まることを覚えるニャン」"
+translation = "「루리엘는 좀 더 공손해지는 걸 배우라냥」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「あはは……みんな相変わらずだね」"
+translation = "「아하하…… 다들 변함없네」"
+
+[[dialogue]]
+speaker = "unk"
+original = "サーシャを除く面々は、既に初対面を終えていたこともあり気さくに打ち解けていた。"
+translation = "사샤를 제외한 멤버들은, 이미 첫 대면을 마쳤던 터라 스스럼없이 친해져 있었다."
+
+[[dialogue]]
+speaker = "unk"
+original = "その様子を興味深げに観察していたサーシャにユウリが声をかける。"
+translation = "그 모습을 흥미롭게 관찰하고 있던 사샤에게 유우리가 말을 건다."
+
+[[dialogue]]
+speaker = "ユウリ"
+original = "「そういや、そっちの魔族の先輩は初めましてだな。あたしは楠葉ユウリっす」"
+translation = "「그러고 보니, 저쪽 마족 선배는 처음 뵙네요. 저는 쿠스하 유우리예요」"
+
+[[dialogue]]
+speaker = "セーラ"
+original = "「うち桐原セーラ♪\u3000３年だから、たぶんタメかな？\u3000あんま絡む機会ないかもしんないけど、ヨロシク～」"
+translation = "「나는 키리하라 세라♪ 3학년이니까, 아마 동갑이려나? 별로 엮일 기회 없을지도 모르겠지만, 잘 부탁해~」"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「ルリエルです！\u3000まだまだ１年生の若輩者でございますゆえ、ビシバシご指導ご弁当のほどよろしくお願いしますです！」"
+translation = "「루리엘입니다! 아직 1학년인 미숙한 몸이오니, 팍팍 지도와 도시락을 부탁드립니다!」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「ご鞭撻」"
+translation = "「편달」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「うふふ、こちらこそ初めまして。私の名前は～……」"
+translation = "「우후후, 저야말로 처음 뵙겠습니다. 제 이름은~……」"
+
+[[dialogue]]
+speaker = "ソフィア"
+original = "「……」"
+translation = "「……」"
+
+[[dialogue]]
+speaker = "ユウリ"
+original = "「？」"
+translation = "「?」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「サーシャよ♪\u3000よろしくね、流星星徒会のみんな～」"
+translation = "「사샤야♪ 잘 부탁해, 유성 성도회 모두~」"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「おおお……！\u3000大人のお姉さんです。色気です。わたしもいつかああなれるでしょうか……！」"
+translation = "「오오오……! 어른스러운 언니입니다. 섹시함입니다. 저도 언젠가 저렇게 될 수 있을까요……!」"
+
+[[dialogue]]
+speaker = "ニャリオン"
+original = "「どう見たって無理ニャン。ついでに言えば中身も追いつく気がしないニャン」"
+translation = "「어떻게 봐도 무리다냥. 덧붙여 말하자면 속 내용도 따라잡을 것 같지 않다냥」"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「うわあん、ばっさりですー！」"
+translation = "「으아앙, 단칼에 거절당했어요ー!」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「……」"
+translation = "「……」"
+
+[[dialogue]]
+speaker = "ユウリ"
+original = "「まーまー気にすんなってルリ。あたしみたいに成長する例もあるぞ」"
+translation = "「마ー마ー 신경 쓰지 마 루리. 나처럼 성장하는 예도 있다구」"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「わ、わたしはユウリ先輩よりは女性らしくありたいと申しますか」"
+translation = "「저, 저는 유우리 선배보다는 여성스럽고 싶다고 할까요」"
+
+[[dialogue]]
+speaker = "ユウリ"
+original = "「おい」"
+translation = "「어이」"
+
+[[dialogue]]
+speaker = "ニャリオン"
+original = "「ニャニャニャ！\u3000ルリエルも言うようになったニャン」"
+translation = "「냐냐냐! 루리엘도 말대꾸를 하게 됐다냥」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「……」"
+translation = "「……」"
+
+[[dialogue]]
+speaker = "unk"
+original = "いつものように賑やかす流星星徒会の生徒たち。"
+translation = "평소처럼 시끌벅적한 유성 성도회 학생들."
+
+[[dialogue]]
+speaker = "unk"
+original = "サーシャはその様子の一角を見つめて呟いた。"
+translation = "사샤는 그 모습의 한쪽을 바라보며 중얼거렸다."
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「……可愛い」"
+translation = "「……귀여워」"
+
+[[dialogue]]
+speaker = "ニャリオン"
+original = "「ニャ？」"
+translation = "「냐?」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「この子……すっごく可愛い！\u3000喋る猫ちゃん！\u3000ねえ何何これ流星学園のマスコット！？」"
+translation = "「이 아이…… 엄청 귀여워! 말하는 고양이짱! 저기 뭐야 뭐야 이거 유성 학원의 마스코트야!?」"
+
+[[dialogue]]
+speaker = "ニャリオン"
+original = "「ニャ……ニャニャニャ！？\u3000ワガハイのことかニャ！？」"
+translation = "「냐…… 냐냐냐!? 나 님을 말하는 거냐!?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "サーシャはニャリオンを抱きかかえると、そのままペットの猫をあやすように喉元をすりすりと撫でた。"
+translation = "사샤는 냐리온을 끌어안고, 그대로 애완 고양이를 달래듯이 목덜미를 살살 쓰다듬었다."
+
+[[dialogue]]
+speaker = "ニャリオン"
+original = "「ニャ、ニャニャぁん……♪\u3000──じゃないニャン！\u3000ワ、ワガハイは偉大なるフィオナ嬢の従者ニャリオ──ニャニャぁん……♪」"
+translation = "「냐, 냐냐앙……♪ ──이 아니다냥! 와, 나 님은 위대하신 피오나 아가씨의 종자 냐리오── 냐냐앙……♪」"
+
+[[dialogue]]
+speaker = "セーラ"
+original = "「ぷ……ニャリオンちゃんが懐柔されてる」"
+translation = "「푸…… 냐리온짱이 회유당하고 있네」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「かわい～～！\u3000こんな子初めて見た、オス？\u3000オスみたいね。こんなマントまで着けちゃってもう～♪」"
+translation = "「귀여워~~! 이런 애 처음 봐, 수컷? 수컷 같네. 이런 망토까지 입고 있다니 정말~♪」"
+
+[[dialogue]]
+speaker = "ソフィア"
+original = "「む……」"
+translation = "「음……」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ニャリオンへの愛情をそそぐサーシャ。"
+translation = "냐리온에게 애정을 쏟는 사샤."
+
+[[dialogue]]
+speaker = "unk"
+original = "ユウリやセーラは、その珍しい光景に噴き出していた。"
+translation = "유우리와 세라는 그 진귀한 광경에 웃음을 터뜨렸다."
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「あの、サーシャさん。ニャリオンちゃんは流星の会長さんの使い魔なんですよ」"
+translation = "「저기, 사샤 씨. 냐리온짱은 유성 회장님의 사역마예요」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「あら、そうだったの。ごめんなさいね～つい可愛くって♪」"
+translation = "「어머, 그랬구나. 미안해~ 너무 귀여워서 그만♪」"
+
+[[dialogue]]
+speaker = "ニャリオン"
+original = "「ニャ……別にちょっとならいいニャンが……」"
+translation = "「냐…… 별로 잠깐이라면 괜찮다냥만……」"
+
+[[dialogue]]
+speaker = "ユウリ"
+original = "「さっきまでおっとりしてたのに、急に人が変わったみてえだ」"
+translation = "「아까까진 얌전했는데, 갑자기 사람이 바뀐 것 같네」"
+
+[[dialogue]]
+speaker = "セーラ"
+original = "「ニャリオンちゃんも中身気にしなきゃけっこう可愛いマスコットだもんね。わかる～」"
+translation = "「냐리온짱도 속 내용 신경 안 쓰면 꽤 귀여운 마스코트잖아. 알겠어~」"
+
+[[dialogue]]
+speaker = "ニャリオン"
+original = "「ニャかみも可愛いニャン！\u3000あ、ニャニャ、でも、ワガハイには偉大なるフィオナ嬢の家来としての威厳が……」"
+translation = "「속 내용도 귀엽다냥! 아, 냐냐, 하지만, 나에게는 위대하신 피오나 아가씨의 하인으로서의 위엄이……」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「面倒くさい生き物ですね」"
+translation = "「귀찮은 생물이네요」"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「ニャリオンさんはちゃんと可愛いですよ！\u3000ファイト！」"
+translation = "「냐리온 씨는 제대로 귀여워요! 파이팅!」"
+
+[[dialogue]]
+speaker = "ニャリオン"
+original = "「ルリエルに励まされるほど落ちぶれてないニャン」"
+translation = "「루리엘에게 격려받을 정도로 타락하지 않았다냥」"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「ニャんで！？」"
+translation = "「왜에!?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "サーシャも含めてすっかり打ち解けた両星徒会たち。"
+translation = "사샤를 포함해 완전히 친해진 양 성도회 멤버들."
+
+[[dialogue]]
+speaker = "unk"
+original = "目立つメンバーであることも相まって、彼女たちは次第に人目を引くようになっていた。"
+translation = "눈에 띄는 멤버들이라는 점도 더해져, 그녀들은 점차 사람들의 시선을 끌게 되었다."
+
+[[dialogue]]
+speaker = "ユウリ"
+original = "「っと……忘れてた。マトイ、フィオナを見なかったか？\u3000出動命令きてんのになぜか見当たんなくてよ」"
+translation = "「앗…… 잊고 있었다. 마토이, 피오나 못 봤어? 출동 명령 왔는데 왜인지 안 보여서 말이야」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「フィオナさん？\u3000ううん、見てない。というか私たちも同じ状況というか……」"
+translation = "「피오나 씨? 아니, 못 봤어. 아니, 우리도 같은 상황이라고 할까……」"
+
+[[dialogue]]
+speaker = "セーラ"
+original = "「同じジョーキョー？」"
+translation = "「같은 상황?」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「会長と前会長を探しにきました。のに、見つかりません」"
+translation = "「회장과 전 회장을 찾으러 왔습니다. 그런데, 찾을 수 없습니다」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「困ったわよね～。学園長からの要請なのに」"
+translation = "「곤란하네~. 학원장님의 요청인데」"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「やはり、新星さんにも同様の連絡があったのですね……！」"
+translation = "「역시, 신성 씨에게도 같은 연락이 있었던 거군요……!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "セイファートからの指令。"
+translation = "세이퍼트로부터의 지령."
+
+[[dialogue]]
+speaker = "unk"
+original = "そしてメンバーの欠員と、互いにまったく同じ境遇にあることが判明する。"
+translation = "그리고 멤버의 결원과, 서로 완전히 똑같은 상황에 놓여 있다는 것이 판명된다."
+
+[[dialogue]]
+speaker = "セーラ"
+original = "「ん～……向こうの会長さん達もいないなら、もしかしたら一緒になってるのかもね。フィオナちゃん」"
+translation = "「음~…… 저쪽 회장님들도 없다면, 혹시 같이 있는 걸지도 모르겠네. 피오나짱」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「可能性は高いです。現会長はあれでけっこう、女たらし」"
+translation = "「가능성은 높습니다. 현 회장은 저래 봬도 꽤, 바람둥이」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「末っ子属性があるわよね」"
+translation = "「막냇동생 속성이 있지」"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「ふむふむ、緋宮会長は女たらしと……メモメモ」"
+translation = "「흠흠, 히노미야 회장은 바람둥이라고…… 메모 메모」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「あのう、メモはやめといてあげてくれる？\u3000緋宮くんのためにも……」"
+translation = "「저기, 메모는 그만둬 줄래? 히노미야 군을 위해서라도……」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「緊急の要請ではない──と学園長は言っていましたが。どちらにせよお話を通す必要があります」"
+translation = "「긴급한 요청은 아니다──라고 학원장님은 말씀하셨습니다만. 어느 쪽이든 이야기를 전달할 필요가 있습니다」"
+
+[[dialogue]]
+speaker = "ソフィア"
+original = "「ですね。フィオナ会長に連絡を取らないと……」"
+translation = "「그렇네요. 피오나 회장님께 연락을 드려야……」"
+
+[[dialogue]]
+speaker = "ニャリオン"
+original = "「ま、心配は要らないニャン。ワガハイとフィオナ嬢はいつ何時でも固い絆で結ばれているニャンから」"
+translation = "「뭐, 걱정할 필요는 없다냥. 나와 피오나 아가씨는 언제 어느 때라도 굳건한 인연으로 맺어져 있다냥」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「居場所がわかるの？」"
+translation = "「있는 곳을 알아?」"
+
+[[dialogue]]
+speaker = "ニャリオン"
+original = "「当然ニャン！\u3000こうしてフィオナ嬢のことをニャニャッと念ずれば………………ニャニャ！？\u3000わからないニャン！」"
+translation = "「당연하다냥! 이렇게 피오나 아가씨를 냐냐앗 하고 염원하면……………… 냐냐!? 모르겠다냥!」"
+
+[[dialogue]]
+speaker = "ユウリ"
+original = "「使えね～」"
+translation = "「쓸모없네~」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「実は先ほどから現会長・前会長・流星会長のお三方にＤＩＳＣで連絡をかけていますが、一向に繋がりません」"
+translation = "「실은 방금 전부터 현 회장・전 회장・유성 회장 세 분께 디스크로 연락을 시도하고 있습니다만, 전혀 연결되지 않습니다」"
+
+[[dialogue]]
+speaker = "ソフィア"
+original = "「え……そんな」"
+translation = "「에…… 설마」"
+
+[[dialogue]]
+speaker = "セーラ"
+original = "「ＤＩＳＣが繋がらない……か。なるほどね～」"
+translation = "「디스크가 연결되지 않는다……라. 과연 그렇네~」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「どうやら、本当に同じところに行っているみたいね」"
+translation = "「아무래도, 정말로 같은 곳에 가 있는 것 같네」"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「ＤＩＳＣの繋がらない地域なんて、人間界にあるのでありますか？」"
+translation = "「디스크가 연결되지 않는 지역이, 인간계에 있는 것인가요?」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「一度だけありましたね」"
+translation = "「한 번 있었습니다」"
+
+[[dialogue]]
+speaker = "ユウリ"
+original = "「！\u3000ありゃ確か……フィオナが『塔』に入ってた時か」"
+translation = "「! 그거 분명…… 피오나가 『탑』에 들어가 있었을 때인가」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「ってことは、緋宮くん達はまた……！？」"
+translation = "「그렇다면, 히노미야 군 일행은 또……!?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "全員の視線がそびえ立つフィーニスの塔へ向かう。"
+translation = "전원의 시선이 우뚝 솟아 있는 피니스의 탑으로 향한다."
+
+[[dialogue]]
+speaker = "unk"
+original = "塔攻略の情報はそれぞれフィオナ、クロトの口から彼女らに共有されていた。"
+translation = "탑 공략 정보는 각각 피오나, 쿠로토의 입을 통해 그녀들에게 공유되어 있었다."
+
+[[dialogue]]
+speaker = "unk"
+original = "また……前回の踏破がまだ第一層にすぎないということも。"
+translation = "또한…… 지난번 답파가 아직 제1층에 불과하다는 것도."
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「でもどうしましょうサーシャさん。あの２人がいないと、特殊個体の調査というのも……」"
+translation = "「하지만 어떻게 하죠 사샤 씨. 그 두 사람이 없으면, 특수 개체 조사라는 것도……」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「ふふ……大丈夫よマトイちゃん。会長さん達がいなくても、ここには両学園の精鋭が集っているんだから」"
+translation = "「후후…… 괜찮아 마토이짱. 회장님들이 없어도, 여기에는 양 학원의 정예가 모여 있으니까」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「え……？」"
+translation = "「에……?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "戸惑うマトイに対して、サーシャは集った全員にウインクをして言った。"
+translation = "당황하는 마토이에게, 사샤는 모인 전원에게 윙크를 하며 말했다."
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「みんなで仲良くパトロール──プラネット大作戦よ♪」"
+translation = "「다 같이 사이좋게 순찰── 플래닛 대작전이야♪」"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「むむっ。アドリブで可愛らしい作戦名……さすがは新星星徒会役員なのです！」"
+translation = "「무뭇. 애드리브로 귀여운 작전명…… 역시 신성 성도회 임원인 것입니다!」"
+
+[[dialogue]]
+speaker = "ユウリ"
+original = "「……可愛いか？」"
+translation = "「……귀여운가?」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「急を要する事態──早急に動いたほうがいいというのは賛成です」"
+translation = "「급을 요하는 사태── 조속히 움직이는 편이 좋다는 것에는 찬성합니다」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「というわけでみんな、張り切って行きましょ～♪」"
+translation = "「그런 고로 모두, 힘내서 가자~♪」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「おー！」"
+translation = "「오ー!」"
+
+[[dialogue]]
+speaker = "ユウリ"
+original = "「おー！」"
+translation = "「오ー!」"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「おー！」"
+translation = "「오ー!」"
+
+[[dialogue]]
+speaker = "セーラ"
+original = "「おー！」"
+translation = "「오ー!」"
+
+[[dialogue]]
+speaker = "ソフィア"
+original = "「おー！」"
+translation = "「오ー!」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「おー！」"
+translation = "「오ー!」"
+

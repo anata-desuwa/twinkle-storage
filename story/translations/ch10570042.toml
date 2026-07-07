@@ -1,0 +1,295 @@
+[[dialogue]]
+speaker = "unk"
+original = "第２話,星座を成すように,P"
+translation = "제2화, 별자리를 이루듯이"
+
+[[dialogue]]
+speaker = "unk"
+original = "カフェテリアに顔を出すと、トリシャさんが新しいフォームで占いをしていた。"
+translation = "카페테리아에 얼굴을 내비치자, 트리샤 씨가 새로운 폼으로 점을 치고 있었다."
+
+[[dialogue]]
+speaker = "トリシャ"
+original = "「……出ました。過食は己を滅ぼす……注意すべしと占いが告げています……」"
+translation = "「……나왔습니다. 과식은 자신을 멸한다…… 주의해야 한다고 점괘가 말하고 있어요……」"
+
+[[dialogue]]
+speaker = "ウズメイア"
+original = "「やっばー、お菓子食べすぎだったかなぁ。にしても、占いでそんなことわかっちゃうんだ、すごいね？」"
+translation = "「큰일이네, 과자를 너무 많이 먹었나 봐. 그나저나 점으로 그런 것까지 알 수 있다니, 대단한데?」"
+
+[[dialogue]]
+speaker = "ミルフィー"
+original = "「だってトリシャさんの占いだもん。すごく当たるんだから」"
+translation = "「그야 트리샤 씨의 점인걸. 정말 잘 맞으니까.」"
+
+[[dialogue]]
+speaker = "舞亜"
+original = "「次、私が占ってもらってもいい？\u3000次の大会で使う曲目を迷ってるんだけど」"
+translation = "「다음은 내가 점 좀 봐도 될까? 다음 대회에서 쓸 곡목을 고민 중이거든.」"
+
+[[dialogue]]
+speaker = "ソフィア"
+original = "「まだ決めてなかったんだ？\u3000次の大会って、もうすぐだったと思うけど」"
+translation = "「아직 안 정했어? 다음 대회, 이제 곧이었던 것 같은데.」"
+
+[[dialogue]]
+speaker = "舞亜"
+original = "「うん、だから神頼みならぬトリシャさん頼みで！」"
+translation = "「응, 그래서 신령님 대신 트리샤님께 부탁하려고!」"
+
+[[dialogue]]
+speaker = "トリシャ"
+original = "「フフフ……私は構いませんが……舞亜さんは運命を占いに任せず、ご自分で決断した方がよろしいかと……」"
+translation = "「후후후…… 저는 상관없습니다만…… 마아 씨는 운명을 점에 맡기지 말고, 스스로 결단하시는 편이 좋을 듯해요……」"
+
+[[dialogue]]
+speaker = "舞亜"
+original = "「そうかな？」"
+translation = "「그럴까?」"
+
+[[dialogue]]
+speaker = "トリシャ"
+original = "「そう、占いに出ています」"
+translation = "「네, 점괘에 그렇게 나와 있어요.」"
+
+[[dialogue]]
+speaker = "ウズメイア"
+original = "「あははっ、結局は占いなんだ？\u3000で、舞亜はどうするの？」"
+translation = "「아하하, 결국은 점괘인 거야? 그래서, 마아는 어떻게 할 거야?」"
+
+[[dialogue]]
+speaker = "舞亜"
+original = "「うーん……じゃあ自分で決めるよ」"
+translation = "「으음…… 그럼 스스로 정할게.」"
+
+[[dialogue]]
+speaker = "トリシャ"
+original = "「わかりました。次はどなたを占いましょうか？」"
+translation = "「알겠습니다. 다음은 어느 분을 점쳐 드릴까요?」"
+
+[[dialogue]]
+speaker = "ミルフィー"
+original = "「いったん休憩でどう？\u3000トリシャさんも続けて占ったから疲れたでしょ」"
+translation = "「일단 좀 쉬는 게 어때? 트리샤 씨도 계속 점을 쳐서 지쳤을 거 아냐.」"
+
+[[dialogue]]
+speaker = "トリシャ"
+original = "「いえ、疲れなど感じていませんが……」"
+translation = "「아니요, 피로 같은 건 느껴지지 않습니다만……」"
+
+[[dialogue]]
+speaker = "ジャクリーヌ"
+original = "「嘘なの♪\u3000占いはすっごく疲れるの。映画でもへとへとになってたゆ～♪」"
+translation = "「거짓말인유♪ 점은 엄청 지치는 거유. 영화에서도 녹초가 됐었다유~♪」"
+
+[[dialogue]]
+speaker = "舞亜"
+original = "「確かにね。本気で占うと精神力が削られるっていうか」"
+translation = "「확실히 그렇네. 진심으로 점을 치면 정신력이 깎인달까.」"
+
+[[dialogue]]
+speaker = "ソフィア"
+original = "「トリシャさんなら星力が消耗しているはずです」"
+translation = "「트리샤 씨라면 성력이 소모되었을 거예요.」"
+
+[[dialogue]]
+speaker = "ジャクリーヌ"
+original = "「星力が足りないならお菓子を食べるゆ♪\u3000甘いもので回復するゆ～♪」"
+translation = "「성력이 부족하면 과자를 먹는유♪ 단것으로 회복하는유~♪」"
+
+[[dialogue]]
+speaker = "ウズメイア"
+original = "「ちょっ、あたしのケーキ取るな～」"
+translation = "「잠깐, 내 케이크 가져가지 마~」"
+
+[[dialogue]]
+speaker = "ジャクリーヌ"
+original = "「ゆっゆっゆ♪\u3000食べすぎはよくないって言われたばかりなの。占いの結果はちゃんと聞くゆ♪」"
+translation = "「유유유♪ 과식은 좋지 않다는 말을 방금 들은유. 점괘 결과는 제대로 듣는유♪」"
+
+[[dialogue]]
+speaker = "ウズメイア"
+original = "「ぐぬぬぬぬ～、悔しいけど言い返せない……」"
+translation = "「구누누누~ 분하지만 대꾸할 수가 없어……」"
+
+[[dialogue]]
+speaker = "ジャクリーヌ"
+original = "「ケーキおいしいの♪\u3000そっちのプリンも食べたいの♪\u3000お菓子全部よこすゆ～♪」"
+translation = "「케이크 맛있는유♪ 저쪽 푸딩도 먹고 싶은유♪ 과자 전부 내놓는유~♪」"
+
+[[dialogue]]
+speaker = "ミルフィー"
+original = "「っとと、トリシャさんのは取っちゃダメだよ。貴重な糖分なんだから」"
+translation = "「어어, 트리샤 씨 거 뺏으면 안 돼. 귀중한 당분이니까.」"
+
+[[dialogue]]
+speaker = "トリシャ"
+original = "「ミルフィーさん、優しいです……これがオトモダチ的配慮……」"
+translation = "「밀피 씨, 상냥해요…… 이것이 친구적인 배려……」"
+
+[[dialogue]]
+speaker = "ミルフィー"
+original = "「そんな大袈裟だよ。仲良しなんだから、これくらい普通だって」"
+translation = "「그렇게 거창한 거 아냐. 사이좋은 친구니까, 이 정도는 당연하지.」"
+
+[[dialogue]]
+speaker = "舞亜"
+original = "「そうそう。ということで、はい、トリシャさん。私のもあげる」"
+translation = "「그래그래. 그런 의미에서, 자, 트리샤 씨. 내 것도 줄게.」"
+
+[[dialogue]]
+speaker = "トリシャ"
+original = "「い、いいのですか？」"
+translation = "「괘, 괜찮나요?」"
+
+[[dialogue]]
+speaker = "舞亜"
+original = "「うん。私も大会が近いし控えようかなって。それにミルフィーさんばっかりトリシャさんにあげてていいなーって思うし」"
+translation = "「응. 나도 대회가 가까우니까 자제할까 해서. 그리고 밀피 씨만 트리샤 씨한테 주는 게 부럽기도 하고.」"
+
+[[dialogue]]
+speaker = "ソフィア"
+original = "「トリシャさんにとってミルフィーさんは特別かもしれませんけど、私たちもちょっとくらいは」"
+translation = "「트리샤 씨에게 밀피 씨는 특별할지도 모르지만, 저희도 조금 정도는.」"
+
+[[dialogue]]
+speaker = "unk"
+original = "トリシャさんにこの豆大福をあげます"
+translation = "트리샤 씨에게 이 콩찹쌀떡을 줄게요"
+
+[[dialogue]]
+speaker = "unk"
+original = "そういうことなら俺も"
+translation = "그렇게 된 거라면 나도"
+
+[[dialogue]]
+speaker = "トリシャ"
+original = "「にへへ……こんなの夢みたい……」"
+translation = "「헤헤…… 이런 건 꿈만 같아요……」"
+
+[[dialogue]]
+speaker = "舞亜"
+original = "「これを機にトリシャさんをどんどん甘やかそう」"
+translation = "「이 기회에 트리샤 씨를 듬뿍 응석받이로 만들자.」"
+
+[[dialogue]]
+speaker = "ソフィア"
+original = "「仲良しだよって言ってもなかなか信じてもらえないしね」"
+translation = "「사이좋다고 말해도 좀처럼 믿어주질 않으니까 말이야.」"
+
+[[dialogue]]
+speaker = "ミルフィー"
+original = "「トリシャさんってばちょっと頑固なとこあるから。私とオトモダチになってくれるまで少し時間かかったし」"
+translation = "「트리샤 씨는 좀 고집스러운 면이 있으니까. 나랑 친구가 되어주기까지 시간이 좀 걸렸거든.」"
+
+[[dialogue]]
+speaker = "トリシャ"
+original = "「それは……その……ごめんなさい……」"
+translation = "「그건…… 그…… 죄송해요……」"
+
+[[dialogue]]
+speaker = "ウズメイア"
+original = "「けど、なんだかんだでこうして受け入れてくれたよね～。それってやっぱり会長くんのおかげ？」"
+translation = "「그래도 어찌저찌 이렇게 받아들여 줬네~. 그건 역시 회장군 덕분일까?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "何もした覚えないんだけど"
+translation = "아무것도 한 기억이 없는데"
+
+[[dialogue]]
+speaker = "unk"
+original = "お、俺！？"
+translation = "나, 나!?"
+
+[[dialogue]]
+speaker = "ウズメイア"
+original = "「またまた～、いつのまにか告白して、彼女にしちゃったくせに」"
+translation = "「또 그런다~ 어느새 고백해서 여자친구로 만들어 버렸으면서.」"
+
+[[dialogue]]
+speaker = "ミルフィー"
+original = "「オトモダチよりも彼氏のほうがずっとハードル高いよね」"
+translation = "「친구보다 남자친구 쪽이 훨씬 허들이 높지.」"
+
+[[dialogue]]
+speaker = "舞亜"
+original = "「会長さんの彼女になる、なんて高難易度をクリアしてたら、友達付き合いくらい余裕でしょ」"
+translation = "「회장님의 여자친구가 된다는 고난이도를 클리어했다면, 친구 사귀기 정도는 여유잖아.」"
+
+[[dialogue]]
+speaker = "ソフィア"
+original = "「実際、トリシャさんは以前よりだいぶ話しやすくなったように感じます」"
+translation = "「실제로 트리샤 씨는 이전보다 훨씬 대화하기 편해진 것 같아요.」"
+
+[[dialogue]]
+speaker = "トリシャ"
+original = "「フフフ……皆さんの心遣いの賜物だと思いますが……努力の結果もいくらか影響しているでしょうね……」"
+translation = "「후후후…… 여러분의 배려 덕분이라고 생각합니다만…… 노력의 결과도 어느 정도 영향이 있겠죠……」"
+
+[[dialogue]]
+speaker = "ミルフィー"
+original = "「ほんと、トリシャさんの周りに人が増えたよね。うんうん、オトモダチのよさがみんなにも伝わってるみたいで嬉しいよ」"
+translation = "「정말, 트리샤 씨 주변에 사람이 늘었네. 응응, 친구의 장점이 모두에게도 전해진 것 같아서 기뻐.」"
+
+[[dialogue]]
+speaker = "トリシャ"
+original = "「フフフ……気がつけば、お菓子が山積みになってしまいました……にへへ……本当に皆さん優しいです……」"
+translation = "「후후후…… 정신을 차려보니 과자가 산더미처럼 쌓여버렸네요…… 헤헤…… 정말 여러분 상냥하세요……」"
+
+[[dialogue]]
+speaker = "トリシャ"
+original = "「半分くらいジャクリーヌさんに持って行かれた気もしますが、それでもこんなに残りました……」"
+translation = "「절반 정도 자클린 씨가 가져간 기분도 듭니다만, 그래도 이렇게 남았어요……」"
+
+[[dialogue]]
+speaker = "トリシャ"
+original = "「私は人付き合いが苦手なままで……何も変わっていないというのに……」"
+translation = "「저는 사람 사귀는 게 서툰 그대로여서…… 아무것도 변하지 않았는데도……」"
+
+[[dialogue]]
+speaker = "unk"
+original = "いい笑顔を見せるようになった"
+translation = "좋은 미소를 보여주게 됐어"
+
+[[dialogue]]
+speaker = "unk"
+original = "トリシャさんは変わったよ"
+translation = "트리샤 씨는 변했어"
+
+[[dialogue]]
+speaker = "トリシャ"
+original = "「そう、でしょうか……？\u3000自分ではよくわかりません……」"
+translation = "「그럴, 까요……? 스스로는 잘 모르겠습니다……」"
+
+[[dialogue]]
+speaker = "トリシャ"
+original = "「ただ……会長さんと知り合って……まるで星々が繋がり星座を成すように、人々が集い始めたように感じます……」"
+translation = "「다만…… 회장님과 알게 되고…… 마치 별들이 이어져 별자리를 이루듯이, 사람들이 모이기 시작한 것처럼 느껴져요……」"
+
+[[dialogue]]
+speaker = "トリシャ"
+original = "「ですから……会長さんのおかげ？\u3000フフフ……」"
+translation = "「그러니까…… 회장님 덕분? 후후후……」"
+
+[[dialogue]]
+speaker = "トリシャ"
+original = "「たとえそうだったとしても……オトモダチが増えたのはとても嬉しいです……」"
+translation = "「설령 그렇다 하더라도…… 친구가 늘어난 건 정말 기뻐요……」"
+
+[[dialogue]]
+speaker = "トリシャ"
+original = "「今までに感じたことのない気持ち……私は幸せです……」"
+translation = "「지금까지 느껴본 적 없는 기분…… 저는 행복합니다……」"
+
+[[dialogue]]
+speaker = "トリシャ"
+original = "「フフフ……」"
+translation = "「후후후……」"
+
+[[dialogue]]
+speaker = "unk"
+original = "いつもの意味深な笑みの中に、隠しきれない喜びを滲ませるトリシャさんだった。"
+translation = "평소의 의미심장한 미소 속에 숨길 수 없는 기쁨을 배어 나오게 하는 트리샤 씨였다."
+

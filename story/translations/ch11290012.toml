@@ -1,0 +1,340 @@
+[[dialogue]]
+speaker = "unk"
+original = "第２話,ボランティア部への参加,P"
+translation = "제2화, 자원봉사부 참가, P"
+
+[[dialogue]]
+speaker = "unk"
+original = "その日はシャロンの主催する子ども会が開かれていた。"
+translation = "그날은 샤론이 주최하는 어린이 모임이 열리고 있었다."
+
+[[dialogue]]
+speaker = "unk"
+original = "その活動に参加してみたいとのことで、俺はエステルを連れて大聖堂へとやってきていた。"
+translation = "그 활동에 참가해 보고 싶다는 말에 나는 에스텔을 데리고 대성당으로 찾아왔다."
+
+[[dialogue]]
+speaker = "シャロン"
+original = "「エステルさま、今日は子ども会の奉仕活動へのご協力ありがとうございますっ」"
+translation = "「에스텔 님, 오늘 어린이 모임 봉사 활동에 협력해 주셔서 감사합니다!」"
+
+[[dialogue]]
+speaker = "エステル"
+original = "「いえいえ、こちらからお願いしたことですから」"
+translation = "「아니에요, 제가 부탁드린 일인걸요.」"
+
+[[dialogue]]
+speaker = "unk"
+original = "メルエルも来てたんだ"
+translation = "메르엘도 왔었구나."
+
+[[dialogue]]
+speaker = "メルエル"
+original = "「うん。初めましてエステルちゃん！\u3000私、ボランティア部の姫咲メルエルだよ、宜しくねっ」"
+translation = "「응. 처음 봐, 에스텔 짱! 나, 자원봉사부의 히메사키 메르엘이야, 잘 부탁해!」"
+
+[[dialogue]]
+speaker = "エステル"
+original = "「ボランティア部ですか！？」"
+translation = "「자원봉사부인가요!?」"
+
+[[dialogue]]
+speaker = "メルエル"
+original = "「えっ、そうだけど、な、何かな？」"
+translation = "「엣, 그렇긴 한데, 웨, 왜 그래?」"
+
+[[dialogue]]
+speaker = "エステル"
+original = "「実は私も極星学園ではボランティア部に所属して活動していたんです」"
+translation = "「사실 저도 극성 학원에서는 자원봉사부에 소속되어 활동했었거든요.」"
+
+[[dialogue]]
+speaker = "メルエル"
+original = "「そうだったの？\u3000わぁ～、同じ仲間だ～、うれしいよ～♪」"
+translation = "「그랬어? 와아~ 같은 동료구나~ 기뻐~♪」"
+
+[[dialogue]]
+speaker = "エステル"
+original = "「今日は頑張って活動に励みましょう！」"
+translation = "「오늘 열심히 활동에 힘써봐요!」"
+
+[[dialogue]]
+speaker = "メルエル"
+original = "「うん、がんばろー！」"
+translation = "「응, 힘내자!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "と、盛り上がる一方で……"
+translation = "하며 분위기가 달아오르는 한편……"
+
+[[dialogue]]
+speaker = "イレーナ"
+original = "「はぁ……どうして私まで駆り出されなくちゃいけないのかしら」"
+translation = "「하아…… 어째서 나까지 불려 나와야 하는 건지 원.」"
+
+[[dialogue]]
+speaker = "unk"
+original = "そんなこと言わずに"
+translation = "그렇게 말하지 말고."
+
+[[dialogue]]
+speaker = "イレーナ"
+original = "「なんかあのエステルって子が教会に来た時から嫌な予感はしてたのよね」"
+translation = "「왠지 그 에스텔이라는 애가 교회에 왔을 때부터 불길한 예감이 들었단 말이지.」"
+
+[[dialogue]]
+speaker = "イレーナ"
+original = "「シャロンにすっかり火が点いちゃって困ってるんだけど」"
+translation = "「샤론에게 완전히 불이 붙어버려서 곤란하다구.」"
+
+[[dialogue]]
+speaker = "エステル"
+original = "「あの……イレーナさん、私が何か？」"
+translation = "「저기…… 이레이나 씨, 제가 뭔가?」"
+
+[[dialogue]]
+speaker = "イレーナ"
+original = "「い、いえ、何でもありませんよ」"
+translation = "「아, 아니, 아무것도 아니야.」"
+
+[[dialogue]]
+speaker = "シャロン"
+original = "「はーい、それでは今日は、みんなで大聖堂の掃除をします。はりきっていきましょ～っ」"
+translation = "「자아ー, 그럼 오늘은 다 함께 대성당 청소를 하겠습니다. 힘차게 가보자고요~」"
+
+[[dialogue]]
+speaker = "エステル"
+original = "「よろしくお願いしま～す」"
+translation = "「잘 부탁드려요~」"
+
+[[dialogue]]
+speaker = "unk"
+original = "こうしてボランティアに集まってくれた子どもたちと共に、大聖堂の大掃除が始まったのだった。"
+translation = "이렇게 자원봉사에 모여준 아이들과 함께 대성당 대청소가 시작되었다."
+
+[[dialogue]]
+speaker = "エステル"
+original = "「いいですか？\u3000では、みなさん説明したとおりにお願いしますね～」"
+translation = "「알겠죠? 그럼 여러분, 설명해 드린 대로 부탁해요~」"
+
+[[dialogue]]
+speaker = "子供たち"
+original = "「はーい♪」"
+translation = "「네ー♪」"
+
+[[dialogue]]
+speaker = "エステル"
+original = "「ふふっ、良いお返事です」"
+translation = "「후훗, 대답 잘하네요.」"
+
+[[dialogue]]
+speaker = "メルエル"
+original = "「ふわぁ～、エステルちゃん。子供たちとの接し方が上手です～」"
+translation = "「후와아~ 에스텔 짱. 아이들을 다루는 솜씨가 아주 능숙하네요~」"
+
+[[dialogue]]
+speaker = "エステル"
+original = "「えっ、そうですか？」"
+translation = "「엣, 그런가요?」"
+
+[[dialogue]]
+speaker = "メルエル"
+original = "「そうだよ～！\u3000中には手を焼きそうなやんちゃな子だっていたのに」"
+translation = "「그렇다니까요~! 개중에는 애먹을 법한 개구쟁이도 있었는데.」"
+
+[[dialogue]]
+speaker = "メルエル"
+original = "「それがエステルちゃんが声をかけたら、すっかり大人しくなっちゃって」"
+translation = "「그게 에스텔 짱이 말을 거니까 얌전해져 버려서.」"
+
+[[dialogue]]
+speaker = "メルエル"
+original = "「何だかすっごくお姉さん味があって……ちょっと憧れちゃうかも」"
+translation = "「왠지 엄청 언니 같은 느낌이 들어서…… 조금 동경하게 될지도.」"
+
+[[dialogue]]
+speaker = "unk"
+original = "年下だとは思えない"
+translation = "연하라고는 생각되지 않아."
+
+[[dialogue]]
+speaker = "メルエル"
+original = "「年下なの！？」"
+translation = "「연하야!?」"
+
+[[dialogue]]
+speaker = "エステル"
+original = "「学年でいうと１年生になりますね」"
+translation = "「학년으로 치면 1학년이 됩니다.」"
+
+[[dialogue]]
+speaker = "メルエル"
+original = "「はぅ～、それなのにこんなにしっかりしてて……尊敬しちゃうよ～」"
+translation = "「하우~ 그런데도 이렇게 의젓하다니…… 존경해버려요~」"
+
+[[dialogue]]
+speaker = "エステル"
+original = "「ふふふ、そんな……魔王様に比べれば私なんてとてもとてもです」"
+translation = "「후후후, 설마요…… 마왕님에 비하면 저 따위는 정말 아무것도 아닙니다.」"
+
+[[dialogue]]
+speaker = "メルエル"
+original = "「会長くん？\u3000そこでどうして会長くんが出てくるの？」"
+translation = "「회장군? 거기서 왜 갑자기 회장군이 나오는 거야?」"
+
+[[dialogue]]
+speaker = "エステル"
+original = "「はい、デネブにいらっしゃった魔王様と少しの間ですが共闘したのです」"
+translation = "「네, 데네브에 계셨던 마왕님과 잠시 동안이었지만 공투했었거든요.」"
+
+[[dialogue]]
+speaker = "エステル"
+original = "「その際も魔王様は、全員をまとめながら指揮をとり、皆に絶大な安心感を与えてくださっていました」"
+translation = "「그때도 마왕님은 모두를 하나로 모으며 지휘를 하시고, 모두에게 절대한 안정감을 주셨습니다.」"
+
+[[dialogue]]
+speaker = "unk"
+original = "……そうだったっけ？"
+translation = "……그랬던가?"
+
+[[dialogue]]
+speaker = "エステル"
+original = "「敵かもしれない私が声をかけた時も跳ね付ける様子はなく、きちんと落ち着いて話を聞いてくださいまして……」"
+translation = "「적일지도 모르는 제가 말을 걸었을 때도 뿌리치지 않으시고, 제대로 침착하게 이야기를 들어주셔서……」"
+
+[[dialogue]]
+speaker = "エステル"
+original = "「きっと一目見た瞬間、私の考えを全て見抜いて対応してくださったんだと思います、そうですよね魔王様」"
+translation = "「분명 한눈에 본 순간 제 생각을 전부 꿰뚫어 보고 대응해 주신 거라고 생각해요. 그렇죠, 마왕님?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "それは持ち上げすぎ！"
+translation = "그건 너무 띄워주는 거야!"
+
+[[dialogue]]
+speaker = "unk"
+original = "ちょっと待って！"
+translation = "잠깐 기다려!"
+
+[[dialogue]]
+speaker = "エステル"
+original = "「そんな事はありません。これでも魔王様の素晴らしさの一端すら言い表せていないのです」"
+translation = "「그렇지 않습니다. 이래서야 마왕님의 훌륭함의 일부분조차 다 표현하지 못한 거예요.」"
+
+[[dialogue]]
+speaker = "エステル"
+original = "「本来、私と魔王様は出会うべき世界線に居ませんでした……ですがこうして奇跡的にお会いして、お話しすることが出来ているのです」"
+translation = "「본래 저와 마왕님은 만나야 할 세계선에 있지 않았습니다…… 하지만 이렇게 기적적으로 만나서 대화를 나눌 수 있게 되었죠.」"
+
+[[dialogue]]
+speaker = "エステル"
+original = "「あぁ、女神様……魔王様に出会わせてくださったこの奇跡を感謝いたします……」"
+translation = "「아아, 여신님…… 마왕님을 만나게 해주신 이 기적에 감사드립니다……」"
+
+[[dialogue]]
+speaker = "メルエル"
+original = "「なんだか会長くんに対する熱量がすごくない？」"
+translation = "「왠지 회장군에 대한 열량이 엄청나지 않아?」"
+
+[[dialogue]]
+speaker = "エステル"
+original = "「それはもう、魔王様は私の命の恩人でもありますから」"
+translation = "「그야 마왕님은 제 생명의 은인이시기도 하니까요.」"
+
+[[dialogue]]
+speaker = "メルエル"
+original = "「えっ……それってどういうこと？」"
+translation = "「엣…… 그게 무슨 소리야?」"
+
+[[dialogue]]
+speaker = "エステル"
+original = "「実は私……」"
+translation = "「사실 저는……」"
+
+[[dialogue]]
+speaker = "unk"
+original = "エステルは俺との出会いのことをメルエルに説明する。"
+translation = "에스텔은 나와의 만남에 대해 메르엘에게 설명한다."
+
+[[dialogue]]
+speaker = "メルエル"
+original = "「そうなんだ……その時、エステルちゃんを守ってくれたのが会長くん……」"
+translation = "「그렇구나…… 그때 에스텔 짱을 지켜준 게 회장군……」"
+
+[[dialogue]]
+speaker = "メルエル"
+original = "「もしかして……恋に落ちたりするのかな？」"
+translation = "「혹시…… 사랑에 빠지거나 하는 걸까?」"
+
+[[dialogue]]
+speaker = "エステル"
+original = "「ふふっ、私は魔王様のことを尊敬しているだけですから……恋愛感情を抱くなんて恐れ多いことですよ」"
+translation = "「후훗, 저는 마왕님을 존경하고 있을 뿐이니까요…… 연애 감정을 품다니 당치도 않은 일이에요.」"
+
+[[dialogue]]
+speaker = "メルエル"
+original = "「そ、そうなんだ……」"
+translation = "「그, 그렇구나……」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ふられた……"
+translation = "차였다……."
+
+[[dialogue]]
+speaker = "エステル"
+original = "「えっ？\u3000私、魔王様をがっかりさせてしまったでしょうか？」"
+translation = "「엣? 제가 마왕님을 실망하게 해드렸을까요?」"
+
+[[dialogue]]
+speaker = "エステル"
+original = "「元気を出してください……その為なら私、何でもいたしますから」"
+translation = "「기운 내주세요…… 그를 위해서라면 저, 뭐든지 할 테니까요.」"
+
+[[dialogue]]
+speaker = "メルエル"
+original = "「何でもは、ちょっとまずいんじゃないかな～」"
+translation = "「뭐든지 하는 건 좀 위험하지 않을까나~」"
+
+[[dialogue]]
+speaker = "エステル"
+original = "「……そうですね、何でもは言い過ぎました。けれど命を捧げる程度の覚悟ならありますので……」"
+translation = "「……그렇네요, 뭐든지라는 건 말이 지나쳤습니다. 하지만 목숨을 바칠 정도의 각오라면 되어 있으니……」"
+
+[[dialogue]]
+speaker = "メルエル"
+original = "「やっぱり重いよーーーっ！！！」"
+translation = "「역시 무겁다구ーーー!!!」"
+
+[[dialogue]]
+speaker = "女の子"
+original = "「ねえねえ、おねーさん。ここのお掃除終わったよ～」"
+translation = "「저기 저기, 언니. 여기 청소 끝났어~」"
+
+[[dialogue]]
+speaker = "男の子"
+original = "「次は何すればいいんだ～」"
+translation = "「다음은 뭐 하면 돼ー?」"
+
+[[dialogue]]
+speaker = "エステル"
+original = "「はーい、分かりました。それじゃ次はね～……」"
+translation = "「네ー, 알겠어요. 그럼 다음은 말이죠~……」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ちょっと怖いくらい、俺のことを持ち上げてくれるエステル。"
+translation = "조금 무서울 정도로 나를 치켜세워 주는 에스텔."
+
+[[dialogue]]
+speaker = "unk"
+original = "けれど、それはあくまで恋愛感情とは違うものであるらしかった。"
+translation = "하지만 그것은 어디까지나 연애 감정과는 다른 모양이었다."
+
+[[dialogue]]
+speaker = "unk"
+original = "しかし、そうはっきり言われてしまうと、少し寂しい気持ちがしてしまうのだった。"
+translation = "그렇지만 그렇게 딱 잘라 말해버리니 조금 쓸쓸한 기분이 드는 것이었다."
+

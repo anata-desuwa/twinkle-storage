@@ -1,0 +1,235 @@
+[[dialogue]]
+speaker = "unk"
+original = "第１話,ブラッディ・マリー,P"
+translation = "제1화, 블러디 메리, P"
+
+[[dialogue]]
+speaker = "unk"
+original = "風邪を引いて病院に向かっている途中、運悪くアステラ発生の知らせが届いた。"
+translation = "감기에 걸려 병원으로 향하던 도중, 운 나쁘게 아스텔라 발생 소식이 들려왔다."
+
+[[dialogue]]
+speaker = "unk"
+original = "いち早く駆けつけ、単身突入すると──"
+translation = "제일 먼저 달려가, 단신으로 돌입하자──"
+
+[[dialogue]]
+speaker = "モンスター"
+original = "「イ～～～～～ッ！」"
+translation = "「이～～～～익!」"
+
+[[dialogue]]
+speaker = "？？？"
+original = "「スカーレットペイン！」"
+translation = "「스칼렛 페인!」"
+
+[[dialogue]]
+speaker = "マリーベル"
+original = "「邪魔よ。突っ立ってるならそこをどいて」"
+translation = "「방해돼. 서 있을 거면 거기서 비켜」"
+
+[[dialogue]]
+speaker = "unk"
+original = "君はプリマステラ？"
+translation = "「너는 프리마스텔라?」"
+
+[[dialogue]]
+speaker = "マリーベル"
+original = "「違うわ。だから何？」"
+translation = "「아니야. 그래서 뭐?」"
+
+[[dialogue]]
+speaker = "マリーベル"
+original = "「モンスターを狩るのが星騎士の仕事でしょう。目の前にモンスターの巣があるのに何もしない方がどうかしてるわ」"
+translation = "「몬스터를 사냥하는 게 성기사의 일이잖아. 눈앞에 몬스터의 둥지가 있는데 아무것도 안 하는 쪽이 어떻게 된 거지」"
+
+[[dialogue]]
+speaker = "unk"
+original = "この数を１人で相手にしていたのか？"
+translation = "「이 숫자를 혼자서 상대하고 있었던 건가?」"
+
+[[dialogue]]
+speaker = "マリーベル"
+original = "「もしかして私を心配してるの？\u3000なら余計な心配ね。このくらい１人で片付けられる」"
+translation = "「혹시 나를 걱정하는 거야? 그렇다면 쓸데없는 참견이야. 이 정도는 혼자서 처리할 수 있어」"
+
+[[dialogue]]
+speaker = "マリーベル"
+original = "「星徒会長だか何だか知らないけど、あなたこそ自分の心配をしたら？」"
+translation = "「성도회장인지 뭔지는 모르겠지만, 당신이야말로 자기 걱정이나 하시지?」"
+
+[[dialogue]]
+speaker = "マリーベル"
+original = "「私は嫌われ者の『ブラッディ・マリー』。怪我したくなかったら、私に近づかないことね」"
+translation = "「나는 미움받는 자인 『블러디 메리』. 다치기 싫으면, 나한테 다가오지 마」"
+
+[[dialogue]]
+speaker = "モンスター"
+original = "「～～～ッ！」"
+translation = "「～～～윽!」"
+
+[[dialogue]]
+speaker = "マリーベル"
+original = "「あれがこのアステラの主──」"
+translation = "「저게 이 아스텔라의 주인──」"
+
+[[dialogue]]
+speaker = "モンスター"
+original = "「～～～～～ッ！」"
+translation = "「～～～～～윽!」"
+
+[[dialogue]]
+speaker = "マリーベル"
+original = "「とも限らないようね。大型モンスターが２体……いいわ、まとめて串刺しにしてあげる」"
+translation = "「그렇지만도 않은 것 같네. 대형 몬스터가 2마리…… 좋아, 한꺼번에 꼬챙이로 만들어 줄게」"
+
+[[dialogue]]
+speaker = "unk"
+original = "俺も戦う"
+translation = "「나도 싸우겠어」"
+
+[[dialogue]]
+speaker = "マリーベル"
+original = "「言っておくけど、あなたが強かろうと弱かろうと力を借りるつもりはないわ。私は１人で戦える」"
+translation = "「말해두겠는데, 당신이 강하든 약하든 힘을 빌릴 생각은 없어. 나는 혼자서 싸울 수 있어」"
+
+[[dialogue]]
+speaker = "モンスター"
+original = "「～～～～～ッ！」"
+translation = "「～～～～～윽!」"
+
+[[dialogue]]
+speaker = "マリーベル"
+original = "「──ッ」"
+translation = "「──윽」"
+
+[[dialogue]]
+speaker = "unk"
+original = "無茶だ！"
+translation = "「무모해!」"
+
+[[dialogue]]
+speaker = "マリーベル"
+original = "「ごちゃごちゃとうるさい──！」"
+translation = "「미주알고주알 시끄러워──!」"
+
+[[dialogue]]
+speaker = "モンスター"
+original = "「イ～～～……」"
+translation = "「이～～～……」"
+
+[[dialogue]]
+speaker = "マリーベル"
+original = "「後ろにモンスターがいたわよ。人にとやかく言う前に自分が気を付けなさい」"
+translation = "「뒤에 몬스터가 있었어. 남에게 이래라저래라 하기 전에 자기 몸이나 조심해」"
+
+[[dialogue]]
+speaker = "イレーナ"
+original = "「皆さん、ご無事ですか？\u3000あれ、あなたは──」"
+translation = "「여러분, 무사하신가요? 어라, 당신은──」"
+
+[[dialogue]]
+speaker = "マリーベル"
+original = "「ブラッディエクスキューション！」"
+translation = "「블러디 익스큐션!」"
+
+[[dialogue]]
+speaker = "イレーナ"
+original = "「きゃあっ！？」"
+translation = "「꺄악!?」"
+
+[[dialogue]]
+speaker = "モンスター"
+original = "「～～～～～～ッ」"
+translation = "「～～～～～～윽」"
+
+[[dialogue]]
+speaker = "マリーベル"
+original = "「これでモンスターは殺し尽くしたわね。アステラも消滅するでしょう」"
+translation = "「이걸로 몬스터는 다 죽였네. 아스텔라도 소멸하겠지」"
+
+[[dialogue]]
+speaker = "マリーベル"
+original = "「……戦い方が危険？\u3000だから何？\u3000あなたがどう思おうと関係ない」"
+translation = "「……싸우는 방식이 위험해? 그래서 뭐? 당신이 어떻게 생각하든 상관없어」"
+
+[[dialogue]]
+speaker = "マリーベル"
+original = "「私はもっともっとモンスターを殺して、罪を償わないといけないの。こんなところで死ぬ気はないわ」"
+translation = "「나는 더 많이 몬스터를 죽여서, 죄를 갚아야만 해. 이런 곳에서 죽을 생각은 없어」"
+
+[[dialogue]]
+speaker = "マリーベル"
+original = "「あなたこそ、ふらふらのくせに出てこないで。気が散る──」"
+translation = "「당신이야말로, 비틀거리면서 나오지 마. 집중력 흐트러져──」"
+
+[[dialogue]]
+speaker = "マリーベル"
+original = "「──ッ！？」"
+translation = "「──윽!?」"
+
+[[dialogue]]
+speaker = "マリーベル"
+original = "「くっ……ぁ……首輪が……」"
+translation = "「큭……아…… 목걸이가……」"
+
+[[dialogue]]
+speaker = "unk"
+original = "大丈夫か！？"
+translation = "「괜찮아!?」"
+
+[[dialogue]]
+speaker = "マリーベル"
+original = "「私のことはほっといて…………っ……」"
+translation = "「내 일은 상관 마…………윽……」"
+
+[[dialogue]]
+speaker = "イレーナ"
+original = "「行っちゃった……感じわる。まぁいいわ、あたしたちもさっさと脱出するわよ」"
+translation = "「가버렸네…… 재수 없어. 뭐 됐어, 우리도 얼른 탈출하자고」"
+
+[[dialogue]]
+speaker = "イレーナ"
+original = "「はぁ、せっかく来たのに出番なかったわ。……ん？\u3000あんた、なんか顔色悪い？\u3000ってか足元ふらついてるじゃない」"
+translation = "「하아, 기껏 왔는데 활약할 기회가 없었네. ……응? 너, 왠지 안색이 안 좋은데? 그보다 발밑이 비틀거리잖아」"
+
+[[dialogue]]
+speaker = "イレーナ"
+original = "「風邪～？\u3000この国じゃバカは風邪引かないんじゃなかったの？\u3000ったく、見てらんないから治してあげる」"
+translation = "「감기～? 이 나라에선 바보는 감기 안 걸리는 거 아니었어? 나 원 참, 보고 있을 수가 없으니까 고쳐 줄게」"
+
+[[dialogue]]
+speaker = "イレーナ"
+original = "「お礼はいいわよ。聖女だから言われまくってるし」"
+translation = "「감사는 됐어. 성녀라서 지겹도록 듣고 있으니까」"
+
+[[dialogue]]
+speaker = "unk"
+original = "あの星騎士は……"
+translation = "「저 성기사는……」"
+
+[[dialogue]]
+speaker = "イレーナ"
+original = "「マリーベル・エルズワースのこと？\u3000確か、流星学園のイギリス分校にいたのよね。あたしもヨーロッパにいたから噂は聞いたことがあるわ」"
+translation = "「마리벨 엘즈워스 말이야? 확실히, 유성학원의 영국 분교에 있었지. 나도 유럽에 있었으니까 소문은 들은 적 있어」"
+
+[[dialogue]]
+speaker = "イレーナ"
+original = "「マリーベルはとても強い星力を持っていて、将来有望って言われてたらしいの」"
+translation = "「마리벨은 매우 강한 성력을 가지고 있어서, 장래가 유망하다고 불렸던 모양이야」"
+
+[[dialogue]]
+speaker = "イレーナ"
+original = "「だけど彼女は戦闘中、味方ごとモンスターを攻撃した。巻き込まれた子は大きな怪我を負って、星騎士として復帰するのは絶望的だとか」"
+translation = "「하지만 그녀는 전투 중, 아군까지 포함해 몬스터를 공격했어. 휘말린 아이는 큰 부상을 입고, 성기사로서 복귀하는 건 절망적이라더군」"
+
+[[dialogue]]
+speaker = "イレーナ"
+original = "「それ以来、『ブラッディ・マリー』って呼ばれて疫病神扱いされてたんだって。プリマステラと認められないのは、実力じゃなくて経歴が問題だったんでしょう」"
+translation = "「그 이후로, 『블러디 메리』라고 불리며 역신 취급받았대. 프리마스텔라로 인정받지 못하는 건, 실력이 아니라 경력이 문제였겠지」"
+
+[[dialogue]]
+speaker = "イレーナ"
+original = "「以上、あたしが知ってるのはこんな感じ。彼女が噂通り危険な人間かどうか、気になるなら自分で確かめてみれば」"
+translation = "「이상, 내가 아는 건 이런 느낌이야. 그녀가 소문대로 위험한 인간인지 어떤지, 신경 쓰인다면 직접 확인해 보든가」"
+

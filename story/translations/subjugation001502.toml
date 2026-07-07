@@ -1,0 +1,220 @@
+[[dialogue]]
+speaker = "カティア"
+original = "「それで魔王様、早速調査に向かいますか？」"
+translation = "「그래서 마왕님, 바로 조사하러 가실 건가요?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "もう少し情報が欲しいかな"
+translation = "정보가 좀 더 필요할 것 같은데"
+
+[[dialogue]]
+speaker = "カティア"
+original = "「魔王様の言う通り、今のままだと少々情報不足ですね……」"
+translation = "「마왕님 말씀대로, 지금 이대로는 조금 정보가 부족하네요……」"
+
+[[dialogue]]
+speaker = "カティア"
+original = "「しかしコラプサーは私たちと同じく星術を使っていると聞きました。なら星術に詳しいトワちゃん先生に聞いてみましょう」"
+translation = "「하지만 콜랩서는 우리와 마찬가지로 성술을 사용한다고 들었어요. 그렇다면 성술에 정통한 토와 선생님께 여쭤보죠」"
+
+[[dialogue]]
+speaker = "カティア"
+original = "「トワちゃん先生なら何かわかったことがあるかもしれませんし」"
+translation = "「토와 선생님이라면 뭔가 알고 계신 게 있을지도 모르니까요」"
+
+[[dialogue]]
+speaker = "unk"
+original = "行ってみようか"
+translation = "가볼까"
+
+[[dialogue]]
+speaker = "カティア"
+original = "「はい！\u3000魔王様！」"
+translation = "「네! 마왕님!」"
+
+[[dialogue]]
+speaker = "カティア"
+original = "「トワちゃん先生～聞きたいことがあるんですけど～」"
+translation = "「토와 선생님~ 여쭤보고 싶은 게 있는데요~」"
+
+[[dialogue]]
+speaker = "トワ先生"
+original = "「カティアちゃんに会長くん？\u3000急にどうしたの？」"
+translation = "「카티아 짱에 회장군? 갑자기 무슨 일이야?」"
+
+[[dialogue]]
+speaker = "エスメラルダ"
+original = "「私たちに何か用かしら？」"
+translation = "「우리에게 무슨 용무라도 있는 걸까?」"
+
+[[dialogue]]
+speaker = "カティア"
+original = "「流星のエスメラルダ先生まで……！\u3000初めまして、新星１年のカティアです！」"
+translation = "「유성의 에스메랄다 선생님까지……! 처음 뵙겠습니다, 신성 1학년 카티아입니다!」"
+
+[[dialogue]]
+speaker = "エスメラルダ"
+original = "「ご丁寧にどうも。流星学園教師のエスメラルダよ……って私のことは知っているみたいね」"
+translation = "「정중하게 인사해 줘서 고마워요. 유성학원 교사인 에스메랄다예요…… 이미 저를 알고 있는 모양이네요」"
+
+[[dialogue]]
+speaker = "トワ先生"
+original = "「エスメラルダ先生は新星でも有名人ですからね」"
+translation = "「에스메랄다 선생님은 신성에서도 유명하시니까요」"
+
+[[dialogue]]
+speaker = "エスメラルダ"
+original = "「ふふ……そういうトワちゃん先生も流星では有名ですよ」"
+translation = "「후후…… 그런 토와 선생님도 유성에서는 유명하다구요」"
+
+[[dialogue]]
+speaker = "unk"
+original = "星騎士襲撃事件について聞きたいんですが"
+translation = "성기사 습격 사건에 대해 여쭤보고 싶어서요"
+
+[[dialogue]]
+speaker = "トワ先生"
+original = "「会長くんたちも例の事件を調査してるんだね。私たちもちょうどその話をしてたところなんだ」"
+translation = "「회장군 일행도 그 사건을 조사하고 있구나. 우리도 마침 그 이야기를 하던 참이었어」"
+
+[[dialogue]]
+speaker = "カティア"
+original = "「おお、これは期待できますね魔王様！\u3000それで何かわかったことはありますか？」"
+translation = "「오오, 이건 기대되는데요 마왕님! 그래서 뭔가 알아낸 게 있나요?」"
+
+[[dialogue]]
+speaker = "トワ先生"
+original = "「うーん……わからないことがわかった、って感じかな」"
+translation = "「으음…… 모르는 게 무엇인지 알아냈다, 라는 느낌일까」"
+
+[[dialogue]]
+speaker = "カティア"
+original = "「へ？\u3000どういうことなんです？」"
+translation = "「헤? 그게 무슨 소리예요?」"
+
+[[dialogue]]
+speaker = "エスメラルダ"
+original = "「会長さんたちも薄々感づいているとは思うけど、犯人はコラプサーの可能性が高いわ」"
+translation = "「회장님 일행도 어렴풋이 눈치채고 있겠지만, 범인은 콜랩서일 가능성이 높아」"
+
+[[dialogue]]
+speaker = "カティア"
+original = "「やっぱり、コラプサー……！」"
+translation = "「역시, 콜랩서……!」"
+
+[[dialogue]]
+speaker = "エスメラルダ"
+original = "「ええ、事件現場の観測を行った結果、過去のコラプサー事件と酷似した数値が検出されたの」"
+translation = "「그래요, 사건 현장을 관측한 결과, 과거의 콜랩서 사건과 흡사한 수치가 검출되었거든요」"
+
+[[dialogue]]
+speaker = "エスメラルダ"
+original = "「もっと言うと、星術を使った痕跡はあるのに、星力は検出されない……そんな感じね」"
+translation = "「좀 더 말하자면, 성술을 사용한 흔적은 있는데, 성력은 검출되지 않는다…… 그런 느낌이지」"
+
+[[dialogue]]
+speaker = "カティア"
+original = "「あるのにない？\u3000ていうかコラプサーは星術を使ってるんじゃ……？\u3000魔王様～、私の頭じゃよくわかりませんガオ～」"
+translation = "「있는데 없다구요? 그보다 콜랩서는 성술을 쓰는 게 아닌가요……? 마왕님~, 제 머리로는 잘 모르겠다크앙~」"
+
+[[dialogue]]
+speaker = "unk"
+original = "大丈夫、俺もわかってないから"
+translation = "괜찮아, 나도 모르겠으니까"
+
+[[dialogue]]
+speaker = "エスメラルダ"
+original = "「ふふ、今の説明じゃわからなくて当然よね」"
+translation = "「후후, 방금 설명으로는 모르는 게 당연하겠네」"
+
+[[dialogue]]
+speaker = "トワ先生"
+original = "「コラプサーが使う星力は、私たちが使っているのとは違う……負の星力とでも言うべきものなの。それに彼女たちの守護星も観測できてなくて」"
+translation = "「콜랩서가 사용하는 성력은, 우리가 사용하는 것과는 달라요…… 부의 성력이라고 불러야 할 물건이죠. 게다가 그녀들의 수호성도 관측되지 않고 있고」"
+
+[[dialogue]]
+speaker = "カティア"
+original = "「？？？\u3000守護星がないのに、星力を使えるってことです……？」"
+translation = "「??? 수호성이 없는데, 성력을 쓸 수 있다는 건가요……?」"
+
+[[dialogue]]
+speaker = "トワ先生"
+original = "「ううん。守護星は確実に<b>ある</b>はずなの……だけど、数値がちゃんと出ないんだ」"
+translation = "「아니. 수호성은 확실히 <b>있을</b> 거야…… 하지만, 수치가 제대로 나오지 않아」"
+
+[[dialogue]]
+speaker = "カティア"
+original = "「数値が出ない？\u3000観測できない守護星なんてあるんですか？\u3000私の守護星なんてちっぽけな衛星でもわかったのに」"
+translation = "「수치가 안 나와요? 관측할 수 없는 수호성 같은 게 있나요? 제 수호성은 쥐꼬리만한 위성이라도 다 알 수 있는데」"
+
+[[dialogue]]
+speaker = "エスメラルダ"
+original = "「星力がほんの少しだとわからない場合もあるけど、守護星である以上、普通は特定できるわ」"
+translation = "「성력이 아주 미세하면 알 수 없는 경우도 있지만, 수호성인 이상 보통은 특정할 수 있어요」"
+
+[[dialogue]]
+speaker = "トワ先生"
+original = "「だから守護星が観測出来ないのは、コラプサーの能力なのかもしれない」"
+translation = "「그러니 수호성이 관측되지 않는 건, 콜랩서의 능력일지도 몰라」"
+
+[[dialogue]]
+speaker = "エスメラルダ"
+original = "「もしくは、よほど<b>特別な</b>守護星を持っているか、ね」"
+translation = "「아니면, 아주 <b>특별한</b> 수호성을 가지고 있거나, 말이야」"
+
+[[dialogue]]
+speaker = "カティア"
+original = "「わからないのにある……あるのにない……ガウ～、考えれば考えるほど頭がこんがらがってきますよ」"
+translation = "「모르겠는데 있고…… 있는데 없다니…… 크앙~, 생각하면 할수록 머리가 뒤섞여버려요」"
+
+[[dialogue]]
+speaker = "unk"
+original = "でもヒントになるかもしれません"
+translation = "하지만 힌트가 될지도 모르겠네요"
+
+[[dialogue]]
+speaker = "エスメラルダ"
+original = "「だといいわね。コラプサーはとても危険な相手だから気を付けてね」"
+translation = "「그러면 좋겠네. 콜랩서는 아주 위험한 상대니까 조심해야 해」"
+
+[[dialogue]]
+speaker = "トワ先生"
+original = "「会長くんはともかく、カティアちゃんは大丈夫？\u3000危なくなる前に逃げるんだよ？」"
+translation = "「회장군은 그렇다 쳐도, 카티아 짱은 괜찮겠어? 위험해지기 전에 도망쳐야 한다?」"
+
+[[dialogue]]
+speaker = "カティア"
+original = "「言われなくてもわかってますワンっ」"
+translation = "「말씀 안 하셔도 알고 있다멍!」"
+
+[[dialogue]]
+speaker = "カティア"
+original = "「それじゃ、情報ありがとうございました！\u3000行ってきます！」"
+translation = "「그럼, 정보 감사합니다! 다녀올게요!」"
+
+[[dialogue]]
+speaker = "カティア"
+original = "「さてさて魔王様、情報は集めましたし、次は調査に向かいましょう！」"
+translation = "「자자 마왕님, 정보는 모았으니 다음은 조사를 향해 가자구요!」"
+
+[[dialogue]]
+speaker = "カティア"
+original = "「まずは事件現場にでも行きます？\u3000犯人は現場に戻るとも言いますし……！」"
+translation = "「우선 사건 현장에라도 가볼까요? 범인은 현장으로 돌아온다는 말도 있으니까요……!」"
+
+[[dialogue]]
+speaker = "カティア"
+original = "「このカティア刑事、華麗に事件を解決してみせますワン！」"
+translation = "「이 카티아 형사, 화려하게 사건을 해결해 보이겠다멍!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "頼りにしてるよ"
+translation = "믿고 있을게"
+
+[[dialogue]]
+speaker = "カティア"
+original = "「はいワン！\u3000行きましょう魔王様！」"
+translation = "「네 멍! 가요 마왕님!」"
+

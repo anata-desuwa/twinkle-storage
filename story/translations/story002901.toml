@@ -1,0 +1,305 @@
+[[dialogue]]
+speaker = "unk"
+original = "『<ruby>星霊祭<rt>せいれいさい</rt></ruby>』とは、流星学園と新星学園の合同体育祭だ。"
+translation = "『성령제』란, 유성 학원과 신성 학원의 합동 체육대회다."
+
+[[dialogue]]
+speaker = "unk"
+original = "それぞれの学園に所属する生徒たちは、７日間に渡って、競技と舞闘会でぶつかり合う。"
+translation = "각 학원에 소속된 학생들은 7일 동안, 경기와 무투회에서 맞붙는다."
+
+[[dialogue]]
+speaker = "unk"
+original = "そんな一大イベントである『星霊祭』の開催まで、あと数日に迫っていた。"
+translation = "그런 대형 이벤트인 『성령제』 개최가 며칠 앞으로 다가와 있었다."
+
+[[dialogue]]
+speaker = "ヒヨ"
+original = "「えっほ、えっほ。早くゴールを目指さなきゃなぁ」"
+translation = "「에잇, 에잇. 빨리 골을 목표로 해야지」"
+
+[[dialogue]]
+speaker = "カティア"
+original = "「遅ーい！\u3000そんなゆっくり走ってたら抜かれちゃうワン！」"
+translation = "「느려! 그렇게 천천히 뛰면 추월당한다 멍!」"
+
+[[dialogue]]
+speaker = "ヒヨ"
+original = "「そんなに急かすんじゃねえや。まだ足慣らしでい！」"
+translation = "「그렇게 재촉하지 마라. 아직 발 풀기 중이다!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "新星学園の敷地内の運動場に行くと、学園対抗リレーの選手に選ばれたカティアとヒヨが走り込みをしていた。"
+translation = "신성 학원 부지 내 운동장에 가보니, 학원 대항 계주 선수로 뽑힌 카티아와 히요가 달리기 연습을 하고 있었다."
+
+[[dialogue]]
+speaker = "ミルフィー"
+original = "「あはは、あの２人の練習中って、いつもあんな感じなんだよね……」"
+translation = "「아하하, 저 두 사람이 연습 중일 땐, 항상 저런 느낌이야……」"
+
+[[dialogue]]
+speaker = "ミルフィー"
+original = "「リレーって連携が大事だから、あんな風にバチバチしてると、ちょっぴり不安になっちゃうよね」"
+translation = "「계주는 연계가 중요하니까, 저렇게 으르렁거리면, 살짝 불안해지잖아」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ミルフィーはリレーには参加しないのか？"
+translation = "밀피는 계주에는 참가하지 않는 건가?"
+
+[[dialogue]]
+speaker = "ミルフィー"
+original = "「私は投擲競技が専門だから、リレーと同じ日の槍投げに出場するんだ。まあ、あんまり足も速い方じゃないしね」"
+translation = "「나는 투척 경기가 전문이라, 계주와 같은 날에 열리는 창던지기에 출전해. 뭐, 발도 그다지 빠른 편이 아니고」"
+
+[[dialogue]]
+speaker = "unk"
+original = "……なるほど"
+translation = "……과연"
+
+[[dialogue]]
+speaker = "ミルフィー"
+original = "「どこ見て納得したの！？\u3000もうっ！」"
+translation = "「어딜 보고 납득한 거야!? 정말!」"
+
+[[dialogue]]
+speaker = "ヒヨ"
+original = "「おっ、会長サンじゃねえか。何用だい？\u3000まさか、姐さんに手ぇ出しちゃいねぇだろうなあ？」"
+translation = "「오, 회장군 아니냐. 무슨 일이야? 설마, 누님에게 손대거나 하진 않았겠지?」"
+
+[[dialogue]]
+speaker = "ミルフィー"
+original = "「だ、出されてないよ！」"
+translation = "「아, 안 댔어!」"
+
+[[dialogue]]
+speaker = "ミルフィー"
+original = "（ちょっとくらい出してくれてもいいのになーとは思ってるけど……）"
+translation = "（조금 정도는 손대 줘도 괜찮을 텐데ー라고 생각하고 있지만……）"
+
+[[dialogue]]
+speaker = "unk"
+original = "ミルフィー？"
+translation = "밀피?"
+
+[[dialogue]]
+speaker = "ミルフィー"
+original = "「う、ううん、何でもないよ、何でも！\u3000あはは……」"
+translation = "「으, 응, 아무것도 아니야, 아무것도! 아하하……」"
+
+[[dialogue]]
+speaker = "カティア"
+original = "「よくいらっしゃいました、魔王様！\u3000見ての通り、私とヒヨはリレーの特訓中ですガオ！」"
+translation = "「잘 오셨습니다, 마왕님! 보시다시피, 저와 히요는 계주 특별 훈련 중입니다 갸오!」"
+
+[[dialogue]]
+speaker = "カティア"
+original = "「最終日の『舞闘会』決勝戦に繋げるために、学園対抗リレーは絶対勝ちたいですワン！」"
+translation = "「마지막 날의 『무투회』 결승전으로 이어가기 위해, 학원 대항 계주는 반드시 이기고 싶습니다 멍!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "競技と舞闘会は７日間に分けて行われる。"
+translation = "경기와 무투회는 7일간에 걸쳐 진행된다."
+
+[[dialogue]]
+speaker = "unk"
+original = "競技は６日目で終了し、『星霊祭』の華である舞闘会決勝戦は最終日の７日目だ。"
+translation = "경기는 6일째에 종료되고, 『성령제』의 꽃인 무투회 결승전은 마지막 날인 7일째다."
+
+[[dialogue]]
+speaker = "ミルフィー"
+original = "「ここ３年、舞闘会では新星学園が優勝してるんだけど、総合優勝は３年連続で流星学園に負けてて、辛酸を舐めてるんだよね」"
+translation = "「최근 3년 동안, 무투회에서는 신성 학원이 우승했지만, 종합 우승은 3년 연속 유성 학원에 져서, 쓴맛을 보고 있거든」"
+
+[[dialogue]]
+speaker = "カティア"
+original = "「今年こそは私たち、新星学園の完勝で飾りたいです！」"
+translation = "「올해야말로 저희 신성 학원의 완승으로 장식하고 싶습니다!」"
+
+[[dialogue]]
+speaker = "ヒヨ"
+original = "「狙ってることは相手サンだって同じさあ。途中の競技もぶっちぎりで勝って、舞闘会の決勝戦でも大勝利って寸法でい」"
+translation = "「노리는 건 상대편도 마찬가지지. 도중 경기도 압도적으로 이기고, 무투회 결승전에서도 대승리하는 게 계획이다」"
+
+[[dialogue]]
+speaker = "カティア"
+original = "「流星学園の４連勝なんてさせないですワン！\u3000ふんす！」"
+translation = "「유성 학원의 4연승은 용납할 수 없습니다 멍! 흥!」"
+
+[[dialogue]]
+speaker = "ミルフィー"
+original = "「うん！\u3000『星霊祭』、絶対勝とうね！」"
+translation = "「응! 『성령제』, 꼭 이기자!」"
+
+[[dialogue]]
+speaker = "ヒヨ"
+original = "「おう、姐さん！\u3000でもよ、ワン公、その服、おめえさんとは相性が悪いんじゃねえのかい？」"
+translation = "「오우, 누님! 그런데 말이야, 멍멍이, 그 옷, 너랑은 상성이 안 좋은 거 아니냐?」"
+
+[[dialogue]]
+speaker = "カティア"
+original = "「そ、そんなことないワン！」"
+translation = "「그, 그렇지 않습니다 멍!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "そういえば、いつもの戦闘服じゃないんだね"
+translation = "그러고 보니, 평소의 전투복이 아니네"
+
+[[dialogue]]
+speaker = "カティア"
+original = "「お気づきでしたか！\u3000はいっ、簡易戦闘服の体操服フォームなんです！」"
+translation = "「눈치채셨습니까! 네, 간이 전투복인 체육복 형태입니다!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "カティアが着ているのは、自分用の戦闘服を発現させられない星騎士が着用する簡易戦闘服だ。"
+translation = "카티아가 입고 있는 것은, 자신만의 전투복을 발현시키지 못하는 성기사가 착용하는 간이 전투복이다."
+
+[[dialogue]]
+speaker = "unk"
+original = "星霊祭では、競技も各自の戦闘服を着用して参加するのが通例なのだが……"
+translation = "성령제에서는, 경기도 각자의 전투복을 착용하고 참가하는 것이 통례인데……"
+
+[[dialogue]]
+speaker = "カティア"
+original = "「本当は未熟な星騎士が着るものなんですが……私の場合、いつもの戦闘服だと、星力が戦闘服の維持に使われちゃうので、こっちの方が速いんですワン」"
+translation = "「사실은 미숙한 성기사가 입는 것이지만…… 저의 경우, 평소의 전투복은 성력이 전투복 유지에 사용되어 버려서, 이쪽이 더 빠릅니다 멍」"
+
+[[dialogue]]
+speaker = "カティア"
+original = "「でもスピードに自信はあります！\u3000百聞はなんとかです！\u3000魔王様、見ててください……ガオ！」"
+translation = "「하지만 스피드에는 자신이 있습니다! 백문이 불여일견입니다! 마왕님, 지켜봐 주세요…… 갸오!」"
+
+[[dialogue]]
+speaker = "ミルフィー"
+original = "「あっ、カティアちゃん！\u3000あんまり調子に乗ると──」"
+translation = "「앗, 카티아짱! 너무 기세등등하면──」"
+
+[[dialogue]]
+speaker = "カティア"
+original = "「よーい……ドン！」"
+translation = "「준비…… 땅!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "速っ！？"
+translation = "빠르다!?"
+
+[[dialogue]]
+speaker = "unk"
+original = "一歩を踏み出したその瞬間から、カティアはトップスピード。あっという間に、あんな遠くに──"
+translation = "한 걸음을 내딛는 그 순간부터, 카티아는 최고 속도. 눈 깜짝할 사이에, 저렇게 멀리──"
+
+[[dialogue]]
+speaker = "ミルフィー"
+original = "「瞬発力は、普段の戦闘服の比じゃなくって、トップスピードは光のごとく！\u3000……なんだけどね」"
+translation = "「순발력은, 평소 전투복과는 비교가 안 되고, 최고 속도는 빛과 같아! ……인데 말이지」"
+
+[[dialogue]]
+speaker = "unk"
+original = "なんだけど……？"
+translation = "인데……?"
+
+[[dialogue]]
+speaker = "カティア"
+original = "「ぎゃわーん！」"
+translation = "「갸와앙!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ものすごい勢いのまま、転がるように壁に突っ込んだ。"
+translation = "엄청난 기세 그대로, 구르듯이 벽에 돌진했다."
+
+[[dialogue]]
+speaker = "カティア"
+original = "「あいたたた……また転んじゃったガオ……」"
+translation = "「아야야야…… 또 넘어졌습니다 갸오……」"
+
+[[dialogue]]
+speaker = "ヒヨ"
+original = "「コロコロコロコロと、さっきからなんべん転がってやがんでえ！\u3000達磨だってもっと上手く転がらあ！」"
+translation = "「데굴데굴데굴데굴, 아까부터 몇 번이나 구르는 거냐! 달마도 이것보단 잘 구르겠다!」"
+
+[[dialogue]]
+speaker = "カティア"
+original = "「は、走り出した私は、急に止まれないんだワン！」"
+translation = "「하, 달리기 시작한 저는, 갑자기 멈출 수 없는 겁니다 멍!」"
+
+[[dialogue]]
+speaker = "ヒヨ"
+original = "「犬じゃなくて猪ってことかい？\u3000十二支がひとつ後ろに下がったなあ」"
+translation = "「개가 아니라 멧돼지라는 거냐? 십이지가 하나 뒤로 밀렸네」"
+
+[[dialogue]]
+speaker = "カティア"
+original = "「じゅうにし……？\u3000それ美味しいの？」"
+translation = "「십이지……? 그거 맛있나요?」"
+
+[[dialogue]]
+speaker = "ヒヨ"
+original = "「ああ、魔族だからわかんねぇのか。毎年、子、丑、寅、卯、辰、巳、午、未、申、酉、戌、亥って巡っていくのさ」"
+translation = "「아아, 마족이라서 모르는 건가. 매년, 쥐, 소, 호랑이, 토끼, 용, 뱀, 말, 양, 원숭이, 닭, 개, 멧돼지 순으로 돌아가는 거다」"
+
+[[dialogue]]
+speaker = "カティア"
+original = "「なるほど！\u3000犬の次は猪──って、誰が猪だガオ！」"
+translation = "「과연! 개 다음은 멧돼지──라니, 누가 멧돼지입니까 갸오!」"
+
+[[dialogue]]
+speaker = "ヒヨ"
+original = "「おめえさんだよ！\u3000文句はちゃんと曲がれるようになってから言いやがれってんだ」"
+translation = "「너 말이야! 불만은 제대로 돌 수 있게 된 다음에 말해라」"
+
+[[dialogue]]
+speaker = "カティア"
+original = "「ぐぬぬぬぬぬぬー！\u3000言い返せないワン……」"
+translation = "「크으으으으으으! 반박할 수 없습니다 멍……」"
+
+[[dialogue]]
+speaker = "ミルフィー"
+original = "「あはは……ご覧の通り、スピード調整がすごく難しいみたいでね……」"
+translation = "「아하하…… 보시다시피, 속도 조절이 너무 어려운 것 같아서 말이야……」"
+
+[[dialogue]]
+speaker = "ミルフィー"
+original = "「まっすぐはまだいいんだけど、カーブが難しいみたい。勢いがつきすぎてバランスが崩れると、派手に転んじゃうんだ……さっきみたいに」"
+translation = "「직선은 괜찮은데, 커브가 어려운 것 같아. 기세가 너무 붙어서 균형이 무너지면, 요란하게 넘어져 버려…… 방금처럼」"
+
+[[dialogue]]
+speaker = "ミルフィー"
+original = "「私は走るの専門じゃないし、加速系の星術が得意なわけでもないからコツも教えられないし……」"
+translation = "「나는 달리기 전문도 아니고, 가속 계열의 성술이 특기인 것도 아니라서 요령도 못 가르쳐 주겠고……」"
+
+[[dialogue]]
+speaker = "ミルフィー"
+original = "「お手伝いしたいのはやまやまなんだけど、体で覚える以外なさそうなんだよね」"
+translation = "「도와주고 싶은 마음은 굴뚝같지만, 몸으로 익히는 수밖에 없을 것 같아」"
+
+[[dialogue]]
+speaker = "ミルフィー"
+original = "「スパルタになっちゃうけど、反復練習あるのみ、かな。見守ることしかできないのは、ちょっともどかしい──あっ」"
+translation = "「스파르타가 되겠지만, 반복 연습만이 살길이겠지. 지켜볼 수밖에 없는 건, 좀 답답해── 앗」"
+
+[[dialogue]]
+speaker = "カティア"
+original = "「あいたーーー！！」"
+translation = "「아파ーーー!!」"
+
+[[dialogue]]
+speaker = "ヒヨ"
+original = "「また壁に突っ込んでんじゃねえか、ワン公！\u3000ったく、そんなドジがあたしのライバルかと思うと泣けてくらあ」"
+translation = "「또 벽에 처박고 있잖아, 멍멍이! 정말, 그런 덜렁이가 내 라이벌이라고 생각하니 눈물이 난다」"
+
+[[dialogue]]
+speaker = "unk"
+original = "カティアの悲鳴と、ヒヨの叱咤が響く。"
+translation = "카티아의 비명과, 히요의 질책이 울려 퍼진다."
+
+[[dialogue]]
+speaker = "unk"
+original = "果たしてカティアは『星霊祭』までにちゃんと走れるようになるのだろうか……？"
+translation = "과연 카티아는 『성령제』까지 제대로 뛸 수 있게 될까……?"
+

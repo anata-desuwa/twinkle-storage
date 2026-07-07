@@ -1,0 +1,385 @@
+[[dialogue]]
+speaker = "ルリエル"
+original = "「今起きてる事件の犯人が赤ちゃんクマロボさんなら、狙われそうなのはやっぱりここなのです！」"
+translation = "「지금 일어나는 사건의 범인이 아기 곰 로봇 씨라면 노려질 만한 곳은 역시 여기예요!」"
+
+[[dialogue]]
+speaker = "蛍火"
+original = "「師匠……！\u3000いいところに来てくれました」"
+translation = "「스승님……! 좋은 때에 와주셨습니다」"
+
+[[dialogue]]
+speaker = "unk"
+original = "実は赤ちゃんクマロボが……"
+translation = "사실 아기 곰 로봇이……"
+
+[[dialogue]]
+speaker = "unk"
+original = "蛍火！"
+translation = "호타루비!"
+
+[[dialogue]]
+speaker = "蛍火"
+original = "「そうなんです。どうなってるんでしょうか、これは……」"
+translation = "「맞습니다. 어떻게 된 걸까요, 이건……」"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「わわわ……！！」"
+translation = "「와와와……!!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "カフェテリアの中は大惨事になっていた。"
+translation = "카페테리아 안은 대참사가 벌어져 있었다."
+
+[[dialogue]]
+speaker = "unk"
+original = "大量の赤ちゃんクマロボ。それこそ３匹どころではなく、数えきれないほど……"
+translation = "대량의 아기 곰 로봇. 그야말로 세 마리 정도가 아니라 셀 수 없을 정도로……"
+
+[[dialogue]]
+speaker = "unk"
+original = "その赤ちゃんクマロボたちがあちこちで、色んなものを食い荒らしている。"
+translation = "그 아기 곰 로봇들이 여기저기서 여러 가지를 먹어 치우고 있다."
+
+[[dialogue]]
+speaker = "蛍火"
+original = "「あの子たち、食べ物だけじゃなくて、何でも食べてしまうんです……」"
+translation = "「저 아이들, 음식뿐만 아니라 뭐든지 먹어버려요……」"
+
+[[dialogue]]
+speaker = "unk"
+original = "迷惑かけちゃってごめん！"
+translation = "폐를 끼쳐서 미안해!"
+
+[[dialogue]]
+speaker = "蛍火"
+original = "「いえ、赤ちゃんのすることですから……ただそれより、何でも食べてしまうからお腹を壊してしまわないかな、と」"
+translation = "「아니요, 아기가 하는 짓이니까요…… 다만 그것보다 뭐든지 먹어버리니 배탈이 나지 않을까 해서」"
+
+[[dialogue]]
+speaker = "unk"
+original = "しっかりして、蛍火！"
+translation = "정신 차려, 호타루비!"
+
+[[dialogue]]
+speaker = "unk"
+original = "そんな心配してる場合じゃない！"
+translation = "그런 걱정 하고 있을 때가 아니야!"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「そうですよ！\u3000この数といい、なんでも食べちゃうところといい、この子たち普通じゃありません！」"
+translation = "「맞아요! 이 숫자며 뭐든지 먹어 치우는 점이며 이 아이들 보통이 아니에요!」"
+
+[[dialogue]]
+speaker = "蛍火"
+original = "「！\u3000……言われてみれば、その通りです」"
+translation = "「! ……듣고 보니 그렇군요」"
+
+[[dialogue]]
+speaker = "ラファエロ"
+original = "「ふぅ……正気に戻ってくれたみたいだね」"
+translation = "「후우…… 제정신으로 돌아온 모양이네」"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「とりあえず片っ端から捕まえましょう！」"
+translation = "「일단 닥치는 대로 잡죠!」"
+
+[[dialogue]]
+speaker = "赤ちゃんクマロボ"
+original = "「ばぶー<emoji=heart04>」"
+translation = "「바부ー<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「あっ、逃げた！\u3000待ちなさーいっ！！！」"
+translation = "「앗, 도망쳤다! 거기 서라아아!!!」"
+
+[[dialogue]]
+speaker = "アニマ"
+original = "「フヒ……誰かと思えば会長じゃないカ」"
+translation = "「후히…… 누군가 했더니 회장이잖나」"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「アニマ先輩！」"
+translation = "「아니마 선배님!」"
+
+[[dialogue]]
+speaker = "アニマ"
+original = "「如何にも、購買部の美少女看板娘にして天才錬金術師のアニマ先輩ダ」"
+translation = "「그렇다, 구매부의 미소녀 간판 아가씨이자 천재 연금술사인 아니마 선배다」"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「購買部も赤ちゃんクマロボさんに荒らされちゃってます～……ご愁傷様なのです」"
+translation = "「구매부도 아기 곰 로봇 씨에게 털려버렸네요~…… 조의를 표하는 거예요」"
+
+[[dialogue]]
+speaker = "アニマ"
+original = "「この実に興味深い生き物は、赤ちゃんクマロボというのカ？」"
+translation = "「이 실로 흥미로운 생물은 아기 곰 로봇이라고 하는 건가?」"
+
+[[dialogue]]
+speaker = "アニマ"
+original = "「先ほどから大量発生してお店の物を食い荒らしているので、その生態について観察していたところダ」"
+translation = "「조금 전부터 대량 발생해서 가게 물건을 먹어 치우고 있기에 그 생태에 대해 관찰하던 참이다」"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「か、観察ですか……？」"
+translation = "「관, 관찰인가요……?」"
+
+[[dialogue]]
+speaker = "アニマ"
+original = "「今はいろんな物を食べさせて、その様子を観察しているところダ。近くのものを何でも手当たり次第に食べてしまうようだからナ」"
+translation = "「지금은 여러 가지를 먹여서 그 모습을 관찰하는 중이다. 근처에 있는 거라면 뭐든지 닥치는 대로 먹어버리는 모양이니까 말이다」"
+
+[[dialogue]]
+speaker = "アニマ"
+original = "「では次は、アニマの開発した薬品を与えてみよう♪\u3000まずは全身の細胞を活性化させ、筋力を大幅に向上させる薬ヲ……」"
+translation = "「그럼 다음은 아니마가 개발한 약품을 투여해 보자♪ 우선 전신의 세포를 활성화해 근력을 대폭 향상시키는 약을……」"
+
+[[dialogue]]
+speaker = "unk"
+original = "そんなもの与えないでください！"
+translation = "그런 거 주지 마세요!"
+
+[[dialogue]]
+speaker = "unk"
+original = "ストーーーップ！！"
+translation = "스토오오옵!!"
+
+[[dialogue]]
+speaker = "アニマ"
+original = "「会長？\u3000何故、止めるのカナ？」"
+translation = "「회장? 왜 말리는 건가?」"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「赤ちゃんクマロボさんがムキムキになって、手に負えなくなっちゃったらどうするんですか～！」"
+translation = "「아기 곰 로봇 씨가 근육질이 돼서 감당할 수 없게 되면 어쩔 거예요~!」"
+
+[[dialogue]]
+speaker = "アニマ"
+original = "「フム……それはそれで興味深いナ？」"
+translation = "「후무…… 그건 그것대로 흥미롭군?」"
+
+[[dialogue]]
+speaker = "ステラ"
+original = "「会長さん……もしかしたらこの方も、赤ちゃんクマロボさんの魅了の影響を受けているのでは……？」"
+translation = "「회장님…… 혹시 이분도 아기 곰 로봇 씨의 매료 영향에 노출된 게 아닐까요……?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "判断が難しい。アニマ先輩はオールウェイズこういうところがある……"
+translation = "판단하기 어렵네. 아니마 선배는 올웨이즈 이런 면이 있어서……"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「アニマ先輩、しっかりしてくださーい！\u3000実はこの子たちは──！」"
+translation = "「아니마 선배님, 정신 차리세요! 사실 이 아이들은──!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "俺たちは急いで、なるべく手短にアニマ先輩へこれまでの経緯を説明した。"
+translation = "우리들은 서둘러서 가급적 짧게 아니마 선배에게 지금까지의 경위를 설명했다."
+
+[[dialogue]]
+speaker = "アニマ"
+original = "「フヒッ……妙に興味をそそられると思っていたガ、この生き物はそういう特性を持っているのカ！\u3000ますます興味深いナ！！」"
+translation = "「후힛…… 묘하게 흥미를 끈다 싶었더니 이 생물은 그런 특성을 가지고 있었던 건가! 점점 더 흥미롭군!!」"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「ひ～んっ。喜んでないで手伝ってくださ～い！」"
+translation = "「히잉. 기뻐하지 말고 좀 도와주세요!」"
+
+[[dialogue]]
+speaker = "アニマ"
+original = "「全員を捕まえなければならないのカ？\u3000だとすると、この数はなかなか大変だゾ？」"
+translation = "「전원을 잡아야 하는 건가? 그렇다면 이 숫자는 꽤나 힘들겠는데?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "アニマ先輩の指摘通り、正体を現した赤ちゃんクマロボはモノを食べた端から増殖しており、もはや視界に映るだけでも数十匹。全部で何体になるのかは想像したくもない。"
+translation = "아니마 선배의 지적대로 정체를 드러낸 아기 곰 로봇은 물건을 먹는 족족 증식하고 있었으며 이미 시야에 비치는 것만 수십 마리. 전부 몇 마리가 될지는 상상하고 싶지도 않다."
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「きゅぴーん！\u3000ルリエル、閃きました！」"
+translation = "「큐피잉! 루리엘, 번뜩였습니다!」"
+
+[[dialogue]]
+speaker = "ステラ"
+original = "「さ、さすがルリエルさんです！\u3000どんな方法ですか！？」"
+translation = "「과, 과연 루리엘 씨예요! 어떤 방법인가요!?」"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「相手が赤ちゃんなら、対抗手段はこれしかありません！\u3000ふふふ、少々お待ちください、強力な援軍を呼びますから！」"
+translation = "「상대가 아기라면 대항 수단은 이것밖에 없어요! 후후후, 조금만 기다려 주세요, 강력한 원군을 부를 테니까요!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ルリエルはＤＩＳＣを取り出すと、どこかに連絡をかけ始める。"
+translation = "루리엘은 DISC를 꺼내더니 어딘가로 연락을 하기 시작한다."
+
+[[dialogue]]
+speaker = "unk"
+original = "そして──"
+translation = "그리고──"
+
+[[dialogue]]
+speaker = "セシア"
+original = "「お待たせよ！」"
+translation = "「오래 기다렸지!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "このメンバーは……！"
+translation = "이 멤버는……!"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「捕まえようにも捕まえきれない！\u3000それならば、向こうから来るように仕向ければいいのです！」"
+translation = "「잡으려 해도 다 잡을 수가 없다! 그렇다면 저쪽에서 오게 만들면 되는 거예요!」"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「セシアさんにママ力の高いメンバーを集めてもらいました。名付けて『赤ちゃんホイホイ大作戦』なのです！」"
+translation = "「세시아 씨에게 엄마력이 높은 멤버를 모아달라고 했어요. 이름하여 『아기 호이호이 대작전』이에요!」"
+
+[[dialogue]]
+speaker = "セシア"
+original = "「わたくしの考える、ベストママセレクション５人を用意したわ！」"
+translation = "「내가 생각하는 베스트 마마 셀렉션 5명을 준비했어!」"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「素晴らしいセレクションなのです♪」"
+translation = "「훌륭한 셀렉션이에요♪」"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「あれ？\u3000マグダレナさん、リノさん、紅明さん、モネさん……４人しか居なくありませんか？」"
+translation = "「어라? 막달레나 씨, 리노 씨, 코우메이 씨, 모네 씨…… 4명밖에 없지 않나요?」"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「あ、わかりました！\u3000最後の１人はズバリ、セシアさんご自身なのです！」"
+translation = "「아, 알겠어요! 마지막 한 명은 바로 세시아 씨 자신인 거군요!」"
+
+[[dialogue]]
+speaker = "セシア"
+original = "「もちろん違うわ！！」"
+translation = "「당연히 아니지!!」"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「違ったのですぅ……」"
+translation = "「틀렸던 거예요……」"
+
+[[dialogue]]
+speaker = "セシア"
+original = "「最後の１人は、クロトママよ！」"
+translation = "「마지막 한 명은 쿠로토 마마야!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "俺をママカウントしないで……"
+translation = "나를 엄마 카운트에 넣지 마……"
+
+[[dialogue]]
+speaker = "セシア"
+original = "「さあ、会長？\u3000早く女の子になって、あふれる母性を解放してちょうだい！」"
+translation = "「자, 회장? 빨리 여자아이가 되어서 넘치는 모성을 해방해 줘!」"
+
+[[dialogue]]
+speaker = "ステラ"
+original = "「会長さん……女の子になれるんですか？」"
+translation = "「회장님…… 여자아이가 될 수 있는 건가요?」"
+
+[[dialogue]]
+speaker = "ラファエロ"
+original = "「それとも女装が趣味なのかい？\u3000ああいや、構わないよ。どんな趣味でも個人の自由だからね」"
+translation = "「아니면 여장이 취미인 거니? 아아 아니, 상관없어. 어떤 취미든 개인의 자유니까 말이야」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ちがーーーうっ！"
+translation = "아니야아아앗!"
+
+[[dialogue]]
+speaker = "unk"
+original = "この世界にはアバターというものが存在していて、性別の違うアバターに入ったことがあるだけだ。"
+translation = "이 세계에는 아바타라는 것이 존재해서 성별이 다른 아바타에 들어간 적이 있을 뿐이다."
+
+[[dialogue]]
+speaker = "unk"
+original = "それもやむにやまれぬ事情があって、期間限定で女の子になってただけで……と必死で説明する。"
+translation = "그것도 어쩔 수 없는 사정이 있어서 기간 한정으로 여자아이가 됐던 것뿐이라고 필사적으로 설명한다."
+
+[[dialogue]]
+speaker = "unk"
+original = "今はママになれないよ"
+translation = "지금은 엄마가 될 수 없어"
+
+[[dialogue]]
+speaker = "unk"
+original = "急に言われてもアバターが無いから"
+translation = "갑자기 말해도 아바타가 없으니까"
+
+[[dialogue]]
+speaker = "アニマ"
+original = "「無理じゃナイぞ？\u3000女体化薬が必要なら、いつでも言ッテくれ♪\u3000フヒッ」"
+translation = "「무리도 아니다? 여체화 약이 필요하다면 언제든 말해라♪ 후히」"
+
+[[dialogue]]
+speaker = "セシア"
+original = "「だそうよ、クロトママ♪」"
+translation = "「그렇다는데, 쿠로토 마마♪」"
+
+[[dialogue]]
+speaker = "unk"
+original = "しまった！\u3000アニマ先輩が近くに居たんだった！"
+translation = "아뿔싸! 아니마 선배가 근처에 있었지!"
+
+[[dialogue]]
+speaker = "unk"
+original = "今は捕まえることを優先しよう"
+translation = "지금은 잡는 걸 우선하자"
+
+[[dialogue]]
+speaker = "unk"
+original = "４人いれば十分だ！"
+translation = "4명이면 충분해!"
+
+[[dialogue]]
+speaker = "セシア"
+original = "「えー、久しぶりにクロトママ成分を摂取したかったのに……」"
+translation = "「에이, 오랜만에 쿠로토 마마 성분을 섭취하고 싶었는데……」"
+
+[[dialogue]]
+speaker = "セシア"
+original = "「仕方ないわ！\u3000ママ、みんなで頑張って赤ちゃんクマロボを捕まえましょう！」"
+translation = "「어쩔 수 없지! 마마, 다 같이 힘내서 아기 곰 로봇을 잡자!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "セシアの号令で、ママたちはそれぞれのママ属性を活かしながら赤ちゃんクマロボを捕まえていく。"
+translation = "세시아의 호령에 엄마들은 각자의 엄마 속성을 살려가며 아기 곰 로봇을 잡아 나간다."
+
+[[dialogue]]
+speaker = "unk"
+original = "強烈なママ力に引き寄せられたのか、わらわらと赤ちゃんクマロボたちが姿を現す。"
+translation = "강렬한 엄마력에 끌려온 것인지 꾸역꾸역 아기 곰 로봇들이 모습을 드러낸다."
+
+[[dialogue]]
+speaker = "unk"
+original = "ママ軍団の活躍もあって、俺たちは赤ちゃんクマロボたちをすごい勢いで捕まえていったのだった。"
+translation = "엄마 군단의 활약도 있어 우리들은 아기 곰 로봇들을 엄청난 기세로 잡아 나갔다."
+

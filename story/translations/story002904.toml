@@ -1,0 +1,455 @@
+[[dialogue]]
+speaker = "フラン"
+original = "「フレーッ、フレーッ、し・ん・せ・い！」"
+translation = "「프레잇, 프레잇, 시・인・서・엉!」"
+
+[[dialogue]]
+speaker = "応援団員"
+original = "「フレーッ、フレーッ、し・ん・せ・い！」"
+translation = "「프레잇, 프레잇, 시・인・서・엉!」"
+
+[[dialogue]]
+speaker = "美鶴"
+original = "「フレー、フレー、し・ん・せ・ー」"
+translation = "「프레, 프레, 시・인・서・엉―」"
+
+[[dialogue]]
+speaker = "フラン"
+original = "「美鶴ーっ、声が小さいぞー！」"
+translation = "「미츠루―! 목소리가 작잖아―!」"
+
+[[dialogue]]
+speaker = "美鶴"
+original = "「げ。なんでたくさんいる中から、うちの声だけ聞き分けてんの……」"
+translation = "「켁. 왜 이렇게 많은 사람 중에서, 내 목소리만 골라 듣는 거야……」"
+
+[[dialogue]]
+speaker = "フラン"
+original = "「返事はー？」"
+translation = "「대답은―?」"
+
+[[dialogue]]
+speaker = "美鶴"
+original = "「はーい、すみませーん」"
+translation = "「네―, 죄송합니다―」"
+
+[[dialogue]]
+speaker = "フラン"
+original = "「それと立ち位置が右に３歩ズレてるー！\u3000周りもサポートしろー！」"
+translation = "「그리고 서 있는 위치가 오른쪽으로 세 걸음 벗어났어―! 주변도 서포트해라―!」"
+
+[[dialogue]]
+speaker = "応援団員"
+original = "「はいっ！\u3000美鶴さん、私の立ち位置に合わせて、調整してください！」"
+translation = "「네엣! 미츠루 씨, 제 위치에 맞춰서, 조정해 주세요!」"
+
+[[dialogue]]
+speaker = "美鶴"
+original = "「りょ。でも、これっていきなりやるには難しすぎない？」"
+translation = "「오케이. 근데, 이거 갑자기 하기엔 너무 어렵지 않아?」"
+
+[[dialogue]]
+speaker = "応援団員"
+original = "「そうですね。私は動きを覚えるのに、３週間かかりました！」"
+translation = "「그렇네요. 저는 동작을 외우는 데 3주 걸렸어요!」"
+
+[[dialogue]]
+speaker = "美鶴"
+original = "「そんなにかかるんだ……うへー」"
+translation = "「그렇게나 걸리는구나…… 우헤―」"
+
+[[dialogue]]
+speaker = "フラン"
+original = "「よし、ちょっと休憩入れるぞー」"
+translation = "「좋아, 잠깐 휴식 시간을 갖는다―」"
+
+[[dialogue]]
+speaker = "美鶴"
+original = "「ふう……やーっと休めるー……しんど」"
+translation = "「휴우…… 겨―우 쉴 수 있네―…… 힘들어」"
+
+[[dialogue]]
+speaker = "unk"
+original = "はい、差し入れのスポーツドリンク"
+translation = "네, 간식으로 스포츠 음료입니다"
+
+[[dialogue]]
+speaker = "unk"
+original = "お疲れさま、美鶴"
+translation = "수고했어, 미츠루"
+
+[[dialogue]]
+speaker = "美鶴"
+original = "「あ、会長さん。声出しまくって動きまくってで喉カラッカラだったんだー。あんがと。もらうね」"
+translation = "「아, 회장군. 목소리 실컷 내고 움직여서 목이 바싹 말랐었어―. 고마워. 받을게」"
+
+[[dialogue]]
+speaker = "美鶴"
+original = "「ごくごく、んー……うんまっ……！\u3000スポーツドリンクってこんな美味しかったっけ」"
+translation = "「꿀꺽꿀꺽, 음―…… 맛있어……! 스포츠 음료가 이렇게 맛있었나」"
+
+[[dialogue]]
+speaker = "美鶴"
+original = "「はぁ～、チアリーディングって思ったよりしんどいんだね。暑苦しいし、疲れるし、合わせんの大変」"
+translation = "「하아~, 치어리딩은 생각보다 힘드네. 덥고, 피곤하고, 맞추는 것도 힘들어」"
+
+[[dialogue]]
+speaker = "美鶴"
+original = "「こーゆー協調性が必要なのって、うちのキャラじゃないんだけどな」"
+translation = "「이런 협조성이 필요한 건, 내 캐릭터가 아닌데 말이지」"
+
+[[dialogue]]
+speaker = "フラン"
+original = "「実際練習してみて、衣装の方は何か掴めそうか？」"
+translation = "「실제로 연습해 보니, 의상 쪽은 뭔가 감을 잡을 수 있을 것 같나?」"
+
+[[dialogue]]
+speaker = "美鶴"
+original = "「掴んでる余裕なんてないし。昨日入ったばっかの初心者に容赦なさすぎでしょ。もうクッタクタ」"
+translation = "「감을 잡을 여유 같은 건 없고. 어제 막 들어온 초보자한테 너무 가차 없는 거 아니야? 벌써 녹초가 됐어」"
+
+[[dialogue]]
+speaker = "フラン"
+original = "「最初からできないと思ってる奴には厳しくしないよ。美鶴なら絶対できるって信じてるから、厳しく指導してるんだ」"
+translation = "「처음부터 못 할 거라고 생각하는 녀석에게는 엄하게 하지 않아. 미츠루라면 분명 해낼 거라고 믿고 있으니까, 엄하게 지도하는 거다」"
+
+[[dialogue]]
+speaker = "美鶴"
+original = "「言うねぇ。うちのこと買いかぶりすぎじゃない？」"
+translation = "「말 잘하네. 나를 너무 과대평가하는 거 아니야?」"
+
+[[dialogue]]
+speaker = "フラン"
+original = "「そんなことはない！\u3000美鶴は絶対にやればできるタイプだって知ってるからな！」"
+translation = "「그렇지 않아! 미츠루는 분명히 하면 되는 타입이라는 걸 알고 있으니까!」"
+
+[[dialogue]]
+speaker = "美鶴"
+original = "「うちの何を知ってるん。それが買いかぶりすぎなんだってば」"
+translation = "「나에 대해 뭘 안다는 거야. 그게 과대평가라는 거잖아」"
+
+[[dialogue]]
+speaker = "フラン"
+original = "「いいや、たった１日で基本フォーメーションを覚えて、ここまで動けてるなら上出来すぎるぞ。正直、びっくりしてるくらいだ」"
+translation = "「아니, 단 하루 만에 기본 포메이션을 외워서, 이 정도로 움직이는 거라면 너무 잘하는 거다. 솔직히, 깜짝 놀랐을 정도라고」"
+
+[[dialogue]]
+speaker = "美鶴"
+original = "「はいはい、お褒めに与り光栄ですー」"
+translation = "「네네, 칭찬해 주시니 영광입니다―」"
+
+[[dialogue]]
+speaker = "美鶴"
+original = "（いやまあ徹夜で叩き込んだし……おかげで睡眠不足なんだよね……寝てないわーアピールとかダサすぎるから言わんけど）"
+translation = "（아니 뭐 밤새도록 벼락치기로 외웠고…… 덕분에 수면 부족이긴 해…… 못 잤다고 어필하는 건 너무 촌스러우니까 말 안 하지만）"
+
+[[dialogue]]
+speaker = "フラン"
+original = "「オレ個人としては、本番までどころか、このまま応援団に入団してほしいって思ってるよ。検討してくれよな」"
+translation = "「나 개인적으로는, 본선까지는 물론이고, 이대로 응원단에 입단해 줬으면 좋겠다고 생각하고 있어. 검토해 줘」"
+
+[[dialogue]]
+speaker = "美鶴"
+original = "「メイド業もあるし、それは流石に勘弁かな……ま、せっかく覚えたし、本番までは付き合うよ」"
+translation = "「메이드 일도 있고, 그건 아무래도 좀 봐줬으면 좋겠는데…… 뭐, 모처럼 배웠으니까, 본선까지는 함께할게」"
+
+[[dialogue]]
+speaker = "フラン"
+original = "「それはいい返事が聞けた！\u3000初めてで大変なことだらけだと思うが、頑張ってくれよな！」"
+translation = "「좋은 대답을 들었군! 처음이라 힘든 일투성이겠지만, 힘내줘!」"
+
+[[dialogue]]
+speaker = "美鶴"
+original = "「チアって可愛くて、元気で、ニコニコしてて、楽しそうで、華やかに見えるけどさ」"
+translation = "「치어는 귀엽고, 활기차고, 방긋방긋 웃고, 즐거워 보이고, 화려해 보이지만 말이야」"
+
+[[dialogue]]
+speaker = "美鶴"
+original = "「メンバーみんな、腹筋バッキバキに割れてたり、リフトとかするからムッキムキなの。バリッバリの体育会系」"
+translation = "「멤버들 모두, 복근이 선명하게 갈라져 있거나, 리프트 같은 걸 하니까 근육질이야. 완전히 체육계」"
+
+[[dialogue]]
+speaker = "美鶴"
+original = "「キツくても笑顔崩さないし、体力作りのランニングとか筋トレもあるし」"
+translation = "「힘들어도 웃음을 잃지 않고, 체력 단련을 위한 달리기나 근력 운동도 있고」"
+
+[[dialogue]]
+speaker = "美鶴"
+original = "「何時間練習してても、誰もリタイアしないし……スタミナお化けすぎ。下手な選手より体力あるんじゃないの」"
+translation = "「몇 시간을 연습해도, 아무도 포기하지 않고…… 스태미나 괴물이야. 어설픈 선수보다 체력이 좋은 거 아니야」"
+
+[[dialogue]]
+speaker = "美鶴"
+original = "「うちが作った衣装は、見栄えばかり気にしてたけど──」"
+translation = "「내가 만든 의상은, 겉모습만 신경 썼었는데―」"
+
+[[dialogue]]
+speaker = "美鶴"
+original = "「そっか……うん……ちょっとだけ、わかってきたかも」"
+translation = "「그렇구나…… 응…… 조금은, 알 것 같아」"
+
+[[dialogue]]
+speaker = "unk"
+original = "糸口が掴めたなら、もうチアはおしまい？"
+translation = "실마리를 잡았다면, 이제 치어는 끝이야?"
+
+[[dialogue]]
+speaker = "美鶴"
+original = "「冗談。さっき言ったでしょ、本番までは付き合うって」"
+translation = "「농담. 아까 말했잖아, 본선까지는 함께하겠다고」"
+
+[[dialogue]]
+speaker = "美鶴"
+original = "「やるからには本気でやるよ。中途半端が一番ダサいからさ」"
+translation = "「할 거라면 진심으로 할 거야. 어중간한 게 제일 촌스러우니까」"
+
+[[dialogue]]
+speaker = "unk"
+original = "カティアとヒヨは今日も今日とて、学園対抗リレーの練習を繰り返していた。"
+translation = "카티아와 히요는 오늘도 어김없이, 학원 대항 릴레이 연습을 반복하고 있었다."
+
+[[dialogue]]
+speaker = "カティア"
+original = "「よ、よしっ、１回も転ばずに完走できたワン！」"
+translation = "「조, 좋아, 한 번도 넘어지지 않고 완주했다 멍!」"
+
+[[dialogue]]
+speaker = "ヒヨ"
+original = "「確かに転ばなかったけどよお……暴走しないようにゆっくり走ってたら本末転倒じゃねえか！」"
+translation = "「확실히 넘어지진 않았지만 말이야…… 폭주하지 않으려고 천천히 달리면 본말전도 아니냐!」"
+
+[[dialogue]]
+speaker = "ミルフィー"
+original = "「うーん……タイムも縮んでないね。いつもより遅いくらいかも……」"
+translation = "「음―…… 기록도 줄지 않았네. 평소보다 느린 것 같아……」"
+
+[[dialogue]]
+speaker = "カティア"
+original = "「うぅぅ、難しいですガオ……」"
+translation = "「으으으, 어렵습니다 갸오……」"
+
+[[dialogue]]
+speaker = "カティア"
+original = "「よし、もう１回……！」"
+translation = "「좋아, 한 번 더……!」"
+
+[[dialogue]]
+speaker = "ミルフィー"
+original = "「待った！\u3000さっきからずっと走りっぱなしだし、ちょっと休憩しよ？」"
+translation = "「잠깐! 아까부터 계속 달리기만 했잖아, 잠깐 쉬자?」"
+
+[[dialogue]]
+speaker = "ミルフィー"
+original = "「カティアちゃんが頑張ってるのは、誰が見たって一目瞭然だよ」"
+translation = "「카티아짱이 열심히 하는 건, 누가 봐도 한눈에 알 수 있어」"
+
+[[dialogue]]
+speaker = "ミルフィー"
+original = "「でも本番前に体を壊しちゃったら、せっかくの努力が無駄になっちゃう。無茶もほどほどに──」"
+translation = "「하지만 본선 전에 몸을 망가뜨리면, 모처럼의 노력이 헛수고가 되잖아. 무리하는 것도 적당히―」"
+
+[[dialogue]]
+speaker = "カティア"
+original = "「ダメなんですよぉ……！」"
+translation = "「안 돼요오……!」"
+
+[[dialogue]]
+speaker = "ミルフィー"
+original = "「えっ……？」"
+translation = "「엣……?」"
+
+[[dialogue]]
+speaker = "カティア"
+original = "「どんなに汗をかいたって、どんなに頑張ったって、どんなに怪我をしたって……結果を出せなきゃ、意味がないんです……！」"
+translation = "「아무리 땀을 흘려도, 아무리 열심히 해도, 아무리 다쳐도…… 결과를 내지 못하면, 의미가 없어요……!」"
+
+[[dialogue]]
+speaker = "カティア"
+original = "「私は星騎士としては全然ヘッポコだから……」"
+translation = "「저는 성기사로서는 전혀 쓸모없으니까……」"
+
+[[dialogue]]
+speaker = "カティア"
+original = "「戦いでは役に立てなくても、こういう舞台でみんなの役に立てればって思ったのにぃ……うぇ、うぇぇん……！」"
+translation = "「싸움에서는 도움이 되지 못하더라도, 이런 무대에서 모두에게 도움이 될 수 있다면 좋겠다고 생각했는데에…… 흑, 흐윽……!」"
+
+[[dialogue]]
+speaker = "ヒヨ"
+original = "「お、おいおい、泣くんじゃねえよ！\u3000泣く子と地頭にゃ勝てねえって相場が決まってんだ」"
+translation = "「어, 어이, 울지 마! 우는 아이와 타고난 천재는 못 이긴다는 게 정해져 있다고」"
+
+[[dialogue]]
+speaker = "ミルフィー"
+original = "「うぅ……何もしてあげられないのがもどかしいなぁ……」"
+translation = "「으으…… 아무것도 해줄 수 없다는 게 안타깝네……」"
+
+[[dialogue]]
+speaker = "unk"
+original = "２人とも頑張ってるね"
+translation = "둘 다 열심히 하고 있네"
+
+[[dialogue]]
+speaker = "ヒヨ"
+original = "「会長サン……！\u3000いつの間にいたんでい……こっ恥ずかしいとこ、見られちまったなあ」"
+translation = "「회장군……! 언제 와 계셨던 겁니까…… 부끄러운 모습을, 들켜 버렸네」"
+
+[[dialogue]]
+speaker = "カティア"
+original = "「ぐしゅ……ま、魔王様っ……！？\u3000こ、これは違うんです、汗が目に入っただけで……！\u3000な、泣いてなんかいませんガオ！」"
+translation = "「훌쩍…… 마, 마왕님……!? 이, 이건 아닙니다, 땀이 눈에 들어간 것일 뿐……! 우, 울고 있는 거 아닙니다 갸오!」"
+
+[[dialogue]]
+speaker = "ミルフィー"
+original = "「ヒヨちゃん、カティアちゃん、何か私にお手伝いできることはない？」"
+translation = "「히요짱, 카티아짱, 제가 도와줄 수 있는 일은 없을까요?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "俺にできることなら、なんだって手伝うよ"
+translation = "내가 할 수 있는 일이라면, 뭐든지 도와줄게"
+
+[[dialogue]]
+speaker = "ヒヨ"
+original = "「気持ちはすごくありがてえけど、今更リレー選手の交代もできねえしな……」"
+translation = "「마음은 정말 고맙지만, 이제 와서 릴레이 선수를 교체할 수도 없고 말이야……」"
+
+[[dialogue]]
+speaker = "カティア"
+original = "「なんでも……なんでもですか？\u3000あのっ……私は魔王様に応援してほしいですワン！」"
+translation = "「뭐든지…… 뭐든지 말입니까? 저기…… 저는 마왕님께서 응원해 주셨으면 좋겠습니다 멍!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "してるよ？"
+translation = "하고 있는데?"
+
+[[dialogue]]
+speaker = "unk"
+original = "応援？"
+translation = "응원?"
+
+[[dialogue]]
+speaker = "カティア"
+original = "「優しく見守ってくれてるのはわかってます！\u3000とても嬉しいんですけど、そのー……」"
+translation = "「상냥하게 지켜봐 주시는 건 알고 있습니다! 정말 기쁘지만, 그게……」"
+
+[[dialogue]]
+speaker = "ミルフィー"
+original = "「えっと……本番のレース中も熱い声援を送ってほしい、ってことかな？」"
+translation = "「음…… 본선 레이스 중에도 뜨거운 성원을 보내줬으면 좋겠다는 걸까?」"
+
+[[dialogue]]
+speaker = "カティア"
+original = "「は、はいっ！\u3000そうですっ！」"
+translation = "「네, 네엣! 그렇습니다!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "よくわかったね"
+translation = "잘 알았네"
+
+[[dialogue]]
+speaker = "ミルフィー"
+original = "「だって、私も好きな人には心から応援されたいもん」"
+translation = "「왜냐면, 저도 좋아하는 사람에게 진심으로 응원받고 싶거든요」"
+
+[[dialogue]]
+speaker = "ヒヨ"
+original = "「……姐さん？」"
+translation = "「……누님?」"
+
+[[dialogue]]
+speaker = "ミルフィー"
+original = "「──あっ……！？\u3000す、好きな人って、変な意味じゃないよ！？\u3000その、信頼してるチームメイトっていうか……！」"
+translation = "「―앗……!? 좋, 좋아하는 사람이라니, 이상한 의미가 아니야!? 그, 신뢰하는 팀 동료랄까……!」"
+
+[[dialogue]]
+speaker = "カティア"
+original = "「そうなんです！\u3000尊敬してる魔王様からエールをもらえれば、きっと！\u3000もっと！\u3000ずっと！\u3000すごい力を出せるはずなんです！」"
+translation = "「맞습니다! 존경하는 마왕님으로부터 응원을 받으면, 분명! 더욱! 계속! 엄청난 힘을 낼 수 있을 거예요!」"
+
+[[dialogue]]
+speaker = "ミルフィー"
+original = "「そ、そうそう、そういうこと！\u3000ほっ……」"
+translation = "「그, 그래그래, 그런 거야! 휴우……」"
+
+[[dialogue]]
+speaker = "カティア"
+original = "「魔王様はお忙しいですし、わがままだとは思うんですけど……」"
+translation = "「마왕님은 바쁘시니까, 제멋대로인 부탁이라고 생각하지만……」"
+
+[[dialogue]]
+speaker = "ヒヨ"
+original = "「そんなら、あたしは姐さんにお願いしてえな！\u3000姐さんに応援してもらえりゃ鬼に金棒よお！」"
+translation = "「그렇다면, 나는 누님에게 부탁하고 싶네! 누님에게 응원받으면 천군만마를 얻은 기분일 거다!」"
+
+[[dialogue]]
+speaker = "ミルフィー"
+original = "「ヒヨちゃんも！？\u3000もちろん応援はするつもりだったけど──」"
+translation = "「히요짱도!? 물론 응원할 생각이었지만―」"
+
+[[dialogue]]
+speaker = "フラン"
+original = "「よし！\u3000話は聞かせてもらったぜ！」"
+translation = "「좋아! 이야기는 잘 들었다!」"
+
+[[dialogue]]
+speaker = "フラン"
+original = "「応援あるとこ、オレありだ！\u3000会長もミルフィーも応援団加入希望だな！？\u3000みんなまとめて面倒みてやるぜ！」"
+translation = "「응원이 있는 곳에, 내가 있다! 회장군도 밀피도 응원단 가입 희망이군!? 모두 한꺼번에 맡아서 지도해 주마!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "もう勘定に入れられてる！？"
+translation = "벌써 계산에 넣어지고 있는 건가!?"
+
+[[dialogue]]
+speaker = "ミルフィー"
+original = "「応援団に入るとは言ってないよ！？\u3000どうしてそうなるのー！？」"
+translation = "「응원단에 들어간다고는 말 안 했어!? 왜 그렇게 되는 거야―!?」"
+
+[[dialogue]]
+speaker = "フラン"
+original = "「だってよぉ？\u3000カティア、ヒヨ。会長とミルフィーからの全力の声援、欲しいよなー？」"
+translation = "「그렇지 않나? 카티아, 히요. 회장군과 밀피의 전력 성원, 받고 싶지 않나―?」"
+
+[[dialogue]]
+speaker = "カティア"
+original = "「もちろんです！」"
+translation = "「물론입니다!」"
+
+[[dialogue]]
+speaker = "ヒヨ"
+original = "「もちろんでい！」"
+translation = "「물론이다!」"
+
+[[dialogue]]
+speaker = "フラン"
+original = "「だそうだ！\u3000だからよ、会長とミルフィーが最高の応援を届けられるよう、みっちり鍛えてやるぜ！」"
+translation = "「그렇단다! 그러니, 회장군과 밀피가 최고의 응원을 전할 수 있도록, 철저하게 단련시켜 주마!」"
+
+[[dialogue]]
+speaker = "ヒヨ"
+original = "「姐さんから声援を受ける以上、絶対負けるわけにはいかねえなぁ。気合入れてくぜえ、ワン公！」"
+translation = "「누님에게 성원을 받는 이상, 절대 질 수는 없겠네. 기합 넣고 간다, 멍멍이!」"
+
+[[dialogue]]
+speaker = "カティア"
+original = "「わふん♪\u3000魔王様、楽しみにしてますガオ！」"
+translation = "「와후웅♪ 마왕님, 기대하고 있겠습니다 갸오!」"
+
+[[dialogue]]
+speaker = "ミルフィー"
+original = "「う～～ん、２人がやる気になってくれるならいいんだけど……」"
+translation = "「으~~음, 두 사람이 의욕을 내 준다면 좋겠지만……」"
+
+[[dialogue]]
+speaker = "unk"
+original = "こうしてフランの勧誘の元、俺とミルフィーは急遽、応援団に仲間入りすることとなったわけだが──"
+translation = "이렇게 프란의 권유로, 나와 밀피는 급하게 응원단에 합류하게 되었는데―"
+
+[[dialogue]]
+speaker = "ミルフィー"
+original = "「星霊祭は明後日だよ！？\u3000私、チアガールなんてできっこないよー！」"
+translation = "「성령제는 모레잖아!? 나, 치어걸 같은 거 절대 못 해―!」"
+

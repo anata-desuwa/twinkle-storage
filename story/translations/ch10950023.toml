@@ -1,0 +1,275 @@
+[[dialogue]]
+speaker = "unk"
+original = "第３話,シズハと聖杯の甘酒,P"
+translation = "제3화, 시즈하와 성배의 단술"
+
+[[dialogue]]
+speaker = "unk"
+original = "ある日の放課後。俺はシズハを附属校の教室まで迎えに行っていた。"
+translation = "어느 날 방과 후. 나는 시즈하를 부속교 교실까지 데리러 갔다."
+
+[[dialogue]]
+speaker = "シズハ"
+original = "「あっ！\u3000会長、わざわざ迎えに来てくれたの？」"
+translation = "「앗! 회장님, 일부러 데리러 와준 거야?」"
+
+[[dialogue]]
+speaker = "サチ"
+original = "「お兄さん、こんにちは。これからシズハちゃんと訓練しに行くんですか？」"
+translation = "「오빠, 안녕하세요. 이제부터 시즈하짱이랑 훈련하러 가나요?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "シズハと同じクラスのサチから挨拶されて、俺は頷く。"
+translation = "시즈하와 같은 반인 사치로부터 인사를 받고 나는 고개를 끄덕인다."
+
+[[dialogue]]
+speaker = "シズハ"
+original = "「別に、アリーナで先に待っててくれたらよかったのに～♪」"
+translation = "「별로, 아레나에서 먼저 기다려줬어도 됐는데~♪」"
+
+[[dialogue]]
+speaker = "unk"
+original = "彼氏として、迎えに来たかったんだ"
+translation = "남자친구로서 데리러 오고 싶었어"
+
+[[dialogue]]
+speaker = "シズハ"
+original = "「！\u3000ば、バカバカ！\u3000クラスのみんなの前でそんなストレートに言ったら恥ずかしいでしょ<emoji=heart04>\u3000もうっ……！」"
+translation = "「! 바, 바보바보! 반 친구들 앞에서 그렇게 스트레이트로 말하면 부끄럽잖아<emoji=heart04> 정말……!」"
+
+[[dialogue]]
+speaker = "ディーラック"
+original = "「と口では素直じゃないことを言いつつ、シズハちゃん、声が高くなってるのサ」"
+translation = "「라고 입으로는 솔직하지 못한 말을 하면서도 시즈하짱, 목소리가 들떠 있는 거사」"
+
+[[dialogue]]
+speaker = "サチ"
+original = "「前から思ってましたけど、シズハちゃんって、照れると素直じゃなくなっちゃうタイプなんですね」"
+translation = "「전부터 생각했지만 시즈하짱은 부끄러워하면 솔직해지지 못하는 타입이네요」"
+
+[[dialogue]]
+speaker = "シズハ"
+original = "「ディーちゃん、サチちゃん！？\u3000バカバカ、そんなことないもん！\u3000からかわないでっ」"
+translation = "「디짱, 사치짱!? 바보바보, 그렇지 않거든! 놀리지 마」"
+
+[[dialogue]]
+speaker = "ディーラック"
+original = "「あ～、はいはい。ツンデレ乙。ボクは先に部屋に帰ってゲームをしてるのサ」"
+translation = "「아~ 예예. 츤데레 수고. 나는 먼저 방에 돌아가서 게임을 할 거사」"
+
+[[dialogue]]
+speaker = "シズハ"
+original = "「ツンデレじゃないからぁ～～～！！」"
+translation = "「츤데레 아니거든~~~~!!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "それから俺たちはアリーナを経由して仮想結界へ入る。"
+translation = "그 후 우리들은 아레나를 경유해 가상 결계로 들어간다."
+
+[[dialogue]]
+speaker = "unk"
+original = "今日はシズハの晴れ着の力をより引き出すために、２人で『星術羽根突き』をすることになっていた。"
+translation = "오늘은 시즈하의 설빔의 힘을 더 끌어내기 위해 둘이서 『성술 하네츠키』를 하기로 되어 있었다."
+
+[[dialogue]]
+speaker = "シズハ"
+original = "「それじゃあ会長、行くわよ～！\u3000えいっ♪」"
+translation = "「그럼 회장님, 간다~! 에잇♪」"
+
+[[dialogue]]
+speaker = "unk"
+original = "シズハの晴れ着フォームの能力は、聖杯から甘酒を作り出して操ることができる、というもの。"
+translation = "시즈하의 설빔 폼의 능력은 성배에서 단술을 만들어내어 다룰 수 있다는 것."
+
+[[dialogue]]
+speaker = "unk"
+original = "その星術を帯びた羽根を打ち返していると、俺はだんだんと平衡感覚がおかしくなってくることに気づく。"
+translation = "그 성술을 띤 깃털을 받아치고 있자니 나는 점점 평형감각이 이상해지는 것을 깨닫는다."
+
+[[dialogue]]
+speaker = "シズハ"
+original = "「ふふっ、会長、どう？\u3000星術が直撃しなくても、前より<b>酔い</b>が回ってくるようになったでしょ？」"
+translation = "「후후, 회장님 어때? 성술이 직격하지 않아도 전보다 **취기**가 빨리 돌게 됐지?」"
+
+[[dialogue]]
+speaker = "シズハ"
+original = "「甘酒星術を防がれても、相手がまとっている力に溶け込ませるように星力をコントロールすることで、酔わせられるってわかってきたのよ♪」"
+translation = "「단술 성술을 막아내도 상대가 두르고 있는 힘에 녹아들게끔 성력을 컨트롤하면 취하게 만들 수 있다는 걸 알게 됐어♪」"
+
+[[dialogue]]
+speaker = "unk"
+original = "よ、酔いを防げないのは強いな……"
+translation = "취, 취기를 막을 수 없는 건 강력하네……"
+
+[[dialogue]]
+speaker = "シズハ"
+original = "「ふふっ、そうでしょ～？\u3000もっと使いこなして……モンスターとの戦闘に、ロストアイテムの回収にと大活躍してぇ～<emoji=heart04>」"
+translation = "「후후, 그렇지~? 좀 더 익숙해져서…… 몬스터와의 전투에, 로스트 아이템 회수에 대활약해서~<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "シズハ"
+original = "「頑張ったね～って、会長にいっぱい、褒めてもらうんだからぁ～<emoji=heart04>\u3000えへへへへへぇ♪」"
+translation = "「고생했네~ 하고 회장님한테 잔뜩 칭찬받을 거니까아~<emoji=heart04> 에헤헤헤헤헤♪」"
+
+[[dialogue]]
+speaker = "unk"
+original = "あれ？\u3000シズハ……？"
+translation = "어라? 시즈하……?"
+
+[[dialogue]]
+speaker = "シズハ"
+original = "「ん～？\u3000なぁに、会長ぉ～？」"
+translation = "「응~? 왜애, 회장니임~?」"
+
+[[dialogue]]
+speaker = "シズハ"
+original = "「――私が自分の能力で、酔っ払ってるんじゃらいかって～？\u3000やだな～、そんなわけないれしょ～？\u3000あはははっ♪」"
+translation = "「――내가 내 능력으로 취한 거 아니냐고오~? 에이~ 그럴 리가 없짜나아~? 아하하하♪」"
+
+[[dialogue]]
+speaker = "シズハ"
+original = "「よ～し、そろそろカッコよく、必殺スマッシュを決めちゃうわよ～♪\u3000大きく構えて～」"
+translation = "「조아쓰, 슬슬 멋지게 필살 스매시를 날려줄게에~♪ 크게 자세 잡고~」"
+
+[[dialogue]]
+speaker = "シズハ"
+original = "「染井流甘酒術・壱ノ型～♪\u3000グレイルエリク～って、あららぁ～？」"
+translation = "「소메이류 단술술·제1형~♪ 그레일 엘릭~ 어라라아~?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "大げさに攻撃を放とうとした瞬間、シズハは体勢を崩して転びそうになる。"
+translation = "거창하게 공격을 날리려던 순간 시즈하는 중심을 잃고 넘어질 뻔한다."
+
+[[dialogue]]
+speaker = "unk"
+original = "俺は慌てて駆け寄り、シズハの体を支えるように抱きとめた。"
+translation = "나는 서둘러 달려가 시즈하의 몸을 지탱하듯 껴안았다."
+
+[[dialogue]]
+speaker = "シズハ"
+original = "「ふわぁ～っ<emoji=heart04>\u3000会長に助けられちゃったぁ～<emoji=heart04>」"
+translation = "「후와아~<emoji=heart04> 회장님이 구해줘따아~<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "シズハ"
+original = "「私を気遣ったり、心配してくれる時の会長の顔、すごくカッコよくて胸がキュンってしちゃう～……<emoji=heart04>」"
+translation = "「나를 챙겨주거나 걱정해줄 때의 회장님 얼굴, 너무 멋있어서 가슴이 큥해버려~……<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "シズハ"
+original = "「えへへへへへぇ<emoji=heart04>\u3000助けてくれて、ありがとぉ～<emoji=heart04>」"
+translation = "「에헤헤헤헤헤<emoji=heart04> 구해줘서 고마워어~<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "シズハ"
+original = "「ん～っ<emoji=heart04>\u3000ちゅっ……<emoji=heart04>」"
+translation = "「응~<emoji=heart04> 쪽……<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "unk"
+original = "っ！？！？"
+translation = "윽!?!?"
+
+[[dialogue]]
+speaker = "unk"
+original = "なんと酔っ払っているシズハから、何気なく唇にキスをされてしまった。"
+translation = "무려 취해있는 시즈하에게서 아무렇지 않게 입술에 키스를 받고 말았다."
+
+[[dialogue]]
+speaker = "シズハ"
+original = "「あっ<emoji=heart04>\u3000えへへぇ～<emoji=heart04>\u3000会長、顔が赤くなってる～<emoji=heart04>\u3000キスされて、照れちゃったの～？」"
+translation = "「앗<emoji=heart04> 에헤헤~<emoji=heart04> 회장님, 얼굴이 빨개져써~<emoji=heart04> 키스 당해서 부끄러워진 거야아~?」"
+
+[[dialogue]]
+speaker = "シズハ"
+original = "「でも、そういうところも可愛くて、す・き<emoji=heart04>\u3000ん～っ<emoji=heart04>\u3000ちゅっ<emoji=heart04>」"
+translation = "「하지만 그런 점도 귀여워서, 쪼·아<emoji=heart04> 응~<emoji=heart04> 쪽<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "unk"
+original = "シズハから今度は頬っぺたにキスをされてしまう。俺はドキドキしながらも、『酔っ払ってるからキスはダメ』と説得する。"
+translation = "시즈하에게 이번에는 볼에 키스를 당하고 만다. 나는 두근거리면서도 『취했으니까 키스는 안 돼』라고 설득한다."
+
+[[dialogue]]
+speaker = "シズハ"
+original = "「え～？\u3000なんで～？\u3000恋人なんだから、別にキスしたって問題ないでしょ～？」"
+translation = "「에~? 왜에~? 연인이니까 딱히 키스해도 문제없짜나아~?」"
+
+[[dialogue]]
+speaker = "シズハ"
+original = "「会長、好き～<emoji=heart04>\u3000ちゅっ<emoji=heart04>\u3000優しくて～、ちゅっ<emoji=heart04>\u3000カッコよくて～、ちゅっ<emoji=heart04>\u3000可愛いところも～、ちゅっ<emoji=heart04>\u3000全部好き～<emoji=heart04>」"
+translation = "「회장님 좋아~<emoji=heart04> 쪽<emoji=heart04> 상냥하고~, 쪽<emoji=heart04> 멋있고~, 쪽<emoji=heart04> 귀여운 점도~, 쪽<emoji=heart04> 전부 좋아~<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "シズハ"
+original = "「ちゅっ<emoji=heart04>\u3000ちゅ～っ<emoji=heart04>」"
+translation = "「쪽<emoji=heart04> 쪼옥~<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "unk"
+original = "（シズハは酔っているんだ……！）"
+translation = "(시즈하는 취해 있어……!)"
+
+[[dialogue]]
+speaker = "unk"
+original = "（くうぅっ、抑えろ俺……！）"
+translation = "(크윽, 참아라 나……!)"
+
+[[dialogue]]
+speaker = "unk"
+original = "シズハから『好き』と連呼され、唇や頬にキスされまくる状況に、理性を総動員して必死に堪える俺なのだった。"
+translation = "시즈하에게 『좋아해』라고 연발 당하며 입술과 볼에 키스를 세례받는 상황에 이성을 총동원해 필사적으로 참는 나였다."
+
+[[dialogue]]
+speaker = "シズハ"
+original = "「ん……？\u3000あれ……？\u3000ここは、保健室……？」"
+translation = "「음……? 어라……? 여기는 양호실……?」"
+
+[[dialogue]]
+speaker = "シズハ"
+original = "「あ……会長……。なんで私、ここに……？」"
+translation = "「아…… 회장님……. 왜 내가 여기에……?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "えっと、晴れ着の訓練をしてて、それで……"
+translation = "저기, 설빔 훈련을 하다가 그래서……"
+
+[[dialogue]]
+speaker = "シズハ"
+original = "「晴れ着の……？\u3000そうだ、私……甘酒の能力を使って、それで……」"
+translation = "「설빔……? 맞다, 나…… 단술 능력을 써서 그래서……」"
+
+[[dialogue]]
+speaker = "シズハ"
+original = "「か、会長と……～～～っ！」"
+translation = "「회, 회장님이랑……~~~윽!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "どうやら思い出したらしい。シズハの顔がみるみる真っ赤に染まる。"
+translation = "아무래도 떠오른 모양이다. 시즈하의 얼굴이 순식간에 새빨갛게 물든다."
+
+[[dialogue]]
+speaker = "シズハ"
+original = "「わ、私……か、会長と、きききキス……！？」"
+translation = "「나, 나…… 회, 회장님이랑 키키키키스……!?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "その……大丈夫。俺は気にしてないから……"
+translation = "그…… 괜찮아. 나는 신경 안 쓰니까……"
+
+[[dialogue]]
+speaker = "シズハ"
+original = "（あああああああああっ！！\u3000私、酔っ払って会長とキスしまくっちゃったぁぁぁ～～～っ！！！）"
+translation = "(아아아아아아아악!! 나, 취해서 회장님이랑 키스 엄청 해버렸어어어어~~~~!!!)"
+
+[[dialogue]]
+speaker = "unk"
+original = "俺は言葉をかけながらも、頬に込み上げてくる熱はどうにもできず、その日はシズハの顔を直視することができなかったのだった。"
+translation = "나는 말을 걸면서도 볼에 차오르는 열기는 어쩌지 못했고 그날은 시즈하의 얼굴을 직시할 수 없었다."
+

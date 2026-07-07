@@ -1,0 +1,300 @@
+[[dialogue]]
+speaker = "アナ"
+original = "「レッドデルタ──！」"
+translation = "「레드 델타──!」"
+
+[[dialogue]]
+speaker = "ギガンドム"
+original = "「ゴォォ──！」"
+translation = "「고오오──!」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「硬いですね……ビクともしていません……！」"
+translation = "「단단하네요…… 꼼짝도 하지 않아요……!」"
+
+[[dialogue]]
+speaker = "シュティレ"
+original = "「ただいま帰還しました。民間人の避難は完了です」"
+translation = "「방금 귀환했습니다. 민간인 피난은 완료입니다.」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「予想の倍は速い。シュティレさん、グッジョブです」"
+translation = "「예상보다 두 배는 빨라요. 슈틸레 씨, 굿 잡입니다.」"
+
+[[dialogue]]
+speaker = "シュティレ"
+original = "「ぶい。スピードには自信があります。もう手加減しなくていいですよ、アナお姉ちゃん」"
+translation = "「브이. 스피드에는 자신 있습니다. 이제 살살 안 해도 돼요, 아나 언니.」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「ええ、全力を出せるなら好都合です──プラネットマルス・セット！」"
+translation = "「네, 전력을 다할 수 있다면 안성맞춤이죠── 플래닛 마르스 셋!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "民間人の避難が完了すれば、最大火力の炎をお見舞いできる。アナは火星とのリンクを強め、対象を焼き尽くす炎の矢を生成し、放つ。"
+translation = "민간인 피난이 완료되면 최대 화력의 불꽃을 선사할 수 있다. 아나는 화성과의 링크를 강화해 대상을 태워버릴 화염 화살을 생성하여 쏜다."
+
+[[dialogue]]
+speaker = "アナ"
+original = "「スカーレットシータ──！」"
+translation = "「스칼렛 세타──!」"
+
+[[dialogue]]
+speaker = "ギガンドム"
+original = "「ォーン──！」"
+translation = "「오오오오──!」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「くっ……！\u3000損傷、まったくなし。外殻に焦げの１つも……何なんですか、こいつは！？」"
+translation = "「큭……! 손상, 전혀 없음. 외장 장갑에 그을음 하나조차…… 대체 뭐예요, 이놈은!?」"
+
+[[dialogue]]
+speaker = "ギガンドム"
+original = "「ゴゴゴォ──！！」"
+translation = "「고고고오──!!」"
+
+[[dialogue]]
+speaker = "シュティレ"
+original = "「敵影接近、距離を取らないと──！」"
+translation = "「적 영영 접근, 거리를 떼지 않으면──!」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「くっ──速い、間に合わない……！？」"
+translation = "「큭── 빨라, 늦겠어……!?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "──ディマイズブレイカー！！"
+translation = "──디마이즈 브레이커!!"
+
+[[dialogue]]
+speaker = "アニマ"
+original = "「バックフロウマイン──！！」"
+translation = "「백 플로우 마인──!!」"
+
+[[dialogue]]
+speaker = "アニマ"
+original = "「ふぅ、間一髪だったかナ？」"
+translation = "「후우, 간발의 차였나다타?」"
+
+[[dialogue]]
+speaker = "シュティレ"
+original = "「マスター！」"
+translation = "「마스터!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "アナ、無事か！？"
+translation = "아나, 무사해!?"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「遅いですよ、会長。危うくぺしゃんこになるところでしたが……助かりました」"
+translation = "「늦으셨잖아요, 회장님. 하마터면 납작해질 뻔했습니다만…… 덕분에 살았습니다.」"
+
+[[dialogue]]
+speaker = "シュティレ"
+original = "「マスター、会いたかったです。ぶいぶい」"
+translation = "「마스터, 보고 싶었습니다. 브이브이.」"
+
+[[dialogue]]
+speaker = "アニマ"
+original = "「シュティレも無事なようだネ。しかしあいつ、呆れた強さだナ……頑丈が服を着て歩いているみたいダ」"
+translation = "「슈틸레도 무사한 모양이다타. 하지만 저 녀석, 기가 막히게 강하다타…… 견고함이 옷을 입고 걸어 다니는 것 같다다.」"
+
+[[dialogue]]
+speaker = "アニマ"
+original = "「よし──シュティレ。ここからは先輩たちに任せろ。キミは撤退したまエ」"
+translation = "「좋아── 슈틸레. 여기서부턴 선배들에게 맡겨라다. 너는 철수해라다.」"
+
+[[dialogue]]
+speaker = "シュティレ"
+original = "「拒否します。助けに来てくださったマスターを置いて逃げるなど、弟子失格です」"
+translation = "「거부합니다. 구하러 와 주신 마스터를 두고 도망치다니 제자 실격입니다.」"
+
+[[dialogue]]
+speaker = "アニマ"
+original = "「キミはまだ未熟な附属生ダ、ここは引くんダ！」"
+translation = "「너는 아직 미숙한 부속생이다다, 여기선 물러나라다!」"
+
+[[dialogue]]
+speaker = "シュティレ"
+original = "「私はマスターの正式な弟子ではないので、その命令は拒否します」"
+translation = "「저는 마스터의 정식 제자가 아니기 때문에 그 명령은 거부합니다.」"
+
+[[dialogue]]
+speaker = "アニマ"
+original = "「フヒッ。ああ言えばこう言うやつだナ……！」"
+translation = "「후히. 말하면 대꾸하는 녀석이다타……!」"
+
+[[dialogue]]
+speaker = "シュティレ"
+original = "「私だって星騎士です。それにノヴァフォームの方々が応援に来ないということは……」"
+translation = "「저도 성기사입니다. 게다가 노바 폼 분들이 응원하러 오지 않는다는 건……」"
+
+[[dialogue]]
+speaker = "アニマ"
+original = "「……察しのとおりダ。各地で機械型モンスターが雨後のタケノコみたいに大発生中だヨ」"
+translation = "「……짐작한 대로다타. 각지에서 기계형 몬스터가 비 온 뒤 죽순처럼 대발생 중이다타.」"
+
+[[dialogue]]
+speaker = "unk"
+original = "応援が来るまでの時間を稼ぐ！"
+translation = "응원이 올 때까지 시간을 번다!"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「了解。しかし──どうやってあれを足止めしますか？」"
+translation = "「라져. 하지만── 어떻게 저걸 발을 묶죠?」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「先ほどの、会長とアニマ先輩の奇襲もほとんど効果なし。ピンピンしています」"
+translation = "「방금 회장님과 아니마 선배님의 기습도 거의 효과가 없었어요. 멀쩡합니다.」"
+
+[[dialogue]]
+speaker = "アニマ"
+original = "「フヒ♪\u3000こんなこともあろうかと、弱体化薬──ヨワッチクナールはたっぷり持ってきたヨ」"
+translation = "「후히♪ 이런 일이 있을까 봐 약화약── 약해져라무울은 듬뿍 가져왔다다.」"
+
+[[dialogue]]
+speaker = "シュティレ"
+original = "「『こんなこともあろうかと』……何度でも言いたいロボットアニメのセリフです」"
+translation = "「『이런 일이 있을까 봐』…… 몇 번이고 말하고 싶은 로봇 애니메이션 대사입니다.」"
+
+[[dialogue]]
+speaker = "アニマ"
+original = "「アニメはよくわからないが、何とか敵の核に弱体化薬をぶつけるしかないゾ」"
+translation = "「애니메이션은 잘 모르겠다만 어떻게든 적의 핵에 약화약을 부딪치는 수밖에 없다다.」"
+
+[[dialogue]]
+speaker = "unk"
+original = "作戦がある。聞いてくれ！"
+translation = "작전이 있어. 들어줘!"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「……ギガンドムの装甲が手薄な、関節部分を狙うのですか？」"
+translation = "「……기간돔의 장갑이 허술한 관절 부분을 노리는 건가요?」"
+
+[[dialogue]]
+speaker = "アニマ"
+original = "「いい案かもしれないナ。アナ、狙えそうカ？」"
+translation = "「좋은 안일지도 모르겠다타. 아나, 노릴 수 있겠나다타?」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「愚問です。弓兵の腕の見せ所」"
+translation = "「우문입니다. 궁병의 솜씨를 보여줄 차례.」"
+
+[[dialogue]]
+speaker = "シュティレ"
+original = "「私はアナお姉ちゃんが狙撃しやすいよう、ギガンドムの周囲を飛び回って<ruby>攪乱<rt>かくらん</rt></ruby>──承知いたしました」"
+translation = "「저는 아나 언니가 저격하기 쉽도록 기간돔 주위를 날아다니며 교란── 알겠습니다.」"
+
+[[dialogue]]
+speaker = "アニマ"
+original = "「フヒッ。会長は正面からギガンドムの注意を引き、アナの狙撃した関節部へアニマが薬を散布すル。コレしかないナ……行くゾ！」"
+translation = "「후히. 회장은 정면에서 기간돔의 주의를 끌고 아나가 저격한 관절부에 아니마가 약을 살포한다다. 이것밖에 없다다…… 가자다!」"
+
+[[dialogue]]
+speaker = "ギガンドム"
+original = "「ゴゴゴゴォ────！！」"
+translation = "「고고고고오────!!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "正面から接近し、クロトは幾重にも打撃を叩きこむ。"
+translation = "정면에서 접근하며 쿠로토는 몇 겹의 타격을 때려 박는다."
+
+[[dialogue]]
+speaker = "unk"
+original = "なんて頑丈さだ……！！"
+translation = "어지간히도 단단하네……!!"
+
+[[dialogue]]
+speaker = "シュティレ"
+original = "「アドバンス・ブレードッ──！」"
+translation = "「어드밴스 블레이드──!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "シュティレがギガンドムの周りを高速旋回し、機械剣による牽制を行う。"
+translation = "슈틸레가 기간돔 주위를 고속 선회하며 기계검으로 견제를 수행한다."
+
+[[dialogue]]
+speaker = "アナ"
+original = "「一発、二発、三発ッ──もう、少し……！」"
+translation = "「한 발, 두 발, 세 발── 조금만 더……!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "生まれたわずかな隙を縫い、アナがギガンドムの関節部分へ的確な弓撃を撃ちこんでゆく──"
+translation = "생겨난 아주 미세한 틈을 놓치지 않고, 아나가 기간돔의 관절 부분을 향해 정확한 궁격을 쏘아 넣는다──"
+
+[[dialogue]]
+speaker = "unk"
+original = "星騎士として訓練を積んできた経験が、急造のメンバーであるにも関わらずチームワークを生んでいた。"
+translation = "성기사로서 훈련을 쌓아온 경험이, 급조된 멤버임에도 불구하고 팀워크를 만들어내고 있었다."
+
+[[dialogue]]
+speaker = "unk"
+original = "このままいけば、アニマお手製の弱体化薬をぶつけられるかもしれない──そんな考えが全員の頭によぎった、その時だった。"
+translation = "이대로 가면 아니마가 직접 만든 약화약을 맞힐 수 있을지도 모른다── 그런 생각이 모두의 머릿속을 스치던, 그때였다."
+
+[[dialogue]]
+speaker = "ギガンドム"
+original = "「ゴォオォォォオ────！！」"
+translation = "「고오오오오오────!!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ギガンドムは、モンスターは言葉を持たない。けれど気づいている。自分を追い込んでいるのは、４人のチームワークだと。"
+translation = "기간돔은, 몬스터는 말을 하지 않는다. 하지만 눈치채고 있다. 자신을 몰아넣고 있는 것은 4명의 팀워크라는 것을."
+
+[[dialogue]]
+speaker = "unk"
+original = "ならば簡単だ──分断させればいい。"
+translation = "그렇다면 간단하다── 분단시키면 된다."
+
+[[dialogue]]
+speaker = "シュティレ"
+original = "「こ、これはっ……！？」"
+translation = "「이, 이건……!?」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「シュティレさん！\u3000危ない──！！」"
+translation = "「슈틸레 씨! 위험해요──!!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "シュティレの近くに発生した輝き。とっさに飛び出たアナも巻き込むと、それは天空へと上昇してゆき──"
+translation = "슈틸레 근처에서 발생한 광휘. 황급히 뛰어든 아나까지 휘말리게 하며, 그것은 하늘 위로 상승해 가는데──"
+
+[[dialogue]]
+speaker = "アニマ"
+original = "「なッ……局所的なアステラの発生、だト……！？」"
+translation = "「뭐랏…… 국소적인 아스텔라의 발생이라니타……!?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "シュティレ──！！"
+translation = "슈틸레──!!"
+
+[[dialogue]]
+speaker = "unk"
+original = "──アナ！！"
+translation = "──아나!!"
+
+[[dialogue]]
+speaker = "unk"
+original = "アナとシュティレだけが、アステラ内部へと拉致されてしまった──"
+translation = "아나와 슈틸레만이 아스텔라 내부로 납치되어 버렸다──"
+

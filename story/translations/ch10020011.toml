@@ -1,0 +1,260 @@
+[[dialogue]]
+speaker = "unk"
+original = "第１話,星徒会のお姉ちゃん,P"
+translation = "제1화, 성도회의 누나, P"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「はい、ＵＭＯ♪」"
+translation = "「네, UMO♪」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「えっ、も、もうですか！？」"
+translation = "「엣, 버, 벌써인가요!?」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「誰か、ドロー４を出すのよ！\u3000サーシャさんに地獄を見せてあげるわ！」"
+translation = "「누구든 드로우 4를 내! 사샤 씨에게 지옥을 보여주자고!」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「……ノーカード。万事休す」"
+translation = "「……노 카드. 진퇴양난.」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「はい、上がり～♪」"
+translation = "「네, 났다~♪」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「これで私の４連勝ね～♪\u3000初めに決めたルール通り、１着の人が罰ゲームを決めるってことでいいのよね？」"
+translation = "「이걸로 나의 4연승이네~♪ 처음에 정한 규칙대로, 1등인 사람이 벌칙 게임을 정하는 걸로 괜찮은 거지?」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「もちろんよ。そして、５着の人がなんでも言うことを聞く。はいっ、私も上がりね！」"
+translation = "「물론이지. 그리고 5등인 사람은 뭐든지 말을 듣는다. 하앗, 나도 났다!」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「とは言え、今のところ会長以外が全員１回ずつ５着を取ってる。上がり」"
+translation = "「그렇다고는 해도, 지금 상황에선 회장 이외에 전원 한 번씩 5등을 했어. 났다.」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「……ってことは、これで会長も５着だね。あ、上がりです」"
+translation = "「……그렇다는 건, 이걸로 회장도 5등이네. 아, 났습니다.」"
+
+[[dialogue]]
+speaker = "unk"
+original = "くっ、しまった……！"
+translation = "큭, 아차……!"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「うふふふふ～♪\u3000……この時を待ってたのよ。これで、ここにいる人は全員５着。私は全員になんでも言うことを聞かせることができるってことよね～」"
+translation = "「우후후후후~♪ ……이 때를 기다렸어. 이걸로 여기 있는 사람은 전원 5등. 나는 모두에게 뭐든지 시킬 수 있다는 거네~」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「……全員、私のことを『お姉ちゃん』って呼んでね♪」"
+translation = "「……전원, 나를 『누나』라고 불러줘♪」"
+
+[[dialogue]]
+speaker = "みんな"
+original = "「え」"
+translation = "「에」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「えっと、サーシャさ…………じゃなかった」"
+translation = "「에또, 사샤 사…………가 아니라.」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「お、お姉ちゃん……」"
+translation = "「누, 누나……」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「ん～？\u3000なになに、どうしたの～？\u3000お姉ちゃんにお話があるのなら聞くわよ～♪」"
+translation = "「응~? 뭐야 뭐야, 왜 그래~? 누나에게 할 말이 있다면 들어줄게~♪」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「こ、これ、思ったよりも恥ずかしいんですけど！\u3000いつまで続くんですか！？」"
+translation = "「이, 이거 생각보다 부끄러운데요! 언제까지 계속되는 건가요!?」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「少なくとも今日中は有効よね？\u3000ヴィーナスちゃん、そうよね～？」"
+translation = "「적어도 오늘 중에는 유효하겠지? 비너스 짱, 그렇지~?」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「ええ、姉さん。なんなら明日もやっていいわよ！\u3000私は本当に姉ができたみたいで、楽しいし！」"
+translation = "「응, 언니. 뭐라면 내일도 해도 좋아! 나는 정말로 언니가 생긴 것 같아서 즐거우니까!」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「慣れればノープロブレム。姉さま、書類のチェックをお願いしてもいいですか」"
+translation = "「익숙해지면 노 프로블럼. 언니, 서류 체크를 부탁해도 될까요?」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「んふ、んふふ……♪\u3000はぁ～～ここは天国かしら♪\u3000一生この空間で生きていきたい～」"
+translation = "「응후, 응후후……♪ 하아~~ 여기는 천국일까♪ 평생 이 공간에서 살고 싶어~」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「姉さま、チェックを」"
+translation = "「언니, 체크를.」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「はいは～い。全部お姉ちゃんにお任せ～♪」"
+translation = "「네에~ 네에~. 전부 누나에게 맡겨줘~♪」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「ふっ……仕事が減りました。これからも姉さまって呼べば、仕事を代わってくれるかもしれない」"
+translation = "「훗…… 일이 줄었습니다. 앞으로도 언니라고 부르면, 일을 대신 해줄지도 몰라.」"
+
+[[dialogue]]
+speaker = "unk"
+original = "（この状況を逆手にとってるだと！？）"
+translation = "（이 상황을 역이용하고 있다고!?）"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「……で、会長くんは、いつになったら私のことを、お姉ちゃんって呼んでくれるのかしら～？」"
+translation = "「……그래서, 회장 군은 언제쯤 나를 누나라고 불러주려나~?」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「ねぇ、会長くんてば～。何か喋ってくれないと、お姉ちゃん寂しいな～？（頬っぺたつんつん）」"
+translation = "「저기, 회장 군이라니까~. 뭐라고 말해주지 않으면 누나 외로운걸~? (볼을 쿡쿡)」"
+
+[[dialogue]]
+speaker = "unk"
+original = "…………（無言を貫く）"
+translation = "…………(침묵을 지킨다)"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「ず、ずるい、会長だけ！\u3000そうやってだんまり決め込んで、なんとか言わずに済ませようって考えてるんでしょ！」"
+translation = "「치, 치사해, 회장만! 그렇게 입을 꾹 다물고 어떻게든 말 안 하고 넘어가려고 생각하는 거지!」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「何を恥ずかしがってるのよ？\u3000姉さんだって喜んでるんだし、呼んであげればいいじゃない」"
+translation = "「뭘 부끄러워하는 거야? 언니도 기뻐하고 있으니까, 불러주면 되잖아.」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「恥ずかしいのなら、別の呼び方をすればいい。姉貴とか、姉御とか……？」"
+translation = "「부끄럽다면 다른 호칭으로 부르면 돼. 누님이라든가, 형님이라든가……?」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「い～え、ダメよ。会長くんには指定通り『お姉ちゃん』って呼んでもらわなくちゃ。これは罰ゲームなんだから、もちろん呼んでくれるわよね～？」"
+translation = "「아~니, 안 돼. 회장 군에게는 지정한 대로 『누나』라고 불려야겠어. 이건 벌칙 게임이니까, 당연히 불러주겠지~?」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「ほーら、お姉ちゃんって呼んでみて♪」"
+translation = "「자~아, 누나라고 불러봐♪」"
+
+[[dialogue]]
+speaker = "unk"
+original = "恥ずかしさで顔が熱くなる。小さくその言葉を呟くが──"
+translation = "부끄러움에 얼굴이 뜨거워진다. 작게 그 말을 중얼거리지만──"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「ん～？\u3000声が小さくて聞こえないから、もう一回♪」"
+translation = "「응~? 목소리가 작아서 안 들리니까, 한 번 더♪」"
+
+[[dialogue]]
+speaker = "unk"
+original = "お……お姉ちゃん……"
+translation = "누…… 누나……"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「────」"
+translation = "「────」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「……か、可愛い～～～～～～！！！\u3000ねえ、もっと！\u3000もっと呼んでみてっ、ほら、おねえーちゃんって、ほらほらっ♪」"
+translation = "「……귀, 귀여워~~~~~~~~~!!! 저기, 더! 더 불러봐, 자, 누-나-라고, 어서 어서♪」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「理由をつけて逃げようとしても無駄です、会長。パトロールでしたら前会長に行ってもらうので、今日外に出る用事はありません」"
+translation = "「이유를 대고 도망치려 해도 소용없습니다, 회장. 순찰이라면 전 회장에게 가게 할 테니, 오늘 밖에 나갈 용무는 없습니다.」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「お姉ちゃんって呼んでくれないのなら、こうしちゃうんだから。えいっ♪」"
+translation = "「누나라고 불러주지 않는다면, 이렇게 해버릴 거니까. 에잇♪」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「はい、ぎゅーーーっ♪」"
+translation = "「자, 꼬옥──♪」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「はぁぁぁ……♪\u3000ねえ、頭も撫でていいかしら♪\u3000いいわよね？」"
+translation = "「하아아아……♪ 저기, 머리도 쓰다듬어도 될까♪ 괜찮지?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "（顔に胸を押しつけられて、声が出せない……！）"
+translation = "（얼굴에 가슴이 밀착되어서, 목소리가 안 나와……!）"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「はぁい、なでなで～～♪\u3000ほんと可愛い～～～♪\u3000あ～ん、胸がキュンキュンしちゃう♡」"
+translation = "「네에, 쓰담쓰담~~♪ 정말 귀여워~~~♪ 아앙, 가슴이 두근두근해버려♡」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「んふふ、急に大人しくなっちゃって～♪\u3000そんなにお姉ちゃんに抱きしめられるのが良かったのかな～？」"
+translation = "「응후후, 갑자기 얌전해져서는~♪ 그렇게 누나에게 안기는 게 좋았던 걸까~?」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「あっ、サーシャさん！\u3000じゃなかったお姉ちゃん！\u3000いやいや、そゆことどうでもよくて！\u3000息！\u3000会長、息できてないです！」"
+translation = "「앗, 사샤 씨! 가 아니라 누나! 아니아니, 그런 건 아무래도 좋고! 숨! 회장, 숨 못 쉬고 있어요!」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「あ、あら……？\u3000会長くん？\u3000会長くーん？」"
+translation = "「어, 어라……? 회장 군? 회장 구~운?」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「会長……レスト・イン・ピース（安らかに眠れ）」"
+translation = "「회장…… 레스트 인 피스(편히 잠드소서).」"
+
+[[dialogue]]
+speaker = "unk"
+original = "（柔らかくて、めっちゃ良い匂いした……）"
+translation = "（부드럽고, 엄청 좋은 냄새 났어……）"
+
+[[dialogue]]
+speaker = "unk"
+original = "意識が遠のく中で、俺の脳裏には初めての感触と匂いがバッチリ焼き付いてしまうのだった。"
+translation = "의식이 멀어지는 가운데, 내 뇌리에는 처음 느껴보는 감촉과 냄새가 확실히 각인되어 버리는 것이었다."
+
+[[dialogue]]
+speaker = "unk"
+original = "……ばたり。"
+translation = "……털썩."
+

@@ -1,0 +1,285 @@
+[[dialogue]]
+speaker = "unk"
+original = "第１話,師匠メイド,B"
+translation = "제1화, 스승 메이드, B"
+
+[[dialogue]]
+speaker = "キリカ"
+original = "「――星見家メイド隊」"
+translation = "「──호시미 가문 메이드대」"
+
+[[dialogue]]
+speaker = "キリカ"
+original = "「それは、流星市国のトップである『流星教皇』を代々襲名してきた由緒ある家系、星見家に仕えるメイドたちのことです」"
+translation = "「그것은 유성시국의 정점인 『유성 교황』을 대대로 습명해 온 유서 깊은 가계, 호시미 가문을 모시는 메이드들을 말합니다」"
+
+[[dialogue]]
+speaker = "キリカ"
+original = "「星見家メイド隊のモットーは『清らかに、厳かに、速やかに』」"
+translation = "「호시미 가문 메이드대의 모토는 『맑게, 엄숙하게, 신속하게』」"
+
+[[dialogue]]
+speaker = "キリカ"
+original = "「すなわち、伝統的なクラシックメイドの在り方こそが、私たちの目指す理想の姿なのです」"
+translation = "「즉, 전통적인 클래식 메이드의 모습이야말로 우리가 지향하는 이상적인 모습인 것입니다」"
+
+[[dialogue]]
+speaker = "キリカ"
+original = "「ここまではよろしいですか？\u3000緋宮会長」"
+translation = "「여기까지 이해하셨나요? 히노미야 회장님」"
+
+[[dialogue]]
+speaker = "unk"
+original = "師匠、それはいいんですけど……"
+translation = "스승님, 그건 알겠는데요……"
+
+[[dialogue]]
+speaker = "キリカ"
+original = "「なんでしょう？\u3000メイド隊の概要について、なにかわからないことでも？」"
+translation = "「무엇이죠? 메이드대의 개요에 대해 뭔가 모르는 것이라도?」"
+
+[[dialogue]]
+speaker = "キリカ"
+original = "「――そうではない、ですか？\u3000ふむ、では、仕事内容についてでしょうか？」"
+translation = "「──그게 아닌가요? 흠, 그럼 업무 내용에 대해서일까요?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "俺がメイド服を着てることについてです！"
+translation = "제가 메이드복을 입고 있는 것에 대해서입니다!"
+
+[[dialogue]]
+speaker = "マリオン"
+original = "「まあまあ、うふふっ♪\u3000よくお似合いですよ、会長様」"
+translation = "「자자, 우후훗♪ 참 잘 어울려요, 회장님」"
+
+[[dialogue]]
+speaker = "マリオン"
+original = "「実にお可愛らしいですこと<emoji=heart04>\u3000このマリオン、愛を込めて作った甲斐がありましたわ♪」"
+translation = "「정말로 사랑스러우시네요<emoji=heart04> 이 마리온, 사랑을 듬뿍 담아 만든 보람이 있었어요♪」"
+
+[[dialogue]]
+speaker = "unk"
+original = "この格好で褒められても嬉しくないんですけど！？"
+translation = "이 차림으로 칭찬받아도 기쁘지 않은데요!?"
+
+[[dialogue]]
+speaker = "unk"
+original = "そう、俺は何故か今、星見家でメイド服を着る羽目になっていた。"
+translation = "그래, 나는 왠지 지금 호시미 가문에서 메이드복을 입는 처지가 되어 있었다."
+
+[[dialogue]]
+speaker = "unk"
+original = "どうしてそんなことになったのかというと、遡ること数日前――"
+translation = "어쩌다 이렇게 됐냐 하면, 거슬러 올라가 며칠 전──"
+
+[[dialogue]]
+speaker = "キリカ"
+original = "「――ふむ……そうですね。今日の戦闘訓練はここまでにしておきましょう」"
+translation = "「──흠…… 그렇군요. 오늘 전투 훈련은 여기까지만 하죠」"
+
+[[dialogue]]
+speaker = "キリカ"
+original = "「以前指摘した自身の俯瞰を意識できるようになってきたようですね。まだ粗削りですが、良い傾向です。ただそれを見越した私のフェイントに対して、警戒が甘いです」"
+translation = "「이전에 지적했던 자신의 부감 의식을 할 수 있게 된 모양이네요. 아직 거칠지만 좋은 경향입니다. 다만 그것을 예견한 제 페인트에 대해서는 경계가 느슨합니다」"
+
+[[dialogue]]
+speaker = "キリカ"
+original = "「目に見える動きだけでなく、相手の考えも読むように心がけましょう。俯瞰するとは物理的にではなく、<b>神</b>の視点から状況を見ること」"
+translation = "「눈에 보이는 움직임뿐만 아니라 상대의 생각도 읽도록 노력하세요. 부감한다는 것은 물리적이 아니라 신의 시점에서 상황을 보는 것」"
+
+[[dialogue]]
+speaker = "キリカ"
+original = "「それが<ruby>上月神<rt>こうづき・</rt></ruby>闘流における極意の１つです」"
+translation = "「그것이 <ruby>코즈키 신<rt>코즈키·</rt></ruby>투류의 극의 중 하나입니다」"
+
+[[dialogue]]
+speaker = "unk"
+original = "師匠、今日もご指導ありがとうございました！"
+translation = "스승님, 오늘도 지도 감사합니다!"
+
+[[dialogue]]
+speaker = "キリカ"
+original = "「いえ。緋宮会長に戦い方を指導しているのは、フィオナお嬢様からの命ですので、礼には及びません」"
+translation = "「아니요. 히노미야 회장님께 싸우는 법을 지도하는 것은 피오나 아가씨의 명이기에 감사할 필요는 없습니다」"
+
+[[dialogue]]
+speaker = "キリカ"
+original = "「ですが、しっかりと礼に始まり、礼に終わるのは、上月神闘流においても尊ばれる行為です。これからも是非、大切になさって下さい」"
+translation = "「하지만 제대로 예로 시작해 예로 끝나는 것은 코즈키 신투류에서도 존중받는 행위입니다. 앞으로도 꼭 소중히 여기도록 하세요」"
+
+[[dialogue]]
+speaker = "unk"
+original = "改めて、彼女は、俺が格闘術を教わっている師匠――上月キリカさん。"
+translation = "새삼스럽지만 그녀는 내가 격투술을 배우고 있는 스승── 코즈키 키리카 씨."
+
+[[dialogue]]
+speaker = "unk"
+original = "流星学園星徒会長のフィオナに仕える、星見家メイド隊のメイド長で、流星学園の卒業生でもある。その星騎士としての実力は、今でも１点の曇りもなく、非常に高い。"
+translation = "유성학원 성도회장인 피오나를 모시는 호시미 가문 메이드대의 메이드장이자 유성학원의 졸업생이기도 하다. 그 성기사로서의 실력은 지금도 추호의 의심 없이 매우 높다."
+
+[[dialogue]]
+speaker = "unk"
+original = "上月家に伝わる『上月神闘流』と呼ばれる拳法を修得している格闘家でもあり、拳で戦うスタイルが俺と似ていることから、頼み込んで弟子入りさせてもらっていた。"
+translation = "코즈키 가문에 전해지는 『코즈키 신투류』라 불리는 권법을 수득한 격투가이기도 하며, 주먹으로 싸우는 스타일이 나와 비슷해서 사정사정해 제자로 들어갔었다."
+
+[[dialogue]]
+speaker = "マリオン"
+original = "「会長様、キリカさん、見事な手合わせでしたよ。お２人の真剣な姿に思わず私、胸がキュンとなってしまいました<emoji=heart04>」"
+translation = "「회장님, 키리카 씨, 멋진 대련이었어요. 두 분의 진지한 모습에 저도 모르게 가슴이 큥 하고 뛰어버렸답니다<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "キリカ"
+original = "「マリオンさん、見ていたのですか。フィオナお嬢様から何か言伝でしょうか？」"
+translation = "「마리온 씨, 보고 있었나요. 피오나 아가씨로부터 무슨 전언이라도?」"
+
+[[dialogue]]
+speaker = "マリオン"
+original = "「いえいえ、ただの趣味ですよ。私、若い子たちの青春を見守るのが好きですから♪」"
+translation = "「아니요 아니요, 그저 취미예요. 전 젊은 아이들의 청춘을 지켜보는 걸 좋아하니까요♪」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ニコニコと優しげな笑顔を浮かべる彼女は、星見家メイド隊のマリオン・ネイマールさん。"
+translation = "싱글벙글하며 다정한 미소를 짓는 그녀는 호시미 가문 메이드대의 마리온 네이마르 씨."
+
+[[dialogue]]
+speaker = "unk"
+original = "メイドとして師匠に負けず劣らず優秀な人で、その高い仕事能力をもって星見家メイド隊の仕事全体を受け持ち、一糸乱れず処理する、雑務担当。"
+translation = "메이드로서 스승님에게 뒤처지지 않을 만큼 우수한 사람으로, 높은 업무 능력으로 호시미 가문 메이드대의 업무 전반을 도맡아 일사불란하게 처리하는 잡무 담당."
+
+[[dialogue]]
+speaker = "unk"
+original = "なのだが、彼女には１つ問題があって――"
+translation = "이긴 하지만 그녀에게는 한 가지 문제가 있어서──"
+
+[[dialogue]]
+speaker = "マリオン"
+original = "「ああ、それにしても会長様。１日ぶりにお会いしましたが、今日も実にお可愛らしいお顔立ちですこと<emoji=heart04>」"
+translation = "「아아, 그나저나 회장님. 하루 만에 뵙지만 오늘도 참 사랑스러운 이목구비시네요<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "マリオン"
+original = "「男の子らしい凛々しさを含ませながら、純真な女の子のような愛らしさを持ち合わせた、中性的なご尊顔と声……♪」"
+translation = "「남자 아이다운 늠름함을 품으면서도 순진한 여자아이 같은 사랑스러움을 함께 지닌 중성적인 존안과 목소리……♪」"
+
+[[dialogue]]
+speaker = "マリオン"
+original = "「それが今日は、青春の汗も滲んで、上気して、天然の色気まで乗せてくるなんて……！\u3000ああ、いけませんわ、会長様。そんなお顔を私に見せてはっ<emoji=heart04>」"
+translation = "「그것이 오늘은 청춘의 땀도 배어 있고 상기되어서 천연의 색기까지 풍기고 있다니……! 아아, 안 돼요 회장님. 그런 얼굴을 저에게 보여주시면<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "マリオン"
+original = "「このマリオン、我慢が利かなくなってしまいますわ。それはもう――」"
+translation = "「이 마리온, 참을 수 없게 되어 버린답니다. 그건 이제──」"
+
+[[dialogue]]
+speaker = "マリオン"
+original = "「思わず子供が欲しくなってしまうほどに……<emoji=heart04>」"
+translation = "「나도 모르게 아이가 갖고 싶어질 정도로……<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "unk"
+original = "いつものことだけど、顔が近い近い近いっ！"
+translation = "늘 있는 일이지만 얼굴이 너무 가까워 가까워 가까워!"
+
+[[dialogue]]
+speaker = "キリカ"
+original = "「――上月神闘流・貫手……『<ruby>雷月<rt>らいづき</rt></ruby>』！」"
+translation = "「──코즈키 신투류·관수…… 『뇌월』!」"
+
+[[dialogue]]
+speaker = "マリオン"
+original = "「あんっ<emoji=heart04>」"
+translation = "「앙<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "キリカ"
+original = "「はぁ……全く……。毎度毎度懲りない人ですね、あなたは。そうやって自分の好みに合う相手を見つければ、すぐさまナンパして……」"
+translation = "「하아…… 정말…… 매번 매번 질리지도 않는 사람이군요 당신은. 그렇게 자기 취향에 맞는 상대를 발견하면 금방 작업을 걸고……」"
+
+[[dialogue]]
+speaker = "キリカ"
+original = "「星見家メイド隊のベテランとして恥ずかしくない、ちゃんと『清らか』な立ち振る舞いをして下さい」"
+translation = "「호시미 가문 메이드대의 베테랑으로서 부끄럽지 않게 제대로 『맑은』 몸가짐을 하세요」"
+
+[[dialogue]]
+speaker = "マリオン"
+original = "「痺れびれ～<emoji=heart04>」"
+translation = "「짜릿짜릿해~<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "unk"
+original = "なんかむしろ、嬉しそうな顔してません……？"
+translation = "왠지 오히려 기뻐하는 표정 아닌가요……?"
+
+[[dialogue]]
+speaker = "マリオン"
+original = "「うふふっ……<emoji=heart04>\u3000これはキリカさんの愛情表現ですから<emoji=heart04>」"
+translation = "「우후훗……<emoji=heart04> 이건 키리카 씨의 애정 표현이니까요<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "キリカ"
+original = "「違います」"
+translation = "「아닙니다」"
+
+[[dialogue]]
+speaker = "マリオン"
+original = "「そんなクールなキリカさんも、お可愛らしいですよ<emoji=heart04>」"
+translation = "「그런 쿨한 키리카 씨도 참 사랑스러워요<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "キリカ"
+original = "「……この人は、こういうところがなければ、完璧なメイドなのですが――」"
+translation = "「……이 사람은 이런 점만 없으면 완벽한 메이드입니다만──」"
+
+[[dialogue]]
+speaker = "キリカ"
+original = "「くしゅんっ」"
+translation = "「에취」"
+
+[[dialogue]]
+speaker = "マリオン"
+original = "「あら？\u3000キリカさんがくしゃみなんて珍しいですね。これはもしかして、キリカさんの可愛いところが見られる予兆だったりして……♪」"
+translation = "「어라? 키리카 씨가 재채기라니 드문 일이네요. 이건 혹시 키리카 씨의 귀여운 점을 볼 수 있는 징조일지도……♪」"
+
+[[dialogue]]
+speaker = "キリカ"
+original = "「なにを下らないことを言っているのですか。ちょっと喉に埃が入ってしまっただけです」"
+translation = "「무슨 쓸데없는 소리를 하는 겁니까. 그냥 목에 먼지가 좀 들어갔을 뿐이에요」"
+
+[[dialogue]]
+speaker = "キリカ"
+original = "「いつまでもふざけていないで、仕事に戻りますよ」"
+translation = "「언제까지고 장난치지 말고 업무로 복귀하세요」"
+
+[[dialogue]]
+speaker = "unk"
+original = "翌日――"
+translation = "다음 날──"
+
+[[dialogue]]
+speaker = "マリオン"
+original = "「あら、会長様、ごきげんよう♪」"
+translation = "「어머, 회장님 안녕하세요♪」"
+
+[[dialogue]]
+speaker = "マリオン"
+original = "「――キリカさんを探してらっしゃるんですか？\u3000それが実は……」"
+translation = "「──키리카 씨를 찾고 계신가요? 그게 실은……」"
+
+[[dialogue]]
+speaker = "マリオン"
+original = "「どうも風邪を引いてしまったみたいで、今日はメイドの仕事を休んでいるんですよ」"
+translation = "「아무래도 감기에 걸려 버린 것 같아서 오늘은 메이드 업무를 쉬고 계세요」"
+
+[[dialogue]]
+speaker = "unk"
+original = "え！？\u3000師匠が風邪！？"
+translation = "에!? 스승님이 감기!?"
+
+[[dialogue]]
+speaker = "unk"
+original = "真面目な師匠の体調不良に驚き、俺は思わず声を上げてしまうのだった。"
+translation = "성실한 스승님의 건강 이상에 놀라 나는 나도 모르게 소리를 지르고 마는 것이었다."
+

@@ -1,0 +1,225 @@
+[[dialogue]]
+speaker = "ウェンディ"
+original = "「くっ……虫みたいに次から次へとモンスターが……」"
+translation = "「큭…… 벌레처럼 차례차례 몬스터가……」"
+
+[[dialogue]]
+speaker = "リーリア"
+original = "「ちょっと多すぎなんですけど！\u3000しかも普通のよりちょっと強いし！」"
+translation = "「좀 너무 많은데요! 게다가 보통 녀석들보다 좀 더 강하고!」"
+
+[[dialogue]]
+speaker = "リーリア"
+original = "（わかってると思いますけど、余計なこと言わないでくださいね？）"
+translation = "（알고 계시겠지만, 쓸데없는 소리는 하지 마세요?）"
+
+[[dialogue]]
+speaker = "ウェンディ"
+original = "（当然です。あなたを送り込むのにどれだけコストがかかったと思っているんですか）"
+translation = "（당연하죠. 당신을 보내는 데 얼마나 많은 비용이 들었다고 생각하는 거예요.）"
+
+[[dialogue]]
+speaker = "ウェンディ"
+original = "「アステラを叩かないとキリがありません！\u3000このままだと押し潰されます！」"
+translation = "「아스텔라를 치지 않으면 끝이 없어요! 이대로라면 깔려 죽을 거예요!」"
+
+[[dialogue]]
+speaker = "リーリア"
+original = "「できるならやってますよ！\u3000でも目の前のモンスターの相手をするので手一杯です！」"
+translation = "「할 수 있다면 하고 있다고요! 하지만 눈앞의 몬스터들을 상대하는 것만으로도 벅차요!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "俺が切り開く……！"
+translation = "내가 길을 열겠어……!"
+
+[[dialogue]]
+speaker = "ウェンディ"
+original = "「会長さん！？\u3000大丈夫ですか！？」"
+translation = "「회장님!? 괜찮으세요!?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "なんとか……"
+translation = "어떻게든……"
+
+[[dialogue]]
+speaker = "ウェンディ"
+original = "「会長さんもアポロのモンスターの相手で精いっぱいのようですね。しかも今まで捕まえたやつまで狂暴化してますし」"
+translation = "「회장님도 아폴로의 몬스터를 상대하느라 여념이 없으신 모양이네요. 게다가 지금까지 잡은 녀석들까지 흉폭해졌고요.」"
+
+[[dialogue]]
+speaker = "コハルコ"
+original = "『ごめんなさい。応援の星騎士が向かっているんだけど、モンスターの大群に阻まれてて』"
+translation = "『미안해. 지원할 성기사들이 가고 있는데, 몬스터 대군에 가로막혀서.』"
+
+[[dialogue]]
+speaker = "コハルコ"
+original = "『私の方でも打開策を考えてるんだけど、こんなに局所的にモンスターやアステラが発生するなんて例がなくて……』"
+translation = "『나도 타개책을 생각하고 있는데, 이렇게 국지적으로 몬스터나 아스텔라가 발생하는 사례는 없어서……』"
+
+[[dialogue]]
+speaker = "リーリア"
+original = "「コハルコ先輩に策がないって言われると何気にショックですね……。そこの鏡の人！\u3000何か切り札とかないんですか？」"
+translation = "「코하루코 선배가 대책이 없다고 하니까 왠지 충격적이네요……. 거기 거울 아줌마! 뭐 비장의 수 같은 거 없어요?」"
+
+[[dialogue]]
+speaker = "ウェンディ"
+original = "「かが──！？\u3000コホン。また会長さんの分身を作れば一点突破できるかもしれませんが、守りが薄くなるのでこちらが瓦解する可能性の方が高いです」"
+translation = "「아주──!? 큼큼. 다시 회장님의 분신을 만들면 일점 돌파를 할 수 있을지도 모르지만, 수비가 얇아져서 이쪽이 와해될 가능성이 더 높습니다.」"
+
+[[dialogue]]
+speaker = "リーリア"
+original = "「それでもやるしかないですよ！\u3000このまま追い詰められるよりマシです！」"
+translation = "「그래도 할 수밖에 없어요! 이대로 몰리는 것보다야 낫죠!」"
+
+[[dialogue]]
+speaker = "ウェンディ"
+original = "「やむをえません。一か八か──ミラージュアルター！」"
+translation = "「어쩔 수 없네요. 모 아니면 도── 미라주 얼터!」"
+
+[[dialogue]]
+speaker = "リーリア"
+original = "「ちょっと！？\u3000分身センパイあっさり消えちゃったんですけど！？」"
+translation = "「잠깐만요!? 분신 선배, 허무하게 사라져 버렸는데요!?」"
+
+[[dialogue]]
+speaker = "ウェンディ"
+original = "「すみません、鏡像の強度不足でした……。魔力がもうギリギリで……」"
+translation = "「죄송합니다, 경상의 강도가 부족했어요……. 마력이 이제 한계라……」"
+
+[[dialogue]]
+speaker = "リーリア"
+original = "「私も弾がそろそろヤバいです！\u3000このままじゃ本当にすり潰されますよ！」"
+translation = "「저도 탄환이 슬슬 위험해요! 이대로라면 정말로 짓눌려 버릴 거예요!」"
+
+[[dialogue]]
+speaker = "イニシュ"
+original = "「申し訳ありません。ヤサイブタアブラマシマシマシは想定以上のボリュームで、完食に時間がかかってしまいました」"
+translation = "「죄송합니다. 야채 돼지 기름 마시마시마시는 상상 이상의 볼륨이라 완식하는 데 시간이 걸려 버렸습니다.」"
+
+[[dialogue]]
+speaker = "ウェンディ"
+original = "「どれだけラーメンに夢中になってたんですか！\u3000ていうかマシ過ぎです！」"
+translation = "「얼마나 라멘에 정신이 팔려 있었던 거예요! 그보다 너무 마시마시잖아요!」"
+
+[[dialogue]]
+speaker = "イニシュ"
+original = "「塩味が強めの醤油に、背脂のコク、ニンニクの刺激が相まって、とても力強い味でした。満足感があるのに、また食したくなる不思議な感覚です」"
+translation = "「짠맛이 강한 간장에, 비계의 풍미, 마늘의 자극이 어우러져 매우 힘 있는 맛이었습니다. 만족감이 있는데도 다시 먹고 싶어지는 신기한 감각입니다.」"
+
+[[dialogue]]
+speaker = "リーリア"
+original = "「感想はいいですから！」"
+translation = "「감상은 됐으니까요!」"
+
+[[dialogue]]
+speaker = "イニシュ"
+original = "「──多数のモンスターおよびアステラを確認」"
+translation = "「──다수의 몬스터 및 아스텔라 확인.」"
+
+[[dialogue]]
+speaker = "イニシュ"
+original = "「これより殲滅を開始します」"
+translation = "「지금부터 섬멸을 개시합니다.」"
+
+[[dialogue]]
+speaker = "イニシュ"
+original = "「アンブラル──」"
+translation = "「엄브럴──」"
+
+[[dialogue]]
+speaker = "イニシュ"
+original = "「ヴァナルガンド」"
+translation = "「바나르간드.」"
+
+[[dialogue]]
+speaker = "unk"
+original = "イニシュのマントから溢れた闇の奔流が、黒い狼の群れとなってモンスターに襲い掛かる。"
+translation = "이니슈의 망토에서 흘러넘친 어둠의 분류가 검은 늑대 무리가 되어 몬스터를 덮친다."
+
+[[dialogue]]
+speaker = "unk"
+original = "それは蹂躙だった。"
+translation = "그것은 유린이었다."
+
+[[dialogue]]
+speaker = "unk"
+original = "爪は紙を裂くようにモンスターを八つ裂きにし、牙は泡を刺すように容易く貫く。"
+translation = "발톱은 종이를 찢듯 몬스터를 갈기갈기 찢고, 송곳니는 거품을 찌르듯 손쉽게 꿰뚫는다."
+
+[[dialogue]]
+speaker = "unk"
+original = "貪欲に、強欲に。"
+translation = "탐욕스럽게, 강욕스럽게."
+
+[[dialogue]]
+speaker = "unk"
+original = "リクリエの尖兵を余すことなく喰らい尽くさんと、黒狼が<ruby>顎<rt>あぎと</rt></ruby>を振るった。"
+translation = "리크리에의 첨병을 남김없이 잡아먹으려는 듯, 흑랑이 턱을 휘둘렀다."
+
+[[dialogue]]
+speaker = "イニシュ"
+original = "「アステラを駆除します」"
+translation = "「아스텔라를 구제합니다.」"
+
+[[dialogue]]
+speaker = "unk"
+original = "黒い狼は夜空を駆けてアステラに飛び込み、巣穴を駆逐していく。"
+translation = "검은 늑대는 밤하늘을 달려 아스텔라로 뛰어들어 둥지를 구축해 나간다."
+
+[[dialogue]]
+speaker = "unk"
+original = "狼に喰われた巣はひとつ、またひとつと瞬く間に数を減らしていき──"
+translation = "늑대에게 먹힌 둥지는 하나, 또 하나 순식간에 수가 줄어들고──"
+
+[[dialogue]]
+speaker = "イニシュ"
+original = "「全てのアステラの消滅を確認しました」"
+translation = "「모든 아스텔라의 소멸을 확인했습니다.」"
+
+[[dialogue]]
+speaker = "unk"
+original = "アステラがこんな簡単に……"
+translation = "아스텔라가 이렇게 간단히……"
+
+[[dialogue]]
+speaker = "unk"
+original = "！\u3000まだモンスターの残りが──"
+translation = "! 아직 몬스터가 남았──"
+
+[[dialogue]]
+speaker = "？？？"
+original = "「魔王の力はその程度か？」"
+translation = "「마왕의 힘은 그 정도인가?」"
+
+[[dialogue]]
+speaker = "ウェンディ"
+original = "「セ、セ、セ、セドナ長官！？」"
+translation = "「세, 세, 세, 세드나 장관님!?」"
+
+[[dialogue]]
+speaker = "セドナ"
+original = "「アイリーンの報告を聞いて人間界に出てみればこの騒ぎ。ウェンディ、後で話を聞かせてもらうぞ」"
+translation = "「아이린의 보고를 듣고 인간계로 나와 보니 이 소동이군. 웬디, 나중에 이야기를 좀 들어야겠어.」"
+
+[[dialogue]]
+speaker = "ウェンディ"
+original = "「すみませええぇぇんっ！」"
+translation = "「죄송합니다아아아악!」"
+
+[[dialogue]]
+speaker = "セドナ"
+original = "「だがその前に掃除だ。魔導八式──プロメテウス」"
+translation = "「하지만 그전에 청소다. 마도 8식── 프로메테우스.」"
+
+[[dialogue]]
+speaker = "unk"
+original = "魔女が指をパチンと鳴らす。"
+translation = "마녀가 손가락을 튕긴다."
+
+[[dialogue]]
+speaker = "unk"
+original = "それだけモンスターが黒炎に包まれ、俺とウェンディの頑張りは灰も残らず燃え尽きた──"
+translation = "그것만으로 몬스터들이 흑염에 휩싸였고, 나와 웬디의 노력은 재도 남기지 않고 타버렸다──"
+

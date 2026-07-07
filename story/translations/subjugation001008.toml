@@ -1,0 +1,315 @@
+[[dialogue]]
+speaker = "unk"
+original = "リクリエの瘴気に体を操られた守護天使２人との戦いは続いていた。"
+translation = "리크리에의 장기에 몸을 조종당한 수호천사 두 사람과의 싸움은 계속되었다."
+
+[[dialogue]]
+speaker = "マグダレナ（幼少）"
+original = "「くっ……ダメです！\u3000攻撃が止められない！\u3000意識まで乗っ取られる前に私たちを倒して下さい、ナミエル！」"
+translation = "「큭…… 안 돼요! 공격을 멈출 수 없어! 의식까지 빼앗기기 전에 저희를 쓰러뜨려 주세요, 나미엘!」"
+
+[[dialogue]]
+speaker = "ナミエル"
+original = "「はぁ……はぁ……！\u3000嫌です！\u3000私は……学園に入学すると決めた時から――」"
+translation = "「하아…… 하아……! 싫어요! 저는…… 학원에 입학하기로 결심했을 때부터──」"
+
+[[dialogue]]
+speaker = "ナミエル"
+original = "「ヒトを殺す暗殺者としてではなく……ヒトを救う星騎士として戦うと、そう誓ったんです！」"
+translation = "「사람을 죽이는 암살자가 아니라…… 사람을 구하는 성기사로서 싸우겠다고, 그렇게 맹세했어요!」"
+
+[[dialogue]]
+speaker = "マグダレナ（幼少）"
+original = "「ナミエル……！」"
+translation = "「나미엘……!」"
+
+[[dialogue]]
+speaker = "アルモタヘル（幼少）"
+original = "「だが、このまま耐える戦いなんて続けていたら、お前たちが先に死んでしまうぞ！」"
+translation = "「하지만 이대로 버티는 싸움만 계속하다가는 너희들이 먼저 죽고 만다!」"
+
+[[dialogue]]
+speaker = "アルモタヘル（幼少）"
+original = "「そうなる前にセシア……頼むのだ！\u3000我らを倒してくれ！」"
+translation = "「그렇게 되기 전에 세시아…… 부탁인 것이다! 우리들을 쓰러뜨려 줘!」"
+
+[[dialogue]]
+speaker = "セシア"
+original = "「いいえ。クロトママが諦めないと決めた以上、セシアもその判断に従うわ。それに――」"
+translation = "「아니. 쿠로토 마마가 포기하지 않기로 결정한 이상, 세시아도 그 판단에 따를 거야. 게다가──」"
+
+[[dialogue]]
+speaker = "セシア"
+original = "「クロトママとの付き合いは、アルモタヘル、マグダレナ、あなた達２人の方が長いのでしょう？」"
+translation = "「쿠로토 마마와의 인연은 아르모타헬, 마그달레나, 당신들 두 사람이 더 길잖아?」"
+
+[[dialogue]]
+speaker = "セシア"
+original = "「だったら、もっと信じなさい。クロトママのことを！」"
+translation = "「그렇다면 더 믿으렴. 쿠로토 마마를!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "そうだ、諦めずに信じろ！\u3000仲間のことを！"
+translation = "그래, 포기하지 말고 믿어! 동료를!"
+
+[[dialogue]]
+speaker = "unk"
+original = "俺も仲間のことを信じている。俺たちは１人でリクリエと戦っているわけではない。"
+translation = "나도 동료를 믿고 있어. 우리들은 혼자서 리크리에와 싸우고 있는 게 아니야."
+
+[[dialogue]]
+speaker = "unk"
+original = "俺たちは――みんなで『<ruby>星騎士<rt>スターナイツ</rt></ruby>』なんだ！"
+translation = "우리들은── 모두가 『<ruby>성기사<rt>스타 나이츠</rt></ruby>』야!"
+
+[[dialogue]]
+speaker = "？？？"
+original = "「――やぁ、待たせたネ」"
+translation = "「──야아, 오래 기다렸다다.」"
+
+[[dialogue]]
+speaker = "アルモタヘル（幼少）"
+original = "「その声は……！」"
+translation = "「그 목소리는……!」"
+
+[[dialogue]]
+speaker = "アニマ"
+original = "「フヒ♪」"
+translation = "「후히♪」"
+
+[[dialogue]]
+speaker = "マグダレナ（幼少）"
+original = "「アニマさま……！」"
+translation = "「아니마 님……!」"
+
+[[dialogue]]
+speaker = "アニマ"
+original = "「会長ならきっと、時間を稼いでくれると信じていたヨ」"
+translation = "「회장이라면 분명 시간을 벌어줄 거라고 믿고 있었다다.」"
+
+[[dialogue]]
+speaker = "アニマ"
+original = "「――１秒だけ失礼するヨ、マグたん、アルモたん」"
+translation = "「──1초만 실례하겠다다, 마그땅, 알모땅.」"
+
+[[dialogue]]
+speaker = "unk"
+original = "パチンッとアニマ先輩が指を鳴らす。次の一瞬、守護天使２人の動きが停止して――"
+translation = "파칭, 하고 아니마 선배가 손가락을 튕긴다. 다음 순간 수호천사 두 사람의 움직임이 정지하고──"
+
+[[dialogue]]
+speaker = "アニマ"
+original = "「ワクチンボム」"
+translation = "「백신 봄.」"
+
+[[dialogue]]
+speaker = "unk"
+original = "すかさず、アニマ先輩が杖から光弾を放ち、２人の近くで爆発させる。眩い光が守護天使の体を包み、禍々しい霧を、リクリエの瘴気を取り払っていく。"
+translation = "지체 없이 아니마 선배가 지팡이에서 광탄을 발사해 두 사람 근처에서 폭발시킨다. 눈부신 빛이 수호천사의 몸을 감싸고, 불길한 안개를, 리크리에의 장기를 걷어내 간다."
+
+[[dialogue]]
+speaker = "アルモタヘル（幼少）"
+original = "「……！\u3000体が自由に動くのだ！」"
+translation = "「……! 몸이 자유롭게 움직이는 것이다!」"
+
+[[dialogue]]
+speaker = "マグダレナ（幼少）"
+original = "「この攻撃は一体……？」"
+translation = "「이 공격은 대체……?」"
+
+[[dialogue]]
+speaker = "アニマ"
+original = "「病気のウィルスに対するワクチンというべきものだヨ」"
+translation = "「병의 바이러스에 대한 백신이라고 해야겠지다.」"
+
+[[dialogue]]
+speaker = "アニマ"
+original = "「なかなか取り払えないリクリエの瘴気。アニマはそこに異常を感じて、仮定シタ」"
+translation = "「좀처럼 걷어낼 수 없는 리크리에의 장기. 아니마는 거기서 이상을 느끼고 가설을 세웠다다.」"
+
+[[dialogue]]
+speaker = "アニマ"
+original = "「新種のモンスターはまだ死んでおらず、ウィルスのような状態で、３人の体に潜伏しているのではないカト」"
+translation = "「신종 몬스터는 아직 죽지 않았고, 바이러스 같은 상태로 세 사람의 몸에 잠복하고 있는 게 아닐까 하고다.」"
+
+[[dialogue]]
+speaker = "アニマ"
+original = "「そして、会長の体はどうやら、強い耐性があったみたいでネ」"
+translation = "「그리고 회장의 몸은 아무래도 강한 내성이 있었던 모양이다다.」"
+
+[[dialogue]]
+speaker = "アニマ"
+original = "「そのデータを元に、特効星術を作り出したというわけダ」"
+translation = "「그 데이터를 토대로 특효 성술을 만들어 냈다는 뜻이다다.」"
+
+[[dialogue]]
+speaker = "アニマ"
+original = "「まぁ、先にモンスターに勘付かれて、動かれてしまったから、時間との勝負ダッタが――」"
+translation = "「뭐, 먼저 몬스터가 눈치를 채고 움직여버리는 바람에 시간 싸움이었다만──」"
+
+[[dialogue]]
+speaker = "アニマ"
+original = "「アニマたちの勝ちダ。姿を現すがイイ」"
+translation = "「아니마 일행의 승리다다. 모습을 드러내거라다.」"
+
+[[dialogue]]
+speaker = "バグキメラ"
+original = "「グオォォォッ……！」"
+translation = "「구오오오옷……!」"
+
+[[dialogue]]
+speaker = "セシア"
+original = "「これが、２人を操っていたモンスターね」"
+translation = "「이게 두 사람을 조종하던 몬스터네.」"
+
+[[dialogue]]
+speaker = "unk"
+original = "後はこいつを倒すだけだ！"
+translation = "남은 건 이 녀석을 쓰러뜨릴 뿐이다!"
+
+[[dialogue]]
+speaker = "ナミエル"
+original = "「でも、倒したらまた、瘴気の姿になって誰かの体に乗り移ろうとするんじゃ……！？」"
+translation = "「하지만 쓰러뜨리면 또 장기 상태가 되어 누군가의 몸에 옮겨가려는 게……!?」"
+
+[[dialogue]]
+speaker = "アニマ"
+original = "「いいや、もう逃げられナイ。リクリエの瘴気を１つにまとめ、実体化させる──」"
+translation = "「아니, 이제 도망칠 수 없다다. 리크리에의 장기를 하나로 묶어 실체화시킨다──」"
+
+[[dialogue]]
+speaker = "アニマ"
+original = "「先程使ったワクチンボムは、そういう星術ダ」"
+translation = "「방금 사용한 백신 봄은 그런 성술이다다.」"
+
+[[dialogue]]
+speaker = "アニマ"
+original = "「マグたんとアルモたんは戦えそうカナ？」"
+translation = "「마그땅이랑 알모땅은 싸울 수 있겠나다?」"
+
+[[dialogue]]
+speaker = "マグダレナ（幼少）"
+original = "「はい、大丈夫です！」"
+translation = "「네, 괜찮아요!」"
+
+[[dialogue]]
+speaker = "アルモタヘル（幼少）"
+original = "「アルモたんもいけるのだ！」"
+translation = "「알모땅도 갈 수 있는 것이다!」"
+
+[[dialogue]]
+speaker = "アニマ"
+original = "「ならば――全員揃って、世界を救う実験を始めヨウ！」"
+translation = "「그렇다면── 전원 모여서 세계를 구하는 실험을 시작하겠다다!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "パチンッと再びアニマ先輩が指を鳴らすと、周囲の結界がひび割れ、一斉に砕けて――"
+translation = "파칭, 하고 다시 아니마 선배가 손가락을 튕기자 주위의 결계가 금이 가더니 일제히 부서지고──"
+
+[[dialogue]]
+speaker = "アルモタヘル（幼少）"
+original = "「え……！？」"
+translation = "「에……!?」"
+
+[[dialogue]]
+speaker = "マグダレナ（幼少）"
+original = "「これは……！？」"
+translation = "「이것은……!?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "そこには、鬼ごっこに参加していた流星学園附属校１年Ｃ組のクラスメイト達が、戦闘服姿で揃っていた。"
+translation = "거기에는 숨바꼭질에 참가했던 유성학원 부속교 1학년 C반 반 친구들이 전투복 차림으로 모여 있었다."
+
+[[dialogue]]
+speaker = "附属校女子Ａ"
+original = "「アルモたん、ママダレナ！\u3000ナミエルちゃんも、無事だった！？」"
+translation = "「알모땅, 마마달레나! 나미엘짱도 무사했어!?」"
+
+[[dialogue]]
+speaker = "附属校男子Ｂ"
+original = "「会長に、セッシ―も！\u3000準備して待ってたぜ！」"
+translation = "「회장에 세시도! 준비하고 기다렸다고!」"
+
+[[dialogue]]
+speaker = "附属校男子Ｃ"
+original = "「そいつがアニマ先輩の言ってたモンスターか！」"
+translation = "「저 녀석이 아니마 선배가 말한 몬스터냐!」"
+
+[[dialogue]]
+speaker = "附属校女子Ｄ"
+original = "「加勢するよ！\u3000私たちだって、スターナイツの卵なんだから！」"
+translation = "「가세할게! 우리들도 스타 나이츠의 후보생이니까!」"
+
+[[dialogue]]
+speaker = "ナミエル"
+original = "「みんな……！\u3000いつの間に……！？」"
+translation = "「모두들……! 어느 사이에……!?」"
+
+[[dialogue]]
+speaker = "バグキメラ"
+original = "「……！？」"
+translation = "「……!?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "大勢に周囲を取り囲まれたモンスターが、気圧されて一歩後ずさる。"
+translation = "많은 인원에게 포위된 몬스터가 기세에 눌려 한 걸음 뒷걸음질 친다."
+
+[[dialogue]]
+speaker = "アニマ"
+original = "「――残念ながらアニマは、星騎士としては天才ではナイ」"
+translation = "「──유감스럽게도 아니마는 성기사로서 천재는 아니다다.」"
+
+[[dialogue]]
+speaker = "アニマ"
+original = "「いま目の前にいるモンスターに真正面から立ち向かえば、アニマはまず勝てないダロウ」"
+translation = "「지금 눈앞에 있는 몬스터에게 정면으로 맞서면 아니마는 우선 이길 수 없을 것이다다.」"
+
+[[dialogue]]
+speaker = "アニマ"
+original = "「だから、アニマは事前に、入念に準備するんダ。天才でなくとも、リクリエから世界を救えるように」"
+translation = "「그러니까 아니마는 사전에 입성하게 준비하는 것이다다. 천재가 아니더라도 리크리에로부터 세계를 구할 수 있도록.」"
+
+[[dialogue]]
+speaker = "アニマ"
+original = "「錬金術師として切り札を生み出し、勝ち筋を作り出す――」"
+translation = "「연금술사로서 필살기를 만들어 내고 승기를 구축한다──」"
+
+[[dialogue]]
+speaker = "アニマ"
+original = "「それこそが、星騎士アニマの戦いダ」"
+translation = "「그것이야말로 성기사 아니마의 싸움이다다.」"
+
+[[dialogue]]
+speaker = "ナミエル"
+original = "（すごい……これが……）"
+translation = "(대단해…… 이것이……)"
+
+[[dialogue]]
+speaker = "ナミエル"
+original = "（新星学園が誇る、不可能を可能にする天才。対リクリエの切り札とも評される、『救世の錬金術師』……！）"
+translation = "(신성학원이 자랑하는 불가능을 가능케 하는 천재. 대 리크리에의 비장의 패로 평가받는, 『구세의 연금술사』……!)"
+
+[[dialogue]]
+speaker = "アニマ"
+original = "「状況は作った。あとの指揮は任せるヨ、会長！」"
+translation = "「상황은 만들었다다. 나머지는 지휘를 맡기겠다다, 회장!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "よし！\u3000みんな、やるぞ！！！"
+translation = "좋아! 모두들, 하자!!!"
+
+[[dialogue]]
+speaker = "クラスメイト達"
+original = "「おーっ！！！」"
+translation = "「오──!!!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "かけ声と共に、モンスターとの決戦が始まるのだった――"
+translation = "함성과 함께 몬스터와의 결전이 시작되는 것이었다──"
+

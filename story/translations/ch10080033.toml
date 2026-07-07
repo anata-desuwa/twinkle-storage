@@ -1,0 +1,280 @@
+[[dialogue]]
+speaker = "unk"
+original = "第３話,アナのスペシャルスイーツ,P"
+translation = "제3화, 아나의 스페셜 스위츠, P"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「会長、こちらの書類のチェックをお願いします」"
+translation = "「회장님, 이쪽 서류 체크 부탁드립니다」"
+
+[[dialogue]]
+speaker = "unk"
+original = "すごい量だ……！"
+translation = "엄청난 양이다……!"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「はい、ですが期日も迫っています。ちょっと大変ですが、今日は終わるまで星徒会室で頑張ってください」"
+translation = "「네, 하지만 기일도 임박했습니다. 조금 힘들겠지만, 오늘은 끝날 때까지 성도회실에서 힘내주세요」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「本当は私も最後までお手伝いしたいですが、どうしても承認印など、会長でないと処理できないものがありますから……」"
+translation = "「사실은 저도 끝까지 돕고 싶지만, 아무래도 승인 도장 등, 회장님이 아니면 처리할 수 없는 것들이 있으니까요……」"
+
+[[dialogue]]
+speaker = "unk"
+original = "アナ、お疲れ様！"
+translation = "아나, 수고했어!"
+
+[[dialogue]]
+speaker = "unk"
+original = "わかった、任せてくれ"
+translation = "알았어, 맡겨줘"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「はい、お疲れ様でした。それではお先に失礼します」"
+translation = "「네, 수고하셨습니다. 그럼 먼저 실례하겠습니다」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「今日はオフ。このまま寮に帰っても良いのですが……あの書類の量と、会長の今までの手際から見て……きっと夜中までかかるはず」"
+translation = "「오늘은 오프. 이대로 기숙사에 돌아가도 좋지만…… 저 서류의 양과, 회장님의 지금까지의 솜씨로 봐서…… 분명 밤늦게까지 걸릴 거야」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「となれば……うん。何か夜食を調達することにしましょう。頭脳労働ですし、甘いものなんかが良さそうですね」"
+translation = "「그렇게 되면…… 응. 뭔가 야식을 조달하기로 하죠. 두뇌 노동이니, 단것 같은 게 좋을 것 같네요」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「カフェテリアのテイクアウト、あまり使ったことがないですね。星徒会でおやつを食べる時は、だいたいマトイ先輩のお手製ですし」"
+translation = "「카페테리아의 테이크아웃, 별로 써본 적이 없네요. 성도회에서 간식을 먹을 때는, 보통 마토이 선배가 직접 만든 것이고」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「クッキー……キャンディ……色々ありますが……う～ん。何がいいでしょうか」"
+translation = "「쿠키…… 캔디…… 여러 가지 있지만…… 으음. 뭐가 좋을까요」"
+
+[[dialogue]]
+speaker = "サラン"
+original = "「ぽよ？\u3000あ～、アナちゃんだ～！」"
+translation = "「뽀요? 아~, 아나 짱이다~!」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「あ……サラン先輩。こんにちは」"
+translation = "「아…… 사란 선배. 안녕하세요」"
+
+[[dialogue]]
+speaker = "サラン"
+original = "「どうかしたの～？\u3000お菓子コーナーなのに、すっごく真剣なお顔してるけど～」"
+translation = "「무슨 일이야~? 과자 코너인데, 엄청 진지한 얼굴을 하고 있네~」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「ええ。ちょっと……今日は会長が残業なので、何か差し入れでもと思いまして」"
+translation = "「네. 조금…… 오늘은 회장님이 잔업이라, 뭐라도 간식으로 드릴까 해서요」"
+
+[[dialogue]]
+speaker = "サラン"
+original = "「そっか～♪\u3000アナちゃん、優しいんだね～<emoji=heart04>」"
+translation = "「그렇구나~♪ 아나 짱, 상냥하네~<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「よろしければサラン先輩、テイクアウトできるスイーツのオススメを教えていただけませんか？」"
+translation = "「괜찮으시다면 사란 선배, 테이크아웃 할 수 있는 디저트 추천을 가르쳐주시지 않겠어요?」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「お菓子にかける情熱と実力は、私が知る限りサラン先輩が一番の人だと思っていますので」"
+translation = "「과자에 쏟는 열정과 실력은, 제가 아는 한 사란 선배가 제일인 사람이라고 생각하니까요」"
+
+[[dialogue]]
+speaker = "サラン"
+original = "「わ～、責任重大かも～♪\u3000うん、サランに任せて！」"
+translation = "「와~, 책임 중대할지도~♪ 응, 사란에게 맡겨줘!」"
+
+[[dialogue]]
+speaker = "サラン"
+original = "「そ～だねぇ。カフェテリアのワッフルもマフィンも～、と～っても美味しいけど～……せっかくだし、今から手作りするのもいいかも～？」"
+translation = "「그렇네~. 카페테리아의 와플도 머핀도~, 어~엄청 맛있지만~…… 기왕이면, 지금부터 직접 만드는 것도 좋을지도~?」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「え……？\u3000今から、ですか？」"
+translation = "「에……? 지금부터, 말인가요?」"
+
+[[dialogue]]
+speaker = "サラン"
+original = "「うん！\u3000テイクアウトのマフィンって冷めてるよね？\u3000でも出来立ては、ふわ～っと温かくて、バターのいい香りがするの～♪」"
+translation = "「응! 테이크아웃 머핀은 식어 있잖아? 하지만 갓 만든 건, 폭신~하고 따뜻해서, 버터의 좋은 향기가 난다구~♪」"
+
+[[dialogue]]
+speaker = "サラン"
+original = "「出来立ての焼き菓子ちゃん、と～っても美味しいから喜ばれると思うな～<emoji=heart04>」"
+translation = "「갓 구운 과자 짱은, 어~엄청 맛있으니까 기뻐할 거라고 생각해~<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「なるほど……では、ご依頼できますか？\u3000サラン先輩に手掛けていただければ、きっと素敵な差し入れになると思います」"
+translation = "「과연…… 그럼, 부탁드려도 될까요? 사란 선배가 손대주신다면, 분명 멋진 선물이 될 거라 생각합니다」"
+
+[[dialogue]]
+speaker = "サラン"
+original = "「ぽよ？\u3000違うよー、アナちゃんが作るんだよ～♪」"
+translation = "「뽀요? 아니야~, 아나 짱이 만드는 거야~♪」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「……私が？」"
+translation = "「……제가요?」"
+
+[[dialogue]]
+speaker = "サラン"
+original = "「お付き合いしてる女の子から、手作りお菓子～<emoji=heart04>\u3000きっと会長ちゃん、とーってもふわふわ～な気持ちにになってくれるよー♪」"
+translation = "「사귀고 있는 여자아이로부터의 수제 과자~<emoji=heart04> 분명 회장 짱, 어~엄청 둥실둥실~한 기분이 되어줄 거야~♪」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「でも私は、お菓子は食べる専門で……調理の経験もほとんどないのですが……」"
+translation = "「하지만 저는, 과자는 먹는 전문이라…… 조리 경험도 거의 없는데요……」"
+
+[[dialogue]]
+speaker = "サラン"
+original = "「大丈夫～<emoji=heart04>\u3000サランが付きっきりで教えてあげるから～！\u3000よーし、調理室に、れっつごー！」"
+translation = "「괜찮아~<emoji=heart04> 사란이 딱 붙어서 가르쳐줄 테니까~! 좋아, 조리실로, 렛츠 고!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "あと一頑張りで書類のチェックが終わるところまで来た……のだけれど。"
+translation = "조금만 더 힘내면 서류 체크가 끝나는 지점까지 왔다…… 지만."
+
+[[dialogue]]
+speaker = "unk"
+original = "お腹、空いたなあ……"
+translation = "배, 고프네……"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「おお会長よ、お腹が空くとは情けない──なんちゃって」"
+translation = "「오오 회장이여, 배가 고프다니 한심하구나── 농담이에요」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「どうぞ。頑張っている会長に、出来立てのあつあつマフィンをデリバリーです」"
+translation = "「여기요. 힘내고 있는 회장님께, 갓 구운 뜨끈뜨끈한 머핀 배달입니다」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ありがとう、アナ！"
+translation = "고마워, 아나!"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「しかもなんと、給食委員会のサラン先輩のお手製です。調理室で味見しましたが、ほっぺが落ちる美味しさでした」"
+translation = "「게다가 무려, 급식위원회의 사란 선배가 직접 만든 것입니다. 조리실에서 맛보았습니다만, 뺨이 떨어질 정도로 맛있었습니다」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「どうぞ、召し上がってください」"
+translation = "「자, 드셔보세요」"
+
+[[dialogue]]
+speaker = "unk"
+original = "……美味しい！"
+translation = "……맛있어!"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「流石は桜十字のご令嬢です。なんてことない焼き菓子を、ここまでの逸品に仕立て上げるとは」"
+translation = "「과연 벚꽃 십자의 영애입니다. 별것 아닌 구운 과자를, 이 정도의 일품으로 만들어내다니」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「普段は和菓子派の私ですが、これはお見事という他ありません」"
+translation = "「평소에는 화과자 파인 저입니다만, 이건 훌륭하다고밖에 할 수 없네요」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「……って、すごいですね会長。あっという間に完食して……本当にお腹ペコペコだったんですね」"
+translation = "「……랄까, 대단하시네요 회장님. 순식간에 완식하시고…… 정말 배가 고프셨나 보네요」"
+
+[[dialogue]]
+speaker = "unk"
+original = "アナ、その後ろ手に持っているのは……"
+translation = "아나, 그 뒷손에 들고 있는 건……"
+
+[[dialogue]]
+speaker = "unk"
+original = "……あれ？"
+translation = "……어라?"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「あ……はい。こっちの箱に入っているのもマフィンです。ですが……その……」"
+translation = "「아…… 네. 이쪽 상자에 들어있는 것도 머핀입니다. 하지만…… 그……」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「こっちはちょっと不格好なんですよ。えーっと、私が作ったものなので……」"
+translation = "「이쪽은 좀 모양이 안 예뻐요. 에또, 제가 만든 거라서……」"
+
+[[dialogue]]
+speaker = "unk"
+original = "そっちも食べたいな！"
+translation = "그쪽도 먹고 싶은데!"
+
+[[dialogue]]
+speaker = "unk"
+original = "アナの手作り……！"
+translation = "아나의 수제……!"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「そ、そうですか。では……ど、どうぞ。サラン先輩のものに比べて、味は落ちるかと思いますが……」"
+translation = "「그, 그렇습니까. 그럼…… 자, 여기요. 사란 선배의 것에 비하면, 맛은 떨어질 거라 생각합니다만……」"
+
+[[dialogue]]
+speaker = "unk"
+original = "──すごく美味しいよ、アナ！"
+translation = "──정말 맛있어, 아나!"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「……良かった。そう言っていただけると、私も嬉しいです」"
+translation = "「……다행이다. 그렇게 말씀해 주시니, 저도 기뻐요」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「自分が作ったものを食べてもらえるのって、嬉しいですね。会長も私のために抹茶プリンを作ってくださることがありましたが……」"
+translation = "「자신이 만든 것을 맛있게 먹어주는 건, 기쁜 일이네요. 회장님도 저를 위해 말차 푸딩을 만들어 주신 적이 있었습니다만……」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「これからは、私もたくさんお料理、勉強しようと思います」"
+translation = "「이제부터는, 저도 요리 공부를 많이 하려고 해요」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「その……会長との将来を考えると、いずれ自炊のスキルは大切になってくるとも、思いますし……」"
+translation = "「그…… 회장님과의 장래를 생각하면, 언젠가 자취 스킬은 소중해질 거라고도, 생각하고요……」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「──はい。頑張ります。よろしければまた、私の料理の感想を聞かせてください、会長♪」"
+translation = "「──네. 힘낼게요. 괜찮으시다면 또, 제 요리의 감상을 들려주세요, 회장님♪」"
+
+[[dialogue]]
+speaker = "unk"
+original = "サランのものに比べて、アナのマフィンは確かに形が不ぞろいでこそあったけれど。"
+translation = "사란의 것에 비하면, 아나의 머핀은 확실히 모양이 들쑥날쑥하긴 했지만."
+
+[[dialogue]]
+speaker = "unk"
+original = "大好きな恋人が自分のために作ってくれた。その事実が、とてもとても嬉しいのだった──"
+translation = "사랑하는 연인이 자신을 위해 만들어 주었다. 그 사실이, 너무나도 기뻤다──"
+

@@ -1,0 +1,320 @@
+[[dialogue]]
+speaker = "ラティエ"
+original = "「へえ、それじゃここのメニューは全部きみが考えたメニューなのかい？」"
+translation = "「헤에, 그럼 여기 메뉴는 전부 자네가 생각한 메뉴인가?」"
+
+[[dialogue]]
+speaker = "サラン"
+original = "「そうなんです。今日はサービスでなんでも頼んでいいですよ」"
+translation = "「맞아요. 오늘은 서비스로 뭐든 시키셔도 돼요」"
+
+[[dialogue]]
+speaker = "ラティエ"
+original = "「ありがとう。けれど私はこういったスイーツには疎いから、きみのオススメをもらっていいかな？」"
+translation = "「고맙네. 하지만 난 이런 디저트 쪽은 잘 모르니, 자네의 추천 메뉴를 받아도 될까?」"
+
+[[dialogue]]
+speaker = "サラン"
+original = "「分かりました。少々お待ちくださいね」"
+translation = "「알겠습니다. 잠시만 기다려주세요」"
+
+[[dialogue]]
+speaker = "ラティエ"
+original = "「プールデートという話だったから、それを楽しみにしていたのだが、こうなってくると食事の方も期待してしまうな」"
+translation = "「풀장 데이트라고 해서 그걸 기대하고 있었는데, 이렇게 되니 식사 쪽도 기대하게 되는군」"
+
+[[dialogue]]
+speaker = "ラティエ"
+original = "「サラン嬢のデザートは魔界を旅している時もよく耳にした」"
+translation = "「사란 양의 디저트는 마계를 여행할 때도 자주 들었거든」"
+
+[[dialogue]]
+speaker = "unk"
+original = "すごいな、サランは"
+translation = "대단하네, 사란은."
+
+[[dialogue]]
+speaker = "ラティエ"
+original = "「人間界に戻ったら食べてみたいと思っていたが、まさかここで念願が叶うとは」"
+translation = "「인간계로 돌아가면 꼭 먹어보고 싶다고 생각했는데, 설마 여기서 소원을 이룰 줄이야」"
+
+[[dialogue]]
+speaker = "ラティエ"
+original = "「案内人として彼女を呼んでくれたきみにも感謝しなければ」"
+translation = "「안내인으로 그녀를 불러준 자네에게도 감사해야겠군」"
+
+[[dialogue]]
+speaker = "サラン"
+original = "「お待たせしました」"
+translation = "「오래 기다리셨습니다」"
+
+[[dialogue]]
+speaker = "ラティエ"
+original = "「おやおや、随分とたくさん持ってきてくれたのだね？\u3000ありがとう」"
+translation = "「어라어라, 꽤 많이 가져다주었군? 고맙네」"
+
+[[dialogue]]
+speaker = "unk"
+original = "サランの持ってきてくれたスイーツや飲み物で、あっという間にテーブルが埋まってしまう。"
+translation = "사란이 가져온 디저트와 음료로 순식간에 테이블이 가득 찬다."
+
+[[dialogue]]
+speaker = "ラティエ"
+original = "「どれも可愛らしいスイーツだ。これらはきみのイメージに合わせてつくられたものかな？」"
+translation = "「전부 귀여운 디저트들이군. 이것들은 자네의 이미지에 맞춰서 만들어진 건가?」"
+
+[[dialogue]]
+speaker = "サラン"
+original = "「はい。こちらのスイーツはサランのアイデアで作られたものです」"
+translation = "「네. 이 디저트들은 사란의 아이디어로 만들어진 거예요」"
+
+[[dialogue]]
+speaker = "ラティエ"
+original = "「どれどれ、さっそく頂こう」"
+translation = "「어디 어디, 당장 먹어보자고」"
+
+[[dialogue]]
+speaker = "unk"
+original = "こんなにあると食べきれそうにないよ"
+translation = "이렇게 많으면 다 못 먹을 것 같아."
+
+[[dialogue]]
+speaker = "サラン"
+original = "「ぽよ？\u3000そうなの～？」"
+translation = "「포요? 그런가요~?」"
+
+[[dialogue]]
+speaker = "エルデリーゼ"
+original = "「会長様が小食なことは知っておりましたけど、学園長様も小食ですのね？」"
+translation = "「회장님이 소식한다는 건 알고 있었지만, 학원장님도 소식하시나요?」"
+
+[[dialogue]]
+speaker = "ラティエ"
+original = "「そうだね。どれもとても美味しそうだけれど、とても私だけでは食べきれそうにないな」"
+translation = "「그렇네. 전부 아주 맛있어 보이지만, 나 혼자서는 도저히 다 못 먹을 것 같군」"
+
+[[dialogue]]
+speaker = "ラティエ"
+original = "「お嬢様たちも、一緒にどうかな？」"
+translation = "「아가씨들도 함께 어떤가?」"
+
+[[dialogue]]
+speaker = "エルデリーゼ"
+original = "「仕方ありませんわね。お姉さま、私たちもご一緒させて頂きましょう」"
+translation = "「어쩔 수 없군요. 언니, 저희도 같이 하도록 하죠」"
+
+[[dialogue]]
+speaker = "サラン"
+original = "「いいの？\u3000嬉しいな～」"
+translation = "「그래도 돼? 기뻐라~」"
+
+[[dialogue]]
+speaker = "ラティエ"
+original = "「これは……素晴らしい味だね。世界各地でいろいろなものを食べてきたけれど、これほど美味しいスイーツはお目にかかったことがない」"
+translation = "「이건…… 훌륭한 맛이군. 세계 각지에서 여러 가지를 먹어봤지만, 이 정도로 맛있는 디저트는 본 적이 없어」"
+
+[[dialogue]]
+speaker = "サラン"
+original = "「えへへ～、嬉しい。ありがとうございます～」"
+translation = "「에헤헤~ 기뻐요. 감사합니다~」"
+
+[[dialogue]]
+speaker = "サラン"
+original = "「けれど世界中を旅したら、きっとまだサランの知らないスイーツもあるんでしょうね～」"
+translation = "「하지만 세계를 여행하면 분명 아직 사란이 모르는 디저트도 있겠죠~?」"
+
+[[dialogue]]
+speaker = "ラティエ"
+original = "「はっはっは、私はあまり舌が肥えている方ではないから気にしたことはなかったけれど」"
+translation = "「핫핫핫, 나는 딱히 미식가인 편은 아니라 신경 쓴 적 없었네만」"
+
+[[dialogue]]
+speaker = "ラティエ"
+original = "「それでも美味しいものはあった。食は見知らぬ土地を訊ねる時の楽しみの一つだね」"
+translation = "「그래도 맛있는 것은 있었지. 식사는 낯선 땅을 방문할 때의 즐거움 중 하나니까」"
+
+[[dialogue]]
+speaker = "エルデリーゼ"
+original = "「旅の魅力──いろいろお伺いしたいですわ」"
+translation = "「여행의 매력── 여러 가지 여쭙고 싶습니다」"
+
+[[dialogue]]
+speaker = "ラティエ"
+original = "「そうだね。いろいろあるが……やはり出会いだな」"
+translation = "「그렇지. 여러 가지 있지만…… 역시 만남이라네」"
+
+[[dialogue]]
+speaker = "ラティエ"
+original = "「世界は広い。色々な土地にいろいろな人が住んでいる」"
+translation = "「세계는 넓어. 여러 땅에 여러 사람이 살고 있지」"
+
+[[dialogue]]
+speaker = "ラティエ"
+original = "「新たな地を目指す時、そこにはどんな人たちが住んでいるのか、想像を巡らせながら歩いていくのさ」"
+translation = "「새로운 땅을 향할 때, 그곳에는 어떤 사람들이 살고 있을지 상상을 펼치며 걸어가는 거야」"
+
+[[dialogue]]
+speaker = "ラティエ"
+original = "「それは旅の困難を忘れさせてくれる楽しい想像だし、大抵の場合、想像を上回る楽しい出会いが待っている」"
+translation = "「그건 여행의 곤경을 잊게 해주는 즐거운 상상이고, 대부분의 경우 상상을 뛰어넘는 즐거운 만남이 기다리고 있지」"
+
+[[dialogue]]
+speaker = "サラン"
+original = "「まるでご飯を食べる前みたいだね～」"
+translation = "「마치 밥 먹기 전 같네요~」"
+
+[[dialogue]]
+speaker = "サラン"
+original = "「どんなお料理が出てくるんだろう？\u3000このお料理はどんな味がするんだろう？\u3000って想像しながらまってると、心がフワフワするの～♪」"
+translation = "「어떤 요리가 나올까? 이 요리는 어떤 맛이 날까? 하고 상상하며 기다리면 마음이 붕 뜨거든요~♪」"
+
+[[dialogue]]
+speaker = "ラティエ"
+original = "「まさにそれだな。旅と食事はよく似ている」"
+translation = "「바로 그거야. 여행과 식사는 아주 닮았지」"
+
+[[dialogue]]
+speaker = "エルデリーゼ"
+original = "「旅先で知り合った方と、一緒に旅をすることもあるのでしょうか？」"
+translation = "「여행지에서 알게 된 분과 함께 여행하는 일도 있나요?」"
+
+[[dialogue]]
+speaker = "ラティエ"
+original = "「そうだね。偶然、同じ目的を持った旅人と出会うこともある。そんな時はその偶然を大事にするようにしているよ」"
+translation = "「그렇지. 우연히 같은 목적을 가진 여행자와 만날 때도 있네. 그럴 때는 그 우연을 소중히 하려고 하지」"
+
+[[dialogue]]
+speaker = "ラティエ"
+original = "「偶然と言えば、きみとは魔界で偶然出会ったのだったな」"
+translation = "「우연이라고 하니, 자네와는 마계에서 우연히 만났었지」"
+
+[[dialogue]]
+speaker = "unk"
+original = "すごく助かりましたけど"
+translation = "정말 큰 도움이 됐었죠."
+
+[[dialogue]]
+speaker = "unk"
+original = "まさか学園長とは思いませんでした"
+translation = "설마 학원장님일 줄은 몰랐습니다."
+
+[[dialogue]]
+speaker = "ラティエ"
+original = "「あの時はヴィーナス嬢を救うために、魔女の協力を得て魔界にやってきていたのだったかな？」"
+translation = "「그때 비너스 양을 구하기 위해 마녀의 협력을 얻어 마계에 왔던 거였나?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "そう言って学園長は、魔界のレゾフに訪れた時のことを話す。"
+translation = "그렇게 말하며 학원장은 마계의 레조프에 들렀을 때의 이야기를 한다."
+
+[[dialogue]]
+speaker = "unk"
+original = "あの時、レゾフに立ち寄ったのは本当に偶然だったそうだ。"
+translation = "그때 레조프에 들른 건 정말 우연이었다고 한다."
+
+[[dialogue]]
+speaker = "unk"
+original = "学園長の助けがなければ『スタンピード』の脅威を凌げなかっただろうことを考えると、俺たちは本当に運が良かったのだと思う。"
+translation = "학원장의 도움이 없었다면 『스탬피드』의 위협을 막아낼 수 없었을 것을 생각하면, 우리들은 정말 운이 좋았다고 생각한다."
+
+[[dialogue]]
+speaker = "ラティエ"
+original = "「いやはや、懐かしい思い出だ」"
+translation = "「허허, 그리운 추억이군」"
+
+[[dialogue]]
+speaker = "エルデリーゼ"
+original = "「旅……私が経験したことのないものですわ……」"
+translation = "「여행…… 제가 경험해 보지 못한 거예요……」"
+
+[[dialogue]]
+speaker = "エルデリーゼ"
+original = "「学園長様にとって旅とは一体どのようなものなのでしょう」"
+translation = "「학원장님께 여행이란 대체 어떤 것인가요?」"
+
+[[dialogue]]
+speaker = "ラティエ"
+original = "「……そうだな」"
+translation = "「……글쎄」"
+
+[[dialogue]]
+speaker = "ラティエ"
+original = "「少し真面目な話をしてしまうと、私はいろいろなことを自分の目で確かめなければ気が済まない性質なんだ」"
+translation = "「조금 진지한 이야기를 하자면, 나는 여러 가지 일을 내 눈으로 직접 확인하지 않으면 직성이 풀리지 않는 성미거든」"
+
+[[dialogue]]
+speaker = "ラティエ"
+original = "「最初はただの非常勤講師だった私だが、ヘレナや教師陣からの推薦を受けて学園長になった」"
+translation = "「처음엔 그저 비상근 강사였던 나지만, 헬레나와 교사진의 추천을 받아 학원장이 되었지」"
+
+[[dialogue]]
+speaker = "ラティエ"
+original = "「私の就任に疑問を呈する者も多かったが、その疑問は何より私が一番抱いていたよ」"
+translation = "「나의 취임에 의문을 품는 자도 많았지만, 그 의문은 무엇보다 내가 가장 많이 품고 있었네」"
+
+[[dialogue]]
+speaker = "ラティエ"
+original = "「リクリエという未曽有の危機に対して、世界が採らねばならない選択は私の中で決まっていた」"
+translation = "「리크리에라는 미증유의 위기에 대해, 세계가 취해야 할 선택은 내 안에서 정해져 있었어」"
+
+[[dialogue]]
+speaker = "ラティエ"
+original = "「それは即ち、滅びの運命に抗えるほどの強さを手に入れること、だ」"
+translation = "「그것은 즉, 멸망의 운명에 저항할 수 있을 정도의 강함을 손에 넣는 것, 이다」"
+
+[[dialogue]]
+speaker = "ラティエ"
+original = "「そして、学園長としてその責任を果たすために私の為さねばならないことは……学園長室で書類と向き合う事ではない」"
+translation = "「그리고 학원장으로서 그 책임을 다하기 위해 내가 해야 할 일은…… 학원장실에서 서류와 마주하는 것이 아니지」"
+
+[[dialogue]]
+speaker = "ラティエ"
+original = "「世界を歩き、見て、知り、星騎士がリクリエに抗う強さを手に入れる……その方法を模索することが私の為すべきことだと結論づけたのだよ」"
+translation = "「세계를 걷고, 보고, 알고, 성기사가 리크리에에 대항할 강함을 손에 넣는…… 그 방법을 모색하는 것이 내가 해야 할 일이라고 결론지었네」"
+
+[[dialogue]]
+speaker = "エルデリーゼ"
+original = "「だから……学園長様は、世界中のいろんな場所を旅していらっしゃったのですね……」"
+translation = "「그래서…… 학원장님은 세계 곳곳을 여행하고 계셨던 거군요……」"
+
+[[dialogue]]
+speaker = "unk"
+original = "そうだったのか……"
+translation = "그런 거였나……."
+
+[[dialogue]]
+speaker = "エスメラルダ"
+original = "『ちょっと会長くん！\u3000あなたまで何を聞き入っているの！』"
+translation = "『잠깐 회장군! 당신까지 뭘 넋 놓고 듣고 있는 거예요!』"
+
+[[dialogue]]
+speaker = "エスメラルダ"
+original = "『いい風に言ってますけど、結局職務を放り出して自由に生きていることには変わりないんですからね！』"
+translation = "『좋게 말하고 있지만, 결국 직무를 내팽개치고 자유롭게 살고 있다는 건 변함없으니까요!』"
+
+[[dialogue]]
+speaker = "unk"
+original = "（た、確かに……！）"
+translation = "(확, 확실히……!)"
+
+[[dialogue]]
+speaker = "エルデリーゼ"
+original = "「…………」"
+translation = "「…………」"
+
+[[dialogue]]
+speaker = "エルデリーゼ"
+original = "「……決めましたわ」"
+translation = "「……결정했습니다」"
+
+[[dialogue]]
+speaker = "サラン"
+original = "「ぽよ？\u3000何をきめたの？」"
+translation = "「포요? 뭘 결정했어?」"
+
+[[dialogue]]
+speaker = "エルデリーゼ"
+original = "「ラティエ学園長様！\u3000私を旅に連れて行ってくださいませ！！！」"
+translation = "「라티에 학원장님! 저를 여행에 데려가 주세요!!!」"
+

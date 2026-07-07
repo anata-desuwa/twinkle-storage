@@ -1,0 +1,205 @@
+[[dialogue]]
+speaker = "リーナ"
+original = "「ゲーム楽しかったね、お兄ちゃん♪\u3000クレーンゲームのぬいぐるみも取ってくれてありがとう！」"
+translation = "「게임 재밌었지, 오빠♪ 인형 뽑기 인형도 뽑아줘서 고마워!」"
+
+[[dialogue]]
+speaker = "リーナ"
+original = "「ねぇ、お洋服見に行ってもいい？\u3000リーナ、お兄ちゃんの好きなお洋服着たいな～」"
+translation = "「있지, 옷 보러 가도 돼? 리나는 오빠가 좋아하는 옷 입고 싶어~」"
+
+[[dialogue]]
+speaker = "unk"
+original = "リーナと俺は家族なんだよな……？"
+translation = "리나와 나는 가족인 건가……?"
+
+[[dialogue]]
+speaker = "リーナ"
+original = "「うん！\u3000お兄ちゃんが兄で、リーナが妹。そんなの当たり前だよ」"
+translation = "「응! 오빠가 오빠고, 리나가 여동생. 그런 건 당연하잖아.」"
+
+[[dialogue]]
+speaker = "unk"
+original = "じゃあお父さんとお母さんはどこに？"
+translation = "그럼 아버지랑 어머니는 어디 계셔?"
+
+[[dialogue]]
+speaker = "リーナ"
+original = "「え──？」"
+translation = "「어──?」"
+
+[[dialogue]]
+speaker = "リーナ"
+original = "「お父さんと、お母さんならおうちに……あれ？\u3000リーナのおうち、どこ……？\u3000リーナのお父さんとお母さんは今……」"
+translation = "「아버지랑, 어머니라면 집에…… 어라? 리나네 집, 어디지……? 리나의 아버지랑 어머니는 지금……」"
+
+[[dialogue]]
+speaker = "リーナ"
+original = "「そ、そう！\u3000旅行！\u3000福引で旅行が当たっちゃって、２人で遠いところに行っちゃったの」"
+translation = "「그, 그래! 여행! 경품권으로 여행이 당첨돼서, 두 분이서 먼 곳으로 가버렸어.」"
+
+[[dialogue]]
+speaker = "リーナ"
+original = "「リーナ、お父さんとお母さんはキライ。何かあるとすぐ『お兄ちゃんはー……』って言うの」"
+translation = "「리나, 아버지랑 어머니는 싫어. 무슨 일만 있으면 바로 『오빠는─……』이라고 말하는걸.」"
+
+[[dialogue]]
+speaker = "リーナ"
+original = "「『リーナはお兄ちゃんと違って元気だね』とか『お兄ちゃんの分まで勉強しなさい』とかいちいち言うんだよ」"
+translation = "「『리나는 오빠랑 다르게 건강하네』라든가 『오빠 몫까지 공부하렴』이라든가 일일이 말한다구.」"
+
+[[dialogue]]
+speaker = "リーナ"
+original = "「お兄ちゃんはずっと前にいなくなったのに、リーナじゃなくてお兄ちゃんのことばっかり……」"
+translation = "「오빠는 아주 예전에 없어졌는데, 리나가 아니라 오빠 생각만 하고……」"
+
+[[dialogue]]
+speaker = "リーナ"
+original = "「──！\u3000ごめんごめんごめん！\u3000リーナ変なこと言ってたよね、お兄ちゃんはお兄ちゃんだもんね！」"
+translation = "「──! 미안 미안 미안! 리나가 이상한 소릴 했지, 오빠는 오빠인걸!」"
+
+[[dialogue]]
+speaker = "リーナ"
+original = "「……リーナのお兄ちゃんは、ここにいるお兄ちゃんだよね？」"
+translation = "「……리나의 오빠는, 여기 있는 오빠지?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "そ、そうだよ"
+translation = "그, 그래."
+
+[[dialogue]]
+speaker = "リーナ"
+original = "「だよね！\u3000リーナのお兄ちゃんはお兄ちゃんだよね！」"
+translation = "「그치! 리나의 오빠는 오빠야!」"
+
+[[dialogue]]
+speaker = "リーナ"
+original = "「さ、気を取り直してお洋服見に行こっ！\u3000リーナ、お兄ちゃんが好きなお洋服なら何でも着るよっ！」"
+translation = "「자, 기분 전환해서 옷 보러 가자! 리나, 오빠가 좋아하는 옷이라면 뭐든지 입을게!」"
+
+[[dialogue]]
+speaker = "リーナ"
+original = "「お兄ちゃん大好き<emoji=heart04>\u3000だからお兄ちゃんもリーナのこと大好きだよね<emoji=heart04>」"
+translation = "「오빠 너무 좋아<emoji=heart04> 그러니까 오빠도 리나 정말 좋아하지?<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "unk"
+original = "無邪気に腕に抱きついてくるリーナ。"
+translation = "천진난만하게 팔에 매달려오는 리나."
+
+[[dialogue]]
+speaker = "unk"
+original = "だけどその小さな体は少し震えているように感じた。"
+translation = "하지만 그 작은 몸은 조금 떨리고 있는 것처럼 느껴졌다."
+
+[[dialogue]]
+speaker = "unk"
+original = "リーナの言葉を否定すると何かが壊れる気がして、ただ頷くことしかできなかった。"
+translation = "리나의 말을 부정하면 무언가 부서질 것 같은 기분이 들어서, 그저 고개를 끄덕일 수밖에 없었다."
+
+[[dialogue]]
+speaker = "？？？"
+original = "「ここが浅草……風情がありますね。雷門と提灯は写真で目にしたことはありましたが、こうして自分の目で見るのは初めてです」"
+translation = "「여기가 아사쿠사…… 운치가 있군요. 카미나리몬과 제등은 사진으로 본 적이 있었습니다만, 이렇게 직접 눈으로 보는 건 처음입니다.」"
+
+[[dialogue]]
+speaker = "？？？"
+original = "「雷門の堂々とした佇まい、威風溢れる風神・雷神。提灯底部の彫刻も見事な迫力です。ああ、美しい……」"
+translation = "「카미나리몬의 당당한 자태, 위풍당당한 풍신·뇌신. 제등 하부의 조각도 훌륭한 박력입니다. 아아, 아름다워……」"
+
+[[dialogue]]
+speaker = "？？？"
+original = "「そうは思いませんか？\u3000そこの星騎士のお方」"
+translation = "「그렇게 생각하지 않습니까? 거기 있는 성기사분.」"
+
+[[dialogue]]
+speaker = "蛍火"
+original = "「何か御用でしょうか？\u3000私はこの近くに評判の店ができたと聞いてきたのですが……」"
+translation = "「무슨 용건이신지요? 저는 이 근처에 평판 좋은 가게가 생겼다고 들어서 왔습니다만……」"
+
+[[dialogue]]
+speaker = "？？？"
+original = "「それはとてもいいことを聞きました。私も気になるので、ぜひお聞かせ願いたいです」"
+translation = "「그거 참 좋은 소리를 들었군요. 저도 궁금하니 부디 들려주셨으면 합니다.」"
+
+[[dialogue]]
+speaker = "蛍火"
+original = "「そう言いながら、まとっているのは尋常な殺気ではありませんね」"
+translation = "「그렇게 말씀하시면서, 두르고 계신 건 심상치 않은 살기군요.」"
+
+[[dialogue]]
+speaker = "？？？"
+original = "「おや。殺気なんてとんでもありません。あなたを前にして少々昂っているだけですよ。──東雲蛍火さん」"
+translation = "「이런. 살기라니 당치도 않습니다. 당신을 앞에 두고 조금 고양되었을 뿐이에요. ──시노노메 호타루비 씨.」"
+
+[[dialogue]]
+speaker = "蛍火"
+original = "「……私のことをご存じで？」"
+translation = "「……저를 알고 계시는지?」"
+
+[[dialogue]]
+speaker = "？？？"
+original = "「もちろんですとも。昨年度の星徒会役員ともなれば、知らないはずありません」"
+translation = "「물론이고말고요. 작년도 성도회 임원쯤 되면 모를 리 없습니다.」"
+
+[[dialogue]]
+speaker = "ヴァレリー"
+original = "「おっと、申し遅れました。私の名はヴァレリー・スチュアート。あなたのファンなんです」"
+translation = "「앗, 인사가 늦었군요. 제 이름은 발레리 스튜어트. 당신의 팬입니다.」"
+
+[[dialogue]]
+speaker = "蛍火"
+original = "「……？」"
+translation = "「……?」"
+
+[[dialogue]]
+speaker = "ヴァレリー"
+original = "「あれ、おかしなことを言いましたかね？\u3000世界を守るために戦う星騎士……その中でも特に優れた力を持つ星徒会役員はまさしく綺羅星のような存在」"
+translation = "「어라, 이상한 말을 했나요? 세계를 지키기 위해 싸우는 성기사…… 그중에서도 특히 뛰어난 힘을 가진 성도회 임원은 그야말로 샛별 같은 존재.」"
+
+[[dialogue]]
+speaker = "ヴァレリー"
+original = "「憧れる者がいても何も不思議ではないでしょう？」"
+translation = "「동경하는 자가 있어도 전혀 이상할 게 없지 않습니까?」"
+
+[[dialogue]]
+speaker = "蛍火"
+original = "「憧れ……ですか」"
+translation = "「동경…… 말인가요.」"
+
+[[dialogue]]
+speaker = "ヴァレリー"
+original = "「ええ。この胸の高鳴りはそれ以外ありえません」"
+translation = "「네. 이 가슴의 두근거림은 그것 말고는 있을 수 없습니다.」"
+
+[[dialogue]]
+speaker = "ヴァレリー"
+original = "「しかし私は、あなたの美をもっと輝かせたいとも思っているのです」"
+translation = "「하지만 저는 당신의 아름다움을 좀 더 빛나게 하고 싶다고도 생각하고 있습니다.」"
+
+[[dialogue]]
+speaker = "蛍火"
+original = "「輝かせる……？」"
+translation = "「빛나게 한다고요……?」"
+
+[[dialogue]]
+speaker = "ヴァレリー"
+original = "「はい」"
+translation = "「네.」"
+
+[[dialogue]]
+speaker = "ヴァレリー"
+original = "「だって美しいものは、壊れる瞬間が最も輝くのですから……！」"
+translation = "「왜냐하면 아름다운 것은 부서지는 순간이 가장 빛나니까요……!」"
+
+[[dialogue]]
+speaker = "蛍火"
+original = "「！\u3000まさかあなたはコラプサーの──」"
+translation = "「! 설마 당신은 콜랩서의──」"
+
+[[dialogue]]
+speaker = "蛍火"
+original = "「東雲蛍火、参ります──！」"
+translation = "「시노노메 호타루비, 갑니다──!」"
+

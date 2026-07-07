@@ -1,0 +1,365 @@
+[[dialogue]]
+speaker = "マハムート"
+original = "「失礼するわ、会長」"
+translation = "「실례하겠어, 회장」"
+
+[[dialogue]]
+speaker = "unk"
+original = "星徒会室の扉が開いて、マムを先頭に５人の女の子が入ってきた。"
+translation = "성도회실 문이 열리고, 마무를 선두로 다섯 명의 여자아이가 들어왔다."
+
+[[dialogue]]
+speaker = "unk"
+original = "そして開口一番──"
+translation = "그리고 들어오자마자 하는 말이──"
+
+[[dialogue]]
+speaker = "黒ベア子"
+original = "「あなたが、この子のパパくま！？」"
+translation = "「당신이 이 아이의 아빠다곰!?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "クマのフードを被った女の子が、勢いよく俺に詰め寄ってくる。"
+translation = "곰 후드를 쓴 여자아이가 기세 좋게 나에게 다가온다."
+
+[[dialogue]]
+speaker = "unk"
+original = "キミは確か、以前のクマロボ騒ぎの……"
+translation = "너는 분명 예전 곰 로봇 소동 때의……"
+
+[[dialogue]]
+speaker = "unk"
+original = "待って待って、どういうこと！？"
+translation = "잠깐 잠깐, 어떻게 된 거야!?"
+
+[[dialogue]]
+speaker = "黒ベア子"
+original = "「黒ベア子だくま♪」"
+translation = "「흑베아코다곰♪」"
+
+[[dialogue]]
+speaker = "マハムート"
+original = "「会長、私から簡単に事情を説明してあげるわ。畏怖しながら聞きなさい」"
+translation = "「회장, 내가 간단히 사정을 설명해 주지. 경외하며 듣도록 해」"
+
+[[dialogue]]
+speaker = "unk"
+original = "マムから説明を受けて、およその事情は把握できた。しかし──"
+translation = "마무에게 설명을 듣고 대강의 사정은 파악할 수 있었다. 하지만──"
+
+[[dialogue]]
+speaker = "unk"
+original = "さすがに俺じゃないよ"
+translation = "역시 난 아니야"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「それはそうですよね……」"
+translation = "「그건 그렇겠죠……」"
+
+[[dialogue]]
+speaker = "黒ベア子"
+original = "「また違ったくま～！\u3000これで４つ目の世界なのに、全然見つからないくま～！」"
+translation = "「또 틀렸다곰~! 벌써 네 번째 세계인데 전혀 찾을 수가 없다곰~!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "４つも！？"
+translation = "네 군데나!?"
+
+[[dialogue]]
+speaker = "ベア子"
+original = "「『ゲシュペンス島』、『芸術都市アテネス』、『スプリングガーデン』を捜してきて、この『流星市国』は４番目くま」"
+translation = "「『게슈펜스 섬』, 『예술 도시 아테네스』, 『스프링 가든』을 찾아보고, 이 『유성시국』이 네 번째다곰」"
+
+[[dialogue]]
+speaker = "unk"
+original = "それにゲシュペンス島といえばアナが……"
+translation = "게다가 게슈펜스 섬이라고 하면 아나가……"
+
+[[dialogue]]
+speaker = "unk"
+original = "アテネス？\u3000アルテのいた世界？"
+translation = "아테네스? 아르테가 있던 세계?"
+
+[[dialogue]]
+speaker = "ルルゥ"
+original = "「アナさんを知ってる、なの……！？」"
+translation = "「아나 씨를 아는 거야……!?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "キミはアナを知ってるの？"
+translation = "너는 아나를 알아?"
+
+[[dialogue]]
+speaker = "unk"
+original = "アナはうちの副会長だよ"
+translation = "아나는 우리 부회장이야"
+
+[[dialogue]]
+speaker = "ルルゥ"
+original = "「ぁ……ぅ……」"
+translation = "「아…… 우……」"
+
+[[dialogue]]
+speaker = "マハムート"
+original = "「紹介が遅れたわね。この子はルルゥ。今、名前の挙がったゲシュペンス島から来たカーバンクル<ruby>娘<rt>むすめ</rt></ruby>よ」"
+translation = "「소개가 늦었네. 이 아이는 루루. 방금 이름이 나온 게슈펜스 섬에서 온 카벙클 아가씨야」"
+
+[[dialogue]]
+speaker = "マハムート"
+original = "「ルルゥ。彼は緋宮クロト。この学園の星徒会長を務めているわ」"
+translation = "「루루. 그는 히노미야 쿠로토. 이 학원의 성도회장을 맡고 있어」"
+
+[[dialogue]]
+speaker = "ルルゥ"
+original = "「かい、ちょう……会長、さん？」"
+translation = "「회, 장…… 회장님?」"
+
+[[dialogue]]
+speaker = "マハムート"
+original = "「この学園のリーダー、と言えば分かるかしら？\u3000いささか頼りない部分もあるけれどね」"
+translation = "「이 학원의 리더라고 하면 이해하려나? 조금 미덥지 못한 부분도 있긴 하지만 말이야」"
+
+[[dialogue]]
+speaker = "マハムート"
+original = "「そうね、あなた達でいうなら、あの少年のようなポジションかしら？」"
+translation = "「그래, 너희들 식으로 말하자면 그 소년 같은 포지션이려나?」"
+
+[[dialogue]]
+speaker = "ルルゥ"
+original = "「ご主人様……なんとなく、分かったかも、なの……」"
+translation = "「주인님…… 왠지 알 것 같은 기분인 거야……」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「そういえばアナさんも、別の世界に召喚されてしまったことがある、というお話でしたね」"
+translation = "「그러고 보니 아나 씨도 다른 세계에 소환된 적이 있다는 이야기였죠」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「もしかして、それがゲシュペンス島だったのですか？」"
+translation = "「혹시 그게 게슈펜스 섬이었던 건가요?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "アナからはそう聞いてる"
+translation = "아나에게 그렇게 들었어"
+
+[[dialogue]]
+speaker = "ルルゥ"
+original = "「ルルゥは、アナさんのこと、直接は知らない、なの……」"
+translation = "「루루는 아나 씨를 직접은 모르는 거야……」"
+
+[[dialogue]]
+speaker = "ルルゥ"
+original = "「でもオシュネーが、アナさんのこと話してた……すごい弓使いのヒト、なの」"
+translation = "「하지만 오슈네가 아나 씨 이야기를 했어…… 대단한 활잡이였다고 하는 거야」"
+
+[[dialogue]]
+speaker = "ルルゥ"
+original = "「これ、見て欲しい、なの」"
+translation = "「이거 봐줬으면 하는 거야」"
+
+[[dialogue]]
+speaker = "unk"
+original = "アナの弓の装飾に似てる"
+translation = "아나의 활 장식과 닮았어"
+
+[[dialogue]]
+speaker = "unk"
+original = "この装飾……"
+translation = "이 장식……"
+
+[[dialogue]]
+speaker = "ルルゥ"
+original = "「こちらの世界に来る前に、何かの役に立つかもしれないって、オシュネーから弓を預かった、なの……」"
+translation = "「이쪽 세계로 오기 전에 뭔가 도움이 될지도 모른다며 오슈네에게 활을 맡았던 거야……」"
+
+[[dialogue]]
+speaker = "ルルゥ"
+original = "「そうしたら、世界を渡った時に弓と宝石がひとつになって、こんな風になってた、なの」"
+translation = "「그랬더니 세계를 건널 때 활과 보석이 하나가 되어서 이렇게 되어버린 거야」"
+
+[[dialogue]]
+speaker = "ルルゥ"
+original = "「燃え盛る炎の力を感じるの……」"
+translation = "「타오르는 불꽃의 힘이 느껴지는 거야……」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「アナさんの弓とひとつになったことで炎の力が宿った、ということでしょうか？」"
+translation = "「아나 씨의 활과 하나가 됨으로써 불꽃의 힘이 깃들었다는 걸까요?」"
+
+[[dialogue]]
+speaker = "ルルゥ"
+original = "「はい、なの……」"
+translation = "「응, 인 거야……」"
+
+[[dialogue]]
+speaker = "赤ちゃんクマロボ"
+original = "「ばぶー<emoji=heart04>」"
+translation = "「바부~<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "黒ベア子"
+original = "「呑気に話してる場合じゃないくま！\u3000この世界にパパがいないなら、別の世界に捜しに行くしかないくま！」"
+translation = "「한가하게 이야기하고 있을 때가 아니다곰! 이 세계에 아빠가 없다면 다른 세계로 찾으러 갈 수밖에 없다곰!」"
+
+[[dialogue]]
+speaker = "マハムート"
+original = "「次はどこに行くつもりなのかしら？」"
+translation = "「다음은 어디로 갈 생각이지?」"
+
+[[dialogue]]
+speaker = "黒ベア子"
+original = "「抜かりはないくま！\u3000ちゃんと次の世界の案内人には目星を付けてるくま！」"
+translation = "「빈틈없다곰! 제대로 다음 세계의 안내인은 점찍어 뒀다곰!」"
+
+[[dialogue]]
+speaker = "黒ベア子"
+original = "「む～～～～っ！\u3000いでよ、案内人！」"
+translation = "「으~~~~~! 나타나라, 안내인!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "黒ベア子が手をかざすと、そこに異世界に通じるであろう真っ黒な穴が出現する。"
+translation = "흑베아코가 손을 뻗자 그곳에 이세계로 통하는 듯한 새카만 구멍이 출현한다."
+
+[[dialogue]]
+speaker = "unk"
+original = "そして、そこから──"
+translation = "그리고 그곳에서──"
+
+[[dialogue]]
+speaker = "unk"
+original = "誰も現れる様子はなく、代わりにカラフルなキャンディが詰まったビンがひとつ転がり出てくる。"
+translation = "아무도 나타날 기미는 없고, 대신 알록달록한 캔디가 가득 담긴 병 하나가 굴러 나온다."
+
+[[dialogue]]
+speaker = "マハムート"
+original = "「…………これは、どういうことかしら？」"
+translation = "「…………이건 어떻게 된 일이지?」"
+
+[[dialogue]]
+speaker = "黒ベア子"
+original = "「次の世界の住人を、案内役として呼び出したくま。でも、どこかに落としちゃったみたいくま！」"
+translation = "「다음 세계의 주민을 안내역으로 불러냈다곰. 하지만 어디선가 떨어뜨린 모양이다곰!」"
+
+[[dialogue]]
+speaker = "ベア子"
+original = "「どこかに落としちゃった、じゃ済まないくま！？」"
+translation = "「어디선가 떨어뜨렸다는 걸로 끝날 문제가 아니다곰!?」"
+
+[[dialogue]]
+speaker = "黒ベア子"
+original = "「こ、この世界にはちゃんと来てるはずくま！\u3000きっとこの近くにいるはずだから、みんなで捜しに行くくま！」"
+translation = "「이, 이 세계에는 분명히 왔을 거다곰! 분명 이 근처에 있을 테니까 다 같이 찾으러 가는 거다곰!」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「捜すといっても……顔も分からない相手では、捜しようがないのでは……」"
+translation = "「찾는다고 해도…… 얼굴도 모르는 상대를 찾을 방법이 없지 않나요……」"
+
+[[dialogue]]
+speaker = "unk"
+original = "目撃証言を募ってみよう"
+translation = "목격 증언을 모아보자"
+
+[[dialogue]]
+speaker = "unk"
+original = "そうだな……"
+translation = "그렇네……"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「なるほど……よい考えかもしれません。学園の掲示板で呼びかけてみましょうか」"
+translation = "「과연…… 좋은 생각일지도 모르겠네요. 학원 게시판에 수소문해 볼까요」"
+
+[[dialogue]]
+speaker = "書き込み"
+original = "『見慣れない服装をした、おっとりしたお姉さんを見かけました』"
+translation = "『낯선 복장을 한 차분한 느낌의 누님을 봤습니다』"
+
+[[dialogue]]
+speaker = "書き込み"
+original = "『私も見ました。流星学園の校舎前で特大の花火をぶっ放していましたよ』"
+translation = "『저도 봤어요. 유성 학원 교사 앞에서 특대 불꽃놀이를 쏘아 올리고 있었어요』"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「早速、それらしい人の目撃情報が集まりましたね。ですが……」"
+translation = "「벌써 그럴듯한 사람의 목격 정보가 모였네요. 하지만……」"
+
+[[dialogue]]
+speaker = "マハムート"
+original = "「校舎前で特大の花火とは、これはお仕置きが必要ね」"
+translation = "「교사 앞에서 특대 불꽃놀이라니, 이건 따끔한 맛을 보여줘야겠네」"
+
+[[dialogue]]
+speaker = "ルルゥ"
+original = "「突然、違う世界に呼び出されて、混乱してるだけかも、なの……大目にみてあげて欲しいかも、なの……」"
+translation = "「갑자기 다른 세계에 불려 와서 혼란스러워하는 것뿐일지도 모르는 거야…… 너그럽게 봐줬으면 하는 거야……」"
+
+[[dialogue]]
+speaker = "マハムート"
+original = "「ふむ……まあ被告人の<ruby>陳述<rt>ちんじゅつ</rt></ruby>くらいは聞いてあげようじゃないの」"
+translation = "「흠…… 뭐 피고인의 진술 정도는 들어주도록 하지」"
+
+[[dialogue]]
+speaker = "ルルゥ"
+original = "「何を言ってるのかはわからないけど、許してほしいのっ！？」"
+translation = "「무슨 소린지 모르겠지만 용서해 줬으면 하는 거야!?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "とにかく現場に行ってみよう"
+translation = "어쨌든 현장에 가보자"
+
+[[dialogue]]
+speaker = "マハムート"
+original = "「待ちなさい」"
+translation = "「기다려」"
+
+[[dialogue]]
+speaker = "マハムート"
+original = "「ルルゥがこの格好で学園内を歩き回れば嫌でも注目を浴びるわ。ヒトを恐れている彼女にそれを強いるのは酷というものよ」"
+translation = "「루루가 이 차림으로 학원 안을 돌아다니면 싫어도 주목을 받게 돼. 인간을 두려워하는 그녀에게 그걸 강요하는 건 가혹한 일이야」"
+
+[[dialogue]]
+speaker = "ルルゥ"
+original = "「マムさん……！」"
+translation = "「마무 씨……!」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「ではルルゥさんには、ベア子さんたちと一緒にここで待っていてもらいましょうか？」"
+translation = "「그럼 루루 씨는 베아코 씨 일행과 함께 여기서 기다리게 할까요?」"
+
+[[dialogue]]
+speaker = "マハムート"
+original = "「それよりもいい方法があるわ。フィオナ、流星学園附属校の制服はすぐに用意出来るでしょう？」"
+translation = "「그보다 더 좋은 방법이 있어. 피오나, 유성 학원 부속교의 교복은 바로 준비할 수 있지?」"
+
+[[dialogue]]
+speaker = "マハムート"
+original = "「あなたはそれを着て一緒についてくるのよ、いいわね」"
+translation = "「너는 그걸 입고 같이 따라오는 거야, 알겠지?」"
+
+[[dialogue]]
+speaker = "ルルゥ"
+original = "「ルルゥもそうしたい、なの。マムさんの側にいるのが、一番安心できる、なの……」"
+translation = "「루루도 그렇게 하고 싶은 거야. 마무 씨 곁에 있는 게 제일 안심되는 거야……」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「わかりました。ではすぐに用意しますね」"
+translation = "「알겠습니다. 그럼 바로 준비할게요」"
+
+[[dialogue]]
+speaker = "ルルゥ"
+original = "「お願いします、なのっ」"
+translation = "「부탁드려요, 인 거야」"
+

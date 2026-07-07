@@ -1,0 +1,435 @@
+[[dialogue]]
+speaker = "unk"
+original = "果たして、ディーラックとの戦闘は始まった。"
+translation = "과연 디럭쿠와의 전투는 시작되었다."
+
+[[dialogue]]
+speaker = "unk"
+original = "しかし――"
+translation = "하지만――"
+
+[[dialogue]]
+speaker = "ディーラック"
+original = "「ばあああぁぁぁ～～～っ♪」"
+translation = "「바아아아아아~~~♪」"
+
+[[dialogue]]
+speaker = "サチ"
+original = "「くっ……！？」"
+translation = "「큭……!?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "強い……！"
+translation = "강하다……!"
+
+[[dialogue]]
+speaker = "ディーラック"
+original = "「ひひっ♪\u3000当たり前サ！\u3000この星にロストアイテムが生まれた時から、貯まりに貯まった負のエネルギーの集合体がこのボク！」"
+translation = "「히힛♪ 당연하지! 이 별에 로스트 아이템이 태어났을 때부터 쌓이고 쌓인 부의 에너지의 집합체가 바로 나!」"
+
+[[dialogue]]
+speaker = "ディーラック"
+original = "「根本的なエネルギー総量において、キミたちが束になろうとも、敵いはしないよ！」"
+translation = "「근본적인 에너지 총량에 있어서 너희들이 떼거지로 덤벼도 상대가 안 된다구!」"
+
+[[dialogue]]
+speaker = "ディーラック"
+original = "「サーシャちゃんも、さっさと空間の凍結を解いた方がいいんじゃない？\u3000そっちに力を使っていたら、ボクには勝てないよ？」"
+translation = "「사샤짱도 얼른 공간 동결을 푸는 게 좋지 않아? 그쪽에 힘을 쓰고 있으면 나한테는 이길 수 없다구?」"
+
+[[dialogue]]
+speaker = "サーシャ（覚醒）"
+original = "「ええ。私１人ならそうね。でも――」"
+translation = "「그래. 나 혼자라면 그렇겠지. 하지만――」"
+
+[[dialogue]]
+speaker = "ディーラック"
+original = "「あん？」"
+translation = "「앙?」"
+
+[[dialogue]]
+speaker = "プリムラ"
+original = "「おい、サチ」"
+translation = "「어이, 사치」"
+
+[[dialogue]]
+speaker = "サチ"
+original = "「プリムラ、どうしたの？」"
+translation = "「프리뮬라, 왜 그래?」"
+
+[[dialogue]]
+speaker = "プリムラ"
+original = "「我に、もう１度変身する許可を寄こせ」"
+translation = "「나에게 다시 한번 변신할 허가를 내려라」"
+
+[[dialogue]]
+speaker = "サチ"
+original = "「えっ？\u3000もう１度って……？」"
+translation = "「엣? 다시 한번이라니……?」"
+
+[[dialogue]]
+speaker = "プリムラ"
+original = "「思い出すのじゃ。お前はもう、２度見ているじゃろう」"
+translation = "「기억해 내거라. 너는 이미 두 번이나 보지 않았느냐」"
+
+[[dialogue]]
+speaker = "サチ"
+original = "「……！\u3000大丈夫なの？」"
+translation = "「……! 괜찮겠어?」"
+
+[[dialogue]]
+speaker = "プリムラ"
+original = "「無論じゃ。信用しろ！」"
+translation = "「물론이니라. 나를 믿어라!」"
+
+[[dialogue]]
+speaker = "サチ"
+original = "「わかった。――プリムラ！」"
+translation = "「알았어. ――프리뮬라!」"
+
+[[dialogue]]
+speaker = "サチ"
+original = "「変身を許可する！\u3000私たちに力を貸して！」"
+translation = "「변신을 허가할게! 우리에게 힘을 빌려줘!」"
+
+[[dialogue]]
+speaker = "プリムラ"
+original = "「よかろう。行くぞ――」"
+translation = "「좋도다. 가자――」"
+
+[[dialogue]]
+speaker = "プリムラ"
+original = "「解放ッ！！！」"
+translation = "「해방!!」"
+
+[[dialogue]]
+speaker = "ディーラック"
+original = "「なんだ……！？」"
+translation = "「뭐지……!?」"
+
+[[dialogue]]
+speaker = "プリムラ（覚醒）"
+original = "「待たせたな、ディーラック」"
+translation = "「기다리게 했구나, 디럭쿠.」"
+
+[[dialogue]]
+speaker = "プリムラ（覚醒）"
+original = "「我の第２形態――名づけて『デストロイフォーム』じゃ」"
+translation = "「나의 제2형태―― 이름하여 『디스트로이 폼』이니라.」"
+
+[[dialogue]]
+speaker = "ディーラック"
+original = "「その姿……『解放』のロストアイテムを使ってないのに……！」"
+translation = "「그 모습…… 『해방』의 로스트 아이템을 사용하지 않았는데도……!」"
+
+[[dialogue]]
+speaker = "プリムラ（覚醒）"
+original = "「ああ、じゃから、もう変身できないとさっきまで思い込んでいた」"
+translation = "「아아, 그래서 조금 전까지는 이제 변신할 수 없다고 지레짐작하고 있었느니라.」"
+
+[[dialogue]]
+speaker = "プリムラ（覚醒）"
+original = "「しかしよく考えれば、要するに封印の一部が解ければいいんじゃろう？」"
+translation = "「허나 잘 생각해보면, 요컨대 봉인의 일부가 풀리면 되는 것 아니겠느냐?」"
+
+[[dialogue]]
+speaker = "プリムラ（覚醒）"
+original = "「だったらサチに言って、我の力を解放する許可をもらえばよい」"
+translation = "「그렇다면 사치에게 말해, 나의 힘을 해방할 허가를 받으면 될 일이지.」"
+
+[[dialogue]]
+speaker = "ディーラック"
+original = "「……！」"
+translation = "「……!」"
+
+[[dialogue]]
+speaker = "プリムラ（覚醒）"
+original = "「しくじったな、ディーラック。そもそも我の力を暴走させようと企まなければ、こんなことを仕出かそうという発想も生まれなかったというのに」"
+translation = "「실책이구나, 디럭쿠. 애초에 나의 힘을 폭주시키려 꾀하지 않았더라면, 이런 일을 저지를 발상조차 태어나지 않았을 터인데.」"
+
+[[dialogue]]
+speaker = "プリムラ（覚醒）"
+original = "「さあ、覚悟しろ！\u3000元は貴様が作った終末兵器じゃ。それが本気を出せばどれ程の脅威か、わかっていよう？」"
+translation = "「자, 각오하거라! 원래는 네놈이 만든 종말병기이니라. 그것이 본 실력을 내면 어느 정도의 위협일지, 잘 알고 있겠지?」"
+
+[[dialogue]]
+speaker = "プリムラ（覚醒）"
+original = "「さあ、行くぞ、サチ！」"
+translation = "「자, 가자, 사치!」"
+
+[[dialogue]]
+speaker = "サチ"
+original = "「うん！\u3000人事天命……ここからは――」"
+translation = "「응! 인사천명…… 여기서부터는――」"
+
+[[dialogue]]
+speaker = "プリムラ（覚醒）"
+original = "「ハズレなしじゃ！！！」"
+translation = "「꽝은 없느니라!!!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "そう言うと同時に、プリムラは巨大なキャノン砲をぶっ放すのだった。"
+translation = "그렇게 말함과 동시에, 프리뮬라는 거대한 캐논포를 발사했다."
+
+[[dialogue]]
+speaker = "unk"
+original = "それから、強化変身を遂げたプリムラが戦力に加わったことで、戦局はこちらに傾き始めていた。"
+translation = "그 뒤로, 강화 변신을 이룬 프리뮬라가 전력에 가세함으로써, 전황은 이쪽으로 기울기 시작하고 있었다."
+
+[[dialogue]]
+speaker = "プリムラ（覚醒）"
+original = "「フハハハハハハ！\u3000そらそらそらそらぁ！\u3000さっさと降参するのじゃあぁぁぁっ！」"
+translation = "「후하하하하하하! 자 자 자 자아! 어서 항복하거라아아앗!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ノンストップで凄まじい火力の砲撃をディーラックに浴びせ続けるプリムラ。"
+translation = "논스톱으로 어마어마한 화력의 포격을 디럭쿠에게 계속 퍼붓는 프리뮬라."
+
+[[dialogue]]
+speaker = "ディーラック"
+original = "「ちいぃっ！\u3000これだけの威力の攻撃を連発して、何故エネルギー切れしない！？」"
+translation = "「치익! 이 정도 위력의 공격을 연발하면서, 왜 에너지가 떨어지지 않는 거지!?」"
+
+[[dialogue]]
+speaker = "ディーラック"
+original = "「いや待てよ！？\u3000それどころか、ボクのエネルギーが消耗している！？\u3000これは……！」"
+translation = "「아니 잠깐만!? 그것보다 내 에너지가 소모되고 있어!? 이것은……!」"
+
+[[dialogue]]
+speaker = "プリムラ（覚醒）"
+original = "「気づくのが遅いわ！\u3000このフォームは遠距離であっても、ターゲットロックした相手のエネルギーを吸収することができるのじゃ！」"
+translation = "「눈치가 느리구나! 이 폼은 원거리라 할지라도, 타겟 록한 상대의 에너지를 흡수할 수 있느니라!」"
+
+[[dialogue]]
+speaker = "プリムラ（覚醒）"
+original = "「そして、それを砲撃のエネルギーに変換する！\u3000相手が倒れるまで終わらない攻撃――」"
+translation = "「그리고 그것을 포격의 에너지로 변환하지! 상대가 쓰러질 때까지 끝나지 않는 공격――」"
+
+[[dialogue]]
+speaker = "プリムラ（覚醒）"
+original = "「つまりは、無限ループのデスコンボ成立というわけじゃなあぁぁぁ！\u3000フハハハハハハ！！！」"
+translation = "「즉, 무한 루프의 데스 콤보 성립이라는 것이니라아아아! 후하하하하하하!!!」"
+
+[[dialogue]]
+speaker = "ディーラック"
+original = "「何それ知らん……怖っ！」"
+translation = "「그게 뭐야 몰라…… 무서워!」"
+
+[[dialogue]]
+speaker = "プリムラ（覚醒）"
+original = "「お前が作ったんじゃろがあぁぁぁっ！！！」"
+translation = "「네가 만들었지 않느냐아아앗!!!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "と、ディーラックの動きが一瞬、凍ったように停止する。"
+translation = "그때, 디럭쿠의 움직임이 찰나의 순간, 얼어붙은 것처럼 정지한다."
+
+[[dialogue]]
+speaker = "ディーラック"
+original = "「なにっ……！？」"
+translation = "「뭐라고……!?」"
+
+[[dialogue]]
+speaker = "サーシャ（覚醒）"
+original = "「捕らえたわ」"
+translation = "「붙잡았어.」"
+
+[[dialogue]]
+speaker = "ディーラック"
+original = "「ピンポイントの空間凍結！？\u3000くっ……これくらい力づくでぇぇぇ！」"
+translation = "「핀포인트 공간 동결!? 큭…… 이 정도는 힘으로오오!」"
+
+[[dialogue]]
+speaker = "サーシャ（覚醒）"
+original = "「ええ。だけど、一瞬でも止められれば――プリムラちゃん！」"
+translation = "「그래. 하지만 한순간이라도 멈출 수 있다면―― 프리뮬라짱!」"
+
+[[dialogue]]
+speaker = "プリムラ（覚醒）"
+original = "「任せるのじゃ！\u3000エネルギー最大出力！！」"
+translation = "「맡기거라! 에너지 최대 출력!!」"
+
+[[dialogue]]
+speaker = "プリムラ（覚醒）"
+original = "「くらえっ！！！\u3000シャイニング・ブレイズキャノン！！」"
+translation = "「먹어라!!! 샤이닝 블레이즈 캐논!!」"
+
+[[dialogue]]
+speaker = "ディーラック"
+original = "「避けられないっ！？\u3000このっ……舐めるなあああぁぁぁーーーーーーーーーっ！！！」"
+translation = "「피할 수 없어!? 이잇…… 우습게 보지 마아아아아아아아――――――――앗!!!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ディーラックがプリムラの極大砲撃に対して大きく口を開き、なんと――"
+translation = "디럭쿠가 프리뮬라의 극대 포격을 향해 크게 입을 벌리고, 무려――"
+
+[[dialogue]]
+speaker = "ディーラック"
+original = "「これくらいのエネルギー、全部食らいつくしてやるのサァァァーーーーーーーーーっ！！！」"
+translation = "「이 정도 에너지, 전부 다 먹어치워 주겠다구우우우――――――――앗!!!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "真正面から砲撃を飲み込み始めた。"
+translation = "정면에서 포격을 삼키기 시작했다."
+
+[[dialogue]]
+speaker = "プリムラ（覚醒）"
+original = "「はあああぁぁぁーーーーーーーーーっ！！！」"
+translation = "「하아아아아아아――――――――앗!!!」"
+
+[[dialogue]]
+speaker = "ディーラック"
+original = "「うおおおぉぉぉーーーーーーーーーっ！！！」"
+translation = "「우오오오오오오――――――――앗!!!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "そんなエネルギーの綱引きとも言えるような攻防が続く中。"
+translation = "그런 에너지의 줄다리기라고도 할 수 있는 공방이 이어지는 가운데."
+
+[[dialogue]]
+speaker = "unk"
+original = "プリムラの両肩に、後ろから手を添える人物が１人。"
+translation = "프리뮬라의 양어깨에 뒤에서 손을 얹는 인물이 한 명."
+
+[[dialogue]]
+speaker = "シズハ"
+original = "「――ディーちゃん」"
+translation = "「――디짱.」"
+
+[[dialogue]]
+speaker = "ディーラック"
+original = "「……！\u3000シズハちゃん」"
+translation = "「……! 시즈하짱.」"
+
+[[dialogue]]
+speaker = "シズハ"
+original = "「ねぇ、ディーちゃんはどうして、私の前に現れたの？」"
+translation = "「저기, 디짱은 어째서 내 앞에 나타난 거야?」"
+
+[[dialogue]]
+speaker = "ディーラック"
+original = "「…………」"
+translation = "「…………」"
+
+[[dialogue]]
+speaker = "ディーラック"
+original = "「……聖杯は、他のロストアイテムよりもマイナスエネルギーが生まれやすい。それが主食であるボクには、キミの存在はうってつけだった！」"
+translation = "「……성배는 다른 로스트 아이템보다 마이너스 에너지가 생기기 쉬워. 그게 주식인 나에게는, 너의 존재가 안성맞춤이었어!」"
+
+[[dialogue]]
+speaker = "シズハ"
+original = "「聖杯ちゃんは……ディーちゃんが私にくれたの？」"
+translation = "「성배짱은…… 디짱이 나한테 준 거야?」"
+
+[[dialogue]]
+speaker = "ディーラック"
+original = "「ああ、そうサ！\u3000恨むなら、好きにするんだネ！」"
+translation = "「아아, 그래! 원망하려면 마음대로 하라구!」"
+
+[[dialogue]]
+speaker = "シズハ"
+original = "「ありがとね」"
+translation = "「고마워.」"
+
+[[dialogue]]
+speaker = "ディーラック"
+original = "「……！？」"
+translation = "「……!?」"
+
+[[dialogue]]
+speaker = "シズハ"
+original = "「私はそのおかげで、今こうして生きていられる。死んじゃったお姉ちゃんの願いを叶えることができる。それとね――」"
+translation = "「나는 그 덕분에 지금 이렇게 살아있을 수 있어. 죽어버린 언니의 소원을 이뤄줄 수 있어. 그리고 말이야――」"
+
+[[dialogue]]
+speaker = "シズハ"
+original = "「この２ヶ月、ディーちゃんと居て楽しかったよ。……ディーちゃんは、どうだった？」"
+translation = "「지난 2개월간 디짱과 함께 있어서 즐거웠어. ……디짱은 어땠어?」"
+
+[[dialogue]]
+speaker = "ディーラック"
+original = "「別に、何も思わなかったサ！」"
+translation = "「별로, 아무 생각도 안 했다구!」"
+
+[[dialogue]]
+speaker = "シズハ"
+original = "「ねぇ、ディーちゃん……！」"
+translation = "「저기, 디짱……!」"
+
+[[dialogue]]
+speaker = "シズハ"
+original = "「悪さはもう止めて、これからも一緒に仲良くしない？」"
+translation = "「나쁜 짓은 이제 그만두고, 앞으로도 같이 사이좋게 지내지 않을래?」"
+
+[[dialogue]]
+speaker = "ディーラック"
+original = "「…………キミに願いがあるように、ボクにも――」"
+translation = "「…………너에게 소원이 있듯이, 나에게도――」"
+
+[[dialogue]]
+speaker = "ディーラック"
+original = "「叶えたい目的がある！\u3000だから、それはできないネ！！」"
+translation = "「이루고 싶은 목적이 있어! 그러니까 그건 안 된다구!!」"
+
+[[dialogue]]
+speaker = "シズハ"
+original = "「そう……」"
+translation = "「그렇구나……」"
+
+[[dialogue]]
+speaker = "シズハ"
+original = "「なら――私はディーちゃんを止める。サーシャさんが、私にしてくれたように！」"
+translation = "「그렇다면―― 나는 디짱을 막겠어. 사샤 씨가 나에게 해준 것처럼!」"
+
+[[dialogue]]
+speaker = "シズハ"
+original = "「お願い。聖杯ちゃん……」"
+translation = "「부탁해, 성배짱……」"
+
+[[dialogue]]
+speaker = "シズハ"
+original = "「ディーちゃんを止める力を――私に頂戴！！！」"
+translation = "「디짱을 멈출 힘을―― 나에게 줘!!!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "シズハがそう言った瞬間、彼女の体が眩しい輝きを帯びて。"
+translation = "시즈하가 그렇게 말한 순간, 그녀의 몸이 눈부신 빛을 띠기 시작했다."
+
+[[dialogue]]
+speaker = "シズハ"
+original = "「行っけぇぇぇーーーーーーーーーっ！！！」"
+translation = "「가아아아아아아――――――――앗!!!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "その輝きがプリムラのキャノン砲へと伝わり、砲撃の閃光が何倍にも膨れ上がった。"
+translation = "그 빛이 프리뮬라의 캐논포로 전달되어, 포격의 섬광이 몇 배로 부풀어 올랐다."
+
+[[dialogue]]
+speaker = "ディーラック"
+original = "「ぐっ……うおおおおおおぉぉぉーーーーーーーーーっ！！？」"
+translation = "「윽…… 우오오오오오오오오오――――――――앗!!?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "そうして、アリーナが白い光に包まれる中で――"
+translation = "그리하여 아레나가 하얀 빛에 휩싸이는 가운데――"
+
+[[dialogue]]
+speaker = "ディーラック"
+original = "「――またね、シズハちゃん」"
+translation = "「――또 봐, 시즈하짱.」"
+
+[[dialogue]]
+speaker = "unk"
+original = "そんな言葉が、小さく聞こえたのだった。"
+translation = "그런 말이 작게 들려왔다."
+

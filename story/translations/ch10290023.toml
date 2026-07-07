@@ -1,0 +1,210 @@
+[[dialogue]]
+speaker = "unk"
+original = "第３話,わからせリバーシ,P"
+translation = "제3화, 굴복 리버시, P"
+
+[[dialogue]]
+speaker = "シャルレーヌ"
+original = "「ねえ会長さん。せっかくの休日ですし、何かゲームでもしません？」"
+translation = "「저기 회장군. 기왕 쉬는 날인데 게임이라도 하지 않을래요?」"
+
+[[dialogue]]
+speaker = "シャルレーヌ"
+original = "「私、人間界に来てからチェスを覚えたんです。けっこう自信があるんですよ」"
+translation = "「저, 인간계에 오고 나서 체스를 배웠거든요. 꽤 자신 있답니다」"
+
+[[dialogue]]
+speaker = "シャルレーヌ"
+original = "「ちょうどお部屋に遊戯盤みたいなものがありますし……ふぅん、あれは将棋っていうの？\u3000盤面は似てるけど、違うゲームなのね」"
+translation = "「마침 방에 유희반 같은 게 있기도 하고…… 흐음, 저건 장기라고 하는 거야? 판 모양은 비슷하지만 다른 게임이네」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ルールブックをどうぞ"
+translation = "룰북을 여기."
+
+[[dialogue]]
+speaker = "シャルレーヌ"
+original = "「ゲーム性はチェスと似ているけれど……ちょっとルールが気に食わないわね」"
+translation = "「게임성은 체스와 비슷하지만…… 조금 규칙이 마음에 안 드네」"
+
+[[dialogue]]
+speaker = "シャルレーヌ"
+original = "「取った相手の駒は、自分の駒として使える……奥深さは出るみたいだけど、手下が寝返るのはちょっと気分が良くないかも」"
+translation = "「잡은 상대의 말은 자신의 말로 쓸 수 있다니…… 깊이는 있어 보이지만, 부하가 배신하는 건 좀 기분이 좋지 않을지도」"
+
+[[dialogue]]
+speaker = "unk"
+original = "だったらこのゲームはどう？"
+translation = "그럼 이 게임은 어때?"
+
+[[dialogue]]
+speaker = "シャルレーヌ"
+original = "「リバーシ……？\u3000黒石と白石に別れて交互に打つ。相手の駒を挟むと裏返って自分の色になる。最終的に数が多い方が勝ち……？」"
+translation = "「리버시……? 흑돌과 백돌로 나뉘어 교대로 둔다. 상대의 말을 끼우면 뒤집혀서 자신의 색이 된다. 최종적으로 수가 많은 쪽이 승리……?」"
+
+[[dialogue]]
+speaker = "シャルレーヌ"
+original = "「シンプルですが面白そうですね。魔界にも似たようなボードゲームがありますから、ハンデはいらないですよ」"
+translation = "「심플하지만 재밌어 보이네요. 마계에도 비슷한 보드게임이 있으니까, 핸디캡은 필요 없어요」"
+
+[[dialogue]]
+speaker = "シャルレーヌ"
+original = "「あっ、どうせなら罰ゲームもします？\u3000……そうですね。負けた方が１枚ずつ服を脱ぐ、なんてのはどうでしょうか♪」"
+translation = "「앗, 기왕 하는 거 벌칙 게임도 할까요? ……그러게요. 진 사람이 한 장씩 옷을 벗는 건 어떨까요♪」"
+
+[[dialogue]]
+speaker = "unk"
+original = "シャルレーヌはこのゲーム初めてなんだから"
+translation = "샤를렌은 이 게임이 처음이니까."
+
+[[dialogue]]
+speaker = "unk"
+original = "そ、それはまずいよ！"
+translation = "그, 그건 곤란해!"
+
+[[dialogue]]
+speaker = "シャルレーヌ"
+original = "「くふふ<emoji=heart04>\u3000もしかして私が負ける心配してくれてるんですか～？」"
+translation = "「쿠후후<emoji=heart04> 혹시 제가 질까 봐 걱정해 주시는 건가요~?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "初心者じゃ経験者には勝てないぞ！"
+translation = "초보자는 경험자를 이길 수 없다고!"
+
+[[dialogue]]
+speaker = "unk"
+original = "どんなゲームにも定石があるんだよ"
+translation = "어떤 게임이든 정석이 있는 법이야."
+
+[[dialogue]]
+speaker = "シャルレーヌ"
+original = "「まあ……♪\u3000会長さんってやっぱり紳士ですよね。素敵です<emoji=heart04>」"
+translation = "「어머……♪ 회장군은 역시 신사적이네요. 멋져요<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "シャルレーヌ"
+original = "「でもゲームは強い人とやらないとコツを覚えられないでしょうし……」"
+translation = "「하지만 게임은 강한 사람이랑 해야 요령을 배울 수 있을 테고……」"
+
+[[dialogue]]
+speaker = "シャルレーヌ"
+original = "「賭けるものがあった方が真剣になれます。会長さんの御心配は嬉しいですが、ぜひ挑ませてください♪」"
+translation = "「거는 게 있어야 진지해질 수 있어요. 회장군의 걱정은 기쁘지만, 부디 도전하게 해 주세요♪」"
+
+[[dialogue]]
+speaker = "シャルレーヌ"
+original = "「あ……言っておきますけど、手加減はしないでくださいね？\u3000私、そういうの一番嫌いなんで」"
+translation = "「아…… 미리 말해두겠는데, 봐주지는 마세요? 저, 그런 거 제일 싫어하거든요」"
+
+[[dialogue]]
+speaker = "シャルレーヌ"
+original = "「大丈夫です。もし裸にされちゃっても、会長さんに恨み言をいったりしませんから♪\u3000全部私の自己責任です」"
+translation = "「괜찮아요. 설령 발가벗겨진다고 해도, 회장군에게 원망하는 말을 하거나 하진 않을 테니까요♪ 전부 제 자기책임이에요」"
+
+[[dialogue]]
+speaker = "シャルレーヌ"
+original = "「……くふ<emoji=heart04>\u3000さっきから私が負ける心配ばっかり……こういう時くらい、日頃のお返しをすればいいのに」"
+translation = "「……쿠후<emoji=heart04> 아까부터 제가 질 걱정만 하고…… 이럴 때만큼은 평소의 보답을 하면 좋을 텐데」"
+
+[[dialogue]]
+speaker = "シャルレーヌ"
+original = "「やってみたくないですか～？\u3000クソ生意気な後輩をボッコボコに負かせて、恥ずかしい思いまでさせられるチャンスですよ～？」"
+translation = "「해보고 싶지 않으세요~? 건방진 후배를 처참하게 패배시켜서, 부끄러운 꼴까지 당하게 할 찬스라구요~?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "……後悔しても知らないぞ？"
+translation = "……후회해도 모른다?"
+
+[[dialogue]]
+speaker = "シャルレーヌ"
+original = "「は～い<emoji=heart04>\u3000それでは……ゲームスタートですっ♪」"
+translation = "「네~에<emoji=heart04> 그러면…… 게임 스타트입니다♪」"
+
+[[dialogue]]
+speaker = "unk"
+original = "──数時間後。"
+translation = "──몇 시간 후."
+
+[[dialogue]]
+speaker = "シャルレーヌ"
+original = "「は～い、シャルレーヌの勝ちぃ～<emoji=heart04>\u3000会長さん、ほ～ら、シャツを脱げっ<emoji=heart04>\u3000脱～げっ<emoji=heart04>」"
+translation = "「네~에, 샤를렌의 승리~<emoji=heart04> 회장군, 자아~ 셔츠 벗어라~<emoji=heart04> 벗어~라~<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "シャルレーヌ"
+original = "「キャハハハっ<emoji=heart04>\u3000おパンツだけになっちゃいましたね～。何だかプルプル震えて寒そう～♪」"
+translation = "「캬하하하<emoji=heart04> 팬티 한 장만 남게 되었네요~. 왠지 부들부들 떨면서 추워 보여~♪」"
+
+[[dialogue]]
+speaker = "unk"
+original = "リバーシには自信があったのに……！"
+translation = "리버시에는 자신 있었는데……!"
+
+[[dialogue]]
+speaker = "シャルレーヌ"
+original = "「自信があったって～……くふふ<emoji=heart04>\u3000今までざこ狩りばっかりしてたんじゃないんですかあ？\u3000井の中の<ruby>蛙<rt>かわず</rt></ruby>～<emoji=heart04>\u3000ざこガエル～<emoji=heart04>」"
+translation = "「자신 있었다니~…… 쿠후후<emoji=heart04> 지금까지 양민 학살만 해온 거 아니에요~? 우물 안 개구리~<emoji=heart04> 허접 개구리~<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "シャルレーヌ"
+original = "「あ～あ。せめて靴下くらいは脱がせて欲しかったな～？\u3000会長さんばっかり脱いでつまんな～い<emoji=heart04>」"
+translation = "「아~아. 적어도 양말 정도는 벗겨주길 바랐는데~? 회장군만 벗어서 재미없어~<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "unk"
+original = "次こそは勝つ！\u3000わからせてやる！"
+translation = "다음엔 꼭 이긴다! 참교육해주겠어!"
+
+[[dialogue]]
+speaker = "シャルレーヌ"
+original = "「は～い、じゃあラストゲームですね～」"
+translation = "「네~에, 그럼 라스트 게임이네요~」"
+
+[[dialogue]]
+speaker = "シャルレーヌ"
+original = "「ぱち……ぱち……ぱち……♪\u3000くふふ、やっぱりそこに打ちましたね？\u3000かかったなアホが<emoji=heart04>\u3000食らえっ<emoji=heart04>」"
+translation = "「탁…… 탁…… 탁……♪ 쿠후후, 역시 거기에 뒀네요? 걸려들었구나 바보가<emoji=heart04> 먹어라!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "──うわああああああああああああ！！！"
+translation = "──우와아아아아아아아아아아아아!!!"
+
+[[dialogue]]
+speaker = "シャルレーヌ"
+original = "「くすくす。リバーシのルールの中に、すっごく好みの一文があったんですよね～」"
+translation = "「쿠스쿠스. 리버시 규칙 중에 아주 마음에 드는 문장이 하나 있었거든요~」"
+
+[[dialogue]]
+speaker = "シャルレーヌ"
+original = "「どこにも石を打てない時はパスできる。でも、打てる場所がある時は『必ず打たないといけない』<emoji=heart04>」"
+translation = "「어디에도 돌을 둘 수 없을 때는 패스할 수 있다. 하지만, 둘 수 있는 곳이 있을 때는 『반드시 둬야만 한다』<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "シャルレーヌ"
+original = "「相手をコントロールしてる感じがたまらないです♪\u3000ほおら、倍返しされるのわかってるけど～、そこに石を置け<emoji=heart04>\u3000ざ～こっ<emoji=heart04>」"
+translation = "「상대를 컨트롤하는 느낌이 참을 수 없네요♪ 자아, 배로 되돌려 받을 걸 알면서도~ 거기에 돌을 놔라<emoji=heart04> 허~접<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "シャルレーヌ"
+original = "「は～い、私の勝ちで～す<emoji=heart04>\u3000でもおパンツだけは勘弁してあげましょうか♪」"
+translation = "「네~에, 제가 이겼습니다~<emoji=heart04> 하지만 팬티 한 장만은 봐드릴게요♪」"
+
+[[dialogue]]
+speaker = "シャルレーヌ"
+original = "「会長さん、代わりに正座して？\u3000それで『シャルレーヌ様には勝てません』って紙に書いて、紐を付けて首にぶら下げて～<emoji=heart04>」"
+translation = "「회장군, 대신 무릎 꿇고 앉을래? 그러고서 『샤를렌 님께는 이길 수 없습니다』라고 종이에 써서, 끈을 달아 목에 걸어줘~<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "シャルレーヌ"
+original = "「キャハハハハっ<emoji=heart04>\u3000とってもお似合いですよ～、可愛すぎます、会長さんっ<emoji=heart04>」"
+translation = "「캬하하하하<emoji=heart04> 정말 잘 어울려요~, 너무 귀여워요, 회장군!<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "unk"
+original = "結局その後、服を着てからも、俺はシャルレーヌに勝つことはできず、徹底的にわからせられてしまうのだった……"
+translation = "결국 그 후, 옷을 입고 나서도 나는 샤를렌에게 이길 수 없었고, 철저하게 참교육당하고 마는 것이었다……"
+

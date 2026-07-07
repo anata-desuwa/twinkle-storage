@@ -1,0 +1,600 @@
+[[dialogue]]
+speaker = "unk"
+original = "第１話,冥森林ネメシス,B"
+translation = "제1화, 명삼림 네메시스, B"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「冥森林──」"
+translation = "「명삼림──」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「ネメシス──？」"
+translation = "「네메시스──?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "九浄ヴィーナスの居場所を教えて欲しい──"
+translation = "쿠죠 비너스의 위치를 알려달라──"
+
+[[dialogue]]
+speaker = "unk"
+original = "そう伝えた俺たちに返ってきたのは、そんな意味ありげな『森』の名前だった。"
+translation = "그렇게 전한 우리에게 돌아온 것은, 그런 의미심장한 『숲』의 이름이었다."
+
+[[dialogue]]
+speaker = "トリシャ"
+original = "「いかにも……それは口にだすのも恐ろしい、忌まわしき因縁の地……」"
+translation = "「그렇고말고…… 그것은 입에 담는 것조차 두려운, 꺼림칙한 인연의 땅……」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "（おどろおどろしい名前は気になりますが……ともあれ森、ですか）"
+translation = "（으스스한 이름은 신경 쓰입니다만…… 어쨌든 숲, 이군요）"
+
+[[dialogue]]
+speaker = "クロト"
+original = "（ああ……俺たちはまだ『森』を探しているとは伝えていない。それを言い当てられた……）"
+translation = "（아아…… 우리는 아직 『숲』을 찾고 있다고는 전하지 않았다. 그것을 맞혔다니……）"
+
+[[dialogue]]
+speaker = "unk"
+original = "トリシャさんは凄腕の占星術師──というだけでない。"
+translation = "트리샤 씨는 굉장한 실력의 점성술사──일 뿐만이 아니다."
+
+[[dialogue]]
+speaker = "unk"
+original = "俺たちとは異なる流派ではあるが、星術を応用している、れっきとした星騎士の理の使い手なのだ。"
+translation = "우리와는 다른 유파이기는 하지만, 성술을 응용하고 있는, 엄연한 성기사의 이치를 다루는 사용자이다."
+
+[[dialogue]]
+speaker = "クロト"
+original = "「詳しくお聞かせください──トリシャさん。俺たちの仲間のところに案内します」"
+translation = "「자세히 들려주세요── 트리샤 씨. 우리 동료가 있는 곳으로 안내하겠습니다」"
+
+[[dialogue]]
+speaker = "トリシャ"
+original = "「フフフ……人がたくさん……角のないヒトに、喋るペットまで……」"
+translation = "「후후후…… 사람이 많네…… 뿔 없는 인간에, 말하는 펫까지……」"
+
+[[dialogue]]
+speaker = "ソフィア"
+original = "「あ、あなたが噂の……伝説の占星術師さん？」"
+translation = "「아, 당신이 소문의…… 전설의 점성술사님?」"
+
+[[dialogue]]
+speaker = "トリシャ"
+original = "「フフフ……千客万来。いかにもその通り」"
+translation = "「후후후…… 천객만래. 과연 그렇고말고」"
+
+[[dialogue]]
+speaker = "トリシャ"
+original = "「私の<ruby>卜占<rt>ぼくせん</rt></ruby>は宿星占星術──魔界占星術──そして算星術をミックスした、究極のまじない」"
+translation = "「나의 복점은 숙성 점성술── 마계 점성술── 그리고 산성술을 믹스한, 궁극의 주술」"
+
+[[dialogue]]
+speaker = "トリシャ"
+original = "「迷える仔羊たちよ、星の声を聞くのです……」"
+translation = "「길 잃은 어린 양들이여, 별의 목소리를 들으세요……」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "（な、なんかすっごい雰囲気ありますね……！）"
+translation = "（뭐, 뭔가 엄청난 분위기가 있네요……!）"
+
+[[dialogue]]
+speaker = "ユウリ"
+original = "（あ、ああ……得体が知れねえっつうか……）"
+translation = "（아, 아아…… 정체를 모르겠다고 할까……）"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "（さすがは伝説の占い師ね……！）"
+translation = "（역시 전설의 점술가네……!）"
+
+[[dialogue]]
+speaker = "ニャリオン"
+original = "「というか、ワガハイはペットではないニャン！」"
+translation = "「랄까, 나 님은 펫이 아니다냥!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "俺とフィオナはトリシャさんをみんなに引き合わせ、彼女が星術を使ったという流れまで伝えた。"
+translation = "나와 피오나는 트리샤 씨를 모두에게 소개하고, 그녀가 성술을 사용했다는 흐름까지 전했다."
+
+[[dialogue]]
+speaker = "クロト"
+original = "「──トリシャさん。先ほどの占いの結果を、みんなにも教えてあげてほしいんです」"
+translation = "「──트리샤 씨. 아까 점의 결과를, 모두에게도 알려주셨으면 합니다」"
+
+[[dialogue]]
+speaker = "トリシャ"
+original = "「なるほど……しかし私は占いで生計を立てている身。タダでというわけには……ねえ？\u3000チラッ」"
+translation = "「과연…… 하지만 나는 점으로 생계를 꾸려가는 몸. 공짜로 해줄 수는 없지…… 안 그래? 힐끗」"
+
+[[dialogue]]
+speaker = "ユウリ"
+original = "「あたしたち、そこまで大したお金は持ってないぞ……」"
+translation = "「우리, 그렇게 대단한 돈은 가지고 있지 않다고……」"
+
+[[dialogue]]
+speaker = "トリシャ"
+original = "「いえいえ、お……お金よりも……ハッピーになれるものが、あります。そうですよね……？\u3000チラッ」"
+translation = "「아니요, 돈…… 돈보다도…… 행복해질 수 있는 것이 있습니다. 그렇죠……? 힐끗」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "（あ、ああ……。例の友達の件ってことか……）"
+translation = "（아, 아아……. 그 친구 건을 말하는 건가……）"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「もし手伝ってくれたら、ここにいるみんな、トリシャさんとは友達になりたいって思うはずです！\u3000絶対に」"
+translation = "「만약 도와주신다면, 여기에 있는 모두, 트리샤 씨와 친구가 되고 싶다고 생각할 겁니다! 절대로」"
+
+[[dialogue]]
+speaker = "トリシャ"
+original = "「……本当？\u3000なら……フフフッ。なんでも教えてあげる」"
+translation = "「……정말로? 그럼…… 후후훗. 뭐든지 알려주지」"
+
+[[dialogue]]
+speaker = "ユウリ"
+original = "（そんなんでいいのか……？）"
+translation = "（저래도 되는 건가……?）"
+
+[[dialogue]]
+speaker = "ソフィア"
+original = "（エキセントリックな方みたいですね……）"
+translation = "（별난 분 같네요……）"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「ヴィーナスさんのいらっしゃる場所──その名が……」"
+translation = "「비너스 씨가 계신 장소── 그 이름이……」"
+
+[[dialogue]]
+speaker = "トリシャ"
+original = "「はい──<ruby>冥森林<rt>めいしんりん</rt></ruby>ネメシスです」"
+translation = "「네── 명삼림 네메시스입니다」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「ネッ……ネメシス！？」"
+translation = "「넷…… 네메시스!?」"
+
+[[dialogue]]
+speaker = "ユウリ"
+original = "「サーシャさん──知ってんのか？」"
+translation = "「사샤 씨── 알고 있는 거야?」"
+
+[[dialogue]]
+speaker = "ソフィア"
+original = "「……この近辺に住む魔族でしたら、知らない人はいないかと」"
+translation = "「……이 근방에 사는 마족이라면, 모르는 사람은 없을 겁니다」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「俺たちも詳しいことは聞けていない──そこはどういう場所なんだ？」"
+translation = "「우리도 자세한 것은 듣지 못했다── 거기는 어떤 장소인 거야?」"
+
+[[dialogue]]
+speaker = "トリシャ"
+original = "「いいでしょう。簡単にご説明します」"
+translation = "「좋습니다. 간단히 설명해 드리지요」"
+
+[[dialogue]]
+speaker = "トリシャ"
+original = "「冥森林ネメシス──それは、森ならざる森へと変貌を遂げた暗黒の地」"
+translation = "「명삼림 네메시스── 그것은, 숲이 아닌 숲으로 변모를 이룬 암흑의 땅」"
+
+[[dialogue]]
+speaker = "トリシャ"
+original = "「そこは今……未知の魔獣と、<ruby>未曾有<rt>みぞう</rt></ruby>の怪奇現象が跋扈する、混沌の<ruby>坩堝<rt>るつぼ</rt></ruby>として知られています……」"
+translation = "「그곳은 지금…… 미지의 마수와, 미증유의 괴기 현상이 횡행하는, 혼돈의 도가니로 알려져 있습니다……」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「なんか……恐ろしげな感じ……？」"
+translation = "「뭔가…… 무시무시한 느낌……?」"
+
+[[dialogue]]
+speaker = "ユウリ"
+original = "「どうなんだ、サーシャさん？」"
+translation = "「어때, 사샤 씨?」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「確かに……ここからしばらく行った先に、ネメシスという名前の盆地は<b>あった</b>わ」"
+translation = "「확실히…… 여기서 한참 간 곳에, 네메시스라는 이름의 분지는 <b>있었</b>어」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「けれど……あそこはもう、地図にも載っていないはずよ。森でもないわ。だって──」"
+translation = "「하지만…… 거기는 이제, 지도에도 실려 있지 않을 거야. 숲도 아니야. 왜냐하면──」"
+
+[[dialogue]]
+speaker = "ソフィア"
+original = "「はい。私もそう聞いています──数年前、あの一帯は丸ごと破滅に呑まれたと」"
+translation = "「네. 저도 그렇게 들었습니다── 몇 년 전, 그 일대가 통째로 파멸에 삼켜졌다고」"
+
+[[dialogue]]
+speaker = "ソフィア"
+original = "「ですから……ネメシスの跡地には絶対近づいてはならないと、レゾフの住人はみんな教えられているはずです」"
+translation = "「그러니까…… 네메시스의 흔적지에는 절대 가까이해서는 안 된다고, 레조프의 주민들은 모두 교육받았을 겁니다」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「破滅に──呑まれた……？」"
+translation = "「파멸에── 삼켜졌다……?」"
+
+[[dialogue]]
+speaker = "トリシャ"
+original = "「確かにネメシスは本来──山々に囲まれた盆地でした。しかし、今は森です。正確に言えば、森になったのです」"
+translation = "「확실히 네메시스는 본래── 산들로 둘러싸인 분지였습니다. 하지만, 지금은 숲입니다. 정확히 말하면, 숲이 된 것입니다」"
+
+[[dialogue]]
+speaker = "トリシャ"
+original = "「『大禍』のうねりに呑まれ──領域そのものが創り変えられたことによって」"
+translation = "「『대화』의 물결에 삼켜져── 영역 그 자체가 새로 만들어졌기 때문에」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「大禍……？」"
+translation = "「대화……?」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「トリシャさんの言う『大禍』は──リクリエのことだ。つまり……」"
+translation = "「트리샤 씨가 말하는 『대화』는── 리크리에를 말한다. 즉……」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「リクリエの影響を受けている──いえ──受けきった末路、だと……？」"
+translation = "「리크리에의 영향을 받고 있는── 아니── 받아낸 끝, 이라는 건가……?」"
+
+[[dialogue]]
+speaker = "トリシャ"
+original = "「ネメシス盆地の周辺には山々、針葉樹林、それから魔獣の巣がありました。小さな集落なんかも」"
+translation = "「네메시스 분지 주변에는 산들, 침엽수림, 그리고 마수의 둥지가 있었습니다. 작은 마을 같은 것도」"
+
+[[dialogue]]
+speaker = "トリシャ"
+original = "「それらがまとめて<ruby>撹拌<rt>かくはん</rt></ruby>された結果──ネメシスは、世にも奇妙な『冥府の森』として生まれ変わったのです」"
+translation = "「그것들이 통째로 교반된 결과── 네메시스는, 세상에 기묘한 『명부의 숲』으로 다시 태어난 것입니다」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「ッ……」"
+translation = "「큿……」"
+
+[[dialogue]]
+speaker = "ユウリ"
+original = "「<ruby>撹拌<rt>かくはん</rt></ruby>……ぐちゃぐちゃにされたってことか？\u3000魔獣も、針葉樹林も……」"
+translation = "「교반…… 뒤죽박죽이 되었다는 건가? 마수도, 침엽수림도……」"
+
+[[dialogue]]
+speaker = "ソフィア"
+original = "「……いつの日か大人の方から聞きました。レゾフから北西の荒野にかけては、立ち入れないほどの『うねり』が生じていると」"
+translation = "「……언젠가 어른에게 들었습니다. 레조프에서 북서쪽 황야에 걸쳐서는, 들어갈 수 없을 정도의 『물결』이 생겨나고 있다고」"
+
+[[dialogue]]
+speaker = "ソフィア"
+original = "「しかしそこまでの詳細は……初めて聞きました。本当なんですか……？」"
+translation = "「하지만 거기까지의 자세한 내용은…… 처음 들었습니다. 정말인가요……?」"
+
+[[dialogue]]
+speaker = "トリシャ"
+original = "「フフフ。私はズヴィエダの広大な荒野を歩いてレゾフまでやってきました……この目で見た光景に間違いはないかと」"
+translation = "「후후후. 나는 즈비에다의 광대한 황야를 걸어 레조프까지 왔습니다…… 이 눈으로 본 광경에 틀림은 없을 겁니다」"
+
+[[dialogue]]
+speaker = "トリシャ"
+original = "「それより問題は──ネメシスには、今も大禍の瘴気がうねっているということ」"
+translation = "「그것보다 문제는── 네메시스에는, 지금도 대화의 장기가 물결치고 있다는 것」"
+
+[[dialogue]]
+speaker = "トリシャ"
+original = "「ゆえに、ひと度立ち入れば──存在そのものが組み替えられてしまうでしょう。近づかぬのが賢明で、突入するなどもってのほかです」"
+translation = "「그러므로, 한 번 발을 들이면── 존재 자체가 재조합되어 버릴 것입니다. 가까이하지 않는 것이 현명하고, 돌입하는 것은 말도 안 됩니다」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「……！」"
+translation = "「……!」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「フィーニスの塔──よりもひどい状態、ってわけか……」"
+translation = "「피니스의 탑──보다 심각한 상태, 라는 건가……」"
+
+[[dialogue]]
+speaker = "unk"
+original = "『塔』の瘴気はまだ侵食中の状態だったが──"
+translation = "『탑』의 장기는 아직 침식 중인 상태였지만──"
+
+[[dialogue]]
+speaker = "unk"
+original = "トリシャさんの話が正しければ、そのネメシスという地はすでに侵食<b>されきっている</b>。"
+translation = "트리샤 씨의 이야기가 맞다면, 그 네메시스라는 땅은 이미 침식<ruby>되어 버린<rt>・・ ・・</rt></ruby> 것이다."
+
+[[dialogue]]
+speaker = "unk"
+original = "そこへ生身で突っ込むのは──命を落としにいくようなものだ。"
+translation = "그곳에 맨몸으로 뛰어드는 것은── 목숨을 잃으러 가는 것과 같다."
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「ほ、ほんとに……ほんとにヴィーナスがそんなところにいるの？」"
+translation = "「흐, 정말로…… 정말로 비너스가 그런 곳에 있는 거야?」"
+
+[[dialogue]]
+speaker = "トリシャ"
+original = "「私の占星術に間違いはない。<ruby>金星<rt>ヴィーナス</rt></ruby>の反応は……確実にかの森の内部から聴こえる」"
+translation = "「나의 점성술에 오류는 없다. 금성의 반응은…… 확실히 그 숲의 내부에서 들려온다」"
+
+[[dialogue]]
+speaker = "ユウリ"
+original = "「つか、そこにいて──ヴィーナスは本当に無事なのかよ！？」"
+translation = "「근데, 거기에 있으면서── 비너스는 정말로 무사한 거냐고!?」"
+
+[[dialogue]]
+speaker = "トリシャ"
+original = "「常識的に考えれば、人の形を保っているのは不可能──でしょう」"
+translation = "「상식적으로 생각하면, 사람의 형태를 유지하고 있는 것은 불가능── 하겠지요」"
+
+[[dialogue]]
+speaker = "トリシャ"
+original = "「事実──この金星の反応は、時を追うごとに弱まっています。この調子ならもって数日……いえ、より短いかもしれません」"
+translation = "「사실── 이 금성의 반응은, 시간이 지날수록 약해지고 있습니다. 이대로라면 며칠…… 아니, 더 짧을지도 모릅니다」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「っ……！\u3000それじゃ、急がなきゃ──」"
+translation = "「윽……! 그럼, 서둘러야──」"
+
+[[dialogue]]
+speaker = "ソフィア"
+original = "「ですが、そのヴィーナスさんが指定してきた日付は──」"
+translation = "「하지만, 그 비너스 씨가 지정해 온 날짜는──」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「……ああ。ヴィーナスはあくまで『冬』を待てと送ってきた。なら信じるしかないだろう」"
+translation = "「……아아. 비너스는 어디까지나 『겨울』을 기다리라고 보내왔다. 그럼 믿을 수밖에 없겠지」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「メッセージに書かれていた『森』の正体も──どうやら間違いなさそうだしな」"
+translation = "「메시지에 쓰여 있던 『숲』의 정체도── 아무래도 틀림없는 것 같고 말이야」"
+
+[[dialogue]]
+speaker = "unk"
+original = "<ruby>Ｗｈｅｎ<rt>いつ</rt></ruby>──<ruby>Ｗｈｅｒｅ<rt>どこで</rt></ruby>──<ruby>Ｈｏｗ<rt>どうやって</rt></ruby>──ヴィーナスからのヒントはすべて読み解けた。"
+translation = "When── Where── How── 비너스로부터의 힌트는 모두 읽어낼 수 있었다."
+
+[[dialogue]]
+speaker = "unk"
+original = "つまり、俺たちに求められるのは……"
+translation = "즉, 우리에게 요구되는 것은……"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「『大いなる冬』の当日に──その『森』に行かなくちゃいけないってこと……」"
+translation = "「『대자연의 겨울』 당일에── 그 『숲』에 가지 않으면 안 된다는 것……」"
+
+[[dialogue]]
+speaker = "ソフィア"
+original = "「出歩くのも困難な日に、立ち入ることも不可能な森へ……」"
+translation = "「외출하는 것도 곤란한 날에, 들어가는 것도 불가능한 숲으로……」"
+
+[[dialogue]]
+speaker = "ユウリ"
+original = "「はっ……無茶振りが加速してきやがったな」"
+translation = "「하윽…… 억지가 가속하고 있구만」"
+
+[[dialogue]]
+speaker = "ニャリオン"
+original = "「ニャ！\u3000あの娘らしいニャン！」"
+translation = "「냥! 그 아가씨답다냥!」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「確かに無茶振りだ。けどヴィーナスがわざわざ──苦労する条件を指定してきたとは思えない」"
+translation = "「확실히 억지다. 하지만 비너스가 일부러── 고생할 조건을 지정해 왔다고는 생각되지 않는다」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「混沌の森と、大いなる冬……一見、関連はなさそうですが」"
+translation = "「혼돈의 숲과, 대자연의 겨울…… 언뜻 보기엔, 관련이 없어 보입니다만」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「えーと……そうだ！\u3000森が屋根代わりになって、その『冬』もやり過ごせるとか？」"
+translation = "「에ー또…… 맞다! 숲이 지붕 역할을 해서, 그 『겨울』도 넘길 수 있다거나?」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「うーん……無理だと思うわよ。あの『冬』は単なる寒波じゃないもの」"
+translation = "「으음…… 무리일 거라고 생각해. 그 『겨울』은 단순한 한파가 아니니까」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「屋根になるどころか、森ごと一瞬で凍りついておしまいじゃないかしら？」"
+translation = "「지붕이 되기는커녕, 숲째로 순식간에 얼어붙어 끝나는 거 아닐까?」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「そ、そんなにすごいんですね……」"
+translation = "「그, 그렇게 대단한 건가요……」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「ええ。レゾフの住民はよく知ってるの。あの日になったら、アステラも──モンスターも──空気だって凍りそうなくらいの──あっ」"
+translation = "「응. 레조프 주민들은 잘 알고 있어. 그날이 되면, 아스테라도── 몬스터도── 공기마저 얼어붙을 것 같을 정도의── 앗」"
+
+[[dialogue]]
+speaker = "ソフィア"
+original = "「！\u3000姉さんも……気づきましたか」"
+translation = "「! 언니도…… 눈치챘나요」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「……ええ。もしかしたら……」"
+translation = "「……응. 혹시……」"
+
+[[dialogue]]
+speaker = "ユウリ"
+original = "「？\u3000な、なんだ？\u3000どういうことだ？」"
+translation = "「? 뭐, 뭐야? 무슨 뜻이야?」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「……ヴィーナスの意図がわかったんですか？」"
+translation = "「……비너스의 의도를 알아낸 건가요?」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「ええ。こうは考えられないかしら？」"
+translation = "「응. 이렇게는 생각할 수 없을까?」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「何もかも凍てつく冬の日。だからこそ、<ruby>冥森林<rt>ネメシス</rt></ruby>の侵食さえもフリーズする──」"
+translation = "「모든 것이 얼어붙는 겨울날. 그렇기 때문에, 명삼림의 침식마저도 프리즈한다──」"
+
+[[dialogue]]
+speaker = "ユウリ"
+original = "「！」"
+translation = "「!」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「……混沌の森の侵食は、リクリエの瘴気によるものです。それでも……？」"
+translation = "「……혼돈의 숲의 침식은, 리크리에의 장기에 의한 것입니다. 그래도……?」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「ありえるわ。同じリクリエ由来のアステラさえ活動を止められてしまうんだから」"
+translation = "「가능성이 있어. 같은 리크리에 유래의 아스테라조차 활동을 멈추게 할 수 있으니까」"
+
+[[dialogue]]
+speaker = "ソフィア"
+original = "「……でも、姉さん。あの森にはもう誰も寄りついていません。実際そうなる確証なんて……」"
+translation = "「……하지만, 언니. 그 숲에는 이제 아무도 가까이 가지 않아요. 실제로 그렇게 될 확증 같은 건……」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「もちろんないわ。でも──うふふっ。ヴィーナスちゃんが正しいと思ったのなら、私、そんなに分の悪い賭けだとは思ってないの」"
+translation = "「물론 없지. 하지만── 우후훗. 비너스짱이 옳다고 생각했다면, 나는 그렇게 승산 없는 도박이라고는 생각하지 않아」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「確かに……。ヴィーナスって根拠がなくても、ここ一番を外したことってないのよね」"
+translation = "「확실히……. 비너스는 근거가 없어도, 결정적인 순간을 놓친 적은 없었지」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「どちらも俺たちにとって脅威となる『冬』と『瘴気』──そのお互いが干渉しあう可能性、か」"
+translation = "「둘 다 우리에게 위협이 되는 『겨울』과 『장기』── 그 서로가 간섭할 가능성, 인가」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「もしヴィーナスがその線で考えていたのなら──『森』へ立ち入る唯一のチャンスになる」"
+translation = "「만약 비너스가 그 방향으로 생각하고 있었다면── 『숲』에 들어갈 유일한 찬스가 된다」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「毒を以て毒を制す……と言ったところでしょうか」"
+translation = "「독을 가지고 독을 제압한다……고 할 수 있을까요」"
+
+[[dialogue]]
+speaker = "unk"
+original = "リクリエという厄災に、リクリエならざる魔界の天災をぶつけようという発想だ。"
+translation = "리크리에라는 재앙에, 리크리에가 아닌 마계의 천재지변을 부딪치게 하려는 발상이다."
+
+[[dialogue]]
+speaker = "トリシャ"
+original = "「フフフ……なるほど。実に破天荒な発想……とても豪気なお方のようですね」"
+translation = "「후후후…… 과연. 실로 파천황적인 발상…… 매우 호탕한 분 같군요」"
+
+[[dialogue]]
+speaker = "トリシャ"
+original = "「それにどうやら──その破天荒こそが、大禍を防ぐ鍵となる様子」"
+translation = "「게다가 아무래도── 그 파천황이야말로, 대화를 막는 열쇠가 될 모양」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「！\u3000トリシャさんの<ruby>振り子<rt>ペンデュラム</rt></ruby>が……また反応している……？」"
+translation = "「! 트리샤 씨의 추가…… 또 반응하고 있어……?」"
+
+[[dialogue]]
+speaker = "トリシャ"
+original = "「あなた達は私の心の友……私にできることがあれば、ぜひ協力してさしあげましょう」"
+translation = "「당신들은 나의 마음의 친구…… 나에게 할 수 있는 일이 있다면, 꼭 협력해 드리겠습니다」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「助かります──トリシャさん」"
+translation = "「도움이 됩니다── 트리샤 씨」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「うん！\u3000頼りになりそうな人でよかった」"
+translation = "「응! 믿음직한 사람이라서 다행이야」"
+
+[[dialogue]]
+speaker = "ユウリ"
+original = "「ああ。心の友なんて、熱いじゃねえか」"
+translation = "「아아. 마음의 친구라니, 뜨겁잖아」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「……トリシャさんは俺たちのひとつ上らしいけどね」"
+translation = "「……트리샤 씨는 우리보다 한 살 위인 것 같지만」"
+
+[[dialogue]]
+speaker = "ユウリ"
+original = "「先輩だったのか！？」"
+translation = "「선배였던 거야!?」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「あらあら。私と同級生なのね」"
+translation = "「어머나. 나랑 동급생이네」"
+
+[[dialogue]]
+speaker = "トリシャ"
+original = "「フ、フフ……気にすることはない。だって私たちは友……友……にへ、にへへ……！」"
+translation = "「흐, 후후…… 신경 쓸 것 없다. 왜냐하면 우리는 친구…… 친구…… 니헤, 니헤헤……!」"
+
+[[dialogue]]
+speaker = "ソフィア"
+original = "（ニヤつきすぎて固まってしまいました……）"
+translation = "（너무 히죽거려서 굳어버렸습니다……）"
+
+[[dialogue]]
+speaker = "unk"
+original = "学年の差はともかく、こうして友人兼協力者が得られたのは喜ばしいことだった。"
+translation = "학년 차이는 둘째치고, 이렇게 친구 겸 협력자를 얻게 된 것은 기쁜 일이었다."
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「『大いなる冬』当日に──冥森林ネメシスへの突入。皆さん、それまでに戦力を整えましょう」"
+translation = "「『대자연의 겨울』 당일에── 명삼림 네메시스로의 돌입. 여러분, 그때까지 전력을 정비합시다」"
+
+[[dialogue]]
+speaker = "ニャリオン"
+original = "「──了解ニャ！」"
+translation = "「──알겠다냥!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "そうして俺たちは万全の対策を練ることになった。"
+translation = "그렇게 우리들은 만전의 대책을 세우게 되었다."
+
+[[dialogue]]
+speaker = "unk"
+original = "来たる『大いなる冬』の突入作戦へ向けて……。"
+translation = "다가올 『대자연의 겨울』 돌입 작전을 향해서…….」"
+

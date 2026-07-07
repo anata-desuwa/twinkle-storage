@@ -1,0 +1,220 @@
+[[dialogue]]
+speaker = "unk"
+original = "翌日の、クリスマス当日。"
+translation = "다음 날, 크리스마스 당일."
+
+[[dialogue]]
+speaker = "附属生Ａ"
+original = "「メリ～クリスマス♪」"
+translation = "「메리~ 크리스마스♪」"
+
+[[dialogue]]
+speaker = "附属生Ｂ"
+original = "「今日のパーティー、楽しみだね～♪」"
+translation = "「오늘 파티, 기대된다~♪」"
+
+[[dialogue]]
+speaker = "ナミエル"
+original = "「…………」"
+translation = "「…………」"
+
+[[dialogue]]
+speaker = "unk"
+original = "学園生たちの盛り上がる様子を横目に１人、いつも以上にクールな表情のナミエル。"
+translation = "학생들이 들뜬 모습을 곁눈질하며 혼자서, 평소보다 더 쿨한 표정을 짓고 있는 나미엘."
+
+[[dialogue]]
+speaker = "アム"
+original = "「……ねぇ、ナミエル。ちょっといいかな？」"
+translation = "「……있잖아, 나미엘. 잠깐 괜찮을까?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "そんな彼女に、アムは意を決して声をかける。"
+translation = "그런 그녀에게, 아무는 결심을 굳히고 말을 건다."
+
+[[dialogue]]
+speaker = "ナミエル"
+original = "「え？\u3000あっ、はい……」"
+translation = "「예? 앗, 네……」"
+
+[[dialogue]]
+speaker = "ナミエル"
+original = "「それで、どうしたんですか？\u3000わざわざ空き教室にまで移動して、話したいことって……」"
+translation = "「그래서, 무슨 일이신가요? 굳이 빈 교실까지 이동해서 하고 싶은 이야기라는 게……」"
+
+[[dialogue]]
+speaker = "アム"
+original = "「うん……ナミエルはさ、クリスマスって、実はあんまり好きじゃなかったりする？」"
+translation = "「응…… 나미엘은 말이야, 크리스마스를 사실 별로 안 좋아해?」"
+
+[[dialogue]]
+speaker = "ナミエル"
+original = "「……！」"
+translation = "「……!」"
+
+[[dialogue]]
+speaker = "アム"
+original = "「最近ずっと一緒にいたから、なんとなくそうかなって感じたんだけど……」"
+translation = "「요즘 계속 같이 있었으니까, 왠지 그런 것 같다는 느낌이 들어서……」"
+
+[[dialogue]]
+speaker = "スノーマン"
+original = "「ナミエルはクリスマス、嫌いなの……？」"
+translation = "「나미엘은 크리스마스, 싫어해……?」"
+
+[[dialogue]]
+speaker = "ナミエル"
+original = "「…………」"
+translation = "「…………」"
+
+[[dialogue]]
+speaker = "アム"
+original = "「理由とか、聞いてもいい？\u3000ほら、悩み相談みたいな感じでさ！」"
+translation = "「이유라던가, 물어봐도 될까? 왜, 고민 상담 같은 느낌으로 말이야!」"
+
+[[dialogue]]
+speaker = "ナミエル"
+original = "「……アム先輩って、やっぱりデリカシー足りてないところがありますよね」"
+translation = "「……아무 선배님은 역시 배려심이 부족한 면이 있으시네요.」"
+
+[[dialogue]]
+speaker = "アム"
+original = "「あれ！？\u3000もしかして聞いちゃダメなやつだった……！？」"
+translation = "「어라!? 혹시 물어보면 안 되는 거였어……!?」"
+
+[[dialogue]]
+speaker = "ナミエル"
+original = "「まあ……好奇心とかで言い出したんじゃなくて、本当に心配してくれてるんでしょうけど……」"
+translation = "「뭐…… 호기심 때문에 꺼낸 말이 아니라, 정말로 걱정해 주시는 거겠지만요……」"
+
+[[dialogue]]
+speaker = "ナミエル"
+original = "「…………私の両親が昔、クリスマスに事故で亡くなったんです」"
+translation = "「…………제 부모님이 옛날에, 크리스마스에 사고로 돌아가셨어요.」"
+
+[[dialogue]]
+speaker = "アム"
+original = "「え……」"
+translation = "「에……」"
+
+[[dialogue]]
+speaker = "スノーマン"
+original = "「ナミエルの、お父さんと、お母さんが……？」"
+translation = "「나미엘의 아빠랑 엄마가……?」"
+
+[[dialogue]]
+speaker = "ナミエル"
+original = "「クリスマスで、私と両親が車で外出していた時……交通事故に遭ったんです。大通りの交差点で、信号無視した車が突っ込んで来て……」"
+translation = "「크리스마스에 저와 부모님이 차로 외출했을 때…… 교통사고를 당했어요. 큰길 교차로에서 신호를 무시한 차가 들이받아서……」"
+
+[[dialogue]]
+speaker = "ナミエル"
+original = "「……私はそれ以来、クリスマスの時期が来るとそのことを思い出すので、苦手になってしまったんです」"
+translation = "「……저는 그 이후로 크리스마스 시기가 오면 그때 일이 생각나서, 싫어하게 되어버렸어요.」"
+
+[[dialogue]]
+speaker = "アム"
+original = "「っ……ナミエル、ごめん！」"
+translation = "「윽…… 나미엘, 미안!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "アムはその場で、深く頭を下げて謝罪した。"
+translation = "아무는 그 자리에서 깊이 고개를 숙여 사과했다."
+
+[[dialogue]]
+speaker = "アム"
+original = "「本当に、ごめん！\u3000確かにあたし、デリカシーが全然足りてなかった……！\u3000ナミエルにそんな過去があるなんて、想像もしてなかった……！」"
+translation = "「정말로 미안해! 확실히 나, 배려심이 전혀 없었어……! 나미엘에게 그런 과거가 있을 줄은 상상도 못 했어……!」"
+
+[[dialogue]]
+speaker = "ナミエル"
+original = "「いえ……仕方ないです。私の部屋には、両親のことがわかるものなんて、何１つ飾っていませんでしたし……」"
+translation = "「아뇨…… 어쩔 수 없죠. 제 방에는 부모님에 대해 알 수 있는 물건은 단 하나도 장식해두지 않았으니까요……」"
+
+[[dialogue]]
+speaker = "ナミエル"
+original = "「……私、いつからか、両親と一緒に写っている写真を見ると、幸せな思い出が蘇ってくるのが辛くなって……」"
+translation = "「……저, 언제부턴가 부모님과 함께 찍은 사진을 보면 행복한 추억이 되살아나는 게 괴로워져서……」"
+
+[[dialogue]]
+speaker = "ナミエル"
+original = "「胸が締め付けられるような気持ちになるのが嫌で、そのうちに直視できなくなってしまったんです……」"
+translation = "「가슴이 조여오는 듯한 기분이 드는 게 싫어서, 어느새 직시할 수 없게 되어버렸어요……」"
+
+[[dialogue]]
+speaker = "ナミエル"
+original = "「だから、今では両親の写真はクローゼットの奥にしまって……もう長いこと取り出していません」"
+translation = "「그래서 지금은 부모님 사진을 옷장 깊숙이 넣어두고…… 벌써 오랫동안 꺼내지 않았어요.」"
+
+[[dialogue]]
+speaker = "ナミエル"
+original = "「……でも、そこまで気にしなくても大丈夫です。むしろ、今まで誰にも言えなかったことだったので……こうしてちょっと吐き出して、気持ちが楽になりました」"
+translation = "「……하지만 그렇게까지 신경 쓰지 않으셔도 괜찮아요. 오히려 지금까지 아무에게도 말하지 못했던 거라…… 이렇게 조금 털어놓으니 마음이 편해졌어요.」"
+
+[[dialogue]]
+speaker = "アム"
+original = "「……そんなことがあったら、クリスマスが好きになれなくても仕方ないよね……」"
+translation = "「……그런 일이 있었다면 크리스마스를 좋아할 수 없게 돼도 어쩔 수 없지……」"
+
+[[dialogue]]
+speaker = "スノーマン"
+original = "「ナミエル……家族、いなかったんだ……」"
+translation = "「나미엘…… 가족, 없었구나……」"
+
+[[dialogue]]
+speaker = "unk"
+original = "と、そんな時だった。"
+translation = "그때였다."
+
+[[dialogue]]
+speaker = "アム"
+original = "「えっ……！？\u3000今のって……？」"
+translation = "「엣……!? 방금 그건……?」"
+
+[[dialogue]]
+speaker = "ナミエル"
+original = "「アステラが一瞬、頭の中に見えたような……？」"
+translation = "「아스테라가 순식간에 머릿속에서 보인 것 같은데……?」"
+
+[[dialogue]]
+speaker = "スノーマンL"
+original = "「ボクも気配、感じた……！\u3000２人とも、こっち！」"
+translation = "「나도 기척, 느꼈어……! 둘 다, 이쪽이야!」"
+
+[[dialogue]]
+speaker = "ナミエル"
+original = "「あっ、スノーマン、一体どこに……！？」"
+translation = "「앗, 스노맨, 대체 어디로……!?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "２人はスノーマンに案内されて、屋外に出て、市街地へと向かう。すると――"
+translation = "두 사람은 스노맨의 안내를 받아 밖으로 나와 시가지로 향한다. 그러자――"
+
+[[dialogue]]
+speaker = "ナミエル"
+original = "「これは……？\u3000どうして――」"
+translation = "「이건……? 어째서――」"
+
+[[dialogue]]
+speaker = "unk"
+original = "流星市国の街並みは、クリスマス当日ということで、普段よりも沢山の人たちで賑わっていた。"
+translation = "유성 시국의 거리 풍경은 크리스마스 당일이라 평소보다 많은 사람으로 붐비고 있었다."
+
+[[dialogue]]
+speaker = "アム"
+original = "「上空にあんな大きなアステラが発生しているのに、どうして誰も気づかないの……！？」"
+translation = "「상공에 저렇게 큰 아스테라가 발생했는데, 왜 아무도 눈치채지 못하는 거야……!?」"
+
+[[dialogue]]
+speaker = "スノーマンL"
+original = "「……あの中から、強い気配、感じる」"
+translation = "「……저 안에서 강한 기척이 느껴져.」"
+
+[[dialogue]]
+speaker = "unk"
+original = "スノーマンはアステラを見上げながら、そう呟くのだった。"
+translation = "스노맨은 아스테라를 올려다보며 그렇게 중얼거렸다."
+

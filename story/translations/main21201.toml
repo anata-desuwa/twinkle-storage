@@ -1,0 +1,220 @@
+[[dialogue]]
+speaker = "unk"
+original = "第１話,１０年前のデネブ,B"
+translation = "제1화, 10년 전의 데네브, B"
+
+[[dialogue]]
+speaker = "unk"
+original = "あの時の<b>アタシ</b>たちは、いつもお腹をぐーぐー鳴らしていた。文字通り、泥水をすすって喉の渇きをいやす毎日だった。"
+translation = "그때의 <b>나</b>들은 언제나 배에서 꼬르륵 소리가 났다. 글자 그대로 흙탕물을 마시며 목마름을 달래는 나날이었다."
+
+[[dialogue]]
+speaker = "unk"
+original = "おしゃれもできない、遊ぶものもない、大好きな家族もいない。"
+translation = "멋을 부릴 수도 없고, 놀 거리도 없고, 사랑하는 가족도 없다."
+
+[[dialogue]]
+speaker = "unk"
+original = "そんな絶望的な状況でも、アタシたちの心が折れなかったのは──ぜんぶ。"
+translation = "그런 절망적인 상황에서도 우리들의 마음이 꺾이지 않았던 건── 전부."
+
+[[dialogue]]
+speaker = "unk"
+original = "ルヴィがいてくれたからだ──"
+translation = "루비가 있어 주었기 때문이다──"
+
+[[dialogue]]
+speaker = "チナ"
+original = "「今日も大活躍だったな、アタシたち！」"
+translation = "「오늘도 대활약이었네, 우리들!」"
+
+[[dialogue]]
+speaker = "ルヴィネ"
+original = "「ええ。チナもだいぶ星力の扱いに慣れてきたわね」"
+translation = "「그래. 치나도 제법 성력을 다루는 데 익숙해졌구나.」"
+
+[[dialogue]]
+speaker = "ベアトリス"
+original = "「グレイスちゃんもレティシアちゃんもおつかれさま！」"
+translation = "「그레이스짱도 레티시아짱도 수고했어!」"
+
+[[dialogue]]
+speaker = "グレイス"
+original = "「ふふふ。我ら『ポラリス』にかかれば、モンスターなんて恐るるに足らずというやつです！」"
+translation = "「후후후. 우리 『폴라리스』가 나선다면 몬스터 따위 두려워할 것 없다는 거죠!」"
+
+[[dialogue]]
+speaker = "レティシア"
+original = "「…………ん」"
+translation = "「…………응」"
+
+[[dialogue]]
+speaker = "ルヴィネ"
+original = "「みんな疲れたでしょう。夕食にしましょうか」"
+translation = "「모두 지쳤겠지. 저녁 식사를 할까?」"
+
+[[dialogue]]
+speaker = "グレイス"
+original = "「はい！\u3000今日のメニューも、豆の缶詰と乾パンですね……ではルヴィ。リーダーから分配をおねがいします！」"
+translation = "「네! 오늘 메뉴도 콩 통조림이랑 건빵이네요…… 그럼 루비. 리더가 배분을 부탁드려요!」"
+
+[[dialogue]]
+speaker = "チナ"
+original = "「きっちり五等分だぞ、ルヴィ」"
+translation = "「딱 5등분이다, 루비.」"
+
+[[dialogue]]
+speaker = "ルヴィネ"
+original = "「……どうして釘をさすのかしら」"
+translation = "「……어째서 못을 박는 거니?」"
+
+[[dialogue]]
+speaker = "ベアトリス"
+original = "「ルヴィはすぐ自分のぶん、グレイスちゃんにわけちゃうもん。ちゃんと食べなきゃ、また体こわしちゃうよ？」"
+translation = "「루비는 금방 자기 몫을 그레이스짱한테 나눠줘 버리잖아. 제대로 안 먹으면 또 몸 상한다구?」"
+
+[[dialogue]]
+speaker = "チナ"
+original = "「そーだぞ。ルヴィはグレイスに甘いところがあるからな！」"
+translation = "「그렇다니까. 루비는 그레이스한테 무른 구석이 있으니까 말이야!」"
+
+[[dialogue]]
+speaker = "ルヴィネ"
+original = "「……ごめんなさいグレイス。監視の目が厳しいから、今日はちゃんと五等分ね？」"
+translation = "「……미안해, 그레이스. 감시의 눈이 엄격하니까 오늘은 제대로 5등분이야, 알았지?」"
+
+[[dialogue]]
+speaker = "グレイス"
+original = "「がーん……！\u3000この恨み、忘れませんよチナ……！」"
+translation = "「가안……! 이 원한, 잊지 않겠어요 치나……!」"
+
+[[dialogue]]
+speaker = "チナ"
+original = "「つまんねーことで恨むな、ばーか」"
+translation = "「시시한 걸로 원망하지 마, 바보야.」"
+
+[[dialogue]]
+speaker = "レティシア"
+original = "「…………にぎやか」"
+translation = "「…………시끌벅적」"
+
+[[dialogue]]
+speaker = "unk"
+original = "──１０年前のデネブ。"
+translation = "──10년 전의 데네브."
+
+[[dialogue]]
+speaker = "unk"
+original = "魔王クロトに見捨てられ、荒廃の極みに達した、絶望しかない流星市国でアタシたちは出会った。"
+translation = "마왕 쿠로토에게 버림받아 황폐함이 극에 달한, 절망밖에 없는 유성시국에서 우리들은 만났다."
+
+[[dialogue]]
+speaker = "unk"
+original = "寝るのも、起きるのも、食べるものもすべて一緒……その中心にはいつもルヴィがいた。"
+translation = "자는 것도, 일어나는 것도, 먹는 것도 전부 함께…… 그 중심에는 언제나 루비가 있었다."
+
+[[dialogue]]
+speaker = "ルヴィネ"
+original = "「大丈夫よ。あなたたちは死なない。救援が来るまで、私が命に代えても守るわ」"
+translation = "「괜찮아. 너희는 죽지 않아. 구원이 올 때까지 내가 목숨을 바꿔서라도 지킬게.」"
+
+[[dialogue]]
+speaker = "unk"
+original = "アタシたちが不安に押しつぶされそうになった時は、いつもルヴィが励ましてくれた。"
+translation = "우리들이 불안에 짓눌릴 것 같을 때는 언제나 루비가 격려해 주었다."
+
+[[dialogue]]
+speaker = "unk"
+original = "寝るのが怖いと言えば、手を繋いでくれた。話し相手になって、安心させてくれた。"
+translation = "자는 게 무섭다고 하면 손을 잡아 주었다. 말상대가 되어 안심시켜 주었다."
+
+[[dialogue]]
+speaker = "ルヴィネ"
+original = "「明日は、建物の修理をしましょうか。大聖堂の雨漏りがひどいから」"
+translation = "「내일은 건물 수리를 할까. 대성당의 비가 새는 게 심하니까.」"
+
+[[dialogue]]
+speaker = "ルヴィネ"
+original = "「この間、図書館で日曜大工の本を見つけたの。みんなで修理してみましょう」"
+translation = "「얼마 전에 도서관에서 DIY 책을 찾았어. 다 같이 수리해 보자.」"
+
+[[dialogue]]
+speaker = "ベアトリス"
+original = "「おもしろそう！\u3000やるやる！」"
+translation = "「재밌겠다! 할래 할래!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "モンスターと戦うだけじゃない。ルヴィはあらゆるところに気を配った。"
+translation = "몬스터와 싸우는 것만이 아니었다. 루비는 모든 곳에 신경을 썼다."
+
+[[dialogue]]
+speaker = "ルヴィネ"
+original = "「就寝の前に、避難民の人達にも挨拶をしておくわ。最近、モンスターがたくさん出現しているから、きっと不安だと思うの」"
+translation = "「취침 전에 피난민 분들에게도 인사를 해둘게. 최근 몬스터가 많이 나타나서 분명 불안해하실 거야.」"
+
+[[dialogue]]
+speaker = "unk"
+original = "魔王クロトはデネブを見捨てた。魔王以外の星騎士は、そのほとんどが『仮面の女』に殺された。"
+translation = "마왕 쿠로토는 데네브를 버렸다. 마왕 이외의 성기사는 대부분 『가면의 여자』에게 살해당했다."
+
+[[dialogue]]
+speaker = "unk"
+original = "流星群が収まった後もアステラは湧き出て、モンスターは次々に現れる──そんな辛い状況下で、アタシたちの結束は生まれた。"
+translation = "유성우가 멎은 후에도 아스테라는 솟아나고 몬스터는 차례차례 나타난다── 그런 괴로운 상황 속에서 우리들의 결속은 태어났다."
+
+[[dialogue]]
+speaker = "ルヴィネ"
+original = "「ここで星力を扱えるのは、私たち５人だけ。みんな、明日も頑張りましょう。力を貸してちょうだい」"
+translation = "「여기서 성력을 다룰 수 있는 건 우리 5명뿐이야. 모두 내일도 힘내자. 힘을 빌려줘.」"
+
+[[dialogue]]
+speaker = "unk"
+original = "文字どおり一蓮托生の、かけがえのない５人のともだち──"
+translation = "말 그대로 일련탁생의, 무엇과도 바꿀 수 없는 다섯 명의 친구──"
+
+[[dialogue]]
+speaker = "チナ"
+original = "「…………夢、か」"
+translation = "「…………꿈인가.」"
+
+[[dialogue]]
+speaker = "unk"
+original = "グレイスとレティシアの天界襲撃を止めるため、一時的にアルタイルの側についたチナ。"
+translation = "그레이스와 레티시아의 천계 습격을 막기 위해 일시적으로 알타이르 편에 섰던 치나."
+
+[[dialogue]]
+speaker = "unk"
+original = "チナも緋宮クロトたち星騎士の帰還に合わせて、人間界の新星学園へと戻ってきていた。"
+translation = "치나도 히노미야 쿠로토 일행 등 성기사들의 귀환에 맞춰 인간계의 신성학원으로 돌아와 있었다."
+
+[[dialogue]]
+speaker = "チナ"
+original = "「……明日から、本格的にルヴィについての話し合いをしていくって、魔王は言ってたよな」"
+translation = "「……내일부터 본격적으로 루비에 대해 논의하겠다고 마왕이 말했었지.」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ルヴィネは、リクリエを扇動する新しい女神の幼体。それが真実であれば激突は避けられない。"
+translation = "루비네는 리크리에를 선동하는 새로운 여신의 유체. 그것이 진실이라면 격돌은 피할 수 없다."
+
+[[dialogue]]
+speaker = "unk"
+original = "そのことは、何度も何度も自問したはずだったのに。"
+translation = "그 사실은 몇 번이고 몇 번이고 자문했을 텐데."
+
+[[dialogue]]
+speaker = "チナ"
+original = "「…………ルヴィ」"
+translation = "「…………루비.」"
+
+[[dialogue]]
+speaker = "unk"
+original = "先ほど見た夢が、チナの心を揺さぶる。"
+translation = "방금 꾼 꿈이 치나의 마음을 뒤흔든다."
+
+[[dialogue]]
+speaker = "unk"
+original = "ルヴィネの行動はすべてが嘘なのか。偽りなのか──チナにはどうしてもそう思えないのだった。"
+translation = "루비네의 행동은 모든 것이 거짓인가. 기만인가── 치나는 도저히 그렇게 생각할 수 없었다."
+

@@ -1,0 +1,390 @@
+[[dialogue]]
+speaker = "unk"
+original = "第３話,一等星の試練,P"
+translation = "제3화, 일등성의 시련, P"
+
+[[dialogue]]
+speaker = "モネ"
+original = "「はい。これで今回のレポートは完成です」"
+translation = "「네. 이걸로 이번 리포트는 완성입니다」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ありがとう"
+translation = "고마워"
+
+[[dialogue]]
+speaker = "モネ"
+original = "「いえ、これも図書委員の仕事ですから」"
+translation = "「아니에요, 이것도 도서위원의 일이니까요」"
+
+[[dialogue]]
+speaker = "unk"
+original = "モンスターやアステラに対応した星騎士から聴取し、レポートを作成するのも図書委員の大事な仕事だ。このレポートが図書館に蓄積され、貴重な資料となる。"
+translation = "몬스터나 아스테라에 대응한 성기사로부터 청취하여 리포트를 작성하는 것도 도서위원의 중요한 업무다. 이 리포트가 도서관에 축적되어 귀중한 자료가 된다."
+
+[[dialogue]]
+speaker = "モネ"
+original = "「はぁ……あ、すみません。溜息なんかついて。大したことじゃなくて……」"
+translation = "「하아…… 아, 죄송해요. 한숨 같은 걸 쉬어서. 별일 아니에요……」"
+
+[[dialogue]]
+speaker = "unk"
+original = "俺に隠し事はしないでほしい"
+translation = "나한테 숨기는 건 없었으면 좋겠어"
+
+[[dialogue]]
+speaker = "モネ"
+original = "「……はい。私たち、恋人なんですもんね」"
+translation = "「……네. 우리, 연인이니까요」"
+
+[[dialogue]]
+speaker = "モネ"
+original = "「実は昨日──」"
+translation = "「사실은 어제──」"
+
+[[dialogue]]
+speaker = "シルヴィ"
+original = "「……で、私はどっかーんってモンスターを倒してアステラを消滅させたんだよ！」"
+translation = "「……그래서 내가 콰광~ 하고 몬스터를 쓰러뜨려서 아스테라를 소멸시켰어!」"
+
+[[dialogue]]
+speaker = "モネ"
+original = "「……雷光を纏ったメイスがモンスターを捉えた。迸る衝撃と閃光。視界を焼く光が収まると、モンスターは跡形もなく消え去っていた。こうして街に平和が……」"
+translation = "「……뇌광을 두른 메이스가 몬스터를 포착했다. 뿜어져 나오는 충격과 섬광. 시야를 태우는 빛이 잦아들자, 몬스터는 흔적도 없이 사라져 있었다. 이렇게 마을에 평화가……」"
+
+[[dialogue]]
+speaker = "リィベル"
+original = "「ストップ。レポートが小説調になっているわ。モネが手本を見せるっていうから付いてきたのに、これじゃ手本にならないでしょ」"
+translation = "「스톱. 리포트가 소설조가 됐잖아. 모네가 본보기를 보여준다길래 따라왔는데, 이러면 본보기가 안 되잖아」"
+
+[[dialogue]]
+speaker = "モネ"
+original = "「うぅ、面目ないです……」"
+translation = "「우으, 면목 없어요……」"
+
+[[dialogue]]
+speaker = "シルヴィ"
+original = "「モネちゃんは悪くないよ、気にしないで！」"
+translation = "「모네짱은 잘못 없어, 신경 쓰지 마!」"
+
+[[dialogue]]
+speaker = "リィベル"
+original = "「そうね。元星徒会役員のくせに自分でレポートも作れないあなたが悪いもの」"
+translation = "「그렇네. 전 성도회 임원이었으면서 스스로 리포트도 못 만드는 네가 나쁜 거야」"
+
+[[dialogue]]
+speaker = "シルヴィ"
+original = "「ぐはっ！\u3000だってだって、説明するの苦手なんだもん！」"
+translation = "「구헉! 그치만 그치만, 설명하는 건 서툴단 말이야!」"
+
+[[dialogue]]
+speaker = "リィベル"
+original = "「あなた、いつからプリマステラやってるの？」"
+translation = "「너, 언제부터 프리마스텔라 하고 있는 거야?」"
+
+[[dialogue]]
+speaker = "シルヴィ"
+original = "「１年生のときから！\u3000これでもベテランだよ！」"
+translation = "「1학년 때부터! 이래 봬도 베테랑이라구!」"
+
+[[dialogue]]
+speaker = "リィベル"
+original = "「このベテラン、貫禄が全くないわ」"
+translation = "「이 베테랑, 관록이 전혀 없네」"
+
+[[dialogue]]
+speaker = "モネ"
+original = "「…………」"
+translation = "「…………」"
+
+[[dialogue]]
+speaker = "シルヴィ"
+original = "「モネちゃん？」"
+translation = "「모네짱?」"
+
+[[dialogue]]
+speaker = "モネ"
+original = "「あ、いえ、なんでもないです」"
+translation = "「아, 아니요, 아무것도 아니에요」"
+
+[[dialogue]]
+speaker = "シルヴィ"
+original = "「そう？\u3000ま、何かあったら頼ってね。今日はありがとう。またよろしくね！」"
+translation = "「그래? 뭐, 무슨 일 있으면 의지해 줘. 오늘 고마웠어. 또 잘 부탁해!」"
+
+[[dialogue]]
+speaker = "リィベル"
+original = "「そこは自分で書きなさいよ、ベテラン」"
+translation = "「그건 네가 직접 써, 베테랑」"
+
+[[dialogue]]
+speaker = "モネ"
+original = "「あはは……」"
+translation = "「아하하……」"
+
+[[dialogue]]
+speaker = "モネ"
+original = "「１年生の時にプリマステラになっている人も多いのに、私は２年生になってもプリマステラになれないまま……」"
+translation = "「1학년 때 프리마스텔라가 된 사람도 많은데, 저는 2학년이 되어도 프리마스텔라가 되지 못한 채……」"
+
+[[dialogue]]
+speaker = "モネ"
+original = "「戦闘服も増えて、いろんな戦い方ができるようになりましたし、実力も付いてきたと思います」"
+translation = "「전투복도 늘어나고, 여러 가지 싸움법을 구사할 수 있게 되었고, 실력도 붙었다고 생각해요」"
+
+[[dialogue]]
+speaker = "モネ"
+original = "「でも、やっぱり私がプリマステラに相応しいとは思えなくて……」"
+translation = "「하지만 역시 제가 프리마스텔라에 어울린다고는 생각되지 않아서……」"
+
+[[dialogue]]
+speaker = "ミア"
+original = "「会長さん、大変！\u3000不審者……というかあいつが校門に！」"
+translation = "「회장님, 큰일이에요! 수상한 사람……이라기보다 그 녀석이 교문에!」"
+
+[[dialogue]]
+speaker = "イングリット"
+original = "「出てこい、魔王。ここにいるのは分かっているぞ！」"
+translation = "「나와라, 마왕. 여기 있는 건 알고 있다!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "イングリットはかつて星騎士と敵対していた組織、コラプサーの一員だ。"
+translation = "잉그리드는 과거 성기사와 적대했던 조직, 콜랩서의 일원이다."
+
+[[dialogue]]
+speaker = "unk"
+original = "生粋の戦闘狂であり、時折、強敵を求めて学園に出没する。"
+translation = "태생부터 전투광이며, 가끔 강적을 찾아 학원에 출몰한다."
+
+[[dialogue]]
+speaker = "ミア"
+original = "「早く<ruby>保護者<rt>レイラさん</rt></ruby>を呼んで、引き取ってもらわないと……」"
+translation = "「빨리 보호자를 불러서 데려가게 하지 않으면……」"
+
+[[dialogue]]
+speaker = "イングリット"
+original = "「見つけたぞ、魔王！\u3000私と戦え！」"
+translation = "「찾았다, 마왕! 나와 싸워라!」"
+
+[[dialogue]]
+speaker = "モネ"
+original = "「……あの、会長？\u3000じっと見つめてどうしたんですか？」"
+translation = "「……저기, 회장님? 빤히 쳐다보고 왜 그러세요?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "戦ってみる？"
+translation = "싸워 볼래?"
+
+[[dialogue]]
+speaker = "モネ"
+original = "「わ、私がですか！？」"
+translation = "「제, 제가요!?」"
+
+[[dialogue]]
+speaker = "イングリット"
+original = "「そいつが私と戦うだと？\u3000なよなよして見るからに弱そうだ。弱者に興味はない、どけ」"
+translation = "「그 녀석이 나와 싸우겠다고? 나약해 보여서 딱 봐도 약해 빠졌군. 약자에게는 흥미 없다, 비켜라」"
+
+[[dialogue]]
+speaker = "モネ"
+original = "「……っ」"
+translation = "「……윽」"
+
+[[dialogue]]
+speaker = "モネ"
+original = "（もちろん、会長やウィステリアさんと比べたら、私なんてまだまだだ。……だけど）"
+translation = "(물론, 회장님이나 위스테리아 씨와 비교하면 나는 아직 멀었어. ……하지만)"
+
+[[dialogue]]
+speaker = "モネ"
+original = "「私はもう、弱くない！！\u3000私なりにいろんなことを乗り越えて、強くなったんです！！」"
+translation = "「저는 이제 약하지 않아요!! 나름대로 여러 가지 일을 극복하고 강해졌단 말이에요!!」"
+
+[[dialogue]]
+speaker = "モネ（覚醒）"
+original = "「『傲慢』の魔将、紙屋敷モネが受けて立ちます！」"
+translation = "「『오만』의 마장, 카미야시키 모네가 상대해 드리겠습니다!」"
+
+[[dialogue]]
+speaker = "イングリット"
+original = "「この気配、星力ではない……魔力か！\u3000それも桁外れの力を感じるぞ。面白い！」"
+translation = "「이 기색, 성력이 아니군…… 마력인가! 그것도 규격 외의 힘이 느껴지는군. 재미있어!」"
+
+[[dialogue]]
+speaker = "モネ（覚醒）"
+original = "「レオニスファング！」"
+translation = "「레오니스 팡!」"
+
+[[dialogue]]
+speaker = "イングリット"
+original = "「ヘルズリッパー！」"
+translation = "「헬즈 리퍼!」"
+
+[[dialogue]]
+speaker = "イングリット"
+original = "「なかなかやる！\u3000これでどうだ！」"
+translation = "「제법 하는군! 이건 어떠냐!」"
+
+[[dialogue]]
+speaker = "モネ（覚醒）"
+original = "「魔将の力は……こんなものじゃない！」"
+translation = "「마장의 힘은…… 이 정도가 아니에요!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "繰り広げられる技の応酬。手練れのイングリットに対しても、互角どころか、優勢に戦いを進めている。"
+translation = "펼쳐지는 기술의 응수. 노련한 잉그리드를 상대로도 호각은커녕 우세하게 전투를 이끌어 나가고 있다."
+
+[[dialogue]]
+speaker = "イングリット"
+original = "「はぁ、はぁ……ふははは！\u3000楽しい、楽しいぞ！\u3000強いな、お前！」"
+translation = "「하아, 하아…… 푸하하하! 즐겁다, 즐거워! 강하구나, 너!」"
+
+[[dialogue]]
+speaker = "イングリット"
+original = "「だが、勝つのは私だ！\u3000次の一撃で仕留める！」"
+translation = "「하지만 이기는 건 나다! 다음 일격으로 끝내주마!」"
+
+[[dialogue]]
+speaker = "モネ（覚醒）"
+original = "（自分勝手に戦い始めて、追い詰められているのに喜んで、変な人）"
+translation = "(멋대로 싸움을 걸어놓고, 몰리고 있는데 기뻐하다니, 이상한 사람)"
+
+[[dialogue]]
+speaker = "モネ（覚醒）"
+original = "（でも、今なら分かる。この人は自分の欲望に忠実なだけ）"
+translation = "(하지만 지금이라면 알 것 같아. 이 사람은 자신의 욕망에 충실할 뿐)"
+
+[[dialogue]]
+speaker = "モネ（覚醒）"
+original = "（私もきっと同じだ。本を読むためならどんなに追い詰められても構わないし、小説を書いて罵られたって気にしない）"
+translation = "(나도 분명 마찬가지야. 책을 읽기 위해서라면 아무리 몰려도 상관없고, 소설을 써서 욕을 먹어도 신경 쓰지 않아)"
+
+[[dialogue]]
+speaker = "モネ（覚醒）"
+original = "「それが私の、私だけの傲慢！」"
+translation = "「그것이 나의, 나만의 오만!」"
+
+[[dialogue]]
+speaker = "イングリット"
+original = "「ゆくぞ！\u3000ドゥーム・エクスキューション！！」"
+translation = "「간다! 둠 익스큐션!!」"
+
+[[dialogue]]
+speaker = "モネ（覚醒）"
+original = "「イングリットさん。私は、あなたに勝ちたい！\u3000──叩き潰せ、アロガントスレッジハンマー！！」"
+translation = "「잉그리드 씨. 저는 당신에게 이기고 싶어요! ──짓뭉개버려라, 애러건트 슬레지해머!!」"
+
+[[dialogue]]
+speaker = "イングリット"
+original = "「くっ……」"
+translation = "「큭……」"
+
+[[dialogue]]
+speaker = "モネ（覚醒）"
+original = "「私の、勝ちです」"
+translation = "「저의, 승리예요」"
+
+[[dialogue]]
+speaker = "ミア"
+original = "「モネ先輩すごい！\u3000ひとりでコラプサーに勝っちゃった！」"
+translation = "「모네 선배 대단해! 혼자서 콜랩서를 이겨버렸어!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "以前と比べて弱体化したとはいえ、コラプサーは並のプリマステラより強い。これは大きな勝利だ。"
+translation = "이전보다 약체화되었다고는 해도 콜랩서는 평범한 프리마스텔라보다 강하다. 이것은 커다란 승리다."
+
+[[dialogue]]
+speaker = "イングリット"
+original = "「ふん、今回は譲ってやる。次は負けんからな」"
+translation = "「흥, 이번엔 양보해주지. 다음엔 지지 않을 테니까」"
+
+[[dialogue]]
+speaker = "モネ（覚醒）"
+original = "「はい。いつでも受けて立ちますよ」"
+translation = "「네. 언제든 상대해 드릴게요」"
+
+[[dialogue]]
+speaker = "unk"
+original = "イングリットの攻撃的な視線を、真っ向から受け止めるモネ。この一戦はモネを大きく成長させたようだ。"
+translation = "잉그리드의 공격적인 시선을 정면으로 받아내는 모네. 이 일전은 모네를 크게 성장시킨 듯하다."
+
+[[dialogue]]
+speaker = "イングリット"
+original = "「それにしても、戦ったら腹が減ったな。何か食わせろ」"
+translation = "「그건 그렇고, 싸웠더니 배가 고프군. 뭐 좀 먹여다오」"
+
+[[dialogue]]
+speaker = "モネ（覚醒）"
+original = "「ふふ。本当に自由な方ですね。おすすめのカレー屋さんがあるんです。ご一緒しませんか？」"
+translation = "「후후. 정말 자유로운 분이시네요. 추천하는 카레 가게가 있어요. 같이 가시지 않을래요?」"
+
+[[dialogue]]
+speaker = "イングリット"
+original = "「それは構わんが、貴様のおごりだろうな？」"
+translation = "「그건 상관없다만, 네가 쏘는 거겠지?」"
+
+[[dialogue]]
+speaker = "モネ（覚醒）"
+original = "「いいんですか！？\u3000なかなか一緒に行ってくれる人がいなかったので嬉しいです！\u3000せっかくだからスぺシャルカレーをご馳走しますね」"
+translation = "「괜찮으시겠어요!? 좀처럼 같이 가줄 사람이 없어서 기뻐요! 기왕 가는 거 스페셜 카레로 대접할게요」"
+
+[[dialogue]]
+speaker = "イングリット"
+original = "「スペシャルだと？\u3000それは期待できそうだ。くく、話の分かるヤツじゃないか」"
+translation = "「스페셜이라고? 그거 기대되는군. 크크, 말이 통하는 녀석이잖아」"
+
+[[dialogue]]
+speaker = "モネ（覚醒）"
+original = "「会長はどうされますか？」"
+translation = "「회장님은 어떻게 하실래요?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "……俺はちょっと用事があるから"
+translation = "……나는 좀 볼일이 있어서"
+
+[[dialogue]]
+speaker = "モネ（覚醒）"
+original = "「ミアさんは？」"
+translation = "「미아 씨는요?」"
+
+[[dialogue]]
+speaker = "ミア"
+original = "「私は──」"
+translation = "「저는──」"
+
+[[dialogue]]
+speaker = "unk"
+original = "（やめておいた方がいい……）"
+translation = "(그만두는 게 좋아……)"
+
+[[dialogue]]
+speaker = "ミア"
+original = "（どうして止めるの？\u3000……え？\u3000モネ先輩と一緒に食事に行くのは危険……？）"
+translation = "(왜 말리는 거야? ……에? 모네 선배랑 같이 식사하러 가는 건 위험해……?)"
+
+[[dialogue]]
+speaker = "ミア"
+original = "「わ、私は遠慮しておきます……」"
+translation = "「저, 저는 사양할게요……」"
+
+[[dialogue]]
+speaker = "モネ（覚醒）"
+original = "「分かりました。じゃあ、イングリットさんとふたりで行ってきますね」"
+translation = "「알겠습니다. 그럼 잉그리드 씨랑 둘이서 다녀올게요」"
+
+[[dialogue]]
+speaker = "unk"
+original = "しばらく後、モネは無事試験に合格し、プリマステラになった。"
+translation = "얼마 후, 모네는 무사히 시험에 합격하여 프리마스텔라가 되었다."
+
+[[dialogue]]
+speaker = "unk"
+original = "なおイングリットは──理由は不明だが、その後モネを避けるようになってしまったという。"
+translation = "덧붙여 잉그리드는── 이유는 불명이지만, 그 후 모네를 피하게 되었다고 한다."
+

@@ -1,0 +1,240 @@
+[[dialogue]]
+speaker = "unk"
+original = "第３話,お肉の恨みは恐ろしい,P"
+translation = "제3화, 고기 원한은 무서운 법 / P"
+
+[[dialogue]]
+speaker = "アルテ"
+original = "「ふふふ、ようやくこの時が来ましたね♪」"
+translation = "「후후후, 드디어 이때가 왔군요♪」"
+
+[[dialogue]]
+speaker = "unk"
+original = "アルテの頬が思い切り緩んでいた。"
+translation = "아르테의 입가가 잔뜩 풀려 있었다."
+
+[[dialogue]]
+speaker = "unk"
+original = "何故なら、今日は以前より念願だったお店に、黒毛和牛のステーキを食べに来たからだ。"
+translation = "왜냐하면 오늘은 이전부터 염원하던 가게에 흑우 스테이크를 먹으러 왔기 때문이다."
+
+[[dialogue]]
+speaker = "アルテ"
+original = "「まさか本当に食べさせてもらえるとは。奥ゆかしいアピールをし続けた甲斐があったというものです」"
+translation = "「설마 정말로 사주실 줄이야. 정숙하게 어필을 계속한 보람이 있었군요.」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「星徒会室に来るといつも、机の上にグルメ雑誌が拡げられてたんだけど……」"
+translation = "「성도회실에 올 때마다 항상 책상 위에 맛집 잡지가 펼쳐져 있었는데……」"
+
+[[dialogue]]
+speaker = "unk"
+original = "あれが奥ゆかしい……？"
+translation = "그게 정숙한 거야……?"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「まあいいわ。せっかくこっちの世界に来てるんだから、美味しいものを食べていって欲しいじゃない」"
+translation = "「뭐 어때. 기왕 이쪽 세계에 왔으니까 맛있는 걸 좀 먹고 갔으면 하잖아.」"
+
+[[dialogue]]
+speaker = "アルテ"
+original = "「素晴らしい心がけです。きっと来世でも幸せな人生を送れることでしょう」"
+translation = "「훌륭한 마음가짐입니다. 분명 다음 생에서도 행복한 인생을 보내실 수 있을 거예요.」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「アルテさんが元々いた世界のお肉料理はどうだったんですか？」"
+translation = "「아르테 씨가 원래 있던 세계의 고기 요리는 어땠나요?」"
+
+[[dialogue]]
+speaker = "アルテ"
+original = "「もちろん美味しいお店はありますよ。ですが館長のお財布の紐が硬いので、めったに食べさせてもらえないのです」"
+translation = "「물론 맛있는 가게는 있어요. 하지만 관장의 지갑 끈이 단단해서 좀처럼 사주지 않는단 말이죠.」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「そうなの？\u3000世界で一番の美術館なんだから、お金を持っていても不思議じゃないのに」"
+translation = "「그래? 세계 최고의 미술관이니까 돈이 많아도 이상하지 않을 텐데.」"
+
+[[dialogue]]
+speaker = "アルテ"
+original = "「お金儲けを目的に経営をしてませんからね。おかげでいつも懐が寂しいみたいです」"
+translation = "「돈벌이를 목적으로 경영하지 않으니까요. 덕분에 항상 주머니가 가난한 모양입니다.」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「へぇ、立派な志じゃない」"
+translation = "「헤에, 훌륭한 신념이잖아.」"
+
+[[dialogue]]
+speaker = "アルテ"
+original = "「立派なのはお肉だけで結構です」"
+translation = "「훌륭한 건 고기만으로 충분해요.」"
+
+[[dialogue]]
+speaker = "アルテ"
+original = "「そうだ、この世界で食べたお肉のお味は、館長にも詳しく教えてあげましょう。きっと泣いて羨ましがるはずです」"
+translation = "「맞다, 이 세계에서 먹은 고기 맛은 관장에게도 자세히 알려줘야겠어요. 분명 울면서 부러워할 겁니다.」"
+
+[[dialogue]]
+speaker = "アルテ"
+original = "「ふふ、よだれを垂らす館長の顔が目に浮かびます♪」"
+translation = "「후후, 침을 흘리는 관장의 얼굴이 눈에 선하네요♪」"
+
+[[dialogue]]
+speaker = "unk"
+original = "そんな話をしながら街を歩き、いよいよ念願のステーキハウスの近くまでやってくる。"
+translation = "그런 이야기를 하며 거리를 걸어, 드디어 염원하던 스테이크 하우스 근처까지 도착한다."
+
+[[dialogue]]
+speaker = "アルテ"
+original = "「あぁ、いよいよ念願のブランド肉を食べられるのですね」"
+translation = "「아아, 드디어 염원하던 브랜드 육을 먹을 수 있겠군요.」"
+
+[[dialogue]]
+speaker = "アルテ"
+original = "「しかし……お店の前に列が出来ていますね？\u3000大丈夫なのですか？」"
+translation = "「하지만…… 가게 앞에 줄이 서 있는데요? 괜찮은 건가요?」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「大丈夫よ、ちゃんと１２時から予約してあるから」"
+translation = "「괜찮아, 제대로 12시로 예약해 뒀으니까.」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「いつもなら予約を取るのが大変なんだけど、キャンセルが出て、たまたま空き枠ができてね。運が良かったわ」"
+translation = "「평소라면 예약 잡기 힘든 곳인데 취소 표가 나와서 운 좋게 빈 자리가 생겼거든. 운이 좋았어.」"
+
+[[dialogue]]
+speaker = "アルテ"
+original = "「ほう、それは本当に幸運ですね。きっとお肉たちも、この天才美少女藝術家に食べられたがっているのでしょう」"
+translation = "「호오, 그건 정말 행운이군요. 분명 고기들도 이 천재 미소녀 예술가에게 먹히고 싶어 하는 거겠죠.」"
+
+[[dialogue]]
+speaker = "アルテ"
+original = "「ん？\u3000では、なぜこの方たちは列を作っているのでしょう？」"
+translation = "「응? 그럼 왜 이분들은 줄을 서 있는 거죠?」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「予約枠がいっぱいだから遅刻したら大変でしょう？\u3000だから少し早めに来て並んでいるのね」"
+translation = "「예약이 꽉 차 있어서 늦으면 큰일 나잖아? 그래서 다들 조금 일찍 와서 늘어서 있는 거야.」"
+
+[[dialogue]]
+speaker = "アルテ"
+original = "「なるほど、そういうことでしたか」"
+translation = "「과연, 그런 거였군요.」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「私たちの予約時間も迫ってるからね。列の後ろに並ぼう──」"
+translation = "「우리 예약 시간도 다 됐으니까 줄 뒤에 서자──」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「──！\u3000近くでアステラが発生したみたい……！」"
+translation = "「──! 근처에서 아스텔라가 발생한 모양이야……!」"
+
+[[dialogue]]
+speaker = "アルテ"
+original = "「え……？」"
+translation = "「엣……?」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「大変！\u3000３人とも、行くわよ！」"
+translation = "「큰일이야! 다들 가자!」"
+
+[[dialogue]]
+speaker = "アルテ"
+original = "「いやでも、星騎士の方は大勢いるのですから、ここは他の方に任せても……」"
+translation = "「아니 하지만, 성기사분들은 많으니까 여기는 다른 분들께 맡겨도……」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「発生地点から近いのは私たちよ。一番早く駆けつけられるのは私たちだから！」"
+translation = "「발생 지점에서 가장 가까운 건 우리야. 제일 빨리 달려갈 수 있는 건 우리니까!」"
+
+[[dialogue]]
+speaker = "アルテ"
+original = "「待ってください。それじゃお肉は──」"
+translation = "「기다려 주세요. 그럼 제 고기는──」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「残念だけど、おあずけね」"
+translation = "「미안하지만 나중으로 미뤄야겠네.」"
+
+[[dialogue]]
+speaker = "アルテ"
+original = "「そ、そんな……」"
+translation = "「그, 그럴 수가……」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「仕方ないわ、恨むならモンスターを恨みなさい」"
+translation = "「어쩔 수 없어, 원망하려면 몬스터를 원망해.」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「アルテさん。急いで退治して戻ってきましょう」"
+translation = "「아르테 씨. 얼른 퇴치하고 돌아오죠.」"
+
+[[dialogue]]
+speaker = "アルテ"
+original = "「…………そうですね……さっさと始末して戻ってくればいいんです」"
+translation = "「…………그렇네요…… 얼른 해치우고 돌아오면 그만이에요.」"
+
+[[dialogue]]
+speaker = "アルテ"
+original = "「ふふふ……私の……お肉の邪魔をして、ただで済むとは思わないことですね……」"
+translation = "「후후후…… 제…… 고기를 방해하고 무사할 줄 알았다면 오산이에요……」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「アルテ、目が本気ね」"
+translation = "「아르테, 눈빛이 진심이네.」"
+
+[[dialogue]]
+speaker = "unk"
+original = "こんなやる気のあるアルテ初めてだ"
+translation = "이렇게 의욕 넘치는 아르테는 처음 봐"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「百人の味方を得た気分だけど、動機が不純過ぎるよ……」"
+translation = "「백 명의 아군을 얻은 기분이지만 동기가 너무 불순해……」"
+
+[[dialogue]]
+speaker = "アルテ"
+original = "「見つけました……あれがアステラとやらですね……私がこの手で葬ってあげましょう……！」"
+translation = "「찾았습니다…… 저게 아스텔라인가 뭔가 하는 거군요…… 제가 직접 장례를 치러주도록 하죠……!」"
+
+[[dialogue]]
+speaker = "アルテ"
+original = "「ローズブレードぉぉ～～～～っ！！！」"
+translation = "「로즈 블레이드으으으~~~~~!!!」"
+
+[[dialogue]]
+speaker = "モンスター"
+original = "「イ～～～～～～～ッ！！？」"
+translation = "「이이이이이이익!!?」"
+
+[[dialogue]]
+speaker = "アルテ"
+original = "「なんとしてでも１２時に間に合わせますよ！\u3000高いお肉のために！」"
+translation = "「어떻게 해서든 12시에 맞출 거예요! 비싼 고기를 위해서!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "さすが天才というべきか（？）、アルテが今までにない本気を発揮し、速やかにモンスターを駆逐てくれた。"
+translation = "역시 천재라고 해야 할지(?), 아르테가 지금까지 없던 진심을 발휘해 신속하게 몬스터를 구축해 주었다."
+
+[[dialogue]]
+speaker = "unk"
+original = "その後急いでステーキハウスに戻り、アルテは念願のブランド和牛を思う存分に堪能したのだった。"
+translation = "그 후 급히 스테이크 하우스로 돌아가 아르테는 염원하던 브랜드 와규를 마음껏 만끽했다."
+

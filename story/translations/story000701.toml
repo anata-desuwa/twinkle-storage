@@ -1,0 +1,255 @@
+[[dialogue]]
+speaker = "unk"
+original = "クリスマスパーティーが終わり、年末の最終登校日。"
+translation = "크리스마스 파티가 끝나고 연말 마지막 등교일."
+
+[[dialogue]]
+speaker = "unk"
+original = "流星学園星徒会書記、１年生の奏ソフィアは教室から出て、流星寮への帰路を急いでいた――"
+translation = "유성학원 성도회 서기, 1학년 카나데 소피아는 교실에서 나와 유성 기숙사로 가는 귀갓길을 서두르고 있었다――"
+
+[[dialogue]]
+speaker = "ソフィア"
+original = "「うー、寒いです……」"
+translation = "「우으, 추워요……」"
+
+[[dialogue]]
+speaker = "ソフィア"
+original = "（冬なんて存在しなければいいのに……まぁ、故郷のレゾフに比べればマシですが……）"
+translation = "(겨울 같은 건 존재하지 않으면 좋을 텐데…… 뭐, 고향인 레조프에 비하면 나은 편이지만……)"
+
+[[dialogue]]
+speaker = "？？？"
+original = "「あっ、いたいた！\u3000ソフィア～♪」"
+translation = "「앗, 찾았다 찾았다! 소피아~♪」"
+
+[[dialogue]]
+speaker = "？？？"
+original = "「置いてくなんて酷いじゃ～ん。気づいたら、いつの間にか教室からいなくなってるし！」"
+translation = "「놓고 가다니 너무하잖아~. 정신 차려 보니 어느샌가 교실에서 사라져 있고!」"
+
+[[dialogue]]
+speaker = "ソフィア"
+original = "「ウズメさん……。同じ寮暮らしなんだから、わざわざ一緒に帰らなくても顔を合わせるでしょう」"
+translation = "「우즈메 씨……. 같은 기숙사 생활을 하니까 굳이 같이 돌아가지 않아도 마주칠 텐데요.」"
+
+[[dialogue]]
+speaker = "ウズメイア"
+original = "「え～、クラスメイトで友達じゃ～ん！\u3000今年１年頑張りましたってことで、他の子たちも誘って、打ち上げでカラオケ行かない？\u3000カラオケ！」"
+translation = "「에~ 클래스메이트이자 친구잖아~! 올 한 해 수고했다는 의미로 다른 애들도 불러서 뒤풀이로 노래방 가지 않을래? 노래방!」"
+
+[[dialogue]]
+speaker = "ソフィア"
+original = "「遠慮します。私はそれよりも、早く部屋に戻って、コタツでぬくぬくしたいです」"
+translation = "「사양하겠습니다. 저는 그보다 빨리 방으로 돌아가서 코타츠에서 뒹굴거리고 싶어요.」"
+
+[[dialogue]]
+speaker = "ウズメイア"
+original = "「あ～、コタツいいよね～♪\u3000１度知ってしまったら、それ無くしては生きられない魔性のアイテム……！\u3000日本伝統文化が生み出した、恐るべき傑作だし♪」"
+translation = "「아~ 코타츠 좋지~♪ 한번 맛 들이면 그것 없이는 살 수 없는 마성의 아이템……! 일본 전통문화가 낳은 무시무시한 걸작이라구♪」"
+
+[[dialogue]]
+speaker = "ソフィア"
+original = "「それに関しては全力で同意します。とにかく、お誘いはありがたいですが、私はカラオケよりもコタツでミカンです」"
+translation = "「그 점에 관해서는 전력으로 동의합니다. 어쨌든 권유는 감사합니다만, 저는 노래방보다 코타츠에서 귤입니다.」"
+
+[[dialogue]]
+speaker = "ウズメイア"
+original = "「そっか～。じゃあ、あたしも一緒にミカン食べよっかな！\u3000いろいろ美味しい和菓子持ってくね♪」"
+translation = "「그렇구나~. 그럼 나도 같이 귤 먹을까나! 여러 가지 맛있는 화과자 챙겨갈게♪」"
+
+[[dialogue]]
+speaker = "ソフィア"
+original = "「いや、なんで私の部屋に遊びにくる流れなんですか……ウズメさんの部屋にもコタツありますよね？」"
+translation = "「아니, 왜 제 방으로 놀러 오는 흐름인 건가요…… 우즈메 씨 방에도 코타츠 있잖아요?」"
+
+[[dialogue]]
+speaker = "ウズメイア"
+original = "「だって、ソフィアと打ち上げはやりたいし！\u3000ついでにお正月のスケジュールとかも決めちゃわない？\u3000初詣とか！」"
+translation = "「그치만 소피아랑 뒤풀이는 하고 싶다구! 겸사겸사 설날 스케줄 같은 것도 정해버리지 않을래? 하츠모데라든가!」"
+
+[[dialogue]]
+speaker = "ソフィア"
+original = "「お正月も一緒に遊ぶ気なんですか……」"
+translation = "「설날에도 같이 놀 생각인가요……」"
+
+[[dialogue]]
+speaker = "ソフィア"
+original = "「はぁ、仕方ないですね……いいですよ。ウズメさんは言い出したら、なかなか聞かないですし」"
+translation = "「하아, 어쩔 수 없네요…… 좋아요. 우즈메 씨는 한 번 말을 꺼내면 좀처럼 듣지 않으니까요.」"
+
+[[dialogue]]
+speaker = "ウズメイア"
+original = "「えへへ♪\u3000ソフィア、ありがと～！」"
+translation = "「에헤헤♪ 소피아, 고마워~!」"
+
+[[dialogue]]
+speaker = "ウズメイア"
+original = "「やっぱお正月は、初詣に行かないとね～！\u3000あっ！\u3000そうだ――」"
+translation = "「역시 설날은 하츠모데를 가야지~! 앗! 맞다――」"
+
+[[dialogue]]
+speaker = "ウズメイア"
+original = "「ソフィアはお姉さんとか誘ったりしないの？\u3000新星学園の、サーシャ先輩」"
+translation = "「소피아는 언니라든가 부르지 않아? 신성학원의 사샤 선배.」"
+
+[[dialogue]]
+speaker = "ソフィア"
+original = "「いえ、そういうのは特にないですね」"
+translation = "「아뇨, 그런 건 딱히 없네요.」"
+
+[[dialogue]]
+speaker = "ウズメイア"
+original = "「えっ、でも、姉妹じゃん？\u3000ソフィアも人間界に来て、せっかく近くにいられるようになったんだし、それくらい――」"
+translation = "「엣, 하지만 자매잖아? 소피아도 인간계에 와서 모처럼 가까이 있을 수 있게 됐으니까 그 정도는――」"
+
+[[dialogue]]
+speaker = "ソフィア"
+original = "「前も言いましたけど」"
+translation = "「전에도 말했습니다만.」"
+
+[[dialogue]]
+speaker = "ソフィア"
+original = "「私と姉さんの仲は、そんなホットじゃないです。それに――」"
+translation = "「저랑 언니 사이는 그렇게 핫하지 않아요. 게다가――」"
+
+[[dialogue]]
+speaker = "ソフィア"
+original = "「今はもう、子供じゃないので。必要以上にベタベタしたりする気はありません」"
+translation = "「이제는 어린애가 아니니까요. 필요 이상으로 끈적하게 굴 생각은 없습니다.」"
+
+[[dialogue]]
+speaker = "ウズメイア"
+original = "「う～ん、そっか～」"
+translation = "「으음, 그렇구나~」"
+
+[[dialogue]]
+speaker = "ソフィア"
+original = "「って、こんな外で立ち話していたら、ますます体が冷えますよ。早く帰りましょう」"
+translation = "「그보다 이런 밖에서 서서 이야기하면 점점 몸이 식어요. 빨리 돌아가죠.」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ソフィアは足早に、流星寮へと歩いていく。"
+translation = "소피아는 빠른 걸음으로 유성 기숙사를 향해 걸어간다."
+
+[[dialogue]]
+speaker = "ウズメイア"
+original = "「…………」"
+translation = "「…………」"
+
+[[dialogue]]
+speaker = "unk"
+original = "その背中を、ウズメイアは少し考えるように見つめるのだった――"
+translation = "그 뒷모습을 우즈메이야는 조금 생각에 잠긴 듯 바라보는 것이었다――"
+
+[[dialogue]]
+speaker = "unk"
+original = "一方その頃。……こちらも今日が登校最終日の、新星学園星徒会室。"
+translation = "한편 그 무렵. ……이쪽도 오늘이 등교 마지막 날인 신성학원 성도회실."
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「――できた！\u3000私、ついにやったわ……！」"
+translation = "「――됐다! 나, 마침내 해냈어……!」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「見なさい、クロト！\u3000とうとう私――」"
+translation = "「보렴, 쿠로토! 드디어 나――」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「書類を１枚仕上げたのよ！\u3000すごいでしょ！」"
+translation = "「서류를 한 장 완성했어! 대단하지!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "えっ！？\u3000本当に！？"
+translation = "엣!? 정말로!?"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「本当よ！\u3000ほらほら！」"
+translation = "「정말이야! 자 자!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "そう言って渡された書類を確認すると、必要事項が間違いなく書き込まれている。"
+translation = "그렇게 말하며 건네받은 서류를 확인하자, 필요 사항이 틀림없이 기입되어 있다."
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「――天気がいいのに、雨でも降るんじゃないかって？\u3000もうっ、褒めてくれたっていいじゃない！」"
+translation = "「――날씨가 좋은데 비라도 내리는 거 아니냐고? 정말, 칭찬해 줘도 되잖아!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "（ヴィーナスの頭を撫でて褒める）"
+translation = "(비너스의 머리를 쓰다듬으며 칭찬한다)"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「あっ……♪\u3000えっへへ～♪」"
+translation = "「앗……♪ 에헤헤~♪」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「これでも私、クロトが大変そうにしてるのを見て、手伝えるようになろうって頑張ったんだから」"
+translation = "「이래 봬도 나, 쿠로토가 고생하는 걸 보고 도와줄 수 있게 되려고 노력했으니까.」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「今はたかが１枚かもしれないけど、私にとっては大きな１歩よ！」"
+translation = "「지금은 고작 한 장일지 모르지만, 나에게 있어서는 커다란 한 걸음이야!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "と、その時、星徒会室の扉を叩く音がした。"
+translation = "그때 성도회실 문을 두드리는 소리가 났다."
+
+[[dialogue]]
+speaker = "ウズメイア"
+original = "「こんにちは～。今、失礼しても大丈夫ですか？」"
+translation = "「안녕 하세요~. 지금 실례해도 괜찮을까요?」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「あら、ウズメじゃない！」"
+translation = "「어라, 우즈메 아니니!」"
+
+[[dialogue]]
+speaker = "ウズメイア"
+original = "「ヴィーナス先輩、こんにちは～♪\u3000それに会長さん、はじめまして！\u3000会長さんのことは、ソフィアからよく聞いてますっ」"
+translation = "「비너스 선배, 안녕하세요~♪ 그리고 회장님, 처음 뵙겠습니다! 회장님에 대해서는 소피아한테 자주 들었어요.」"
+
+[[dialogue]]
+speaker = "ウズメイア"
+original = "「あたし、ソフィアのクラスメイトで、流星学園１年生の、<ruby>雨野<rt>あめの</rt></ruby>ウズメイアって言います！」"
+translation = "「나, 소피아의 클래스메이트이자 유성학원 1학년인 아메노 우즈메이야라고 합니다!」"
+
+[[dialogue]]
+speaker = "ウズメイア"
+original = "「それで今日は、新星星徒会の方にお願いしたいことがあって、来たんですけど……」"
+translation = "「그래서 오늘은 신성 성도회 분들께 부탁드리고 싶은 게 있어서 왔는데요……」"
+
+[[dialogue]]
+speaker = "unk"
+original = "お願いしたいこと？"
+translation = "부탁하고 싶은 것?"
+
+[[dialogue]]
+speaker = "ウズメイア"
+original = "「はい。実はあたし――」"
+translation = "「네. 사실 나――」"
+
+[[dialogue]]
+speaker = "ウズメイア"
+original = "「ソフィアとサーシャ先輩が、姉妹一緒に初詣へ行けるようにしたいんです！」"
+translation = "「소피아랑 사샤 선배가 자매끼리 같이 하츠모데에 갈 수 있게 하고 싶어요!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "こうして俺たちは、<ruby>奏<rt>かなで</rt></ruby>姉妹を巡るお正月を迎えることになるのだった――"
+translation = "이렇게 해서 우리들은 카나데 자매를 둘러싼 설날을 맞이하게 되는 것이었다――"
+

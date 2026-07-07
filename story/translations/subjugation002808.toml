@@ -1,0 +1,275 @@
+[[dialogue]]
+speaker = "ウズメイア"
+original = "「どうだった？\u3000あたしらとのバトル、満足してくれた？」"
+translation = "「어땠어? 우리와의 배틀, 만족해줬어?」"
+
+[[dialogue]]
+speaker = "ソフィア"
+original = "「戦いの後は甘いものです。さあ、私の作ったパンケーキをどうぞ召し上がってください」"
+translation = "「싸움 뒤에는 단것이죠. 자, 제가 만든 팬케이크를 드셔보세요.」"
+
+[[dialogue]]
+speaker = "ジャック"
+original = "「ケラケラケラ♪」"
+translation = "「케라케라케라♪」"
+
+[[dialogue]]
+speaker = "ゆーちゃん"
+original = "「ゆー、ゆー」"
+translation = "「유-, 유-」"
+
+[[dialogue]]
+speaker = "ヒトリ"
+original = "「ソフィアさんのパンケーキ、とっても美味しいって言ってます」"
+translation = "「소피아 씨의 팬케이크가 무척 맛있다고 하고 있어요.」"
+
+[[dialogue]]
+speaker = "ジャクリーヌ"
+original = "「パパ、満足したゆ？\u3000だったら２人のことを元に戻すゆ！」"
+translation = "「아빠, 만족했냐유? 그렇다면 두 사람을 원래대로 되돌려라유!」"
+
+[[dialogue]]
+speaker = "ジャック"
+original = "「ケラケラケラ♪」"
+translation = "「케라케라케라♪」"
+
+[[dialogue]]
+speaker = "ジャクリーヌ"
+original = "「ダメゆ！\u3000確かにソフィアやウズメイアの衣装はとっても似合ってるゆ！\u3000パンケーキもとっても美味しいゆ！」"
+translation = "「안 된다유! 확실히 소피아나 우즈메이야의 의상은 무척 잘 어울린다유! 팬케이크도 무척 맛있다유!」"
+
+[[dialogue]]
+speaker = "ジャクリーヌ"
+original = "「でも約束は約束ゆ！\u3000約束は破っちゃダメゆ！\u3000約束を破ったら悪い幽霊になってしまうゆ！」"
+translation = "「하지만 약속은 약속이다유! 약속은 어기면 안 된다유! 약속을 어기면 나쁜 유령이 되어버린다유!」"
+
+[[dialogue]]
+speaker = "ヒトリ"
+original = "「ジャクリーヌちゃん……」"
+translation = "「자클린 짱……」"
+
+[[dialogue]]
+speaker = "セナリィ（覚醒）"
+original = "「すばらしいですわ……ジャクリーヌ様、人間界での生活できちんと成長していますのね」"
+translation = "「훌륭해요…… 자클린 님, 인간계 생활을 하며 제대로 성장하고 계시군요.」"
+
+[[dialogue]]
+speaker = "ネーゼマイン"
+original = "「いつまでたっても学ばないヒトもいるけどね～」"
+translation = "「아무리 시간이 지나도 배우지 못하는 사람도 있지만 말이야~」"
+
+[[dialogue]]
+speaker = "セナリィ（覚醒）"
+original = "「うるさいですわ！」"
+translation = "「시끄러워요!」"
+
+[[dialogue]]
+speaker = "ジャック"
+original = "「ケラケラケラ♪」"
+translation = "「케라케라케라♪」"
+
+[[dialogue]]
+speaker = "ソフィア"
+original = "「あ……」"
+translation = "「아……」"
+
+[[dialogue]]
+speaker = "ウズメイア"
+original = "「戦闘服、元に戻ったし」"
+translation = "「전투복, 원래대로 돌아왔어.」"
+
+[[dialogue]]
+speaker = "ソフィア"
+original = "「よかったです。今度こそ解決ですね」"
+translation = "「다행이에요. 이번에야말로 해결이네요.」"
+
+[[dialogue]]
+speaker = "ジャクリーヌ"
+original = "「さあ！\u3000もう十分楽しんだゆ？\u3000大人しく帰るの！」"
+translation = "「자! 이제 충분히 즐겼냐유? 얌전히 돌아가는 거다유!」"
+
+[[dialogue]]
+speaker = "ジャック"
+original = "「ケラケラケラ♪」"
+translation = "「케라케라케라♪」"
+
+[[dialogue]]
+speaker = "ゆーちゃん"
+original = "「ゆー、ゆー」"
+translation = "「유-, 유-」"
+
+[[dialogue]]
+speaker = "ヒトリ"
+original = "「笑ってるけど結構凹んでるみたいです」"
+translation = "「웃고 있지만 꽤 풀 죽은 모양이에요.」"
+
+[[dialogue]]
+speaker = "ウズメイア"
+original = "「まあまあ、そこまで邪険にしなくてもいいんじゃない？」"
+translation = "「뭐 뭐, 그렇게까지 박하게 굴 것 없잖아?」"
+
+[[dialogue]]
+speaker = "ソフィア"
+original = "「そうですよ。ハロウィンはまだ終わっていませんし、久しぶりの親子再会ではありませんか」"
+translation = "「맞아요. 할로윈은 아직 끝나지 않았고, 오랜만의 부녀 재회 아닙니까.」"
+
+[[dialogue]]
+speaker = "unk"
+original = "もう少し遊んでいってもらおう"
+translation = "조금 더 놀다 가게 해주자."
+
+[[dialogue]]
+speaker = "unk"
+original = "いいと思う"
+translation = "괜찮다고 생각해."
+
+[[dialogue]]
+speaker = "ヒトリ"
+original = "「い、いいんですか？\u3000またジャックさんが暴走してしまったら……」"
+translation = "「그, 그래도 될까요? 또 잭 씨가 폭주해 버린다면……」"
+
+[[dialogue]]
+speaker = "ウズメイア"
+original = "「いいっていいって、そん時はあたしらがまた止めればいーっしょ♪」"
+translation = "「괜찮대도, 그때는 우리가 또 막으면 되잖아♪」"
+
+[[dialogue]]
+speaker = "ソフィア"
+original = "「そうですね。ジャクリーヌさん、ジャックさん。一緒に残りのハロウィンを楽しみましょう」"
+translation = "「그러네요. 자클린 씨, 잭 씨. 같이 남은 할로윈을 즐기도록 하죠.」"
+
+[[dialogue]]
+speaker = "unk"
+original = "こうしてジャクリーヌのパパであるジャックオーランタンのジャックを加えて、ハロウィンパーティーを楽しんだ。"
+translation = "이렇게 자클린의 아빠인 잭 오 랜턴 잭을 더해 할로윈 파티를 즐겼다."
+
+[[dialogue]]
+speaker = "unk"
+original = "日が暮れて、饗宴が落ち着き始めると、ジャックも魔界に帰っていった。"
+translation = "해가 저물고 향연이 잦아들기 시작하자 잭도 마계로 돌아갔다."
+
+[[dialogue]]
+speaker = "unk"
+original = "それを娘であるジャクリーヌと、ソフィア、ウズメイアたちと一緒に見送った。"
+translation = "그것을 딸인 자클린과 소피아, 우즈메이야 일행과 함께 배웅했다."
+
+[[dialogue]]
+speaker = "ジャクリーヌ"
+original = "「やっと帰ったゆ。パパにも困ったものゆ」"
+translation = "「겨우 돌아갔다유. 아빠도 참 골칫덩이라유.」"
+
+[[dialogue]]
+speaker = "ソフィア"
+original = "「そんなこと言いつつ楽しそうにしていたじゃありませんか」"
+translation = "「그렇게 말씀하시면서 즐거워 보이지 않으셨나요?」"
+
+[[dialogue]]
+speaker = "ソフィア"
+original = "「お父さんと会うのも久しぶりでしょうし、一緒に遊べて嬉しかったんじゃありませんか？」"
+translation = "「아버님과 만나는 것도 오랜만일 테고, 같이 놀 수 있어서 기쁘지 않았나요?」"
+
+[[dialogue]]
+speaker = "ジャクリーヌ"
+original = "「そ、そんなことないゆ！\u3000パパがいなくても寂しくなんてないゆ！」"
+translation = "「그, 그렇지 않다유! 아빠가 없어도 외롭지 않다유!」"
+
+[[dialogue]]
+speaker = "ソフィア"
+original = "「ふふ、無理することなんてないのに……」"
+translation = "「후후, 무리할 것 없는데……」"
+
+[[dialogue]]
+speaker = "ウズメイア"
+original = "「ふんふん……ソフィが言うと重みが違うし」"
+translation = "「흠흠…… 소피가 말하니까 무게감이 다르네.」"
+
+[[dialogue]]
+speaker = "ソフィア"
+original = "「っ……！\u3000ウズメ、余計なことは言わないでください」"
+translation = "「윽……! 우즈메, 쓸데없는 소리는 하지 마세요.」"
+
+[[dialogue]]
+speaker = "ジャクリーヌ"
+original = "「ゆ？\u3000ソフィアもパパに会いたくて寂しがってるゆ？」"
+translation = "「유? 소피아도 아빠가 보고 싶어서 외로워하는 거냐유?」"
+
+[[dialogue]]
+speaker = "ウズメイア"
+original = "「ソフィの場合はお姉さんだけどね。サーシャ先輩に対してすっごくツンツンしてたことあったし」"
+translation = "「소피의 경우는 언니지만 말이야. 사샤 선배한테 엄청 츤츤거렸던 적이 있었거든.」"
+
+[[dialogue]]
+speaker = "ソフィア"
+original = "「あれはツンツンしていたわけではありません。姉さんが適切な距離というものをわきまえずベタベタしてくるのがいけないんです」"
+translation = "「그건 츤츤거린 게 아닙니다. 언니가 적절한 거리라는 걸 모르고 끈적하게 달라붙는 게 잘못인 거예요.」"
+
+[[dialogue]]
+speaker = "ジャクリーヌ"
+original = "「ゆっゆっゆ、ソフィアは甘えん坊だゆ♪」"
+translation = "「유유유, 소피아는 어리광쟁이라유♪」"
+
+[[dialogue]]
+speaker = "ソフィア"
+original = "「こ、この話はもうやめましょう……！」"
+translation = "「이, 이 이야기는 이제 그만해요……!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ジャクリーヌとソフィアとウズメイア。"
+translation = "자클린과 소피아 그리고 우즈메이야."
+
+[[dialogue]]
+speaker = "unk"
+original = "このハロウィンを通じて、３人は随分と打ち解け、仲良くなったようだった。"
+translation = "이 할로윈을 통해 세 사람은 꽤 허물없어지고 친해진 모양이었다."
+
+[[dialogue]]
+speaker = "unk"
+original = "こんなに仲のいい友達が出来た"
+translation = "이렇게나 친한 친구가 생겼네."
+
+[[dialogue]]
+speaker = "unk"
+original = "よかったな、ジャクリーヌ"
+translation = "다행이야, 자클린."
+
+[[dialogue]]
+speaker = "ジャクリーヌ"
+original = "「人間界に来たときは、友達、なんてものができるとは思ってなかったゆ」"
+translation = "「인간계에 왔을 때는 친구 같은 게 생길 줄은 몰랐다유.」"
+
+[[dialogue]]
+speaker = "ジャクリーヌ"
+original = "「それが、ヒトリと友達になって、ソフィアやウズメイアと友達になって……」"
+translation = "「그런데 히토리와 친구가 되고, 소피아나 우즈메이야와 친구가 되고……」"
+
+[[dialogue]]
+speaker = "ジャクリーヌ"
+original = "「余は美味しいお菓子を食べたくて人間界にやってきたゆ……でも、今はそれだけじゃなくなってるゆ！」"
+translation = "「여는 맛있는 과자를 먹고 싶어서 인간계에 왔다유…… 하지만 지금은 그것뿐만이 아니게 됐다유!」"
+
+[[dialogue]]
+speaker = "ジャクリーヌ"
+original = "「上手く言えないけど……余は、ここにきて良かったゆっ！」"
+translation = "「잘 말할 순 없지만…… 여는 여기 오길 잘했다유!」"
+
+[[dialogue]]
+speaker = "ウズメイア"
+original = "「こちらこそだし！\u3000人間界に来てくれてありがとう♪」"
+translation = "「이쪽이야말로! 인간계에 와줘서 고마워♪」"
+
+[[dialogue]]
+speaker = "ソフィア"
+original = "「これからも私たちと仲良くしてくださいね」"
+translation = "「앞으로도 저희랑 사이좋게 지내주세요.」"
+
+[[dialogue]]
+speaker = "unk"
+original = "顔を見合わせて笑いあう。"
+translation = "얼굴을 마주 보며 웃는다."
+
+[[dialogue]]
+speaker = "unk"
+original = "こうして、ハロウィンの夜はゆっくりと更けていくのだった。"
+translation = "이렇게 할로윈 밤은 천천히 깊어가는 것이었다."
+

@@ -1,0 +1,235 @@
+[[dialogue]]
+speaker = "unk"
+original = "第１１話,世界を見渡す視座,B"
+translation = "제11화, 세계를 내려다보는 시좌, B"
+
+[[dialogue]]
+speaker = "unk"
+original = "星徒会は先日の事件の処理をしつつ、今後について改めて検討していた。"
+translation = "성도회는 요전의 사건을 처리하면서 향후에 대해 다시 검토하고 있었다."
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「うーん……情報収集することに決めたのはいいけど、どうやって情報を集めればいいんだろ……？」"
+translation = "「으음…… 정보 수집을 하기로 정한 건 좋은데, 어떻게 정보를 모으면 좋을까……?」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「エスメラルダ先生からは？」"
+translation = "「에스메랄다 선생님께서는?」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「極星従騎とチナの分析が出ましたが……リクリエの瘴気は観測されず、ただのガーディアンと星騎士でした」"
+translation = "「극성종기와 치나의 분석 결과가 나왔습니다만…… 리크리에의 장기는 관측되지 않았고, 그저 가디언과 성기사였습니다.」"
+
+[[dialogue]]
+speaker = "unk"
+original = "リクリエの使徒やそれに従う者ではない。チナが言っていることが裏付けされたことになる。"
+translation = "리크리에의 사도나 그를 따르는 자가 아니다. 치나가 말한 내용이 뒷받침된 셈이다."
+
+[[dialogue]]
+speaker = "クロト"
+original = "「それにチナたちの足取りは追えず……か」"
+translation = "「게다가 치나 일행의 행방은 쫓을 수 없고……인가.」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「チナはともかく、あのガーディアンたちが流星市国に姿を隠せるとは思えない。すでにデネブに戻っているのかも」"
+translation = "「치나는 그렇다 치고, 그 가디언들이 유성시국에 몸을 숨길 수 있다고는 생각되지 않아. 이미 데네브로 돌아갔을지도 모르지.」"
+
+[[dialogue]]
+speaker = "unk"
+original = "チナたちはどうやって<ruby>この世界<rt>アルタイル</rt></ruby>に渡ってきたのか、それがわかれば何か進展があるかもしれないが……"
+translation = "치나 일행이 어떻게 이 세계로 건너왔는지, 그것을 알면 뭔가 진전이 있을지도 모르지만……"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「ちなみに、<ruby>鏡界の湖<rt>ラーゴ・シエロ</rt></ruby>を通ってきたわけではなさそうね～。極星従騎が現れた時、ガーディアンも星騎士も確認されなかったそうよ」"
+translation = "「참고로 <ruby>경계의 호수<rt>라고 시에로</rt></ruby>를 통해서 온 건 아닌 것 같아~. 극성종기가 나타났을 때 가디언도 성기사도 확인되지 않았다고 하더라고.」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「むむむ……じゃあどうすればいいのよ。このまま極星学園がまた襲ってくるのを待つわけにはいかないし……」"
+translation = "「무무무…… 그럼 어쩌라는 거야. 이대로 극성학원이 또 습격해 오기를 기다릴 수는 없잖아……」"
+
+[[dialogue]]
+speaker = "unk"
+original = "手詰まりか……いや。"
+translation = "막다른 길인가…… 아니."
+
+[[dialogue]]
+speaker = "クロト"
+original = "「ヴィーナス。セイファート前学園長が冥森林ネメシスで言っていたこと、覚えてるか？」"
+translation = "「비너스. 세이파트 전 학원장이 명림네메시스에서 했던 말, 기억해?」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「えーと……どれのことかしら？\u3000いろいろ言ってた気がするけど……」"
+translation = "「에 그러니까…… 어느 거 말이야? 이것저것 말했던 것 같은데……」"
+
+[[dialogue]]
+speaker = "セイファート"
+original = "「ベガは滅んだ。デネブも秒読み。ここ、アルタイルの終焉さえ決せば、我が宿願は果たされる。邪魔立てはさせん──！」"
+translation = "「베가는 멸망했다. 데네브도 초읽기다. 이곳, 알타이르의 종언마저 결정되면 나의 숙원은 완수된다. 방해하게 두지 않겠다──!」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「彼は、リクリエの完遂にはアルタイル・デネブ・ベガ、３つの世界の終焉が必要だと言っていた」"
+translation = "「그는 리크리에의 완수에는 알타이르, 데네브, 베가, 세 세계의 종언이 필요하다고 말했어.」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「アルタイルかデネブ、どちらかが滅びれば、もう片方が生き残るとチナは言った。だけど、セイファート前学園長の言葉からすれば、それは違うんじゃないか？」"
+translation = "「알타이르나 데네브 중 하나가 멸망하면 다른 한쪽이 살아남는다고 치나는 말했지. 하지만 세이파트 전 학원장의 말에 따르면 그건 틀린 게 아닐까?」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「確かに矛盾しています。リクリエの使徒だった頃のアポロも──」"
+translation = "「확실히 모순됩니다. 리크리에의 사도였던 시절의 아폴로도──」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「デネブの世界は片付いた。残るアルタイルさえ刷新できれば、今代のリクリエは完遂する」"
+translation = "「데네브의 세계는 정리됐다. 남은 알타이르마저 쇄신할 수 있다면 금대의 리크리에가 완수된다.」"
+
+[[dialogue]]
+speaker = "unk"
+original = "リクリエの使徒も、デネブの次はアルタイルだと言っていた。"
+translation = "리크리에의 사도도 데네브 다음은 알타이르라고 말했었다."
+
+[[dialogue]]
+speaker = "unk"
+original = "だからチナの言葉には違和感を覚える。"
+translation = "그래서 치나의 말에는 위화감이 느껴진다."
+
+[[dialogue]]
+speaker = "アナ"
+original = "「極星学園の言葉を鵜呑みにはできません。さらなる調査が必要です」"
+translation = "「극성학원의 말을 곧이곧대로 믿을 수는 없습니다. 추가 조사가 필요합니다.」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「ああ、だから──」"
+translation = "「아아, 그러니까──」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「フィーニスの塔に行こう」"
+translation = "「피니스의 탑으로 가자.」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「！\u3000そうね、あそこなら何かわかるかもしれないわ」"
+translation = "「! 그렇네, 거기라면 뭔가를 알 수 있을지도 몰라.」"
+
+[[dialogue]]
+speaker = "unk"
+original = "フィーニスの塔の頂はアルタイル・デネブ・ベガの３の世界を見通す視座となる。"
+translation = "피니스의 탑 정상은 알타이르, 데네브, 베가 세 세계를 내려다보는 시좌가 된다."
+
+[[dialogue]]
+speaker = "unk"
+original = "実際、セイファート前学園長はそこから、リクリエの使徒に変じてしまった妻の姿を見た。"
+translation = "실제로 세이파트 전 학원장은 그곳에서 리크리에의 사도로 변해버린 아내의 모습을 보았다."
+
+[[dialogue]]
+speaker = "unk"
+original = "あそこならデネブや極星学園のことも観測できるかもしれない。"
+translation = "거기라면 데네브나 극성학원의 일도 관측할 수 있을지도 모른다."
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「異議な～し」"
+translation = "「이의 없~음.」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「うん、このまま何もしないよりはマシだよね」"
+translation = "「응, 이대로 아무것도 안 하는 것보다는 낫겠지.」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「守護天使の本体が帰還してから、フィーニスの塔内部がどうなっているかも気になります」"
+translation = "「수호천사의 본체가 귀환한 뒤로 피니스의 탑 내부가 어떻게 변했는지도 궁금합니다.」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「よし、決まりね！」"
+translation = "「좋아, 결정됐어!」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「いつ極星学園が再攻撃を仕掛けてくるかわからない。速やかに行動しよう」"
+translation = "「언제 극성학원이 재공격을 가해올지 몰라. 신속하게 행동하자.」"
+
+[[dialogue]]
+speaker = "unk"
+original = "そうして星徒会でフィーニスの塔に向かったのだが……"
+translation = "그렇게 성도회와 함께 피니스의 탑으로 향했는데……"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「今更だけど……フィーニスの塔って本当は入っちゃいけないんだよね？」"
+translation = "「새삼스럽지만…… 피니스의 탑은 원래 들어가면 안 되는 거지?」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「本当に今更だけどな……」"
+translation = "「정말 새삼스럽지만 말이야……」"
+
+[[dialogue]]
+speaker = "unk"
+original = "本来は何人たりとも踏み入れてはならない聖域。"
+translation = "본래는 그 누구도 발을 들여서는 안 되는 성역."
+
+[[dialogue]]
+speaker = "unk"
+original = "そもそも中に人が入ることを想定していないため、誰に許可を取ればいいのかも定かではない。"
+translation = "애초에 안에 사람이 들어가는 것을 상정하지 않았기에 누구에게 허가를 받아야 하는지도 불분명하다."
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「まぁ怒られたら怒られたでその時よ。さぁ行きましょ！」"
+translation = "「뭐, 혼나면 혼나는 거지. 자, 가자!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "フィーニスの塔の中に入るのは、アポロとギエルとの戦い以来。"
+translation = "피니스의 탑 내부에 들어가는 것은 아폴로와 기엘과의 전투 이후 처음이다."
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「今はリクリエに蝕まれてないし、敵はいないはず……だよね？」"
+translation = "「지금은 리크리에에 좀먹히지 않았고, 적은 없을 터……지?」"
+
+[[dialogue]]
+speaker = "ガーディアン・オルサ"
+original = "「ゴゴゴゴゴ……」"
+translation = "「고고고고고……」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「思いっきり立ちふさがってるんですけど！？」"
+translation = "「대놓고 가로막고 있는데요!?」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「以前マグダレナさんに聞いたところによると、今はフィーニスの塔内部の整理中なので、ガーディアンの機能も不完全だそうです」"
+translation = "「이전에 막달레나 씨에게 들은 바에 따르면, 지금은 피니스의 탑 내부를 정리 중이라 가디언의 기능도 불완전하다고 합니다.」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「誤作動する可能性もあるので、もし遭遇した場合は戦闘しても構わないとのことでした」"
+translation = "「오작동할 가능성도 있으니 만약 조우했을 경우에는 전투해도 상관없다고 하셨습니다.」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「結局戦うんだ！？」"
+translation = "「결국 싸우는 거야!?」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「仕方ないわね。ポンコツは叩いて直すわよ！」"
+translation = "「어쩔 수 없네. 고장 난 건 때려서 고쳐주겠어!」"
+

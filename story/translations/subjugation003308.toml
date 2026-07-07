@@ -1,0 +1,250 @@
+[[dialogue]]
+speaker = "リップル"
+original = "「あっ──選挙管理委員会の皆さ～ん！」"
+translation = "「앗── 선거관리위원회 여러분~!」"
+
+[[dialogue]]
+speaker = "リップル"
+original = "「お疲れ様でーす！\u3000クリアおめでとうゴザイまーす！」"
+translation = "「수고하셨슴다! 클리어 축하드림다!」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「紙一重も紙一重、薄氷の勝利だったがな……」"
+translation = "「백지 한 장 차이, 살얼음판 같은 승리였지만 말이다……」"
+
+[[dialogue]]
+speaker = "ナターシャ"
+original = "「もう一度戦ったら負ける自信があるよ……。明日は久しぶりに筋肉痛になりそう……」"
+translation = "「다시 싸우면 질 자신 있어……. 내일은 오랜만에 근육통이 올 것 같네……」"
+
+[[dialogue]]
+speaker = "ベアトリス"
+original = "「わわ、ナターシャちゃん、もたれかからないでぇ……。私もヘトヘトなんだからぁ……」"
+translation = "「와와, 나타샤 짱, 기대지 마요…… 저도 녹초란 말이에요……」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「３人揃ってあたしに倒れてくんなっ……！\u3000重い、潰れる～……！」"
+translation = "「셋이서 한꺼번에 나한테 쓰러지지 마! 무거워, 깔려 죽겠어~……!」"
+
+[[dialogue]]
+speaker = "リップル"
+original = "「アハハ、チョットやりすぎだったかもしれまセンねー……」"
+translation = "「아하하, 조금 과했을지도 모르겠슴다~……」"
+
+[[dialogue]]
+speaker = "リップル"
+original = "「でも、ドウでしたか？\u3000楽しかったデスか？」"
+translation = "「하지만 어땠슴까? 즐거웠슴까?」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「それは……」"
+translation = "「그건……」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「ふふ、もちろんだ。大いに楽しませてもらった」"
+translation = "「후후, 물론이다. 아주 즐거웠느니라」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「ヤバかったけど、すっげー盛り上がったぞ！」"
+translation = "「위험했지만 진짜 신났다구!」"
+
+[[dialogue]]
+speaker = "ベアトリス"
+original = "「おかげで良い思い出になったよ！」"
+translation = "「덕분에 좋은 추억이 됐어요!」"
+
+[[dialogue]]
+speaker = "ナターシャ"
+original = "「まぁ終わってみると悪くはなかったかな。虫以外は」"
+translation = "「뭐, 끝나고 보니 나쁘진 않았네. 벌레만 빼면」"
+
+[[dialogue]]
+speaker = "リップル"
+original = "「ならよかったデス！\u3000ささ、どうぞくつろいでください！\u3000オイシイお料理も、ご用意してま～す！」"
+translation = "「그럼 다행임다! 자자, 어서 쉬세요! 맛있는 요리도 준비해 뒀슴다~!」"
+
+[[dialogue]]
+speaker = "ベアトリス"
+original = "「わぁ……！\u3000浜焼きだぁ……！\u3000焼きそばもある……！\u3000たこ焼きも、かき氷も……！！」"
+translation = "「와아……! 조개구이다……! 야키소바도 있어요! 타코야키도, 빙수도……!!」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「『新モードクリア者サマへ』って書いてあるぞ！\u3000なんか気分いいなー！」"
+translation = "「『신 모드 클리어어님께』라고 적혀 있어! 왠지 기분 좋은걸!」"
+
+[[dialogue]]
+speaker = "ナターシャ"
+original = "「ＤＩＳＣに保存しておいた方がいいんじゃない？\u3000みんなで記念撮影でもする？」"
+translation = "「DISC에 저장해 두는 게 좋지 않아? 다 같이 기념사진이라도 찍을래?」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「しよう！\u3000撮りまくろう！\u3000新星星徒会に私たちの勝利を送りつけてやるんだ！」"
+translation = "「찍자! 마구 찍자! 신성 성도회에 우리의 승리를 보내주는 거다!」"
+
+[[dialogue]]
+speaker = "リップル"
+original = "「お写真ならワタシが撮りますヨ～！\u3000ドゾドゾ、並んでクダさ～い！」"
+translation = "「사진이라면 제가 찍어드리겠슴다~! 어서어서 줄 서세요~!」"
+
+[[dialogue]]
+speaker = "リップル"
+original = "「はい、チーズ、デス～！」"
+translation = "「자, 치즈임다~!」"
+
+[[dialogue]]
+speaker = "ナターシャ"
+original = "「いい感じで撮れたんじゃない。こういうの新鮮かも」"
+translation = "「잘 찍힌 것 같네. 이런 거 신선할지도」"
+
+[[dialogue]]
+speaker = "ベアトリス"
+original = "「写真立てを買いに行かないとね。うんと可愛いやつ！」"
+translation = "「액자를 사러 가야겠어요. 아주 귀여운 녀석으로!」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「にしても、梨緒の顔、にやけてんなー。ゆるっゆるだぜ」"
+translation = "「그나저나 리오 얼굴, 엄청 싱글벙글하네. 아주 풀렸어」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「ふふ、どうにも嬉しすぎてな。こうして一番を取ったのはいつぶりだろうか」"
+translation = "「후후, 아무래도 너무 기뻐서 말이다. 이렇게 1등을 한 게 얼마 만인지 모르겠군」"
+
+[[dialogue]]
+speaker = "リップル"
+original = "「一番……デスか？」"
+translation = "「1등…… 임까?」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「ああ。私たちが新モードのクリア者第一号だろう？\u3000ふふふ、一号、一番、なんていい響きなんだ」"
+translation = "「아아. 우리가 신 모드 클리어 제1호 아니냐? 후후후, 1호, 1등, 참 좋은 울림이구나」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「そうだ、ジグにも写真を送ってやろう。あいつも素直に私たちと参加していれば、この感動を分かち合えたのに♪」"
+translation = "「그래, 지그에게도 사진을 보내주자. 그 녀석도 순순히 우리와 참가했다면 이 감동을 나눌 수 있었을 텐데♪」"
+
+[[dialogue]]
+speaker = "リップル"
+original = "「いえ、一番は──」"
+translation = "「아뇨, 1등은──」"
+
+[[dialogue]]
+speaker = "ジグ"
+original = "「やぁ、遅かったね」"
+translation = "「여어, 늦었네」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「ジグ！？\u3000どうしてここに！？」"
+translation = "「지그!? 어째서 여기에!?」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「それに、遅かった……だと？\u3000一体どういう意味だ！？」"
+translation = "「게다가 늦었다고……? 대체 무슨 의미냐!?」"
+
+[[dialogue]]
+speaker = "リップル"
+original = "「新モードのクリア者第一号はジグなんデスよ～」"
+translation = "「신 모드 클리어 제1호는 지그 씨임다~」"
+
+[[dialogue]]
+speaker = "リップル"
+original = "「別のリゾート結界でテストに参加してくれて、１日でソロクリアしてくれマシた」"
+translation = "「다른 리조트 결계에서 테스트에 참가해 줘서, 하루 만에 솔로 클리어했슴다」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「１日で！？\u3000ソロクリア！？」"
+translation = "「하루 만에!? 솔로 클리어!?」"
+
+[[dialogue]]
+speaker = "ジグ"
+original = "「昨日、アガサに話を聞いて興味が出てね。リハビリに丁度いいかもと参加してみたんだ」"
+translation = "「어제 아가사에게 이야기를 듣고 흥미가 생겨서 말이야. 재활에 딱 좋겠다 싶어 참가해 봤지」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「１人で倒したのか！？\u3000あのボスモンスターも！？」"
+translation = "「혼자서 쓰러뜨린 거냐!? 그 보스 몬스터도!?」"
+
+[[dialogue]]
+speaker = "ジグ"
+original = "「だからそう言ってるじゃないか。昼過ぎには終わったよ」"
+translation = "「그러니까 그렇게 말하고 있잖아. 낮 지나서 끝났어」"
+
+[[dialogue]]
+speaker = "ベアトリス"
+original = "「昨日の昼過ぎって……」"
+translation = "「어제 낮 지나서라면……」"
+
+[[dialogue]]
+speaker = "ナターシャ"
+original = "「私たちが命からがら偽ボスから逃げ出してた頃じゃない？」"
+translation = "「우리가 구사일생으로 가짜 보스한테서 도망치고 있었을 때 아냐?」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「うおおっ、そんな頃にジグはクリアしてたってのか！」"
+translation = "「우오옷, 그런 때에 지그는 클리어했다는 거냐!」"
+
+[[dialogue]]
+speaker = "ジグ"
+original = "「私がいなくて正解だったろう？\u3000簡単になりすぎてアガサたちもつまらなかっただろうから」"
+translation = "「내가 없어서 정답이었지? 너무 쉬워져서 아가사 일행도 재미없었을 테니까」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「ぐぬっ、ぐぬぬぬっ……！！」"
+translation = "「그느윽, 그느느느윽……!!」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「リップル、相談がある……！」"
+translation = "「리플, 상담이 있느니라……!」"
+
+[[dialogue]]
+speaker = "リップル"
+original = "「ハイ？\u3000ソーダンですか？」"
+translation = "「예? 상담임까?」"
+
+[[dialogue]]
+speaker = "ナターシャ"
+original = "「ちょっと梨緒、また負けず嫌い拗らせてないよねっ？」"
+translation = "「잠깐 리오, 또 승부욕 도진 거 아니지?」"
+
+[[dialogue]]
+speaker = "ベアトリス"
+original = "「私たちはよく頑張ったよ！\u3000こうしてクリアできたんだから！」"
+translation = "「우리는 충분히 노력했어요! 이렇게 클리어했으니까요!」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「そうだぜ、おいっ。超強化されたボスも倒したじゃねーか！」"
+translation = "「맞아, 어이. 초강화된 보스도 쓰러뜨렸잖아!」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「いいや、私たちの力はこんなものじゃないはずだ！\u3000思えば、私たちは遊びすぎていた……！」"
+translation = "「아니, 우리의 힘은 이 정도가 아닐 것이니라! 생각해보면 우리는 너무 놀고 있었어……!」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「ジグに遅れを取る私たちじゃないっ！\u3000難易度を上げてくれ、リップル！\u3000私たちはそれを半日でクリアしてみせるっ！！」"
+translation = "「지그에게 뒤처질 우리가 아니니라! 난이도를 올려라, 리플! 우리는 그걸 반나절 만에 클리어해 보이겠느니라!!」"
+
+[[dialogue]]
+speaker = "３人"
+original = "「え～～～っ！！？」"
+translation = "「에~~~~!!?」"
+

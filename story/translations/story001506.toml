@@ -1,0 +1,470 @@
+[[dialogue]]
+speaker = "unk"
+original = "――それはサーシャが、会長とシズハと共に、ロストアイテム探しを進めていた時のことだった。"
+translation = "――그것은 사샤가 회장과 시즈하와 함께 로스트 아이템 찾기를 진행하고 있었을 때의 일이었다."
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "（……！\u3000まただわ……）"
+translation = "(……! 또야……)"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "（一体いつから――これで何度目なのかも記憶が曖昧だけれど……）"
+translation = "(대체 언제부터―― 이게 몇 번째인지도 기억이 애매하지만……)"
+
+[[dialogue]]
+speaker = "unk"
+original = "サーシャは少し前から、拭えない既視感が繰り返されていると感じていた。"
+translation = "사샤는 조금 전부터 씻어낼 수 없는 기시감이 반복되고 있다고 느끼고 있었다."
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "（直前のことが何事もなかったかのように、修正されている気がする。突然、自分がそれまで何をしていたのか、ド忘れしてしまうかのような……）"
+translation = "(직전의 일이 아무 일도 없었던 것처럼 수정되고 있는 느낌이 들어. 갑자기 자신이 그때까지 무엇을 하고 있었는지 깜빡 잊어버리는 것처럼……)"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "（これって……もしかして私たち、すでにロストアイテムの能力に巻き込まれてる……？）"
+translation = "(이거…… 혹시 우리, 이미 로스트 아이템의 능력에 휘말려 있는 거야……?)"
+
+[[dialogue]]
+speaker = "unk"
+original = "そのことに気づけたのは、手の中に握っていた小さなメモの切れ端のおかげだ。中に書かれているのはサーシャ自身の字で――"
+translation = "그 사실을 깨달을 수 있었던 것은 손안에 쥐고 있던 작은 메모 조각 덕분이었다. 안에 적혀 있는 것은 사샤 자신의 글씨로――"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "（『もしかして強制力が働いているかも？』『一体、何に対して？』『おそらく何かの会話をしていた時』）"
+translation = "(『혹시 강제력이 작용하고 있을지도?』 『대체 무엇에 대해서?』 『아마도 무언가 대화를 나누고 있었을 때』)"
+
+[[dialogue]]
+speaker = "unk"
+original = "今のサーシャに、これを書いた記憶はない。"
+translation = "지금의 사샤에겐 이것을 쓴 기억이 없다."
+
+[[dialogue]]
+speaker = "unk"
+original = "しかし、強制力が働く前に、自分自身が書き残していたようだ。それを手に握っておくことで、記憶を忘却しても違和感に気づくことができた。"
+translation = "하지만 강제력이 작용하기 전에 자기 자신이 적어 남겨둔 모양이다. 그것을 손에 쥐고 있음으로써 기억을 망각하더라도 위화감을 깨달을 수 있었다."
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "（『会長くんとの会話では何かが起こる様子はない』『だとしたら原因は――』）"
+translation = "(『회장군과의 대화에서는 아무 일도 일어나지 않는 모양』 『그렇다면 원인은――』)"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「…………」"
+translation = "「…………」"
+
+[[dialogue]]
+speaker = "unk"
+original = "サーシャさん？\n急に立ち止まって、どうしました？"
+translation = "사샤 씨? 갑자기 멈춰 서서 왜 그러세요?"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「……ねぇ、シズハ。聞きたいことがあるの」"
+translation = "「……있잖아, 시즈하. 묻고 싶은 게 있어」"
+
+[[dialogue]]
+speaker = "シズハ"
+original = "「ん？\u3000何？\u3000お姉ちゃん」"
+translation = "「응? 뭐야? 누나」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「シズハは……ロストアイテムで病気が治って、学園へ通えるようになったって言ってたわよね？」"
+translation = "「시즈하는…… 로스트 아이템으로 병이 나아서 학원에 다닐 수 있게 됐다고 했었지?」"
+
+[[dialogue]]
+speaker = "シズハ"
+original = "「？\u3000うん。その力を借りて、星騎士としても戦えるようになったんだよ」"
+translation = "「? 응. 그 힘을 빌려서 성기사로서도 싸울 수 있게 된 거야」"
+
+[[dialogue]]
+speaker = "シズハ"
+original = "「といっても、星力とは異なる力だから、ディーちゃんのアドバイスで、周囲には星力だと<b>思わせてる</b>んだけどね。てへへ」"
+translation = "「뭐, 성력과는 다른 힘이라서 디짱의 조언으로 주변에는 성력인 것처럼 **생각하게 만들고** 있지만 말이야. 데헤헤」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「それで、教えて欲しいのだけれど――」"
+translation = "「그래서, 가르쳐 줬으면 하는데――」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「シズハのロストアイテムって……一体、何だったかしら？」"
+translation = "「시즈하의 로스트 아이템은…… 대체 뭐였지?」"
+
+[[dialogue]]
+speaker = "シズハ"
+original = "「え……？」"
+translation = "「에……?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "『だとしたら原因はシズハ？』『シズハのロストアイテムが思い出せない』"
+translation = "『그렇다면 원인은 시즈하?』 『시즈하의 로스트 아이템이 기억나지 않아』"
+
+[[dialogue]]
+speaker = "unk"
+original = "メモの先には、そう書かれていた。"
+translation = "메모의 끝에는 그렇게 적혀 있었다."
+
+[[dialogue]]
+speaker = "unk"
+original = "サーシャは実の姉であるはずなのに、シズハの病気が治るきっかけとなったロストアイテムが何なのか、思い出すことができなかった。"
+translation = "사샤는 친언니임이 분명한데도 시즈하의 병이 낫는 계기가 된 로스트 아이템이 무엇인지 떠올릴 수 없었다."
+
+[[dialogue]]
+speaker = "シズハ"
+original = "「あれ……？\u3000前に話さなかったっけ？」"
+translation = "「어라……? 전에 이야기하지 않았던가?」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「ううん。話してもらったと思うんだけど、お姉ちゃん、ド忘れしちゃったみたい」"
+translation = "「아니. 이야기해 줬던 것 같은데, 누나가 깜빡 잊어버린 모양이야」"
+
+[[dialogue]]
+speaker = "シズハ"
+original = "「えっとね、私は――」"
+translation = "「그게 말이야, 나는――」"
+
+[[dialogue]]
+speaker = "シズハ"
+original = "「『願望』のロストアイテム、『願いの聖杯』と融合したことで、病気が治って、その力が使えるようになったんだよ」"
+translation = "「『원망』의 로스트 아이템, 『소원의 성배』와 융합한 덕분에 병이 나아서 그 힘을 쓸 수 있게 된 거야」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「願いの……」"
+translation = "「소원의……」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "（ああ、そうだわ……）"
+translation = "(아아, 그렇구나……)"
+
+[[dialogue]]
+speaker = "unk"
+original = "サーシャがシズハと出会ったのは、今から１ヶ月程前のこと。"
+translation = "사샤가 시즈하와 만난 것은 지금으로부터 약 한 달 전의 일."
+
+[[dialogue]]
+speaker = "unk"
+original = "クロトが知らぬ間に、サーシャが単独で別のロストアイテムの事件に巻き込まれたことがきっかけだった。"
+translation = "쿠로토가 모르는 사이에 사샤가 단독으로 다른 로스트 아이템 사건에 휘말린 것이 계기였다."
+
+[[dialogue]]
+speaker = "unk"
+original = "そこで、魔法少女として活動し始めていたシズハと遭遇。サチやプリムラも合流し、ロストアイテムの回収に協力して、仲良くなったのだった――"
+translation = "그곳에서 마법소녀로서 활동하기 시작한 시즈하와 조우. 사치와 프리뮬라도 합류해 로스트 아이템 회수에 협력하며 친해진 것이었다――"
+
+[[dialogue]]
+speaker = "unk"
+original = "それから少し経って、シズハが流星学園附属校に転入。サーシャはシズハとよく会うようになっていたのだが――"
+translation = "그로부터 조금 시간이 흘러 시즈하가 유성학원 부속교로 전입. 사샤는 시즈하와 자주 만나게 되었는데――"
+
+[[dialogue]]
+speaker = "シズハ"
+original = "「えへへ～♪\u3000それでねそれでね――お姉ちゃん」"
+translation = "「에헤헤~♪ 그래서 말이야 그래서 말이야―― 누나」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「え？」"
+translation = "「에?」"
+
+[[dialogue]]
+speaker = "シズハ"
+original = "「あっ……！\u3000ご、ごめんなさい、サーシャさん！\u3000つい……」"
+translation = "「앗……! 죄, 죄송해요, 사샤 씨! 저도 모르게……」"
+
+[[dialogue]]
+speaker = "シズハ"
+original = "「……えっとね、私、サーシャさんといると、お姉ちゃんのことを思い出しちゃって……」"
+translation = "「……저기 말이죠, 저, 사샤 씨랑 있으면 언니가 생각나 버려서……」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「シズハちゃん、お姉さんがいたの？」"
+translation = "「시즈하짱, 언니가 있었니?」"
+
+[[dialogue]]
+speaker = "シズハ"
+original = "「うん。実はそうなんだ。ただ――」"
+translation = "「응. 사실 그래요. 다만――」"
+
+[[dialogue]]
+speaker = "シズハ"
+original = "「お姉ちゃんは、５年前に亡くなっちゃってて……」"
+translation = "「언니는 5년 전에 죽어버려서……」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「え……」"
+translation = "「에……」"
+
+[[dialogue]]
+speaker = "シズハ"
+original = "「当時、お姉ちゃんはちょうど今のサーシャさんと同じくらいの年で。学校が終わると、よく私のお見舞いに病院へ来てくれていたの」"
+translation = "「당시 언니는 딱 지금 사샤 씨랑 비슷한 나이였어요. 학교가 끝나면 자주 병원으로 제 병문안을 와줬거든요」"
+
+[[dialogue]]
+speaker = "シズハ"
+original = "「それはもう、毎日のように。受験勉強で忙しくても、私に会いに来てくれて、話をしてくれた」"
+translation = "「그건 정말 매일같이요. 수험 공부로 바빠도 저를 만나러 와서 이야기를 해줬어요」"
+
+[[dialogue]]
+speaker = "シズハ"
+original = "「でも……そんなある日、お姉ちゃんが突然、私の入院してる病院へ、救急車で運ばれてきた……」"
+translation = "「하지만…… 그러던 어느 날, 언니가 갑자기 제가 입원해 있는 병원에 구급차로 실려 왔어요……」"
+
+[[dialogue]]
+speaker = "シズハ"
+original = "「病院へ来る途中、交通事故に巻き込まれたんだって……後から聞いた。それで、お姉ちゃんは助からずにそのまま……」"
+translation = "「병원으로 오던 도중 교통사고에 휘말렸다고…… 나중에 들었어요. 그래서 언니는 살아나지 못하고 그대로……」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「…………」"
+translation = "「…………」"
+
+[[dialogue]]
+speaker = "シズハ"
+original = "「……ごめんなさい、サーシャさん。楽しいお話じゃないから、あんまり言うつもりはなかったんだけど……」"
+translation = "「……죄송해요, 사샤 씨. 즐거운 이야기가 아니니까 별로 말할 생각은 없었는데……」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「……ううん、いいの。ありがとう、シズハちゃん。話してくれて」"
+translation = "「……으응, 괜찮아. 고마워, 시즈하짱. 이야기해 줘서」"
+
+[[dialogue]]
+speaker = "シズハ"
+original = "「うん。これからは私、気をつけるから……」"
+translation = "「응. 이제부터는 저, 조심할 테니까……」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「……ねぇ、シズハちゃん」"
+translation = "「……있지, 시즈하짱」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「よかったらだけど……そのまま、私のことを『お姉ちゃん』って呼んでくれてもいいのよ？」"
+translation = "「괜찮다면 말인데…… 그대로 나를 『언니』라고 불러줘도 괜찮단다?」"
+
+[[dialogue]]
+speaker = "シズハ"
+original = "「え……？」"
+translation = "「에……?」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「ほら、私、いつも自分のこと『お姉ちゃん』って言ってるしね。だから別に、そう呼ばれても構わないわ」"
+translation = "「봐, 나도 항상 나 자신을 『언니』라고 말하곤 하잖니. 그러니까 딱히 그렇게 불려도 상관없어」"
+
+[[dialogue]]
+speaker = "シズハ"
+original = "「……いいの？」"
+translation = "「……정말이야?」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「ええ♪\u3000シズハちゃんさえよければ」"
+translation = "「에에♪ 시즈하짱만 괜찮다면」"
+
+[[dialogue]]
+speaker = "シズハ"
+original = "「じゃあ……サーシャお姉ちゃん」"
+translation = "「그럼…… 사샤 언니」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「は～い♪」"
+translation = "「네~에♪」"
+
+[[dialogue]]
+speaker = "シズハ"
+original = "「え、えへへ……♪」"
+translation = "「에, 에헤헤……♪」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "（……思い出した）"
+translation = "（……기억났어）"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「会長くん。私たち、おそらくロストアイテムの能力で認識が歪められているわ」"
+translation = "「회장군. 우리들, 아마 로스트 아이템의 능력으로 인식이 왜곡되어 있었던 것 같아」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「それでシズハちゃん。あなたは――」"
+translation = "「그리고 시즈하짱. 너는――」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「私の本当の妹じゃない。……あなたと私は、１ヶ月前に出会ったばかりよ」"
+translation = "「내 친동생이 아니야. ……너와 나는 한 달 전에 막 만났을 뿐이란다」"
+
+[[dialogue]]
+speaker = "unk"
+original = "俺もそこで、忘れていた違和感を、はっと思い出す。"
+translation = "나도 거기서 잊고 있던 위화감을 번뜩 떠올린다."
+
+[[dialogue]]
+speaker = "unk"
+original = "（シズハはやっぱり、魔族じゃなくて人間だ）"
+translation = "（시즈하는 역시 마족이 아니라 인간이다）"
+
+[[dialogue]]
+speaker = "シズハ"
+original = "「…………」"
+translation = "「…………」"
+
+[[dialogue]]
+speaker = "シズハ"
+original = "「……か、仮に、認識が歪んでいたとして、それってそんなに困ること？」"
+translation = "「……가, 가령 인식이 왜곡되어 있다고 쳐서, 그게 그렇게 곤란한 일인가요?」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「え……？」"
+translation = "「에……?」"
+
+[[dialogue]]
+speaker = "シズハ"
+original = "「私は、サーシャさんが本当にお姉ちゃんだったら、嬉しいよ？\u3000サーシャさんは、私が妹だったら嫌？」"
+translation = "「저는 사샤 씨가 정말 언니라면 기뻐요! 사샤 씨는 제가 여동생이면 싫은가요?」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「それは……でも」"
+translation = "「그건…… 하지만」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「…………」"
+translation = "「…………」"
+
+[[dialogue]]
+speaker = "unk"
+original = "サーシャさんはそこで、押し黙ってしまった。"
+translation = "사샤 씨는 거기서 입을 다물어버리고 말았다."
+
+[[dialogue]]
+speaker = "シズハ"
+original = "「とりあえず、聖杯ちゃんの影響がそれだけなら、大丈夫だよ。そんなことよりも、解放のロストアイテムを探さなくっちゃ！」"
+translation = "「일단 성배짱의 영향이 그뿐이라면 괜찮아요. 그런 것보다 해방의 로스트 아이템을 찾아야죠!」"
+
+[[dialogue]]
+speaker = "シズハ"
+original = "「ほら行こっ、会長、お姉ちゃん！\u3000行け行けゴーゴー♪」"
+translation = "「자, 가요, 회장, 언니! 가자 가자 고고♪」"
+
+[[dialogue]]
+speaker = "unk"
+original = "シズハは明るく笑ってみせると、ズンズンと前を進んで行ってしまう。"
+translation = "시즈하는 밝게 웃어 보이고는 슥슥 앞장서 가버린다."
+
+[[dialogue]]
+speaker = "unk"
+original = "サーシャさんはその背中を見つめたまま、シズハに声をかけることができず立ち尽くしていた。"
+translation = "사샤 씨는 그 뒷모습을 바라본 채 시즈하에게 말을 걸지 못하고 멍하니 서 있었다."
+
+[[dialogue]]
+speaker = "unk"
+original = "サーシャさん、この現象って……"
+translation = "사샤 씨, 이 현상은……"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「ええ、そうね。一体いつ始まったのか、ハッキリとした時期はわからないけれど……」"
+translation = "「에에, 그렇네. 대체 언제 시작된 건지 확실한 시기는 모르겠지만……」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「これは多分、プリムラちゃんに起こった現象と同じ──」"
+translation = "「이건 아마 프리뮬라짱에게 일어난 현상과 같은──」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「要するに、『解放』のロストアイテムによって、シズハちゃんの持つ『願望』のロストアイテムの能力が、解放させられちゃったんじゃないかしら」"
+translation = "「요컨대, 『해방』의 로스트 아이템에 의해 시즈하짱이 가진 『원망』의 로스트 아이템 능력이 해방되어 버린 게 아닐까 싶어」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「でも、それはシズハちゃんの責任じゃないわ。……思い出したの。原因を作ったのは、きっと私」"
+translation = "「하지만 그건 시즈하짱의 책임이 아니야. ……기억났어. 원인을 만든 건 분명 나야」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「……私はまた、間違ったことをしてしまったのかもしれない」"
+translation = "「……내가 또 잘못된 일을 저질러 버린 것일지도 몰라」"
+
+[[dialogue]]
+speaker = "unk"
+original = "サーシャさん……？"
+translation = "사샤 씨……?"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「……ねぇ、会長くん。お願いしたいことがあるの」"
+translation = "「……있지, 회장군. 부탁하고 싶은 게 있어」"
+
+[[dialogue]]
+speaker = "unk"
+original = "俺に向き直ったサーシャさんは――お正月の時に見たような、本気で弱った顔をしていて。"
+translation = "나를 돌아본 사샤 씨는―― 설날 때 보았던 것처럼 진심으로 약해진 얼굴을 하고 있어서."
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「シズハちゃんを、どうか助けてあげて」"
+translation = "「시즈하짱을 부디 구해줘」"
+
+[[dialogue]]
+speaker = "unk"
+original = "そう言って、深く頭を下げるのだった――"
+translation = "그렇게 말하며 깊이 고개를 숙이는 것이었다――"
+
+[[dialogue]]
+speaker = "unk"
+original = "一方その頃、サチとプリムラは――"
+translation = "한편 그 무렵, 사치와 프리뮬라는――"
+
+[[dialogue]]
+speaker = "サチ"
+original = "「そんな……まさか！？」"
+translation = "「설마…… 말도 안 돼!?」"
+
+[[dialogue]]
+speaker = "プリムラ（覚醒）"
+original = "「くそっ……力の制御がままならぬというのに……！\u3000よりによって――」"
+translation = "「큭…… 힘의 제어가 마음대로 되지 않거늘……! 하필이면――」"
+
+[[dialogue]]
+speaker = "メルクリウス"
+original = "「…………」"
+translation = "「…………」"
+
+[[dialogue]]
+speaker = "プリムラ（覚醒）"
+original = "「またこやつと戦わねばならぬとは……！」"
+translation = "「또 이놈과 싸워야 하다니……!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "プリムラの本来の姿――『終末兵器メルクリウス』の防御形態。"
+translation = "프리뮬라의 본래 모습―― 『종말병기 메르쿠리우스』의 방어 형태."
+
+[[dialogue]]
+speaker = "unk"
+original = "深淵書庫の防衛システムによって複製されたそれが、魔法少女２人の前に再び、立ち塞がるのだった――"
+translation = "심연서고의 방위 시스템에 의해 복제된 그것이 마법소녀 두 사람 앞에 다시 가로막아 서는 것이었다――"
+

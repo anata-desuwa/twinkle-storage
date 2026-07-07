@@ -1,0 +1,195 @@
+[[dialogue]]
+speaker = "unk"
+original = "お正月休みが明けて、登校日初日の放課後。"
+translation = "신정 연휴가 끝나고 등교 첫날 방과 후."
+
+[[dialogue]]
+speaker = "unk"
+original = "俺たち新星学園星徒会のメンバーは、星徒会室に集まっていた――"
+translation = "우리 신성학원 성도회 멤버들은 성도회실에 모여 있었다──"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「久しぶりね、マトイ、アナ！\u3000改めて、あけましておめでとう！」"
+translation = "「오랜만이네, 마토이, 아나! 새삼스럽지만, 새해 복 많이 받아!」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「あけましておめでとう、ヴィーナス、サーシャさん」"
+translation = "「새해 복 많이 받아, 비너스, 사샤 씨.」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「あ～ん、マトイちゃん、アナちゃん、久しぶりね～♪\u3000しばらく会えなくて、お姉ちゃん寂しかったわ～」"
+translation = "「아앙, 마토이 짱, 아나 짱, 오랜만이네~♪ 한동안 못 봐서 언니는 외로웠단다~」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「会長も、あけましておめでとうございます」"
+translation = "「회장님도 새해 복 많이 받으세요.」"
+
+[[dialogue]]
+speaker = "unk"
+original = "お正月休みの間、元気してた？"
+translation = "신정 연휴 동안 잘 지냈어?"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「はい。アニマ先輩と一緒に、年末から日本各地を研究で飛び回ってたんですが、旅行みたいな感じで楽しかったです」"
+translation = "「네. 아니마 선배와 함께 연말부터 일본 각지를 연구하러 돌아다녔는데, 여행하는 기분이라 즐거웠어요.」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「私は家族でお祖母ちゃんの家に行って、親戚集まっての大宴会って感じかな。それよりも、会長たちは初詣で色々あったんでしょ？」"
+translation = "「나는 가족끼리 할머니 댁에 가서 친척들 모여서 대잔치 벌인 느낌일까. 그것보다 회장 일행은 하츠모데 때 이런저런 일이 있었다며?」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「サーシャ先輩とソフィアさんが仲直りされたとか。おめでたです」"
+translation = "「사샤 선배와 소피아 씨가 화해하셨다고 들었습니다. 축하드려요.」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「うふふ、ありがと～♪」"
+translation = "「우후후, 고마워~♪」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「教室で会長から聞きましたけど、晴れ着フォームにも変身できるようになったんですよね？」"
+translation = "「교실에서 회장님께 들었는데, 설빔 폼으로도 변신할 수 있게 됐다면서요?」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「う～ん、新年早々に目覚める新しい力、羨ましい～！\u3000私も一緒に初詣に行きたかったな～」"
+translation = "「으음~ 신년 초부터 깨어나는 새로운 힘, 부럽네~! 나도 같이 하츠모데 가고 싶었는데~」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「同じく。今後の研究の為にも、後でぜひ、晴れ着フォームを見せてもらいたいです」"
+translation = "「동감입니다. 향후 연구를 위해서라도 나중에 꼭 설빔 폼을 보여주셨으면 해요.」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「２人ならそう言うんじゃないかと思ってたわ！\u3000というわけで――」"
+translation = "「두 사람이라면 그렇게 말할 줄 알았어! 그런 의미에서──」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「今日これから、みんなで初詣に行くわよ！」"
+translation = "「오늘 지금부터 다 같이 하츠모데 가자!」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「へ！？」"
+translation = "「헤!?」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「わお。そう来ましたか」"
+translation = "「와오. 그렇게 나오시나요.」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「あら～♪\u3000それは面白そう♪」"
+translation = "「어머나~♪ 그거 재밌겠네♪」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「お寺や神社は別に逃げたりしないもの！\u3000今からでも遅くないわ！」"
+translation = "「절이나 신사가 어디 도망가는 것도 아니니까! 지금이라도 늦지 않았어!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "そうなりそうな気はしてた"
+translation = "그렇게 될 것 같은 기분은 들었어."
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「私たちは一緒に戦う仲間なんだし、みんなでリクリエへの必勝祈願をしておかないとね♪」"
+translation = "「우리는 함께 싸우는 동료니까, 다 같이 리크리에를 향한 필승 기원을 해둬야지♪」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「さあ、フィクサーとして命じるわ――」"
+translation = "「자, 픽서로서 명령할게──」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「新星星徒会、初詣に出撃よ！」"
+translation = "「신성성도회, 하츠모데 출격이야!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "そうして俺たちは、再び浅草へとやってきた――"
+translation = "그렇게 우리는 다시 아사쿠사에 왔다──"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「本当に初詣をすることになるとは……」"
+translation = "「정말로 하츠모데를 하게 될 줄이야……」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「よ～し、それじゃあ、まずは――」"
+translation = "「좋아, 그럼 우선은──」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「『おみくじ』からね！」"
+translation = "「『오미쿠지』부터 뽑자!」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「なんでおみくじ！？」"
+translation = "「왜 오미쿠지부터!?」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「いや、引くのは別にいいんだけど、普通はお参りが先じゃないの？」"
+translation = "「아니, 뽑는 건 상관없는데 보통은 참배부터 먼저 하지 않아?」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「私はケーキのイチゴは先に食べる派なのよ！」"
+translation = "「난 케이크의 딸기는 먼저 먹는 파라고!」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「ヴィーナスちゃんは占い好きだものね～」"
+translation = "「비너스 짱은 점 보는 걸 좋아하니까~」"
+
+[[dialogue]]
+speaker = "unk"
+original = "この前、大凶を引いてたな"
+translation = "저번에 대흉 뽑았었지."
+
+[[dialogue]]
+speaker = "アナ"
+original = "「なるほど。つまり、前会長はおみくじリベンジをしたいというわけですね」"
+translation = "「과연. 즉 전 회장은 오미쿠지 리벤지를 하고 싶다는 뜻이군요.」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「その通りよ！\u3000ほら、その場で２回おみくじを引くのは意味なさそうだけど、後日改めて参拝にきて引いたら、セーフっぽい感じがするでしょ？」"
+translation = "「바로 그거야! 봐봐, 그 자리에서 두 번 뽑는 건 의미가 없겠지만, 며칠 뒤에 다시 참배하러 와서 뽑는 건 세이프인 느낌이 들잖아?」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「いや、どうかな……」"
+translation = "「아니, 글쎄……」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「ノープロブレムよ！」"
+translation = "「노 프로블럼이야!」"
+
+[[dialogue]]
+speaker = "アナ"
+original = "「台詞をパクられました。訴訟問題です」"
+translation = "「대사를 도용당했습니다. 소송 문제입니다.」"
+
+[[dialogue]]
+speaker = "unk"
+original = "そんなこんなで、俺たちはおみくじを引くことになるのだった――"
+translation = "이러쿵저러쿵해서 우리는 오미쿠지를 뽑게 되었다──"
+

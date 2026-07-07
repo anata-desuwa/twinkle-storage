@@ -1,0 +1,225 @@
+[[dialogue]]
+speaker = "unk"
+original = "第１話,新星の寮長,P"
+translation = "제1화, 신성의 기숙사장, P"
+
+[[dialogue]]
+speaker = "unk"
+original = "それは、星徒会長に就任してまだ間もない時のこと。とある女子生徒から、星徒会長に挨拶したいというアポがあった。"
+translation = "그것은 성도회장에 취임한 지 얼마 되지 않았을 때의 일. 어떤 여학생으로부터 성도회장에게 인사하고 싶다는 약속이 있었다."
+
+[[dialogue]]
+speaker = "unk"
+original = "放課後、星徒会室で待っていると──"
+translation = "방과 후, 성도회실에서 기다리고 있자──"
+
+[[dialogue]]
+speaker = "マハムート"
+original = "「失礼するわよ」"
+translation = "「실례하겠어.」"
+
+[[dialogue]]
+speaker = "マハムート"
+original = "「はじめまして、星徒会長。この前の御前試合、見させてもらったわ」"
+translation = "「처음 뵙겠군, 성도회장. 지난번 어전 시합, 잘 봤어.」"
+
+[[dialogue]]
+speaker = "マハムート"
+original = "「私は新星学園３年生、<ruby>妃竜院<rt>きりゅういん</rt></ruby>マハムートよ」"
+translation = "「나는 신성학원 3학년, <u>히노미야</u> 마하무트다.」"
+
+[[dialogue]]
+speaker = "unk"
+original = "よろしくお願いします、先輩"
+translation = "잘 부탁드립니다, 선배"
+
+[[dialogue]]
+speaker = "マハムート"
+original = "「礼儀正しくて良いことね。けれど、私は周りから畏怖を込めて『マム』と呼ばれているの」"
+translation = "「예의 발라서 좋군. 하지만 나는 주변에서 경외를 담아 『마무』라고 불리고 있지.」"
+
+[[dialogue]]
+speaker = "マハムート"
+original = "「したがって──」"
+translation = "「따라서──」"
+
+[[dialogue]]
+speaker = "マハムート"
+original = "「アナタも今この瞬間から、私のことをマムと呼びなさい！\u3000ちなみに返事は、イエス・マムよ！」"
+translation = "「너도 지금 이 순간부터 나를 마무라고 불러라! 참고로 대답은 『예스 마무』다!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "い、イエス・マム"
+translation = "예, 예스 마무"
+
+[[dialogue]]
+speaker = "マハムート"
+original = "「声が小さいわね。まあ、言えただけ良しとしてあげるわ」"
+translation = "「목소리가 작군. 뭐, 말한 것만으로도 봐주도록 하지.」"
+
+[[dialogue]]
+speaker = "マハムート"
+original = "「それで本題だけど、今回会いに来たのは、私が『新星寮ラルーナ』の寮長だからよ」"
+translation = "「그래서 본론인데, 이번에 만나러 온 건 내가 『신성 기숙사 라 루나』의 기숙사장이기 때문이다.」"
+
+[[dialogue]]
+speaker = "マハムート"
+original = "「アナタは新星寮について、どのくらい知っているのかしら？」"
+translation = "「너는 신성 기숙사에 대해 얼마나 알고 있지?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "実はまだ、よく知らなくて……"
+translation = "사실 아직 잘 몰라서……"
+
+[[dialogue]]
+speaker = "マハムート"
+original = "「やれやれ勉強不足ね。会いに来て正解だったわ」"
+translation = "「이런, 공부 부족이군. 만나러 오길 잘했어.」"
+
+[[dialogue]]
+speaker = "マハムート"
+original = "「なら、今のうちに頭に叩き込んでおきなさい。星徒会長の仕事にも関わることよ」"
+translation = "「그럼 지금 머릿속에 박아넣어 두도록 해라. 성도회장의 업무와도 관련된 일이니까.」"
+
+[[dialogue]]
+speaker = "マハムート"
+original = "「新星学園と流星学園では、三界から強い星力を持つ生徒達を集めているわ」"
+translation = "「신성학원과 유성학원에서는 삼계에서 강한 성력을 가진 학생들을 모으고 있다.」"
+
+[[dialogue]]
+speaker = "マハムート"
+original = "「種族を問わず、私のような魔族や、天使の生徒もね。それで生徒の多くは、学園の寮暮らしをしているの」"
+translation = "「종족을 불문하고 나 같은 마족이나 천사 학생도 말이지. 그래서 학생들 대부분은 학원 기숙사 생활을 하고 있어.」"
+
+[[dialogue]]
+speaker = "マハムート"
+original = "「その寮が『新星寮ラルーナ』と『流星寮イルソーレ』というわけ」"
+translation = "「그 기숙사가 『신성 기숙사 라 루나』와 『유성 기숙사 일 솔레』라는 거다.」"
+
+[[dialogue]]
+speaker = "マハムート"
+original = "「そして私は、１年に１度行われる寮内投票で選ばれた、新星寮の寮長<ruby>『宵闇の極星』<rt>エトワール・ラルーナ</rt></ruby>なのよ」"
+translation = "「그리고 나는 1년에 한 번 열리는 기숙사 내 투표로 선출된 신성 기숙사의 기숙사장 <ruby>『초저녁의 극성』<rt>에투알 라 루나</rt></ruby>이지.」"
+
+[[dialogue]]
+speaker = "unk"
+original = "宵闇の極星？"
+translation = "초저녁의 극성?"
+
+[[dialogue]]
+speaker = "マハムート"
+original = "「新星寮の寮長に与えられる称号のようなものね。ラルーナは夜って意味があるのよ。だから、『夜の闇で最も輝く星』ってことね」"
+translation = "「신성 기숙사 기숙사장에게 주어지는 칭호 같은 거다. 라 루나는 밤이라는 의미가 있지. 그러니까 『밤의 어둠에서 가장 빛나는 별』이라는 뜻이다.」"
+
+[[dialogue]]
+speaker = "マハムート"
+original = "「言っておくけど、寮長の称号は伊達じゃないわよ？\u3000星徒会長は学園内で最も大きな権限が与えられているけれど、寮に関しては寮長の権限の方が優先されるわ」"
+translation = "「말해두겠는데, 기숙사장의 칭호는 장식이 아니라고? 성도회장은 학원 내에서 가장 큰 권한이 주어지지만, 기숙사에 관해서는 기숙사장의 권한이 우선된다.」"
+
+[[dialogue]]
+speaker = "マハムート"
+original = "「つまり、アナタが寮に関わる際には、まず私に話を通す必要があるということよ。星徒会長といえども、寮の運営で勝手なことは許さないから、しっかり覚えておきなさい」"
+translation = "「즉, 네가 기숙사와 관련된 일을 할 때는 먼저 나를 거쳐야 한다는 소리다. 성도회장이라 할지라도 기숙사 운영에서 멋대로 구는 건 용납하지 않으니 똑똑히 기억해둬라.」"
+
+[[dialogue]]
+speaker = "unk"
+original = "イエス・マム！"
+translation = "예스 마무!"
+
+[[dialogue]]
+speaker = "マハムート"
+original = "「ふっ、今度は良い返事ね。その調子で私を畏怖なさい」"
+translation = "「훗, 이번엔 대답이 좋군. 그 기세로 나를 경외하도록 해라.」"
+
+[[dialogue]]
+speaker = "マハムート"
+original = "「それから、他にも言っておくことがあるわ」"
+translation = "「그리고 다른 것도 말해둘 게 있다.」"
+
+[[dialogue]]
+speaker = "マハムート"
+original = "「アナタ、流星学園の星徒会長である、星見フィオナと仲が良いみたいね？\u3000サーシャから聞いたわ」"
+translation = "「너, 유성학원의 성도회장인 호시미 피오나와 사이가 좋은 모양이더군? 사샤에게 들었다.」"
+
+[[dialogue]]
+speaker = "マハムート"
+original = "「何も知らないままでは困るから忠告しておくけれど、流星学園はライバル校でもあると、わかっているのかしら？」"
+translation = "「아무것도 모르는 채로는 곤란하니 충고해두겠는데, 유성학원은 라이벌 학교이기도 하다는 걸 알고 있나?」"
+
+[[dialogue]]
+speaker = "マハムート"
+original = "「新星と流星は毎年、『学園対抗杯』というものを行っていて、実力を競い合っているの」"
+translation = "「신성과 유성은 매년 『학원 대항배』라는 것을 열어 실력을 겨루고 있지.」"
+
+[[dialogue]]
+speaker = "マハムート"
+original = "「そして遺憾なことに、新星はここ２年、流星に連敗を喫してしまっているわ」"
+translation = "「그리고 유감스럽게도 신성은 최근 2년간 유성에게 연패를 당하고 있다.」"
+
+[[dialogue]]
+speaker = "マハムート"
+original = "「だから今年こそは、流星を完膚なきまでに叩きのめし、勝利するのよ！」"
+translation = "「그러니 올해야말로 유성을 완벽하게 짓뭉개고 승리하는 거다!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "そこまで対抗心を抱かなくても……"
+translation = "그렇게까지 대항심을 갖지 않아도……"
+
+[[dialogue]]
+speaker = "unk"
+original = "同じ星騎士の仲間なんですし、"
+translation = "같은 성기사 동료이기도 하고요."
+
+[[dialogue]]
+speaker = "マハムート"
+original = "「甘いわよ！\u3000アナタ、新星寮と流星寮を見比べたことあるのかしら？」"
+translation = "「무르군! 너, 신성 기숙사와 유성 기숙사를 비교해본 적은 있나?」"
+
+[[dialogue]]
+speaker = "マハムート"
+original = "「自宅から通っているから、気にしたことないでしょう？\u3000付いて来なさい」"
+translation = "「집에서 통학하니까 신경 쓴 적 없겠지? 따라와라.」"
+
+[[dialogue]]
+speaker = "マハムート"
+original = "「寮は校門の向かいにあって、まずこれが<ruby>新星寮<rt>ラルーナ</rt></ruby>──」"
+translation = "「기숙사는 교문 맞은편에 있고, 우선 이게 <ruby>신성 기숙사<rt>라 루나</rt></ruby>──」"
+
+[[dialogue]]
+speaker = "unk"
+original = "うん、普通"
+translation = "음, 평범하네요."
+
+[[dialogue]]
+speaker = "マハムート"
+original = "「そして、これがライバルの<ruby>流星寮<rt>イルソーレ</rt></ruby>よ！」"
+translation = "「그리고 이게 라이벌인 <ruby>유성 기숙사<rt>일 솔레</rt></ruby>다!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "って、どこ？"
+translation = "어라, 어디요?"
+
+[[dialogue]]
+speaker = "マハムート"
+original = "「目を背けてはダメよ。校門の対面にある、そのリゾート高級ホテルのような建物こそが、流星寮なの」"
+translation = "「눈을 돌리면 안 된다. 교문 맞은편에 있는 저 리조트 고급 호텔 같은 건물이 바로 유성 기숙사다.」"
+
+[[dialogue]]
+speaker = "unk"
+original = "……は？"
+translation = "……네?"
+
+[[dialogue]]
+speaker = "マハムート"
+original = "「流星の元寮長に凄い資産家が居て資金援助しているとかで、新星寮と流星寮の間には、とんでもない設備格差があるのよ！」"
+translation = "「유성의 전 기숙사장이 엄청난 자산가라 자금 원조를 해주고 있어서, 신성 기숙사와 유성 기숙사 사이에는 엄청난 설비 격차가 있다고!」"
+
+[[dialogue]]
+speaker = "マハムート"
+original = "「これで対抗心を抱かないとか、あり得ないわ……！」"
+translation = "「이걸 보고도 대항심을 안 갖는다는 건 말이 안 돼……!」"
+

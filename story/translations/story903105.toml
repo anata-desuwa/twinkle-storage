@@ -1,0 +1,520 @@
+[[dialogue]]
+speaker = "陽彩"
+original = "「ああ、やっと来たかい。待っていたよ」"
+translation = "「아아, 드디어 왔나 보네. 기다리고 있었어」"
+
+[[dialogue]]
+speaker = "unk"
+original = "悪魔の出現を知らせるデュナミスフィアに従って現場に駆け付けると、薄笑いを浮かべた陽彩が待っていた。"
+translation = "악마의 출현을 알리는 듀나미스피어를 따라 현장에 도착하자, 옅은 미소를 띤 아키사가 기다리고 있었다."
+
+[[dialogue]]
+speaker = "unk"
+original = "辺りには恐らく、陽彩にやられてしまったのだろう大勢の星騎士たちが気を失っている。"
+translation = "주변에는 아마 아키사에게 당한 것이 분명한 수많은 성기사가 정신을 잃고 쓰러져 있다."
+
+[[dialogue]]
+speaker = "いろは"
+original = "「これ全部、陽彩ちゃんがやったの！？」"
+translation = "「이거 전부 아키사짱이 한 거야!?」"
+
+[[dialogue]]
+speaker = "トレジアンナ"
+original = "「だとしたらすごいですね～。私たちが駆け付けるまでの間に、これだけの子たちとキスをしたということですから♪」"
+translation = "「그렇다면 대단하네요~. 저희가 도착할 때까지 이만큼의 아이들과 키스를 했다는 뜻이니까요♪」"
+
+[[dialogue]]
+speaker = "ここあ"
+original = "「にゃはは。あきあきって手が早かったんだね～」"
+translation = "「냐하하. 아키아키 손이 꽤 빨랐네~」"
+
+[[dialogue]]
+speaker = "トレジアンナ"
+original = "「陽彩さん、ですよね？\u3000私なりに分析したあなたの能力について、解説させてもらってもよろしいでしょうか？」"
+translation = "「아키사 씨, 맞죠? 나름대로 분석한 당신의 능력에 대해 해설해드려도 될까요?」"
+
+[[dialogue]]
+speaker = "陽彩"
+original = "「ぼくの能力を？\u3000へえ、おもしろいな。聞かせてもらおうじゃないか」"
+translation = "「내 능력을? 헤에, 재미있네. 어디 한번 들어보자고」"
+
+[[dialogue]]
+speaker = "トレジアンナ"
+original = "「ありがとうございます。では――」"
+translation = "「감사합니다. 그럼――」"
+
+[[dialogue]]
+speaker = "トレジアンナ"
+original = "「まずあなたの能力を『ピンク脳症候群』と名付けさせてもらいました。この症状はキスなどの粘膜接触によって感染します」"
+translation = "「우선 당신의 능력을 『핑크 뇌 증후군』이라고 이름 붙였습니다. 이 증상은 키스 같은 점막 접촉에 의해 감염됩니다」"
+
+[[dialogue]]
+speaker = "トレジアンナ"
+original = "「おそらく目に見えないほどの、細菌のようなものを相手に送り込んでいるのでしょう」"
+translation = "「아마 눈에 보이지 않을 정도의 세균 같은 것을 상대에게 보내고 있는 것이겠죠」"
+
+[[dialogue]]
+speaker = "陽彩"
+original = "「…………」"
+translation = "「…………」"
+
+[[dialogue]]
+speaker = "トレジアンナ"
+original = "「感染してしばらくすると極度の興奮状態に陥り、やがて欲望が抑えられなくなってしまいます！！」"
+translation = "「감염되고 잠시 지나면 극도의 흥분 상태에 빠지고, 이윽고 욕망을 억제할 수 없게 되어버립니다!!」"
+
+[[dialogue]]
+speaker = "トレジアンナ"
+original = "「その欲望を満たすことで『気持ちよさ』を覚え、頂点に達すると気を失ってしまう……これが私の分析です☆\u3000いかがでしょうか？」"
+translation = "「그 욕망을 채움으로써 『기분 좋음』을 느끼고, 정점에 달하면 정신을 잃고 마는…… 이것이 저의 분석입니다☆ 어떠신가요?」"
+
+[[dialogue]]
+speaker = "陽彩"
+original = "「やるじゃないか……特にこの能力が寄生に由来していることをすでに見抜いてるのは素晴らしいな。ぼくの実験結果とも合致しているよ」"
+translation = "「제법이네…… 특히 이 능력이 기생에서 유래했다는 걸 이미 간파하고 있다니 훌륭해. 내 실험 결과와도 일치하고 있어」"
+
+[[dialogue]]
+speaker = "トレジアンナ"
+original = "「そのうえで問いましょう！\u3000あなたの目的は――一体何ですか？」"
+translation = "「그 점을 전제로 묻겠습니다! 당신의 목적은―― 대체 무엇입니까?」"
+
+[[dialogue]]
+speaker = "陽彩"
+original = "「……目的は、ないよ。自分の能力がどれ程のものか、知りたいだけだ」"
+translation = "「……목적은, 없어. 내 능력이 어느 정도인지, 알고 싶을 뿐이다」"
+
+[[dialogue]]
+speaker = "陽彩"
+original = "「強いて言うなら、そうだな……例えばこれが街中に広まったら一体どんなことになるか──そういったことは知りたいかもしれないね」"
+translation = "「굳이 말하자면, 그래…… 예를 들어 이것이 거리 전체에 퍼진다면 대체 어떤 일이 벌어질지── 그런 건 알고 싶을지도 모르겠네」"
+
+[[dialogue]]
+speaker = "トレジアンナ"
+original = "「なるほど、それはとても興味深いですねっ☆」"
+translation = "「과연, 그건 아주 흥미롭네요☆」"
+
+[[dialogue]]
+speaker = "サチ"
+original = "「トレジアンナさん！！？」"
+translation = "「트레지아나 씨!!?」"
+
+[[dialogue]]
+speaker = "トレジアンナ"
+original = "「おっと、すみません。つい好奇心が……」"
+translation = "「오 이런, 죄송해요. 그만 호기심이……」"
+
+[[dialogue]]
+speaker = "サチ"
+original = "「そんなエッチなことは絶対にさせません！\u3000ここで止めてみせますっ！！」"
+translation = "「그런 야한 짓은 절대로 하게 두지 않겠어요! 여기서 막아 보이겠어요!!」"
+
+[[dialogue]]
+speaker = "陽彩"
+original = "「ああ、きみか……きみはどうやら厄介な力を持っているようだ」"
+translation = "「아아, 너로군…… 너는 아무래도 까다로운 힘을 가지고 있는 모양이야」"
+
+[[dialogue]]
+speaker = "サチ"
+original = "（っ……この人、戦ってもいないのに<b>あの力</b>を見抜いて！？）"
+translation = "（윽…… 이 사람, 싸우지도 않았는데 <b>그</b> <b>힘</b>을 간파했다고!?）"
+
+[[dialogue]]
+speaker = "陽彩"
+original = "「だから──」"
+translation = "「그러니까──」"
+
+[[dialogue]]
+speaker = "サチ"
+original = "「えっ！？」"
+translation = "「엣!?」"
+
+[[dialogue]]
+speaker = "プリムラ"
+original = "「どうしたんじゃ、サチ！？\u3000突然座り込んで！」"
+translation = "「어찌 된 것이냐, 사치!? 갑자기 주저앉다니!」"
+
+[[dialogue]]
+speaker = "陽彩"
+original = "「とりあえずその隠し持っている力は封じさせてもらった」"
+translation = "「일단 그 숨겨두고 있는 힘은 봉인해 두었어」"
+
+[[dialogue]]
+speaker = "サチ"
+original = "（っ……切り札のフォルトゥーナフォームを……！）"
+translation = "（윽…… 히든카드인 포르투나 폼을……!）"
+
+[[dialogue]]
+speaker = "陽彩"
+original = "「ああ、それからきみの頼りにしている人物への通信も絶っておいたよ。実験を邪魔されたくないからね」"
+translation = "「아아, 그리고 네가 의지하고 있는 인물과의 통신도 끊어두었어. 실험을 방해받고 싶지 않으니까 말이야」"
+
+[[dialogue]]
+speaker = "サチ"
+original = "「お兄さんへの連絡がつながらなかったのって……あなたのせいだったんですね！」"
+translation = "「오빠와의 연락이 닿지 않았던 게…… 당신 때문이었군요!」"
+
+[[dialogue]]
+speaker = "プリムラ"
+original = "「ふん！\u3000サチのフォームチェンジを封じた程度で、勝った気になるのは早いのじゃ！」"
+translation = "「흥! 사치의 폼 체인지를 봉인한 정도로 이겼다고 생각하면 오산이니라!」"
+
+[[dialogue]]
+speaker = "シズハ"
+original = "「要はキスさえされなければいいんだから、さっきは油断したけど、今度はそうは行かないわ！」"
+translation = "「요는 키스만 당하지 않으면 되는 거니까, 아까는 방심했지만 이번엔 그렇게 안 될 거야!」"
+
+[[dialogue]]
+speaker = "陽彩"
+original = "「ふふ……果たして本当にそうかな？」"
+translation = "「후후…… 과연 정말 그럴까?」"
+
+[[dialogue]]
+speaker = "シズハ"
+original = "「えっ！？」"
+translation = "「엣!?」"
+
+[[dialogue]]
+speaker = "プリムラ"
+original = "「消えた、じゃと！？」"
+translation = "「사라졌다, 고!?」"
+
+[[dialogue]]
+speaker = "陽彩"
+original = "「捕まえた。デビルウイルス……レベル２」"
+translation = "「잡았다. 데빌 바이러스…… 레벨 2」"
+
+[[dialogue]]
+speaker = "プリムラ"
+original = "「な……んんん～～っ！？！？」"
+translation = "「나…… 응응응~~!?」"
+
+[[dialogue]]
+speaker = "サチ"
+original = "「プリムラ！！！」"
+translation = "「프리뮬러!!!」"
+
+[[dialogue]]
+speaker = "花織"
+original = "「何なの、今の動き！？\u3000さっきより何倍も速くなってる」"
+translation = "「뭐야, 방금 그 움직임!? 아까보다 몇 배나 빨라졌어」"
+
+[[dialogue]]
+speaker = "プリムラ"
+original = "「っ……ぷはっ！\u3000ざ、残念じゃったな！\u3000狙った相手が悪かったのじゃ！」"
+translation = "「윽…… 푸하! 저, 유감이었구나! 노린 상대가 나빴느니라!」"
+
+[[dialogue]]
+speaker = "プリムラ"
+original = "「我は悪の終末兵器メルクリウス！\u3000ピンク脳じゃか何だか知らんが、我にそんなものは効かん……の、じゃ……」"
+translation = "「짐은 악의 종말병기 메르쿠리우스! 핑크 뇌인지 뭔지는 모르겠지만, 짐에게 그런 건 통하지 않……느, 니라……」"
+
+[[dialogue]]
+speaker = "プリムラ"
+original = "「…………」"
+translation = "「…………」"
+
+[[dialogue]]
+speaker = "プリムラ"
+original = "「ばぶぅ……？」"
+translation = "「바부……?」"
+
+[[dialogue]]
+speaker = "サチ"
+original = "「赤ちゃんになった！！？」"
+translation = "「아기가 됐어!!?」"
+
+[[dialogue]]
+speaker = "シズハ"
+original = "「プリムラちゃんの欲望の開放って、赤ちゃんになることなの！？」"
+translation = "「프리뮬러짱의 욕망 해방이 아기가 되는 거였어!?」"
+
+[[dialogue]]
+speaker = "サチ"
+original = "「意外……でもないか。甘えたがりのくせに、人に甘えるの苦手だから……」"
+translation = "「의외……는 아닌가. 어리광 부리고 싶어 하는 주제에, 남한테 어리광 부리는 건 서투니까……」"
+
+[[dialogue]]
+speaker = "トレジアンナ"
+original = "「もしかして、さっきのシズハさんが羨ましかったんですかね～？」"
+translation = "「혹시 아까 시즈하 씨가 부러웠던 걸까요~?」"
+
+[[dialogue]]
+speaker = "プリムラ"
+original = "「はぁあぁ<emoji=heart04>\u3000あぁあ<emoji=heart04>\u3000うぅう……ママぁ……<emoji=heart04>」"
+translation = "「하아아아<emoji=heart04> 아아아<emoji=heart04> 우으으…… 엄마아……<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "ここあ"
+original = "「プリちん～？\u3000そんなところで<b>はいはい</b>してると危ないよ～」"
+translation = "「프리칭~? 그런 데서 <b>아장아장</b> 기어 다니면 위험하다구~」"
+
+[[dialogue]]
+speaker = "プリムラ"
+original = "「だあぁ♪」"
+translation = "「다아♪」"
+
+[[dialogue]]
+speaker = "いろは"
+original = "「ナイス救出だよ、ここにゃん！」"
+translation = "「나이스 구출이야, 코코냥!」"
+
+[[dialogue]]
+speaker = "ここあ"
+original = "「さ、もう大丈夫だからね～」"
+translation = "「자, 이제 괜찮으니까 말이야~」"
+
+[[dialogue]]
+speaker = "プリムラ"
+original = "「ふわぁぁっ<emoji=heart04>\u3000ここぁあ～、ちゅっ<emoji=heart04>」"
+translation = "「후와아앗<emoji=heart04> 코코아아~, 쪽<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "ここあ"
+original = "「んっ……！？」"
+translation = "「음……!?」"
+
+[[dialogue]]
+speaker = "ここあ"
+original = "「…………」"
+translation = "「…………」"
+
+[[dialogue]]
+speaker = "ここあ"
+original = "「はぁあ<emoji=heart04>\u3000はぁ<emoji=heart04>\u3000はぁ<emoji=heart04>\u3000も～、プリちんはかわいいでちゅね～～<emoji=heart04>\u3000ふわぁぁっ<emoji=heart04>\u3000ここあママがよちよちしてあげまちゅよぉ～～<emoji=heart04>」"
+translation = "「하아아<emoji=heart04> 하아<emoji=heart04> 하아<emoji=heart04> 정말~, 프리칭은 귀엽다니까요~~<emoji=heart04> 후와아앗<emoji=heart04> 코코아 엄마가 어화둥둥 해줄게용~~<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "いろは"
+original = "「あ、あれ？\u3000なんかここにゃんの様子もおかしくなってない？」"
+translation = "「어, 어라? 왠지 코코냥의 상태도 이상해지지 않았어?」"
+
+[[dialogue]]
+speaker = "ここあ"
+original = "「はぁあぁっ<emoji=heart04>\u3000んんぅっ<emoji=heart04>\u3000別におかしくないと思うけど～、なんかプリちんのこと、ちょー可愛がりたい気分なんだよね～<emoji=heart04>\u3000はふぅぅ<emoji=heart04>」"
+translation = "「하아아앗<emoji=heart04> 응윽<emoji=heart04> 딱히 이상하지 않다고 생각하는데~, 왠지 프리칭을 엄청 예뻐해 주고 싶은 기분이라구~<emoji=heart04> 하후우우<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "プリムラ"
+original = "「ばぶ～ぅ<emoji=heart04>\u3000ふわぁぁっ<emoji=heart04>」"
+translation = "「바부~우<emoji=heart04> 후와아앗<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "ここあ"
+original = "「ん～、どちたの～？\u3000あぁあっ<emoji=heart04>\u3000そっかそっか～<emoji=heart04>\u3000おっぱいが欲ちいんだね～<emoji=heart04>\u3000ふわぁぁっ<emoji=heart04>\u3000すぐにあげるから、ちょっと待ってね～<emoji=heart04>」"
+translation = "「응~, 왜 구랬쪄용~? 아아앗<emoji=heart04> 구렇구나 구렇구나~<emoji=heart04> 쭈쭈가 먹고 싶었구나~<emoji=heart04> 후와아앗<emoji=heart04> 금방 줄 테니까 조금만 기다려용~<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "花織"
+original = "「ストップストップ、ストーーーップ！\u3000ここあさん、母乳なんて出るわけないでしょ！？」"
+translation = "「스톱 스톱, 스토오오옵! 코코아 씨, 모유 같은 게 나올 리가 없잖아요!?」"
+
+[[dialogue]]
+speaker = "ここあ"
+original = "「はぁあぁっ<emoji=heart04>\u3000それはそうなんだけど～。ま、試しに吸ってもらうのも、いいかなぁって<emoji=heart04>\u3000あぁあっ<emoji=heart04>\u3000は～い、プリちん、おっぱいちゅっちゅしましょうね～<emoji=heart04>」"
+translation = "「하아아앗<emoji=heart04> 그건 그렇지만서도~. 뭐, 시험 삼아 빨아보게 하는 것도 괜찮을까 싶어서<emoji=heart04> 아아앗<emoji=heart04> 자~, 프리칭, 쭈쭈 쪽쪽 해봐용~<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "プリムラ"
+original = "「あ～い♪\u3000あぁああぁあぁぁ～<emoji=heart04>」"
+translation = "「아~이♪ 아아아아아아아아~<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "いろは"
+original = "「うわ！？\u3000なんかもう、見てらんない景色が……！」"
+translation = "「우와!? 왠지 벌써 눈 뜨고 못 볼 광경이……!」"
+
+[[dialogue]]
+speaker = "サチ"
+original = "「トレジアンナさん、何が起こってるんですか！？」"
+translation = "「트레지아나 씨, 무슨 일이 일어나고 있는 건가요!?」"
+
+[[dialogue]]
+speaker = "トレジアンナ"
+original = "「ふむ。これはもしかして……」"
+translation = "「흠. 이건 혹시……」"
+
+[[dialogue]]
+speaker = "陽彩"
+original = "「ん、何だい、きみは？」"
+translation = "「응, 뭐야 넌?」"
+
+[[dialogue]]
+speaker = "トレジアンナ"
+original = "「失礼しますね～？\u3000ん～、ちゅっ<emoji=heart04>」"
+translation = "「실례할게요~? 음~, 쪽<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "サチ"
+original = "「なっ、トレジアンナさん！？\u3000どうして自分からキスしに……！？」"
+translation = "「앗, 트레지아나 씨!? 왜 스스로 키스하러 가는 건가요!?」"
+
+[[dialogue]]
+speaker = "トレジアンナ"
+original = "「ちょっと確かめたいことがありまして♪\u3000ふむふむ、この感じ……」"
+translation = "「잠깐 확인하고 싶은 게 있어서요♪ 흠흠, 이 느낌……」"
+
+[[dialogue]]
+speaker = "トレジアンナ"
+original = "「ほうほう……なるほど♪\u3000これは１本取られましたね～☆」"
+translation = "「호오호오…… 과연♪ 이건 한 방 먹었네요~☆」"
+
+[[dialogue]]
+speaker = "サチ"
+original = "「えっ、どういうことですか？」"
+translation = "「엣, 무슨 소리인가요?」"
+
+[[dialogue]]
+speaker = "トレジアンナ"
+original = "「ピンク脳症候群ですが――ズバリ、どうやら能力が進化してしまっているようです！」"
+translation = "「핑크 뇌 증후군 말입니다만―― 정답은, 아무래도 능력이 진화해버린 모양입니다!」"
+
+[[dialogue]]
+speaker = "サチ"
+original = "「はい！？」"
+translation = "「네!?」"
+
+[[dialogue]]
+speaker = "いろは"
+original = "「つまりどういうこと？」"
+translation = "「즉 무슨 소리야?」"
+
+[[dialogue]]
+speaker = "トレジアンナ"
+original = "「陽彩さんが相手でなくても、罹患者にキスされてしまうと感染してしまいます☆」"
+translation = "「아키사 씨가 상대가 아니더라도, 이환자에게 키스를 당해버리면 감염되어 버립니다☆」"
+
+[[dialogue]]
+speaker = "サチ"
+original = "「ええええええーーーーーっ！！！？」"
+translation = "「에에에에에에—————엣!!!?」"
+
+[[dialogue]]
+speaker = "トレジアンナ"
+original = "「はぁあ<emoji=heart04>\u3000しかし、どうやってこんな大勢の星騎士を感染させたのか引っ掛かっていたのですが、これで納得がいきました☆」"
+translation = "「하아아<emoji=heart04> 하지만, 어떻게 이렇게 많은 성기사를 감염시켰는지 의문이었는데, 이걸로 납득이 갔네요☆」"
+
+[[dialogue]]
+speaker = "陽彩"
+original = "「街中の人を感染させるために、全員にキスして回るわけにはいかないだろう？\u3000けれどこれなら、ぼくが何もしなくてもどんどん広がっていく」"
+translation = "「거리의 사람들을 감염시키기 위해 일일이 키스하고 다닐 수는 없잖아? 하지만 이거라면 내가 아무것도 하지 않아도 점점 퍼져나가겠지」"
+
+[[dialogue]]
+speaker = "花織"
+original = "「あれ？\u3000でもトレジアンナさんには効いてないみたいだよね？\u3000どうしてなの？」"
+translation = "「어라? 근데 트레지아나 씨한테는 안 통하는 것 같은데? 왜 그런 거야?」"
+
+[[dialogue]]
+speaker = "トレジアンナ"
+original = "「いえいえ～、ちゃんと罹患してますよ☆\u3000はぁあぁ<emoji=heart04>」"
+translation = "「아뇨아뇨~, 제대로 걸려 있다구요☆ 하아아아<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "トレジアンナ"
+original = "「ただ、はふぅぅ<emoji=heart04>\u3000私の脳内はいつでもピンク色で、常に欲望のままに生きていますから、普段とあまり変わらないだけです☆」"
+translation = "「다만, 하후우우<emoji=heart04> 제 뇌 속은 언제나 핑크색이고, 늘 욕망대로 살고 있으니까 평소랑 별반 다르지 않을 뿐이에요☆」"
+
+[[dialogue]]
+speaker = "サチ"
+original = "「最悪ですっ！！」"
+translation = "「최악이에요!!」"
+
+[[dialogue]]
+speaker = "トレジアンナ"
+original = "「あぁああぁあぁぁ～<emoji=heart04>\u3000でもこれ、効きますね～☆\u3000あああ、そこそこ、きもちい～です～♪」"
+translation = "「아아아아아아아아~<emoji=heart04> 하지만 이거, 잘 듣네요~☆ 아아아, 거기 거기, 기분 좋아~요~♪」"
+
+[[dialogue]]
+speaker = "サチ"
+original = "「マッサージ器じゃないんですけど！？」"
+translation = "「마사지기가 아니거든요!?」"
+
+[[dialogue]]
+speaker = "トレジアンナ"
+original = "「あ、それとですね～……はぁあぁ<emoji=heart04>\u3000レベル２に感染すると……どうやら、たまらなく誰かにキスしたくなるみたいです<emoji=heart04>」"
+translation = "「아, 그리고 말이죠~…… 하아아아<emoji=heart04> 레벨 2에 감염되면…… 아무래도 참을 수 없이 누군가에게 키스하고 싶어지는 모양이에요<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "トレジアンナ"
+original = "「というわけでいろはさ～ん――ちゅっ<emoji=heart04>」"
+translation = "「그런 고로 이로하 사~앙―― 쪽<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "いろは"
+original = "「っ……！？」"
+translation = "「윽……!?」"
+
+[[dialogue]]
+speaker = "サチ"
+original = "「あ……」"
+translation = "「아……」"
+
+[[dialogue]]
+speaker = "花織"
+original = "「い、いろは……？」"
+translation = "「이, 이로하……?」"
+
+[[dialogue]]
+speaker = "いろは"
+original = "「……ふふ<emoji=heart04>\u3000ふふふふふふっ<emoji=heart04>\u3000カ～オリン<emoji=heart04>\u3000はぁあ<emoji=heart04>」"
+translation = "「……후후<emoji=heart04> 후후후후후후훗<emoji=heart04> 카~올린<emoji=heart04> 하아아<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "花織"
+original = "「その手は何……？\u3000ワキワキさせながら寄ってこないで……怖いから」"
+translation = "「그 손은 뭐야……? 꼼지락거리면서 다가오지 마…… 무서우니까」"
+
+[[dialogue]]
+speaker = "いろは"
+original = "「はぁあぁ<emoji=heart04>\u3000だぁいじょうぶ、楽しくなるだけだよ<emoji=heart04>\u3000……こちょこちょこちょ！」"
+translation = "「하아아아<emoji=heart04> 괜찮아, 즐거워질 뿐이야<emoji=heart04> ……간질간질간질!」"
+
+[[dialogue]]
+speaker = "花織"
+original = "「く、くすぐんないでっ！\u3000あははっ！\u3000何でこんなことするのよっ！」"
+translation = "「가, 간지럽히지 마! 아하핫! 왜 이런 짓을 하는 거야!」"
+
+[[dialogue]]
+speaker = "いろは"
+original = "「だぁってぇ、我慢できなくってぇ<emoji=heart04>\u3000あぁあっ<emoji=heart04>\u3000カオリンがあえいでるところ、見たいんだもんっ<emoji=heart04>」"
+translation = "「그으치만, 참을 수가 없는걸<emoji=heart04> 아아앗<emoji=heart04> 카올린이 앙앙거리는 모습, 보고 싶단 말야앗<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "花織"
+original = "「これがいろはの欲望だっての！？\u3000ちょっと悪趣味すぎるよっ！」"
+translation = "「이게 이로하의 욕망이라는 거야!? 좀 너무 악취미잖아!」"
+
+[[dialogue]]
+speaker = "いろは"
+original = "「あっ、待って！\u3000あぁぁ<emoji=heart04>\u3000逃げるな、カオリ～ン<emoji=heart04>」"
+translation = "「앗, 기다려! 아아아<emoji=heart04> 도망가지 마, 카올린~<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "サチ"
+original = "「逃げてください、花織さんっ！\u3000このままではマズいです！！\u3000シズハちゃん！\u3000無事な私たち３人だけでも撤退を――」"
+translation = "「도망치세요, 카오리 씨! 이대로는 위험해요!! 시즈하짱! 무사한 우리 셋만이라도 철수를――」"
+
+[[dialogue]]
+speaker = "トレジアンナ"
+original = "「ちゅ～～～～っ<emoji=heart04>」"
+translation = "「쪽~~~~<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "シズハ"
+original = "「ちゅ～～～～っ<emoji=heart04>」"
+translation = "「쪽~~~~<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "サチ"
+original = "「もうキスされてるぅ～～～～っ！！？」"
+translation = "「이미 키스당하고 있어~~~~엇!!?」"
+
+[[dialogue]]
+speaker = "陽彩"
+original = "「おやおや、どんどん大変なことになっていくね。さて、きみはどうする？」"
+translation = "「이런 이런, 점점 큰일이 되어가네. 자, 넌 어떻게 할 거지?」"
+
+[[dialogue]]
+speaker = "サチ"
+original = "「て、撤退ですぅ～～～～～～っ！！！！」"
+translation = "「처, 철수예요~~~~~~~~~~!!!!」"
+

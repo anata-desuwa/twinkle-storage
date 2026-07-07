@@ -1,0 +1,260 @@
+[[dialogue]]
+speaker = "unk"
+original = "マムに訓練指導してもらうようになってから、１週間が経過した。"
+translation = "마무에게 훈련 지도를 받게 된 지 1주일이 경과했다."
+
+[[dialogue]]
+speaker = "マハムート"
+original = "「アム！\u3000このままスパイク行くわよ！」"
+translation = "「아무! 이대로 스파이크 간다!」"
+
+[[dialogue]]
+speaker = "アム"
+original = "「はい！\u3000どんと来いです！」"
+translation = "「네! 얼마든지 오세요!」"
+
+[[dialogue]]
+speaker = "マハムート"
+original = "「竜の火球、受け止めてみなさい！\u3000スパイクメガフレアッ！」"
+translation = "「용의 화구, 받아내 보렴! 스파이크 메가 플레어!」"
+
+[[dialogue]]
+speaker = "アム"
+original = "「重力バリアー、集中展開！\u3000はあぁぁぁっ！」"
+translation = "「중력 배리어, 집중 전개! 하아아아앗!」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "（アムちゃん、すごい……！）"
+translation = "(아무짱, 대단해……!)"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "（さっきから第３波まで、マムが連続でアタックを繰り返してるのに、１つもボールを落とさず、捌き切ってる……！\u3000私はまだ第２波で苦戦してるのに……）"
+translation = "(아까부터 제3파까지 마무가 연속으로 어택을 반복하고 있는데, 공 하나 떨어뜨리지 않고 다 받아내고 있어……! 나는 아직 제2파에서 고전하고 있는데……)"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "（附属校一の盾使いと言われるだけある……やっぱり、普通じゃないよね）"
+translation = "(부속교 제일의 방패술사라고 불릴 만해…… 역시 보통이 아니구나)"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "（ただでさえ堅牢な防御力の持ち主なのに、水着フォームで重力バリアーを張れるようになって、まさに『難攻不落』を体現してる）"
+translation = "(안 그래도 견고한 방어력의 소유자인데, 수영복 폼으로 중력 배리어까지 칠 수 있게 되어서 그야말로 『난공불락』을 구현하고 있어)"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "（純粋な防御能力で、私は絶対に負けてる……私の水着フォームの力は、回復寄りのものだったし……）"
+translation = "(순수한 방어 능력으로 나는 절대로 지고 있어…… 내 수영복 폼의 힘은 회복 계열이었고……)"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "（……私も盾使いとして、何か新しい力を手に入れられたら……）"
+translation = "(……나도 방패술사로서 무언가 새로운 힘을 손에 넣을 수 있다면……)"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「休憩中にごめんね、会長」"
+translation = "「휴식 중에 미안해, 회장님」"
+
+[[dialogue]]
+speaker = "unk"
+original = "どうしたんだ？"
+translation = "무슨 일이야?"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「――実はね、会長にお願いしたいことがあって……」"
+translation = "「──사실은 회장님께 부탁하고 싶은 게 있어서……」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「前に、『アルケインコード』を試してもらったことがあったでしょ？」"
+translation = "「전에 『아르케인 코드』를 시험해 본 적 있었지?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "アルケインコード。それは少し前、伝説の『クルセイダース』の子孫だという女の子――メイプル・モノクラウンが教えてくれた、魔王だけが使えるという秘技だ。"
+translation = "아르케인 코드. 그것은 조금 전, 전설의 『크루세이더스』의 후예라는 여자아이── 메이플 모노크라운이 알려준, 마왕만이 사용할 수 있다는 비기다."
+
+[[dialogue]]
+speaker = "unk"
+original = "３０００年前の魔王ラクシスから受け継がれるそのコードの真名は、『アルケインノヴァエクストリーム』。"
+translation = "3000년 전의 마왕 라크시스로부터 계승되는 그 코드의 진명은 『알케인 노바 익스트림』."
+
+[[dialogue]]
+speaker = "unk"
+original = "魔王と絆を結んだ仲間を強化する技で、発動に成功すると、潜在能力を引き出し新たな戦闘服へと覚醒させることができる。"
+translation = "마왕과 인연을 맺은 동료를 강화하는 기술로, 발동에 성공하면 잠재 능력을 끌어내어 새로운 전투복으로 각성시킬 수 있다."
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「あれをもう１度、私に試してもらえないかな？」"
+translation = "「그걸 다시 한번 나한테 시험해 봐 줄 수 있을까?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "それは構わないけど……"
+translation = "그건 상관없지만……"
+
+[[dialogue]]
+speaker = "unk"
+original = "アルケインコードについては、リクリエとの決戦の前に１度、両星徒会のみんなには試していた。"
+translation = "아르케인 코드에 대해서는 리크리에와의 결전 전에 한 번, 두 성도회 멤버 모두에게 시험해 본 적이 있었다."
+
+[[dialogue]]
+speaker = "unk"
+original = "しかし、何か条件を満たせていないのか、発動することはなかった。"
+translation = "하지만 무언가 조건을 충족하지 못한 것인지 발동되지는 않았다."
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「お願い。ほら、マムに鍛えてもらった今なら、何か変化してるかもしれないし！」"
+translation = "「부탁이야. 봐봐, 마무에게 단련받은 지금이라면 무언가 변화했을지도 모르잖아!」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「あ、あと一応……」"
+translation = "「아, 그리고 일단……」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「会長との絆は、ちゃんとあると思うし……」"
+translation = "「회장님과의 인연은 확실히 있다고 생각하고……」"
+
+[[dialogue]]
+speaker = "unk"
+original = "わかった、やってみようと俺は頷いて、試してみることになった。"
+translation = "알았어, 해보자고 나는 고개를 끄덕이며 시도해 보기로 했다."
+
+[[dialogue]]
+speaker = "unk"
+original = "しかし――"
+translation = "하지만──"
+
+[[dialogue]]
+speaker = "unk"
+original = "……発動しないな"
+translation = "……발동하지 않네."
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「ですよねー」"
+translation = "「그렇죠 뭐.」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "（そう……そんな簡単に秘めたる力の覚醒なんて、上手く行くはずがない。当たり前だ）"
+translation = "(그래…… 그렇게 간단히 숨겨진 힘의 각성 같은 게 잘 풀릴 리가 없어. 당연한 거야)"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "（だって私は……ヴィーナスや会長みたいに、特別な存在じゃないんだから……）"
+translation = "(그야 나는…… 비너스나 회장님처럼 특별한 존재가 아니니까……)"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "（普通の私は、地道に努力するしかない）"
+translation = "(평범한 나는 꾸준히 노력하는 수밖에 없어)"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「……よし。ありがとう、会長」"
+translation = "「……좋아. 고마워, 회장님.」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「自分の現状を再確認できた。私、また頑張るから！」"
+translation = "「내 현주소를 재확인할 수 있었어. 나, 다시 힘낼게!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "そうして、その日の訓練が終わり――"
+translation = "그렇게 그날의 훈련이 끝나고──"
+
+[[dialogue]]
+speaker = "アム"
+original = "「マトイ先輩、お疲れ様で～す！\u3000いや～、今日もなかなかハードでしたね～」"
+translation = "「마토이 선배, 수고하셨습니돠~! 이야~ 오늘도 꽤 하드했네요~」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「アムちゃん、お疲れ様。今日もすごかったよ。マムの攻撃をあれだけ捌き続けるなんて、普通じゃなかなかできないと思う」"
+translation = "「아무짱, 수고했어. 오늘도 대단했어. 마무의 공격을 그만큼이나 계속 받아내다니, 보통은 좀처럼 할 수 없는 일이라고 생각해.」"
+
+[[dialogue]]
+speaker = "アム"
+original = "「そうですか？\u3000えへへっ、いや～、それほどでも～♪」"
+translation = "「그런가요? 에헤헷, 아니~ 그 정도까진~♪」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「それに比べて私は……」"
+translation = "「그에 비하면 나는……」"
+
+[[dialogue]]
+speaker = "アム"
+original = "「？\u3000マトイ先輩……？」"
+translation = "「? 마토이 선배……?」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「新星学園の星徒会役員っていう肩書きばっかりで、やっぱり普通だ……」"
+translation = "「신성학원의 성도회 임원이라는 타이틀만 거창하지 역시 평범해……」"
+
+[[dialogue]]
+speaker = "アム"
+original = "「え？\u3000いやいや、マトイ先輩は会長たちと一緒にリクリエを退けたじゃないですか！」"
+translation = "「에? 아뇨 아뇨, 마토이 선배는 회장님들이랑 같이 리크리에를 물리쳤잖아요!」"
+
+[[dialogue]]
+speaker = "アム"
+original = "「一緒に訓練してて、マトイ先輩の動きはすごく参考になりますよ！\u3000基本をすごく大事にしてるっていうか、お手本って感じで――」"
+translation = "「같이 훈련하면서 마토이 선배의 움직임은 엄청 참고가 된다구요! 기본을 아주 소중히 여긴달까, 본보기라는 느낌이라──」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「あはは、ありがとう。でも、アムちゃんには敵わないよ」"
+translation = "「아하하, 고마워. 하지만 아무짱에겐 당해낼 수 없어.」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「私も先輩として、もっと頑張らないとね」"
+translation = "「나도 선배로서 좀 더 힘내야겠네.」"
+
+[[dialogue]]
+speaker = "アム"
+original = "「…………う～ん」"
+translation = "「…………으음.」"
+
+[[dialogue]]
+speaker = "アム"
+original = "「そうだ、マトイ先輩！\u3000明日って訓練休みじゃないですか」"
+translation = "「맞다, 마토이 선배! 내일 훈련 쉬는 날이잖아요.」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「ああ、うん。マムは用事があるからって……」"
+translation = "「아, 응. 마무가 용무가 있다고 해서……」"
+
+[[dialogue]]
+speaker = "アム"
+original = "「もし予定空いてたら――」"
+translation = "「혹시 예정 비어있으면──」"
+
+[[dialogue]]
+speaker = "アム"
+original = "「あたしとデートしませんか？」"
+translation = "「나랑 데이트하지 않을래요?」"
+
+[[dialogue]]
+speaker = "マトイ"
+original = "「へ！？」"
+translation = "「헤!?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "突然の誘いに、マトイは目をぱちくりさせてしまうのだった――"
+translation = "갑작스러운 권유에 마토이는 눈을 동그랗게 뜨고 말았다──"
+

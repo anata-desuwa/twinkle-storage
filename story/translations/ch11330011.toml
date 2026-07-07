@@ -1,0 +1,265 @@
+[[dialogue]]
+speaker = "unk"
+original = "第１話,竜と呪いの書,P"
+translation = "제1화, 용과 저주의 서, P"
+
+[[dialogue]]
+speaker = "モネ"
+original = "「あ、会長、こんにちは」"
+translation = "「아, 회장, 안녕하세요」"
+
+[[dialogue]]
+speaker = "unk"
+original = "地下図書館で事件があったって聞いたけど"
+translation = "지하 도서관에서 사건이 있었다고 들었는데"
+
+[[dialogue]]
+speaker = "モネ"
+original = "「はい、地下図書館──別名『深淵書庫』の一件で、私とウィステリアさんは魔将となりました」"
+translation = "「네, 지하 도서관──별명 『심연 서고』의 일로, 저와 위스테리아 씨는 마장이 되었습니다」"
+
+[[dialogue]]
+speaker = "モネ"
+original = "「魔将とは、リクリエで非業の死を遂げた魔族たちの無念を背負う者」"
+translation = "「마장이란, 리크리에로 비명횡사한 마족들의 무념을 짊어지는 자」"
+
+[[dialogue]]
+speaker = "モネ"
+original = "「本という形で深淵書庫に収蔵された、魔族の怒りや悲しみ、怨嗟を力に変えて戦います」"
+translation = "「책이라는 형태로 심연 서고에 소장된, 마족의 분노나 슬픔, 원한을 힘으로 바꿔 싸웁니다」"
+
+[[dialogue]]
+speaker = "モネ"
+original = "「私が『傲慢』の魔将に、ウィステリアさんが『怠惰』の魔将になりましたが、ゆくゆくは他の魔将も見つける必要があります」"
+translation = "「제가 『오만』의 마장이, 위스테리아 씨가 『태만』의 마장이 되었지만, 머지않아 다른 마장도 찾아낼 필요가 있습니다」"
+
+[[dialogue]]
+speaker = "モネ"
+original = "「そして、こちらが──」"
+translation = "「그리고, 이쪽이──」"
+
+[[dialogue]]
+speaker = "リィベル"
+original = "「リィベル・ビブリオテーク。深淵書庫の管理システムよ。この新星学園に転入という形になったわ」"
+translation = "「리벨 비블리오테크. 심연 서고의 관리 시스템이야. 이 신성 학원에 전입이라는 형태가 되었어」"
+
+[[dialogue]]
+speaker = "リィベル"
+original = "「そのマント。あなたが星徒会長……いえ、魔王ね。一応、よろしくと言っておきましょう」"
+translation = "「그 망토. 네가 성도회장…… 아니, 마왕이네. 일단, 잘 부탁한다고 해 두지」"
+
+[[dialogue]]
+speaker = "リィベル"
+original = "「……この角が気になる？\u3000それはそうでしょうね」"
+translation = "「……이 뿔이 신경 쓰여? 그럴 만도 하겠지」"
+
+[[dialogue]]
+speaker = "リィベル"
+original = "「察しの通り、この角は煌竜ヴィライアのもので間違いないわ。あなたたちがフィーニスの塔で倒した煌竜ヴィライアの因子と魔力から私は生まれた」"
+translation = "「짐작하는 대로, 이 뿔은 황룡 빌라이아의 것이 틀림없어. 너희들이 피니스 탑에서 쓰러뜨린 황룡 빌라이아의 인자와 마력으로부터 나는 태어났어」"
+
+[[dialogue]]
+speaker = "unk"
+original = "煌竜ヴィライア。かつて新星・流星の両星徒会がフィーニスの塔の中で遭遇し、全滅しかけた破滅の化身だ。"
+translation = "황룡 빌라이아. 과거 신성・유성 양 성도회가 피니스 탑 안에서 조우하여, 전멸할 뻔했던 파멸의 화신이다."
+
+[[dialogue]]
+speaker = "リィベル"
+original = "「今はウィステリアの監視の下、深淵書庫の暴走を防ぐため、そしてリクリエと戦うために魔将の候補者を探しているわ」"
+translation = "「지금은 위스테리아의 감시 아래, 심연 서고의 폭주를 막기 위해, 그리고 리크리에와 싸우기 위해 마장의 후보자를 찾고 있어」"
+
+[[dialogue]]
+speaker = "リィベル"
+original = "「あなたが前回のリクリエを退けたことは知っているわ。あなたの前身たるラクシスがその前のリクリエを止めたことも。まさしく救世の英雄ね」"
+translation = "「네가 지난번 리크리에를 물리친 것은 알고 있어. 네 전신인 라크시스가 그 전의 리크리에를 막은 것도. 그야말로 구세의 영웅이네」"
+
+[[dialogue]]
+speaker = "リィベル"
+original = "「だけど、次のリクリエを止めるのは私たちよ。そして、それを最後のリクリエにしてみせる。魔王の出る幕はないわ」"
+translation = "「하지만, 다음 리크리에를 막는 건 우리야. 그리고, 그걸 마지막 리크리에로 만들어 보일 거야. 마왕이 나설 차례는 없어」"
+
+[[dialogue]]
+speaker = "リィベル"
+original = "「私からはそれだけ。本を読まないならさっさと帰りなさい」"
+translation = "「나한테서는 그것뿐. 책을 읽지 않을 거면 얼른 돌아가」"
+
+[[dialogue]]
+speaker = "リィベル"
+original = "「それじゃ、私は図書委員の仕事があるから」"
+translation = "「그럼, 나는 도서위원 일이 있으니까」"
+
+[[dialogue]]
+speaker = "モネ"
+original = "「あ、リィベルさんっ」"
+translation = "「아, 리벨 씨」"
+
+[[dialogue]]
+speaker = "モネ"
+original = "「行っちゃった……」"
+translation = "「가 버렸다……」"
+
+[[dialogue]]
+speaker = "unk"
+original = "なかなか個性的な子みたいだ"
+translation = "꽤나 개성적인 아이인 것 같다"
+
+[[dialogue]]
+speaker = "モネ"
+original = "「すみません、リィベルさん、ずっとあんな調子で……」"
+translation = "「죄송합니다, 리벨 씨, 계속 저런 식이라서……」"
+
+[[dialogue]]
+speaker = "モネ"
+original = "「でもリィベルさんは真剣にリクリエと戦っていますし、リィベルさんなりに図書委員の仕事もしてくれているんです」"
+translation = "「하지만 리벨 씨는 진심으로 리크리에와 싸우고 있고, 리벨 씨 나름대로 도서위원 일도 해 주고 있어요」"
+
+[[dialogue]]
+speaker = "モネ"
+original = "「会長もあの子のこと、よろしくお願いしますね」"
+translation = "「회장도 그 아이를, 잘 부탁드립니다」"
+
+[[dialogue]]
+speaker = "unk"
+original = "モンスター出現の報せを受け、現場へと急行すると──"
+translation = "몬스터 출현 소식을 받고, 현장으로 급행하자──"
+
+[[dialogue]]
+speaker = "リィベル"
+original = "「カースドパブリケーション」"
+translation = "「커스드 퍼블리케이션」"
+
+[[dialogue]]
+speaker = "unk"
+original = "虚空から書架が現れ、本の雨がモンスターに降り注いだ。本が宙を舞う度、モンスターの数が減っていく。"
+translation = "허공에서 서가가 나타나, 책의 비가 몬스터에게 쏟아졌다. 책이 허공을 날아다닐 때마다, 몬스터의 수가 줄어든다."
+
+[[dialogue]]
+speaker = "リィベル"
+original = "「あら、魔王。遅かったわね」"
+translation = "「어머, 마왕. 늦었네」"
+
+[[dialogue]]
+speaker = "リィベル"
+original = "「モンスターなら片付けたわ。前も言った通り、あなたの出る幕は……」"
+translation = "「몬스터라면 처리했어. 전에도 말했듯이, 네가 나설 차례는……」"
+
+[[dialogue]]
+speaker = "モンスター"
+original = "「イーーッ」"
+translation = "「이ーー」"
+
+[[dialogue]]
+speaker = "unk"
+original = "モンスターが増えた……！"
+translation = "몬스터가 늘었다……!"
+
+[[dialogue]]
+speaker = "リィベル"
+original = "「懲りないのね。あなたたちもすぐに消してあげるわ。……行きなさい、魔本たち」"
+translation = "「질리지도 않네. 너희들도 곧바로 없애 줄게. ……가거라, 마본들아」"
+
+[[dialogue]]
+speaker = "unk"
+original = "再び本の雨がモンスターに降り注ぐ。だが、全てのモンスターを倒すには至らない。"
+translation = "다시 책의 비가 몬스터에게 쏟아진다. 하지만, 모든 몬스터를 쓰러뜨리기에는 미치지 못한다."
+
+[[dialogue]]
+speaker = "モンスター"
+original = "「イーーーッ！！」"
+translation = "「이ーーー!!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "危ない！"
+translation = "위험해!"
+
+[[dialogue]]
+speaker = "リィベル"
+original = "「何故、あなたが私を庇うの？\u3000私はあなたの仲間でもなんでもないのよ」"
+translation = "「왜, 네가 나를 감싸는 거야? 나는 네 동료도 아무것도 아니야」"
+
+[[dialogue]]
+speaker = "unk"
+original = "新星学園の生徒だし、リクリエと戦うなら仲間だ"
+translation = "신성 학원의 학생이고, 리크리에와 싸운다면 동료다"
+
+[[dialogue]]
+speaker = "リィベル"
+original = "「ふぅん……仲間、ねぇ……」"
+translation = "「흐음…… 동료, 라……」"
+
+[[dialogue]]
+speaker = "リィベル"
+original = "「まぁいいわ。邪魔だけはしないでちょうだい」"
+translation = "「뭐 됐어. 방해만은 하지 말아 줘」"
+
+[[dialogue]]
+speaker = "リィベル"
+original = "「書架４０番起動、フォビドゥンインデックス」"
+translation = "「서가 40번 기동, 포비든 인덱스」"
+
+[[dialogue]]
+speaker = "unk"
+original = "リィベルが開いた本から魔力が迸り、モンスターへと殺到する。だが、まだだ。"
+translation = "리벨이 펼친 책에서 마력이 솟구쳐, 몬스터에게 쇄도한다. 하지만, 아직이다."
+
+[[dialogue]]
+speaker = "モンスター"
+original = "「イーーーッ！！」"
+translation = "「이ーーー!!」"
+
+[[dialogue]]
+speaker = "リィベル"
+original = "「しつこいわね……あまり使いたくはなかったけど」"
+translation = "「끈질기네…… 그다지 쓰고 싶지는 않았지만」"
+
+[[dialogue]]
+speaker = "リィベル"
+original = "「６６６番書架、解錠」"
+translation = "「666번 서가, 해제」"
+
+[[dialogue]]
+speaker = "unk"
+original = "リィベルが虚空から取り出した一冊の本。背筋が凍るような、禍々しい気配を感じる。"
+translation = "리벨이 허공에서 꺼낸 한 권의 책. 등골이 오싹해지는 듯한, 사악한 기운이 느껴진다."
+
+[[dialogue]]
+speaker = "リィベル"
+original = "「……これの危険性が分かるようね。さすが魔王、といったところかしら」"
+translation = "「……이것의 위험성을 아는 것 같네. 역시 마왕, 이라고 해야 할까」"
+
+[[dialogue]]
+speaker = "リィベル"
+original = "「私の力の源は、呪いの魔本。そしてこれはその中でも、特に強い呪いを秘めた一冊よ」"
+translation = "「내 힘의 근원은, 저주의 마본. 그리고 이것은 그중에서도, 특히 강한 저주를 숨긴 한 권이야」"
+
+[[dialogue]]
+speaker = "リィベル"
+original = "「闇の底に沈みなさい……ネイムレスグリモワール」"
+translation = "「어둠의 밑바닥에 가라앉아라…… 네임리스 그리모어」"
+
+[[dialogue]]
+speaker = "モンスター"
+original = "「イ～～～～……」"
+translation = "「이～～～～……」"
+
+[[dialogue]]
+speaker = "unk"
+original = "魔本から放たれた呪いの奔流がモンスターを飲み込み、喰らうように消滅させていく。"
+translation = "마본에서 뿜어져 나온 저주의 급류가 몬스터를 집어삼키고, 집어먹듯이 소멸시켜 간다."
+
+[[dialogue]]
+speaker = "リィベル"
+original = "「これで理解したでしょう。私はあなたたちのような、守護星を持った星騎士ではないわ。勝手に仲間扱いしないで」"
+translation = "「이걸로 이해했겠지. 나는 너희들 같은, 수호성을 가진 성기사가 아니야. 멋대로 동료 취급하지 마」"
+
+[[dialogue]]
+speaker = "リィベル"
+original = "「それから、不用意に近付くと呪われるから。じゃ」"
+translation = "「그리고, 경솔하게 다가오면 저주받을 테니까. 그럼」"
+
+[[dialogue]]
+speaker = "unk"
+original = "そう告げると、リィベルは雑踏の中に消えていった……"
+translation = "그렇게 고하자, 리벨은 잡답 속으로 사라져 갔다……"
+

@@ -1,0 +1,235 @@
+[[dialogue]]
+speaker = "水着フワッチ"
+original = "「イ～……」"
+translation = "「이~……」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「ふぅ。ナターシャの推測は当たっていたようだな。モンスターを倒せば倒すほど、体が軽くなっていく」"
+translation = "「후우. 나타샤의 추측이 맞았던 모양이구나. 몬스터를 쓰러뜨리면 쓰러뜨릴수록 몸이 가벼워지느니라」"
+
+[[dialogue]]
+speaker = "ベアトリス"
+original = "「水着フォームにも慣れてきたね。段階を踏んで力を使いこなすのも、修行としてはいいかも」"
+translation = "「수영복 폼에도 익숙해졌네. 단계를 밟아 힘을 다루는 것도 수행으로서는 괜찮을지도」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「あたしは最初から全力全開で戦える方が好みだけどな！\u3000ちまちまモンスターを倒すのにも飽きてきたぜ～」"
+translation = "「나는 처음부터 전력 전개로 싸울 수 있는 쪽이 취향이지만 말야! 찔끔찔끔 몬스터를 잡는 것도 질려가기 시작했어~」"
+
+[[dialogue]]
+speaker = "ナターシャ"
+original = "「そろそろ休憩を入れてもいいんじゃない？\u3000周辺のモンスターも狩り尽くしちゃったみたいだし」"
+translation = "「슬슬 휴식을 넣어도 되지 않아? 주변 몬스터도 다 사냥한 것 같고」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「そうだな。ある程度レベルも上がったようだし、せっかくのリゾートを満喫するのも──」"
+translation = "「그렇구나. 어느 정도 레벨도 오른 것 같으니, 모처럼의 리조트를 만끽하는 것도──」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「いいのかっ？\u3000なら、ざっぱーんっ！！」"
+translation = "「괜찮은 거야? 그럼, 자빠앙!!」"
+
+[[dialogue]]
+speaker = "ナターシャ"
+original = "「ふふ、よっぽど遊びたかったみたいだね」"
+translation = "「후후, 어지간히 놀고 싶었나 보네」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「あんまり１人で遠くに泳いでいくんじゃないぞー！」"
+translation = "「너무 혼자서 멀리 헤엄쳐 가면 안 되느니라─!」"
+
+[[dialogue]]
+speaker = "ベアトリス"
+original = "「いいなぁ、気持ち良さそうだなー……」"
+translation = "「좋겠다, 기분 좋아 보여─……」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「ベアトは泳げないのか？\u3000そう言えば吸血鬼は流れる水を渡れないとか、水に沈むとか聞いたことがあるが……」"
+translation = "「베아트는 수영을 못 하느느냐? 그러고 보니 흡혈귀는 흐르는 물을 건너지 못한다거나, 물에 가라앉는다는 소리를 들은 적이 있다만……」"
+
+[[dialogue]]
+speaker = "ベアトリス"
+original = "「自分でもわかんない。こんな大きな水たまりに入ったことないし……」"
+translation = "「나도 모르겠어. 이렇게 큰 물웅덩이에 들어온 적이 없어서……」"
+
+[[dialogue]]
+speaker = "ナターシャ"
+original = "「不安なら海の家から浮き輪でも持ってくる？\u3000探せばあると思うけど」"
+translation = "「불안하면 바다의 집에서 튜브라도 가져올래? 찾아보면 있을 것 같은데」"
+
+[[dialogue]]
+speaker = "ベアトリス"
+original = "「うーん。できれば自分で泳ぎたいなぁ。アポロちゃんがあんなに楽しそうに泳いでるところを見てると……」"
+translation = "「으음. 가능하면 스스로 헤엄치고 싶어. 아폴로 짱이 저렇게 즐겁게 헤엄치는 걸 보고 있으니까……」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「何してるんだーっ？\u3000みんなも早く泳ごーぜっ！」"
+translation = "「뭐 하고 있어─? 다들 빨리 헤엄치자고!」"
+
+[[dialogue]]
+speaker = "ベアトリス"
+original = "「ううっ、やっぱり自分で泳ぎたいっ」"
+translation = "「으으, 역시 스스로 헤엄치고 싶어!」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「なら泳ごう、ベアト」"
+translation = "「그럼 헤엄치자꾸나, 베아트」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「もし沈んでも私たちが何とかする。大丈夫だ」"
+translation = "「혹시 가라앉더라도 우리가 어떻게든 하겠느니라. 괜찮으니라」"
+
+[[dialogue]]
+speaker = "ベアトリス"
+original = "「梨緒ちゃん……」"
+translation = "「리오 짱……」"
+
+[[dialogue]]
+speaker = "ベアトリス"
+original = "「うんっ！\u3000ありがとうっ──！！」"
+translation = "「응! 고마워──!!」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「な──！？\u3000いきなり海の真ん中にダイブしろとは……！？」"
+translation = "「뭐──!? 갑자기 바다 한복판으로 다이브하라니……!?」"
+
+[[dialogue]]
+speaker = "ベアトリス"
+original = "「…………」"
+translation = "「…………」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「ベ、ベアト……？」"
+translation = "「베, 베아트……?」"
+
+[[dialogue]]
+speaker = "ナターシャ"
+original = "「浮かんでこないね……」"
+translation = "「안 떠오르네……」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「ベアトーーっっ！！！？」"
+translation = "「베아트──!!!!?」"
+
+[[dialogue]]
+speaker = "ベアトリス"
+original = "「ぷっはぁっ！！\u3000あははっ、きっもちいい～っ！！\u3000良かったぁ、泳げるみたいっ！！」"
+translation = "「푸하앗!! 아하하, 기분 좋아~~!! 다행이다, 헤엄칠 수 있나 봐!!」"
+
+[[dialogue]]
+speaker = "ベアトリス"
+original = "「って、どうしたの、梨緒ちゃん？\u3000口をそんなに大きく開けて」"
+translation = "「근데 왜 그래, 리오 짱? 입을 그렇게 크게 벌리고」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「……はぁ。飛び込むなら先に言ってくれ。溺れたのかと思って助けに行くところだったぞ」"
+translation = "「……하아. 뛰어들 거면 먼저 말해다오. 익사한 줄 알고 구하러 가려던 참이었느니라」"
+
+[[dialogue]]
+speaker = "ベアトリス"
+original = "「あはは、ごめんごめん」"
+translation = "「아하하, 미안 미안」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「梨緒とナターシャも早く来いよー！\u3000じゃねーと、あたしとベアトで海を独占しちまうぜっ！」"
+translation = "「리오랑 나타샤도 빨리 와─! 안 그러면 나랑 베아트가 바다를 독점해 버릴 거야!」"
+
+[[dialogue]]
+speaker = "ナターシャ"
+original = "「それは困るね。じゃあ私たちも馳せ参じるとしよっか♪」"
+translation = "「그건 곤란하네. 그럼 우리도 달려가 볼까♪」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「わっ、ちょっと押すんじゃないっ！」"
+translation = "「왓, 잠깐 밀지 말거라!」"
+
+[[dialogue]]
+speaker = "ベアトリス"
+original = "「きゃっ」"
+translation = "「꺄앗」"
+
+[[dialogue]]
+speaker = "ベアトリス"
+original = "「ぷはっ。大丈夫、梨緒ちゃん？」"
+translation = "「푸핫. 괜찮아, 리오 짱?」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「あ、ああ。すまない。受け止めるつもりが、逆に受け止められてしまったな」"
+translation = "「아, 아아. 미안하구나. 받아낼 생각이었는데, 반대로 받아내지고 말았구나」"
+
+[[dialogue]]
+speaker = "ベアトリス"
+original = "「ふふ、仕方ないよ。飛びこんできたの、梨緒ちゃんの方だったし」"
+translation = "「후후, 어쩔 수 없지. 뛰어든 건 리오 짱 쪽이었고」"
+
+[[dialogue]]
+speaker = "ベアトリス"
+original = "「それに私、嬉しかったよ？\u3000もし沈んでも何とかするって梨緒ちゃんが言ってくれて」"
+translation = "「게다가 나, 기뻤어? 혹시 가라앉아도 어떻게든 하겠다고 리오 짱이 말해줘서」"
+
+[[dialogue]]
+speaker = "ベアトリス"
+original = "「あの言葉のおかげで私、勇気を出して飛びこめたんだから」"
+translation = "「그 말 덕분에 나, 용기를 내서 뛰어들 수 있었으니까」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「ベアト……」"
+translation = "「베아트……」"
+
+[[dialogue]]
+speaker = "ベアトリス"
+original = "「この新モード、必ずクリアしようね？\u3000梨緒ちゃんが……ううん、選管のみんなが一緒ならできる気がするんだ」"
+translation = "「이 신 모드, 꼭 클리어하자? 리오 짱이…… 아니, 선관 모두가 함께라면 할 수 있을 것 같은 기분이 들어」"
+
+[[dialogue]]
+speaker = "ベアトリス"
+original = "「みんなと一緒ならいくらでも勇気が出てくるもん。力がどんどん湧いてくるから」"
+translation = "「모두와 함께라면 얼마든지 용기가 나는걸. 힘이 점점 솟아나니까」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「ああ、そうだな。必ずクリアしよう！」"
+translation = "「그래, 그렇구나. 반드시 클리어하자꾸나!」"
+
+[[dialogue]]
+speaker = "ベアトリス"
+original = "「でも、今は──」"
+translation = "「하지만 지금은──」"
+
+[[dialogue]]
+speaker = "アポロ"
+original = "「おーい、２人とも～！\u3000抱き合ってないで遊ぼうぜ～！\u3000それ、ナターシャ、あっちあっち～！」"
+translation = "「어이, 둘 다~! 껴안고 있지 말고 놀자고~! 자, 나타샤, 저쪽 저쪽~!」"
+
+[[dialogue]]
+speaker = "ナターシャ"
+original = "「ちょっ、アポロ、私の胸は浮き輪じゃないよっ」"
+translation = "「잠깐, 아폴로, 내 가슴은 튜브가 아니야」"
+
+[[dialogue]]
+speaker = "ベアトリス"
+original = "「みんなでリゾートも満喫したいな♪\u3000私、ビーチで遊ぶの楽しみにしてたんだから♪」"
+translation = "「다 같이 리조트도 만끽하고 싶어♪ 나, 비치에서 노는 거 기대하고 있었으니까♪」"
+
+[[dialogue]]
+speaker = "梨緒"
+original = "「ふふ、もちろんだ。みんなで思いっきり遊び尽くそう！」"
+translation = "「후후, 물론이니라. 다 같이 마음껏 놀아보자꾸나!」"
+

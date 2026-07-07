@@ -1,0 +1,325 @@
+[[dialogue]]
+speaker = "unk"
+original = "第１１話,平行世界の日常,B"
+translation = "제11화, 평행세계의 일상, B"
+
+[[dialogue]]
+speaker = "unk"
+original = "昼食と買い出しのために、またビル街に戻ってきた。"
+translation = "점심 식사와 장보기를 위해 다시 빌딩가로 돌아왔다."
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「せっかく未来の流星市国に来たんだから、なにか斬新なものが食べたいわね」"
+translation = "「기왕 미래의 유성시국에 왔으니까, 뭔가 참신한 걸 먹고 싶네.」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「ところでせっかくデネブに里帰りしたんだし、デネブ土産とか売ってないのかしら。デネブまんじゅうとか」"
+translation = "「그건 그렇고 모처럼 데네브에 고향 방문을 했으니, 데네브 기념품 같은 건 안 팔려나. 데네브 만쥬라든가.」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「平行世界から来てるのは俺たちだけだから、誰も買わないんじゃないか……？」"
+translation = "「평행세계에서 온 건 우리뿐이니까, 아무도 안 사지 않을까……?」"
+
+[[dialogue]]
+speaker = "？？？"
+original = "「流星市国のお土産にいかがですかー」"
+translation = "「유성시국 기념품으로 어떠신가요─」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「──！？」"
+translation = "「──!?」"
+
+[[dialogue]]
+speaker = "ルヴィネ"
+original = "「流星ハニーサンド、おひとついかがですか？\u3000通販していない商品で、こちらのショップでのみお買い求めいただけます」"
+translation = "「유성 허니 샌드, 하나 어떠신가요? 통신 판매를 하지 않는 상품으로, 이곳 샵에서만 구매하실 수 있습니다.」"
+
+[[dialogue]]
+speaker = "unk"
+original = "声を聞いて振り返ると、ルヴィネがスイーツショップの店頭に立って、商品の宣伝をしていた。"
+translation = "목소리를 듣고 돌아보니, 루비네가 디저트 샵 매대에 서서 상품 홍보를 하고 있었다."
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "（リノおばあちゃんが言ってたけど、ほんとにルヴィネがバイトしてるわね……）"
+translation = "(리노 할머니가 말씀하셨지만, 정말 루비네가 알바를 하고 있네……)"
+
+[[dialogue]]
+speaker = "リノ"
+original = "「あ、そうそう。街ではルヴィネに気を付けて」"
+translation = "「아, 맞다. 거리에서는 루비네를 조심해.」"
+
+[[dialogue]]
+speaker = "リノ"
+original = "「どういうつもりか知らないけど、彼女、流星市国のいろんなところでバイトしてるの」"
+translation = "「무슨 생각인지 모르겠지만, 그 애, 유성시국 곳곳에서 알바를 하고 있거든.」"
+
+[[dialogue]]
+speaker = "リノ"
+original = "「どこで出くわすかわからないから、周囲には注意して行動してね」"
+translation = "「어디서 마주칠지 모르니까, 주변을 주의하며 행동하렴.」"
+
+[[dialogue]]
+speaker = "ルヴィネ"
+original = "「流星市国限定、流星ハニーサンドいかがですか？\u3000定番商品のバターサンドもご用意していますよ」"
+translation = "「유성시국 한정, 유성 허니 샌드 어떠신가요? 기본 상품인 버터 샌드도 준비되어 있답니다.」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ルヴィネの視界に入らないよう注意しながら、遠巻きに様子を窺う。"
+translation = "루비네의 시야에 들어가지 않도록 주의하며 멀리서 상황을 살핀다."
+
+[[dialogue]]
+speaker = "unk"
+original = "母さんの魔法がかかっているとはいえ、ルヴィネなら見破ってもおかしくない。"
+translation = "어머니의 마법이 걸려 있다고는 해도, 루비네라면 간파해도 이상하지 않다."
+
+[[dialogue]]
+speaker = "？？？"
+original = "「お疲れ様です、ルヴィネ会長。今日はこちらでアルバイトされていたのですね」"
+translation = "「수고하십니다, 루비네 회장님. 오늘은 여기서 아르바이트를 하고 계셨군요.」"
+
+[[dialogue]]
+speaker = "ルヴィネ"
+original = "「あら、エステルじゃない。流星ハニーサンド、試食していく？」"
+translation = "「어머, 에스텔 아니니. 유성 허니 샌드, 시식해 볼래?」"
+
+[[dialogue]]
+speaker = "エステル"
+original = "「ではおひとつ頂きます」"
+translation = "「그럼 하나 받아 가겠습니다.」"
+
+[[dialogue]]
+speaker = "エステル"
+original = "「ふむふむ、これは……しっかりした甘さがありながら、ハチミツの風味が生きた味わいですね。とても美味です」"
+translation = "「흠흠, 이건…… 확실한 단맛이 있으면서도 꿀의 풍미가 살아있는 맛이군요. 아주 맛있습니다.」"
+
+[[dialogue]]
+speaker = "エステル"
+original = "「一箱頂きます。家族で分けたいと思います」"
+translation = "「한 상자 사겠습니다. 가족들과 나누어 먹고 싶네요.」"
+
+[[dialogue]]
+speaker = "ルヴィネ"
+original = "「お買い上げありがとう」"
+translation = "「구매해 줘서 고마워.」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "（流星ハニーサンド、美味しそうね……）"
+translation = "(유성 허니 샌드, 맛있겠네……)"
+
+[[dialogue]]
+speaker = "クロト"
+original = "（今買いに行っちゃダメだぞ）"
+translation = "(지금 사러 가면 안 돼.)"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "（わかってるわよー）"
+translation = "(알고 있어─)"
+
+[[dialogue]]
+speaker = "ルヴィネ"
+original = "「そろそろお昼休憩ね。せっかくだから一緒に食事でもどう？」"
+translation = "「슬슬 점심 휴식 시간이네. 기왕 이렇게 된 거 같이 식사라도 할래?」"
+
+[[dialogue]]
+speaker = "エステル"
+original = "「よろしいのですか？\u3000光栄に預かり恐縮です」"
+translation = "「그래도 되겠습니까? 영광스럽게 생각하며 감사히 응하겠습니다.」"
+
+[[dialogue]]
+speaker = "エステル"
+original = "「ですが、この辺りですとどんなお店があるのでしょう？\u3000普段外食をしないものですから、存じ上げなくて」"
+translation = "「하지만 이 근처라면 어떤 가게가 있을까요? 평소에 외식을 하지 않다 보니 잘 몰라서요.」"
+
+[[dialogue]]
+speaker = "ルヴィネ"
+original = "「それならいいお店を知ってるわ。──担々麺<ruby>火仙<rt>かせん</rt></ruby>。関東に初出店した仙台の名店よ」"
+translation = "「그렇다면 좋은 가게를 알고 있어. ──탄탄면 화선. 관동에 처음 출점한 센다이의 명점이야.」"
+
+[[dialogue]]
+speaker = "エステル"
+original = "「担々麺……！？\u3000ルヴィネ会長が、担々麺がお好きだったとは思いませんでした」"
+translation = "「탄탄면……!? 루비네 회장님이 탄탄면을 좋아하실 줄은 몰랐습니다.」"
+
+[[dialogue]]
+speaker = "エステル"
+original = "「その……正直に言いますと、食事に拘りを持たない方かと思っておりましたので……」"
+translation = "「그게…… 솔직히 말씀드리면, 식사에 구애받지 않는 분이라고 생각했었기에……」"
+
+[[dialogue]]
+speaker = "ルヴィネ"
+original = "「そうね、昔の自分はそうだったわ。今でも非効率だとは思っているのだけど」"
+translation = "「그렇네, 예전의 나는 그랬었지. 지금도 비효율적이라고는 생각하지만.」"
+
+[[dialogue]]
+speaker = "ルヴィネ"
+original = "「だけど友人に言われたことがあるの。食事を楽しまないなんて、人生損してるって」"
+translation = "「하지만 친구에게 들은 적이 있어. 식사를 즐기지 않는 건 인생을 손해 보는 거라고.」"
+
+[[dialogue]]
+speaker = "ルヴィネ"
+original = "「…………」"
+translation = "「…………」"
+
+[[dialogue]]
+speaker = "エステル"
+original = "「ルヴィネ会長？\u3000何か気掛かりなことが……？」"
+translation = "「루비네 회장님? 무슨 걱정거리라도……?」"
+
+[[dialogue]]
+speaker = "ルヴィネ"
+original = "「いえ、何でもないわ。今気にしても仕方ないことだわ」"
+translation = "「아니, 아무것도 아니야. 지금 신경 써도 어쩔 수 없는 일이지.」"
+
+[[dialogue]]
+speaker = "ルヴィネ"
+original = "「彼女に言われて色々試しに食べてみたら、担々麺を気に入ってね」"
+translation = "「그녀의 말을 듣고 이것저것 시험 삼아 먹어봤더니, 탄탄면이 마음에 들어서 말이야.」"
+
+[[dialogue]]
+speaker = "ルヴィネ"
+original = "「でも私思うの──」"
+translation = "「하지만 난 생각해──」"
+
+[[dialogue]]
+speaker = "ルヴィネ"
+original = "「担々麺はゴマが命！」"
+translation = "「탄탄면은 깨가 생명이야!」"
+
+[[dialogue]]
+speaker = "ルヴィネ"
+original = "「ひき肉のジューシーさも、唐辛子の辛さも、<ruby>花椒<rt>ホアジャオ</rt></ruby>の痺れも、担々麺の美味しさを引き立ててくれる」"
+translation = "「다진 고기의 쥬시함도, 고추의 매운맛도, 화교의 얼얼함도 탄탄면의 맛을 돋워주지.」"
+
+[[dialogue]]
+speaker = "ルヴィネ"
+original = "「だけど担々麺を担々麺たらしめるのはゴマの旨味よ！」"
+translation = "「하지만 탄탄면을 탄탄면답게 만드는 건 깨의 감칠맛이야!」"
+
+[[dialogue]]
+speaker = "ルヴィネ"
+original = "「ゴマを使うのはオリジナルとは違うアレンジなのは知っているわ。それでもやはりゴマを欠かしては担々麺たりえないと──」"
+translation = "「깨를 쓰는 건 오리지널과는 다른 어레인지라는 건 알고 있어. 그래도 역시 깨가 빠지면 탄탄면이라 할 수 없다고──」"
+
+[[dialogue]]
+speaker = "ルヴィネ"
+original = "「……語り過ぎてしまったわ。ごめんなさい」"
+translation = "「……너무 많이 말해버렸네. 미안해.」"
+
+[[dialogue]]
+speaker = "エステル"
+original = "「い、いえ……参考になりました」"
+translation = "「아, 아뇨…… 참고가 되었습니다.」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "（担々麺が好きなんて、見た目はちっちゃくてお人形みたいなのに似合わないわね）"
+translation = "(탄탄면을 좋아하다니, 겉모습은 조그맣고 인형 같은데 안 어울리네.)"
+
+[[dialogue]]
+speaker = "クロト"
+original = "（まぁ、好きなものは人それぞれだし……確かに意外であるけど）"
+translation = "(뭐, 좋아하는 건 사람마다 다르니까…… 확실히 의외긴 하지만.)"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「──！」"
+translation = "「──!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "その時、モンスターの襲来を知らせるアラートがＤＩＳＣから鳴り響く。"
+translation = "그때, 몬스터의 습격을 알리는 경보가 DISC에서 울려 퍼진다."
+
+[[dialogue]]
+speaker = "ルヴィネ"
+original = "「モンスター……ここの近くと、東の２箇所ね」"
+translation = "「몬스터…… 이 근처랑 동쪽 두 군데네.」"
+
+[[dialogue]]
+speaker = "ルヴィネ"
+original = "「エステル。ここは私に任せて、あなたは東に現れたモンスターをお願い」"
+translation = "「에스텔. 여기는 나에게 맡기고, 너는 동쪽에 나타난 몬스터를 부탁해.」"
+
+[[dialogue]]
+speaker = "エステル"
+original = "「かしこまりました」"
+translation = "「알겠습니다.」"
+
+[[dialogue]]
+speaker = "エステル"
+original = "「エステル・ミルフォード、参ります」"
+translation = "「에스텔 밀포드, 갑니다.」"
+
+[[dialogue]]
+speaker = "unk"
+original = "エステルと呼ばれた星騎士は、戦闘服に変身するとルヴィネの指示通りに飛んでいった。"
+translation = "에스텔이라 불린 성기사는 전투복으로 변신하더니 루비네의 지시대로 날아갔다."
+
+[[dialogue]]
+speaker = "ダークキングフワッチ"
+original = "「イ～～～～～～～～ッ！！」"
+translation = "「이이이이이이이이!!」"
+
+[[dialogue]]
+speaker = "ルヴィネ"
+original = "「消えなさい」"
+translation = "「사라지렴.」"
+
+[[dialogue]]
+speaker = "ダークキングフワッチ"
+original = "「イ～～～……」"
+translation = "「이이이……」"
+
+[[dialogue]]
+speaker = "ルヴィネ"
+original = "「みんな、もう大丈夫よ」"
+translation = "「모두들, 이제 괜찮아.」"
+
+[[dialogue]]
+speaker = "unk"
+original = "あっという間にモンスターを倒し、周囲の人に微笑みかけるルヴィネ。"
+translation = "순식간에 몬스터를 쓰러뜨리고 주변 사람들에게 미소 짓는 루비네."
+
+[[dialogue]]
+speaker = "unk"
+original = "その様は、デネブの守護者と表現されるに相応しいものだった。"
+translation = "그 모습은 데네브의 수호자라 표현하기에 걸맞은 것이었다."
+
+[[dialogue]]
+speaker = "ルヴィネ"
+original = "「これからお昼を食べるところだったのに……エステルと合流しましょう」"
+translation = "「이제 막 점심을 먹으려던 참이었는데…… 에스텔과 합류하죠.」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ルヴィネは昼食を邪魔されたことに若干の憤りを見せつつ、エステルが飛んだ方向へと向かっていった。"
+translation = "루비네는 점심 식사를 방해받은 것에 약간의 분노를 보이면서도, 에스텔이 날아간 방향으로 향했다."
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「行ったわね……」"
+translation = "「갔네……」"
+
+[[dialogue]]
+speaker = "ヴィーナス"
+original = "「だけどルヴィネのやつ、いろいろ怪しいのにモンスターは倒すのね。敵と敵が戦ってるみたいで不思議だわ」"
+translation = "「하지만 루비네 저 녀석, 여러모로 수상한데 몬스터는 쓰러뜨리네. 적과 적이 싸우는 것 같아서 신기해.」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "「そうだな……少なくとも今見た限りでは、彼女は真摯に流星市国を守ろうとしているみたいだった」"
+translation = "「그러게…… 적어도 지금 본 바로는, 그녀는 진심으로 유성시국을 지키려 하는 것 같았어.」"
+
+[[dialogue]]
+speaker = "クロト"
+original = "（俺たちはルヴィネはリクリエ側だと疑っている……でも本当にそれだけなんだろうか……？）"
+translation = "(우리는 루비네가 리크리에 측이라고 의심하고 있어…… 하지만 정말 그것뿐일까……?)"
+

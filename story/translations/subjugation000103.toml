@@ -1,0 +1,280 @@
+[[dialogue]]
+speaker = "マグダレナ"
+original = "「いらっしゃいませ～」"
+translation = "「어서 오세요~」"
+
+[[dialogue]]
+speaker = "モネ"
+original = "「マグダレナさん！？\u3000どうして守護天使さんがこんなところに……？」"
+translation = "「마그달레나 씨!? 어째서 수호천사분이 이런 곳에……?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "本人の労働意欲を尊重した結果だ"
+translation = "본인의 노동 의욕을 존중한 결과야"
+
+[[dialogue]]
+speaker = "モネ"
+original = "「は、はぁ……」"
+translation = "「하, 하아……」"
+
+[[dialogue]]
+speaker = "コハルコ"
+original = "「マグダレナさんには、ここの臨時アニメショップで働いてもらいます。いいですか？」"
+translation = "「마그달레나 씨는 여기 임시 애니메이션 샵에서 일해주시면 됩니다. 아시겠죠?」"
+
+[[dialogue]]
+speaker = "マグダレナ"
+original = "「はい、お任せください」"
+translation = "「네, 맡겨주세요」"
+
+[[dialogue]]
+speaker = "コハルコ"
+original = "「会長さんは接客や販売の経験はあるよね？\u3000マグダレナさんを補助してもらっていいかな。よろしくね」"
+translation = "「회장님은 접객이나 판매 경험이 있지? 마그달레나 씨를 보조해 줄래. 잘 부탁해」"
+
+[[dialogue]]
+speaker = "マグダレナ"
+original = "「私からもよろしくお願いいたします、会長さま」"
+translation = "「저로서도 잘 부탁드립니다, 회장님」"
+
+[[dialogue]]
+speaker = "モネ"
+original = "「しかも会長まで……守護天使と星徒会長が一緒に働いているのって不思議な光景ですね……」"
+translation = "「게다가 회장까지…… 수호천사와 성도회장이 함께 일하고 있다니 신기한 광경이네요……」"
+
+[[dialogue]]
+speaker = "マグダレナ"
+original = "「モネさまはどうしてこちらに？」"
+translation = "「모네 님은 어찌하여 이곳에?」"
+
+[[dialogue]]
+speaker = "モネ"
+original = "「神保町の古書店に寄ったついでに、少し足を延ばして。漫画やライトノベルも私の読書の対象ですから」"
+translation = "「진보초 고서점에 들른 김에 조금 더 걸어왔어요. 만화나 라이트 노벨도 제 독서 대상이거든요」"
+
+[[dialogue]]
+speaker = "モネ"
+original = "「それに栞も集めてますので。今日ここでグッズを買うと、限定の栞がもらえるって聞きました」"
+translation = "「게다가 책갈피도 모으고 있어서요. 오늘 여기서 굿즈를 사면 한정판 책갈피를 준다고 들었어요」"
+
+[[dialogue]]
+speaker = "マグダレナ"
+original = "「なるほど。ご来店ありがとうございます」"
+translation = "「과연 그렇군요. 방문해 주셔서 감사합니다」"
+
+[[dialogue]]
+speaker = "モネ"
+original = "「このボールペンと……あとクリアファイルください」"
+translation = "「이 볼펜이랑…… 그리고 클리어 파일 주세요」"
+
+[[dialogue]]
+speaker = "マグダレナ"
+original = "「かしこまりました」"
+translation = "「알겠습니다」"
+
+[[dialogue]]
+speaker = "マグダレナ"
+original = "「…………？」"
+translation = "「…………?」"
+
+[[dialogue]]
+speaker = "モネ"
+original = "「マグダレナさん？\u3000固まっちゃってどうかしました？」"
+translation = "「마그달레나 씨? 굳어버리셨는데 무슨 일 있나요?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "マグダレナさん、バーコード！"
+translation = "마그달레나 씨, 바코드!"
+
+[[dialogue]]
+speaker = "マグダレナ"
+original = "「おっと、そうでした。この機械で読み取るのでしたね。ピッ、ピッ、と」"
+translation = "「오토, 그랬지요. 이 기계로 읽어내는 것이었군요. 삑, 삑, 하고」"
+
+[[dialogue]]
+speaker = "マグダレナ"
+original = "「おお、自動で金額が計算されるのですね。これは素晴らしい。これなら私でもレジのお仕事がこなせそうです」"
+translation = "「오오, 자동으로 금액이 계산되는군요. 이건 훌륭합니다. 이 정도라면 저도 계산대 업무를 해낼 수 있을 것 같습니다」"
+
+[[dialogue]]
+speaker = "モネ"
+original = "「電子マネー決済でお願いします」"
+translation = "「전자 화폐 결제로 부탁드려요」"
+
+[[dialogue]]
+speaker = "マグダレナ"
+original = "「電子……マネー……？」"
+translation = "「전자…… 화폐……?」"
+
+[[dialogue]]
+speaker = "マグダレナ"
+original = "「陽子マネーや中性子マネーもあるのですか？\u3000もしや、普段私たちが使っているお金は原子マネー？」"
+translation = "「양자 화폐나 중성자 화폐도 있는 것입니까? 설마 평소 저희가 쓰고 있는 돈은 원자 화폐?」"
+
+[[dialogue]]
+speaker = "モネ"
+original = "「えーと、そうじゃなくて……カードやＤＩＳＣでお金を払えるんです」"
+translation = "「저기, 그게 아니라…… 카드나 DISC로 돈을 낼 수 있어요」"
+
+[[dialogue]]
+speaker = "マグダレナ"
+original = "「ＤＩＳＣで？\u3000ふむふむ……お金を使わずお買い物ができる？\u3000なんと！\u3000それはすごいですね」"
+translation = "「DISC로 말입니까? 흠흠…… 돈을 쓰지 않고 쇼핑을 할 수 있다? 아니! 그건 정말 대단하군요」"
+
+[[dialogue]]
+speaker = "モネ"
+original = "「あ、いえ、タダでお買い物できるわけじゃないんです。あらかじめチャージしてそこから払うだけで」"
+translation = "「아, 아니요, 공짜로 쇼핑할 수 있다는 건 아니에요. 미리 충전해서 거기서 내는 것뿐이라」"
+
+[[dialogue]]
+speaker = "マグダレナ"
+original = "「なる、ほど……？」"
+translation = "「과, 연……?」"
+
+[[dialogue]]
+speaker = "モネ"
+original = "（わかってない顔してる……！）"
+translation = " (전혀 이해하지 못한 얼굴이야……!) "
+
+[[dialogue]]
+speaker = "マグダレナ"
+original = "「それで、電子マネーでお支払いいただくにはどうすればいいんでしょう？」"
+translation = "「그래서 전자 화폐로 결제하려면 어떻게 해야 하는 건가요?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ＤＩＳＣでバーコードを出してもらって……"
+translation = "DISC로 바코드를 띄워 달라고 해서……"
+
+[[dialogue]]
+speaker = "マグダレナ"
+original = "「ふむふむ……機械のここを押して……ここをああして……承知しました」"
+translation = "「흠흠…… 기계의 여기를 누르고…… 여기를 그렇게 하고…… 알겠습니다」"
+
+[[dialogue]]
+speaker = "マグダレナ"
+original = "「そしてＤＩＳＣの画面をスキャンすればいいのですね。ピッと」"
+translation = "「그리고 DISC 화면을 스캔하면 되는 것이군요. 삑」"
+
+[[dialogue]]
+speaker = "unk"
+original = "それ俺のＤＩＳＣ！？"
+translation = "그거 내 DISC야!?"
+
+[[dialogue]]
+speaker = "マグダレナ"
+original = "「あら？\u3000つまり……？」"
+translation = "「어머? 즉……?」"
+
+[[dialogue]]
+speaker = "モネ"
+original = "「会長が私のボールペンとクリアファイルのお金を払ったことになりますね……」"
+translation = "「회장이 제 볼펜이랑 클리어 파일 값을 낸 게 되네요……」"
+
+[[dialogue]]
+speaker = "マグダレナ"
+original = "「それは失礼しました。取り消し……などはできるのでしょうか？\u3000きっとこの機械を使って……あら？\u3000あららら？」"
+translation = "「그것참 실례했습니다. 취소…… 같은 걸 할 수 있을까요? 분명 이 기계를 써서…… 어머? 어머머머?」"
+
+[[dialogue]]
+speaker = "モネ"
+original = "「えーと、会長には今度ジュースか何かお返ししますね……あはは」"
+translation = "「저기, 회장에게는 다음에 주스나 뭐라도 사드릴게요…… 아하하」"
+
+[[dialogue]]
+speaker = "unk"
+original = "マグダレナさんは商品の陳列をお願いします"
+translation = "마그달레나 씨는 상품 진열을 부탁드려요"
+
+[[dialogue]]
+speaker = "マグダレナ"
+original = "「かしこまりました」"
+translation = "「알겠습니다」"
+
+[[dialogue]]
+speaker = "マグダレナ"
+original = "「ええと、商品をバックヤードから持ってきて……あれ、どの商品をどこに並べればいいのでしょう？」"
+translation = "「그러니까 상품을 창고에서 가져와서…… 어라, 어느 상품을 어디에 나열하면 되는 것일까요?」"
+
+[[dialogue]]
+speaker = "マグダレナ"
+original = "「こちらがカースウォーズで、あちらが電ノコ戦士……え？\u3000２？」"
+translation = "「이쪽이 카스 워즈이고 저쪽이 전기톱 전사…… 에? 2?」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「すみません、ランダム缶バッジってまだありますか──」"
+translation = "「실례합니다, 랜덤 캔 배지 아직 남아있나요──」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「緋宮会長！？\u3000それにマグダレナ様！？」"
+translation = "「히노미야 회장!? 게다가 마그달레나 님!?」"
+
+[[dialogue]]
+speaker = "マグダレナ"
+original = "「おや、フィオナさま」"
+translation = "「오호, 피오나 님」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「ち、違うんです、私はアニメや漫画が好きなわけじゃなくて、たまたまというか……」"
+translation = "「아, 아니에요, 제가 애니메이션이나 만화를 좋아하는 게 아니라 그냥 우연히라고나 할까……」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「というか……どうしてマグダレナ様がここで働いておられるんですか？」"
+translation = "「라기보다…… 어째서 마그달레나 님이 여기서 일하고 계시는 건가요?」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「なるほど……人間界で使うお金を自分で稼ぎたいと。ご意志は理解できましたが、教皇庁の者が見たらなんと言うか……」"
+translation = "「과연…… 인간계에서 쓸 돈을 스스로 벌고 싶으시다고. 의지는 이해했습니다만, 교황청 분들이 보시면 뭐라고 하실지……」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「………………」"
+translation = "「………………」"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「お互い……見なかったことにしませんか？」"
+translation = "「서로…… 못 본 걸로 하지 않으실래요?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "そうしよう！"
+translation = "그렇게 하자!"
+
+[[dialogue]]
+speaker = "フィオナ"
+original = "「では私はこれで。失礼しました」"
+translation = "「그럼 저는 이만. 실례했습니다」"
+
+[[dialogue]]
+speaker = "マグダレナ"
+original = "「あ、フィオナさま、お求めの缶バッジはこちらでしょうか？\u3000……あれ？\u3000フィオナさま？」"
+translation = "「아, 피오나 님, 찾으시던 캔 배지는 여기일까요? ……어라? 피오나 님?」"
+
+[[dialogue]]
+speaker = "コハルコ"
+original = "「お疲れ様、さっきフィオナさんとすれ違ったんだけど、大丈夫だった？」"
+translation = "「수고했어, 방금 피오나 씨랑 마주쳤는데 괜찮았어?」"
+
+[[dialogue]]
+speaker = "コハルコ"
+original = "「何その微妙な表情……──って、商品の品出し全然できてない！？」"
+translation = "「그 미묘한 표정은 뭐야…… ──라니, 상품 진열이 하나도 안 돼 있잖아!?」"
+
+[[dialogue]]
+speaker = "マグダレナ"
+original = "「こちらはアイドルパラダイスで、こちらがガーデンオブアイドル……アイドルエンパイアもありますね。どう違うのでしょうか……？」"
+translation = "「이쪽은 아이돌 파라다이스고 이쪽이 가든 오브 아이돌…… 아이돌 엠파이어도 있네요. 어떻게 다른 것일까요……?」"
+
+[[dialogue]]
+speaker = "コハルコ"
+original = "「あー……私も手伝うね……はは」"
+translation = "「아~…… 나도 도와줄게…… 하하」"
+

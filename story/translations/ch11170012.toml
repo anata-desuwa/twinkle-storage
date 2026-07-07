@@ -1,0 +1,235 @@
+[[dialogue]]
+speaker = "unk"
+original = "第２話,故郷の記憶,P"
+translation = "제2화, 고향의 기억, P"
+
+[[dialogue]]
+speaker = "unk"
+original = "今日はサーシャさん、そして──"
+translation = "오늘은 사샤 씨, 그리고──"
+
+[[dialogue]]
+speaker = "エンジュ"
+original = "「なんで、あたしがお前たちと行動を共にしなきゃならない……」"
+translation = "「왜 내가 너희들과 행동을 같이해야 하는 거지……」"
+
+[[dialogue]]
+speaker = "unk"
+original = "エンジュと一緒に街をパトロール。"
+translation = "엔주와 함께 거리 순찰."
+
+[[dialogue]]
+speaker = "unk"
+original = "エンジュは以前モンスターから市民を守ったことに鑑み、監視付きで外出が認められることになったのだ。"
+translation = "엔주는 이전에 몬스터로부터 시민을 지킨 것을 감안하여, 감시 하에 외출이 허가된 것이다."
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「エンジュちゃんと仲良くなりたいな～って思って、私が会長くんにお願いしたの～。きっと私と同じ、魔界のズヴィエダ地方の出身でしょう？」"
+translation = "「엔주 짱이랑 친해지고 싶어서 내가 회장 군에게 부탁했어~. 분명 나랑 같은 마계의 즈비에다 지방 출신이지?」"
+
+[[dialogue]]
+speaker = "エンジュ"
+original = "「どこ出身とか言ってないのに、なんでわかるんだよ」"
+translation = "「어디 출신이라고 말한 적 없는데 어떻게 아는 거야」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「なんとなく見たらわかるわ～」"
+translation = "「그냥 보면 알 수 있어~」"
+
+[[dialogue]]
+speaker = "エンジュ"
+original = "「……ふん、同郷のよしみだ。今回は付き合ってやる。あたしの足を引っ張るなよ」"
+translation = "「……흥, 동향의 정이다. 이번엔 같이 가주지. 내 발목이나 잡지 마」"
+
+[[dialogue]]
+speaker = "モンスター"
+original = "「イ～～ッ！」"
+translation = "「이이익!」"
+
+[[dialogue]]
+speaker = "女の子"
+original = "「ひゃーっ！\u3000お化けー！？」"
+translation = "「히익! 귀신!?」"
+
+[[dialogue]]
+speaker = "エンジュ"
+original = "「危ないっ！」"
+translation = "「위험해!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "俺たちが動くよりも早く駆け出したエンジュは、女の子をかばいながら、モンスターを瞬時に仕留めてみせた。"
+translation = "우리가 움직이기도 전에 달려 나간 엔주는, 여자아이를 감싸며 몬스터를 순식간에 처치해 보였다."
+
+[[dialogue]]
+speaker = "エンジュ"
+original = "「間に合ってよかった。あいつらは神出鬼没だからな。気をつけて帰れよ」"
+translation = "「늦지 않아서 다행이야. 저 녀석들은 신출귀몰하니까 조심해서 돌아가」"
+
+[[dialogue]]
+speaker = "女の子"
+original = "「うんっ、ありがとう！\u3000お姉ちゃんも気をつけてね！」"
+translation = "「응, 고마워! 언니도 조심해!」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「頼れるお姉ちゃんね～、偉いわ♪」"
+translation = "「의지할 수 있는 언니네~, 장하다♪」"
+
+[[dialogue]]
+speaker = "エンジュ"
+original = "「うるさい。あんな小さい子に目の前で死なれたら夢見が悪いだろうが」"
+translation = "「시끄러워. 저런 어린애가 눈앞에서 죽으면 꿈자리가 사납잖아」"
+
+[[dialogue]]
+speaker = "unk"
+original = "一般人のためには戦うんだね"
+translation = "일반인을 위해서는 싸우는구나"
+
+[[dialogue]]
+speaker = "エンジュ"
+original = "「あたしが嫌いなのは星騎士だけだよ。力のないやつらは守らねえと……あいつと一緒になっちまう」"
+translation = "「내가 싫어하는 건 성기사뿐이야. 힘없는 녀석들은 지켜주지 않으면…… 그 녀석이랑 똑같아지니까」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「あいつ？」"
+translation = "「그 녀석?」"
+
+[[dialogue]]
+speaker = "エンジュ"
+original = "「あいつっつったらあいつだよ……忌々しい、あの女……！」"
+translation = "「그 녀석이라면 그 녀석이야…… 가증스러운 그 여자……!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "何があったのか教えて欲しい"
+translation = "무슨 일이 있었는지 가르쳐줬으면 좋겠어"
+
+[[dialogue]]
+speaker = "unk"
+original = "あいつじゃわからないから"
+translation = "그 녀석이라고만 하면 모르니까"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「私たちも嫌い嫌いって言われてるだけじゃ、どうすればいいのかわからないし、歩み寄る努力もできないでしょ～？」"
+translation = "「우리도 싫다 싫다 소리만 들어선 어떻게 해야 할지 모르고, 다가가려는 노력도 할 수 없잖아~?」"
+
+[[dialogue]]
+speaker = "エンジュ"
+original = "「……あたしが生まれたのは、ズヴィエダ地方でも果ての方の、小さな町だった」"
+translation = "「……내가 태어난 곳은 즈비에다 지방에서도 변두리에 있는 작은 마을이었어」"
+
+[[dialogue]]
+speaker = "エンジュ"
+original = "「その町には『星騎士』がいた。<b>あいつ</b>は町の有力者の娘で、ずいぶん偉そうにふんぞり返ってやがった」"
+translation = "「그 마을에는 『성기사』가 있었지. 그 녀석은 마을 유지의 딸이었는데, 꽤나 거만하게 굴어댔어」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「でも正式な星騎士じゃないわよね～？\u3000まだ新星学園にも流星学園にも入学してないんだし」"
+translation = "「하지만 정식 성기사는 아니었지~? 아직 신성학원에도 유성학원에도 입학하지 않았을 때니까」"
+
+[[dialogue]]
+speaker = "エンジュ"
+original = "「正式とかそうじゃないとか、お前らのルールなんざ知らねえよ」"
+translation = "「정식인지 아닌지 너희들의 규칙 따윈 몰라」"
+
+[[dialogue]]
+speaker = "エンジュ"
+original = "「だけどそいつには確かに星力があって、『自分は特別な存在だ』とかほざいてやがった」"
+translation = "「하지만 그 녀석에게는 확실히 성력이 있었고, 『자신은 특별한 존재다』라며 지껄여댔지」"
+
+[[dialogue]]
+speaker = "エンジュ"
+original = "「権力者の娘で、わずかとはいえ特別な力が宿ってりゃ、調子に乗るのは目に見えるだろ？」"
+translation = "「권력자의 딸에다가, 조금이라도 특별한 힘이 깃들어 있으면 우쭐해질 건 불 보듯 뻔하잖아?」"
+
+[[dialogue]]
+speaker = "エンジュ"
+original = "「果ても果ての田舎町じゃ、その横暴を止められるヤツなんていやしない。あいつは同年代の子どもをまるで家来や奴隷のように扱い、遊び半分でいたぶりやがった」"
+translation = "「구석진 시골 마을에선 그 횡포를 막을 수 있는 녀석이 없었어. 그 녀석은 또래 아이들을 마치 하인이나 노예처럼 다뤘고, 놀이 삼아 괴롭혔지」"
+
+[[dialogue]]
+speaker = "エンジュ"
+original = "「だけどあたしは生まれた時から、こんな性格だったからな。あんなやつに死んでも媚びるつもりはなかった」"
+translation = "「하지만 나는 태어날 때부터 이런 성격이었으니까. 그런 녀석에게 죽어도 아첨할 생각은 없었어」"
+
+[[dialogue]]
+speaker = "エンジュ"
+original = "「そんなあたしが気に入らなかったんだろうな。星騎士様には毎日のように難癖をつけられ、体のいいオモチャにされたよ」"
+translation = "「그런 내가 마음에 들지 않았겠지. 성기사님께서는 매일같이 트집을 잡으며 나를 좋은 장난감으로 삼았어」"
+
+[[dialogue]]
+speaker = "エンジュ"
+original = "「最初はあたしと同じように反抗していた子どもたちもいたけど、１人、また１人とあたしの周りからいなくなった」"
+translation = "「처음에는 나처럼 반항하던 아이들도 있었지만, 한 명, 또 한 명 내 주변에서 사라져갔지」"
+
+[[dialogue]]
+speaker = "エンジュ"
+original = "「それでもあたしは屈することなく、抵抗を続けた」"
+translation = "「그래도 나는 굴하지 않고 저항을 계속했어」"
+
+[[dialogue]]
+speaker = "unk"
+original = "…………"
+translation = "…………"
+
+[[dialogue]]
+speaker = "エンジュ"
+original = "「そしたらあいつは、あたしだけじゃなく、うちの家族にまで手を出しやがった」"
+translation = "「그랬더니 그 녀석은 나뿐만 아니라 우리 가족에게까지 손을 댔어」"
+
+[[dialogue]]
+speaker = "エンジュ"
+original = "「あいつは権力で家族を脅し、星力を使って痛めつけて、抵抗できないあたしの頭を踏みつけながら、心ゆくまでなじった」"
+translation = "「그 녀석은 권력으로 가족을 협박하고, 성력을 써서 고통을 주며, 저항할 수 없는 내 머리를 짓밟으며 마음껏 비웃었어」"
+
+[[dialogue]]
+speaker = "エンジュ"
+original = "「そしてあたしは、町中の皆の前で土下座させられ、言わされた。『もう、あなた様には逆らいません』って心にもないことをな」"
+translation = "「그리고 나는 마을 사람들이 보는 앞에서 무릎을 꿇고 말해야 했지. 『다시는 당신께 거스르지 않겠습니다』라고 마음에도 없는 소리를 말이야」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「エンジュちゃんは何も悪くないのに……」"
+translation = "「엔주 짱은 아무 잘못도 없는데……」"
+
+[[dialogue]]
+speaker = "エンジュ"
+original = "「慰めの言葉なんかいらない。この屈辱こそがあたしの復讐心の原点で、力の源泉だからな」"
+translation = "「위로의 말 따윈 필요 없어. 이 굴욕이야말로 내 복수심의 원점이고 힘의 원천이니까」"
+
+[[dialogue]]
+speaker = "unk"
+original = "星騎士を嫌う理由がよくわかったよ"
+translation = "성기사를 싫어하는 이유를 잘 알겠어"
+
+[[dialogue]]
+speaker = "エンジュ"
+original = "「……フン」"
+translation = "「……흥」"
+
+[[dialogue]]
+speaker = "サーシャ"
+original = "「もしかして、星騎士が嫌いな理由がまだあるの？」"
+translation = "「혹시 성기사가 싫은 이유가 또 있어?」"
+
+[[dialogue]]
+speaker = "エンジュ"
+original = "「そりゃあるさ。とびっきりのがな」"
+translation = "「당연히 있지. 아주 특별한 게 말이야」"
+
+[[dialogue]]
+speaker = "エンジュ"
+original = "「そんなに聞きたきゃ聞かせてやる。お前ら星騎士の、情けなくてかっこ悪い話をな」"
+translation = "「그렇게 듣고 싶으면 들려주지. 너희 성기사들의 한심하고 꼴불견인 이야기를 말이야」"
+
+[[dialogue]]
+speaker = "unk"
+original = "顔を見合わせた俺とサーシャさんは、エンジュを腰を落ち着けられる新星星徒会室へと案内した。"
+translation = "얼굴을 마주 본 나와 사샤 씨는 엔주를 차분히 대화할 수 있는 신성 학생회실로 안내했다."
+

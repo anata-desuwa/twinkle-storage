@@ -1,0 +1,225 @@
+[[dialogue]]
+speaker = "unk"
+original = "第７話,激ヤバのヤバ,B"
+translation = "제7화, 진짜 대박 위험, B"
+
+[[dialogue]]
+speaker = "せつな"
+original = "「――<ruby>鏡界の湖<rt>ラーゴ・シエロ</rt></ruby>を占拠している謎の敵の存在を確認したでござる」"
+translation = "「──<ruby>경계의 호수<rt>라르고 시에로</rt></ruby>를 점거하고 있는 수수께끼의 적의 존재를 확인했소.」"
+
+[[dialogue]]
+speaker = "美鶴"
+original = "「一時的に交戦しましたが、休戦交渉の末、撤退いたしました」"
+translation = "「일시적으로 교전했습니다만, 휴전 협상 끝에 철수했습니다.」"
+
+[[dialogue]]
+speaker = "ヘレナ"
+original = "「ふむ、ご苦労だった。負傷はないか？」"
+translation = "「흠, 수고했다. 부상은 없느냐?」"
+
+[[dialogue]]
+speaker = "ヨミ"
+original = "「大丈夫です。３名ともケガなく戻って来れました」"
+translation = "「네. 세 명 모두 다친 곳 없이 돌아왔습니다.」"
+
+[[dialogue]]
+speaker = "ヘレナ"
+original = "「そうか。それでこそ貴殿らを派遣した甲斐があるというもの。良い判断だった。十全にその役目を果たしてくれたな」"
+translation = "「그런가. 그래야 귀공들을 파견한 보람이 있는 법. 좋은 판단이었다. 충분히 그 역할을 다해주었구나.」"
+
+[[dialogue]]
+speaker = "ヨミ"
+original = "「私とせつなさんだけだったら、まだ<ruby>鏡界の湖<rt>ラーゴ・シエロ</rt></ruby>にいたかもしれませんね」"
+translation = "「저와 세츠나 씨뿐이었다면 아직 <ruby>경계의 호수<rt>라르고 시에로</rt></ruby>에 있었을지도 모르겠네요.」"
+
+[[dialogue]]
+speaker = "せつな"
+original = "「いやはや、五体満足で情報を持ち帰れたのは、美鶴殿の冷静で的確な判断力のおかげでござる」"
+translation = "「아니 참, 사지 멀쩡하게 정보를 가져올 수 있었던 건 미츠루 공의 냉정하고 적절한 판단력 덕분이오.」"
+
+[[dialogue]]
+speaker = "美鶴"
+original = "「臆病なだけだよ」"
+translation = "「겁이 많을 뿐이야.」"
+
+[[dialogue]]
+speaker = "美鶴"
+original = "（忍んでないせつなに真面目すぎるヨミーのペアなら、無限湧きし続ける鏡像相手にいつまでも立ち回ってたかも）"
+translation = "(숨어 다니지 않는 세츠나에 너무 진지한 요미 콤비라면, 무한히 솟아나는 경상 상대로 언제까지고 싸우고 있었을지도.)"
+
+[[dialogue]]
+speaker = "美鶴"
+original = "（うちは当主様が期待してた通りに、突っ走りがちな２人のストッパー役を果たしたってワケで）"
+translation = "(나는 당주님이 기대했던 대로, 앞서 나가기 쉬운 두 사람의 제동 장치 역할을 다했다는 거지.)"
+
+[[dialogue]]
+speaker = "美鶴"
+original = "（んー。当主様の掌の上で転がされてる感あるー）"
+translation = "(음ー. 당주님 손바닥 위에서 놀아나고 있는 느낌이야ー.)"
+
+[[dialogue]]
+speaker = "ヘレナ"
+original = "「<ruby>鏡界の湖<rt>ラーゴ・シエロ</rt></ruby>を占拠し、三界の行き来を妨げている輩がいる……最初に生み出された鏡像から察するに、単独犯ではあるまい」"
+translation = "「<ruby>경계의 호수<rt>라르고 시에로</rt></ruby>를 점거하고 삼계의 왕래를 방해하는 무리가 있다…… 처음에 생겨난 경상으로 미루어 보건대 단독 범행은 아니겠지.」"
+
+[[dialogue]]
+speaker = "ヘレナ"
+original = "「ここで<b>奴ら</b>が動いてきたか……」"
+translation = "「여기서 <b>놈들</b>이 움직이기 시작했나……」"
+
+[[dialogue]]
+speaker = "美鶴"
+original = "「当主様……ひとつお伺いしても？」"
+translation = "「당주님…… 하나 여쭤봐도 될까요?」"
+
+[[dialogue]]
+speaker = "ヘレナ"
+original = "「なんだ？\u3000ひとつと言わず、なんでも尋ねるがいい。私に答えられることならばな」"
+translation = "「무엇이냐? 하나라고 하지 말고 무엇이든 묻거라. 내가 답할 수 있는 것이라면 말이다.」"
+
+[[dialogue]]
+speaker = "美鶴"
+original = "「当主様は<ruby>鏡界の湖<rt>ラーゴ・シエロ</rt></ruby>に何がいるのか、なんとなく勘づいてたんじゃないです？」"
+translation = "「당주님은 <ruby>경계의 호수<rt>라르고 시에로</rt></ruby>에 무엇이 있는지 어느 정도 짐작하고 계셨던 거 아니에요?」"
+
+[[dialogue]]
+speaker = "ヘレナ"
+original = "「……ほう？\u3000何故そう思った？」"
+translation = "「……호오? 어째서 그렇게 생각했느냐?」"
+
+[[dialogue]]
+speaker = "美鶴"
+original = "「なんていうか……どうにも手際が良すぎやしないかと思いまして。当主様は今回の事件について、どこまで察してるんです？」"
+translation = "「뭐랄까…… 아무래도 일 처리가 너무 매끄럽지 않나 싶어서요. 당주님은 이번 사건에 대해 어디까지 알고 계신 거예요?」"
+
+[[dialogue]]
+speaker = "ヘレナ"
+original = "「ほほう、珍しく踏み込んでくるではないか」"
+translation = "「호오, 드물게 파고드는구나.」"
+
+[[dialogue]]
+speaker = "美鶴"
+original = "「ん……まぁ、そーですね。うちにしちゃ、らしくないかもしんないです」"
+translation = "「음…… 뭐, 그렇네요. 나답지 않을지도 모르겠어요.」"
+
+[[dialogue]]
+speaker = "美鶴"
+original = "「でも今回はどーにも当主様の思惑ってのが気になっちゃいまして」"
+translation = "「하지만 이번에는 아무래도 당주님의 의중이라는 게 신경 쓰여서요.」"
+
+[[dialogue]]
+speaker = "ヘレナ"
+original = "「なるほど……ふふ、まあいい。この際だから私の推測を話しておこう」"
+translation = "「과연…… 후후, 뭐 좋다. 이 기회에 내 추측을 이야기해 두지.」"
+
+[[dialogue]]
+speaker = "ヘレナ"
+original = "「そうだな。私は……ヴィーナスに次いで姿を消した魔王たちは、おそらくヴィーナスを追って魔界に向かったのではないかと考えている」"
+translation = "「그렇구나. 나는…… 비너스에 이어 자취를 감춘 마왕들은 아마도 비너스를 쫓아 마계로 향한 것이 아닐까 생각하고 있느니라.」"
+
+[[dialogue]]
+speaker = "せつな"
+original = "「魔界でござるか！？\u3000しかし今は三界の行き来の出来ない時節でござる」"
+translation = "「마계 말이오!? 하지만 지금은 삼계를 왕래할 수 없는 시기이오.」"
+
+[[dialogue]]
+speaker = "ヨミ"
+original = "「しかも<ruby>鏡界の湖<rt>ラーゴ・シエロ</rt></ruby>に近づけさせないように水鏡の魔女が陣取っていて――」"
+translation = "「게다가 <ruby>경계의 호수<rt>라르고 시에로</rt></ruby>에 접근하지 못하도록 수경의 마녀가 버티고 있어서──」"
+
+[[dialogue]]
+speaker = "ヨミ"
+original = "「はっ！？\u3000つまりあの魔女と、魔女のお仲間がお嬢様をさらった犯人！？」"
+translation = "「핫!? 즉 그 마녀와 마녀의 동료가 아가씨를 납치한 범인!?」"
+
+[[dialogue]]
+speaker = "ヘレナ"
+original = "「いや……<ruby>鏡界の湖<rt>ラーゴ・シエロ</rt></ruby>の占拠は、ヴィーナスがさらわれた件とはまた別であろうな」"
+translation = "「아니…… <ruby>경계의 호수<rt>라르고 시에로</rt></ruby>의 점거는 비너스가 납치된 건과는 또 별개겠지.」"
+
+[[dialogue]]
+speaker = "ヘレナ"
+original = "「おそらく彼奴らの目的は、リクリエを人間界に閉じ込め──ん？\u3000いや、まさかとは思うが……」"
+translation = "「아마도 그놈들의 목적은 리크리에를 인간계에 가두고── 응? 아니, 설마라고는 생각하지만……」"
+
+[[dialogue]]
+speaker = "ヨミ"
+original = "「当主様、何かお気づきに？」"
+translation = "「당주님, 무언가 알아내셨나요?」"
+
+[[dialogue]]
+speaker = "ヘレナ"
+original = "「彼奴らめ、人間界と心中するつもりか？」"
+translation = "「그놈들, 인간계와 동반 자살할 셈인가?」"
+
+[[dialogue]]
+speaker = "せつな"
+original = "「心中……！？」"
+translation = "「동반 자살……!?」"
+
+[[dialogue]]
+speaker = "美鶴"
+original = "「どういう意味かはよく分かんないですけど、めちゃヤバいってことだけは伝わりました」"
+translation = "「무슨 뜻인지는 잘 모르겠지만, 엄청 위험하다는 것만은 전달됐어요.」"
+
+[[dialogue]]
+speaker = "ヘレナ"
+original = "「ヤバいな。激ヤバだよ」"
+translation = "「위험하구나. 진짜 대박 위험해.」"
+
+[[dialogue]]
+speaker = "ヘレナ"
+original = "「さて……ここで重要なのは、我ら九浄家がどう動くべきか、だが──」"
+translation = "「자…… 여기서 중요한 것은 우리 구죠 가문이 어떻게 움직여야 하느냐다만──」"
+
+[[dialogue]]
+speaker = "蘭美"
+original = "「ご当主様、大変ですっ！」"
+translation = "「당주님, 큰일입니다!」"
+
+[[dialogue]]
+speaker = "ヘレナ"
+original = "「む、いったいどうした？\u3000メイド長が形振り構わず駆け込んできたとなれば、ただごとではないようだな」"
+translation = "「음, 대체 무슨 일이냐? 메이드장이 체면도 차리지 않고 뛰어들어왔다면 보통 일이 아닌 모양이구나.」"
+
+[[dialogue]]
+speaker = "蘭美"
+original = "「はい。かつてない異常事態かと……窓の外をご覧いただけますか」"
+translation = "「네. 전례 없는 이상 사태입니다…… 창밖을 봐주시겠습니까.」"
+
+[[dialogue]]
+speaker = "せつな"
+original = "「窓の外でござるか？\u3000なんだかチカチカ光ってるでござるが……」"
+translation = "「창밖 말이오? 왠지 번쩍번쩍 빛나고 있소만……」"
+
+[[dialogue]]
+speaker = "ヨミ"
+original = "「花火でも打ち上げて──こやーーんっ！？」"
+translation = "「불꽃놀이라도 터뜨리── 코야앙!?」"
+
+[[dialogue]]
+speaker = "美鶴"
+original = "「なるほど。一目瞭然だね」"
+translation = "「과연. 일목요연하네.」"
+
+[[dialogue]]
+speaker = "蘭美"
+original = "「流星群が、激化しております……！」"
+translation = "「유성우가 격렬해지고 있습니다……!」"
+
+[[dialogue]]
+speaker = "ヘレナ"
+original = "「激ヤバのヤバであるな」"
+translation = "「진짜 대박 위험한 상황이로다.」"
+
+[[dialogue]]
+speaker = "unk"
+original = "空から降り注ぐ無数の光の帯。"
+translation = "하늘에서 쏟아지는 무수한 빛의 띠."
+
+[[dialogue]]
+speaker = "unk"
+original = "それは花火より激しくて、花火よりも破滅的な輝きだった。"
+translation = "그것은 불꽃놀이보다 격렬하고, 불꽃놀이보다 파멸적인 광채였다."
+

@@ -1,0 +1,365 @@
+[[dialogue]]
+speaker = "ウェンディ"
+original = "「アクアシーリング！」"
+translation = "「아쿠아 실링!」"
+
+[[dialogue]]
+speaker = "スミス"
+original = "「ゲコ！」"
+translation = "「게코!」"
+
+[[dialogue]]
+speaker = "？？？"
+original = "「あとはこれを基地に送って……と」"
+translation = "「나머지는 이걸 기지로 전송하고…… 자.」"
+
+[[dialogue]]
+speaker = "？？？"
+original = "「ふぅ……ご協力ありがとうございました」"
+translation = "「후우…… 협력해 주셔서 감사합니다.」"
+
+[[dialogue]]
+speaker = "unk"
+original = "君はいったい？"
+translation = "너는 대체?"
+
+[[dialogue]]
+speaker = "？？？"
+original = "「あなたは新星学園の星徒会長さん……ですよね」"
+translation = "「당신은 신성학원의 성도회장님…… 맞으시죠.」"
+
+[[dialogue]]
+speaker = "？？？"
+original = "「どこからお話しましょうか。本当は言っちゃいけないんですけど……説明する義務がありますよね……」"
+translation = "「어디서부터 이야기해야 할까요. 원래는 말하면 안 되지만…… 설명할 의무가 있겠죠……」"
+
+[[dialogue]]
+speaker = "ウェンディ"
+original = "「まず、私はウェンディ。ネビュラ所属の魔女で、組織の資金運用と、セドナ長官の補佐を担当しています」"
+translation = "「먼저 저는 웬디. 네뷸라 소속의 마녀로, 조직의 자금 운용과 세드나 장관님의 보좌를 담당하고 있습니다.」"
+
+[[dialogue]]
+speaker = "ウェンディ"
+original = "「どうして私がモンスターを捕獲していたのかと言いますとですね……」"
+translation = "「어째서 제가 몬스터를 포획하고 있었는가 하면 말이죠……」"
+
+[[dialogue]]
+speaker = "ウェンディ"
+original = "「実際に戦ったのですから、リクリエの使徒アポロは当然ご存じでしょう」"
+translation = "「실제로 싸워 보셨으니 리크리에의 사도 아폴로는 당연히 알고 계시겠죠.」"
+
+[[dialogue]]
+speaker = "ウェンディ"
+original = "「そして、彼女が使役する特殊なモンスターのことも」"
+translation = "「그리고 그녀가 부리는 특수한 몬스터에 대해서도요.」"
+
+[[dialogue]]
+speaker = "ウェンディ"
+original = "「あなた方がモンスターと戦っている間、我々は秘密裏にこれを捕獲。改造してネビュラの戦力とする実験を行っていました」"
+translation = "「당신들이 몬스터와 싸우는 동안 우리는 비밀리에 이것을 포획. 개조해서 네뷸라의 전력으로 삼는 실험을 하고 있었습니다.」"
+
+[[dialogue]]
+speaker = "ウェンディ"
+original = "「誤解はしないでください。これもリクリエに対抗するためです」"
+translation = "「오해는 하지 말아 주세요. 이것도 리크리에에 대항하기 위해서입니다.」"
+
+[[dialogue]]
+speaker = "ウェンディ"
+original = "「ネビュラは目的のためなら手段を選ばない。それだけのことです」"
+translation = "「네뷸라는 목적을 위해서라면 수단을 가리지 않는다. 그뿐인 이야기입니다.」"
+
+[[dialogue]]
+speaker = "unk"
+original = "で、どうしてそのモンスターが街に？"
+translation = "그런데 어째서 그 몬스터가 거리에?"
+
+[[dialogue]]
+speaker = "ウェンディ"
+original = "「うっ……！？\u3000そ、それはですね……」"
+translation = "「윽……!? 그, 그거 말이죠……」"
+
+[[dialogue]]
+speaker = "アイリーン"
+original = "「ねぇねぇ、ウェンディさん、今ヒマ？\u3000チェスやろうよー」"
+translation = "「저기 저기, 웬디 씨, 지금 한가해? 체스 하자~」"
+
+[[dialogue]]
+speaker = "ウェンディ"
+original = "「見ての通り仕事中です。関係会社の業績予測修正を出さないといけないので放っておいてください」"
+translation = "「보시다시피 업무 중입니다. 관계사의 실적 예측 수정안을 내야 하니까 내버려 두세요.」"
+
+[[dialogue]]
+speaker = "アイリーン"
+original = "「え～、それじゃいつまでたってもセドナさんの相手はできないよ？\u3000ウェンディさん、アイリーンより弱いんだから」"
+translation = "「에이~ 그러면 언제까지 지나도 세드나 씨 상대는 못 한다구? 웬디 씨는 아이린보다 약하니까.」"
+
+[[dialogue]]
+speaker = "ウェンディ"
+original = "「む。アイリーンが意地悪な攻め方をするから悪いんです」"
+translation = "「무. 아이린이 심술궂게 공격하니까 그런 거예요.」"
+
+[[dialogue]]
+speaker = "アイリーン"
+original = "「だってウェンディさん、素直すぎて何したいか見え見えなんだもん。セドナさんとやったらボッコボコのメッタメタだよ？」"
+translation = "「그치만 웬디 씨는 너무 솔직해서 뭘 하고 싶은지 다 보이는걸. 세드나 씨랑 하면 아주 박살이 날걸?」"
+
+[[dialogue]]
+speaker = "ウェンディ"
+original = "「うぐ……そんな直球に言わなくても……」"
+translation = "「으구…… 그렇게 직구로 말하지 않아도……」"
+
+[[dialogue]]
+speaker = "ウェンディ"
+original = "（私の方がずっと年上なのに、ちゃんと計算してるのに、どうして勝てないんですか……）"
+translation = "(내가 훨씬 연상인데, 계산도 철저히 하고 있는데, 어째서 이기지 못하는 건가요……)"
+
+[[dialogue]]
+speaker = "アイリーン"
+original = "「セドナさんとチェスしたいなら直接言えばいいのに」"
+translation = "「세드나 씨랑 체스하고 싶으면 직접 말하면 되잖아.」"
+
+[[dialogue]]
+speaker = "ウェンディ"
+original = "「ダメです。セドナ長官のお時間を頂くからには、相応の実力を以てお相手をしなければいけません」"
+translation = "「안 됩니다. 세드나 장관님의 시간을 뺏는 이상, 그에 걸맞은 실력을 갖추고 상대를 해드려야 합니다.」"
+
+[[dialogue]]
+speaker = "ウェンディ"
+original = "「あとアイリーン、本部にいる時はセドナ長官と呼びなさい」"
+translation = "「그리고 아이린, 본부에 있을 때는 세드나 장관님이라고 부르렴.」"
+
+[[dialogue]]
+speaker = "アイリーン"
+original = "「は～い」"
+translation = "「네에~」"
+
+[[dialogue]]
+speaker = "セドナ"
+original = "「ウェンディ」"
+translation = "「웬디.」"
+
+[[dialogue]]
+speaker = "ウェンディ"
+original = "「はいぃぃっ！？」"
+translation = "「히이이익!?」"
+
+[[dialogue]]
+speaker = "セドナ"
+original = "「私は予定通り、定期報告のために魔女の森へ戻る。数日基地を空けるが、留守にしている間のことは任せた」"
+translation = "「나는 예정대로 정기 보고를 위해 마녀의 숲으로 돌아간다. 며칠간 기지를 비우겠지만, 없는 동안의 일은 맡기마.」"
+
+[[dialogue]]
+speaker = "セドナ"
+original = "「長老たちの相手をせねばならんのは気が進まんが、これも立場だ。私がいない間に面倒ごとは起こしてくれるなよ」"
+translation = "「장로들 상대는 내키지 않지만, 이것도 입장상 어쩔 수 없지. 내가 없는 동안 번거로운 일은 만들지 말거라.」"
+
+[[dialogue]]
+speaker = "ウェンディ"
+original = "「もちろんです。お帰りをお待ちしていますね」"
+translation = "「물론입니다. 안녕히 다녀오세요.」"
+
+[[dialogue]]
+speaker = "セドナ"
+original = "「ああ」"
+translation = "「그래.」"
+
+[[dialogue]]
+speaker = "ウェンディ"
+original = "「というわけでアイリーン、残念ながらチェスをしている時間はありません。長官の分まで、このネビュラ本部を管理しなければいけませんので」"
+translation = "「그런 이유로 아이린, 아쉽지만 체스 할 시간은 없습니다. 장관님 몫까지 이 네뷸라 본부를 관리해야 하니까요.」"
+
+[[dialogue]]
+speaker = "アイリーン"
+original = "「わかった。頑張ってねー」"
+translation = "「알았어. 힘내~」"
+
+[[dialogue]]
+speaker = "ウェンディ"
+original = "「ええ、まぁ、ネビュラ本部を任されたまではいいのですが……」"
+translation = "「네, 뭐, 네뷸라 본부를 맡게 된 것까지는 좋은데……」"
+
+[[dialogue]]
+speaker = "ウェンディ"
+original = "「決算報告書と、来季の事業計画書と、マーケティング資料の作成と……ああ、タスクがたくさん……」"
+translation = "「결산 보고서랑 다음 분기 사업 계획서, 그리고 마케팅 자료 작성까지…… 아아, 할 일이 산더미야……」"
+
+[[dialogue]]
+speaker = "ウェンディ"
+original = "「それにネビュラ内部の会計もしないといけませんし……うぅ、最近は必要な人員と設備が多くて支出が……」"
+translation = "「게다가 네뷸라 내부 회계도 해야 하고…… 으으, 요즘은 필요한 인원과 설비가 많아서 지출이……」"
+
+[[dialogue]]
+speaker = "ウェンディ"
+original = "「あ、モンスター改造実験の様子も見ないといけないんでした。えーと、観測機器の操作は……」"
+translation = "「아, 몬스터 개조 실험 상황도 확인해야 했지. 어디 보자, 관측 기기 조작은……」"
+
+[[dialogue]]
+speaker = "ウェンディ"
+original = "「え？\u3000あっ！？\u3000ロックが外れて……あ、ちょっと！\u3000待ちなさ～い！」"
+translation = "「어? 앗!? 잠금이 풀려서…… 아, 잠깐! 기다려요~!」"
+
+[[dialogue]]
+speaker = "ウェンディ"
+original = "「というわけで、他の仕事に忙殺されているうちに、私のミスで２０体のモンスターが解き放たれてしまいまして……」"
+translation = "「그리하여 다른 업무에 치여 바쁜 와중에 제 실수로 20마리의 몬스터가 풀려나 버리고 말았습니다……」"
+
+[[dialogue]]
+speaker = "unk"
+original = "多忙な管理職の悲劇……"
+translation = "다보한 관리직의 비극……."
+
+[[dialogue]]
+speaker = "ウェンディ"
+original = "「くっ……学生に言われると余計に……心にダメージが……」"
+translation = "「큭…… 학생한테 그런 소릴 들으니 더…… 마음에 상처가……」"
+
+[[dialogue]]
+speaker = "ウェンディ"
+original = "「ひとまずモンスターを倒すのは待ってください」"
+translation = "「일단 몬스터를 쓰러뜨리는 건 기다려 주세요.」"
+
+[[dialogue]]
+speaker = "ウェンディ"
+original = "「モンスターはネビュラで改造実験を受けており、ただちに暴れる危険はありません。実際、先ほどはモンスターをほぼ無抵抗で制圧できました」"
+translation = "「몬스터는 네뷸라에서 개조 실험을 받고 있어서 당장 날뛸 위험은 없습니다. 실제로 아까는 몬스터를 거의 무저항으로 제압할 수 있었잖아요.」"
+
+[[dialogue]]
+speaker = "ウェンディ"
+original = "「セドナ長官は多忙なお方。こんなことで長官を煩わせたくはありません。それに……」"
+translation = "「세드나 장관님은 바쁘신 분. 이런 일로 장관님을 번거롭게 해드리고 싶지는 않습니다. 게다가……」"
+
+[[dialogue]]
+speaker = "ウェンディ"
+original = "「長官、めちゃくちゃ怖いじゃないですか！」"
+translation = "「장관님, 엄청나게 무섭단 말이에요!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "確かに迫力あったなぁ……"
+translation = "확실히 박력이 넘치긴 했지……."
+
+[[dialogue]]
+speaker = "ウェンディ"
+original = "「長官のことはとってもとっても尊敬してますけど、怖いものは怖いんです！」"
+translation = "「장관님을 정말 정말 존경하지만, 무서운 건 무서운 거예요!」"
+
+[[dialogue]]
+speaker = "ウェンディ"
+original = "「長官が戻ってきて、実験中のモンスターがいなくなったと知れたらどうなるか……」"
+translation = "「장관님이 돌아오셨을 때 실험 중인 몬스터가 없어졌다는 걸 알게 되시면 어떻게 될지……」"
+
+[[dialogue]]
+speaker = "ウェンディ"
+original = "「だからこの件は内密に解決したいんです！\u3000どうか……どうかお願いします！」"
+translation = "「그러니까 이 건은 은밀하게 해결하고 싶어요! 제발…… 제발 부탁드립니다!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "わかった"
+translation = "알았어."
+
+[[dialogue]]
+speaker = "ウェンディ"
+original = "「本当ですか！？\u3000ありがとうございます！」"
+translation = "「정말인가요!? 감사합니다!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "──というわけで今に至る。"
+translation = "──그리하여 현재에 이르렀다."
+
+[[dialogue]]
+speaker = "ウェンディ"
+original = "「このモンスターはネビュラ基地に送っておきますね」"
+translation = "「이 몬스터는 네뷸라 기지로 전송해 두겠습니다.」"
+
+[[dialogue]]
+speaker = "ウェンディ"
+original = "「私の計算が正しければ、逃げ出したモンスターはあと１５体」"
+translation = "「제 계산이 맞다면 도망친 몬스터는 앞으로 15마리.」"
+
+[[dialogue]]
+speaker = "ウェンディ"
+original = "「それにネビュラでモンスターを戦力化するにあたり、命令を聞くようにするほか、透明化や瞬間移動など特殊能力の追加も試みました」"
+translation = "「게다가 네뷸라에서 몬스터를 전력화하면서 명령을 듣게 하는 것 외에도 투명화나 순간 이동 같은 특수 능력 추가도 시도했거든요.」"
+
+[[dialogue]]
+speaker = "ウェンディ"
+original = "「そのせいで捕捉するのも難しくて……こうして足で探すしかないんですよね……」"
+translation = "「그 탓에 포착하기도 힘들어서…… 이렇게 발로 뛸 수밖에 없는 거죠……」"
+
+[[dialogue]]
+speaker = "ウェンディ"
+original = "「はぁ……こんなことじゃ長官に怒られちゃう……」"
+translation = "「하아…… 이러다간 장관님께 혼날 거야……」"
+
+[[dialogue]]
+speaker = "unk"
+original = "セドナさんってそんなに怖いの？"
+translation = "세드나 씨가 그렇게 무서워?"
+
+[[dialogue]]
+speaker = "ウェンディ"
+original = "「理由もなく怒る方ではないのですが……厳しい方なのは間違いないですね」"
+translation = "「이유 없이 화내시는 분은 아니지만…… 엄격하신 분인 건 틀림없죠.」"
+
+[[dialogue]]
+speaker = "ウェンディ"
+original = "「でも長官は素晴らしい人なんです！」"
+translation = "「하지만 장관님은 훌륭한 분이에요!」"
+
+[[dialogue]]
+speaker = "ウェンディ"
+original = "「強くて、聡明で、意志が強くて……」"
+translation = "「강하고, 총명하고, 의지가 굳고……」"
+
+[[dialogue]]
+speaker = "ウェンディ"
+original = "「冷静にして果断。即断即決。凛々しく、美しく、完璧で……最高の魔女です！」"
+translation = "「냉철하면서도 과단. 즉단즉결. 늠름하고 아름답고 완벽하고…… 최고의 마녀입니다!」"
+
+[[dialogue]]
+speaker = "ウェンディ"
+original = "「それに長官は私の恩人──」"
+translation = "「게다가 장관님은 저의 은인──」"
+
+[[dialogue]]
+speaker = "ウェンディ"
+original = "（──！\u3000モンスター！\u3000ほら、あの路地にいます）"
+translation = "(──! 몬스터! 봐요, 저 골목에 있어요.)"
+
+[[dialogue]]
+speaker = "ウェンディ"
+original = "（確かあの個体はステルス能力を付与されていたはず。今は解除しているようですが、気付かれたら厄介です）"
+translation = "(분명 저 개체는 스텔스 능력이 부여되어 있었을 터. 지금은 해제한 모양이지만 눈치채이면 골치 아픕니다.)"
+
+[[dialogue]]
+speaker = "ウェンディ"
+original = "（慎重に近づいて挟み打ちにしましょう。合図するまで変身は控えてください」"
+translation = "(신중하게 접근해서 협공하죠. 신호를 보낼 때까지 변신은 삼가 주세요.)"
+
+[[dialogue]]
+speaker = "ウェンディ"
+original = "（まだですよ、まだ……もう少し……）"
+translation = "(아직이에요, 아직…… 조금만 더……)"
+
+[[dialogue]]
+speaker = "ウェンディ"
+original = "「今です！」"
+translation = "「지금입니다!」"
+
+[[dialogue]]
+speaker = "ウェンディ"
+original = "「逃げ場はありませんよ。アクアシーリン──」"
+translation = "「도망칠 곳은 없어요. 아쿠아 실링──」"
+
+[[dialogue]]
+speaker = "？？？"
+original = "「ダークネスソーン」"
+translation = "「다크니스 손.」"
+
+[[dialogue]]
+speaker = "ウェンディ"
+original = "「！？\u3000あなたは──」"
+translation = "「!? 당신은──」"
+

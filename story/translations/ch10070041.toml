@@ -1,0 +1,235 @@
+[[dialogue]]
+speaker = "unk"
+original = "第１話,今までもこれからも,P"
+translation = "제1화, 지금까지도 앞으로도, P"
+
+[[dialogue]]
+speaker = "unk"
+original = "その日、恋人であるルリエルへ会いに、流星寮へと向かうと――"
+translation = "그날, 연인인 루리엘을 만나러 유성 기숙사로 향하자──"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「ほぇ～、羊さんのお肉――ジンギスカンですか。まだ食べたことなかったのです！」"
+translation = "「호에~, 양고기── 징기스칸인가요. 아직 먹어본 적 없어요!」"
+
+[[dialogue]]
+speaker = "フェニエル"
+original = "「今度一緒に食べに行ってみますか？\u3000流星市国にも有名なお店があって、そこのジンギスカン、すごく美味しかったんですよ♪」"
+translation = "「나중에 같이 먹으러 가볼까요? 유성시국에도 유명한 가게가 있어서, 거기 징기스칸, 정말 맛있었거든요♪」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ルリエルはロビーで紅茶を飲みながら、フェニエルと２人で談笑しているところだった。"
+translation = "루리엘은 로비에서 홍차를 마시며, 페니엘과 둘이서 담소하고 있는 중이었다."
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「行きます行きます！\u3000なんなら今夜にでも食べに行きましょう♪」"
+translation = "「갈래요 갈래요! 이왕이면 오늘 밤에라도 먹으러 가요♪」"
+
+[[dialogue]]
+speaker = "フェニエル"
+original = "「今夜ですか！？\u3000そ、そこまでは考えてませんでした。さすがルリちゃん、行動力がなまらすごいです……！」"
+translation = "「오늘 밤에요!? 거, 거기까지는 생각 못 했어요. 역시 루리 짱, 행동력이 나마라(엄청) 대단해요……!」"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「――あっ、会長さん！\u3000待ってましたよ～♪\u3000会長さんもわたしたちと一緒に、ジンギスカンを食べに行きましょう！」"
+translation = "「──앗, 회장님! 기다리고 있었어요~♪ 회장님도 우리랑 같이 징기스칸 먹으러 가요!」"
+
+[[dialogue]]
+speaker = "フェニエル"
+original = "「会長さん、ごきげんよう♪」"
+translation = "「회장님, 안녕하세요♪」"
+
+[[dialogue]]
+speaker = "unk"
+original = "２人って仲良かったんだな"
+translation = "둘이 사이 좋았구나"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「あれ？\u3000言ってませんでしたっけ？\u3000ルリエルとフニさんは、実は流星学園で同じクラスなのです！」"
+translation = "「어라? 말 안 했었나요? 루리엘과 후니 씨는 사실 유성 학원에서 같은 반이에요!」"
+
+[[dialogue]]
+speaker = "フェニエル"
+original = "「流星学園に転入して来た日、初登校で緊張していた私に、ルリちゃんが明るく話しかけてくれたんです」"
+translation = "「유성 학원에 전입해 온 날, 첫 등교라 긴장하고 있던 저에게 루리 짱이 밝게 말을 걸어줬어요」"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「今では流星学園で１番の、仲良し天使コンビなのです♪」"
+translation = "「지금은 유성 학원에서 제일가는 사이좋은 천사 콤비예요♪」"
+
+[[dialogue]]
+speaker = "unk"
+original = "その後、俺も２人と同席させてもらい、仲良しエピソードを聞いていたのだが――ふと、フニが口を開く。"
+translation = "그 후, 나도 두 사람과 동석하게 되어 사이좋은 에피소드를 듣고 있었는데── 문득, 후니가 입을 연다."
+
+[[dialogue]]
+speaker = "フェニエル"
+original = "「あのっ。実は私、お２人に聞いてみたいことがあって……」"
+translation = "「저기. 사실 저, 두 분께 여쭤보고 싶은 게 있어서……」"
+
+[[dialogue]]
+speaker = "フェニエル"
+original = "「お２人はその……ど、どのようにして付き合い始めたのでしょうかっ！？」"
+translation = "「두 분은 그…… 어, 어떻게 사귀기 시작하신 건가요!?」"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「恋人になった時の話ですか？\u3000それはですね～」"
+translation = "「연인이 되었을 때 이야기인가요? 그건 말이죠~」"
+
+[[dialogue]]
+speaker = "unk"
+original = "俺とルリエルが付き合い始めたのは、休日に２人で遊園地へ行った時のことだった――"
+translation = "나와 루리엘이 사귀기 시작한 건, 휴일에 둘이서 유원지에 갔을 때의 일이었다──"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「会長さ～ん！\u3000次はあの絶叫マシーンに乗りましょう！\u3000あれもみんなキャーって声を上げてて、すごく楽しそうなのです♪」"
+translation = "「회장님~! 다음은 저 절규 머신에 타요! 저것도 다들 꺄악 하고 소리를 질러서, 정말 즐거워 보여요♪」"
+
+[[dialogue]]
+speaker = "unk"
+original = "あのさ、ルリエル――"
+translation = "있잖아, 루리엘──"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「はい！\u3000なんでしょうか、会長さん？」"
+translation = "「네! 뭔가요, 회장님?」"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「って、そんな真剣な顔をして……どうかしましたか？」"
+translation = "「어라, 그렇게 진지한 얼굴을 하고…… 무슨 일 있나요?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "俺、ルリエルのことが好きだ！"
+translation = "나, 루리엘을 좋아해!"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「え？\u3000あっ、はい♪」"
+translation = "「에? 앗, 네♪」"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「ルリエルも会長さんのこと、大好きですよ！」"
+translation = "「루리엘도 회장님 정말 좋아해요!」"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「いつも遊んでくれて、今日みたいに行きたいところにも付き合ってくれますし、一緒に居るとすごく楽しくて……」"
+translation = "「항상 놀아주시고, 오늘처럼 가고 싶은 곳에도 같이 가주시고, 같이 있으면 정말 즐거워서……」"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「会長さんは、ルリエルにとって――すごく大切なお友達なのです♪」"
+translation = "「회장님은 루리엘에게── 정말 소중한 친구예요♪」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ん？\u3000あれ？\u3000友、達……？"
+translation = "응? 어라? 친, 구……?"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「はい♪\u3000もう親友と言ってもいいくらいの間柄です！」"
+translation = "「네♪ 이제 절친이라고 해도 좋을 정도의 사이예요!」"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「って、そんな慌てた顔をして、どうしましたか？」"
+translation = "「어라, 그렇게 당황한 얼굴을 하고 왜 그러세요?」"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「ほえ？\u3000――今日はただ遊びに来たつもりじゃなくて、デートしに来たつもりだった？」"
+translation = "「호에? ──오늘은 그냥 놀러 온 게 아니라, 데이트하러 온 거였다고요?」"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「ええっ！？\u3000これってデートだったのですか！？」"
+translation = "「에에!? 이게 데이트였나요!?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "うん……そのつもりだったんだ……"
+translation = "응…… 그럴 생각이었어……"
+
+[[dialogue]]
+speaker = "unk"
+original = "俺はそれから改めて、ルリエルに『友達としてではなく、女の子として恋愛的な意味で好き』であることを説明する。"
+translation = "나는 그 후 다시 한번, 루리엘에게 『친구가 아니라, 여자아이로서 연애적인 의미로 좋아한다』는 것을 설명한다."
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「会長さんが……わたしのことを、好き……？」"
+translation = "「회장님이…… 저를, 좋아해……?」"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「ということは……今日が会長さんと初めてのデート！\u3000――えへへへへへぇ<emoji=heart04>」"
+translation = "「그렇다는 건…… 오늘이 회장님과 첫 데이트! ──에헤헤헤헤헤에<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "unk"
+original = "う、嬉しいのか……？"
+translation = "기, 기쁜 거야……?"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「はいっ♪\u3000会長さんとこれから『恋愛をする仲』になるんだって思ったら、なんだか楽しい想像がいっぱい浮かんできて……！」"
+translation = "「네♪ 회장님과 이제부터 『연애를 하는 사이』가 된다고 생각하니, 왠지 즐거운 상상이 가득 떠올라서……!」"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「いま気づいたんですけど、ルリエル――」"
+translation = "「방금 깨달았는데, 루리엘──」"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「どうやら会長さんのこと、男の人として恋愛したいくらい、好きになっていたみたいです<emoji=heart04>」"
+translation = "「아무래도 회장님을 남자로서 연애하고 싶을 정도로 좋아하게 된 것 같아요<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「――と、そんなことがありまして、ルリエルと会長さんは恋人としてお付き合いをすることになったのです♪」"
+translation = "「──하고 그런 일이 있어서, 루리엘과 회장님은 연인으로 사귀게 된 것이랍니다♪」"
+
+[[dialogue]]
+speaker = "フェニエル"
+original = "「これからのことを想像して、好きだと自覚する……ルリちゃんらしくて、なまら素敵です♪」"
+translation = "「앞으로의 일을 상상하며 좋아한다고 자각하다니…… 루리 짱답고 나마라(엄청) 멋져요♪」"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「えへへ<emoji=heart04>\u3000そんな会長さんと出会えて、ルリエルはとっても幸せ者なのです♪」"
+translation = "「에헤헤<emoji=heart04> 그런 회장님과 만날 수 있어서 루리엘은 정말 행복한 사람이에요♪」"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「だからわたしも、一緒に居ていつも楽しいって思ってもらえるような、素敵な女の子になれるよう頑張るのです！」"
+translation = "「그러니까 저도 같이 있어서 항상 즐겁다고 생각할 수 있는, 멋진 여자아이가 될 수 있도록 노력할 거예요!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "今までも十分、楽しかったけどね"
+translation = "지금까지도 충분히 즐거웠지만 말이야"
+
+[[dialogue]]
+speaker = "ルリエル"
+original = "「あっ――えへへ♪\u3000ルリエルもなのです<emoji=heart04>」"
+translation = "「앗── 에헤헤♪ 루리엘도 그래요<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "unk"
+original = "俺が頭に手を置いて撫でると、嬉しそうに笑うルリエルなのであった――"
+translation = "내가 머리에 손을 얹고 쓰다듬자, 기쁜 듯이 웃는 루리엘이었다──"
+

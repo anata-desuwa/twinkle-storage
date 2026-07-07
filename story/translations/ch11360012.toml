@@ -1,0 +1,200 @@
+[[dialogue]]
+speaker = "unk"
+original = "第２話,購買部の名売り子,P"
+translation = "제2화, 매점의 명물 판매원, P"
+
+[[dialogue]]
+speaker = "unk"
+original = "昼休み──昼食を終え、お腹は満たされたが、なんとなく口寂しさを感じていた。"
+translation = "점심시간── 점심 식사를 마치고 배는 불렀지만, 왠지 모르게 입이 심심했다."
+
+[[dialogue]]
+speaker = "unk"
+original = "午後の授業に挑むに辺り、満足感の得られる、食後のおやつが欲しい。"
+translation = "오후 수업에 임하기에 앞서, 만족감을 얻을 수 있는 식후 간식이 필요하다."
+
+[[dialogue]]
+speaker = "unk"
+original = "そう、例えば……アナも好きそうな饅頭とか大福といった和の甘味を──"
+translation = "그래, 예를 들면…… 아나도 좋아할 법한 만두나 찹쌀떡 같은 일본식 단것을──"
+
+[[dialogue]]
+speaker = "アニマ"
+original = "「おや、いらっしゃい、会長。何かご入用かナ？」"
+translation = "「오야, 어서 와, 회장. 뭔가 볼일이라도 있나?」"
+
+[[dialogue]]
+speaker = "アニマ"
+original = "「甘いもの？\u3000ならちょうど良かった。おーい、ウルスラ。会長さんが甘味をご所望ダ♪」"
+translation = "「단것? 그럼 마침 잘됐네. 어ー이, 우르술라. 회장님이 단것을 원하신다♪」"
+
+[[dialogue]]
+speaker = "ウルスラ"
+original = "「まあ、いらっしゃいませ、会長さん。購買部にようこそ」"
+translation = "「어머, 어서 오세요, 회장님. 매점에 오신 걸 환영해요」"
+
+[[dialogue]]
+speaker = "アニマ"
+original = "「おやおや、会長。ウルスラとも知り合いなのカ？\u3000さすがは学園中の女の子に満遍なく粉かけているだけはあるネ」"
+translation = "「오야오야, 회장. 우르술라와도 아는 사이인가? 역시 학원 안의 여자애들에게 골고루 수작을 걸고 다니는 보람이 있네」"
+
+[[dialogue]]
+speaker = "ウルスラ"
+original = "「はい、会長さんと過ごした熱い夜……私、一生忘れません……<emoji=heart04>」"
+translation = "「네, 회장님과 보낸 뜨거운 밤…… 저, 평생 잊지 못해요……<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "unk"
+original = "誤解される言い回し！"
+translation = "오해받기 딱 좋은 말투!"
+
+[[dialogue]]
+speaker = "アニマ"
+original = "「別にナニがあってどんな関係だろうが、咎めやしないサ」"
+translation = "「딱히 무슨 일이 있었든 어떤 관계든 간에, 나무라지는 않겠어」"
+
+[[dialogue]]
+speaker = "アニマ"
+original = "「だがこう見えて、ウルスラはかなりのヤリ手でネ」"
+translation = "「하지만 이래 봬도, 우르술라는 꽤 수완가라서 말이야」"
+
+[[dialogue]]
+speaker = "ウルスラ"
+original = "「はっ……！\u3000会長さん、甘いもの……特にチョコレートに多く含まれるカカオポリフェノールとテオブロミンが不足している顔をしていらっしゃいます」"
+translation = "「핫……! 회장님, 단것…… 특히 초콜릿에 많이 함유된 카카오 폴리페놀과 테오브로민이 부족한 얼굴을 하고 계시네요」"
+
+[[dialogue]]
+speaker = "unk"
+original = "どんな顔！？"
+translation = "대체 어떤 얼굴인데!?"
+
+[[dialogue]]
+speaker = "ウルスラ"
+original = "「お疲れなのでしょう？\u3000目の下にうっすらとクマもできていますし……満足な睡眠も取れていないようにお見受けしますけど」"
+translation = "「피곤하신 거죠? 눈 밑에 옅게 다크서클도 생겼고…… 만족스러운 수면도 취하지 못하신 것 같은데요」"
+
+[[dialogue]]
+speaker = "ウルスラ"
+original = "「その表情、どうやら図星のようですね。ふふふ」"
+translation = "「그 표정, 아무래도 정곡을 찔린 모양이군요. 후후후」"
+
+[[dialogue]]
+speaker = "ウルスラ"
+original = "「そんな会長さんにオススメなのが……こちらのチョコレートです」"
+translation = "「그런 회장님께 추천드리는 것이…… 바로 이 초콜릿입니다」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ウルスラが指し示したのは、ハートの箱にリボンがラッピングされたチョコレートだ。"
+translation = "우르술라가 가리킨 것은 하트 상자에 리본이 포장된 초콜릿이다."
+
+[[dialogue]]
+speaker = "unk"
+original = "これってバレンタインの売れ残りでは？"
+translation = "이거 밸런타인데이 재고 아냐?"
+
+[[dialogue]]
+speaker = "ウルスラ"
+original = "「そうなんです。やっぱりこのパッケージだと売れ残ってしまうんですよね」"
+translation = "「맞아요. 역시 이런 패키지라면 재고가 남고 말더라고요」"
+
+[[dialogue]]
+speaker = "ウルスラ"
+original = "「ですが賞味期限はまだまだ長いですし、有名チョコレートブランドと同じ産地のカカオ豆を使用しています。味も折り紙付き」"
+translation = "「하지만 유통기한은 아직 넉넉하고, 유명 초콜릿 브랜드와 같은 산지의 카카오빈을 사용하고 있어요. 맛도 보장되어 있죠」"
+
+[[dialogue]]
+speaker = "ウルスラ"
+original = "「くちどけも極上で、一口頬張るだけで幸せな甘さに満たされるんです」"
+translation = "「입안에서 녹는 느낌도 일품이라, 한 입 머금는 것만으로 행복한 단맛에 휩싸인답니다」"
+
+[[dialogue]]
+speaker = "ウルスラ"
+original = "「会長さん、チョコレートを食べ過ぎて鼻血が出ちゃった、なんて経験はおありではないですか？」"
+translation = "「회장님, 초콜릿을 너무 많이 먹어서 코피가 났다, 같은 경험은 없으신가요?」"
+
+[[dialogue]]
+speaker = "ウルスラ"
+original = "「実は昔は、チョコレートは体が高揚する媚薬として扱われた歴史もありまして」"
+translation = "「사실 옛날에는 초콜릿이 몸을 고양시키는 미약으로 취급받았던 역사도 있어서요」"
+
+[[dialogue]]
+speaker = "ウルスラ"
+original = "「チョコレートは疲労回復に滋養強壮、成人病リスクを軽減するとまでいわれているんです。万能にして万病に効く栄養補給フードなんですよ」"
+translation = "「초콜릿은 피로 해소에 자양강장, 성인병 리스크를 경감한다고까지 일컬어지죠. 만능이자 만병통치약인 영양 보충 푸드예요」"
+
+[[dialogue]]
+speaker = "ウルスラ"
+original = "「食後の口直しと、午後を頑張る栄養補給に最適ですよ」"
+translation = "「식후 입가심과 오후를 힘내기 위한 영양 보충으로 최적이랍니다」"
+
+[[dialogue]]
+speaker = "unk"
+original = "（チョコの気分になってきたかも……）"
+translation = "(초콜릿이 당기기 시작했을지도……)"
+
+[[dialogue]]
+speaker = "アニマ"
+original = "「フヒ、不思議ダロウ？\u3000ウルスラのセールストークを聞いていると、何故か財布のヒモが緩んでしまうのサ」"
+translation = "「후히, 신기하지? 우르술라의 세일즈 토크를 듣고 있으면, 왠지 모르게 지갑 끈이 느슨해지고 말거든」"
+
+[[dialogue]]
+speaker = "ウルスラ"
+original = "「極上３つ星チョコレートが、今ならなんと５０％ＯＦＦ！\u3000３つ購入すると更にお安くなって、とってもお買い得なんです！\u3000今だけ、ですよ」"
+translation = "「최고급 3성 초콜릿이 지금이라면 무려 50% OFF! 3개를 구매하시면 더욱 저렴해져서 정말 이득이랍니다! 지금뿐, 이에요」"
+
+[[dialogue]]
+speaker = "ウルスラ"
+original = "「お買い得でも、男がハートのパッケージの商品を買うのは恥ずかしい……？\u3000なるほど、そうお考えの方もいらっしゃるでしょう」"
+translation = "「이득이라도, 남자가 하트 패키지 상품을 사는 건 부끄럽다……? 과연, 그렇게 생각하시는 분도 계시겠죠」"
+
+[[dialogue]]
+speaker = "ウルスラ"
+original = "「でしたら……私からお渡しするという体でしたら、いかがでしょう？」"
+translation = "「그렇다면…… 제가 드리는 셈 치신다면, 어떠신가요?」"
+
+[[dialogue]]
+speaker = "ウルスラ"
+original = "「会長さん、私からのチョコレート、受け取ってください<emoji=heart04>」"
+translation = "「회장님, 제가 드리는 초콜릿, 받아 주세요<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "unk"
+original = "あっ、はい"
+translation = "앗, 네"
+
+[[dialogue]]
+speaker = "ウルスラ"
+original = "「ありがとうございます<emoji=heart04>\u3000５００テルスになりまーす<emoji=heart04>」"
+translation = "「감사합니다<emoji=heart04> 500텔스 되겠습니다ー<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "unk"
+original = "はっ！？\u3000買わされてしまった！"
+translation = "핫!? 강매당해 버렸다!"
+
+[[dialogue]]
+speaker = "アニマ"
+original = "「どうダ、会長。ウルスラはなかなかやるだろう。これからも購買部をご贔屓にナ♪」"
+translation = "「어때, 회장. 우르술라는 꽤 제법이지. 앞으로도 매점을 애용해 달라고♪」"
+
+[[dialogue]]
+speaker = "ウルスラ"
+original = "「またのご来店、お待ちしておりまーす<emoji=heart04>」"
+translation = "「또 방문해 주시길 기다릴게요ー<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "unk"
+original = "アニマ先輩とウルスラに見送られつつ、購買を後にする。"
+translation = "아니마 선배와 우르술라의 배웅을 받으며 매점을 뒤로한다."
+
+[[dialogue]]
+speaker = "unk"
+original = "お金を払ったのに、なんだかちょっぴり幸せな気分だった。"
+translation = "돈을 냈는데도 왠지 조금 행복한 기분이었다."
+
+[[dialogue]]
+speaker = "unk"
+original = "そして、このチョコレートは戦闘や業務の疲れを吹き飛ばしてくれる最高の強壮剤となり、やがて在庫を買い占めるまでに至るのだった。"
+translation = "그리고 이 초콜릿은 전투나 업무의 피로를 날려버리는 최고의 강장제가 되어, 이윽고 재고를 싹쓸이하기에 이르는 것이었다."
+
