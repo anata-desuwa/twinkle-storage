@@ -632,8 +632,7 @@ line = "滅ボセ滅ボセ滅ボセ滅ボセ滅ボセ滅ボセ滅ボセ滅ボセ
 speaker = "unk"
 # <size=50>────みんなを、
 　　　　殺してしまう！！！！</size>
-line = "<size=50>────みんなを、
-　　　　殺してしまう！！！！</size>"
+line = "<size=50>────みんなを、\n　　　　殺してしまう！！！！</size>"
 
 [[dialogue]]
 speaker = "unk"
