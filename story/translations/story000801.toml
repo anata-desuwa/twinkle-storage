@@ -1,235 +1,282 @@
 [[dialogue]]
-speaker = "パルミエ"
+speaker_original = "パルミエ"
+speaker_translation = "팔미에"
 original = "「あ～ん、またやられちゃったわ～。やっぱり編成から見直すべきなのかしら～？」"
 translation = "「아앙, 또 져버렸어~. 역시 편성부터 다시 짜야 하는 걸까~?」"
 
 [[dialogue]]
-speaker = "シフォン"
+speaker_original = "シフォン"
+speaker_translation = "시폰"
 original = "「ちょっとパルミエ。いくら暇だからって部室でゲームしないでくださいよ。そんなにグータラしてるから依頼の１つも来ないんじゃないですか」"
 translation = "「저기 팔미에. 아무리 한가하다고 해도 부실에서 게임 좀 하지 마세요. 그렇게 게으름 피우니까 의뢰가 하나도 안 들어오는 거 아니에요.」"
 
 [[dialogue]]
-speaker = "モナカ"
+speaker_original = "モナカ"
+speaker_translation = "모나카"
 original = "「あはは……。でも本当に全然依頼来ないね……。みんなにお悩みがないことはいいことなんだけど……」"
 translation = "「아하하…… 하지만 정말 의뢰가 하나도 안 오네……. 모두 고민이 없다는 건 좋은 일이지만……」"
 
 [[dialogue]]
-speaker = "シフォン"
+speaker_original = "シフォン"
+speaker_translation = "시폰"
 original = "「やっぱり『おなか部』って名前が悪いんですよ。変に略さず『お悩み解決倶楽部』って名乗るべきなんです」"
 translation = "「역시 『오나카부』라는 이름이 나쁜 거예요. 이상하게 줄이지 말고 『고민 해결 클럽』이라고 자처해야 한다고요.」"
 
 [[dialogue]]
-speaker = "パルミエ"
+speaker_original = "パルミエ"
+speaker_translation = "팔미에"
 original = "「嫌よ～。そんなことしてたくさん相談が来ちゃったら面倒じゃな～い」"
 translation = "「싫어~. 그런 짓 해서 상담이 잔뜩 오면 귀찮잖아~」"
 
 [[dialogue]]
-speaker = "シフォン"
+speaker_original = "シフォン"
+speaker_translation = "시폰"
 original = "「みんなのお悩みを解決するためにこの部を作ったんですよね！？」"
 translation = "「모두의 고민을 해결하기 위해서 이 부를 만든 거잖아요!?」"
 
 [[dialogue]]
-speaker = "モナカ"
+speaker_original = "モナカ"
+speaker_translation = "모나카"
 original = "「あっ……見て見て。いつの間にかポストにお手紙が届いてるよ？\u3000ええと『この宿題を代わりにやって欲しい』。上級生の範囲だけど、よーし……」"
 translation = "「앗…… 봐봐 봐봐. 어느새 우체통에 편지가 와 있어. 어디 보자, 『이 숙제를 대신 해줬으면 좋겠어』. 상급생 범위지만, 좋아……」"
 
 [[dialogue]]
-speaker = "シフォン"
+speaker_original = "シフォン"
+speaker_translation = "시폰"
 original = "「ダメですよ、モナカ！\u3000そんな依頼は依頼じゃありません！\u3000丁重にお断りしちゃってください！」"
 translation = "「안 돼요, 모나카! 그런 건 의뢰가 아니에요! 정중하게 거절해버리세요!」"
 
 [[dialogue]]
-speaker = "モナカ"
+speaker_original = "モナカ"
+speaker_translation = "모나카"
 original = "「で、でもでも。何か宿題ができない事情があるのかもしれないし。せっかくモナカたちを頼ってくれたんだから……」"
 translation = "「하, 하지만 하지만. 뭔가 숙제를 할 수 없는 사정이 있을지도 모르고. 모처럼 모나카 일행을 의지해준 거니까……」"
 
 [[dialogue]]
-speaker = "パルミエ"
+speaker_original = "パルミエ"
+speaker_translation = "팔미에"
 original = "「モナカの言う通りよ～。ということでシフォン、モナカ、宿題の代筆お願いね～。明日提出のやつだから今日中にお願いするわ～」"
 translation = "「모나카 말이 맞아~. 그런 의미에서 시폰, 모나카, 숙제 대필 부탁할게~. 내일 제출하는 거니까 오늘 중으로 부탁해~」"
 
 [[dialogue]]
-speaker = "シフォン"
+speaker_original = "シフォン"
+speaker_translation = "시폰"
 original = "「手紙の主はあなたですか！？\u3000自分のことは自分でやってください！」"
 translation = "「편지의 주인공이 당신이었나요!? 자기 일은 자기가 하세요!」"
 
 [[dialogue]]
-speaker = "パルミエ"
+speaker_original = "パルミエ"
+speaker_translation = "팔미에"
 original = "「いいじゃな～い。どうせ何もやることなくて暇なんだし。宿題くらい代わりにやってくれたら♪」"
 translation = "「뭐 어때~. 어차피 할 일도 없어서 한가한데. 숙제 정도는 대신 해줄 수 있잖아♪」"
 
 [[dialogue]]
-speaker = "シフォン"
+speaker_original = "シフォン"
+speaker_translation = "시폰"
 original = "「こ、このグータラ女は……！」"
 translation = "「이, 이 게으름뱅이 여자는……!」"
 
 [[dialogue]]
-speaker = "モナカ"
+speaker_original = "モナカ"
+speaker_translation = "모나카"
 original = "「あ……。このアラート……」"
 translation = "「아……. 이 알람……」"
 
 [[dialogue]]
-speaker = "シフォン"
+speaker_original = "シフォン"
+speaker_translation = "시폰"
 original = "「どうやらまた街のどこかにアステラが出現したみたいですね……」"
 translation = "「아무래도 또 거리 어딘가에 아스텔라가 출현한 모양이네요……」"
 
 [[dialogue]]
-speaker = "パルミエ"
+speaker_original = "パルミエ"
+speaker_translation = "팔미에"
 original = "「最近多いわね～？\u3000プリマステラの人たちも大変だわ～」"
 translation = "「요즘 잦네~? 프리마스텔라 사람들도 고생이겠어~」"
 
 [[dialogue]]
-speaker = "シフォン"
+speaker_original = "シフォン"
+speaker_translation = "시폰"
 original = "「歯がゆいです……。こうしてアラートを聞いているのに何もできないなんて……」"
 translation = "「안타까워요……. 이렇게 알람을 듣고 있는데 아무것도 할 수 없다니……」"
 
 [[dialogue]]
-speaker = "モナカ"
+speaker_original = "モナカ"
+speaker_translation = "모나카"
 original = "「今もモンスターに襲われて困ってる人がいるかもしれないのにね……」"
 translation = "「지금도 몬스터에게 습격당해서 곤란해하는 사람이 있을지도 모르는데 말이야……」"
 
 [[dialogue]]
-speaker = "シフォン"
+speaker_original = "シフォン"
+speaker_translation = "시폰"
 original = "「そういえばモナカ、先日のプリマステラ昇格試験はどうでした？\u3000私は、その……また落ちてしまいましたが」"
 translation = "「그러고 보니 모나카, 지난번 프리마스텔라 승격 시험은 어땠어요? 저는 그게, 저기…… 또 떨어지고 말았습니다만.」"
 
 [[dialogue]]
-speaker = "モナカ"
+speaker_original = "モナカ"
+speaker_translation = "모나카"
 original = "「あ、えっと……。モナカ、落ちこぼれだから……」"
 translation = "「아, 그게……. 모나카는 열등생이라서……」"
 
 [[dialogue]]
-speaker = "パルミエ"
+speaker_original = "パルミエ"
+speaker_translation = "팔미에"
 original = "「こーら。２人ともなんて暗い顔しちゃってるの。せっかくの可愛い顔が台無しよ～？」"
 translation = "「이봐요. 둘 다 왜 그렇게 어두운 표정을 짓는 거야. 모처럼 예쁜 얼굴이 엉망이잖아~?」"
 
 [[dialogue]]
-speaker = "パルミエ"
+speaker_original = "パルミエ"
+speaker_translation = "팔미에"
 original = "「心配しなくても２人ならすぐにプリマステラになれるわ。きっと今にチャンスが訪れるわよ♪」"
 translation = "「걱정 안 해도 둘이라면 금방 프리마스텔라가 될 수 있어. 분명 곧 기회가 찾아올 거야♪」"
 
 [[dialogue]]
-speaker = "パルミエ"
+speaker_original = "パルミエ"
+speaker_translation = "팔미에"
 original = "「モナカとシフォンの努力は私が一番わかってるから。諦めずに何度でも挑戦してみなさい？」"
 translation = "「모나카와 시폰의 노력은 내가 제일 잘 알고 있으니까. 포기하지 말고 몇 번이든 도전해 보렴?」"
 
 [[dialogue]]
-speaker = "モナカ"
+speaker_original = "モナカ"
+speaker_translation = "모나카"
 original = "「パルちゃん……。うんっ、モナカ、頑張るねっ……！」"
 translation = "「팔 짱…… 응, 모나카 열심히 할게……!」"
 
 [[dialogue]]
-speaker = "シフォン"
+speaker_original = "シフォン"
+speaker_translation = "시폰"
 original = "「まったくもうパルミエは……。いつも唐突にお姉さんぶるんですから……」"
 translation = "「정말이지 팔미에는…… 늘 뜬금없이 언니 노릇을 한다니까요……」"
 
 [[dialogue]]
-speaker = "パルミエ"
+speaker_original = "パルミエ"
+speaker_translation = "팔미에"
 original = "「ふふふ、やる気出てきた？\u3000なら、もぐもぐ、私の宿題はお願いするわね♪」"
 translation = "「후후후, 의욕이 좀 생겼어? 그럼 오물오물, 내 숙제는 부탁할게♪」"
 
 [[dialogue]]
-speaker = "シフォン"
+speaker_original = "シフォン"
+speaker_translation = "시폰"
 original = "「ですから宿題は自分で──……って、なんですかその高そうなお菓子！\u3000もしやまた部費を勝手に使い込んだんじゃないでしょうね？」"
 translation = "「그러니까 숙제는 스스로── ……잠깐, 뭐예요 그 비싸 보이는 과자는! 설마 또 부비를 마음대로 쓴 건 아니겠죠?」"
 
 [[dialogue]]
-speaker = "パルミエ"
+speaker_original = "パルミエ"
+speaker_translation = "팔미에"
 original = "「違うわよ～。ここに置いてあったの。シフォンが買ってきてくれたんじゃないの？」"
 translation = "「아니야~. 여기 놓여 있었어. 시폰이 사다 준 거 아니었어?」"
 
 [[dialogue]]
-speaker = "シフォン"
+speaker_original = "シフォン"
+speaker_translation = "시폰"
 original = "「私はそんな無駄遣いしませんよ。モナカのじゃないんですか？」"
 translation = "「전 그런 낭비 안 해요. 모나카 거 아니에요?」"
 
 [[dialogue]]
-speaker = "モナカ"
+speaker_original = "モナカ"
+speaker_translation = "모나카"
 original = "「モナカもお菓子なんて買ってきてないよ……？」"
 translation = "「모나카도 과자 같은 건 안 사 왔는데……?」"
 
 [[dialogue]]
-speaker = "パルミエ"
+speaker_original = "パルミエ"
+speaker_translation = "팔미에"
 original = "「ならきっと可愛い私への貢ぎ物ね♪\u3000はぁ、やっぱり私って罪作りな女だわ～」"
 translation = "「그럼 분명 귀여운 나를 향한 공물이겠네♪ 하아, 역시 난 죄 많은 여자야~」"
 
 [[dialogue]]
-speaker = "シフォン"
+speaker_original = "シフォン"
+speaker_translation = "시폰"
 original = "「寝言は寝て言ってください。というか１人で食べずにみんなで分けて──」"
 translation = "「잠꼬대는 자면서 하세요. 그보다 혼자 먹지 말고 다 같이 나눠──」"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "『あ～、マイクテスマイクテス。生徒の呼び出しを行うわ』"
 translation = "『아~ 마이크 테스 마이크 테스. 학생 호출을 하겠어.』"
 
 [[dialogue]]
-speaker = "モナカ"
+speaker_original = "モナカ"
+speaker_translation = "모나카"
 original = "「あれ？\u3000何かあったのかなぁ？」"
 translation = "「어라? 무슨 일일까?」"
 
 [[dialogue]]
-speaker = "パルミエ"
+speaker_original = "パルミエ"
+speaker_translation = "팔미에"
 original = "「来たわね来たわね。これを待ってたのよ」"
 translation = "「왔네 왔어. 이걸 기다리고 있었다고.」"
 
 [[dialogue]]
-speaker = "シフォン"
+speaker_original = "シフォン"
+speaker_translation = "시폰"
 original = "「はい？\u3000どういう意味です？」"
 translation = "「네? 무슨 뜻이에요?」"
 
 [[dialogue]]
-speaker = "パルミエ"
+speaker_original = "パルミエ"
+speaker_translation = "팔미에"
 original = "「ゲームの話よ～。ようやく……よしっ、勝てなかったボスに勝てそうなの♪\u3000やっぱり編成が悪かったわね♪」"
 translation = "「게임 이야기야~. 드디어…… 좋아, 못 깨던 보스를 이길 수 있을 것 같아♪ 역시 편성이 문제였네♪」"
 
 [[dialogue]]
-speaker = "シフォン"
+speaker_original = "シフォン"
+speaker_translation = "시폰"
 original = "「はぁ……ホントこのグータラ女は」"
 translation = "「하아…… 진짜 이 게으름뱅이 여자는.」"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "『お悩み解決倶楽部一同、今すぐ星徒会室まで来てちょうだい。繰り返すわよ。お悩み解決部一同、今すぐ星徒会室まで──』"
 translation = "『고민 해결 클럽 일동, 지금 당장 성도회실까지 와주길 바라. 다시 한번 알릴게. 고민 해결 클럽 일동, 지금 당장 성도회실까지──』"
 
 [[dialogue]]
-speaker = "モナカ"
+speaker_original = "モナカ"
+speaker_translation = "모나카"
 original = "「えっ……！？\u3000お悩み解決倶楽部一同って、モナカたちのことじゃ……」"
 translation = "「엣……!? 고민 해결 클럽 일동이라면 모나카 일행을 말하는 게……」"
 
 [[dialogue]]
-speaker = "シフォン"
+speaker_original = "シフォン"
+speaker_translation = "시폰"
 original = "「ちょっとパルミエ……！\u3000一体何をやらかしたんですかっ！？\u3000今度は人様にどんな迷惑をかけたんですっ！？」"
 translation = "「잠깐 팔미에……! 대체 무슨 사고를 친 거예요!? 이번엔 남들한테 어떤 민폐를 끼친 거냐고요!」"
 
 [[dialogue]]
-speaker = "パルミエ"
+speaker_original = "パルミエ"
+speaker_translation = "팔미에"
 original = "「失礼ね、何もやってないわよ～。シフォンは私のことなんだと思ってるの～」"
 translation = "「무례하네, 아무것도 안 했다니까~. 시폰은 날 뭐라고 생각하는 거야~」"
 
 [[dialogue]]
-speaker = "モナカ"
+speaker_original = "モナカ"
+speaker_translation = "모나카"
 original = "「あぅ、モナカたち、何かしちゃったのかな……。ここ最近は依頼もなかったはずなのに……」"
 translation = "「아우, 모나카 일행이 뭔가 잘못한 걸까……. 요 근래엔 의뢰도 없었을 텐데……」"
 
 [[dialogue]]
-speaker = "シフォン"
+speaker_original = "シフォン"
+speaker_translation = "시폰"
 original = "「まさか実績がなさすぎて廃部勧告とか……！？\u3000とにかく行きましょう！\u3000待たせた分だけ心証が悪くなります……！」"
 translation = "「설마 실적이 너무 없어서 폐부 권고라든가……!? 어쨌든 가요! 기다리게 한 만큼 인상이 나빠질 거예요……!」"
 
 [[dialogue]]
-speaker = "パルミエ"
+speaker_original = "パルミエ"
+speaker_translation = "팔미에"
 original = "「行ってらっしゃーい。私は日課の日光浴で忙しいから～」"
 translation = "「잘 다녀와~. 난 일과인 일광욕 때문에 바쁘니까~」"
 
 [[dialogue]]
-speaker = "シフォン"
+speaker_original = "シフォン"
+speaker_translation = "시폰"
 original = "「あなたも行くんですよ、あなたも！\u3000おなか部存続の危機かもしれないんですから！」"
 translation = "「당신도 가는 거예요, 당신도! 오나카부 존속의 위기일지도 모른다고요!」"
 
 [[dialogue]]
-speaker = "パルミエ"
+speaker_original = "パルミエ"
+speaker_translation = "팔미에"
 original = "「やーん。引っ張らないでよ～」"
 translation = "「잉~ 잡아당기지 마~」"
 

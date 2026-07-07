@@ -4,22 +4,26 @@ original = "第４話,ネビュラ総帥が認めてやろう,P"
 translation = "제4화, 네뷸라 총수가 인정해주지, P"
 
 [[dialogue]]
-speaker = "クラウディア"
+speaker_original = "クラウディア"
+speaker_translation = "클라우디아"
 original = "「というわけで……結局、こってり叱られてしまったぞ」"
 translation = "「그렇게 돼서…… 결국, 호되게 혼나고 말았다.」"
 
 [[dialogue]]
-speaker = "クラウディア"
+speaker_original = "クラウディア"
+speaker_translation = "클라우디아"
 original = "「おい、聞いておるのか。お主のせいなのだぞ」"
 translation = "「어이, 듣고 있는 것이냐. 그대 때문이란 말이다.」"
 
 [[dialogue]]
-speaker = "クラウディア"
+speaker_original = "クラウディア"
+speaker_translation = "클라우디아"
 original = "「何って──だから、この前の件だ。余のお忍び旅行がセドナに見つかってしまっただろう」"
 translation = "「뭐냐니── 그러니까, 요전번 일이다. 여의 잠행 여행이 세드나에게 들켜버렸지 않느냐.」"
 
 [[dialogue]]
-speaker = "クラウディア"
+speaker_original = "クラウディア"
+speaker_translation = "클라우디아"
 original = "「お主が余を家に『おもちかえり』してくれたおかげで──しばらく外出が禁じられてしまった。やれやれだ」"
 translation = "「그대가 여를 집으로 『포장』해준 덕분에── 당분간 외출 금지를 당해버렸다. 에휴.」"
 
@@ -34,17 +38,20 @@ original = "自分が言い出したんでしょ"
 translation = "자기가 먼저 말 꺼냈으면서"
 
 [[dialogue]]
-speaker = "クラウディア"
+speaker_original = "クラウディア"
+speaker_translation = "클라우디아"
 original = "「ま、余は唯一無二の存在だからの。手厚く保護されるのも当然ではあるのだが」"
 translation = "「뭐, 여는 유일무이한 존재니까 말이다. 두텁게 보호받는 것도 당연하긴 하지만.」"
 
 [[dialogue]]
-speaker = "クラウディア"
+speaker_original = "クラウディア"
+speaker_translation = "클라우디아"
 original = "「おかげでしばし暇を持て余していてのう──だが、余は気づいたのだ」"
 translation = "「덕분에 잠시 심심해서 어쩔 줄 몰랐느니라── 하지만, 여는 깨달았다.」"
 
 [[dialogue]]
-speaker = "クラウディア"
+speaker_original = "クラウディア"
+speaker_translation = "클라우디아"
 original = "「出かけると怒られるのなら、こうしてお主をここに呼べばよい！\u3000余は偉いから、誰にも咎められることはない！」"
 translation = "「나가는 게 혼난다면, 이렇게 그대를 여기로 부르면 되는 것이다! 여는 위대하니까, 누구도 토를 달 수 없느니라!」"
 
@@ -59,17 +66,20 @@ original = "別にいいけど"
 translation = "별로 상관없지만"
 
 [[dialogue]]
-speaker = "クラウディア"
+speaker_original = "クラウディア"
+speaker_translation = "클라우디아"
 original = "「うむ。お主を呼び出したのも、前回の話の続きだ」"
 translation = "「음. 그대를 불러낸 것도, 지난번 이야기의 연장선이다.」"
 
 [[dialogue]]
-speaker = "クラウディア"
+speaker_original = "クラウディア"
+speaker_translation = "클라우디아"
 original = "「やはりな、胸をもみもみしたところで大きくなるわけではないとわかった。まあ、なんとなく勘づいてはおったが」"
 translation = "「역시나, 가슴을 조물조물한다고 해서 커지는 게 아니라는 건 알았다. 뭐, 어느 정도 짐작은 하고 있었다만.」"
 
 [[dialogue]]
-speaker = "クラウディア"
+speaker_original = "クラウディア"
+speaker_translation = "클라우디아"
 original = "「それよりだ。どうも……人間界でレディらしくあるためには、やはり男との付き合いが重要だという。これは正しいか？」"
 translation = "「그보다 말이다. 아무래도…… 인간계에서 레이디답게 있으려면, 역시 남자와의 교제가 중요하다더군. 이것이 맞느냐?」"
 
@@ -84,17 +94,20 @@ original = "正しい"
 translation = "맞아"
 
 [[dialogue]]
-speaker = "クラウディア"
+speaker_original = "クラウディア"
+speaker_translation = "클라우디아"
 original = "「やはりな。しかし、森の魔女どもはどいつもこいつも男と接したこともない腰抜けばかりだ。おぼこ、と言うのだったか？」"
 translation = "「역시 그렇군. 하지만, 숲의 마녀 녀석들은 하나같이 남자와 접해본 적도 없는 겁쟁이들뿐이다. 숫처녀, 라고 하던가?」"
 
 [[dialogue]]
-speaker = "クラウディア"
+speaker_original = "クラウディア"
+speaker_translation = "클라우디아"
 original = "「そこで余は考えた。余が男を知れば──きっと立派なレディとなって、大抵の魔女を出し抜くことができよう」"
 translation = "「그래서 여는 생각했다. 여가 남자를 알게 되면── 분명 훌륭한 레이디가 되어, 웬만한 마녀들을 앞지를 수 있겠지.」"
 
 [[dialogue]]
-speaker = "クラウディア"
+speaker_original = "クラウディア"
+speaker_translation = "클라우디아"
 original = "「さすれば、今のように小娘扱いされることもなくなる！\u3000光の魔女としての威厳を取り戻せるというわけだ！」"
 translation = "「그러면, 지금처럼 꼬맹이 취급당할 일도 없어질 것이다! 빛의 마녀로서의 위엄을 되찾을 수 있다는 뜻이지!」"
 
@@ -109,17 +122,20 @@ original = "男って……？"
 translation = "남자라니……?"
 
 [[dialogue]]
-speaker = "クラウディア"
+speaker_original = "クラウディア"
+speaker_translation = "클라우디아"
 original = "「はっはっは。何を呆けておる」"
 translation = "「핫핫하. 뭘 멍하니 있는 것이냐.」"
 
 [[dialogue]]
-speaker = "クラウディア"
+speaker_original = "クラウディア"
+speaker_translation = "클라우디아"
 original = "「人間のことも──男のことも──とっておきのサンプルがいるではないか！\u3000そのためにお主を呼んだのだぞ」"
 translation = "「인간에 대해서도── 남자에 대해서도── 아주 좋은 샘플이 있지 않느냐! 그러기 위해 그대를 부른 것이니라.」"
 
 [[dialogue]]
-speaker = "クラウディア"
+speaker_original = "クラウディア"
+speaker_translation = "클라우디아"
 original = "「脱ぐがよい！\u3000余はまだまだ男のことを知らんからな──この場ではっきりとつまびらかにしてやるぞ！」"
 translation = "「벗는 게 좋을 것이다! 여는 아직 남자에 대해 모르니까 말이다── 이 자리에서 확실히 낱낱이 밝혀주마!」"
 
@@ -134,27 +150,32 @@ original = "絶対にダメ"
 translation = "절대로 안 돼"
 
 [[dialogue]]
-speaker = "クラウディア"
+speaker_original = "クラウディア"
+speaker_translation = "클라우디아"
 original = "「ああ～ん？\u3000なぜ渋るのだ。心配せずとも、お主が望むなら余も裸をさらけ出してやる」"
 translation = "「아앙~? 왜 망설이는 것이냐. 걱정하지 않아도, 그대가 원한다면 여도 알몸을 드러내 주마.」"
 
 [[dialogue]]
-speaker = "クラウディア"
+speaker_original = "クラウディア"
+speaker_translation = "클라우디아"
 original = "「そういうのは大切な人と──だと？\u3000お堅いやつよのう」"
 translation = "「그런 건 소중한 사람과── 라고? 고지식한 녀석이로군.」"
 
 [[dialogue]]
-speaker = "クラウディア"
+speaker_original = "クラウディア"
+speaker_translation = "클라우디아"
 original = "「余とて、何も知らぬわけではないぞ。男女のつがいが、仲良く抱き合っているのを『てれび』で観たのだ」"
 translation = "「여라고 해서 아무것도 모르는 건 아니니라. 남녀 한 쌍이, 사이좋게 껴안고 있는 것을 『텔레비전』에서 보았느니라.」"
 
 [[dialogue]]
-speaker = "クラウディア"
+speaker_original = "クラウディア"
+speaker_translation = "클라우디아"
 original = "「お主には余のパートナーたる資格がある。栄誉なことであろう、このクラウディアが認めると言っておるのだ」"
 translation = "「그대에게는 여의 파트너가 될 자격이 있다. 영광인 줄 알거라, 이 클라우디아가 인정한다고 말하고 있지 않느냐.」"
 
 [[dialogue]]
-speaker = "クラウディア"
+speaker_original = "クラウディア"
+speaker_translation = "클라우디아"
 original = "「うん？\u3000もうちょっと考えたほうがいい？\u3000お主……余が考えなしに動いているとでも思っておるのか」"
 translation = "「음? 좀 더 생각하는 게 좋겠다고? 그대…… 여가 생각 없이 움직인다고 생각하는 것이냐.」"
 
@@ -164,22 +185,26 @@ original = "俺がいいの？"
 translation = "내가 좋아?"
 
 [[dialogue]]
-speaker = "クラウディア"
+speaker_original = "クラウディア"
+speaker_translation = "클라우디아"
 original = "「あ……当たり前だ。誰彼構わずこんなこと言うわけなかろう、たわけ」"
 translation = "「다…… 당연하다. 아무에게나 이런 말을 할 리가 없지 않느냐, 바보 녀석.」"
 
 [[dialogue]]
-speaker = "クラウディア"
+speaker_original = "クラウディア"
+speaker_translation = "클라우디아"
 original = "「なかなかに心外だぞ。好意もない相手を呼びつけたりはせん──人間界に男があふれていることくらい、余も知っておる」"
 translation = "「꽤나 섭섭하구나. 호감도 없는 상대를 불러내지는 않는다── 인간계에 남자가 넘쳐난다는 것 정도는, 여도 알고 있느니라.」"
 
 [[dialogue]]
-speaker = "クラウディア"
+speaker_original = "クラウディア"
+speaker_translation = "클라우디아"
 original = "「その上で余はお主を選んでいるのだ。これが栄誉でなくてなんだという」"
 translation = "「그 와중에 여는 그대를 선택한 것이다. 이것이 영광이 아니면 무엇이란 말이냐.」"
 
 [[dialogue]]
-speaker = "クラウディア"
+speaker_original = "クラウディア"
+speaker_translation = "클라우디아"
 original = "（というか、断られたらさすがの余もそこそこ『傷つく』のだが！？）"
 translation = "(그나저나, 거절당하면 아무리 여라도 꽤나 『상처』받을 텐데!?)"
 
@@ -194,17 +219,20 @@ original = "ごめん"
 translation = "미안"
 
 [[dialogue]]
-speaker = "クラウディア"
+speaker_original = "クラウディア"
+speaker_translation = "클라우디아"
 original = "「確かに……魔女が人間と添い遂げることはあまり認められてはいない。人の子の命は儚いからな」"
 translation = "「확실히…… 마녀가 인간과 평생을 함께하는 것은 그리 인정받지 못하지. 사람의 자식은 목숨이 덧없으니까 말이다.」"
 
 [[dialogue]]
-speaker = "クラウディア"
+speaker_original = "クラウディア"
+speaker_translation = "클라우디아"
 original = "「しかし──余はお主であれば、心を許せると思っておる」"
 translation = "「하지만── 여는 그대라면, 마음을 허락할 수 있다고 생각하느니라.」"
 
 [[dialogue]]
-speaker = "クラウディア"
+speaker_original = "クラウディア"
+speaker_translation = "클라우디아"
 original = "「女の勘というやつは、馬鹿にできんものなのだろう？\u3000なれば光の魔女の勘は、さらに特別製と言えよう！」"
 translation = "「여자의 직감이라는 것은, 무시할 수 없는 것이지 않느냐? 그렇다면 빛의 마녀의 직감은, 더욱 특별한 것이라 할 수 있지!」"
 
@@ -219,17 +247,20 @@ original = "そこまで想ってくれてたとは知らなかった"
 translation = "그렇게까지 생각해줄 줄은 몰랐어"
 
 [[dialogue]]
-speaker = "クラウディア"
+speaker_original = "クラウディア"
+speaker_translation = "클라우디아"
 original = "「わかってくれたか。だから余はお主を知り、より立派なレディになりたいというわけだ」"
 translation = "「알아주었느냐. 그래서 여는 그대를 알고, 더욱 훌륭한 레이디가 되고 싶다는 뜻이다.」"
 
 [[dialogue]]
-speaker = "クラウディア"
+speaker_original = "クラウディア"
+speaker_translation = "클라우디아"
 original = "「む……そうだ！\u3000光の魔女と魔王が結ばれれば、もしやとんでもない子が生まれるのではないか？」"
 translation = "「음…… 그렇지! 빛의 마녀와 마왕이 맺어지면, 혹시 엄청난 아이가 태어나는 것 아니냐?」"
 
 [[dialogue]]
-speaker = "クラウディア"
+speaker_original = "クラウディア"
+speaker_translation = "클라우디아"
 original = "「魔女は世界樹から生まれくるものだが──人間は男女で『こづくり』をするのだろう？\u3000いかにして子をこさえるのだ？」"
 translation = "「마녀는 세계수에서 태어나는 것이지만── 인간은 남녀가 『애 만들기』를 한다지? 어떻게 아이를 만드는 것이냐?」"
 
@@ -244,12 +275,14 @@ original = "……"
 translation = "……"
 
 [[dialogue]]
-speaker = "クラウディア"
+speaker_original = "クラウディア"
+speaker_translation = "클라우디아"
 original = "「おい！\u3000なぜ余から顔を背けるのだ！\u3000まだ帰っていいとは言っておらぬぞ！」"
 translation = "「어이! 왜 여에게서 고개를 돌리는 것이냐! 아직 돌아가도 좋다고 말하지 않았느니라!」"
 
 [[dialogue]]
-speaker = "クラウディア"
+speaker_original = "クラウディア"
+speaker_translation = "클라우디아"
 original = "「待つのだ魔王ー！\u3000余と一緒に、しこたま『こづくり』しようではないかー！\u3000お～～い！！」"
 translation = "「기다려라 마왕──! 여와 함께, 실컷 『애 만들기』 하지 않겠느냐──! 어~~이!!」"
 

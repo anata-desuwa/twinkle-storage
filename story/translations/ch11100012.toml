@@ -4,12 +4,14 @@ original = "第２話,レイル鑑賞会,P"
 translation = "제2화, 레일 감상회"
 
 [[dialogue]]
-speaker = "アポロ"
+speaker_original = "アポロ"
+speaker_translation = "아폴로"
 original = "「よーし、これで全員集まったな！」"
 translation = "「좋아, 이걸로 전원 모였군!」"
 
 [[dialogue]]
-speaker = "プトラ"
+speaker_original = "プトラ"
+speaker_translation = "푸트라"
 original = "「はーい！」"
 translation = "「네~!」"
 
@@ -29,17 +31,20 @@ original = "この展開はまさか……"
 translation = "이 전개는 설마……"
 
 [[dialogue]]
-speaker = "アポロ"
+speaker_original = "アポロ"
+speaker_translation = "아폴로"
 original = "「これより流星ライダーの鑑賞会を始めるぞ！」"
 translation = "「지금부터 유성 라이더 감상회를 시작하겠다!」"
 
 [[dialogue]]
-speaker = "プトラ"
+speaker_original = "プトラ"
+speaker_translation = "푸트라"
 original = "「わー、パチパチ！」"
 translation = "「와아, 짝짝!」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「わー、パチパチ……ほら、会長も」"
 translation = "「와아, 짝짝…… 자, 회장님도.」"
 
@@ -49,127 +54,152 @@ original = "つい最近、全シリーズ一気見したような……"
 translation = "최근에 모든 시리즈를 정주행한 것 같은데……"
 
 [[dialogue]]
-speaker = "アポロ"
+speaker_original = "アポロ"
+speaker_translation = "아폴로"
 original = "「いいだろ、何度見たって！\u3000流星ライダーは周回上等だぜ！」"
 translation = "「괜찮잖아, 몇 번을 봐도! 유성 라이더는 n회차 관람이 기본이라고!」"
 
 [[dialogue]]
-speaker = "アポロ"
+speaker_original = "アポロ"
+speaker_translation = "아폴로"
 original = "「ホントはシリーズの最初からと言いたいところなんだけど、プトラが興味津々な『流星ライダーレイル』から見ていくぞ」"
 translation = "「사실 시리즈의 처음부터라고 말하고 싶지만, 푸트라가 흥미진진해하는 『유성 라이더 레일』부터 보겠다.」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「レイルも名作ですからね～、きっとプトラさんも楽しめると思います」"
 translation = "「레일도 명작이니까요~ 분명 푸트라 씨도 즐길 수 있을 거예요.」"
 
 [[dialogue]]
-speaker = "プトラ"
+speaker_original = "プトラ"
+speaker_translation = "푸트라"
 original = "「鉄道が出てくるんでしょ？\u3000楽しみだよ～♪」"
 translation = "「철도가 나오는 거지? 기대돼~♪」"
 
 [[dialogue]]
-speaker = "アポロ"
+speaker_original = "アポロ"
+speaker_translation = "아폴로"
 original = "「流星ライナーな。時間も空間も飛び越えてキミの元へ駆けつけるんだぜ！」"
 translation = "「유성 라이너 말이지. 시간도 공간도 뛰어넘어 너의 곁으로 달려간다고!」"
 
 [[dialogue]]
-speaker = "プトラ"
+speaker_original = "プトラ"
+speaker_translation = "푸트라"
 original = "「か、カッコイイ！」"
 translation = "「멋, 멋있어!」"
 
 [[dialogue]]
-speaker = "アポロ"
+speaker_original = "アポロ"
+speaker_translation = "아폴로"
 original = "「よーし、それじゃ視聴開始だ！」"
 translation = "「좋아, 그럼 시청 시작이다!」"
 
 [[dialogue]]
-speaker = "プトラ"
+speaker_original = "プトラ"
+speaker_translation = "푸트라"
 original = "「おー、始まった！」"
 translation = "「오, 시작했다!」"
 
 [[dialogue]]
-speaker = "プトラ"
+speaker_original = "プトラ"
+speaker_translation = "푸트라"
 original = "「わわっ、すごいスピードで走ってる！\u3000いきなり出てきたけど、これが流星ライナーだよね？\u3000だよね？」"
 translation = "「우와앗, 엄청난 스피드로 달리고 있어! 갑자기 튀어나왔는데 이게 유성 라이너 맞지? 맞지?」"
 
 [[dialogue]]
-speaker = "プトラ"
+speaker_original = "プトラ"
+speaker_translation = "푸트라"
 original = "「すごいすごい、何もないところに線路が現れてその上を走ってるー！」"
 translation = "「대단해 대단해, 아무것도 없는 곳에 선로가 나타나서 그 위를 달리고 있어!」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「そこはファンタジーですから。プトラさんの世界の線路も、普通に地面に敷かれているんですよね？」"
 translation = "「그건 판타지니까요. 푸트라 씨 세계의 선로도 보통 지면에 깔려 있는 거죠?」"
 
 [[dialogue]]
-speaker = "プトラ"
+speaker_original = "プトラ"
+speaker_translation = "푸트라"
 original = "「うん、でもその線路はどこの誰が敷いたものなのか分かってないんだ」"
 translation = "「응, 하지만 그 선로를 누가 깔았는지는 모르겠어.」"
 
 [[dialogue]]
-speaker = "プトラ"
+speaker_original = "プトラ"
+speaker_translation = "푸트라"
 original = "「ずっと昔に敷かれた線路が大陸じゅうに走ってるの。『ミストトレイン』はその上を走るんだよ」"
 translation = "「아주 옛날에 깔린 선로가 대륙 전체에 뻗어 있어. 『미스트 트레인』은 그 위를 달리는 거야.」"
 
 [[dialogue]]
-speaker = "プトラ"
+speaker_original = "プトラ"
+speaker_translation = "푸트라"
 original = "「あ、なんか変なのが出てきたよ！\u3000こいつらが敵なのかな？」"
 translation = "「아, 뭔가 이상한 게 나왔어! 이 녀석들이 적인가?」"
 
 [[dialogue]]
-speaker = "プトラ"
+speaker_original = "プトラ"
+speaker_translation = "푸트라"
 original = "「人の心に忍び込んで、怪物にしちゃうなんて……まるで霧みたい……」"
 translation = "「사람의 마음에 침입해서 괴물로 만들다니…… 마치 안개 같아……」"
 
 [[dialogue]]
-speaker = "アポロ"
+speaker_original = "アポロ"
+speaker_translation = "아폴로"
 original = "「プトラの世界の霧ってそんなに危ないのか？」"
 translation = "「푸트라 세계의 안개는 그렇게 위험한 거야?」"
 
 [[dialogue]]
-speaker = "プトラ"
+speaker_original = "プトラ"
+speaker_translation = "푸트라"
 original = "「そうだよ。霧に蝕まれちゃうとミストモンスターになっちゃうんだ」"
 translation = "「응. 안개에 침식되면 미스트 몬스터가 되어버려.」"
 
 [[dialogue]]
-speaker = "プトラ"
+speaker_original = "プトラ"
+speaker_translation = "푸트라"
 original = "「今度のはすごく強そうな敵だよ！\u3000大丈夫かな？\u3000本当に勝てるのかな？」"
 translation = "「이번엔 엄청 강해 보이는 적이야! 괜찮을까? 정말 이길 수 있을까?」"
 
 [[dialogue]]
-speaker = "アポロ"
+speaker_original = "アポロ"
+speaker_translation = "아폴로"
 original = "「大丈夫！\u3000正義を信じる心が、流星ライダーを強くするんだ！」"
 translation = "「괜찮아! 정의를 믿는 마음이 유성 라이더를 강하게 만든다!」"
 
 [[dialogue]]
-speaker = "プトラ"
+speaker_original = "プトラ"
+speaker_translation = "푸트라"
 original = "「がんばれっ！\u3000負けるな流星ライダー！」"
 translation = "「힘내라! 지지 마라 유성 라이더!」"
 
 [[dialogue]]
-speaker = "プトラ"
+speaker_original = "プトラ"
+speaker_translation = "푸트라"
 original = "「あうぅぅ、こんなラストシーン泣いちゃうよ～！\u3000みんなちゃんと消えずにいてくれてよかった～！」"
 translation = "「아으으으, 이런 라스트 신은 눈물 난다고~! 다들 사라지지 않고 있어 줘서 다행이야~!」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「はい、ティッシュです」"
 translation = "「자, 티슈예요.」"
 
 [[dialogue]]
-speaker = "プトラ"
+speaker_original = "プトラ"
+speaker_translation = "푸트라"
 original = "「ぐしゅん、ありがとう……」"
 translation = "「훌쩍, 고마워……」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「プトラさんにも流星ライダーの魅力が分かってもらえたみたいですね」"
 translation = "「푸트라 씨도 유성 라이더의 매력을 알게 된 것 같네요.」"
 
 [[dialogue]]
-speaker = "プトラ"
+speaker_original = "プトラ"
+speaker_translation = "푸트라"
 original = "「うん、すっごく面白かったよ」"
 translation = "「응, 정말 재미있었어.」"
 
@@ -179,72 +209,86 @@ original = "プトラ的にはどのシーンがお気に入り？"
 translation = "푸트라는 어떤 장면이 마음에 들어?"
 
 [[dialogue]]
-speaker = "プトラ"
+speaker_original = "プトラ"
+speaker_translation = "푸트라"
 original = "「うーん、いっぱいあって悩んじゃうけど……やっぱりあそこかな」"
 translation = "「으음, 너무 많아서 고민되지만…… 역시 거기려나.」"
 
 [[dialogue]]
-speaker = "プトラ"
+speaker_original = "プトラ"
+speaker_translation = "푸트라"
 original = "「レイルがみんなに向かって『誰だっていつか、悲しみを乗り越えて笑顔になれる！』って叫ぶところ」"
 translation = "「레일이 모두를 향해 『누구나 언젠가 슬픔을 딛고 웃을 수 있어!』라고 외치는 부분.」"
 
 [[dialogue]]
-speaker = "アポロ"
+speaker_original = "アポロ"
+speaker_translation = "아폴로"
 original = "「うんうん、『笑顔の大切さ』はレイルのテーマだからな！」"
 translation = "「응응, 『미소의 소중함』은 레일의 테마니까 말이야!」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「あそこは屈指の名シーンですね♪」"
 translation = "「그 부분은 굴지의 명장면이죠♪」"
 
 [[dialogue]]
-speaker = "プトラ"
+speaker_original = "プトラ"
+speaker_translation = "푸트라"
 original = "「あたしもおばあちゃんから言われてるんだ～」"
 translation = "「나도 할머니한테 들었거든~」"
 
 [[dialogue]]
-speaker = "プトラ"
+speaker_original = "プトラ"
+speaker_translation = "푸트라"
 original = "「『大切な涙なら流してもいい。でも、笑顔は絶対に忘れちゃいけない』って」"
 translation = "「『소중한 눈물이라면 흘려도 좋아. 하지만 미소는 절대로 잊어서는 안 된다』라고.」"
 
 [[dialogue]]
-speaker = "プトラ"
+speaker_original = "プトラ"
+speaker_translation = "푸트라"
 original = "「その言葉にずっと支えられてきたところあるから、あのシーンはホントに響いたよ～」"
 translation = "「그 말에 계속 의지해온 부분이 있어서 그 장면은 정말 와닿았어~」"
 
 [[dialogue]]
-speaker = "アポロ"
+speaker_original = "アポロ"
+speaker_translation = "아폴로"
 original = "「なんだよ……プトラのおばあちゃん、すっごくいい事言うじゃないか」"
 translation = "「뭐야…… 푸트라의 할머니, 엄청 좋은 말을 하시잖아.」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「プトラさんがいつも元気に笑顔でいるのは、そういう理由もあったんですね」"
 translation = "「푸트라 씨가 언제나 활기차게 웃고 있는 건 그런 이유도 있었군요.」"
 
 [[dialogue]]
-speaker = "プトラ"
+speaker_original = "プトラ"
+speaker_translation = "푸트라"
 original = "「えへへ、そうなんだ～」"
 translation = "「에헤헤, 맞아~」"
 
 [[dialogue]]
-speaker = "プトラ"
+speaker_original = "プトラ"
+speaker_translation = "푸트라"
 original = "「あ、あとビックリしたのが、途中で出てきた列車だよ！」"
 translation = "「아, 그리고 깜짝 놀란 게 중간에 나온 열차야!」"
 
 [[dialogue]]
-speaker = "プトラ"
+speaker_original = "プトラ"
+speaker_translation = "푸트라"
 original = "「蒸気機関車、っていうの？\u3000あれがあたしの乗ってる『ミストトレイン』にそっくりだった！」"
 translation = "「증기기관차라고 하던가? 그게 내가 타는 『미스트 트레인』이랑 똑같이 생겼어!」"
 
 [[dialogue]]
-speaker = "アポロ"
+speaker_original = "アポロ"
+speaker_translation = "아폴로"
 original = "「ミストトレインってあんな感じなのか！？\u3000すごいな！\u3000くぅぅ……乗ってみたいっ！！」"
 translation = "「미스트 트레인이 그런 느낌인가!? 대단한데! 크으으…… 타보고 싶다!!」"
 
 [[dialogue]]
-speaker = "プトラ"
+speaker_original = "プトラ"
+speaker_translation = "푸트라"
 original = "「あたしも元の世界に戻って乗った時、思い出して泣いちゃうかもね～、あはは♪」"
 translation = "「나도 원래 세계로 돌아가서 탔을 때 생각나서 울어버릴지도 모르겠네~ 아하하♪」"
 

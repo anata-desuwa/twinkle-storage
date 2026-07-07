@@ -1,355 +1,426 @@
 [[dialogue]]
-speaker = "アイリーン"
+speaker_original = "アイリーン"
+speaker_translation = "아이린"
 original = "「こちらはシャリオン地方、《万成》のアウクセシアが封印されている神殿です」"
 translation = "「이곳은 샤리온 지방, 《만성》의 아우크세시아가 봉인되어 있는 신전입니다」"
 
 [[dialogue]]
-speaker = "ルリエル"
+speaker_original = "ルリエル"
+speaker_translation = "루리엘"
 original = "「シャリオン地方っていうと～……魔界のどこなんです？」"
 translation = "「샤리온 지방이라고 하면~…… 마계의 어디인가요?」"
 
 [[dialogue]]
-speaker = "アナ"
+speaker_original = "アナ"
+speaker_translation = "아나"
 original = "「魔界でも中央にある、多くの貴族が群雄割拠する土地ですね。その中でも大きな家は“シャリオン十貴族”として恐れられています」"
 translation = "「마계에서도 중앙에 위치한, 많은 귀족이 군웅할거하는 땅입니다. 그중에서도 거대한 가문은 “샤리온 십귀족”으로 불리며 두려움의 대상이 되고 있죠」"
 
 [[dialogue]]
-speaker = "シャルレーヌ"
+speaker_original = "シャルレーヌ"
+speaker_translation = "샤를렌"
 original = "「ちなみに、私のディアーブル家もその十貴族のひとつなんですよ」"
 translation = "「참고로 저희 디아블 가문도 그 십귀족 중 하나랍니다」"
 
 [[dialogue]]
-speaker = "ルリエル"
+speaker_original = "ルリエル"
+speaker_translation = "루리엘"
 original = "「シャルレーヌさんってそんなに偉いんですか！？」"
 translation = "「샤를레느 씨는 그렇게 대단한 분이었나요!?」"
 
 [[dialogue]]
-speaker = "シャルレーヌ"
+speaker_original = "シャルレーヌ"
+speaker_translation = "샤를렌"
 original = "「いえいえ、貴族の権威なんて星騎士には関係ありませんから。普通の後輩として扱ってください」"
 translation = "「아뇨아뇨, 귀족의 권위 같은 건 성기사에게 관계없으니까요. 평범한 후배로 대해주세요」"
 
 [[dialogue]]
-speaker = "シャルレーヌ"
+speaker_original = "シャルレーヌ"
+speaker_translation = "샤를렌"
 original = "「でもここがディアーブル家の領内で幸運でした。神殿が他の十貴族の領地だと面倒なことになったでしょうから」"
 translation = "「하지만 여기가 디아블 가문의 영지 안이라서 다행이었어요. 신전이 다른 십귀족의 영지였다면 번거로운 일이 생겼을 테니까요」"
 
 [[dialogue]]
-speaker = "アナ"
+speaker_original = "アナ"
+speaker_translation = "아나"
 original = "「助かります。根回ししている時間はありませんから」"
 translation = "「도움이 되네요. 사전 교섭을 할 시간은 없었으니까요」"
 
 [[dialogue]]
-speaker = "パテル"
+speaker_original = "パテル"
+speaker_translation = "파텔"
 original = "「ヤッホー♪\u3000このあたし、《試練》のパテルがこっちのお助けキャラだよ♪」"
 translation = "「얏호♪ 이 몸, 《시련》의 파텔이 이쪽의 도우미 캐릭터야♪」"
 
 [[dialogue]]
-speaker = "パテル"
+speaker_original = "パテル"
+speaker_translation = "파텔"
 original = "「リクリエ静観派のあたしが協力してあげるのは特別なんだから、感謝してよ。ま、本体が封印されっぱなしなのはムカつくからね」"
 translation = "「리크리에 정관파인 내가 협력해 주는 건 특별한 거니까, 감사하라구. 뭐, 본체가 계속 봉인되어 있는 건 짜증 나니까 말이야」"
 
 [[dialogue]]
-speaker = "パテル"
+speaker_original = "パテル"
+speaker_translation = "파텔"
 original = "「ところでアルモタヘルのチビモード見た？\u3000ちっちゃくて、大鎌持ってて、キャラ被り甚だしいよね。営業妨害だよ！」"
 translation = "「그나저나 아르모타헬의 꼬맹이 모드 봤어? 조그맣고 커다란 낫을 들고 있어서 캐릭터성이 너무 겹치잖아. 영업 방해라구!」"
 
 [[dialogue]]
-speaker = "アナ"
+speaker_original = "アナ"
+speaker_translation = "아나"
 original = "「でしたら天界の裁判所に訴えてください」"
 translation = "「그러시다면 천계의 재판소에 제소해 주십시오」"
 
 [[dialogue]]
-speaker = "パテル"
+speaker_original = "パテル"
+speaker_translation = "파텔"
 original = "「アハハ、つれないね～。じゃあ女神様に会ったら言ってみるよ」"
 translation = "「아하하, 냉정하네~. 그럼 여신님을 만나면 말해 볼게」"
 
 [[dialogue]]
-speaker = "サチ"
+speaker_original = "サチ"
+speaker_translation = "사치"
 original = "「こっちにもモンスターが！\u3000やっぱり守護天使のところには行かせないつもりなんだ。──でも！」"
 translation = "「이쪽에도 몬스터가! 역시 수호천사가 있는 곳에는 보내주지 않을 생각인가 봐. ──하지만!」"
 
 [[dialogue]]
-speaker = "プリムラ"
+speaker_original = "プリムラ"
+speaker_translation = "프리뮬러"
 original = "「邪魔するなら押して通るまでじゃ！\u3000グラトニーバイト！」"
 translation = "「방해한다면 밀어붙여 지나갈 뿐이니라! 글러트니 바이트!」"
 
 [[dialogue]]
-speaker = "プリムラ"
+speaker_original = "プリムラ"
+speaker_translation = "프리뮬러"
 original = "「我が世界征服する前に滅んでもらっては困るのでな。貴様らが先に滅べ！」"
 translation = "「짐이 세계 정복을 하기 전에 멸망해버리면 곤란하니까 말이다. 네놈들이 먼저 멸망하거라!」"
 
 [[dialogue]]
-speaker = "サチ"
+speaker_original = "サチ"
+speaker_translation = "사치"
 original = "「ちょっと。今私が倒そうとしてたんだけど」"
 translation = "「잠깐. 방금 내가 쓰러뜨리려고 했는데」"
 
 [[dialogue]]
-speaker = "プリムラ"
+speaker_original = "プリムラ"
+speaker_translation = "프리뮬러"
 original = "「フン、早い者勝ちじゃ。サチはそこで指を咥えて見ているがいい。楽ができてラッキーじゃろ？」"
 translation = "「흥, 먼저 잡는 놈이 임자니라. 사치는 거기서 손가락이나 빨며 구경하고 있거라. 편해져서 럭키지 않느냐?」"
 
 [[dialogue]]
-speaker = "プリムラ"
+speaker_original = "プリムラ"
+speaker_translation = "프리뮬러"
 original = "「大事な戦いで役に立たなかったと、噂されてもいいならの話じゃがな。ハーッハッハ！」"
 translation = "「중요한 전투에서 도움이 되지 않았다고 소문이 나도 괜찮다면 말이지. 하하하하!」"
 
 [[dialogue]]
-speaker = "サチ"
+speaker_original = "サチ"
+speaker_translation = "사치"
 original = "「むむ……──ッ！\u3000モンスターが後ろから！」"
 translation = "「으으……──윽! 몬스터가 뒤에서!」"
 
 [[dialogue]]
-speaker = "アム"
+speaker_original = "アム"
+speaker_translation = "아무"
 original = "「サチ会長！」"
 translation = "「사치 회장님!」"
 
 [[dialogue]]
-speaker = "サチ"
+speaker_original = "サチ"
+speaker_translation = "사치"
 original = "「アムさん、ありがとうございます！」"
 translation = "「아무 씨, 감사합니다!」"
 
 [[dialogue]]
-speaker = "アム"
+speaker_original = "アム"
+speaker_translation = "아무"
 original = "「このくらい何でもないよ。あたしの盾はあんなヘナチョコじゃビクともしないからね！」"
 translation = "「이 정도는 아무것도 아니야. 내 방패는 저런 허접한 공격엔 꿈쩍도 안 하니까!」"
 
 [[dialogue]]
-speaker = "エルデリーゼ"
+speaker_original = "エルデリーゼ"
+speaker_translation = "엘데리제"
 original = "「モンスターが多くてこのままでは神殿に辿り着けませんわ。アム、邪魔なモンスターを排除しますわよ！」"
 translation = "「몬스터가 너무 많아서 이대로는 신전에 도착할 수 없겠어요. 아무, 방해되는 몬스터를 배제하겠어요!」"
 
 [[dialogue]]
-speaker = "アム"
+speaker_original = "アム"
+speaker_translation = "아무"
 original = "「あたしも堕天使と戦いたかったんだけど、仕方ないな。おいしいとこはサチ会長に任せるよ。附属最強の生徒会長だってところ見せてやって！」"
 translation = "「나도 타천사랑 싸우고 싶었지만 어쩔 수 없네. 맛있는 부분은 사치 회장님에게 맡길게. 부속 최강의 학생회장이라는 걸 보여주라고!」"
 
 [[dialogue]]
-speaker = "サチ"
+speaker_original = "サチ"
+speaker_translation = "사치"
 original = "「はい、行ってきます！」"
 translation = "「네, 다녀오겠습니다!」"
 
 [[dialogue]]
-speaker = "アム"
+speaker_original = "アム"
+speaker_translation = "아무"
 original = "「さ～て、エルゼ、どっちが多くモンスターを倒せるか競争だよ！」"
 translation = "「자~ 그럼 엘제, 누가 더 많이 몬스터를 쓰러뜨리는지 경쟁이야!」"
 
 [[dialogue]]
-speaker = "エルデリーゼ"
+speaker_original = "エルデリーゼ"
+speaker_translation = "엘데리제"
 original = "「競っている場合ではありませんの」"
 translation = "「경쟁하고 있을 상황이 아니옵니다」"
 
 [[dialogue]]
-speaker = "エルデリーゼ"
+speaker_original = "エルデリーゼ"
+speaker_translation = "엘데리제"
 original = "「──と言いたいところですが、時には競うことでより成果を発揮することもあるでしょう。ここは正々堂々と勝負ですわ！」"
 translation = "「──라고 말하고 싶습니다만, 때로는 경쟁함으로써 더 큰 성과를 발휘하는 법도 있겠지요. 여기서는 정정당당하게 승부하겠어요!」"
 
 [[dialogue]]
-speaker = "アム"
+speaker_original = "アム"
+speaker_translation = "아무"
 original = "「うん！\u3000附属最強の盾と矛、暴れてやるよ！」"
 translation = "「응! 부속 최강의 방패와 창, 날뛰어주지!」"
 
 [[dialogue]]
-speaker = "ナミエル"
+speaker_original = "ナミエル"
+speaker_translation = "나미엘"
 original = "「モンスターがたくさん……お掃除します」"
 translation = "「몬스터가 잔뜩…… 청소하겠습니다」"
 
 [[dialogue]]
-speaker = "ナミエル"
+speaker_original = "ナミエル"
+speaker_translation = "나미엘"
 original = "「ふぅ……何度も押し流しているはずなのに、本当にモンスターが減りませんね……」"
 translation = "「후우…… 몇 번이나 밀어냈을 텐데 정말로 몬스터가 줄어들지 않네요……」"
 
 [[dialogue]]
-speaker = "シャルレーヌ"
+speaker_original = "シャルレーヌ"
+speaker_translation = "샤를렌"
 original = "「それならこういうのはどうでしょう？\u3000ブリリアンスパヒューム！」"
 translation = "「그렇다면 이건 어떨까요? 브릴리언스 퍼퓸!」"
 
 [[dialogue]]
-speaker = "ナミエル"
+speaker_original = "ナミエル"
+speaker_translation = "나미엘"
 original = "「モンスターの動きが鈍りました！\u3000これがシャルレーヌさまの星術……」"
 translation = "「몬스터의 움직임이 둔해졌어요! 이것이 샤를레느 님의 성술……」"
 
 [[dialogue]]
-speaker = "シャルレーヌ"
+speaker_original = "シャルレーヌ"
+speaker_translation = "샤를렌"
 original = "「行ってください、星徒会の皆さん。シャリオンだけじゃなくて世界の命運がかかっていますから、頑張ってくださいね」"
 translation = "「가주세요, 성도회 여러분. 샤리온뿐만 아니라 세계의 운명이 걸려있으니까요, 힘내주세요」"
 
 [[dialogue]]
-speaker = "アイリーン"
+speaker_original = "アイリーン"
+speaker_translation = "아이린"
 original = "「ミーちゃんの眼なら……見えた！\u3000星徒会の皆さん、西側が手薄になっていますので、そこから接近してください！」"
 translation = "「미짱의 눈이라면…… 보였다! 성도회 여러분, 서쪽의 경비가 허술하니 그쪽에서 접근해 주세요!」"
 
 [[dialogue]]
-speaker = "アナ"
+speaker_original = "アナ"
+speaker_translation = "아나"
 original = "「ありがとうございます」"
 translation = "「감사합니다」"
 
 [[dialogue]]
-speaker = "ルリエル"
+speaker_original = "ルリエル"
+speaker_translation = "루리엘"
 original = "「任されました！」"
 translation = "「맡겨주세요!」"
 
 [[dialogue]]
-speaker = "セシア"
+speaker_original = "セシア"
+speaker_translation = "세시아"
 original = "「全てを……無に還すわ……」"
 translation = "「모든 것을…… 무로 돌리겠어……」"
 
 [[dialogue]]
-speaker = "サチ"
+speaker_original = "サチ"
+speaker_translation = "사치"
 original = "「あれが堕天使……この目で見るのは初めてです。ですがどうしてセシアさんが堕天使に？」"
 translation = "「저것이 타천사…… 이 눈으로 보는 건 처음이에요. 하지만 어째서 세시아 씨가 타천사가?」"
 
 [[dialogue]]
-speaker = "サチ"
+speaker_original = "サチ"
+speaker_translation = "사치"
 original = "「守護天使アウクセシアは封印から逃れるため、自身を犠牲にして転生し、新たな守護天使・セシアとなった。なら堕天使アウクセシアは存在しないはずでは？」"
 translation = "「수호천사 아우크세시아는 봉인에서 벗어나기 위해 자신을 희생해 전생하여 새로운 수호천사 세시아가 되었다. 그렇다면 타천사 아우크세시아는 존재하지 않아야 하는 것 아닌가요?」"
 
 [[dialogue]]
-speaker = "パテル"
+speaker_original = "パテル"
+speaker_translation = "파텔"
 original = "「ところがどっこい、堕天使になっちゃってるんだよね～」"
 translation = "「그게 말이야, 짜잔 하고 타천사가 되어버렸지 뭐야~」"
 
 [[dialogue]]
-speaker = "パテル"
+speaker_original = "パテル"
+speaker_translation = "파텔"
 original = "「どう説明するかな～……存在容量とでも言うかな。そもそも守護天使の存在は巨大で、アウクセシアの全てがセシアになったわけじゃない」"
 translation = "「어떻게 설명해야 할까~…… 존재 용량이라고 해야 할까. 애초에 수호천사의 존재는 거대해서 아우크세시아의 전부가 세시아가 된 게 아니야」"
 
 [[dialogue]]
-speaker = "パテル"
+speaker_original = "パテル"
+speaker_translation = "파텔"
 original = "「アウクセシアの残滓が、セシアの形をとってるんだ。ま、やることは一緒だよ。あれを倒せば、世界に『蓄積』の摂理が戻る」"
 translation = "「아우크세시아의 잔재가 세시아의 형태를 취하고 있는 거지. 뭐, 할 일은 똑같아. 저걸 쓰러뜨리면 세계에 『축적』의 섭리가 돌아와」"
 
 [[dialogue]]
-speaker = "セシア"
+speaker_original = "セシア"
+speaker_translation = "세시아"
 original = "「消えなさい」"
 translation = "「사라지세요」"
 
 [[dialogue]]
-speaker = "アナ"
+speaker_original = "アナ"
+speaker_translation = "아나"
 original = "「っ……！\u3000非常に強力な霊力の反応です」"
 translation = "「윽……! 매우 강력한 영력 반응입니다」"
 
 [[dialogue]]
-speaker = "パテル"
+speaker_original = "パテル"
+speaker_translation = "파텔"
 original = "「転生前じゃ、あたしたち守護天使の中で最強だったからね。セシアに転生してくれてなかったら、もっとヤバかったかも」"
 translation = "「전생 전에는 우리 수호천사 중에서 최강이었으니까 말이야. 세시아로 전생하지 않았더라면 더 위험했을지도 몰라」"
 
 [[dialogue]]
-speaker = "ルリエル"
+speaker_original = "ルリエル"
+speaker_translation = "루리엘"
 original = "「え～っ、もっとですかぁ！？\u3000今でもめちゃくちゃ強いですよぉっ！」"
 translation = "「에~ 지금보다 더요!? 지금도 엄청나게 강하다구요!」"
 
 [[dialogue]]
-speaker = "クラウディア"
+speaker_original = "クラウディア"
+speaker_translation = "클라우디아"
 original = "「フッ、今度こそ余の出番だな！」"
 translation = "「훗, 이번에야말로 짐의 차례로군!」"
 
 [[dialogue]]
-speaker = "ルリエル"
+speaker_original = "ルリエル"
+speaker_translation = "루리엘"
 original = "「魔女の偉い人！？」"
 translation = "「마녀의 높은 분!?」"
 
 [[dialogue]]
-speaker = "クラウディア"
+speaker_original = "クラウディア"
+speaker_translation = "클라우디아"
 original = "「余が来たからには勝利は決まったも同然──いや、すでに勝ったと言っても過言ではない」"
 translation = "「짐이 온 이상 승리는 결정된 것이나 다름없다── 아니, 이미 이겼다고 해도 과언이 아니지」"
 
 [[dialogue]]
-speaker = "セドナ"
+speaker_original = "セドナ"
+speaker_translation = "세드나"
 original = "「どういうことだ！？\u3000なぜ姫様が魔界にいる！？\u3000無事か──いや、姫様ならこの程度危険はないが……」"
 translation = "「어찌 된 일이냐!? 어째서 공주님께서 마계에 계시는 거지!? 무사하신가── 아니, 공주님이라면 이 정도 위험은 없겠지만……」"
 
 [[dialogue]]
-speaker = "セドナ"
+speaker_original = "セドナ"
+speaker_translation = "세드나"
 original = "「しかしこれでは世界樹を制御する魔力が足らんぞ……！」"
 translation = "「하지만 이래서는 세계수를 제어할 마력이 부족하단 말이다……!」"
 
 [[dialogue]]
-speaker = "リノ"
+speaker_original = "リノ"
+speaker_translation = "리노"
 original = "「あ、ごめ～ん」"
 translation = "「아, 미안~」"
 
 [[dialogue]]
-speaker = "セドナ"
+speaker_original = "セドナ"
+speaker_translation = "세드나"
 original = "「リノ？」"
 translation = "「리노?」"
 
 [[dialogue]]
-speaker = "リノ"
+speaker_original = "リノ"
+speaker_translation = "리노"
 original = "「さっきお手洗いから戻ってきた時に“世界樹とセドナは任せたぞ”って言われちゃって。はーい、って返事しちゃったの」"
 translation = "「아까 화장실에서 돌아왔을 때 “세계수와 세드나는 네게 맡기마”라는 말을 들어버려서. 네~라고 대답해 버렸거든」"
 
 [[dialogue]]
-speaker = "セドナ"
+speaker_original = "セドナ"
+speaker_translation = "세드나"
 original = "「貴様……！\u3000なぜ行かせた！？」"
 translation = "「네놈……! 어째서 보내주었나!?」"
 
 [[dialogue]]
-speaker = "リノ"
+speaker_original = "リノ"
+speaker_translation = "리노"
 original = "「いや～、ネビュラを抜けたとはいえ、私も魔女だから光の魔女には逆らえなくてね？」"
 translation = "「에이~ 네뷸라를 나갔다고는 해도 나도 마녀니까 빛의 마녀에게는 거스를 수 없어서 말이야」"
 
 [[dialogue]]
-speaker = "セドナ"
+speaker_original = "セドナ"
+speaker_translation = "세드나"
 original = "「ぐぬぬ……」"
 translation = "「그느느……」"
 
 [[dialogue]]
-speaker = "リノ"
+speaker_original = "リノ"
+speaker_translation = "리노"
 original = "「世界樹の制御は私が手伝うから。私とセドナならなんとかなるでしょ？」"
 translation = "「세계수 제어는 내가 도와줄 테니까. 나랑 세드나라면 어떻게든 되겠지?」"
 
 [[dialogue]]
-speaker = "セドナ"
+speaker_original = "セドナ"
+speaker_translation = "세드나"
 original = "「はぁ……本当に思い通りにならないことばかりだ」"
 translation = "「하아…… 정말 마음대로 되는 게 하나도 없군」"
 
 [[dialogue]]
-speaker = "セドナ"
+speaker_original = "セドナ"
+speaker_translation = "세드나"
 original = "「仕方あるまい。世界樹のコントロールは私と貴様で行う。後れを取るなよ」"
 translation = "「어쩔 수 없지. 세계수의 컨트롤은 나와 네놈이 수행한다. 뒤처지지 마라」"
 
 [[dialogue]]
-speaker = "リノ"
+speaker_original = "リノ"
+speaker_translation = "리노"
 original = "「もっちろん。ネビュラのエースコンビ復活ね♪」"
 translation = "「물론이지. 네뷸라의 에이스 콤비 부활이네♪」"
 
 [[dialogue]]
-speaker = "セドナ"
+speaker_original = "セドナ"
+speaker_translation = "세드나"
 original = "「フンッ」"
 translation = "「흥」"
 
 [[dialogue]]
-speaker = "クラウディア"
+speaker_original = "クラウディア"
+speaker_translation = "클라우디아"
 original = "「せっかくだ、余の真の力を見せてやろう！」"
 translation = "「마침 잘 됐군, 짐의 진정한 힘을 보여주마!」"
 
 [[dialogue]]
-speaker = "クラウディア（黄昏）"
+speaker_original = "クラウディア（黄昏）"
+speaker_translation = "클라우디아(황혼)"
 original = "「魔王に負けたままでは余も面白くない。せいぜい憂さ晴らしをさせてもらおうではないか」"
 translation = "「마왕에게 진 채로는 짐도 기분이 좋지 않다. 기껏해야 화풀이라도 하게 해줘야겠군」"
 
 [[dialogue]]
-speaker = "クラウディア（黄昏）"
+speaker_original = "クラウディア（黄昏）"
+speaker_translation = "클라우디아(황혼)"
 original = "「星騎士たちよ、余とともに戦う栄誉をやろう。星の輝きを見せてみよ！」"
 translation = "「성기사들이여, 짐과 함께 싸우는 영예를 주마. 별의 반짝임을 보여보아라!」"
 
 [[dialogue]]
-speaker = "ルリエル"
+speaker_original = "ルリエル"
+speaker_translation = "루리엘"
 original = "「この前の戦いで見たメチャ強のやつです！\u3000味方なら心強いことこの上ないですよ！」"
 translation = "「저번 전투에서 봤던 엄청나게 강한 모습이에요! 아군이라면 이보다 든든할 수 없어요!」"
 
 [[dialogue]]
-speaker = "パテル"
+speaker_original = "パテル"
+speaker_translation = "파텔"
 original = "「そういえば、ま～た堕天使の相手かー。変な気分だけど、試練を与えさせてもらうよ」"
 translation = "「그러고 보니 또~ 타천사 상대인가~. 이상한 기분이지만 시련을 내려주도록 할게」"
 
 [[dialogue]]
-speaker = "アナ"
+speaker_original = "アナ"
+speaker_translation = "아나"
 original = "「軍神の加護をこの矢に乗せて──撃ち抜きます」"
 translation = "「군신의 가호를 이 화살에 실어── 꿰뚫겠습니다」"
 
 [[dialogue]]
-speaker = "サチ"
+speaker_original = "サチ"
+speaker_translation = "사치"
 original = "「流星附属会長、白詰サチ。附属の代表として──決めます！」"
 translation = "「유성 부속 회장, 시라츠메 사치. 부속의 대표로서── 끝내겠습니다!」"
 

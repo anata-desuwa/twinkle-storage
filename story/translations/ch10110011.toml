@@ -4,7 +4,8 @@ original = "第１話,普通の女の子,P"
 translation = "제1화, 평범한 여자아이, P"
 
 [[dialogue]]
-speaker = "マトイ"
+speaker_original = "マトイ"
+speaker_translation = "마토이"
 original = "「私、最近ずっと考えてたことがあって……」"
 translation = "「나, 요즘 계속 생각하던 게 있어서……」"
 
@@ -14,7 +15,8 @@ original = "どうした、急に？"
 translation = "왜 그래, 갑자기?"
 
 [[dialogue]]
-speaker = "マトイ"
+speaker_original = "マトイ"
+speaker_translation = "마토이"
 original = "「新星星徒会役員たるもの、普通じゃいけないと思うの……！」"
 translation = "「신성 성도회 임원이라면, 평범해서는 안 된다고 생각해……!」"
 
@@ -24,62 +26,74 @@ original = "本当にどうした！？\u3000急に！？"
 translation = "정말 왜 그래!? 갑자기!?"
 
 [[dialogue]]
-speaker = "マトイ"
+speaker_original = "マトイ"
+speaker_translation = "마토이"
 original = "「なのに私には、特徴って呼べるものが全然なくて……『ザ・普通』って感じじゃない？\u3000だから、何かキャラ付けが欲しいって思ってるんだけど……」"
 translation = "「그런데 나한테는 특징이라고 부를 만한 게 전혀 없어서…… 『완전 평범』한 느낌이잖아? 그래서 뭔가 캐릭터성이 있었으면 좋겠다고 생각하는데……」"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「なるほどね。マトイの悩みは完全に理解したわ！」"
 translation = "「그렇구나. 마토이의 고민은 완전히 이해했어!」"
 
 [[dialogue]]
-speaker = "マトイ"
+speaker_original = "マトイ"
+speaker_translation = "마토이"
 original = "「ヴィーナス！？\u3000いつの間に星徒会室に入って来たの！？」"
 translation = "「비너스!? 언제 성도회실에 들어온 거야!?」"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「私はいつでも、皆を影から支えるフィクサーよ！\u3000それはともかく、安心しなさいマトイ。私たち星徒会メンバーが、マトイを立派に輝く一番星にしてみせるわ！」"
 translation = "「나는 언제라도 모두를 그림자에서 지탱하는 픽서야! 그건 그렇고, 안심해 마토이. 우리 성도회 멤버들이 마토이를 훌륭하게 빛나는 일등성으로 만들어 줄게!」"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「アナ！\u3000サーシャさん！\u3000今こそ新しくなった星徒会が力を合わせる時よ！\u3000集合！」"
 translation = "「아나! 사샤 씨! 지금이야말로 새로워진 성도회가 힘을 합칠 때야! 집합!」"
 
 [[dialogue]]
-speaker = "マトイ"
+speaker_original = "マトイ"
+speaker_translation = "마토이"
 original = "「へっ？\u3000２人はどこに……」"
 translation = "「헤? 두 사람은 어디에……」"
 
 [[dialogue]]
-speaker = "サーシャ"
+speaker_original = "サーシャ"
+speaker_translation = "사샤"
 original = "「はいは～い。なんだか面白そうな話ね～。もちろん協力するわ～♪」"
 translation = "「네에~ 네에. 왠지 재미있을 것 같은 이야기네~. 물론 협력할게~♪」"
 
 [[dialogue]]
-speaker = "アナ"
+speaker_original = "アナ"
+speaker_translation = "아나"
 original = "「しゅたっ。面白そう。ちょうど休憩中でしたので、ノープロブレムです」"
 translation = "「슈탓. 재미있을 것 같아. 마침 휴식 중이었으므로, 노 프로블럼입니다.」"
 
 [[dialogue]]
-speaker = "マトイ"
+speaker_original = "マトイ"
+speaker_translation = "마토이"
 original = "「なんか下と上から来た！？\u3000どこに隠れてたの！？」"
 translation = "「왠지 아래랑 위에서 왔어!? 어디 숨어 있었던 거야!?」"
 
 [[dialogue]]
-speaker = "マトイ"
+speaker_original = "マトイ"
+speaker_translation = "마토이"
 original = "「というか、そんな大ごとじゃなくて、シンプルな相談のつもりだったんだけど……」"
 translation = "「그보다 그렇게 큰일이 아니라, 간단한 상담을 하려던 거였는데……」"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「個性と言えばやっぱり『ツンデレ』よ、マトイ！\u3000これほど『ザ・個性』と呼べるものはほかにないわ！」"
 translation = "「개성이라고 하면 역시 『츤데레』야, 마토이! 이만큼 『진정한 개성』이라고 부를 만한 건 달리 없어!」"
 
 [[dialogue]]
-speaker = "マトイ"
+speaker_original = "マトイ"
+speaker_translation = "마토이"
 original = "「え、でも……そもそもツンデレって普通だよね？」"
 translation = "「에, 하지만…… 애초에 츤데레는 평범하잖아?」"
 
@@ -89,17 +103,20 @@ original = "そ、そうか……？"
 translation = "그, 그런가……?"
 
 [[dialogue]]
-speaker = "マトイ"
+speaker_original = "マトイ"
+speaker_translation = "마토이"
 original = "「だって、そんなのテンプレでしょ？\u3000仮に普通じゃないにしても、金髪でツインテールの女の子がやらないと、意味がないような気がするし」"
 translation = "「그야 그런 건 전형적이잖아? 설령 평범하지 않다고 해도, 금발에 트윈테일인 여자아이가 하지 않으면 의미가 없는 것 같고.」"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「金髪ツインテールにしなさい、マトイ！\u3000私が許可するわ！」"
 translation = "「금발 트윈테일로 해, 마토이! 내가 허락할게!」"
 
 [[dialogue]]
-speaker = "マトイ"
+speaker_original = "マトイ"
+speaker_translation = "마토이"
 original = "「だ、ダメだって！\u3000髪の毛なんて染めたら不良だって思われちゃうし……そんな普通じゃない姿を見せたら、お父さんとお母さん卒倒しちゃうから……」"
 translation = "「안, 안 돼! 머리카락 같은 거 염색하면 불량아라고 생각될 테고…… 그런 평범하지 않은 모습을 보이면 아빠랑 엄마가 기절하실 거야……」"
 
@@ -109,12 +126,14 @@ original = "いま普通じゃないって言った？"
 translation = "방금 평범하지 않다고 했어?"
 
 [[dialogue]]
-speaker = "サーシャ"
+speaker_original = "サーシャ"
+speaker_translation = "사샤"
 original = "「なら『愛が重い』っていうのはどうかしら～？\u3000可愛さも持ち合わせながら、相手に強い印象を残せると思うのよね～」"
 translation = "「그럼 『사랑이 무겁다』는 건 어떨까~? 귀여움도 갖추면서 상대에게 강한 인상을 남길 수 있다고 생각하거든~」"
 
 [[dialogue]]
-speaker = "マトイ"
+speaker_original = "マトイ"
+speaker_translation = "마토이"
 original = "「うーん、でも別に、愛が重いのって普通じゃないですか？」"
 translation = "「으음, 하지만 딱히 사랑이 무거운 건 평범하지 않나요?」"
 
@@ -124,42 +143,50 @@ original = "普通……か？"
 translation = "평범……한가?"
 
 [[dialogue]]
-speaker = "マトイ"
+speaker_original = "マトイ"
+speaker_translation = "마토이"
 original = "「だって、愛が軽い方がおかしくない？\u3000例えば浮気してるのとかって、愛が軽いってことだよね？」"
 translation = "「그야 사랑이 가벼운 게 더 이상하지 않아? 예를 들어 바람을 피우는 거라든가, 그건 사랑이 가볍다는 거잖아?」"
 
 [[dialogue]]
-speaker = "マトイ"
+speaker_original = "マトイ"
+speaker_translation = "마토이"
 original = "「連絡が多かったりすると重いって言われがちだけど、そもそも好きな人と連絡を取りたがるなんて、普通じゃないかな？」"
 translation = "「연락이 많거나 하면 무겁다는 말을 듣기 십상이지만, 애초에 좋아하는 사람이랑 연락하고 싶어 하는 건 평범하지 않아?」"
 
 [[dialogue]]
-speaker = "マトイ"
+speaker_original = "マトイ"
+speaker_translation = "마토이"
 original = "「私はそういうタイプだと思うけど、それぐらいじゃ別に個性にはならないっていうか……」"
 translation = "「나는 그런 타입이라고 생각하지만, 그 정도로는 딱히 개성이 되지 않는달까……」"
 
 [[dialogue]]
-speaker = "サーシャ"
+speaker_original = "サーシャ"
+speaker_translation = "사샤"
 original = "「あら～♪\u3000マトイちゃんと将来お付き合いする人は、しっかりと大きな愛を受け止めてあげないといけないわね♪」"
 translation = "「어머나~♪ 마토이 짱이랑 나중에 사귀는 사람은 확실하게 커다란 사랑을 받아줘야겠네♪」"
 
 [[dialogue]]
-speaker = "アナ"
+speaker_original = "アナ"
+speaker_translation = "아나"
 original = "「どうやら、ここは私の出番」"
 translation = "「아무래도 여기는 내 차례.」"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「そうよ、アナならなんとかしてくれるわ！\u3000名案をちょうだい、アナ！」"
 translation = "「그래, 아나라면 어떻게든 해줄 거야! 명안을 내줘, 아나!」"
 
 [[dialogue]]
-speaker = "アナ"
+speaker_original = "アナ"
+speaker_translation = "아나"
 original = "「個性というのは中身だけじゃない。見た目も重要。故に、カツラでいいのでズバリ──髪型を『モヒカン』にしましょう」"
 translation = "「개성이라는 건 내면뿐만이 아니야. 외견도 중요. 고로, 가발이어도 좋으니 딱── 머리 모양을 『모히칸』으로 합시다.」"
 
 [[dialogue]]
-speaker = "マトイ"
+speaker_original = "マトイ"
+speaker_translation = "마토이"
 original = "「え、モヒカンって普通じゃない？」"
 translation = "「에, 모히칸은 평범하지 않아?」"
 
@@ -169,27 +196,32 @@ original = "それは明らかに普通じゃないよ！？"
 translation = "그건 분명히 평범하지 않아!?"
 
 [[dialogue]]
-speaker = "マトイ"
+speaker_original = "マトイ"
+speaker_translation = "마토이"
 original = "「だけど、バンドをしてる友達がモヒカンにしてる姿、見たことあるよ？」"
 translation = "「하지만 밴드를 하는 친구가 모히칸을 한 모습, 본 적 있어!」"
 
 [[dialogue]]
-speaker = "マトイ"
+speaker_original = "マトイ"
+speaker_translation = "마토이"
 original = "「私、どうしてそんな髪型にしちゃったのか聞いたんだけど、その子はツッパることが私たちにとって『普通のこと』なんだって言ってた！」"
 translation = "「나, 왜 그런 머리 모양을 했는지 물어봤는데, 그 애는 반항하는 게 우리에게는 『평범한 일』이라고 그랬어!」"
 
 [[dialogue]]
-speaker = "サーシャ"
+speaker_original = "サーシャ"
+speaker_translation = "사샤"
 original = "「いいわね～、なんだか青春って感じがして～」"
 translation = "「좋네~ 왠지 청춘이라는 느낌이 들어서~」"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「ぜひ星徒会に欲しい人材ね！\u3000マトイ、今度そのお友達を紹介してちょうだい！」"
 translation = "「꼭 성도회에 필요한 인재네! 마토이, 다음에 그 친구를 소개해 줘!」"
 
 [[dialogue]]
-speaker = "アナ"
+speaker_original = "アナ"
+speaker_translation = "아나"
 original = "「……会長。マトイ先輩、この星徒会にいるから目立たないだけで、十分普通じゃない気がするんですが」"
 translation = "「……회장님. 마토이 선배, 이 성도회에 있어서 눈에 띄지 않을 뿐이지, 충분히 평범하지 않은 것 같습니다만.」"
 
@@ -199,47 +231,56 @@ original = "天然だこれ……"
 translation = "천연이네 이거……"
 
 [[dialogue]]
-speaker = "アナ"
+speaker_original = "アナ"
+speaker_translation = "아나"
 original = "「そもそも、星徒会役員であるマトイ先輩が、自分のことを普通だと思う理由がわかりません。ここにいる時点で、十分特別だと思いますが？」"
 translation = "「애초에 성도회 임원인 마토이 선배가 자신을 평범하다고 생각하는 이유를 모르겠습니다. 여기 있는 시점에서 충분히 특별하다고 생각합니다만?」"
 
 [[dialogue]]
-speaker = "マトイ"
+speaker_original = "マトイ"
+speaker_translation = "마토이"
 original = "「そ、それはそうなんだけど……だってほら、みんな、凄いじゃん……」"
 translation = "「그, 그건 그렇지만…… 하지만 봐봐, 다들 대단하잖아……」"
 
 [[dialogue]]
-speaker = "マトイ"
+speaker_original = "マトイ"
+speaker_translation = "마토이"
 original = "「アナは１年生なのに星徒会入りしてて、みんなから天才って呼ばれてるような天使だし……」"
 translation = "「아나는 1학년인데 성도회에 들어왔고, 모두에게 천재라고 불리는 천사 같은 애고……」"
 
 [[dialogue]]
-speaker = "マトイ"
+speaker_original = "マトイ"
+speaker_translation = "마토이"
 original = "「サーシャさんも去年まで星徒会長だった実力者で、しかも魔族で余裕があって、理想のお姉さんだって言われてるし……」"
 translation = "「사샤 씨도 작년까지 성도회장이었던 실력자고, 게다가 마족이라 여유도 있고, 이상적인 언니라는 말을 듣고 있고……」"
 
 [[dialogue]]
-speaker = "マトイ"
+speaker_original = "マトイ"
+speaker_translation = "마토이"
 original = "「ヴィーナスは、ヴィーナスだし……」"
 translation = "「비너스는, 비너스고……」"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「私の褒め方だけ凄く雑じゃない！？」"
 translation = "「내 칭찬만 너무 대충 아니야!?」"
 
 [[dialogue]]
-speaker = "アナ"
+speaker_original = "アナ"
+speaker_translation = "아나"
 original = "「前会長は存在自体が普通じゃないので」"
 translation = "「전 회장님은 존재 자체가 평범하지 않으니까요.」"
 
 [[dialogue]]
-speaker = "マトイ"
+speaker_original = "マトイ"
+speaker_translation = "마토이"
 original = "「あーもう、やっぱり明日からモヒカンにしてくるべき！？\u3000私もツッパったほうがいいってことぉ！？」"
 translation = "「아 정말, 역시 내일부터 모히칸으로 하고 와야 해!? 나도 반항하는 게 낫다는 거야!?」"
 
 [[dialogue]]
-speaker = "アナ"
+speaker_original = "アナ"
+speaker_translation = "아나"
 original = "「あっ、冗談ですごめんなさいやめてください流石の私も罪悪感でトラウマになります」"
 translation = "「앗, 농담입니다 죄송합니다 하지 마세요 아무리 저라도 죄책감에 트라우마 생깁니다.」"
 
@@ -254,7 +295,8 @@ original = "マトイ可愛い！\u3000超可愛い！"
 translation = "마토이 귀여워! 너무 귀여워!"
 
 [[dialogue]]
-speaker = "マトイ"
+speaker_original = "マトイ"
+speaker_translation = "마토이"
 original = "「やめて止めないで……！\u3000私なんてモヒカンを金髪ツインテールにして、ツンデレお嬢様になるくらいしか、もう生き残る道はないの！」"
 translation = "「하지 마 말리지 마……! 나 같은 건 모히칸을 금발 트윈테일로 해서 츤데레 아가씨가 되는 것 말고는 이제 살아남을 길이 없어!」"
 

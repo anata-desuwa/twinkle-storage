@@ -1,60 +1,72 @@
 [[dialogue]]
-speaker = "コハルコ"
+speaker_original = "コハルコ"
+speaker_translation = "쿠하루코"
 original = "「次の事件は、コラプサーによる新星学園襲撃」"
 translation = "「다음 사건은 콜랩서에 의한 신성 학원 습격.」"
 
 [[dialogue]]
-speaker = "コハルコ"
+speaker_original = "コハルコ"
+speaker_translation = "쿠하루코"
 original = "「流星市国周辺に発生した疑似アステラを囮にして、手薄になった新星学園にコラプサーが直接乗り込んできた」"
 translation = "「유성시국 주변에 발생한 유사 아스테라를 미끼로 삼아, 경비가 허술해진 신성 학원에 콜랩서가 직접 쳐들어왔어.」"
 
 [[dialogue]]
-speaker = "コハルコ"
+speaker_original = "コハルコ"
+speaker_translation = "쿠하루코"
 original = "「今考えると、イングリットの時に出現していた不自然なアステラも、この時のと同じものだったんだね」"
 translation = "「지금 생각하면, 잉그리드 때 출현했던 부자연스러운 아스테라도 이때 것과 같은 거였네.」"
 
 [[dialogue]]
-speaker = "コハルコ"
+speaker_original = "コハルコ"
+speaker_translation = "쿠하루코"
 original = "「やってきた刺客はエンジュとメテオラの２人」"
 translation = "「찾아온 자객은 엔쥬와 메테오라 두 사람.」"
 
 [[dialogue]]
-speaker = "コハルコ"
+speaker_original = "コハルコ"
+speaker_translation = "쿠하루코"
 original = "「会長さんとリーリアさんが迎撃に当たったけど、２人の攻撃が激しくて、けっこう押し込まれちゃったね」"
 translation = "「회장님과 리리아 씨가 요격에 나섰지만, 두 사람의 공격이 격렬해서 꽤 밀려버렸지.」"
 
 [[dialogue]]
-speaker = "コハルコ"
+speaker_original = "コハルコ"
+speaker_translation = "쿠하루코"
 original = "「この時に判明したのが──」"
 translation = "「이때 판명된 것이──」"
 
 [[dialogue]]
-speaker = "メテオラ"
+speaker_original = "メテオラ"
+speaker_translation = "메테오라"
 original = "『あいつがターゲットのコハルコかー！\u3000捕まえるぞー！』"
 translation = "『저 녀석이 타깃인 코하루코냐! 잡자!』"
 
 [[dialogue]]
-speaker = "エンジュ"
+speaker_original = "エンジュ"
+speaker_translation = "엔쥬"
 original = "『これは星騎士どもへの通達だ。あたしたちは、お前らからかき集めた星力を使って、リクリエのない世界を作る。それがコラプサーの救世だ』"
 translation = "『이건 성기사 놈들에게 보내는 통지다. 우리들은 너희들에게서 긁어모은 성력을 사용해서, 리크리에가 없는 세계를 만든다. 그것이 콜랩서의 구세다.』"
 
 [[dialogue]]
-speaker = "コハルコ"
+speaker_original = "コハルコ"
+speaker_translation = "쿠하루코"
 original = "「コラプサーの狙いが私で、リクリエをなくすのに必要らしいってこと。まさか自分が一連の事件の中心人物だなんて思わなかったよ」"
 translation = "「콜랩서의 목표가 나였고, 리크리에를 없애는 데 필요하다는 것. 설마 자신이 일련의 사건의 중심인물일 줄은 몰랐어.」"
 
 [[dialogue]]
-speaker = "コハルコ"
+speaker_original = "コハルコ"
+speaker_translation = "쿠하루코"
 original = "「エンジュとメテオラをはじめ、コラプサー各員は無力化の上、拘束に成功。ネビュラが身柄を預かることになった」"
 translation = "「엔쥬와 메테오라를 비롯해, 콜랩서 각원은 무력화된 뒤 구속에 성공. 네뷸라가 신병을 맡게 됐어.」"
 
 [[dialogue]]
-speaker = "コハルコ"
+speaker_original = "コハルコ"
+speaker_translation = "쿠하루코"
 original = "「だけどリーリアさんに『あなたは魔女なんです』って言われてビックリしたっけ」"
 translation = "「하지만 리리아 씨에게 『당신은 마녀입니다』라는 말을 듣고 깜짝 놀랐었지.」"
 
 [[dialogue]]
-speaker = "コハルコ"
+speaker_original = "コハルコ"
+speaker_translation = "쿠하루코"
 original = "「エンジュとメテオラのデータも再現してみたよ。試してみて」"
 translation = "「엔쥬와 메테오라의 데이터도 재현해 봤어. 시험해 봐.」"
 

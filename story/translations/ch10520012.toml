@@ -4,12 +4,14 @@ original = "第２話,上官のお仕事,P"
 translation = "제2화, 상관의 업무, P"
 
 [[dialogue]]
-speaker = "セドナ"
+speaker_original = "セドナ"
+speaker_translation = "세드나"
 original = "「──よく来た。我々の巣へようこそ」"
 translation = "「──잘 왔다. 우리들의 둥지에 온 것을 환영하지」"
 
 [[dialogue]]
-speaker = "セドナ"
+speaker_original = "セドナ"
+speaker_translation = "세드나"
 original = "「前回は奇しくも滅多な流れに巻き込まれてしまったが……ここでならそんな過ちも起こらない。私の本来の姿を目に焼きつけておけ」"
 translation = "「전에는 공교롭게도 엉뚱한 흐름에 휘말려 버렸지만…… 여기라면 그런 실수도 일어나지 않는다. 나의 본래 모습을 눈에 새겨 두도록 해라」"
 
@@ -19,12 +21,14 @@ original = "前回って……"
 translation = "전이라니……"
 
 [[dialogue]]
-speaker = "セドナ"
+speaker_original = "セドナ"
+speaker_translation = "세드나"
 original = "「学園視察の件だ。私としたことが学生どもの甘ったれた雰囲気に流され、か……買い食いなどをしてしまった」"
 translation = "「학원 시찰 건이다. 나답지 않게 학생 녀석들의 물러터진 분위기에 휩쓸려, 구…… 군것질 같은 걸 하고 말았다」"
 
 [[dialogue]]
-speaker = "セドナ"
+speaker_original = "セドナ"
+speaker_translation = "세드나"
 original = "「べ、別に悪いとか言っているわけではない。ただ──ネビュラ統制管理官としての示しがつかんだろう、示しが」"
 translation = "「딱, 딱히 나쁘다고 말하는 게 아니다. 다만── 네뷸라 통제관리관으로서 체면이 서질 않잖아, 체면이」"
 
@@ -34,52 +38,62 @@ original = "統制管理官？"
 translation = "통제관리관?"
 
 [[dialogue]]
-speaker = "セドナ"
+speaker_original = "セドナ"
+speaker_translation = "세드나"
 original = "「私の職務上の肩書きだ。主にこの本部の指揮から人員の運用、物資の管理までを任されている」"
 translation = "「내 직무상의 직함이다. 주로 이 본부의 지휘부터 인원 운용, 물자 관리까지를 일임받고 있지」"
 
 [[dialogue]]
-speaker = "アイリーン"
+speaker_original = "アイリーン"
+speaker_translation = "아이린"
 original = "「──失礼します！\u3000セドナ長官、先日の特別訓練のデータ詳細が出ました。こちらのファイルは……？」"
 translation = "「──실례하겠습니다! 세드나 장관님, 지난번 특별 훈련의 상세 데이터가 나왔습니다. 이 파일은……?」"
 
 [[dialogue]]
-speaker = "セドナ"
+speaker_original = "セドナ"
+speaker_translation = "세드나"
 original = "「そこに置いておけ。後のアナライズは私が済ませておく」"
 translation = "「거기에 두어라. 나중의 분석은 내가 끝내 두마」"
 
 [[dialogue]]
-speaker = "ネビュラ隊員Ａ"
+speaker_original = "ネビュラ隊員Ａ"
+speaker_translation = "네뷸라 대원 A"
 original = "「──セドナ上官。市国の郊外でモンスターの目撃情報が相次いでいます──いかがいたしましょう？」"
 translation = "「──세드나 상관님. 시국 교외에서 몬스터 목격 정보가 잇따르고 있습니다──어떻게 할까요?」"
 
 [[dialogue]]
-speaker = "セドナ"
+speaker_original = "セドナ"
+speaker_translation = "세드나"
 original = "「実働部隊を派遣しておけ。星騎士の介入が確認できた場合は、手を引いていい」"
 translation = "「실동 부대를 파견해 둬라. 성기사의 개입이 확인되었을 경우는 손을 떼도 좋다」"
 
 [[dialogue]]
-speaker = "ネビュラ隊員Ｂ"
+speaker_original = "ネビュラ隊員Ｂ"
+speaker_translation = "네뷸라 대원 B"
 original = "「──緊急のご報告です。天界の支部より連絡があり、情報交換に参りたいとのこと」"
 translation = "「──긴급 보고입니다. 천계 지부로부터 연락이 왔으며, 정보 교환을 위해 방문하고 싶다는 뜻을 전해왔습니다」"
 
 [[dialogue]]
-speaker = "ネビュラ隊員Ｂ"
+speaker_original = "ネビュラ隊員Ｂ"
+speaker_translation = "네뷸라 대원 B"
 original = "「ただ、その面会場所としてこちらの基地を望まれているのですが……」"
 translation = "「다만, 그 면회 장소로 이곳 기지를 희망하고 있습니다만……」"
 
 [[dialogue]]
-speaker = "セドナ"
+speaker_original = "セドナ"
+speaker_translation = "세드나"
 original = "「早急に直近の活動報告を用意しろ。一時間後、私が対応する」"
 translation = "「조속히 최근의 활동 보고를 준비해라. 한 시간 뒤, 내가 대응하겠다」"
 
 [[dialogue]]
-speaker = "ネビュラ隊員Ｂ"
+speaker_original = "ネビュラ隊員Ｂ"
+speaker_translation = "네뷸라 대원 B"
 original = "「上官自ら……！？\u3000か、かしこまりました。至急、レポートを用意します！」"
 translation = "「상관님께서 직접……!? 아, 알겠습니다. 지체 없이 레포트를 준비하겠습니다!」"
 
 [[dialogue]]
-speaker = "セドナ"
+speaker_original = "セドナ"
+speaker_translation = "세드나"
 original = "「……ふぅ。悪いな、わざわざ招いたのに手持ち無沙汰にさせてしまって」"
 translation = "「……후우. 미안하군, 일부러 초대해 놓고 무료하게 만들어 버려서」"
 
@@ -89,17 +103,20 @@ original = "いつもこんな仕事を？"
 translation = "언제나 이런 일을?"
 
 [[dialogue]]
-speaker = "セドナ"
+speaker_original = "セドナ"
+speaker_translation = "세드나"
 original = "「まあな。本来、こんな場面は外部の者に見せるべきではないのだが──こほん。今回は私の面目回復のためにもな」"
 translation = "「뭐 그렇지. 본래 이런 장면은 외부인에게 보여줄 것이 못 된다만──크흠. 이번에는 내 면목을 회복하기 위해서라도 말이다」"
 
 [[dialogue]]
-speaker = "セドナ"
+speaker_original = "セドナ"
+speaker_translation = "세드나"
 original = "「貴様ら星騎士が常に人員を補充しているのと同様──我々ネビュラの魔女もまた、来たるべき有事に備えて研鑽を行っている」"
 translation = "「귀하들 성기사가 항상 인원을 보충하고 있는 것과 마찬가지로──우리 네뷸라의 마녀 또한, 다가올 유사에 대비해 연마를 게을리하지 않고 있다」"
 
 [[dialogue]]
-speaker = "セドナ"
+speaker_original = "セドナ"
+speaker_translation = "세드나"
 original = "「学園側が探知し損ねているアステラの駆除などもな。もっとも、これは利害関係の一致であって、恩義を売っているわけではないぞ」"
 translation = "「학원 측이 탐지하지 못하고 있는 아스텔라의 구제 등도 포함해서 말이지. 무엇보다 이건 이해관계의 일치일 뿐, 은혜를 베풀고 있는 건 아니다」"
 
@@ -114,12 +131,14 @@ original = "知らなかった"
 translation = "몰랐어"
 
 [[dialogue]]
-speaker = "セドナ"
+speaker_original = "セドナ"
+speaker_translation = "세드나"
 original = "「知らなくていいんだ。我々は魔女──人間界で表立って活動すべき存在ではない」"
 translation = "「모르는 게 당연하다. 우리는 마녀──인간계에서 겉으로 드러나 활동해야 할 존재가 아니니까」"
 
 [[dialogue]]
-speaker = "セドナ"
+speaker_original = "セドナ"
+speaker_translation = "세드나"
 original = "「あくまでも表の秩序は星騎士が守る。我々が行うのはその観察と、来たる終末を確実に乗り越える術を探すことのみ」"
 translation = "「어디까지나 표면상의 질서는 성기사가 지킨다. 우리가 하는 것은 그 관찰과, 다가올 종말을 확실히 극복할 방도를 찾는 것뿐」"
 
@@ -134,12 +153,14 @@ original = "疲れたりしない？"
 translation = "지치지는 않아?"
 
 [[dialogue]]
-speaker = "セドナ"
+speaker_original = "セドナ"
+speaker_translation = "세드나"
 original = "「疲れ……？\u3000さあな。意識したことはないし、私個人がいくら疲弊しようと組織のビジョンに影響はないさ」"
 translation = "「피로……? 글쎄다. 의식해 본 적은 없고, 나 개인이 아무리 피폐해지든 조직의 비전에는 영향이 없으니까」"
 
 [[dialogue]]
-speaker = "セドナ"
+speaker_original = "セドナ"
+speaker_translation = "세드나"
 original = "「リクリエによる世界の破滅──それを今度こそ防ぐのが、我々魔女の本懐なのだからな」"
 translation = "「리크리에에 의한 세계의 파멸── 그것을 이번에야말로 막는 것이 우리 마녀들의 숙원이니 말이다」"
 
@@ -154,17 +175,20 @@ original = "仲間ですね"
 translation = "동료네요"
 
 [[dialogue]]
-speaker = "セドナ"
+speaker_original = "セドナ"
+speaker_translation = "세드나"
 original = "「同志……ね。ま、最初にそう告げたのは私だが……鵜呑みにしていいかどうかはまた別だ」"
 translation = "「동지……라. 뭐, 처음에 그렇게 말한 건 나지만…… 곧이곧대로 믿어도 될지는 또 별개의 문제지」"
 
 [[dialogue]]
-speaker = "セドナ"
+speaker_original = "セドナ"
+speaker_translation = "세드나"
 original = "「甘い蜜を吸うために──口吻を差し込む生物もいれば、殻を砕いて割る生物もいる」"
 translation = "「달콤한 꿀을 빨기 위해──입을 맞추는 생물이 있는가 하면, 껍질을 부수고 쪼개는 생물도 있는 법」"
 
 [[dialogue]]
-speaker = "セドナ"
+speaker_original = "セドナ"
+speaker_translation = "세드나"
 original = "「目的ばかりが同じだからと言って、軽々しく信用を置くのはどうかと思うがな。──ま、過ぎた忠言か」"
 translation = "「목적만이 같다고 해서 가볍게 신용을 두는 건 어떨까 싶다만. ──뭐, 지나친 충고였나」"
 
@@ -179,37 +203,44 @@ original = "ためになる"
 translation = "도움이 돼"
 
 [[dialogue]]
-speaker = "セドナ"
+speaker_original = "セドナ"
+speaker_translation = "세드나"
 original = "「フ。ならいい。我々も我々のビジョンがため、せいぜい貴様のことも利用させてもらうだけだ」"
 translation = "「후. 그렇다면 됐다. 우리도 우리의 비전을 위해, 기껏해야 귀하를 이용해 줄 뿐이니까」"
 
 [[dialogue]]
-speaker = "セドナ"
+speaker_original = "セドナ"
+speaker_translation = "세드나"
 original = "「しかし……ふう。どうやら貴様の言う通り、私も少しは疲れているようだ。よもや学生相手にこんな無駄話をしてしまうとはな」"
 translation = "「하지만…… 후우. 아무래도 네 말대로, 나도 조금은 지친 모양이군. 설마 학생 상대로 이런 쓸데없는 이야기를 하게 될 줄이야.」"
 
 [[dialogue]]
-speaker = "セドナ"
+speaker_original = "セドナ"
+speaker_translation = "세드나"
 original = "「……ん？\u3000疲れたなら──って、なんだ。おい……」"
 translation = "「……응? 지쳤다면── 이봐, 뭐야. 어이……」"
 
 [[dialogue]]
-speaker = "セドナ"
+speaker_original = "セドナ"
+speaker_translation = "세드나"
 original = "「って……！？\u3000な、なんのつもりだ。肩揉みだと？\u3000そんなの頼んでいないぞ！」"
 translation = "「어이……!? 무, 무슨 생각이지. 어깨 안마라고? 그런 건 부탁한 적 없다!」"
 
 [[dialogue]]
-speaker = "セドナ"
+speaker_original = "セドナ"
+speaker_translation = "세드나"
 original = "「嫌か──って、別に嫌というわけではないが。むずがゆいだろうが、こんなの……」"
 translation = "「싫으냐니── 딱히 싫다는 건 아니다만. 근질거린단 말이다, 이런 건……」"
 
 [[dialogue]]
-speaker = "セドナ"
+speaker_original = "セドナ"
+speaker_translation = "세드나"
 original = "（そもそも、私たちの体の造りからして人間とは似て非なるものなのだが……はあ。言っても聞くようには見えんな）"
 translation = "(애초에 우리 몸의 구조는 인간과는 닮았으면서도 다른 것인데…… 하아. 말해도 들을 것 같지는 않군.)"
 
 [[dialogue]]
-speaker = "セドナ"
+speaker_original = "セドナ"
+speaker_translation = "세드나"
 original = "「わかったわかった。気の済むまで好きにしろ。まったく──貴様といると調子が狂う。私を誰だと思っているんだ」"
 translation = "「알았다 알았어. 마음이 풀릴 때까지 마음대로 해라. 정말이지── 너와 있으면 페이스가 흐트러지는군. 나를 누구라고 생각하는 거냐.」"
 
@@ -219,32 +250,38 @@ original = "セドナさんは悪い人じゃない"
 translation = "세드나 씨는 나쁜 사람이 아니야"
 
 [[dialogue]]
-speaker = "セドナ"
+speaker_original = "セドナ"
+speaker_translation = "세드나"
 original = "「だからって、気軽に信用していいわけじゃ……はあ。もう、今さら暖簾に腕押しか」"
 translation = "「그렇다고 해서, 마음 놓고 신용해도 된다는 건…… 하아. 이제 와서 새삼스럽게 공염불인가.」"
 
 [[dialogue]]
-speaker = "セドナ"
+speaker_original = "セドナ"
+speaker_translation = "세드나"
 original = "（というか、逆に悪い人だと思っていたのか……？\u3000そっちの方が気にかかってしまうが──まあいい）"
 translation = "(그보다, 반대로 나쁜 사람이라고 생각했던 건가……? 그쪽이 더 신경 쓰인다만── 뭐, 상관없나.)"
 
 [[dialogue]]
-speaker = "セドナ"
+speaker_original = "セドナ"
+speaker_translation = "세드나"
 original = "「む……なるほど。確かに、少しばかり肩が軽くなった気はするな。何、十分だ。気の持ちようということもある」"
 translation = "「음…… 과연. 확실히, 조금은 어깨가 가벼워진 기분이 드는군. 뭐, 충분하다. 기분 탓이라는 것도 있으니까.」"
 
 [[dialogue]]
-speaker = "クラウディア"
+speaker_original = "クラウディア"
+speaker_translation = "클라우디아"
 original = "「お～い！\u3000セドナよ～！\u3000あやとりのヒモが絡まって解けんようになったぞ、助けてくれ～～！」"
 translation = "「어~이! 세드나여~! 실뜨기 실이 엉켜서 안 풀리게 되었느니라, 도와다오~~!」"
 
 [[dialogue]]
-speaker = "セドナ"
+speaker_original = "セドナ"
+speaker_translation = "세드나"
 original = "「ふう……どうやら姫がまた面倒を起こしているようだ。悪いが、貴様もそろそろ学園へ帰るのだな」"
 translation = "「후우…… 아무래도 공주가 또 귀찮은 일을 일으킨 모양이군. 미안하지만, 너도 슬슬 학원으로 돌아가도록 해라.」"
 
 [[dialogue]]
-speaker = "セドナ"
+speaker_original = "セドナ"
+speaker_translation = "세드나"
 original = "「ああ、適度に休息は取るようにするよ。貴様のほうは──むしろ血反吐を吐いて修練に励めよ。魔王」"
 translation = "「아아, 적당히 휴식은 취하도록 하마. 네놈 쪽은── 오히려 피를 토할 정도로 수련에 힘쓰도록 해라. 마왕.」"
 

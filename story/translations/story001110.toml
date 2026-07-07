@@ -1,15 +1,18 @@
 [[dialogue]]
-speaker = "ネーゼマイン"
+speaker_original = "ネーゼマイン"
+speaker_translation = "네제마인"
 original = "「まさか迷子探しのついでだったとはねー。とんだ骨折り損のくたびれ儲けってやつだよ～」"
 translation = "「설마 길 잃은 애 찾던 중이었을 줄이야~. 완전 헛수고만 한 셈이네~」"
 
 [[dialogue]]
-speaker = "セナリィ"
+speaker_original = "セナリィ"
+speaker_translation = "세나리"
 original = "「くうぅ……一攫千金が遠のきましたわ。あと一歩でコラプサーを捕まえられましたのに……」"
 translation = "「으으…… 일확천금이 멀어졌어요. 한 발짝만 더 가면 콜랩서를 잡을 수 있었는데……」"
 
 [[dialogue]]
-speaker = "せつな"
+speaker_original = "せつな"
+speaker_translation = "세츠나"
 original = "「やっぱりセナリィ殿は相変わらずでござるな……」"
 translation = "「역시 세나리 공은 여전하구려……」"
 
@@ -19,32 +22,38 @@ original = "ヴァレリーを捕まえられなくて残念でした"
 translation = "발레리를 못 잡아서 아쉽게 됐네요."
 
 [[dialogue]]
-speaker = "シアン"
+speaker_original = "シアン"
+speaker_translation = "시안"
 original = "「まあな」"
 translation = "「뭐 그렇지.」"
 
 [[dialogue]]
-speaker = "ネーゼマイン"
+speaker_original = "ネーゼマイン"
+speaker_translation = "네제마인"
 original = "「取り逃がしたのに平気そうだね？\u3000わざわざイギリスから追ってきたんでしょ」"
 translation = "「놓쳤는데 평온해 보이네? 일부러 영국에서부터 쫓아온 거잖아.」"
 
 [[dialogue]]
-speaker = "シアン"
+speaker_original = "シアン"
+speaker_translation = "시안"
 original = "「追って逃げられて、また追って、なんてのは慣れっこだ。いちいち落ち込んでたらキリがねえ」"
 translation = "「쫓다가 놓치고, 다시 쫓는 건 이미 익숙해. 일일이 낙담하고 있으면 끝이 없다고.」"
 
 [[dialogue]]
-speaker = "シアン"
+speaker_original = "シアン"
+speaker_translation = "시안"
 original = "「やつはいつか必ず捕まえる。どうせあの調子じゃ、また姿を現すだろ」"
 translation = "「저 녀석은 언젠가 반드시 잡는다. 어차피 저 꼴을 보아하니 또 모습을 드러내겠지.」"
 
 [[dialogue]]
-speaker = "ネーゼマイン"
+speaker_original = "ネーゼマイン"
+speaker_translation = "네제마인"
 original = "「ダウナーなふりしてやる気満々だね～。さすが<ruby>猟犬<rt>ハウンドドッグ</rt></ruby>先輩だ」"
 translation = "「무기력한 척하면서 의욕 만만인걸~. 역시 <ruby>사냥개<rt>하운드독</rt></ruby> 선배야.」"
 
 [[dialogue]]
-speaker = "ネーゼマイン"
+speaker_original = "ネーゼマイン"
+speaker_translation = "네제마인"
 original = "「だ・け・ど～……すごく大事な発見もあったよね」"
 translation = "「하·지·만~…… 무척 중요한 발견도 있었지.」"
 
@@ -54,32 +63,38 @@ original = "セナリィの星眼が効いた"
 translation = "세나리의 성안이 통했어."
 
 [[dialogue]]
-speaker = "セナリィ"
+speaker_original = "セナリィ"
+speaker_translation = "세나리"
 original = "「ええ。<ruby>私<rt>わたくし</rt></ruby>の『強奪の星眼』で奪えるということは、星術を行使しているということですわ」"
 translation = "「네. 저의 『강탈의 성안』으로 뺏을 수 있다는 것은 성술을 행사하고 있다는 뜻입니다.」"
 
 [[dialogue]]
-speaker = "セナリィ"
+speaker_original = "セナリィ"
+speaker_translation = "세나리"
 original = "「それがヴァレリー・スチュアートだけなのか、コラプサー全員に共通しているのかはわかりませんけれど……」"
 translation = "「그게 발레리 스튜어트뿐인 건지, 콜랩서 전원에게 공통된 것인지는 모르겠지만요……」"
 
 [[dialogue]]
-speaker = "せつな"
+speaker_original = "せつな"
+speaker_translation = "세츠나"
 original = "「今回のデータは各所に共有しておきまする。何かわかればよいのでござるが」"
 translation = "「이번 데이터는 각지에 공유해두겠소이다. 뭔가 알 수 있게 되면 좋을 텐데 말이오.」"
 
 [[dialogue]]
-speaker = "ネーゼマイン"
+speaker_original = "ネーゼマイン"
+speaker_translation = "네제마인"
 original = "「新たに判明したコラプサー構成員はヴァレリーとリーナの２人。この前のキサナと合わせて３人だけど、あの調子じゃまだいそうだったね～」"
 translation = "「새로 판명된 콜랩서 구성원은 발레리와 리나 두 명. 저번의 키사나까지 합쳐서 3명이지만, 저 분위기로 봐선 더 있을 것 같네~」"
 
 [[dialogue]]
-speaker = "シアン"
+speaker_original = "シアン"
+speaker_translation = "시안"
 original = "「ま、今日は全員命があって何よりだ。ゆっくり休もうぜ」"
 translation = "「뭐, 오늘은 다들 목숨이 붙어있으니 다행이다. 푹 쉬자고.」"
 
 [[dialogue]]
-speaker = "蛍火"
+speaker_original = "蛍火"
+speaker_translation = "호타루비"
 original = "「皆さん、お疲れさまでした。私も戦闘に参加できればよかったのですが……申し訳ありません」"
 translation = "「여러분, 수고하셨습니다. 저도 전투에 참여할 수 있었다면 좋았을 텐데…… 죄송합니다.」"
 
@@ -89,27 +104,32 @@ original = "蛍火はよく頑張ってくれた"
 translation = "케이카는 충분히 잘해줬어."
 
 [[dialogue]]
-speaker = "シアン"
+speaker_original = "シアン"
+speaker_translation = "시안"
 original = "「ああ。あんたがいなきゃ、あたしはヴァレリーのやつに滅多切りにされてたぜ」"
 translation = "「아아. 네가 없었으면 난 발레리 그 녀석한테 난도질당했을걸.」"
 
 [[dialogue]]
-speaker = "蛍火"
+speaker_original = "蛍火"
+speaker_translation = "호타루비"
 original = "「ありがとうございます。戦闘で空腹かと思いましたので、簡単なお夜食を作らせていただきました。よければ召し上がってください」"
 translation = "「감사합니다. 전투로 배가 고프실 것 같아 간단한 야식을 준비해 보았습니다. 괜찮으시다면 드셔주세요.」"
 
 [[dialogue]]
-speaker = "せつな"
+speaker_original = "せつな"
+speaker_translation = "세츠나"
 original = "「おお、かたじけない！」"
 translation = "「오오, 고맙소이다!」"
 
 [[dialogue]]
-speaker = "セナリィ"
+speaker_original = "セナリィ"
+speaker_translation = "세나리"
 original = "「ん～、このおにぎり、絶品ですわ！」"
 translation = "「음~ 이 주먹밥, 일품이군요!」"
 
 [[dialogue]]
-speaker = "蛍火"
+speaker_original = "蛍火"
+speaker_translation = "호타루비"
 original = "「ところで皆さんは何の集まりで？\u3000特につながりがないように見えるのですが……」"
 translation = "「그런데 여러분은 어떤 모임인가요? 딱히 접점이 없어 보입니다만……」"
 
@@ -119,97 +139,116 @@ original = "あー……"
 translation = "아—……"
 
 [[dialogue]]
-speaker = "シアン"
+speaker_original = "シアン"
+speaker_translation = "시안"
 original = "「仲良しサークル……かな」"
 translation = "「친목 서클…… 이려나.」"
 
 [[dialogue]]
-speaker = "ヴァレリー"
+speaker_original = "ヴァレリー"
+speaker_translation = "발레리"
 original = "「お久しぶりです、キサナ。<ruby>攪乱<rt>かくらん</rt></ruby>お疲れ様です」"
 translation = "「오랜만입니다, 키사나. 교란 수고하셨습니다.」"
 
 [[dialogue]]
-speaker = "キサナ"
+speaker_original = "キサナ"
+speaker_translation = "키사나"
 original = "「チッ。テメエに言われると無性に腹が立つぜ」"
 translation = "「쳇. 네놈한테 들으니 괜히 화가 치미는군.」"
 
 [[dialogue]]
-speaker = "キサナ"
+speaker_original = "キサナ"
+speaker_translation = "키사나"
 original = "「ここの場所は掴ませないようにしてるが、じきに限界は来る。いつまでも逃げ回ってられねえぞ」"
 translation = "「이곳 위치는 안 들키게 하고 있다만, 곧 한계가 올 거다. 언제까지고 도망만 다닐 순 없다고.」"
 
 [[dialogue]]
-speaker = "ヴァレリー"
+speaker_original = "ヴァレリー"
+speaker_translation = "발레리"
 original = "「その時はその時、暴れてやりましょう。ですがその前に<b>計画</b>の準備が整うはずです」"
 translation = "「그때는 그때죠, 한바탕 날뛰어주면 됩니다. 하지만 그전에 <b>계획</b>의 준비가 갖춰질 겁니다.」"
 
 [[dialogue]]
-speaker = "キサナ"
+speaker_original = "キサナ"
+speaker_translation = "키사나"
 original = "「計画、ねぇ……。アタシは何ひとつ知らされてねえが、本当に進んでんのか？」"
 translation = "「계획이라니, 참나……. 난 아무것도 들은 게 없다만, 정말 진행되고는 있는 거냐?」"
 
 [[dialogue]]
-speaker = "ヴァレリー"
+speaker_original = "ヴァレリー"
+speaker_translation = "발레리"
 original = "「ええ、順調に進行中ですよ。ターゲットの所在も特定済みです」"
 translation = "「네, 순조롭게 진행 중입니다. 타깃의 소재도 특정 완료했고요.」"
 
 [[dialogue]]
-speaker = "キサナ"
+speaker_original = "キサナ"
+speaker_translation = "키사나"
 original = "「ふうん、ならいいがな。……で、合流は昨日の予定だったのにオマエらは何してたんだ？」"
 translation = "「흐음, 그럼 됐다만. ……그래서 합류는 어제 예정이었는데 네놈들은 뭘 하고 있었던 거냐?」"
 
 [[dialogue]]
-speaker = "リーナ"
+speaker_original = "リーナ"
+speaker_translation = "리나"
 original = "「あのね、お兄ちゃんに会ってたの！」"
 translation = "「저기 말야, 오빠를 만나고 있었어!」"
 
 [[dialogue]]
-speaker = "キサナ"
+speaker_original = "キサナ"
+speaker_translation = "키사나"
 original = "「は？\u3000オマエの兄貴って死んだんじゃなかったっけ？」"
 translation = "「하? 네 오빠라는 놈은 죽지 않았었나?」"
 
 [[dialogue]]
-speaker = "リーナ"
+speaker_original = "リーナ"
+speaker_translation = "리나"
 original = "「も～、違うよ！\u3000リーナのお兄ちゃんはお兄ちゃんなの！」"
 translation = "「정말~ 아니야! 리나의 오빠는 오빠야!」"
 
 [[dialogue]]
-speaker = "ヴァレリー"
+speaker_original = "ヴァレリー"
+speaker_translation = "발레리"
 original = "「新星学園の会長さんですよ、リーナのお兄ちゃんは」"
 translation = "「신성학원의 회장님이에요, 리나의 오빠는.」"
 
 [[dialogue]]
-speaker = "キサナ"
+speaker_original = "キサナ"
+speaker_translation = "키사나"
 original = "「あいつが？\u3000お兄ちゃん？\u3000わけわかんねえ」"
 translation = "「그 녀석이? 오빠? 영문을 모르겠군.」"
 
 [[dialogue]]
-speaker = "ヴァレリー"
+speaker_original = "ヴァレリー"
+speaker_translation = "발레리"
 original = "「それがなかなか面白いことになりまして。リーナを探していたら星騎士と戦闘になって、さらにリーナにズタズタにされかけました」"
 translation = "「그게 꽤나 재미있는 상황이 돼서 말이죠. 리나를 찾다 보니 성기사와 전투가 붙었고, 심지어 리나에게 갈기갈기 찢길 뻔했습니다.」"
 
 [[dialogue]]
-speaker = "キサナ"
+speaker_original = "キサナ"
+speaker_translation = "키사나"
 original = "「マジかよ。アタシもリーナに加勢すればよかったぜ」"
 translation = "「진짜냐. 나도 리나한테 가세할 걸 그랬군.」"
 
 [[dialogue]]
-speaker = "リーナ"
+speaker_original = "リーナ"
+speaker_translation = "리나"
 original = "「キサナお姉ちゃんはお兄ちゃんをいじめそうだからダメ！」"
 translation = "「키사나 언니는 오빠를 괴롭힐 것 같으니까 안 돼!」"
 
 [[dialogue]]
-speaker = "キサナ"
+speaker_original = "キサナ"
+speaker_translation = "키사나"
 original = "「なんだそりゃ。バカバカしい」"
 translation = "「그게 무슨 소리야. 어처구니없군.」"
 
 [[dialogue]]
-speaker = "ヴァレリー"
+speaker_original = "ヴァレリー"
+speaker_translation = "발레리"
 original = "「フフフ……もし会長さんがリーナの御眼鏡に敵わなければ、刃を向けられていたのは会長さんだったかもしれません」"
 translation = "「후후후…… 만약 회장님이 리나의 마음에 차지 않았다면 칼날이 향한 쪽은 회장님이었을지도 모릅니다.」"
 
 [[dialogue]]
-speaker = "ヴァレリー"
+speaker_original = "ヴァレリー"
+speaker_translation = "발레리"
 original = "「命拾いをしましたね、会長さん」"
 translation = "「목숨 건지셨네요, 회장님.」"
 

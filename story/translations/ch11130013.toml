@@ -14,27 +14,32 @@ original = "だが──"
 translation = "하지만──"
 
 [[dialogue]]
-speaker = "モンスター"
+speaker_original = "モンスター"
+speaker_translation = "몬스터"
 original = "「グルルゥ！」"
 translation = "「크르르릉!」"
 
 [[dialogue]]
-speaker = "ジグ"
+speaker_original = "ジグ"
+speaker_translation = "지그"
 original = "「ブラントアングリフ」"
 translation = "「브란트 앙그리프」"
 
 [[dialogue]]
-speaker = "モンスター"
+speaker_original = "モンスター"
+speaker_translation = "몬스터"
 original = "「グゥゥッ！！？」"
 translation = "「크으으윽!!?」"
 
 [[dialogue]]
-speaker = "マトイ"
+speaker_original = "マトイ"
+speaker_translation = "마토이"
 original = "「すごい……ジグさんだけで機械型モンスターをほとんど倒しちゃった……」"
 translation = "「대단해…… 지그 씨 혼자서 기계형 몬스터를 거의 다 쓰러뜨렸어……」"
 
 [[dialogue]]
-speaker = "梨緒"
+speaker_original = "梨緒"
+speaker_translation = "리오"
 original = "「これでも本調子ではないはずだが、元星徒会長の実力は健在ということか……」"
 translation = "「이래도 본 실력은 아닐 텐데, 전 성도 회장의 실력은 건재하다는 건가……」"
 
@@ -44,52 +49,62 @@ original = "さすがベガ最強の星騎士"
 translation = "역시 베가 최강의 성기사다."
 
 [[dialogue]]
-speaker = "ジグ"
+speaker_original = "ジグ"
+speaker_translation = "지그"
 original = "「魔王である君にそう言われると恐縮だ。確かに最強と呼ばれたことはあるが、君と違って自分の世界は守れなかったからね」"
 translation = "「마왕이신 당신에게 그렇게 들으니 황송합니다. 확실히 최강이라 불린 적은 있지만, 당신과 달리 자신의 세계는 지키지 못했으니까요」"
 
 [[dialogue]]
-speaker = "ジグ"
+speaker_original = "ジグ"
+speaker_translation = "지그"
 original = "「まぁ、その“最強”も、星眼あってのものだけど」"
 translation = "「뭐, 그 “최강”도, 성안이 있어야 하는 것이지만요」"
 
 [[dialogue]]
-speaker = "ジグ"
+speaker_original = "ジグ"
+speaker_translation = "지그"
 original = "「対象の可能性を見る星眼だが、この眼は自分を見ることもできる」"
 translation = "「대상의 가능성을 보는 성안이지만, 이 눈은 자신을 보는 것도 가능합니다」"
 
 [[dialogue]]
-speaker = "ジグ"
+speaker_original = "ジグ"
+speaker_translation = "지그"
 original = "「自分に秘められた可能性を見て、見た通りに限界まで力を伸ばす──」"
 translation = "「자신에게 숨겨진 가능성을 보고, 본 그대로 한계까지 힘을 키우는──」"
 
 [[dialogue]]
-speaker = "ジグ"
+speaker_original = "ジグ"
+speaker_translation = "지그"
 original = "「つまり私は他の人より圧倒的に容易に、自分の才能を限界まで引き出せる。一種のチートといえるかもしれないね」"
 translation = "「즉 저는 다른 사람보다 압도적으로 쉽게, 자신의 재능을 한계까지 끌어낼 수 있습니다. 일종의 치트라고 할 수 있을지도 모르겠네요」"
 
 [[dialogue]]
-speaker = "マトイ"
+speaker_original = "マトイ"
+speaker_translation = "마토이"
 original = "「いやでも、可能性を見て実際にできるのってすごいことなんじゃ……私が同じ力を持ってても、使いこなせる気がしないよ……」"
 translation = "「아니 그래도, 가능성을 보고 실제로 해내는 건 대단한 거 아냐…… 내가 같은 힘을 가지고 있어도, 제대로 쓸 수 있을 것 같지 않아……」"
 
 [[dialogue]]
-speaker = "梨緒"
+speaker_original = "梨緒"
+speaker_translation = "리오"
 original = "「だが、どうして今も機械型モンスターが出現するんだ？\u3000あれはリクリエの使徒となったジグが生み出したものだろう？」"
 translation = "「하지만, 어째서 지금도 기계형 몬스터가 출현하는 거지? 저건 리크리에의 사도가 된 지그가 만들어낸 것 아니었나?」"
 
 [[dialogue]]
-speaker = "ジグ"
+speaker_original = "ジグ"
+speaker_translation = "지그"
 original = "「リクリエがあのモンスターを記憶してしまったんだと思う。これからは私に関係なく出現するだろう」"
 translation = "「리크리에가 그 몬스터를 기억해 버린 것 같습니다. 이제부터는 저와 관계없이 출현할 겁니다」"
 
 [[dialogue]]
-speaker = "ジグ"
+speaker_original = "ジグ"
+speaker_translation = "지그"
 original = "「迷惑をかけてすまないが、私も率先してあのモンスターを駆逐するよ」"
 translation = "「폐를 끼쳐 죄송하지만, 저도 솔선수범하여 그 몬스터를 구제하겠습니다」"
 
 [[dialogue]]
-speaker = "マトイ"
+speaker_original = "マトイ"
+speaker_translation = "마토이"
 original = "「そっか……機械型モンスターの相手は大変だけど、私も頑張るよ！」"
 translation = "「그렇구나…… 기계형 몬스터 상대는 힘들지만, 나도 열심히 할게!」"
 
@@ -99,12 +114,14 @@ original = "（ところで、梨緒とジグの戦闘服って……）"
 translation = "(그런데, 리오와 지그의 전투복은……)"
 
 [[dialogue]]
-speaker = "ジグ"
+speaker_original = "ジグ"
+speaker_translation = "지그"
 original = "「ん？\u3000こっちを見てどうしたんだい」"
 translation = "「응? 이쪽을 보고 무슨 일입니까」"
 
 [[dialogue]]
-speaker = "ジグ"
+speaker_original = "ジグ"
+speaker_translation = "지그"
 original = "「ああ、私とアガサの戦闘服が気になるのか」"
 translation = "「아아, 저와 아가사의 전투복이 신경 쓰이시는군요」"
 
@@ -114,42 +131,50 @@ original = "ぶふぉっ！？"
 translation = "푸핫!?"
 
 [[dialogue]]
-speaker = "梨緒"
+speaker_original = "梨緒"
+speaker_translation = "리오"
 original = "「ど、どこを見ている！？\u3000真剣に戦っているのにハレンチだぞ！！」"
 translation = "「어, 어디를 보는 거야!? 진심으로 싸우고 있는데 외설적이야!!」"
 
 [[dialogue]]
-speaker = "マトイ"
+speaker_original = "マトイ"
+speaker_translation = "마토이"
 original = "「いや確かに、２人とも戦闘服が際どいと思ってたけど……」"
 translation = "「아니 확실히, 두 사람 다 전투복이 아슬아슬하다고 생각했지만……」"
 
 [[dialogue]]
-speaker = "梨緒"
+speaker_original = "梨緒"
+speaker_translation = "리오"
 original = "「マトイまでそう思ってたのか！？」"
 translation = "「마토이까지 그렇게 생각했던 거야!?」"
 
 [[dialogue]]
-speaker = "マトイ"
+speaker_original = "マトイ"
+speaker_translation = "마토이"
 original = "「うん、特に股間のところが……」"
 translation = "「응, 특히 사타구니 쪽이……」"
 
 [[dialogue]]
-speaker = "梨緒"
+speaker_original = "梨緒"
+speaker_translation = "리오"
 original = "「具体的に言わないでくれ！\u3000余計恥ずかしくなる！」"
 translation = "「구체적으로 말하지 마! 더 부끄러워지잖아!」"
 
 [[dialogue]]
-speaker = "ジグ"
+speaker_original = "ジグ"
+speaker_translation = "지그"
 original = "「私に最適化された戦闘服がこれなのだから仕方ないよ」"
 translation = "「저에게 최적화된 전투복이 이것이니 어쩔 수 없습니다」"
 
 [[dialogue]]
-speaker = "ジグ"
+speaker_original = "ジグ"
+speaker_translation = "지그"
 original = "「それに私は英雄の家に生まれ、世界を守る騎士として育った。この魔剣バルムンクも騎士の証として先祖代々受け継いできたもの」"
 translation = "「게다가 저는 영웅의 집안에서 태어나, 세계를 지키는 기사로서 자랐습니다. 이 마검 발뭉크도 기사의 증표로서 선조 대대로 물려받은 것입니다」"
 
 [[dialogue]]
-speaker = "ジグ"
+speaker_original = "ジグ"
+speaker_translation = "지그"
 original = "「<ruby>無辜<rt>むこ</rt></ruby>の人々を守るためならば、衆目があろうとも一糸まとわぬ姿で戦うさ。魔王だってそうだろう？」"
 translation = "「무고한 사람들을 지키기 위해서라면, 뭇사람들의 시선이 있어도 실오라기 하나 걸치지 않은 모습으로 싸울 겁니다. 마왕도 그렇지 않습니까?」"
 
@@ -159,32 +184,38 @@ original = "それはそうだけど……"
 translation = "그건 그렇지만……"
 
 [[dialogue]]
-speaker = "ジグ"
+speaker_original = "ジグ"
+speaker_translation = "지그"
 original = "「むむ……？」"
 translation = "「으음……?」"
 
 [[dialogue]]
-speaker = "ジグ"
+speaker_original = "ジグ"
+speaker_translation = "지그"
 original = "「私の星眼が、可能性を見てしまった」"
 translation = "「저의 성안이, 가능성을 보고 말았습니다」"
 
 [[dialogue]]
-speaker = "ジグ"
+speaker_original = "ジグ"
+speaker_translation = "지그"
 original = "「公衆の面前で裸になって、羞恥に震えながら戦う私を、魔王は下卑た視線で見つめて楽しんでいる……」"
 translation = "「공중의 면전에서 알몸이 되어, 수치심에 떨면서 싸우는 저를, 마왕은 저급한 시선으로 바라보며 즐기고 있다……」"
 
 [[dialogue]]
-speaker = "ジグ"
+speaker_original = "ジグ"
+speaker_translation = "지그"
 original = "「さすが魔王と呼ばれるだけはあるね……」"
 translation = "「역시 마왕이라 불릴 만하네요……」"
 
 [[dialogue]]
-speaker = "梨緒"
+speaker_original = "梨緒"
+speaker_translation = "리오"
 original = "「なんて下劣な趣味なんだ！！\u3000やはり星徒会長として認めるわけにはいかない！！」"
 translation = "「이런 저열한 취미라니!! 역시 성도 회장으로서 인정할 수는 없어!!」"
 
 [[dialogue]]
-speaker = "マトイ"
+speaker_original = "マトイ"
+speaker_translation = "마토이"
 original = "「会長、それはひどいよ！」"
 translation = "「회장, 그건 너무해!」"
 
@@ -194,77 +225,92 @@ original = "ジグが勝手に言ってるだけだから！"
 translation = "지그가 멋대로 말하는 것뿐이니까!"
 
 [[dialogue]]
-speaker = "ジグ"
+speaker_original = "ジグ"
+speaker_translation = "지그"
 original = "「ははは、冗談だよ。少なくとも今はそんな可能性は見えていない」"
 translation = "「하하하, 농담입니다. 적어도 지금은 그런 가능성은 보이지 않습니다」"
 
 [[dialogue]]
-speaker = "マトイ"
+speaker_original = "マトイ"
+speaker_translation = "마토이"
 original = "「ごめん、会長ならありえるかもって思っちゃった……」"
 translation = "「미안, 회장이라면 그럴 수도 있다고 생각했어……」"
 
 [[dialogue]]
-speaker = "梨緒"
+speaker_original = "梨緒"
+speaker_translation = "리오"
 original = "「本当に冗談か？\u3000裸で戦う機会があるかはともかく、そのくらいのことは魔王ならやりそうな気がするんだが……」"
 translation = "「정말로 농담이야? 알몸으로 싸울 기회가 있을지는 몰라도, 그 정도 일은 마왕이라면 할 것 같은 기분이 드는데……」"
 
 [[dialogue]]
-speaker = "マトイ"
+speaker_original = "マトイ"
+speaker_translation = "마토이"
 original = "「だけどベガ出身の２人の戦闘服がこれってことは、ベガの私もあそこが際どい戦闘服だったのかな……？」"
 translation = "「하지만 베가 출신인 두 사람의 전투복이 이렇다는 건, 베가의 나도 거기가 아슬아슬한 전투복이었을까……?」"
 
 [[dialogue]]
-speaker = "梨緒"
+speaker_original = "梨緒"
+speaker_translation = "리오"
 original = "「いや、ベガの君も、戦闘服は今着ているものと同じだったぞ……」"
 translation = "「아니, 베가의 너도, 전투복은 지금 입고 있는 것과 같았어……」"
 
 [[dialogue]]
-speaker = "ジグ"
+speaker_original = "ジグ"
+speaker_translation = "지그"
 original = "「私にとっては今さらだけどね。戦闘服の露出が大きい星騎士なら他にもいるし」"
 translation = "「저에게는 새삼스럽지만요. 전투복의 노출이 큰 성기사라면 다른 사람도 있고」"
 
 [[dialogue]]
-speaker = "ジグ"
+speaker_original = "ジグ"
+speaker_translation = "지그"
 original = "「でも際どさでは、今の新星の学園長には負けるよ」"
 translation = "「하지만 아슬아슬함으로는, 지금 신성의 학원장에게는 집니다」"
 
 [[dialogue]]
-speaker = "マトイ"
+speaker_original = "マトイ"
+speaker_translation = "마토이"
 original = "「確かにベガっぽいよね、シノ学園長の戦闘服……」"
 translation = "「확실히 베가 같네, 시노 학원장의 전투복……」"
 
 [[dialogue]]
-speaker = "梨緒"
+speaker_original = "梨緒"
+speaker_translation = "리오"
 original = "「ベガっぽいって何だ！？\u3000風評被害だ！！」"
 translation = "「베가 같다는 게 뭐야!? 풍평 피해잖아!!」"
 
 [[dialogue]]
-speaker = "シノ"
+speaker_original = "シノ"
+speaker_translation = "시노"
 original = "「あ、みなさん、ご無事ですか？」"
 translation = "「아, 여러분, 무사하신가요?」"
 
 [[dialogue]]
-speaker = "シノ"
+speaker_original = "シノ"
+speaker_translation = "시노"
 original = "「たまたま近くにいたので駆けつけましたが、不要だったようですね」"
 translation = "「마침 근처에 있어서 달려왔습니다만, 필요 없었던 모양이네요」"
 
 [[dialogue]]
-speaker = "マトイ"
+speaker_original = "マトイ"
+speaker_translation = "마토이"
 original = "「はい、ジグさんが機械型モンスターをみんな倒してくれて……」"
 translation = "「네, 지그 씨가 기계형 몬스터를 전부 쓰러뜨려 줘서……」"
 
 [[dialogue]]
-speaker = "マトイ"
+speaker_original = "マトイ"
+speaker_translation = "마토이"
 original = "「じー……」"
 translation = "「지이……」"
 
 [[dialogue]]
-speaker = "梨緒"
+speaker_original = "梨緒"
+speaker_translation = "리오"
 original = "「じー……」"
 translation = "「지이……」"
 
 [[dialogue]]
-speaker = "ジグ"
+speaker_original = "ジグ"
+speaker_translation = "지그"
 original = "「じー……」"
 translation = "「지이……」"
 
@@ -274,27 +320,32 @@ original = "じー……"
 translation = "지이……"
 
 [[dialogue]]
-speaker = "シノ"
+speaker_original = "シノ"
+speaker_translation = "시노"
 original = "「みなさんどうしてそんなに私をじっと見るんですかっ！？」"
 translation = "「여러분 왜 그렇게 저를 빤히 보는 건가요!?」"
 
 [[dialogue]]
-speaker = "ジグ"
+speaker_original = "ジグ"
+speaker_translation = "지그"
 original = "「ベガでは、十六夜シノという女性は星騎士になっていなかった」"
 translation = "「베가에서는, 이자요이 시노라는 여성은 성기사가 되지 않았습니다」"
 
 [[dialogue]]
-speaker = "ジグ"
+speaker_original = "ジグ"
+speaker_translation = "지그"
 original = "「だけど彼女がベガでも星騎士になっていたら、もっとすごいことになっていたかもしれないね……」"
 translation = "「하지만 그녀가 베가에서도 성기사가 되었다면, 훨씬 대단한 일이 되었을지도 모르겠네요……」"
 
 [[dialogue]]
-speaker = "マトイ"
+speaker_original = "マトイ"
+speaker_translation = "마토이"
 original = "「ごくっ……」"
 translation = "「꿀꺽……」"
 
 [[dialogue]]
-speaker = "シノ"
+speaker_original = "シノ"
+speaker_translation = "시노"
 original = "「いったい何の話ですか！？\u3000何の想像してるんですか～～っ！？」"
 translation = "「대체 무슨 이야기예요!? 무슨 상상을 하는 건가요~~!?」"
 

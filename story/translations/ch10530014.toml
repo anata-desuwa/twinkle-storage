@@ -4,12 +4,14 @@ original = "第４話,魔女とデート？,P"
 translation = "제4화, 마녀와 데이트?, P"
 
 [[dialogue]]
-speaker = "ウェンディ"
+speaker_original = "ウェンディ"
+speaker_translation = "웬디"
 original = "「こんにちは、会長さん。急にお呼び立てしてすみません」"
 translation = "「안녕하세요, 회장님. 갑자기 불러내서 죄송합니다」"
 
 [[dialogue]]
-speaker = "ウェンディ"
+speaker_original = "ウェンディ"
+speaker_translation = "웬디"
 original = "「現在、会長さんのような男子学生をペルソナとした商品開発に取り組んでいまして。理解を深めるためにご協力いただきたいのです」"
 translation = "「현재 회장님 같은 남학생을 페르소나로 한 상품 개발에 몰두하고 있어서요. 이해를 돕기 위해 협력을 받고 싶습니다」"
 
@@ -19,37 +21,44 @@ original = "ペルソナ？"
 translation = "페르소나?"
 
 [[dialogue]]
-speaker = "ウェンディ"
+speaker_original = "ウェンディ"
+speaker_translation = "웬디"
 original = "「マーケティング用語のペルソナとは、製品・サービスを利用する典型的なユーザー像のことです」"
 translation = "「마케팅 용어인 페르소나란 제품·서비스를 이용하는 전형적인 사용자상을 말합니다」"
 
 [[dialogue]]
-speaker = "ウェンディ"
+speaker_original = "ウェンディ"
+speaker_translation = "웬디"
 original = "「ターゲットが２０代独身女性、３０代男性会社員などと一定の層を想定しているのに対し、より具体的なイメージを深め、架空の人物像としたものです」"
 translation = "「타겟이 20대 독신 여성, 30대 남성 회사원 등 일정 계층을 상정하는 것에 비해, 보다 구체적인 이미지를 심화시켜 가상의 인물상으로 만든 것이죠」"
 
 [[dialogue]]
-speaker = "ウェンディ"
+speaker_original = "ウェンディ"
+speaker_translation = "웬디"
 original = "「例えばターゲットが３０代の既婚女性であれば……」"
 translation = "「예를 들어 타겟이 30대 기혼 여성이라면……」"
 
 [[dialogue]]
-speaker = "ウェンディ"
+speaker_original = "ウェンディ"
+speaker_translation = "웬디"
 original = "「そのペルソナは佐藤加奈３３歳、夫と子ども２人の４人暮らし、保険外交員、首都圏在住で趣味は海外旅行……などといったふうに具体的に定めていきます」"
 translation = "「그 페르소나는 사토 카나 33세, 남편과 아이 2명의 4인 가족, 보험 설계사, 수도권 거주에 취미는 해외여행…… 등과 같이 구체적으로 정해 나갑니다」"
 
 [[dialogue]]
-speaker = "ウェンディ"
+speaker_original = "ウェンディ"
+speaker_translation = "웬디"
 original = "「そうすることでユーザーに対する理解を深めたり、関係者間の認識のズレをなくしたりすることができます」"
 translation = "「그렇게 함으로써 사용자에 대한 이해를 높이거나, 관계자 간의 인식 차이를 없앨 수 있습니다」"
 
 [[dialogue]]
-speaker = "ウェンディ"
+speaker_original = "ウェンディ"
+speaker_translation = "웬디"
 original = "「今回は偶然会長さんに非常に近いペルソナが定義されたので、会長さんに直接接することで、設定の精度を高めようと思ったわけです」"
 translation = "「이번에 우연히 회장님과 매우 흡사한 페르소나가 정의되어서, 회장님과 직접 접함으로써 설정의 정밀도를 높이려 생각한 것입니다」"
 
 [[dialogue]]
-speaker = "ウェンディ"
+speaker_original = "ウェンディ"
+speaker_translation = "웬디"
 original = "「特別なことをしていただく必要はありません。半日ほどお時間頂ければ大丈夫です」"
 translation = "「특별한 것을 하실 필요는 없습니다. 반나절 정도 시간만 내주시면 괜찮아요」"
 
@@ -59,62 +68,74 @@ original = "それくらいなら大丈夫"
 translation = "그 정도라면 괜찮아"
 
 [[dialogue]]
-speaker = "ウェンディ"
+speaker_original = "ウェンディ"
+speaker_translation = "웬디"
 original = "「ご協力感謝します」"
 translation = "「협력해 주셔서 감사합니다」"
 
 [[dialogue]]
-speaker = "ウェンディ"
+speaker_original = "ウェンディ"
+speaker_translation = "웬디"
 original = "「しかし……こうして会長さんと歩いていると、モンスターを追いかけた時のことを思い出しますね」"
 translation = "「하지만…… 이렇게 회장님과 걷고 있으니 몬스터를 쫓아갔을 때의 일이 생각나네요」"
 
 [[dialogue]]
-speaker = "ウェンディ"
+speaker_original = "ウェンディ"
+speaker_translation = "웬디"
 original = "「いえ、積極的に思い出したい出来事ではないですが……え？\u3000ネビュラの活動資金の件ですか？」"
 translation = "「아니요, 적극적으로 떠올리고 싶은 사건은 아닙니다만…… 네? 네뷸라의 활동 자금 건 말인가요?」"
 
 [[dialogue]]
-speaker = "ウェンディ"
+speaker_original = "ウェンディ"
+speaker_translation = "웬디"
 original = "「それは……えーっと、事業を売却して短期的に資金を得ることに……」"
 translation = "「그건…… 에 그러니까, 사업을 매각해서 단기적으로 자금을 얻기로……」"
 
 [[dialogue]]
-speaker = "ウェンディ"
+speaker_original = "ウェンディ"
+speaker_translation = "웬디"
 original = "「いえ、何でもありません。頑張って何とかしましたよ」"
 translation = "「아니요, 아무것도 아닙니다. 열심히 어떻게든 해결했어요」"
 
 [[dialogue]]
-speaker = "ウェンディ"
+speaker_original = "ウェンディ"
+speaker_translation = "웬디"
 original = "「それより今は会長さんの調査です。会長さんって、いつも何を考えているんですか？」"
 translation = "「그보다 지금은 회장님 조사입니다. 회장님은 평소에 무슨 생각을 하시나요?」"
 
 [[dialogue]]
-speaker = "ウェンディ"
+speaker_original = "ウェンディ"
+speaker_translation = "웬디"
 original = "「……って、聞き方が抽象的すぎましたか。会長さんってどんな女性がタイプなんです？」"
 translation = "「……라고, 질문이 너무 추상적이었나요. 회장님은 어떤 여성이 타입인가요?」"
 
 [[dialogue]]
-speaker = "ウェンディ"
+speaker_original = "ウェンディ"
+speaker_translation = "웬디"
 original = "「いたって真面目な質問ですよ？\u3000今回の調査は、会長さんのことを知るのが目的なんですから」"
 translation = "「지극히 진지한 질문이라니까요? 이번 조사는 회장님에 대해 아는 것이 목적이니까요」"
 
 [[dialogue]]
-speaker = "ウェンディ"
+speaker_original = "ウェンディ"
+speaker_translation = "웬디"
 original = "「あなたの周りにいろんな女性がいることは、ネビュラの調査でわかっています」"
 translation = "「당신 주변에 다양한 여성이 있다는 건 네뷸라의 조사로 알고 있습니다」"
 
 [[dialogue]]
-speaker = "ウェンディ"
+speaker_original = "ウェンディ"
+speaker_translation = "웬디"
 original = "「新星星徒会の九浄ヴィーナス、奏サーシャ、アナ、詠野マトイ……」"
 translation = "「신성 학생회의 쿠죠 비너스, 카나데 사샤, 아나, 요노 마토이……」"
 
 [[dialogue]]
-speaker = "ウェンディ"
+speaker_original = "ウェンディ"
+speaker_translation = "웬디"
 original = "「流星星徒会の星見フィオナ、桐原セーラ、楠葉ユウリ、奏ソフィア、ルリエル」"
 translation = "「유성 학생회의 호시미 피오나, 키리하라 세라, 쿠스하 유우리, 카나데 소피아, 루리엘」"
 
 [[dialogue]]
-speaker = "ウェンディ"
+speaker_original = "ウェンディ"
+speaker_translation = "웬디"
 original = "「他にもメイド隊や流星附属などの子がいますよね。どの女の子が好みなんですか？」"
 translation = "「그 외에도 메이드대나 유성 부속 아이들이 있죠. 어느 여자아이가 취향인가요?」"
 
@@ -124,27 +145,32 @@ original = "年上かな"
 translation = "연상일까나"
 
 [[dialogue]]
-speaker = "ウェンディ"
+speaker_original = "ウェンディ"
+speaker_translation = "웬디"
 original = "「ほうほう。具体的にはどのくらい上とかありますか？」"
 translation = "「호오호오. 구체적으로 어느 정도 위라든가 있나요?」"
 
 [[dialogue]]
-speaker = "ウェンディ"
+speaker_original = "ウェンディ"
+speaker_translation = "웬디"
 original = "「ふむふむ、１００歳くらい──って、１００歳！？\u3000それは年上好きとか熟女好きを通り越してお年寄り──というか、人間はほとんど生きていないのでは？」"
 translation = "「흠흠, 100살 정도── 라니, 100살!? 그건 연상 취향이나 숙녀 취향을 넘어서 노인── 아니, 인간은 거의 살아있지 않은 거 아닌가요?」"
 
 [[dialogue]]
-speaker = "ウェンディ"
+speaker_original = "ウェンディ"
+speaker_translation = "웬디"
 original = "「──って、もしかして私のこと！？」"
 translation = "「──라니, 설마 제 이야기!?」"
 
 [[dialogue]]
-speaker = "ウェンディ"
+speaker_original = "ウェンディ"
+speaker_translation = "웬디"
 original = "「もうっ、魔女は対象外です。普通の学生の範疇で答えてください」"
 translation = "「정말이지, 마녀는 대상 외예요. 평범한 학생의 범주에서 대답해 주세요」"
 
 [[dialogue]]
-speaker = "ウェンディ"
+speaker_original = "ウェンディ"
+speaker_translation = "웬디"
 original = "「ではほかにも質問をいくつか。この近くには劇場と美術館、カフェと公園がありますけど、デートに行くならどこがいいですか？」"
 translation = "「그럼 그 외에도 질문을 몇 가지. 이 근처에는 극장과 미술관, 카페와 공원이 있는데, 데이트를 간다면 어디가 좋나요?」"
 
@@ -154,7 +180,8 @@ original = "公園で"
 translation = "공원에서"
 
 [[dialogue]]
-speaker = "ウェンディ"
+speaker_original = "ウェンディ"
+speaker_translation = "웬디"
 original = "「なるほどなるほど。デートの時は楽しさ重視ですか？\u3000雰囲気重視ですか？」"
 translation = "「과연 과연. 데이트할 때는 즐거움 중시인가요? 분위기 중시인가요?」"
 
@@ -164,17 +191,20 @@ original = "そんなことまで……！？"
 translation = "그런 것까지……!?"
 
 [[dialogue]]
-speaker = "ウェンディ"
+speaker_original = "ウェンディ"
+speaker_translation = "웬디"
 original = "「いえいえ、そこがペルソナ構築に重要なんですってば」"
 translation = "「아뇨 아뇨, 그게 페르소나 구축에 중요하단 말이죠」"
 
 [[dialogue]]
-speaker = "ウェンディ"
+speaker_original = "ウェンディ"
+speaker_translation = "웬디"
 original = "「貴重な男子学生の生の声、たっぷり聞かせてもらいます♪」"
 translation = "「귀중한 남학생의 생생한 목소리, 듬뿍 들려주셔야겠어요♪」"
 
 [[dialogue]]
-speaker = "ウェンディ"
+speaker_original = "ウェンディ"
+speaker_translation = "웬디"
 original = "「お疲れ様です、会長さん。今日はここまでで大丈夫ですよ」"
 translation = "「수고하셨어요, 회장님. 오늘은 여기까지만 해도 괜찮아요」"
 
@@ -184,42 +214,50 @@ original = "俺は役に立った？"
 translation = "내가 도움이 됐어?"
 
 [[dialogue]]
-speaker = "ウェンディ"
+speaker_original = "ウェンディ"
+speaker_translation = "웬디"
 original = "「やっぱり会長さんはお人好しですね。私の言ったことをあっさり信じるなんて」"
 translation = "「역시 회장님은 사람 좋으시네요. 제가 한 말을 덥석 믿어버리다니」"
 
 [[dialogue]]
-speaker = "ウェンディ"
+speaker_original = "ウェンディ"
+speaker_translation = "웬디"
 original = "「ペルソナなんて口実ですよ。私が会長さんに会いたかっただけです」"
 translation = "「페르소나 같은 건 핑계예요. 제가 회장님을 만나고 싶었을 뿐이에요」"
 
 [[dialogue]]
-speaker = "ウェンディ"
+speaker_original = "ウェンディ"
+speaker_translation = "웬디"
 original = "「おや、さすがに照れてますね。年上をからかうからそうなるんですよ。ふふふ」"
 translation = "「어라, 역시 부끄러워하시네요. 연상을 놀리니까 그렇게 되는 거예요. 후후후」"
 
 [[dialogue]]
-speaker = "ウェンディ"
+speaker_original = "ウェンディ"
+speaker_translation = "웬디"
 original = "「……最後にひとつ」"
 translation = "「……마지막으로 한 가지」"
 
 [[dialogue]]
-speaker = "ウェンディ"
+speaker_original = "ウェンディ"
+speaker_translation = "웬디"
 original = "「ネビュラにはネビュラの正義があります。星騎士には星騎士の正義があるでしょう」"
 translation = "「네뷸라에는 네뷸라의 정의가 있어요. 성기사에게는 성기사의 정의가 있겠죠」"
 
 [[dialogue]]
-speaker = "ウェンディ"
+speaker_original = "ウェンディ"
+speaker_translation = "웬디"
 original = "「だから、あなたはあなたの正義を貫いてください。私も譲る気はありませんから」"
 translation = "「그러니까, 당신은 당신의 정의를 관철해 주세요. 저도 양보할 생각은 없으니까요」"
 
 [[dialogue]]
-speaker = "ウェンディ"
+speaker_original = "ウェンディ"
+speaker_translation = "웬디"
 original = "「今は何のことかわからないでしょうが。いずれわかりますよ、そのうち」"
 translation = "「지금은 무슨 소린지 모르시겠지만. 조만간 알게 될 거예요, 머지않아」"
 
 [[dialogue]]
-speaker = "ウェンディ"
+speaker_original = "ウェンディ"
+speaker_translation = "웬디"
 original = "「では私は会社に戻ります。またお会いするかもしれませんね」"
 translation = "「그럼 저는 회사로 돌아가 볼게요. 또 뵐지도 모르겠네요」"
 

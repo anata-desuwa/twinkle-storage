@@ -4,12 +4,14 @@ original = "第２話,コラプサー襲撃？,P"
 translation = "제2화, 콜랩서 습격?, P"
 
 [[dialogue]]
-speaker = "イングリット"
+speaker_original = "イングリット"
+speaker_translation = "잉그리드"
 original = "「新星学園……ここが魔王の城か。魔王のくせに随分と小奇麗な場所に住んでいるんだな」"
 translation = "「신성학원…… 여기가 마왕의 성인가. 마왕 주제에 꽤나 깔끔한 곳에 살고 있군.」"
 
 [[dialogue]]
-speaker = "イングリット"
+speaker_original = "イングリット"
+speaker_translation = "잉그리드"
 original = "「まあいい、ひとまずこの校門を破壊して中に入るか」"
 translation = "「뭐 상관없지, 일단 이 교문을 파괴하고 들어갈까.」"
 
@@ -19,7 +21,8 @@ original = "よくないよくない"
 translation = "안 돼 안 돼."
 
 [[dialogue]]
-speaker = "イングリット"
+speaker_original = "イングリット"
+speaker_translation = "잉그리드"
 original = "「魔王。この私を迎えに来るとは殊勝な心掛けだな」"
 translation = "「마왕. 나를 마중 나오다니 기특한 마음가짐이로군.」"
 
@@ -29,17 +32,20 @@ original = "不審者が学園の前にいるって通報があったから"
 translation = "수상한 사람이 학원 앞에 있다는 신고가 들어왔거든."
 
 [[dialogue]]
-speaker = "イングリット"
+speaker_original = "イングリット"
+speaker_translation = "잉그리드"
 original = "「不審者？\u3000ヴァレリーならアジトにいたが……あいつのことじゃない？\u3000まぁいい」"
 translation = "「수상한 사람? 발레리라면 아지트에 있었다만…… 녀석을 말하는 건 아니겠지? 뭐 좋다.」"
 
 [[dialogue]]
-speaker = "イングリット"
+speaker_original = "イングリット"
+speaker_translation = "잉그리드"
 original = "「魔王よ。ここに私が来た理由は当然分かっているな？」"
 translation = "「마왕이여. 이곳에 내가 온 이유는 당연히 알고 있겠지?」"
 
 [[dialogue]]
-speaker = "イングリット"
+speaker_original = "イングリット"
+speaker_translation = "잉그리드"
 original = "「──そう、決闘だ。私と再び戦ってもらう。覚悟はいいか」"
 translation = "「──그래, 결투다. 나와 다시 한번 싸워줘야겠다. 각오는 되었나.」"
 
@@ -49,52 +55,62 @@ original = "悪いけど、ここでも戦えない"
 translation = "미안하지만 여기서도 못 싸워."
 
 [[dialogue]]
-speaker = "イングリット"
+speaker_original = "イングリット"
+speaker_translation = "잉그리드"
 original = "「なんだと？\u3000ここなら存分に暴れても問題ないだろう」"
 translation = "「뭐라고? 여기라면 마음껏 날뛰어도 문제없을 텐데.」"
 
 [[dialogue]]
-speaker = "イングリット"
+speaker_original = "イングリット"
+speaker_translation = "잉그리드"
 original = "「生徒が巻き込まれるのが問題……だと？\u3000ここにいるのは星騎士ばかりなのだろう？\u3000自分の身くらい自分で守れるんじゃないのか」"
 translation = "「학생들이 휘말리는 게 문제……라고? 여기에 있는 건 성기사들뿐이지 않나. 자기 몸 정도는 스스로 지킬 수 있는 거 아닌가.」"
 
 [[dialogue]]
-speaker = "イングリット"
+speaker_original = "イングリット"
+speaker_translation = "잉그리드"
 original = "「力のない星騎士は犠牲になるかもしれんが、まあ問題あるまい。弱き者は淘汰されて当然だ」"
 translation = "「힘없는 성기사는 희생될지도 모르지만, 뭐 상관없겠지. 약한 자는 도태되는 게 당연하다.」"
 
 [[dialogue]]
-speaker = "イングリット"
+speaker_original = "イングリット"
+speaker_translation = "잉그리드"
 original = "「……フン、誰か１人でも傷つくのは許せないといった顔だな。随分とお優しい魔王だ」"
 translation = "「……흥, 단 한 명이라도 다치는 건 용서할 수 없다는 얼굴이군. 꽤나 상냥한 마왕이야.」"
 
 [[dialogue]]
-speaker = "イングリット"
+speaker_original = "イングリット"
+speaker_translation = "잉그리드"
 original = "「だが貴様の考えなど私には関係ない。最初から貴様に選択権などないのだからな！」"
 translation = "「하지만 네 생각 따위 나에겐 관계없다. 처음부터 네놈에게 선택권 따위는 없었으니까!」"
 
 [[dialogue]]
-speaker = "フラン"
+speaker_original = "フラン"
+speaker_translation = "프랑"
 original = "「イングリット！！！」"
 translation = "「잉그리드!!!」"
 
 [[dialogue]]
-speaker = "イングリット"
+speaker_original = "イングリット"
+speaker_translation = "잉그리드"
 original = "「貴様……ああ、フランか」"
 translation = "「네놈…… 아아, 프랑인가.」"
 
 [[dialogue]]
-speaker = "フラン"
+speaker_original = "フラン"
+speaker_translation = "프랑"
 original = "「久しぶりだなイングリット！\u3000まさかコラプサーになってやがるとは思いもしなかったぜ！」"
 translation = "「오랜만이네 잉그리드! 설마 콜랩서가 되어 있을 줄은 꿈에도 몰랐다고!」"
 
 [[dialogue]]
-speaker = "イングリット"
+speaker_original = "イングリット"
+speaker_translation = "잉그리드"
 original = "「フン、更なる力を手に入れたまでだ。貴様も星騎士など辞めてコラプサーになってみるか？」"
 translation = "「흥, 더 강력한 힘을 손에 넣었을 뿐이다. 네놈도 성기사 따위 그만두고 콜랩서가 되어보겠나?」"
 
 [[dialogue]]
-speaker = "フラン"
+speaker_original = "フラン"
+speaker_translation = "프랑"
 original = "「ふざけるな！\u3000コラプサーになんてなるわけないだろ！」"
 translation = "「까불지 마! 콜랩서 따위가 될 리 없잖아!」"
 
@@ -104,82 +120,98 @@ original = "２人は知り合いなの？"
 translation = "둘이 아는 사이야?"
 
 [[dialogue]]
-speaker = "フラン"
+speaker_original = "フラン"
+speaker_translation = "프랑"
 original = "「ああ、オレとイングリットは同じ天界の武闘都市ウリルの出身だ。星騎士になる前はよくいろんな勝負してたんだが……」"
 translation = "「아아, 나랑 잉그리드는 같은 천계의 무투 도시 우릴 출신이야. 성기사가 되기 전엔 자주 여러 가지 승부를 겨뤘었는데……」"
 
 [[dialogue]]
-speaker = "イングリット"
+speaker_original = "イングリット"
+speaker_translation = "잉그리드"
 original = "「過去の話だ。私はもうあの頃とは違う」"
 translation = "「과거 이야기다. 나는 이제 그때와는 다르다.」"
 
 [[dialogue]]
-speaker = "フラン"
+speaker_original = "フラン"
+speaker_translation = "프랑"
 original = "「だろうな。コラプサーなんかになりやがって……！」"
 translation = "「그렇겠지. 콜랩서 같은 게 되어버리고 말이야……!」"
 
 [[dialogue]]
-speaker = "イングリット"
+speaker_original = "イングリット"
+speaker_translation = "잉그리드"
 original = "「私もコラプサーになりたくてなったわけではない。元は星騎士になるべく鍛錬をしていたのだからな」"
 translation = "「나도 콜랩서가 되고 싶어서 된 게 아니다. 원래는 성기사가 되기 위해 단련하고 있었으니까 말이다.」"
 
 [[dialogue]]
-speaker = "イングリット"
+speaker_original = "イングリット"
+speaker_translation = "잉그리드"
 original = "「だが……結果としてより強い力を得られたのだから、巡り会わせには感謝すべきかもな」"
 translation = "「하지만…… 결과적으로 더 강한 힘을 얻었으니, 이 만남에는 감사해야 할지도 모르겠군.」"
 
 [[dialogue]]
-speaker = "フラン"
+speaker_original = "フラン"
+speaker_translation = "프랑"
 original = "「けっ、そんなに強さが大事かよ」"
 translation = "「쳇, 그렇게 강함이 중요하냐.」"
 
 [[dialogue]]
-speaker = "イングリット"
+speaker_original = "イングリット"
+speaker_translation = "잉그리드"
 original = "「当たり前だ。強さこそが全てに優先される」"
 translation = "「당연하다. 강함이야말로 모든 것에 우선한다.」"
 
 [[dialogue]]
-speaker = "フラン"
+speaker_original = "フラン"
+speaker_translation = "프랑"
 original = "「そういうところは昔から変わんねえな！\u3000この戦闘狂の人格破綻者め！」"
 translation = "「그런 점은 예전부터 변하질 않는구나! 이 전투광 인격 파탄자 녀석!」"
 
 [[dialogue]]
-speaker = "イングリット"
+speaker_original = "イングリット"
+speaker_translation = "잉그리드"
 original = "「その通り、戦いこそが私の生きる理由だ！」"
 translation = "「그 말대로다, 전투야말로 내가 살아가는 이유다!」"
 
 [[dialogue]]
-speaker = "フラン"
+speaker_original = "フラン"
+speaker_translation = "프랑"
 original = "「褒めてねえよ！\u3000クソ、調子が狂うな……！」"
 translation = "「칭찬한 거 아니야! 젠장, 페이스가 꼬이네……!」"
 
 [[dialogue]]
-speaker = "イングリット"
+speaker_original = "イングリット"
+speaker_translation = "잉그리드"
 original = "「かかってこい、フラン。今の貴様が私に及ぶとは思わんが、魔王の前哨戦くらいにはなるだろう」"
 translation = "「덤벼라, 프랑. 지금의 네놈이 나에게 미칠 거라곤 생각지 않지만, 마왕의 전초전 정도는 되겠지.」"
 
 [[dialogue]]
-speaker = "フラン"
+speaker_original = "フラン"
+speaker_translation = "프랑"
 original = "「ケンカ売りやがって……！\u3000後悔させてやる！」"
 translation = "「싸움을 걸다니……! 후회하게 해주마!」"
 
 [[dialogue]]
-speaker = "イングリット"
+speaker_original = "イングリット"
+speaker_translation = "잉그리드"
 original = "「届かんな。貴様の実力はその程度か？」"
 translation = "「닿지 않는군. 네놈의 실력은 그 정도인가?」"
 
 [[dialogue]]
-speaker = "フラン"
+speaker_original = "フラン"
+speaker_translation = "프랑"
 original = "「まだまだ！\u3000これで終わりじゃねえぞ！」"
 translation = "「아직 멀었어! 이걸로 끝이 아니라고!」"
 
 [[dialogue]]
-speaker = "マトイ"
+speaker_original = "マトイ"
+speaker_translation = "마토이"
 original = "「会長！\u3000なんの騒ぎ！？」"
 translation = "「회장님! 무슨 소동이에요!?」"
 
 [[dialogue]]
-speaker = "アナ"
+speaker_original = "アナ"
+speaker_translation = "아나"
 original = "「何やら学園前で戦闘が起きているようですが」"
 translation = "「학원 앞에서 전투가 벌어지고 있는 모양입니다만.」"
 
@@ -189,37 +221,44 @@ original = "コラプサーが襲撃してきた"
 translation = "콜랩서가 습격해왔어."
 
 [[dialogue]]
-speaker = "マトイ"
+speaker_original = "マトイ"
+speaker_translation = "마토이"
 original = "「ええっ！？\u3000コラプサーがカチコミに！？」"
 translation = "「에엣!? 콜랩서가 쳐들어왔다고요!?」"
 
 [[dialogue]]
-speaker = "アナ"
+speaker_original = "アナ"
+speaker_translation = "아나"
 original = "「あそこでコラプサーと戦っているのは……フラン先輩ですね」"
 translation = "「저기서 콜랩서와 싸우고 있는 건…… 프랑 선배군요.」"
 
 [[dialogue]]
-speaker = "フラン"
+speaker_original = "フラン"
+speaker_translation = "프랑"
 original = "「はぁはぁ……あの頃よりやるようになったじゃねえか、イングリット……！」"
 translation = "「하아 하아…… 그때보다 제법 하게 됐잖아, 잉그리드……!」"
 
 [[dialogue]]
-speaker = "イングリット"
+speaker_original = "イングリット"
+speaker_translation = "잉그리드"
 original = "「貴様も思ったよりはやるようだな。あの頃のままではないようだ」"
 translation = "「네놈도 생각보다는 하는 모양이군. 그때 그대로인 건 아닌 것 같다.」"
 
 [[dialogue]]
-speaker = "フラン"
+speaker_original = "フラン"
+speaker_translation = "프랑"
 original = "「フン、余裕こきやがって！\u3000吠え面をかかせてやる！」"
 translation = "「흥, 여유 부리기는! 꼴사납게 울부짖게 해주마!」"
 
 [[dialogue]]
-speaker = "マトイ"
+speaker_original = "マトイ"
+speaker_translation = "마토이"
 original = "「うわわっ、すごい戦い！\u3000会長どうにかしないと！」"
 translation = "「우와와, 대단한 싸움! 회장님 어떻게든 해야 해요!」"
 
 [[dialogue]]
-speaker = "アナ"
+speaker_original = "アナ"
+speaker_translation = "아나"
 original = "「このままでは学園が崩壊してしまいます。早急に戦闘を止めましょう」"
 translation = "「이대로라면 학원이 붕괴해 버립니다. 조속히 전투를 중단시킵시다.」"
 
@@ -229,12 +268,14 @@ original = "校門の前で乱戦になるかと思ったその時──"
 translation = "교문 앞에서 난전이 벌어질 거라 생각한 그 순간──"
 
 [[dialogue]]
-speaker = "キサナ"
+speaker_original = "キサナ"
+speaker_translation = "키사나"
 original = "「テメェ何勝手なことしてやがる！」"
 translation = "「네놈 멋대로 뭐 하고 자빠졌냐!」"
 
 [[dialogue]]
-speaker = "イングリット"
+speaker_original = "イングリット"
+speaker_translation = "잉그리드"
 original = "「ぐはぁああっ！？」"
 translation = "「구하아앗!?」"
 

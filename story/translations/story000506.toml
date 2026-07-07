@@ -1,50 +1,60 @@
 [[dialogue]]
-speaker = "ルリエル"
+speaker_original = "ルリエル"
+speaker_translation = "루리엘"
 original = "「ばったんきゅぅぅ～……」"
 translation = "「꽈당큐우우～……」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「ルリエルっ……！」"
 translation = "「루리엘……!」"
 
 [[dialogue]]
-speaker = "ルリエル"
+speaker_original = "ルリエル"
+speaker_translation = "루리엘"
 original = "「フィオナ、会長……？\u3000わたしは一体何を……？」"
 translation = "「피오나, 회장님……? 저는 대체 뭘……?」"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「ふぅ、ようやく正気を取り戻したみたいね」"
 translation = "「휴, 겨우 제정신을 되찾은 것 같네」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「ごめんなさい、ルリエル……！\u3000あなたの悩みにちっとも気付いてあげられなくて……！」"
 translation = "「죄송합니다, 루리엘……! 당신의 고민을 전혀 눈치채 주지 못해서……!」"
 
 [[dialogue]]
-speaker = "ルリエル"
+speaker_original = "ルリエル"
+speaker_translation = "루리엘"
 original = "「ふえ？\u3000なんの話ですか？」"
 translation = "「후에? 무슨 이야기예요?」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「え？\u3000だから危険なモンスターと戦うことが嫌で、あなたは平行世界に逃げ込んで……」"
 translation = "「엣? 그러니까 위험한 몬스터와 싸우는 게 싫어서, 당신은 평행 세계로 도망쳐 들어와서……」"
 
 [[dialogue]]
-speaker = "ルリエル"
+speaker_original = "ルリエル"
+speaker_translation = "루리엘"
 original = "「逃げ込む……？\u3000あっ、あああっ……！！\u3000そーでした……！\u3000わたし、フィオナ会長のカップを割っちゃって──」"
 translation = "「도망쳐 들어와……? 앗, 아아앗……!! 그ー랬어요……! 제가, 피오나 회장님의 컵을 깨뜨려서──」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「私の……カップを？\u3000そういえばお気に入りのカップが１つ行方不明で……」"
 translation = "「제…… 컵을? 그러고 보니 아끼던 컵이 하나 행방불명인데……」"
 
 [[dialogue]]
-speaker = "ルリエル"
+speaker_original = "ルリエル"
+speaker_translation = "루리엘"
 original = "「ひゃあ！？\u3000は、犯人はわたしじゃありませんから！\u3000決して会長から逃げ回っていたわけじゃありませんよぉ！」"
 translation = "「햐아!? 버, 범인은 제가 아니니까요! 결코 회장님에게서 도망 다니고 있었던 건 아니에요!」"
 
@@ -54,47 +64,56 @@ original = "まさか彼女が言ってたモンスターって"
 translation = "설마 그녀가 말했던 몬스터가"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「……ええ。どうやらそのようね。大方フィオナから逃げだしたい気持ちをリクリエに付け込まれたんでしょ」"
 translation = "「……응. 아무래도 그런 것 같네. 대체로 피오나에게서 도망치고 싶은 마음을 리크리에에게 이용당한 거겠지」"
 
 [[dialogue]]
-speaker = "聖沙"
+speaker_original = "聖沙"
+speaker_translation = "미사"
 original = "「人騒がせな人ね……」"
 translation = "「사람을 소란스럽게 하는 사람이네……」"
 
 [[dialogue]]
-speaker = "リア"
+speaker_original = "リア"
+speaker_translation = "리아"
 original = "「あ、あはは。でも正気に戻ってくれたみたいで良かったよ」"
 translation = "「아, 아하하. 그래도 제정신으로 돌아와 준 것 같아서 다행이야」"
 
 [[dialogue]]
-speaker = "マグダレナ"
+speaker_original = "マグダレナ"
+speaker_translation = "막달레나"
 original = "「ええ。これでもう彼女に認識を改変されることはないでしょう」"
 translation = "「네. 이제 그녀에게 인식이 개변되는 일은 없을 것입니다」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「コ、コホン。断っておきますが、私はカップ１つ割られたくらいで怒りませんよ」"
 translation = "「코, 콜록. 미리 말해두지만, 저는 컵 하나 깨졌다고 화내지 않습니다」"
 
 [[dialogue]]
-speaker = "ルリエル"
+speaker_original = "ルリエル"
+speaker_translation = "루리엘"
 original = "「本当ですかぁ！？\u3000実は割っちゃいました！\u3000ごめんなさい！\u3000でも弁償はできません！！\u3000お金ありません！！」"
 translation = "「정말인가요!? 실은 깨뜨렸어요! 죄송합니다! 하지만 변상은 못 해요!! 돈 없어요!!」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「そこまで打って変わられると思うところはありますが……」"
 translation = "「그렇게까지 태도가 돌변할 줄은 생각했지만……」"
 
 [[dialogue]]
-speaker = "ルリエル"
+speaker_original = "ルリエル"
+speaker_translation = "루리엘"
 original = "「ひええ！？\u3000騙し討ちなんてヒドいですぅ～！？」"
 translation = "「히에에!? 속임수라니 너무해요～!?」"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「ともかくこれで万事解決ね。あとは元の世界に戻る方法を──って」"
 translation = "「어쨌든 이걸로 만사 해결이네. 이제 원래 세계로 돌아갈 방법을── 이라고」"
 
@@ -104,47 +123,56 @@ original = "ヴィーナスの日誌が！"
 translation = "비너스의 일지가!"
 
 [[dialogue]]
-speaker = "リア"
+speaker_original = "リア"
+speaker_translation = "리아"
 original = "「私たちのロザリオも……！\u3000まさかこれってヴィーナスちゃんたちがこっちの世界に来た時に起きたって話していた──」"
 translation = "「우리들의 로자리오도……! 설마 이것이 비너스짱들이 이쪽 세계에 왔을 때 일어났다고 이야기했던──」"
 
 [[dialogue]]
-speaker = "聖沙"
+speaker_original = "聖沙"
+speaker_translation = "미사"
 original = "「ちょっ、えっ！？\u3000つまりこのままだと私たちまで──」"
 translation = "「잠깐, 엣!? 즉 이대로라면 우리까지──」"
 
 [[dialogue]]
-speaker = "聖沙"
+speaker_original = "聖沙"
+speaker_translation = "미사"
 original = "「きゃあああああっっ～！！」"
 translation = "「꺄아아아아앗～!!」"
 
 [[dialogue]]
-speaker = "リア"
+speaker_original = "リア"
+speaker_translation = "리아"
 original = "「こ、ここは……？」"
 translation = "「여, 여기는……?」"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「流星学園前、かしら。私たちの世界のね。どうやら元の世界に戻ってこられたみたい」"
 translation = "「유성 학원 앞, 인가. 우리 세계의 말이야. 아무래도 원래 세계로 돌아온 것 같네」"
 
 [[dialogue]]
-speaker = "聖沙"
+speaker_original = "聖沙"
+speaker_translation = "미사"
 original = "「でも、どうして私たちまで……。ロザリオが光ったってことは守護天使様の御意志なのかしら……」"
 translation = "「하지만, 왜 우리까지……. 로자리오가 빛났다는 건 수호 천사님의 뜻인 걸까……」"
 
 [[dialogue]]
-speaker = "マグダレナ"
+speaker_original = "マグダレナ"
+speaker_translation = "막달레나"
 original = "「かもしれませんね。妙な気配を感じます。あちらの世界でルリエルさまに感じていたような、リクリエの気配を」"
 translation = "「그럴지도 모르겠네요. 이상한 기운을 느낍니다. 저쪽 세계에서 루리엘 님께 느꼈던 것 같은, 리크리에의 기운을」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「つまりこちらの世界でも誰かがルリエルのようにおかしくなってしまっている、ということですか？」"
 translation = "「즉 이쪽 세계에서도 누군가가 루리엘 씨처럼 이상해져 버렸다는, 뜻인가요?」"
 
 [[dialogue]]
-speaker = "ルリエル"
+speaker_original = "ルリエル"
+speaker_translation = "루리엘"
 original = "「わたしはおかしくなんてなってませんよぉ！\u3000人聞きが悪いですぅ！」"
 translation = "「저는 이상해지거나 하지 않았어요! 듣기 안 좋아요!」"
 
@@ -154,72 +182,86 @@ original = "「ギニャ～～～ッ！？」"
 translation = "「기냐아아아앗～!?」"
 
 [[dialogue]]
-speaker = "ルリエル"
+speaker_original = "ルリエル"
+speaker_translation = "루리엘"
 original = "「ひゃひ！？\u3000今度はなんですかぁ～！？」"
 translation = "「햣히!? 이번엔 또 뭐예요～!?」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「星徒会室の方からです！\u3000しかも今の声は……！」"
 translation = "「성도회실 쪽에서입니다! 게다가 방금 목소리는……!」"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「とにかく向かうわよ！」"
 translation = "「어쨌든 가자!」"
 
 [[dialogue]]
-speaker = "ニャリオン"
+speaker_original = "ニャリオン"
+speaker_translation = "냐리온"
 original = "「あんニャ変なパンダに、ワガハイがぁ……」"
 translation = "「이런냐 변한냐 팬더에게, 나 님이아……」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「ニャリオン……！\u3000やっぱりさっきの悲鳴はあなただったのね……！」"
 translation = "「냐리온……! 역시 방금 비명은 당신이었군요……!」"
 
 [[dialogue]]
-speaker = "ニャリオン"
+speaker_original = "ニャリオン"
+speaker_translation = "냐리온"
 original = "「うぅ、フィオナ嬢……！\u3000ワガハイはマスコット失格ニャ……！\u3000あんニャ変なパンダにやられ──」"
 translation = "「으으, 피오나 양……! 나 님은 마스코트 실격냐……! 이런냐 변한냐 팬더에게 당해──」"
 
 [[dialogue]]
-speaker = "聖沙"
+speaker_original = "聖沙"
+speaker_translation = "미사"
 original = "「きゃあああっっ～～！！\u3000可愛いぃぃ～～！！」"
 translation = "「꺄아아아아～～!! 귀여워어어～～!!」"
 
 [[dialogue]]
-speaker = "ニャリオン"
+speaker_original = "ニャリオン"
+speaker_translation = "냐리온"
 original = "「グニャニャニャ！！？」"
 translation = "「그냐냐냐!!?」"
 
 [[dialogue]]
-speaker = "聖沙"
+speaker_original = "聖沙"
+speaker_translation = "미사"
 original = "「見てください、先輩！\u3000喋る猫ですよ、喋る猫！」"
 translation = "「봐, 선배! 말하는 고양이야, 말하는 고양이!」"
 
 [[dialogue]]
-speaker = "リア"
+speaker_original = "リア"
+speaker_translation = "리아"
 original = "「落ち着いて聖沙ちゃん！\u3000絞まってる！\u3000絞まっちゃってる！！」"
 translation = "「진정해 미사짱! 조르고 있어! 졸려 버리고 있잖아!!」"
 
 [[dialogue]]
-speaker = "聖沙"
+speaker_original = "聖沙"
+speaker_translation = "미사"
 original = "「ハっ！？\u3000ご、ごめんなさい！」"
 translation = "「핫!? 미, 미안해!」"
 
 [[dialogue]]
-speaker = "ニャリオン"
+speaker_original = "ニャリオン"
+speaker_translation = "냐리온"
 original = "「さ、散々ニャ一日ニャ……！\u3000というか誰ニャ、この無礼なおんニャは……」"
 translation = "「사, 산산냐 조각난냐 하루냐……! 아니 그보다 누구냐, 이 무례한 여자냐……」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「説明は後よ。それより誰にやられたのっ？」"
 translation = "「설명은 나중이야. 그보다 누구에게 당한 거야?」"
 
 [[dialogue]]
-speaker = "ニャリオン"
+speaker_original = "ニャリオン"
+speaker_translation = "냐리온"
 original = "「そ、そこの男の使い魔ニャ……！\u3000フィオナ嬢、気を付けるニャ……！\u3000その男は危険ニャ……！！」"
 translation = "「저, 저기 있는 남자의 사역마냐……! 피오나 양, 조심할냐……! 그 남자는 위험냐……!!」"
 
@@ -229,157 +271,188 @@ original = "俺の使い魔？"
 translation = "내 사역마?"
 
 [[dialogue]]
-speaker = "ニャリオン"
+speaker_original = "ニャリオン"
+speaker_translation = "냐리온"
 original = "「とぼけるんじゃニャい！！\u3000確かに魔王の使い魔と名乗っていたニャ！！」"
 translation = "「시치미 떼지 말냐!! 분명 마왕의 사역마라고 자칭하고 있었냐!!」"
 
 [[dialogue]]
-speaker = "聖沙"
+speaker_original = "聖沙"
+speaker_translation = "미사"
 original = "「魔王の……」"
 translation = "「마왕의……」"
 
 [[dialogue]]
-speaker = "リア"
+speaker_original = "リア"
+speaker_translation = "리아"
 original = "「使い魔……？」"
 translation = "「사역마……?」"
 
 [[dialogue]]
-speaker = "ニャリオン"
+speaker_original = "ニャリオン"
+speaker_translation = "냐리온"
 original = "「奇妙なパンダのぬいぐるみだったニャ……！\u3000新星学園に向かったところを見ても魔王の使い魔に間違いないニャ……！」"
 translation = "「기묘한 팬더 인형이었냐……! 신성 학원으로 향한 것을 봐도 마왕의 사역마임에 틀림없냐……!」"
 
 [[dialogue]]
-speaker = "聖沙"
+speaker_original = "聖沙"
+speaker_translation = "미사"
 original = "「なんとなくわかりましたね……私たちがこの世界に呼ばれた理由」"
 translation = "「어렴풋이 알았어…… 우리가 이 세계에 불린 이유를」"
 
 [[dialogue]]
-speaker = "リア"
+speaker_original = "リア"
+speaker_translation = "리아"
 original = "「うん……連れ戻せってことなんだろうな」"
 translation = "「응…… 데려오라는 거겠지」"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「もしかして二人とも心当たりがあるの？」"
 translation = "「혹시 둘 다 짐작 가는 데가 있는 거야?」"
 
 [[dialogue]]
-speaker = "聖沙"
+speaker_original = "聖沙"
+speaker_translation = "미사"
 original = "「詳しくは走りながら説明するわ。今は被害が広がる前に、後を追いかけましょ！」"
 translation = "「자세한 건 뛰면서 설명할게. 지금은 피해가 확산되기 전에, 뒤를 쫓아가자!」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「大賢者パッキー……その方がニャリオンをあんな目に」"
 translation = "「대현자 팟키…… 그분이 냐리온을 저런 꼴로 만들다니」"
 
 [[dialogue]]
-speaker = "ルリエル"
+speaker_original = "ルリエル"
+speaker_translation = "루리엘"
 original = "「すっごくヘコんでましたね～。人知れずマスコットバトルに負けたのが相当悔しかったみたいです」"
 translation = "「엄청 풀이 죽어 있었어요오～。 남몰래 마스코트 배틀에서 진 것이 상당히 분했던 것 같아요오」"
 
 [[dialogue]]
-speaker = "リア"
+speaker_original = "リア"
+speaker_translation = "리아"
 original = "「気を付けた方がいいよ。隙あらばおっぱいに飛び込んでくるから」"
 translation = "「조심하는 게 좋을 거야. 틈만 나면 가슴에 달려들 테니까」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「は、破廉恥ですね。警戒を怠らないようにしなければ」"
 translation = "「하, 파렴치하네요. 경계를 게을리하지 않도록 해야겠어요」"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「巨乳好きって話なんだし、私はともかくフィオナは心配ないでしょ。あとルリエルもね」"
 translation = "「거유를 좋아한다는 이야기고, 나는 몰라도 피오나는 걱정 없겠지. 그리고 루리엘도 말이야」"
 
 [[dialogue]]
-speaker = "ルリエル"
+speaker_original = "ルリエル"
+speaker_translation = "루리엘"
 original = "「ややっ！？\u3000聞き捨てなりません！！」"
 translation = "「야얏!? 그냥 넘어갈 수 없어요오!!」"
 
 [[dialogue]]
-speaker = "マグダレナ"
+speaker_original = "マグダレナ"
+speaker_translation = "막달레나"
 original = "「み、皆さま、もう少しゆっくり走っていただける、と……！（ぶるん、ぶるん）」"
 translation = "「모, 모두, 조금만 더 천천히 달려 주실 수 있을까요, 라고……! (부르릉, 부르릉)」"
 
 [[dialogue]]
-speaker = "ルリエル"
+speaker_original = "ルリエル"
+speaker_translation = "루리엘"
 original = "「うぅ、わたしも揺れるおっぱいが欲しいですぅ～！\u3000逆にそのパンダさんに飛びつかれたいですよぉ～……！」"
 translation = "「으으, 저도 흔들리는 가슴이 갖고 싶어요오～! 오히려 그 팬더 씨에게 달려들고 싶어요오～……!」"
 
 [[dialogue]]
-speaker = "聖沙"
+speaker_original = "聖沙"
+speaker_translation = "미사"
 original = "「にしてもパッキーさんはどこに……！\u3000被害が出る前に捕まえないと……！」"
 translation = "「그나저나 팟키 씨는 어디에……! 피해가 나오기 전에 잡아야 해……!」"
 
 [[dialogue]]
-speaker = "サーシャ"
+speaker_original = "サーシャ"
+speaker_translation = "사샤"
 original = "「そんなに大慌てでどうしたの～？」"
 translation = "「그렇게 허둥지둥대며 무슨 일이야～?」"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「サーシャさん！\u3000この辺りでパンダのぬいぐるみを見かけなかったかしらっ？」"
 translation = "「사샤 씨! 이 근처에서 팬더 인형을 보지 못했어?」"
 
 [[dialogue]]
-speaker = "サーシャ"
+speaker_original = "サーシャ"
+speaker_translation = "사샤"
 original = "「パンダのぬいぐるみ？\u3000ああ、さっき胸に飛びついてきた子のことかしら～？」"
 translation = "「팬더 인형? 아아, 방금 가슴에 달려든 아이 말인가아～?」"
 
 [[dialogue]]
-speaker = "聖沙"
+speaker_original = "聖沙"
+speaker_translation = "미사"
 original = "「遅かったわ……！\u3000もう被害者が……！」"
 translation = "「늦었어……! 벌써 피해자가……!」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「少なくともあのくらいのサイズがないとダメみたいですね……」"
 translation = "「적어도 저 정도 크기가 아니면 안 되는 것 같네요……」"
 
 [[dialogue]]
-speaker = "ルリエル"
+speaker_original = "ルリエル"
+speaker_translation = "루리엘"
 original = "「絶望的ですぅ！！」"
 translation = "「절망적이에요오!!」"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「あなたたちは飛びつかれたいのか飛びつかれたくないのか、どっちなのよ……」"
 translation = "「너희들은 달려들고 싶은 거야, 달려들고 싶지 않은 거야, 어느 쪽이야……」"
 
 [[dialogue]]
-speaker = "リア"
+speaker_original = "リア"
+speaker_translation = "리아"
 original = "「何かされませんでしたか？\u3000セクハラ染みたこととか……」"
 translation = "「무슨 일 당하지 않았어? 성희롱 같은 거라든가……」"
 
 [[dialogue]]
-speaker = "サーシャ"
+speaker_original = "サーシャ"
+speaker_translation = "사샤"
 original = "「ん～……。特にそういったことは。胸をモミモミしながらクールにお茶へ誘ってくれたわ～」"
 translation = "「음～……. 딱히 그런 건. 가슴을 주물주물하면서 쿨하게 차 마시러 가자고 권유해 줬어～」"
 
 [[dialogue]]
-speaker = "聖沙"
+speaker_original = "聖沙"
+speaker_translation = "미사"
 original = "「立派なセクハラよ！」"
 translation = "「훌륭한 성희롱이야!」"
 
 [[dialogue]]
-speaker = "リア"
+speaker_original = "リア"
+speaker_translation = "리아"
 original = "「この分じゃおっぱいの大きい子を片っ端から口説いてそうだね……」"
 translation = "「이대로라면 가슴 큰 애들을 닥치는 대로 꼬시고 다니겠네……」"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「そのエロパンダがどちらへ向かったかわかります？」"
 translation = "「그 에로 팬더가 어디로 향했는지 알아?」"
 
 [[dialogue]]
-speaker = "サーシャ"
+speaker_original = "サーシャ"
+speaker_translation = "사샤"
 original = "「たぶん校舎に入っていったと思うけれど～」"
 translation = "「아마 교사로 들어갔다고 생각하는데에～」"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「校舎ね！\u3000急ぐわよ、みんな！」"
 translation = "「교사네! 서두르자, 모두!」"
 
@@ -389,27 +462,32 @@ original = "ちょっと待った！"
 translation = "잠깐 기다려!"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「どうして学園の敷地にモンスターが……！」"
 translation = "「어째서 학원 부지에 몬스터가……!」"
 
 [[dialogue]]
-speaker = "マグダレナ"
+speaker_original = "マグダレナ"
+speaker_translation = "막달레나"
 original = "「これもパッキーという方の仕業みたいですね。私たちを足止めするためにモンスターを呼び寄せているようです」"
 translation = "「이것도 팟키라는 분의 소행인 것 같네요. 저희를 발목 잡기 위해 몬스터를 불러 모으고 있는 듯합니다」"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「どれだけ胸を揉みたいのよ、そのパッキーとかいう使い魔は……！」"
 translation = "「대체 얼마나 가슴을 주무르고 싶은 거야, 그 팟키라는 사역마는……!」"
 
 [[dialogue]]
-speaker = "リア"
+speaker_original = "リア"
+speaker_translation = "리아"
 original = "「とにかく倒そう！\u3000パーちゃんより、こっちの方がよっぽど危険そうだもん！」"
 translation = "「어쨌든 쓰러뜨리자! 파짱보다, 이쪽이 훨씬 위험해 보이잖아!」"
 
 [[dialogue]]
-speaker = "聖沙"
+speaker_original = "聖沙"
+speaker_translation = "미사"
 original = "「ああもう咲良クンったら……！\u3000パッキーさんから目を離しちゃうなんて、後でお説教ね……！」"
 translation = "「아아 정말 사쿠라 군은……! 팟키 씨에게서 눈을 떼다니, 나중에 설교해야겠네……!」"
 

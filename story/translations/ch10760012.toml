@@ -4,12 +4,14 @@ original = "第２話,モナカとお花のお友達,P"
 translation = "제2화, 모나카와 꽃 친구들, P"
 
 [[dialogue]]
-speaker = "モナカ"
+speaker_original = "モナカ"
+speaker_translation = "모나카"
 original = "「ソニックスワールっ！」"
 translation = "「소닉 스월!」"
 
 [[dialogue]]
-speaker = "モナカ"
+speaker_original = "モナカ"
+speaker_translation = "모나카"
 original = "「ふぅ……。なんとかやっつけられた……」"
 translation = "「후우…… 겨우 해치웠다……」"
 
@@ -19,27 +21,32 @@ original = "モナカのプリマステラっぷりも板に付いてきたね"
 translation = "모나카의 프리마스텔라다운 모습도 이제 제법 익숙해졌네."
 
 [[dialogue]]
-speaker = "モナカ"
+speaker_original = "モナカ"
+speaker_translation = "모나카"
 original = "「そ、そんなことないよ。モナカなんかまだまだだから。にぃ様が一緒に戦ってくれるから落ち着いて力を制御できてるだけで」"
 translation = "「그, 그렇지 않아. 모나카 따위는 아직 한참 멀었으니까. 오라버니가 같이 싸워주니까 침착하게 힘을 제어할 수 있는 것뿐이지.」"
 
 [[dialogue]]
-speaker = "モナカ"
+speaker_original = "モナカ"
+speaker_translation = "모나카"
 original = "「でもモンスター退治をお手伝いできるようになったことは嬉しいな……。やっとモナカもみんなの笑顔を守るために戦えるようになれたんだ」"
 translation = "「하지만 몬스터 퇴치를 도울 수 있게 된 건 기뻐……. 드디어 모나카도 모두의 미소를 지키기 위해 싸울 수 있게 됐어.」"
 
 [[dialogue]]
-speaker = "モナカ"
+speaker_original = "モナカ"
+speaker_translation = "모나카"
 original = "「えへへ、モナカ、もっともっと頑張るね？\u3000今よりもっとたくさんの人の笑顔を守れるように」"
 translation = "「에헤헤, 모나카 더욱더 열심히 할게? 지금보다 더 많은 사람의 미소를 지킬 수 있도록.」"
 
 [[dialogue]]
-speaker = "モナカ"
+speaker_original = "モナカ"
+speaker_translation = "모나카"
 original = "「それじゃ帰ろう──……って、あれ？\u3000にぃ様、指から血が出てるよ……？\u3000どこかで切っちゃった？」"
 translation = "「그럼 돌아가자──…… 어라? 오라버니, 손가락에서 피가 나고 있어……? 어디서 베였어?」"
 
 [[dialogue]]
-speaker = "モナカ"
+speaker_original = "モナカ"
+speaker_translation = "모나카"
 original = "「じっとしてて？\u3000これくらいなら──ん……ちゅっ、ちゅうぅ、ぺろろ……」"
 translation = "「가만히 있어 봐? 이 정도라면── 음…… 츄웁, 츄우, 낼름……」"
 
@@ -49,37 +56,44 @@ original = "モ、モナカ……！？"
 translation = "모, 모나카……!?"
 
 [[dialogue]]
-speaker = "モナカ"
+speaker_original = "モナカ"
+speaker_translation = "모나카"
 original = "「ぺろ……んちゅぅ……。ふぇ……？\u3000～～っっ！？」"
 translation = "「낼름…… 츄웁……. 후에……? ～～윽!?」"
 
 [[dialogue]]
-speaker = "モナカ"
+speaker_original = "モナカ"
+speaker_translation = "모나카"
 original = "「ご、ごめんなさい、つい……！\u3000これくらいの怪我ならチュウチュウすれば止まると思って……！\u3000モナカもよくドジして指切っちゃうから……！」"
 translation = "「죄, 죄송해요, 나도 모르게……! 이 정도 상처라면 쪽쪽 빨면 멎을 거라고 생각해서……! 모나카도 자주 덜렁대다 손가락을 베이곤 하니까……!」"
 
 [[dialogue]]
-speaker = "モナカ"
+speaker_original = "モナカ"
+speaker_translation = "모나카"
 original = "「あうぅ、ば、ばっちかったよね……！\u3000気持ち悪かったよね……！\u3000ほ、本当にごめんなさいっ……！」"
 translation = "「아우우, 더, 더러웠지……! 기분 나빴지……! 저, 정말로 죄송해요……!」"
 
 [[dialogue]]
-speaker = "モナカ"
+speaker_original = "モナカ"
+speaker_translation = "모나카"
 original = "「はう……どうしよう。とんでもないことしちゃった……」"
 translation = "「하우…… 어쩌지. 엄청난 짓을 해버렸어……」"
 
 [[dialogue]]
-speaker = "モナカ"
+speaker_original = "モナカ"
+speaker_translation = "모나카"
 original = "「嫌われちゃったかも……。せっかくにぃ様と少しずつ仲良しになってきたと思ってたところだったのに……」"
 translation = "「미움받았을지도 몰라……. 어렵게 오라버니랑 조금씩 친해졌다고 생각하던 참이었는데……」"
 
 [[dialogue]]
-speaker = "モナカ"
+speaker_original = "モナカ"
+speaker_translation = "모나카"
 original = "「……え？\u3000そ、そうかな？\u3000気にしてない、かな？\u3000でもやっぱり……。えっ、そ、それはないよ、絶対ないよ……！」"
 translation = "「……에? 그, 그럴까? 신경 안 써, 주나? 하지만 역시……. 엣, 그, 그럴 리 없어, 절대 없어……!」"
 
 [[dialogue]]
-speaker = "モナカ"
+speaker_original = "モナカ"
+speaker_translation = "모나카"
 original = "「あんまりモナカをからかうと、お水あげないよ？\u3000だ、だってみんなしておかしなこと言うからっ」"
 translation = "「자꾸 모나카를 놀리면 물 안 줄 거야! 다, 다들 이상한 소리만 하니까 그렇죠.」"
 
@@ -89,47 +103,56 @@ original = "（モナカが誰かと話してる……？）"
 translation = "(모나카가 누군가와 대화하고 있어……?)"
 
 [[dialogue]]
-speaker = "モナカ"
+speaker_original = "モナカ"
+speaker_translation = "모나카"
 original = "「あ、あう。モナカは可愛くなんかないよ。みんなの方がよっぽど可愛いから」"
 translation = "「아, 아우. 모나카는 귀엽지 않아. 너희들이 훨씬 더 귀여우니까.」"
 
 [[dialogue]]
-speaker = "モナカ"
+speaker_original = "モナカ"
+speaker_translation = "모나카"
 original = "「みんなをにぃ様との仲直りに……？\u3000でも、みんなに悪いよ……。あう、そこまで言ってくれるなら……」"
 translation = "「너희들이 오라버니와의 화해를……? 하지만 너희들한테 미안해……. 아우, 그렇게까지 말해준다면……」"
 
 [[dialogue]]
-speaker = "モナカ"
+speaker_original = "モナカ"
+speaker_translation = "모나카"
 original = "「なら代わりに、たくさん美味しいお水あげるねっ？\u3000最近ね、前よりもずっと美味しいお水を出せるようになったんだぁ」"
 translation = "「그럼 대신에 맛있는 물 잔뜩 줄게? 요즘 말이야, 전보다 훨씬 맛있는 물을 줄 수 있게 됐거든.」"
 
 [[dialogue]]
-speaker = "モナカ"
+speaker_original = "モナカ"
+speaker_translation = "모나카"
 original = "「これもにぃ様がトレーニングに付き合ってくれたおかげなんだよ。少しずつだけど前より星力のコントロールも上手になってきて」"
 translation = "「이것도 오라버니가 훈련을 도와준 덕분이야. 조금씩이지만 전보다 성력 컨트롤도 능숙해졌고.」"
 
 [[dialogue]]
-speaker = "モナカ"
+speaker_original = "モナカ"
+speaker_translation = "모나카"
 original = "「あ、そうだっ。今日ね、にぃ様がねっ。モナカのプリマステラっぷりも板についてきたねって言ってくれて。えへへ、すごく嬉しかったんだぁ」"
 translation = "「아, 맞다. 오늘 있지, 오라버니가 말이야. 모나카의 프리마스텔라다운 모습도 제법 익숙해졌다고 해줬어. 에헤헤, 정말 기뻤어.」"
 
 [[dialogue]]
-speaker = "モナカ"
+speaker_original = "モナカ"
+speaker_translation = "모나카"
 original = "「それとね、この間なんてにぃ様に──……ふぇ？\u3000後ろ……？\u3000後ろがどうかしたの？」"
 translation = "「그리고 또, 요전번엔 오라버니가──…… 후에? 뒤……? 뒤가 왜?」"
 
 [[dialogue]]
-speaker = "モナカ"
+speaker_original = "モナカ"
+speaker_translation = "모나카"
 original = "「ひぃあっ！？\u3000に、にぃ様……！？\u3000いつからそこに……！？」"
 translation = "「히익!? 오, 오라버니……!? 언제부터 거기에……!?」"
 
 [[dialogue]]
-speaker = "モナカ"
+speaker_original = "モナカ"
+speaker_translation = "모나카"
 original = "「あの、えと、これは……！\u3000１人で喋ってたわけじゃなくて……！\u3000花壇のお花さんとね、お話ししてたのっ」"
 translation = "「저기, 에토, 이건……! 혼자서 떠들고 있던 게 아니라……! 화단의 꽃님들이랑 대화하고 있었어.」"
 
 [[dialogue]]
-speaker = "モナカ"
+speaker_original = "モナカ"
+speaker_translation = "모나카"
 original = "「カティアちゃんや……たまにマリーベルさんとお水やりしてるんだけど、ここのお花さんたち、モナカのお友達で……！」"
 translation = "「카티아 짱이나…… 가끔 마리벨 씨랑 물을 주고 있는데, 여기 꽃님들, 모나카의 친구라서……!」"
 
@@ -139,47 +162,56 @@ original = "花と話せるんだ。モナカはすごいな"
 translation = "꽃과 대화할 수 있구나. 모나카는 대단하네."
 
 [[dialogue]]
-speaker = "モナカ"
+speaker_original = "モナカ"
+speaker_translation = "모나카"
 original = "「そ、そんなことないよっ。お花さんとお友達になれば、誰だってお話できると思うしっ……」"
 translation = "「그, 그렇지 않아. 꽃님이랑 친구가 되면 누구든 대화할 수 있을 거라 생각하고……」"
 
 [[dialogue]]
-speaker = "モナカ"
+speaker_original = "モナカ"
+speaker_translation = "모나카"
 original = "「モナカは、えと。小さい頃からお花さんとお話する機会が多かっただけで」"
 translation = "「모나카는, 에토. 어릴 때부터 꽃님이랑 대화할 기회가 많았을 뿐이야.」"
 
 [[dialogue]]
-speaker = "モナカ"
+speaker_original = "モナカ"
+speaker_translation = "모나카"
 original = "「お家にいた頃はメイドさんみたいなことをしてたの。モナカの実力じゃお稽古に混ざっても仕方ないって言われちゃってたから」"
 translation = "「집에 있을 때는 메이드 같은 일을 했었어. 모나카의 실력으로는 훈련에 껴봤자 소용없다는 소릴 들었었으니까.」"
 
 [[dialogue]]
-speaker = "モナカ"
+speaker_original = "モナカ"
+speaker_translation = "모나카"
 original = "「だから実家の花壇のお世話もモナカがしてたんだ。あ、でもお世話してもらってたのはモナカの方かも……」"
 translation = "「그래서 집 화단 돌보는 것도 모나카가 했었어. 아, 하지만 돌봄을 받은 건 모나카 쪽이었을지도……」"
 
 [[dialogue]]
-speaker = "モナカ"
+speaker_original = "モナカ"
+speaker_translation = "모나카"
 original = "「毎日のようにお花さんたちに色々な相談をしちゃったりして。その度にお花さんたちはモナカのこと勇気づけてくれて……」"
 translation = "「매일같이 꽃님들에게 이런저런 상담을 하곤 했거든. 그럴 때마다 꽃님들은 모나카를 격려해 줬어……」"
 
 [[dialogue]]
-speaker = "モナカ"
+speaker_original = "モナカ"
+speaker_translation = "모나카"
 original = "「モナカにお世話されるのが一番嬉しいって言ってくれたりしてね？\u3000屋根裏部屋で寝起きすることになった時も甘い香りを部屋まで届けてくれたりして……」"
 translation = "「모나카가 돌봐주는 게 가장 기쁘다고 말해준다거나 말이야? 다락방에서 지내게 됐을 때도 달콤한 향기를 방까지 보내주기도 하고……」"
 
 [[dialogue]]
-speaker = "モナカ"
+speaker_original = "モナカ"
+speaker_translation = "모나카"
 original = "「今こうしてモナカがここにいるのも、お花さんたちのおかげかも。パルちゃんやシフォンちゃんと出会わせてくれたのもお花さんたちだったし」"
 translation = "「지금 이렇게 모나카가 여기에 있는 것도 꽃님들 덕분일지도 몰라. 파르 짱이나 시퐁 짱을 만나게 해준 것도 꽃님들이었으니까.」"
 
 [[dialogue]]
-speaker = "モナカ"
+speaker_original = "モナカ"
+speaker_translation = "모나카"
 original = "「だから、その。今でも何かあるとつい相談しちゃって……。お花さんたち、すごく聞き上手で口下手なモナカの話もじっと聞いてくれるから」"
 translation = "「그래서, 그. 지금도 무슨 일이 있으면 나도 모르게 상담하게 돼서……. 꽃님들, 정말 이야기를 잘 들어주거든. 말주변 없는 모나카의 이야기도 가만히 들어주니까.」"
 
 [[dialogue]]
-speaker = "モナカ"
+speaker_original = "モナカ"
+speaker_translation = "모나카"
 original = "「そ、そうだ、にぃ様……。さっきはごめんなさい……。怪我してるからって、モナカ、その、にぃ様の指を……」"
 translation = "「마, 맞다, 오라버니……. 아까는 죄송했어요……. 다쳤다고 해서 모나카가 그, 오라버니의 손가락을……」"
 
@@ -189,32 +221,38 @@ original = "そのお礼を言いに来たんだった"
 translation = "그 답례를 하러 온 거였어."
 
 [[dialogue]]
-speaker = "モナカ"
+speaker_original = "モナカ"
+speaker_translation = "모나카"
 original = "「え……お礼？\u3000てっきりモナカ、にぃ様に嫌われちゃったかと思って……」"
 translation = "「에…… 답례? 모나카는 당연히 오라버니한테 미움받은 줄 알고……」"
 
 [[dialogue]]
-speaker = "モナカ"
+speaker_original = "モナカ"
+speaker_translation = "모나카"
 original = "「お礼を言うためにわざわざ追いかけてきてくれたの……？\u3000モナカが気にしてると思って……？」"
 translation = "「답례를 하려고 일부러 쫓아와 준 거야……? 모나카가 신경 쓰고 있을까 봐……?」"
 
 [[dialogue]]
-speaker = "モナカ"
+speaker_original = "モナカ"
+speaker_translation = "모나카"
 original = "「え、えへへ。お花さんたちの言う通りだった。お花さんたちもね、言ってくれてたんだ。にぃ様は何も気にしてなんかないよって……」"
 translation = "「에, 에헤헤. 꽃님들 말이 맞았어. 꽃님들도 그랬거든. 오라버니는 아무것도 신경 쓰지 않을 거라고……」"
 
 [[dialogue]]
-speaker = "モナカ"
+speaker_original = "モナカ"
+speaker_translation = "모나카"
 original = "「むしろ、その……えと。モナカに指を咥えられて喜んでるって……。そ、そんなわけないって言ったんだけど……！」"
 translation = "「오히려, 그…… 에토. 모나카가 손가락을 물어서 기뻐하고 있다고……. 그, 그럴 리 없다고 말했는데……!」"
 
 [[dialogue]]
-speaker = "モナカ"
+speaker_original = "モナカ"
+speaker_translation = "모나카"
 original = "「でも、嫌われてなかったのなら、これも作らなくて良かったかな」"
 translation = "「하지만 미움받은 게 아니었다면 이것도 안 만들어도 됐을까.」"
 
 [[dialogue]]
-speaker = "モナカ"
+speaker_original = "モナカ"
+speaker_translation = "모나카"
 original = "「お花さんたちがね？\u3000にぃ様との仲直りに自分たちを使ってって言ってくれたの。それで、その、お花の冠を作ったんだけど……」"
 translation = "「꽃님들이 말이야, 오라버니랑 화해하는 데 자기들을 써달라고 했어. 그래서, 그, 꽃왕관을 만들었는데……」"
 
@@ -224,42 +262,50 @@ original = "大切にするよ"
 translation = "소중히 간직할게."
 
 [[dialogue]]
-speaker = "モナカ"
+speaker_original = "モナカ"
+speaker_translation = "모나카"
 original = "「あ……えへへ。うんっ……」"
 translation = "「아…… 에헤헤. 응……」"
 
 [[dialogue]]
-speaker = "モナカ"
+speaker_original = "モナカ"
+speaker_translation = "모나카"
 original = "「そうだ、にぃ様。良かったら、モナカと一緒にお花さんたちのお水やりしてくれないかな？」"
 translation = "「맞다, 오라버니. 괜찮으면 모나카랑 같이 꽃님들 물 주기 안 할래?」"
 
 [[dialogue]]
-speaker = "モナカ"
+speaker_original = "モナカ"
+speaker_translation = "모나카"
 original = "「モナカのお友達をね、にぃ様にも紹介したいんだ。きっとにぃ様もみんなの声がすぐに聞こえるようになると思うから」"
 translation = "「모나카의 친구들을 오라버니에게도 소개해 주고 싶어. 분명 오라버니도 모두의 목소리가 금방 들리게 될 테니까.」"
 
 [[dialogue]]
-speaker = "モナカ"
+speaker_original = "モナカ"
+speaker_translation = "모나카"
 original = "「ね、みんな？\u3000って……どうしたの？\u3000モナカの指……？」"
 translation = "「그치, 얘들아? 어…… 왜 그래? 모나카 손가락……?」"
 
 [[dialogue]]
-speaker = "モナカ"
+speaker_original = "モナカ"
+speaker_translation = "모나카"
 original = "「あ。ホントだ、血が出ちゃってる。お花の冠を作ってる最中に切っちゃったのかな……」"
 translation = "「아. 정말이다, 피가 나고 있네. 꽃왕관 만들던 중에 베인 걸까……」"
 
 [[dialogue]]
-speaker = "モナカ"
+speaker_original = "モナカ"
+speaker_translation = "모나카"
 original = "「へっ？\u3000チャ、チャンスって、みんな何言ってるのっ。もしかして、わざと……！」"
 translation = "「헤? 차, 찬스라니 다들 무슨 소릴 하는 거야. 설마 일부러……!」"
 
 [[dialogue]]
-speaker = "モナカ"
+speaker_original = "モナカ"
+speaker_translation = "모나카"
 original = "「あう……！\u3000ダメだよ、にぃ様。ばっちいから。モナカの指なんか、その、絶対に咥えちゃダメだからねっ……？」"
 translation = "「아우……! 안 돼, 오라버니. 더러우니까. 모나카 손가락 같은 거, 그, 절대 물면 안 되니까 말이야……?」"
 
 [[dialogue]]
-speaker = "モナカ"
+speaker_original = "モナカ"
+speaker_translation = "모나카"
 original = "「ホ、ホントにいいからぁ……！！\u3000恥ずかしいよぉ……！！」"
 translation = "「저, 정말 괜찮으니까아!! 부끄러워어!!」"
 

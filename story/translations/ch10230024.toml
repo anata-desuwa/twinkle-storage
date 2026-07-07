@@ -4,52 +4,62 @@ original = "第４話,シスターとクリスマスデート,P"
 translation = "제4화, 시스터와 크리스마스 데이트, P"
 
 [[dialogue]]
-speaker = "シャロン"
+speaker_original = "シャロン"
+speaker_translation = "샤론"
 original = "「会長さま」"
 translation = "「회장님」"
 
 [[dialogue]]
-speaker = "シャロン"
+speaker_original = "シャロン"
+speaker_translation = "샤론"
 original = "「くすくす、そんなに驚かれなくとも。こんな時間にご足労いただいてありがとうございます」"
 translation = "「후후, 그렇게 놀라지 않으셔도. 이런 시간에 발걸음 해주셔서 감사합니다」"
 
 [[dialogue]]
-speaker = "シャロン"
+speaker_original = "シャロン"
+speaker_translation = "샤론"
 original = "「っと、あまり立ち話をしていると体が冷えてしまいますね。では早速、参りましょうか」"
 translation = "「앗, 너무 서서 이야기하면 몸이 차가워지겠네요. 그럼 바로 가볼까요」"
 
 [[dialogue]]
-speaker = "シャロン"
+speaker_original = "シャロン"
+speaker_translation = "샤론"
 original = "「美味しいシェパードパイを出してくださるお店がこの近くにあるんです。ささ、どうぞ。こちらですよ」"
 translation = "「맛있는 셰퍼드 파이를 파는 가게가 이 근처에 있어요. 자자, 이쪽이에요」"
 
 [[dialogue]]
-speaker = "シャロン"
+speaker_original = "シャロン"
+speaker_translation = "샤론"
 original = "「ふぅ、お腹いっぱいです。ふふ、少々食べ過ぎてしまったかもしれません」"
 translation = "「후우, 배불러요. 후후, 조금 과식해 버렸을지도 모르겠네요」"
 
 [[dialogue]]
-speaker = "シャロン"
+speaker_original = "シャロン"
+speaker_translation = "샤론"
 original = "「けれど、おかげで体も温まりました。これなら寒さを気にせず、街を歩き回ることもできそうですね」"
 translation = "「하지만 덕분에 몸도 따뜻해졌어요. 이 정도라면 추위를 신경 쓰지 않고 거리를 돌아다닐 수 있을 것 같네요」"
 
 [[dialogue]]
-speaker = "シャロン"
+speaker_original = "シャロン"
+speaker_translation = "샤론"
 original = "「ついてきてくださいますか？\u3000少し歩いたところにイルミネーションがとても綺麗な公園があるんです」"
 translation = "「따라와 주시겠어요? 조금 걸어가면 일루미네이션이 아주 예쁜 공원이 있어요」"
 
 [[dialogue]]
-speaker = "シャロン"
+speaker_original = "シャロン"
+speaker_translation = "샤론"
 original = "「この前子ども会のプレゼントを買いに行った時に偶然見つけまして──……」"
 translation = "「저번에 어린이회 선물을 사러 갔을 때 우연히 발견해서──……」"
 
 [[dialogue]]
-speaker = "シャロン"
+speaker_original = "シャロン"
+speaker_translation = "샤론"
 original = "「あ……すみません。１人ではしゃぎすぎていたでしょうか……？\u3000何やら浮かない顔をされていますけど……」"
 translation = "「아…… 죄송해요. 저 혼자 너무 들떠 있었나요……? 왠지 어두운 표정을 짓고 계신데……」"
 
 [[dialogue]]
-speaker = "シャロン"
+speaker_original = "シャロン"
+speaker_translation = "샤론"
 original = "「もしかして、その……あまり楽しくありませんでしたか？」"
 translation = "「혹시, 그…… 별로 즐겁지 않으셨나요?」"
 
@@ -59,12 +69,14 @@ original = "いや、俺に用事があるって聞いてたから……"
 translation = "아니, 나한테 용건이 있다고 들어서……"
 
 [[dialogue]]
-speaker = "シャロン"
+speaker_original = "シャロン"
+speaker_translation = "샤론"
 original = "「はい……これがその用事ですよ……？」"
 translation = "「네…… 이게 바로 그 용건이에요……?」"
 
 [[dialogue]]
-speaker = "シャロン"
+speaker_original = "シャロン"
+speaker_translation = "샤론"
 original = "「せっかくのクリスマスですから……。会長さまに日々の感謝を込めて……その。お出かけでも、と思いまして……」"
 translation = "「모처럼의 크리스마스니까요……. 회장님께 평소의 감사를 담아…… 그. 나들이라도, 하고 생각해서……」"
 
@@ -74,12 +86,14 @@ original = "つまり……デート？"
 translation = "그러니까…… 데이트?"
 
 [[dialogue]]
-speaker = "シャロン"
+speaker_original = "シャロン"
+speaker_translation = "샤론"
 original = "「そ、そうですね。シスターがあまり口にしてよい言葉ではないのですが。そう受け取っていただけると嬉しいです……」"
 translation = "「그, 그렇네요. 시스터가 그리 입에 올릴 만한 단어는 아니지만. 그렇게 받아들여 주신다면 기쁠 거예요……」"
 
 [[dialogue]]
-speaker = "シャロン"
+speaker_original = "シャロン"
+speaker_translation = "샤론"
 original = "「ご迷惑、だったでしょうか？\u3000私などが会長さまをデートにお誘いするなんて……」"
 translation = "「민폐, 였을까요? 저 같은 사람이 회장님을 데이트에 초대하다니……」"
 
@@ -89,87 +103,104 @@ original = "すごく嬉しいよ"
 translation = "정말 기뻐"
 
 [[dialogue]]
-speaker = "シャロン"
+speaker_original = "シャロン"
+speaker_translation = "샤론"
 original = "「ほ、本当ですか？\u3000えへへ、私こそ、すごく嬉しいです……」"
 translation = "「정, 정말인가요? 에헤헤, 저야말로 정말 기뻐요……」"
 
 [[dialogue]]
-speaker = "シャロン"
+speaker_original = "シャロン"
+speaker_translation = "샤론"
 original = "「なら、えと……。お、お手など繋いでしまってもよろしいでしょうか……。クリスマスで人も多いですし、万が一はぐれてしまっては大変ですので」"
 translation = "「그럼, 음……. 소, 손이라도 잡아도 괜찮을까요……. 크리스마스라 사람도 많고, 만약에 길을 잃어버리면 큰일이니까요」"
 
 [[dialogue]]
-speaker = "シャロン"
+speaker_original = "シャロン"
+speaker_translation = "샤론"
 original = "「い、いえ。ただ単に会長さまとお手を繋いで歩きたい、というのが本心ですけれど……」"
 translation = "「아…… 아니요. 그냥 단순히 회장님과 손을 잡고 걷고 싶다는 게 본심이지만요……」"
 
 [[dialogue]]
-speaker = "シャロン"
+speaker_original = "シャロン"
+speaker_translation = "샤론"
 original = "「あ……え、えへへ。繋いでしまいました……」"
 translation = "「아…… 에, 에헤헤. 잡아버렸네요……」"
 
 [[dialogue]]
-speaker = "シャロン"
+speaker_original = "シャロン"
+speaker_translation = "샤론"
 original = "「いざ繋いでみると、すごく恥ずかしいものですね……？\u3000今にも顔から火が出てしまいそうです……」"
 translation = "「막상 잡고 보니 정말 부끄럽네요……? 지금이라도 얼굴에서 불이 날 것 같아요……」"
 
 [[dialogue]]
-speaker = "シャロン"
+speaker_original = "シャロン"
+speaker_translation = "샤론"
 original = "「でも、会長さまの手……とても大きくて、とても温かくて、こうして繋がせていただけるだけでもすごく安心して……」"
 translation = "「하지만 회장님의 손…… 정말 크고 따뜻해서, 이렇게 잡고 있는 것만으로도 무척 안심이 되고……」"
 
 [[dialogue]]
-speaker = "シャロン"
+speaker_original = "シャロン"
+speaker_translation = "샤론"
 original = "「シェパードパイで体を温める必要はなかったかもしれませんね。会長さまと手を繋いでいるだけで、えへへ、体の芯からポカポカしてしまいますもの」"
 translation = "「셰퍼드 파이로 몸을 데울 필요는 없었을지도 모르겠네요. 회장님과 손을 잡고 있는 것만으로도, 에헤헤, 몸속 깊은 곳부터 포근해지는걸요」"
 
 [[dialogue]]
-speaker = "シャロン"
+speaker_original = "シャロン"
+speaker_translation = "샤론"
 original = "「で、では行きましょう！\u3000イルミネーションの場所へ案内いたしますね……！」"
 translation = "「그, 그럼 가요! 일루미네이션이 있는 곳으로 안내할게요……!」"
 
 [[dialogue]]
-speaker = "シャロン"
+speaker_original = "シャロン"
+speaker_translation = "샤론"
 original = "「他にもその、会長さまに喜んでいただけるようなイベントをたくさん考えてみましたから……！」"
 translation = "「그 외에도 그, 회장님이 기뻐하실 만한 이벤트를 많이 생각해 봤으니까요……!」"
 
 [[dialogue]]
-speaker = "シャロン"
+speaker_original = "シャロン"
+speaker_translation = "샤론"
 original = "「どうかついてきてくださいますか？\u3000精一杯、会長さまを楽しませてみせますので……！」"
 translation = "「부디 따라와 주시겠어요? 온 힘을 다해 회장님을 즐겁게 해드릴 테니까요……!」"
 
 [[dialogue]]
-speaker = "シャロン"
+speaker_original = "シャロン"
+speaker_translation = "샤론"
 original = "「イルミネーション、綺麗でしたね。まるで星の海を歩いているかのように、どこもかしこもキラキラと光り輝いていて。とても幻想的でした」"
 translation = "「일루미네이션, 예뻤죠. 마치 별의 바다를 걷는 것처럼 여기저기 반짝반짝 빛나고 있어서 정말 환상적이었어요」"
 
 [[dialogue]]
-speaker = "シャロン"
+speaker_original = "シャロン"
+speaker_translation = "샤론"
 original = "「公園でクリスマスマーケットが開かれていたのも嬉しい誤算でした。私、チョコレートドリンクなんて初めて飲みましたよ」"
 translation = "「공원에서 크리스마스 마켓이 열리고 있었던 것도 기분 좋은 오산이었어요. 저, 초콜릿 드링크 같은 건 처음 마셔봤거든요」"
 
 [[dialogue]]
-speaker = "シャロン"
+speaker_original = "シャロン"
+speaker_translation = "샤론"
 original = "「あれは子どもたちもお好きかもしれませんね。今度のクリスマス会で用意してみてもいいかも──」"
 translation = "「그건 아이들도 좋아할지도 모르겠네요. 이번 크리스마스 파티 때 준비해 봐도 좋을지도──」"
 
 [[dialogue]]
-speaker = "シャロン"
+speaker_original = "シャロン"
+speaker_translation = "샤론"
 original = "「あっ。す、すみません。デート中に他のことを考えてしまって」"
 translation = "「앗. 죄, 죄송해요. 데이트 중에 다른 생각을 해버려서」"
 
 [[dialogue]]
-speaker = "シャロン"
+speaker_original = "シャロン"
+speaker_translation = "샤론"
 original = "「え？\u3000私らしくていい、ですか？\u3000ふふっ、ありがとうございます。会長さまに楽しんでいただくつもりが私の方がエスコートされてしまっていますね」"
 translation = "「에? 저다워서 좋다고요? 후훗, 감사합니다. 회장님을 즐겁게 해드리려 했는데 제가 오히려 에스코트받고 있네요」"
 
 [[dialogue]]
-speaker = "シャロン"
+speaker_original = "シャロン"
+speaker_translation = "샤론"
 original = "「ですが、あなたのそういった優しさが私は……」"
 translation = "「하지만 당신의 그런 다정함이 저는……」"
 
 [[dialogue]]
-speaker = "シャロン"
+speaker_original = "シャロン"
+speaker_translation = "샤론"
 original = "「その、会長さま。実はお渡ししたいものがあるのですが、受け取っていただけますでしょうか……」"
 translation = "「그, 회장님. 사실 드리고 싶은 게 있는데, 받아주시겠어요……」"
 
@@ -179,12 +210,14 @@ original = "これは……手編みのマフラー？"
 translation = "이건…… 직접 짠 목도리?"
 
 [[dialogue]]
-speaker = "シャロン"
+speaker_original = "シャロン"
+speaker_translation = "샤론"
 original = "「は、はい。イレーナさまに教わりながら編んでみたんです。会長さまへのクリスマスプレゼントに、と」"
 translation = "「네, 네. 이레나 님께 배우면서 짜봤어요. 회장님께 드릴 크리스마스 선물로요」"
 
 [[dialogue]]
-speaker = "シャロン"
+speaker_original = "シャロン"
+speaker_translation = "샤론"
 original = "「いかがでしょうか……。少し長めに作りすぎてしまったかもしれませんが……」"
 translation = "「어떠신가요……. 조금 길게 만들어버린 것 같기도 하지만……」"
 
@@ -194,52 +227,62 @@ original = "ありがとう、大切にするよ"
 translation = "고마워, 소중히 할게"
 
 [[dialogue]]
-speaker = "シャロン"
+speaker_original = "シャロン"
+speaker_translation = "샤론"
 original = "「え、えへへ。改まって感謝されるとちょっぴり気恥ずかしいですね」"
 translation = "「에, 에헤헤. 새삼스럽게 감사를 들으니 조금 쑥스럽네요」"
 
 [[dialogue]]
-speaker = "シャロン"
+speaker_original = "シャロン"
+speaker_translation = "샤론"
 original = "「そ、それでは次の場所に参りましょうっ。ええと、今度は近くの教会に──くしゅんっ」"
 translation = "「그, 그럼 다음 장소로 가요앗. 음, 이번에는 근처 교회에── 에취」"
 
 [[dialogue]]
-speaker = "シャロン"
+speaker_original = "シャロン"
+speaker_translation = "샤론"
 original = "「あうぅ、風が出てきましたね……。もう少し厚着してくるべきでした……」"
 translation = "「아우우, 바람이 불기 시작했네요……. 좀 더 두껍게 입고 올 걸 그랬어요……」"
 
 [[dialogue]]
-speaker = "シャロン"
+speaker_original = "シャロン"
+speaker_translation = "샤론"
 original = "「あ──私にもマフラーを巻いていただいて……ありがとうございます。早速マフラーを使っていただけるなんて……」"
 translation = "「아── 저에게도 목도리를 둘러주셔서…… 감사합니다. 바로 목도리를 써주시다니……」"
 
 [[dialogue]]
-speaker = "シャロン"
+speaker_original = "シャロン"
+speaker_translation = "샤론"
 original = "「でも、こういった使い方は、その……想定していませんでした……。ひとつのマフラーを一緒に巻いて使うなんて、流石に照れてしまいます……」"
 translation = "「하지만 이런 사용법은, 그…… 생각지 못했어요……. 목도리 하나를 같이 두르고 쓰다니, 역시 부끄러워요……」"
 
 [[dialogue]]
-speaker = "シャロン"
+speaker_original = "シャロン"
+speaker_translation = "샤론"
 original = "「だけど……とても温かいです。会長さまのぬくもりも、手を繋ぐ以上に伝わってきて……」"
 translation = "「그래도…… 정말 따뜻해요. 회장님의 온기도 손을 잡았을 때보다 더 전해져서……」"
 
 [[dialogue]]
-speaker = "シャロン"
+speaker_original = "シャロン"
+speaker_translation = "샤론"
 original = "「えへへ。少し予定を変えてもいいですか？\u3000もう少しだけこのまま会長さまと歩いていたいんです」"
 translation = "「에헤헤. 조금 예정을 바꿔도 될까요? 조금만 더 이대로 회장님과 걷고 싶어요」"
 
 [[dialogue]]
-speaker = "シャロン"
+speaker_original = "シャロン"
+speaker_translation = "샤론"
 original = "「この幸せなぬくもりを感じながら……。今だけはただのシャロンとして、あなたと過ごしていたい……」"
 translation = "「이 행복한 온기를 느끼며……. 지금만큼은 그저 샤론으로서 당신과 보내고 싶어요……」"
 
 [[dialogue]]
-speaker = "シャロン"
+speaker_original = "シャロン"
+speaker_translation = "샤론"
 original = "「あ……そういえば、私としたことが大切なことを伝え忘れておりました」"
 translation = "「아…… 그러고 보니 제가 소중한 말을 전하는 걸 깜빡했네요」"
 
 [[dialogue]]
-speaker = "シャロン"
+speaker_original = "シャロン"
+speaker_translation = "샤론"
 original = "「メリークリスマスです、会長さま──」"
 translation = "「메리 크리스마스예요, 회장님──」"
 

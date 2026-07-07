@@ -1,30 +1,36 @@
 [[dialogue]]
-speaker = "クロト"
+speaker_original = "クロト"
+speaker_translation = "쿠로토"
 original = "「ふぅ……なんとかやったか。にしても、今の力は──」"
 translation = "「후우…… 어떻게든 해냈나. 그나저나, 지금의 힘은──」"
 
 [[dialogue]]
-speaker = "アナ"
+speaker_original = "アナ"
+speaker_translation = "아나"
 original = "「油断しちゃだめ。まだ来る」"
 translation = "「방심하면 안 돼. 아직 와.」"
 
 [[dialogue]]
-speaker = "クロト"
+speaker_original = "クロト"
+speaker_translation = "쿠로토"
 original = "「っとと──本当だ。しかもさっきより強そう……」"
 translation = "「헛차── 정말이네. 게다가 아까보다 강해 보여……」"
 
 [[dialogue]]
-speaker = "マトイ"
+speaker_original = "マトイ"
+speaker_translation = "마토이"
 original = "「──お待たせ、アナ！\u3000間に合った！？」"
 translation = "「──기다렸지, 아나! 늦지 않았어!?」"
 
 [[dialogue]]
-speaker = "クロト"
+speaker_original = "クロト"
+speaker_translation = "쿠로토"
 original = "「！？」"
 translation = "「!?」"
 
 [[dialogue]]
-speaker = "アナ"
+speaker_original = "アナ"
+speaker_translation = "아나"
 original = "「ん。ノープロブレムです。一気に倒しましょう」"
 translation = "「응. 노 프로블럼입니다. 한 번에 쓰러뜨립시다.」"
 

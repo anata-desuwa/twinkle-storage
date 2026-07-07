@@ -4,12 +4,14 @@ original = "第１話,梨緒と星徒会長,P"
 translation = "제1화, 리오와 성도회장"
 
 [[dialogue]]
-speaker = "マトイ"
+speaker_original = "マトイ"
+speaker_translation = "마토이"
 original = "「会長、これ確認してくれる？\u3000この前の部長会議の議事録なんだけど」"
 translation = "「회장, 이거 확인해 줄래? 저번 부장 회의 의사록인데」"
 
 [[dialogue]]
-speaker = "アナ"
+speaker_original = "アナ"
+speaker_translation = "아나"
 original = "「それが終わったらこちらの書類もお願いします」"
 translation = "「그게 끝나면 이쪽 서류도 부탁드립니다」"
 
@@ -19,97 +21,116 @@ original = "俺たちがいつも通り星徒会業務をしていると──"
 translation = "우리들이 평소처럼 성도회 업무를 하고 있자──"
 
 [[dialogue]]
-speaker = "梨緒"
+speaker_original = "梨緒"
+speaker_translation = "리오"
 original = "「邪魔させてもらうぞ」"
 translation = "「방해하마」"
 
 [[dialogue]]
-speaker = "マトイ"
+speaker_original = "マトイ"
+speaker_translation = "마토이"
 original = "「あ、梨緒さんいらっしゃい。今日も選管のお仕事？」"
 translation = "「아, 리오 씨 어서 와요. 오늘도 선관 업무?」"
 
 [[dialogue]]
-speaker = "梨緒"
+speaker_original = "梨緒"
+speaker_translation = "리오"
 original = "「ああ。私たち選挙管理委員会は、君たち星徒会が適切に業務を行っているか監視している」"
 translation = "「그래. 우리 선거관리위원회는, 너희 성도회가 적절하게 업무를 수행하고 있는지 감시하고 있다」"
 
 [[dialogue]]
-speaker = "梨緒"
+speaker_original = "梨緒"
+speaker_translation = "리오"
 original = "「特に星徒会長である魔王をな。魔王の力は強大ゆえに、道を誤れば、周囲に多大な被害をもたらす危険がある」"
 translation = "「특히 성도회장인 마왕을 말이지. 마왕의 힘은 강대하기에, 길을 잘못 들면 주변에 막대한 피해를 줄 위험이 있다」"
 
 [[dialogue]]
-speaker = "アナ"
+speaker_original = "アナ"
+speaker_translation = "아나"
 original = "「会長はもう暴走しなさそうですし、監視しなくてもよさそうなものですが」"
 translation = "「회장은 이제 폭주하지 않을 것 같고, 감시하지 않아도 될 것 같습니다만」"
 
 [[dialogue]]
-speaker = "梨緒"
+speaker_original = "梨緒"
+speaker_translation = "리오"
 original = "「それでもだ。確かに今、魔王が暴走する兆候は見えないが、可能性はゼロではない」"
 translation = "「그래도다. 확실히 지금 마왕이 폭주할 징조는 보이지 않지만, 가능성은 제로가 아니야」"
 
 [[dialogue]]
-speaker = "梨緒"
+speaker_original = "梨緒"
+speaker_translation = "리오"
 original = "「それに、普通の学校の生徒会長は選挙で選ばれるものだ」"
 translation = "「게다가, 보통 학교의 학생회장은 선거로 뽑히는 법이다」"
 
 [[dialogue]]
-speaker = "梨緒"
+speaker_original = "梨緒"
+speaker_translation = "리오"
 original = "「だが新星・流星の星徒会長は前会長からの指名で選ばれるうえに、普通の学校以上の強権が委ねられている。権力の濫用を防ぐためにも、やはり監視の目は必要だ」"
 translation = "「하지만 신성·유성의 성도회장은 전 회장의 지명으로 뽑히는 데다, 보통 학교 이상의 강권이 위임되어 있다. 권력 남용을 막기 위해서라도 역시 감시의 눈은 필요해」"
 
 [[dialogue]]
-speaker = "マトイ"
+speaker_original = "マトイ"
+speaker_translation = "마토이"
 original = "「つまり梨緒さんは会長に会いに来てるってこと？」"
 translation = "「즉 리오 씨는 회장을 만나러 왔다는 거야?」"
 
 [[dialogue]]
-speaker = "梨緒"
+speaker_original = "梨緒"
+speaker_translation = "리오"
 original = "「なっ──！？\u3000ちち、違う！\u3000私は個人的な感情ではなく、選管の職務として──」"
 translation = "「나앗──!? 아아, 아니야! 나는 개인적인 감정이 아니라, 선관의 직무로서──」"
 
 [[dialogue]]
-speaker = "アナ"
+speaker_original = "アナ"
+speaker_translation = "아나"
 original = "「個人的な感情、とはマトイ先輩は言っていませんが？」"
 translation = "「개인적인 감정이라고 마토이 선배는 말하지 않았습니다만?」"
 
 [[dialogue]]
-speaker = "梨緒"
+speaker_original = "梨緒"
+speaker_translation = "리오"
 original = "「あぐっ──！？」"
 translation = "「아구윽──!?」"
 
 [[dialogue]]
-speaker = "アナ"
+speaker_original = "アナ"
+speaker_translation = "아나"
 original = "「ここ最近、梨緒先輩は、星徒会室に来ては紅茶を飲みながら会長を眺める日々です」"
 translation = "「최근 리오 선배는 성도회실에 와서는 홍차를 마시며 회장을 바라보는 나날입니다」"
 
 [[dialogue]]
-speaker = "マトイ"
+speaker_original = "マトイ"
+speaker_translation = "마토이"
 original = "「あるいは、会長と勝負してるかだよね」"
 translation = "「아니면 회장이랑 승부하고 있다거나 말이지」"
 
 [[dialogue]]
-speaker = "梨緒"
+speaker_original = "梨緒"
+speaker_translation = "리오"
 original = "「いやそれは、彼が星徒会長に相応しいか見極めるためで……」"
 translation = "「아니 그건, 그가 성도회장에 어울리는지 판가름하기 위해서고……」"
 
 [[dialogue]]
-speaker = "マトイ"
+speaker_original = "マトイ"
+speaker_translation = "마토이"
 original = "「でもスコーン作りとか、テーブルマナー対決とか、星徒会関係ない勝負ばっかりしてるような……」"
 translation = "「그래도 스콘 만들기라든가, 테이블 매너 대결이라든가, 성도회랑 상관없는 승부만 하고 있는 것 같은데……」"
 
 [[dialogue]]
-speaker = "アナ"
+speaker_original = "アナ"
+speaker_translation = "아나"
 original = "「なんだかんだ理由を付けて、四六時中会長と一緒にいる気がします。もう付き合っているのでは？」"
 translation = "「이런저런 이유를 대며 시종일관 회장과 함께 있는 기분이 듭니다. 벌써 사귀고 있는 거 아닙니까?」"
 
 [[dialogue]]
-speaker = "梨緒"
+speaker_original = "梨緒"
+speaker_translation = "리오"
 original = "「付き合ってない！」"
 translation = "「안 사귀어!」"
 
 [[dialogue]]
-speaker = "梨緒"
+speaker_original = "梨緒"
+speaker_translation = "리오"
 original = "「私は選挙管理委員会の委員長として、魔王を監視しているだけで──」"
 translation = "「나는 선거관리위원회의 위원장으로서, 마왕을 감시하고 있을 뿐──」"
 
@@ -119,72 +140,86 @@ original = "俺は梨緒が来てくれて嬉しいけど"
 translation = "나는 리오가 와줘서 기쁘지만"
 
 [[dialogue]]
-speaker = "梨緒"
+speaker_original = "梨緒"
+speaker_translation = "리오"
 original = "「にゃにゃ！？\u3000ななな、何を言ってるんだ君は！？」"
 translation = "「냐냐!? 나나나, 무슨 소리를 하는 건가 자네는!?」"
 
 [[dialogue]]
-speaker = "マトイ"
+speaker_original = "マトイ"
+speaker_translation = "마토이"
 original = "「会長、梨緒さんがいると、心なしかいつもより張り切ってる気がする」"
 translation = "「회장, 리오 씨가 있으면 왠지 평소보다 더 힘내는 기분이 들어」"
 
 [[dialogue]]
-speaker = "アナ"
+speaker_original = "アナ"
+speaker_translation = "아나"
 original = "「梨緒先輩にいいところを見せたいのかもしれません。男性の心理というものでしょうか」"
 translation = "「리오 선배에게 좋은 모습을 보여주고 싶은 걸지도 모릅니다. 남성의 심리라는 걸까요」"
 
 [[dialogue]]
-speaker = "梨緒"
+speaker_original = "梨緒"
+speaker_translation = "리오"
 original = "「そ、そうなのか？\u3000選管としては、普段の働きを見て、星徒会の業務が適切に行われているか判断したいんだが……」"
 translation = "「그, 그런 건가? 선관으로서는 평소의 업무를 보고 성도회의 업무가 적절히 이루어지는지 판단하고 싶다만……」"
 
 [[dialogue]]
-speaker = "マトイ"
+speaker_original = "マトイ"
+speaker_translation = "마토이"
 original = "「やっぱり付き合ってるんじゃ？」"
 translation = "「역시 사귀는 거 아냐?」"
 
 [[dialogue]]
-speaker = "梨緒"
+speaker_original = "梨緒"
+speaker_translation = "리오"
 original = "「だから付き合ってない！」"
 translation = "「그러니까 안 사귄다고!」"
 
 [[dialogue]]
-speaker = "アナ"
+speaker_original = "アナ"
+speaker_translation = "아나"
 original = "「ところでマトイ先輩、こんなものが見つかったんですが」"
 translation = "「그런데 마토이 선배, 이런 게 발견되었습니다만」"
 
 [[dialogue]]
-speaker = "マトイ"
+speaker_original = "マトイ"
+speaker_translation = "마토이"
 original = "「購買のお菓子無料券？\u3000あ、でも期限切れちゃってる。無駄になっちゃったね」"
 translation = "「매점 과자 무료권? 아, 하지만 기한이 지나버렸네. 헛수고가 됐네」"
 
 [[dialogue]]
-speaker = "梨緒"
+speaker_original = "梨緒"
+speaker_translation = "리오"
 original = "「無駄！？」"
 translation = "「헛수고!?」"
 
 [[dialogue]]
-speaker = "アナ"
+speaker_original = "アナ"
+speaker_translation = "아나"
 original = "「他にもありました。こっちはカフェテリアの割引券です」"
 translation = "「다른 것도 있었습니다. 이쪽은 카페테리아 할인권입니다」"
 
 [[dialogue]]
-speaker = "マトイ"
+speaker_original = "マトイ"
+speaker_translation = "마토이"
 original = "「どれどれ……うーん……けっこう注文しないと割引が適用されないし、これは役に立たないかも……」"
 translation = "「어디 어디…… 으음…… 꽤 주문하지 않으면 할인이 적용되지 않고, 이건 도움이 안 될지도……」"
 
 [[dialogue]]
-speaker = "梨緒"
+speaker_original = "梨緒"
+speaker_translation = "리오"
 original = "「役に立たない！？」"
 translation = "「도움이 안 돼!?」"
 
 [[dialogue]]
-speaker = "梨緒"
+speaker_original = "梨緒"
+speaker_translation = "리오"
 original = "「やっぱり私は弱くて、無駄で、役立たずな存在なんだ……」"
 translation = "「역시 나는 약하고, 무의미하고, 쓸모없는 존재야……」"
 
 [[dialogue]]
-speaker = "梨緒"
+speaker_original = "梨緒"
+speaker_translation = "리오"
 original = "「私は何度勝負しても魔王に勝てない、無様な人間だ……」"
 translation = "「나는 몇 번을 승부해도 마왕에게 이길 수 없는, 한심한 인간이다……」"
 
@@ -194,17 +229,20 @@ original = "気を強く持って！"
 translation = "마음 강하게 먹어!"
 
 [[dialogue]]
-speaker = "梨緒"
+speaker_original = "梨緒"
+speaker_translation = "리오"
 original = "「ハッ──！？」"
 translation = "「핫──!?」"
 
 [[dialogue]]
-speaker = "梨緒"
+speaker_original = "梨緒"
+speaker_translation = "리오"
 original = "「そうだ、私は誓ったんだ。今度こそ世界を守ると」"
 translation = "「맞아, 나는 맹세했어. 이번에야말로 세계를 지키겠다고」"
 
 [[dialogue]]
-speaker = "梨緒"
+speaker_original = "梨緒"
+speaker_translation = "리오"
 original = "「それにジグも救うことができたんだ。私は失ってばかりじゃ……ないっ！！」"
 translation = "「게다가 지구도 구할 수 있었어. 나는 잃기만 하는 게…… 아니야!!」"
 
@@ -214,7 +252,8 @@ original = "そうだ梨緒は強い！\u3000かっこいい！"
 translation = "맞아 리오는 강해! 멋있어!"
 
 [[dialogue]]
-speaker = "梨緒"
+speaker_original = "梨緒"
+speaker_translation = "리오"
 original = "「私は強い！\u3000かっこいい！」"
 translation = "「나는 강하다! 멋지다!」"
 
@@ -224,17 +263,20 @@ original = "梨緒はかわいい！\u3000綺麗！\u3000美人！"
 translation = "리오는 귀여워! 예뻐! 미인이야!"
 
 [[dialogue]]
-speaker = "梨緒"
+speaker_original = "梨緒"
+speaker_translation = "리오"
 original = "「私はかわいい！\u3000綺麗だ！\u3000美人だ！」"
 translation = "「나는 귀엽다! 예쁘다! 미인이다!」"
 
 [[dialogue]]
-speaker = "梨緒"
+speaker_original = "梨緒"
+speaker_translation = "리오"
 original = "「──って、何を言わせるんだ！？」"
 translation = "「──라니, 뭘 시키는 건가!?」"
 
 [[dialogue]]
-speaker = "梨緒"
+speaker_original = "梨緒"
+speaker_translation = "리오"
 original = "「おだててくれとは言っていないぞ……まったく君は……」"
 translation = "「추켜세워 달라고는 하지 않았다…… 정말이지 자네는……」"
 
@@ -244,32 +286,38 @@ original = "本当のことを言ったまでだよ"
 translation = "사실을 말했을 뿐이야"
 
 [[dialogue]]
-speaker = "梨緒"
+speaker_original = "梨緒"
+speaker_translation = "리오"
 original = "「う……そういうことを臆面もなく言うんだな、君は……」"
 translation = "「우…… 그런 소리를 낯간지럽게도 잘 하는군, 자네는……」"
 
 [[dialogue]]
-speaker = "梨緒"
+speaker_original = "梨緒"
+speaker_translation = "리오"
 original = "「だが誉め言葉を並べたところで、選挙管理委員会の監視は甘くはならないからな」"
 translation = "「하지만 칭찬을 늘어놓는다고 해서 선거관리위원회의 감시가 느슨해지지는 않으니까」"
 
 [[dialogue]]
-speaker = "梨緒"
+speaker_original = "梨緒"
+speaker_translation = "리오"
 original = "「ここ最近事件がなくて星徒会は平穏だと聞く。平和なのはいいが、油断は禁物だ。君が星徒会長に相応しいか、改めて試させてもらおう」"
 translation = "「최근 사건이 없어서 성도회는 평온하다고 들었다. 평화로운 건 좋지만 방심은 금물이다. 자네가 성도회장에 어울리는지 다시 한번 시험해 보도록 하지」"
 
 [[dialogue]]
-speaker = "梨緒"
+speaker_original = "梨緒"
+speaker_translation = "리오"
 original = "「では──」"
 translation = "「그럼──」"
 
 [[dialogue]]
-speaker = "梨緒"
+speaker_original = "梨緒"
+speaker_translation = "리오"
 original = "「勝負だ！」"
 translation = "「승부다!」"
 
 [[dialogue]]
-speaker = "梨緒"
+speaker_original = "梨緒"
+speaker_translation = "리오"
 original = "「くっ……負けた……！」"
 translation = "「큭…… 졌다……!」"
 

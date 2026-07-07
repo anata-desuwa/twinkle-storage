@@ -1,50 +1,60 @@
 [[dialogue]]
-speaker = "聖沙"
+speaker_original = "聖沙"
+speaker_translation = "미사"
 original = "「う～ん。どうやらこの魔族たち、福引きのガラガラを回したかっただけみたいですね」"
 translation = "「으음. 아무래도 이 마족들, 복권의 추첨기를 돌리고 싶었던 것 같네요」"
 
 [[dialogue]]
-speaker = "雑魚魔族"
+speaker_original = "雑魚魔族"
+speaker_translation = "잡몹 마족"
 original = "「イー……」"
 translation = "「이이……」"
 
 [[dialogue]]
-speaker = "リア"
+speaker_original = "リア"
+speaker_translation = "리아"
 original = "「だとしても他人の福引き券を使おうとするのはメっだよ。どうしてもって言うなら──はい、このガラガラをあげるから」"
 translation = "「그렇다고 해도 남의 복권을 사용하려고 하는 건 나쁜 짓이야. 정말로 원한다면── 자, 이 추첨기를 줄게」"
 
 [[dialogue]]
-speaker = "リア"
+speaker_original = "リア"
+speaker_translation = "리아"
 original = "「その代わり、もうこんな悪さしないでね？\u3000約束だよ？」"
 translation = "「대신, 다시는 이런 나쁜 짓 하지 않기로 약속이야?」"
 
 [[dialogue]]
-speaker = "雑魚魔族"
+speaker_original = "雑魚魔族"
+speaker_translation = "잡몹 마족"
 original = "「イー！」"
 translation = "「이이!」"
 
 [[dialogue]]
-speaker = "聖沙"
+speaker_original = "聖沙"
+speaker_translation = "미사"
 original = "「良かったんですか、先輩？\u3000魔族を逃がしちゃったりして」"
 translation = "「괜찮으셨어요, 선배? 마족을 놓아주거나 해서」"
 
 [[dialogue]]
-speaker = "リア"
+speaker_original = "リア"
+speaker_translation = "리아"
 original = "「ふふ、きっとシン君ならこうしたと思うから」"
 translation = "「후후, 분명 신 군이라면 이렇게 했을 거라고 생각하니까」"
 
 [[dialogue]]
-speaker = "リア"
+speaker_original = "リア"
+speaker_translation = "리아"
 original = "「それより今は──」"
 translation = "「그것보다 지금은──」"
 
 [[dialogue]]
-speaker = "リア"
+speaker_original = "リア"
+speaker_translation = "리아"
 original = "「手伝ってくれてありがとう、ございます。それで、えっと……あなたたちは？」"
 translation = "「도와줘서 고마워, 요. 그래서, 그러니까…… 당신들은?」"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「自己紹介が遅れたわね。私は九浄ヴィーナス。流星市国、新星学園所属の星騎士よ。こっちの男は星徒会長の──」"
 translation = "「자기소개가 늦었네. 나는 쿠죠 비너스. 유성 시국, 신성 학원 소속의 성기사야. 이쪽 남자는 성도회 회장인──」"
 
@@ -54,87 +64,104 @@ original = "緋宮クロトです"
 translation = "히노미야 쿠로토입니다"
 
 [[dialogue]]
-speaker = "聖沙"
+speaker_original = "聖沙"
+speaker_translation = "미사"
 original = "「流星市国……？\u3000新星学園……？\u3000星騎士……？\u3000それに九浄って……」"
 translation = "「유성 시국……? 신성 학원……? 성기사……? 게다가 쿠죠라니……」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「どうも聞きなじみのないご様子です。やはりここは流星市国の外みたいですね」"
 translation = "「아무래도 들어본 적이 없는 것 같습니다. 역시 이곳은 유성 시국 밖인 것 같네요」"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「そうね。でも星騎士なら流星市国の名前くらいは知っていてもよさそうなものだけど」"
 translation = "「그러게. 하지만 성기사라면 유성 시국의 이름 정도는 알고 있을 법도 한데」"
 
 [[dialogue]]
-speaker = "リア"
+speaker_original = "リア"
+speaker_translation = "리아"
 original = "「ええと……それで皆さんはその新星学園の生徒さんなのかな？」"
 translation = "「에에또…… 그래서 여러분은 그 신성 학원의 학생이신가요?」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「あ、いえ。私は流星学園に通っていまして──星見フィオナです。流星学園で星徒会長を務めさせていただいています」"
 translation = "「아, 아뇨. 저는 유성 학원에 다니고 있으며── 호시미 피오나입니다. 유성 학원에서 성도회 회장을 맡고 있습니다」"
 
 [[dialogue]]
-speaker = "聖沙"
+speaker_original = "聖沙"
+speaker_translation = "미사"
 original = "「流星学園の生徒会長ぉ！？」"
 translation = "「유성 학원의 성도회 회장!?」"
 
 [[dialogue]]
-speaker = "リア"
+speaker_original = "リア"
+speaker_translation = "리아"
 original = "「うーん……。聞けば聞くほど頭がこんがらがっちゃうね……」"
 translation = "「으음……. 들을수록 머리가 뒤죽박죽이 되네……」"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「どういうこと？」"
 translation = "「무슨 말이야?」"
 
 [[dialogue]]
-speaker = "リア"
+speaker_original = "リア"
+speaker_translation = "리아"
 original = "「落ち着いて聞いてね？\u3000ここは流星学園なの。そして、私と聖沙ちゃんは流星学園の<b>生徒会</b>メンバーなんだ」"
 translation = "「진정하고 들어봐? 여기는 유성 학원이야. 그리고, 나와 미사짱은 유성 학원의 <b>학생회</b> 멤버고」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「ここが流星学園、ですか？\u3000それにあなた方が生徒会の一員……？」"
 translation = "「여기가 유성 학원, 인가요? 게다가 당신들이 학생회의 일원……?」"
 
 [[dialogue]]
-speaker = "聖沙"
+speaker_original = "聖沙"
+speaker_translation = "미사"
 original = "「ええ。私は聖沙・Ｂ・クリステレス。流星学園生徒会の副会長よ」"
 translation = "「네. 저는 미사・B・크리스테레스. 유성 학원 학생회의 부회장이에요」"
 
 [[dialogue]]
-speaker = "リア"
+speaker_original = "リア"
+speaker_translation = "리아"
 original = "「私は九浄リア。今はもう肩書きは譲っちゃったけど、これでも元生徒会長だよ」"
 translation = "「저는 쿠죠 리아. 지금은 이미 직함을 물려줬지만, 그래도 전 학생회장이야」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「す、すみません。理解が追いつかなくて……。実際に私は流星学園の星徒会長ですし……」"
 translation = "「스, 죄송합니다. 이해가 따라가지 못해서……. 실제로 저는 유성 학원의 성도회 회장이고……」"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「それに今、九浄って……」"
 translation = "「게다가 방금, 쿠죠라고……」"
 
 [[dialogue]]
-speaker = "リア"
+speaker_original = "リア"
+speaker_translation = "리아"
 original = "「色々と疑問があると思うけど、その前に私からも質問させてもらっていいかな？」"
 translation = "「여러 가지 의문이 있을 거라고 생각하지만, 그전에 나도 질문해도 될까?」"
 
 [[dialogue]]
-speaker = "リア"
+speaker_original = "リア"
+speaker_translation = "리아"
 original = "「さっきの戦い……それにその姿。あなたたちは一体どこでその力を手に入れたの？」"
 translation = "「아까 그 싸움…… 게다가 그 모습. 당신들은 대체 어디서 그 힘을 얻은 거야?」"
 
 [[dialogue]]
-speaker = "リア"
+speaker_original = "リア"
+speaker_translation = "리아"
 original = "「あの力はクルセイダースである私たちにしか使えないはず。ううん、正確には私たちと力の出所が違うみたいだけど」"
 translation = "「그 힘은 크루세이더스인 우리밖에 사용할 수 없을 텐데. 아니, 정확히는 우리와 힘의 출처가 다른 것 같지만」"
 
@@ -144,112 +171,134 @@ original = "クルセイダース？"
 translation = "크루세이더스?"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「ま、待って。クルセイダースって言ったら！」"
 translation = "「자, 잠깐. 크루세이더스라고 하면!」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「３０００年前にリクリエを退けたという英雄の……！」"
 translation = "「3000년 전에 리크리에를 물리쳤다는 영웅의……!」"
 
 [[dialogue]]
-speaker = "聖沙"
+speaker_original = "聖沙"
+speaker_translation = "미사"
 original = "「大昔の、英雄？\u3000先輩……私、頭が痛くなってきました。この子たち、魔族の精神攻撃でも受けているんじゃ？」"
 translation = "「아주 옛날의, 영웅? 선배…… 저, 머리가 아파 오기 시작했어요. 이 아이들, 마족의 정신 공격이라도 받고 있는 거 아닐까요?」"
 
 [[dialogue]]
-speaker = "リア"
+speaker_original = "リア"
+speaker_translation = "리아"
 original = "「うーん……。私たちの認識とは色々とズレていることは確かだね。まずはその辺りを擦り合わせることが大切かも」"
 translation = "「으음……. 우리의 인식과는 여러 가지로 어긋나고 있는 건 확실하네. 일단 그 부분을 맞춰보는 게 중요할지도」"
 
 [[dialogue]]
-speaker = "リア"
+speaker_original = "リア"
+speaker_translation = "리아"
 original = "「よく聞いてね？\u3000あなたたちがいるこの町は流星町。そして私たちは流星学園、生徒会」"
 translation = "「잘 들어봐? 당신들이 있는 이 마을은 유성 마을. 그리고 우리는 유성 학원, 학생회」"
 
 [[dialogue]]
-speaker = "リア"
+speaker_original = "リア"
+speaker_translation = "리아"
 original = "「リ・クリエを阻止するためにこの力を使って、日夜魔族と戦っている──流星クルセイダース、だよ」"
 translation = "「리크리에를 저지하기 위해 이 힘을 사용해서, 밤낮으로 마족과 싸우고 있는── 유성 크루세이더스, 야」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「あの伝説のクルセイダースが目の前にいらっしゃるなんて、にわかには信じられません……」"
 translation = "「그 전설의 크루세이더스가 눈앞에 계시다니, 도저히 믿을 수가 없습니다……」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「しかしクルセイダースが魔族と戦っていたという伝説は聞いたことがありません」"
 translation = "「하지만 크루세이더스가 마족과 싸웠다는 전설은 들어본 적이 없습니다」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「それに流星町という地名も。過去の世界というわけではなさそうです」"
 translation = "「게다가 유성 마을이라는 지명도. 과거의 세계라는 것 같지는 않습니다」"
 
 [[dialogue]]
-speaker = "聖沙"
+speaker_original = "聖沙"
+speaker_translation = "미사"
 original = "「謎は深まるばかりね。事情を聞く限り、境界の乱れっていうものに巻き込まれたのが関係していそうだけど」"
 translation = "「수수께끼는 깊어질 뿐이네. 사정을 들으니, 경계의 흐트러짐이라는 것에 휘말린 것이 관계가 있는 것 같지만」"
 
 [[dialogue]]
-speaker = "リア"
+speaker_original = "リア"
+speaker_translation = "리아"
 original = "「ところどころ共通点はあるもんね。ヴィーナスちゃんたちもフィーニスの塔については知っているみたいだし」"
 translation = "「곳곳에 공통점은 있네. 비너스짱들도 피니스 탑에 대해서는 알고 있는 것 같고」"
 
 [[dialogue]]
-speaker = "リア"
+speaker_original = "リア"
+speaker_translation = "리아"
 original = "「あ、そうだ。お姉ちゃん──理事長の九浄ヘレナなら何か知ってるかも」"
 translation = "「아, 맞다. 언니── 이사장인 쿠죠 헬레나라면 뭔가 알고 있을지도」"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「九浄──ヘレナ！？」"
 translation = "「쿠죠── 헬레나!?」"
 
 [[dialogue]]
-speaker = "リア"
+speaker_original = "リア"
+speaker_translation = "리아"
 original = "「あれ？\u3000お姉ちゃんのことは知ってるの？」"
 translation = "「어라? 언니에 대해서 알고 있어?」"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「知ってるも何も、私のお義母さまよ。私、九浄家の養子だから。確かＤＩＳＣに写真が……」"
 translation = "「알고 말고, 내 양어머니야. 나, 쿠죠 가문의 양자거든. 분명 DISC에 사진이……」"
 
 [[dialogue]]
-speaker = "リア"
+speaker_original = "リア"
+speaker_translation = "리아"
 original = "「ええっと…… この人が九浄ヘレナ、さん？ お姉ちゃんとは似ても似つかないような…… 」"
 translation = "「에에또…… 이 사람이 쿠죠 헬레나, 씨? 언니와는 전혀 닮지 않은 것 같은데……」"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「そうは言っても、これが私の知る九浄ヘレナよ！」"
 translation = "「그렇다고 해도, 이 사람이 내가 아는 쿠죠 헬레나야!」"
 
 [[dialogue]]
-speaker = "リア"
+speaker_original = "リア"
+speaker_translation = "리아"
 original = "「同姓同名の別人…… ？ でも、お姉ちゃんがそれを知ったら──」"
 translation = "「동성동명의 다른 사람……? 하지만, 언니가 그걸 알면──」"
 
 [[dialogue]]
-speaker = "リア"
+speaker_original = "リア"
+speaker_translation = "리아"
 original = "「『ドッペルゲンガーは見つけ次第、始末する。でなければ次は俺が死んでしまうからな』とか言いそうだしなぁ…… 」"
 translation = "「『도플갱어는 발견하는 즉시 처치한다. 그렇지 않으면 다음은 내가 죽어버릴 테니까』라고 말할 것 같고 말이지……」"
 
 [[dialogue]]
-speaker = "リア"
+speaker_original = "リア"
+speaker_translation = "리아"
 original = "「そもそも、流星町で九浄家のヘレナを名乗るなんて、正気の沙汰じゃないよ」"
 translation = "「애초에, 유성 마을에서 쿠죠 가문의 헬레나를 자처하다니, 제정신이 아니야」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「どういうことでしょう……」"
 translation = "「무슨 일일까요……」"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「わかったわ！\u3000ここはきっと平行世界なのよ！」"
 translation = "「알았다! 여기는 분명 평행 세계야!」"
 
@@ -259,152 +308,182 @@ original = "平行世界？"
 translation = "평행 세계?"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「ええ、漫画で見たわ！\u3000この世界は私たちの世界と似て非なる場所ってこと！」"
 translation = "「응, 만화에서 봤어! 이 세계는 우리 세계와 비슷하면서도 다른 장소라는 거지!」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「へ、平行世界っ……！！\u3000今風に言えばマルチバース──いえ正確には似て非なるものですが、違う世界に同じ人間がいるなんてロマンが……！！」"
 translation = "「펴, 평행 세계……!! 요즘 말로 하면 멀티버스── 아니 정확히는 비슷하면서도 다른 것이지만, 다른 세계에 똑같은 인간이 있다니 로망이……!!」"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「フィオナ？」"
 translation = "「피오나?」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「──ハッ。コ、コホン……。少々取り乱しました。私はただ理に適っていると思っただけです」"
 translation = "「──핫. 코, 코흠……. 잠시 흥분했습니다. 저는 단지 이치에 맞다고 생각했을 뿐입니다」"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「そ、そう？\u3000冗談半分で言ったつもりだったんだけど……」"
 translation = "「그, 그래? 농담 반으로 말한 거였는데……」"
 
 [[dialogue]]
-speaker = "マグダレナ"
+speaker_original = "マグダレナ"
+speaker_translation = "막달레나"
 original = "「いいえ──あながち的外れではありません」"
 translation = "「아뇨── 전혀 엉뚱한 말은 아닙니다」"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「ひゃっ！？\u3000マグダレナ、いたのっ！？」"
 translation = "「햣!? 막달레나, 있었어!?」"
 
 [[dialogue]]
-speaker = "マグダレナ"
+speaker_original = "マグダレナ"
+speaker_translation = "막달레나"
 original = "「はい。お邪魔しないようにずっと傍に控えておりました」"
 translation = "「네. 방해하지 않도록 계속 곁에 있었습니다」"
 
 [[dialogue]]
-speaker = "聖沙"
+speaker_original = "聖沙"
+speaker_translation = "미사"
 original = "「……ついに喋り始めてしまったわ。触れるとさらにややこしくなりそうだったから、あえて触れずにいたのに……」"
 translation = "「……드디어 말을 하기 시작했네. 건드리면 더 복잡해질 것 같아서, 일부러 건드리지 않고 있었는데……」"
 
 [[dialogue]]
-speaker = "リア"
+speaker_original = "リア"
+speaker_translation = "리아"
 original = "「あの人、明らかに天使だよね？\u3000輪っかや羽根も付いてるし……」"
 translation = "「저 사람, 분명 천사 맞지? 머리 위 링이나 날개도 달려 있고……」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「やはり平行世界なのですねっ？\u3000守護天使さまの言うことなら間違いありませんよね！？」"
 translation = "「역시 평행 세계인 것이군요? 수호 천사님의 말씀이라면 틀림없겠죠!?」"
 
 [[dialogue]]
-speaker = "聖沙"
+speaker_original = "聖沙"
+speaker_translation = "미사"
 original = "「守護天使ぃ！？\u3000天使は天使でも守護天使ぃ！？」"
 translation = "「수호 천사!? 천사는 천사라도 수호 천사!?」"
 
 [[dialogue]]
-speaker = "リア"
+speaker_original = "リア"
+speaker_translation = "리아"
 original = "「は、初めて見た……。人の形をした守護天使なんて……」"
 translation = "「처, 처음 봤어……. 사람의 모습을 한 수호 천사라니……」"
 
 [[dialogue]]
-speaker = "聖沙"
+speaker_original = "聖沙"
+speaker_translation = "미사"
 original = "「クルセイダースって、このロザリオの中に宿る守護天使の力を借りて戦っているんですよね……？\u3000この人がいたらもう、私たちの存在価値なくなっちゃうんじゃ……」"
 translation = "「크루세이더스는, 이 로자리오 안에 깃든 수호 천사의 힘을 빌려 싸우는 거죠……? 이 사람이 있다면 이제, 우리의 존재 가치 없어져 버리는 거 아닐까……」"
 
 [[dialogue]]
-speaker = "マグダレナ"
+speaker_original = "マグダレナ"
+speaker_translation = "막달레나"
 original = "「そんなことはありませんよ。この世界の守護天使の力と私の持つ力もまた、似て非なるもののようですから」"
 translation = "「그렇지 않습니다. 이 세계의 수호 천사의 힘과 제가 가진 힘 또한, 비슷하면서도 다른 것 같습니다」"
 
 [[dialogue]]
-speaker = "リア"
+speaker_original = "リア"
+speaker_translation = "리아"
 original = "「そ、そうなんだ……。それにしても平行世界って……」"
 translation = "「그, 그렇구나……. 그나저나 평행 세계라니……」"
 
 [[dialogue]]
-speaker = "マグダレナ"
+speaker_original = "マグダレナ"
+speaker_translation = "막달레나"
 original = "「思うに、こちらの世界でも近頃フィーニスの塔に何か異変が起こっていたのではありませんか？」"
 translation = "「생각건대, 이쪽 세계에서도 근래 피니스 탑에 뭔가 이변이 일어나고 있었던 것은 아닙니까?」"
 
 [[dialogue]]
-speaker = "リア"
+speaker_original = "リア"
+speaker_translation = "리아"
 original = "「それは……うん。実は数日前から妙な気配を放っていて……」"
 translation = "「그건…… 응. 실은 며칠 전부터 이상한 기운을 내뿜고 있어서……」"
 
 [[dialogue]]
-speaker = "マグダレナ"
+speaker_original = "マグダレナ"
+speaker_translation = "막달레나"
 original = "「恐らく、こちらの世界でも私たちの世界と同じく境界の乱れが発生していたのでしょう。そして偶然にも異なる世界でフィーニスの塔同士がリンクしてしまった」"
 translation = "「아마도, 이쪽 세계에서도 우리 세계와 마찬가지로 경계의 흐트러짐이 발생했을 것입니다. 그리고 우연히도 다른 세계에서 피니스 탑끼리 링크되어 버린 것이죠」"
 
 [[dialogue]]
-speaker = "マグダレナ"
+speaker_original = "マグダレナ"
+speaker_translation = "막달레나"
 original = "「その結果、フィーニスの塔の近くにいた我々が次元の層を飛び越えて、こちらの世界に転移してしまったのです」"
 translation = "「그 결과, 피니스 탑 근처에 있던 저희가 차원의 층을 뛰어넘어, 이쪽 세계로 전이되어 버린 것입니다」"
 
 [[dialogue]]
-speaker = "リア"
+speaker_original = "リア"
+speaker_translation = "리아"
 original = "「でも私はなんともなかったよ？\u3000昨日もフィーニスの塔に様子を見に行ったけれど」"
 translation = "「하지만 나는 아무렇지도 않았는데? 어제도 피니스 탑에 상태를 보러 갔는데」"
 
 [[dialogue]]
-speaker = "マグダレナ"
+speaker_original = "マグダレナ"
+speaker_translation = "막달레나"
 original = "「何か条件があるのかもしれません。次元の境界が大きく乱れてしまうような出来事か何かが」"
 translation = "「뭔가 조건이 있을지도 모릅니다. 차원의 경계가 크게 흐트러질 만한 사건이라든지」"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「フィーニスの塔に行けばすんなり元の世界に戻れるってわけでもないわけね」"
 translation = "「피니스 탑에 간다고 해서 순순히 원래 세계로 돌아갈 수 있는 건 아니라는 거네」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「それに、もしかするとルリエルもこちらの世界に迷い込んでしまったのかもしれません。私たちと同じように……」"
 translation = "「게다가, 어쩌면 루리엘도 이쪽 세계에 길을 잃고 들어왔을지도 모릅니다. 우리와 마찬가지로……」"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「大いに有り得るわね。元の世界に戻る方法を探しながら、彼女のことも探してみましょ」"
 translation = "「충분히 가능성이 있네. 원래 세계로 돌아갈 방법을 찾으면서, 그녀도 찾아보자」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「はい！\u3000では早速散策してみましょう……！\u3000平行世界を歩き回れるなんて、滅多に出来ない体験ですから……！」"
 translation = "「네! 그럼 바로 산책해 봅시다……! 평행 세계를 걸어 다닐 수 있다니, 좀처럼 할 수 없는 경험이니까요……!」"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「わわっ、そんなに引っ張らなくても……！\u3000珍しいわね、フィオナがそこまでテンションを上げるなんて……」"
 translation = "「와왓, 그렇게 잡아끌지 않아도……! 신기하네, 피오나가 그렇게까지 흥분하다니……」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「そ、そのようなつもりは。私は、えと、ルリエルのことが心配で心配で堪らないだけで」"
 translation = "「그, 그럴 생각은. 저는, 에또, 루리엘이 걱정돼서 견딜 수 없을 뿐입니다」"
 
 [[dialogue]]
-speaker = "聖沙"
+speaker_original = "聖沙"
+speaker_translation = "미사"
 original = "「なら私たちが案内してあげるわ。いいですよね、先輩？」"
 translation = "「그럼 우리가 안내해 줄게. 괜찮죠, 선배?」"
 
 [[dialogue]]
-speaker = "リア"
+speaker_original = "リア"
+speaker_translation = "리아"
 original = "「もっちろん♪\u3000困っている人の助けになるのも流星クルセイダースの務めだから。ね♪」"
 translation = "「물론이지♪ 곤란해하는 사람을 돕는 것도 유성 크루세이더스의 임무니까. 그치♪」"
 

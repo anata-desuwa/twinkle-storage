@@ -4,192 +4,230 @@ original = "第４話,小悪魔の祝福,P"
 translation = "제4화, 소악마의 축복, P"
 
 [[dialogue]]
-speaker = "セナリィ"
+speaker_original = "セナリィ"
+speaker_translation = "세나리"
 original = "「ふんふふふ～ん♪\u3000ふん、ふん、ふ～ん♪」"
 translation = "「흠흐후후～운♪ 흠, 흠, 후～운♪」"
 
 [[dialogue]]
-speaker = "ネーゼマイン"
+speaker_original = "ネーゼマイン"
+speaker_translation = "네제마인"
 original = "「鼻歌混じりなんて、随分とご機嫌じゃん、セナリィ☆\u3000あれ？\u3000新入社員ちゃんたちは何処？」"
 translation = "「콧노래까지 섞다니 꽤 기분이 좋아 보이네, 세나리☆ 어라? 신입 사원들은 어디 갔어?」"
 
 [[dialogue]]
-speaker = "セナリィ"
+speaker_original = "セナリィ"
+speaker_translation = "세나리"
 original = "「今日は休暇をあげてますわ。しばらく仕事もありませんし、ちょっとあの子たちは頑張りすぎですからね」"
 translation = "「오늘은 휴가를 줬어요. 당분간 일도 없고, 그 아이들은 좀 너무 열심히 하니까요」"
 
 [[dialogue]]
-speaker = "ネーゼマイン"
+speaker_original = "ネーゼマイン"
+speaker_translation = "네제마인"
 original = "「誰もいないなら好都合かな。ちょっとセナリィとふたりっきりで話したかったからさ」"
 translation = "「아무도 없다면 다행이네. 세나리랑 둘이서만 이야기하고 싶었거든」"
 
 [[dialogue]]
-speaker = "ネーゼマイン"
+speaker_original = "ネーゼマイン"
+speaker_translation = "네제마인"
 original = "「セナリィ、最近ちょっと丸くなったよね～」"
 translation = "「세나리, 요즘 좀 둥글둥글해졌네～」"
 
 [[dialogue]]
-speaker = "セナリィ"
+speaker_original = "セナリィ"
+speaker_translation = "세나리"
 original = "「ふ、太ったと言いたいんですの！？\u3000むしろ、ミウの体調管理プランのおかげで、ちょっと痩せたくらいで──」"
 translation = "「지, 살쪘다고 말하고 싶은 건가요!? 오히려 미우의 건강 관리 플랜 덕분에 조금 살이 빠졌을 정도──」"
 
 [[dialogue]]
-speaker = "ネーゼマイン"
+speaker_original = "ネーゼマイン"
+speaker_translation = "네제마인"
 original = "「体型の話じゃないってば。なんてゆーか……とっつきやすくなって、可愛くなったよね～ってこと」"
 translation = "「체형 이야기가 아니라니까. 뭐랄까…… 다가가기 쉬워져서 귀여워졌다는 소리야～」"
 
 [[dialogue]]
-speaker = "セナリィ"
+speaker_original = "セナリィ"
+speaker_translation = "세나리"
 original = "「何を今更。私は元より美しくてよ」"
 translation = "「새삼스럽게 뭘. 나는 원래부터 아름다웠답니다.」"
 
 [[dialogue]]
-speaker = "ネーゼマイン"
+speaker_original = "ネーゼマイン"
+speaker_translation = "네제마인"
 original = "「そうだね。セナリィは黙ってさえいれば美人さんだもんね。黙ってさえいればね」"
 translation = "「그렇네. 세나리는 가만히만 있으면 미인이라니까. 가만히만 있으면 말이야.」"
 
 [[dialogue]]
-speaker = "セナリィ"
+speaker_original = "セナリィ"
+speaker_translation = "세나리"
 original = "「引っかかる言い回しですけれど……まあ、そのように見えるのだとしたら、きっと優秀な新入社員のおかげで、経営も波に乗り、心に余裕ができたおかげですわね」"
 translation = "「걸리는 말투긴 합니다만…… 뭐, 그렇게 보인다면 분명 우수한 신입 사원 덕분에 경영도 궤도에 오르고, 마음에 여유가 생긴 덕분이겠네요.」"
 
 [[dialogue]]
-speaker = "ネーゼマイン"
+speaker_original = "ネーゼマイン"
+speaker_translation = "네제마인"
 original = "「うんうん、そうだね。でも、それだけじゃ説明のつかないことが多くってさ。セナリィ自身に大きな心境の変化があったのかな～って」"
 translation = "「응응, 그렇겠지. 하지만 그것만으로는 설명되지 않는 게 많아서 말이야. 세나리 자신에게 큰 심경의 변화가 있었던 걸까~ 싶어서.」"
 
 [[dialogue]]
-speaker = "ネーゼマイン"
+speaker_original = "ネーゼマイン"
+speaker_translation = "네제마인"
 original = "「例えば……乙女チックな恋しちゃってる、とかね☆」"
 translation = "「예를 들면…… 소녀 같은 사랑을 하고 있다던가☆」"
 
 [[dialogue]]
-speaker = "セナリィ"
+speaker_original = "セナリィ"
+speaker_translation = "세나리"
 original = "「ドキッ！？\u3000わ、私の恋人は、このゴールデングースですわ！\u3000社員も増えて大変なこの時期、甘っちょろい恋愛などにうつつを抜かしている余裕はありません！」"
 translation = "「뜨끔!? 제, 제 연인은 이 골든 구스랍니다! 사원도 늘어나서 눈코 뜰 새 없이 바쁜 이 시기에, 무른 연애 따위에 정신을 팔 여유는 없어요!」"
 
 [[dialogue]]
-speaker = "ネーゼマイン"
+speaker_original = "ネーゼマイン"
+speaker_translation = "네제마인"
 original = "「そっかそっか～。ところでさ、会長ってモテるよね～」"
 translation = "「그렇구나 그렇구나~. 그런데 말이야, 회장님은 인기가 많잖아~」"
 
 [[dialogue]]
-speaker = "セナリィ"
+speaker_original = "セナリィ"
+speaker_translation = "세나리"
 original = "「な、なんですの、藪から棒に！\u3000どうして今の会話の流れで、会長様が出てきますの！？」"
 translation = "「무, 무슨 소리예요, 뜬금없이! 어째서 지금 대화 흐름에서 회장님이 나오는 건가요!?」"
 
 [[dialogue]]
-speaker = "ネーゼマイン"
+speaker_original = "ネーゼマイン"
+speaker_translation = "네제마인"
 original = "「いや～？\u3000ここに来る途中、会長が女の人と仲良さそうに歩いてるの見かけてさ～？」"
 translation = "「아니~? 여기 오는 길에 회장이 여자랑 사이좋게 걷고 있는 걸 봐서 말이야~?」"
 
 [[dialogue]]
-speaker = "セナリィ"
+speaker_original = "セナリィ"
+speaker_translation = "세나리"
 original = "「んなっ……！？」"
 translation = "「으냣……!?」"
 
 [[dialogue]]
-speaker = "ネーゼマイン"
+speaker_original = "ネーゼマイン"
+speaker_translation = "네제마인"
 original = "「星徒会も上から下まで、いろんな属性の美人揃いだしさ。そのうち誰か会長の恋人になっちゃいそうだよね～」"
 translation = "「성도회도 위에서 아래까지 온갖 속성의 미인들이 모여 있잖아. 조만간 누군가 회장의 연인이 되어버릴 것 같단 말이지~」"
 
 [[dialogue]]
-speaker = "セナリィ"
+speaker_original = "セナリィ"
+speaker_translation = "세나리"
 original = "「会長様は不貞を犯したりしませんわ！」"
 translation = "「회장님은 부정을 저지르거나 하지 않아요!」"
 
 [[dialogue]]
-speaker = "セナリィ"
+speaker_original = "セナリィ"
+speaker_translation = "세나리"
 original = "「私だけを生涯愛してくれると、ちゃんと契約だって交わして──ハッ！？」"
 translation = "「나만을 평생 사랑해 주겠다고 제대로 계약까지 맺었── 핫!?」"
 
 [[dialogue]]
-speaker = "ネーゼマイン"
+speaker_original = "ネーゼマイン"
+speaker_translation = "네제마인"
 original = "「……あ、もうそこまで行っちゃってんだ。セナリィもすっかりオトナの女かぁ、お熱いね～」"
 translation = "「……아, 벌써 거기까지 가버렸구나. 세나리도 완전히 어른 여자인걸, 뜨겁네~」"
 
 [[dialogue]]
-speaker = "セナリィ"
+speaker_original = "セナリィ"
+speaker_translation = "세나리"
 original = "「どこまで行ったと想像してますの！？\u3000まだキス止まり──ハァンッ！？」"
 translation = "「어디까지 갔다고 상상하는 건가요!? 아직 키스까지만── 하앙!?」"
 
 [[dialogue]]
-speaker = "ネーゼマイン"
+speaker_original = "ネーゼマイン"
+speaker_translation = "네제마인"
 original = "「にひひ、自爆しすぎでしょ。セナリィらっしい～☆\u3000あ、会長が女の人と歩いてたっての、嘘だから安心してね。カマかけてみただけだからさ」"
 translation = "「니히히, 자폭이 너무 심하잖아. 세나리다워~☆ 아, 회장이 여자랑 걷고 있었다는 거, 거짓말이니까 안심해. 그냥 떠본 거니까.」"
 
 [[dialogue]]
-speaker = "セナリィ"
+speaker_original = "セナリィ"
+speaker_translation = "세나리"
 original = "「マイン、あなたねぇ……！\u3000冗談にしても、ついて良い嘘と悪い嘘が──」"
 translation = "「마인, 당신 정말……! 농담이라도 해도 되는 거짓말과 안 되는 거짓말이──」"
 
 [[dialogue]]
-speaker = "ネーゼマイン"
+speaker_original = "ネーゼマイン"
+speaker_translation = "네제마인"
 original = "「ふ～ん？\u3000友達の私に今の今まで付き合ってるのを隠してたのは、ついても良い嘘なんだ～？」"
 translation = "「흐~음? 친구인 나한테 지금까지 사귀는 걸 숨겼던 건 해도 되는 거짓말인가 보네~?」"
 
 [[dialogue]]
-speaker = "セナリィ"
+speaker_original = "セナリィ"
+speaker_translation = "세나리"
 original = "「むぐっ……！」"
 translation = "「무긋……!」"
 
 [[dialogue]]
-speaker = "ネーゼマイン"
+speaker_original = "ネーゼマイン"
+speaker_translation = "네제마인"
 original = "「私とセナリィの仲なのに、水臭いじゃん。いつまでも話してくれなくて悔しいから、強めにイジッちゃった☆」"
 translation = "「나랑 세나리 사이인데 서운하잖아. 언제까지고 말 안 해줘서 분하니까 좀 세게 놀려봤어☆」"
 
 [[dialogue]]
-speaker = "セナリィ"
+speaker_original = "セナリィ"
+speaker_translation = "세나리"
 original = "「そうやってイジられるのが嫌だから、黙ってましたのよ……会長様との関係、いつから気づいてましたの？」"
 translation = "「그렇게 놀림받는 게 싫어서 가만히 있었던 거예요…… 회장님과의 관계, 언제부터 눈치채고 있었나요?」"
 
 [[dialogue]]
-speaker = "ネーゼマイン"
+speaker_original = "ネーゼマイン"
+speaker_translation = "네제마인"
 original = "「怪しいと思ったのは──ここにミウちゃん、ヒマワリちゃん、会長たちが集まってた時？」"
 translation = "「수상하다고 생각한 건── 여기에 미우 짱, 히마와리 짱, 회장 일행이 모여 있었을 때?」"
 
 [[dialogue]]
-speaker = "セナリィ"
+speaker_original = "セナリィ"
+speaker_translation = "세나리"
 original = "「早ぁっ！？\u3000ミウとヒマワリに契約を見届けてもらった時じゃないですの！？」"
 translation = "「그렇게나 빨리!? 미우와 히마와리에게 계약을 지켜봐 달라고 했을 때가 아니고요!?」"
 
 [[dialogue]]
-speaker = "ネーゼマイン"
+speaker_original = "ネーゼマイン"
+speaker_translation = "네제마인"
 original = "「あの時からセナリィの態度、露骨におかしかったもん。会長を見る目が、もう全然違ったし。いつぞやみたいなメス顔だったよ」"
 translation = "「그때부터 세나리의 태도, 노골적으로 이상했는걸. 회장을 보는 눈이 벌써 완전히 달랐고. 언젠가 본 적 있는 암컷 표정이었어.」"
 
 [[dialogue]]
-speaker = "ネーゼマイン"
+speaker_original = "ネーゼマイン"
+speaker_translation = "네제마인"
 original = "「その後で裏取ったら、いろんなとこでデートしてる目撃情報が集まったしね。隠すつもりなら、もうちょっと忍ばなきゃ。公安の情報収集力、舐めんな～？」"
 translation = "「그다음에 뒤를 캐봤더니 여기저기서 데이트하는 목격 정보가 모였거든. 숨길 생각이라면 좀 더 잠입해야지. 공안의 정보 수집력을 얕보지 마~?」"
 
 [[dialogue]]
-speaker = "セナリィ"
+speaker_original = "セナリィ"
+speaker_translation = "세나리"
 original = "「……観念しますわ。会長様とお付き合いしてます」"
 translation = "「……단념하겠어요. 회장님과 사귀고 있습니다.」"
 
 [[dialogue]]
-speaker = "ネーゼマイン"
+speaker_original = "ネーゼマイン"
+speaker_translation = "네제마인"
 original = "「良かったじゃん！\u3000私とセナリィの仲なんだし、ちゃんと祝わせてよ。おめでと、セナリィ。幸せになれ～☆」"
 translation = "「잘됐네! 나랑 세나리 사이니까 제대로 축하하게 해줘. 축하해, 세나리. 행복해져라~☆」"
 
 [[dialogue]]
-speaker = "セナリィ"
+speaker_original = "セナリィ"
+speaker_translation = "세나리"
 original = "「……ありがとう、マイン」"
 translation = "「……고마워, 마인.」"
 
 [[dialogue]]
-speaker = "ネーゼマイン"
+speaker_original = "ネーゼマイン"
+speaker_translation = "네제마인"
 original = "「ちょっと目を離したら、その隙に他の子に会長様持ってかれちゃうかもだし油断禁物だよ」"
 translation = "「잠깐 눈을 떼면 그 틈에 다른 애한테 회장님을 뺏겨버릴지도 모르니까 방심은 금물이야.」"
 
 [[dialogue]]
-speaker = "ネーゼマイン"
+speaker_original = "ネーゼマイン"
+speaker_translation = "네제마인"
 original = "「会長、わりと流されやすいところもあったりするし。誘惑されたら、案外コロッといっちゃうかも。私とかにね☆」"
 translation = "「회장, 의외로 휩쓸리기 쉬운 면도 있으니까. 유혹당하면 의외로 꼴까닥 넘어갈지도. 나 같은 애한테 말이야☆」"
 
 [[dialogue]]
-speaker = "セナリィ"
+speaker_original = "セナリィ"
+speaker_translation = "세나리"
 original = "「マイン！？\u3000寝取られとかいくらあなたでも許しませんわよ！？」"
 translation = "「마인!? 네토리 같은 건 아무리 당신이라도 용서 못 해요!?」"
 
@@ -199,17 +237,20 @@ original = "随分と賑やかだけど……マイン！？"
 translation = "꽤나 시끌벅적한데…… 마인!?"
 
 [[dialogue]]
-speaker = "ネーゼマイン"
+speaker_original = "ネーゼマイン"
+speaker_translation = "네제마인"
 original = "「あ、会長。話は全部セナリィから聞き出しちゃった。お付き合いしてるんだって～？\u3000おめでと☆」"
 translation = "「아, 회장. 이야기는 전부 세나리한테 들어버렸어. 사귀고 있다며~? 축하해☆」"
 
 [[dialogue]]
-speaker = "ネーゼマイン"
+speaker_original = "ネーゼマイン"
+speaker_translation = "네제마인"
 original = "「んじゃ、お邪魔虫の私は退散しよっかな。会長、私の代わりにセナリィのこと、た～っぷり可愛がってあげてね、にひひ☆」"
 translation = "「그럼 방해꾼인 나는 이만 퇴장해 줄까. 회장, 나 대신 세나리 좀 듬~뿍 귀여워해 줘, 니히히☆」"
 
 [[dialogue]]
-speaker = "セナリィ"
+speaker_original = "セナリィ"
+speaker_translation = "세나리"
 original = "「まったく……マインには感情を振り回されっぱなしですわ……情緒不安定に陥らない己のメンタルを褒めたいくらいですわよ」"
 translation = "「정말이지…… 마인에게는 감정을 휘둘리기만 하네요…… 정서불안에 빠지지 않는 자신의 멘탈을 칭찬하고 싶을 정도예요.」"
 
@@ -219,22 +260,26 @@ original = "いい友達だね"
 translation = "좋은 친구네."
 
 [[dialogue]]
-speaker = "セナリィ"
+speaker_original = "セナリィ"
+speaker_translation = "세나리"
 original = "「はぁ……？\u3000今の話からどうして、そういう結論になりますの」"
 translation = "「하아……? 방금 이야기에서 어째서 그런 결론이 나오는 건가요.」"
 
 [[dialogue]]
-speaker = "セナリィ"
+speaker_original = "セナリィ"
+speaker_translation = "세나리"
 original = "「マインは人の心を弄ぶことに対してひたすらに長けてる厄介者で、神出鬼没で、付き合ってると気疲れしてしまう──」"
 translation = "「마인은 사람의 마음을 농락하는 데 한결같이 능숙한 골칫덩이에, 신출귀몰하고, 같이 있으면 기운이 다 빠져버리는──」"
 
 [[dialogue]]
-speaker = "セナリィ"
+speaker_original = "セナリィ"
+speaker_translation = "세나리"
 original = "「──私の大切な友人ですわ」"
 translation = "「──저의 소중한 친구랍니다.」"
 
 [[dialogue]]
-speaker = "セナリィ"
+speaker_original = "セナリィ"
+speaker_translation = "세나리"
 original = "「ふう……会長様、あの子の相手で疲れた心を、癒してくださいません？」"
 translation = "「후우…… 회장님, 그 아이를 상대하느라 지친 마음을 치유해 주시지 않겠어요?」"
 

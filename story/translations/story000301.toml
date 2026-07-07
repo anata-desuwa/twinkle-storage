@@ -1,5 +1,6 @@
 [[dialogue]]
-speaker = "ウェンディ"
+speaker_original = "ウェンディ"
+speaker_translation = "웬디"
 original = "「あ、モンスターがそちらに！」"
 translation = "「아, 몬스터가 그쪽에!」"
 
@@ -9,27 +10,32 @@ original = "任せろ"
 translation = "맡겨둬."
 
 [[dialogue]]
-speaker = "ウェンディ"
+speaker_original = "ウェンディ"
+speaker_translation = "웬디"
 original = "「会長さん、ナイス足止めです。では──スミス！」"
 translation = "「회장님, 나이스하게 발을 묶으셨네요. 그럼── 스미스!」"
 
 [[dialogue]]
-speaker = "スミス"
+speaker_original = "スミス"
+speaker_translation = "스미스"
 original = "「ゲコ」"
 translation = "「게코.」"
 
 [[dialogue]]
-speaker = "ウェンディ"
+speaker_original = "ウェンディ"
+speaker_translation = "웬디"
 original = "「アクアシーリング！」"
 translation = "「아쿠아 실링!」"
 
 [[dialogue]]
-speaker = "ウェンディ"
+speaker_original = "ウェンディ"
+speaker_translation = "웬디"
 original = "「ゲッコー！」"
 translation = "「겟코!」"
 
 [[dialogue]]
-speaker = "ウェンディ"
+speaker_original = "ウェンディ"
+speaker_translation = "웬디"
 original = "「ふぅ、これでまた一体捕まえられましたね」"
 translation = "「후우, 이걸로 또 한 마리 잡았네요.」"
 
@@ -179,7 +185,8 @@ original = "！？"
 translation = "!? "
 
 [[dialogue]]
-speaker = "ウェンディ"
+speaker_original = "ウェンディ"
+speaker_translation = "웬디"
 original = "「はぁ、はぁ、はぁ……すみません、そこのモンスター、うちから逃げ出したやつでして……」"
 translation = "「하아, 하아, 하아…… 죄송합니다, 거기 있는 몬스터, 저희 집에서 도망친 녀석이라서요……」"
 
@@ -189,7 +196,8 @@ original = "うちから？"
 translation = "저희 집에서?"
 
 [[dialogue]]
-speaker = "ウェンディ"
+speaker_original = "ウェンディ"
+speaker_translation = "웬디"
 original = "「あ、モンスターが逃げちゃいます！？\u3000詳しいことは後で説明しますから、捕まえるの手伝ってくださーい！」"
 translation = "「아, 몬스터가 도망쳐요!? 자세한 건 나중에 설명해 드릴 테니까 잡는 것 좀 도와주세요!」"
 

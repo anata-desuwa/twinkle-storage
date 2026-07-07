@@ -1,255 +1,306 @@
 [[dialogue]]
-speaker = "モネ"
+speaker_original = "モネ"
+speaker_translation = "모네"
 original = "「調べものと言えば、やはり図書館ですからね」"
 translation = "「조사할 것이라면 역시 도서관이니까요.」"
 
 [[dialogue]]
-speaker = "リップル"
+speaker_original = "リップル"
+speaker_translation = "리플"
 original = "「オ～！\u3000本がイッパイです！\u3000図書館久しぶりにキマシた！」"
 translation = "「오~! 책이 가득마시타! 도서관 오랜만에 왔마시타!」"
 
 [[dialogue]]
-speaker = "モネ"
+speaker_original = "モネ"
+speaker_translation = "모네"
 original = "「あ、リップルさん図書館では静かにお願いしますね」"
 translation = "「아, 리플 씨 도서관에서는 조용히 부탁드려요.」"
 
 [[dialogue]]
-speaker = "リップル"
+speaker_original = "リップル"
+speaker_translation = "리플"
 original = "「あう、ゴメンなさい……静かにシャベリま～す……」"
 translation = "「아우, 미안해마시타…… 조용히 이야기하겠마시타~……」"
 
 [[dialogue]]
-speaker = "モネ"
+speaker_original = "モネ"
+speaker_translation = "모네"
 original = "「はぁ……それにしても、やはり図書館は最高ですね……紙とインクの<ruby>馥郁<rt>ふくいく</rt></ruby>たる香りに包まれて、ついヨダレが出そうになります」"
 translation = "「하아…… 그나저나 역시 도서관은 최고네요…… 종이와 잉크의 향긋한 향기에 휩싸여서, 저도 모르게 침이 나올 것 같아요.」"
 
 [[dialogue]]
-speaker = "リップル"
+speaker_original = "リップル"
+speaker_translation = "리플"
 original = "「モネは本を食べるんデスか？」"
 translation = "「모네는 책을 먹는 것이마시타?」"
 
 [[dialogue]]
-speaker = "モネ"
+speaker_original = "モネ"
+speaker_translation = "모네"
 original = "「そんな！\u3000食べたりなんてしませんよ。ちょっと匂いをハスハスしたりスリスリしたり…………いえ、何でもないです。忘れてください……」"
 translation = "「그럴 리가요! 먹거나 하지는 않아요. 조금 냄새를 킁킁대거나 부비부비하거나………… 아니, 아무것도 아니에요. 잊어주세요……」"
 
 [[dialogue]]
-speaker = "リップル"
+speaker_original = "リップル"
+speaker_translation = "리플"
 original = "「モネは本当に本がダイスキなんですねっ」"
 translation = "「모네는 정말 책을 좋아하는 것이마시타네」"
 
 [[dialogue]]
-speaker = "モネ"
+speaker_original = "モネ"
+speaker_translation = "모네"
 original = "「そうですね、大好きです。ずっと本に囲まれて生きてきましたから……本はもう、私の体の一部みたいなものです」"
 translation = "「그렇네요, 정말 좋아해요. 계속 책에 둘러싸여 살아왔으니까…… 책은 이제 제 몸의 일부 같은 거예요.」"
 
 [[dialogue]]
-speaker = "リップル"
+speaker_original = "リップル"
+speaker_translation = "리플"
 original = "「ふふっ……モネにとっての本は、ワタシにとってのサマーなんですね。ワタシたち似た者ドウシですっ」"
 translation = "「후후…… 모네에게 책은, 와타시에게 서머 같은 것이마시타네. 와타시들 닮은꼴끼리마시타」"
 
 [[dialogue]]
-speaker = "モネ"
+speaker_original = "モネ"
+speaker_translation = "모네"
 original = "「あまり考えたことはなかったですけど……そうかもしれないですね。陽のリップルさんと陰の私が似た者同士……なんだか不思議な気持ちです」"
 translation = "「별로 생각해 본 적은 없었지만…… 그럴지도 모르겠네요. 양의 리플 씨와 음인 제가 닮은꼴이라니…… 왠지 신기한 기분이에요.」"
 
 [[dialogue]]
-speaker = "リップル"
+speaker_original = "リップル"
+speaker_translation = "리플"
 original = "「ワタシは嬉シイです♪\u3000モネのこと、もっとチカクに感じま～す♪」"
 translation = "「와타시는 기쁘마시타♪ 모네를 더욱 가깝게 느껴마시타~♪」"
 
 [[dialogue]]
-speaker = "モネ"
+speaker_original = "モネ"
+speaker_translation = "모네"
 original = "「そう言われると、少し照れちゃいますね……」"
 translation = "「그렇게 말씀하시니 조금 부끄럽네요……」"
 
 [[dialogue]]
-speaker = "リップル"
+speaker_original = "リップル"
+speaker_translation = "리플"
 original = "「照れてるモネもカワイイで～す♪\u3000思わずハグしたくナリます♪」"
 translation = "「부끄러워하는 모네도 귀엽마시타~♪ 나도 모르게 허그하고 싶어지마시타♪」"
 
 [[dialogue]]
-speaker = "モネ"
+speaker_original = "モネ"
+speaker_translation = "모네"
 original = "「も、もうしてるっ……！\u3000ハグされちゃってますから……！」"
 translation = "「이, 이미 하고 있잖아요……! 허그 당하고 있다구요……!」"
 
 [[dialogue]]
-speaker = "リップル"
+speaker_original = "リップル"
+speaker_translation = "리플"
 original = "「えへへ、体が勝手に動いてシマイました♪\u3000許してクダさ～い♪」"
 translation = "「에헤헤, 몸이 마음대로 움직여버려마시타♪ 용서해주세마시타~♪」"
 
 [[dialogue]]
-speaker = "モネ"
+speaker_original = "モネ"
+speaker_translation = "모네"
 original = "「ふぅ……そういえばリップルさんは普段本を読まれますか？」"
 translation = "「후우…… 그러고 보니 리플 씨는 평소에 책을 읽으시나요?」"
 
 [[dialogue]]
-speaker = "リップル"
+speaker_original = "リップル"
+speaker_translation = "리플"
 original = "「本デスか？\u3000ウーン、あんまり読まナイです」"
 translation = "「책마시타? 으음, 그다지 읽지 않아마시타」"
 
 [[dialogue]]
-speaker = "モネ"
+speaker_original = "モネ"
+speaker_translation = "모네"
 original = "「でしたら、私が図書館を案内しますね。図書館は私のテリトリーなので」"
 translation = "「그렇다면 제가 도서관을 안내해 드릴게요. 도서관은 제 테리토리니까요.」"
 
 [[dialogue]]
-speaker = "リップル"
+speaker_original = "リップル"
+speaker_translation = "리플"
 original = "「オオッ、モネも頼もシイですっ」"
 translation = "「오오, 모네 역시 든든마시타」"
 
 [[dialogue]]
-speaker = "モネ"
+speaker_original = "モネ"
+speaker_translation = "모네"
 original = "「ふふっ、とりあえずクリスマス関連の本を探してみましょうか。ここの近くですと……クリスマスの恋愛小説がありますね」"
 translation = "「후훗, 일단 크리스마스 관련 책을 찾아볼까요. 이 근처라면…… 크리스마스 연애 소설이 있네요.」"
 
 [[dialogue]]
-speaker = "リップル"
+speaker_original = "リップル"
+speaker_translation = "리플"
 original = "「クリスマスとレンアイって、何か関係があるんデスか？」"
 translation = "「크리스마스와 연애는 무슨 관계가 있마시타?」"
 
 [[dialogue]]
-speaker = "モネ"
+speaker_original = "モネ"
+speaker_translation = "모네"
 original = "「クリスマスは恋人たちにとっても特別な日なんです」"
 translation = "「크리스마스는 연인들에게도 특별한 날이거든요.」"
 
 [[dialogue]]
-speaker = "モネ"
+speaker_original = "モネ"
+speaker_translation = "모네"
 original = "「例えばこの本は、余命幾ばくかの少女が、大切な恋人と永遠に忘れられないクリスマスを過ごす……短いお話ですが、とても切なくて素敵なお話なんです」"
 translation = "「예를 들어 이 책은, 여명이 얼마 남지 않은 소녀가 소중한 연인과 영원히 잊지 못할 크리스마스를 보내는…… 짧은 이야기지만, 매우 애절하고 멋진 이야기예요.」"
 
 [[dialogue]]
-speaker = "リップル"
+speaker_original = "リップル"
+speaker_translation = "리플"
 original = "「モネも今年のクリスマスはコイビトと過ごすんデスか？」"
 translation = "「모네도 이번 크리스마스는 연인과 보내는 것이마시타?」"
 
 [[dialogue]]
-speaker = "モネ"
+speaker_original = "モネ"
+speaker_translation = "모네"
 original = "「ええっ！？\u3000予定なんてありませんよ……！\u3000でも私も女の子ですし、クリスマスデートとか憧れちゃいますが……」"
 translation = "「에엣!? 예정 같은 거 없어요……! 하지만 저도 여자니까 크리스마스 데이트 같은 건 동경하곤 하지만……」"
 
 [[dialogue]]
-speaker = "モネ"
+speaker_original = "モネ"
+speaker_translation = "모네"
 original = "（うぅ、会長のことが頭に浮かんで……私なんかじゃ不釣り合いってわかってるけど、でもぉ……）"
 translation = "（으으, 회장님 얼굴이 떠올라서…… 나 같은 건 어울리지 않는다는 걸 알지만, 그래도오……）"
 
 [[dialogue]]
-speaker = "リップル"
+speaker_original = "リップル"
+speaker_translation = "리플"
 original = "「モネ、顔がマッカですよ？\u3000ダイジョーブですか？」"
 translation = "「모네, 얼굴이 새빨갛마시타요? 다이죠부마시타?」"
 
 [[dialogue]]
-speaker = "モネ"
+speaker_original = "モネ"
+speaker_translation = "모네"
 original = "「だ、大丈夫です……！\u3000私は孤高の戦士！\u3000クリぼっちの烙印を押されたって構いません……！」"
 translation = "「대, 괜찮아요……! 저는 고고한 전사! 크리솔로라는 낙인이 찍혀도 상관없습니다……!」"
 
 [[dialogue]]
-speaker = "リップル"
+speaker_original = "リップル"
+speaker_translation = "리플"
 original = "「クリボッチ？\u3000また知らないコトバが出てキマした」"
 translation = "「크리솔로나리? 또 모르는 말이 나와마시타」"
 
 [[dialogue]]
-speaker = "モネ"
+speaker_original = "モネ"
+speaker_translation = "모네"
 original = "「ええと、クリぼっちっていうのは……クリスマスに恋人がいなくて１人で過ごす人のことで……」"
 translation = "「그게, 크리솔로라는 건…… 크리스마스에 연인이 없어서 혼자 보내는 사람을 말하는 거라서……」"
 
 [[dialogue]]
-speaker = "リップル"
+speaker_original = "リップル"
+speaker_translation = "리플"
 original = "「だったらクリスマスは私と過ごしまショー！\u3000２人でクリスマスを過ごせばボッチじゃなくナリま～す！」"
 translation = "「그렇다면 크리스마스는 와타시와 보내마쇼~! 둘이서 크리스마스를 보내면 솔로가 아니게 되어마시타~!」"
 
 [[dialogue]]
-speaker = "モネ"
+speaker_original = "モネ"
+speaker_translation = "모네"
 original = "「で、でもリップルさんには、私より大切な人とかがいるんじゃ……」"
 translation = "「하, 하지만 리플 씨에게는 저보다 소중한 사람이라든가 있을 텐데……」"
 
 [[dialogue]]
-speaker = "リップル"
+speaker_original = "リップル"
+speaker_translation = "리플"
 original = "「モネもワタシにとってタイセツなトモダチで～す♪\u3000モネとクリスマスを過ごせたら、きっとハッピーになれます♪」"
 translation = "「모네도 와타시에게 소중한 친구마시타~♪ 모네와 크리스마스를 보낸다면 분명 해피해질 수 있마시타♪」"
 
 [[dialogue]]
-speaker = "モネ"
+speaker_original = "モネ"
+speaker_translation = "모네"
 original = "「リップルさん……うん、ありがとう。クリスマスは一緒にいましょうね」"
 translation = "「리플 씨…… 응, 고마워요. 크리스마스는 같이 있도록 해요.」"
 
 [[dialogue]]
-speaker = "リップル"
+speaker_original = "リップル"
+speaker_translation = "리플"
 original = "「やりマシた♪\u3000これでクリスマスがタノシクなりま～す♪」"
 translation = "「해냈마시타♪ 이것으로 크리스마스가 즐거워지마시타~♪」"
 
 [[dialogue]]
-speaker = "モネ"
+speaker_original = "モネ"
+speaker_translation = "모네"
 original = "「ふふ、それじゃあ次の本を探しに行きましょうか」"
 translation = "「후후, 그럼 다음 책을 찾으러 가볼까요.」"
 
 [[dialogue]]
-speaker = "リップル"
+speaker_original = "リップル"
+speaker_translation = "리플"
 original = "「ハイ♪\u3000ついていきマース♪」"
 translation = "「하이♪ 따라가겠마시타♪」"
 
 [[dialogue]]
-speaker = "リップル"
+speaker_original = "リップル"
+speaker_translation = "리플"
 original = "「フムフム……クリスマスに食べるのはチキンだったり七面鳥だったりスルんですね。女神様はどっちが好きナンデしょーか？」"
 translation = "「흠흠…… 크리스마스에 먹는 건 치킨이나 칠면조인 것이마시타네. 여신님은 어느 쪽을 좋아하시마시타?」"
 
 [[dialogue]]
-speaker = "モネ"
+speaker_original = "モネ"
+speaker_translation = "모네"
 original = "「ええと、チキンや七面鳥を食べるのは女神様とは関係ないですかね……」"
 translation = "「그게, 치킨이나 칠면조를 먹는 건 여신님이랑은 관계없을지도……」"
 
 [[dialogue]]
-speaker = "リップル"
+speaker_original = "リップル"
+speaker_translation = "리플"
 original = "「女神様と関係ナイのですか？\u3000だったらビーフやポークを食べてもイイんです？」"
 translation = "「여신님과 관계없마시타? 그렇다면 비프나 포크를 먹어도 되는 것이마시타?」"
 
 [[dialogue]]
-speaker = "モネ"
+speaker_original = "モネ"
+speaker_translation = "모네"
 original = "「普通に好きなものを食べていいんですよ。あくまでも習慣の１つなので」"
 translation = "「평범하게 좋아하는 걸 먹어도 돼요. 어디까지나 습관 중 하나니까요.」"
 
 [[dialogue]]
-speaker = "リップル"
+speaker_original = "リップル"
+speaker_translation = "리플"
 original = "「ウ～ン、クリスマスのことがワカったよーな、ワカらなくなったよーな……」"
 translation = "「으~음, 크리스마스에 대해 알 것 같기도 하고, 모르게 된 것 같기도 하마시타……」"
 
 [[dialogue]]
-speaker = "モネ"
+speaker_original = "モネ"
+speaker_translation = "모네"
 original = "「クリスマスの習慣は天界や魔界でも大きく異なるらしいので……」"
 translation = "「크리스마스 습관은 천계나 마계에서도 크게 다르다고 하니까요……」"
 
 [[dialogue]]
-speaker = "リップル"
+speaker_original = "リップル"
+speaker_translation = "리플"
 original = "「３つの世界のクリスマスなんてヤヤコシすぎま～す……もっとトーイツしてほしいです」"
 translation = "「세 세계의 크리스마스라니 너무 복잡해마시타…… 좀 더 통일해줬으면 좋겠마시타」"
 
 [[dialogue]]
-speaker = "モネ"
+speaker_original = "モネ"
+speaker_translation = "모네"
 original = "「各世界にも歴史があるから難しいですね……どの世界も女神様の誕生を祝う日っていうのは共通してるんですけど……」"
 translation = "「각 세계에도 역사가 있으니 어렵겠네요…… 어느 세계나 여신님의 탄생을 축하하는 날이라는 건 공통점이지만요……」"
 
 [[dialogue]]
-speaker = "リップル"
+speaker_original = "リップル"
+speaker_translation = "리플"
 original = "「だったら、モネにとってのクリスマスってどんな日ナンです？」"
 translation = "「그렇다면, 모네에게 크리스마스란 어떤 날나리입니까?」"
 
 [[dialogue]]
-speaker = "モネ"
+speaker_original = "モネ"
+speaker_translation = "모네"
 original = "「私にとってのクリスマスですか……？」"
 translation = "「저에게 크리스마스 말인가요……?」"
 
 [[dialogue]]
-speaker = "リップル"
+speaker_original = "リップル"
+speaker_translation = "리플"
 original = "「ハイ♪\u3000モネにとってのクリスマスも気にナリます♪\u3000モネのクリスマスのオモイデも知りたいで～す♪」"
 translation = "「하이♪ 모네에게 크리스마스도 신경 쓰이마시타♪ 모네의 크리스마스 추억도 알고 싶어마시타~♪」"
 
 [[dialogue]]
-speaker = "モネ"
+speaker_original = "モネ"
+speaker_translation = "모네"
 original = "「私のクリスマスの思い出……」"
 translation = "「제 크리스마스의 추억……」"
 
 [[dialogue]]
-speaker = "モネ"
+speaker_original = "モネ"
+speaker_translation = "모네"
 original = "（私にとってのクリスマスって何なんだろう……）"
 translation = "（나에게 크리스마스란 무엇일까……）"
 

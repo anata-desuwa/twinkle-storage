@@ -4,22 +4,26 @@ original = "第２話,色仕掛け大会開幕！,P"
 translation = "제2화, 미인계 대회 개막!, P"
 
 [[dialogue]]
-speaker = "梨緒"
+speaker_original = "梨緒"
+speaker_translation = "리오"
 original = "「ふふ、どうだ魔王？\u3000この引き締まったくびれの曲線美<emoji=heart04>\u3000声をかけたくならないか<emoji=heart04>」"
 translation = "「후후, 어떠냐 마왕? 이 탄탄한 허리의 곡선미<emoji=heart04> 말을 걸고 싶어지지 않나<emoji=heart04>」"
 
 [[dialogue]]
-speaker = "ベアトリス"
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
 original = "「んふ<emoji=heart04>\u3000会長さん、一緒に日傘に入りませんか？\u3000涼しいですよ<emoji=heart04>」"
 translation = "「응후<emoji=heart04> 회장님, 같이 양산에 들어오지 않을래요? 시원해요<emoji=heart04>」"
 
 [[dialogue]]
-speaker = "アポロ"
+speaker_original = "アポロ"
+speaker_translation = "아폴로"
 original = "「鬼ごっこしよーぜ、魔王<emoji=heart04>\u3000あたしのこと捕まえてみろよ～」"
 translation = "「술래잡기하자, 마왕<emoji=heart04> 나를 잡아보라고~」"
 
 [[dialogue]]
-speaker = "ナターシャ"
+speaker_original = "ナターシャ"
+speaker_translation = "나타샤"
 original = "「あはは、みんな結構ノリノリだね」"
 translation = "「아하하, 다들 꽤 신났네」"
 
@@ -29,142 +33,170 @@ original = "この状況は一体……？"
 translation = "이 상황은 대체……?"
 
 [[dialogue]]
-speaker = "ナターシャ"
+speaker_original = "ナターシャ"
+speaker_translation = "나타샤"
 original = "「ああ、えっとね。話せば長くなるんだけど──」"
 translation = "「아아, 저기 말이야. 말하자면 길어지는데──」"
 
 [[dialogue]]
-speaker = "ナターシャ"
+speaker_original = "ナターシャ"
+speaker_translation = "나타샤"
 original = "「──というわけで困っちゃうよ。１人でビーチにいると、すぐ男の人に声をかけられて」"
 translation = "「──그런 고로 곤란하다니까. 혼자 해변에 있으면 금방 남자들이 말을 걸어와서」"
 
 [[dialogue]]
-speaker = "ナターシャ"
+speaker_original = "ナターシャ"
+speaker_translation = "나타샤"
 original = "「みんなはナンパ対策どうしてるの？\u3000水着姿だと嫌でも寄ってくるよね？」"
 translation = "「다들 헌팅 대책은 어떻게 하고 있어? 수영복 차림이면 싫어도 꼬이잖아?」"
 
 [[dialogue]]
-speaker = "梨緒"
+speaker_original = "梨緒"
+speaker_translation = "리오"
 original = "「単にナターシャの水着姿が大胆過ぎるだけだろう。正直その格好ではナンパしてくれと言っているようなものだ」"
 translation = "「단순히 나타샤의 수영복 차림이 너무 대담할 뿐이겠지. 솔직히 그 차림은 헌팅해달라고 말하는 것이나 다름없다」"
 
 [[dialogue]]
-speaker = "ナターシャ"
+speaker_original = "ナターシャ"
+speaker_translation = "나타샤"
 original = "「みんなも同じようなものじゃない。肌の露出だって多いし」"
 translation = "「다들 마찬가지잖아. 노출도 많고」"
 
 [[dialogue]]
-speaker = "梨緒"
+speaker_original = "梨緒"
+speaker_translation = "리오"
 original = "「だがそんな経験、私は一度もないぞ？\u3000みんなも同じじゃないか？」"
 translation = "「하지만 그런 경험, 나는 한 번도 없다고? 다들 마찬가지 아닌가?」"
 
 [[dialogue]]
-speaker = "ベアトリス"
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
 original = "「えと……。私はたまに……」"
 translation = "「저기……. 저는 가끔……」"
 
 [[dialogue]]
-speaker = "梨緒"
+speaker_original = "梨緒"
+speaker_translation = "리오"
 original = "「あ、あるのかっ！？」"
 translation = "「아, 있는 거냐!?」"
 
 [[dialogue]]
-speaker = "ベアトリス"
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
 original = "「ああでもすぐに立ち去られちゃうよっ？\u3000返事したら、何故かみんな鼻を押さえて、そそくさと逃げていっちゃって……！」"
 translation = "「아아 하지만 금방 가버려요? 대답하면, 왠지 다들 코를 움켜쥐고 서둘러 도망가버려서……!」"
 
 [[dialogue]]
-speaker = "ナターシャ"
+speaker_original = "ナターシャ"
+speaker_translation = "나타샤"
 original = "「ニンニクの食べ過ぎだよ、それは……。今もちょっぴり匂ってくるもん」"
 translation = "「마늘을 너무 많이 먹어서 그래, 그건……. 지금도 살짝 냄새가 나는걸」"
 
 [[dialogue]]
-speaker = "ベアトリス"
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
 original = "「ええっ、嘘っ！？\u3000今日はホタテのニンニク蒸しを食べた程度なのに……！」"
 translation = "「에엣, 거짓말!? 오늘은 가리비 마늘 찜을 좀 먹은 정도인데……!」"
 
 [[dialogue]]
-speaker = "梨緒"
+speaker_original = "梨緒"
+speaker_translation = "리오"
 original = "「しっかり食べてるじゃないか……。しかしベアトもナンパに遭ったことがあるとは……」"
 translation = "「제대로 먹었지 않나……. 하지만 베아트도 헌팅을 당한 적이 있다니……」"
 
 [[dialogue]]
-speaker = "アポロ"
+speaker_original = "アポロ"
+speaker_translation = "아폴로"
 original = "「なんだー？\u3000もしかして梨緒、海で男の人に声かけられたことないのかー？\u3000あたしでもあるぞ～？」"
 translation = "「뭐야~? 혹시 리오, 바다에서 남자한테 말 걸려본 적 없는 거야~? 나도 있다고~?」"
 
 [[dialogue]]
-speaker = "梨緒"
+speaker_original = "梨緒"
+speaker_translation = "리오"
 original = "「アポロまで！？\u3000いやしかし、それは明らかに危険人物だろう……！！\u3000即通報ものだ……！！」"
 translation = "「아폴로까지!? 아니 하지만, 그건 분명 위험인물이겠지……!! 즉시 신고감이다……!!」"
 
 [[dialogue]]
-speaker = "アポロ"
+speaker_original = "アポロ"
+speaker_translation = "아폴로"
 original = "「バカ言うなよ、いい人だったぞ。泳いでたら、あたしが溺れてるんじゃないかってわざわざ駆けつけてくれたんだ」"
 translation = "「바보 같은 소리 마, 좋은 사람이었다고. 헤엄치고 있었더니, 내가 익사하는 줄 알고 일부러 달려와 줬단 말이야」"
 
 [[dialogue]]
-speaker = "ナターシャ"
+speaker_original = "ナターシャ"
+speaker_translation = "나타샤"
 original = "「それってライフセーバーさんじゃない？\u3000アポロの泳ぎ方ってほら、超犬かきで傍目には溺れてるように見えるから」"
 translation = "「그건 라이프세이버 아냐? 아폴로의 수영 방식은 그게, 완전 개헤엄이라 남들이 보기엔 익사하는 것처럼 보이니까」"
 
 [[dialogue]]
-speaker = "梨緒"
+speaker_original = "梨緒"
+speaker_translation = "리오"
 original = "「そ、そういうことか。なら気にしないでいいな……」"
 translation = "「그, 그런 건가. 그럼 신경 안 써도 되겠군……」"
 
 [[dialogue]]
-speaker = "ナターシャ"
+speaker_original = "ナターシャ"
+speaker_translation = "나타샤"
 original = "「ふふ、梨緒さ。ちょっと羨ましがってない？\u3000というより焦ってる？\u3000自分だけ声をかけられた経験がなくて」"
 translation = "「후후, 리오 말이야. 좀 부러워하고 있지 않아? 아니면 초조해? 자신만 말을 걸려본 경험이 없어서」"
 
 [[dialogue]]
-speaker = "梨緒"
+speaker_original = "梨緒"
+speaker_translation = "리오"
 original = "「あ、焦ってない！\u3000ナンパなんてされない方がいいんだからな！」"
 translation = "「초, 초조하지 않아! 헌팅 같은 건 안 당하는 게 좋은 거니까!」"
 
 [[dialogue]]
-speaker = "ナターシャ"
+speaker_original = "ナターシャ"
+speaker_translation = "나타샤"
 original = "「ま、梨緒ってどこか堅苦しくて近寄りがたい雰囲気があるもんねー。よく言えば気品があるのかもしれないけど」"
 translation = "「뭐, 리오는 어딘가 딱딱하고 다가가기 힘든 분위기가 있으니까 말이야─. 좋게 말하면 기품이 있는 걸지도 모르겠지만」"
 
 [[dialogue]]
-speaker = "梨緒"
+speaker_original = "梨緒"
+speaker_translation = "리오"
 original = "「堅苦しくて近寄りがたいとはなんだ！？\u3000私だって１人で歩いていればナンパの１人や２人にだって遭うっ！」"
 translation = "「딱딱하고 다가가기 힘들다니 무슨 소리냐!? 나도 혼자 걷고 있으면 헌팅 한두 번쯤은 당한다!」"
 
 [[dialogue]]
-speaker = "梨緒"
+speaker_original = "梨緒"
+speaker_translation = "리오"
 original = "「そこまで言うなら勝負だっ！\u3000この中の誰が一番ナンパに遭いそうな水着美女か、勝負といこうじゃないかっ！」"
 translation = "「그렇게까지 말한다면 승부다! 이 중에서 누가 가장 헌팅당할 것 같은 수영복 미녀인지, 승부를 내보자고!」"
 
 [[dialogue]]
-speaker = "ナターシャ"
+speaker_original = "ナターシャ"
+speaker_translation = "나타샤"
 original = "「とまぁ、梨緒が熱くなっちゃって。そこで会長さんに誰の水着姿が一番魅力的か、決めてもらおうって話になったわけ」"
 translation = "「그렇게 해서 리오가 열이 올라버려서. 거기서 회장님한테 누구 수영복 모습이 가장 매력적인지 결정해달라는 이야기가 된 거야」"
 
 [[dialogue]]
-speaker = "ナターシャ"
+speaker_original = "ナターシャ"
+speaker_translation = "나타샤"
 original = "「でもまさか、あんなあからさまな色仕掛けし始めるとは思ってなかったけど」"
 translation = "「하지만 설마 저렇게 노골적으로 미인계를 쓰기 시작할 줄은 몰랐지만」"
 
 [[dialogue]]
-speaker = "梨緒"
+speaker_original = "梨緒"
+speaker_translation = "리오"
 original = "「い、色仕掛けしたつもりはない！\u3000体の一番自信のある部分を見せつけただけだ……！」"
 translation = "「미, 미인계를 쓸 생각은 없다! 몸에서 가장 자신 있는 부분을 보여줬을 뿐이다……!」"
 
 [[dialogue]]
-speaker = "ナターシャ"
+speaker_original = "ナターシャ"
+speaker_translation = "나타샤"
 original = "「だけど、みんな全然なってないね。本気で男の人を誘惑したいなら、このくらいはやらなきゃ<emoji=heart04>」"
 translation = "「그치만 다들 전혀 안 돼 있네. 진심으로 남자를 유혹하고 싶다면, 이 정도는 해야지<emoji=heart04>」"
 
 [[dialogue]]
-speaker = "ベアトリス"
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
 original = "「わわっ、サンオイルの瓶をお胸に挟んで……！？\u3000なんて大胆な……！！」"
 translation = "「와와, 선오일 병을 가슴 사이에 끼우고……!? 저렇게 대담할 수가……!!」"
 
 [[dialogue]]
-speaker = "ナターシャ"
+speaker_original = "ナターシャ"
+speaker_translation = "나타샤"
 original = "「んふ、会長さん<emoji=heart04>\u3000オイル塗ってくれない？\u3000日焼けしそうで怖いからさ<emoji=heart04>」"
 translation = "「응후, 회장님<emoji=heart04> 오일 좀 발라줄래? 탈 것 같아서 무서우니까 말이야<emoji=heart04>」"
 
@@ -174,7 +206,8 @@ original = "ちょっ……！！"
 translation = "잠깐……!!"
 
 [[dialogue]]
-speaker = "アポロ"
+speaker_original = "アポロ"
+speaker_translation = "아폴로"
 original = "「おおー、魔王の顔が真っ赤だぜ。ナターシャの胸、思いっきり覗き込んでやがる！」"
 translation = "「오오─ 마왕의 얼굴이 새빨갛다구. 나타샤의 가슴을 아주 대놓고 들여다보고 있잖아!」"
 
@@ -184,27 +217,32 @@ original = "覗き込んでない！"
 translation = "안 들여다봤어!"
 
 [[dialogue]]
-speaker = "ナターシャ"
+speaker_original = "ナターシャ"
+speaker_translation = "나타샤"
 original = "「ふふ、遠慮しなくていーよ<emoji=heart04>\u3000ほら谷間からオイルの瓶、取っちゃって？」"
 translation = "「후후, 사양하지 않아도 돼<emoji=heart04> 자, 가슴골에서 오일 병, 꺼내줄래?」"
 
 [[dialogue]]
-speaker = "ナターシャ"
+speaker_original = "ナターシャ"
+speaker_translation = "나타샤"
 original = "「たっぷり塗り込んで欲しいな……<emoji=heart04>\u3000実は私、肌弱いんだよね……<emoji=heart04>\u3000今も痒くて痒くて仕方ないんだ……<emoji=heart04>」"
 translation = "「듬뿍 발라줬으면 좋겠네……<emoji=heart04> 사실 나, 피부가 약하거든……<emoji=heart04> 지금도 가려워서 가려워서 어쩔 수가 없어……<emoji=heart04>」"
 
 [[dialogue]]
-speaker = "ナターシャ"
+speaker_original = "ナターシャ"
+speaker_translation = "나타샤"
 original = "「さあ……掻いて<emoji=heart04>\u3000掻き掻きしてよ……<emoji=heart04>」"
 translation = "「자…… 긁어줘<emoji=heart04> 긁어줘어……<emoji=heart04>」"
 
 [[dialogue]]
-speaker = "ナターシャ"
+speaker_original = "ナターシャ"
+speaker_translation = "나타샤"
 original = "「私の全部、会長さんにオイルマッサージして欲しいな……<emoji=heart04>」"
 translation = "「내 전부를 회장님이 오일 마사지해줬으면 좋겠네……<emoji=heart04>」"
 
 [[dialogue]]
-speaker = "ナターシャ"
+speaker_original = "ナターシャ"
+speaker_translation = "나타샤"
 original = "「会長さんの手で、私の全身くまなく揉みほぐして……<emoji=heart04>」"
 translation = "「회장님의 손으로, 내 전신을 구석구석 주물러서 풀어줘……<emoji=heart04>」"
 
@@ -214,22 +252,26 @@ original = "ゴ、ゴクリ……"
 translation = "꿀, 꺽……"
 
 [[dialogue]]
-speaker = "ナターシャ"
+speaker_original = "ナターシャ"
+speaker_translation = "나타샤"
 original = "「と──相手が胸ばっか見てるところで、太もものナイフで死角からぶすっといっちゃうわけ」"
 translation = "「하고── 상대가 가슴만 보고 있을 때, 허벅지의 나이프로 사각에서 푹 찌르는 거지」"
 
 [[dialogue]]
-speaker = "梨緒"
+speaker_original = "梨緒"
+speaker_translation = "리오"
 original = "「なるほど……勉強になるな。暗殺者らしい隙の突き方だ」"
 translation = "「과연…… 공부가 되는군. 암살자다운 빈틈을 찌르는 법이다」"
 
 [[dialogue]]
-speaker = "アポロ"
+speaker_original = "アポロ"
+speaker_translation = "아폴로"
 original = "「え、なんだ？\u3000そーゆー話だったのか？」"
 translation = "「에, 뭐야? 그런 이야기였냐?」"
 
 [[dialogue]]
-speaker = "ベアトリス"
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
 original = "「さっきのナターシャちゃん、とっても色っぽくて、私までドキドキしちゃったよぉ」"
 translation = "「방금 나타샤짱, 너무 섹시해서 저까지 두근거려버렸어요오」"
 
@@ -239,22 +281,26 @@ original = "…………"
 translation = "…………"
 
 [[dialogue]]
-speaker = "ナターシャ"
+speaker_original = "ナターシャ"
+speaker_translation = "나타샤"
 original = "「あはは、ごめんごめん。茶番に付き合わせちゃって」"
 translation = "「아하하, 미안 미안. 연극에 어울리게 해서」"
 
 [[dialogue]]
-speaker = "ナターシャ"
+speaker_original = "ナターシャ"
+speaker_translation = "나타샤"
 original = "「お詫びに後で、私が会長さんにオイルマッサージしてあげる。この辺りとかぁ……ちょっと日焼けしてるみたいだし<emoji=heart04>」"
 translation = "「사과의 뜻으로 나중에 내가 회장님한테 오일 마사지해줄게. 이 근처라든가…… 좀 탄 것 같기도 하고<emoji=heart04>」"
 
 [[dialogue]]
-speaker = "ナターシャ"
+speaker_original = "ナターシャ"
+speaker_translation = "나타샤"
 original = "「なーんて、ふふふ<emoji=heart04>\u3000すーぐ顔赤くしちゃって<emoji=heart04>\u3000そんな簡単に誘惑されちゃったら、ホントにぶすっといかれちゃうよ？」"
 translation = "「라니, 후후후<emoji=heart04> 금방 얼굴 붉히기는<emoji=heart04> 그렇게 쉽게 유혹당해버리면, 정말로 푹 찔려버린다고?」"
 
 [[dialogue]]
-speaker = "ナターシャ"
+speaker_original = "ナターシャ"
+speaker_translation = "나타샤"
 original = "「くれぐれも、気を付けてね<emoji=heart04>」"
 translation = "「부디, 조심해줘<emoji=heart04>」"
 

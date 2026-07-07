@@ -4,247 +4,296 @@ original = "第５話,ヨミへのプレゼントだぴょん！,B"
 translation = "제5화, 요미에게 주는 선물이다뿅!, B"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「ヨミヨミはどこかな～？\u3000あ、いたいた」"
 translation = "「요미요미는 어디 있을까~? 아, 찾았다 찾았다」"
 
 [[dialogue]]
-speaker = "ヨミ"
+speaker_original = "ヨミ"
+speaker_translation = "요미"
 original = "「こやっ、お嬢様にメイド長。いらっしゃいませ、どのようなご用件でしょうか？」"
 translation = "「코얏, 아가씨에 메이드장님. 어서 오세요, 어떤 용건이신가요?」"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「任務管轄係のお仕事、お疲れ様ね」"
 translation = "「임무 관할 계원 일, 수고가 많네」"
 
 [[dialogue]]
-speaker = "ヨミ"
+speaker_original = "ヨミ"
+speaker_translation = "요미"
 original = "「はいっ！\u3000<b>クエスト受付嬢</b>のお仕事、頑張ってます♪」"
 translation = "「네! <b>퀘스트</b> <b>접수원</b> 일, 열심히 하고 있어요♪」"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「まだその呼び方にこだわってるのね」"
 translation = "「아직도 그 호칭에 집착하고 있네」"
 
 [[dialogue]]
-speaker = "ヨミ"
+speaker_original = "ヨミ"
+speaker_translation = "요미"
 original = "「ええ、まあ。自分の中で定着してしまっていまして」"
 translation = "「에에, 뭐. 제 안에서 정착되어 버려서요」"
 
 [[dialogue]]
-speaker = "ヨミ"
+speaker_original = "ヨミ"
+speaker_translation = "요미"
 original = "「それよりお２人は、どの様なご用件でしょう？」"
 translation = "「그보다 두 분은 어떤 용건이신가요?」"
 
 [[dialogue]]
-speaker = "蘭美"
+speaker_original = "蘭美"
+speaker_translation = "라미"
 original = "「違うわ、ヨミ。今日はそういうのじゃなくてね、皆にプレゼントを配って回っているのよ」"
 translation = "「아니란다, 요미. 오늘은 그런 게 아니라, 모두에게 선물을 나눠주러 다니고 있어」"
 
 [[dialogue]]
-speaker = "ヨミ"
+speaker_original = "ヨミ"
+speaker_translation = "요미"
 original = "「プレゼント、ですか？」"
 translation = "「선물, 인가요?」"
 
 [[dialogue]]
-speaker = "蘭美"
+speaker_original = "蘭美"
+speaker_translation = "라미"
 original = "「ええ。実はね──」"
 translation = "「그래. 사실은 말이다──」"
 
 [[dialogue]]
-speaker = "ヨミ"
+speaker_original = "ヨミ"
+speaker_translation = "요미"
 original = "「なるほどです。それでお嬢様とメイド長の２人でクリスマスプレゼントを配っているんですね」"
 translation = "「그렇군요. 그래서 아가씨와 메이드장님 두 분이서 크리스마스 선물을 나눠주고 계신 거네요」"
 
 [[dialogue]]
-speaker = "蘭美"
+speaker_original = "蘭美"
+speaker_translation = "라미"
 original = "「そうよ。で、この人工戦闘服の能力を引き出すために、クリスマスの思い出を語ってもらっているってわけね」"
 translation = "「그래. 그래서, 이 인공 전투복의 능력을 끌어내기 위해서, 크리스마스의 추억을 이야기하게 하고 있는 거지」"
 
 [[dialogue]]
-speaker = "ヨミ"
+speaker_original = "ヨミ"
+speaker_translation = "요미"
 original = "「クリスマスの思い出……というと、やっぱり前回のクリスマスでしょうか……」"
 translation = "「크리스마스의 추억…… 이라고 하면, 역시 지난 크리스마스일까요……」"
 
 [[dialogue]]
-speaker = "ヨミ"
+speaker_original = "ヨミ"
+speaker_translation = "요미"
 original = "「大変でしたけど、今となってはとってもいい思い出です♪」"
 translation = "「힘들었지만, 지금에 와서는 정말 좋은 추억이에요♪」"
 
 [[dialogue]]
-speaker = "蘭美"
+speaker_original = "蘭美"
+speaker_translation = "라미"
 original = "「新星寮に忍び込んで、寮長と戦うハメになってしまった、っていうアレね？」"
 translation = "「신성료에 잠입해서, 사감과 싸우게 되어버렸던 그 일 말이구나?」"
 
 [[dialogue]]
-speaker = "ヨミ"
+speaker_original = "ヨミ"
+speaker_translation = "요미"
 original = "「……………………」"
 translation = "「……………………」"
 
 [[dialogue]]
-speaker = "ヨミ"
+speaker_original = "ヨミ"
+speaker_translation = "요미"
 original = "「がくがくぶるぶるがくがくぶるぶる──」"
 translation = "「덜덜덜덜 덜덜덜덜──」"
 
 [[dialogue]]
-speaker = "蘭美"
+speaker_original = "蘭美"
+speaker_translation = "라미"
 original = "「気を確かに持ちなさい、ヨミ！」"
 translation = "「정신 차리거라, 요미!」"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「うふふ、ヨミヨミのトラウマが再発しちゃったみたいね～」"
 translation = "「우후후, 요미요미의 트라우마가 재발해 버린 모양이네~」"
 
 [[dialogue]]
-speaker = "ヨミ"
+speaker_original = "ヨミ"
+speaker_translation = "요미"
 original = "「笑い事じゃないですよ～！\u3000わたし、お嬢様に巻き込まれたんですからね！」"
 translation = "「웃을 일이 아니에요~! 저, 아가씨 때문에 휘말린 거니까요!」"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「ごめんごめん。じゃあさ、他には何か面白い思い出はないの？」"
 translation = "「미안 미안. 그럼 말이야, 다른 건 뭔가 재미있는 추억 없어?」"
 
 [[dialogue]]
-speaker = "ヨミ"
+speaker_original = "ヨミ"
+speaker_translation = "요미"
 original = "「他に、ですか……ええと……申し訳ありません、魔界に居た頃はクリスマスにあまり縁が無かったので」"
 translation = "「다른 거, 인가요…… 에토…… 죄송합니다, 마계에 있을 때는 크리스마스와 별로 인연이 없어서요」"
 
 [[dialogue]]
-speaker = "蘭美"
+speaker_original = "蘭美"
+speaker_translation = "라미"
 original = "「あら、そうなの？」"
 translation = "「어머, 그러니?」"
 
 [[dialogue]]
-speaker = "ヨミ"
+speaker_original = "ヨミ"
+speaker_translation = "요미"
 original = "「毎年クリスマスの時期は、年末に向けて神社のお仕事で大忙しだったんですよ」"
 translation = "「매년 크리스마스 시기에는 연말을 향해서 신사 일로 아주 바빴거든요」"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「ヨミヨミは巫女さんだから、まあ、そうなっちゃうか……」"
 translation = "「요미요미는 무녀니까, 뭐, 그렇게 되어버리나……」"
 
 [[dialogue]]
-speaker = "蘭美"
+speaker_original = "蘭美"
+speaker_translation = "라미"
 original = "「お正月に向けての準備というのは、どんなことをしていたのかしら？」"
 translation = "「정월을 향한 준비라는 건, 어떤 일을 하고 있었느냐?」"
 
 [[dialogue]]
-speaker = "ヨミ"
+speaker_original = "ヨミ"
+speaker_translation = "요미"
 original = "「そうですね……煤払いだったり、お正月の飾りをしたり、お札や絵馬や破魔矢なんかを用意したり……」"
 translation = "「글쎄요…… 대청소라든가, 정월 장식을 하거나, 부적이나 에마나 파마살 같은 걸 준비하거나……」"
 
 [[dialogue]]
-speaker = "ヨミ"
+speaker_original = "ヨミ"
+speaker_translation = "요미"
 original = "「あとは舞のためのお稽古もやってましたよ」"
 translation = "「나머지는 춤 연습도 하고 있었어요」"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「あれ？\u3000でもヨミヨミの舞ってどうなんだっけ？\u3000確か爆裂下手だって言ってたような……」"
 translation = "「어라? 근데 요미요미 춤은 어땠더라? 분명 엄청 못한다고 했던 것 같은데……」"
 
 [[dialogue]]
-speaker = "ヨミ"
+speaker_original = "ヨミ"
+speaker_translation = "요미"
 original = "「こやっ！！？」"
 translation = "「코얏!!?」"
 
 [[dialogue]]
-speaker = "蘭美"
+speaker_original = "蘭美"
+speaker_translation = "라미"
 original = "「確かにヨミの絶望的なリズム感では、まともに舞が踊れる気がしないわね」"
 translation = "「확실히 요미의 절망적인 리듬감으로는, 제대로 춤을 출 수 있을 것 같지 않구나」"
 
 [[dialogue]]
-speaker = "ヨミ"
+speaker_original = "ヨミ"
+speaker_translation = "요미"
 original = "「こややややっ！！\u3000ひ、酷い言われようですっ！」"
 translation = "「코야야야얏!! 너, 너무한 말씀이세요!」"
 
 [[dialogue]]
-speaker = "ヨミ"
+speaker_original = "ヨミ"
+speaker_translation = "요미"
 original = "「確かにわたしの舞は未熟ですけど、それでも頑張ってるんです～っ！！」"
 translation = "「확실히 제 춤은 미숙하지만, 그래도 열심히 하고 있다고요~!」"
 
 [[dialogue]]
-speaker = "蘭美"
+speaker_original = "蘭美"
+speaker_translation = "라미"
 original = "「ふふっ、まあまあ、これで機嫌を直してちょうだい。はい、プレゼント」"
 translation = "「후훗, 자자, 이걸로 기분 풀거라. 자, 선물이다」"
 
 [[dialogue]]
-speaker = "ヨミ"
+speaker_original = "ヨミ"
+speaker_translation = "요미"
 original = "「わわっ、ありがとうございます！」"
 translation = "「와왓, 감사합니다!」"
 
 [[dialogue]]
-speaker = "蘭美"
+speaker_original = "蘭美"
+speaker_translation = "라미"
 original = "「クリスマスに縁が無かったって言ってたけど、プレゼントを貰うのも初めてかしら？」"
 translation = "「크리스마스와 인연이 없었다고 했는데, 선물을 받는 것도 처음이니?」"
 
 [[dialogue]]
-speaker = "ヨミ"
+speaker_original = "ヨミ"
+speaker_translation = "요미"
 original = "「あ、いえ、お父様とお母様から頂いたことはありますよ」"
 translation = "「아, 아뇨, 아버님과 어머님께 받은 적은 있어요」"
 
 [[dialogue]]
-speaker = "ヨミ"
+speaker_original = "ヨミ"
+speaker_translation = "요미"
 original = "「『サンタクロースさんに魔界まで来てもらうのは大変だから、私たちから代わりにプレゼントだよ』って」"
 translation = "「『산타클로스 할아버지가 마계까지 오시는 건 힘드니까, 우리가 대신 주는 선물이야』라면서요」"
 
 [[dialogue]]
-speaker = "ヨミ"
+speaker_original = "ヨミ"
+speaker_translation = "요미"
 original = "「でも、それ以外の人からプレゼントを頂いたのは初めてかもしれません、えへへ♪」"
 translation = "「하지만, 그 외의 분에게 선물을 받은 건 처음일지도 모르겠어요, 에헤헤♪」"
 
 [[dialogue]]
-speaker = "蘭美"
+speaker_original = "蘭美"
+speaker_translation = "라미"
 original = "「光栄ね、気に入ってもらえるといいのだけど」"
 translation = "「영광이구나, 마음에 들면 좋겠다만」"
 
 [[dialogue]]
-speaker = "ヨミ"
+speaker_original = "ヨミ"
+speaker_translation = "요미"
 original = "「こやっ！？\u3000手袋とマフラーじゃないですか！」"
 translation = "「코얏!? 장갑이랑 목도리잖아요!」"
 
 [[dialogue]]
-speaker = "蘭美"
+speaker_original = "蘭美"
+speaker_translation = "라미"
 original = "「どうかしら？」"
 translation = "「어떠니?」"
 
 [[dialogue]]
-speaker = "ヨミ"
+speaker_original = "ヨミ"
+speaker_translation = "요미"
 original = "「とっても嬉しいです！」"
 translation = "「정말 기뻐요!」"
 
 [[dialogue]]
-speaker = "ヨミ"
+speaker_original = "ヨミ"
+speaker_translation = "요미"
 original = "「そうだ、クリスマスの思い出じゃないんですけど、手袋とマフラーを見ると、一緒に舞の練習をしていたお友達のことを思い出します」"
 translation = "「맞다, 크리스마스의 추억은 아니지만, 장갑이랑 목도리를 보면 같이 춤 연습을 하던 친구들이 생각나요」"
 
 [[dialogue]]
-speaker = "ヨミ"
+speaker_original = "ヨミ"
+speaker_translation = "요미"
 original = "「休憩時間になるとストーブの周りに輪を作って、みーんな巫女服なのにマフラーを巻いて手袋をつけてて」"
 translation = "「휴식 시간이 되면 난로 주변에 둥글게 모여서, 다들 무녀복인데 목도리를 두르고 장갑을 끼고 있어서」"
 
 [[dialogue]]
-speaker = "ヨミ"
+speaker_original = "ヨミ"
+speaker_translation = "요미"
 original = "「爆裂変な格好だねって、それが面白くて休憩で顔を合わせる度にみんな笑いが止まらなくて……ふふふっ♪」"
 translation = "「엄청 이상한 모습이라고, 그게 웃겨서 휴식 때 얼굴을 마주칠 때마다 다들 웃음이 멈추지 않아서…… 후후후♪」"
 
 [[dialogue]]
-speaker = "蘭美"
+speaker_original = "蘭美"
+speaker_translation = "라미"
 original = "「なによ、素敵な思い出じゃない」"
 translation = "「뭐니, 멋진 추억이잖니」"
 
 [[dialogue]]
-speaker = "ヨミ"
+speaker_original = "ヨミ"
+speaker_translation = "요미"
 original = "「はい、このプレゼントのおかげで思い出すことが出来ました」"
 translation = "「네, 이 선물 덕분에 떠올릴 수 있었어요」"
 
 [[dialogue]]
-speaker = "ヨミ"
+speaker_original = "ヨミ"
+speaker_translation = "요미"
 original = "「ありがとうございます。今年の初詣はこれをつけてお参りに行きますねっ♪」"
 translation = "「감사합니다. 올해 첫 참배는 이걸 하고 가야겠어요♪」"
 

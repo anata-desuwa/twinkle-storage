@@ -1,5 +1,6 @@
 [[dialogue]]
-speaker = "イニシュ"
+speaker_original = "イニシュ"
+speaker_translation = "이니슈"
 original = "「この付近にモンスターの反応はないようです。移動しましょう」"
 translation = "「이 부근에 몬스터 반응은 없는 모양입니다. 이동하죠.」"
 
@@ -9,17 +10,20 @@ original = "その前にラーメン食べよう！"
 translation = "그전에 라멘 먹자!"
 
 [[dialogue]]
-speaker = "イニシュ"
+speaker_original = "イニシュ"
+speaker_translation = "이니슈"
 original = "「……はい？」"
 translation = "「……네?」"
 
 [[dialogue]]
-speaker = "イニシュ"
+speaker_original = "イニシュ"
+speaker_translation = "이니슈"
 original = "「私はラーメンを食べに来たわけではありません。モンスターの殲滅のためです」"
 translation = "「저는 라멘을 먹으러 온 것이 아닙니다. 몬스터 섬멸을 위해서입니다.」"
 
 [[dialogue]]
-speaker = "イニシュ"
+speaker_original = "イニシュ"
+speaker_translation = "이니슈"
 original = "「確かにエネルギー補給のためにスリープを解除しましたが、まだその必要はありません」"
 translation = "「확실히 에너지 보급을 위해 슬립을 해제했습니다만 아직 그럴 필요는 없습니다.」"
 
@@ -29,47 +33,56 @@ original = "食べられる時に食べるのも戦いのうち"
 translation = "먹을 수 있을 때 먹는 것도 전투의 일환이야."
 
 [[dialogue]]
-speaker = "イニシュ"
+speaker_original = "イニシュ"
+speaker_translation = "이니슈"
 original = "「……わかりました。魔王がそこまで言うのなら行きましょう」"
 translation = "「……알겠습니다. 마왕이 그렇게까지 말한다면 가도록 하죠.」"
 
 [[dialogue]]
-speaker = "イニシュ"
+speaker_original = "イニシュ"
+speaker_translation = "이니슈"
 original = "「店の前にこんなに列が……。ラーメンは人間界で人気の料理と聞いていましたが、ここまでとは思いませんでした」"
 translation = "「가게 앞에 줄이 이렇게나……. 라멘은 인간계에서 인기 있는 요리라고 들었지만 이 정도일 줄은 몰랐습니다.」"
 
 [[dialogue]]
-speaker = "イニシュ"
+speaker_original = "イニシュ"
+speaker_translation = "이니슈"
 original = "「ですがもう少しで入店できそうですね」"
 translation = "「하지만 조금만 더 있으면 입장할 수 있겠네요.」"
 
 [[dialogue]]
-speaker = "イニシュ"
+speaker_original = "イニシュ"
+speaker_translation = "이니슈"
 original = "「……ラーメン」"
 translation = "「……라면.」"
 
 [[dialogue]]
-speaker = "イニシュ"
+speaker_original = "イニシュ"
+speaker_translation = "이니슈"
 original = "「？\u3000どうしましたか、魔王？」"
 translation = "「? 무슨 일입니까, 마왕?」"
 
 [[dialogue]]
-speaker = "イニシュ"
+speaker_original = "イニシュ"
+speaker_translation = "이니슈"
 original = "「急な用事が入って、今すぐ行かないといけない……？\u3000了解です。では後で合流しましょう」"
 translation = "「갑작스러운 용무가 생겨서 지금 당장 가야 한다고요……? 알겠습니다. 그럼 나중에 합류하죠.」"
 
 [[dialogue]]
-speaker = "コハルコ"
+speaker_original = "コハルコ"
+speaker_translation = "쿠하루코"
 original = "『もしもし？\u3000私が送ったラーメン屋さんの情報、役に立った？』"
 translation = "『여보세요? 내가 보내준 라멘 가게 정보, 도움이 됐어?』"
 
 [[dialogue]]
-speaker = "コハルコ"
+speaker_original = "コハルコ"
+speaker_translation = "쿠하루코"
 original = "『……バッチリ？\u3000ならよかった。よくわからないけど、他の地域の人気店も調べればいいんだよね』"
 translation = "『……완벽해? 그럼 다행이네. 잘은 모르겠지만 다른 지역의 인기점도 조사하면 된다는 거지?』"
 
 [[dialogue]]
-speaker = "コハルコ"
+speaker_original = "コハルコ"
+speaker_translation = "쿠하루코"
 original = "『あとモンスターの反応だけど、そこから北西に──』"
 translation = "『그리고 몬스터 반응인데, 거기서 북서쪽으로──』"
 
@@ -89,12 +102,14 @@ original = "シーリング！"
 translation = "실링!"
 
 [[dialogue]]
-speaker = "スミス"
+speaker_original = "スミス"
+speaker_translation = "스미스"
 original = "「ゲコー！」"
 translation = "「게코!」"
 
 [[dialogue]]
-speaker = "イニシュ"
+speaker_original = "イニシュ"
+speaker_translation = "이니슈"
 original = "「用事は終わりましたか、魔王」"
 translation = "「용무는 끝났습니까, 마왕.」"
 
@@ -104,17 +119,20 @@ original = "おかげさまで。ラーメンはどうだった？"
 translation = "덕분에. 라멘은 어땠어?"
 
 [[dialogue]]
-speaker = "イニシュ"
+speaker_original = "イニシュ"
+speaker_translation = "이니슈"
 original = "「予想以上の味でした。豚骨と魚介の強い旨味に、弾力のある太麺の組み合わせが絶妙です」"
 translation = "「예상 이상의 맛이었습니다. 돈코츠와 해산물의 강한 감칠맛에 탄력 있는 굵은 면의 조합이 절묘하더군요.」"
 
 [[dialogue]]
-speaker = "イニシュ"
+speaker_original = "イニシュ"
+speaker_translation = "이니슈"
 original = "「カップ麺でも同系統の味は食したことがありましたが、やはり店で食べるものは違いますね」"
 translation = "「컵라면으로도 동계통의 맛을 먹어본 적이 있었습니다만 역시 가게에서 먹는 것은 다르네요.」"
 
 [[dialogue]]
-speaker = "イニシュ"
+speaker_original = "イニシュ"
+speaker_translation = "이니슈"
 original = "「もちろん、カップ麺は手軽に食べられるというメリットがあります。どちらも素晴らしいものです」"
 translation = "「물론 컵라면은 간편하게 먹을 수 있다는 장점이 있습니다. 둘 다 훌륭한 것입니다.」"
 
@@ -124,157 +142,188 @@ original = "他にもおすすめのお店があるんだけど……"
 translation = "다른 추천하는 가게도 있는데……."
 
 [[dialogue]]
-speaker = "イニシュ"
+speaker_original = "イニシュ"
+speaker_translation = "이니슈"
 original = "「！」"
 translation = "「!」"
 
 [[dialogue]]
-speaker = "イニシュ"
+speaker_original = "イニシュ"
+speaker_translation = "이니슈"
 original = "「……そちらのお店も案内していただけますか？」"
 translation = "「……그 가게들도 안내해 주시겠습니까?」"
 
 [[dialogue]]
-speaker = "ウェンディ"
+speaker_original = "ウェンディ"
+speaker_translation = "웬디"
 original = "「あ、会長さん！\u3000ふぅ……ようやく合流できましたね」"
 translation = "「아, 회장님! 후우…… 드디어 합류했네요.」"
 
 [[dialogue]]
-speaker = "ウェンディ"
+speaker_original = "ウェンディ"
+speaker_translation = "웬디"
 original = "「はい。使い魔は確かに返却いただきました。そちらの進捗は……やはりある程度はイニシュにやられましたか」"
 translation = "「네. 사역마는 확실히 반납받았습니다. 그쪽 진척은…… 역시 어느 정도는 이니슈에게 당했나요.」"
 
 [[dialogue]]
-speaker = "ウェンディ"
+speaker_original = "ウェンディ"
+speaker_translation = "웬디"
 original = "「まとめると、実験体２０体のうち、イニシュに撃破されたのが１０体。捕獲に成功したのが８体、また逃亡中なのが２体」"
 translation = "「정리하면 실험체 20마리 중 이니슈에게 격파된 것이 10마리. 포획에 성공한 것이 8마리, 아직 도망 중인 게 2마리.」"
 
 [[dialogue]]
-speaker = "ウェンディ"
+speaker_original = "ウェンディ"
+speaker_translation = "웬디"
 original = "「回収はもう少しですが、残る実験体を全て捕獲できても最初の半数ほど。うぅ……実験としてギリギリの数ですね……」"
 translation = "「회수는 조금 더 남았지만 남은 실험체를 전부 잡는다고 해도 처음의 절반 정도. 으으…… 실험으로서 아슬아슬한 숫자네요……」"
 
 [[dialogue]]
-speaker = "ウェンディ"
+speaker_original = "ウェンディ"
+speaker_translation = "웬디"
 original = "「私も基地では時間稼ぎの策を講じてきましたが──」"
 translation = "「저도 기지에선 시간을 끌기 위한 책을 강구해 왔습니다만──」"
 
 [[dialogue]]
-speaker = "ウェンディ"
+speaker_original = "ウェンディ"
+speaker_translation = "웬디"
 original = "「はぁ、はぁ……こんなに飛ばしたのはネビュラの戦闘訓練以来ですよ……」"
 translation = "「하아, 하아…… 이렇게 전력으로 날아온 건 네뷸라 전투 훈련 이후 처음이에요……」"
 
 [[dialogue]]
-speaker = "アイリーン"
+speaker_original = "アイリーン"
+speaker_translation = "아이린"
 original = "「ウェンディさん、お帰りなさーい。そんなに慌ててどうしたの？」"
 translation = "「웬디 씨, 어서 와~ 왜 그렇게 당황해서 그래?」"
 
 [[dialogue]]
-speaker = "ウェンディ"
+speaker_original = "ウェンディ"
+speaker_translation = "웬디"
 original = "「ええっと、そろそろ長官がお戻りになる頃だと思いまして……」"
 translation = "「에 그러니까, 슬슬 장관님이 돌아오실 때라고 생각해서요……」"
 
 [[dialogue]]
-speaker = "アイリーン"
+speaker_original = "アイリーン"
+speaker_translation = "아이린"
 original = "「長官ならまだ帰ってきてないよー」"
 translation = "「장관님이라면 아직 안 왔는걸~」"
 
 [[dialogue]]
-speaker = "ウェンディ"
+speaker_original = "ウェンディ"
+speaker_translation = "웬디"
 original = "「ほっ……」"
 translation = "「휴우……」"
 
 [[dialogue]]
-speaker = "アイリーン"
+speaker_original = "アイリーン"
+speaker_translation = "아이린"
 original = "「どしたの？\u3000ウェンディさん、長官はまだですかーって、いつもそわそわしてたのに」"
 translation = "「왜 그래? 웬디 씨, 장관님은 아직인가요~ 라멘서 늘 안절부절못했으면서.」"
 
 [[dialogue]]
-speaker = "ウェンディ"
+speaker_original = "ウェンディ"
+speaker_translation = "웬디"
 original = "「私そんなんじゃありませんっ」"
 translation = "「저 안 그랬거든요!」"
 
 [[dialogue]]
-speaker = "ウェンディ"
+speaker_original = "ウェンディ"
+speaker_translation = "웬디"
 original = "「あ、いえいえ、長官が戻られる前に終わらせておきたい仕事があったんですよ」"
 translation = "「아, 아니 아니, 장관님이 돌아오시기 전에 끝내 두고 싶은 일이 있었을 뿐이에요.」"
 
 [[dialogue]]
-speaker = "ウェンディ"
+speaker_original = "ウェンディ"
+speaker_translation = "웬디"
 original = "「ところでアイリーン。長官とはしばらくチェスをしていませんよね。久しぶりに勝負してみてくれませんか？\u3000長官とアイリーンから指し方を学びたいんです」"
 translation = "「그런데 아이린. 장관님이랑 한동안 체스 안 했지. 오랜만에 승부 한 번 해보지 않을래? 장관님이랑 아이린이 두는 법을 배우고 싶거든.」"
 
 [[dialogue]]
-speaker = "アイリーン"
+speaker_original = "アイリーン"
+speaker_translation = "아이린"
 original = "「別にいいけど長官が受けてくれるかなぁ？」"
 translation = "「상관없긴 한데 장관님이 받아 주실까?」"
 
 [[dialogue]]
-speaker = "ウェンディ"
+speaker_original = "ウェンディ"
+speaker_translation = "웬디"
 original = "「やってくれたら、特別にお小遣いあげますよ」"
 translation = "「해주면 특별히 용돈 줄게.」"
 
 [[dialogue]]
-speaker = "アイリーン"
+speaker_original = "アイリーン"
+speaker_translation = "아이린"
 original = "「じゃあやる～♪」"
 translation = "「그럼 할래~♪」"
 
 [[dialogue]]
-speaker = "セドナ"
+speaker_original = "セドナ"
+speaker_translation = "세드나"
 original = "「何の話をしているんだ？」"
 translation = "「무슨 이야기를 하고 있지?」"
 
 [[dialogue]]
-speaker = "ウェンディ"
+speaker_original = "ウェンディ"
+speaker_translation = "웬디"
 original = "「ひゃいっ！？\u3000セドナ長官、いつの間に！？」"
 translation = "「히익!? 세드나 장관님, 어느 틈에!?」"
 
 [[dialogue]]
-speaker = "セドナ"
+speaker_original = "セドナ"
+speaker_translation = "세드나"
 original = "「今戻ったところだ。まったく、老人たちの相手は肩が凝る」"
 translation = "「방금 돌아왔다. 정말이지, 노인네들 상대는 어깨가 결리는군.」"
 
 [[dialogue]]
-speaker = "ウェンディ"
+speaker_original = "ウェンディ"
+speaker_translation = "웬디"
 original = "「長官、こちらネビュラ関連企業の売り上げ試算表です。決算関係の書類も作成しておきました」"
 translation = "「장관님, 여기 네뷸라 관련 기업의 매출 시산표입니다. 결산 관련 서류도 작성해 두었습니다.」"
 
 [[dialogue]]
-speaker = "セドナ"
+speaker_original = "セドナ"
+speaker_translation = "세드나"
 original = "「ご苦労、確認する。だがこの時期にしては書類が多いな」"
 translation = "「수고했다, 확인하지. 하지만 이 시기치고는 서류가 많구나.」"
 
 [[dialogue]]
-speaker = "ウェンディ"
+speaker_original = "ウェンディ"
+speaker_translation = "웬디"
 original = "「あ、いえ、例の<b>計画</b>がありますから、前倒しできるものは前倒ししておいた方が良いかと思いまして」"
 translation = "「아, 아니, 그 계획이 있으니까요. 앞당길 수 있는 건 미리 해두는 게 좋을 것 같아서요.」"
 
 [[dialogue]]
-speaker = "セドナ"
+speaker_original = "セドナ"
+speaker_translation = "세드나"
 original = "「それはそうだ。──が、何か様子がおかしくないか？」"
 translation = "「그건 그렇다만. ──하지만, 뭔가 상태가 이상하지 않나?」"
 
 [[dialogue]]
-speaker = "ウェンディ"
+speaker_original = "ウェンディ"
+speaker_translation = "웬디"
 original = "「そそ、そんなことはありませんとも！\u3000私はいつも通りお仕事大好きですとも！」"
 translation = "「그그, 그런 일 없습니다! 저는 평소처럼 일하는 게 정말 좋습니다!」"
 
 [[dialogue]]
-speaker = "アイリーン"
+speaker_original = "アイリーン"
+speaker_translation = "아이린"
 original = "「長官、お仕事終わったらチェスしよう？」"
 translation = "「장관님, 일 끝나면 체스 하자!」"
 
 [[dialogue]]
-speaker = "セドナ"
+speaker_original = "セドナ"
+speaker_translation = "세드나"
 original = "「そんな暇はない……と言いたいが、気分転換にはちょうどいい。一局だけなら付き合ってやる」"
 translation = "「그럴 틈은 없다……고 말하고 싶지만, 기분 전환에는 딱 좋군. 한 판뿐이라면 상대해 주지.」"
 
 [[dialogue]]
-speaker = "アイリーン"
+speaker_original = "アイリーン"
+speaker_translation = "아이린"
 original = "「やった！」"
 translation = "「야호!」"
 
 [[dialogue]]
-speaker = "ウェンディ"
+speaker_original = "ウェンディ"
+speaker_translation = "웬디"
 original = "「アイリーンがセドナ長官を手こずらせてくれることに期待しましょう……」"
 translation = "「아이린이 세드나 장관님을 애먹여 주기를 기대해 보죠……」"
 
@@ -284,87 +333,104 @@ original = "基地にいなくて大丈夫なのか？"
 translation = "기지에 없어도 괜찮은 거야?"
 
 [[dialogue]]
-speaker = "ウェンディ"
+speaker_original = "ウェンディ"
+speaker_translation = "웬디"
 original = "「ああ、それならお気になさらず」"
 translation = "「아아, 그거라면 신경 쓰지 마세요.」"
 
 [[dialogue]]
-speaker = "ウェンディ"
+speaker_original = "ウェンディ"
+speaker_translation = "웬디"
 original = "「私の鏡は攻撃を跳ね返すのみならず、写した相手の分身を作り出すことができます。もちろん完全コピーとはいきませんが」"
 translation = "「제 거울은 공격을 튕겨낼 뿐만 아니라, 비춘 상대의 분신을 만들어낼 수 있어요. 물론 완전한 복제까지는 아니지만요.」"
 
 [[dialogue]]
-speaker = "ウェンディ"
+speaker_original = "ウェンディ"
+speaker_translation = "웬디"
 original = "「魔力消費が激しいのが難点ですが、向こうのことは向こうの私がやってくれます」"
 translation = "「마력 소비가 심한 게 단점입니다만, 그쪽 일은 그쪽의 제가 알아서 해줄 거예요.」"
 
 [[dialogue]]
-speaker = "ウェンディ"
+speaker_original = "ウェンディ"
+speaker_translation = "웬디"
 original = "「しかしイニシュはどこに──」"
 translation = "「그나저나 이니슈는 어디에──」"
 
 [[dialogue]]
-speaker = "イニシュ"
+speaker_original = "イニシュ"
+speaker_translation = "이니슈"
 original = "「呼びましたか？」"
 translation = "「불렀습니까?」"
 
 [[dialogue]]
-speaker = "ウェンディ"
+speaker_original = "ウェンディ"
+speaker_translation = "웬디"
 original = "「きゃあ！？」"
 translation = "「꺄악!?」"
 
 [[dialogue]]
-speaker = "イニシュ"
+speaker_original = "イニシュ"
+speaker_translation = "이니슈"
 original = "「濃厚煮干しラーメン、これもまた美味でした」"
 translation = "「진한 멸치 라멘, 이것 또한 별미였습니다.」"
 
 [[dialogue]]
-speaker = "ウェンディ"
+speaker_original = "ウェンディ"
+speaker_translation = "웬디"
 original = "「は……？\u3000ラーメン……？」"
 translation = "「하……? 라멘……?」"
 
 [[dialogue]]
-speaker = "ウェンディ"
+speaker_original = "ウェンディ"
+speaker_translation = "웬디"
 original = "（……え？\u3000イニシュがラーメンを食べている間にモンスターを捕獲する……？\u3000そんなのアリなんですか……？）"
 translation = "（……에? 이니슈가 라멘을 먹는 동안 몬스터를 포획한다……? 그런 게 가능한 건가요……?）"
 
 [[dialogue]]
-speaker = "ウェンディ"
+speaker_original = "ウェンディ"
+speaker_translation = "웬디"
 original = "（いえ、成功しているならいいですけど……。でもイニシュがお腹いっぱいになってしまうんじゃ……）"
 translation = "（아니, 성공했다면 다행이지만……. 하지만 이니슈가 배가 불러버리면……）"
 
 [[dialogue]]
-speaker = "イニシュ"
+speaker_original = "イニシュ"
+speaker_translation = "이니슈"
 original = "「次は塩ラーメンを食したいです」"
 translation = "「다음은 소금 라멘을 먹고 싶습니다.」"
 
 [[dialogue]]
-speaker = "ウェンディ"
+speaker_original = "ウェンディ"
+speaker_translation = "웬디"
 original = "「どれだけ食べる気ですか！？\u3000イニシュ、ラーメンばかり食べていたら太りますよ」"
 translation = "「얼마나 먹을 생각이에요!? 이니슈, 라멘만 먹다가는 살찐다고요.」"
 
 [[dialogue]]
-speaker = "イニシュ"
+speaker_original = "イニシュ"
+speaker_translation = "이니슈"
 original = "「そうですか？\u3000私はネビュラによって目覚めてから、体型が変化したことはありませんが」"
 translation = "「그렇습니까? 저는 네뷸라에 의해 눈을 뜬 이후로 체형이 변화한 적이 없습니다만.」"
 
 [[dialogue]]
-speaker = "ウェンディ"
+speaker_original = "ウェンディ"
+speaker_translation = "웬디"
 original = "「くぅ～！\u3000ムカつくー！」"
 translation = "「크으~! 짜증 나!」"
 
 [[dialogue]]
-speaker = "ウェンディ"
+speaker_original = "ウェンディ"
+speaker_translation = "웬디"
 original = "「私は油断したらお肉が付いちゃうのに……特にお尻周りに。イニシュといい、アイリーンといい、どうして他の魔女は好き勝手食べても太らないんですか」"
 translation = "「나는 방심하면 바로 살이 붙는데…… 특히 엉덩이 주변에. 이니슈도 그렇고, 아이린도 그렇고, 왜 다른 마녀들은 마음껏 먹어도 살이 안 찌는 거야.」"
 
 [[dialogue]]
-speaker = "ウェンディ"
+speaker_original = "ウェンディ"
+speaker_translation = "웬디"
 original = "「今日だって朝食は少なめで、糖質も控えめにしてるのに……」"
 translation = "「오늘도 아침은 적게 먹고 당질도 제한하고 있는데……」"
 
 [[dialogue]]
-speaker = "ウェンディ"
+speaker_original = "ウェンディ"
+speaker_translation = "웬디"
 original = "「あ──」"
 translation = "「아──」"
 
@@ -374,7 +440,8 @@ original = "ウェンディもラーメン食べる？"
 translation = "웬디도 라멘 먹을래?"
 
 [[dialogue]]
-speaker = "ウェンディ"
+speaker_original = "ウェンディ"
+speaker_translation = "웬디"
 original = "「食べます！」"
 translation = "「먹을래요!」"
 

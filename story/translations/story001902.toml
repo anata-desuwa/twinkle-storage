@@ -1,100 +1,120 @@
 [[dialogue]]
-speaker = "ウズメイア"
+speaker_original = "ウズメイア"
+speaker_translation = "우즈메"
 original = "「せ、世界が滅んじゃうとか、もーやだなー、トリシャさんってばー！\u3000冗談キツいってー。今は平和そのものなんだよー？」"
 translation = "「세, 세계가 망한다니 증말 싫다니까, 트리샤 씨두 참! 농담이 너무 심해ー. 지금은 평화 그 자체라구?」"
 
 [[dialogue]]
-speaker = "トリシャ"
+speaker_original = "トリシャ"
+speaker_translation = "트리샤"
 original = "「占いに関して、冗談は申しません……このままですと……新年を迎える前に……世界が消失します」"
 translation = "「점괘에 관해서 농담은 하지 않아요…… 이대로라면…… 신년을 맞이하기 전에…… 세계가 소실됩니다.」"
 
 [[dialogue]]
-speaker = "ソフィア"
+speaker_original = "ソフィア"
+speaker_translation = "소피아"
 original = "「ど、どういうことなんですか？\u3000世界が終わっちゃうなんて、そんな……窮地から救って間もないのに……」"
 translation = "「어, 어떻게 된 일이죠? 세계가 끝난다니 그런…… 위기에서 구한 지 얼마 되지도 않았는데……」"
 
 [[dialogue]]
-speaker = "トリシャ"
+speaker_original = "トリシャ"
+speaker_translation = "트리샤"
 original = "「より詳しく占ってみましょう……少々お待ちを……カシャ、カシャ……」"
 translation = "「더 자세히 점쳐보죠…… 잠시 기다려주세요…… 찰칵, 찰칵……」"
 
 [[dialogue]]
-speaker = "トリシャ"
+speaker_original = "トリシャ"
+speaker_translation = "트리샤"
 original = "「ふむ……ふむ……世界を支える柱が不足しているため、世界が崩壊する……といったところでしょうか……」"
 translation = "「흠…… 흠…… 세계를 지탱하는 기둥이 부족하기 때문에 세계가 붕괴한다……는 느낌일까요……」"
 
 [[dialogue]]
-speaker = "トリシャ"
+speaker_original = "トリシャ"
+speaker_translation = "트리샤"
 original = "「その崩壊を食い止めるには、魔界へと赴く必要がある……と出ています……」"
 translation = "「그 붕괴를 막으려면 마계로 가야 한다……고 나오고 있어요……」"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「柱が足りなくて崩壊……魔界へレッツラゴー……？\u3000それだけじゃ、情報が足りてない感じだわ」"
 translation = "「기둥이 부족해서 붕괴…… 마계로 렛츠라 고……? 그것만으로는 정보가 부족한 느낌이야.」"
 
 [[dialogue]]
-speaker = "ヘレナ"
+speaker_original = "ヘレナ"
+speaker_translation = "헬레나"
 original = "「世界を支える柱とは、守護天使のことであろうな」"
 translation = "「세계를 지탱하는 기둥이란 수호천사를 말하는 것이겠지.」"
 
 [[dialogue]]
-speaker = "ヘレナ"
+speaker_original = "ヘレナ"
+speaker_translation = "헬레나"
 original = "「マグダレナ、アルモタヘル、ラクシャ、アウクセシア、パテルら五柱は確認できていたが、兼ねてより残りの一柱の所在は不明であった」"
 translation = "「마그달레나, 아르모타헬, 라크샤, 아우크세시아, 파텔 등 다섯 기둥은 확인됐지만, 전부터 남은 한 기둥의 소재는 불분명했었노다.」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「しかし守護天使は全部で六柱……残る一柱が不在のため、世界を維持できずに崩壊する……来るべき時が来たということでしょうか」"
 translation = "「하지만 수호천사는 전부 여섯 기둥…… 남은 한 기둥이 부재중이라 세계를 유지하지 못하고 붕괴한다…… 올 것이 왔다는 뜻일까요.」"
 
 [[dialogue]]
-speaker = "トリシャ"
+speaker_original = "トリシャ"
+speaker_translation = "트리샤"
 original = "「では……その最後の守護天使様の封印されし神殿……その位置を占いましょう……カシャ、カシャ」"
 translation = "「그럼…… 그 마지막 수호천사님이 봉인된 신전…… 그 위치를 점쳐볼게요…… 찰칵, 찰칵.」"
 
 [[dialogue]]
-speaker = "ウズメイア"
+speaker_original = "ウズメイア"
+speaker_translation = "우즈메"
 original = "「そんな簡単にわかっちゃうんだ！？\u3000トリシャさんすっご！」"
 translation = "「그렇게 간단히 알아낼 수 있는 거야!? 트리샤 씨 대박!」"
 
 [[dialogue]]
-speaker = "ソフィア"
+speaker_original = "ソフィア"
+speaker_translation = "소피아"
 original = "「トリシャさんの占いは、万能ですね。あなたの力がなかったら、どうなっていたことか……」"
 translation = "「트리샤 씨의 점괘는 만능이네요. 당신의 힘이 없었다면 어떻게 되었을지……」"
 
 [[dialogue]]
-speaker = "トリシャ"
+speaker_original = "トリシャ"
+speaker_translation = "트리샤"
 original = "「い、いえ、その……う、占いは万能ではありません……師匠ならばともかく……百発百中というわけではありませんので……」"
 translation = "「아, 아니, 그…… 점, 점괘는 만능이 아니에요…… 스승님이라면 몰라도…… 백발백중인 건 아니니까요……」"
 
 [[dialogue]]
-speaker = "トリシャ"
+speaker_original = "トリシャ"
+speaker_translation = "트리샤"
 original = "「当たるも八卦、当たらぬも八卦……外れることも多々あり……放っておいても、何も生じない可能性も……十二分にありましたが……」"
 translation = "「맞을 수도 있고 틀릴 수도 있고…… 빗나가는 일도 허다해서…… 내버려 둬도 아무 일도 생기지 않을 가능성도…… 충분히 있었지만……」"
 
 [[dialogue]]
-speaker = "トリシャ"
+speaker_original = "トリシャ"
+speaker_translation = "트리샤"
 original = "「今回に関しては……幾度占っても、結果は色濃くなるばかり……世界が崩壊する占いなど、杞憂であるべきなのですが……残念ながら、今回は……」"
 translation = "「이번에 관해서는…… 몇 번을 점쳐도 결과는 짙어질 뿐…… 세계가 붕괴한다는 점괘 따위 기우여야만 하는데…… 안타깝게도 이번에는……」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「事前に発見に至ったトリシャさんはお手柄ですね。素晴らしいです」"
 translation = "「사전에 발견해낸 트리샤 씨가 큰일을 하셨네요. 훌륭합니다.」"
 
 [[dialogue]]
-speaker = "ウズメイア"
+speaker_original = "ウズメイア"
+speaker_translation = "우즈메"
 original = "「さっすが、あたしの友達ー！」"
 translation = "「역시 내 친구야ー!」"
 
 [[dialogue]]
-speaker = "トリシャ"
+speaker_original = "トリシャ"
+speaker_translation = "트리샤"
 original = "「にへ、にへへ……みんな褒めてくれる……あっ……占いが指し示したのは、魔界の……この付近です……」"
 translation = "「니헤, 니헤헤…… 다들 칭찬해 줘…… 앗…… 점괘가 가리킨 곳은 마계의…… 이 부근입니다……」"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「ここにネボスケの守護天使がいるってわけね！\u3000みんなで叩き起こしに行きましょ！」"
 translation = "「여기에 잠꾸러기 수호천사가 있다는 거네! 다 같이 깨우러 가자구!」"
 
@@ -104,67 +124,80 @@ original = "そして決定した守護天使解放作戦メンバーは──"
 translation = "그리하여 결정된 수호천사 해방 작전 멤버는──"
 
 [[dialogue]]
-speaker = "ヘレナ"
+speaker_original = "ヘレナ"
+speaker_translation = "헬레나"
 original = "「オペレーション・ペンタグラムの際と同様、今回も魔女の世界樹を使用し、魔界へ向かう」"
 translation = "「오퍼레이션 펜타그램 때와 마찬가지로 이번에도 마녀의 세계수 를 사용하여 마계로 향하노다.」"
 
 [[dialogue]]
-speaker = "アイリーン"
+speaker_original = "アイリーン"
+speaker_translation = "아이린"
 original = "「なので、ネビュラからは案内役として私、魔女のアイリーンが参加しまーす！\u3000こっちは使い魔のミネルバ！\u3000ミーちゃんって呼んであげてね！」"
 translation = "「그래서 네뷸라에서는 안내역으로 저, 마녀 아이린이 참가합니다~! 이쪽은 사역마 미넬바! 미짱이라고 불러줘!」"
 
 [[dialogue]]
-speaker = "ミーちゃん"
+speaker_original = "ミーちゃん"
+speaker_translation = "미짱"
 original = "「ホホー！」"
 translation = "「호호!」"
 
 [[dialogue]]
-speaker = "マグダレナ"
+speaker_original = "マグダレナ"
+speaker_translation = "막달레나"
 original = "「この《境界》のマグダレナも共に参りますね。守護天使の一柱として、責務を果たさせていただきます」"
 translation = "「이 《경계》의 마그달레나도 함께 가겠습니다. 수호천사의 한 기둥으로서 책무를 다하겠습니다.」"
 
 [[dialogue]]
-speaker = "マグダレナ"
+speaker_original = "マグダレナ"
+speaker_translation = "막달레나"
 original = "「残る最後の一柱は、《天恵》のオオヒメ。『普遍』の摂理を司る守護天使です」"
 translation = "「남은 마지막 한 기둥은 《천혜》의 오오히메. 『보편』의 섭리를 관장하는 수호천사입니다.」"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「ヘレナちゃん、当然、私たちも出撃メンバーよね？」"
 translation = "「헬레나 짱, 당연히 우리도 출격 멤버지?」"
 
 [[dialogue]]
-speaker = "ヘレナ"
+speaker_original = "ヘレナ"
+speaker_translation = "헬레나"
 original = "「うむ。星騎士からはクロト、ヴィーナス、フィオナに加えて──」"
 translation = "「음. 성기사 쪽에서는 쿠로토, 비너스, 피오나에 더해──」"
 
 [[dialogue]]
-speaker = "ソフィア"
+speaker_original = "ソフィア"
+speaker_translation = "소피아"
 original = "「私と舞亜とウズメですか。魔界での戦闘経験もありますし、問題ありません」"
 translation = "「저와 마아, 그리고 우즈메군요. 마계에서의 전투 경험도 있으니 문제없습니다.」"
 
 [[dialogue]]
-speaker = "ウズメイア"
+speaker_original = "ウズメイア"
+speaker_translation = "우즈메"
 original = "「この組み合わせ、オペレーション・ペンタグラムの時を思い出すよね～♪」"
 translation = "「이 조합, 오퍼레이션 펜타그램 때가 생각나네~♪」"
 
 [[dialogue]]
-speaker = "舞亜"
+speaker_original = "舞亜"
+speaker_translation = "마이아"
 original = "「うん。頼りにしてるよ、ソフィ、ウズメ。メダル取るくらい活躍しちゃお」"
 translation = "「응. 믿고 있어, 소피, 우즈메. 메달 딸 정도로 활약해 보자.」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「こうして見ると、天使、人間、魔族……新星と流星の星騎士、守護天使様にネビュラと、ありとあらゆる陣営から参加していますね」"
 translation = "「이렇게 보니 천사, 인간, 마족…… 신성과 유성의 성기사, 수호천사님에 네뷸라까지 온갖 진영에서 참가하고 있네요.」"
 
 [[dialogue]]
-speaker = "ヘレナ"
+speaker_original = "ヘレナ"
+speaker_translation = "헬레나"
 original = "「世界の崩壊は、全ての者にとって他人事ではないからな。だがこうして、皆がわだかまりなく手を取り合えるようになったのは、これまでの積み重ねの賜物だ」"
 translation = "「세계의 붕괴는 모든 이에게 남 일이 아니니까 말이다. 하지만 이렇게 모두가 앙금 없이 손을 맞잡을 수 있게 된 것은 지금까지 쌓아온 노력의 결실이노다.」"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「一番の功労者は、なんたってクロトよね。さ、号令をかけて！」"
 translation = "「최고의 공로자는 뭐니 뭐니 해도 쿠로토지. 자, 호령을 내려!」"
 
@@ -174,7 +207,8 @@ original = "守護天使オオヒメ解放作戦、スタートだ！"
 translation = "「수호천사 오오히메 해방 작전, 스타트다!」"
 
 [[dialogue]]
-speaker = "みんな"
+speaker_original = "みんな"
+speaker_translation = "모두"
 original = "「おーっ！」"
 translation = "「오ー!」"
 

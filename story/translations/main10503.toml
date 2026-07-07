@@ -4,242 +4,290 @@ original = "第３話,美鶴へのプレゼントだぴょん！,B"
 translation = "제3화, 미츠루를 위한 선물이다뿅!, B"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「やっほー、美鶴。メリークリスマス♪」"
 translation = "「안녕, 미츠루. 메리 크리스마스♪」"
 
 [[dialogue]]
-speaker = "美鶴"
+speaker_original = "美鶴"
+speaker_translation = "미츠루"
 original = "「お嬢様にメイド長……って、メイド長、その格好どしたの？」"
 translation = "「아가씨랑 메이드장…… 근데, 메이드장, 그 차림 뭐야?」"
 
 [[dialogue]]
-speaker = "蘭美"
+speaker_original = "蘭美"
+speaker_translation = "라미"
 original = "「クリスマスが楽しみ過ぎて浮かれてしまっているのよ！」"
 translation = "「크리스마스가 너무 기대돼서 들떠버린 거야!」"
 
 [[dialogue]]
-speaker = "美鶴"
+speaker_original = "美鶴"
+speaker_translation = "미츠루"
 original = "「胸張っていう事じゃないな～、それ」"
 translation = "「가슴 펴고 할 말은 아니네~, 그거」"
 
 [[dialogue]]
-speaker = "蘭美"
+speaker_original = "蘭美"
+speaker_translation = "라미"
 original = "「張るほど立派な胸じゃないと言いたいのね？\u3000けれど私の胸はそんなに小さくないのよ！」"
 translation = "「펼 만큼 훌륭한 가슴이 아니라고 말하고 싶은 거니? 하지만 내 가슴은 그렇게 작지 않다고!」"
 
 [[dialogue]]
-speaker = "美鶴"
+speaker_original = "美鶴"
+speaker_translation = "미츠루"
 original = "「そんなこと思ってないし……第一、クリスマスまでまだ１週間くらいあるでしょうに。その格好をするのはチョッチ気が早すぎじゃないです？」"
 translation = "「그런 생각 안 했고…… 애당초, 크리스마스까지 아직 1주일 정도 남았잖아. 그 차림을 하는 건 쪼금 성급한 거 아냐?」"
 
 [[dialogue]]
-speaker = "蘭美"
+speaker_original = "蘭美"
+speaker_translation = "라미"
 original = "「速いに越したことはないわ。速さこそ大正義なんだから」"
 translation = "「빠를수록 좋은 거야. 빠름이야말로 대정의니까」"
 
 [[dialogue]]
-speaker = "蘭美"
+speaker_original = "蘭美"
+speaker_translation = "라미"
 original = "「それに、そんなこと言ったら街のイルミネーションなんて気が早いなんてもんじゃないでしょう？」"
 translation = "「게다가, 그렇게 말하면 거리의 일루미네이션 같은 건 성급한 정도가 아니잖아?」"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「お店とかでも１２月に入ったらもうクリスマスムードを漂わせてるところあるわよね？」"
 translation = "「가게 같은 데서도 12월 들어서면 벌써 크리스마스 분위기를 풍기는 곳이 있지?」"
 
 [[dialogue]]
-speaker = "美鶴"
+speaker_original = "美鶴"
+speaker_translation = "미츠루"
 original = "「お～、確かに。そーゆーもんかと思えてきたかも」"
 translation = "「오~, 확실히. 그런 건가 싶어지네」"
 
 [[dialogue]]
-speaker = "蘭美"
+speaker_original = "蘭美"
+speaker_translation = "라미"
 original = "「それを考えると今回は出遅れてしまったわね。私としたことが……くっ！」"
 translation = "「그걸 생각하면 이번엔 뒤처져 버렸네. 나답지 않게…… 윽!」"
 
 [[dialogue]]
-speaker = "美鶴"
+speaker_original = "美鶴"
+speaker_translation = "미츠루"
 original = "「いや、そこ悔しがるところ違うって」"
 translation = "「아니, 거기서 분해할 게 아니라고」"
 
 [[dialogue]]
-speaker = "蘭美"
+speaker_original = "蘭美"
+speaker_translation = "라미"
 original = "「ま、それは冗談として……私がこの格好をしているのには深い理由があるわ」"
 translation = "「뭐, 그건 농담이고…… 내가 이 차림을 하고 있는 데는 깊은 이유가 있어」"
 
 [[dialogue]]
-speaker = "美鶴"
+speaker_original = "美鶴"
+speaker_translation = "미츠루"
 original = "「だよね……うーん……見たところ、その仕立ては……当主様のものよね？」"
 translation = "「그렇겠지…… 으음…… 보아하니, 그 바느질은…… 당주님 솜씨네?」"
 
 [[dialogue]]
-speaker = "美鶴"
+speaker_original = "美鶴"
+speaker_translation = "미츠루"
 original = "「ってことは、それって新しい人工戦闘服だったりするんかな？」"
 translation = "「그렇다는 건, 그거 새로운 인공 전투복이거나 한 거야?」"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「さすが美鶴、見ただけで仕立てがヘレナちゃんだってわかっちゃうんだ」"
 translation = "「역시 미츠루, 보기만 해도 바느질이 헬레나짱이라는 걸 알다니」"
 
 [[dialogue]]
-speaker = "美鶴"
+speaker_original = "美鶴"
+speaker_translation = "미츠루"
 original = "「まーまー、一応、そっち系が専門ですから」"
 translation = "「뭐어뭐어, 일단, 그쪽이 전문이니까」"
 
 [[dialogue]]
-speaker = "蘭美"
+speaker_original = "蘭美"
+speaker_translation = "라미"
 original = "「お察しの通り、これはヘレナ様が新たに開発されたクリスマスフォームの第２弾よ」"
 translation = "「짐작한 대로, 이건 헬레나 님이 새로 개발하신 크리스마스 폼 제2탄이야」"
 
 [[dialogue]]
-speaker = "蘭美"
+speaker_original = "蘭美"
+speaker_translation = "라미"
 original = "「けれどまだ私は、この戦闘服の力を引き出せていないの。そこで──」"
 translation = "「하지만 아직 나는, 이 전투복의 힘을 끌어내지 못했어. 그래서──」"
 
 [[dialogue]]
-speaker = "蘭美"
+speaker_original = "蘭美"
+speaker_translation = "라미"
 original = "「いつも良い子で働いている美鶴──ま、もうちょっとやる気を出してくれると嬉しいけど──そんな美鶴にサンタさんからのクリスマスプレゼントよ！」"
 translation = "「항상 착하게 일하고 있는 미츠루── 뭐, 좀 더 의욕을 내주면 좋겠지만── 그런 미츠루에게 산타 할아버지의 크리스마스 선물이야!」"
 
 [[dialogue]]
-speaker = "美鶴"
+speaker_original = "美鶴"
+speaker_translation = "미츠루"
 original = "「おー、いーの？\u3000超ありがとー」"
 translation = "「오ー, 받아도 돼? 완전 땡큐ー」"
 
 [[dialogue]]
-speaker = "蘭美"
+speaker_original = "蘭美"
+speaker_translation = "라미"
 original = "「あなたね……ダウナーすぎて感情がわからないのよ。喜んでるならもっとちゃんとリアクションしなさい」"
 translation = "「너 말이야…… 너무 다우너라서 감정을 모르겠어. 기쁘다면 좀 더 제대로 리액션을 하렴」"
 
 [[dialogue]]
-speaker = "美鶴"
+speaker_original = "美鶴"
+speaker_translation = "미츠루"
 original = "「いや、ほんと嬉しいって。さっそく開けてみてもいい？」"
 translation = "「아니, 진짜 기쁘다니까. 당장 열어봐도 돼?」"
 
 [[dialogue]]
-speaker = "蘭美"
+speaker_original = "蘭美"
+speaker_translation = "라미"
 original = "「もちろんよ。むしろ遅いくらいだわ。今すぐ開けなさい」"
 translation = "「물론이지. 오히려 늦었어. 지금 당장 열어보렴」"
 
 [[dialogue]]
-speaker = "美鶴"
+speaker_original = "美鶴"
+speaker_translation = "미츠루"
 original = "「……っ！？\u3000これ……」"
 translation = "「……읏!? 이거……」"
 
 [[dialogue]]
-speaker = "蘭美"
+speaker_original = "蘭美"
+speaker_translation = "라미"
 original = "「そうそう、そういうマジっぽいリアクションが欲しかったのよ」"
 translation = "「그래 그래, 그런 진심 같은 리액션을 원했어」"
 
 [[dialogue]]
-speaker = "蘭美"
+speaker_original = "蘭美"
+speaker_translation = "라미"
 original = "「美鶴にはやっぱりこれかな、と思って裁縫セットにしたわ」"
 translation = "「미츠루에게는 역시 이게 아닐까 싶어서 재봉 세트로 했어」"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「ヘレナちゃんに訊いて選んだから、ちゃんとしっかりしたもののはずよ」"
 translation = "「헬레나짱에게 물어보고 골랐으니까, 분명 제대로 된 물건일 거야」"
 
 [[dialogue]]
-speaker = "美鶴"
+speaker_original = "美鶴"
+speaker_translation = "미츠루"
 original = "「ですね。ありがとうございます、大切に使わせてもらいます」"
 translation = "「그렇네요. 감사합니다, 소중히 쓸게요」"
 
 [[dialogue]]
-speaker = "蘭美"
+speaker_original = "蘭美"
+speaker_translation = "라미"
 original = "「これで服飾の方でも大いに励むのよ！」"
 translation = "「이걸로 복식 쪽으로도 크게 힘쓰도록 해!」"
 
 [[dialogue]]
-speaker = "美鶴"
+speaker_original = "美鶴"
+speaker_translation = "미츠루"
 original = "「いや……マジ嬉しいですよ……これ……」"
 translation = "「아니…… 진짜 기쁘네요…… 이거……」"
 
 [[dialogue]]
-speaker = "美鶴"
+speaker_original = "美鶴"
+speaker_translation = "미츠루"
 original = "「実はですね、うちが初めて貰ったクリスマスプレゼントも裁縫道具だったんです」"
 translation = "「사실은요, 내가 처음 받은 크리스마스 선물도 재봉 도구였거든요」"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「あら、そうだったの？」"
 translation = "「어라, 그랬었니?」"
 
 [[dialogue]]
-speaker = "美鶴"
+speaker_original = "美鶴"
+speaker_translation = "미츠루"
 original = "「実家の仕事がそっち方面じゃないですか。だから母が裁縫してるところをよく見てたんすよ」"
 translation = "「집안일이 그쪽 방면이잖아요. 그래서 엄마가 바느질하는 걸 자주 봤었거든요」"
 
 [[dialogue]]
-speaker = "美鶴"
+speaker_original = "美鶴"
+speaker_translation = "미츠루"
 original = "「そしたらある時、『美鶴もやってみたいの？』って聞かれたんですよね」"
 translation = "「그랬더니 어느 날, 『미츠루도 해보고 싶니?』라고 물어보더라고요」"
 
 [[dialogue]]
-speaker = "美鶴"
+speaker_original = "美鶴"
+speaker_translation = "미츠루"
 original = "「うんって答えたら、『サンタさんにお願いしてみなさい。クリスマスも近いからプレゼントが届くかもよ』って言われて」"
 translation = "「응이라고 대답했더니, 『산타 할아버지께 부탁해 보렴. 크리스마스도 가까우니까 선물이 도착할지도 몰라』라고 해서」"
 
 [[dialogue]]
-speaker = "美鶴"
+speaker_original = "美鶴"
+speaker_translation = "미츠루"
 original = "「それから毎日サンタさんにお願いして、イブの夜にはちゃんと靴下を枕元に置いて寝たっけ……」"
 translation = "「그 뒤로 매일 산타 할아버지께 부탁하고, 이브 밤에는 제대로 양말을 머리맡에 두고 잤었지……」"
 
 [[dialogue]]
-speaker = "美鶴"
+speaker_original = "美鶴"
+speaker_translation = "미츠루"
 original = "「朝起きた時、枕元にプレゼントを見つけた時は、ちょー嬉しかったな」"
 translation = "「아침에 일어났을 때, 머리맡에서 선물을 발견했을 때는, 저엉말 기뻤어」"
 
 [[dialogue]]
-speaker = "美鶴"
+speaker_original = "美鶴"
+speaker_translation = "미츠루"
 original = "「すぐに母のところに飛んで行って、裁縫を教えてくれってせがんだのを覚えてるよ～」"
 translation = "「당장 엄마한테 달려가서, 바느질 가르쳐 달라고 졸랐던 게 기억나네~」"
 
 [[dialogue]]
-speaker = "蘭美"
+speaker_original = "蘭美"
+speaker_translation = "라미"
 original = "「ふふっ、いつもダウナーな美鶴からは想像できない喜びようね」"
 translation = "「후후, 평소 다우너인 미츠루로서는 상상도 할 수 없는 기뻐하는 모습이네」"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「そんな思い出があったんだ……いいプレゼントを選べたみたいでよかったわ」"
 translation = "「그런 추억이 있었구나…… 좋은 선물을 고른 것 같아서 다행이야」"
 
 [[dialogue]]
-speaker = "蘭美"
+speaker_original = "蘭美"
+speaker_translation = "라미"
 original = "「……あら、これは……？」"
 translation = "「……어라, 이건……?」"
 
 [[dialogue]]
-speaker = "美鶴"
+speaker_original = "美鶴"
+speaker_translation = "미츠루"
 original = "「ん、どしたん？」"
 translation = "「응, 왜 그래?」"
 
 [[dialogue]]
-speaker = "蘭美"
+speaker_original = "蘭美"
+speaker_translation = "라미"
 original = "「あなたの話を聞いてたら、クリスマスフォームに少しだけ力が宿ったような気がするわ」"
 translation = "「네 이야기를 듣고 있으니, 크리스마스 폼에 조금이나마 힘이 깃든 것 같은 기분이 들어」"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「やったじゃない！\u3000プレゼント作戦大成功ね！」"
 translation = "「해냈잖아! 선물 작전 대성공이네!」"
 
 [[dialogue]]
-speaker = "蘭美"
+speaker_original = "蘭美"
+speaker_translation = "라미"
 original = "「プレゼントもですが……一緒にクリスマスのエモ話を聞いて回ったら、もっと早く覚醒できるかもしれないわ！」"
 translation = "「선물도 그렇지만…… 함께 크리스마스의 감동적인 이야기를 듣고 다니면, 더 빨리 각성할 수 있을지도 모르겠어!」"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「そうね！\u3000よーし、この調子でどんどんプレゼントを配っていくわよ！」"
 translation = "「그렇네! 좋아, 이 기세로 팍팍 선물을 나눠주러 가자!」"
 
 [[dialogue]]
-speaker = "美鶴"
+speaker_original = "美鶴"
+speaker_translation = "미츠루"
 original = "「２人ともがんばー」"
 translation = "「둘 다 힘내ー」"
 

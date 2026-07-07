@@ -19,12 +19,14 @@ original = "そして──"
 translation = "그리고──"
 
 [[dialogue]]
-speaker = "プリムラ"
+speaker_original = "プリムラ"
+speaker_translation = "프리뮬러"
 original = "「ここあ。貴様は我の眷属となるのじゃ！」"
 translation = "「코코아. 네놈은 나의 권속이 되는 것이니라!」"
 
 [[dialogue]]
-speaker = "ここあ"
+speaker_original = "ここあ"
+speaker_translation = "코코아"
 original = "「おけまる～♪\u3000今日からプリちんはここあのご主人様ね～♪」"
 translation = "「오케마루~♪ 오늘부터 프리칭은 코코아의 주인님이네~♪」"
 
@@ -34,217 +36,260 @@ original = "──ここあはプリムラの眷属となった。"
 translation = "──코코아는 프리무라의 권속이 되었다."
 
 [[dialogue]]
-speaker = "プリムラ"
+speaker_original = "プリムラ"
+speaker_translation = "프리뮬러"
 original = "「では学園に向かうとするかの。ついてくるのじゃ、眷属４号」"
 translation = "「그럼 학원으로 향하도록 하겠노라. 따라오너라, 권속 4호」"
 
 [[dialogue]]
-speaker = "ここあ"
+speaker_original = "ここあ"
+speaker_translation = "코코아"
 original = "「あいあいさー！」"
 translation = "「아이아이사-!」"
 
 [[dialogue]]
-speaker = "いろは"
+speaker_original = "いろは"
+speaker_translation = "이로하"
 original = "「ここにゃん、本当にプリちゃんの眷属になっちゃったんだ？」"
 translation = "「코코냥, 정말로 프리짱의 권속이 되어버린 거야?」"
 
 [[dialogue]]
-speaker = "ここあ"
+speaker_original = "ここあ"
+speaker_translation = "코코아"
 original = "「そだよ～。オモシロそーだし、こっちの世界にいる間はプリちんの眷属でいいかなーって♪」"
 translation = "「그렇다구~. 재밌을 것 같기도 하고, 이쪽 세계에 있는 동안은 프리칭의 권속이어도 괜찮을까 해서♪」"
 
 [[dialogue]]
-speaker = "花織"
+speaker_original = "花織"
+speaker_translation = "카오리"
 original = "「軽すぎですって！\u3000第一、そういう契約って簡単に解除できたりするんですか？\u3000元の世界に戻る時どうするんです？」"
 translation = "「너무 가볍다니까요! 애당초, 그런 계약은 간단히 해제할 수 있는 건가요? 원래 세계로 돌아갈 때 어떡할 거예요?」"
 
 [[dialogue]]
-speaker = "ここあ"
+speaker_original = "ここあ"
+speaker_translation = "코코아"
 original = "「あ～、その辺は大丈夫なんだって。そんなちゃんとした契約じゃないし、こっちにいる間だけでいいってプリちんもいってくれたから」"
 translation = "「아~ 그 부분은 괜찮대. 그렇게 제대로 된 계약도 아니고, 여기 있는 동안만이라도 괜찮다고 프리칭도 말해줬으니까」"
 
 [[dialogue]]
-speaker = "プリムラ"
+speaker_original = "プリムラ"
+speaker_translation = "프리뮬러"
 original = "「そういうことじゃ。ちょうど我の第一の眷属が遠くに出かけておってな、代わりとなる眷属が欲しいと思っておったところなのじゃ♪」"
 translation = "「그렇게 된 것이니라. 마침 나의 제1권속이 멀리 나가 있어서 말이다, 대신할 권속이 필요하다고 생각하던 참이었느니라♪」"
 
 [[dialogue]]
-speaker = "プリムラ"
+speaker_original = "プリムラ"
+speaker_translation = "프리뮬러"
 original = "「ここあは優秀じゃぞ～。夜は我が眠くなるまで退屈せぬよう話し相手になってくれるし、朝は着替えや歯磨きを手伝ってくれてラクチンなのじゃ♪」"
 translation = "「코코아는 우수하도다~. 밤에는 내가 졸릴 때까지 심심하지 않게 말동무가 되어주고, 아침에는 옷 갈아입기나 양치질을 도와줘서 편하느니라♪」"
 
 [[dialogue]]
-speaker = "サチ"
+speaker_original = "サチ"
+speaker_translation = "사치"
 original = "「どこまで世話を焼かせてるのよ！\u3000この人たちに迷惑かけちゃダメでしょ！」"
 translation = "「어디까지 뒷바라지를 시키는 거야! 이 사람들에게 폐를 끼치면 안 되잖아!」"
 
 [[dialogue]]
-speaker = "ここあ"
+speaker_original = "ここあ"
+speaker_translation = "코코아"
 original = "「にゃはは、いーのいーの。プリちんカワイイし、ちっちゃいコの面倒見るの好きなんだ～」"
 translation = "「냐하하, 괜찮아 괜찮아. 프리칭 귀엽고, 작은 아이 돌보는 거 좋아하거든~」"
 
 [[dialogue]]
-speaker = "プリムラ"
+speaker_original = "プリムラ"
+speaker_translation = "프리뮬러"
 original = "「うむ！\u3000つまり主に仕える喜びを感じておるということじゃな！」"
 translation = "「음! 즉 주인을 섬기는 기쁨을 느끼고 있다는 것이로군!」"
 
 [[dialogue]]
-speaker = "サチ"
+speaker_original = "サチ"
+speaker_translation = "사치"
 original = "「ぜんぜん違うと思うんですけどっ！」"
 translation = "「전혀 다르다고 생각하는데요!」"
 
 [[dialogue]]
-speaker = "プリムラ"
+speaker_original = "プリムラ"
+speaker_translation = "프리뮬러"
 original = "「なんじゃサチ、さっきからプリプリしおって。さては我が優秀な眷属を手に入れたことが、羨ましくて仕方ないのじゃな？」"
 translation = "「무엇이냐 사치, 아까부터 씩씩거리기는. 설마 내가 우수한 권속을 손에 넣은 것이 부러워서 견딜 수 없는 것이냐?」"
 
 [[dialogue]]
-speaker = "プリムラ"
+speaker_original = "プリムラ"
+speaker_translation = "프리뮬러"
 original = "「ふふ～ん♪\u3000ならばサチも頑張って眷属を探せばよいのじゃ。もっとも、我ほど優秀な眷属を見つけられるとは思わぬが……じゃあの♪」"
 translation = "「후후~ㄴ♪ 그렇다면 사치도 열심히 권속을 찾으면 될 것이니라. 물론 나만큼 우수한 권속을 찾을 수 있을 거라곤 생각지 않지만…… 그럼 이만♪」"
 
 [[dialogue]]
-speaker = "ここあ"
+speaker_original = "ここあ"
+speaker_translation = "코코아"
 original = "「は～い、ご主人さま～♪」"
 translation = "「네~ 주인님~~♪」"
 
 [[dialogue]]
-speaker = "サチ"
+speaker_original = "サチ"
+speaker_translation = "사치"
 original = "「……はぁ。ごめんなさい、ご迷惑をおかけしてしまって」"
 translation = "「……하아. 죄송해요, 폐를 끼쳐버려서」"
 
 [[dialogue]]
-speaker = "いろは"
+speaker_original = "いろは"
+speaker_translation = "이로하"
 original = "「本人楽しんでるみたいだから、いーと思うよ？」"
 translation = "「본인이 즐거워 보이니까 괜찮다고 봐?」"
 
 [[dialogue]]
-speaker = "花織"
+speaker_original = "花織"
+speaker_translation = "카오리"
 original = "「実際、ここあさんは小さい子の相手をするのは慣れてるし、好きだからね……」"
 translation = "「실제로, 코코아 씨는 작은 아이를 상대하는 건 익숙하고, 좋아하니까요……」"
 
 [[dialogue]]
-speaker = "サチ"
+speaker_original = "サチ"
+speaker_translation = "사치"
 original = "「そんなに慣れてるんですか？」"
 translation = "「그렇게 익숙한가요?」"
 
 [[dialogue]]
-speaker = "花織"
+speaker_original = "花織"
+speaker_translation = "카오리"
 original = "「うん。双子の弟さんがいて、ずーっと面倒を見てるみたい」"
 translation = "「응. 쌍둥이 남동생이 있어서, 계속 돌봐주고 있는 것 같아」"
 
 [[dialogue]]
-speaker = "いろは"
+speaker_original = "いろは"
+speaker_translation = "이로하"
 original = "「めっちゃ可愛がってるし、大事にしてる感じだよね～」"
 translation = "「엄청 귀여워하고, 소중히 여기는 느낌이지~」"
 
 [[dialogue]]
-speaker = "サチ"
+speaker_original = "サチ"
+speaker_translation = "사치"
 original = "「なるほど、そうでしたか……」"
 translation = "「과연, 그랬군요……」"
 
 [[dialogue]]
-speaker = "プリムラ"
+speaker_original = "プリムラ"
+speaker_translation = "프리뮬러"
 original = "「ここまででよい、見送りご苦労なのじゃ！」"
 translation = "「여기까지면 됐다, 배웅하느라 수고했느니라!」"
 
 [[dialogue]]
-speaker = "ここあ"
+speaker_original = "ここあ"
+speaker_translation = "코코아"
 original = "「おっけ～。んじゃお勉強、頑張ってきてね～」"
 translation = "「오케이~. 그럼 공부, 열심히 하고 와~」"
 
 [[dialogue]]
-speaker = "プリムラ"
+speaker_original = "プリムラ"
+speaker_translation = "프리뮬러"
 original = "「うーむ、勉強か……どうにも気が乗らんのじゃ……」"
 translation = "「으음, 공부인가…… 도무지 의욕이 나지 않는구나……」"
 
 [[dialogue]]
-speaker = "プリムラ"
+speaker_original = "プリムラ"
+speaker_translation = "프리뮬러"
 original = "「せっかくここあという眷属がいるのじゃから、この際、授業をサボって遊びに出かけるのはどうじゃ？」"
 translation = "「기껏 코코아라는 권속이 있으니, 이참에 수업을 빼먹고 놀러 나가는 건 어떠냐?」"
 
 [[dialogue]]
-speaker = "プリムラ"
+speaker_original = "プリムラ"
+speaker_translation = "프리뮬러"
 original = "「よし、決めたのじゃ！\u3000これから街に繰り出すぞ、付き合うのじゃ、ここあ！」"
 translation = "「좋아, 결정했느니라! 지금부터 거리로 나갈 것이다, 같이 가자, 코코아!」"
 
 [[dialogue]]
-speaker = "ここあ"
+speaker_original = "ここあ"
+speaker_translation = "코코아"
 original = "「え～、それはダメ」"
 translation = "「에~ 그건 안 돼」"
 
 [[dialogue]]
-speaker = "プリムラ"
+speaker_original = "プリムラ"
+speaker_translation = "프리뮬러"
 original = "「なんじゃと！？\u3000眷属なのに我に意見するのじゃ！？」"
 translation = "「무엇이라!? 권속 주제에 나에게 의견을 내는 것이냐!?」"
 
 [[dialogue]]
-speaker = "プリムラ"
+speaker_original = "プリムラ"
+speaker_translation = "프리뮬러"
 original = "「もう一度命ずる、ここあよ、我に付き合うのじゃ」"
 translation = "「다시 한번 명하노라, 코코아여, 나를 따라오너라」"
 
 [[dialogue]]
-speaker = "ここあ"
+speaker_original = "ここあ"
+speaker_translation = "코코아"
 original = "「ざんね～ん、その命令には従えません♪」"
 translation = "「아쉽네~ 그 명령에는 따를 수 없습니다♪」"
 
 [[dialogue]]
-speaker = "プリムラ"
+speaker_original = "プリムラ"
+speaker_translation = "프리뮬러"
 original = "「なんでなのじゃ……眷属なのに……。黙って言うことを聞くのじゃ……」"
 translation = "「어째서냐…… 권속인데……. 잠자코 시키는 대로 하는 것이니라……」"
 
 [[dialogue]]
-speaker = "ここあ"
+speaker_original = "ここあ"
+speaker_translation = "코코아"
 original = "「眷属になるって約束はしたけど、言うこと全部に従うって約束はしてないでしょ？」"
 translation = "「권속이 되겠다는 약속은 했지만, 말하는 걸 전부 따르겠다는 약속은 안 했잖아?」"
 
 [[dialogue]]
-speaker = "ここあ"
+speaker_original = "ここあ"
+speaker_translation = "코코아"
 original = "「ここあはプリちんのお願いなら出来るだけ聞いてあげたいけど、プリちんのためにならないようなお願いは聞けないな～」"
 translation = "「코코아는 프리칭의 부탁이라면 가능한 한 들어주고 싶지만, 프리칭에게 도움이 안 될 것 같은 부탁은 들어줄 수 없네~」"
 
 [[dialogue]]
-speaker = "プリムラ"
+speaker_original = "プリムラ"
+speaker_translation = "프리뮬러"
 original = "「むぅぅ……従順な眷属じゃと思ったのに……」"
 translation = "「무으으…… 순종적인 권속이라 생각했거늘……」"
 
 [[dialogue]]
-speaker = "ここあ"
+speaker_original = "ここあ"
+speaker_translation = "코코아"
 original = "「ごめんね、プリちん。その代わりに学園が終わったら思いっきり遊ぼーよ。それならいくらでも付き合ってあげる♪」"
 translation = "「미안해, 프리칭. 대신 학원이 끝나면 마음껏 놀자. 그때라면 얼마든지 같이 있어 줄게♪」"
 
 [[dialogue]]
-speaker = "ここあ"
+speaker_original = "ここあ"
+speaker_translation = "코코아"
 original = "「美味しいチョコパフェのお店があるって情報をキャッチしたから、一緒に食べにいこーよ♪」"
 translation = "「맛있는 초코 파페 가게가 있다는 정보를 캐치했으니까, 같이 먹으러 가자♪」"
 
 [[dialogue]]
-speaker = "プリムラ"
+speaker_original = "プリムラ"
+speaker_translation = "프리뮬러"
 original = "「チョコパフェ、じゃと！？\u3000し、仕方あるまい……それで手を打つのじゃ……」"
 translation = "「초코 파페, 라고!? 어, 어쩔 수 없지…… 그걸로 합의 보겠노라……」"
 
 [[dialogue]]
-speaker = "ここあ"
+speaker_original = "ここあ"
+speaker_translation = "코코아"
 original = "「にゃはは♪\u3000そんじゃ放課後、ここに迎えに来るからね～♪」"
 translation = "「냐하하♪ 그럼 방과 후에 여기로 데리러 올게~♪」"
 
 [[dialogue]]
-speaker = "プリムラ"
+speaker_original = "プリムラ"
+speaker_translation = "프리뮬러"
 original = "「うむ！\u3000行ってきますなのじゃ♪」"
 translation = "「음! 다녀오겠느니라♪」"
 
 [[dialogue]]
-speaker = "サチ"
+speaker_original = "サチ"
+speaker_translation = "사치"
 original = "「う……上手い……」"
 translation = "「오…… 능숙해……」"
 
 [[dialogue]]
-speaker = "いろは"
+speaker_original = "いろは"
+speaker_translation = "이로하"
 original = "「プリちゃん、ここにゃんの手の上でころっころだ～」"
 translation = "「프리짱, 코코냥 손바닥 위에서 아주 굴러다니네~」"
 
 [[dialogue]]
-speaker = "花織"
+speaker_original = "花織"
+speaker_translation = "카오리"
 original = "「流石というか何というか……。とりあえずここあさんの事は心配なさそうだね」"
 translation = "「역시라고 해야 할지 어쩌면 좋을지……. 일단 코코아 씨 쪽은 걱정 없을 것 같네」"
 

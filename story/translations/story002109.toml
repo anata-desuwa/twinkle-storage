@@ -9,67 +9,80 @@ original = "彼女の力はさらに勢いを増していく……！"
 translation = "그녀의 힘은 더욱 기세를 더해간다……!"
 
 [[dialogue]]
-speaker = "雪女"
+speaker_original = "雪女"
+speaker_translation = "설녀"
 original = "「喰らいなさい……ブッシュ・ド・ノエル砲──！」"
 translation = "「먹어라…… 부쉬 드 노엘 포──!」"
 
 [[dialogue]]
-speaker = "ルリエル"
+speaker_original = "ルリエル"
+speaker_translation = "루리엘"
 original = "「ひゃあああっっ……！\u3000つ、冷たい──極寒の風ですーっ！」"
 translation = "「히야아아앗……! 차, 차가워── 극한의 바람이에요-!」"
 
 [[dialogue]]
-speaker = "アナ"
+speaker_original = "アナ"
+speaker_translation = "아나"
 original = "「これは──大寒波……！」"
 translation = "「이것은── 대한파……!」"
 
 [[dialogue]]
-speaker = "ユウリ"
+speaker_original = "ユウリ"
+speaker_translation = "유우리"
 original = "「あたし達の炎でなんとか対抗すんぞ──！」"
 translation = "「우리들의 불꽃으로 어떻게든 대항하자-!」"
 
 [[dialogue]]
-speaker = "アポロ"
+speaker_original = "アポロ"
+speaker_translation = "아폴로"
 original = "「ああ、あたしも協力するぜ──！\u3000つっても、寒ぃ～！」"
 translation = "「아아, 나도 협력할게──! 그건 그렇고 춥네-!」"
 
 [[dialogue]]
-speaker = "雪女"
+speaker_original = "雪女"
+speaker_translation = "설녀"
 original = "「ムダなテイコウはよすのです！\u3000この調子で吹雪も起こしてやるのデ～ス！」"
 translation = "「헛된 저항은 그만두세-요! 이 기세로 눈보라도 일으켜 주겠어-요!」"
 
 [[dialogue]]
-speaker = "アナ"
+speaker_original = "アナ"
+speaker_translation = "아나"
 original = "「く……お雑煮に寒波……！\u3000なんて手強い──私たちの火力だけでは……！」"
 translation = "「큭…… 오조니에 한파……! 정말 까다롭네요── 우리들의 화력만으로는……!」"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「火力ならここにあるわよ！」"
 translation = "「화력이라면 여기 있어!」"
 
 [[dialogue]]
-speaker = "アナ"
+speaker_original = "アナ"
+speaker_translation = "아나"
 original = "「え……？」"
 translation = "「에……?」"
 
 [[dialogue]]
-speaker = "マトイ"
+speaker_original = "マトイ"
+speaker_translation = "마토이"
 original = "「こ、この炎って……」"
 translation = "「이, 이 불꽃은……」"
 
 [[dialogue]]
-speaker = "セドナ"
+speaker_original = "セドナ"
+speaker_translation = "세드나"
 original = "「強引に引きずり込まれたかと思えば──これで良かったのか？」"
 translation = "「강제로 끌려왔나 싶었는데── 이걸로 된 건가?」"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「ええ、ばっちりよ！\u3000助かったわ」"
 translation = "「응, 완벽해! 살았어.」"
 
 [[dialogue]]
-speaker = "ユウリ"
+speaker_original = "ユウリ"
+speaker_translation = "유우리"
 original = "「あ、あんたは──」"
 translation = "「다, 당신은──」"
 
@@ -84,127 +97,152 @@ original = "水着！？"
 translation = "수영복!?"
 
 [[dialogue]]
-speaker = "セドナ"
+speaker_original = "セドナ"
+speaker_translation = "세드나"
 original = "「たまたま学園を訪ねていてな。すると、いきなりゲートが開いて彼女が……」"
 translation = "「우연히 학원을 방문했었지. 그러자 갑자기 게이트가 열리고 그녀가……」"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「雪女って言うからには火に弱いはずよね──炎使い、炎使いはどこ……！？」"
 translation = "「설녀라고 한다면 불에 약할 게 뻔하잖아── 불꽃 사용자, 불꽃 사용자는 어디 있어……!?」"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「──あ！\u3000いたわ！\u3000最高の火力担当がこんなところに……まさに激アツね！」"
 translation = "「──아! 있었다! 최고의 화력 담당이 이런 곳에…… 그야말로 격정적이네!」"
 
 [[dialogue]]
-speaker = "セドナ"
+speaker_original = "セドナ"
+speaker_translation = "세드나"
 original = "「ん、九浄の娘──？\u3000なんだ、私が激アツ？」"
 translation = "「음, 쿠죠의 딸──? 뭐야, 내가 격정적이라고?」"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「ええ！\u3000事情は後よ、今すぐ来てちょうだい──もちろん水着でね！」"
 translation = "「응! 사정은 나중이야, 지금 당장 와줘── 물론 수영복 차림으로 말이지!」"
 
 [[dialogue]]
-speaker = "セドナ"
+speaker_original = "セドナ"
+speaker_translation = "세드나"
 original = "「そんなこんなで連れてこられたわけだ。まったく相変わらずの強引さで困る」"
 translation = "「이러쿵저러쿵해서 끌려오게 된 거다. 정말 여전한 강요라 곤란하군.」"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「なんだかんだで水着になってくれる魔女さんナイス～♪」"
 translation = "「결국 수영복을 입어주는 마녀님 나이스~♪」"
 
 [[dialogue]]
-speaker = "雪女"
+speaker_original = "雪女"
+speaker_translation = "설녀"
 original = "「く……まさか助太刀とは予想外デース。雪女は炎に弱いデース……！」"
 translation = "「큭…… 설마 조력자가 나타날 줄은 예상 밖이에-요. 설녀는 불에 약하단 말이-에요……!」"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「あいつをやっつけたら、あなたもこのビーチでゆっくりしていけるわよ！\u3000さあレッツファイト！」"
 translation = "「저 녀석을 해치우면 당신도 이 해변에서 느긋하게 쉬다 갈 수 있어! 자, 레츠 파이트!」"
 
 [[dialogue]]
-speaker = "セドナ"
+speaker_original = "セドナ"
+speaker_translation = "세드나"
 original = "「ええい、勝手に決めつけるんじゃない！」"
 translation = "「에이, 마음대로 결정하지 마라!」"
 
 [[dialogue]]
-speaker = "セドナ"
+speaker_original = "セドナ"
+speaker_translation = "세드나"
 original = "「──だが、しかし……あれは新しい水着フォームか？\u3000そのための調査と考えれば……案外悪くもないのやもしれぬ……」"
 translation = "「──하지만, 그러나…… 저것은 새로운 수영복 폼인가? 그것을 위한 조사라고 생각하면…… 의외로 나쁘지 않을지도 모르겠군……」"
 
 [[dialogue]]
-speaker = "セドナ"
+speaker_original = "セドナ"
+speaker_translation = "세드나"
 original = "「いいだろう。強火をご所望なら、私も少しは手を貸してやる」"
 translation = "「좋다. 강한 화력을 원한다면 나도 조금은 힘을 보태주지.」"
 
 [[dialogue]]
-speaker = "リップル"
+speaker_original = "リップル"
+speaker_translation = "리플"
 original = "「頼りになりマース！\u3000雪女サンを改心させてあげてクダサイ！\u3000夏の魅力で彼女の冷た～いハートを溶かしてやるのデース！」"
 translation = "「의지가 됨니-다! 설녀 씨를 개심시켜 주세-요! 여름의 매력으로 그녀의 차가-운 하트를 녹여버리는 거예-요!」"
 
 [[dialogue]]
-speaker = "アポロ"
+speaker_original = "アポロ"
+speaker_translation = "아폴로"
 original = "「へっ、面白いことになってきやがったな！\u3000さっき食ったアイスの分、ここで腹ごなしといくか！」"
 translation = "「헷, 재밌게 돌아가는구만! 아까 먹은 아이스크림만큼 여기서 배 좀 꺼뜨려 볼까!」"
 
 [[dialogue]]
-speaker = "ルリエル"
+speaker_original = "ルリエル"
+speaker_translation = "루리엘"
 original = "「はい！」"
 translation = "「네!」"
 
 [[dialogue]]
-speaker = "雪女"
+speaker_original = "雪女"
+speaker_translation = "설녀"
 original = "「あ～っズルいデスぞ！\u3000さっきはお年玉拾おうとしてたくせに、手のひら返してワタシを退治しようなんて──あっ熱っ！？」"
 translation = "「아~ 치사함니-다! 아까는 세뱃돈 주우려 했으면서, 손바닥 뒤집듯 나를 퇴치하려 하다니── 앗 뜨거!?」"
 
 [[dialogue]]
-speaker = "ユウリ"
+speaker_original = "ユウリ"
+speaker_translation = "유우리"
 original = "「ええい、もうこうなりゃ最大火力だ──！」"
 translation = "「에이, 이제 이렇게 된 거 최대 화력이다──!」"
 
 [[dialogue]]
-speaker = "アナ"
+speaker_original = "アナ"
+speaker_translation = "아나"
 original = "「我々の力を結集しましょう──！」"
 translation = "「우리들의 힘을 결집합시다──!」"
 
 [[dialogue]]
-speaker = "リップル"
+speaker_original = "リップル"
+speaker_translation = "리플"
 original = "「──お願いシマス！\u3000ワタシも、残された夏パワーを最大限に引き出します──！」"
 translation = "「──부탁함니-다! 저도 남겨진 여름 파워를 최대한으로 끌어내겠어-요──!」"
 
 [[dialogue]]
-speaker = "マトイ"
+speaker_original = "マトイ"
+speaker_translation = "마토이"
 original = "「す、すごい火力……！\u3000これだけの熱さなら雪女も……！」"
 translation = "「스, 스고이한 화력……! 이 정도의 열기라면 설녀도……!」"
 
 [[dialogue]]
-speaker = "雪女"
+speaker_original = "雪女"
+speaker_translation = "설녀"
 original = "「なんと！？\u3000お雑煮がまとめて焼かれてしまいました……これはピンチです──！」"
 translation = "「이럴 수가!? 오조니가 통째로 구워져 버렸습니-다…… 이건 위기예-요──!」"
 
 [[dialogue]]
-speaker = "雪女"
+speaker_original = "雪女"
+speaker_translation = "설녀"
 original = "「ですが……グヌヌ……！\u3000や、やられてなるモノか──デスぅ……！」"
 translation = "「하지만…… 구누누……! 당, 당할까 보냐──인 것이-에요……!」"
 
 [[dialogue]]
-speaker = "リップル"
+speaker_original = "リップル"
+speaker_translation = "리플"
 original = "「確かにワタシはマダマダ冬の醍醐味を知ったばかり──サマーナイズドするには未完成なのかもシレマセン」"
 translation = "「확실히 저는 이제 막 겨울의 묘미를 알게 된 참── 서머나이즈하기에는 미완성일지도 모르겠네-요.」"
 
 [[dialogue]]
-speaker = "リップル"
+speaker_original = "リップル"
+speaker_translation = "리플"
 original = "「ですがイズレ──夏にも楽しめるスノボやこたつを開発してみせマース！\u3000それマデ雪女サンもじっくり待つがヨイのデース！」"
 translation = "「하지만 언젠-가── 여름에도 즐길 수 있는 스노보드나 코타츠를 개발해 보이겠어-요! 그때까-지 설녀 씨도 느긋하게 기다리세-요!」"
 
 [[dialogue]]
-speaker = "雪女"
+speaker_original = "雪女"
+speaker_translation = "설녀"
 original = "「ぐわ～～～っ！\u3000や～ら～れ～た～デ～ス～～～！！！」"
 translation = "「구와아아앙──! 당-했-다-아-요──!!!」"
 

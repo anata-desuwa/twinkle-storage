@@ -4,17 +4,20 @@ original = "第４話,新たな演技,P"
 translation = "제4화, 새로운 연기, P"
 
 [[dialogue]]
-speaker = "舞亜"
+speaker_original = "舞亜"
+speaker_translation = "마이아"
 original = "「それじゃいくよー」"
 translation = "「그럼 간다─」"
 
 [[dialogue]]
-speaker = "ソフィア"
+speaker_original = "ソフィア"
+speaker_translation = "소피아"
 original = "「うん、準備できてるよ」"
 translation = "「네, 준비됐어요.」"
 
 [[dialogue]]
-speaker = "ウズメイア"
+speaker_original = "ウズメイア"
+speaker_translation = "우즈메"
 original = "「ついていくだけでも大変だけど、頑張るしっ」"
 translation = "「따라가는 것만으로도 힘들지만, 힘낼 거라구욧.」"
 
@@ -34,77 +37,92 @@ original = "でも隠し芸大会は終わったんじゃ……？"
 translation = "하지만 장기 자랑 대회는 끝난 거 아니었나……?"
 
 [[dialogue]]
-speaker = "舞亜"
+speaker_original = "舞亜"
+speaker_translation = "마이아"
 original = "「うん、特に披露する予定はないよ。だけど、星術を使った演技があれっきりってのももったいないし、フィギュアの練習がてらやってるんだ」"
 translation = "「응, 딱히 선보일 예정은 없어. 하지만 성술을 사용한 연기가 그때뿐인 건 아깝기도 하고, 피겨 연습 겸 해서 하고 있어.」"
 
 [[dialogue]]
-speaker = "ソフィア"
+speaker_original = "ソフィア"
+speaker_translation = "소피아"
 original = "「難度が高いので、いい刺激になりますね。星術のトレーニングにもなりますし」"
 translation = "「난도가 높아서 좋은 자극이 되네요. 성술 트레이닝도 되고요.」"
 
 [[dialogue]]
-speaker = "ウズメイア"
+speaker_original = "ウズメイア"
+speaker_translation = "우즈메"
 original = "「うちはフィギュア部じゃないんだけど……楽しいからよし！」"
 translation = "「우리는 피겨부가 아니지만…… 즐거우니까 오케이!」"
 
 [[dialogue]]
-speaker = "オオヒメ"
+speaker_original = "オオヒメ"
+speaker_translation = "오오히메"
 original = "「美しい……」"
 translation = "「아름답구나……」"
 
 [[dialogue]]
-speaker = "舞亜"
+speaker_original = "舞亜"
+speaker_translation = "마이아"
 original = "「あ、いつの間にかヒメさんがいる」"
 translation = "「아, 어느새 히메 씨가 와 있네.」"
 
 [[dialogue]]
-speaker = "オオヒメ"
+speaker_original = "オオヒメ"
+speaker_translation = "오오히메"
 original = "「すまない、勝手に見学させてもらった。あなたたちの演技はいつ見ても素晴らしいな。しかも以前より技の冴えが増している」"
 translation = "「미안하군, 마음대로 견학 좀 했다. 그대들의 연기는 언제 봐도 훌륭하군. 게다가 이전보다 기술의 예리함이 더해졌어.」"
 
 [[dialogue]]
-speaker = "オオヒメ"
+speaker_original = "オオヒメ"
+speaker_translation = "오오히메"
 original = "「しかし、フィギュアでは多人数で滑るのは珍しいのではなかったかな？」"
 translation = "「하지만, 피겨에서 다수가 함께 타는 것은 드문 일이 아니었나?」"
 
 [[dialogue]]
-speaker = "舞亜"
+speaker_original = "舞亜"
+speaker_translation = "마이아"
 original = "「そうだね。シングル──１人で滑るのが基本だよ。限られたリンクの上を複数人で、さらに連携して滑るのは難しいからね」"
 translation = "「맞아. 싱글── 혼자서 타는 게 기본이야. 제한된 링크 위를 여러 명이서, 그것도 연계하며 타는 건 어려우니까.」"
 
 [[dialogue]]
-speaker = "舞亜"
+speaker_original = "舞亜"
+speaker_translation = "마이아"
 original = "「だけどフィギュアにはアイスダンスとペアもあるんだよ。これは男女２人で滑るやつで、技やルールが違うんだ」"
 translation = "「하지만 피겨에는 아이스 댄스와 페어도 있어. 이건 남녀 둘이서 타는 건데, 기술이나 규칙이 다르거든.」"
 
 [[dialogue]]
-speaker = "舞亜"
+speaker_original = "舞亜"
+speaker_translation = "마이아"
 original = "「アイスダンスは基本的にジャンプがなくて、優雅さや男女の協調を見るもの」"
 translation = "「아이스 댄스는 기본적으로 점프가 없고, 우아함이나 남녀의 협조성을 보는 거야.」"
 
 [[dialogue]]
-speaker = "舞亜"
+speaker_original = "舞亜"
+speaker_translation = "마이아"
 original = "「ペアは男性が女性を投げて空中で回転させたり、よりアクロバティックな演技が要求される。ジャンプがある分、こっちの方がシングルの延長って言えるかもね」"
 translation = "「페어는 남성이 여성을 던져서 공중에서 회전시키거나, 더 아크로바틱한 연기가 요구돼. 점프가 있는 만큼, 이쪽이 싱글의 연장선이라고 할 수 있을지도.」"
 
 [[dialogue]]
-speaker = "オオヒメ"
+speaker_original = "オオヒメ"
+speaker_translation = "오오히메"
 original = "「ふむ、興味深い。しかし舞亜殿はシングルの選手だから、アイスダンスやペアの演技が見られないのが残念だ」"
 translation = "「흠, 흥미롭군. 하지만 마이아 공은 싱글 선수라, 아이스 댄스나 페어 연기를 볼 수 없는 게 아쉽구려.」"
 
 [[dialogue]]
-speaker = "舞亜"
+speaker_original = "舞亜"
+speaker_translation = "마이아"
 original = "「そうなんだけど……せっかくだしやってみようか、会長さん」"
 translation = "「그렇긴 한데…… 이왕 이렇게 된 거 해볼까, 회장님?」"
 
 [[dialogue]]
-speaker = "舞亜"
+speaker_original = "舞亜"
+speaker_translation = "마이아"
 original = "「えっ、て驚くところじゃないでしょ。男の人は今会長さんしかいないんだから。大丈夫、星騎士だからちょっとやそっとじゃ怪我しないよ」"
 translation = "「엣, 하고 놀랄 때가 아니잖아. 남자는 지금 회장님밖에 없으니까. 괜찮아, 성기사니까 웬만해선 다치지 않을 거야.」"
 
 [[dialogue]]
-speaker = "舞亜"
+speaker_original = "舞亜"
+speaker_translation = "마이아"
 original = "「会長さんも前教えて、軽く滑れるくらいになったんだし、やってみない？」"
 translation = "「회장님도 예전에 가르쳐줘서 가볍게 탈 수 있게 됐으니까, 해보지 않을래?」"
 
@@ -114,42 +132,50 @@ original = "そういうことならやってみようか"
 translation = "정 그렇다면 해볼까."
 
 [[dialogue]]
-speaker = "舞亜"
+speaker_original = "舞亜"
+speaker_translation = "마이아"
 original = "「ありがと。じゃあ私のパートナーお願いね。教えながらいくよ」"
 translation = "「고마워. 그럼 내 파트너 부탁해. 가르쳐주면서 갈게.」"
 
 [[dialogue]]
-speaker = "舞亜"
+speaker_original = "舞亜"
+speaker_translation = "마이아"
 original = "「じゃあまずは簡単な動きをやってみようかな。会長さんの腰に手を添えて、エスコートするみたいに……すぃーっと」"
 translation = "「그럼 우선 간단한 동작부터 해볼까. 회장님 허리에 손을 얹고, 에스코트하는 것처럼…… 스윽─」"
 
 [[dialogue]]
-speaker = "舞亜"
+speaker_original = "舞亜"
+speaker_translation = "마이아"
 original = "「これは男性パートナーが、女性パートナーにやるやつ。まずは逆でやってるよ」"
 translation = "「이건 남자 파트너가 여자 파트너에게 하는 거야. 일단 반대로 해보고 있어.」"
 
 [[dialogue]]
-speaker = "舞亜"
+speaker_original = "舞亜"
+speaker_translation = "마이아"
 original = "「じゃあ会長さんもやってみて。私の腰に手を当てて……そうそう、そんな感じ。このまま……すいーっと。ほら、なんかそれっぽくなったでしょ」"
 translation = "「자, 회장님도 해봐. 내 허리에 손을 대고…… 그래그래, 그런 느낌. 이대로…… 스윽─. 봐, 제법 그럴싸해졌지?」"
 
 [[dialogue]]
-speaker = "オオヒメ"
+speaker_original = "オオヒメ"
+speaker_translation = "오오히메"
 original = "「ふむ……基本的な動作だけでも様になるものだな。しかし並ぶと舞亜殿と魔王の力量の差が際立つな……」"
 translation = "「흠…… 기본적인 동작만으로도 그림이 되는군. 하지만 나란히 서니 마이아 공과 마왕의 역량 차이가 두드러지는구나……」"
 
 [[dialogue]]
-speaker = "ウズメイア"
+speaker_original = "ウズメイア"
+speaker_translation = "우즈메"
 original = "「あはは、手厳しー！」"
 translation = "「아하하, 너무 직설적이야─!」"
 
 [[dialogue]]
-speaker = "舞亜"
+speaker_original = "舞亜"
+speaker_translation = "마이아"
 original = "「回るのもやってみよっか。会長さん、社交ダンスみたいに私の肩を持って」"
 translation = "「회전하는 것도 해볼까. 회장님, 사교댄스처럼 내 어깨를 잡아줘.」"
 
 [[dialogue]]
-speaker = "舞亜"
+speaker_original = "舞亜"
+speaker_translation = "마이아"
 original = "「……胸が当たってる？\u3000私、スケート選手にしてはおっぱい大きいから仕方ないね。大丈夫、会長さんなら気にしないよ」"
 translation = "「……가슴이 닿는다고? 나, 스케이트 선수 치고는 가슴이 크니까 어쩔 수 없네. 괜찮아, 회장님이라면 신경 안 써.」"
 
@@ -159,32 +185,38 @@ original = "（そういう問題じゃないような……）"
 translation = "（그런 문제가 아닌 것 같은데……）"
 
 [[dialogue]]
-speaker = "舞亜"
+speaker_original = "舞亜"
+speaker_translation = "마이아"
 original = "「会長さん、力を抜いて。そのまま上体を反らして……くるくるーっと」"
 translation = "「회장님, 힘을 빼고. 그대로 상체를 젖히면서…… 빙글빙글─」"
 
 [[dialogue]]
-speaker = "オオヒメ"
+speaker_original = "オオヒメ"
+speaker_translation = "오오히메"
 original = "「ほう……美しい動きだ。だがその……思っていたより大胆なのだな？」"
 translation = "「호오…… 아름다운 움직임이다. 하지만 그…… 생각했던 것보다 대담하군?」"
 
 [[dialogue]]
-speaker = "ソフィア"
+speaker_original = "ソフィア"
+speaker_translation = "소피아"
 original = "「素人の会長さんと一緒に回れる舞亜の体幹とバランスはすごいんだけど……ちょっと密着しすぎじゃない？」"
 translation = "「초보인 회장님과 함께 돌 수 있는 마이아의 체간과 밸런스는 대단하지만…… 좀 너무 밀착한 거 아니에요?」"
 
 [[dialogue]]
-speaker = "舞亜"
+speaker_original = "舞亜"
+speaker_translation = "마이아"
 original = "「いやいや、私真面目にやってるからね？\u3000会長さん、最後にツイストリフトってのやろうか。女性パートナーが男性パートナーに投げてもらって、空中で回るの」"
 translation = "「아니 아니, 나 진지하게 하고 있거든? 회장님, 마지막으로 트위스트 리프트라는 거 해볼까. 여자 파트너를 남자 파트너가 던져서 공중에서 도는 거야.」"
 
 [[dialogue]]
-speaker = "舞亜"
+speaker_original = "舞亜"
+speaker_translation = "마이아"
 original = "「ほら、私の腰を持って。ここここ──」"
 translation = "「자, 내 허리를 잡아. 여기 여기──」"
 
 [[dialogue]]
-speaker = "舞亜"
+speaker_original = "舞亜"
+speaker_translation = "마이아"
 original = "「あっ<emoji=heart04>」"
 translation = "「앗<emoji=heart04>」"
 
@@ -194,52 +226,62 @@ original = "変な声出た！？"
 translation = "이상한 소리 났어!?"
 
 [[dialogue]]
-speaker = "舞亜"
+speaker_original = "舞亜"
+speaker_translation = "마이아"
 original = "「あはは、ごめんごめん、会長さんの触り方が上手だったから声出ちゃった♪」"
 translation = "「아하하, 미안 미안, 회장님이 만지는 법이 능숙해서 소리가 나와버렸네♪」"
 
 [[dialogue]]
-speaker = "舞亜"
+speaker_original = "舞亜"
+speaker_translation = "마이아"
 original = "「それじゃ滑りながら加速して～……投げるっ」"
 translation = "「그럼 미끄러지면서 가속해서~…… 던진다!」"
 
 [[dialogue]]
-speaker = "舞亜"
+speaker_original = "舞亜"
+speaker_translation = "마이아"
 original = "「空中で回って──」"
 translation = "「공중에서 돌고──」"
 
 [[dialogue]]
-speaker = "舞亜"
+speaker_original = "舞亜"
+speaker_translation = "마이아"
 original = "「そして受け止める──っと。思ったより上手くいったね。やっぱり私のパートナーは会長さんじゃないと」"
 translation = "「그리고 받아내기── 영차. 생각보다 잘 됐네. 역시 내 파트너는 회장님이어야 해.」"
 
 [[dialogue]]
-speaker = "舞亜"
+speaker_original = "舞亜"
+speaker_translation = "마이아"
 original = "「ありがと……ちゅっ<emoji=heart04>」"
 translation = "「고마워…… 쪽<emoji=heart04>」"
 
 [[dialogue]]
-speaker = "オオヒメ"
+speaker_original = "オオヒメ"
+speaker_translation = "오오히메"
 original = "「今のも技か！？\u3000技なのか！？」"
 translation = "「방금 그것도 기술인가!? 기술인 건가!?」"
 
 [[dialogue]]
-speaker = "ソフィア"
+speaker_original = "ソフィア"
+speaker_translation = "소피아"
 original = "「そんなハレンチな技あるわけないじゃないですか！\u3000演技にかこつけてイチャイチャしてるだけですよ」"
 translation = "「그런 파렴치한 기술이 있을 리가 없잖아요! 연기를 핑계로 꽁냥거리고 있을 뿐이에요.」"
 
 [[dialogue]]
-speaker = "ウズメイア"
+speaker_original = "ウズメイア"
+speaker_translation = "우즈메"
 original = "「あははっ、舞亜ってばだいた～んっ！」"
 translation = "「아하하, 마이아도 참 대담해─!」"
 
 [[dialogue]]
-speaker = "舞亜"
+speaker_original = "舞亜"
+speaker_translation = "마이아"
 original = "「とまぁ、アイスダンスやペアってこんな感じ。フィギュアスケートにもいろいろあるんだよ」"
 translation = "「뭐, 아이스 댄스나 페어는 이런 느낌이야. 피겨 스케이팅에도 여러 가지가 있어.」"
 
 [[dialogue]]
-speaker = "舞亜"
+speaker_original = "舞亜"
+speaker_translation = "마이아"
 original = "「ほんと……フィギュアスケートっていろいろあるよね」"
 translation = "「정말…… 피겨 스케이팅은 여러 가지가 있지.」"
 
@@ -249,27 +291,32 @@ original = "舞亜……？\u3000どうかした？"
 translation = "마이아……? 왜 그래?"
 
 [[dialogue]]
-speaker = "舞亜"
+speaker_original = "舞亜"
+speaker_translation = "마이아"
 original = "「私は普段、競技の世界でスケートをやってる。勝つためにやってる」"
 translation = "「나는 평소에 경기 세계에서 스케이트를 타고 있어. 이기기 위해서 하고 있지.」"
 
 [[dialogue]]
-speaker = "舞亜"
+speaker_original = "舞亜"
+speaker_translation = "마이아"
 original = "「でも魔界での隠し芸大会で、勝つためじゃない、誰かを楽しませるためのスケートをした。そういうのもありなんだって気付けた」"
 translation = "「하지만 마계에서의 장기 자랑 대회에서, 이기기 위해서가 아닌, 누군가를 즐겁게 하기 위한 스케이트를 탔어. 그런 것도 괜찮구나 하고 깨달았지.」"
 
 [[dialogue]]
-speaker = "舞亜"
+speaker_original = "舞亜"
+speaker_translation = "마이아"
 original = "「これから競技レベルの演技ができなくなって、選手を引退しても、魅せるスケートはできるかもしない」"
 translation = "「앞으로 경기 수준의 연기를 할 수 없게 되어 선수를 은퇴하더라도, 보여주는 스케이트는 할 수 있을지도 몰라.」"
 
 [[dialogue]]
-speaker = "舞亜"
+speaker_original = "舞亜"
+speaker_translation = "마이아"
 original = "「それなら魔界や天界みたいな、フィギュアスケートが盛んじゃないところで滑るのもありかもって思うんだ」"
 translation = "「그렇다면 마계나 천계처럼 피겨 스케이팅이 활발하지 않은 곳에서 타는 것도 괜찮을 것 같아.」"
 
 [[dialogue]]
-speaker = "舞亜"
+speaker_original = "舞亜"
+speaker_translation = "마이아"
 original = "「もし魔界や天界で滑りたいって言ったら、会長さんはついてきてくれる？」"
 translation = "「만약 마계나 천계에서 타고 싶다고 하면, 회장님은 따라와 줄 거야?」"
 
@@ -279,7 +326,8 @@ original = "もちろん"
 translation = "물론이지."
 
 [[dialogue]]
-speaker = "舞亜"
+speaker_original = "舞亜"
+speaker_translation = "마이아"
 original = "「お、即答だね。心強いや」"
 translation = "「오, 즉답이네. 든든해.」"
 
@@ -289,12 +337,14 @@ original = "俺も舞亜の滑りをもっと見たいから"
 translation = "나도 마이아가 타는 모습을 더 보고 싶으니까."
 
 [[dialogue]]
-speaker = "舞亜"
+speaker_original = "舞亜"
+speaker_translation = "마이아"
 original = "「……そっか。思ったより長いスケーター人生になりそうだ」"
 translation = "「……그렇구나. 생각보다 긴 스케이터 인생이 될 것 같네.」"
 
 [[dialogue]]
-speaker = "舞亜"
+speaker_original = "舞亜"
+speaker_translation = "마이아"
 original = "「さっきの言葉、本気しちゃうから……責任取ってね、会長さん」"
 translation = "「방금 그 말, 진심으로 받아들일 거니까…… 책임져야 해, 회장님.」"
 

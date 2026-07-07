@@ -1,45 +1,54 @@
 [[dialogue]]
-speaker = "ミア"
+speaker_original = "ミア"
+speaker_translation = "미아"
 original = "「思わず飛び出して来ちゃったけど……さっきのあの態度、逆に子どもっぽかったかも」"
 translation = "「엉겁결에 튀어나오긴 했지만…… 방금 그 태도, 반대로 애 같았을지도」"
 
 [[dialogue]]
-speaker = "ミア"
+speaker_original = "ミア"
+speaker_translation = "미아"
 original = "「単独行動が危険なのはエリス先輩の言う通りだし。なのに、つい意地になっちゃって……」"
 translation = "「단독 행동이 위험한 건 에리스 선배 말대로고. 그런데도, 그만 오기를 부려버려서……」"
 
 [[dialogue]]
-speaker = "ミア"
+speaker_original = "ミア"
+speaker_translation = "미아"
 original = "「う、ううんっ。どちらにしても野放しにはできないわっ。今もまた星騎士が襲われている可能性だってあるんだからっ」"
 translation = "「으, 으응. 어쨌든 방치할 수는 없어. 지금도 또 성기사가 습격당하고 있을 가능성이 있으니까」"
 
 [[dialogue]]
-speaker = "ミア"
+speaker_original = "ミア"
+speaker_translation = "미아"
 original = "「……だけど相手はあのエリス先輩を一方的に打ちのめしたのよね。あの風紀委員のエースを……」"
 translation = "「……하지만 상대는 그 에리스 선배를 일방적으로 두들겨 팼단 말이지. 그 풍기위원의 에이스를……」"
 
 [[dialogue]]
-speaker = "ミア"
+speaker_original = "ミア"
+speaker_translation = "미아"
 original = "「っっ。弱気になっちゃダメよ、ミアっ。怖くない、私にならできるっ！」"
 translation = "「읏. 약해지면 안 돼, 미아. 무섭지 않아, 나라면 할 수 있어!」"
 
 [[dialogue]]
-speaker = "ミア"
+speaker_original = "ミア"
+speaker_translation = "미아"
 original = "「そうよ。こういう時のために今まで努力してきたんだもの……！\u3000今こそ私はママとパパみたいな立派な星騎士になるの……！」"
 translation = "「그래. 이럴 때를 위해서 지금까지 노력해온 거니까……! 이제야말로 나는 엄마랑 아빠 같은 훌륭한 성기사가 될 거야……!」"
 
 [[dialogue]]
-speaker = "ミア"
+speaker_original = "ミア"
+speaker_translation = "미아"
 original = "「それにここですごくすごーく活躍できれば、もう誰も私をちびっ子扱いできないわ……！\u3000ちんちくりんだからって、見くびられることもなくなるはず……！」"
 translation = "「거기다 여기서 아주아주 활약하면, 이제 아무도 나를 꼬맹이 취급 못 하겠지……! 땅딸보라고 얕보이는 일도 없어질 거야……!」"
 
 [[dialogue]]
-speaker = "ミア"
+speaker_original = "ミア"
+speaker_translation = "미아"
 original = "「よしっ……やってやろうじゃない！\u3000この事件はぜーったいに私が一人で解決してみせるっ……！」"
 translation = "「좋아…… 해보자고! 이 사건은 절대로 내가 혼자서 해결해 보이겠어……!」"
 
 [[dialogue]]
-speaker = "ミア"
+speaker_original = "ミア"
+speaker_translation = "미아"
 original = "「<ruby>堅忍果決<rt>けんにんかけつ</rt></ruby>、<ruby>剛毅果断<rt>ごうきかだん</rt></ruby>、強い意志を以て臨めば為せないことなんて──」"
 translation = "「견인과결, 강의과단, 강한 의지를 가지고 임하면 안 될 것 따윈──」"
 
@@ -49,22 +58,26 @@ original = "ミアっ！"
 translation = "미아!"
 
 [[dialogue]]
-speaker = "ミア"
+speaker_original = "ミア"
+speaker_translation = "미아"
 original = "「きゃあああああああっっ～～！！？\u3000くくく、来るなら来なさいっっ……！！\u3000私が相手をしてやるわっっ……！！」"
 translation = "「꺄아아아아아악~~!!? 오, 오려면 와보라고……!! 내가 상대해주겠어……!!」"
 
 [[dialogue]]
-speaker = "ミア"
+speaker_original = "ミア"
+speaker_translation = "미아"
 original = "「って……か、会長さん？\u3000追いかけてきたの？」"
 translation = "「어라…… 회, 회장님? 쫓아온 거야?」"
 
 [[dialogue]]
-speaker = "ミア"
+speaker_original = "ミア"
+speaker_translation = "미아"
 original = "「何よ、その心配そうな顔。私を子ども扱いして……私だって一人前の星騎士なのに失礼だわ」"
 translation = "「뭐야, 그 걱정스러운 얼굴은. 나를 아이 취급하고…… 나도 어엿한 성기사인데 실례야」"
 
 [[dialogue]]
-speaker = "ミア"
+speaker_original = "ミア"
+speaker_translation = "미아"
 original = "「わざわざ追いかけてきてもらって悪いけど、私は１人で大丈夫。会長さんのお守りなんて必要ないから」"
 translation = "「일부러 쫓아와 준 건 고맙지만, 나는 혼자서 괜찮아. 회장님의 보살핌 같은 건 필요 없으니까」"
 
@@ -74,17 +87,20 @@ original = "でもすごく怯えてたし"
 translation = "하지만 굉장히 겁먹고 있었잖아"
 
 [[dialogue]]
-speaker = "ミア"
+speaker_original = "ミア"
+speaker_translation = "미아"
 original = "「お、怯えてないわっ。さっきのはそのっ、武者震いよっ」"
 translation = "「거, 겁먹지 않았어. 방금 그건 그, 무사태평한 게 아니라 무사분투…… 아니, 무사히 이기기 위한 무사정신이야!」"
 
 [[dialogue]]
-speaker = "ミア"
+speaker_original = "ミア"
+speaker_translation = "미아"
 original = "「確かにその……私はエリス先輩みたいにすごい星力は持ってないけど。対人戦闘の経験もほんのちょっぴり少ないかもしれないけど……」"
 translation = "「확실히 그…… 나는 에리스 선배처럼 엄청난 성력은 없지만. 대인 전투 경험도 아주 쬐금 적을지도 모르지만……」"
 
 [[dialogue]]
-speaker = "ミア"
+speaker_original = "ミア"
+speaker_translation = "미아"
 original = "「でも訓練なら毎日してるしっ、モンスター退治だってしてるっ、星騎士同士のケンカの仲裁だって日常茶飯事だわっ。悪人なんかに負けやしないもんっ」"
 translation = "「하지만 훈련이라면 매일 하고 있고, 몬스터 퇴치도 하고 있고, 성기사끼리 싸우는 거 중재하는 건 일상다반사라고. 악당 따위한테 지지 않는단 말이야」"
 
@@ -94,77 +110,92 @@ original = "ミアの力は疑ってないよ"
 translation = "미아의 실력을 의심하는 게 아니야"
 
 [[dialogue]]
-speaker = "ミア"
+speaker_original = "ミア"
+speaker_translation = "미아"
 original = "「そーなの……？\u3000えへへ、なーんだ。話がわかるじゃない♪」"
 translation = "「그으래……? 에헤헤, 뭐야. 말이 통하잖아♪」"
 
 [[dialogue]]
-speaker = "ミア"
+speaker_original = "ミア"
+speaker_translation = "미아"
 original = "「なら犯人捜しは私に任せて、会長さんは出歩いてる星騎士に注意して回って？\u3000１人でいるところを襲われたら大変だもんっ」"
 translation = "「그럼 범인 찾기는 나한테 맡기고, 회장님은 돌아다니는 성기사들한테 주의 좀 주고 다녀줘. 혼자 있다가 습격당하면 큰일이니까」"
 
 [[dialogue]]
-speaker = "ミア"
+speaker_original = "ミア"
+speaker_translation = "미아"
 original = "「それじゃよろしくね、会長さん！」"
 translation = "「그럼 부탁해, 회장님!」"
 
 [[dialogue]]
-speaker = "ミア"
+speaker_original = "ミア"
+speaker_translation = "미아"
 original = "「って、どうしてついてくるのよ！？」"
 translation = "「근데, 왜 따라오는 거야!?」"
 
 [[dialogue]]
-speaker = "ミア"
+speaker_original = "ミア"
+speaker_translation = "미아"
 original = "「やっぱり私のこと子ども扱いしてるじゃなーいっ。私一人じゃ太刀打ちできないと思ってるからついてくるんでしょっ？」"
 translation = "「역시 나를 아이 취급하고 있잖아! 나 혼자서는 맞설 수 없다고 생각하니까 따라오는 거지?」"
 
 [[dialogue]]
-speaker = "ミア"
+speaker_original = "ミア"
+speaker_translation = "미아"
 original = "「さっきは私の実力を認めてくれてるようなこと言ってたのにっ。この嘘つきっ。嘘つきっ」"
 translation = "「방금 전에는 내 실력을 인정해주는 듯한 말을 하더니만. 이 거짓말쟁이. 거짓말쟁이」"
 
 [[dialogue]]
-speaker = "ミア"
+speaker_original = "ミア"
+speaker_translation = "미아"
 original = "「単独行動がちょっぴり危険なのはわかるけど……。だけど手分けして探した方が効率もいいし、被害も減らせるかもじゃない」"
 translation = "「단독 행동이 쬐금 위험하다는 건 알지만……. 하지만 나눠서 찾는 게 효율도 좋고, 피해도 줄일 수 있을 거 아냐」"
 
 [[dialogue]]
-speaker = "ミア"
+speaker_original = "ミア"
+speaker_translation = "미아"
 original = "「少しは私の力を信用して──」"
 translation = "「조금은 내 실력을 믿어──」"
 
 [[dialogue]]
-speaker = "ミア"
+speaker_original = "ミア"
+speaker_translation = "미아"
 original = "「！\u3000モンスター……！？」"
 translation = "「! 몬스터……!?」"
 
 [[dialogue]]
-speaker = "ミア"
+speaker_original = "ミア"
+speaker_translation = "미아"
 original = "「話は後よっ、すぐにやっつけに行かなきゃっ！\u3000誰かが襲われていたら大変だわっ！」"
 translation = "「이야기는 나중이야, 당장 해치우러 가야 해! 누군가 습격당하고 있으면 큰일이니까!」"
 
 [[dialogue]]
-speaker = "ミア"
+speaker_original = "ミア"
+speaker_translation = "미아"
 original = "「たぁあっっ！！\u3000てやああああっっ！！」"
 translation = "「타앗!! 테야아아앗!!」"
 
 [[dialogue]]
-speaker = "ミア"
+speaker_original = "ミア"
+speaker_translation = "미아"
 original = "「これで──フィニッシュよ！！」"
 translation = "「이걸로── 피니시야!!」"
 
 [[dialogue]]
-speaker = "ミア"
+speaker_original = "ミア"
+speaker_translation = "미아"
 original = "「ふぅ、良かった。被害が出る前に倒せたみたいね」"
 translation = "「후우, 다행이다. 피해가 나오기 전에 쓰러뜨린 것 같네」"
 
 [[dialogue]]
-speaker = "ミア"
+speaker_original = "ミア"
+speaker_translation = "미아"
 original = "「でもでも、ふふん。これで私の実力はわかったでしょ？\u3000会長さんの助けなんか必要ないんだから♪」"
 translation = "「하지만 하지만, 후훙. 이걸로 내 실력은 알았겠지? 회장님의 도움 같은 건 필요 없단 말이야♪」"
 
 [[dialogue]]
-speaker = "ミア"
+speaker_original = "ミア"
+speaker_translation = "미아"
 original = "「わかったら今度こそ手分けして捜査しましょ？\u3000何かあったらすぐに知らせるから。ねね、それならいいでしょ？」"
 translation = "「알았으면 이번에야말로 나눠서 수사하자? 무슨 일 있으면 바로 알릴 테니까. 응응, 그 정도면 됐지?」"
 
@@ -174,27 +205,32 @@ original = "でも……"
 translation = "하지만……"
 
 [[dialogue]]
-speaker = "ミア"
+speaker_original = "ミア"
+speaker_translation = "미아"
 original = "「む……。これだけ言ってもダメだなんて……」"
 translation = "「무……. 이 정도로 말해도 안 된다니……」"
 
 [[dialogue]]
-speaker = "ミア"
+speaker_original = "ミア"
+speaker_translation = "미아"
 original = "「そんなにも……そんなにも私が弱そうに見える？」"
 translation = "「그렇게나…… 그렇게나 내가 약해 보여?」"
 
 [[dialogue]]
-speaker = "ミア"
+speaker_original = "ミア"
+speaker_translation = "미아"
 original = "「他の人より体が小さいから……？\u3000ちんちくりんだから……？」"
 translation = "「다른 사람보다 몸집이 작으니까……? 땅딸보라서……?」"
 
 [[dialogue]]
-speaker = "ミア"
+speaker_original = "ミア"
+speaker_translation = "미아"
 original = "「だから会長さんも……私の言うこと聞いてくれないの？」"
 translation = "「그래서 회장님도…… 내 말을 안 들어주는 거야?」"
 
 [[dialogue]]
-speaker = "ミア"
+speaker_original = "ミア"
+speaker_translation = "미아"
 original = "「私なんかじゃ、ぐすっ、ママやパパみたいな立派な星騎士になれないって言うの……！？」"
 translation = "「나 같은 건, 흑, 엄마랑 아빠 같은 훌륭한 성기사가 될 수 없다는 거야……!?」"
 

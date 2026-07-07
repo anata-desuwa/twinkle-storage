@@ -14,272 +14,326 @@ original = "そんな彼女を神殿から連れ戻すために──"
 translation = "그런 그녀를 신전에서 데려오기 위해──"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「みーんなー、隠し芸大会、盛り上げていくわよー！」"
 translation = "「모~두~, 장기 자랑 대회, 분위기 띄워보자고~!」"
 
 [[dialogue]]
-speaker = "アイリーン"
+speaker_original = "アイリーン"
+speaker_translation = "아이린"
 original = "「はじまりましたー、隠し芸大会！\u3000司会進行は私、魔女アイリーンとミーちゃん！\u3000そして、解説はー？」"
 translation = "「시작됐습니다~, 장기 자랑 대회! 사회 진행은 저, 마녀 아이린과 미짱! 그리고, 해설은~?」"
 
 [[dialogue]]
-speaker = "マグダレナ"
+speaker_original = "マグダレナ"
+speaker_translation = "막달레나"
 original = "「私、マグダレナでお送りします」"
 translation = "「저, 마그달레나가 맡겠습니다.」"
 
 [[dialogue]]
-speaker = "アイリーン"
+speaker_original = "アイリーン"
+speaker_translation = "아이린"
 original = "「マグダレナさん、この度の隠し芸大会、どう見ますかー？」"
 translation = "「마그달레나 씨, 이번 장기 자랑 대회, 어떻게 보시나요~?」"
 
 [[dialogue]]
-speaker = "マグダレナ"
+speaker_original = "マグダレナ"
+speaker_translation = "막달레나"
 original = "「大変興味深いです。解説の身ではありますが、みなさまの渾身の芸、一観客としても楽しませていただきたいと思います」"
 translation = "「매우 흥미롭네요. 해설자의 입장이긴 합니다만, 여러분의 혼신이 담긴 장기를 한 명의 관객으로서 즐기고 싶습니다.」"
 
 [[dialogue]]
-speaker = "マグダレナ"
+speaker_original = "マグダレナ"
+speaker_translation = "막달레나"
 original = "「しかし、私すら喜ばせられないようでは、オオヒメの心にまで届かせるのは難しいでしょう」"
 translation = "「하지만, 저조차 기쁘게 하지 못한다면 오오히메의 마음까지 닿기는 어렵겠죠.」"
 
 [[dialogue]]
-speaker = "アイリーン"
+speaker_original = "アイリーン"
+speaker_translation = "아이린"
 original = "「プレッシャーがかかるねー！\u3000さーて、気になるトップバッターは……てゆーか、この空気の中、一番最初に出られる人なんているのかなー？」"
 translation = "「부담 백배네~! 자~ 그럼, 궁금한 첫 타자는…… 그나저나, 이런 분위기 속에서 제일 먼저 나올 수 있는 사람이 있으려나~?」"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「もちろん、言い出しっぺの私から行くわ！\u3000さ、みんな、盛り上げて！\u3000手拍子よ！」"
 translation = "「물론, 제안한 내가 먼저 가야지! 자, 다들 분위기 띄워! 박수 쳐!」"
 
 [[dialogue]]
-speaker = "アイリーン"
+speaker_original = "アイリーン"
+speaker_translation = "아이린"
 original = "「おーっと、ヴィーナスさんスゴい！\u3000空気を読んでるのか読んでないのか、一番に出られる勇気は見習いたいですねー」"
 translation = "「오옷, 비너스 씨 대단해! 분위기를 파악하는 건지 못 하는 건지, 제일 먼저 나서는 용기는 본받고 싶네요~」"
 
 [[dialogue]]
-speaker = "アイリーン"
+speaker_original = "アイリーン"
+speaker_translation = "아이린"
 original = "「ですが、ショーレースでは一番最初に披露した人は優勝できないというジンクスがあります」"
 translation = "「하지만 쇼 레이스에서는 제일 먼저 선보인 사람은 우승할 수 없다는 징크스가 있답니다.」"
 
 [[dialogue]]
-speaker = "マグダレナ"
+speaker_original = "マグダレナ"
+speaker_translation = "막달레나"
 original = "「『まだ始まったばかりだし、この後、もっと面白いネタが控えているのでは』と期待し、判定が厳しめになってしまいがちですからね」"
 translation = "「『이제 막 시작했을 뿐이니, 이 뒤에 더 재밌는 소재가 기다리고 있지 않을까』 하고 기대하게 되어 판정이 엄격해지기 쉽기 때문이죠.」"
 
 [[dialogue]]
-speaker = "ウズメイア"
+speaker_original = "ウズメイア"
+speaker_translation = "우즈메"
 original = "「ヤバ。マグダレナ様、理解度が高いんだけど」"
 translation = "「대박. 마그달레나 님, 이해도가 장난 아닌데?」"
 
 [[dialogue]]
-speaker = "マグダレナ"
+speaker_original = "マグダレナ"
+speaker_translation = "막달레나"
 original = "「アニマさまの義体で受肉してから、テレビ番組はよく視聴していますから。お笑いや仮装の大会なども見ております」"
 translation = "「아니마 님의 의체로 수육한 뒤로 TV 프로그램을 자주 시청하고 있거든요. 개그나 코스프레 대회 같은 것도 보고 있습니다.」"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「ふふーん、そんな下らないジンクスは、木っ端ミジンコにしてみせるわ！\u3000お正月の伝統芸といえば、なんといってもこれ！\u3000傘回しよ！」"
 translation = "「후흥~, 그런 시시한 징크스는 박살을 내주겠어! 설날의 전통 예술이라고 하면 뭐니 뭐니 해도 이거! 우산 돌리기야!」"
 
 [[dialogue]]
-speaker = "アイリーン"
+speaker_original = "アイリーン"
+speaker_translation = "아이린"
 original = "「ヴィーナスさんは晴れ着衣装の傘を、有効に活かすみたいですねー。無駄がないです！」"
 translation = "「비너스 씨는 나들이옷 의상의 우산을 유용하게 활용하려는 모양이네요~. 낭비가 없어요!」"
 
 [[dialogue]]
-speaker = "マグダレナ"
+speaker_original = "マグダレナ"
+speaker_translation = "막달레나"
 original = "「ふむ、傘回しですか。ヴィーナスさまならではの破天荒な技をみせていただけるでしょうか」"
 translation = "「흠, 우산 돌리기인가요. 비너스 님 특유의 파천황적인 기술을 보여주실지 기대되는군요.」"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「さぁ、みんな、なんでも投げてちょうだい！\u3000どんなものだって、傘の上でぶん回してみせるわ！\u3000まずはボールから！\u3000よっ、ほっ、はーっ」"
 translation = "「자, 다들 뭐든지 던져줘! 어떤 것이든 우산 위에서 뱅글뱅글 돌려줄 테니까! 우선 공부터! 영차, 훗, 하앗!」"
 
 [[dialogue]]
-speaker = "ウズメイア"
+speaker_original = "ウズメイア"
+speaker_translation = "우즈메"
 original = "「えっ、すごいすごーい！\u3000どうやってんのー？」"
 translation = "「엣, 대단해 대단해~! 어떻게 하는 거야~?」"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「そこは企業秘密よ！\u3000お次は四角いマスね。角ばってるから難しいのよね、ほっ！」"
 translation = "「그건 기업 비밀이야! 다음은 네모난 되네. 각져 있어서 어렵단 말이지, 훗!」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「では、この羽子板も。えいっ」"
 translation = "「그럼 이 하고이타도. 에잇.」"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「私にかかれば、お茶の子さいさいだわ！\u3000ほっ、ほっ、ほっ、ジャンプまでさせちゃうわね！\u3000えーいやっ！」"
 translation = "「나한테 걸리면 식은 죽 먹기지! 훗, 훗, 훗, 점프까지 시켜버릴게! 에잇!」"
 
 [[dialogue]]
-speaker = "アイリーン"
+speaker_original = "アイリーン"
+speaker_translation = "아이린"
 original = "「あはは、ミーちゃんも回してもらったらー？」"
 translation = "「아하하, 미짱도 돌려달라고 하는 게 어때~?」"
 
 [[dialogue]]
-speaker = "ミーちゃん"
+speaker_original = "ミーちゃん"
+speaker_translation = "미짱"
 original = "「ホーホー！」"
 translation = "「호호!」"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「大物だって生き物だって問題なしよ！\u3000いつもより多く回してあげるわ！\u3000おめでとうございまーす！\u3000以上よ！」"
 translation = "「거물이라도 생물이라도 문제없어! 평소보다 많이 돌려줄게! 축하합니다~! 이상!」"
 
 [[dialogue]]
-speaker = "アイリーン"
+speaker_original = "アイリーン"
+speaker_translation = "아이린"
 original = "「素晴らしい傘回しでしたけど、気になるオオヒメ様の反応はー！？」"
 translation = "「훌륭한 우산 돌리기였습니다만, 궁금한 오오히메 님의 반응은~!?」"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「ひらけゴマー！」"
 translation = "「열려라 참깨~!」"
 
 [[dialogue]]
-speaker = "マグダレナ"
+speaker_original = "マグダレナ"
+speaker_translation = "막달레나"
 original = "「…………反応はありませんね。どうやらお気に召さなかったようです」"
 translation = "「…………반응이 없네요. 아무래도 마음에 들지 않은 모양입니다.」"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「えーっ、どうしてよ！\u3000完璧な出来栄えだったじゃない！」"
 translation = "「에엣, 왜! 완벽한 솜씨였잖아!」"
 
 [[dialogue]]
-speaker = "アイリーン"
+speaker_original = "アイリーン"
+speaker_translation = "아이린"
 original = "「ヴィーナスさんにしては、ちょっと地味な芸だったかなー」"
 translation = "「비너스 씨 치고는 좀 수수한 장기였으려나~.」"
 
 [[dialogue]]
-speaker = "マグダレナ"
+speaker_original = "マグダレナ"
+speaker_translation = "막달레나"
 original = "「もうひとつ、大きなオチが待っているのに期待してしまいました。トップバッターの難しいところですね」"
 translation = "「커다란 반전이 기다리고 있기를 기대해 버렸습니다. 첫 타자의 어려운 점이군요.」"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「くうう、手厳しいわね！\u3000でもちゃんと場はあっためたわ！\u3000次はフィオナ、よろしくね！」"
 translation = "「으으으, 너무 엄격하네! 그래도 분위기는 잘 데워놨어! 다음은 피오나, 부탁해!」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「わ、私ですか！？\u3000何も準備してませんよ！？」"
 translation = "「저, 저 말인가요!? 아무것도 준비하지 않았는데요!?」"
 
 [[dialogue]]
-speaker = "ソフィア"
+speaker_original = "ソフィア"
+speaker_translation = "소피아"
 original = "「期待してます、フィオナ会長」"
 translation = "「기대하고 있어요, 피오나 회장님.」"
 
 [[dialogue]]
-speaker = "ウズメイア"
+speaker_original = "ウズメイア"
+speaker_translation = "우즈메"
 original = "「会長がんば～！」"
 translation = "「회장님 힘내요~!」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「くっ……期待を寄せられているからにはやらないわけにはいきません」"
 translation = "「큿…… 기대를 받고 있는 이상 안 할 수는 없겠군요.」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「では、姉さん仕込みの、流星ライダーの変身ポーズを披露します……こほん」"
 translation = "「그럼, 언니에게 배운 유성 라이더의 변신 포즈를 선보이겠습니다…… 흠흠.」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「出たな、モスキート怪人！」"
 translation = "「나타났구나, 모스키토 괴인!」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「しゃきーん……はぁぁぁぁっ……！\u3000ライッダー変ッ身！」"
 translation = "「샤킹…… 하아아아아앗……! 라이더 변·신!」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「ぎゅいんぎゅいんぎゅいん、とぉ～～～っ！\u3000流星ライダー参ッ・上ッ！」"
 translation = "「규잉규잉규잉, 토오오오오옷! 유성 라이더 등장!」"
 
 [[dialogue]]
-speaker = "マグダレナ"
+speaker_original = "マグダレナ"
+speaker_translation = "막달레나"
 original = "「………………」"
 translation = "「………………」"
 
 [[dialogue]]
-speaker = "アイリーン"
+speaker_original = "アイリーン"
+speaker_translation = "아이린"
 original = "「えーっと、終わりってことでいーい？」"
 translation = "「저기, 끝난 걸로 봐도 될까?」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「は、はい、どうだったでしょう……？」"
 translation = "「네, 네…… 어떠셨나요……?」"
 
 [[dialogue]]
-speaker = "ウズメイア"
+speaker_original = "ウズメイア"
+speaker_translation = "우즈메"
 original = "「フィオナ会長……ごめんだけど、かなりビミョぃ～～……」"
 translation = "「피오나 회장님…… 미안하지만, 꽤 미묘해~~……」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「そ、そんなっ……！？」"
 translation = "「그, 그럴 수가……!?」"
 
 [[dialogue]]
-speaker = "舞亜"
+speaker_original = "舞亜"
+speaker_translation = "마이아"
 original = "「見ててこっちが恥ずかしくなってきちゃった」"
 translation = "「보는 내가 다 부끄러워졌어♥」"
 
 [[dialogue]]
-speaker = "ソフィア"
+speaker_original = "ソフィア"
+speaker_translation = "소피아"
 original = "「申し訳ないです……会長に無理強いしてしまったばかりに……」"
 translation = "「죄송해요…… 회장님께 억지로 시키는 바람에……」"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「照れが残っていたのは、減点対象ね。やるからにはアポロくらい振り切ってなきゃだわ」"
 translation = "「쑥스러움이 남아있던 게 감점 대상이네. 하려면 아폴로만큼은 질러줬어야지.」"
 
 [[dialogue]]
-speaker = "マグダレナ"
+speaker_original = "マグダレナ"
+speaker_translation = "막달레나"
 original = "「すみません……私は流星ライダーを存じ上げないので、よくわかりませんでした」"
 translation = "「죄송합니다…… 저는 유성 라이더를 몰라서 잘 모르겠더군요.」"
 
 [[dialogue]]
-speaker = "アイリーン"
+speaker_original = "アイリーン"
+speaker_translation = "아이린"
 original = "「オオヒメさんも流星ライダーを知らなかったら、完成度の良し悪しが分からないしねー」"
 translation = "「오오히메 씨도 유성 라이더를 모르면 완성도가 좋은지 나쁜지 모를 테니까~.」"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「滑ったなら滑ったなりに滑り芸に昇華できればワンチャンあったかもだけど、フィオナにはハードルが高かったわね！」"
 translation = "「썰렁하면 썰렁한 대로 개그로 승화시켰으면 찬스가 있었을지도 모르지만, 피오나에게는 허들이 높았네!」"
 
 [[dialogue]]
-speaker = "マグダレナ"
+speaker_original = "マグダレナ"
+speaker_translation = "막달레나"
 original = "「オオヒメも反応していませんね……。むしろ、より深くまで潜ってしまったように思います」"
 translation = "「오오히메도 반응하지 않는군요……. 오히려 더 깊숙이 숨어버린 것 같습니다.」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「そんな～～～っ！？」"
 translation = "「그럴 수가~~~!?」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「くぅっ……もっと精進しなければ……姉さんに教わり、完成度を高めておきます……」"
 translation = "「큿…… 더 정진해야겠어…… 언니에게 배워서 완성도를 높여두겠습니다……」"
 
 [[dialogue]]
-speaker = "ウズメイア"
+speaker_original = "ウズメイア"
+speaker_translation = "우즈메"
 original = "「完成度の問題じゃないような……？\u3000ていうかこの空気、どうしよ？」"
 translation = "「완성도의 문제가 아닌 것 같은데……? 그보다 이 분위기, 어떡하지?」"
 
@@ -294,7 +348,8 @@ original = "「本物の隠し芸、見せてあげちゃうよー！」"
 translation = "「진정한 장기를 보여줄게~!」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「あ、あなたたちは──！？」"
 translation = "「다, 당신들은──!?」"
 

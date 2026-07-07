@@ -4,22 +4,26 @@ original = "第４話,レナーテの素顔,P"
 translation = "제4화, 레나테의 본모습, P"
 
 [[dialogue]]
-speaker = "ジグ"
+speaker_original = "ジグ"
+speaker_translation = "지그"
 original = "「やぁ、魔王じゃないか。もしかして私を探してここまで来たのかい？」"
 translation = "「안녕, 마왕 아닌가. 혹시 나를 찾아서 여기까지 온 건가?」"
 
 [[dialogue]]
-speaker = "ジグ"
+speaker_original = "ジグ"
+speaker_translation = "지그"
 original = "「私が心配……？\u3000何かしてしまったかな？」"
 translation = "「내가 걱정……? 뭔가 잘못한 게 있나?」"
 
 [[dialogue]]
-speaker = "ジグ"
+speaker_original = "ジグ"
+speaker_translation = "지그"
 original = "「ふむ。私がベガ出身だから<ruby>アルタイル<rt>こっち</rt></ruby>に馴染めてないんじゃないかって？」"
 translation = "「흠. 내가 베가 출신이라 <ruby=여기>알타이르에 익숙해지지 못하고 있다고?」"
 
 [[dialogue]]
-speaker = "ジグ"
+speaker_original = "ジグ"
+speaker_translation = "지그"
 original = "「それなら心配は無用だ。元リクリエの使徒だった私にも、周りは良くしてくれているよ」"
 translation = "「그렇다면 걱정은 무용이다. 전 리크리에의 사도였던 나에게도, 주변 사람들은 잘 대해주고 있어」"
 
@@ -29,47 +33,56 @@ original = "時々遠くを見てるけど"
 translation = "가끔 멀리 보긴 하지만"
 
 [[dialogue]]
-speaker = "ジグ"
+speaker_original = "ジグ"
+speaker_translation = "지그"
 original = "「おや、見ていたのか。確かに物思いに耽ることはあるけど──」"
 translation = "「어라, 보고 있었나. 확실히 생각에 잠길 때가 있긴 하지만──」"
 
 [[dialogue]]
-speaker = "ジグ"
+speaker_original = "ジグ"
+speaker_translation = "지그"
 original = "「しまった……可能性が見えてしまった。ここで私が適当にごまかしても、君が意地でも私の本心を聞こうとするだろう」"
 translation = "「이런…… 가능성이 보이고 말았다. 여기서 내가 적당히 얼버무려도, 네가 기어코 내 본심을 들으려 할 테지」"
 
 [[dialogue]]
-speaker = "ジグ"
+speaker_original = "ジグ"
+speaker_translation = "지그"
 original = "「だけど、私が<ruby>故郷<rt>ベガ</rt></ruby>のことを思い出して悲しんでいると思っているなら違うよ」"
 translation = "「하지만, 내가 고향를 떠올리며 슬퍼하고 있다고 생각한다면 그건 아니야」"
 
 [[dialogue]]
-speaker = "ジグ"
+speaker_original = "ジグ"
+speaker_translation = "지그"
 original = "「うーん……どう言おうかな。まだ実感がないんだよね」"
 translation = "「음…… 뭐라고 말해야 할까. 아직 실감이 나지 않아」"
 
 [[dialogue]]
-speaker = "ジグ"
+speaker_original = "ジグ"
+speaker_translation = "지그"
 original = "「故郷を失くした悲しみも、リクリエの使徒から解放された喜びも、どこか遠いもののように感じる」"
 translation = "「고향을 잃은 슬픔도, 리크리에의 사도에서 해방된 기쁨도, 어딘가 먼 것처럼 느껴진다」"
 
 [[dialogue]]
-speaker = "ジグ"
+speaker_original = "ジグ"
+speaker_translation = "지그"
 original = "「星騎士レナーテ・Ｚ・サイフリートは死んだ……リクリエの使徒であった頃の私はそう言っていたね」"
 translation = "「성기사 레나테・Z・자이프리트는 죽었다…… 리크리에의 사도였을 적의 나는 그렇게 말했었지」"
 
 [[dialogue]]
-speaker = "ジグ"
+speaker_original = "ジグ"
+speaker_translation = "지그"
 original = "「ベガでは、アガサ以外は私をレナーテと呼んでいた。だけど今、レナーテと呼ばれても自分のことだという実感がない」"
 translation = "「베가에서는, 아가사 외에는 나를 레나테라고 불렀다. 하지만 지금, 레나테라고 불려도 내 일이라는 실감이 없어」"
 
 [[dialogue]]
-speaker = "ジグ"
+speaker_original = "ジグ"
+speaker_translation = "지그"
 original = "「だから、レナーテは死んだ。それは間違っていないのかもしれない」"
 translation = "「그러니, 레나테는 죽었다. 그건 틀리지 않았을지도 모른다」"
 
 [[dialogue]]
-speaker = "ジグ"
+speaker_original = "ジグ"
+speaker_translation = "지그"
 original = "「私はベガの戦いで心折れたままの亡霊なのかもしれないね」"
 translation = "「나는 베가의 싸움에서 마음이 꺾인 채인 망령일지도 모르겠네」"
 
@@ -79,17 +92,20 @@ original = "ジグ……"
 translation = "지그……"
 
 [[dialogue]]
-speaker = "ジグ"
+speaker_original = "ジグ"
+speaker_translation = "지그"
 original = "「実はベガにいた頃から味覚も鈍くなっていてね。最近は随分良くなってはいるんだけど」"
 translation = "「실은 베가에 있을 때부터 미각도 둔해져서 말이야. 최근에는 상당히 좋아지고는 있지만」"
 
 [[dialogue]]
-speaker = "ジグ"
+speaker_original = "ジグ"
+speaker_translation = "지그"
 original = "「ついでにもうひとつ……女神様の前だから告白しておこうか」"
 translation = "「덧붙여서 하나 더…… 여신님 앞이니까 고백해 둘까」"
 
 [[dialogue]]
-speaker = "ジグ"
+speaker_original = "ジグ"
+speaker_translation = "지그"
 original = "「ベガやアルタイル、それにリクリエとも関係なく、私は元々人が嫌いだし、苦手なんだ」"
 translation = "「베가나 알타이르, 그리고 리크리에와도 관계없이, 나는 원래부터 사람을 싫어하고, 어려워해」"
 
@@ -99,32 +115,38 @@ original = "え……！？"
 translation = "에……!?"
 
 [[dialogue]]
-speaker = "ジグ"
+speaker_original = "ジグ"
+speaker_translation = "지그"
 original = "「別に憎いとか、どうにかしてやりたいとか思っているわけじゃないよ。少しだけ煩わしいと感じてるだけだ」"
 translation = "「딱히 밉다거나, 어떻게 해주고 싶다거나 생각하는 건 아니야. 조금 귀찮다고 느끼고 있을 뿐이다」"
 
 [[dialogue]]
-speaker = "ジグ"
+speaker_original = "ジグ"
+speaker_translation = "지그"
 original = "「人が集まると、何かと比べたり、比べられたりする。それが<ruby>性<rt>さが</rt></ruby>というもの」"
 translation = "「사람이 모이면, 뭔가와 비교하거나, 비교당하거나 한다. 그것이 본성이라는 것」"
 
 [[dialogue]]
-speaker = "ジグ"
+speaker_original = "ジグ"
+speaker_translation = "지그"
 original = "「だけど私は星眼のおかげで、簡単に自身の才能を開花させることができた」"
 translation = "「하지만 나는 성안 덕분에, 간단히 자신의 재능을 꽃피울 수 있었다」"
 
 [[dialogue]]
-speaker = "ジグ"
+speaker_original = "ジグ"
+speaker_translation = "지그"
 original = "「だから私は何をしても勝った。勝ててしまった。勝負事が好きじゃなくて、負けた方を可哀想に思うくらいなのに」"
 translation = "「그래서 나는 뭘 해도 이겼다. 이겨버리고 말았다. 승부 자체를 좋아하지 않아서, 진 쪽을 불쌍하게 여길 정도인데도」"
 
 [[dialogue]]
-speaker = "ジグ"
+speaker_original = "ジグ"
+speaker_translation = "지그"
 original = "「私は嫉妬や羨望の視線を避けるために、星眼のことを隠し、ただ運がいいだけだと<ruby>嘯<rt>うそぶ</rt></ruby>くようになった」"
 translation = "「나는 질투나 선망의 시선을 피하기 위해, 성안에 대해 숨기고, 그저 운이 좋을 뿐이라고 으스대게 되었다」"
 
 [[dialogue]]
-speaker = "ジグ"
+speaker_original = "ジグ"
+speaker_translation = "지그"
 original = "「いつしか軽薄な仮面を被り、人と距離を取るようになってしまった。……どちらからと言えば、１人で引きこもっていたい方なんだよ、私は」"
 translation = "「어느새 경박한 가면을 쓰고, 사람들과 거리를 두게 되었다. ……어느 쪽이냐고 하면, 혼자 틀어박혀 있고 싶은 쪽이야, 나는」"
 
@@ -134,47 +156,56 @@ original = "梨緒のことも嫌い？"
 translation = "리오도 싫어?"
 
 [[dialogue]]
-speaker = "ジグ"
+speaker_original = "ジグ"
+speaker_translation = "지그"
 original = "「アガサは……また別の意味で嫌いだね」"
 translation = "「아가사는…… 또 다른 의미로 싫어하네」"
 
 [[dialogue]]
-speaker = "ジグ"
+speaker_original = "ジグ"
+speaker_translation = "지그"
 original = "「無遠慮で、諦めが悪くて、距離を取ってもズカズカと踏み込んでくる」"
 translation = "「무례하고, 포기를 모르고, 거리를 둬도 성큼성큼 다가온다」"
 
 [[dialogue]]
-speaker = "ジグ"
+speaker_original = "ジグ"
+speaker_translation = "지그"
 original = "「何度敗れても懲りずに勝負を挑んできて……アガサだけは遠慮なく負かすことができた」"
 translation = "「몇 번을 패배해도 징계 없이 승부를 걸어와서…… 아가사만큼은 거리낌 없이 패배시킬 수 있었다」"
 
 [[dialogue]]
-speaker = "ジグ"
+speaker_original = "ジグ"
+speaker_translation = "지그"
 original = "「結局、アガサは私を１人にさせてくれなかった」"
 translation = "「결국, 아가사는 나를 혼자 있게 해주지 않았다」"
 
 [[dialogue]]
-speaker = "ジグ"
+speaker_original = "ジグ"
+speaker_translation = "지그"
 original = "「まぁ、私の眼のことを知ってもなお、勝負を挑んでくる負けず嫌いにはいささか呆れるけど……アガサらしいや」"
 translation = "「뭐, 내 눈에 대해 알고도 여전히, 승부를 걸어오는 지기 싫어하는 성격에는 다소 질리지만…… 아가사답네」"
 
 [[dialogue]]
-speaker = "ジグ"
+speaker_original = "ジグ"
+speaker_translation = "지그"
 original = "「ふぅ……ちょっと素直になりすぎたかな」"
 translation = "「휴우…… 조금 너무 솔직했나」"
 
 [[dialogue]]
-speaker = "ジグ"
+speaker_original = "ジグ"
+speaker_translation = "지그"
 original = "「私なりに君を信頼して話したのだから、他の人には内緒にしておいてくれるとありがたい」"
 translation = "「나 나름대로 너를 신뢰하고 이야기한 것이니, 다른 사람에게는 비밀로 해준다면 고맙겠다」"
 
 [[dialogue]]
-speaker = "ジグ"
+speaker_original = "ジグ"
+speaker_translation = "지그"
 original = "「とはいえ、私の本性を知ったからには、どう付き合うかは君の自由だ。軽蔑するなり距離を取るなり好きにしてくれ」"
 translation = "「그렇다고는 해도, 나의 본성을 알았으니, 어떻게 사귈지는 너의 자유다. 경멸하든 거리를 두든 마음대로 해」"
 
 [[dialogue]]
-speaker = "ジグ"
+speaker_original = "ジグ"
+speaker_translation = "지그"
 original = "「もちろん、人嫌いだからって戦いで迷惑をかけることはしないよ。手を抜いたりしないし、必要に応じて連携も取るとも」"
 translation = "「물론, 사람을 싫어한다고 해서 싸움에서 폐를 끼치는 일은 하지 않아. 대충 하지 않을 거고, 필요에 따라 연계도 취할 거다」"
 
@@ -184,7 +215,8 @@ original = "今、好きにしてくれって言った？"
 translation = "지금, 마음대로 하라고 했어?"
 
 [[dialogue]]
-speaker = "ジグ"
+speaker_original = "ジグ"
+speaker_translation = "지그"
 original = "「……しまった。失言だった。また可能性が見えてしまったよ」"
 translation = "「……이런. 실언이었다. 또 가능성이 보이고 말았군」"
 
@@ -194,12 +226,14 @@ original = "俺は君に寄り添いたい"
 translation = "나는 너에게 다가가고 싶어"
 
 [[dialogue]]
-speaker = "ジグ"
+speaker_original = "ジグ"
+speaker_translation = "지그"
 original = "「寄り添う……か。余計なお世話だと言いたいところけど、好きにしてくれと言ったし、私には拒む余力もない」"
 translation = "「다가온다……인가. 쓸데없는 참견이라고 말하고 싶지만, 마음대로 하라고 했고, 나에게는 거부할 여력도 없다」"
 
 [[dialogue]]
-speaker = "ジグ"
+speaker_original = "ジグ"
+speaker_translation = "지그"
 original = "「君が私の性根を知った上でそう言うのなら、甘えさせてもらおうかな」"
 translation = "「네가 나의 본성을 알고도 그렇게 말한다면, 응석을 부려볼까」"
 
@@ -209,27 +243,32 @@ original = "あと、レナーテって呼んでいい？"
 translation = "그리고, 레나테라고 불러도 돼?"
 
 [[dialogue]]
-speaker = "ジグ"
+speaker_original = "ジグ"
+speaker_translation = "지그"
 original = "「レナーテと呼ばれていれば、いずれ実感が戻ってくるかもしれない……？」"
 translation = "「레나테라고 불리고 있으면, 언젠가 실감이 되돌아올지도……?」"
 
 [[dialogue]]
-speaker = "ジグ"
+speaker_original = "ジグ"
+speaker_translation = "지그"
 original = "「なるほど。名前で呼ばれても実感がないのではなく、呼ばれないから実感がない、と。それはありうるね」"
 translation = "「과연. 이름으로 불려도 실감이 없는 것이 아니라, 불리지 않아서 실감이 없는 것이라고. 그럴 수도 있겠네」"
 
 [[dialogue]]
-speaker = "ジグ"
+speaker_original = "ジグ"
+speaker_translation = "지그"
 original = "「わかった、いいよ。君が私をどう呼ぶかは、君が決めることだしね」"
 translation = "「알았다, 좋다. 네가 나를 어떻게 부를지는, 네가 정할 일이니까」"
 
 [[dialogue]]
-speaker = "ジグ"
+speaker_original = "ジグ"
+speaker_translation = "지그"
 original = "「だけどレナーテと呼ぶのは、２人きりの時だけにしてくれ。その様子を人に見られると誤解を生んでしまいそうだ」"
 translation = "「하지만 레나테라고 부르는 건, 단둘이 있을 때만 해줘. 그 모습을 남에게 보이면 오해를 낳을 것 같다」"
 
 [[dialogue]]
-speaker = "ジグ"
+speaker_original = "ジグ"
+speaker_translation = "지그"
 original = "「星徒会長同士の秘密──ということにしておこうじゃないか」"
 translation = "「성도 회장끼리의 비밀──이라고 해두자」"
 

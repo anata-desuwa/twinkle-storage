@@ -1,55 +1,66 @@
 [[dialogue]]
-speaker = "レミカ"
+speaker_original = "レミカ"
+speaker_translation = "레미카"
 original = "「みんなー！\u3000今日は突然のゲリラライブにも関わらず、こんなにたくさん集まってくれて、ありがとーー！！」"
 translation = "「여러분! 오늘은 갑작스러운 게릴라 라이브인데도 이렇게 많이 모여줘서 고마워!!」"
 
 [[dialogue]]
-speaker = "レミカ"
+speaker_original = "レミカ"
+speaker_translation = "레미카"
 original = "「うん！\u3000今日は私も、思いっきり歌えて楽しかった！！」"
 translation = "「응! 오늘은 나도 마음껏 노래해서 즐거웠어!!」"
 
 [[dialogue]]
-speaker = "レミカ"
+speaker_original = "レミカ"
+speaker_translation = "레미카"
 original = "「今日のライブはここでお別れだけど、私はまだまだ歌い足りないから……」"
 translation = "「오늘 라이브는 여기서 끝이지만, 나는 아직 노래가 부족하니까……」"
 
 [[dialogue]]
-speaker = "レミカ"
+speaker_original = "レミカ"
+speaker_translation = "레미카"
 original = "「私の歌とパフォーマンスを、これからも楽しみにしてて欲しい……！！」"
 translation = "「나의 노래와 퍼포먼스를 앞으로도 기대해 줬으면 좋겠어……!!」"
 
 [[dialogue]]
-speaker = "メルエル"
+speaker_original = "メルエル"
+speaker_translation = "메르엘"
 original = "「わぁぁぁ～～～！\u3000やっぱりレミカちゃんは、本当に凄いよぉ！」"
 translation = "「와아아아～～～! 역시 레미카 짱은 정말 대단해!」"
 
 [[dialogue]]
-speaker = "メルエル"
+speaker_original = "メルエル"
+speaker_translation = "메르엘"
 original = "「生ライブに参加できたのは初めてだったけど……遠くから見てるだけで、すっごくドキドキしちゃった！」"
 translation = "「라이브 공연에 참가한 건 처음이었지만…… 멀리서 보는 것만으로도 정말 두근거려 버렸어!」"
 
 [[dialogue]]
-speaker = "メルエル"
+speaker_original = "メルエル"
+speaker_translation = "메르엘"
 original = "「歌も踊りもキレキレで、クールでかっこいい姿……アンコールも終わったのに、いつまでも興奮が冷めていかないよぉ」"
 translation = "「노래도 춤도 절도 있고, 쿨하고 멋진 모습…… 앵콜도 끝났는데 언제까지나 흥분이 가라앉지 않아.」"
 
 [[dialogue]]
-speaker = "メルエル"
+speaker_original = "メルエル"
+speaker_translation = "메르엘"
 original = "「前に『ユニットを組もう』なんて誘われちゃったけど、自分があの大舞台に立ってるところは、想像できないなぁ」"
 translation = "「전에 『유닛을 짜자』는 권유를 받았지만, 내가 저 큰 무대에 서 있는 모습은 상상이 안 가네.」"
 
 [[dialogue]]
-speaker = "メルエル"
+speaker_original = "メルエル"
+speaker_translation = "메르엘"
 original = "「……うん。アイドルってすっごく素敵なお仕事だけど、私はやっぱり、<ruby>観客席<rt>こっち</rt></ruby>側かな」"
 translation = "「……응. 아이돌은 정말 멋진 직업이지만, 나는 역시 관객석일까나.」"
 
 [[dialogue]]
-speaker = "メルエル"
+speaker_original = "メルエル"
+speaker_translation = "메르엘"
 original = "「……ふふっ。可愛くてフリフリの衣装を着て、会長くんに私の歌う姿を見てもらえたら、きっと幸せだろうなぁって思えるけど」"
 translation = "「……후훗. 귀엽고 살랑살랑한 의상을 입고, 회장군에게 내가 노래하는 모습을 보여줄 수 있다면 분명 행복하겠지 싶지만.」"
 
 [[dialogue]]
-speaker = "メルエル"
+speaker_original = "メルエル"
+speaker_translation = "메르엘"
 original = "「こういうのは、妄想してるくらいが一番楽しいんだよね♪\u3000……だから私がアイドルなんて、ないない」"
 translation = "「이런 건 망상하고 있을 때가 제일 즐거운 법이지♪ ……그러니까 내가 아이돌이라니, 말도 안 돼.」"
 

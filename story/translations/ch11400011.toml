@@ -24,232 +24,278 @@ original = "そして──"
 translation = "그리고──"
 
 [[dialogue]]
-speaker = "ノルトハウゼン"
+speaker_original = "ノルトハウゼン"
+speaker_translation = "노르트하우젠"
 original = "「少々お話を伺いたいのですが、ここは一体どこなのでしょう？\u3000もしかして、イリスクラウドではないのでしょうか？」"
 translation = "「잠시 말씀을 여쭙고 싶습니다만, 여기는 대체 어디인가요? 혹시, 이리스 클라우드가 아닌가요?」"
 
 [[dialogue]]
-speaker = "アイリーン"
+speaker_original = "アイリーン"
+speaker_translation = "아이린"
 original = "「えっと、ここは流星市国だよ。イリスクラウドっていう場所は知らないかな～」"
 translation = "「엣토, 여기는 유성시국이야. 이리스 클라우드라는 곳은 모르겠는데~」"
 
 [[dialogue]]
-speaker = "ノルトハウゼン"
+speaker_original = "ノルトハウゼン"
+speaker_translation = "노르트하우젠"
 original = "（イリスクラウドの名前も知られていないなんて……ここはよほど遠い異国の地、ということなのでしょうか？）"
 translation = "(이리스 클라우드의 이름도 알려지지 않았다니…… 여기는 상당히 먼 이국의 땅인 걸까요?)"
 
 [[dialogue]]
-speaker = "ノルトハウゼン"
+speaker_original = "ノルトハウゼン"
+speaker_translation = "노르트하우젠"
 original = "「……どうしましょう、困りましたわ」"
 translation = "「……어쩌면 좋죠, 곤란하네요」"
 
 [[dialogue]]
-speaker = "アイリーン"
+speaker_original = "アイリーン"
+speaker_translation = "아이린"
 original = "「どうしたの？\u3000私でよかったらお話聞くけど？」"
 translation = "「왜 그래? 나라도 괜찮다면 이야기 들어줄까?」"
 
 [[dialogue]]
-speaker = "ノルトハウゼン"
+speaker_original = "ノルトハウゼン"
+speaker_translation = "노르트하우젠"
 original = "「ありがとうございます、親切なお方。わたくしはハルツの魔法使い、ノルトハウゼンですわ」"
 translation = "「감사합니다, 친절하신 분. 저는 하르츠의 마법사, 노르트하우젠이에요」"
 
 [[dialogue]]
-speaker = "アイリーン"
+speaker_original = "アイリーン"
+speaker_translation = "아이린"
 original = "「魔法使いっ！？」"
 translation = "「마법사!?」"
 
 [[dialogue]]
-speaker = "アイリーン"
+speaker_original = "アイリーン"
+speaker_translation = "아이린"
 original = "「あ……えーっと、魔法使い？\u3000魔女ではなくて？」"
 translation = "「아…… 그러니까, 마법사? 마녀가 아니고?」"
 
 [[dialogue]]
-speaker = "ノルトハウゼン"
+speaker_original = "ノルトハウゼン"
+speaker_translation = "노르트하우젠"
 original = "「はい、人々に夢と希望を届ける魔法使いですわ♪」"
 translation = "「네, 사람들에게 꿈과 희망을 전하는 마법사랍니다♪」"
 
 [[dialogue]]
-speaker = "アイリーン"
+speaker_original = "アイリーン"
+speaker_translation = "아이린"
 original = "「うーん……」"
 translation = "「으음……」"
 
 [[dialogue]]
-speaker = "ノルトハウゼン"
+speaker_original = "ノルトハウゼン"
+speaker_translation = "노르트하우젠"
 original = "「どうかなさいましたか？」"
 translation = "「무슨 일이신가요?」"
 
 [[dialogue]]
-speaker = "アイリーン"
+speaker_original = "アイリーン"
+speaker_translation = "아이린"
 original = "「あー、いやいや、ちょっとね。とりあえず、おねーさんがどういう人なのか、もっと詳しく知りたいかな～」"
 translation = "「아─, 아니 아니, 아무것도 아냐. 일단, 언니가 어떤 사람인지 좀 더 자세히 알고 싶달까~」"
 
 [[dialogue]]
-speaker = "ノルトハウゼン"
+speaker_original = "ノルトハウゼン"
+speaker_translation = "노르트하우젠"
 original = "「詳しく、ですか？\u3000わかりました、ではお話しいたしますわ」"
 translation = "「자세히, 말인가요? 알겠습니다, 그럼 말씀드릴게요」"
 
 [[dialogue]]
-speaker = "ノルトハウゼン"
+speaker_original = "ノルトハウゼン"
+speaker_translation = "노르트하우젠"
 original = "「わたくしはイリスクラウドにあるアイゼングラート、その山奥にあるハルツという町の出身ですわ」"
 translation = "「저는 이리스 클라우드에 있는 아이젠그라트, 그 산속에 있는 하르츠라는 마을 출신이에요」"
 
 [[dialogue]]
-speaker = "ノルトハウゼン"
+speaker_original = "ノルトハウゼン"
+speaker_translation = "노르트하우젠"
 original = "「その町には『ハルツ魔法アカデミー』という魔法を学ぶ学校がありますの」"
 translation = "「그 마을에는 『하르츠 마법 아카데미』라는 마법을 배우는 학교가 있답니다」"
 
 [[dialogue]]
-speaker = "アイリーン"
+speaker_original = "アイリーン"
+speaker_translation = "아이린"
 original = "「魔法を学ぶ学校！？\u3000聞いたことないよ、そんなところがあるの？」"
 translation = "「마법을 배우는 학교!? 들어본 적 없어, 그런 곳이 있어?」"
 
 [[dialogue]]
-speaker = "ノルトハウゼン"
+speaker_original = "ノルトハウゼン"
+speaker_translation = "노르트하우젠"
 original = "「そうなんです。素敵な魔法使いを目指す女の子たちが集まる場所ですわ」"
 translation = "「그렇답니다. 멋진 마법사를 꿈꾸는 소녀들이 모이는 곳이에요」"
 
 [[dialogue]]
-speaker = "ノルトハウゼン"
+speaker_original = "ノルトハウゼン"
+speaker_translation = "노르트하우젠"
 original = "「ハルツの魔法は『ドリームマジック』と呼ばれ、多くのみなさんから愛されていますのよ」"
 translation = "「하르츠의 마법은 『드림 매직』이라 불리며, 많은 분께 사랑받고 있어요」"
 
 [[dialogue]]
-speaker = "アイリーン"
+speaker_original = "アイリーン"
+speaker_translation = "아이린"
 original = "「じゃ、おねーさんもその学校の卒業生なんだ！」"
 translation = "「그럼 언니도 그 학교 졸업생이구나!」"
 
 [[dialogue]]
-speaker = "ノルトハウゼン"
+speaker_original = "ノルトハウゼン"
+speaker_translation = "노르트하우젠"
 original = "「はい。他の方より時間がかかってしまいましたが、無事卒業して、魔法使いになることができましたわ」"
 translation = "「네. 다른 분들보다 시간은 좀 더 걸렸지만, 무사히 졸업해서 마법사가 될 수 있었어요」"
 
 [[dialogue]]
-speaker = "アイリーン"
+speaker_original = "アイリーン"
+speaker_translation = "아이린"
 original = "「魔法って、どんなものが使えるの？」"
 translation = "「마법은 어떤 걸 쓸 수 있어?」"
 
 [[dialogue]]
-speaker = "ノルトハウゼン"
+speaker_original = "ノルトハウゼン"
+speaker_translation = "노르트하우젠"
 original = "「空に虹をかけたり、星を降らせたり、花火を打ち上げたり、でしょうか。そういった人々を楽しませる魔法ですのよ」"
 translation = "「하늘에 무지개를 띄우거나, 별을 내리게 하거나, 불꽃을 쏘아 올리거나, 일까요. 그런 사람들을 즐겁게 하는 마법이에요」"
 
 [[dialogue]]
-speaker = "アイリーン"
+speaker_original = "アイリーン"
+speaker_translation = "아이린"
 original = "（うーん、想像してた魔法と違うかも……少なくとも私たち『魔女』とは関係ないってことなのかなあ？）"
 translation = "(으음, 상상했던 마법이랑 다를지도…… 적어도 우리 『마녀』랑은 관계없다는 뜻이려나?)"
 
 [[dialogue]]
-speaker = "アイリーン"
+speaker_original = "アイリーン"
+speaker_translation = "아이린"
 original = "（それにしても、この人……）"
 translation = "(그나저나 이 사람……)"
 
 [[dialogue]]
-speaker = "ノルトハウゼン"
+speaker_original = "ノルトハウゼン"
+speaker_translation = "노르트하우젠"
 original = "「──わたくしが１番感動した魔法は、何といってもお姉さまに見せてもらった『星降らし』の魔法です」"
 translation = "「──제가 가장 감동했던 마법은, 뭐니 뭐니 해도 언니가 보여주셨던 『별 내리기』 마법이에요」"
 
 [[dialogue]]
-speaker = "ノルトハウゼン"
+speaker_original = "ノルトハウゼン"
+speaker_translation = "노르트하우젠"
 original = "「ハルツに来ることがありましたら、ぜひ見て行ってください。あなたもきっと感動すると思いますわ」"
 translation = "「하르츠에 오실 일이 있다면 꼭 보고 가세요. 당신도 분명 감동할 거예요」"
 
 [[dialogue]]
-speaker = "ノルトハウゼン"
+speaker_original = "ノルトハウゼン"
+speaker_translation = "노르트하우젠"
 original = "「わたくしがお見せできればよいのですけど、それはとても難しい魔法で……今のわたくしではきっと成功させることはできないでしょう」"
 translation = "「제가 보여드릴 수 있으면 좋겠지만, 그건 매우 어려운 마법이라…… 지금의 저로서는 분명 성공시킬 수 없겠죠」"
 
 [[dialogue]]
-speaker = "ノルトハウゼン"
+speaker_original = "ノルトハウゼン"
+speaker_translation = "노르트하우젠"
 original = "「けれど、何年かかっても成し遂げて見せますわ。わたくしの魔法でみなさんを笑顔にしたいんですの」"
 translation = "「하지만 몇 년이 걸리더라도 해내 보일 거예요. 저의 마법으로 여러분을 미소 짓게 하고 싶거든요」"
 
 [[dialogue]]
-speaker = "アイリーン"
+speaker_original = "アイリーン"
+speaker_translation = "아이린"
 original = "（なんか、いいね！\u3000魔法のこと話してる時のこの人、本当に楽しそう♪）"
 translation = "(왠지 좋네! 마법 이야기할 때 이 사람, 정말 즐거워 보여♪)"
 
 [[dialogue]]
-speaker = "ノルトハウゼン"
+speaker_original = "ノルトハウゼン"
+speaker_translation = "노르트하우젠"
 original = "「あ……つい夢中になって一方的にお話ししてしまいましたわ」"
 translation = "「아…… 그만 몰두해서 일방적으로 이야기해 버렸네요」"
 
 [[dialogue]]
-speaker = "アイリーン"
+speaker_original = "アイリーン"
+speaker_translation = "아이린"
 original = "「ううん。ハルツの魔法っていうのがどれだけ素敵なものなのか、すっごく伝わって来たよ！」"
 translation = "「으응. 하르츠의 마법이라는 게 얼마나 멋진 건지, 엄청나게 잘 전달됐어!」"
 
 [[dialogue]]
-speaker = "ノルトハウゼン"
+speaker_original = "ノルトハウゼン"
+speaker_translation = "노르트하우젠"
 original = "「まぁ、それは何よりも嬉しいお言葉ですわ♪」"
 translation = "「어머, 그건 무엇보다 기쁜 말씀이네요♪」"
 
 [[dialogue]]
-speaker = "ノルトハウゼン"
+speaker_original = "ノルトハウゼン"
+speaker_translation = "노르트하우젠"
 original = "「楽しい時間をありがとうございます。それでは親切なお方、ごきげんよう──」"
 translation = "「즐거운 시간 감사합니다. 그럼 친절하신 분, 안녕히──」"
 
 [[dialogue]]
-speaker = "アイリーン"
+speaker_original = "アイリーン"
+speaker_translation = "아이린"
 original = "「あーっ、ちょっと待った、ちょっと待った！！」"
 translation = "「아─, 잠깐만, 잠깐만!!」"
 
 [[dialogue]]
-speaker = "ノルトハウゼン"
+speaker_original = "ノルトハウゼン"
+speaker_translation = "노르트하우젠"
 original = "「はい？」"
 translation = "「네?」"
 
 [[dialogue]]
-speaker = "アイリーン"
+speaker_original = "アイリーン"
+speaker_translation = "아이린"
 original = "「何か困ってて私に声をかけたんだよね？」"
 translation = "「뭔가 곤란해서 나한테 말을 건 거지?」"
 
 [[dialogue]]
-speaker = "ノルトハウゼン"
+speaker_original = "ノルトハウゼン"
+speaker_translation = "노르트하우젠"
 original = "「そうでしたわ。わたくし、なぜ自分がこのような場所にいるのか、分からないのです」"
 translation = "「그랬었죠. 저, 왜 제가 이런 곳에 있는지 모르겠어요」"
 
 [[dialogue]]
-speaker = "ノルトハウゼン"
+speaker_original = "ノルトハウゼン"
+speaker_translation = "노르트하우젠"
 original = "「いつものように魔法の練習をしていると黒い穴のようなものが現れ、それから目の前が真っ暗になって、気が付いたらこの街へ来ていました」"
 translation = "「평소처럼 마법 연습을 하고 있으니 검은 구멍 같은 것이 나타났고, 그다음 눈앞이 캄캄해지더니 정신을 차려보니 이 거리로 와 있었어요」"
 
 [[dialogue]]
-speaker = "ノルトハウゼン"
+speaker_original = "ノルトハウゼン"
+speaker_translation = "노르트하우젠"
 original = "「なんとかイリスクラウドに戻る事は出来ないのでしょうか？」"
 translation = "「어떻게든 이리스 클라우드로 돌아갈 수는 없을까요?」"
 
 [[dialogue]]
-speaker = "アイリーン"
+speaker_original = "アイリーン"
+speaker_translation = "아이린"
 original = "「戻るもなにも、そこがどこだか分からないからな～……」"
 translation = "「돌아가는 것도 그렇지만, 거기가 어딘지 모르니까 말이야~……」"
 
 [[dialogue]]
-speaker = "アイリーン"
+speaker_original = "アイリーン"
+speaker_translation = "아이린"
 original = "（黒い穴っていうのもよく分かんないし、なんか普通じゃないことに巻き込まれてるっぽい）"
 translation = "(검은 구멍이라는 것도 잘 모르겠고, 왠지 평범하지 않은 일에 휘말린 것 같아)"
 
 [[dialogue]]
-speaker = "アイリーン"
+speaker_original = "アイリーン"
+speaker_translation = "아이린"
 original = "（魔法の話を外でベラベラ話されても困るし、とりあえずネビュラで保護しといた方が良さそう）"
 translation = "(마법 이야기를 밖에서 나불나불하는 것도 곤란하고, 일단 네뷸라에서 보호하는 게 좋겠어)"
 
 [[dialogue]]
-speaker = "アイリーン"
+speaker_original = "アイリーン"
+speaker_translation = "아이린"
 original = "（長官に報告したら、どうしたらいいか指示ももらえるだろうし）"
 translation = "(장관님께 보고하면 어떻게 해야 할지 지시도 받을 수 있을 테고)"
 
 [[dialogue]]
-speaker = "アイリーン"
+speaker_original = "アイリーン"
+speaker_translation = "아이린"
 original = "「そうしたら、私と一緒に来てくれないかな？\u3000もしかしたらそのイリスクラウドって場所のこと、知ってる人がいるかもだから」"
 translation = "「그러면 나랑 같이 가볼래? 어쩌면 그 이리스 클라우드라는 곳에 대해 아는 사람이 있을지도 모르니까」"
 
 [[dialogue]]
-speaker = "ノルトハウゼン"
+speaker_original = "ノルトハウゼン"
+speaker_translation = "노르트하우젠"
 original = "「ありがとうございます、助かりますわ」"
 translation = "「감사합니다, 도움이 되겠어요」"
 
 [[dialogue]]
-speaker = "アイリーン"
+speaker_original = "アイリーン"
+speaker_translation = "아이린"
 original = "「よーし、それじゃあしゅっぱ～つ♪」"
 translation = "「조아─, 그럼 출바~알♪」"
 

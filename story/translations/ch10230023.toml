@@ -4,22 +4,26 @@ original = "第３話,聖歌は１人にして成らず,P"
 translation = "제3화, 성가는 혼자서 이루어지지 않는다, P"
 
 [[dialogue]]
-speaker = "シャロン"
+speaker_original = "シャロン"
+speaker_translation = "샤론"
 original = "「ら～ら～ら～ら～ら～……♪」"
 translation = "「라~라~라~라~라~……♪」"
 
 [[dialogue]]
-speaker = "シャロン"
+speaker_original = "シャロン"
+speaker_translation = "샤론"
 original = "「ら～ら～ら～ら～ら～……♪」"
 translation = "「라~라~라~라~라~……♪」"
 
 [[dialogue]]
-speaker = "シャロン"
+speaker_original = "シャロン"
+speaker_translation = "샤론"
 original = "「ら～ら～ら～──ゴホっ、ゴホっ！」"
 translation = "「라~라~라~── 컥, 컥!」"
 
 [[dialogue]]
-speaker = "シャロン"
+speaker_original = "シャロン"
+speaker_translation = "샤론"
 original = "「はぁはぁ……んきゅぅぅぅ～……」"
 translation = "「하아 하아…… 으으으으~……」"
 
@@ -29,42 +33,50 @@ original = "ちょっ、大丈夫！？"
 translation = "잠깐, 괜찮아!?"
 
 [[dialogue]]
-speaker = "シャロン"
+speaker_original = "シャロン"
+speaker_translation = "샤론"
 original = "「か、会長さま……。ご心配なく、昔からこうなんです……。私、歌を歌おうとするとすぐに貧血を起こしてしまう体質で……」"
 translation = "「회, 회장님……. 걱정 마세요, 예전부터 이랬어요……. 저, 노래를 부르려고 하면 금방 빈혈을 일으키는 체질이라……」"
 
 [[dialogue]]
-speaker = "シャロン"
+speaker_original = "シャロン"
+speaker_translation = "샤론"
 original = "「うぅ、無念です。今年こそは聖歌隊の末席に加えていただこうと思っておりましたのに。これでは難しそうですね……」"
 translation = "「으으, 분해요. 올해야말로 성가대 끝자리에라도 끼워달라고 하려 했는데. 이래서는 어려울 것 같네요……」"
 
 [[dialogue]]
-speaker = "シャロン"
+speaker_original = "シャロン"
+speaker_translation = "샤론"
 original = "「実は私、ずっと聖歌隊に憧れがありまして。一度でいいからクリスマスミサのコーラスに参加したいと思っていたんです」"
 translation = "「사실 저, 계속 성가대에 대한 동경이 있었거든요. 한 번이라도 좋으니 크리스마스 미사의 코러스에 참가하고 싶다고 생각했어요」"
 
 [[dialogue]]
-speaker = "シャロン"
+speaker_original = "シャロン"
+speaker_translation = "샤론"
 original = "「女神様の生誕の日に、女神様への日々の感謝と愛を歌に乗せて捧げることができるなんて、とても素敵なことですから」"
 translation = "「여신님의 탄생일에 여신님을 향한 매일의 감사와 사랑을 노래에 담아 바칠 수 있다니, 정말 멋진 일이니까요」"
 
 [[dialogue]]
-speaker = "シャロン"
+speaker_original = "シャロン"
+speaker_translation = "샤론"
 original = "「しかし、うぅ、だからこそ無念です。星騎士として戦うようにもなって、少しは体力も向上したと思っていたのですが……」"
 translation = "「하지만, 으으, 그렇기에 분해요. 성기사로서 싸우게 되면서 체력도 조금은 향상되었다고 생각했는데……」"
 
 [[dialogue]]
-speaker = "シャロン"
+speaker_original = "シャロン"
+speaker_translation = "샤론"
 original = "「い、いえっ、ここで諦めてはシスターの名折れですね！\u3000きっと私の愛が足りないのです！\u3000より愛を込めて歌えば貧血なんて起こしません！」"
 translation = "「아, 아니요앗, 여기서 포기하면 시스터의 이름이 울겠네요! 분명 제 사랑이 부족한 거예요! 더욱 사랑을 담아 노래하면 빈혈 따위 일어나지 않아요!」"
 
 [[dialogue]]
-speaker = "シャロン"
+speaker_original = "シャロン"
+speaker_translation = "샤론"
 original = "「見ていてください、会長さま！\u3000女神様への愛を以て、私が己の殻を破る瞬間を！」"
 translation = "「지켜봐 주세요, 회장님! 여신님을 향한 사랑으로 제가 자신의 껍질을 깨는 순간을!」"
 
 [[dialogue]]
-speaker = "シャロン"
+speaker_original = "シャロン"
+speaker_translation = "샤론"
 original = "「ら～ら～ら～ら～──ゴホゴホっ！？」"
 translation = "「라~라~라~라~── 컥컥!?」"
 
@@ -74,22 +86,26 @@ original = "大丈夫！？"
 translation = "괜찮아!?"
 
 [[dialogue]]
-speaker = "シャロン"
+speaker_original = "シャロン"
+speaker_translation = "샤론"
 original = "「はうう……。頭がクラクラいたしますぅ……」"
 translation = "「하우우…… 머리가 어질어질해요……」"
 
 [[dialogue]]
-speaker = "シャロン"
+speaker_original = "シャロン"
+speaker_translation = "샤론"
 original = "「なんと無様な……。なんと不出来な……。女神様に愛のひとつも捧げることができないなんて……」"
 translation = "「이 얼마나 한심한지……. 이 얼마나 부족한지……. 여신님께 사랑 하나 바치지 못하다니……」"
 
 [[dialogue]]
-speaker = "シャロン"
+speaker_original = "シャロン"
+speaker_translation = "샤론"
 original = "「い、いえっ。これしきのことで諦めるわけにはいきません……！\u3000きっとこれは女神様の課された試練なのです……！」"
 translation = "「아, 아니요앗. 이 정도로 포기할 수는 없어요……! 분명 이건 여신님이 내리신 시련인 거예요……!」"
 
 [[dialogue]]
-speaker = "シャロン"
+speaker_original = "シャロン"
+speaker_translation = "샤론"
 original = "「そうと決まればもう一度──」"
 translation = "「그렇게 정했으면 다시 한번──」"
 
@@ -99,7 +115,8 @@ original = "ちょっと力みすぎだよ"
 translation = "조금 너무 힘이 들어갔어"
 
 [[dialogue]]
-speaker = "シャロン"
+speaker_original = "シャロン"
+speaker_translation = "샤론"
 original = "「しかし、全力で歌ってこそ祈りも伝わるものだと思いますし……それこそ喉が潰れてしまうくらいめいっぱい張り上げませんと……」"
 translation = "「하지만 전력으로 노래해야 기도가 전해지는 법이라 생각하고…… 그야말로 목이 터져버릴 정도로 힘껏 내질러야……」"
 
@@ -109,72 +126,86 @@ original = "聖歌はみんなで作り上げるものだから"
 translation = "성가는 다 함께 만들어가는 거니까"
 
 [[dialogue]]
-speaker = "シャロン"
+speaker_original = "シャロン"
+speaker_translation = "샤론"
 original = "「はぁ……。それは承知しておりますが……」"
 translation = "「하아…… 그건 알고 있습니다만……」"
 
 [[dialogue]]
-speaker = "シャロン"
+speaker_original = "シャロン"
+speaker_translation = "샤론"
 original = "「いえ、私は真の意味で会長さまの言葉を理解できていないのかもしれません」"
 translation = "「아니요, 저는 진정한 의미로 회장님의 말씀을 이해하지 못하고 있는 걸지도 몰라요」"
 
 [[dialogue]]
-speaker = "シャロン"
+speaker_original = "シャロン"
+speaker_translation = "샤론"
 original = "「どうかご教授いただけますか？\u3000会長さまが私に一体何をお伝えしたいのかを」"
 translation = "「부디 가르침을 주시겠어요? 회장님이 저에게 도대체 무엇을 전하고 싶으신 건지를」"
 
 [[dialogue]]
-speaker = "シャロン・クロト"
+speaker_original = "シャロン・クロト"
+speaker_translation = "샤론 쿠로토"
 original = "「ら～ら～ら～ら～ら～……♪」"
 translation = "「라~라~라~라~라~……♪」"
 
 [[dialogue]]
-speaker = "シャロン"
+speaker_original = "シャロン"
+speaker_translation = "샤론"
 original = "「こ、これは……！\u3000会長さまが仰っていたのは、このことだったのですね……！」"
 translation = "「이, 이것은……! 회장님이 말씀하신 건 바로 이런 거였군요……!」"
 
 [[dialogue]]
-speaker = "シャロン"
+speaker_original = "シャロン"
+speaker_translation = "샤론"
 original = "「１人で歌っていた時より、会長さまと一緒に歌っている時の方が何倍も大きな声となって響いています……！\u3000先程より声を張り上げておりませんのに……！」"
 translation = "「혼자서 노래할 때보다 회장님과 함께 노래할 때가 몇 배나 더 큰 소리가 되어 울리고 있어요……! 아까보다 목소리를 높이지 않았는데도……!」"
 
 [[dialogue]]
-speaker = "シャロン"
+speaker_original = "シャロン"
+speaker_translation = "샤론"
 original = "「聖歌はみんなで作り上げるもの──まさに、まさにでございます！」"
 translation = "「성가는 다 함께 만들어가는 것── 정말로, 정말로 그렇습니다!」"
 
 [[dialogue]]
-speaker = "シャロン"
+speaker_original = "シャロン"
+speaker_translation = "샤론"
 original = "「どうやら私は聖歌隊に憧れるばかり大切なことを見失っていたようですね……！」"
 translation = "「아무래도 저는 성가대를 동경하기만 하느라 소중한 것을 놓치고 있었던 모양이네요……!」"
 
 [[dialogue]]
-speaker = "シャロン"
+speaker_original = "シャロン"
+speaker_translation = "샤론"
 original = "「たとえ１つ１つは小さな歌声でも、<ruby>幾人<rt>いくたり</rt></ruby>もの歌声が集まれば、それはとても大きな歌となって天へと響く──」"
 translation = "「비록 하나하나의 노랫소리는 작더라도, 여러 사람의 노랫소리가 모이면 그것은 아주 큰 노래가 되어 하늘로 울려 퍼진다──」"
 
 [[dialogue]]
-speaker = "シャロン"
+speaker_original = "シャロン"
+speaker_translation = "샤론"
 original = "「まさしく愛……！\u3000愛ではありませんか！\u3000ああ、どうして私はこんな当たり前のことに気づけなかったのでしょう……！」"
 translation = "「그야말로 사랑……! 사랑이 아니겠습니까! 아아, 어째서 저는 이런 당연한 사실을 깨닫지 못했을까요……!」"
 
 [[dialogue]]
-speaker = "シャロン"
+speaker_original = "シャロン"
+speaker_translation = "샤론"
 original = "「ありがとうございます、会長さま！\u3000おかげで目が覚めました！」"
 translation = "「감사합니다, 회장님! 덕분에 정신이 번쩍 들었어요!」"
 
 [[dialogue]]
-speaker = "シャロン"
+speaker_original = "シャロン"
+speaker_translation = "샤론"
 original = "「貧血を起こすほど１人で頑張る必要はなかったのですね……！\u3000むしろ女神様と会長さまは私に個人の力の小ささをお教えくださって……！」"
 translation = "「빈혈을 일으킬 정도로 혼자서 애쓸 필요는 없었던 거군요……! 오히려 여신님과 회장님은 저에게 개인의 힘이 얼마나 작은지를 가르쳐 주시고……!」"
 
 [[dialogue]]
-speaker = "シャロン"
+speaker_original = "シャロン"
+speaker_translation = "샤론"
 original = "「この啓示を人々に伝えなくてはなりません……！\u3000ああ、燃えてきました……！」"
 translation = "「이 계시를 사람들에게 전해야 해요……! 아아, 불타오르네요……!」"
 
 [[dialogue]]
-speaker = "シャロン"
+speaker_original = "シャロン"
+speaker_translation = "샤론"
 original = "「そうと決まれば、皆に声をかけて回りましょう！\u3000今年のクリスマスミサは聖歌隊の方々だけではなく流星市国の民全員で合唱するべきです！」"
 translation = "「그렇게 정했으면 모두에게 말을 걸고 다녀야겠어요! 올해 크리스마스 미사는 성가대 분들뿐만 아니라 유성 시국의 백성 전원이 합창해야 합니다!」"
 
@@ -184,62 +215,74 @@ original = "それはやり過ぎかもだけど……"
 translation = "그건 좀 과할지도 모르지만……"
 
 [[dialogue]]
-speaker = "シャロン"
+speaker_original = "シャロン"
+speaker_translation = "샤론"
 original = "「そんなことはありません！\u3000皆で女神様へ愛を捧げてこそ、女神様も私たちに愛を返してくださるというものです！」"
 translation = "「그렇지 않아요! 다 함께 여신님께 사랑을 바쳐야 여신님도 저희에게 사랑을 돌려주시는 법이에요!」"
 
 [[dialogue]]
-speaker = "イレーナ"
+speaker_original = "イレーナ"
+speaker_translation = "이레이나"
 original = "「はぁー……。つっかれたぁ……。だーからクリスマスは嫌いなのよ……。祈りを捧げに来るやつが多いったらありゃしないわ……」"
 translation = "「하아~…… 지친다아……. 이래서 크리스마스는 싫다니까……. 기도를 드리러 오는 녀석들이 어찌나 많은지……」"
 
 [[dialogue]]
-speaker = "イレーナ"
+speaker_original = "イレーナ"
+speaker_translation = "이레이나"
 original = "「ま、今日の仕事はこれで終わりだし♪\u3000あとは部屋でダラダラしながら秘蔵のティラミスでもたーべよっと♪」"
 translation = "「뭐, 오늘 일은 이걸로 끝이고♪ 나머지는 방에서 뒹굴거리면서 비장의 티라미수나 먹어야지~♪」"
 
 [[dialogue]]
-speaker = "シャロン"
+speaker_original = "シャロン"
+speaker_translation = "샤론"
 original = "「イレーナさま！\u3000丁度いいところに！」"
 translation = "「이레나 님! 마침 잘 오셨어요!」"
 
 [[dialogue]]
-speaker = "イレーナ"
+speaker_original = "イレーナ"
+speaker_translation = "이레이나"
 original = "「ぐべっ！？」"
 translation = "「구벡!?」"
 
 [[dialogue]]
-speaker = "シャロン"
+speaker_original = "シャロン"
+speaker_translation = "샤론"
 original = "「共に参りましょう！\u3000女神様に仕える聖職者として、愛の伝道師として！\u3000流星市国を震わせるほどの聖歌を女神様に披露するために！」"
 translation = "「함께 가요! 여신님을 섬기는 성직자로서, 사랑의 전도사로서! 유성 시국을 뒤흔들 정도의 성가를 여신님께 선보이기 위해!」"
 
 [[dialogue]]
-speaker = "イレーナ"
+speaker_original = "イレーナ"
+speaker_translation = "이레이나"
 original = "「はぁ！？\u3000急に何言って──あっ、ちょっと、だから引っ張るなってのっ、あたし、一仕事終えてクタクタで──」"
 translation = "「하아!? 갑자기 무슨 소릴── 앗, 잠깐, 그러니까 잡아당기지 말라니까앗, 나 일 마치고 녹초가 돼서──」"
 
 [[dialogue]]
-speaker = "イレーナ"
+speaker_original = "イレーナ"
+speaker_translation = "이레이나"
 original = "「こらバカ会長っ！\u3000あんたまたコイツになんか吹き込んだわねっ！？\u3000厄介なパターンに入ってるじゃない！」"
 translation = "「이봐 바보 회장! 너 또 얘한테 이상한 거 불어넣었지!? 성가신 패턴에 들어갔잖아!」"
 
 [[dialogue]]
-speaker = "シャロン"
+speaker_original = "シャロン"
+speaker_translation = "샤론"
 original = "「急ぎ街中の人に声をかけねば！\u3000ああ、その前に聖歌隊の方々にもご了承を……！\u3000忙しくなりますよ、イレーナさま！」"
 translation = "「서둘러 거리의 사람들에게 말을 걸어야 해요! 아아, 그전에 성가대 분들께도 양해를……! 바빠지겠네요, 이레나 님!」"
 
 [[dialogue]]
-speaker = "イレーナ"
+speaker_original = "イレーナ"
+speaker_translation = "이레이나"
 original = "「離せっ、離しなさいっ！\u3000あたしはこれから部屋でダラダラしながらティラミスを──」"
 translation = "「놔, 놓으라고! 난 이제부터 방에서 뒹굴거리면서 티라미수를──」"
 
 [[dialogue]]
-speaker = "シャロン"
+speaker_original = "シャロン"
+speaker_translation = "샤론"
 original = "「ら～ら～ら～ら～ら～……♪\u3000ら～ら～ら～ら～ら～……♪\u3000さぁイレーナさまもご一緒に！」"
 translation = "「라~라~라~라~라~……♪ 라~라~라~라~라~……♪ 자, 이레나 님도 함께!」"
 
 [[dialogue]]
-speaker = "イレーナ"
+speaker_original = "イレーナ"
+speaker_translation = "이레이나"
 original = "「あーもうっ、なんであたしが巻き込まれなきゃなんないのよぉ～！！」"
 translation = "「아 정말, 왜 내가 휘말려야 하는 거냐고오~!!」"
 

@@ -4,7 +4,8 @@ original = "第２話,世界征服プランニング,P"
 translation = "제2화,세계 정복 플래닝,P"
 
 [[dialogue]]
-speaker = "カティア"
+speaker_original = "カティア"
+speaker_translation = "카티아"
 original = "「魔王様、こっちですガオ！」"
 translation = "「마왕님, 이쪽입니다갸오!」"
 
@@ -14,7 +15,8 @@ original = "俺に合わせたい人って誰？"
 translation = "나에게 만나게 하고 싶은 사람이 누구지?"
 
 [[dialogue]]
-speaker = "カティア"
+speaker_original = "カティア"
+speaker_translation = "카티아"
 original = "「ふっふっふー、魔王様、最近、ちっとも世界征服が進んでないとは思いませんか？」"
 translation = "「훗훗후ー, 마왕님, 최근, 세계 정복이 전혀 진전되지 않고 있다고 생각하지 않으십니까?」"
 
@@ -29,17 +31,20 @@ original = "ちっとも進んでないね"
 translation = "전혀 진전되지 않고 있네"
 
 [[dialogue]]
-speaker = "カティア"
+speaker_original = "カティア"
+speaker_translation = "카티아"
 original = "「それではいけないと思った私は、悪事のスペシャリストの噂を耳にし、その人たちに話を聞くチャンスをゲットしたワン！」"
 translation = "「그러면 안 된다고 생각한 저는, 악행의 전문가들의 소문을 듣고, 그들에게 이야기를 들을 기회를 얻었습니다멍!」"
 
 [[dialogue]]
-speaker = "カティア"
+speaker_original = "カティア"
+speaker_translation = "카티아"
 original = "「その悪い人たちがいるのが……」"
 translation = "「그 나쁜 사람들이 있는 곳이……」"
 
 [[dialogue]]
-speaker = "カティア"
+speaker_original = "カティア"
+speaker_translation = "카티아"
 original = "「ここですガオ！」"
 translation = "「여기입니다갸오!」"
 
@@ -54,117 +59,140 @@ original = "ここって！"
 translation = "여기가!"
 
 [[dialogue]]
-speaker = "ヒマワリ"
+speaker_original = "ヒマワリ"
+speaker_translation = "히마와리"
 original = "「会長さん、カティア先輩、こんにちはー！\u3000附属校２年にしてゴールデングース社員、鈴野ヒマワリです！」"
 translation = "「회장군, 카티아 선배, 안녕하세요ー! 부속고 2학년이자 골든 구스 사원, 스즈노 히마와리입니다!」"
 
 [[dialogue]]
-speaker = "ミウ"
+speaker_original = "ミウ"
+speaker_translation = "미우"
 original = "「ようこそ、ゴールデングースへ。同じく附属校２年にしてゴールデングース社員、深沢ミウです」"
 translation = "「어서 오세요, 골든 구스에. 마찬가지로 부속고 2학년이자 골든 구스 사원, 후카사와 미우입니다」"
 
 [[dialogue]]
-speaker = "ヒマワリ"
+speaker_original = "ヒマワリ"
+speaker_translation = "히마와리"
 original = "「ごめんね、セナリィ社長はどうしても外せない仕事があるから、私たちで対応してってさ」"
 translation = "「미안해요, 세나리 사장님은 도저히 빠질 수 없는 일이 있어서, 저희가 대응해 드리라고 하셨어요」"
 
 [[dialogue]]
-speaker = "ミウ"
+speaker_original = "ミウ"
+speaker_translation = "미우"
 original = "「なんでもカティア先輩は私たちに伺いたいことがあると」"
 translation = "「뭐든지 카티아 선배는 저희에게 여쭤보고 싶은 것이 있다고」"
 
 [[dialogue]]
-speaker = "カティア"
+speaker_original = "カティア"
+speaker_translation = "카티아"
 original = "「はい！\u3000悪の秘密結社のゴールデングースの皆さんに聞きたいことがありますガオ！」"
 translation = "「네! 악의 비밀결사 골든 구스 여러분께 듣고 싶은 것이 있습니다갸오!」"
 
 [[dialogue]]
-speaker = "ミウ"
+speaker_original = "ミウ"
+speaker_translation = "미우"
 original = "「はい、私たちに答えられることでしたら、なんなりと。そのために時間も取っていますし」"
 translation = "「네, 저희가 대답할 수 있는 것이라면, 무엇이든 말씀하세요. 그러기 위해 시간도 내고 있고요」"
 
 [[dialogue]]
-speaker = "ヒマワリ"
+speaker_original = "ヒマワリ"
+speaker_translation = "히마와리"
 original = "「法に触れるようなことは黙秘するけどねー。お互いの利益になるお話ができるといいよね！」"
 translation = "「법에 저촉되는 일은 묵비권을 행사하겠지만요ー. 서로의 이익이 되는 이야기를 할 수 있으면 좋겠네요!」"
 
 [[dialogue]]
-speaker = "カティア"
+speaker_original = "カティア"
+speaker_translation = "카티아"
 original = "「相談なんですけど……魔王様の世界征服がなかなか進んでませんガオ……」"
 translation = "「상담인데요…… 마왕님의 세계 정복이 좀처럼 진전되지 않고 있습니다갸오……」"
 
 [[dialogue]]
-speaker = "カティア"
+speaker_original = "カティア"
+speaker_translation = "카티아"
 original = "「どうすれば、もっとみんなが魔王様の偉大さに気づいて、ひれ伏すようになるでしょう……？」"
 translation = "「어떻게 하면, 모두가 마왕님의 위대함을 깨닫고, 엎드리게 될까요……?」"
 
 [[dialogue]]
-speaker = "ミウ"
+speaker_original = "ミウ"
+speaker_translation = "미우"
 original = "「なるほど……世界征服ですか。素敵な野望ですね」"
 translation = "「과연…… 세계 정복이군요. 멋진 야망입니다」"
 
 [[dialogue]]
-speaker = "カティア"
+speaker_original = "カティア"
+speaker_translation = "카티아"
 original = "「笑わずに聞いてくれるんですガオ？」"
 translation = "「웃지 않고 들어주시는 건가요갸오?」"
 
 [[dialogue]]
-speaker = "ヒマワリ"
+speaker_original = "ヒマワリ"
+speaker_translation = "히마와리"
 original = "「なんで笑うの？\u3000私たちゴールデングースも目指すところは、世界中の裏社会を陰から牛耳ることだもんね！」"
 translation = "「왜 웃어요? 저희 골든 구스도 목표로 하는 것은, 전 세계 뒷사회를 뒤에서 주무르는 것이니까요!」"
 
 [[dialogue]]
-speaker = "カティア"
+speaker_original = "カティア"
+speaker_translation = "카티아"
 original = "「お、おお～……すごいです……？」"
 translation = "「오, 오오～…… 대단합니다……?」"
 
 [[dialogue]]
-speaker = "ミウ"
+speaker_original = "ミウ"
+speaker_translation = "미우"
 original = "「具体的にはどういったプランで世界征服を目論んでいるんですか？」"
 translation = "「구체적으로는 어떤 플랜으로 세계 정복을 꾀하고 계신가요?」"
 
 [[dialogue]]
-speaker = "カティア"
+speaker_original = "カティア"
+speaker_translation = "카티아"
 original = "「魔王様の強さと偉大さと素晴らしさを世界に広めるんだワン！」"
 translation = "「마왕님의 강함과 위대함과 훌륭함을 세계에 퍼뜨리는 겁니다멍!」"
 
 [[dialogue]]
-speaker = "ヒマワリ"
+speaker_original = "ヒマワリ"
+speaker_translation = "히마와리"
 original = "「ほうほう、それで？」"
 translation = "「호오호오, 그래서요?」"
 
 [[dialogue]]
-speaker = "カティア"
+speaker_original = "カティア"
+speaker_translation = "카티아"
 original = "「それだけですよ？\u3000そうすれば自然と世界は魔王様に平伏するワン！」"
 translation = "「그것뿐이에요? 그렇게 하면 자연스레 세계는 마왕님께 굴복할 겁니다멍!」"
 
 [[dialogue]]
-speaker = "ヒマワリ"
+speaker_original = "ヒマワリ"
+speaker_translation = "히마와리"
 original = "「うーん、会長さんが強くて凄くて格好いい～！\u3000っていうのはわかるけど……どう思う、ミウ？」"
 translation = "「음ー, 회장군이 강하고 대단하고 멋지다ー! 라는 건 알겠지만…… 어떻게 생각해, 미우?」"
 
 [[dialogue]]
-speaker = "ミウ"
+speaker_original = "ミウ"
+speaker_translation = "미우"
 original = "「そうですね……会長さんの力を誇示するだけで世界を取ろうというのは無謀すぎるかと。まずは小さなところからコツコツとですよ」"
 translation = "「그렇네요…… 회장군의 힘을 과시하는 것만으로 세계를 차지하려는 것은 너무 무모하다고 생각합니다. 우선은 작은 곳부터 꾸준히 해야죠」"
 
 [[dialogue]]
-speaker = "ヒマワリ"
+speaker_original = "ヒマワリ"
+speaker_translation = "히마와리"
 original = "「あたしたちゴールデングースもちょっとずつ知名度を上げてきたからね！」"
 translation = "「저희 골든 구스도 조금씩 지명도를 높여왔으니까요!」"
 
 [[dialogue]]
-speaker = "カティア"
+speaker_original = "カティア"
+speaker_translation = "카티아"
 original = "「でもあんまりゆっくりしてたら、魔王様の卒業までに間に合わなくないですか？」"
 translation = "「하지만 너무 느긋하게 하다가는, 마왕님의 졸업까지 맞추지 못하지 않습니까?」"
 
 [[dialogue]]
-speaker = "ミウ"
+speaker_original = "ミウ"
+speaker_translation = "미우"
 original = "「だからこそ一歩ずつ着実に、です。急がば回れと言いますからね」"
 translation = "「그러니까 한 걸음씩 착실하게, 입니다. 급할수록 돌아가라고 하지 않습니까」"
 
 [[dialogue]]
-speaker = "ミウ"
+speaker_original = "ミウ"
+speaker_translation = "미우"
 original = "「最高権力者である会長さんは、既に新星学園を支配下に置いていると言っても過言ではありません」"
 translation = "「최고 권력자인 회장군은, 이미 신성 학원을 지배하에 두고 있다고 해도 과언이 아닙니다」"
 
@@ -174,132 +202,158 @@ original = "過言じゃないかな……"
 translation = "과언이 아닐까……"
 
 [[dialogue]]
-speaker = "ミウ"
+speaker_original = "ミウ"
+speaker_translation = "미우"
 original = "「となると次は流星学園……流星市国全域といったところでしょうか」"
 translation = "「그렇다면 다음은 유성 학원…… 유성시국 전역 정도일까요」"
 
 [[dialogue]]
-speaker = "ヒマワリ"
+speaker_original = "ヒマワリ"
+speaker_translation = "히마와리"
 original = "「そういえば、この前の星霊祭、カティア先輩は大活躍だったよね！」"
 translation = "「그러고 보니, 지난번 성령제, 카티아 선배는 대활약이었죠!」"
 
 [[dialogue]]
-speaker = "カティア"
+speaker_original = "カティア"
+speaker_translation = "카티아"
 original = "「見ててくれてたガオ？\u3000えへへ、お恥ずかしいです……」"
 translation = "「보고 계셨던 건가요갸오? 에헤헤, 부끄럽습니다……」"
 
 [[dialogue]]
-speaker = "ミウ"
+speaker_original = "ミウ"
+speaker_translation = "미우"
 original = "「星霊祭の勝利により、新星は流星よりも少し優位に立てたわけですよね。勝利へと導いた会長さんの凄さも流星に広まったでしょうし」"
 translation = "「성령제의 승리로 인해, 신성은 유성보다 조금 우위에 설 수 있게 되었죠. 승리로 이끈 회장군의 대단함도 유성에 퍼졌을 것이고요」"
 
 [[dialogue]]
-speaker = "ミウ"
+speaker_original = "ミウ"
+speaker_translation = "미우"
 original = "「流星市国を手中に収めるのは時間の問題でしょう。でも世界全土となると、まだまだ時間はかかりそうです」"
 translation = "「유성시국을 손에 넣는 것은 시간문제일 것입니다. 하지만 세계 전토가 된다면, 아직 시간이 걸릴 것 같습니다」"
 
 [[dialogue]]
-speaker = "ミウ"
+speaker_original = "ミウ"
+speaker_translation = "미우"
 original = "「そもそも、何をもって世界を征服したとするのか、漠然としすぎなんですよね」"
 translation = "「애초에, 무엇을 가지고 세계를 정복했다고 할 것인지, 너무 막연합니다」"
 
 [[dialogue]]
-speaker = "ミウ"
+speaker_original = "ミウ"
+speaker_translation = "미우"
 original = "「『世界』と一言にいっても、世の中には様々な『世界』があるじゃないですか」"
 translation = "「『세계』라고 한마디로 말해도, 세상에는 다양한 『세계』가 있지 않습니까」"
 
 [[dialogue]]
-speaker = "カティア"
+speaker_original = "カティア"
+speaker_translation = "카티아"
 original = "「……？\u3000世界はひとつじゃないガオ……？」"
 translation = "「……? 세계는 하나가 아닌 건가요갸오……?」"
 
 [[dialogue]]
-speaker = "ミウ"
+speaker_original = "ミウ"
+speaker_translation = "미우"
 original = "「私たちの人間界だけでなく、魔界、天界もありますけど『世界』によって征服の形は異なります」"
 translation = "「저희 인간계뿐만 아니라, 마계, 천계도 있습니다만 『세계』에 따라 정복의 형태는 다릅니다」"
 
 [[dialogue]]
-speaker = "カティア"
+speaker_original = "カティア"
+speaker_translation = "카티아"
 original = "「……わふ？」"
 translation = "「……와프?」"
 
 [[dialogue]]
-speaker = "ヒマワリ"
+speaker_original = "ヒマワリ"
+speaker_translation = "히마와리"
 original = "「例えばさ、世界経済を牛耳る征服！\u3000なんてのもあるよね。何気ない一言で世界中の株価がドーンと上がっちゃったり下がっちゃったり」"
 translation = "「예를 들어, 세계 경제를 주무르는 정복! 같은 것도 있죠. 아무렇지도 않은 한마디로 전 세계 주가가 쾅하고 오르거나 내려가거나」"
 
 [[dialogue]]
-speaker = "ヒマワリ"
+speaker_original = "ヒマワリ"
+speaker_translation = "히마와리"
 original = "「ネット界でトップ・オブ・トップの動画配信者やインフルエンサーになるのも、ある意味征服じゃないかなー」"
 translation = "「인터넷계에서 탑 오브 탑의 동영상 스트리머나 인플루언서가 되는 것도, 어떤 의미로는 정복이 아닐까요ー」"
 
 [[dialogue]]
-speaker = "カティア"
+speaker_original = "カティア"
+speaker_translation = "카티아"
 original = "「な、なるほど～……？」"
 translation = "「나, 나루호도～……?」"
 
 [[dialogue]]
-speaker = "ミウ"
+speaker_original = "ミウ"
+speaker_translation = "미우"
 original = "「一番わかりやすいのは、隣国を次々と制圧する暴君ですね」"
 translation = "「가장 알기 쉬운 것은, 이웃 나라를 차례로 제압하는 폭군입니다」"
 
 [[dialogue]]
-speaker = "ミウ"
+speaker_original = "ミウ"
+speaker_translation = "미우"
 original = "「圧政を強いて、支配した地域の人民を奴隷とし、反乱を起こす気力すらなくなるまで労働力としてこき使う──」"
 translation = "「가혹한 정치를 강요하고, 지배한 지역의 인민을 노예로 삼아, 반란을 일으킬 기력조차 없어질 때까지 노동력으로 부려먹는──」"
 
 [[dialogue]]
-speaker = "カティア"
+speaker_original = "カティア"
+speaker_translation = "카티아"
 original = "「ガオッ！？\u3000そ、そういうのはよくないです！\u3000魔王様には怖いことはしてほしくないです！」"
 translation = "「갸오옷!? 그, 그런 건 좋지 않습니다! 마왕님께는 무서운 일은 하지 않으셨으면 좋겠습니다!」"
 
 [[dialogue]]
-speaker = "ヒマワリ"
+speaker_original = "ヒマワリ"
+speaker_translation = "히마와리"
 original = "「カティア先輩は、会長さんに何をしてほしいの？」"
 translation = "「카티아 선배는, 회장군이 무엇을 해줬으면 좋겠어요?」"
 
 [[dialogue]]
-speaker = "カティア"
+speaker_original = "カティア"
+speaker_translation = "카티아"
 original = "「が、がお……？\u3000えーと……世界で一番すごくて強くて偉い人になってほしいガオ！」"
 translation = "「가, 갸오……? 에ー또…… 세계에서 가장 대단하고 강하고 위대한 사람이 되어주셨으면 좋겠습니다갸오!」"
 
 [[dialogue]]
-speaker = "ヒマワリ"
+speaker_original = "ヒマワリ"
+speaker_translation = "히마와리"
 original = "「会長さんが世界的に認められてほしいってことかな？\u3000『世界で最も知名度のある１００人』に選ばれるとか」"
 translation = "「회장군이 세계적으로 인정받았으면 좋겠다는 건가요? 『세계에서 가장 지명도 있는 100인』에 선정된다든가」"
 
 [[dialogue]]
-speaker = "カティア"
+speaker_original = "カティア"
+speaker_translation = "카티아"
 original = "「う～～ん？\u3000それは嬉しいですけど、なんだか違う気がします……」"
 translation = "「으으음～? 그건 기쁘지만, 왠지 다른 것 같습니다……」"
 
 [[dialogue]]
-speaker = "ミウ"
+speaker_original = "ミウ"
+speaker_translation = "미우"
 original = "「そうですね……もっとわかりやすく直接的に世界征服に向けたプランでしたら──あ、カティア先輩、お耳を近づけてください」"
 translation = "「그렇군요…… 좀 더 알기 쉽고 직접적으로 세계 정복을 향한 플랜이라면── 아, 카티아 선배, 귀를 가까이 대주세요」"
 
 [[dialogue]]
-speaker = "カティア"
+speaker_original = "カティア"
+speaker_translation = "카티아"
 original = "「わふ？\u3000ひゃんっ、くすぐったいですぅ」"
 translation = "「와프? 햣, 간지럽습니다아」"
 
 [[dialogue]]
-speaker = "ミウ"
+speaker_original = "ミウ"
+speaker_translation = "미우"
 original = "「例えばですね……会長さんの周りにいる女性たちを虜にして……ごにょ、ごにょ、ごにょ……」"
 translation = "「예를 들면요…… 회장군 주변에 있는 여성들을 사로잡아서…… 소곤, 소곤, 소곤……」"
 
 [[dialogue]]
-speaker = "カティア"
+speaker_original = "カティア"
+speaker_translation = "카티아"
 original = "「えぇえええぇっ！？\u3000そ、それはいくらなんでもひどすぎませんかー！？」"
 translation = "「에에에에에엑!? 그, 그건 아무리 그래도 너무 심하지 않습니까ー!?」"
 
 [[dialogue]]
-speaker = "ミウ"
+speaker_original = "ミウ"
+speaker_translation = "미우"
 original = "「どんな女性でもときめかせちゃう会長さんのカリスマ性なら、これが現実的だと思うんですけど」"
 translation = "「어떤 여성이라도 설레게 만드는 회장군의 카리스마라면, 이것이 현실적이라고 생각합니다만」"
 
 [[dialogue]]
-speaker = "カティア"
+speaker_original = "カティア"
+speaker_translation = "카티아"
 original = "「でもでも魔王様は１人しかいないですし、１日に何回もなんて、いくらなんでも体がもたないっていうか……」"
 translation = "「하지만 마왕님은 한 분밖에 안 계시고, 하루에 몇 번씩이나는, 아무리 그래도 몸이 버티지 못한다고 할까……」"
 
@@ -309,12 +363,14 @@ original = "どんな世界征服プランを！？"
 translation = "어떤 세계 정복 플랜을!"
 
 [[dialogue]]
-speaker = "ミウ"
+speaker_original = "ミウ"
+speaker_translation = "미우"
 original = "「昔から『英雄色を好む』って言いますし、そのくらい会長さんなら序の口ですよ。そこから派生した別のプランですと……ごにょ、ごにょ、ごにょ」"
 translation = "「예로부터 『영웅은 색을 좋아한다』고 말하고, 그 정도는 회장군이라면 시작에 불과합니다. 거기서 파생된 다른 플랜으로는…… 소곤, 소곤, 소곤」"
 
 [[dialogue]]
-speaker = "カティア"
+speaker_original = "カティア"
+speaker_translation = "카티아"
 original = "「そ、それはダメですー！\u3000絶対っ！\u3000ま、魔王様、聞こえてないですよね！？」"
 translation = "「그, 그건 안 됩니다ー! 절대! 마, 마왕님, 안 들리시죠!?」"
 
@@ -324,52 +380,62 @@ original = "ちっとも聞こえなかった"
 translation = "전혀 들리지 않았다"
 
 [[dialogue]]
-speaker = "ミウ"
+speaker_original = "ミウ"
+speaker_translation = "미우"
 original = "「えー、ダメですかー？\u3000みんなが幸せになれる素敵なプランだと思うんですけど」"
 translation = "「에ー, 안 되나요ー? 모두가 행복해질 수 있는 멋진 플랜이라고 생각하는데요」"
 
 [[dialogue]]
-speaker = "カティア"
+speaker_original = "カティア"
+speaker_translation = "카티아"
 original = "「わ、私には刺激が強すぎるガオーっ！」"
 translation = "「저, 저에게는 자극이 너무 강합니다갸오옷!」"
 
 [[dialogue]]
-speaker = "ヒマワリ"
+speaker_original = "ヒマワリ"
+speaker_translation = "히마와리"
 original = "「あ、そろそろ相談時間終わりだね。どう、カティア先輩、参考になったかな？」"
 translation = "「아, 슬슬 상담 시간이 끝났네요. 어때, 카티아 선배, 참고가 되었을까?」"
 
 [[dialogue]]
-speaker = "カティア"
+speaker_original = "カティア"
+speaker_translation = "카티아"
 original = "「うぅぅ……難しくてよくわかんないとこもあったけど……そこまでやらなきゃいけないんですガオ……？」"
 translation = "「으으으…… 어려워서 잘 모르겠는 부분도 있었지만…… 거기까지 해야 하는 건가요갸오……?」"
 
 [[dialogue]]
-speaker = "ミウ"
+speaker_original = "ミウ"
+speaker_translation = "미우"
 original = "「あ、これは注意点なんですけど……世界を手に入れようとする者同士、どうしてもぶつかる時ってあると思うんです」"
 translation = "「아, 이건 주의점인데요…… 세계를 손에 넣으려는 자들끼리는, 아무래도 부딪힐 때가 있을 거라고 생각합니다」"
 
 [[dialogue]]
-speaker = "ミウ"
+speaker_original = "ミウ"
+speaker_translation = "미우"
 original = "「セナリィ社長に危害を加えたり、私たちゴールデングースの邪魔をするようでしたら、考えつく限りの全力で排除させていただきますので」"
 translation = "「세나리 사장님께 해를 가하거나, 저희 골든 구스를 방해하는 것 같으면, 생각할 수 있는 한 모든 전력으로 배제하겠습니다」"
 
 [[dialogue]]
-speaker = "ミウ"
+speaker_original = "ミウ"
+speaker_translation = "미우"
 original = "「くれぐれも、気をつけてくださいね♪」"
 translation = "「부디, 조심해 주세요♪」"
 
 [[dialogue]]
-speaker = "カティア"
+speaker_original = "カティア"
+speaker_translation = "카티아"
 original = "「ひぃっ！？\u3000き、気をつけますワン！」"
 translation = "「히익!? 조, 조심하겠습니다멍!」"
 
 [[dialogue]]
-speaker = "ヒマワリ"
+speaker_original = "ヒマワリ"
+speaker_translation = "히마와리"
 original = "「お互い世界を牛耳れるように頑張ろうねっ♪」"
 translation = "「서로 세계를 주무를 수 있도록 힘내자♪」"
 
 [[dialogue]]
-speaker = "カティア"
+speaker_original = "カティア"
+speaker_translation = "카티아"
 original = "「は、はぃぃ……まだまだ世界征服の道は遠いですワン……」"
 translation = "「네, 네에…… 아직 세계 정복의 길은 멀었습니다멍……」"
 

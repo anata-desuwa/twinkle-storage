@@ -4,17 +4,20 @@ original = "第４話,複雑な関係,P"
 translation = "제4화, 복잡한 관계, P"
 
 [[dialogue]]
-speaker = "メルエル"
+speaker_original = "メルエル"
+speaker_translation = "메르엘"
 original = "「あ、会長くんっ。ナターシャちゃん見なかった？\u3000……そっか、見てないんだ」"
 translation = "「아, 회장군. 나타샤짱 못 봤어? ……그렇구나, 못 봤구나」"
 
 [[dialogue]]
-speaker = "メルエル"
+speaker_original = "メルエル"
+speaker_translation = "메르엘"
 original = "「実はここのところナターシャちゃんに全然会えなくて。なんとなく遠目から監視されてる気配は感じるんだけど」"
 translation = "「사실 요즘 나타샤짱을 전혀 만날 수가 없어서. 왠지 멀리서 감시당하는 기척은 느껴지는데」"
 
 [[dialogue]]
-speaker = "メルエル"
+speaker_original = "メルエル"
+speaker_translation = "메르엘"
 original = "「やっぱり避けられてるのかな……。話したいことたくさんあるんだけどな……」"
 translation = "「역시 피해지고 있는 걸까……. 하고 싶은 말 잔뜩 있는데 말이야……」"
 
@@ -24,7 +27,8 @@ original = "ナターシャを見つけたら言っとくよ"
 translation = "나타샤를 찾으면 말해둘게"
 
 [[dialogue]]
-speaker = "メルエル"
+speaker_original = "メルエル"
+speaker_translation = "메르엘"
 original = "「ありがとう。もしナターシャちゃんを見つけたら、申し訳ないけどお願いね。それじゃまた」"
 translation = "「고마워. 혹시 나타샤짱을 찾으면 미안하지만 부탁해. 그럼 나중에 봐」"
 
@@ -34,12 +38,14 @@ original = "いるんだろ、ナターシャ"
 translation = "있는 거지, 나타샤"
 
 [[dialogue]]
-speaker = "ナターシャ"
+speaker_original = "ナターシャ"
+speaker_translation = "나타샤"
 original = "「……よくわかったね？\u3000気配は完全に消してたのに」"
 translation = "「……잘도 알았네? 기척은 완전히 지웠는데」"
 
 [[dialogue]]
-speaker = "ナターシャ"
+speaker_original = "ナターシャ"
+speaker_translation = "나타샤"
 original = "「会長さんも人が悪いね。私に気付いてたのにメルエルに言わないなんて」"
 translation = "「회장님도 심술궂네. 나를 눈치챘으면서 메르엘한테 말 안 하다니」"
 
@@ -49,7 +55,8 @@ original = "まだ見つけてはいなかったから"
 translation = "아직 찾은 건 아니었으니까"
 
 [[dialogue]]
-speaker = "ナターシャ"
+speaker_original = "ナターシャ"
+speaker_translation = "나타샤"
 original = "「うわー、屁理屈だー。そういうの女の子に嫌われるよー？」"
 translation = "「우와─ 궤변이다─. 그런 거 여자애들한테 미움받는다고?」"
 
@@ -59,22 +66,26 @@ original = "俺も２人が話すのはまだ早いと思ってる"
 translation = "나도 둘이 이야기하는 건 아직 이르다고 생각해"
 
 [[dialogue]]
-speaker = "ナターシャ"
+speaker_original = "ナターシャ"
+speaker_translation = "나타샤"
 original = "「ふーん……」"
 translation = "「흐응……」"
 
 [[dialogue]]
-speaker = "ナターシャ"
+speaker_original = "ナターシャ"
+speaker_translation = "나타샤"
 original = "「私のことなんか気遣わなくていいのに。所詮、いつ果てるかもわからない暗殺者だよ？」"
 translation = "「나 같은 건 신경 안 써도 되는데. 어차피 언제 죽을지도 모르는 암살자라고?」"
 
 [[dialogue]]
-speaker = "ナターシャ"
+speaker_original = "ナターシャ"
+speaker_translation = "나타샤"
 original = "「私を気遣うくらいなら、メルエルを気遣ってあげなよ。あの通り、私に袖にされて悩んでるみたいだから」"
 translation = "「나를 신경 쓸 바에야 메르엘을 신경 써줘. 저렇게 나한테 퇴짜 맞아서 고민하는 것 같으니까」"
 
 [[dialogue]]
-speaker = "ナターシャ"
+speaker_original = "ナターシャ"
+speaker_translation = "나타샤"
 original = "「きっと今ならメルエルのこと簡単に堕とせるよ？\u3000傍に居るだけで好感度爆上がりだ」"
 translation = "「분명 지금이라면 메르엘을 쉽게 꼬실 수 있을걸? 곁에 있는 것만으로 호감도 폭발이다」"
 
@@ -84,62 +95,74 @@ original = "誰の傍にいるかは俺が決めるよ"
 translation = "누구 곁에 있을지는 내가 정해"
 
 [[dialogue]]
-speaker = "ナターシャ"
+speaker_original = "ナターシャ"
+speaker_translation = "나타샤"
 original = "「……本当に物好きだね、会長さんは」"
 translation = "「……정말로 별난 사람이네, 회장님은」"
 
 [[dialogue]]
-speaker = "ナターシャ"
+speaker_original = "ナターシャ"
+speaker_translation = "나타샤"
 original = "「会長さん、最近、私とメルエルが鉢合わせしないように気を遣ってくれてるよね」"
 translation = "「회장님, 요즘 나랑 메르엘이 마주치지 않도록 신경 써주고 있지」"
 
 [[dialogue]]
-speaker = "ナターシャ"
+speaker_original = "ナターシャ"
+speaker_translation = "나타샤"
 original = "「それとなくメルエルの行き先を教えてくれたりとか、メルエルが選管の活動場所に来ないようにしてくれたりとか」"
 translation = "「은근슬쩍 메르엘의 행선지를 알려준다거나, 메르엘이 선관의 활동 장소에 오지 않도록 해준다거나」"
 
 [[dialogue]]
-speaker = "ナターシャ"
+speaker_original = "ナターシャ"
+speaker_translation = "나타샤"
 original = "「気付かないとでも思った？\u3000私だって会長さんの考えてることくらい、少しはわかるよ」"
 translation = "「모를 줄 알았어? 나도 회장님이 생각하는 것 정도는 조금은 알아」"
 
 [[dialogue]]
-speaker = "ナターシャ"
+speaker_original = "ナターシャ"
+speaker_translation = "나타샤"
 original = "「なんだかんだ長い付き合いになってきたしね？\u3000ま、幼馴染みには負けるけど」"
 translation = "「이래저래 긴 인연이 됐으니까 말이야? 뭐, 소꿉친구한테는 지겠지만」"
 
 [[dialogue]]
-speaker = "ナターシャ"
+speaker_original = "ナターシャ"
+speaker_translation = "나타샤"
 original = "「変なところで優しくて……。余計なお節介ばかり焼いてくれて……」"
 translation = "「이상한 데서 다정하고……. 쓸데없는 참견만 잔뜩 해주고……」"
 
 [[dialogue]]
-speaker = "ナターシャ"
+speaker_original = "ナターシャ"
+speaker_translation = "나타샤"
 original = "「ふふ、会長さんがモテモテな理由がよくわかるよ。私が単純な女の子なら、コロっと堕ちちゃいそうだ」"
 translation = "「후후, 회장님이 인기 많은 이유를 잘 알겠어. 내가 단순한 여자애였다면 홀딱 넘어갔겠어」"
 
 [[dialogue]]
-speaker = "ナターシャ"
+speaker_original = "ナターシャ"
+speaker_translation = "나타샤"
 original = "「でも、私はそこまで単純じゃないから。そういう感情を私に期待するのはお門違いだよ？」"
 translation = "「하지만 난 그렇게 단순하지 않으니까. 그런 감정을 나한테 기대하는 건 번지수가 틀렸어」"
 
 [[dialogue]]
-speaker = "ナターシャ"
+speaker_original = "ナターシャ"
+speaker_translation = "나타샤"
 original = "「私はあくまで仕事で会長さんの近くにいるだけだから。ビジネスライクな関係ってヤツ？」"
 translation = "「나는 어디까지나 업무로 회장님 곁에 있는 거니까. 비즈니스적인 관계라는 거?」"
 
 [[dialogue]]
-speaker = "ナターシャ"
+speaker_original = "ナターシャ"
+speaker_translation = "나타샤"
 original = "「ま……会長さんと一緒にいるのは嫌いじゃないけどね？」"
 translation = "「뭐…… 회장님이랑 같이 있는 게 싫지는 않지만 말이야」"
 
 [[dialogue]]
-speaker = "ナターシャ"
+speaker_original = "ナターシャ"
+speaker_translation = "나타샤"
 original = "「会長さんが私を好きになる分には……勝手にしてくれて構わないけど」"
 translation = "「회장님이 나를 좋아하게 되는 거야…… 마음대로 해도 상관없지만」"
 
 [[dialogue]]
-speaker = "ナターシャ"
+speaker_original = "ナターシャ"
+speaker_translation = "나타샤"
 original = "「でも、メルエルの前で露骨にそういう態度は見せないでね？\u3000今以上に険悪な仲になっちゃいそうだ」"
 translation = "「하지만 메르엘 앞에서 노골적으로 그런 태도는 보이지 마? 지금 이상으로 험악한 사이가 될 것 같으니까」"
 
@@ -149,52 +172,62 @@ original = "気を付けるよ"
 translation = "조심할게"
 
 [[dialogue]]
-speaker = "ナターシャ"
+speaker_original = "ナターシャ"
+speaker_translation = "나타샤"
 original = "「うん……気を付けて」"
 translation = "「응…… 조심해줘」"
 
 [[dialogue]]
-speaker = "ナターシャ"
+speaker_original = "ナターシャ"
+speaker_translation = "나타샤"
 original = "「ちゃんと気を付けてくれるのなら──……」"
 translation = "「제대로 조심해준다면──……」"
 
 [[dialogue]]
-speaker = "ナターシャ"
+speaker_original = "ナターシャ"
+speaker_translation = "나타샤"
 original = "「ちゅ……んっ……<emoji=heart04>」"
 translation = "「쪽…… 응……<emoji=heart04>」"
 
 [[dialogue]]
-speaker = "ナターシャ"
+speaker_original = "ナターシャ"
+speaker_translation = "나타샤"
 original = "「色仕掛けの練習がてら、ふふ。ほっぺにチューくらいしてあげるから<emoji=heart04>」"
 translation = "「미인계 연습 겸 해서, 후후. 뺨에 뽀뽀 정도는 해줄 테니까<emoji=heart04>」"
 
 [[dialogue]]
-speaker = "ナターシャ"
+speaker_original = "ナターシャ"
+speaker_translation = "나타샤"
 original = "「あはは、顔真っ赤じゃない。ほっぺにキスされたくらいで、そんなに照れるなんて、よっぽど私のこと好きなんだね？」"
 translation = "「아하하, 얼굴이 새빨갛잖아. 뺨에 키스받은 정도로 그렇게 수줍어하다니, 어지간히 나를 좋아하나 보네?」"
 
 [[dialogue]]
-speaker = "ナターシャ"
+speaker_original = "ナターシャ"
+speaker_translation = "나타샤"
 original = "「この前の不意打ちキスより赤くなってるよ？\u3000コロっと堕ちやすいのは、会長さんの方だったか♪」"
 translation = "「저번의 기습 키스 때보다 더 빨개졌어? 홀딱 넘어가기 쉬운 건 회장님 쪽이었나♪」"
 
 [[dialogue]]
-speaker = "ナターシャ"
+speaker_original = "ナターシャ"
+speaker_translation = "나타샤"
 original = "「でも、会長さんのそういう顔見てると心が和んでくるよ」"
 translation = "「하지만 회장님의 그런 얼굴을 보고 있으면 마음이 편안해져」"
 
 [[dialogue]]
-speaker = "ナターシャ"
+speaker_original = "ナターシャ"
+speaker_translation = "나타샤"
 original = "「ありがとね、会長さん。私なんかの傍にいてくれて」"
 translation = "「고마워, 회장님. 나 같은 애 곁에 있어 줘서」"
 
 [[dialogue]]
-speaker = "ナターシャ"
+speaker_original = "ナターシャ"
+speaker_translation = "나타샤"
 original = "「私もちゃんとわかってるから。いつまでもメルエルのこと無視していられないって。そのうち、きちんと話すつもり」"
 translation = "「나도 제대로 알고 있으니까. 언제까지나 메르엘을 무시하고 있을 수는 없다는 거. 조만간 제대로 이야기할 생각이야」"
 
 [[dialogue]]
-speaker = "ナターシャ"
+speaker_original = "ナターシャ"
+speaker_translation = "나타샤"
 original = "「その時は……会長さんにも一緒にいてもらっていいかな？」"
 translation = "「그때는…… 회장님도 같이 있어 줄래?」"
 
@@ -204,27 +237,32 @@ original = "もちろん、そのつもりだよ"
 translation = "물론, 그럴 생각이야"
 
 [[dialogue]]
-speaker = "ナターシャ"
+speaker_original = "ナターシャ"
+speaker_translation = "나타샤"
 original = "「ふふ、心強いよ。その言葉だけで楽になった気がする」"
 translation = "「후후, 든든하네. 그 말만으로 편해진 기분이야」"
 
 [[dialogue]]
-speaker = "ナターシャ"
+speaker_original = "ナターシャ"
+speaker_translation = "나타샤"
 original = "「じゃあ、その時はよろしくね？\u3000それとこれは──」"
 translation = "「그럼 그때는 잘 부탁해? 그리고 이건──」"
 
 [[dialogue]]
-speaker = "ナターシャ"
+speaker_original = "ナターシャ"
+speaker_translation = "나타샤"
 original = "「んっ……んちゅぅっ……<emoji=heart04>\u3000ふっ……んんっ……<emoji=heart04>」"
 translation = "「응…… 으음 쪽……<emoji=heart04> 훗…… 으응……<emoji=heart04>」"
 
 [[dialogue]]
-speaker = "ナターシャ"
+speaker_original = "ナターシャ"
+speaker_translation = "나타샤"
 original = "「ふふ、お礼の前払いだよ<emoji=heart04>\u3000こんな時でもなければ払えそうにないからね<emoji=heart04>」"
 translation = "「후후, 보답의 선불이야<emoji=heart04> 이런 때가 아니면 못 줄 것 같으니까<emoji=heart04>」"
 
 [[dialogue]]
-speaker = "ナターシャ"
+speaker_original = "ナターシャ"
+speaker_translation = "나타샤"
 original = "「メルエルには……内緒だよ<emoji=heart04>」"
 translation = "「메르엘한테는…… 비밀이야<emoji=heart04>」"
 

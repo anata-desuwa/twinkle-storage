@@ -9,22 +9,26 @@ original = "先日の続きで、今日は星徒会の案内だ。"
 translation = "요전번의 연장으로, 오늘은 성도회의 안내다."
 
 [[dialogue]]
-speaker = "オオヒメ"
+speaker_original = "オオヒメ"
+speaker_translation = "오오히메"
 original = "「お初にお目にかかる。守護天使が一柱《天恵》のオオヒメだ。呼びづらければヒメと呼んでくれ」"
 translation = "「처음 뵙겠네. 수호천사 중 일주 《천혜》의 오오히메다. 부르기 어렵다면 히메라고 불러주게」"
 
 [[dialogue]]
-speaker = "マトイ"
+speaker_original = "マトイ"
+speaker_translation = "마토이"
 original = "「ヒメ……かわいくていいですね♪」"
 translation = "「히메…… 귀엽고 좋네요♪」"
 
 [[dialogue]]
-speaker = "オオヒメ"
+speaker_original = "オオヒメ"
+speaker_translation = "오오히메"
 original = "「そ、そうか？\u3000呼びやすさを優先したのだが、私にはかわいすぎるのではないか……？」"
 translation = "「그, 그런가? 부르기 편한 걸 우선했는데, 나에게는 너무 귀여운 것 아닌가……?」"
 
 [[dialogue]]
-speaker = "マトイ"
+speaker_original = "マトイ"
+speaker_translation = "마토이"
 original = "「そんなことないですよ。お似合いです」"
 translation = "「그렇지 않아요. 잘 어울려요」"
 
@@ -34,57 +38,68 @@ original = "俺も似合ってると思うよ"
 translation = "나도 잘 어울린다고 생각해"
 
 [[dialogue]]
-speaker = "オオヒメ"
+speaker_original = "オオヒメ"
+speaker_translation = "오오히메"
 original = "「う、うぅむ……魔王もそう思うか……」"
 translation = "「으, 으음…… 마왕도 그렇게 생각하나……」"
 
 [[dialogue]]
-speaker = "マトイ"
+speaker_original = "マトイ"
+speaker_translation = "마토이"
 original = "「私は星徒会書記の詠野マトイです。よかったら、お茶とお菓子どうぞ」"
 translation = "「저는 성도회 서기인 요노 마토이입니다. 괜찮으시면, 차와 과자 드세요」"
 
 [[dialogue]]
-speaker = "オオヒメ"
+speaker_original = "オオヒメ"
+speaker_translation = "오오히메"
 original = "「ありがとう、いただくよ」"
 translation = "「고맙네, 잘 먹겠네」"
 
 [[dialogue]]
-speaker = "マトイ"
+speaker_original = "マトイ"
+speaker_translation = "마토이"
 original = "「じー……」"
 translation = "「빤히──……」"
 
 [[dialogue]]
-speaker = "オオヒメ"
+speaker_original = "オオヒメ"
+speaker_translation = "오오히메"
 original = "「マトイ殿？\u3000私の顔をじっと見てどうした？」"
 translation = "「마토이 공? 내 얼굴을 빤히 보고 왜 그러나?」"
 
 [[dialogue]]
-speaker = "マトイ"
+speaker_original = "マトイ"
+speaker_translation = "마토이"
 original = "「ああいや、その……ヒメさんが私と同じだって聞いて……」"
 translation = "「아 아니, 그…… 히메 씨가 저랑 같다고 들어서……」"
 
 [[dialogue]]
-speaker = "オオヒメ"
+speaker_original = "オオヒメ"
+speaker_translation = "오오히메"
 original = "「マトイ殿と同じ？」"
 translation = "「마토이 공과 같다고?」"
 
 [[dialogue]]
-speaker = "マトイ"
+speaker_original = "マトイ"
+speaker_translation = "마토이"
 original = "「普通を司る守護天使って聞いたんですけど……」"
 translation = "「보통을 관장하는 수호천사라고 들었거든요……」"
 
 [[dialogue]]
-speaker = "オオヒメ"
+speaker_original = "オオヒメ"
+speaker_translation = "오오히메"
 original = "「私が司る摂理は『普遍』だが」"
 translation = "「내가 관장하는 섭리는 『보편』이다만」"
 
 [[dialogue]]
-speaker = "マトイ"
+speaker_original = "マトイ"
+speaker_translation = "마토이"
 original = "「違った！？\u3000守護天使様と同じなんて思い上がりでした！\u3000ごめんなさいごめんなさいごめんなさい！」"
 translation = "「틀렸다!? 수호천사님과 같다니 오만이었어요! 죄송해요 죄송해요 죄송해요!」"
 
 [[dialogue]]
-speaker = "オオヒメ"
+speaker_original = "オオヒメ"
+speaker_translation = "오오히메"
 original = "「いや、そんなに謝らなくても……確かにわかりづらい概念ではあるからな」"
 translation = "「아니, 그렇게 사과하지 않아도…… 확실히 이해하기 어려운 개념이긴 하니까」"
 
@@ -94,72 +109,86 @@ original = "普通と普遍の違いって？"
 translation = "보통과 보편의 차이란 건?"
 
 [[dialogue]]
-speaker = "オオヒメ"
+speaker_original = "オオヒメ"
+speaker_translation = "오오히메"
 original = "「普通も説明するのは難しいが……ありふれていること、他と変わらないこと、だとしておこう」"
 translation = "「보통도 설명하기는 어렵지만…… 흔히 있는 것, 남들과 다르지 않은 것, 이라고 해 두지」"
 
 [[dialogue]]
-speaker = "オオヒメ"
+speaker_original = "オオヒメ"
+speaker_translation = "오오히메"
 original = "「普遍とは、広く行き渡ること。全てのものに等しくあてはまること。これだけだと、普通と変わらないようにも思えるな」"
 translation = "「보편이란, 널리 퍼지는 것. 모든 것에 평등하게 해당되는 것. 이것만으로는 보통과 다를 바 없게 느껴지기도 하군」"
 
 [[dialogue]]
-speaker = "オオヒメ"
+speaker_original = "オオヒメ"
+speaker_translation = "오오히메"
 original = "「ところで、マトイ殿は魔界に行ったことがあるそうだな？」"
 translation = "「그런데, 마토이 공은 마계에 가 본 적이 있다고 들었네만?」"
 
 [[dialogue]]
-speaker = "マトイ"
+speaker_original = "マトイ"
+speaker_translation = "마토이"
 original = "「はい、レゾフやその近辺に」"
 translation = "「네, 레조프나 그 근처에」"
 
 [[dialogue]]
-speaker = "オオヒメ"
+speaker_original = "オオヒメ"
+speaker_translation = "오오히메"
 original = "「では、そのレゾフで太陽は見たか？\u3000呼吸はできたか？\u3000地に足は着いたか？」"
 translation = "「그럼, 그 레조프에서 태양은 보았나? 호흡은 할 수 있었나? 땅에 발은 닿았나?」"
 
 [[dialogue]]
-speaker = "マトイ"
+speaker_original = "マトイ"
+speaker_translation = "마토이"
 original = "「はい。でないと今大変なことになってます」"
 translation = "「네. 그렇지 않으면 지금 큰일 났을 거예요」"
 
 [[dialogue]]
-speaker = "オオヒメ"
+speaker_original = "オオヒメ"
+speaker_translation = "오오히메"
 original = "「うむ、それが普遍だ。光、大気、重力……そういう『あって当たり前のもの』を三界に行き渡らせるのが私の役目だ」"
 translation = "「음, 그것이 보편이다. 빛, 대기, 중력…… 그런 『있는 게 당연한 것』을 삼계에 널리 퍼뜨리는 것이 나의 역할이다」"
 
 [[dialogue]]
-speaker = "マトイ"
+speaker_original = "マトイ"
+speaker_translation = "마토이"
 original = "「それってつまり世界の根幹なんじゃ……ていうかヒメさんがいないと、みんな息もできなくなるってこと！？」"
 translation = "「그건 즉 세계의 근간이잖아요…… 그보다 히메 씨가 없으면, 다들 숨도 못 쉬게 된다는 거예요!?」"
 
 [[dialogue]]
-speaker = "オオヒメ"
+speaker_original = "オオヒメ"
+speaker_translation = "오오히메"
 original = "「大雑把に言えばそういうことだ」"
 translation = "「대략적으로 말하자면 그런 셈이지」"
 
 [[dialogue]]
-speaker = "マトイ"
+speaker_original = "マトイ"
+speaker_translation = "마토이"
 original = "「やっぱり守護天使様ってすごい存在なんだ……。それを私と同じなんて……私のバカバカ！」"
 translation = "「역시 수호천사님은 대단한 존재구나……. 그걸 나랑 같다니…… 나 바보바보!」"
 
 [[dialogue]]
-speaker = "オオヒメ"
+speaker_original = "オオヒメ"
+speaker_translation = "오오히메"
 original = "「まぁ、自分を責めるのもほどほどにな？\u3000責めすぎてもいいことはないぞ？」"
 translation = "「뭐어, 자신을 책망하는 것도 적당히 하게나? 너무 자책해도 좋을 건 없다고?」"
 
 [[dialogue]]
-speaker = "マトイ"
+speaker_original = "マトイ"
+speaker_translation = "마토이"
 original = "「だけど……幸福……なんかは違うんですよね？」"
 translation = "「하지만…… 행복…… 같은 건 다른 거죠?」"
 
 [[dialogue]]
-speaker = "マトイ"
+speaker_original = "マトイ"
+speaker_translation = "마토이"
 original = "「人が、生き物が生きるのに必要なものを行き渡らせる……それがヒメさんの力。でも、幸せも一緒に行き渡らせてくれたら……なんて思っちゃうんですけど」"
 translation = "「사람이, 생물이 살아가는 데 필요한 것을 널리 퍼뜨린다…… 그것이 히메 씨의 힘. 하지만, 행복도 함께 퍼뜨려 주신다면…… 하고 생각해 버려서요」"
 
 [[dialogue]]
-speaker = "オオヒメ"
+speaker_original = "オオヒメ"
+speaker_translation = "오오히메"
 original = "「気持ちはわかるが、人々に幸福をもたらすのは私の役目ではない」"
 translation = "「마음은 알겠다만, 사람들에게 행복을 가져다주는 것은 나의 역할이 아니다」"
 
@@ -169,17 +198,20 @@ original = "幸福は自分で掴み取るものだから？"
 translation = "행복은 스스로 쟁취하는 것이니까?"
 
 [[dialogue]]
-speaker = "オオヒメ"
+speaker_original = "オオヒメ"
+speaker_translation = "오오히메"
 original = "「違うな。気難しいパテルじゃあるまいし、試すようなことはしない」"
 translation = "「틀렸네. 까다로운 파텔도 아니고, 시험하는 짓 따위는 하지 않아」"
 
 [[dialogue]]
-speaker = "オオヒメ"
+speaker_original = "オオヒメ"
+speaker_translation = "오오히메"
 original = "「もっと単純なことだ。幸福はそれぞれ違うもの。例えば、金を稼ぐことが幸せの者もいれば、家族に愛されることが幸せである者もいるだろう」"
 translation = "「좀 더 단순한 일이다. 행복은 제각기 다른 것. 예를 들어, 돈을 버는 것이 행복인 자도 있는가 하면, 가족에게 사랑받는 것이 행복인 자도 있겠지」"
 
 [[dialogue]]
-speaker = "オオヒメ"
+speaker_original = "オオヒメ"
+speaker_translation = "오오히메"
 original = "「ある意味、幸福は普遍と正反対のものといえるだろうな」"
 translation = "「어떤 의미에서, 행복은 보편과 정반대의 것이라고 할 수 있겠지.」"
 
@@ -189,82 +221,98 @@ original = "なるほど……"
 translation = "그렇군요……"
 
 [[dialogue]]
-speaker = "マトイ"
+speaker_original = "マトイ"
+speaker_translation = "마토이"
 original = "「難しいですけど、なんとなくわかった気がします……」"
 translation = "「어렵지만, 왠지 알 것 같은 기분이 들어요……」"
 
 [[dialogue]]
-speaker = "マトイ"
+speaker_original = "マトイ"
+speaker_translation = "마토이"
 original = "「！\u3000モンスター！\u3000早く行かないと！」"
 translation = "「! 몬스터! 빨리 가지 않으면!」"
 
 [[dialogue]]
-speaker = "ドラケルス"
+speaker_original = "ドラケルス"
+speaker_translation = "드라켈스"
 original = "「グラァアアアッ！！」"
 translation = "「그라아아아악!!」"
 
 [[dialogue]]
-speaker = "オオヒメ"
+speaker_original = "オオヒメ"
+speaker_translation = "오오히메"
 original = "「都牟刈・八閃！」"
 translation = "「츠무가리 · 팔섬!」"
 
 [[dialogue]]
-speaker = "マトイ（覚醒）"
+speaker_original = "マトイ（覚醒）"
+speaker_translation = "마토이(각성)"
 original = "「リフレクトゴッデスカリバー！」"
 translation = "「리플렉트 갓데스 칼리버!」"
 
 [[dialogue]]
-speaker = "ドラケルス"
+speaker_original = "ドラケルス"
+speaker_translation = "드라켈스"
 original = "「グゥゥ……」"
 translation = "「구우우……」"
 
 [[dialogue]]
-speaker = "マトイ（覚醒）"
+speaker_original = "マトイ（覚醒）"
+speaker_translation = "마토이(각성)"
 original = "「ふぅ、倒せた……ヒメさんのおかげです」"
 translation = "「후우, 쓰러뜨렸다…… 히메 씨 덕분이에요.」"
 
 [[dialogue]]
-speaker = "オオヒメ"
+speaker_original = "オオヒメ"
+speaker_translation = "오오히메"
 original = "「いいや、マトイ殿の力だよ。見事な太刀筋であった」"
 translation = "「아니, 마토이 공의 힘이야. 훌륭한 칼 솜씨였네.」"
 
 [[dialogue]]
-speaker = "マトイ（覚醒）"
+speaker_original = "マトイ（覚醒）"
+speaker_translation = "마토이(각성)"
 original = "「えへへ……ありがとうございます」"
 translation = "「에헤헤…… 감사합니다.」"
 
 [[dialogue]]
-speaker = "マトイ（覚醒）"
+speaker_original = "マトイ（覚醒）"
+speaker_translation = "마토이(각성)"
 original = "「私、ヒメさんの話を聞いて思ったんです。普遍が世界に行き渡らせることなら……」"
 translation = "「저, 히메 씨의 이야기를 듣고 생각했어요. 보편이 세계에 널리 퍼지게 하는 것이라면……」"
 
 [[dialogue]]
-speaker = "マトイ（覚醒）"
+speaker_original = "マトイ（覚醒）"
+speaker_translation = "마토이(각성)"
 original = "「私は、守りを世界に行き渡らせる、普遍の盾になりたいって。誰もが守られるのが普通にしたいです」"
 translation = "「저는, 수호를 세계에 널리 퍼뜨리는, 보편의 방패가 되고 싶다고요. 누구든 보호받는 것이 당연하게 만들고 싶어요.」"
 
 [[dialogue]]
-speaker = "オオヒメ"
+speaker_original = "オオヒメ"
+speaker_translation = "오오히메"
 original = "「普遍にして普通の盾か。素晴らしい志だ」"
 translation = "「보편이자 평범한 방패인가. 훌륭한 뜻이로군.」"
 
 [[dialogue]]
-speaker = "オオヒメ"
+speaker_original = "オオヒメ"
+speaker_translation = "오오히메"
 original = "「確かに、幸福をもたらすのは守護天使の責務ではない」"
 translation = "「확실히, 행복을 가져다주는 것은 수호천사의 책무가 아니지.」"
 
 [[dialogue]]
-speaker = "オオヒメ"
+speaker_original = "オオヒメ"
+speaker_translation = "오오히메"
 original = "「だが今の私には肉体がある。守護天使の権能でなくとも、この手で人々の幸福を守ることができる」"
 translation = "「하지만 지금의 내게는 육체가 있다. 수호천사의 권능이 아니더라도, 이 손으로 사람들의 행복을 지킬 수 있어.」"
 
 [[dialogue]]
-speaker = "オオヒメ"
+speaker_original = "オオヒメ"
+speaker_translation = "오오히메"
 original = "「ともに幸福を守ろう、マトイ殿」"
 translation = "「함께 행복을 지키자, 마토이 공.」"
 
 [[dialogue]]
-speaker = "マトイ（覚醒）"
+speaker_original = "マトイ（覚醒）"
+speaker_translation = "마토이(각성)"
 original = "「はい！」"
 translation = "「네!」"
 

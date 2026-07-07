@@ -4,7 +4,8 @@ original = "第２話,忠犬対決……！,P"
 translation = "제2화, 충견 대결……!"
 
 [[dialogue]]
-speaker = "ヒヨ"
+speaker_original = "ヒヨ"
+speaker_translation = "히요"
 original = "「じーーーーーーーっ」"
 translation = "「빤――――히」"
 
@@ -14,7 +15,8 @@ original = "めちゃくちゃ見られてる……！"
 translation = "엄청나게 쳐다보고 있어……!"
 
 [[dialogue]]
-speaker = "ヒヨ"
+speaker_original = "ヒヨ"
+speaker_translation = "히요"
 original = "「当たり前でい！\u3000会長サンの毒牙にかかる生徒を、少しでも減らさないといけねぇからな！\u3000たとえ火の中水の中、どこまでも付いていくぜ！」"
 translation = "「당연하지! 회장님의 독니에 걸려들 학생을 한 명이라도 줄여야 하니까! 비가 오나 눈이 오나 어디까지든 따라가겠어!」"
 
@@ -24,12 +26,14 @@ original = "あんまり無理はしないようにね"
 translation = "너무 무리는 하지 마."
 
 [[dialogue]]
-speaker = "ヒヨ"
+speaker_original = "ヒヨ"
+speaker_translation = "히요"
 original = "「おうよ！\u3000無理しすぎると姐さんに迷惑をかけちまうからな！\u3000姐さんは心配性だから、すぐにあたしのことを──」"
 translation = "「그래! 너무 무리하면 누님에게 폐를 끼치게 되니까! 누님은 걱정이 많아서 바로 나를──」"
 
 [[dialogue]]
-speaker = "カティア"
+speaker_original = "カティア"
+speaker_translation = "카티아"
 original = "「魔王様～～～～～～っ！！」"
 translation = "「마왕님～～～～～～앗!!」"
 
@@ -39,52 +43,62 @@ original = "急に抱きついてくると危ないよ？"
 translation = "갑자기 안겨오면 위험하다고?"
 
 [[dialogue]]
-speaker = "カティア"
+speaker_original = "カティア"
+speaker_translation = "카티아"
 original = "「ごめんなさい！\u3000でも魔王様の姿を見かけたら、居ても立ってもいられず！」"
 translation = "「죄송해요! 하지만 마왕님의 모습을 발견하니 가만히 있을 수가 없어서!」"
 
 [[dialogue]]
-speaker = "ヒヨ"
+speaker_original = "ヒヨ"
+speaker_translation = "히요"
 original = "「いきなり、女生徒を抱きつかせるとは……！\u3000やっぱりハーレムを作ってるのは本当だったか……！」"
 translation = "「느닷없이 여학생을 안기게 하다니……! 역시 하렘을 만들고 있다는 건 진짜였나……!」"
 
 [[dialogue]]
-speaker = "カティア"
+speaker_original = "カティア"
+speaker_translation = "카티아"
 original = "「ハーレム？\u3000魔王様、私をハーレムの一員に加えてくれるんですか！？」"
 translation = "「하렘? 마왕님, 저를 하렘 일원으로 넣어주시는 건가요!?」"
 
 [[dialogue]]
-speaker = "ヒヨ"
+speaker_original = "ヒヨ"
+speaker_translation = "히요"
 original = "「っていうか、よく見たらワン公じゃねぇか！\u3000何してんだこんなところで」"
 translation = "「그보다 잘 보니 멍멍이 아니냐! 여기서 뭐 하는 거야」"
 
 [[dialogue]]
-speaker = "カティア"
+speaker_original = "カティア"
+speaker_translation = "카티아"
 original = "「なんだヒヨか……。私は魔王様のしもべとして、スキンシップ中ガオ」"
 translation = "「뭐야 히요냐……. 나는 마왕님의 하수인으로서 스킨십 중이다 가오」"
 
 [[dialogue]]
-speaker = "ヒヨ"
+speaker_original = "ヒヨ"
+speaker_translation = "히요"
 original = "「よく分かんねぇが、不健全な匂いがプンプンするぜい」"
 translation = "「잘은 모르겠지만 불건전한 냄새가 풀풀 나는구먼」"
 
 [[dialogue]]
-speaker = "カティア"
+speaker_original = "カティア"
+speaker_translation = "카티아"
 original = "「不健全なんかじゃないガオ！\u3000私は魔王様の一番の配下であり右腕（自称）！\u3000ヒヨの思うような軽い関係ではないガオ！」"
 translation = "「불건전한 게 아니다 가오! 나는 마왕님의 제일가는 수하이자 오른팔(자칭)! 히요가 생각하는 것처럼 가벼운 관계가 아니다 가오!」"
 
 [[dialogue]]
-speaker = "ヒヨ"
+speaker_original = "ヒヨ"
+speaker_translation = "히요"
 original = "「配下で右腕？\u3000ワン公なんかを部下にしてたら、組織が破滅するぜい」"
 translation = "「수하에 오른팔? 멍멍이 따위를 부하로 삼았다간 조직이 파멸할 거다!」"
 
 [[dialogue]]
-speaker = "カティア"
+speaker_original = "カティア"
+speaker_translation = "카티아"
 original = "「そんなことないワン！\u3000私は魔王様の世界征服計画の特攻隊長として、獅子奮迅の活躍を見せているガオ！」"
 translation = "「그렇지 않다 멍! 나는 마왕님의 세계 정복 계획 특공대장으로서 사자분신의 활약을 보여주고 있다 가오!」"
 
 [[dialogue]]
-speaker = "ヒヨ"
+speaker_original = "ヒヨ"
+speaker_translation = "히요"
 original = "「語尾が安定しないやつだな……」"
 translation = "「어미가 일정하지 않은 녀석이로군……」"
 
@@ -94,47 +108,56 @@ original = "ところで二人はどういう関係なの？"
 translation = "그런데 둘은 어떤 관계야?"
 
 [[dialogue]]
-speaker = "カティア"
+speaker_original = "カティア"
+speaker_translation = "카티아"
 original = "「よくぞ聞いてくれました！\u3000私たちは同じ陸上部に所属しているライバルなのです！」"
 translation = "「잘 물어보셨습니다! 저희는 같은 육상부에 소속된 라이벌입니다!」"
 
 [[dialogue]]
-speaker = "ヒヨ"
+speaker_original = "ヒヨ"
+speaker_translation = "히요"
 original = "「悔しいが、成績は５０勝５０敗５０分けで、実力は完全に五分でさぁ」"
 translation = "「분하지만 성적은 50승 50패 50무로, 실력은 완전히 호각이지」"
 
 [[dialogue]]
-speaker = "カティア"
+speaker_original = "カティア"
+speaker_translation = "카티아"
 original = "「まさしく永遠のライバルですワン！」"
 translation = "「그야말로 영원한 라이벌이다 멍!」"
 
 [[dialogue]]
-speaker = "ヒヨ"
+speaker_original = "ヒヨ"
+speaker_translation = "히요"
 original = "「まあ、張り合いのあるやつではあるな、ワン公は」"
 translation = "「뭐, 상대할 보람이 있는 녀석이긴 하지, 멍멍이는」"
 
 [[dialogue]]
-speaker = "カティア"
+speaker_original = "カティア"
+speaker_translation = "카티아"
 original = "「私もヒヨがいてくれるおかげで、短距離のタイムも伸びていってますしね」"
 translation = "「저도 히요가 있어 주는 덕분에 단거리 기록도 늘어가고 있고요」"
 
 [[dialogue]]
-speaker = "カティア"
+speaker_original = "カティア"
+speaker_translation = "카티아"
 original = "「ですが、今の私は陸上部のカティアではなく、魔王様の手先！\u3000ヒヨと馴れ合いをする気はないガオ！」"
 translation = "「하지만 지금의 나는 육상부의 카티아가 아니라 마왕님의 앞잡이! 히요와 친목질을 할 생각은 없다 가오!」"
 
 [[dialogue]]
-speaker = "ヒヨ"
+speaker_original = "ヒヨ"
+speaker_translation = "히요"
 original = "「あたしだって、その気はないぜい！\u3000なんたって今は、姐さんのために会長サンを監視してるんだからな！」"
 translation = "「나 역시 그럴 생각은 없다고! 애당초 지금은 누님을 위해 회장님을 감시하는 중이니까!」"
 
 [[dialogue]]
-speaker = "カティア"
+speaker_original = "カティア"
+speaker_translation = "카티아"
 original = "「つまり、今の私たちは敵同士……！」"
 translation = "「즉, 지금의 우리는 서로 적……!」"
 
 [[dialogue]]
-speaker = "ヒヨ"
+speaker_original = "ヒヨ"
+speaker_translation = "히요"
 original = "「ああ、いつでもかかってこいだ！」"
 translation = "「그래, 언제든 덤벼라!」"
 
@@ -144,117 +167,140 @@ original = "いや、仲良くしようよ"
 translation = "아니, 사이좋게 지내자."
 
 [[dialogue]]
-speaker = "カティア"
+speaker_original = "カティア"
+speaker_translation = "카티아"
 original = "「いいえ！\u3000魔王様の面子を保つためにも、ヒヨには負けるわけにはいかないのです！\u3000……ガオ」"
 translation = "「아니요! 마왕님의 체면을 세워드리기 위해서라도 히요에게 질 수는 없습니다! ……가오」"
 
 [[dialogue]]
-speaker = "ヒヨ"
+speaker_original = "ヒヨ"
+speaker_translation = "히요"
 original = "「あたしだって、姐さんのためにも負けるわけにはいかねぇぜ！」"
 translation = "「나도 누님을 위해 질 수는 없지!」"
 
 [[dialogue]]
-speaker = "カティア"
+speaker_original = "カティア"
+speaker_translation = "카티아"
 original = "「がるるるっ……！」"
 translation = "「크르르르……!」"
 
 [[dialogue]]
-speaker = "ヒヨ"
+speaker_original = "ヒヨ"
+speaker_translation = "히요"
 original = "「うぐるるるぅっ……！」"
 translation = "「으그르르르……!」"
 
 [[dialogue]]
-speaker = "ミルフィー"
+speaker_original = "ミルフィー"
+speaker_translation = "밀피"
 original = "「会長くんたち、何をしてるの？」"
 translation = "「회장군들, 뭐 하고 있어?」"
 
 [[dialogue]]
-speaker = "カティア"
+speaker_original = "カティア"
+speaker_translation = "카티아"
 original = "「ひゃああ！？\u3000ミルフィー先輩！」"
 translation = "「히익!? 밀피 선배!」"
 
 [[dialogue]]
-speaker = "ヒヨ"
+speaker_original = "ヒヨ"
+speaker_translation = "히요"
 original = "「姐さん！」"
 translation = "「누님!」"
 
 [[dialogue]]
-speaker = "カティア"
+speaker_original = "カティア"
+speaker_translation = "카티아"
 original = "「ミルフィー先輩……急に出てこられると、心臓に悪いですよ」"
 translation = "「밀피 선배…… 갑자기 나타나시면 심장에 좋지 않아요」"
 
 [[dialogue]]
-speaker = "ミルフィー"
+speaker_original = "ミルフィー"
+speaker_translation = "밀피"
 original = "「ごめんね、驚かせるつもりはなかったんだけど」"
 translation = "「미안해, 놀라게 할 생각은 아니었는데」"
 
 [[dialogue]]
-speaker = "ヒヨ"
+speaker_original = "ヒヨ"
+speaker_translation = "히요"
 original = "「姐さんレベルの天使なら、気配を消すぐれえわけないからな」"
 translation = "「누님 레벨의 천사라면 기척을 지우는 것쯤은 아무것도 아니니까」"
 
 [[dialogue]]
-speaker = "ミルフィー"
+speaker_original = "ミルフィー"
+speaker_translation = "밀피"
 original = "「いや、別に気配を消してたわけでもないんだけどね……。それよりも、みんな何を話してたの？」"
 translation = "「아니, 딱히 기척을 지웠던 건 아니지만…… 그보다 다들 무슨 이야기를 하고 있었어?」"
 
 [[dialogue]]
-speaker = "ヒヨ"
+speaker_original = "ヒヨ"
+speaker_translation = "히요"
 original = "「あたしとワン公が出会ったらやる事は決まってんでい！」"
 translation = "「나와 멍멍이가 만나면 할 일은 정해져 있지!」"
 
 [[dialogue]]
-speaker = "カティア"
+speaker_original = "カティア"
+speaker_translation = "카티아"
 original = "「いざ尋常に勝負ですワン！」"
 translation = "「자, 정정당당히 승부다 멍!」"
 
 [[dialogue]]
-speaker = "ミルフィー"
+speaker_original = "ミルフィー"
+speaker_translation = "밀피"
 original = "「なるほど、ヒヨちゃんとカティアちゃんが、いつもの勝負を……」"
 translation = "「과연, 히요짱이랑 카티아짱이 평소 하던 승부를……」"
 
 [[dialogue]]
-speaker = "カティア"
+speaker_original = "カティア"
+speaker_translation = "카티아"
 original = "「……それで今日は何で決着をつけましょうか」"
 translation = "「……그래서 오늘은 무엇으로 결판을 낼까요」"
 
 [[dialogue]]
-speaker = "ヒヨ"
+speaker_original = "ヒヨ"
+speaker_translation = "히요"
 original = "「だったら、互いの主人のどちらがすごいかで勝負をつけようじゃねぇか」"
 translation = "「그렇다면 서로의 주인 중 누가 더 대단한지로 승부를 가리지 않겠어?」"
 
 [[dialogue]]
-speaker = "カティア"
+speaker_original = "カティア"
+speaker_translation = "카티아"
 original = "「受けて立つワン！\u3000ミルフィー先輩と言えども、魔王様には敵わないワン！」"
 translation = "「받아주겠다 멍! 밀피 선배라고 해도 마왕님에겐 당해낼 수 없다 멍!」"
 
 [[dialogue]]
-speaker = "ミルフィー"
+speaker_original = "ミルフィー"
+speaker_translation = "밀피"
 original = "「えと、私がヒヨちゃんの主人？」"
 translation = "「에또, 내가 히요짱의 주인?」"
 
 [[dialogue]]
-speaker = "カティア"
+speaker_original = "カティア"
+speaker_translation = "카티아"
 original = "「魔王様はとても強いワン！\u3000なんてったって、あの前会長をタイマンで倒したくらいだワン！」"
 translation = "「마왕님은 아주 강하다 멍! 무려 그 전 회장을 맞짱으로 쓰러뜨렸을 정도다 멍!」"
 
 [[dialogue]]
-speaker = "ヒヨ"
+speaker_original = "ヒヨ"
+speaker_translation = "히요"
 original = "「強さなら、姐さんも負けてないぜぇ！\u3000プリマステラとして、モンスターを倒してきた猛者でい！」"
 translation = "「강함이라면 누님도 지지 않는다고! 프리마스텔라로서 몬스터를 물리쳐 온 용사니까!」"
 
 [[dialogue]]
-speaker = "カティア"
+speaker_original = "カティア"
+speaker_translation = "카티아"
 original = "「魔王様は強いだけじゃないガオ！\u3000魔王様はとっても優しくて、私のことをいつもヨシヨシ撫でてくれるガオ！」"
 translation = "「마왕님은 강하기만 한 게 아니다 가오! 마왕님은 아주 다정해서 나를 언제나 쓰담쓰담 해주신다 가오!」"
 
 [[dialogue]]
-speaker = "ヒヨ"
+speaker_original = "ヒヨ"
+speaker_translation = "히요"
 original = "「優しさも姐さんは負けてないぜ！\u3000姐さんはいつも部活が終わるとお菓子をくれるんでい！」"
 translation = "「다정함도 누님은 지지 않아! 누님은 언제나 부활동이 끝나면 과자를 준다고!」"
 
 [[dialogue]]
-speaker = "ミルフィー"
+speaker_original = "ミルフィー"
+speaker_translation = "밀피"
 original = "「うーん、なんだか決着がつかなさそうだね……私なんかより会長くんの方が、全然すごいと思うんだけど」"
 translation = "「으음, 왠지 결판이 나지 않을 것 같네…… 나보다는 회장군이 훨씬 대단하다고 생각하지만」"
 
@@ -264,27 +310,32 @@ original = "いや、ミルフィーの方がすごいよ"
 translation = "아니, 밀피가 더 대단해."
 
 [[dialogue]]
-speaker = "ミルフィー"
+speaker_original = "ミルフィー"
+speaker_translation = "밀피"
 original = "「いやいや、会長くんの方がすごいよ。いつも星徒会長として頑張ってるし」"
 translation = "「아냐 아냐, 회장군이 더 대단해. 언제나 성도회장으로서 노력하고 있으니까」"
 
 [[dialogue]]
-speaker = "カティア"
+speaker_original = "カティア"
+speaker_translation = "카티아"
 original = "「……なんだか、魔王様たち楽しそうですね」"
 translation = "「……왠지 마왕님들 즐거워 보이네요」"
 
 [[dialogue]]
-speaker = "ヒヨ"
+speaker_original = "ヒヨ"
+speaker_translation = "히요"
 original = "「あたしを差し置いて姐さんに近づこうなんて許せねぇぜい！」"
 translation = "「나를 제쳐두고 누님에게 접근하다니 용서 못 해!」"
 
 [[dialogue]]
-speaker = "カティア"
+speaker_original = "カティア"
+speaker_translation = "카티아"
 original = "「私だって、魔王様が他の女の子とイチャイチャしてると、嫉妬してしまいます！」"
 translation = "「저도 마왕님이 다른 여자애랑 꽁냥거리고 있으면 질투가 난단 말이에요!」"
 
 [[dialogue]]
-speaker = "ミルフィー"
+speaker_original = "ミルフィー"
+speaker_translation = "밀피"
 original = "「あはは……なんというかお互い苦労するね……」"
 translation = "「아하하…… 뭐랄까 서로 고생이 많네……」"
 

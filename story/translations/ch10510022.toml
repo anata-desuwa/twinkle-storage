@@ -4,72 +4,86 @@ original = "第２話,ハナヨメ修行だ！,P"
 translation = "제2화, 신부 수업이다!, P"
 
 [[dialogue]]
-speaker = "クラウディア"
+speaker_original = "クラウディア"
+speaker_translation = "클라우디아"
 original = "「──空間移動、終了。ふふん、やはり人間界には、お忍びで来るに限るのう。小うるさいお目付け役がいては、魔王と『いちゃいちゃ』できんからな♪」"
 translation = "「──공간 이동, 종료. 후훙, 역시 인간계에는 몰래 오는 게 최고구나. 잔소리 심한 감시역이 있으면 마왕과 『꽁냥꽁냥』할 수 없으니까 말이다♪」"
 
 [[dialogue]]
-speaker = "クラウディア"
+speaker_original = "クラウディア"
+speaker_translation = "클라우디아"
 original = "「アイリーンにも認識変異の魔法を強めにかけたから、日が暮れるまではバレないであろう。さて……」"
 translation = "「아이린에게도 인식 변이 마법을 강하게 걸어뒀으니 해가 질 때까지는 들키지 않겠지. 자……」"
 
 [[dialogue]]
-speaker = "クラウディア"
+speaker_original = "クラウディア"
+speaker_translation = "클라우디아"
 original = "「むぅ。魔王はまだ帰っておらんのか。学園に向かった方がよかったか？」"
 translation = "「음. 마왕은 아직 돌아오지 않은 것이냐. 학원으로 가는 게 좋았으려나?」"
 
 [[dialogue]]
-speaker = "クラウディア"
+speaker_original = "クラウディア"
+speaker_translation = "클라우디아"
 original = "「……いや、よいことを思いついたぞ。今日はここで待ち伏せだ。そして──」"
 translation = "「……아니, 좋은 생각이 났다. 오늘은 여기서 매복이다. 그리고──」"
 
 [[dialogue]]
-speaker = "クラウディア（黄昏）"
+speaker_original = "クラウディア（黄昏）"
+speaker_translation = "클라우디아(황혼)"
 original = "「この姿で出迎えてやろう！\u3000ふふふ、驚く顔が目に浮かぶぞ♪」"
 translation = "「이 모습으로 맞이해주마! 후후후, 놀랄 얼굴이 눈에 선하구나♪」"
 
 [[dialogue]]
-speaker = "クラウディア（黄昏）"
+speaker_original = "クラウディア（黄昏）"
+speaker_translation = "클라우디아(황혼)"
 original = "「あやつ、以前に見た時も口をあんぐり開けてのう、キレイキレイとぬかしておったからな。今日も骨抜きにしてくれるわ<emoji=heart04>」"
 translation = "「그 녀석, 이전에도 봤을 때 입을 쩍 벌리고는 아름답다느니 뭐라느니 지껄였으니까 말이다. 오늘도 쏙 빠지게 만들어주마<emoji=heart04>」"
 
 [[dialogue]]
-speaker = "クラウディア（黄昏）"
+speaker_original = "クラウディア（黄昏）"
+speaker_translation = "클라우디아(황혼)"
 original = "「……そう言えば、可愛いだのなんだのと褒めさせている時に、聞き慣れん単語を言っておったな、なんだったか……」"
 translation = "「……그러고 보니, 귀엽다느니 뭐라느니 칭찬하게 했을 때, 생소한 단어를 말했었지, 뭐였더라……」"
 
 [[dialogue]]
-speaker = "クラウディア（黄昏）"
+speaker_original = "クラウディア（黄昏）"
+speaker_translation = "클라우디아(황혼)"
 original = "「そうだ、ハナヨメだ！\u3000しかしハナヨメとはなんだ……？\u3000ふむ、調べてみるか」"
 translation = "「맞다, 신부다! 하지만 신부란 무엇이냐……? 흠, 조사해볼까」"
 
 [[dialogue]]
-speaker = "クラウディア（黄昏）"
+speaker_original = "クラウディア（黄昏）"
+speaker_translation = "클라우디아(황혼)"
 original = "「ええと、魔王が使っていた、のーとぱそこんが……お、あった！」"
 translation = "「그러니까, 마왕이 쓰던 노트북이…… 오, 있다!」"
 
 [[dialogue]]
-speaker = "クラウディア（黄昏）"
+speaker_original = "クラウディア（黄昏）"
+speaker_translation = "클라우디아(황혼)"
 original = "「横で見ていたからな、操作方法くらいわかるのだぞ……検索……ハナヨメ……ほう……ほう……」"
 translation = "「옆에서 봤으니까 말이다, 조작 방법 정도는 안다구…… 검색…… 신부…… 호오…… 호오……」"
 
 [[dialogue]]
-speaker = "クラウディア（黄昏）"
+speaker_original = "クラウディア（黄昏）"
+speaker_translation = "클라우디아(황혼)"
 original = "「ハナヨメ衣装は、結婚式という儀式の際にまとう装いか……ふむ、確かに今の余の格好に似ておる」"
 translation = "「신부 의상은 결혼식이라는 의식 때 입는 차림인가…… 흠, 확실히 지금 여의 모습과 닮았구나」"
 
 [[dialogue]]
-speaker = "クラウディア（黄昏）"
+speaker_original = "クラウディア（黄昏）"
+speaker_translation = "클라우디아(황혼)"
 original = "「ふふん♪\u3000余の白き姿を見て、うぇ～でぃんぐどれすとかいうのを想像したのか。気が早い男だの。後でからかってやろう♪」"
 translation = "「후훙♪ 여의 하얀 모습을 보고 웨딩드레스라는 걸 상상한 것이냐. 성미도 급한 남자구나. 나중에 놀려줘야겠어♪」"
 
 [[dialogue]]
-speaker = "クラウディア（黄昏）"
+speaker_original = "クラウディア（黄昏）"
+speaker_translation = "클라우디아(황혼)"
 original = "「む、何だこの語句は……ハナヨメ修行？\u3000ハナヨメになるには修行がいるのか？」"
 translation = "「음, 이건 무슨 단어냐…… 신부 수업? 신부가 되려면 수행이 필요한 것이냐?」"
 
 [[dialogue]]
-speaker = "クラウディア（黄昏）"
+speaker_original = "クラウディア（黄昏）"
+speaker_translation = "클라우디아(황혼)"
 original = "「ふむ、ふむ……『愛され妻になるてくにっく』……炊事と掃除を極めれば、男はオチる……？」"
 translation = "「흠, 흠…… 『사랑받는 아내가 되는 테크닉』…… 요리와 청소를 마스터하면 남자는 넘어온다……?」"
 
@@ -84,7 +98,8 @@ original = "ただいま～"
 translation = "다녀왔어~"
 
 [[dialogue]]
-speaker = "クラウディア（黄昏）"
+speaker_original = "クラウディア（黄昏）"
+speaker_translation = "클라우디아(황혼)"
 original = "「やっと帰ってきたか！\u3000待ちわびたぞ、魔王！」"
 translation = "「드디어 돌아왔느냐! 기다리다 지쳤다, 마왕!」"
 
@@ -94,7 +109,8 @@ original = "クラウディア！？"
 translation = "클라우디아!?"
 
 [[dialogue]]
-speaker = "クラウディア（黄昏）"
+speaker_original = "クラウディア（黄昏）"
+speaker_translation = "클라우디아(황혼)"
 original = "「ふふん、どうだ魔王。この部屋を見て気づくことはないかのう？」"
 translation = "「후훙, 어떠냐 마왕. 이 방을 보고 느끼는 점은 없느냐?」"
 
@@ -104,12 +120,14 @@ original = "部屋中が……ピカピカになってる！？"
 translation = "방 안이…… 반짝반짝해졌어!?"
 
 [[dialogue]]
-speaker = "クラウディア（黄昏）"
+speaker_original = "クラウディア（黄昏）"
+speaker_translation = "클라우디아(황혼)"
 original = "「その通りだ！\u3000余が隅々まで磨いたのだぞ！\u3000どうだ！！\u3000骨抜きになってオチただろう！\u3000ふははははっ！」"
 translation = "「그 말대로다! 여가 구석구석까지 닦았느냐! 어떠냐!! 넋이 나가서 넘어왔느냐! 후하하하하!」"
 
 [[dialogue]]
-speaker = "クラウディア（黄昏）"
+speaker_original = "クラウディア（黄昏）"
+speaker_translation = "클라우디아(황혼)"
 original = "「そうだ、腹は減っておらんか。喜べ、ぽっとで湯も沸かしておる。かっぷらあめんならばすぐに準備ができるぞ！\u3000凄かろう！」"
 translation = "「맞다, 배는 고프지 않느냐. 기뻐하거라, 포트로 물도 끓여뒀다. 컵라면이라면 금방 준비할 수 있다구! 대단하지!」"
 
@@ -124,62 +142,74 @@ original = "よくわからないけど……"
 translation = "잘 모르겠지만……"
 
 [[dialogue]]
-speaker = "クラウディア（黄昏）"
+speaker_original = "クラウディア（黄昏）"
+speaker_translation = "클라우디아(황혼)"
 original = "「うむうむ。ヨメの家事をねぎらう夫は、よい夫だと記事にもあったぞ。お前は将来見込みがありそうだな♪」"
 translation = "「음음. 아내의 가사를 치하하는 남편은 좋은 남편이라고 기사에도 있었다. 너는 장래가 유망해 보이는구나♪」"
 
 [[dialogue]]
-speaker = "ウェンディ"
+speaker_original = "ウェンディ"
+speaker_translation = "웬디"
 original = "「失礼します！\u3000会長さん、こちらにクラウディア様が……！」"
 translation = "「실례합니다! 회장님, 여기에 클라우디아 님이……!」"
 
 [[dialogue]]
-speaker = "クラウディア（黄昏）"
+speaker_original = "クラウディア（黄昏）"
+speaker_translation = "클라우디아(황혼)"
 original = "「おお、ウェンディ」"
 translation = "「오, 웬디」"
 
 [[dialogue]]
-speaker = "ウェンディ"
+speaker_original = "ウェンディ"
+speaker_translation = "웬디"
 original = "「いたーーー！！\u3000しかもまたまずい恰好でいたーーー！！」"
 translation = "「찾았다──!! 게다가 또 곤란한 차림으로 있어──!!」"
 
 [[dialogue]]
-speaker = "ウェンディ"
+speaker_original = "ウェンディ"
+speaker_translation = "웬디"
 original = "「一体何をしていたんですか！\u3000アイリーンにあんなに強く魔法をかけて！\u3000ちょっとおかしくなっちゃってて、基地は大変だったんですよ！？」"
 translation = "「대체 뭘 하고 계셨던 건가요! 아이린에게 그렇게 강하게 마법을 걸어서! 좀 이상해져 버려서 기지는 난리였다구요!?」"
 
 [[dialogue]]
-speaker = "クラウディア（黄昏）"
+speaker_original = "クラウディア（黄昏）"
+speaker_translation = "클라우디아(황혼)"
 original = "「何をしていたと言われてもの。ハナヨメ修行だ！」"
 translation = "「뭘 하고 있었냐니. 신부 수업이다!」"
 
 [[dialogue]]
-speaker = "ウェンディ"
+speaker_original = "ウェンディ"
+speaker_translation = "웬디"
 original = "「は……？」"
 translation = "「하……?」"
 
 [[dialogue]]
-speaker = "クラウディア（黄昏）"
+speaker_original = "クラウディア（黄昏）"
+speaker_translation = "클라우디아(황혼)"
 original = "「炊事と掃除を極めると、男は骨抜きになってオチるのだ。なんだウェンディ、そんなことも知らんのか？」"
 translation = "「요리와 청소를 마스터하면 남자는 넋이 나가 넘어오는 법이다. 뭐냐 웬디, 그런 것도 모르는 것이냐?」"
 
 [[dialogue]]
-speaker = "ウェンディ"
+speaker_original = "ウェンディ"
+speaker_translation = "웬디"
 original = "「ちょ、ちょっと待ってください！\u3000理解が追い付かないのですが……え、クラウディア様が家事を──！？」"
 translation = "「저, 잠시만요! 이해가 안 가는데…… 에, 클라우디아 님이 가사를──!?」"
 
 [[dialogue]]
-speaker = "クラウディア（黄昏）"
+speaker_original = "クラウディア（黄昏）"
+speaker_translation = "클라우디아(황혼)"
 original = "「うむ！\u3000りびんぐに、こやつの部屋に、風呂場に……そうそう、<ruby>厠<rt>かわや</rt></ruby>もピカピカにしたのだ！\u3000余に抜かりはないぞ、偉いだろう！」"
 translation = "「음! 거실에, 이 녀석의 방에, 욕실에…… 그래그래, 변소도 반짝반짝하게 만들었다! 여에게 빈틈이란 없다, 기특하지!」"
 
 [[dialogue]]
-speaker = "ウェンディ"
+speaker_original = "ウェンディ"
+speaker_translation = "웬디"
 original = "「会長さん！？\u3000ネビュラの至宝、光の魔女にトイレ掃除をさせるだなんて──な、なんてことを！？」"
 translation = "「회장님!? 네뷸라의 지보, 빛의 마녀에게 화장실 청소를 시키다니── 이, 이런 짓을!?」"
 
 [[dialogue]]
-speaker = "ウェンディ"
+speaker_original = "ウェンディ"
+speaker_translation = "웬디"
 original = "「流石は今代の魔王ッ……神をも恐れぬ所業ですね！？」"
 translation = "「과연 이번 대의 마왕ッ…… 신도 두려워하지 않을 소행이군요!?」"
 
@@ -189,7 +219,8 @@ original = "俺は何も言ってないよ！？"
 translation = "난 아무 말도 안 했다고!?"
 
 [[dialogue]]
-speaker = "ウェンディ"
+speaker_original = "ウェンディ"
+speaker_translation = "웬디"
 original = "「ていうかセドナ長官にどう報告すれば！？」"
 translation = "「그나저나 세드나 장관님께 어떻게 보고를 드려야!?」"
 
@@ -199,17 +230,20 @@ original = "内緒にしよう！！"
 translation = "비밀로 하자!!"
 
 [[dialogue]]
-speaker = "ウェンディ"
+speaker_original = "ウェンディ"
+speaker_translation = "웬디"
 original = "「ひどい！！\u3000また秘密が増えていく！！\u3000もういい加減、私でも庇い切れないですよ！？」"
 translation = "「너무해!! 또 비밀이 늘어나잖아!! 이제 정말 저로서도 감싸드릴 수 없어요!?」"
 
 [[dialogue]]
-speaker = "クラウディア（黄昏）"
+speaker_original = "クラウディア（黄昏）"
+speaker_translation = "클라우디아(황혼)"
 original = "「何なのだ、厠掃除をしたくらいで……ウェンディは大げさすぎるぞ」"
 translation = "「무엇이냐, 화장실 청소 좀 한 거 가지고…… 웬디는 너무 호들갑이구나」"
 
 [[dialogue]]
-speaker = "ウェンディ"
+speaker_original = "ウェンディ"
+speaker_translation = "웬디"
 original = "「大問題なんですってば～！！」"
 translation = "「큰 문제라니까요~~!!」"
 

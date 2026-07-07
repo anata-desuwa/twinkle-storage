@@ -4,12 +4,14 @@ original = "第１話,和菓子は神,P"
 translation = "제1화, 화과자는 신, P"
 
 [[dialogue]]
-speaker = "アナ"
+speaker_original = "アナ"
+speaker_translation = "아나"
 original = "「──ふう」"
 translation = "「──후우」"
 
 [[dialogue]]
-speaker = "アナ"
+speaker_original = "アナ"
+speaker_translation = "아나"
 original = "「会長、そろそろ休憩しましょう。仕事を始めてから２時間以上経過しています。ストレッチをして、少し身体をほぐすべき」"
 translation = "「회장, 슬슬 휴식하죠. 업무를 시작한 지 2시간 이상 경과했습니다. 스트레칭을 해서 조금 몸을 풀어야 함」"
 
@@ -19,47 +21,56 @@ original = "それはアナの経験則？"
 translation = "그건 아나의 경험칙?"
 
 [[dialogue]]
-speaker = "アナ"
+speaker_original = "アナ"
+speaker_translation = "아나"
 original = "「長時間のデスクワークでは、適度な休憩が重要。要ブレイクタイムです」"
 translation = "「장시간의 데스크워크에서는 적절한 휴식이 중요. 브레이크 타임이 필요합니다」"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「そうよ！\u3000そろそろ休憩するべきだわ！」"
 translation = "「맞아! 슬슬 쉬어야 해!」"
 
 [[dialogue]]
-speaker = "アナ"
+speaker_original = "アナ"
+speaker_translation = "아나"
 original = "「前会長。パトロールお疲れ様です。問題はありましたか？」"
 translation = "「전 회장. 순찰 수고하셨습니다. 문제는 있었습니까?」"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「街は平和そのものだったわ！\u3000モンスターもなし、困ってる人もなし、天気もいいし最高の１日ね！」"
 translation = "「거리는 평화 그 자체였어! 몬스터도 없고, 곤란해하는 사람도 없고, 날씨도 좋고 최고의 하루네!」"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「新会長の仕事っぷりはどう？\u3000ちゃんとやってるかしら」"
 translation = "「신임 회장의 업무 솜씨는 어때? 제대로 하고 있으려나」"
 
 [[dialogue]]
-speaker = "アナ"
+speaker_original = "アナ"
+speaker_translation = "아나"
 original = "「ノープロブレム。前会長の頃と比べると私の仕事量は１２０％くらいになりました」"
 translation = "「노 프로블럼. 전 회장 시절과 비교하면 제 업무량은 120% 정도가 되었습니다」"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「増えたの？」"
 translation = "「늘어난 거야?」"
 
 [[dialogue]]
-speaker = "アナ"
+speaker_original = "アナ"
+speaker_translation = "아나"
 original = "「激減。前会長が実質ハンコ係だった頃は５００％を越えていた。それに比べて会長は予算のチェックまでしてくれるので、凄く楽」"
 translation = "「격감. 전 회장이 실질적으로 도장 담당이었을 때는 500%를 넘었음. 그에 비해 회장은 예산 체크까지 해주므로 굉장히 편함」"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「さすがね、会長！\u3000やっぱりあなたに星徒会長を任せて正解だったわ！」"
 translation = "「역시나네, 회장! 역시 당신에게 성도회장을 맡기길 잘했어!」"
 
@@ -69,22 +80,26 @@ original = "ヴィーナス、皮肉って言葉を知ってるか？"
 translation = "비너스, 비꼬는 말이라는 걸 알고 있나?"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「なにそれ！\u3000なんのお肉？」"
 translation = "「그게 뭐야! 무슨 고기야?」"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「そんなことより！\u3000あなたたちにご褒美を持ってきたのよ！」"
 translation = "「그것보다! 당신들에게 줄 포상을 가져왔어!」"
 
 [[dialogue]]
-speaker = "アナ"
+speaker_original = "アナ"
+speaker_translation = "아나"
 original = "「……ご褒美、ですか？」"
 translation = "「……포상, 입니까?」"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「じゃーーーーんっ！」"
 translation = "「쨔잔~!」"
 
@@ -94,77 +109,92 @@ original = "これは……モナカ？"
 translation = "이건…… 모나카?"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「そう、モナカよ。私の親戚の人がよく持ってきてくれるの。私も甘いものは好きだけど、１人じゃ食べきれないからみんなに配ってるわけ」"
 translation = "「그래, 모나카야. 내 친척분이 자주 가져다주시거든. 나도 단것을 좋아하지만 혼자서는 다 못 먹으니까 모두에게 나눠주는 거야」"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「特にアナはこういう和菓子が大好きだから、たまにおすそわけしてるのよ」"
 translation = "「특히 아나는 이런 화과자를 아주 좋아하니까 가끔 나눠주고 있어」"
 
 [[dialogue]]
-speaker = "アナ"
+speaker_original = "アナ"
+speaker_translation = "아나"
 original = "「じゅるり……」"
 translation = "「쥬르륵……」"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「好きなだけ持ってっていいわよ。お屋敷にも山のようにあるから、どんどん食べてちょうだい！」"
 translation = "「원하는 만큼 가져가도 좋아. 저택에도 산더미처럼 있으니까 마음껏 먹어둬!」"
 
 [[dialogue]]
-speaker = "アナ"
+speaker_original = "アナ"
+speaker_translation = "아나"
 original = "「前会長は神、後光が差してる、まぶしい」"
 translation = "「전 회장은 신, 후광이 비침, 눈부심」"
 
 [[dialogue]]
-speaker = "アナ"
+speaker_original = "アナ"
+speaker_translation = "아나"
 original = "「このモナカは餡子？\u3000栗？\u3000……それとも、少し邪道だけど、カスタード？」"
 translation = "「이 모나카는 팥소? 밤? ……아니면 조금 사도지만 커스터드?」"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「餡子じゃないかしら？\u3000いつも餡子だし」"
 translation = "「팥소 아닐까? 항상 팥소였고」"
 
 [[dialogue]]
-speaker = "アナ"
+speaker_original = "アナ"
+speaker_translation = "아나"
 original = "「つぶあん？\u3000こしあん？\u3000まさか、抹茶餡？」"
 translation = "「알갱이 팥소? 고운 팥소? 설마 말차 팥소?」"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「さ、さすがにそこまでわからないけど……。あの人が自分で作ってるものだから市販のものじゃないし……食べてみたらわかるんじゃないの？」"
 translation = "「거, 거기까지는 모르겠지만…… 그분이 직접 만드는 거라 시판되는 게 아니기도 하고…… 먹어보면 알 수 있지 않겠어?」"
 
 [[dialogue]]
-speaker = "アナ"
+speaker_original = "アナ"
+speaker_translation = "아나"
 original = "「モナカの中身によって、用意する飲み物が変わる。この選択を間違えると、せっかくのモナカが台無しになります。事前の準備が重要」"
 translation = "「모나카의 내용물에 따라 준비할 음료가 달라집니다. 이 선택을 틀리면 공들인 모나카를 망치게 됩니다. 사전 준비가 중요」"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「アナの言う通り、お菓子に合わせる飲み物は重要ね！\u3000今からでも中身を聞いてこようかしら？」"
 translation = "「아나 말대로 과자에 맞추는 음료는 중요하지! 지금이라도 내용물을 물어보고 올까?」"
 
 [[dialogue]]
-speaker = "アナ"
+speaker_original = "アナ"
+speaker_translation = "아나"
 original = "「……現会長。みんなのお茶は私が用意するので、１つ食べて中身を確かめて貰えませんか？」"
 translation = "「……현 회장. 모두의 차는 제가 준비할 테니, 하나 먹어서 내용물을 확인해 주시겠습니까?」"
 
 [[dialogue]]
-speaker = "アナ"
+speaker_original = "アナ"
+speaker_translation = "아나"
 original = "「ちなみに、前会長は和菓子の神ですが、こしあんとつぶあんの違いがわかりません」"
 translation = "「참고로 전 회장은 화과자의 신이지만, 고운 팥소와 알갱이 팥소의 차이를 모릅니다」"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「美味しければどちらでもよくない？」"
 translation = "「맛있으면 어느 쪽이든 상관없지 않아?」"
 
 [[dialogue]]
-speaker = "アナ"
+speaker_original = "アナ"
+speaker_translation = "아나"
 original = "「よくありません。由々しき問題です。会長、お願いします」"
 translation = "「상관있습니다. 중대한 문제입니다. 회장, 부탁합니다」"
 
@@ -174,7 +204,8 @@ original = "（モナカを取って食べてみる）"
 translation = "(모나카를 집어 먹어본다)"
 
 [[dialogue]]
-speaker = "アナ"
+speaker_original = "アナ"
+speaker_translation = "아나"
 original = "「──なるほど。それはこしあんの顔ですね」"
 translation = "「──과연. 그건 고운 팥소의 얼굴이군요」"
 
@@ -184,42 +215,50 @@ original = "どんな顔！？\u3000というか合ってる……だと！？"
 translation = "어떤 얼굴인데!? 그보다 맞췄다고……!?"
 
 [[dialogue]]
-speaker = "アナ"
+speaker_original = "アナ"
+speaker_translation = "아나"
 original = "「玄米茶を用意します。少しお待ちください」"
 translation = "「현미차를 준비하겠습니다. 잠시 기다려 주십시오」"
 
 [[dialogue]]
-speaker = "アナ"
+speaker_original = "アナ"
+speaker_translation = "아나"
 original = "「お待たせしました、会長。前会長もどうぞ」"
 translation = "「오래 기다리셨습니다, 회장. 전 회장도 드세요」"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「ありがとう！\u3000和菓子にはアナが用意したお茶が１番合うのよね～」"
 translation = "「고마워! 화과자에는 아나가 준비한 차가 제일 잘 어울린다니까~」"
 
 [[dialogue]]
-speaker = "アナ"
+speaker_original = "アナ"
+speaker_translation = "아나"
 original = "「ではいざ尋常に」"
 translation = "「그럼 정정당당하게」"
 
 [[dialogue]]
-speaker = "アナ"
+speaker_original = "アナ"
+speaker_translation = "아나"
 original = "「はむっ……もぐもぐ……」"
 translation = "「함냐…… 우물우물……」"
 
 [[dialogue]]
-speaker = "アナ"
+speaker_original = "アナ"
+speaker_translation = "아나"
 original = "「────────♥♥♥」"
 translation = "「────────♥♥♥」"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「アナがバグった！？\u3000お、落ち着いて！」"
 translation = "「아나가 버그 났어!? 지, 진정해!」"
 
 [[dialogue]]
-speaker = "アナ"
+speaker_original = "アナ"
+speaker_translation = "아나"
 original = "「すん」"
 translation = "「슥」"
 
@@ -229,17 +268,20 @@ original = "うわぁ！？\u3000急に落ち着くな！"
 translation = "우와앗!? 갑자기 진정하지 마!"
 
 [[dialogue]]
-speaker = "アナ"
+speaker_original = "アナ"
+speaker_translation = "아나"
 original = "「……余りの美味しさに、感動でうち震えてしまった。これはモナカの革命。生地のほうにほのかな甘みを感じる反面、餡子には少しだけ塩味が足されて絶妙な味わいになってる」"
 translation = "「……너무나도 맛있어서 감동으로 몸이 떨려버렸다. 이것은 모나카의 혁명. 피 쪽에는 은은한 단맛이 느껴지는 반면, 팥소에는 약간의 소금기가 더해져 절묘한 맛을 내고 있어」"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「そ、そう。そこまで喜んでくれたなら、あの人も嬉しいと思うわ……」"
 translation = "「그, 그래. 그렇게까지 기뻐해 준다면 그분도 좋아하실 거야……」"
 
 [[dialogue]]
-speaker = "アナ"
+speaker_original = "アナ"
+speaker_translation = "아나"
 original = "「こんな美味しいものをこの世に生み出してくださった、女神テルル様に感謝。アーメン……」"
 translation = "「이런 맛있는 것을 세상에 태어나게 해주신 여신 테루루 님께 감사. 아멘……」"
 

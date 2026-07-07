@@ -4,52 +4,62 @@ original = "第１話,誰の背中を見たい？,P"
 translation = "제1화, 누구의 뒷모습을 보고 싶어?, P"
 
 [[dialogue]]
-speaker = "リア"
+speaker_original = "リア"
+speaker_translation = "리아"
 original = "「そうだね。こういう時は、こういう感じで計画をまとめてあげると──」"
 translation = "「그렇네. 이럴 때는, 이런 느낌으로 계획을 정리해 주면──」"
 
 [[dialogue]]
-speaker = "アナ"
+speaker_original = "アナ"
+speaker_translation = "아나"
 original = "「なるほど……これなら万事上手くいきそうですね」"
 translation = "「과연…… 이렇다면 모든 게 잘 풀릴 것 같네요」"
 
 [[dialogue]]
-speaker = "サーシャ"
+speaker_original = "サーシャ"
+speaker_translation = "사샤"
 original = "「必要経費も当初の想定より削減できるわ～。どうにもお財布事情が厳しくて困っていたところだったの～」"
 translation = "「필요 경비도 당초 예상보다 삭감할 수 있겠어~. 아무래도 지갑 사정이 엄격해서 곤란하던 참이었단다~」"
 
 [[dialogue]]
-speaker = "マトイ"
+speaker_original = "マトイ"
+speaker_translation = "마토이"
 original = "「議事録のまとめ方もわかりやすいです！\u3000リア先輩って、なんでもできちゃうんですね！」"
 translation = "「의사록 정리 방식도 알기 쉬워요! 리아 선배는, 뭐든 다 할 수 있으시군요!」"
 
 [[dialogue]]
-speaker = "リア"
+speaker_original = "リア"
+speaker_translation = "리아"
 original = "「えっへん、先輩ですもの♪\u3000このくらい朝飯前だよ～」"
 translation = "「엣헴, 선배니까 말이야♪ 이 정도는 식은 죽 먹기야~」"
 
 [[dialogue]]
-speaker = "リア"
+speaker_original = "リア"
+speaker_translation = "리아"
 original = "「他にも相談があればなんでも聞いて？\u3000元の世界に戻れるようになるまで私も暇しちゃってるから」"
 translation = "「다른 상담이 있으면 뭐든 물어봐 주련? 원래 세계로 돌아갈 수 있게 될 때까지 나도 한가하니까 말이야」"
 
 [[dialogue]]
-speaker = "アナ"
+speaker_original = "アナ"
+speaker_translation = "아나"
 original = "「とても助かります。いつもは、その……。その場の勢いで突き進むことが多いので……」"
 translation = "「정말 도움이 됩니다. 평소에는, 그게…… 그 자리의 기세로 밀어붙이는 경우가 많아서……」"
 
 [[dialogue]]
-speaker = "サーシャ"
+speaker_original = "サーシャ"
+speaker_translation = "사샤"
 original = "「計画を立てる前にもう少し予算のことも考えてもらえると嬉しいんだけどね……」"
 translation = "「계획을 세우기 전에 조금만 더 예산에 대해서도 생각해 주면 기쁘겠는데 말이야~……」"
 
 [[dialogue]]
-speaker = "マトイ"
+speaker_original = "マトイ"
+speaker_translation = "마토이"
 original = "「会議でメモした内容がそのまま反映されそうなのって久しぶりだなぁ……」"
 translation = "「회의에서 메모한 내용이 그대로 반영될 것 같은 건 오랜만이네……」"
 
 [[dialogue]]
-speaker = "リア"
+speaker_original = "リア"
+speaker_translation = "리아"
 original = "「な、なんだか大変そうだね？」"
 translation = "「어, 어쩐지 고생이 많나 보네?」"
 
@@ -59,67 +69,80 @@ original = "まぁ、ええと……"
 translation = "뭐, 에또……"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「ちょっと！\u3000どうしてそこで私を見るのよ！？\u3000悪かったわね、いつも雑に計画立てちゃったりして！」"
 translation = "「잠깐! 왜 거기서 나를 보는 거야!? 미안하게 됐네, 맨날 대충 계획 세우고 그래서!」"
 
 [[dialogue]]
-speaker = "マトイ"
+speaker_original = "マトイ"
+speaker_translation = "마토이"
 original = "「ヴィーナスはその時のテンションだけで生きてるもんね～」"
 translation = "「비너스는 그때의 텐션만으로 살고 있으니까~」"
 
 [[dialogue]]
-speaker = "サーシャ"
+speaker_original = "サーシャ"
+speaker_translation = "사샤"
 original = "「でもでも私はヴィーナスちゃんのそういうところ好きよ～♪」"
 translation = "「하지만 하지만 나는 비너스 짱의 그런 점을 좋아한단다~♪」"
 
 [[dialogue]]
-speaker = "アナ"
+speaker_original = "アナ"
+speaker_translation = "아나"
 original = "「それにしても、あったんですね……自覚。意外です……」"
 translation = "「그나저나, 있었군요…… 자각. 의외입니다……」"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「ぶふっ！？\u3000アナの言葉が一番心を抉ってくるわ……。普段なんでも即答で乗っかってくれてるだけにダメージが……」"
 translation = "「부훗!? 아나의 말이 제일 마음을 후벼파네……. 평소에 뭐든 즉답으로 따라와 줬던 만큼 대미지가……」"
 
 [[dialogue]]
-speaker = "リア"
+speaker_original = "リア"
+speaker_translation = "리아"
 original = "「よしよし、大丈夫だよ～。無計画に計画を立てられるのも、それはそれで立派な才能だから♪\u3000特にヴィーナスちゃんはみんなを引っ張って突き進んでいく立場だから」"
 translation = "「착하지 착해, 괜찮단다~. 무계획하게 계획을 세우는 것도, 그건 그것대로 훌륭한 재능이니까♪ 특히 비너스 짱은 모두를 이끌고 나가는 입장이니까 말이야」"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「そ、そうよね！\u3000私は間違ってないわよねっ？」"
 translation = "「그, 그렇지! 나는 틀리지 않았지?」"
 
 [[dialogue]]
-speaker = "リア"
+speaker_original = "リア"
+speaker_translation = "리아"
 original = "「うんうん♪\u3000そのまま自分の道を突き進むのがいいと思うよ♪」"
 translation = "「응응♪ 그대로 자신의 길을 나아가는 게 좋다고 생각해♪」"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「ありがとう、リアさん……！\u3000おかげで目が覚めたわ！」"
 translation = "「고마워요, 리아 씨……! 덕분에 정신이 들었어!」"
 
 [[dialogue]]
-speaker = "マトイ"
+speaker_original = "マトイ"
+speaker_translation = "마토이"
 original = "「思えば大変だったもんね～。ヴィーナスの会長時代は」"
 translation = "「생각해 보면 힘들었지~. 비너스의 회장 시절은」"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「話がまとまりそうなのに、ほじくり返さないで！？\u3000いいでしょ昔の話は！」"
 translation = "「이야기가 잘 정리되려는데, 다시 들추지 마!? 됐잖아 옛날이야기는!」"
 
 [[dialogue]]
-speaker = "サーシャ"
+speaker_original = "サーシャ"
+speaker_translation = "사샤"
 original = "「あらあら、ヴィーナスちゃんがツッコミに回るなんて珍しいわね」"
 translation = "「어머어머, 비너스 짱이 태클을 걸다니 드문 일이네」"
 
 [[dialogue]]
-speaker = "アナ"
+speaker_original = "アナ"
+speaker_translation = "아나"
 original = "「マトイ先輩はいつも前会長に振り回されていますから。これが下克上というヤツでしょうか」"
 translation = "「마토이 선배는 항상 전 회장님에게 휘둘리고 계시니까요. 이것이 하극상이라는 녀석일까요」"
 
@@ -129,77 +152,92 @@ original = "ああもうリア先輩が来てくれてるのに"
 translation = "아아 정말 리아 선배가 와 계시는데"
 
 [[dialogue]]
-speaker = "リア"
+speaker_original = "リア"
+speaker_translation = "리아"
 original = "「ふふ、気にしなくていいよ。見ていて微笑ましいから」"
 translation = "「후후, 신경 쓰지 않아도 돼. 보고 있으면 흐뭇하니까」"
 
 [[dialogue]]
-speaker = "リア"
+speaker_original = "リア"
+speaker_translation = "리아"
 original = "「むしろ会長さんは、輪の中に入っていかないとダメだゾ？\u3000生徒会長こそ役員のみんなとう～んと仲良しにならなきゃ。ね？」"
 translation = "「오히려 회장님은, 원 안으로 들어가지 않으면 안 된다구? 학생회장이야말로 임원 모두와 아~주 친해져야지. 그치?」"
 
 [[dialogue]]
-speaker = "リア"
+speaker_original = "リア"
+speaker_translation = "리아"
 original = "「それとも、ふふふ。みんなより私と仲良くなりたいって話かな～？\u3000それはそれで嬉しいけど♪」"
 translation = "「아니면, 후후후. 모두보다 나랑 친해지고 싶다는 이야기일까나~? 그건 그것대로 기쁘지만♪」"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「む。まさかクロトも私に何か文句があるのかしら？\u3000リアさんが前会長なら良かったのに～とか思ってないでしょうね？」"
 translation = "「무. 설마 쿠로토도 나한테 뭔가 불만이 있는 거야? 리아 씨가 전 회장이었으면 좋았을 텐데~ 하고 생각하는 건 아니겠지?」"
 
 [[dialogue]]
-speaker = "アナ"
+speaker_original = "アナ"
+speaker_translation = "아나"
 original = "「よく考えると、この場には三人も会長職を辞した役員がいらっしゃるんですよね。やはり誰が会長職に就くかによって星徒会の雰囲気も変わるのでしょうか」"
 translation = "「잘 생각해보니, 이 자리에는 세 분이나 회장직을 물러난 임원분들이 계시는군요. 역시 누가 회장직을 맡느냐에 따라 성도회의 분위기도 바뀌는 것일까요」"
 
 [[dialogue]]
-speaker = "マトイ"
+speaker_original = "マトイ"
+speaker_translation = "마토이"
 original = "「サーシャさんが会長をしてる時なんか楽しそうだよね。きっと、とても穏やかで過ごしやすい空間だったんだろうなぁ」"
 translation = "「사샤 씨가 회장을 하고 있을 때 같은 건 즐거워 보여. 분명, 아주 온화하고 지내기 편한 공간이었겠지」"
 
 [[dialogue]]
-speaker = "サーシャ"
+speaker_original = "サーシャ"
+speaker_translation = "사샤"
 original = "「あらあら、うふふ。嬉しいこと言ってくれるわね～。お返しにぎゅ～ってしてあげるわ～♪」"
 translation = "「어머어머, 우후후. 기쁜 말을 해주네~. 답례로 꽉~ 안아줄게~♪」"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「……ちょっと待って、マトイ。それは暗に私の会長時代は、とても慌ただしくて過ごしづらかったと言っているのかしら？」"
 translation = "「……잠깐 기다려, 마토이. 그건 은연중에 내 회장 시절은, 아주 어수선하고 지내기 힘들었다고 말하는 거니?」"
 
 [[dialogue]]
-speaker = "アナ"
+speaker_original = "アナ"
+speaker_translation = "아나"
 original = "「私はリア先輩の下で働いてみたいです。手取り足取り優しく教えていただきながら、副会長としての能力を伸ばしていただけそうなので」"
 translation = "「저는 리아 선배 밑에서 일해보고 싶습니다. 하나하나 상냥하게 가르침을 받으면서, 부회장으로서의 능력을 키워주실 것 같아서요」"
 
 [[dialogue]]
-speaker = "リア"
+speaker_original = "リア"
+speaker_translation = "리아"
 original = "「あはは、それは買いかぶり過ぎだよ～♪\u3000私もみんなとワイワイ楽しくするのが好きだから。イベント事とかサプライズとかも大好きだし。結構振り回しちゃうタイプかも♪」"
 translation = "「아하하, 그건 너무 과대평가야~♪ 나도 모두와 왁자지껄 즐겁게 하는 걸 좋아하니까. 이벤트나 서프라이즈 같은 것도 아주 좋아하고. 꽤 휘두르는 타입일지도♪」"
 
 [[dialogue]]
-speaker = "マトイ"
+speaker_original = "マトイ"
+speaker_translation = "마토이"
 original = "「緋宮くんはどうなの？\u3000この三人の中で、もう一度会長になってもらうなら誰がいいとかある？」"
 translation = "「히노미야 군은 어때? 이 세 명 중에서, 다시 한번 회장이 되어주길 바란다면 누가 좋아?」"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「もちろん私よねっ？\u3000クロトは私のカリスマ性と時たま見せる面倒見の良さにぞっこんのはずだわ」"
 translation = "「당연히 나지? 쿠로토는 나의 카리스마와 이따금 보여주는 다정함에 푹 빠져있을 게 뻔해」"
 
 [[dialogue]]
-speaker = "サーシャ"
+speaker_original = "サーシャ"
+speaker_translation = "사샤"
 original = "「クロトくんが助けてくれるのなら楽ちんそうね～。星徒会業務だけじゃなくて身の回りのお世話もお願いしちゃうそうだわ～。お家にまで連れ帰っちゃうかも～」"
 translation = "「쿠로토 군이 도와준다면 편할 것 같네~. 성도회 업무뿐만 아니라 신변 잡일도 부탁해버릴 것 같단다~. 집에까지 데려가버릴지도 몰라~」"
 
 [[dialogue]]
-speaker = "リア"
+speaker_original = "リア"
+speaker_translation = "리아"
 original = "「くすくす。後輩として入ってくるなら私も容赦しないゾ♪\u3000みっちりこき使っちゃってあげようかな～♪」"
 translation = "「쿠스쿠스. 후배로서 들어온다면 나도 용서하지 않을 거라구♪ 아주 꽉 잡고 부려먹어 줄까나~♪」"
 
 [[dialogue]]
-speaker = "マトイ"
+speaker_original = "マトイ"
+speaker_translation = "마토이"
 original = "「元会長さんたちはこう言ってるけど、どうかな？」"
 translation = "「전 회장님들은 이렇게 말하고 있는데, 어때?」"
 
@@ -214,7 +252,8 @@ original = "断然リア先輩"
 translation = "단연 리아 선배"
 
 [[dialogue]]
-speaker = "リア"
+speaker_original = "リア"
+speaker_translation = "리아"
 original = "「ええっ！？\u3000そ、そんなに私にこき使われたいんだ……？\u3000冗談で言ったつもりだったんだけど……（汗）」"
 translation = "「에엣!? 그, 그렇게 나한테 부려먹히고 싶은 거야……? 농담으로 한 말이었는데……(땀)」"
 
@@ -224,12 +263,14 @@ original = "会長として自分はまだまだ未熟なので"
 translation = "회장으로서 자신은 아직 미숙하니까"
 
 [[dialogue]]
-speaker = "リア"
+speaker_original = "リア"
+speaker_translation = "리아"
 original = "「な～んだ。私の格好いい背中を見て学びたいって話だったんだね♪」"
 translation = "「뭐야~. 나의 멋진 뒷모습을 보고 배우고 싶다는 이야기였구나♪」"
 
 [[dialogue]]
-speaker = "リア"
+speaker_original = "リア"
+speaker_translation = "리아"
 original = "「しょうがないな～。そういうことなら特別にリアお姉さんが教えてあげるっ」"
 translation = "「어쩔 수 없네~. 그런 거라면 특별히 리아 언니가 가르쳐줄게」"
 
@@ -239,22 +280,26 @@ original = "はい！"
 translation = "네!"
 
 [[dialogue]]
-speaker = "リア"
+speaker_original = "リア"
+speaker_translation = "리아"
 original = "「よしよし、良い返事だぞ～。って、こ～ら。ネクタイが曲がってるよ？\u3000生徒会長なら身だしなみに気を付けなきゃダーメ」"
 translation = "「옳지 옳지, 대답 잘하네~. 어라, 이~놈. 넥타이가 삐뚤어졌잖아? 학생회장이라면 옷차림에 신경 써야지, 안~ 돼」"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「……ああ、私のクロトがなんだかリアさんに盗られちゃいそうだわ」"
 translation = "「……아아, 나의 쿠로토가 왠지 리아 씨에게 빼앗겨버릴 것 같아」"
 
 [[dialogue]]
-speaker = "サーシャ"
+speaker_original = "サーシャ"
+speaker_translation = "사샤"
 original = "「ふふ、大丈夫よ～。クロトくんはヴィーナスちゃんのためにもリアちゃんに教えを請いたがってるんだと思うわ」"
 translation = "「후후, 괜찮단다~. 쿠로토 군은 비너스 짱을 위해서라도 리아 짱에게 가르침을 청하고 싶어 하는 거라고 생각해」"
 
 [[dialogue]]
-speaker = "リア"
+speaker_original = "リア"
+speaker_translation = "리아"
 original = "「よーし。それじゃあ、まずはみんなでお茶会だね！\u3000みんなと親睦を深めることが、良い生徒会長になるための第一歩だから♪」"
 translation = "「좋아~. 그럼, 우선은 다 같이 다과회네! 모두와 친목을 다지는 것이, 좋은 학생회장이 되기 위한 첫걸음이니까♪」"
 

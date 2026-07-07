@@ -1,65 +1,78 @@
 [[dialogue]]
-speaker = "キサナ"
+speaker_original = "キサナ"
+speaker_translation = "키사나"
 original = "「あー、つまんねー……。どこを探しても星騎士どももいやがらねえし……」"
 translation = "「아── 심심해 죽겠네……. 어딜 뒤져봐도 성기사 놈들은 보이지도 않고……」"
 
 [[dialogue]]
-speaker = "キサナ"
+speaker_original = "キサナ"
+speaker_translation = "키사나"
 original = "「ビビって隠れちまったか？\u3000やっぱ直接学園に乗り込んでいきゃあ良かったか？」"
 translation = "「쫄아서 숨어버린 건가? 역시 직접 학원에 쳐들어가는 게 좋았으려나?」"
 
 [[dialogue]]
-speaker = "キサナ"
+speaker_original = "キサナ"
+speaker_translation = "키사나"
 original = "「けどカチコミはやめとけっつわれてるしな……ったく、面倒な注文付けやがって……」"
 translation = "「하지만 쳐들어가는 건 참으라는 소릴 들었으니 말이야…… 나 원 참, 귀찮은 주문이나 하고……」"
 
 [[dialogue]]
-speaker = "キサナ"
+speaker_original = "キサナ"
+speaker_translation = "키사나"
 original = "「あー、かったりぃ。この辺、酒場とかないのかねぇ。賭けカードができる店とかあると退屈しねえんだが……」"
 translation = "「아── 나른해. 이 근처에 술집 같은 건 없나. 카드 도박이라도 할 수 있는 가게가 있으면 안 심심할 텐데……」"
 
 [[dialogue]]
-speaker = "キサナ"
+speaker_original = "キサナ"
+speaker_translation = "키사나"
 original = "「つーかアタシはどこで寝りゃあいいんだよ。まぁその辺の空き家にでも転がり込むか……」"
 translation = "「그보다 난 어디서 자야 하냐고. 뭐 근처 빈집에라도 굴러들어갈까……」"
 
 [[dialogue]]
-speaker = "ミア"
+speaker_original = "ミア"
+speaker_translation = "미아"
 original = "「見つけたわよっ！」"
 translation = "「찾아냈다!」"
 
 [[dialogue]]
-speaker = "キサナ"
+speaker_original = "キサナ"
+speaker_translation = "키사나"
 original = "「あぁ……？\u3000誰かと思えば昼間のチビガキと魔王じゃねえか。わりぃがよ、今から寝るトコなんだわ」"
 translation = "「아앙? 누구인가 했더니 낮에 본 꼬맹이랑 마왕이잖아. 미안하지만 말이야, 지금부터 잘 참이었다고」"
 
 [[dialogue]]
-speaker = "ミア"
+speaker_original = "ミア"
+speaker_translation = "미아"
 original = "「なっ……！？\u3000戦うつもりはないってこと！？\u3000ふざけないでっ！」"
 translation = "「뭐……!? 싸울 생각이 없다는 거야!? 장난하지 마!」"
 
 [[dialogue]]
-speaker = "キサナ"
+speaker_original = "キサナ"
+speaker_translation = "키사나"
 original = "「ハハァ、ふざけてんのはテメエの方だろ。誰が寝るから戦わねえっつったよ？」"
 translation = "「하하, 장난하는 건 네놈 쪽이지. 누가 잔다고 안 싸운다고 했냐?」"
 
 [[dialogue]]
-speaker = "キサナ"
+speaker_original = "キサナ"
+speaker_translation = "키사나"
 original = "「その逆だ！」"
 translation = "「그 반대다!」"
 
 [[dialogue]]
-speaker = "ミア"
+speaker_original = "ミア"
+speaker_translation = "미아"
 original = "「ぐっ……！？」"
 translation = "「윽……!?」"
 
 [[dialogue]]
-speaker = "キサナ"
+speaker_original = "キサナ"
+speaker_translation = "키사나"
 original = "「わざわざやられに来てくれるとは思ってなかったぜ！\u3000やり残しなくスッキリ寝られそうじゃねえか！」"
 translation = "「일부러 당해주러 올 줄은 몰랐군! 미련 없이 개운하게 잘 수 있겠는데!」"
 
 [[dialogue]]
-speaker = "ミア"
+speaker_original = "ミア"
+speaker_translation = "미아"
 original = "「眠りたいならいくらでも眠らせてあげるわ！\u3000ただし、冷たい檻の中でね！」"
 translation = "「잠들고 싶다면 얼마든지 잠들게 해주겠어! 다만, 차가운 감옥 안에서 말이야!」"
 
@@ -69,37 +82,44 @@ original = "お前はここで捕まえる！"
 translation = "너는 여기서 붙잡겠다!"
 
 [[dialogue]]
-speaker = "キサナ"
+speaker_original = "キサナ"
+speaker_translation = "키사나"
 original = "「ハハハッ、攻撃が軽いなァ！\u3000２人がかりでそれかよォ！\u3000もっと人数引き連れてこりゃ良かったんじゃねえかァ、おい！」"
 translation = "「하하하, 공격이 가볍구만! 둘이 덤벼서 고작 그거냐! 인원을 더 끌고 오는 게 좋지 않았겠냐, 어이!」"
 
 [[dialogue]]
-speaker = "ミア"
+speaker_original = "ミア"
+speaker_translation = "미아"
 original = "「きゃあっ！\u3000あ、あんたなんか私と会長さんだけで十分よっ。星力を打ち消すその力、弱点はもう見抜いてるんだからっ」"
 translation = "「꺄악! 다, 당신 같은 건 나랑 회장님만으로도 충분해. 성력을 무효화하는 그 힘, 약점은 이미 간파했으니까」"
 
 [[dialogue]]
-speaker = "キサナ"
+speaker_original = "キサナ"
+speaker_translation = "키사나"
 original = "「へえ、面白えこと言うじゃねえの。アタシの力の弱点だ？」"
 translation = "「헤에, 재밌는 소릴 하는구만. 내 힘의 약점?」"
 
 [[dialogue]]
-speaker = "ミア"
+speaker_original = "ミア"
+speaker_translation = "미아"
 original = "「考えてみれば簡単なことよ。その力、正面からの攻撃しか打ち消せないんでしょ？\u3000だからあなたは孤立した星騎士ばかりを狙って襲撃した」"
 translation = "「생각해보면 간단한 일이야. 그 힘, 정면에서의 공격밖에 못 지우지? 그래서 당신은 고립된 성기사만 골라서 습격한 거야」"
 
 [[dialogue]]
-speaker = "ミア"
+speaker_original = "ミア"
+speaker_translation = "미아"
 original = "「私の攻撃を逃げずに受け止めた時だってそう。正面なら無力化できるからだったんでしょう？」"
 translation = "「내 공격을 피하지 않고 받아냈을 때도 그래. 정면이라면 무력화할 수 있기 때문이었지?」"
 
 [[dialogue]]
-speaker = "ミア"
+speaker_original = "ミア"
+speaker_translation = "미아"
 original = "「極めつけはモンスターが現れた時よ。圧倒的に有利な立場だったのにあなたは逃げだした。モンスターの相手をしてる間に背後から攻撃されることを嫌ったんだわ」"
 translation = "「결정적인 건 몬스터가 나타났을 때야. 압도적으로 유리한 상황이었는데도 당신은 도망쳤어. 몬스터를 상대하는 동안 등 뒤에서 공격받는 걸 꺼린 거야」"
 
 [[dialogue]]
-speaker = "キサナ"
+speaker_original = "キサナ"
+speaker_translation = "키사나"
 original = "「ククク、なら試してみろよ。アタシの背後が取れるってならな」"
 translation = "「크크크, 그럼 시험해봐라. 내 뒤를 잡을 수 있다면 말이다」"
 
@@ -109,22 +129,26 @@ original = "ミア……"
 translation = "미아……"
 
 [[dialogue]]
-speaker = "ミア"
+speaker_original = "ミア"
+speaker_translation = "미아"
 original = "「私を信じて会長さん」"
 translation = "「저를 믿으세요, 회장님」"
 
 [[dialogue]]
-speaker = "ミア"
+speaker_original = "ミア"
+speaker_translation = "미아"
 original = "「間違ってはいない、はずよ。もしも間違っていたら、その時は私が……」"
 translation = "「틀리지 않았을 거야. 만약 틀렸다면 그때는 내가……」"
 
 [[dialogue]]
-speaker = "キサナ"
+speaker_original = "キサナ"
+speaker_translation = "키사나"
 original = "「くっちゃべってねえでかかって来い！\u3000来ねえならこっちから行くぜっ！」"
 translation = "「수다 떨지 말고 덤벼라! 안 오면 이쪽에서 간다!」"
 
 [[dialogue]]
-speaker = "ミア"
+speaker_original = "ミア"
+speaker_translation = "미아"
 original = "「くっ……！\u3000とにかく会長さん、作戦通りにっ……！」"
 translation = "「큭……! 어쨌든 회장님, 작전대로……!」"
 
@@ -134,52 +158,62 @@ original = "わかった、俺が隙を作る！"
 translation = "알았어, 내가 틈을 만들게!"
 
 [[dialogue]]
-speaker = "キサナ"
+speaker_original = "キサナ"
+speaker_translation = "키사나"
 original = "「ハッ、魔王が相手してる間にチビが後ろから攻撃ってか！」"
 translation = "「하, 마왕이 상대하는 동안 꼬맹이가 뒤에서 공격하겠다는 거냐!」"
 
 [[dialogue]]
-speaker = "キサナ"
+speaker_original = "キサナ"
+speaker_translation = "키사나"
 original = "「いいぜ、来いよ！\u3000チビガキ程度、いつでも返り討ちにしてやるぜ！」"
 translation = "「좋다, 와라! 꼬맹이 정도는 언제든 역전시켜주지!」"
 
 [[dialogue]]
-speaker = "ミア"
+speaker_original = "ミア"
+speaker_translation = "미아"
 original = "「まだよ、ミア。焦っちゃダメ。会長さんなら必ず隙を作ってくれる」"
 translation = "「아직이야, 미아. 서두르면 안 돼. 회장님이라면 반드시 틈을 만들어줄 거야」"
 
 [[dialogue]]
-speaker = "ミア"
+speaker_original = "ミア"
+speaker_translation = "미아"
 original = "「でも、もしも私の予想が間違っていたら──……っっ。ダメ、弱気になっちゃ」"
 translation = "「하지만 만약 내 예상이 틀렸다면── ……윽. 안 돼, 약해지면」"
 
 [[dialogue]]
-speaker = "ミア"
+speaker_original = "ミア"
+speaker_translation = "미아"
 original = "「ママ、パパ、力を貸して……。恐怖に打ち克つ勇気をちょうだい……！」"
 translation = "「엄마, 아빠, 힘을 빌려주세요……. 공포를 이겨낼 용기를 주세요……!」"
 
 [[dialogue]]
-speaker = "ミア"
+speaker_original = "ミア"
+speaker_translation = "미아"
 original = "「っっ！\u3000今よっ！」"
 translation = "「윽! 지금이야!」"
 
 [[dialogue]]
-speaker = "キサナ"
+speaker_original = "キサナ"
+speaker_translation = "키사나"
 original = "「チッ……！」"
 translation = "「치……!」"
 
 [[dialogue]]
-speaker = "ミア"
+speaker_original = "ミア"
+speaker_translation = "미아"
 original = "「取ったっ！！」"
 translation = "「잡았다!!」"
 
 [[dialogue]]
-speaker = "キサナ"
+speaker_original = "キサナ"
+speaker_translation = "키사나"
 original = "「残念だったなァ！\u3000アタシの力は正面からとか関係ねえんだよ！」"
 translation = "「유감이었네! 내 힘은 정면 같은 거랑 상관없거든!」"
 
 [[dialogue]]
-speaker = "ミア"
+speaker_original = "ミア"
+speaker_translation = "미아"
 original = "「うぐっ……！！？」"
 translation = "「으윽……!!?」"
 
@@ -189,157 +223,188 @@ original = "ミア！"
 translation = "미아!"
 
 [[dialogue]]
-speaker = "キサナ"
+speaker_original = "キサナ"
+speaker_translation = "키사나"
 original = "「おっと動くなよォ。少しでも動いたらガキの腹に風穴空けてやんぜ？」"
 translation = "「어이 움직이지 마라. 조금이라도 움직이면 꼬맹이 배에 구멍을 내줄 테니까」"
 
 [[dialogue]]
-speaker = "ミア"
+speaker_original = "ミア"
+speaker_translation = "미아"
 original = "「ぐあっ……」"
 translation = "「으악……」"
 
 [[dialogue]]
-speaker = "キサナ"
+speaker_original = "キサナ"
+speaker_translation = "키사나"
 original = "「とんだ迷推理だったなァ、チビガキィ」"
 translation = "「어처구니없는 미추리였구만, 꼬맹아」"
 
 [[dialogue]]
-speaker = "キサナ"
+speaker_original = "キサナ"
+speaker_translation = "키사나"
 original = "「ま、めげずに挑んできたことだけは褒めてやんよ。ご褒美に二度と戦えなくなる程度で済ましてやる」"
 translation = "「뭐, 굴하지 않고 덤벼온 것만큼은 칭찬해주마. 보상으로 다시는 싸울 수 없게 만드는 정도로 끝내주지」"
 
 [[dialogue]]
-speaker = "キサナ"
+speaker_original = "キサナ"
+speaker_translation = "키사나"
 original = "「今回は挨拶が目的だとか言われてるしな。ここらでアタシも──」"
 translation = "「이번엔 인사가 목적이라는 소릴 들었으니 말이야. 이쯤에서 나도──」"
 
 [[dialogue]]
-speaker = "キサナ"
+speaker_original = "キサナ"
+speaker_translation = "키사나"
 original = "「熱ッ！\u3000なんだ、このガキ。妙に体がアチいぞ？」"
 translation = "「앗 뜨거! 뭐야 이 꼬맹이. 묘하게 몸이 뜨거운데?」"
 
 [[dialogue]]
-speaker = "ミア"
+speaker_original = "ミア"
+speaker_translation = "미아"
 original = "「熱い、と言ったわね……」"
 translation = "「뜨겁다고 했지……」"
 
 [[dialogue]]
-speaker = "キサナ"
+speaker_original = "キサナ"
+speaker_translation = "키사나"
 original = "「あァ？」"
 translation = "「아앙?」"
 
 [[dialogue]]
-speaker = "ミア"
+speaker_original = "ミア"
+speaker_translation = "미아"
 original = "「やっぱり思った通り、だったわ……」"
 translation = "「역시 생각했던 대로였어……」"
 
 [[dialogue]]
-speaker = "ミア"
+speaker_original = "ミア"
+speaker_translation = "미아"
 original = "「あなたのその力……打ち消せる星力には限界があった、ようね……」"
 translation = "「당신의 그 힘…… 무효화할 수 있는 성력에는 한계가 있었나 보네……」"
 
 [[dialogue]]
-speaker = "キサナ"
+speaker_original = "キサナ"
+speaker_translation = "키사나"
 original = "「ッ！？\u3000テメエ、何しやがった！？」"
 translation = "「윽!? 네놈, 무슨 짓을 한 거냐!?」"
 
 [[dialogue]]
-speaker = "ミア"
+speaker_original = "ミア"
+speaker_translation = "미아"
 original = "「ぐふっ、ゴホゴホっ。あなたが、言ったのよ……。私の攻撃を受け止めた時に……」"
 translation = "「으후, 콜록콜록. 당신이 말했잖아……. 내 공격을 받아냈을 때……」"
 
 [[dialogue]]
-speaker = "キサナ"
+speaker_original = "キサナ"
+speaker_translation = "키사나"
 original = "「貧相な見た目の割には大した星力だが、所詮こんなもんか。腹の半分にも足りねえ」"
 translation = "「빈약한 겉모습치고는 제법인 성력이지만, 결국 이 정도냐. 배의 반도 안 차겠어」"
 
 [[dialogue]]
-speaker = "ミア"
+speaker_original = "ミア"
+speaker_translation = "미아"
 original = "「腹の半分にも足りない……あれは力の容量を意識した発言だったのよ」"
 translation = "「배의 반도 안 찬다…… 그건 힘의 용량을 의식한 발언이었던 거야」"
 
 [[dialogue]]
-speaker = "ミア"
+speaker_original = "ミア"
+speaker_translation = "미아"
 original = "「私も少ない力をやりくりして使ってるからわかるの……。私の場合、逆に体に熱を溜めに溜めて力を高める使い方をしているけれどね……」"
 translation = "「나도 적은 힘을 쪼개서 쓰고 있으니까 알 수 있어……. 내 경우엔 반대로 몸에 열을 모으고 모아서 힘을 높이는 방식을 쓰고 있지만……」"
 
 [[dialogue]]
-speaker = "キサナ"
+speaker_original = "キサナ"
+speaker_translation = "키사나"
 original = "「まさかテメエ……さっきの迷推理はブラフか？\u3000アタシに近づくためだけに？\u3000そのチンケな熱でアタシの力を消耗させる気で……」"
 translation = "「설마 네놈…… 아까 그 미추리는 미끼였냐? 나한테 접근하기 위해서만? 그 쥐꼬리만 한 열로 내 힘을 소모시킬 생각으로……」"
 
 [[dialogue]]
-speaker = "キサナ"
+speaker_original = "キサナ"
+speaker_translation = "키사나"
 original = "「アタシがその気だったら死んでんぞ？\u3000わかってんのか？」"
 translation = "「내가 마음만 먹었으면 넌 죽었다고? 알고는 있는 거냐?」"
 
 [[dialogue]]
-speaker = "ミア"
+speaker_original = "ミア"
+speaker_translation = "미아"
 original = "「肉を切らせて骨を断つ、虎穴に入らずんば虎児を得ず、よ……。覚えて、おきなさいっ……！」"
 translation = "「살을 주고 뼈를 깎는다, 호랑이 굴에 들어가지 않으면 호랑이 새끼를 잡을 수 없다, 야……. 기억해 두라고……!」"
 
 [[dialogue]]
-speaker = "キサナ"
+speaker_original = "キサナ"
+speaker_translation = "키사나"
 original = "「ククク、ハッハァッ！\u3000いいぜ、ビビり散らかしてた昼間のガキとは別人じゃねえか！」"
 translation = "「크크크, 하하핫! 좋군, 겁에 질려 떨던 낮의 꼬맹이랑은 딴판이잖아!」"
 
 [[dialogue]]
-speaker = "キサナ"
+speaker_original = "キサナ"
+speaker_translation = "키사나"
 original = "「だがこっからどうするんだ！？\u3000テメエも魔王もズタボロじゃねえか！」"
 translation = "「하지만 여기서 어쩔 거냐!? 네놈도 마왕도 엉망진창이잖아!」"
 
 [[dialogue]]
-speaker = "キサナ"
+speaker_original = "キサナ"
+speaker_translation = "키사나"
 original = "「弱ったテメエら２人くらい今のアタシでもぶちのめせるぜ！\u3000逃げるだけならもっと簡単だ！」"
 translation = "「기운 빠진 네놈들 둘 정도는 지금의 나로도 충분히 박살 낼 수 있다고! 도망치는 거라면 더 쉽고!」"
 
 [[dialogue]]
-speaker = "ミア"
+speaker_original = "ミア"
+speaker_translation = "미아"
 original = "「私たち２人だけなら──ね」"
 translation = "「우리 둘뿐이라면── 그렇겠지」"
 
 [[dialogue]]
-speaker = "エリス"
+speaker_original = "エリス"
+speaker_translation = "에리스"
 original = "「はあああああああっっ──！！」"
 translation = "「하아아아아아앗──!!」"
 
 [[dialogue]]
-speaker = "キサナ"
+speaker_original = "キサナ"
+speaker_translation = "키사나"
 original = "「ぐあっ！？」"
 translation = "「으악!?」"
 
 [[dialogue]]
-speaker = "エリス"
+speaker_original = "エリス"
+speaker_translation = "에리스"
 original = "「大丈夫ですか、ミアさん……！\u3000やはり囮役は私か会長さんがするべきだったのでは……」"
 translation = "「괜찮으신가요, 미아 씨……! 역시 미끼 역할은 저나 회장님이 했어야 했던 게 아닌지……」"
 
 [[dialogue]]
-speaker = "ミア"
+speaker_original = "ミア"
+speaker_translation = "미아"
 original = "「ダメ、ですよ……。これはあの子が私を子どもだって舐めてるからこその作戦なんですから……」"
 translation = "「안 돼요……. 이건 그 애가 저를 어린애라고 얕보고 있었기 때문에 통하는 작전이었으니까요……」"
 
 [[dialogue]]
-speaker = "ミア"
+speaker_original = "ミア"
+speaker_translation = "미아"
 original = "「それに私より強い２人を消耗させちゃったら本末転倒です……。こういうのは、一番戦力にならない人間がやるべきですから……！」"
 translation = "「게다가 저보다 강한 두 분을 소모시켜버리면 본말전도예요……. 이런 건 가장 전력이 안 되는 사람이 해야 하는 거니까요……!」"
 
 [[dialogue]]
-speaker = "エリス"
+speaker_original = "エリス"
+speaker_translation = "에리스"
 original = "「ミアさん……」"
 translation = "「미아 씨……」"
 
 [[dialogue]]
-speaker = "ミア"
+speaker_original = "ミア"
+speaker_translation = "미아"
 original = "「私なら大丈夫です、まだ動けます……！\u3000それより今は、３人であの子を……！」"
 translation = "「저는 괜찮아요, 아직 움직일 수 있어요……! 그것보다 지금은 셋이서 저 애를……!」"
 
 [[dialogue]]
-speaker = "キサナ"
+speaker_original = "キサナ"
+speaker_translation = "키사나"
 original = "「ハハァ、まさか正義の味方サマが不意打ちとはよ……！\u3000もっとお行儀のいいヤツらかと思ってたぜ……！」"
 translation = "「하하, 설마 정의의 사자님께서 기습이라니……! 좀 더 예의 바른 놈들인 줄 알았더니만!」"
 
 [[dialogue]]
-speaker = "キサナ"
+speaker_original = "キサナ"
+speaker_translation = "키사나"
 original = "「いいじゃねえか！\u3000ようやく愉しくなってきたぁっ！\u3000３人まとめてかかってきな！\u3000全員、蹴散らしてやんぜ！」"
 translation = "「좋잖아! 이제야 즐거워지기 시작했다고! 셋이서 덤벼라! 전부 날려버려주마!」"
 
@@ -349,12 +414,14 @@ original = "行くぞ、２人とも！"
 translation = "가자, 둘 다!"
 
 [[dialogue]]
-speaker = "ミア"
+speaker_original = "ミア"
+speaker_translation = "미아"
 original = "「ええっ！」"
 translation = "「네!」"
 
 [[dialogue]]
-speaker = "エリス"
+speaker_original = "エリス"
+speaker_translation = "에리스"
 original = "「はいっ！」"
 translation = "「알겠습니다!」"
 

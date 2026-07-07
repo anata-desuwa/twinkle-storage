@@ -4,202 +4,242 @@ original = "第４話,せつなへのプレゼントだぴょん！,B"
 translation = "제4화, 세츠나에게 주는 선물이다뿅!, B"
 
 [[dialogue]]
-speaker = "せつな"
+speaker_original = "せつな"
+speaker_translation = "세츠나"
 original = "「クリスマスでござるか。もうそんな時期なのでござるな～」"
 translation = "「크리스마스이오? 벌써 그런 시기가 된 것이오나~」"
 
 [[dialogue]]
-speaker = "蘭美"
+speaker_original = "蘭美"
+speaker_translation = "라미"
 original = "「せつなにも何かクリスマスの思い出を語ってもらいたいんだけど、忍者だからクリスマスには縁がないかしら？」"
 translation = "「세츠나에게도 뭔가 크리스마스 추억을 이야기 듣고 싶은데, 닌자니까 크리스마스와는 인연이 없으려나?」"
 
 [[dialogue]]
-speaker = "せつな"
+speaker_original = "せつな"
+speaker_translation = "세츠나"
 original = "「いえいえ、そんなことはないでござるよ」"
 translation = "「아니오 아니오, 그런 일은 없소이다」"
 
 [[dialogue]]
-speaker = "せつな"
+speaker_original = "せつな"
+speaker_translation = "세츠나"
 original = "「クリスマスイブはみんなで赤と白の忍び装束に身を包み、パーティーで大盛り上がりだったでござる」"
 translation = "「크리스마스 이브는 다 함께 빨강과 하양의 닌자 복장을 몸에 두르고, 파티로 아주 흥겨웠소이다」"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「そんなカラフルな忍者軍団があっていいの？」"
 translation = "「그런 컬러풀한 닌자 군단이 있어도 되는 거야?」"
 
 [[dialogue]]
-speaker = "蘭美"
+speaker_original = "蘭美"
+speaker_translation = "라미"
 original = "「全く身を隠せそうにないわね」"
 translation = "「전혀 몸을 숨길 수 없을 것 같네」"
 
 [[dialogue]]
-speaker = "せつな"
+speaker_original = "せつな"
+speaker_translation = "세츠나"
 original = "「里にアステラが発生して被害を受けるまで毎年やっていたでござるよ」"
 translation = "「마을에 아스테라가 발생해서 피해를 입기 전까지는 매년 해왔소이다」"
 
 [[dialogue]]
-speaker = "せつな"
+speaker_original = "せつな"
+speaker_translation = "세츠나"
 original = "「みんなでクリスマスツリーを飾りつけして、プレゼント交換会をひらいていたでござる」"
 translation = "「다 함께 크리스마스 트리를 장식하고, 선물 교환회를 열었소이다」"
 
 [[dialogue]]
-speaker = "せつな"
+speaker_original = "せつな"
+speaker_translation = "세츠나"
 original = "「師匠の用意してくれる料理、ケーキやチキンも美味だったでござるな～」"
 translation = "「스승님이 준비해 주시는 요리, 케이크나 치킨도 별미였소이다~」"
 
 [[dialogue]]
-speaker = "蘭美"
+speaker_original = "蘭美"
+speaker_translation = "라미"
 original = "「師匠？」"
 translation = "「스승님?」"
 
 [[dialogue]]
-speaker = "せつな"
+speaker_original = "せつな"
+speaker_translation = "세츠나"
 original = "「せつなの育ての親であり、忍術の師匠でもある人でござる」"
 translation = "「세츠나의 길러주신 부모이자, 인술의 스승이기도 한 사람이오」"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「シズルさん、だったかしら？」"
 translation = "「시즈루 씨, 였던가?」"
 
 [[dialogue]]
-speaker = "せつな"
+speaker_original = "せつな"
+speaker_translation = "세츠나"
 original = "「左様でござる。みんなを集めてクリスマスパーティーを開いてくれていたのも師匠でござった」"
 translation = "「그러하오. 모두를 모아서 크리스마스 파티를 열어주셨던 것도 스승님이었소이다」"
 
 [[dialogue]]
-speaker = "せつな"
+speaker_original = "せつな"
+speaker_translation = "세츠나"
 original = "「いやはや、懐かしき日々でござるなあ」"
 translation = "「허허, 그리운 나날이오나」"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「へぇ～、楽しそうじゃない。いつか私も参加してみたいわ」"
 translation = "「헤에~, 재밌어 보이잖아. 언젠가 나도 참가해 보고 싶어」"
 
 [[dialogue]]
-speaker = "蘭美"
+speaker_original = "蘭美"
+speaker_translation = "라미"
 original = "「紫桜の里の復興も進んでいるし、そのパーティーが再開される日も近いんじゃないかしら？」"
 translation = "「시온의 마을의 복구도 진행되고 있으니, 그 파티가 재개될 날도 머지않지 않았을까?」"
 
 [[dialogue]]
-speaker = "せつな"
+speaker_original = "せつな"
+speaker_translation = "세츠나"
 original = "「実はせつなが学園に来る前の年に復活したでござる」"
 translation = "「사실 세츠나가 학원에 오기 전해에 부활했소이다」"
 
 [[dialogue]]
-speaker = "せつな"
+speaker_original = "せつな"
+speaker_translation = "세츠나"
 original = "「今までで一番盛大なパーティーになって、楽しかったでござるよ」"
 translation = "「지금까지 중 가장 성대한 파티가 되어서, 즐거웠소이다」"
 
 [[dialogue]]
-speaker = "蘭美"
+speaker_original = "蘭美"
+speaker_translation = "라미"
 original = "「よかったわね、せつな」"
 translation = "「다행이네, 세츠나」"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「そのパーティーの代わりと言ってはなんだけど、今年は私たちからクリスマスプレゼントを用意したわよ！」"
 translation = "「그 파티 대신이라고 하긴 뭣하지만, 올해는 우리가 크리스마스 선물을 준비했어!」"
 
 [[dialogue]]
-speaker = "せつな"
+speaker_original = "せつな"
+speaker_translation = "세츠나"
 original = "「何と！\u3000誠でござるか！？」"
 translation = "「무엇이라! 참말이오!?」"
 
 [[dialogue]]
-speaker = "蘭美"
+speaker_original = "蘭美"
+speaker_translation = "라미"
 original = "「せつなには……これよ！」"
 translation = "「세츠나에게는…… 이거야!」"
 
 [[dialogue]]
-speaker = "せつな"
+speaker_original = "せつな"
+speaker_translation = "세츠나"
 original = "「ありがたき幸せにござる。一体何でござろうか……」"
 translation = "「망극하오이다. 대체 무엇이오려나……」"
 
 [[dialogue]]
-speaker = "せつな"
+speaker_original = "せつな"
+speaker_translation = "세츠나"
 original = "「おおっ、これは！\u3000望遠鏡ではござらぬか！！」"
 translation = "「오오, 이것은! 망원경이 아니오!!」"
 
 [[dialogue]]
-speaker = "蘭美"
+speaker_original = "蘭美"
+speaker_translation = "라미"
 original = "「これがあれば遠くから敵の様子もうかがえるし、今よりも忍びやすくなるんじゃないかしら？」"
 translation = "「이게 있으면 멀리서 적의 동태도 살필 수 있고, 지금보다 인술을 펼치기 쉬워지지 않겠어?」"
 
 [[dialogue]]
-speaker = "せつな"
+speaker_original = "せつな"
+speaker_translation = "세츠나"
 original = "「そうでござるな。これがあれば『クリスマスの夜の謎』も明らかにできるかもしれないでござる」"
 translation = "「그러하오. 이것이 있으면 『크리스마스 밤의 수수께끼』도 밝혀낼 수 있을지도 모르겠소이다」"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「えっ、何それ面白そう！\u3000そんなものがあるの？」"
 translation = "「엣, 뭐야 그거 재밌어 보여! 그런 게 있어?」"
 
 [[dialogue]]
-speaker = "蘭美"
+speaker_original = "蘭美"
+speaker_translation = "라미"
 original = "「私も興味があるわ。その話、聞かせてくれるかしら？」"
 translation = "「나도 흥미가 있구나. 그 이야기, 들려주겠느냐?」"
 
 [[dialogue]]
-speaker = "せつな"
+speaker_original = "せつな"
+speaker_translation = "세츠나"
 original = "「不思議な話でござる……夜も更けて宴もたけなわになると、何故か大人たちがひとり、またひとりと姿を消していくでござる」"
 translation = "「신기한 이야기이오…… 밤이 깊어지고 연회가 한창일 때가 되면, 왠지 어른들이 한 명, 또 한 명씩 모습을 감추는 것이오」"
 
 [[dialogue]]
-speaker = "せつな"
+speaker_original = "せつな"
+speaker_translation = "세츠나"
 original = "「興味を持った者たちで大人たちの行方を追おうとしたのでござるが、忍びの技術も未熟な子供ではそれも叶わず──」"
 translation = "「흥미를 가진 자들이 어른들의 행방을 쫓으려 했소이다만, 인술 실력도 미숙한 아이들로서는 그것도 이루어지지 않고──」"
 
 [[dialogue]]
-speaker = "せつな"
+speaker_original = "せつな"
+speaker_translation = "세츠나"
 original = "「ですが朝になれば姿を消したはずの大人たちは、まるで何事もなかったかのように現れるのでござる」"
 translation = "「하지만 아침이 되면 모습을 감췄던 어른들은, 마치 아무 일도 없었다는 듯이 나타나는 것이오」"
 
 [[dialogue]]
-speaker = "せつな"
+speaker_original = "せつな"
+speaker_translation = "세츠나"
 original = "「そしてせつなたちが何を訊ねようと、夜の出来事について大人たちは一様に口を噤むのでござる」"
 translation = "「그리고 세츠나들이 무엇을 묻든, 밤의 일에 대해서 어른들은 한결같이 입을 다무는 것이오」"
 
 [[dialogue]]
-speaker = "せつな"
+speaker_original = "せつな"
+speaker_translation = "세츠나"
 original = "「長年、謎に包まれていたクリスマスの夜の謎！」"
 translation = "「오랜 세월, 베일에 싸여 있던 크리스마스 밤의 수수께끼!」"
 
 [[dialogue]]
-speaker = "せつな"
+speaker_original = "せつな"
+speaker_translation = "세츠나"
 original = "「この望遠鏡があれば大人たちが一体何をいたしているのか、全てを白日のもとに晒すことが出来るかもしれないでござるよ！」"
 translation = "「이 망원경이 있으면 어른들이 대체 무엇을 하고 있는지, 모든 것을 백일하에 드러낼 수 있을지도 모르겠소이다!」"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「不思議な話ね、クリスマスの夜に怪奇現象なんて……実害はないみたいだけど」"
 translation = "「신기한 이야기네, 크리스마스 밤에 괴기 현상이라니…… 실해는 없는 모양이지만」"
 
 [[dialogue]]
-speaker = "蘭美"
+speaker_original = "蘭美"
+speaker_translation = "라미"
 original = "「真相が分かったら私たちにも教えなさい」"
 translation = "「진상을 알게 되면 우리에게도 가르쳐주거라」"
 
 [[dialogue]]
-speaker = "せつな"
+speaker_original = "せつな"
+speaker_translation = "세츠나"
 original = "「お任せでござる！\u3000お嬢様、蘭美殿、感謝でござる！」"
 translation = "「맡겨주시 오소! 아가씨, 라비 공, 감사하오!」"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「……人が消えていくなんて、クリスマスの思い出っていうより、恐い思い出だったわね」"
 translation = "「……사람이 사라지다니, 크리스마스의 추억이라기보다 무서운 추억이었네」"
 
 [[dialogue]]
-speaker = "蘭美"
+speaker_original = "蘭美"
+speaker_translation = "라미"
 original = "「まあそれでも思い出には変わらないわ。せつなの話でまた少し力がこもったみたいだし」"
 translation = "「뭐 그래도 추억인 건 변함없어. 세츠나의 이야기로 다시 조금 힘이 실린 것 같고」"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「だったらオッケーね。それじゃ次に行くわよ！」"
 translation = "「그럼 오케이네. 그럼 다음으로 가자!」"
 

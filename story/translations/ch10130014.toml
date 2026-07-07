@@ -4,7 +4,8 @@ original = "第４話,ユウリとフィオナ,P"
 translation = "제4화, 유우리와 피오나, P"
 
 [[dialogue]]
-speaker = "ユウリ"
+speaker_original = "ユウリ"
+speaker_translation = "유우리"
 original = "「納得いくまで稽古つけてたら、こんな時間になっちまったな。ま、背中を預けられるくらいには強くなったかな」"
 translation = "「납득할 때까지 대련해 줬더니, 시간이 이렇게 됐네. 뭐, 등을 맡길 수 있을 정도로 강해진 걸까나.」"
 
@@ -14,182 +15,218 @@ original = "お疲れさま"
 translation = "수고했어"
 
 [[dialogue]]
-speaker = "ユウリ"
+speaker_original = "ユウリ"
+speaker_translation = "유우리"
 original = "「おう。次は新星星徒会の番だからな、よろしく頼むぜ、会長さん」"
 translation = "「오우. 다음은 신성 학생회 차례니까, 잘 부탁한다고, 회장님.」"
 
 [[dialogue]]
-speaker = "ユウリ"
+speaker_original = "ユウリ"
+speaker_translation = "유우리"
 original = "「ん？\u3000どうした？\u3000そんなにじっと見て、あたしの顔に何か付いてるか？」"
 translation = "「응? 왜 그래? 그렇게 빤히 쳐다보고, 내 얼굴에 뭐라도 묻었어?」"
 
 [[dialogue]]
-speaker = "ユウリ"
+speaker_original = "ユウリ"
+speaker_translation = "유우리"
 original = "「……口紅？\u3000ちげーよ。色付きのリップクリーム。汗かいたから塗り直したんだよ」"
 translation = "「……립스틱? 아니야. 색깔 있는 립밤. 땀 흘려서 다시 바른 거야.」"
 
 [[dialogue]]
-speaker = "ユウリ"
+speaker_original = "ユウリ"
+speaker_translation = "유우리"
 original = "「でも、気付いてくれてありがとな」"
 translation = "「그래도, 알아채 줘서 고마워.」"
 
 [[dialogue]]
-speaker = "ユウリ"
+speaker_original = "ユウリ"
+speaker_translation = "유우리"
 original = "「だけど悪いな、流星の星徒会長が忙しくてこっち来られなくて。その分あたしが稽古つけたつもりだけど」"
 translation = "「하지만 미안하게 됐네, 유성 학생회장이 바빠서 이쪽에 못 와서 말이야. 그만큼 내가 대련해 준 셈이지만.」"
 
 [[dialogue]]
-speaker = "ユウリ"
+speaker_original = "ユウリ"
+speaker_translation = "유우리"
 original = "「フィオナと仲がいい？\u3000ああ、今は星徒会関係なくダチだぜ。初めて会ったのは確か……フィオナが星徒会長になって少ししたぐらいの頃か」"
 translation = "「피오나랑 사이가 좋냐고? 아아, 지금은 학생회랑 상관없이 친구야. 처음 만난 건 확실히…… 피오나가 학생회장이 되고 조금 지났을 무렵이었나.」"
 
 [[dialogue]]
-speaker = "ニャリオン"
+speaker_original = "ニャリオン"
+speaker_translation = "냐리온"
 original = "『ニャ～……どこ行ったニャ、フィオナ嬢……』"
 translation = "『냐~…… 어디 갔냐옹, 피오나 아가씨……』"
 
 [[dialogue]]
-speaker = "ユウリ"
+speaker_original = "ユウリ"
+speaker_translation = "유우리"
 original = "『なんだお前？\u3000飛んでしゃべる猫……いや、しゃべる野良猫？』"
 translation = "『뭐야 넌? 날아다니며 말하는 고양이…… 아니, 말하는 길고양이인가?』"
 
 [[dialogue]]
-speaker = "ニャリオン"
+speaker_original = "ニャリオン"
+speaker_translation = "냐리온"
 original = "『ワガハイは野良猫じゃないニャ！\u3000誇り高きフィオナ嬢の使い魔ニャン！』"
 translation = "『이 몸은 길고양이가 아니다옹! 긍지 높은 피오나 아가씨의 사역마냥!』"
 
 [[dialogue]]
-speaker = "ユウリ"
+speaker_original = "ユウリ"
+speaker_translation = "유우리"
 original = "『使い魔～？\u3000確かに星騎士にはそういうので戦うやつもいるが……あれ、フィオナって星徒会長のことだっけ。そういやお前も見たことあるような』"
 translation = "『사역마~? 확실히 성기사 중에는 그런 걸로 싸우는 녀석도 있지만…… 어라, 피오나라면 학생회장을 말하는 건가. 그러고 보니 너도 본 적이 있는 것 같기도.』"
 
 [[dialogue]]
-speaker = "ニャリオン"
+speaker_original = "ニャリオン"
+speaker_translation = "냐리온"
 original = "『このニャリオンを知らないとは失敬ニャ。星見家の息女たるフィオナ嬢第一のしもべニャン！』"
 translation = "『이 냐리온을 모르다니 무례하다옹. 호시미 가문의 영애이신 피오나 아가씨의 제일가는 종복이다냥!』"
 
 [[dialogue]]
-speaker = "ユウリ"
+speaker_original = "ユウリ"
+speaker_translation = "유우리"
 original = "『そのしもべが主をほっぽって何してるんだよ』"
 translation = "『그 종복이라는 녀석이 주인을 내팽개치고 뭐 하고 있는 거야.』"
 
 [[dialogue]]
-speaker = "ニャリオン"
+speaker_original = "ニャリオン"
+speaker_translation = "냐리온"
 original = "『それは……いつの間にかフィオナ嬢とはぐれてしまったのニャ。呼びかけても反応してくれニャくて……』"
 translation = "『그건…… 어느샌가 피오나 아가씨를 놓쳐버린 거다옹. 불러도 반응해 주질 않아서……』"
 
 [[dialogue]]
-speaker = "ユウリ"
+speaker_original = "ユウリ"
+speaker_translation = "유우리"
 original = "『それでよく家来とか言えたな。じゃあ行くぞ』"
 translation = "『그러고도 가신이라고 할 수 있냐. 자, 가자.』"
 
 [[dialogue]]
-speaker = "ニャリオン"
+speaker_original = "ニャリオン"
+speaker_translation = "냐리온"
 original = "『行くってどこニャン？』"
 translation = "『간다는 게 어디냥?』"
 
 [[dialogue]]
-speaker = "ユウリ"
+speaker_original = "ユウリ"
+speaker_translation = "유우리"
 original = "『お前の飼い主を探しにだよ。モンスターも出てないしどうせ学園のどこかにいるだろ。それに、ペットは飼い主が見つからないと大変なことになるだろうが』"
 translation = "『네 주인을 찾으러 가는 거지. 몬스터도 안 나오고 어차피 학원 어딘가에 있겠지. 게다가, 반려동물은 주인을 못 찾으면 큰일 나잖아.』"
 
 [[dialogue]]
-speaker = "ニャリオン"
+speaker_original = "ニャリオン"
+speaker_translation = "냐리온"
 original = "『ワガハイはペットじゃないニャ！』"
 translation = "『이 몸은 반려동물이 아니다옹!』"
 
 [[dialogue]]
-speaker = "ユウリ"
+speaker_original = "ユウリ"
+speaker_translation = "유우리"
 original = "『うっせえ、文句言ってないでついてこい』"
 translation = "『시끄러워, 불평하지 말고 따라와.』"
 
 [[dialogue]]
-speaker = "ユウリ"
+speaker_original = "ユウリ"
+speaker_translation = "유우리"
 original = "『意外といねーな。どこ行ったんだ？』"
 translation = "『의외로 없네. 어디 간 거지?』"
 
 [[dialogue]]
-speaker = "ニャリオン"
+speaker_original = "ニャリオン"
+speaker_translation = "냐리온"
 original = "『こいつについてきたのは間違いだったかもしれないニャ……』"
 translation = "『이 녀석을 따라온 건 실수였을지도 모른다옹……』"
 
 [[dialogue]]
-speaker = "ユウリ"
+speaker_original = "ユウリ"
+speaker_translation = "유우리"
 original = "『あんだと？』"
 translation = "『뭐라고?』"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "『ふぅ……』"
 translation = "『후우……』"
 
 [[dialogue]]
-speaker = "ニャリオン"
+speaker_original = "ニャリオン"
+speaker_translation = "냐리온"
 original = "『フィオナ嬢！』"
 translation = "『피오나 아가씨!』"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "『あれ？\u3000あ、ニャリオン、いつの間に……？』"
 translation = "『어라? 아, 냐리온, 어느 사이에……?』"
 
 [[dialogue]]
-speaker = "ユウリ"
+speaker_original = "ユウリ"
+speaker_translation = "유우리"
 original = "『あんた、あの有名な会長さんだろ。ペットが迷子になってたから連れてきてやったぜ』"
 translation = "『당신, 그 유명한 회장님이지. 반려동물이 길을 잃었길래 데려다줬어.』"
 
 [[dialogue]]
-speaker = "ユウリ"
+speaker_original = "ユウリ"
+speaker_translation = "유우리"
 original = "『こんなところで何してたんだ？\u3000フィーニスの塔は立ち入り禁止だろ。入口が開いてないから入ろうと思っても入れないけどな』"
 translation = "『이런 곳에서 뭐 하고 있었어? 피니스의 탑은 출입 금지잖아. 입구가 안 열려서 들어가려고 해도 못 들어가지만 말이야.』"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "『少し１人になりたくて……すみません、私の使い魔がお世話になったみたいですね』"
 translation = "『조금 혼자 있고 싶어서…… 죄송해요, 제 사역마가 신세를 진 모양이네요.』"
 
 [[dialogue]]
-speaker = "ユウリ"
+speaker_original = "ユウリ"
+speaker_translation = "유우리"
 original = "『ふーん……』"
 translation = "『흐응……』"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "『あの……そんなにまじまじと見つめてどうしました？』"
 translation = "『저기…… 그렇게 빤히 쳐다보시는데 무슨 일인가요?』"
 
 [[dialogue]]
-speaker = "ユウリ"
+speaker_original = "ユウリ"
+speaker_translation = "유우리"
 original = "『あんた、めちゃくちゃ顔色悪いぞ。……よし、そんなに困ってんなら手伝ってやるよ』"
 translation = "『당신, 안색이 엄청 안 좋다고. ……좋아, 그렇게 곤란해 보인다면 도와줄게.』"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "『え……？』"
 translation = "『에……?』"
 
 [[dialogue]]
-speaker = "ユウリ"
+speaker_original = "ユウリ"
+speaker_translation = "유우리"
 original = "『あたしが星徒会に入るって言ってんだ。人手は多いに越したことはないだろ』"
 translation = "『내가 학생회에 들어가겠다고 하는 거야. 일손은 많을수록 좋잖아.』"
 
 [[dialogue]]
-speaker = "ユウリ"
+speaker_original = "ユウリ"
+speaker_translation = "유우리"
 original = "『書類仕事は自信ないが、モンスターの相手なら任せとけ。あんたが元気じゃない間は全部あたしがぶっ飛ばしてやる』"
 translation = "『서류 작업은 자신 없지만, 몬스터 상대라면 맡겨두라고. 당신이 기운 차릴 때까지는 전부 내가 날려버려 줄 테니까.』"
 
 [[dialogue]]
-speaker = "ユウリ"
+speaker_original = "ユウリ"
+speaker_translation = "유우리"
 original = "「――ってな感じで星徒会に入ったんだよ。フィオナは最初驚いてたけどな」"
 translation = "「――라는 느낌으로 학생회에 들어간 거야. 피오나는 처음에 놀랐지만 말이야.」"
 
 [[dialogue]]
-speaker = "ユウリ"
+speaker_original = "ユウリ"
+speaker_translation = "유우리"
 original = "「あの時はたまたまセーラさんが風邪ひいて寝込んでて、しかも部活や行事のあれやこれやでてんてこまいでさ。こりゃフィオナが元気ないのも無理ねーって思ったぜ」"
 translation = "「그때는 마침 세라 씨가 감기에 걸려 누워있었고, 게다가 부활동이나 행사 이런저런 일로 정신이 하나도 없었거든. 이건 피오나가 기운 없는 것도 당연하다고 생각했지.」"
 
 [[dialogue]]
-speaker = "ユウリ"
+speaker_original = "ユウリ"
+speaker_translation = "유우리"
 original = "「よくよく考えれば、あたしがフィオナと出会ったのはニャリオンがきっかけだったんだな。ま、そういう意味じゃあのアホ猫には感謝してもいいかもな」"
 translation = "「곰곰이 생각해보면, 내가 피오나랑 만난 건 냐리온이 계기였네. 뭐, 그런 의미에선 그 바보 고양이한테 감사해도 좋을지도.」"
 
@@ -199,12 +236,14 @@ original = "どうしてそんなに人を助けるんだ？"
 translation = "왜 그렇게 남을 돕는 거야?"
 
 [[dialogue]]
-speaker = "ユウリ"
+speaker_original = "ユウリ"
+speaker_translation = "유우리"
 original = "「どうして……って、そりゃ困ってるやつは少ない方がいいだろ。だからあたしの手の届く限り助ける。それだけだ」"
 translation = "「왜냐니…… 그야 곤란해하는 녀석은 적은 게 좋잖아. 그러니까 내 손이 닿는 한 돕는다. 그것뿐이야.」"
 
 [[dialogue]]
-speaker = "ユウリ"
+speaker_original = "ユウリ"
+speaker_translation = "유우리"
 original = "「あたしにはそれしかないからな」"
 translation = "「나한테는 그것밖에 없으니까 말이야.」"
 
@@ -214,17 +253,20 @@ original = "とてもすごいことだと思うけど"
 translation = "정말 대단한 일이라고 생각하는데"
 
 [[dialogue]]
-speaker = "ユウリ"
+speaker_original = "ユウリ"
+speaker_translation = "유우리"
 original = "「そうか～？\u3000誰でも困ってるやつがいたら見過ごせないだろ」"
 translation = "「그래~? 누구든 곤란해하는 녀석이 있으면 그냥 지나칠 수 없잖아.」"
 
 [[dialogue]]
-speaker = "ユウリ"
+speaker_original = "ユウリ"
+speaker_translation = "유우리"
 original = "「……誰でもじゃない？\u3000ふーん……そういうもんかね。でもあたしはこの性格を損だって思ったことはないぞ」"
 translation = "「……누구나 그런 건 아니라고? 흐응…… 그런 건가. 하지만 난 이 성격이 손해라고 생각한 적은 없어.」"
 
 [[dialogue]]
-speaker = "ユウリ"
+speaker_original = "ユウリ"
+speaker_translation = "유우리"
 original = "「自分の損得考えて助けるか助けないか迷う方が、よっぽど時間の無駄だぜ」"
 translation = "「자신의 득실을 따져가며 도울지 말지 고민하는 게, 훨씬 시간 낭비라고.」"
 
@@ -234,22 +276,26 @@ original = "ユウリらしい"
 translation = "유우리답네"
 
 [[dialogue]]
-speaker = "ユウリ"
+speaker_original = "ユウリ"
+speaker_translation = "유우리"
 original = "「はっ、誉め言葉として受け取っとくよ。会長さんも何か頼みがあるなら聞くぜ？」"
 translation = "「훗, 칭찬으로 받아들일게. 회장님도 뭔가 부탁이 있다면 들어줄게?」"
 
 [[dialogue]]
-speaker = "ユウリ"
+speaker_original = "ユウリ"
+speaker_translation = "유우리"
 original = "「あの時見てた服を着てほしい？\u3000そういうのは別だバカ！」"
 translation = "「그때 봤던 옷을 입어줬으면 좋겠다고? 그런 건 별개다 바보야!」"
 
 [[dialogue]]
-speaker = "ユウリ"
+speaker_original = "ユウリ"
+speaker_translation = "유우리"
 original = "「……どうしても着てほしいか？\u3000あ、そう、そんなに……」"
 translation = "「……정말로 입어줬으면 좋겠어? 아, 그래, 그렇게까지……」"
 
 [[dialogue]]
-speaker = "ユウリ"
+speaker_original = "ユウリ"
+speaker_translation = "유우리"
 original = "「じゃあ今度ついてこいよ。試着ならしてやるから、もし似合ってたらあんたに買ってもらうからな」"
 translation = "「그럼 다음에 같이 가. 시착 정도는 해줄 테니까, 만약 어울린다면 당신이 사줘야 한다.」"
 

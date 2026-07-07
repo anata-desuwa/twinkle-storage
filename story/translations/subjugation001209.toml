@@ -1,175 +1,210 @@
 [[dialogue]]
-speaker = "レミカ"
+speaker_original = "レミカ"
+speaker_translation = "레미카"
 original = "「クール系アイドル……？\u3000流星スターピースみたいに笑ったら、ダメなの？」"
 translation = "「쿨 계열 아이돌……? 유성 스타 피스처럼 웃으면 안 돼?」"
 
 [[dialogue]]
-speaker = "レミカ"
+speaker_original = "レミカ"
+speaker_translation = "레미카"
 original = "「ううん、大丈夫……みんなで考えた作戦だもんね」"
 translation = "「으응, 괜찮아…… 다 같이 생각한 작전이니까」"
 
 [[dialogue]]
-speaker = "レミカ"
+speaker_original = "レミカ"
+speaker_translation = "레미카"
 original = "「でも、いつか……私がもっとすごいアイドルになったら、可愛いアイドルもやらせてくれる？」"
 translation = "「하지만 언젠가…… 내가 더 대단한 아이돌이 되면 귀여운 아이돌도 하게 해줄래?」"
 
 [[dialogue]]
-speaker = "レミカ"
+speaker_original = "レミカ"
+speaker_translation = "레미카"
 original = "「うん、約束……！\u3000約束だよ！？」"
 translation = "「응, 약속……! 약속이야!?」"
 
 [[dialogue]]
-speaker = "レミカ"
+speaker_original = "レミカ"
+speaker_translation = "레미카"
 original = "「……今朝は嫌な夢、見ちゃったな。よっぽど未練があるんだろうな、私」"
 translation = "「……오늘 아침에는 기분 나쁜 꿈을 꿨네. 워낙 미련이 남아서 그런 거겠지, 나」"
 
 [[dialogue]]
-speaker = "レミカ"
+speaker_original = "レミカ"
+speaker_translation = "레미카"
 original = "「──って、なんだろ。校門前に、知らない学園の制服着てる子がたくさん？」"
 translation = "「──어라. 교문 앞에 모르는 학원 교복을 입은 애들이 잔뜩 있네?」"
 
 [[dialogue]]
-speaker = "レミカ"
+speaker_original = "レミカ"
+speaker_translation = "레미카"
 original = "「ぁ、そっか。今日は新星学園のオープンキャンパスだっけ……思えば大変な時期に、無茶なこと頼んだな……」"
 translation = "「아, 맞다. 오늘은 신성학원 오픈 캠퍼스였지…… 생각해보면 바쁜 시기에 무리한 부탁을 했었구나……」"
 
 [[dialogue]]
-speaker = "レミカ"
+speaker_original = "レミカ"
+speaker_translation = "레미카"
 original = "「会長の時間、たくさんもらったのに……こんなことになって。悪いことしちゃったよ……」"
 translation = "「회장의 시간도 많이 뺏었는데…… 이렇게 돼버려서. 면목이 없네……」"
 
 [[dialogue]]
-speaker = "コハルコ"
+speaker_original = "コハルコ"
+speaker_translation = "쿠하루코"
 original = "「あ！\u3000愛戸さん、こんにちは！」"
 translation = "「아! 아이도 씨, 안녕하세요!」"
 
 [[dialogue]]
-speaker = "レミカ"
+speaker_original = "レミカ"
+speaker_translation = "레미카"
 original = "「え──？\u3000あ、えっと……朝比奈先輩、でしたっけ」"
 translation = "「에──? 아, 저기…… 아사히나 선배였나요」"
 
 [[dialogue]]
-speaker = "コハルコ"
+speaker_original = "コハルコ"
+speaker_translation = "쿠하루코"
 original = "「はい。今日の夜ですが、私の方は何とか間に合うと思います。放送部全員で頑張りますので、期待していてくださいね！」"
 translation = "「네. 오늘 밤 말입니다만, 저쪽은 어떻게든 시간 맞춰 끝낼 수 있을 것 같습니다. 방송부 전원이 노력할 테니 기대해 주세요!」"
 
 [[dialogue]]
-speaker = "レミカ"
+speaker_original = "レミカ"
+speaker_translation = "레미카"
 original = "「今夜……え、あの……？」"
 translation = "「오늘 밤…… 에, 저기……?」"
 
 [[dialogue]]
-speaker = "コハルコ"
+speaker_original = "コハルコ"
+speaker_translation = "쿠하루코"
 original = "「それじゃあ、また後で！」"
 translation = "「그럼 나중에 봬요!」"
 
 [[dialogue]]
-speaker = "レミカ"
+speaker_original = "レミカ"
+speaker_translation = "레미카"
 original = "「何を言ってるんだろ……今夜……？」"
 translation = "「무슨 소리를 하는 거지…… 오늘 밤……?」"
 
 [[dialogue]]
-speaker = "アニマ"
+speaker_original = "アニマ"
+speaker_translation = "아니마"
 original = "「おや、そこのキミ。ずいぶんと重役出勤だネ？」"
 translation = "「오호, 거기 자네. 꽤나 지각 출근이구먼?」"
 
 [[dialogue]]
-speaker = "レミカ"
+speaker_original = "レミカ"
+speaker_translation = "레미카"
 original = "「あなたは……購買部の……？」"
 translation = "「당신은…… 구매부의……?」"
 
 [[dialogue]]
-speaker = "アニマ"
+speaker_original = "アニマ"
+speaker_translation = "아니마"
 original = "「まったく、急に大量の物品注文がくるから大変だったゾ。相変わらず会長は無茶なことばかり言ウ……」"
 translation = "「정말이지, 갑자기 대량의 물품 주문이 들어와서 힘들었다네. 여전히 회장은 무리한 말만 골라 한다니까……」"
 
 [[dialogue]]
-speaker = "アニマ"
+speaker_original = "アニマ"
+speaker_translation = "아니마"
 original = "「というかねキミ、ＤＩＳＣの電源、ちゃんと入れたまえヨ？\u3000相方が何度も電話をかけていたゾ？」"
 translation = "「그나저나 자네, DISC 전원 좀 제대로 켜두게나. 파트너가 몇 번이나 전화를 걸던데?」"
 
 [[dialogue]]
-speaker = "レミカ"
+speaker_original = "レミカ"
+speaker_translation = "레미카"
 original = "「え──」"
 translation = "「에──」"
 
 [[dialogue]]
-speaker = "アニマ"
+speaker_original = "アニマ"
+speaker_translation = "아니마"
 original = "「ではな。アニマはまだ準備があル。フヒヒ、夜まで大忙しダ～♪」"
 translation = "「그럼 이만. 애니마는 아직 준비가 남았다네. 후히히, 밤까지 대박 바쁘다구~♪」"
 
 [[dialogue]]
-speaker = "レミカ"
+speaker_original = "レミカ"
+speaker_translation = "레미카"
 original = "「ＤＩＳＣ、そういえば……電源切っちゃってたんだった」"
 translation = "「DISC, 그러고 보니…… 전원을 꺼뒀었지.」"
 
 [[dialogue]]
-speaker = "レミカ"
+speaker_original = "レミカ"
+speaker_translation = "레미카"
 original = "「あっ……メルエルから、電話──」"
 translation = "「앗…… 메르엘한테서, 전화──」"
 
 [[dialogue]]
-speaker = "メルエル"
+speaker_original = "メルエル"
+speaker_translation = "메르엘"
 original = "「レミカちゃん！？\u3000あぁ、良かった。繋がって……！\u3000今すぐトレーニング施設に来て！」"
 translation = "「레미카짱!? 아아, 다행이다. 연결돼서……! 지금 당장 트레이닝 시설로 와줘!」"
 
 [[dialogue]]
-speaker = "レミカ"
+speaker_original = "レミカ"
+speaker_translation = "레미카"
 original = "「どう、して……？」"
 translation = "「어, 째서……?」"
 
 [[dialogue]]
-speaker = "メルエル"
+speaker_original = "メルエル"
+speaker_translation = "메르엘"
 original = "「今夜のライブの打ち合わせだよ！\u3000私たち、アーネストの！！」"
 translation = "「오늘 밤 라이브 회의야! 우리, 어니스트의!!」"
 
 [[dialogue]]
-speaker = "レミカ"
+speaker_original = "レミカ"
+speaker_translation = "레미카"
 original = "「え──！？」"
 translation = "「에──!?」"
 
 [[dialogue]]
-speaker = "メルエル"
+speaker_original = "メルエル"
+speaker_translation = "메르엘"
 original = "「会長くんが発起人になって今、急ピッチで準備が進んでるんだ！！」"
 translation = "「회장군이 발기인이 되어서 지금, 급피치로 준비가 진행되고 있어!!」"
 
 [[dialogue]]
-speaker = "レミカ"
+speaker_original = "レミカ"
+speaker_translation = "레미카"
 original = "「で、でも……会場はないし、社長の説得だって──」"
 translation = "「하, 하지만…… 회장도 없고, 사장님 설득도──」"
 
 [[dialogue]]
-speaker = "メルエル"
+speaker_original = "メルエル"
+speaker_translation = "메르엘"
 original = "「それも問題なし！\u3000だってね──！」"
 translation = "「그것도 문제없어! 왜냐하면 말야──!」"
 
 [[dialogue]]
-speaker = "ヘレナ"
+speaker_original = "ヘレナ"
+speaker_translation = "헬레나"
 original = "「アーネストのライブが白紙になった……？\u3000ふむ、それは知っている。ポラプロの社長からメッセージを受け取ったからな」"
 translation = "「어니스트의 라이브가 백지화되었다……? 흠, 그건 알고 있다. 포라프로의 사장에게 메시지를 받았으니까.」"
 
 [[dialogue]]
-speaker = "ヘレナ"
+speaker_original = "ヘレナ"
+speaker_translation = "헬레나"
 original = "「２人のアイドル衣装をデザインしたのは私だ。『このたびは誠にすまない』と頭を下げられた。……で、魔王の要件はなんだ？」"
 translation = "「두 사람의 아이돌 의상을 디자인한 건 나다. 『이번 일은 정말 미안하게 됐다』며 고개를 숙이더군. ……그래서, 마왕의 용건은 뭐지?」"
 
 [[dialogue]]
-speaker = "ヘレナ"
+speaker_original = "ヘレナ"
+speaker_translation = "헬레나"
 original = "「ほう……♪\u3000白紙になったアーネストのライブを、新星学園のアリーナで行う、か」"
 translation = "「호오……♪ 백지가 된 어니스트의 라이브를, 신성학원의 아레나에서 열겠다, 인가.」"
 
 [[dialogue]]
-speaker = "ヘレナ"
+speaker_original = "ヘレナ"
+speaker_translation = "헬레나"
 original = "「──なるほど。オープンキャンパス中であれば、それは学園の行事。学生が入学希望者へ届ける、催しものとなる」"
 translation = "「──과연. 오픈 캠퍼스 중이라면 그건 학원의 행사. 학생이 입학 희망자에게 선보이는 이벤트가 되겠지.」"
 
 [[dialogue]]
-speaker = "ヘレナ"
+speaker_original = "ヘレナ"
+speaker_translation = "헬레나"
 original = "「あくまで学生のレミカの、学内のイベントであれば。レミカの路線変更だと目くじらを立てる層も抑えられるであろうな」"
 translation = "「어디까지나 학생인 레미카의, 학내 이벤트라면. 레미카의 노선 변경이라며 눈을 부라릴 층도 억제할 수 있겠지.」"
 
 [[dialogue]]
-speaker = "ヘレナ"
+speaker_original = "ヘレナ"
+speaker_translation = "헬레나"
 original = "「確かに事務所側から言い訳のしやすいシチュエーションかもしれないが……それでも社長が首を縦に振るかは疑問が残るであろう」"
 translation = "「확실히 소속사 측에서 변명하기 쉬운 상황일지도 모르겠지만…… 그래도 사장이 고개를 끄덕일지는 의문이 남는구나.」"
 
@@ -184,22 +219,26 @@ original = "わかっています。ですから……"
 translation = "알고 있습니다. 그러니까……"
 
 [[dialogue]]
-speaker = "ヘレナ"
+speaker_original = "ヘレナ"
+speaker_translation = "헬레나"
 original = "「ふふっ、大人の相手は大人に……ということか。その考えは正しい。魔王が電話したところで話にならないだろう。しかし、そのプランは大丈夫なのか？」"
 translation = "「후훗, 어른 상대는 어른이…… 하겠다는 건가. 그 생각은 옳다. 마왕이 전화해 봤자 대화가 안 되겠지. 하지만 그 플랜은 괜찮은 건가?」"
 
 [[dialogue]]
-speaker = "ヘレナ"
+speaker_original = "ヘレナ"
+speaker_translation = "헬레나"
 original = "「オープンキャンパスは明日……アリーナを貸し切りにするのはいいが、準備は果たして間に合うか？」"
 translation = "「오픈 캠퍼스는 내일…… 아레나를 대관하는 건 좋다만, 준비가 과연 제시간에 맞을까?」"
 
 [[dialogue]]
-speaker = "ヘレナ"
+speaker_original = "ヘレナ"
+speaker_translation = "헬레나"
 original = "「照明はどうする？\u3000観客の誘導は？\u3000サイリウムなどのライブ用のアイテムは？\u3000舞台で踊るアイドルを映す中継用ビデオカメラは？」"
 translation = "「조명은 어떡할 거지? 관객 유도는? 야광봉 같은 라이브용 아이템은? 무대에서 춤추는 아이돌을 비출 중계용 비디오카메라는?」"
 
 [[dialogue]]
-speaker = "ヘレナ"
+speaker_original = "ヘレナ"
+speaker_translation = "헬레나"
 original = "「ちょっと考えただけでこの量だ。どうだ、可能か？」"
 translation = "「잠깐 생각한 것만으로도 이 정도 분량이다. 어떠냐, 가능하겠어?」"
 
@@ -224,62 +263,74 @@ original = "あの２人は……"
 translation = "그 두 사람은……"
 
 [[dialogue]]
-speaker = "ヘレナ"
+speaker_original = "ヘレナ"
+speaker_translation = "헬레나"
 original = "「ふふ……相分かった。社長の説得はヘレナちゃんに任せておけ」"
 translation = "「후후…… 알았다. 사장의 설득은 이 헬레나짱에게 맡겨둬라.」"
 
 [[dialogue]]
-speaker = "ヘレナ"
+speaker_original = "ヘレナ"
+speaker_translation = "헬레나"
 original = "「ではな、魔王よ。とびっきりキュートでラブリーなアイドルのライブを期待しているぞ？」"
 translation = "「그럼 이만, 마왕이여. 아주 큐트하고 러블리한 아이돌 라이브를 기대하고 있겠느니라?」"
 
 [[dialogue]]
-speaker = "レミカ"
+speaker_original = "レミカ"
+speaker_translation = "레미카"
 original = "「──メルエル！」"
 translation = "「──메르엘!」"
 
 [[dialogue]]
-speaker = "メルエル"
+speaker_original = "メルエル"
+speaker_translation = "메르엘"
 original = "「待ってたよ、レミカちゃん！\u3000さっき電話で伝えたとおり！\u3000新星学園のアリーナでライブをやるよ！」"
 translation = "「기다렸어, 레미카짱! 아까 전화로 말한 대로야! 신성학원 아레나에서 라이브를 할 거야!」"
 
 [[dialogue]]
-speaker = "レミカ"
+speaker_original = "レミカ"
+speaker_translation = "레미카"
 original = "「でも、会場の準備は……！？」"
 translation = "「하지만, 회장 준비는……!?」"
 
 [[dialogue]]
-speaker = "アナ"
+speaker_original = "アナ"
+speaker_translation = "아나"
 original = "「照明はコハルコ先輩のドローンを用います。モニターへのビデオ中継も、スポットライトの準備も万全」"
 translation = "「조명은 코하루코 선배의 드론을 사용합니다. 모니터로 보내는 비디오 중계도, 스포트라이트 준비도 완벽합니다.」"
 
 [[dialogue]]
-speaker = "アナ"
+speaker_original = "アナ"
+speaker_translation = "아나"
 original = "「私も操作を手伝います。昨日から習ってコツは掴みました。ノープロブレムです」"
 translation = "「저도 조작을 돕겠습니다. 어제부터 배워서 요령은 익혔습니다. 노 프로블럼입니다.」"
 
 [[dialogue]]
-speaker = "マトイ"
+speaker_original = "マトイ"
+speaker_translation = "마토이"
 original = "「観客全員に行き届くサイリウムは、購買部のアニマ先輩が準備してくれるよ！」"
 translation = "「관객 전원에게 돌아갈 야광봉은 구매부의 애니마 선배가 준비해 줄 거야!」"
 
 [[dialogue]]
-speaker = "マトイ"
+speaker_original = "マトイ"
+speaker_translation = "마토이"
 original = "「代わりに会長が、今度新薬の実験台になるんだけど……」"
 translation = "「대신 회장이, 다음에 신약의 실험 대상이 되기로 했지만……」"
 
 [[dialogue]]
-speaker = "サーシャ"
+speaker_original = "サーシャ"
+speaker_translation = "사샤"
 original = "「会長くんって顔が広いのね。昔のバイト仲間に片っ端から連絡して、人手を確保してくれたわ～♪\u3000ふふ、文化祭みたいで楽しいわね♪」"
 translation = "「회장군은 발이 참 넓네~ 옛날 알바 동료들에게 일일이 연락해서 일손을 확보해 줬어~♪ 후후, 문화제 같아서 즐겁네♪」"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「会場のセッティングは新星星徒会に任せなさい！\u3000後はレミカの準備だけよ！」"
 translation = "「회장 세팅은 신성학생회에 맡기렴! 남은 건 레미카의 준비뿐이야!」"
 
 [[dialogue]]
-speaker = "レミカ"
+speaker_original = "レミカ"
+speaker_translation = "레미카"
 original = "「みんな、私のために……？\u3000あはは……何だろこれ、夢……？」"
 translation = "「모두들, 나를 위해서……? 아하하…… 뭐지 이거, 꿈인가……?」"
 
@@ -294,22 +345,26 @@ original = "夢はこれから"
 translation = "꿈은 이제부터야."
 
 [[dialogue]]
-speaker = "レミカ"
+speaker_original = "レミカ"
+speaker_translation = "레미카"
 original = "「会長……！」"
 translation = "「회장……!」"
 
 [[dialogue]]
-speaker = "メルエル"
+speaker_original = "メルエル"
+speaker_translation = "메르엘"
 original = "「ヘレナさんから伝言だよ！\u3000とびっきりキュートでラブリーなライブにしなさいって！！」"
 translation = "「헬레나 씨가 전한 메시지야! 아주 큐트하고 러블리한 라이브를 만들라고!!」"
 
 [[dialogue]]
-speaker = "メルエル"
+speaker_original = "メルエル"
+speaker_translation = "메르엘"
 original = "「最高のライブにしちゃおう！\u3000レミカちゃん！」"
 translation = "「최고의 라이브로 만들자! 레미카짱!」"
 
 [[dialogue]]
-speaker = "レミカ"
+speaker_original = "レミカ"
+speaker_translation = "레미카"
 original = "「──うんっ！！」"
 translation = "「──응!!」"
 

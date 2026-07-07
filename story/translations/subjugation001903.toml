@@ -1,15 +1,18 @@
 [[dialogue]]
-speaker = "ロロット"
+speaker_original = "ロロット"
+speaker_translation = "로롯토"
 original = "「ぎょわ～～！\u3000トントロがとんでもない姿に……」"
 translation = "「교와~~! 톤토로가 말도 안 되는 모습으로……」"
 
 [[dialogue]]
-speaker = "ナナカ"
+speaker_original = "ナナカ"
+speaker_translation = "나나카"
 original = "「まあまあ、まだこれくらいなら接着剤で直せそうじゃん」"
 translation = "「자자, 아직 이 정도면 접착제로 고칠 수 있겠는데.」"
 
 [[dialogue]]
-speaker = "ロロット"
+speaker_original = "ロロット"
+speaker_translation = "로롯토"
 original = "「うう～～。これ以上は自分の力ではどうにもならないかもしれません……」"
 translation = "「우우~~. 이 이상은 제 힘으로 어떻게 안 될지도 모르겠어요……」"
 

@@ -4,17 +4,20 @@ original = "第３話,セーラの夢？,P"
 translation = "제3화, 세라의 꿈?, P"
 
 [[dialogue]]
-speaker = "セーラ"
+speaker_original = "セーラ"
+speaker_translation = "세라"
 original = "「ミーティングおっつー。今日もいろいろ案出たけど、もうちょっと詰めていきたいね」"
 translation = "「미팅 수고했어~. 오늘도 여러 안이 나왔는데 좀 더 다듬어 가고 싶네」"
 
 [[dialogue]]
-speaker = "ルリエル"
+speaker_original = "ルリエル"
+speaker_translation = "루리엘"
 original = "「お疲れ様でした～」"
 translation = "「수고하셨습니다~」"
 
 [[dialogue]]
-speaker = "セーラ"
+speaker_original = "セーラ"
+speaker_translation = "세라"
 original = "「ところでさ……うち、将来社長になりたいんだよね」"
 translation = "「그나저나 말이야…… 나, 나중에 사장이 되고 싶거든」"
 
@@ -24,17 +27,20 @@ original = "どうしたんですか突然"
 translation = "갑자기 왜 그러세요?"
 
 [[dialogue]]
-speaker = "セーラ"
+speaker_original = "セーラ"
+speaker_translation = "세라"
 original = "「うち、かっこいい女になりたいなって前から思ってて。そのイメージが社長なの」"
 translation = "「나, 멋진 여자가 되고 싶다고 전부터 생각했거든. 그 이미지가 사장이야」"
 
 [[dialogue]]
-speaker = "セーラ"
+speaker_original = "セーラ"
+speaker_translation = "세라"
 original = "「自分がトップに立って、自分で決めて。誰にも命令されず、成功も失敗も自分の責任。そういうのかっこいいなって」"
 translation = "「자신이 정점에 서서 스스로 결정하고. 누구에게도 명령받지 않고 성공도 실패도 자신의 책임. 그런 거 멋지잖아」"
 
 [[dialogue]]
-speaker = "セーラ"
+speaker_original = "セーラ"
+speaker_translation = "세라"
 original = "「もちろん星騎士としての役目を無事終えて卒業したらの話だけど。うち、星騎士やめたら社長になるんだ……ってやつ？」"
 translation = "「물론 성기사로서의 임무를 무사히 마치고 졸업한 뒤의 이야기지만. 나, 성기사 그만두면 사장이 될 거야…… 같은 거?」"
 
@@ -44,32 +50,38 @@ original = "それはダメなやつです"
 translation = "그건 안 좋은 플래그예요"
 
 [[dialogue]]
-speaker = "セーラ"
+speaker_original = "セーラ"
+speaker_translation = "세라"
 original = "「あはははっ」"
 translation = "「아하하하」"
 
 [[dialogue]]
-speaker = "ルリエル"
+speaker_original = "ルリエル"
+speaker_translation = "루리엘"
 original = "「女社長・桐原セーラ……いいですねっ！\u3000いしゅーなあぐりーをあじぇんだでこみっとするんですねっ！」"
 translation = "「여사장 키리하라 세라…… 좋네여! 이슈나 어그리를 아젠다로 커밋하는 거네여!」"
 
 [[dialogue]]
-speaker = "ルリエル"
+speaker_original = "ルリエル"
+speaker_translation = "루리엘"
 original = "「ガッポガッポ稼いでギロッポンにオフィスを構えて、シャンパン片手に大都会の夜景を眺めちゃいましょお～！」"
 translation = "「돈을 팍팍 벌어서 롯폰기에 오피스를 차리고, 샴페인 한 손에 들고 대도시의 야경을 감상하자구여~!」"
 
 [[dialogue]]
-speaker = "セーラ"
+speaker_original = "セーラ"
+speaker_translation = "세라"
 original = "「そうそう、目指せ億万長者！\u3000お札の風呂で泳いでやるぜ～！」"
 translation = "「맞아 맞아, 목표는 억만장자! 돈다발 욕조에서 수영해주마~!」"
 
 [[dialogue]]
-speaker = "ルリエル"
+speaker_original = "ルリエル"
+speaker_translation = "루리엘"
 original = "「ロマンですぅ～！」"
 translation = "「로망이에여~!」"
 
 [[dialogue]]
-speaker = "セーラ"
+speaker_original = "セーラ"
+speaker_translation = "세라"
 original = "「とまぁ、ギラついた野望はさておき、どんな事業がいいか一緒に考えてくんない？\u3000冗談半分でいいからさ」"
 translation = "「뭐, 그런 야심은 제쳐두고 어떤 사업이 좋을지 같이 생각해주지 않을래? 농담 반이라도 좋으니까」"
 
@@ -79,57 +91,68 @@ original = "やっぱり好きなものとか？"
 translation = "역시 좋아하는 거라든가?"
 
 [[dialogue]]
-speaker = "セーラ"
+speaker_original = "セーラ"
+speaker_translation = "세라"
 original = "「うちの好きなものかー……ネイル、コスメ、アクセ……ま、イメージはできるね。特色のある商品を作れれば事業になりそう」"
 translation = "「내가 좋아하는 거라~…… 네일, 코스메틱, 액세서리…… 뭐, 이미지는 그려지네. 특색 있는 상품을 만들 수 있다면 사업이 될 것 같아」"
 
 [[dialogue]]
-speaker = "ルリエル"
+speaker_original = "ルリエル"
+speaker_translation = "루리엘"
 original = "「はいはーいっ。セーラ先輩なら水着になればいいと思いまーすっ！\u3000うっふ、あっはーんで世の男性方にヒット間違いなしですっ！」"
 translation = "「저기여 저기여! 세라 선배라면 수영복 모델이 되면 된다고 생각해여! 우후, 아항~으로 세상 남자들에게 히트 치는 건 따놓은 당상이에여!」"
 
 [[dialogue]]
-speaker = "セーラ"
+speaker_original = "セーラ"
+speaker_translation = "세라"
 original = "「それ社長の仕事じゃないっしょ！」"
 translation = "「그건 사장이 할 일이 아니잖아!」"
 
 [[dialogue]]
-speaker = "ルリエル"
+speaker_original = "ルリエル"
+speaker_translation = "루리엘"
 original = "「あ、そうでしたっ」"
 translation = "「아, 그랬져」"
 
 [[dialogue]]
-speaker = "セーラ"
+speaker_original = "セーラ"
+speaker_translation = "세라"
 original = "「もう、ルリちーってば～。でも需要は大事だよね。潜在的に必要とされているものを発見できれば──」"
 translation = "「정말, 루리치도 참~. 하지만 수요는 중요하지. 잠재적으로 필요로 하는 걸 발견할 수 있다면──」"
 
 [[dialogue]]
-speaker = "セーラ"
+speaker_original = "セーラ"
+speaker_translation = "세라"
 original = "「あっ！\u3000ゲームのイベント始まってたの忘れてた！\u3000ごめんちょっと触っていい？」"
 translation = "「앗! 게임 이벤트 시작한 거 잊고 있었다! 미안, 잠깐만 만져도 돼?」"
 
 [[dialogue]]
-speaker = "セーラ"
+speaker_original = "セーラ"
+speaker_translation = "세라"
 original = "「あー、よかったー、スタミナ漏れてない。うち無課金プレイだから、できるだけムダなくやりたいんだよねー」"
 translation = "「아~ 다행이다, 스태미나 안 넘쳤어. 나 무과금 플레이라 가능한 한 낭비 없이 하고 싶거든~」"
 
 [[dialogue]]
-speaker = "ルリエル"
+speaker_original = "ルリエル"
+speaker_translation = "루리엘"
 original = "「えーっと、何かの漫画とコラボ？\u3000しててそこから始めたんでしたっけ。流星学園でもやってるのたまに見るのです」"
 translation = "「음, 무슨 만화랑 콜라보? 해서 거기서부터 시작했다고 하셨져. 유성 학원에서도 하는 거 가끔 보는 거예여」"
 
 [[dialogue]]
-speaker = "セーラ"
+speaker_original = "セーラ"
+speaker_translation = "세라"
 original = "「そうそう。今日のイベントのために石貯めといたから、今回の目玉キャラはこれで引けるはず……」"
 translation = "「맞아 맞아. 오늘 이벤트를 위해 돌을 모아뒀으니까, 이번 핵심 캐릭터는 이걸로 뽑을 수 있을 거야……」"
 
 [[dialogue]]
-speaker = "セーラ"
+speaker_original = "セーラ"
+speaker_translation = "세라"
 original = "「あ～っ！？\u3000石が溶ける～！\u3000らめ～っ！」"
 translation = "「아~!? 돌이 녹는다~! 안 돼애~!」"
 
 [[dialogue]]
-speaker = "セーラ"
+speaker_original = "セーラ"
+speaker_translation = "세라"
 original = "「くぅ～っ……あー、ダメ……レア度高いのは当たるけど、欲しいのが引けない……。課金しちゃおっかなぁ……あと少し、あと少しだけ回せば出る気がする……」"
 translation = "「크으~…… 아, 안 돼…… 레어도는 높은 게 나오는데 원하는 게 안 나와……. 과금해버릴까…… 조금만 더, 조금만 더 돌리면 나올 것 같은 기분이 들어……」"
 
@@ -139,12 +162,14 @@ original = "気のせいだと思います"
 translation = "기분 탓이라고 생각해요"
 
 [[dialogue]]
-speaker = "セーラ"
+speaker_original = "セーラ"
+speaker_translation = "세라"
 original = "「わかる」"
 translation = "「인정」"
 
 [[dialogue]]
-speaker = "セーラ"
+speaker_original = "セーラ"
+speaker_translation = "세라"
 original = "「でも課金して引けたらめっちゃ気持ちいいと思うんだよねー」"
 translation = "「하지만 과금해서 뽑으면 엄청 기분 좋을 것 같단 말이지~」"
 
@@ -154,72 +179,86 @@ original = "わかる"
 translation = "이해해요"
 
 [[dialogue]]
-speaker = "セーラ"
+speaker_original = "セーラ"
+speaker_translation = "세라"
 original = "「どうするか人生初課金……でも欲しい本あるからお金使うのはなー……」"
 translation = "「어떡할까 인생 첫 과금…… 하지만 사고 싶은 책이 있어서 돈 쓰는 건 좀 그런데~……」"
 
 [[dialogue]]
-speaker = "セーラ"
+speaker_original = "セーラ"
+speaker_translation = "세라"
 original = "「待てよ～、まだ受け取ってないミッションの石をかき集めれば……よし！\u3000あともうちょっと回せる！」"
 translation = "「잠깐만~ 아직 안 받은 미션 돌을 긁어모으면…… 좋아! 조금 더 돌릴 수 있어!」"
 
 [[dialogue]]
-speaker = "セーラ"
+speaker_original = "セーラ"
+speaker_translation = "세라"
 original = "「会長さん、回してもらっていい？\u3000あ、そんなビビんなくていいから。ゲン担ぎみたいなもんだし、ダメ元だからさ」"
 translation = "「회장님, 대신 좀 돌려줄래? 아, 그렇게 쫄 거 없어. 행운을 빌어보는 것뿐이고, 밑져야 본전이니까」"
 
 [[dialogue]]
-speaker = "セーラ"
+speaker_original = "セーラ"
+speaker_translation = "세라"
 original = "「会長さんの指を借りたいの。先っぽだけでいいから。ちょーっと触るだけだから。お願い！」"
 translation = "「회장님 손가락을 빌리고 싶어. 끝부분만 있으면 돼. 조~금 터치하는 것뿐이니까. 부탁해!」"
 
 [[dialogue]]
-speaker = "ルリエル"
+speaker_original = "ルリエル"
+speaker_translation = "루리엘"
 original = "「はいっ！\u3000ここは天使ルリエルが華麗に引き当ててみせますぅ！」"
 translation = "「네엣! 여기선 천사 루리엘이 화려하게 뽑아 보이겠어여!」"
 
 [[dialogue]]
-speaker = "セーラ"
+speaker_original = "セーラ"
+speaker_translation = "세라"
 original = "「ルリちーはこの前大爆死だったからダメ」"
 translation = "「루리치는 저번에 폭사했으니까 안 돼」"
 
 [[dialogue]]
-speaker = "ルリエル"
+speaker_original = "ルリエル"
+speaker_translation = "루리엘"
 original = "「あぅっ」"
 translation = "「아우으」"
 
 [[dialogue]]
-speaker = "セーラ"
+speaker_original = "セーラ"
+speaker_translation = "세라"
 original = "「会長さんお願いっ！\u3000先っぽっでツンってするだけ！\u3000ちょっとだけだから！\u3000……いい？\u3000じゃあここ押してみて」"
 translation = "「회장님 부탁해! 끝으로 툭 치기만 하면 돼! 잠깐뿐이니까! ……됐어? 그럼 여기 눌러봐」"
 
 [[dialogue]]
-speaker = "セーラ"
+speaker_original = "セーラ"
+speaker_translation = "세라"
 original = "「来い……来い……」"
 translation = "「나와라…… 나와라……」"
 
 [[dialogue]]
-speaker = "セーラ"
+speaker_original = "セーラ"
+speaker_translation = "세라"
 original = "「やった～～！！」"
 translation = "「해냈다~~!!」"
 
 [[dialogue]]
-speaker = "セーラ"
+speaker_original = "セーラ"
+speaker_translation = "세라"
 original = "「ほんっとありがと！\u3000神の指先だね！」"
 translation = "「정말 고마워! 신의 손가락이네!」"
 
 [[dialogue]]
-speaker = "セーラ"
+speaker_original = "セーラ"
+speaker_translation = "세라"
 original = "「あ……近かったね……ごめん。あはは、ちょっとはしゃぎすぎたかな……まぁ、今度何かお礼させて。ね？」"
 translation = "「아…… 좀 가까웠네…… 미안. 아하하, 너무 들떴나 봐…… 뭐, 다음에 뭔가 보답하게 해줘. 응?」"
 
 [[dialogue]]
-speaker = "セーラ"
+speaker_original = "セーラ"
+speaker_translation = "세라"
 original = "「って、何の話してたんだっけ？」"
 translation = "「그나저나 무슨 이야기 하고 있었더라?」"
 
 [[dialogue]]
-speaker = "セーラ"
+speaker_original = "セーラ"
+speaker_translation = "세라"
 original = "「そうだ、会社の話だった。じゃ、また今度意見聞かせてね～っ」"
 translation = "「맞다, 회사 이야기였지. 그럼 다음에 또 의견 들려줘~」"
 

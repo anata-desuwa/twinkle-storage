@@ -4,22 +4,26 @@ original = "第２話,舞亜修行中,P"
 translation = "제2화, 마이아 수행 중"
 
 [[dialogue]]
-speaker = "舞亜"
+speaker_original = "舞亜"
+speaker_translation = "마이아"
 original = "「ふっ──、はっ──」"
 translation = "「훗──, 하앗──」"
 
 [[dialogue]]
-speaker = "ソフィア"
+speaker_original = "ソフィア"
+speaker_translation = "소피아"
 original = "「もっと鋭く速く、星力を刃のように研ぎ澄ませるようなイメージです」"
 translation = "「좀 더 날카롭고 빠르게, 성력을 칼날처럼 갈고닦는 듯한 이미지예요」"
 
 [[dialogue]]
-speaker = "舞亜"
+speaker_original = "舞亜"
+speaker_translation = "마이아"
 original = "「こう──かな」"
 translation = "「이렇게── 일까」"
 
 [[dialogue]]
-speaker = "ソフィア"
+speaker_original = "ソフィア"
+speaker_translation = "소피아"
 original = "「そうです、その感じです」"
 translation = "「맞아요, 그런 느낌이에요」"
 
@@ -29,47 +33,56 @@ original = "特訓中？"
 translation = "특훈 중?"
 
 [[dialogue]]
-speaker = "舞亜"
+speaker_original = "舞亜"
+speaker_translation = "마이아"
 original = "「うん。私、大会とかで学園にいないことも多いから、ソフィに星術を教えてもらってるんだ」"
 translation = "「응. 나, 대회 같은 것 때문에 학원에 없을 때가 많으니까, 소피에게 성술을 배우고 있어」"
 
 [[dialogue]]
-speaker = "舞亜"
+speaker_original = "舞亜"
+speaker_translation = "마이아"
 original = "「流星学園に入ったからには、ちゃんと誰かを守れる星騎士になりたいからね」"
 translation = "「유성학원에 들어온 이상, 제대로 누군가를 지킬 수 있는 성기사가 되고 싶으니까」"
 
 [[dialogue]]
-speaker = "ソフィア"
+speaker_original = "ソフィア"
+speaker_translation = "소피아"
 original = "「舞亜さんは忙しいので、いつもというわけではないですが。これでも流星の星徒会役員ですから同学年の指導はできます」"
 translation = "「마이아 씨는 바쁘기 때문에, 언제나 그런 건 아니지만요. 이래 봬도 유성의 성도회 임원이니까 같은 학년 지도는 할 수 있어요」"
 
 [[dialogue]]
-speaker = "ソフィア"
+speaker_original = "ソフィア"
+speaker_translation = "소피아"
 original = "「ついでに勉強も見ています。舞亜さんは英語以外壊滅的ですからね……」"
 translation = "「덤으로 공부도 봐주고 있어요. 마이아 씨는 영어 말고는 괴멸적이니까요……」"
 
 [[dialogue]]
-speaker = "舞亜"
+speaker_original = "舞亜"
+speaker_translation = "마이아"
 original = "「ふふ、流星の受験の時は英語で一点突破したよ」"
 translation = "「후후, 유성 수험 때는 영어로 일점 돌파했어」"
 
 [[dialogue]]
-speaker = "ソフィア"
+speaker_original = "ソフィア"
+speaker_translation = "소피아"
 original = "「褒めてませんっ」"
 translation = "「칭찬하는 거 아니에요!」"
 
 [[dialogue]]
-speaker = "舞亜"
+speaker_original = "舞亜"
+speaker_translation = "마이아"
 original = "「ははは。ソフィにはほんとに助けられてるよ。いつもありがとう」"
 translation = "「하하하. 소피에겐 정말 도움받고 있어. 항상 고마워」"
 
 [[dialogue]]
-speaker = "ソフィア"
+speaker_original = "ソフィア"
+speaker_translation = "소피아"
 original = "「むー……」"
 translation = "「무-……」"
 
 [[dialogue]]
-speaker = "舞亜"
+speaker_original = "舞亜"
+speaker_translation = "마이아"
 original = "「そうだ、会長さんにもトレーニングお願いしていいかな？\u3000とっても強いんでしょ」"
 translation = "「맞다, 회장님에게도 트레이닝 부탁해도 될까? 엄청 강하다며」"
 
@@ -79,17 +92,20 @@ original = "お安い御用だ"
 translation = "식은 죽 먹기지"
 
 [[dialogue]]
-speaker = "舞亜"
+speaker_original = "舞亜"
+speaker_translation = "마이아"
 original = "「ふふっ、気前がいいね。それじゃお願いします」"
 translation = "「후훗, 시원시원하네. 그럼 부탁해」"
 
 [[dialogue]]
-speaker = "舞亜"
+speaker_original = "舞亜"
+speaker_translation = "마이아"
 original = "「ふぅ……ありがとう、会長さん。自分でも動きが良くなった気がするよ」"
 translation = "「후우…… 고마워, 회장님. 스스로도 움직임이 좋아진 것 같아」"
 
 [[dialogue]]
-speaker = "舞亜"
+speaker_original = "舞亜"
+speaker_translation = "마이아"
 original = "「もしかして、女の子をエスコートするのは手慣れてるのかな？」"
 translation = "「혹시, 여자애를 에스코트하는 건 익숙한 걸까?」"
 
@@ -99,17 +115,20 @@ original = "いや全然"
 translation = "아니 전혀"
 
 [[dialogue]]
-speaker = "舞亜"
+speaker_original = "舞亜"
+speaker_translation = "마이아"
 original = "「そうなんだ。会長さん、モテそうなのにね」"
 translation = "「그렇구나. 회장님, 인기 많을 것 같은데 말이야」"
 
 [[dialogue]]
-speaker = "ソフィア"
+speaker_original = "ソフィア"
+speaker_translation = "소피아"
 original = "「そろそろ終わりにしましょうか。フィギュアの試合も近いですし、体に障ると良くないです」"
 translation = "「슬슬 끝낼까요. 피겨 시합도 가깝고, 몸에 무리가 가면 안 좋으니까요」"
 
 [[dialogue]]
-speaker = "舞亜"
+speaker_original = "舞亜"
+speaker_translation = "마이아"
 original = "「ごめん、もうちょっとだけいい？\u3000最近フィギュアの練習ばかりだったし、あと少しで感覚が掴めそうなんだ」"
 translation = "「미안, 조금만 더 해도 될까? 최근 피겨 연습만 했더니, 조금만 더 하면 감을 잡을 수 있을 것 같아」"
 
@@ -119,7 +138,8 @@ original = "どうしてそんなに一生懸命なんだ？"
 translation = "어째서 그렇게 열심히 하는 거야?"
 
 [[dialogue]]
-speaker = "舞亜"
+speaker_original = "舞亜"
+speaker_translation = "마이아"
 original = "「私ね、星になりたいんだ」"
 translation = "「나 말이야, 별이 되고 싶어」"
 
@@ -129,72 +149,86 @@ original = "星？"
 translation = "별?"
 
 [[dialogue]]
-speaker = "舞亜"
+speaker_original = "舞亜"
+speaker_translation = "마이아"
 original = "「ああ、変な言い方しちゃったね」"
 translation = "「아아, 이상하게 말해버렸네」"
 
 [[dialogue]]
-speaker = "舞亜"
+speaker_original = "舞亜"
+speaker_translation = "마이아"
 original = "「前にフィギュアスケートの会場にモンスターが現れたことがあって、星騎士に助けてもらったんだ」"
 translation = "「전에 피겨 스케이팅 경기장에 몬스터가 나타난 적이 있었는데, 성기사에게 도움을 받았거든」"
 
 [[dialogue]]
-speaker = "舞亜"
+speaker_original = "舞亜"
+speaker_translation = "마이아"
 original = "「その時の星騎士さんがとてもかっこよくて、その名の通り、夜空に輝く星みたいだと思って」"
 translation = "「그때 성기사님이 너무 멋있어서, 그 이름 그대로 밤하늘에 빛나는 별 같다고 생각했어」"
 
 [[dialogue]]
-speaker = "舞亜"
+speaker_original = "舞亜"
+speaker_translation = "마이아"
 original = "「私もそんな存在になりたいと思ってここに来たんだ」"
 translation = "「나도 그런 존재가 되고 싶어서 여기 온 거야」"
 
 [[dialogue]]
-speaker = "舞亜"
+speaker_original = "舞亜"
+speaker_translation = "마이아"
 original = "「親は、私はスケート以外興味ないと思ってたみたいで、すごく驚いてたけど。でも話したらちゃんと理解してくれた」"
 translation = "「부모님은 내가 스케이트 말고는 관심 없는 줄 아셨던 모양이라, 엄청 놀라셨지만. 그래도 이야기했더니 제대로 이해해 주셨어」"
 
 [[dialogue]]
-speaker = "舞亜"
+speaker_original = "舞亜"
+speaker_translation = "마이아"
 original = "「あと、私を助けてくれた星騎士さんにもう一度会ってお礼を言いたくて」"
 translation = "「그리고, 나를 구해준 성기사님을 다시 한번 만나서 고맙다는 인사를 하고 싶어서」"
 
 [[dialogue]]
-speaker = "ソフィア"
+speaker_original = "ソフィア"
+speaker_translation = "소피아"
 original = "「その星騎士はどなたなんでしょうね。フィオナ会長やセーラ先輩は覚えがないと言っていましたが」"
 translation = "「그 성기사는 누구일까요. 피오나 회장님이나 세라 선배는 기억이 없다고 하셨지만요」"
 
 [[dialogue]]
-speaker = "舞亜"
+speaker_original = "舞亜"
+speaker_translation = "마이아"
 original = "「うーん、流星に入ってから見たことないんだよね、その人。大人っぽい人だからもう卒業してるのかも。名前聞いておけばよかったなぁ」"
 translation = "「으음, 유성에 들어오고 나서 본 적이 없단 말이지, 그 사람. 어른스러운 사람이었으니까 이미 졸업했을지도 몰라. 이름을 물어볼걸 그랬어」"
 
 [[dialogue]]
-speaker = "舞亜"
+speaker_original = "舞亜"
+speaker_translation = "마이아"
 original = "「まぁ、星騎士として戦ってたらきっとそのうち会えるでしょ。そのためにも強くならないとね」"
 translation = "「뭐, 성기사로서 싸우다 보면 분명 언젠가 만날 수 있겠지. 그러기 위해서라도 강해져야 하고」"
 
 [[dialogue]]
-speaker = "ソフィア"
+speaker_original = "ソフィア"
+speaker_translation = "소피아"
 original = "「星力で空中に氷を作って滑るとは……さすが舞亜さん、フィギュアスケートの動きを取り入れた綺麗な技です」"
 translation = "「성력으로 공중에 얼음을 만들어 미끄러지다니…… 역시 마이아 씨, 피겨 스케이팅의 움직임을 도입한 아름다운 기술이에요」"
 
 [[dialogue]]
-speaker = "舞亜"
+speaker_original = "舞亜"
+speaker_translation = "마이아"
 original = "「だって怖いじゃん、空飛ぶのって」"
 translation = "「그치만 무섭잖아, 하늘을 나는 건」"
 
 [[dialogue]]
-speaker = "ソフィア"
+speaker_original = "ソフィア"
+speaker_translation = "소피아"
 original = "「は──？」"
 translation = "「하──?」"
 
 [[dialogue]]
-speaker = "舞亜"
+speaker_original = "舞亜"
+speaker_translation = "마이아"
 original = "「みんな戦うときはビュンビュン飛んでるけど、人が重力に反して飛ぶなんておかしくない？」"
 translation = "「다들 싸울 때는 쌩쌩 날아다니지만, 사람이 중력을 거슬러 난다는 건 이상하지 않아?」"
 
 [[dialogue]]
-speaker = "舞亜"
+speaker_original = "舞亜"
+speaker_translation = "마이아"
 original = "「スケートのジャンプは自分の足で跳んでるからいいんだけどさ、星力で飛ぶと足元がふわふわして不安になるんだ」"
 translation = "「스케이트 점프는 자기 발로 뛰는 거니까 괜찮은데, 성력으로 날면 발밑이 둥둥 떠서 불안해져」"
 
@@ -204,47 +238,56 @@ original = "だから氷の上滑ってるんだ……"
 translation = "그래서 얼음 위를 미끄러지는 거구나……"
 
 [[dialogue]]
-speaker = "舞亜"
+speaker_original = "舞亜"
+speaker_translation = "마이아"
 original = "「そうだよ。飛行機乗る時も怖いからいつも毛布被って全力で寝てるし」"
 translation = "「맞아. 비행기 탈 때도 무서워서 항상 담요 뒤집어쓰고 필사적으로 자거든」"
 
 [[dialogue]]
-speaker = "ソフィア"
+speaker_original = "ソフィア"
+speaker_translation = "소피아"
 original = "「…………」"
 translation = "「…………」"
 
 [[dialogue]]
-speaker = "ソフィア"
+speaker_original = "ソフィア"
+speaker_translation = "소피아"
 original = "「私の感心を返してくださいっ」"
 translation = "「제 감동을 돌려주세요!」"
 
 [[dialogue]]
-speaker = "舞亜"
+speaker_original = "舞亜"
+speaker_translation = "마이아"
 original = "「そう言われてもなー。ほかのことで感心してもらうから返さなくていい？」"
 translation = "「그렇게 말해도 말이야-. 다른 걸로 감동시켜 줄 테니까 안 돌려줘도 돼?」"
 
 [[dialogue]]
-speaker = "ソフィア"
+speaker_original = "ソフィア"
+speaker_translation = "소피아"
 original = "「そういう問題じゃありません。むぅ……」"
 translation = "「그런 문제가 아니에요. 으으……」"
 
 [[dialogue]]
-speaker = "舞亜"
+speaker_original = "舞亜"
+speaker_translation = "마이아"
 original = "「じゃあ今度、新しい衣装とプログラムを見せてあげる。まだどこの大会でも使ってないやつだよ」"
 translation = "「그럼 다음에, 새로운 의상이랑 프로그램을 보여줄게. 아직 어떤 대회에서도 안 쓴 거야」"
 
 [[dialogue]]
-speaker = "ソフィア"
+speaker_original = "ソフィア"
+speaker_translation = "소피아"
 original = "「それなら──というかむしろサービスしすぎじゃないですか！？」"
 translation = "「그거라면── 이라기보다 오히려 서비스가 너무 과한 거 아닌가요!?」"
 
 [[dialogue]]
-speaker = "舞亜"
+speaker_original = "舞亜"
+speaker_translation = "마이아"
 original = "「言ったでしょ、ソフィには助けられてるって。あ、会長さんもついでに見る？」"
 translation = "「말했잖아, 소피에게 도움받고 있다고. 아, 회장님도 덤으로 볼래?」"
 
 [[dialogue]]
-speaker = "舞亜"
+speaker_original = "舞亜"
+speaker_translation = "마이아"
 original = "「あ、でもけっこうきわどい衣装だから、エッチな目で見ちゃダメだよ？\u3000ふふふっ♪」"
 translation = "「아, 하지만 꽤 아슬아슬한 의상이니까, 야한 눈으로 보면 안 돼? 후후후♪」"
 

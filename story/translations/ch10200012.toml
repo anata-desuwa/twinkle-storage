@@ -4,37 +4,44 @@ original = "第２話,Ｖチューバーは大変,P"
 translation = "제2화, VTuber는 힘들어, P"
 
 [[dialogue]]
-speaker = "ルルカ"
+speaker_original = "ルルカ"
+speaker_translation = "루루카"
 original = "「ねーねー。お兄ちゃん。くしゃみをするとね、配信のコメントで『くしゃみ助かる』って言われるんだけど、くしゃみって助かるのかな？」"
 translation = "「저기저기. 오빠. 재채기를 하면 말이야, 방송 코멘트로 『재채기 고맙다』라는 말을 듣는데, 재채기가 도움이 되는 걸까?」"
 
 [[dialogue]]
-speaker = "ルルカ"
+speaker_original = "ルルカ"
+speaker_translation = "루루카"
 original = "「面白いよね～。舌打ちしても『投げキッス助かる』って言われるし、激辛企画で鼻水ズルズルになっちゃった時も『鼻水助かる』って言われるし」"
 translation = "「재밌지~. 혀를 차도 『손키스 고맙다』라는 소리를 듣고, 매운맛 기획으로 콧물 훌쩍거리게 됐을 때도 『콧물 고맙다』라는 소리를 듣는다니까」"
 
 [[dialogue]]
-speaker = "ルルカ"
+speaker_original = "ルルカ"
+speaker_translation = "루루카"
 original = "「もしかして、Ｖチューバーのリスナーさんって汚いのが好きなのかな……？」"
 translation = "「혹시 VTuber 리스너들은 더러운 걸 좋아하는 걸까……?」"
 
 [[dialogue]]
-speaker = "ルルカ"
+speaker_original = "ルルカ"
+speaker_translation = "루루카"
 original = "「う～ん……今まで芸人さんみたいなこと沢山してきたから、そういう路線に行ってもおかしいとは思われないだろうけど……まだ清楚路線の可能性を捨てたくないなぁ……」"
 translation = "「으음…… 지금까지 예능인 같은 짓을 잔뜩 해왔으니까 그런 노선으로 가도 이상하게 여기진 않겠지만…… 아직 청초 노선의 가능성을 버리고 싶지 않단 말이지……」"
 
 [[dialogue]]
-speaker = "ルルカ"
+speaker_original = "ルルカ"
+speaker_translation = "루루카"
 original = "「……汚いのが好きなわけじゃない？\u3000ギャップ？」"
 translation = "「……더러운 걸 좋아하는 게 아니라고? 갭 차이?」"
 
 [[dialogue]]
-speaker = "ルルカ"
+speaker_original = "ルルカ"
+speaker_translation = "루루카"
 original = "「あたしみたいな見た目の子が、くしゃみしたり鼻水ズルズルになってるのがいいの？\u3000な、なるほど……お兄ちゃん、意外と詳しいんだね」"
 translation = "「나처럼 생긴 애가 재채기를 하거나 콧물을 훌쩍이는 게 좋다는 거야? 그, 그렇구나…… 오빠, 의외로 잘 아네」"
 
 [[dialogue]]
-speaker = "ルルカ"
+speaker_original = "ルルカ"
+speaker_translation = "루루카"
 original = "「な、なんかちょっとヘンタイっぽくない……？」"
 translation = "「왠지 좀 변태 같지 않아……?」"
 
@@ -44,27 +51,32 @@ original = "ヘンタイと罵られるのもまたギャップかも"
 translation = "변태라고 매도당하는 것도 하나의 갭일지도 몰라"
 
 [[dialogue]]
-speaker = "ルルカ"
+speaker_original = "ルルカ"
+speaker_translation = "루루카"
 original = "「言葉って難しいね……あたしがなんとなしに言った言葉とかで、コメントしてるみんながざわざわするんだもん」"
 translation = "「말이란 건 참 어렵네…… 내가 아무 생각 없이 내뱉은 말 같은 거에 코멘트하는 모두가 술렁거리니까」"
 
 [[dialogue]]
-speaker = "ルルカ"
+speaker_original = "ルルカ"
+speaker_translation = "루루카"
 original = "「例えば……あたしがホラーゲームで悲鳴を上げたりすると、それがなんか……え、えっちな声に聞こえるとか言われるんだよ……」"
 translation = "「예를 들면…… 내가 호러 게임에서 비명을 지르면, 그게 왠지…… 에, 에로한 목소리로 들린다는 소리를 듣는다구……」"
 
 [[dialogue]]
-speaker = "ルルカ"
+speaker_original = "ルルカ"
+speaker_translation = "루루카"
 original = "「『正直興奮した』とかコメントされるの。だから、なんかあたしも調子に乗ってそれっぽい声を出してみたりするんだけど……」"
 translation = "「『솔직히 흥분했다』 같은 코멘트가 달려. 그래서 나도 왠지 우쭐해져서 그런 느낌의 목소리를 내보기도 하는데……」"
 
 [[dialogue]]
-speaker = "ルルカ"
+speaker_original = "ルルカ"
+speaker_translation = "루루카"
 original = "「……その、わざとえっちっぽい声を出そうとすると、『無理すんな』とか『キッツ』とか言われるんだよ！！」"
 translation = "「……그게, 일부러 에로한 목소리를 내려고 하면 『무리하지 마』라든가 『역하다』라는 소리를 듣는다니까!!」"
 
 [[dialogue]]
-speaker = "ルルカ"
+speaker_original = "ルルカ"
+speaker_translation = "루루카"
 original = "「どっちがいいのか全然わかんなくない！？！？\u3000頑張って勇気出してえっちっぽい声出したのに！\u3000『キッツ』って酷いよね！？」"
 translation = "「어느 쪽이 좋은 건지 전혀 모르겠지 않아!? 열심히 용기 내서 에로한 목소리 냈는데! 『역하다』니 너무하잖아!?」"
 
@@ -74,102 +86,122 @@ original = "自然体でいるのが１番いいってことだ"
 translation = "있는 그대로의 모습으로 있는 게 제일 좋다는 뜻이지"
 
 [[dialogue]]
-speaker = "ルルカ"
+speaker_original = "ルルカ"
+speaker_translation = "루루카"
 original = "「ううん、自然体過ぎるのもよくないんだよ……前に、あたしのままがいいのかなって思って、配信中にお菓子とかぱりぱり音を立てて食べてたんだけど……」"
 translation = "「아니, 너무 있는 그대로인 것도 좋지 않아…… 저번에 나다운 게 좋을까 싶어서 방송 중에 과자 같은 걸 바삭바삭 소리 내며 먹었는데……」"
 
 [[dialogue]]
-speaker = "ルルカ"
+speaker_original = "ルルカ"
+speaker_translation = "루루카"
 original = "「アカウントのＤＭで、『プロ意識が足りないんじゃないですか』とか『中の人感全開で見てられない』とか、すっごい色々言われたんだよ……」"
 translation = "「계정 DM으로 『프로 의식이 부족한 거 아닌가요』라든가 『안의 사람 느낌이 너무 나서 못 봐주겠다』라든가, 엄청 여러 소리를 들었단 말이야……」"
 
 [[dialogue]]
-speaker = "ルルカ"
+speaker_original = "ルルカ"
+speaker_translation = "루루카"
 original = "「む～～！\u3000思い出したらなんかムカムカしてきたかも！」"
 translation = "「으으으~! 생각하니까 왠지 울컥해졌어!」"
 
 [[dialogue]]
-speaker = "ルルカ"
+speaker_original = "ルルカ"
+speaker_translation = "루루카"
 original = "「更新も毎日してたし、コメントにもなるべく反応するようにしてたし、プロ意識だったら誰にも負けない自信があったのに、なんであんなこと言われなきゃいけないんだろ～！」"
 translation = "「업로드도 매일 했고, 코멘트에도 가급적 반응하려고 했고, 프로 의식이라면 누구에게도 지지 않을 자신 있었는데, 왜 그런 소리를 들어야 하는 거냐구~!」"
 
 [[dialogue]]
-speaker = "ルルカ"
+speaker_original = "ルルカ"
+speaker_translation = "루루카"
 original = "「お兄ちゃんもそう思うよね！？」"
 translation = "「오빠도 그렇게 생각하지!?」"
 
 [[dialogue]]
-speaker = "ルルカ"
+speaker_original = "ルルカ"
+speaker_translation = "루루카"
 original = "「…………待って。今、いいこと思いついたかも」"
 translation = "「…………잠깐. 지금 좋은 생각이 났을지도」"
 
 [[dialogue]]
-speaker = "ルルカ"
+speaker_original = "ルルカ"
+speaker_translation = "루루카"
 original = "「これをネタにして、ルカルカに来た記憶に残ったコメントランキングの動画とか作るのはどうかな！？\u3000ランキング系の動画って強いし、なんか再生数稼げそうな気がする！」"
 translation = "「이걸 소재로 삼아서, 루카루카에게 온 기억에 남는 코멘트 랭킹 영상 같은 걸 만드는 건 어떨까!? 랭킹 계열 영상은 인기가 많으니까 왠지 조회수 잘 나올 것 같아!」"
 
 [[dialogue]]
-speaker = "ルルカ"
+speaker_original = "ルルカ"
+speaker_translation = "루루카"
 original = "「よーし、帰って動画の編集しよ！\u3000ふっふっふ……いつか何かに使ってやろうと思って、全部スクショして保存してるんだから……！」"
 translation = "「좋아, 집에 가서 영상 편집하자! 훗훗훗…… 언젠가 써먹으려고 전부 스크린샷 찍어서 저장해 뒀거든……!」"
 
 [[dialogue]]
-speaker = "ルルカ"
+speaker_original = "ルルカ"
+speaker_translation = "루루카"
 original = "「初期の頃のコメント、懐かしいなぁ……変な人も多かったけど、優しい人もたくさんいたもんね……まだあたしの配信見てくれてるのかなぁ……」"
 translation = "「초창기 코멘트들, 그립네…… 이상한 사람도 많았지만 착한 사람도 잔뜩 있었지…… 아직 내 방송 봐주고 있으려나……」"
 
 [[dialogue]]
-speaker = "ルルカ"
+speaker_original = "ルルカ"
+speaker_translation = "루루카"
 original = "「ん……？\u3000これ、どういう意味だろ。『オフパコ』？\u3000オフパコってなに……？」"
 translation = "「응……? 이거 무슨 뜻이지. 『오프파코』? 오프파코가 뭐야……?」"
 
 [[dialogue]]
-speaker = "ルルカ"
+speaker_original = "ルルカ"
+speaker_translation = "루루카"
 original = "「リーリアちゃんに聞いてみよっかな。こういうのきっと詳しいだろうし……」"
 translation = "「리리아짱한테 물어볼까. 이런 거 분명 잘 알 테니까……」"
 
 [[dialogue]]
-speaker = "ルルカ"
+speaker_original = "ルルカ"
+speaker_translation = "루루카"
 original = "「えっと……『オフパコってどういう意味か知ってる？』……っと」"
 translation = "「어디 보자…… 『오프파코가 무슨 뜻인지 알아?』……라고」"
 
 [[dialogue]]
-speaker = "ルルカ"
+speaker_original = "ルルカ"
+speaker_translation = "루루카"
 original = "「わっ、もう返信きた。えっと、なになに……」"
 translation = "「와, 벌써 답장 왔다. 어디 보자, 어디 보자……」"
 
 [[dialogue]]
-speaker = "アナ"
+speaker_original = "アナ"
+speaker_translation = "아나"
 original = "「会長、今日はルルカさんが来るらしいです」"
 translation = "「회장님, 오늘은 루루카 씨가 온다고 합니다」"
 
 [[dialogue]]
-speaker = "アナ"
+speaker_original = "アナ"
+speaker_translation = "아나"
 original = "「はい。クラスメイトなので。会長に用事があると言ってました。もう少ししたらここにやって来る──」"
 translation = "「네. 클래스메이트니까요. 회장님께 용건이 있다고 했습니다. 조금 있으면 이곳에 올──」"
 
 [[dialogue]]
-speaker = "ルルカ"
+speaker_original = "ルルカ"
+speaker_translation = "루루카"
 original = "「お兄ちゃん、お待たせ！\u3000アナちゃんもお疲れ様～！」"
 translation = "「오빠, 기다렸지! 아나짱도 수고했어~!」"
 
 [[dialogue]]
-speaker = "ルルカ"
+speaker_original = "ルルカ"
+speaker_translation = "루루카"
 original = "「お兄ちゃんってもう、今日は星徒会の用事はない感じ？」"
 translation = "「오빠는 이제 오늘 성도회 용건은 끝난 느낌?」"
 
 [[dialogue]]
-speaker = "アナ"
+speaker_original = "アナ"
+speaker_translation = "아나"
 original = "「ちょうど終わった。今からオフ」"
 translation = "「방금 끝났다. 지금부터 오프(Off)다」"
 
 [[dialogue]]
-speaker = "ルルカ"
+speaker_original = "ルルカ"
+speaker_translation = "루루카"
 original = "「良かったー！\u3000ナイスタイミング。それじゃー、お兄ちゃん！」"
 translation = "「다행이다! 나이스 타이밍. 그럼 오빠!」"
 
 [[dialogue]]
-speaker = "ルルカ"
+speaker_original = "ルルカ"
+speaker_translation = "루루카"
 original = "「今からあたしと──オフパコしよ！！」"
 translation = "「지금부터 나랑── 오프파코 하자!!」"
 
@@ -179,57 +211,68 @@ original = "は！？！？！？！？！？！？"
 translation = "하!?!?!?!?!?!?!?!?!?"
 
 [[dialogue]]
-speaker = "アナ"
+speaker_original = "アナ"
+speaker_translation = "아나"
 original = "「──！？」"
 translation = "「──!?」"
 
 [[dialogue]]
-speaker = "ルルカ"
+speaker_original = "ルルカ"
+speaker_translation = "루루카"
 original = "「お兄ちゃん、お仕事で疲れてるだろうし。あたしと一緒にリフレッシュしよーよ！\u3000ねっ♪」"
 translation = "「오빠, 일하느라 지쳤을 테니까. 나랑 같이 리프레시하자! 응?♪」"
 
 [[dialogue]]
-speaker = "ルルカ"
+speaker_original = "ルルカ"
+speaker_translation = "루루카"
 original = "「昨日、リーリアちゃんに教えてもらったんだけど、オフパコって凄く良いらしいよ！\u3000疲れも吹き飛ぶって！\u3000どう？\u3000オフパコしよお兄ちゃん！」"
 translation = "「어제 리리아짱이 가르쳐줬는데, 오프파코가 엄청 좋대! 피로도 싹 가신다나 봐! 어때? 오프파코 하자, 오빠!」"
 
 [[dialogue]]
-speaker = "アナ"
+speaker_original = "アナ"
+speaker_translation = "아나"
 original = "「会長……流石に引く……」"
 translation = "「회장님…… 솔직히 정떨어지네요……」"
 
 [[dialogue]]
-speaker = "ルルカ"
+speaker_original = "ルルカ"
+speaker_translation = "루루카"
 original = "「あ、そうだ。アナちゃんもご一緒する？\u3000オフパコ！」"
 translation = "「아, 맞다. 아나짱도 같이 할래? 오프파코!」"
 
 [[dialogue]]
-speaker = "アナ"
+speaker_original = "アナ"
+speaker_translation = "아나"
 original = "「私も！？」"
 translation = "「저도요!?」"
 
 [[dialogue]]
-speaker = "ルルカ"
+speaker_original = "ルルカ"
+speaker_translation = "루루카"
 original = "「うん、みんなでオフパコしたらきっと何倍も楽しいよ！」"
 translation = "「응, 다 같이 오프파코 하면 분명 몇 배는 더 즐거울 거야!」"
 
 [[dialogue]]
-speaker = "アナ"
+speaker_original = "アナ"
+speaker_translation = "아나"
 original = "「……ルルカさん、あまりその言葉はみだりに口にしないほうが良いかと。会長、ちょっと奥まで来てください。説教」"
 translation = "「……루루카 씨, 그 말은 함부로 입에 담지 않는 게 좋을 것 같군요. 회장님, 잠깐 안으로 오세요. 설교입니다」"
 
 [[dialogue]]
-speaker = "アナ"
+speaker_original = "アナ"
+speaker_translation = "아나"
 original = "「抵抗は無理。きりきり歩く」"
 translation = "「저항은 무의미합니다. 어서 걷죠」"
 
 [[dialogue]]
-speaker = "ルルカ"
+speaker_original = "ルルカ"
+speaker_translation = "루루카"
 original = "「…………あれ？\u3000も、もしかして言っちゃいけない言葉だったのかな」"
 translation = "「…………어라? 호, 혹시 하면 안 되는 말이었나」"
 
 [[dialogue]]
-speaker = "ルルカ"
+speaker_original = "ルルカ"
+speaker_translation = "루루카"
 original = "「オフパコって……『オフにパフェを食べに行こ』の略だって……リーリアちゃんは言ってたんだけどな……？」"
 translation = "「오프파코란 게…… 『오프(휴일)에 파르페 먹으러 가자』의 줄임말이라고…… 리리아짱이 그랬는데……?」"
 

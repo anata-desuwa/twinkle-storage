@@ -1,20 +1,24 @@
 [[dialogue]]
-speaker = "リーナ"
+speaker_original = "リーナ"
+speaker_translation = "리나"
 original = "「お兄ちゃんの敵は……死んで！」"
 translation = "「오빠의 적은…… 죽어!」"
 
 [[dialogue]]
-speaker = "ヴァレリー"
+speaker_original = "ヴァレリー"
+speaker_translation = "발레리"
 original = "「どうして邪魔するのです、リーナ？\u3000あなたもコラプサーでしょう？」"
 translation = "「어째서 방해하는 겁니까, 리나? 당신도 콜랩서잖아요?」"
 
 [[dialogue]]
-speaker = "リーナ"
+speaker_original = "リーナ"
+speaker_translation = "리나"
 original = "「死んじゃえ～～っ！」"
 translation = "「죽어버려~~!」"
 
 [[dialogue]]
-speaker = "ヴァレリー"
+speaker_original = "ヴァレリー"
+speaker_translation = "발레리"
 original = "「っと……！\u3000本当に容赦がないですね。油断しているとズタズタにされそうです」"
 translation = "「오토……! 정말 가차 없군요. 방심하면 갈기갈기 찢기겠어요.」"
 
@@ -24,22 +28,26 @@ original = "リーナがコラプサ－……！？"
 translation = "리나가 콜랩서……!?"
 
 [[dialogue]]
-speaker = "シアン"
+speaker_original = "シアン"
+speaker_translation = "시안"
 original = "「じゃあどうしてヴァレリーと戦ってんだ？\u3000しかもマジで殺す気だぞ？」"
 translation = "「그럼 왜 발레리랑 싸우는 건데? 그것도 진짜 죽일 기세라고?」"
 
 [[dialogue]]
-speaker = "セナリィ"
+speaker_original = "セナリィ"
+speaker_translation = "세나리"
 original = "「ここはあのお子様に加勢して追撃するべきでしょうか？」"
 translation = "「저 아이에게 가세해서 추격해야 할까요?」"
 
 [[dialogue]]
-speaker = "ネーゼマイン"
+speaker_original = "ネーゼマイン"
+speaker_translation = "네제마인"
 original = "「やめといたほうがいいんじゃないかな～？\u3000あの勢いだと私たちも敵と認識されかねないし」"
 translation = "「안 그러는 게 좋을 것 같은데~? 저 기세라면 우리도 적으로 인식될지도 모르고.」"
 
 [[dialogue]]
-speaker = "せつな"
+speaker_original = "せつな"
+speaker_translation = "세츠나"
 original = "「それにしても、主様はどうしてそんなに妹が増えるでござるか？」"
 translation = "「그건 그렇고, 주인님은 어째서 그렇게 여동생이 늘어나는 것이오?」"
 
@@ -49,127 +57,152 @@ original = "そう言われても……"
 translation = "그렇게 물으셔도……"
 
 [[dialogue]]
-speaker = "リーナ"
+speaker_original = "リーナ"
+speaker_translation = "리나"
 original = "「お兄ちゃんはリーナが守るの！\u3000お兄ちゃんの敵は──リーナの敵！」"
 translation = "「오빠는 리나가 지킬 거야! 오빠의 적은── 리나의 적!」"
 
 [[dialogue]]
-speaker = "ヴァレリー"
+speaker_original = "ヴァレリー"
+speaker_translation = "발레리"
 original = "「お兄ちゃん……？\u3000もしかして新星学園の会長さんのことでしょうか？」"
 translation = "「오빠……? 혹시 신성학원의 회장님을 말하는 걸까요?」"
 
 [[dialogue]]
-speaker = "リーナ"
+speaker_original = "リーナ"
+speaker_translation = "리나"
 original = "「そう！\u3000リーナのお兄ちゃん！」"
 translation = "「그래! 리나의 오빠!」"
 
 [[dialogue]]
-speaker = "ヴァレリー"
+speaker_original = "ヴァレリー"
+speaker_translation = "발레리"
 original = "「──」"
 translation = "「──」"
 
 [[dialogue]]
-speaker = "ヴァレリー"
+speaker_original = "ヴァレリー"
+speaker_translation = "발레리"
 original = "「アハハッ、アハハハハッ！\u3000私が探している間にもう会長さんに近づいていたのですか。いやはや、さすがですね」"
 translation = "「아하하, 아하하하하! 제가 찾고 있는 사이에 벌써 회장님께 접근한 거였습니까. 거참, 과연이군요.」"
 
 [[dialogue]]
-speaker = "ヴァレリー"
+speaker_original = "ヴァレリー"
+speaker_translation = "발레리"
 original = "「リーナ、話を聞いてください。私はあなたを探しに来たのです」"
 translation = "「리나, 이야기를 들으세요. 저는 당신을 찾으러 온 겁니다.」"
 
 [[dialogue]]
-speaker = "ヴァレリー"
+speaker_original = "ヴァレリー"
+speaker_translation = "발레리"
 original = "「あなたが見つかった以上、戦う理由はありません。ですからここでお開きです」"
 translation = "「당신을 찾은 이상 싸울 이유는 없습니다. 그러니 여기서 끝내도록 하죠.」"
 
 [[dialogue]]
-speaker = "リーナ"
+speaker_original = "リーナ"
+speaker_translation = "리나"
 original = "「へ？」"
 translation = "「헤?」"
 
 [[dialogue]]
-speaker = "シアン"
+speaker_original = "シアン"
+speaker_translation = "시안"
 original = "「……は？」"
 translation = "「……하?」"
 
 [[dialogue]]
-speaker = "ヴァレリー"
+speaker_original = "ヴァレリー"
+speaker_translation = "발레리"
 original = "「何を隠そう、私は合流途中でいなくなったリーナを探していただけでして」"
 translation = "「사실은 말이죠, 저는 합류 도중에 사라진 리나를 찾고 있었을 뿐이라서요.」"
 
 [[dialogue]]
-speaker = "ヴァレリー"
+speaker_original = "ヴァレリー"
+speaker_translation = "발레리"
 original = "「星騎士との戦闘は命令されていなかったのですが……これでは勝手なことをしていると彼女を責められませんね。ハハハ」"
 translation = "「성기사와의 전투는 명령받지 않았습니다만…… 이래서야 제멋대로 행동한다고 그녀를 비난할 수 없겠네요. 하하하.」"
 
 [[dialogue]]
-speaker = "シアン"
+speaker_original = "シアン"
+speaker_translation = "시안"
 original = "「ハハハじゃねえ」"
 translation = "「하하하가 아니야.」"
 
 [[dialogue]]
-speaker = "ヴァレリー"
+speaker_original = "ヴァレリー"
+speaker_translation = "발레리"
 original = "「お見苦しいところをお見せしました。我々は割と自由な組織でして、衝突することもしばしばなんです」"
 translation = "「못 볼 꼴을 보여드렸군요. 저희는 나름 자유로운 조직이라서 종종 충돌하곤 하거든요.」"
 
 [[dialogue]]
-speaker = "ヴァレリー"
+speaker_original = "ヴァレリー"
+speaker_translation = "발레리"
 original = "「見事な連携を発揮した星騎士の皆さんの前で、お恥ずかしい限りです。いやはや、皆さんを見習えればよいのですが」"
 translation = "「멋진 연계를 발휘한 성기사 여러분 앞에서 참으로 부끄러울 따름입니다. 허허, 여러분을 본받아야 할 텐데 말이죠.」"
 
 [[dialogue]]
-speaker = "ヴァレリー"
+speaker_original = "ヴァレリー"
+speaker_translation = "발레리"
 original = "「ではリーナ、帰りますよ」"
 translation = "「그럼 리나, 돌아가죠.」"
 
 [[dialogue]]
-speaker = "リーナ"
+speaker_original = "リーナ"
+speaker_translation = "리나"
 original = "「ヤダ。お兄ちゃんと一緒にいる」"
 translation = "「싫어. 오빠랑 같이 있을래.」"
 
 [[dialogue]]
-speaker = "ヴァレリー"
+speaker_original = "ヴァレリー"
+speaker_translation = "발레리"
 original = "「聞き分けのない子はお兄ちゃんに嫌われますよ？」"
 translation = "「말 안 듣는 아이는 오빠가 싫어한다고요?」"
 
 [[dialogue]]
-speaker = "リーナ"
+speaker_original = "リーナ"
+speaker_translation = "리나"
 original = "「う……それはイヤ。帰る」"
 translation = "「으…… 그건 싫어. 돌아갈래.」"
 
 [[dialogue]]
-speaker = "ヴァレリー"
+speaker_original = "ヴァレリー"
+speaker_translation = "발레리"
 original = "「いい子ですね」"
 translation = "「착한 아이군요.」"
 
 [[dialogue]]
-speaker = "ヴァレリー"
+speaker_original = "ヴァレリー"
+speaker_translation = "발레리"
 original = "「ではまたお会いしましょう、星騎士の皆さん」"
 translation = "「그럼 다음에 또 뵙겠습니다, 성기사 여러분.」"
 
 [[dialogue]]
-speaker = "ヴァレリー"
+speaker_original = "ヴァレリー"
+speaker_translation = "발레리"
 original = "「あ、そうそう。リーナには優しくしてあげてくださいね、<b>お兄ちゃん</b>」"
 translation = "「아, 맞다. 리나에게는 상냥하게 대해주세요, <b>오빠</b>.」"
 
 [[dialogue]]
-speaker = "リーナ"
+speaker_original = "リーナ"
+speaker_translation = "리나"
 original = "「お兄ちゃん、またねー♪」"
 translation = "「오빠, 또 봐~♪」"
 
 [[dialogue]]
-speaker = "シアン"
+speaker_original = "シアン"
+speaker_translation = "시안"
 original = "「なんだったんだ、アレ。人騒がせなやつらだぜ……」"
 translation = "「뭐였던 거야, 저건. 사람 소란스럽게 만드는 녀석들이네……」"
 
 [[dialogue]]
-speaker = "ネーゼマイン"
+speaker_original = "ネーゼマイン"
+speaker_translation = "네제마인"
 original = "「まぁ一応──」"
 translation = "「뭐 일단──」"
 
 [[dialogue]]
-speaker = "セナリィ"
+speaker_original = "セナリィ"
+speaker_translation = "세나리"
 original = "「命拾いはしましたわね……」"
 translation = "「목숨은 건졌군요……」"
 

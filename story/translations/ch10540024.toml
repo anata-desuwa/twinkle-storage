@@ -4,22 +4,26 @@ original = "第４話,王女に戻れる未来へ,P"
 translation = "제4화, 왕녀로 돌아갈 수 있는 미래로, P"
 
 [[dialogue]]
-speaker = "ユーリス"
+speaker_original = "ユーリス"
+speaker_translation = "유리스"
 original = "「会長。このお皿はここに片付けておけばいいかな？」"
 translation = "「회장. 이 접시는 여기에 치워두면 될까?」"
 
 [[dialogue]]
-speaker = "ユーリス"
+speaker_original = "ユーリス"
+speaker_translation = "유리스"
 original = "「よし。これで晩ご飯のお片付けも終わり、と。会長は座ってて。今お茶でも淹れるから」"
 translation = "「좋아. 이걸로 저녁 식사 뒷정리도 끝. 회장은 앉아 있어. 지금 차라도 내올 테니까.」"
 
 [[dialogue]]
-speaker = "ユーリス"
+speaker_original = "ユーリス"
+speaker_translation = "유리스"
 original = "「ふふ、気にしないでいいよ。これは私の我が儘だから。少しでも会長とのデートを長引かせたくて、あれやこれやと理由を探しているだけさ」"
 translation = "「후후, 신경 쓰지 않아도 돼. 이건 내 고집이니까. 조금이라도 회장과의 데이트를 길게 끌고 싶어서 이런저런 핑계를 찾고 있는 것뿐이야.」"
 
 [[dialogue]]
-speaker = "ユーリス"
+speaker_original = "ユーリス"
+speaker_translation = "유리스"
 original = "「それよりどうだったかな……？\u3000今日の晩ご飯。いつもより、その。美味しくなかったとか……」"
 translation = "「그보다 어땠어……? 오늘 저녁 식사. 평소보다, 그게. 맛이 없었다거나……」"
 
@@ -29,72 +33,86 @@ original = "むしろいつもより美味しかったよ"
 translation = "오히려 평소보다 맛있었어"
 
 [[dialogue]]
-speaker = "ユーリス"
+speaker_original = "ユーリス"
+speaker_translation = "유리스"
 original = "「っっ。そ、そっか。なら良かったよ。実はちょっぴり不安だったんだ」"
 translation = "「윽. 그, 그렇구나. 그럼 다행이야. 사실 조금 불안했거든.」"
 
 [[dialogue]]
-speaker = "ユーリス"
+speaker_original = "ユーリス"
+speaker_translation = "유리스"
 original = "「今夜は勇者スキルを使わずに料理したから。それなりに練習はしたつもりだけど、先達のスキルにはまだまだ敵わないからね」"
 translation = "「오늘 밤은 용사 스킬을 쓰지 않고 요리했으니까. 나름대로 연습은 했다고 생각하지만, 선대의 스킬에는 아직 멀었으니까 말이야.」"
 
 [[dialogue]]
-speaker = "ユーリス"
+speaker_original = "ユーリス"
+speaker_translation = "유리스"
 original = "「でも喜んでもらえたなら本当に良かった。君にはどうしても、その。自分の実力だけで作った料理を食べてもらいたくて」"
 translation = "「하지만 기뻐해 줬다면 정말 다행이야. 너에게는 아무래도, 그게. 내 실력만으로 만든 요리를 먹여주고 싶어서.」"
 
 [[dialogue]]
-speaker = "ユーリス"
+speaker_original = "ユーリス"
+speaker_translation = "유리스"
 original = "「聖剣のおかげで大概のことはできるけど……なんて言えばいいのかな。君のために何かする時は、勇者スキルを使いたくないんだ」"
 translation = "「성검 덕분에 웬만한 건 다 할 수 있지만…… 뭐랄까. 너를 위해 무언가를 할 때는 용사 스킬을 쓰고 싶지 않아.」"
 
 [[dialogue]]
-speaker = "ユーリス"
+speaker_original = "ユーリス"
+speaker_translation = "유리스"
 original = "「っと、そうだ。お茶を淹れてる途中だったんだ。すぐに持ってくるね」"
 translation = "「앗, 맞다. 차를 내오던 중이었지. 금방 가져올게.」"
 
 [[dialogue]]
-speaker = "ユーリス"
+speaker_original = "ユーリス"
+speaker_translation = "유리스"
 original = "「こっちはどう？\u3000……う、ちょっと渋い？\u3000紅茶の入れ方はもう少し鍛錬が必要みたいだね。蜂蜜でも入れてみよっか」"
 translation = "「이쪽은 어때? ……우, 좀 떫나? 홍차를 타는 법은 좀 더 단련이 필요한 모양이네. 꿀이라도 넣어볼까.」"
 
 [[dialogue]]
-speaker = "ユーリス"
+speaker_original = "ユーリス"
+speaker_translation = "유리스"
 original = "「うん……甘い。私はこのくらい甘い方が好みかも。男の振りをしていると、あまり甘い物が好きだって言いづらいんだけどね」"
 translation = "「응…… 달콤해. 나는 이 정도로 단 게 취향일지도. 남자인 척을 하고 있으면, 단것을 별로 좋아한다고 말하기 힘들거든.」"
 
 [[dialogue]]
-speaker = "ユーリス"
+speaker_original = "ユーリス"
+speaker_translation = "유리스"
 original = "「ところで……その。もう少しだけ、くっついてもいいかな？」"
 translation = "「그건 그렇고…… 그. 조금만 더, 달라붙어도 될까?」"
 
 [[dialogue]]
-speaker = "ユーリス"
+speaker_original = "ユーリス"
+speaker_translation = "유리스"
 original = "「えへへ、ありがとう。それじゃあ……ん」"
 translation = "「에헤헤, 고마워. 그럼…… 응」"
 
 [[dialogue]]
-speaker = "ユーリス"
+speaker_original = "ユーリス"
+speaker_translation = "유리스"
 original = "「温かい……落ち着く……。ふふ、もちろん紅茶の話じゃないよ？\u3000この幸せな時間のことさ」"
 translation = "「따뜻해…… 안심돼……. 후후, 물론 홍차 이야기가 아니야. 이 행복한 시간 말이야.」"
 
 [[dialogue]]
-speaker = "ユーリス"
+speaker_original = "ユーリス"
+speaker_translation = "유리스"
 original = "「……不思議だよね。さっき２人で朝日が昇るところを見たと思っていたら、今は月が昇っていく姿を眺めている」"
 translation = "「……신기하지. 아까 둘이서 아침 해가 뜨는 걸 봤다고 생각했는데, 지금은 달이 떠오르는 모습을 바라보고 있어.」"
 
 [[dialogue]]
-speaker = "ユーリス"
+speaker_original = "ユーリス"
+speaker_translation = "유리스"
 original = "「楽しい時間は本当にあっという間だよ。別に何をしていたわけでもないのにね？\u3000君と一緒にいるだけで……瞬く間に時間が過ぎていっちゃう」"
 translation = "「즐거운 시간은 정말 순식간이야. 딱히 무언가를 한 것도 아닌데 말이지? 너와 함께 있는 것만으로…… 눈 깜짝할 사이에 시간이 지나가 버려.」"
 
 [[dialogue]]
-speaker = "ユーリス"
+speaker_original = "ユーリス"
+speaker_translation = "유리스"
 original = "「ん……ちゅっ。ん……」"
 translation = "「음…… 쪽. 음……」"
 
 [[dialogue]]
-speaker = "ユーリス"
+speaker_original = "ユーリス"
+speaker_translation = "유리스"
 original = "「ふぁ……またキスしちゃった。ダメだね、そろそろユーリスに戻らなくちゃいけないのに……」"
 translation = "「후아…… 또 키스해 버렸네. 안 되겠어, 슬슬 유리스로 돌아가야 하는데……」"
 
@@ -104,42 +122,50 @@ original = "２人きりの時はずっとユリアーナで構わないよ"
 translation = "둘이서만 있을 때는 계속 율리아나여도 상관없어"
 
 [[dialogue]]
-speaker = "ユーリス"
+speaker_original = "ユーリス"
+speaker_translation = "유리스"
 original = "「会長……。ちゅ……んっ……んふ……」"
 translation = "「회장님……. 쪽…… 응…… 으응……」"
 
 [[dialogue]]
-speaker = "ユーリス"
+speaker_original = "ユーリス"
+speaker_translation = "유리스"
 original = "「えへへ……明日が怖いね。唇がものすごく荒れていそうだ。朝から数え切れないほどキスしちゃってる気がする……」"
 translation = "「에헤헤…… 내일이 무섭네. 입술이 엄청 거칠어져 있을 것 같아. 아침부터 셀 수 없을 정도로 키스해 버린 기분이 들어……」"
 
 [[dialogue]]
-speaker = "ユーリス"
+speaker_original = "ユーリス"
+speaker_translation = "유리스"
 original = "「だけど……んっ、ちゅっ。全然足りない……はむぅん、んちゅ……。まだまだし足りないよ……」"
 translation = "「하지만…… 윽, 쪽. 전혀 부족해…… 하무윽, 응츄……. 아직도 한참 부족해……」"
 
 [[dialogue]]
-speaker = "ユーリス"
+speaker_original = "ユーリス"
+speaker_translation = "유리스"
 original = "「甘えんぼの彼女でごめんね……？\u3000２人きりだと思うと、どうしてもイチャイチャしたくなっちゃって……」"
 translation = "「어리광쟁이 여자친구라 미안해……? 둘이서만 있다고 생각하면, 아무래도 꽁냥거리고 싶어져서……」"
 
 [[dialogue]]
-speaker = "ユーリス"
+speaker_original = "ユーリス"
+speaker_translation = "유리스"
 original = "「会長の恋人にしてもらってからというもの、つくづく自分の見立てが甘かったことを思い知らされるよ」"
 translation = "「회장님의 연인이 되고 나서부터, 새삼 내 안목이 안일했다는 걸 뼈저리게 느끼게 돼.」"
 
 [[dialogue]]
-speaker = "ユーリス"
+speaker_original = "ユーリス"
+speaker_translation = "유리스"
 original = "「こんなにも自分が女の子だなんて思ってなかった。聖剣に選ばれた時に、女の自分なんて捨て去ったつもりだったのに」"
 translation = "「이렇게나 내가 여자아이였다니 생각도 못 했어. 성검에 선택받았을 때, 여자인 자신 따위는 버렸을 생각이었는데.」"
 
 [[dialogue]]
-speaker = "ユーリス"
+speaker_original = "ユーリス"
+speaker_translation = "유리스"
 original = "「私は本当にダメなヤツだね。聖剣の勇者失格だ。この時間がいつまでも続けばいいと思ってしまってる」"
 translation = "「나는 정말 못난 녀석이네. 성검의 용사 실격이야. 이 시간이 언제까지나 계속됐으면 좋겠다고 생각해 버리고 있어.」"
 
 [[dialogue]]
-speaker = "ユーリス"
+speaker_original = "ユーリス"
+speaker_translation = "유리스"
 original = "「このまま時間よ止まれと願ってしまっているんだ。ユーリスではなくユリアーナとしてずっと君の隣にいたいと望んでしまっている」"
 translation = "「이대로 시간이 멈췄으면 좋겠다고 바라고 있어. 유리스가 아니라 율리아나로서 계속 네 곁에 있고 싶다고 원해 버리고 있어.」"
 
@@ -149,22 +175,26 @@ original = "時間は止められないよ"
 translation = "시간은 멈출 수 없어"
 
 [[dialogue]]
-speaker = "ユーリス"
+speaker_original = "ユーリス"
+speaker_translation = "유리스"
 original = "「そう……だよね。わかってる。自分でもわかってるんだ。でも本当にユリアーナとして君と過ごす時間は心地よくて」"
 translation = "「그렇……지. 알고 있어. 나도 알고 있어. 하지만 정말 율리아나로서 너와 보내는 시간은 기분이 좋아서.」"
 
 [[dialogue]]
-speaker = "ユーリス"
+speaker_original = "ユーリス"
+speaker_translation = "유리스"
 original = "「常にユリアーナでいられないことが口惜しいんだ。ユーリスとして君と接する度に胸がズキズキしてしまう」"
 translation = "「항상 율리아나로 있을 수 없는 게 분해. 유리스로서 너를 대할 때마다 가슴이 욱신거려 버려.」"
 
 [[dialogue]]
-speaker = "ユーリス"
+speaker_original = "ユーリス"
+speaker_translation = "유리스"
 original = "「ごめん。困らせるようなことを言っちゃったね。今この瞬間、ユリアーナに戻っていられるだけでも贅沢な話なのに」"
 translation = "「미안. 곤란하게 할 말을 해 버렸네. 지금 이 순간, 율리아나로 돌아가 있을 수 있는 것만으로도 과분한 이야기인데.」"
 
 [[dialogue]]
-speaker = "ユーリス"
+speaker_original = "ユーリス"
+speaker_translation = "유리스"
 original = "「今の話は忘れて？\u3000そろそろ会長のお母様も帰ってくる頃だろうし、私も自分の部屋に──」"
 translation = "「방금 이야기는 잊어줘? 슬슬 회장님의 어머님도 돌아오실 때가 됐을 테고, 나도 내 방으로──」"
 
@@ -174,7 +204,8 @@ original = "だけど未来に進むことはできるよ"
 translation = "하지만 미래로 나아갈 수는 있어"
 
 [[dialogue]]
-speaker = "ユーリス"
+speaker_original = "ユーリス"
+speaker_translation = "유리스"
 original = "「え……？\u3000未来に……？」"
 translation = "「에……? 미래로……?」"
 
@@ -184,72 +215,86 @@ original = "リクリエを退けてユリアーナに戻れる未来にさ"
 translation = "리크리에를 물리치고 율리아나로 돌아갈 수 있는 미래 말이야"
 
 [[dialogue]]
-speaker = "ユーリス"
+speaker_original = "ユーリス"
+speaker_translation = "유리스"
 original = "「ぷふっ、あははっ、ふふふっ。会長はたまに私なんかよりもよっぽど王子様らしいセリフを吐くよね？」"
 translation = "「푸훕, 아하하, 후후후. 회장님은 가끔 나보다 훨씬 왕자님 같은 대사를 내뱉는다니까?」"
 
 [[dialogue]]
-speaker = "ユーリス"
+speaker_original = "ユーリス"
+speaker_translation = "유리스"
 original = "「でも、うん。会長の言うとおりだ。現状維持を是とするなんてどうかしていたよ」"
 translation = "「하지만, 응. 회장님 말대로야. 현상 유지를 옳다고 여기다니 내가 어떻게 됐었나 봐.」"
 
 [[dialogue]]
-speaker = "ユーリス"
+speaker_original = "ユーリス"
+speaker_translation = "유리스"
 original = "「リクリエさえ退ければ、ジルラント王国のみんなの不安も解消される。私が性別を偽る理由もなくなる」"
 translation = "「리크리에만 물리치면, 질란트 왕국 모두의 불안도 해소돼. 내가 성별을 속일 이유도 없어지지.」"
 
 [[dialogue]]
-speaker = "ユーリス"
+speaker_original = "ユーリス"
+speaker_translation = "유리스"
 original = "「会長とならそんな未来、簡単に切り拓けるはずなのに。私は何を立ち止まろうとしていたんだろう」"
 translation = "「회장님과 함께라면 그런 미래, 간단히 개척할 수 있을 텐데. 나는 무엇 때문에 멈춰 서려고 했던 걸까.」"
 
 [[dialogue]]
-speaker = "ユーリス"
+speaker_original = "ユーリス"
+speaker_translation = "유리스"
 original = "「おかげで目が覚めたよ。俄然やる気も出てきた」"
 translation = "「덕분에 정신이 들었어. 갑자기 의욕도 솟아나네.」"
 
 [[dialogue]]
-speaker = "ユーリス"
+speaker_original = "ユーリス"
+speaker_translation = "유리스"
 original = "「改めて、会長に、我が聖剣に誓うよ。必ずリクリエを打倒してみせるって」"
 translation = "「다시 한번, 회장님에게, 나의 성검에 맹세할게. 반드시 리크리에를 타도해 보이겠다고.」"
 
 [[dialogue]]
-speaker = "ユーリス"
+speaker_original = "ユーリス"
+speaker_translation = "유리스"
 original = "「そして、ふふ。私のフィアンセとして会長をジルラント王国に連れて帰るんだ。国を挙げて結婚式を開いて、祖国のみんなに祝ってもらっちゃおう」"
 translation = "「그리고, 후후. 내 약혼자로서 회장님을 질란트 왕국에 데려갈 거야. 나라 전체가 축하하는 결혼식을 열어서, 조국 사람들에게 축복받자.」"
 
 [[dialogue]]
-speaker = "ユーリス"
+speaker_original = "ユーリス"
+speaker_translation = "유리스"
 original = "「ああ……力が湧いてくる。会長との幸せな未来を思い描くだけで、こんなにも私は強くなれるんだ」"
 translation = "「아아…… 힘이 솟아나. 회장님과의 행복한 미래를 그리는 것만으로, 이렇게나 나는 강해질 수 있어.」"
 
 [[dialogue]]
-speaker = "ユーリス"
+speaker_original = "ユーリス"
+speaker_translation = "유리스"
 original = "「大好きだよ、会長。心の底から愛してる」"
 translation = "「정말 좋아해, 회장님. 마음속 깊은 곳에서부터 사랑해.」"
 
 [[dialogue]]
-speaker = "ユーリス"
+speaker_original = "ユーリス"
+speaker_translation = "유리스"
 original = "「私は、絶対に君との幸せな未来を勝ち取ってみせるよ……！」"
 translation = "「나는, 절대로 너와의 행복한 미래를 쟁취해 보이겠어……!」"
 
 [[dialogue]]
-speaker = "ユーリス"
+speaker_original = "ユーリス"
+speaker_translation = "유리스"
 original = "「わわっ、会長のＤＩＳＣが……！\u3000こ、こんな時に誰からの連絡だい？\u3000え、お母様？」"
 translation = "「와왓, 회장님의 DISC가……! 이, 이런 때에 누구한테 연락이야? 에, 어머님?」"
 
 [[dialogue]]
-speaker = "ユーリス"
+speaker_original = "ユーリス"
+speaker_translation = "유리스"
 original = "「そ、そっか。今日は帰らないことになったんだね？\u3000まあ夜も遅いもんね……？」"
 translation = "「그, 그렇구나. 오늘은 돌아오지 않기로 하셨구나? 뭐 밤도 늦었으니까……?」"
 
 [[dialogue]]
-speaker = "ユーリス"
+speaker_original = "ユーリス"
+speaker_translation = "유리스"
 original = "「それなら、えと……。物は相談なんだけど……」"
 translation = "「그렇다면, 저기…… 부탁이 하나 있는데……」"
 
 [[dialogue]]
-speaker = "ユーリス"
+speaker_original = "ユーリス"
+speaker_translation = "유리스"
 original = "「今日はこのまま……泊まっていってもいい、かな？」"
 translation = "「오늘은 이대로…… 자고 가도, 될까?」"
 

@@ -1,280 +1,336 @@
 [[dialogue]]
-speaker = "ウズメイア"
+speaker_original = "ウズメイア"
+speaker_translation = "우즈메"
 original = "「くんくん……いるいる、次のターゲット発見だし♪」"
 translation = "「킁킁…… 있네 있어, 다음 타겟 발견이라구♪」"
 
 [[dialogue]]
-speaker = "セナリィ（覚醒）"
+speaker_original = "セナリィ（覚醒）"
+speaker_translation = "세나리(각성)"
 original = "「ナイス追跡ですわ！\u3000匂いで相手の居場所を探り当てられるなんて、とんでもなく便利な能力ですわ！」"
 translation = "「나이스 추적이에요! 냄새로 상대의 위치를 알아내다니, 엄청나게 편리한 능력이네요!」"
 
 [[dialogue]]
-speaker = "ウズメイア"
+speaker_original = "ウズメイア"
+speaker_translation = "우즈메"
 original = "「えへへ、そうかな？」"
 translation = "「에헤헤, 그럴까?」"
 
 [[dialogue]]
-speaker = "ソフィア"
+speaker_original = "ソフィア"
+speaker_translation = "소피아"
 original = "「ですがなぜネーゼマインさんをターゲットに？」"
 translation = "「그런데 왜 네제마인 씨를 타겟으로?」"
 
 [[dialogue]]
-speaker = "セナリィ（覚醒）"
+speaker_original = "セナリィ（覚醒）"
+speaker_translation = "세나리(각성)"
 original = "「もちろん小癪なあのヤローを一度、ぎゃふんと言わせてやりたいからですわ！」"
 translation = "「물론 그 가당치도 않은 녀석을 한번 골탕 먹여주고 싶어서예요!」"
 
 [[dialogue]]
-speaker = "セナリィ（覚醒）"
+speaker_original = "セナリィ（覚醒）"
+speaker_translation = "세나리(각성)"
 original = "「さあ、後は私の作戦通り頼みましたわよ！」"
 translation = "「자, 다음은 제 작전대로 부탁할게요!」"
 
 [[dialogue]]
-speaker = "ウズメイア"
+speaker_original = "ウズメイア"
+speaker_translation = "우즈메"
 original = "「オッケー、それじゃソフィ、お願いするし♪」"
 translation = "「오케이, 그럼 소피, 부탁해♪」"
 
 [[dialogue]]
-speaker = "ソフィア"
+speaker_original = "ソフィア"
+speaker_translation = "소피아"
 original = "「分かりました。では、失礼して……ぎゅーっ、と」"
 translation = "「알겠습니다. 그럼 실례해서…… 꼬옥」"
 
 [[dialogue]]
-speaker = "ヒトリ"
+speaker_original = "ヒトリ"
+speaker_translation = "히토리"
 original = "「はうっ！？\u3000ソフィアさんが背中からウズメイアさんをぎゅーって抱きしめて」"
 translation = "「하우!? 소피아 씨가 뒤에서 우즈메이야 씨를 꼬옥 껴안고……」"
 
 [[dialogue]]
-speaker = "ヒトリ"
+speaker_original = "ヒトリ"
+speaker_translation = "히토리"
 original = "「イタズラで姿を隠すためとはいえ、なんだかとってもてぇてぇの香りがしますね、ゆーちゃん♪」"
 translation = "「장난으로 모습을 감추기 위해서라고는 해도, 왠지 무척 테에테에한 향기가 나네요, 유짱♪」"
 
 [[dialogue]]
-speaker = "ゆーちゃん"
+speaker_original = "ゆーちゃん"
+speaker_translation = "유짱"
 original = "「てーてー」"
 translation = "「떼-떼-」"
 
 [[dialogue]]
-speaker = "ヒトリ"
+speaker_original = "ヒトリ"
+speaker_translation = "히토리"
 original = "「あっ……透明になってしまうと姿が消えてしまうのですか」"
 translation = "「앗…… 투명해지면 모습이 사라져 버리는 건가요?」"
 
 [[dialogue]]
-speaker = "ヒトリ"
+speaker_original = "ヒトリ"
+speaker_translation = "히토리"
 original = "「２人のてぇてぇが見えなくなってしまうのは難点ですね……でも見えないからこそのこの感じも……」"
 translation = "「두 사람의 테에테에를 볼 수 없게 되는 건 아쉬운 점이네요…… 하지만 보이지 않기에 느껴지는 이 느낌도……」"
 
 [[dialogue]]
-speaker = "ソフィア"
+speaker_original = "ソフィア"
+speaker_translation = "소피아"
 original = "「変な想像を膨らませるのはやめてください！」"
 translation = "「이상한 상상을 부풀리는 건 그만두세요!」"
 
 [[dialogue]]
-speaker = "ウズメイア"
+speaker_original = "ウズメイア"
+speaker_translation = "우즈메"
 original = "「えへへ、いーじゃん。見えないのをいいことにソフィにイタズラしちゃおうかな？\u3000こちょこちょこちょ、っと」"
 translation = "「에헤헤, 좋잖아. 보이지 않는 걸 틈타서 소피한테 장난쳐버릴까? 간질간질간질」"
 
 [[dialogue]]
-speaker = "ソフィア"
+speaker_original = "ソフィア"
+speaker_translation = "소피아"
 original = "「ひゃっ！？\u3000や、やめなさいって！」"
 translation = "「히얏!? 그, 그만두라니까요!」"
 
 [[dialogue]]
-speaker = "ヒトリ"
+speaker_original = "ヒトリ"
+speaker_translation = "히토리"
 original = "「こ、声だけでもてぇてぇです……姿が見えない状態で２人はどんなことをしているんでしょう……」"
 translation = "「목, 목소리만으로도 테에테에해요…… 모습이 보이지 않는 상태에서 두 사람은 어떤 일을 하고 있는 걸까요……」"
 
 [[dialogue]]
-speaker = "セナリィ（覚醒）"
+speaker_original = "セナリィ（覚醒）"
+speaker_translation = "세나리(각성)"
 original = "「遊んでる場合じゃねーですわよ！\u3000ターゲットに気付かれる前に作戦決行ですわ！」"
 translation = "「놀고 있을 때가 아니에요! 타겟에게 들키기 전에 작전 결행이라구요!」"
 
 [[dialogue]]
-speaker = "ソフィア＆ウズメイア"
+speaker_original = "ソフィア＆ウズメイア"
+speaker_translation = "소피아 & 우즈메"
 original = "「らじゃー！」"
 translation = "「라져-!」"
 
 [[dialogue]]
-speaker = "ネーゼマイン"
+speaker_original = "ネーゼマイン"
+speaker_translation = "네제마인"
 original = "「いやはや、学園はどこもかしこも盛り上がってるね～」"
 translation = "「이런이런, 학원은 여기저기 다 달아올라 있네~」"
 
 [[dialogue]]
-speaker = "ネーゼマイン"
+speaker_original = "ネーゼマイン"
+speaker_translation = "네제마인"
 original = "「ひとりでぶらぶらしてるのも飽きてきたし、セナリィが忙しくしてるなら少しくらい手伝いに行ってあげようかな～」"
 translation = "「혼자 빈둥거리는 것도 질려가고, 세나리가 바쁘게 지내고 있다면 조금 정도는 도와주러 가볼까나~」"
 
 [[dialogue]]
-speaker = "ソフィア"
+speaker_original = "ソフィア"
+speaker_translation = "소피아"
 original = "（準備はいいですか？）"
 translation = "（준비됐나요?）"
 
 [[dialogue]]
-speaker = "ウズメイア"
+speaker_original = "ウズメイア"
+speaker_translation = "우즈메"
 original = "（いつでもいいし！）"
 translation = "（언제든 좋다구!）"
 
 [[dialogue]]
-speaker = "ソフィア"
+speaker_original = "ソフィア"
+speaker_translation = "소피아"
 original = "（では、ウズメイア砲、発射体勢よろし……３、２、１、発射っ！！！）"
 translation = "（그럼, 우즈메이야 포, 발사 태세 완료…… 3, 2, 1, 발사!!!）"
 
 [[dialogue]]
-speaker = "ウズメイア"
+speaker_original = "ウズメイア"
+speaker_translation = "우즈메"
 original = "「ガオガオ<emoji=heart04>\u3000トリックオアトリート♪\u3000お菓子をくれなきゃイタズラしちゃうぞーっ！」"
 translation = "「가오가오❤ 트릭 오어 트릿♪ 과자를 주지 않으면 장난쳐버릴 거다-!」"
 
 [[dialogue]]
-speaker = "ネーゼマイン"
+speaker_original = "ネーゼマイン"
+speaker_translation = "네제마인"
 original = "「っ……！？」"
 translation = "「윽……!?」"
 
 [[dialogue]]
-speaker = "ウズメイア"
+speaker_original = "ウズメイア"
+speaker_translation = "우즈메"
 original = "「あ、あれ……？」"
 translation = "「어, 어라……?」"
 
 [[dialogue]]
-speaker = "ソフィア"
+speaker_original = "ソフィア"
+speaker_translation = "소피아"
 original = "「これは予想外の反応です……」"
 translation = "「이건 예상 밖의 반응이네요……」"
 
 [[dialogue]]
-speaker = "ネーゼマイン"
+speaker_original = "ネーゼマイン"
+speaker_translation = "네제마인"
 original = "「ぁ……ぅ……」"
 translation = "「아…… 우……」"
 
 [[dialogue]]
-speaker = "セナリィ（覚醒）"
+speaker_original = "セナリィ（覚醒）"
+speaker_translation = "세나리(각성)"
 original = "「ほほほ！\u3000声を上げることも出来ずにへたり込むなんて情けないですわね、マイン！」"
 translation = "「호호호! 소리도 지르지 못하고 주저앉다니 한심하네요, 마인!」"
 
 [[dialogue]]
-speaker = "ネーゼマイン"
+speaker_original = "ネーゼマイン"
+speaker_translation = "네제마인"
 original = "「セナリィ……」"
 translation = "「세나리……」"
 
 [[dialogue]]
-speaker = "ネーゼマイン"
+speaker_original = "ネーゼマイン"
+speaker_translation = "네제마인"
 original = "「ひ、酷いよ……私がこういうの苦手だって知ってるくせに……」"
 translation = "「너, 너무해…… 내가 이런 거 잘 못하는 거 알고 있으면서……」"
 
 [[dialogue]]
-speaker = "セナリィ（覚醒）"
+speaker_original = "セナリィ（覚醒）"
+speaker_translation = "세나리(각성)"
 original = "「は……？\u3000そ、そんなの初耳ですわよ……？」"
 translation = "「하……? 그, 그런 건 금시초문이라구요……?」"
 
 [[dialogue]]
-speaker = "ネーゼマイン"
+speaker_original = "ネーゼマイン"
+speaker_translation = "네제마인"
 original = "「うっ、ぐすっ……セナリィのこと、見損なった……私、ゴールデングースに入るのやめます……」"
 translation = "「윽, 흑…… 세나리한테 정말 실망했어…… 나, 골든 구스 그만둘래……」"
 
 [[dialogue]]
-speaker = "セナリィ（覚醒）"
+speaker_original = "セナリィ（覚醒）"
+speaker_translation = "세나리(각성)"
 original = "「ええっ！！！？」"
 translation = "「에에엣!!!?」"
 
 [[dialogue]]
-speaker = "ネーゼマイン"
+speaker_original = "ネーゼマイン"
+speaker_translation = "네제마인"
 original = "「今後は仕事も受けないし着信も拒否します。金庫のお金も全部もらうし、対抗組織を作ってヒマワリちゃんとミウちゃんも引き抜きます。あとアジトも奪います」"
 translation = "「앞으로는 일도 안 받을 거고 착신 거부도 할 거야. 금고에 있는 돈도 전부 가져가고, 대항 조직을 만들어서 히마와리 짱이랑 미우 짱도 빼돌릴 거야. 그리고 아지트도 뺏을 거야.」"
 
 [[dialogue]]
-speaker = "セナリィ（覚醒）"
+speaker_original = "セナリィ（覚醒）"
+speaker_translation = "세나리(각성)"
 original = "「ちょ、ちょいと待ちやがれですわ！\u3000いくら何でもそれは横暴ですわ！」"
 translation = "「자, 잠깐 기다리라구요! 아무리 그래도 그건 너무 횡포잖아요!」"
 
 [[dialogue]]
-speaker = "ネーゼマイン"
+speaker_original = "ネーゼマイン"
+speaker_translation = "네제마인"
 original = "「ううっ、ぐすっ……しくしく……ううううっ……」"
 translation = "「으으, 흑…… 훌쩍훌쩍…… 으으으으……」"
 
 [[dialogue]]
-speaker = "セナリィ（覚醒）"
+speaker_original = "セナリィ（覚醒）"
+speaker_translation = "세나리(각성)"
 original = "「あうぅ……そ、そんなに泣くことないじゃありませんの。いい加減に泣き止んで──」"
 translation = "「아우우…… 그, 그렇게 울 것까지는 없잖아요. 이제 그만 울고──」"
 
 [[dialogue]]
-speaker = "ネーゼマイン"
+speaker_original = "ネーゼマイン"
+speaker_translation = "네제마인"
 original = "「わっ！！！！！」"
 translation = "「와!!!!」"
 
 [[dialogue]]
-speaker = "セナリィ（覚醒）"
+speaker_original = "セナリィ（覚醒）"
+speaker_translation = "세나리(각성)"
 original = "「ほぎゃあああああっ！！！！！！」"
 translation = "「호갸아아아아앗!!!!!!」"
 
 [[dialogue]]
-speaker = "ネーゼマイン"
+speaker_original = "ネーゼマイン"
+speaker_translation = "네제마인"
 original = "「きゃははははっ、嘘だよ～♪\u3000びっくりした？」"
 translation = "「꺄하하하하, 거짓말이야~♪ 놀랐어?」"
 
 [[dialogue]]
-speaker = "セナリィ（覚醒）"
+speaker_original = "セナリィ（覚醒）"
+speaker_translation = "세나리(각성)"
 original = "「び、ビックリしましたわ、もう！！」"
 translation = "「까, 깜짝 놀랐다구요, 정말!!」"
 
 [[dialogue]]
-speaker = "ウズメイア"
+speaker_original = "ウズメイア"
+speaker_translation = "우즈메"
 original = "「もしかして最初から気付いてたのかな？」"
 translation = "「혹시 처음부터 눈치채고 있었던 걸까?」"
 
 [[dialogue]]
-speaker = "ネーゼマイン"
+speaker_original = "ネーゼマイン"
+speaker_translation = "네제마인"
 original = "「まぁね～。でっかい叫び声が聞こえたからさ。ほぎゃーーー、って情けない声がね☆」"
 translation = "「뭐 그렇지~. 커다란 비명이 들렸으니까 말이야. 호갸--- 하고 한심한 소리가 말이지☆」"
 
 [[dialogue]]
-speaker = "ネーゼマイン"
+speaker_original = "ネーゼマイン"
+speaker_translation = "네제마인"
 original = "「で、セナリィの事だからぜーったい私のところにちょっかいかけに来るだろうなって。そしたら案の定だったよ、にひひ、残念でした～♪」"
 translation = "「그래서 세나리 성격상 분명 나한테 장난치러 오겠구나 싶었지. 그랬더니 예상대로였어, 니히히, 유감이었네~♪」"
 
 [[dialogue]]
-speaker = "ウズメイア"
+speaker_original = "ウズメイア"
+speaker_translation = "우즈메"
 original = "「すっご、完全に読み切ってるし！」"
 translation = "「대박, 완전히 꿰뚫어 보고 있잖아!」"
 
 [[dialogue]]
-speaker = "セナリィ（覚醒）"
+speaker_original = "セナリィ（覚醒）"
+speaker_translation = "세나리(각성)"
 original = "「キーッ、悔しい！！！」"
 translation = "「키익, 분해!!!」"
 
 [[dialogue]]
-speaker = "ソフィア"
+speaker_original = "ソフィア"
+speaker_translation = "소피아"
 original = "「イタズラするつもりが、逆にイタズラされてしまいましたね」"
 translation = "「장난치려던 것이 역으로 당해버렸네요.」"
 
 [[dialogue]]
-speaker = "ネーゼマイン"
+speaker_original = "ネーゼマイン"
+speaker_translation = "네제마인"
 original = "「なになに？\u3000みんなはイタズラがしたいの？」"
 translation = "「뭐야 뭐야? 다들 장난을 치고 싶은 거야?」"
 
 [[dialogue]]
-speaker = "ソフィア"
+speaker_original = "ソフィア"
+speaker_translation = "소피아"
 original = "「そうなんです。このハロウィンフォームを解除するために必要なことなので」"
 translation = "「맞아요. 이 할로윈 폼을 해제하기 위해 필요한 일이라서요.」"
 
 [[dialogue]]
-speaker = "ウズメイア"
+speaker_original = "ウズメイア"
+speaker_translation = "우즈메"
 original = "「そのためにゆゆ姫ちゃんとハロウィンを思いっきり楽しむし♪」"
 translation = "「그걸 위해서 유유히메 짱이랑 할로윈을 마음껏 즐기려는 거라구♪」"
 
 [[dialogue]]
-speaker = "ネーゼマイン"
+speaker_original = "ネーゼマイン"
+speaker_translation = "네제마인"
 original = "「なぁるほどね。了解了解、私もイタズラのアイデアくらいなら協力するよ♪」"
 translation = "「그렇구나. 접수 완료, 나도 장난 아이디어 정도라면 협력해 줄게♪」"
 
 [[dialogue]]
-speaker = "セナリィ（覚醒）"
+speaker_original = "セナリィ（覚醒）"
+speaker_translation = "세나리(각성)"
 original = "「あんまりえげつないのはダメですわよ」"
 translation = "「너무 가혹한 건 안 된다구요.」"
 
 [[dialogue]]
-speaker = "ネーゼマイン"
+speaker_original = "ネーゼマイン"
+speaker_translation = "네제마인"
 original = "「その辺の空気は読めるから。セナリィのポンコツなイタズラよりはまともな作戦を立てられると思うよ」"
 translation = "「그 정도 눈치는 있으니까. 세나리의 엉터리 같은 장난보다는 제대로 된 작전을 세울 수 있을 거야.」"
 
 [[dialogue]]
-speaker = "セナリィ（覚醒）"
+speaker_original = "セナリィ（覚醒）"
+speaker_translation = "세나리(각성)"
 original = "「なぁんですのぉっ！！！！」"
 translation = "「뭐라구요!!!!」"
 

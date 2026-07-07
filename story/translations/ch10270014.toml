@@ -4,12 +4,14 @@ original = "第４話,コハルコの家族,P"
 translation = "제4화, 쿠하루코의 가족, P"
 
 [[dialogue]]
-speaker = "ナツコ"
+speaker_original = "ナツコ"
+speaker_translation = "나츠코"
 original = "「あ、シンセーの会長さんだ！」"
 translation = "「아, 신세의 회장님이다!」"
 
 [[dialogue]]
-speaker = "トウコ"
+speaker_original = "トウコ"
+speaker_translation = "토우코"
 original = "「こんにちは。コハルコお姉ちゃんがお世話になってます」"
 translation = "「안녕하세요. 쿠하루코 언니가 신세 지고 있습니다」"
 
@@ -19,32 +21,38 @@ original = "こんにちは"
 translation = "안녕"
 
 [[dialogue]]
-speaker = "コハルコ"
+speaker_original = "コハルコ"
+speaker_translation = "쿠하루코"
 original = "「ふふ、妹たちともすっかり仲良くなっちゃって。もうお兄ちゃんみたいだね」"
 translation = "「후후, 여동생들이랑도 완전히 친해져 버렸네. 벌써 오빠 같아」"
 
 [[dialogue]]
-speaker = "トウコ"
+speaker_original = "トウコ"
+speaker_translation = "토우코"
 original = "「デート行ってらっしゃい」"
 translation = "「데이트 잘 다녀와」"
 
 [[dialogue]]
-speaker = "コハルコ"
+speaker_original = "コハルコ"
+speaker_translation = "쿠하루코"
 original = "「で、デート！？」"
 translation = "「데, 데이트!?」"
 
 [[dialogue]]
-speaker = "ナツコ"
+speaker_original = "ナツコ"
+speaker_translation = "나츠코"
 original = "「また後でねー！」"
 translation = "「나중에 봐ー!」"
 
 [[dialogue]]
-speaker = "コハルコ"
+speaker_original = "コハルコ"
+speaker_translation = "쿠하루코"
 original = "「あ……２人とも行っちゃった……普通の買い物なのに」"
 translation = "「아…… 둘 다 가버렸네…… 그냥 장 보는 것뿐인데」"
 
 [[dialogue]]
-speaker = "コハルコ"
+speaker_original = "コハルコ"
+speaker_translation = "쿠하루코"
 original = "「妹たちの言ったことは気にしないで……ね？\u3000とりあえず行こっか」"
 translation = "「여동생들이 한 말은 신경 쓰지 마…… 응? 일단 갈까」"
 
@@ -54,97 +62,116 @@ original = "俺はデートでもいいですよ"
 translation = "전 데이트라도 괜찮아요"
 
 [[dialogue]]
-speaker = "コハルコ"
+speaker_original = "コハルコ"
+speaker_translation = "쿠하루코"
 original = "「ひゃっ！？\u3000もう、年上をからかわないで……え、本気？\u3000それはそれでどうなんだか……」"
 translation = "「햣!? 정말, 연상을 놀리지 마…… 에, 진심? 그건 그것대로 어떨는지……」"
 
 [[dialogue]]
-speaker = "コハルコ"
+speaker_original = "コハルコ"
+speaker_translation = "쿠하루코"
 original = "「えーい、こうなったらデートでいいよ！\u3000秋葉原を楽しもう！」"
 translation = "「에잇, 이렇게 된 거 데이트로 치자! 아키하바라를 즐기자구!」"
 
 [[dialogue]]
-speaker = "コハルコ"
+speaker_original = "コハルコ"
+speaker_translation = "쿠하루코"
 original = "「秋葉原は私の庭みたいなものだから、行きたいところがあったら言ってね。偽ジャスティスのおかげで臨時収入があったから奮発しちゃうよ」"
 translation = "「아키하바라는 내 앞마당 같은 곳이니까 가고 싶은 곳 있으면 말해. 가짜 저스티스 덕분에 임시 수입이 생겼으니까 한턱 낼게」"
 
 [[dialogue]]
-speaker = "コハルコ"
+speaker_original = "コハルコ"
+speaker_translation = "쿠하루코"
 original = "「穴場の電器屋さんに、割安なメイド喫茶、アニメショップ、アイドルの劇場、いろいろあるから」"
 translation = "「숨겨진 전자제품 가게에, 저렴한 메이드 카페, 애니메이션 샵, 아이돌 극장, 여러 가지 있으니까」"
 
 [[dialogue]]
-speaker = "コハルコ"
+speaker_original = "コハルコ"
+speaker_translation = "쿠하루코"
 original = "「そうだ、お腹空いてない？\u3000秋葉原はグルメの町でもあってね。ラーメンとか牛カツとか──あ、エッチなゲームの広告がまた変わってる……」"
 translation = "「맞다, 배 안 고파? 아키하바라는 맛집의 거리이기도 하거든. 라멘이나 규카츠라든가── 아, 야한 게임 광고가 또 바뀌었네……」"
 
 [[dialogue]]
-speaker = "コハルコ"
+speaker_original = "コハルコ"
+speaker_translation = "쿠하루코"
 original = "「まぁ、私となればエッチなゲームの広告も見慣れたもの……一時期うちの店にも置いてたから私もやったことあるし」"
 translation = "「뭐, 나 정도 되면 야한 게임 광고도 익숙한 것…… 한때 우리 가게에도 뒀었으니까 나도 해본 적 있고」"
 
 [[dialogue]]
-speaker = "コハルコ"
+speaker_original = "コハルコ"
+speaker_translation = "쿠하루코"
 original = "「コホン。今のは忘れて」"
 translation = "「크흠. 방금 건 잊어줘」"
 
 [[dialogue]]
-speaker = "コハルコ"
+speaker_original = "コハルコ"
+speaker_translation = "쿠하루코"
 original = "「それとも会長さんはそういうの興味ある？」"
 translation = "「아니면 회장님은 그런 거 관심 있어?」"
 
 [[dialogue]]
-speaker = "コハルコ"
+speaker_original = "コハルコ"
+speaker_translation = "쿠하루코"
 original = "「……興味ありそうな顔してる。会長さんのスケベ」"
 translation = "「……관심 있어 보이는 얼굴이네. 회장님 변태」"
 
 [[dialogue]]
-speaker = "コハルコ"
+speaker_original = "コハルコ"
+speaker_translation = "쿠하루코"
 original = "「なーんて、年頃の男の子なんだから、エッチなことが気になるのは当然だよね」"
 translation = "「농담이야, 한창나이인 남자애니까 야한 게 신경 쓰이는 건 당연하지」"
 
 [[dialogue]]
-speaker = "コハルコ"
+speaker_original = "コハルコ"
+speaker_translation = "쿠하루코"
 original = "「あ、顔が赤くなってる。恥ずかしがらなくても大丈夫。私、お姉さんだから理解はあるよ」"
 translation = "「아, 얼굴 빨개졌다. 부끄러워하지 않아도 괜찮아. 나, 누나니까 이해는 해」"
 
 [[dialogue]]
-speaker = "コハルコ"
+speaker_original = "コハルコ"
+speaker_translation = "쿠하루코"
 original = "「ハッ──これって誘ってるみたい？\u3000ゲームで似たようなシチュエーションがあった気が……」"
 translation = "「핫── 이거 왠지 유혹하는 것 같아? 게임에서 비슷한 시츄에이션이 있었던 기분이……」"
 
 [[dialogue]]
-speaker = "コハルコ"
+speaker_original = "コハルコ"
+speaker_translation = "쿠하루코"
 original = "「ま、まぁ私はお姉さんだから大丈夫だけど、会長さんには早いかな？\u3000あはは、あはははー……」"
 translation = "「뭐, 뭐어 나는 누나니까 괜찮지만, 회장님에게는 이른가? 아하하, 아하하하─……」"
 
 [[dialogue]]
-speaker = "コハルコ"
+speaker_original = "コハルコ"
+speaker_translation = "쿠하루코"
 original = "「気を取り直して遊びに行こっか。同人誌ショップに最新ＶＲゲーム体験、バッティングセンターにサバゲーもあるんだ。さ、アキバを楽しみ尽くすよ！」"
 translation = "「기운 차리고 놀러 갈까. 동인지 샵에 최신 VR 게임 체험, 배팅 센터에 서바이벌 게임도 있어. 자, 아키바를 마음껏 즐기는 거야!」"
 
 [[dialogue]]
-speaker = "コハルコ"
+speaker_original = "コハルコ"
+speaker_translation = "쿠하루코"
 original = "「はぁ、はぁ……星騎士とはいえ、基本インドア派の私にはキツかったかな……。でも久々にいっぱい遊んでスッキリした」"
 translation = "「하아, 하아…… 성기사라고는 해도, 기본 인도어파인 나에게는 힘들었나……. 그래도 오랜만에 잔뜩 놀아서 개운해졌어」"
 
 [[dialogue]]
-speaker = "コハルコ"
+speaker_original = "コハルコ"
+speaker_translation = "쿠하루코"
 original = "「だけど本命の買い物を忘れちゃダメだよね。もうすぐナツコの誕生日だから、ジャスティスガールのポーチを買ってあげないと」"
 translation = "「하지만 본래 목적인 쇼핑을 잊으면 안 되겠지. 곧 나츠코의 생일이니까, 저스티스 걸 파우치를 사줘야 해」"
 
 [[dialogue]]
-speaker = "コハルコ"
+speaker_original = "コハルコ"
+speaker_translation = "쿠하루코"
 original = "「あとトウコのプレゼントも考えないとだ。トウコは興味ないふりしてるけど、ジャスティスガールのアニメちゃんと見てるから、ほんとは欲しいと思うんだよね」"
 translation = "「그리고 토우코의 선물도 생각해야겠네. 토우코는 흥미 없는 척하지만, 저스티스 걸 애니메이션을 꼬박꼬박 챙겨보니까 사실은 갖고 싶어 할 거거든」"
 
 [[dialogue]]
-speaker = "コハルコ"
+speaker_original = "コハルコ"
+speaker_translation = "쿠하루코"
 original = "「でも誕生日のナツコと同じものはまずいし……うーん……悩むなぁ」"
 translation = "「그렇지만 생일인 나츠코랑 같은 물건은 좀 그렇고…… 으음…… 고민되네」"
 
 [[dialogue]]
-speaker = "コハルコ"
+speaker_original = "コハルコ"
+speaker_translation = "쿠하루코"
 original = "「さーて、妹たちの学費を稼ぐためにも、またバグを見つけて賞金とってこないとね」"
 translation = "「자~ 그럼, 여동생들의 학비를 벌기 위해서라도, 다시 버그를 찾아내서 상금을 타 와야겠어」"
 
@@ -154,12 +181,14 @@ original = "家族を大事にしてるんですね"
 translation = "가족을 소중히 여기시는군요"
 
 [[dialogue]]
-speaker = "コハルコ"
+speaker_original = "コハルコ"
+speaker_translation = "쿠하루코"
 original = "「うん。私はやっぱり家族が一番大事。新星学園でセキュリティや星騎士やってるのも、結局は家族のためだから」"
 translation = "「응. 나는 역시 가족이 제일 소중해. 신성학원에서 보안이나 성기사를 하고 있는 것도, 결국은 가족을 위해서니까」"
 
 [[dialogue]]
-speaker = "コハルコ"
+speaker_original = "コハルコ"
+speaker_translation = "쿠하루코"
 original = "「モンスターに店が壊されたり、お父さんが借金の保証人になってたり、お母さんの病気が再発したり、いろいろあったけど……私は家族が幸せになってくれるのが一番嬉しい」"
 translation = "「몬스터에게 가게가 부서지거나, 아빠가 빚보증을 섰거나, 엄마의 병이 재발하거나, 여러 가지 일이 있었지만…… 나는 가족이 행복해지는 게 제일 기뻐」"
 
@@ -169,7 +198,8 @@ original = "（苦労人だ……！）"
 translation = " (고생을 많이 했구나……!) "
 
 [[dialogue]]
-speaker = "コハルコ"
+speaker_original = "コハルコ"
+speaker_translation = "쿠하루코"
 original = "「……会長さんだから言うけど、実は私、家族と血が繋がってないんだよね」"
 translation = "「……회장님이니까 말하는 거지만, 사실 나, 가족이랑 피가 섞이지 않았어」"
 
@@ -179,17 +209,20 @@ original = "！"
 translation = "!"
 
 [[dialogue]]
-speaker = "コハルコ"
+speaker_original = "コハルコ"
+speaker_translation = "쿠하루코"
 original = "「驚かせてしまうかもしれないけど、騙したくはないから、妹たちが大きくなったらいつか教えるつもり」"
 translation = "「놀라게 했을지도 모르지만, 속이고 싶지는 않으니까, 여동생들이 크면 언젠가 가르쳐 줄 생각이야」"
 
 [[dialogue]]
-speaker = "コハルコ"
+speaker_original = "コハルコ"
+speaker_translation = "쿠하루코"
 original = "「家が本当に大変だった時、お父さんとお母さんが教えてくれたんだ。血が繋がった子どもじゃないから、もう私たちのために頑張らなくていいよ、好きに生きてって」"
 translation = "「집이 정말 힘들었을 때, 아빠랑 엄마가 가르쳐 주셨어. 피가 이어진 아이가 아니니까, 이제 우리를 위해 노력하지 않아도 돼, 마음대로 살아가라고」"
 
 [[dialogue]]
-speaker = "コハルコ"
+speaker_original = "コハルコ"
+speaker_translation = "쿠하루코"
 original = "「でも血が繋がってなくても、私は家族を愛してる。本当の家族なんだって信じてる。だから頑張れるんだ」"
 translation = "「하지만 피가 이어져 있지 않아도, 나는 가족을 사랑해. 진짜 가족이라고 믿고 있어. 그래서 힘낼 수 있는 거야」"
 
@@ -199,17 +232,20 @@ original = "俺もそう思います"
 translation = "저도 그렇게 생각합니다"
 
 [[dialogue]]
-speaker = "コハルコ"
+speaker_original = "コハルコ"
+speaker_translation = "쿠하루코"
 original = "「ありがとう。会長さんならそう言ってくれる気がしてた」"
 translation = "「고마워. 회장님이라면 그렇게 말해줄 것 같은 기분이 들었어」"
 
 [[dialogue]]
-speaker = "コハルコ"
+speaker_original = "コハルコ"
+speaker_translation = "쿠하루코"
 original = "「妹とも仲良しだし、会長さんはもう私の家族みたいなもの……かな。ふふふ」"
 translation = "「여동생이랑도 사이가 좋고, 회장님은 이제 내 가족 같은 존재……일까나. 후후후」"
 
 [[dialogue]]
-speaker = "コハルコ"
+speaker_original = "コハルコ"
+speaker_translation = "쿠하루코"
 original = "「ナツコの誕生日、ささやかだけどパーティーをするから会長さんも来て。正義の魔法使いが特製クリームシチューをご馳走するよ♪」"
 translation = "「나츠코의 생일, 소박하지만 파티를 할 거니까 회장님도 와줘. 정의의 마법사가 특제 크림 스튜를 대접할게♪」"
 

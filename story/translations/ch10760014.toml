@@ -4,12 +4,14 @@ original = "第４話,勇気を出してにぃ様と,P"
 translation = "제4화, 용기를 내서 오라버니와, P"
 
 [[dialogue]]
-speaker = "モナカ"
+speaker_original = "モナカ"
+speaker_translation = "모나카"
 original = "「すーはーすーはー……。大丈夫、大丈夫だから……。自然に、自然に……」"
 translation = "「흡 하 흡 하……. 괜찮아, 괜찮으니까……. 자연스럽게, 자연스럽게……」"
 
 [[dialogue]]
-speaker = "モナカ"
+speaker_original = "モナカ"
+speaker_translation = "모나카"
 original = "「よ、よぉーし……！」"
 translation = "「조, 좋아……!」"
 
@@ -19,52 +21,62 @@ original = "誰か探してるの？"
 translation = "누구 찾고 있어?"
 
 [[dialogue]]
-speaker = "モナカ"
+speaker_original = "モナカ"
+speaker_translation = "모나카"
 original = "「ひゃっ、にぃ様……！？\u3000ど、どうして後ろからっ……」"
 translation = "「히얏, 오라버니……!? 어, 어째서 뒤에서……」"
 
 [[dialogue]]
-speaker = "モナカ"
+speaker_original = "モナカ"
+speaker_translation = "모나카"
 original = "「あの、そのっ、用事があるのはにぃ様になのっ……」"
 translation = "「저기, 그게, 용건이 있는 건 오라버니한테라서……」"
 
 [[dialogue]]
-speaker = "モナカ"
+speaker_original = "モナカ"
+speaker_translation = "모나카"
 original = "「モナカね、クッキーをね、焼いたんだっ。それでにぃ様を誘いたいなぁって思ってっ」"
 translation = "「모나카 말이지, 쿠키를 말이야, 구웠어. 그래서 오라버니를 초대하고 싶다고 생각해서.」"
 
 [[dialogue]]
-speaker = "モナカ"
+speaker_original = "モナカ"
+speaker_translation = "모나카"
 original = "「あっ、誘いたいって言うのはお茶会にって意味でっ……。部室で一緒にお茶でもどうかなって意味でっ……」"
 translation = "「앗, 초대하고 싶다는 건 다과회에라는 뜻이고……. 부실에서 같이 차라도 어떨까 하는 뜻이라서……」"
 
 [[dialogue]]
-speaker = "モナカ"
+speaker_original = "モナカ"
+speaker_translation = "모나카"
 original = "「もちろん、にぃ様がお暇ならでいいんだけどっ……。迷惑だったら全然断ってもらってよくてっ……」"
 translation = "「물론 오라버니가 한가하다면 됐지만……. 방해된다면 얼마든지 거절해도 괜찮고……」"
 
 [[dialogue]]
-speaker = "モナカ"
+speaker_original = "モナカ"
+speaker_translation = "모나카"
 original = "「って……ご、ごめんなさい。１人でわーわー言っちゃって……」"
 translation = "「저기…… 죄, 죄송해요. 혼자서 횡설수설해서……」"
 
 [[dialogue]]
-speaker = "モナカ"
+speaker_original = "モナカ"
+speaker_translation = "모나카"
 original = "「つまり、その……クッキーを焼いたから、にぃ様とお茶会したいなって……」"
 translation = "「그러니까 그…… 쿠키를 구웠으니까 오라버니랑 다과회를 하고 싶어서……」"
 
 [[dialogue]]
-speaker = "モナカ"
+speaker_original = "モナカ"
+speaker_translation = "모나카"
 original = "「あ、クッキーは苦手だったかな……？\u3000チョコレートとか、プリンとか、ケーキとかの方が良かった……？」"
 translation = "「아, 쿠키는 별로일까……? 초콜릿이나 푸딩이나 케이크 쪽이 좋았을까……?」"
 
 [[dialogue]]
-speaker = "モナカ"
+speaker_original = "モナカ"
+speaker_translation = "모나카"
 original = "「にぃ様のお口に合うように作ったつもりだけど……。ヴィーナスさんやマトイさんたちに、にぃ様の味の好みを聞いたりして……」"
 translation = "「오라버니 입맛에 맞게 만들려고 생각했는데……. 비너스 씨나 마토이 씨들에게 오라버니 취향을 물어보기도 하고……」"
 
 [[dialogue]]
-speaker = "モナカ"
+speaker_original = "モナカ"
+speaker_translation = "모나카"
 original = "「それともやっぱり忙しい……？」"
 translation = "「그게 아니면 역시 바쁠까……?」"
 
@@ -74,32 +86,38 @@ original = "是非お邪魔させてもらうよ"
 translation = "꼭 실례하도록 할게."
 
 [[dialogue]]
-speaker = "モナカ"
+speaker_original = "モナカ"
+speaker_translation = "모나카"
 original = "「ホ、ホントっ？\u3000えへへ……！\u3000じゃあモナカについてきてくれる？\u3000準備はもうしてあるから」"
 translation = "「정, 정말? 에헤헤……! 그럼 모나카 따라올래? 준비는 벌써 다 해뒀으니까.」"
 
 [[dialogue]]
-speaker = "モナカ"
+speaker_original = "モナカ"
+speaker_translation = "모나카"
 original = "「どうぞ座って座って？\u3000今、お茶を淹れるね？」"
 translation = "「자 앉아 앉아. 지금 차를 내올게.」"
 
 [[dialogue]]
-speaker = "モナカ"
+speaker_original = "モナカ"
+speaker_translation = "모나카"
 original = "「にぃ様はどんな紅茶が好きかな？\u3000パルちゃんが紅茶好きだから色々と取り揃えてはいるんだけど」"
 translation = "「오라버니는 어떤 홍차를 좋아해? 파르 짱이 홍차를 좋아해서 여러 가지 갖춰두고 있긴 한데.」"
 
 [[dialogue]]
-speaker = "モナカ"
+speaker_original = "モナカ"
+speaker_translation = "모나카"
 original = "「モナカのおすすめは、このローズティー。薄目に淹れた紅茶にね、直接バラの花びらを浮かせて飲むの」"
 translation = "「모나카의 추천은 이 로즈 티. 연하게 우린 홍차에 말이야, 직접 장미 꽃잎을 띄워서 마시는 거야.」"
 
 [[dialogue]]
-speaker = "モナカ"
+speaker_original = "モナカ"
+speaker_translation = "모나카"
 original = "「バラの香りと甘い渋みが紅茶に広がって、とっても落ち着く味になるんだよ。クッキーにもすごく合って──……」"
 translation = "「장미 향이랑 달콤 쌉싸름한 맛이 홍차에 퍼져서 아주 차분해지는 맛이 나거든. 쿠키랑도 아주 잘 어울리고──……」"
 
 [[dialogue]]
-speaker = "モナカ"
+speaker_original = "モナカ"
+speaker_translation = "모나카"
 original = "「って、にぃ様？\u3000どうしたの、キョロキョロして……？」"
 translation = "「어라, 오라버니? 왜 그래, 두리번두리번하고……?」"
 
@@ -109,22 +127,26 @@ original = "２人で始めちゃっていいのかと思って"
 translation = "둘이서 시작해도 되는 건가 해서."
 
 [[dialogue]]
-speaker = "モナカ"
+speaker_original = "モナカ"
+speaker_translation = "모나카"
 original = "「え……？\u3000いいも何も最初から２人だけのつもりだよ……？\u3000今日はモナカが個人的に、その、にぃ様をお誘いしただけだから……」"
 translation = "「에……? 괜찮고 말고 애초에 둘만 있을 생각이었어……? 오늘은 모나카가 개인적으로 그, 오라버니를 초대한 거니까……」"
 
 [[dialogue]]
-speaker = "モナカ"
+speaker_original = "モナカ"
+speaker_translation = "모나카"
 original = "「もしかして、おなか部のみんなでって思ってた？\u3000ご、ごめんね、モナカの言葉足らずで勘違いさせちゃって」"
 translation = "「설마 오나카부 친구들 다 같이 하는 거라고 생각했어? 죄, 죄송해요, 모나카가 설명을 잘 못 해서 착각하게 했네.」"
 
 [[dialogue]]
-speaker = "モナカ"
+speaker_original = "モナカ"
+speaker_translation = "모나카"
 original = "「その、ね。一度でいいからモナカ、にぃ様と２人きりでゆっくり過ごしてみたくって……」"
 translation = "「그게 말이야. 한 번이라도 좋으니까 모나카, 오라버니랑 둘이서만 천천히 시간을 보내보고 싶어서……」"
 
 [[dialogue]]
-speaker = "モナカ"
+speaker_original = "モナカ"
+speaker_translation = "모나카"
 original = "「にぃ様ともっともっと、その……。仲良くなりたかったから……」"
 translation = "「오라버니랑 더욱더 그…… 친해지고 싶었으니까……」"
 
@@ -134,42 +156,50 @@ original = "じゃあ俺のためにクッキーや紅茶を……"
 translation = "그럼 나를 위해 쿠키랑 홍차를……."
 
 [[dialogue]]
-speaker = "モナカ"
+speaker_original = "モナカ"
+speaker_translation = "모나카"
 original = "「そ、そんな大袈裟なものじゃなくて。にぃ様には普段からお世話になってるから、そのお礼というか……」"
 translation = "「그, 그렇게 거창한 건 아냐. 오라버니한테는 평소에 신세를 지고 있으니까 그 답례라고나 할까……」"
 
 [[dialogue]]
-speaker = "モナカ"
+speaker_original = "モナカ"
+speaker_translation = "모나카"
 original = "「……ううん。やっぱり、にぃ様のためかも……。にぃ様に喜んでもらいたくてモナカなりに頑張ったから……」"
 translation = "「……으응. 역시 오라버니를 위해서일지도……. 오라버니가 기뻐해 줬으면 해서 모나카 나름대로 열심히 했으니까……」"
 
 [[dialogue]]
-speaker = "モナカ"
+speaker_original = "モナカ"
+speaker_translation = "모나카"
 original = "「モナカね……？\u3000にぃ様の笑顔を見ると、お胸がドキドキしちゃうの……」"
 translation = "「모나카 말이지……? 오라버니의 웃는 얼굴을 보면 가슴이 두근두근거려……」"
 
 [[dialogue]]
-speaker = "モナカ"
+speaker_original = "モナカ"
+speaker_translation = "모나카"
 original = "「にぃ様が隣にいてくれるだけで、すごく心がうきうきしちゃって……。嬉しくなっちゃって……」"
 translation = "「오라버니가 옆에 있어 주는 것만으로도 마음이 아주 들떠버려서……. 기뻐져서……」"
 
 [[dialogue]]
-speaker = "モナカ"
+speaker_original = "モナカ"
+speaker_translation = "모나카"
 original = "「にぃ様に喜んでもらえるならって思うと勇気も出て……。ヴィーナスさんやマトイさんにもにぃ様のこと聞きに行けたりできて……」"
 translation = "「오라버니가 기뻐해 준다면 하는 생각에 용기도 나고……. 비너스 씨나 마토이 씨에게도 오라버니에 대해 물으러 갈 수 있게 됐어……」"
 
 [[dialogue]]
-speaker = "モナカ"
+speaker_original = "モナカ"
+speaker_translation = "모나카"
 original = "「だからその……是非、食べて欲しいな。モナカのクッキーや紅茶で笑顔になってもらえるかはわからないけど……」"
 translation = "「그러니까 그…… 부디 먹어줬으면 좋겠어. 모나카의 쿠키나 홍차로 웃게 만들 수 있을지는 모르겠지만……」"
 
 [[dialogue]]
-speaker = "モナカ"
+speaker_original = "モナカ"
+speaker_translation = "모나카"
 original = "「でも、そのっ。モナカなりに一生懸命作ったつもりだからっ……。こ、こういうお菓子作りだけは小さい頃から得意なのっ……」"
 translation = "「하지만 그. 모나카 나름대로 온 힘을 다해 만든 거니까……. 이, 이런 과자 만들기만큼은 어릴 때부터 자신 있었거든……」"
 
 [[dialogue]]
-speaker = "モナカ"
+speaker_original = "モナカ"
+speaker_translation = "모나카"
 original = "「あっ──……ど、どう？\u3000お口に合う、かな……？」"
 translation = "「앗──…… 어, 어때? 입에 맞을, 까……?」"
 
@@ -179,77 +209,92 @@ original = "クッキーも紅茶もすごく美味しいよ"
 translation = "「쿠키도 홍차도 정말 맛있어.」"
 
 [[dialogue]]
-speaker = "モナカ"
+speaker_original = "モナカ"
+speaker_translation = "모나카"
 original = "「え、えへへ……。やっぱりお胸がトクントクンしちゃう……。にぃ様の笑顔見ると……」"
 translation = "「에, 에헤헤……. 역시 가슴이 두근두근거려요……. 오라버니의 웃는 얼굴을 보면……」"
 
 [[dialogue]]
-speaker = "モナカ"
+speaker_original = "モナカ"
+speaker_translation = "모나카"
 original = "「ね、にぃ様……。ちょっとだけワガママも言ってもいい……？」"
 translation = "「저기, 오라버니……. 조금만 어리광 부려도 될까……?」"
 
 [[dialogue]]
-speaker = "モナカ"
+speaker_original = "モナカ"
+speaker_translation = "모나카"
 original = "「お、お膝の上にね、座らせてもらいたいなって。にぃ様のお顔、その、もっと間近で見たいから……」"
 translation = "「무, 무릎 위에 말이야, 앉고 싶어서. 오라버니의 얼굴을, 그게, 좀 더 가까이서 보고 싶으니까……」"
 
 [[dialogue]]
-speaker = "モナカ"
+speaker_original = "モナカ"
+speaker_translation = "모나카"
 original = "「い、嫌だったらいいの。モナカもおかしなこと頼んじゃってるってわかってるから。だけど、えと、その──……」"
 translation = "「시, 싫다면 괜찮아. 모나카도 이상한 부탁을 하고 있다는 건 알고 있으니까. 하지만, 에토, 그게──……」"
 
 [[dialogue]]
-speaker = "モナカ"
+speaker_original = "モナカ"
+speaker_translation = "모나카"
 original = "「きゃっ……！\u3000～～っっ！\u3000に、にぃ様…………」"
 translation = "「꺄악……! ～～읏! 오, 오라버니…………」"
 
 [[dialogue]]
-speaker = "モナカ"
+speaker_original = "モナカ"
+speaker_translation = "모나카"
 original = "「え、えへへ、心臓爆発しちゃいそう……。見上げたらすぐそこに、にぃ様のお顔があって……」"
 translation = "「에, 에헤헤, 심장이 폭발해 버릴 것 같아……. 올려다보니 바로 거기에, 오라버니의 얼굴이 있어서……」"
 
 [[dialogue]]
-speaker = "モナカ"
+speaker_original = "モナカ"
+speaker_translation = "모나카"
 original = "「モナカの俯き癖も治っちゃいそうかも……。にぃ様のお顔から目が離せないもん……」"
 translation = "「모나카의 고개 숙이는 버릇도 나을지도 몰라……. 오라버니의 얼굴에서 눈을 뗄 수 없는걸……」"
 
 [[dialogue]]
-speaker = "モナカ"
+speaker_original = "モナカ"
+speaker_translation = "모나카"
 original = "「なんだか不思議な気分……。どうしてこんなにドキドキしちゃうのかな……？」"
 translation = "「왠지 신기한 기분……. 어째서 이렇게 두근거리는 걸까……?」"
 
 [[dialogue]]
-speaker = "モナカ"
+speaker_original = "モナカ"
+speaker_translation = "모나카"
 original = "「最初はね？\u3000ただ嬉しかっただけなんだ。モナカ、あんまり姉様たちと仲良くないから、優しいにぃ様ができたみたいで……」"
 translation = "「처음에는 말이야? 그냥 기뻤을 뿐이었어. 모나카, 언니들이랑 별로 친하지 않으니까, 상냥한 오라버니가 생긴 것 같아서……」"
 
 [[dialogue]]
-speaker = "モナカ"
+speaker_original = "モナカ"
+speaker_translation = "모나카"
 original = "「でも最近はね？\u3000嬉しいだけじゃなくて……。にぃ様の笑顔が見たくて見たくてたまらなくて……」"
 translation = "「하지만 요새는 말이야? 기쁠 뿐만 아니라……. 오라버니의 웃는 얼굴이 보고 싶어서 보고 싶어서 견딜 수가 없어서……」"
 
 [[dialogue]]
-speaker = "モナカ"
+speaker_original = "モナカ"
+speaker_translation = "모나카"
 original = "「モナカ、たくさんの人に笑顔になってもらいたくて星騎士になろうと思ったんだけど……。それともまた違って……」"
 translation = "「모나카, 많은 사람이 웃었으면 좋겠다고 생각해서 성기사가 되려고 했지만……. 그것과는 또 달라서……」"
 
 [[dialogue]]
-speaker = "モナカ"
+speaker_original = "モナカ"
+speaker_translation = "모나카"
 original = "「あ、あう、ごめんねっ。訳のわからないこと言っちゃって。モナカ、あんまり喋るの得意じゃないから気持ちを言葉にするのも苦手でっ……」"
 translation = "「아, 아우, 미안해. 영문 모를 소리를 해버려서. 모나카, 말하는 거 별로 잘 못 하니까 마음을 말로 표현하는 것도 서툴러서……」"
 
 [[dialogue]]
-speaker = "モナカ"
+speaker_original = "モナカ"
+speaker_translation = "모나카"
 original = "「でも、その……いつかちゃんと言葉にできるといいな。この気持ちをちゃんと形にして、にぃ様に伝えたい……」"
 translation = "「하지만, 그게…… 언젠가 제대로 말로 할 수 있으면 좋겠다. 이 마음을 제대로 형태로 만들어서, 오라버니에게 전하고 싶어……」"
 
 [[dialogue]]
-speaker = "モナカ"
+speaker_original = "モナカ"
+speaker_translation = "모나카"
 original = "「待っててくれる……？\u3000モナカ、落ちこぼれだから……ちょっぴり時間かかっちゃうかもしれないけど」"
 translation = "「기다려 줄 거야……? 모나카, 열등생이라서…… 조금 시간이 걸릴지도 모르지만」"
 
 [[dialogue]]
-speaker = "モナカ"
+speaker_original = "モナカ"
+speaker_translation = "모나카"
 original = "「……えへへ。ありがとうにぃ様。ん、ぎゅ～、大好き……」"
 translation = "「……에헤헤. 고마워 오라버니. 응, 꼬옥~, 정말 좋아해……」"
 

@@ -4,57 +4,68 @@ original = "第４話,甘えちゃっていいんだゾ♪,P"
 translation = "제4화, 어리광부려도 된다구♪, P"
 
 [[dialogue]]
-speaker = "リア"
+speaker_original = "リア"
+speaker_translation = "리아"
 original = "「こ～ら。いつまで訓練してるの？\u3000もう帰宅時間でしょ？」"
 translation = "「이~놈. 언제까지 훈련하고 있는 거야? 벌써 귀가 시간 지났잖아?」"
 
 [[dialogue]]
-speaker = "リア"
+speaker_original = "リア"
+speaker_translation = "리아"
 original = "「帰り道でみんなと別れた後、こそこそ一人で学園に引き返して行ってるなーっと思ったら、まさか戻ってこんなことしてるなんて」"
 translation = "「귀갓길에 모두와 헤어진 뒤에, 몰래 혼자서 학원으로 되돌아가길래 설마 했는데, 돌아와서 이런 짓을 하고 있을 줄이야」"
 
 [[dialogue]]
-speaker = "リア"
+speaker_original = "リア"
+speaker_translation = "리아"
 original = "「もしかして……毎日こんな夜遅くまで一人で訓練してるの？\u3000ただでさえ今日はみんなと朝から模擬戦ばっかりしてたじゃない」"
 translation = "「설마…… 매일 이렇게 늦은 밤까지 혼자 훈련하는 거야? 안 그래도 오늘은 다 같이 아침부터 모의전만 했었잖아」"
 
 [[dialogue]]
-speaker = "リア"
+speaker_original = "リア"
+speaker_translation = "리아"
 original = "「体もフラついてるみたいだし、今日は大人しく帰った方がいいよ。無理のしすぎは良くないから」"
 translation = "「몸도 비틀거리는 것 같고, 오늘은 얌전히 돌아가는 게 좋아. 무리하는 건 좋지 않으니까」"
 
 [[dialogue]]
-speaker = "リア"
+speaker_original = "リア"
+speaker_translation = "리아"
 original = "「む……あと１０分だけって。やめるつもりなさそうだけど。わかったよ、どうしても無理したいって言うのなら──」"
 translation = "「무…… 앞으로 10분만 더라니. 그만둘 생각이 없어 보이네. 알았어, 굳이 무리하겠다고 한다면──」"
 
 [[dialogue]]
-speaker = "リア"
+speaker_original = "リア"
+speaker_translation = "리아"
 original = "「最後に一度だけ先輩が模擬戦に付き合ってあげる」"
 translation = "「마지막으로 딱 한 번만 선배가 모의전에 상대해 줄게」"
 
 [[dialogue]]
-speaker = "リア"
+speaker_original = "リア"
+speaker_translation = "리아"
 original = "「私に勝てたら、このまま好きなだけ訓練していていいから。その代わり私に負けたら素直に帰るんだよ？」"
 translation = "「나를 이기면, 이대로 마음껏 훈련해도 좋아. 대신 나한테 지면 순순히 돌아가는 거다?」"
 
 [[dialogue]]
-speaker = "リア"
+speaker_original = "リア"
+speaker_translation = "리아"
 original = "「わかったら、ふふ、早く構えて？\u3000聞き分けのわるーい会長さんにリアお姉さんがきょーいくてきしどうをしてあげるから♪」"
 translation = "「알았으면, 후후, 어서 자세 잡아? 말 안 듣는 회장님에게 리아 언니가 교~육적 지도를 해줄 테니까♪」"
 
 [[dialogue]]
-speaker = "リア"
+speaker_original = "リア"
+speaker_translation = "리아"
 original = "「ほーら、じっとして？\u3000ちょっと染みるよ～？\u3000あとは、ぺたり。リアさん印の絆創膏を貼りまして」"
 translation = "「자아, 가만히 있어 봐? 조금 따가울 거야~? 나머지는, 착. 리아 씨표 반창고를 붙이고」"
 
 [[dialogue]]
-speaker = "リア"
+speaker_original = "リア"
+speaker_translation = "리아"
 original = "「よーし、これで大丈夫だね。ふふ、おでこに絆創膏なんてちょっぴり恥ずかしいかもしれないけど、まぁそこは先輩の言うことを聞かなかった罰ってことで♪」"
 translation = "「좋아, 이걸로 됐네. 후후, 이마에 반창고라니 조금 창피할지도 모르겠지만, 뭐 그건 선배 말을 안 들은 벌이라고 치자구♪」"
 
 [[dialogue]]
-speaker = "リア"
+speaker_original = "リア"
+speaker_translation = "리아"
 original = "「でも、よーくわかったでしょ？\u3000無理をしすぎてもダメだって。勢い余って転んじゃうくらい疲れてるのに」"
 translation = "「하지만, 잘 알았지? 무리하는 건 안 된다는 거. 기세가 넘쳐서 넘어질 정도로 지쳐 있으면서 말이야」"
 
@@ -64,27 +75,32 @@ original = "すみません……"
 translation = "죄송합니다……"
 
 [[dialogue]]
-speaker = "リア"
+speaker_original = "リア"
+speaker_translation = "리아"
 original = "「よしよし、素直に謝れて偉いゾ♪\u3000わかってもらえたのなら、お説教は終わり♪」"
 translation = "「옳지 옳지, 솔직하게 사과하니까 기특하네♪ 이해했으면 잔소리는 끝♪」"
 
 [[dialogue]]
-speaker = "リア"
+speaker_original = "リア"
+speaker_translation = "리아"
 original = "「甘いお菓子と美味しいお茶を用意するね。せっかくだし、ちょっとまったりしていっちゃおっか」"
 translation = "「달콤한 과자와 맛있는 차를 준비할게. 기왕 이렇게 된 거, 조금 쉬었다 가자」"
 
 [[dialogue]]
-speaker = "リア"
+speaker_original = "リア"
+speaker_translation = "리아"
 original = "「いいからいいから♪\u3000深夜にこそこそ訓練するより、深夜にこそこそ生徒会室でお茶会してる方がよっぽど楽しいよ」"
 translation = "「괜찮아 괜찮아♪ 심야에 몰래 훈련하는 것보다, 심야에 몰래 학생회실에서 다과회 하는 게 훨씬 즐겁단다」"
 
 [[dialogue]]
-speaker = "リア"
+speaker_original = "リア"
+speaker_translation = "리아"
 original = "「あ、これアナちゃんが作った和菓子だ。もぐもぐ、んん～♪\u3000アナちゃん、また一段と腕を上げたみたい」"
 translation = "「아, 이거 아나 짱이 만든 화과자네. 냠냠, 음~~♪ 아나 짱, 또 한층 더 솜씨가 늘었나 봐」"
 
 [[dialogue]]
-speaker = "リア"
+speaker_original = "リア"
+speaker_translation = "리아"
 original = "「会長さんも食べてみて？\u3000ほら、あーん♪\u3000もっと大きくお口を、あ・け・て♪」"
 translation = "「회장님도 먹어봐? 자, 아~앙♪ 좀 더 크게 입을 벌·려·줘♪」"
 
@@ -94,62 +110,74 @@ original = "あ、あーん"
 translation = "아, 아~앙"
 
 [[dialogue]]
-speaker = "リア"
+speaker_original = "リア"
+speaker_translation = "리아"
 original = "「くすくす、お顔まっかっか。りんごみたいになっちゃってる。なんだか可愛い」"
 translation = "「쿠스쿠스, 얼굴이 빨개졌어. 사과처럼 돼버렸네. 왠지 귀여워」"
 
 [[dialogue]]
-speaker = "リア"
+speaker_original = "リア"
+speaker_translation = "리아"
 original = "「でも、そのくらい肩の力を抜いて過ごした方がいいよ。常に気を張ってると疲れちゃうから」"
 translation = "「하지만 그 정도로 어깨에 힘을 빼고 지내는 게 좋아. 항상 긴장하고 있으면 지쳐버리니까」"
 
 [[dialogue]]
-speaker = "リア"
+speaker_original = "リア"
+speaker_translation = "리아"
 original = "「みんなから聞いたよ？\u3000転校してきてすぐ、自分は世界を救う魔王だって言われたり、生徒会長に任命されたりしちゃったんだってね？」"
 translation = "「모두에게 들었단다? 전학 오자마자 자신은 세계를 구하는 마왕이라는 말을 듣거나, 학생회장에 임명되거나 했다면서?」"
 
 [[dialogue]]
-speaker = "リア"
+speaker_original = "リア"
+speaker_translation = "리아"
 original = "「会長さんは真面目で一生懸命な人みたいだから、みんなの期待に応えなくっちゃって躍起になっちゃってるんじゃない？」"
 translation = "「회장님은 성실하고 열심인 사람 같으니까, 모두의 기대에 부응해야 한다고 기를 쓰고 있는 거 아니니?」"
 
 [[dialogue]]
-speaker = "リア"
+speaker_original = "リア"
+speaker_translation = "리아"
 original = "「ふふ、そのくらいお顔を見ればわかるよ。先輩ですもの♪」"
 translation = "「후후, 그 정도는 얼굴만 봐도 알 수 있어. 선배니까 말이야♪」"
 
 [[dialogue]]
-speaker = "リア"
+speaker_original = "リア"
+speaker_translation = "리아"
 original = "「でもね？\u3000ヴィーナスちゃんたちは何も会長さん一人に全てを任せようとしているわけじゃないと思うの」"
 translation = "「하지만 말이야? 비너스 짱 일행은 회장님 혼자에게 모든 걸 맡기려 하고 있는 건 아닐 거라고 생각해」"
 
 [[dialogue]]
-speaker = "リア"
+speaker_original = "リア"
+speaker_translation = "리아"
 original = "「むしろ一人で抱えすぎないで欲しい、もっと頼って欲しいって思ってるんじゃないかな？\u3000私も会長の立場を譲った身だから、気持ちがよくわかるんだ」"
 translation = "「오히려 혼자서 너무 짊어지지 않았으면 좋겠다, 좀 더 의지해 줬으면 좋겠다고 생각하고 있지 않을까? 나도 회장 자리를 넘겨준 몸이라 그 마음을 잘 알거든」"
 
 [[dialogue]]
-speaker = "リア"
+speaker_original = "リア"
+speaker_translation = "리아"
 original = "「だから会長さんも、もっとみんなに甘えちゃっていいんだよ？\u3000一人で頑張る必要はないの。会長さんにはたくさん仲間がいるんだから」"
 translation = "「그러니까 회장님도 좀 더 모두에게 어리광부려도 된단다? 혼자서 노력할 필요는 없어. 회장님에게는 많은 동료가 있으니까」"
 
 [[dialogue]]
-speaker = "リア"
+speaker_original = "リア"
+speaker_translation = "리아"
 original = "「こんな風に、よしよしってサーシャさんに頭を撫でてもらうといいよ。マトイちゃんと普通に遊んだりして、お腹が減ったらアナちゃんにお菓子をもらって」"
 translation = "「이런 식으로, 옳지 옳지 하고 사샤 씨에게 머리를 쓰다듬어달라고 하면 돼. 마토이 짱이랑 평범하게 놀기도 하고, 배고프면 아나 짱에게 과자를 받고」"
 
 [[dialogue]]
-speaker = "リア"
+speaker_original = "リア"
+speaker_translation = "리아"
 original = "「ヴィーナスちゃんの無茶振りにみんなで振り回されるのも楽しそう。青春だよ、せ・い・しゅ・ん♪」"
 translation = "「비너스 짱의 억지스러운 부탁에 다 같이 휘둘리는 것도 즐거워 보여. 청춘이야, 청·춘♪」"
 
 [[dialogue]]
-speaker = "リア"
+speaker_original = "リア"
+speaker_translation = "리아"
 original = "「会長さんはもっと気軽に頼ったり、甘えたりできる人を作らなくっちゃね。誰かに甘えるっていうのは悪いことじゃないから」"
 translation = "「회장님은 좀 더 가볍게 의지하거나 어리광부릴 수 있는 사람을 만들어야 해. 누군가에게 어리광부린다는 건 나쁜 게 아니니까」"
 
 [[dialogue]]
-speaker = "リア"
+speaker_original = "リア"
+speaker_translation = "리아"
 original = "「疲れた時に膝枕してもらったり、ぎゅ～っと抱き締めてもらったり、そういうことしてもらえる人がいると疲れも吹き飛んで、頑張ろうって気持ちになるしね」"
 translation = "「지쳤을 때 무릎베개를 받거나, 꽉 안기거나, 그런 걸 해주는 사람이 있으면 피로도 싹 가시고 힘내야겠다는 마음이 들거든」"
 
@@ -159,22 +187,26 @@ original = "リア先輩にもそういう人が？"
 translation = "리아 선배에게도 그런 사람이 있나요?"
 
 [[dialogue]]
-speaker = "リア"
+speaker_original = "リア"
+speaker_translation = "리아"
 original = "「えっ？\u3000わ、私？\u3000そ、そうだなぁ。いると言えばいるかなぁ。でもでも先輩は人に甘えたりしないものだから！」"
 translation = "「엣? 나, 나? 그, 글쎄. 있다고 하면 있다고 할까나. 하지만 하지만 선배는 남에게 어리광부리거나 하지 않으니까!」"
 
 [[dialogue]]
-speaker = "リア"
+speaker_original = "リア"
+speaker_translation = "리아"
 original = "「あ、あくまで喩えだよ。私はこの通り、甘えるより甘やかしたいタイプだしね！」"
 translation = "「어, 어디까지나 비유야. 나는 보다시피 어리광부리기보다는 받아주는 타입이고 말이야!」"
 
 [[dialogue]]
-speaker = "リア"
+speaker_original = "リア"
+speaker_translation = "리아"
 original = "「って……あれ？\u3000どうしたの？\u3000私の膝じーっと見て。くすくす、もしかして私の膝枕をご所望なのかな～？」"
 translation = "「어…… 어라? 왜 그래? 내 무릎을 뚫어지게 보고. 쿠스쿠스, 혹시 내 무릎베개를 원하는 걸까나~?」"
 
 [[dialogue]]
-speaker = "リア"
+speaker_original = "リア"
+speaker_translation = "리아"
 original = "「でも、ダーメ。そういうことは会長さんが心に決めた人にしてもらわないと。誰彼構わず膝枕してもらおうとしたら、エッチで軟派な男の子だと思われちゃうゾ♪」"
 translation = "「하지만, 안~ 돼. 그런 건 회장님이 마음속으로 정한 사람에게 받아야지. 아무한테나 무릎베개 해달라고 하면, 야하고 실없는 애라고 생각될 거라구♪」"
 
@@ -184,22 +216,26 @@ original = "やっぱり先輩の太ももを独占してる人が……"
 translation = "역시 선배의 허벅지를 독점하고 있는 사람이……"
 
 [[dialogue]]
-speaker = "リア"
+speaker_original = "リア"
+speaker_translation = "리아"
 original = "「～～っっ。そ、そういう変な勘ぐりはしなくていーの！\u3000どちらかと言えば私の方が、その。独占してる側だったりするし……」"
 translation = "「~~윽. 그, 그런 이상한 추측은 안 해도 돼! 굳이 따지자면 내 쪽이, 그. 독점하고 있는 쪽이기도 하고……」"
 
 [[dialogue]]
-speaker = "リア"
+speaker_original = "リア"
+speaker_translation = "리아"
 original = "「と、とにかく！\u3000会長さんは頑張りすぎ！\u3000魔王で生徒会長だからって一人で抱え込んじゃ、メっ！」"
 translation = "「어, 어쨌든! 회장님은 너무 열심히 해! 마왕이자 학생회장이라고 혼자서 짊어지는 건, 안 돼!」"
 
 [[dialogue]]
-speaker = "リア"
+speaker_original = "リア"
+speaker_translation = "리아"
 original = "「会長さんの周りには頼りになる仲間がたくさんいるんだから。もちろん、私も会長さんの味方だよ？」"
 translation = "「회장님 주변에는 의지할 수 있는 동료가 잔뜩 있으니까. 물론 나도 회장님의 편이야」"
 
 [[dialogue]]
-speaker = "リア"
+speaker_original = "リア"
+speaker_translation = "리아"
 original = "「そうだ──これを受け取って？\u3000明日みんなに渡そうと思ってたの」"
 translation = "「맞다── 이거 받아줄래? 내일 모두에게 주려고 생각했던 거야」"
 
@@ -209,17 +245,20 @@ original = "このロザリオ──"
 translation = "이 로자리오는──"
 
 [[dialogue]]
-speaker = "リア"
+speaker_original = "リア"
+speaker_translation = "리아"
 original = "「うん♪\u3000流星クルセイダースの仲間の証♪\u3000まぁ私が作ったレプリカだけどね？\u3000でもこれで会長さんも流星クルセイダースの仲間入りだよ♪」"
 translation = "「응♪ 유성 크루세이더즈의 동료라는 증표♪ 뭐 내가 만든 레플리카지만 말이야? 그래도 이걸로 회장님도 유성 크루세이더즈의 일원이 된 거야♪」"
 
 [[dialogue]]
-speaker = "リア"
+speaker_original = "リア"
+speaker_translation = "리아"
 original = "「私はもうすぐ元の世界に帰っちゃうけど。困った時はいつでも呼んで？\u3000絶対にすぐ駆けつけるから」"
 translation = "「나는 이제 곧 원래 세계로 돌아가겠지만. 곤란할 때는 언제든 불러? 절대로 바로 달려올 테니까」"
 
 [[dialogue]]
-speaker = "リア"
+speaker_original = "リア"
+speaker_translation = "리아"
 original = "「会長さんも私の大切な後輩の一人だもん♪\u3000一人で頑張らずに、いつでも先輩を頼っていいからね♪」"
 translation = "「회장님도 내 소중한 후배 중 한 명인걸♪ 혼자서 끙끙대지 말고, 언제든 선배를 의지해도 되니까 말이야♪」"
 
@@ -229,27 +268,32 @@ original = "ありがとうございます！"
 translation = "감사합니다!"
 
 [[dialogue]]
-speaker = "リア"
+speaker_original = "リア"
+speaker_translation = "리아"
 original = "「えっへん、お礼には及ばないよ！\u3000先輩ですもの♪」"
 translation = "「엣헴, 고마워할 것 없어! 선배니까 말이야♪」"
 
 [[dialogue]]
-speaker = "リア"
+speaker_original = "リア"
+speaker_translation = "리아"
 original = "「じゃあ、ふふ、せっかくだし今夜はもう少しだけ二人でお茶会していっちゃおうっか」"
 translation = "「그럼, 후후, 기왕 이렇게 된 거 오늘 밤은 조금만 더 둘이서 다과회 하자」"
 
 [[dialogue]]
-speaker = "リア"
+speaker_original = "リア"
+speaker_translation = "리아"
 original = "「流石に膝枕はしてあげれないけど、それでも今夜は甘え下手な会長さんをうーんと甘えさせてあげるね♪」"
 translation = "「차마 무릎베개는 못 해주겠지만, 그래도 오늘 밤은 어리광에 서툰 회장님을 아~주 많이 받아줄게♪」"
 
 [[dialogue]]
-speaker = "リア"
+speaker_original = "リア"
+speaker_translation = "리아"
 original = "「会長さんに今一番必要な訓練は、ふふふ、恥ずかしがらずに誰かに甘えることみたいだから」"
 translation = "「회장님에게 지금 가장 필요한 훈련은, 후후후, 부끄러워하지 않고 누군가에게 어리광부리는 것 같으니까 말이야」"
 
 [[dialogue]]
-speaker = "リア"
+speaker_original = "リア"
+speaker_translation = "리아"
 original = "「リア先輩に、思いっきり甘えてきちゃいなさ～い♪」"
 translation = "「리아 선배에게, 마음껏 어리광부리고 오렴~♪」"
 

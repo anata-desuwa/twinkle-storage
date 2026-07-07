@@ -4,7 +4,8 @@ original = "第１話,えっちな人は『お掃除』します,P"
 translation = "제1화, 야한 사람은 『청소』합니다"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「わざわざ来ていただいたのにすみません、緋宮会長。教皇庁の者と話をする必要がありまして……少しの間、ここでメイドと待っていていただけますか？」"
 translation = "「일부러 와주셨는데 죄송해요, 히노미야 회장님. 교황청 사람과 이야기할 필요가 생겨서…… 잠시 여기서 메이드와 기다려 주시겠어요?」"
 
@@ -14,62 +15,74 @@ original = "もちろん大丈夫"
 translation = "물론 괜찮아"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「ありがとうございます。ナミエル～」"
 translation = "「감사합니다. 나미엘~」"
 
 [[dialogue]]
-speaker = "ナミエル"
+speaker_original = "ナミエル"
+speaker_translation = "나미엘"
 original = "「お呼びでしょうか、フィオナお嬢様」"
 translation = "「부르셨습니까, 피오나 아가씨.」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「ナミエル。私が部屋を空ける間、緋宮会長の応対をお願いね」"
 translation = "「나미엘. 내가 자리를 비우는 동안 히노미야 회장님 응대를 부탁해.」"
 
 [[dialogue]]
-speaker = "ナミエル"
+speaker_original = "ナミエル"
+speaker_translation = "나미엘"
 original = "「承知いたしました」"
 translation = "「알겠습니다.」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「この間みたいに、お客さんに殺気を向けるのはダメだからね」"
 translation = "「지난번처럼 손님에게 살기를 내뿜으면 안 돼?」"
 
 [[dialogue]]
-speaker = "ナミエル"
+speaker_original = "ナミエル"
+speaker_translation = "나미엘"
 original = "「お嬢様。お言葉を返すようですが、あのお客様は挙動が怪しかったのです。私を見るたび、ニヤニヤと笑って──」"
 translation = "「아가씨. 말대꾸하는 것 같아 죄송합니다만, 그 손님은 거동이 수상했습니다. 저를 볼 때마다 히죽히죽 웃으면서──」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「それはナミエルがあまりにも警戒して睨むから、愛想笑いをしてただけじゃ……。男の人だからといって理由もなく怪しんだり、威圧するのはいけないよ」"
 translation = "「그건 나미엘이 너무 경계하며 노려보니까 억지웃음을 지은 것뿐이 아닐까……. 남자라고 해서 이유 없이 의심하거나 위압하면 안 돼.」"
 
 [[dialogue]]
-speaker = "ナミエル"
+speaker_original = "ナミエル"
+speaker_translation = "나미엘"
 original = "「でも男性はえっちな生き物です。隙を与えれば豹変すると本にも書いてありました」"
 translation = "「하지만 남성은 야한 생물입니다. 틈을 주면 돌변한다고 책에도 쓰여 있었습니다.」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「うーん、また今度、ちゃんと話したほうがいいのかなぁ……。とにかく、早とちりで『掃除』をしないようにしてね」"
 translation = "「으음, 다음에 다시 제대로 이야기해야 하려나……. 아무튼 성급하게 『청소』하지 않도록 해줘.」"
 
 [[dialogue]]
-speaker = "ナミエル"
+speaker_original = "ナミエル"
+speaker_translation = "나미엘"
 original = "「かしこまりました」"
 translation = "「알겠습니다.」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「では緋宮会長。何かしてほしいことがあったらナミエルに言ってください。できるだけ早く戻ってきますので」"
 translation = "「그럼 히노미야 회장님. 필요한 게 있으면 나미엘에게 말씀해 주세요. 가능한 한 빨리 돌아올 테니까요.」"
 
 [[dialogue]]
-speaker = "ナミエル"
+speaker_original = "ナミエル"
+speaker_translation = "나미엘"
 original = "「…………」"
 translation = "「…………」"
 
@@ -79,17 +92,20 @@ original = "よろしく、ナミエル"
 translation = "잘 부탁해, 나미엘"
 
 [[dialogue]]
-speaker = "ナミエル"
+speaker_original = "ナミエル"
+speaker_translation = "나미엘"
 original = "「私はあまりよろしくしたくありませんが、致し方ありません」"
 translation = "「저는 별로 잘 부탁하고 싶지 않습니다만, 어쩔 수 없군요.」"
 
 [[dialogue]]
-speaker = "ナミエル"
+speaker_original = "ナミエル"
+speaker_translation = "나미엘"
 original = "「ナミエル・クレシェンテと申します。流星学園附属の１年生。ご覧のとおり、星見家メイド隊の一員でもあります」"
 translation = "「나미엘 크레셴테라고 합니다. 유성학원 부속 1학년. 보시는 바와 같이 호시미 가문 메이드대의 일원이기도 합니다.」"
 
 [[dialogue]]
-speaker = "ナミエル"
+speaker_original = "ナミエル"
+speaker_translation = "나미엘"
 original = "「得意なことは掃除。嫌いなものは拭いてもなかなか落ちない汚れと、男性全般です」"
 translation = "「특기는 청소. 싫어하는 것은 닦아도 잘 지워지지 않는 얼룩과 남성 전반입니다.」"
 
@@ -99,22 +115,26 @@ original = "ひょっとしなくても俺……嫌われてる？"
 translation = "설마가 아니라 나…… 미움받고 있어?"
 
 [[dialogue]]
-speaker = "ナミエル"
+speaker_original = "ナミエル"
+speaker_translation = "나미엘"
 original = "「はい。わざわざ休日に、アステラ対策などと称してお嬢様のご自宅にまで来られる輩は初めてです」"
 translation = "「네. 일부러 휴일에 아스텔라 대책 운운하며 아가씨 댁까지 찾아오는 무리는 처음입니다.」"
 
 [[dialogue]]
-speaker = "ナミエル"
+speaker_original = "ナミエル"
+speaker_translation = "나미엘"
 original = "「お嬢様目当てに違いありません。警戒レベルを普段の３倍に引き上げて対応するのは当然でしょう」"
 translation = "「아가씨가 목적인 게 틀림없습니다. 경계 레벨을 평소의 3배로 끌어올려 대응하는 건 당연하겠죠.」"
 
 [[dialogue]]
-speaker = "ナミエル"
+speaker_original = "ナミエル"
+speaker_translation = "나미엘"
 original = "「不埒な考えはすぐに見透かします。私に隙はございません。背中にも目を付けるよう、特殊な訓練を積んできましたから」"
 translation = "「불온한 생각은 금방 꿰뚫어 봅니다. 제게 빈틈은 없습니다. 등 뒤에도 눈을 달 수 있도록 특수 훈련을 쌓아왔으니까요.」"
 
 [[dialogue]]
-speaker = "ナミエル"
+speaker_original = "ナミエル"
+speaker_translation = "나미엘"
 original = "「……自己紹介は以上です。紅茶のお代わりなど、必要なものがあればお申し付けください。それでは」"
 translation = "「……자기소개는 이상입니다. 홍차 리필 등 필요한 게 있으면 말씀하십시오. 그럼.」"
 
@@ -134,7 +154,8 @@ original = "だけど一点だけ──"
 translation = "하지만 딱 한 군데──"
 
 [[dialogue]]
-speaker = "ナミエル"
+speaker_original = "ナミエル"
+speaker_translation = "나미엘"
 original = "「どうぞ、紅茶です。お茶菓子もお召し上がりください」"
 translation = "「여기, 홍차입니다. 다과도 드십시오.」"
 
@@ -144,7 +165,8 @@ original = "（ナミエルのスカートが引っかかって……）"
 translation = "(나미엘의 스커트가 걸려서……)"
 
 [[dialogue]]
-speaker = "ナミエル"
+speaker_original = "ナミエル"
+speaker_translation = "나미엘"
 original = "「お嬢様はもうすぐお戻りになるそうです。しばしお待ちください」"
 translation = "「아가씨는 곧 돌아오신다고 합니다. 잠시 기다려 주십시오.」"
 
@@ -154,22 +176,26 @@ original = "（タイツ越しにパンツが見えてる……！）"
 translation = "(타이츠 너머로 팬티가 보이고 있어……!)"
 
 [[dialogue]]
-speaker = "ナミエル"
+speaker_original = "ナミエル"
+speaker_translation = "나미엘"
 original = "「──あの。さっきから何ですか？\u3000視線をすごく感じるのですが」"
 translation = "「──저기. 아까부터 뭡니까? 시선이 굉장히 느껴집니다만.」"
 
 [[dialogue]]
-speaker = "ナミエル"
+speaker_original = "ナミエル"
+speaker_translation = "나미엘"
 original = "「メイド服の…………スカート？」"
 translation = "「메이드복의………… 스커트?」"
 
 [[dialogue]]
-speaker = "ナミエル"
+speaker_original = "ナミエル"
+speaker_translation = "나미엘"
 original = "「～～～～っ！？」"
 translation = "「~~~~~~~~!?」"
 
 [[dialogue]]
-speaker = "ナミエル"
+speaker_original = "ナミエル"
+speaker_translation = "나미엘"
 original = "「ず、ずっと黙って見ていたんですかっ！？\u3000信じられません！\u3000ほ、ほほ、本性を現しましたねっ！？」"
 translation = "「계, 계속 잠자코 보고 있었던 겁니까!? 믿을 수 없습니다! 보, 보보, 본성을 드러냈군요!?」"
 
@@ -179,32 +205,38 @@ original = "ごめん、わざとじゃないんだ！"
 translation = "미안, 일부러 그런 게 아니야!"
 
 [[dialogue]]
-speaker = "ナミエル"
+speaker_original = "ナミエル"
+speaker_translation = "나미엘"
 original = "「エロ会長！\u3000変態！\u3000スケベ！\u3000変質者！\u3000ええ、えっちな人は洗い流します！」"
 translation = "「에로 회장! 변태! 변태 자식! 변질자! 네, 야한 사람은 씻어내 버리겠습니다!」"
 
 [[dialogue]]
-speaker = "ナミエル"
+speaker_original = "ナミエル"
+speaker_translation = "나미엘"
 original = "「ぅぅ……うぅ～～～っ……」"
 translation = "「으으…… 으으으윽……」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「ただいま戻りまし──た？」"
 translation = "「다녀왔습니── 다?」"
 
 [[dialogue]]
-speaker = "ナミエル"
+speaker_original = "ナミエル"
+speaker_translation = "나미엘"
 original = "「うわあぁああぁぁ～～～～～んっ！」"
 translation = "「으아아아아아앙──!」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「緋宮会長……これはいったいどういうことでしょうか？」"
 translation = "「히노미야 회장님…… 이건 대체 어떻게 된 일인가요?」"
 
 [[dialogue]]
-speaker = "ナミエル"
+speaker_original = "ナミエル"
+speaker_translation = "나미엘"
 original = "「うぇええっ……ひくっ、ぐすっ……うわぁああんっ！！」"
 translation = "「으에에엑…… 히끅, 흑…… 으아아앙!!」"
 

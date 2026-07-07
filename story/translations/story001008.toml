@@ -1,30 +1,36 @@
 [[dialogue]]
-speaker = "フラン"
+speaker_original = "フラン"
+speaker_translation = "프랑"
 original = "「はぁ、はぁ……オレのいないところで余計なこと言うなチビ」"
 translation = "「하아, 하아…… 내가 없는 곳에서 쓸데없는 소리 하지 마라, 꼬맹이.」"
 
 [[dialogue]]
-speaker = "パテル"
+speaker_original = "パテル"
+speaker_translation = "파텔"
 original = "「チビチビって言ってくれてるけど、あたしはえら～い守護天使様なんだよ？\u3000そんな口きいちゃっていいのかな～？」"
 translation = "「꼬맹이 꼬맹이 거리는데, 나는 위─대한 수호천사님이시거든? 그렇게 말해도 괜찮을까나─?」"
 
 [[dialogue]]
-speaker = "フラン"
+speaker_original = "フラン"
+speaker_translation = "프랑"
 original = "「知るか、チビには違いねえだろ。堕天しといて偉そうなこと言ってんじゃねえ」"
 translation = "「알 게 뭐야, 꼬맹이인 건 변함없잖아. 타락해 놓고 잘난 척 떠들지 마.」"
 
 [[dialogue]]
-speaker = "パテル"
+speaker_original = "パテル"
+speaker_translation = "파텔"
 original = "「アハ、イタイところを突かれちゃったな～」"
 translation = "「아하, 아픈 곳을 찔려버렸네~」"
 
 [[dialogue]]
-speaker = "パテル"
+speaker_original = "パテル"
+speaker_translation = "파텔"
 original = "「でも堕天使はどうしたの？\u3000そっちにもそれなりの数が行ったはずだけど」"
 translation = "「하지만 타락천사들은 어떻게 했어? 그쪽에도 꽤 많은 수가 갔을 텐데.」"
 
 [[dialogue]]
-speaker = "フラン"
+speaker_original = "フラン"
+speaker_translation = "프랑"
 original = "「会長に全部押しつけてきた。今頃お前の分身をサンドバッグにしてるぜ」"
 translation = "「회장에게 다 떠넘기고 왔다. 지금쯤 네 분신을 샌드백으로 만들고 있을걸.」"
 
@@ -34,237 +40,284 @@ original = "グロリアさんのところにはいかせない！"
 translation = "글로리아 씨가 있는 곳에는 보내지 않겠어!"
 
 [[dialogue]]
-speaker = "パテル"
+speaker_original = "パテル"
+speaker_translation = "파텔"
 original = "「お～、なるほど。ライフハックってやつだね！」"
 translation = "「오~, 그렇구나. 라이프 해크라는 거네!」"
 
 [[dialogue]]
-speaker = "パテル"
+speaker_original = "パテル"
+speaker_translation = "파텔"
 original = "「でもさー、あたしの言ってること間違ってる？\u3000間違ってないよね？\u3000フランだって、グロリアの言ってることが欺瞞だってわかってるよね？」"
 translation = "「하지만 말이야─, 내가 하는 말이 틀렸어? 틀리지 않았지? 프랑도 글로리아가 하는 말이 기만이라는 거 알고 있잖아?」"
 
 [[dialogue]]
-speaker = "フラン"
+speaker_original = "フラン"
+speaker_translation = "프랑"
 original = "「わかってる。グロリアの言ってることが気休めだって」"
 translation = "「알고 있어. 글로리아가 하는 말이 위안이라는 건.」"
 
 [[dialogue]]
-speaker = "フラン"
+speaker_original = "フラン"
+speaker_translation = "프랑"
 original = "「でもな、グロリアが自分で理解してるってことも、お前に言われなくてもわかってんだよ」"
 translation = "「하지만 말이다, 글로리아가 스스로 이해하고 있다는 것 정도는 네가 말 안 해도 알고 있단 말이다.」"
 
 [[dialogue]]
-speaker = "グロリア"
+speaker_original = "グロリア"
+speaker_translation = "글로리아"
 original = "「──！」"
 translation = "「──!」"
 
 [[dialogue]]
-speaker = "フラン"
+speaker_original = "フラン"
+speaker_translation = "프랑"
 original = "「グロリアの言ってることは確かに欺瞞だ。自分で自分にウソついてんだ」"
 translation = "「글로리아가 하는 말은 확실히 기만이야. 스스로에게 거짓말을 하고 있는 거지.」"
 
 [[dialogue]]
-speaker = "フラン"
+speaker_original = "フラン"
+speaker_translation = "프랑"
 original = "「でもグロリアは戦ってんだよ！」"
 translation = "「하지만 글로리아는 싸우고 있다고!」"
 
 [[dialogue]]
-speaker = "フラン"
+speaker_original = "フラン"
+speaker_translation = "프랑"
 original = "「シッシッ。ナンパならよそに行きな。もう顔見せんな！」"
 translation = "「훠이 훠이. 헌팅이라면 딴 데 가서 해. 다신 얼굴 비치지 마라!」"
 
 [[dialogue]]
-speaker = "グロリア"
+speaker_original = "グロリア"
+speaker_translation = "글로리아"
 original = "「ありがとうございます、フランさん。男の方から『一緒に遊ぼう』と何度も声をかけられて、どうしていいかわからなくて……」"
 translation = "「감사합니다, 프랑 씨. 남자분들이 『같이 놀자』며 몇 번이나 말을 걸어와서 어떻게 해야 할지 몰랐는데……」"
 
 [[dialogue]]
-speaker = "フラン"
+speaker_original = "フラン"
+speaker_translation = "프랑"
 original = "「グロリアはいつもボーッとしてるからカモだと思われたんだろ。気を付けろよな」"
 translation = "「글로리아는 항상 멍하니 있으니까 만만해 보였겠지. 조심하라고.」"
 
 [[dialogue]]
-speaker = "グロリア"
+speaker_original = "グロリア"
+speaker_translation = "글로리아"
 original = "「フランさんにはお世話になってばかり……感謝してもしきれません」"
 translation = "「프랑 씨에게는 매번 도움만 받고…… 감사 인사를 아무리 드려도 모자라요.」"
 
 [[dialogue]]
-speaker = "グロリア"
+speaker_original = "グロリア"
+speaker_translation = "글로리아"
 original = "「ところで一緒に死んでいただけませんか？」"
 translation = "「그건 그렇고 함께 죽어주지 않으시겠어요?」"
 
 [[dialogue]]
-speaker = "フラン"
+speaker_original = "フラン"
+speaker_translation = "프랑"
 original = "「誰が死ぬかァ！」"
 translation = "「누가 죽냐!」"
 
 [[dialogue]]
-speaker = "フラン"
+speaker_original = "フラン"
+speaker_translation = "프랑"
 original = "「ったく、このやりとり何回目だよ。飽きねえなぁ」"
 translation = "「나 원 참, 이 대화가 몇 번째냐. 질리지도 않는군.」"
 
 [[dialogue]]
-speaker = "グロリア"
+speaker_original = "グロリア"
+speaker_translation = "글로리아"
 original = "「だって私は本当に、フランさんと死にたいんですもの……」"
 translation = "「그치만 저는 정말로 프랑 씨와 죽고 싶은걸요……」"
 
 [[dialogue]]
-speaker = "グロリア"
+speaker_original = "グロリア"
+speaker_translation = "글로리아"
 original = "「でもどうしてフランさんは私を助けてくれるのですか？\u3000さっきも守っていただいて……」"
 translation = "「하지만 어째서 프랑 씨는 저를 도와주시는 건가요? 조금 전에도 지켜주시고……」"
 
 [[dialogue]]
-speaker = "フラン"
+speaker_original = "フラン"
+speaker_translation = "프랑"
 original = "「そりゃオレは戦士だからな。困っているやつがいたら守ってやるさ」"
 translation = "「그야 난 전사니까 말이지. 곤란해하는 녀석이 있으면 지켜주는 법이야.」"
 
 [[dialogue]]
-speaker = "フラン"
+speaker_original = "フラン"
+speaker_translation = "프랑"
 original = "「親父も兄貴も戦士でな、剣も槍も弓も、なんなら拳闘も叩き込まれてるんだ。何が来ても守ってやるぜ」"
 translation = "「아버지도 형님도 전사였거든. 검도 창도 활도, 아니면 권투까지 때려 박혔지. 뭐가 오든 지켜주마.」"
 
 [[dialogue]]
-speaker = "グロリア"
+speaker_original = "グロリア"
+speaker_translation = "글로리아"
 original = "「守る……」"
 translation = "「지킨다……」"
 
 [[dialogue]]
-speaker = "フラン"
+speaker_original = "フラン"
+speaker_translation = "프랑"
 original = "「ん？\u3000どうした？」"
 translation = "「응? 왜 그래?」"
 
 [[dialogue]]
-speaker = "グロリア"
+speaker_original = "グロリア"
+speaker_translation = "글로리아"
 original = "「いえ……フランさんのお話で思い出していました」"
 translation = "「아니요…… 프랑 씨의 이야기에서 떠올리고 있었어요.」"
 
 [[dialogue]]
-speaker = "グロリア"
+speaker_original = "グロリア"
+speaker_translation = "글로리아"
 original = "「モンスターに襲われた時……父と母は必死に私を守ってくれました」"
 translation = "「몬스터에게 습격당했을 때…… 아버지와 어머니는 필사적으로 저를 지켜주셨어요.」"
 
 [[dialogue]]
-speaker = "グロリア"
+speaker_original = "グロリア"
+speaker_translation = "글로리아"
 original = "「逃げろと何度も叫んで、私に覆いかぶさって、モンスターに爪を突き立てられても私を離すことなく、最期まで……」"
 translation = "「도망치라고 몇 번이나 외치며 저를 감싸고, 몬스터에게 발톱이 박혀도 저를 놓지 않고 마지막까지……」"
 
 [[dialogue]]
-speaker = "フラン"
+speaker_original = "フラン"
+speaker_translation = "프랑"
 original = "「…………」"
 translation = "「…………」"
 
 [[dialogue]]
-speaker = "フラン"
+speaker_original = "フラン"
+speaker_translation = "프랑"
 original = "「お前に言われなくたって、グロリアもわかってんだよ」"
 translation = "「네가 말 안 해도 글로리아는 알고 있단 말이다.」"
 
 [[dialogue]]
-speaker = "フラン"
+speaker_original = "フラン"
+speaker_translation = "프랑"
 original = "「グロリアは死にたい。でも死んじゃいけない。両親の死を無駄にすることになるからな」"
 translation = "「글로리아는 죽고 싶어 해. 하지만 죽어서는 안 되지. 부모님의 죽음을 헛되게 하는 꼴이 되니까.」"
 
 [[dialogue]]
-speaker = "フラン"
+speaker_original = "フラン"
+speaker_translation = "프랑"
 original = "「だから『いい人は早く死ぬ』なんて言葉を建前に使ってる。死んでも『女神様のお迎え』ってことにできるからな」"
 translation = "「그래서 『착한 사람은 빨리 죽는다』 같은 말을 핑계로 쓰고 있는 거다. 죽더라도 『여신님의 마중』이라는 거로 칠 수 있으니까.」"
 
 [[dialogue]]
-speaker = "パテル"
+speaker_original = "パテル"
+speaker_translation = "파텔"
 original = "「それは目を背けてるとは言わないの？」"
 translation = "「그건 눈을 돌리고 있다고 하지 않아?」"
 
 [[dialogue]]
-speaker = "フラン"
+speaker_original = "フラン"
+speaker_translation = "프랑"
 original = "「そうかもな。だけどいつか、親の死を直視できるようになる時が来る」"
 translation = "「그럴지도 모르지. 하지만 언젠가 부모의 죽음을 직시할 수 있게 될 때가 올 거다.」"
 
 [[dialogue]]
-speaker = "フラン"
+speaker_original = "フラン"
+speaker_translation = "프랑"
 original = "「それまで目を背けりゃいい。死にたいって言えばいい。それがグロリアの戦い方だ」"
 translation = "「그때까지는 눈을 돌려도 돼. 죽고 싶다고 말해도 돼. 그게 글로리아의 싸움 방식이다.」"
 
 [[dialogue]]
-speaker = "フラン"
+speaker_original = "フラン"
+speaker_translation = "프랑"
 original = "「守護天使にも、死神にも邪魔はさせねえ！」"
 translation = "「수호천사든 사신이든 방해하게 두지 않겠어!」"
 
 [[dialogue]]
-speaker = "フラン"
+speaker_original = "フラン"
+speaker_translation = "프랑"
 original = "「──って全部<ruby>パテル<rt>おまえ</rt></ruby>じゃねえかっ！！」"
 translation = "「──라고 생각하니 전부 너잖아!!」"
 
 [[dialogue]]
-speaker = "パテル"
+speaker_original = "パテル"
+speaker_translation = "파텔"
 original = "「てへぺろっ♪」"
 translation = "「데헤헷♪」"
 
 [[dialogue]]
-speaker = "グロリア"
+speaker_original = "グロリア"
+speaker_translation = "글로리아"
 original = "「ぷっ」"
 translation = "「훗」"
 
 [[dialogue]]
-speaker = "フラン"
+speaker_original = "フラン"
+speaker_translation = "프랑"
 original = "「邪魔だ！」"
 translation = "「방해된다!」"
 
 [[dialogue]]
-speaker = "フラン"
+speaker_original = "フラン"
+speaker_translation = "프랑"
 original = "「親父からの受け売りだが……生きることは戦いだ」"
 translation = "「아버지께 들은 말이지만…… 사는 것은 투쟁이다.」"
 
 [[dialogue]]
-speaker = "フラン"
+speaker_original = "フラン"
+speaker_translation = "프랑"
 original = "「生きるのは苦しくて、つらくて、何度もくじけそうになって、泣きそうになって……一番厳しくて、過酷な戦いなんだ」"
 translation = "「사는 건 괴롭고 힘들고, 몇 번이나 꺾일 것 같고 울 것 같고…… 가장 엄격하고 가혹한 싸움이지.」"
 
 [[dialogue]]
-speaker = "フラン"
+speaker_original = "フラン"
+speaker_translation = "프랑"
 original = "「グロリアはな。両親を亡くして、悲しくて、寂しくて、死にたいって想いと、生きなきゃいけないって想いと、その間でずっと戦ってんだよ」"
 translation = "「글로리아는 말이다. 부모님을 잃고 슬프고 외로워서 죽고 싶다는 생각과, 살아야만 한다는 생각 사이에서 줄곧 싸우고 있단 말이다.」"
 
 [[dialogue]]
-speaker = "パテル"
+speaker_original = "パテル"
+speaker_translation = "파텔"
 original = "「それでいいの？\u3000直視できるようになる前に、ホントに死んじゃうかもしれないよ？」"
 translation = "「그걸로 괜찮아? 직시할 수 있게 되기 전에 정말로 죽어버릴지도 모른다고?」"
 
 [[dialogue]]
-speaker = "フラン"
+speaker_original = "フラン"
+speaker_translation = "프랑"
 original = "「それまでオレが守る」"
 translation = "「그때까지 내가 지킨다.」"
 
 [[dialogue]]
-speaker = "フラン"
+speaker_original = "フラン"
+speaker_translation = "프랑"
 original = "「悩んで、迷って、苦しんで……そんなやつがいたら守ってやる。それが戦士だ！」"
 translation = "「고민하고, 헤매고, 괴로워하고…… 그런 녀석이 있다면 지켜주는 거다. 그게 전사니까!」"
 
 [[dialogue]]
-speaker = "パテル"
+speaker_original = "パテル"
+speaker_translation = "파텔"
 original = "「ハハ、かっこいいね。でもそんな話してる間に押し切られそうになってるんだけど！」"
 translation = "「하하, 멋지네. 하지만 그런 이야기 하는 사이에 밀려버릴 것 같은데!」"
 
 [[dialogue]]
-speaker = "フラン"
+speaker_original = "フラン"
+speaker_translation = "프랑"
 original = "「わかってるよ！\u3000こいつらいい加減うっとうしいな！」"
 translation = "「알고 있어! 이 녀석들 진짜 끈질기네!」"
 
 [[dialogue]]
-speaker = "フラン"
+speaker_original = "フラン"
+speaker_translation = "프랑"
 original = "「グロリアが手伝ってくれりゃあ一気に蹴散らせるんだが……どうする？」"
 translation = "「글로리아가 도와주면 단숨에 쓸어버릴 수 있는데…… 어떻게 할래?」"
 
 [[dialogue]]
-speaker = "グロリア"
+speaker_original = "グロリア"
+speaker_translation = "글로리아"
 original = "「──はい。フランさん、私の剣を！」"
 translation = "「──네. 프랑 씨, 제 검을!」"
 
 [[dialogue]]
-speaker = "フラン"
+speaker_original = "フラン"
+speaker_translation = "프랑"
 original = "「おお！！」"
 translation = "「오오!!」"
 
 [[dialogue]]
-speaker = "フラン"
+speaker_original = "フラン"
+speaker_translation = "프랑"
 original = "「こいつでまとめて──終わりだああぁあっ！！」"
 translation = "「이걸로 한꺼번에── 끝이다아아앗!!」"
 

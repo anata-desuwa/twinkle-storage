@@ -1,15 +1,18 @@
 [[dialogue]]
-speaker = "セーラ"
+speaker_original = "セーラ"
+speaker_translation = "세라"
 original = "「店内にあったカードデックはこれで全部だね」"
 translation = "「점내에 있던 카드 덱은 이걸로 전부네.」"
 
 [[dialogue]]
-speaker = "ユウリ"
+speaker_original = "ユウリ"
+speaker_translation = "유우리"
 original = "「見たところなんの変哲もない普通のカードっすけど……」"
 translation = "「보기에는 아무런 변함도 없는 평범한 카드지만요……」"
 
 [[dialogue]]
-speaker = "ユーリス"
+speaker_original = "ユーリス"
+speaker_translation = "유리스"
 original = "「状況から考えておそらく」"
 translation = "「상황으로 보아 아마도.」"
 
@@ -19,52 +22,62 @@ original = "でも確かめる方法がないな"
 translation = "하지만 확인할 방법이 없네"
 
 [[dialogue]]
-speaker = "セーラ"
+speaker_original = "セーラ"
+speaker_translation = "세라"
 original = "「水でもぶっかけてみる？」"
 translation = "「물이라도 끼얹어 볼까?」"
 
 [[dialogue]]
-speaker = "ユウリ"
+speaker_original = "ユウリ"
+speaker_translation = "유우리"
 original = "「いや、予想が外れてたら問題っすよ。カードが全部ビショビショになるのはちょっと」"
 translation = "「아니, 예상이 빗나가면 문제임. 카드가 전부 쫄딱 젖는 건 좀.」"
 
 [[dialogue]]
-speaker = "ユーリス"
+speaker_original = "ユーリス"
+speaker_translation = "유리스"
 original = "「擬態をとかせる方法、か。あの勇者スキルを使えばあるいは……」"
 translation = "「의태를 풀게 할 방법이라. 그 용사 스킬을 사용하면 어쩌면……」"
 
 [[dialogue]]
-speaker = "ユウリ"
+speaker_original = "ユウリ"
+speaker_translation = "유우리"
 original = "「何か考えがあんのか？」"
 translation = "「무슨 생각이라도 있는 거냐?」"
 
 [[dialogue]]
-speaker = "ユーリス"
+speaker_original = "ユーリス"
+speaker_translation = "유리스"
 original = "「うん。だけどひとつ問題がある。このスキルを十全に使うには、セーラさんとユウリさんの協力が必要なんだ」"
 translation = "「응. 하지만 한 가지 문제가 있어. 이 스킬을 온전히 사용하려면 세라 씨와 유우리 씨의 협력이 필요해.」"
 
 [[dialogue]]
-speaker = "セーラ"
+speaker_original = "セーラ"
+speaker_translation = "세라"
 original = "「協力？\u3000オッケーオッケー、うちに任せて♪」"
 translation = "「협력? 오케이 오케이, 나한테 맡겨♪」"
 
 [[dialogue]]
-speaker = "ユウリ"
+speaker_original = "ユウリ"
+speaker_translation = "유우리"
 original = "「……なんか猛烈に嫌な予感がしてきた」"
 translation = "「……왠지 맹렬하게 기분 나쁜 예감이 들어.」"
 
 [[dialogue]]
-speaker = "ユーリス"
+speaker_original = "ユーリス"
+speaker_translation = "유리스"
 original = "「えっとね──」"
 translation = "「저기 말이지──」"
 
 [[dialogue]]
-speaker = "ユーリス"
+speaker_original = "ユーリス"
+speaker_translation = "유리스"
 original = "「それじゃ行くよ！\u3000勇者スキル──『色仕掛け』！！」"
 translation = "「그럼 간다! 용사 스킬── 『미인계』!!」"
 
 [[dialogue]]
-speaker = "セーラ"
+speaker_original = "セーラ"
+speaker_translation = "세라"
 original = "「う・ち・と・イイコト、しよ<emoji=heart04>」"
 translation = "「나·랑·좋·은·일, 할래?<emoji=heart04>」"
 
@@ -74,27 +87,32 @@ original = "カードが動いた！"
 translation = "카드가 움직였다!"
 
 [[dialogue]]
-speaker = "ユーリス"
+speaker_original = "ユーリス"
+speaker_translation = "유리스"
 original = "「やっぱりカードに擬態していたんだ！\u3000この調子でみんなでスキルを使い続ければ正体をあらわすはずだよ！」"
 translation = "「역시 카드에 의태하고 있었던 거야! 이 기세로 다 같이 스킬을 계속 쓰면 정체를 드러낼 거야!」"
 
 [[dialogue]]
-speaker = "セーラ"
+speaker_original = "セーラ"
+speaker_translation = "세라"
 original = "「んならお次はユーリスくん、いやユリアーナちゃん！\u3000いっちゃって～！」"
 translation = "「그럼 다음은 유리스 군, 아니 유리아나 짱! 가보자고~!」"
 
 [[dialogue]]
-speaker = "ユーリス"
+speaker_original = "ユーリス"
+speaker_translation = "유리스"
 original = "「正直、自信はないけど……！」"
 translation = "「솔직히 자신은 없지만……!」"
 
 [[dialogue]]
-speaker = "ユーリス"
+speaker_original = "ユーリス"
+speaker_translation = "유리스"
 original = "「会長っ──んっ、ちゅっ……<emoji=heart04>」"
 translation = "「회장── 응, 쪽……<emoji=heart04>」"
 
 [[dialogue]]
-speaker = "セーラ"
+speaker_original = "セーラ"
+speaker_translation = "세라"
 original = "「おお……！\u3000投げキッスでめっちゃガタガタしとるっ」"
 translation = "「오오……! 손키스 한 번에 엄청 덜덜거리고 있어.」"
 
@@ -104,62 +122,74 @@ original = "よし、ユウリがトドメだ！"
 translation = "좋아, 유우리가 마무리다!"
 
 [[dialogue]]
-speaker = "ユウリ"
+speaker_original = "ユウリ"
+speaker_translation = "유우리"
 original = "「あ、あたしはしねえっ！\u3000絶対しねえっ！！\u3000つかなんだ勇者スキル『色仕掛け』って！？」"
 translation = "「나, 나는 안 함! 절대 안 함!! 그보다 뭐야 용사 스킬 『미인계』는!?」"
 
 [[dialogue]]
-speaker = "ユーリス"
+speaker_original = "ユーリス"
+speaker_translation = "유리스"
 original = "「何人も色香に惑わされている時は決して隠し事はできない。その昔、聖剣の使い手はこのスキルを以て、自らに近づく敵国の女性を逆に籠絡して──」"
 translation = "「수많은 사람이 미색에 현혹되어 있을 때는 결코 비밀을 숨길 수 없지. 옛날에 성검의 사용자는 이 스킬을 통해 자신에게 접근하는 적국의 여성을 역으로 포섭하여──」"
 
 [[dialogue]]
-speaker = "ユウリ"
+speaker_original = "ユウリ"
+speaker_translation = "유우리"
 original = "「解説を求めてるわけじゃねえよ！？\u3000そもそもなんでモンスターに色仕掛けなんて効くんだよ！？」"
 translation = "「해설을 해달라는 게 아니라고!? 애초에 왜 몬스터한테 미인계 같은 게 통하는 거냐고!?」"
 
 [[dialogue]]
-speaker = "ユーリス"
+speaker_original = "ユーリス"
+speaker_translation = "유리스"
 original = "「『早着替え』と同じように、スキルにまで昇華された技は単なる『色仕掛け』に留まらない力を持つ。つまり一種の星術になっているんだ」"
 translation = "「『옷 갈아입히기』와 마찬가지로 스킬로 승화된 기술은 단순한 『미인계』에 머물지 않는 힘을 가져요. 즉 일종의 성술이 되어 있는 거죠.」"
 
 [[dialogue]]
-speaker = "ユウリ"
+speaker_original = "ユウリ"
+speaker_translation = "유우리"
 original = "「ほんとにどうなってんだよその聖剣は！？」"
 translation = "「진짜 어떻게 된 거냐고 그 성검은!?」"
 
 [[dialogue]]
-speaker = "セーラ"
+speaker_original = "セーラ"
+speaker_translation = "세라"
 original = "「いいからやりなって。モンスターの正体を暴くためじゃーん。何が減るわけでもないんだからさ？」"
 translation = "「됐으니까 해보라니까. 몬스터 정체를 밝히기 위해서잖아. 뭐가 닳는 것도 아닌데 말이야?」"
 
 [[dialogue]]
-speaker = "ユウリ"
+speaker_original = "ユウリ"
+speaker_translation = "유우리"
 original = "「うぐぐ……ぐ……そういう問題じゃあ……」"
 translation = "「으으으…… 윽…… 그런 문제가 아니라……」"
 
 [[dialogue]]
-speaker = "ユーリス"
+speaker_original = "ユーリス"
+speaker_translation = "유리스"
 original = "「ちなみにこの『色仕掛け』を伝えたのは『早着替え』を伝えた王子と同一人物だよ。彼の時代は長いジルラント史の中でも特に策謀行き交う波乱の時世だったらしくて──」"
 translation = "「참고로 이 『미인계』를 전수한 건 『옷 갈아입히기』를 전수한 왕자와 동일 인물이야. 그의 시대는 긴 질란트 역사 중에서도 특히 책략이 오가는 파란만장한 시세였다고 해서──」"
 
 [[dialogue]]
-speaker = "ユウリ"
+speaker_original = "ユウリ"
+speaker_translation = "유우리"
 original = "「それもどうでもいいっつの！！」"
 translation = "「그것도 아무래도 좋다고!!」"
 
 [[dialogue]]
-speaker = "セーラ"
+speaker_original = "セーラ"
+speaker_translation = "세라"
 original = "「恥ずかしがらずに恥ずかしがらずに。自分が思うかわいいポーズなりセリフなり言えばいいだけじゃーん」"
 translation = "「부끄러워하지 말고, 부끄러워하지 말고. 자기가 생각하는 귀여운 포즈나 대사 같은 걸 하면 되는 거잖아.」"
 
 [[dialogue]]
-speaker = "ユウリ"
+speaker_original = "ユウリ"
+speaker_translation = "유우리"
 original = "「か、かわいいポーズとかセリフとか言われても……！\u3000つか会長さんもやってねえし……！」"
 translation = "「귀, 귀여운 포즈나 대사라니……! 그보다 회장님도 안 하고 있고……!」"
 
 [[dialogue]]
-speaker = "セーラ"
+speaker_original = "セーラ"
+speaker_translation = "세라"
 original = "「や。会長さんの色仕掛けに需要ないっしょ」"
 translation = "「야. 회장님 미인계는 수요 없잖아.」"
 
@@ -169,37 +199,44 @@ original = "必要とあらば……脱ぎましょうか？"
 translation = "필요하다면…… 벗을까요?"
 
 [[dialogue]]
-speaker = "ユウリ"
+speaker_original = "ユウリ"
+speaker_translation = "유우리"
 original = "「脱ぐな脱ぐな脱ぐな！！\u3000イかれてんのか！？\u3000せめて脱ぐなら上から脱ごうとしろや！？」"
 translation = "「벗지 마 벗지 마 벗지 마!! 미친 거냐!? 적어도 벗을 거면 위에서부터 벗으려고 하라고!?」"
 
 [[dialogue]]
-speaker = "ユーリス"
+speaker_original = "ユーリス"
+speaker_translation = "유리스"
 original = "「ユウリさん……！\u3000モンスターを倒すためにも、君の助力がどうしても必要なんだ……！」"
 translation = "「유우리 씨……! 몬스터를 쓰러뜨리기 위해서도 당신의 조력이 꼭 필요해요……!」"
 
 [[dialogue]]
-speaker = "セーラ"
+speaker_original = "セーラ"
+speaker_translation = "세라"
 original = "「ユウリちゃん……！\u3000星騎士の誇りを思い出して……！」"
 translation = "「유우리 짱……! 성기사의 긍지를 떠올려……!」"
 
 [[dialogue]]
-speaker = "ユウリ"
+speaker_original = "ユウリ"
+speaker_translation = "유우리"
 original = "「～～っっ！\u3000く、くそがっ……！\u3000やりゃあいいんだろ、やりゃあ！！」"
 translation = "「~~!! 크, 젠장……! 하면 되잖아, 하면!!」"
 
 [[dialogue]]
-speaker = "ユウリ"
+speaker_original = "ユウリ"
+speaker_translation = "유우리"
 original = "「あ……あたしと……」"
 translation = "「나…… 나랑……」"
 
 [[dialogue]]
-speaker = "ユーリス・セーラ"
+speaker_original = "ユーリス・セーラ"
+speaker_translation = "유리스 세라"
 original = "「あたしと？」"
 translation = "「나랑?」"
 
 [[dialogue]]
-speaker = "ユウリ"
+speaker_original = "ユウリ"
+speaker_translation = "유우리"
 original = "「あたしと──ウサちゃんダンス、踊ろうピョンっ♪」"
 translation = "「나랑── 토끼 댄스, 추자 뿅♪」"
 
@@ -209,42 +246,50 @@ original = "正体をあらわしたぞ！"
 translation = "정체를 드러냈다!"
 
 [[dialogue]]
-speaker = "セーラ"
+speaker_original = "セーラ"
+speaker_translation = "세라"
 original = "「おおー……ホントにあらわれるとは。ユウリちゃんのウサちゃんダンスがよっぽど気に入ったっぽいピョン？」"
 translation = "「오오~…… 정말로 나타날 줄이야. 유우리 짱의 토끼 댄스가 꽤나 마음에 든 모양인데 뿅?」"
 
 [[dialogue]]
-speaker = "ユーリス"
+speaker_original = "ユーリス"
+speaker_translation = "유리스"
 original = "「とても可愛らしかったからね。あまりの魅力に私の心もピョンピョン飛び跳ねそうだったよ」"
 translation = "「정말 사랑스러웠으니까요. 너무나도 매력적이라 내 마음도 뿅뿅 튀어 오를 것 같았어.」"
 
 [[dialogue]]
-speaker = "ユウリ"
+speaker_original = "ユウリ"
+speaker_translation = "유우리"
 original = "「言うな……！\u3000みんなしてピョンピョン言うなぁ……！！」"
 translation = "「말하지 마……! 다들 뿅뿅거리지 말라고……!!」"
 
 [[dialogue]]
-speaker = "セーラ"
+speaker_original = "セーラ"
+speaker_translation = "세라"
 original = "「うわっと！\u3000めっちゃ興奮してんじゃん！\u3000こりゃガチでいかないとヤバそうだね～」"
 translation = "「우왓! 엄청 흥분했잖아! 이건 진짜로 안 가면 위험하겠는데~」"
 
 [[dialogue]]
-speaker = "ユーリス"
+speaker_original = "ユーリス"
+speaker_translation = "유리스"
 original = "「ならショーダウンといこうか。今更フォールドは受け付けないよ」"
 translation = "「그럼 쇼다운으로 가볼까. 이제 와서 폴드는 안 받아줘.」"
 
 [[dialogue]]
-speaker = "ユウリ"
+speaker_original = "ユウリ"
+speaker_translation = "유우리"
 original = "「元はと言や、全部このモンスターのせいじゃねえか……。こんな恥ずかしい格好させられたのも、あんな恥ずかしい真似させられたのも……」"
 translation = "「원래 따지고 보면 전부 이 몬스터 탓이잖아……. 이런 부끄러운 복장을 하게 된 것도, 그런 부끄러운 짓을 하게 된 것도……」"
 
 [[dialogue]]
-speaker = "ユウリ"
+speaker_original = "ユウリ"
+speaker_translation = "유우리"
 original = "「絶対に許さねえ……！\u3000一枚残らずズタズタに引き裂いて、細切れにして、焼却処分してやるっ……！！」"
 translation = "「절대 용서 못 해……! 한 장도 남김없이 갈가리 찢어서, 조각조각 내서, 소각 처분해주마……!!」"
 
 [[dialogue]]
-speaker = "ユウリ"
+speaker_original = "ユウリ"
+speaker_translation = "유우리"
 original = "「あと早着替えと色仕掛けなんてアホスキルを伝えた王子もぶっ殺すっ！！」"
 translation = "「그리고 옷 갈아입히기랑 미인계 같은 바보 스킬을 전수한 왕자도 죽여버릴 거야!!」"
 
@@ -254,7 +299,8 @@ original = "行くぞ、みんな！"
 translation = "간다, 모두!"
 
 [[dialogue]]
-speaker = "セーラ"
+speaker_original = "セーラ"
+speaker_translation = "세라"
 original = "「うん！\u3000星徒会＆王子チームの力、今度こそ見せてあげちゃうよ！」"
 translation = "「응! 성도회 & 왕자 팀의 힘, 이번에야말로 보여주겠어!」"
 

@@ -4,132 +4,158 @@ original = "第３話,フィオナの素顔？,P"
 translation = "제3화, 피오나의 본모습?"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「ふぅ……雨が弱くなったうちになんとか帰ってこられた……」"
 translation = "「후우…… 비가 약해졌을 때 어떻게든 돌아올 수 있었네……」"
 
 [[dialogue]]
-speaker = "ニャリオン"
+speaker_original = "ニャリオン"
+speaker_translation = "냐리온"
 original = "「お帰りニャ～。どこ行ってたニャン？」"
 translation = "「어서 오라냥~. 어디 갔다 왔냐냥?」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「フッフッフ……最近運動不足のニャリオンのために……」"
 translation = "「훗훗훗…… 최근 운동 부족인 냐리온을 위해서……」"
 
 [[dialogue]]
-speaker = "ニャリオン"
+speaker_original = "ニャリオン"
+speaker_translation = "냐리온"
 original = "「ニャニ！？\u3000ワガハイ運動不足じゃないニャン！\u3000ぷりちーボディは健在ニャ！」"
 translation = "「냐니!? 나 운동 부족이 아니라냥! 프리티 바디는 건재하다냥!」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「じゃ～ん、ネズミのおもちゃにゃー♪」"
 translation = "「짠, 쥐 장난감이다냥~♪」"
 
 [[dialogue]]
-speaker = "ニャリオン"
+speaker_original = "ニャリオン"
+speaker_translation = "냐리온"
 original = "「ニャン！？」"
 translation = "「냐앙!?」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「ほら、気になるでしょ？\u3000ふりふり、ふりふり」"
 translation = "「자, 신경 쓰이지? 흔들흔들, 흔들흔들」"
 
 [[dialogue]]
-speaker = "ニャリオン"
+speaker_original = "ニャリオン"
+speaker_translation = "냐리온"
 original = "「ほ、誇り高き使い魔のワガハイがネズミのおもちゃに心動かされるわけないニャ」"
 translation = "「호, 긍지 높은 사역마인 나 님이 쥐 장난감에 마음이 움직일 리 없다냥」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「ほんとに？」"
 translation = "「정말?」"
 
 [[dialogue]]
-speaker = "ニャリオン"
+speaker_original = "ニャリオン"
+speaker_translation = "냐리온"
 original = "「ほんとニャンッ」"
 translation = "「정말이다냥!」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「ふ～ん……ふりふり、ふりふり……ふ～りふ～り」"
 translation = "「흐음…… 흔들흔들, 흔들흔들…… 흔~들~흔~들」"
 
 [[dialogue]]
-speaker = "ニャリオン"
+speaker_original = "ニャリオン"
+speaker_translation = "냐리온"
 original = "「ンニャニャ……」"
 translation = "「응냐냐……」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「ふりふりふりふりふり～♪」"
 translation = "「흔들흔들흔들흔들흔들~♪」"
 
 [[dialogue]]
-speaker = "ニャリオン"
+speaker_original = "ニャリオン"
+speaker_translation = "냐리온"
 original = "「フシャーッ！」"
 translation = "「퓨샤앗!」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「ほーら、まるまる太ったネズミだよ～、おいしそうなネズミだよ～♪」"
 translation = "「호~라, 통통하게 살찐 쥐다~, 맛있어 보이는 쥐다~♪」"
 
 [[dialogue]]
-speaker = "ニャリオン"
+speaker_original = "ニャリオン"
+speaker_translation = "냐리온"
 original = "「ネズミッ、ネズミッ、フーッ、フーッ！\u3000フシャーッ！」"
 translation = "「쥐잇, 쥐잇, 후웃, 후웃! 퓨샤앗!」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「ふふっ、すっごく楽しそうにゃ。ふりふり～」"
 translation = "「후훗, 엄청 즐거워 보인다냥. 흔들흔들~」"
 
 [[dialogue]]
-speaker = "ニャリオン"
+speaker_original = "ニャリオン"
+speaker_translation = "냐리온"
 original = "「ニャッ、ンニャニャニャッ、ンニャッ、ニャン♪」"
 translation = "「냐앗, 응냐냐냐앗, 응냐앗, 냐앙♪」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「ふりふりふりふり～♪\u3000最高速ふりふり～♪」"
 translation = "「흔들흔들흔들흔들~♪ 최고 속도 흔들흔들~♪」"
 
 [[dialogue]]
-speaker = "ニャリオン"
+speaker_original = "ニャリオン"
+speaker_translation = "냐리온"
 original = "「ニャニャニャニャニャニャニャッ！！」"
 translation = "「냐냐냐냐냐냐냐앗!!」"
 
 [[dialogue]]
-speaker = "ニャリオン"
+speaker_original = "ニャリオン"
+speaker_translation = "냐리온"
 original = "「ニャッ」"
 translation = "「냐앗」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「ふりふり～、ふりふり～♪」"
 translation = "「흔들흔들~, 흔들흔들~♪」"
 
 [[dialogue]]
-speaker = "ニャリオン"
+speaker_original = "ニャリオン"
+speaker_translation = "냐리온"
 original = "「あの～……フィオナ嬢？」"
 translation = "「저~…… 피오나 양?」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「急に止まってどうしたにゃ～？」"
 translation = "「갑자기 멈춰서 왜 그러냐~?」"
 
 [[dialogue]]
-speaker = "ニャリオン"
+speaker_original = "ニャリオン"
+speaker_translation = "냐리온"
 original = "「後ろ、後ろ」"
 translation = "「뒤, 뒤」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「え？」"
 translation = "「에?」"
 
@@ -139,32 +165,38 @@ original = "……こんばんは"
 translation = "……안녕하세요"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「きゃああぁ～～～～っ！？\u3000どど、どうして緋宮会長が！？\u3000いつからそこに！？」"
 translation = "「꺄아아아아~~~~앗!? 어, 어째서 히노미야 회장이!? 언제부터 거기에!?」"
 
 [[dialogue]]
-speaker = "キリカ"
+speaker_original = "キリカ"
+speaker_translation = "키리카"
 original = "「先刻、緋宮さまが屋敷のお近くにおられたのですが、ずぶ濡れでしたのでお風呂に入っていただきました」"
 translation = "「아까, 히노미야 님께서 저택 근처에 계셨는데, 흠뻑 젖으셔서 목욕을 시켜드렸습니다」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「あ……そうなの……」"
 translation = "「아…… 그렇구나……」"
 
 [[dialogue]]
-speaker = "キリカ"
+speaker_original = "キリカ"
+speaker_translation = "키리카"
 original = "「申し訳ありません、お嬢様。緋宮さまを屋敷に上げた私の責任です」"
 translation = "「죄송합니다, 아가씨. 히노미야 님을 저택에 들인 제 책임입니다」"
 
 [[dialogue]]
-speaker = "キリカ"
+speaker_original = "キリカ"
+speaker_translation = "키리카"
 original = "「ですので責任を持って、この拳で記憶を消し飛ばします」"
 translation = "「그러니 책임지고, 이 주먹으로 기억을 날려버리겠습니다」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「それはダメ！？」"
 translation = "「그건 안 돼!?」"
 
@@ -174,27 +206,32 @@ original = "さっきのフィオナ、すごくかわいかった"
 translation = "방금 피오나, 엄청 귀여웠어"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「かわっ！？」"
 translation = "「귀여웠다니!?」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「私はにゃ～とか言ってませんから！\u3000気のせいですから！\u3000忘れてくださ～いっ！」"
 translation = "「저는 냐~ 같은 소리 안 했으니까요! 착각이니까요! 잊어주세요~!」"
 
 [[dialogue]]
-speaker = "ニャリオン"
+speaker_original = "ニャリオン"
+speaker_translation = "냐리온"
 original = "「フィオナ嬢があんなにムキになって……なんだか恥ずかしい空気になってきた気がするニャン」"
 translation = "「피오나 양이 저렇게 발끈하다니…… 왠지 부끄러운 분위기가 된 것 같다냥」"
 
 [[dialogue]]
-speaker = "キリカ"
+speaker_original = "キリカ"
+speaker_translation = "키리카"
 original = "「ですね。しかしフィオナ様に狼藉をはたらくなら容赦は致しません」"
 translation = "「그러게요. 하지만 피오나 님께 난폭한 짓을 한다면 용서하지 않겠습니다」"
 
 [[dialogue]]
-speaker = "ニャリオン"
+speaker_original = "ニャリオン"
+speaker_translation = "냐리온"
 original = "「とっと帰るニャ！\u3000この魔王モドキ！」"
 translation = "「빨리 돌아가라냥! 이 마왕 짝퉁아!」"
 
@@ -204,37 +241,44 @@ original = "その前に渡したいものが……"
 translation = "그전에 전해줄 게……"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「！\u3000そのぬいぐるみはどこで……？」"
 translation = "「! 그 인형은 어디서……?」"
 
 [[dialogue]]
-speaker = "ニャリオン"
+speaker_original = "ニャリオン"
+speaker_translation = "냐리온"
 original = "「ニャニャ！？\u3000ゲテモ……コホン、フィオナ嬢好みの代物ニャン……」"
 translation = "「냐냐!? 괴상…… 커흠, 피오나 양 취향의 물건이로군……」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「これをわざわざ私のために……？\u3000ありがとうございます。ニャリオンと一緒でかわいいです」"
 translation = "「이것을 일부러 저를 위해서……? 고맙습니다. 냐리온과 같이 귀엽네요」"
 
 [[dialogue]]
-speaker = "ニャリオン"
+speaker_original = "ニャリオン"
+speaker_translation = "냐리온"
 original = "「ワガハイ、自分のぷりちーさに自信がなくなってきたニャン……」"
 translation = "「나, 자신의 프리티함에 자신이 없어졌다냥……」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「ニャリオンはとってもかわいいよ？\u3000大丈夫、自信持って」"
 translation = "「냐리온은 정말 귀여워요? 괜찮아요, 자신감을 가져요」"
 
 [[dialogue]]
-speaker = "ニャリオン"
+speaker_original = "ニャリオン"
+speaker_translation = "냐리온"
 original = "「うぅ、フィオナ嬢にそう言われると余計に不安ニャ……」"
 translation = "「으윽, 피오나 양에게 그렇게 들으니 더욱 불안하다냐……」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「あ、でも、私がこういうものが好きということも、みんなには秘密でお願いします」"
 translation = "「아, 하지만, 제가 이런 것을 좋아한다는 것도, 모두에게는 비밀로 부탁드려요」"
 
@@ -244,7 +288,8 @@ original = "もちろん"
 translation = "물론이지"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「ありがとうございます。じゃあ……またお会いしましょう」"
 translation = "「고맙습니다. 그럼…… 또 만나요」"
 

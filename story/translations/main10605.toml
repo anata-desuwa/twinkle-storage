@@ -9,202 +9,242 @@ original = "一方──"
 translation = "한편──"
 
 [[dialogue]]
-speaker = "セドナ"
+speaker_original = "セドナ"
+speaker_translation = "세드나"
 original = "「──何？\u3000姫様がいない！？」"
 translation = "「──뭐라고? 공주님이 없다고!?」"
 
 [[dialogue]]
-speaker = "アイリーン"
+speaker_original = "アイリーン"
+speaker_translation = "아이린"
 original = "「は、はい……さっき外にかっ飛んでっちゃいました」"
 translation = "「네, 네…… 아까 밖으로 쌩하고 날아가 버리셨어요.」"
 
 [[dialogue]]
-speaker = "セドナ"
+speaker_original = "セドナ"
+speaker_translation = "세드나"
 original = "「なんということだ……部屋がもぬけの殻だと思ったら」"
 translation = "「이럴 수가…… 방이 텅 비어있다 했더니.」"
 
 [[dialogue]]
-speaker = "ウェンディ"
+speaker_original = "ウェンディ"
+speaker_translation = "웬디"
 original = "「そういえばさっき、ツェツィーリエがクラウディア様の部屋を訪ねていたような──」"
 translation = "「그러고 보니 아까 체칠리에가 클라우디아 님의 방을 찾아갔던 것 같은──」"
 
 [[dialogue]]
-speaker = "アイリーン"
+speaker_original = "アイリーン"
+speaker_translation = "아이린"
 original = "「それが、ツェツィも一緒に飛び出して……」"
 translation = "「그게, 체치도 같이 뛰쳐나가서……」"
 
 [[dialogue]]
-speaker = "ウェンディ"
+speaker_original = "ウェンディ"
+speaker_translation = "웬디"
 original = "「あ……あの女！\u3000クラウディア様を止めるべき立場でしょうに！\u3000本当にろくなことをしやがりませんね！」"
 translation = "「아…… 그 여자! 클라우디아 님을 말려야 할 입장인데! 정말이지 제대로 된 짓을 안 하는군요!」"
 
 [[dialogue]]
-speaker = "セドナ"
+speaker_original = "セドナ"
+speaker_translation = "세드나"
 original = "「最近、姫様にかまってやれる時間も少なかったからな──すねてしまったのかもしれん」"
 translation = "「최근 공주님을 돌봐줄 시간도 적었으니까── 삐쳐버린 걸지도 모르겠군」"
 
 [[dialogue]]
-speaker = "アイリーン"
+speaker_original = "アイリーン"
+speaker_translation = "아이린"
 original = "「ごめんなさい、私が止めるべきでした……！」"
 translation = "「죄송해요, 제가 말렸어야 했는데……!」"
 
 [[dialogue]]
-speaker = "セドナ"
+speaker_original = "セドナ"
+speaker_translation = "세드나"
 original = "「姫様の衝動は止めようがないし、我々の監督不行き届きと言えよう」"
 translation = "「공주님의 충동은 막을 방법이 없고, 우리들의 감독 소홀이라 할 수 있겠지」"
 
 [[dialogue]]
-speaker = "セドナ"
+speaker_original = "セドナ"
+speaker_translation = "세드나"
 original = "「ところでなんだ、その湯たんぽは」"
 translation = "「그건 그렇고 뭐냐, 그 유탄포는」"
 
 [[dialogue]]
-speaker = "アイリーン"
+speaker_original = "アイリーン"
+speaker_translation = "아이린"
 original = "「えーと……これは、クラウディア様がくれました。プレゼントにって」"
 translation = "「저기…… 이건 클라우디아 님이 주셨어요. 선물이라면서」"
 
 [[dialogue]]
-speaker = "アイリーン"
+speaker_original = "アイリーン"
+speaker_translation = "아이린"
 original = "「なんでもサンタより早くプレゼントを配ることで、サンタを用なしにしてやるとかなんとか……」"
 translation = "「뭐라더라, 산타보다 빨리 선물을 나눠줘서 산타를 쓸모없게 만들겠다나 뭐라나……」"
 
 [[dialogue]]
-speaker = "セドナ"
+speaker_original = "セドナ"
+speaker_translation = "세드나"
 original = "「さっぱり意味がわからないが……ともかくそんな調子で外に出られてはきっとろくなことをするまい。行くぞ、ウェンディ！」"
 translation = "「전혀 의미를 모르겠다만…… 아무튼 그런 상태로 밖에 나갔다간 분명 제대로 된 짓을 하지 않겠지. 가자, 웨디!」"
 
 [[dialogue]]
-speaker = "ウェンディ"
+speaker_original = "ウェンディ"
+speaker_translation = "웬디"
 original = "「はい。ツェツィーリエも捕まえないと──追いかけましょう！」"
 translation = "「네. 체칠리에 씨도 잡아야 하니까── 뒤쫓아가죠!」"
 
 [[dialogue]]
-speaker = "クラウディア"
+speaker_original = "クラウディア"
+speaker_translation = "클라우디아"
 original = "「ほほ～、こんなところがあったのか」"
 translation = "「호호~, 이런 곳이 있었단 말이냐」"
 
 [[dialogue]]
-speaker = "ツェツィーリエ"
+speaker_original = "ツェツィーリエ"
+speaker_translation = "체칠리에"
 original = "「ここには悲喜こもごも、人間たちの欲望が渦巻いてるから、プレゼントをあげるにはぴったりの場所じゃないかな？」"
 translation = "「여기에는 비희교교, 인간들의 욕망이 소용돌이치고 있으니까 선물을 주기엔 딱 좋은 장소 아닐까?」"
 
 [[dialogue]]
-speaker = "クラウディア"
+speaker_original = "クラウディア"
+speaker_translation = "클라우디아"
 original = "「なるほど！\u3000いい場所に連れてきてくれて感謝するぞ」"
 translation = "「과연! 좋은 곳으로 데려다주어 감사하마」"
 
 [[dialogue]]
-speaker = "クラウディア"
+speaker_original = "クラウディア"
+speaker_translation = "클라우디아"
 original = "「む？\u3000そこのお主、何やら沈んだ顔つきをしておるな」"
 translation = "「음? 거기 네놈, 어쩐지 침울한 낯빛을 하고 있구나」"
 
 [[dialogue]]
-speaker = "クラウディア"
+speaker_original = "クラウディア"
+speaker_translation = "클라우디아"
 original = "「そんなことではいかんぞ。何か欲しいものはあるか？\u3000ほう、バカラで全額スッてしまったからコインが欲しい──と」"
 translation = "「그래서야 안 되느니라. 뭔가 갖고 싶은 것이 있느냐? 호오, 바카라로 전액 탕진해서 코인을 원한다──고」"
 
 [[dialogue]]
-speaker = "クラウディア"
+speaker_original = "クラウディア"
+speaker_translation = "클라우디아"
 original = "「余に任せるがよい！\u3000サンタなどより早く、お主にプレゼントを贈呈してみせよう！」"
 translation = "「짐에게 맡기도록 하라! 산타 따위보다 빠르게 네놈에게 선물을 증정해 주겠노라!」"
 
 [[dialogue]]
-speaker = "クラウディア"
+speaker_original = "クラウディア"
+speaker_translation = "클라우디아"
 original = "「はっはっはっ、余にかかればこんなものだ。礼などよい」"
 translation = "「핫핫핫, 짐에게 걸리면 이 정도니라. 사례는 됐도다」"
 
 [[dialogue]]
-speaker = "クラウディア"
+speaker_original = "クラウディア"
+speaker_translation = "클라우디아"
 original = "「全額は難しかったが、１／３くらいは戻ってきたのではないか？」"
 translation = "「전액은 어려웠지만, 1/3 정도는 돌아오지 않았느냐?」"
 
 [[dialogue]]
-speaker = "クラウディア"
+speaker_original = "クラウディア"
+speaker_translation = "클라우디아"
 original = "「よいことをすると気分がよいぞ。そこのお主はどうだ？\u3000欲しいものは？\u3000ほう、コインとな。余に任せるがよい！」"
 translation = "「좋은 일을 하니 기분이 좋구나. 거기 네놈은 어떠냐? 갖고 싶은 것은? 호오, 코인이라. 짐에게 맡기도록 하라!」"
 
 [[dialogue]]
-speaker = "クラウディア"
+speaker_original = "クラウディア"
+speaker_translation = "클라우디아"
 original = "「はっはっは、余にかかればサンタなど目ではない！\u3000いくらでもプレゼントを恵んでくれようぞ」"
 translation = "「핫핫하, 짐에게 걸리면 산타 따위는 안중에도 없도다! 얼마든지 선물을 베풀어 주마」"
 
 [[dialogue]]
-speaker = "ツェツィーリエ"
+speaker_original = "ツェツィーリエ"
+speaker_translation = "체칠리에"
 original = "「絶好調だねえ、クラウディア様」"
 translation = "「절정인데, 클라우디아 님」"
 
 [[dialogue]]
-speaker = "クラウディア"
+speaker_original = "クラウディア"
+speaker_translation = "클라우디아"
 original = "「うむ。これもお主のベルのおかげだ！\u3000褒めてつかわす！」"
 translation = "「음. 이것도 네놈의 벨 덕분이로다! 치하하마!」"
 
 [[dialogue]]
-speaker = "ツェツィーリエ"
+speaker_original = "ツェツィーリエ"
+speaker_translation = "체칠리에"
 original = "「いえいえ、それほどでも～」"
 translation = "「아니야, 그 정도까지는~」"
 
 [[dialogue]]
-speaker = "ツェツィーリエ"
+speaker_original = "ツェツィーリエ"
+speaker_translation = "체칠리에"
 original = "（いやあ、クラウディア様がいっぱいホーリー・ベルを使ってくれるおかげで、たくさんデータが取れるなあ……）"
 translation = "（이야, 클라우디아 님이 홀리 벨을 잔뜩 써주시는 덕분에 데이터를 많이 뽑을 수 있겠어……）"
 
 [[dialogue]]
-speaker = "クラウディア"
+speaker_original = "クラウディア"
+speaker_translation = "클라우디아"
 original = "「それに……見よ！\u3000皆が余に感謝するではないか！」"
 translation = "「게다가…… 보아라! 모두가 짐에게 감사하지 않느냐!」"
 
 [[dialogue]]
-speaker = "クラウディア"
+speaker_original = "クラウディア"
+speaker_translation = "클라우디아"
 original = "「１２月２５日は余、クラウディアの誕生日！\u3000皆の衆、もう覚えたな？\u3000覚えたなら、決して忘れるでない」"
 translation = "「12월 25일은 짐, 클라우디아의 생일! 네놈들, 이제 외웠느냐? 외웠다면 결코 잊지 말지어다」"
 
 [[dialogue]]
-speaker = "クラウディア"
+speaker_original = "クラウディア"
+speaker_translation = "클라우디아"
 original = "「はっはっは、実に気分がよい！\u3000この調子でどんどんプレゼントを配るのだ。さあ、次の場所へ向かうぞ～！」"
 translation = "「핫핫하, 실로 기분이 좋구나! 이 기세로 팍팍 선물을 뿌리는 것이니라. 자, 다음 장소로 향하자~!」"
 
 [[dialogue]]
-speaker = "ツェツィーリエ"
+speaker_original = "ツェツィーリエ"
+speaker_translation = "체칠리에"
 original = "「あいあいさーっ」"
 translation = "「아이아이사~」"
 
 [[dialogue]]
-speaker = "ヘレナ"
+speaker_original = "ヘレナ"
+speaker_translation = "헬레나"
 original = "「先程から我がカジノでコインをばらまいているという輩は誰だ？」"
 translation = "「아까부터 우리 카지노에서 코인을 뿌리고 다닌다는 무리는 누구냐?」"
 
 [[dialogue]]
-speaker = "ヘレナ"
+speaker_original = "ヘレナ"
+speaker_translation = "헬레나"
 original = "「こんなことをされては経営が成り立たなくなってしまうではないか……即座に没収せよ！」"
 translation = "「이런 짓을 당해서야 경영이 성립되지 않지 않느냐…… 즉시 몰수하라!」"
 
 [[dialogue]]
-speaker = "セドナ"
+speaker_original = "セドナ"
+speaker_translation = "세드나"
 original = "「姫様はどこに──！」"
 translation = "「공주님은 어디에──!」"
 
 [[dialogue]]
-speaker = "ウェンディ"
+speaker_original = "ウェンディ"
+speaker_translation = "웬디"
 original = "「このカジノに来たという情報が──あっ、もういない。遅かったかもしれません……！」"
 translation = "「이 카지노에 왔다는 정보가── 앗, 벌써 없어요. 늦었을지도 모르겠네요……!」"
 
 [[dialogue]]
-speaker = "ヘレナ"
+speaker_original = "ヘレナ"
+speaker_translation = "헬레나"
 original = "「む？\u3000セドナ殿にウェンディ殿──先ほど、貴殿らの姫君がカジノ荒らしにきていたぞ！」"
 translation = "「음? 세드나 공에 웨디 공── 방금 귀공들의 공주님이 카지노를 털러 왔었느니라!」"
 
 [[dialogue]]
-speaker = "ウェンディ"
+speaker_original = "ウェンディ"
+speaker_translation = "웬디"
 original = "「う──そ、それは申し訳ありません。増えたコイン分はお支払いしますので……」"
 translation = "「으── 그, 그건 정말 죄송합니다. 늘어난 코인만큼은 지불할 테니……」"
 
 [[dialogue]]
-speaker = "セドナ"
+speaker_original = "セドナ"
+speaker_translation = "세드나"
 original = "「姫様……はあ。なんと<ruby>奔放<rt>ほんぽう</rt></ruby>にやってくれるものだ」"
 translation = "「공주님…… 하아. 어찌나 분방하게 저질러 주시는지」"
 
 [[dialogue]]
-speaker = "ウェンディ"
+speaker_original = "ウェンディ"
+speaker_translation = "웬디"
 original = "「うう、これでネビュラの資金繰りがまた悪化するぅ～……！」"
 translation = "「으으, 이걸로 네뷸라의 자금 사정이 또 악화돼요~……!」"
 

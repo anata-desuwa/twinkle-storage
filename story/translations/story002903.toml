@@ -1,5 +1,6 @@
 [[dialogue]]
-speaker = "美鶴"
+speaker_original = "美鶴"
+speaker_translation = "미츠루"
 original = "「着てみたけどさ。会長さん、ど？」"
 translation = "「입어봤는데 말이지. 회장군, 어때?」"
 
@@ -14,157 +15,188 @@ original = "かわいいよ"
 translation = "귀여워"
 
 [[dialogue]]
-speaker = "美鶴"
+speaker_original = "美鶴"
+speaker_translation = "미츠루"
 original = "「ふぇ。おかしいとこないか聞いてみたつもりなんだけど……ありがと」"
 translation = "「훼. 이상한 데 없나 물어본 건데…… 고마워」"
 
 [[dialogue]]
-speaker = "美鶴"
+speaker_original = "美鶴"
+speaker_translation = "미츠루"
 original = "「ま、別に変なとこはなさそうだよね」"
 translation = "「뭐, 딱히 이상한 곳은 없어 보이네」"
 
 [[dialogue]]
-speaker = "美鶴"
+speaker_original = "美鶴"
+speaker_translation = "미츠루"
 original = "「じゃ、このモヤりはなんなんだろ。どうすれば晴れんのかな……」"
 translation = "「그럼 이 찜찜함은 뭘까. 어떻게 해야 풀릴까……」"
 
 [[dialogue]]
-speaker = "フラン"
+speaker_original = "フラン"
+speaker_translation = "프랑"
 original = "「おっ、美鶴！\u3000その衣装は、うちのチア衣装だな！\u3000チアガールに参加してくれるのか！？」"
 translation = "「옷, 미츠루! 그 의상은 우리 치어 의상이잖아! 치어걸에 참가해 주는 건가!?」"
 
 [[dialogue]]
-speaker = "美鶴"
+speaker_original = "美鶴"
+speaker_translation = "미츠루"
 original = "「やらんし。てか、さっきまでアリーナで練習してたじゃん。どこから出てきたの」"
 translation = "「안 할 거거든. 그보다, 아까까지 아레나에서 연습하고 있었잖아. 어디서 튀어나온 거야」"
 
 [[dialogue]]
-speaker = "フラン"
+speaker_original = "フラン"
+speaker_translation = "프랑"
 original = "「この教室からとてつもないチア・オーラを感じたからな！\u3000来てみれば案の定、チアガールがいたってわけだ」"
 translation = "「이 교실에서 엄청난 치어 오라를 느꼈기 때문이다! 와보니 아니나 다를까, 치어걸이 있었다는 거지」"
 
 [[dialogue]]
-speaker = "美鶴"
+speaker_original = "美鶴"
+speaker_translation = "미츠루"
 original = "「チア・オーラってなにそれ知らんし。怖」"
 translation = "「치어 오라가 뭔데 난 모르거든. 무서워」"
 
 [[dialogue]]
-speaker = "フラン"
+speaker_original = "フラン"
+speaker_translation = "프랑"
 original = "「応援する心から湧き上がる無限のパワーだぜ！」"
 translation = "「응원하는 마음에서 솟아나는 무한한 파워다!」"
 
 [[dialogue]]
-speaker = "美鶴"
+speaker_original = "美鶴"
+speaker_translation = "미츠루"
 original = "「知らんし。未知のパワー捏造すんなし」"
 translation = "「모르거든. 미지의 파워를 날조하지 마」"
 
 [[dialogue]]
-speaker = "フラン"
+speaker_original = "フラン"
+speaker_translation = "프랑"
 original = "「つまり、美鶴にはチアガール……いや、チアリーダーにすらなれる素質があるってことだ！」"
 translation = "「즉, 미츠루에게는 치어걸…… 아니, 치어리더조차 될 자질이 있다는 거다!」"
 
 [[dialogue]]
-speaker = "美鶴"
+speaker_original = "美鶴"
+speaker_translation = "미츠루"
 original = "「うちの話聞けって。やる気なし子さんのうちにそんな素質ないでしょ。スカウターぶっ壊れてるって。うちがこれを着たのは──」"
 translation = "「내 말 좀 들으라고. 의욕 없는 나에게 그런 자질이 있을 리 없잖아. 스카우터 고장 났다고. 내가 이걸 입은 건──」"
 
 [[dialogue]]
-speaker = "フラン"
+speaker_original = "フラン"
+speaker_translation = "프랑"
 original = "「ふんふん……美鶴が納品したチア衣装がなんかしっくりこねえと」"
 translation = "「흠흠…… 미츠루가 납품한 치어 의상이 뭔가 마음에 들지 않는다고」"
 
 [[dialogue]]
-speaker = "フラン"
+speaker_original = "フラン"
+speaker_translation = "프랑"
 original = "「じゃあ、オレらと一緒にチアやらねぇか？」"
 translation = "「그럼, 우리랑 같이 치어 해보지 않을래?」"
 
 [[dialogue]]
-speaker = "美鶴"
+speaker_original = "美鶴"
+speaker_translation = "미츠루"
 original = "「なんでそーなるの。やらんし。うち、貰ってる給金以上は働かない主義なんで」"
 translation = "「왜 그렇게 되는 건데. 안 할 거거든. 나는 받은 급료 이상은 일하지 않는 주의라서」"
 
 [[dialogue]]
-speaker = "フラン"
+speaker_original = "フラン"
+speaker_translation = "프랑"
 original = "「美鶴の作ったチアガール衣装、オレの目から見れば十分、よくできてると思うんだ」"
 translation = "「미츠루가 만든 치어걸 의상, 내 눈으로 보기엔 충분히 잘 만들어졌다고 생각한다」"
 
 [[dialogue]]
-speaker = "フラン"
+speaker_original = "フラン"
+speaker_translation = "프랑"
 original = "「実際、チアのみんなからも『過去イチかわいい』『めちゃ動きやすい』って大好評だぜ！」"
 translation = "「실제로, 치어 단원들도 '역대급으로 귀엽다', '엄청 움직이기 편하다'며 대호평이라고!」"
 
 [[dialogue]]
-speaker = "美鶴"
+speaker_original = "美鶴"
+speaker_translation = "미츠루"
 original = "「そりゃどーも」"
 translation = "「그거 고맙네」"
 
 [[dialogue]]
-speaker = "フラン"
+speaker_original = "フラン"
+speaker_translation = "프랑"
 original = "「でも、美鶴は自分の作ったチアガール衣装に納得いってないんだろ？」"
 translation = "「하지만, 미츠루는 자신이 만든 치어걸 의상에 납득하지 못하고 있는 거잖아?」"
 
 [[dialogue]]
-speaker = "美鶴"
+speaker_original = "美鶴"
+speaker_translation = "미츠루"
 original = "「まーね。うちなら、もっと上手いことやれる気がしてるんだけど……」"
 translation = "「뭐 그렇지. 나라면, 더 잘 해낼 수 있을 것 같은 기분이 드는데……」"
 
 [[dialogue]]
-speaker = "フラン"
+speaker_original = "フラン"
+speaker_translation = "프랑"
 original = "「っていうことはだ！\u3000美鶴は給金通りの仕事をやりきれてない、って思ってるんじゃないか？」"
 translation = "「그렇다는 건 말이다! 미츠루는 급료만큼의 일을 다 해내지 못했다고 생각하는 거 아니냐?」"
 
 [[dialogue]]
-speaker = "美鶴"
+speaker_original = "美鶴"
+speaker_translation = "미츠루"
 original = "「……ぐっ。痛いトコ突くね」"
 translation = "「……윽. 아픈 곳을 찌르네」"
 
 [[dialogue]]
-speaker = "フラン"
+speaker_original = "フラン"
+speaker_translation = "프랑"
 original = "「オレも経験あるからな！\u3000自分らしい応援をやりきれないとスッキリしないし、それは結果に出る！」"
 translation = "「나도 경험이 있으니까! 나다운 응원을 다 해내지 못하면 개운하지 않고, 그건 결과로 나타난다!」"
 
 [[dialogue]]
-speaker = "フラン"
+speaker_original = "フラン"
+speaker_translation = "프랑"
 original = "「なにより、応援する人は多ければ多いほどいい！」"
 translation = "「무엇보다, 응원하는 사람은 많으면 많을수록 좋다!」"
 
 [[dialogue]]
-speaker = "美鶴"
+speaker_original = "美鶴"
+speaker_translation = "미츠루"
 original = "「本音はそこでしょ」"
 translation = "「본심은 그거잖아」"
 
 [[dialogue]]
-speaker = "フラン"
+speaker_original = "フラン"
+speaker_translation = "프랑"
 original = "「まーな！\u3000美鶴みたいな美人チアガールに応援されたら、みんなの士気もグンと上がる！」"
 translation = "「뭐 그렇지! 미츠루 같은 미인 치어걸에게 응원을 받으면, 모두의 사기도 훨씬 올라간다!」"
 
 [[dialogue]]
-speaker = "美鶴"
+speaker_original = "美鶴"
+speaker_translation = "미츠루"
 original = "「美人チアて。おだて上手め」"
 translation = "「미인 치어라니. 아첨 잘하네」"
 
 [[dialogue]]
-speaker = "フラン"
+speaker_original = "フラン"
+speaker_translation = "프랑"
 original = "「いいじゃねえか。<ruby>応援団<rt>うち</rt></ruby>は人が欲しい。美鶴は応援を経験することで何か掴めるかもしれない」"
 translation = "「괜찮지 않나. 응원단은 사람이 필요하다. 미츠루는 응원을 경험함으로써 무언가를 얻을 수 있을지도 모른다」"
 
 [[dialogue]]
-speaker = "フラン"
+speaker_original = "フラン"
+speaker_translation = "프랑"
 original = "「つまり、ＷＩＮ・ＷＩＮの関係ってわけだ！\u3000オレの大好きな言葉だぜ！」"
 translation = "「즉, WIN-WIN 관계라는 거지! 내가 가장 좋아하는 말이다!」"
 
 [[dialogue]]
-speaker = "美鶴"
+speaker_original = "美鶴"
+speaker_translation = "미츠루"
 original = "「……流石は応援団。人を乗せるのがお上手」"
 translation = "「……역시 응원단이네. 사람을 부추기는 데 능숙해」"
 
 [[dialogue]]
-speaker = "美鶴"
+speaker_original = "美鶴"
+speaker_translation = "미츠루"
 original = "「んー……乗せられるのはちょーっと癪だけど、実際やらないとわからないこともあるかもしれないしなー……」"
 translation = "「음ー…… 부추겨지는 건 좀 분하지만, 실제로 해보지 않으면 모르는 것도 있을 수 있으니까ー……」"
 
 [[dialogue]]
-speaker = "美鶴"
+speaker_original = "美鶴"
+speaker_translation = "미츠루"
 original = "「なーんかモヤってるし、衣装を完璧にするためならやむなし、かな。会長さんはどう思う？」"
 translation = "「뭔가 찜찜하기도 하고, 의상을 완벽하게 하기 위해서라면 어쩔 수 없으려나. 회장군은 어떻게 생각해?」"
 
@@ -179,37 +211,44 @@ original = "いいと思うよ"
 translation = "좋을 것 같아"
 
 [[dialogue]]
-speaker = "美鶴"
+speaker_original = "美鶴"
+speaker_translation = "미츠루"
 original = "「そか。んじゃま、参加するよ、チア。ちょっとだけね」"
 translation = "「그렇구나. 그럼 뭐, 참가할게, 치어. 잠깐만」"
 
 [[dialogue]]
-speaker = "フラン"
+speaker_original = "フラン"
+speaker_translation = "프랑"
 original = "「本当か！？\u3000団員のみんなも喜ぶぜ！」"
 translation = "「정말인가!? 단원들도 기뻐할 거다!」"
 
 [[dialogue]]
-speaker = "美鶴"
+speaker_original = "美鶴"
+speaker_translation = "미츠루"
 original = "「でも、うちは衣装の完成度に納得したら、そこでやめる」"
 translation = "「하지만, 나는 의상의 완성도에 납득하면, 거기서 그만둘 거야」"
 
 [[dialogue]]
-speaker = "美鶴"
+speaker_original = "美鶴"
+speaker_translation = "미츠루"
 original = "「どうやっても納得できないことが判明しても、そこでやめる。それでもいい？」"
 translation = "「어떻게 해도 납득할 수 없다는 것이 판명되어도, 거기서 그만둘 거야. 그래도 괜찮아?」"
 
 [[dialogue]]
-speaker = "フラン"
+speaker_original = "フラン"
+speaker_translation = "프랑"
 original = "「ああ、全然構わないぜ！\u3000歓迎する！」"
 translation = "「아아, 전혀 상관없다! 환영한다!」"
 
 [[dialogue]]
-speaker = "フラン"
+speaker_original = "フラン"
+speaker_translation = "프랑"
 original = "「でも、やめる前に人を応援する喜びを教えてやるよ！\u3000クセになっちまうくらいにな！」"
 translation = "「하지만, 그만두기 전에 사람을 응원하는 기쁨을 가르쳐 줄게! 중독될 정도로 말이야!」"
 
 [[dialogue]]
-speaker = "美鶴"
+speaker_original = "美鶴"
+speaker_translation = "미츠루"
 original = "「うっへ。あんま毒されないように気をつけよっと」"
 translation = "「우웩. 너무 물들지 않도록 조심해야겠다」"
 

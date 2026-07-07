@@ -4,12 +4,14 @@ original = "第３話,カッコイイ星騎士になるために,P"
 translation = "제3화, 멋진 성기사가 되기 위해서, P"
 
 [[dialogue]]
-speaker = "アム"
+speaker_original = "アム"
+speaker_translation = "아무"
 original = "「うっ、うぅうっ……コーヒー、やっぱり苦い……！」"
 translation = "「으, 으으으…… 커피, 역시 써……!」"
 
 [[dialogue]]
-speaker = "ユーリス"
+speaker_original = "ユーリス"
+speaker_translation = "유리스"
 original = "「ふふ。慣れないうちはそうかもしれませんね」"
 translation = "「후후. 익숙해지기 전까지는 그럴지도 모르겠네요.」"
 
@@ -19,32 +21,38 @@ original = "何してるんだ？"
 translation = "뭐 하고 있어?"
 
 [[dialogue]]
-speaker = "アム"
+speaker_original = "アム"
+speaker_translation = "아무"
 original = "「カッコイイ星騎士になるにはね、クールでスマートなレディにならないといけないんだ」"
 translation = "「멋진 성기사가 되려면 말이야, 쿨하고 스마트한 레이디가 되어야 해.」"
 
 [[dialogue]]
-speaker = "アム"
+speaker_original = "アム"
+speaker_translation = "아무"
 original = "「だから今日こそ、この漆黒の液体を克服して……んぐ、んぐ……！」"
 translation = "「그러니까 오늘이야말로 이 칠흑의 액체를 극복해서…… 꿀꺽, 꿀꺽……!」"
 
 [[dialogue]]
-speaker = "アム"
+speaker_original = "アム"
+speaker_translation = "아무"
 original = "「ぅえぇええ～っ……やっぱり苦いよぉっ……！」"
 translation = "「웨에에에~ 역시 써어어……!」"
 
 [[dialogue]]
-speaker = "ユーリス"
+speaker_original = "ユーリス"
+speaker_translation = "유리스"
 original = "「無理に飲まなくてもいいんじゃないですか？\u3000好きなものを好きなように飲むのが一番だと思いますが……」"
 translation = "「억지로 마시지 않아도 되지 않나요? 좋아하는 것을 마음껏 마시는 게 제일이라고 생각합니다만……」"
 
 [[dialogue]]
-speaker = "アム"
+speaker_original = "アム"
+speaker_translation = "아무"
 original = "「それじゃあダメなんですよ、ユーリス先輩！」"
 translation = "「그러면 안 된다고요, 유리 선배!」"
 
 [[dialogue]]
-speaker = "アム"
+speaker_original = "アム"
+speaker_translation = "아무"
 original = "「附属を卒業して、新星学園の星徒会長になった時！\u3000甘いカフェオレしか飲めないんじゃ示しがつかないもん！」"
 translation = "「부속을 졸업하고 신성 학원의 성도회장이 됐을 때! 달콤한 카페오레밖에 못 마시면 체면이 안 서잖아!」"
 
@@ -54,22 +62,26 @@ original = "また変なこだわりを……"
 translation = "또 이상한 고집을……"
 
 [[dialogue]]
-speaker = "アム"
+speaker_original = "アム"
+speaker_translation = "아무"
 original = "「大事なことだよ！\u3000常に凛々しく、カッコよく！\u3000そんな星騎士になることがあたしの目標なんだから」"
 translation = "「중요한 일이야! 항상 늠름하고 멋지게! 그런 성기사가 되는 게 나의 목표니까.」"
 
 [[dialogue]]
-speaker = "アム"
+speaker_original = "アム"
+speaker_translation = "아무"
 original = "「ユーリス先輩も王子様なんだから、イメージが大事っていうのはわかるでしょ？」"
 translation = "「유리 선배도 왕자님이니까 이미지가 중요하다는 건 알 거 아냐?」"
 
 [[dialogue]]
-speaker = "ユーリス"
+speaker_original = "ユーリス"
+speaker_translation = "유리스"
 original = "「う。そこを突かれると私も弱いですね」"
 translation = "「우윽. 그 부분을 찔리니 저도 할 말이 없네요.」"
 
 [[dialogue]]
-speaker = "アム"
+speaker_original = "アム"
+speaker_translation = "아무"
 original = "「会長だって星徒会長じゃん！\u3000ブラックも飲めない子供舌なんて噂が広まったら恥ずかしいよね？」"
 translation = "「회장도 성도회장이잖아! 블랙도 못 마시는 어린애 입맛이라는 소문이 퍼지면 창피하겠지?」"
 
@@ -79,92 +91,110 @@ original = "俺はあんまり気にしないかな"
 translation = "나는 별로 상관없는데."
 
 [[dialogue]]
-speaker = "アム"
+speaker_original = "アム"
+speaker_translation = "아무"
 original = "「会長はブラック飲めるからそんな余裕こいていられるんだって。ブラックが苦手な星徒会長なんていないよ！」"
 translation = "「회장님은 블랙을 마실 수 있으니까 그렇게 여유 부릴 수 있는 거라고. 블랙을 못 마시는 성도회장 같은 건 없단 말이야!」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「くちゅんっ。今、誰か私の噂をしてた……？」"
 translation = "「에취. 방금, 누가 내 소문을 냈나……?」"
 
 [[dialogue]]
-speaker = "ナミエル"
+speaker_original = "ナミエル"
+speaker_translation = "나미엘"
 original = "「お嬢様。よいコーヒー豆が入ったのですが、いかがされますか。ブラックがおすすめとのことですが」"
 translation = "「아가씨. 좋은 커피 원두가 들어왔습니다만, 어떻게 하시겠습니까. 블랙을 추천한다고 합니다만.」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「あー、えーと……ミルクと砂糖も付けてくれると嬉しいかな……」"
 translation = "「아—, 에 그러니까…… 우유랑 설탕도 넣어주면 좋겠는데……」"
 
 [[dialogue]]
-speaker = "アム"
+speaker_original = "アム"
+speaker_translation = "아무"
 original = "「あたしは気にするの！\u3000うーん……どうすれば攻略できるのかな～？」"
 translation = "「난 신경 쓰인단 말이야! 으음…… 어떻게 하면 공략할 수 있으려나~?」"
 
 [[dialogue]]
-speaker = "アム"
+speaker_original = "アム"
+speaker_translation = "아무"
 original = "「鍛錬と違って何杯飲んでもぜんぜん慣れないし……ていうか飲む度にどんどん嫌いになっていきそう……」"
 translation = "「단련이랑 달라서 몇 잔을 마셔도 전혀 익숙해지질 않고…… 그보다 마실 때마다 점점 더 싫어지게 될 것 같아……」"
 
 [[dialogue]]
-speaker = "ユーリス"
+speaker_original = "ユーリス"
+speaker_translation = "유리스"
 original = "「それなら苦くないコーヒーを淹れられるようにするのはいかがでしょう。自分で調節すれば苦みも抑えられますよ」"
 translation = "「그렇다면 쓰지 않은 커피를 내릴 수 있게 해보는 건 어떨까요. 직접 조절하면 쓴맛도 억제할 수 있어요.」"
 
 [[dialogue]]
-speaker = "アム"
+speaker_original = "アム"
+speaker_translation = "아무"
 original = "「それなら──って、それできるの自分で淹れる時だけじゃないですか！\u3000カフェテリアのコーヒーは苦いままですよー！」"
 translation = "「그렇다면── 이라니, 그건 직접 내릴 때뿐이잖아요! 카페테리아 커피는 쓴 그대로라고요—!」"
 
 [[dialogue]]
-speaker = "ユーリス"
+speaker_original = "ユーリス"
+speaker_translation = "유리스"
 original = "「そうでした。確かに解決にはなりませんね」"
 translation = "「그랬군요. 확실히 해결책은 되지 않겠네요.」"
 
 [[dialogue]]
-speaker = "ユーリス"
+speaker_original = "ユーリス"
+speaker_translation = "유리스"
 original = "「では逆転の発想をしてはどうでしょう？」"
 translation = "「그럼 역발상을 해보는 건 어떨까요?」"
 
 [[dialogue]]
-speaker = "アム"
+speaker_original = "アム"
+speaker_translation = "아무"
 original = "「逆転……？」"
 translation = "「역발상……?」"
 
 [[dialogue]]
-speaker = "ユーリス"
+speaker_original = "ユーリス"
+speaker_translation = "유리스"
 original = "「ええ。人前で、砂糖をたっぷり入れるのが恥ずかしい。ならば誰にもバレないよう砂糖を入れられれば良いのです」"
 translation = "「네. 남들 앞에서 설탕을 듬뿍 넣는 것이 부끄럽다. 그렇다면 아무에게도 들키지 않게 설탕을 넣을 수 있으면 되는 겁니다.」"
 
 [[dialogue]]
-speaker = "アム"
+speaker_original = "アム"
+speaker_translation = "아무"
 original = "「そんな方法が……！？」"
 translation = "「그런 방법이……!?」"
 
 [[dialogue]]
-speaker = "ユーリス"
+speaker_original = "ユーリス"
+speaker_translation = "유리스"
 original = "「私が披露しましょう──剣よ！」"
 translation = "「제가 선보이죠── 검이여!」"
 
 [[dialogue]]
-speaker = "アム"
+speaker_original = "アム"
+speaker_translation = "아무"
 original = "「あっ……これってユーリス先輩の聖剣の力……勇者スキル！？\u3000カッコイイ～！」"
 translation = "「앗…… 이건 유리 선배의 성검의 힘…… 용사 스킬!? 멋져~!」"
 
 [[dialogue]]
-speaker = "ユーリス"
+speaker_original = "ユーリス"
+speaker_translation = "유리스"
 original = "「ええ。今呼び出したのは勇者スキル『手品』です。私は今だけ、手品の達人になりました」"
 translation = "「네. 지금 불러낸 것은 용사 스킬 『마술』입니다. 저는 지금 이 순간만은 마술의 달인이 되었어요.」"
 
 [[dialogue]]
-speaker = "ユーリス"
+speaker_original = "ユーリス"
+speaker_translation = "유리스"
 original = "「白楯さんのコーヒーカップを借りますね。右手で持ち上げ、そっと左手をかざす。いち、に、さん──さぁどうぞ」"
 translation = "「시라타테 양의 커피 컵을 빌릴게요. 오른손으로 들어 올리고, 살며시 왼손을 갖다 댄다. 하나, 둘, 셋── 자, 여기요.」"
 
 [[dialogue]]
-speaker = "アム"
+speaker_original = "アム"
+speaker_translation = "아무"
 original = "「ごくごく……んんっ！？\u3000あ、あっ……あまーい！！」"
 translation = "「꿀꺽꿀꺽…… 응!? 아, 아…… 다, 달아!!」"
 
@@ -174,17 +204,20 @@ original = "……嘘！？"
 translation = "……거짓말!?"
 
 [[dialogue]]
-speaker = "アム"
+speaker_original = "アム"
+speaker_translation = "아무"
 original = "「すごいすごい！\u3000タネを教えて！\u3000これならバッチリだよ！」"
 translation = "「대단해 대단해! 비결을 가르쳐줘! 이거라면 완벽해!」"
 
 [[dialogue]]
-speaker = "ユーリス"
+speaker_original = "ユーリス"
+speaker_translation = "유리스"
 original = "「ええ。では順に解説していきましょう。大事なのは実は、カップを持っていた右手の方で──」"
 translation = "「네. 그럼 순서대로 해설해 드릴게요. 중요한 건 사실, 컵을 들고 있던 오른손 쪽인데──」"
 
 [[dialogue]]
-speaker = "アム"
+speaker_original = "アム"
+speaker_translation = "아무"
 original = "「会長のカップ貸して！\u3000こうやってー……左手をかざして……ワン、ツー、スリー……！\u3000はい！」"
 translation = "「회장님 컵 빌려줘! 이렇게—…… 왼손을 대고…… 원, 투, 쓰리……! 자!」"
 
@@ -194,32 +227,38 @@ original = "甘くなってる……！？"
 translation = "달아졌어……!?"
 
 [[dialogue]]
-speaker = "アム"
+speaker_original = "アム"
+speaker_translation = "아무"
 original = "「やったー！\u3000会得したぞー！」"
 translation = "「만세—! 터득했다—!」"
 
 [[dialogue]]
-speaker = "ユーリス"
+speaker_original = "ユーリス"
+speaker_translation = "유리스"
 original = "「流石ですね。これで堂々と人前でブラックコーヒーが飲めるでしょう」"
 translation = "「역시나네요. 이걸로 당당하게 남들 앞에서 블랙커피를 마실 수 있겠죠.」"
 
 [[dialogue]]
-speaker = "アム"
+speaker_original = "アム"
+speaker_translation = "아무"
 original = "「ありがとー先輩！\u3000うしし、これでもうエルゼに子供舌なんて言われないですむぞ～！」"
 translation = "「고마워 선배! 우시시, 이걸로 이제 엘제한테 애린이 입맛이라는 소리 안 들어도 되겠다~!」"
 
 [[dialogue]]
-speaker = "アム"
+speaker_original = "アム"
+speaker_translation = "아무"
 original = "「明日、カフェテリアに誘って驚かせてやろ～っと！」"
 translation = "「내일 카페테리아로 불러서 깜짝 놀라게 해줘야지~!」"
 
 [[dialogue]]
-speaker = "アム"
+speaker_original = "アム"
+speaker_translation = "아무"
 original = "「ごくごくっ……んー♪\u3000あまーい♪」"
 translation = "「꿀꺽꿀꺽…… 음~♪ 다—올해—♪」"
 
 [[dialogue]]
-speaker = "ユーリス"
+speaker_original = "ユーリス"
+speaker_translation = "유리스"
 original = "（足をパタパタさせて……それにカップも両手持ちで……）"
 translation = "(다리를 파닥파닥 거리면서…… 게다가 컵도 두 손으로 잡고……)"
 
@@ -229,12 +268,14 @@ original = "（子供みたいだ……）"
 translation = "(아이 같아……)"
 
 [[dialogue]]
-speaker = "ユーリス"
+speaker_original = "ユーリス"
+speaker_translation = "유리스"
 original = "（あはは……思っても言わない方がいいね、きっと）"
 translation = "(아하하…… 생각해도 말하지 않는 게 좋겠지, 분명.)"
 
 [[dialogue]]
-speaker = "アム"
+speaker_original = "アム"
+speaker_translation = "아무"
 original = "「コーヒーが好きになっちゃったな～♪\u3000ふっふ～ん♪」"
 translation = "「커피가 좋아져 버렸네~♪ 훗흥~♪」"
 

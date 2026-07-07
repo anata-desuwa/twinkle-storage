@@ -4,7 +4,8 @@ original = "第４話,密着、魔王ちゃん研究,P"
 translation = "제4화, 밀착, 마왕 짱 연구"
 
 [[dialogue]]
-speaker = "ツェツィーリエ"
+speaker_original = "ツェツィーリエ"
+speaker_translation = "체칠리에"
 original = "「ここが今日からアタシのお世話になるお家……よろしくお願いしまーす♪」"
 translation = "「여기가 오늘부터 내가 신세 질 집…… 잘 부탁해~♪」"
 
@@ -14,37 +15,44 @@ original = "何故そんなことになっちゃってるの？"
 translation = "왜 그렇게 된 거야?"
 
 [[dialogue]]
-speaker = "ツェツィーリエ"
+speaker_original = "ツェツィーリエ"
+speaker_translation = "체칠리에"
 original = "「そろそろ本格的に魔王ちゃんのことを研究したいと思ったからなんだよね」"
 translation = "「슬슬 본격적으로 마왕 짱을 연구하고 싶어졌거든.」"
 
 [[dialogue]]
-speaker = "ツェツィーリエ"
+speaker_original = "ツェツィーリエ"
+speaker_translation = "체칠리에"
 original = "「その為にネビュラの基地にキミを連れ込みたかったんだけど、ウェンディが口うるさいから」"
 translation = "「그러기 위해 네뷸라 기지로 널 데려가고 싶었지만 웬디가 잔소리가 심해서.」"
 
 [[dialogue]]
-speaker = "ツェツィーリエ"
+speaker_original = "ツェツィーリエ"
+speaker_translation = "체칠리에"
 original = "「前はお金にうるさいだけだったのに、最近じゃアタシたちの色恋にまで口出ししてくるようになっちゃって」"
 translation = "「전에는 돈 문제에만 깐깐하더니 최근엔 우리 연애사까지 참견하기 시작했다니까.」"
 
 [[dialogue]]
-speaker = "ツェツィーリエ"
+speaker_original = "ツェツィーリエ"
+speaker_translation = "체칠리에"
 original = "「だから来ちゃった♪\u3000ここに住めば魔王ちゃんとずっと一緒にいられるし、魔王ちゃんの力も研究し放題♪」"
 translation = "「그래서 와버렸어♪ 여기 살면 마왕 짱이랑 계속 같이 있을 수 있고 마왕 짱의 힘도 마음껏 연구할 수 있으니까♪」"
 
 [[dialogue]]
-speaker = "ツェツィーリエ"
+speaker_original = "ツェツィーリエ"
+speaker_translation = "체칠리에"
 original = "「あの大魔女のリノさんからお話を聞けるっていうのも魅力的だよね」"
 translation = "「그 대마녀 리노 씨한테 이야기를 들을 수 있다는 것도 매력적이고 말이야.」"
 
 [[dialogue]]
-speaker = "ツェツィーリエ"
+speaker_original = "ツェツィーリエ"
+speaker_translation = "체칠리에"
 original = "「ああ、大丈夫よん。リノさんからはオッケーを貰ってるから」"
 translation = "「아아, 괜찮아. 리노 씨한테는 허락받았으니까.」"
 
 [[dialogue]]
-speaker = "ツェツィーリエ"
+speaker_original = "ツェツィーリエ"
+speaker_translation = "체칠리에"
 original = "「食洗器の調子が悪くて困ってたみたいだから修理したの。そしたら、ずっと居てもいいわよって」"
 translation = "「식기 세척기 상태가 안 좋아서 곤란해하시길래 수리해 드렸어. 그랬더니 계속 있어도 좋다고 하시더라고.」"
 
@@ -54,37 +62,44 @@ original = "簡単過ぎません！？"
 translation = "너무 간단하잖아요!?"
 
 [[dialogue]]
-speaker = "ツェツィーリエ"
+speaker_original = "ツェツィーリエ"
+speaker_translation = "체칠리에"
 original = "「キミには初めて会った時から興味津々だったんだ」"
 translation = "「너에겐 처음 만났을 때부터 흥미진진했어.」"
 
 [[dialogue]]
-speaker = "ツェツィーリエ"
+speaker_original = "ツェツィーリエ"
+speaker_translation = "체칠리에"
 original = "「転生の魔法を受けた肉体、３０００年前のリクリエによって失われた力である霊力」"
 translation = "「전생의 마법을 받은 육체, 3000년 전 리크리에에 의해 소실된 힘인 영력.」"
 
 [[dialogue]]
-speaker = "ツェツィーリエ"
+speaker_original = "ツェツィーリエ"
+speaker_translation = "체칠리에"
 original = "「話によるとその内側にリクリエという現象さえ呑み込んでしまったというじゃない？」"
 translation = "「말에 따르면 그 내면에 리크리에라는 현상마저 집어삼켜 버렸다며?」"
 
 [[dialogue]]
-speaker = "ツェツィーリエ"
+speaker_original = "ツェツィーリエ"
+speaker_translation = "체칠리에"
 original = "「何から調べようか……色々ありすぎて困ってしまうよ」"
 translation = "「뭐부터 조사할까…… 너무 많아서 곤란할 정도야.」"
 
 [[dialogue]]
-speaker = "ツェツィーリエ"
+speaker_original = "ツェツィーリエ"
+speaker_translation = "체칠리에"
 original = "「とりあえず、その辺りに座ってくれたまえ」"
 translation = "「일단 그 근처에 좀 앉아봐.」"
 
 [[dialogue]]
-speaker = "ツェツィーリエ"
+speaker_original = "ツェツィーリエ"
+speaker_translation = "체칠리에"
 original = "「うんうん、素直で宜しいね。それじゃ、アタシもよっこいしょ、と……」"
 translation = "「응응, 순해서 좋네. 그럼 나도 영차 하고……」"
 
 [[dialogue]]
-speaker = "ツェツィーリエ"
+speaker_original = "ツェツィーリエ"
+speaker_translation = "체칠리에"
 original = "「たはは、近い近い♪」"
 translation = "「타하하, 가깝네 가깝네♪」"
 
@@ -94,27 +109,32 @@ original = "それは俺のセリフ……"
 translation = "그건 내 대사인데……"
 
 [[dialogue]]
-speaker = "ツェツィーリエ"
+speaker_original = "ツェツィーリエ"
+speaker_translation = "체칠리에"
 original = "「まあまあ、近くに寄ってみなければ分からないこともあるでしょうに」"
 translation = "「에이, 가까이 다가가 보지 않으면 모르는 것도 있는 법이잖아.」"
 
 [[dialogue]]
-speaker = "ツェツィーリエ"
+speaker_original = "ツェツィーリエ"
+speaker_translation = "체칠리에"
 original = "「だからと言って、跨ってくる必要はないだろう、って？」"
 translation = "「그렇다고 해서 올라탈 필요는 없지 않냐고?」"
 
 [[dialogue]]
-speaker = "ツェツィーリエ"
+speaker_original = "ツェツィーリエ"
+speaker_translation = "체칠리에"
 original = "「分かってないよね、キミは。こうやって密着した方が……嬉しいじゃないか」"
 translation = "「모르네, 너는. 이렇게 밀착하는 게…… 기쁘잖아.」"
 
 [[dialogue]]
-speaker = "ツェツィーリエ"
+speaker_original = "ツェツィーリエ"
+speaker_translation = "체칠리에"
 original = "「ほら、こうやってぎゅーっ、と……」"
 translation = "「봐봐, 이렇게 꼬옥 하고……」"
 
 [[dialogue]]
-speaker = "ツェツィーリエ"
+speaker_original = "ツェツィーリエ"
+speaker_translation = "체칠리에"
 original = "「どうだい？\u3000キミは嬉しくないかい？」"
 translation = "「어때? 넌 기쁘지 않아?」"
 
@@ -124,57 +144,68 @@ original = "とっても嬉しいです"
 translation = "매우 기쁩니다."
 
 [[dialogue]]
-speaker = "ツェツィーリエ"
+speaker_original = "ツェツィーリエ"
+speaker_translation = "체칠리에"
 original = "「ならいいよね。よし、このまま研究に入らせてもらうよ」"
 translation = "「그럼 됐네. 좋아, 이대로 연구에 들어갈게.」"
 
 [[dialogue]]
-speaker = "ツェツィーリエ"
+speaker_original = "ツェツィーリエ"
+speaker_translation = "체칠리에"
 original = "「ほら、アタシによーく顔を見せて……」"
 translation = "「자, 나한테 얼굴을 자알 보여줘……」"
 
 [[dialogue]]
-speaker = "ツェツィーリエ"
+speaker_original = "ツェツィーリエ"
+speaker_translation = "체칠리에"
 original = "「こらこら、何を目をそらそうとしてるんだい？」"
 translation = "「이봐 이봐, 어디로 눈을 돌리려고 하는 거야?」"
 
 [[dialogue]]
-speaker = "ツェツィーリエ"
+speaker_original = "ツェツィーリエ"
+speaker_translation = "체칠리에"
 original = "「ちゃんとアタシの目を見つめ返してくれないと調べられないだろう」"
 translation = "「제대로 내 눈을 마주 봐주지 않으면 조사할 수 없잖아.」"
 
 [[dialogue]]
-speaker = "ツェツィーリエ"
+speaker_original = "ツェツィーリエ"
+speaker_translation = "체칠리에"
 original = "「大胆過ぎて恥ずかしいって？」"
 translation = "「너무 대담해서 부끄럽다고?」"
 
 [[dialogue]]
-speaker = "ツェツィーリエ"
+speaker_original = "ツェツィーリエ"
+speaker_translation = "체칠리에"
 original = "「そんなことを言いながら、キミもずいぶんと大胆なことをしているじゃないか」"
 translation = "「그런 소릴 하면서 너도 상당히 대담한 짓을 하고 있잖아.」"
 
 [[dialogue]]
-speaker = "ツェツィーリエ"
+speaker_original = "ツェツィーリエ"
+speaker_translation = "체칠리에"
 original = "「アタシの背中に手を回して、離れないようにしっかり抱きしめている」"
 translation = "「내 등에 손을 두르고 떨어지지 않게 꽉 껴안고 있어.」"
 
 [[dialogue]]
-speaker = "ツェツィーリエ"
+speaker_original = "ツェツィーリエ"
+speaker_translation = "체칠리에"
 original = "「ああ、構わないよそのままで。好きにしてくれたらいい」"
 translation = "「아아, 상관없어 이대로. 마음대로 해줘.」"
 
 [[dialogue]]
-speaker = "ツェツィーリエ"
+speaker_original = "ツェツィーリエ"
+speaker_translation = "체칠리에"
 original = "「キミのことを研究している間、暇にさせてしまっては申し訳ないからね」"
 translation = "「널 연구하는 동안 심심하게 하면 미안하니까 말이야.」"
 
 [[dialogue]]
-speaker = "ツェツィーリエ"
+speaker_original = "ツェツィーリエ"
+speaker_translation = "체칠리에"
 original = "「どうぞ、アタシのことを自由にしてくれたまえ……」"
 translation = "「자, 나를 자유롭게 해줘……」"
 
 [[dialogue]]
-speaker = "ツェツィーリエ"
+speaker_original = "ツェツィーリエ"
+speaker_translation = "체칠리에"
 original = "「ぁう……もう、自由にしていいと言った途端に遠慮がなくなるんだから。そんなに背中を撫でまわされたらくすぐったいよ」"
 translation = "「아우…… 정말, 자유롭게 하라고 하자마자 사양을 안 한다니까. 그렇게 등을 쓰다듬어 대면 간지러워.」"
 
@@ -184,12 +215,14 @@ original = "集中力乱れちゃう？"
 translation = "집중력 흐트러져?"
 
 [[dialogue]]
-speaker = "ツェツィーリエ"
+speaker_original = "ツェツィーリエ"
+speaker_translation = "체칠리에"
 original = "「侮ってもらっては困るよ。その程度で乱れるような集中力はしていないさ」"
 translation = "「얕보면 곤란해. 그 정도로 흐트러질 집중력이 아니라고.」"
 
 [[dialogue]]
-speaker = "ツェツィーリエ"
+speaker_original = "ツェツィーリエ"
+speaker_translation = "체칠리에"
 original = "「好きなだけ味わうといい。でもお返しに、アタシもしばらくこのままたっぷりと、キミのことを研究させてもらうからね♪」"
 translation = "「원하는 만큼 만끽해. 하지만 대신 나도 당분간 이대로 듬뿍 너를 연구할 테니까♪」"
 

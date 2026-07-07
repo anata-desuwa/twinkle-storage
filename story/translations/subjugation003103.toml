@@ -1,45 +1,54 @@
 [[dialogue]]
-speaker = "花織"
+speaker_original = "花織"
+speaker_translation = "카오리"
 original = "「陽彩ちゃん、すごい！\u3000悪魔たちの動きが鈍くなってるよ！」"
 translation = "「아키사짱, 대단해! 악마들의 움직임이 둔해지고 있어!」"
 
 [[dialogue]]
-speaker = "ここあ"
+speaker_original = "ここあ"
+speaker_translation = "코코아"
 original = "「悪魔の心も惑わしちゃうなんて、あきあきってば、魔性のセクシー娘になっちゃったね～♪」"
 translation = "「악마의 마음까지 홀려버리다니, 아키아키는 정말 마성의 섹시녀가 돼 버렸네~♪」"
 
 [[dialogue]]
-speaker = "陽彩"
+speaker_original = "陽彩"
+speaker_translation = "히이로"
 original = "「ちょっと余裕が出てきたからって、変な冗談は言わないでくれるか！？」"
 translation = "「조금 여유가 생겼다고 이상한 농담은 하지 말아 줄래!?」"
 
 [[dialogue]]
-speaker = "陽彩"
+speaker_original = "陽彩"
+speaker_translation = "히이로"
 original = "「じ、自分でもちょっと恥ずかしい衣装だとは思っているんだ……！」"
 translation = "「나, 나 스스로도 좀 부끄러운 의상이라고는 생각하고 있다고……!」"
 
 [[dialogue]]
-speaker = "いろは"
+speaker_original = "いろは"
+speaker_translation = "이로하"
 original = "「え～？\u3000そんなことないよ～。あたしは可愛いと思うな♪」"
 translation = "「에~? 그렇지 않아~. 나는 귀엽다고 생각하는데♪」"
 
 [[dialogue]]
-speaker = "陽彩"
+speaker_original = "陽彩"
+speaker_translation = "히이로"
 original = "「い、いいから、戦闘に集中しろっ！\u3000ぼくの能力でかく乱している内に、ちゃんと倒しきれ！」"
 translation = "「드, 됐으니까 전투에 집중해! 나의 능력으로 교란하고 있는 동안에 확실히 쓰러뜨려!」"
 
 [[dialogue]]
-speaker = "ここあ"
+speaker_original = "ここあ"
+speaker_translation = "코코아"
 original = "「にゃははっ、怒られちった☆\u3000は～い、頑張りま～す！」"
 translation = "「냐하하, 혼나버렸네☆ 넵, 힘낼게요~!」"
 
 [[dialogue]]
-speaker = "花織"
+speaker_original = "花織"
+speaker_translation = "카오리"
 original = "「いろは！\u3000ウチがサポートするから、このままの勢いで大群を押し返すよ！」"
 translation = "「이로하! 내가 서포트할 테니까 이 기세로 대군을 밀어내자!」"
 
 [[dialogue]]
-speaker = "いろは"
+speaker_original = "いろは"
+speaker_translation = "이로하"
 original = "「うん！\u3000全力で行くよっ！\u3000とりゃああぁああぁっ！」"
 translation = "「응! 전력으로 갈게! 토랴아아아아앗!」"
 

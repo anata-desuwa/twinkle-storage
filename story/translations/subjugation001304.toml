@@ -1,205 +1,246 @@
 [[dialogue]]
-speaker = "パテル"
+speaker_original = "パテル"
+speaker_translation = "파텔"
 original = "「我は死神。生者に安寧を与える者……」"
 translation = "「나는 사신. 산 자에게 안녕을 주는 자……」"
 
 [[dialogue]]
-speaker = "ソフィア"
+speaker_original = "ソフィア"
+speaker_translation = "소피아"
 original = "「いきます──」"
 translation = "「갑니다──」"
 
 [[dialogue]]
-speaker = "３人"
+speaker_original = "３人"
+speaker_translation = "3명"
 original = "「コキュートススピナー！！」"
 translation = "「코큐토스 스피너!!」"
 
 [[dialogue]]
-speaker = "パテル"
+speaker_original = "パテル"
+speaker_translation = "파텔"
 original = "「試練を……乗り越えたか…………」"
 translation = "「시련을…… 뛰어넘었는가…………」"
 
 [[dialogue]]
-speaker = "アルモタヘル（幼少）"
+speaker_original = "アルモタヘル（幼少）"
+speaker_translation = "아르모타헬(어린 시절)"
 original = "「パテルを倒したのだ！\u3000本来の居場所であるフィーニスの塔に戻ったのだ！」"
 translation = "「파텔을 쓰러뜨린 것이다! 본래 있어야 할 곳인 피니스의 탑으로 돌아간 것이다!」"
 
 [[dialogue]]
-speaker = "ソフィア"
+speaker_original = "ソフィア"
+speaker_translation = "소피아"
 original = "「ふぅ……無事に大役を果たせましたね。神殿の周りにいたモンスターも消えましたし」"
 translation = "「후우…… 무사히 대임을 완수했네요. 신전 주변에 있던 몬스터도 사라졌고요.」"
 
 [[dialogue]]
-speaker = "ソフィア"
+speaker_original = "ソフィア"
+speaker_translation = "소피아"
 original = "「でも、なんでウズメもコキュートススピナーって言ったの？」"
 translation = "「근데 왜 우즈메도 코큐토스 스피너라고 한 거야?」"
 
 [[dialogue]]
-speaker = "ウズメイア"
+speaker_original = "ウズメイア"
+speaker_translation = "우즈메"
 original = "「え～、だって仲間外れ寂しいじゃ～ん！\u3000お揃いの星術とか羨ましいし～」"
 translation = "「에이~ 그치만 따돌림당하면 외롭잖아~! 세트로 쓰는 성술이라니 부럽기도 하고~」"
 
 [[dialogue]]
-speaker = "舞亜"
+speaker_original = "舞亜"
+speaker_translation = "마이아"
 original = "「じゃあ３人で合体技作っちゃう？」"
 translation = "「그럼 셋이서 합체 기술이라도 만들까?」"
 
 [[dialogue]]
-speaker = "ウズメイア"
+speaker_original = "ウズメイア"
+speaker_translation = "우즈메"
 original = "「いいねいいね～。舞亜ちゃんとは同じ学年なのにニアミスしてばっかりでちゃんと話したことなかったから、なんか新鮮」"
 translation = "「좋네 좋아~ 마이아짱하고는 같은 학년인데도 매번 엇갈리기만 하고 제대로 얘기해 본 적 없어서 왠지 신선해.」"
 
 [[dialogue]]
-speaker = "ウズメイア"
+speaker_original = "ウズメイア"
+speaker_translation = "우즈메"
 original = "「てか舞亜って呼んでいい？\u3000同じ学年なんだし」"
 translation = "「그보다 마이아라고 불러도 돼? 같은 학년이니까.」"
 
 [[dialogue]]
-speaker = "舞亜"
+speaker_original = "舞亜"
+speaker_translation = "마이아"
 original = "「うん、もちろん。よろしくね、ウズメ」"
 translation = "「응, 물론이지. 잘 부탁해, 우즈메.」"
 
 [[dialogue]]
-speaker = "ウズメイア"
+speaker_original = "ウズメイア"
+speaker_translation = "우즈메"
 original = "「よろ～♪」"
 translation = "「잘 부타~♪」"
 
 [[dialogue]]
-speaker = "ソフィア"
+speaker_original = "ソフィア"
+speaker_translation = "소피아"
 original = "（さすがウズメ、コミュニケーション能力が高い……）"
 translation = "‘과연 우즈메, 커뮤니케이션 능력이 높아…….’"
 
 [[dialogue]]
-speaker = "ウズメイア"
+speaker_original = "ウズメイア"
+speaker_translation = "우즈메"
 original = "「でも前から気になってたんだけどさ～、ソフィってどうして舞亜さんって呼んでるの？\u3000同い年じゃん」"
 translation = "「근데 전부터 궁금했는데~ 소피는 왜 마이아 씨라고 부르는 거야? 동갑이잖아.」"
 
 [[dialogue]]
-speaker = "ソフィア"
+speaker_original = "ソフィア"
+speaker_translation = "소피아"
 original = "「だって、フィギュアスケーターとしては遥かに格上だし、畏れ多いし……」"
 translation = "「그야 피겨 스케이터로서는 훨씬 급이 위고, 외경심이 느껴지니까……」"
 
 [[dialogue]]
-speaker = "舞亜"
+speaker_original = "舞亜"
+speaker_translation = "마이아"
 original = "「私のライバルなんでしょ？\u3000私に勝つんでしょ？\u3000なら畏れ多いとか言ってないでさ」"
 translation = "「내 라이벌이라며? 나한테 이길 거라며? 그럼 외경심이니 뭐니 그런 소리 하지 말고 말이야.」"
 
 [[dialogue]]
-speaker = "ソフィア"
+speaker_original = "ソフィア"
+speaker_translation = "소피아"
 original = "「う……じゃ、じゃあ…………舞亜」"
 translation = "「으…… 그, 그럼………… 마이아.」"
 
 [[dialogue]]
-speaker = "舞亜"
+speaker_original = "舞亜"
+speaker_translation = "마이아"
 original = "「うん。帰ったら一緒に練習しようね、フィギュアも星術も」"
 translation = "「응. 돌아가면 같이 연습하자, 피겨도 성술도.」"
 
 [[dialogue]]
-speaker = "ウズメイア"
+speaker_original = "ウズメイア"
+speaker_translation = "우즈메"
 original = "「いいな～、あたしもスケートやってみたいな～」"
 translation = "「좋겠다~ 나도 스케이트 한번 타보고 싶은데~」"
 
 [[dialogue]]
-speaker = "ソフィア"
+speaker_original = "ソフィア"
+speaker_translation = "소피아"
 original = "「それなら教えるよ。一度フィギュア部に遊びに来て」"
 translation = "「그럼 가르쳐 줄게. 언제 한번 피겨부에 놀러 와.」"
 
 [[dialogue]]
-speaker = "ウズメイア"
+speaker_original = "ウズメイア"
+speaker_translation = "우즈메"
 original = "「やったぁ♪\u3000絶対行くからね！」"
 translation = "「앗싸♪ 꼭 갈게!」"
 
 [[dialogue]]
-speaker = "ラティエ"
+speaker_original = "ラティエ"
+speaker_translation = "라티에"
 original = "「さてと……」"
 translation = "「자, 그럼……」"
 
 [[dialogue]]
-speaker = "ヒルディオーネ"
+speaker_original = "ヒルディオーネ"
+speaker_translation = "힐디오네"
 original = "「あら、どこに行かれるのですか、学園長？\u3000帰還の準備ができるまで待機のはずでは？」"
 translation = "「어라, 어디 가시는 건가요, 학원장님? 귀환 준비가 될 때까지 대기해야 할 텐데요?」"
 
 [[dialogue]]
-speaker = "ラティエ"
+speaker_original = "ラティエ"
+speaker_translation = "라티에"
 original = "「ああ、わかっているよ。だがこんな旧い神殿を訪れる機会はそうないし、せっかくだから探索しようと思ってね」"
 translation = "「아아, 알고 있네. 하지만 이런 오래된 신전을 방문할 기회는 흔치 않으니 이왕 온 김에 탐색 좀 해볼까 해서 말이지.」"
 
 [[dialogue]]
-speaker = "ヒルディオーネ"
+speaker_original = "ヒルディオーネ"
+speaker_translation = "힐디오네"
 original = "「なるほど、それなら私もご一緒したいところですわ」"
 translation = "「과연, 그렇다면 저도 동행하고 싶군요.」"
 
 [[dialogue]]
-speaker = "ヒルディオーネ"
+speaker_original = "ヒルディオーネ"
+speaker_translation = "힐디오네"
 original = "「ですが……まさかそのまま旅に出ようとお考えではありませんわよね？」"
 translation = "「하지만…… 설마 그대로 여행을 떠나실 생각은 아니시겠죠?」"
 
 [[dialogue]]
-speaker = "ラティエ"
+speaker_original = "ラティエ"
+speaker_translation = "라티에"
 original = "「ははは」"
 translation = "「하하하.」"
 
 [[dialogue]]
-speaker = "ヒルディオーネ"
+speaker_original = "ヒルディオーネ"
+speaker_translation = "힐디오네"
 original = "「『ははは』ではありませんわ！\u3000図星ではありませんの！」"
 translation = "「『하하하』가 아닙니다! 정곡을 찔리신 거 아닌가요!」"
 
 [[dialogue]]
-speaker = "イレーナ"
+speaker_original = "イレーナ"
+speaker_translation = "이레이나"
 original = "「ラティエ学園長を逃がしてはならないと、教皇庁に言い含められておりますので。大人しくしていてくださいね」"
 translation = "「라티에 학원장님을 놓쳐서는 안 된다고 교황청에서 단단히 일러두었으니까요. 얌전히 계셔주세요.」"
 
 [[dialogue]]
-speaker = "ラティエ"
+speaker_original = "ラティエ"
+speaker_translation = "라티에"
 original = "「おや、教皇庁にも目を付けられていたか。困ったものだ」"
 translation = "「이런, 교황청에서도 눈독을 들이고 있었나. 곤란하게 됐군.」"
 
 [[dialogue]]
-speaker = "ヒルディオーネ"
+speaker_original = "ヒルディオーネ"
+speaker_translation = "힐디오네"
 original = "「それはこちらのセリフですわ！\u3000絶対に逃がしませんからね！」"
 translation = "「그건 저희가 할 소리입니다! 절대로 놓치지 않을 거니까요!」"
 
 [[dialogue]]
-speaker = "カヤ"
+speaker_original = "カヤ"
+speaker_translation = "카야"
 original = "「任務完了。……ふぅ」"
 translation = "「임무 완료. ……후우」"
 
 [[dialogue]]
-speaker = "カヤ"
+speaker_original = "カヤ"
+speaker_translation = "카야"
 original = "「後は世界樹が開くまで待機。向こうに洞穴がある。寒さがマシになる」"
 translation = "「남은 건 세계수가 열릴 때까지 대기. 저쪽에 동굴이 있어. 추위가 좀 덜할 거야」"
 
 [[dialogue]]
-speaker = "サーシャ"
+speaker_original = "サーシャ"
+speaker_translation = "사샤"
 original = "「よく知ってるのね。ズヴィエダの子じゃないのに」"
 translation = "「잘 알고 있네. 즈비에다의 아이도 아니면서」"
 
 [[dialogue]]
-speaker = "カヤ"
+speaker_original = "カヤ"
+speaker_translation = "카야"
 original = "「この神殿は私が発見した。魔界の調査も私の任務だったから」"
 translation = "「이 신전은 내가 발견했어. 마계 조사도 내 임무였으니까」"
 
 [[dialogue]]
-speaker = "サーシャ"
+speaker_original = "サーシャ"
+speaker_translation = "사샤"
 original = "「じゃあ守護天使を見つけられたのは、あなたのおかげなのね～。お礼に……ナデナデ♪」"
 translation = "「그럼 수호천사를 찾아낼 수 있었던 건 당신 덕분이겠네~. 보답으로…… 쓰담쓰담♪」"
 
 [[dialogue]]
-speaker = "カヤ"
+speaker_original = "カヤ"
+speaker_translation = "카야"
 original = "「撫でるな。鬱陶しい」"
 translation = "「쓰다듬지 마. 귀찮아」"
 
 [[dialogue]]
-speaker = "ソフィア"
+speaker_original = "ソフィア"
+speaker_translation = "소피아"
 original = "「そうなると姉さんはなかなか止まりませんよ。観念して、私の分まで撫でられてください」"
 translation = "「그렇게 되면 언니는 좀처럼 멈추지 않아요. 포기하고, 제 몫까지 쓰다듬을 당해주세요」"
 
 [[dialogue]]
-speaker = "サーシャ"
+speaker_original = "サーシャ"
+speaker_translation = "사샤"
 original = "「ナ～デナ～デ♪」"
 translation = "「쓰~담 쓰~담♪」"
 
 [[dialogue]]
-speaker = "カヤ"
+speaker_original = "カヤ"
+speaker_translation = "카야"
 original = "「むぅ……」"
 translation = "「으으……」"
 

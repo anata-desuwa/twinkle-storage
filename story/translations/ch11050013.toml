@@ -4,27 +4,32 @@ original = "第３話,ドキドキ相性診断,P"
 translation = "제3화, 두근두근 상성 진단"
 
 [[dialogue]]
-speaker = "ツェツィーリエ"
+speaker_original = "ツェツィーリエ"
+speaker_translation = "체칠리에"
 original = "「やっほ～、お堅い話はもう終わったのかな～？」"
 translation = "「야호~ 딱딱한 이야기는 다 끝난 거야~?」"
 
 [[dialogue]]
-speaker = "ウェンディ"
+speaker_original = "ウェンディ"
+speaker_translation = "웬디"
 original = "「ツェツィーリエ！？\u3000あなた、何をしに来たんですか！」"
 translation = "「체칠리에!? 당신 여기까지 뭘 하러 온 건가요!」"
 
 [[dialogue]]
-speaker = "ツェツィーリエ"
+speaker_original = "ツェツィーリエ"
+speaker_translation = "체칠리에"
 original = "「魔王ちゃんが基地に来てるって聞いたからお話ししにね。魔王ちゃん、やっほ～♪」"
 translation = "「마왕 짱이 기지에 와 있다는 소릴 들어서 이야기 좀 하려고. 마왕 짱, 야호~♪」"
 
 [[dialogue]]
-speaker = "ウェンディ"
+speaker_original = "ウェンディ"
+speaker_translation = "웬디"
 original = "「やめなさい、相手は大切なお客さんなんですよ！」"
 translation = "「그만둬요, 상대는 소중한 손님이라고요!」"
 
 [[dialogue]]
-speaker = "ツェツィーリエ"
+speaker_original = "ツェツィーリエ"
+speaker_translation = "체칠리에"
 original = "「そっか～、だったらちゃーんとおもてなししないとね。はい、アメちゃんをどーぞ」"
 translation = "「그렇구나~ 그럼 제대로 대접해야겠네. 자, 사탕 드세요.」"
 
@@ -34,27 +39,32 @@ original = "ありがとう、ツェツィ"
 translation = "고마워, 체칠."
 
 [[dialogue]]
-speaker = "ウェンディ"
+speaker_original = "ウェンディ"
+speaker_translation = "웬디"
 original = "「だからどうしてあなたはそんなに馴れ馴れしい……って、ツェツィ？\u3000２人は知り合いなんですか？」"
 translation = "「그러니까 왜 당신은 그렇게 넉살 좋게…… 아니, 체칠? 둘이 아는 사이인가요?」"
 
 [[dialogue]]
-speaker = "ツェツィーリエ"
+speaker_original = "ツェツィーリエ"
+speaker_translation = "체칠리에"
 original = "「たはは、実はそうなんだ。街で偶然出会ってね、それからもうすっかりマブダチだよん」"
 translation = "「타하하, 사실은 그래. 거리에서 우연히 만나서 그 뒤로 완전 베프지.」"
 
 [[dialogue]]
-speaker = "ウェンディ"
+speaker_original = "ウェンディ"
+speaker_translation = "웬디"
 original = "「いつの間にそんなことに……」"
 translation = "「어느새 그런 사이가……」"
 
 [[dialogue]]
-speaker = "ツェツィーリエ"
+speaker_original = "ツェツィーリエ"
+speaker_translation = "체칠리에"
 original = "「あらら？\u3000もしかしてウェンディ、アタシと魔王ちゃんが仲良しで妬いちゃってる？」"
 translation = "「어라라? 혹시 웬디, 나랑 마왕 짱이 친해서 질투하는 거야?」"
 
 [[dialogue]]
-speaker = "ウェンディ"
+speaker_original = "ウェンディ"
+speaker_translation = "웬디"
 original = "「ば、バカなことを言わないでください！」"
 translation = "「바, 바보 같은 소리 하지 마세요!」"
 
@@ -64,47 +74,56 @@ original = "２人はいいコンビだね"
 translation = "둘은 좋은 콤비네."
 
 [[dialogue]]
-speaker = "ウェンディ"
+speaker_original = "ウェンディ"
+speaker_translation = "웬디"
 original = "「とんでもありません！\u3000ツェツィーリエとは出会ってこの方ずっと敵対関係なんですから！」"
 translation = "「천만의 말씀입니다! 체칠리에와는 만난 이래 쭉 적대 관계니까요!」"
 
 [[dialogue]]
-speaker = "ウェンディ"
+speaker_original = "ウェンディ"
+speaker_translation = "웬디"
 original = "「この子のおかげで、私がいつもどれだけ迷惑をかけられていると思いますか？」"
 translation = "「이 아이 때문에 제가 평소에 얼마나 고생하는지 아세요?」"
 
 [[dialogue]]
-speaker = "ツェツィーリエ"
+speaker_original = "ツェツィーリエ"
+speaker_translation = "체칠리에"
 original = "「アタシ、ウェンディに迷惑なんてかけてないよ？」"
 translation = "「나 웬디한테 폐 끼친 적 없는데?」"
 
 [[dialogue]]
-speaker = "ウェンディ"
+speaker_original = "ウェンディ"
+speaker_translation = "웬디"
 original = "「どの口が言うんですか！\u3000毎度毎度、いきなりとんでもない額の請求書を持ってきて、この金食い虫！」"
 translation = "「그 입이 그런 말을 하나요! 매번 갑자기 말도 안 되는 금액의 청구서를 가져오는 이 돈 벌레!」"
 
 [[dialogue]]
-speaker = "ツェツィーリエ"
+speaker_original = "ツェツィーリエ"
+speaker_translation = "체칠리에"
 original = "「えー、でも役に立つ発明だってしてるでしょ？」"
 translation = "「에이, 그래도 도움 되는 발명도 하잖아?」"
 
 [[dialogue]]
-speaker = "ウェンディ"
+speaker_original = "ウェンディ"
+speaker_translation = "웬디"
 original = "「それは、まあ……この基地の設備の大部分はあなたが設計したものではありますけど」"
 translation = "「그건 뭐…… 이 기지 설비의 대부분은 당신이 설계한 것이긴 하지만요.」"
 
 [[dialogue]]
-speaker = "ウェンディ"
+speaker_original = "ウェンディ"
+speaker_translation = "웬디"
 original = "「腕は確かなんですよね、憎らしいことに……ですが少しは採算というものを考えて欲しいです」"
 translation = "「실력은 확실하단 말이죠, 얄밉게도…… 하지만 조금은 채산성이라는 걸 생각했으면 좋겠어요.」"
 
 [[dialogue]]
-speaker = "ツェツィーリエ"
+speaker_original = "ツェツィーリエ"
+speaker_translation = "체칠리에"
 original = "「ウェンディという尊い犠牲の上に、技術の進歩は成り立っているのだよ。惜しいヒトを亡くしたものだ、チーン……」"
 translation = "「웬디라는 숭고한 희생 위에 기술의 진보는 성립되는 법이야. 아까운 사람을 잃었군, 땡……」"
 
 [[dialogue]]
-speaker = "ウェンディ"
+speaker_original = "ウェンディ"
+speaker_translation = "웬디"
 original = "「勝手に葬らないでください！」"
 translation = "「마음대로 장례 치르지 마세요!」"
 
@@ -114,107 +133,128 @@ original = "やっぱり相性抜群だね"
 translation = "역시 찰떡궁합이네."
 
 [[dialogue]]
-speaker = "ウェンディ"
+speaker_original = "ウェンディ"
+speaker_translation = "웬디"
 original = "「どこがですか！\u3000むしろ相性最悪じゃないですか！」"
 translation = "「어디가요! 오히려 상성 최악이잖아요!」"
 
 [[dialogue]]
-speaker = "ツェツィーリエ"
+speaker_original = "ツェツィーリエ"
+speaker_translation = "체칠리에"
 original = "「それはどうだろうねぇ？\u3000実際どうなのか確かめてみよっか」"
 translation = "「그건 어떨까나? 실제로 어떤지 확인해 볼까.」"
 
 [[dialogue]]
-speaker = "ウェンディ"
+speaker_original = "ウェンディ"
+speaker_translation = "웬디"
 original = "「はぁ？」"
 translation = "「네?」"
 
 [[dialogue]]
-speaker = "ツェツィーリエ"
+speaker_original = "ツェツィーリエ"
+speaker_translation = "체칠리에"
 original = "「待ってね、すぐに作るから」"
 translation = "「기다려봐, 금방 만들 테니까.」"
 
 [[dialogue]]
-speaker = "ツェツィーリエ"
+speaker_original = "ツェツィーリエ"
+speaker_translation = "체칠리에"
 original = "「はい完成、相性診断機～♪」"
 translation = "「자 완성, 상성 진단기~♪」"
 
 [[dialogue]]
-speaker = "ウェンディ"
+speaker_original = "ウェンディ"
+speaker_translation = "웬디"
 original = "「相変わらず化け物じみてますね……こんなものをあっという間に作ってしまうなんて」"
 translation = "「여전히 괴물 같네요…… 이런 걸 눈 깜짝할 사이에 만들어 버리다니.」"
 
 [[dialogue]]
-speaker = "ツェツィーリエ"
+speaker_original = "ツェツィーリエ"
+speaker_translation = "체칠리에"
 original = "「そんなに褒めんなし。じゃ、２人とも指をこのクリップに挟んでみよ～」"
 translation = "「그렇게 칭찬하지 마셔. 자, 둘 다 손가락을 이 클립에 끼워봐~」"
 
 [[dialogue]]
-speaker = "ウェンディ"
+speaker_original = "ウェンディ"
+speaker_translation = "웬디"
 original = "「私と会長さんがやるんですか？」"
 translation = "「저랑 회장님이 하는 건가요?」"
 
 [[dialogue]]
-speaker = "ツェツィーリエ"
+speaker_original = "ツェツィーリエ"
+speaker_translation = "체칠리에"
 original = "「他に誰と誰がやるの」"
 translation = "「그럼 누구랑 누가 해.」"
 
 [[dialogue]]
-speaker = "ウェンディ"
+speaker_original = "ウェンディ"
+speaker_translation = "웬디"
 original = "「私とあなたじゃないんです？」"
 translation = "「저랑 당신 아니에요?」"
 
 [[dialogue]]
-speaker = "ツェツィーリエ"
+speaker_original = "ツェツィーリエ"
+speaker_translation = "체칠리에"
 original = "「たはは、そんなの測るまでもなく最悪に決まってるじゃん」"
 translation = "「타하하, 그런 건 잴 필요도 없이 최악일 게 뻔하잖아.」"
 
 [[dialogue]]
-speaker = "ウェンディ"
+speaker_original = "ウェンディ"
+speaker_translation = "웬디"
 original = "「じゃあ何のために作ったんですか！」"
 translation = "「그럼 뭘 위해서 만든 거예요!」"
 
 [[dialogue]]
-speaker = "ツェツィーリエ"
+speaker_original = "ツェツィーリエ"
+speaker_translation = "체칠리에"
 original = "「まあまあ、２人の相性を調べてみるのも面白そうじゃない？」"
 translation = "「뭐 어때, 둘의 상성을 알아보는 것도 재밌을 것 같지 않아?」"
 
 [[dialogue]]
-speaker = "ウェンディ"
+speaker_original = "ウェンディ"
+speaker_translation = "웬디"
 original = "「あ～、もういいです。……申し訳ありませんが、会長さんも少し付き合ってあげてくれませんか？」"
 translation = "「아~ 정말 됐어요. ……죄송하지만 회장님도 잠깐만 어울려 주시겠어요?」"
 
 [[dialogue]]
-speaker = "ツェツィーリエ"
+speaker_original = "ツェツィーリエ"
+speaker_translation = "체칠리에"
 original = "「あれ～？\u3000なんだかんだ言いながら、魔王ちゃんとの相性気になってる？」"
 translation = "「어라라~? 이러쿵저러쿵 말하면서 마왕 짱과의 상성이 궁금한 거야?」"
 
 [[dialogue]]
-speaker = "ウェンディ"
+speaker_original = "ウェンディ"
+speaker_translation = "웬디"
 original = "「反応しませんよ、面倒くさいですから……ほら、さっさと終わらせてください」"
 translation = "「반응 안 해요, 귀찮으니까…… 자, 빨리 끝내주세요.」"
 
 [[dialogue]]
-speaker = "ツェツィーリエ"
+speaker_original = "ツェツィーリエ"
+speaker_translation = "체칠리에"
 original = "「オッケー♪\u3000気になる数値は……だだだだだだ、だんっ♪」"
 translation = "「오케이♪ 궁금한 수치는…… 두두두두둥♪」"
 
 [[dialogue]]
-speaker = "ツェツィーリエ"
+speaker_original = "ツェツィーリエ"
+speaker_translation = "체칠리에"
 original = "「はいっ、出ました！\u3000８８点！」"
 translation = "「자! 나왔어! 88점!」"
 
 [[dialogue]]
-speaker = "ウェンディ"
+speaker_original = "ウェンディ"
+speaker_translation = "웬디"
 original = "「あれ？\u3000結構高得点、ですか……？」"
 translation = "「어라? 꽤 고득점, 인가요……?」"
 
 [[dialogue]]
-speaker = "ツェツィーリエ"
+speaker_original = "ツェツィーリエ"
+speaker_translation = "체칠리에"
 original = "「え～、面白くない。５２点とか微妙な点数が出てメソメソするウェンディが見たかった～！」"
 translation = "「에이, 재미없어. 52점 같은 미묘한 점수가 나와서 훌쩍거리는 웬디가 보고 싶었는데~!」"
 
 [[dialogue]]
-speaker = "ウェンディ"
+speaker_original = "ウェンディ"
+speaker_translation = "웬디"
 original = "「そんな文句を言われても困るんですが……」"
 translation = "「그런 소릴 들어도 곤란합니다만……」"
 
@@ -224,37 +264,44 @@ original = "じゃ今度はツェツィがやってみる？"
 translation = "그럼 이번엔 체칠이 해볼래?"
 
 [[dialogue]]
-speaker = "ツェツィーリエ"
+speaker_original = "ツェツィーリエ"
+speaker_translation = "체칠리에"
 original = "「え？\u3000アタシと魔王ちゃんが？」"
 translation = "「에? 나랑 마왕 짱이?」"
 
 [[dialogue]]
-speaker = "ウェンディ"
+speaker_original = "ウェンディ"
+speaker_translation = "웬디"
 original = "「いいじゃないですか。いつも人のことを実験体にしてるんです。たまには自分でやってみるのも」"
 translation = "「좋지 않나요. 맨날 남을 실험체로 삼으면서 본인도 가끔은 해봐야죠.」"
 
 [[dialogue]]
-speaker = "ツェツィーリエ"
+speaker_original = "ツェツィーリエ"
+speaker_translation = "체칠리에"
 original = "「え～、それはどうかな～。たはは、何ていうか～、ちょっとね～……」"
 translation = "「에~ 그건 좀 어떨까나~. 타하하, 뭐랄까~ 좀 그런데~……」"
 
 [[dialogue]]
-speaker = "ウェンディ"
+speaker_original = "ウェンディ"
+speaker_translation = "웬디"
 original = "「おや、恥ずかしいんですか？\u3000あなたにしては珍しい反応ですけど」"
 translation = "「어라, 부끄러우신가요? 당신답지 않은 반응인데요.」"
 
 [[dialogue]]
-speaker = "ツェツィーリエ"
+speaker_original = "ツェツィーリエ"
+speaker_translation = "체칠리에"
 original = "「ち、ちがうんだよ！\u3000アタシと魔王ちゃんの相性、良すぎてこの計器じゃ測りきれないと思うから……」"
 translation = "「아, 아니야! 나랑 마왕 짱의 상성, 너무 좋아서 이 계측기로는 다 못 잴 것 같으니까……」"
 
 [[dialogue]]
-speaker = "ツェツィーリエ"
+speaker_original = "ツェツィーリエ"
+speaker_translation = "체칠리에"
 original = "「だから、アタシと魔王ちゃんの相性は研究室でゆーっくり測ってきまーす<emoji=heart04>」"
 translation = "「그러니까 나랑 마왕 짱의 상성은 연구실에서 천천~히 재고 올게❤️」"
 
 [[dialogue]]
-speaker = "ウェンディ"
+speaker_original = "ウェンディ"
+speaker_translation = "웬디"
 original = "「な……会長さんを連れ込む気ですか！？\u3000ちょっと待ちなさい！\u3000外交問題になったらどーするんですかーっ！！！！」"
 translation = "「뭐…… 회장님을 끌어들일 셈이에요!? 잠깐 기다려요! 외교 문제가 되면 어쩔 거예요!!!!」"
 

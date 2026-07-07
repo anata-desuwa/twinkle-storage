@@ -1,70 +1,84 @@
 [[dialogue]]
-speaker = "コハルコ（覚醒）"
+speaker_original = "コハルコ（覚醒）"
+speaker_translation = "쿠하루코(각성)"
 original = "「トレーニングに付き合ってくれてありがとう。さすが会長さん、強かったね」"
 translation = "「트레이닝에 어울려줘서 고마워. 역시 회장님, 강하네.」"
 
 [[dialogue]]
-speaker = "レイラ"
+speaker_original = "レイラ"
+speaker_translation = "레이라"
 original = "「ありがとうございました。はぁ……星術の制御に神経使ってくたくた……汗だくになっちゃいました。シャワー浴びてこようっと」"
 translation = "「감사했습니다. 하아…… 성술 제어에 신경 썼더니 녹초가…… 땀범벅이 되어버렸네요. 샤워하고 와야지.」"
 
 [[dialogue]]
-speaker = "コハルコ（覚醒）"
+speaker_original = "コハルコ（覚醒）"
+speaker_translation = "쿠하루코(각성)"
 original = "「あ、私もシャワー浴びたいな。一緒に行こ、レイラ」"
 translation = "「아, 나도 샤워하고 싶다. 같이 가자, 레이라.」"
 
 [[dialogue]]
-speaker = "コハルコ（覚醒）"
+speaker_original = "コハルコ（覚醒）"
+speaker_translation = "쿠하루코(각성)"
 original = "「そういえば、この前言ってたマザボ買ったの？\u3000組んだら見せてよ」"
 translation = "「그러고 보니, 저번에 말했던 메인보드 샀어? 조립하면 보여줘.」"
 
 [[dialogue]]
-speaker = "レイラ"
+speaker_original = "レイラ"
+speaker_translation = "레이라"
 original = "「それがですね、結局買ったんですけど、直後に値下がりしてモヤっちゃって、組むモチベまで下がってしまいました」"
 translation = "「그게 말이죠, 결국 샀는데 직후에 가격이 내려가서 찝찝해지는 바람에, 조립할 의욕까지 떨어져 버렸습니다.」"
 
 [[dialogue]]
-speaker = "コハルコ（覚醒）"
+speaker_original = "コハルコ（覚醒）"
+speaker_translation = "쿠하루코(각성)"
 original = "「あー、あるある。実家がＰＣショップなのに言うのもなんだけど、ＰＣパーツって買い時難しいよね」"
 translation = "「아~ 있지 그런 거. 본가가 PC 샵인데 이런 말 하긴 좀 그렇지만, PC 부품은 살 타이밍이 참 어렵단 말이지.」"
 
 [[dialogue]]
-speaker = "レイラ"
+speaker_original = "レイラ"
+speaker_translation = "레이라"
 original = "「ですよねー。ＰＣ自作とは後悔することと見つけたり……」"
 translation = "「그쵸~. PC 자작이란 후회하는 것임을 깨달았나니……」"
 
 [[dialogue]]
-speaker = "コハルコ（覚醒）"
+speaker_original = "コハルコ（覚醒）"
+speaker_translation = "쿠하루코(각성)"
 original = "「ん？\u3000どうしたの、会長さん？\u3000……レイラと仲がいいって？」"
 translation = "「응? 왜 그래, 회장님? ……레이라랑 사이가 좋다고?」"
 
 [[dialogue]]
-speaker = "コハルコ（覚醒）"
+speaker_original = "コハルコ（覚醒）"
+speaker_translation = "쿠하루코(각성)"
 original = "「ハッカーでＰＣ自作が趣味って、ドンピシャだからね。そりゃあ仲良くなるよ」"
 translation = "「해커에 PC 자작이 취미라니, 딱 들어맞으니까. 당연히 친해지지.」"
 
 [[dialogue]]
-speaker = "コハルコ（覚醒）"
+speaker_original = "コハルコ（覚醒）"
+speaker_translation = "쿠하루코(각성)"
 original = "「命を狙われたっていっても、ハッカー活動でもっとドス黒い悪党を見てきたから、それくらいかわいいものだし」"
 translation = "「목숨을 위협받았다고는 해도, 해커 활동으로 더 시커먼 악당들을 봐왔으니까, 그 정도면 귀여운 수준이고.」"
 
 [[dialogue]]
-speaker = "レイラ"
+speaker_original = "レイラ"
+speaker_translation = "레이라"
 original = "「その節は大変ご迷惑おかけしました……」"
 translation = "「그때는 정말 큰 폐를 끼쳤습니다……」"
 
 [[dialogue]]
-speaker = "レイラ"
+speaker_original = "レイラ"
+speaker_translation = "레이라"
 original = "「でもその悪党はことごとくジャスティスウィザードに沈められているわけですよね。恐ろしや……」"
 translation = "「하지만 그 악당들은 죄다 저스티스 위저드에게 침몰당하고 있는 거잖아요. 무서워라……」"
 
 [[dialogue]]
-speaker = "コハルコ（覚醒）"
+speaker_original = "コハルコ（覚醒）"
+speaker_translation = "쿠하루코(각성)"
 original = "「ただし！\u3000ネットでジャスティスウィザードって名前付けたのは許してないから！」"
 translation = "「단! 인터넷에 저스티스 위저드라는 이름을 붙인 건 용서 못 하니까!」"
 
 [[dialogue]]
-speaker = "レイラ"
+speaker_original = "レイラ"
+speaker_translation = "레이라"
 original = "「え～、ジャスティスウィザードかっこいいのに……」"
 translation = "「에~ 저스티스 위저드 멋있는데……」"
 

@@ -4,27 +4,32 @@ original = "第２話,魔王軍結成！？,P"
 translation = "제2화, 마왕군 결성!?, P"
 
 [[dialogue]]
-speaker = "カティア"
+speaker_original = "カティア"
+speaker_translation = "카티아"
 original = "「魔王には強力な軍勢が不可欠──というわけで人材をスカウトしましょう！」"
 translation = "「마왕에게는 강력한 군세가 필수── 그런 고로 인재를 스카우트하죠!」"
 
 [[dialogue]]
-speaker = "カティア"
+speaker_original = "カティア"
+speaker_translation = "카티아"
 original = "「もちろん一番のしもべはこのカティアですが、ゆくゆくは四天王とか七将軍とか作りたいですよね～♪\u3000メンバーには心当たりがあって──」"
 translation = "「물론 최고의 하인은 이 카티아입니다만, 조만간 사천왕이라든가 칠장군 같은 것도 만들고 싶네요～♪ 멤버로 짐작 가는 곳이 있어서──」"
 
 [[dialogue]]
-speaker = "カティア"
+speaker_original = "カティア"
+speaker_translation = "카티아"
 original = "（あ、ほら、あそこ。マリーベル先輩です）"
 translation = "「(아, 보세요, 저기. 마리벨 선배예요)」"
 
 [[dialogue]]
-speaker = "カティア"
+speaker_original = "カティア"
+speaker_translation = "카티아"
 original = "（ブラッディ・マリーですよ、ブラッディ・マリー！\u3000異名が血まみれとか超かっこいいじゃないですか！）"
 translation = "「(블러디 메리라고요, 블러디 메리! 이명이 피투성이라니 엄청 멋지지 않나요!)」"
 
 [[dialogue]]
-speaker = "カティア"
+speaker_original = "カティア"
+speaker_translation = "카티아"
 original = "（それに変身したら黒くて赤くてワルカッコイイですし。悪の幹部みたいだと思いません？）"
 translation = "「(게다가 변신하면 검고 붉어서 악당처럼 멋지고요. 악의 간부 같다고 생각하지 않으세요?)」"
 
@@ -34,52 +39,62 @@ original = "確かに悪そう……"
 translation = "「확실히 나빠 보이네……」"
 
 [[dialogue]]
-speaker = "マリーベル"
+speaker_original = "マリーベル"
+speaker_translation = "메리벨"
 original = "「…………」"
 translation = "「…………」"
 
 [[dialogue]]
-speaker = "モネ"
+speaker_original = "モネ"
+speaker_translation = "모네"
 original = "「今日の仕事はー、返却された本を書架に戻してー、修理する本を集めてー……あとは図書館だよりを……」"
 translation = "「오늘 할 일은─, 반납된 책을 서가로 돌려놓고─, 수리할 책을 모으고─…… 나머지는 도서관 소식지를……」"
 
 [[dialogue]]
-speaker = "カティア"
+speaker_original = "カティア"
+speaker_translation = "카티아"
 original = "（じっと見てるのはモネ先輩……ですかね？\u3000図書委員に何か用があるんでしょうか？）"
 translation = "「(지시하고 있는 건 모네 선배……일까요? 도서위원에게 무슨 용무라도 있는 걸까요?)」"
 
 [[dialogue]]
-speaker = "マリーベル"
+speaker_original = "マリーベル"
+speaker_translation = "메리벨"
 original = "「………………」"
 translation = "「………………」"
 
 [[dialogue]]
-speaker = "カティア"
+speaker_original = "カティア"
+speaker_translation = "카티아"
 original = "（あの鋭い視線……う～ん、怪しすぎます。まさかマリーベル先輩はモネ先輩に何かするつもりじゃ……！？）"
 translation = "「(저 날카로운 시선…… 으음, 너무 수상해요. 설마 마리벨 선배는 모네 선배에게 무슨 짓을 하려는 게……!?)」"
 
 [[dialogue]]
-speaker = "モネ"
+speaker_original = "モネ"
+speaker_translation = "모네"
 original = "「修理する本はこれと、これと、これと……」"
 translation = "「수리할 책은 이거랑, 이거랑, 이거랑……」"
 
 [[dialogue]]
-speaker = "モネ"
+speaker_original = "モネ"
+speaker_translation = "모네"
 original = "「よっこいしょっと。あ、思ったより重い──」"
 translation = "「영차. 아, 생각보다 무겁네──」"
 
 [[dialogue]]
-speaker = "モネ"
+speaker_original = "モネ"
+speaker_translation = "모네"
 original = "「わわっ！？」"
 translation = "「와왓!?」"
 
 [[dialogue]]
-speaker = "マリーベル"
+speaker_original = "マリーベル"
+speaker_translation = "메리벨"
 original = "「何してるの。図書委員なんだからしっかりしなさい」"
 translation = "「뭐 하는 거야. 도서위원이니까 똑바로 해」"
 
 [[dialogue]]
-speaker = "モネ"
+speaker_original = "モネ"
+speaker_translation = "모네"
 original = "「ひゃっ！？」"
 translation = "「히익!?」"
 
@@ -89,67 +104,80 @@ original = "（モネを助けた！？）"
 translation = "「(모네를 도와줬어!?)」"
 
 [[dialogue]]
-speaker = "モネ"
+speaker_original = "モネ"
+speaker_translation = "모네"
 original = "「あ、あ、あ、ありがとうございますす……」"
 translation = "「가, 가, 가, 감사합니다아……」"
 
 [[dialogue]]
-speaker = "マリーベル"
+speaker_original = "マリーベル"
+speaker_translation = "메리벨"
 original = "「たまたまよ。私が人を助けるわけないでしょ」"
 translation = "「우연이야. 내가 남을 도와줄 리 없잖아」"
 
 [[dialogue]]
-speaker = "カティア"
+speaker_original = "カティア"
+speaker_translation = "카티아"
 original = "（え～～っ、たまたまじゃなくて思いっきり見てたじゃないですか～っ）"
 translation = "「(에～～엣, 우연이 아니라 대놓고 보고 있었잖아요～)」"
 
 [[dialogue]]
-speaker = "マリーベル"
+speaker_original = "マリーベル"
+speaker_translation = "메리벨"
 original = "「この本、カウンターまで持っていけばいいの？」"
 translation = "「이 책, 카운터까지 가져다주면 돼?」"
 
 [[dialogue]]
-speaker = "モネ"
+speaker_original = "モネ"
+speaker_translation = "모네"
 original = "「いえ、そこまでしてもらうわけには……」"
 translation = "「아니요, 거기까지 부탁드릴 수는……」"
 
 [[dialogue]]
-speaker = "マリーベル"
+speaker_original = "マリーベル"
+speaker_translation = "메리벨"
 original = "「図書館の本は生徒の共有財産だから。あなたが本を台無しにしてウィステリアさんに怒られようと構わないけど、いち生徒として被害を被るのはごめんよ」"
 translation = "「도서관 책은 학생의 공유 재산이니까. 당신이 책을 망쳐서 위스테리아 씨에게 혼나든 말든 상관없지만, 한 명의 학생으로서 피해를 입는 건 사양이야」"
 
 [[dialogue]]
-speaker = "モネ"
+speaker_original = "モネ"
+speaker_translation = "모네"
 original = "「じゃ、じゃあお願いします……」"
 translation = "「그, 그럼 부탁드립니다……」"
 
 [[dialogue]]
-speaker = "マリーベル"
+speaker_original = "マリーベル"
+speaker_translation = "메리벨"
 original = "「ふぅ。これで終わりでいいのよね？」"
 translation = "「후우. 이걸로 끝이면 되는 거지?」"
 
 [[dialogue]]
-speaker = "モネ"
+speaker_original = "モネ"
+speaker_translation = "모네"
 original = "「ひゃ、ひゃいっ、ありがとうございましたっ」"
 translation = "「히, 히익, 감사합니다아」"
 
 [[dialogue]]
-speaker = "マリーベル"
+speaker_original = "マリーベル"
+speaker_translation = "메리벨"
 original = "「助けたわけじゃないって言ってるでしょ。じゃ、私行くから」"
 translation = "「도와준 게 아니라고 말했잖아. 그럼, 나 갈게」"
 
 [[dialogue]]
-speaker = "マリーベル"
+speaker_original = "マリーベル"
+speaker_translation = "메리벨"
 original = "「で……カティアさんは私に何か用？」"
 translation = "「그래서…… 카티아 씨는 나한테 무슨 용무야?」"
 
 [[dialogue]]
-speaker = "カティア"
+speaker_original = "カティア"
+speaker_translation = "카티아"
 original = "「わっ、見つかった！？」"
 translation = "「왓, 들켰다!?」"
 
 [[dialogue]]
-speaker = "マリーベル"
+speaker_original = "マリーベル"
+speaker_translation = "메리벨"
 original = "「カティアさんの声がひそひそ聞こえてきてたわよ。図書館は静かだから」"
 translation = "「카티아 씨의 목소리가 소곤소곤 들려왔어. 도서관은 조용하니까」"
 
@@ -159,32 +187,38 @@ original = "カティアはマリーベルと知り合い？"
 translation = "「카티아는 마리벨과 아는 사이야?」"
 
 [[dialogue]]
-speaker = "カティア"
+speaker_original = "カティア"
+speaker_translation = "카티아"
 original = "「はい。私、校門前の花壇のお世話してるじゃないですか。マリーベル先輩が時々手伝ってくれるんですよ」"
 translation = "「네! 저, 교문 앞의 화단을 돌보고 있잖아요. 마리벨 선배가 가끔 도와주시거든요」"
 
 [[dialogue]]
-speaker = "カティア"
+speaker_original = "カティア"
+speaker_translation = "카티아"
 original = "「うーん、このスコップもう限界かな……でもお小遣いがピンチ……」"
 translation = "「으음, 이 삽도 이제 한계인가…… 하지만 용돈이 위기……」"
 
 [[dialogue]]
-speaker = "マリーベル"
+speaker_original = "マリーベル"
+speaker_translation = "메리벨"
 original = "「これあげる」"
 translation = "「이거 줄게」"
 
 [[dialogue]]
-speaker = "カティア"
+speaker_original = "カティア"
+speaker_translation = "카티아"
 original = "「いいんですか？」"
 translation = "「이거 받아도 되나요?」"
 
 [[dialogue]]
-speaker = "マリーベル"
+speaker_original = "マリーベル"
+speaker_translation = "메리벨"
 original = "「間違えて家から持ってきてしまったの。実家では庭の手入れをしてたけど、こっちでは使わないから」"
 translation = "「실수로 집에서 가져와 버렸어. 본가에서는 정원 손질을 했지만, 여기서는 안 쓰니까」"
 
 [[dialogue]]
-speaker = "カティア"
+speaker_original = "カティア"
+speaker_translation = "카티아"
 original = "「って、ことがありまして」"
 translation = "「라는, 일이 있었거든요」"
 
@@ -194,47 +228,56 @@ original = "（マリーベルって実は優しい……？）"
 translation = "「(마리벨은 사실 상냥한 건가……?)」"
 
 [[dialogue]]
-speaker = "マリーベル"
+speaker_original = "マリーベル"
+speaker_translation = "메리벨"
 original = "「ガーデニングはイギリス人の嗜みみたいなものだから。まぁ、気が向いた時だけだけど」"
 translation = "「가드닝은 영국인의 소양 같은 거니까. 뭐, 내킬 때뿐이지만」"
 
 [[dialogue]]
-speaker = "カティア"
+speaker_original = "カティア"
+speaker_translation = "카티아"
 original = "「またまた～。こまめに様子見てるの知ってますよ。お花好きなんですね♪」"
 translation = "「또 그러신다～. 꼬박꼬박 살피시는 거 알고 있다고요. 꽃을 좋아하시네요♪」"
 
 [[dialogue]]
-speaker = "マリーベル"
+speaker_original = "マリーベル"
+speaker_translation = "메리벨"
 original = "「……そういうのはいいから。用件は何？\u3000会長さんと花の話をしに来たわけじゃないでしょう」"
 translation = "「……그런 건 됐으니까. 용건은 뭐야? 회장님과 꽃 이야기를 하러 온 건 아닐 거 아냐」"
 
 [[dialogue]]
-speaker = "カティア"
+speaker_original = "カティア"
+speaker_translation = "카티아"
 original = "「はい！\u3000実はマリーベル先輩を魔王軍にスカウトしたいと思いまして！」"
 translation = "「네! 사실은 마리벨 선배를 마왕군으로 스카우트하고 싶어서요!」"
 
 [[dialogue]]
-speaker = "マリーベル"
+speaker_original = "マリーベル"
+speaker_translation = "메리벨"
 original = "「……は？」"
 translation = "「……하?」"
 
 [[dialogue]]
-speaker = "カティア"
+speaker_original = "カティア"
+speaker_translation = "카티아"
 original = "「世界征服のために、魔王様にふさわしい、強くて悪い部下を集めてるんですよ。さぁ、マリーベル先輩も魔王様のもとで充実した世界征服ライフを送りませんか？」"
 translation = "「세계 정복을 위해서, 마왕님께 어울리는, 강하고 나쁜 부하를 모으고 있거든요. 자, 마리벨 선배도 마왕님 밑에서 충실한 세계 정복 라이프를 보내지 않으시겠어요?」"
 
 [[dialogue]]
-speaker = "マリーベル"
+speaker_original = "マリーベル"
+speaker_translation = "메리벨"
 original = "「魔王にも世界征服にも興味ないから他を当たってちょうだい。それに私なんか部下にしても不幸になるだけよ」"
 translation = "「마왕에게도 세계 정복에도 관심 없으니까 다른 데 알아봐 줘. 게다가 나 같은 걸 부하로 삼아봤자 불행해질 뿐이야」"
 
 [[dialogue]]
-speaker = "カティア"
+speaker_original = "カティア"
+speaker_translation = "카티아"
 original = "「きっぱり断られた！？」"
 translation = "「단칼에 거절당했다!?」"
 
 [[dialogue]]
-speaker = "カティア"
+speaker_original = "カティア"
+speaker_translation = "카티아"
 original = "「ごめんなさい、魔王様。お役に立てませんでした……」"
 translation = "「죄송해요, 마왕님. 도움이 되지 못했습니다……」"
 
@@ -244,27 +287,32 @@ original = "よしよし、大丈夫だよ"
 translation = "「착하지 착해, 괜찮아」"
 
 [[dialogue]]
-speaker = "カティア"
+speaker_original = "カティア"
+speaker_translation = "카티아"
 original = "「わふ～。魔王様はお優しいです～」"
 translation = "「와후～. 마왕님은 상냥하세요～」"
 
 [[dialogue]]
-speaker = "マリーベル"
+speaker_original = "マリーベル"
+speaker_translation = "메리벨"
 original = "「カティアさん、何かに似てると思っていたけど……あれね」"
 translation = "「카티아 씨, 뭔가를 닮았다고 생각했는데…… 그거네」"
 
 [[dialogue]]
-speaker = "カティア"
+speaker_original = "カティア"
+speaker_translation = "카티아"
 original = "「あれ？」"
 translation = "「그거요?」"
 
 [[dialogue]]
-speaker = "マリーベル"
+speaker_original = "マリーベル"
+speaker_translation = "메리벨"
 original = "「カティアさんを見てると、昔家で飼ってた犬を思い出すわ。元気で甘えん坊で……手のかかる子だけどかわいかった」"
 translation = "「카티아 씨를 보고 있으면, 예전에 집에서 기르던 개가 생각나. 활기차고 어리광쟁이에…… 손이 많이 가지만 귀여운 아이였지」"
 
 [[dialogue]]
-speaker = "カティア"
+speaker_original = "カティア"
+speaker_translation = "카티아"
 original = "「えええ～～～～っ！？\u3000私犬扱いですかーっ！？」"
 translation = "「에에에～～～～엣!? 저를 개 취급하시는 건가요─!?」"
 

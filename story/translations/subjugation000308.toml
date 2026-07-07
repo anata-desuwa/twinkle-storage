@@ -1,360 +1,432 @@
 [[dialogue]]
-speaker = "モネ"
+speaker_original = "モネ"
+speaker_translation = "모네"
 original = "「新しく入った本を書架に入れて……ふぅ、今日はこれで終わりかな」"
 translation = "「새로 들어온 책을 서가에 꽂고…… 후우, 오늘은 이걸로 끝인가.」"
 
 [[dialogue]]
-speaker = "モネ"
+speaker_original = "モネ"
+speaker_translation = "모네"
 original = "「出張図書コンシェルジュをやってるせいで最近忙しいけど、図書館に来てくれる人は増えてる気がする」"
 translation = "「출장 도서 컨시어지를 하는 탓에 요즘 바쁘지만, 도서관에 오는 사람은 늘어난 기분이야.」"
 
 [[dialogue]]
-speaker = "モネ"
+speaker_original = "モネ"
+speaker_translation = "모네"
 original = "「みんなも書庫でじっとしてるより、手に取って読んでもらう方がいいもんね。図書委員としてもっと頑張ろうっ。おー」"
 translation = "「모두들 서고에서 가만히 있는 것보다 손에 들려 읽히는 쪽이 더 좋을 테니까. 도서위원으로서 더 힘내자. 오─.」"
 
 [[dialogue]]
-speaker = "モネ"
+speaker_original = "モネ"
+speaker_translation = "모네"
 original = "「だけど最近、図書館でウィステリアさんを見ないような……」"
 translation = "「그렇지만 요즘 도서관에서 위스테리아 씨를 못 보는 것 같은데……」"
 
 [[dialogue]]
-speaker = "モネ"
+speaker_original = "モネ"
+speaker_translation = "모네"
 original = "「司書の仕事で忙しいのかな？\u3000でも図書館で見なくなるような仕事っていったい……」"
 translation = "「사서 일로 바쁘신 걸까? 하지만 도서관에서 안 보일 정도의 일이라니 대체……」"
 
 [[dialogue]]
-speaker = "モネ"
+speaker_original = "モネ"
+speaker_translation = "모네"
 original = "「あれ──」"
 translation = "「어라──」"
 
 [[dialogue]]
-speaker = "モネ"
+speaker_original = "モネ"
+speaker_translation = "모네"
 original = "「新星学園の図書館にこんな区画はなかったはず……まさか別の図書館？\u3000一瞬で移動した……？」"
 translation = "「신성학원 도서관에 이런 구역은 없었을 텐데…… 설마 다른 도서관? 순식간에 이동했나……?」"
 
 [[dialogue]]
-speaker = "モネ"
+speaker_original = "モネ"
+speaker_translation = "모네"
 original = "「いやいや、まさかそんな。とにかく新星学園の図書館に戻らないと……」"
 translation = "「아니 설마 그럴 리가. 아무튼 신성학원 도서관으로 돌아가야 해……」"
 
 [[dialogue]]
-speaker = "モネ"
+speaker_original = "モネ"
+speaker_translation = "모네"
 original = "「でも、こんなにたくさん本があるとワクワクしますね。それも知らない子ばかり」"
 translation = "「그치만 이렇게 많은 책이 있으니 설레네요. 그것도 모르는 아이들뿐.」"
 
 [[dialogue]]
-speaker = "モネ"
+speaker_original = "モネ"
+speaker_translation = "모네"
 original = "「……ちょっとくらいなら見てもいいよね？\u3000本だって読んでもらいたそうにしてるし……ごめんなさい、失礼しまーす」"
 translation = "「……잠시 정도라면 봐도 괜찮겠죠? 책들도 읽어달라는 것 같고…… 죄송합니다, 실례할게요─.」"
 
 [[dialogue]]
-speaker = "モネ"
+speaker_original = "モネ"
+speaker_translation = "모네"
 original = "「！？\u3000１文字も読めない……」"
 translation = "「!? 한 글자도 읽을 수 없어……」"
 
 [[dialogue]]
-speaker = "モネ"
+speaker_original = "モネ"
+speaker_translation = "모네"
 original = "「それどころかどこの文字かもわからない……魔界や天界の文字とも違う……この本はいったい……？」"
 translation = "「그뿐만 아니라 어느 나라 문자인지도 모르겠어…… 마계나 천계의 문자와도 달라…… 이 책은 대체……?」"
 
 [[dialogue]]
-speaker = "ウィステリア？"
+speaker_original = "ウィステリア？"
+speaker_translation = "위스테리아?"
 original = "「あら、侵入者かしら」"
 translation = "「어머, 침입자일까.」"
 
 [[dialogue]]
-speaker = "モネ"
+speaker_original = "モネ"
+speaker_translation = "모네"
 original = "「！\u3000ウィステリアさんもここにいたんですか。でもその姿は……」"
 translation = "「! 위스테리아 씨도 여기 계셨군요. 하지만 그 모습은……」"
 
 [[dialogue]]
-speaker = "ウィステリア？"
+speaker_original = "ウィステリア？"
+speaker_translation = "위스테리아?"
 original = "「誰、あなた？」"
 translation = "「누구야, 당신?」"
 
 [[dialogue]]
-speaker = "モネ"
+speaker_original = "モネ"
+speaker_translation = "모네"
 original = "「ええっ！？\u3000私です！\u3000図書委員の紙屋敷モネです！」"
 translation = "「에엣!? 저예요! 도서위원인 카미야시키 모네입니다!」"
 
 [[dialogue]]
-speaker = "ウィステリア？"
+speaker_original = "ウィステリア？"
+speaker_translation = "위스테리아?"
 original = "「知らないって言ってるでしょう。力なき者にここの書を読む資格はないわ。失せなさい」"
 translation = "「모른다고 했을 텐데. 힘없는 자에게 이곳의 글을 읽을 자격은 없어. 물러나렴.」"
 
 [[dialogue]]
-speaker = "モネ"
+speaker_original = "モネ"
+speaker_translation = "모네"
 original = "「そんな──！？」"
 translation = "「그럴 수가──!?」"
 
 [[dialogue]]
-speaker = "イクシリオン"
+speaker_original = "イクシリオン"
+speaker_translation = "익실리온"
 original = "「はぁっ──！」"
 translation = "「하앗──!」"
 
 [[dialogue]]
-speaker = "モネ"
+speaker_original = "モネ"
+speaker_translation = "모네"
 original = "「イクシーさん！？」"
 translation = "「익실 씨!?」"
 
 [[dialogue]]
-speaker = "イクシリオン"
+speaker_original = "イクシリオン"
+speaker_translation = "익실리온"
 original = "「お怪我はありませんか？」"
 translation = "「다치신 곳은 없나요?」"
 
 [[dialogue]]
-speaker = "モネ"
+speaker_original = "モネ"
+speaker_translation = "모네"
 original = "「大丈夫です、ありがとうございます。イクシーさんが助けてくれなかったら危ないところでした」"
 translation = "「괜찮아요, 감사합니다. 익실 씨가 도와주지 않았으면 위험할 뻔했어요.」"
 
 [[dialogue]]
-speaker = "モネ"
+speaker_original = "モネ"
+speaker_translation = "모네"
 original = "「でもあのウィステリアさんは……？」"
 translation = "「그치만 저 위스테리아 씨는……?」"
 
 [[dialogue]]
-speaker = "イクシリオン"
+speaker_original = "イクシリオン"
+speaker_translation = "익실리온"
 original = "「わかりません。気付いたら知らない図書館にいて、モネさんが襲われているようでしたので、助太刀いたしました」"
 translation = "「모르겠습니다. 정신을 차리니 모르는 도서관에 있었고, 모네 씨가 습격당하는 것 같아 도와드렸습니다.」"
 
 [[dialogue]]
-speaker = "ウィステリア？"
+speaker_original = "ウィステリア？"
+speaker_translation = "위스테리아?"
 original = "「知らないのがまた増えたわね。だけど何人来ようが敵じゃないわ」"
 translation = "「모르는 게 또 늘었네. 하지만 몇 명이 오든 적수가 안 돼.」"
 
 [[dialogue]]
-speaker = "イクシリオン"
+speaker_original = "イクシリオン"
+speaker_translation = "익실리온"
 original = "「何を言っているのかわかりませんが、敵には違いなさそうです。モネさんも気を付けてください」"
 translation = "「무슨 소린지 모르겠지만, 적이라는 점은 틀림없어 보입니다. 모네 씨도 조심하세요.」"
 
 [[dialogue]]
-speaker = "モネ"
+speaker_original = "モネ"
+speaker_translation = "모네"
 original = "「わ、わかりましたっ」"
 translation = "「아, 알겠습니다!」"
 
 [[dialogue]]
-speaker = "イクシリオン"
+speaker_original = "イクシリオン"
+speaker_translation = "익실리온"
 original = "「ウィステリアさんが正気を失っているのか、それとも幻影か……それがわかれば幾分か戦いやすくなるのですが」"
 translation = "「위스테리아 씨가 정신을 잃은 건지, 아니면 환영인지…… 그걸 안다면 훨씬 싸우기 편해지겠습니다만.」"
 
 [[dialogue]]
-speaker = "モネ"
+speaker_original = "モネ"
+speaker_translation = "모네"
 original = "「えっと……あのウィステリアさんはおそらく偽物だと思います」"
 translation = "「저기…… 저 위스테리아 씨는 아마 가짜라고 생각해요.」"
 
 [[dialogue]]
-speaker = "モネ"
+speaker_original = "モネ"
+speaker_translation = "모네"
 original = "「私、本の気持ちがわかるんですけど、あのウィステリアさんの本からは何も感じません。ですからあのウィステリアさんも……」"
 translation = "「저, 책의 기분을 알 수 있는데, 저 위스테리아 씨의 책에서는 아무것도 느껴지지 않아요. 그러니까 저 위스테리아 씨도……」"
 
 [[dialogue]]
-speaker = "イクシリオン"
+speaker_original = "イクシリオン"
+speaker_translation = "익실리온"
 original = "「なるほど。モネさんがそう仰るなら間違いないですね」"
 translation = "「과연. 모네 씨가 그렇게 말씀하신다면 틀림없겠군요.」"
 
 [[dialogue]]
-speaker = "イクシリオン"
+speaker_original = "イクシリオン"
+speaker_translation = "익실리온"
 original = "「であれば全力で迎撃します。モネさんは支援をお願いします」"
 translation = "「그렇다면 전력으로 요격하겠습니다. 모네 씨는 지원을 부탁드려요.」"
 
 [[dialogue]]
-speaker = "モネ"
+speaker_original = "モネ"
+speaker_translation = "모네"
 original = "「は、はい！\u3000本のみんなもいくよ」"
 translation = "「네, 네! 책 친구들도 가자!」"
 
 [[dialogue]]
-speaker = "ウィステリア？"
+speaker_original = "ウィステリア？"
+speaker_translation = "위스테리아?"
 original = "「消えなさい」"
 translation = "「사라지렴.」"
 
 [[dialogue]]
-speaker = "モネ"
+speaker_original = "モネ"
+speaker_translation = "모네"
 original = "「くぅぅっ……みんな、耐えて……！」"
 translation = "「크윽…… 모두들, 버텨줘……!」"
 
 [[dialogue]]
-speaker = "イクシリオン"
+speaker_original = "イクシリオン"
+speaker_translation = "익실리온"
 original = "「そこです！」"
 translation = "「거기입니다!」"
 
 [[dialogue]]
-speaker = "ウィステリア？"
+speaker_original = "ウィステリア？"
+speaker_translation = "위스테리아?"
 original = "「その程度で」"
 translation = "「고작 그 정도로.」"
 
 [[dialogue]]
-speaker = "イクシリオン"
+speaker_original = "イクシリオン"
+speaker_translation = "익실리온"
 original = "「モンスターであれば今ので十分なのですが……やはり一筋縄にはいきませんね」"
 translation = "「몬스터라면 방금 걸로 충분했을 텐데…… 역시 호락호락하지 않군요.」"
 
 [[dialogue]]
-speaker = "イクシリオン"
+speaker_original = "イクシリオン"
+speaker_translation = "익실리온"
 original = "「モネさん、提案があるのですが……ごにょごにょ、ごにょごにょ」"
 translation = "「모네 씨, 제안이 있습니다만…… 소근소근, 소근소근.」"
 
 [[dialogue]]
-speaker = "モネ"
+speaker_original = "モネ"
+speaker_translation = "모네"
 original = "「はい……はい……なるほど」"
 translation = "「네…… 네…… 과연.」"
 
 [[dialogue]]
-speaker = "イクシリオン"
+speaker_original = "イクシリオン"
+speaker_translation = "익실리온"
 original = "「できますか？」"
 translation = "「할 수 있겠나요?」"
 
 [[dialogue]]
-speaker = "モネ"
+speaker_original = "モネ"
+speaker_translation = "모네"
 original = "「自信はないですが……やってみますっ」"
 translation = "「자신은 없지만…… 해볼게요!」"
 
 [[dialogue]]
-speaker = "イクシリオン"
+speaker_original = "イクシリオン"
+speaker_translation = "익실리온"
 original = "「モネさんなら大丈夫ですよ。では……いきます！」"
 translation = "「모네 씨라면 괜찮아요. 그럼…… 갑니다!」"
 
 [[dialogue]]
-speaker = "イクシリオン"
+speaker_original = "イクシリオン"
+speaker_translation = "익실리온"
 original = "「燃え上がれ──ヒートヘイズダンス！」"
 translation = "「타올라라── 히트 헤이즈 댄스!」"
 
 [[dialogue]]
-speaker = "ウィステリア？"
+speaker_original = "ウィステリア？"
+speaker_translation = "위스테리아?"
 original = "「ふん。意志と力のない者に用はないわ。失せなさい」"
 translation = "「흥. 의지와 힘이 없는 자에게 볼일은 없어. 사라지렴.」"
 
 [[dialogue]]
-speaker = "ウィステリア？"
+speaker_original = "ウィステリア？"
+speaker_translation = "위스테리아?"
 original = "「！？」"
 translation = "「!?」"
 
 [[dialogue]]
-speaker = "イクシリオン"
+speaker_original = "イクシリオン"
+speaker_translation = "익실리온"
 original = "「ヒートヘイズ……すなわち<ruby>陽炎<rt>かげろう</rt></ruby>。今あなたが攻撃したのは幻です」"
 translation = "「히트 헤이즈…… 즉 아지랑이. 방금 당신이 공격한 건 환상입니다.」"
 
 [[dialogue]]
-speaker = "イクシリオン"
+speaker_original = "イクシリオン"
+speaker_translation = "익실리온"
 original = "「モネさん、力をひとつにしましょう。思い切りやってください！」"
 translation = "「모네 씨, 힘을 하나로 합치죠. 마음껏 해주세요!」"
 
 [[dialogue]]
-speaker = "モネ"
+speaker_original = "モネ"
+speaker_translation = "모네"
 original = "「はい、イクシーさんの星力、受け取りました」"
 translation = "「네, 익실 씨의 성력, 받았습니다.」"
 
 [[dialogue]]
-speaker = "モネ"
+speaker_original = "モネ"
+speaker_translation = "모네"
 original = "「本のみんなも力を貸して。──ヴァースオブフェネクス！！」"
 translation = "「책 친구들도 힘을 빌려줘. ──버스 오브 피닉스!!」"
 
 [[dialogue]]
-speaker = "ウィステリア？"
+speaker_original = "ウィステリア？"
+speaker_translation = "위스테리아?"
 original = "「きゃあああっ！？」"
 translation = "「꺄아아악!?」"
 
 [[dialogue]]
-speaker = "モネ"
+speaker_original = "モネ"
+speaker_translation = "모네"
 original = "「消えた……？」"
 translation = "「사라졌어……?」"
 
 [[dialogue]]
-speaker = "モネ"
+speaker_original = "モネ"
+speaker_translation = "모네"
 original = "「やった！\u3000やりましたぁっ！」"
 translation = "「해냈다! 해냈어요!」"
 
 [[dialogue]]
-speaker = "イクシリオン"
+speaker_original = "イクシリオン"
+speaker_translation = "익실리온"
 original = "「お疲れ様です。力強い一撃でした」"
 translation = "「수고하셨습니다. 강력한 일격이었어요.」"
 
 [[dialogue]]
-speaker = "モネ"
+speaker_original = "モネ"
+speaker_translation = "모네"
 original = "「イクシーさんが隙を作ってくれたおかげです。自分だけでは絶対勝てませんでした」"
 translation = "「익실 씨가 빈틈을 만들어준 덕분이에요. 저 혼자선 절대 못 이겼을 거예요.」"
 
 [[dialogue]]
-speaker = "ウィステリア？"
+speaker_original = "ウィステリア？"
+speaker_translation = "위스테리아?"
 original = "「このくらいじゃ認められないわ」"
 translation = "「이 정도론 인정 못 해.」"
 
 [[dialogue]]
-speaker = "２人"
+speaker_original = "２人"
+speaker_translation = "2명"
 original = "「きゃあああっ！？」"
 translation = "「꺄아아악!?」"
 
 [[dialogue]]
-speaker = "モネ"
+speaker_original = "モネ"
+speaker_translation = "모네"
 original = "「まま、また出たぁっ！？」"
 translation = "「또, 또 나왔어!?」"
 
 [[dialogue]]
-speaker = "イクシリオン"
+speaker_original = "イクシリオン"
+speaker_translation = "익실리온"
 original = "「倒してもまた出てくるタイプでしたか……これ以上の消耗は厳しいですね……」"
 translation = "「쓰러뜨려도 계속 나오는 타입이었나요…… 이 이상의 소모는 힘들겠네요……」"
 
 [[dialogue]]
-speaker = "ウィステリア"
+speaker_original = "ウィステリア"
+speaker_translation = "위스테리아"
 original = "「ふぅ、待たせたわね、２人とも」"
 translation = "「후우, 기다리게 했네, 둘 다.」"
 
 [[dialogue]]
-speaker = "モネ"
+speaker_original = "モネ"
+speaker_translation = "모네"
 original = "「こっちにもウィステリアさんの偽物が！？」"
 translation = "「이쪽에도 위스테리아 씨의 가짜가!?」"
 
 [[dialogue]]
-speaker = "ウィステリア"
+speaker_original = "ウィステリア"
+speaker_translation = "위스테리아"
 original = "「私は本物よ！」"
 translation = "「난 진짜야!」"
 
 [[dialogue]]
-speaker = "ウィステリア"
+speaker_original = "ウィステリア"
+speaker_translation = "위스테리아"
 original = "「状況はだいたい把握してるわ。さすがプリマステラね、イクシーさん。紙屋敷さんもよく頑張ったわ。後は私に任せなさい」"
 translation = "「상황은 대충 파악했어. 역시 프리마스텔라네, 익실 씨. 카미야시키 양도 잘 버텼어. 나머지는 내게 맡겨.」"
 
 [[dialogue]]
-speaker = "ウィステリア"
+speaker_original = "ウィステリア"
+speaker_translation = "위스테리아"
 original = "「ったく、よくも私の姿で生徒をいじめてくれたわね。たっぷりお返ししてあげなくちゃ」"
 translation = "「참 나, 감히 내 모습으로 학생을 괴롭히다니 말이야. 듬뿍 되돌려줘야겠어.」"
 
 [[dialogue]]
-speaker = "ウィステリア"
+speaker_original = "ウィステリア"
+speaker_translation = "위스테리아"
 original = "「闇の雷を見せてあげる。──アビススプライト！」"
 translation = "「어둠의 번개를 보여줄게. ──어비스 스프라이트!」"
 
 [[dialogue]]
-speaker = "モネ"
+speaker_original = "モネ"
+speaker_translation = "모네"
 original = "「あんなにあっさりと……」"
 translation = "「저렇게 허무하게……」"
 
 [[dialogue]]
-speaker = "イクシリオン"
+speaker_original = "イクシリオン"
+speaker_translation = "익실리온"
 original = "「これが本物のウィステリアさん……」"
 translation = "「이게 진짜 위스테리아 씨……」"
 
 [[dialogue]]
-speaker = "ウィステリア"
+speaker_original = "ウィステリア"
+speaker_translation = "위스테리아"
 original = "「さ、今のうちに戻るわよ」"
 translation = "「자, 이 틈에 돌아가자고.」"
 
 [[dialogue]]
-speaker = "モネ"
+speaker_original = "モネ"
+speaker_translation = "모네"
 original = "「え？\u3000あ、ウィステリアさんの鎖が体に絡まって……」"
 translation = "「에? 아, 위스테리아 씨의 사슬이 몸에 감겨서……」"
 
 [[dialogue]]
-speaker = "イクシリオン"
+speaker_original = "イクシリオン"
+speaker_translation = "익실리온"
 original = "「く、苦しいです……」"
 translation = "「괴, 괴로워요……」"
 
 [[dialogue]]
-speaker = "ウィステリア"
+speaker_original = "ウィステリア"
+speaker_translation = "위스테리아"
 original = "「引っ張るわよー」"
 translation = "「끌어당길게─」"
 
 [[dialogue]]
-speaker = "モネ"
+speaker_original = "モネ"
+speaker_translation = "모네"
 original = "「きゃあああ～～～っ！？」"
 translation = "「꺄아아아~~악!?」"
 

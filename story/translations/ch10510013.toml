@@ -4,12 +4,14 @@ original = "第３話,レディのお忍び旅行,P"
 translation = "제3화, 레이디의 잠행 여행, P"
 
 [[dialogue]]
-speaker = "クラウディア"
+speaker_original = "クラウディア"
+speaker_translation = "클라우디아"
 original = "「お～～～い！\u3000魔王～～～！！」"
 translation = "「어~~~이! 마왕~~~!!」"
 
 [[dialogue]]
-speaker = "クラウディア"
+speaker_original = "クラウディア"
+speaker_translation = "클라우디아"
 original = "「よいところにいたぞ！\u3000余をかくまってくれ。追われておるのだ！」"
 translation = "「좋은 곳에 있었구나! 짐을 숨겨다오. 쫓기고 있느니라!」"
 
@@ -24,17 +26,20 @@ original = "誰に？"
 translation = "누구한테?"
 
 [[dialogue]]
-speaker = "クラウディア"
+speaker_original = "クラウディア"
+speaker_translation = "클라우디아"
 original = "「うむ。困ったものだ。実はセドナにしつこく追いかけ回されていてのう」"
 translation = "「음. 곤란한 일이로다. 사실 세드나에게 끈질기게 쫓기고 있어서 말이다」"
 
 [[dialogue]]
-speaker = "クラウディア"
+speaker_original = "クラウディア"
+speaker_translation = "클라우디아"
 original = "「あやつは余の魔法もすぐ見破る上、行動パターンまで把握されておる。だがなんとかここまで逃げおおせたのだ！」"
 translation = "「그 녀석은 짐의 마법도 금방 간파하는 데다 행동 패턴까지 파악하고 있느니라. 하지만 어떻게든 여기까지 도망쳐 왔도다!」"
 
 [[dialogue]]
-speaker = "クラウディア"
+speaker_original = "クラウディア"
+speaker_translation = "클라우디아"
 original = "「外出の日なのか、だと？\u3000いや。今日はただのお忍び旅行だ」"
 translation = "「외출하는 날이냐고? 아니. 오늘은 그냥 잠행 여행이니라」"
 
@@ -49,22 +54,26 @@ original = "ただの家出じゃ……"
 translation = "그냥 가출 아냐……"
 
 [[dialogue]]
-speaker = "クラウディア"
+speaker_original = "クラウディア"
+speaker_translation = "클라우디아"
 original = "「まあまあ、気にするでない。それより今日は大事な用があってきたのだ。どこか落ち着ける場所はないかのう？」"
 translation = "「자자, 신경 쓰지 마라. 그보다 오늘은 중요한 용무가 있어 왔느니라. 어디 진정할 수 있는 장소는 없느니라?」"
 
 [[dialogue]]
-speaker = "クラウディア"
+speaker_original = "クラウディア"
+speaker_translation = "클라우디아"
 original = "「む──ないこともないとな？\u3000おお！\u3000さすがは余の見込んだ人間だ」"
 translation = "「음── 없는 것도 아니라고? 오! 역시 짐이 눈여겨본 인간이로다」"
 
 [[dialogue]]
-speaker = "クラウディア"
+speaker_original = "クラウディア"
+speaker_translation = "클라우디아"
 original = "「さっそくこのクラウディアを案内するがよいぞ、褒めてつかわす！」"
 translation = "「당장 이 클라우디아를 안내하도록 하거라, 칭찬해 주마!」"
 
 [[dialogue]]
-speaker = "クラウディア"
+speaker_original = "クラウディア"
+speaker_translation = "클라우디아"
 original = "「ほほう！\u3000お主はここで暮らしておるのか──人間の家に入るなど初めてだ。広くはないが、温かみのようなものを感じるのう！」"
 translation = "「호오! 그대는 여기서 살고 있는 것이냐── 인간의 집에 들어오는 건 처음이로다. 넓지는 않지만 온기 같은 것이 느껴지는구나!」"
 
@@ -79,17 +88,20 @@ original = "母さんが帰ってくるまでね"
 translation = "어머니가 돌아오실 때까지만이야"
 
 [[dialogue]]
-speaker = "クラウディア"
+speaker_original = "クラウディア"
+speaker_translation = "클라우디아"
 original = "「わかっておる。余もあまり『わがまま』を言うつもりはないぞ」"
 translation = "「알고 있느니라. 짐도 그리 『어거지』를 부릴 생각은 없느니라」"
 
 [[dialogue]]
-speaker = "クラウディア"
+speaker_original = "クラウディア"
+speaker_translation = "클라우디아"
 original = "「何せ今日は大事な用があって来たのだからな。まずはそれがセンケツだ」"
 translation = "「어쨌든 오늘은 중요한 용무가 있어 왔으니까 말이다. 우선 그것이 선결이니라」"
 
 [[dialogue]]
-speaker = "クラウディア"
+speaker_original = "クラウディア"
+speaker_translation = "클라우디아"
 original = "「うむ。お主に聞きたいことがある──実はこれに関しての話だ」"
 translation = "「음. 그대에게 묻고 싶은 것이 있느니라── 실은 이것에 관한 이야기이니라」"
 
@@ -99,12 +111,14 @@ original = "胸？"
 translation = "가슴?"
 
 [[dialogue]]
-speaker = "クラウディア"
+speaker_original = "クラウディア"
+speaker_translation = "클라우디아"
 original = "「セドナは、立派なないすばでぃをしておる。しかし余は、見ての通りぺったんこである」"
 translation = "「세드나는 훌륭한 나이스 바디를 가지고 있느니라. 하지만 짐은 보다시피 납작하도다」"
 
 [[dialogue]]
-speaker = "クラウディア"
+speaker_original = "クラウディア"
+speaker_translation = "클라우디아"
 original = "「以前お主は、男はがっちりしていて胸も大きくないと言った。もしや余は男なのか！？」"
 translation = "「이전에 그대는 남자는 다부지고 가슴도 크지 않다고 했느니라. 설마 짐은 남자인 것이냐!?」"
 
@@ -119,7 +133,8 @@ original = "魔女なんだから女の子だよ"
 translation = "마녀니까 당연히 여자아이지"
 
 [[dialogue]]
-speaker = "クラウディア"
+speaker_original = "クラウディア"
+speaker_translation = "클라우디아"
 original = "「余はセドナに問うたのだ。なにゆえ、そんなに胸がばいんばいん膨らんでいるのかと。いかにして、そのようなふくよかなメロンを育てているのかと！」"
 translation = "「짐은 세드나에게 물었느니라. 어찌하여 그렇게 가슴이 출렁출렁 부풀어 있는 것이냐고. 어떻게 하여 그런 탐스러운 멜론을 키우고 있는 것이냐고!」"
 
@@ -134,22 +149,26 @@ original = "ストレートだなあ……"
 translation = "직설적이네……"
 
 [[dialogue]]
-speaker = "クラウディア"
+speaker_original = "クラウディア"
+speaker_translation = "클라우디아"
 original = "「うむ。聞いたらば、セドナは何も特別なことはしていないという。気がついたらああなっていたと」"
 translation = "「음. 물어보니 세드나는 아무런 특별한 일도 하지 않았다고 하더구나. 정신을 차려보니 그렇게 되어 있었다고」"
 
 [[dialogue]]
-speaker = "クラウディア"
+speaker_original = "クラウディア"
+speaker_translation = "클라우디아"
 original = "「憧れているのか……と？\u3000いや。そういうわけでもない。ないが、気にはなる」"
 translation = "「동경하고 있는 것이냐고? 아니. 그런 것은 아니니라. 아니지만 신경은 쓰이느니라」"
 
 [[dialogue]]
-speaker = "クラウディア"
+speaker_original = "クラウディア"
+speaker_translation = "클라우디아"
 original = "「余もそろそろ立派なレディとなる頃合いだからの──ずっとこのままでは光の魔女としての威厳にもかかわる」"
 translation = "「짐도 슬슬 훌륭한 레이디가 될 때가 되었으니까 말이다── 계속 이대로라면 빛의 마녀로서의 위엄에도 지장이 있느니라」"
 
 [[dialogue]]
-speaker = "クラウディア"
+speaker_original = "クラウディア"
+speaker_translation = "클라우디아"
 original = "「お主の連れ合いにも『ぼいん』がいただろう！？\u3000奴らの胸の秘密を聞いたことはないか！？」"
 translation = "「그대의 일행 중에도 『거유』가 있지 않았느냐!? 그 녀석들 가슴의 비밀을 들어본 적은 없느니라!?」"
 
@@ -164,12 +183,14 @@ original = "サーシャさんのことかな"
 translation = "사샤 씨 말인가"
 
 [[dialogue]]
-speaker = "クラウディア"
+speaker_original = "クラウディア"
+speaker_translation = "클라우디아"
 original = "「体質や食生活？\u3000そんなつまらん答えは求めておらぬ。実はな、余はもうとっくに手がかりを掴んでいるのだ」"
 translation = "「체질이나 식생활? 그런 시시한 대답은 원하지 않느니라. 사실 말이다, 짐은 이미 진작에 단서를 잡았느니라」"
 
 [[dialogue]]
-speaker = "クラウディア"
+speaker_original = "クラウディア"
+speaker_translation = "클라우디아"
 original = "「そのためにはお主の協力が不可欠だ！\u3000何のためにわざわざお主を訪ねたと思っておる？」"
 translation = "「그러기 위해서는 그대의 협력이 필수적이니라! 무엇을 위해 일부러 그대를 찾아왔다고 생각하느냐?」"
 
@@ -184,22 +205,26 @@ original = "もしかして……"
 translation = "설마……"
 
 [[dialogue]]
-speaker = "クラウディア"
+speaker_original = "クラウディア"
+speaker_translation = "클라우디아"
 original = "「そうだ！\u3000わかっておるではないか、魔王──もみもみせよ。迷信だろうと物は試しだ」"
 translation = "「그렇다! 알고 있지 않느냐, 마왕── 조물조물하거라. 미신일지라도 밑져야 본전이니라」"
 
 [[dialogue]]
-speaker = "クラウディア"
+speaker_original = "クラウディア"
+speaker_translation = "클라우디아"
 original = "「犯罪？\u3000何を言っておる。ここはお主の住処なのだからお主の好きにすればよい。それが余計に心配？\u3000わからんのう」"
 translation = "「범죄? 무슨 소리를 하는 것이냐. 여기는 그대의 거처이니 그대 마음대로 하면 되느니라. 그것이 더 걱정이라고? 모르겠구나」"
 
 [[dialogue]]
-speaker = "クラウディア"
+speaker_original = "クラウディア"
+speaker_translation = "클라우디아"
 original = "「よいからとっとと触るのだ。言うことを聞かないのであれば、魔法で無理にでも動かしてしまうぞ──？」"
 translation = "「됐으니까 어서 만지는 것이니라. 말을 듣지 않는다면 마법으로 억지로라도 움직이게 만들 것이니라──?」"
 
 [[dialogue]]
-speaker = "クラウディア"
+speaker_original = "クラウディア"
+speaker_translation = "클라우디아"
 original = "「──ぁっ♪」"
 translation = "「──앗♪」"
 
@@ -214,62 +239,74 @@ original = "……"
 translation = "……"
 
 [[dialogue]]
-speaker = "クラウディア"
+speaker_original = "クラウディア"
+speaker_translation = "클라우디아"
 original = "「ぉ、ぉぉぅ……なんだかくすぐったいのう。妙な声が出てしまった。続けてみる価値はありそうだ」"
 translation = "「오, 오오…… 왠지 간지럽구나. 묘한 목소리가 나와 버렸도다. 계속해 볼 가치는 있을 것 같구나」"
 
 [[dialogue]]
-speaker = "クラウディア"
+speaker_original = "クラウディア"
+speaker_translation = "클라우디아"
 original = "「腰が引けておるぞ！\u3000もっと！\u3000気合いを入れて余のバストをもみほぐすのだ！\u3000こら、なぜ逃げる！？」"
 translation = "「엉덩이가 뒤로 빠져 있느니라! 좀 더! 기합을 넣어서 짐의 바스트를 주물러 풀어주거라! 이봐, 왜 도망가느냐!?」"
 
 [[dialogue]]
-speaker = "セドナ"
+speaker_original = "セドナ"
+speaker_translation = "세드나"
 original = "「──失礼する」"
 translation = "「──실례하겠습니다」"
 
 [[dialogue]]
-speaker = "クラウディア"
+speaker_original = "クラウディア"
+speaker_translation = "클라우디아"
 original = "「へ……？\u3000わ、わあっ！？\u3000ど──どうしてセドナがこんなところまで余を追ってくるのだ！？」"
 translation = "「헤……? 와, 와앗!? 어── 어째서 세드나가 이런 곳까지 짐을 쫓아온 것이냐!?」"
 
 [[dialogue]]
-speaker = "クラウディア"
+speaker_original = "クラウディア"
+speaker_translation = "클라우디아"
 original = "「保護者を呼んでおいた？\u3000よ、余計なことをするでない！」"
 translation = "「보호자를 불러두었다고? 시, 쓸데없는 짓을 하는 게 아니니라!」"
 
 [[dialogue]]
-speaker = "セドナ"
+speaker_original = "セドナ"
+speaker_translation = "세드나"
 original = "「連絡感謝する、星徒会長。──さ、基地へ帰りますよ。姫」"
 translation = "「연락 감사하오, 성도회장. ──자, 기지로 돌아가겠소. 공주님.」"
 
 [[dialogue]]
-speaker = "クラウディア"
+speaker_original = "クラウディア"
+speaker_translation = "클라우디아"
 original = "「ま、魔王きさま──余を騙したなぁっ！\u3000余は帰らんぞ！\u3000セドナも『ぼいん』の秘密を余に隠しておるのだろう！」"
 translation = "「마, 마왕 네 이놈── 여를 속였구나! 여는 돌아가지 않겠다! 세드나도 『보잉』의 비밀을 여에게 숨기고 있는 것이지!」"
 
 [[dialogue]]
-speaker = "セドナ"
+speaker_original = "セドナ"
+speaker_translation = "세드나"
 original = "「ぼ、ぼいん？\u3000また何か余計な知識を仕入れたようですね──どうして変なことばかり吸収してしまうのか」"
 translation = "「보, 보잉? 또 뭔가 쓸데없는 지식을 얻어온 모양이군요── 어째서 이상한 것만 흡수해 버리는 건지.」"
 
 [[dialogue]]
-speaker = "セドナ"
+speaker_original = "セドナ"
+speaker_translation = "세드나"
 original = "「貴様にも迷惑をかけたな──ん？\u3000なぜ目を逸らすのだ？\u3000まあいい……」"
 translation = "「귀공에게도 폐를 끼쳤군── 응? 왜 눈을 피하는 것이냐? 뭐 됐다……」"
 
 [[dialogue]]
-speaker = "セドナ"
+speaker_original = "セドナ"
+speaker_translation = "세드나"
 original = "（……この家に入ることになるとは思わなかったな。しかし今は……さっさと退散するとしよう）"
 translation = "(……이 집에 들어오게 될 줄은 몰랐군. 하지만 지금은…… 얼른 퇴각하도록 하지.)"
 
 [[dialogue]]
-speaker = "クラウディア"
+speaker_original = "クラウディア"
+speaker_translation = "클라우디아"
 original = "「帰りたくないのだー！\u3000余もセドナのように嫌味ったらしく巨乳を見せびらかしたいのだ～！」"
 translation = "「돌아가기 싫단 말이다! 여도 세드나처럼 얄밉게 거유를 뽐내고 싶단 말이다~!」"
 
 [[dialogue]]
-speaker = "セドナ"
+speaker_original = "セドナ"
+speaker_translation = "세드나"
 original = "「誰が嫌味ったらしく見せびらかしていますか……帰ったらお説教ですね」"
 translation = "「누가 얄밉게 뽐내고 있다는 건지…… 돌아가면 설교군요.」"
 

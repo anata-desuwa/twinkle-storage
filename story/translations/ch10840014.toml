@@ -14,12 +14,14 @@ original = "門の辺りで待ち合わせをしていたのだが──"
 translation = "문 근처에서 만나기로 했었는데──"
 
 [[dialogue]]
-speaker = "オオヒメ"
+speaker_original = "オオヒメ"
+speaker_translation = "오오히메"
 original = "「ふたりきりで出かけるなどまるで逢瀬……今風に言うとデートではないか？\u3000いやいやいや、魔王はただの親切心で付いてきてくれるだけだ。勘違いするな」"
 translation = "「둘이서만 외출하다니 마치 밀회…… 요즘 말로 하면 데이트가 아닌가? 아니아니아니, 마왕은 그저 친절한 마음에 따라와 주는 것뿐이다. 착각하지 마라.」"
 
 [[dialogue]]
-speaker = "オオヒメ"
+speaker_original = "オオヒメ"
+speaker_translation = "오오히메"
 original = "「そうだ、服は乱れていないだろうか？\u3000髪に寝ぐせは付いていないだろうか？\u3000みすぼらしい姿を魔王に見られたら、生きていけない──」"
 translation = "「맞다, 옷은 흐트러지지 않았을까? 머리에 까치집이 지지는 않았을까? 초라한 모습을 마왕에게 보였다간, 살아갈 수 없어──」"
 
@@ -29,12 +31,14 @@ original = "ヒメ、待った？"
 translation = "히메, 기다렸어?"
 
 [[dialogue]]
-speaker = "オオヒメ"
+speaker_original = "オオヒメ"
+speaker_translation = "오오히메"
 original = "「ひぅっ！？\u3000……す、すまない、変な声を上げてしまった」"
 translation = "「히윽!? ……미, 미안하다, 이상한 소리를 내 버렸군.」"
 
 [[dialogue]]
-speaker = "オオヒメ"
+speaker_original = "オオヒメ"
+speaker_translation = "오오히메"
 original = "「私もさっき来たところだ。大丈夫、３０分前に到着しようとして早めに出たら、１時間前に着いたなどということはない」"
 translation = "「나도 방금 막 도착한 참이다. 괜찮아, 30분 전에 도착하려고 일찍 나왔더니, 1시간 전에 도착했다거나 하는 일은 없으니까.」"
 
@@ -44,42 +48,50 @@ original = "そんなに早く来たんだ"
 translation = "그렇게 일찍 왔구나"
 
 [[dialogue]]
-speaker = "オオヒメ"
+speaker_original = "オオヒメ"
+speaker_translation = "오오히메"
 original = "「うっ……！？\u3000いやだって、あなたを待たせるのは申し訳ないし、楽しみで待ち切れなくて──」"
 translation = "「윽……!? 아니 그게, 당신을 기다리게 하는 건 미안하기도 하고, 기대돼서 참을 수가 없어서──」"
 
 [[dialogue]]
-speaker = "オオヒメ"
+speaker_original = "オオヒメ"
+speaker_translation = "오오히메"
 original = "「コホン。魔王だって待ち合わせより早く来ただろう。約束の１０分前だ。<ruby>寄席<rt>よせ</rt></ruby>が始まる時間にはまだ早い」"
 translation = "「코흠. 마왕도 약속 시간보다 일찍 왔지 않나. 약속 10분 전이다. 공연이 시작하기엔 아직 이르군.」"
 
 [[dialogue]]
-speaker = "オオヒメ"
+speaker_original = "オオヒメ"
+speaker_translation = "오오히메"
 original = "「……その分、周りを歩きたい？\u3000そ、それはいいかもしれないな」"
 translation = "「……그만큼, 주변을 걷고 싶다고? 그, 그건 좋을지도 모르겠군.」"
 
 [[dialogue]]
-speaker = "オオヒメ"
+speaker_original = "オオヒメ"
+speaker_translation = "오오히메"
 original = "「ひゃっ！？\u3000散歩するのはいいが、ち、近くないか……？」"
 translation = "「히얏!? 산책하는 건 좋지만, 가, 가깝지 않나……?」"
 
 [[dialogue]]
-speaker = "オオヒメ"
+speaker_original = "オオヒメ"
+speaker_translation = "오오히메"
 original = "「……一緒に歩くならこのくらいは普通？\u3000そ、そうか……なら仕方ないか」"
 translation = "「……함께 걷는다면 이 정도는 보통이라고? 그, 그런가…… 그렇다면 어쩔 수 없나.」"
 
 [[dialogue]]
-speaker = "オオヒメ"
+speaker_original = "オオヒメ"
+speaker_translation = "오오히메"
 original = "（落ち着け……落ち着け……これはデートではない、デートではない……）"
 translation = "(진정해…… 진정해…… 이것은 데이트가 아니다, 데이트가 아니다……)"
 
 [[dialogue]]
-speaker = "オオヒメ"
+speaker_original = "オオヒメ"
+speaker_translation = "오오히메"
 original = "（守護天使ともあろう者が、人の子相手に何を心乱されている。リクリエはまだ終わっていないというのに、浮かれている場合では……）"
 translation = "(수호천사나 되는 자가, 인간의 아이를 상대로 무엇에 마음을 어지럽히는 거냐. 리크리에가 아직 끝나지 않았는데, 들떠 있을 때가……)"
 
 [[dialogue]]
-speaker = "オオヒメ"
+speaker_original = "オオヒメ"
+speaker_translation = "오오히메"
 original = "（！？\u3000待て、私は浮かれているのか？\u3000彼との逢瀬を楽しんでいる……？）"
 translation = "(!? 잠깐, 내가 들떠 있는 건가? 그와의 밀회를 즐기고 있는 건가……?)"
 
@@ -89,27 +101,32 @@ original = "ヒメはこの門は見た？"
 translation = "히메는 이 문 봤어?"
 
 [[dialogue]]
-speaker = "オオヒメ"
+speaker_original = "オオヒメ"
+speaker_translation = "오오히메"
 original = "「ひやんっ！？\u3000すまない、また妙な声を上げてしまった……」"
 translation = "「히양!? 미안하다, 또 묘한 소리를 내 버렸군……」"
 
 [[dialogue]]
-speaker = "オオヒメ"
+speaker_original = "オオヒメ"
+speaker_translation = "오오히메"
 original = "「ああ、門なら待っている間に見させてもらった」"
 translation = "「아아, 문이라면 기다리는 동안 구경했다.」"
 
 [[dialogue]]
-speaker = "オオヒメ"
+speaker_original = "オオヒメ"
+speaker_translation = "오오히메"
 original = "「構えは壮観で、見る者を圧倒する。それでいて浅草の日常に溶け込んでおり、まるでこの地の人々を見守っているかのようだ」"
 translation = "「자세가 장관이라 보는 사람을 압도하더군. 그러면서도 아사쿠사의 일상에 녹아들어 있어, 마치 이 땅의 사람들을 지켜보는 것 같아.」"
 
 [[dialogue]]
-speaker = "オオヒメ"
+speaker_original = "オオヒメ"
+speaker_translation = "오오히메"
 original = "「そして阿吽の風神・雷神像の迫力たるや。まさしく嵐のごとき荒ましさ。風雨を操る私もここまでは──」"
 translation = "「그리고 아훔의 풍신 · 뇌신상의 박력이란. 그야말로 폭풍 같은 거칠음이군. 비바람을 다루는 나조차 여기까지는──」"
 
 [[dialogue]]
-speaker = "オオヒメ"
+speaker_original = "オオヒメ"
+speaker_translation = "오오히메"
 original = "「……すまない。つい熱く語ってしまった」"
 translation = "「……미안하다. 그만 열을 올리며 말해 버렸군.」"
 
@@ -119,37 +136,44 @@ original = "大丈夫、気にしてないよ"
 translation = "괜찮아, 신경 안 써"
 
 [[dialogue]]
-speaker = "オオヒメ"
+speaker_original = "オオヒメ"
+speaker_translation = "오오히메"
 original = "「そ、そうか……ならよいのだが」"
 translation = "「그, 그런가…… 그럼 다행이다만.」"
 
 [[dialogue]]
-speaker = "オオヒメ"
+speaker_original = "オオヒメ"
+speaker_translation = "오오히메"
 original = "（語っている私を、魔王はむしろ楽しそうに見ているような……ありがたいが、気恥ずかしい……）"
 translation = "(이야기하는 나를, 마왕은 오히려 즐거운 듯 보고 있는 것 같군…… 고맙기는 하지만, 쑥스러워……)"
 
 [[dialogue]]
-speaker = "オオヒメ"
+speaker_original = "オオヒメ"
+speaker_translation = "오오히메"
 original = "「……む。そろそろ寄席の時間か。席が埋まる前に行かねば」"
 translation = "「……음. 슬슬 요세의 시간이군. 자리가 차기 전에 가야겠어.」"
 
 [[dialogue]]
-speaker = "オオヒメ"
+speaker_original = "オオヒメ"
+speaker_translation = "오오히메"
 original = "「ん？\u3000どうして私は芸が好きなのか……か。永い時を生きてきたが、その理由を問われたのは初めてか」"
 translation = "「응? 어째서 내가 예능을 좋아하는지…… 인가. 오랜 시간을 살아왔지만, 그 이유를 질문받은 건 처음이군.」"
 
 [[dialogue]]
-speaker = "オオヒメ"
+speaker_original = "オオヒメ"
+speaker_translation = "오오히메"
 original = "「美しいもの、優れたものに心惹かれるのに理由はいらない……とは思うが、特に言うなら、私にはないものだからかもしれない」"
 translation = "「아름다운 것, 뛰어난 것에 마음이 끌리는 데에는 이유가 필요 없다……고는 생각하지만, 굳이 말하자면 내게 없는 것이기 때문일지도 모르겠군.」"
 
 [[dialogue]]
-speaker = "オオヒメ"
+speaker_original = "オオヒメ"
+speaker_translation = "오오히메"
 original = "「もちろん努力は必要だが、芸には才能が不可欠だ。誰でもできるものは芸にはならない」"
 translation = "「물론 노력도 필요하지만, 예능에는 재능이 불가결하다. 누구나 할 수 있는 것은 예능이 될 수 없지.」"
 
 [[dialogue]]
-speaker = "オオヒメ"
+speaker_original = "オオヒメ"
+speaker_translation = "오오히메"
 original = "「そして才能は普遍とは反対にあるもの。だから憧れるのかもしれないな」"
 translation = "「그리고 재능은 보편과는 반대에 있는 것. 그래서 동경하는 것일지도 모르겠군.」"
 
@@ -164,27 +188,32 @@ original = "まさにどっぷり落語漬けの一日だった。"
 translation = "그야말로 듬뿍 라쿠고에 빠져 지낸 하루였다."
 
 [[dialogue]]
-speaker = "オオヒメ"
+speaker_original = "オオヒメ"
+speaker_translation = "오오히메"
 original = "「これが落語か。まさしく名人芸。時間も忘れて没頭していたよ」"
 translation = "「이것이 라쿠고인가. 그야말로 명인기군. 시간 가는 줄 모르고 몰두했어.」"
 
 [[dialogue]]
-speaker = "オオヒメ"
+speaker_original = "オオヒメ"
+speaker_translation = "오오히메"
 original = "「そこは高座であるにもかかわらず、江戸の町の情景が思い浮かぶ。古典だけでなく新作も愉快なものばかりだった」"
 translation = "「그곳은 무대임에도 불구하고, 에도 마을의 정경이 떠오르더군. 고전뿐만 아니라 신작도 유쾌한 것들뿐이었어.」"
 
 [[dialogue]]
-speaker = "オオヒメ"
+speaker_original = "オオヒメ"
+speaker_translation = "오오히메"
 original = "「……そして愉快なばかりではなく、男女の情念を語った<ruby>噺<rt>はなし</rt></ruby>もあった。愛とはなんと儚いものよ」"
 translation = "「……그리고 유쾌할 뿐만 아니라, 남녀의 정념을 이야기한 이야기도 있었지. 사랑이란 어찌나 덧없는 것인가.」"
 
 [[dialogue]]
-speaker = "オオヒメ"
+speaker_original = "オオヒメ"
+speaker_translation = "오오히메"
 original = "「魔王には感謝する。あなたが付き添ってくれたおかげで本場の落語を堪能することができた」"
 translation = "「마왕에게는 감사한다. 당신이 동행해 준 덕분에 본고장의 라쿠고를 만끽할 수 있었어.」"
 
 [[dialogue]]
-speaker = "オオヒメ"
+speaker_original = "オオヒメ"
+speaker_translation = "오오히메"
 original = "「しかし思いのほか遅くなってしまったな。あまり一緒にいると逢瀬と間違われる。早く戻らねば──」"
 translation = "「하지만 생각보다 늦어 버렸군. 너무 함께 있으면 밀회라고 오해받는다. 어서 돌아가야──」"
 
@@ -194,17 +223,20 @@ original = "ちなみに俺はデートのつもりだったよ"
 translation = "참고로 나는 데이트라고 생각했어"
 
 [[dialogue]]
-speaker = "オオヒメ"
+speaker_original = "オオヒメ"
+speaker_translation = "오오히메"
 original = "「んなっ！？」"
 translation = "「뭐낫!?」"
 
 [[dialogue]]
-speaker = "オオヒメ"
+speaker_original = "オオヒメ"
+speaker_translation = "오오히메"
 original = "「まさか待ち合わせの時の……！？\u3000聞こえていたのか！？\u3000人が悪いぞ！？」"
 translation = "「설마 만났을 때의 그……!? 들렸던 건가!? 심술궂군!?」"
 
 [[dialogue]]
-speaker = "オオヒメ"
+speaker_original = "オオヒメ"
+speaker_translation = "오오히메"
 original = "「だが、聞こえていたなら仕方ない。……それなら、その……デートなら手を繋ぐくらいはいいだろうか？」"
 translation = "「하지만, 들렸다면 어쩔 수 없지. ……그렇다면, 그…… 데이트라면 손을 잡는 정도는 괜찮을까?」"
 
@@ -214,32 +246,38 @@ original = "もちろん"
 translation = "물론이지"
 
 [[dialogue]]
-speaker = "オオヒメ"
+speaker_original = "オオヒメ"
+speaker_translation = "오오히메"
 original = "「で、では失礼して……」"
 translation = "「그, 그럼 실례해서……」"
 
 [[dialogue]]
-speaker = "オオヒメ"
+speaker_original = "オオヒメ"
+speaker_translation = "오오히메"
 original = "「夜は冷えるが、手を繋ぐと温かいな……」"
 translation = "「밤은 춥지만, 손을 잡으니 따뜻하군……」"
 
 [[dialogue]]
-speaker = "オオヒメ"
+speaker_original = "オオヒメ"
+speaker_translation = "오오히메"
 original = "「守護天使たる私が、こうして男性とともに歩き、手を繋ぐことになるとは思わなかった」"
 translation = "「수호천사인 내가, 이렇게 남성과 함께 걷고, 손을 잡게 될 줄은 몰랐다.」"
 
 [[dialogue]]
-speaker = "オオヒメ"
+speaker_original = "オオヒメ"
+speaker_translation = "오오히메"
 original = "「今は仮初の体だが、だからこそ、あなたと同じ時間を過ごすことができる」"
 translation = "「지금은 일시적인 몸이지만, 그렇기에 당신과 같은 시간을 보낼 수 있어.」"
 
 [[dialogue]]
-speaker = "オオヒメ"
+speaker_original = "オオヒメ"
+speaker_translation = "오오히메"
 original = "「こういう気持ち抱くのは初めてだから、表現が正しいかわからないが……きっと私はあなたが好きだ」"
 translation = "「이런 감정을 품는 건 처음이라 표현이 맞는지 모르겠지만…… 분명 나는 당신을 좋아한다.」"
 
 [[dialogue]]
-speaker = "オオヒメ"
+speaker_original = "オオヒメ"
+speaker_translation = "오오히메"
 original = "「これからよろしく頼む。できれば末永く……な」"
 translation = "「앞으로 잘 부탁하마. 가급적이면 오래도록…… 말이지.」"
 

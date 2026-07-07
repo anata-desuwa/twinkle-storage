@@ -1,70 +1,84 @@
 [[dialogue]]
-speaker = "ヨミ"
+speaker_original = "ヨミ"
+speaker_translation = "요미"
 original = "「今回の目的は空間転移装置のテストの他に、里の視察もありますからね。しっかり務めましょう！」"
 translation = "「이번 목적은 공간 전이 장치의 테스트 외에도 마을 시찰도 있으니까요. 제대로 임무를 완수하죠!」"
 
 [[dialogue]]
-speaker = "せつな"
+speaker_original = "せつな"
+speaker_translation = "세츠나"
 original = "「そうでござるな。紫桜の里の復興ぶりをしかと見届けるでござる」"
 translation = "「그렇소 소. 자앵마을의 부흥 모습을 확실히 지켜보겠소 소.」"
 
 [[dialogue]]
-speaker = "ウズメイア"
+speaker_original = "ウズメイア"
+speaker_translation = "우즈메"
 original = "「復興って、ここで何かあったの？」"
 translation = "「부흥이라니, 여기서 무슨 일 있었어?」"
 
 [[dialogue]]
-speaker = "せつな"
+speaker_original = "せつな"
+speaker_translation = "세츠나"
 original = "「この辺りでアステラが出現することは滅多にないのでござるが、過去に一度、特大級のものが発生したことがあったでござる」"
 translation = "「이 근처에서 아스테라가 출현하는 일은 좀처럼 없소 소만, 과거에 한 번 특대급이 발생한 적이 있었소 소.」"
 
 [[dialogue]]
-speaker = "せつな"
+speaker_original = "せつな"
+speaker_translation = "세츠나"
 original = "「折り悪く里にはモンスターと戦える者がおらず、師匠も任務のために出かけてしまっていたのでござる」"
 translation = "「운 나쁘게 마을에는 몬스터와 싸울 수 있는 자가 없었고, 스승님도 임무 때문에 나가 계셨소 소.」"
 
 [[dialogue]]
-speaker = "せつな"
+speaker_original = "せつな"
+speaker_translation = "세츠나"
 original = "「残っていたのは幼い者や未熟な者ばかり……」"
 translation = "「남아 있던 건 어린아이들이나 미숙한 자들뿐……」"
 
 [[dialogue]]
-speaker = "せつな"
+speaker_original = "せつな"
+speaker_translation = "세츠나"
 original = "「それでも何とかモンスターの攻撃を耐え凌ぎ、やり過ごしたのでござるが、村は壊滅状態になってしまったのでござる」"
 translation = "「그래도 어떻게든 몬스터의 공격을 견뎌내며 넘겼소 소만, 마을은 괴멸 상태가 되어 버렸소 소.」"
 
 [[dialogue]]
-speaker = "ウズメイア"
+speaker_original = "ウズメイア"
+speaker_translation = "우즈메"
 original = "「大変だったんだぁ……」"
 translation = "「힘들었겠구나아……」"
 
 [[dialogue]]
-speaker = "せつな"
+speaker_original = "せつな"
+speaker_translation = "세츠나"
 original = "「ですが当主様より支援を頂いて、村はなんとかここまで復興を果たしたのでござる。当主様にはどれほど感謝しても足りないでござる……」"
 translation = "「하지만 당주님으로부터 지원을 받아서, 마을은 어찌어찌 여기까지 부흥을 이뤄냈소 소. 당주님께는 아무리 감사해도 부족하오 소……」"
 
 [[dialogue]]
-speaker = "ヨミ"
+speaker_original = "ヨミ"
+speaker_translation = "요미"
 original = "「あれから里にアステラが出現する気配はないのでしょうか？」"
 translation = "「그 후로 마을에 아스테라가 출현할 기색은 없나요?」"
 
 [[dialogue]]
-speaker = "せつな"
+speaker_original = "せつな"
+speaker_translation = "세츠나"
 original = "「そういった気配はなく、平穏無事な日々が続いているとのことでござるな」"
 translation = "「그러한 기색은 없고, 평온무사한 나날이 계속되고 있다는 것이오 소.」"
 
 [[dialogue]]
-speaker = "ヨミ"
+speaker_original = "ヨミ"
+speaker_translation = "요미"
 original = "「油断は禁物ですよ？\u3000きちんと視察を行って、異変が無いことを確認しないと……」"
 translation = "「방심은 금물이에요. 제대로 시찰을 해서 이변이 없는지 확인해야……」"
 
 [[dialogue]]
-speaker = "ウズメイア"
+speaker_original = "ウズメイア"
+speaker_translation = "우즈메"
 original = "「ヨミヨミ真面目だ～。任務も大事だけどせっかくの忍の里だし、楽しまなきゃダメっしょ♪」"
 translation = "「요미요미 진지해~ 임무도 중요하지만 모처럼 닌자 마을에 왔는데, 즐기지 않으면 안 된다구♪」"
 
 [[dialogue]]
-speaker = "ウズメイア"
+speaker_original = "ウズメイア"
+speaker_translation = "우즈메"
 original = "「あっ、会長くん、あれ見て！\u3000めっちゃ気になる杭があるんだけど！」"
 translation = "「앗, 회장군, 저것 봐! 엄청 신경 쓰이는 말뚝이 있는데!」"
 
@@ -79,22 +93,26 @@ original = "忍者の修行用の杭かも？"
 translation = "닌자 수행용 말뚝일지도?"
 
 [[dialogue]]
-speaker = "ウズメイア"
+speaker_original = "ウズメイア"
+speaker_translation = "우즈메"
 original = "「よーし、試してくる！」"
 translation = "「조아쓰, 시험해 보고 올게!」"
 
 [[dialogue]]
-speaker = "ヨミ"
+speaker_original = "ヨミ"
+speaker_translation = "요미"
 original = "「ちょっ！\u3000勝手なことしたらまた大変なことにっ！！」"
 translation = "「잠깐! 마음대로 행동하면 또 큰일이!!」"
 
 [[dialogue]]
-speaker = "ウズメイア"
+speaker_original = "ウズメイア"
+speaker_translation = "우즈메"
 original = "「あーーーれーーーーっ！！」"
 translation = "「아래애애애애애애!!」"
 
 [[dialogue]]
-speaker = "ヨミ"
+speaker_original = "ヨミ"
+speaker_translation = "요미"
 original = "「こやぁぁぁぁっ！？\u3000ウズメさんが吹っ飛びました～～っ！！」"
 translation = "「코야아아아앗!? 우즈메 씨가 날아갔어요~~!!」"
 
@@ -109,82 +127,98 @@ original = "あれは修行用だから"
 translation = "「저건 수행용이니까」"
 
 [[dialogue]]
-speaker = "ヨミ"
+speaker_original = "ヨミ"
+speaker_translation = "요미"
 original = "「た、確かにさっきの私も、どういうわけか無事でしたしね……」"
 translation = "「타, 확실히 아까 전의 저도 왠지 모르게 무사했었으니까요……」"
 
 [[dialogue]]
-speaker = "ウズメイア"
+speaker_original = "ウズメイア"
+speaker_translation = "우즈메"
 original = "「あははっ、ひどい目に遭ったんだけど～」"
 translation = "「아하핫, 호되게 당하긴 했지만~」"
 
 [[dialogue]]
-speaker = "せつな"
+speaker_original = "せつな"
+speaker_translation = "세츠나"
 original = "「何事でござるか？\u3000いきなり空からウズメ殿が降ってきたから、びっくりしたでござる」"
 translation = "「무슨 일인지 소? 갑자기 하늘에서 우즈메 공이 떨어져서 깜짝 놀랐소.」"
 
 [[dialogue]]
-speaker = "ウズメイア"
+speaker_original = "ウズメイア"
+speaker_translation = "우즈메"
 original = "「ござるちゃん、受け止めてくれてありがとぉぉ！\u3000命の恩人だよ～！」"
 translation = "「고자루 짱, 받아줘서 고마워어어! 생명의 은인이야~!」"
 
 [[dialogue]]
-speaker = "シズル"
+speaker_original = "シズル"
+speaker_translation = "시즈루"
 original = "「ナイスキャッチです、せつな。見ない間にまた腕を上げたみたいですね」"
 translation = "「나이스 캐치예요, 세츠나. 못 본 사이에 또 실력이 늘었나 보네요.」"
 
 [[dialogue]]
-speaker = "せつな"
+speaker_original = "せつな"
+speaker_translation = "세츠나"
 original = "「えへへ～、そんなことないでござるよ～」"
 translation = "「에헤헤~ 그 정도는 아니오~」"
 
 [[dialogue]]
-speaker = "シズル"
+speaker_original = "シズル"
+speaker_translation = "시즈루"
 original = "「でも、向こうにいる間も修行は欠かさなかったんですよね？」"
 translation = "「하지만 그쪽에서 지내는 동안에도 수행은 거르지 않았죠?」"
 
 [[dialogue]]
-speaker = "せつな"
+speaker_original = "せつな"
+speaker_translation = "세츠나"
 original = "「もちろんでござる！\u3000忍たる者、常に修行でござるよ」"
 translation = "「물론이오! 닌자 된 자, 항상 수행뿐이오.」"
 
 [[dialogue]]
-speaker = "ヨミ"
+speaker_original = "ヨミ"
+speaker_translation = "요미"
 original = "「せつなさんは少々頑張りすぎかなって心配になるくらいですね」"
 translation = "「세츠나 씨는 조금 과하게 노력하는 게 아닐까 걱정될 정도였죠.」"
 
 [[dialogue]]
-speaker = "シズル"
+speaker_original = "シズル"
+speaker_translation = "시즈루"
 original = "「むむ……せつな？\u3000今のは本当ですか？」"
 translation = "「무무…… 세츠나? 방금 한 말은 사실인가요?」"
 
 [[dialogue]]
-speaker = "せつな"
+speaker_original = "せつな"
+speaker_translation = "세츠나"
 original = "「ううっ、それは……そのぉ……」"
 translation = "「우우, 그건…… 그으……」"
 
 [[dialogue]]
-speaker = "シズル"
+speaker_original = "シズル"
+speaker_translation = "시즈루"
 original = "「修行に励むのはいいことですけど、頑張りすぎはよくないって何度も注意しましたよね？」"
 translation = "「수행에 힘쓰는 건 좋지만, 너무 무리하는 건 좋지 않다고 몇 번이나 주의 줬었죠?」"
 
 [[dialogue]]
-speaker = "シズル"
+speaker_original = "シズル"
+speaker_translation = "시즈루"
 original = "「ほら、あちこち傷だらけじゃないですか。見せてみなさい。特製の秘薬を塗ってあげますから」"
 translation = "「봐요, 여기저기 상처투성이잖아요. 보여줘 보세요. 특제 비약을 발라줄 테니까요.」"
 
 [[dialogue]]
-speaker = "せつな"
+speaker_original = "せつな"
+speaker_translation = "세츠나"
 original = "「おおっ、やったでござる！\u3000師匠の秘薬は、それはもうっ、めちゃくちゃ効き目抜群でござるからな～」"
 translation = "「오오, 신난다 소! 스승님의 비약은 그야말로, 엄청나게 효과가 발군이니 말이오~」"
 
 [[dialogue]]
-speaker = "シズル"
+speaker_original = "シズル"
+speaker_translation = "시즈루"
 original = "「それじゃいいですか～、はいっ♪」"
 translation = "「그럼 괜찮겠나요~ 자♪」"
 
 [[dialogue]]
-speaker = "せつな"
+speaker_original = "せつな"
+speaker_translation = "세츠나"
 original = "「んにゃああああああ～～～～っ！！」"
 translation = "「냐아아아아아아아~~~~앗!!」"
 
@@ -199,82 +233,98 @@ original = "すっごい悲鳴"
 translation = "엄청난 비명이다"
 
 [[dialogue]]
-speaker = "せつな"
+speaker_original = "せつな"
+speaker_translation = "세츠나"
 original = "「しみっ、しみしみでござるよ～～っ！\u3000師匠っ、これはいったいどういうことでござるか～～っ！？」"
 translation = "「따가, 따가따가 소오오~~! 스승님, 이건 대체 어찌 된 일이오~~!?」"
 
 [[dialogue]]
-speaker = "シズル"
+speaker_original = "シズル"
+speaker_translation = "시즈루"
 original = "「せつなのように何度言っても生傷が絶えない子には、特別製のめっちゃしみる秘薬です♪」"
 translation = "「세츠나처럼 몇 번을 말해도 생채기가 끊이지 않는 아이에게는, 특별히 제작된 엄청나게 따가운 비약이랍니다♪」"
 
 [[dialogue]]
-speaker = "せつな"
+speaker_original = "せつな"
+speaker_translation = "세츠나"
 original = "「そんなぁ～～」"
 translation = "「너무하오~~」"
 
 [[dialogue]]
-speaker = "シズル"
+speaker_original = "シズル"
+speaker_translation = "시즈루"
 original = "「これに懲りたら、なるべく怪我をしないようにして下さいね」"
 translation = "「이걸로 뼈저리게 느꼈다면, 가급적 다치지 않도록 하세요.」"
 
 [[dialogue]]
-speaker = "せつな"
+speaker_original = "せつな"
+speaker_translation = "세츠나"
 original = "「うう、そう言われても、修行に怪我はつきものでござるよ……」"
 translation = "「우우, 그렇게 말씀하셔도 수행에 상처는 따라다니는 것이오……」"
 
 [[dialogue]]
-speaker = "シズル"
+speaker_original = "シズル"
+speaker_translation = "시즈루"
 original = "「いーえ、怪我することを当たり前のように考えてはいけません！」"
 translation = "「아-니요, 다치는 것을 당연하게 생각해서는 안 됩니다!」"
 
 [[dialogue]]
-speaker = "せつな"
+speaker_original = "せつな"
+speaker_translation = "세츠나"
 original = "「むむむ……わかったでござる。さっきのしみしみ薬はもうこりごりでござる……」"
 translation = "「무무무…… 알겠소. 아까 그 따가따가 약은 이제 지긋지긋하오……」"
 
 [[dialogue]]
-speaker = "ウズメイア"
+speaker_original = "ウズメイア"
+speaker_translation = "우즈메"
 original = "「ねえねえ、本物の忍者ってどんな修行をするの？\u3000あたし気になるかも！」"
 translation = "「네네, 진짜 닌자는 어떤 수행을 해? 나 궁금할지도!」"
 
 [[dialogue]]
-speaker = "シズル"
+speaker_original = "シズル"
+speaker_translation = "시즈루"
 original = "「おや、気になりますか？」"
 translation = "「어라, 궁금하신가요?」"
 
 [[dialogue]]
-speaker = "せつな"
+speaker_original = "せつな"
+speaker_translation = "세츠나"
 original = "「師匠、素人には無理でござるよ～！」"
 translation = "「스승님, 초보자에게는 무리요~!」"
 
 [[dialogue]]
-speaker = "シズル"
+speaker_original = "シズル"
+speaker_translation = "시즈루"
 original = "「そうでしょうか？\u3000みなさん凄腕の星騎士なんですから、忍者の修行もお茶の子さいさいじゃないですか？」"
 translation = "「그럴까요? 여러분은 실력 좋은 성기사들이니까, 닌자 수행도 식은 죽 먹기 아니겠어요?」"
 
 [[dialogue]]
-speaker = "シズル"
+speaker_original = "シズル"
+speaker_translation = "시즈루"
 original = "「それに……ウズメイアさんはものすごーくやる気みたいですけど」"
 translation = "「게다가…… 우즈메이야 씨는 어어엄청나게 의욕이 넘치는 모양이고요.」"
 
 [[dialogue]]
-speaker = "ウズメイア"
+speaker_original = "ウズメイア"
+speaker_translation = "우즈메"
 original = "「やりたいです！\u3000やらせてください！\u3000目指せ、ニンジャ・マスター！」"
 translation = "「하고 싶어요! 하게 해주세요! 목표는 닌자 마스터!」"
 
 [[dialogue]]
-speaker = "シズル"
+speaker_original = "シズル"
+speaker_translation = "시즈루"
 original = "「ふふっ、やる気いっぱいですね。たいへん結構です♪」"
 translation = "「후훗, 의욕이 가득하네요. 아주 좋습니다♪」"
 
 [[dialogue]]
-speaker = "ウズメイア"
+speaker_original = "ウズメイア"
+speaker_translation = "우즈메"
 original = "「ヨミヨミもどう？\u3000一緒にやろうよ～」"
 translation = "「요미요미도 어때? 같이 하자~」"
 
 [[dialogue]]
-speaker = "ヨミ"
+speaker_original = "ヨミ"
+speaker_translation = "요미"
 original = "「こやぁっ！？\u3000ま、巻き込まないで下さいよ～～」"
 translation = "「코얏!? 저, 저를 끌어들이지 마세요~~」"
 
@@ -284,7 +334,8 @@ original = "ヨミヨミも一緒にやろう！"
 translation = "요미요미도 같이 하자!"
 
 [[dialogue]]
-speaker = "ヨミ"
+speaker_original = "ヨミ"
+speaker_translation = "요미"
 original = "「会長も乗り気！？\u3000もう退路なしじゃないですかぁ～～っ！！」"
 translation = "「회장님도 내키는 분위기!? 이제 퇴로가 없잖아요~~!!」"
 

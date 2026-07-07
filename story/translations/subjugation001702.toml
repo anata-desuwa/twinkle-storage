@@ -1,5 +1,6 @@
 [[dialogue]]
-speaker = "ロクサーナ"
+speaker_original = "ロクサーナ"
+speaker_translation = "록사나"
 original = "「聞くまでもないと思うが、会長、当然『ロミオとジュリエット』は知っているな？」"
 translation = "「물어볼 필요도 없겠지만 회장, 당연히 『로미오와 줄리엣』은 알고 있겠지?」"
 
@@ -9,87 +10,104 @@ original = "実はよく知らなかったり\nなんとなくは……"
 translation = "사실 잘 모르거나\\n어느 정도는……"
 
 [[dialogue]]
-speaker = "ロクサーナ"
+speaker_original = "ロクサーナ"
+speaker_translation = "록사나"
 original = "「なんだと！？\u3000信じられん、あれだけ語り継がれている作品を記憶していない人間が存在するのか！？」"
 translation = "「뭐라고!? 믿을 수 없군, 그토록 대대로 전해 내려오는 작품을 기억하지 못하는 인간이 존재한단 말인가!?」"
 
 [[dialogue]]
-speaker = "ロクサーナ"
+speaker_original = "ロクサーナ"
+speaker_translation = "록사나"
 original = "「いや、いやいや、そうだな、多様性は認めねばならんな。ザッとあらすじを説明してやろう」"
 translation = "「아니, 아니아니, 그렇군. 다양성은 인정해야만 하겠지. 대략적인 줄거리를 설명해 주마.」"
 
 [[dialogue]]
-speaker = "ロクサーナ"
+speaker_original = "ロクサーナ"
+speaker_translation = "록사나"
 original = "「舞台はイタリアの都市ヴェローナだ。そこではモンタギュー家と、キャピュレット家が、血で血を洗う抗争を繰り返している」"
 translation = "「무대는 이탈리아의 도시 베로나다. 그곳에선 몬태규 가문과 캐퓰릿 가문이 피로 피를 씻는 항쟁을 반복하고 있지.」"
 
 [[dialogue]]
-speaker = "メイプル"
+speaker_original = "メイプル"
+speaker_translation = "메이플"
 original = "「そんな中、モンタギュー家のロミオは、親友のマーキューシオに誘われ、キャピュレット家の仮面舞踏会に忍び込む！」"
 translation = "「그런 와중에 몬태규 가문의 로미오는 절친인 머큐시오의 권유로 캐퓰릿 가문의 가면무도회에 잠입한다!」"
 
 [[dialogue]]
-speaker = "藍"
+speaker_original = "藍"
+speaker_translation = "아이"
 original = "「そこでキャピュレットの一人娘ジュリエットに出会い、一目惚れ……たちまち２人は運命的な恋に落ちます」"
 translation = "「거기서 캐퓰릿의 외동딸 줄리엣을 만나 첫눈에 반하고…… 금세 두 사람은 운명적인 사랑에 빠집니다.」"
 
 [[dialogue]]
-speaker = "ロクサーナ"
+speaker_original = "ロクサーナ"
+speaker_translation = "록사나"
 original = "「ここで出会って間もなく、２人はキスを交わす。現代では若者の性の乱れがどうとか言われるが、この時代の方がよっぽど手付けが早い」"
 translation = "「여기서 만난 지 얼마 되지도 않아 두 사람은 키스를 나누지. 현대에는 젊은이들의 성적 타락이 어쩌니 저쩌니들 하지만, 이 시대가 훨씬 손놀림이 빨라.」"
 
 [[dialogue]]
-speaker = "メイプル"
+speaker_original = "メイプル"
+speaker_translation = "메이플"
 original = "「ジュリエットに惚れたロミオは、仮面舞踏会の後、キャピュレット家の果樹園に忍び込んで……」"
 translation = "「줄리엣에게 반한 로미오는 가면무도회가 끝난 뒤, 캐퓰릿 가문의 과수원에 몰래 숨어들어서……」"
 
 [[dialogue]]
-speaker = "藍"
+speaker_original = "藍"
+speaker_translation = "아이"
 original = "「偶然、ジュリエットの部屋のバルコニー下に辿り着き、ひとり語りする彼女の愛の告白を耳にします」"
 translation = "「우연히 줄리엣의 방 발코니 아래에 도착해, 혼잣말하는 그녀의 사랑 고백을 엿듣게 됩니다.」"
 
 [[dialogue]]
-speaker = "ロクサーナ"
+speaker_original = "ロクサーナ"
+speaker_translation = "록사나"
 original = "「どんな凡骨でも知っている、かの有名な『ああロミオ、あなたはどうしてロミオなの』だな」"
 translation = "「어떤 범골이라도 알고 있는 그 유명한 『아아 로미오, 당신은 어찌하여 로미오인가요』지.」"
 
 [[dialogue]]
-speaker = "ロクサーナ"
+speaker_original = "ロクサーナ"
+speaker_translation = "록사나"
 original = "「恋した相手が敵の人間であることを嘆き、たまらずにロミオは彼女の前に姿を現し、思いの丈を打ち明ける」"
 translation = "「사랑에 빠진 상대가 원수 가문의 사람임을 한탄하고, 참다 못한 로미오는 그녀의 앞에 모습을 드러내 온 마음을 털어놓는다.」"
 
 [[dialogue]]
-speaker = "ロクサーナ"
+speaker_original = "ロクサーナ"
+speaker_translation = "록사나"
 original = "「両想いの２人は、口頭で永遠の愛を誓った。まったく、焦れったい２人だ。とっとと言葉ではなく体を使って愛し合えばいいものを」"
 translation = "「서로의 마음을 확인한 두 사람은 말로써 영원한 사랑을 맹세했다. 참으로 감질나는 두 사람이야. 얼른 말이 아니라 몸을 써서 사랑을 나누면 좋으련만.」"
 
 [[dialogue]]
-speaker = "ロクサーナ"
+speaker_original = "ロクサーナ"
+speaker_translation = "록사나"
 original = "「いっそ、私のロミジュリでは本懐を遂げさせてやろうかと思ったくらいだ」"
 translation = "「차라리 내 로미줄리에선 소원을 성취하게 해 줄까 생각했을 정도다.」"
 
 [[dialogue]]
-speaker = "藍"
+speaker_original = "藍"
+speaker_translation = "아이"
 original = "「ひゃあっ……！？\u3000脚本家によって、細かな改変はよくありますけど……」"
 translation = "「히얏……!? 작가에 따라서 세세한 각색은 자주 있지만요……」"
 
 [[dialogue]]
-speaker = "メイプル"
+speaker_original = "メイプル"
+speaker_translation = "메이플"
 original = "「そこまでやっちゃったら、さすがに原作崩壊じゃないですか？」"
 translation = "「거기까지 해버리면 역시 원작 파괴 아니에요?」"
 
 [[dialogue]]
-speaker = "ロクサーナ"
+speaker_original = "ロクサーナ"
+speaker_translation = "록사나"
 original = "「話の大筋さえ違わなければ、問題あるまい。中世を現代に置き換えたり、時事ネタを盛り込むような芝居を見たことはないか？」"
 translation = "「이야기의 큰 줄기만 다르지 않다면 문제없겠지. 중세를 현대에 대입하거나 시사적인 내용을 가미한 연극을 본 적은 없느냐?」"
 
 [[dialogue]]
-speaker = "ロクサーナ"
+speaker_original = "ロクサーナ"
+speaker_translation = "록사나"
 original = "「観客が見たい物を見せるのが、脚本家の仕事だ。私の構築した世界について誰にも文句は言わせん」"
 translation = "「관객이 보고 싶어 하는 것을 보여주는 게 각본가의 일이다. 내가 구축한 세계에 대해 누구도 불평하게 두지 않겠다.」"
 
 [[dialogue]]
-speaker = "ロクサーナ"
+speaker_original = "ロクサーナ"
+speaker_translation = "록사나"
 original = "「だが、今回に関しては、あくまで全年齢向けに配慮してやるとしよう」"
 translation = "「하지만 이번만큼은 어디까지나 전 연령층을 고려해 주기로 하지.」"
 
@@ -99,42 +117,50 @@ original = "どんな濡れ場をやらせるつもりだったの！？"
 translation = "어떤 베드신을 시키려 했던 거야!?"
 
 [[dialogue]]
-speaker = "ロクサーナ"
+speaker_original = "ロクサーナ"
+speaker_translation = "록사나"
 original = "「愛を誓ったふたりはその後、理解者であるロレンス神父のもとで、２人だけの結婚式を挙げるわけだが──とりあえずは、ここまで」"
 translation = "「사랑을 맹세한 두 사람은 그 후, 이해관계자인 로렌스 신부 아래서 둘만의 결혼식을 올리게 되는데── 일단 여기까지.」"
 
 [[dialogue]]
-speaker = "ロクサーナ"
+speaker_original = "ロクサーナ"
+speaker_translation = "록사나"
 original = "「聞いた通りだ。ロミオとジュリエットには早い段階で、手を取り合ってのキスシーンがある」"
 translation = "「들은 대로다. 로미오와 줄리엣은 이른 단계에서 손을 맞잡고 키스하는 장면이 있지.」"
 
 [[dialogue]]
-speaker = "ロクサーナ"
+speaker_original = "ロクサーナ"
+speaker_translation = "록사나"
 original = "「そして、ここからが本題だ。ヒロインのジュリエット役は、この藍なのだがな。とかく、男性に対して免疫がない」"
 translation = "「그리고 여기서부터가 본론이다. 히로인인 줄리엣 역은 이 아이인데 말이다. 아무래도 남성에 대해 면역이 없어.」"
 
 [[dialogue]]
-speaker = "メイプル"
+speaker_original = "メイプル"
+speaker_translation = "메이플"
 original = "「今もあんまりお兄ちゃんと目を合わせてくれないでしょ？\u3000別に嫌いとかじゃなくて、照れ屋さんなんだよね～」"
 translation = "「지금도 오빠랑 눈을 잘 못 맞추잖아? 딱히 싫어해서 그런 게 아니라 수줍음이 많아서 그래~」"
 
 [[dialogue]]
-speaker = "藍"
+speaker_original = "藍"
+speaker_translation = "아이"
 original = "「今だって会長さんと同じ空間にいるだけでもドキドキして……心臓が、破裂してしまいそうなくらいです……うぅ……」"
 translation = "「지금도 회장님과 같은 공간에 있는 것만으로도 두근거려서…… 심장이 터져버릴 것만 같아요…… 으으……」"
 
 [[dialogue]]
-speaker = "メイプル"
+speaker_original = "メイプル"
+speaker_translation = "메이플"
 original = "「藍は新星に来る前は女子校だったんだって。男の人と話したこともほとんどないんだってさ」"
 translation = "「아이는 신성에 오기 전까진 여고였다나 봐. 남자랑 얘기해 본 적도 거의 없대.」"
 
 [[dialogue]]
-speaker = "藍"
+speaker_original = "藍"
+speaker_translation = "아이"
 original = "「は、はい……お父さんくらいです……」"
 translation = "「네, 네…… 아빠 정도예요……」"
 
 [[dialogue]]
-speaker = "ロクサーナ"
+speaker_original = "ロクサーナ"
+speaker_translation = "록사나"
 original = "「そこで星徒会長には、藍の男性恐怖症の克服を手伝ってほしい、というわけだ」"
 translation = "「그래서 성도회장이 아이의 남성 공포증 극복을 도와줬으면 한다는 거다.」"
 
@@ -144,27 +170,32 @@ original = "どうして俺に白羽の矢が？"
 translation = "왜 나한테 화살이 돌아오는 거야?"
 
 [[dialogue]]
-speaker = "ロクサーナ"
+speaker_original = "ロクサーナ"
+speaker_translation = "록사나"
 original = "「困りごとがあったら、とりあえずは星徒会に頼むのが筋だろう。特にメイプルは会長と深い仲だというじゃないか」"
 translation = "「곤란한 일이 있으면 일단 성도회에 의지하는 게 도리겠지. 특히 메이플은 회장과 깊은 사이라지 않느냐.」"
 
 [[dialogue]]
-speaker = "藍"
+speaker_original = "藍"
+speaker_translation = "아이"
 original = "「ふ、深い仲っ……ですか……！？」"
 translation = "「기, 깊은 사이…… 인가요……!?」"
 
 [[dialogue]]
-speaker = "メイプル"
+speaker_original = "メイプル"
+speaker_translation = "메이플"
 original = "「ふっふっふ、そう！\u3000我と魔王は魂の盟約にて兄妹の絆が結ばれている！\u3000故に、<ruby>直截<rt>ちょくさい</rt></ruby>に助けを乞うたのだ！」"
 translation = "「훗훗훗, 그래! 짐과 마왕은 영혼의 맹약으로 남매의 인연이 맺어져 있다! 고로, 단도직입적으로 도움을 청한 것이지!」"
 
 [[dialogue]]
-speaker = "メイプル"
+speaker_original = "メイプル"
+speaker_translation = "메이플"
 original = "「藍、お兄ちゃん相手なら怖がらなくても大丈夫だよ。絶対に優しくレクチャーしてくれるから！」"
 translation = "「아이, 오빠라면 무서워하지 않아도 괜찮아. 틀림없이 다정하게 가르쳐 줄 테니까!」"
 
 [[dialogue]]
-speaker = "ロクサーナ"
+speaker_original = "ロクサーナ"
+speaker_translation = "록사나"
 original = "「これまでも数多の厄介ごとを解決してきたのは、聞き及んでいる。新星が誇る演劇部の頼み、引き受けてくれるだろう？」"
 translation = "「지금껏 수많은 귀찮은 일들을 해결해 왔다고 전해 들었다. 신성이 자랑하는 연극부의 부탁, 들어주겠지?」"
 
@@ -174,7 +205,8 @@ original = "わかりました"
 translation = "알겠습니다"
 
 [[dialogue]]
-speaker = "ロクサーナ"
+speaker_original = "ロクサーナ"
+speaker_translation = "록사나"
 original = "「よーし！\u3000言質は取った！\u3000では、星徒会長をロミオ役とする！」"
 translation = "「조아쓰! 언질은 받았다! 그럼 성도회장을 로미오 역으로 임명한다!」"
 
@@ -184,22 +216,26 @@ original = "ロミオ役までは聞いてない！？"
 translation = "로미오 역까지는 못 들었는데!?"
 
 [[dialogue]]
-speaker = "ロクサーナ"
+speaker_original = "ロクサーナ"
+speaker_translation = "록사나"
 original = "「なぁに、ド素人を舞台のド真ん中に放り出すほど、私の面の皮は厚くない。あくまで藍の男性恐怖症を克服するまでの仮采配だ」"
 translation = "「뭐냐, 생초보를 무대 한가운데에 내던질 정도로 내 낯짝이 두껍지는 않다. 어디까지나 아이의 남성 공포증을 극복할 때까지의 임시 배치지.」"
 
 [[dialogue]]
-speaker = "ロクサーナ"
+speaker_original = "ロクサーナ"
+speaker_translation = "록사나"
 original = "「文化祭まで稽古に付き合ってくれるだけで十分だ。覚えやすいように台詞も改変してやるし、カンペも用意してやる」"
 translation = "「문화제까지 연습을 도와주는 것만으로 충분하다. 외우기 쉽게 대사도 고쳐 줄 거고, 커닝 페이퍼도 준비해 주마.」"
 
 [[dialogue]]
-speaker = "メイプル"
+speaker_original = "メイプル"
+speaker_translation = "메이플"
 original = "「早速、お稽古だね。お兄ちゃんのお手並み拝見！」"
 translation = "「당장 연습 시작이네. 오빠의 솜씨 좀 볼까!」"
 
 [[dialogue]]
-speaker = "藍"
+speaker_original = "藍"
+speaker_translation = "아이"
 original = "「よよよよよろしくお願いします……！」"
 translation = "「자자자자잘 부탁드립니다……!」"
 

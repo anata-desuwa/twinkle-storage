@@ -1,20 +1,24 @@
 [[dialogue]]
-speaker = "ユーリス"
+speaker_original = "ユーリス"
+speaker_translation = "유리스"
 original = "「はぁ、はぁ、はぁ……。ひ、酷い目に遭った……」"
 translation = "「하아, 하아, 하아……. 지, 지독한 일을 당했어……」"
 
 [[dialogue]]
-speaker = "セーラ"
+speaker_original = "セーラ"
+speaker_translation = "세라"
 original = "「ふふ、これぞ女ならではの友情の深め合いだよ～。こういうのしたことなかったでしょ？」"
 translation = "「후후, 이것이야말로 여자들만의 우정을 쌓는 방법이야~. 이런 거 해본 적 없었지?」"
 
 [[dialogue]]
-speaker = "ユウリ"
+speaker_original = "ユウリ"
+speaker_translation = "유우리"
 original = "「すっげえもん見た……あれ普段は潰してごまかしてんのか……」"
 translation = "「엄청난 걸 봤어…… 저걸 평소에는 짓눌러서 속이고 있는 거냐……」"
 
 [[dialogue]]
-speaker = "ユウリ"
+speaker_original = "ユウリ"
+speaker_translation = "유우리"
 original = "「マジであたしよりあったし。なんならセーラ先輩よりあったし。男装女子に負けるとは……」"
 translation = "「진짜로 나보다 컸어. 심지어 세라 선배보다 컸다고. 남장 여자한테 지다니……」"
 
@@ -24,17 +28,20 @@ original = "ユウリも十分大きいと思うけどな"
 translation = "유우리도 충분히 크다고 생각하는데"
 
 [[dialogue]]
-speaker = "ユウリ"
+speaker_original = "ユウリ"
+speaker_translation = "유우리"
 original = "「そ、そうか……？\u3000って、どさくさに紛れて谷間覗き込んでんじゃねえよ！？」"
 translation = "「그, 그런가……? 가 아니라, 틈을 타서 가슴골 들여다보지 말라고!?」"
 
 [[dialogue]]
-speaker = "ユーリス"
+speaker_original = "ユーリス"
+speaker_translation = "유리스"
 original = "「……ふむ。隙あらば女の子の胸を、か。本当に会長の所作は男として生きる上での参考になるよ」"
 translation = "「……흠. 틈만 나면 여자애의 가슴을, 인가. 정말로 회장의 거동은 남자로 살아가는 데 있어 참고가 되는군.」"
 
 [[dialogue]]
-speaker = "セーラ"
+speaker_original = "セーラ"
+speaker_translation = "세라"
 original = "「いや、それは真似しちゃいけないヤツだから。王子はジェントルマンでいておくれ」"
 translation = "「아니, 그건 따라 하면 안 되는 거거든. 왕자님은 제틀맨으로 남아줘.」"
 
@@ -44,32 +51,38 @@ original = "それよりモンスターについてだけど"
 translation = "그보다 몬스터에 대해서인데"
 
 [[dialogue]]
-speaker = "ユウリ"
+speaker_original = "ユウリ"
+speaker_translation = "유우리"
 original = "「急に真面目な話に戻るなよ」"
 translation = "「갑자기 진지한 이야기로 돌아오지 마.」"
 
 [[dialogue]]
-speaker = "セーラ"
+speaker_original = "セーラ"
+speaker_translation = "세라"
 original = "「でも妙なモンスターだったことには間違いないよねー？\u3000ヘレナさんの言うとおり、どこからともなく急に現れたし」"
 translation = "「그치만 묘한 몬스터였던 건 틀림없지~? 헬레나 씨 말대로 어디선가 갑자기 나타났고.」"
 
 [[dialogue]]
-speaker = "ユーリス"
+speaker_original = "ユーリス"
+speaker_translation = "유리스"
 original = "「今回も外部から侵入した形跡はなかったよ。つまり、モンスターは最初から店内に隠れ潜んでいたんだ」"
 translation = "「이번에도 외부에서 침입한 형적은 없었어요. 즉, 몬스터는 처음부터 점내에 숨어 있었던 겁니다.」"
 
 [[dialogue]]
-speaker = "ユウリ"
+speaker_original = "ユウリ"
+speaker_translation = "유우리"
 original = "「それはそれで不思議だよな。セーラ先輩もユーリスも店内を隅々まで見回ってたんだろ？」"
 translation = "「그건 그것대로 이상하네. 세라 선배도 유리스도 점내 구석구석까지 순찰했었잖아?」"
 
 [[dialogue]]
-speaker = "ユーリス"
+speaker_original = "ユーリス"
+speaker_translation = "유리스"
 original = "「ああ。モンスターが現れた場所も見回っていたよ。その時は不審な点は見当たらなかった」"
 translation = "「네. 몬스터가 나타난 장소도 순찰했었습니다. 그때는 수상한 점을 발견하지 못했어요.」"
 
 [[dialogue]]
-speaker = "セーラ"
+speaker_original = "セーラ"
+speaker_translation = "세라"
 original = "「そもそもアステラは？\u3000モンスターって普通、アステラから出てくるもんっしょ？\u3000あのモンスター、うちらの常識から外れてるよねー？」"
 translation = "「애초에 아스텔라는? 몬스터는 보통 아스텔라에서 나오는 거잖아? 그 몬스터, 우리의 상식에서 벗어나 있네~」"
 
@@ -79,17 +92,20 @@ original = "新種のモンスターなのかも"
 translation = "신종 몬스터일지도 몰라"
 
 [[dialogue]]
-speaker = "ユーリス"
+speaker_original = "ユーリス"
+speaker_translation = "유리스"
 original = "「……可能性はあるね。あのカジノに適応したような外見……通常のモンスターじゃないことは確かだ」"
 translation = "「……가능성은 있네. 저 카지노에 적응한 듯한 외관…… 일반적인 몬스터가 아닌 건 확실해.」"
 
 [[dialogue]]
-speaker = "セーラ"
+speaker_original = "セーラ"
+speaker_translation = "세라"
 original = "「めっちゃカードっぽい見た目してたもんね？\u3000なんかそこにヒントがあるのかも」"
 translation = "「딱 카드 같은 생김새였지? 왠지 거기에 힌트가 있을지도 몰라.」"
 
 [[dialogue]]
-speaker = "ユウリ"
+speaker_original = "ユウリ"
+speaker_translation = "유우리"
 original = "「そういえばヘレナさんがなんか言ってませんでした？\u3000前にモンスターが暴れた後、カードがなんちゃらって」"
 translation = "「그러고 보니 헬레나 씨가 뭔가 말하지 않았었나요? 전에 몬스터가 난동을 피운 뒤에 카드가 어쩌구 저쩌구 하고.」"
 
@@ -99,42 +115,50 @@ original = "言われてみれば──"
 translation = "듣고 보니──"
 
 [[dialogue]]
-speaker = "ヘレナ"
+speaker_original = "ヘレナ"
+speaker_translation = "헬레나"
 original = "「事件に関係あるかどうかはわからないが、私がモンスターを倒した後、妙なものが見つかってな」"
 translation = "「사건과 관계가 있을지는 모르겠지만, 내가 몬스터를 쓰러뜨린 후 묘한 것이 발견되어서 말이지.」"
 
 [[dialogue]]
-speaker = "ユーリス"
+speaker_original = "ユーリス"
+speaker_translation = "유리스"
 original = "「妙なものですか？」"
 translation = "「묘한 것입니까?」"
 
 [[dialogue]]
-speaker = "ヘレナ"
+speaker_original = "ヘレナ"
+speaker_translation = "헬레나"
 original = "「ああ。カードが細切れになって散らばっていたのだ」"
 translation = "「그래. 카드가 조각조각 나서 흩어져 있었느니라.」"
 
 [[dialogue]]
-speaker = "ヘレナ"
+speaker_original = "ヘレナ"
+speaker_translation = "헬레나"
 original = "「負けが込んで苛ついた客が捨てた物かとは思ったが。今にして思えば、あそこまでズタズタにするものかとな」"
 translation = "「돈을 잃어서 화가 난 손님이 버린 것이라 생각했다만. 지금 와서 생각해보면 그렇게까지 갈가리 찢어놓을 일인가 싶더군.」"
 
 [[dialogue]]
-speaker = "ヘレナ"
+speaker_original = "ヘレナ"
+speaker_translation = "헬레나"
 original = "「そこまでマナーの悪い客がいれば、うちの優秀なスタッフなら気付くであろう。妙な話だ」"
 translation = "「그 정도로 매너 없는 손님이 있었다면 우리 우수한 스태프들이 눈치챘을 터. 묘한 일이지.」"
 
 [[dialogue]]
-speaker = "セーラ"
+speaker_original = "セーラ"
+speaker_translation = "세라"
 original = "「なんか怪しいな～。うちも聞き込みしてる時に、従業員の人からカードの備品が減ってるって愚痴られたし」"
 translation = "「왠지 수상하단 말이지~. 나도 정보 수집할 때 종업원한테서 카드 비품이 줄어들고 있다는 푸념을 들었거든.」"
 
 [[dialogue]]
-speaker = "ユーリス"
+speaker_original = "ユーリス"
+speaker_translation = "유리스"
 original = "「そういえば私も先輩ディーラーがぼやいているのを聞いたね。誰かがデックを無造作に放置してるって」"
 translation = "「그러고 보니 저도 선배 딜러가 투덜대는 걸 들었네요. 누군가가 덱을 아무렇게나 방치하고 있다고.」"
 
 [[dialogue]]
-speaker = "ユウリ"
+speaker_original = "ユウリ"
+speaker_translation = "유우리"
 original = "「つまりモンスターがカードを……ん？\u3000いや、まさかそういうことか？」"
 translation = "「즉 몬스터가 카드를…… 응? 아니, 설마 그런 건가?」"
 
@@ -144,7 +168,8 @@ original = "店内のカードをかき集めてみよう！"
 translation = "점내의 카드를 긁어모아 보자!"
 
 [[dialogue]]
-speaker = "ユウリ"
+speaker_original = "ユウリ"
+speaker_translation = "유우리"
 original = "「ああ、そうと決まれば善は急げだ！」"
 translation = "「그래, 그렇게 정했으면 쇠뿔도 단김에 빼라지!」"
 

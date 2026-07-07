@@ -4,17 +4,20 @@ original = "第１話,波打ち際ランデブー,P"
 translation = "제1화, 파도치는 바닷가의 랑데부, P"
 
 [[dialogue]]
-speaker = "ベアトリス"
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
 original = "「あははっ、あははははっ」"
 translation = "「아하하, 아하하하하」"
 
 [[dialogue]]
-speaker = "ベアトリス"
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
 original = "「会長さ～んっ。こっちですよ、こっち～！！」"
 translation = "「회장님～. 이쪽이에요, 이쪽～!!」"
 
 [[dialogue]]
-speaker = "ベアトリス"
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
 original = "「私のこと、捕まえてみてくださ～いっ♪」"
 translation = "「저를, 잡아보세요～♪」"
 
@@ -24,27 +27,32 @@ original = "待て～～！！"
 translation = "거기 서라～～!!"
 
 [[dialogue]]
-speaker = "ベアトリス"
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
 original = "「待ちませ～んっ♪」"
 translation = "「안 설 거예요～♪」"
 
 [[dialogue]]
-speaker = "ベアトリス"
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
 original = "「あははっ、波が冷たくて気持ちいいっ。太陽がキラキラ反射して、まるで光の上を走ってるみたいっ」"
 translation = "「아하하, 파도가 차가워서 기분 좋아. 태양이 반짝반짝 반사돼서, 마치 빛 위를 달리는 것 같아」"
 
 [[dialogue]]
-speaker = "ベアトリス"
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
 original = "「踏む度に砂がきゅっきゅって鳴って、ふふふっ、とっても気持ちいいですっ」"
 translation = "「밟을 때마다 모래가 뽀득뽀득 소리를 내서, 후후후, 정말 기분 좋아요」"
 
 [[dialogue]]
-speaker = "ベアトリス"
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
 original = "「ほら、会長さんっ。早く私を捕まえないと、どんどん逃げていっちゃいますよ～っ？\u3000ほら早く──」"
 translation = "「자, 회장님. 빨리 저를 잡지 않으면, 점점 도망가 버릴 거예요～? 자 빨리──」"
 
 [[dialogue]]
-speaker = "ベアトリス"
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
 original = "「きゃっ！？」"
 translation = "「꺄악!?」"
 
@@ -54,7 +62,8 @@ original = "危ないっ！"
 translation = "위험해!"
 
 [[dialogue]]
-speaker = "ベアトリス"
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
 original = "「わわっ……。つ、捕まっちゃいました……<emoji=heart04>」"
 translation = "「와와…… 크, 잡혀버렸네요……<emoji=heart04>」"
 
@@ -64,47 +73,56 @@ original = "はしゃぎすぎると危ないよ？"
 translation = "너무 들뜨면 위험해."
 
 [[dialogue]]
-speaker = "ベアトリス"
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
 original = "「えへへ、すみません。でも、つい心が躍っちゃって」"
 translation = "「에헤헤, 죄송해요. 하지만, 저도 모르게 마음이 들떠서」"
 
 [[dialogue]]
-speaker = "ベアトリス"
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
 original = "「こんなに明るくて爽やかな太陽の光を浴びられるのも、星騎士でいられる今のうちだけですから」"
 translation = "「이렇게 밝고 상쾌한 태양 빛을 쬘 수 있는 것도, 성기사로 있을 수 있는 지금뿐이니까요」"
 
 [[dialogue]]
-speaker = "ベアトリス"
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
 original = "「できる限り太陽の下で、楽しい思い出を作っておきたくて。こんなに綺麗なビーチ、きっと魔界にはありませんしね？」"
 translation = "「가능한 한 태양 아래에서, 즐거운 추억을 만들어 두고 싶어서요. 이렇게 예쁜 비치, 분명 마계에는 없을 테니까요?」"
 
 [[dialogue]]
-speaker = "ベアトリス"
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
 original = "「それに、こういうのちょっぴり憧れてたんです……」"
 translation = "「게다가, 이런 거 조금 동경했거든요……」"
 
 [[dialogue]]
-speaker = "ベアトリス"
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
 original = "「真夏のビーチの波打ち際で、大切に想っている人と……その、追いかけっこするの……」"
 translation = "「한여름 비치의 파도치는 바닷가에서, 소중하게 생각하는 사람과…… 그, 나잡아봐라 하는 거……」"
 
 [[dialogue]]
-speaker = "ベアトリス"
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
 original = "「あっ、大切に想ってるって言っても、あくまで共に戦う仲間としてですけどねっ？」"
 translation = "「앗, 소중하게 생각한다는 건, 어디까지나 함께 싸우는 동료로서지만요?」"
 
 [[dialogue]]
-speaker = "ベアトリス"
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
 original = "「波打ち際で追いかけっこっていうのも、人間界のドラマで見て、なんかいいなぁって思っただけですしっ」"
 translation = "「바닷가에서 나잡아봐라 하는 것도, 인간계 드라마에서 보고, 왠지 좋겠다 싶었을 뿐이고요!」"
 
 [[dialogue]]
-speaker = "ベアトリス"
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
 original = "「深い意味はないんですっ。本当にその、他意は何もっ」"
 translation = "「깊은 의미는 없어요. 정말로 그, 다른 뜻은 아무것도!」"
 
 [[dialogue]]
-speaker = "ベアトリス"
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
 original = "「や、やっぱり私……少しはしゃぎすぎていたのかもしれません」"
 translation = "「여, 역시 저…… 조금 너무 들떠 있었나 보네요」"
 
@@ -114,7 +132,8 @@ original = "それでいいんじゃないかな"
 translation = "그걸로 괜찮지 않을까."
 
 [[dialogue]]
-speaker = "ベアトリス"
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
 original = "「え？\u3000どういうことですか？」"
 translation = "「에? 무슨 말씀이세요?」"
 
@@ -124,22 +143,26 @@ original = "思い出が何かを守る気持ちになるから"
 translation = "추억이 무언가를 지키고 싶은 마음이 되니까."
 
 [[dialogue]]
-speaker = "ベアトリス"
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
 original = "「私の作った思い出が……」"
 translation = "「제가 만든 추억이……」"
 
 [[dialogue]]
-speaker = "ベアトリス"
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
 original = "「ふふ、そうですね。きっとそうです。うんと楽しい思い出を作って、強くなります！」"
 translation = "「후후, 그렇네요. 분명 그럴 거예요. 아주 즐거운 추억을 만들어서, 강해질게요!」"
 
 [[dialogue]]
-speaker = "ベアトリス"
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
 original = "「ありがとうございます、会長さん」"
 translation = "「고마워요, 회장님」"
 
 [[dialogue]]
-speaker = "ベアトリス"
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
 original = "「私、心の底から思いっきり、常夏のリゾートを、爽やかで開放的なビーチを、楽しんじゃいますね！」"
 translation = "「저, 마음 깊은 곳에서부터 마음껏, 상하 리조트를, 상쾌하고 개방적인 비치를 즐겨버릴게요!」"
 
@@ -149,52 +172,62 @@ original = "ああ、それでいいと思うよ"
 translation = "그래, 그러면 된다고 생각해."
 
 [[dialogue]]
-speaker = "ベアトリス"
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
 original = "「えへへ。じゃあ質問なんですけど」"
 translation = "「에헤헤. 그럼 질문인데요」"
 
 [[dialogue]]
-speaker = "ベアトリス"
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
 original = "「私の水着姿……どう思いますか？\u3000ふふ、似合ってます？」"
 translation = "「제 수영복 모습…… 어떻게 생각하세요? 후후, 어울리나요?」"
 
 [[dialogue]]
-speaker = "ベアトリス"
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
 original = "「あはは、そんなに驚かないでいいじゃないですか。さっきから、ずーっと見つめていますよね？」"
 translation = "「아하하, 그렇게 놀라지 않아도 되잖아요. 아까부터, 계～속 쳐다보고 계셨죠?」"
 
 [[dialogue]]
-speaker = "ベアトリス"
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
 original = "「私、水着を着るのも初めてなんです。種族柄、あまり肌を露出するような衣装って着ませんしね」"
 translation = "「저, 수영복을 입는 것도 처음이에요. 종족 특성상, 별로 피부를 노출하는 의상은 입지 않으니까요」"
 
 [[dialogue]]
-speaker = "ベアトリス"
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
 original = "「ねね、どう思いますか？\u3000黒のビキニって大胆すぎます？\u3000個人的には気に入ってるんですけど」"
 translation = "「있죠 있죠, 어떻게 생각하세요? 검은색 비키니는 너무 대담한가요? 개인적으로는 마음에 드는데」"
 
 [[dialogue]]
-speaker = "ベアトリス"
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
 original = "「ほーら、上から下までよーく見て教えてください<emoji=heart04>」"
 translation = "「자아, 위에서 아래까지 자～알 보고 알려주세요<emoji=heart04>」"
 
 [[dialogue]]
-speaker = "ベアトリス"
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
 original = "「アポロちゃんは動きやすそうでいいなって言ってくれたんですよ？\u3000梨緒ちゃんも似合ってるって」"
 translation = "「아폴로짱은 움직이기 편해 보여서 좋다고 해줬거든요? 리오짱도 어울린다고」"
 
 [[dialogue]]
-speaker = "ベアトリス"
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
 original = "「ナターシャちゃんは、何故か意味深な顔で笑ってましたけど」"
 translation = "「나타샤짱은, 왠지 의미심장한 얼굴로 웃고 있었지만요」"
 
 [[dialogue]]
-speaker = "ベアトリス"
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
 original = "「ね、どう思います？\u3000ふふ、急に顔を逸らさないでくださいよ♪\u3000さっきまであんなに見てたじゃないですか♪」"
 translation = "「저기, 어떻게 생각해요? 후후, 갑자기 고개를 돌리지 마세요♪ 아까까지 그렇게 보고 있었으면서♪」"
 
 [[dialogue]]
-speaker = "ベアトリス"
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
 original = "「目を泳がせてないで、ちゃんと見てください♪\u3000見てくれないなら、無理やりにでもこうして見せちゃいますよ？」"
 translation = "「눈 피하지 말고, 제대로 봐주세요♪ 안 봐주신다면, 억지로라도 이렇게 보여줄 거예요?」"
 
@@ -204,42 +237,50 @@ original = "ベアトって意外と大胆だよな……"
 translation = "베아토는 의외로 대담하단 말이지……."
 
 [[dialogue]]
-speaker = "ベアトリス"
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
 original = "「こんな衣装を着られるのも今のうちだけですから。どんな風に感じてもらえるのか聞いておかないと損なので」"
 translation = "「이런 의상을 입을 수 있는 것도 지금뿐이니까요. 어떤 식으로 느껴지는지 들어두지 않으면 손해니까」"
 
 [[dialogue]]
-speaker = "ベアトリス"
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
 original = "「それと、話も逸らさないでくださいね？\u3000話題を変えようとしても無駄ですよ？\u3000私、会長さんの感想が聞きたいんです」"
 translation = "「그리고, 말 돌리지 마세요? 화제를 바꾸려 해도 소용없어요. 전, 회장님의 감상을 듣고 싶거든요」"
 
 [[dialogue]]
-speaker = "ベアトリス"
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
 original = "「普段の私より……魅力的に見えてますか？\u3000ドキドキしちゃったりしてくれてます？」"
 translation = "「평소의 저보다…… 매력적으로 보이나요? 두근두근하거나 해주고 있나요?」"
 
 [[dialogue]]
-speaker = "ベアトリス"
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
 original = "「だとしたら……えへへ。恥ずかしすぎて、灰になっちゃうかもしれません……」"
 translation = "「만약 그렇다면…… 에헤헤. 너무 부끄러워서, 재가 되어버릴지도 몰라요……」"
 
 [[dialogue]]
-speaker = "ベアトリス"
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
 original = "「ただでさえ今日、会長さんをビーチに誘っただけでも灰になっちゃいそうなほど照れていたのに……」"
 translation = "「안 그래도 오늘, 회장님을 비치로 유혹한 것만으로도 재가 되어버릴 정도로 수줍어하고 있었는데……」"
 
 [[dialogue]]
-speaker = "ベアトリス"
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
 original = "「でも、聞きたいです。あなたが私の水着姿をどんな風に思ってくれているのか」"
 translation = "「하지만, 듣고 싶어요. 당신이 제 수영복 모습을 어떻게 생각해주고 있는지」"
 
 [[dialogue]]
-speaker = "ベアトリス"
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
 original = "「教えてくれますか？\u3000私の大切な大切な思い出のひとつにするために」"
 translation = "「알려주실래요? 제 소중하고 소중한 추억 중 하나로 만들기 위해서」"
 
 [[dialogue]]
-speaker = "ベアトリス"
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
 original = "「ふふふ……楽しい思い出を私に作ってくださいね」"
 translation = "「후후후…… 즐거운 추억을 저에게 만들어 주세요」"
 

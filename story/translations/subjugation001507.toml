@@ -1,65 +1,78 @@
 [[dialogue]]
-speaker = "モンスター"
+speaker_original = "モンスター"
+speaker_translation = "몬스터"
 original = "「イ～～～～……」"
 translation = "「이이이이……」"
 
 [[dialogue]]
-speaker = "カティア"
+speaker_original = "カティア"
+speaker_translation = "카티아"
 original = "「ふぅ……ようやくモンスターから解放された……」"
 translation = "「후우…… 겨우 몬스터한테서 해방됐다……」"
 
 [[dialogue]]
-speaker = "イングリット"
+speaker_original = "イングリット"
+speaker_translation = "잉그리드"
 original = "「あの程度の雑魚共なら、助けなど不要だったのだがな」"
 translation = "「저 정도 피라미들이라면 도움 따위 불필요했다만」"
 
 [[dialogue]]
-speaker = "ジュリエッテ"
+speaker_original = "ジュリエッテ"
+speaker_translation = "줄리엣타"
 original = "「ええ、イングリット様なら余裕でしょうけど、あのまま見過ごすわけにもいきませんでしたので」"
 translation = "「네, 잉그리드 님이라면 여유로우셨겠지만, 그대로 방치할 수도 없었으니까요」"
 
 [[dialogue]]
-speaker = "イングリット"
+speaker_original = "イングリット"
+speaker_translation = "잉그리드"
 original = "「フン」"
 translation = "「흥」"
 
 [[dialogue]]
-speaker = "マリーベル"
+speaker_original = "マリーベル"
+speaker_translation = "메리벨"
 original = "「それより、あなたが星騎士を襲ってセレスティアを奪った犯人なの？」"
 translation = "「그보다 당신이 성기사를 습격해서 셀레스티아를 훔친 범인이야?」"
 
 [[dialogue]]
-speaker = "イングリット"
+speaker_original = "イングリット"
+speaker_translation = "잉그리드"
 original = "「そうだ。何か問題でも？」"
 translation = "「그렇다. 무슨 문제라도?」"
 
 [[dialogue]]
-speaker = "マリーベル"
+speaker_original = "マリーベル"
+speaker_translation = "메리벨"
 original = "「問題あるに決まってるじゃない。あれがないと星騎士は変身できないんだから」"
 translation = "「문제 있는 게 당연하잖아. 그게 없으면 성기사는 변신할 수 없으니까」"
 
 [[dialogue]]
-speaker = "イングリット"
+speaker_original = "イングリット"
+speaker_translation = "잉그리드"
 original = "「弱者があんなものを持っていてもしょうがないだろう。だから、勲章代わりに奪ってやったまでだ」"
 translation = "「약자가 저런 걸 가지고 있어 봤자 소용없지 않나. 그러니 훈장 대신 빼앗아줬을 뿐이다」"
 
 [[dialogue]]
-speaker = "ジュリエッテ"
+speaker_original = "ジュリエッテ"
+speaker_translation = "줄리엣타"
 original = "「セレスティアを奪うのは、コラプサーの任務でございませんわ……なので完全にイングリット様の趣味でございますわね」"
 translation = "「셀레스티아를 빼앗는 건 콜랩서의 임무가 아니사와요…… 그러니 완전히 잉그리드 님의 취미예요」"
 
 [[dialogue]]
-speaker = "マリーベル"
+speaker_original = "マリーベル"
+speaker_translation = "메리벨"
 original = "「本当に悪趣味ね……」"
 translation = "「정말 악취미네……」"
 
 [[dialogue]]
-speaker = "ジュリエッテ"
+speaker_original = "ジュリエッテ"
+speaker_translation = "줄리엣타"
 original = "（イングリット様、星騎士から星力を集めるという任務を忘れていらっしゃいますわね……。やはり三歩歩けば忘れる戦闘バカでございますわ）"
 translation = "（잉그리드 님, 성기사로부터 성력을 모으라는 임무를 잊고 계시는군요……. 역시 세 걸음 걸으면 잊어버리는 전투 바보예요）"
 
 [[dialogue]]
-speaker = "ジュリエッテ"
+speaker_original = "ジュリエッテ"
+speaker_translation = "줄리엣타"
 original = "（まぁ、バカならバカなりに利用させていただきましょう。せいぜいわたくしの役に立つがいいでございますわ！）"
 translation = "（뭐, 바보라면 바보대로 이용해드리죠. 기껏해야 제 도움이 되어달라고요!）"
 
@@ -69,42 +82,50 @@ original = "セレスティアを返してくれないか？"
 translation = "셀레스티아를 돌려주지 않겠어?"
 
 [[dialogue]]
-speaker = "イングリット"
+speaker_original = "イングリット"
+speaker_translation = "잉그리드"
 original = "「いいだろう、返してやる。──無論、タダではないがな」"
 translation = "「좋다, 돌려주마. ──물론 공짜는 아니다만」"
 
 [[dialogue]]
-speaker = "イングリット"
+speaker_original = "イングリット"
+speaker_translation = "잉그리드"
 original = "「私が望むものはただひとつ。強者との血沸き肉躍る戦いだ」"
 translation = "「내가 바라는 것은 단 하나. 강자와의 피 끓고 살 떨리는 전투다」"
 
 [[dialogue]]
-speaker = "マリーベル"
+speaker_original = "マリーベル"
+speaker_translation = "메리벨"
 original = "「……やはり戦闘は避けられないようね」"
 translation = "「……역시 전투는 피할 수 없는 모양이네」"
 
 [[dialogue]]
-speaker = "イングリット"
+speaker_original = "イングリット"
+speaker_translation = "잉그리드"
 original = "「魔王、私と一踊りしてもらおうか！」"
 translation = "「마왕, 나와 한바탕 춤춰줘야겠군!」"
 
 [[dialogue]]
-speaker = "イングリット"
+speaker_original = "イングリット"
+speaker_translation = "잉그리드"
 original = "「ほう、この一撃を避けたか」"
 translation = "「호오, 이 일격을 피했나」"
 
 [[dialogue]]
-speaker = "カティア"
+speaker_original = "カティア"
+speaker_translation = "카티아"
 original = "「いきなり攻撃するなんて卑怯だワン……！！」"
 translation = "「갑자기 공격하다니 비겁하다멍……!!」"
 
 [[dialogue]]
-speaker = "イングリット"
+speaker_original = "イングリット"
+speaker_translation = "잉그리드"
 original = "「なに、魔王の強さを推し量ったまでだ。くく、期待通りの強さのようだな」"
 translation = "「뭐냐, 마왕의 강함을 가늠해본 것뿐이다. 크크, 기대대로의 강함인 모양이군」"
 
 [[dialogue]]
-speaker = "イングリット"
+speaker_original = "イングリット"
+speaker_translation = "잉그리드"
 original = "「おっと、貴様らは動くなよ？\u3000私は魔王と戦うために来たんだからな」"
 translation = "「어이, 네놈들은 움직이지 마라? 나는 마왕과 싸우기 위해 왔으니까 말이다」"
 
@@ -114,47 +135,56 @@ original = "大丈夫。任せて"
 translation = "괜찮아. 나한테 맡겨"
 
 [[dialogue]]
-speaker = "マリーベル"
+speaker_original = "マリーベル"
+speaker_translation = "메리벨"
 original = "「……わかった。信じるわよ」"
 translation = "「……알았어. 믿을게」"
 
 [[dialogue]]
-speaker = "イングリット"
+speaker_original = "イングリット"
+speaker_translation = "잉그리드"
 original = "「さあ魔王、存分に殺し合おうじゃないか！」"
 translation = "「자 마왕, 마음껏 서로 죽여보자고!」"
 
 [[dialogue]]
-speaker = "カティア"
+speaker_original = "カティア"
+speaker_translation = "카티아"
 original = "「はわわ……！\u3000攻撃が早すぎて目で追えません……！」"
 translation = "「하와와……! 공격이 너무 빨라서 눈으로 쫓을 수가 없어요……!」"
 
 [[dialogue]]
-speaker = "マリーベル"
+speaker_original = "マリーベル"
+speaker_translation = "메리벨"
 original = "「でもさすがは会長さんね、紙一重で回避してるわ」"
 translation = "「하지만 역시 회장님이야, 종이 한 장 차이로 회피하고 있어」"
 
 [[dialogue]]
-speaker = "イングリット"
+speaker_original = "イングリット"
+speaker_translation = "잉그리드"
 original = "「だが逃げてばかりでは私を倒すことは出来ないぞ……！」"
 translation = "「하지만 도망치기만 해서는 나를 쓰러뜨릴 수 없다고……!」"
 
 [[dialogue]]
-speaker = "イングリット"
+speaker_original = "イングリット"
+speaker_translation = "잉그리드"
 original = "「くっ……！\u3000カウンターとは中々やるじゃないか！」"
 translation = "「큭……! 카운터라니 제법이지 않나!」"
 
 [[dialogue]]
-speaker = "カティア"
+speaker_original = "カティア"
+speaker_translation = "카티아"
 original = "「魔王様の攻撃が通った！」"
 translation = "「마왕님의 공격이 통했어!」"
 
 [[dialogue]]
-speaker = "マリーベル"
+speaker_original = "マリーベル"
+speaker_translation = "메리벨"
 original = "「でも違和感があるわ。会長さんがいくら強くても、あんなに簡単にダメージが通るかしら？」"
 translation = "「하지만 위화감이 있어. 회장님이 아무리 강해도 그렇게 쉽게 대미지가 들어갈까?」"
 
 [[dialogue]]
-speaker = "ジュリエッテ"
+speaker_original = "ジュリエッテ"
+speaker_translation = "줄리엣타"
 original = "「そうでございますわね……きっとイングリット様は手加減して戦っていらっしゃいますわ」"
 translation = "「그러게요…… 분명 잉그리드 님은 적당히 봐주면서 싸우고 계시는 것이에요」"
 
@@ -164,22 +194,26 @@ original = "コラプサーの力を使っていない……？"
 translation = "콜랩서의 힘을 쓰고 있지 않은 거야……?"
 
 [[dialogue]]
-speaker = "イングリット"
+speaker_original = "イングリット"
+speaker_translation = "잉그리드"
 original = "「そうだ、私はまだコラプサーの力を使っていない。全力を出すに値するか、貴様を試しているのだ」"
 translation = "「그렇다, 나는 아직 콜랩서의 힘을 쓰지 않았다. 전력을 낼 가치가 있는지 네놈을 시험하고 있는 것이다」"
 
 [[dialogue]]
-speaker = "カティア"
+speaker_original = "カティア"
+speaker_translation = "카티아"
 original = "「んな……！？\u3000魔王様に舐めプとか無礼なやつだワン！」"
 translation = "「뭐어……!? 마왕님께 봐주면서 싸우다니 무례한 녀석이다멍!」"
 
 [[dialogue]]
-speaker = "マリーベル"
+speaker_original = "マリーベル"
+speaker_translation = "메리벨"
 original = "「……とんだ自信家ね」"
 translation = "「……대단한 자신가네」"
 
 [[dialogue]]
-speaker = "イングリット"
+speaker_original = "イングリット"
+speaker_translation = "잉그리드"
 original = "「それに本気を出していないのは、私だけじゃないだろ？\u3000なあ、魔王よ」"
 translation = "「게다가 진심을 내지 않는 건 나뿐만이 아니겠지? 그렇지, 마왕?」"
 
@@ -189,27 +223,32 @@ original = "……俺は本気で戦っている"
 translation = "……난 진심으로 싸우고 있어"
 
 [[dialogue]]
-speaker = "イングリット"
+speaker_original = "イングリット"
+speaker_translation = "잉그리드"
 original = "「だがそれは、魔王の力抜きでの全力だろう？\u3000魔王の力はもっと圧倒的で無慈悲なはずだ。貴様が本物の魔王ならば、私にその力を示してみろ！」"
 translation = "「하지만 그것은 마왕의 힘을 뺀 상태에서의 전력이겠지? 마왕의 힘은 더욱 압도적이고 무자비할 터. 네놈이 진짜 마왕이라면 나에게 그 힘을 보여봐라!」"
 
 [[dialogue]]
-speaker = "ジュリエッテ"
+speaker_original = "ジュリエッテ"
+speaker_translation = "줄리엣타"
 original = "「イングリット様がギアを上げましたわね……並の星騎士では、一太刀で瞬殺でございますわ」"
 translation = "「잉그리드 님이 기어를 올리셨나요…… 보통 성기사라면 단칼에 순살이에요」"
 
 [[dialogue]]
-speaker = "ジュリエッテ"
+speaker_original = "ジュリエッテ"
+speaker_translation = "줄리엣타"
 original = "（ふむ、どうやら魔王の力は十全には使えないご様子。ムフフ……それがわかっただけでも、イングリット様にしては上出来でございますわ）"
 translation = "（흠, 아무래도 마왕의 힘은 온전하게 사용하지 못하시는 모양. 무후후…… 그것만 알았어도 잉그리드 님치고는 상책이에요）"
 
 [[dialogue]]
-speaker = "カティア"
+speaker_original = "カティア"
+speaker_translation = "카티아"
 original = "「魔王様は普通の星騎士とは違うワン！\u3000魔王様頑張って！！」"
 translation = "「마왕님은 보통 성기사랑은 다르다멍! 마왕님 힘내요!!」"
 
 [[dialogue]]
-speaker = "イングリット"
+speaker_original = "イングリット"
+speaker_translation = "잉그리드"
 original = "「さあさあさあ！\u3000魔王の力を見せろ！\u3000私をもっと楽しませろ！」"
 translation = "「자, 자, 자! 마왕의 힘을 보여라! 나를 좀 더 즐겁게 해봐라!」"
 
@@ -219,72 +258,86 @@ original = "セレスティアは……返してもらう！"
 translation = "셀레스티아는…… 돌려받겠어!"
 
 [[dialogue]]
-speaker = "カティア"
+speaker_original = "カティア"
+speaker_translation = "카티아"
 original = "「──！？\u3000攻撃がぶつかり合って……どっちが勝ったんですか！？」"
 translation = "「──!? 공격이 맞부딪쳐서…… 어느 쪽이 이긴 거죠!?」"
 
 [[dialogue]]
-speaker = "ジュリエッテ"
+speaker_original = "ジュリエッテ"
+speaker_translation = "줄리엣타"
 original = "「く……目が眩んで見えませんわ」"
 translation = "「큭…… 눈이 부셔 보이지 않아요」"
 
 [[dialogue]]
-speaker = "イングリット"
+speaker_original = "イングリット"
+speaker_translation = "잉그리드"
 original = "「く……」"
 translation = "「큭……」"
 
 [[dialogue]]
-speaker = "カティア"
+speaker_original = "カティア"
+speaker_translation = "카티아"
 original = "「やった！\u3000魔王様の勝利です！」"
 translation = "「됐다! 마왕님의 승리에요!」"
 
 [[dialogue]]
-speaker = "イングリット"
+speaker_original = "イングリット"
+speaker_translation = "잉그리드"
 original = "「ふふ……そうこなくてはな。これでようやく本気を出せるというものだ！」"
 translation = "「후후…… 그래야지. 이걸로 드디어 진심을 낼 수 있겠군!」"
 
 [[dialogue]]
-speaker = "マリーベル"
+speaker_original = "マリーベル"
+speaker_translation = "메리벨"
 original = "「まぁそうなるわよね。私も戦うわ」"
 translation = "「뭐, 그렇게 되겠지. 나도 싸우겠어」"
 
 [[dialogue]]
-speaker = "カティア"
+speaker_original = "カティア"
+speaker_translation = "카티아"
 original = "「魔王様、私にも手伝わせてください！」"
 translation = "「마왕님, 저도 돕게 해주세요!」"
 
 [[dialogue]]
-speaker = "イングリット"
+speaker_original = "イングリット"
+speaker_translation = "잉그리드"
 original = "「失せろ。私は魔王との戦いを楽しみたいんだ」"
 translation = "「물러나 있어라. 나는 마왕과의 전투를 즐기고 싶으니까」"
 
 [[dialogue]]
-speaker = "ジュリエッテ"
+speaker_original = "ジュリエッテ"
+speaker_translation = "줄리엣타"
 original = "「いいではございませんか、イングリット様」"
 translation = "「괜찮지 않사옵니까, 잉그리드 님」"
 
 [[dialogue]]
-speaker = "ジュリエッテ"
+speaker_original = "ジュリエッテ"
+speaker_translation = "줄리엣타"
 original = "「彼女たちはプリマステラではございません。プリマステラでもないザコがいくら増えたところで何も変わらないのでは？」"
 translation = "「그녀들은 프리마스텔라가 아니에요. 프리마스텔라도 아닌 조무래기가 아무리 늘어난들 아무것도 변하지 않지 않겠나요?」"
 
 [[dialogue]]
-speaker = "イングリット"
+speaker_original = "イングリット"
+speaker_translation = "잉그리드"
 original = "「それもそうか。ジュリエッテ、貴様は手を出すなよ」"
 translation = "「그것도 그렇군. 줄레엣타, 네놈은 손대지 마라」"
 
 [[dialogue]]
-speaker = "ジュリエッテ"
+speaker_original = "ジュリエッテ"
+speaker_translation = "줄리엣타"
 original = "「ええ、言われずとも」"
 translation = "「예, 말씀 안 하셔도」"
 
 [[dialogue]]
-speaker = "ジュリエッテ"
+speaker_original = "ジュリエッテ"
+speaker_translation = "줄리엣타"
 original = "（クックック……ざまーみろでございますの！\u3000わたくしに迷惑をかけた分、ボコボコにされちまえですわ！）"
 translation = "（크크크…… 꼴좋네요! 저를 고생시킨 만큼 흠씬 두들겨 맞으시라고요!）"
 
 [[dialogue]]
-speaker = "イングリット"
+speaker_original = "イングリット"
+speaker_translation = "잉그리드"
 original = "「よし、貴様たちもかかってこい。まとめて葬り去ってやる！」"
 translation = "「좋다, 네놈들도 덤벼라. 한꺼번에 장사 지내주마!」"
 

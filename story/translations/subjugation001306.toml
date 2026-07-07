@@ -1,245 +1,294 @@
 [[dialogue]]
-speaker = "マトイ"
+speaker_original = "マトイ"
+speaker_translation = "마토이"
 original = "「私が受け止めるから、今のうちに！」"
 translation = "「내가 받아낼 테니까, 지금이야!」"
 
 [[dialogue]]
-speaker = "マハムート"
+speaker_original = "マハムート"
+speaker_translation = "마하무트"
 original = "「チョロチョロされるのが面倒ね……畏怖を持って跪きなさい！」"
 translation = "「얼쩡거리는 게 번거롭네…… 경외심을 갖고 무릎 꿇으렴!」"
 
 [[dialogue]]
-speaker = "アルモタヘル"
+speaker_original = "アルモタヘル"
+speaker_translation = "아르모타헬"
 original = "「ぐ……が……」"
 translation = "「구…… 가……」"
 
 [[dialogue]]
-speaker = "リーリア"
+speaker_original = "リーリア"
+speaker_translation = "릴리아"
 original = "「動きが止まった……！\u3000ありがとうございます、マム、マトイ先輩！」"
 translation = "「움직임이 멈췄어……! 감사합니다, 마무, 마토이 선배!」"
 
 [[dialogue]]
-speaker = "リーリア"
+speaker_original = "リーリア"
+speaker_translation = "릴리아"
 original = "「この一発を彩るは、我が愛しき友たちとの青春！\u3000全力全開──彩愛の魔弾・アオハルレインボー！！」"
 translation = "「이 한 방을 수놓는 것은, 나의 사랑하는 친구들과의 청춘! 전력전개──채애의 마탄・아오하루 레인보우!!」"
 
 [[dialogue]]
-speaker = "イクシリオン"
+speaker_original = "イクシリオン"
+speaker_translation = "익실리온"
 original = "「我が命よ、燃え上がれ──ヒートヘイズダンス！」"
 translation = "「나의 목숨이여, 타올라라── 히트 헤이즈 댄스!」"
 
 [[dialogue]]
-speaker = "アルモタヘル"
+speaker_original = "アルモタヘル"
+speaker_translation = "아르모타헬"
 original = "「感謝、するぞ……」"
 translation = "「감사, 하마……」"
 
 [[dialogue]]
-speaker = "イクシリオン"
+speaker_original = "イクシリオン"
+speaker_translation = "익실리온"
 original = "「いいえ、もったいないお言葉です」"
 translation = "「아닙니다, 과분한 말씀이세요」"
 
 [[dialogue]]
-speaker = "セシア"
+speaker_original = "セシア"
+speaker_translation = "세시아"
 original = "「アルモタヘルがフィーニスの塔へ戻ったわ。みんなお疲れ様」"
 translation = "「아르모타헬이 피니스의 탑으로 돌아갔어. 모두들 수고했어」"
 
 [[dialogue]]
-speaker = "マハムート"
+speaker_original = "マハムート"
+speaker_translation = "마하무트"
 original = "「さすがにハードな戦いだったわね。でもこれで新星学園の仕事は果たせたわ」"
 translation = "「역시 하드한 싸움이었네. 하지만 이걸로 신성학원의 임무는 완수했어」"
 
 [[dialogue]]
-speaker = "イクシリオン"
+speaker_original = "イクシリオン"
+speaker_translation = "익실리온"
 original = "「堕天からお救いするためとはいえ、刃を向けて申し訳ありませんでした、アルモタヘル様……」"
 translation = "「타천에서 구하기 위해서라고는 하나, 칼날을 향해 죄송했습니다, 아르모타헬 님……」"
 
 [[dialogue]]
-speaker = "セシア"
+speaker_original = "セシア"
+speaker_translation = "세시아"
 original = "「アルモタヘルを祀る一族とはいえ、気にすることはないわ。何より本人のためだもの」"
 translation = "「아르모타헬을 모시는 일족이라고 해도, 신경 쓸 것 없어. 무엇보다 본인을 위한 일이었으니까」"
 
 [[dialogue]]
-speaker = "イクシリオン"
+speaker_original = "イクシリオン"
+speaker_translation = "익실리온"
 original = "「はい。理解してはいるのですが、幼い頃からアルモタヘル様を信奉していたので心が痛みました……」"
 translation = "「네. 이해는 하고 있습니다만, 어릴 적부터 아르모타헬 님을 신봉했기에 마음이 아팠습니다……」"
 
 [[dialogue]]
-speaker = "イクシリオン"
+speaker_original = "イクシリオン"
+speaker_translation = "익실리온"
 original = "「アルモタヘル様は生命の系譜を司るお方。命の営みを愛する私としては敬愛せずにはいられません」"
 translation = "「아르모타헬 님은 생명의 계보를 관장하시는 분. 생명의 영위를 사랑하는 저로서는 경애하지 않을 수 없습니다」"
 
 [[dialogue]]
-speaker = "ヨミ"
+speaker_original = "ヨミ"
+speaker_translation = "요미"
 original = "「命の営み……こやや……」"
 translation = "「생명의 영위…… 코야야……」"
 
 [[dialogue]]
-speaker = "セシア"
+speaker_original = "セシア"
+speaker_translation = "세시아"
 original = "「ヨミヨミ、どうしたの？」"
 translation = "「요미요미, 왜 그래?」"
 
 [[dialogue]]
-speaker = "ヨミ"
+speaker_original = "ヨミ"
+speaker_translation = "요미"
 original = "「いえ、なんでもありません……」"
 translation = "「아니요, 아무것도 아닙니다……」"
 
 [[dialogue]]
-speaker = "ヨミ"
+speaker_original = "ヨミ"
+speaker_translation = "요미"
 original = "（いけない……今のがいやらしい話に聞こえた私は心が穢れています……心頭滅却、邪念必滅……！）"
 translation = "（안 돼…… 방금 게 야한 이야기로 들린 나는 마음이 더럽혀졌어…… 심두멸각, 사념필멸……！）"
 
 [[dialogue]]
-speaker = "セシア"
+speaker_original = "セシア"
+speaker_translation = "세시아"
 original = "「わたくしにも、イクシーのようにアウクセシアを祀る天使がいるのかしら？\u3000いるとしたら、きっと豊かなバブみを持つママに違いないわ♪」"
 translation = "「나에게도 익시처럼 아우크세시아를 모시는 천사가 있는 걸까? 있다면 분명 풍부한 바부미를 가진 마마임이 틀림없어♪」"
 
 [[dialogue]]
-speaker = "リップル"
+speaker_original = "リップル"
+speaker_translation = "리플"
 original = "「流星市国に帰ったら、みんなでリゾート満喫しまショ～♪」"
 translation = "「유성시국으로 돌아가면, 다 같이 리조트를 만끽해~요♪」"
 
 [[dialogue]]
-speaker = "メルエル"
+speaker_original = "メルエル"
+speaker_translation = "메르엘"
 original = "「わ～い、やったー！\u3000リップルちゃんの結界で久々に泳ぎたい！」"
 translation = "「와~이, 신난다! 리플 짱의 결계 안에서 오랜만에 수영하고 싶어!」"
 
 [[dialogue]]
-speaker = "ユーリス"
+speaker_original = "ユーリス"
+speaker_translation = "유리스"
 original = "「え、リゾートですか！？」"
 translation = "「에, 리조트인가요!?」"
 
 [[dialogue]]
-speaker = "リーリア"
+speaker_original = "リーリア"
+speaker_translation = "릴리아"
 original = "「泳ぐ！？」"
 translation = "「수영!?」"
 
 [[dialogue]]
-speaker = "紅明"
+speaker_original = "紅明"
+speaker_translation = "코메이"
 original = "「おやおやおふたりさん、水着で何か都合が悪いことでもあるのかい？」"
 translation = "「어라어라 두 사람, 수영복에 뭔가 곤란한 일이라도 있는 거야?」"
 
 [[dialogue]]
-speaker = "ユーリス"
+speaker_original = "ユーリス"
+speaker_translation = "유리스"
 original = "「い、いえそんなことは……」"
 translation = "「아, 아니 그런 건……」"
 
 [[dialogue]]
-speaker = "ユーリス"
+speaker_original = "ユーリス"
+speaker_translation = "유리스"
 original = "（せめて肌の露出が少ない水着なら……いや胸を潰してもさすがに水着は厳しい……）"
 translation = "（적어도 노출이 적은 수영복이라면…… 아니 가슴을 압박해도 역시 수영복은 엄해……）"
 
 [[dialogue]]
-speaker = "リーリア"
+speaker_original = "リーリア"
+speaker_translation = "릴리아"
 original = "（世の中、あなたたちみたいなビッグバストばっかりじゃないんですよ！？）"
 translation = "（세상에 당신들 같은 빅 바스트만 있는 게 아니거든요!?）"
 
 [[dialogue]]
-speaker = "リーリア"
+speaker_original = "リーリア"
+speaker_translation = "릴리아"
 original = "（うん？\u3000待てよ……この間覚えた幻覚魔法を使えば……いけるかも……！？）"
 translation = "（응? 잠깐…… 요전에 익힌 환각 마법을 쓰면…… 가능할지도……!?）"
 
 [[dialogue]]
-speaker = "紅明"
+speaker_original = "紅明"
+speaker_translation = "코메이"
 original = "「２人とも黙り込んでどうしたんだぜ？」"
 translation = "「둘 다 입 다물고 왜 그러는 거야?」"
 
 [[dialogue]]
-speaker = "ユーリス"
+speaker_original = "ユーリス"
+speaker_translation = "유리스"
 original = "「あ、いえ、何でもないですよ、何でも」"
 translation = "「아, 아니요, 아무것도 아니에요, 아무것도」"
 
 [[dialogue]]
-speaker = "リーリア"
+speaker_original = "リーリア"
+speaker_translation = "릴리아"
 original = "「そうそう、何でもないですよ、あははは……」"
 translation = "「그래요 그래요, 아무것도 아니에요, 아하하하……」"
 
 [[dialogue]]
-speaker = "紅明"
+speaker_original = "紅明"
+speaker_translation = "코메이"
 original = "「？\u3000なんか歯切れ悪いな～」"
 translation = "「? 뭔가 시원치 않네~」"
 
 [[dialogue]]
-speaker = "コハルコ"
+speaker_original = "コハルコ"
+speaker_translation = "쿠하루코"
 original = "『周囲に敵性反応なし。世界樹がもう一度開くまで待機していてください』"
 translation = "『주위에 적성 반응 없음. 세계수가 다시 열릴 때까지 대기해 주세요』"
 
 [[dialogue]]
-speaker = "リーリア"
+speaker_original = "リーリア"
+speaker_translation = "릴리아"
 original = "「ラジャーですっ。でもコハルコ先輩、どうやって魔界まで通信してるんですか？\u3000<ruby>ＤＩＳＣ<rt>ディスク</rt></ruby>の星騎士アプリって魔界でも通じるんです？」"
 translation = "「라져예요. 그런데 코하루코 선배, 어떻게 마계까지 통신하고 있는 거예요? <ruby>DISC<rt>디스크</rt></ruby>의 성기사 앱이 마계에서도 통해요?」"
 
 [[dialogue]]
-speaker = "コハルコ"
+speaker_original = "コハルコ"
+speaker_translation = "쿠하루코"
 original = "『詳しい原理はわからないけど、世界樹を通して人間界と魔界を繋げてるらしいの』"
 translation = "『자세한 원리는 모르겠지만, 세계수를 통해서 인간계와 마계를 연결하고 있는 모양이야』"
 
 [[dialogue]]
-speaker = "コハルコ"
+speaker_original = "コハルコ"
+speaker_translation = "쿠하루코"
 original = "『ネビュラの人たちから教えてもらったようにやったらできちゃった。世界樹って本当にすごいんだね』"
 translation = "『네뷸라 사람들이 가르쳐준 대로 했더니 돼버렸어. 세계수는 정말 대단하네』"
 
 [[dialogue]]
-speaker = "リーリア"
+speaker_original = "リーリア"
+speaker_translation = "릴리아"
 original = "「へ、へ～、そうなんですねー」"
 translation = "「헤, 헤~ 그렇군요─」"
 
 [[dialogue]]
-speaker = "リーリア"
+speaker_original = "リーリア"
+speaker_translation = "릴리아"
 original = "（そんな簡単にできていいんですかね、それ。うーん……）"
 translation = "（그렇게 간단히 돼도 좋은 건가요, 그거. 으음……）"
 
 [[dialogue]]
-speaker = "リーリア"
+speaker_original = "リーリア"
+speaker_translation = "릴리아"
 original = "「何度か任務でコハルコ先輩の監視をやりましたけど、ネビュラがどうしてコハルコ先輩のこと気にしてるんですか？\u3000やっぱりハッカーがいろいろまずいんです？」"
 translation = "「몇 번 임무로 코하루코 선배의 감시를 했었는데, 네뷸라가 왜 코하루코 선배를 신경 쓴 거예요? 역시 해커가 여러모로 곤란한가요?」"
 
 [[dialogue]]
-speaker = "ウェンディ"
+speaker_original = "ウェンディ"
+speaker_translation = "웬디"
 original = "「ええ。ジャスティスウィザードと呼ばれる彼女の腕をもってすれば、関連企業のデータから我々の存在を知る可能性がありましたからね」"
 translation = "「네. 저스티스 위저드라고 불리는 그녀의 실력이라면, 관련 기업의 데이터에서 우리들의 존재를 알아챌 가능성이 있었으니까요」"
 
 [[dialogue]]
-speaker = "リーリア"
+speaker_original = "リーリア"
+speaker_translation = "릴리아"
 original = "「じゃあ今後は監視しなくていいんですよね？\u3000もうネビュラのことは知られちゃいましたし」"
 translation = "「그럼 앞으론 감시 안 해도 되는 거죠? 이제 네뷸라에 대해서는 들켜버렸고」"
 
 [[dialogue]]
-speaker = "ウェンディ"
+speaker_original = "ウェンディ"
+speaker_translation = "웬디"
 original = "「……それは直属の上司であるマリオンに聞きなさい」"
 translation = "「……그건 직속 상사인 마리온에게 물어보렴」"
 
 [[dialogue]]
-speaker = "リーリア"
+speaker_original = "リーリア"
+speaker_translation = "릴리아"
 original = "「絶対他に理由があるやつじゃないですかーっ！？」"
 translation = "「절대 다른 이유가 있는 거잖아요~!?」"
 
 [[dialogue]]
-speaker = "リーリア"
+speaker_original = "リーリア"
+speaker_translation = "릴리아"
 original = "（実際聞いてみたら適当にはぐらかされちゃいましたし、コハルコ先輩って何者なんでしょう……？）"
 translation = "(실제로 물어봤더니 적당히 얼버무려졌고, 코하루코 선배는 대체 정체가 뭘까……?)"
 
 [[dialogue]]
-speaker = "マトイ"
+speaker_original = "マトイ"
+speaker_translation = "마토이"
 original = "「アルモタヘルさんを解放できて良かった～……。でも……」"
 translation = "「아르모타헬 씨를 해방할 수 있어서 다행이야~……. 하지만……」"
 
 [[dialogue]]
-speaker = "マハムート"
+speaker_original = "マハムート"
+speaker_translation = "마하무트"
 original = "「でも？\u3000どうかした？」"
 translation = "「하지만? 왜 그래?」"
 
 [[dialogue]]
-speaker = "マトイ"
+speaker_original = "マトイ"
+speaker_translation = "마토이"
 original = "「あ、何でもないです、何でも。あはは……」"
 translation = "「아, 아무것도 아니에요, 아무것도. 아하하……」"
 
 [[dialogue]]
-speaker = "マトイ"
+speaker_original = "マトイ"
+speaker_translation = "마토이"
 original = "（星徒会役員なのに、あんまり活躍できてなかった……。もっと広い範囲を守れれば、みんなも攻撃に集中できたはずなのに……）"
 translation = "(성도회 임원인데도 별로 활약하지 못했어……. 더 넓은 범위를 지킬 수 있었다면 다들 공격에 집중할 수 있었을 텐데……)"
 
 [[dialogue]]
-speaker = "マトイ"
+speaker_original = "マトイ"
+speaker_translation = "마토이"
 original = "「はぁ～……」"
 translation = "「하아~……」"
 

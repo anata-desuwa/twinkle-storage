@@ -1,10 +1,12 @@
 [[dialogue]]
-speaker = "シアン"
+speaker_original = "シアン"
+speaker_translation = "시안"
 original = "「知ってるつっても、前に少し見たきりだったがな。ええと、どこから話すか……」"
 translation = "「안다고는 해도, 예전에 잠깐 본 게 다지만 말이야. 에스테, 어디서부터 이야기해야 하나……」"
 
 [[dialogue]]
-speaker = "シアン"
+speaker_original = "シアン"
+speaker_translation = "시안"
 original = "「ちょいと話は逸れるが、流星・新星両校を卒業した星騎士がどうするか、会長さんは知ってるか？」"
 translation = "「조금 이야기가 빗나가지만, 유성·신성 양쪽 학교를 졸업한 성기사가 어떻게 하는지, 회장님은 알고 있어?」"
 
@@ -19,57 +21,68 @@ original = "すみません。知りません"
 translation = "죄송합니다. 모릅니다."
 
 [[dialogue]]
-speaker = "シアン"
+speaker_original = "シアン"
+speaker_translation = "시안"
 original = "「まぁついでだ。一応話しておくか」"
 translation = "「뭐, 하는 김에 같이 말해두지.」"
 
 [[dialogue]]
-speaker = "シアン"
+speaker_original = "シアン"
+speaker_translation = "시안"
 original = "「モンスターやアステラが発生するのは何も流星市国じゃない。頻度や規模が小さいとはいえ、モンスターは世界各地に現れる」"
 translation = "「몬스터나 아스텔라가 발생하는 건 유성시국뿐만이 아니야. 빈도나 규모가 작긴 해도, 몬스터는 세계 각지에 나타나지.」"
 
 [[dialogue]]
-speaker = "シアン"
+speaker_original = "シアン"
+speaker_translation = "시안"
 original = "「そこで活躍するのが卒業生だ」"
 translation = "「거기서 활약하는 게 졸업생들이야.」"
 
 [[dialogue]]
-speaker = "シアン"
+speaker_original = "シアン"
+speaker_translation = "시안"
 original = "「星騎士たちは学園を卒業後、故郷に戻ったり、世界各地に飛んだりして、年齢を重ねて星力を失うまでの数年間、モンスターと戦い続ける」"
 translation = "「성기사들은 학원을 졸업한 뒤, 고향으로 돌아가거나 세계 각지로 흩어져서, 나이를 먹어 성력을 잃기 전까지 수년간 몬스터와 계속 싸워.」"
 
 [[dialogue]]
-speaker = "シアン"
+speaker_original = "シアン"
+speaker_translation = "시안"
 original = "「もちろん全盛期ほどの力は出せないが、モンスターだって流星市国に現れるレベルのやつはそう出てこない。ちょうどいい相手ってわけだ」"
 translation = "「물론 전성기만큼의 힘은 낼 수 없지만, 몬스터도 유성시국에 나타나는 수준의 놈들은 그렇게 나오지 않아. 딱 적당한 상대라는 거지.」"
 
 [[dialogue]]
-speaker = "シアン"
+speaker_original = "シアン"
+speaker_translation = "시안"
 original = "「あたしもその卒業生の１人──なわけだが、元々公安委員会にいた延長で、アングラな任務で世界各地を回ることになった」"
 translation = "「나도 그 졸업생 중 한 명──인 셈인데, 원래 공안위원회에 있던 연장선으로 어둠의 임무를 맡아 세계 각지를 돌게 됐어.」"
 
 [[dialogue]]
-speaker = "シアン"
+speaker_original = "シアン"
+speaker_translation = "시안"
 original = "「イタリア、アフリカ、中東でいろいろあって──その後イギリスにいた時の話だ。あたしは同じく公安出身の同僚とバディを組んでいた」"
 translation = "「이탈리아, 아프리카, 중동에서 이런저런 일이 있었고── 그 뒤 영국에 있을 때 이야기야. 난 마찬가지로 공안 출신인 동료와 버디를 짜고 있었지.」"
 
 [[dialogue]]
-speaker = "シアン"
+speaker_original = "シアン"
+speaker_translation = "시안"
 original = "「流星学園分校の生徒が襲われる事件があって、それを同僚と追っていたんだが……」"
 translation = "「유성학원 분교 학생이 습격당하는 사건이 있어서, 그걸 동료와 쫓고 있었는데……」"
 
 [[dialogue]]
-speaker = "シアン"
+speaker_original = "シアン"
+speaker_translation = "시안"
 original = "「先行していた同僚が何者かと遭遇し、強力な攻撃を受けて戦闘不能。同僚は星騎士として引退を余儀なくされ、犯人も不明のまま」"
 translation = "「앞서가던 동료가 누군가와 조우해서, 강력한 공격을 받고 전투 불능. 동료는 성기사로서 은퇴할 수밖에 없게 됐고, 범인도 불명인 채로 남았지.」"
 
 [[dialogue]]
-speaker = "シアン"
+speaker_original = "シアン"
+speaker_translation = "시안"
 original = "「あたしは到着するのが一歩遅れて、顔は見えなかったが間違いない。感じた力と殺気はヴァレリー・スチュアートのものだ」"
 translation = "「난 도착하는 게 한 발 늦어서 얼굴은 못 봤지만 틀림없어. 느껴졌던 힘과 살기는 발레리 스튜어트의 것이야.」"
 
 [[dialogue]]
-speaker = "シアン"
+speaker_original = "シアン"
+speaker_translation = "시안"
 original = "「キサナの件があって、類似した手口から、上もあれがコラプサーに関連した事件だと睨んだんだろう。だから関わったあたしが呼び戻された」"
 translation = "「키사나 건도 있고 해서, 유사한 수법 때문에 위에서도 저게 콜랩서와 관련된 사건이라고 짐작했겠지. 그래서 관련됐던 내가 불려 돌아온 거야.」"
 
@@ -79,117 +92,140 @@ original = "同僚の仇を追って流星市国に……"
 translation = "동료의 원수를 쫓아 유성시국으로……"
 
 [[dialogue]]
-speaker = "シアン"
+speaker_original = "シアン"
+speaker_translation = "시안"
 original = "「いや、それは別に」"
 translation = "「아니, 그건 딱히.」"
 
 [[dialogue]]
-speaker = "せつな"
+speaker_original = "せつな"
+speaker_translation = "세츠나"
 original = "「違うのでござるか！？」"
 translation = "「아니란 말이오!?」"
 
 [[dialogue]]
-speaker = "シアン"
+speaker_original = "シアン"
+speaker_translation = "시안"
 original = "「別に仲は悪くなかったが、命を懸けて復讐しようと思うほどでもねえよ」"
 translation = "「딱히 사이가 나쁘진 않았지만, 목숨 걸고 복수하려고 생각할 정도까진 아니야.」"
 
 [[dialogue]]
-speaker = "シアン"
+speaker_original = "シアン"
+speaker_translation = "시안"
 original = "「つかそいつ、戦えなくなっただけで生きてるし。面倒な任務とオサラバできて羨ましいぐらいだ」"
 translation = "「애초에 그 녀석, 싸우지 못하게 됐을 뿐이지 살아있고. 귀찮은 임무랑 작별할 수 있어서 부러울 정도라고.」"
 
 [[dialogue]]
-speaker = "シアン"
+speaker_original = "シアン"
+speaker_translation = "시안"
 original = "「ただあたしが気に入らねえのは、事件が未解決で、犯人がのうのうとその辺ほっつき歩いてるってことだ」"
 translation = "「다만 내가 마음에 안 드는 건, 사건이 미해결인 채로 범인이 뻔뻔하게 그 근처를 싸돌아다니고 있다는 사실이야.」"
 
 [[dialogue]]
-speaker = "シアン"
+speaker_original = "シアン"
+speaker_translation = "시안"
 original = "「公安委員会の仕事なんざ成り行きで受けただけだし、誇りなんざ持ってねえし、いつも辞めてえと思ってはいるが……」"
 translation = "「공안위원회 일 따위 흐름대로 맡았을 뿐이고, 긍지 같은 건 없단 말이지. 항상 그만두고 싶다고 생각은 하지만……」"
 
 [[dialogue]]
-speaker = "ネーゼマイン"
+speaker_original = "ネーゼマイン"
+speaker_translation = "네제마인"
 original = "「先輩、ここぞとばかりにボロクソに言うね～」"
 translation = "「선배, 이때다 싶어서 아주 가차 없이 말하네~」"
 
 [[dialogue]]
-speaker = "シアン"
+speaker_original = "シアン"
+speaker_translation = "시안"
 original = "「あたしをあちこち駆け回らせてるクソ野郎の、首根っこ捕まえてふん縛らないと気が済まねえんだよ。それだけだ」"
 translation = "「나를 여기저기 뺑뺑이 돌리게 만드는 빌어먹을 놈의 뒷덜미를 잡아서 묶어버리지 않으면 직성이 안 풀린다고. 그뿐이야.」"
 
 [[dialogue]]
-speaker = "セナリィ"
+speaker_original = "セナリィ"
+speaker_translation = "세나리"
 original = "「なるほど。これがハウンドドッグとあだ名されるシアン様の性分ということですか。一度食らいついたら離さない──まさに猟犬ですわ」"
 translation = "「과연. 이것이 하운드독이라 불리는 시안 님의 성미라는 것이군요. 한 번 물면 놓지 않는다── 그야말로 사냥개입니다.」"
 
 [[dialogue]]
-speaker = "シアン"
+speaker_original = "シアン"
+speaker_translation = "시안"
 original = "「はん、好きに言ってろ」"
 translation = "「흥, 마음대로 떠들어.」"
 
 [[dialogue]]
-speaker = "シアン"
+speaker_original = "シアン"
+speaker_translation = "시안"
 original = "「あいつは用事があると言っていた。また姿を現すだろう。次に出てきたところを捕まえる」"
 translation = "「저 녀석은 볼일이 있다고 말했어. 다시 모습을 드러내겠지. 다음에 나타나면 그때 잡는다.」"
 
 [[dialogue]]
-speaker = "せつな"
+speaker_original = "せつな"
+speaker_translation = "세츠나"
 original = "「そもそも、ヴァレリーは浅草で何をしていたでござるか？」"
 translation = "「애초에, 발레리는 아사쿠사에서 무엇을 하고 있었소이까?」"
 
 [[dialogue]]
-speaker = "シアン"
+speaker_original = "シアン"
+speaker_translation = "시안"
 original = "「観光」"
 translation = "「관광.」"
 
 [[dialogue]]
-speaker = "せつな"
+speaker_original = "せつな"
+speaker_translation = "세츠나"
 original = "「はい？\u3000今なんと……」"
 translation = "「예? 지금 뭐라고……」"
 
 [[dialogue]]
-speaker = "シアン"
+speaker_original = "シアン"
+speaker_translation = "시안"
 original = "「だから観光だよ、観光」"
 translation = "「그러니까 관광이라고, 관광.」"
 
 [[dialogue]]
-speaker = "セナリィ"
+speaker_original = "セナリィ"
+speaker_translation = "세나리"
 original = "「流星市国周辺はコラプサーにとって敵地も同然。悠長に観光などと……余裕をかますにもほどがありますわ！」"
 translation = "「유성시국 주변은 콜랩서에게 적지나 다름없는 곳. 유유자적하게 관광이라니…… 여유를 부리는 것도 정도가 있습니다!」"
 
 [[dialogue]]
-speaker = "シアン"
+speaker_original = "シアン"
+speaker_translation = "시안"
 original = "「その時はまだ面も割れてなかったからな。それに、余裕ぶっこくだけの力があるのは知ってんだろ」"
 translation = "「그때는 아직 얼굴이 안 팔렸으니까 말이야. 게다가, 여유 부릴 만큼의 실력이 있다는 건 알고 있잖아.」"
 
 [[dialogue]]
-speaker = "ネーゼマイン"
+speaker_original = "ネーゼマイン"
+speaker_translation = "네제마인"
 original = "「確かにねー。星騎士の中でも精鋭の蛍火先輩をあれだけボロボロにしちゃうんだから」"
 translation = "「확실히 그렇네~. 성기사 중에서도 정예인 케이카 선배를 저렇게 엉망으로 만들었으니까.」"
 
 [[dialogue]]
-speaker = "セナリィ"
+speaker_original = "セナリィ"
+speaker_translation = "세나리"
 original = "「星力を打ち消すコラプサーの力がそれだけ厄介ということですわね。せめてその力の正体がわかればよいのですが」"
 translation = "「성력을 무효화하는 콜랩서의 힘이 그만큼 까다롭다는 것이군요. 적어도 그 힘의 정체를 알 수 있다면 좋을 텐데 말이죠.」"
 
 [[dialogue]]
-speaker = "シアン"
+speaker_original = "シアン"
+speaker_translation = "시안"
 original = "「だが限界があることもわかってる。今度こそ待ち伏せしてフクロにするぞ」"
 translation = "「하지만 한계가 있다는 것도 알고 있어. 이번에야말로 매복해서 다구리를 놔주지.」"
 
 [[dialogue]]
-speaker = "シアン"
+speaker_original = "シアン"
+speaker_translation = "시안"
 original = "「んで、ヴァレリーは戦闘中、何度も『美しい』という言葉を使っていた。浅草の雷門を見てた時も、『美しい』と呟いていたと、蛍火から聞いている」"
 translation = "「그리고 발레리는 전투 중에 몇 번이나 『아름답다』는 말을 썼어. 아사쿠사의 카미나리몬을 보고 있을 때도 『아름답다』고 중얼거렸다고 케이카한테 들었지.」"
 
 [[dialogue]]
-speaker = "シアン"
+speaker_original = "シアン"
+speaker_translation = "시안"
 original = "「用事の内容は知らねえが、やつが『美しい』と思うものがあるところに姿を現すだろう。候補を絞るぞ」"
 translation = "「볼일의 내용은 모르겠지만, 저 녀석이 『아름답다』고 생각할 만한 곳에 모습을 드러낼 거야. 후보를 좁혀보자.」"
 
 [[dialogue]]
-speaker = "せつな"
+speaker_original = "せつな"
+speaker_translation = "세츠나"
 original = "「合点招致でありまする！\u3000ところで──」"
 translation = "「알겠소이다! 그런데──」"
 
@@ -199,42 +235,50 @@ original = "シアンさんが卒業生？"
 translation = "시안 씨가 졸업생?"
 
 [[dialogue]]
-speaker = "シアン"
+speaker_original = "シアン"
+speaker_translation = "시안"
 original = "「んなっ！？\u3000いつ誰がそんなこと言って……」"
 translation = "「아닛!? 언제 누가 그런 말을……」"
 
 [[dialogue]]
-speaker = "ネーゼマイン"
+speaker_original = "ネーゼマイン"
+speaker_translation = "네제마인"
 original = "「思いっきり言ってたよ？\u3000あたしも卒業生の１人って」"
 translation = "「아주 대놓고 말했거든? 자기도 졸업생 중 한 명이라고.」"
 
 [[dialogue]]
-speaker = "シアン"
+speaker_original = "シアン"
+speaker_translation = "시안"
 original = "「あっ！？」"
 translation = "「앗!?」"
 
 [[dialogue]]
-speaker = "ネーゼマイン"
+speaker_original = "ネーゼマイン"
+speaker_translation = "네제마인"
 original = "「シアン先輩──ていうかこれ偽名なんだけど、実は流星学園のＯＧで、主に海外で活動してたんだよね。それがコラプサー関連で流星市国に呼び戻されて」"
 translation = "「시안 선배──라기보다 이거 가명인데, 사실 유성학원의 OG로 주로 해외에서 활동했었거든. 그게 콜랩서 관련으로 유성시국에 불려 돌아온 거고.」"
 
 [[dialogue]]
-speaker = "ネーゼマイン"
+speaker_original = "ネーゼマイン"
+speaker_translation = "네제마인"
 original = "「で、学籍も与えようってことで、年齢ごまかして新星に転入したってワケ。いや、無茶ぶりにもほどがあるよね～」"
 translation = "「그래서 학적도 주기로 해서, 나이 속이고 신성으로 전입했다는 말씀. 아니, 무리수도 정도가 있지~」"
 
 [[dialogue]]
-speaker = "シアン"
+speaker_original = "シアン"
+speaker_translation = "시안"
 original = "「あ……うぅ……そうだよ！\u3000あたしは卒業生だよ！\u3000３年生じゃなくて、２年前に卒業してるよ！」"
 translation = "「아…… 으으…… 그래! 나 졸업생이야! 3학년이 아니라 2년 전에 졸업했다고!」"
 
 [[dialogue]]
-speaker = "せつな"
+speaker_original = "せつな"
+speaker_translation = "세츠나"
 original = "「なるほどでござる！」"
 translation = "「그렇구료!」"
 
 [[dialogue]]
-speaker = "セナリィ"
+speaker_original = "セナリィ"
+speaker_translation = "세나리"
 original = "「それは大先輩ですわね」"
 translation = "「그거 정말 대선배님이시군요.」"
 
@@ -244,12 +288,14 @@ original = "どうりで……"
 translation = "어쩐지……"
 
 [[dialogue]]
-speaker = "シアン"
+speaker_original = "シアン"
+speaker_translation = "시안"
 original = "「くそ、全員納得した顔してんじゃねえ。誰か『信じられねえ』みたいな反応しろよ」"
 translation = "「제길, 다들 납득했다는 얼굴 하지 마. 누구 한 명쯤은 『믿을 수 없어』 같은 반응을 하라고.」"
 
 [[dialogue]]
-speaker = "シアン"
+speaker_original = "シアン"
+speaker_translation = "시안"
 original = "「……ったく。あたしのことはいいから、ヴァレリーの現れそうなところを絞るぞ」"
 translation = "「……참 나. 내 일은 됐으니까, 발레리가 나타날 만한 곳이나 좁히자.」"
 
@@ -259,17 +305,20 @@ original = "その前にちょっと用事が"
 translation = "그전에 잠깐 볼일이 있어서."
 
 [[dialogue]]
-speaker = "シアン"
+speaker_original = "シアン"
+speaker_translation = "시안"
 original = "「ん？\u3000ああ、あの『妹』か。今頃どうなってるか想像したくないから、そっちはあんたに任せる」"
 translation = "「응? 아아, 그 『여동생』인가. 지금쯤 어떻게 돼 있을지 상상하고 싶지 않으니까 그쪽은 네가 맡아.」"
 
 [[dialogue]]
-speaker = "ネーゼマイン"
+speaker_original = "ネーゼマイン"
+speaker_translation = "네제마인"
 original = "「なになに～？\u3000ルルカちゃん以外に新しい妹できたの？」"
 translation = "「뭐야 뭐야~? 루루카짱 말고 새로운 여동생 생긴 거야?」"
 
 [[dialogue]]
-speaker = "せつな"
+speaker_original = "せつな"
+speaker_translation = "세츠나"
 original = "「妹ってそんなに増えるものでござるか……？」"
 translation = "「여동생이 그렇게나 늘어나는 것이오……?」"
 

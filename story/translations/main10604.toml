@@ -9,417 +9,500 @@ original = "基地から飛び出した２人が向かったのは──"
 translation = "기지에서 뛰쳐나온 두 사람이 향한 곳은──"
 
 [[dialogue]]
-speaker = "クラウディア"
+speaker_original = "クラウディア"
+speaker_translation = "클라우디아"
 original = "「むう、すごい人でごった返しておるぞ」"
 translation = "「무우, 엄청난 사람들로 북적이고 있구나.」"
 
 [[dialogue]]
-speaker = "クラウディア"
+speaker_original = "クラウディア"
+speaker_translation = "클라우디아"
 original = "「クリスマスセール……イルミネーション……フライドチキンフェア……歳末ふれあい運動……」"
 translation = "「크리스마스 세일…… 일루미네이션…… 프라이드치킨 페어…… 연말 이웃 돕기 운동……」"
 
 [[dialogue]]
-speaker = "クラウディア"
+speaker_original = "クラウディア"
+speaker_translation = "클라우디아"
 original = "「うーむ──やはり人間界はすっかりクリスマス一色。実にゆゆしき事態であるぞ」"
 translation = "「으음── 역시 인간계는 온통 크리스마스 일색이로다. 실로 유감스러운 사태로군.」"
 
 [[dialogue]]
-speaker = "ツェツィーリエ"
+speaker_original = "ツェツィーリエ"
+speaker_translation = "체칠리에"
 original = "「歳末ふれあい運動は違うんじゃないかな？」"
 translation = "「연말 이웃 돕기 운동은 좀 다르지 않아?」"
 
 [[dialogue]]
-speaker = "クラウディア"
+speaker_original = "クラウディア"
+speaker_translation = "클라우디아"
 original = "「やはり憎きはサンタよ。余から主役の座を奪いおって」"
 translation = "「역시 미운 것은 산타로다. 짐에게서 주인공 자리를 빼앗다니.」"
 
 [[dialogue]]
-speaker = "ツェツィーリエ"
+speaker_original = "ツェツィーリエ"
+speaker_translation = "체칠리에"
 original = "「──ねえね、クラウディア様」"
 translation = "「──있잖아요, 클라우디아 님.」"
 
 [[dialogue]]
-speaker = "クラウディア"
+speaker_original = "クラウディア"
+speaker_translation = "클라우디아"
 original = "「なんだ？」"
 translation = "「무엇이냐?」"
 
 [[dialogue]]
-speaker = "ツェツィーリエ"
+speaker_original = "ツェツィーリエ"
+speaker_translation = "체칠리에"
 original = "「サンタサンタって言うけど……クラウディア様、サンタクロースがどういうものか知ってるの？」"
 translation = "「산타 산타 하시는데…… 클라우디아 님, 산타클로스가 어떤 건지 알고 계세요?」"
 
 [[dialogue]]
-speaker = "クラウディア"
+speaker_original = "クラウディア"
+speaker_translation = "클라우디아"
 original = "「ふうん、馬鹿にしてもらっては困るな。余だってそれくらい理解しておる」"
 translation = "「후음, 바보 취급하면 곤란하도다. 짐도 그 정도는 이해하고 있느니라.」"
 
 [[dialogue]]
-speaker = "クラウディア"
+speaker_original = "クラウディア"
+speaker_translation = "클라우디아"
 original = "「──おい！\u3000そこのパッとしない<ruby>女子<rt>おなご</rt></ruby>よ！」"
 translation = "「──이봐! 거기 있는 별 볼 일 없는 계집아!」"
 
 [[dialogue]]
-speaker = "マトイ"
+speaker_original = "マトイ"
+speaker_translation = "마토이"
 original = "「わ、私？\u3000いきなりすごい失礼なこと言われた気がする」"
 translation = "「나, 나? 갑자기 엄청 실례되는 말을 들은 기분인데.」"
 
 [[dialogue]]
-speaker = "マトイ"
+speaker_original = "マトイ"
+speaker_translation = "마토이"
 original = "「──って、ネビュラのお姫様じゃない！？」"
 translation = "「──앗, 네뷸라의 공주님 아니야!?」"
 
 [[dialogue]]
-speaker = "ツェツィーリエ"
+speaker_original = "ツェツィーリエ"
+speaker_translation = "체칠리에"
 original = "「ごめんね～、ちょっと付き合ってあげて～」"
 translation = "「미안해~, 조금만 상대해 줘~.」"
 
 [[dialogue]]
-speaker = "クラウディア"
+speaker_original = "クラウディア"
+speaker_translation = "클라우디아"
 original = "「靴下を履いているな？\u3000お主の望むものを、余がそこにねじ込んでやろう！」"
 translation = "「양말을 신고 있구나? 네놈이 원하는 것을 짐이 거기에 쑤셔 넣어 주겠노라!」"
 
 [[dialogue]]
-speaker = "マトイ"
+speaker_original = "マトイ"
+speaker_translation = "마토이"
 original = "「どういうこと！？」"
 translation = "「무슨 소리야!?」"
 
 [[dialogue]]
-speaker = "クラウディア"
+speaker_original = "クラウディア"
+speaker_translation = "클라우디아"
 original = "「クリスマスはサンタにプレゼントを入れてもらうため、靴下を用意するのだ。つまり、こやつはプレゼントを欲しておる！」"
 translation = "「크리스마스는 산타에게 선물을 받기 위해 양말을 준비하는 법. 즉, 이 녀석은 선물을 원하고 있도다!」"
 
 [[dialogue]]
-speaker = "クラウディア"
+speaker_original = "クラウディア"
+speaker_translation = "클라우디아"
 original = "「そういうことであろう、ちぇちゅーりえ？」"
 translation = "「그런 것이겠지, 체츄리에?」"
 
 [[dialogue]]
-speaker = "ツェツィーリエ"
+speaker_original = "ツェツィーリエ"
+speaker_translation = "체칠리에"
 original = "「さっすがクラウディア様！（たはは、ぶっ飛びすぎだぁ……けど面白そうだからそういうことにしとこう♪）」"
 translation = "「역시 클라우디아 님! (타하하, 너무 앞서가시네…… 하지만 재밌을 것 같으니 그렇게 치자♪)」"
 
 [[dialogue]]
-speaker = "クラウディア"
+speaker_original = "クラウディア"
+speaker_translation = "클라우디아"
 original = "「ともかくだ。余がお主にプレゼントをやるぞ」"
 translation = "「어쨌든이다. 짐이 네놈에게 선물을 주겠노라.」"
 
 [[dialogue]]
-speaker = "マトイ"
+speaker_original = "マトイ"
+speaker_translation = "마토이"
 original = "「私、何も祝われるようなことはしてないけど」"
 translation = "「나, 딱히 축하받을 만한 일은 안 했는데.」"
 
 [[dialogue]]
-speaker = "クラウディア"
+speaker_original = "クラウディア"
+speaker_translation = "클라우디아"
 original = "「サンタクロースはよい子にプレゼントを配るのだ。お主も、クリスマスには何かを望んでいるのだろう」"
 translation = "「산타클로스는 착한 아이에게 선물을 나눠주는 법. 네놈도 크리스마스에는 무언가를 바라고 있겠지.」"
 
 [[dialogue]]
-speaker = "マトイ"
+speaker_original = "マトイ"
+speaker_translation = "마토이"
 original = "「うーん……さすがにもうサンタさんにお願いする歳じゃないと思ってるんだけど……」"
 translation = "「으음…… 솔직히 이제 산타 할아버지한테 부탁할 나이는 아니라고 생각하지만……」"
 
 [[dialogue]]
-speaker = "マトイ"
+speaker_original = "マトイ"
+speaker_translation = "마토이"
 original = "「でも、欲しいものはあるっちゃある──かな」"
 translation = "「그래도 갖고 싶은 게 있긴…… 하려나.」"
 
 [[dialogue]]
-speaker = "クラウディア"
+speaker_original = "クラウディア"
+speaker_translation = "클라우디아"
 original = "「それでよい！\u3000その願い、余がしかと聞き届けた」"
 translation = "「그거면 됐다! 그 소망, 짐이 확실히 들어주겠노라.」"
 
 [[dialogue]]
-speaker = "クラウディア"
+speaker_original = "クラウディア"
+speaker_translation = "클라우디아"
 original = "「そーれ……メリークラウディアバースデ～！」"
 translation = "「자아…… 메리 클라우디아 버스데~!」"
 
 [[dialogue]]
-speaker = "マトイ"
+speaker_original = "マトイ"
+speaker_translation = "마토이"
 original = "「わ、すごい光──」"
 translation = "「와, 엄청난 빛──」"
 
 [[dialogue]]
-speaker = "マトイ"
+speaker_original = "マトイ"
+speaker_translation = "마토이"
 original = "「スティックみたいなものが舞い降りて……」"
 translation = "「스틱 같은 게 내려와서……」"
 
 [[dialogue]]
-speaker = "マトイ"
+speaker_original = "マトイ"
+speaker_translation = "마토이"
 original = "「これって──すりこぎ棒……！？」"
 translation = "「이건── 절구공이……!?」"
 
 [[dialogue]]
-speaker = "クラウディア"
+speaker_original = "クラウディア"
+speaker_translation = "클라우디아"
 original = "「ふっ。お主はそれが欲しかったのだろう……？」"
 translation = "「훗. 네놈은 그것이 갖고 싶었던 것이지……?」"
 
 [[dialogue]]
-speaker = "マトイ"
+speaker_original = "マトイ"
+speaker_translation = "마토이"
 original = "「私が欲しかったのは、メレンゲを泡立ててくれるハンドミキサーだったんだけど……」"
 translation = "「내가 갖고 싶었던 건 머랭을 쳐주는 핸드 믹서였는데……」"
 
 [[dialogue]]
-speaker = "クラウディア"
+speaker_original = "クラウディア"
+speaker_translation = "클라우디아"
 original = "「……」"
 translation = "「……」"
 
 [[dialogue]]
-speaker = "クラウディア"
+speaker_original = "クラウディア"
+speaker_translation = "클라우디아"
 original = "「まあ、でも、これだってかき混ぜられるからよいではないか」"
 translation = "「뭐, 그래도 그것도 휘저을 수 있으니 좋은 게 아니겠느냐.」"
 
 [[dialogue]]
-speaker = "マトイ"
+speaker_original = "マトイ"
+speaker_translation = "마토이"
 original = "「そう……かも……？」"
 translation = "「그럴……지도……?」"
 
 [[dialogue]]
-speaker = "ツェツィーリエ"
+speaker_original = "ツェツィーリエ"
+speaker_translation = "체칠리에"
 original = "「そうそう！\u3000ごま団子とか作れるし、似たようなものさ」"
 translation = "「그래 그래! 깨경단 같은 거 만들 수 있고, 비슷한 거라니까.」"
 
 [[dialogue]]
-speaker = "マトイ"
+speaker_original = "マトイ"
+speaker_translation = "마토이"
 original = "「え、これくれるの？」"
 translation = "「에, 이거 주는 거야?」"
 
 [[dialogue]]
-speaker = "クラウディア"
+speaker_original = "クラウディア"
+speaker_translation = "클라우디아"
 original = "「もちろんだ！\u3000プレゼントだからな！」"
 translation = "「물론이다! 선물이니까 말이다!」"
 
 [[dialogue]]
-speaker = "マトイ"
+speaker_original = "マトイ"
+speaker_translation = "마토이"
 original = "「ありがとう！\u3000なんだか悪い気もするけど……」"
 translation = "「고마워! 왠지 미안한 기분도 들지만……」"
 
 [[dialogue]]
-speaker = "ツェツィーリエ"
+speaker_original = "ツェツィーリエ"
+speaker_translation = "체칠리에"
 original = "「大丈夫。その代わり、１２月２５日はクラウディア様の誕生日ってことだけ覚えといて♪」"
 translation = "「괜찮아. 그 대신, 12월 25일은 클라우디아 님의 생일이라는 것만 기억해 줘♪」"
 
 [[dialogue]]
-speaker = "マトイ"
+speaker_original = "マトイ"
+speaker_translation = "마토이"
 original = "「わ、わかった！」"
 translation = "「아, 알았어!」"
 
 [[dialogue]]
-speaker = "クラウディア"
+speaker_original = "クラウディア"
+speaker_translation = "클라우디아"
 original = "「わっはっは！\u3000よし、次の現場へ向かうぞ！」"
 translation = "「와ー하하하! 좋아, 다음 현장으로 향하겠노라!」"
 
 [[dialogue]]
-speaker = "クラウディア"
+speaker_original = "クラウディア"
+speaker_translation = "클라우디아"
 original = "「たのもーう！」"
 translation = "「이리 오너라!」"
 
 [[dialogue]]
-speaker = "ナミエル"
+speaker_original = "ナミエル"
+speaker_translation = "나미엘"
 original = "「──どちら様ですか」"
 translation = "「──누구십니까.」"
 
 [[dialogue]]
-speaker = "ツェツィーリエ"
+speaker_original = "ツェツィーリエ"
+speaker_translation = "체칠리에"
 original = "「おやおや、可愛いメイドさんだねえ」"
 translation = "「어라어라, 귀여운 메이드 양이네.」"
 
 [[dialogue]]
-speaker = "ナミエル"
+speaker_original = "ナミエル"
+speaker_translation = "나미엘"
 original = "「今日、来客の予定はなかったはずですが……魔女の方々ですか？」"
 translation = "「오늘 방문객 예정은 없었을 텐데…… 마녀분들이십니까?」"
 
 [[dialogue]]
-speaker = "クラウディア"
+speaker_original = "クラウディア"
+speaker_translation = "클라우디아"
 original = "「うむ。お主だけか？\u3000今日は星見の娘はおらんのか？」"
 translation = "「음. 너뿐이냐? 오늘은 호시미의 딸은 없느냐?」"
 
 [[dialogue]]
-speaker = "ナミエル"
+speaker_original = "ナミエル"
+speaker_translation = "나미엘"
 original = "「本日、お嬢様は星徒会長業務により留守にしております。お戻りは夜になられるかと」"
 translation = "「오늘 아가씨께서는 성도회장 업무로 인해 자리를 비우셨습니다. 밤늦게나 돌아오실 듯합니다.」"
 
 [[dialogue]]
-speaker = "ナミエル"
+speaker_original = "ナミエル"
+speaker_translation = "나미엘"
 original = "「ご用件であれば、私がうかがっておきます」"
 translation = "「용건이 있으시다면 제가 들어두겠습니다.」"
 
 [[dialogue]]
-speaker = "クラウディア"
+speaker_original = "クラウディア"
+speaker_translation = "클라우디아"
 original = "「<ruby>言伝<rt>ことづて</rt></ruby>というわけにはいかんのだ。こればかりは」"
 translation = "「말 전하기 정도로 끝낼 수 있는 일이 아니니라. 이것만큼은 말이다.」"
 
 [[dialogue]]
-speaker = "クラウディア"
+speaker_original = "クラウディア"
+speaker_translation = "클라우디아"
 original = "「そうだ。別にこの際、お主でもよいぞ」"
 translation = "「그렇지. 별수 없으니 이참에 너라도 상관없도다.」"
 
 [[dialogue]]
-speaker = "ナミエル"
+speaker_original = "ナミエル"
+speaker_translation = "나미엘"
 original = "「？」"
 translation = "「?」"
 
 [[dialogue]]
-speaker = "ツェツィーリエ"
+speaker_original = "ツェツィーリエ"
+speaker_translation = "체칠리에"
 original = "「何か欲しいものはある？\u3000クラウディア様がなんでもプレゼントしてくれるよ♪」"
 translation = "「뭐 갖고 싶은 거 있어? 클라우디아 님이 뭐든 선물해 주실 거야♪」"
 
 [[dialogue]]
-speaker = "ナミエル"
+speaker_original = "ナミエル"
+speaker_translation = "나미엘"
 original = "「そのような怪しい話に乗るわけにはいきません」"
 translation = "「그런 수상한 이야기에 응할 수는 없습니다.」"
 
 [[dialogue]]
-speaker = "クラウディア"
+speaker_original = "クラウディア"
+speaker_translation = "클라우디아"
 original = "「そう警戒するでない。あくまで１２月２５日のプレゼントをやるというだけだ」"
 translation = "「그리 경계하지 마라. 어디까지나 12월 25일의 선물을 주겠다는 것뿐이니라.」"
 
 [[dialogue]]
-speaker = "ナミエル"
+speaker_original = "ナミエル"
+speaker_translation = "나미엘"
 original = "「ああ、クリスマスの」"
 translation = "「아아, 크리스마스 선물 말씀이시군요.」"
 
 [[dialogue]]
-speaker = "クラウディア"
+speaker_original = "クラウディア"
+speaker_translation = "클라우디아"
 original = "「クリスマスではない！\u3000１２月２５日は余の誕生日だから、サンタより先にプレゼントを配ってやるのだ」"
 translation = "「크리스마스가 아니니라! 12월 25일은 짐의 생일이기에, 산타보다 먼저 선물을 나눠주는 것이로다.」"
 
 [[dialogue]]
-speaker = "ナミエル"
+speaker_original = "ナミエル"
+speaker_translation = "나미엘"
 original = "「なるほど……意味がわかりません。ですが、あなたなりの意図は把握しました」"
 translation = "「과연…… 의미를 모르겠습니다. 하지만 당신 나름의 의도는 파악했습니다.」"
 
 [[dialogue]]
-speaker = "ナミエル"
+speaker_original = "ナミエル"
+speaker_translation = "나미엘"
 original = "「ただ、欲しいものをと言われても今すぐにはパッと思いつかないような……」"
 translation = "「다만, 갖고 싶은 것을 말씀하셔도 지금 당장은 딱히 떠오르지 않는 것 같아서……」"
 
 [[dialogue]]
-speaker = "クラウディア"
+speaker_original = "クラウディア"
+speaker_translation = "클라우디아"
 original = "「欲しいものが思いつかない？\u3000なんと無欲なやつだ。そんなことあるものか！」"
 translation = "「갖고 싶은 게 떠오르지 않는다고? 이 얼마나 무욕한 녀석이냐. 그럴 리가 있겠느냐!」"
 
 [[dialogue]]
-speaker = "ナミエル"
+speaker_original = "ナミエル"
+speaker_translation = "나미엘"
 original = "「今の私はメイド──星見家に雇っていただけたことが、人生で最大の幸運でした。それ以上望むべきものなどありません」"
 translation = "「지금의 저는 메이드── 호시미 가문에 고용될 수 있었던 것이 인생 최대의 행운이었습니다. 그 이상 바랄 것은 없습니다.」"
 
 [[dialogue]]
-speaker = "クラウディア"
+speaker_original = "クラウディア"
+speaker_translation = "클라우디아"
 original = "「それでもやりたいことくらいあるだろう。仕事をラクにしたいとか、自分だけの豪邸が欲しいとか！」"
 translation = "「그래도 하고 싶은 일 정도는 있을 것 아니냐. 일을 편하게 하고 싶다거나, 자신만의 대저택을 갖고 싶다거나!」"
 
 [[dialogue]]
-speaker = "ナミエル"
+speaker_original = "ナミエル"
+speaker_translation = "나미엘"
 original = "「ありません」"
 translation = "「없습니다.」"
 
 [[dialogue]]
-speaker = "クラウディア"
+speaker_original = "クラウディア"
+speaker_translation = "클라우디아"
 original = "「な……なんだと……」"
 translation = "「뭐…… 뭐라고……」"
 
 [[dialogue]]
-speaker = "クラウディア"
+speaker_original = "クラウディア"
+speaker_translation = "클라우디아"
 original = "「じゃ、じゃあたらふくステーキが食べたいとか、この世のおもちゃをかき集めたいとか！\u3000ずっと野菜を摂らなくてもよいとか！」"
 translation = "「그, 그럼 스테이크를 배불리 먹고 싶다거나, 이 세상 장난감을 다 모으고 싶다거나! 평생 야채를 섭취하지 않아도 된다거나!」"
 
 [[dialogue]]
-speaker = "ツェツィーリエ"
+speaker_original = "ツェツィーリエ"
+speaker_translation = "체칠리에"
 original = "「それはクラウディア様の好きなものでしょ」"
 translation = "「그건 클라우디아 님이 좋아하는 거잖아요.」"
 
 [[dialogue]]
-speaker = "ツェツィーリエ"
+speaker_original = "ツェツィーリエ"
+speaker_translation = "체칠리에"
 original = "「──それじゃ、趣味とかは？」"
 translation = "「──그럼 취미 같은 건?」"
 
 [[dialogue]]
-speaker = "ナミエル"
+speaker_original = "ナミエル"
+speaker_translation = "나미엘"
 original = "「屋敷の掃除をするくらいで」"
 translation = "「저택 청소를 하는 정도입니다.」"
 
 [[dialogue]]
-speaker = "ツェツィーリエ"
+speaker_original = "ツェツィーリエ"
+speaker_translation = "체칠리에"
 original = "「なるほど……確かにこれは難敵だね」"
 translation = "「과연…… 확실히 이건 난적이네.」"
 
 [[dialogue]]
-speaker = "クラウディア"
+speaker_original = "クラウディア"
+speaker_translation = "클라우디아"
 original = "「欲しいものがないんじゃ、プレゼントのしようがないぞ」"
 translation = "「갖고 싶은 게 없다면 선물을 줄 방법이 없지 않느냐.」"
 
 [[dialogue]]
-speaker = "ツェツィーリエ"
+speaker_original = "ツェツィーリエ"
+speaker_translation = "체칠리에"
 original = "「大丈夫だよクラウディア様。ホーリー・ベルなら振ればきっと答えてくれる」"
 translation = "「괜찮아요, 클라우디아 님. 홀리 벨이라면 휘두르면 분명 답해줄 거예요.」"
 
 [[dialogue]]
-speaker = "クラウディア"
+speaker_original = "クラウディア"
+speaker_translation = "클라우디아"
 original = "「本当だろうな……」"
 translation = "「정말이겠지……」"
 
 [[dialogue]]
-speaker = "クラウディア"
+speaker_original = "クラウディア"
+speaker_translation = "클라우디아"
 original = "「それ──メリークラウディアバースデー！」"
 translation = "「자아── 메리 클라우디아 버스데이!」"
 
 [[dialogue]]
-speaker = "ナミエル"
+speaker_original = "ナミエル"
+speaker_translation = "나미엘"
 original = "「！\u3000光が──」"
 translation = "「! 빛이──」"
 
 [[dialogue]]
-speaker = "ナミエル"
+speaker_original = "ナミエル"
+speaker_translation = "나미엘"
 original = "「あっ、小さいガチョウのぬいぐるみ……これはちょっと嬉しいかもしれません」"
 translation = "「앗, 작은 거위 인형…… 이건 조금 기쁠지도 모르겠습니다.」"
 
 [[dialogue]]
-speaker = "クラウディア"
+speaker_original = "クラウディア"
+speaker_translation = "클라우디아"
 original = "「ほう！\u3000やはりか！」"
 translation = "「호오! 역시로구나!」"
 
 [[dialogue]]
-speaker = "ツェツィーリエ"
+speaker_original = "ツェツィーリエ"
+speaker_translation = "체칠리에"
 original = "「うんうん。ホーリー・ベルは相手の望みをしっかり拾ってくれるのさ」"
 translation = "「응응. 홀리 벨은 상대의 소망을 확실히 잡아내 주거든.」"
 
 [[dialogue]]
-speaker = "ナミエル"
+speaker_original = "ナミエル"
+speaker_translation = "나미엘"
 original = "「私にとっての思い出の品は、ガチョウではありませんでしたが……それでもこのようなぬいぐるみを見るとホッとします」"
 translation = "「제게 있어 추억의 물건은 거위가 아니었습니다만…… 그래도 이런 인형을 보니 마음이 놓이네요.」"
 
 [[dialogue]]
-speaker = "ナミエル"
+speaker_original = "ナミエル"
+speaker_translation = "나미엘"
 original = "「ありがとうございます。ご厚意は素直に受け取っておきましょう」"
 translation = "「감사합니다. 호의는 솔직하게 받아두겠습니다.」"
 
 [[dialogue]]
-speaker = "クラウディア"
+speaker_original = "クラウディア"
+speaker_translation = "클라우디아"
 original = "「ふっふっふ！\u3000感謝するがよい」"
 translation = "「훗훗훗! 감사하도록 하거라.」"
 
 [[dialogue]]
-speaker = "クラウディア"
+speaker_original = "クラウディア"
+speaker_translation = "클라우디아"
 original = "「それもこれも余の誕生日が１２月２５日であるからだ！\u3000そのことを忘れるでないぞ！」"
 translation = "「이것도 저것도 짐의 생일이 12월 25일이기 때문이니라! 그 사실을 잊지 말거라!」"
 
 [[dialogue]]
-speaker = "ナミエル"
+speaker_original = "ナミエル"
+speaker_translation = "나미엘"
 original = "「なるほど……ご自身の誕生日だというのに、人にプレゼントを。ご立派な方のようです」"
 translation = "「과연…… 본인의 생일이신데도 남에게 선물을. 훌륭하신 분인 것 같군요.」"
 
 [[dialogue]]
-speaker = "ナミエル"
+speaker_original = "ナミエル"
+speaker_translation = "나미엘"
 original = "「１２月２５日はあなたの誕生日……覚えておきます」"
 translation = "「12월 25일은 당신의 생일…… 기억해 두겠습니다.」"
 
 [[dialogue]]
-speaker = "クラウディア"
+speaker_original = "クラウディア"
+speaker_translation = "클라우디아"
 original = "「そうだ！\u3000それでよい！\u3000余はサンタを超える光の魔女！」"
 translation = "「그렇다! 그거면 됐도다! 짐은 산타를 초월하는 빛의 마녀!」"
 
 [[dialogue]]
-speaker = "クラウディア"
+speaker_original = "クラウディア"
+speaker_translation = "클라우디아"
 original = "「この格好の時点ですでに少々負けている気もするが……とにかく！\u3000星見家でもよろしく頼んだぞ～！」"
 translation = "「이 차림새 시점에서 이미 조금 지고 있는 기분도 들지만…… 어쨌든! 호시미 가문에서도 잘 부탁하마~!」"
 

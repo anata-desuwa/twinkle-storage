@@ -4,17 +4,20 @@ original = "第４話,愛の誓いを,P"
 translation = "제4화, 사랑의 맹세를, P"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「緋宮会長とここに来るのは久しぶりですね。あの時買ってもらったキーホルダー、今も付けていますよ」"
 translation = "「히노미야 회장과 여기에 오는 건 오랜만이네요. 그때 사주신 열쇠고리, 지금도 달고 있어요」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「あなたからデートに誘っていただけて嬉しいです。ここのところ忙しくて、２人になれる時間があまりなかったですから」"
 translation = "「당신에게 데이트 신청을 받아서 기뻐요. 요즘 바빠서, 둘이 될 수 있는 시간이 별로 없었으니까요」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「だから、その……」"
 translation = "「그래서, 그……」"
 
@@ -24,12 +27,14 @@ original = "手を繋ごうか？"
 translation = "손 잡을까?"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「はい……！」"
 translation = "「네……!」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「えへへ……緋宮会長の手、大きいです。にぎにぎ<emoji=heart04>」"
 translation = "「에헤헤…… 히노미야 회장의 손, 커요. 꼬옥<emoji=heart04>」"
 
@@ -39,57 +44,68 @@ original = "好きだよ、フィオナ"
 translation = "좋아해, 피오나"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「ひゃっ！？\u3000ふ、不意打ちは卑怯ですよっ！？」"
 translation = "「햐앗!? 불, 불의타는 비겁해요읏!?」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「でも……緋宮会長は私のどこが好きなんでしょうか？」"
 translation = "「하지만…… 히노미야 회장은 저의 어디가 좋으신가요?」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「姉さんが倒れた時から、私は『星見フィオナ』であろうとしてきました。完璧な魔王を目指して、勉学に励み、星術を磨く日々で……私ってつまらない人間なんじゃ……」"
 translation = "「언니가 쓰러졌을 때부터, 저는 『호시미 피오나』이려고 해왔습니다. 완벽한 마왕을 목표로, 학문에 힘쓰고, 성술을 닦는 나날이었고…… 저는 재미없는 인간이 아닐까……」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「どうしてそこで笑うんですか！？\u3000フィオナは全然つまらなくない……？\u3000好きなところがたくさんある……？」"
 translation = "「왜 거기서 웃으시는 거예요!? 피오나는 전혀 재미없지 않다고……? 좋아하는 점이 잔뜩 있다고……?」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「ヒーローや漫画が好きで、それを隠しているところ……サーフィンに夢中になるところ……卵焼きを極めようとしているところ……」"
 translation = "「히어로와 만화를 좋아해서, 그걸 숨기고 있는 점…… 서핑에 열중하는 점…… 달걀말이를 마스터하려고 하는 점……」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「なんでもかわいいって言っちゃうところや、オタクなところも好き……？\u3000ちょっと余計なの入ってないですか！？」"
 translation = "「뭐든지 귀엽다고 말해버리는 점이나, 오타쿠 같은 점도 좋아한다고……? 조금 불필요한 게 들어 있지 않나요!?」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「もう、褒めてないですよね。流星星徒会のみんなもそうですけど、最近よくいじられている気がします」"
 translation = "「정말, 칭찬하고 있는 거 아니잖아요. 유성 성도회 모두도 그렇지만, 요즘 자주 놀림받는 기분이 들어요」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「でも嬉しいです。緋宮会長がそれだけ私のことを見てくれてる、知ってくれているということですから」"
 translation = "「하지만 기뻐요. 히노미야 회장이 그만큼 저를 봐주고 있다는 것, 알고 있다는 것이니까요」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「私も緋宮会長が好きです。実直で、優しくて、私を包み込んでくれているみたいで……」"
 translation = "「저도 히노미야 회장이 좋아요. 정직하고, 상냥하고, 저를 감싸 안아주는 것 같아서……」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「本来『星見エリシア』であった私が、今自分を見失わずにいられるのも、あなたのおかげなんだと思います」"
 translation = "「본래 『호시미 엘리시아』였던 제가, 지금 자신을 잃지 않고 있을 수 있는 것도, 당신 덕분이라고 생각해요」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「あ……あそこ、新しいアニメのショップができています。どれどれ……変身ヒーロー作品とのコラボキャンペーンも開催されているみたいですね」"
 translation = "「아…… 저기, 새로운 애니메이션 샵이 생겼어요. 어디 보자…… 변신 히어로 작품과의 콜라보 캠페인도 개최되고 있는 것 같네요」"
 
@@ -99,32 +115,38 @@ original = "入ってみようか"
 translation = "들어가 볼까"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「それは……いえ、そうですね。飛び込んでみましょうっ」"
 translation = "「그것은…… 아니요, 그러네요. 뛰어들어 봅시다읏」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「ふふ、緋宮会長とお店を見て回れて、とっても楽しかったです」"
 translation = "「후후, 히노미야 회장과 가게를 둘러볼 수 있어서, 정말 즐거웠어요」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「ヒーローが好きなんて、本当は恥ずかしがる必要ないんでしょうけど……緋宮会長と一緒だから入れました」"
 translation = "「히어로를 좋아하는 건, 사실 부끄러워할 필요 없을 텐데…… 히노미야 회장과 함께라서 들어올 수 있었어요」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「それに欲しかった漫画の新装版も買えて、至れり尽くせりです♪」"
 translation = "「게다가 갖고 싶었던 만화의 신장판도 살 수 있어서, 더할 나위 없이 좋았어요♪」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「でもどうしてデートの後に大聖堂に？\u3000星徒会の仕事……ではないですよね？」"
 translation = "「그런데 왜 데이트 후에 대성당에? 성도회의 일……은 아니죠?」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「伝えたいことがある？\u3000とても大事なこと？」"
 translation = "「전하고 싶은 말이 있다고요? 아주 중요한 일?」"
 
@@ -134,37 +156,44 @@ original = "俺と結婚してほしい"
 translation = "나와 결혼해 줬으면 좋겠어"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「──！」"
 translation = "「──!」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「それは、この前の結婚式のふりの続き……ではないですよね」"
 translation = "「그것은, 지난번 결혼식 흉내의 연장선……은 아니죠」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「私は流星教皇の娘。いずれ多くの責務を負う者です。それでも……私と添い遂げたいと思いますか」"
 translation = "「저는 유성 교황의 딸. 머지않아 많은 책무를 짊어질 사람이에요. 그래도…… 저와 해로하고 싶으신가요」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「……なんて、あなたが理解していないわけないですよね。本気なのは聞かなくてもわかります」"
 translation = "「……라니, 당신이 이해하지 못할 리 없죠. 진심이라는 건 묻지 않아도 알아요」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「断る理由がありません。だって私はあなたを愛していて、あなたも私を愛しているんですから」"
 translation = "「거절할 이유가 없어요. 왜냐하면 저는 당신을 사랑하고 있고, 당신도 저를 사랑하고 있으니까요」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「プロポーズ、お受けします」"
 translation = "「프로포즈, 받아들일게요」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「お互いまだ学生ですから、本当に結婚するのは早いですけど……リクリエを退けて世界が平和になったら、私たち結婚しましょう」"
 translation = "「서로 아직 학생이니까, 정말로 결혼하는 건 이르지만…… 리크리에를 물리치고 세상이 평화로워지면, 우리 결혼해요」"
 
@@ -174,62 +203,74 @@ original = "それ死亡フラグ！？"
 translation = "그거 사망 플래그!?"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「死亡フラグも立てすぎれば、生存フラグになるんですよ。逆転するくらい、死亡フラグを立てまくっちゃいましょう♪」"
 translation = "「사망 플래그도 너무 많이 세우면, 생존 플래그가 되는 거예요. 역전할 정도로, 사망 플래그를 잔뜩 세워버리자고요♪」"
 
 [[dialogue]]
-speaker = "イレーナ"
+speaker_original = "イレーナ"
+speaker_translation = "이레이나"
 original = "「あのー……そろそろ出てきてもよろしいでしょうか？」"
 translation = "「저ー…… 슬슬 나와도 괜찮을까요?」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「ひゃっ！？\u3000イ、イレーナさん！？」"
 translation = "「햣!? 이, 이레나 씨!?」"
 
 [[dialogue]]
-speaker = "イレーナ"
+speaker_original = "イレーナ"
+speaker_translation = "이레이나"
 original = "「そんなに驚かないでください。私はこの大聖堂に着任した、正式な神官ですから」"
 translation = "「그렇게 놀라지 마세요. 저는 이 대성당에 착임한, 정식 신관이니까요」"
 
 [[dialogue]]
-speaker = "イレーナ"
+speaker_original = "イレーナ"
+speaker_translation = "이레이나"
 original = "「おふたりのやりとりを拝見していたところ、どうやら神官の出番かと思いまして」"
 translation = "「두 분의 대화를 보고 있자니, 아무래도 신관이 나설 차례인가 싶어서요」"
 
 [[dialogue]]
-speaker = "イレーナ"
+speaker_original = "イレーナ"
+speaker_translation = "이레이나"
 original = "「籍を入れずとも、新郎新婦の愛を神官が見届ければ婚姻は成り立つと、女神様を信仰する者としては思っております。いかがでしょうか、おふたりとも？」"
 translation = "「호적을 넣지 않아도, 신랑 신부의 사랑을 신관이 지켜보면 혼인은 성립된다고, 여신님을 신앙하는 사람으로서는 생각하고 있습니다. 어떠신가요, 두 분 모두?」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「はい、よろしくお願いします、イレーナ神官」"
 translation = "「네, 잘 부탁드립니다, 이레나 신관」"
 
 [[dialogue]]
-speaker = "イレーナ"
+speaker_original = "イレーナ"
+speaker_translation = "이레이나"
 original = "「ええ。健やかなる時も、病める時も──はたくさん言ったからもういいですよね。新郎新婦、誓いのキスを」"
 translation = "「네. 건강할 때도, 병들 때도──는 많이 말했으니 이제 됐겠죠. 신랑 신부, 맹세의 키스를」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「はい」"
 translation = "「네」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「──ちゅっ」"
 translation = "「──츄」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「ようやく唇にキスできましたね」"
 translation = "「드디어 입술에 키스할 수 있었네요」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「ふつつか者ですが、末永くよろしくお願いしますね……あなた」"
 translation = "「부족한 사람이지만, 오래오래 잘 부탁드려요…… 당신」"
 

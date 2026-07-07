@@ -4,12 +4,14 @@ original = "第４話,イニシュの記憶,P"
 translation = "제4화, 이니슈의 기억, P"
 
 [[dialogue]]
-speaker = "イニシュ"
+speaker_original = "イニシュ"
+speaker_translation = "이니슈"
 original = "「…………」"
 translation = "「…………」"
 
 [[dialogue]]
-speaker = "イニシュ"
+speaker_original = "イニシュ"
+speaker_translation = "이니슈"
 original = "「……え？\u3000近くに有名なラーメンのお店がある？\u3000ああ、そうなのですか。それは気になりますね」"
 translation = "「……에? 근처에 유명한 라면 가게가 있다고요? 아, 그렇습니까. 그건 신경 쓰이네요」"
 
@@ -29,72 +31,86 @@ original = "何か思い出した？"
 translation = "뭐 좀 생각났어?"
 
 [[dialogue]]
-speaker = "イニシュ"
+speaker_original = "イニシュ"
+speaker_translation = "이니슈"
 original = "「……はい」"
 translation = "「……네」"
 
 [[dialogue]]
-speaker = "イニシュ"
+speaker_original = "イニシュ"
+speaker_translation = "이니슈"
 original = "「私には友達がいました。魔女ではない、人間の友人。たった１人の、かけがえのない親友」"
 translation = "「제게는 친구가 있었습니다. 마녀가 아닌 인간 친구. 단 한 명뿐인, 무엇과도 바꿀 수 없는 친우」"
 
 [[dialogue]]
-speaker = "イニシュ"
+speaker_original = "イニシュ"
+speaker_translation = "이니슈"
 original = "「彼女はリクリエで消滅しました。塵ひとつ残さず。跡形もなく」"
 translation = "「그녀는 리크리에로 소멸했습니다. 먼지 하나 남기지 않고. 흔적도 없이」"
 
 [[dialogue]]
-speaker = "イニシュ"
+speaker_original = "イニシュ"
+speaker_translation = "이니슈"
 original = "「悲しい。悔しい。恨めしい」"
 translation = "「슬프다. 분하다. 원망스럽다」"
 
 [[dialogue]]
-speaker = "イニシュ"
+speaker_original = "イニシュ"
+speaker_translation = "이니슈"
 original = "「彼女を失った。彼女を守れなかった」"
 translation = "「그녀를 잃었다. 그녀를 지키지 못했다」"
 
 [[dialogue]]
-speaker = "イニシュ"
+speaker_original = "イニシュ"
+speaker_translation = "이니슈"
 original = "「だから私は……リクリエと戦います」"
 translation = "「그래서 저는…… 리크리에와 싸웁니다」"
 
 [[dialogue]]
-speaker = "イニシュ"
+speaker_original = "イニシュ"
+speaker_translation = "이니슈"
 original = "「きっと私は、リクリエと戦うためだけに眠り続けてきました。数千、数万年の時を超えて」"
 translation = "「분명 저는 리크리에와 싸우기 위해서만 계속 잠들어 왔습니다. 수천, 수만 년의 시간을 넘어서」"
 
 [[dialogue]]
-speaker = "イニシュ"
+speaker_original = "イニシュ"
+speaker_translation = "이니슈"
 original = "「なのに──」"
 translation = "「그런데──」"
 
 [[dialogue]]
-speaker = "イニシュ"
+speaker_original = "イニシュ"
+speaker_translation = "이니슈"
 original = "「私は彼女の名前も顔も思い出せない……」"
 translation = "「저는 그녀의 이름도 얼굴도 기억나지 않아요……」"
 
 [[dialogue]]
-speaker = "イニシュ"
+speaker_original = "イニシュ"
+speaker_translation = "이니슈"
 original = "「いつも明るく笑っていた……私とは正反対の女の子」"
 translation = "「항상 밝게 웃고 있었던…… 저와는 정반대인 여자아이」"
 
 [[dialogue]]
-speaker = "イニシュ"
+speaker_original = "イニシュ"
+speaker_translation = "이니슈"
 original = "「引っ込み思案だった私を引っ張り回していたあの子」"
 translation = "「소극적이었던 저를 끌고 다니던 그 아이」"
 
 [[dialogue]]
-speaker = "イニシュ"
+speaker_original = "イニシュ"
+speaker_translation = "이니슈"
 original = "「彼女がいたことは覚えているのに……彼女の声も言葉も思い出せません」"
 translation = "「그녀가 있었다는 것은 기억나는데…… 그녀의 목소리도 말도 기억나지 않습니다」"
 
 [[dialogue]]
-speaker = "イニシュ"
+speaker_original = "イニシュ"
+speaker_translation = "이니슈"
 original = "「彼女の存在さえ、最近まで忘却していました」"
 translation = "「그녀의 존재조차 최근까지 망각하고 있었습니다」"
 
 [[dialogue]]
-speaker = "イニシュ"
+speaker_original = "イニシュ"
+speaker_translation = "이니슈"
 original = "「そんな私が……彼女を親友と呼んでいいのでしょうか」"
 translation = "「그런 제가…… 그녀를 친우라고 불러도 되는 걸까요」"
 
@@ -104,27 +120,32 @@ original = "これから思い出せばいい"
 translation = "이제부터 기억해내면 돼"
 
 [[dialogue]]
-speaker = "イニシュ"
+speaker_original = "イニシュ"
+speaker_translation = "이니슈"
 original = "「そうでしょうか。私が眠りから目覚めてから長い時が経つのに、彼女の存在を思い出したのはここ数日のことです」"
 translation = "「그럴까요. 제가 잠에서 깨어난 뒤로 긴 시간이 흘렀는데, 그녀의 존재를 기억해낸 것은 요 며칠 사이의 일입니다」"
 
 [[dialogue]]
-speaker = "イニシュ"
+speaker_original = "イニシュ"
+speaker_translation = "이니슈"
 original = "「それなのに、本当に彼女を思い出せるでしょうか。それどころかまた忘れてしまうかもしれません」"
 translation = "「그런데 정말로 그녀를 기억해낼 수 있을까요. 그뿐만 아니라 다시 잊어버릴지도 모릅니다」"
 
 [[dialogue]]
-speaker = "イニシュ"
+speaker_original = "イニシュ"
+speaker_translation = "이니슈"
 original = "「──！\u3000アステラの出現を感知。行きましょう」"
 translation = "「──! 아스텔라의 출현을 감지. 가죠」"
 
 [[dialogue]]
-speaker = "イニシュ"
+speaker_original = "イニシュ"
+speaker_translation = "이니슈"
 original = "「アンブラル……ヴァナルガンド！」"
 translation = "「엄브럴…… 바나르간드!」"
 
 [[dialogue]]
-speaker = "イニシュ"
+speaker_original = "イニシュ"
+speaker_translation = "이니슈"
 original = "「殲滅完了」"
 translation = "「섬멸 완료」"
 
@@ -134,22 +155,26 @@ original = "リクリエが憎い？"
 translation = "리크리에가 미워?"
 
 [[dialogue]]
-speaker = "イニシュ"
+speaker_original = "イニシュ"
+speaker_translation = "이니슈"
 original = "「当然です」"
 translation = "「당연합니다」"
 
 [[dialogue]]
-speaker = "イニシュ"
+speaker_original = "イニシュ"
+speaker_translation = "이니슈"
 original = "「リクリエが彼女を……あの子を消滅させた。憎くないはずがありません」"
 translation = "「리크리에가 그녀를…… 그 아이를 소멸시켰다. 밉지 않을 리가 없습니다」"
 
 [[dialogue]]
-speaker = "イニシュ"
+speaker_original = "イニシュ"
+speaker_translation = "이니슈"
 original = "「でも私に、リクリエを憎む資格があるのでしょうか」"
 translation = "「하지만 제게 리크리에를 미워할 자격이 있는 걸까요」"
 
 [[dialogue]]
-speaker = "イニシュ"
+speaker_original = "イニシュ"
+speaker_translation = "이니슈"
 original = "「のうのうと生き残っておきながら、あの子を忘れていた私に……」"
 translation = "「뻔뻔하게 살아남아 있으면서 그 아이를 잊고 있었던 제게……」"
 
@@ -159,7 +184,8 @@ original = "イニシュは考えすぎだ"
 translation = "이니슈는 생각이 너무 많아"
 
 [[dialogue]]
-speaker = "イニシュ"
+speaker_original = "イニシュ"
+speaker_translation = "이니슈"
 original = "「あ──」"
 translation = "「아──」"
 
@@ -169,67 +195,80 @@ original = "その気持ちは親友のあかしだよ"
 translation = "그 마음은 친우라는 증거야"
 
 [[dialogue]]
-speaker = "イニシュ"
+speaker_original = "イニシュ"
+speaker_translation = "이니슈"
 original = "「そう……かもしれませんね」"
 translation = "「그럴……지도 모르겠네요」"
 
 [[dialogue]]
-speaker = "イニシュ"
+speaker_original = "イニシュ"
+speaker_translation = "이니슈"
 original = "「また思い出しました」"
 translation = "「또 생각났습니다」"
 
 [[dialogue]]
-speaker = "イニシュ"
+speaker_original = "イニシュ"
+speaker_translation = "이니슈"
 original = "「魔女の寿命は人間より遥かに長い。避けられない別れが来る」"
 translation = "「마녀의 수명은 인간보다 훨씬 길다. 피할 수 없는 이별이 온다」"
 
 [[dialogue]]
-speaker = "イニシュ"
+speaker_original = "イニシュ"
+speaker_translation = "이니슈"
 original = "「だから友達になれないと伝えたら──あの子に言われました」"
 translation = "「그래서 친구가 될 수 없다고 말했더니── 그 아이가 말했습니다」"
 
 [[dialogue]]
-speaker = "イニシュ"
+speaker_original = "イニシュ"
+speaker_translation = "이니슈"
 original = "「“イニシュは考えすぎよ。友達は何年経っても友達なんだから”──って」"
 translation = "「“이니슈는 생각이 너무 많아. 친구는 몇 년이 지나도 친구니까”──라고」"
 
 [[dialogue]]
-speaker = "イニシュ"
+speaker_original = "イニシュ"
+speaker_translation = "이니슈"
 original = "「だから私たちは約束しました」"
 translation = "「그래서 저희는 약속했습니다」"
 
 [[dialogue]]
-speaker = "イニシュ"
+speaker_original = "イニシュ"
+speaker_translation = "이니슈"
 original = "「私は若いまま、あの子だけ先に老いて死んでいく」"
 translation = "「저는 젊은 채로, 그 아이만 먼저 늙어서 죽어간다」"
 
 [[dialogue]]
-speaker = "イニシュ"
+speaker_original = "イニシュ"
+speaker_translation = "이니슈"
 original = "「それでも……いつまでも……私たちは友達でいようと」"
 translation = "「그래도…… 언제까지나…… 저희는 친구로 있자고」"
 
 [[dialogue]]
-speaker = "イニシュ"
+speaker_original = "イニシュ"
+speaker_translation = "이니슈"
 original = "「私はあの子のことを思い出したいです」"
 translation = "「저는 그 아이에 대해 기억해내고 싶습니다」"
 
 [[dialogue]]
-speaker = "イニシュ"
+speaker_original = "イニシュ"
+speaker_translation = "이니슈"
 original = "「しかし記憶を取り戻すことで、またあの子を失う悲しみを味わうかもしれません。私はそれが怖いです」"
 translation = "「하지만 기억을 되찾음으로써 다시 그 아이를 잃는 슬픔을 맛볼지도 모릅니다. 저는 그것이 두렵습니다」"
 
 [[dialogue]]
-speaker = "イニシュ"
+speaker_original = "イニシュ"
+speaker_translation = "이니슈"
 original = "「だから──」"
 translation = "「그러니──」"
 
 [[dialogue]]
-speaker = "イニシュ"
+speaker_original = "イニシュ"
+speaker_translation = "이니슈"
 original = "「私がすべてを思い出した時、あなたがそばにいてくれることを願います」"
 translation = "「제가 모든 것을 기억해냈을 때, 당신이 곁에 있어 주기를 바랍니다」"
 
 [[dialogue]]
-speaker = "イニシュ"
+speaker_original = "イニシュ"
+speaker_translation = "이니슈"
 original = "「あと、戦ったのでお腹が空きました。エネルギー補給が必要です」"
 translation = "「그리고 싸웠더니 배가 고파졌습니다. 에너지 보급이 필요합니다」"
 
@@ -239,7 +278,8 @@ original = "ラーメン食べて帰ろう"
 translation = "라면 먹고 돌아가자"
 
 [[dialogue]]
-speaker = "イニシュ"
+speaker_original = "イニシュ"
+speaker_translation = "이니슈"
 original = "「はい」"
 translation = "「네」"
 

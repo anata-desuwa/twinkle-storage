@@ -19,12 +19,14 @@ original = "その代わりに──"
 translation = "그 대신에──"
 
 [[dialogue]]
-speaker = "ナナカ"
+speaker_original = "ナナカ"
+speaker_translation = "나나카"
 original = "「お待たせっ。それじゃ行こっか」"
 translation = "「기다렸지. 그럼 갈까.」"
 
 [[dialogue]]
-speaker = "パッキー"
+speaker_original = "パッキー"
+speaker_translation = "팟키"
 original = "「おっしゃあ、じゃんじゃん持ってこ～い！\u3000シン様の質素な食生活に付き合わされて、こっちは万年ハラペコなんだからよ！」"
 translation = "「오쌰, 팍팍 가져와라~! 신 님의 검소한 식생활에 어울려주느라 이쪽은 만년 배고픈 상태라고!」"
 
@@ -34,22 +36,26 @@ original = "このパンダは？"
 translation = "이 팬더는?"
 
 [[dialogue]]
-speaker = "ナナカ"
+speaker_original = "ナナカ"
+speaker_translation = "나나카"
 original = "「ごめん、なんか話を聞きつけて、ついてきちゃった」"
 translation = "「미안, 왠지 이야기를 듣고 따라와 버렸어.」"
 
 [[dialogue]]
-speaker = "パッキー"
+speaker_original = "パッキー"
+speaker_translation = "팟키"
 original = "「おいおい、俺様がいれば百人力だろうが！」"
 translation = "「어이어이, 이 나님이 있으면 백인대장급이라고!」"
 
 [[dialogue]]
-speaker = "パッキー"
+speaker_original = "パッキー"
+speaker_translation = "팟키"
 original = "「というか、この大賢者パッキー様をパンダ扱いとは、いい度胸だぜ！」"
 translation = "「그보다 이 대현자 팟키 님을 팬더 취급하다니, 배짱 좋구먼!」"
 
 [[dialogue]]
-speaker = "ナナカ"
+speaker_original = "ナナカ"
+speaker_translation = "나나카"
 original = "「いや、どこからどう見てもパンダでしょ」"
 translation = "「아니, 어디로 봐도 팬더잖아.」"
 
@@ -59,22 +65,26 @@ original = "パンダってスイーツ食べるの？"
 translation = "팬더가 스위츠를 먹어?"
 
 [[dialogue]]
-speaker = "パッキー"
+speaker_original = "パッキー"
+speaker_translation = "팟키"
 original = "「おうともさ！\u3000メチャクチャ食うぜ！\u3000このパッキー様が笹しか食わないと思ったら大間違いだぜ！」"
 translation = "「당연하지! 엄청나게 먹는다고! 이 팟키 님이 대나무만 먹을 거라 생각하면 큰 오산이다!」"
 
 [[dialogue]]
-speaker = "ナナカ"
+speaker_original = "ナナカ"
+speaker_translation = "나나카"
 original = "「なんか偉そうでごめん。まあ、このパンダは試食担当ってことで」"
 translation = "「왠지 거만해서 미안. 뭐, 이 팬더는 시식 담당인 걸로.」"
 
 [[dialogue]]
-speaker = "パッキー"
+speaker_original = "パッキー"
+speaker_translation = "팟키"
 original = "「おう！\u3000試食なら俺様に任せやがれ～！」"
 translation = "「오우! 시식이라면 이 나님에게 맡겨두라고~!」"
 
 [[dialogue]]
-speaker = "ナナカ"
+speaker_original = "ナナカ"
+speaker_translation = "나나카"
 original = "「いろいろ試食してもらったけど、手応えはあった？」"
 translation = "「이것저것 시식해봤는데, 성과는 있었어?」"
 
@@ -84,52 +94,62 @@ original = "参考になるスウィーツはあったよ"
 translation = "참고가 될 만한 스위츠는 있었어"
 
 [[dialogue]]
-speaker = "ナナカ"
+speaker_original = "ナナカ"
+speaker_translation = "나나카"
 original = "「ならよかった。食べても成果が出なかったら、意味ないもんね」"
 translation = "「그럼 다행이다. 먹어도 성과가 안 나오면 의미 없으니까 말이야.」"
 
 [[dialogue]]
-speaker = "ナナカ"
+speaker_original = "ナナカ"
+speaker_translation = "나나카"
 original = "「いくら好物でも、食べすぎたら苦しくなっちゃうし。ほら、あんな感じで」"
 translation = "「아무리 좋아하는 거라도 너무 많이 먹으면 괴로워지니까. 봐, 저런 느낌으로.」"
 
 [[dialogue]]
-speaker = "パッキー"
+speaker_original = "パッキー"
+speaker_translation = "팟키"
 original = "「うぐぅ……うぇぇ……も、もう食えねぇぇ……っ」"
 translation = "「우구우…… 우웩…… 더, 더는 못 먹겠어……」"
 
 [[dialogue]]
-speaker = "ナナカ"
+speaker_original = "ナナカ"
+speaker_translation = "나나카"
 original = "「まったく、欲張るからそういうことになるんでしょうが」"
 translation = "「정말이지, 욕심부리니까 그렇게 되는 거잖아.」"
 
 [[dialogue]]
-speaker = "パッキー"
+speaker_original = "パッキー"
+speaker_translation = "팟키"
 original = "「お、俺様のことは、しばらくそっとしておいてほしいんだぜ……」"
 translation = "「나, 나님은 당분간 좀 내버려 둬줬으면 좋겠다구……」"
 
 [[dialogue]]
-speaker = "ナナカ"
+speaker_original = "ナナカ"
+speaker_translation = "나나카"
 original = "「だってさ。あの調子じゃ、もう試食係は無理っぽいね。まあ、食べるだけだったから、役には立ってなかったけど」"
 translation = "「라네. 저 꼴을 보니 이제 시식 담당은 무리겠네. 뭐, 먹기만 했으니까 도움이 되진 않았지만.」"
 
 [[dialogue]]
-speaker = "ナナカ"
+speaker_original = "ナナカ"
+speaker_translation = "나나카"
 original = "「てか、アタシらもちょっと食べ過ぎちゃったかな。腹ごなしにさ、少し歩こうよ」"
 translation = "「그보다 우리도 좀 너무 많이 먹었나. 소화도 시킬 겸 좀 걷자.」"
 
 [[dialogue]]
-speaker = "ナナカ"
+speaker_original = "ナナカ"
+speaker_translation = "나나카"
 original = "「そんでさ、夕霧庵で出すスウィーツって、どんなのがいいと思う？」"
 translation = "「그래서 말인데, 유우기리안에서 내놓을 스위츠는 어떤 게 좋을 것 같아?」"
 
 [[dialogue]]
-speaker = "ナナカ"
+speaker_original = "ナナカ"
+speaker_translation = "나나카"
 original = "「アタシ的には、やっぱ和菓子がいいのかなって思うんだけど……和菓子ってハードル高いよね？」"
 translation = "「나로서는 역시 화과자가 좋으려나 싶은데…… 화과자는 허들이 높지?」"
 
 [[dialogue]]
-speaker = "ナナカ"
+speaker_original = "ナナカ"
+speaker_translation = "나나카"
 original = "「洋菓子なら簡単なのもあるけど、ソバ屋だしなぁ」"
 translation = "「양과자라면 간단한 것도 있지만, 소바 가게니까 말이야.」"
 
@@ -139,27 +159,32 @@ original = "和と洋のいいとこ取りで行こう"
 translation = "전통과 현대의 장점만 취해서 가자"
 
 [[dialogue]]
-speaker = "ナナカ"
+speaker_original = "ナナカ"
+speaker_translation = "나나카"
 original = "「おっ、なるほどねぇ。単純な和洋折衷じゃなくて、洋菓子に和のテイストを取り入れて……うんうん、悪くないんじゃない？」"
 translation = "「오, 과연 그렇네. 단순한 퓨전이 아니라 양과자에 일식 테이스트를 도입해서…… 응응, 나쁘지 않은데?」"
 
 [[dialogue]]
-speaker = "ナナカ"
+speaker_original = "ナナカ"
+speaker_translation = "나나카"
 original = "「問題は、アタシにも作れるか、だよねぇ。あと、それなりの数も必要だから、量産性も考えなきゃだし……」"
 translation = "「문제는 나도 만들 수 있느냐지. 그리고 어느 정도 수량도 필요하니까 양산성도 생각해야 하고……」"
 
 [[dialogue]]
-speaker = "ナナカ"
+speaker_original = "ナナカ"
+speaker_translation = "나나카"
 original = "「はぁ～、お店で売るのって難しいよね、やっぱ。こんな時、シンがいてくれたら相談出来るんだけど……」"
 translation = "「하아~ 가게에서 파는 건 역시 어렵네. 이럴 때 신이 있어 줬다면 상담할 수 있었을 텐데……」"
 
 [[dialogue]]
-speaker = "ナナカ"
+speaker_original = "ナナカ"
+speaker_translation = "나나카"
 original = "「あっ、ごめん！\u3000会長も知ってると思うけど、シンってのはアタシの幼馴染でさ……」"
 translation = "「앗, 미안! 회장도 알고 있겠지만 신이라는 건 내 소꿉친구인데……」"
 
 [[dialogue]]
-speaker = "ナナカ"
+speaker_original = "ナナカ"
+speaker_translation = "나나카"
 original = "「こういう時、よく相談に乗ってもらってたんだ。幼馴染だから話しやすいし、向こうもこっちに遠慮なんてしないしね」"
 translation = "「이럴 때 자주 상담했었거든. 소꿉친구니까 말하기 편하고, 저쪽도 나한테 사양 같은 건 안 하니까.」"
 
@@ -169,12 +194,14 @@ original = "仲がいいんだ？"
 translation = "사이가 좋구나?"
 
 [[dialogue]]
-speaker = "ナナカ"
+speaker_original = "ナナカ"
+speaker_translation = "나나카"
 original = "「仲がいいって言うか……うん、そうなのかな……仲はいいと思う」"
 translation = "「사이가 좋다기보다…… 응, 그런 걸까…… 사이는 좋다고 생각해.」"
 
 [[dialogue]]
-speaker = "ナナカ"
+speaker_original = "ナナカ"
+speaker_translation = "나나카"
 original = "「たまに、口喧嘩することもあるけどね。それでも、いざって時はいつもアタシを助けてくれる、そんなやつだから……」"
 translation = "「가끔 말싸움할 때도 있지만 말이야. 그래도 결정적일 때는 언제나 나를 도와주는, 그런 녀석이니까……」"
 
@@ -184,12 +211,14 @@ original = "幼馴染は大事だね"
 translation = "소꿉친구는 소중하지"
 
 [[dialogue]]
-speaker = "ナナカ"
+speaker_original = "ナナカ"
+speaker_translation = "나나카"
 original = "「……うん、アタシもそう思ってる」"
 translation = "「……응, 나도 그렇게 생각해.」"
 
 [[dialogue]]
-speaker = "ナナカ"
+speaker_original = "ナナカ"
+speaker_translation = "나나카"
 original = "「ってか、会長も幼馴染のことわかってる感じの物言いだね。もしかして、仲いい幼馴染がいるの？」"
 translation = "「그보다 회장도 소꿉친구에 대해 잘 아는 듯한 말투네. 혹시 사이좋은 소꿉친구가 있어?」"
 
@@ -204,17 +233,20 @@ original = "いるよ"
 translation = "있어"
 
 [[dialogue]]
-speaker = "ナナカ"
+speaker_original = "ナナカ"
+speaker_translation = "나나카"
 original = "「へぇ～……メルエルって言うんだ。よかったらさ、どんな子なのか、教えてよ」"
 translation = "「헤에~…… 메르엘이라고 하는구나. 괜찮다면 어떤 아이인지 알려줘.」"
 
 [[dialogue]]
-speaker = "ナナカ"
+speaker_original = "ナナカ"
+speaker_translation = "나나카"
 original = "「なるほど、そのメルエルとは、今通ってる新星学園で再会したんだ……いいね、なんかドラマチックじゃん」"
 translation = "「과연, 그 메르엘과는 지금 다니는 신성학원에서 재회한 거구나…… 좋네, 왠지 드라마틱하잖아.」"
 
 [[dialogue]]
-speaker = "ナナカ"
+speaker_original = "ナナカ"
+speaker_translation = "나나카"
 original = "「でも、記憶が曖昧なの？\u3000大好きな幼馴染だったんでしょ？」"
 translation = "「하지만 기억이 애매해? 정말 좋아했던 소꿉친구였다며?」"
 
@@ -229,32 +261,38 @@ original = "思い出せたらって思ってるけど"
 translation = "기억해낼 수 있다면 좋겠다고 생각하고 있어"
 
 [[dialogue]]
-speaker = "ナナカ"
+speaker_original = "ナナカ"
+speaker_translation = "나나카"
 original = "「ごめん、デリカシーないこと言った。大切な幼馴染のことだもん、思い出したいに決まってるよね」"
 translation = "「미안, 무신경한 말을 했네. 소중한 소꿉친구인데 당연히 기억해내고 싶겠지.」"
 
 [[dialogue]]
-speaker = "ナナカ"
+speaker_original = "ナナカ"
+speaker_translation = "나나카"
 original = "「アタシだって……シンのこと忘れちゃったらさ、何が何でも思い出したいって思うだろうし」"
 translation = "「나도…… 만약 신을 잊어버린다면 어떻게든 기억해내고 싶다고 생각할 테니까.」"
 
 [[dialogue]]
-speaker = "ナナカ"
+speaker_original = "ナナカ"
+speaker_translation = "나나카"
 original = "「そんで、メルエルの方はどうなわけ？\u3000お互いに覚えてないって感じ？\u3000今聞いた話だと、そんなこともなさそうだけど……」"
 translation = "「그래서 메르엘 쪽은 어떤 거야? 서로 기억 못 하는 느낌? 방금 들은 얘기론 그런 것 같지도 않은데……」"
 
 [[dialogue]]
-speaker = "ナナカ"
+speaker_original = "ナナカ"
+speaker_translation = "나나카"
 original = "（ていうか、何年も会ってなかったのにわざわざ向こうから会いに来たってことは、絶対この人のこと好きでしょそれ。なら、思い出してもらえないのは、つらいよね……）"
 translation = "(그나저나 몇 년이나 못 만났는데 일부러 그쪽에서 만나러 왔다는 건, 절대 이 사람을 좋아하는 거잖아 그거. 그렇다면 기억해주지 못하는 건 괴롭겠지……)"
 
 [[dialogue]]
-speaker = "ナナカ"
+speaker_original = "ナナカ"
+speaker_translation = "나나카"
 original = "（よっしゃ、ここはアタシが、その子に援護射撃してあげちゃおうじゃないの！）"
 translation = "(좋아, 여기선 내가 그 아이에게 원호 사격을 좀 해줘야겠어!)"
 
 [[dialogue]]
-speaker = "ナナカ"
+speaker_original = "ナナカ"
+speaker_translation = "나나카"
 original = "「ねえ、メルエルのこと、絶対に思い出してあげて！」"
 translation = "「저기, 메르엘을 반드시 기억해줘!」"
 
@@ -264,22 +302,26 @@ original = "ど、どうしたの急に？"
 translation = "갑, 갑자기 왜 그래?"
 
 [[dialogue]]
-speaker = "ナナカ"
+speaker_original = "ナナカ"
+speaker_translation = "나나카"
 original = "「同じ幼馴染のいる立場として、共感しちゃっただけ！\u3000もしアタシがその子の立場なら、絶対に思い出して欲しいし」"
 translation = "「같은 소꿉친구가 있는 처지로서 공감했을 뿐이야! 만약 내가 그 아이의 입장이라면 반드시 기억해주길 바랄 테니까.」"
 
 [[dialogue]]
-speaker = "ナナカ"
+speaker_original = "ナナカ"
+speaker_translation = "나나카"
 original = "「人の記憶なんて、そう簡単にどうにかなるもんじゃないってのは、わかってるけどさ……」"
 translation = "「사람의 기억이라는 게 그렇게 쉽게 어떻게 되는 게 아니란 건 알지만……」"
 
 [[dialogue]]
-speaker = "ナナカ"
+speaker_original = "ナナカ"
+speaker_translation = "나나카"
 original = "「でも、願わなかったら絶対叶わないって気がするし。逆に言えば、願い続ければいつかきっと叶う。アタシはそう信じてる」"
 translation = "「그래도 바라지 않으면 절대 이루어지지 않을 것 같은 기분이 들어. 반대로 말하면 계속 바라면 언젠가 꼭 이루어질 거야. 난 그렇게 믿어.」"
 
 [[dialogue]]
-speaker = "ナナカ"
+speaker_original = "ナナカ"
+speaker_translation = "나나카"
 original = "「そのメルエルって子は、顔も知らない相手だけど……それでも、うまく行って欲しいなって思うんだよ」"
 translation = "「그 메르엘이라는 애는 얼굴도 모르는 상대지만…… 그래도 잘 됐으면 좋겠다고 생각해.」"
 
@@ -289,22 +331,26 @@ original = "うまく行くって、何が？"
 translation = "잘 된다니, 뭐가?"
 
 [[dialogue]]
-speaker = "ナナカ"
+speaker_original = "ナナカ"
+speaker_translation = "나나카"
 original = "「何って、それは……もうっ、そんなのアタシの口から言わせるんじゃないやいっ！」"
 translation = "「뭐냐니 그건…… 정말, 그런 걸 내 입으로 말하게 하지 말란 말이야!」"
 
 [[dialogue]]
-speaker = "ナナカ"
+speaker_original = "ナナカ"
+speaker_translation = "나나카"
 original = "「とにかくっ、会長も幼馴染のことを大事に思うんだったら、ちゃんと考えて、察してあげな」"
 translation = "「어쨌든! 회장도 소꿉친구를 소중히 여긴다면 제대로 생각하고 알아채 주라고.」"
 
 [[dialogue]]
-speaker = "ナナカ"
+speaker_original = "ナナカ"
+speaker_translation = "나나카"
 original = "「それだけできっと、メルエルは喜んでくれるはずだからさ」"
 translation = "「그것만으로도 분명 메르엘은 기뻐해 줄 테니까.」"
 
 [[dialogue]]
-speaker = "ナナカ"
+speaker_original = "ナナカ"
+speaker_translation = "나나카"
 original = "「今は離れ離れだけど、あっちに帰ったら、ちゃんとメルエルに優しくしてあげるんだよ」"
 translation = "「지금은 떨어져 있지만, 저쪽으로 돌아가면 꼭 메르엘에게 잘해줘야 해.」"
 
@@ -314,7 +360,8 @@ original = "真っ先に会いに行くよ"
 translation = "제일 먼저 만나러 갈게"
 
 [[dialogue]]
-speaker = "ナナカ"
+speaker_original = "ナナカ"
+speaker_translation = "나나카"
 original = "「それでよし！\u3000アタシとの約束だからねっ！」"
 translation = "「그걸로 됐어! 나랑 약속한 거다!」"
 

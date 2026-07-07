@@ -9,7 +9,8 @@ original = "そしてクリスマス当日──"
 translation = "그리고 크리스마스 당일──"
 
 [[dialogue]]
-speaker = "モネ"
+speaker_original = "モネ"
+speaker_translation = "모네"
 original = "「お、おはようございます……待ちましたか？」"
 translation = "「오, 좋은 아침이에요…… 많이 기다렸나요?」"
 
@@ -19,47 +20,56 @@ original = "全然。今来たところ"
 translation = "전혀. 방금 온 참이야."
 
 [[dialogue]]
-speaker = "モネ"
+speaker_original = "モネ"
+speaker_translation = "모네"
 original = "「そ、そうですか……ベタベタなやり取りですね……はは」"
 translation = "「그, 그렇군요…… 뻔하디뻔한 대화네요…… 하하」"
 
 [[dialogue]]
-speaker = "モネ"
+speaker_original = "モネ"
+speaker_translation = "모네"
 original = "「……チラ」"
 translation = "「……힐끗」"
 
 [[dialogue]]
-speaker = "モネ"
+speaker_original = "モネ"
+speaker_translation = "모네"
 original = "（デートなんだから、手を繋ぐくらいは……ああいや、いきなりそんなことしたら、はしたないって思われるかな……？\u3000ていうか恥ずかしい……！）"
 translation = "(데이트니까, 손을 잡는 정도는…… 아아 아니지, 갑자기 그런 짓을 하면, 천박하다고 생각하려나……? 그보다 부끄러워……!)"
 
 [[dialogue]]
-speaker = "モネ"
+speaker_original = "モネ"
+speaker_translation = "모네"
 original = "「ひゃわ！？\u3000い、いきなり手を！？\u3000どど、どうしたんですか？」"
 translation = "「히야와!? 가, 갑자기 손을!? 머머, 무슨 일인가요?」"
 
 [[dialogue]]
-speaker = "モネ"
+speaker_original = "モネ"
+speaker_translation = "모네"
 original = "「デートなんだから手を繋ぎたい……？\u3000そ、そうですねっ、小説のネタのためにデートするんですもんねっ」"
 translation = "「데이트니까 손을 잡고 싶다……? 그, 그렇네요, 소설 소재를 위해서 데이트하는 거니까요」"
 
 [[dialogue]]
-speaker = "モネ"
+speaker_original = "モネ"
+speaker_translation = "모네"
 original = "（でも手汗とか大丈夫かなぁ……ううぅ、慌てるな私、落ち着け私……）"
 translation = "(하지만 손에 땀이라든가 괜찮으려나…… 으으으, 당황하지 마 나 자신, 진정해 나 자신……)"
 
 [[dialogue]]
-speaker = "モネ"
+speaker_original = "モネ"
+speaker_translation = "모네"
 original = "（だけど会長は、どうして私なんかと恋人になってくれたんだろう……？\u3000会長は優しくて頼りになるけど、私なんて本を読んでばっかりなのに……）"
 translation = "(그렇지만 회장님은, 어째서 나 같은 애랑 연인이 되어준 걸까……? 회장님은 상냥하고 의지가 되지만, 나 같은 건 책만 읽고 있을 뿐인데……)"
 
 [[dialogue]]
-speaker = "モネ"
+speaker_original = "モネ"
+speaker_translation = "모네"
 original = "「あっ、すみません。一瞬考え事していて……」"
 translation = "「앗, 죄송합니다. 잠깐 생각할 게 있어서……」"
 
 [[dialogue]]
-speaker = "モネ"
+speaker_original = "モネ"
+speaker_translation = "모네"
 original = "「えっと、今日のデートは小説の取材も兼ねてなので、いつも私がやらないことにも挑戦してみようと思いますっ」"
 translation = "「에또, 오늘 데이트는 소설 취재도 겸하는 거니까, 평소에 제가 하지 않던 일에도 도전해 보려고 해요」"
 
@@ -69,7 +79,8 @@ original = "そうして俺たちは、手を繋ぎながら繁華街へ。"
 translation = "그렇게 우리들은, 손을 잡으면서 번화가로."
 
 [[dialogue]]
-speaker = "モネ"
+speaker_original = "モネ"
+speaker_translation = "모네"
 original = "「あ、ありました、ゲームセンター。今まで来たことはありませんが、本で読んだところによると、いかがわしい雰囲気もあるとか……」"
 translation = "「아, 찾았습니다, 게임 센터. 지금까지 와본 적은 없지만, 책에서 읽은 바에 따르면, 불건전한 분위기도 있다고 하던데……」"
 
@@ -79,27 +90,32 @@ original = "大丈夫、怖いところじゃないよ"
 translation = "괜찮아, 무서운 곳이 아니야."
 
 [[dialogue]]
-speaker = "モネ"
+speaker_original = "モネ"
+speaker_translation = "모네"
 original = "「は、はいっ。では入ってみましょう……！」"
 translation = "「네, 네엣. 그럼 들어가 보죠……!」"
 
 [[dialogue]]
-speaker = "モネ"
+speaker_original = "モネ"
+speaker_translation = "모네"
 original = "「初めてのゲームセンターでしたが、想像より音と光がすごくて、ちょっとしたカルチャーショックでした……」"
 translation = "「처음 와본 게임 센터였지만, 상상보다 소리와 빛이 굉장해서, 조금 문화 충격이었어요……」"
 
 [[dialogue]]
-speaker = "モネ"
+speaker_original = "モネ"
+speaker_translation = "모네"
 original = "「アーケードゲームを取り扱った本は読んだことあるんですけど、実際にやるのは違いますね。全然上手くできなかったけど、楽しかったです」"
 translation = "「아케이드 게임을 다룬 책은 읽어본 적이 있지만, 실제로 하는 건 다르네요. 전혀 잘하지는 못했지만, 즐거웠어요」"
 
 [[dialogue]]
-speaker = "モネ"
+speaker_original = "モネ"
+speaker_translation = "모네"
 original = "「それにクレーンゲームで、キーホルダーを取ってもらって……これ、前から読んでて好きなマンガのマスコットなんですよ。大事にします」"
 translation = "「게다가 크레인 게임으로, 키홀더를 뽑아주셔서…… 이거, 전부터 읽고 좋아하던 만화의 마스코트예요. 소중히 간직할게요」"
 
 [[dialogue]]
-speaker = "モネ"
+speaker_original = "モネ"
+speaker_translation = "모네"
 original = "「次は映画ですね。とっても感動した小説が原作なんですけど、ちゃんと再現されているかどうか……期待半分、不安半分でドキドキです」"
 translation = "「다음은 영화네요. 정말 감동했던 소설이 원작인데, 제대로 재현되어 있을지…… 기대 반, 불안 반으로 두근거려요」"
 
@@ -109,47 +125,56 @@ original = "どういうところが魅力なの？"
 translation = "어떤 점이 매력이야?"
 
 [[dialogue]]
-speaker = "モネ"
+speaker_original = "モネ"
+speaker_translation = "모네"
 original = "「そうですね、見どころはたくさんあるのですが、命懸けで恋人を助け──ああ～っ！？\u3000これ以上はネタバレですっ！？」"
 translation = "「글쎄요, 볼거리는 많이 있습니다만, 목숨을 걸고 연인을 구하── 아아~!? 이 이상은 스포일러예요!?」"
 
 [[dialogue]]
-speaker = "モネ"
+speaker_original = "モネ"
+speaker_translation = "모네"
 original = "「ちょっと言葉では説明できないというか、今のでもけっこうヤバいというか、とにかく見てみましょうっ！」"
 translation = "「말로는 좀 설명하기 힘들다고 해야 할까, 지금도 꽤 위험하다고 해야 할까, 아무튼 일단 보러 가요!」"
 
 [[dialogue]]
-speaker = "モネ"
+speaker_original = "モネ"
+speaker_translation = "모네"
 original = "「……あれ、どうして笑ってるんですか、会長？」"
 translation = "「……어라, 왜 웃고 계시는 거예요, 회장님?」"
 
 [[dialogue]]
-speaker = "モネ"
+speaker_original = "モネ"
+speaker_translation = "모네"
 original = "「……モネらしいから？\u3000どういう意味ですか～～っ！？」"
 translation = "「……모네답다니? 그게 무슨 뜻이에요~~!?」"
 
 [[dialogue]]
-speaker = "モネ"
+speaker_original = "モネ"
+speaker_translation = "모네"
 original = "「会長、映画はどうでした？\u3000ネタバレしないでよかったですよね？」"
 translation = "「회장님, 영화는 어땠나요? 스포일러 안 하길 잘했죠?」"
 
 [[dialogue]]
-speaker = "モネ"
+speaker_original = "モネ"
+speaker_translation = "모네"
 original = "「……ふふ、ですよね。私も涙が出るほど感動しちゃいました」"
 translation = "「……후후, 그렇죠. 저도 눈물이 날 정도로 감동해 버렸어요」"
 
 [[dialogue]]
-speaker = "モネ"
+speaker_original = "モネ"
+speaker_translation = "모네"
 original = "「夜の海もいいですよね。街の夜景もいいんですけど、どうせならと思ってリップルさんにお願いして、リゾート結界を用意してもらいました」"
 translation = "「밤바다도 좋네요. 거리의 야경도 좋지만, 이왕이면 싶어서 리플 씨에게 부탁해 리조트 결계를 준비해 달라고 했어요」"
 
 [[dialogue]]
-speaker = "モネ"
+speaker_original = "モネ"
+speaker_translation = "모네"
 original = "「じゃあ海らしく……」"
 translation = "「그럼 바다답게……」"
 
 [[dialogue]]
-speaker = "モネ"
+speaker_original = "モネ"
+speaker_translation = "모네"
 original = "「えへへ……恥ずかしいですけど、水着はかわいいですから。私なんかにはもったいないかもしれないですけど……」"
 translation = "「에헤헤…… 부끄럽지만, 수영복은 귀여우니까요. 저 같은 애한테는 과분할지도 모르겠지만……」"
 
@@ -159,12 +184,14 @@ original = "水着のモネ、すごくかわいい"
 translation = "수영복 차림의 모네, 정말 귀엽다"
 
 [[dialogue]]
-speaker = "モネ"
+speaker_original = "モネ"
+speaker_translation = "모네"
 original = "「ひゃっ！？\u3000そ、そんな、無理してほめなくても……」"
 translation = "「히얏!? 그, 그렇게 무리해서 칭찬 안 해주셔도……」"
 
 [[dialogue]]
-speaker = "モネ"
+speaker_original = "モネ"
+speaker_translation = "모네"
 original = "「ひあああっ！？\u3000きゅっ、急に抱きしめてどうしたんですか～っ！？」"
 translation = "「히아아앗!? 갑, 갑자기 껴안다니 무슨 일이세요~!?」"
 
@@ -174,27 +201,32 @@ original = "好きだよ、モネ"
 translation = "좋아해, 모네"
 
 [[dialogue]]
-speaker = "モネ"
+speaker_original = "モネ"
+speaker_translation = "모네"
 original = "「！」"
 translation = "「!」"
 
 [[dialogue]]
-speaker = "モネ"
+speaker_original = "モネ"
+speaker_translation = "모네"
 original = "「どうして……なんでしょうか」"
 translation = "「어째서…… 인가요」"
 
 [[dialogue]]
-speaker = "モネ"
+speaker_original = "モネ"
+speaker_translation = "모네"
 original = "「もっと素敵な人、会長にふさわしい人は他にたくさんいます。それこそリップルさんみたいに、明るくて笑顔が似合う人が」"
 translation = "「더 멋진 사람, 회장님께 어울리는 사람은 다른 데도 많이 있어요. 리플 씨처럼 밝고 미소가 잘 어울리는 사람이라든가」"
 
 [[dialogue]]
-speaker = "モネ"
+speaker_original = "モネ"
+speaker_translation = "모네"
 original = "「でも私は、人より本の友達が多いような人間で……性格も明るくなくて、星騎士として強くもなくて……いいところなんてないです」"
 translation = "「하지만 저는 남들보다 책 친구가 더 많은 인간이고…… 성격도 밝지 않고, 성기사로서 강하지도 않고…… 좋은 점이라곤 하나도 없어요」"
 
 [[dialogue]]
-speaker = "モネ"
+speaker_original = "モネ"
+speaker_translation = "모네"
 original = "「強くてみんなから慕われている会長とは、とても釣り合わないです……」"
 translation = "「강하고 모두에게 경외받는 회장님과는 도저히 어울리지 않아요……」"
 
@@ -204,7 +236,8 @@ original = "本に夢中になってるモネはとっても素敵だ"
 translation = "책에 열중해 있는 모네는 정말 멋져"
 
 [[dialogue]]
-speaker = "モネ"
+speaker_original = "モネ"
+speaker_translation = "모네"
 original = "「そ、そうなんですか……？」"
 translation = "「그, 그런가요……?」"
 
@@ -214,42 +247,50 @@ original = "そんなモネが大好きだ！"
 translation = "그런 모네가 정말 좋아!"
 
 [[dialogue]]
-speaker = "モネ"
+speaker_original = "モネ"
+speaker_translation = "모네"
 original = "「大好き……！？\u3000そ、そこまでですか……！？」"
 translation = "「정말 좋아……!? 그, 그 정도인가요……!?」"
 
 [[dialogue]]
-speaker = "モネ"
+speaker_original = "モネ"
+speaker_translation = "모네"
 original = "「あはは……そこまで言われると、うじうじしてる自分がバカらしくなってきました……」"
 translation = "「아하하…… 그렇게까지 말씀하시니, 우물쭈물하는 제 자신이 바보 같아졌어요……」"
 
 [[dialogue]]
-speaker = "モネ"
+speaker_original = "モネ"
+speaker_translation = "모네"
 original = "「自分がダメだと思っているところも、人から見ると魅力になりうる……それも学びかもしれませんね。小説の参考にします」"
 translation = "「자신이 부족하다고 생각하는 부분도, 남이 보기엔 매력이 될 수 있다…… 그것도 배움일지도 모르겠네요. 소설에 참고할게요」"
 
 [[dialogue]]
-speaker = "モネ"
+speaker_original = "モネ"
+speaker_translation = "모네"
 original = "「もう自分を人と比べて、ふさわしくないとか言うのはやめにします。好きって言ってくれる会長にも失礼ですから」"
 translation = "「이제 자신을 남과 비교해서 어울리지 않는다는 둥 말하는 건 그만둘게요. 좋아한다고 말해주는 회장님께도 실례니까요」"
 
 [[dialogue]]
-speaker = "モネ"
+speaker_original = "モネ"
+speaker_translation = "모네"
 original = "「だから……ちゅっ<emoji=heart04>」"
 translation = "「그러니까…… 쪽<emoji=heart04>」"
 
 [[dialogue]]
-speaker = "モネ"
+speaker_original = "モネ"
+speaker_translation = "모네"
 original = "「私も好きです。会長のこと大好きです」"
 translation = "「저도 좋아해요. 회장님 정말 좋아해요」"
 
 [[dialogue]]
-speaker = "モネ"
+speaker_original = "モネ"
+speaker_translation = "모네"
 original = "「だから一緒にいましょうね。ずっと、ずっと……末永くよろしくお願いします」"
 translation = "「그러니까 같이 있어요. 계속, 계속…… 앞으로도 잘 부탁드려요」"
 
 [[dialogue]]
-speaker = "モネ"
+speaker_original = "モネ"
+speaker_translation = "모네"
 original = "「来年のクリスマスも、また一緒に過ごしましょうね<emoji=heart04>」"
 translation = "「내년 크리스마스도 또 같이 보내요<emoji=heart04>」"
 

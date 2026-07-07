@@ -4,37 +4,44 @@ original = "第１話,いい旅、異世界気分♪,P"
 translation = "제1화, 좋은 여행, 이세계 기분♪,P"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「ふ～、今日もお疲れ様。なかなか大変だったわね！」"
 translation = "「후우, 오늘 하루도 수고했어. 꽤 힘들었지!」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「仕事はほとんど、緋宮会長と私で対応していた気がしますが……」"
 translation = "「일은 대부분, 히노미야 회장과 제가 대응했던 것 같습니다만……」"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「頑張った気になった分だけ、気持ち的には疲れるのよ！」"
 translation = "「열심히 했다고 생각한 만큼, 기분적으로는 피곤한 법이야!」"
 
 [[dialogue]]
-speaker = "ルネア"
+speaker_original = "ルネア"
+speaker_translation = "루네아"
 original = "「女神の威光によって、失礼するわ！」"
 translation = "「여신의 위광으로, 실례하겠어!」"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「ひゃんっ！？」"
 translation = "「햣!？」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「えっ、ルネアさん！？」"
 translation = "「엣, 루네아 씨!?」"
 
 [[dialogue]]
-speaker = "ルネア"
+speaker_original = "ルネア"
+speaker_translation = "루네아"
 original = "「ごきげんよう、クロトたち。元気にしていたかしら？」"
 translation = "「잘 지냈니, 쿠로토들. 건강하게 지내고 있었니?」"
 
@@ -44,222 +51,266 @@ original = "おかげさまで"
 translation = "덕분에"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「……それにしても、随分と早い再会ですね」"
 translation = "「……그나저나, 꽤 이른 재회네요」"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「また何か、いちゃもんでも付けに来たの……？」"
 translation = "「또 뭔가, 트집이라도 잡으러 온 거야……?」"
 
 [[dialogue]]
-speaker = "ルネア"
+speaker_original = "ルネア"
+speaker_translation = "루네아"
 original = "「ある意味そうね。だってわたし、あなたたちに力を貸すと言ったでしょう？」"
 translation = "「어떤 의미로는 그렇지. 왜냐하면 나, 너희들에게 힘을 빌려주겠다고 말했잖아?」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「ええ、そうでしたね」"
 translation = "「네, 그랬었죠」"
 
 [[dialogue]]
-speaker = "ルネア"
+speaker_original = "ルネア"
+speaker_translation = "루네아"
 original = "「それなのに、なかなか呼んでくれないんだもの。だから張り切って、わたしから会いに来たというわけ」"
 translation = "「그런데도, 좀처럼 불러주지 않으니 말이야. 그래서 기합 넣고, 내가 만나러 왔다는 거지」"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「それってアリなの……？」"
 translation = "「그게 말이 돼……?」"
 
 [[dialogue]]
-speaker = "ルネア"
+speaker_original = "ルネア"
+speaker_translation = "루네아"
 original = "「細かいことはいいじゃない。それより……あなたたち、今日は何をやっていたの？」"
 translation = "「자잘한 건 됐잖아. 그보다…… 너희들, 오늘은 뭘 하고 있었니?」"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「もちろん、星徒会の活動よ！」"
 translation = "「물론, 성도회 활동이지!」"
 
 [[dialogue]]
-speaker = "ルネア"
+speaker_original = "ルネア"
+speaker_translation = "루네아"
 original = "「星徒会……？\u3000なんだかおもしろそうね。それって、どんなことをやるものなのかしら」"
 translation = "「성도회……? 뭔가 재미있을 것 같네. 그건, 어떤 일을 하는 거니」"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「色々あるけど……興味あるの？」"
 translation = "「여러 가지 있지만…… 관심 있어?」"
 
 [[dialogue]]
-speaker = "ルネア"
+speaker_original = "ルネア"
+speaker_translation = "루네아"
 original = "「ええ。シンも生徒会長だから、それで少し縁を感じるというのもあるし」"
 translation = "「응. 신도 학생회장이니까, 그래서 조금 인연을 느낀다는 것도 있고」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「そうですね……学園内の仕事もそうですが、星騎士としてリクリエに対応するのが、目下の活動内容でしょうか」"
 translation = "「그렇네요…… 학원 내의 일도 그렇지만, 성기사로서 리크리에에 대응하는 것이, 당면한 활동 내용일까요」"
 
 [[dialogue]]
-speaker = "ルネア"
+speaker_original = "ルネア"
+speaker_translation = "루네아"
 original = "「なるほどね……ちょうどいいわ。その星徒会の活動で、何かわたしに手伝えることはない？」"
 translation = "「과연…… 마침 좋네. 그 성도회 활동에서, 뭔가 내가 도울 일은 없니?」"
 
 [[dialogue]]
-speaker = "ルネア"
+speaker_original = "ルネア"
+speaker_translation = "루네아"
 original = "「この前、勘違いで色々と迷惑をかけてしまった分、精一杯手伝わせてもらうわよ」"
 translation = "「이전에, 착각으로 여러 가지 폐를 끼친 만큼, 힘껏 돕도록 할게」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「それは、とてもありがたい申し出ですが……」"
 translation = "「그것은, 매우 감사한 제안입니다만……」"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「といっても、いきなり女神様の力を借りなきゃいけないような大仕事があるわけでもないし……」"
 translation = "「라고 해도, 갑자기 여신님의 힘을 빌려야 할 정도의 큰일이 있는 것도 아니고……」"
 
 [[dialogue]]
-speaker = "ルネア"
+speaker_original = "ルネア"
+speaker_translation = "루네아"
 original = "「えぇ～……せっかくそのつもりになっていたっていうのに……」"
 translation = "「에에~…… 모처럼 그럴 생각이었는데……」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「そうですね……ではひとまず、パトロールにでも向かうというのはどうでしょう」"
 translation = "「그렇네요…… 그럼 일단, 순찰이라도 나가는 건 어떨까요」"
 
 [[dialogue]]
-speaker = "ルネア"
+speaker_original = "ルネア"
+speaker_translation = "루네아"
 original = "「パトロール……？\u3000わかったわ、道行く犯罪者を、片っ端から取り締まっていくのね。わたしの力の見せ所だわ」"
 translation = "「순찰……? 알았어, 길 가는 범죄자를, 닥치는 대로 단속하는 거네. 내 힘을 보여줄 때다」"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「いや、そんな世紀末都市じゃないんだけど……」"
 translation = "「아니, 그런 세기말 도시는 아닌데……」"
 
 [[dialogue]]
-speaker = "ルネア"
+speaker_original = "ルネア"
+speaker_translation = "루네아"
 original = "「さあ、そうと決まれば出発しましょう」"
 translation = "「자, 그렇게 정해졌으면 출발하자」"
 
 [[dialogue]]
-speaker = "ルネア"
+speaker_original = "ルネア"
+speaker_translation = "루네아"
 original = "「ねぇ、あのお店は何かしら」"
 translation = "「저기, 저 가게는 뭐니」"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「あそこは、最近できたご飯屋さんね。とってもおいしいって評判よ！」"
 translation = "「저기는, 최근에 생긴 밥집이네. 엄청 맛있다고 평판이 좋아!」"
 
 [[dialogue]]
-speaker = "ルネア"
+speaker_original = "ルネア"
+speaker_translation = "루네아"
 original = "「そうなのね……！」"
 translation = "「그렇구나……!」"
 
 [[dialogue]]
-speaker = "ルネア"
+speaker_original = "ルネア"
+speaker_translation = "루네아"
 original = "「あっ、こっちの大きな建物はなにかしら、とってもきれいな造りね！」"
 translation = "「앗, 이쪽의 큰 건물은 뭐니, 굉장히 예쁜 구조네!」"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「……なんていうか、ルネアって、意外と好奇心旺盛なのね」"
 translation = "「……뭐랄까, 루네아는, 의외로 호기심이 왕성하네」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「さっきから、学園の近辺や街中を巡っているだけですが……こちらの世界を楽しんでもらえているようでよかったです」"
 translation = "「아까부터, 학원 근처나 시내를 돌아다니고 있을 뿐입니다만…… 이쪽 세계를 즐기고 계신 것 같아 다행입니다」"
 
 [[dialogue]]
-speaker = "ルネア"
+speaker_original = "ルネア"
+speaker_translation = "루네아"
 original = "「ええ、こちらの世界の景色をいろいろと見られて楽しいわ」"
 translation = "「응, 이쪽 세계의 경치를 여러 가지 볼 수 있어서 즐거워」"
 
 [[dialogue]]
-speaker = "ルネア"
+speaker_original = "ルネア"
+speaker_translation = "루네아"
 original = "「それにわたし、あちこち旅行したりするのは好きよ」"
 translation = "「게다가 나, 여기저기 여행하는 건 좋아해」"
 
 [[dialogue]]
-speaker = "ルネア"
+speaker_original = "ルネア"
+speaker_translation = "루네아"
 original = "「知らないものを見たり、新しいものに触れたりできるのって、ワクワクするもの」"
 translation = "「모르는 것을 보거나, 새로운 것을 접할 수 있다는 건, 두근거리는 일」"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「へぇ～。別の世界までやってくるのも、旅行感覚ってこと？」"
 translation = "「헤에~. 다른 세계까지 오는 것도, 여행 감각이라는 거야?」"
 
 [[dialogue]]
-speaker = "ルネア"
+speaker_original = "ルネア"
+speaker_translation = "루네아"
 original = "「まあ、そういう面もあるかしら。自分の知らない世界というだけで興味が湧くし、ちゃんとこの目で見てみたいもの」"
 translation = "「뭐, 그런 면도 있을까. 내가 모르는 세계라는 것만으로 흥미가 생기고, 제대로 이 눈으로 보고 싶으니 말이야」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「なるほど……女神様の感覚は、規模が違いますね」"
 translation = "「과연…… 여신님의 감각은, 규모가 다르네요」"
 
 [[dialogue]]
-speaker = "ルネア"
+speaker_original = "ルネア"
+speaker_translation = "루네아"
 original = "「あっ、あっちのお店もおいしそうね！」"
 translation = "「앗, 저쪽 가게도 맛있을 것 같네!」"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「そんなに気になるものが多いなら、何か食べていく？」"
 translation = "「그렇게 신경 쓰이는 게 많다면, 뭐 좀 먹고 갈래?」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「では、パトロールはこの辺りで切り上げますか？」"
 translation = "「그럼, 순찰은 이쯤에서 마무리할까요?」"
 
 [[dialogue]]
-speaker = "ルネア"
+speaker_original = "ルネア"
+speaker_translation = "루네아"
 original = "「う……でも、あなたたちの仕事の邪魔をするわけにはいかないし……今は我慢するわ」"
 translation = "「으…… 하지만, 너희들의 일을 방해할 수는 없으니…… 지금은 참겠어」"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「え、ホントにいいの？」"
 translation = "「에, 정말 괜찮아?」"
 
 [[dialogue]]
-speaker = "ルネア"
+speaker_original = "ルネア"
+speaker_translation = "루네아"
 original = "「ええ……大丈夫……」"
 translation = "「응…… 괜찮아……」"
 
 [[dialogue]]
-speaker = "ルネア"
+speaker_original = "ルネア"
+speaker_translation = "루네아"
 original = "「それにね！\u3000自由に行動できるのが一番だけれど、我慢をするというのも、何故だか嫌いじゃないのよね……！」"
 translation = "「게다가 말이야! 자유롭게 행동할 수 있는 것이 가장 좋지만, 참는다는 것도, 왠지 모르게 싫지 않단 말이지……!」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「えっ。それは本当に、大丈夫なんですか……？」"
 translation = "「엣. 그건 정말로, 괜찮은 건가요……?」"
 
 [[dialogue]]
-speaker = "ルネア"
+speaker_original = "ルネア"
+speaker_translation = "루네아"
 original = "「もちろんよ、なんだか気持ちいいまであるわ！」"
 translation = "「물론이지, 왠지 기분 좋을 정도야!」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「気持ちいいっ！？」"
 translation = "「기분 좋다!?」"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「う～ん、マゾの人ってことかしら？」"
 translation = "「으~음, 마조히스트라는 건가?」"
 
@@ -269,102 +320,122 @@ original = "しっ。ヴィーナス、突っ込んじゃダメだ"
 translation = "쉿. 비너스, 태클 걸면 안 돼"
 
 [[dialogue]]
-speaker = "ルネア"
+speaker_original = "ルネア"
+speaker_translation = "루네아"
 original = "「さあさあ、女神であるわたしに、もっと我慢をさせてちょうだい。というわけで、パトロールを続けましょう」"
 translation = "「자아 자아, 여신인 나에게, 더 참을성을 길러줘. 그런 연유로, 순찰을 계속하자」"
 
 [[dialogue]]
-speaker = "ルネア"
+speaker_original = "ルネア"
+speaker_translation = "루네아"
 original = "「この世界のいろんな場所と、どこかに隠れている悪いやつを見せてほしいわ」"
 translation = "「이 세계의 여러 장소와, 어딘가에 숨어 있는 나쁜 녀석을 보여줬으면 좋겠어」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「後者は、居ないに越したことはないと思いますが……」"
 translation = "「후자는, 없는 편이 낫다고 생각합니다만……」"
 
 [[dialogue]]
-speaker = "ルネア"
+speaker_original = "ルネア"
+speaker_translation = "루네아"
 original = "「ここは、フィーニスの塔ね……なんだか少し、懐かしく感じてしまうわ」"
 translation = "「여기는, 피니스 탑이네…… 왠지 모르게 조금, 그립게 느껴져」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「フィーニスの塔はルネアさんにとって、思い入れがある場所なんですか……？」"
 translation = "「피니스 탑은 루네아 씨에게, 추억이 있는 장소인가요……?」"
 
 [[dialogue]]
-speaker = "ルネア"
+speaker_original = "ルネア"
+speaker_translation = "루네아"
 original = "「ええ。こちらの世界にも存在しているということは知っていたけれど……いざこうやって目の当たりにすると、やっぱり感慨深いわ」"
 translation = "「응. 이쪽 세계에도 존재하고 있다는 것은 알고 있었지만…… 막상 이렇게 눈앞에서 보니, 역시 감회가 깊네」"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「そういえば、私たちがリアさんたちの世界に行った時、あっちにもあったものね、フィーニスの塔！」"
 translation = "「그러고 보니, 우리가 리아 씨들의 세계에 갔을 때, 거기도 있었지, 피니스 탑!」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「私たちの世界と繋がり、異世界間の移動も、フィーニスの塔を通じてでしたよね……」"
 translation = "「우리들의 세계와 연결되어, 이세계 간의 이동도, 피니스 탑을 통해서였죠……」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「女神であるルネアさんと関係の深い場所だったということであれば、色々と納得です」"
 translation = "「여신인 루네아 씨와 관계가 깊은 장소였다고 한다면, 여러 가지로 납득이 됩니다」"
 
 [[dialogue]]
-speaker = "ルネア"
+speaker_original = "ルネア"
+speaker_translation = "루네아"
 original = "「……それじゃあ、今日はこの辺りでお暇させてもらうわ」"
 translation = "「……그럼, 오늘은 이쯤에서 실례하도록 할게」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「えっ、また唐突ですね」"
 translation = "「엣, 또唐突이네요」"
 
 [[dialogue]]
-speaker = "ルネア"
+speaker_original = "ルネア"
+speaker_translation = "루네아"
 original = "「フィーニスの塔を見ていたら、シンに会いたくなってしまったから」"
 translation = "「피니스 탑을 보고 있으니, 신이 보고 싶어졌거든」"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「またノロケ？」"
 translation = "「또 염장질이야?」"
 
 [[dialogue]]
-speaker = "ルネア"
+speaker_original = "ルネア"
+speaker_translation = "루네아"
 original = "「結局、悪いやつを取り締まることができなかったのは、少し心残りではあるけれど……」"
 translation = "「결국, 나쁜 녀석을 단속하지 못한 것은, 조금 아쉽기는 하지만……」"
 
 [[dialogue]]
-speaker = "ルネア"
+speaker_original = "ルネア"
+speaker_translation = "루네아"
 original = "「でもそれだけ、ここが平和ということよね。それはとても素晴らしいことだわ」"
 translation = "「하지만 그만큼, 여기가 평화롭다는 거겠지. 그것은 매우 멋진 일이야」"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「それはまぁ当然ね！\u3000私たちが毎日頑張ってるんだから」"
 translation = "「그건 뭐 당연하지! 우리가 매일 열심히 하고 있으니까」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「ええ、日々精進しているつもりです」"
 translation = "「네, 나날이 정진하고 있을 생각입니다」"
 
 [[dialogue]]
-speaker = "ルネア"
+speaker_original = "ルネア"
+speaker_translation = "루네아"
 original = "「なるほどね……思っていたよりも頼もしいのね、スターナイツって」"
 translation = "「과연…… 생각했던 것보다 든든하네, 스타 나이츠는」"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「ふふん、もっと褒めてくれてもいいわよ！」"
 translation = "「후훗, 좀 더 칭찬해 줘도 괜찮아!」"
 
 [[dialogue]]
-speaker = "ルネア"
+speaker_original = "ルネア"
+speaker_translation = "루네아"
 original = "「ふふ……それじゃあ、また会いましょう。次こそは、パトロールでもなんでも、ちゃんと声をかけてちょうだいね」"
 translation = "「후후…… 그럼, 다음에 또 만나자. 다음에는, 순찰이든 뭐든, 제대로 말을 걸어줘야 해」"
 

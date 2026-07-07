@@ -4,62 +4,74 @@ original = "第３話,アイリーンの力,P"
 translation = "제3화, 아이린의 힘, P"
 
 [[dialogue]]
-speaker = "アイリーン"
+speaker_original = "アイリーン"
+speaker_translation = "아이린"
 original = "「ねぇねぇ、いいでしょ？\u3000会長さん、お願いっ」"
 translation = "「저기 저기, 괜찮지? 회장님, 부탁해.」"
 
 [[dialogue]]
-speaker = "マトイ"
+speaker_original = "マトイ"
+speaker_translation = "마토이"
 original = "「ん？\u3000何悩んでるの？\u3000お高いケーキでもねだられた？」"
 translation = "「응? 뭘 고민하고 있어? 비싼 케이크라도 사달라고 졸랐어?」"
 
 [[dialogue]]
-speaker = "アイリーン"
+speaker_original = "アイリーン"
+speaker_translation = "아이린"
 original = "「カップル限定のお店に行ってみたいの！\u3000カップルって男の人と女の人のことでしょ？\u3000だから会長さんにお願いっ」"
 translation = "「커플 한정 가게에 가보고 싶어! 커플이란 건 남자랑 여자를 말하는 거지? 그러니까 회장님한테 부탁하는 거야.」"
 
 [[dialogue]]
-speaker = "マトイ"
+speaker_original = "マトイ"
+speaker_translation = "마토이"
 original = "「あ～……なるほど。まぁいいんじゃない、妹みたいなものだと思えば」"
 translation = "「아~…… 과연. 뭐 괜찮지 않아, 여동생 같은 거라고 생각하면.」"
 
 [[dialogue]]
-speaker = "アイリーン"
+speaker_original = "アイリーン"
+speaker_translation = "아이린"
 original = "「むっ、私はれっきとしたレディだよ？\u3000魔女は長生きなんだから」"
 translation = "「무윽, 나는 어엿한 레이디라구? 마녀는 오래 사니까.」"
 
 [[dialogue]]
-speaker = "マトイ"
+speaker_original = "マトイ"
+speaker_translation = "마토이"
 original = "「えっ、もしかして私たちよりずっと年上！？」"
 translation = "「엣, 설마 우리보다 훨씬 연상!?」"
 
 [[dialogue]]
-speaker = "アイリーン"
+speaker_original = "アイリーン"
+speaker_translation = "아이린"
 original = "「ううん、私はまだ成長止まってないし、お姉さんたちより年下だよ」"
 translation = "「으응, 나는 아직 성장이 멈추지 않았고, 언니들보다 연하야.」"
 
 [[dialogue]]
-speaker = "マトイ"
+speaker_original = "マトイ"
+speaker_translation = "마토이"
 original = "「なんだ、結局年下なんじゃない……」"
 translation = "「뭐야, 결국 연하잖아……」"
 
 [[dialogue]]
-speaker = "アイリーン"
+speaker_original = "アイリーン"
+speaker_translation = "아이린"
 original = "「私ね、行きたいところたくさんあるんだ～。カラオケに、映画館に、遊園地に～……あっ、動物園も行ってみたいな」"
 translation = "「나 말이야, 가고 싶은 곳이 잔뜩 있어~. 노래방에, 영화관에, 놀이공원에~…… 앗, 동물원도 가보고 싶다.」"
 
 [[dialogue]]
-speaker = "アイリーン"
+speaker_original = "アイリーン"
+speaker_translation = "아이린"
 original = "「ネビュラの人はこっちの世界のこと調べてるのに、全然教えてくれなくてね」"
 translation = "「네뷸라 사람들은 이쪽 세계에 대해 조사하고 있으면서, 전혀 가르쳐주질 않아서 말이야.」"
 
 [[dialogue]]
-speaker = "アイリーン"
+speaker_original = "アイリーン"
+speaker_translation = "아이린"
 original = "「こっちの世界に来たくて、頑張ってセドナさんを説得してネビュラに入ったんだから」"
 translation = "「이쪽 세계에 오고 싶어서, 열심히 세드나 씨를 설득해서 네뷸라에 들어온 거니까.」"
 
 [[dialogue]]
-speaker = "アイリーン"
+speaker_original = "アイリーン"
+speaker_translation = "아이린"
 original = "「だからお願い！\u3000カップル限定のお店に連れてって！」"
 translation = "「그러니까 부탁이야! 커플 한정 가게에 데려가 줘!」"
 
@@ -69,47 +81,56 @@ original = "じゃあこれから行く？"
 translation = "그럼 지금 갈까?"
 
 [[dialogue]]
-speaker = "アイリーン"
+speaker_original = "アイリーン"
+speaker_translation = "아이린"
 original = "「やった、ありがと～！\u3000会長さん好き！」"
 translation = "「앗싸, 고마워~! 회장님 좋아!」"
 
 [[dialogue]]
-speaker = "マトイ"
+speaker_original = "マトイ"
+speaker_translation = "마토이"
 original = "「もう、そんな軽く好きって言っちゃダメなんだから」"
 translation = "「정말이지, 그렇게 가볍게 좋아한다고 말하면 안 된다니까.」"
 
 [[dialogue]]
-speaker = "アイリーン"
+speaker_original = "アイリーン"
+speaker_translation = "아이린"
 original = "「なんで～？\u3000気持ちはちゃんと言った方がいいってお母さん言ってたよ？」"
 translation = "「왜~? 마음은 확실히 말하는 게 좋다고 엄마가 그랬어.」"
 
 [[dialogue]]
-speaker = "マトイ"
+speaker_original = "マトイ"
+speaker_translation = "마토이"
 original = "「うーん……やっぱり無邪気妹キャラでは……？」"
 translation = "「으음…… 역시 천진난만한 여동생 캐릭터인가……?」"
 
 [[dialogue]]
-speaker = "アイリーン"
+speaker_original = "アイリーン"
+speaker_translation = "아이린"
 original = "「えへへ～っ♪\u3000早くお店行こ、会長さん！」"
 translation = "「에헤헤~♪ 빨리 가게 가자, 회장님!」"
 
 [[dialogue]]
-speaker = "アイリーン"
+speaker_original = "アイリーン"
+speaker_translation = "아이린"
 original = "「！\u3000も～、邪魔しないでよね」"
 translation = "「! 정말~, 방해하지 말라구.」"
 
 [[dialogue]]
-speaker = "アイリーン"
+speaker_original = "アイリーン"
+speaker_translation = "아이린"
 original = "「ミーちゃん、偵察よろしく！」"
 translation = "「미짱, 정찰 부탁해!」"
 
 [[dialogue]]
-speaker = "ミネルバ"
+speaker_original = "ミネルバ"
+speaker_translation = "미네르바"
 original = "「ホーホー！」"
 translation = "「호호!」"
 
 [[dialogue]]
-speaker = "アイリーン"
+speaker_original = "アイリーン"
+speaker_translation = "아이린"
 original = "「モンスターの配置は……ふむふむ……そういう感じかー」"
 translation = "「몬스터 배치는…… 흠흠…… 그런 느낌인가─」"
 
@@ -119,62 +140,74 @@ original = "何してるんだ？"
 translation = "뭐 하고 있는 거야?"
 
 [[dialogue]]
-speaker = "アイリーン"
+speaker_original = "アイリーン"
+speaker_translation = "아이린"
 original = "「私とミーちゃんは感覚を共有できるの。ミーちゃんに周りを飛んでもらって、モンスターの数と位置を把握してるんだ」"
 translation = "「나랑 미짱은 감각을 공유할 수 있어. 미짱이 주변을 날아다니게 해서, 몬스터의 수와 위치를 파악하고 있는 거야.」"
 
 [[dialogue]]
-speaker = "アイリーン"
+speaker_original = "アイリーン"
+speaker_translation = "아이린"
 original = "「オッケー、作戦できた！\u3000会長さんはモンスターにちょっかいかけて、注意を引いたら大通りまで戻ってきて」"
 translation = "「오케이, 작전 완료! 회장님은 몬스터한테 시비를 걸어서, 주의를 끌면 큰길까지 돌아와 줘.」"
 
 [[dialogue]]
-speaker = "少女"
+speaker_original = "少女"
+speaker_translation = "소녀"
 original = "「きゃあああっ！？」"
 translation = "「꺄아아악!?」"
 
 [[dialogue]]
-speaker = "アイリーン"
+speaker_original = "アイリーン"
+speaker_translation = "아이린"
 original = "「ミーちゃん！」"
 translation = "「미짱!」"
 
 [[dialogue]]
-speaker = "少女"
+speaker_original = "少女"
+speaker_translation = "소녀"
 original = "「あれ、私飛んでる……？\u3000えっ、フクロウ！？\u3000フクロウに助けられた！？」"
 translation = "「어라, 나 날고 있어……? 엣, 부엉이!? 부엉이가 구해준 거야!?」"
 
 [[dialogue]]
-speaker = "アイリーン"
+speaker_original = "アイリーン"
+speaker_translation = "아이린"
 original = "「ミーちゃんに感謝してね、そこのお姉さんっ」"
 translation = "「미짱한테 감사하라구, 거기 언니.」"
 
 [[dialogue]]
-speaker = "少女"
+speaker_original = "少女"
+speaker_translation = "소녀"
 original = "「あっ、はいっ、ありがとうございますっ。……あの子、星騎士なの……？」"
 translation = "「앗, 네, 감사합니다. ……저 아이, 별의 기사야……?」"
 
 [[dialogue]]
-speaker = "アイリーン"
+speaker_original = "アイリーン"
+speaker_translation = "아이린"
 original = "「うんうん、会長さんのおかげでいい感じに集まってきたかな。それじゃ私とミーちゃんで挟み撃ち！」"
 translation = "「응응, 회장님 덕분에 기분 좋게 모여든 것 같네. 그럼 나랑 미짱이 협공!」"
 
 [[dialogue]]
-speaker = "ミネルバ"
+speaker_original = "ミネルバ"
+speaker_translation = "미네르바"
 original = "「ホホー！」"
 translation = "「호호!」"
 
 [[dialogue]]
-speaker = "アイリーン"
+speaker_original = "アイリーン"
+speaker_translation = "아이린"
 original = "「お母さん直伝！\u3000――スマートボルテックス！」"
 translation = "「엄마 직전! ──스마트 볼텍스!」"
 
 [[dialogue]]
-speaker = "アイリーン"
+speaker_original = "アイリーン"
+speaker_translation = "아이린"
 original = "「はい、一網打尽。あんまり戦うなって言われてるから、会長さんがやったってことにしといてね」"
 translation = "「자, 일망타진. 너무 싸우지 말라는 소리를 들어서, 회장님이 한 걸로 해둬야 해.」"
 
 [[dialogue]]
-speaker = "アイリーン"
+speaker_original = "アイリーン"
+speaker_translation = "아이린"
 original = "「お疲れさま、ミーちゃん。会長さんもありがと」"
 translation = "「수고했어, 미짱. 회장님도 고마워.」"
 
@@ -184,7 +217,8 @@ original = "お母さんは今どうしてるんだ？"
 translation = "어머니는 지금 어떻게 지내셔?"
 
 [[dialogue]]
-speaker = "アイリーン"
+speaker_original = "アイリーン"
+speaker_translation = "아이린"
 original = "「死んじゃった」"
 translation = "「죽었어.」"
 
@@ -194,22 +228,26 @@ original = "──！"
 translation = "──!"
 
 [[dialogue]]
-speaker = "アイリーン"
+speaker_original = "アイリーン"
+speaker_translation = "아이린"
 original = "「流星市国から離れた場所でモンスターが現れてね、星騎士が間に合わなかったから、たまたま居合わせたお母さんが戦ったの」"
 translation = "「유성시국에서 떨어진 곳에서 몬스터가 나타났는데, 별의 기사가 늦어서 우연히 그 자리에 있던 엄마가 싸웠어.」"
 
 [[dialogue]]
-speaker = "アイリーン"
+speaker_original = "アイリーン"
+speaker_translation = "아이린"
 original = "「ミーちゃんのお母さんもその時にやられちゃった」"
 translation = "「미짱의 엄마도 그때 당해버렸어.」"
 
 [[dialogue]]
-speaker = "アイリーン"
+speaker_original = "アイリーン"
+speaker_translation = "아이린"
 original = "「？\u3000なんで会長さんが悲しそうな顔してるの？\u3000聞かれたから答えただけだよ」"
 translation = "「? 왜 회장님이 슬픈 표정을 짓는 거야? 물어보길래 대답했을 뿐이야.」"
 
 [[dialogue]]
-speaker = "アイリーン"
+speaker_original = "アイリーン"
+speaker_translation = "아이린"
 original = "「さ、早くお店いこっ。カップル限定パフェ食べるんだ～。ちゃんとあーんして食べさせてくれないとダメなんだからね、会長さんっ」"
 translation = "「자, 빨리 가게 가자. 커플 한정 파페 먹을 거야~. 제대로 아~ 해서 먹여주지 않으면 안 되니까 말이야, 회장님.」"
 
@@ -219,7 +257,8 @@ original = "あーん！？"
 translation = "아~!?"
 
 [[dialogue]]
-speaker = "アイリーン"
+speaker_original = "アイリーン"
+speaker_translation = "아이린"
 original = "「あれ、なんで驚いてるの？\u3000言ってなかったけ？\u3000でも私もあーんしてあげるビョードーだねっ♪」"
 translation = "「어라, 왜 놀라는 거야? 말 안 했었나? 하지만 나도 아~ 해줄 테니까 평등하네♪」"
 

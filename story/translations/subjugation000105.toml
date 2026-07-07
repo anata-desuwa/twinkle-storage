@@ -1,10 +1,12 @@
 [[dialogue]]
-speaker = "マグダレナ"
+speaker_original = "マグダレナ"
+speaker_translation = "막달레나"
 original = "「思っていた以上にうまく行きませんね……」"
 translation = "「생각했던 것 이상으로 잘 풀리지 않네요……」"
 
 [[dialogue]]
-speaker = "アルモタヘル"
+speaker_original = "アルモタヘル"
+speaker_translation = "아르모타헬"
 original = "「然り。見ているのと実際にやってみるのは違うものなのだな……」"
 translation = "「그렇다. 보는 것과 실제로 해보는 것은 다른 것이로군……」"
 
@@ -14,52 +16,62 @@ original = "誰でも最初はうまくいかないものです"
 translation = "누구나 처음에는 잘 안 되는 법이에요."
 
 [[dialogue]]
-speaker = "マグダレナ"
+speaker_original = "マグダレナ"
+speaker_translation = "막달레나"
 original = "「会長さま……」"
 translation = "「회장님……」"
 
 [[dialogue]]
-speaker = "マグダレナ"
+speaker_original = "マグダレナ"
+speaker_translation = "막달레나"
 original = "「そうですね。悠久の時を生きてきた守護天使として、一度の失敗で落ち込んでいるわけにはいきません」"
 translation = "「그렇네요. 유구한 시간을 살아온 수호천사로서, 단 한 번의 실패로 낙담하고 있을 수는 없습니다.」"
 
 [[dialogue]]
-speaker = "アルモタヘル"
+speaker_original = "アルモタヘル"
+speaker_translation = "아르모타헬"
 original = "「うむ。失敗を糧にしてこそ成長はあるのだ」"
 translation = "「음. 실패를 거름 삼아야 성장이 있는 법이지.」"
 
 [[dialogue]]
-speaker = "コハルコ"
+speaker_original = "コハルコ"
+speaker_translation = "쿠하루코"
 original = "「それじゃあ、明日はまた別の仕事をしてもらいますね」"
 translation = "「그러면, 내일은 또 다른 일을 맡겨 드릴게요.」"
 
 [[dialogue]]
-speaker = "アルモタヘル"
+speaker_original = "アルモタヘル"
+speaker_translation = "아르모타헬"
 original = "「どのような仕事だ？\u3000自分で言うのもなんだが、我らにはあまり高度な仕事は期待できんぞ」"
 translation = "「어떤 일이지? 내 입으로 말하기는 좀 그렇지만, 우리에게 그리 고도의 업무는 기대할 수 없을 거다.」"
 
 [[dialogue]]
-speaker = "コハルコ"
+speaker_original = "コハルコ"
+speaker_translation = "쿠하루코"
 original = "「そんなに難しいお仕事ではないので、きっと大丈夫かと」"
 translation = "「그렇게 어려운 일은 아니니까, 분명 괜찮을 거예요.」"
 
 [[dialogue]]
-speaker = "コハルコ"
+speaker_original = "コハルコ"
+speaker_translation = "쿠하루코"
 original = "「よかったらティッシュどうぞ。アキバフェスタ、よろしくお願いしまーす」"
 translation = "「괜찮으시면 티슈 받으세요. 아키바 페스타, 잘 부탁드립니─다.」"
 
 [[dialogue]]
-speaker = "マグダレナ"
+speaker_original = "マグダレナ"
+speaker_translation = "막달레나"
 original = "「よろしくお願いいたします」"
 translation = "「잘 부탁드립니다.」"
 
 [[dialogue]]
-speaker = "コハルコ"
+speaker_original = "コハルコ"
+speaker_translation = "쿠하루코"
 original = "「守護天使がティッシュ配りって、教皇庁の人が見たら卒倒しそうだね。仕事持ってきたのは私だけど」"
 translation = "「수호천사가 티슈 돌리기라니, 교황청 사람이 보면 졸도하겠네. 일을 가져온 건 나지만.」"
 
 [[dialogue]]
-speaker = "コハルコ"
+speaker_original = "コハルコ"
+speaker_translation = "쿠하루코"
 original = "「フィオナさんに見られたのは……なかったことになったから大丈夫ということで。怒られたくないから教皇庁には黙っててね、会長さん」"
 translation = "「피오나 씨에게 들킨 건…… 없었던 일이 되었으니까 괜찮은 걸로 하고요. 혼나고 싶지 않으니까 교황청에는 비밀로 해줘요, 회장님.」"
 
@@ -69,77 +81,92 @@ original = "コハルコさんまでティッシュ配らなくても……"
 translation = "코하루코 씨까지 티슈를 안 돌려도 되는데……"
 
 [[dialogue]]
-speaker = "コハルコ"
+speaker_original = "コハルコ"
+speaker_translation = "쿠하루코"
 original = "「それはそうなんだけど、乗りかかった船だからね。守護天使さんが働きたいって真剣に言ってるんだから手助けしてあげたいし」"
 translation = "「그렇긴 한데, 이왕 시작한 일이니까요. 수호천사님이 일하고 싶다고 진심으로 말하고 있으니까 도와주고 싶기도 하고.」"
 
 [[dialogue]]
-speaker = "コハルコ"
+speaker_original = "コハルコ"
+speaker_translation = "쿠하루코"
 original = "「会長さんも手伝ってくれてありがとう。ティッシュ多いから助かるよ」"
 translation = "「회장님도 도와줘서 고마워요. 티슈가 많아서 큰 도움이 되네.」"
 
 [[dialogue]]
-speaker = "マグダレナ"
+speaker_original = "マグダレナ"
+speaker_translation = "막달레나"
 original = "「アキバフェスタ、よろしくお願いします」"
 translation = "「아키바 페스타, 잘 부탁드립니다.」"
 
 [[dialogue]]
-speaker = "学生"
+speaker_original = "学生"
+speaker_translation = "학생"
 original = "「あ、は、はい……」"
 translation = "「아, 네, 네……」"
 
 [[dialogue]]
-speaker = "コハルコ"
+speaker_original = "コハルコ"
+speaker_translation = "쿠하루코"
 original = "（マグダレナさんがセクシーすぎて男の人が戸惑ってるような……。ちょっと心配だけどティッシュ受け取ってもらってるから大丈夫かな？）"
 translation = "(마그달레나 씨가 너무 섹시해서 남자들이 당황하고 있는 것 같은데……. 조금 걱정되지만 티슈는 받아주니까 괜찮으려나?)"
 
 [[dialogue]]
-speaker = "アルモタヘル"
+speaker_original = "アルモタヘル"
+speaker_translation = "아르모타헬"
 original = "「ティッシュだ。何かと入用だろう。受け取れ」"
 translation = "「티슈다. 여러모로 쓸모가 있겠지. 받아라.」"
 
 [[dialogue]]
-speaker = "サラリーマン"
+speaker_original = "サラリーマン"
+speaker_translation = "샐러리맨"
 original = "「へ？」"
 translation = "「에?」"
 
 [[dialogue]]
-speaker = "アルモタヘル"
+speaker_original = "アルモタヘル"
+speaker_translation = "아르모타헬"
 original = "「どうした。お前はティッシュを使わないのか？」"
 translation = "「왜 그러지. 너는 티슈를 쓰지 않는 건가?」"
 
 [[dialogue]]
-speaker = "サラリーマン"
+speaker_original = "サラリーマン"
+speaker_translation = "샐러리맨"
 original = "「いや、あの、使いますけど……ご、ごめんなさい！」"
 translation = "「아니, 저기, 쓰긴 합니다만…… 죄, 죄송합니다!」"
 
 [[dialogue]]
-speaker = "アルモタヘル"
+speaker_original = "アルモタヘル"
+speaker_translation = "아르모타헬"
 original = "「おい、なぜ謝る！？\u3000逃げるな──むぅ、行ってしまったか」"
 translation = "「이봐, 왜 사과하는 거냐!? 도망치지 마── 흠, 가버렸나.」"
 
 [[dialogue]]
-speaker = "アルモタヘル"
+speaker_original = "アルモタヘル"
+speaker_translation = "아르모타헬"
 original = "「なぜだ……？\u3000我のティッシュはなぜ誰も受け取ってくれない？」"
 translation = "「어째서지……? 와가의 티슈는 왜 아무도 받아주지 않는 거냐?」"
 
 [[dialogue]]
-speaker = "マグダレナ"
+speaker_original = "マグダレナ"
+speaker_translation = "막달레나"
 original = "「アルモタヘルは怖がられているのです。もっと穏やかに、微笑みで接するように心掛けなさい」"
 translation = "「아르모타헬은 겁을 주고 있어요. 좀 더 온화하게, 미소로 대하도록 마음가짐을 가지세요.」"
 
 [[dialogue]]
-speaker = "アルモタヘル"
+speaker_original = "アルモタヘル"
+speaker_translation = "아르모타헬"
 original = "「微笑み……微笑みか……」"
 translation = "「미소…… 미소인가……」"
 
 [[dialogue]]
-speaker = "アルモタヘル"
+speaker_original = "アルモタヘル"
+speaker_translation = "아르모타헬"
 original = "「どうだ、我は笑えているか……？」"
 translation = "「어떠냐, 와가는 웃고 있는 건가……?」"
 
 [[dialogue]]
-speaker = "コハルコ"
+speaker_original = "コハルコ"
+speaker_translation = "쿠하루코"
 original = "「えーっと……」"
 translation = "「에─ 그러니까……」"
 
@@ -149,22 +176,26 @@ original = "ぎこちないです……"
 translation = "어색해요……"
 
 [[dialogue]]
-speaker = "アルモタヘル"
+speaker_original = "アルモタヘル"
+speaker_translation = "아르모타헬"
 original = "「くっ……笑うことさえままならんとは難儀な……」"
 translation = "「큭…… 웃는 것조차 마음대로 안 되다니 난처하군……」"
 
 [[dialogue]]
-speaker = "マグダレナ"
+speaker_original = "マグダレナ"
+speaker_translation = "막달레나"
 original = "「アキバフェスタ、よろしくお願いしますー。ティッシュをどうぞー」"
 translation = "「아키바 페스타, 잘 부탁드립니다─. 티슈 받으세요─.」"
 
 [[dialogue]]
-speaker = "マグダレナ"
+speaker_original = "マグダレナ"
+speaker_translation = "막달레나"
 original = "「おや、そこのお方。お暗い顔をされていますが、何かあったのでしょうか」"
 translation = "「어머, 거기 계신 분. 표정이 어두우신데, 무슨 일이라도 있으신가요?」"
 
 [[dialogue]]
-speaker = "女性"
+speaker_original = "女性"
+speaker_translation = "여성"
 original = "「え？\u3000ええと……はい、息子が反抗期で……」"
 translation = "「네? 에 그러니까…… 네, 아들이 반항기라서……」"
 
@@ -174,42 +205,50 @@ original = "（人生相談始まっちゃった！？）"
 translation = "(인생 상담이 시작돼 버렸어!?)"
 
 [[dialogue]]
-speaker = "コハルコ"
+speaker_original = "コハルコ"
+speaker_translation = "쿠하루코"
 original = "（善意だけに止めづらい……！）"
 translation = "(선의로 하는 거라 말리기도 힘드네……!)"
 
 [[dialogue]]
-speaker = "マグダレナ"
+speaker_original = "マグダレナ"
+speaker_translation = "막달레나"
 original = "「大丈夫、息子さんが素直になれないだけで、あなたのお気持ちはきっと届いています。時間が解決してくれますよ」"
 translation = "「괜찮아요, 아드님이 솔직해지지 못할 뿐이지, 당신의 마음은 분명 전해지고 있어요. 시간이 해결해 줄 거예요.」"
 
 [[dialogue]]
-speaker = "女性"
+speaker_original = "女性"
+speaker_translation = "여성"
 original = "「はい……ありがとうございます」"
 translation = "「네…… 감사합니다.」"
 
 [[dialogue]]
-speaker = "マグダレナ"
+speaker_original = "マグダレナ"
+speaker_translation = "막달레나"
 original = "「他の方も悩みなどあればお聞かせください。生きとし生けるものは私の子のようなものなのですから」"
 translation = "「다른 분들도 고민 같은 게 있다면 들려주세요. 살아있는 모든 생명은 저의 아이와 같은 존재니까요.」"
 
 [[dialogue]]
-speaker = "チャラい男"
+speaker_original = "チャラい男"
+speaker_translation = "가벼운 남자"
 original = "「ねぇねぇ、金髪のおねーさん、今ヒマ？」"
 translation = "「저기 저기, 금발 누나, 지금 한가해?」"
 
 [[dialogue]]
-speaker = "マグダレナ"
+speaker_original = "マグダレナ"
+speaker_translation = "막달레나"
 original = "「いえ、お仕事があるので暇ではありませんが……」"
 translation = "「아뇨, 일이 있어서 한가하지는 않습니다만……」"
 
 [[dialogue]]
-speaker = "チャラい男"
+speaker_original = "チャラい男"
+speaker_translation = "가벼운 남자"
 original = "「実はオレ困っててさ、助けてほしいんだよねー。ちょっとこっち来てくんない？」"
 translation = "「실은 내가 좀 곤란한 일이 있어서 말이야, 도와줬으면 좋겠거든─. 잠깐 이쪽으로 와볼래?」"
 
 [[dialogue]]
-speaker = "マグダレナ"
+speaker_original = "マグダレナ"
+speaker_translation = "막달레나"
 original = "「そうでしたか。でしたら力をお貸しするのはやぶさかではありません」"
 translation = "「그러셨군요. 그렇다면 힘을 빌려드리는 것을 마다하지 않겠습니다.」"
 
@@ -219,42 +258,50 @@ original = "ついていっちゃダメーッ！？"
 translation = "따라가면 안 돼─!? "
 
 [[dialogue]]
-speaker = "アルモタヘル"
+speaker_original = "アルモタヘル"
+speaker_translation = "아르모타헬"
 original = "「おい、そこの男。我の同胞に何か用か？」"
 translation = "「이봐, 거기 남자. 와가의 동포에게 무슨 용건이지?」"
 
 [[dialogue]]
-speaker = "チャラい男"
+speaker_original = "チャラい男"
+speaker_translation = "가벼운 남자"
 original = "「うわ、怖いねーちゃん来た。こんなのほっといて、オレと楽しいことしようよおねーさん」"
 translation = "「우와, 무서운 누님 등장했네. 이런 건 내버려 두고, 나랑 즐거운 거 하자 누나.」"
 
 [[dialogue]]
-speaker = "アルモタヘル"
+speaker_original = "アルモタヘル"
+speaker_translation = "아르모타헬"
 original = "「聞く耳持たずか。なら多くは言わん。……失せろ」"
 translation = "「들을 귀가 없나 보군. 그렇다면 길게 말하지 않겠다. ……꺼져라.」"
 
 [[dialogue]]
-speaker = "チャラい男"
+speaker_original = "チャラい男"
+speaker_translation = "가벼운 남자"
 original = "「ヒィーーーッ！？」"
 translation = "「히이이익!?」"
 
 [[dialogue]]
-speaker = "マグダレナ"
+speaker_original = "マグダレナ"
+speaker_translation = "막달레나"
 original = "「何をするのです、アルモタヘル。あの方は私に助力を求めていたのですよ」"
 translation = "「무엇을 하는 건가요, 아르모타헬. 저분은 제게 도움을 청하고 있었단 말이에요.」"
 
 [[dialogue]]
-speaker = "アルモタヘル"
+speaker_original = "アルモタヘル"
+speaker_translation = "아르모타헬"
 original = "「騙されているぞ、マグダレナ。やつのどこが助けを欲しているように見えるのだ」"
 translation = "「속고 있는 거다, 마그달레나. 저 녀석의 어디가 도움을 원하는 것처럼 보인단 말이냐.」"
 
 [[dialogue]]
-speaker = "マグダレナ"
+speaker_original = "マグダレナ"
+speaker_translation = "막달레나"
 original = "「え？\u3000そうだったのですか？」"
 translation = "「네? 그랬던 건가요?」"
 
 [[dialogue]]
-speaker = "コハルコ"
+speaker_original = "コハルコ"
+speaker_translation = "쿠하루코"
 original = "「あはは……」"
 translation = "「아하하……」"
 

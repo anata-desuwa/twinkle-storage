@@ -19,22 +19,26 @@ original = "今……なんて？"
 translation = "지금…… 뭐라고? "
 
 [[dialogue]]
-speaker = "シャルレーヌ"
+speaker_original = "シャルレーヌ"
+speaker_translation = "샤를렌"
 original = "「もぉ、会長さんってば。しっかり聞いてくれないと困ってしまいます♪」"
 translation = "「정말, 회장군도 참. 똑바로 들어주지 않으면 곤란해요~♪」"
 
 [[dialogue]]
-speaker = "シャルレーヌ"
+speaker_original = "シャルレーヌ"
+speaker_translation = "샤를렌"
 original = "「私と会長さんって～、魔王と関わりが深いっていう共通点があるじゃないですか？」"
 translation = "「저와 회장군은~ 마왕과 관련이 깊다는 공통점이 있잖아요?」"
 
 [[dialogue]]
-speaker = "シャルレーヌ"
+speaker_original = "シャルレーヌ"
+speaker_translation = "샤를렌"
 original = "「機会があれば色々とおしゃべりしたいな～って思っていたんです。積もる話もあると思いますので、今夜、私の部屋に来ませんか？」"
 translation = "「기회가 되면 여러 가지로 수다 떨고 싶다~고 생각했거든요. 쌓인 이야기도 많을 테니 오늘 밤 제 방으로 오지 않을래요?」"
 
 [[dialogue]]
-speaker = "シャルレーヌ"
+speaker_original = "シャルレーヌ"
+speaker_translation = "샤를렌"
 original = "「他に誰もいないので、二人きりでゆ～っくりお話ができますよ<emoji=heart04>」"
 translation = "「다른 사람은 아무도 없으니까 둘이서 느~긋하게 이야기할 수 있어요<emoji=heart04>」"
 
@@ -44,27 +48,32 @@ original = "な、何かあったらどうするんだ……！"
 translation = "무, 무슨 일이라도 생기면 어쩌려고……! "
 
 [[dialogue]]
-speaker = "シャルレーヌ"
+speaker_original = "シャルレーヌ"
+speaker_translation = "샤를렌"
 original = "「え～っ？\u3000会長さぁん、『何か』ってー……いったい何のことですかぁ？」"
 translation = "「에~? 회장구운, 『무슨 일』이라니ー…… 대체 무슨 말씀이세요~?」"
 
 [[dialogue]]
-speaker = "シャルレーヌ"
+speaker_original = "シャルレーヌ"
+speaker_translation = "샤를렌"
 original = "「魔王の話はみだりにするものじゃないから、落ち着ける場所で話したいって言っただけなのに」"
 translation = "「마왕 이야기는 함부로 하는 게 아니니까 진정할 수 있는 장소에서 하고 싶다고 말했을 뿐인데」"
 
 [[dialogue]]
-speaker = "シャルレーヌ"
+speaker_original = "シャルレーヌ"
+speaker_translation = "샤를렌"
 original = "「くふ♪\u3000もしかして～……シャルレーヌみたいなちっちゃな女の子のこと、意識しちゃってたりするんですか？」"
 translation = "「쿠후♪ 혹시~…… 샤를렌 같은 조그만 여자아이를 의식해버린 건가요?」"
 
 [[dialogue]]
-speaker = "シャルレーヌ"
+speaker_original = "シャルレーヌ"
+speaker_translation = "샤를렌"
 original = "「……う～ん、そんなわけない！\u3000って顔してるけど～……ほんとかなぁ？」"
 translation = "「……으음, 그럴 리 없어! 라는 얼굴을 하고 있지만~…… 정말일까나?」"
 
 [[dialogue]]
-speaker = "シャルレーヌ"
+speaker_original = "シャルレーヌ"
+speaker_translation = "샤를렌"
 original = "「スカートの裾ぉ……ぴらっ♪」"
 translation = "「치맛자락을…… 팔랑♪」"
 
@@ -74,32 +83,38 @@ original = "！？！？！？"
 translation = "!?!? "
 
 [[dialogue]]
-speaker = "シャルレーヌ"
+speaker_original = "シャルレーヌ"
+speaker_translation = "샤를렌"
 original = "「くふっ♪\u3000くふふふふっ♪\u3000真っ赤になってる～♪」"
 translation = "「쿠후♪ 쿠후후후훗♪ 얼굴이 새빨개졌어~♪」"
 
 [[dialogue]]
-speaker = "シャルレーヌ"
+speaker_original = "シャルレーヌ"
+speaker_translation = "샤를렌"
 original = "「会長さんのスケベ♪\u3000へーんたい♪」"
 translation = "「회장군은 변태♪ 에~로♪」"
 
 [[dialogue]]
-speaker = "シャルレーヌ"
+speaker_original = "シャルレーヌ"
+speaker_translation = "샤를렌"
 original = "「そっか、そっかぁ。だから、お泊まりを断ったんだぁ。こわ～い♪」"
 translation = "「그렇구나, 그렇구나아. 그래서 자고 가는 걸 거절했구나. 무서워라~♪」"
 
 [[dialogue]]
-speaker = "シャルレーヌ"
+speaker_original = "シャルレーヌ"
+speaker_translation = "샤를렌"
 original = "「今さら言い訳しても遅いですよ♪\u3000ちょっとスカートの裾を持ち上げただけで、すっごい反応しちゃったのは事実なんですから♪」"
 translation = "「이제 와서 변명해도 늦었어요♪ 살짝 치맛자락을 들어 올린 것만으로 엄청나게 반응해버린 건 사실이니까요♪」"
 
 [[dialogue]]
-speaker = "シャルレーヌ"
+speaker_original = "シャルレーヌ"
+speaker_translation = "샤를렌"
 original = "「うーん。ここまでえっちな人なら、いっそのことペット扱いしてあげた方がいいのかも」"
 translation = "「으음. 이 정도로 야한 사람이라면 차라리 펫 취급해주는 게 나을지도」"
 
 [[dialogue]]
-speaker = "シャルレーヌ"
+speaker_original = "シャルレーヌ"
+speaker_translation = "샤를렌"
 original = "「会長さんが欲望に抗えなくなって暴走しないようにー、私が躾けてあげますよ♪\u3000どうですか？」"
 translation = "「회장군이 욕망을 이기지 못하고 폭주하지 않도록ー 제가 길들여 줄게요♪ 어때요?」"
 
@@ -109,117 +124,140 @@ original = "出会った時とずいぶん印象が違うなぁ……"
 translation = "처음 만났을 때랑 인상이 상당히 다르네……"
 
 [[dialogue]]
-speaker = "シャルレーヌ"
+speaker_original = "シャルレーヌ"
+speaker_translation = "샤를렌"
 original = "「貴族の令嬢なんてこんなものですよ？\u3000隠し事や演技がいっぱいです」"
 translation = "「귀족 영애란 원래 이런 법이에요? 숨기는 일이나 연기가 가득하답니다」"
 
 [[dialogue]]
-speaker = "シャルレーヌ"
+speaker_original = "シャルレーヌ"
+speaker_translation = "샤를렌"
 original = "「それこそ魔王とは何の関係もないのに、家名に箔を付けるために『魔王の血族』って名乗ってるくらいですし……」"
 translation = "「애초에 마왕과는 아무 상관도 없는데 가문의 권위를 세우려고 『마왕의 혈족』이라 자칭하고 있을 정도니까요……」"
 
 [[dialogue]]
-speaker = "シャルレーヌ"
+speaker_original = "シャルレーヌ"
+speaker_translation = "샤를렌"
 original = "「あ、このことは他言無用でお願いしますね」"
 translation = "「아, 이 일은 비밀로 부탁드려요」"
 
 [[dialogue]]
-speaker = "シャルレーヌ"
+speaker_original = "シャルレーヌ"
+speaker_translation = "샤를렌"
 original = "「悪名は無名に勝る、と言うでしょう？\u3000貴族に必要なのは権威とブランディング。これは人も魔族も変わりません」"
 translation = "「악명은 무명보다 낫다, 라고 하잖아요? 귀족에게 필요한 건 권위와 브랜딩. 이건 인간이나 마족이나 마찬가지예요」"
 
 [[dialogue]]
-speaker = "シャルレーヌ"
+speaker_original = "シャルレーヌ"
+speaker_translation = "샤를렌"
 original = "「先祖が魔王なんだ、スゴい一族なんだぞ～って言って活動してきたのが我がディアーブル家なんです」"
 translation = "「선조가 마왕이다, 대단한 일족이다~라고 말하며 활동해온 것이 저희 디아블 가문이랍니다」"
 
 [[dialogue]]
-speaker = "シャルレーヌ"
+speaker_original = "シャルレーヌ"
+speaker_translation = "샤를렌"
 original = "「その家の娘が、本物の魔王と出会ってしまったら。これはもう手に入れないわけにはいかないでしょう？\u3000ほら、会長さん──」"
 translation = "「그 가문의 딸이 진짜 마왕과 만나버렸다면. 이건 이제 손에 넣지 않을 수가 없겠죠? 자, 회장군──」"
 
 [[dialogue]]
-speaker = "シャルレーヌ"
+speaker_original = "シャルレーヌ"
+speaker_translation = "샤를렌"
 original = "「……って、いけない、いけない。人が来ちゃった」"
 translation = "「……앗, 안 돼, 안 돼. 사람이 왔네」"
 
 [[dialogue]]
-speaker = "マトイ"
+speaker_original = "マトイ"
+speaker_translation = "마토이"
 original = "「あれ、そこにいるのって会長と……シャルレーヌちゃん？\u3000珍しい組み合わせだね～」"
 translation = "「어라, 거기 있는 건 회장이랑…… 샤를렌 짱? 드문 조합이네~」"
 
 [[dialogue]]
-speaker = "シャルレーヌ"
+speaker_original = "シャルレーヌ"
+speaker_translation = "샤를렌"
 original = "「マトイ先輩。こんにちは。お久しぶりです」"
 translation = "「마토이 선배. 안녕하세요. 오랜만이에요」"
 
 [[dialogue]]
-speaker = "マトイ"
+speaker_original = "マトイ"
+speaker_translation = "마토이"
 original = "「うん、久しぶり！\u3000何のお話をしてたの？」"
 translation = "「응, 오랜만! 무슨 이야기 하고 있었어?」"
 
 [[dialogue]]
-speaker = "シャルレーヌ"
+speaker_original = "シャルレーヌ"
+speaker_translation = "샤를렌"
 original = "「現代の魔王だという会長さんに興味があったんです。お恥ずかしいですが、好奇心が抑えきれなくって」"
 translation = "「현대의 마왕이라는 회장군에게 흥미가 있었어요. 부끄럽지만 호기심을 억누를 수가 없어서요」"
 
 [[dialogue]]
-speaker = "マトイ"
+speaker_original = "マトイ"
+speaker_translation = "마토이"
 original = "「あ～、そうだったんだぁ」"
 translation = "「아~ 그렇구나」"
 
 [[dialogue]]
-speaker = "マトイ"
+speaker_original = "マトイ"
+speaker_translation = "마토이"
 original = "「会長も仲良くしてあげてね。シャルレーヌちゃんって、す～っごく良い子なんだよ」"
 translation = "「회장도 사이좋게 지내줘. 샤를렌 짱은 정~말 착한 아이거든」"
 
 [[dialogue]]
-speaker = "シャルレーヌ"
+speaker_original = "シャルレーヌ"
+speaker_translation = "샤를렌"
 original = "「そんなことないですよ。私なんてまだまだ至らないところばかりです」"
 translation = "「그렇지 않아요. 전 아직 부족한 점투성이인걸요」"
 
 [[dialogue]]
-speaker = "マトイ"
+speaker_original = "マトイ"
+speaker_translation = "마토이"
 original = "「謙遜しなくてもいいじゃない。シャルレーヌちゃんが努力してるのはみんな知ってるんだから」"
 translation = "「겸손해하지 않아도 되잖아. 샤를렌 짱이 노력하고 있는 건 모두가 알고 있으니까」"
 
 [[dialogue]]
-speaker = "マトイ"
+speaker_original = "マトイ"
+speaker_translation = "마토이"
 original = "「優しくて、気配り上手で、すっごく偉いお家の生まれだけど全然いばった所もないし、附属の１年生なのにプリマステラにまでなってるし」"
 translation = "「상냥하고 배려심 깊고, 정말 대단한 집안 태생인데도 전혀 거들먹거리는 구석도 없고, 부속 1학년인데 프리마스텔라까지 됐고 말이야」"
 
 [[dialogue]]
-speaker = "シャルレーヌ"
+speaker_original = "シャルレーヌ"
+speaker_translation = "샤를렌"
 original = "「星徒会のマトイ先輩に評価していただけるだなんて、光栄です。今後も一層頑張りますね」"
 translation = "「성도회의 마토이 선배님께 평가받다니 영광이에요. 앞으로도 더욱 노력할게요」"
 
 [[dialogue]]
-speaker = "マトイ"
+speaker_original = "マトイ"
+speaker_translation = "마토이"
 original = "「私も負けてられないよね。お互い頑張ろ──って、あわわ！\u3000あんまり道草してちゃ駄目なんだった！\u3000それじゃあね、二人とも！」"
 translation = "「나도 질 수 없겠네. 서로 힘내자── 어라라! 너무 딴청 피우면 안 됐지! 그럼 나중에 봐, 둘 다!」"
 
 [[dialogue]]
-speaker = "シャルレーヌ"
+speaker_original = "シャルレーヌ"
+speaker_translation = "샤를렌"
 original = "「はい、マトイ先輩。またの機会に」"
 translation = "「네, 마토이 선배. 다음에 봬요」"
 
 [[dialogue]]
-speaker = "シャルレーヌ"
+speaker_original = "シャルレーヌ"
+speaker_translation = "샤를렌"
 original = "「さぁ、会長さん、お返事がまだですよ？\u3000私のペットになりましょう？」"
 translation = "「자, 회장군, 대답이 아직이에요? 제 펫이 되실래요?」"
 
 [[dialogue]]
-speaker = "シャルレーヌ"
+speaker_original = "シャルレーヌ"
+speaker_translation = "샤를렌"
 original = "「マトイ先輩のおっしゃっていた通り、私はと～っても優しくて気配り上手なんです♪」"
 translation = "「마토이 선배님이 말씀하신 대로 저는 아~주 상냥하고 배려심이 깊답니다♪」"
 
 [[dialogue]]
-speaker = "シャルレーヌ"
+speaker_original = "シャルレーヌ"
+speaker_translation = "샤를렌"
 original = "「特に配下や領民は、これでもかと甘やかすタイプで……」"
 translation = "「특히 부하나 영민은 아주 그냥 듬뿍 어리광을 받아주는 타입이라……」"
 
 [[dialogue]]
-speaker = "シャルレーヌ"
+speaker_original = "シャルレーヌ"
+speaker_translation = "샤를렌"
 original = "「私、おあずけをしたり、いぢめたりするのが得意なんです♪\u3000きっと会長さんは気に入ると思いますよ♪」"
 translation = "「저, 애태우거나 괴롭히는 걸 아주 잘하거든요♪ 분명 회장군도 마음에 들어 할 거예요♪」"
 
@@ -229,27 +267,32 @@ original = "だ、だ、誰が気に入るかっ……！！"
 translation = "누, 누, 누가 마음에 들어 한다고……!! "
 
 [[dialogue]]
-speaker = "シャルレーヌ"
+speaker_original = "シャルレーヌ"
+speaker_translation = "샤를렌"
 original = "「そう言いつつ、お耳まで真っ赤ですね。面白～い♪」"
 translation = "「그렇게 말하면서 귀까지 새빨갛네요. 재밌어라~♪」"
 
 [[dialogue]]
-speaker = "シャルレーヌ"
+speaker_original = "シャルレーヌ"
+speaker_translation = "샤를렌"
 original = "「会長さんってすっごく良い反応してくれるんですね。これはすぐに落としちゃうとツマラナイかも♪」"
 translation = "「회장군은 정말 좋은 반응을 보여주네요. 이건 금방 함락시켜버리면 재미없을지도♪」"
 
 [[dialogue]]
-speaker = "シャルレーヌ"
+speaker_original = "シャルレーヌ"
+speaker_translation = "샤를렌"
 original = "「──うん、決めた♪\u3000会長さんが自分からペットにしてくださいって言うまで、じ～っくり誘惑することにしよっと<emoji=heart04>」"
 translation = "「──응, 결정했다♪ 회장군이 스스로 펫으로 삼아달라고 말할 때까지 느~긋하게 유혹하기로 할래<emoji=heart04>」"
 
 [[dialogue]]
-speaker = "シャルレーヌ"
+speaker_original = "シャルレーヌ"
+speaker_translation = "샤를렌"
 original = "「どうせ私が勝っちゃうに決まってますしね」"
 translation = "「어차피 제가 이길 게 뻔하니까요」"
 
 [[dialogue]]
-speaker = "シャルレーヌ"
+speaker_original = "シャルレーヌ"
+speaker_translation = "샤를렌"
 original = "「明日もいっぱいからかってあげますから、期待しててください<emoji=heart04>」"
 translation = "「내일도 잔뜩 놀려줄 테니까 기대하고 있으세요<emoji=heart04>」"
 

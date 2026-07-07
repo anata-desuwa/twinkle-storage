@@ -4,77 +4,92 @@ original = "第２話,アイ・キャント・ミス・ユー,P"
 translation = "제2화, 아이 캔트 미스 유, P"
 
 [[dialogue]]
-speaker = "ユーリス"
+speaker_original = "ユーリス"
+speaker_translation = "유리스"
 original = "「ではショーダウンです。皆さん、役の公開を」"
 translation = "「그럼 쇼다운입니다. 여러분, 패를 공개해 주세요.」"
 
 [[dialogue]]
-speaker = "マトイ"
+speaker_original = "マトイ"
+speaker_translation = "마토이"
 original = "「ふっふー！\u3000私はフルハウス！」"
 translation = "「훗후~! 나는 풀하우스!」"
 
 [[dialogue]]
-speaker = "サーシャ"
+speaker_original = "サーシャ"
+speaker_translation = "사샤"
 original = "「あら強ーい。降りて正解だったわ～」"
 translation = "「어머 강해라~. 죽길 잘했네~」"
 
 [[dialogue]]
-speaker = "マトイ"
+speaker_original = "マトイ"
+speaker_translation = "마토이"
 original = "「会長はフラッシュ？\u3000えへへ、惜しかったね～。勝ったと思った？\u3000思っちゃった～？\u3000コノコノ～♪」"
 translation = "「회장은 플러시? 에헤헤, 아까웠네~. 이겼다고 생각했어? 생각했지~? 이 녀석~♪」"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「勝ち誇るにはまだ早いわよマトイ。私の手は──これよ！」"
 translation = "「기세등등하기엔 아직 일러, 마토이. 내 패는── 이거야!」"
 
 [[dialogue]]
-speaker = "マトイ"
+speaker_original = "マトイ"
+speaker_translation = "마토이"
 original = "「フォ、フォーカード……！？\u3000ガクっ……！」"
 translation = "「포, 포카드……!? 가학……!」"
 
 [[dialogue]]
-speaker = "アナ"
+speaker_original = "アナ"
+speaker_translation = "아나"
 original = "「やはりマトイ先輩は引き立て役が似合いますね」"
 translation = "「역시 마토이 선배는 조연이 어울리네요.」"
 
 [[dialogue]]
-speaker = "マトイ"
+speaker_original = "マトイ"
+speaker_translation = "마토이"
 original = "「そんなー！？」"
 translation = "「너무해──!?」"
 
 [[dialogue]]
-speaker = "ユーリス"
+speaker_original = "ユーリス"
+speaker_translation = "유리스"
 original = "「ふふ、相変わらず星徒会の方々は賑やかですね」"
 translation = "「후후, 여전히 성도회 분들은 떠들썩하네요.」"
 
 [[dialogue]]
-speaker = "マトイ"
+speaker_original = "マトイ"
+speaker_translation = "마토이"
 original = "「ごめんね、ユーリスくん。いきなり呼びつけちゃって。カジノで出た新種のモンスターの話をしてたら、いつの間にかポーカー大会が始まっちゃってさー」"
 translation = "「미안해, 유리스 군. 갑자기 불러내서. 카지노에서 나온 신종 몬스터 이야기를 하다 보니, 어느새 포커 대회가 시작되어 버려서 말이야~」"
 
 [[dialogue]]
-speaker = "ユーリス"
+speaker_original = "ユーリス"
+speaker_translation = "유리스"
 original = "「構いませんよ。実はまたカジノディーラーのバイトを頼まれていて。肩慣らしをしたいと思っていたところだったんです」"
 translation = "「상관없어요. 사실 또 카지노 딜러 아르바이트를 부탁받아서요. 손을 좀 풀고 싶다고 생각하던 참이었거든요.」"
 
 [[dialogue]]
-speaker = "サーシャ"
+speaker_original = "サーシャ"
+speaker_translation = "사샤"
 original = "「本当に華麗なカード捌きね～。思わず見とれちゃったわ～」"
 translation = "「정말 화려한 카드 솜씨네~. 나도 모르게 넋을 잃고 봤어~」"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「クロトとは大違いね。ユーリスが来るまでディーラーをしてもらってたけれど、カードが明後日の方向に飛んで行っちゃってゲームどころじゃなかったもの」"
 translation = "「쿠로토와는 딴판이네. 유리스가 오기 전까지 딜러를 시켰지만, 카드가 엉뚱한 방향으로 날아가 버려서 게임이 안 됐는걸.」"
 
 [[dialogue]]
-speaker = "サーシャ"
+speaker_original = "サーシャ"
+speaker_translation = "사샤"
 original = "「でも可愛いじゃない。ユーリスくんがまたカジノのバイトに入るって聞いて手伝いに行こうとしてるんでしょ？\u3000そのために最近はずっとカードを弄って特訓もして」"
 translation = "「하지만 귀엽지 않니. 유리스 군이 다시 카지노 알바에 들어간다는 말을 듣고 도와주러 가려고 하는 거지? 그걸 위해서 최근엔 계속 카드를 만지며 특훈도 하고.」"
 
 [[dialogue]]
-speaker = "ユーリス"
+speaker_original = "ユーリス"
+speaker_translation = "유리스"
 original = "「えっ？\u3000そ、そうなのかい、会長？」"
 translation = "「엣? 그, 그런 거야, 회장?」"
 
@@ -84,17 +99,20 @@ original = "サーシャさん、その話は……！"
 translation = "사샤 씨, 그 이야기는……!"
 
 [[dialogue]]
-speaker = "サーシャ"
+speaker_original = "サーシャ"
+speaker_translation = "사샤"
 original = "「あらごめんなさい、内緒だったかしら？」"
 translation = "「어머 미안해, 비밀이었나 보네?」"
 
 [[dialogue]]
-speaker = "ユーリス"
+speaker_original = "ユーリス"
+speaker_translation = "유리스"
 original = "「私のために影でそんなことを……。それならそうと一声かけてくれたら良かったのに……」"
 translation = "「나를 위해서 뒤에서 그런 일을……. 그렇다면 그렇다고 한마디 해줬으면 좋았을 텐데……」"
 
 [[dialogue]]
-speaker = "ユーリス"
+speaker_original = "ユーリス"
+speaker_translation = "유리스"
 original = "「特訓なら私も手伝うから……。手取り足取り教えてあげるよ……？\u3000ううん、教えさせて？」"
 translation = "「특훈이라면 나도 도와줄 테니까……. 하나하나 가르쳐 줄게……? 아니, 가르치게 해줘?」"
 
@@ -104,52 +122,62 @@ original = "ユーリス……"
 translation = "유리스……"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「ああ２人して見つめ合っちゃって……。特定の女生徒たちが見たら狂喜乱舞しちゃいそうな絵面ね……」"
 translation = "「아아, 둘이서 서로 마주 보고는……. 특정 여학생들이 보면 광희난무할 법한 구도네……」"
 
 [[dialogue]]
-speaker = "ユーリス"
+speaker_original = "ユーリス"
+speaker_translation = "유리스"
 original = "「っっ。べ、別に見つめ合っているわけでは。それでは次のゲームを──……わわっ、カードが！？」"
 translation = "「윽. 딱, 딱히 마주 보고 있는 건 아닙니다. 그럼 다음 게임을──…… 와앗, 카드가!?」"
 
 [[dialogue]]
-speaker = "アナ"
+speaker_original = "アナ"
+speaker_translation = "아나"
 original = "「今度はユーリス先輩もプレイヤーに入ってください。お疲れのようですし、私がディーラーをやりますよ」"
 translation = "「이번에는 유리스 선배도 플레이어로 들어오세요. 피곤하신 것 같으니, 제가 딜러를 할게요.」"
 
 [[dialogue]]
-speaker = "ユーリス"
+speaker_original = "ユーリス"
+speaker_translation = "유리스"
 original = "「あ、あはは。それじゃお言葉に甘えさせてもらいます。私も一度会長と勝負してみたいと思っていたし……ね？」"
 translation = "「아, 아하하. 그럼 호의를 받아들일게요. 저도 한 번 회장과 승부해 보고 싶다고 생각했었거든요…… 그치?」"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「くっ……！\u3000フォールドよ……！」"
 translation = "「큭……! 폴드야……!」"
 
 [[dialogue]]
-speaker = "マトイ"
+speaker_original = "マトイ"
+speaker_translation = "마토이"
 original = "「ついにヴィーナスも降りちゃったか～。これで事実上ユーリスくんと会長の一騎打ちだね～？\u3000持ち点も並んでるんだっけ？」"
 translation = "「드디어 비너스도 죽었네~. 이걸로 사실상 유리스 군과 회장의 일대일 승부네~? 점수도 비슷했었지?」"
 
 [[dialogue]]
-speaker = "アナ"
+speaker_original = "アナ"
+speaker_translation = "아나"
 original = "「ええ。さっきの３回戦で現会長が盛り返しましたから。全５回戦ということを考えると、ここでお互いリードを広げたいところでしょうね」"
 translation = "「네. 방금 3회전에서 현 회장이 만회했으니까요. 총 5회전이라는 걸 생각하면, 여기서 서로 리드를 벌리고 싶겠지요.」"
 
 [[dialogue]]
-speaker = "ユーリス"
+speaker_original = "ユーリス"
+speaker_translation = "유리스"
 original = "「ここで上限までベットだ、会長」"
 translation = "「여기서 상한선까지 베팅이다, 회장.」"
 
 [[dialogue]]
-speaker = "マトイ"
+speaker_original = "マトイ"
+speaker_translation = "마토이"
 original = "「お、ユーリスくん、強気～♪」"
 translation = "「오, 유리스 군, 강하게 나오는데~♪」"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「降りた方がいいんじゃない？\u3000私の見立てだと、彼の手、かなり強いわよ？\u3000この私が降ろされたんだもの」"
 translation = "「죽는 게 좋지 않겠어? 내 안목으로는, 쟤 패, 꽤 강하다고? 이 내가 죽었을 정도니까.」"
 
@@ -159,12 +187,14 @@ original = "それはどうかな"
 translation = "글쎄 어떨까"
 
 [[dialogue]]
-speaker = "ユーリス"
+speaker_original = "ユーリス"
+speaker_translation = "유리스"
 original = "「なんだい会長？\u3000ヴィーナスさんの言うとおり、大人しく降りた方がいい」"
 translation = "「왜 그래 회장? 비너스 씨 말대로, 얌전히 죽는 게 좋아.」"
 
 [[dialogue]]
-speaker = "ユーリス"
+speaker_original = "ユーリス"
+speaker_translation = "유리스"
 original = "「言っておくけど……私の手は相当強いよ？」"
 translation = "「말해두겠는데…… 내 패는 상당히 강하다고?」"
 
@@ -174,27 +204,32 @@ original = "やっぱりな。ここはレイズだ！"
 translation = "역시나군. 여기선 레이즈다!"
 
 [[dialogue]]
-speaker = "サーシャ"
+speaker_original = "サーシャ"
+speaker_translation = "사샤"
 original = "「あら男の子ね～？\u3000ユーリスくん、こんなに堂々としてるのに」"
 translation = "「어머 남자답네~? 유리스 군, 이렇게 당당한데.」"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「誰がどう見ても勝負手じゃない。アホじゃないの？」"
 translation = "「누가 봐도 이길 수 없는 패잖아. 바보 아니야?」"
 
 [[dialogue]]
-speaker = "マトイ"
+speaker_original = "マトイ"
+speaker_translation = "마토이"
 original = "「私も流石に無茶だと思うなー。フルハウス以上は絶対あるって」"
 translation = "「나도 역시 무리라고 생각해~. 풀하우스 이상은 무조건 있을걸.」"
 
 [[dialogue]]
-speaker = "アナ"
+speaker_original = "アナ"
+speaker_translation = "아나"
 original = "「私もフォールドしますね。負けが見えてます」"
 translation = "「저도 폴드할게요. 패배가 보이네요.」"
 
 [[dialogue]]
-speaker = "ユーリス"
+speaker_original = "ユーリス"
+speaker_translation = "유리스"
 original = "「……ふふ、会長には敵わないな。本当に私のことを良く見てくれてる。他の人にはわからない私の些細な感情の揺らぎに気付いたんだね……？」"
 translation = "「……후후, 회장에게는 당할 수가 없네. 정말로 나를 잘 지켜봐 주고 있어. 다른 사람은 모르는 나의 사소한 감정의 흔들림을 눈치챈 거지……?」"
 
@@ -204,47 +239,56 @@ original = "誰よりもユーリスを見ているからな"
 translation = "누구보다 유리스를 보고 있으니까"
 
 [[dialogue]]
-speaker = "ユーリス"
+speaker_original = "ユーリス"
+speaker_translation = "유리스"
 original = "「っっ。そ、そうみたいだね……。ハッキリ言われちゃうと恥ずかしいけど……」"
 translation = "「윽. 그, 그런 것 같네……. 대놓고 들으니 부끄럽지만……」"
 
 [[dialogue]]
-speaker = "ユーリス"
+speaker_original = "ユーリス"
+speaker_translation = "유리스"
 original = "「でも、ふふ。だからこそ、この勝負は私の勝ちかな？」"
 translation = "「하지만, 후후. 그렇기에, 이 승부는 나의 승리일까?」"
 
 [[dialogue]]
-speaker = "マトイ"
+speaker_original = "マトイ"
+speaker_translation = "마토이"
 original = "「ロ、ロイヤルストレートフラッシュだー！」"
 translation = "「로, 로열 스트레이트 플러시다──!」"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「そら見なさい。だから言ったのよ」"
 translation = "「거 봐. 그러니까 말했잖아.」"
 
 [[dialogue]]
-speaker = "アナ"
+speaker_original = "アナ"
+speaker_translation = "아나"
 original = "「何を意外そうな顔をしているんですか現会長。もう少し観察力を養った方がいいんじゃないですか？」"
 translation = "「뭘 의외라는 표정을 짓고 있는 건가요 현 회장. 좀 더 관찰력을 기르는 게 좋지 않겠어요?」"
 
 [[dialogue]]
-speaker = "サーシャ"
+speaker_original = "サーシャ"
+speaker_translation = "사샤"
 original = "「ワンペアかツーペア止まりのつもりだった顔してるわね～？\u3000とてもそんな風には見えなかったと思うけど……」"
 translation = "「원 페어나 투 페어 정도로 생각했던 표정이네~? 도저히 그렇게는 보이지 않았다고 생각하는데……」"
 
 [[dialogue]]
-speaker = "ユーリス"
+speaker_original = "ユーリス"
+speaker_translation = "유리스"
 original = "「ふふ、騙しちゃってごめんね？\u3000だけど嬉しかったよ。ほんの一瞬だけ見せた不安げな表情に気付いてくれて」"
 translation = "「후후, 속여서 미안해? 하지만 기뻤어. 아주 잠깐 보여준 불안한 표정을 눈치채 줘서.」"
 
 [[dialogue]]
-speaker = "ユーリス"
+speaker_original = "ユーリス"
+speaker_translation = "유리스"
 original = "「本当に、誰よりも私のことを見てくれてるんだね……？\u3000勝負には勝ったけど、試合には負けちゃった気分だな」"
 translation = "「정말로, 누구보다 나를 지켜봐 주고 있구나……? 승부에는 이겼지만, 경기에는 진 기분이야.」"
 
 [[dialogue]]
-speaker = "ユーリス"
+speaker_original = "ユーリス"
+speaker_translation = "유리스"
 original = "「さぁもう一勝負しよう、会長。私も会長に同じことをしてあげるから。どんな些細な変化も絶対に見逃さないよ♪」"
 translation = "「자, 한 판 더 하자, 회장. 나도 회장에게 똑같이 해줄 테니까. 어떤 사소한 변화도 절대 놓치지 않을 거야♪」"
 

@@ -1,200 +1,240 @@
 [[dialogue]]
-speaker = "セナリィ"
+speaker_original = "セナリィ"
+speaker_translation = "세나리"
 original = "「<ruby>女帝<rt>エンプレス</rt></ruby>フォームの着装により、新型モンスターの撃破に成功しましたわ」"
 translation = "「여제 폼 장착을 통해 신형 몬스터 격퇴에 성공했습니다와.」"
 
 [[dialogue]]
-speaker = "セナリィ"
+speaker_original = "セナリィ"
+speaker_translation = "세나리"
 original = "「ただし、燃費は最悪極まりないですわね。それでもなんとか使いこなすことができたのは、我がゴールデングースの有能な社員たちのおかげ」"
 translation = "「다만 연비는 최악 중의 최악이군요. 그래도 어떻게든 다룰 수 있었던 건 우리 골든 구스의 유능한 사원들 덕분입니다.」"
 
 [[dialogue]]
-speaker = "ヘレナ"
+speaker_original = "ヘレナ"
+speaker_translation = "헬레나"
 original = "「ほぉ……よくぞ、そこまで。文字通り、精魂枯れ果てるまで使いこなしてくれたようだな」"
 translation = "「호오…… 그 정도까지인가. 말 그대로 진을 다 뺄 때까지 다루어 준 모양이군.」"
 
 [[dialogue]]
-speaker = "セナリィ"
+speaker_original = "セナリィ"
+speaker_translation = "세나리"
 original = "「ええ、おかげさまで！\u3000あれ以来、私の体はガッタガタのポンコツですわ！\u3000スプーンとフォークを持つ手が震えて、食事を取るのも一苦労ですわよ！」"
 translation = "「네, 덕분에 말이죠! 그 이후로 제 몸은 덜덜거리는 고물이라구요! 숟가락이랑 포크를 쥐는 손이 떨려서 식사를 하는 것도 고역입니다와!」"
 
 [[dialogue]]
-speaker = "ヘレナ"
+speaker_original = "ヘレナ"
+speaker_translation = "헬레나"
 original = "「貴殿らの連携は、他の者では試せないあまりにも特殊な運用だ。見事なチームワークの勝利といえるだろう」"
 translation = "「귀공들의 연계는 다른 이들은 시도할 수 없는 너무나도 특수한 운용이다. 훌륭한 팀워크의 승리라고 할 수 있겠지.」"
 
 [[dialogue]]
-speaker = "ヘレナ"
+speaker_original = "ヘレナ"
+speaker_translation = "헬레나"
 original = "「私が依頼した内容は『試験運用』だ。星力の燃費がすこぶる悪いと指摘してくれれば、それでも十分だったのだがな」"
 translation = "「내가 의뢰한 내용은 『시험 운용』이다. 성력 연비가 매우 나쁘다고 지적해 주는 것만으로도 충분했을 텐데 말이지.」"
 
 [[dialogue]]
-speaker = "セナリィ"
+speaker_original = "セナリィ"
+speaker_translation = "세나리"
 original = "「報酬を頂くだけなら、私がボロ雑巾になる必要はなかった……というわけですわね」"
 translation = "「보수를 받기 위해서라면 제가 걸레짝이 될 필요까지는 없었다……는 거군요.」"
 
 [[dialogue]]
-speaker = "ヘレナ"
+speaker_original = "ヘレナ"
+speaker_translation = "헬레나"
 original = "「そういうことになる。しかし新型モンスターの貴重なデータも取れた。思わぬ成果といえるだろう」"
 translation = "「그렇게 되는군. 하지만 신형 몬스터의 귀중한 데이터도 얻었다. 예상치 못한 성과라고 할 수 있겠지.」"
 
 [[dialogue]]
-speaker = "セナリィ"
+speaker_original = "セナリィ"
+speaker_translation = "세나리"
 original = "（ヒマワリとミウがいつの間にやらデータを収集してたのよね。まったく抜け目のない子たちだわ）"
 translation = "(히마와리와 미우가 어느샌가 데이터를 수집하고 있었지. 정말 빈틈없는 아이들이야.)"
 
 [[dialogue]]
-speaker = "ヘレナ"
+speaker_original = "ヘレナ"
+speaker_translation = "헬레나"
 original = "「こちらのデータは買い取らせてもらう。新型モンスターを撃退した報酬も、上乗せして支払うとしよう」"
 translation = "「이 데이터는 사들이도록 하지. 신형 몬스터를 격퇴한 보수도 얹어서 지불하도록 하마.」"
 
 [[dialogue]]
-speaker = "セナリィ"
+speaker_original = "セナリィ"
+speaker_translation = "세나리"
 original = "「そうしていただけると。心身ともにボロボロになってまで倒した甲斐があるというもの」"
 translation = "「그렇게 해주신다면 심신이 너덜너덜해질 때까지 싸운 보람이 있겠네요.」"
 
 [[dialogue]]
-speaker = "ヘレナ"
+speaker_original = "ヘレナ"
+speaker_translation = "헬레나"
 original = "「うむ。傷ついた心身に見合う報酬を約束する」"
 translation = "「음. 상처 입은 심신에 걸맞은 보수를 약속하마.」"
 
 [[dialogue]]
-speaker = "セナリィ"
+speaker_original = "セナリィ"
+speaker_translation = "세나리"
 original = "「存外に美味しい報酬になりましたけど……むうう……まだ星力が戻る気配すらありませんわね」"
 translation = "「예상외로 짭짤한 보수가 되긴 했지만…… 으으으…… 아직 성력이 돌아올 기미조차 없군요.」"
 
 [[dialogue]]
-speaker = "セナリィ"
+speaker_original = "セナリィ"
+speaker_translation = "세나리"
 original = "「ミウの立てたプランは、守護星から直接、星力を前借りすること」"
 translation = "「미우가 세운 플랜은 수호성에서 직접 성력을 가불하는 것.」"
 
 [[dialogue]]
-speaker = "セナリィ"
+speaker_original = "セナリィ"
+speaker_translation = "세나리"
 original = "「私の《強奪の星眼》と、ヒマワリの投資と回収のスキルがあって、初めて成立するものですけど……」"
 translation = "「나의 《강탈의 성안》과 히마와리의 투자 및 회수 스킬이 있어야 비로소 성립하는 것입니다만……」"
 
 [[dialogue]]
-speaker = "セナリィ"
+speaker_original = "セナリィ"
+speaker_translation = "세나리"
 original = "「ムチャクチャな量をむしり取られたせいで、１か月経っても、全ッ然星力が戻ってきませんわ……」"
 translation = "「말도 안 되는 양을 뜯긴 탓에 한 달이 지났는데도 저언혀 성력이 돌아오지 않습니다와……」"
 
 [[dialogue]]
-speaker = "セナリィ"
+speaker_original = "セナリィ"
+speaker_translation = "세나리"
 original = "「私の守護星も怒髪天を突いたか、もしくは、シオシオに萎んで梅干しみたいになってるかもですわね……さすがに爆発は、してませんわよね……？」"
 translation = "「내 수호성도 머리끝까지 화가 났거나, 아니면 쪼글쪼글하게 시들어서 매실장아찌처럼 되어버렸을지도 모르겠군요…… 설마 폭발하진 않았겠죠……?」"
 
 [[dialogue]]
-speaker = "セナリィ"
+speaker_original = "セナリィ"
+speaker_translation = "세나리"
 original = "「まったくあの子たち……可愛い顔して、とんでもないトラブルメーカーですわ。このまま、私が星騎士として戦えなくなったらどうするつもりですの……」"
 translation = "「정말 저 아이들…… 귀여운 얼굴을 하고는 엄청난 트러블 메이커라니까요. 이대로 내가 성기사로서 싸울 수 없게 되면 어쩔 셈인가요……」"
 
 [[dialogue]]
-speaker = "セナリィ"
+speaker_original = "セナリィ"
+speaker_translation = "세나리"
 original = "「あの子たちにしてやられてばかりではなく、キチンと社長としての威厳を見せつけなくては。厳しく叱ることも時には大切ですわね！」"
 translation = "「저 아이들에게 당하기만 할 게 아니라 사장님으로서의 위엄을 제대로 보여줘야겠어. 엄하게 꾸짖는 것도 때로는 소중하니까요!」"
 
 [[dialogue]]
-speaker = "セナリィ"
+speaker_original = "セナリィ"
+speaker_translation = "세나리"
 original = "「ただいま戻りましたわ」"
 translation = "「지금 막 돌아왔습니다와.」"
 
 [[dialogue]]
-speaker = "ミウ"
+speaker_original = "ミウ"
+speaker_translation = "미우"
 original = "「おかえりなさい、社長。ヘレナさんへのご報告はどうでしたか？」"
 translation = "「어서 오세요, 사장님. 헬레나 씨에게 보고는 어떠셨나요?」"
 
 [[dialogue]]
-speaker = "セナリィ"
+speaker_original = "セナリィ"
+speaker_translation = "세나리"
 original = "「あのねぇ、あなたたち──」"
 translation = "「저기 말이죠, 당신들──」"
 
 [[dialogue]]
-speaker = "ヒマワリ"
+speaker_original = "ヒマワリ"
+speaker_translation = "히마와리"
 original = "「あんなに強い敵を、社長単独で倒したんだもん！\u3000もちろん、褒めていただけましたよね？」"
 translation = "「그렇게 강한 적을 사장님 단독으로 쓰러뜨렸는걸요! 당연히 칭찬받으셨겠죠?」"
 
 [[dialogue]]
-speaker = "セナリィ"
+speaker_original = "セナリィ"
+speaker_translation = "세나리"
 original = "（こんなにも期待に満ちた目を輝かせて、私を出迎えてくれる）"
 translation = "(이렇게나 기대에 찬 눈을 반짝이며 나를 맞이해 주다니.)"
 
 [[dialogue]]
-speaker = "セナリィ"
+speaker_original = "セナリィ"
+speaker_translation = "세나리"
 original = "（私はあなたたちの期待に応えられるほどの、傑物ではないというのに）"
 translation = "(나는 당신들의 기대에 부응할 정도의 걸물이 아닌데도.)"
 
 [[dialogue]]
-speaker = "セナリィ"
+speaker_original = "セナリィ"
+speaker_translation = "세나리"
 original = "（そんな目をされたら、叱るどころか──あなたたちのために、虚勢のひとつも張りたくなってしまうじゃないの）"
 translation = "(그런 눈으로 쳐다보면 꾸짖기는커녕── 당신들을 위해 허세라도 부리고 싶어지잖아요.)"
 
 [[dialogue]]
-speaker = "セナリィ"
+speaker_original = "セナリィ"
+speaker_translation = "세나리"
 original = "「バッチリに決まってますわ！\u3000素晴らしい働きを認められて、追加報酬までもらってしまいましたわ！」"
 translation = "「완벽한 게 당연하죠! 훌륭한 활약을 인정받아서 추가 보수까지 받았다구요!」"
 
 [[dialogue]]
-speaker = "ヒマワリ"
+speaker_original = "ヒマワリ"
+speaker_translation = "히마와리"
 original = "「やったー！\u3000ゴールデングースの歴史に、新たな１ページ！」"
 translation = "「만세! 골든 구스 역사에 새로운 페이지가!」"
 
 [[dialogue]]
-speaker = "セナリィ"
+speaker_original = "セナリィ"
+speaker_translation = "세나리"
 original = "「あなたたちの歓迎会もまだしていなかったことですし、今晩はパーッと美味しいご飯でも食べにいきますわよ」"
 translation = "「당신들 환영회도 아직 안 했으니 오늘 밤은 왁자지껄하게 맛있는 거라도 먹으러 가자구요.」"
 
 [[dialogue]]
-speaker = "ミウ"
+speaker_original = "ミウ"
+speaker_translation = "미우"
 original = "「本当ですか！？\u3000あ、でも……」"
 translation = "「정말인가요!? 아, 하지만……」"
 
 [[dialogue]]
-speaker = "ヒマワリ"
+speaker_original = "ヒマワリ"
+speaker_translation = "히마와리"
 original = "「ご飯に行くのは嬉しいんですけど、社長がいない間に討伐依頼が入ったんですよー」"
 translation = "「밥 먹으러 가는 건 기쁘지만 사장님이 없는 동안 토벌 의뢰가 들어왔어요ー」"
 
 [[dialogue]]
-speaker = "ミウ"
+speaker_original = "ミウ"
+speaker_translation = "미우"
 original = "「新型モンスターの発見報告があったそうで、討伐経験のあるセナリィ社長の御力をお借りしたいとのことです」"
 translation = "「신형 몬스터의 발견 보고가 있었다는데, 토벌 경험이 있는 세나리 사장님의 힘을 빌리고 싶다고 하네요.」"
 
 [[dialogue]]
-speaker = "セナリィ"
+speaker_original = "セナリィ"
+speaker_translation = "세나리"
 original = "「あの、あなたたち？\u3000私の体にはまだ星力が全然戻ってないんですのよ？」"
 translation = "「저기, 당신들? 내 몸에는 아직 성력이 전혀 안 돌아왔단 말입니다?」"
 
 [[dialogue]]
-speaker = "ヒマワリ"
+speaker_original = "ヒマワリ"
+speaker_translation = "히마와리"
 original = "「大丈夫ですよ！\u3000あたしと社長のスキルコンボは無敵ですからね！」"
 translation = "「괜찮아요! 저랑 사장님의 스킬 콤보는 무적이니까요!」"
 
 [[dialogue]]
-speaker = "セナリィ"
+speaker_original = "セナリィ"
+speaker_translation = "세나리"
 original = "「ちっともだいじょばないですわ！\u3000アレをやると１週間は全身筋肉痛でベッドから動けなくなりますのよ！？」"
 translation = "「하나도 안 괜찮다구요! 그걸 하면 일주일은 전신 근육통으로 침대에서 움직이지도 못하게 된단 말입니다!?」"
 
 [[dialogue]]
-speaker = "ミウ"
+speaker_original = "ミウ"
+speaker_translation = "미우"
 original = "「そうですよね……社長の御体が第一ですから。厳しいようでしたら、今からお断りの電話を──」"
 translation = "「그렇죠…… 사장님의 몸이 제일이니까요. 무리라면 지금 거절 전화를──」"
 
 [[dialogue]]
-speaker = "セナリィ"
+speaker_original = "セナリィ"
+speaker_translation = "세나리"
 original = "「あー、もう！\u3000仕方ありませんわね！\u3000１体くらいなら、なんとかなるでしょう！」"
 translation = "「아 정말! 어쩔 수 없군요! 한 마리 정도라면 어떻게든 되겠죠!」"
 
 [[dialogue]]
-speaker = "セナリィ"
+speaker_original = "セナリィ"
+speaker_translation = "세나리"
 original = "「豪勢な晩餐は、依頼を片付けた後で！\u3000ゴールデングース全社員で向かいますわよ！」"
 translation = "「호화로운 만찬은 의뢰를 처리한 뒤에! 골든 구스 전 사원이 출동입니다와!」"
 
 [[dialogue]]
-speaker = "ヒマワリ"
+speaker_original = "ヒマワリ"
+speaker_translation = "히마와리"
 original = "「はい、セナリィ社長！」"
 translation = "「네, 세나리 사장님!」"
 
 [[dialogue]]
-speaker = "ミウ"
+speaker_original = "ミウ"
+speaker_translation = "미우"
 original = "「どこまでもお供いたします！」"
 translation = "「어디까지든 따라가겠습니다!」"
 

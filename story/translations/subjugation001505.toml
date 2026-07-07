@@ -1,75 +1,90 @@
 [[dialogue]]
-speaker = "ジュリエッテ"
+speaker_original = "ジュリエッテ"
+speaker_translation = "줄리엣타"
 original = "「きゅぅ」"
 translation = "「뀨우」"
 
 [[dialogue]]
-speaker = "マリーベル"
+speaker_original = "マリーベル"
+speaker_translation = "메리벨"
 original = "「はぁ、はぁ……どうにかなったわね」"
 translation = "「하아, 하아…… 어떻게든 됐네」"
 
 [[dialogue]]
-speaker = "ジュリエッテ"
+speaker_original = "ジュリエッテ"
+speaker_translation = "줄리엣타"
 original = "「こ、こんなはずでは……」"
 translation = "「이, 이럴 리가……」"
 
 [[dialogue]]
-speaker = "ジュリエッテ"
+speaker_original = "ジュリエッテ"
+speaker_translation = "줄리엣타"
 original = "（どういうことでございますの……！？\u3000さっきわたくしがトドメを刺そうとしたら、膨大な星力に吹き飛ばされて……）"
 translation = "（어떻게 된 것인가요……!? 방금 제가 최후의 일격을 가하려 했더니, 방대한 성력에 튕겨 나가서……）"
 
 [[dialogue]]
-speaker = "ジュリエッテ"
+speaker_original = "ジュリエッテ"
+speaker_translation = "줄리엣타"
 original = "（この方の星力は吸い尽くしたはず。ですのに、まだ星力を残していた……？）"
 translation = "（이분의 성력은 다 빨아들였을 터. 그런데 아직 성력이 남아있었다고……?）"
 
 [[dialogue]]
-speaker = "ジュリエッテ"
+speaker_original = "ジュリエッテ"
+speaker_translation = "줄리엣타"
 original = "（いいえ……この方、守護星が<b>２つ</b>あった……！？\u3000そんなのありでございますの……！？）"
 translation = "（아니요…… 이분, 수호성이 <b>두</b> <b>개</b>였다고……!? 그런 게 가능한 것이에요……!?）"
 
 [[dialogue]]
-speaker = "マリーベル"
+speaker_original = "マリーベル"
+speaker_translation = "메리벨"
 original = "「私１人に負けるなんて、あなた本当にコラプサーなの？」"
 translation = "「나 한 명에게 지다니, 당신 정말 콜랩서 맞아?」"
 
 [[dialogue]]
-speaker = "ジュリエッテ"
+speaker_original = "ジュリエッテ"
+speaker_translation = "줄리엣타"
 original = "「わたくし、単独での戦闘能力はコラプサーでも最弱でございまして……」"
 translation = "「저는 단독 전투 능력이 콜랩서 중에서도 최약체라서요……」"
 
 [[dialogue]]
-speaker = "ジュリエッテ"
+speaker_original = "ジュリエッテ"
+speaker_translation = "줄리엣타"
 original = "（うぅ～～～っ！\u3000屈辱！\u3000屈辱でございますわ！\u3000わたくしがこんな、プリマステラでもないザコ星騎士にやられるなんて～っ！）"
 translation = "（으으으으~! 굴욕! 굴욕이에요! 제가 이런, 프리마스텔라도 아닌 조무래기 성기사에게 당하다니~!）"
 
 [[dialogue]]
-speaker = "マリーベル"
+speaker_original = "マリーベル"
+speaker_translation = "메리벨"
 original = "「ぐっ……首輪が……」"
 translation = "「윽…… 목걸이가……」"
 
 [[dialogue]]
-speaker = "ジュリエッテ"
+speaker_original = "ジュリエッテ"
+speaker_translation = "줄리엣타"
 original = "「どうされましたか？」"
 translation = "「무슨 일이신가요?」"
 
 [[dialogue]]
-speaker = "マリーベル"
+speaker_original = "マリーベル"
+speaker_translation = "메리벨"
 original = "「敵に教える義理はないんだけど……まぁいいわ。私は星力を制御しきれなくて、力を出し過ぎると首輪が絞まって止めるようになってるの」"
 translation = "「적에게 알려줄 의리는 없지만…… 뭐 좋아. 나는 성력을 다 제어하지 못해서, 힘을 너무 쓰면 목걸이가 조여서 멈추게 되어 있어」"
 
 [[dialogue]]
-speaker = "ジュリエッテ"
+speaker_original = "ジュリエッテ"
+speaker_translation = "줄리엣타"
 original = "「何ですのそれ。生きた爆弾みてーなやつでございますわね……」"
 translation = "「무슨 소린가요 그게. 살아있는 폭탄 같은 녀석이에요……」"
 
 [[dialogue]]
-speaker = "マリーベル"
+speaker_original = "マリーベル"
+speaker_translation = "메리벨"
 original = "「生きた爆弾……まぁそんなものね」"
 translation = "「살아있는 폭탄…… 뭐 그런 셈이지」"
 
 [[dialogue]]
-speaker = "ジュリエッテ"
+speaker_original = "ジュリエッテ"
+speaker_translation = "줄리엣타"
 original = "「笑うところじゃねーでございますの」"
 translation = "「웃을 일이 아니사와요」"
 
@@ -79,7 +94,8 @@ original = "マリーベル！"
 translation = "마리벨!"
 
 [[dialogue]]
-speaker = "マリーベル"
+speaker_original = "マリーベル"
+speaker_translation = "메리벨"
 original = "「会長さん？\u3000どうしてこんなところに？」"
 translation = "「회장님? 어째서 이런 곳에?」"
 
@@ -89,12 +105,14 @@ original = "カティアを追ってきたんだ"
 translation = "카티아를 쫓아왔어"
 
 [[dialogue]]
-speaker = "マリーベル"
+speaker_original = "マリーベル"
+speaker_translation = "메리벨"
 original = "「カティアさんもこのアステラにいるの？\u3000それは心配ね……」"
 translation = "「카티아 씨도 이 아스텔라에 있나요? 그건 걱정되네요……」"
 
 [[dialogue]]
-speaker = "マリーベル"
+speaker_original = "マリーベル"
+speaker_translation = "메리벨"
 original = "「何か言いたそうね？\u3000プリマステラではない星騎士がアステラに入ってはいけないって？」"
 translation = "「뭔가 말하고 싶은 표정이네? 프리마스텔라도 아닌 성기사가 아스텔라에 들어오면 안 된다고?」"
 
@@ -104,17 +122,20 @@ original = "危ないし規則違反だよ"
 translation = "위험하기도 하고 규칙 위반이야"
 
 [[dialogue]]
-speaker = "マリーベル"
+speaker_original = "マリーベル"
+speaker_translation = "메리벨"
 original = "「現に私は無事なんだら別にいいでしょ。理解に苦しむ制度だわ」"
 translation = "「실제로 난 무사하니까 별 상관없잖아. 이해하기 힘든 제도네」"
 
 [[dialogue]]
-speaker = "マリーベル"
+speaker_original = "マリーベル"
+speaker_translation = "메리벨"
 original = "「それよりも会長さん、丁度コラプサーを捕まえたのだけど」"
 translation = "「그보다 회장님, 마침 콜랩서를 붙잡았는데」"
 
 [[dialogue]]
-speaker = "ジュリエッテ"
+speaker_original = "ジュリエッテ"
+speaker_translation = "줄리엣타"
 original = "「はじめまして、魔王様……わたくし、ジュリエッテ・ハルヴィーノと申しますの」"
 translation = "「처음 뵙겠사와요, 마왕님…… 저는 줄레엣타 하르비노라고 하와요」"
 
@@ -124,37 +145,44 @@ original = "君がセレスティアを奪った犯人？"
 translation = "네가 셀레스티아를 훔친 범인이야?"
 
 [[dialogue]]
-speaker = "ジュリエッテ"
+speaker_original = "ジュリエッテ"
+speaker_translation = "줄리엣타"
 original = "「いいえ、違うでございますわ……ですが、その犯人について心当たりがありましてよ」"
 translation = "「아니요, 아니사와요…… 하지만 그 범인에 대해 짐작 가는 곳이 있사와요」"
 
 [[dialogue]]
-speaker = "マリーベル"
+speaker_original = "マリーベル"
+speaker_translation = "메리벨"
 original = "「犯人がどこにいるか知っているの？」"
 translation = "「범인이 어디 있는지 알고 있어?」"
 
 [[dialogue]]
-speaker = "ジュリエッテ"
+speaker_original = "ジュリエッテ"
+speaker_translation = "줄리엣타"
 original = "「ふふ、その質問に答えるには、いくつか条件がございましてよ」"
 translation = "「후후, 그 질문에 답하기 위해서는 몇 가지 조건이 있사와요」"
 
 [[dialogue]]
-speaker = "マリーベル"
+speaker_original = "マリーベル"
+speaker_translation = "메리벨"
 original = "「あなた、自分の立場を理解しているの？」"
 translation = "「당신, 자기 처지를 이해하고 있는 거야?」"
 
 [[dialogue]]
-speaker = "ジュリエッテ"
+speaker_original = "ジュリエッテ"
+speaker_translation = "줄리엣타"
 original = "「もちろん理解していましてよ。わたくしは哀れな捕虜……焼くなり煮るなり好きにしてくださいまし……」"
 translation = "「물론 이해하고 있사와요. 저는 가련한 포로…… 굽든 삶든 마음대로 하시어요……」"
 
 [[dialogue]]
-speaker = "マリーベル"
+speaker_original = "マリーベル"
+speaker_translation = "메리벨"
 original = "「そんなことはしないわよ。それよりも、仲間のコラプサーについて教えてほしいのだけど」"
 translation = "「그런 짓은 안 해. 그보다 동료인 콜랩서에 대해 알려줬으면 하는데」"
 
 [[dialogue]]
-speaker = "ジュリエッテ"
+speaker_original = "ジュリエッテ"
+speaker_translation = "줄리엣타"
 original = "「もちろんオッケーでございますわ」"
 translation = "「물론 오케이예요」"
 
@@ -164,27 +192,32 @@ original = "そんな簡単に仲間を裏切っていいの？"
 translation = "그렇게 쉽게 동료를 배신해도 돼?"
 
 [[dialogue]]
-speaker = "ジュリエッテ"
+speaker_original = "ジュリエッテ"
+speaker_translation = "줄리엣타"
 original = "「実はわたくし……コラプサーに無理やり従わされているんでございますよ……」"
 translation = "「실은 저…… 콜랩서에게 억지로 복종당하고 있는 거예요……」"
 
 [[dialogue]]
-speaker = "ジュリエッテ"
+speaker_original = "ジュリエッテ"
+speaker_translation = "줄리엣타"
 original = "「わたくし、本当は星騎士の方々と対立するのなんて、嫌で嫌で仕方ないのですけど……あの悪鬼羅刹のごときコラプサーたちに脅されて仕方なく……うう……」"
 translation = "「저, 사실은 성기사분들과 대립하는 거 정말 정말 싫어서 어쩔 줄 모르겠사온데…… 그 악귀나찰 같은 콜랩서 녀석들에게 협박당해서 어쩔 수 없이…… 으으……」"
 
 [[dialogue]]
-speaker = "マリーベル"
+speaker_original = "マリーベル"
+speaker_translation = "메리벨"
 original = "「その割にはいきなり襲ってきたけれど」"
 translation = "「그거치곤 아까 갑자기 습격해 왔는데」"
 
 [[dialogue]]
-speaker = "ジュリエッテ"
+speaker_original = "ジュリエッテ"
+speaker_translation = "줄리엣타"
 original = "「本当はあなた様を攻撃した時も心を酷く痛めていましたの……。わたくし演技派でございますので、そうは見えなかったでしょうが……」"
 translation = "「사실 당신을 공격했을 때도 마음이 너무나 아팠어요……. 제가 연기파라서 그렇게 보이지 않았겠지만요……」"
 
 [[dialogue]]
-speaker = "マリーベル"
+speaker_original = "マリーベル"
+speaker_translation = "메리벨"
 original = "「……会長さんはどう思う？\u3000彼女を信用していいと思うかしら」"
 translation = "「……회장님은 어떻게 생각해? 그녀를 믿어도 된다고 봐?」"
 
@@ -194,32 +227,38 @@ original = "正直怪しい……けど、貴重な手がかりだから"
 translation = "솔직히 수상해…… 하지만 귀중한 단서니까"
 
 [[dialogue]]
-speaker = "マリーベル"
+speaker_original = "マリーベル"
+speaker_translation = "메리벨"
 original = "「そうね、カティアさんも心配だし、今は少しでも情報が欲しいわ」"
 translation = "「그렇네, 카티아 씨도 걱정되고 지금은 조금이라도 정보가 필요해」"
 
 [[dialogue]]
-speaker = "ジュリエッテ"
+speaker_original = "ジュリエッテ"
+speaker_translation = "줄리엣타"
 original = "「でしたら、今からわたくしたちは仲間ですわね……！」"
 translation = "「그렇다면 지금부터 저희는 동료예요……!」"
 
 [[dialogue]]
-speaker = "マリーベル"
+speaker_original = "マリーベル"
+speaker_translation = "메리벨"
 original = "「一時休戦……といったところかしら。怪しい動きを見せれば串刺しにするわ」"
 translation = "「일시적인 휴전……이라고 해두지. 수상한 움직임을 보이면 꼬챙이로 만들어버리겠어」"
 
 [[dialogue]]
-speaker = "ジュリエッテ"
+speaker_original = "ジュリエッテ"
+speaker_translation = "줄리엣타"
 original = "「まあ、少しも警戒心を緩めないなんて素敵でございますわね」"
 translation = "「어머, 조금도 경계심을 늦추지 않으시다니 멋져요」"
 
 [[dialogue]]
-speaker = "マリーベル"
+speaker_original = "マリーベル"
+speaker_translation = "메리벨"
 original = "「私には仲間なんていらないのよ」"
 translation = "「나에겐 동료 같은 건 필요 없어」"
 
 [[dialogue]]
-speaker = "ジュリエッテ"
+speaker_original = "ジュリエッテ"
+speaker_translation = "줄리엣타"
 original = "「あらまあ、悲しい人でございますわね。魔王様はわたくしと仲良くしてくださいますよね？」"
 translation = "「어머나, 슬픈 분이네요. 마왕님은 저와 사이좋게 지내주실 거죠?」"
 
@@ -229,7 +268,8 @@ original = "今のところはね"
 translation = "지금까지는 말이지"
 
 [[dialogue]]
-speaker = "ジュリエッテ"
+speaker_original = "ジュリエッテ"
+speaker_translation = "줄리엣타"
 original = "「その言葉で充分でございますわ♪\u3000それでは、もう１人のコラプサー……イングリット様の元へ向かいましょう」"
 translation = "「그 말씀만으로 충분해요♪ 그러면 또 한 명의 콜랩서…… 잉그리드 님 계신 곳으로 가보세요」"
 

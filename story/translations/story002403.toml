@@ -1,25 +1,30 @@
 [[dialogue]]
-speaker = "蘭美"
+speaker_original = "蘭美"
+speaker_translation = "라미"
 original = "「──というわけで私たちも、ウェディングフォームの研究に協力することになったわ」"
 translation = "「──그렇게 돼서 우리도 웨딩 폼 연구에 협력하게 됐어」"
 
 [[dialogue]]
-speaker = "ヨミ"
+speaker_original = "ヨミ"
+speaker_translation = "요미"
 original = "「頑張りますので、よろしくお願いします！」"
 translation = "「열심히 할 테니까 잘 부탁드려요!」"
 
 [[dialogue]]
-speaker = "トワ先生"
+speaker_original = "トワ先生"
+speaker_translation = "토와 선생님"
 original = "「うん、２人ともよろしくね」"
 translation = "「응, 둘 다 잘 부탁해」"
 
 [[dialogue]]
-speaker = "トワ先生"
+speaker_original = "トワ先生"
+speaker_translation = "토와 선생님"
 original = "「それから会長くんとマトイちゃんもありがとう。流れで協力してもらうことになっちゃって」"
 translation = "「그리고 회장 군이랑 마토이 짱도 고마워. 흐름상 협력하게 만들어 버려서」"
 
 [[dialogue]]
-speaker = "マトイ"
+speaker_original = "マトイ"
+speaker_translation = "마토이"
 original = "「大丈夫です。元々ヘレナさんが私たちを呼んだ理由も、新フォームの性能チェックに協力して欲しいってことだったみたいですし」"
 translation = "「괜찮아요. 원래 헬레나 씨가 우리를 부른 이유도 새로운 폼의 성능 체크를 도와달라는 거였던 모양이니까요」"
 
@@ -29,42 +34,50 @@ original = "なんでも言ってくださいよ"
 translation = "뭐든지 말씀하세요"
 
 [[dialogue]]
-speaker = "蘭美"
+speaker_original = "蘭美"
+speaker_translation = "라미"
 original = "「会長、貴方も以前に起きたウェディング騒動を直接目にしているそうね。その時の経験も活かして協力してもらうわよ」"
 translation = "「회장, 당신도 이전에 일어났던 웨딩 소동을 직접 목격했다지. 그때의 경험도 살려서 협력해 줘야겠어」"
 
 [[dialogue]]
-speaker = "蘭美"
+speaker_original = "蘭美"
+speaker_translation = "라미"
 original = "「さて、まずはトワ先生のウェディングフォームについて、いろいろ調べなければならないことがあるわ」"
 translation = "「자, 우선은 토와 선생님의 웨딩 폼에 대해서 여러 가지 조사해야 할 것들이 있어」"
 
 [[dialogue]]
-speaker = "トワ先生"
+speaker_original = "トワ先生"
+speaker_translation = "토와 선생님"
 original = "「調べなくちゃいけない事だらけだけど、何から調べるの？」"
 translation = "「조사해야 할 것투성이지만, 뭐부터 조사해?」"
 
 [[dialogue]]
-speaker = "蘭美"
+speaker_original = "蘭美"
+speaker_translation = "라미"
 original = "「そうね……星見家のウェディングフォーム騒動の時とどこまで同じ状況なのか、ということから調べてみるのはどうかしら？」"
 translation = "「글쎄…… 호시미 가문의 웨딩 폼 소동 때와 어디까지 똑같은 상황인지부터 조사해 보는 건 어떨까?」"
 
 [[dialogue]]
-speaker = "トワ先生"
+speaker_original = "トワ先生"
+speaker_translation = "토와 선생님"
 original = "「そうだね。じゃまずは本当に戦闘服がウェディングフォームに固定されてしまっているのかを確かめてみるよ」"
 translation = "「그렇네. 그럼 우선 정말로 전투복이 웨딩 폼으로 고정되어버린 건지 확인해 볼게」"
 
 [[dialogue]]
-speaker = "トワ先生"
+speaker_original = "トワ先生"
+speaker_translation = "토와 선생님"
 original = "「うん、変身は解除できる。こっちは問題ないみたいだね」"
 translation = "「응, 변신은 해제할 수 있어. 이쪽은 문제없는 것 같네」"
 
 [[dialogue]]
-speaker = "トワ先生"
+speaker_original = "トワ先生"
+speaker_translation = "토와 선생님"
 original = "「問題なのはこっち……いつもの戦闘服に変身して……たあっ！」"
 translation = "「문제는 이쪽…… 평소의 전투복으로 변신해서…… 타앗!」"
 
 [[dialogue]]
-speaker = "トワ先生"
+speaker_original = "トワ先生"
+speaker_translation = "토와 선생님"
 original = "「はぁ……やっぱりだめだぁ……」"
 translation = "「하아…… 역시 안 돼……」"
 
@@ -74,67 +87,80 @@ original = "ウェディングドレスだね"
 translation = "웨딩드레스네"
 
 [[dialogue]]
-speaker = "マトイ"
+speaker_original = "マトイ"
+speaker_translation = "마토이"
 original = "「ウェディングフォームにしか変身できないってことは、やっぱりフィオナさんたちの時と同じなのかな？」"
 translation = "「웨딩 폼으로밖에 변신할 수 없다는 건 역시 피오나 씨 일행 때랑 똑같은 걸까요?」"
 
 [[dialogue]]
-speaker = "トワ先生"
+speaker_original = "トワ先生"
+speaker_translation = "토와 선생님"
 original = "「あぅ、そういうことだね。つまり、これから戦うたびにこの格好になっちゃうってこと」"
 translation = "「아우, 그런 뜻이네. 즉, 앞으로 싸울 때마다 이 모습이 된다는 거」"
 
 [[dialogue]]
-speaker = "トワ先生"
+speaker_original = "トワ先生"
+speaker_translation = "토와 선생님"
 original = "「先生だから戦う機会は少ないと思うけど、それでも毎回ウェディングドレスに変身するのは恥ずかしすぎだよ～」"
 translation = "「선생님이라서 싸울 기회는 적겠지만, 그래도 매번 웨딩드레스로 변신하는 건 너무 창피해~」"
 
 [[dialogue]]
-speaker = "マトイ"
+speaker_original = "マトイ"
+speaker_translation = "마토이"
 original = "「未婚の女性が何度もウェディングドレスを着るのは、あまりいいことじゃないって言いますもんね……」"
 translation = "「미혼 여성이 몇 번이나 웨딩드레스를 입는 건 별로 좋은 일이 아니라고 하니까요……」"
 
 [[dialogue]]
-speaker = "トワ先生"
+speaker_original = "トワ先生"
+speaker_translation = "토와 선생님"
 original = "「そうなんだよ、婚期が遠のくって言うもん！\u3000それはやだぁ～！」"
 translation = "「맞아, 혼기가 늦어진다고 하잖아! 그건 싫어~!」"
 
 [[dialogue]]
-speaker = "蘭美"
+speaker_original = "蘭美"
+speaker_translation = "라미"
 original = "「なら、まずはこの問題を解決した方がよさそうね。星見家の時はどうやって解決したのかしら？」"
 translation = "「그럼 우선 이 문제부터 해결하는 게 좋겠네. 호시미 가문 때는 어떻게 해결했었지?」"
 
 [[dialogue]]
-speaker = "トワ先生"
+speaker_original = "トワ先生"
+speaker_translation = "토와 선생님"
 original = "「う、それは……結婚式を挙げて心から自分の理想の結婚を叶えることで……解放された感じ、かな……」"
 translation = "「으, 그건…… 결혼식을 올려서 진심으로 자신의 이상적인 결혼을 이루는 걸로…… 해방된 느낌, 이랄까……」"
 
 [[dialogue]]
-speaker = "ヨミ"
+speaker_original = "ヨミ"
+speaker_translation = "요미"
 original = "「うわぁぁ、それは結構大変かもです……」"
 translation = "「우와아, 그건 꽤 힘들지도 모르겠네요……」"
 
 [[dialogue]]
-speaker = "トワ先生"
+speaker_original = "トワ先生"
+speaker_translation = "토와 선생님"
 original = "「わたしだって無理だよぉ！\u3000そんな生き恥を晒すような真似は嫌ぁぁ～～～！！」"
 translation = "「나라도 무리야! 그런 산 송장 같은 짓을 하는 건 싫어~~!!」"
 
 [[dialogue]]
-speaker = "蘭美"
+speaker_original = "蘭美"
+speaker_translation = "라미"
 original = "「でも、何とかしないとずっとウェディングドレスのままよ？」"
 translation = "「하지만 어떻게든 하지 않으면 계속 웨딩드레스 차림인걸?」"
 
 [[dialogue]]
-speaker = "トワ先生"
+speaker_original = "トワ先生"
+speaker_translation = "토와 선생님"
 original = "「そうだけどっ、でも～！」"
 translation = "「그렇지만, 그래도~!」"
 
 [[dialogue]]
-speaker = "トワ先生"
+speaker_original = "トワ先生"
+speaker_translation = "토와 선생님"
 original = "「ううう、どうしてこんな目に遭うの～？\u3000それもこれも結婚願望が強すぎるせい？\u3000だってしょうがないじゃない、焦るお年頃なんだもん！」"
 translation = "「으으으, 왜 이런 일을 당하는 거야~? 이것도 저것도 결혼 소망이 너무 강한 탓? 그치만 어쩔 수 없잖아, 초조해질 나이인걸!」"
 
 [[dialogue]]
-speaker = "トワ先生"
+speaker_original = "トワ先生"
+speaker_translation = "토와 선생님"
 original = "「こうなったら頼りは会長くんだけだよ……会長くん、助けてぇ……」"
 translation = "「이렇게 되면 믿을 건 회장 군뿐이야…… 회장 군, 도와줘……」"
 
@@ -149,12 +175,14 @@ original = "う……それはもしかして"
 translation = "으…… 그건 설마"
 
 [[dialogue]]
-speaker = "蘭美"
+speaker_original = "蘭美"
+speaker_translation = "라미"
 original = "「当然そうなるわね。貴方、自分の発言を忘れたわけじゃないでしょう？」"
 translation = "「당연히 그렇게 되겠지. 당신, 자신의 발언을 잊은 건 아니겠지?」"
 
 [[dialogue]]
-speaker = "トワ先生"
+speaker_original = "トワ先生"
+speaker_translation = "토와 선생님"
 original = "「……なんでも言ってくださいって言ったぁ～……」"
 translation = "「……뭐든지 말씀하시라고 했잖아~……」"
 
@@ -169,12 +197,14 @@ original = "わ、わかりましたよ！"
 translation = "아, 알겠다고요!"
 
 [[dialogue]]
-speaker = "トワ先生"
+speaker_original = "トワ先生"
+speaker_translation = "토와 선생님"
 original = "「ほんと？\u3000ほんとに？\u3000先生信じちゃうからね？\u3000後になってやっぱやーめたなんて言ってもダメなんだから！」"
 translation = "「정말? 진짜로? 선생님 믿어버릴 거니까? 나중에 가서 역시 안 할래 같은 소리 해도 소용없어!」"
 
 [[dialogue]]
-speaker = "トワ先生"
+speaker_original = "トワ先生"
+speaker_translation = "토와 선생님"
 original = "「他にお願い出来る人もいないし、正直会長くんだけが頼りなの！\u3000だからお願いしますっ！」"
 translation = "「달리 부탁할 사람도 없고, 솔직히 회장 군만이 희망이야! 그러니까 부탁할게!」"
 
@@ -184,82 +214,98 @@ original = "そんなに念押ししなくても大丈夫ですよ"
 translation = "그렇게 신신당부하지 않아도 괜찮아요"
 
 [[dialogue]]
-speaker = "トワ先生"
+speaker_original = "トワ先生"
+speaker_translation = "토와 선생님"
 original = "「会長く～～～ん！\u3000ありがとぉぉ～～～～！！」"
 translation = "「회장 구~~~~ㄴ! 고마워~~~~!!」"
 
 [[dialogue]]
-speaker = "トワ先生"
+speaker_original = "トワ先生"
+speaker_translation = "토와 선생님"
 original = "「きみはわたしの自慢の教え子だよ～！\u3000もー、ほんといい子っ、大好き♪」"
 translation = "「너는 내 자랑스러운 제자야~! 정말이지 착한 아이, 너무 좋아♪」"
 
 [[dialogue]]
-speaker = "ヨミ"
+speaker_original = "ヨミ"
+speaker_translation = "요미"
 original = "「どさくさに紛れて大好きとか言っちゃってます……」"
 translation = "「어수선한 틈을 타서 좋아한다느니 말하고 있어요……」"
 
 [[dialogue]]
-speaker = "蘭美"
+speaker_original = "蘭美"
+speaker_translation = "라미"
 original = "「話が早いのはいいことだわ。ヨミヨミはどうするの？\u3000貴方も思い切って会長に告白してしまうのかしら？」"
 translation = "「말이 잘 통해서 다행이네. 요미요미는 어떻게 할 거야? 당신도 과감하게 회장에게 고백해 버릴 거야?」"
 
 [[dialogue]]
-speaker = "ヨミ"
+speaker_original = "ヨミ"
+speaker_translation = "요미"
 original = "「こやっ！？\u3000そ、それは……！\u3000トワ先生と同じ状況になってみないとわかりませんよぉ」"
 translation = "「코얏!? 그, 그건……! 토와 선생님과 같은 상황이 되어보지 않으면 모른다구요」"
 
 [[dialogue]]
-speaker = "蘭美"
+speaker_original = "蘭美"
+speaker_translation = "라미"
 original = "「呑気なことを言ってる場合かしら？\u3000ウェディングフォームの検証は、トワ先生だけの話じゃないのよ」"
 translation = "「한가한 소리 할 때가 아닐 텐데? 웨딩 폼 검증은 토와 선생님만의 이야기가 아니야」"
 
 [[dialogue]]
-speaker = "ヨミ"
+speaker_original = "ヨミ"
+speaker_translation = "요미"
 original = "「ええっ、ということはつまり……？」"
 translation = "「에엣, 그렇다는 건 설마……?」"
 
 [[dialogue]]
-speaker = "蘭美"
+speaker_original = "蘭美"
+speaker_translation = "라미"
 original = "「私たちもトワ先生と同じことをするのよ。理想の結婚を叶えることがご主人様の願いなら、九浄家メイド隊のメイド長として完璧に遂行してみせるわ！」"
 translation = "「우리도 토와 선생님과 같은 일을 하는 거야. 이상적인 결혼을 이루는 것이 주인님의 소원이라면, 쿠죠 가문 메이드대의 메이드장으로서 완벽하게 수행해 보이겠어!」"
 
 [[dialogue]]
-speaker = "ヨミ"
+speaker_original = "ヨミ"
+speaker_translation = "요미"
 original = "「さ、さすがメイド長……」"
 translation = "「여, 역시 메이드장……」"
 
 [[dialogue]]
-speaker = "蘭美"
+speaker_original = "蘭美"
+speaker_translation = "라미"
 original = "「他人事じゃないわ。貴方もやるの」"
 translation = "「남 일이 아니야. 당신도 하는 거야」"
 
 [[dialogue]]
-speaker = "ヨミ"
+speaker_original = "ヨミ"
+speaker_translation = "요미"
 original = "「ええええ～～～～っ！！？」"
 translation = "「에에에에~~~~!!?」"
 
 [[dialogue]]
-speaker = "蘭美"
+speaker_original = "蘭美"
+speaker_translation = "라미"
 original = "「トワ先生、会長、私とヨミヨミも参戦するわ！\u3000誰が一番最初に理想の花嫁になれるか、勝負よ！」"
 translation = "「토와 선생님, 회장, 나와 요미요미도 참전하겠어! 누가 제일 먼저 이상적인 신부가 될 수 있을지 승부야!」"
 
 [[dialogue]]
-speaker = "マトイ"
+speaker_original = "マトイ"
+speaker_translation = "마토이"
 original = "「いつの間にか勝負になってる！？」"
 translation = "「어느새 승부가 된 거야!?」"
 
 [[dialogue]]
-speaker = "トワ先生"
+speaker_original = "トワ先生"
+speaker_translation = "토와 선생님"
 original = "「で、でも２人が一緒ならわたしも心強いかも……」"
 translation = "「하, 하지만 둘이 함께라면 나도 든든할지도……」"
 
 [[dialogue]]
-speaker = "蘭美"
+speaker_original = "蘭美"
+speaker_translation = "라미"
 original = "「受けて立つということね？\u3000いい覚悟だわ！」"
 translation = "「받아들이겠다는 뜻이지? 좋은 각오야!」"
 
 [[dialogue]]
-speaker = "ヨミ"
+speaker_original = "ヨミ"
+speaker_translation = "요미"
 original = "「勝負って言いますけど、どうやって競い合えばいいんですか？」"
 translation = "「승부라고 하시지만 어떻게 경쟁하면 되는 건가요?」"
 
@@ -269,22 +315,26 @@ original = "前の時はみんなで花嫁修業をしたよ"
 translation = "지난번엔 다 같이 신부 수업을 했어"
 
 [[dialogue]]
-speaker = "トワ先生"
+speaker_original = "トワ先生"
+speaker_translation = "토와 선생님"
 original = "「そうだよ、花嫁修業！」"
 translation = "「맞아, 신부 수업!」"
 
 [[dialogue]]
-speaker = "ヨミ"
+speaker_original = "ヨミ"
+speaker_translation = "요미"
 original = "「あ、刺さるキーワードだったみたいです」"
 translation = "「아, 꽂히는 키워드였나 보네요」"
 
 [[dialogue]]
-speaker = "トワ先生"
+speaker_original = "トワ先生"
+speaker_translation = "토와 선생님"
 original = "「先生くらいになると、やっぱり憧れちゃうワードだからね。花嫁修業って聞くだけで、なんかこうテンション上がっちゃうよ～」"
 translation = "「선생님 정도 되면 역시 동경하게 되는 단어니까 말이야. 신부 수업이라는 말만 들어도 왠지 이렇게 텐션이 올라가 버려~」"
 
 [[dialogue]]
-speaker = "蘭美"
+speaker_original = "蘭美"
+speaker_translation = "라미"
 original = "「星見家のケースでも花嫁修業を行ったのなら、こちらもそれに倣うのは間違っていないわね」"
 translation = "「호시미 가문의 케이스에서도 신부 수업을 했다면 이쪽도 그것을 따르는 게 틀리지 않겠네」"
 
@@ -294,17 +344,20 @@ original = "みんなで頑張ろう！"
 translation = "다 같이 힘내자!"
 
 [[dialogue]]
-speaker = "トワ先生"
+speaker_original = "トワ先生"
+speaker_translation = "토와 선생님"
 original = "「おーっ！\u3000先生、立派な花嫁になってみせるからね！」"
 translation = "「오ー! 선생님, 훌륭한 신부가 되어 보일 테니까!」"
 
 [[dialogue]]
-speaker = "蘭美"
+speaker_original = "蘭美"
+speaker_translation = "라미"
 original = "「ふふふ、任せなさい。最速で最強の花嫁になってみせるわ！」"
 translation = "「후후후, 맡겨줘. 최속으로 최강의 신부가 되어 보이겠어!」"
 
 [[dialogue]]
-speaker = "ヨミ"
+speaker_original = "ヨミ"
+speaker_translation = "요미"
 original = "「……花嫁修業なんて、ほんとに大丈夫かなぁ？」"
 translation = "「……신부 수업이라니, 정말 괜찮으려나?」"
 

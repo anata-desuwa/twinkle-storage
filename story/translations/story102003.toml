@@ -1,225 +1,270 @@
 [[dialogue]]
-speaker = "プトラ"
+speaker_original = "プトラ"
+speaker_translation = "푸트라"
 original = "「初めまして、プトラって言います！\u3000こことは違う世界、イリスクラウドからやってきました！」"
 translation = "「처음 뵙겠습니다, 푸트라라고 합니다! 여기와는 다른 세계, 이리스 클라우드에서 왔어요!」"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「…………」"
 translation = "「…………」"
 
 [[dialogue]]
-speaker = "アルテ"
+speaker_original = "アルテ"
+speaker_translation = "아르테"
 original = "「……どうやら私と同じ境遇の、また別の世界からやってきた人、ということのようですね」"
 translation = "「……아무래도 저와 같은 처지인, 또 다른 세계에서 온 사람인 모양이군요.」"
 
 [[dialogue]]
-speaker = "プトラ"
+speaker_original = "プトラ"
+speaker_translation = "푸트라"
 original = "「ってことはあなたもそうなんだね？\u3000よろしく～♪」"
 translation = "「그렇다는 건 당신도 그렇구나? 잘 부탁해～♪」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「プトラさんとはつい先ほど出会ったんですが──」"
 translation = "「푸트라 씨와는 방금 막 만났습니다만──」"
 
 [[dialogue]]
-speaker = "プトラ"
+speaker_original = "プトラ"
+speaker_translation = "푸트라"
 original = "「ふきゃっ！！」"
 translation = "「후갸악!!」"
 
 [[dialogue]]
-speaker = "プトラ"
+speaker_original = "プトラ"
+speaker_translation = "푸트라"
 original = "「こ、ここってどこ？\u3000セントイリスの拠点で待機してたはずなのに……」"
 translation = "「여, 여기가 어디야? 세인트 이리스 거점에서 대기하고 있었을 텐데……」"
 
 [[dialogue]]
-speaker = "プトラ"
+speaker_original = "プトラ"
+speaker_translation = "푸트라"
 original = "「それに、この格好はいったい……？\u3000あ、でも可愛い。好きかも」"
 translation = "「게다가 이 복장은 대체……? 아, 그래도 귀엽다. 마음에 들지도.」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「あの……あなたは？\u3000流星学園の制服を着ているということは、うちの生徒、ですよね？」"
 translation = "「저기…… 당신은? 유성 학원의 교복을 입고 있다는 건 우리 학교 학생이죠?」"
 
 [[dialogue]]
-speaker = "プトラ"
+speaker_original = "プトラ"
+speaker_translation = "푸트라"
 original = "「りゅーせー学園？\u3000違うよ？\u3000あたしはプトラ。<ruby>特別鉄軌隊<rt>とくべつてっきたい</rt></ruby>──通称、<ruby>特鉄隊<rt>とくてつたい</rt></ruby>所属の隊員だよ」"
 translation = "「유우성 학원? 아니야. 나는 푸트라. 특별철궤대──통칭, 특철대 소속 대원이야.」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「特鉄隊？\u3000部活でしょうか……いえ、そういった名前は記憶にありませんね」"
 translation = "「특철대? 동아리일까요…… 아니요, 그런 이름은 기억에 없네요.」"
 
 [[dialogue]]
-speaker = "プトラ"
+speaker_original = "プトラ"
+speaker_translation = "푸트라"
 original = "「イリスクラウド五国が共同開発した魔導列車『ミストトレイン』に乗って、<ruby>幻霧<rt>げんむ</rt></ruby>の中から現れるミストモンスターたちと戦う」"
 translation = "「이리스 클라우드 5개국이 공동 개발한 마도 열차 『미스트 트레인』을 타고, 환무 속에서 나타나는 미스트 몬스터들과 싸워.」"
 
 [[dialogue]]
-speaker = "プトラ"
+speaker_original = "プトラ"
+speaker_translation = "푸트라"
 original = "「その為の特殊な訓練を受けた部隊──それが特鉄隊だよ」"
 translation = "「그걸 위해 특수한 훈련을 받은 부대── 그게 특철대야.」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「ミストトレイン……ごめんなさい、そんな車両は聞いたことがありません。あなたの所属しているという、その特別鉄軌隊というものも……」"
 translation = "「미스트 트레인…… 미안해요, 그런 차량은 들어본 적이 없어요. 당신이 소속되어 있다는 그 특별철궤대라는 곳도……」"
 
 [[dialogue]]
-speaker = "プトラ"
+speaker_original = "プトラ"
+speaker_translation = "푸트라"
 original = "「そ、そうなんだ……」"
 translation = "「그, 그렇구나……」"
 
 [[dialogue]]
-speaker = "プトラ"
+speaker_original = "プトラ"
+speaker_translation = "푸트라"
 original = "「さすがにミストトレインや特鉄隊のことを全く聞いたことがないっていうのは変だよね……」"
 translation = "「역시 미스트 트레인이나 특철대에 대해 전혀 들어본 적이 없다는 건 이상하네……」"
 
 [[dialogue]]
-speaker = "プトラ"
+speaker_original = "プトラ"
+speaker_translation = "푸트라"
 original = "「周りの景色も、見たことない感じだし……いつの間にか知らない制服に着替えてる……」"
 translation = "「주변 풍경도 본 적 없는 느낌이고…… 어느새 모르는 교복으로 갈아입혀져 있고……」"
 
 [[dialogue]]
-speaker = "プトラ"
+speaker_original = "プトラ"
+speaker_translation = "푸트라"
 original = "「あたし、恐らくなんだけど、異常事態に巻き込まれちゃったみたい……」"
 translation = "「나, 아마도 말인데 이상 사태에 휘말려버린 것 같아……」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「どうやら、そのようですね……」"
 translation = "「아무래도 그런 것 같네요……」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「あなたが転がり出てきた、あの黒い穴……何か関係していると思うんですけど……」"
 translation = "「당신이 굴러 나온 그 검은 구멍…… 뭔가 관계가 있다고 생각합니다만……」"
 
 [[dialogue]]
-speaker = "プトラ"
+speaker_original = "プトラ"
+speaker_translation = "푸트라"
 original = "「えっ、あたし今、そんな所から出てきたの？\u3000幻霧かな？\u3000でも知らない現象だな……」"
 translation = "「엣, 나 지금 그런 곳에서 나온 거야? 환무인가? 하지만 모르는 현상인데……」"
 
 [[dialogue]]
-speaker = "クマロボ"
+speaker_original = "クマロボ"
+speaker_translation = "곰 로봇"
 original = "「クマァーーーーーーーーーー！！！！！！」"
 translation = "「곰아아아아아아아아아아아!!!!!!!!!」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「な、何ですか！？」"
 translation = "「무, 무엇입니까!?」"
 
 [[dialogue]]
-speaker = "プトラ"
+speaker_original = "プトラ"
+speaker_translation = "푸트라"
 original = "「わわ、クマさんが出てきたよ！」"
 translation = "「와와, 곰돌이가 나왔어!」"
 
 [[dialogue]]
-speaker = "クマロボ"
+speaker_original = "クマロボ"
+speaker_translation = "곰 로봇"
 original = "「クマァーーーーーーーーーー！！！！！！」"
 translation = "「곰아아아아아아아아아아아!!!!!!!!!」"
 
 [[dialogue]]
-speaker = "プトラ"
+speaker_original = "プトラ"
+speaker_translation = "푸트라"
 original = "「襲いかかってきた！？」"
 translation = "「습격해 왔어!?」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「私が時間を稼ぎます。あなたはその間に変身を──って、あなたは星騎士じゃないんですよね……？」"
 translation = "「제가 시간을 벌겠습니다. 당신은 그동안 변신을── 아, 당신은 성기사가 아니었죠……?」"
 
 [[dialogue]]
-speaker = "プトラ"
+speaker_original = "プトラ"
+speaker_translation = "푸트라"
 original = "「うん、そうだけど……変身って何！？\u3000どういうこと？？」"
 translation = "「응, 그렇긴 한데…… 변신이라니 뭐야!? 무슨 소리야??」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「でしたら安全なところに下がっていてください。ここは私が」"
 translation = "「그렇다면 안전한 곳으로 물러나 계세요. 여기는 제가.」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「いきますっ！」"
 translation = "「갑니다!」"
 
 [[dialogue]]
-speaker = "プトラ"
+speaker_original = "プトラ"
+speaker_translation = "푸트라"
 original = "「す、すごい！！！\u3000ホントに変身した！」"
 translation = "「우, 우와아!!! 진짜로 변신했어!」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「ヒューペリオンイレイザー！！」"
 translation = "「히페리온 이레이저!!」"
 
 [[dialogue]]
-speaker = "クマロボ"
+speaker_original = "クマロボ"
+speaker_translation = "곰 로봇"
 original = "「クマァーーーーーーーーーー！！！！！！」"
 translation = "「곰아아아0아아아아아아아!!!!」"
 
 [[dialogue]]
-speaker = "プトラ"
+speaker_original = "プトラ"
+speaker_translation = "푸트라"
 original = "「すごい、強い強ーいっ！！\u3000助けてくれてありがとう！」"
 translation = "「대단해, 강하다 강해!! 구해줘서 고마워!」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「いえ、星騎士として当然のことをしたまでです。あなたは大丈夫でしたか？」"
 translation = "「아니요, 성기사로서 당연한 일을 했을 뿐입니다. 당신은 괜찮으신가요?」"
 
 [[dialogue]]
-speaker = "プトラ"
+speaker_original = "プトラ"
+speaker_translation = "푸트라"
 original = "「うん、大丈夫。ええと……あなたの名前は？」"
 translation = "「응, 괜찮아. 에토…… 당신 이름은?」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「星見フィオナです。よろしくお願いします」"
 translation = "「호시미 피오나입니다. 잘 부탁드려요.」"
 
 [[dialogue]]
-speaker = "プトラ"
+speaker_original = "プトラ"
+speaker_translation = "푸트라"
 original = "「うん、よろしくっ♪」"
 translation = "「응, 잘 부탁해♪」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「それで詳しく事情を聞こうとしたところに、『黒ベア子』と名乗る女の子が現れて……」"
 translation = "「그래서 자세한 사정을 들으려던 참에 『흑베아코』라고 자칭하는 여자아이가 나타나서……」"
 
 [[dialogue]]
-speaker = "プトラ"
+speaker_original = "プトラ"
+speaker_translation = "푸트라"
 original = "「なんかお祭り騒ぎに巻き込まれたみたいなんだよ」"
 translation = "「왠지 축제 소동에 휘말린 것 같아.」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「様子を見るに、そちらの方も同じ状況なのですよね？」"
 translation = "「상황을 보아하니 그쪽 분도 같은 상황인 거군요?」"
 
 [[dialogue]]
-speaker = "アルテ"
+speaker_original = "アルテ"
+speaker_translation = "아르테"
 original = "「そういうことです」"
 translation = "「그렇게 됐습니다.」"
 
 [[dialogue]]
-speaker = "アルテ"
+speaker_original = "アルテ"
+speaker_translation = "아르테"
 original = "「私やそちらの彼女が元の世界に帰るためには、黒ベア子の攻撃を凌ぎつつ何とかするしかないようですね」"
 translation = "「저나 저쪽의 그녀가 원래 세계로 돌아가기 위해서는 흑베아코의 공격을 버텨내며 어떻게든 하는 수밖에 없는 듯하네요.」"
 
 [[dialogue]]
-speaker = "プトラ"
+speaker_original = "プトラ"
+speaker_translation = "푸트라"
 original = "「大丈夫、さっきは何も出来なかったけど、ちゃんとした装備を貰えればあたしも戦えるよ！」"
 translation = "「괜찮아, 아까는 아무것도 못 했지만 제대로 된 장비만 있으면 나도 싸울 수 있어!」"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「頼もしいじゃない。それじゃみんなで力を合わせて、この事態を解決しちゃいましょう！」"
 translation = "「믿음직스럽네. 그럼 다 같이 힘을 합쳐서 이 사태를 해결해 버리자!」"
 
@@ -234,27 +279,32 @@ original = "この声は！！"
 translation = "이 목소리는!!"
 
 [[dialogue]]
-speaker = "アポロ"
+speaker_original = "アポロ"
+speaker_translation = "아폴로"
 original = "「ばばーーーーーーん！！！！」"
 translation = "「바바아아아안!!!!」"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「アポロ！？」"
 translation = "「아폴로!?」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「姉さん、どうしたんですか、その格好は！？」"
 translation = "「언니, 어떻게 된 거예요, 그 복장은!?」"
 
 [[dialogue]]
-speaker = "アポロ"
+speaker_original = "アポロ"
+speaker_translation = "아폴로"
 original = "「よくぞ聞いてくれた！\u3000さっき突然目覚めてしまったんだ……」"
 translation = "「잘 물어봐 줬다! 방금 갑자기 눈을 떠버렸거든……」"
 
 [[dialogue]]
-speaker = "アポロ"
+speaker_original = "アポロ"
+speaker_translation = "아폴로"
 original = "「この新しいフォーム、フレイムフォームになっ！！！」"
 translation = "「이 새로운 폼, 플레임 폼으로 말이지!!!」"
 

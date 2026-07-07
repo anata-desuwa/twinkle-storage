@@ -4,42 +4,50 @@ original = "第４話,きれいなおめめ,P"
 translation = "제4화, 예쁜 눈동자, P"
 
 [[dialogue]]
-speaker = "セナリィ"
+speaker_original = "セナリィ"
+speaker_translation = "세나리"
 original = "「バンデット・セナリィ推参ですわ──何でも人手が足りないそうですわね？」"
 translation = "「밴디트 세나리 참상했어요── 아무래도 일손이 부족하다면서요?」"
 
 [[dialogue]]
-speaker = "セナリィ"
+speaker_original = "セナリィ"
+speaker_translation = "세나리"
 original = "「それで依頼内容は？\u3000報酬さえ弾んでいただければ、どんな悪でもこなしますわよ」"
 translation = "「그래서 의뢰 내용은요? 보수만 넉넉히 주신다면, 어떤 악행이라도 해내겠어요」"
 
 [[dialogue]]
-speaker = "セナリィ"
+speaker_original = "セナリィ"
+speaker_translation = "세나리"
 original = "「……仕事はカフェテリアで行うのですか？\u3000あら……珍しい。ではご一緒に参りましょう」"
 translation = "「……업무는 카페테리아에서 하는 건가요? 어라…… 희한하네요. 그럼 함께 가요」"
 
 [[dialogue]]
-speaker = "シャロン"
+speaker_original = "シャロン"
+speaker_translation = "샤론"
 original = "「ありがとうございます！\u3000今日の子ども会、ハサミやカッターで工作を楽しむ交流会でして……少しでも大人の目が欲しかったので助かります！」"
 translation = "「감사합니다! 오늘 어린이 모임은 가위나 커터칼로 공작을 즐기는 교류회라서요…… 조금이라도 어른의 손길이 필요했는데 큰 도움이 돼요!」"
 
 [[dialogue]]
-speaker = "セナリィ"
+speaker_original = "セナリィ"
+speaker_translation = "세나리"
 original = "「子ども会！？\u3000工作！？\u3000聞いてませんわよ！？」"
 translation = "「어린이 모임!? 공작!? 듣지 못했어요!?」"
 
 [[dialogue]]
-speaker = "シャロン"
+speaker_original = "シャロン"
+speaker_translation = "샤론"
 original = "「は～い、注目してください！\u3000こちら、みなさんのお手伝いをしてくださる星騎士さまですよー！」"
 translation = "「자~ 주목해 주세요! 이쪽은 여러분을 도와주실 성기사님이랍니다~!」"
 
 [[dialogue]]
-speaker = "シャロン"
+speaker_original = "シャロン"
+speaker_translation = "샤론"
 original = "「お名前は──えっと、すみません。セナリィさまの苗字、そう言えばお聞きしたことが無かったですね……」"
 translation = "「성함은── 에또, 죄송해요. 세나리 님의 성씨는 그러고 보니 여쭤본 적이 없었네요……」"
 
 [[dialogue]]
-speaker = "セナリィ"
+speaker_original = "セナリィ"
+speaker_translation = "세나리"
 original = "「……私に苗字はありませんわ。というかこんな仕事は私の出る幕では──」"
 translation = "「……저에게 성씨는 없어요. 그보다 이런 일은 제가 나설 자리가──」"
 
@@ -54,32 +62,38 @@ original = "みんな、このお姉さんの名前は──"
 translation = "얘들아, 이 누나의 이름은──"
 
 [[dialogue]]
-speaker = "女の子"
+speaker_original = "女の子"
+speaker_translation = "여자아이"
 original = "「ばんでっと……！？」"
 translation = "「밴디뜨……!?」"
 
 [[dialogue]]
-speaker = "男の子"
+speaker_original = "男の子"
+speaker_translation = "남자아이"
 original = "「か、かっけぇ～！！」"
 translation = "「와, 머, 멋지다~!!」"
 
 [[dialogue]]
-speaker = "セナリィ"
+speaker_original = "セナリィ"
+speaker_translation = "세나리"
 original = "「普通にセナリィでよろしいでしょう！？\u3000何で二つ名を教えてますの！？」"
 translation = "「평범하게 세나리라고 하면 되잖아요!? 왜 이명을 가르쳐 주는 건가요!?」"
 
 [[dialogue]]
-speaker = "シャロン"
+speaker_original = "シャロン"
+speaker_translation = "샤론"
 original = "「ふふ♪\u3000早速、子どもたちに大人気ですね。セナリィさま！」"
 translation = "「후후♪ 벌써 아이들에게 인기 폭발이네요. 세나리 님!」"
 
 [[dialogue]]
-speaker = "セナリィ"
+speaker_original = "セナリィ"
+speaker_translation = "세나리"
 original = "「嬉しくねえですわよ～！？」"
 translation = "「기쁘지 않아요~!」"
 
 [[dialogue]]
-speaker = "セナリィ"
+speaker_original = "セナリィ"
+speaker_translation = "세나리"
 original = "「会長様、マジですの？\u3000マジで私に、こんなガキンチョたちの子守りをやらせるつもりですの！？」"
 translation = "「회장님, 진심인가요? 진심으로 저에게 이런 꼬맹이들 보모 노릇을 시킬 생각인가요!?」"
 
@@ -89,127 +103,152 @@ original = "人手が足りないんだ"
 translation = "일손이 부족하거든"
 
 [[dialogue]]
-speaker = "セナリィ"
+speaker_original = "セナリィ"
+speaker_translation = "세나리"
 original = "「明らかな人選ミス！\u3000あぁもう、どうなっても知りませんわよ！？」"
 translation = "「명백한 인선 미스! 아아 정말, 어떻게 돼도 모른다니까요!?」"
 
 [[dialogue]]
-speaker = "セナリィ"
+speaker_original = "セナリィ"
+speaker_translation = "세나리"
 original = "「はあ……私は悪の総帥ですのに……ガキンチョどもの相手なんてしてられませんわ……」"
 translation = "「하아…… 저는 악의 총수인데…… 꼬맹이들 상대나 하고 있을 순 없어요……」"
 
 [[dialogue]]
-speaker = "男の子"
+speaker_original = "男の子"
+speaker_translation = "남자아이"
 original = "「ばんでっとのおねーさん。みて、みて！\u3000ちゃんときれた！」"
 translation = "「밴디뜨 누나. 봐, 봐! 제대로 잘랐어!」"
 
 [[dialogue]]
-speaker = "セナリィ"
+speaker_original = "セナリィ"
+speaker_translation = "세나리"
 original = "「ファ！？\u3000ちょっと、カッターをブンブンするんじゃありませんわ！\u3000貴方、ケガしたらどうするんですの！」"
 translation = "「화!? 잠깐, 커터칼을 붕붕 휘두르는 건 안돼요! 당신, 다치면 어쩔 셈인가요!」"
 
 [[dialogue]]
-speaker = "セナリィ"
+speaker_original = "セナリィ"
+speaker_translation = "세나리"
 original = "「使い終わったらちゃんと刃をしまっておくのですわ。工作の時のエチケットです！」"
 translation = "「다 쓰고 나면 제대로 칼날을 넣어 두는 거예요. 공작 시간의 에티켓입니다!」"
 
 [[dialogue]]
-speaker = "男の子"
+speaker_original = "男の子"
+speaker_translation = "남자아이"
 original = "「はーい！」"
 translation = "「네~!」"
 
 [[dialogue]]
-speaker = "セナリィ"
+speaker_original = "セナリィ"
+speaker_translation = "세나리"
 original = "「ガキンチョは危なっかしくて仕方ありませんわね……あら、あの子……？」"
 translation = "「꼬맹이들은 위태로워서 어쩔 수가 없네요…… 어라, 저 아이는……?」"
 
 [[dialogue]]
-speaker = "女の子"
+speaker_original = "女の子"
+speaker_translation = "여자아이"
 original = "「ぅー……ぜんぜん、きれない……んー……！」"
 translation = "「으으…… 전혀, 안 잘려…… 으응……!」"
 
 [[dialogue]]
-speaker = "セナリィ"
+speaker_original = "セナリィ"
+speaker_translation = "세나리"
 original = "「貴女、ハサミが紙に噛んでいませんわよ？」"
 translation = "「얘야, 가위가 종이를 씹고 있잖니?」"
 
 [[dialogue]]
-speaker = "女の子"
+speaker_original = "女の子"
+speaker_translation = "여자아이"
 original = "「なんでー？\u3000どーしてこれ、みんなみたいにきれないの？」"
 translation = "「왜애-? 어째서 이건 다른 애들처럼 안 잘려?」"
 
 [[dialogue]]
-speaker = "セナリィ"
+speaker_original = "セナリィ"
+speaker_translation = "세나리"
 original = "「ハサミが合っていないんですわ。貴女、利き腕は？」"
 translation = "「가위가 맞지 않는 거예요. 얘야, 잘 쓰는 손은?」"
 
 [[dialogue]]
-speaker = "女の子"
+speaker_original = "女の子"
+speaker_translation = "여자아이"
 original = "「ききうで？」"
 translation = "「잘 쓰는 손?」"
 
 [[dialogue]]
-speaker = "セナリィ"
+speaker_original = "セナリィ"
+speaker_translation = "세나리"
 original = "「……スプーンを持つのは、どっちの手です？」"
 translation = "「……숟가락을 드는 건 어느 쪽 손이죠?」"
 
 [[dialogue]]
-speaker = "女の子"
+speaker_original = "女の子"
+speaker_translation = "여자아이"
 original = "「こっち！」"
 translation = "「이쪽!」"
 
 [[dialogue]]
-speaker = "セナリィ"
+speaker_original = "セナリィ"
+speaker_translation = "세나리"
 original = "「やっぱり。そのハサミは右利き用です。ほら、こちらのハサミを使うんですわ」"
 translation = "「역시나. 그 가위는 오른손잡이용이에요. 자, 이 가위를 쓰는 거예요」"
 
 [[dialogue]]
-speaker = "女の子"
+speaker_original = "女の子"
+speaker_translation = "여자아이"
 original = "「おてほん、みせて！」"
 translation = "「시범 보여 줘!」"
 
 [[dialogue]]
-speaker = "セナリィ"
+speaker_original = "セナリィ"
+speaker_translation = "세나리"
 original = "「手間がかかりますわね……私、両利きでよかったですわ。ほら。左手でハサミをこう、持って……チョキチョキチョキ、と♪」"
 translation = "「손이 많이 가네요…… 제가 양손잡이라 다행이에요. 자. 왼손으로 가위를 이렇게 잡고…… 싹둑싹둑싹둑, 하고♪」"
 
 [[dialogue]]
-speaker = "女の子"
+speaker_original = "女の子"
+speaker_translation = "여자아이"
 original = "「わ～……！」"
 translation = "「와아……!」"
 
 [[dialogue]]
-speaker = "セナリィ"
+speaker_original = "セナリィ"
+speaker_translation = "세나리"
 original = "「……貴女、なぜ私の手元でなく、顔を見るんですの？」"
 translation = "「……얘야, 왜 내 손이 아니라 얼굴을 보는 건가요?」"
 
 [[dialogue]]
-speaker = "女の子"
+speaker_original = "女の子"
+speaker_translation = "여자아이"
 original = "「おめめ！\u3000みぎとひだりで、いろがちがう！\u3000なんでー？」"
 translation = "「눈동자! 오른쪽이랑 왼쪽이랑 색깔이 달라! 왜애-?」"
 
 [[dialogue]]
-speaker = "セナリィ"
+speaker_original = "セナリィ"
+speaker_translation = "세나리"
 original = "「話題の飛躍！\u3000あぁもう、だからガキンチョは嫌いなんですわ～！」"
 translation = "「화제의 비약! 아아 정말, 이래서 꼬맹이는 싫어요~!」"
 
 [[dialogue]]
-speaker = "シャロン"
+speaker_original = "シャロン"
+speaker_translation = "샤론"
 original = "「本日はありがとうございました！\u3000子どもたちもとても喜んでおりましたよ」"
 translation = "「오늘은 감사했습니다! 아이들도 무척 기뻐했어요」"
 
 [[dialogue]]
-speaker = "セナリィ"
+speaker_original = "セナリィ"
+speaker_translation = "세나리"
 original = "「クッソ疲れましたわ……銃撃戦の方がどんなに楽か……」"
 translation = "「더럽게 힘들었어요…… 총격전이 훨씬 편하겠어……」"
 
 [[dialogue]]
-speaker = "セナリィ"
+speaker_original = "セナリィ"
+speaker_translation = "세나리"
 original = "「ともかくこれでわかったでしょう。私には向いておりませんので、今後はこのような依頼は控えてほしいですわ……」"
 translation = "「어쨌든 이걸로 알았겠죠. 저에겐 맞지 않으니 앞으로 이런 의뢰는 삼가 주셨으면 좋겠어요……」"
 
 [[dialogue]]
-speaker = "シャロン"
+speaker_original = "シャロン"
+speaker_translation = "샤론"
 original = "「そんなことは。子どもたち、セナリィさまにとても懐いていたではありませんか。ね、会長さま？」"
 translation = "「그렇지 않아요. 아이들이 세나리 님을 무척 따르지 않았나요. 그쵸, 회장님?」"
 
@@ -219,37 +258,44 @@ original = "大人気だったね"
 translation = "인기 만점이었지"
 
 [[dialogue]]
-speaker = "セナリィ"
+speaker_original = "セナリィ"
+speaker_translation = "세나리"
 original = "「会長様までそんな世迷い事を……」"
 translation = "「회장님까지 그런 잠꼬대 같은 소리를……」"
 
 [[dialogue]]
-speaker = "女の子"
+speaker_original = "女の子"
+speaker_translation = "여자아이"
 original = "「あー、いた～！\u3000きれいなおめめのおねーさん！\u3000これ、あげる！」"
 translation = "「아, 있다~! 예쁜 눈동자 누나! 이거 줄게!」"
 
 [[dialogue]]
-speaker = "セナリィ"
+speaker_original = "セナリィ"
+speaker_translation = "세나리"
 original = "「え……？\u3000これは貴女が頑張って工作したおもちゃでしょう？\u3000ちゃんとお家に持って帰るべきですわ」"
 translation = "「에……? 이건 네가 열심히 만든 장난감이잖니? 제대로 집에 가지고 돌아가야 하는 거예요」"
 
 [[dialogue]]
-speaker = "女の子"
+speaker_original = "女の子"
+speaker_translation = "여자아이"
 original = "「ぷれぜんと！\u3000おねーさんにあげる！\u3000アカとキイロでぬったの。おねーさんのおめめとおなじいろ！」"
 translation = "「선물! 언니한테 줄게! 빨간색이랑 노란색으로 칠했어. 언니 눈이랑 똑같은 색이야!」"
 
 [[dialogue]]
-speaker = "セナリィ"
+speaker_original = "セナリィ"
+speaker_translation = "세나리"
 original = "「…………」"
 translation = "「…………」"
 
 [[dialogue]]
-speaker = "セナリィ"
+speaker_original = "セナリィ"
+speaker_translation = "세나리"
 original = "「……今日は散々でしたわ。荒事で銃がぶっ放せるかと思いきや、やかましい子どもの世話にかかりっきり」"
 translation = "「……오늘은 엉망진창이었어요. 거친 일로 총이나 빵빵 쏠 수 있을까 싶었더니, 시끄러운 꼬맹이 뒤처리만 잔뜩 하고」"
 
 [[dialogue]]
-speaker = "セナリィ"
+speaker_original = "セナリィ"
+speaker_translation = "세나리"
 original = "「おまけにこんな、お金にもならない贈り物まで……」"
 translation = "「게다가 이런, 돈도 안 되는 선물까지……」"
 
@@ -259,27 +305,32 @@ original = "でも悪い気はしなかったんじゃない？"
 translation = "그래도 기분이 나쁘지는 않았지?"
 
 [[dialogue]]
-speaker = "セナリィ"
+speaker_original = "セナリィ"
+speaker_translation = "세나리"
 original = "「……そうですわね。ああいうひと時も悪くないかも、なんて思っている自分がいることも否定はしませんわ」"
 translation = "「……그렇네요. 저런 시간도 나쁘지 않을지도, 라고 생각하는 자신이 있다는 것도 부정하진 않겠어요」"
 
 [[dialogue]]
-speaker = "セナリィ"
+speaker_original = "セナリィ"
+speaker_translation = "세나리"
 original = "「会長様とのお付き合いで私、だいぶヌルい性格に変わってきてしまっているようですわ。はあ、悪の総帥が聞いて呆れます」"
 translation = "「회장님과 사귀면서 저, 꽤 무른 성격으로 변해버린 모양이에요. 하아, 악의 총수가 들으면 기가 막히겠네요」"
 
 [[dialogue]]
-speaker = "セナリィ"
+speaker_original = "セナリィ"
+speaker_translation = "세나리"
 original = "「でも……ええ。本当に悪くないですわね。星眼のせいで両親に売られた私ですが……この瞳を綺麗だと言ってもらえました」"
 translation = "「하지만…… 네. 정말 나쁘지 않네요. 성안 때문에 부모에게 팔려 간 저입니다만…… 이 눈을 예쁘다고 들어보긴 처음이에요」"
 
 [[dialogue]]
-speaker = "セナリィ"
+speaker_original = "セナリィ"
+speaker_translation = "세나리"
 original = "「生まれて初めてですわね。この目を持ってよかったと思えたのは」"
 translation = "「태어나서 처음이에요. 이 눈을 가지고 태어나길 잘했다고 생각한 건」"
 
 [[dialogue]]
-speaker = "セナリィ"
+speaker_original = "セナリィ"
+speaker_translation = "세나리"
 original = "「いつか私も、自分の子供を愛する時が来るのでしょうか。親に捨てられ、武器商人の元で育った、苗字もない女でも……」"
 translation = "「언젠가 저도, 제 아이를 사랑할 때가 올까요. 부모에게 버려지고, 무기 상인 밑에서 자란, 성씨도 없는 여자라도……」"
 
@@ -289,12 +340,14 @@ original = "いつか俺と同じ苗字を名乗って欲しいな"
 translation = "언젠가 나랑 같은 성을 써줬으면 좋겠어"
 
 [[dialogue]]
-speaker = "セナリィ"
+speaker_original = "セナリィ"
+speaker_translation = "세나리"
 original = "「……フフ♪\u3000会長様ってば、ずいぶんと気が早いんですのね？\u3000ですが……ええ、そういう未来もあるかもしれません<emoji=heart04>」"
 translation = "「……후후♪ 회장님도 참, 성미도 급하시네요? 하지만…… 네, 그런 미래도 있을지 모르겠어요<emoji=heart04>」"
 
 [[dialogue]]
-speaker = "セナリィ"
+speaker_original = "セナリィ"
+speaker_translation = "세나리"
 original = "「──でも次からは！\u3000今日みたいなのではなく、ちゃんと私向けのガッポリ稼げる仕事のご紹介、頼みますわよ！」"
 translation = "「──하지만 다음부터는! 오늘 같은 거 말고, 제대로 저한테 맞는 떼돈 벌 수 있는 일거리 소개, 부탁드려요!」"
 
@@ -304,12 +357,14 @@ original = "あ、そうだ。今日の報酬を払わなきゃ！"
 translation = "아, 맞다. 오늘 보수를 줘야지!"
 
 [[dialogue]]
-speaker = "セナリィ"
+speaker_original = "セナリィ"
+speaker_translation = "세나리"
 original = "「……今日の分はよろしいですわ」"
 translation = "「……오늘 분은 됐어요」"
 
 [[dialogue]]
-speaker = "セナリィ"
+speaker_original = "セナリィ"
+speaker_translation = "세나리"
 original = "「だってもう──いただきましたもの！」"
 translation = "「그야 이미── 받았는걸요!」"
 

@@ -4,52 +4,62 @@ original = "魔法少女４人の奮戦により、<ruby>悪魔<rt>アラクネ<
 translation = "마법 소녀 4명의 분전으로 <ruby>악마<rt>아라크네</rt></ruby>들과의 전투는 마침내 가경에 접어들고 있었다."
 
 [[dialogue]]
-speaker = "アラクネ"
+speaker_original = "アラクネ"
+speaker_translation = "아라크네"
 original = "「――っ！」"
 translation = "「──윽!」"
 
 [[dialogue]]
-speaker = "花織"
+speaker_original = "花織"
+speaker_translation = "카오리"
 original = "「行ける！\u3000これなら勝てるよ！」"
 translation = "「갈 수 있어! 이대로라면 이길 수 있어!」"
 
 [[dialogue]]
-speaker = "陽彩"
+speaker_original = "陽彩"
+speaker_translation = "히이로"
 original = "「ぼくの計算でも、残っている力でこのまま押し切れるはずだ！」"
 translation = "「나의 계산으로도 남은 힘으로 이대로 밀어붙일 수 있을 거다!」"
 
 [[dialogue]]
-speaker = "いろは"
+speaker_original = "いろは"
+speaker_translation = "이로하"
 original = "「なら、一気に畳みかけよう！」"
 translation = "「그럼 단숨에 몰아붙이자!」"
 
 [[dialogue]]
-speaker = "ここあ"
+speaker_original = "ここあ"
+speaker_translation = "코코아"
 original = "「それじゃあ、<b>アレ</b>をやっちゃいますか～！」"
 translation = "「그럼 <b>그거</b> 해버릴까요~?」"
 
 [[dialogue]]
-speaker = "いろは"
+speaker_original = "いろは"
+speaker_translation = "이로하"
 original = "「今度は陽彩ちゃんも一緒に！」"
 translation = "「이번에는 아키사짱도 같이!」"
 
 [[dialogue]]
-speaker = "陽彩"
+speaker_original = "陽彩"
+speaker_translation = "히이로"
 original = "「ああ、４人で行くぞ！」"
 translation = "「아아, 넷이서 간다!」"
 
 [[dialogue]]
-speaker = "花織"
+speaker_original = "花織"
+speaker_translation = "카오리"
 original = "「息を合わせて！」"
 translation = "「호흡을 맞춰서!」"
 
 [[dialogue]]
-speaker = "ここあ"
+speaker_original = "ここあ"
+speaker_translation = "코코아"
 original = "「せ～のっ！」"
 translation = "「하나~ 둘!」"
 
 [[dialogue]]
-speaker = "４人"
+speaker_original = "４人"
+speaker_translation = "4명"
 original = "「ユニゾン！！！」"
 translation = "「유니존!!!」"
 

@@ -1,90 +1,108 @@
 [[dialogue]]
-speaker = "ネーゼマイン"
+speaker_original = "ネーゼマイン"
+speaker_translation = "네제마인"
 original = "「これでトドメ──！」"
 translation = "「이걸로 끝──!」"
 
 [[dialogue]]
-speaker = "ヒルディオーネ"
+speaker_original = "ヒルディオーネ"
+speaker_translation = "힐디오네"
 original = "「ユニゾンアタック、いきますわよっ！」"
 translation = "「유니존 어택, 갑니다!」"
 
 [[dialogue]]
-speaker = "セナリィ"
+speaker_original = "セナリィ"
+speaker_translation = "세나리"
 original = "「──ベットショット・ハイローラー！！」"
 translation = "「──벳 샷 하이 롤러!!」"
 
 [[dialogue]]
-speaker = "ダッチ"
+speaker_original = "ダッチ"
+speaker_translation = "더치"
 original = "「う、うぐぅぅうぅっ──！？」"
 translation = "「우, 우구우우우우──!?」"
 
 [[dialogue]]
-speaker = "ダッチ"
+speaker_original = "ダッチ"
+speaker_translation = "더치"
 original = "「み、見事です……私の子ウサギたち……！」"
 translation = "「버, 멋집니다…… 나의 아기 토끼들……!」"
 
 [[dialogue]]
-speaker = "ヒルディオーネ"
+speaker_original = "ヒルディオーネ"
+speaker_translation = "힐디오네"
 original = "「もう貴方の虜囚ではありませんのよ！」"
 translation = "「더는 당신의 포로가 아니라고요!」"
 
 [[dialogue]]
-speaker = "ネーゼマイン"
+speaker_original = "ネーゼマイン"
+speaker_translation = "네제마인"
 original = "「流石にここまで痛めつければ限界みたいだね？」"
 translation = "「역시 이 정도로 손봐줬으면 한계인 모양이네?」"
 
 [[dialogue]]
-speaker = "ダッチ"
+speaker_original = "ダッチ"
+speaker_translation = "더치"
 original = "「うぅ……改造アステラを維持するだけの力がもう……本日限りでラビットガーデンは閉店ですね……」"
 translation = "「으으…… 개조 아스테라를 유지할 힘이 더는…… 오늘부로 래빗 가든은 폐점이군요……」"
 
 [[dialogue]]
-speaker = "セナリィ"
+speaker_original = "セナリィ"
+speaker_translation = "세나리"
 original = "「アステラカジノがどんどん壊れていってますわ……！」"
 translation = "「아스테라 카지노가 점점 부서지고 있어요……!」"
 
 [[dialogue]]
-speaker = "ヒルディオーネ"
+speaker_original = "ヒルディオーネ"
+speaker_translation = "힐디오네"
 original = "「これにて解決ですわね！\u3000早く一般の方々を連れて脱出しましょう！」"
 translation = "「이걸로 해결됐네요! 어서 일반인분들을 데리고 탈출해요!」"
 
 [[dialogue]]
-speaker = "ダッチ"
+speaker_original = "ダッチ"
+speaker_translation = "더치"
 original = "「それには及びません……ここが壊れれば、中にいる人々は皆、自動的に九浄家のカジノへ戻るでしょう……ご安心くださいませ……」"
 translation = "「그럴 필요는 없습니다…… 이곳이 무너지면 안에 있는 사람들은 모두 자동으로 쿠죠 가문의 카지노로 돌아가게 될 겁니다…… 안심하십시오……」"
 
 [[dialogue]]
-speaker = "ネーゼマイン"
+speaker_original = "ネーゼマイン"
+speaker_translation = "네제마인"
 original = "「じゃあ私たちはダッチを仕留めることだけ考えればいいってわけだね？」"
 translation = "「그럼 우리는 더치를 처리하는 것만 생각하면 된다는 거네?」"
 
 [[dialogue]]
-speaker = "ダッチ"
+speaker_original = "ダッチ"
+speaker_translation = "더치"
 original = "「フフ……それだけはお断りです！\u3000どこかで傷を癒し、いずれまた理想のバニーであふれた世界を、私は作らねばならないのですから！」"
 translation = "「후후…… 그것만은 거절하겠습니다! 어딘가에서 상처를 치유하고, 언젠가 다시 이상의 바니걸로 가득한 세계를 저는 만들어야 하니까요!」"
 
 [[dialogue]]
-speaker = "ヒルディオーネ"
+speaker_original = "ヒルディオーネ"
+speaker_translation = "힐디오네"
 original = "「うぅっ！？\u3000急に眩しくっ──前が見えませんわ……！」"
 translation = "「으윽!? 갑자기 눈부셔── 앞이 보이지 않아요……!」"
 
 [[dialogue]]
-speaker = "セナリィ"
+speaker_original = "セナリィ"
+speaker_translation = "세나리"
 original = "「逃げるんじゃねぇですわ！\u3000戻ってきなさい！」"
 translation = "「도망치지 마세요거든요! 돌아오라고요!」"
 
 [[dialogue]]
-speaker = "ダッチ"
+speaker_original = "ダッチ"
+speaker_translation = "더치"
 original = "「フフ。可愛いセナリィウサギ様の頼みでも、こればかりは聞けませんよ」"
 translation = "「후후. 귀여운 세나리 토끼 님의 부탁이라도 이것만은 들어줄 수 없군요.」"
 
 [[dialogue]]
-speaker = "ダッチ"
+speaker_original = "ダッチ"
+speaker_translation = "더치"
 original = "「今回は私の完敗ですが……いずれまたお会いすることもあるでしょう。この『欲望』が尽きぬ限り、私は不滅なのです！」"
 translation = "「이번에는 저의 완패입니다만…… 언젠가 다시 만날 날도 있겠지요. 이 『욕망』이 다하지 않는 한, 나는 불멸입니다!」"
 
 [[dialogue]]
-speaker = "ダッチ"
+speaker_original = "ダッチ"
+speaker_translation = "더치"
 original = "「さて──お別れの前に１つだけよろしいですか？\u3000緋宮会長、語尾に『ぴょん』を付けて私の名前を呼んでいただけませんか？」"
 translation = "「자── 작별하기 전에 한 가지만 괜찮겠습니까? 히노미야 회장, 어미에 『뿅』을 붙여서 제 이름을 불러주지 않겠습니까?」"
 
@@ -94,27 +112,32 @@ original = "呼ぶわけないだろ！\u3000この野郎！！"
 translation = "부를 리가 없잖아! 이 자식아!!"
 
 [[dialogue]]
-speaker = "ダッチ"
+speaker_original = "ダッチ"
+speaker_translation = "더치"
 original = "「フハハハハ！\u3000では、そちらも次の楽しみに取っておきましょう！」"
 translation = "「후하하하하! 그럼 그것도 다음 즐거움으로 남겨두도록 하죠!」"
 
 [[dialogue]]
-speaker = "ダッチ"
+speaker_original = "ダッチ"
+speaker_translation = "더치"
 original = "「さらばです、皆様！\u3000また会う日まで──！！」"
 translation = "「작별입니다, 여러분! 다시 만날 날까지──!!」"
 
 [[dialogue]]
-speaker = "ヒルディオーネ"
+speaker_original = "ヒルディオーネ"
+speaker_translation = "힐디오네"
 original = "「本当に二度と会いたくないですわ……！？」"
 translation = "「정말로 두 번 다시 만나고 싶지 않아요……!?」"
 
 [[dialogue]]
-speaker = "ダッチ"
+speaker_original = "ダッチ"
+speaker_translation = "더치"
 original = "「ああ、そうです。勝者には敬意を表して……その服はプレゼントいたしますよ」"
 translation = "「아아, 그렇군요. 승자에게는 경의를 표하며…… 그 옷은 선물로 드리겠습니다.」"
 
 [[dialogue]]
-speaker = "ダッチ"
+speaker_original = "ダッチ"
+speaker_translation = "더치"
 original = "「どうか日々の戦闘で着てあげてくださいませ。退屈な世界を彩るバニーガールは、いくらあってもよいものですから！\u3000では、お達者で！」"
 translation = "「부디 매일 전투할 때 입어주시길. 지루한 세계를 수놓는 바니걸은 많을수록 좋은 법이니까요! 그럼, 몸 건강히!」"
 

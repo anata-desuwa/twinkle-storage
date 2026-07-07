@@ -4,12 +4,14 @@ original = "第２話,ラティエと守護天使,P"
 translation = "제2화, 라티에와 수호천사, P"
 
 [[dialogue]]
-speaker = "ラティエ"
+speaker_original = "ラティエ"
+speaker_translation = "라티에"
 original = "「しかし、面白い偶然もあるものだ。休日の喫茶店で相席になるとはね」"
 translation = "「하지만 재미있는 우연도 다 있군. 휴일 카페에서 합석하게 될 줄이야」"
 
 [[dialogue]]
-speaker = "ラティエ"
+speaker_original = "ラティエ"
+speaker_translation = "라티에"
 original = "「きみ、息苦しかったんじゃないか？\u3000なにせ私はこんな見た目でも、一応は学園長だからね」"
 translation = "「자네, 숨 막히진 않았나? 어쨌든 난 이런 모습이어도 일단은 학원장이니까 말이야」"
 
@@ -19,12 +21,14 @@ original = "いいえ。コーヒーご馳走様でした"
 translation = "아뇨. 커피 잘 마셨습니다"
 
 [[dialogue]]
-speaker = "ラティエ"
+speaker_original = "ラティエ"
+speaker_translation = "라티에"
 original = "「なに、気にするな。教え子に財布を出させる教師がどこにいる。また機会があれば語らおうじゃないか」"
 translation = "「뭐, 신경 쓰지 마라. 제자에게 지갑을 열게 하는 교사가 어디 있나. 또 기회가 되면 이야기 나누자고」"
 
 [[dialogue]]
-speaker = "ラティエ"
+speaker_original = "ラティエ"
+speaker_translation = "라티에"
 original = "「さて──と。私はこれから街を散策するが、きみはどうする？」"
 translation = "「그럼──. 난 이제부터 거리를 산책할 건데, 자네는 어쩔 건가?」"
 
@@ -34,102 +38,122 @@ original = "ご一緒してもいいですか？"
 translation = "함께 가도 될까요?"
 
 [[dialogue]]
-speaker = "ラティエ"
+speaker_original = "ラティエ"
+speaker_translation = "라티에"
 original = "「フフ、きみは本当に変わっているな。普通、学生は教師と歩くなど嫌がるものだろうに」"
 translation = "「후후, 자네는 정말 특이하군. 보통 학생은 교사와 걷는 걸 꺼리기 마련인데 말이지」"
 
 [[dialogue]]
-speaker = "ラティエ"
+speaker_original = "ラティエ"
+speaker_translation = "라티에"
 original = "「だが嬉しいよ。私は肩書こそ学園長だが、本業は旅人だと思っているからね」"
 translation = "「하지만 기뻐. 난 직함이야 학원장이지만 본업은 여행자라고 생각하고 있으니까」"
 
 [[dialogue]]
-speaker = "ラティエ"
+speaker_original = "ラティエ"
+speaker_translation = "라티에"
 original = "「では行こうか。久しぶりの人間界が楽しみだ。旅の土産話でもしながら歩こうじゃないか」"
 translation = "「그럼 가볼까. 오랜만의 인간계가 기대되는군. 여행담이라도 나누면서 걷자고」"
 
 [[dialogue]]
-speaker = "ラティエ"
+speaker_original = "ラティエ"
+speaker_translation = "라티에"
 original = "「この辺りはだいぶ様変わりしているね。１年も離れてはいないはずなのだが」"
 translation = "「이 주변은 꽤 많이 변했군. 1년도 채 안 비웠을 텐데 말이야」"
 
 [[dialogue]]
-speaker = "ラティエ"
+speaker_original = "ラティエ"
+speaker_translation = "라티에"
 original = "「む──あの店もなくなっているのか。困ったな、贔屓にしていたのだがね」"
 translation = "「음── 저 가게도 없어졌나. 곤란하군, 단골이었는데 말이지」"
 
 [[dialogue]]
-speaker = "ラティエ"
+speaker_original = "ラティエ"
+speaker_translation = "라티에"
 original = "「やはり人間界は変化が早いな……来るたびに大きく見た目が変わる」"
 translation = "「역시 인간계는 변화가 빠르군…… 올 때마다 겉모습이 크게 바뀌어 있어」"
 
 [[dialogue]]
-speaker = "ラティエ"
+speaker_original = "ラティエ"
+speaker_translation = "라티에"
 original = "「天界も魔界も、幾度もさすらったものだが……こと『変化』という一点に絞れば、人間界は特に慌ただしい」"
 translation = "「천계도 마계도 몇 번이고 유랑했지만…… '변화'라는 한 점에만 국한하자면 인간계는 특히나 소란스럽지」"
 
 [[dialogue]]
-speaker = "ラティエ"
+speaker_original = "ラティエ"
+speaker_translation = "라티에"
 original = "「……おや、あそこにいるのは？」"
 translation = "「……어라, 저기에 있는 건?」"
 
 [[dialogue]]
-speaker = "マグダレナ"
+speaker_original = "マグダレナ"
+speaker_translation = "막달레나"
 original = "「あ、会長さま……？」"
 translation = "「아, 회장님……?」"
 
 [[dialogue]]
-speaker = "アルモタヘル"
+speaker_original = "アルモタヘル"
+speaker_translation = "아르모타헬"
 original = "「人の子か。奇遇であるな。それに──」"
 translation = "「사람의 아이인가. 기구한 인연이로다. 게다가──」"
 
 [[dialogue]]
-speaker = "ラティエ"
+speaker_original = "ラティエ"
+speaker_translation = "라티에"
 original = "「あなた方が、義体を借りて暮らすという守護天使殿か。なるほど……確かに普通の天使と見分けがつかん」"
 translation = "「자네들이 의체를 빌려 살고 있다는 수호천사 공인가. 과연…… 확실히 일반 천사와 구분이 안 가는군」"
 
 [[dialogue]]
-speaker = "マグダレナ"
+speaker_original = "マグダレナ"
+speaker_translation = "막달레나"
 original = "「お初にお目にかかります。あなたがラティエさまですね？\u3000お噂はかねがね聞いておりますよ」"
 translation = "「처음 뵙겠습니다. 당신이 라티에 님이시군요? 소문은 익히 들었습니다」"
 
 [[dialogue]]
-speaker = "ラティエ"
+speaker_original = "ラティエ"
+speaker_translation = "라티에"
 original = "「フ、いい噂かな？」"
 translation = "「후, 좋은 소문인가?」"
 
 [[dialogue]]
-speaker = "アルモタヘル"
+speaker_original = "アルモタヘル"
+speaker_translation = "아르모타헬"
 original = "「喋る人の子によって違うな。雄々しく猛々しい武人という者もあらば、気まぐれにどこかへ消える根無し草だと言う者もいる」"
 translation = "「말하는 사람의 아이에 따라 다르다. 늠름하고 용맹한 무인이라는 자도 있는가 하면, 제멋대로 어딘가로 사라지는 떠돌이라고 하는 자도 있더군」"
 
 [[dialogue]]
-speaker = "ラティエ"
+speaker_original = "ラティエ"
+speaker_translation = "라티에"
 original = "「フフ、どちらも当たっている。して──《境界》と《命脈》のお２人は、この街で何を？」"
 translation = "「후후, 둘 다 맞군. 그래서── 《경계》와 《명맥》 두 분은 이 거리에서 무엇을?」"
 
 [[dialogue]]
-speaker = "ラティエ"
+speaker_original = "ラティエ"
+speaker_translation = "라티에"
 original = "「お２人とも真剣な顔をしておられた。さぞや崇高な目的があったように、私には映ったのだが……」"
 translation = "「두 분 모두 진지한 표정을 짓고 계시더군. 필시 숭고한 목적이 있는 것처럼 내게 비쳤는데……」"
 
 [[dialogue]]
-speaker = "マグダレナ"
+speaker_original = "マグダレナ"
+speaker_translation = "막달레나"
 original = "「私はレンタルビデオ店をめぐっておりました。先週リリースされたドラマシリーズの最新作をようやく借りられたのです♪」"
 translation = "「저는 비디오 대여점을 돌고 있었답니다. 지난주 출시된 드라마 시리즈 최신작을 드디어 빌릴 수 있었거든요♪」"
 
 [[dialogue]]
-speaker = "ラティエ"
+speaker_original = "ラティエ"
+speaker_translation = "라티에"
 original = "「ほ、ほう？」"
 translation = "「허, 허어?」"
 
 [[dialogue]]
-speaker = "アルモタヘル"
+speaker_original = "アルモタヘル"
+speaker_translation = "아르모타헬"
 original = "「我はステーキレストランを３軒、食べ歩いていた。これから４店目へ赴くところだ」"
 translation = "「짐은 스테이크 레스토랑을 세 군데 들러 먹으며 걷고 있었다. 이제 네 번째 가게로 향하려던 참이다」"
 
 [[dialogue]]
-speaker = "ラティエ"
+speaker_original = "ラティエ"
+speaker_translation = "라티에"
 original = "「……そ、そうか。意外と俗っぽい返事が来たな……」"
 translation = "「……그, 그래. 의외로 세속적인 대답이 돌아오는군……」"
 
@@ -139,22 +163,26 @@ original = "（ラティエさんが動揺している……！？）"
 translation = "(라티에 씨가 당황하고 있어……!?)"
 
 [[dialogue]]
-speaker = "ラティエ"
+speaker_original = "ラティエ"
+speaker_translation = "라티에"
 original = "「てっきりリクリエに抗するための集いとばかり……だが、いや、このくらい穏やかに構えた方が良いのかもしれないな」"
 translation = "「틀림없이 리크리에에 대항하기 위한 모임이라고만…… 하지만 아니, 이 정도로 평온하게 대처하는 편이 좋을지도 모르겠군」"
 
 [[dialogue]]
-speaker = "ラティエ"
+speaker_original = "ラティエ"
+speaker_translation = "라티에"
 original = "「此度のリクリエを乗り切るには、三界の力だけでは足りないだろう。守護天使殿が人間に味方してくれるのであれば心強い」"
 translation = "「이번 리크리에를 극복하려면 삼계의 힘만으로는 부족하겠지. 수호천사 공이 인간의 편이 되어준다면 든든하겠군」"
 
 [[dialogue]]
-speaker = "マグダレナ"
+speaker_original = "マグダレナ"
+speaker_translation = "막달레나"
 original = "「そう言っていただけると恐縮です。ところでラティエさまはどのようなご用事で？」"
 translation = "「그렇게 말씀해 주시니 송구스럽습니다. 그런데 라티에 님은 어떤 용무로 오셨나요?」"
 
 [[dialogue]]
-speaker = "ラティエ"
+speaker_original = "ラティエ"
+speaker_translation = "라티에"
 original = "「私は買い物を。この時季は化粧品の新作が出る。冷やかしだけでもしていこうかと」"
 translation = "「난 쇼핑을 좀. 이 시기에는 화장품 신제품이 나오거든. 구경이라도 하고 갈까 해서」"
 
@@ -164,52 +192,62 @@ original = "買い物って、化粧品だったんですか？"
 translation = "쇼핑이라니, 화장품이었나요?"
 
 [[dialogue]]
-speaker = "ラティエ"
+speaker_original = "ラティエ"
+speaker_translation = "라티에"
 original = "「きみは私のことを武骨な人間だと思っていないか？\u3000まあ、否定はしないが……」"
 translation = "「자네는 나를 투박한 사람이라고 생각하지 않았나? 뭐, 부정은 않겠다만……」"
 
 [[dialogue]]
-speaker = "ラティエ"
+speaker_original = "ラティエ"
+speaker_translation = "라티에"
 original = "「これでも三界を股にかけた旅人だからね。向かう土地によって気候は違うだろう？」"
 translation = "「이래 봬도 삼계를 넘나드는 여행자니까 말이야. 향하는 땅에 따라 기후가 다르지 않겠나?」"
 
 [[dialogue]]
-speaker = "ラティエ"
+speaker_original = "ラティエ"
+speaker_translation = "라티에"
 original = "「肌のコンディションは精神と健康に直結する。気温やら湿度やら、ちゃんと対策しておかないと長旅はできんものだ」"
 translation = "「피부 컨디션은 정신과 건강에 직결된다. 기온이라든가 습도라든가, 제대로 대책을 세워두지 않으면 긴 여행은 할 수 없는 법이지」"
 
 [[dialogue]]
-speaker = "マグダレナ"
+speaker_original = "マグダレナ"
+speaker_translation = "막달레나"
 original = "「まぁ……そうなのですね。お化粧とはそんなにも大切なのですか。私、使ったことがありません」"
 translation = "「어머…… 그렇군요. 화장이 그렇게나 중요한 것이었나요. 저, 써 본 적이 없답니다」"
 
 [[dialogue]]
-speaker = "アルモタヘル"
+speaker_original = "アルモタヘル"
+speaker_translation = "아르모타헬"
 original = "「我もそうだ。そも、食えもしないものになぜ金を出す？\u3000人の子には変わった者も多いが、貴女も相当なようだな」"
 translation = "「짐도 그렇다. 애초에 먹지도 못할 것에 왜 돈을 내지? 사람의 아이 중엔 특이한 자도 많다만, 귀공도 상당한 모양이군」"
 
 [[dialogue]]
-speaker = "ラティエ"
+speaker_original = "ラティエ"
+speaker_translation = "라티에"
 original = "「こ、ここまで意識が足りないとは……お２人の義体は一般の天使と変わらないと聞いているのに」"
 translation = "「이, 이 정도로 의식이 부족할 줄이야…… 두 분의 의체는 일반 천사와 다를 바 없다고 들었는데 말이지」"
 
 [[dialogue]]
-speaker = "ラティエ"
+speaker_original = "ラティエ"
+speaker_translation = "라티에"
 original = "「ちょうど良い機会だ。私からお２人に化粧品を贈ろう。守護天使の肌が荒れていては威厳もあったものではない」"
 translation = "「마침 좋은 기회군. 내가 두 분께 화장품을 선물하겠네. 수호천사의 피부가 거칠어서야 위엄도 서지 않을 테니까」"
 
 [[dialogue]]
-speaker = "マグダレナ"
+speaker_original = "マグダレナ"
+speaker_translation = "막달레나"
 original = "「まあ……お気遣いありがとうございます」"
 translation = "「세상에…… 배려해 주셔서 감사합니다」"
 
 [[dialogue]]
-speaker = "アルモタヘル"
+speaker_original = "アルモタヘル"
+speaker_translation = "아르모타헬"
 original = "「いや、我はステーキを……」"
 translation = "「아니, 짐은 스테이크를……」"
 
 [[dialogue]]
-speaker = "ラティエ"
+speaker_original = "ラティエ"
+speaker_translation = "라티에"
 original = "「当然、きみも来たまえよ」"
 translation = "「당연히 자네도 오게나」"
 
@@ -219,12 +257,14 @@ original = "俺もですか！？"
 translation = "저도요!?"
 
 [[dialogue]]
-speaker = "ラティエ"
+speaker_original = "ラティエ"
+speaker_translation = "라티에"
 original = "「今の時代、男もファンデーションくらい塗っても罰は当たらんよ。なあに、物は試しというやつだ」"
 translation = "「요즘 시대엔 남자도 파운데이션 정도 바른다고 벌 받지 않아. 뭐, 밑져야 본전이라는 거다」"
 
 [[dialogue]]
-speaker = "ラティエ"
+speaker_original = "ラティエ"
+speaker_translation = "라티에"
 original = "「さぁ──行こうか？」"
 translation = "「자── 가볼까?」"
 

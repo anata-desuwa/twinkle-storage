@@ -1,360 +1,432 @@
 [[dialogue]]
-speaker = "梨緒"
+speaker_original = "梨緒"
+speaker_translation = "리오"
 original = "「みんな、警戒を怠らないようにな。あの新星星徒会が途中脱落した新モードだ。何が起こるかわからない」"
 translation = "「얘들아, 경계를 게을리하지 말거라. 그 신성 성도회가 도중에 탈락한 신 모드이니라. 무슨 일이 일어날지 모르느니라」"
 
 [[dialogue]]
-speaker = "ベアトリス"
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
 original = "「一筋縄ではいかない強敵とか待ってるのかも。ちょっと緊張してきた……」"
 translation = "「만만치 않은 강적 같은 게 기다리고 있을지도. 조금 긴장되네……」"
 
 [[dialogue]]
-speaker = "アポロ"
+speaker_original = "アポロ"
+speaker_translation = "아폴로"
 original = "「むしろ燃えるじゃんかっ。あたしたちのキズナの力、見せてやろーぜ！」"
 translation = "「오히려 불타오르잖아. 우리들의 유대의 힘, 보여주자고!」"
 
 [[dialogue]]
-speaker = "ナターシャ"
+speaker_original = "ナターシャ"
+speaker_translation = "나타샤"
 original = "「そういえば、ジグには声をかけなかったんだ？\u3000正気に戻ったわけだし、梨緒も一緒に過ごしたいんじゃない？」"
 translation = "「그러고 보니, 지그한테는 말 안 걸었어? 제정신으로 돌아왔으니, 리오도 같이 지내고 싶지 않아?」"
 
 [[dialogue]]
-speaker = "梨緒"
+speaker_original = "梨緒"
+speaker_translation = "리오"
 original = "「……別に一緒に過ごしたいということはないが、もちろん声はかけた」"
 translation = "「……딱히 같이 지내고 싶다는 건 아니다만, 물론 말은 걸었느니라」"
 
 [[dialogue]]
-speaker = "梨緒"
+speaker_original = "梨緒"
+speaker_translation = "리오"
 original = "「だがあいつはこう言って断った。──『私がいると、つまらなくなってしまうだろう？』とな！」"
 translation = "「하지만 그 녀석은 이렇게 말하며 거절했느니라. ──『내가 있으면, 재미없어지겠지?』라고 말이다!」"
 
 [[dialogue]]
-speaker = "ナターシャ"
+speaker_original = "ナターシャ"
+speaker_translation = "나타샤"
 original = "「あー、なんか想像できる～……」"
 translation = "「아─, 왠지 상상 가네~……」"
 
 [[dialogue]]
-speaker = "梨緒"
+speaker_original = "梨緒"
+speaker_translation = "리오"
 original = "「さも当然のようにあんなセリフを……あの時のジグの顔は忘れないぞ……！」"
 translation = "「마치 당연하다는 듯이 그런 대사를…… 그때 지그의 얼굴은 잊지 않을 것이니라……!」"
 
 [[dialogue]]
-speaker = "ベアトリス"
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
 original = "「どーどー……。落ち着いて、落ち着いて。それよりジグさんがビックリしちゃうような成果を、私たちで上げちゃおうよ！」"
 translation = "「워워……. 진정해, 진정해. 그것보다 지그 씨가 깜짝 놀랄 만한 성과를 우리끼리 내버리자!」"
 
 [[dialogue]]
-speaker = "梨緒"
+speaker_original = "梨緒"
+speaker_translation = "리오"
 original = "「ベアトっ……！\u3000ああ、新星星徒会だけでなく、ジグの鼻も明かしてやろう！」"
 translation = "「베아트……! 그래, 신성 성도회뿐만 아니라, 지그의 콧대도 꺾어주겠느니라!」"
 
 [[dialogue]]
-speaker = "アポロ"
+speaker_original = "アポロ"
+speaker_translation = "아폴로"
 original = "「……ん？\u3000ちょっと待て。今そこで何か動いたぞ」"
 translation = "「……응? 잠깐 기다려. 방금 저기서 뭔가 움직였어」"
 
 [[dialogue]]
-speaker = "スクアルス"
+speaker_original = "スクアルス"
+speaker_translation = "스쿠알스"
 original = "「グルルッ、ギィィーー！！」"
 translation = "「그르르, 기이이──!!」"
 
 [[dialogue]]
-speaker = "ナターシャ"
+speaker_original = "ナターシャ"
+speaker_translation = "나타샤"
 original = "「おっと、お出ましみたいだね。例のボスモンスターかな？」"
 translation = "「오호, 나타난 모양이네. 그 보스 몬스터인가?」"
 
 [[dialogue]]
-speaker = "アポロ"
+speaker_original = "アポロ"
+speaker_translation = "아폴로"
 original = "「いきなりボスを見つけられるなんてラッキー！\u3000クリアしたも同然じゃん！」"
 translation = "「갑자기 보스를 찾다니 럭키! 클리어한 거나 다름없잖아!」"
 
 [[dialogue]]
-speaker = "梨緒"
+speaker_original = "梨緒"
+speaker_translation = "리오"
 original = "「油断するな。アポロはともかく、私たち３人は水着フォームの力を得たばかりだ」"
 translation = "「방심하지 마라. 아폴로는 둘째치고, 우리 세 명은 수영복 폼의 힘을 얻은 지 얼마 안 되었느니라」"
 
 [[dialogue]]
-speaker = "ベアトリス"
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
 original = "「まずは新しい戦い方に慣れないとだよね。普段以上に慎重に立ち回った方がいいかも」"
 translation = "「우선 새로운 싸움 방식에 익숙해져야겠지. 평소보다 신중하게 움직이는 게 좋을지도 몰라」"
 
 [[dialogue]]
-speaker = "ナターシャ"
+speaker_original = "ナターシャ"
+speaker_translation = "나타샤"
 original = "「体も重いしね～。星力の扱いもなんかぎこちないし」"
 translation = "「몸도 무겁고 말야~. 성력 다루는 것도 왠지 어색하고」"
 
 [[dialogue]]
-speaker = "アポロ"
+speaker_original = "アポロ"
+speaker_translation = "아폴로"
 original = "「なら、あたしが引っ張っていってやるぜっ！\u3000タイダルストライクっ！」"
 translation = "「그럼 내가 이끌어 주겠어! 타이달 스트라이크!」"
 
 [[dialogue]]
-speaker = "スクアルス"
+speaker_original = "スクアルス"
+speaker_translation = "스쿠알스"
 original = "「ギァァッ……！」"
 translation = "「기아악……!」"
 
 [[dialogue]]
-speaker = "アポロ"
+speaker_original = "アポロ"
+speaker_translation = "아폴로"
 original = "「あれ？\u3000なんだコイツ、思ったより硬いな……」"
 translation = "「어라? 뭐야 이 녀석, 생각보다 단단한데……」"
 
 [[dialogue]]
-speaker = "スクアルス"
+speaker_original = "スクアルス"
+speaker_translation = "스쿠알스"
 original = "「ギィィィーーーー！」"
 translation = "「기이이이────!」"
 
 [[dialogue]]
-speaker = "ベアトリス"
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
 original = "「きゃあっ！？」"
 translation = "「꺄악!?」"
 
 [[dialogue]]
-speaker = "梨緒"
+speaker_original = "梨緒"
+speaker_translation = "리오"
 original = "「ベアトっ！\u3000一旦下がるんだ、私がフォローするっ」"
 translation = "「베아트! 일단 물러나거라, 내가 보조하겠느니라」"
 
 [[dialogue]]
-speaker = "ベアトリス"
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
 original = "「う、うんっ。ありがとう、梨緒ちゃん」"
 translation = "「으, 응. 고마워, 리오 짱」"
 
 [[dialogue]]
-speaker = "ナターシャ"
+speaker_original = "ナターシャ"
+speaker_translation = "나타샤"
 original = "「そこだよ」"
 translation = "「거기야」"
 
 [[dialogue]]
-speaker = "スクアルス"
+speaker_original = "スクアルス"
+speaker_translation = "스쿠알스"
 original = "「ギャオオオン！」"
 translation = "「갸오오온!」"
 
 [[dialogue]]
-speaker = "ナターシャ"
+speaker_original = "ナターシャ"
+speaker_translation = "나타샤"
 original = "「って、私の攻撃も全然効いてないし。このボス、チートすぎない……？」"
 translation = "「그나저나 내 공격도 전혀 안 듣고 있네. 이 보스, 너무 치트 아냐……?」"
 
 [[dialogue]]
-speaker = "スクアルス"
+speaker_original = "スクアルス"
+speaker_translation = "스쿠알스"
 original = "「ギャオッ！」"
 translation = "「갸옷!」"
 
 [[dialogue]]
-speaker = "梨緒"
+speaker_original = "梨緒"
+speaker_translation = "리오"
 original = "「ぐあっ！！」"
 translation = "「구악!!」"
 
 [[dialogue]]
-speaker = "アポロ"
+speaker_original = "アポロ"
+speaker_translation = "아폴로"
 original = "「梨緒っ！？\u3000大丈夫かっ！？」"
 translation = "「리오!? 괜찮아!?」"
 
 [[dialogue]]
-speaker = "梨緒"
+speaker_original = "梨緒"
+speaker_translation = "리오"
 original = "「す、すまない、フォローすると言っておきながら……。水着フォームの影響か、体が思うように動かなくて……」"
 translation = "「미, 미안하구나, 보조하겠다고 해놓고서……. 수영복 폼의 영향인지, 몸이 마음대로 움직이지 않아서……」"
 
 [[dialogue]]
-speaker = "スクアルス"
+speaker_original = "スクアルス"
+speaker_translation = "스쿠알스"
 original = "「ギィーーーッ！」"
 translation = "「기이이──익!」"
 
 [[dialogue]]
-speaker = "ナターシャ"
+speaker_original = "ナターシャ"
+speaker_translation = "나타샤"
 original = "「ここは撤退した方がいいね。このままだと全滅は時間の問題だ」"
 translation = "「여기는 후퇴하는 게 좋겠어. 이대로라면 전멸은 시간문제야」"
 
 [[dialogue]]
-speaker = "アポロ"
+speaker_original = "アポロ"
+speaker_translation = "아폴로"
 original = "「逃げるなんてヒーローのやることじゃないが……！\u3000仲間を危険に晒すことはもっとヒーローのやることじゃないっ！」"
 translation = "「도망치는 건 히어로가 할 짓이 아니지만……! 동료를 위험에 빠뜨리는 건 더더욱 히어로가 할 짓이 아니야!」"
 
 [[dialogue]]
-speaker = "梨緒"
+speaker_original = "梨緒"
+speaker_translation = "리오"
 original = "「わかった……ここは一旦退くぞ！」"
 translation = "「알겠느니라…… 여기선 일단 물러나느니라!」"
 
 [[dialogue]]
-speaker = "アポロ"
+speaker_original = "アポロ"
+speaker_translation = "아폴로"
 original = "「了解だ！\u3000ナターシャはベアトを連れていってやってくれっ」"
 translation = "「알았다! 나타샤는 베아트를 데리고 가줘!」"
 
 [[dialogue]]
-speaker = "ナターシャ"
+speaker_original = "ナターシャ"
+speaker_translation = "나타샤"
 original = "「うん。掴まって、ベアト」"
 translation = "「응. 꽉 잡아, 베아트」"
 
 [[dialogue]]
-speaker = "ベアトリス"
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
 original = "「ありがとう、ナターシャちゃん……」"
 translation = "「고마워, 나타샤 짱……」"
 
 [[dialogue]]
-speaker = "アポロ"
+speaker_original = "アポロ"
+speaker_translation = "아폴로"
 original = "「ここまで来たら、大丈夫そうだな」"
 translation = "「여기까지 왔으면 괜찮을 것 같네」"
 
 [[dialogue]]
-speaker = "ナターシャ"
+speaker_original = "ナターシャ"
+speaker_translation = "나타샤"
 original = "「海の家には……人はいないみたいだね。サバイバルモードだからかな」"
 translation = "「바다의 집에는…… 사람이 없는 모양이네. 서바이벌 모드라서 그런가」"
 
 [[dialogue]]
-speaker = "ベアトリス"
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
 original = "「焼きそば……浜焼き……楽しみにしてたのに」"
 translation = "「야키소바…… 해산물 구이…… 기대하고 있었는데」"
 
 [[dialogue]]
-speaker = "梨緒"
+speaker_original = "梨緒"
+speaker_translation = "리오"
 original = "「それよりみんな無事で良かった。モンスターには……負けてしまったが」"
 translation = "「그보다 다들 무사해서 다행이니라. 몬스터에게는…… 지고 말았다만」"
 
 [[dialogue]]
-speaker = "ナターシャ"
+speaker_original = "ナターシャ"
+speaker_translation = "나타샤"
 original = "「負けてはいないんじゃない？\u3000ゲームオーバーは避けられたし、まだ終わってないよ」"
 translation = "「진 건 아니지 않아? 게임 오버는 피했고, 아직 끝나지 않았어」"
 
 [[dialogue]]
-speaker = "ベアトリス"
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
 original = "「私も思った以上に星術の威力が出なかったから……。やっぱり新しい力を使いこなすのって難しいんだね」"
 translation = "「나도 생각보다 성술 위력이 나오지 않아서……. 역시 새로운 힘을 능숙하게 다루는 건 어렵네」"
 
 [[dialogue]]
-speaker = "アポロ"
+speaker_original = "アポロ"
+speaker_translation = "아폴로"
 original = "「そのことなんだけど……なんかおかしいと思うんだ」"
 translation = "「그 점에 대해서인데…… 뭔가 이상하다고 생각해」"
 
 [[dialogue]]
-speaker = "梨緒"
+speaker_original = "梨緒"
+speaker_translation = "리오"
 original = "「おかしい？」"
 translation = "「이상하다고?」"
 
 [[dialogue]]
-speaker = "アポロ"
+speaker_original = "アポロ"
+speaker_translation = "아폴로"
 original = "「あたしもどーも体が重いんだよ。星力も上手く扱えないし。みんなより水着フォームに慣れてるはずなのにさ」"
 translation = "「나도 아무래도 몸이 무겁거든. 성력도 잘 못 다루겠고. 다들보다 수영복 폼에 익숙할 텐데 말야」"
 
 [[dialogue]]
-speaker = "ナターシャ"
+speaker_original = "ナターシャ"
+speaker_translation = "나타샤"
 original = "「つまり、全員の力に制限がかかってるってこと？\u3000一体何が起きて──」"
 translation = "「즉, 전원의 힘에 제한이 걸려 있다는 거야? 대체 무슨 일이──」"
 
 [[dialogue]]
-speaker = "水着フワッチ"
+speaker_original = "水着フワッチ"
+speaker_translation = "수영복 후왓치"
 original = "「イーーーーッ！」"
 translation = "「이이──익!」"
 
 [[dialogue]]
-speaker = "梨緒"
+speaker_original = "梨緒"
+speaker_translation = "리오"
 original = "「くっ、ここにもモンスターがいたか……。みんな、戦えるか？」"
 translation = "「큭, 여기에도 몬스터가 있었느냐……. 다들 싸울 수 있겠느냐?」"
 
 [[dialogue]]
-speaker = "ベアトリス"
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
 original = "「う、うんっ。ここで逃げたら、またあのボスと出くわしちゃいそうだしっ」"
 translation = "「으, 응. 여기서 도망치면 또 그 보스랑 마주칠 것 같고!」"
 
 [[dialogue]]
-speaker = "アポロ"
+speaker_original = "アポロ"
+speaker_translation = "아폴로"
 original = "「考えるのは後にした方が良さそうだなっ。来るぞっ！」"
 translation = "「생각하는 건 나중으로 미루는 게 좋겠어! 온다!」"
 
 [[dialogue]]
-speaker = "水着フワッチ"
+speaker_original = "水着フワッチ"
+speaker_translation = "수영복 후왓치"
 original = "「イィィーーッ！！」"
 translation = "「이이이──익!!」"
 
 [[dialogue]]
-speaker = "水着フワッチ"
+speaker_original = "水着フワッチ"
+speaker_translation = "수영복 후왓치"
 original = "「イ～～……」"
 translation = "「이~~……」"
 
 [[dialogue]]
-speaker = "梨緒"
+speaker_original = "梨緒"
+speaker_translation = "리오"
 original = "「はぁはぁ、なんとか勝てた……」"
 translation = "「하아 하아, 어떻게든 이겼느니라……」"
 
 [[dialogue]]
-speaker = "梨緒"
+speaker_original = "梨緒"
+speaker_translation = "리오"
 original = "「──！？\u3000今のは……？」"
 translation = "「──!? 방금 그건……?」"
 
 [[dialogue]]
-speaker = "ベアトリス"
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
 original = "「不思議……さっきより体に力が漲ってるような気がする……」"
 translation = "「신기해…… 아까보다 몸에 힘이 넘치는 듯한 기분이 들어……」"
 
 [[dialogue]]
-speaker = "アポロ"
+speaker_original = "アポロ"
+speaker_translation = "아폴로"
 original = "「ベアトもか？\u3000あたしも今のモンスターを倒してから、身軽になったよーな感じがするぞ！」"
 translation = "「베아트도냐? 나도 방금 몬스터를 쓰러뜨리고 나서 몸이 가벼워진 것 같은 느낌이 들어!」"
 
 [[dialogue]]
-speaker = "ナターシャ"
+speaker_original = "ナターシャ"
+speaker_translation = "나타샤"
 original = "「なるほどね。新モードのカラクリがわかったよ」"
 translation = "「과연 그렇네. 신 모드의 장치를 알아냈어」"
 
 [[dialogue]]
-speaker = "梨緒"
+speaker_original = "梨緒"
+speaker_translation = "리오"
 original = "「カラクリ？」"
 translation = "「장치?」"
 
 [[dialogue]]
-speaker = "ナターシャ"
+speaker_original = "ナターシャ"
+speaker_translation = "나타샤"
 original = "「ほらマトイとアナが言ってたじゃない。レベルが低かったやら、雑魚狩りが大事だったやら」"
 translation = "「봐봐, 마토이랑 아나가 말했잖아. 레벨이 낮았다느니, 잡몹 사냥이 중요하다느니」"
 
 [[dialogue]]
-speaker = "ナターシャ"
+speaker_original = "ナターシャ"
+speaker_translation = "나타샤"
 original = "「要するに、このモードでは弱いモンスターを倒してレベルアップして、ボスモンスターに挑戦しろってことじゃない？」"
 translation = "「요컨대, 이 모드에서는 약한 몬스터를 쓰러뜨려 레벨 업을 하고, 보스 몬스터에게 도전하라는 거 아냐?」"
 
 [[dialogue]]
-speaker = "梨緒"
+speaker_original = "梨緒"
+speaker_translation = "리오"
 original = "「なるほど……。あれは私を指して口にしていた言葉ではなかったのか……」"
 translation = "「과연……. 그것은 나를 가리켜 입에 담았던 말이 아니었단 말이냐……」"
 
 [[dialogue]]
-speaker = "ベアトリス"
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
 original = "「だからそう言ったよ～！\u3000誰も梨緒ちゃんのことを悪くなんて言わないってばぁ～！」"
 translation = "「그러니까 그렇게 말했잖아~! 아무도 리오 짱을 나쁘게 말하지 않는다니까~!」"
 
 [[dialogue]]
-speaker = "アポロ"
+speaker_original = "アポロ"
+speaker_translation = "아폴로"
 original = "「じゃあ新星星徒会がゲームオーバーになったのは、レベルアップしないでボスモンスターに挑んだからなのか？」"
 translation = "「그럼 신성 성도회가 게임 오버된 건, 레벨 업 안 하고 보스 몬스터한테 덤벼서 그런 거야?」"
 
 [[dialogue]]
-speaker = "ナターシャ"
+speaker_original = "ナターシャ"
+speaker_translation = "나타샤"
 original = "「たぶんそうじゃない？\u3000ヴィーナスあたりがそのルールを理解せずに突っ込んで総崩れになったとか」"
 translation = "「아마 그렇겠지? 비너스 같은 애가 그 규칙을 이해 못 하고 돌진했다가 다 무너졌다던가」"
 
 [[dialogue]]
-speaker = "ベアトリス"
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
 original = "「ありえそう……って思うのは失礼かな……あはは」"
 translation = "「그럴 법해…… 라고 생각하는 건 실례일까…… 아하하」"
 
 [[dialogue]]
-speaker = "ナターシャ"
+speaker_original = "ナターシャ"
+speaker_translation = "나타샤"
 original = "「ま、私たちが全滅しなかったのは梨緒の判断のおかげだね。変に自信家じゃない分、慎重な立ち回りができたわけだし」"
 translation = "「뭐, 우리가 전멸하지 않은 건 리오의 판단 덕분이네. 이상하게 자신만만한 편이 아닌 만큼, 신중하게 대처할 수 있었으니까」"
 
 [[dialogue]]
-speaker = "梨緒"
+speaker_original = "梨緒"
+speaker_translation = "리오"
 original = "「ナターシャ……」"
 translation = "「나타샤……」"
 
 [[dialogue]]
-speaker = "ナターシャ"
+speaker_original = "ナターシャ"
+speaker_translation = "나타샤"
 original = "「ふふ。まぁボスモンスターには勝てなかったわけだけど。でも、一度敵わなかったくらいで諦める性格でもないでしょ？」"
 translation = "「후후. 뭐 보스 몬스터한테는 이기지 못했지만. 그래도 한 번 안 됐다고 포기할 성격도 아니잖아?」"
 
 [[dialogue]]
-speaker = "梨緒"
+speaker_original = "梨緒"
+speaker_translation = "리오"
 original = "「ああ……もちろんだっ！\u3000みんなでレベルアップして、ボスモンスターを倒せるように成長しよう！」"
 translation = "「그래…… 물론이니라! 다 같이 레벨 업해서 보스 몬스터를 쓰러뜨릴 수 있도록 성장하자꾸나!」"
 
 [[dialogue]]
-speaker = "３人"
+speaker_original = "３人"
+speaker_translation = "3명"
 original = "「おー！！！」"
 translation = "「오─!!」"
 

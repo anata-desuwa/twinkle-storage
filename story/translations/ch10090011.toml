@@ -4,17 +4,20 @@ original = "第１話,副会長はギャル？,P"
 translation = "제1화, 부회장은 갸루?, P"
 
 [[dialogue]]
-speaker = "セーラ"
+speaker_original = "セーラ"
+speaker_translation = "세라"
 original = "「お、そこにいるのは……新星の会長さんじゃ～ん。元気してる～？」"
 translation = "「오, 거기 있는 건…… 신성의 회장님이잖아~. 잘 지내~?」"
 
 [[dialogue]]
-speaker = "セーラ"
+speaker_original = "セーラ"
+speaker_translation = "세라"
 original = "「あ～、そういえばちゃんと自己紹介できてなかったっけ？\u3000うち、桐原セーラ。流星の３年で星徒会の副会長してるよ」"
 translation = "「아~, 그러고 보니 제대로 자기소개 못 했었나? 나, 키리하라 세라. 유성의 3학년이고 성도회 부회장을 맡고 있어」"
 
 [[dialogue]]
-speaker = "セーラ"
+speaker_original = "セーラ"
+speaker_translation = "세라"
 original = "「確か新星の会長さんはうちの会長とタメだから、１つ上だね。呼び方は何でもいいよ～。呼び捨てでもセーラ様でも、なんならセーラちゃんでも」"
 translation = "「확실히 신성의 회장님은 우리 회장이랑 동갑이니까, 한 학년 위네. 부르는 법은 아무래도 좋아~. 이름으로 부르든 세라 님이라 부르든, 아니면 세라짱이라든가」"
 
@@ -24,77 +27,92 @@ original = "じゃあセーラさんで"
 translation = "그럼 세라 씨로"
 
 [[dialogue]]
-speaker = "セーラ"
+speaker_original = "セーラ"
+speaker_translation = "세라"
 original = "「はは、普通だ。おっけおっけー。よろしく～」"
 translation = "「하하, 평범하네. 오케이 오케이. 잘 부탁해~」"
 
 [[dialogue]]
-speaker = "セーラ"
+speaker_original = "セーラ"
+speaker_translation = "세라"
 original = "「あ、そうだ。ここで会ったのも何かの縁ってことで、買い物付き合ってくれない？\u3000ネイルとかアクセとかいろいろ見たくてさ～」"
 translation = "「아, 맞다. 여기서 만난 것도 인연인데 쇼핑 좀 같이 안 해줄래? 네일이나 액세서리 같은 거 이것저것 보고 싶어서 말이야~」"
 
 [[dialogue]]
-speaker = "セーラ"
+speaker_original = "セーラ"
+speaker_translation = "세라"
 original = "「おっけー？\u3000やったっ。女子同士も楽しいけど、たまには男の子とショッピングしたかったんだよね～。レッツゴー！」"
 translation = "「오케이? 아싸! 여자끼리도 즐겁지만, 가끔은 남자애랑 쇼핑하고 싶었거든~. 렛츠 고!」"
 
 [[dialogue]]
-speaker = "セーラ"
+speaker_original = "セーラ"
+speaker_translation = "세라"
 original = "「んじゃ、まずはコスメから！\u3000会長さんはどういう色がお好き？」"
 translation = "「그럼 우선 코스메틱부터! 회장님은 어떤 색을 좋아해?」"
 
 [[dialogue]]
-speaker = "セーラ"
+speaker_original = "セーラ"
+speaker_translation = "세라"
 original = "「ありがと～。ふむふむ、なるほど、新星の会長さんはナチュラルめのやつが好みっぽいね」"
 translation = "「고마워~. 흠흠, 그렇구나. 신성의 회장님은 내추럴한 쪽이 취향인가 보네」"
 
 [[dialogue]]
-speaker = "セーラ"
+speaker_original = "セーラ"
+speaker_translation = "세라"
 original = "「ねぇねぇ、２人でお買い物してるとなんかデートみたいだね」"
 translation = "「있잖아, 둘이서 쇼핑하니까 왠지 데이트 같네」"
 
 [[dialogue]]
-speaker = "セーラ"
+speaker_original = "セーラ"
+speaker_translation = "세라"
 original = "「あはは、ビックリしちゃってかわい～。そんな慌てなくてもいいじゃん。年頃の男女がデートするのは普通のことなんだから」"
 translation = "「아하하, 깜짝 놀라는 거 귀여워~. 그렇게 당황하지 않아도 되잖아. 한창때인 남녀가 데이트하는 건 보통 있는 일이니까」"
 
 [[dialogue]]
-speaker = "セーラ"
+speaker_original = "セーラ"
+speaker_translation = "세라"
 original = "「……あ、また照れてる。けっこうウブなんだー」"
 translation = "「……아, 또 부끄러워한다. 꽤 순진하네~」"
 
 [[dialogue]]
-speaker = "セーラ"
+speaker_original = "セーラ"
+speaker_translation = "세라"
 original = "「はははっ、からかってごめんってば。男の子と一緒なの珍しくて、ついね」"
 translation = "「하하하, 놀려서 미안하다니까. 남자애랑 같이 있는 게 드물어서 나도 모르게 그만」"
 
 [[dialogue]]
-speaker = "セーラ"
+speaker_original = "セーラ"
+speaker_translation = "세라"
 original = "「あ、うちのこと、副会長っぽくないって思ってるっしょ？」"
 translation = "「아, 나보고 부회장답지 않다고 생각하고 있지?」"
 
 [[dialogue]]
-speaker = "セーラ"
+speaker_original = "セーラ"
+speaker_translation = "세라"
 original = "「あはは、今ギクッてした。だいじょーぶ、だいじょーぶ、うちも自分でそう思ってるし」"
 translation = "「아하하, 방금 뜨끔했지. 괜찮아 괜찮아, 나도 스스로 그렇게 생각하니까」"
 
 [[dialogue]]
-speaker = "セーラ"
+speaker_original = "セーラ"
+speaker_translation = "세라"
 original = "「そういや、会長さんは前の会長に御前試合を挑まれて、それに勝って星徒会長になったんだっけ。どう？\u3000驚いた？」"
 translation = "「그러고 보니 회장님은 전임 회장한테 어전 시합을 도전받아서, 거기서 이기고 성도회장이 된 거였지. 어때? 놀랐어?」"
 
 [[dialogue]]
-speaker = "セーラ"
+speaker_original = "セーラ"
+speaker_translation = "세라"
 original = "「うんうん……だよねー。でもまぁ、なったからにはちゃんとやらないとだね」"
 translation = "「응응…… 그렇겠지~. 하지만 뭐, 된 이상은 제대로 해야겠지」"
 
 [[dialogue]]
-speaker = "セーラ"
+speaker_original = "セーラ"
+speaker_translation = "세라"
 original = "「そうそう、付き合ってくれたお礼に……はい、さっき買ったリップクリームあげる。会長さん、さっきから唇渇き気味だし、カサカサだと切れちゃって痛いよ」"
 translation = "「맞다 맞다, 같이 있어 준 답례로…… 자, 아까 산 립크림 줄게. 회장님 아까부터 입술이 좀 말라 보이고, 푸석푸석하면 터서 아프다고」"
 
 [[dialogue]]
-speaker = "セーラ"
+speaker_original = "セーラ"
+speaker_translation = "세라"
 original = "「いろいろ色や香りが付いてるのもあるんだけど、無香料で男の人でも使いやすいやつ。良かったら使って」"
 translation = "「이것저것 색이나 향이 들어간 것도 있지만, 이건 무향이라 남자도 쓰기 편한 거야. 괜찮으면 써」"
 
@@ -104,27 +122,32 @@ original = "ありがとうございます"
 translation = "감사합니다"
 
 [[dialogue]]
-speaker = "セーラ"
+speaker_original = "セーラ"
+speaker_translation = "세라"
 original = "「うんうん、素直でよろしい」"
 translation = "「응응, 솔직해서 좋네」"
 
 [[dialogue]]
-speaker = "セーラ"
+speaker_original = "セーラ"
+speaker_translation = "세라"
 original = "「せっかくだから何か食べよっか？\u3000甘いものはへーき？\u3000近くにオススメのお店が……あ、ちょい待ち」"
 translation = "「이왕 이렇게 된 거 뭐 좀 먹을까? 단 거 괜찮아? 근처에 추천하는 가게가…… 아, 잠깐만」"
 
 [[dialogue]]
-speaker = "セーラ"
+speaker_original = "セーラ"
+speaker_translation = "세라"
 original = "「おばあちゃーん、どこ行くとこ？」"
 translation = "「할머니~ 어디 가시는 길이에요?」"
 
 [[dialogue]]
-speaker = "おばあさん"
+speaker_original = "おばあさん"
+speaker_translation = "할머니"
 original = "「え？\u3000あ、あのー……実は息子と待ち合わせをしていたのですが……」"
 translation = "「예? 아, 저기…… 사실 아들과 만나기로 했습니다만……」"
 
 [[dialogue]]
-speaker = "セーラ"
+speaker_original = "セーラ"
+speaker_translation = "세라"
 original = "「ふむふむ、なるほど……あ、場所はここからだと駅の反対か。そうだ、うちら向こう側に用事あるんで一緒に行きません？」"
 translation = "「흠흠, 그렇구나…… 아, 장소가 여기서라면 역 반대편이네. 마침 저희도 그쪽에 용무가 있으니까 같이 안 가실래요?」"
 
@@ -134,22 +157,26 @@ original = "荷物、持ちますよ"
 translation = "짐, 들어드릴게요"
 
 [[dialogue]]
-speaker = "セーラ"
+speaker_original = "セーラ"
+speaker_translation = "세라"
 original = "「あ、怪しいものじゃないですよ。うちら、流星学園と新星学園の生徒なんです。ほら、今制服着てるでしょ」"
 translation = "「아, 수상한 사람 아니에요. 저희 유성 학원이랑 신성 학원 학생이거든요. 보세요, 지금 교복 입고 있잖아요」"
 
 [[dialogue]]
-speaker = "おばあさん"
+speaker_original = "おばあさん"
+speaker_translation = "할머니"
 original = "「あなたたちがあの……若いのにすごいのね。いつもありがとう」"
 translation = "「당신들이 그…… 젊은데 대단하구나. 항상 고맙다」"
 
 [[dialogue]]
-speaker = "セーラ"
+speaker_original = "セーラ"
+speaker_translation = "세라"
 original = "「おばあちゃん、星騎士のこと知ってるんだ。えへへ、こっちこそありがと～」"
 translation = "「할머니, 성기사에 대해 알고 계시네요. 에헤헤, 저희야말로 감사해요~」"
 
 [[dialogue]]
-speaker = "セーラ"
+speaker_original = "セーラ"
+speaker_translation = "세라"
 original = "「ごめんね、結局お店遠くなっちゃった」"
 translation = "「미안해, 결국 가게랑 멀어져 버렸네」"
 
@@ -159,17 +186,20 @@ original = "息子さんに会えて良かった"
 translation = "아드님을 만나서 다행이에요"
 
 [[dialogue]]
-speaker = "セーラ"
+speaker_original = "セーラ"
+speaker_translation = "세라"
 original = "「そう言ってくれて良かった。荷物も持ってくれてありがとう」"
 translation = "「그렇게 말해주니 다행이다. 짐 들어줘서 고마워」"
 
 [[dialogue]]
-speaker = "セーラ"
+speaker_original = "セーラ"
+speaker_translation = "세라"
 original = "「優しそうなおばあちゃんだったし、普通に案内すると全力で断られそうだったからさ」"
 translation = "「인상 좋으신 할머니였고, 그냥 안내해 드린다고 하면 필사적으로 거절하실 것 같았거든」"
 
 [[dialogue]]
-speaker = "セーラ"
+speaker_original = "セーラ"
+speaker_translation = "세라"
 original = "「さすが流星の副会長……って、はは、褒めても何も出ないぞー。なりたくてなった副会長でもないしね」"
 translation = "「역시 유성의 부회장……이라니, 하하, 칭찬해도 아무것도 안 나온다고~. 되고 싶어서 된 부회장도 아니니까 말이야」"
 
@@ -179,27 +209,32 @@ original = "セーラさんはどうして副会長に？"
 translation = "세라 씨는 어쩌다 부회장이 된 거예요?"
 
 [[dialogue]]
-speaker = "セーラ"
+speaker_original = "セーラ"
+speaker_translation = "세라"
 original = "「あ、それ聞いちゃう？」"
 translation = "「아, 그걸 물어보는 거야?」"
 
 [[dialogue]]
-speaker = "セーラ"
+speaker_original = "セーラ"
+speaker_translation = "세라"
 original = "「ジョーダンジョーダン。聞いちゃいけない話じゃないってば」"
 translation = "「농담이야 농담. 못 할 이야기도 아닌걸」"
 
 [[dialogue]]
-speaker = "セーラ"
+speaker_original = "セーラ"
+speaker_translation = "세라"
 original = "「実はうち、前の星徒会からの居残り組なんだけど、代替わりした時に現会長のフィオナちゃんにお願いされてね」"
 translation = "「사실 나, 전임 성도회 때부터 남은 잔류파인데, 대가 바뀌었을 때 현 회장인 피오나짱이 부탁해서 말이야」"
 
 [[dialogue]]
-speaker = "セーラ"
+speaker_original = "セーラ"
+speaker_translation = "세라"
 original = "「肩書が付くのあんま好きじゃないんだけど、フィオナちゃんに頼まれたら断れなくさ。まぁいっかーって引き受けた。ほんとそれだけ」"
 translation = "「직함 달리는 거 별로 안 좋아하지만, 피오나짱이 부탁하면 거절할 수가 없어서. 뭐 어때~ 하고 맡았어. 정말 그게 다야」"
 
 [[dialogue]]
-speaker = "セーラ"
+speaker_original = "セーラ"
+speaker_translation = "세라"
 original = "「でも大雑把に言えば全生徒で２番目に偉いってことじゃん。ガラじゃないよねー、ホント。うちは軽い人間だから、もっと軽く扱ってほしいわけ」"
 translation = "「그래도 크게 보면 전교에서 두 번째로 높다는 거잖아. 나랑은 안 어울려, 정말. 난 가벼운 사람이니까 좀 더 가볍게 대해줬으면 좋겠거든」"
 
@@ -209,22 +244,26 @@ original = "俺も副会長にふさわしいと思います"
 translation = "저도 부회장에 어울린다고 생각해요"
 
 [[dialogue]]
-speaker = "セーラ"
+speaker_original = "セーラ"
+speaker_translation = "세라"
 original = "「そっかー、新星の会長さんもそう思うのかー。それならもっと自信もっていいかもね」"
 translation = "「그렇구나~ 신성의 회장님도 그렇게 생각하는구나. 그럼 좀 더 자신감을 가져도 될지도 모르겠네」"
 
 [[dialogue]]
-speaker = "セーラ"
+speaker_original = "セーラ"
+speaker_translation = "세라"
 original = "「じゃあ改めて甘い物を食べに……と行きたいところだけど、来た道戻るには微妙に遠いか」"
 translation = "「그럼 다시 단 걸 먹으러…… 가고 싶지만, 왔던 길을 돌아가기엔 미묘하게 머네」"
 
 [[dialogue]]
-speaker = "セーラ"
+speaker_original = "セーラ"
+speaker_translation = "세라"
 original = "「あ、おばあちゃんからもらったおまんじゅうあるんだった。じゃあ、おまんじゅう一緒に食べよっか」"
 translation = "「아, 할머니한테 받은 만쥬가 있었지. 그럼 만쥬 같이 먹을래?」"
 
 [[dialogue]]
-speaker = "セーラ"
+speaker_original = "セーラ"
+speaker_translation = "세라"
 original = "「はむ……ん～、あま～い♪\u3000ふふっ、情けは人のためならずってやつだね」"
 translation = "「냠…… 음~ 달콤해♪ 후훗, 친절은 남을 위한 것만이 아니라는 말이 딱 맞네」"
 

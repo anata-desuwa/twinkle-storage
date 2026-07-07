@@ -4,7 +4,8 @@ original = "第４話,パテルとデート？,P"
 translation = "제4화, 파텔과 데이트?"
 
 [[dialogue]]
-speaker = "パテル"
+speaker_original = "パテル"
+speaker_translation = "파텔"
 original = "「デート！」"
 translation = "「데이트!」"
 
@@ -14,67 +15,80 @@ original = "いきなりどうしたんだ？"
 translation = "갑자기 왜 그래?"
 
 [[dialogue]]
-speaker = "パテル"
+speaker_original = "パテル"
+speaker_translation = "파텔"
 original = "「あたし、好き勝手生きるって決めたからね。だから女の子として、デートしたい時はデートするんだよ」"
 translation = "「나, 내 마음대로 살기로 했으니까. 그러니까 여자애로서, 데이트하고 싶을 때는 데이트하는 거야」"
 
 [[dialogue]]
-speaker = "パテル"
+speaker_original = "パテル"
+speaker_translation = "파텔"
 original = "「前の遊園地もデートって言ってたって～？\u3000もう、女の子がデートしたいって言ったら、付き合うのが男の甲斐性ってやつでしょ」"
 translation = "「저번 유원지도 데이트라고 했다고~? 정말, 여자애가 데이트하고 싶다고 하면 어울려 주는 게 남자의 도리잖아」"
 
 [[dialogue]]
-speaker = "パテル"
+speaker_original = "パテル"
+speaker_translation = "파텔"
 original = "「ほら、ケチケチしない。ヒアウィーゴー♪」"
 translation = "「자, 인색하게 굴지 마. 히어 위 고♪」"
 
 [[dialogue]]
-speaker = "パテル"
+speaker_original = "パテル"
+speaker_translation = "파텔"
 original = "「あ～ぁ、魔王ってば、家を出た途端に呼び出しとはついてないね～……」"
 translation = "「아~아, 마왕도 참, 집을 나서자마자 호출이라니 운도 없네~……」"
 
 [[dialogue]]
-speaker = "パテル"
+speaker_original = "パテル"
+speaker_translation = "파텔"
 original = "「謝らなくてもいいよ、別に。あなたが忙しいのは知ってるつもりだから」"
 translation = "「사과하지 않아도 돼, 딱히. 당신이 바쁘다는 건 알고 있으니까」"
 
 [[dialogue]]
-speaker = "パテル"
+speaker_original = "パテル"
+speaker_translation = "파텔"
 original = "「で、用件は？\u3000……予算の書類を急いで出さないといけない？\u3000も～、そういうのは忘れちゃダメじゃん」"
 translation = "「그래서, 용건은? ……예산 서류를 급하게 내야 한다고? 정말~, 그런 건 잊어버리면 안 되잖아」"
 
 [[dialogue]]
-speaker = "パテル"
+speaker_original = "パテル"
+speaker_translation = "파텔"
 original = "「でも……ここが新星学園の星徒会室か～。こんな感じなんだ」"
 translation = "「하지만…… 여기가 신성학원의 성도회실인가~. 이런 느낌이구나」"
 
 [[dialogue]]
-speaker = "パテル"
+speaker_original = "パテル"
+speaker_translation = "파텔"
 original = "「あなたが多くの時間を過ごしてる空間……うん、なかなか悪くないね。ソファもふかふかだし」"
 translation = "「당신이 많은 시간을 보내는 공간…… 응, 제법 나쁘지 않네. 소파도 푹신푹신하고」"
 
 [[dialogue]]
-speaker = "パテル"
+speaker_original = "パテル"
+speaker_translation = "파텔"
 original = "「んじゃ、あたしは仕事が終わるまで大人しく待ってるから」"
 translation = "「그럼, 나는 일이 끝날 때까지 얌전히 기다릴게」"
 
 [[dialogue]]
-speaker = "パテル"
+speaker_original = "パテル"
+speaker_translation = "파텔"
 original = "「……うずうず」"
 translation = "「……근질근질」"
 
 [[dialogue]]
-speaker = "パテル"
+speaker_original = "パテル"
+speaker_translation = "파텔"
 original = "「ふぅ～」"
 translation = "「후우~」"
 
 [[dialogue]]
-speaker = "パテル"
+speaker_original = "パテル"
+speaker_translation = "파텔"
 original = "「アハハッ、ビクってした～♪\u3000魔王は耳が弱いのかなぁ～」"
 translation = "「아하핫, 움찔했다~♪ 마왕은 귀가 약한가 봐~」"
 
 [[dialogue]]
-speaker = "パテル"
+speaker_original = "パテル"
+speaker_translation = "파텔"
 original = "「ついでにほっぺたを～……つんつん、つんつん」"
 translation = "「덤으로 볼을~…… 쿡쿡, 쿡쿡」"
 
@@ -84,72 +98,86 @@ original = "大人しく待ってるって言ったのに"
 translation = "얌전히 기다린다고 했으면서"
 
 [[dialogue]]
-speaker = "パテル"
+speaker_original = "パテル"
+speaker_translation = "파텔"
 original = "「ごめん、待てなかったや。邪魔されたくなかったら、早く終わらせてね。つんつん」"
 translation = "「미안, 못 기다리겠어. 방해받기 싫으면 빨리 끝내줘. 쿡쿡」"
 
 [[dialogue]]
-speaker = "パテル"
+speaker_original = "パテル"
+speaker_translation = "파텔"
 original = "「書類あと１枚で終わり？\u3000うんうん、よく頑張ったね。守護天使パテル様が褒めてあげる♪」"
 translation = "「서류 한 장만 더 하면 끝이야? 응응, 고생 많았어. 수호천사 파텔 님이 칭찬해 줄게♪」"
 
 [[dialogue]]
-speaker = "パテル"
+speaker_original = "パテル"
+speaker_translation = "파텔"
 original = "「は～い、最後の１枚も終わり♪\u3000じゃあ今度こそデートを──」"
 translation = "「네~에, 마지막 한 장도 끝♪ 그럼 이번에야말로 데이트를──」"
 
 [[dialogue]]
-speaker = "パテル"
+speaker_original = "パテル"
+speaker_translation = "파텔"
 original = "「ん？\u3000この音は……」"
 translation = "「응? 이 소리는……」"
 
 [[dialogue]]
-speaker = "モンスター"
+speaker_original = "モンスター"
+speaker_translation = "몬스터"
 original = "「イ～～～ッ」"
 translation = "「이이익──」"
 
 [[dialogue]]
-speaker = "パテル"
+speaker_original = "パテル"
+speaker_translation = "파텔"
 original = "「どうしてこうなっちゃうの～！？」"
 translation = "「어째서 이렇게 되는 거야~!?」"
 
 [[dialogue]]
-speaker = "パテル"
+speaker_original = "パテル"
+speaker_translation = "파텔"
 original = "「せっかくだから手伝うよ、魔王」"
 translation = "「이왕 이렇게 된 거 도와줄게, 마왕」"
 
 [[dialogue]]
-speaker = "パテル"
+speaker_original = "パテル"
+speaker_translation = "파텔"
 original = "「リクリエには手出ししないのがあたしのスタンスだけど、魔王には遊園地で助けられたから、その分は返すよ」"
 translation = "「리크리에에는 손대지 않는 게 내 스탠스지만, 마왕에게는 유원지에서 도움받았으니까 그만큼은 갚을게」"
 
 [[dialogue]]
-speaker = "パテル"
+speaker_original = "パテル"
+speaker_translation = "파텔"
 original = "「それに<ruby>ラクシャ<rt>あいつ</rt></ruby>との契約もあるから──ああいや、こっちの話」"
 translation = "「게다가 락샤과의 계약도 있으니까── 아 아니, 이건 혼잣말」"
 
 [[dialogue]]
-speaker = "パテル"
+speaker_original = "パテル"
+speaker_translation = "파텔"
 original = "「今回のリクリエはちょっと特殊だから、あたしも気になるんだ。だから場合によっては力を貸すこともあるかもね」"
 translation = "「이번 리크리에는 좀 특수하니까 나도 신경 쓰이거든. 그래서 경우에 따라서는 힘을 보태줄 수도 있을지 몰라」"
 
 [[dialogue]]
-speaker = "パテル"
+speaker_original = "パテル"
+speaker_translation = "파텔"
 original = "「ていうか、堕天させられた上、デートも邪魔されたんだからお仕置きしてやらないとね！」"
 translation = "「그보다, 타천당한 데다 데이트까지 방해받았으니까 벌을 좀 줘야겠지!」"
 
 [[dialogue]]
-speaker = "パテル"
+speaker_original = "パテル"
+speaker_translation = "파텔"
 original = "「あなたも試される時が来たよ──」"
 translation = "「당신도 시험받을 때가 왔어──」"
 
 [[dialogue]]
-speaker = "パテル"
+speaker_original = "パテル"
+speaker_translation = "파텔"
 original = "「トライアルオブデス！」"
 translation = "「트라이얼 오브 데스!」"
 
 [[dialogue]]
-speaker = "パテル"
+speaker_original = "パテル"
+speaker_translation = "파텔"
 original = "「は～ぁ、さんざんなデートになっちゃったよ。ま、犠牲が出なくてよかったね」"
 translation = "「하~아, 엉망진창인 데이트가 돼버렸네. 뭐, 희생자가 나오지 않아서 다행이야」"
 
@@ -159,67 +187,80 @@ original = "パテルでもそう言うんだな"
 translation = "파텔도 그런 말을 하는구나"
 
 [[dialogue]]
-speaker = "パテル"
+speaker_original = "パテル"
+speaker_translation = "파텔"
 original = "「そりゃ、死ぬか生きてるなら生きてる方がいいでしょ」"
 translation = "「그야, 죽는 것보다는 살아있는 게 낫잖아」"
 
 [[dialogue]]
-speaker = "パテル"
+speaker_original = "パテル"
+speaker_translation = "파텔"
 original = "「死は哀しいことさ。でも死がなければ世界は停滞する」"
 translation = "「죽음은 슬픈 일이야. 하지만 죽음이 없으면 세계는 정체돼」"
 
 [[dialogue]]
-speaker = "パテル"
+speaker_original = "パテル"
+speaker_translation = "파텔"
 original = "「あたしは死神だから、いちいち哀しい顔なんてしてられないけどね。あなたも嫌でしょ、そんな死神」"
 translation = "「나는 사신이니까 일일이 슬픈 표정만 짓고 있을 수는 없지만 말이야. 당신도 싫잖아, 그런 사신」"
 
 [[dialogue]]
-speaker = "パテル"
+speaker_original = "パテル"
+speaker_translation = "파텔"
 original = "「おっといけない、また死神トークしちゃった。かわいくないから自重しないとね。……あ」"
 translation = "「이런 이런, 또 사신 토크를 해버렸네. 귀엽지 않으니까 자제해야지. ……아」"
 
 [[dialogue]]
-speaker = "サーシャ"
+speaker_original = "サーシャ"
+speaker_translation = "사샤"
 original = "「あら～？\u3000アステラが発生したって聞いてきたけど、もう終わっちゃってるわね～」"
 translation = "「어라라~? 아스테라가 발생했다고 해서 와봤는데, 벌써 끝나버렸네~」"
 
 [[dialogue]]
-speaker = "マトイ"
+speaker_original = "マトイ"
+speaker_translation = "마토이"
 original = "「会長がやってくれたのね。あれ、附属の子も一緒にいる？\u3000見たことない子だけど……」"
 translation = "「회장님이 해결해 주셨군요. 어라, 부속 아이도 같이 있나요? 못 보던 아이인데……」"
 
 [[dialogue]]
-speaker = "パテル"
+speaker_original = "パテル"
+speaker_translation = "파텔"
 original = "（あたしが守護天使だってことは秘密にしておいてね♪）"
 translation = "（내가 수호천사라는 건 비밀로 해줘♪）"
 
 [[dialogue]]
-speaker = "パテル"
+speaker_original = "パテル"
+speaker_translation = "파텔"
 original = "「あたしプルちゃん！\u3000新星星徒会の人たちだよね。よろしく～！」"
 translation = "「난 푸루짱! 신성 성도회 사람들이지? 잘 부탁해~!」"
 
 [[dialogue]]
-speaker = "マトイ"
+speaker_original = "マトイ"
+speaker_translation = "마토이"
 original = "「うん、よろしくね。会長とは仲いいの？」"
 translation = "「응, 잘 부탁해. 회장이랑은 친한 사이니?」"
 
 [[dialogue]]
-speaker = "パテル"
+speaker_original = "パテル"
+speaker_translation = "파텔"
 original = "「もちろん！\u3000ね、会長さん？」"
 translation = "「물론이지! 그치, 회장님?」"
 
 [[dialogue]]
-speaker = "マトイ"
+speaker_original = "マトイ"
+speaker_translation = "마토이"
 original = "「わ、抱きついちゃった。あんなに密着して、ちょっと大胆かも……」"
 translation = "「와, 안겨버렸어. 저렇게 밀착하다니, 좀 대담할지도……」"
 
 [[dialogue]]
-speaker = "サーシャ"
+speaker_original = "サーシャ"
+speaker_translation = "사샤"
 original = "「うふふ。とっても仲良しなのね～」"
 translation = "「우후후. 정말 사이가 좋네~」"
 
 [[dialogue]]
-speaker = "パテル"
+speaker_original = "パテル"
+speaker_translation = "파텔"
 original = "「フフ……」"
 translation = "「후후……」"
 
@@ -229,7 +270,8 @@ original = "ニヤニヤ笑ってどうしたんだ？"
 translation = "싱글벙글 웃으면서 왜 그러는 거야?"
 
 [[dialogue]]
-speaker = "パテル"
+speaker_original = "パテル"
+speaker_translation = "파텔"
 original = "「ほっぺたに～……チュッ<emoji=heart04>」"
 translation = "「뺨에~…… 쪽<emoji=heart04>」"
 
@@ -239,32 +281,38 @@ original = "！？"
 translation = "!?"
 
 [[dialogue]]
-speaker = "マトイ"
+speaker_original = "マトイ"
+speaker_translation = "마토이"
 original = "「ひゃ～っ！？\u3000キスしちゃった！？」"
 translation = "「히야~!? 키스해 버렸어!?」"
 
 [[dialogue]]
-speaker = "サーシャ"
+speaker_original = "サーシャ"
+speaker_translation = "사샤"
 original = "「あらあら～♪」"
 translation = "「어머어머~♪」"
 
 [[dialogue]]
-speaker = "パテル"
+speaker_original = "パテル"
+speaker_translation = "파텔"
 original = "「いや～、実は会長さんとはこういう<ruby>関係<rt>なか</rt></ruby>なんだよね<emoji=heart04>」"
 translation = "「아니~ 사실 회장님과는 이런 관계거든<emoji=heart04>」"
 
 [[dialogue]]
-speaker = "マトイ"
+speaker_original = "マトイ"
+speaker_translation = "마토이"
 original = "「ひゃあ……附属の子って進んでるんだぁ……」"
 translation = "「히야아…… 부속 애들은 진도가 빠르구나……」"
 
 [[dialogue]]
-speaker = "パテル"
+speaker_original = "パテル"
+speaker_translation = "파텔"
 original = "「今日はちゃんとデートできなかったけど、ま、たまにはこういうのもありかな♪」"
 translation = "「오늘은 제대로 데이트하지 못했지만, 뭐, 가끔은 이런 것도 괜찮으려나♪」"
 
 [[dialogue]]
-speaker = "パテル"
+speaker_original = "パテル"
+speaker_translation = "파텔"
 original = "「あなたが死ぬまで見届けてあげるから……これからもっとイチャイチャしようね<emoji=heart04>」"
 translation = "「당신이 죽을 때까지 지켜봐 줄 테니까…… 앞으로 좀 더 꽁냥꽁냥하자<emoji=heart04>」"
 

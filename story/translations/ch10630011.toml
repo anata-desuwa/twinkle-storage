@@ -4,7 +4,8 @@ original = "第１話,ネビュラの小さな番犬,P"
 translation = "제1화, 네뷸라의 작은 번견, P"
 
 [[dialogue]]
-speaker = "セドナ"
+speaker_original = "セドナ"
+speaker_translation = "세드나"
 original = "『折り入って話がある。基地まで出向いてくれないか』"
 translation = "『긴히 할 말이 있다. 기지까지 와주지 않겠나.』"
 
@@ -24,12 +25,14 @@ original = "っっ！？"
 translation = "윽!? 씨!"
 
 [[dialogue]]
-speaker = "カヤ"
+speaker_original = "カヤ"
+speaker_translation = "카야"
 original = "「性懲りもなく何しに来た。それも今度はたった一人で」"
 translation = "「정신 못 차리고 뭐 하러 왔어. 그것도 이번엔 단 한 명뿐이라니.」"
 
 [[dialogue]]
-speaker = "カヤ"
+speaker_original = "カヤ"
+speaker_translation = "카야"
 original = "「まさか自分一人で十分、思った？\u3000だとしたらネビュラも私も見くびられたもの。その傲慢っぷり、後悔するといい」"
 translation = "「설마 혼자서 충분하다고 생각했어? 그렇다면 네뷸라도 나도 얕보인 거네. 그 오만함, 후회하게 될 거야.」"
 
@@ -39,62 +42,74 @@ original = "待て！\u3000俺はセドナに呼び出されて──"
 translation = "기다려! 나는 세드나에게 불려 와서──"
 
 [[dialogue]]
-speaker = "カヤ"
+speaker_original = "カヤ"
+speaker_translation = "카야"
 original = "「そんな通達、聞いてない。侵入者は漏れなく排除する。それが私の仕事」"
 translation = "「그런 통달, 듣지 못했어. 침입자는 예외 없이 배제한다. 그게 내 일.」"
 
 [[dialogue]]
-speaker = "カヤ"
+speaker_original = "カヤ"
+speaker_translation = "카야"
 original = "「……どうして反撃してこない？\u3000私のこと、年下だと思って舐めてる？」"
 translation = "「……어째서 반격해오지 않아? 내가 나이가 어려 보인다고 얕보는 거야?」"
 
 [[dialogue]]
-speaker = "カヤ"
+speaker_original = "カヤ"
+speaker_translation = "카야"
 original = "「なら、そのまま舐めているといい。たとえ無抵抗でも、私は容赦──しないっ！」"
 translation = "「그럼, 그대로 얕보고 있으면 돼. 설령 무저항이라도, 나는 용서── 안 해!」"
 
 [[dialogue]]
-speaker = "カヤ"
+speaker_original = "カヤ"
+speaker_translation = "카야"
 original = "「……動くな。少しでも動いたら切る」"
 translation = "「……움직이지 마. 조금이라도 움직이면 베겠어.」"
 
 [[dialogue]]
-speaker = "カヤ"
+speaker_original = "カヤ"
+speaker_translation = "카야"
 original = "「人のこと舐めるからこうなる。最後に言い残すことあれば言うといい」"
 translation = "「사람을 얕보니까 이렇게 되는 거야. 마지막으로 남길 말 있으면 해.」"
 
 [[dialogue]]
-speaker = "セドナ"
+speaker_original = "セドナ"
+speaker_translation = "세드나"
 original = "「──そこまでだ、カヤ。武器を下ろせ」"
 translation = "「──거기까지다, 카야. 무기를 내려놔라.」"
 
 [[dialogue]]
-speaker = "カヤ"
+speaker_original = "カヤ"
+speaker_translation = "카야"
 original = "「長官……？\u3000けどこの男、侵入者。排除しないと……」"
 translation = "「장관님……? 하지만 이 남자, 침입자. 배제해야……」"
 
 [[dialogue]]
-speaker = "セドナ"
+speaker_original = "セドナ"
+speaker_translation = "세드나"
 original = "「聞こえなかったか？\u3000二度言わせるな」"
 translation = "「들리지 않았나? 두 번 말하게 하지 마라.」"
 
 [[dialogue]]
-speaker = "カヤ"
+speaker_original = "カヤ"
+speaker_translation = "카야"
 original = "「……了解……」"
 translation = "「……알겠어……」"
 
 [[dialogue]]
-speaker = "セドナ"
+speaker_original = "セドナ"
+speaker_translation = "세드나"
 original = "「そちらも早く立ち上がるといい。フ……そう警戒するな。陥れるつもりなら、こうして止めはしないさ」"
 translation = "「그쪽도 빨리 일어서는 게 좋겠군. 후…… 그렇게 경계하지 마라. 빠뜨릴 생각이었다면, 이렇게 멈추지 않았을 테니까.」"
 
 [[dialogue]]
-speaker = "セドナ"
+speaker_original = "セドナ"
+speaker_translation = "세드나"
 original = "「改めてカヤの実力を教えてやろうと思ってな。紹介がてら、あえて来訪を知らせず襲わせてみたというわけだが……どうだった、うちの番犬は？」"
 translation = "「새삼 카야의 실력을 알려줄까 해서 말이지. 소개 겸해서, 일부러 내방을 알리지 않고 습격시켜 본 것이다만…… 어땠나, 우리 집 번견은?」"
 
 [[dialogue]]
-speaker = "セドナ"
+speaker_original = "セドナ"
+speaker_translation = "세드나"
 original = "「しかしカヤを相手取って一切反撃をしないとはな。幼い見た目に惑わされたか？\u3000その甘さ、戦場では命取りになるぞ」"
 translation = "「하지만 카야를 상대로 일절 반격을 하지 않다니. 어린 외모에 현혹되었나? 그 안이함은 전장에서 치명상이 될 거다.」"
 
@@ -104,67 +119,80 @@ original = "……それで用件は？"
 translation = "……그래서 용건은?"
 
 [[dialogue]]
-speaker = "セドナ"
+speaker_original = "セドナ"
+speaker_translation = "세드나"
 original = "「怖い顔をするな。貴様にカヤを護衛に付けてやろうという話だよ」"
 translation = "「무서운 얼굴 하지 마라. 네놈에게 카야를 호위로 붙여주겠다는 이야기다.」"
 
 [[dialogue]]
-speaker = "カヤ"
+speaker_original = "カヤ"
+speaker_translation = "카야"
 original = "「護衛……？\u3000私が……？」"
 translation = "「호위……? 내가……?」"
 
 [[dialogue]]
-speaker = "セドナ"
+speaker_original = "セドナ"
+speaker_translation = "세드나"
 original = "「ああ。先程の様子ではいつなんどき、この男が敵に捕らえられるかわかったものではないからな」"
 translation = "「그래. 아까 보아하니 언제 어느 때, 이 남자가 적에게 붙잡힐지 알 수 없으니까 말이다.」"
 
 [[dialogue]]
-speaker = "セドナ"
+speaker_original = "セドナ"
+speaker_translation = "세드나"
 original = "「万が一でもこちらの情報を漏らされては困る。そのための保険ということだ」"
 translation = "「만약에라도 이쪽의 정보가 새어 나가면 곤란해. 그를 위한 보험이라는 뜻이다.」"
 
 [[dialogue]]
-speaker = "セドナ"
+speaker_original = "セドナ"
+speaker_translation = "세드나"
 original = "「カヤの力は今の戦闘で理解できただろう？\u3000無愛想だが、腕は確かだ。傍に控えさせて損はないぞ」"
 translation = "「카야의 힘은 방금 전 전투로 이해했겠지? 무뚝뚝하지만, 솜씨는 확실하다. 곁에 두어 손해 볼 건 없어.」"
 
 [[dialogue]]
-speaker = "カヤ"
+speaker_original = "カヤ"
+speaker_translation = "카야"
 original = "「……護衛任務。この男の……」"
 translation = "「……호위 임무. 이 남자의……」"
 
 [[dialogue]]
-speaker = "セドナ"
+speaker_original = "セドナ"
+speaker_translation = "세드나"
 original = "「不満か？\u3000半ば監視のようなものだ。お前の得意分野だろう？」"
 translation = "「불만인가? 반은 감시 같은 거다. 네 전공 분야잖아?」"
 
 [[dialogue]]
-speaker = "カヤ"
+speaker_original = "カヤ"
+speaker_translation = "카야"
 original = "「それはそう……ですが……」"
 translation = "「그건 그렇…… 지만……」"
 
 [[dialogue]]
-speaker = "セドナ"
+speaker_original = "セドナ"
+speaker_translation = "세드나"
 original = "「フフ、嫌われているではないか。反撃されなかったことが余程、気に食わなかったらしい」"
 translation = "「후후, 미움받고 있지 않나. 반격당하지 않은 것이 상당히, 마음에 들지 않았던 모양이군.」"
 
 [[dialogue]]
-speaker = "セドナ"
+speaker_original = "セドナ"
+speaker_translation = "세드나"
 original = "「しかし敵愾心を抱きすぎるなよ。仲良くする必要はないが、敵意に振り回されて警戒を怠られても困る」"
 translation = "「하지만 적개심을 너무 품지는 마라. 사이좋게 지낼 필요는 없지만, 적의에 휘둘려 경계를 소홀히 해도 곤란하니까.」"
 
 [[dialogue]]
-speaker = "カヤ"
+speaker_original = "カヤ"
+speaker_translation = "카야"
 original = "「…………ん」"
 translation = "「…………으응.」"
 
 [[dialogue]]
-speaker = "セドナ"
+speaker_original = "セドナ"
+speaker_translation = "세드나"
 original = "「返事の曖昧さが気になるが……まぁいいだろう。話は以上だ。カヤは準備が出来次第、警護に就け」"
 translation = "「대답의 애매함이 신경 쓰인다만…… 뭐 됐지. 이야기는 이상이다. 카야는 준비가 되는 대로 경호에 임해라.」"
 
 [[dialogue]]
-speaker = "カヤ"
+speaker_original = "カヤ"
+speaker_translation = "카야"
 original = "「了解」"
 translation = "「알겠어.」"
 
@@ -174,17 +202,20 @@ original = "俺は別に護衛なんて──"
 translation = "나는 딱히 호위 같은 건──"
 
 [[dialogue]]
-speaker = "セドナ"
+speaker_original = "セドナ"
+speaker_translation = "세드나"
 original = "「貴様に拒否権はない。ネビュラの情報漏洩を防ぐためだと言っただろう？\u3000貴様の甘さは看過できない」"
 translation = "「네놈에게 거부권은 없다. 네뷸라의 정보 유출을 막기 위해서라고 말했지? 네놈의 무름은 간과할 수 없어.」"
 
 [[dialogue]]
-speaker = "セドナ"
+speaker_original = "セドナ"
+speaker_translation = "세드나"
 original = "「理解したのなら立ち去れ。私は忙しい」"
 translation = "「이해했다면 물러가라. 나는 바쁘다.」"
 
 [[dialogue]]
-speaker = "セドナ"
+speaker_original = "セドナ"
+speaker_translation = "세드나"
 original = "「ああ、そうだ。カヤは人間界を訪れたことがなくてな。優しくエスコートしてやってくれ。お節介が得意なのだろう？」"
 translation = "「아아, 맞다. 카야는 인간계를 방문한 적이 없어서 말이지. 다정하게 에스코트해 줘라. 참견하는 게 특기잖아?」"
 
@@ -194,82 +225,98 @@ original = "…………"
 translation = "…………"
 
 [[dialogue]]
-speaker = "セドナ"
+speaker_original = "セドナ"
+speaker_translation = "세드나"
 original = "「ふむ。行ったか」"
 translation = "「흠. 갔나.」"
 
 [[dialogue]]
-speaker = "カヤ"
+speaker_original = "カヤ"
+speaker_translation = "카야"
 original = "「私も配置、つきます」"
 translation = "「나도 배치, 붙겠어.」"
 
 [[dialogue]]
-speaker = "セドナ"
+speaker_original = "セドナ"
+speaker_translation = "세드나"
 original = "「少し待て。本題の説明がまだだ」"
 translation = "「잠시 기다려라. 본론 설명이 아직이다.」"
 
 [[dialogue]]
-speaker = "カヤ"
+speaker_original = "カヤ"
+speaker_translation = "카야"
 original = "「本題？」"
 translation = "「본론?」"
 
 [[dialogue]]
-speaker = "セドナ"
+speaker_original = "セドナ"
+speaker_translation = "세드나"
 original = "「先程の話は建前だ。情報漏洩を危惧しているのは事実だが、お前には護衛の裏でしてもらいたいことがある」"
 translation = "「방금 이야기는 겉치레다. 정보 유출을 우려하는 건 사실이다만, 네가 호위 이면에서 해줬으면 하는 일이 있다.」"
 
 [[dialogue]]
-speaker = "セドナ"
+speaker_original = "セドナ"
+speaker_translation = "세드나"
 original = "「アポロでも星騎士でも、ましてや魔女でもない正体不明の存在については知っているな？」"
 translation = "「아폴로도 성기사도, 하물며 마녀도 아닌 정체불명의 존재에 대해서는 알고 있겠지?」"
 
 [[dialogue]]
-speaker = "カヤ"
+speaker_original = "カヤ"
+speaker_translation = "카야"
 original = "「！\u3000捕獲したモンスターを逃がしたヤツ──」"
 translation = "「! 포획한 몬스터를 놓아준 녀석──」"
 
 [[dialogue]]
-speaker = "セドナ"
+speaker_original = "セドナ"
+speaker_translation = "세드나"
 original = "「そうだ。ヤツの正体を探れ。お前が任務で不在の時とはいえ、この基地に忍び込まれたのは不愉快だろう？」"
 translation = "「그래. 녀석의 정체를 파악해라. 네가 임무로 부재중이었을 때라고는 하나, 이 기지에 잠입한 건 불쾌하겠지?」"
 
 [[dialogue]]
-speaker = "セドナ"
+speaker_original = "セドナ"
+speaker_translation = "세드나"
 original = "「ヤツはまた魔王に接触してくる可能性がある。護衛についていれば、遭遇することもあるだろう」"
 translation = "「녀석은 다시 마왕에게 접촉해올 가능성이 있다. 호위를 맡고 있으면, 조우할 일도 있겠지.」"
 
 [[dialogue]]
-speaker = "セドナ"
+speaker_original = "セドナ"
+speaker_translation = "세드나"
 original = "「ヤツの正体を掴めるなら、魔王の身柄がどうなろうと構わん。優先順位を忘れるな」"
 translation = "「녀석의 정체를 잡을 수 있다면, 마왕의 신변이 어떻게 되든 상관없다. 우선순위를 잊지 마라.」"
 
 [[dialogue]]
-speaker = "カヤ"
+speaker_original = "カヤ"
+speaker_translation = "카야"
 original = "「つまりこれは……彼をエサに正体不明の存在を釣り上げる任務？」"
 translation = "「즉 이건…… 그를 미끼로 정체불명의 존재를 낚아 올리는 임무?」"
 
 [[dialogue]]
-speaker = "セドナ"
+speaker_original = "セドナ"
+speaker_translation = "세드나"
 original = "「そう、魔王がエサならお前は釣り針といったところだ。とはいえ獲物がかかるのはいつになるかわからないからな。釣りらしく気楽にやるといい」"
 translation = "「그래, 마왕이 미끼라면 너는 낚싯바늘이라 할 수 있겠지. 하지만 사냥감이 걸리는 게 언제가 될지는 모르니까. 낚시답게 편하게 하도록 해라.」"
 
 [[dialogue]]
-speaker = "カヤ"
+speaker_original = "カヤ"
+speaker_translation = "카야"
 original = "「気楽に……。それも命令？」"
 translation = "「편하게……. 그것도 명령?」"
 
 [[dialogue]]
-speaker = "セドナ"
+speaker_original = "セドナ"
+speaker_translation = "세드나"
 original = "「ふむ、そうだな……。補足するならば、魔王に真意を気付かれないよう自然に振る舞え、といったところか」"
 translation = "「흠, 그렇군……. 보충하자면, 마왕에게 진의를 들키지 않도록 자연스럽게 행동해라, 정도일까.」"
 
 [[dialogue]]
-speaker = "カヤ"
+speaker_original = "カヤ"
+speaker_translation = "카야"
 original = "「それなら──ん。了解。行動、開始する」"
 translation = "「그렇다면── 응. 알겠어. 행동, 개시할게.」"
 
 [[dialogue]]
-speaker = "セドナ"
+speaker_original = "セドナ"
+speaker_translation = "세드나"
 original = "「……やれやれ。カヤももう少し融通が利くようになればな。まぁだからこそ今回の任務に適任だ。カヤなら必要以上に魔王と親密になることもあるまい」"
 translation = "「……이런 이런. 카야도 좀 더 융통성이 있게 되면 좋으련만. 뭐 그렇기에 이번 임무에 적임이지. 카야라면 필요 이상으로 마왕과 친밀해질 일도 없을 테니까.」"
 

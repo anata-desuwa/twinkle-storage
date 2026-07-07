@@ -1,30 +1,36 @@
 [[dialogue]]
-speaker = "クロト"
+speaker_original = "クロト"
+speaker_translation = "쿠로토"
 original = "「なんとか勝てたか……２人のおかげだ」"
 translation = "「어떻게든 이겼나…… 두 사람 덕분이야.」"
 
 [[dialogue]]
-speaker = "アナ"
+speaker_original = "アナ"
+speaker_translation = "아나"
 original = "「あなたもありがとう。初陣の割には、よく動けてた」"
 translation = "「당신도 고마워. 첫 출전치고는, 잘 움직였어.」"
 
 [[dialogue]]
-speaker = "マトイ"
+speaker_original = "マトイ"
+speaker_translation = "마토이"
 original = "「……あれ？\u3000向こうにいるのって……」"
 translation = "「……어라? 저쪽에 있는 건……」"
 
 [[dialogue]]
-speaker = "サーシャ"
+speaker_original = "サーシャ"
+speaker_translation = "사샤"
 original = "「２人とも～。わたしも混ぜて～」"
 translation = "「둘 다~. 나도 끼워 줘~」"
 
 [[dialogue]]
-speaker = "マトイ"
+speaker_original = "マトイ"
+speaker_translation = "마토이"
 original = "「サーシャさ──って。その後ろに連れてるのは何ですか！？」"
 translation = "「사샤 씨──라고. 그 뒤에 데리고 있는 건 뭐예요!?」"
 
 [[dialogue]]
-speaker = "サーシャ"
+speaker_original = "サーシャ"
+speaker_translation = "사샤"
 original = "「こっちも手伝ってくれないかしら、ふふふっ」"
 translation = "「이쪽도 도와주지 않을래, 후후훗」"
 

@@ -4,42 +4,50 @@ original = "第２話,天使と語らうティーパーティー,P"
 translation = "제2화, 천사와 이야기하는 티 파티,P"
 
 [[dialogue]]
-speaker = "ルリエル"
+speaker_original = "ルリエル"
+speaker_translation = "루리엘"
 original = "「女神様……いえ、ルネアさん。ようこそお越し下さいました！」"
 translation = "「여신님…… 아니, 루네아 씨. 어서 오세요!」"
 
 [[dialogue]]
-speaker = "ルネア"
+speaker_original = "ルネア"
+speaker_translation = "루네아"
 original = "「お茶会へのお招きありがとう。ルリエル、だったかしら」"
 translation = "「다과회에 초대해 줘서 고마워. 루리엘, 이었지」"
 
 [[dialogue]]
-speaker = "ルリエル"
+speaker_original = "ルリエル"
+speaker_translation = "루리엘"
 original = "「はい！\u3000ちゃんとお会いできて嬉しいのです♪」"
 translation = "「네! 제대로 만날 수 있어서 기쁜 거예요♪」"
 
 [[dialogue]]
-speaker = "ルネア"
+speaker_original = "ルネア"
+speaker_translation = "루네아"
 original = "「その……あなたにも色々と迷惑をかけたわね、ごめんなさい」"
 translation = "「그…… 너에게도 여러 가지 폐를 끼쳤지, 미안해」"
 
 [[dialogue]]
-speaker = "ルリエル"
+speaker_original = "ルリエル"
+speaker_translation = "루리엘"
 original = "「いえいえ、全然大丈夫ですよ～。実を言うと、あんまりよく憶えていませんし……」"
 translation = "「아뇨 아뇨, 전혀 괜찮아요~. 사실은, 별로 잘 기억하지 못하고 있고요……」"
 
 [[dialogue]]
-speaker = "エグザエル"
+speaker_original = "エグザエル"
+speaker_translation = "에그자엘"
 original = "「フッ、もし言いたいことがあるのであれば、我が輩の中に入って、思いの丈を存分にぶちまけるがいい」"
 translation = "「훗, 만약 하고 싶은 말이 있다면, 내 안으로 들어와서, 마음껏 생각을 털어놓는 것이 좋을 것이다」"
 
 [[dialogue]]
-speaker = "ルリエル"
+speaker_original = "ルリエル"
+speaker_translation = "루리엘"
 original = "「ほえ……？」"
 translation = "「호에……?」"
 
 [[dialogue]]
-speaker = "ルネア"
+speaker_original = "ルネア"
+speaker_translation = "루네아"
 original = "「それでっ、今日のお茶会は、どういった集まりなのかしら？」"
 translation = "「그래서, 오늘의 다과회는, 어떤 모임이니?」"
 
@@ -49,82 +57,98 @@ original = "ルリエルの発案なんだ"
 translation = "루리엘의 발상이다"
 
 [[dialogue]]
-speaker = "ルネア"
+speaker_original = "ルネア"
+speaker_translation = "루네아"
 original = "「あら、そうなのね」"
 translation = "「어머, 그렇구나」"
 
 [[dialogue]]
-speaker = "ルリエル"
+speaker_original = "ルリエル"
+speaker_translation = "루리엘"
 original = "「はいなのです！\u3000先日は、なんだかよくわからないうちに解散となってしまいましたが……わたし、もっとルネアさんの話を聞いてみたかったのです！」"
 translation = "「네인 거예요! 지난번에는, 왠지 모르게 해산되어 버렸지만…… 저는, 루네아 씨의 이야기를 더 들어보고 싶었던 거예요!」"
 
 [[dialogue]]
-speaker = "ルリエル"
+speaker_original = "ルリエル"
+speaker_translation = "루리엘"
 original = "「別世界の女神様だなんて、とっても神秘的な響きで気になります！\u3000ぜひ色々と教えてほしいのですよ～」"
 translation = "「다른 세계의 여신님이라니, 굉장히 신비로운 울림이라 신경 쓰여요! 꼭 여러 가지 가르쳐줬으면 좋겠어요~」"
 
 [[dialogue]]
-speaker = "ルネア"
+speaker_original = "ルネア"
+speaker_translation = "루네아"
 original = "「ふ～ん、あなた、なかなか見所があるわね」"
 translation = "「흐~음, 너, 꽤나 재목이 있네」"
 
 [[dialogue]]
-speaker = "エグザエル"
+speaker_original = "エグザエル"
+speaker_translation = "에그자엘"
 original = "「ほう……ルネア様の弱点でも暴こうという魂胆か？」"
 translation = "「호오…… 루네아 님의 약점이라도 폭로하려는 속셈인가?」"
 
 [[dialogue]]
-speaker = "エグザエル"
+speaker_original = "エグザエル"
+speaker_translation = "에그자엘"
 original = "「ちなみに、我が輩は全身が敏感であるが故、弱点には事欠かん。この気持ち良さは、凡人にはわかるまい」"
 translation = "「덧붙여, 이 몸은 전신이 민감하기 때문에, 약점은 부족하지 않다. 이 기분 좋음은, 범인에게는 알 수 없을 것이다」"
 
 [[dialogue]]
-speaker = "ルネア"
+speaker_original = "ルネア"
+speaker_translation = "루네아"
 original = "「ちょっと、黙っててくれる……？」"
 translation = "「잠깐, 조용히 해줄래……?」"
 
 [[dialogue]]
-speaker = "ルリエル"
+speaker_original = "ルリエル"
+speaker_translation = "루리엘"
 original = "「でもでも、エグザエルさんについても、詳しく訊いてみたいと思っていたのです！」"
 translation = "「하지만 하지만, 에그자엘 씨에 대해서도, 자세히 물어보고 싶었어요!」"
 
 [[dialogue]]
-speaker = "ルネア"
+speaker_original = "ルネア"
+speaker_translation = "루네아"
 original = "「それは、あまりお勧めしないわよ……」"
 translation = "「그것은, 별로 추천하지 않아……」"
 
 [[dialogue]]
-speaker = "ルリエル"
+speaker_original = "ルリエル"
+speaker_translation = "루리엘"
 original = "「使い魔さん……のような方なのでしょうか……？」"
 translation = "「사역마 씨…… 같은 분이신 걸까요……?」"
 
 [[dialogue]]
-speaker = "エグザエル"
+speaker_original = "エグザエル"
+speaker_translation = "에그자엘"
 original = "「ふん、この天使長エグザエルを、そのような連中と同列に語らないでもらおう」"
 translation = "「흥, 이 천사장 에그자엘을, 그러한 무리들과 동렬로 이야기하지 말아라」"
 
 [[dialogue]]
-speaker = "ルリエル"
+speaker_original = "ルリエル"
+speaker_translation = "루리엘"
 original = "「えっと……つまり、とっても偉い天使様、ということなのですか……？」"
 translation = "「음…… 즉, 굉장히 위대한 천사님, 이라는 것인 건가요……?」"
 
 [[dialogue]]
-speaker = "エグザエル"
+speaker_original = "エグザエル"
+speaker_translation = "에그자엘"
 original = "「うむ、或いは一種の下僕のようなものだな」"
 translation = "「음, 혹은 일종의 하인 같은 것이지」"
 
 [[dialogue]]
-speaker = "ルリエル"
+speaker_original = "ルリエル"
+speaker_translation = "루리엘"
 original = "「えぇぇ……？」"
 translation = "「에에에……?」"
 
 [[dialogue]]
-speaker = "ルネア"
+speaker_original = "ルネア"
+speaker_translation = "루네아"
 original = "「はぁ……それよりも、お茶、いただけるかしら」"
 translation = "「하아…… 그것보다, 차, 마실 수 있을까」"
 
 [[dialogue]]
-speaker = "ルリエル"
+speaker_original = "ルリエル"
+speaker_translation = "루리엘"
 original = "「あっ、はいなのです！」"
 translation = "「앗, 네인 거예요!」"
 
@@ -134,22 +158,26 @@ original = "こっちの席にどうぞ"
 translation = "이쪽 자리에 앉으세요"
 
 [[dialogue]]
-speaker = "ルネア"
+speaker_original = "ルネア"
+speaker_translation = "루네아"
 original = "「ありがとう」"
 translation = "「고마워」"
 
 [[dialogue]]
-speaker = "ルリエル"
+speaker_original = "ルリエル"
+speaker_translation = "루리엘"
 original = "「えへへ……フィオナ会長お勧めのお茶に、お茶菓子もたくさん用意したんですよ。どうぞ召し上がって欲しいのです！」"
 translation = "「에헤헤…… 피오나 회장 추천의 차에, 다과도 많이 준비했어요. 부디 드셔주셨으면 좋겠어요!」"
 
 [[dialogue]]
-speaker = "ルネア"
+speaker_original = "ルネア"
+speaker_translation = "루네아"
 original = "「あら、気が利くわね。早速いただくわ」"
 translation = "「어머, 센스 있네. 바로 마실게」"
 
 [[dialogue]]
-speaker = "ルリエル"
+speaker_original = "ルリエル"
+speaker_translation = "루리엘"
 original = "「絶対おいしいのです！\u3000ルリエルはたくさんつまみ食いをしたので、間違いありません」"
 translation = "「절대 맛있는 거예요! 루리엘은 많이 집어 먹었으니, 틀림없어요」"
 
@@ -159,37 +187,44 @@ original = "ルリエル、せめて『味見』って言っておこう"
 translation = "루리엘, 적어도 『맛봤다』고 해두자"
 
 [[dialogue]]
-speaker = "ルネア"
+speaker_original = "ルネア"
+speaker_translation = "루네아"
 original = "「こちらの世界の食べ物、どれもおいしくて好きよ。今のところ、どれも当たりだわ……はむはむ」"
 translation = "「이쪽 세계의 음식, 모두 맛있어서 좋아. 지금으로선, 모두 성공이야…… 냠냠」"
 
 [[dialogue]]
-speaker = "ルネア"
+speaker_original = "ルネア"
+speaker_translation = "루네아"
 original = "「んむんむ……あ、このお菓子もいいわね。気に入ったわ」"
 translation = "「음음…… 아, 이 과자도 좋네. 마음에 들었어」"
 
 [[dialogue]]
-speaker = "ルリエル"
+speaker_original = "ルリエル"
+speaker_translation = "루리엘"
 original = "「あれ……いつの間にか、お皿が空っぽに……」"
 translation = "「어라…… 어느새, 접시가 텅 비었네……」"
 
 [[dialogue]]
-speaker = "ルネア"
+speaker_original = "ルネア"
+speaker_translation = "루네아"
 original = "「ねぇ、こちらのお菓子、おかわりはあるかしら」"
 translation = "「저기, 이쪽 과자, 더 있을까」"
 
 [[dialogue]]
-speaker = "ルリエル"
+speaker_original = "ルリエル"
+speaker_translation = "루리엘"
 original = "「あっ、はいなのです！\u3000……あの、ルネアさんって、意外と食いしん坊さんなのですね！」"
 translation = "「앗, 네인 거예요! ……저, 루네아 씨는, 의외로 식탐이 많으시네요!」"
 
 [[dialogue]]
-speaker = "ルネア"
+speaker_original = "ルネア"
+speaker_translation = "루네아"
 original = "「……またそういう反応をされるのね。そんなに意外かしら……？」"
 translation = "「……또 그런 반응을 하는구나. 그렇게 의외니……?」"
 
 [[dialogue]]
-speaker = "ルリエル"
+speaker_original = "ルリエル"
+speaker_translation = "루리엘"
 original = "「意外と言えば意外なのです！\u3000食べる時の動きなんかは、フィオナ会長みたいでとってもお上品だったので」"
 translation = "「의외라면 의외인 거예요! 먹을 때의 움직임 같은 건, 피오나 회장처럼 굉장히 고상했거든요」"
 
@@ -204,167 +239,200 @@ original = "正直、親近感はちょっと沸きました。"
 translation = "솔직히, 친근감은 조금 들었습니다."
 
 [[dialogue]]
-speaker = "ルネア"
+speaker_original = "ルネア"
+speaker_translation = "루네아"
 original = "「別に、気にしていないわ」"
 translation = "「별로, 신경 쓰지 않아」"
 
 [[dialogue]]
-speaker = "エグザエル"
+speaker_original = "エグザエル"
+speaker_translation = "에그자엘"
 original = "「何事においても、寛大な心と女神としての品格は、持ち合わせていて当然ですからな」"
 translation = "「무슨 일이든, 관대한 마음과 여신으로서의 품격은, 갖추고 있는 것이 당연하니까 말이다」"
 
 [[dialogue]]
-speaker = "ルネア"
+speaker_original = "ルネア"
+speaker_translation = "루네아"
 original = "「まあ、そういうことね」"
 translation = "「뭐, 그런 거지」"
 
 [[dialogue]]
-speaker = "エグザエル"
+speaker_original = "エグザエル"
+speaker_translation = "에그자엘"
 original = "「大食いでわがままなところは、玉に瑕ですがな」"
 translation = "「대식가에 제멋대로인 점은, 옥에 티지만 말이다」"
 
 [[dialogue]]
-speaker = "ルネア"
+speaker_original = "ルネア"
+speaker_translation = "루네아"
 original = "「失礼ねっ」"
 translation = "「실례네!」"
 
 [[dialogue]]
-speaker = "エグザエル"
+speaker_original = "エグザエル"
+speaker_translation = "에그자엘"
 original = "「おっほ」"
 translation = "「옷호」"
 
 [[dialogue]]
-speaker = "ルリエル"
+speaker_original = "ルリエル"
+speaker_translation = "루리엘"
 original = "「おお～……力強いのです。さすが女神様！」"
 translation = "「오오~…… 힘이 넘치는 거예요. 역시 여신님!」"
 
 [[dialogue]]
-speaker = "ルネア"
+speaker_original = "ルネア"
+speaker_translation = "루네아"
 original = "「あら失礼、お行儀が悪かったわね」"
 translation = "「어머 실례, 예의가 없었네」"
 
 [[dialogue]]
-speaker = "ルリエル"
+speaker_original = "ルリエル"
+speaker_translation = "루리엘"
 original = "「あの、それじゃあ、特に好きな食べ物とかは、何かありますか？」"
 translation = "「저, 그럼, 특히 좋아하는 음식 같은 건, 뭔가 있나요?」"
 
 [[dialogue]]
-speaker = "ルネア"
+speaker_original = "ルネア"
+speaker_translation = "루네아"
 original = "「ん～、そうね……やっぱりお肉とか、食べ応えのあるものが１番好きだけれど……でも、動物の丸焼きみたいな、元の食材の形がわかるものは苦手かしら」"
 translation = "「음~, 그렇네…… 역시 고기라든가, 먹을 보람이 있는 것이 가장 좋지만…… 하지만, 동물의 통구이 같은, 원래 식재료의 형태를 알 수 있는 것은 싫어할까」"
 
 [[dialogue]]
-speaker = "ルリエル"
+speaker_original = "ルリエル"
+speaker_translation = "루리엘"
 original = "「へぇ～、なかなか複雑なのです」"
 translation = "「헤에~, 꽤나 복잡한 거예요」"
 
 [[dialogue]]
-speaker = "ルネア"
+speaker_original = "ルネア"
+speaker_translation = "루네아"
 original = "「あと、好きな食べ物といえば……」"
 translation = "「그리고, 좋아하는 음식이라고 하면……」"
 
 [[dialogue]]
-speaker = "ルネア"
+speaker_original = "ルネア"
+speaker_translation = "루네아"
 original = "「はい、ミルキー牛乳よ。お近づきの印に、プレゼントするわ」"
 translation = "「자, 밀키 우유야. 친해진 기념으로, 선물할게」"
 
 [[dialogue]]
-speaker = "ルリエル"
+speaker_original = "ルリエル"
+speaker_translation = "루리엘"
 original = "「え……あ、ありがとうございます……？」"
 translation = "「에…… 아, 감사합니다……?」"
 
 [[dialogue]]
-speaker = "ルネア"
+speaker_original = "ルネア"
+speaker_translation = "루네아"
 original = "「大丈夫、エグザエルの中にしまっておいたから、ちゃんと冷えているわ。とってもおいしいわよ」"
 translation = "「괜찮아, 에그자엘 안에 넣어뒀으니까, 제대로 차가워져 있어. 굉장히 맛있어」"
 
 [[dialogue]]
-speaker = "ルリエル"
+speaker_original = "ルリエル"
+speaker_translation = "루리엘"
 original = "「天使長様の中、ちゃんと冷えるのですか……」"
 translation = "「천사장님 안, 제대로 차가워지는 것인가요……」"
 
 [[dialogue]]
-speaker = "ルネア"
+speaker_original = "ルネア"
+speaker_translation = "루네아"
 original = "「この牛乳はね、わたしの恋人であるシンが、牛乳配達のアルバイトで配達していたものなの」"
 translation = "「이 우유는 말이지, 나의 연인인 신이, 우유 배달 아르바이트로 배달했던 것이야」"
 
 [[dialogue]]
-speaker = "ルリエル"
+speaker_original = "ルリエル"
+speaker_translation = "루리엘"
 original = "「あ、そうなのですね！\u3000ふふっ、ルネアさんはその恋人さんのこと、とっても大好きなんですね！」"
 translation = "「아, 그런 것이군요! 후훗, 루네아 씨는 그 연인분을, 굉장히 좋아하시는군요!」"
 
 [[dialogue]]
-speaker = "ルネア"
+speaker_original = "ルネア"
+speaker_translation = "루네아"
 original = "「ええ、もちろんよ。これを見ると、いつでも鮮明にシンのことを思い出せるの」"
 translation = "「응, 물론이지. 이걸 보면, 언제든지 선명하게 신을 떠올릴 수 있어」"
 
 [[dialogue]]
-speaker = "ルネア"
+speaker_original = "ルネア"
+speaker_translation = "루네아"
 original = "「しかもね、それだけじゃないのよ。ほら見て、この牛乳瓶の形……！」"
 translation = "「게다가 말이야, 그것뿐만이 아니야. 자 봐, 이 우유병의 형태……!」"
 
 [[dialogue]]
-speaker = "ルリエル"
+speaker_original = "ルリエル"
+speaker_translation = "루리엘"
 original = "「えっ……な、何か重大な秘密が……？」"
 translation = "「엣…… 무, 뭔가 중대한 비밀이……?」"
 
 [[dialogue]]
-speaker = "ルネア"
+speaker_original = "ルネア"
+speaker_translation = "루네아"
 original = "「ただ１つの目的のために洗練された、無駄のないフォルム……優秀な耐久性に、環境にも配慮された材質……」"
 translation = "「단 하나의 목적을 위해 세련된, 군더더기 없는 형태…… 우수한 내구성에, 환경까지 배려된 재질……」"
 
 [[dialogue]]
-speaker = "ルネア"
+speaker_original = "ルネア"
+speaker_translation = "루네아"
 original = "「手にする者のために考え抜かれ、突き詰められた制作者の美学が、ここにあるのよ……！」"
 translation = "「손에 쥐는 자를 위해 깊이 생각하고, 추구한 제작자의 미학이, 여기에 있는 거야……!」"
 
 [[dialogue]]
-speaker = "ルリエル"
+speaker_original = "ルリエル"
+speaker_translation = "루리엘"
 original = "「はい……？」"
 translation = "「네……?」"
 
 [[dialogue]]
-speaker = "ルネア"
+speaker_original = "ルネア"
+speaker_translation = "루네아"
 original = "「役目を与えられた器や、洗練された形状は、どれも尊く美しいものよね……！」"
 translation = "「역할을 부여받은 그릇이나, 세련된 형상은, 모두 존귀하고 아름다운 것이지……!」"
 
 [[dialogue]]
-speaker = "エグザエル"
+speaker_original = "エグザエル"
+speaker_translation = "에그자엘"
 original = "「ルネア様のご趣味……いわゆる、容器フェチ、或いは形状フェチ、とでも言ったところか」"
 translation = "「루네아 님의 취미…… 이른바, 용기 페티시, 혹은 형상 페티시, 라고나 할까」"
 
 [[dialogue]]
-speaker = "ルリエル"
+speaker_original = "ルリエル"
+speaker_translation = "루리엘"
 original = "「ほえ～……それはなんというか、個性的なご趣味なのです」"
 translation = "「호에~…… 그건 뭐랄까, 개성적인 취미인 거예요」"
 
 [[dialogue]]
-speaker = "エグザエル"
+speaker_original = "エグザエル"
+speaker_translation = "에그자엘"
 original = "「当然、我が輩のこの美ボディも、ルネア様のセンスによるものだ」"
 translation = "「당연히, 이 몸의 이 아름다운 몸매도, 루네아 님의 센스에 의한 것이다」"
 
 [[dialogue]]
-speaker = "ルネア"
+speaker_original = "ルネア"
+speaker_translation = "루네아"
 original = "「こちらの世界にお邪魔するついでに、せっかくなら旅行気分を味わおうと思って選んだの。ちょうどいいでしょ」"
 translation = "「이쪽 세계에 들르는 김에, 모처럼이니 여행 기분을 맛보려고 선택한 거야. 딱 좋잖아」"
 
 [[dialogue]]
-speaker = "エグザエル"
+speaker_original = "エグザエル"
+speaker_translation = "에그자엘"
 original = "「ちなみに、ルネア様の着替えや下着も、我が輩の体内に……」"
 translation = "「덧붙여, 루네아 님의 갈아입을 옷이나 속옷도, 이 몸의 체내에……」"
 
 [[dialogue]]
-speaker = "ルネア"
+speaker_original = "ルネア"
+speaker_translation = "루네아"
 original = "「気持ち悪い言い方しないで」"
 translation = "「기분 나쁜 말투 쓰지 마」"
 
 [[dialogue]]
-speaker = "エグザエル"
+speaker_original = "エグザエル"
+speaker_translation = "에그자엘"
 original = "「アーッ！\u3000そんなに蹴ると壊れてしまいますぞっ！」"
 translation = "「아앗! 그렇게 차면 부서져 버립니다!」"
 
 [[dialogue]]
-speaker = "ルネア"
+speaker_original = "ルネア"
+speaker_translation = "루네아"
 original = "「整った形状が壊れる姿もまた、ある意味美しいと言えるわ……！」"
 translation = "「정돈된 형상이 부서지는 모습 또한, 어떤 의미로는 아름답다고 할 수 있지……!」"
 
@@ -374,27 +442,32 @@ original = "わりと何でもいいんだな……"
 translation = "의외로 뭐든지 괜찮구나……"
 
 [[dialogue]]
-speaker = "ルネア"
+speaker_original = "ルネア"
+speaker_translation = "루네아"
 original = "「そういえば、そのティーポットも、優美なデザインだし、とても素敵な形ね」"
 translation = "「그러고 보니, 그 찻주전자도, 우아한 디자인이고, 매우 멋진 형태네」"
 
 [[dialogue]]
-speaker = "ルリエル"
+speaker_original = "ルリエル"
+speaker_translation = "루리엘"
 original = "「え？\u3000あ、ありがとうございます」"
 translation = "「에? 아, 감사합니다」"
 
 [[dialogue]]
-speaker = "ルネア"
+speaker_original = "ルネア"
+speaker_translation = "루네아"
 original = "「このお茶菓子の箱も、なかなか趣があるわ」"
 translation = "「이 다과 상자도, 꽤 운치가 있네」"
 
 [[dialogue]]
-speaker = "ルリエル"
+speaker_original = "ルリエル"
+speaker_translation = "루리엘"
 original = "「え、えっと……そうなのです……？」"
 translation = "「에, 음…… 그런 거예요……?」"
 
 [[dialogue]]
-speaker = "ルネア"
+speaker_original = "ルネア"
+speaker_translation = "루네아"
 original = "「それと、器といえば……クロト。あなたは魔王の力を携えるのに、相応しい器なのかしら？」"
 translation = "「그리고, 그릇이라고 하면…… 쿠로토. 너는 마왕의 힘을 지니기에, 걸맞은 그릇이니?」"
 
@@ -404,47 +477,56 @@ original = "もちろん、そのつもりだ"
 translation = "물론, 그럴 생각이다"
 
 [[dialogue]]
-speaker = "ルネア"
+speaker_original = "ルネア"
+speaker_translation = "루네아"
 original = "「……ふふっ。まぁ、それについてはまた日を改めて、じっくり見定めさせてもらうわ」"
 translation = "「……후훗. 뭐, 그것에 대해서는 또 다른 날을 잡아서, 차분히 확인해 보도록 할게」"
 
 [[dialogue]]
-speaker = "ルネア"
+speaker_original = "ルネア"
+speaker_translation = "루네아"
 original = "「それより今日は、おいしいお茶とお菓子を、もっと堪能したいもの」"
 translation = "「그보다 오늘은, 맛있는 차와 과자를, 좀 더 만끽하고 싶어」"
 
 [[dialogue]]
-speaker = "ルネア"
+speaker_original = "ルネア"
+speaker_translation = "루네아"
 original = "「ルリエルも、もっと訊きたいことがあるなら、遠慮なく質問してちょうだい」"
 translation = "「루리엘도, 더 묻고 싶은 것이 있다면, 사양 말고 질문해 줘」"
 
 [[dialogue]]
-speaker = "ルリエル"
+speaker_original = "ルリエル"
+speaker_translation = "루리엘"
 original = "「あっ、はい、ありがとうございます！」"
 translation = "「앗, 네, 감사합니다!」"
 
 [[dialogue]]
-speaker = "ルリエル"
+speaker_original = "ルリエル"
+speaker_translation = "루리엘"
 original = "「ルネアさんって……見た目からだけでは計り知れない、色々な魅力がある方なのですね♪」"
 translation = "「루네아 씨는…… 겉모습만으로는 헤아릴 수 없는, 여러 가지 매력이 있는 분이시군요♪」"
 
 [[dialogue]]
-speaker = "ルリエル"
+speaker_original = "ルリエル"
+speaker_translation = "루리엘"
 original = "「それがわかって、ますます興味が湧いてきたのです！」"
 translation = "「그것을 알고, 더욱 흥미가 생겼어요!」"
 
 [[dialogue]]
-speaker = "ルネア"
+speaker_original = "ルネア"
+speaker_translation = "루네아"
 original = "「そう？\u3000まあ、わたしの魅力が伝わったのなら何よりだわ」"
 translation = "「그래? 뭐, 나의 매력이 전해졌다면 더할 나위 없지」"
 
 [[dialogue]]
-speaker = "ルネア"
+speaker_original = "ルネア"
+speaker_translation = "루네아"
 original = "「これからも時々、気が向いたら顔を出してあげるし、今度はわたしのお茶会にでも招待してあげようかしら？」"
 translation = "「앞으로도 가끔, 내키면 얼굴을 비춰줄 테고, 다음에는 나의 다과회에라도 초대해 줄까?」"
 
 [[dialogue]]
-speaker = "ルリエル"
+speaker_original = "ルリエル"
+speaker_translation = "루리엘"
 original = "「はい、ぜひ誘って欲しいのです～♪」"
 translation = "「네, 꼭 초대해 주셨으면 좋겠어요~♪」"
 

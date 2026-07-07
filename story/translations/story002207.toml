@@ -1,40 +1,48 @@
 [[dialogue]]
-speaker = "ネーゼマイン"
+speaker_original = "ネーゼマイン"
+speaker_translation = "네제마인"
 original = "「持ってきたよダッチ。新しいトランプ」"
 translation = "「가져왔어, 더치. 새로운 트럼프 카드야」"
 
 [[dialogue]]
-speaker = "ダッチ"
+speaker_original = "ダッチ"
+speaker_translation = "더치"
 original = "「ンン～？\u3000言葉が足りませんよ、ネーゼマイン様？」"
 translation = "「음~? 말이 좀 짧으신데요, 네제마인 님?」"
 
 [[dialogue]]
-speaker = "ネーゼマイン"
+speaker_original = "ネーゼマイン"
+speaker_translation = "네제마인"
 original = "「……ダッチ様～♪\u3000新しいカードだぴょんっ♪」"
 translation = "「……더치 님~♪ 새로운 카드다뿅♪」"
 
 [[dialogue]]
-speaker = "ダッチ"
+speaker_original = "ダッチ"
+speaker_translation = "더치"
 original = "「フウゥウ～！\u3000会長様との決戦前に、滾りますねぇ……！」"
 translation = "「후우우우~! 회장님과의 결전 전이라 그런지, 피가 끓어오르는군요……!」"
 
 [[dialogue]]
-speaker = "ダッチ"
+speaker_original = "ダッチ"
+speaker_translation = "더치"
 original = "「では下準備をお願いします。ジョーカーを除いてくださいますか？」"
 translation = "「그럼 밑준비를 부탁드립니다. 조커를 제외해 주시겠습니까?」"
 
 [[dialogue]]
-speaker = "ネーゼマイン"
+speaker_original = "ネーゼマイン"
+speaker_translation = "네제마인"
 original = "「了解だぴょん♪\u3000床にポイっと♪」"
 translation = "「알았다뿅♪ 바닥에 휙♪」"
 
 [[dialogue]]
-speaker = "ダッチ"
+speaker_original = "ダッチ"
+speaker_translation = "더치"
 original = "「こらこら。お行儀が悪いですよ。まぁその辺りも、後でじっくり躾をするといたしましょうか」"
 translation = "「허허, 참. 예의가 없으시군요. 뭐, 그 부분도 나중에 천천히 길들이도록 할까요」"
 
 [[dialogue]]
-speaker = "ダッチ"
+speaker_original = "ダッチ"
+speaker_translation = "더치"
 original = "「フム……各スートごとに１３枚。デッキに異常はありませんね。会長様もどうぞご確認を」"
 translation = "「흠…… 각 문양마다 13장. 덱에 이상은 없군요. 회장님도 확인해 보시지요」"
 
@@ -44,17 +52,20 @@ original = "……問題ないな"
 translation = "……문제없군."
 
 [[dialogue]]
-speaker = "ダッチ"
+speaker_original = "ダッチ"
+speaker_translation = "더치"
 original = "「嗚呼……見た目は可憐な爆乳美少女なのに、口調は男性のもの……やはり緋宮会長、この中で貴女が一番、バニーが映えるッ！」"
 translation = "「아아…… 겉모습은 가련한 폭유 미소녀인데, 말투는 남성이라니…… 역시 히노미야 회장, 이 중에서 당신이 가장 바니걸이 잘 어울려!」"
 
 [[dialogue]]
-speaker = "ヒルディオーネ"
+speaker_original = "ヒルディオーネ"
+speaker_translation = "힐디오네"
 original = "「それはそれで聞き捨てならないですわ！？」"
 translation = "「그건 그것대로 그냥 넘길 수 없는 말인데요!?」"
 
 [[dialogue]]
-speaker = "セナリィ"
+speaker_original = "セナリィ"
+speaker_translation = "세나리"
 original = "「まあでも……女性となった会長様に、バニーはよく似合っていますわね……」"
 translation = "「뭐, 그래도…… 여성이 된 회장님에게 바니걸은 잘 어울리긴 하네요……」"
 
@@ -64,12 +75,14 @@ original = "すぐに脱いでやるさ、おまえを倒してな"
 translation = "당장 벗어주마, 너를 쓰러뜨리고서 말이야."
 
 [[dialogue]]
-speaker = "ダッチ"
+speaker_original = "ダッチ"
+speaker_translation = "더치"
 original = "「フフフ……とうとう夢が叶う。貴女は星騎士の総本山である学園の星徒会長……選ばれし逸材だ」"
 translation = "「후후후…… 드디어 꿈이 이루어지는군. 당신은 성기사의 총본산인 학원의 성도회장…… 선택받은 일재다.」"
 
 [[dialogue]]
-speaker = "ダッチ"
+speaker_original = "ダッチ"
+speaker_translation = "더치"
 original = "「そんな貴女と『欲望』の強さを競い、敗北させたいとずっと願っていた……誘拐騒ぎを起こして本当によかったですよ！」"
 translation = "「그런 당신과 『욕망』의 강함을 겨뤄서 패배시키고 싶다고 줄곧 바라왔지…… 유괴 소동을 일으키길 정말 잘했군요!」"
 
@@ -79,12 +92,14 @@ original = "ダッチ、勝負は１回きりでいくぞ"
 translation = "더치, 승부는 단판으로 가겠다."
 
 [[dialogue]]
-speaker = "ダッチ"
+speaker_original = "ダッチ"
+speaker_translation = "더치"
 original = "「──ほう！\u3000よろしいのですか？\u3000心の中で願うというのは、簡単なようでとても難しい」"
 translation = "「──오호! 괜찮으시겠습니까? 마음속으로 염원한다는 것은 쉬운 듯하면서도 매우 어려운 법입니다만.」"
 
 [[dialogue]]
-speaker = "ダッチ"
+speaker_original = "ダッチ"
+speaker_translation = "더치"
 original = "「私の『欲望』に挑む回数は、多い方がよろしいのでは？」"
 translation = "「나의 『욕망』에 도전하는 횟수는 많은 편이 좋지 않겠습니까?」"
 
@@ -94,12 +109,14 @@ original = "２０枚を全賭けだ。かかってこい！"
 translation = "20장 전부 걸겠다. 덤벼라!"
 
 [[dialogue]]
-speaker = "ダッチ"
+speaker_original = "ダッチ"
+speaker_translation = "더치"
 original = "「……フゥウウ！\u3000痺れる提案です！！」"
 translation = "「……후우우! 전율이 돋는 제안이군요!!」"
 
 [[dialogue]]
-speaker = "セナリィ"
+speaker_original = "セナリィ"
+speaker_translation = "세나리"
 original = "「会長様っ、本当に大丈夫ですの！？\u3000もっと慎重になった方が……！」"
 translation = "「회장님, 정말 괜찮으신 건가요!? 좀 더 신중하게 하는 편이……!」"
 
@@ -109,42 +126,50 @@ original = "俺はショウダウンまで伏せ札でいく"
 translation = "난 쇼다운까지 엎어놓은 채로 가겠다."
 
 [[dialogue]]
-speaker = "ヒルディオーネ"
+speaker_original = "ヒルディオーネ"
+speaker_translation = "힐디오네"
 original = "「ええっ……！？\u3000何を配られたのか、見もしないんですの！？\u3000無茶ですわ！」"
 translation = "「엣……!? 무엇을 받았는지 보지도 않겠다는 건가요!? 무모해요!」"
 
 [[dialogue]]
-speaker = "セナリィ"
+speaker_original = "セナリィ"
+speaker_translation = "세나리"
 original = "「その方が強く願えそうだって……会長様！？\u3000負けたらみんな、ここの住人でしてよ！？」"
 translation = "「그 편이 더 강하게 염원할 수 있을 것 같다니…… 회장님!? 지면 우리 모두 이곳의 주민이 된다고요!?」"
 
 [[dialogue]]
-speaker = "ダッチ"
+speaker_original = "ダッチ"
+speaker_translation = "더치"
 original = "「盛り上げてくれる！\u3000素晴らしい！\u3000たった一度の機会に全てをぶつけてくるとは！」"
 translation = "「분위기를 띄워주는군요! 훌륭합니다! 단 한 번의 기회에 모든 것을 부딪쳐 오다니!」"
 
 [[dialogue]]
-speaker = "ダッチ"
+speaker_original = "ダッチ"
+speaker_translation = "더치"
 original = "「流石は星騎士のリーダー！\u3000ええ、受けて立ちましょうとも！\u3000ショウダウンまで私も伏せ札のままで結構！！」"
 translation = "「과연 성기사의 리더! 좋습니다, 받아들이지요! 쇼다운까지 저도 엎어놓은 채로 가겠습니다!!」"
 
 [[dialogue]]
-speaker = "ネーゼマイン"
+speaker_original = "ネーゼマイン"
+speaker_translation = "네제마인"
 original = "「……カード、もう配っちゃっていい？」"
 translation = "「……카드, 이제 나눠줘도 돼?」"
 
 [[dialogue]]
-speaker = "ダッチ"
+speaker_original = "ダッチ"
+speaker_translation = "더치"
 original = "「構いませんよ──フハハ！\u3000しかし語尾は忘れずに！\u3000大切なことです！」"
 translation = "「상관없습니다── 후하하! 하지만 어미를 잊지 마시길! 중요한 일이니까요!」"
 
 [[dialogue]]
-speaker = "ネーゼマイン"
+speaker_original = "ネーゼマイン"
+speaker_translation = "네제마인"
 original = "「会長……頑張って<emoji=heart04>\u3000私たちを救ってほしいぴょんっ<emoji=heart04>」"
 translation = "「회장…… 힘내<emoji=heart04> 우리를 구해줬으면 좋겠다뿅<emoji=heart04>」"
 
 [[dialogue]]
-speaker = "ダッチ"
+speaker_original = "ダッチ"
+speaker_translation = "더치"
 original = "「オゥフ！\u3000私にはぴょんと言ってくれないのに……何だか寝取られた気分！\u3000これは燃えてきた！\u3000絶対に勝ってみせる！！」"
 translation = "「오우프! 나에게는 뿅이라고 해주지 않으면서…… 왠지 네토리당한 기분! 이거 불타오르는군요! 반드시 이겨 보이겠습니다!!」"
 
@@ -159,72 +184,86 @@ original = "──勝つのは俺だ！！"
 translation = "──이기는 건 나다!!"
 
 [[dialogue]]
-speaker = "ダッチ"
+speaker_original = "ダッチ"
+speaker_translation = "더치"
 original = "「ウオオオオオォオオ──！！\u3000私の手に、新星学園の星徒会長っ、女体化バニーの緋宮クロトを与えたまえ……！！」"
 translation = "「우오오오오오오오──!! 나의 손에, 신성학원의 성도회장이자 여체화 바니걸인 히노미야 쿠로토를 내려주소서……!!」"
 
 [[dialogue]]
-speaker = "ダッチ"
+speaker_original = "ダッチ"
+speaker_translation = "더치"
 original = "「理想のバニーカジノを作り上げてみせるッ──来い、ロイヤルストレートフラッシュ……！！」"
 translation = "「이상의 바니 카지노를 만들어 보이겠다── 와라, 로열 스트레이트 플러시……!!」"
 
 [[dialogue]]
-speaker = "ヒルディオーネ"
+speaker_original = "ヒルディオーネ"
+speaker_translation = "힐디오네"
 original = "「し、真剣にやっているのはわかっているのですが……」"
 translation = "「지, 진지하게 임하고 있다는 건 알겠습니다만……」"
 
 [[dialogue]]
-speaker = "セナリィ"
+speaker_original = "セナリィ"
+speaker_translation = "세나리"
 original = "「この変態紳士、本当にどうにかなりませんの……！？」"
 translation = "「이 변태 신사, 정말 어떻게 안 될까요……!?」"
 
 [[dialogue]]
-speaker = "ネーゼマイン"
+speaker_original = "ネーゼマイン"
+speaker_translation = "네제마인"
 original = "「……配り終えたよ。伏せ札だから、カードチェンジも要らないよね？」"
 translation = "「……다 나눠줬어. 엎어놓은 상태니까 카드 교체도 필요 없겠지?」"
 
 [[dialogue]]
-speaker = "セナリィ"
+speaker_original = "セナリィ"
+speaker_translation = "세나리"
 original = "「会長様……大丈夫ですわよね？」"
 translation = "「회장님…… 괜찮으시겠죠?」"
 
 [[dialogue]]
-speaker = "ヒルディオーネ"
+speaker_original = "ヒルディオーネ"
+speaker_translation = "힐디오네"
 original = "「信じていますわ……！」"
 translation = "「믿고 있어요……!」"
 
 [[dialogue]]
-speaker = "ダッチ"
+speaker_original = "ダッチ"
+speaker_translation = "더치"
 original = "「ではショウダウンです。私の５枚は──」"
 translation = "「그럼 쇼다운입니다. 저의 5장은──」"
 
 [[dialogue]]
-speaker = "セナリィ"
+speaker_original = "セナリィ"
+speaker_translation = "세나리"
 original = "「あぁっ……！？」"
 translation = "「아앗……!?」"
 
 [[dialogue]]
-speaker = "ヒルディオーネ"
+speaker_original = "ヒルディオーネ"
+speaker_translation = "힐디오네"
 original = "「そんなっ──！？」"
 translation = "「말도 안 돼──!?」"
 
 [[dialogue]]
-speaker = "ダッチ"
+speaker_original = "ダッチ"
+speaker_translation = "더치"
 original = "「──スペードのロイヤルストレートフラッシュ！！\u3000当然だ！\u3000私は『欲望』のロストアイテム！！\u3000私の『欲望』は誰よりも強い！！！」"
 translation = "「──스페이드 로열 스트레이트 플러시!! 당연합니다! 나는 『욕망』의 로스트 아이템!! 나의 『욕망』은 누구보다 강하다!!!」"
 
 [[dialogue]]
-speaker = "ヒルディオーネ"
+speaker_original = "ヒルディオーネ"
+speaker_translation = "힐디오네"
 original = "「緋宮会長が……」"
 translation = "「히노미야 회장이……」"
 
 [[dialogue]]
-speaker = "セナリィ"
+speaker_original = "セナリィ"
+speaker_translation = "세나리"
 original = "「負けて、しまいましたの……！？」"
 translation = "「지고, 말았나요……!?」"
 
 [[dialogue]]
-speaker = "ダッチ"
+speaker_original = "ダッチ"
+speaker_translation = "더치"
 original = "「フハハハハ！！\u3000嗚呼、自分の『欲望』の強さが恐ろしい！\u3000際限なきウサギへの愛！\u3000私のコレクション、今宵は一気に４人も増えるのです！！」"
 translation = "「후하하하하!! 아아, 자신의 『욕망』의 강함이 무섭군요! 끝없는 토끼를 향한 사랑! 나의 컬렉션이 오늘 밤 단숨에 4명이나 늘어나는 것입니다!!」"
 
@@ -234,47 +273,56 @@ original = "……マイン、感謝するよ"
 translation = "……마인, 고맙다."
 
 [[dialogue]]
-speaker = "ネーゼマイン"
+speaker_original = "ネーゼマイン"
+speaker_translation = "네제마인"
 original = "「にひっ♪\u3000どういたしまして、だぴょん♪」"
 translation = "「니히♪ 천만에 말씀이다뿅♪」"
 
 [[dialogue]]
-speaker = "ヒルディオーネ"
+speaker_original = "ヒルディオーネ"
+speaker_translation = "힐디오네"
 original = "「え……？」"
 translation = "「에……?」"
 
 [[dialogue]]
-speaker = "セナリィ"
+speaker_original = "セナリィ"
+speaker_translation = "세나리"
 original = "「な、なにを笑っておりますの！\u3000スペードのロイヤルの材料を取られちゃってるんですのよ！？」"
 translation = "「무, 무엇을 웃고 계신 건가요! 스페이드 로열의 재료를 뺏겨버렸다고요!?」"
 
 [[dialogue]]
-speaker = "ネーゼマイン"
+speaker_original = "ネーゼマイン"
+speaker_translation = "네제마인"
 original = "「会長、あとはお願いね」"
 translation = "「회장, 나머지는 부탁해」"
 
 [[dialogue]]
-speaker = "ネーゼマイン"
+speaker_original = "ネーゼマイン"
+speaker_translation = "네제마인"
 original = "「たぶんダッチの想いの強さ……『欲望』に勝つのは難しいと思う」"
 translation = "「아마 더치의 마음의 강함…… 『욕망』으로 이기는 건 어렵다고 생각해.」"
 
 [[dialogue]]
-speaker = "ネーゼマイン"
+speaker_original = "ネーゼマイン"
+speaker_translation = "네제마인"
 original = "「だから────」"
 translation = "「그러니까────」"
 
 [[dialogue]]
-speaker = "ネーゼマイン"
+speaker_original = "ネーゼマイン"
+speaker_translation = "네제마인"
 original = "「イカサマで勝つよ。私が何とかしてダッチにバレないように……交換後のデッキを５３枚にする」"
 translation = "「사기로 이기자. 내가 어떻게든 더치에게 들키지 않게…… 교체 후의 덱을 53장으로 만들게.」"
 
 [[dialogue]]
-speaker = "ネーゼマイン"
+speaker_original = "ネーゼマイン"
+speaker_translation = "네제마인"
 original = "「わかるでしょ？\u3000５２枚じゃなく……５３枚のデッキなら。スペードのロイヤルに勝てる役があるよ。たった１つだけね？」"
 translation = "「알겠지? 52장이 아니라…… 53장의 덱이라면, 스페이드 로열을 이길 수 있는 패가 있어. 딱 하나 말이야.」"
 
 [[dialogue]]
-speaker = "ネーゼマイン"
+speaker_original = "ネーゼマイン"
+speaker_translation = "네제마인"
 original = "「それじゃ、あとは任せたぴょん……会長♪」"
 translation = "「그럼 나머지는 맡길게뿅…… 회장♪」"
 
@@ -284,127 +332,152 @@ original = "食らえダッチ、俺のハンドを──！！"
 translation = "받아라 더치, 나의 핸드를──!!"
 
 [[dialogue]]
-speaker = "ヒルディオーネ"
+speaker_original = "ヒルディオーネ"
+speaker_translation = "힐디오네"
 original = "「えっ……２が４枚……！？」"
 translation = "「엣…… 2가 4장……!?」"
 
 [[dialogue]]
-speaker = "セナリィ"
+speaker_original = "セナリィ"
+speaker_translation = "세나리"
 original = "「そしてジョーカー……！？\u3000ファ、ファイブカードができてますわ！！」"
 translation = "「그리고 조커……!? 파, 파이브 카드가 완성됐어요!!」"
 
 [[dialogue]]
-speaker = "ダッチ"
+speaker_original = "ダッチ"
+speaker_translation = "더치"
 original = "「バ、バカな！！\u3000あり得ない！！\u3000なぜジョーカーが混ざっているッ！？」"
 translation = "「바, 바보 같은!! 있을 수 없다!! 어째서 조커가 섞여 있는 거냐!!」"
 
 [[dialogue]]
-speaker = "ダッチ"
+speaker_original = "ダッチ"
+speaker_translation = "더치"
 original = "「あの時、ネーゼマイン様はジョーカーを床に捨てていた！\u3000その後の５２枚もちゃんと確認をした……なのに、なぜ！？」"
 translation = "「그때 네제마인 님은 조커를 바닥에 버렸을 터! 그 후의 52장도 분명히 확인했을 텐데…… 그런데 어째서!?」"
 
 [[dialogue]]
-speaker = "ヒルディオーネ"
+speaker_original = "ヒルディオーネ"
+speaker_translation = "힐디오네"
 original = "「あれ？\u3000床に捨てたはずのジョーカーが──」"
 translation = "「어라? 바닥에 버렸을 조커가──」"
 
 [[dialogue]]
-speaker = "セナリィ"
+speaker_original = "セナリィ"
+speaker_translation = "세나리"
 original = "「いつの間にか、無くなってますわ！？」"
 translation = "「어느샌가 사라졌어요!?」"
 
 [[dialogue]]
-speaker = "ダッチ"
+speaker_original = "ダッチ"
+speaker_translation = "더치"
 original = "「拾ったのか……？\u3000い、いつだ！？\u3000怪しいそぶりはなかった……なのになぜ、デッキに戻っている！？」"
 translation = "「주운 건가……? 어, 언제!? 수상한 낌새는 없었다…… 그런데 어째서 덱으로 돌아가 있는 거지!?」"
 
 [[dialogue]]
-speaker = "ダッチ"
+speaker_original = "ダッチ"
+speaker_translation = "더치"
 original = "「いつイカサマを、このダッチの目に触れないうちに……！？」"
 translation = "「언제 사기를, 이 더치의 눈을 피해 친 것이냐……!?」"
 
 [[dialogue]]
-speaker = "ネーゼマイン"
+speaker_original = "ネーゼマイン"
+speaker_translation = "네제마인"
 original = "「やだな～♪\u3000イカサマだって言うなら、証拠をちゃーんと見せてくれないと困っちゃうぴょーん♪」"
 translation = "「에이~♪ 사기라고 할 거면 증거를 제대~로 보여주지 않으면 곤란하다뿅~♪」"
 
 [[dialogue]]
-speaker = "ネーゼマイン"
+speaker_original = "ネーゼマイン"
+speaker_translation = "네제마인"
 original = "「てゆーか、ダッチもデッキチェックしてたよね～？\u3000見落してたんじゃない？」"
 translation = "「그보다 더치도 덱 체크했었지~? 못 보고 지나친 거 아냐?」"
 
 [[dialogue]]
-speaker = "ダッチ"
+speaker_original = "ダッチ"
+speaker_translation = "더치"
 original = "「そんなバカな！\u3000勝負前のチェックは入念に……一体何をしたのですか！？\u3000糸で釣り上げた痕跡も、何かを接着した痕もない……！」"
 translation = "「그럴 리가! 승부 전의 체크는 면밀히…… 대체 무슨 짓을 한 겁니까!? 실로 낚아 올린 흔적도, 무언가를 붙인 흔적도 없어……!」"
 
 [[dialogue]]
-speaker = "セナリィ"
+speaker_original = "セナリィ"
+speaker_translation = "세나리"
 original = "「接着……あ……！」"
 translation = "「붙였다니…… 아……!」"
 
 [[dialogue]]
-speaker = "ヒルディオーネ"
+speaker_original = "ヒルディオーネ"
+speaker_translation = "힐디오네"
 original = "「ラプチャー・ガム！\u3000デッキのチェック後に、床に落としていたジョーカーを、星力でこっそり引っ張り上げたんですのね！？」"
 translation = "「랩처 껌! 덱 체크 후에 바닥에 떨어뜨렸던 조커를 성력으로 몰래 끌어올린 거군요!?」"
 
 [[dialogue]]
-speaker = "ネーゼマイン"
+speaker_original = "ネーゼマイン"
+speaker_translation = "네제마인"
 original = "「ご想像にお任せしま～す♪」"
 translation = "「상상에 맡길게요~♪」"
 
 [[dialogue]]
-speaker = "ダッチ"
+speaker_original = "ダッチ"
+speaker_translation = "더치"
 original = "「星力行使は禁止して──い、いやっ……私がしていたのは『暴力行為の禁止』……！」"
 translation = "「성력 행사는 금지하고── 아, 아니지…… 내가 했던 건 『폭력 행위 금지』……!」"
 
 [[dialogue]]
-speaker = "セナリィ"
+speaker_original = "セナリィ"
+speaker_translation = "세나리"
 original = "「今思えば、マインが負けた時、苛立ってテーブルを叩いてカードを曲げたのも……」"
 translation = "「지금 생각해보니 마인이 졌을 때, 짜증 내며 테이블을 쳐서 카드를 구부린 것도……」"
 
 [[dialogue]]
-speaker = "ヒルディオーネ"
+speaker_original = "ヒルディオーネ"
+speaker_translation = "힐디오네"
 original = "「全て、自然にデッキを交換するための布石というわけでしたのね。新品のカードには、お目当てのジョーカーがありますわ……！」"
 translation = "「전부 자연스럽게 덱을 교체하기 위한 포석이었던 거군요. 새 카드에는 목표했던 조커가 있을 테니까요……!」"
 
 [[dialogue]]
-speaker = "ダッチ"
+speaker_original = "ダッチ"
+speaker_translation = "더치"
 original = "「フ、フ、フフフフフ……！」"
 translation = "「후, 후, 후후후후후……!」"
 
 [[dialogue]]
-speaker = "ネーゼマイン"
+speaker_original = "ネーゼマイン"
+speaker_translation = "네제마인"
 original = "「あれあれ？\u3000怒っちゃった？\u3000でもルールは何も破ってないし──」"
 translation = "「어라어라? 화났어? 하지만 룰은 아무것도 어기지 않았고──」"
 
 [[dialogue]]
-speaker = "ダッチ"
+speaker_original = "ダッチ"
+speaker_translation = "더치"
 original = "「……私の、負けですね」"
 translation = "「……저의 패배군요.」"
 
 [[dialogue]]
-speaker = "ネーゼマイン"
+speaker_original = "ネーゼマイン"
+speaker_translation = "네제마인"
 original = "「随分あっさり認めるんだね？」"
 translation = "「의외로 순순히 인정하네?」"
 
 [[dialogue]]
-speaker = "ダッチ"
+speaker_original = "ダッチ"
+speaker_translation = "더치"
 original = "「当然です……敷いた『ルール』への違反は確認できておりません。さらにラプチャー・ガムも、使われたかどうかを証明できない……」"
 translation = "「당연합니다…… 정해둔 『룰』에 대한 위반은 확인되지 않았습니다. 게다가 랩처 껌도 사용되었는지 여부를 증명할 수 없군요……」"
 
 [[dialogue]]
-speaker = "ダッチ"
+speaker_original = "ダッチ"
+speaker_translation = "더치"
 original = "「私自身がデッキをチェックし、問題ないと判断した。その上で『いつの間にかジョーカーがデッキに混入していた』……事実はこれだけです」"
 translation = "「제 자신이 덱을 체크하고 문제없다고 판단했습니다. 그 상황에서 『어느샌가 조커가 덱에 혼입되어 있었다』…… 사실은 이것뿐입니다.」"
 
 [[dialogue]]
-speaker = "ダッチ"
+speaker_original = "ダッチ"
+speaker_translation = "더치"
 original = "「それに会長様の使ったジョーカーは、私だって引くことができた……デッキの中にあったのだから、望み、欲しさえすれば……引くことができたのですよ……」"
 translation = "「게다가 회장님이 사용한 조커는 저 또한 뽑을 수 있었습니다…… 덱 안에 있었으니 원하고 바라기만 했어도…… 뽑을 수 있었던 것입니다……」"
 
 [[dialogue]]
-speaker = "ダッチ"
+speaker_original = "ダッチ"
+speaker_translation = "더치"
 original = "「フフ──私の完敗ですよ、星騎士の皆様」"
 translation = "「후후── 저의 완패입니다, 성기사 여러분.」"
 

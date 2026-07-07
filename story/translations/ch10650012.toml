@@ -4,12 +4,14 @@ original = "第２話,聖女の正体,P"
 translation = "제2화, 성녀의 정체, P"
 
 [[dialogue]]
-speaker = "イレーナ"
+speaker_original = "イレーナ"
+speaker_translation = "이레이나"
 original = "「こんにちは、会長さん。ちょうどお会いしたいと思っていました。お昼ご一緒しても？」"
 translation = "「안녕하세요, 회장님. 마침 뵙고 싶다고 생각하고 있었어요. 점심 같이 하실래요?」"
 
 [[dialogue]]
-speaker = "イレーナ"
+speaker_original = "イレーナ"
+speaker_translation = "이레이나"
 original = "「よろしいですか。ありがとうございます♪」"
 translation = "「괜찮으신가요? 감사합니다♪」"
 
@@ -19,12 +21,14 @@ original = "昨日の夜──"
 translation = "어젯밤──"
 
 [[dialogue]]
-speaker = "イレーナ"
+speaker_original = "イレーナ"
+speaker_translation = "이레이나"
 original = "「今の聞いてた！？\u3000いつから──いえ、言わなくていいわ。どうせ最初から聞いてたんでしょ」"
 translation = "「방금 거 들었어!? 언제부터── 아니, 말 안 해도 돼. 어차피 처음부터 듣고 있었을 거 아냐.」"
 
 [[dialogue]]
-speaker = "イレーナ"
+speaker_original = "イレーナ"
+speaker_translation = "이레이나"
 original = "「はぁ～、しくじった。慣れない環境で気を抜くもんじゃないわね……」"
 translation = "「하아~, 실수했네. 익숙지 않은 환경에서 방심할 게 아니었어……」"
 
@@ -34,17 +38,20 @@ original = "昼間と全然違うような……"
 translation = "낮이랑은 전혀 다른 것 같은데……"
 
 [[dialogue]]
-speaker = "イレーナ"
+speaker_original = "イレーナ"
+speaker_translation = "이레이나"
 original = "「そりゃそうでしょ。外面を取り繕うなんてみんな大なり小なりやっていることよ」"
 translation = "「그야 당연하지. 겉모습을 꾸미는 것 정도는 누구나 크든 작든 하고 있는 일이야.」"
 
 [[dialogue]]
-speaker = "イレーナ"
+speaker_original = "イレーナ"
+speaker_translation = "이레이나"
 original = "「ご覧の通り、あたしはエセ聖女。どう？\u3000がっかりした？\u3000詐欺で訴えたければ女神様に言いなさい」"
 translation = "「보시다시피, 나는 가짜 성녀. 어때? 실망했어? 사기로 고소하고 싶으면 여신님한테 가서 말해.」"
 
 [[dialogue]]
-speaker = "イレーナ"
+speaker_original = "イレーナ"
+speaker_translation = "이레이나"
 original = "「ていうかあんた何しに──忘れ物？\u3000ああ、このＤＩＳＣ、あんたのだったの。はい、もう忘れないでよね」"
 translation = "「그보다 당신 뭐 하러── 잊어버린 물건? 아아, 이 DISC, 당신 거였구나. 자, 이제 잊어버리지 마.」"
 
@@ -54,37 +61,44 @@ original = "ありがとう"
 translation = "고마워"
 
 [[dialogue]]
-speaker = "イレーナ"
+speaker_original = "イレーナ"
+speaker_translation = "이레이나"
 original = "「……あんたはお昼の時と全然変わんないのね」"
 translation = "「……당신은 낮일 때랑 전혀 변함이 없네.」"
 
 [[dialogue]]
-speaker = "イレーナ"
+speaker_original = "イレーナ"
+speaker_translation = "이레이나"
 original = "「独り言よ、何でもないわ。いいからさっさと帰りなさい。大聖堂の戸締りができないでしょうが」"
 translation = "「혼잣말이야, 아무것도 아냐. 됐으니까 얼른 돌아가. 대성당 문을 못 잠그잖아.」"
 
 [[dialogue]]
-speaker = "イレーナ"
+speaker_original = "イレーナ"
+speaker_translation = "이레이나"
 original = "「今見たこと聞いたこと、誰かに言わないでよね。もし言ったら──」"
 translation = "「방금 보고 들은 거, 아무한테도 말하지 마. 만약 말하면──」"
 
 [[dialogue]]
-speaker = "イレーナ"
+speaker_original = "イレーナ"
+speaker_translation = "이레이나"
 original = "「あんたを潰す！\u3000主に社会的に」"
 translation = "「당신을 뭉개버릴 거야! 주로 사회적으로.」"
 
 [[dialogue]]
-speaker = "イレーナ"
+speaker_original = "イレーナ"
+speaker_translation = "이레이나"
 original = "「素敵なカフェテリアですね。メニューも豊富で何を食べるかついつい迷ってしまいそうです。神官は清貧を尊ぶべきなのに、いけませんね私は」"
 translation = "「멋진 카페테리아네요. 메뉴도 풍부해서 무엇을 먹을지 그만 고민하게 되어버려요. 신관은 청빈을 존중해야 하는데, 전 안 되겠네요.」"
 
 [[dialogue]]
-speaker = "イレーナ"
+speaker_original = "イレーナ"
+speaker_translation = "이레이나"
 original = "「で──」"
 translation = "「그래서──」"
 
 [[dialogue]]
-speaker = "イレーナ"
+speaker_original = "イレーナ"
+speaker_translation = "이레이나"
 original = "（あたしのこと、誰にも言ってないでしょうね？）"
 translation = "(내 이야기, 아무한테도 말 안 했겠지?)"
 
@@ -94,12 +108,14 @@ original = "大丈夫、信じてくれ"
 translation = "괜찮아, 믿어줘"
 
 [[dialogue]]
-speaker = "イレーナ"
+speaker_original = "イレーナ"
+speaker_translation = "이레이나"
 original = "（ほんとに～？\u3000上っ面だけなら何とでも言えるでしょうに）"
 translation = "(정말로~? 겉으로만 하는 말이라면 얼마든지 할 수 있을 텐데.)"
 
 [[dialogue]]
-speaker = "イレーナ"
+speaker_original = "イレーナ"
+speaker_translation = "이레이나"
 original = "（これでも聖女ヅラするのって大変なの。邪魔だけはしないでよね）"
 translation = "(이래 봬도 성녀 노릇 하는 거 힘들단 말이야. 방해만은 하지 마.)"
 
@@ -109,27 +125,32 @@ original = "星徒会の仕事を終えて帰路に就くと──"
 translation = "성도회 업무를 마치고 귀갓길에 오르자──"
 
 [[dialogue]]
-speaker = "イレーナ"
+speaker_original = "イレーナ"
+speaker_translation = "이레이나"
 original = "「あ」"
 translation = "「아.」"
 
 [[dialogue]]
-speaker = "イレーナ"
+speaker_original = "イレーナ"
+speaker_translation = "이레이나"
 original = "「はぁ……また会ったわね。あんたの顔なんて何度も見たくないっていうのに」"
 translation = "「하아…… 또 만났네. 당신 얼굴 같은 거 몇 번이나 보고 싶지 않은데.」"
 
 [[dialogue]]
-speaker = "イレーナ"
+speaker_original = "イレーナ"
+speaker_translation = "이레이나"
 original = "「まぁいいわ。あたし寮じゃなくて教皇庁の宿舎に住んでるから、帰りはこっちなの。じゃあね」"
 translation = "「뭐 됐어. 난 기숙사가 아니라 교황청 숙소에 사니까, 가는 길은 이쪽이야. 그럼 안녕.」"
 
 [[dialogue]]
-speaker = "イレーナ"
+speaker_original = "イレーナ"
+speaker_translation = "이레이나"
 original = "「いつまでついてくんのよ。誰かに見られてあんたと噂されたくないの。神官は貞淑でないといけないんだから」"
 translation = "「언제까지 따라올 거야. 누가 보고 당신이랑 소문나고 싶지 않단 말이야. 신관은 정숙해야 하니까.」"
 
 [[dialogue]]
-speaker = "イレーナ"
+speaker_original = "イレーナ"
+speaker_translation = "이레이나"
 original = "「あんたも帰りこっち？\u3000ぬぬぬ……じゃあ気を遣って遠回りするとかしなさいよ～」"
 translation = "「당신도 집이 이쪽이야? 으으으…… 그럼 눈치껏 멀리 돌아가든가 하라고~」"
 
@@ -139,17 +160,20 @@ original = "転入生同士仲良くしようって言ってたのに"
 translation = "전입생끼리 사이좋게 지내자고 했으면서"
 
 [[dialogue]]
-speaker = "イレーナ"
+speaker_original = "イレーナ"
+speaker_translation = "이레이나"
 original = "「あんなの社交辞令に決まってるでしょ！\u3000バッカじゃないの！」"
 translation = "「그건 당연히 사교용 멘트지! 바보 아냐!」"
 
 [[dialogue]]
-speaker = "イレーナ"
+speaker_original = "イレーナ"
+speaker_translation = "이레이나"
 original = "「あっ」"
 translation = "「앗.」"
 
 [[dialogue]]
-speaker = "イレーナ"
+speaker_original = "イレーナ"
+speaker_translation = "이레이나"
 original = "「誰も見てないわね……よかった～。はぁ～、あんたといると調子狂うわ……」"
 translation = "「아무도 안 봤겠지…… 다행이다~. 하아~, 당신이랑 있으면 페이스가 엉망이 돼……」"
 
@@ -159,107 +183,128 @@ original = "イレーナはどうして聖女になったんた？"
 translation = "이레나는 어쩌다 성녀가 된 거야?"
 
 [[dialogue]]
-speaker = "イレーナ"
+speaker_original = "イレーナ"
+speaker_translation = "이레이나"
 original = "「どうしてって……成り行きというかなんというか……」"
 translation = "「어쩌다니…… 어쩌다 보니 그렇게 됐달까……」"
 
 [[dialogue]]
-speaker = "イレーナ"
+speaker_original = "イレーナ"
+speaker_translation = "이레이나"
 original = "「けっこう珍しいことらしいんだけど、あたしは小さい頃から星力を使えた」"
 translation = "「꽤 드문 일이라던데, 나는 어릴 때부터 성력을 쓸 수 있었어.」"
 
 [[dialogue]]
-speaker = "イレーナ"
+speaker_original = "イレーナ"
+speaker_translation = "이레이나"
 original = "「最初は道端で倒れてた人をちょっと助けただけだった」"
 translation = "「처음에는 길가에 쓰러져 있던 사람을 조금 도와준 것뿐이었지.」"
 
 [[dialogue]]
-speaker = "イレーナ"
+speaker_original = "イレーナ"
+speaker_translation = "이레이나"
 original = "「それが奇跡なんて噂になって、病気や怪我を治してほしい人が集まってきた」"
 translation = "「그게 기적이라는 소문이 나서, 병이나 상처를 고치고 싶어 하는 사람들이 몰려들었어.」"
 
 [[dialogue]]
-speaker = "イレーナ"
+speaker_original = "イレーナ"
+speaker_translation = "이레이나"
 original = "「調子に乗ったあたしはみんな助けてあげて、そしたら教皇庁に声をかけられて、教会に入って」"
 translation = "「우쭐해진 나는 모두를 도와줬고, 그러다 교황청에서 제의가 와서 교회에 들어갔지.」"
 
 [[dialogue]]
-speaker = "イレーナ"
+speaker_original = "イレーナ"
+speaker_translation = "이레이나"
 original = "「気づけば誰もがあたしを聖女と呼ぶようになっていた。聖女になろうと思ってなったわけじゃないわ」"
 translation = "「정신을 차려보니 누구나 나를 성녀라고 부르게 되었어. 성녀가 되려고 해서 된 게 아니야.」"
 
 [[dialogue]]
-speaker = "イレーナ"
+speaker_original = "イレーナ"
+speaker_translation = "이레이나"
 original = "「……でも結果的にはこれでよかったの。聖女らしく、お行儀良くして微笑んでればみんなちやほやしてくれる」"
 translation = "「……하지만 결과적으로는 이걸로 잘됐어. 성녀답게 예의 바르게 행동하며 미소 짓고 있으면 다들 치켜세워주니까.」"
 
 [[dialogue]]
-speaker = "イレーナ"
+speaker_original = "イレーナ"
+speaker_translation = "이레이나"
 original = "「聖女じゃないあたしなんて需要がないの。誰も望んでないのよ」"
 translation = "「성녀가 아닌 나 같은 건 수요가 없어. 아무도 바라지 않는다고.」"
 
 [[dialogue]]
-speaker = "イレーナ"
+speaker_original = "イレーナ"
+speaker_translation = "이레이나"
 original = "「あ──」"
 translation = "「아──」"
 
 [[dialogue]]
-speaker = "イレーナ"
+speaker_original = "イレーナ"
+speaker_translation = "이레이나"
 original = "「おばあさん、どうされましたか？」"
 translation = "「할머니, 무슨 일이신가요?」"
 
 [[dialogue]]
-speaker = "老婦人"
+speaker_original = "老婦人"
+speaker_translation = "노부인"
 original = "「あ、あの、杖を落としてしまって……。わたし、目がほとんど見えないので杖がないと……」"
 translation = "「아, 저기, 지팡이를 떨어뜨려서…… 제가 눈이 거의 보이지 않아서 지팡이가 없으면……」"
 
 [[dialogue]]
-speaker = "イレーナ"
+speaker_original = "イレーナ"
+speaker_translation = "이레이나"
 original = "「こちらですね。どうぞ」"
 translation = "「여기 있어요. 자요.」"
 
 [[dialogue]]
-speaker = "老婦人"
+speaker_original = "老婦人"
+speaker_translation = "노부인"
 original = "「ありがとうございます。この声……もしかして教会の聖女様？」"
 translation = "「감사합니다. 이 목소리…… 설마 교회의 성녀님?」"
 
 [[dialogue]]
-speaker = "イレーナ"
+speaker_original = "イレーナ"
+speaker_translation = "이레이나"
 original = "「ええ、先日流星市国に参りました、イレーナ・ロレンツェッティです。あなたも礼拝に来てくださったのですね」"
 translation = "「네, 얼마 전 유성 시국에 온 이레나 로렌체티입니다. 당신도 예배에 와주셨군요.」"
 
 [[dialogue]]
-speaker = "老婦人"
+speaker_original = "老婦人"
+speaker_translation = "노부인"
 original = "「ああ、聖女様が自ら……ありがとうございます、ありがとうございます……」"
 translation = "「아아, 성녀님이 직접…… 감사합니다, 감사합니다……」"
 
 [[dialogue]]
-speaker = "イレーナ"
+speaker_original = "イレーナ"
+speaker_translation = "이레이나"
 original = "「誰かを手助けしたいと思う気持ちに聖女も神官も関係ありませんよ」"
 translation = "「누군가를 돕고 싶다는 마음에는 성녀도 신관도 상관없답니다.」"
 
 [[dialogue]]
-speaker = "イレーナ"
+speaker_original = "イレーナ"
+speaker_translation = "이레이나"
 original = "「すみません。少しじっとしていていただけますか？」"
 translation = "「죄송해요. 잠시만 가만히 계셔주시겠어요?」"
 
 [[dialogue]]
-speaker = "老婦人"
+speaker_original = "老婦人"
+speaker_translation = "노부인"
 original = "「え？\u3000もちろんかまいませんが──」"
 translation = "「예? 물론 상관없습니다만──」"
 
 [[dialogue]]
-speaker = "老婦人"
+speaker_original = "老婦人"
+speaker_translation = "노부인"
 original = "「え……？\u3000目が……！？\u3000目が見える……！？」"
 translation = "「어……? 눈이……!? 눈이 보여……!?」"
 
 [[dialogue]]
-speaker = "老婦人"
+speaker_original = "老婦人"
+speaker_translation = "노부인"
 original = "「あ、ありがとうございます！\u3000聖女様の奇跡です！」"
 translation = "「가, 감사합니다! 성녀님의 기적이에요!」"
 
 [[dialogue]]
-speaker = "イレーナ"
+speaker_original = "イレーナ"
+speaker_translation = "이레이나"
 original = "「女神様の御心ですよ。あなたに女神様の加護がありますように」"
 translation = "「여신님의 뜻이랍니다. 당신에게 여신님의 가호가 있기를.」"
 

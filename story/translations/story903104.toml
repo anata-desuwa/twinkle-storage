@@ -1,425 +1,510 @@
 [[dialogue]]
-speaker = "ここあ"
+speaker_original = "ここあ"
+speaker_translation = "코코아"
 original = "「アンナちん、すご～い！\u3000もう何か分かったの！？」"
 translation = "「안나칭 대단해! 벌써 뭔가 알아낸 거야!?」"
 
 [[dialogue]]
-speaker = "いろは"
+speaker_original = "いろは"
+speaker_translation = "이로하"
 original = "「もしかして、シズシズのこと抱っこしながら分析しちゃったってこと！？」"
 translation = "「혹시 시즈시즈 안아주면서 분석해버린 거야!?」"
 
 [[dialogue]]
-speaker = "トレジアンナ"
+speaker_original = "トレジアンナ"
+speaker_translation = "트레지안나"
 original = "「そうですね。まだ詳しいことは分からないものの、どうやらこれは、感染させるタイプの能力のようです～」"
 translation = "「그렇네요. 아직 자세한 건 모르지만 아무래도 이건 감염시키는 타입의 능력인 것 같습니다~」"
 
 [[dialogue]]
-speaker = "トレジアンナ"
+speaker_original = "トレジアンナ"
+speaker_translation = "트레지안나"
 original = "「まあ十中八九、シズハさんがキスされたときに感染させられたのだと思います。そしてこれは、感染主の欲望を暴走させるような作用があるみたいですね～」"
 translation = "「뭐 십중팔구 시즈하 씨가 키스당했을 때 감염된 것이라고 생각합니다. 그리고 이건 감염된 주체의 욕망을 폭주시키는 듯한 작용이 있는 것 같네요~」"
 
 [[dialogue]]
-speaker = "花織"
+speaker_original = "花織"
+speaker_translation = "카오리"
 original = "「欲望の暴走……ですか？」"
 translation = "「욕망의 폭주…… 인가요?」"
 
 [[dialogue]]
-speaker = "トレジアンナ"
+speaker_original = "トレジアンナ"
+speaker_translation = "트레지안나"
 original = "「まあ、見たまんまなんですが、感染者は理性が大幅に低下してしまうようですね～」"
 translation = "「뭐, 보시는 대로입니다만 감염자는 이성이 대폭 저하되어버리는 모양이네요~」"
 
 [[dialogue]]
-speaker = "トレジアンナ"
+speaker_original = "トレジアンナ"
+speaker_translation = "트레지안나"
 original = "「ちょっと我慢が効かなくなるとかそういうレベルじゃなくて、欲望駄々洩れ、煩悩一直線のおバカさんになっちゃうみたいです☆」"
 translation = "「조금 참지 못하게 된다거나 그런 수준이 아니라, 욕망이 줄줄 새고 번뇌 일직선인 바보가 되어버리는 것 같습니다☆」"
 
 [[dialogue]]
-speaker = "トレジアンナ"
+speaker_original = "トレジアンナ"
+speaker_translation = "트레지안나"
 original = "「そして、感染者はその内に秘めた欲望を叶えるための歯止めが効かなくなり大暴走！\u3000その欲望が叶うまでは、本人の意思ではまったく止まれないようです」"
 translation = "「그리고 감염자는 그 내면에 간직한 욕망을 이루기 위한 제동이 걸리지 않아 대폭주! 그 욕망이 이루어질 때까지는 본인의 의사로는 전혀 멈출 수 없는 모양입니다」"
 
 [[dialogue]]
-speaker = "ここあ"
+speaker_original = "ここあ"
+speaker_translation = "코코아"
 original = "「シズハっちが気を失ったのは、欲望が叶えられたから？」"
 translation = "「시즈하치가 정신을 잃은 건 욕망이 채워졌기 때문?」"
 
 [[dialogue]]
-speaker = "トレジアンナ"
+speaker_original = "トレジアンナ"
+speaker_translation = "트레지안나"
 original = "「そういうことになりそうですね～」"
 translation = "「그렇게 되겠네요~」"
 
 [[dialogue]]
-speaker = "サチ"
+speaker_original = "サチ"
+speaker_translation = "사치"
 original = "「えっと、本当にそれだけですか……？」"
 translation = "「저기, 정말 그게 다인가요……?」"
 
 [[dialogue]]
-speaker = "トレジアンナ"
+speaker_original = "トレジアンナ"
+speaker_translation = "트레지안나"
 original = "「あと何か、気持ちよくなっちゃうみたいです☆」"
 translation = "「그리고 뭔가 기분 좋아져버리는 것 같습니다☆」"
 
 [[dialogue]]
-speaker = "サチ"
+speaker_original = "サチ"
+speaker_translation = "사치"
 original = "「でしょうね！！？」"
 translation = "「그렇겠죠!!?」"
 
 [[dialogue]]
-speaker = "プリムラ"
+speaker_original = "プリムラ"
+speaker_translation = "프리뮬러"
 original = "「なんじゃ、思ったよりも大したことは無さそうじゃの」"
 translation = "「뭐냐, 생각보다 별거 아닌 것 같구나」"
 
 [[dialogue]]
-speaker = "サチ"
+speaker_original = "サチ"
+speaker_translation = "사치"
 original = "「緊張感がないよ、プリムラ！\u3000とんでもなく恐ろしい攻撃じゃない、これは！！」"
 translation = "「긴장감이 없어요, 프리뮬러! 엄청나게 무시무시한 공격이잖아요, 이건!!」"
 
 [[dialogue]]
-speaker = "プリムラ"
+speaker_original = "プリムラ"
+speaker_translation = "프리뮬러"
 original = "「そうかの？」"
 translation = "「그러느냐?」"
 
 [[dialogue]]
-speaker = "サチ"
+speaker_original = "サチ"
+speaker_translation = "사치"
 original = "「そうだよ！？\u3000これは社会的、精神的にヒトの尊厳を破壊する、深刻な病でしょっ！？」"
 translation = "「그렇다니까요!? 이건 사회적, 정신적으로 인간의 존엄을 파괴하는 심각한 병이라구요!!」"
 
 [[dialogue]]
-speaker = "サチ"
+speaker_original = "サチ"
+speaker_translation = "사치"
 original = "「いくら後で正気に戻ったとしても、失われたシズハちゃんの尊厳は、二度と回復しないんだよ！！！」"
 translation = "「나중에 제정신으로 돌아온다 해도 잃어버린 시즈하짱의 존엄은 두 번 다시 회복되지 않는다구요!!!」"
 
 [[dialogue]]
-speaker = "プリムラ"
+speaker_original = "プリムラ"
+speaker_translation = "프리뮬러"
 original = "「……シズハにあの程度の痴態で失われるほどの尊厳など、最初からあったかの？」"
 translation = "「……시즈하에게 그 정도의 치태로 잃어버릴 만큼의 존엄 같은 것이 애초에 있었느냐?」"
 
 [[dialogue]]
-speaker = "花織"
+speaker_original = "花織"
+speaker_translation = "카오리"
 original = "「プリムラちゃん、結構めちゃくちゃ言うね……」"
 translation = "「프리뮬러짱, 꽤 너무한 소릴 하네……」"
 
 [[dialogue]]
-speaker = "いろは"
+speaker_original = "いろは"
+speaker_translation = "이로하"
 original = "「あたしはあんまり気にしないかな～？\u3000むしろどんな風になるのか、ちょっと気になるかも！」"
 translation = "「나는 별로 신경 안 쓰일 것 같은데~? 오히려 어떤 식으로 될지 좀 궁금할지도!」"
 
 [[dialogue]]
-speaker = "ここあ"
+speaker_original = "ここあ"
+speaker_translation = "코코아"
 original = "「にゃははは。いろはすは最初から本能のままに生きてるって感じするもんね～」"
 translation = "「냐하하하. 이로하스는 처음부터 본능대로 살고 있다는 느낌이 드니까 말이야~」"
 
 [[dialogue]]
-speaker = "サチ"
+speaker_original = "サチ"
+speaker_translation = "사치"
 original = "「もう！\u3000みなさん、のん気すぎです！\u3000こんな病が流星市国に蔓延するなんて、絶対に許されないことなんですからね！！」"
 translation = "「정말! 다들 너무 태평해요! 이런 병이 유성 시국에 만연하다니 절대 용납할 수 없는 일이라구요!!」"
 
 [[dialogue]]
-speaker = "プリムラ"
+speaker_original = "プリムラ"
+speaker_translation = "프리뮬러"
 original = "「……大方、サチは自分の『むっつり』がバレるのを気にしてるんじゃろうが、もうとっくにバレとるから今更隠す必要も特にないのじゃ」"
 translation = "「……대충 사치는 자기 『음란함』이 들통나는 걸 걱정하는 거겠지만, 이미 진작에 들켰으니까 이제 와서 숨길 필요도 딱히 없느니라」"
 
 [[dialogue]]
-speaker = "サチ"
+speaker_original = "サチ"
+speaker_translation = "사치"
 original = "「なぁっっっ！！？！？？」"
 translation = "「뭐어어어엇!!?!!?」"
 
 [[dialogue]]
-speaker = "トレジアンナ"
+speaker_original = "トレジアンナ"
+speaker_translation = "트레지안나"
 original = "「まあまあ、プリムラさん。好きな人にちょっとエッチなところがバレるのは逆にアピールにもなりますが……」"
 translation = "「자자, 프리뮬러 씨. 좋아하는 사람에게 조금 야한 부분이 들키는 건 반대로 어필도 됩니다만……」"
 
 [[dialogue]]
-speaker = "トレジアンナ"
+speaker_original = "トレジアンナ"
+speaker_translation = "트레지안나"
 original = "「衆人環視の元で自分のエッチさを大公開してしまうのは、さすがに尊厳ある霊長類としては、避けたいところなんじゃないでしょうか☆」"
 translation = "「많은 사람이 보는 앞에서 자신의 야함을 대공개해버리는 건 역시 존엄 있는 영장류로서는 피하고 싶은 부분이 아닐까요☆」"
 
 [[dialogue]]
-speaker = "プリムラ"
+speaker_original = "プリムラ"
+speaker_translation = "프리뮬러"
 original = "「そういうものかの？\u3000頭の中が年中ピンク色なのも、色々考えものじゃな」"
 translation = "「그런 것이냐? 머릿속이 일 년 내내 핑크색인 것도 여러모로 생각해볼 문제로구나」"
 
 [[dialogue]]
-speaker = "サチ"
+speaker_original = "サチ"
+speaker_translation = "사치"
 original = "「私、そこまでエッチじゃないもんっ！！！」"
 translation = "「나, 그렇게 야하지 않은걸!!!」"
 
 [[dialogue]]
-speaker = "プリムラ"
+speaker_original = "プリムラ"
+speaker_translation = "프리뮬러"
 original = "「…………」"
 translation = "「…………」"
 
 [[dialogue]]
-speaker = "トレジアンナ"
+speaker_original = "トレジアンナ"
+speaker_translation = "트레지안나"
 original = "「…………」"
 translation = "「…………」"
 
 [[dialogue]]
-speaker = "サチ"
+speaker_original = "サチ"
+speaker_translation = "사치"
 original = "「なんで突然黙るの、２人共！！？」"
 translation = "「왜 갑자기 침묵하는 거야, 둘 다!!?」"
 
 [[dialogue]]
-speaker = "ここあ"
+speaker_original = "ここあ"
+speaker_translation = "코코아"
 original = "「まあまあ、サチサチも落ち着いて～。さっきのあれに、絶対感染するって決まったわけでもないからさ」"
 translation = "「자자, 사치사치도 진정해~. 아까 그게 꼭 감염된다고 정해진 것도 아니니까 말이야」"
 
 [[dialogue]]
-speaker = "いろは"
+speaker_original = "いろは"
+speaker_translation = "이로하"
 original = "「え～っと、要するにキスさえされなければ大丈夫ってことだよね？」"
 translation = "「저기, 요컨대 키스만 안 당하면 괜찮다는 뜻이지?」"
 
 [[dialogue]]
-speaker = "花織"
+speaker_original = "花織"
+speaker_translation = "카오리"
 original = "「そう考えたら、そこまで恐れる攻撃でもないかも……」"
 translation = "「그렇게 생각하면 그렇게까지 두려운 공격도 아닐지도……」"
 
 [[dialogue]]
-speaker = "サチ"
+speaker_original = "サチ"
+speaker_translation = "사치"
 original = "「みなさん楽観的過ぎますっ！\u3000本当に恐ろしい攻撃なんですよ！？\u3000こんなの絶対、死よりも恐ろしいことなんですからぁっ！！」"
 translation = "「다들 너무 낙관적이에요! 정말 무서운 공격이라구요! 이런 건 절대 죽음보다 무서운 일이라니까요!!」"
 
 [[dialogue]]
-speaker = "プリムラ"
+speaker_original = "プリムラ"
+speaker_translation = "프리뮬러"
 original = "「どう考えても貴様は深刻にとらえすぎじゃろ……」"
 translation = "「아무리 생각해도 네놈은 너무 심각하게 받아들이는구나……」"
 
 [[dialogue]]
-speaker = "シズハ"
+speaker_original = "シズハ"
+speaker_translation = "시즈하"
 original = "「う、う～ん……」"
 translation = "「으, 으응……」"
 
 [[dialogue]]
-speaker = "ここあ"
+speaker_original = "ここあ"
+speaker_translation = "코코아"
 original = "「あ、目が覚めたみたい！\u3000おっはよ～♪\u3000体調の方は大丈夫かにゃ？」"
 translation = "「아, 눈 뜬 것 같아! 안녀엉~♪ 컨디션은 좀 어때냐?」"
 
 [[dialogue]]
-speaker = "シズハ"
+speaker_original = "シズハ"
+speaker_translation = "시즈하"
 original = "「え？\u3000あ、えっと……おはよう、ございます？\u3000……あれ、もしかして私、気を失っちゃってましたか……？」"
 translation = "「어? 아, 저기…… 안녕하세요? ……어라, 혹시 저 기절해 있었나요……?」"
 
 [[dialogue]]
-speaker = "トレジアンナ"
+speaker_original = "トレジアンナ"
+speaker_translation = "트레지안나"
 original = "「はい。陽彩さんとキスしたことによって、シズハさんは『ピンク脳症候群』にかかっていたようですね～」"
 translation = "「네. 아키사 씨와 키스함으로써 시즈하 씨는 『핑크 뇌 증후군』에 걸려 있었던 것 같네요~」"
 
 [[dialogue]]
-speaker = "シズハ"
+speaker_original = "シズハ"
+speaker_translation = "시즈하"
 original = "「『ピンク脳症候群』……？」"
 translation = "「『핑크 뇌 증후군』……?」"
 
 [[dialogue]]
-speaker = "サチ"
+speaker_original = "サチ"
+speaker_translation = "사치"
 original = "「これって、そういう名前の病気なんですか？」"
 translation = "「이거 그런 이름의 병인가요?」"
 
 [[dialogue]]
-speaker = "トレジアンナ"
+speaker_original = "トレジアンナ"
+speaker_translation = "트레지안나"
 original = "「たった今、私が名付けました！\u3000自信作です♪」"
 translation = "「방금 제가 지었습니다! 자신작이에요♪」"
 
 [[dialogue]]
-speaker = "いろは"
+speaker_original = "いろは"
+speaker_translation = "이로하"
 original = "「あはは、確かにそれっぽいかも♪」"
 translation = "「아하하, 확실히 그럴싸할지도♪」"
 
 [[dialogue]]
-speaker = "シズハ"
+speaker_original = "シズハ"
+speaker_translation = "시즈하"
 original = "「えっと……それにかかっている間の記憶は、恥ずかしいけど残ってます……みなさん、本当にご迷惑をおかけしました」"
 translation = "「저기…… 그거 걸려 있는 동안의 기억은 부끄럽지만 남아 있어요…… 여러분, 정말 폐를 끼쳤습니다」"
 
 [[dialogue]]
-speaker = "シズハ"
+speaker_original = "シズハ"
+speaker_translation = "시즈하"
 original = "「改めて自己紹介をさせてください、私は<ruby>染井<rt>そめい</rt></ruby>シズハって言います。流星学園附属校３年の星騎士で――」"
 translation = "「다시 자기소개를 하게 해주세요, 저는 소메이 시즈하라고 합니다. 유성 학원 부속교 3학년 성기사로――」"
 
 [[dialogue]]
-speaker = "いろは"
+speaker_original = "いろは"
+speaker_translation = "이로하"
 original = "「ねぇねぇ、もしかして……キミも魔法少女って感じ！？」"
 translation = "「네네, 혹시…… 너도 마법소녀라는 느낌!?」"
 
 [[dialogue]]
-speaker = "シズハ"
+speaker_original = "シズハ"
+speaker_translation = "시즈하"
 original = "「あれ？\u3000サチちゃんたちと一緒にいて、『<ruby>魔法少女<rt>それ</rt></ruby>』を知ってるってことは……」"
 translation = "「어라? 사치짱이랑 같이 있고 『마법소녀』를 안다는 건……」"
 
 [[dialogue]]
-speaker = "いろは"
+speaker_original = "いろは"
+speaker_translation = "이로하"
 original = "「そーなの！\u3000別の世界から来たんだけど、実はあたしたちも魔法少女なんだっ♪」"
 translation = "「마저! 다른 세계에서 왔는데 사실 우리도 마법소녀야♪」"
 
 [[dialogue]]
-speaker = "シズハ"
+speaker_original = "シズハ"
+speaker_translation = "시즈하"
 original = "「えぇええぇっ！？\u3000どういうこと！？」"
 translation = "「에에에에엑!? 어떻게 된 거야!?」"
 
 [[dialogue]]
-speaker = "シズハ"
+speaker_original = "シズハ"
+speaker_translation = "시즈하"
 original = "「おおよその事情はわかりました……。あの女の子のことも。あの子は元々、あなたたちのお友達なんですね」"
 translation = "「대략적인 사정은 알겠습니다……. 그 여자아이에 대해서도요. 그 아이는 원래 당신들의 친구였군요」"
 
 [[dialogue]]
-speaker = "オムニス"
+speaker_original = "オムニス"
+speaker_translation = "옴니스"
 original = "「そういうことなんだ」"
 translation = "「그렇게 된 거다」"
 
 [[dialogue]]
-speaker = "シズハ"
+speaker_original = "シズハ"
+speaker_translation = "시즈하"
 original = "「なら、何としても元の状態に戻さないと！\u3000一緒に頑張ろう♪\u3000いけいけゴーゴー♪」"
 translation = "「그럼 어떻게든 원래 상태로 되돌려야지! 같이 힘내자♪ 가자가자 고고♪」"
 
 [[dialogue]]
-speaker = "花織"
+speaker_original = "花織"
+speaker_translation = "카오리"
 original = "「う、うん……よろしくお願いします」"
 translation = "「으, 응…… 잘 부탁해」"
 
 [[dialogue]]
-speaker = "シズハ"
+speaker_original = "シズハ"
+speaker_translation = "시즈하"
 original = "「じ～っ……」"
 translation = "「지이~……」"
 
 [[dialogue]]
-speaker = "花織"
+speaker_original = "花織"
+speaker_translation = "카오리"
 original = "「え……？\u3000あの～、どうかしましたか？」"
 translation = "「어……? 저기~, 무슨 일인가요?」"
 
 [[dialogue]]
-speaker = "シズハ"
+speaker_original = "シズハ"
+speaker_translation = "시즈하"
 original = "「えいっ♪」"
 translation = "「에잇♪」"
 
 [[dialogue]]
-speaker = "花織"
+speaker_original = "花織"
+speaker_translation = "카오리"
 original = "「きゃっ！？\u3000ななな、なにをするんですか！」"
 translation = "「꺄악!? 뭐뭐뭐, 뭐 하시는 거예요!」"
 
 [[dialogue]]
-speaker = "シズハ"
+speaker_original = "シズハ"
+speaker_translation = "시즈하"
 original = "「挨拶代わりの、お尻ひと揉みです♪」"
 translation = "「인사 대신 엉덩이 한 번 주무르기입니다♪」"
 
 [[dialogue]]
-speaker = "花織"
+speaker_original = "花織"
+speaker_translation = "카오리"
 original = "「どういうことぉ！？」"
 translation = "「무슨 소리야!?」"
 
 [[dialogue]]
-speaker = "トレジアンナ"
+speaker_original = "トレジアンナ"
+speaker_translation = "트레지안나"
 original = "「説明しましょう！\u3000シズハさんは決して、セクハラがしたいがためにお尻を揉んだわけじゃないんです！」"
 translation = "「설명하죠! 시즈하 씨는 결코 성희롱을 하고 싶어서 엉덩이를 주무른 게 아닙니다!」"
 
 [[dialogue]]
-speaker = "シズハ"
+speaker_original = "シズハ"
+speaker_translation = "시즈하"
 original = "「そうなの！\u3000お尻タッチはコミュニケーションなんだから！」"
 translation = "「맞아! 엉덩이 터치는 커뮤니케이션이라니까!」"
 
 [[dialogue]]
-speaker = "プリムラ"
+speaker_original = "プリムラ"
+speaker_translation = "프리뮬러"
 original = "「貴様は前々からそういっておるが、本当なのか……？\u3000新しい尻を揉みたい、という邪な気持ちがなかったと誓えるのか？」"
 translation = "「네놈은 전부터 그렇게 말하고 있다만, 정말이냐……? 새로운 엉덩이를 주무르고 싶다는 사악한 마음이 없었다고 맹세할 수 있느냐?」"
 
 [[dialogue]]
-speaker = "シズハ"
+speaker_original = "シズハ"
+speaker_translation = "시즈하"
 original = "「新しいお尻を揉むのも、よく知ってるお尻を揉むのも、穢れなき心で言ってるよ！\u3000プリムラちゃん！」"
 translation = "「새로운 엉덩이를 주무르는 것도, 잘 아는 엉덩이를 주무르는 것도 순수한 마음으로 말하는 거야! 프리뮬러짱!」"
 
 [[dialogue]]
-speaker = "プリムラ"
+speaker_original = "プリムラ"
+speaker_translation = "프리뮬러"
 original = "「えぇえい、勝手に我の尻を揉むでない！\u3000このハレンチ娘がっ！？」"
 translation = "「에에잇, 마음대로 이 몸의 엉덩이를 주무르지 마라! 이 파렴치한 계집이!?」"
 
 [[dialogue]]
-speaker = "いろは"
+speaker_original = "いろは"
+speaker_translation = "이로하"
 original = "「あたしはそれ、ちょっとわかるな～。ってことで、あたしも挨拶代わりに、えいっ♪」"
 translation = "「나는 그거 좀 알 것 같아~. 그런 의미에서 나도 인사 대신, 에잇♪」"
 
 [[dialogue]]
-speaker = "シズハ"
+speaker_original = "シズハ"
+speaker_translation = "시즈하"
 original = "「ふわぁあっ<emoji=heart04>\u3000これはこれはご丁寧に、どうもありがとうございます♪\u3000ではこちらからも、もみもみ♪」"
 translation = "「후와아앗<emoji=heart04> 이거 이거 정중하게 정말 감사합니다♪ 그럼 이쪽에서도 조물조물♪」"
 
 [[dialogue]]
-speaker = "プリムラ"
+speaker_original = "プリムラ"
+speaker_translation = "프리뮬러"
 original = "「何なのじゃ、このハレンチ空間は……」"
 translation = "「뭐냐, 이 파렴치 공간은……」"
 
 [[dialogue]]
-speaker = "花織"
+speaker_original = "花織"
+speaker_translation = "카오리"
 original = "「苦労してるんだね、キミも……」"
 translation = "「고생이 많네, 너도……」"
 
 [[dialogue]]
-speaker = "プリムラ"
+speaker_original = "プリムラ"
+speaker_translation = "프리뮬러"
 original = "「常識が通用する奴がいて助かるのじゃ……しかし、我は悪の終末兵器だったはずが、なぜこんなことに……」"
 translation = "「상식이 통하는 녀석이 있어서 다행이구나…… 그런데 이 몸은 악의 종말병기였을 텐데 왜 이렇게 된 것이지……」"
 
 [[dialogue]]
-speaker = "サチ"
+speaker_original = "サチ"
+speaker_translation = "사치"
 original = "「って、お尻を揉み合ってる場合じゃないですよ！？\u3000抜本的な対策を１秒でも早く考えて、あの子を止めに行かなくちゃ、とんでもないことになりますっ！！」"
 translation = "「아니, 엉덩이 주무르고 있을 때가 아니잖아요!? 근본적인 대책을 1초라도 빨리 생각해서 그 애를 막으러 가지 않으면 큰일 난다구요!!」"
 
 [[dialogue]]
-speaker = "ここあ"
+speaker_original = "ここあ"
+speaker_translation = "코코아"
 original = "「まあ、サチサチの言う通り、あきあきのことも放っておくわけにはいかないよね～」"
 translation = "「뭐, 사치사치 말대로 아키아키를 내버려 둘 수는 없지~」"
 
 [[dialogue]]
-speaker = "トレジアンナ"
+speaker_original = "トレジアンナ"
+speaker_translation = "트레지안나"
 original = "「１人だけ、ちょっと必死すぎる感じはしますけどね☆」"
 translation = "「혼자만 좀 너무 필사적인 느낌이 들긴 하지만요☆」"
 
 [[dialogue]]
-speaker = "ここあ"
+speaker_original = "ここあ"
+speaker_translation = "코코아"
 original = "「あきあきを取り返さなきゃいけない以上、ここあたちもいつまでも遊んでるわけにはいかないけどね～」"
 translation = "「아키아키를 되찾아야 하는 이상 코코아네도 언제까지고 놀고 있을 수는 없으니까 말이야~」"
 
 [[dialogue]]
-speaker = "ここあ"
+speaker_original = "ここあ"
+speaker_translation = "코코아"
 original = "「でも、アンナちんの口ぶりからすると、何とかする算段はもうついちゃった感じ？」"
 translation = "「근데 안나칭 말투로 봐서는 어떻게든 할 방도는 이미 다 세워둔 느낌?」"
 
 [[dialogue]]
-speaker = "トレジアンナ"
+speaker_original = "トレジアンナ"
+speaker_translation = "트레지안나"
 original = "「ふっふっふっ。もちろん、任せてください♪」"
 translation = "「훗훗훗. 물론이죠, 맡겨주세요♪」"
 
 [[dialogue]]
-speaker = "トレジアンナ"
+speaker_original = "トレジアンナ"
+speaker_translation = "트레지안나"
 original = "「この先代魔法少女にして、サチさんのお助け妖精ポジションの私が、すべて丸っとハッピーエンドな劇場版にしてみせますよ！」"
 translation = "「이 선대 마법소녀이자 사치 씨의 도우미 요정 포지션인 제가, 모든 걸 통째로 해피 엔딩인 극장판으로 만들어 보이겠습니다!」"
 
 [[dialogue]]
-speaker = "トレジアンナ"
+speaker_original = "トレジアンナ"
+speaker_translation = "트레지안나"
 original = "「その方法はこれから考えますが☆」"
 translation = "「그 방법은 이제부터 생각하겠지만요☆」"
 
 [[dialogue]]
-speaker = "ここあ"
+speaker_original = "ここあ"
+speaker_translation = "코코아"
 original = "「にゃははは。そんなこと言いつつ、確証がないだけで仮説はもうすっかり立ててそうな気がするな～」"
 translation = "「냐하하하. 그런 소리 하면서 확증이 없을 뿐이지 가설은 이미 잔뜩 세워뒀을 것 같은데~」"
 
 [[dialogue]]
-speaker = "ここあ"
+speaker_original = "ここあ"
+speaker_translation = "코코아"
 original = "「なんにせよ、ここあたちは体を使って戦うことしかできないから、作戦立案はアンナちんにお任せするよ」"
 translation = "「어쨌든 코코아네는 몸 써서 싸우는 것밖에 못 하니까 작전 입안은 안나칭한테 맡길게」"
 
 [[dialogue]]
-speaker = "ここあ"
+speaker_original = "ここあ"
+speaker_translation = "코코아"
 original = "「アンナちんからは果てしない『姉パワー』を感じるから、きっと面倒見がいいって信じられるんだ♪」"
 translation = "「안나칭한테선 끝없는 『언니 파워』가 느껴지니까 분명 잘 챙겨줄 거라고 믿어♪」"
 
 [[dialogue]]
-speaker = "トレジアンナ"
+speaker_original = "トレジアンナ"
+speaker_translation = "트레지안나"
 original = "「ほうほう、『姉パワー』ですかぁ！\u3000それは初めて言われましたが……悪い気はしませんね☆」"
 translation = "「호오호오, 『언니 파워』인가요! 그건 처음 듣는 말이지만…… 기분이 나쁘진 않네요☆」"
 
 [[dialogue]]
-speaker = "ここあ"
+speaker_original = "ここあ"
+speaker_translation = "코코아"
 original = "「おっと、そんな話をしてたら、さっそくあきあきがお出ましみたい」"
 translation = "「오옷, 그런 얘기를 하고 있으니 바로 아키아키가 등장하신 모양이야」"
 
 [[dialogue]]
-speaker = "トレジアンナ"
+speaker_original = "トレジアンナ"
+speaker_translation = "트레지안나"
 original = "「了解です。それじゃあ張り切って、魔法少女オールスターズ、出撃しちゃいましょ～！」"
 translation = "「알겠습니다. 그럼 힘차게 마법소녀 올스타즈, 출격해버리자구요~!」"
 

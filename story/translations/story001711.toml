@@ -1,20 +1,24 @@
 [[dialogue]]
-speaker = "ギガンドム"
+speaker_original = "ギガンドム"
+speaker_translation = "기간돔"
 original = "「────グォォオォォォ！！？？」"
 translation = "「────구오오오오오!!??」"
 
 [[dialogue]]
-speaker = "シュティレ"
+speaker_original = "シュティレ"
+speaker_translation = "슈틸레"
 original = "「目標の沈黙を確認……！」"
 translation = "「목표의 침묵을 확인……!」"
 
 [[dialogue]]
-speaker = "アナ（覚醒）"
+speaker_original = "アナ（覚醒）"
+speaker_translation = "아나(각성)"
 original = "「ふぅぅ……良かった。被害は最小限に食い止められましたね」"
 translation = "「후우…… 다행이다. 피해는 최소한으로 막았네요.」"
 
 [[dialogue]]
-speaker = "アニマ（覚醒）"
+speaker_original = "アニマ（覚醒）"
+speaker_translation = "아니마(각성)"
 original = "「会長、他の戦場の様子はどうなんダ？」"
 translation = "「회장, 다른 전장의 상황은 어떻다타?」"
 
@@ -29,62 +33,74 @@ original = "俺たちが最後だったみたいです"
 translation = "우리들이 마지막이었던 모양이에요."
 
 [[dialogue]]
-speaker = "シュティレ"
+speaker_original = "シュティレ"
+speaker_translation = "슈틸레"
 original = "「よかった。本当に、どうなることかと思いました……」"
 translation = "「다행이에요. 정말 어떻게 되는 줄 알았어요……」"
 
 [[dialogue]]
-speaker = "アナ（覚醒）"
+speaker_original = "アナ（覚醒）"
+speaker_translation = "아나(각성)"
 original = "「今回の機械型モンスター襲撃は相当苛烈な戦いでしたが、おかげでノヴァフォーム星騎士も２人、増えましたね」"
 translation = "「이번 기계형 몬스터 습격은 상당히 가혹한 전투였지만, 덕분에 노바 폼 성기사도 두 명 늘었네요.」"
 
 [[dialogue]]
-speaker = "アニマ（覚醒）"
+speaker_original = "アニマ（覚醒）"
+speaker_translation = "아니마(각성)"
 original = "「戦う前よりも得るモノが増えたナ。フヒ、ハッピーエンドというやつは気分がいイ！」"
 translation = "「싸우기 전보다 얻은 게 많아졌다타. 후히, 해피 엔딩이라는 건 기분이 좋다타!」"
 
 [[dialogue]]
-speaker = "シュティレ"
+speaker_original = "シュティレ"
+speaker_translation = "슈틸레"
 original = "「はい。お２人はノヴァフォームを、シュティレはマスターの弟子のポジションをゲット。ぶい」"
 translation = "「네. 두 분은 노바 폼을, 슈틸레는 마스터의 제자 포지션을 겟. 브이.」"
 
 [[dialogue]]
-speaker = "アニマ（覚醒）"
+speaker_original = "アニマ（覚醒）"
+speaker_translation = "아니마(각성)"
 original = "「あァ……そうだったナ。シュティレ、キミを正式に弟子と認めよウ。アニマの授業は厳しいが、ちゃんと付いてきたまえヨ？」"
 translation = "「아아…… 그랬지다타. 슈틸레, 너를 정식 제자로 인정하겠다타. 아니마의 수업은 엄격하지만 잘 따라오라다타?」"
 
 [[dialogue]]
-speaker = "シュティレ"
+speaker_original = "シュティレ"
+speaker_translation = "슈틸레"
 original = "「──っ！？\u3000驚きました、ちゃっかり弟子という既成事実を作るつもりだったのに……まさか本当に、認めていただけたということでしょうか？」"
 translation = "「──윽!? 놀랐어요, 은근슬쩍 제자라는 기정사실을 만들 생각이었는데…… 설마 정말로 인정해 주실 줄이야……?」"
 
 [[dialogue]]
-speaker = "アニマ（覚醒）"
+speaker_original = "アニマ（覚醒）"
+speaker_translation = "아니마(각성)"
 original = "「フヒ！\u3000面白いやつだよキミ。いいじゃないカ、錬金術を用いた巨大ロボット！」"
 translation = "「후히! 재미있는 녀석이다타, 너. 좋지 않나다타, 연금술을 이용한 거대 로봇!」"
 
 [[dialogue]]
-speaker = "シュティレ"
+speaker_original = "シュティレ"
+speaker_translation = "슈틸레"
 original = "「あれ、どうしてその会話を……？」"
 translation = "「어라, 어떻게 그 대화를……?」"
 
 [[dialogue]]
-speaker = "アニマ（覚醒）"
+speaker_original = "アニマ（覚醒）"
+speaker_translation = "아니마(각성)"
 original = "「その狂気なる野望のために、アニマからとことん知識と技術を奪うがいイ！」"
 translation = "「그 광기 어린 야망을 위해 아니마에게서 지식과 기술을 마음껏 빼앗아가라다타!」"
 
 [[dialogue]]
-speaker = "アニマ（覚醒）"
+speaker_original = "アニマ（覚醒）"
+speaker_translation = "아니마(각성)"
 original = "「陸海空から宇宙まで活動できて、腕が無限に伸びル！\u3000そして一兆度のウルトラビームを無限発射が可能なロボット！\u3000必ず作って見せロ、シュティレ！！」"
 translation = "「육해공에서 우주까지 활동할 수 있고 팔이 무한히 늘어난다타! 그리고 1조 도의 울트라 빔을 무한 발사할 수 있는 로봇! 반드시 만들어 봐라다타, 슈틸레!!」"
 
 [[dialogue]]
-speaker = "シュティレ"
+speaker_original = "シュティレ"
+speaker_translation = "슈틸레"
 original = "「──はい。マスター！！」"
 translation = "「──네. 마스터!!」"
 
 [[dialogue]]
-speaker = "アナ（覚醒）"
+speaker_original = "アナ（覚醒）"
+speaker_translation = "아나(각성)"
 original = "「……一件落着ですね。会長、今回も本当にありがとうございました」"
 translation = "「……사건 해결이네요. 회장, 이번에도 정말 감사했습니다.」"
 
@@ -99,22 +115,26 @@ original = "俺は何もしてないよ"
 translation = "난 아무것도 한 게 없어."
 
 [[dialogue]]
-speaker = "アナ（覚醒）"
+speaker_original = "アナ（覚醒）"
+speaker_translation = "아나(각성)"
 original = "「まさか。私たちがノヴァフォームを手に入れるまで、ずっと戦ってくれていたじゃないですか」"
 translation = "「설마요. 저희가 노바 폼을 손에 넣을 때까지 계속 싸워주셨잖아요.」"
 
 [[dialogue]]
-speaker = "アニマ（覚醒）"
+speaker_original = "アニマ（覚醒）"
+speaker_translation = "아니마(각성)"
 original = "「そうだゾ、キミ。アニマを庇ってず～っとギガンドムにどつかれテ。顔中がはれ上がって、せっかくの男前が台無しダ♪」"
 translation = "「그렇다타, 너. 아니마를 감싸고 계~속 기간돔한테 얻어맞고다타. 얼굴이 퉁퉁 부어서 모처럼의 미남이 엉망이다타♪」"
 
 [[dialogue]]
-speaker = "シュティレ"
+speaker_original = "シュティレ"
+speaker_translation = "슈틸레"
 original = "「ボコボコにはれ上がったお顔は男の勲章。それもまたロマンです。ぶい」"
 translation = "「퉁퉁 부어오른 얼굴은 남자의 훈장. 그것 또한 로망입니다. 브이.」"
 
 [[dialogue]]
-speaker = "アニマ（覚醒）"
+speaker_original = "アニマ（覚醒）"
+speaker_translation = "아니마(각성)"
 original = "「学園に帰ったら、アニマ特製スペシャルドリンクをダースでくれてやるゾ！」"
 translation = "「학원에 돌아가면 아니마 특제 스페셜 드링크를 한 박스 주겠다타!」"
 
@@ -124,47 +144,56 @@ original = "……保健室に行くので大丈夫です"
 translation = "……보건실에 갈 거니까 괜찮아요."
 
 [[dialogue]]
-speaker = "アニマ（覚醒）"
+speaker_original = "アニマ（覚醒）"
+speaker_translation = "아니마(각성)"
 original = "「遠慮するナ、フヒヒヒ！」"
 translation = "「사양하지 마라다타, 후히히히!」"
 
 [[dialogue]]
-speaker = "シュティレ"
+speaker_original = "シュティレ"
+speaker_translation = "슈틸레"
 original = "「……あの、学園に帰る前に、１つワガママよろしいでしょうか。私、勝利を記念して皆さんと記念撮影がしたいです」"
 translation = "「……저기, 학원에 돌아가기 전에 한 가지 고집을 부려도 될까요. 저, 승리를 기념해서 여러분과 기념 촬영을 하고 싶어요.」"
 
 [[dialogue]]
-speaker = "アナ（覚醒）"
+speaker_original = "アナ（覚醒）"
+speaker_translation = "아나(각성)"
 original = "「シュティレさんの趣味の自撮りですね。お付き合いしましょう」"
 translation = "「슈틸레 씨의 취미인 셀카네요. 같이 찍죠.」"
 
 [[dialogue]]
-speaker = "アニマ（覚醒）"
+speaker_original = "アニマ（覚醒）"
+speaker_translation = "아니마(각성)"
 original = "「……うむ。可愛い弟子の頼みダ、１枚だけだゾ？」"
 translation = "「……음. 귀여운 제자의 부탁이다타, 딱 한 장뿐이다타?」"
 
 [[dialogue]]
-speaker = "シュティレ"
+speaker_original = "シュティレ"
+speaker_translation = "슈틸레"
 original = "「はい！\u3000ぁ……でも私のＤＩＳＣ、壊されちゃったんでした……不覚」"
 translation = "「네! 아…… 하지만 제 DISC, 부서져 버렸었죠…… 불찰.」"
 
 [[dialogue]]
-speaker = "アニマ（覚醒）"
+speaker_original = "アニマ（覚醒）"
+speaker_translation = "아니마(각성)"
 original = "「アニマのを使えばいイ。後で送ってやるサ──さぁ、並べ並べ」"
 translation = "「아니마 걸 쓰면 된다타. 나중에 보내주마타── 자, 줄 서라 줄 서.」"
 
 [[dialogue]]
-speaker = "シュティレ"
+speaker_original = "シュティレ"
+speaker_translation = "슈틸레"
 original = "「タイマー起動します。ポーズはいつものアレで」"
 translation = "「타이머 기동합니다. 포즈는 평소의 그걸로.」"
 
 [[dialogue]]
-speaker = "アナ（覚醒）"
+speaker_original = "アナ（覚醒）"
+speaker_translation = "아나(각성)"
 original = "「３、２、１──」"
 translation = "「3, 2, 1──」"
 
 [[dialogue]]
-speaker = "アニマ（覚醒）"
+speaker_original = "アニマ（覚醒）"
+speaker_translation = "아니마(각성)"
 original = "「フヒヒ♪\u3000勝利のポーズ──ぶい、だナ！」"
 translation = "「후히히♪ 승리의 포즈── 브이다타!」"
 

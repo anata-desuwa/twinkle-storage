@@ -1,305 +1,366 @@
 [[dialogue]]
-speaker = "セドナ"
+speaker_original = "セドナ"
+speaker_translation = "세드나"
 original = "「…………」"
 translation = "「…………」"
 
 [[dialogue]]
-speaker = "リノ"
+speaker_original = "リノ"
+speaker_translation = "리노"
 original = "「こんなところで何してるのよ」"
 translation = "「이런 데서 뭐 하는 거야.」"
 
 [[dialogue]]
-speaker = "セドナ"
+speaker_original = "セドナ"
+speaker_translation = "세드나"
 original = "「……リノか」"
 translation = "「……리노인가.」"
 
 [[dialogue]]
-speaker = "セドナ"
+speaker_original = "セドナ"
+speaker_translation = "세드나"
 original = "「どこにでも現れるやつだが、こんな所に何をしにきた」"
 translation = "「어디든 나타나는 녀석이다만, 이런 데는 왜 온 거냐.」"
 
 [[dialogue]]
-speaker = "リノ"
+speaker_original = "リノ"
+speaker_translation = "리노"
 original = "「親友の顔を見に来ただけよ」"
 translation = "「친구 얼굴 보러 왔을 뿐이야.」"
 
 [[dialogue]]
-speaker = "セドナ"
+speaker_original = "セドナ"
+speaker_translation = "세드나"
 original = "「誰が親友だ、裏切者が」"
 translation = "「누가 친구냐, 배신자 녀석.」"
 
 [[dialogue]]
-speaker = "リノ"
+speaker_original = "リノ"
+speaker_translation = "리노"
 original = "「酷いわね～。私たちのわだかまりは溶けたんじゃないの？」"
 translation = "「너무하네~. 우리 앙금은 다 풀린 거 아니었어?」"
 
 [[dialogue]]
-speaker = "セドナ"
+speaker_original = "セドナ"
+speaker_translation = "세드나"
 original = "「何を甘いことを言っている」"
 translation = "「무슨 무른 소릴 하는 거냐.」"
 
 [[dialogue]]
-speaker = "セドナ"
+speaker_original = "セドナ"
+speaker_translation = "세드나"
 original = "「ネビュラを裏切り組織を抜け、魔王の身体を連れ去り、グレートウォール計画を中止させた」"
 translation = "「네뷸라를 배신하고 조직을 나가 마왕의 몸을 데리고 사라져 그레이트 월 계획을 중지시켰다.」"
 
 [[dialogue]]
-speaker = "セドナ"
+speaker_original = "セドナ"
+speaker_translation = "세드나"
 original = "「それだけの事をやらかしておいて、リクリエの脅威が去ったから許される、などと思うな……お前は永久に指名手配犯だ」"
 translation = "「그만한 짓을 저질러 놓고 리크리에의 위협이 사라졌으니 용서받을 수 있다고 생각하지 마라…… 너는 영구히 지명수배범이다.」"
 
 [[dialogue]]
-speaker = "リノ"
+speaker_original = "リノ"
+speaker_translation = "리노"
 original = "「やだ～、私捕まって酷いことされちゃうのね♪」"
 translation = "「어머~, 나 잡혀서 지독한 꼴을 당하는 거구나♪」"
 
 [[dialogue]]
-speaker = "セドナ"
+speaker_original = "セドナ"
+speaker_translation = "세드나"
 original = "「はぁ……」"
 translation = "「하아……」"
 
 [[dialogue]]
-speaker = "リノ"
+speaker_original = "リノ"
+speaker_translation = "리노"
 original = "「……元気、無いわね」"
 translation = "「……기운이 없네.」"
 
 [[dialogue]]
-speaker = "セドナ"
+speaker_original = "セドナ"
+speaker_translation = "세드나"
 original = "「お前のことだ。全部察しはついているんだろう？」"
 translation = "「너라면 전부 짐작하고 있겠지?」"
 
 [[dialogue]]
-speaker = "リノ"
+speaker_original = "リノ"
+speaker_translation = "리노"
 original = "「ん～……リーリアちゃんのこと？」"
 translation = "「음~…… 리리아짱 이야기?」"
 
 [[dialogue]]
-speaker = "セドナ"
+speaker_original = "セドナ"
+speaker_translation = "세드나"
 original = "「…………」"
 translation = "「…………」"
 
 [[dialogue]]
-speaker = "セドナ"
+speaker_original = "セドナ"
+speaker_translation = "세드나"
 original = "「彼女とどのように接すればいいのか……指針を決めかねている」"
 translation = "「그녀를 어떻게 대해야 할지…… 지침을 정하지 못하고 있다.」"
 
 [[dialogue]]
-speaker = "リノ"
+speaker_original = "リノ"
+speaker_translation = "리노"
 original = "「私でよければ話を聞くけど？」"
 translation = "「나라도 괜찮다면 이야기 들어줄까?」"
 
 [[dialogue]]
-speaker = "セドナ"
+speaker_original = "セドナ"
+speaker_translation = "세드나"
 original = "「お前に話しても何の解決にもならん。お前はネビュラではないのだから」"
 translation = "「네게 말해봤자 아무런 해결도 되지 않는다. 너는 네뷸라가 아니니까.」"
 
 [[dialogue]]
-speaker = "リノ"
+speaker_original = "リノ"
+speaker_translation = "리노"
 original = "「誰も解決に協力するなんて言ってないわよ」"
 translation = "「아무도 해결을 도와준다고는 안 했어.」"
 
 [[dialogue]]
-speaker = "リノ"
+speaker_original = "リノ"
+speaker_translation = "리노"
 original = "「ただ聞いてあげるだけ。それだけでも少しは気持ちが楽になると思うんだけどな～」"
 translation = "「그냥 들어만 주겠다는 거야. 그것만으로도 조금은 마음이 편해질 거라고 생각하는데 말이지~」"
 
 [[dialogue]]
-speaker = "セドナ"
+speaker_original = "セドナ"
+speaker_translation = "세드나"
 original = "「…………」"
 translation = "「…………」"
 
 [[dialogue]]
-speaker = "リノ"
+speaker_original = "リノ"
+speaker_translation = "리노"
 original = "「むしろ組織外の私だからこそ、部下には話せないことでも話せたりしないかしら？」"
 translation = "「오히려 조직 밖의 나니까 부하에게는 말할 수 없는 것도 말할 수 있지 않을까?」"
 
 [[dialogue]]
-speaker = "セドナ"
+speaker_original = "セドナ"
+speaker_translation = "세드나"
 original = "「…………はぁ～～～～～～。いいか？\u3000ここで話すことは他言無用だ」"
 translation = "「…………하아~~~~~~. 알겠나? 여기서 하는 말은 발설 금지다.」"
 
 [[dialogue]]
-speaker = "リノ"
+speaker_original = "リノ"
+speaker_translation = "리노"
 original = "「もちろんよ♪」"
 translation = "「물론이지♪」"
 
 [[dialogue]]
-speaker = "セドナ"
+speaker_original = "セドナ"
+speaker_translation = "세드나"
 original = "「……グレートウォール計画の一端で、私はリーリアに『学園に潜入し、その動向を探る』という任務を与えた」"
 translation = "「……그레이트 월 계획의 일환으로 나는 리리아에게 『학원에 잠입하여 그 동향을 살핀다』는 임무를 주었다.」"
 
 [[dialogue]]
-speaker = "セドナ"
+speaker_original = "セドナ"
+speaker_translation = "세드나"
 original = "「だが……初めからそういう考えだったのか、あるいは任務の遂行中にそのような考えを持つようになったのか」"
 translation = "「하지만…… 처음부터 그런 생각이었던 건지, 아니면 임무 수행 중에 그런 생각을 갖게 된 건지.」"
 
 [[dialogue]]
-speaker = "セドナ"
+speaker_original = "セドナ"
+speaker_translation = "세드나"
 original = "「リーリアは組織の方針に対して、不満の色を見せるようになってきた」"
 translation = "「리리아는 조직의 방침에 대해 불만의 기색을 보이기 시작했다.」"
 
 [[dialogue]]
-speaker = "セドナ"
+speaker_original = "セドナ"
+speaker_translation = "세드나"
 original = "「スパイとして潜入しているうちに、思想が感化されてしまう……ありえない話ではない」"
 translation = "「스파이로서 잠입해 있는 동안 사상이 감화되어 버린다…… 불가능한 이야기는 아니지.」"
 
 [[dialogue]]
-speaker = "セドナ"
+speaker_original = "セドナ"
+speaker_translation = "세드나"
 original = "「ある時、彼女はこう言った――学園とネビュラが協力関係を結べば、小を切り捨てずとも、世界を救えるんじゃないか──と」"
 translation = "「어느 날 그녀는 이렇게 말했다――학원과 네뷸라가 협력 관계를 맺으면 소수를 저버리지 않고도 세계를 구할 수 있지 않겠느냐고.」"
 
 [[dialogue]]
-speaker = "セドナ"
+speaker_original = "セドナ"
+speaker_translation = "세드나"
 original = "「私は叱責した。頭を冷やせ、とな」"
 translation = "「나는 질책했다. 머리를 식히라고 말이지.」"
 
 [[dialogue]]
-speaker = "セドナ"
+speaker_original = "セドナ"
+speaker_translation = "세드나"
 original = "「リクリエの脅威は、本来その程度の小さな協力関係で防ぎ得るほど甘いものではない」"
 translation = "「리크리에의 위협은 본래 그 정도의 사소한 협력 관계로 막아낼 수 있을 만큼 만만한 것이 아니다.」"
 
 [[dialogue]]
-speaker = "セドナ"
+speaker_original = "セドナ"
+speaker_translation = "세드나"
 original = "「３０００年の時をかけて綿密に練り上げられたグレートウォール計画の遂行こそが、世界の滅亡から逃れる最も高い可能性なのだ」"
 translation = "「3000년의 시간을 들여 면밀히 짜인 그레이트 월 계획의 수행이야말로 세계의 멸망으로부터 벗어날 수 있는 가장 높은 가능성이었다.」"
 
 [[dialogue]]
-speaker = "セドナ"
+speaker_original = "セドナ"
+speaker_translation = "세드나"
 original = "「リノ、お前や学園の連中は別の手段を選んだ」"
 translation = "「리노, 너나 학원 녀석들은 다른 수단을 선택했지.」"
 
 [[dialogue]]
-speaker = "リノ"
+speaker_original = "リノ"
+speaker_translation = "리노"
 original = "「そうね……小さな希望だったけれど、みんなが生き残る可能性に賭けて」"
 translation = "「그렇지…… 작은 희망이었지만 모두가 살아남을 가능성에 걸었어.」"
 
 [[dialogue]]
-speaker = "セドナ"
+speaker_original = "セドナ"
+speaker_translation = "세드나"
 original = "「それは誤った考えだ。結果論としてすべてが救われた今もなお、この結論は私の中で揺らいでいない」"
 translation = "「그건 잘못된 생각이다. 결과론적으로 모든 것이 구원받은 지금조차 이 결론은 내 안에서 흔들리지 않는다.」"
 
 [[dialogue]]
-speaker = "セドナ"
+speaker_original = "セドナ"
+speaker_translation = "세드나"
 original = "「最終的に勝てたとはいえ、あの局面は何もかもが制御不能だった。……リクリエとの戦いが、博打であってはならないのだ」"
 translation = "「최종적으로 이겼다고는 하나 그 국면은 모든 것이 통제 불능이었다. ……리크리에와의 싸움이 도박이어야 해서는 안 된다.」"
 
 [[dialogue]]
-speaker = "リノ"
+speaker_original = "リノ"
+speaker_translation = "리노"
 original = "「結果論に終始しないあなたの姿勢は立派だけど、勝ったのだから結果オーライにはできないかしら？」"
 translation = "「결과론에 휘둘리지 않는 네 자세는 훌륭하지만 이겼으니까 좋게 좋게 넘어갈 수는 없을까?」"
 
 [[dialogue]]
-speaker = "セドナ"
+speaker_original = "セドナ"
+speaker_translation = "세드나"
 original = "「……リノ。私が問題視しているのは過去ではない。これから来る未来の話だ」"
 translation = "「……리노. 내가 문제 삼고 있는 건 과거가 아니다. 앞으로 올 미래의 이야기다.」"
 
 [[dialogue]]
-speaker = "セドナ"
+speaker_original = "セドナ"
+speaker_translation = "세드나"
 original = "「未だアステラの発生は収まらず、正体不明のモンスターも現れている」"
 translation = "「아직 아스텔라의 발생은 멈추지 않았고 정체불명의 몬스터도 나타나고 있다.」"
 
 [[dialogue]]
-speaker = "セドナ"
+speaker_original = "セドナ"
+speaker_translation = "세드나"
 original = "「世界の危機は去っていない……いずれまた非情に徹しなければならない場面も訪れるだろうと私は睨んでいる」"
 translation = "「세계의 위기는 떠나지 않았다…… 머지않아 다시 비정해져야만 하는 상황도 찾아올 것이라고 나는 노려보고 있다.」"
 
 [[dialogue]]
-speaker = "セドナ"
+speaker_original = "セドナ"
+speaker_translation = "세드나"
 original = "「そんな時、リーリアは非情になりきれるのか……」"
 translation = "「그럴 때 리리아는 비정해질 수 있을 것인가……」"
 
 [[dialogue]]
-speaker = "セドナ"
+speaker_original = "セドナ"
+speaker_translation = "세드나"
 original = "「今日、星徒会の面々と接している彼女を見て不安に思ったのだ」"
 translation = "「오늘 성도회 사람들과 접하고 있는 그녀를 보며 불안해진 거다.」"
 
 [[dialogue]]
-speaker = "リノ"
+speaker_original = "リノ"
+speaker_translation = "리노"
 original = "「ふぅん……だったら今回も、同じように注意すればいいんじゃないの？」"
 translation = "「흐응…… 그렇다면 이번에도 똑같이 주의를 주면 되는 거 아니야?」"
 
 [[dialogue]]
-speaker = "セドナ"
+speaker_original = "セドナ"
+speaker_translation = "세드나"
 original = "「その通りだ……しかし……」"
 translation = "「맞는 말이다…… 하지만……」"
 
 [[dialogue]]
-speaker = "セドナ"
+speaker_original = "セドナ"
+speaker_translation = "세드나"
 original = "「学園と協調し、連携を取る。その重要性は私も理解しているつもりだ」"
 translation = "「학원과 협조하고 연계를 취한다. 그 중요성은 나도 이해하고 있다.」"
 
 [[dialogue]]
-speaker = "セドナ"
+speaker_original = "セドナ"
+speaker_translation = "세드나"
 original = "「その道を切り開いてくれた彼女の功績がどれほど大きなものか、ということもな」"
 translation = "「그 길을 열어준 그녀의 공적이 얼마나 큰 것인지도 말이다.」"
 
 [[dialogue]]
-speaker = "セドナ"
+speaker_original = "セドナ"
+speaker_translation = "세드나"
 original = "「故に迷っている。私はどうすべきか……と」"
 translation = "「그리하여 고민하고 있다. 나는 어떻게 해야 할 것인가 하고.」"
 
 [[dialogue]]
-speaker = "リノ"
+speaker_original = "リノ"
+speaker_translation = "리노"
 original = "「色々考えてるのね～」"
 translation = "「이것저것 생각하고 있네~」"
 
 [[dialogue]]
-speaker = "セドナ"
+speaker_original = "セドナ"
+speaker_translation = "세드나"
 original = "「当然だろう」"
 translation = "「당연하지 않나.」"
 
 [[dialogue]]
-speaker = "リノ"
+speaker_original = "リノ"
+speaker_translation = "리노"
 original = "「そうね、昔からあなたはそうだったわ」"
 translation = "「그러게, 옛날부터 넌 그랬지.」"
 
 [[dialogue]]
-speaker = "リノ"
+speaker_original = "リノ"
+speaker_translation = "리노"
 original = "「だけどそういう所で不器用なのは相変わらずなのね……ま、知ってたけど」"
 translation = "「하지만 그런 면에서 서툰 건 여전하구나…… 뭐, 알고 있었지만.」"
 
 [[dialogue]]
-speaker = "セドナ"
+speaker_original = "セドナ"
+speaker_translation = "세드나"
 original = "「誰のせいでこんなにも苦労していると思っているんだ」"
 translation = "「누구 때문에 이렇게까지 고생하고 있다고 생각하는 거냐.」"
 
 [[dialogue]]
-speaker = "セドナ"
+speaker_original = "セドナ"
+speaker_translation = "세드나"
 original = "「お前が組織に居てくれれば……そうすればお前の指揮の元、ネビュラはよりまとまっていたのだ」"
 translation = "「네가 조직에 있어 주었다면…… 그랬다면 네 지휘 아래 네뷸라는 더 단합되었을 거다.」"
 
 [[dialogue]]
-speaker = "リノ"
+speaker_original = "リノ"
+speaker_translation = "리노"
 original = "「それは違うと思うわよ」"
 translation = "「그건 아니라고 봐.」"
 
 [[dialogue]]
-speaker = "リノ"
+speaker_original = "リノ"
+speaker_translation = "리노"
 original = "「あなたの努力は、誰もが認めていると思うわ」"
 translation = "「네 노력은 누구나 인정하고 있을 거야.」"
 
 [[dialogue]]
-speaker = "リノ"
+speaker_original = "リノ"
+speaker_translation = "리노"
 original = "「リーリアちゃんともっと話してみたら？\u3000あなたに足りないのは、他人から理解される努力よ」"
 translation = "「리리아짱이랑 더 이야기해 보는 건 어때? 네게 부족한 건 타인에게 이해받으려는 노력이야.」"
 
 [[dialogue]]
-speaker = "セドナ"
+speaker_original = "セドナ"
+speaker_translation = "세드나"
 original = "「耳が痛いな……」"
 translation = "「뼈 아픈 소리로군……」"
 
 [[dialogue]]
-speaker = "セドナ"
+speaker_original = "セドナ"
+speaker_translation = "세드나"
 original = "「だがその通りかもしれない……。そうだな、思い切って話してみるとしよう」"
 translation = "「하지만 그 말대로일지도 모르겠군……. 그래, 용기 내어 이야기해 보도록 하마.」"
 
 [[dialogue]]
-speaker = "リノ"
+speaker_original = "リノ"
+speaker_translation = "리노"
 original = "「それがいいわ。普段と違うこういう環境だからこそ、分かり合えちゃったりするかもしれないわ」"
 translation = "「그게 좋겠어. 평소와 다른 이런 환경이니까 더더욱 서로 이해할 수 있을지도 몰라.」"
 
 [[dialogue]]
-speaker = "セドナ"
+speaker_original = "セドナ"
+speaker_translation = "세드나"
 original = "「ふっ……そこまで楽観的にはなれないがな」"
 translation = "「훗…… 그 정도로 낙관적으로는 되지 못한다만.」"
 

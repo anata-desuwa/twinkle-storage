@@ -19,7 +19,8 @@ original = "お義母さん、娘さんを僕にください！！"
 translation = "장모님, 따님을 제게 주십시오!!"
 
 [[dialogue]]
-speaker = "ヘレナ"
+speaker_original = "ヘレナ"
+speaker_translation = "헬레나"
 original = "「入り婿ということでいいか？」"
 translation = "「데릴사위로 들어오는 걸로 하면 되겠나?」"
 
@@ -29,17 +30,20 @@ original = "返事が軽い……！"
 translation = "대답이 가벼워……!"
 
 [[dialogue]]
-speaker = "ヘレナ"
+speaker_original = "ヘレナ"
+speaker_translation = "헬레나"
 original = "「養子にしたはいいが、ヴィーナスに九浄家当主が務まるとは思っていなかったのでな。渡りに船というやつだ」"
 translation = "「양자로 삼긴 했지만, 비너스에게 쿠죠 가문 당주 자리가 어울릴 거라곤 생각하지 않았거든. 넝쿨째 굴러온 복이라는 놈이다」"
 
 [[dialogue]]
-speaker = "ヘレナ"
+speaker_original = "ヘレナ"
+speaker_translation = "헬레나"
 original = "「そもそも魔王、『ください』も何も、お前の娘だろう。義母でしかない私の許可が必要か？」"
 translation = "「애초에 마왕, 『주십시오』 어쩌고 해도, 네 딸이잖아. 의붓어머니일 뿐인 내 허락이 필요한가?」"
 
 [[dialogue]]
-speaker = "ヘレナ"
+speaker_original = "ヘレナ"
+speaker_translation = "헬레나"
 original = "「ふむ……まあ、確かに。ヴィーナスの『九浄家の娘』という立場はそこまで軽いものではない。その配慮は痛み入る」"
 translation = "「흠…… 뭐, 확실히. 비너스의 『쿠죠 가문의 딸』이라는 입장은 그렇게 가벼운 것이 아니지. 그 배려는 고맙게 받으마」"
 
@@ -54,12 +58,14 @@ original = "ただ養子のヴィーナスと入り婿の子供では"
 translation = "단지 양자인 비너스와 데릴사위의 아이로는"
 
 [[dialogue]]
-speaker = "ヘレナ"
+speaker_original = "ヘレナ"
+speaker_translation = "헬레나"
 original = "「それもそうだなぁ……。正直私はまったく気にしないのだが、先祖に申し訳が立たない、という気持ちがないわけではない」"
 translation = "「그것도 그렇군……. 솔직히 나는 전혀 신경 쓰지 않지만, 조상님께 면목이 서지 않는다는 마음이 없는 건 아니다」"
 
 [[dialogue]]
-speaker = "ヘレナ"
+speaker_original = "ヘレナ"
+speaker_translation = "헬레나"
 original = "「そうだ魔王、お前たちの子供と、私の子供を許嫁にしておくのはどうだろうか？」"
 translation = "「그렇지 마왕, 너희들의 아이와, 나의 아이를 정혼자로 정해두는 건 어떻겠나?」"
 
@@ -69,12 +75,14 @@ original = "えっ、それはちょっと気が早いのでは……"
 translation = "에잇, 그건 좀 너무 이른 것 같은데요……"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「ヘレナちゃん、そうは言うけれど、恋人はいるの？」"
 translation = "「헬레나짱, 그렇게 말하지만, 연인은 있어?」"
 
 [[dialogue]]
-speaker = "ヘレナ"
+speaker_original = "ヘレナ"
+speaker_translation = "헬레나"
 original = "「はっはっはっ。居たこともないぞ！」"
 translation = "「하하하. 있었던 적도 없다!」"
 
@@ -84,22 +92,26 @@ original = "ええええっ！？"
 translation = "에에에에엣!?"
 
 [[dialogue]]
-speaker = "ヘレナ"
+speaker_original = "ヘレナ"
+speaker_translation = "헬레나"
 original = "「なに、旧家名家というのは結婚して子供を作ることも大事な仕事なのだ。それに、自慢ではないが、私は結構モテるのだぞ？」"
 translation = "「이봐, 구가 명문이라는 건 결혼해서 아이를 만드는 것도 중요한 일이다. 게다가, 자랑은 아니지만, 나는 꽤 인기가 많다고?」"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「うーーん。でも、ヘレナちゃんをどこの馬の骨ともわからないやつに任せるのは嫌よ、私」"
 translation = "「으으음. 하지만, 헬레나짱을 어디서 굴러먹던 뼈다귀인지도 모르는 놈에게 맡기는 건 싫어, 나」"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「…………」"
 translation = "「…………」"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「そうだ！\u3000私たちの子供じゃなくて、ヘレナちゃんとクロトの子供を次期当主にすればいいんだわ！」"
 translation = "「맞다! 우리 아이가 아니라, 헬레나짱과 쿠로토의 아이를 차기 당주로 삼으면 되는 거야!」"
 
@@ -109,7 +121,8 @@ original = "！？！？！？！？！？"
 translation = "!?!?!?!?!?!?!"
 
 [[dialogue]]
-speaker = "ヘレナ"
+speaker_original = "ヘレナ"
+speaker_translation = "헬레나"
 original = "「おや、いいのか？\u3000ヴィーナス。私としても、魔王が相手であれば申し分ないが」"
 translation = "「오호, 괜찮겠나? 비너스. 나로서도, 마왕이 상대라면 부족할 게 없다만」"
 
@@ -119,7 +132,8 @@ original = "ヘレナちゃんも普通に乗ってこない！"
 translation = "헬레나짱도 아무렇지 않게 받아들이지 마!"
 
 [[dialogue]]
-speaker = "ヘレナ"
+speaker_original = "ヘレナ"
+speaker_translation = "헬레나"
 original = "「自分の父親兼恋人を、自分の義理の母親の種馬に推薦する娘、と考えると中々狂気ではあるな？」"
 translation = "「자신의 아버지 겸 연인을, 자신의 의붓어머니의 씨수말로 추천하는 딸이라니, 생각해보면 꽤나 광기군?」"
 
@@ -129,27 +143,32 @@ original = "言い方ぁ！！"
 translation = "말버릇하고는!!"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「でも、将来ここに私の子供とヘレナちゃんの子供がいて、みんなで九浄家を盛り立てていければ、きっと幸せだと思うの！」"
 translation = "「하지만, 나중에 여기에 내 아이와 헬레나짱의 아이가 있어서, 다 같이 쿠죠 가문을 이끌어 나갈 수 있다면, 분명 행복할 거라고 생각해!」"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「私は私のことをちゃんと愛してくれれば、クロトが他の女の子も愛してても気にならないわよ？」"
 translation = "「나는 나를 제대로 사랑해준다면, 쿠로토가 다른 여자아이도 사랑해도 신경 쓰이지 않아!」"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「むしろ最強の魔王なら、それくらいの甲斐性はあってしかるべきなんじゃないかしら！」"
 translation = "「오히려 최강의 마왕이라면, 그 정도의 수완은 당연히 있어야 하는 거 아닐까!」"
 
 [[dialogue]]
-speaker = "ヘレナ"
+speaker_original = "ヘレナ"
+speaker_translation = "헬레나"
 original = "「なるほど、一理ある。それならば、近場の土地を買い取って、魔王のためのハーレムでも作ってみるか」"
 translation = "「과연, 일리가 있군. 그렇다면 근처의 땅을 사들여서, 마왕을 위한 하렘이라도 만들어 볼까」"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「何それ、面白そう！\u3000クロトのことを好きな女の子を集めて、みんなで暮らすのね！？」"
 translation = "「뭐야 그거, 재밌겠다! 쿠로토를 좋아하는 여자아이들을 모아서, 다 같이 사는 거네!?」"
 
@@ -159,62 +178,74 @@ original = "待って待って、話が大きくなってる！！"
 translation = "잠깐잠깐, 이야기가 커지고 있어!!"
 
 [[dialogue]]
-speaker = "ヘレナ"
+speaker_original = "ヘレナ"
+speaker_translation = "헬레나"
 original = "「ヴィーナスのことが好きな俺の気持ちも尊重してくれ……だと？\u3000ほほぅ、中々にラブラブだなぁ」"
 translation = "「비너스를 좋아하는 내 마음도 존중해달라…… 고? 호오, 꽤나 뜨겁구먼」"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「や、やるわね、クロト……っ。ヘレナちゃんの前でそんな恥ずかしいことを叫ぶなんて、流石の私もちょっとドキっとしちゃったわ！」"
 translation = "「제, 제법이네, 쿠로토……. 헬레나짱 앞에서 그런 부끄러운 말을 외치다니, 역시 나도 좀 두근거려 버렸어!」"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「とはいえ、クロトがヘレナちゃんを孕ませるのが、九浄家のお家問題を解決する一番の解決策であることには変わりないのよね……」"
 translation = "「그렇다고 해도, 쿠로토가 헬레나짱을 임신시키는 게, 쿠죠 가문의 집안 문제를 해결하는 가장 좋은 해결책인 건 변함없단 말이지……」"
 
 [[dialogue]]
-speaker = "ヘレナ"
+speaker_original = "ヘレナ"
+speaker_translation = "헬레나"
 original = "「王を名乗るのなら、その血統を後世に残すのも大事な仕事だぞ、魔王？」"
 translation = "「왕을 자처한다면, 그 혈통을 후세에 남기는 것도 중요한 일이다, 마왕?」"
 
 [[dialogue]]
-speaker = "ヘレナ"
+speaker_original = "ヘレナ"
+speaker_translation = "헬레나"
 original = "「なに？\u3000魔王は人から受け継いだ能力のことで、王を名乗る気はないだと……？」"
 translation = "「뭐? 마왕은 남에게 물려받은 능력일 뿐이고, 왕을 자처할 생각은 없다니……?」"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「なーに肝っ玉の小さいこと言ってるの！」"
 translation = "「무슨 소심한 소리를 하는 거야!」"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「ヘレナちゃんだけじゃなく、クロトのことを好きって思ってる女の子はたくさんいるんだから、ハーレムの１つや２つ、作っちゃいなさいよ！」"
 translation = "「헬레나짱뿐만 아니라, 쿠로토를 좋아한다고 생각하는 여자아이들은 잔뜩 있으니까, 하렘 한두 개쯤은 만들어 버리라고!」"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「クロトだって、可愛いとか好きって気持ちが、私以外にまったく沸かないわけじゃないでしょう！？」"
 translation = "「쿠로토도, 귀엽다거나 좋아한다는 마음이, 나 말고 전혀 생기지 않는 건 아니잖아!?」"
 
 [[dialogue]]
-speaker = "ヘレナ"
+speaker_original = "ヘレナ"
+speaker_translation = "헬레나"
 original = "「絶対にヴィーナスが１番だって気持ちは揺るがないから、他の女の子に申し訳が立たない……？」"
 translation = "「절대로 비너스가 1순위라는 마음은 흔들리지 않으니까, 다른 여자아이들에게 면목이 없다……?」"
 
 [[dialogue]]
-speaker = "ヘレナ"
+speaker_original = "ヘレナ"
+speaker_translation = "헬레나"
 original = "「ほほぉ、これは中々の愛妻家ではないか。かえって私の気持ちの方が盛り上がってきたぞ<emoji=heart04>」"
 translation = "「허허, 이거 제법 애처가가 아닌가. 오히려 내 마음 쪽이 더 달아오르는걸<emoji=heart04>」"
 
 [[dialogue]]
-speaker = "ヘレナ"
+speaker_original = "ヘレナ"
+speaker_translation = "헬레나"
 original = "「もちろん正妻はヴィーナスで構わないが、これだけ愛してもらえるなら、２番目以下でもまったく構わないぞ♪」"
 translation = "「물론 정실은 비너스여도 상관없지만, 이 정도로 사랑받을 수 있다면, 2순위 이하여도 전혀 상관없다♪」"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「そうなったら、やっぱりハーレムは必要よね！\u3000ヘレナちゃん、どこか良さそうな土地はあったかしら？」"
 translation = "「그렇게 되면, 역시 하렘은 필요하겠네! 헬레나짱, 어디 괜찮아 보이는 땅은 있었어?」"
 

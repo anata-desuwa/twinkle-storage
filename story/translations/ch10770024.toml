@@ -4,7 +4,8 @@ original = "第４話,蘭美の深刻なお悩み,P"
 translation = "제4화, 라비의 심각한 고민, P"
 
 [[dialogue]]
-speaker = "蘭美"
+speaker_original = "蘭美"
+speaker_translation = "라미"
 original = "「由々しき事態だわ……」"
 translation = "「심각한 사태야……」"
 
@@ -24,47 +25,56 @@ original = "由々しき事態って？"
 translation = "심각한 사태라니?"
 
 [[dialogue]]
-speaker = "蘭美"
+speaker_original = "蘭美"
+speaker_translation = "라미"
 original = "「最近、ほら……色々とタイミングが悪かったでしょう？」"
 translation = "「최근에, 있잖아……여러 가지로 타이밍이 안 좋았잖아?」"
 
 [[dialogue]]
-speaker = "蘭美"
+speaker_original = "蘭美"
+speaker_translation = "라미"
 original = "「毎日のように出かけていたデートも３日に１度のペースになってしまったし、日によっては全く会えないなんてこともあったわ」"
 translation = "「매일같이 나갔던 데이트도 3일에 한 번꼴이 되어버렸고, 어떤 날은 전혀 만날 수 없다는 일도 있었어」"
 
 [[dialogue]]
-speaker = "蘭美"
+speaker_original = "蘭美"
+speaker_translation = "라미"
 original = "「それで久しぶりに会う約束をした日には、<b>ちょっとした手違い</b>でミスをしてしまう……なんてこともあったわね」"
 translation = "「그래서 오랜만에 만날 약속을 한 날에는, <ruby>사소한 실수<rt>・・・ ・・</rt></ruby>로 실수를 해버리는……같은 일도 있었지」"
 
 [[dialogue]]
-speaker = "蘭美"
+speaker_original = "蘭美"
+speaker_translation = "라미"
 original = "「誤算だったわね……薬の飲み忘れなんて生まれて初めてのことだったから、まさかあんなことになるとは思わなかったの」"
 translation = "「오산이었어……약을 깜빡하고 안 마신 건 태어나서 처음이었으니까, 설마 그런 일이 생길 줄은 몰랐어」"
 
 [[dialogue]]
-speaker = "蘭美"
+speaker_original = "蘭美"
+speaker_translation = "라미"
 original = "「ええ。今は大丈夫よ、落ち着いてるわ。これも貴方の提案のおかげね」"
 translation = "「응. 지금은 괜찮아, 진정됐어. 이것도 너의 제안 덕분이야」"
 
 [[dialogue]]
-speaker = "蘭美"
+speaker_original = "蘭美"
+speaker_translation = "라미"
 original = "「私は我慢を覚えるために、貴方に会うのを制限しようと提案したわ。けれど貴方は、それと全く逆の提案をしてくれた」"
 translation = "「나는 참을성을 배우기 위해, 너를 만나는 것을 제한하자고 제안했어. 하지만 너는, 그것과 완전히 반대되는 제안을 해줬지」"
 
 [[dialogue]]
-speaker = "蘭美"
+speaker_original = "蘭美"
+speaker_translation = "라미"
 original = "「毎日必ず会おうって。たとえ短い時間になっても必ず会うことにしようって」"
 translation = "「매일 반드시 만나자고. 설령 짧은 시간이 되더라도 반드시 만나기로 하자고」"
 
 [[dialogue]]
-speaker = "蘭美"
+speaker_original = "蘭美"
+speaker_translation = "라미"
 original = "「今日みたいに私がお屋敷を離れられない時は、自分の方から会いに行くって言ってくれて……」"
 translation = "「오늘처럼 내가 저택을 떠날 수 없을 때는, 자기 쪽에서 만나러 가겠다고 말해줘서……」"
 
 [[dialogue]]
-speaker = "蘭美"
+speaker_original = "蘭美"
+speaker_translation = "라미"
 original = "「それを聞いて私、不覚にも胸がキュ～ってなったわ<emoji=heart04>」"
 translation = "「그 말을 듣고 나, 무심코 가슴이 큐~웅 하고 울렸어<emoji=heart04>」"
 
@@ -79,12 +89,14 @@ original = "でも迷惑じゃないかな？"
 translation = "하지만 폐가 되지는 않을까?"
 
 [[dialogue]]
-speaker = "蘭美"
+speaker_original = "蘭美"
+speaker_translation = "라미"
 original = "「問題ないわ。ヘレナ様には許可を頂いているし、お仕事の方ももう終わっているから」"
 translation = "「문제없어. 헬레나 님께는 허락을 받았고, 일도 이미 끝났으니까」"
 
 [[dialogue]]
-speaker = "蘭美"
+speaker_original = "蘭美"
+speaker_translation = "라미"
 original = "「それに、こうして夜に月を見ながら静かに語らうのも……また素敵な時間の過ごし方じゃないかしら？」"
 translation = "「게다가, 이렇게 밤에 달을 보면서 조용히 이야기 나누는 것도……또 멋진 시간을 보내는 방법이 아닐까?」"
 
@@ -99,47 +111,56 @@ original = "ん……？"
 translation = "응……?"
 
 [[dialogue]]
-speaker = "蘭美"
+speaker_original = "蘭美"
+speaker_translation = "라미"
 original = "「だって……貴方がお屋敷に来る頻度が上がったでしょう？」"
 translation = "「왜냐면……네가 저택에 오는 빈도가 늘어났잖아?」"
 
 [[dialogue]]
-speaker = "蘭美"
+speaker_original = "蘭美"
+speaker_translation = "라미"
 original = "「そうしたら私、こんな風に思いっきり甘えてしまうでしょう……？」"
 translation = "「그러면 나, 이렇게 마음껏 응석 부리게 되잖아……?」"
 
 [[dialogue]]
-speaker = "蘭美"
+speaker_original = "蘭美"
+speaker_translation = "라미"
 original = "「その様子を、お屋敷のみんなに見られてしまうのよ……」"
 translation = "「그 모습을, 저택의 모두에게 들켜버리는 거야……」"
 
 [[dialogue]]
-speaker = "蘭美"
+speaker_original = "蘭美"
+speaker_translation = "라미"
 original = "「こんな様子を見られてしまっては、他の者に示しがつかなくなってしまうわ！」"
 translation = "「이런 모습을 들켜버리면, 다른 사람들에게 체면이 서지 않게 돼!」"
 
 [[dialogue]]
-speaker = "蘭美"
+speaker_original = "蘭美"
+speaker_translation = "라미"
 original = "「けれど……だからと言ってイチャイチャしない選択肢はないし……実に由々しき問題なのよ。はぁ……」"
 translation = "「하지만……그렇다고 해서 알콩달콩하지 않을 선택지는 없고……정말로 심각한 문제야. 하아……」"
 
 [[dialogue]]
-speaker = "ヨミ"
+speaker_original = "ヨミ"
+speaker_translation = "요미"
 original = "「ご休憩中に失礼します。メイド長、頼まれていたお掃除が完了しました～」"
 translation = "「휴식 중에 실례합니다. 메이드장, 부탁하셨던 청소가 완료되었습니다~」"
 
 [[dialogue]]
-speaker = "蘭美"
+speaker_original = "蘭美"
+speaker_translation = "라미"
 original = "「あら、お疲れ様。ヨミヨミにお願いしたかったお仕事は全部終わったから、今日はもう休んでもらっていいわ」"
 translation = "「어머, 수고했어. 요미요미에게 부탁하고 싶었던 일은 전부 끝났으니까, 오늘은 이제 쉬어도 돼」"
 
 [[dialogue]]
-speaker = "ヨミ"
+speaker_original = "ヨミ"
+speaker_translation = "요미"
 original = "「はいっ、お疲れ様ですっ！」"
 translation = "「네엣, 수고하셨습니다!」"
 
 [[dialogue]]
-speaker = "ヨミ"
+speaker_original = "ヨミ"
+speaker_translation = "요미"
 original = "「会長、こんばんはです。今日もいらっしゃっていたんですね」"
 translation = "「회장, 안녕하세요. 오늘도 와 계셨군요」"
 
@@ -149,12 +170,14 @@ original = "お邪魔してます"
 translation = "방해하고 있습니다"
 
 [[dialogue]]
-speaker = "ヨミ"
+speaker_original = "ヨミ"
+speaker_translation = "요미"
 original = "「いえいえ、お邪魔だなんてとんでもない！\u3000むしろもっと遊びに来て欲しいくらいです！」"
 translation = "「아뇨 아뇨, 방해라니 당치도 않아요! 오히려 더 놀러 와 주셨으면 할 정도예요!」"
 
 [[dialogue]]
-speaker = "ヨミ"
+speaker_original = "ヨミ"
+speaker_translation = "요미"
 original = "「えっ？\u3000何故って、ええと……会長が遊びに来たら、メイド長のパフォーマンスが上がるから、でしょうか……」"
 translation = "「엣? 왜냐고요, 음……회장께서 놀러 오시면, 메이드장의 퍼포먼스가 올라가기 때문일까요……」"
 
@@ -164,112 +187,134 @@ original = "下がるんじゃなくて、上がるの？"
 translation = "내려가는 게 아니라, 올라간다고?"
 
 [[dialogue]]
-speaker = "ヨミ"
+speaker_original = "ヨミ"
+speaker_translation = "요미"
 original = "「ええ、それはもう爆裂上がります！」"
 translation = "「네, 그건 정말 폭발적으로 올라가요!」"
 
 [[dialogue]]
-speaker = "蘭美"
+speaker_original = "蘭美"
+speaker_translation = "라미"
 original = "「お仕事の後に会長との時間が待っていると考えたら、私のスピードが冴えわたるのも当然だわ！」"
 translation = "「일이 끝난 후에 회장과의 시간이 기다리고 있다고 생각하면, 나의 스피드가 빛을 발하는 것도 당연해!」"
 
 [[dialogue]]
-speaker = "ヨミ"
+speaker_original = "ヨミ"
+speaker_translation = "요미"
 original = "「そうなんですよ。だから遠慮なんてしないで、いつでもメイド長に会いに来てくださいね♪」"
 translation = "「맞아요. 그러니까 사양 같은 거 하지 마시고, 언제든지 메이드장에게 만나러 와 주세요♪」"
 
 [[dialogue]]
-speaker = "蘭美"
+speaker_original = "蘭美"
+speaker_translation = "라미"
 original = "「ただ、さっきも話した通り、会長にメロメロになっているところをみんなに見られてしまうことが問題なのよね……」"
 translation = "「다만, 방금 전에도 이야기했듯이, 회장에게 푹 빠져 있는 모습을 모두에게 들켜버리는 것이 문제인 거지……」"
 
 [[dialogue]]
-speaker = "ヨミ"
+speaker_original = "ヨミ"
+speaker_translation = "요미"
 original = "「えっ？\u3000何が問題なんでしょうか……？」"
 translation = "「엣? 무엇이 문제일까요……?」"
 
 [[dialogue]]
-speaker = "蘭美"
+speaker_original = "蘭美"
+speaker_translation = "라미"
 original = "「だってそんな私の姿を見られてしまったら、メイド長の威厳が薄れてしまうでしょう？」"
 translation = "「왜냐면 그런 나의 모습을 들켜버리면, 메이드장의 위엄이 옅어지잖아?」"
 
 [[dialogue]]
-speaker = "蘭美"
+speaker_original = "蘭美"
+speaker_translation = "라미"
 original = "「みんなの前では厳格なメイド長……私にはそう在り続けなければならない義務があるのよ」"
 translation = "「모두 앞에서는 엄격한 메이드장……나에게는 그렇게 계속 존재해야 할 의무가 있어」"
 
 [[dialogue]]
-speaker = "蘭美"
+speaker_original = "蘭美"
+speaker_translation = "라미"
 original = "「けれど会長と一緒に居ると、どうしても甘えたくなってしまって……クールなメイド長の仮面をかぶり続けることが出来なくなってしまうの！」"
 translation = "「하지만 회장과 함께 있으면, 아무래도 응석 부리고 싶어져서……쿨한 메이드장의 가면을 계속 쓸 수가 없게 돼!」"
 
 [[dialogue]]
-speaker = "蘭美"
+speaker_original = "蘭美"
+speaker_translation = "라미"
 original = "「ねえ、これは由々しき問題でしょう？」"
 translation = "「있잖아, 이건 심각한 문제잖아?」"
 
 [[dialogue]]
-speaker = "ヨミ"
+speaker_original = "ヨミ"
+speaker_translation = "요미"
 original = "「ええと……気にしなくてもいいのではないでしょうか？」"
 translation = "「음……신경 쓰지 않아도 되지 않을까요?」"
 
 [[dialogue]]
-speaker = "蘭美"
+speaker_original = "蘭美"
+speaker_translation = "라미"
 original = "「あら、どうして？」"
 translation = "「어머, 왜?」"
 
 [[dialogue]]
-speaker = "ヨミ"
+speaker_original = "ヨミ"
+speaker_translation = "요미"
 original = "「だって、メイド長が会長にメロメロなのは……もうとっくにお屋敷の全員が知ってますし」"
 translation = "「왜냐면, 메이드장께서 회장에게 푹 빠져 있다는 건……이미 오래전에 저택의 전원이 알고 있으니까요」"
 
 [[dialogue]]
-speaker = "ヨミ"
+speaker_original = "ヨミ"
+speaker_translation = "요미"
 original = "「今更そんなことを心配したって……何というか、手遅れ……なんじゃないでしょうか？」"
 translation = "「새삼스럽게 그런 걸 걱정해 봤자……뭐랄까, 이미 늦은……게 아닐까요?」"
 
 [[dialogue]]
-speaker = "蘭美"
+speaker_original = "蘭美"
+speaker_translation = "라미"
 original = "「……！！！！」"
 translation = "「……!!!!」"
 
 [[dialogue]]
-speaker = "蘭美"
+speaker_original = "蘭美"
+speaker_translation = "라미"
 original = "「ふ、ふふ……そうなのね。だったらもう我慢する必要はない、ということかしら？」"
 translation = "「흐, 흐흐……그렇구나. 그렇다면 이제 참을 필요는 없다는 뜻일까?」"
 
 [[dialogue]]
-speaker = "ヨミ"
+speaker_original = "ヨミ"
+speaker_translation = "요미"
 original = "（ええっ！？\u3000が、我慢！？\u3000あれで我慢してたつもりだったんだ……！）"
 translation = "（에엣!? 가, 참는 거!? 저게 참는 거라고 생각했던 거야……!）"
 
 [[dialogue]]
-speaker = "蘭美"
+speaker_original = "蘭美"
+speaker_translation = "라미"
 original = "「ヨミ……聞こえてるわよ」"
 translation = "「요미……들리고 있어」"
 
 [[dialogue]]
-speaker = "ヨミ"
+speaker_original = "ヨミ"
+speaker_translation = "요미"
 original = "「こやっ！？\u3000ご、ごめんなさいっ！」"
 translation = "「꼬얏!? 고, 죄송합니다!」"
 
 [[dialogue]]
-speaker = "ヨミ"
+speaker_original = "ヨミ"
+speaker_translation = "요미"
 original = "「で、でも！\u3000会長にメロメロなメイド長、カワイイってみんなの間で評判ですよ！」"
 translation = "「데, 하지만! 회장에게 푹 빠진 메이드장, 귀엽다고 모두 사이에서 평판이 좋아요!」"
 
 [[dialogue]]
-speaker = "蘭美"
+speaker_original = "蘭美"
+speaker_translation = "라미"
 original = "「っ……！！」"
 translation = "「윽……!!」"
 
 [[dialogue]]
-speaker = "蘭美"
+speaker_original = "蘭美"
+speaker_translation = "라미"
 original = "「と、とにかく！\u3000そういうことなら今後は、思いっきりイチャイチャするわよ！\u3000誰が見てたって構うもんですか！！」"
 translation = "「어, 어쨌든! 그런 거라면 앞으로는, 마음껏 알콩달콩할 거야! 누가 보고 있든 상관할까!!」"
 
 [[dialogue]]
-speaker = "蘭美"
+speaker_original = "蘭美"
+speaker_translation = "라미"
 original = "「これからも思う存分、甘え合いましょう！\u3000いいわね、会長！」"
 translation = "「앞으로도 마음껏, 서로 응석 부리자! 알았지, 회장!」"
 

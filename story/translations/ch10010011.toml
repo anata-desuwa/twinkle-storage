@@ -4,47 +4,56 @@ original = "第１話,フィオナ会長の弱点？,P"
 translation = "제1화, 피오나 회장의 약점?"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「あ、こんにちは、緋宮会長。ちょうどお茶をしていたところなんですが、ご一緒されますか？」"
 translation = "「아, 안녕하세요, 히노미야 회장. 마침 차를 마시고 있던 참인데, 함께 하시겠어요?」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「ここは流星・新星両学園の生徒にとって憩いの場ですからね。ソイラテが人気ですが、カフェモカもお薦めですよ」"
 translation = "「여기는 유성·신성 양 학원 학생들에게 휴식처이니까요. 소이 라테가 인기지만, 카페모카도 추천해 드려요」"
 
 [[dialogue]]
-speaker = "ソフィア"
+speaker_original = "ソフィア"
+speaker_translation = "소피아"
 original = "「あ、フィオナ会長。この書類、星徒会室に持っていっておきますね」"
 translation = "「아, 피오나 회장. 이 서류, 성도회실에 가져다 놓을게요」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「それならここで見ちゃうよ。どれどれ……うん、オッケー。提出して大丈夫」"
 translation = "「그렇다면 여기서 바로 볼게요. 어디 보자…… 응, 오케이. 제출해도 괜찮아요」"
 
 [[dialogue]]
-speaker = "ソフィア"
+speaker_original = "ソフィア"
+speaker_translation = "소피아"
 original = "「恐縮です」"
 translation = "「황송합니다」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「せっかくだしソフィアもどう？」"
 translation = "「모처럼인데 소피아도 어때요?」"
 
 [[dialogue]]
-speaker = "ソフィア"
+speaker_original = "ソフィア"
+speaker_translation = "소피아"
 original = "「うぅ、残念ながら今日はフィギュアスケートの練習があるので……。失礼します」"
 translation = "「으윽, 아쉽지만 오늘은 피겨 스케이팅 연습이 있어서요……. 실례하겠습니다」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「そう。じゃあ練習頑張ってね。いつもありがとう」"
 translation = "「그래요. 그럼 연습 열심히 해요. 항상 고마워요」"
 
 [[dialogue]]
-speaker = "ソフィア"
+speaker_original = "ソフィア"
+speaker_translation = "소피아"
 original = "「はいっ」"
 translation = "「네엣」"
 
@@ -54,82 +63,98 @@ original = "頼れる会長だ……！"
 translation = "의지할 수 있는 회장이군……!"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「流星学園と新星学園の星徒会は、生徒たちの先頭に立って戦うのが使命ですが、通常の星徒会業務も必要ですから」"
 translation = "「유성 학원과 신성 학원의 성도회는, 학생들의 선두에 서서 싸우는 것이 사명이지만, 통상적인 성도회 업무도 필요하니까요」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「でもさっきのは、ソフィアがしっかりしているおかげですよ。頼もしい書記です」"
 translation = "「하지만 방금 전 일은, 소피아가 꼼꼼한 덕분이에요. 든든한 서기죠」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「緋宮会長こそ、新星学園に途中から編入するのは簡単なことではありません」"
 translation = "「히노미야 회장이야말로, 신성 학원에 도중에 편입하는 것은 쉬운 일이 아니에요」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「入学費用もアルバイトをしてご自分で用立てたと聞きました。そこまではなかなかできませんよ」"
 translation = "「입학 비용도 아르바이트를 해서 스스로 마련했다고 들었어요. 거기까지는 좀처럼 할 수 없죠」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「しかし転入して早々星徒会長になったのですから大変でしょう。星徒会業務は大丈夫ですか？」"
 translation = "「하지만 전입하자마자 성도회장이 되었으니 힘들겠죠. 성도회 업무는 괜찮으세요?」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「……ふふ、そのご様子だとやはり苦労もあるのですね。しかし先々代の会長であるサーシャさんもいるのですし、徐々に慣れていけばいいと思います」"
 translation = "「……후후, 그 모습을 보니 역시 고생도 하는군요. 하지만 선선대 회장인 사샤 씨도 있으니, 서서히 익숙해지면 될 거라고 생각해요」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「！\u3000残念ですがお茶の時間はここまで。アステラの反応です」"
 translation = "「! 아쉽지만 차 마시는 시간은 여기까지. 아스테라의 반응이네요」"
 
 [[dialogue]]
-speaker = "ユウリ"
+speaker_original = "ユウリ"
+speaker_translation = "유우리"
 original = "「なんか……ずいぶんブクブクしたモンスターだな。リクリエももちっとセンス磨いてこいっての。センスとかあるのか知らねーが」"
 translation = "「뭐랄까…… 꽤나 부풀어 오른 몬스터네. 리크리에도 좀 더 센스를 갈고 닦고 오라고. 센스 같은 게 있는지는 모르겠지만」"
 
 [[dialogue]]
-speaker = "ルリエル"
+speaker_original = "ルリエル"
+speaker_translation = "루리엘"
 original = "「なんというか、見ていると不安になる系です！」"
 translation = "「뭐라고 할까, 보고 있으면 불안해지는 계열이에요!」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「ルリエルは私たちに加護を。セーラさんは牽制をお願いします」"
 translation = "「루리엘은 우리에게 가호를. 세라 씨는 견제를 부탁드려요」"
 
 [[dialogue]]
-speaker = "ルリエル"
+speaker_original = "ルリエル"
+speaker_translation = "루리엘"
 original = "「かしこまりですっ！」"
 translation = "「알겠슴다!」"
 
 [[dialogue]]
-speaker = "セーラ"
+speaker_original = "セーラ"
+speaker_translation = "세라"
 original = "「いえっさ～。あれ、女の人にはマムだっけ？\u3000ま、どっちでもいいか♪」"
 translation = "「예썰~. 어라, 여자한테는 마담이었나? 뭐, 어느 쪽이든 상관없나♪」"
 
 [[dialogue]]
-speaker = "ニャリオン"
+speaker_original = "ニャリオン"
+speaker_translation = "냐리온"
 original = "「ニャニャ！？\u3000モンスターがこっち来たニャン！」"
 translation = "「냐냐!? 몬스터가 이쪽으로 왔다냥!」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「ユウリ！」"
 translation = "「유우리!」"
 
 [[dialogue]]
-speaker = "ユウリ"
+speaker_original = "ユウリ"
+speaker_translation = "유우리"
 original = "「へっ、ヤツらの攻撃なんて通さねーっての！」"
 translation = "「헤, 녀석들의 공격 따위는 안 통한다고!」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「ここで決めましょう、緋宮会長」"
 translation = "「여기서 결정 짓죠, 히노미야 회장」"
 
@@ -139,42 +164,50 @@ original = "ああ！"
 translation = "좋아!"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「切り裂け！\u3000アストラルエッジ！」"
 translation = "「찢어발겨라! 아스트랄 엣지!」"
 
 [[dialogue]]
-speaker = "ニャリオン"
+speaker_original = "ニャリオン"
+speaker_translation = "냐리온"
 original = "「ニャニャニャ～♪\u3000敵じゃニャかったニャン！」"
 translation = "「냐냐냐~♪ 적이 아니었다냥!」"
 
 [[dialogue]]
-speaker = "ユウリ"
+speaker_original = "ユウリ"
+speaker_translation = "유우리"
 original = "「アホ猫は役に立ってなかったけどな」"
 translation = "「바보 고양이는 도움이 안 됐지만 말이야」"
 
 [[dialogue]]
-speaker = "ニャリオン"
+speaker_original = "ニャリオン"
+speaker_translation = "냐리온"
 original = "「うっさいニャ！」"
 translation = "「시끄럽다냐!」"
 
 [[dialogue]]
-speaker = "セーラ"
+speaker_original = "セーラ"
+speaker_translation = "세라"
 original = "「いえ～ぃ、お疲れ～。新星の会長さんも活躍してたね」"
 translation = "「예~이, 수고했어~. 신성 회장님도 활약했네」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「みんなお疲れさま。今日はこのまま解散で大丈夫だよ」"
 translation = "「모두 수고했어요. 오늘은 이대로 해산해도 괜찮아요」"
 
 [[dialogue]]
-speaker = "ルリエル"
+speaker_original = "ルリエル"
+speaker_translation = "루리엘"
 original = "「ラジャーですっ」"
 translation = "「라저임다!」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「緋宮会長もお疲れ様でした。小規模なうちに対処できて良かったです」"
 translation = "「히노미야 회장도 수고하셨어요. 소규모일 때 대처할 수 있어서 다행이네요」"
 
@@ -184,37 +217,44 @@ original = "フィオナはすごい先輩だ"
 translation = "피오나는 대단한 선배다"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「先輩？\u3000……ああ、なるほど。星騎士としても、会長としても、私の方が先でしたからね」"
 translation = "「선배요? ……아아, 과연. 성기사로서도, 회장으로서도, 제가 먼저였으니까요」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「ですが私も責務を果たすために励む日々です。張り合うわけではありませんが、お互い会長として頑張っていきましょうね」"
 translation = "「하지만 저도 책무를 다하기 위해 힘쓰는 나날이에요. 경쟁하는 것은 아니지만, 서로 회장으로서 힘내도록 해요」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「たとえどんな敵が現れても……今日みたいなかわいいモンスターが相手でも全力で──」"
 translation = "「설령 어떤 적이 나타나도…… 오늘 같은 귀여운 몬스터가 상대라도 전력으로──」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「……あれ、そんな驚いた顔をされてどうしたんですか？」"
 translation = "「……어라, 그렇게 놀란 얼굴을 하고 왜 그러세요?」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「さっきのモンスター、かわいくなかったですか？\u3000こう……丸々としていて、目とか出っ張り気味で、ブヨブヨで愛嬌があるというか」"
 translation = "「방금 몬스터, 귀엽지 않았나요? 이렇게…… 통통하고, 눈 같은 것도 튀어나올 듯하고, 물컹물컹해서 애교가 있다고 할까」"
 
 [[dialogue]]
-speaker = "ニャリオン"
+speaker_original = "ニャリオン"
+speaker_translation = "냐리온"
 original = "「フィオナ嬢はかわいいのストライクゾーンが広いのニャ」"
 translation = "「피오나 양은 귀여움의 스트라이크 존이 넓은 거다냥」"
 
 [[dialogue]]
-speaker = "ニャリオン"
+speaker_original = "ニャリオン"
+speaker_translation = "냐리온"
 original = "「具体的に言うと、ちょっとでも丸っこいものは、グロかろうとキモかろうとほぼ１００パーかわいいに入るニャン」"
 translation = "「구체적으로 말하자면, 조금이라도 동글동글한 것은, 징그럽든 역겹든 거의 100퍼센트 귀여움에 들어가는 거다냥」"
 
@@ -224,7 +264,8 @@ original = "ガバガバだ……！"
 translation = "허술하군……!"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「何を驚いているんですか？\u3000緋宮会長？\u3000緋宮会長～？」"
 translation = "「무엇에 놀라고 계신가요? 히노미야 회장? 히노미야 회장~?」"
 

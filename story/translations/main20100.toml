@@ -44,7 +44,8 @@ original = "残された最後の芽を摘むべく、絶望の黒き<ruby>腕<r
 translation = "남겨진 마지막 싹을 틔우기 위해, 절망의 검은 팔이 구풍과 함께 번뜩였다."
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "（ごめん、エリシア──私のせいで）"
 translation = "(미안해, 엘리시아── 나 때문에)"
 

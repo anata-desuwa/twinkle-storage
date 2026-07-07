@@ -1,225 +1,270 @@
 [[dialogue]]
-speaker = "モネ"
+speaker_original = "モネ"
+speaker_translation = "모네"
 original = "「今日は出張図書コンシェルジュ第３弾……なのですが」"
 translation = "「오늘은 출장 도서 컨시어지 제3탄……인데요.」"
 
 [[dialogue]]
-speaker = "モネ"
+speaker_original = "モネ"
+speaker_translation = "모네"
 original = "「第１弾第２弾はそれなりにうまくいったと思うんですけど、今度こそ誰にも相手にされないかも……」"
 translation = "「제1탄, 제2탄은 나름대로 잘 됐다고 생각하지만, 이번에야말로 아무도 상대해주지 않을지도……」"
 
 [[dialogue]]
-speaker = "モネ"
+speaker_original = "モネ"
+speaker_translation = "모네"
 original = "「ううん、友達のためにも弱気になっちゃダメ。ちゃんと本の素晴らしさを伝えないと──」"
 translation = "「아냐, 친구를 위해서라도 약해지면 안 돼. 제대로 책의 훌륭함을 전해야지──」"
 
 [[dialogue]]
-speaker = "メルエル"
+speaker_original = "メルエル"
+speaker_translation = "메르엘"
 original = "「モネちゃーん」"
 translation = "「모네짱─.」"
 
 [[dialogue]]
-speaker = "モネ"
+speaker_original = "モネ"
+speaker_translation = "모네"
 original = "「ひゃぅっ！？」"
 translation = "「히얏!?」"
 
 [[dialogue]]
-speaker = "メルエル"
+speaker_original = "メルエル"
+speaker_translation = "메르엘"
 original = "「聞いたよ、たくさんの人に図書館に来てもらうために活動してるんだって。さすがモネちゃんだねっ。……モネちゃん？」"
 translation = "「들었어, 많은 사람을 도서관에 오게 하려고 활동하고 있다며. 역시 모네짱이네. ……모네짱?」"
 
 [[dialogue]]
-speaker = "モネ"
+speaker_original = "モネ"
+speaker_translation = "모네"
 original = "「くっ……すみません、地味キャラの私にはメルエルさんのオーラが眩しくて……」"
 translation = "「윽…… 죄송해요, 수수한 캐릭터인 저에게는 메르엘 씨의 오오라가 너무 눈부셔서……」"
 
 [[dialogue]]
-speaker = "メルエル"
+speaker_original = "メルエル"
+speaker_translation = "메르엘"
 original = "「オーラ？\u3000そんなの出してないよ？」"
 translation = "「오오라? 그런 거 안 내뿜고 있는데?」"
 
 [[dialogue]]
-speaker = "モネ"
+speaker_original = "モネ"
+speaker_translation = "모네"
 original = "「いえ、出てるんです……自分では気付かないだけで……」"
 translation = "「아뇨, 나오고 있어요…… 본인만 모를 뿐이지……」"
 
 [[dialogue]]
-speaker = "モネ"
+speaker_original = "モネ"
+speaker_translation = "모네"
 original = "「しかし私に声をかけたということは、もしかして出張図書コンシェルジュにご用ですか？」"
 translation = "「하지만 저에게 말을 걸었다는 건, 혹시 출장 도서 컨시어지에 용건이 있으신가요?」"
 
 [[dialogue]]
-speaker = "メルエル"
+speaker_original = "メルエル"
+speaker_translation = "메르엘"
 original = "「うん。私にぴったりの本を選んでくれるんだよね？」"
 translation = "「응. 나한테 딱 맞는 책을 골라주는 거지?」"
 
 [[dialogue]]
-speaker = "モネ"
+speaker_original = "モネ"
+speaker_translation = "모네"
 original = "「はい、もちろんです。まず最初に質問ですが、メルエルさんはどんな本が読みたいか希望はありますか？」"
 translation = "「네, 물론이죠. 우선 질문입니다만, 메르엘 씨는 어떤 책을 읽고 싶은지 희망 사항이 있나요?」"
 
 [[dialogue]]
-speaker = "メルエル"
+speaker_original = "メルエル"
+speaker_translation = "메르엘"
 original = "「どんな本……小説とか？\u3000読むなら面白いお話がいいなって思うけど」"
 translation = "「어떤 책…… 소설 같은 거? 읽는다면 재미있는 이야기가 좋겠다고 생각하는데.」"
 
 [[dialogue]]
-speaker = "モネ"
+speaker_original = "モネ"
+speaker_translation = "모네"
 original = "「では言葉を変えます。メルエルさんはどんな体験がしたいですか？」"
 translation = "「그럼 말을 바꿀게요. 메르엘 씨는 어떤 체험을 하고 싶으신가요?」"
 
 [[dialogue]]
-speaker = "メルエル"
+speaker_original = "メルエル"
+speaker_translation = "메르엘"
 original = "「体験……？」"
 translation = "「체험……?」"
 
 [[dialogue]]
-speaker = "モネ"
+speaker_original = "モネ"
+speaker_translation = "모네"
 original = "「はい。本は知識を増やすだけでなく、物語、あるいはノンフィクションを通じて、今の自分じゃできない体験ができるんです」"
 translation = "「네. 책은 지식을 늘릴 뿐만 아니라 이야기, 혹은 논픽션을 통해 지금의 자신으로는 할 수 없는 체험을 할 수 있게 해줘요.」"
 
 [[dialogue]]
-speaker = "メルエル"
+speaker_original = "メルエル"
+speaker_translation = "메르엘"
 original = "「じゃ、じゃあ……私気になる人がいて……その、えと……うぅ、何て言ったらいいかわからないよぉ……」"
 translation = "「그, 그럼…… 나 신경 쓰이는 사람이 있어서…… 그, 그러니까…… 으으, 뭐라고 말해야 할지 모르겠어어……」"
 
 [[dialogue]]
-speaker = "モネ"
+speaker_original = "モネ"
+speaker_translation = "모네"
 original = "「ふむふむ……なるほど」"
 translation = "「흠흠…… 그렇군요.」"
 
 [[dialogue]]
-speaker = "ユーリス"
+speaker_original = "ユーリス"
+speaker_translation = "유리스"
 original = "「ごきげんよう。私もコンシェルジュをお願いしていいでしょうか？」"
 translation = "「평안하신지요. 저도 컨시어지를 부탁드려도 될까요?」"
 
 [[dialogue]]
-speaker = "モネ"
+speaker_original = "モネ"
+speaker_translation = "모네"
 original = "「お、王子……またキラキラした人が……」"
 translation = "「와, 왕자님…… 또 반짝거리는 사람이……」"
 
 [[dialogue]]
-speaker = "ユーリス"
+speaker_original = "ユーリス"
+speaker_translation = "유리스"
 original = "「どうかされましたか？」"
 translation = "「무슨 일 있으신가요?」"
 
 [[dialogue]]
-speaker = "モネ"
+speaker_original = "モネ"
+speaker_translation = "모네"
 original = "「いえ、ちょっと目が眩んだだけです……どうぞ」"
 translation = "「아뇨, 조금 눈이 부셨을 뿐이에요…… 말씀하세요.」"
 
 [[dialogue]]
-speaker = "ユーリス"
+speaker_original = "ユーリス"
+speaker_translation = "유리스"
 original = "「ありがとうございます。私は同年代の男子が楽しんでいる作品を知りたいと思っていて──あ、失礼。もちろんモネさんが女性だと知ってのお願いなのですが」"
 translation = "「감사합니다. 저는 동년배 남성들이 즐기는 작품을 알고 싶다고 생각해서── 아, 실례. 물론 모네 씨가 여성이라는 걸 알고 드리는 부탁입니다만.」"
 
 [[dialogue]]
-speaker = "モネ"
+speaker_original = "モネ"
+speaker_translation = "모네"
 original = "「いえいえ。私は女性向け男性向け問わず読んでいますから大丈夫ですよ。では図書館から持ってきてもらいますね」"
 translation = "「아뇨아뇨. 저는 여성향 남성향 가리지 않고 읽으니까 괜찮아요. 그럼 도서관에서 가져오게 할게요.」"
 
 [[dialogue]]
-speaker = "イクシリオン"
+speaker_original = "イクシリオン"
+speaker_translation = "익실리온"
 original = "「お待たせしました～♪\u3000ちなみにウィステリアさんは今日も取り込み中だそうです」"
 translation = "「오래 기다리셨습니다~♪ 참고로 위스테리아 씨는 오늘도 바쁘시다고 하네요.」"
 
 [[dialogue]]
-speaker = "モネ"
+speaker_original = "モネ"
+speaker_translation = "모네"
 original = "「たびたびありがとうございます、イクシーさん。ではメルエルさんにおすすめしたい本からです」"
 translation = "「매번 감사합니다, 익실 씨. 그럼 메르엘 씨에게 추천하고 싶은 책부터입니다.」"
 
 [[dialogue]]
-speaker = "メルエル"
+speaker_original = "メルエル"
+speaker_translation = "메르엘"
 original = "「よろしくお願いします、先生！」"
 translation = "「잘 부탁드려요, 선생님!」"
 
 [[dialogue]]
-speaker = "モネ"
+speaker_original = "モネ"
+speaker_translation = "모네"
 original = "「私が紹介するのは、小説『粉雪の朝』。特徴はとにかく甘い恋です！」"
 translation = "「제가 소개할 책은 소설 『가루눈의 아침』. 특징은 어쨌든 달콤한 사랑이에요!」"
 
 [[dialogue]]
-speaker = "メルエル"
+speaker_original = "メルエル"
+speaker_translation = "메르엘"
 original = "「甘い……恋！？」"
 translation = "「달콤한…… 사랑!?」"
 
 [[dialogue]]
-speaker = "モネ"
+speaker_original = "モネ"
+speaker_translation = "모네"
 original = "「冬のある日、雪のあまり降らない町でぽつぽつと落ちてくる粉雪。同じ空を見上げる少女と少年の出会い──」"
 translation = "「겨울 어느 날, 눈이 잘 내리지 않는 마을에서 한 송이씩 떨어지는 가루눈. 같은 하늘을 올려다보는 소녀와 소년의 만남──」"
 
 [[dialogue]]
-speaker = "モネ"
+speaker_original = "モネ"
+speaker_translation = "모네"
 original = "「若者が選ぶ小説賞・恋愛部門１位にも選ばれた作品で、かく言う私も読んだ時は胸が苦しいくらいドキドキしましたっ」"
 translation = "「젊은 층이 뽑은 소설상 연애 부문 1위로도 선정된 작품으로, 저 또한 읽었을 때는 가슴이 아릴 정도로 두근거렸답니다.」"
 
 [[dialogue]]
-speaker = "メルエル"
+speaker_original = "メルエル"
+speaker_translation = "메르엘"
 original = "「どれどれ……はわっ！？」"
 translation = "「어디 보자…… 하와앗!?」"
 
 [[dialogue]]
-speaker = "メルエル"
+speaker_original = "メルエル"
+speaker_translation = "메르엘"
 original = "（優しく声をかけられたり、抱き締めてもらったり……会長くんにこんなことされたら私……私……）"
 translation = "(다정하게 말을 걸어주거나, 꼬옥 안아주거나…… 회장군에게 이런 일을 당하면 나…… 나……)"
 
 [[dialogue]]
-speaker = "メルエル"
+speaker_original = "メルエル"
+speaker_translation = "메르엘"
 original = "「ひゃわわ～～っ！？」"
 translation = "「햐와와~~앗!?」"
 
 [[dialogue]]
-speaker = "イクシリオン"
+speaker_original = "イクシリオン"
+speaker_translation = "익실리온"
 original = "「私も拝読……ふむふむ……甘いと形容されるのも理解できます」"
 translation = "「저도 배독…… 흠흠…… 달콤하다고 형용되는 것도 이해가 가네요.」"
 
 [[dialogue]]
-speaker = "イクシリオン"
+speaker_original = "イクシリオン"
+speaker_translation = "익실리온"
 original = "「この後ふたりきりでしっぽりするんですね。想像が捗ります！」"
 translation = "「이후에 둘이서 오붓하게 지내는 거군요. 상상력이 샘솟습니다!」"
 
 [[dialogue]]
-speaker = "モネ"
+speaker_original = "モネ"
+speaker_translation = "모네"
 original = "「ユーリス王子には『禁忌の<ruby>十三弾丸<rt>バーストバレット</rt></ruby>』がおすすめです」"
 translation = "「유리스 왕자님께는 『금기의 <ruby>십삼탄환<rt>버스트 발렛</rt></ruby>』을 추천합니다.」"
 
 [[dialogue]]
-speaker = "ユーリス"
+speaker_original = "ユーリス"
+speaker_translation = "유리스"
 original = "「バースト……？」"
 translation = "「버스트……?」"
 
 [[dialogue]]
-speaker = "モネ"
+speaker_original = "モネ"
+speaker_translation = "모네"
 original = "「十三の弾丸でバーストバレットと読みます。いわゆるライトノベルという分類をされる作品で、アニメをはじめとするメディアミックスから一躍人気になりました」"
 translation = "「십삼탄환이라 쓰고 버스트 발렛이라 읽습니다. 이른바 라이트 노벨이라는 분류에 속하는 작품으로, 애니메이션을 비롯한 미디어 믹스를 통해 일약 인기를 얻었죠.」"
 
 [[dialogue]]
-speaker = "モネ"
+speaker_original = "モネ"
+speaker_translation = "모네"
 original = "「魔弾使いの主人公と、魔弾から変化したヒロインの出会いと戦いを描く、若者を中心に人気を博す王道ライトノベルです！」"
 translation = "「마탄술사인 주인공과 마탄에서 변화한 히로인의 만남과 전투를 그린, 젊은 층을 중심으로 인기를 구가하는 왕도 라이트 노벨입니다!」"
 
 [[dialogue]]
-speaker = "ユーリス"
+speaker_original = "ユーリス"
+speaker_translation = "유리스"
 original = "「へぇ……きゃっ！？」"
 translation = "「헤에…… 꺄앗!?」"
 
 [[dialogue]]
-speaker = "モネ"
+speaker_original = "モネ"
+speaker_translation = "모네"
 original = "「どうかされましたか？」"
 translation = "「무슨 일 있으신가요?」"
 
 [[dialogue]]
-speaker = "ユーリス"
+speaker_original = "ユーリス"
+speaker_translation = "유리스"
 original = "「あ、いえ、挿絵がその……想像以上に肌色が多かったもので」"
 translation = "「아, 아뇨, 삽화가 그…… 상상 이상으로 살색이 많아서.」"
 
 [[dialogue]]
-speaker = "モネ"
+speaker_original = "モネ"
+speaker_translation = "모네"
 original = "「この作品は男性向けですから、そういった要素は確かにありますね。お嫌いでしたか？」"
 translation = "「이 작품은 남성향이라 그런 요소가 확실히 있긴 하죠. 싫으셨나요?」"
 
 [[dialogue]]
-speaker = "ユーリス"
+speaker_original = "ユーリス"
+speaker_translation = "유리스"
 original = "「そそ、そんなことないですよっ。私も男ですから、お色気要素は大好きですっ！」"
 translation = "「그, 그렇지 않아요. 저도 남자니까, 에로한 요소는 아주 좋아합니다!」"
 
@@ -234,37 +279,44 @@ original = "…………"
 translation = "…………"
 
 [[dialogue]]
-speaker = "ユーリス"
+speaker_original = "ユーリス"
+speaker_translation = "유리스"
 original = "「す、すみません！\u3000女性の前で！」"
 translation = "「죄, 죄송합니다! 여성 앞에서!」"
 
 [[dialogue]]
-speaker = "モネ"
+speaker_original = "モネ"
+speaker_translation = "모네"
 original = "「いえいえ、登場キャラクターのセクシーさも作品の魅力ですから。そういったアピールも、挿絵が付くライトノベルならではなのではないでしょうか」"
 translation = "「아뇨아뇨, 등장 캐릭터의 섹시함도 작품의 매력이니까요. 그런 어필도 삽화가 들어가는 라이트 노벨만의 특징 아닐까요.」"
 
 [[dialogue]]
-speaker = "ユーリス"
+speaker_original = "ユーリス"
+speaker_translation = "유리스"
 original = "（すごく誤解を生む発言をした気がする……！）"
 translation = "(굉장히 오해를 살 만한 발언을 한 기분이야……!)"
 
 [[dialogue]]
-speaker = "イクシリオン"
+speaker_original = "イクシリオン"
+speaker_translation = "익실리온"
 original = "「むむ……確かに挿絵がなかなか際どいかもしれませんね」"
 translation = "「으음…… 확실히 삽화가 상당히 아슬아슬하군요.」"
 
 [[dialogue]]
-speaker = "イクシリオン"
+speaker_original = "イクシリオン"
+speaker_translation = "익실리온"
 original = "「私としても肌色がもう少し多くてもいいですけれども。あと欲を言えば、こう……絡んでいるような絵も欲しい気が……」"
 translation = "「저로서는 살색이 좀 더 많아도 괜찮습니다만. 아니, 욕심을 부리자면 이렇게…… 엉겨 붙어 있는 듯한 그림도 갖고 싶은 기분이……」"
 
 [[dialogue]]
-speaker = "モネ"
+speaker_original = "モネ"
+speaker_translation = "모네"
 original = "「イクシーさん？」"
 translation = "「익실 씨?」"
 
 [[dialogue]]
-speaker = "イクシリオン"
+speaker_original = "イクシリオン"
+speaker_translation = "익실리온"
 original = "「……コホン。どれも素敵な作品ですね！」"
 translation = "「……큼큼. 어느 것이나 멋진 작품이군요!」"
 

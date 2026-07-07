@@ -4,7 +4,8 @@ original = "第４話,環とデート,P"
 translation = "제4화, 타마키와 데이트, P"
 
 [[dialogue]]
-speaker = "環"
+speaker_original = "環"
+speaker_translation = "타마키"
 original = "「おーい！\u3000待った～？」"
 translation = "「어이~! 많이 기다렸어~?」"
 
@@ -14,12 +15,14 @@ original = "今来たところ"
 translation = "방금 왔어"
 
 [[dialogue]]
-speaker = "環"
+speaker_original = "環"
+speaker_translation = "타마키"
 original = "「ははっ、お決まりのやつだ。お約束は大事だね」"
 translation = "「하핫, 정해진 대사네. 약속된 전개는 중요하지」"
 
 [[dialogue]]
-speaker = "環"
+speaker_original = "環"
+speaker_translation = "타마키"
 original = "「遊びに行く約束してたのに、バイトがあって結局遅くなっちゃった。ごめんね」"
 translation = "「놀러 가기로 약속했는데, 알바가 있어서 결국 늦어버렸어. 미안해」"
 
@@ -29,87 +32,104 @@ original = "環が謝ることじゃない"
 translation = "타마키가 사과할 일이 아니야"
 
 [[dialogue]]
-speaker = "環"
+speaker_original = "環"
+speaker_translation = "타마키"
 original = "「ま、それもそっか。……ていうか忙しかったのはボクだけじゃないよね。今日まで会長には待たされたんだから埋め合わせしてもらわないと」"
 translation = "「뭐, 그것도 그렇나. ……그나저나 바빴던 건 나뿐만이 아니지. 오늘까지 회장님 때문에 기다렸으니까 보답받아야겠어」"
 
 [[dialogue]]
-speaker = "環"
+speaker_original = "環"
+speaker_translation = "타마키"
 original = "「今日はカフェとー、映画とー……あとゲームセンターも行きたいな。久々にクレーンゲームやりたい。どっちがうまく取れるか勝負しようよ！」"
 translation = "「오늘은 카페랑~, 영화랑~…… 그리고 게임 센터도 가고 싶네. 오랜만에 인형 뽑기 하고 싶어. 누가 더 잘 뽑나 승부하자!」"
 
 [[dialogue]]
-speaker = "環"
+speaker_original = "環"
+speaker_translation = "타마키"
 original = "「……あれ、もしかしてもしかするとなんだけど……これってデートっていうんじゃない？」"
 translation = "「……어라, 설마 설마 하는 건데…… 이거 데이트라고 하는 거 아냐?」"
 
 [[dialogue]]
-speaker = "環"
+speaker_original = "環"
+speaker_translation = "타마키"
 original = "「～～っ！\u3000違う違う、これは健全なやつだから！\u3000友達と遊びに行くだけ！\u3000だよね！？」"
 translation = "「~~! 아냐 아냐, 이건 건전한 거니까! 친구랑 놀러 가는 것뿐! 그치!?」"
 
 [[dialogue]]
-speaker = "環"
+speaker_original = "環"
+speaker_translation = "타마키"
 original = "「あーっ、もう、とりあえず映画行こっ！\u3000絶対面白いやつだから！」"
 translation = "「아~, 정말, 일단 영화 보러 가자! 절대 재밌는 거니까!」"
 
 [[dialogue]]
-speaker = "環"
+speaker_original = "環"
+speaker_translation = "타마키"
 original = "「うーん……満足！\u3000あの矢を何本も同時に撃つやつかっこいいなぁ～。ボクも真似してみようかな。武器弓じゃないけど」"
 translation = "「으음…… 만족! 그 화살을 몇 발이나 동시에 쏘는 녀석 멋있었지~. 나도 흉내 내 볼까. 무기는 활이 아니지만」"
 
 [[dialogue]]
-speaker = "環"
+speaker_original = "環"
+speaker_translation = "타마키"
 original = "「ミュージカルシーンもすごかったねー。おっと、どうして歌とダンスがあるのか聞くのはご法度だよ？\u3000あるものはあるんだから」"
 translation = "「뮤지컬 장면도 대단했지~. 앗, 어째서 노래랑 춤이 나오는지 묻는 건 금기야? 있는 건 있는 거니까」"
 
 [[dialogue]]
-speaker = "環"
+speaker_original = "環"
+speaker_translation = "타마키"
 original = "「よーし、次はカフェだね。ほんとにおすすめのお店だから楽しみにしてて」"
 translation = "「좋아~, 다음은 카페네. 정말 추천하는 가게니까 기대해 줘」"
 
 [[dialogue]]
-speaker = "環"
+speaker_original = "環"
+speaker_translation = "타마키"
 original = "「──あ、ごめん。ちょっとトイレ」"
 translation = "「──아, 미안. 잠깐 화장실 좀」"
 
 [[dialogue]]
-speaker = "マグダレナ"
+speaker_original = "マグダレナ"
+speaker_translation = "막달레나"
 original = "「こんにちは、会長さま。先ほどはどなたか一緒にいらっしゃったようですが」"
 translation = "「안녕하세요, 회장님. 방금 전에는 누군가와 함께 계셨던 것 같습니다만」"
 
 [[dialogue]]
-speaker = "マグダレナ"
+speaker_original = "マグダレナ"
+speaker_translation = "막달레나"
 original = "「確かシクラさま……いえ、市倉さまでしたか。お話したことはありませんが、溌剌とした方だとみなさまから伺っております」"
 translation = "「분명 시쿠라 님…… 아니, 이치쿠라 님이었나요. 이야기해 본 적은 없습니다만, 활기찬 분이라고 여러분께 들었습니다」"
 
 [[dialogue]]
-speaker = "アルモタヘル"
+speaker_original = "アルモタヘル"
+speaker_translation = "아르모타헬"
 original = "「世間話はいいが、店を予約した時間まであと少しだ。行くぞ」"
 translation = "「잡담은 됐다만, 가게를 예약한 시간까지 얼마 안 남았다. 가자」"
 
 [[dialogue]]
-speaker = "マグダレナ"
+speaker_original = "マグダレナ"
+speaker_translation = "막달레나"
 original = "「もう、アルモタヘルは食いしん坊さんですね」"
 translation = "「정말이지, 알모타헬은 먹보라니까요」"
 
 [[dialogue]]
-speaker = "アルモタヘル"
+speaker_original = "アルモタヘル"
+speaker_translation = "아르모타헬"
 original = "「だいたいお前は時間の感覚がルーズすぎるんだ。それにＤＩＳＣを使って予約したのは私だぞ」"
 translation = "「대체로 너는 시간 감각이 너무 루즈해. 게다가 DISC를 사용해서 예약한 건 나라고」"
 
 [[dialogue]]
-speaker = "マグダレナ"
+speaker_original = "マグダレナ"
+speaker_translation = "막달레나"
 original = "「う……それは感謝していますが」"
 translation = "「으…… 그건 감사하고 있습니다만」"
 
 [[dialogue]]
-speaker = "マグダレナ"
+speaker_original = "マグダレナ"
+speaker_translation = "막달레나"
 original = "「会長さま、それでは我々は失礼いたします」"
 translation = "「회장님, 그럼 저희는 이만 실례하겠습니다」"
 
 [[dialogue]]
-speaker = "環"
+speaker_original = "環"
+speaker_translation = "타마키"
 original = "「２人とも行った？」"
 translation = "「두 사람 다 갔어?」"
 
@@ -119,62 +139,74 @@ original = "２人が苦手なのか？"
 translation = "두 사람이 거북한 거야?"
 
 [[dialogue]]
-speaker = "環"
+speaker_original = "環"
+speaker_translation = "타마키"
 original = "「そんなことは……いや、実際苦手かな」"
 translation = "「그런 건…… 아니, 사실 거북하려나」"
 
 [[dialogue]]
-speaker = "環"
+speaker_original = "環"
+speaker_translation = "타마키"
 original = "「天界には各地に守護天使さまの神殿がある……らしいんだけど、ボク人間界生まれだから、その神殿に行ったことなくて」"
 translation = "「천계에는 각지에 수호천사 님의 신전이 있다……고 하던데, 난 인간계 태생이라 그 신전에 가본 적이 없어서」"
 
 [[dialogue]]
-speaker = "環"
+speaker_original = "環"
+speaker_translation = "타마키"
 original = "「だからどんな顔していいかわからないんだよね。畏れ多いし……いつもの調子だと不敬とか思われそうな気がしちゃって」"
 translation = "「그래서 어떤 표정을 지어야 할지 모르겠단 말이지. 황송하기도 하고…… 평소 말투라면 불경하다고 생각할 것 같은 기분이 들어서」"
 
 [[dialogue]]
-speaker = "環"
+speaker_original = "環"
+speaker_translation = "타마키"
 original = "「あ～、何その顔！\u3000ボクにだって苦手なものくらいあるよ！\u3000ボクをなんだと思ってるのさー」"
 translation = "「아~, 뭐야 그 표정! 나한테도 서툰 것 정도는 있다고! 나를 뭐라고 생각하는 거야~」"
 
 [[dialogue]]
-speaker = "環"
+speaker_original = "環"
+speaker_translation = "타마키"
 original = "「まぁいいや。まだ時間あるし、日が暮れるまで遊ぼう！」"
 translation = "「뭐 됐어. 아직 시간 있으니까, 해가 질 때까지 놀자!」"
 
 [[dialogue]]
-speaker = "環"
+speaker_original = "環"
+speaker_translation = "타마키"
 original = "「ふー、まさかカフェでまた守護天使さまとニアミスするとは思わなかったよ～。だけど向こうは気付かなかったからギリギリセーフ！」"
 translation = "「후우, 설마 카페에서 또 수호천사 님과 근접하게 될 줄은 몰랐어~. 하지만 그쪽은 눈치채지 못했으니까 아슬아슬하게 세이프!」"
 
 [[dialogue]]
-speaker = "環"
+speaker_original = "環"
+speaker_translation = "타마키"
 original = "「でもゲーム対決は負けちゃったなぁ……割と自信あったのに。だけどいい勝負だったよね」"
 translation = "「그치만 게임 대결은 져버렸네…… 나름 자신 있었는데. 그래도 좋은 승부였지?」"
 
 [[dialogue]]
-speaker = "環"
+speaker_original = "環"
+speaker_translation = "타마키"
 original = "「あ～楽しかった！\u3000会長もちゃんと楽しんでくれてたら嬉しいな」"
 translation = "「아~ 즐거웠다! 회장도 제대로 즐거워해 줬다면 기쁘겠네」"
 
 [[dialogue]]
-speaker = "環"
+speaker_original = "環"
+speaker_translation = "타마키"
 original = "「だけどもう暗いし、そろそろ帰らないと。楽しい時間はあっという間に過ぎちゃうね」"
 translation = "「하지만 벌써 어두우니까, 슬슬 돌아가야지. 즐거운 시간은 순식간에 지나가 버리네」"
 
 [[dialogue]]
-speaker = "環"
+speaker_original = "環"
+speaker_translation = "타마키"
 original = "「……ねぇ、今日のってやっぱりデートなのかな？」"
 translation = "「……있지, 오늘 이건 역시 데이트인 걸까?」"
 
 [[dialogue]]
-speaker = "環"
+speaker_original = "環"
+speaker_translation = "타마키"
 original = "「あのさ。ボク、あんまり女の子っぽくないのはわかってるし、キミがどう思ってるかは知らないけど……」"
 translation = "「저기 말야. 나, 별로 여자애답지 않다는 건 알고 있고, 네가 어떻게 생각하는지는 모르겠지만……」"
 
 [[dialogue]]
-speaker = "環"
+speaker_original = "環"
+speaker_translation = "타마키"
 original = "「ボクだって女の子なんだよ？」"
 translation = "「나도 여자애라고?」"
 
@@ -184,37 +216,44 @@ original = "──！？"
 translation = "──!?"
 
 [[dialogue]]
-speaker = "環"
+speaker_original = "環"
+speaker_translation = "타마키"
 original = "「──ぷっ」"
 translation = "「──풉」"
 
 [[dialogue]]
-speaker = "環"
+speaker_original = "環"
+speaker_translation = "타마키"
 original = "「あはははっ、何その顔～！\u3000ボクにドキッとしちゃった？\u3000不純異性交遊はダメだよ？\u3000星徒会長さんなのにいけないんだぁ～」"
 translation = "「아하하하, 뭐야 그 표정~! 나한테 두근거려 버렸어? 불순이성교제는 안 된다고? 성도회장님인데 그러면 못써~」"
 
 [[dialogue]]
-speaker = "環"
+speaker_original = "環"
+speaker_translation = "타마키"
 original = "「あははっ、ははははは……あ～笑った笑った。人に見せちゃいけない顔になってたよ」"
 translation = "「아하하, 하하하하하…… 아~ 웃겼다 웃겼어. 남에게 보여주면 안 되는 얼굴이 되어 있었다고」"
 
 [[dialogue]]
-speaker = "環"
+speaker_original = "環"
+speaker_translation = "타마키"
 original = "「ずっとこんな日が続けばいいのになぁ……」"
 translation = "「계속 이런 날이 계속되면 좋을 텐데……」"
 
 [[dialogue]]
-speaker = "環"
+speaker_original = "環"
+speaker_translation = "타마키"
 original = "「まぁ、リクリエが迫ってるからそれはありえないんだけど。ただのヒラ星騎士のボクでもそれはわかってるつもり」"
 translation = "「뭐, 리크리에가 다가오고 있으니까 그럴 일은 없겠지만. 평범한 평기사인 나라도 그 정도는 알고 있어」"
 
 [[dialogue]]
-speaker = "環"
+speaker_original = "環"
+speaker_translation = "타마키"
 original = "「だからリクリエに勝って、今日みたいななんでもない日を守ろうよ」"
 translation = "「그러니까 리크리에에서 이겨서, 오늘 같은 아무것도 아닌 일상을 지키자」"
 
 [[dialogue]]
-speaker = "環"
+speaker_original = "環"
+speaker_translation = "타마키"
 original = "「平和になったら……またボクとデートしてくれる？」"
 translation = "「평화로워지면…… 다시 나랑 데이트해 줄래?」"
 
@@ -224,12 +263,14 @@ original = "その手には乗らないぞ"
 translation = "그 수법에는 넘어가지 않아"
 
 [[dialogue]]
-speaker = "環"
+speaker_original = "環"
+speaker_translation = "타마키"
 original = "「ありゃりゃ、引っかからなかったか。ざーんねん」"
 translation = "「아랴랴, 안 걸려들었나. 아~쉽네」"
 
 [[dialogue]]
-speaker = "環"
+speaker_original = "環"
+speaker_translation = "타마키"
 original = "「じゃ、また明日。学園で会おうね！」"
 translation = "「그럼, 내일 봐. 학원에서 만나자!」"
 

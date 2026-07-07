@@ -1,20 +1,24 @@
 [[dialogue]]
-speaker = "フラン"
+speaker_original = "フラン"
+speaker_translation = "프랑"
 original = "「最後のスタンプは……写真？\u3000なるほど、ＤＩＳＣを受付に預けて撮ってもらうのか」"
 translation = "「마지막 스탬프는…… 사진? 과연, DISC를 접수처에 맡기고 찍어달라는 건가.」"
 
 [[dialogue]]
-speaker = "プルちゃん"
+speaker_original = "プルちゃん"
+speaker_translation = "푸루짱"
 original = "「あたしＤＩＳＣ忘れたから、誰かお願～い」"
 translation = "「나 DISC 잊어버렸으니까 누가 좀 부탁해~」"
 
 [[dialogue]]
-speaker = "フラン"
+speaker_original = "フラン"
+speaker_translation = "프랑"
 original = "「今時ＤＩＳＣ忘れるとかありえんのかよ」"
 translation = "「요즘 세상에 DISC를 잊어버리는 게 말이 되냐.」"
 
 [[dialogue]]
-speaker = "グロリア"
+speaker_original = "グロリア"
+speaker_translation = "글로리아"
 original = "「うっ……私も覚えが……」"
 translation = "「윽…… 저도 기억이……」"
 
@@ -24,82 +28,98 @@ original = "じゃあ俺のＤＩＳＣで"
 translation = "그럼 내 DISC로 하자"
 
 [[dialogue]]
-speaker = "プルちゃん"
+speaker_original = "プルちゃん"
+speaker_translation = "푸루짱"
 original = "「どんな感じ～？\u3000アハハッ、おにーさん写真映りわるっ」"
 translation = "「어떤 느낌이야~? 아하하, 오빠야 사진 진짜 안 받는다.」"
 
 [[dialogue]]
-speaker = "フラン"
+speaker_original = "フラン"
+speaker_translation = "프랑"
 original = "「オレのＤＩＳＣにも送ってくれ。どれどれ……うわ、半目じゃん」"
 translation = "「내 DISC로도 보내줘. 어디 보자…… 우와, 눈 반쯤 감았잖아.」"
 
 [[dialogue]]
-speaker = "グロリア"
+speaker_original = "グロリア"
+speaker_translation = "글로리아"
 original = "「ぷふふっ」"
 translation = "「푸후훗.」"
 
 [[dialogue]]
-speaker = "フラン"
+speaker_original = "フラン"
+speaker_translation = "프랑"
 original = "「グロリアも笑ってられねーぞ。なんか雰囲気がエロい」"
 translation = "「글로리아도 웃고 있을 때가 아니라고. 왠지 분위기가 야해.」"
 
 [[dialogue]]
-speaker = "グロリア"
+speaker_original = "グロリア"
+speaker_translation = "글로리아"
 original = "「エロいっ！？」"
 translation = "「야하다고요!?」"
 
 [[dialogue]]
-speaker = "プルちゃん"
+speaker_original = "プルちゃん"
+speaker_translation = "푸루짱"
 original = "「いや～、これはおじさんたまりませんなぁ～グヘヘ……」"
 translation = "「이야~ 이거 아저씨가 참을 수 없겠구먼~ 구헤헤……」"
 
 [[dialogue]]
-speaker = "フラン"
+speaker_original = "フラン"
+speaker_translation = "프랑"
 original = "「お前いくつだよ。附属生だろうが」"
 translation = "「넌 몇 살이냐. 부속생 주제에.」"
 
 [[dialogue]]
-speaker = "プルちゃん"
+speaker_original = "プルちゃん"
+speaker_translation = "푸루짱"
 original = "「エヘヘヘ」"
 translation = "「에헤헤헤.」"
 
 [[dialogue]]
-speaker = "グロリア"
+speaker_original = "グロリア"
+speaker_translation = "글로리아"
 original = "「うぅ……普通に撮っていただいただけですのに……」"
 translation = "「으으…… 그냥 평범하게 찍어주신 것뿐인데……」"
 
 [[dialogue]]
-speaker = "グロリア"
+speaker_original = "グロリア"
+speaker_translation = "글로리아"
 original = "「でも……こうして人と一緒に写真を撮ることはほとんどなかったので、なんだかくすぐったい気持ちです。この写真、大事にしますね」"
 translation = "「하지만…… 이렇게 사람들과 함께 사진을 찍는 일은 거의 없었기에 왠지 간지러운 기분이에요. 이 사진, 소중히 간직할게요.」"
 
 [[dialogue]]
-speaker = "プルちゃん"
+speaker_original = "プルちゃん"
+speaker_translation = "푸루짱"
 original = "「ねーねー、景品は何がもらえるの？\u3000……次回来園時に使える割引券？\u3000へ～、また来てねってことかぁ」"
 translation = "「저기 저기, 경품은 뭐 줘? ……다음번 방문 때 쓸 수 있는 할인권? 헤에~ 또 오라는 거네.」"
 
 [[dialogue]]
-speaker = "フラン"
+speaker_original = "フラン"
+speaker_translation = "프랑"
 original = "「タダの景品にしちゃいいじゃねえか。オレにとっちゃ、スタンプラリーをクリアして遊園地に勝ったことの方が大事だけどな」"
 translation = "「공짜 경품치고는 괜찮잖아. 나한테는 스탬프 랠리를 클리어해서 유원지에 이겼다는 게 더 중요하지만 말이야.」"
 
 [[dialogue]]
-speaker = "プルちゃん"
+speaker_original = "プルちゃん"
+speaker_translation = "푸루짱"
 original = "「でも未来より今だよ！\u3000あたしまだまだ遊び足りないよ～っ」"
 translation = "「하지만 미래보다 지금이야! 나 아직 덜 놀았단 말이야~」"
 
 [[dialogue]]
-speaker = "フラン"
+speaker_original = "フラン"
+speaker_translation = "프랑"
 original = "「それじゃ絶叫マシーン勝負なんてどうだ？\u3000どっちかが音を上げるまで乗りまくるぞ」"
 translation = "「그럼 절규 머신 승부는 어때? 둘 중 한 명이 항복할 때까지 계속 타는 거다.」"
 
 [[dialogue]]
-speaker = "プルちゃん"
+speaker_original = "プルちゃん"
+speaker_translation = "푸루짱"
 original = "「オッケー！\u3000受けてた～つ！」"
 translation = "「오케이! 받아주겠어!」"
 
 [[dialogue]]
-speaker = "グロリア"
+speaker_original = "グロリア"
+speaker_translation = "글로리아"
 original = "「ふふ、フランさんもプルちゃんもお元気ですね。私は少し疲れてしまいました」"
 translation = "「후후, 프랑 씨도 플짱도 기운차네요. 저는 조금 지쳐버렸어요.」"
 
@@ -109,7 +129,8 @@ original = "俺たちは少し休憩しましょうか"
 translation = "우리는 좀 쉴까요?"
 
 [[dialogue]]
-speaker = "グロリア"
+speaker_original = "グロリア"
+speaker_translation = "글로리아"
 original = "「ありがとうございます。会長さんはお優しいですね。……一緒に死んでもらえませんか？」"
 translation = "「감사합니다. 회장님은 참 다정하시네요. ……저와 함께 죽어주시지 않겠어요?」"
 
@@ -119,12 +140,14 @@ original = "やるべきことがあるので死にません"
 translation = "해야 할 일이 있어서 안 죽습니다"
 
 [[dialogue]]
-speaker = "グロリア"
+speaker_original = "グロリア"
+speaker_translation = "글로리아"
 original = "「やるべきこと……さすが星騎士の先頭に立つお方。その責任感には頭が下がる思いです」"
 translation = "「해야 할 일…… 과연 성기사의 선두에 선 분이시군요. 그 책임감에는 절로 고개가 숙여집니다.」"
 
 [[dialogue]]
-speaker = "グロリア"
+speaker_original = "グロリア"
+speaker_translation = "글로리아"
 original = "「でも死神様……現れませんねぇ」"
 translation = "「하지만 사신님…… 안 나타나네요.」"
 
@@ -134,57 +157,68 @@ original = "ご両親について聞いてもいいですか？"
 translation = "부모님에 대해 물어봐도 될까요?"
 
 [[dialogue]]
-speaker = "グロリア"
+speaker_original = "グロリア"
+speaker_translation = "글로리아"
 original = "「ええ、構いません。両親が死んだのはずいぶん前のことですし」"
 translation = "「네, 상관없어요. 부모님이 돌아가신 건 꽤 오래전 일이니까요.」"
 
 [[dialogue]]
-speaker = "グロリア"
+speaker_original = "グロリア"
+speaker_translation = "글로리아"
 original = "「私が幼い頃……家族でピクニックをしていた時、私たちはモンスターに襲われました」"
 translation = "「제가 어릴 적…… 가족끼리 소풍을 갔을 때 저희는 몬스터에게 습격당했어요.」"
 
 [[dialogue]]
-speaker = "グロリア"
+speaker_original = "グロリア"
+speaker_translation = "글로리아"
 original = "「あまりに突然の出来事で、天界に駐在していた星騎士が到着した時には、生きていたのは私だけ」"
 translation = "「너무나 갑작스러운 일이라서 천계에 주둔하던 성기사가 도착했을 때는 살아남은 건 저뿐이었죠.」"
 
 [[dialogue]]
-speaker = "グロリア"
+speaker_original = "グロリア"
+speaker_translation = "글로리아"
 original = "「駆けつけた星騎士の方が言うには、私は震えることも忘れ、ただ呆然としていたそうです」"
 translation = "「달려온 성기사 분 말씀으로는 저는 떠는 것조차 잊고 그저 멍하니 있었다고 해요.」"
 
 [[dialogue]]
-speaker = "グロリア"
+speaker_original = "グロリア"
+speaker_translation = "글로리아"
 original = "「近所の方でしょうか。それとも遠い親戚だったでしょうか。葬儀の場で、まだ現実を受け止められない私に言いました」"
 translation = "「이웃분이었을까요, 아니면 먼 친척이었을까요. 장례식장에서 아직 현실을 받아들이지 못하는 저에게 말했어요.」"
 
 [[dialogue]]
-speaker = "グロリア"
+speaker_original = "グロリア"
+speaker_translation = "글로리아"
 original = "「『君のお父さんとお母さんはいい人だから、女神様が早くお呼びになったんだよ』──と」"
 translation = "「『네 아빠랑 엄마는 좋은 분들이라 여신님이 일찍 부르신 거란다』──라고요.」"
 
 [[dialogue]]
-speaker = "グロリア"
+speaker_original = "グロリア"
+speaker_translation = "글로리아"
 original = "「だから両親は女神様の元にいるのだと、そう信じています」"
 translation = "「그래서 부모님은 여신님 곁에 계신 거라고 그렇게 믿고 있어요.」"
 
 [[dialogue]]
-speaker = "グロリア"
+speaker_original = "グロリア"
+speaker_translation = "글로리아"
 original = "「特別裕福でもなく、地位があったわけでもありませんが……父と母は優しくて、時に厳しく、自慢の両親でした」"
 translation = "「특별히 부유하지도 않고 지위가 있던 것도 아니었지만…… 아빠와 엄마는 다정하고 때로는 엄격한, 자랑스러운 부모님이셨어요.」"
 
 [[dialogue]]
-speaker = "グロリア"
+speaker_original = "グロリア"
+speaker_translation = "글로리아"
 original = "「両親のことは少しずつ朧気になっても、まだ覚えています。頭を撫でてくれた父の手の大きさを。私を抱き締めてくれた母の胸の柔らかさを」"
 translation = "「부모님에 대한 기억은 조금씩 흐릿해져 가도 아직 기억하고 있어요. 머리를 쓰다듬어 주던 아빠의 손 크기를. 저를 안아주던 엄마의 가슴의 부드러움을.」"
 
 [[dialogue]]
-speaker = "グロリア"
+speaker_original = "グロリア"
+speaker_translation = "글로리아"
 original = "「……すみません。会長さんが尋ねたとはいえ、賑やかな遊園地には不似合いなお話だったでしょうか」"
 translation = "「……죄송합니다. 회장님이 물어보셨다고는 해도 북적거리는 유원지에는 어울리지 않는 이야기였네요.」"
 
 [[dialogue]]
-speaker = "グロリア"
+speaker_original = "グロリア"
+speaker_translation = "글로리아"
 original = "「両親のこととなるとつい口数が多くなって……以前、フランさんにも同じように話をしてしまいました」"
 translation = "「부모님 이야기만 나오면 그만 말이 많아져서…… 예전에 프랑 씨에게도 똑같이 이야기한 적이 있어요.」"
 
@@ -194,12 +228,14 @@ original = "フランとは仲がいい？"
 translation = "프랑과는 사이가 좋아?"
 
 [[dialogue]]
-speaker = "グロリア"
+speaker_original = "グロリア"
+speaker_translation = "글로리아"
 original = "「そう……なのでしょうか。危なっかしいからといつも世話を焼いていただいて、感謝の言葉もありません」"
 translation = "「그런…… 걸까요. 위태롭다며 언제나 챙겨주셔서 감사의 말도 다 못 하겠어요.」"
 
 [[dialogue]]
-speaker = "グロリア"
+speaker_original = "グロリア"
+speaker_translation = "글로리아"
 original = "「おや、会長さんのお腹の音が……。生きていればお腹が空くものですから、恥ずかしがらなくてもけっこうですよ。何か軽く食べられるものを買ってきます」"
 translation = "「어라, 회장님 배꼽시계 소리가……. 살아있다면 배가 고프기 마련이니 부끄러워하지 않으셔도 괜찮아요. 뭔가 가볍게 먹을 만한 걸 사 올게요.」"
 
@@ -209,52 +245,62 @@ original = "グロリアさんは優しいですね"
 translation = "글로리아 씨는 다정하네요"
 
 [[dialogue]]
-speaker = "グロリア"
+speaker_original = "グロリア"
+speaker_translation = "글로리아"
 original = "「いえそんな。きっと自分のためです。善いことをすれば、早く女神様のところにいけるから……」"
 translation = "「아니요, 그런 게. 분명 저 자신을 위해서일 거예요. 좋은 일을 하면 빨리 여신님 곁으로 갈 수 있으니까……」"
 
 [[dialogue]]
-speaker = "グロリア"
+speaker_original = "グロリア"
+speaker_translation = "글로리아"
 original = "「両親のように、愛する人とともに女神様の元に行きたい。それだけが私の望みなのです」"
 translation = "「부모님처럼 사랑하는 사람과 함께 여신님 곁으로 가고 싶다. 그것만이 제 바람이에요.」"
 
 [[dialogue]]
-speaker = "グロリア"
+speaker_original = "グロリア"
+speaker_translation = "글로리아"
 original = "「そのように自分のことしか考えていないから、女神様は私をお呼びにならないのかもしれませんね……」"
 translation = "「그렇게 제 생각밖에 하지 않으니까 여신님이 저를 안 부르시는 걸지도 모르겠네요……」"
 
 [[dialogue]]
-speaker = "グロリア"
+speaker_original = "グロリア"
+speaker_translation = "글로리아"
 original = "「では行ってきますね」"
 translation = "「그럼 다녀올게요.」"
 
 [[dialogue]]
-speaker = "フラン"
+speaker_original = "フラン"
+speaker_translation = "프랑"
 original = "「へぇ、ドロップタワーってこんなもんか。ジェットコースターと違って落ちるだけだが悪くねえ」"
 translation = "「헤에, 드롭 타워라는 게 이런 건가. 제트코스터랑 다르게 떨어지기만 하지만 나쁘지 않네.」"
 
 [[dialogue]]
-speaker = "フラン"
+speaker_original = "フラン"
+speaker_translation = "프랑"
 original = "「しっかしタワーやコースターからじゃ死神は見つかんなかったな。高いところからなら何か見えるかと思ったが」"
 translation = "「그나저나 타워나 코스터 위에서는 사신이 안 보이더라고. 높은 곳이라면 뭔가 보일 줄 알았는데 말이야.」"
 
 [[dialogue]]
-speaker = "フラン"
+speaker_original = "フラン"
+speaker_translation = "프랑"
 original = "「チビはどうだった？\u3000まさかチビだけにチビってないだろうな？」"
 translation = "「꼬맹이는 어땠어? 설마 꼬맹이라서 지린 건 아니겠지?」"
 
 [[dialogue]]
-speaker = "フラン"
+speaker_original = "フラン"
+speaker_translation = "프랑"
 original = "「ん？\u3000おーい、チビ？\u3000どこ行ったー？」"
 translation = "「응? 어이─, 꼬맹이? 어디 갔냐─?」"
 
 [[dialogue]]
-speaker = "グロリア"
+speaker_original = "グロリア"
+speaker_translation = "글로리아"
 original = "「会長さんにはホットドッグがいいでしょうか。フランさんとプルちゃんの分も買っていきましょう」"
 translation = "「회장님께는 핫도그가 좋을까요. 프랑 씨와 플짱의 몫도 사 가죠.」"
 
 [[dialogue]]
-speaker = "グロリア"
+speaker_original = "グロリア"
+speaker_translation = "글로리아"
 original = "「フランさんはきっとカツサンドがお好きですね。プルちゃんは……何が気に入るでしょうか？\u3000甘いもの、辛いもの、うーん……」"
 translation = "「프랑 씨는 분명 돈가스 샌드위치를 좋아하시겠죠. 플짱은…… 무엇이 마음에 들까요? 단것, 매운 것, 으음……」"
 

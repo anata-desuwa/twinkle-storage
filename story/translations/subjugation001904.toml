@@ -1,15 +1,18 @@
 [[dialogue]]
-speaker = "ロロット"
+speaker_original = "ロロット"
+speaker_translation = "로롯토"
 original = "「ふええ～～ん！\u3000トントロがもう影も形もなくなってきています～～！」"
 translation = "「후에에~~잉! 톤토로가 이제 형체도 남지 않게 되었어요~~!」"
 
 [[dialogue]]
-speaker = "ナナカ"
+speaker_original = "ナナカ"
+speaker_translation = "나나카"
 original = "「まあまあ、まだこれくらいなら溶かして鋳型に流し込めば直せそうじゃん」"
 translation = "「자자, 아직 이 정도면 녹여서 주형에 부으면 고칠 수 있겠는데.」"
 
 [[dialogue]]
-speaker = "ロロット"
+speaker_original = "ロロット"
+speaker_translation = "로롯토"
 original = "「それはもう完全に作り直しているのでは……？」"
 translation = "「그건 이미 완전히 새로 만드는 게 아닌지……?」"
 

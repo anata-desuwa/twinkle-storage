@@ -1,45 +1,54 @@
 [[dialogue]]
-speaker = "ナナカ"
+speaker_original = "ナナカ"
+speaker_translation = "나나카"
 original = "「ティンクル☆くるせいだーすコラボ第二弾──」"
 translation = "「티클☆크루세이더즈 콜라보 제2탄──」"
 
 [[dialogue]]
-speaker = "ロロット"
+speaker_original = "ロロット"
+speaker_translation = "로롯토"
 original = "「始まりました～～♪」"
 translation = "「시작되었어요~~♪」"
 
 [[dialogue]]
-speaker = "ロロット"
+speaker_original = "ロロット"
+speaker_translation = "로롯토"
 original = "「というわけで早速、会計さんが副会長さんみたいにベッコボコにされる討伐イベントが開催です☆」"
 translation = "「그런 고로 지체 없이, 회계님이 부회장님처럼 너덜너덜하게 두들겨 맞는 토벌 이벤트가 개최예요☆」"
 
 [[dialogue]]
-speaker = "ナナカ"
+speaker_original = "ナナカ"
+speaker_translation = "나나카"
 original = "「え？\u3000アタシじゃなくてロロちゃんがメッタメタにされるって聞いてるけど？」"
 translation = "「어? 내가 아니라 로로짱이 메타메타하게 당한다고 들었는데?」"
 
 [[dialogue]]
-speaker = "パッキー"
+speaker_original = "パッキー"
+speaker_translation = "팟키"
 original = "「まったく適当だなぁ、お前らは。今回『ドドドドド、ボゴゴゴゴ、グワッシャン！』ってされるのは天使が持ってるその貯金箱だぜ」"
 translation = "「정말 적당히들 하는구만, 네놈들은. 이번에 『드드드드드, 보고고고고, 콰창!』 하고 당하는 건 천사가 들고 있는 그 저금통이라고.」"
 
 [[dialogue]]
-speaker = "ロロット"
+speaker_original = "ロロット"
+speaker_translation = "로롯토"
 original = "「ええっ、トントロが！？\u3000って、天使じゃありませーん！」"
 translation = "「에엣, 톤토로가!? 그보다 천사 아니에욧!」"
 
 [[dialogue]]
-speaker = "ナナカ"
+speaker_original = "ナナカ"
+speaker_translation = "나나카"
 original = "「クルスタ世界じゃ種族をあんまり隠す意味もないみたいだし、そろそろこのネタ擦らなくてもいいんじゃない？」"
 translation = "「크루스타 세계에선 종족을 딱히 숨길 의미도 없는 것 같고, 슬슬 이 네타도 그만 우려먹어도 되지 않아?」"
 
 [[dialogue]]
-speaker = "パッキー"
+speaker_original = "パッキー"
+speaker_translation = "팟키"
 original = "「てなわけで、コラボイベントスペシャルバトル――」"
 translation = "「그리하여, 콜라보 이벤트 스페셜 배틀──」"
 
 [[dialogue]]
-speaker = "ロロット"
+speaker_original = "ロロット"
+speaker_translation = "로롯토"
 original = "「はじまりはじまり～～♪」"
 translation = "「시작이다 시작이야~~♪」"
 

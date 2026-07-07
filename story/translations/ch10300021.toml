@@ -4,62 +4,74 @@ original = "第１話,通い妻ナミエル,P"
 translation = "제1화, 헌신적인 아내 나미엘"
 
 [[dialogue]]
-speaker = "ナミエル"
+speaker_original = "ナミエル"
+speaker_translation = "나미엘"
 original = "「全く……いつまで寝ているのですか」"
 translation = "「정말이지…… 언제까지 자고 있을 겁니까.」"
 
 [[dialogue]]
-speaker = "ナミエル"
+speaker_original = "ナミエル"
+speaker_translation = "나미엘"
 original = "「おはようございます、寝ぼすけさん。またソファーなんかで寝て。だらしがないですよ？」"
 translation = "「좋은 아침입니다, 잠꾸러기 씨. 또 소파 같은 데서 자고. 칠칠치 못하군요.」"
 
 [[dialogue]]
-speaker = "ナミエル"
+speaker_original = "ナミエル"
+speaker_translation = "나미엘"
 original = "「大方、昨夜も遅くまで訓練でもしていたのでしょうが。しかし、そんなところで寝ては取れる疲れも取れません。きちんとベッドで寝てください」"
 translation = "「보나 마나 어젯밤도 늦게까지 훈련이라도 했겠지만. 하지만 그런 데서 자면 풀릴 피로도 안 풀립니다. 제대로 침대에서 주무세요.」"
 
 [[dialogue]]
-speaker = "リノ"
+speaker_original = "リノ"
+speaker_translation = "리노"
 original = "「ふふ、ナミエルちゃんたらすっかり通い妻ね～♪\u3000助かるわ～♪\u3000もっと言ってあげて～♪」"
 translation = "「후후, 나미엘 짱은 완전히 헌신적인 아내네~♪ 도움이 많이 돼~♪ 좀 더 따끔하게 말해줘~♪」"
 
 [[dialogue]]
-speaker = "ナミエル"
+speaker_original = "ナミエル"
+speaker_translation = "나미엘"
 original = "「っっ……！？\u3000毎朝お邪魔しているのは申し訳ありませんが、おかしな冗談は言わないでください」"
 translation = "「윽……!? 매일 아침 실례하는 건 죄송합니다만, 이상한 농담은 하지 마세요.」"
 
 [[dialogue]]
-speaker = "ナミエル"
+speaker_original = "ナミエル"
+speaker_translation = "나미엘"
 original = "「私はただ、待ち惚けを食らいたくないだけです。こうして起こしに来ないと、待ち合わせ場所にも現れませんし」"
 translation = "「저는 그저 바람맞고 싶지 않을 뿐입니다. 이렇게 깨우러 오지 않으면 약속 장소에도 나타나지 않으니까요.」"
 
 [[dialogue]]
-speaker = "リノ"
+speaker_original = "リノ"
+speaker_translation = "리노"
 original = "「いっそもう我が家に住んじゃえばいいのに♪\u3000ねね、式はいつ挙げるの？\u3000お義母さんって呼んでくれていいのよ？」"
 translation = "「차라리 그냥 우리 집에 살아버리면 좋을 텐데♪ 저기 저기, 식은 언제 올릴 거야? 시어머니라고 불러도 된다고?」"
 
 [[dialogue]]
-speaker = "ナミエル"
+speaker_original = "ナミエル"
+speaker_translation = "나미엘"
 original = "「ですから冗談を言わないでくださいっ。私は星見家所属のメイドですっ。それに式なんて学生の身で挙げるものでは……！」"
 translation = "「그러니까 농담하지 마시라고요. 저는 호시미 가문 소속 메이드입니다. 게다가 식이라니 학생 신분으로 올리는 게……!」"
 
 [[dialogue]]
-speaker = "リノ"
+speaker_original = "リノ"
+speaker_translation = "리노"
 original = "「あら？\u3000最近ドレスの試着に行ったんじゃないの？\u3000ナミエルちゃんのウェディングドレス姿が可愛かったって息子がのろけてたわよ？」"
 translation = "「어라? 최근에 드레스 피팅하러 가지 않았어? 나미엘 짱의 웨딩드레스 모습이 귀여웠다고 아들이 자랑하던걸?」"
 
 [[dialogue]]
-speaker = "ナミエル"
+speaker_original = "ナミエル"
+speaker_translation = "나미엘"
 original = "「あ、あれは事故で着ただけで……！\u3000というか緋宮会長は一体何を話されているのですか、何を！？」"
 translation = "「그, 그건 사고로 입었을 뿐이고……! 그보다 히노미야 회장님은 대체 무슨 이야기를 하시는 겁니까, 무슨!?」"
 
 [[dialogue]]
-speaker = "リノ"
+speaker_original = "リノ"
+speaker_translation = "리노"
 original = "「付き合ってるなら名前で呼んであげたらいいのに～。名字呼びが長いとナミエルちゃんが緋宮姓になった時に困るわよ？」"
 translation = "「사귀고 있다면 이름으로 불러주면 좋을 텐데~. 성으로 부르는 게 길면 나미엘 짱이 히노미야 성이 됐을 때 곤란하다고?」"
 
 [[dialogue]]
-speaker = "ナミエル"
+speaker_original = "ナミエル"
+speaker_translation = "나미엘"
 original = "「余計なお世話です！\u3000緋宮会長もいつまでも寝ていないで起きてくださいっ。登校の準備は済ませてあるのでしょうねっ？」"
 translation = "「쓸데없는 참견입니다! 히노미야 회장님도 언제까지 자지 말고 일어나세요. 등교 준비는 다 해두셨겠죠?」"
 
@@ -69,32 +81,38 @@ original = "んん……今日は、白か……"
 translation = "으음…… 오늘은 흰색인가……"
 
 [[dialogue]]
-speaker = "ナミエル"
+speaker_original = "ナミエル"
+speaker_translation = "나미엘"
 original = "「は……？\u3000～～っっ！？\u3000な、何を寝惚けて覗き込んでいるのですかっ！\u3000この変態！\u3000スケベ！\u3000変質者！」"
 translation = "「하……? ~~~~!? 머, 뭘 잠결에 들여다보고 있는 겁니까! 이 변태! 변태 자식! 변질자!」"
 
 [[dialogue]]
-speaker = "リノ"
+speaker_original = "リノ"
+speaker_translation = "리노"
 original = "「今日はってことは……今までも覗いたことがあるのね。意外と手の早い息子だこと……」"
 translation = "「오늘은 이라는 건…… 지금까지도 훔쳐본 적이 있다는 거네. 의외로 손이 빠른 아들이라니까……」"
 
 [[dialogue]]
-speaker = "ナミエル"
+speaker_original = "ナミエル"
+speaker_translation = "나미엘"
 original = "「ち、違いますっ！\u3000ああもう、早く起きてくださいってばっ。おかしな勘違いをされているではありませんかっ」"
 translation = "「아, 아닙니다! 아아 정말, 빨리 일어나시라니까요. 이상한 오해를 사고 있지 않습니까.」"
 
 [[dialogue]]
-speaker = "リノ"
+speaker_original = "リノ"
+speaker_translation = "리노"
 original = "「まぁまぁ。登校時間まで時間はあるから。朝ご飯もまだ食べていないしね」"
 translation = "「뭐 뭐. 등교 시간까지 시간은 있으니까. 아침밥도 아직 안 먹었고 말이야.」"
 
 [[dialogue]]
-speaker = "リノ"
+speaker_original = "リノ"
+speaker_translation = "리노"
 original = "「あ、そうだナミエルちゃん。せっかくだし息子に朝食でも作ってあげて？」"
 translation = "「아, 맞다 나미엘 짱. 기왕이면 아들에게 아침이라도 만들어 줄래?」"
 
 [[dialogue]]
-speaker = "ナミエル"
+speaker_original = "ナミエル"
+speaker_translation = "나미엘"
 original = "「朝食、ですか？\u3000でも私、料理は──……」"
 translation = "「아침 식사 말입니까? 하지만 저 요리는──……」"
 
@@ -104,32 +122,38 @@ original = "ナミエルが──料理！？"
 translation = "나미엘이── 요리를!?"
 
 [[dialogue]]
-speaker = "ナミエル"
+speaker_original = "ナミエル"
+speaker_translation = "나미엘"
 original = "「……ふふ。何故そこで飛び起きるんです？\u3000よほど私の料理を食べたくないようですね？」"
 translation = "「……후후. 왜 거기서 벌떡 일어나는 거죠? 그렇게나 제 요리를 먹기 싫은 모양이군요?」"
 
 [[dialogue]]
-speaker = "ナミエル"
+speaker_original = "ナミエル"
+speaker_translation = "나미엘"
 original = "「わかりました。作ってあげます。そこまで舐められては星見家メイド隊の沽券に関わりますから」"
 translation = "「알겠습니다. 만들어 드리죠. 그렇게까지 얕보여서는 호시미 가문 메이드대의 체면이 안 서니까요.」"
 
 [[dialogue]]
-speaker = "ナミエル"
+speaker_original = "ナミエル"
+speaker_translation = "나미엘"
 original = "「これでも日々努力と鍛錬を続けているんです。上達した料理の腕を今ここで披露してあげますよ」"
 translation = "「이래 봬도 나날이 노력과 단련을 계속하고 있습니다. 향상된 요리 솜씨를 지금 여기서 보여드리죠.」"
 
 [[dialogue]]
-speaker = "ナミエル"
+speaker_original = "ナミエル"
+speaker_translation = "나미엘"
 original = "「出来上がりました。どうぞお召し上がりください」"
 translation = "「다 됐습니다. 드셔보십시오.」"
 
 [[dialogue]]
-speaker = "リノ"
+speaker_original = "リノ"
+speaker_translation = "리노"
 original = "「へー、ひじきの炒め物かしら」"
 translation = "「헤에, 휫나물 볶음인가?」"
 
 [[dialogue]]
-speaker = "ナミエル"
+speaker_original = "ナミエル"
+speaker_translation = "나미엘"
 original = "「……卵焼きです……」"
 translation = "「……계란말이입니다……」"
 
@@ -139,32 +163,38 @@ original = "いただきます"
 translation = "잘 먹겠습니다"
 
 [[dialogue]]
-speaker = "ナミエル"
+speaker_original = "ナミエル"
+speaker_translation = "나미엘"
 original = "「あっ。無理して食べなくともっ……。失敗したのはわかっていますからっ……」"
 translation = "「앗. 무리해서 먹지 않아도……! 실패한 건 알고 있으니까요……!」"
 
 [[dialogue]]
-speaker = "ナミエル"
+speaker_original = "ナミエル"
+speaker_translation = "나미엘"
 original = "「汗も噴き出しておりますし、顔まで青くなってますよっ……。は、早く吐き出してくださいっ……！」"
 translation = "「식은땀도 쏟아지고 있고 얼굴까지 파랗게 질렸다고요……! 어, 어서 뱉어내세요……!」"
 
 [[dialogue]]
-speaker = "リノ"
+speaker_original = "リノ"
+speaker_translation = "리노"
 original = "「ふふ、大丈夫大丈夫。無理して食べてるわけじゃないわ」"
 translation = "「후후, 괜찮아 괜찮아. 무리해서 먹는 게 아니야.」"
 
 [[dialogue]]
-speaker = "リノ"
+speaker_original = "リノ"
+speaker_translation = "리노"
 original = "「可愛い彼女の手料理だもの。むしろ嬉しくて仕方ないんじゃないかしら」"
 translation = "「귀여운 여자친구의 손맛인걸. 오히려 기뻐서 어쩔 줄 모르는 거 아닐까.」"
 
 [[dialogue]]
-speaker = "ナミエル"
+speaker_original = "ナミエル"
+speaker_translation = "나미엘"
 original = "「で、ですが先程は飛び起きてしまうほど嫌がってるご様子でしたし……」"
 translation = "「하, 하지만 아까는 벌떡 일어날 정도로 싫어하는 기색이었고……」"
 
 [[dialogue]]
-speaker = "リノ"
+speaker_original = "リノ"
+speaker_translation = "리노"
 original = "「照れ隠しよ♪\u3000ね？」"
 translation = "「쑥스러워서 그러는 거야♪ 그치?」"
 
@@ -174,17 +204,20 @@ original = "前よりも確実に上達してるよ"
 translation = "전보다 확실히 실력이 늘었어"
 
 [[dialogue]]
-speaker = "ナミエル"
+speaker_original = "ナミエル"
+speaker_translation = "나미엘"
 original = "「本当……ですか？\u3000それなら嬉しい、ですけど……」"
 translation = "「정말…… 인가요? 그렇다면 기쁘긴 하지만……」"
 
 [[dialogue]]
-speaker = "ナミエル"
+speaker_original = "ナミエル"
+speaker_translation = "나미엘"
 original = "「一応、その。アレンジもしてみたんです。疲労が溜まっておられるようでしたので、元気を出していただければと……」"
 translation = "「일단 그, 어레인지도 해봤거든요. 피로가 쌓이신 것 같아서 기운을 차리셨으면 해서……」"
 
 [[dialogue]]
-speaker = "ナミエル"
+speaker_original = "ナミエル"
+speaker_translation = "나미엘"
 original = "「卵の中にレバーとカツオとイチゴを混ぜてみて……。鉄分とタンパク質とビタミンを摂取できるように手を加えてみたのですが……」"
 translation = "「계란 안에 간이랑 가다랑어랑 딸기를 섞어보고…… 철분과 단백질과 비타민을 섭취할 수 있도록 손을 써봤는데……」"
 
@@ -194,62 +227,74 @@ original = "その優しさだけで美味しく感じるよ"
 translation = "그 상냥함만으로 맛있게 느껴져"
 
 [[dialogue]]
-speaker = "ナミエル"
+speaker_original = "ナミエル"
+speaker_translation = "나미엘"
 original = "「っっ。や、やっぱり不味かったんですねっ。格好付けて食べなくても良かったのに……」"
 translation = "「윽. 여, 역시 맛없었던 거군요. 폼 잡고 먹지 않아도 됐는데……」"
 
 [[dialogue]]
-speaker = "リノ"
+speaker_original = "リノ"
+speaker_translation = "리노"
 original = "「それだけナミエルちゃんのことが好きなのよ♪\u3000ふふふ、彼女とラブラブみたいで私も安心だわ♪」"
 translation = "「그만큼 나미엘 짱을 좋아한다는 거야♪ 후후후, 여자친구랑 꽁냥거리는 것 같아서 나도 안심이네♪」"
 
 [[dialogue]]
-speaker = "リノ"
+speaker_original = "リノ"
+speaker_translation = "리노"
 original = "「ま、息子のことなら安心しなさい。私の微妙な味付けの料理も美味しい美味しいって食べてくれる子だもの。未来のお嫁さんの手料理を不味いなんて思うわけがないわ」"
 translation = "「뭐, 아들 일이라면 안심하렴. 내 미묘한 간의 요리도 맛있게 먹어주는 아이니까. 미래의 신부의 손맛을 맛없다고 생각할 리가 없잖니.」"
 
 [[dialogue]]
-speaker = "ナミエル"
+speaker_original = "ナミエル"
+speaker_translation = "나미엘"
 original = "「未来のお嫁さ──冷やかさないでくださいっ。気が早いですからっ」"
 translation = "「미래의 신부라니── 놀리지 마세요. 너무 성급하시니까요.」"
 
 [[dialogue]]
-speaker = "リノ"
+speaker_original = "リノ"
+speaker_translation = "리노"
 original = "「あら。気が早いってことは、いつかはこの子のお嫁さんになってくれるつもりはあるのね？」"
 translation = "「어라. 성급하다는 건 언젠가는 이 아이의 신부가 되어줄 생각은 있다는 거네?」"
 
 [[dialogue]]
-speaker = "ナミエル"
+speaker_original = "ナミエル"
+speaker_translation = "나미엘"
 original = "「あっ──～～っっ。い、今のは言葉の綾というもので……！」"
 translation = "「앗── ~~~~! 지, 지금 건 말실수라고나 할까……!」"
 
 [[dialogue]]
-speaker = "リノ"
+speaker_original = "リノ"
+speaker_translation = "리노"
 original = "「よーし、それなら私も一肌脱いじゃおうかしら。未来の<ruby>義娘<rt>むすめ</rt></ruby>に母の味ってものを伝授してあげる♪」"
 translation = "「좋아, 그럼 나도 한 팔 걷어붙여 볼까. 미래의 딸에게 엄마의 손맛이라는 걸 전수해 줄게♪」"
 
 [[dialogue]]
-speaker = "リノ"
+speaker_original = "リノ"
+speaker_translation = "리노"
 original = "「ナミエルちゃんとは料理に対する考え方も似てるみたいだし。味はともかく栄養だけは満点の料理を教えてあげられるわよ？」"
 translation = "「나미엘 짱과는 요리에 대한 생각도 비슷한 것 같고. 맛은 어쨌든 영양만은 만점인 요리를 가르쳐 줄 수 있어.」"
 
 [[dialogue]]
-speaker = "ナミエル"
+speaker_original = "ナミエル"
+speaker_translation = "나미엘"
 original = "「で、ですから冷やかさないでくださいってば。娘扱いしていただいても困ります」"
 translation = "「그, 그러니까 놀리지 마시라니까요. 딸 취급하셔도 곤란합니다.」"
 
 [[dialogue]]
-speaker = "ナミエル"
+speaker_original = "ナミエル"
+speaker_translation = "나미엘"
 original = "「ですが、その……」"
 translation = "「하지만 그……」"
 
 [[dialogue]]
-speaker = "ナミエル"
+speaker_original = "ナミエル"
+speaker_translation = "나미엘"
 original = "「リノさまさえよろしければ……伝授していただけると嬉しいです」"
 translation = "「리노 님만 괜찮으시다면…… 전수해 주시면 기쁘겠습니다.」"
 
 [[dialogue]]
-speaker = "ナミエル"
+speaker_original = "ナミエル"
+speaker_translation = "나미엘"
 original = "「私も健気な彼氏さんに、美味しいと言ってもらえる料理を作ってあげたいですから……」"
 translation = "「저도 기특한 남자친구에게 맛있다는 말을 들을 수 있는 요리를 만들어 주고 싶으니까요……」"
 

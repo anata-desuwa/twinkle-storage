@@ -4,12 +4,14 @@ original = "第２話,ルリエルの故郷,P"
 translation = "제2화, 루리엘의 고향"
 
 [[dialogue]]
-speaker = "ルリエル"
+speaker_original = "ルリエル"
+speaker_translation = "루리엘"
 original = "「あ、新星の会長さん、こんにちは！\u3000お散歩ですかぁ？」"
 translation = "「아, 신성의 회장님, 안녕하세요! 산책 중이신가요?」"
 
 [[dialogue]]
-speaker = "ルリエル"
+speaker_original = "ルリエル"
+speaker_translation = "루리엘"
 original = "「わたしはこの近くにニンジョウヤキなるお菓子があると聞いてやってきたのですが……」"
 translation = "「저는 이 근처에 닌죠야키라는 과자가 있다고 해서 찾아왔는데……」"
 
@@ -19,57 +21,68 @@ original = "ニンジョウヤキじゃなくて人形焼き"
 translation = "닌죠야키가 아니라 닝교야키(인형 굽기)"
 
 [[dialogue]]
-speaker = "ルリエル"
+speaker_original = "ルリエル"
+speaker_translation = "루리엘"
 original = "「そうなんですねっ、失礼しました～」"
 translation = "「그렇군요, 실례했습니다~」"
 
 [[dialogue]]
-speaker = "ルリエル"
+speaker_original = "ルリエル"
+speaker_translation = "루리엘"
 original = "「え？\u3000でもお人形焼いちゃうのですか？\u3000かわいいお人形を鉄板の上でジュージューと……あぁっ、そんなことしたら黒焦げになっちゃいますぅっ」"
 translation = "「에? 하지만 인형을 구워버리는 건가요? 귀여운 인형을 철판 위에서 지글지글…… 아앗, 그런 짓을 하면 새카맣게 타버릴 거예요!」"
 
 [[dialogue]]
-speaker = "ルリエル"
+speaker_original = "ルリエル"
+speaker_translation = "루리엘"
 original = "「……顔の形をした型に生地を入れて焼いたお菓子？\u3000なんだ～、そういうことなんですね」"
 translation = "「……얼굴 모양을 한 틀에 반죽을 넣어 구운 과자? 뭐야~ 그런 거였군요」"
 
 [[dialogue]]
-speaker = "ルリエル"
+speaker_original = "ルリエル"
+speaker_translation = "루리엘"
 original = "「でも顔の形って、それはそれで怖いような……見てみればわかる？」"
 translation = "「하지만 얼굴 모양이라니, 그건 그것대로 무서운 것 같기도…… 직접 보면 알 수 있다고요?」"
 
 [[dialogue]]
-speaker = "ルリエル"
+speaker_original = "ルリエル"
+speaker_translation = "루리엘"
 original = "「そうですねっ。じゃあ会長さん、さっそく人形焼きを食べに行きましょ～っ！」"
 translation = "「그렇네요! 그럼 회장님, 얼른 인형 굽기 과자를 먹으러 가요!」"
 
 [[dialogue]]
-speaker = "ルリエル"
+speaker_original = "ルリエル"
+speaker_translation = "루리엘"
 original = "「あっ、あのお店でしょうか。なるほどなるほどぉ～……こんな見た目なのですね。想像してたのと違いました」"
 translation = "「앗, 저 가게일까요. 과연 과연~…… 이런 모습이군요. 상상했던 거랑은 달랐어요」"
 
 [[dialogue]]
-speaker = "ルリエル"
+speaker_original = "ルリエル"
+speaker_translation = "루리엘"
 original = "「こしあんに白あん、カスタード……ほぇ～、いろいろあるのですねー。どれもおいしそうなのです」"
 translation = "「팥소에 흰 앙금, 커스터드…… 호에~ 여러 가지가 있네요. 어느 것이든 맛있어 보여요」"
 
 [[dialogue]]
-speaker = "ルリエル"
+speaker_original = "ルリエル"
+speaker_translation = "루리엘"
 original = "「会長さんはカスタードですか？\u3000じゃあわたしは普通のあんこにしますのです。おじさーんっ、人形焼くださーい」"
 translation = "「회장님은 커스터드인가요? 그럼 저는 평범한 팥으로 할게요. 아저씨~ 인형 굽기 과자 주세요!」"
 
 [[dialogue]]
-speaker = "おじさん"
+speaker_original = "おじさん"
+speaker_translation = "아저씨"
 original = "「はいよ。今焼けたところだよ」"
 translation = "「그래. 막 구워진 참이란다」"
 
 [[dialogue]]
-speaker = "ルリエル"
+speaker_original = "ルリエル"
+speaker_translation = "루리엘"
 original = "「ありがとうございまーっす！\u3000ふっふん、焼きたてをもらってしまいましたぁ～。あったかくておいしそう……はむっ」"
 translation = "「감사합니~다! 훗훙, 갓 구운 걸 받아버렸어요~. 따끈따끈해서 맛있어 보여…… 하암」"
 
 [[dialogue]]
-speaker = "ルリエル"
+speaker_original = "ルリエル"
+speaker_translation = "루리엘"
 original = "「ん～っ、とっても甘くておいしいのですっ！\u3000会長さんもあんこの食べますか？\u3000はい、どうぞ！」"
 translation = "「음~ 정말 달콤하고 맛있어요! 회장님도 팥 앙금 드셔볼래요? 자, 여기요!」"
 
@@ -79,57 +92,68 @@ original = "ありがとう"
 translation = "고마워"
 
 [[dialogue]]
-speaker = "ルリエル"
+speaker_original = "ルリエル"
+speaker_translation = "루리엘"
 original = "「おいしいですか？\u3000……ですよねですよねっ！」"
 translation = "「맛있나요? ……그쵸 그쵸!」"
 
 [[dialogue]]
-speaker = "ルリエル"
+speaker_original = "ルリエル"
+speaker_translation = "루리엘"
 original = "「というわけでカスタードの人形焼きもくださいっ。……いいんですか？\u3000ありがとうございますっ。あ～んっ」"
 translation = "「그런 의미에서 커스터드 인형 굽기 과자도 주세요! ……괜찮나요? 감사합니다! 아~앙」"
 
 [[dialogue]]
-speaker = "ルリエル"
+speaker_original = "ルリエル"
+speaker_translation = "루리엘"
 original = "「カスタードの人形焼きもおいしい～……。でも塔とかハトとか、人の顔以外の形もあるのですねぇ」"
 translation = "「커스터드 인형 굽기 과자도 맛있어~…… 하지만 탑이나 비둘기 등, 사람 얼굴 이외의 모양도 있네요」"
 
 [[dialogue]]
-speaker = "ルリエル"
+speaker_original = "ルリエル"
+speaker_translation = "루리엘"
 original = "「昔は名所焼きと呼ばれていたこともあったと……ふむふむ、なるほどです……」"
 translation = "「옛날에는 명소 굽기라고 불렸던 적도 있다고…… 흠흠, 그렇군요……」"
 
 [[dialogue]]
-speaker = "ルリエル"
+speaker_original = "ルリエル"
+speaker_translation = "루리엘"
 original = "「はぁ～……おいしいものがたくさんあるし、楽しいこといっぱいですし、人間界に来てよかったですぅ」"
 translation = "「하아~…… 맛있는 것도 많고, 즐거운 일도 가득하고, 인간계에 오길 잘했어요」"
 
 [[dialogue]]
-speaker = "ルリエル"
+speaker_original = "ルリエル"
+speaker_translation = "루리엘"
 original = "「え、わたしの故郷ですか？\u3000そうですね～、天界のフィリスティアというところなんですけど……」"
 translation = "「에, 제 고향 말인가요? 그렇네요~ 천계의 필리스티아라는 곳인데요……」"
 
 [[dialogue]]
-speaker = "ルリエル"
+speaker_original = "ルリエル"
+speaker_translation = "루리엘"
 original = "「フィリスティアは田舎で、見渡す限り綺麗なお花畑で……それ以外本当に何もないところでした」"
 translation = "「필리스티아는 시골이라, 보이는 곳마다 예쁜 꽃밭이고…… 그 외엔 정말 아무것도 없는 곳이었어요」"
 
 [[dialogue]]
-speaker = "ルリエル"
+speaker_original = "ルリエル"
+speaker_translation = "루리엘"
 original = "「天界でもウルって街はけっこう都会らしいんですけど、わたしは行ったことないです」"
 translation = "「천계에서도 우르라는 거리는 꽤 도시라고 하던데, 저는 가본 적 없어요」"
 
 [[dialogue]]
-speaker = "ルリエル"
+speaker_original = "ルリエル"
+speaker_translation = "루리엘"
 original = "「近辺だと子どもがわたしだけだったので、じっちゃんばっちゃんたちにすごくかわいがられていました」"
 translation = "「근처에 아이가 저뿐이라서, 할배 할매들이 엄청 예뻐해 주셨거든요」"
 
 [[dialogue]]
-speaker = "ルリエル"
+speaker_original = "ルリエル"
+speaker_translation = "루리엘"
 original = "「ああ、じっちゃんばっちゃんって言っても、実の祖父や祖母じゃなくて、周りのお年寄りの天使なんですけど」"
 translation = "「아아, 할배 할매라고 해도 친조부모님이 아니라, 주변의 어르신 천사분들이지만요」"
 
 [[dialogue]]
-speaker = "ルリエル"
+speaker_original = "ルリエル"
+speaker_translation = "루리엘"
 original = "「わたしが星騎士になるって決まった時は大騒ぎで、連日お祝いムードだったのです」"
 translation = "「제가 성기사가 되기로 정해졌을 때는 난리가 나서, 연일 축제 분위기였답니다」"
 
@@ -139,32 +163,38 @@ original = "みんなの人気者だ"
 translation = "모두의 인기인이네"
 
 [[dialogue]]
-speaker = "ルリエル"
+speaker_original = "ルリエル"
+speaker_translation = "루리엘"
 original = "「いや～、そう言われると照れてしまいますぅ」"
 translation = "「에헤헤~ 그렇게 말씀하시니 쑥스럽네요」"
 
 [[dialogue]]
-speaker = "ルリエル"
+speaker_original = "ルリエル"
+speaker_translation = "루리엘"
 original = "「でも大変なこともあったのです。天使として恥ずかしくないようにって、いろいろ礼儀とかマナーとかを教え込まれたのです」"
 translation = "「하지만 힘든 일도 있었어요. 천사로서 부끄럽지 않도록, 여러 가지 예의나 매너 같은 걸 주입받았거든요」"
 
 [[dialogue]]
-speaker = "ルリエル"
+speaker_original = "ルリエル"
+speaker_translation = "루리엘"
 original = "「天界と人間界を繋ぐ柱になれって言われて、天使らしく高潔に、清貧に、勤勉に……って。でもそのおかげで立派な天使になれましたぁっ」"
 translation = "「천계와 인간계를 잇는 기둥이 되라는 말을 듣고, 천사답게 고결하게, 청빈하게, 근면하게……라고요. 하지만 그 덕분에 훌륭한 천사가 되었답니다!」"
 
 [[dialogue]]
-speaker = "ルリエル"
+speaker_original = "ルリエル"
+speaker_translation = "루리엘"
 original = "「え、今食べてる人形焼きはって……？\u3000これは文化交流なのですっ。天使として、フィリスティアの代表として、人間界の勉強をしているのですっ」"
 translation = "「에, 지금 먹고 있는 인형 굽기 과자는 뭐냐고요? 이건 문화 교류예요! 천사로서, 필리스티아의 대표로서 인간계를 공부하고 있는 거랍니다!」"
 
 [[dialogue]]
-speaker = "ルリエル"
+speaker_original = "ルリエル"
+speaker_translation = "루리엘"
 original = "「むぅ～、若いんですから、ちょっとぐらい遊んでもいいじゃないですかぁ」"
 translation = "「무우~ 젊으니까 좀 정도는 놀아도 괜찮잖아요」"
 
 [[dialogue]]
-speaker = "ルリエル"
+speaker_original = "ルリエル"
+speaker_translation = "루리엘"
 original = "「楽しいことが多すぎる人間界がいけないんですぅ。こっちに来たら、じっちゃんばっちゃんだって大はしゃぎするに決まってますぅ～」"
 translation = "「즐거운 게 너무 많은 인간계가 나쁜 거예요. 여기 오면 할배 할매들도 분명 엄청 신나 하실 거라고요~」"
 
@@ -174,22 +204,26 @@ original = "それはそうかも"
 translation = "그건 그럴지도"
 
 [[dialogue]]
-speaker = "ルリエル"
+speaker_original = "ルリエル"
+speaker_translation = "루리엘"
 original = "「ですよねですよね～」"
 translation = "「그쵸 그쵸~」"
 
 [[dialogue]]
-speaker = "おじさん"
+speaker_original = "おじさん"
+speaker_translation = "아저씨"
 original = "「ははは、天使さんにそんなに気に入ってもらえたら嬉しいねぇ。そうだ、この辺には人形焼き以外にも有名なお菓子があってね……」"
 translation = "「하하하, 천사님이 그렇게 마음에 들어 해주니 기쁘구먼. 맞다, 이 근처에는 인형 굽기 말고도 유명한 과자가 있는데……」"
 
 [[dialogue]]
-speaker = "ルリエル"
+speaker_original = "ルリエル"
+speaker_translation = "루리엘"
 original = "「ふむふむ、ほぉほぉ……雷おこしですか。雷っていうくらいだからバチバチするんでしょうか？\u3000気になりますっ」"
 translation = "「흠흠, 호오호오…… 카미나리오코시인가요. 번개라는 이름이 붙었으니 파지지직 하는 걸까요? 궁금해요!」"
 
 [[dialogue]]
-speaker = "ルリエル"
+speaker_original = "ルリエル"
+speaker_translation = "루리엘"
 original = "「人間界のお菓子なら雷おこしも絶対おいしいに違いありません。会長さん、雷おこしを探しに行きましょう！」"
 translation = "「인간계의 과자라면 카미나리오코시도 분명 맛있을 게 틀림없어요. 회장님, 카미나리오코시를 찾으러 가요!」"
 

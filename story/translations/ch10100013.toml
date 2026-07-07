@@ -4,67 +4,80 @@ original = "第３話,お悩み相談守護天使,P"
 translation = "제3화, 고민 상담 수호천사, P"
 
 [[dialogue]]
-speaker = "マグダレナ"
+speaker_original = "マグダレナ"
+speaker_translation = "막달레나"
 original = "「お悩みがありましたらどうぞ」"
 translation = "「고민이 있다면 말씀하세요.」"
 
 [[dialogue]]
-speaker = "モネ"
+speaker_original = "モネ"
+speaker_translation = "모네"
 original = "「はい……この前友達におすすめの小説を聞かれたんですが、つい熱く語りすぎてしまって……やっぱりいいと言われてしまいました」"
 translation = "「네…… 요전에 친구에게 추천 소설을 물어보길래, 그만 너무 열띠게 이야기해 버려서…… 역시 됐다는 소리를 들었어요.」"
 
 [[dialogue]]
-speaker = "モネ"
+speaker_original = "モネ"
+speaker_translation = "모네"
 original = "「読んで後悔しないように、ネタバレにならない範囲で魅力を説明しようとしたんですけどうまくいかなくて……どうすれば良かったんでしょうか？」"
 translation = "「읽고 후회하지 않도록, 스포일러가 되지 않는 범위 내에서 매력을 설명하려고 했는데 잘 안 돼서…… 어떻게 하면 좋았을까요?」"
 
 [[dialogue]]
-speaker = "マグダレナ"
+speaker_original = "マグダレナ"
+speaker_translation = "막달레나"
 original = "「大丈夫ですよ。書を愛することは良いことです。時に空回りすることもあるかもしれませんが、愛を忘れないでください」"
 translation = "「괜찮아요. 책을 사랑하는 것은 좋은 일입니다. 때로는 헛돌 때도 있겠지만, 사랑을 잊지 마세요.」"
 
 [[dialogue]]
-speaker = "モネ"
+speaker_original = "モネ"
+speaker_translation = "모네"
 original = "「ありがとうございます～っ」"
 translation = "「감사합니다~앗」"
 
 [[dialogue]]
-speaker = "マトイ"
+speaker_original = "マトイ"
+speaker_translation = "마토이"
 original = "「私って特に取り柄がなくて……やっぱり特技とかあった方がいいんでしょうか？」"
 translation = "「저는 딱히 장점이 없어서…… 역시 특기 같은 게 있는 편이 좋을까요?」"
 
 [[dialogue]]
-speaker = "マグダレナ"
+speaker_original = "マグダレナ"
+speaker_translation = "막달레나"
 original = "「いいえ、そのままでもマトイさまは素敵な方ですよ。少なくとも私はそう思います」"
 translation = "「아니요, 그대로도 마토이 님은 멋진 분이에요. 적어도 저는 그렇게 생각합니다.」"
 
 [[dialogue]]
-speaker = "マトイ"
+speaker_original = "マトイ"
+speaker_translation = "마토이"
 original = "「マグダレナさん……ありがとうございます！」"
 translation = "「막달레나 씨…… 감사합니다!」"
 
 [[dialogue]]
-speaker = "サーシャ"
+speaker_original = "サーシャ"
+speaker_translation = "사샤"
 original = "「あらら、マトイちゃんまで……いつの間にか大人気ね」"
 translation = "「어라라, 마토이 짱까지…… 어느새 대인기네.」"
 
 [[dialogue]]
-speaker = "サーシャ"
+speaker_original = "サーシャ"
+speaker_translation = "사샤"
 original = "「……雰囲気で流されて、解決しているとは限らないみたいだけど」"
 translation = "「……분위기에 휩쓸려서, 해결됐다고는 볼 수 없을 것 같지만.」"
 
 [[dialogue]]
-speaker = "トワ先生"
+speaker_original = "トワ先生"
+speaker_translation = "토와 선생님"
 original = "「最近の若者の流行りがわからなくて……」"
 translation = "「요즘 젊은이들의 유행을 잘 몰라서……」"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「トワちゃんも……。それマグダレナに聞いてどうするのよ」"
 translation = "「토와 짱도……. 그걸 막달레나에게 물어봐서 어쩌려고.」"
 
 [[dialogue]]
-speaker = "マグダレナ"
+speaker_original = "マグダレナ"
+speaker_translation = "막달레나"
 original = "「あら……気付いたらもうこんな時間。長く話し過ぎてしまったかもしれませんね」"
 translation = "「어라…… 정신 차려보니 벌써 이런 시간. 너무 길게 이야기해 버렸을지도 모르겠네요.」"
 
@@ -74,12 +87,14 @@ original = "お疲れ様です"
 translation = "수고하셨습니다."
 
 [[dialogue]]
-speaker = "マグダレナ"
+speaker_original = "マグダレナ"
+speaker_translation = "막달레나"
 original = "「いえいえ、私などがみなさまのお役に立てるなら嬉しいです。あなたも何か悩まれていることはありませんか？」"
 translation = "「아니요 아니요, 저 같은 사람이 여러분께 도움이 된다면 기쁩니다. 당신도 뭔가 고민하고 있는 건 없나요?」"
 
 [[dialogue]]
-speaker = "マグダレナ"
+speaker_original = "マグダレナ"
+speaker_translation = "막달레나"
 original = "「……今のところは大丈夫？\u3000わかりました。もし何かあればお気軽にご相談くださいね」"
 translation = "「……지금은 괜찮나요? 알겠습니다. 혹시 무슨 일이 있다면 언제든 상담해 주세요.」"
 
@@ -89,12 +104,14 @@ original = "ありがとうございます"
 translation = "감사합니다."
 
 [[dialogue]]
-speaker = "マグダレナ"
+speaker_original = "マグダレナ"
+speaker_translation = "막달레나"
 original = "「ふふふ、良い表情です」"
 translation = "「후후후, 좋은 표정입니다.」"
 
 [[dialogue]]
-speaker = "マグダレナ"
+speaker_original = "マグダレナ"
+speaker_translation = "막달레나"
 original = "「しかしみなさまのお悩みを聞いていて感じます。世界には様々な“領域”があるのだなと」"
 translation = "「하지만 여러분의 고민을 듣고 있으니 느껴집니다. 세계에는 다양한 “영역”이 있구나 하고요.」"
 
@@ -104,47 +121,56 @@ original = "様々な領域？"
 translation = "다양한 영역?"
 
 [[dialogue]]
-speaker = "マグダレナ"
+speaker_original = "マグダレナ"
+speaker_translation = "막달레나"
 original = "「はい。友達、家族、学校……この世界はさまざまの領域が存在し、そしてそれらが重なりあっています」"
 translation = "「네. 친구, 가족, 학교…… 이 세계는 다양한 영역이 존재하고, 그리고 그것들이 겹쳐져 있습니다.」"
 
 [[dialogue]]
-speaker = "マグダレナ"
+speaker_original = "マグダレナ"
+speaker_translation = "막달레나"
 original = "「ここにも新星学園と流星学園という境界があり、それぞれの学び舎に生徒がいます。それぞれの生徒に家族があり、友人がいて、部活動や委員会もあります」"
 translation = "「여기에도 신성학원과 유성 학원이라는 경계가 있고, 각각의 배움터에 학생이 있습니다. 각각의 학생에게 가족이 있고, 친구가 있고, 동아리 활동이나 위원회도 있죠.」"
 
 [[dialogue]]
-speaker = "マグダレナ"
+speaker_original = "マグダレナ"
+speaker_translation = "막달레나"
 original = "「例えばあなたは新星学園の生徒であり、その中に学年やクラスがあり、星徒会役員でもあり、緋宮という家の一員でもあります」"
 translation = "「예를 들어 당신은 신성학원의 학생이며, 그 안에 학년과 반이 있고, 성도회 임원이기도 하며, 히노미야라는 가문의 일원이기도 합니다.」"
 
 [[dialogue]]
-speaker = "マグダレナ"
+speaker_original = "マグダレナ"
+speaker_translation = "막달레나"
 original = "「１人の人間でありながら複数の領域を持ち、それぞれに繋がる人と場所があります」"
 translation = "「한 사람의 인간이면서 복수의 영역을 가지고, 각각에 연결되는 사람과 장소가 있습니다.」"
 
 [[dialogue]]
-speaker = "マグダレナ"
+speaker_original = "マグダレナ"
+speaker_translation = "막달레나"
 original = "「守護天使、《境界》のマグダレナが守っていたのは、天界・人間界・魔界という大きな領域です」"
 translation = "「수호천사, 《경계》의 막달레나가 지키고 있던 것은 천계·인간계·마계라는 커다란 영역입니다.」"
 
 [[dialogue]]
-speaker = "マグダレナ"
+speaker_original = "マグダレナ"
+speaker_translation = "막달레나"
 original = "「それに比べて小さな……と言ってしまうと語弊がありますが、それぞれの領域が存在することが興味深く思えるのです」"
 translation = "「그에 비하면 작은…… 이라고 해버리면 어패가 있습니다만, 각각의 영역이 존재하는 것이 흥미롭게 느껴집니다.」"
 
 [[dialogue]]
-speaker = "マグダレナ"
+speaker_original = "マグダレナ"
+speaker_translation = "막달레나"
 original = "「ふふふ……難しそうな顔をされていますね。きっと会長さまには当然のことなのでしょうけど、私には新鮮な発見だったのです」"
 translation = "「후후후…… 어려운 표정을 짓고 계시네요. 분명 회장님께는 당연한 일이겠지만, 저에게는 신선한 발견이었답니다.」"
 
 [[dialogue]]
-speaker = "マグダレナ"
+speaker_original = "マグダレナ"
+speaker_translation = "막달레나"
 original = "「こうして肉体を得なければ気付かなかったでしょう。領域を司る守護天使なのに勉強不足でした」"
 translation = "「이렇게 육체를 얻지 않았다면 깨닫지 못했겠죠. 영역을 관장하는 수호천사인데 공부 부족이었습니다.」"
 
 [[dialogue]]
-speaker = "マグダレナ"
+speaker_original = "マグダレナ"
+speaker_translation = "막달레나"
 original = "「……あ」"
 translation = "「……아.」"
 
@@ -154,42 +180,50 @@ original = "どうぞ"
 translation = "말씀하세요."
 
 [[dialogue]]
-speaker = "マグダレナ"
+speaker_original = "マグダレナ"
+speaker_translation = "막달레나"
 original = "「実は……教皇庁の方にこの機械をいただいたのは良いのですが、使い方がわからず。アルモタヘルが何度かメッセージを送ってきているのですけど、それも見られなくて」"
 translation = "「사실…… 교황청 분들께 이 기계를 받은 것까지는 좋았는데, 사용법을 몰라서요. 아르모타헬이 몇 번인가 메시지를 보내오고 있습니다만, 그것도 볼 수가 없어서.」"
 
 [[dialogue]]
-speaker = "マグダレナ"
+speaker_original = "マグダレナ"
+speaker_translation = "막달레나"
 original = "「良ければ使い方を教えていただけないでしょうか？\u3000……ありがとうございます」"
 translation = "「괜찮다면 사용법을 가르쳐 주실 수 있을까요? ……감사합니다.」"
 
 [[dialogue]]
-speaker = "マグダレナ"
+speaker_original = "マグダレナ"
+speaker_translation = "막달레나"
 original = "「……たっぷ？\u3000すらいど？\u3000ここを触れば……？\u3000あっ」"
 translation = "「……태애프? 슬라이드으? 여기를 만지면……? 앗.」"
 
 [[dialogue]]
-speaker = "マグダレナ"
+speaker_original = "マグダレナ"
+speaker_translation = "막달레나"
 original = "「あれ？\u3000画面が……変わりましたね。私は今何を押したのでしょうか……？\u3000あ、電話が繋がっているようです」"
 translation = "「어레? 화면이…… 바뀌었네요. 저는 지금 무엇을 누른 걸까요……? 아, 전화가 연결된 모양입니다.」"
 
 [[dialogue]]
-speaker = "マグダレナ"
+speaker_original = "マグダレナ"
+speaker_translation = "막달레나"
 original = "「もしもし～、アルモタヘル？\u3000今何かメッセージ送りました？\u3000いえ、特に用はないのですが、間違えて電話をかけてしまって」"
 translation = "「여보세요~, 아르모타헬? 지금 뭔가 메시지 보냈나요? 아니요, 딱히 용건은 없는데, 실수로 전화를 걸어버려서.」"
 
 [[dialogue]]
-speaker = "マグダレナ"
+speaker_original = "マグダレナ"
+speaker_translation = "막달레나"
 original = "「あ、怒って切られてしまいました。人の文明の発達は著しいですが、その分使いこなすのが難しいものですね……」"
 translation = "「아, 화내면서 끊어버렸네요. 인간 문명의 발달은 현저하지만, 그만큼 다루기가 어려운 법이네요……」"
 
 [[dialogue]]
-speaker = "マグダレナ"
+speaker_original = "マグダレナ"
+speaker_translation = "막달레나"
 original = "「同じ守護天使なのに、どうしてアルモタヘルはあんなに早く使いこなせるのでしょうか。不思議です」"
 translation = "「똑같은 수호천사인데, 어째서 아르모타헬은 저렇게 빨리 다루는 걸까요. 신기합니다.」"
 
 [[dialogue]]
-speaker = "マグダレナ"
+speaker_original = "マグダレナ"
+speaker_translation = "막달레나"
 original = "「しかし良い経験になりました。またわからないことがあれば、教えていただけると嬉しいです」"
 translation = "「하지만 좋은 경험이 되었습니다. 또 모르는 게 있으면, 가르쳐 주시면 기쁘겠어요.」"
 

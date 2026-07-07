@@ -1,75 +1,90 @@
 [[dialogue]]
-speaker = "エルデリーゼ"
+speaker_original = "エルデリーゼ"
+speaker_translation = "엘데리제"
 original = "（ラティエ学園長様の噂は以前より聞いていましたわ）"
 translation = "(라티에 학원장님의 소문은 이전부터 들었습니다)"
 
 [[dialogue]]
-speaker = "エルデリーゼ"
+speaker_original = "エルデリーゼ"
+speaker_translation = "엘데리제"
 original = "（その噂は決して良いものではありませんでした）"
 translation = "(그 소문은 결코 좋은 것이 아니었어요)"
 
 [[dialogue]]
-speaker = "エルデリーゼ"
+speaker_original = "エルデリーゼ"
+speaker_translation = "엘데리제"
 original = "（学園長でありながらその職務を投げ出して世界各地を旅していて、そのしわ寄せをフィオナ会長が受けている……）"
 translation = "(학원장이면서 직무를 던져버리고 세계 각지를 여행하며, 그 부담을 피오나 회장님이 떠안고 있다……)"
 
 [[dialogue]]
-speaker = "エルデリーゼ"
+speaker_original = "エルデリーゼ"
+speaker_translation = "엘데리제"
 original = "（いつかその人に会うことがあったら、その行動についてビシッと言ってやるつもりでしたわ）"
 translation = "(언젠가 그 사람을 만나게 되면 그 행동에 대해 따끔하게 말해줄 생각이었어요)"
 
 [[dialogue]]
-speaker = "エルデリーゼ"
+speaker_original = "エルデリーゼ"
+speaker_translation = "엘데리제"
 original = "（なのに……）"
 translation = "(그런데……)"
 
 [[dialogue]]
-speaker = "エルデリーゼ"
+speaker_original = "エルデリーゼ"
+speaker_translation = "엘데리제"
 original = "（不思議な方ですの……この人と話していると全部を忘れて話に引き込まれてしまう）"
 translation = "(신기한 분이에요…… 이 사람과 이야기하고 있으면 전부 잊어버리고 이야기에 빠져들게 돼요)"
 
 [[dialogue]]
-speaker = "エルデリーゼ"
+speaker_original = "エルデリーゼ"
+speaker_translation = "엘데리제"
 original = "（ユーモアがあって自然と楽しい気持ちにさせてくれる。余裕があって一緒にいると安心させてくれる）"
 translation = "(유머가 있어서 자연스럽게 즐거운 기분이 들게 해주고. 여유가 있어서 함께 있으면 안심시켜 줘요)"
 
 [[dialogue]]
-speaker = "エルデリーゼ"
+speaker_original = "エルデリーゼ"
+speaker_translation = "엘데리제"
 original = "（それに何より、彼女の語る世界は色鮮やかで……まさにこの人の生き方こそ、私が憧れていた自由な生き方──）"
 translation = "(그리고 무엇보다 그녀가 말하는 세계는 다채로워서…… 바로 이 사람의 삶이야말로 내가 동경하던 자유로운 삶──)"
 
 [[dialogue]]
-speaker = "エルデリーゼ"
+speaker_original = "エルデリーゼ"
+speaker_translation = "엘데리제"
 original = "（知りたいですわ。この人のことをもっと……一緒に旅をして、いろんな世界を見て──）"
 translation = "(알고 싶어요. 이 사람에 대해 더…… 함께 여행하며 여러 세계를 보고──)"
 
 [[dialogue]]
-speaker = "エルデリーゼ"
+speaker_original = "エルデリーゼ"
+speaker_translation = "엘데리제"
 original = "「私を旅に連れて行ってくださいませ！！」"
 translation = "「저를 여행에 데려가 주세요!!」"
 
 [[dialogue]]
-speaker = "ラティエ"
+speaker_original = "ラティエ"
+speaker_translation = "라티에"
 original = "「どうして、そんな事を言い始めたんだ？」"
 translation = "「어째서 그런 말을 하기 시작한 거지?」"
 
 [[dialogue]]
-speaker = "エルデリーゼ"
+speaker_original = "エルデリーゼ"
+speaker_translation = "엘데리제"
 original = "「突然で申し訳ありません。ですが学園長様のお話を聞いていて、あなたの生き方こそ私の目指す道だと気が付いたのですわ！」"
 translation = "「갑작스러워 죄송합니다. 하지만 학원장님의 말씀을 듣고, 당신의 삶이야말로 제가 지향하는 길이라는 걸 깨달았습니다!」"
 
 [[dialogue]]
-speaker = "エルデリーゼ"
+speaker_original = "エルデリーゼ"
+speaker_translation = "엘데리제"
 original = "「ですからお願いです。私を旅に連れて行ってくださいませっ！！」"
 translation = "「그러니 부탁드립니다. 저를 여행에 데려가 주세요!!」"
 
 [[dialogue]]
-speaker = "エスメラルダ"
+speaker_original = "エスメラルダ"
+speaker_translation = "에스메랄다"
 original = "『こ、これはまずい流れです！\u3000あの学園長に感化される人間を増やしてはいけません！\u3000すぐに止めてください！』"
 translation = "『이, 이건 좋지 않은 흐름이에요! 저 학원장에게 감화되는 인간을 늘려서는 안 돼요! 당장 멈추세요!』"
 
 [[dialogue]]
-speaker = "エスメラルダ"
+speaker_original = "エスメラルダ"
+speaker_translation = "에스메랄다"
 original = "『桜十路のお嬢様を悪の道に誘ったとあっては、学園の経営にも影響が出てしまいます』"
 translation = "『사쿠라코지의 아가씨를 악의 길로 유인했다고 하면 학원 경영에도 영향이 생긴다구요!』"
 
@@ -84,62 +99,74 @@ original = "（止めてくれって言われても）"
 translation = "(멈추라고 해도)"
 
 [[dialogue]]
-speaker = "ラティエ"
+speaker_original = "ラティエ"
+speaker_translation = "라티에"
 original = "「私としては、きみの様な可愛い同行者が出来るのは大歓迎だ」"
 translation = "「나로서는 자네 같은 귀여운 동행자가 생기는 건 대환영이라네」"
 
 [[dialogue]]
-speaker = "ラティエ"
+speaker_original = "ラティエ"
+speaker_translation = "라티에"
 original = "「だが、申し訳ない。その要望にはお応えできない」"
 translation = "「하지만 미안하군. 그 요청에는 응해줄 수 없어」"
 
 [[dialogue]]
-speaker = "エルデリーゼ"
+speaker_original = "エルデリーゼ"
+speaker_translation = "엘데리제"
 original = "「ど、どうしてですの！？」"
 translation = "「어, 어째서인가요!?」"
 
 [[dialogue]]
-speaker = "ラティエ"
+speaker_original = "ラティエ"
+speaker_translation = "라티에"
 original = "「きみを連れて行って欲しくない者がたくさんいるだろうからな」"
 translation = "「자네를 데려가는 걸 원치 않는 자들이 아주 많을 테니까」"
 
 [[dialogue]]
-speaker = "エルデリーゼ"
+speaker_original = "エルデリーゼ"
+speaker_translation = "엘데리제"
 original = "「っ……」"
 translation = "「윽……」"
 
 [[dialogue]]
-speaker = "ラティエ"
+speaker_original = "ラティエ"
+speaker_translation = "라티에"
 original = "「それにきみはとても若い。私の旅につき合わせて、危険な目に遭わせるわけにはいかないのだ」"
 translation = "「게다가 자네는 아주 젊어. 나의 여행에 동행시켜서 위험한 일을 겪게 할 수는 없거든」"
 
 [[dialogue]]
-speaker = "エルデリーゼ"
+speaker_original = "エルデリーゼ"
+speaker_translation = "엘데리제"
 original = "「実力不足、とおっしゃりたいのですね？」"
 translation = "「실력 부족이라고 말씀하시고 싶은 거군요?」"
 
 [[dialogue]]
-speaker = "ラティエ"
+speaker_original = "ラティエ"
+speaker_translation = "라티에"
 original = "「決してきみは未熟ではない。星騎士として既に十分な実力を備えている」"
 translation = "「결코 자네가 미숙하다는 건 아니야. 성기사로서 이미 충분한 실력을 갖추고 있지」"
 
 [[dialogue]]
-speaker = "ラティエ"
+speaker_original = "ラティエ"
+speaker_translation = "라티에"
 original = "「だが、そうだな……それでもやはり、私の旅に同行するには──強さが足りない」"
 translation = "「하지만, 그렇군…… 그래도 역시 나의 여행에 동행하기엔── 강함이 부족해」"
 
 [[dialogue]]
-speaker = "エルデリーゼ"
+speaker_original = "エルデリーゼ"
+speaker_translation = "엘데리제"
 original = "「……では、私が学園長様と共に旅する強さを備えていること、それを認めさせることが出来ればよいということですわね？」"
 translation = "「……그럼 제가 학원장님과 함께 여행할 강함을 갖췄다는 것, 그걸 인정하게 만들 수 있다면 된다는 거군요?」"
 
 [[dialogue]]
-speaker = "ラティエ"
+speaker_original = "ラティエ"
+speaker_translation = "라티에"
 original = "「認めさせることが出来れば、だがね……」"
 translation = "「인정하게 만들 수 있다면 말이네만……」"
 
 [[dialogue]]
-speaker = "エルデリーゼ"
+speaker_original = "エルデリーゼ"
+speaker_translation = "엘데리제"
 original = "「分かりましたわ……」"
 translation = "「알겠습니다……」"
 
@@ -154,17 +181,20 @@ original = "その瞳を見て、学園長にも本気の気配が漂う。"
 translation = "그 눈동자를 보며 학원장에게도 진지한 기운이 감돈다."
 
 [[dialogue]]
-speaker = "エルデリーゼ"
+speaker_original = "エルデリーゼ"
+speaker_translation = "엘데리제"
 original = "「必ず認めさせて見せますわ。今度は先ほどのようにはいきませんわよ」"
 translation = "「반드시 인정하게 만들겠어요. 이번엔 아까 전처럼 되지는 않을 거예요」"
 
 [[dialogue]]
-speaker = "ラティエ"
+speaker_original = "ラティエ"
+speaker_translation = "라티에"
 original = "「どうだろうね？」"
 translation = "「글쎄, 어떨까?」"
 
 [[dialogue]]
-speaker = "エルデリーゼ"
+speaker_original = "エルデリーゼ"
+speaker_translation = "엘데리제"
 original = "「やぁああああああっ！！！！！」"
 translation = "「야아아아아아압!!!!!」"
 
@@ -179,17 +209,20 @@ original = "それを難なく受け止める学園長。"
 translation = "그것을 아무렇지도 않게 받아내는 학원장."
 
 [[dialogue]]
-speaker = "ラティエ"
+speaker_original = "ラティエ"
+speaker_translation = "라티에"
 original = "「公平に見極めることを約束しよう。きみが『強い』か『弱い』か……」"
 translation = "「공정하게 지켜볼 것을 약속하지. 자네가 『강한지』 아니면 『약한지』……」"
 
 [[dialogue]]
-speaker = "ラティエ"
+speaker_original = "ラティエ"
+speaker_translation = "라티에"
 original = "「示された実力によって、きみの想いに答えを返そう……それで文句はあるまい！」"
 translation = "「보여준 실력에 따라 자네의 마음에 답을 주마…… 그러면 불만 없겠지!」"
 
 [[dialogue]]
-speaker = "エルデリーゼ"
+speaker_original = "エルデリーゼ"
+speaker_translation = "엘데리제"
 original = "「っ……！？」"
 translation = "「윽……!?」"
 
@@ -199,17 +232,20 @@ original = "学園長の反撃を、ギリギリのところでかわした。"
 translation = "학원장의 반격을 간발의 차로 피했다."
 
 [[dialogue]]
-speaker = "ラティエ"
+speaker_original = "ラティエ"
+speaker_translation = "라티에"
 original = "「甘いことを考えていたのではないだろうな？\u3000強さを測っているのだ、当然私も反撃する」"
 translation = "「무른 생각을 하고 있었던 건 아니겠지? 강함을 측정하고 있는 거다, 당연히 나도 반격하네」"
 
 [[dialogue]]
-speaker = "ラティエ"
+speaker_original = "ラティエ"
+speaker_translation = "라티에"
 original = "「さあ、続けようか！」"
 translation = "「자, 계속해 볼까!」"
 
 [[dialogue]]
-speaker = "エルデリーゼ"
+speaker_original = "エルデリーゼ"
+speaker_translation = "엘데리제"
 original = "「ま、負けませんわっ！！！！！」"
 translation = "「지, 지지 않겠어요!!!!!」"
 

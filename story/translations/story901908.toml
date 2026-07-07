@@ -1,130 +1,156 @@
 [[dialogue]]
-speaker = "パッキー"
+speaker_original = "パッキー"
+speaker_translation = "팟키"
 original = "「うべぁ～……」"
 translation = "「우베아~……」"
 
 [[dialogue]]
-speaker = "ロロット"
+speaker_original = "ロロット"
+speaker_translation = "로롯토"
 original = "「しおしおの、垂れたパンダさんになっちゃいましたね」"
 translation = "「시들시들, 늘어진 팬더 씨가 되어 버렸네요」"
 
 [[dialogue]]
-speaker = "パッキー"
+speaker_original = "パッキー"
+speaker_translation = "팟키"
 original = "「ククク……この大賢者パッキー様ともあろう者が、面目ねぇぜ……」"
 translation = "「크크크…… 이 대현자 팟키 님께서, 면목이 없군……」"
 
 [[dialogue]]
-speaker = "ナナカ"
+speaker_original = "ナナカ"
+speaker_translation = "나나카"
 original = "「いいってことよ。あんたがスケベなのは、いつものことだしね」"
 translation = "「괜찮아. 네가 변태인 건, 늘 있는 일이니까」"
 
 [[dialogue]]
-speaker = "パッキー"
+speaker_original = "パッキー"
+speaker_translation = "팟키"
 original = "「しかし、俺様にもプライドってもんがだな……」"
 translation = "「하지만, 이 몸에게도 프라이드라는 게 있단 말이다……」"
 
 [[dialogue]]
-speaker = "ナナカ"
+speaker_original = "ナナカ"
+speaker_translation = "나나카"
 original = "「黙らっしゃい」"
 translation = "「닥치라고」"
 
 [[dialogue]]
-speaker = "パッキー"
+speaker_original = "パッキー"
+speaker_translation = "팟키"
 original = "「アスカテ！」"
 translation = "「아스카테!」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「でもまさか、パッキーさんまで操られていただなんて……」"
 translation = "「하지만 설마, 팟키 씨까지 조종당하고 있었다니……」"
 
 [[dialogue]]
-speaker = "ナナカ"
+speaker_original = "ナナカ"
+speaker_translation = "나나카"
 original = "「で、それって、誰に？」"
 translation = "「그래서, 그게, 누구한테?」"
 
 [[dialogue]]
-speaker = "パッキー"
+speaker_original = "パッキー"
+speaker_translation = "팟키"
 original = "「さあな、わからねぇぜ。俺様も肝心なところは、サッパリ記憶にないんだぜ」"
 translation = "「글쎄다, 모르겠군. 이 몸도 중요한 부분은, 깨끗하게 기억이 안 난단 말이야」"
 
 [[dialogue]]
-speaker = "メイプル"
+speaker_original = "メイプル"
+speaker_translation = "메이플"
 original = "「ホントに～？\u3000嘘ついたりしてない？」"
 translation = "「정말~? 거짓말하는 거 아니야?」"
 
 [[dialogue]]
-speaker = "パッキー"
+speaker_original = "パッキー"
+speaker_translation = "팟키"
 original = "「おうとも、俺様のこの曇りなき<ruby>眼<rt>まなこ</rt></ruby>を、しかと見つめやがれ！」"
 translation = "「그럼, 이 몸의 흐림 없는 눈을, 똑똑히 쳐다보시지!」"
 
 [[dialogue]]
-speaker = "メイプル"
+speaker_original = "メイプル"
+speaker_translation = "메이플"
 original = "「真っ黒だけど」"
 translation = "「새까맣지만」"
 
 [[dialogue]]
-speaker = "パッキー"
+speaker_original = "パッキー"
+speaker_translation = "팟키"
 original = "「…………」"
 translation = "「…………」"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「ねぇねぇ、とにかくこれで、今回起こったことは一段落、ってことでいいのよね？」"
 translation = "「저기 저기, 어쨌든 이걸로, 이번에 일어난 일은 일단락, 된 걸로 봐도 되는 거지?」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「おそらくは。パッキーさんたちを操っていた黒幕が誰なのかは、気になるところではありますが……」"
 translation = "「아마도요. 팟키 씨 일행을 조종했던 흑막이 누구인지는, 신경 쓰이는 부분이긴 합니다만……」"
 
 [[dialogue]]
-speaker = "ルリエル"
+speaker_original = "ルリエル"
+speaker_translation = "루리엘"
 original = "「今は、これ以上の手がかりもありませんし」"
 translation = "「지금은, 더 이상의 단서도 없고요」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「ええ。なんとなく、誰かの意図のようなものを感じたような気はしたんですが、真相は闇の中ですね」"
 translation = "「네. 어쩐지, 누군가의 의도 같은 것을 느낀 것 같기는 한데, 진상은 어둠 속이네요」"
 
 [[dialogue]]
-speaker = "ナナカ"
+speaker_original = "ナナカ"
+speaker_translation = "나나카"
 original = "「てか突然、アステライト？\u3000ってのが現れて、結構な大事だったのに、近所じゃ特に騒ぎにもなってないしさ」"
 translation = "「근데 갑자기, 아스테라이트? 라는 게 나타나서, 꽤나 큰일이었는데, 근처에서는 딱히 소란도 안 일어났고 말이야」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「そうですね。まるで、ここまでの展開が、その誰かに仕組まれていたような……そんなふうに感じてしまいます」"
 translation = "「그렇네요. 마치, 여기까지의 전개가, 그 누군가에게 계획된 것처럼…… 그렇게 느껴집니다」"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「そうなのね……全然気づかなかったわ！」"
 translation = "「그런 거였네…… 전혀 눈치채지 못했어!」"
 
 [[dialogue]]
-speaker = "ロロット"
+speaker_original = "ロロット"
+speaker_translation = "로롯토"
 original = "「まあまあ、よくわからないことを難しく考えても仕方がありません」"
 translation = "「뭐 뭐, 잘 모르는 것을 어렵게 생각해도 소용없어요」"
 
 [[dialogue]]
-speaker = "ロロット"
+speaker_original = "ロロット"
+speaker_translation = "로롯토"
 original = "「それより皆さん、そろそろお腹が空いてきたのではありませんか？\u3000ちなみにわたしは、もうペコペコです～」"
 translation = "「그보다 여러분, 슬슬 배가 고파지지 않으셨나요? 참고로 저는, 이미 꼬르륵거려요~」"
 
 [[dialogue]]
-speaker = "ナナカ"
+speaker_original = "ナナカ"
+speaker_translation = "나나카"
 original = "「暢気だねぇ～。だが、わかる」"
 translation = "「태평하네~. 하지만, 이해한다」"
 
 [[dialogue]]
-speaker = "メイプル"
+speaker_original = "メイプル"
+speaker_translation = "메이플"
 original = "「ねぇ、ていうかさ、一段落って言いつつ、安心するにはまだ早いんじゃない？」"
 translation = "「저기, 근데 말이야, 일단락이라고 말하면서, 안심하기엔 아직 이르지 않아?」"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「え……？」"
 translation = "「에……?」"
 
@@ -134,52 +160,62 @@ original = "そういえば！"
 translation = "그러고 보니!"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「あっ、そっか！」"
 translation = "「앗, 그렇구나!」"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「私たち、勢いでこっちの世界まで来ちゃったけど……」"
 translation = "「우리, 기세에 이끌려 이쪽 세계까지 와 버렸는데……」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「確かに、どうやって私たちの世界に戻ればいいんでしょう……」"
 translation = "「확실히, 어떻게 우리 세계로 돌아가야 할까요……」"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「ちょっとメイプルっ、あの空間の裂け目、どうやってコントロールしてたの？」"
 translation = "「잠깐 메이플, 그 공간의 틈새, 어떻게 컨트롤했던 거야?」"
 
 [[dialogue]]
-speaker = "メイプル"
+speaker_original = "メイプル"
+speaker_translation = "메이플"
 original = "「えっ！\u3000あたしだってわかんないよっ。だって、誰かに操られてやってただけなんだもん……」"
 translation = "「엣! 나도 모른단 말이야! 왜냐면, 누군가에게 조종당해서 했던 것뿐인걸……」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「では、パッキーさんは……？」"
 translation = "「그럼, 팟키 씨는……?」"
 
 [[dialogue]]
-speaker = "パッキー"
+speaker_original = "パッキー"
+speaker_translation = "팟키"
 original = "「クックック……大賢者である俺様も、さすがにそこまでの叡智は持ち合わせていないぜ。叡智なおっぱいは大好物だがな！」"
 translation = "「크크크…… 대현자인 이 몸도, 설마 거기까지의 예지는 가지고 있지 않다네. 예지로운 가슴은 아주 좋아하지만!」"
 
 [[dialogue]]
-speaker = "ナナカ"
+speaker_original = "ナナカ"
+speaker_translation = "나나카"
 original = "「訊いてないから」"
 translation = "「안 물어봤거든」"
 
 [[dialogue]]
-speaker = "パッキー"
+speaker_original = "パッキー"
+speaker_translation = "팟키"
 original = "「ジメンシ！」"
 translation = "「지멘시!」"
 
 [[dialogue]]
-speaker = "ルリエル"
+speaker_original = "ルリエル"
+speaker_translation = "루리엘"
 original = "「詰みました……」"
 translation = "「막혔습니다……」"
 
@@ -189,177 +225,212 @@ original = "待って、みんな……！"
 translation = "기다려, 모두……!"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「ええ……何か、声が聞こえますね」"
 translation = "「네에…… 뭔가, 목소리가 들리네요」"
 
 [[dialogue]]
-speaker = "メイプル"
+speaker_original = "メイプル"
+speaker_translation = "메이플"
 original = "「ホントだ！」"
 translation = "「정말이다!」"
 
 [[dialogue]]
-speaker = "ルリエル"
+speaker_original = "ルリエル"
+speaker_translation = "루리엘"
 original = "「あっ……わたしにも聞こえますっ」"
 translation = "「앗…… 저에게도 들려요!」"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「頭の中に響いてくる、この声は……マグダレナ！？」"
 translation = "「머릿속에 울려 퍼지는, 이 목소리는…… 막달레나!?」"
 
 [[dialogue]]
-speaker = "マグダレナ"
+speaker_original = "マグダレナ"
+speaker_translation = "막달레나"
 original = "「皆さま、私の声が、聞こえているんですね……？\u3000よかった、やっと通じました……！」"
 translation = "「여러분, 제 목소리가, 들리고 있는 거죠……? 다행이다, 드디어 통했네요……!」"
 
 [[dialogue]]
-speaker = "ナナカ"
+speaker_original = "ナナカ"
+speaker_translation = "나나카"
 original = "「え……どうなってんの……？\u3000なんか知らない人の声だけ聞こえるんだけど……誰？」"
 translation = "「에…… 어떻게 된 거야……? 뭔가 모르는 사람 목소리만 들리는데…… 누구야?」"
 
 [[dialogue]]
-speaker = "パッキー"
+speaker_original = "パッキー"
+speaker_translation = "팟키"
 original = "「おそらく、そういう力を持ったあっちの世界のやつからの、テレパシーみたいなものだろうぜ」"
 translation = "「아마도, 그런 힘을 가진 저쪽 세계 녀석에게서 온, 텔레파시 같은 것일 거다」"
 
 [[dialogue]]
-speaker = "パッキー"
+speaker_original = "パッキー"
+speaker_translation = "팟키"
 original = "「それに、この声の感じは……巨乳の持ち主に間違いないだろうぜ！」"
 translation = "「게다가, 이 목소리의 느낌은…… 거유의 소유자임에 틀림없을 거다!」"
 
 [[dialogue]]
-speaker = "ナナカ"
+speaker_original = "ナナカ"
+speaker_translation = "나나카"
 original = "「黙っとれ」"
 translation = "「닥치라고」"
 
 [[dialogue]]
-speaker = "パッキー"
+speaker_original = "パッキー"
+speaker_translation = "팟키"
 original = "「バイブス！」"
 translation = "「바이브스!」"
 
 [[dialogue]]
-speaker = "ロロット"
+speaker_original = "ロロット"
+speaker_translation = "로롯토"
 original = "「ほほう～、あちらの世界の方ですか。それにしても、なぜだか不思議なシンパシーを感じてしまうお声ですね～」"
 translation = "「호오~, 저쪽 세계 분이시군요. 그런데도, 왠지 모르게 신기한 공감을 느끼게 하는 목소리네요~」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「今お声を届けて下さっているのは、守護天使のマグダレナ様です」"
 translation = "「지금 목소리를 전해 주시는 분은, 수호 천사 막달레나 님이십니다」"
 
 [[dialogue]]
-speaker = "ロロット"
+speaker_original = "ロロット"
+speaker_translation = "로롯토"
 original = "「えっ！\u3000ててててっ、天使じゃありませんよっ！？」"
 translation = "「엣! 처처처처, 천사 아니에요!?」"
 
 [[dialogue]]
-speaker = "マグダレナ"
+speaker_original = "マグダレナ"
+speaker_translation = "막달레나"
 original = "「ヴィーナスさま、フィオナさま、会長さま、連絡が遅くなってしまい申し訳ありません」"
 translation = "「비너스 님, 피오나 님, 회장님, 연락이 늦어져서 죄송합니다」"
 
 [[dialogue]]
-speaker = "マグダレナ"
+speaker_original = "マグダレナ"
+speaker_translation = "막달레나"
 original = "「そちらの世界に転移された皆さまの存在は、私の方で把握はできていたのですが……」"
 translation = "「그쪽 세계로 전이되신 여러분의 존재는, 제가 파악하고 있었습니다만……」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「先ほどまでは、上手く声が届かなかった……」"
 translation = "「아까 전까지는, 제대로 목소리가 닿지 않았던……」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「パッキーさんたちが正気に戻ったことで、こうしてやり取りができるようになった、ということでしょうか？」"
 translation = "「팟키 씨 일행이 제정신으로 돌아오면서, 이렇게 대화가 가능하게 되었다는 걸까요?」"
 
 [[dialogue]]
-speaker = "マグダレナ"
+speaker_original = "マグダレナ"
+speaker_translation = "막달레나"
 original = "「そうですね、皆さまのおかげで、何者かの妨害による影響が薄れたのではないでしょうか」"
 translation = "「그렇습니다, 여러분 덕분에, 누군가의 방해로 인한 영향이 약해진 것이 아닐까 합니다」"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「この際、細かいことはいいのよ、私たちは大丈夫っ。それより、私たちがそっちの世界に帰る方法ってあるの？」"
 translation = "「이참에, 사소한 건 됐어요, 우리는 괜찮아. 그보다, 우리가 저쪽 세계로 돌아갈 방법은 있어?」"
 
 [[dialogue]]
-speaker = "マグダレナ"
+speaker_original = "マグダレナ"
+speaker_translation = "막달레나"
 original = "「はい。時期がくれば、フィーニスの塔を通じて、こちらの世界に戻ることができるかと思います」"
 translation = "「네. 시기가 되면, 피니스 탑을 통해서, 이쪽 세계로 돌아올 수 있을 거라고 생각합니다」"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「そうなのね、よかった～！」"
 translation = "「그렇구나, 다행이다~!」"
 
 [[dialogue]]
-speaker = "ルリエル"
+speaker_original = "ルリエル"
+speaker_translation = "루리엘"
 original = "「そういえば、フィーニスの塔は、どちらの世界にもありますものね」"
 translation = "「그러고 보니, 피니스 탑은, 양쪽 세계 모두에 있으니까요」"
 
 [[dialogue]]
-speaker = "ナナカ"
+speaker_original = "ナナカ"
+speaker_translation = "나나카"
 original = "「へ～、なるほどねぇ。あの塔、そんな役割もあったんだ」"
 translation = "「헤ー, 그렇구나ー. 그 탑, 그런 역할도 있었구나」"
 
 [[dialogue]]
-speaker = "ロロット"
+speaker_original = "ロロット"
+speaker_translation = "로롯토"
 original = "「むむ、ガイドブックには載っていない情報です」"
 translation = "「으음, 가이드북에는 실려 있지 않은 정보예요」"
 
 [[dialogue]]
-speaker = "マグダレナ"
+speaker_original = "マグダレナ"
+speaker_translation = "막달레나"
 original = "「ただ、私が自らの力で双方の世界を繋げている、というわけではないんです」"
 translation = "「다만, 제가 스스로의 힘으로 양쪽 세계를 연결하고 있는 것은 아닙니다」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「どういうことですか……？」"
 translation = "「무슨 말씀이신가요……?」"
 
 [[dialogue]]
-speaker = "マグダレナ"
+speaker_original = "マグダレナ"
+speaker_translation = "막달레나"
 original = "「実際には、女神級の力を持つ誰かが世界への干渉を行った際に、その影響に便乗する形で転移することになります」"
 translation = "「실제로는, 여신급의 힘을 가진 누군가가 세계에 간섭했을 때, 그 영향에 편승하는 형태로 전이하게 됩니다」"
 
 [[dialogue]]
-speaker = "マグダレナ"
+speaker_original = "マグダレナ"
+speaker_translation = "막달레나"
 original = "「ですので、それが可能になるタイミングまでには、もう少しだけ時間の猶予があるようでして……」"
 translation = "「그러므로, 그것이 가능해지는 타이밍까지는, 아주 조금 더 시간적 여유가 있는 것 같아서요……」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「つまり、それまでは、こちらの世界で過ごさなければならない……と」"
 translation = "「즉, 그때까지는, 이쪽 세계에서 지내야만 한다는…… 거군요」"
 
 [[dialogue]]
-speaker = "マグダレナ"
+speaker_original = "マグダレナ"
+speaker_translation = "막달레나"
 original = "「はい、そういうことになります」"
 translation = "「네, 그렇게 됩니다」"
 
 [[dialogue]]
-speaker = "メイプル"
+speaker_original = "メイプル"
+speaker_translation = "메이플"
 original = "「じゃあ、しばらくは待ちってわけか～」"
 translation = "「그럼, 당분간은 기다려야 한다는 거네ー」"
 
 [[dialogue]]
-speaker = "ロロット"
+speaker_original = "ロロット"
+speaker_translation = "로롯토"
 original = "「ふむふむ～……よくわかりませんが、要は皆さんの滞在期間が延びた、ということなのですね」"
 translation = "「흠흠ー…… 잘 모르겠지만, 요점은 여러분의 체류 기간이 늘어났다는 것이네요」"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「なんかそうみたい」"
 translation = "「왠지 그런 것 같아」"
 
 [[dialogue]]
-speaker = "ナナカ"
+speaker_original = "ナナカ"
+speaker_translation = "나나카"
 original = "「だったらさ、その間、アタシたちがこっちの世界をゆっくり案内するよ。さっきは結局、急ぎ足になっちゃってたしさ」"
 translation = "「그렇다면 말이야, 그동안, 우리들이 이쪽 세계를 천천히 안내해 줄게. 아까는 결국, 서둘러 버렸으니까」"
 
 [[dialogue]]
-speaker = "ロロット"
+speaker_original = "ロロット"
+speaker_translation = "로롯토"
 original = "「おお、それはいい考えです！」"
 translation = "「오오, 그거 좋은 생각이에요!」"
 
@@ -369,32 +440,38 @@ original = "いいの？"
 translation = "괜찮아?"
 
 [[dialogue]]
-speaker = "ナナカ"
+speaker_original = "ナナカ"
+speaker_translation = "나나카"
 original = "「もちろんでい！\u3000せっかくだし、お勧めのスウィーツとか、今度はアタシが手打ちしたソバも味わってもらおうじゃないの！」"
 translation = "「당연하지! 모처럼이니, 추천하는 스위츠라든가, 이번에는 내가 직접 만든 소바도 맛보게 해 주자고!」"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「あら、いいじゃない、興味あるわっ」"
 translation = "「어머, 좋잖아, 흥미 있어」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「それは素敵ですね」"
 translation = "「그거 멋지네요」"
 
 [[dialogue]]
-speaker = "マグダレナ"
+speaker_original = "マグダレナ"
+speaker_translation = "막달레나"
 original = "「すみません、そちらの世界の皆さま。どうかよろしくお願いいたします」"
 translation = "「죄송합니다, 그쪽 세계의 여러분. 부디 잘 부탁드립니다」"
 
 [[dialogue]]
-speaker = "ロロット"
+speaker_original = "ロロット"
+speaker_translation = "로롯토"
 original = "「いえいえ～。しゃべくりあうも多生の縁、と言いますからね。わたしのガイドブックも火を噴きますよ～！」"
 translation = "「아니아니요ー. 서로 이야기 나누는 것도 다생의 인연이라고 하잖아요. 저의 가이드북도 불을 뿜을 거예요~!」"
 
 [[dialogue]]
-speaker = "ルリエル"
+speaker_original = "ルリエル"
+speaker_translation = "루리엘"
 original = "「それは逆に、少し不安なのですが……でも、ちょっぴりだけ、楽しみになってきちゃいました！」"
 translation = "「그건 오히려, 조금 불안한데요…… 하지만, 아주 조금은, 기대되기 시작했어요!」"
 
@@ -414,27 +491,32 @@ original = "……"
 translation = "……"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「フィーニスの塔を通じて、世界を越える……」"
 translation = "「피니스 탑을 통해서, 세계를 넘는다……」"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「なんだかんだで、もう、そのタイミングが来ちゃったのね」"
 translation = "「이러니저러니 해도, 벌써, 그 타이밍이 와 버렸네」"
 
 [[dialogue]]
-speaker = "メイプル"
+speaker_original = "メイプル"
+speaker_translation = "메이플"
 original = "「な～んか、こっちの世界で過ごすのも、意外とあっという間だったね～」"
 translation = "「왠ー지, 이쪽 세계에서 지내는 것도, 의외로 순식간이었네ー」"
 
 [[dialogue]]
-speaker = "ルリエル"
+speaker_original = "ルリエル"
+speaker_translation = "루리엘"
 original = "「結局、今回の騒動の原因は、よくわかりませんでしたが……」"
 translation = "「결국, 이번 소동의 원인은, 잘 모르겠지만……」"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「でも、ナナカやロロットたちとも仲良くなれたし、いろいろ話せて楽しかったんだから、それはそれでよし、でしょ？」"
 translation = "「하지만, 나나카나 로롯토 일행하고도 친해졌고, 여러 가지 이야기 할 수 있어서 즐거웠으니까, 그건 그거대로 괜찮잖아?」"
 
@@ -444,127 +526,152 @@ original = "だね！"
 translation = "그렇지!"
 
 [[dialogue]]
-speaker = "ナナカ"
+speaker_original = "ナナカ"
+speaker_translation = "나나카"
 original = "「うんうん、アタシらも楽しかったよ！」"
 translation = "「응응, 우리들도 즐거웠어!」"
 
 [[dialogue]]
-speaker = "ナナカ"
+speaker_original = "ナナカ"
+speaker_translation = "나나카"
 original = "「あっちの世界に飛ばされちゃったのは、ただのとばっちりだったかもしれないけどさ……おかげでこうして、友達になれたわけだし」"
 translation = "「저쪽 세계로 날아가 버린 건, 그저 덤터기였을지도 모르지만 말이야…… 덕분에 이렇게, 친구가 된 거잖아」"
 
 [[dialogue]]
-speaker = "ロロット"
+speaker_original = "ロロット"
+speaker_translation = "로롯토"
 original = "「巻き込まれ系主人公も、まんざらでもありませんでしたね」"
 translation = "「휘말리는 계열 주인공도, 나쁘지만은 않았네요」"
 
 [[dialogue]]
-speaker = "ナナカ"
+speaker_original = "ナナカ"
+speaker_translation = "나나카"
 original = "「リア先輩と聖沙が帰ってきたらさ、色々伝えとくよ」"
 translation = "「리아 선배랑 미사가 돌아오면 말이야, 여러 가지 전해 줄게」"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「ええ、お願いね！」"
 translation = "「응, 부탁해!」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「よろしくお伝え下さい」"
 translation = "「잘 부탁드린다고 전해 주세요」"
 
 [[dialogue]]
-speaker = "ロロット"
+speaker_original = "ロロット"
+speaker_translation = "로롯토"
 original = "「とはいえ……わかってはいたことですが、急に寂しくなってしまいますねぇ。はあ～……」"
 translation = "「그렇다고는 해도…… 알고는 있었지만, 갑자기 외로워지네요. 하아～……」"
 
 [[dialogue]]
-speaker = "ルリエル"
+speaker_original = "ルリエル"
+speaker_translation = "루리엘"
 original = "「大丈夫ですよ、きっとまた会えますって」"
 translation = "「괜찮아요, 분명 또 만날 수 있을 거예요」"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「そうね。こうやってまた、世界を越えてあなたたちと出会うことができたんだもの」"
 translation = "「그렇지. 이렇게 또, 세계를 넘어서 너희들과 만날 수 있었는걸」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「たとえ遠く離れていても、つながっている絆のようなものは、あると思いますから」"
 translation = "「설령 멀리 떨어져 있어도, 이어져 있는 인연 같은 것은, 있다고 생각하니까요」"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「むしろ、前回の絆があったからこそ、今回も出会えた、とも言えるんじゃないかしら。ね、私今、かっこいいこと言ったわよね？」"
 translation = "「오히려, 지난번의 인연이 있었기에, 이번에도 만날 수 있었다고도 말할 수 있지 않을까? 그치, 나 지금, 멋진 말 했지?」"
 
 [[dialogue]]
-speaker = "ロロット"
+speaker_original = "ロロット"
+speaker_translation = "로롯토"
 original = "「おお、確かに！\u3000二度会うことは三度会う、と言いますからね！」"
 translation = "「오오, 확실히! 두 번 만난다는 것은 세 번 만난다는 것이라고 하잖아요!」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「ふふっ、落ち込んだり元気になったり、忙しいですね」"
 translation = "「후훗, 침울해졌다가 기운을 차렸다가, 바쁘네요」"
 
 [[dialogue]]
-speaker = "ルリエル"
+speaker_original = "ルリエル"
+speaker_translation = "루리엘"
 original = "「あまりはしゃぎすぎて、トントロさんを割らないように気をつけて下さいね」"
 translation = "「너무 들떠서, 톤토로 씨를 깨뜨리지 않도록 조심해 주세요」"
 
 [[dialogue]]
-speaker = "ロロット"
+speaker_original = "ロロット"
+speaker_translation = "로롯토"
 original = "「問題ありません！\u3000わたしたちの友情のように、ガッチリ貼り合わせてありますから！」"
 translation = "「문제없어요! 우리들의 우정처럼, 단단히 붙여 놓았으니까요!」"
 
 [[dialogue]]
-speaker = "ナナカ"
+speaker_original = "ナナカ"
+speaker_translation = "나나카"
 original = "「それはそれで、逆に不安になるんだけど」"
 translation = "「그건 그거대로, 오히려 불안해지는데」"
 
 [[dialogue]]
-speaker = "パッキー"
+speaker_original = "パッキー"
+speaker_translation = "팟키"
 original = "「ククク……そんじゃあ次は、巨乳のねーちゃんをもっとわんさか連れて来てくれよな！」"
 translation = "「크크크…… 그럼 다음엔, 거유 누님을 더 잔뜩 데려와 달라고!」"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「そうね～、この関係だけは、断ち切っておきたいかもだけど」"
 translation = "「그렇네ー, 이 관계만은, 끊어 버리고 싶을지도 모르지만」"
 
 [[dialogue]]
-speaker = "パッキー"
+speaker_original = "パッキー"
+speaker_translation = "팟키"
 original = "「ひでぇぜ！」"
 translation = "「너무하잖아!」"
 
 [[dialogue]]
-speaker = "メイプル"
+speaker_original = "メイプル"
+speaker_translation = "메이플"
 original = "「も～、つぶれてなければ、ちょっとだけ頼りになって、かっこいいのにな～」"
 translation = "「모ー, 찌그러지지 않았다면, 아주 조금은 의지가 되고, 멋있을 텐데ー」"
 
 [[dialogue]]
-speaker = "パッキー"
+speaker_original = "パッキー"
+speaker_translation = "팟키"
 original = "「ケッ、巨乳以外に褒められても嬉しくねぇぜ」"
 translation = "「쳇, 거유 말고 칭찬받아도 기쁘지 않다고」"
 
 [[dialogue]]
-speaker = "メイプル"
+speaker_original = "メイプル"
+speaker_translation = "메이플"
 original = "「にひひっ。それじゃあ、もう行くねっ。バイバ～イ！」"
 translation = "「니히힛. 그럼, 이제 갈게. 바이바ー이!」"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「また会いましょうね！」"
 translation = "「또 만나요!」"
 
 [[dialogue]]
-speaker = "ルリエル"
+speaker_original = "ルリエル"
+speaker_translation = "루리엘"
 original = "「さようなら～」"
 translation = "「안녕히 가세요ー」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「お元気で」"
 translation = "「건강하세요」"
 
@@ -574,17 +681,20 @@ original = "みんな、またね！"
 translation = "모두, 또 봐!"
 
 [[dialogue]]
-speaker = "ナナカ"
+speaker_original = "ナナカ"
+speaker_translation = "나나카"
 original = "「うん、そんじゃまた！」"
 translation = "「응, 그럼 또 보자!」"
 
 [[dialogue]]
-speaker = "ロロット"
+speaker_original = "ロロット"
+speaker_translation = "로롯토"
 original = "「お達者で～！」"
 translation = "「잘 지내세요ー!」"
 
 [[dialogue]]
-speaker = "パッキー"
+speaker_original = "パッキー"
+speaker_translation = "팟키"
 original = "「クックック……あばよ！」"
 translation = "「쿡쿡쿡…… 잘 가라!」"
 

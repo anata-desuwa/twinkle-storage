@@ -4,292 +4,350 @@ original = "第６話,第６話『学園へ向かうぞ』,B"
 translation = "제6화, 제6화 『학원으로 향하자』, B"
 
 [[dialogue]]
-speaker = "ツェツィーリエ"
+speaker_original = "ツェツィーリエ"
+speaker_translation = "체칠리에"
 original = "「ここは──おお、学園だね」"
 translation = "「여기는── 오호, 학원이네」"
 
 [[dialogue]]
-speaker = "クラウディア"
+speaker_original = "クラウディア"
+speaker_translation = "클라우디아"
 original = "「うむ！\u3000ここには迷える少年少女がたくさんおるからな」"
 translation = "「음! 여기에는 방황하는 소년 소녀들이 잔뜩 있으니까 말이다」"
 
 [[dialogue]]
-speaker = "クラウディア"
+speaker_original = "クラウディア"
+speaker_translation = "클라우디아"
 original = "「きっと、余のプレゼントを心待ちにしていることであろう──」"
 translation = "「분명 짐의 선물을 고대하고 있을 것이니라──」"
 
 [[dialogue]]
-speaker = "トワ先生"
+speaker_original = "トワ先生"
+speaker_translation = "토와 선생님"
 original = "「あれ、あなたは？\u3000ダメだよ、勝手に校舎まで入ってきたら」"
 translation = "「어라, 당신은? 안 돼, 마음대로 교사 안까지 들어오면」"
 
 [[dialogue]]
-speaker = "クラウディア"
+speaker_original = "クラウディア"
+speaker_translation = "클라우디아"
 original = "「余はクラウディア。ネビュラが総帥にして光の魔女だ」"
 translation = "「짐은 클라우디아. 네뷸라의 총수이자 빛의 마녀로다」"
 
 [[dialogue]]
-speaker = "トワ先生"
+speaker_original = "トワ先生"
+speaker_translation = "토와 선생님"
 original = "「ネビュラの総帥──って、えぇ！？\u3000よく見たら、そっちにいるのも魔女さんだし……」"
 translation = "「네뷸라의 총수── 라니, 에에!? 자세히 보니 그쪽에 있는 분도 마녀고……」"
 
 [[dialogue]]
-speaker = "ツェツィーリエ"
+speaker_original = "ツェツィーリエ"
+speaker_translation = "체칠리에"
 original = "「ツェツィーリエです。キミはトワちゃんさんだね。今のネビュラは学園と提携してるし、まあちょっとの立ち入りくらい大目に見てよ」"
 translation = "「체칠리에입니당. 너는 토와짱 씨네. 지금의 네뷸라는 학원과 제휴하고 있으니까, 뭐 약간의 출입 정도는 눈감아줘」"
 
 [[dialogue]]
-speaker = "ツェツィーリエ"
+speaker_original = "ツェツィーリエ"
+speaker_translation = "체칠리에"
 original = "「それより今からクラウディア様が、キミの欲しいものをなんでも恵んでくれるよ！」"
 translation = "「그보다 지금부터 클라우디아 님이 네가 갖고 싶은 걸 뭐든 베풀어 줄 거야!」"
 
 [[dialogue]]
-speaker = "トワ先生"
+speaker_original = "トワ先生"
+speaker_translation = "토와 선생님"
 original = "「え！\u3000欲しいものをなんでも……？」"
 translation = "「에! 갖고 싶은 걸 뭐든지……?」"
 
 [[dialogue]]
-speaker = "クラウディア"
+speaker_original = "クラウディア"
+speaker_translation = "클라우디아"
 original = "「ふっふっふ。その通り」"
 translation = "「훗훗훗. 그렇도다」"
 
 [[dialogue]]
-speaker = "トワ先生"
+speaker_original = "トワ先生"
+speaker_translation = "토와 선생님"
 original = "「そんなうまい話があるの？\u3000わたし、もういい大人だけど……」"
 translation = "「그렇게 좋은 이야기가 있어? 나, 이제 어엿한 어른인데……」"
 
 [[dialogue]]
-speaker = "クラウディア"
+speaker_original = "クラウディア"
+speaker_translation = "클라우디아"
 original = "「１２月２５日は余の誕生日だからな。それを祝うがため、皆にプレゼントを配っておる最中なのだ」"
 translation = "「12월 25일은 짐의 생일이니까 말이다. 그것을 축하하기 위해 모두에게 선물을 뿌리는 중이니라」"
 
 [[dialogue]]
-speaker = "クラウディア"
+speaker_original = "クラウディア"
+speaker_translation = "클라우디아"
 original = "「余はサンタと違って、大人子どもの区別などしないのだ」"
 translation = "「짐은 산타와 달리 어른 아이 구별 따위 하지 않느니라」"
 
 [[dialogue]]
-speaker = "トワ先生"
+speaker_original = "トワ先生"
+speaker_translation = "토와 선생님"
 original = "「おお……なんか懐が深い感じ」"
 translation = "「오오…… 왠지 마음이 넓은 느낌」"
 
 [[dialogue]]
-speaker = "クラウディア"
+speaker_original = "クラウディア"
+speaker_translation = "클라우디아"
 original = "「そーれ！\u3000メリークラウディアバースデ～！」"
 translation = "「자아! 메리 클라우디아 버스데이~!」"
 
 [[dialogue]]
-speaker = "トワ先生"
+speaker_original = "トワ先生"
+speaker_translation = "토와 선생님"
 original = "「わ、すごい光が──」"
 translation = "「와, 굉장한 빛이──」"
 
 [[dialogue]]
-speaker = "トワ先生"
+speaker_original = "トワ先生"
+speaker_translation = "토와 선생님"
 original = "「って……？\u3000何これ。水素入りコラーゲンゼリー？」"
 translation = "「어라……? 이게 뭐야. 수소 함유 콜라겐 젤리?」"
 
 [[dialogue]]
-speaker = "クラウディア"
+speaker_original = "クラウディア"
+speaker_translation = "클라우디아"
 original = "「美容・若見え・アンチエイジングに効果あり！\u3000……と書かれているぞ」"
 translation = "「미용·동안·안티에이징에 효과 있음! ……이라고 적혀 있도다」"
 
 [[dialogue]]
-speaker = "ツェツィーリエ"
+speaker_original = "ツェツィーリエ"
+speaker_translation = "체칠리에"
 original = "「うーん、よくあるインチキ商品だね。水素が人体に効くエビデンスはないし、コラーゲンも経口摂取じゃほとんど吸収できない」"
 translation = "「으음, 흔히 있는 가짜 상품이네. 수소가 인체에 효과가 있다는 근거는 없고, 콜라겐도 경구 섭취로는 거의 흡수되지 않아」"
 
 [[dialogue]]
-speaker = "ツェツィーリエ"
+speaker_original = "ツェツィーリエ"
+speaker_translation = "체칠리에"
 original = "「もしかしてだけど……トワちゃんさんはアンチエイジング化粧品が欲しかったんじゃないかな？」"
 translation = "「혹시 말인데…… 토와짱 씨는 안티에이징 화장품이 갖고 싶었던 거 아닐까?」"
 
 [[dialogue]]
-speaker = "トワ先生"
+speaker_original = "トワ先生"
+speaker_translation = "토와 선생님"
 original = "「な、ぁっ……！？」"
 translation = "「나, 앗……!?」"
 
 [[dialogue]]
-speaker = "クラウディア"
+speaker_original = "クラウディア"
+speaker_translation = "클라우디아"
 original = "「ふむ。それでグレードの下がったインチキ商品が出てきてしまったというわけか」"
 translation = "「흠. 그래서 등급이 떨어진 가짜 상품이 나와버렸다는 뜻인가」"
 
 [[dialogue]]
-speaker = "ツェツィーリエ"
+speaker_original = "ツェツィーリエ"
+speaker_translation = "체칠리에"
 original = "「残念ながら。今回のプレゼントは失敗かも」"
 translation = "「안타깝게도. 이번 선물은 실패일지도」"
 
 [[dialogue]]
-speaker = "トワ先生"
+speaker_original = "トワ先生"
+speaker_translation = "토와 선생님"
 original = "「えぇっ、じゃあプレゼントはなしってこと……？」"
 translation = "「에엣, 그럼 선물은 없다는 거야……?」"
 
 [[dialogue]]
-speaker = "トワ先生"
+speaker_original = "トワ先生"
+speaker_translation = "토와 선생님"
 original = "「──じゃなくて！\u3000わたしは元々若いから、アンチエイジングとか必要ないんですけど！」"
 translation = "「──가 아니라! 나는 원래 젊으니까 안티에이징 같은 거 필요 없거든요!」"
 
 [[dialogue]]
-speaker = "ツェツィーリエ"
+speaker_original = "ツェツィーリエ"
+speaker_translation = "체칠리에"
 original = "「大丈夫、トワちゃんさん。アタシも女だから気持ちはわかるよ」"
 translation = "「괜찮아, 토와짱 씨. 나도 여자니까 마음은 알아」"
 
 [[dialogue]]
-speaker = "クラウディア"
+speaker_original = "クラウディア"
+speaker_translation = "클라우디아"
 original = "「うむ。せっかくゆえ、後で魔女の秘薬でも教えてやろうかの」"
 translation = "「음. 모처럼이니 나중에 마녀의 비약이라도 가르쳐 주마」"
 
 [[dialogue]]
-speaker = "トワ先生"
+speaker_original = "トワ先生"
+speaker_translation = "토와 선생님"
 original = "「え、それはけっこう聞きたい……じゃなくて！」"
 translation = "「에, 그건 좀 듣고 싶은…… 이 아니라!」"
 
 [[dialogue]]
-speaker = "クラウディア"
+speaker_original = "クラウディア"
+speaker_translation = "클라우디아"
 original = "「とりあえずプレゼントは完了した！\u3000次へ向かうぞ！」"
 translation = "「일단 선물은 완료했도다! 다음으로 향하자!」"
 
 [[dialogue]]
-speaker = "トワ先生"
+speaker_original = "トワ先生"
+speaker_translation = "토와 선생님"
 original = "「話を聞きなさ～～い！」"
 translation = "「내 말 좀 들어보라구~~요!」"
 
 [[dialogue]]
-speaker = "アム"
+speaker_original = "アム"
+speaker_translation = "아무"
 original = "「うぇぇ、にがぁ……ほんと、なんなのこの飲み物……！」"
 translation = "「우에에, 써어…… 정말, 뭐야 이 음료수는……!」"
 
 [[dialogue]]
-speaker = "アム"
+speaker_original = "アム"
+speaker_translation = "아무"
 original = "「ううん、でも諦めたらダメ。絶対にこのブラックコーヒーを克服して──カッコイイ星騎士に……！」"
 translation = "「으응, 하지만 포기하면 안 돼. 반드시 이 블랙커피를 극복해서── 멋진 성기사가……!」"
 
 [[dialogue]]
-speaker = "クラウディア"
+speaker_original = "クラウディア"
+speaker_translation = "클라우디아"
 original = "「──そこで余の出番というわけだ！」"
 translation = "「──거기서 짐의 차례라는 것이로다!」"
 
 [[dialogue]]
-speaker = "アム"
+speaker_original = "アム"
+speaker_translation = "아무"
 original = "「──ってぶふーっ！\u3000急になに！？」"
 translation = "「──라니 푸핫! 갑자기 뭐야!?」"
 
 [[dialogue]]
-speaker = "クラウディア"
+speaker_original = "クラウディア"
+speaker_translation = "클라우디아"
 original = "「細かいことは気にするでない。それより、ずいぶん苦々しい顔をしておったようだが」"
 translation = "「세세한 건 신경 쓰지 마라. 그보다 꽤나 괴로운 얼굴을 하고 있었던 것 같다만」"
 
 [[dialogue]]
-speaker = "アム"
+speaker_original = "アム"
+speaker_translation = "아무"
 original = "「えーと……あたし、ブラックコーヒーが飲めなくて。なんとか飲めるようになろうと頑張ってたんだけど……」"
 translation = "「저기…… 나, 블랙커피를 못 마셔서. 어떻게든 마실 수 있게 되려고 노력하던 중이었는데……」"
 
 [[dialogue]]
-speaker = "クラウディア"
+speaker_original = "クラウディア"
+speaker_translation = "클라우디아"
 original = "「なんだ、そんなことか。コーヒーくらいで音を上げるとは、可愛いものよの」"
 translation = "「뭐냐, 그런 것이냐. 커피 따위로 비명을 지르다니 귀여운 놈이로구나」"
 
 [[dialogue]]
-speaker = "ツェツィーリエ"
+speaker_original = "ツェツィーリエ"
+speaker_translation = "체칠리에"
 original = "「クラウディア様は飲めるのー？」"
 translation = "「클라우디아 님은 마실 수 있어?」"
 
 [[dialogue]]
-speaker = "クラウディア"
+speaker_original = "クラウディア"
+speaker_translation = "클라우디아"
 original = "「もちろんだ！\u3000余にかかればこの程度──んっ……うぇっ！\u3000苦ぁっ！」"
 translation = "「물론이다! 짐에게 걸리면 이 정도── 음…… 우웩! 써어!」"
 
 [[dialogue]]
-speaker = "アム"
+speaker_original = "アム"
+speaker_translation = "아무"
 original = "「ダメじゃん！」"
 translation = "「안 되잖아!」"
 
 [[dialogue]]
-speaker = "クラウディア"
+speaker_original = "クラウディア"
+speaker_translation = "클라우디아"
 original = "「なんだ、この液体は！\u3000こんな苦いものを好んで飲む者がいるとは信じられん」"
 translation = "「뭐냐, 이 액체는! 이런 쓴 것을 즐겨 마시는 자가 있다니 믿을 수 없도다」"
 
 [[dialogue]]
-speaker = "アム"
+speaker_original = "アム"
+speaker_translation = "아무"
 original = "「でしょ？\u3000でも、あたしには新星の星徒会長になるっていう夢があるの！」"
 translation = "「그치? 하지만 나에겐 신성의 성도회장이 되겠다는 꿈이 있어!」"
 
 [[dialogue]]
-speaker = "アム"
+speaker_original = "アム"
+speaker_translation = "아무"
 original = "「その時にコーヒーが苦手なんて、格好がつかないから……」"
 translation = "「그때 커피를 못 마신다니 꼴이 안 나니까……」"
 
 [[dialogue]]
-speaker = "アム"
+speaker_original = "アム"
+speaker_translation = "아무"
 original = "「前に裏技で飲めたことはあったんだけど……やっぱ一度は正々堂々飲んでみたいなって……」"
 translation = "「전에는 편법으로 마신 적이 있었지만…… 역시 한 번은 정정당당하게 마셔보고 싶어서……」"
 
 [[dialogue]]
-speaker = "クラウディア"
+speaker_original = "クラウディア"
+speaker_translation = "클라우디아"
 original = "「なるほど。よくわかったぞ」"
 translation = "「과연. 잘 알았도다」"
 
 [[dialogue]]
-speaker = "クラウディア"
+speaker_original = "クラウディア"
+speaker_translation = "클라우디아"
 original = "「お主にひと足早い１２月２５日のプレゼントを恵んでやろう」"
 translation = "「네놈에게 한발 빠른 12월 25일의 선물을 베풀어 주마」"
 
 [[dialogue]]
-speaker = "アム"
+speaker_original = "アム"
+speaker_translation = "아무"
 original = "「ほんと！？\u3000じゃあ、コーヒーが飲めるようになるアイテムを！」"
 translation = "「정말!? 그럼 커피를 마실 수 있게 되는 아이템을!」"
 
 [[dialogue]]
-speaker = "クラウディア"
+speaker_original = "クラウディア"
+speaker_translation = "클라우디아"
 original = "「任せよ──そーれ！」"
 translation = "「맡겨라── 자아!」"
 
 [[dialogue]]
-speaker = "アム"
+speaker_original = "アム"
+speaker_translation = "아무"
 original = "「これは！？」"
 translation = "「이건!?」"
 
 [[dialogue]]
-speaker = "ツェツィーリエ"
+speaker_original = "ツェツィーリエ"
+speaker_translation = "체칠리에"
 original = "「コーヒーシュガーだね。ほら、これがあれば飲みやすいから」"
 translation = "「커피 슈거네. 자, 이게 있으면 마시기 쉬우니까」"
 
 [[dialogue]]
-speaker = "アム"
+speaker_original = "アム"
+speaker_translation = "아무"
 original = "「……」"
 translation = "「……」"
 
 [[dialogue]]
-speaker = "アム"
+speaker_original = "アム"
+speaker_translation = "아무"
 original = "「いや、それは知ってるんだけど……ブラックで飲めなきゃ意味がないから、特訓してたっていうか……」"
 translation = "「아니, 그건 알고 있지만…… 블랙으로 못 마시면 의미가 없으니까 특훈하고 있었달까……」"
 
 [[dialogue]]
-speaker = "クラウディア"
+speaker_original = "クラウディア"
+speaker_translation = "클라우디아"
 original = "「無理に背伸びをするでない。せーとかいちょーには、親しみやすさも重要だぞ。たぶん」"
 translation = "「무리하게 발돋움하지 마라. 성도회장에게는 친근함도 중요하니라. 아마도」"
 
 [[dialogue]]
-speaker = "ツェツィーリエ"
+speaker_original = "ツェツィーリエ"
+speaker_translation = "체칠리에"
 original = "「まあ、本来はブラックコーヒーの定義って、ミルクとかクリームが入ってないもののことだから──砂糖が入ってても問題なくブラックといえるよ」"
 translation = "「뭐, 원래 블랙커피의 정의는 우유나 크림이 들어있지 않은 걸 말하니까── 설탕이 들어있어도 문제없이 블랙이라고 할 수 있어」"
 
 [[dialogue]]
-speaker = "アム"
+speaker_original = "アム"
+speaker_translation = "아무"
 original = "「そうなの！？\u3000そう言われたら、これでいい気がしてきたかも……」"
 translation = "「정말!? 그렇게 말하니까 이걸로 된 것 같은 기분이 들지도……」"
 
 [[dialogue]]
-speaker = "クラウディア"
+speaker_original = "クラウディア"
+speaker_translation = "클라우디아"
 original = "「あっはっは、そうであろうそうであろう」"
 translation = "「앗핫하, 그렇고말고 그렇고말고」"
 
 [[dialogue]]
-speaker = "ツェツィーリエ"
+speaker_original = "ツェツィーリエ"
+speaker_translation = "체칠리에"
 original = "「いい気づきを得られたね！」"
 translation = "「좋은 깨달음을 얻었네!」"
 
 [[dialogue]]
-speaker = "クラウディア"
+speaker_original = "クラウディア"
+speaker_translation = "클라우디아"
 original = "「それもこれも１２月２５日が余の誕生日だからということ、ゆめゆめ忘れるでないぞ！」"
 translation = "「이것도 저것도 12월 25일이 짐의 생일이기 때문이라는 것, 꿈에도 잊지 말지어다!」"
 

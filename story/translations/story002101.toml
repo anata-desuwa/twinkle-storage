@@ -1,250 +1,300 @@
 [[dialogue]]
-speaker = "ソフィア"
+speaker_original = "ソフィア"
+speaker_translation = "소피아"
 original = "「──寒い」"
 translation = "「──추워」"
 
 [[dialogue]]
-speaker = "ソフィア"
+speaker_original = "ソフィア"
+speaker_translation = "소피아"
 original = "「寒い寒い寒い寒い寒い…………寒すぎます！！\u3000一体どうなっているんですか！？」"
 translation = "「추워추워추워추워추워………… 너무 추워요!! 대체 어떻게 된 건가요!?」"
 
 [[dialogue]]
-speaker = "セーラ"
+speaker_original = "セーラ"
+speaker_translation = "세라"
 original = "「ね～？\u3000寒いのも含めて冬の風情なんだけどさ──今年はいつもよりだいぶキビシー感じだし」"
 translation = "「그치~? 추운 것도 포함해서 겨울의 정취라곤 하지만── 올해는 평소보다 꽤 엄한 느낌이네」"
 
 [[dialogue]]
-speaker = "ソフィア"
+speaker_original = "ソフィア"
+speaker_translation = "소피아"
 original = "「本当です！\u3000せっかく人間界の冬にも慣れてきたと思っていたのに……ぶるぶる」"
 translation = "「정말이에요! 겨우 인간계의 겨울에도 익숙해졌다고 생각했는데…… 덜덜」"
 
 [[dialogue]]
-speaker = "ルリエル"
+speaker_original = "ルリエル"
+speaker_translation = "루리엘"
 original = "「まあまあ。それでもソフィアのふるさとよりは過ごしやすいんじゃないですか？」"
 translation = "「자자. 그래도 소피아의 고향보다는 지내기 편하지 않나요?」"
 
 [[dialogue]]
-speaker = "ニャリオン"
+speaker_original = "ニャリオン"
+speaker_translation = "냐리온"
 original = "「そうニャ。ワガハイもあそこの寒さはもう御免だニャン」"
 translation = "「그렇다냐. 이 몸도 그곳의 추위는 이제 사양이다냥」"
 
 [[dialogue]]
-speaker = "ソフィア"
+speaker_original = "ソフィア"
+speaker_translation = "소피아"
 original = "「確かにレゾフよりはマシですが……それでも<ruby>人間界<rt>こっち</rt></ruby>は<ruby>人間界<rt>こっち</rt></ruby>特有の寒さがあるんですぅ」"
 translation = "「확실히 레조프보다는 낫지만…… 그래도 인간계은 인간계 특유의 추위가 있다구요」"
 
 [[dialogue]]
-speaker = "ユウリ"
+speaker_original = "ユウリ"
+speaker_translation = "유우리"
 original = "「そういや、サーシャさんが言ってたけど……ソフィアは南国の写真を見て、人間界丸ごとそんなとこだって思い込んでたらしいな」"
 translation = "「그러고 보니, 사샤 씨가 말했는데…… 소피아는 남국 사진을 보고 인간계 전체가 그런 곳이라고 착각했다면서」"
 
 [[dialogue]]
-speaker = "アポロ"
+speaker_original = "アポロ"
+speaker_translation = "아폴로"
 original = "「なんだ。ソフィアも案外抜けてるとこあるんだな！」"
 translation = "「뭐야. 소피아도 의외로 얼빠진 구석이 있구나!」"
 
 [[dialogue]]
-speaker = "ソフィア"
+speaker_original = "ソフィア"
+speaker_translation = "소피아"
 original = "「む……昔の話です！\u3000それに、全部がそうと思ってたわけじゃありませんからっ」"
 translation = "「예…… 옛날 이야기예요! 그리고 전부 그렇다고 생각한 건 아니니까요」"
 
 [[dialogue]]
-speaker = "セーラ"
+speaker_original = "セーラ"
+speaker_translation = "세라"
 original = "「あはは。<ruby>星徒会メンバー<rt>うちら</rt></ruby>ともすっかり馴染んじゃってんね～、アポロちゃん」"
 translation = "「아하하. 성도회 멤버랑도 완전히 친해져 버렸네~, 아폴로 짱」"
 
 [[dialogue]]
-speaker = "アポロ"
+speaker_original = "アポロ"
+speaker_translation = "아폴로"
 original = "「ふっ──妹の友達はあたしの友達も同然だからな！」"
 translation = "「훗── 동생의 친구는 내 친구나 다름없으니까!」"
 
 [[dialogue]]
-speaker = "ルリエル"
+speaker_original = "ルリエル"
+speaker_translation = "루리엘"
 original = "「はい、ソフィア。わたしのぽかぽかカイロをおすそわけです♪」"
 translation = "「자, 소피아. 제 따끈따끈한 핫팩을 나눠드릴게요♪」"
 
 [[dialogue]]
-speaker = "ソフィア"
+speaker_original = "ソフィア"
+speaker_translation = "소피아"
 original = "「ありがとう、ルリ………………おかわり」"
 translation = "「고마워, 루리……………… 한 개 더」"
 
 [[dialogue]]
-speaker = "ルリエル"
+speaker_original = "ルリエル"
+speaker_translation = "루리엘"
 original = "「まだですか！？」"
 translation = "「아직인가요!?」"
 
 [[dialogue]]
-speaker = "セーラ"
+speaker_original = "セーラ"
+speaker_translation = "세라"
 original = "「ま、うちもさすがに生足厳しくなってきたなーって思ったけど」"
 translation = "「뭐, 나도 역시 맨다리는 엄해졌네~라고 생각하긴 했지만」"
 
 [[dialogue]]
-speaker = "アポロ"
+speaker_original = "アポロ"
+speaker_translation = "아폴로"
 original = "「そーだな。いくら四季っても限度があるぞ──どこかにアチアチなスポットはないのか、フィオナ！」"
 translation = "「그렇지. 아무리 사계절이라도 한도가 있다고── 어디 뜨끈뜨끈한 스폿은 없는 거야, 피오나!」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「そうですね──……」"
 translation = "「글쎄요──……」"
 
 [[dialogue]]
-speaker = "ユウリ"
+speaker_original = "ユウリ"
+speaker_translation = "유우리"
 original = "「ないだろ～、そんな都合のいい場所」"
 translation = "「없겠지~, 그런 형편 좋은 장소」"
 
 [[dialogue]]
-speaker = "ルリエル"
+speaker_original = "ルリエル"
+speaker_translation = "루리엘"
 original = "「冬は寒いものですからね」"
 translation = "「겨울은 추운 법이니까요」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「んー……そうでもないかもしれませんよ？\u3000<b>あそこ</b>なら……」"
 translation = "「음~…… 그렇지 않을지도 몰라요? <b>그곳</b>이라면……」"
 
 [[dialogue]]
-speaker = "ニャリオン"
+speaker_original = "ニャリオン"
+speaker_translation = "냐리온"
 original = "「まさか……ニャ！」"
 translation = "「설마…… 냐!」"
 
 [[dialogue]]
-speaker = "アポロ"
+speaker_original = "アポロ"
+speaker_translation = "아폴로"
 original = "「おおおお～～～～～～っっ！！」"
 translation = "「오오오오~~~~~~옷!!」"
 
 [[dialogue]]
-speaker = "ソフィア"
+speaker_original = "ソフィア"
+speaker_translation = "소피아"
 original = "「す……すごいです……この気温……この日差し……まさに常夏の楽園……」"
 translation = "「그…… 굉장해요…… 이 기온…… 이 햇살…… 그야말로 상하의 낙원……」"
 
 [[dialogue]]
-speaker = "セーラ"
+speaker_original = "セーラ"
+speaker_translation = "세라"
 original = "「へー！\u3000うち、初めて来たけど──もう夏のまんまじゃん！」"
 translation = "「헤~! 나, 처음 와봤는데── 벌써 완전 여름이잖아!」"
 
 [[dialogue]]
-speaker = "ユウリ"
+speaker_original = "ユウリ"
+speaker_translation = "유우리"
 original = "「すげ──想像以上だな。こんなのが学園に繋がってるのかよ！」"
 translation = "「굉장해── 상상 이상인데. 이런 게 학원에 연결되어 있는 거냐고!」"
 
 [[dialogue]]
-speaker = "アポロ"
+speaker_original = "アポロ"
+speaker_translation = "아폴로"
 original = "「すごいな、この格好でも全然寒くないぞ！」"
 translation = "「대단하네, 이 복장인데도 전혀 춥지 않아!」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「姉さん、その水着はどうしたんですか？\u3000見たことがありませんけど……」"
 translation = "「언니, 그 수영복은 어떻게 된 건가요? 본 적이 없습니다만……」"
 
 [[dialogue]]
-speaker = "アポロ"
+speaker_original = "アポロ"
+speaker_translation = "아폴로"
 original = "「なんかここに来たらいきなり水着に変身しちまってたんだ」"
 translation = "「뭔가 여기 오니까 갑자기 수영복으로 변신해 버렸어」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「えええっ！？」"
 translation = "「에에엣!?」"
 
 [[dialogue]]
-speaker = "ユウリ"
+speaker_original = "ユウリ"
+speaker_translation = "유우리"
 original = "「驚くのはまだ早いぜ、フィオナ」"
 translation = "「놀라기엔 아직 이르다구, 피오나」"
 
 [[dialogue]]
-speaker = "セーラ"
+speaker_original = "セーラ"
+speaker_translation = "세라"
 original = "「そーいうこと♪\u3000うちらからもサプライズがあるんだよね～」"
 translation = "「그런 말씀♪ 우리한테서도 서프라이즈가 있거든~」"
 
 [[dialogue]]
-speaker = "ソフィア"
+speaker_original = "ソフィア"
+speaker_translation = "소피아"
 original = "「はい、では行きますよ」"
 translation = "「네, 그럼 갑니다」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「みんなも水着フォームを！？」"
 translation = "「모두들 수영복 폼을!?」"
 
 [[dialogue]]
-speaker = "ルリエル"
+speaker_original = "ルリエル"
+speaker_translation = "루리엘"
 original = "「セーラさん！\u3000水着が麗し～です！」"
 translation = "「세라 씨! 수영복이 너무 아름다워요~!」"
 
 [[dialogue]]
-speaker = "セーラ"
+speaker_original = "セーラ"
+speaker_translation = "세라"
 original = "「あはは、あんがと♪\u3000ルリちーの水着もめっちゃ可愛いね！」"
 translation = "「아하하, 고마워♪ 루리치의 수영복도 엄청 귀엽네!」"
 
 [[dialogue]]
-speaker = "ルリエル"
+speaker_original = "ルリエル"
+speaker_translation = "루리엘"
 original = "「えへへ、ありがとうございます♪」"
 translation = "「에헤헤, 감사합니다♪」"
 
 [[dialogue]]
-speaker = "アポロ"
+speaker_original = "アポロ"
+speaker_translation = "아폴로"
 original = "「あたしは！？\u3000あたしのはどーなんだ！？」"
 translation = "「나는!? 내 건 어때!?」"
 
 [[dialogue]]
-speaker = "ルリエル"
+speaker_original = "ルリエル"
+speaker_translation = "루리엘"
 original = "「もちろんめっかわです！」"
 translation = "「물론 엄청 귀여워요!」"
 
 [[dialogue]]
-speaker = "ユウリ"
+speaker_original = "ユウリ"
+speaker_translation = "유우리"
 original = "「なんつーか、さっきまで厚着だったのにいきなり水着ってのはなんか……照れるな……」"
 translation = "「뭐랄까, 방금 전까지 두꺼운 옷이었는데 갑자기 수영복이라는 건 뭔가…… 부끄럽구만……」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「ふふっ、ここは常夏のビーチなんですから、厚着のままでいる方が不自然ですよ」"
 translation = "「후후, 여기는 상하의 비치니까요, 두꺼운 옷을 입고 있는 게 더 부자연스러워요」"
 
 [[dialogue]]
-speaker = "アポロ"
+speaker_original = "アポロ"
+speaker_translation = "아폴로"
 original = "「だったらフィオナもさっさと着替えちまえよ！」"
 translation = "「그렇다면 피오나도 얼른 갈아입어 버려!」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「ええ、そうですね」"
 translation = "「네, 그러게요」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「私も準備完了です」"
 translation = "「저도 준비 완료입니다」"
 
 [[dialogue]]
-speaker = "ユウリ"
+speaker_original = "ユウリ"
+speaker_translation = "유우리"
 original = "「よーし、それじゃ夏気分に思いっきり浸らせてもらうぜ！」"
 translation = "「좋아, 그럼 여름 기분을 마음껏 만끽해 주겠음!」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「今回はリップルさんから、プライベートビーチの方に招待してもらいました」"
 translation = "「이번에는 리플 씨로부터 프라이빗 비치 쪽으로 초대받았습니다」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「私たち以外は誰もいませんし、好きに遊んでいいそうですよ。星徒会業務の息抜きに……と」"
 translation = "「우리 외에는 아무도 없으니, 마음껏 놀아도 좋다고 하셨어요. 성도회 업무의 휴식 겸 해서……라며」"
 
 [[dialogue]]
-speaker = "アポロ"
+speaker_original = "アポロ"
+speaker_translation = "아폴로"
 original = "「今はこの海ぜーんぶあたしたちで独り占めってことか！\u3000サイコーだな！」"
 translation = "「지금은 이 바다 전~부 우리가 독점한다는 거네! 최고다!」"
 
 [[dialogue]]
-speaker = "アポロ"
+speaker_original = "アポロ"
+speaker_translation = "아폴로"
 original = "「って……およ？\u3000なあフィオナ、向こうから誰か来るぞ──」"
 translation = "「어…… 어라? 어이 피오나, 저쪽에서 누군가 온다구──」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「あら……？」"
 translation = "「어머……?」"
 
@@ -254,7 +304,8 @@ original = "見覚えのある面々がぞろそろぞと……"
 translation = "낯익은 면면들이 줄줄이……"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「水着に着替えて準備は万全ってところね！\u3000せっかくだから私たちも参加させてもらうわ！」"
 translation = "「수영복으로 갈아입고 준비는 만전인 모양이네! 이왕 이렇게 된 거 우리도 참가하겠어!」"
 

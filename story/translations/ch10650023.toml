@@ -4,12 +4,14 @@ original = "第３話,とある聖女の休日,P"
 translation = "제3화, 어느 성녀의 휴일, P"
 
 [[dialogue]]
-speaker = "イレーナ"
+speaker_original = "イレーナ"
+speaker_translation = "이레이나"
 original = "「しゃあっ！\u3000アイム、ウィナー！\u3000あんたゲームけっこう弱いわね♪」"
 translation = "「샤앗! 아임 위너! 너 게임 꽤 못하네♪」"
 
 [[dialogue]]
-speaker = "イレーナ"
+speaker_original = "イレーナ"
+speaker_translation = "이레이나"
 original = "「約束通りコンビニへの買い出しはあんたの役目ね。ホットココアと肉まんと、なんか適当にお菓子買ってきて。ああ、あとティラミスも♪」"
 translation = "「약속대로 편의점 심부름은 네 차례야. 핫초코랑 고기 만두랑, 대충 과자 좀 사 와. 아, 그리고 티라미수도♪」"
 
@@ -19,67 +21,80 @@ original = "どうしてうちにそんな格好で……"
 translation = "어째서 우리 집에 그런 차림으로……"
 
 [[dialogue]]
-speaker = "イレーナ"
+speaker_original = "イレーナ"
+speaker_translation = "이레이나"
 original = "「いいじゃない別に。今日は母親もいないんでしょ？\u3000てかスケベな目で見ないでよ、この変態。これは寝間着代わりよ。動きやすくて楽だし」"
 translation = "「뭐 어때서 그래. 오늘은 어머니도 안 계시잖아? 그보다 음란한 눈으로 보지 마, 이 변태. 이건 잠옷 대신이야. 움직이기 편해서 좋거든.」"
 
 [[dialogue]]
-speaker = "イレーナ"
+speaker_original = "イレーナ"
+speaker_translation = "이레이나"
 original = "「ほらあたし、ここんとこずーっとクリスマス会の準備やらアドベントやらで大忙しだったじゃない？」"
 translation = "「봐봐 나, 요새 계~속 크리스마스 파티 준비니 강림절이니 해서 엄청 바빴잖아?」"
 
 [[dialogue]]
-speaker = "イレーナ"
+speaker_original = "イレーナ"
+speaker_translation = "이레이나"
 original = "「だから……ん～……たまの休みくらい気軽に過ごせる場所で羽根を伸ばしたくって」"
 translation = "「그러니까…… 음~…… 가끔 있는 휴일 정도는 마음 편히 지낼 수 있는 곳에서 쉬고 싶어서.」"
 
 [[dialogue]]
-speaker = "イレーナ"
+speaker_original = "イレーナ"
+speaker_translation = "이레이나"
 original = "「あ～今日はもう絶対この家から一歩も外に出ないわ。一日中ダラダラゲームしながら過ごしてやるの」"
 translation = "「아~ 오늘은 이제 절대 이 집에서 한 발짝도 안 나갈 거야. 하루 종일 빈둥빈둥 게임이나 하면서 보낼 거라고.」"
 
 [[dialogue]]
-speaker = "イレーナ"
+speaker_original = "イレーナ"
+speaker_translation = "이레이나"
 original = "「ということで、さっさと飲み物とお菓子買ってきなさい。戻ったらもう一戦やるわよ、もう一戦！」"
 translation = "「그러니까, 어서 마실 거랑 과자 사 오렴. 돌아오면 한 판 더 하는 거야, 한 판 더!」"
 
 [[dialogue]]
-speaker = "イレーナ"
+speaker_original = "イレーナ"
+speaker_translation = "이레이나"
 original = "「ん？\u3000こんな時に誰かしら──げっ、シャロン！？」"
 translation = "「응? 이럴 때 누구지── 겍, 샤론!?」"
 
 [[dialogue]]
-speaker = "イレーナ"
+speaker_original = "イレーナ"
+speaker_translation = "이레이나"
 original = "「うわぁ、出たくない……。またなんか面倒なこと頼まれるに決まってるし。絶対に今日は働かないわよ……！\u3000待ちに待った休みなんだから……！」"
 translation = "「우와아, 나가기 싫어……. 또 뭔가 귀찮은 일 부탁할 게 뻔하고. 절대로 오늘은 일 안 할 거야……! 기다리고 기다리던 휴일이니까……!」"
 
 [[dialogue]]
-speaker = "イレーナ"
+speaker_original = "イレーナ"
+speaker_translation = "이레이나"
 original = "「ああもう、うざったいわね……！\u3000一体なんなのよっ！」"
 translation = "「아 정말, 성가시네……! 대체 뭔데!」"
 
 [[dialogue]]
-speaker = "イレーナ"
+speaker_original = "イレーナ"
+speaker_translation = "이레이나"
 original = "「もしもし！？\u3000悪いけどあたし、今日は休みで──」"
 translation = "「여보세요!? 미안하지만 나, 오늘은 휴일이라──」"
 
 [[dialogue]]
-speaker = "シャロン"
+speaker_original = "シャロン"
+speaker_translation = "샤론"
 original = "『ああ、ようやく繋がりました……！\u3000どうか早く来てください、子どもたちの一大事なのです……！』"
 translation = "『아아, 겨우 연결됐네요……! 제발 빨리 와주세요, 아이들에게 큰일이 생겼어요……!』"
 
 [[dialogue]]
-speaker = "イレーナ"
+speaker_original = "イレーナ"
+speaker_translation = "이레이나"
 original = "「えっ？\u3000どういうこと？」"
 translation = "「엣? 무슨 소리야?」"
 
 [[dialogue]]
-speaker = "シャロン"
+speaker_original = "シャロン"
+speaker_translation = "샤론"
 original = "『詳しい事情はのちほど……！\u3000とにかくどうか急いでください……！\u3000流星学園の前でお待ちしていますから……！』"
 translation = "『자세한 사정은 나중에……! 아무튼 제발 서둘러 주세요……! 유성 학원 앞에서 기다리고 있을 테니까요……!』"
 
 [[dialogue]]
-speaker = "イレーナ"
+speaker_original = "イレーナ"
+speaker_translation = "이레이나"
 original = "「んなこと言われても今日はオフで──……んもうっ。言うだけ言って切ってくれちゃってっ。ホントあの子は……！」"
 translation = "「그런 말을 들어도 오늘은 오프인──…… 정말이지. 할 말만 하고 끊어버리다니. 진짜 쟤는……!」"
 
@@ -89,17 +104,20 @@ original = "どうするの？"
 translation = "어떡할 거야?"
 
 [[dialogue]]
-speaker = "イレーナ"
+speaker_original = "イレーナ"
+speaker_translation = "이레이나"
 original = "「もちろん無視よ無視。あたし、今日休みだもの。今日はめいっぱい羽根を伸ばすって決めてるの」"
 translation = "「당연히 무시지 무시. 나, 오늘 휴일이란 말이야. 오늘은 마음껏 쉴 거라고 정했어.」"
 
 [[dialogue]]
-speaker = "イレーナ"
+speaker_original = "イレーナ"
+speaker_translation = "이레이나"
 original = "「それよりほら、コンビニ行くわよコンビニ。やっぱりあたしも付き合うわ」"
 translation = "「그보다 자, 편의점 가자 편의점. 역시 나도 같이 갈래.」"
 
 [[dialogue]]
-speaker = "イレーナ"
+speaker_original = "イレーナ"
+speaker_translation = "이레이나"
 original = "「確か学園の近くに美味しいピッツァのお店があるのよね。急にあれが食べたくなっちゃったのよ」"
 translation = "「분명 학원 근처에 맛있는 피자 가게가 있었지. 갑자기 그게 먹고 싶어졌거든.」"
 
@@ -109,132 +127,158 @@ original = "ツンデレさんめ"
 translation = "츤데레 녀석"
 
 [[dialogue]]
-speaker = "イレーナ"
+speaker_original = "イレーナ"
+speaker_translation = "이레이나"
 original = "「なっ！？\u3000誰がツンデレよ！\u3000急にピッツァが食べたくなっただけって言ってるでしょ！\u3000他意はないんだからっ！」"
 translation = "「나앗!? 누가 츤데레야! 갑자기 피자가 먹고 싶어졌을 뿐이라고 말했잖아! 다른 뜻은 없으니까!」"
 
 [[dialogue]]
-speaker = "イレーナ"
+speaker_original = "イレーナ"
+speaker_translation = "이레이나"
 original = "「……で？\u3000まさかシャロン、一大事ってのは」"
 translation = "「……그래서? 설마 샤론, 큰일이라는 게」"
 
 [[dialogue]]
-speaker = "女の子"
+speaker_original = "女の子"
+speaker_translation = "여자아이"
 original = "「わぁ～！\u3000聖女さま、すご～い！\u3000どんどん雪が積もっていく～！」"
 translation = "「와아~! 성녀님, 대단해~! 눈이 점점 쌓여가~!」"
 
 [[dialogue]]
-speaker = "シャロン"
+speaker_original = "シャロン"
+speaker_translation = "샤론"
 original = "「ありがとうございます、イレーナさま！\u3000子どもたちと雪合戦をする約束だったのですが、雪が足らずに困っていたのですよ！」"
 translation = "「감사합니다, 이레나 님! 아이들과 눈싸움을 하기로 약속했는데, 눈이 부족해서 곤란해하고 있었거든요!」"
 
 [[dialogue]]
-speaker = "イレーナ"
+speaker_original = "イレーナ"
+speaker_translation = "이레이나"
 original = "「あたしは降雪機かっての……。慌てて来て損したわ……」"
 translation = "「내가 제설기냐고……. 서둘러 온 보람이 없네……」"
 
 [[dialogue]]
-speaker = "シャロン"
+speaker_original = "シャロン"
+speaker_translation = "샤론"
 original = "「ふふ、そう仰らずに。今日はお休みとお伺いしておりましたから。せっかくならイレーナさまも一緒に雪合戦はいかがですか？」"
 translation = "「후후, 그렇게 말씀하지 마시고요. 오늘은 휴일이라고 들었으니까요. 이왕이면 이레나 님도 함께 눈싸움은 어떠신가요?」"
 
 [[dialogue]]
-speaker = "イレーナ"
+speaker_original = "イレーナ"
+speaker_translation = "이레이나"
 original = "「あたしは会長ん家で一日ダラダラゴロゴロするつもりだったんだってば！\u3000なのにこんなクソ寒い中、雪合戦なんて。雪降らせたら帰るからね」"
 translation = "「나는 회장 집에서 하루 종일 빈둥빈둥 뒹굴거릴 생각이었다니까! 그런데 이렇게 더럽게 추운 와중에, 눈싸움이라니. 눈 내리게 했으면 갈 거니까.」"
 
 [[dialogue]]
-speaker = "シャロン"
+speaker_original = "シャロン"
+speaker_translation = "샤론"
 original = "「まぁまぁそう仰らずに。子どもたちもイレーナさまと一緒に遊べると聞いて喜んでいたのですよ？」"
 translation = "「자자 그렇게 말씀하지 마시고. 아이들도 이레나 님과 함께 놀 수 있다고 들어서 기뻐하고 있었답니다?」"
 
 [[dialogue]]
-speaker = "女の子"
+speaker_original = "女の子"
+speaker_translation = "여자아이"
 original = "「うん！\u3000いっしょにあそぼ～、聖女さま～！\u3000この間はプレゼントくれてありがとう～！」"
 translation = "「응! 같이 놀자~, 성녀님~! 지난번에는 선물 줘서 고마워~!」"
 
 [[dialogue]]
-speaker = "イレーナ"
+speaker_original = "イレーナ"
+speaker_translation = "이레이나"
 original = "「むぅ……ったくもう。あたしなんかと遊んで何が楽しいんだか……」"
 translation = "「무으…… 정말이지. 나 같은 거랑 놀아서 뭐가 즐겁다고……」"
 
 [[dialogue]]
-speaker = "シャロン"
+speaker_original = "シャロン"
+speaker_translation = "샤론"
 original = "「会長さまもどうぞ！\u3000会長さまが一緒ならイレーナさまもきっとお喜びになりますよ！」"
 translation = "「회장님도 어서요! 회장님이 함께라면 이레나 님도 분명 기뻐하실 거예요!」"
 
 [[dialogue]]
-speaker = "イレーナ"
+speaker_original = "イレーナ"
+speaker_translation = "이레이나"
 original = "「はぁっ！？\u3000コイツはそういうんじゃないわよ！？\u3000やっぱりあたし、帰っ──」"
 translation = "「하앗!? 이 녀석은 그런 게 아니라고!? 역시 나, 돌아갈──」"
 
 [[dialogue]]
-speaker = "シャロン"
+speaker_original = "シャロン"
+speaker_translation = "샤론"
 original = "「えいっ♪」"
 translation = "「에잇♪」"
 
 [[dialogue]]
-speaker = "イレーナ"
+speaker_original = "イレーナ"
+speaker_translation = "이레이나"
 original = "「ぶふっ！？\u3000ちょっと！？\u3000何すんの──よっ！」"
 translation = "「푸훕!? 잠깐!? 뭐 하는 거── 야!」"
 
 [[dialogue]]
-speaker = "シャロン"
+speaker_original = "シャロン"
+speaker_translation = "샤론"
 original = "「きゃふっ！\u3000お尻はくすぐったいですよ、イレーナさま」"
 translation = "「꺄훗! 엉덩이는 간지러워요, 이레나 님.」"
 
 [[dialogue]]
-speaker = "イレーナ"
+speaker_original = "イレーナ"
+speaker_translation = "이레이나"
 original = "「いきなり顔面に投げつけてきたあんたに言われたくないわよ！？」"
 translation = "「갑자기 얼굴에 던져댄 너한테 듣고 싶지 않거든!?」"
 
 [[dialogue]]
-speaker = "シャロン"
+speaker_original = "シャロン"
+speaker_translation = "샤론"
 original = "「ふふふ。不意打ちは雪合戦の醍醐味と聞いたもので。ですが楽しいですね。雪合戦というものは」"
 translation = "「후후후. 기습은 눈싸움의 묘미라고 들었거든요. 하지만 즐겁네요. 눈싸움이라는 건.」"
 
 [[dialogue]]
-speaker = "イレーナ"
+speaker_original = "イレーナ"
+speaker_translation = "이레이나"
 original = "「何よ……。もしかしてシャロン、雪合戦するの初めてなの？」"
 translation = "「뭐야……. 설마 샤론, 눈싸움 하는 거 처음이야?」"
 
 [[dialogue]]
-speaker = "シャロン"
+speaker_original = "シャロン"
+speaker_translation = "샤론"
 original = "「お恥ずかしながら。幼い頃は体も今より弱くて、冬場は家にこもりきりでしたので」"
 translation = "「부끄럽지만요. 어릴 때는 몸이 지금보다 약해서, 겨울철에는 집에만 틀어박혀 있었거든요.」"
 
 [[dialogue]]
-speaker = "シャロン"
+speaker_original = "シャロン"
+speaker_translation = "샤론"
 original = "「ですので実は憧れていたのです。こうして友人と雪合戦に興じることに」"
 translation = "「그래서 사실 동경하고 있었답니다. 이렇게 친구와 눈싸움을 즐기는 것을요.」"
 
 [[dialogue]]
-speaker = "イレーナ"
+speaker_original = "イレーナ"
+speaker_translation = "이레이나"
 original = "「まったくもう……。んなこと言われたら帰りづらくなるじゃない。ま……あたしも雪合戦なんて聖女って呼ばれる前にした以来だし」"
 translation = "「정말이지……. 그런 말을 들으면 돌아가기 힘들어지잖아. 뭐…… 나도 눈싸움 같은 건 성녀라고 불리기 전에 했던 이후로 처음이고.」"
 
 [[dialogue]]
-speaker = "イレーナ"
+speaker_original = "イレーナ"
+speaker_translation = "이레이나"
 original = "「たまには童心に帰って遊ぶのも……悪くはないかもね」"
 translation = "「가끔은 동심으로 돌아가 노는 것도…… 나쁘지 않을지도.」"
 
 [[dialogue]]
-speaker = "シャロン"
+speaker_original = "シャロン"
+speaker_translation = "샤론"
 original = "「ふふ、ありがとうございます！\u3000お優しいイレーナさま！」"
 translation = "「후후, 감사합니다! 상냥하신 이레나 님!」"
 
 [[dialogue]]
-speaker = "イレーナ"
+speaker_original = "イレーナ"
+speaker_translation = "이레이나"
 original = "「イ、イチイチお礼とか言わなくていいっての。やるならちゃっちゃと始めるわよ。まずはチーム分けから──」"
 translation = "「이, 일일이 감사 인사 같은 거 안 해도 된다니까. 할 거면 후딱 시작하자고. 우선 팀 나누기부터──」"
 
 [[dialogue]]
-speaker = "イレーナ"
+speaker_original = "イレーナ"
+speaker_translation = "이레이나"
 original = "「ちょっと、ボサっとしてないであんたも来なさい。あたしの肉盾にしてやるわ」"
 translation = "「잠깐, 멍하니 있지 말고 너도 와. 내 고기 방패로 삼아줄게.」"
 
 [[dialogue]]
-speaker = "イレーナ"
+speaker_original = "イレーナ"
+speaker_translation = "이레이나"
 original = "「あんたもなんだかんだ忙しく過ごしてるんでしょ？\u3000ふふん、思いっきり体でも動かして一緒にストレス発散しましょっ」"
 translation = "「너도 이래저래 바쁘게 지내고 있잖아? 후훗, 마음껏 몸이라도 움직여서 같이 스트레스 발산하자고.」"
 

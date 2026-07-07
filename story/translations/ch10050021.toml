@@ -19,12 +19,14 @@ original = "もちろん俺の隣にいるのは──"
 translation = "물론 내 옆에 있는 것은──"
 
 [[dialogue]]
-speaker = "ソフィア"
+speaker_original = "ソフィア"
+speaker_translation = "소피아"
 original = "「あ、わ、わっ……ちょ、ちょっと待ってください。会長さん。こういう履き物は慣れてなくって……」"
 translation = "「아, 와, 와앗…… 저, 잠시만 기다려 주세요. 회장님. 이런 신발은 익숙하지 않아서……」"
 
 [[dialogue]]
-speaker = "ソフィア"
+speaker_original = "ソフィア"
+speaker_translation = "소피아"
 original = "「……っと、ふぅ。オーケーです。ご心配をおかけしました」"
 translation = "「……윽, 후우. 오케이입니다. 걱정 끼쳐 드렸네요」"
 
@@ -34,17 +36,20 @@ original = "歩くの速かったかな？"
 translation = "걷는 게 너무 빨랐나?"
 
 [[dialogue]]
-speaker = "ソフィア"
+speaker_original = "ソフィア"
+speaker_translation = "소피아"
 original = "「い、いいえ。会長さんはゆっくり歩いてくださっています。躓きそうになったのは、私が周りを見ていたからで……」"
 translation = "「아, 아니에요. 회장님은 천천히 걸어주고 계세요. 넘어질 뻔한 건, 제가 주변을 구경하느라……」"
 
 [[dialogue]]
-speaker = "ソフィア"
+speaker_original = "ソフィア"
+speaker_translation = "소피아"
 original = "「人間界のお正月はやっぱり華やかです。みなさん綺麗な着物姿ですし、おみくじや露店もたくさん並んでいて目移りしてしまって」"
 translation = "「인간계의 정월은 역시 화려해요. 다들 예쁜 기모노 차림이고, 점괘나 노점도 잔뜩 늘어서 있어서 눈을 뗄 수가 없어서요」"
 
 [[dialogue]]
-speaker = "ソフィア"
+speaker_original = "ソフィア"
+speaker_translation = "소피아"
 original = "「躓いて転ぶだなんてフィギュアスケーターとしてあってはならないことです。気を引き締めないと……」"
 translation = "「넘어져서 구르다니 피겨 스케이터로서 있을 수 없는 일이에요. 정신 차려야지……」"
 
@@ -54,32 +59,38 @@ original = "じゃあ手を繋ごうか"
 translation = "그럼 손을 잡을까"
 
 [[dialogue]]
-speaker = "ソフィア"
+speaker_original = "ソフィア"
+speaker_translation = "소피아"
 original = "「あっ……はい♪\u3000通行人の方がたくさんいらっしゃいますから、ちょっぴり恥ずかしいですけれど……恋人同士なら普通、ですよね？」"
 translation = "「앗…… 네♪ 지나가는 분들이 많이 계시니까, 조금 부끄럽긴 하지만…… 연인 사이라면 보통, 이겠죠?」"
 
 [[dialogue]]
-speaker = "ソフィア"
+speaker_original = "ソフィア"
+speaker_translation = "소피아"
 original = "「それじゃあ会長さん。エスコート、よろしくお願いします<emoji=heart04>」"
 translation = "「그러면 회장님. 에스코트, 잘 부탁드려요 <emoji=heart04>」"
 
 [[dialogue]]
-speaker = "ソフィア"
+speaker_original = "ソフィア"
+speaker_translation = "소피아"
 original = "「なるほど。この桐箪笥のような引き出しに、おみくじが入っているんですね」"
 translation = "「그렇군요. 이 오동나무장 같은 서랍에 점괘가 들어있는 거군요」"
 
 [[dialogue]]
-speaker = "ソフィア"
+speaker_original = "ソフィア"
+speaker_translation = "소피아"
 original = "「何だかおしゃれですね。ではでは……あ、私が開けるのはこの引き出しみたいです。では、えいっ……！」"
 translation = "「어쩐지 멋지네요. 그럼 어디…… 아, 제가 열 서랍은 이 서랍인 것 같아요. 그럼, 에잇……!」"
 
 [[dialogue]]
-speaker = "ソフィア"
+speaker_original = "ソフィア"
+speaker_translation = "소피아"
 original = "「運勢は──」"
 translation = "「운세는──」"
 
 [[dialogue]]
-speaker = "ソフィア"
+speaker_original = "ソフィア"
+speaker_translation = "소피아"
 original = "「きょ、凶ッ……！？\u3000そそそ、そんなっ……！」"
 translation = "「흉, 흉……!? 거거거, 그럴 수가……!」"
 
@@ -89,47 +100,56 @@ original = "あ、俺も凶だ"
 translation = "아, 나도 흉이다"
 
 [[dialogue]]
-speaker = "ソフィア"
+speaker_original = "ソフィア"
+speaker_translation = "소피아"
 original = "「会長さんまで！？\u3000さ、幸先が良くないような……これってあれですか、私たち２人してアンラッキーイヤーってことなのでしょうか……」"
 translation = "「회장님까지!? 서, 서두가 좋지 않은 것 같은…… 이거 설마, 우리 둘 다 언럭키 이어라는 뜻일까요……」"
 
 [[dialogue]]
-speaker = "ソフィア"
+speaker_original = "ソフィア"
+speaker_translation = "소피아"
 original = "「……でも、考えようによっては、凶の方が良いかもしれませんね」"
 translation = "「……하지만, 생각하기에 따라서는 흉인 편이 나을지도 모르겠네요」"
 
 [[dialogue]]
-speaker = "ソフィア"
+speaker_original = "ソフィア"
+speaker_translation = "소피아"
 original = "「運勢が悪いですよと言われた方が、一日一日を注意深く過ごそうと思えますし」"
 translation = "「운세가 나쁘다는 말을 듣는 편이, 하루하루를 더 주의 깊게 보내려고 생각하게 되니까요」"
 
 [[dialogue]]
-speaker = "ソフィア"
+speaker_original = "ソフィア"
+speaker_translation = "소피아"
 original = "「学問……現状に満足せず励むべし。願望……叶いにくい、日々の積み重ねが第一歩……」"
 translation = "「학문…… 현상에 만족하지 말고 정진할 것. 소망…… 이루어지기 어렵다, 매일의 축적이 첫걸음……」"
 
 [[dialogue]]
-speaker = "ソフィア"
+speaker_original = "ソフィア"
+speaker_translation = "소피아"
 original = "「ふふ、努力ならば望むところです。よぉし、頑張っちゃいますよ……！」"
 translation = "「후후, 노력이라면 바라던 바예요. 좋아, 힘낼 거예요……!」"
 
 [[dialogue]]
-speaker = "ソフィア"
+speaker_original = "ソフィア"
+speaker_translation = "소피아"
 original = "「あ、そうです。会長さんのおみくじも見せて欲しいです。何が書いてあったんですか？」"
 translation = "「아, 맞다. 회장님의 점괘도 보고 싶어요. 뭐라고 적혀 있었나요?」"
 
 [[dialogue]]
-speaker = "ソフィア"
+speaker_original = "ソフィア"
+speaker_translation = "소피아"
 original = "「え～っと……だいたい私と同じですね。頑張らないと叶えられないというシビアなアドバイスが……むむっ？」"
 translation = "「어디 보자…… 대체로 저랑 비슷하네요. 노력하지 않으면 이룰 수 없다는 엄격한 조언이…… 으음?」"
 
 [[dialogue]]
-speaker = "ソフィア"
+speaker_original = "ソフィア"
+speaker_translation = "소피아"
 original = "「恋愛……女性関係で波乱の傾向あり。浮気心は捨てよ」"
 translation = "「연애…… 여성 관계로 파란이 일어날 경향 있음. 바람기는 버릴 것」"
 
 [[dialogue]]
-speaker = "ソフィア"
+speaker_original = "ソフィア"
+speaker_translation = "소피아"
 original = "「じぃ～っ……」"
 translation = "「지이익~……」"
 
@@ -139,42 +159,50 @@ original = "俺はソフィ一筋だから！？"
 translation = "나는 소피뿐이니까!?"
 
 [[dialogue]]
-speaker = "ソフィア"
+speaker_original = "ソフィア"
+speaker_translation = "소피아"
 original = "「本当でしょうか～？\u3000会長さんのことを狙っている女性はたくさんいらっしゃいますよね。両学園で心当たりがたくさんあります」"
 translation = "「정말일까요~? 회장님을 노리는 여성분들은 잔뜩 계시잖아요. 양쪽 학원에 짐작 가는 분들이 아주 많아요」"
 
 [[dialogue]]
-speaker = "ソフィア"
+speaker_original = "ソフィア"
+speaker_translation = "소피아"
 original = "「星徒会の方々は、綺麗でグラマラスな方ばかりですし。私なんて学年どころか学校も違いますし。色々ちっちゃいですし」"
 translation = "「성도회 분들은 다들 예쁘고 글래머러스한 분들뿐이고. 저 같은 건 학년은커녕 학교도 다르고. 여러모로 조그맣고」"
 
 [[dialogue]]
-speaker = "ソフィア"
+speaker_original = "ソフィア"
+speaker_translation = "소피아"
 original = "「この前も姉さんにむぎゅ～っと抱き着かれて、デレデレしてましたよね。知ってるんですからね？」"
 translation = "「저번에도 언니한테 꼬옥 안겨서 헤벌레하고 계셨죠. 다 알고 있다고요?」"
 
 [[dialogue]]
-speaker = "ソフィア"
+speaker_original = "ソフィア"
+speaker_translation = "소피아"
 original = "「何よりおみくじに書かれている言葉は、神様の言葉です。浮気心は捨てた方がいいと思いますが……」"
 translation = "「무엇보다 점괘에 적힌 말은 신령님의 말씀이에요. 바람기는 버리는 게 좋다고 생각합니다만……」"
 
 [[dialogue]]
-speaker = "ソフィア"
+speaker_original = "ソフィア"
+speaker_translation = "소피아"
 original = "「……なーんて。冗談ですよ、ふふっ。会長さんが一途な方だって、私はよく知っています」"
 translation = "「……라니. 농담이에요, 후후. 회장님이 일편단심이라는 거, 제가 잘 알고 있어요」"
 
 [[dialogue]]
-speaker = "ソフィア"
+speaker_original = "ソフィア"
+speaker_translation = "소피아"
 original = "「ぁ……後ろが混んできてますね。移動しましょうか」"
 translation = "「아…… 뒤쪽이 붐비기 시작하네요. 이동할까요」"
 
 [[dialogue]]
-speaker = "ソフィア"
+speaker_original = "ソフィア"
+speaker_translation = "소피아"
 original = "「元旦でなくとも凄い混み方ですね。おみくじも引けましたし、そろそろ移動しましょうか」"
 translation = "「원단이 아닌데도 엄청나게 붐비네요. 점괘도 뽑았으니 슬슬 이동할까요」"
 
 [[dialogue]]
-speaker = "ソフィア"
+speaker_original = "ソフィア"
+speaker_translation = "소피아"
 original = "「あ、あわわ。油断したらはぐれちゃいそうですっ……」"
 translation = "「아, 아와와. 방심하면 길을 잃어버릴 것 같아요……」"
 
@@ -184,22 +212,26 @@ original = "（ソフィアの手を握って引き寄せる）"
 translation = "(소피아의 손을 잡고 끌어당긴다)"
 
 [[dialogue]]
-speaker = "ソフィア"
+speaker_original = "ソフィア"
+speaker_translation = "소피아"
 original = "「あっ……<emoji=heart04>\u3000ふふ、ありがとうございます。そうですね。今日は一日、ずっと手を繋いでいた方がいいかもしれません」"
 translation = "「앗…… <emoji=heart04> 후후, 감사합니다. 그렇네요. 오늘은 하루 종일, 계속 손을 잡고 있는 게 좋을지도 모르겠어요」"
 
 [[dialogue]]
-speaker = "ソフィア"
+speaker_original = "ソフィア"
+speaker_translation = "소피아"
 original = "「はぐれないように、という意味ももちろんありますが……」"
 translation = "「길을 잃지 않기 위해서라는 의미도 물론 있지만……」"
 
 [[dialogue]]
-speaker = "ソフィア"
+speaker_original = "ソフィア"
+speaker_translation = "소피아"
 original = "「会長さんの手のひら、いつ握ってもあったかい……ソーホットですから♪」"
 translation = "「회장님의 손바닥, 언제 잡아도 따뜻해…… 소 핫(So hot) 하니까요♪」"
 
 [[dialogue]]
-speaker = "ソフィア"
+speaker_original = "ソフィア"
+speaker_translation = "소피아"
 original = "「会長さん、次は街の方に行きましょう。人間界には『初売りセール』というのがあるんですよね♪」"
 translation = "「회장님, 다음은 시내 쪽으로 가요. 인간계에는 『신년 세일』이라는 게 있다면서요♪」"
 

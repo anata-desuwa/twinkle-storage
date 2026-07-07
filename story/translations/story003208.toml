@@ -1,30 +1,36 @@
 [[dialogue]]
-speaker = "シャロン"
+speaker_original = "シャロン"
+speaker_translation = "샤론"
 original = "「カヌレは甘いですけど、攻撃は甘くないですよっ！\u3000それっ！」"
 translation = "「까눌레는 달콤하지만, 공격은 달콤하지 않아요! 에잇!」"
 
 [[dialogue]]
-speaker = "イレーナ"
+speaker_original = "イレーナ"
+speaker_translation = "이레이나"
 original = "「いい加減にしなさい！」"
 translation = "「적당히 좀 해!」"
 
 [[dialogue]]
-speaker = "ウルスラ"
+speaker_original = "ウルスラ"
+speaker_translation = "우르슬라"
 original = "「おふたりの星術は、モンスター退治の際に見させていただきました。残念ながらその程度の力では──」"
 translation = "「두 분의 성술은 몬스터를 퇴치할 때 봐 두었답니다. 안타깝지만 그 정도 힘으로는──」"
 
 [[dialogue]]
-speaker = "ウルスラ"
+speaker_original = "ウルスラ"
+speaker_translation = "우르슬라"
 original = "「──私の羽１枚散らせませんよ」"
 translation = "「──제 깃털 하나 흩날리게 할 수 없어요.」"
 
 [[dialogue]]
-speaker = "シャロン"
+speaker_original = "シャロン"
+speaker_translation = "샤론"
 original = "「簡単に弾かれちゃいましたっ！\u3000でもっ！」"
 translation = "「간단히 튕겨 나가 버렸어요! 하지만!」"
 
 [[dialogue]]
-speaker = "イレーナ"
+speaker_original = "イレーナ"
+speaker_translation = "이레이나"
 original = "「あたしたち２人じゃダメでも、星徒会長の一撃ならどう！？」"
 translation = "「우리 둘이서 안 된다면, 성도회장의 일격이라면 어때!?」"
 
@@ -34,57 +40,68 @@ original = "ディマイズブレイカー！"
 translation = "디마이즈 브레이커!"
 
 [[dialogue]]
-speaker = "ウルスラ"
+speaker_original = "ウルスラ"
+speaker_translation = "우르슬라"
 original = "「おっとっと。会長さんの攻撃は、ちょっと重いですね。それでも私に傷をつけるには至りませんけれど」"
 translation = "「어이쿠. 회장님의 공격은 조금 무겁네요. 그래도 제게 상처를 입히기엔 역부족이지만요.」"
 
 [[dialogue]]
-speaker = "ウルスラ"
+speaker_original = "ウルスラ"
+speaker_translation = "우르슬라"
 original = "「まだまだサービスタイム継続中です。ご延長、なさいます？」"
 translation = "「아직 서비스 타임 계속 중이에요. 연장하시겠어요?」"
 
 [[dialogue]]
-speaker = "シャロン"
+speaker_original = "シャロン"
+speaker_translation = "샤론"
 original = "「もちろんですっ！\u3000おかわりどうぞっ！」"
 translation = "「물론이에요! 한 그릇 더 주세요!」"
 
 [[dialogue]]
-speaker = "イレーナ"
+speaker_original = "イレーナ"
+speaker_translation = "이레이나"
 original = "「くっ……いくら当てても、全然効いてないっ……！\u3000鉄板でもぶん殴ってるみたいな気分だわ……！」"
 translation = "「큭…… 아무리 맞춰도 전혀 안 들어 가……! 철판이라도 때리고 있는 기분이야……!」"
 
 [[dialogue]]
-speaker = "シャロン"
+speaker_original = "シャロン"
+speaker_translation = "샤론"
 original = "「カカオ９９％どころか、こんなの１００％、いえ１０００％ですよーっ！」"
 translation = "「카카오 99%는커녕, 이건 100%, 아니 1000%예요~!」"
 
 [[dialogue]]
-speaker = "ウルスラ"
+speaker_original = "ウルスラ"
+speaker_translation = "우르슬라"
 original = "「無駄だとお分かりになったようですし、そろそろサービスタイム終了でよろしいでしょうか？\u3000反撃、行きますよ」"
 translation = "「무의미하다는 걸 깨달으신 모양이니, 슬슬 서비스 타임을 종료해도 될까요? 반격, 갑니다.」"
 
 [[dialogue]]
-speaker = "ウルスラ"
+speaker_original = "ウルスラ"
+speaker_translation = "우르슬라"
 original = "「愛の一矢、受け止めてください。ラヴスティンガー<emoji=heart04>」"
 translation = "「사랑의 화살, 받아내 주세요. 러브 스팅어<emoji=heart04>」"
 
 [[dialogue]]
-speaker = "イレーナ"
+speaker_original = "イレーナ"
+speaker_translation = "이레이나"
 original = "「──ッ！\u3000あたしを狙って──」"
 translation = "「──윽! 나를 노리고──」"
 
 [[dialogue]]
-speaker = "シャロン"
+speaker_original = "シャロン"
+speaker_translation = "샤론"
 original = "「危ない、イレーナさまーっ！」"
 translation = "「위험해요, 이레이나 님~!」"
 
 [[dialogue]]
-speaker = "イレーナ"
+speaker_original = "イレーナ"
+speaker_translation = "이레이나"
 original = "「えっ、シャロンっ！？」"
 translation = "「엣, 샤론!?」"
 
 [[dialogue]]
-speaker = "シャロン"
+speaker_original = "シャロン"
+speaker_translation = "샤론"
 original = "「きゃあぁあぁぁっ！？」"
 translation = "「꺄아아아악!?」"
 
@@ -94,32 +111,38 @@ original = "シャロンが身を挺してイレーナを……！"
 translation = "샤론이 몸을 던져 이레이나를……!"
 
 [[dialogue]]
-speaker = "イレーナ"
+speaker_original = "イレーナ"
+speaker_translation = "이레이나"
 original = "「あんたねえ！\u3000献身的なのもいい加減にしなさいよっ！」"
 translation = "「너 말이야! 헌신적인 것도 적당히 좀 해!」"
 
 [[dialogue]]
-speaker = "シャロン"
+speaker_original = "シャロン"
+speaker_translation = "샤론"
 original = "「だ、大丈夫です、大したダメージはありません」"
 translation = "「괘, 괜찮아요, 별거 아닌 데미지예요.」"
 
 [[dialogue]]
-speaker = "イレーナ"
+speaker_original = "イレーナ"
+speaker_translation = "이레이나"
 original = "「直撃してるのに、大丈夫なわけないでしょう！？\u3000自分の回復に専念して！」"
 translation = "「정통으로 맞았는데 괜찮을 리가 없잖아!? 자기 회복에 전념해!」"
 
 [[dialogue]]
-speaker = "シャロン"
+speaker_original = "シャロン"
+speaker_translation = "샤론"
 original = "「私の身を案じてくださるなんて……あぁん、イレーナさま、しゅきぃっ……<emoji=heart04>」"
 translation = "「제 몸을 걱정해 주시다니…… 아앙, 이레이나 님, 조와용……<emoji=heart04>」"
 
 [[dialogue]]
-speaker = "イレーナ"
+speaker_original = "イレーナ"
+speaker_translation = "이레이나"
 original = "「んなっ！？\u3000ちょ、抱きつくなっ……シャロン、戦闘中に何してんの！？」"
 translation = "「뭐앗!? 야, 달라붙지 마…… 샤론, 전투 중에 뭐 하는 거야!?」"
 
 [[dialogue]]
-speaker = "シャロン"
+speaker_original = "シャロン"
+speaker_translation = "샤론"
 original = "「会長さま～<emoji=heart04>\u3000イレーナさま～<emoji=heart04>\u3000あぁあぁんっ、しゅきしゅきだいしゅきです～<emoji=heart04>」"
 translation = "「회장님~<emoji=heart04> 이레이나 님~<emoji=heart04> 아아아앙, 조와조와 너무 조와용~<emoji=heart04>」"
 
@@ -129,52 +152,62 @@ original = "強烈すぎるハグ！？"
 translation = "너무나 강렬한 포옹!?"
 
 [[dialogue]]
-speaker = "イレーナ"
+speaker_original = "イレーナ"
+speaker_translation = "이레이나"
 original = "「突然、抱きつき魔になるなんて……シャロンの様子がおかしいっ……！」"
 translation = "「갑자기 달라붙는 귀신이 되다니…… 샤론의 상태가 이상해……!」"
 
 [[dialogue]]
-speaker = "イレーナ"
+speaker_original = "イレーナ"
+speaker_translation = "이레이나"
 original = "「ウルスラ！\u3000あんた、何かやったわね！？」"
 translation = "「우르술라! 너, 무슨 짓을 한 거야!?」"
 
 [[dialogue]]
-speaker = "ウルスラ"
+speaker_original = "ウルスラ"
+speaker_translation = "우르슬라"
 original = "「はい<emoji=heart04>\u3000これが私のハートの矢の効果です」"
 translation = "「네<emoji=heart04> 이게 제 하트 화살의 효과예요.」"
 
 [[dialogue]]
-speaker = "ウルスラ"
+speaker_original = "ウルスラ"
+speaker_translation = "우르슬라"
 original = "「私の矢を胸に受けると、その人の抱えている愛情が風船のように大きく膨れ上がるんです」"
 translation = "「제 화살을 가슴에 맞으면, 그 사람이 품고 있는 애정이 풍선처럼 크게 부풀어 오르게 된답니다.」"
 
 [[dialogue]]
-speaker = "ウルスラ"
+speaker_original = "ウルスラ"
+speaker_translation = "우르슬라"
 original = "「シャロンさんは、会長さんにもイレーナさんにも好意を寄せていたようですから、御覧のように──」"
 translation = "「샤론 씨는 회장님께도 이레이나 씨에게도 호의를 품고 있었던 모양이라, 보시는 바와 같이──」"
 
 [[dialogue]]
-speaker = "シャロン"
+speaker_original = "シャロン"
+speaker_translation = "샤론"
 original = "「あぁん、イレーナさま、イレーナさまぁ<emoji=heart04>\u3000凛々しいお顔、気品ある佇まい、お慕い申し上げております、しゅきしゅきしゅきしゅきぃいぃぃっ<emoji=heart04>」"
 translation = "「아앙, 이레이나 님, 이레이나 님아<emoji=heart04> 늠름한 얼굴, 기품 있는 자태, 사모하고 있어용, 조와조와조와조와아아악<emoji=heart04>」"
 
 [[dialogue]]
-speaker = "シャロン"
+speaker_original = "シャロン"
+speaker_translation = "샤론"
 original = "「会長さまもお優しくって格好よくって、しゅきしゅきしゅきしゅきぃ～～っ<emoji=heart04>」"
 translation = "「회장님도 다정하고 멋지셔서, 조와조와조와조와아아앙~~<emoji=heart04>」"
 
 [[dialogue]]
-speaker = "イレーナ"
+speaker_original = "イレーナ"
+speaker_translation = "이레이나"
 original = "「何よそれ！？\u3000もう星術っていうより新手の洗脳でしょ！？\u3000ああ、もうっ！\u3000離れなさいってばっ！\u3000正気に返れっ！」"
 translation = "「그게 뭐야!? 이제 성술이라기보다 신종 세뇌잖아!? 아아, 정말! 떨어지라니까! 정신 차려!」"
 
 [[dialogue]]
-speaker = "ウルスラ"
+speaker_original = "ウルスラ"
+speaker_translation = "우르슬라"
 original = "「お生憎さま。愛が満たされるまで、矢の効果は切れません。もうしばらくはかかるかと」"
 translation = "「안타깝게도요. 사랑이 채워질 때까지 화살의 효과는 풀리지 않아요. 좀 더 걸릴 것 같네요.」"
 
 [[dialogue]]
-speaker = "ウルスラ"
+speaker_original = "ウルスラ"
+speaker_translation = "우르슬라"
 original = "「そして、私の矢は１本だけではありません<emoji=heart04>」"
 translation = "「그리고 제 화살은 한 발뿐만이 아니랍니다<emoji=heart04>」"
 
@@ -189,27 +222,32 @@ original = "狙いは当然、イレーナの胸。"
 translation = "타겟은 당연히 이레이나의 가슴."
 
 [[dialogue]]
-speaker = "ウルスラ"
+speaker_original = "ウルスラ"
+speaker_translation = "우르슬라"
 original = "「イレーナさんに当てたら、どのような激しい愛情表現を見せてくれるのか……私、とっても興味があります<emoji=heart04>」"
 translation = "「이레이나 씨가 맞으면 어떤 격렬한 애정 표현을 보여줄지…… 저, 정말 흥미진진해요<emoji=heart04>」"
 
 [[dialogue]]
-speaker = "イレーナ"
+speaker_original = "イレーナ"
+speaker_translation = "이레이나"
 original = "「なっ……！？」"
 translation = "「뭐……!?」"
 
 [[dialogue]]
-speaker = "ウルスラ"
+speaker_original = "ウルスラ"
+speaker_translation = "우르슬라"
 original = "「シャロンさん、２人を抱きとめて、動きを抑えててくださいねー<emoji=heart04>」"
 translation = "「샤론 씨, 두 사람을 꽉 껴안아서 움직임을 봉쇄해 주세요~<emoji=heart04>」"
 
 [[dialogue]]
-speaker = "シャロン"
+speaker_original = "シャロン"
+speaker_translation = "샤론"
 original = "「しゅきしゅきしゅきしゅきしゅきーっ！」"
 translation = "「조와조와조와조와조와아앙!」"
 
 [[dialogue]]
-speaker = "イレーナ"
+speaker_original = "イレーナ"
+speaker_translation = "이레이나"
 original = "「あー、もうっ！\u3000こらシャロン！\u3000離れなさーい！」"
 translation = "「아, 정말! 이봐 샤론! 이거 놔!」"
 
@@ -219,27 +257,32 @@ original = "ごめん、シャロンっ！"
 translation = "미안, 샤론!"
 
 [[dialogue]]
-speaker = "シャロン"
+speaker_original = "シャロン"
+speaker_translation = "샤론"
 original = "「きゃーっ！？\u3000イレーナさまっ、会長さまっ、逃げちゃやですーっ！」"
 translation = "「꺄악!? 이레이나 님, 회장님, 도망가면 시러용~!」"
 
 [[dialogue]]
-speaker = "イレーナ"
+speaker_original = "イレーナ"
+speaker_translation = "이레이나"
 original = "「あんなの死んでも喰らってやるもんですか！\u3000一旦距離を取るわよっ！」"
 translation = "「저런 거 죽어도 맞을까 보냐! 일단 거리를 벌리자!」"
 
 [[dialogue]]
-speaker = "ウルスラ"
+speaker_original = "ウルスラ"
+speaker_translation = "우르슬라"
 original = "「ふふふ、それで逃げられるとお思いですか？」"
 translation = "「후후후, 그걸로 도망칠 수 있을 거라 생각하시나요?」"
 
 [[dialogue]]
-speaker = "ウルスラ"
+speaker_original = "ウルスラ"
+speaker_translation = "우르슬라"
 original = "「皆さんはもう学園どころか、この大聖堂からも出られないんです。逃げ場なんて、どこにもありませんよ<emoji=heart04>」"
 translation = "「여러분은 이제 학원은커녕 이 대성당에서도 나갈 수 없어요. 도망칠 곳 따윈 어디에도 없답니다<emoji=heart04>」"
 
 [[dialogue]]
-speaker = "ウルスラ"
+speaker_original = "ウルスラ"
+speaker_translation = "우르슬라"
 original = "「観念して……愛に素直になってください<emoji=heart04>」"
 translation = "「단념하고…… 사랑에 솔직해지세요<emoji=heart04>」"
 

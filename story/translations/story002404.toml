@@ -1,25 +1,30 @@
 [[dialogue]]
-speaker = "蘭美"
+speaker_original = "蘭美"
+speaker_translation = "라미"
 original = "「まず最初の花嫁修業はこれよ！\u3000お料理対決！」"
 translation = "「우선 첫 번째 신부 수업은 이거야! 요리 대결!」"
 
 [[dialogue]]
-speaker = "蘭美"
+speaker_original = "蘭美"
+speaker_translation = "라미"
 original = "「審判はマトイさんにお願いするわ。公平なジャッジを頼んだわよ」"
 translation = "「심판은 마토이 씨에게 부탁할게. 공정한 판정을 부탁해」"
 
 [[dialogue]]
-speaker = "マトイ"
+speaker_original = "マトイ"
+speaker_translation = "마토이"
 original = "「わ、私が審判なんですか？\u3000もっと家事の得意な人とかに判定してもらった方が……」"
 translation = "「저, 제가 심판인가요? 좀 더 가사 실력이 좋은 분이 판정해 주시는 게……」"
 
 [[dialogue]]
-speaker = "トワ先生"
+speaker_original = "トワ先生"
+speaker_translation = "토와 선생님"
 original = "「九浄家メイド隊の誰かとか？」"
 translation = "「쿠죠 가문 메이드대 중 누군가라든가?」"
 
 [[dialogue]]
-speaker = "蘭美"
+speaker_original = "蘭美"
+speaker_translation = "라미"
 original = "「それだと私たちに有利になってしまうかもしれないでしょう？」"
 translation = "「그러면 우리에게 유리해질지도 모르잖아?」"
 
@@ -29,32 +34,38 @@ original = "じゃ、星見家メイド隊は？"
 translation = "그럼, 호시미 가문 메이드대는?"
 
 [[dialogue]]
-speaker = "トワ先生"
+speaker_original = "トワ先生"
+speaker_translation = "토와 선생님"
 original = "「ぜぇええええったいダメ！！！\u3000特にマリオンには絶対に言わないで！！！」"
 translation = "「저어어어어어얼대 안 돼!!! 특히 마리온에게는 절대로 말하지 마!!!」"
 
 [[dialogue]]
-speaker = "ヨミ"
+speaker_original = "ヨミ"
+speaker_translation = "요미"
 original = "「そ、そうですね……あまり事態を拡散してしまうのも良くありませんし」"
 translation = "「그, 그렇네요…… 너무 사태를 확산시키는 것도 좋지 않으니까요」"
 
 [[dialogue]]
-speaker = "トワ先生"
+speaker_original = "トワ先生"
+speaker_translation = "토와 선생님"
 original = "「そうだよ！\u3000この話はこれ以上拡げない方向でお願い！」"
 translation = "「맞아! 이 이야기는 더 이상 퍼뜨리지 않는 방향으로 부탁해!」"
 
 [[dialogue]]
-speaker = "マトイ"
+speaker_original = "マトイ"
+speaker_translation = "마토이"
 original = "「わ、わかりました……それじゃ私でよければ審判役を務めさせてもらいます」"
 translation = "「아, 알겠습니다…… 그럼 저라도 괜찮다면 심판 역할을 맡을게요」"
 
 [[dialogue]]
-speaker = "マトイ"
+speaker_original = "マトイ"
+speaker_translation = "마토이"
 original = "「コホン……ではあらためまして、最初の対決は～……これっ！」"
 translation = "「큼큼…… 그럼 다시 한번, 첫 번째 대결은~…… 이거!」"
 
 [[dialogue]]
-speaker = "マトイ"
+speaker_original = "マトイ"
+speaker_translation = "마토이"
 original = "「胃袋を掴め、お料理対決～っ！」"
 translation = "「위장을 잡아라, 요리 대결~!」"
 
@@ -64,107 +75,128 @@ original = "みんな料理は大丈夫？"
 translation = "다들 요리는 괜찮아?"
 
 [[dialogue]]
-speaker = "蘭美"
+speaker_original = "蘭美"
+speaker_translation = "라미"
 original = "「ええ。世界最強のメイドを目指す者として、最高の１品を提供してみせるわ。おいしいだけじゃなく、誰よりも最速でね！」"
 translation = "「네. 세계 최강의 메이드를 지향하는 자로서 최고의 일품을 선사해 보이겠어. 맛있는 것뿐만 아니라 누구보다도 빠르게 말이야!」"
 
 [[dialogue]]
-speaker = "ヨミ"
+speaker_original = "ヨミ"
+speaker_translation = "요미"
 original = "「さすがはメイド長です……もう勝敗は見えてる感じがします……」"
 translation = "「과연 메이드장이에요…… 벌써 승패가 보이는 느낌이에요……」"
 
 [[dialogue]]
-speaker = "蘭美"
+speaker_original = "蘭美"
+speaker_translation = "라미"
 original = "「ヨミヨミは、料理は修業中だったかしら？」"
 translation = "「요미요미는 요리 수행 중이었지?」"
 
 [[dialogue]]
-speaker = "ヨミ"
+speaker_original = "ヨミ"
+speaker_translation = "요미"
 original = "「はい、正直あんまり得意じゃなくて……でもっ、メイドとして必ず上達してみせます！」"
 translation = "「네, 솔직히 별로 자신 없어서…… 하지만 메이드로서 반드시 실력을 키워 보이겠어요!」"
 
 [[dialogue]]
-speaker = "蘭美"
+speaker_original = "蘭美"
+speaker_translation = "라미"
 original = "「いい心懸けね。その調子で励みなさい」"
 translation = "「기특한 마음가짐이네. 그 기세로 정진하렴」"
 
 [[dialogue]]
-speaker = "ヨミ"
+speaker_original = "ヨミ"
+speaker_translation = "요미"
 original = "「はいっ！」"
 translation = "「네!」"
 
 [[dialogue]]
-speaker = "マトイ"
+speaker_original = "マトイ"
+speaker_translation = "마토이"
 original = "「ええと……こっちの２人はかなり本気みたいだけど、トワちゃん先生は大丈夫？」"
 translation = "「저기…… 이쪽 둘은 꽤 진심인 것 같은데 토와 짱 선생님은 괜찮아요?」"
 
 [[dialogue]]
-speaker = "トワ先生"
+speaker_original = "トワ先生"
+speaker_translation = "토와 선생님"
 original = "「だ、大丈夫じゃないかも。わたしの料理は、あくまで自分向けっていうか、お酒のつまみが多いからね……」"
 translation = "「괘, 괜찮지 않을지도. 내 요리는 어디까지나 나를 위한 거랄까, 술안주가 많으니까……」"
 
 [[dialogue]]
-speaker = "マトイ"
+speaker_original = "マトイ"
+speaker_translation = "마토이"
 original = "「となるとちょっと不利かなぁ。お酒のおつまみはごはんのおかずにもなると聞きますけど」"
 translation = "「그렇게 되면 좀 불리하려나. 술안주는 밥반찬도 된다고들 하지만요」"
 
 [[dialogue]]
-speaker = "マトイ"
+speaker_original = "マトイ"
+speaker_translation = "마토이"
 original = "「でも、これは花嫁修業だから！\u3000味では勝てなくても、お嫁さんとして愛情で勝っていれば、トワちゃん先生にも絶対に勝機はあります！」"
 translation = "「하지만 이건 신부 수업이니까요! 맛으로는 이기지 못해도 아내로서 애정으로 앞선다면 토와 짱 선생님에게도 반드시 승산은 있어요!」"
 
 [[dialogue]]
-speaker = "トワ先生"
+speaker_original = "トワ先生"
+speaker_translation = "토와 선생님"
 original = "「つまり、わたしは愛情で勝負しろってこと……？」"
 translation = "「그러니까 나는 애정으로 승부하라는 뜻……?」"
 
 [[dialogue]]
-speaker = "マトイ"
+speaker_original = "マトイ"
+speaker_translation = "마토이"
 original = "「そ、そうなるかな。頑張って、トワちゃん先生」"
 translation = "「그, 그렇게 되려나. 힘내세요, 토와 짱 선생님」"
 
 [[dialogue]]
-speaker = "トワ先生"
+speaker_original = "トワ先生"
+speaker_translation = "토와 선생님"
 original = "「うう、やるだけやってみるよ」"
 translation = "「으으, 할 수 있는 데까지 해볼게」"
 
 [[dialogue]]
-speaker = "マトイ"
+speaker_original = "マトイ"
+speaker_translation = "마토이"
 original = "「それではっ、料理対決スタートです！\u3000愛しい旦那さまに向けた最高の手料理を１品作って下さい！」"
 translation = "「그러면 요리 대결 스타트입니다! 사랑하는 서방님을 위한 최고의 손요리 하나를 만들어 주세요!」"
 
 [[dialogue]]
-speaker = "マトイ"
+speaker_original = "マトイ"
+speaker_translation = "마토이"
 original = "「トップバッターは蘭美さん、お願いします！」"
 translation = "「첫 번째 주자는 라비 씨, 부탁합니다!」"
 
 [[dialogue]]
-speaker = "蘭美"
+speaker_original = "蘭美"
+speaker_translation = "라미"
 original = "「出来たわ、家庭料理の定番、肉じゃがよ」"
 translation = "「완성됐어, 가정 요리의 기본, 니쿠자가야」"
 
 [[dialogue]]
-speaker = "ヨミ"
+speaker_original = "ヨミ"
+speaker_translation = "요미"
 original = "「こやっ！？\u3000速すぎです！\u3000所要時間ゼロですよ！？」"
 translation = "「코얏!? 너무 빨라요! 소요 시간 제로라니요!?」"
 
 [[dialogue]]
-speaker = "トワ先生"
+speaker_original = "トワ先生"
+speaker_translation = "토와 선생님"
 original = "「いったいどんなトリックが……もしかしてスーパーでお惣菜を買ってきたとか？」"
 translation = "「대체 어떤 트릭이…… 설마 마트에서 완제품을 사 온 건가?」"
 
 [[dialogue]]
-speaker = "蘭美"
+speaker_original = "蘭美"
+speaker_translation = "라미"
 original = "「それじゃ花嫁修業にならないでしょう？\u3000きちんと自分の手で作った料理よ」"
 translation = "「그러면 신부 수업이 안 되잖아? 제대로 내 손으로 만든 요리야」"
 
 [[dialogue]]
-speaker = "マトイ"
+speaker_original = "マトイ"
+speaker_translation = "마토이"
 original = "「じゃあいったいこれは……」"
 translation = "「그럼 대체 이건……」"
 
 [[dialogue]]
-speaker = "蘭美"
+speaker_original = "蘭美"
+speaker_translation = "라미"
 original = "「いくら私が最速でも、所要時間ゼロでは作れないわよ。貴方たちがおしゃべりに興じている間に作り始めていたの」"
 translation = "「아무리 내가 빠르다 해도 소요 시간 제로로 만들 순 없어. 당신들이 수다를 떨고 있는 사이에 만들기 시작했거든」"
 
@@ -174,42 +206,50 @@ original = "さすが蘭美、スピードスターすぎる"
 translation = "역시 라비, 스피드스터네"
 
 [[dialogue]]
-speaker = "蘭美"
+speaker_original = "蘭美"
+speaker_translation = "라미"
 original = "「お褒め頂きありがとう、旦那さま♪」"
 translation = "「칭찬해 줘서 고마워, 서방님♪」"
 
 [[dialogue]]
-speaker = "蘭美"
+speaker_original = "蘭美"
+speaker_translation = "라미"
 original = "「味は保証するわ。もちろんそれだけじゃなく、愛情もね」"
 translation = "「맛은 보장해. 물론 그것뿐만 아니라 애정도 말이야」"
 
 [[dialogue]]
-speaker = "蘭美"
+speaker_original = "蘭美"
+speaker_translation = "라미"
 original = "「そーれ、愛情注入～<emoji=heart04>」"
 translation = "「자아, 애정 주입~<emoji=heart04>」"
 
 [[dialogue]]
-speaker = "トワ先生"
+speaker_original = "トワ先生"
+speaker_translation = "토와 선생님"
 original = "「ななな、投げキッス～～～っ！！？」"
 translation = "「나나나, 손키스~~~!!?」"
 
 [[dialogue]]
-speaker = "ヨミ"
+speaker_original = "ヨミ"
+speaker_translation = "요미"
 original = "「うわ、これはかわいすぎます……正直反則ですよ～」"
 translation = "「우와, 이건 너무 귀여워요…… 솔직히 반칙이라구요~」"
 
 [[dialogue]]
-speaker = "蘭美"
+speaker_original = "蘭美"
+speaker_translation = "라미"
 original = "「花嫁修業だもの、旦那さまへのラブアピールだって完璧よ」"
 translation = "「신부 수업인걸, 서방님을 향한 러브 어필도 완벽해」"
 
 [[dialogue]]
-speaker = "マトイ"
+speaker_original = "マトイ"
+speaker_translation = "마토이"
 original = "「こ、これは強いっ……あっ、会長の目がハートになってる」"
 translation = "「이, 이건 강하다…… 앗, 회장 눈이 하트가 됐어」"
 
 [[dialogue]]
-speaker = "蘭美"
+speaker_original = "蘭美"
+speaker_translation = "라미"
 original = "「ざっとこんなものよ。さあ、旦那さま、め・し・あ・が・れ<emoji=heart04>」"
 translation = "「대충 이 정도야. 자, 서방님, 드・세・요<emoji=heart04>」"
 
@@ -219,132 +259,158 @@ original = "うまいうまいうまい"
 translation = "맛있다 맛있다 맛있다"
 
 [[dialogue]]
-speaker = "ヨミ"
+speaker_original = "ヨミ"
+speaker_translation = "요미"
 original = "「肉じゃがを一心不乱に食べてますね……」"
 translation = "「니쿠자가를 일심불란하게 먹고 있네요……」"
 
 [[dialogue]]
-speaker = "トワ先生"
+speaker_original = "トワ先生"
+speaker_translation = "토와 선생님"
 original = "「すごくおいしそうだもん。お酒にも合いそう」"
 translation = "「정말 맛있어 보여. 술에도 잘 어울릴 것 같고」"
 
 [[dialogue]]
-speaker = "マトイ"
+speaker_original = "マトイ"
+speaker_translation = "마토이"
 original = "「蘭美さんの肉じゃがはかなり高得点ですね！\u3000では続いてヨミちゃん、お願いします！」"
 translation = "「라비 씨의 니쿠자가는 꽤 높은 점수네요! 그럼 이어서 요미 짱, 부탁합니다!」"
 
 [[dialogue]]
-speaker = "ヨミ"
+speaker_original = "ヨミ"
+speaker_translation = "요미"
 original = "「わ、わかりましたっ。作ってきますので少し待っててください～！」"
 translation = "「아, 알겠습니다. 만들어 올 테니 조금만 기다려 주세요~!」"
 
 [[dialogue]]
-speaker = "トワ先生"
+speaker_original = "トワ先生"
+speaker_translation = "토와 선생님"
 original = "「これが普通だよね……なんかホッとするよ」"
 translation = "「이게 정상이네…… 왠지 안심돼」"
 
 [[dialogue]]
-speaker = "蘭美"
+speaker_original = "蘭美"
+speaker_translation = "라미"
 original = "「ヨミヨミも九浄家メイド隊の一員なら、もっと速度をあげないと」"
 translation = "「요미요미도 쿠죠 가문 메이드대의 일원이라면 속도를 더 올려야지」"
 
 [[dialogue]]
-speaker = "マトイ"
+speaker_original = "マトイ"
+speaker_translation = "마토이"
 original = "「いや、これは花嫁修業ですから……」"
 translation = "「아니, 이건 신부 수업이니까요……」"
 
 [[dialogue]]
-speaker = "蘭美"
+speaker_original = "蘭美"
+speaker_translation = "라미"
 original = "「待ち時間が無駄になるわね。トワ先生も作り始めたらどうかしら？」"
 translation = "「기다리는 시간이 낭비되겠어. 토와 선생님도 만들기 시작하는 게 어때?」"
 
 [[dialogue]]
-speaker = "トワ先生"
+speaker_original = "トワ先生"
+speaker_translation = "토와 선생님"
 original = "「そうだね、じゃあわたしも行ってくる」"
 translation = "「그렇네, 그럼 나도 다녀올게」"
 
 [[dialogue]]
-speaker = "マトイ"
+speaker_original = "マトイ"
+speaker_translation = "마토이"
 original = "「トワちゃん先生、大丈夫かなぁ？」"
 translation = "「토와 짱 선생님, 괜찮으려나?」"
 
 [[dialogue]]
-speaker = "トワ先生"
+speaker_original = "トワ先生"
+speaker_translation = "토와 선생님"
 original = "「はわわっ、ドレスの裾が邪魔だよ～！」"
 translation = "「하와와, 드레스 자락이 방해돼~!」"
 
 [[dialogue]]
-speaker = "蘭美"
+speaker_original = "蘭美"
+speaker_translation = "라미"
 original = "「確かに、料理に適した服装じゃないわね」"
 translation = "「확실히 요리에 적합한 복장은 아니네」"
 
 [[dialogue]]
-speaker = "マトイ"
+speaker_original = "マトイ"
+speaker_translation = "마토이"
 original = "「蘭美さんは気にならなかったんですか？」"
 translation = "「라비 씨는 신경 쓰이지 않았나요?」"
 
 [[dialogue]]
-speaker = "蘭美"
+speaker_original = "蘭美"
+speaker_translation = "라미"
 original = "「最強のメイドなら全く支障ないわ」"
 translation = "「최강의 메이드라면 전혀 지장 없어」"
 
 [[dialogue]]
-speaker = "マトイ"
+speaker_original = "マトイ"
+speaker_translation = "마토이"
 original = "「さすがです……」"
 translation = "「과연입니다……」"
 
 [[dialogue]]
-speaker = "トワ先生"
+speaker_original = "トワ先生"
+speaker_translation = "토와 선생님"
 original = "「会長くんは何を作ったら喜んでくれるかなぁ？\u3000普段からもっと好みを聞いておけばよかったよ」"
 translation = "「회장 군은 뭘 만들어 주면 좋아하려나? 평소에 더 취향을 물어둘걸 그랬어」"
 
 [[dialogue]]
-speaker = "トワ先生"
+speaker_original = "トワ先生"
+speaker_translation = "토와 선생님"
 original = "「愛情も蘭美ちゃん以上に頑張らないとダメだし……もー、ハードル高すぎだってばぁ」"
 translation = "「애정도 라비 짱 이상으로 노력해야 하고…… 정말, 허들이 너무 높다니까」"
 
 [[dialogue]]
-speaker = "トワ先生"
+speaker_original = "トワ先生"
+speaker_translation = "토와 선생님"
 original = "「だけど会長くん、普段からみんなのために頑張ってくれてるから、おいしいもの食べさせてあげたいよね」"
 translation = "「하지만 회장 군, 평소에 모두를 위해 노력해 주고 있으니까 맛있는 걸 먹여주고 싶단 말이지」"
 
 [[dialogue]]
-speaker = "トワ先生"
+speaker_original = "トワ先生"
+speaker_translation = "토와 선생님"
 original = "「お嫁さんとして……お婿さんをいっぱい元気づけてあげなきゃ……」"
 translation = "「아내로서…… 남편을 잔뜩 기운 나게 해줘야 해……」"
 
 [[dialogue]]
-speaker = "トワ先生"
+speaker_original = "トワ先生"
+speaker_translation = "토와 선생님"
 original = "「それがわたしの……理想のお嫁さんだから……」"
 translation = "「그게 나의…… 이상적인 아내니까……」"
 
 [[dialogue]]
-speaker = "ヨミ"
+speaker_original = "ヨミ"
+speaker_translation = "요미"
 original = "「出来ました～っ！」"
 translation = "「완성했습니다~!」"
 
 [[dialogue]]
-speaker = "トワ先生"
+speaker_original = "トワ先生"
+speaker_translation = "토와 선생님"
 original = "「こっちも完成だよ。ヨミちゃんと同じタイミングだったね」"
 translation = "「이쪽도 완성됐어. 요미 짱이랑 같은 타이밍이었네」"
 
 [[dialogue]]
-speaker = "ヨミ"
+speaker_original = "ヨミ"
+speaker_translation = "요미"
 original = "「じゃあさっそく食べてもらいましょう！\u3000私はチャーハンです！」"
 translation = "「그럼 바로 먹어보도록 하죠! 저는 볶음밥입니다!」"
 
 [[dialogue]]
-speaker = "ヨミ"
+speaker_original = "ヨミ"
+speaker_translation = "요미"
 original = "「えへへ、会長をお待たせしないようにと思って、私も最速を目指してみました」"
 translation = "「에헤헤, 회장을 기다리게 하지 않으려고 저도 최속을 목표로 해봤어요」"
 
 [[dialogue]]
-speaker = "蘭美"
+speaker_original = "蘭美"
+speaker_translation = "라미"
 original = "「ナイス判断よ、ヨミヨミ。手早く確実においしく作れる料理として、チャーハンを選んだのね」"
 translation = "「나이스 판단이야, 요미요미. 빠르고 확실하게 맛있게 만들 수 있는 요리로 볶음밥을 선택했구나」"
 
 [[dialogue]]
-speaker = "ヨミ"
+speaker_original = "ヨミ"
+speaker_translation = "요미"
 original = "「味だって最強ですよ～！\u3000さあ、食べてください！」"
 translation = "「맛도 최강이라구요~! 자, 드셔보세요!」"
 
@@ -354,47 +420,56 @@ original = "うまいうまいうまい"
 translation = "맛있다 맛있다 맛있다"
 
 [[dialogue]]
-speaker = "蘭美"
+speaker_original = "蘭美"
+speaker_translation = "라미"
 original = "「……私の肉じゃがと同じリアクションね」"
 translation = "「……내 니쿠자가랑 같은 리액션이군」"
 
 [[dialogue]]
-speaker = "マトイ"
+speaker_original = "マトイ"
+speaker_translation = "마토이"
 original = "「それだけヨミちゃんのチャーハンもおいしかったってことだと思いますよ」"
 translation = "「그만큼 요미 짱의 볶음밥도 맛있었다는 뜻이라고 생각해요」"
 
 [[dialogue]]
-speaker = "蘭美"
+speaker_original = "蘭美"
+speaker_translation = "라미"
 original = "「ふっ……でも甘い！\u3000ヨミヨミには欠けているものがあるわ！\u3000それはラブよ！」"
 translation = "「훗…… 하지만 일러! 요미요미에겐 부족한 것이 있어! 그것은 러브야!」"
 
 [[dialogue]]
-speaker = "ヨミ"
+speaker_original = "ヨミ"
+speaker_translation = "요미"
 original = "「あっ、ほっぺにごはん粒ついてる～」"
 translation = "「앗, 볼에 밥풀 묻었다~」"
 
 [[dialogue]]
-speaker = "ヨミ"
+speaker_original = "ヨミ"
+speaker_translation = "요미"
 original = "「えへへ～、そんな慌てて食べるからですよ～。もう、仕方ないですね、はむっ♪」"
 translation = "「에헤헤~ 그렇게 서둘러 먹으니까 그렇죠~. 정말, 어쩔 수 없네요, 함♪」"
 
 [[dialogue]]
-speaker = "蘭美"
+speaker_original = "蘭美"
+speaker_translation = "라미"
 original = "「なっ……！？\u3000ほっぺのご飯粒を取って、それを食べてしまうなんて……動作も自然で可愛いわ……ふふ、やるじゃない、ヨミヨミ……」"
 translation = "「뭣……!? 볼의 밥풀을 떼서 그걸 먹어버리다니…… 동작도 자연스럽고 귀여워…… 후후, 제법인데, 요미요미……」"
 
 [[dialogue]]
-speaker = "ヨミ"
+speaker_original = "ヨミ"
+speaker_translation = "요미"
 original = "「こやっ？\u3000何がでしょうか？」"
 translation = "「코얏? 뭐가 말인가요?」"
 
 [[dialogue]]
-speaker = "マトイ"
+speaker_original = "マトイ"
+speaker_translation = "마토이"
 original = "「天然でやっちゃってるところもポイント高いですね。会長の食べっぷりもいいし、ヨミちゃんも高評価かも」"
 translation = "「천연으로 해버리는 점도 포인트가 높네요. 회장도 잘 먹고 있고 요미 짱도 고평가일지도」"
 
 [[dialogue]]
-speaker = "トワ先生"
+speaker_original = "トワ先生"
+speaker_translation = "토와 선생님"
 original = "「最後はわたしかぁ～。えっと、わたしの料理は……これだよ」"
 translation = "「마지막은 나인가~. 에또, 내 요리는…… 이거야」"
 
@@ -404,27 +479,32 @@ original = "これは……冷奴？"
 translation = "이건…… 히야얏코(냉두부)?"
 
 [[dialogue]]
-speaker = "トワ先生"
+speaker_original = "トワ先生"
+speaker_translation = "토와 선생님"
 original = "「ううん、冷奴じゃなくて温奴。あったかい冷奴かな」"
 translation = "「으응, 히야얏코가 아니라 아츠얏코(온두부). 따뜻한 냉두부랄까」"
 
 [[dialogue]]
-speaker = "トワ先生"
+speaker_original = "トワ先生"
+speaker_translation = "토와 선생님"
 original = "「夜遅く帰って来た時に、レンジを使ってよく作ってたんだよね～」"
 translation = "「밤늦게 돌아왔을 때 렌지를 써서 자주 만들었거든~」"
 
 [[dialogue]]
-speaker = "トワ先生"
+speaker_original = "トワ先生"
+speaker_translation = "토와 선생님"
 original = "「お酒のおつまみだけど、疲れた胃にも優しいし……ほっこりする味なんだ」"
 translation = "「술안주지만 지친 위에도 부드럽고…… 마음이 편안해지는 맛이야」"
 
 [[dialogue]]
-speaker = "トワ先生"
+speaker_original = "トワ先生"
+speaker_translation = "토와 선생님"
 original = "「それに……わたしが大好きな料理だから。会長くんにも、好きになってもらえたら嬉しいな～って」"
 translation = "「게다가…… 내가 정말 좋아하는 요리니까. 회장 군도 좋아해 준다면 기쁘겠다고 생각해서」"
 
 [[dialogue]]
-speaker = "トワ先生"
+speaker_original = "トワ先生"
+speaker_translation = "토와 선생님"
 original = "「一緒に食べて、身も心もほこほこにあったまろうね<emoji=heart04>」"
 translation = "「같이 먹고 몸도 마음도 훈훈하게 데우자<emoji=heart04>」"
 
@@ -434,12 +514,14 @@ original = "トワ先生と一緒に食べたい"
 translation = "토와 선생님이랑 같이 먹고 싶어"
 
 [[dialogue]]
-speaker = "トワ先生"
+speaker_original = "トワ先生"
+speaker_translation = "토와 선생님"
 original = "「ええっ？\u3000今ここで？\u3000しょうがないなぁ」"
 translation = "「에엣? 지금 여기서? 어쩔 수 없네」"
 
 [[dialogue]]
-speaker = "トワ先生"
+speaker_original = "トワ先生"
+speaker_translation = "토와 선생님"
 original = "「じゃあ、かわりばんこに食べよっか。みんなの料理もあるから、半分でちょうどいいよ」"
 translation = "「그럼 번갈아 가며 먹을까. 다른 사람 요리도 있으니까 절반이 딱 좋겠어」"
 
@@ -449,47 +531,56 @@ original = "はふはふ。あったまる"
 translation = "하후하후. 따뜻해져"
 
 [[dialogue]]
-speaker = "トワ先生"
+speaker_original = "トワ先生"
+speaker_translation = "토와 선생님"
 original = "「おいしいでしょ～。お手軽だし、先生のおすすめだよ♪」"
 translation = "「맛있지~. 간편하기도 하고 선생님 추천 요리야♪」"
 
 [[dialogue]]
-speaker = "トワ先生"
+speaker_original = "トワ先生"
+speaker_translation = "토와 선생님"
 original = "「はい、ふーふーしてあげるね。ふーっ……ふーっ……」"
 translation = "「자, 호ー호ー 해줄게. 호ー…… 호ー……」"
 
 [[dialogue]]
-speaker = "蘭美"
+speaker_original = "蘭美"
+speaker_translation = "라미"
 original = "「……はっ！\u3000つい無言で見入ってしまったわ」"
 translation = "「……앗! 나도 모르게 멍하니 지켜보고 말았어」"
 
 [[dialogue]]
-speaker = "ヨミ"
+speaker_original = "ヨミ"
+speaker_translation = "요미"
 original = "「愛情の差を感じちゃいましたね」"
 translation = "「애정의 차이를 느껴버렸네요」"
 
 [[dialogue]]
-speaker = "蘭美"
+speaker_original = "蘭美"
+speaker_translation = "라미"
 original = "「メイドとしては勝てても、お嫁さんとしてはトワ先生に及ばなかったようね……」"
 translation = "「메이드로서는 이겼을지 몰라도 아내로서는 토와 선생님에게 미치지 못한 모양이네……」"
 
 [[dialogue]]
-speaker = "ヨミ"
+speaker_original = "ヨミ"
+speaker_translation = "요미"
 original = "「もっと精進しないとですね」"
 translation = "「더 정진해야겠어요」"
 
 [[dialogue]]
-speaker = "蘭美"
+speaker_original = "蘭美"
+speaker_translation = "라미"
 original = "「その通りよ、ヨミヨミ！\u3000これは対決だけど、花嫁修業でもあることも忘れてはダメよ」"
 translation = "「맞는 말이야, 요미요미! 이건 대결이지만 신부 수업이기도 하다는 걸 잊어선 안 돼」"
 
 [[dialogue]]
-speaker = "蘭美"
+speaker_original = "蘭美"
+speaker_translation = "라미"
 original = "「トワ先生のようなかわいいお嫁さんを目指して、頑張りましょう！」"
 translation = "「토와 선생님 같은 귀여운 아내를 목표로 힘내자!」"
 
 [[dialogue]]
-speaker = "ヨミ"
+speaker_original = "ヨミ"
+speaker_translation = "요미"
 original = "「おー！」"
 translation = "「오ー!」"
 

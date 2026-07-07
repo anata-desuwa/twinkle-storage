@@ -1,220 +1,264 @@
 [[dialogue]]
-speaker = "アイリーン"
+speaker_original = "アイリーン"
+speaker_translation = "아이린"
 original = "「こちら、魔界～、魔界～。降り口は左側でーす」"
 translation = "「이쪽은 마계~, 마계~. 내리실 문은 왼쪽입니다~.」"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「はい到着～っと。魔界に来るのも何回目かしら？\u3000ちょっとした小旅行気分だわ」"
 translation = "「자 도착~. 마계에 오는 것도 몇 번째일까? 약간 소풍 온 기분이야.」"
 
 [[dialogue]]
-speaker = "舞亜"
+speaker_original = "舞亜"
+speaker_translation = "마이아"
 original = "「うん、飛行機で移動するより、楽なくらいかも。時差ボケとか大変なんだよね」"
 translation = "「응, 비행기로 이동하는 것보다 편할지도. 시차 적응 같은 거 힘들거든.」"
 
 [[dialogue]]
-speaker = "アイリーン"
+speaker_original = "アイリーン"
+speaker_translation = "아이린"
 original = "「流石は世界を股にかけるフィギュアスケーターだねー。舞亜さんの名前はネビュラでも知られてるよ。あとでサインもらってもいい？」"
 translation = "「역시 세계를 누비는 피겨 스케이팅 선수네~. 마아 씨 이름은 네뷸라에서도 유명해. 나중에 사인받아도 돼?」"
 
 [[dialogue]]
-speaker = "舞亜"
+speaker_original = "舞亜"
+speaker_translation = "마이아"
 original = "「いーよー。サインなんて書いても減るものじゃないしね」"
 translation = "「좋아~. 사인이야 뭐 닳는 것도 아니니까.」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「油断は禁物ですよ。相手は守護天使最後の一柱、容易に倒せる相手ではありません」"
 translation = "「방심은 금물입니다. 상대는 수호천사 마지막 한 기둥, 쉽게 쓰러뜨릴 수 있는 상대가 아니에요.」"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「でもトリシャが占った目標ポイントまではまだ距離があるし、今から緊張しても仕方ないわ。お気楽なくらいでちょうどいいのよ」"
 translation = "「하지만 트리샤가 점찍은 목표 지점까지는 아직 거리가 있고, 지금부터 긴장해봤자 별수 없어. 좀 가벼운 마음가짐이 딱 좋다구.」"
 
 [[dialogue]]
-speaker = "ウズメイア"
+speaker_original = "ウズメイア"
+speaker_translation = "우즈메"
 original = "「そーそー！\u3000難しいこと考えてても始まらないしね！」"
 translation = "「마저마저! 어려운 거 생각해봤자 끝도 없으니까 말이야!」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「……今回選出されたメンバー、随分とマイペースな方が多いような……緋宮会長、ソフィア、頑張りましょう」"
 translation = "「……이번에 선출된 멤버, 꽤 마이페이스인 분들이 많은 것 같네요…… 히노미야 회장님, 소피아, 힘내요.」"
 
 [[dialogue]]
-speaker = "ソフィア"
+speaker_original = "ソフィア"
+speaker_translation = "소피아"
 original = "「はい……なんだか、世界の命運を背負っているとは思えない雰囲気ですね……」"
 translation = "「네…… 왠지 세계의 운명을 짊어지고 있다는 분위기가 전혀 아니네요……」"
 
 [[dialogue]]
-speaker = "舞亜"
+speaker_original = "舞亜"
+speaker_translation = "마이아"
 original = "「でも、世界が終わる瞬間っていうのは、案外こういうものなのかもしれないね」"
 translation = "「하지만 세계가 끝나는 순간이라는 건 의외로 이런 것일지도 몰라.」"
 
 [[dialogue]]
-speaker = "舞亜"
+speaker_original = "舞亜"
+speaker_translation = "마이아"
 original = "「みんながパニックになるわけでもなく、いつも通りの日常が突然プツンと途切れて、あーあ終わっちゃった、みたいな」"
 translation = "「모두가 패닉에 빠지는 게 아니라 평소와 다름없는 일상이 갑자기 툭 끊기고는, 아~아 끝나버렸네, 하는 식 말이야.」"
 
 [[dialogue]]
-speaker = "ソフィア"
+speaker_original = "ソフィア"
+speaker_translation = "소피아"
 original = "「トリシャさんが気づいてくれてなかったら、そうなっていたかもしれません。恐ろしい限りです」"
 translation = "「트리샤 씨가 눈치채지 못했다면 그렇게 되었을지도 모릅니다. 정말 무서운 일이에요.」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「やらせませんよ。明るく楽しくいつも通りの新年を迎えるために、私たちはここまで来たんです」"
 translation = "「그렇게 두지 않겠어요. 밝고 즐거운 평소대로의 신년을 맞이하기 위해 우리들은 여기까지 온 거니까요.」"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「いい意気込み表明ね！\u3000ついでに来年の抱負もどうぞ！\u3000未来に希望があれば、もーっと頑張れるでしょ」"
 translation = "「좋은 기세 표명이네! 온 김에 내년 포부도 말해봐! 미래에 희망이 있으면 더더욱 힘낼 수 있잖아.」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「ら、来年の抱負ですか……？\u3000突然言われても……ソフィアは何かある？」"
 translation = "「내, 내년 포부인가요……? 갑자기 물으셔도…… 소피아는 뭐 있어?」"
 
 [[dialogue]]
-speaker = "ソフィア"
+speaker_original = "ソフィア"
+speaker_translation = "소피아"
 original = "「私は年が明けたら……しばらく会えてないので、姉さんとお出かけがしたいですね。水族館かプラネタリウムがいいです」"
 translation = "「저는 해가 밝으면…… 한동안 못 만났으니 언니랑 외출을 하고 싶네요. 수족관이나 플라네타륨이 좋겠어요.」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「ふふ、それは楽しみだね。舞亜さんは何かありますか？」"
 translation = "「후후, 그거 기대되네. 마아 씨는 뭐 있나요?」"
 
 [[dialogue]]
-speaker = "舞亜"
+speaker_original = "舞亜"
+speaker_translation = "마이아"
 original = "「私……？\u3000うーん……ここ最近ね、演技の表現が伸び悩んでいるの」"
 translation = "「나……? 음…… 요 근래 연기 표현에 한계를 느끼고 있어.」"
 
 [[dialogue]]
-speaker = "ソフィア"
+speaker_original = "ソフィア"
+speaker_translation = "소피아"
 original = "「舞亜が伸び悩み……！？\u3000この前も世界大会で金メダルを取ってたのに……」"
 translation = "「마아가 정체기라니……!? 저번에도 세계 대회에서 금메달 땄으면서……」"
 
 [[dialogue]]
-speaker = "舞亜"
+speaker_original = "舞亜"
+speaker_translation = "마이아"
 original = "「うーん……そういうのじゃなくてさ、自分の中の変化がないっていうか」"
 translation = "「음…… 그런 게 아니라, 내 안에서의 변화가 없다고 할까.」"
 
 [[dialogue]]
-speaker = "舞亜"
+speaker_original = "舞亜"
+speaker_translation = "마이아"
 original = "「マンネリ化してるのかな。目新しさがなくなっちゃってるのが、自分でもわかるんだよね」"
 translation = "「매너리즘에 빠진 걸까. 참신함이 없어진 걸 스스로도 알 수 있거든.」"
 
 [[dialogue]]
-speaker = "ソフィア"
+speaker_original = "ソフィア"
+speaker_translation = "소피아"
 original = "「舞亜は大会出場数もトップクラスだから、披露する回数が多い以上、似通っちゃうのも仕方ないんじゃない？」"
 translation = "「마아는 대회 출전 수도 톱 클래스니까 선보이는 횟수가 많은 만큼 비슷해지는 건 어쩔 수 없는 거 아냐?」"
 
 [[dialogue]]
-speaker = "舞亜"
+speaker_original = "舞亜"
+speaker_translation = "마이아"
 original = "「それはそうなんだけどね。小さい頃からやってきた弊害かな。自分を包んでる殻がカチカチに固まっちゃってて、内側からはなかなか壊せなくなってるっていうか……」"
 translation = "「그건 그렇지만 말이야. 어릴 때부터 해온 폐해일까. 나를 감싸고 있는 껍질이 딱딱하게 굳어버려서 안쪽에서는 도저히 깨트릴 수 없게 된 느낌이라 할까……」"
 
 [[dialogue]]
-speaker = "ウズメイア"
+speaker_original = "ウズメイア"
+speaker_translation = "우즈메"
 original = "「ちょっち不謹慎だけど、子役からデビューした俳優さんが、いつまでも子役のままのイメージで……やがて消えてっちゃう～、みたいな？」"
 translation = "「쬐끔 불경하지만 아역으로 데뷔한 배우가 언제까지나 아역 이미지 그대로 있다가…… 결국 사라져가는~ 그런 느낌?」"
 
 [[dialogue]]
-speaker = "舞亜"
+speaker_original = "舞亜"
+speaker_translation = "마이아"
 original = "「あー、うん。わりと近いかも。スケート選手としての柊舞亜の寿命はもう長くないのかもね」"
 translation = "「아ー, 응. 꽤 가까울지도. 스케이트 선수로서 히이라기 마아의 수명은 이제 길지 않을지도 모르겠네.」"
 
 [[dialogue]]
-speaker = "ソフィア"
+speaker_original = "ソフィア"
+speaker_translation = "소피아"
 original = "「そ、そんなこと言わないで！\u3000舞亜の演技はのびやかで、優雅で……私の目標で……とにかく、まだまだ舞えるんだから！\u3000引退なんて早まらないで！」"
 translation = "「그, 그런 소리 마! 마아의 연기는 활달하고 우아하고…… 내 목표고…… 아무튼 아직 더 춤출 수 있으니까! 은퇴 같은 거 서두르지 마!」"
 
 [[dialogue]]
-speaker = "舞亜"
+speaker_original = "舞亜"
+speaker_translation = "마이아"
 original = "「もちろん。だからあがいてるつもりだし、そうならないよう新しいインスピレーションが欲しいんだよね」"
 translation = "「물론이지. 그래서 발버둥 쳐볼 생각이고, 그렇게 되지 않도록 새로운 영감을 얻고 싶거든.」"
 
 [[dialogue]]
-speaker = "舞亜"
+speaker_original = "舞亜"
+speaker_translation = "마이아"
 original = "「内なる情熱をかき立てる……今までの全てをリセットして、生まれ変わったかのような新しい表現……そう簡単には見つけられないだろうけど」"
 translation = "「내면의 열정을 불러일으키는…… 지금까지의 모든 걸 리셋하고 다시 태어난 듯한 새로운 표현…… 그렇게 쉽게 찾을 순 없겠지만.」"
 
 [[dialogue]]
-speaker = "舞亜"
+speaker_original = "舞亜"
+speaker_translation = "마이아"
 original = "「というわけで、私の来年の抱負は『新しい自分を生み出す』だよ。こんなとこでどう？」"
 translation = "「그런 의미에서 내 내년 포부는 『새로운 나를 탄생시키기』야. 이 정도면 어때?」"
 
 [[dialogue]]
-speaker = "マグダレナ"
+speaker_original = "マグダレナ"
+speaker_translation = "막달레나"
 original = "「クールに見えて、胸には熱い想いを秘めている……前向きで実に素晴らしいです」"
 translation = "「쿨해 보여도 가슴에는 뜨거운 마음을 품고 있군요…… 긍정적이고 정말 훌륭합니다.」"
 
 [[dialogue]]
-speaker = "舞亜"
+speaker_original = "舞亜"
+speaker_translation = "마이아"
 original = "「ふふ、ありがとう、マグダレナさん」"
 translation = "「후후, 고마워요, 마그달레나 씨.」"
 
 [[dialogue]]
-speaker = "マグダレナ"
+speaker_original = "マグダレナ"
+speaker_translation = "막달레나"
 original = "「いえ、礼には及びません。ですが未来を語る楽しい時間もここまでです。あれが──」"
 translation = "「아니요, 천만에요. 하지만 미래를 이야기하는 즐거운 시간도 여기까지입니다. 저것이──」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「あれが、守護天使オオヒメが封印されている神殿……！」"
 translation = "「저것이 수호천사 오오히메가 봉인되어 있는 신전……!」"
 
 [[dialogue]]
-speaker = "オオヒメ"
+speaker_original = "オオヒメ"
+speaker_translation = "오오히메"
 original = "「世界に破滅を……遍く死を……」"
 translation = "「세계에 파멸을…… 골고루 죽음을……」"
 
 [[dialogue]]
-speaker = "マグダレナ"
+speaker_original = "マグダレナ"
+speaker_translation = "막달레나"
 original = "「彼女がオオヒメ。守護天使、最後の一柱です」"
 translation = "「그녀가 오오히메. 수호천사 마지막 한 기둥입니다.」"
 
 [[dialogue]]
-speaker = "ウズメイア"
+speaker_original = "ウズメイア"
+speaker_translation = "우즈메"
 original = "「へ～、あれがオオヒメ様……かっこ的には親近感湧いちゃうかも」"
 translation = "「헤~, 저게 오오히메 님…… 왠지 친근감이 느껴지는 차림인데.」"
 
 [[dialogue]]
-speaker = "マグダレナ"
+speaker_original = "マグダレナ"
+speaker_translation = "막달레나"
 original = "「オオヒメ。<ruby>旧<rt>ふる</rt></ruby>き神殿に囚われるのも今日までです。フィーニスの塔に戻り、その責務を果たしなさい」"
 translation = "「오오히메. 옛 신전에 갇혀 있는 것도 오늘까지입니다. 피니스의 탑으로 돌아가 그 책무를 다하십시오.」"
 
 [[dialogue]]
-speaker = "オオヒメ"
+speaker_original = "オオヒメ"
+speaker_translation = "오오히메"
 original = "「責務……世界に滅びを……終焉を……」"
 translation = "「책무…… 세계에 멸망을…… 종언을……」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「ペンタグラムの時と同様、やはり話が通じませんね。今は堕天使を倒すしかないようです」"
 translation = "「펜타그램 때와 마찬가지로 역시 말이 통하지 않네요. 지금은 타락천사를 쓰러뜨릴 수밖에 없는 것 같습니다.」"
 
 [[dialogue]]
-speaker = "オオヒメ"
+speaker_original = "オオヒメ"
+speaker_translation = "오오히메"
 original = "「私が世界を満たす……死と絶望で……」"
 translation = "「내가 세계를 채우겠다…… 죽음과 절망으로……」"
 
 [[dialogue]]
-speaker = "ソフィア"
+speaker_original = "ソフィア"
+speaker_translation = "소피아"
 original = "「今までに感じたことのないほどの禍々しい圧……！\u3000これが最後の守護天使の力……！」"
 translation = "「지금까지 느껴본 적 없는 불길한 압박감……! 이것이 마지막 수호천사의 힘……!」"
 
 [[dialogue]]
-speaker = "オオヒメ"
+speaker_original = "オオヒメ"
+speaker_translation = "오오히메"
 original = "「我が剣を受けよ……！」"
 translation = "「나의 검을 받아라……!」"
 
 [[dialogue]]
-speaker = "ソフィア"
+speaker_original = "ソフィア"
+speaker_translation = "소피아"
 original = "「堕天使オオヒメ、来ます！」"
 translation = "「타락천사 오오히메, 옵니다!」"
 

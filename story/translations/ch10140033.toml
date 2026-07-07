@@ -4,57 +4,68 @@ original = "第３話,新生・有明トワ,P"
 translation = "제3화, 신생 아리아케 토와, P"
 
 [[dialogue]]
-speaker = "トワ先生"
+speaker_original = "トワ先生"
+speaker_translation = "토와 선생님"
 original = "「ふ～、あったかいココアがおいしい……疲れた脳に糖が補給されていくよ～」"
 translation = "「후~ 따뜻한 코코아가 마시써…… 지친 뇌에 당분이 보충되고 이써어~」"
 
 [[dialogue]]
-speaker = "トワ先生"
+speaker_original = "トワ先生"
+speaker_translation = "토와 선생님"
 original = "「会長くんも積極的に甘いものを摂取した方がいいよ。頭脳労働に糖は必須だからね」"
 translation = "「회장 군도 적극적으로 단것을 섭취하는 게 조아. 두뇌 노동에 당분은 필수니까 말이야」"
 
 [[dialogue]]
-speaker = "メイプル"
+speaker_original = "メイプル"
+speaker_translation = "메이플"
 original = "「あっ、トワちゃんはっけーん！\u3000お兄ちゃんも一緒だったんだね♪」"
 translation = "「앗, 토와짱 발견! 오빠도 같이 있었네♪」"
 
 [[dialogue]]
-speaker = "トワ先生"
+speaker_original = "トワ先生"
+speaker_translation = "토와 선생님"
 original = "「あ、メイプルちゃん。よかったらこっちに座る？\u3000ココアもあるよ～」"
 translation = "「아, 메이플짱. 괜찮으면 여기 앉을래? 코코아도 이써~」"
 
 [[dialogue]]
-speaker = "メイプル"
+speaker_original = "メイプル"
+speaker_translation = "메이플"
 original = "「ココア！\u3000ククク……漆黒を煮詰めたような苦く甘き霊薬……」"
 translation = "「코코아! 크크크…… 칠흑을 졸여낸 듯한 쓰고도 달콤한 영약……」"
 
 [[dialogue]]
-speaker = "トワ先生"
+speaker_original = "トワ先生"
+speaker_translation = "토와 선생님"
 original = "「苦さは感じないからきっとおいしいよ～」"
 translation = "「쓴맛은 안 느껴지니까 분명 마시쓸 거야~」"
 
 [[dialogue]]
-speaker = "メイプル"
+speaker_original = "メイプル"
+speaker_translation = "메이플"
 original = "「頂きま～す♪\u3000トワちゃんとお兄ちゃんは休憩中？」"
 translation = "「잘 먹겠습니다♪ 토와짱이랑 오빠는 휴식 중?」"
 
 [[dialogue]]
-speaker = "トワ先生"
+speaker_original = "トワ先生"
+speaker_translation = "토와 선생님"
 original = "「うん、一休みしながら会長くんとおしゃべりしてたの」"
 translation = "「응, 잠깐 쉬면서 회장 군이랑 수다 떨고 이써써」"
 
 [[dialogue]]
-speaker = "メイプル"
+speaker_original = "メイプル"
+speaker_translation = "메이플"
 original = "「あらー、ふっふっふ、<b>会長くん</b>と仲良くおしゃべりしてたんだ～♪」"
 translation = "「어머나─ 훗훗훗, <b>회장</b> <b>군</b>이랑 사이좋게 수다 떨고 있었구나~♪」"
 
 [[dialogue]]
-speaker = "トワ先生"
+speaker_original = "トワ先生"
+speaker_translation = "토와 선생님"
 original = "「な、なに？\u3000なんだよ～、その含みのある笑いは～！」"
 translation = "「머, 뭐야? 뭐야~ 그 의미심장한 웃음은~!」"
 
 [[dialogue]]
-speaker = "メイプル"
+speaker_original = "メイプル"
+speaker_translation = "메이플"
 original = "「お兄ちゃん聞いて。トワちゃんね～、こないだ１人の時、お兄ちゃんのこと<b>会長きゅん</b>って言ってたよ～」"
 translation = "「오빠 들어봐. 토와짱 말이야~ 요전에 혼자 있을 때 오빠를 <b>회장</b> <b>뀨웅</b>이라고 불렀다구~」"
 
@@ -64,52 +75,62 @@ original = "会長……きゅん？"
 translation = "회장…… 뀨웅?"
 
 [[dialogue]]
-speaker = "トワ先生"
+speaker_original = "トワ先生"
+speaker_translation = "토와 선생님"
 original = "「わー！\u3000言ってない言ってない！\u3000そんな呼び方してないから！\u3000ほんと！\u3000ほんとだからね！」"
 translation = "「와─! 안 그랬어 안 그랬어! 그런 식으로 안 불렀거든! 정말! 진짜라니까!」"
 
 [[dialogue]]
-speaker = "メイプル"
+speaker_original = "メイプル"
+speaker_translation = "메이플"
 original = "「え～、じゃあ別な呼び方？\u3000お兄ちゃんの名前にハートマークつけたようなあま～い感じで呼んでたこともあった気が……」"
 translation = "「에~ 그럼 다른 호칭? 오빠 이름에 하트 마크 붙인 것처럼 다아알콤한 느낌으로 부르던 적도 있었던 것 같은데……」"
 
 [[dialogue]]
-speaker = "トワ先生"
+speaker_original = "トワ先生"
+speaker_translation = "토와 선생님"
 original = "「やめてやめてー！\u3000つい魔が差しちゃっただけだから！\u3000会長くんに会いたくてちょこっと想いが募っちゃっただけだから！」"
 translation = "「그만해 그만해~! 그냥 잠깐 마가 꼈을 뿐이니까! 회장 군이 보고 싶어서 아주 조금 마음이 깊어졌을 뿐이니까!」"
 
 [[dialogue]]
-speaker = "トワ先生"
+speaker_original = "トワ先生"
+speaker_translation = "토와 선생님"
 original = "「あうう……恥ずかしいよね、いい大人なのに。しかも、こっそり言ってたつもりなのにメイプルちゃんに聞かれちゃってたなんて」"
 translation = "「아우우…… 부끄럽네, 다 큰 어른인데. 게다가 몰래 말한다고 생각했는데 메이플 짱에게 들켜버렸다니」"
 
 [[dialogue]]
-speaker = "メイプル"
+speaker_original = "メイプル"
+speaker_translation = "메이플"
 original = "「こっそり？\u3000結構おっきな声出してたと思うけど」"
 translation = "「몰래? 꽤 큰 소리 냈다고 생각하는데」"
 
 [[dialogue]]
-speaker = "メイプル"
+speaker_original = "メイプル"
+speaker_translation = "메이플"
 original = "「ほら、ウェディングフォーム！\u3000って、ドレスに変身して……」"
 translation = "「봐봐, 웨딩 폼! 이라면서 드레스로 변신해서……」"
 
 [[dialogue]]
-speaker = "トワ先生"
+speaker_original = "トワ先生"
+speaker_translation = "토와 선생님"
 original = "「わーっ！\u3000わぁぁーーーっ！\u3000その話もダメ～～！！」"
 translation = "「와앗! 와아아아――앗! 그 이야기도 안 돼~~!!」"
 
 [[dialogue]]
-speaker = "メイプル"
+speaker_original = "メイプル"
+speaker_translation = "메이플"
 original = "「トワちゃん、お兄ちゃんと恋人同士なんだよね？\u3000だったらこそこそしなくてもいいと思うんだけど」"
 translation = "「토와 짱, 오빠랑 연인 사이잖아? 그렇다면 몰래몰래 하지 않아도 된다고 생각하는데」"
 
 [[dialogue]]
-speaker = "メイプル"
+speaker_original = "メイプル"
+speaker_translation = "메이플"
 original = "「ねえねえ、お兄ちゃん、トワちゃんね、家でウェディングフォームになって、クッションを持って……」"
 translation = "「저기 저기, 오빠, 토와 짱 말이야, 집에서 웨딩 폼이 되어서 쿠션을 들고……」"
 
 [[dialogue]]
-speaker = "メイプル"
+speaker_original = "メイプル"
+speaker_translation = "메이플"
 original = "「ちゅ～～～ってしてたんだよ？\u3000可愛いでしょ？」"
 translation = "「쪽~~~ 하고 있었다니까? 귀엽지?」"
 
@@ -119,67 +140,80 @@ original = "なにそれメチャクチャかわいい！"
 translation = "뭐야 그거 엄청 귀여워!"
 
 [[dialogue]]
-speaker = "トワ先生"
+speaker_original = "トワ先生"
+speaker_translation = "토와 선생님"
 original = "「うわぁぁぁん、なんでそんなことまで言っちゃうのぉおおおお～～～！！」"
 translation = "「으와아아앙, 왜 그런 것까지 말해버리는 거야아아아아아~~!!」"
 
 [[dialogue]]
-speaker = "メイプル"
+speaker_original = "メイプル"
+speaker_translation = "메이플"
 original = "「ごめんね、でもトワちゃんならいいと思うよ。お兄ちゃんとお似合いだもん」"
 translation = "「미안해, 하지만 토와 짱이라면 괜찮다고 봐. 오빠랑 잘 어울리는걸」"
 
 [[dialogue]]
-speaker = "メイプル"
+speaker_original = "メイプル"
+speaker_translation = "메이플"
 original = "「あー、でも結婚するなら、直した方がいいよね～って思うところもあるかな」"
 translation = "「아~ 하지만 결혼한다면, 고치는 편이 좋겠네~ 싶은 부분도 있으려나」"
 
 [[dialogue]]
-speaker = "メイプル"
+speaker_original = "メイプル"
+speaker_translation = "메이플"
 original = "「トワちゃんって、外ではきちんとしてるけど、家ではけっこーズボラなんだよね～」"
 translation = "「토와 짱은 밖에서는 반듯하지만, 집에서는 꽤나 칠칠치 못하거든~」"
 
 [[dialogue]]
-speaker = "トワ先生"
+speaker_original = "トワ先生"
+speaker_translation = "토와 선생님"
 original = "「そんなことないよ？\u3000わたしちゃんとしてるよね、メイプルちゃん？」"
 translation = "「그렇지 않아? 나 제대로 하고 있지, 메이플 짱?」"
 
 [[dialogue]]
-speaker = "トワ先生"
+speaker_original = "トワ先生"
+speaker_translation = "토와 선생님"
 original = "「同居し始めてから、そういうとこしっかりしようって決めたし、守れてると思うんだけど」"
 translation = "「동거 시작하고 나서 그런 부분 확실히 하자고 결심했고, 잘 지키고 있다고 생각하는데」"
 
 [[dialogue]]
-speaker = "メイプル"
+speaker_original = "メイプル"
+speaker_translation = "메이플"
 original = "「うん、トワちゃんが努力してることは知ってるよ。でもね、お酒飲むと素のトワちゃんが出ちゃってるから」"
 translation = "「응, 토와 짱이 노력하고 있는 건 알아. 하지만 말이야, 술 마시면 본모습인 토와 짱이 나와버리니까」"
 
 [[dialogue]]
-speaker = "トワ先生"
+speaker_original = "トワ先生"
+speaker_translation = "토와 선생님"
 original = "「お、お酒はしょうがないんだよ～。あれがないと生きていけないんだから～」"
 translation = "「수, 술은 어쩔 수 없는 거야~. 그게 없으면 살아갈 수 없으니까~」"
 
 [[dialogue]]
-speaker = "メイプル"
+speaker_original = "メイプル"
+speaker_translation = "메이플"
 original = "「お酒飲んじゃうと、脱いだ服ぽーんってその辺に放り投げるでしょ」"
 translation = "「술 마셔버리면 벗은 옷을 휙 하고 그 근처에 내팽개치잖아」"
 
 [[dialogue]]
-speaker = "トワ先生"
+speaker_original = "トワ先生"
+speaker_translation = "토와 선생님"
 original = "「うっ」"
 translation = "「윽」"
 
 [[dialogue]]
-speaker = "メイプル"
+speaker_original = "メイプル"
+speaker_translation = "메이플"
 original = "「あと、クローゼットに何でもむぎゅむぎゅ突っ込んでるよね？\u3000入りきらなくて決壊して、よく悲鳴上げてるし」"
 translation = "「그리고 클로젯에 뭐든지 꾸역꾸역 밀어 넣지? 다 안 들어가서 터져버리고는 자주 비명을 지르고」"
 
 [[dialogue]]
-speaker = "トワ先生"
+speaker_original = "トワ先生"
+speaker_translation = "토와 선생님"
 original = "「ひ、否定したいけど、身に覚えがありすぎる……」"
 translation = "「부, 부정하고 싶지만 짚이는 구석이 너무 많아……」"
 
 [[dialogue]]
-speaker = "メイプル"
+speaker_original = "メイプル"
+speaker_translation = "메이플"
 original = "「表面だけごまかす癖は、直した方がいいと思う。じゃないとお兄ちゃんにがっかりされちゃうよ？」"
 translation = "「겉모습만 속이는 버릇은 고치는 게 좋다고 봐. 안 그러면 오빠한테 실망하게 될걸?」"
 
@@ -189,32 +223,38 @@ original = "そんなことない……よ？"
 translation = "그렇지 않아…… 그치?"
 
 [[dialogue]]
-speaker = "トワ先生"
+speaker_original = "トワ先生"
+speaker_translation = "토와 선생님"
 original = "「わぁぁぁん、会長くんは見たことないから、そんな優しいフォローが出来るんだよ」"
 translation = "「으와아아앙, 회장 군은 본 적이 없으니까 그런 다정한 위로를 할 수 있는 거야」"
 
 [[dialogue]]
-speaker = "トワ先生"
+speaker_original = "トワ先生"
+speaker_translation = "토와 선생님"
 original = "「実際に見たら、失望するに決まってるよぉ。せっかく素敵な大人のお姉さんのイメージでやってきたのに……」"
 translation = "「실제로 보면 실망할 게 뻔해애. 어렵게 멋진 어른스러운 언니 이미지로 밀고 왔는데……」"
 
 [[dialogue]]
-speaker = "メイプル"
+speaker_original = "メイプル"
+speaker_translation = "메이플"
 original = "「ご、ごめんトワちゃん。あたし、ちょっと言い過ぎちゃったかも」"
 translation = "「미, 미안 토와 짱. 내가 좀 심하게 말했을지도」"
 
 [[dialogue]]
-speaker = "トワ先生"
+speaker_original = "トワ先生"
+speaker_translation = "토와 선생님"
 original = "「メイプルちゃんは悪くないよ。むしろ指摘してくれてありがとね」"
 translation = "「메이플 짱은 잘못 없어. 오히려 지적해 줘서 고마워」"
 
 [[dialogue]]
-speaker = "トワ先生"
+speaker_original = "トワ先生"
+speaker_translation = "토와 선생님"
 original = "「わたし頑張るから！\u3000お片付けだってちゃんとする！\u3000クローゼットだって整頓するよ！」"
 translation = "「나 힘낼게! 정리 정돈도 제대로 할게! 클로젯도 정돈할 거야!」"
 
 [[dialogue]]
-speaker = "トワ先生"
+speaker_original = "トワ先生"
+speaker_translation = "토와 선생님"
 original = "「お酒も……やめるから……うううっ」"
 translation = "「술도…… 끊을 거니까…… 으으윽」"
 
@@ -224,42 +264,50 @@ original = "無理しないで"
 translation = "무리하지 마"
 
 [[dialogue]]
-speaker = "トワ先生"
+speaker_original = "トワ先生"
+speaker_translation = "토와 선생님"
 original = "「でもっ、会長くんと……そのっ、いつか一緒に暮らしたいなら……今ここで無理しないとダメでしょ？」"
 translation = "「하지만, 회장 군이랑…… 그, 언젠가 같이 살고 싶다면…… 지금 여기서 무리하지 않으면 안 되잖아?」"
 
 [[dialogue]]
-speaker = "トワ先生"
+speaker_original = "トワ先生"
+speaker_translation = "토와 선생님"
 original = "「ということで、わたしは生まれ変わったつもりで頑張るよ！\u3000もう二度とメイプルちゃんにズボラだなんて言わせないんだから！」"
 translation = "「그런 고로, 나는 다시 태어난 셈 치고 힘낼 거야! 이제 두 번 다시 메이플 짱에게 칠칠치 못하다는 소린 듣지 않을 거니까!」"
 
 [[dialogue]]
-speaker = "トワ先生"
+speaker_original = "トワ先生"
+speaker_translation = "토와 선생님"
 original = "「そしてお酒は……お酒はぁぁぁ……」"
 translation = "「그리고 술은…… 술은으으으으……」"
 
 [[dialogue]]
-speaker = "トワ先生"
+speaker_original = "トワ先生"
+speaker_translation = "토와 선생님"
 original = "「……へ、減らしますっ。３分の１に……いや、半分に……休肝日だって……倍に……」"
 translation = "「……주, 줄이겠습니다. 3분의 1로…… 아니, 절반으로…… 간 쉬는 날도…… 두 배로……」"
 
 [[dialogue]]
-speaker = "トワ先生"
+speaker_original = "トワ先生"
+speaker_translation = "토와 선생님"
 original = "「うううううっ、想像しただけでもつらすぎる……」"
 translation = "「으으으으윽, 상상만 해도 너무 괴로워……」"
 
 [[dialogue]]
-speaker = "メイプル"
+speaker_original = "メイプル"
+speaker_translation = "메이플"
 original = "「トワちゃん、量はそこまで飲んでないんだから、お酒は我慢しなくていいんじゃない？」"
 translation = "「토와 짱, 양은 그렇게 많이 안 마시니까 술은 참지 않아도 되지 않아?」"
 
 [[dialogue]]
-speaker = "トワ先生"
+speaker_original = "トワ先生"
+speaker_translation = "토와 선생님"
 original = "「わたしを甘やかさないで！\u3000会長くんのためにわたしは変わるんだから！」"
 translation = "「나를 응석받이로 만들지 마! 회장 군을 위해서 나는 변할 거니까!」"
 
 [[dialogue]]
-speaker = "トワ先生"
+speaker_original = "トワ先生"
+speaker_translation = "토와 선생님"
 original = "「待っててね、新生・有明トワの姿を！」"
 translation = "「기다려 줘, 신생 아리아케 토와의 모습을!」"
 

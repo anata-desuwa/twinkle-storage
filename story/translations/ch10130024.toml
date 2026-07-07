@@ -4,12 +4,14 @@ original = "第４話,金欠の理由,P"
 translation = "제4화, 돈이 부족한 이유, P"
 
 [[dialogue]]
-speaker = "ユウリ"
+speaker_original = "ユウリ"
+speaker_translation = "유우리"
 original = "「い、いらっしゃいませ～。本日は当カジノへようこそ～」"
 translation = "「어, 어서 오십시오~. 오늘은 저희 카지노에 오신 걸 환영합니다~」"
 
 [[dialogue]]
-speaker = "ユウリ"
+speaker_original = "ユウリ"
+speaker_translation = "유우리"
 original = "「……はぁ。やっぱ何度やっても慣れねえ。このカッコで笑顔浮かべるだけでも表情筋がヒクヒクしちまう……」"
 translation = "「……하아. 역시 몇 번을 해도 적응이 안 돼. 이 차림으로 미소 짓는 것만으로도 안면 근육이 파르르 떨린단 말이야……」"
 
@@ -19,27 +21,32 @@ original = "ならどうしてまたカジノでバイトを"
 translation = "그럼 왜 또 카지노에서 알바를?"
 
 [[dialogue]]
-speaker = "ユウリ"
+speaker_original = "ユウリ"
+speaker_translation = "유우리"
 original = "「う、うっせーな。金欠になっちまったんだから仕方ねえだろ。このバイト、割だけはいいし」"
 translation = "「시, 시끄러워. 돈이 다 떨어졌으니까 어쩔 수 없잖아. 이 알바가 페이만큼은 좋단 말이야」"
 
 [[dialogue]]
-speaker = "ユウリ"
+speaker_original = "ユウリ"
+speaker_translation = "유우리"
 original = "「つかなんで会長さんまでバイトしてんだよ？\u3000あんたは一緒じゃなくても良かったのに」"
 translation = "「그보다 왜 회장님까지 알바를 하는 거야? 당신은 같이 안 해도 됐는데」"
 
 [[dialogue]]
-speaker = "ユウリ"
+speaker_original = "ユウリ"
+speaker_translation = "유우리"
 original = "「大方あたしのこと心配してついてきたんだろ？\u3000ガキ扱いするなっての。バイトくらい１人でできるって」"
 translation = "「보나 마나 나 걱정돼서 따라온 거지? 애 취급 하지 말라니까. 알바 정도는 혼자 할 수 있어」"
 
 [[dialogue]]
-speaker = "ユウリ"
+speaker_original = "ユウリ"
+speaker_translation = "유우리"
 original = "「んまあ……気持ちは嬉しいけど。正直、１人でバイトするの心細かったし……」"
 translation = "「뭐어…… 마음은 고맙지만. 솔직히 혼자 알바하려니 허전하기도 했고……」"
 
 [[dialogue]]
-speaker = "ユウリ"
+speaker_original = "ユウリ"
+speaker_translation = "유우리"
 original = "「でも突然バイトなんか入れちゃって悪かったな。今日も、その……せっかくデートに誘ってくれてたのに」"
 translation = "「하지만 갑자기 알바 같은 걸 넣어서 미안하네. 오늘도, 그…… 기껏 데이트 신청해 줬었는데」"
 
@@ -49,112 +56,134 @@ original = "ユウリと一緒ならなんだってデートだよ"
 translation = "유우리와 함께라면 뭐든 데이트야."
 
 [[dialogue]]
-speaker = "ユウリ"
+speaker_original = "ユウリ"
+speaker_translation = "유우리"
 original = "「～～っっ。毎度毎度恥ずかしいこと言うなよ。言っとくけどバイト中はこの前したようなこと禁止だからなっ？」"
 translation = "「~~윽. 매번 매번 부끄러운 소리 하지 마. 말해두겠는데 알바 중에는 저번에 했던 그런 짓 금지니까 말이야?」"
 
 [[dialogue]]
-speaker = "ユウリ"
+speaker_original = "ユウリ"
+speaker_translation = "유우리"
 original = "「だ、だからキスだよ、キス……！\u3000フロアの真ん中でした日にはぶっ飛ばすからなっ……！」"
 translation = "「그, 그러니까 키스 말이야, 키스……! 플로어 한복판에서 하는 날에는 날려버릴 테니까……!」"
 
 [[dialogue]]
-speaker = "ユウリ"
+speaker_original = "ユウリ"
+speaker_translation = "유우리"
 original = "「バックヤードで……とかも絶対ダメだからっ。フリじゃねえぞっ？\u3000やった瞬間、別れ話を切り出すからなっ……！」"
 translation = "「백야드에서…… 같은 것도 절대 안 돼. 빈말 아니라고? 하는 순간, 이별 이야기를 꺼낼 테니까……!」"
 
 [[dialogue]]
-speaker = "ユウリ"
+speaker_original = "ユウリ"
+speaker_translation = "유우리"
 original = "「……わかってるならいいけど。その代わり、えと……。部屋に戻ったらいくらでもしてやるし……」"
 translation = "「……알고 있다면 됐지만. 그 대신에, 저기……. 방으로 돌아가면 얼마든지 해줄 테니까……」"
 
 [[dialogue]]
-speaker = "ユウリ"
+speaker_original = "ユウリ"
+speaker_translation = "유우리"
 original = "「それに今日は、サプライズも……」"
 translation = "「그리고 오늘은 서프라이즈도……」"
 
 [[dialogue]]
-speaker = "ユウリ"
+speaker_original = "ユウリ"
+speaker_translation = "유우리"
 original = "「っっ。い、いや、なんでもねえっ。とにかく今はバイト中なんだから、あんま喋りかけてくんなってっ」"
 translation = "「윽. 아, 아니, 아무것도 아니야. 어쨌든 지금은 알바 중이니까 너무 말 걸지 말라고」"
 
 [[dialogue]]
-speaker = "ユウリ"
+speaker_original = "ユウリ"
+speaker_translation = "유우리"
 original = "「会長さんも自分の仕事あんだろっ？\u3000あたしは大丈夫だから自分の仕事に戻れってっ」"
 translation = "「회장님도 자기 일 있잖아? 나는 괜찮으니까 자기 일로 돌아가라고」"
 
 [[dialogue]]
-speaker = "ユウリ"
+speaker_original = "ユウリ"
+speaker_translation = "유우리"
 original = "「……はぁ？\u3000ナンパなんかあたしがされるわけねえだろうが。アホな心配してんじゃねえ」"
 translation = "「……하아? 헌팅 같은 걸 내가 당할 리가 없잖아. 바보 같은 걱정 하지 마」"
 
 [[dialogue]]
-speaker = "ユウリ"
+speaker_original = "ユウリ"
+speaker_translation = "유우리"
 original = "「万が一、変な客に絡まれても外までぶっ飛ばしてやるよ。だから会長さんも自分に集中しろって」"
 translation = "「만약에 이상한 손님이 꼬여도 밖으로 날려버릴 거야. 그러니까 회장님도 자기 일에 집중해」"
 
 [[dialogue]]
-speaker = "ユウリ"
+speaker_original = "ユウリ"
+speaker_translation = "유우리"
 original = "「ようやく行ったか……。ったく過保護にも程があんぜ……」"
 translation = "「겨우 갔나……. 참나, 과보호도 정도가 있어야지……」"
 
 [[dialogue]]
-speaker = "ユウリ"
+speaker_original = "ユウリ"
+speaker_translation = "유우리"
 original = "「あいつはあたしを女の子として見過ぎなんだよ。……それ自体は、まぁ嬉しいけど……」"
 translation = "「그 녀석은 나를 너무 여자로만 본다니까. ……그거 자체는 뭐, 기쁘지만……」"
 
 [[dialogue]]
-speaker = "ユウリ"
+speaker_original = "ユウリ"
+speaker_translation = "유우리"
 original = "「でもあたしに限ってナンパなんざ。心配する方向がズレにズレて──」"
 translation = "「하지만 나한테 헌팅이라니. 걱정하는 방향이 한참 어긋났다니까──」"
 
 [[dialogue]]
-speaker = "ユウリ"
+speaker_original = "ユウリ"
+speaker_translation = "유우리"
 original = "「あっ、いらっしゃいませお客様方。当カジノは初めてですか？\u3000でしたら──……」"
 translation = "「앗, 어서 오십시오 손님들. 저희 카지노는 처음이신가요? 그렇다면──……」"
 
 [[dialogue]]
-speaker = "ユウリ"
+speaker_original = "ユウリ"
+speaker_translation = "유우리"
 original = "（な、なんだ、この男たち。全員酒臭え……。泥酔してカジノになんざ来るんじゃねえっての……！）"
 translation = "(뭐, 뭐야 이 남자들. 전부 술 냄새 나……. 만취해서 카지노 같은 데 오지 말라고!)"
 
 [[dialogue]]
-speaker = "ユウリ"
+speaker_original = "ユウリ"
+speaker_translation = "유우리"
 original = "（つかやたら近えし、視線もギラギラしてるし……！\u3000ひ、人のことジロジロ見やがって……！）"
 translation = "(그보다 너무 가깝고, 시선도 번들거리고……! 사, 사람을 빤히 쳐다보고 말이야……!)"
 
 [[dialogue]]
-speaker = "ユウリ"
+speaker_original = "ユウリ"
+speaker_translation = "유우리"
 original = "「え？\u3000可愛い？\u3000色っぽい？\u3000あ、あはは、ありがとうござい、ます……」"
 translation = "「에? 귀엽다구요? 섹시하다구요? 아, 아하하, 감사합니, 다……」"
 
 [[dialogue]]
-speaker = "ユウリ"
+speaker_original = "ユウリ"
+speaker_translation = "유우리"
 original = "（あんたらに可愛いっつわれても一つも嬉しくねえっての……！\u3000鳥肌立つわ……！）"
 translation = "(당신들한테 귀엽다는 소리 들어봤자 하나도 안 기쁘거든……! 소름 돋아……!)"
 
 [[dialogue]]
-speaker = "ユウリ"
+speaker_original = "ユウリ"
+speaker_translation = "유우리"
 original = "（つ、つか地味にヤバくないか？\u3000どんどん壁際に追いやられてってるような……）"
 translation = "(그, 그보다 이거 좀 위험하지 않아? 점점 벽 쪽으로 몰리고 있는 것 같은데……)"
 
 [[dialogue]]
-speaker = "ユウリ"
+speaker_original = "ユウリ"
+speaker_translation = "유우리"
 original = "（まさかあたし……変なナンパ野郎に絡まれてるっ？\u3000あぶなっ、触ってこようとしやがったっ……！）"
 translation = "(설마 나…… 이상한 헌팅 놈들한테 꼬인 거야? 위험해, 만지려고 했어……!)"
 
 [[dialogue]]
-speaker = "ユウリ"
+speaker_original = "ユウリ"
+speaker_translation = "유우리"
 original = "「あ、あの……やめ……」"
 translation = "「저, 저기…… 그만……」"
 
 [[dialogue]]
-speaker = "ユウリ"
+speaker_original = "ユウリ"
+speaker_translation = "유우리"
 original = "（あれっ？\u3000声が、声が出ねえ……！？\u3000男たちに囲まれて、か、体が震えちまって……！\u3000う、動きも……！）"
 translation = "(어라? 목소리가, 목소리가 안 나와……!? 남자들한테 둘러싸여서, 모, 몸이 떨려버려서……! 우, 움직임도……!)"
 
 [[dialogue]]
-speaker = "ユウリ"
+speaker_original = "ユウリ"
+speaker_translation = "유우리"
 original = "（ヤバい、怖い……！\u3000大人の男に囲まれるのってこんなに……！\u3000誰か助けを……！\u3000でも声が──……！）"
 translation = "(위험해, 무서워……! 성인 남자들한테 둘러싸이는 게 이렇게나……! 누가 도움을……! 하지만 목소리가──……!)"
 
@@ -164,7 +193,8 @@ original = "お客様──用件なら私が伺いますよ"
 translation = "손님── 용건이라면 제가 듣겠습니다."
 
 [[dialogue]]
-speaker = "ユウリ"
+speaker_original = "ユウリ"
+speaker_translation = "유우리"
 original = "「か、会長さん……！\u3000あっ、客たちが……」"
 translation = "「회, 회장님……! 앗, 손님들이……」"
 
@@ -174,37 +204,44 @@ original = "遅くなってごめんなユウリ"
 translation = "늦어서 미안해, 유우리."
 
 [[dialogue]]
-speaker = "ユウリ"
+speaker_original = "ユウリ"
+speaker_translation = "유우리"
 original = "「っっ、ううん……！\u3000ありがと、助けてくれて……！\u3000あんな啖呵切っておいてあたし、いざとなったらビビっちまって……！」"
 translation = "「윽, 아니야……! 고마워, 구해줘서……! 그렇게 큰소리쳐놓고 나, 막상 닥치니까 겁먹어버려서……!」"
 
 [[dialogue]]
-speaker = "ユウリ"
+speaker_original = "ユウリ"
+speaker_translation = "유우리"
 original = "「会長さんが来てくれなかったらどうなってたか……。本当に、ありがと……」"
 translation = "「회장님이 안 왔으면 어떻게 됐을지……. 정말로 고마워……」"
 
 [[dialogue]]
-speaker = "ユウリ"
+speaker_original = "ユウリ"
+speaker_translation = "유우리"
 original = "「あたし、自分が思ってる以上に女の子だったんだな……。あ、あはは、安心したら腰抜けちまって……」"
 translation = "「나, 내가 생각하는 것 이상으로 여자였구나……. 아, 아하하, 안심하니까 다리에 힘이 풀려서……」"
 
 [[dialogue]]
-speaker = "ユウリ"
+speaker_original = "ユウリ"
+speaker_translation = "유우리"
 original = "「もうしばらく抱き締めてもらってていいか……？\u3000あたしの体、ぎゅっとしてて欲しい……」"
 translation = "「잠시만 더 안겨 있어도 될까……? 내 몸, 꽉 안아줬으면 좋겠어……」"
 
 [[dialogue]]
-speaker = "ユウリ"
+speaker_original = "ユウリ"
+speaker_translation = "유우리"
 original = "「ありがと……ん、ちゅっ<emoji=heart04>\u3000大好き……<emoji=heart04>\u3000頼りになる彼氏がいてくれて、あたしは幸せだ……<emoji=heart04>」"
 translation = "「고마워…… 응, 츄<emoji=heart04> 사랑해……<emoji=heart04> 의지할 수 있는 남자친구가 있어서 나는 행복해……<emoji=heart04>」"
 
 [[dialogue]]
-speaker = "ユウリ"
+speaker_original = "ユウリ"
+speaker_translation = "유우리"
 original = "「失敗した失敗した失敗した！！\u3000フロアのど真ん中でキスしちまうなんて……！！」"
 translation = "「실패했다 실패했다 실패했다!! 플로어 한복판에서 키스해버리다니……!!」"
 
 [[dialogue]]
-speaker = "ユウリ"
+speaker_original = "ユウリ"
+speaker_translation = "유우리"
 original = "「もう二度とあそこでバイトできねえ……！\u3000客からもスタッフさんからも超<ruby>囃<rt>はや</rt></ruby>し立てられるようになっちまったし……！」"
 translation = "「이제 두 번 다시 저기서 알바 못 해……! 손님들한테도 스태프분들한테도 엄청 놀림 받게 됐단 말이야……!」"
 
@@ -214,32 +251,38 @@ original = "そもそもどうして金欠だったんだ？"
 translation = "애초에 왜 돈이 부족했던 거야?"
 
 [[dialogue]]
-speaker = "ユウリ"
+speaker_original = "ユウリ"
+speaker_translation = "유우리"
 original = "「えっ！？\u3000だ、だから、それは、その……」"
 translation = "「엣!? 그, 그러니까 그건, 저기……」"
 
 [[dialogue]]
-speaker = "ユウリ"
+speaker_original = "ユウリ"
+speaker_translation = "유우리"
 original = "「ふ、服買ったからだよ……。この前見に行ったフリフリの女の子っぽい服、けっこう高くて。サプライズで着てやろうと思って……」"
 translation = "「오, 옷 샀단 말이야……. 저번에 보러 갔던 팔랑거리는 여자애 같은 옷, 꽤 비싸서. 서프라이즈로 입어주려고……」"
 
 [[dialogue]]
-speaker = "ユウリ"
+speaker_original = "ユウリ"
+speaker_translation = "유우리"
 original = "「あれ着たらもっとあたしのこと好きになってくれるっつってたから……。あたしも着てみたいって思ってたし……」"
 translation = "「그거 입으면 더 나를 좋아해 줄 거라고 했으니까……. 나도 입어보고 싶다고 생각했었고……」"
 
 [[dialogue]]
-speaker = "ユウリ"
+speaker_original = "ユウリ"
+speaker_translation = "유우리"
 original = "「ちゃ、ちゃんと感想聞かせてもらうからなっ？\u3000似合ってないなら似合ってないってハッキリ言えよっ……！？」"
 translation = "「제, 제대로 감상 들을 거니까 말이야? 안 어울리면 안 어울린다고 확실히 말해……!?」"
 
 [[dialogue]]
-speaker = "ユウリ"
+speaker_original = "ユウリ"
+speaker_translation = "유우리"
 original = "「財布空っぽになるまで色々買っちまったんだ……。一晩中ファッションショーできるくらいたくさんあるからよ……」"
 translation = "「지갑이 텅 빌 때까지 이것저것 샀단 말이야……. 밤새도록 패션쇼를 할 수 있을 정도로 잔뜩 있으니까……」"
 
 [[dialogue]]
-speaker = "ユウリ"
+speaker_original = "ユウリ"
+speaker_translation = "유우리"
 original = "「あたしの女の子らしい姿……今夜はトコトン見てもらうからな？」"
 translation = "「내 여자아이 같은 모습…… 오늘 밤은 실컷 보여줄 테니까 말이야?」"
 

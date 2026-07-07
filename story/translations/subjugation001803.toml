@@ -1,335 +1,402 @@
 [[dialogue]]
-speaker = "リップル"
+speaker_original = "リップル"
+speaker_translation = "리플"
 original = "「さあ、トーチャクです！\u3000ここがワタシのサンクチュアリ！\u3000リゾート結界で～す！」"
 translation = "「자, 도착마시타! 여기가 와타시의 생츄어리! 리조트 결계마시타~!」"
 
 [[dialogue]]
-speaker = "モネ"
+speaker_original = "モネ"
+speaker_translation = "모네"
 original = "「すごい……本当にリゾートだ……」"
 translation = "「대단해…… 정말 리조트네……」"
 
 [[dialogue]]
-speaker = "リップル"
+speaker_original = "リップル"
+speaker_translation = "리플"
 original = "「フフフ……どうデスか、ハジメてリゾート結界に来た感想は♪」"
 translation = "「후후후…… 어떠마시타, 처음으로 리조트 결계에 온 감상은♪」"
 
 [[dialogue]]
-speaker = "モネ"
+speaker_original = "モネ"
+speaker_translation = "모네"
 original = "「うぅ、日差しがキツい……潮風と紫外線で本が傷んじゃう……」"
 translation = "「으으, 햇살이 너무 세요…… 바닷바람이랑 자외선 때문에 책이 상해버려……」"
 
 [[dialogue]]
-speaker = "リップル"
+speaker_original = "リップル"
+speaker_translation = "리플"
 original = "「ガーン！\u3000モネ、テンション低いです！\u3000リゾート結界、ダメでしたか……？」"
 translation = "「가안! 모네, 텐션이 낮마시타! 리조트 결계, 별로였마시타……?」"
 
 [[dialogue]]
-speaker = "モネ"
+speaker_original = "モネ"
+speaker_translation = "모네"
 original = "「ご、ごめんなさい、リップルさん。私って根っからのインドア派だから……それに本のことを考えたら、海は控えたいかなって……」"
 translation = "「미, 미안해요, 리플 씨. 전 원래부터 인도어파라서…… 게다가 책을 생각하면, 바다는 삼가고 싶달까……」"
 
 [[dialogue]]
-speaker = "リップル"
+speaker_original = "リップル"
+speaker_translation = "리플"
 original = "「ソウだったんですね……だったら、モネはどうして水着を着てイルんです？\u3000プールで泳ぐのデスか？」"
 translation = "「그랬던 것이마시타네…… 그렇다면, 모네는 어째서 수영복을 입고 있마시타? 풀장에서 헤엄치는 것이마시타?」"
 
 [[dialogue]]
-speaker = "モネ"
+speaker_original = "モネ"
+speaker_translation = "모네"
 original = "「えと、話せば長いんですけど……私、人工戦闘服のテスターになったんです」"
 translation = "「그게, 말하자면 긴데요…… 저, 인공 전투복의 테스터가 됐거든요」"
 
 [[dialogue]]
-speaker = "リップル"
+speaker_original = "リップル"
+speaker_translation = "리플"
 original = "「ジンコーセントーフク？\u3000テスター？」"
 translation = "「인공 전투복나리? 테스터나리?」"
 
 [[dialogue]]
-speaker = "モネ"
+speaker_original = "モネ"
+speaker_translation = "모네"
 original = "「う～ん説明が難しいんですけど、要するにこの水着を着て、使いこなせるようにならないといけないんです」"
 translation = "「으음 설명하기 어렵지만, 요컨대 이 수영복을 입고, 잘 다룰 수 있게 되어야만 해요」"
 
 [[dialogue]]
-speaker = "リップル"
+speaker_original = "リップル"
+speaker_translation = "리플"
 original = "「オー……つまりモネはソーダイなミッションを受けてるんデスね！\u3000理解しマシた！」"
 translation = "「오오…… 즉 모네는 장대한 미션을 받고 있마시타네! 이해했마시타!」"
 
 [[dialogue]]
-speaker = "モネ"
+speaker_original = "モネ"
+speaker_translation = "모네"
 original = "「あはは、そんな大袈裟なことじゃないんですけど……とにかく、リゾート結界に来たくて水着に変身したわけじゃないんです」"
 translation = "「아하하, 그렇게 거창한 건 아니지만…… 어쨌든, 리조트 결계에 오고 싶어서 수영복으로 변신한 건 아니에요」"
 
 [[dialogue]]
-speaker = "リップル"
+speaker_original = "リップル"
+speaker_translation = "리플"
 original = "「それならゴメンなさいです。モネのコトをムリヤリ連れて来てシマイました……」"
 translation = "「그렇다면 미안해마시타. 모네를 억지로 데려와 버려마시타……」"
 
 [[dialogue]]
-speaker = "モネ"
+speaker_original = "モネ"
+speaker_translation = "모네"
 original = "「いえ、私も誤解させるような格好しててごめんなさい」"
 translation = "「아니에요, 저도 오해하게 할 만한 복장을 하고 있어서 죄송해요」"
 
 [[dialogue]]
-speaker = "リップル"
+speaker_original = "リップル"
+speaker_translation = "리플"
 original = "「ところで、モネの水着はちょっと変わってマスね？\u3000何かのコスプレです？」"
 translation = "「그런데, 모네의 수영복은 좀 특이해마시타네? 무슨 코스프레입니까?」"
 
 [[dialogue]]
-speaker = "モネ"
+speaker_original = "モネ"
+speaker_translation = "모네"
 original = "「こ、これはその……サンタクロースのコスプレというか水着というか……」"
 translation = "「이, 이건 그…… 산타클로스 코스프레랄까 수영복이랄까……」"
 
 [[dialogue]]
-speaker = "リップル"
+speaker_original = "リップル"
+speaker_translation = "리플"
 original = "「サンタクロース！？\u3000サンタクロースも水着を着るんデスか！？」"
 translation = "「산타클로스!? 산타클로스도 수영복을 입어마시타!?」"
 
 [[dialogue]]
-speaker = "モネ"
+speaker_original = "モネ"
+speaker_translation = "모네"
 original = "「一応南半球は夏がクリスマスですから、サンタクロースも水着を着ることがあるらしいです。サーフィンもするとか」"
 translation = "「일단 남반구는 여름이 크리스마스라서, 산타클로스도 수영복을 입을 때가 있다고 하더라구요. 서핑도 한다던가」"
 
 [[dialogue]]
-speaker = "リップル"
+speaker_original = "リップル"
+speaker_translation = "리플"
 original = "「オー、サンタクロースは夏にもやってくるんデスね！\u3000しかもサーフィンまで！\u3000親近感がわきマス！」"
 translation = "「오오, 산타클로스는 여름에도 찾아오마시타네! 게다가 서핑까지! 친근감이 느껴지마시타!」"
 
 [[dialogue]]
-speaker = "リップル"
+speaker_original = "リップル"
+speaker_translation = "리플"
 original = "「つまりサンタはワタシの仲間……これでクリスマスの謎にイッポ近づきマシた！」"
 translation = "「즉 산타는 와타시의 동료…… 이것으로 크리스마스의 수수께끼에 한 발짝 다가갔마시타!」"
 
 [[dialogue]]
-speaker = "モネ"
+speaker_original = "モネ"
+speaker_translation = "모네"
 original = "「クリスマスの謎……？」"
 translation = "「크리스마스의 수수께끼……?」"
 
 [[dialogue]]
-speaker = "リップル"
+speaker_original = "リップル"
+speaker_translation = "리플"
 original = "「サンタクロースはクリスマスの謎を解き明かすキーパーソンです！\u3000こうなったら、ワタシもサンタクロースにヘンシンです！」"
 translation = "「산타클로스는 크리스마스의 수수께끼를 밝혀낼 키퍼슨나리입니다! 이렇게 된 이상, 와타시도 산타클로스로 변신나리입니다!」"
 
 [[dialogue]]
-speaker = "モネ"
+speaker_original = "モネ"
+speaker_translation = "모네"
 original = "「サンタクロースに変身！？\u3000そんなことができるんですか！？」"
 translation = "「산타클로스로 변신!? 그런 게 가능한가요!?」"
 
 [[dialogue]]
-speaker = "リップル"
+speaker_original = "リップル"
+speaker_translation = "리플"
 original = "「サンタが水着にナレルなら、ワタシもきっとサンタにナレます♪\u3000サンタと衣装をコウカンで～す！」"
 translation = "「산타가 수영복이 될 수 있다면, 와타시도 분명 산타가 될 수 있마시타♪ 산타와 의상을 교환나리입니다~!」"
 
 [[dialogue]]
-speaker = "モネ"
+speaker_original = "モネ"
+speaker_translation = "모네"
 original = "「そんな理屈で！？」"
 translation = "「그런 논리로!?」"
 
 [[dialogue]]
-speaker = "リップル"
+speaker_original = "リップル"
+speaker_translation = "리플"
 original = "「それでは……へ～ンシン！」"
 translation = "「그럼…… 변~신!」"
 
 [[dialogue]]
-speaker = "リップル"
+speaker_original = "リップル"
+speaker_translation = "리플"
 original = "「──リップル・クリスマスサンタバージョンです！\u3000イェーイです☆」"
 translation = "「──리플 크리스마스 산타 버전마시타! 이예이마시타☆」"
 
 [[dialogue]]
-speaker = "モネ"
+speaker_original = "モネ"
+speaker_translation = "모네"
 original = "「────」"
 translation = "「────」"
 
 [[dialogue]]
-speaker = "リップル"
+speaker_original = "リップル"
+speaker_translation = "리플"
 original = "「？？？\u3000モネ、どうかしましたか？\u3000ワタシ、何か変です？」"
 translation = "「??? 모네, 왜 그러마시타? 와타시, 어디 이상마시타?」"
 
 [[dialogue]]
-speaker = "モネ"
+speaker_original = "モネ"
+speaker_translation = "모네"
 original = "「……ろ」"
 translation = "「……출」"
 
 [[dialogue]]
-speaker = "リップル"
+speaker_original = "リップル"
+speaker_translation = "리플"
 original = "「ロ……？」"
 translation = "「출……?」"
 
 [[dialogue]]
-speaker = "モネ"
+speaker_original = "モネ"
+speaker_translation = "모네"
 original = "「露出ーーーーーーーーーーーーーーーーー！！！」"
 translation = "「노출ーーーーーーーーーーーーーーーーー!!!」"
 
 [[dialogue]]
-speaker = "リップル"
+speaker_original = "リップル"
+speaker_translation = "리플"
 original = "「ワオ！\u3000ＢＩＧボイスです！」"
 translation = "「와오! BIG 보이스마시타!」"
 
 [[dialogue]]
-speaker = "モネ"
+speaker_original = "モネ"
+speaker_translation = "모네"
 original = "「リップルさん、その格好はダメですよ！\u3000水着とかそういう次元を超えています！」"
 translation = "「리플 씨, 그 차림은 안 돼요! 수영복 같은 차원을 넘어섰다구요!」"
 
 [[dialogue]]
-speaker = "モネ"
+speaker_original = "モネ"
+speaker_translation = "모네"
 original = "「水着を超えてヒモ！\u3000ほとんどヒモじゃないですか！！」"
 translation = "「수영복을 넘어선 끈! 거의 끈이잖아요!!」"
 
 [[dialogue]]
-speaker = "リップル"
+speaker_original = "リップル"
+speaker_translation = "리플"
 original = "「チッチッチ、ヒモじゃなくてリボンでーす♪\u3000クリスマスとプレゼントのイメージを反映してみマシた♪」"
 translation = "「칫칫칫, 끈이 아니라 리본나리입니다♪ 크리스마스와 선물의 이미지를 반영해 보았마시타♪」"
 
 [[dialogue]]
-speaker = "モネ"
+speaker_original = "モネ"
+speaker_translation = "모네"
 original = "「リップルさんのクリスマスのイメージおかしくないですか！？」"
 translation = "「리플 씨의 크리스마스 이미지 너무 이상하지 않나요!?」"
 
 [[dialogue]]
-speaker = "リップル"
+speaker_original = "リップル"
+speaker_translation = "리플"
 original = "「コウメイからクリスマスはウェーイ♪\u3000イェーイ☆\u3000って教わりマシた！\u3000さらにクリスマスといえばクリスマスプレゼント！\u3000コレがそのコタエで～す！」"
 translation = "「코메이한테서 크리스마스는 웨~이♪ 이예~이☆라고 배웠마시타! 게다가 크리스마스라고 하면 크리스마스 선물! 이것이 그 답나리입니다~!」"
 
 [[dialogue]]
-speaker = "モネ"
+speaker_original = "モネ"
+speaker_translation = "모네"
 original = "「意味が分からないです！？\u3000というか戦闘服を自力で変えられるなんて……リップルさんが特別な天使だから……？」"
 translation = "「의미를 모르겠어요!? 그보다 전투복을 자력으로 바꿀 수 있다니…… 리플 씨가 특별한 천사라서……?」"
 
 [[dialogue]]
-speaker = "リップル"
+speaker_original = "リップル"
+speaker_translation = "리플"
 original = "「ふっふっふ……サマーパワーに不可能はナイので～す！」"
 translation = "「훗훗훗…… 서머 파워에 불가능은 없어마시타~!」"
 
 [[dialogue]]
-speaker = "モネ"
+speaker_original = "モネ"
+speaker_translation = "모네"
 original = "「リップルさん、ルール無用すぎますよ……本当に私とはパワーも元気も大違いで……」"
 translation = "「리플 씨, 너무 룰 무시라구요…… 정말 저와는 파워도 활기도 너무 딴판이라……」"
 
 [[dialogue]]
-speaker = "リップル"
+speaker_original = "リップル"
+speaker_translation = "리플"
 original = "「モネにはモネのスゴイところがアリます！」"
 translation = "「모네에게는 모네만의 대단한 점이 있마시타!」"
 
 [[dialogue]]
-speaker = "モネ"
+speaker_original = "モネ"
+speaker_translation = "모네"
 original = "「わ、私なんかに誇れることなんて全然……」"
 translation = "「저, 저 따위가 자랑할 만한 건 전혀……」"
 
 [[dialogue]]
-speaker = "リップル"
+speaker_original = "リップル"
+speaker_translation = "리플"
 original = "「そんなコトありませーん。モネにはたくさんの本から得た知識がアリます。それはとってもスゴイことです！」"
 translation = "「그렇지 않아마시타. 모네에게는 수많은 책에서 얻은 지식이 있마시타. 그것은 정말 대단한 것이마시타!」"
 
 [[dialogue]]
-speaker = "リップル"
+speaker_original = "リップル"
+speaker_translation = "리플"
 original = "「それに、ワタシは今モネの力を必要とシテいまーす。クリスマスでリゾートがピンチなんです！」"
 translation = "「게다가, 와타시는 지금 모네의 힘을 필요로 하고 있마시타. 크리스마스로 리조트가 위기나리입니다!」"
 
 [[dialogue]]
-speaker = "リップル"
+speaker_original = "リップル"
+speaker_translation = "리플"
 original = "「クリスマスが近づいているセイでリゾートのお客さんが減ってキテます……だからワタシはクリスマスのことをモット知りたいです！」"
 translation = "「크리스마스가 다가오는 탓에 리조트 손님이 줄어들고 있마시타…… 그래서 와타시는 크리스마스에 대해 더 알고 싶어마시타!」"
 
 [[dialogue]]
-speaker = "モネ"
+speaker_original = "モネ"
+speaker_translation = "모네"
 original = "「つまり、私にクリスマスのことを詳しく教えてほしいってことですか？」"
 translation = "「그러니까, 저한테 크리스마스에 대해 자세히 알려달라는 건가요?」"
 
 [[dialogue]]
-speaker = "リップル"
+speaker_original = "リップル"
+speaker_translation = "리플"
 original = "「ソウです！\u3000ワタシにクリスマスのゴクイを教えてクダさ～い！」"
 translation = "「그렇마시타! 와타시에게 크리스마스의 극의를 가르쳐주세마시타~!」"
 
 [[dialogue]]
-speaker = "モネ"
+speaker_original = "モネ"
+speaker_translation = "모네"
 original = "「極意なんて大層なことは教えられないですけど、一般的なことなら……」"
 translation = "「극의라니 그렇게 거창한 건 못 가르쳐드리지만, 일반적인 거라면……」"
 
 [[dialogue]]
-speaker = "モネ"
+speaker_original = "モネ"
+speaker_translation = "모네"
 original = "「まず、クリスマスは女神様の誕生日ってことは知ってますか？」"
 translation = "「우선, 크리스마스는 여신님의 생일이라는 건 알고 있나요?」"
 
 [[dialogue]]
-speaker = "リップル"
+speaker_original = "リップル"
+speaker_translation = "리플"
 original = "「イイエ、知らなかったです！\u3000合言葉はメリ～クルシミマス！\u3000ってことはシッテます！」"
 translation = "「아니요, 몰랐마시타! 암호는 메리~ 구리심이마시타! 라는 건 알고 있마시타!」"
 
 [[dialogue]]
-speaker = "モネ"
+speaker_original = "モネ"
+speaker_translation = "모네"
 original = "「クルシミマスじゃなくて、クリスマスです……合言葉じゃなくてクリスマスを祝う言葉なんですけどね」"
 translation = "「구리심이 아니라, 크리스마스예요…… 암호가 아니라 크리스마스를 축하하는 말이긴 하지만요」"
 
 [[dialogue]]
-speaker = "リップル"
+speaker_original = "リップル"
+speaker_translation = "리플"
 original = "「つまりオメデタイ言葉なんデスね！\u3000コングラチュレーションズ！」"
 translation = "「즉 경사스러운 말이마시타네! 콩그레츄레이션즈!」"
 
 [[dialogue]]
-speaker = "モネ"
+speaker_original = "モネ"
+speaker_translation = "모네"
 original = "「クリスマスという行事は、本来は宗教的な意味合いが強いもので……諸説ありますけど女神信仰や各地の慣習が習合した──」"
 translation = "「크리스마스라는 행사는, 본래는 종교적인 의미가 강한 거라서…… 여러 설이 있지만 여신 신앙이나 각지의 관습이 습합된──」"
 
 [[dialogue]]
-speaker = "リップル"
+speaker_original = "リップル"
+speaker_translation = "리플"
 original = "「？？？？？？？？？？？」"
 translation = "「???????????」"
 
 [[dialogue]]
-speaker = "モネ"
+speaker_original = "モネ"
+speaker_translation = "모네"
 original = "「ごめんなさい……こんな説明じゃ何も分からないですよね……」"
 translation = "「죄송해요…… 이런 설명으론 아무것도 모르겠죠……」"
 
 [[dialogue]]
-speaker = "リップル"
+speaker_original = "リップル"
+speaker_translation = "리플"
 original = "「え～と……女神様のハッピーバースデーをミンナでお祝いシヨウ！\u3000って感じデスか？」"
 translation = "「으~음…… 여신님의 해피 버스데이를 다 같이 축하하자! 라는 느낌나리입니까?」"
 
 [[dialogue]]
-speaker = "モネ"
+speaker_original = "モネ"
+speaker_translation = "모네"
 original = "「現代だとそういうイベントになってますね。地域や文化によっては、もう少し本格的な降誕祭をすると思うんですけど……」"
 translation = "「현대에는 그런 이벤트가 되었죠. 지역이나 문화에 따라서는 조금 더 본격적인 강탄제를 하기도 하겠지만……」"
 
 [[dialogue]]
-speaker = "リップル"
+speaker_original = "リップル"
+speaker_translation = "리플"
 original = "「なら、どうしてパーティーをするんデスか？\u3000ケーキを食べる意味もよくワカリませ～ん」"
 translation = "「그렇다면, 왜 파티를 하는 것이마시타? 케이크를 먹는 의미도 잘 모르겠마시타~」"
 
 [[dialogue]]
-speaker = "リップル"
+speaker_original = "リップル"
+speaker_translation = "리플"
 original = "「ソレにサンタクロースも謎のキャラクターです！\u3000サンタは女神様のナンなんですか？」"
 translation = "「게다가 산타클로스도 수수께끼의 캐릭터마시타! 산타는 여신님의 무엇나리입니까?」"
 
 [[dialogue]]
-speaker = "モネ"
+speaker_original = "モネ"
+speaker_translation = "모네"
 original = "「え、ええと……パーティーをしたりケーキを食べるのは色んな慣習が混ざり合った結果で……」"
 translation = "「에, 에그게…… 파티를 하거나 케이크를 먹는 건 여러 관습이 섞인 결과라서……」"
 
 [[dialogue]]
-speaker = "モネ"
+speaker_original = "モネ"
+speaker_translation = "모네"
 original = "「女神様とサンタクロースの関係は……えーと……そう聞かれても……」"
 translation = "「여신님과 산타클로스의 관계는…… 저기…… 그렇게 물으셔도……」"
 
 [[dialogue]]
-speaker = "モネ"
+speaker_original = "モネ"
+speaker_translation = "모네"
 original = "「ダメ、私もクリスマスがわからなくなってきたかも……ごめんなさい、リップルさん……」"
 translation = "「안 돼, 나도 크리스마스가 뭔지 모르게 된 것 같아…… 미안해요, 리플 씨……」"
 
 [[dialogue]]
-speaker = "リップル"
+speaker_original = "リップル"
+speaker_translation = "리플"
 original = "「ダイジョウブです！\u3000ワカらないことは一緒に調べましょう！\u3000クリスマスの謎をトキ明かすのです！」"
 translation = "「다이죠부마시타! 모르는 건 함께 조사해마시타! 크리스마스의 수수께끼를 밝혀내는 것이마시타!」"
 
 [[dialogue]]
-speaker = "モネ"
+speaker_original = "モネ"
+speaker_translation = "모네"
 original = "「リップルさん……はい、一緒に調べましょう……！」"
 translation = "「리플 씨…… 네, 함께 조사해요……!」"
 
 [[dialogue]]
-speaker = "リップル"
+speaker_original = "リップル"
+speaker_translation = "리플"
 original = "「それじゃあ、サッソク結界の外へゴーです！」"
 translation = "「그렇다면, 당장 결계 밖으로 고마시타!」"
 
 [[dialogue]]
-speaker = "モネ"
+speaker_original = "モネ"
+speaker_translation = "모네"
 original = "「ままま待って！\u3000その前に変身を解いてください！\u3000その格好はマズいですから～！！」"
 translation = "「기기기 기다려요! 그전에 변신을 풀어주세요! 그 차림은 위험하다니까요~!!」"
 

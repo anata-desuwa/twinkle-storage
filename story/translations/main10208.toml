@@ -4,467 +4,560 @@ original = "第８話,この身は全てを穿つ針,B"
 translation = "제8화, 이 몸은 모든 것을 꿰뚫는 바늘, B"
 
 [[dialogue]]
-speaker = "蘭美"
+speaker_original = "蘭美"
+speaker_translation = "라미"
 original = "「都内各地域にてモンスターが大量発生中。混乱が広がっており、一般人の避難状況も<ruby>芳<rt>かんば</rt></ruby>しくありません」"
 translation = "「도내 각 지역에서 몬스터가 대량 발생 중. 혼란이 확산되고 있으며, 일반인의 피난 상황도 좋지 않습니다.」"
 
 [[dialogue]]
-speaker = "ヘレナ"
+speaker_original = "ヘレナ"
+speaker_translation = "헬레나"
 original = "「九浄家メイド隊、分散して、各地のモンスター鎮圧に向かえ」"
 translation = "「구죠 가 메이드대, 분산하여 각지의 몬스터 진압에 나서거라.」"
 
 [[dialogue]]
-speaker = "蘭美"
+speaker_original = "蘭美"
+speaker_translation = "라미"
 original = "「了解しました。ヨミ、あなたは閃とともに浅草方面へ。せつな、あなたには各所を繋ぐ伝令をお願いするわ」"
 translation = "「알겠습니다. 요미, 너는 센과 함께 아사쿠사 방면으로. 세츠나, 너는 각처를 잇는 전령을 부탁하마.」"
 
 [[dialogue]]
-speaker = "ヨミ"
+speaker_original = "ヨミ"
+speaker_translation = "요미"
 original = "「はいっ！\u3000至急、現場に向かいます！」"
 translation = "「네! 즉시 현장으로 향하겠습니다!」"
 
 [[dialogue]]
-speaker = "せつな"
+speaker_original = "せつな"
+speaker_translation = "세츠나"
 original = "「かしこまりでござる！\u3000散っ！」"
 translation = "「알겠소! 흩어지자!」"
 
 [[dialogue]]
-speaker = "蘭美"
+speaker_original = "蘭美"
+speaker_translation = "라미"
 original = "「美鶴は私とともに渋谷方面に向かうわよ。いいわね」"
 translation = "「미츠루는 나와 함께 시부야 방면으로 간다. 알겠지?」"
 
 [[dialogue]]
-speaker = "美鶴"
+speaker_original = "美鶴"
+speaker_translation = "미츠루"
 original = "「しゃーないですね。もうひと頑張りしますよ」"
 translation = "「어쩔 수 없네요. 조금 더 힘내볼게요.」"
 
 [[dialogue]]
-speaker = "蘭美"
+speaker_original = "蘭美"
+speaker_translation = "라미"
 original = "「邪魔ね！\u3000弾け飛べ！\u3000ダッシュハンマー！」"
 translation = "「방해다! 튕겨 날아가라! 대시 해머!」"
 
 [[dialogue]]
-speaker = "美鶴"
+speaker_original = "美鶴"
+speaker_translation = "미츠루"
 original = "「うわ、着地と同時に吹っ飛ばすとかエグ」"
 translation = "「우와, 착지와 동시에 날려버리다니 살벌하네.」"
 
 [[dialogue]]
-speaker = "蘭美"
+speaker_original = "蘭美"
+speaker_translation = "라미"
 original = "「足元にちょうどいいスペースがなかったのよ。ないのなら作るまでだわ」"
 translation = "「발밑에 적당한 공간이 없었을 뿐이다. 없다면 만들면 그만이야.」"
 
 [[dialogue]]
-speaker = "美鶴"
+speaker_original = "美鶴"
+speaker_translation = "미츠루"
 original = "「報告通り、足の踏み場もないくらい、モンスターがわんさかですね」"
 translation = "「보고대로 발 디딜 틈도 없을 정도로 몬스터가 바글바글하네요.」"
 
 [[dialogue]]
-speaker = "蘭美"
+speaker_original = "蘭美"
+speaker_translation = "라미"
 original = "「どんなにいようが、ちんたら時間をかけてられないわ！\u3000光速で終わらせる！\u3000美鶴、全力でついてきなさい！」"
 translation = "「아무리 많아도 꾸물거릴 시간은 없다! 광속으로 끝내겠다! 미츠루, 전력으로 따라오거라!」"
 
 [[dialogue]]
-speaker = "美鶴"
+speaker_original = "美鶴"
+speaker_translation = "미츠루"
 original = "「はいはーい」"
 translation = "「네에 네에.」"
 
 [[dialogue]]
-speaker = "蘭美"
+speaker_original = "蘭美"
+speaker_translation = "라미"
 original = "「返事は１回！\u3000てぇりゃあぁぁっ！」"
 translation = "「대답은 한 번! 테랴아아앗!」"
 
 [[dialogue]]
-speaker = "蘭美"
+speaker_original = "蘭美"
+speaker_translation = "라미"
 original = "「さぁ、私にお片付けされたいヤツは、どこからでもかかってきなさい！\u3000ぺちゃんこのお煎餅にしてやるわ！」"
 translation = "「자, 나에게 청소당하고 싶은 녀석은 어디서든 덤비거라! 납작한 전병으로 만들어 주마!」"
 
 [[dialogue]]
-speaker = "美鶴"
+speaker_original = "美鶴"
+speaker_translation = "미츠루"
 original = "「メイド長、やっぱし強ぉ。うちなんかいなくても、ひとりで全部やれるんじゃん？」"
 translation = "「메이드장, 역시 강하네. 나 같은 거 없어도 혼자서 다 할 수 있잖아?」"
 
 [[dialogue]]
-speaker = "美鶴"
+speaker_original = "美鶴"
+speaker_translation = "미츠루"
 original = "「つーわけでさ。メイド長が気持ちよ～く戦ってるとこ、ジャマすんなし」"
 translation = "「그런 고로. 메이드장이 기분 좋~게 싸우는 거 방해하지 마시지.」"
 
 [[dialogue]]
-speaker = "蘭美"
+speaker_original = "蘭美"
+speaker_translation = "라미"
 original = "「やるじゃない、美鶴」"
 translation = "「제법이구나, 미츠루.」"
 
 [[dialogue]]
-speaker = "美鶴"
+speaker_original = "美鶴"
+speaker_translation = "미츠루"
 original = "「いやいや、うちはメイド長の手の回らないトコをチビチビ刺してるだけですよ」"
 translation = "「아니 아니, 나는 메이드장의 손이 닿지 않는 곳을 찔끔찔끔 찌르고 있을 뿐이에요.」"
 
 [[dialogue]]
-speaker = "蘭美"
+speaker_original = "蘭美"
+speaker_translation = "라미"
 original = "「謙遜？\u3000それとも、本当に目立ちたくないだけ？\u3000あなたの働きにもちゃんと気づいてるわよ」"
 translation = "「겸손이냐? 아니면 정말로 눈에 띄고 싶지 않을 뿐이냐? 네 활약도 제대로 지켜보고 있단다.」"
 
 [[dialogue]]
-speaker = "蘭美"
+speaker_original = "蘭美"
+speaker_translation = "라미"
 original = "「私が倒し損ねたモンスターにトドメを刺してくれていたでしょう。手負いのモンスターを逃すと、後でまた悪さを始めるものね」"
 translation = "「내가 다 잡지 못한 몬스터에게 마무리를 지어주고 있었지. 부상당한 몬스터를 놓치면 나중에 또 나쁜 짓을 시작하는 법이니까.」"
 
 [[dialogue]]
-speaker = "美鶴"
+speaker_original = "美鶴"
+speaker_translation = "미츠루"
 original = "「そーですね。美味しいトコだけいただいてましたけど。大暴れしながら細かいトコまでよく見てますね」"
 translation = "「그렇네요. 맛있는 부분만 챙기고 있었습니다만. 난리 법석을 떨면서 세세한 부분까지 잘 보고 계시네요.」"
 
 [[dialogue]]
-speaker = "蘭美"
+speaker_original = "蘭美"
+speaker_translation = "라미"
 original = "「部下の仕事を逐一確認するのが、メイド長の仕事よ。褒められるまでもないわ、ふふん」"
 translation = "「부하의 업무를 일일이 확인하는 것이 메이드장의 일이다. 칭찬받을 일도 아니야, 후훗.」"
 
 [[dialogue]]
-speaker = "蘭美"
+speaker_original = "蘭美"
+speaker_translation = "라미"
 original = "「細やかなサポートは、メイドの大切な心得。やっぱり、あなたは素晴らしいメイドになれる才能の持ち主よ」"
 translation = "「세심한 서포트는 메이드의 소중한 소양. 역시 너는 훌륭한 메이드가 될 재능의 소유자구나.」"
 
 [[dialogue]]
-speaker = "せつな"
+speaker_original = "せつな"
+speaker_translation = "세츠나"
 original = "「蘭美殿ー！\u3000美鶴殿ー！\u3000大変でござるー！」"
 translation = "「라비 공! 미츠루 공! 큰일이오!」"
 
 [[dialogue]]
-speaker = "美鶴"
+speaker_original = "美鶴"
+speaker_translation = "미츠루"
 original = "「せつな？\u3000……あの様子から見て、悪いニュースか、とても悪いニュースのどちらでしょう？」"
 translation = "「세츠나? ……저 모습으로 보아 나쁜 뉴스거나, 아주 나쁜 뉴스 중 하나겠지?」"
 
 [[dialogue]]
-speaker = "せつな"
+speaker_original = "せつな"
+speaker_translation = "세츠나"
 original = "「浅草に向かった閃殿、ヨミ殿が大苦戦中！\u3000至急救援を求む、でござるー！」"
 translation = "「아사쿠사로 향한 센 공, 요미 공이 대고전 중! 즉시 구원을 요청하오!」"
 
 [[dialogue]]
-speaker = "蘭美"
+speaker_original = "蘭美"
+speaker_translation = "라미"
 original = "「あの２人が押されるなんて、とても悪い方だったようね」"
 translation = "「그 두 사람이 밀리다니, 아주 나쁜 쪽인 모양이구나.」"
 
 [[dialogue]]
-speaker = "蘭美"
+speaker_original = "蘭美"
+speaker_translation = "라미"
 original = "「メイド長、羽宮蘭美。並びに──」"
 translation = "「메이드장, 하네미야 라비. 그리고──」"
 
 [[dialogue]]
-speaker = "美鶴"
+speaker_original = "美鶴"
+speaker_translation = "미츠루"
 original = "「メイド隊、長篠美鶴。浅草に向かう」"
 translation = "「메이드대, 나가시노 미츠루. 아사쿠사로 향한다.」"
 
 [[dialogue]]
-speaker = "閃"
+speaker_original = "閃"
+speaker_translation = "센"
 original = "「くぅぅ……！\u3000お嬢様にもう一度お会いするまで……やられるわけにはいかないの……！」"
 translation = "「크으으……! 아가씨를 다시 뵐 때까지…… 당할 수는 없어……!」"
 
 [[dialogue]]
-speaker = "ヨミ"
+speaker_original = "ヨミ"
+speaker_translation = "요미"
 original = "「せつなさんが救援要請に向かっています！\u3000もう少し……もう少し持ちこたえれば、きっとみんなが──」"
 translation = "「세츠나 씨가 구원 요청을 하러 갔습니다! 조금만…… 조금만 더 버티면 분명 모두가──」"
 
 [[dialogue]]
-speaker = "蘭美"
+speaker_original = "蘭美"
+speaker_translation = "라미"
 original = "「速攻で駆けつけたわ！」"
 translation = "「속공으로 달려왔다!」"
 
 [[dialogue]]
-speaker = "美鶴"
+speaker_original = "美鶴"
+speaker_translation = "미츠루"
 original = "「お待たせー」"
 translation = "「오래 기다렸지ー.」"
 
 [[dialogue]]
-speaker = "ヨミ"
+speaker_original = "ヨミ"
+speaker_translation = "요미"
 original = "「メイド長！\u3000美鶴さんも！」"
 translation = "「메이드장! 미츠루 씨도!」"
 
 [[dialogue]]
-speaker = "せつな"
+speaker_original = "せつな"
+speaker_translation = "세츠나"
 original = "「ヨミ殿！\u3000閃殿！\u3000間に合ったでござる！」"
 translation = "「요미 공! 센 공! 늦지 않았소!」"
 
 [[dialogue]]
-speaker = "蘭美"
+speaker_original = "蘭美"
+speaker_translation = "라미"
 original = "「よく耐えたわね、あなたたち！」"
 translation = "「잘 버텼다, 너희들!」"
 
 [[dialogue]]
-speaker = "閃"
+speaker_original = "閃"
+speaker_translation = "센"
 original = "「メイド長！\u3000良かった、助かりました……！」"
 translation = "「메이드장! 다행이에요, 살았습니다……!」"
 
 [[dialogue]]
-speaker = "蘭美"
+speaker_original = "蘭美"
+speaker_translation = "라미"
 original = "「気を抜くのはまだ早いわよ。これだけの数となると私たちが加わったところで、殲滅は容易じゃないわ」"
 translation = "「방심하기엔 아직 이르다. 이 정도 숫자라면 우리가 합세한다고 해도 섬멸이 쉽지 않아.」"
 
 [[dialogue]]
-speaker = "蘭美"
+speaker_original = "蘭美"
+speaker_translation = "라미"
 original = "「今までで一番ピンチかもしれないわね。いよいよ世界が終わる瀬戸際ってところかしら」"
 translation = "「지금까지 중 가장 위기일지도 모르겠구나. 드디어 세계가 끝날 기로에 서 있는 걸지도 모르겠어.」"
 
 [[dialogue]]
-speaker = "美鶴"
+speaker_original = "美鶴"
+speaker_translation = "미츠루"
 original = "「どこから湧いてきたんだか……ってアステラか。全部片づけんのは骨が折れそうだわ」"
 translation = "「어디서 솟아난 건지…… 아, 아스테라인가. 전부 치우는 건 골치 아프겠네.」"
 
 [[dialogue]]
-speaker = "蘭美"
+speaker_original = "蘭美"
+speaker_translation = "라미"
 original = "「不可能とは言わないのね」"
 translation = "「불가능하다고는 하지 않는구나.」"
 
 [[dialogue]]
-speaker = "美鶴"
+speaker_original = "美鶴"
+speaker_translation = "미츠루"
 original = "「これで世界が終わっちゃうんなら、できないなんて言ってらんないでしょ」"
 translation = "「이걸로 세계가 끝나버린다면, 못 하겠다는 말은 할 수 없잖아.」"
 
 [[dialogue]]
-speaker = "美鶴"
+speaker_original = "美鶴"
+speaker_translation = "미츠루"
 original = "「作りかけの服もたくさん溜まってるし、まだまだやり足りないことだらけなんですよ」"
 translation = "「만들다 만 옷도 잔뜩 쌓여 있고, 아직 하고 싶은 일이 산더미거든요.」"
 
 [[dialogue]]
-speaker = "蘭美"
+speaker_original = "蘭美"
+speaker_translation = "라미"
 original = "「ふうん。あなたが死にたがりなダウナー系じゃなくって良かったわ」"
 translation = "「흐음. 네가 죽고 싶어 하는 다우너 계열이 아니라 다행이구나.」"
 
 [[dialogue]]
-speaker = "美鶴"
+speaker_original = "美鶴"
+speaker_translation = "미츠루"
 original = "「うちのこと、どんな風に思ってたんすか」"
 translation = "「나를 어떤 식으로 생각하고 있었던 거예요.」"
 
 [[dialogue]]
-speaker = "蘭美"
+speaker_original = "蘭美"
+speaker_translation = "라미"
 original = "「だって、美鶴、あまり話してくれないじゃない。この戦いが終わったら、いろいろ教えてよね、あなたのこと」"
 translation = "「그야 미츠루, 별로 이야기해 주지 않잖니. 이 싸움이 끝나면 여러 가지 가르쳐주렴, 너에 대해서.」"
 
 [[dialogue]]
-speaker = "美鶴"
+speaker_original = "美鶴"
+speaker_translation = "미츠루"
 original = "「死亡フラグっぽいの、やめてもらえます？」"
 translation = "「사망 플래그 같은 거, 그만둬 줄래요?」"
 
 [[dialogue]]
-speaker = "せつな"
+speaker_original = "せつな"
+speaker_translation = "세츠나"
 original = "「一斉に押し寄せてきたでござる！」"
 translation = "「일제히 몰려오고 있소!」"
 
 [[dialogue]]
-speaker = "蘭美"
+speaker_original = "蘭美"
+speaker_translation = "라미"
 original = "「さ、ここが正念場よ！\u3000メイド隊、迎撃態勢！」"
 translation = "「자, 여기가 고비다! 메이드대, 요격 태세!」"
 
 [[dialogue]]
-speaker = "美鶴"
+speaker_original = "美鶴"
+speaker_translation = "미츠루"
 original = "（ま、ここが一番の山場っていうなら──）"
 translation = "(뭐, 여기가 제일 큰 고비라고 한다면──)"
 
 [[dialogue]]
-speaker = "美鶴"
+speaker_original = "美鶴"
+speaker_translation = "미츠루"
 original = "「メイド長のいう本気っての、ちょこっと出してみますか」"
 translation = "「메이드장이 말하는 진심이라는 거, 조금 내볼까.」"
 
 [[dialogue]]
-speaker = "蘭美"
+speaker_original = "蘭美"
+speaker_translation = "라미"
 original = "「美鶴、そっちは任せていいのね？」"
 translation = "「미츠루, 그쪽은 맡겨도 되겠지?」"
 
 [[dialogue]]
-speaker = "美鶴"
+speaker_original = "美鶴"
+speaker_translation = "미츠루"
 original = "「やれるだけやりますけど、期待しないでくださいね。ぶっ倒れちゃったら、ごめん」"
 translation = "「할 수 있는 만큼은 하겠지만 기대는 하지 마세요. 쓰러져버리면 미안.」"
 
 [[dialogue]]
-speaker = "蘭美"
+speaker_original = "蘭美"
+speaker_translation = "라미"
 original = "「ダメよ、許してあげない。骨だって拾ってあげないわ」"
 translation = "「안 된다, 용서하지 않겠다. 뼈조차 추려주지 않을 거야.」"
 
 [[dialogue]]
-speaker = "美鶴"
+speaker_original = "美鶴"
+speaker_translation = "미츠루"
 original = "「厳しいっすね」"
 translation = "「엄격하시네.」"
 
 [[dialogue]]
-speaker = "蘭美"
+speaker_original = "蘭美"
+speaker_translation = "라미"
 original = "「だから──絶対に生き残りなさい。これはメイド長命令よ」"
 translation = "「그러니까── 반드시 살아남거라. 이것은 메이드장 명령이다.」"
 
 [[dialogue]]
-speaker = "美鶴"
+speaker_original = "美鶴"
+speaker_translation = "미츠루"
 original = "「りょ、です」"
 translation = "「알겠, 음.」"
 
 [[dialogue]]
-speaker = "美鶴"
+speaker_original = "美鶴"
+speaker_translation = "미츠루"
 original = "「長篠美鶴、参る！」"
 translation = "「나가시노 미츠루, 간다!」"
 
 [[dialogue]]
-speaker = "ヨミ"
+speaker_original = "ヨミ"
+speaker_translation = "요미"
 original = "「単騎特攻！？\u3000美鶴さん、そんなの自殺行為ですよ！」"
 translation = "「단독 돌격!? 미츠루 씨, 그런 건 자살 행위예요!」"
 
 [[dialogue]]
-speaker = "蘭美"
+speaker_original = "蘭美"
+speaker_translation = "라미"
 original = "「あの子なら大丈夫でしょ。ヨミ、人を案じる余裕があるなら、自分の身を最優先にしなさい」"
 translation = "「저 아이라면 괜찮겠지. 요미, 남을 걱정할 여유가 있다면 네 몸을 최우선으로 하거라.」"
 
 [[dialogue]]
-speaker = "蘭美"
+speaker_original = "蘭美"
+speaker_translation = "라미"
 original = "「光になりなさい、ゴルディオンスマッシャー！\u3000これで……１００！」"
 translation = "「빛이 되어라, 골디언 스매셔! 이걸로…… 100!」"
 
 [[dialogue]]
-speaker = "せつな"
+speaker_original = "せつな"
+speaker_translation = "세츠나"
 original = "「はーっ、はーっ、はーっ……！\u3000もう何時間戦ってるでござるか……！？」"
 translation = "「하ー, 하ー, 하ー……! 벌써 몇 시간째 싸우고 있는 것이오……!?」"
 
 [[dialogue]]
-speaker = "閃"
+speaker_original = "閃"
+speaker_translation = "센"
 original = "「そんなには経ってませんよ、せいぜい３０分くらいだと思いますけど……時間の感覚もなくなりますよね……！」"
 translation = "「그렇게 오래 지나지 않았어요, 기껏해야 30분 정도라고 생각합니다만…… 시간 감각도 없어지네요……!」"
 
 [[dialogue]]
-speaker = "ヨミ"
+speaker_original = "ヨミ"
+speaker_translation = "요미"
 original = "「倒しても倒しても減ってる気がしないです……倒しましたよね？\u3000蘇ってるわけじゃないですよねー？」"
 translation = "「죽여도 죽여도 줄어드는 기분이 안 들어요…… 죽인 거 맞죠? 되살아나는 건 아니겠죠ー?」"
 
 [[dialogue]]
-speaker = "蘭美"
+speaker_original = "蘭美"
+speaker_translation = "라미"
 original = "「ちゃんと倒してるし、モンスターの数は減ってるわ。安心しなさい。ただちょっとだけ、その数が膨大ってだけよ」"
 translation = "「제대로 죽이고 있고, 몬스터의 수는 줄어들고 있다. 안심하거라. 다만 조금 그 수가 방대할 뿐이야.」"
 
 [[dialogue]]
-speaker = "せつな"
+speaker_original = "せつな"
+speaker_translation = "세츠나"
 original = "「嘆いたところで何も始まらぬでござるな。泣き言はなしでござる。それに──」"
 translation = "「한탄해 봤자 아무것도 시작되지 않소. 나약한 소리는 하지 않겠소. 게다가──」"
 
 [[dialogue]]
-speaker = "ヨミ"
+speaker_original = "ヨミ"
+speaker_translation = "요미"
 original = "「あっちで戦ってる美鶴さんに笑われちゃいますよね」"
 translation = "「저쪽에서 싸우고 있는 미츠루 씨에게 비웃음당하겠죠.」"
 
 [[dialogue]]
-speaker = "美鶴"
+speaker_original = "美鶴"
+speaker_translation = "미츠루"
 original = "「ふっ」"
 translation = "「훗.」"
 
 [[dialogue]]
-speaker = "美鶴"
+speaker_original = "美鶴"
+speaker_translation = "미츠루"
 original = "（突き出した槍は、目の前のモンスターを貫く）"
 translation = "(내지른 창은 눈앞의 몬스터를 꿰뚫는다.)"
 
 [[dialogue]]
-speaker = "美鶴"
+speaker_original = "美鶴"
+speaker_translation = "미츠루"
 original = "（これで何匹目？\u3000５０くらいまでは覚えてるけど、数えたトコで何の意味もないことに気づいて途中でやめた）"
 translation = "(이걸로 몇 마리째? 50 정도까지는 기억하고 있지만, 세어봤자 아무 의미 없다는 걸 깨닫고 도중에 그만뒀다.)"
 
 [[dialogue]]
-speaker = "美鶴"
+speaker_original = "美鶴"
+speaker_translation = "미츠루"
 original = "（メイド長には本気の出し方が分からないといったけど、うちには『本気』という感覚がない）"
 translation = "(메이드장에게는 진심을 내는 법을 모르겠다고 했지만, 나에게는 『진심』이라는 감각이 없다.)"
 
 [[dialogue]]
-speaker = "美鶴"
+speaker_original = "美鶴"
+speaker_translation = "미츠루"
 original = "（うちが何かをやる時は、いつだって本気。本気を、最小の労力でやり、最高のコスパを叩き出す）"
 translation = "(내가 무언가를 할 때는 언제나 진심. 진심을 최소한의 노력으로 행하며 최고의 가성비를 뽑아낸다.)"
 
 [[dialogue]]
-speaker = "美鶴"
+speaker_original = "美鶴"
+speaker_translation = "미츠루"
 original = "（本気を出さそうが、出さなかろうが。敵が多かろうが、少なかろうが）"
 translation = "(진심을 내든, 내지 않든. 적이 많든, 적든.)"
 
 [[dialogue]]
-speaker = "美鶴"
+speaker_original = "美鶴"
+speaker_translation = "미츠루"
 original = "（うちのやることは何も変わらない）"
 translation = "(내가 할 일은 아무것도 변하지 않는다.)"
 
 [[dialogue]]
-speaker = "美鶴"
+speaker_original = "美鶴"
+speaker_translation = "미츠루"
 original = "（うちは、針。万物を貫く１本の針。視界に入った対象を、ただ穿つ）"
 translation = "(나는 바늘. 만물을 꿰뚫는 한 자루의 바늘. 시야에 들어온 대상을 그저 꿰뚫는다.)"
 
 [[dialogue]]
-speaker = "美鶴"
+speaker_original = "美鶴"
+speaker_translation = "미츠루"
 original = "「すぅーーー……はぁぁーーー……！」"
 translation = "「스으으으으…… 하아아아아……!」"
 
 [[dialogue]]
-speaker = "美鶴"
+speaker_original = "美鶴"
+speaker_translation = "미츠루"
 original = "（敵陣の只中で、意識が研ぎ澄まされていく）"
 translation = "(적진의 한복판에서 의식이 날카롭게 갈고 닦여간다.)"
 
 [[dialogue]]
-speaker = "美鶴"
+speaker_original = "美鶴"
+speaker_translation = "미츠루"
 original = "（生地に針を通すように、視界に入った敵に、槍を突き出す）"
 translation = "(천에 바늘을 통과시키듯, 시야에 들어온 적에게 창을 내지른다.)"
 
 [[dialogue]]
-speaker = "美鶴"
+speaker_original = "美鶴"
+speaker_translation = "미츠루"
 original = "（生地の針を通しやすい穴が感覚的に分かるのと同様に、モンスターの体のどこに穂先が通るのかが分かる）"
 translation = "(천의 바늘을 통과시키기 쉬운 구멍을 감각적으로 아는 것과 마찬가지로, 몬스터의 몸 어디에 창끝이 통과할지 알 수 있다.)"
 
 [[dialogue]]
-speaker = "美鶴"
+speaker_original = "美鶴"
+speaker_translation = "미츠루"
 original = "（硬い表皮であっても、分厚い体毛に覆われていても、隙間を縫って、弱点へと届く）"
 translation = "(단단한 표피라 해도, 두꺼운 체모에 뒤덮여 있어도, 틈새를 누비며 약점에 도달한다.)"
 
 [[dialogue]]
-speaker = "美鶴"
+speaker_original = "美鶴"
+speaker_translation = "미츠루"
 original = "（うちのポリシーである最低最小限度の労力で、敵の弱点を的確に貫き、穿つ）"
 translation = "(나의 신조인 최저 최소한도의 노력으로, 적의 약점을 정확하게 꿰뚫고 뚫어버린다.)"
 
 [[dialogue]]
-speaker = "美鶴"
+speaker_original = "美鶴"
+speaker_translation = "미츠루"
 original = "「しぃーーー……ふぅぅーーー……！」"
 translation = "「시이이이이…… 후우우우우……!」"
 
 [[dialogue]]
-speaker = "美鶴"
+speaker_original = "美鶴"
+speaker_translation = "미츠루"
 original = "（何の雑音も届かない。うち自身の呼吸と心臓の鼓動しか聞こえない）"
 translation = "(어떤 잡음도 들리지 않는다. 나 자신의 호흡과 심장의 고동밖에 들리지 않는다.)"
 
 [[dialogue]]
-speaker = "美鶴"
+speaker_original = "美鶴"
+speaker_translation = "미츠루"
 original = "（うちの身体が、うちのじゃないみたいだ。羽だけじゃなくて全身が羽毛になって、重力から解き放たれたみたいに体が軽い）"
 translation = "(내 몸이 내 몸이 아닌 것 같아. 날개뿐만 아니라 전신이 깃털이 되어, 중력에서 해방된 것처럼 몸이 가볍다.)"
 
 [[dialogue]]
-speaker = "美鶴"
+speaker_original = "美鶴"
+speaker_translation = "미츠루"
 original = "（これなら、いつまでも──戦える）"
 translation = "(이거라면, 언제까지라도── 싸울 수 있어.)"
 
 [[dialogue]]
-speaker = "せつな"
+speaker_original = "せつな"
+speaker_translation = "세츠나"
 original = "「ひぇぇ……美鶴殿、あんなに強かったでござるか」"
 translation = "「히에에…… 미츠루 공, 저렇게나 강했소?」"
 
 [[dialogue]]
-speaker = "閃"
+speaker_original = "閃"
+speaker_translation = "센"
 original = "「あちら側を抑えてくれているおかげで、かなり楽に戦えていますけど……」"
 translation = "「저쪽을 막아주고 계신 덕분에 꽤 편하게 싸우고 있습니다만……」"
 
 [[dialogue]]
-speaker = "閃"
+speaker_original = "閃"
+speaker_translation = "센"
 original = "「美鶴さんの槍捌き……最前線で戦い続けているのに、ますます研ぎ澄まされているような……」"
 translation = "「미츠루 씨의 창술…… 최전선에서 계속 싸우고 있는데도 점점 더 날카로워지는 것 같아요……」"
 
 [[dialogue]]
-speaker = "蘭美"
+speaker_original = "蘭美"
+speaker_translation = "라미"
 original = "「いわゆる『ゾーン』に入ってるんでしょうね。今のあの子には、私たちの声も届かないと思うわ」"
 translation = "「이른바 『존』에 들어간 거겠지. 지금의 저 아이에게는 우리의 목소리도 들리지 않을 거다.」"
 
 [[dialogue]]
-speaker = "ヨミ"
+speaker_original = "ヨミ"
+speaker_translation = "요미"
 original = "「今の美鶴さんに近づいたら、モンスター諸共、貫かれちゃいそうですね……」"
 translation = "「지금의 미츠루 씨에게 다가갔다간 몬스터와 함께 꿰뚫려 버릴 것 같네요……」"
 
 [[dialogue]]
-speaker = "蘭美"
+speaker_original = "蘭美"
+speaker_translation = "라미"
 original = "「見惚れてしまうのもわかるけど、自分たちの仕事をしなさい。美鶴に負けてられないわよ」"
 translation = "「넋을 잃고 보는 것도 이해하지만, 자기 할 일을 하거라. 미츠루에게 지고 있을 수는 없지.」"
 
 [[dialogue]]
-speaker = "３人"
+speaker_original = "３人"
+speaker_translation = "3명"
 original = "「はいっ！」"
 translation = "「네!」"
 

@@ -1,35 +1,42 @@
 [[dialogue]]
-speaker = "ミルフィー"
+speaker_original = "ミルフィー"
+speaker_translation = "밀피"
 original = "「これで決める！\u3000イノセントノヴァ！」"
 translation = "「이걸로 끝내겠어! 이노센트 노바!」"
 
 [[dialogue]]
-speaker = "マグダレナ"
+speaker_original = "マグダレナ"
+speaker_translation = "막달레나"
 original = "「──ッ！？」"
 translation = "「──윽!?」"
 
 [[dialogue]]
-speaker = "ミルフィー"
+speaker_original = "ミルフィー"
+speaker_translation = "밀피"
 original = "「やったの……！？」"
 translation = "「해낸 거야……!?」"
 
 [[dialogue]]
-speaker = "コハルコ"
+speaker_original = "コハルコ"
+speaker_translation = "쿠하루코"
 original = "『堕天使マグダレナの霊力反応減少──いえ、この反応は！？\u3000ミルフィーさん、逃げて！』"
 translation = "『타락천사 마그달레나의 영력 반응 감소── 아니, 이 반응은!? 밀피 씨, 도망쳐요!』"
 
 [[dialogue]]
-speaker = "ミルフィー"
+speaker_original = "ミルフィー"
+speaker_translation = "밀피"
 original = "「え──」"
 translation = "「에──」"
 
 [[dialogue]]
-speaker = "マグダレナ"
+speaker_original = "マグダレナ"
+speaker_translation = "막달레나"
 original = "「ケイオス・コンセントレーション──」"
 translation = "「카오스 컨센트레이션──」"
 
 [[dialogue]]
-speaker = "ミルフィー"
+speaker_original = "ミルフィー"
+speaker_translation = "밀피"
 original = "「きゃああああっ！？」"
 translation = "「꺄아아악!?」"
 
@@ -39,72 +46,86 @@ original = "ミルフィー！？"
 translation = "밀피!?"
 
 [[dialogue]]
-speaker = "マグダレナ"
+speaker_original = "マグダレナ"
+speaker_translation = "막달레나"
 original = "「ああ……世界はどうして分かたれているのでしょう……」"
 translation = "「아아…… 세계는 어찌하여 나뉘어 있는 것일까요……」"
 
 [[dialogue]]
-speaker = "コハルコ"
+speaker_original = "コハルコ"
+speaker_translation = "쿠하루코"
 original = "『堕天使マグダレナの霊力、反転して増大……接敵時の値を超えてさらに上昇……！\u3000霊力が２倍……３倍！？』"
 translation = "『타락천사 마그달레나의 영력, 반전하여 증대…… 접적 시의 수치를 넘어 더욱 상승 중……! 영력이 2배…… 3배!?』"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「３倍！？\u3000いくらなんでも盛り過ぎでしょ！？」"
 translation = "「3배!? 아무리 그래도 너무 심하잖아!?」"
 
 [[dialogue]]
-speaker = "マグダレナ"
+speaker_original = "マグダレナ"
+speaker_translation = "막달레나"
 original = "「新たな世界を始めましょう……」"
 translation = "「새로운 세계를 시작하죠……」"
 
 [[dialogue]]
-speaker = "マグダレナ"
+speaker_original = "マグダレナ"
+speaker_translation = "막달레나"
 original = "「世界をひとつに……混沌と終焉を……」"
 translation = "「세계를 하나로…… 혼돈과 종언을……」"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「！\u3000これが堕天使マグダレナの本気ってワケね……！」"
 translation = "「! 이게 타락천사 마그달레나의 본때라는 거네……!」"
 
 [[dialogue]]
-speaker = "コハルコ"
+speaker_original = "コハルコ"
+speaker_translation = "쿠하루코"
 original = "『それにこの反応は……！？\u3000魔界中のモンスターが堕天使マグダレナの神殿に集まろうとしています！』"
 translation = "『거기다 이 반응은……!? 마계의 몬스터들이 타락천사 마그달레나의 신전으로 집결하고 있습니다!』"
 
 [[dialogue]]
-speaker = "イニシュ"
+speaker_original = "イニシュ"
+speaker_translation = "이니슈"
 original = "「──っ」"
 translation = "「──윽」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「イニシュさん、大丈夫ですか！？」"
 translation = "「이니슈 씨, 괜찮으세요!?」"
 
 [[dialogue]]
-speaker = "イニシュ"
+speaker_original = "イニシュ"
+speaker_translation = "이니슈"
 original = "「ダメージは軽微。戦闘継続に支障はありません。ですが──」"
 translation = "「데미지는 경미함. 전투 지속에 지장은 없습니다. 하지만──」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「これは……まずいですね……」"
 translation = "「이건…… 좋지 않네요……」"
 
 [[dialogue]]
-speaker = "マグダレナ"
+speaker_original = "マグダレナ"
+speaker_translation = "막달레나"
 original = "「世界をひとつに……混沌と終焉を……」"
 translation = "「세계를 하나로…… 혼돈과 종언을……」"
 
 [[dialogue]]
-speaker = "ミルフィー"
+speaker_original = "ミルフィー"
+speaker_translation = "밀피"
 original = "「私……結局何もできなかった……ごめんなさい、マグダレナ様……」"
 translation = "「나…… 결국 아무것도 못 했어…… 죄송해요, 마그달레나님……」"
 
 [[dialogue]]
-speaker = "ミルフィー"
+speaker_original = "ミルフィー"
+speaker_translation = "밀피"
 original = "「帰れなくてごめん、ヒヨちゃん……」"
 translation = "「돌아가지 못해서 미안해, 히요짱……」"
 

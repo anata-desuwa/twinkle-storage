@@ -4,27 +4,32 @@ original = "第４話,キサナと束の間の日溜まり,P"
 translation = "제4화, 키사나와 찰나의 햇살, P"
 
 [[dialogue]]
-speaker = "キサナ"
+speaker_original = "キサナ"
+speaker_translation = "키사나"
 original = "「ようやく見つけたぜ、魔王。ちょっとツラ貸せ」"
 translation = "「드디어 찾았네, 마왕. 낯 좀 빌리자」"
 
 [[dialogue]]
-speaker = "キサナ"
+speaker_original = "キサナ"
+speaker_translation = "키사나"
 original = "「別にケンカを売りに来たわけじゃねえよ。アタシだって会いたくて会いに来たわけじゃねえ」"
 translation = "「딱히 싸움을 걸러 온 건 아냐. 나도 만나고 싶어서 만나러 온 건 아니라고」"
 
 [[dialogue]]
-speaker = "キサナ"
+speaker_original = "キサナ"
+speaker_translation = "키사나"
 original = "「おらガキ、いつまでも背中に隠れてねえで出てきやがれ。正義の味方んとこまで連れてきてやったぞ」"
 translation = "「자 꼬맹아, 언제까지 등 뒤에 숨어 있을 거야, 나와. 정의의 사자 있는 데까지 데려다 줬잖아」"
 
 [[dialogue]]
-speaker = "キサナ"
+speaker_original = "キサナ"
+speaker_translation = "키사나"
 original = "「あぁ？\u3000今更ビビってんじゃねえよ。テメエがテメエで決めたんだろうが」"
 translation = "「아아? 새삼스럽게 겁먹지 마. 네가 네 스스로 정한 거잖아」"
 
 [[dialogue]]
-speaker = "キサナ"
+speaker_original = "キサナ"
+speaker_translation = "키사나"
 original = "「アタシは行くわけねえだろ。ちょっ──んっ、こればっかりは尻尾引っ張っても無駄だっ。アタシはコイツらに追われてるっつってんだろ……！」"
 translation = "「나는 갈 리가 없잖아. 잠깐── 응, 이거만큼은 꼬리 잡아당겨도 소용없어. 나는 이 녀석들한테 쫓기는 몸이라고 했잖아……!」"
 
@@ -34,32 +39,38 @@ original = "用事っていうのはその子の？"
 translation = "용건이라는 건 그 아이의?"
 
 [[dialogue]]
-speaker = "キサナ"
+speaker_original = "キサナ"
+speaker_translation = "키사나"
 original = "「そうだよ。保護だ保護。施設でもなんでもちゃっちゃと連れてってやれ」"
 translation = "「그래. 보호다 보호. 시설이든 뭐든 얼른 데려가」"
 
 [[dialogue]]
-speaker = "キサナ"
+speaker_original = "キサナ"
+speaker_translation = "키사나"
 original = "「アタシは今でも信用してねえけどな。あーいう組織には必ず裏があんだよ。アタシがコラプサーに拾われるまでいたマフィアだって、表向きは華やかな商売してたしな」"
 translation = "「나는 지금도 신용 안 하지만 말이야. 그런 조직에는 반드시 뒷면이 있다고. 내가 콜랩서에 거둬지기 전까지 있던 마피아도 겉으로는 화려하게 장사하고 있었으니까」"
 
 [[dialogue]]
-speaker = "キサナ"
+speaker_original = "キサナ"
+speaker_translation = "키사나"
 original = "「輝いて見えるもんにはその分だけ、どす黒い闇が潜んでるもんだ。少なくともアタシが生きてきた場所じゃそうだった」"
 translation = "「빛나 보이는 것에는 그만큼 거무죽죽한 어둠이 잠겨 있는 법이야. 적어도 내가 살아온 곳에선 그랬어」"
 
 [[dialogue]]
-speaker = "キサナ"
+speaker_original = "キサナ"
+speaker_translation = "키사나"
 original = "「だが……それはあくまでアタシの考えだ。このガキが施設に行きてえって言うんなら止める理由もねえ」"
 translation = "「하지만…… 그건 어디까지나 내 생각이지. 이 꼬맹이가 시설에 가고 싶다고 하면 말릴 이유도 없어」"
 
 [[dialogue]]
-speaker = "キサナ"
+speaker_original = "キサナ"
+speaker_translation = "키사나"
 original = "「テメエのことはテメエで決める。このガキは行くって決めたんだ。だからオマエんとこに連れてきてやったんだよ」"
 translation = "「네 일은 네가 정해. 이 꼬맹이는 가기로 정했다고. 그래서 네놈 있는 데로 데려와 준 거다」"
 
 [[dialogue]]
-speaker = "キサナ"
+speaker_original = "キサナ"
+speaker_translation = "키사나"
 original = "「わかったらとっとと連れてけ。アタシは新しい隠れ家を探さなきゃなんねーんだ」"
 translation = "「알았으면 어서 데려가. 나는 새로운 은신처를 찾아야 한단 말이다」"
 
@@ -69,17 +80,20 @@ original = "本当にいいのか？"
 translation = "정말 괜찮겠어?"
 
 [[dialogue]]
-speaker = "キサナ"
+speaker_original = "キサナ"
+speaker_translation = "키사나"
 original = "「あぁ？\u3000今更何言ってんだ？\u3000散々説得してきたのはオマエだろうが」"
 translation = "「아아? 이제 와서 무슨 소리야? 신나게 설득해 온 건 네놈이잖아」"
 
 [[dialogue]]
-speaker = "キサナ"
+speaker_original = "キサナ"
+speaker_translation = "키사나"
 original = "「このガキが行くっつってんだ。アタシには関係ねえ。これで今までの宿賃もチャラだ」"
 translation = "「이 꼬맹이가 가겠다고 했어. 나랑은 상관없는 일이야. 이걸로 지금까지의 숙박비도 퉁이다」"
 
 [[dialogue]]
-speaker = "キサナ"
+speaker_original = "キサナ"
+speaker_translation = "키사나"
 original = "「ほらガキ。魔王んとこ行けよ。いい加減アタシの尻尾から手ぇ離せって。だからアタシは行かねえってのっ！」"
 translation = "「자 꼬맹아. 마왕한테 가. 이제 그만 내 꼬리에서 손 떼라고. 그러니까 나는 안 간다니까!」"
 
@@ -89,97 +103,116 @@ original = "姉同然に慕われてるみたいだし"
 translation = "언니처럼 따르고 있는 모양인데."
 
 [[dialogue]]
-speaker = "キサナ"
+speaker_original = "キサナ"
+speaker_translation = "키사나"
 original = "「姉だぁ……？\u3000ハッ、生憎だがな。アタシは家族やら仲間やらってのは信じてねえんだよ」"
 translation = "「언니라고……? 핫, 유감스럽지만 말이야. 나는 가족이니 동료니 하는 건 안 믿어」"
 
 [[dialogue]]
-speaker = "キサナ"
+speaker_original = "キサナ"
+speaker_translation = "키사나"
 original = "「んなもんを信じたせいで死んだヤツを何人も見てきてる。アタシだって親にも、アタシを拾ったマフィアにも裏切られ続けてきた」"
 translation = "「그런 걸 믿은 탓에 죽은 녀석을 몇 명이나 봐 왔어. 나도 부모한테도, 나를 거둔 마피아한테도 계속 배신당해 왔다고」"
 
 [[dialogue]]
-speaker = "キサナ"
+speaker_original = "キサナ"
+speaker_translation = "키사나"
 original = "「コラプサーのヤツらだって別に信用してねえしな。アイツらもアタシのことを仲間だとは考えちゃいねえよ」"
 translation = "「콜랩서 녀석들도 딱히 신용 안 하고 말이야. 걔들도 나를 동료라고 생각하진 않아」"
 
 [[dialogue]]
-speaker = "キサナ"
+speaker_original = "キサナ"
+speaker_translation = "키사나"
 original = "「このガキがアタシんことをどう思ってるかは知らねえが、アタシは単に宿代代わりに世話してやっただけだ。それ以上でも以下でもねえ」"
 translation = "「이 꼬맹이가 나를 어떻게 생각하는지는 모르겠지만, 나는 단지 숙박비 대신 돌봐 줬을 뿐이야. 그 이상도 이하도 아냐」"
 
 [[dialogue]]
-speaker = "キサナ"
+speaker_original = "キサナ"
+speaker_translation = "키사나"
 original = "「おらガキ。わかったらとっとと行け。これ以上アタシをイライラさせんな」"
 translation = "「자 꼬맹아. 알았으면 어서 가. 더 이상 나를 빡치게 하지 마」"
 
 [[dialogue]]
-speaker = "キサナ"
+speaker_original = "キサナ"
+speaker_translation = "키사나"
 original = "「いいか？\u3000アタシも今までテメエを利用してきたんだよ。手元にガキがいりゃ星騎士どもも簡単にアタシへ手出しできねえからな」"
 translation = "「알았냐? 나도 지금까지 너를 이용해 온 거야. 곁에 꼬맹이가 있으면 성기사 녀석들도 쉽게 나한테 손을 못 대니까 말이지」"
 
 [[dialogue]]
-speaker = "キサナ"
+speaker_original = "キサナ"
+speaker_translation = "키사나"
 original = "「あぁ？\u3000嘘じゃねえよ、どうして嘘つく必要があんだよ。ああもうマジでうぜえな……！\u3000泣きそうな目で見てくんじゃねえ……！」"
 translation = "「아아? 거짓말 아냐, 왜 거짓말을 할 필요가 있는데. 아아 진짜 짜증 나네……! 울 것 같은 눈으로 보지 마……!」"
 
 [[dialogue]]
-speaker = "キサナ"
+speaker_original = "キサナ"
+speaker_translation = "키사나"
 original = "「それ以上グダグダ言ってたら、マジでぶっ殺──」"
 translation = "「더 이상 구시렁거리고 있으면 진짜로 죽여──」"
 
 [[dialogue]]
-speaker = "キサナ"
+speaker_original = "キサナ"
+speaker_translation = "키사나"
 original = "「っっ──離れろガキっ！」"
 translation = "「윽── 떨어져 꼬맹아!」"
 
 [[dialogue]]
-speaker = "キサナ"
+speaker_original = "キサナ"
+speaker_translation = "키사나"
 original = "「チッ、真っ昼間からモンスターだぁ？\u3000正義の味方さまは何やってんだよ」"
 translation = "「칫, 대낮부터 몬스터냐? 정의의 사자 나으리는 뭘 하고 있는 거야」"
 
 [[dialogue]]
-speaker = "キサナ"
+speaker_original = "キサナ"
+speaker_translation = "키사나"
 original = "「まだ話の途中だからな。手ぇ貸してやるよ魔王。さっさとコイツらぶっ潰すぞ！」"
 translation = "「아직 이야기가 안 끝났으니까 말이야. 손 좀 빌려주마 마왕. 어서 이 녀석들 짓뭉개버리자고!」"
 
 [[dialogue]]
-speaker = "キサナ"
+speaker_original = "キサナ"
+speaker_translation = "키사나"
 original = "「カラミティパイル！」"
 translation = "「칼라미티 파일!」"
 
 [[dialogue]]
-speaker = "キサナ"
+speaker_original = "キサナ"
+speaker_translation = "키사나"
 original = "「片付いたな。ガキは……んだよ、ビビッて気絶してんのか」"
 translation = "「정리됐군. 꼬맹이는…… 뭐야, 쫄아서 기절한 거냐」"
 
 [[dialogue]]
-speaker = "キサナ"
+speaker_original = "キサナ"
+speaker_translation = "키사나"
 original = "「まぁ丁度いい。このまま施設とやらに連れてってやれ」"
 translation = "「뭐 마침 잘됐네. 이대로 시설인지 뭔지로 데려가라고」"
 
 [[dialogue]]
-speaker = "キサナ"
+speaker_original = "キサナ"
+speaker_translation = "키사나"
 original = "「んだよ、その顔は。アタシには未練なんかねえっつの。たかだか数日一緒にいただけの仲じゃねえか」"
 translation = "「뭐야 그 눈은. 나한테 미련 같은 거 없다니까. 고작 며칠 같이 있었던 사이잖아」"
 
 [[dialogue]]
-speaker = "キサナ"
+speaker_original = "キサナ"
+speaker_translation = "키사나"
 original = "「アタシと一緒にいるより、施設に行く方がコイツにはいい」"
 translation = "「나랑 같이 있는 것보다 시설에 가는 게 이 녀석한테는 좋아」"
 
 [[dialogue]]
-speaker = "キサナ"
+speaker_original = "キサナ"
+speaker_translation = "키사나"
 original = "「辛い日々を忘れられるくらい楽しくて、安全で、安心できるような場所だって、オマエがそう言ったんだろ」"
 translation = "「괴로운 날들을 잊을 수 있을 만큼 즐겁고, 안전하고, 안심할 수 있는 장소라고 네가 그렇게 말했잖아」"
 
 [[dialogue]]
-speaker = "キサナ"
+speaker_original = "キサナ"
+speaker_translation = "키사나"
 original = "「それがホントなら、裏切られねえように常に目ぇギラつかせる必要も、泥水啜ったり腐った食いもん食う必要もねえ」"
 translation = "「그게 사실이라면 배신당하지 않으려고 항상 눈을 번뜩일 필요도, 흙탕물을 마시거나 썩은 음식을 뒤질 필요도 없겠지」"
 
 [[dialogue]]
-speaker = "キサナ"
+speaker_original = "キサナ"
+speaker_translation = "키사나"
 original = "「言葉にするだけで吐き気がするほど胡散臭えけどな。ま、アタシに泣きすがってくるようなこのガキにはぴったりな場所なんじゃねえか」"
 translation = "「말로 하니 토가 나올 정도로 수상쩍지만 말이야. 뭐, 나한테 매달려 우는 이런 꼬맹이한테는 딱 맞는 장소 아니겠어」"
 
@@ -189,17 +222,20 @@ original = "ああ、俺が保証する"
 translation = "그래, 내가 보증할게."
 
 [[dialogue]]
-speaker = "キサナ"
+speaker_original = "キサナ"
+speaker_translation = "키사나"
 original = "「フン、オマエに保証されてもな。……ま、他のヤツよりはマシか」"
 translation = "「흥, 네놈이 보증해 봤자 말이지. ……뭐, 다른 녀석보다는 낫나」"
 
 [[dialogue]]
-speaker = "キサナ"
+speaker_original = "キサナ"
+speaker_translation = "키사나"
 original = "「オマエみてえなお節介野郎は初めてだ。見てると心底イライラするぜ」"
 translation = "「너 같은 참견쟁이 녀석은 처음이야. 보고 있으면 진심으로 짜증 난다고」"
 
 [[dialogue]]
-speaker = "キサナ"
+speaker_original = "キサナ"
+speaker_translation = "키사나"
 original = "「んじゃな魔王。精々そのガキに恨まれねえよう祈っとけ。ろくでもない場所だったら後ろから刺される羽目になるぜ？」"
 translation = "「그럼 잘 있어라 마왕. 부디 그 꼬맹이한테 원망이나 듣지 않게 기도하라고. 개판인 장소라면 뒤에서 찔리는 신세가 될 테니까 말이지?」"
 
@@ -209,37 +245,44 @@ original = "行くのか？"
 translation = "가는 거야?"
 
 [[dialogue]]
-speaker = "キサナ"
+speaker_original = "キサナ"
+speaker_translation = "키사나"
 original = "「ガキが目覚めちまうと面倒だからな。ちんたらしてるとオマエにお仲間を呼ばれちまうかもしんねえし」"
 translation = "「꼬맹이가 깨어나면 귀찮아지니까 말이야. 꾸물거리면 네가 동료를 부를지도 모르고」"
 
 [[dialogue]]
-speaker = "キサナ"
+speaker_original = "キサナ"
+speaker_translation = "키사나"
 original = "「そうだ。お仲間に言っとけ。アタシを追い回しても意味ねえぞってな」"
 translation = "「맞다. 동료들한테 말해 둬. 나를 쫓아다녀 봤자 의미 없다고 말이야」"
 
 [[dialogue]]
-speaker = "キサナ"
+speaker_original = "キサナ"
+speaker_translation = "키사나"
 original = "「アタシは下っ端だからコラプサーのことなんざよく知らねえし、大した情報は持ってねえ。組織の名前くらいが精々だ」"
 translation = "「나는 말단이라서 콜랩서에 대해선 잘 모르고, 대단한 정보도 없어. 조직 이름 정도가 고작이지」"
 
 [[dialogue]]
-speaker = "キサナ"
+speaker_original = "キサナ"
+speaker_translation = "키사나"
 original = "「命令がなきゃ前みたいに星騎士を襲うつもりもねえしな。今んとこ、そっちから仕掛けてこねえ限りはアタシも手出しはしねえ」"
 translation = "「명령이 없으면 전처럼 성기사를 습격할 생각도 없고 말이야. 지금으로선 그쪽에서 먼저 걸어오지 않는 한 나도 손대진 않겠어」"
 
 [[dialogue]]
-speaker = "キサナ"
+speaker_original = "キサナ"
+speaker_translation = "키사나"
 original = "「ま、しばらくは高みの見物を決めさせてもらうぜ。恵まれた環境で生きてきた正義の味方どものなんちゃってヒーローショーをな」"
 translation = "「뭐, 당분간은 고고하게 구경이나 해 주지. 풍족한 환경에서 살아온 정의의 사자 녀석들의 가짜 히어로 쇼를 말이야」"
 
 [[dialogue]]
-speaker = "キサナ"
+speaker_original = "キサナ"
+speaker_translation = "키사나"
 original = "「ガキにはアタシのことは忘れるように……いや、そのうち勝手に忘れるか。やっぱ何も言わなくていいぜ」"
 translation = "「꼬맹이한테는 나를 잊으라고…… 아니, 조만간 알아서 잊으려나. 역시 아무 말도 하지 마」"
 
 [[dialogue]]
-speaker = "キサナ"
+speaker_original = "キサナ"
+speaker_translation = "키사나"
 original = "「じゃあな。せいぜい正義の味方を頑張れよ」"
 translation = "「그럼 이만. 부디 정의의 사자 노릇 열심히 하라고」"
 

@@ -1,90 +1,108 @@
 [[dialogue]]
-speaker = "マグダレナ"
+speaker_original = "マグダレナ"
+speaker_translation = "막달레나"
 original = "「ああ……どうして世界は３つに分かたれた……」"
 translation = "「아아…… 어째서 세계는 셋으로 나뉘었는가……」"
 
 [[dialogue]]
-speaker = "マグダレナ"
+speaker_original = "マグダレナ"
+speaker_translation = "막달레나"
 original = "「世界は１つでいい……秩序で支配された、１つの世界があれば……」"
 translation = "「세계는 하나면 된다…… 질서로 지배된, 하나의 세계가 있다면……」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「マグダレナ様らしくないお言葉ですね。世界はひとつになれないからこそ、“領域”を守るあなたのお力が必要なのです」"
 translation = "「마그달레나님답지 않은 말씀이시네요. 세계는 하나가 될 수 없기에, “영역”을 지키는 당신의 힘이 필요한 것입니다」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「姉さん！」"
 translation = "「언니!」"
 
 [[dialogue]]
-speaker = "アポロ"
+speaker_original = "アポロ"
+speaker_translation = "아폴로"
 original = "「ああ、あのセリフだな！」"
 translation = "「아아, 그 대사로군!」"
 
 [[dialogue]]
-speaker = "２人"
+speaker_original = "２人"
+speaker_translation = "2명"
 original = "「天空に座す炎の星よ──私に正義の力を！」"
 translation = "「천공에 자리한 화염의 별이여── 나에게 정의의 힘을!」"
 
 [[dialogue]]
-speaker = "アポロ"
+speaker_original = "アポロ"
+speaker_translation = "아폴로"
 original = "「悪を断つ刃──メテオライトキャリバー！！」"
 translation = "「악을 끊는 칼날── 메테오라이트 캘리버!!」"
 
 [[dialogue]]
-speaker = "マグダレナ"
+speaker_original = "マグダレナ"
+speaker_translation = "막달레나"
 original = "「──ッ！」"
 translation = "「──윽!」"
 
 [[dialogue]]
-speaker = "アポロ"
+speaker_original = "アポロ"
+speaker_translation = "아폴로"
 original = "「ちなみにさっきのは流星ライダーアポロの前半の決めゼリフだ。２９話で後半バージョンに変わったけどな」"
 translation = "「참고로 방금 건 유성 라이더 아폴로 전반부의 필살 대사야. 29화에서 후반부 버전으로 바뀌었지만 말이지」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「違います、変わったのは２８話ですよ」"
 translation = "「아니에요, 바뀐 건 28화라고요」"
 
 [[dialogue]]
-speaker = "アポロ"
+speaker_original = "アポロ"
+speaker_translation = "아폴로"
 original = "「あ、そうだったか。さすがフィオナ、そこまで覚えてるんだな」"
 translation = "「아, 그랬나. 역시 피오나, 그런 것까지 기억하고 있구나」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「あ……つい……」"
 translation = "「아…… 그만……」"
 
 [[dialogue]]
-speaker = "梨緒"
+speaker_original = "梨緒"
+speaker_translation = "리오"
 original = "「魔女イニシュ、まだ戦えるか？」"
 translation = "「마녀 이니슈, 아직 싸울 수 있나?」"
 
 [[dialogue]]
-speaker = "イニシュ"
+speaker_original = "イニシュ"
+speaker_translation = "이니슈"
 original = "「当然です。世界の滅びは認めない。それが私の──魔女の意志です」"
 translation = "「당연합니다. 세계의 멸망은 용납할 수 없다. 그것이 저의── 마녀의 의지입니다」"
 
 [[dialogue]]
-speaker = "イニシュ"
+speaker_original = "イニシュ"
+speaker_translation = "이니슈"
 original = "「私の魔力を回します。コントロールをあなたに」"
 translation = "「저의 마력을 넘기겠습니다. 컨트롤을 당신에게」"
 
 [[dialogue]]
-speaker = "梨緒"
+speaker_original = "梨緒"
+speaker_translation = "리오"
 original = "「君の力、受け取った。貫け──ディヴァインサンダーボルト！」"
 translation = "「그대의 힘, 받았다. 꿰뚫어라── 디바인 썬더볼트!」"
 
 [[dialogue]]
-speaker = "マグダレナ"
+speaker_original = "マグダレナ"
+speaker_translation = "막달레나"
 original = "「ぐ……が……！」"
 translation = "「구…… 가……!」"
 
 [[dialogue]]
-speaker = "マグダレナ"
+speaker_original = "マグダレナ"
+speaker_translation = "막달레나"
 original = "「混沌の先に、秩序を……静寂なる１つの世界を……」"
 translation = "「혼돈의 끝에 질서를…… 정적만이 흐르는 하나의 세계를……」"
 
@@ -94,107 +112,128 @@ original = "ミルフィー、今度こそ終わらせるぞ！"
 translation = "밀피, 이번에야말로 끝내자!"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「ええ、あなたに託すわ！」"
 translation = "「그래, 당신에게 맡길게!」"
 
 [[dialogue]]
-speaker = "ヒヨ"
+speaker_original = "ヒヨ"
+speaker_translation = "히요"
 original = "「姐さん！\u3000全力ぶつけるぜぃっ！」"
 translation = "「누님! 전력을 다하자구!」"
 
 [[dialogue]]
-speaker = "ミルフィー"
+speaker_original = "ミルフィー"
+speaker_translation = "밀피"
 original = "「ありがとう、みんなの温かい力、伝わったよ！」"
 translation = "「고마워, 모두의 따뜻한 힘이 전해졌어!」"
 
 [[dialogue]]
-speaker = "ミルフィー"
+speaker_original = "ミルフィー"
+speaker_translation = "밀피"
 original = "「闇を<ruby>穿<rt>うが</rt></ruby>て、星の光──エンシェント・スターストリーム！！」"
 translation = "「어둠을 뚫어라, 별의 빛── 엔션트 스타 스트림!!」"
 
 [[dialogue]]
-speaker = "マグダレナ"
+speaker_original = "マグダレナ"
+speaker_translation = "막달레나"
 original = "「ああ──」"
 translation = "「아아──」"
 
 [[dialogue]]
-speaker = "マグダレナ"
+speaker_original = "マグダレナ"
+speaker_translation = "막달레나"
 original = "「アアアーーーーーッ！！！」"
 translation = "「아아아아아아아악!!!」"
 
 [[dialogue]]
-speaker = "マグダレナ"
+speaker_original = "マグダレナ"
+speaker_translation = "막달레나"
 original = "「あぁ……これは……」"
 translation = "「아아…… 이것은……」"
 
 [[dialogue]]
-speaker = "マグダレナ"
+speaker_original = "マグダレナ"
+speaker_translation = "막달레나"
 original = "「皆様のおかげで、元に戻れたようですね……」"
 translation = "「여러분 덕분에 원래대로 돌아온 것 같군요……」"
 
 [[dialogue]]
-speaker = "マグダレナ"
+speaker_original = "マグダレナ"
+speaker_translation = "막달레나"
 original = "「本当にありがとうございました、皆様……そして……ミルフィー……」"
 translation = "「정말 감사합니다, 여러분…… 그리고…… 밀피……」"
 
 [[dialogue]]
-speaker = "ミルフィー"
+speaker_original = "ミルフィー"
+speaker_translation = "밀피"
 original = "「マグダレナ様……そんな、畏れ多いです……」"
 translation = "「마그달레나님…… 아뇨, 가당치도 않아요……」"
 
 [[dialogue]]
-speaker = "コハルコ"
+speaker_original = "コハルコ"
+speaker_translation = "쿠하루코"
 original = "『堕天使マグダレナおよび神殿周囲のモンスター反応消失。流星市国で起きていた異常現象も収束しました』"
 translation = "『타락천사 마그달레나 및 신전 주변의 몬스터 반응 소실. 유성시국에서 발생하던 이상 현상도 수습되었습니다』"
 
 [[dialogue]]
-speaker = "コハルコ"
+speaker_original = "コハルコ"
+speaker_translation = "쿠하루코"
 original = "『堕天使５体全ての撃破を確認。オペレーション・ペンタグラム──完了です！』"
 translation = "『타락천사 5체 전원 격파 확인. 오퍼레이션 펜타그램── 완료입니다!』"
 
 [[dialogue]]
-speaker = "ヒヨ"
+speaker_original = "ヒヨ"
+speaker_translation = "히요"
 original = "「おっしゃああっ！」"
 translation = "「조아쓰!」"
 
 [[dialogue]]
-speaker = "ミルフィー"
+speaker_original = "ミルフィー"
+speaker_translation = "밀피"
 original = "「やったぁ！」"
 translation = "「해냈다!」"
 
 [[dialogue]]
-speaker = "ウェンディ"
+speaker_original = "ウェンディ"
+speaker_translation = "웬디"
 original = "「ふぅ、何とかなりましたね……。始末書のことは……今は忘れましょう……」"
 translation = "「휴우, 어떻게든 됐네요……. 시말서 건은…… 지금은 잊기로 하죠……」"
 
 [[dialogue]]
-speaker = "アポロ"
+speaker_original = "アポロ"
+speaker_translation = "아폴로"
 original = "「正義は勝つ！\u3000ということだ！\u3000ハーッハッハッハ！」"
 translation = "「정의는 승리한다! 그런 말씀이지! 하하하하하!」"
 
 [[dialogue]]
-speaker = "アポロ"
+speaker_original = "アポロ"
+speaker_translation = "아폴로"
 original = "「ま、これで少しくらいは罪滅ぼしできたかな」"
 translation = "「뭐, 이걸로 조금은 속죄가 됐으려나」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「姉さん……」"
 translation = "「언니……」"
 
 [[dialogue]]
-speaker = "アポロ"
+speaker_original = "アポロ"
+speaker_translation = "아폴로"
 original = "「そんな寂しそうな顔をするな。今日はみんなの役に立てて嬉しかったぞ」"
 translation = "「그런 슬픈 표정 짓지 마. 오늘은 모두에게 도움이 될 수 있어서 기뻤다구」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「……はい。帰ったらゆっくり休みましょう」"
 translation = "「……네. 돌아가면 푹 쉬어요」"
 
 [[dialogue]]
-speaker = "梨緒"
+speaker_original = "梨緒"
+speaker_translation = "리오"
 original = "「緋宮会長、体に変化はないか？」"
 translation = "「히노미야 회장, 몸에 변화는 없나?」"
 
@@ -204,57 +243,68 @@ original = "ああ、疲れた以外は何ともないよ"
 translation = "아아, 피곤한 거 말고는 아무렇지도 않아"
 
 [[dialogue]]
-speaker = "梨緒"
+speaker_original = "梨緒"
+speaker_translation = "리오"
 original = "「それはみんな同じだ。その様子なら平気そうだな」"
 translation = "「그건 다들 마찬가지다. 그 정도라면 괜찮아 보이는군」"
 
 [[dialogue]]
-speaker = "イニシュ"
+speaker_original = "イニシュ"
+speaker_translation = "이니슈"
 original = "「皆さんお疲れ様でした」"
 translation = "「여러분 수고하셨습니다」"
 
 [[dialogue]]
-speaker = "イニシュ"
+speaker_original = "イニシュ"
+speaker_translation = "이니슈"
 original = "「──と、言いたいところですが、残念ながら休息している時間はありません。今すぐ帰還しなければ、当分世界樹が使えなくなってしまいます」"
 translation = "「──라고 말하고 싶지만, 아쉽게도 휴식할 시간은 없습니다. 지금 당장 귀환하지 않으면 당분간 세계수를 사용할 수 없게 됩니다」"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「それって魔界に取り残されるってことじゃない！\u3000大交流まで帰れないとかたまったもんじゃないわ！」"
 translation = "「그거 마계에 낙오된다는 뜻 아냐! 대교류 때까지 못 돌아가는 건 사양이라구!」"
 
 [[dialogue]]
-speaker = "イニシュ"
+speaker_original = "イニシュ"
+speaker_translation = "이니슈"
 original = "「では世界樹を開きますが、本来想定していない人数ですので、私の魔力でも世界樹を繋げられる時間はわずかです。全速力での帰還を推奨します」"
 translation = "「그럼 세계수를 열겠습니다만, 원래 상정하지 않은 인원이라 제 마력으로도 세계수를 잇는 시간은 짧습니다. 전속력으로 귀환할 것을 권장합니다」"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「もうくたくたなのに、かっ飛ばさないといけないの？\u3000最後まで疲れるわね～」"
 translation = "「이미 녹초가 됐는데 전력 질주를 해야 한다고? 마지막까지 피곤하게 하네~」"
 
 [[dialogue]]
-speaker = "ミルフィー"
+speaker_original = "ミルフィー"
+speaker_translation = "밀피"
 original = "「はぁ～、ほんとにへとへと……帰ったらカスタードのたい焼き食べたいなぁ～」"
 translation = "「하아~ 진짜 지쳤다…… 돌아가면 커스터드 붕어빵 먹고 싶어~」"
 
 [[dialogue]]
-speaker = "ヒヨ"
+speaker_original = "ヒヨ"
+speaker_translation = "히요"
 original = "「あたしはあんこ派でい！\u3000いくら姐さんでもそこは譲れねえぜ」"
 translation = "「난 단팥 파라구! 아무리 누님이라도 거기선 양보 못 한다구」"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「私はどっちも好きだけど、栗あんとかもいいわよね。みんなは？」"
 translation = "「난 둘 다 좋지만 밤 앙금 같은 것도 좋지 않아? 다들 어때?」"
 
 [[dialogue]]
-speaker = "アポロ"
+speaker_original = "アポロ"
+speaker_translation = "아폴로"
 original = "「あたしはチョコクリームも好きだぞ！」"
 translation = "「난 초코 크림도 좋아한다구!」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「抹茶あんも捨てがたいです」"
 translation = "「말차 앙금도 놓치기 아쉽네요」"
 
@@ -264,32 +314,38 @@ original = "ツナとかもあり"
 translation = "참치 같은 것도 괜찮지"
 
 [[dialogue]]
-speaker = "梨緒"
+speaker_original = "梨緒"
+speaker_translation = "리오"
 original = "「私は……そうだな、以前どこかで食べたクリームチーズ入りが美味しかったな」"
 translation = "「나는…… 글쎄, 예전에 어디선가 먹었던 크림치즈가 들어간 게 맛있더군」"
 
 [[dialogue]]
-speaker = "イニシュ"
+speaker_original = "イニシュ"
+speaker_translation = "이니슈"
 original = "「私はラーメンがいいです」"
 translation = "「저는 라멘이 좋겠습니다」"
 
 [[dialogue]]
-speaker = "ヒヨ"
+speaker_original = "ヒヨ"
+speaker_translation = "히요"
 original = "「たい焼き関係ねえじゃねえか！」"
 translation = "「붕어빵이랑 상관없잖아!」"
 
 [[dialogue]]
-speaker = "ミルフィー"
+speaker_original = "ミルフィー"
+speaker_translation = "밀피"
 original = "「ふふふっ、たくさん動いてお腹減ったし、たまにはラーメンもいいかなー」"
 translation = "「후후훗, 잔뜩 움직여서 배고프니까 가끔은 라멘도 좋을지도~」"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「ま、たい焼きでもラーメンでも好きなもの食べればいいわ。私たちが守った世界だもの」"
 translation = "「뭐, 붕어빵이든 라멘이든 좋아하는 걸 먹으면 돼. 우리가 지켜낸 세계니까 말이야」"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「さ、帰るわよ！\u3000きっとみんな待ちくたびれてるわ！」"
 translation = "「자, 돌아가자! 분명 다들 목 빠지게 기다리고 있을 거야!」"
 

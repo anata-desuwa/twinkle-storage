@@ -1,5 +1,6 @@
 [[dialogue]]
-speaker = "リーナ"
+speaker_original = "リーナ"
+speaker_translation = "리나"
 original = "「あ～、お兄ちゃん、遅いよー！」"
 translation = "「아~ 오빠, 늦어—!」"
 
@@ -9,12 +10,14 @@ original = "待たせてごめん"
 translation = "기다리게 해서 미안."
 
 [[dialogue]]
-speaker = "リーナ"
+speaker_original = "リーナ"
+speaker_translation = "리나"
 original = "「用事は終わったんだよね？\u3000じゃあずっとリーナと一緒にいてくれるよね！」"
 translation = "「볼일은 다 끝난 거지? 그럼 계속 리나랑 같이 있어주는 거지!」"
 
 [[dialogue]]
-speaker = "リーナ"
+speaker_original = "リーナ"
+speaker_translation = "리나"
 original = "「え～っ、また行かないといけないの～！？\u3000お兄ちゃんのイジワル～！」"
 translation = "「에에~ 또 가야만 하는 거야~!? 오빠 심술쟁이~!」"
 
@@ -24,87 +27,104 @@ original = "俺が戦わないといけないんだ"
 translation = "내가 싸워야만 해."
 
 [[dialogue]]
-speaker = "リーナ"
+speaker_original = "リーナ"
+speaker_translation = "리나"
 original = "「そう……なんだ」"
 translation = "「그렇……구나.」"
 
 [[dialogue]]
-speaker = "リーナ"
+speaker_original = "リーナ"
+speaker_translation = "리나"
 original = "「……うん、じゃあリーナ待ってるね。行ってらっしゃい。怪我しないで帰ってきてね」"
 translation = "「……응, 그럼 리나 기다릴게. 다녀와. 다치지 말고 돌아와야 해.」"
 
 [[dialogue]]
-speaker = "リーナ"
+speaker_original = "リーナ"
+speaker_translation = "리나"
 original = "「…………」"
 translation = "「…………」"
 
 [[dialogue]]
-speaker = "ヴァレリー"
+speaker_original = "ヴァレリー"
+speaker_translation = "발레리"
 original = "「これが長き歴史を誇る流星学園。星騎士たちがここで日夜研鑽を積み重ねていると思うと、胸が弾みます」"
 translation = "「이곳이 긴 역사를 자랑하는 유성학원. 성기사들이 이곳에서 밤낮으로 연마를 거듭하고 있다고 생각하니 가슴이 벅차오르는군요.」"
 
 [[dialogue]]
-speaker = "ヴァレリー"
+speaker_original = "ヴァレリー"
+speaker_translation = "발레리"
 original = "「校舎もまた美しい。神聖な空気を感じずにはいられません。できれば明るいうちに来たかったのですが、そこは仕方ありませんね」"
 translation = "「교사 또한 아름답군요. 신성한 공기를 느끼지 않을 수 없습니다. 가급적 밝을 때 오고 싶었습니다만, 그건 어쩔 수 없지요.」"
 
 [[dialogue]]
-speaker = "ヴァレリー"
+speaker_original = "ヴァレリー"
+speaker_translation = "발레리"
 original = "「そして奥にそびえるのがフィーニスの塔……本当に頂上が見えませんね。噂に違わぬ無窮の塔というわけですか」"
 translation = "「그리고 저 뒤에 우뚝 솟은 것이 피니스의 탑…… 정말 끝이 보이질 않는군요. 소문대로 무궁의 탑이라는 것입니까.」"
 
 [[dialogue]]
-speaker = "シアン"
+speaker_original = "シアン"
+speaker_translation = "시안"
 original = "「よう、待ってたぜ」"
 translation = "「여어, 기다리고 있었다고.」"
 
 [[dialogue]]
-speaker = "ヴァレリー"
+speaker_original = "ヴァレリー"
+speaker_translation = "발레리"
 original = "「おや。学生はもう帰る時間だと思っていたのですが」"
 translation = "「오호라. 학생은 이미 하교할 시간이라 생각했습니다만.」"
 
 [[dialogue]]
-speaker = "シアン"
+speaker_original = "シアン"
+speaker_translation = "시안"
 original = "「流星学園の校舎は、名のある建築家が設計したそうで、その手のマニアにはけっこう価値があるらしいぜ」"
 translation = "「유성학원의 교사는 이름난 건축가가 설계했다고 해서, 그런 쪽 마니아들에게는 꽤나 가치가 있는 모양이더라고.」"
 
 [[dialogue]]
-speaker = "シアン"
+speaker_original = "シアン"
+speaker_translation = "시안"
 original = "「それにあんた、星騎士のファンなんだろ？\u3000ここに来たくて来たくてたまらなかったんじゃないのか」"
 translation = "「게다가 너, 성기사 팬이라며? 이곳에 오고 싶어서 안달 난 상태 아니었어?」"
 
 [[dialogue]]
-speaker = "シアン"
+speaker_original = "シアン"
+speaker_translation = "시안"
 original = "「敵にファンだの憧れているだの言ってのける図太さだ。本陣にひょっこり現れてもおかしくねえと思ってな」"
 translation = "「적에게 팬이라느니 동경한다느니 지껄이는 뻔뻔함이다. 본진에 불쑥 나타나도 이상하지 않다고 생각했지.」"
 
 [[dialogue]]
-speaker = "ヴァレリー"
+speaker_original = "ヴァレリー"
+speaker_translation = "발레리"
 original = "「図太いも何も、本当のことなのですがね。そこは信じていただきたいのですが残念です」"
 translation = "「뻔뻔하고 자시고 사실인 것을요. 그 점은 믿어주셨으면 합니다만 유감이군요.」"
 
 [[dialogue]]
-speaker = "ヴァレリー"
+speaker_original = "ヴァレリー"
+speaker_translation = "발레리"
 original = "「しかし待ち伏せされていた以上、ここは退くしかありませんね。いくら私でも、この状況で押し通るほど図太くはありませんから」"
 translation = "「하지만 매복을 당한 이상 여기서 물러날 수밖에 없겠네요. 아무리 저라도 이 상황에서 억지로 밀고 나갈 만큼 뻔뻔하지는 않으니까요.」"
 
 [[dialogue]]
-speaker = "ネーゼマイン"
+speaker_original = "ネーゼマイン"
+speaker_translation = "네제마인"
 original = "「トラップ設置済みだよ♪\u3000コラプサーでもそう簡単に逃がさないから♪」"
 translation = "「트랩 설치 완료했어♪ 콜랩서라도 그렇게 쉽게 보내주지 않을 거니까♪」"
 
 [[dialogue]]
-speaker = "せつな"
+speaker_original = "せつな"
+speaker_translation = "세츠나"
 original = "「逃がさないでござる！」"
 translation = "「못 보내오이다!」"
 
 [[dialogue]]
-speaker = "セナリィ"
+speaker_original = "セナリィ"
+speaker_translation = "세나리"
 original = "「カモがネギをしょってやってきましたわ！」"
 translation = "「굴러 들어온 호박이군요!」"
 
 [[dialogue]]
-speaker = "ヴァレリー"
+speaker_original = "ヴァレリー"
+speaker_translation = "발레리"
 original = "「ふむ、これは困りました。背後を塞がれましたね」"
 translation = "「흠, 이거 곤란하군요. 후방을 차단당했네요.」"
 
@@ -114,42 +134,50 @@ original = "もちろんオレもいる"
 translation = "물론 나도 있어."
 
 [[dialogue]]
-speaker = "ヴァレリー"
+speaker_original = "ヴァレリー"
+speaker_translation = "발레리"
 original = "「後ろは公安委員会。正面に星徒会長。状況は悪くなる一方……」"
 translation = "「뒤쪽은 공안위원회. 정면에는 성도회장. 상황은 악화일로……」"
 
 [[dialogue]]
-speaker = "ヴァレリー"
+speaker_original = "ヴァレリー"
+speaker_translation = "발레리"
 original = "「それと星徒会長の隣のあなた──そういえばお名前を聞いていませんでした。よければお聞かせいただいても？」"
 translation = "「그리고 성도회장 옆의 당신── 그러고 보니 성함을 듣지 못했군요. 괜찮으시다면 들려주시겠습니까?」"
 
 [[dialogue]]
-speaker = "シアン"
+speaker_original = "シアン"
+speaker_translation = "시안"
 original = "「あぁん？\u3000ならず者の変態に名乗る名前なんかねぇよ。てめえこそお縄について洗いざらい吐きやがれ」"
 translation = "「앙? 무법자 변태새끼한테 알려줄 이름 따윈 없어. 너야말로 포박당해서 낱낱이 불라고.」"
 
 [[dialogue]]
-speaker = "ヴァレリー"
+speaker_original = "ヴァレリー"
+speaker_translation = "발레리"
 original = "「フフフ、つれない人ですね」"
 translation = "「후후후, 매정한 사람이군요.」"
 
 [[dialogue]]
-speaker = "ヴァレリー"
+speaker_original = "ヴァレリー"
+speaker_translation = "발레리"
 original = "「しかしこの窮地も、５人もの星騎士を独り占めできるとなれば贅沢というもの。せいぜい足掻かせていただきましょうか」"
 translation = "「하지만 이 궁지도 다섯 명이나 되는 성기사를 독차지할 수 있다면 사치스러운 법. 기껏 발버둥 쳐보도록 할까요.」"
 
 [[dialogue]]
-speaker = "ヴァレリー"
+speaker_original = "ヴァレリー"
+speaker_translation = "발레리"
 original = "「さぁ……美しき星の輝き、私に見せてください……！」"
 translation = "「자…… 아름다운 별의 광채, 제게 보여주시죠……!」"
 
 [[dialogue]]
-speaker = "ヴァレリー"
+speaker_original = "ヴァレリー"
+speaker_translation = "발레리"
 original = "「はぁ、はぁ……いい……いいですよ……！\u3000麗しき星騎士たちが苦痛に顔を歪める姿……たまらない……！」"
 translation = "「하아, 하아…… 좋아…… 좋아요……! 아름다운 성기사들이 고통에 얼굴을 일그러뜨리는 모습…… 참을 수가 없군요……!」"
 
 [[dialogue]]
-speaker = "ネーゼマイン"
+speaker_original = "ネーゼマイン"
+speaker_translation = "네제마인"
 original = "「はぁ……こっちも散々痛めつけてるんですけどー……」"
 translation = "「하아…… 이쪽도 잔뜩 때려주고 있거든요—……」"
 
@@ -159,107 +187,128 @@ original = "こいつ、キサナより打たれ強い……！"
 translation = "이 녀석, 키사나보다 맷집이 좋아……!"
 
 [[dialogue]]
-speaker = "セナリィ"
+speaker_original = "セナリィ"
+speaker_translation = "세나리"
 original = "「マジでしぶといですわ！？\u3000どれだけ撃ち込まれれば気が済むんですの！？」"
 translation = "「진짜 끈질기네요!? 얼마나 처맞아야 직성이 풀리는 건가요!?」"
 
 [[dialogue]]
-speaker = "ヴァレリー"
+speaker_original = "ヴァレリー"
+speaker_translation = "발레리"
 original = "「楽しい……もっと、もっと……壊れるまで、傷つけあいましょう……！」"
 translation = "「즐거워…… 좀 더, 좀 더…… 부서질 때까지 서로 상처 입히자고요……!」"
 
 [[dialogue]]
-speaker = "せつな"
+speaker_original = "せつな"
+speaker_translation = "세츠나"
 original = "「さらに気持ち悪くなってきたでござる！？」"
 translation = "「더욱 기분 나빠졌소이다!?」"
 
 [[dialogue]]
-speaker = "シアン"
+speaker_original = "シアン"
+speaker_translation = "시안"
 original = "「押し切れねえが、間もなく援軍が来る。このままならあたしらの勝ちだ！」"
 translation = "「밀어내진 못하고 있지만, 곧 원군이 온다. 이대로면 우리의 승리야!」"
 
 [[dialogue]]
-speaker = "ヴァレリー"
+speaker_original = "ヴァレリー"
+speaker_translation = "발레리"
 original = "「おやおや、私はもっと楽しみたいというのに。やはりつれない方ですね」"
 translation = "「이런 이런, 저는 좀 더 즐기고 싶은데 말이죠. 역시 매정한 분이군요.」"
 
 [[dialogue]]
-speaker = "ヴァレリー"
+speaker_original = "ヴァレリー"
+speaker_translation = "발레리"
 original = "「では強行突破といきましょう。サヴェージ──」"
 translation = "「그럼 강행 돌파로 가죠. 새비지──」"
 
 [[dialogue]]
-speaker = "セナリィ"
+speaker_original = "セナリィ"
+speaker_translation = "세나리"
 original = "「一か八か──《<ruby>強奪<rt>バンデット</rt></ruby>》！」"
 translation = "「모 아니면 도── 《<ruby>강탈<rt>밴디트</rt></ruby>》!」"
 
 [[dialogue]]
-speaker = "ヴァレリー"
+speaker_original = "ヴァレリー"
+speaker_translation = "발레리"
 original = "「！？\u3000『強奪の星眼』──！？」"
 translation = "「!? 『강탈의 성안』──!?」"
 
 [[dialogue]]
-speaker = "セナリィ"
+speaker_original = "セナリィ"
+speaker_translation = "세나리"
 original = "「星眼が通じましたわ！？\u3000ですが今は迷っている時ではありません！\u3000《<ruby>解放<rt>リリース</rt></ruby>》──！」"
 translation = "「성안이 통했어요!? 하지만 지금은 망설일 때가 아니에요! 《<ruby>해방<rt>릴리스</rt></ruby>》──!」"
 
 [[dialogue]]
-speaker = "ヴァレリー"
+speaker_original = "ヴァレリー"
+speaker_translation = "발레리"
 original = "「くぁああああああっ！？」"
 translation = "「크아아아아아아악!?」"
 
 [[dialogue]]
-speaker = "ヴァレリー"
+speaker_original = "ヴァレリー"
+speaker_translation = "발레리"
 original = "「ハハハ……さすがに無茶が過ぎましたか。星騎士の天敵、コラプサーとはいえこの戦力は覆せませんね……」"
 translation = "「하하하…… 역시 무리가 과했나 보군요. 성기사의 천적, 콜랩서라고는 해도 이 전력은 뒤집을 수 없네요……」"
 
 [[dialogue]]
-speaker = "ヴァレリー"
+speaker_original = "ヴァレリー"
+speaker_translation = "발레리"
 original = "「──なんて」"
 translation = "「──라든가.」"
 
 [[dialogue]]
-speaker = "シアン"
+speaker_original = "シアン"
+speaker_translation = "시안"
 original = "「あいつの傷が、ふさがっていく……！？」"
 translation = "「저 녀석의 상처가 아물고 있어……!?」"
 
 [[dialogue]]
-speaker = "ヴァレリー"
+speaker_original = "ヴァレリー"
+speaker_translation = "발레리"
 original = "「ハハハッ、ハハハハハッ！！」"
 translation = "「하하하, 하하하하하!!」"
 
 [[dialogue]]
-speaker = "ヴァレリー"
+speaker_original = "ヴァレリー"
+speaker_translation = "발레리"
 original = "「キサナは貫き穿つことに特化していましたが、私の力の真髄は癒しにある。あなた方から吸収した星力、ありがたく使わせていただきましたよ」"
 translation = "「키사나는 꿰뚫는 것에 특화되어 있었습니다만, 제 힘의 진수는 치유에 있습니다. 당신들에게서 흡수한 성력, 감사히 잘 썼습니다.」"
 
 [[dialogue]]
-speaker = "ヴァレリー"
+speaker_original = "ヴァレリー"
+speaker_translation = "발레리"
 original = "「バンデット・セナリィ。あなたもご存じの通り、強奪の星眼には弱点がある。ひとつは、相手の星術を１つしか奪えないこと。そして……」"
 translation = "「밴디트 세나리. 당신도 알다시피 강탈의 성안에는 약점이 있지요. 하나는 상대의 성술을 하나밖에 뺏지 못한다는 것. 그리고……」"
 
 [[dialogue]]
-speaker = "セナリィ"
+speaker_original = "セナリィ"
+speaker_translation = "세나리"
 original = "「一度使うと再使用まで時間がかかること、ですわね。つまり“囮”を使われれば不発となる。だから見極めが肝心なのですわ」"
 translation = "「한 번 사용하면 재사용까지 시간이 걸린다는 것, 이로군요. 즉 “미끼”를 쓰면 불발된다. 그래서 간파하는 것이 핵심이었는데.」"
 
 [[dialogue]]
-speaker = "ヴァレリー"
+speaker_original = "ヴァレリー"
+speaker_translation = "발레리"
 original = "「その通りです。切り札を最後まで取っておいて正解でした」"
 translation = "「그렇습니다. 비장의 카드를 마지막까지 아껴두길 잘했군요.」"
 
 [[dialogue]]
-speaker = "ヴァレリー"
+speaker_original = "ヴァレリー"
+speaker_translation = "발레리"
 original = "「今の私の力は万全以上。さぁ──精魂尽き果てるまで、存分に死合いましょうか──！」"
 translation = "「지금 제 힘은 만전 이상. 자── 심신이 다할 때까지 마음껏 죽여볼까요──!」"
 
 [[dialogue]]
-speaker = "リーナ"
+speaker_original = "リーナ"
+speaker_translation = "리나"
 original = "「お兄ちゃんを傷つける人は許さないんだから！」"
 translation = "「오빠를 괴롭히는 사람은 용서 안 할 거니까!」"
 
 [[dialogue]]
-speaker = "ヴァレリー"
+speaker_original = "ヴァレリー"
+speaker_translation = "발레리"
 original = "「リーナ……！？」"
 translation = "「리나……!?」"
 

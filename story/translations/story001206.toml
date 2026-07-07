@@ -1,25 +1,30 @@
 [[dialogue]]
-speaker = "キリカ"
+speaker_original = "キリカ"
+speaker_translation = "키리카"
 original = "「緋宮会長を支えられる花嫁になるべく、フィオナお嬢様は努力しました。しかし緋宮会長はどうでしょうか？」"
 translation = "「<u>히노미야</u> 회장을 지탱할 수 있는 신부가 되고자 피오나 아가씨는 노력했습니다. 하지만 <u>히노미야</u> 회장은 어떻습니까?」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「緋宮会長が花婿にふさわしくないなんて、私思ってないよ？\u3000むしろ素敵な人だと──」"
 translation = "「<u>히노미야</u> 회장이 신랑에 어울리지 않는다고는 생각 안 해! 오히려 멋진 사람이라고──」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「ひゃっ、今のナシ！？\u3000あ、いや、ナシじゃなくてアリなんですけど──ああっ！？\u3000そういう意味ですけどそういう意味じゃなくて～っ！？」"
 translation = "「히익, 방금 건 취소!? 아, 아니, 취소가 아니라 인정이지만── 아앗!? 그런 뜻이지만 그런 뜻이 아니라아~~앗!?」"
 
 [[dialogue]]
-speaker = "ナミエル"
+speaker_original = "ナミエル"
+speaker_translation = "나미엘"
 original = "「フィオナお嬢様が過去最大レベルで慌てています……」"
 translation = "「피오나 아가씨께서 역대급으로 당황하고 계시는군요……」"
 
 [[dialogue]]
-speaker = "キリカ"
+speaker_original = "キリカ"
+speaker_translation = "키리카"
 original = "「だとしても、フィオナお嬢様の理想はもっと高いのです。その理想に追いついてこそ、この結婚は成り立つものではないでしょうか」"
 translation = "「그렇다 해도 피오나 아가씨의 이상은 더 높습니다. 그 이상을 따라잡아야만 이 결혼은 성립되는 것이 아닐까요.」"
 
@@ -29,22 +34,26 @@ original = "俺、花婿修行やります！"
 translation = "나, 신랑 수업 하겠습니다!"
 
 [[dialogue]]
-speaker = "キリカ"
+speaker_original = "キリカ"
+speaker_translation = "키리카"
 original = "「よろしいです。お嬢様の花婿となるために精進してください」"
 translation = "「좋습니다. 아가씨의 신랑이 되기 위해 정진하십시오.」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「うぅ……余計恥ずかしい展開になっている気が……」"
 translation = "「으으…… 괜히 더 부끄러운 전개가 된 것 같은데……」"
 
 [[dialogue]]
-speaker = "ナミエル"
+speaker_original = "ナミエル"
+speaker_translation = "나미엘"
 original = "「花婿修行では、私やメイド長を支えられる殿方になっていただきます」"
 translation = "「신랑 수업에서는 저나 메이드장을 보필할 수 있는 분이 되어주셔야겠습니다.」"
 
 [[dialogue]]
-speaker = "ナミエル"
+speaker_original = "ナミエル"
+speaker_translation = "나미엘"
 original = "「男性にも家事が求められる時代になって久しいです。今は私と結婚していると仮定して、家事能力を見せていただきます」"
 translation = "「남성에게도 가사 능력이 요구되는 시대가 된 지 오래입니다. 지금은 저와 결혼했다고 가정하고 가사 능력을 보여주셔야겠습니다.」"
 
@@ -54,67 +63,80 @@ original = "夫婦なんだから協力しないとな"
 translation = "부부니까 협력해야지"
 
 [[dialogue]]
-speaker = "ナミエル"
+speaker_original = "ナミエル"
+speaker_translation = "나미엘"
 original = "「夫婦！？」"
 translation = "「부부!?」"
 
 [[dialogue]]
-speaker = "ナミエル"
+speaker_original = "ナミエル"
+speaker_translation = "나미엘"
 original = "「いえ、何を驚いているのでしょう。そう、今の私たちは夫婦……寝食を共にするもの……」"
 translation = "「아니, 뭘 놀라는 걸까요. 그래요, 지금의 우리는 부부…… 침식을 함께하는 사이……」"
 
 [[dialogue]]
-speaker = "ナミエル"
+speaker_original = "ナミエル"
+speaker_translation = "나미엘"
 original = "「つまり一緒に……寝る……！？\u3000同じベッドで寝たりなんかしたら、男は獣になって、欲望のままにあんなことやこんなことをするに決まってます！」"
 translation = "「즉 같이…… 잔다……!? 같은 침대에서 자기라도 하면 남자는 짐승이 되어 욕망대로 이런 짓이나 저런 짓을 할 게 뻔해요!」"
 
 [[dialogue]]
-speaker = "ナミエル"
+speaker_original = "ナミエル"
+speaker_translation = "나미엘"
 original = "「不潔ですっ！！\u3000掃除しますっ！！」"
 translation = "「불결합니다!! 청소할게요!!」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「ナミエル、落ち着いて！\u3000まだ本当に結婚したわけじゃないから！」"
 translation = "「나미엘, 진정해! 아직 진짜로 결혼한 게 아니니까!」"
 
 [[dialogue]]
-speaker = "ナミエル"
+speaker_original = "ナミエル"
+speaker_translation = "나미엘"
 original = "「ハッ──！？\u3000申し訳ありません、取り乱しました……」"
 translation = "「하앗──!? 죄송합니다, 잠시 정신을 잃었네요……」"
 
 [[dialogue]]
-speaker = "ナミエル"
+speaker_original = "ナミエル"
+speaker_translation = "나미엘"
 original = "「コホン。では花婿修行を始めましょう。星見家の方々の身の回りのお世話はメイド隊の仕事ですので、メイドの私室の掃除などを私と一緒に行っていただきます」"
 translation = "「큼큼. 그럼 신랑 수업을 시작하죠. 호시미 가문 분들의 수발은 메이드대의 일이니, 메이드 사유실 청소 등을 저와 함께 수행하시겠습니다.」"
 
 [[dialogue]]
-speaker = "ナミエル"
+speaker_original = "ナミエル"
+speaker_translation = "나미엘"
 original = "「全ての家事を完璧にこなす必要はありません。夫婦とは助け合うものですから」"
 translation = "「모든 가사를 완벽하게 해낼 필요는 없습니다. 부부란 서로 돕는 법이니까요.」"
 
 [[dialogue]]
-speaker = "ナミエル"
+speaker_original = "ナミエル"
+speaker_translation = "나미엘"
 original = "「ただし、拙い部分は指導させていただきますので覚悟してください」"
 translation = "「다만 서툰 부분은 지도할 테니 각오하십시오.」"
 
 [[dialogue]]
-speaker = "ナミエル"
+speaker_original = "ナミエル"
+speaker_translation = "나미엘"
 original = "「むむ……緋宮会長、手際が良いです。掃除に関しては少し指導しましたが、料理は私よりも上手ですし……」"
 translation = "「으음…… <u>히노미야</u> 회장님, 솜씨가 좋네요. 청소는 제가 좀 가르쳤지만 요리는 저보다 잘하시고……」"
 
 [[dialogue]]
-speaker = "ナミエル"
+speaker_original = "ナミエル"
+speaker_translation = "나미엘"
 original = "「緋宮会長はバイトで経験があるからとはいえ……くっ……なぜか悔しいです」"
 translation = "「<u>히노미야</u> 회장님은 알바로 경험이 있다고는 하지만…… 큭…… 왠지 분하네요.」"
 
 [[dialogue]]
-speaker = "キリカ"
+speaker_original = "キリカ"
+speaker_translation = "키리카"
 original = "「ですが、緋宮会長とは息が合っているようでした。役割分担も的確で、スムーズに掃除を終わらせましたね」"
 translation = "「하지만 <u>히노미야</u> 회장님과는 호흡이 잘 맞는 것 같았습니다. 역할 분담도 적절해서 매끄럽게 청소를 끝내셨군요.」"
 
 [[dialogue]]
-speaker = "ナミエル"
+speaker_original = "ナミエル"
+speaker_translation = "나미엘"
 original = "「そうでしょうか？\u3000確かにいつもより掃除が捗った気がしますが……」"
 translation = "「그런가요? 확실히 평소보다 청소가 잘 된 기분입니다만……」"
 
@@ -124,27 +146,32 @@ original = "ご飯できたよ"
 translation = "밥 다 됐어"
 
 [[dialogue]]
-speaker = "ナミエル"
+speaker_original = "ナミエル"
+speaker_translation = "나미엘"
 original = "「あ……オムライス」"
 translation = "「아…… 오므라이스.」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「ナミエル、オムライス好きなの？」"
 translation = "「나미엘, 오므라이스 좋아해?」"
 
 [[dialogue]]
-speaker = "ナミエル"
+speaker_original = "ナミエル"
+speaker_translation = "나미엘"
 original = "「いえ、好きというか……昔、母に作ってもらったことを思い出しました」"
 translation = "「아니요, 좋아한다기보다…… 옛날에 어머니가 만들어 주셨던 게 생각나서요.」"
 
 [[dialogue]]
-speaker = "ナミエル"
+speaker_original = "ナミエル"
+speaker_translation = "나미엘"
 original = "「正直、味は覚えていません。でもあの時は嬉しかったような気がしますから……やっぱり好きだったのかもしれません」"
 translation = "「솔직히 맛은 기억나지 않아요. 하지만 그때 기뻤던 것 같으니…… 역시 좋아했던 걸지도 모르겠네요.」"
 
 [[dialogue]]
-speaker = "ナミエル"
+speaker_original = "ナミエル"
+speaker_translation = "나미엘"
 original = "「いただきます。……あむ」"
 translation = "「잘 먹겠습니다. ……냠.」"
 
@@ -154,47 +181,56 @@ original = "美味しい？"
 translation = "맛있어?"
 
 [[dialogue]]
-speaker = "ナミエル"
+speaker_original = "ナミエル"
+speaker_translation = "나미엘"
 original = "「……はい。私に言われても緋宮会長は嬉しくないかもしれませんが、そう感じます」"
 translation = "「……네. 제가 말해도 <u>히노미야</u> 회장님은 기쁘지 않으시겠지만 그렇게 느껴지네요.」"
 
 [[dialogue]]
-speaker = "ナミエル"
+speaker_original = "ナミエル"
+speaker_translation = "나미엘"
 original = "「甘めで子ども向けの味ですけど、母のオムライスもこんな味だったかもしれません」"
 translation = "「달달해서 어린애 입맛용이지만 어머니의 오므라이스도 이런 맛이었을지 모르겠어요.」"
 
 [[dialogue]]
-speaker = "ナミエル"
+speaker_original = "ナミエル"
+speaker_translation = "나미엘"
 original = "「あの……このオムライスの作り方、教えていただけませんか？\u3000料理ならメイド長に教わるのが筋なのですが、私はこのオムライスを覚えたいんです」"
 translation = "「저기…… 이 오므라이스 만드는 법 가르쳐주지 않으실래요? 요리라면 메이드장에게 배우는 게 도리입니다만 저는 이 오므라이스를 익히고 싶어요.」"
 
 [[dialogue]]
-speaker = "ナミエル"
+speaker_original = "ナミエル"
+speaker_translation = "나미엘"
 original = "「……もちろんＯＫ？\u3000ありがとうございます」"
 translation = "「……물론 OK? 감사합니다.」"
 
 [[dialogue]]
-speaker = "ナミエル"
+speaker_original = "ナミエル"
+speaker_translation = "나미엘"
 original = "「緋宮会長と一緒の生活……私が掃除をして……緋宮会長が食事を作って……」"
 translation = "「<u>히노미야</u> 회장님과의 생활…… 제가 청소를 하고…… <u>히노미야</u> 회장님이 식사를 만들고……」"
 
 [[dialogue]]
-speaker = "ナミエル"
+speaker_original = "ナミエル"
+speaker_translation = "나미엘"
 original = "「緋宮会長となら、家族になれるかも……」"
 translation = "「<u>히노미야</u> 회장님과는 가족이 될 수 있을지도……」"
 
 [[dialogue]]
-speaker = "ナミエル"
+speaker_original = "ナミエル"
+speaker_translation = "나미엘"
 original = "「──！？\u3000私は何を考えているのでしょう。こんなハレンチな人と結婚するなんて、ただれた生活になるに決まっています！」"
 translation = "「──!? 내가 무슨 생각을 하는 거야. 이런 파렴치한 사람과 결혼하다니, 문란한 생활이 될 게 뻔한데!」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「はは……ナミエルは素直になればいいのに」"
 translation = "「하하…… 나미엘은 솔직해지면 좋을 텐데.」"
 
 [[dialogue]]
-speaker = "ナミエル"
+speaker_original = "ナミエル"
+speaker_translation = "나미엘"
 original = "「私は素直です。今のは緋宮会長の客観的な評価です」"
 translation = "「전 솔직해요. 방금 건 <u>히노미야</u> 회장님에 대한 객관적인 평가예요.」"
 
@@ -204,7 +240,8 @@ original = "洗濯もしておいたよ"
 translation = "빨래도 해뒀어"
 
 [[dialogue]]
-speaker = "ナミエル"
+speaker_original = "ナミエル"
+speaker_translation = "나미엘"
 original = "「ありがとうございます。あ、私のぬいぐるみ、手洗いまでしてくれたんですね。ふわふわになっています」"
 translation = "「감사합니다. 아, 제 인형 손빨래까지 해주셨네요. 뽀송뽀송해졌어요.」"
 
@@ -214,17 +251,20 @@ original = "ナミエルが大事にしてるやつだから"
 translation = "나미엘이 소중히 여기는 거니까"
 
 [[dialogue]]
-speaker = "ナミエル"
+speaker_original = "ナミエル"
+speaker_translation = "나미엘"
 original = "「そこまでしなくてもいいですって……。でも嬉しいです」"
 translation = "「그렇게까지 안 하셔도 되는데……. 그래도 기뻐요.」"
 
 [[dialogue]]
-speaker = "ナミエル"
+speaker_original = "ナミエル"
+speaker_translation = "나미엘"
 original = "「あれ？\u3000これ……私のパンツ……？」"
 translation = "「어라? 이건…… 내 팬티……?」"
 
 [[dialogue]]
-speaker = "ナミエル"
+speaker_original = "ナミエル"
+speaker_translation = "나미엘"
 original = "「キャ～～～～～～ッ！！？\u3000やっぱり不潔です～～～～っ！！！」"
 translation = "「꺄아아아아아앗!!? 역시 불결해요~~~~!!!」"
 

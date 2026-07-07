@@ -4,22 +4,26 @@ original = "第３話,イクシーとアルモタヘル,P"
 translation = "제3화, 익시와 아르모타헬, P"
 
 [[dialogue]]
-speaker = "イクシリオン"
+speaker_original = "イクシリオン"
+speaker_translation = "익실리온"
 original = "「アルモタヘル様！\u3000ケバブのお味はいかがでしょうか」"
 translation = "「아르모타헬 님! 케밥 맛은 어떠신가요」"
 
 [[dialogue]]
-speaker = "アルモタヘル"
+speaker_original = "アルモタヘル"
+speaker_translation = "아르모타헬"
 original = "「うむ……！\u3000見事なり。危うく爆発するところであったぞ」"
 translation = "「음……! 훌륭하구나. 하마터면 폭발할 뻔했다」"
 
 [[dialogue]]
-speaker = "アルモタヘル"
+speaker_original = "アルモタヘル"
+speaker_translation = "아르모타헬"
 original = "「イクシリオン、お前の慧眼には感謝するぞ。今後も良き店があらば必ず声をかけよ」"
 translation = "「익실리온, 네 혜안에는 감사하마. 앞으로도 좋은 가게가 있다면 반드시 말을 걸도록」"
 
 [[dialogue]]
-speaker = "イクシリオン"
+speaker_original = "イクシリオン"
+speaker_translation = "익실리온"
 original = "「はいっ！\u3000かしこまりました！」"
 translation = "「네! 알겠습니다!」"
 
@@ -29,12 +33,14 @@ original = "やあ、２人とも"
 translation = "안녕, 두 사람 다"
 
 [[dialogue]]
-speaker = "イクシリオン"
+speaker_original = "イクシリオン"
+speaker_translation = "익실리온"
 original = "「あっ、会長。こんなところで会うだなんて奇遇ですね」"
 translation = "「앗, 회장님. 이런 곳에서 만나다니 기구한 인연이네요」"
 
 [[dialogue]]
-speaker = "アルモタヘル"
+speaker_original = "アルモタヘル"
+speaker_translation = "아르모타헬"
 original = "「息災のようだな。人の子よ」"
 translation = "「무탈해 보이는구나. 사람의 자식아」"
 
@@ -44,52 +50,62 @@ original = "２人は知り合いだったんだな"
 translation = "두 사람은 아는 사이였구나"
 
 [[dialogue]]
-speaker = "イクシリオン"
+speaker_original = "イクシリオン"
+speaker_translation = "익실리온"
 original = "「知り合いも何も！\u3000私の家は、代々アルモタヘル様を祀る神殿を管理する一族なんですよ」"
 translation = "「아는 사이고 뭐고! 저희 집안은 대대로 아르모타헬 님을 모시는 신전을 관리하는 일족이라고요」"
 
 [[dialogue]]
-speaker = "アルモタヘル"
+speaker_original = "アルモタヘル"
+speaker_translation = "아르모타헬"
 original = "「然り。故にこうして世話を焼かれているのだ」"
 translation = "「그렇다. 고로 이렇게 보살핌을 받고 있는 것이지」"
 
 [[dialogue]]
-speaker = "イクシリオン"
+speaker_original = "イクシリオン"
+speaker_translation = "익실리온"
 original = "「本当に感激です。敬愛する守護天使様とお出かけができるだなんて」"
 translation = "「정말 감격이에요. 경애하는 수호천사 님과 외출을 할 수 있다니」"
 
 [[dialogue]]
-speaker = "アルモタヘル"
+speaker_original = "アルモタヘル"
+speaker_translation = "아르모타헬"
 original = "「我も満足だ。お前の案内は実に適切である。美味いものをどこで食えるか、すぐに答えが返ってくるのだからな」"
 translation = "「나도 만족스럽다. 네 안내는 실로 적절하구나. 맛있는 것을 어디서 먹을 수 있는지, 즉각 답이 돌아오니까 말이다」"
 
 [[dialogue]]
-speaker = "イクシリオン"
+speaker_original = "イクシリオン"
+speaker_translation = "익실리온"
 original = "「私も食べるのは好きですから。気が付くとお腹が減っています」"
 translation = "「저도 먹는 건 좋아하니까요. 정신을 차려보면 배가 고파져요」"
 
 [[dialogue]]
-speaker = "アルモタヘル"
+speaker_original = "アルモタヘル"
+speaker_translation = "아르모타헬"
 original = "「お前は良き従者だな。さて──塩気のある物を食した後は、甘い物が欲しくなるな？」"
 translation = "「너는 좋은 종자로구나. 자── 짠 것을 먹은 뒤에는, 단 것이 당기지 않느냐?」"
 
 [[dialogue]]
-speaker = "イクシリオン"
+speaker_original = "イクシリオン"
+speaker_translation = "익실리온"
 original = "「はいっ！\u3000お任せください、徒歩３分圏内に、極上のクレープを出すお店がございます！」"
 translation = "「네! 맡겨주세요, 도보 3분 권내에 극상의 크레이프를 내놓는 가게가 있습니다!」"
 
 [[dialogue]]
-speaker = "アルモタヘル"
+speaker_original = "アルモタヘル"
+speaker_translation = "아르모타헬"
 original = "「うむ。素晴らしいぞ、イクシリオン」"
 translation = "「음. 장하구나, 익실리온」"
 
 [[dialogue]]
-speaker = "イクシリオン"
+speaker_original = "イクシリオン"
+speaker_translation = "익실리온"
 original = "「ありがたき幸せ！\u3000ですっ！」"
 translation = "「성은이 망극하옵니다! 예요!」"
 
 [[dialogue]]
-speaker = "アルモタヘル"
+speaker_original = "アルモタヘル"
+speaker_translation = "아르모타헬"
 original = "「人の子よ、お前も来い。気分が良い故、馳走してやろう」"
 translation = "「사람의 자식아, 너도 와라. 기분이 좋으니 대접해주마」"
 
@@ -99,82 +115,98 @@ original = "ありがたき幸せ！"
 translation = "성은이 망극하옵니다!"
 
 [[dialogue]]
-speaker = "アルモタヘル"
+speaker_original = "アルモタヘル"
+speaker_translation = "아르모타헬"
 original = "「クレープは……中に詰める具材を客が選ぶのか。これは非常に重要な選択であるな」"
 translation = "「크레이프는…… 안에 채울 재료를 손님이 고르는 건가. 이것은 매우 중요한 선택이로군」"
 
 [[dialogue]]
-speaker = "アルモタヘル"
+speaker_original = "アルモタヘル"
+speaker_translation = "아르모타헬"
 original = "「ふむ。このバナナは良い。実に太くて食いでがありそうだ」"
 translation = "「흠. 이 바나나는 좋군. 실로 굵어서 먹음직스러워 보이는구나」"
 
 [[dialogue]]
-speaker = "イクシリオン"
+speaker_original = "イクシリオン"
+speaker_translation = "익실리온"
 original = "「――ッ！？」"
 translation = "「──윽!?」"
 
 [[dialogue]]
-speaker = "イクシリオン"
+speaker_original = "イクシリオン"
+speaker_translation = "익실리온"
 original = "（太いからという理由でバナナを……ひゃ、ひゃぁあ……！）"
 translation = "（굵다는 이유로 바나나를…… 히, 히야아아……!）"
 
 [[dialogue]]
-speaker = "アルモタヘル"
+speaker_original = "アルモタヘル"
+speaker_translation = "아르모타헬"
 original = "「ほう。チョコレート。これも良い。貰おう」"
 translation = "「호오. 초콜릿. 이것도 좋군. 받도록 하지」"
 
 [[dialogue]]
-speaker = "イクシリオン"
+speaker_original = "イクシリオン"
+speaker_translation = "익실리온"
 original = "（チョコレート……かつて媚薬として重宝されていたと聞きます……それをバナナに……！？）"
 translation = "（초콜릿…… 과거에 미약으로서 중용되었다고 들었습니다…… 그걸 바나나에……!?）"
 
 [[dialogue]]
-speaker = "アルモタヘル"
+speaker_original = "アルモタヘル"
+speaker_translation = "아르모타헬"
 original = "「さらに甘味が欲しいな。よし、トッピングに練乳を足すがよい」"
 translation = "「거기에 단맛을 더 원하노라. 좋아, 토핑으로 연유를 추가하도록 해라」"
 
 [[dialogue]]
-speaker = "イクシリオン"
+speaker_original = "イクシリオン"
+speaker_translation = "익실리온"
 original = "「練乳までっ！？\u3000あぁ、ドロドロの白い液体が太いバナナにたっぷりと……」"
 translation = "「연유까지!? 아아, 걸쭉하고 하얀 액체가 굵은 바나나에 듬뿍……」"
 
 [[dialogue]]
-speaker = "アルモタヘル"
+speaker_original = "アルモタヘル"
+speaker_translation = "아르모타헬"
 original = "「ではいただくとしよう。あーん……」"
 translation = "「그럼 먹어보도록 할까. 아앙……」"
 
 [[dialogue]]
-speaker = "イクシリオン"
+speaker_original = "イクシリオン"
+speaker_translation = "익실리온"
 original = "「あわわ、はわわわ……」"
 translation = "「아와와, 하와와와……」"
 
 [[dialogue]]
-speaker = "アルモタヘル"
+speaker_original = "アルモタヘル"
+speaker_translation = "아르모타헬"
 original = "「どうした？\u3000何かまずいことがあるのか？」"
 translation = "「왜 그러느냐? 뭔가 좋지 않은 일이라도 있나?」"
 
 [[dialogue]]
-speaker = "イクシリオン"
+speaker_original = "イクシリオン"
+speaker_translation = "익실리온"
 original = "「いえっ、クレープはおいしいのですが！\u3000その、ええと……」"
 translation = "「아니요, 크레이프는 맛있습니다만! 그게, 저기……」"
 
 [[dialogue]]
-speaker = "アルモタヘル"
+speaker_original = "アルモタヘル"
+speaker_translation = "아르모타헬"
 original = "「変なやつだな、お前は。そんなに欲しいならくれてやろう」"
 translation = "「이상한 녀석이군, 너는. 그렇게 원한다면 주도록 하마」"
 
 [[dialogue]]
-speaker = "イクシリオン"
+speaker_original = "イクシリオン"
+speaker_translation = "익실리온"
 original = "「ええっ！？\u3000そういう意味ではないのですが……いただきます……」"
 translation = "「에엣!? 그런 의미는 아닙니다만…… 잘 먹겠습니다……」"
 
 [[dialogue]]
-speaker = "イクシリオン"
+speaker_original = "イクシリオン"
+speaker_translation = "익실리온"
 original = "「太いバナナ……気持ちを高ぶらせるチョコレート……白くてドロドロの練乳……ごくり」"
 translation = "「굵은 바나나…… 기분을 고양시키는 초콜릿…… 하얗고 걸쭉한 연유…… 꿀꺽」"
 
 [[dialogue]]
-speaker = "イクシリオン"
+speaker_original = "イクシリオン"
+speaker_translation = "익실리온"
 original = "「それでは……あ、あーん……」"
 translation = "「그럼…… 아, 아앙……」"
 
@@ -184,37 +216,44 @@ original = "なぜかいけないものを見ている気が……"
 translation = "왠지 봐서는 안 될 것을 보고 있는 기분이……"
 
 [[dialogue]]
-speaker = "イクシリオン"
+speaker_original = "イクシリオン"
+speaker_translation = "익실리온"
 original = "「あむっ」"
 translation = "「아암」"
 
 [[dialogue]]
-speaker = "イクシリオン"
+speaker_original = "イクシリオン"
+speaker_translation = "익실리온"
 original = "「ん～っ！\u3000とっても甘くておいしいです！\u3000甘味の三重奏ですね♪」"
 translation = "「음~!! 정말 달콤하고 맛있어요! 단맛의 삼중주네요♪」"
 
 [[dialogue]]
-speaker = "アルモタヘル"
+speaker_original = "アルモタヘル"
+speaker_translation = "아르모타헬"
 original = "「であろう。店主よ、同じものをもう１つ頼む。人の子は……苺とカスタードか。ふむそれも良いな。これも２つもらおう」"
 translation = "「그렇겠지. 주인장, 같은 걸로 하나 더 부탁하마. 사람의 자식은…… 딸기와 커스터드인가. 흠 그것도 좋군. 이것도 두 개 다오」"
 
 [[dialogue]]
-speaker = "アルモタヘル"
+speaker_original = "アルモタヘル"
+speaker_translation = "아르모타헬"
 original = "「もぐもぐ……うむ、美味である」"
 translation = "「우물우물…… 음, 별미로다」"
 
 [[dialogue]]
-speaker = "イクシリオン"
+speaker_original = "イクシリオン"
+speaker_translation = "익실리온"
 original = "「ところでアルモタヘル様。アルモタヘル様を祀るものとして、以前から気になっていたことがあるのですが」"
 translation = "「그나저나 아르모타헬 님. 아르모타헬 님을 모시는 자로서, 이전부터 궁금했던 것이 있습니다만」"
 
 [[dialogue]]
-speaker = "アルモタヘル"
+speaker_original = "アルモタヘル"
+speaker_translation = "아르모타헬"
 original = "「む？」"
 translation = "「음?」"
 
 [[dialogue]]
-speaker = "イクシリオン"
+speaker_original = "イクシリオン"
+speaker_translation = "익실리온"
 original = "「アルモタヘル様は子作りが得意なのでしょうか」"
 translation = "「아르모타헬 님은 자지 만들기가 특기이신가요?」"
 
@@ -224,57 +263,68 @@ original = "ぶふーーっ！？"
 translation = "푸흡──!?"
 
 [[dialogue]]
-speaker = "アルモタヘル"
+speaker_original = "アルモタヘル"
+speaker_translation = "아르모타헬"
 original = "「こら、人の子よ。食べ物を粗末にするな」"
 translation = "「이놈, 사람의 자식아. 음식을 함부로 다루지 마라」"
 
 [[dialogue]]
-speaker = "アルモタヘル"
+speaker_original = "アルモタヘル"
+speaker_translation = "아르모타헬"
 original = "「イクシリオンよ、どうしてそう考えたのだ？」"
 translation = "「이쿠시리온이여, 어찌하여 그렇게 생각한 것이냐?」"
 
 [[dialogue]]
-speaker = "イクシリオン"
+speaker_original = "イクシリオン"
+speaker_translation = "익실리온"
 original = "「《命脈》のアルモタヘル様が守護する摂理は種族──つまり血や命を司るお方」"
 translation = "「《명맥》의 아르모타헬 님께서 수호하시는 섭리는 종족── 즉 피와 생명을 다스리는 분」"
 
 [[dialogue]]
-speaker = "イクシリオン"
+speaker_original = "イクシリオン"
+speaker_translation = "익실리온"
 original = "「であれば、血と命を紡ぐ行為──子作りがお上手であらせられるのかと」"
 translation = "「그렇다면, 피와 생명을 잣는 행위── 아이 만들기가 능숙하시지 않을까 해서요」"
 
 [[dialogue]]
-speaker = "アルモタヘル"
+speaker_original = "アルモタヘル"
+speaker_translation = "아르모타헬"
 original = "「ふむ、なるほど。論理の飛躍はあるが全くの的外れとは言うまい」"
 translation = "「흠, 과연. 논리의 비약은 있다만 아주 틀린 말은 아니구나」"
 
 [[dialogue]]
-speaker = "アルモタヘル"
+speaker_original = "アルモタヘル"
+speaker_translation = "아르모타헬"
 original = "「だが命を司る守護天使は我だけではない。《円環》のラクシャ──ヤツもそうだ」"
 translation = "「허나 생명을 다스리는 수호천사는 나뿐만이 아니다. 《원환》의 라크샤── 그놈도 그렇지」"
 
 [[dialogue]]
-speaker = "アルモタヘル"
+speaker_original = "アルモタヘル"
+speaker_translation = "아르모타헬"
 original = "「ヤツが守護する摂理は『流転』。土が樹を育て、樹は朽ちてまた土となる……そうした世界の循環を司るのがラクシャだ」"
 translation = "「그놈이 수호하는 섭리는 『유전』. 흙이 나무를 키우고, 나무는 썩어 다시 흙이 된다…… 그러한 세계의 순환을 다스리는 것이 라크샤다」"
 
 [[dialogue]]
-speaker = "アルモタヘル"
+speaker_original = "アルモタヘル"
+speaker_translation = "아르모타헬"
 original = "「そして魂の輪廻もヤツの領分。再誕の守護天使と言ってもいいだろう」"
 translation = "「그리고 영혼의 윤회도 그놈의 영역. 재탄의 수호천사라고 해도 좋겠지」"
 
 [[dialogue]]
-speaker = "イクシリオン"
+speaker_original = "イクシリオン"
+speaker_translation = "익실리온"
 original = "「なるほど……」"
 translation = "「과연……」"
 
 [[dialogue]]
-speaker = "イクシリオン"
+speaker_original = "イクシリオン"
+speaker_translation = "익실리온"
 original = "「つまりラクシャ様も子作りがお上手ということですね！」"
 translation = "「즉 라크샤 님도 아이 만들기가 능숙하시다는 거군요!」"
 
 [[dialogue]]
-speaker = "アルモタヘル"
+speaker_original = "アルモタヘル"
+speaker_translation = "아르모타헬"
 original = "「お前は子作りから離れろ！」"
 translation = "「너는 아이 만들기에서 좀 떨어져라!」"
 

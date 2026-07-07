@@ -1,20 +1,24 @@
 [[dialogue]]
-speaker = "リア"
+speaker_original = "リア"
+speaker_translation = "리아"
 original = "「ちょっと待った～～～～っ！！」"
 translation = "「잠깐 기다려~~~~!!」"
 
 [[dialogue]]
-speaker = "聖沙"
+speaker_original = "聖沙"
+speaker_translation = "미사"
 original = "「お姉さま！？」"
 translation = "「언니!?」"
 
 [[dialogue]]
-speaker = "リア"
+speaker_original = "リア"
+speaker_translation = "리아"
 original = "「先輩として、流星クルセイダースの一員として、聖沙ちゃんだけ戦わせるわけにはいかないよ。一緒に頑張ろう、聖沙ちゃん」"
 translation = "「선배로서, 유성 크루세이더즈의 일원으로서, 미사짱만 싸우게 둘 수는 없어. 함께 힘내자, 미사짱」"
 
 [[dialogue]]
-speaker = "聖沙"
+speaker_original = "聖沙"
+speaker_translation = "미사"
 original = "「はい！\u3000お姉さまがいてくれたらきっと無敵です！」"
 translation = "「네! 언니가 있어준다면 분명 무적이에요!」"
 

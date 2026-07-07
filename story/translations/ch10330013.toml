@@ -4,22 +4,26 @@ original = "第３話,強さの向こうに,P"
 translation = "제3화, 강함의 저편에, P"
 
 [[dialogue]]
-speaker = "アニュラス"
+speaker_original = "アニュラス"
+speaker_translation = "아뉴라스"
 original = "「……どうやら収まったようだな」"
 translation = "「……아무래도 진정된 모양이군」"
 
 [[dialogue]]
-speaker = "アニュラス"
+speaker_original = "アニュラス"
+speaker_translation = "아뉴라스"
 original = "「怪我人はいないかっ！？\u3000いたらあちらの救護班のところへ連れていってくれ！」"
 translation = "「부상자는 없는가!? 있다면 저쪽 구호반이 있는 곳으로 데려가 다오!」"
 
 [[dialogue]]
-speaker = "アニュラス"
+speaker_original = "アニュラス"
+speaker_translation = "아뉴라스"
 original = "（……怪我人がゼロ、とはいかないか。私もまだまだ未熟だ）"
 translation = "（……부상자가 제로, 라고는 할 수 없나. 나도 아직 미숙하군）"
 
 [[dialogue]]
-speaker = "アニュラス"
+speaker_original = "アニュラス"
+speaker_translation = "아뉴라스"
 original = "（驕りは捨てろ。また今日から鍛錬のやり直しだ）"
 translation = "（오만은 버려라. 다시 오늘부터 단련을 새로 시작하는 거다）"
 
@@ -29,17 +33,20 @@ original = "アニュラス！\u3000大丈夫か！"
 translation = "아뉴라스! 괜찮아!"
 
 [[dialogue]]
-speaker = "アニュラス"
+speaker_original = "アニュラス"
+speaker_translation = "아뉴라스"
 original = "「ん……新星の会長か。大丈夫だ。そっちこそアステラの攻略は大丈夫だったのか？\u3000流星の星徒会も出動していたみたいだが」"
 translation = "「음…… 신성의 회장인가. 괜찮다. 그쪽이야말로 아스텔라 공략은 괜찮았던 건가? 유성의 성도회도 출동했던 모양이다만」"
 
 [[dialogue]]
-speaker = "アニュラス"
+speaker_original = "アニュラス"
+speaker_translation = "아뉴라스"
 original = "「……心配はない、か。星徒会のメンバーはみな、実力者ばかりだものな」"
 translation = "「……걱정은 없다, 인가. 성도회 멤버는 모두 실력자들뿐이니까 말이지」"
 
 [[dialogue]]
-speaker = "アニュラス"
+speaker_original = "アニュラス"
+speaker_translation = "아뉴라스"
 original = "「私にはまだ実力が足りていない、というのは重々承知している。いつか、アステラの攻略に参加させてもらえるだろうか……」"
 translation = "「나에게는 아직 실력이 부족하다는 것은 충분히 인지하고 있다. 언젠가, 아스텔라 공략에 참가하게 해 줄 수 있을까……」"
 
@@ -49,17 +56,20 @@ original = "実力不足なんてことは、ないと思うよ"
 translation = "실력 부족 같은 건, 아니라고 생각해"
 
 [[dialogue]]
-speaker = "アニュラス"
+speaker_original = "アニュラス"
+speaker_translation = "아뉴라스"
 original = "「いや、すまない。少し弱気になって、変なことを口にした。あくまでも目標の話だ。それに、星徒会に入ること自体には興味がない」"
 translation = "「아니, 미안하다. 조금 약해져서, 이상한 소리를 입에 담았군. 어디까지나 목표 이야기다. 게다가, 성도회에 들어가는 것 자체에는 흥미가 없다」"
 
 [[dialogue]]
-speaker = "アニュラス"
+speaker_original = "アニュラス"
+speaker_translation = "아뉴라스"
 original = "「お父様のような星騎士になるためには、実力を示して星徒会入りを目指すべきなのかもしれないが……」"
 translation = "「아버님 같은 성기사가 되기 위해서는, 실력을 증명해서 성도회 입성을 목표로 해야 할지도 모르겠지만……」"
 
 [[dialogue]]
-speaker = "アニュラス"
+speaker_original = "アニュラス"
+speaker_translation = "아뉴라스"
 original = "「事務仕事のようなことをしている時間がもったいない。私は、強くならなければならないのだ」"
 translation = "「사무 업무 같은 것을 하고 있는 시간이 아깝다. 나는, 강해져야만 한다」"
 
@@ -69,12 +79,14 @@ original = "どうしてそんなに、強さにこだわるんだ？"
 translation = "어째서 그렇게, 강함에 집착하는 거야?"
 
 [[dialogue]]
-speaker = "アニュラス"
+speaker_original = "アニュラス"
+speaker_translation = "아뉴라스"
 original = "「む……まあ、お前になら話してもいいか」"
 translation = "「음…… 뭐, 너에게라면 말해도 괜찮겠지」"
 
 [[dialogue]]
-speaker = "アニュラス"
+speaker_original = "アニュラス"
+speaker_translation = "아뉴라스"
 original = "「……私の母の話だ。母は魔族で、実は自分は魔族と人間のハーフなのだ」"
 translation = "「……내 어머니의 이야기다. 어머니는 마족으로, 사실 나는 마족과 인간의 혼혈이다」"
 
@@ -84,42 +96,50 @@ original = "そうだったのか。初めて知った"
 translation = "그랬었구나. 처음 알았어"
 
 [[dialogue]]
-speaker = "アニュラス"
+speaker_original = "アニュラス"
+speaker_translation = "아뉴라스"
 original = "「あまり大っぴらに話すようなことでもないからな」"
 translation = "「그다지 대놓고 이야기할 만한 일도 아니니까 말이다」"
 
 [[dialogue]]
-speaker = "アニュラス"
+speaker_original = "アニュラス"
+speaker_translation = "아뉴라스"
 original = "「……母も父と同じく、魔界で無双の強さを誇っていた武人だった。話にしか聞いたことはないが、『戦姫』と呼ばれ賞賛されていたほどだったらしい」"
 translation = "「……어머니도 아버지와 마찬가지로, 마계에서 무쌍의 강함을 자랑하던 무인이었다. 이야기로밖에 듣지 못했지만, 『전희』라고 불리며 찬양받았을 정도였던 모양이다」"
 
 [[dialogue]]
-speaker = "アニュラス"
+speaker_original = "アニュラス"
+speaker_translation = "아뉴라스"
 original = "「話にしか聞いたことがないというのは、私が生まれてすぐ、母は亡くなったからだ」"
 translation = "「이야기로밖에 듣지 못했다는 것은, 내가 태어나자마자 어머니께서 돌아가셨기 때문이다」"
 
 [[dialogue]]
-speaker = "アニュラス"
+speaker_original = "アニュラス"
+speaker_translation = "아뉴라스"
 original = "「かつてないほど大規模なアステラが発生し、そのアステラでの戦いで戦死した……と聞かされている」"
 translation = "「전례 없을 정도로 대규모의 아스텔라가 발생했고, 그 아스텔라에서의 전투에서 전사했다……고 전해 들었다」"
 
 [[dialogue]]
-speaker = "アニュラス"
+speaker_original = "アニュラス"
+speaker_translation = "아뉴라스"
 original = "「だが、死体も見つかっていないし、死亡したところを見た人物もいない」"
 translation = "「하지만, 시체도 발견되지 않았고, 사망하는 것을 본 인물도 없다」"
 
 [[dialogue]]
-speaker = "アニュラス"
+speaker_original = "アニュラス"
+speaker_translation = "아뉴라스"
 original = "「要するに、状況としては行方不明、なんだ。お父様も亡くなったと言っているから、疑いたくはないのだが……」"
 translation = "「요컨대, 상황으로서는 행방불명인 게다. 아버님도 돌아가셨다고 말씀하시니 의심하고 싶지는 않다만……」"
 
 [[dialogue]]
-speaker = "アニュラス"
+speaker_original = "アニュラス"
+speaker_translation = "아뉴라스"
 original = "「――私はまだ、どこかで母が生きているんじゃないかと考えているんだ」"
 translation = "「――나는 아직, 어딘가에서 어머니가 살아계신 게 아닐까 생각하고 있다」"
 
 [[dialogue]]
-speaker = "アニュラス"
+speaker_original = "アニュラス"
+speaker_translation = "아뉴라스"
 original = "「そしてその真相は、この学園や、アステラに隠されていると思っている。……といっても正直、まだ見当もついていないんだがな」"
 translation = "「그리고 그 진상은, 이 학원이나 아스텔라에 숨겨져 있다고 생각한다. ……라고 해도 솔직히, 아직 짐작 가는 곳도 없다만 말이다」"
 
@@ -129,32 +149,38 @@ original = "お母さんを探したくて、アステラに？"
 translation = "어머니를 찾고 싶어서, 아스텔라에?"
 
 [[dialogue]]
-speaker = "アニュラス"
+speaker_original = "アニュラス"
+speaker_translation = "아뉴라스"
 original = "「……それもある。だが、私が強さにこだわるのは、仮に母が生きていて、もし何か窮地に立たされていたのだとしたら――」"
 translation = "「……그것도 있다. 하지만, 내가 강함에 집착하는 것은, 만약 어머니가 살아계셔서, 혹시 무언가 곤경에 처해 계신 것이라면――」"
 
 [[dialogue]]
-speaker = "アニュラス"
+speaker_original = "アニュラス"
+speaker_translation = "아뉴라스"
 original = "「私が母を助け出す、その強さを身に着けておかなければならないからだ」"
 translation = "「내가 어머니를 구해낼, 그 강함을 몸에 익혀 두어야만 하기 때문이다」"
 
 [[dialogue]]
-speaker = "アニュラス"
+speaker_original = "アニュラス"
+speaker_translation = "아뉴라스"
 original = "「星徒会に入りたくないのも、この調査の時間を奪われてはたまらないからだ」"
 translation = "「성도회에 들어가고 싶지 않은 것도, 이 조사의 시간을 빼앗기는 것을 견딜 수 없기 때문이다」"
 
 [[dialogue]]
-speaker = "アニュラス"
+speaker_original = "アニュラス"
+speaker_translation = "아뉴라스"
 original = "「私には私のやらなければならないことがある、ということだ」"
 translation = "「나에게는 내가 해야만 하는 일이 있다는 뜻이다」"
 
 [[dialogue]]
-speaker = "アニュラス"
+speaker_original = "アニュラス"
+speaker_translation = "아뉴라스"
 original = "「けが人の搬送まで手伝ってくれて感謝する。私もまだまだ未熟だ。今後より一層精進しなければな」"
 translation = "「부상자 이송까지 도와주어서 고맙다. 나도 아직 미숙하군. 앞으로 더욱더 정진해야겠어」"
 
 [[dialogue]]
-speaker = "アニュラス"
+speaker_original = "アニュラス"
+speaker_translation = "아뉴라스"
 original = "「とは言え、頑張ったのは事実だ。反省すべきことは反省するとして、それとは別に自分に褒美をやらなければな」"
 translation = "「그렇다고는 해도, 열심히 한 것은 사실이다. 반성해야 할 것은 반성하기로 하고, 그것과는 별개로 자신에게 포상을 주어야겠군」"
 
@@ -164,22 +190,26 @@ original = "それは、チョコレート？"
 translation = "그건, 초콜릿?"
 
 [[dialogue]]
-speaker = "アニュラス"
+speaker_original = "アニュラス"
+speaker_translation = "아뉴라스"
 original = "「うむ。頑張ったらチョコレートを食べる。自分へのご褒美だ」"
 translation = "「음. 열심히 하면 초콜릿을 먹는다. 자신을 향한 포상이다」"
 
 [[dialogue]]
-speaker = "アニュラス"
+speaker_original = "アニュラス"
+speaker_translation = "아뉴라스"
 original = "「新星の会長は、自分にご褒美を用意していたりしないのか？」"
 translation = "「신성의 회장은, 자신에게 줄 포상을 준비해 두거나 하지 않는가?」"
 
 [[dialogue]]
-speaker = "アニュラス"
+speaker_original = "アニュラス"
+speaker_translation = "아뉴라스"
 original = "「特にない？\u3000そうか。なら私のチョコレートをわけてやろう。ほら、手を出せ。一口サイズの小さいものだが、とっても甘いぞ？」"
 translation = "「딱히 없어? 그런가. 그럼 내 초콜릿을 나눠 주지. 자, 손을 내밀어라. 한 입 사이즈의 작은 것이지만, 무척 달다고?」"
 
 [[dialogue]]
-speaker = "アニュラス"
+speaker_original = "アニュラス"
+speaker_translation = "아뉴라스"
 original = "「では、いただきます。あーーんっ……んくっ」"
 translation = "「그럼, 잘 먹겠습니다. 아――앙…… 꿀꺽」"
 
@@ -189,12 +219,14 @@ original = "俺も、いただきます"
 translation = "나도, 잘 먹을게"
 
 [[dialogue]]
-speaker = "アニュラス"
+speaker_original = "アニュラス"
+speaker_translation = "아뉴라스"
 original = "「んふふふ……甘いな。昔、お父様が鍛錬の後にご褒美としてくれたんだ。それ以来、ずっとこうしている」"
 translation = "「음후후후…… 달구나. 옛날에 아버님께서 단련 후에 포상으로 주셨었다. 그 이후로, 줄곧 이렇게 하고 있지」"
 
 [[dialogue]]
-speaker = "アニュラス"
+speaker_original = "アニュラス"
+speaker_translation = "아뉴라스"
 original = "「思えば、こうして人と一緒に食べたのは初めてだな……どうだ？\u3000ご褒美の味は。明日からもまた頑張ろうという気にならないか？」"
 translation = "「생각해 보니, 이렇게 남과 함께 먹은 것은 처음이군…… 어떤가? 포상의 맛은. 내일부터 다시 또 힘내야겠다는 기분이 들지 않는가?」"
 
@@ -204,22 +236,26 @@ original = "ああ、頑張ろうって気になってきた"
 translation = "아아, 힘내야겠다는 기분이 들었어"
 
 [[dialogue]]
-speaker = "アニュラス"
+speaker_original = "アニュラス"
+speaker_translation = "아뉴라스"
 original = "「……ふふ、それはよかった。私の貴重なチョコレートをわけ与えた甲斐があったというものだ」"
 translation = "「……후후, 그거 다행이군. 나의 귀중한 초콜릿을 나눠 준 보람이 있었다는 것이군」"
 
 [[dialogue]]
-speaker = "アニュラス"
+speaker_original = "アニュラス"
+speaker_translation = "아뉴라스"
 original = "「自分を高めるために極限まで追い込むことも必要だが、たまの褒美をあげてやらないと潰れてしまうからな」"
 translation = "「자신을 높이기 위해 극한까지 몰아넣는 것도 필요하지만, 가끔은 포상을 주지 않으면 무너져 버리니까 말이다」"
 
 [[dialogue]]
-speaker = "アニュラス"
+speaker_original = "アニュラス"
+speaker_translation = "아뉴라스"
 original = "「お父様の教えだ」"
 translation = "「아버님의 가르침이다」"
 
 [[dialogue]]
-speaker = "アニュラス"
+speaker_original = "アニュラス"
+speaker_translation = "아뉴라스"
 original = "「さあ、事後処理を済ませたら少し鍛錬するか。お前も一緒にどうだ？\u3000学園の外周を１０周ほど走り込もうと思うのだが」"
 translation = "「자, 사후 처리를 끝냈으니 조금 단련해 볼까. 너도 같이 어떠냐? 학원 외곽을 10바퀴 정도 구보할까 생각 중이다만」"
 
@@ -229,12 +265,14 @@ original = "……さすがにもう頑張れない"
 translation = "……역시 더는 힘낼 수 없어"
 
 [[dialogue]]
-speaker = "アニュラス"
+speaker_original = "アニュラス"
+speaker_translation = "아뉴라스"
 original = "「チョコレートをわけてやっただろう？\u3000それに稽古をつけるとも約束したな？」"
 translation = "「초콜릿을 나눠주지 않았느냐? 게다가 대련을 해주겠다고 약속도 했었지?」"
 
 [[dialogue]]
-speaker = "アニュラス"
+speaker_original = "アニュラス"
+speaker_translation = "아뉴라스"
 original = "「というわけで、これも稽古だ！\u3000ほら、一緒に走るぞ！」"
 translation = "「그런 고로, 이것도 수행이다! 자, 같이 뛰는 거다!」"
 

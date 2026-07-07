@@ -19,7 +19,8 @@ original = "それから数日後──"
 translation = "그로부터 며칠 뒤──"
 
 [[dialogue]]
-speaker = "イングリット"
+speaker_original = "イングリット"
+speaker_translation = "잉그리드"
 original = "「じーーっ」"
 translation = "「지이익──」"
 
@@ -29,12 +30,14 @@ original = "俺は事件の犯人にストーキングされていた。"
 translation = "나는 사건의 범인에게 스토킹 당하고 있었다."
 
 [[dialogue]]
-speaker = "イングリット"
+speaker_original = "イングリット"
+speaker_translation = "잉그리드"
 original = "「じーーーー……」"
 translation = "「지이이이익──……」"
 
 [[dialogue]]
-speaker = "イングリット"
+speaker_original = "イングリット"
+speaker_translation = "잉그리드"
 original = "「クク……魔王め。この私に隙を見せるとは甘いな。このまま闇討ちでもしてやろうか」"
 translation = "「크크…… 마왕 녀석. 나에게 빈틈을 보이다니 무르군. 이대로 기습이라도 해줄까.」"
 
@@ -44,7 +47,8 @@ original = "いや、バレバレだから"
 translation = "아니, 다 들키고 있거든."
 
 [[dialogue]]
-speaker = "イングリット"
+speaker_original = "イングリット"
+speaker_translation = "잉그리드"
 original = "「ふっ、よく私の存在に気づいたな。少し殺気を出し過ぎたか」"
 translation = "「훗, 내 존재를 잘도 알아챘군. 살기를 너무 내뿜었나.」"
 
@@ -54,12 +58,14 @@ original = "コラプサーが堂々と何の用？"
 translation = "콜랩서가 당당하게 무슨 용건이야?"
 
 [[dialogue]]
-speaker = "イングリット"
+speaker_original = "イングリット"
+speaker_translation = "잉그리드"
 original = "「何の用だと？\u3000そんなのひとつに決まっているだろう」"
 translation = "「무슨 용건이냐고? 그런 건 하나로 정해져 있지 않나.」"
 
 [[dialogue]]
-speaker = "イングリット"
+speaker_original = "イングリット"
+speaker_translation = "잉그리드"
 original = "「この私と戦え。私は今血に飢えている。早く変身しろ」"
 translation = "「나와 싸워라. 나는 지금 피에 굶주려 있다. 어서 변신해라.」"
 
@@ -69,127 +75,152 @@ original = "こんな街中では戦えない"
 translation = "이런 길거리에서는 싸울 수 없어."
 
 [[dialogue]]
-speaker = "イングリット"
+speaker_original = "イングリット"
+speaker_translation = "잉그리드"
 original = "「何故だ？\u3000貴様は魔王なのだろう？\u3000悪逆の化身ではなかったのか？」"
 translation = "「어째서지? 네놈은 마왕이 아닌가? 악역무도의 화신이 아니었단 말이냐?」"
 
 [[dialogue]]
-speaker = "イングリット"
+speaker_original = "イングリット"
+speaker_translation = "잉그리드"
 original = "「……俺は街を守る星騎士だ？\u3000ハンッ、魔王と呼ばれる者が随分お優しいことだな」"
 translation = "「……나는 거리를 지키는 성기사다? 흥, 마왕이라 불리는 자가 꽤나 상냥하시군.」"
 
 [[dialogue]]
-speaker = "イングリット"
+speaker_original = "イングリット"
+speaker_translation = "잉그리드"
 original = "「だが私はどれだけ街が壊れようが構わない。私の闘争心が満たされればそれでいい……！」"
 translation = "「하지만 나는 거리가 얼마나 부서지든 상관없다. 나의 투쟁심만 채워진다면 그걸로 족해……!」"
 
 [[dialogue]]
-speaker = "カティア"
+speaker_original = "カティア"
+speaker_translation = "카티아"
 original = "「いいわけないワン！」"
 translation = "「그럴 리가 없다멍!」"
 
 [[dialogue]]
-speaker = "イングリット"
+speaker_original = "イングリット"
+speaker_translation = "잉그리드"
 original = "「なんだ犬か。急に現れてどうした」"
 translation = "「뭐냐 개냐. 갑자기 나타나서 무슨 일이지.」"
 
 [[dialogue]]
-speaker = "カティア"
+speaker_original = "カティア"
+speaker_translation = "카티아"
 original = "「どうもこうもないワン！\u3000魔王様に迷惑をかけるだけじゃなくて、街まで破壊しようとするなんて許せないガオ！」"
 translation = "「무슨 일이냐니! 마왕님께 민폐를 끼치는 것뿐만 아니라 거리까지 파괴하려 들다니 용서 못 한다가오!」"
 
 [[dialogue]]
-speaker = "イングリット"
+speaker_original = "イングリット"
+speaker_translation = "잉그리드"
 original = "「フン、貴様の許しなど誰も求めていない」"
 translation = "「흥, 네놈의 허락 따위 아무도 구하지 않았다.」"
 
 [[dialogue]]
-speaker = "カティア"
+speaker_original = "カティア"
+speaker_translation = "카티아"
 original = "「なんて自己中なやつだワン……。世界は自分を中心に回っているとでも思ってるんじゃないガオ？」"
 translation = "「이 얼마나 자기중심적인 녀석이냐멍……. 세계가 자기 위주로 돌아간다고 생각하는 거 아니냐가오?」"
 
 [[dialogue]]
-speaker = "イングリット"
+speaker_original = "イングリット"
+speaker_translation = "잉그리드"
 original = "「何を当然のことを。私の中心はこの私だ」"
 translation = "「당연한 소리를. 나의 중심은 바로 나다.」"
 
 [[dialogue]]
-speaker = "カティア"
+speaker_original = "カティア"
+speaker_translation = "카티아"
 original = "「言い切った！？\u3000どういう育て方をしたら、こんなモンスターが生まれるガオ……」"
 translation = "「단언했어!? 도대체 어떻게 키워야 이런 괴물이 태어나는 거냐가오……」"
 
 [[dialogue]]
-speaker = "イングリット"
+speaker_original = "イングリット"
+speaker_translation = "잉그리드"
 original = "「それよりも犬、そこをどけ。私は魔王に用があるんだ」"
 translation = "「그것보다 개, 비켜라. 나는 마왕에게 용건이 있다.」"
 
 [[dialogue]]
-speaker = "カティア"
+speaker_original = "カティア"
+speaker_translation = "카티아"
 original = "「どかないワン。お前みたいな人格破綻者を魔王様に近づけるわけにはいかないワン」"
 translation = "「못 비킨다멍. 너 같은 인격 파탄자를 마왕님께 접근하게 할 수는 없다멍.」"
 
 [[dialogue]]
-speaker = "イングリット"
+speaker_original = "イングリット"
+speaker_translation = "잉그리드"
 original = "「ならば斬り捨てるまで」"
 translation = "「그렇다면 베어버릴 뿐.」"
 
 [[dialogue]]
-speaker = "カティア"
+speaker_original = "カティア"
+speaker_translation = "카티아"
 original = "「うっ……大体この前魔王様に負けたくせに、また戦おうだなんて無謀だワン」"
 translation = "「윽…… 애당초 지난번에 마왕님께 졌으면서 또 싸우려 들다니 무모하다멍.」"
 
 [[dialogue]]
-speaker = "イングリット"
+speaker_original = "イングリット"
+speaker_translation = "잉그리드"
 original = "「私は負けてなどいない。犬と槍女が邪魔しなければ勝っていた」"
 translation = "「나는 지지 않았다. 개와 창을 든 여자가 방해하지 않았다면 이겼을 것이다.」"
 
 [[dialogue]]
-speaker = "カティア"
+speaker_original = "カティア"
+speaker_translation = "카티아"
 original = "「ザコならいてもいいって言ったのはお前だガオ」"
 translation = "「조무래기라면 있어도 좋다고 말한 건 너였다가오.」"
 
 [[dialogue]]
-speaker = "イングリット"
+speaker_original = "イングリット"
+speaker_translation = "잉그리드"
 original = "「貴様との問答は時間の無駄だ。さぁ魔王、一戦交えようじゃないか」"
 translation = "「네놈과의 문답은 시간 낭비다. 자, 마왕, 일전을 겨뤄보자고.」"
 
 [[dialogue]]
-speaker = "カティア"
+speaker_original = "カティア"
+speaker_translation = "카티아"
 original = "「むむむ……なら魔王様と戦う前に私と勝負だワン！」"
 translation = "「으으으…… 그렇다면 마왕님과 싸우기 전에 나랑 승부다멍!」"
 
 [[dialogue]]
-speaker = "イングリット"
+speaker_original = "イングリット"
+speaker_translation = "잉그리드"
 original = "「犬が私と勝負だと？\u3000死にたいのか？」"
 translation = "「개가 나와 승부라고? 죽고 싶은 거냐?」"
 
 [[dialogue]]
-speaker = "カティア"
+speaker_original = "カティア"
+speaker_translation = "카티아"
 original = "「誰も暴力で勝負だなんて言ってないガオ！\u3000ここは平和的に大食いバトルを挑むワン！」"
 translation = "「아무도 폭력으로 승부하자고 안 했다가오! 여기선 평화롭게 대식가 배틀을 제안한다멍!」"
 
 [[dialogue]]
-speaker = "イングリット"
+speaker_original = "イングリット"
+speaker_translation = "잉그리드"
 original = "「大食いバトル……？」"
 translation = "「대식가 배틀……?」"
 
 [[dialogue]]
-speaker = "カティア"
+speaker_original = "カティア"
+speaker_translation = "카티아"
 original = "「そうガオ。流星市国には歴戦のフードファイターも恐れをなす爆盛り中華料理屋があるワン」"
 translation = "「그렇다가오. 유성시국에는 역전의 푸드 파이터들도 겁에 질려 도망가는 산더미 곱빼기 중화요리 집이 있다멍.」"
 
 [[dialogue]]
-speaker = "カティア"
+speaker_original = "カティア"
+speaker_translation = "카티아"
 original = "「そこでスペシャルチャーハンを完食出来たら魔王様と戦っていいガオ」"
 translation = "「거기서 스페셜 볶음밥을 완식하면 마왕님과 싸워도 좋다멍.」"
 
 [[dialogue]]
-speaker = "イングリット"
+speaker_original = "イングリット"
+speaker_translation = "잉그리드"
 original = "「フン、いいだろう。たかがチャーハンなど私の敵ではない」"
 translation = "「흥, 좋지. 고작 볶음밥 따위 내 적이 아니다.」"
 
 [[dialogue]]
-speaker = "カティア"
+speaker_original = "カティア"
+speaker_translation = "카티아"
 original = "「魔王様すみません、勝手に勝負の内容を決めてしまって……この場所で戦わせないためにはこれくらいしか思いつかなくて……」"
 translation = "「마왕님 죄송합니다, 마음대로 승부 내용을 정해버려서…… 이 장소에서 싸우게 하지 않으려면 이것밖에 안 떠올라서……」"
 
@@ -199,67 +230,80 @@ original = "大丈夫。カティアのこと信じてるから"
 translation = "괜찮아. 카티아를 믿고 있으니까."
 
 [[dialogue]]
-speaker = "カティア"
+speaker_original = "カティア"
+speaker_translation = "카티아"
 original = "「魔王様……！\u3000ありがとうございますワン！」"
 translation = "「마왕님……! 감사합니다 멍!」"
 
 [[dialogue]]
-speaker = "イングリット"
+speaker_original = "イングリット"
+speaker_translation = "잉그리드"
 original = "「さあ犬、私をその中華料理屋に案内しろ。丁度腹が減ってきたところだ」"
 translation = "「자, 개여. 나를 그 중화요리 집으로 안내해라. 마침 배가 고파지던 참이었다.」"
 
 [[dialogue]]
-speaker = "カティア"
+speaker_original = "カティア"
+speaker_translation = "카티아"
 original = "「付いてくるがいいワン……！\u3000そして後悔するがいいガオ！」"
 translation = "「따라오라멍……! 그리고 후회해라가오!」"
 
 [[dialogue]]
-speaker = "イングリット"
+speaker_original = "イングリット"
+speaker_translation = "잉그리드"
 original = "「この私が負けるわけがない。舐めるなよ、犬」"
 translation = "「내가 질 리가 없다. 얕보지 마라, 개.」"
 
 [[dialogue]]
-speaker = "イングリット"
+speaker_original = "イングリット"
+speaker_translation = "잉그리드"
 original = "「うぐっ……！\u3000１０キロのチャーハンなど食い切れるか……！！」"
 translation = "「우구윽……! 10킬로나 되는 볶음밥을 다 먹을 수 있을 리가……!!」"
 
 [[dialogue]]
-speaker = "カティア"
+speaker_original = "カティア"
+speaker_translation = "카티아"
 original = "「あんなに自信満々だったから完食されるかと思ったけど……全然余裕だったガオ」"
 translation = "「저렇게 자신만만했으니 다 먹을 줄 알았는데…… 완전 여유였다가오.」"
 
 [[dialogue]]
-speaker = "イングリット"
+speaker_original = "イングリット"
+speaker_translation = "잉그리드"
 original = "「そもそも、こんな量のチャーハンを食った後で戦えるわけがないだろ！」"
 translation = "「애초에 이런 양의 볶음밥을 먹고 나서 싸울 수 있을 리가 없잖아!」"
 
 [[dialogue]]
-speaker = "カティア"
+speaker_original = "カティア"
+speaker_translation = "카티아"
 original = "「今ごろ気づいたワン？\u3000最初から魔王様と戦わせるつもりなんて、これっぽっちもなかったガオ」"
 translation = "「이제야 깨달았냐멍? 처음부터 마왕님이랑 싸우게 할 생각 따위 눈곱만큼도 없었다가오.」"
 
 [[dialogue]]
-speaker = "イングリット"
+speaker_original = "イングリット"
+speaker_translation = "잉그리드"
 original = "「犬め、<ruby>謀った<rt>たばかった</rt></ruby>な……！」"
 translation = "「개 녀석, 나를 속였구나……!」"
 
 [[dialogue]]
-speaker = "カティア"
+speaker_original = "カティア"
+speaker_translation = "카티아"
 original = "「人聞きが悪いワン。こんなのに引っかかる方が悪いワン」"
 translation = "「듣기 거북하다멍. 이런 거에 낚이는 쪽이 잘못이다멍.」"
 
 [[dialogue]]
-speaker = "イングリット"
+speaker_original = "イングリット"
+speaker_translation = "잉그리드"
 original = "「く……魔王よ、勝負は預けたぞ！」"
 translation = "「큭…… 마왕이여, 승부는 미뤄두지!」"
 
 [[dialogue]]
-speaker = "カティア"
+speaker_original = "カティア"
+speaker_translation = "카티아"
 original = "「ふぅ……なんとか危機は去りましたね、魔王様。街の平和が守られてよかったです……」"
 translation = "「후우…… 어떻게든 위기는 넘겼네요, 마왕님. 거리의 평화가 지켜져서 다행이에요……」"
 
 [[dialogue]]
-speaker = "カティア"
+speaker_original = "カティア"
+speaker_translation = "카티아"
 original = "「ただその……爆盛りチャーハンを１人で食べきれなかったらお金を払わないといけなくて……」"
 translation = "「다만 그게…… 산더미 볶음밥을 혼자서 다 못 먹으면 돈을 내야 해서……」"
 
@@ -269,7 +313,8 @@ original = "……俺も払うよ"
 translation = "……나도 같이 낼게."
 
 [[dialogue]]
-speaker = "カティア"
+speaker_original = "カティア"
+speaker_translation = "카티아"
 original = "「うわーん！\u3000魔王様すみませんっ！！」"
 translation = "「으와아앙! 마왕님 죄송합니다!!」"
 

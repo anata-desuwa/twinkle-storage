@@ -4,7 +4,8 @@ original = "第２話,サーフィンバトル！,P"
 translation = "제2화, 서핑 배틀!, P"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「勝負です、緋宮会長！」"
 translation = "「승부입니다, 히노미야 회장!」"
 
@@ -14,7 +15,8 @@ original = "いきなり何！？"
 translation = "갑자기 뭐야!?"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「……なんて、サーフィンの練習のためにリップルさんに結界を作ってもらったので、どうせなら勝負してみたいと思いまして。いかがですか？」"
 translation = "「……라니, 서핑 연습을 위해 리플 씨에게 결계를 만들어 달라고 했으니, 이왕이면 승부해 보고 싶어서요. 어떻습니까?」"
 
@@ -24,47 +26,56 @@ original = "それなら受けて立つ！"
 translation = "그렇다면 받아주지!"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「ありがとうございます。この前はお世話になりましたが、負けるつもりはありませんよ」"
 translation = "「감사합니다. 지난번에는 신세를 졌습니다만, 질 생각은 없습니다」"
 
 [[dialogue]]
-speaker = "リップル"
+speaker_original = "リップル"
+speaker_translation = "리플"
 original = "「カイチョ～！\u3000フィオナ～！\u3000結界の調整終わッタです。これでイイ感じの波が来るハズですヨ～」"
 translation = "「회장~! 피오나~! 결계 조정 끝났슴다. 이걸로 좋은 느낌의 파도가 올 거예욧~」"
 
 [[dialogue]]
-speaker = "リップル"
+speaker_original = "リップル"
+speaker_translation = "리플"
 original = "「オ～！\u3000ソレ、フィオナのマイボードですカ？\u3000とってもカッコイイで～す！」"
 translation = "「오~! 그거, 피오나의 마이 보드임까? 엄청 멋있슴다~!」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「えへへ……サーフィンが楽しくて、つい買ってしまいました。このサーフボードに恥じない波乗りをしてみせます！」"
 translation = "「에헤헤…… 서핑이 즐거워서, 그만 사버렸습니다. 이 서프보드에 부끄럽지 않은 파도타기를 보여드리겠습니다!」"
 
 [[dialogue]]
-speaker = "リップル"
+speaker_original = "リップル"
+speaker_translation = "리플"
 original = "「そのイキです！」"
 translation = "「그 기세임다!」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「緋宮会長とサーフィンで勝負をしたいのですが、審査員を引き受けていただけませんか？」"
 translation = "「히노미야 회장과 서핑으로 승부를 하고 싶은데, 심판을 맡아주시겠어요?」"
 
 [[dialogue]]
-speaker = "リップル"
+speaker_original = "リップル"
+speaker_translation = "리플"
 original = "「もちろんオーケーです！\u3000でもその前に、ちょっと慣らした方がイイんじゃないですカ？」"
 translation = "「물론 오케이임다! 근데 그 전에, 좀 익숙해지는 게 좋지 않슴까?」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「そうですね。感覚を取り戻したいですし、会長さんも一緒に練習しましょう」"
 translation = "「그렇네요. 감각을 되찾고 싶고, 회장님도 함께 연습합시다」"
 
 [[dialogue]]
-speaker = "リップル"
+speaker_original = "リップル"
+speaker_translation = "리플"
 original = "「みんなで海に入りまショ～！\u3000オオ、さっそくいい波が来テます！」"
 translation = "「다 같이 바다에 들어갑시닷~! 오오, 벌써 좋은 파도가 오고 있슴다!」"
 
@@ -74,72 +85,86 @@ original = "じゃあ俺から……"
 translation = "그럼 나부터……"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「パドリングで加速して……テイクオフ！\u3000いい感じですよ、緋宮会長」"
 translation = "「패들링으로 가속하고…… 테이크 오프! 좋은 느낌이에요, 히노미야 회장」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「そして波に乗ってリッピング！\u3000勢いよく水しぶきが上がってます！」"
 translation = "「그리고 파도를 타고 리핑! 기세 좋게 물보라가 솟아오르고 있습니다!」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「では私も……っと」"
 translation = "「그럼 저도…… 읏」"
 
 [[dialogue]]
-speaker = "リップル"
+speaker_original = "リップル"
+speaker_translation = "리플"
 original = "「フィオナも波に乗ッタです♪\u3000アップスダウンでスピードをつけて～……カットバックで切り返して～……エアリエル！\u3000フィオナさすがでーす♪」"
 translation = "「피오나도 파도를 탔슴다♪ 업스 다운으로 스피드를 올리고~…… 컷백으로 방향을 틀고~…… 에어리얼! 피오나 역시 대단함다♪」"
 
 [[dialogue]]
-speaker = "リップル"
+speaker_original = "リップル"
+speaker_translation = "리플"
 original = "「２人を見てたらワタシも波に乗りたくナリました♪\u3000行きますヨ～……」"
 translation = "「두 분을 보니까 저도 파도를 타고 싶어졌슴다♪ 갑니닷~……」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「リップルさんが大きな波に乗って……」"
 translation = "「리플 씨가 큰 파도를 타고……」"
 
 [[dialogue]]
-speaker = "リップル"
+speaker_original = "リップル"
+speaker_translation = "리플"
 original = "「トォ～！」"
 translation = "「토오~!」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「すごい！\u3000あんなに高い波のトップでターンして……見事なオフザリップです！」"
 translation = "「대단해! 저렇게 높은 파도의 정상에서 턴을 하고…… 멋진 오프 더 립입니다!」"
 
 [[dialogue]]
-speaker = "リップル"
+speaker_original = "リップル"
+speaker_translation = "리플"
 original = "「フッフ～ン♪\u3000今のは自分でも決まっタ──って思イました♪」"
 translation = "「훗훗~♪ 방금 건 스스로도 성공했다──고 생각했슴다♪」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「私もあんな風に大きな波で……きゃっ」"
 translation = "「저도 저렇게 큰 파도에서…… 꺅」"
 
 [[dialogue]]
-speaker = "リップル"
+speaker_original = "リップル"
+speaker_translation = "리플"
 original = "「焦りは禁物です、フィオナ。勝負で勝ちたいのはワカリますが、もっと力を抜きましょー」"
 translation = "「조급해하는 건 금물임다, 피오나. 승부에서 이기고 싶은 건 알겠지만, 좀 더 힘을 뺍시닷~」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「そうですね。力んでいては、乗れる波も乗れませんから」"
 translation = "「그렇네요. 힘을 주면, 탈 수 있는 파도도 못 타니까요」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「ふぅ、少し休憩です。慣らしなのに夢中になりすぎましたかね……」"
 translation = "「후우, 잠시 휴식입니다. 몸풀기인데 너무 열중했나요……」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「と見せかけて、それっ」"
 translation = "「인 척하고, 에잇」"
 
@@ -149,62 +174,74 @@ original = "うわっ、水が！？"
 translation = "우왓, 물이!?"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「ふふ、海といえば水をかけ合って遊ぶものと教わりましたからね。悔しかったらやり返してみてください」"
 translation = "「후후, 바다라고 하면 물을 서로 뿌리며 노는 것이라고 배웠으니까요. 분하다면 되갚아보세요」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「きゃっ！？\u3000やりましたね。ではこちらも本気でいきますよ……えいっ」"
 translation = "「꺅!? 해냈네요. 그럼 이쪽도 진심으로 갈게요…… 에잇」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「やるからには水かけでも本気ですよ♪\u3000そーれっ」"
 translation = "「할 거라면 물 뿌리기라도 진심이에요♪ 소ー렛」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「ふふふっ、うふふふふ♪」"
 translation = "「후후훗, 우후후후훗♪」"
 
 [[dialogue]]
-speaker = "リップル"
+speaker_original = "リップル"
+speaker_translation = "리플"
 original = "「ムフ～」"
 translation = "「무훗~」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「──あ」"
 translation = "「──아」"
 
 [[dialogue]]
-speaker = "リップル"
+speaker_original = "リップル"
+speaker_translation = "리플"
 original = "「カイチョーとフィオナ、とっても、とっても仲良しサンでーす。イイんですよ、水遊びで勝敗を付けテモ」"
 translation = "「회장과 피오나, 엄청, 엄청 사이좋네욧~. 괜찮슴다, 물놀이로 승패를 정해돗」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「あはは、はは……もちろんリップルさんのことは忘れていませんよ」"
 translation = "「아하하, 하하…… 물론 리플 씨를 잊은 건 아니에요」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「ではサーフィン勝負を始めましょうっ。負けても恨みっこなしです」"
 translation = "「그럼 서핑 승부를 시작합시다! 져도 원망하기 없기입니다」"
 
 [[dialogue]]
-speaker = "リップル"
+speaker_original = "リップル"
+speaker_translation = "리플"
 original = "「ハイハーイ！\u3000負けた方は勝った方の言うことをひとつ聞く、というのはどうデスカ？」"
 translation = "「네이네이! 진 쪽이 이긴 쪽의 말 한 가지를 듣는 건 어떻슴까?」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「いいですね。その提案、乗りました」"
 translation = "「좋네요. 그 제안, 받아들이겠습니다」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「だって、何かが懸かっている方が勝負は燃えるじゃないですか。それとも……緋宮会長は私に勝つ自信がないんですか？」"
 translation = "「왜냐하면, 무언가가 걸려 있어야 승부가 더 불타오르지 않습니까. 아니면…… 히노미야 회장은 저에게 이길 자신이 없으신가요?」"
 
@@ -214,57 +251,68 @@ original = "そこまで言うならやってやる！"
 translation = "거기까지 말한다면 해 주지!"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「ふふ。では私から行かせてもらいます。波が来て……もう少し……今です！」"
 translation = "「후후. 그럼 제가 먼저 가겠습니다. 파도가 오고…… 조금 더…… 지금입니다!」"
 
 [[dialogue]]
-speaker = "リップル"
+speaker_original = "リップル"
+speaker_translation = "리플"
 original = "「ベストタイミング！\u3000波を掴みマシた！」"
 translation = "「베스트 타이밍! 파도를 잡았슴다!」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「アップスライドで勢いを保って……このまま……」"
 translation = "「업스 라이드로 기세를 유지하고…… 이대로……」"
 
 [[dialogue]]
-speaker = "リップル"
+speaker_original = "リップル"
+speaker_translation = "리플"
 original = "「おお、ノーズライディング！\u3000ボードの先端に乗る高難度技です！\u3000そこから元のポジションに戻って……得意のエアリエル！\u3000スバラシイです！」"
 translation = "「오오, 노즈 라이딩! 보드 끝에 타는 고난도 기술임다! 거기서 원래 포지션으로 돌아와서…… 특기인 에어리얼! 훌륭함다!」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「ふぅ……今の自分の全てが出せたと思います」"
 translation = "「후우…… 지금 저의 모든 것을 보여줄 수 있었다고 생각합니다」"
 
 [[dialogue]]
-speaker = "リップル"
+speaker_original = "リップル"
+speaker_translation = "리플"
 original = "「カイチョー、今のフィオナに勝つのはムズカシイですよ～？\u3000覚悟はイイですか？\u3000では……ゴー！」"
 translation = "「회장, 지금의 피오나를 이기는 건 어려울 거예욧~? 각오는 됐슴까? 그럼…… 고!」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「まずは波に乗って、ボトムターンで加速……手堅い立ち上がりです」"
 translation = "「우선 파도를 타고, 보텀 턴으로 가속…… 안정적인 출발입니다」"
 
 [[dialogue]]
-speaker = "リップル"
+speaker_original = "リップル"
+speaker_translation = "리플"
 original = "「カットバックで方向転換して……波のトップでオフザリップ！\u3000これはいい勝負に──おおっと、大波が来ましたよ～！\u3000カイチョーはどうシますか！？」"
 translation = "「컷백으로 방향 전환하고…… 파도 정상에서 오프 더 립! 이건 좋은 승부가── 오옷, 큰 파도가 왔슴다~! 회장은 어떻게 할 검까!?」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「ここでチューブライディング！？\u3000波のトンネルを抜ける大技を……！？」"
 translation = "「여기서 튜브 라이딩!? 파도의 터널을 빠져나가는 대기술을……!?」"
 
 [[dialogue]]
-speaker = "リップル"
+speaker_original = "リップル"
+speaker_translation = "리플"
 original = "「ワオ♪\u3000ＢＩＧマーベラス！\u3000カイチョーの勝ちでーす！」"
 translation = "「와우♪ BIG 마블러스! 회장의 승리임다!」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「これは素直に負けを認めざるを得ませんね。おみそれしました」"
 translation = "「이건 순순히 패배를 인정할 수밖에 없겠네요. 감탄했습니다」"
 
@@ -274,12 +322,14 @@ original = "まぐれだけどなんとかなった……"
 translation = "요행이지만 어떻게든 됐다……"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「いいえ、きっと実力ですよ。ところで勝った方の言うことを聞くという約束は……あら、考えてなかったって顔ですね」"
 translation = "「아뇨, 분명 실력일 거예요. 그런데 이긴 쪽의 말을 듣는다는 약속은…… 어라, 생각 안 했다는 표정이네요」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「私は逃げませんので、どうしたいか考えておいてくださいね」"
 translation = "「저는 도망가지 않을 테니, 어떻게 하고 싶은지 생각해 두세요.」"
 

@@ -1,30 +1,36 @@
 [[dialogue]]
-speaker = "イクシリオン"
+speaker_original = "イクシリオン"
+speaker_translation = "익실리온"
 original = "「はぁ、はぁ……」"
 translation = "「하아, 하아……」"
 
 [[dialogue]]
-speaker = "イクシリオン"
+speaker_original = "イクシリオン"
+speaker_translation = "익실리온"
 original = "「はぁ、はぁ、はぁ……！」"
 translation = "「하아, 하아, 하아……!」"
 
 [[dialogue]]
-speaker = "イクシリオン"
+speaker_original = "イクシリオン"
+speaker_translation = "익실리온"
 original = "「はぁ、はぁ、はぁ、はぁ……！！」"
 translation = "「하아, 하아, 하아, 하아……!!」"
 
 [[dialogue]]
-speaker = "イクシリオン"
+speaker_original = "イクシリオン"
+speaker_translation = "익실리온"
 original = "「ぷはぁ……！！\u3000もう限界です……！！\u3000じっと見つめられると、立っていられな──……」"
 translation = "「푸하……!! 이제 한계예요어……!! 가만히 응시당하면, 서 있지 못하──……」"
 
 [[dialogue]]
-speaker = "ルリエル"
+speaker_original = "ルリエル"
+speaker_translation = "루리엘"
 original = "「わわっ！？\u3000大丈夫ですか、イクシーさん！？」"
 translation = "「와왓!? 괜찮으세욧, 익시 씨!?」"
 
 [[dialogue]]
-speaker = "イクシリオン"
+speaker_original = "イクシリオン"
+speaker_translation = "익실리온"
 original = "「す、すみません。身体の力が抜けてしまって……」"
 translation = "「죄, 죄송해요어. 몸에 힘이 빠져버려서……」"
 
@@ -34,42 +40,50 @@ original = "まさか見つめるだけで倒れるなんて……"
 translation = "설마 쳐다보는 것만으로 쓰러지다니……"
 
 [[dialogue]]
-speaker = "イクシリオン"
+speaker_original = "イクシリオン"
+speaker_translation = "익실리온"
 original = "「うぅ、これでも周りの視線を意識しないように耐えていた方なんです……。ですが面と向かって凝視されると耐えられなくなって……」"
 translation = "「으으, 이래 봬도 주변 시선을 의식하지 않으려고 버텼던 편이에요어……. 하지만 정면에서 응시당하면 버틸 수 없게 돼서……」"
 
 [[dialogue]]
-speaker = "ルリエル"
+speaker_original = "ルリエル"
+speaker_translation = "루리엘"
 original = "「気持ちはわかりますよぉ。水着って露出が多いですもんね～。ジロジロ見つめられると恥ずかしいですもん」"
 translation = "「기분은 이해해욧. 수영복은 노출이 많으니까요어~. 빤히 쳐다보이면 부끄럽죠어」"
 
 [[dialogue]]
-speaker = "イクシリオン"
+speaker_original = "イクシリオン"
+speaker_translation = "익실리온"
 original = "「は、はい。全くその通りで。こんな過激な姿で堂々と外を歩いてる自分を意識するだけでも、昂ぶってしまうくらいでして……」"
 translation = "「네, 네. 정말 말씀하신 대로예요어. 이런 과격한 모습으로 당당히 밖을 걷고 있는 자신을 의식하는 것만으로도, 흥분되어 버릴 정도라서요어……」"
 
 [[dialogue]]
-speaker = "ルリエル"
+speaker_original = "ルリエル"
+speaker_translation = "루리엘"
 original = "「あ、それもわかります……！\u3000海で水着になるのって特別感がありますよね！\u3000とっても爽快な気分になって、ドキドキしちゃいますもん！」"
 translation = "「아, 그것도 이해해욧! 바다에서 수영복을 입는 건 특별한 기분이 들죠어! 정말 상쾌한 기분이 돼서 두근두근거리니까요어!」"
 
 [[dialogue]]
-speaker = "イクシリオン"
+speaker_original = "イクシリオン"
+speaker_translation = "익실리온"
 original = "「全くその通りで……！\u3000すれ違う人から視線を向けられるたびに、心がゾクゾクしてしまいますし……！」"
 translation = "「정말 말씀하신 대로예요어……! 스쳐 지나가는 사람에게 시선을 받을 때마다, 마음이 조마조마해져 버리고요어……!」"
 
 [[dialogue]]
-speaker = "ルリエル"
+speaker_original = "ルリエル"
+speaker_translation = "루리엘"
 original = "「同じ気持ちです～！\u3000普段より断然視線が集まってきますもんね！\u3000えへへ、なんだか女優さんにでもなった気分です！」"
 translation = "「같은 기분이에욧~! 평소보다 훨씬 시선이 모이니까요어! 에헤헤, 왠지 여배우라도 된 기분이에욧!」"
 
 [[dialogue]]
-speaker = "イクシリオン"
+speaker_original = "イクシリオン"
+speaker_translation = "익실리온"
 original = "「女優さ──～～っっ！\u3000全くその通りで！\u3000いつオイルマッサージに誘われてしまうのかと、気が気でないと言いますか……！」"
 translation = "「여배우──~~윽! 정말 말씀하신 대로예요어! 언제 오일 마사지에 초대받을까 봐 조마조마하다고 할까……!」"
 
 [[dialogue]]
-speaker = "ルリエル"
+speaker_original = "ルリエル"
+speaker_translation = "루리엘"
 original = "「わかりますよ～！\u3000美味しいものもたくさんありますからね！\u3000海の家の人に勧められたらほいほい買っちゃいそうですもん！」"
 translation = "「이해해욧~! 맛있는 것도 잔뜩 있으니까요어! 바다의 집 사람에게 추천받으면 넙죽 사버릴 것 같다니까욧!」"
 
@@ -79,12 +93,14 @@ original = "話が噛み合ってるようで噛み合ってないな……"
 translation = "말이 통하는 듯하면서 안 통하네……"
 
 [[dialogue]]
-speaker = "イクシリオン"
+speaker_original = "イクシリオン"
+speaker_translation = "익실리온"
 original = "「と、とにかく早急に克服しなければいけませんよね。このままでは満足にビーチの警護もできません」"
 translation = "「어, 어쨌든 조속히 극복해야겠네요어. 이대로는 만족스럽게 비치 경호도 할 수 없어요어」"
 
 [[dialogue]]
-speaker = "イクシリオン"
+speaker_original = "イクシリオン"
+speaker_translation = "익실리온"
 original = "「会長には申し訳ありませんが……はぁ、はぁ……しばし私の特訓に付き合っていただければと……」"
 translation = "「회장님께는 죄송하지만…… 하아, 하아…… 잠시 제 특훈에 어울려 주셨으면 해서요어……」"
 
@@ -94,27 +110,32 @@ original = "ちょっ、近い近い近い……！"
 translation = "잠깐, 너무 가까워 가까워 가까워……!"
 
 [[dialogue]]
-speaker = "イクシリオン"
+speaker_original = "イクシリオン"
+speaker_translation = "익실리온"
 original = "「あくまで、特訓のためですからっ……はぁはぁ……」"
 translation = "「어디까지나, 특훈을 위해서니까요어…… 하아하아……」"
 
 [[dialogue]]
-speaker = "イクシリオン"
+speaker_original = "イクシリオン"
+speaker_translation = "익실리온"
 original = "「もっと私を、ふ、ふふふ、舐めるように見て下さい……！\u3000恥ずかしい水着姿を、んんっ、見て下さい……！」"
 translation = "「좀 더 저를, 후, 후후후, 핥듯이 봐주세요어……! 부끄러운 수영복 차림을, 으음, 봐주세요어……!」"
 
 [[dialogue]]
-speaker = "イクシリオン"
+speaker_original = "イクシリオン"
+speaker_translation = "익실리온"
 original = "「あくまで苦手を克服するためですから……！\u3000特訓の、ためですからぁ……！」"
 translation = "「어디까지나 서툰 것을 극복하기 위해서니까요어……! 특훈을, 위해서니까요어……!」"
 
 [[dialogue]]
-speaker = "ルリエル"
+speaker_original = "ルリエル"
+speaker_translation = "루리엘"
 original = "「なんて立派なお姿なんでしょう……。あんなにも苦しげなのに、それでも苦手を克服しようと懸命に努力されていて……」"
 translation = "「정말 훌륭한 모습이군요어……. 저렇게나 괴로운데도, 그런데도 서툰 것을 극복하려고 필사적으로 노력하시다니……」"
 
 [[dialogue]]
-speaker = "ルリエル"
+speaker_original = "ルリエル"
+speaker_translation = "루리엘"
 original = "「嫌なことから逃げようとしていた自分が恥ずかしいです……！\u3000わたしも覚悟を決めました！\u3000会長さん、わたしにも泳ぎの特訓を付けてください！」"
 translation = "「싫은 일에서 도망치려 했던 제 자신이 부끄러워욧……! 저도 각오를 다졌어욧! 회장님, 저에게도 수영 특훈을 시켜주세욧!」"
 
@@ -124,17 +145,20 @@ original = "よ、よし、すぐ行こう！"
 translation = "조, 좋아, 바로 가자!"
 
 [[dialogue]]
-speaker = "イクシリオン"
+speaker_original = "イクシリオン"
+speaker_translation = "익실리온"
 original = "「あぁっ、待ってください会長っ！\u3000もっと私をっ、私をっ──」"
 translation = "「아앗, 기다려주세요어 회장님! 좀 더 저를, 저를──」"
 
 [[dialogue]]
-speaker = "イクシリオン"
+speaker_original = "イクシリオン"
+speaker_translation = "익실리온"
 original = "「私を、いやらしい目で見てくださ～いっ！」"
 translation = "「저를, 야한 눈으로 봐주세요어~!」"
 
 [[dialogue]]
-speaker = "ルリエル"
+speaker_original = "ルリエル"
+speaker_translation = "루리엘"
 original = "「ぜ、絶対に離さないでくださいねっ？\u3000ぜったいのぜーったいですよっ？」"
 translation = "「저, 절대로 놓으시면 안 돼욧? 절대로의 저어얼대로예욧?」"
 
@@ -144,67 +168,80 @@ original = "しっかり泳げてるじゃないか"
 translation = "제법 잘 헤엄치고 있잖아."
 
 [[dialogue]]
-speaker = "ルリエル"
+speaker_original = "ルリエル"
+speaker_translation = "루리엘"
 original = "「えへへ、そうですか？\u3000始めてみたら意外とできちゃいました！\u3000足をバタバタ動かすだけで簡単に浮かべちゃうものなんですね～？」"
 translation = "「에헤헤, 그런가요어? 시작해 보니 의외로 되네욧! 발을 첨벙첨벙 움직이는 것만으로 간단히 뜰 수 있는 거군요어~?」"
 
 [[dialogue]]
-speaker = "ルリエル"
+speaker_original = "ルリエル"
+speaker_translation = "루리엘"
 original = "「人間界の海ってもっとこわーいものかと思ってましたよぉ。小さい頃から、じっちゃんやばっちゃんに海には恐ろしい怪物がいるって聞かされてましたから」"
 translation = "「인간계의 바다는 좀 더 무서어운 곳인 줄 알았어욧. 어릴 때부터 할아버지랑 할머니한테 바다에는 무서운 괴물이 있다고 들었으니까요어」"
 
 [[dialogue]]
-speaker = "ルリエル"
+speaker_original = "ルリエル"
+speaker_translation = "루리엘"
 original = "「でもでも、なんてことなさそうです！\u3000むしろ楽しいくらいですもん！\u3000まだバタ足しかできませんけど、海で泳ぐの気持ちいいですし！」"
 translation = "「하지만 하지만, 아무것도 아닌 것 같아욧! 오히려 즐거울 정도예욧! 아직 발차기밖에 못 하지만, 바다에서 수영하는 거 기분 좋아욧!」"
 
 [[dialogue]]
-speaker = "ルリエル"
+speaker_original = "ルリエル"
+speaker_translation = "루리엘"
 original = "「これならすぐに泳げるようになっちゃうかもしれません！\u3000もう少し遠くまで行っちゃいましょうか！」"
 translation = "「이러면 금방 수영할 수 있게 될지도 몰라욧! 조금 더 멀리까지 가볼까요어!」"
 
 [[dialogue]]
-speaker = "ルリエル"
+speaker_original = "ルリエル"
+speaker_translation = "루리엘"
 original = "「ちょっとくらい深いところでも大丈夫ですよぉ。いざという時は会長さんを浮き輪にしますし♪」"
 translation = "「조금 정도 깊은 곳이라도 괜찮아욧. 만약의 경우에는 회장님을 튜브로 삼을 거니까요어♪」"
 
 [[dialogue]]
-speaker = "ルリエル"
+speaker_original = "ルリエル"
+speaker_translation = "루리엘"
 original = "「ほーらっ、早く来てくださーいっ。置いていっちゃいますよぉ～！」"
 translation = "「자아─, 빨리 오세욧. 두고 갈 거예욧~!」"
 
 [[dialogue]]
-speaker = "ルリエル"
+speaker_original = "ルリエル"
+speaker_translation = "루리엘"
 original = "「……ウミ、コワイ。フカイトコロ、アブナイ……」"
 translation = "「……바다, 무서워욧. 깊은 곳, 위험해욧……」"
 
 [[dialogue]]
-speaker = "イクシリオン"
+speaker_original = "イクシリオン"
+speaker_translation = "익실리온"
 original = "「救助が間に合って本当に良かったです……。焦りました、少し目を離した隙におふたりが海の真ん中で溺れていて……」"
 translation = "「구조가 늦지 않아서 정말 다행이에요어……. 당황했어요어, 잠시 한눈판 사이에 두 분이 바다 한가운데서 빠져 있어서……」"
 
 [[dialogue]]
-speaker = "ルリエル"
+speaker_original = "ルリエル"
+speaker_translation = "루리엘"
 original = "「ふえ～ん、しがみついちゃってごめんなさい、会長さんっ。でも怖かったんですっ。足が付かないだけで命の危機を感じてしまってぇ～！」"
 translation = "「후에엥, 매달려버려서 죄송해욧, 회장님. 하지만 무서웠어욧. 발이 닿지 않는 것만으로 생명의 위기를 느껴버려서욧~!」"
 
 [[dialogue]]
-speaker = "ルリエル"
+speaker_original = "ルリエル"
+speaker_translation = "루리엘"
 original = "「い、一瞬でも気を抜いてバタ足をやめたら波に呑まれちゃいますし……！\u3000だからといって延々とバタ足を続けられるほど体力もなくて……！」"
 translation = "「자, 잠시라도 방심해서 발차기를 멈추면 파도에 휩쓸려버리고욧……! 그렇다고 계속 발차기를 할 수 있을 정도로 체력도 없어서욧……!」"
 
 [[dialogue]]
-speaker = "ルリエル"
+speaker_original = "ルリエル"
+speaker_translation = "루리엘"
 original = "「海とは恐ろしいものです……！\u3000舐めちゃいけません……！\u3000やはり怪物がいます……！」"
 translation = "「바다란 무서운 것이군욧……! 얕보면 안 돼욧……! 역시 괴물이 있어욧……!」"
 
 [[dialogue]]
-speaker = "イクシリオン"
+speaker_original = "イクシリオン"
+speaker_translation = "익실리온"
 original = "「すみません、私が苦手を克服しようと提案したばかりに……」"
 translation = "「죄송해요어, 제가 서툰 것을 극복하자고 제안한 탓에……」"
 
 [[dialogue]]
-speaker = "ルリエル"
+speaker_original = "ルリエル"
+speaker_translation = "루리엘"
 original = "「あっ、いえいえっ、泳ぐのは想像以上に楽しかったのですよ……！\u3000そう思えただけで、わたしにとっては収穫ですから……！」"
 translation = "「앗, 아니아니욧, 수영하는 건 상상 이상으로 즐거웠어욧……! 그렇게 생각한 것만으로, 저에게는 수확이니까요어……!」"
 
@@ -214,67 +251,80 @@ original = "星力の制御の方はどう？"
 translation = "성력 제어 쪽은 어때?"
 
 [[dialogue]]
-speaker = "イクシリオン"
+speaker_original = "イクシリオン"
+speaker_translation = "익실리온"
 original = "「それは、ええと……正直なところ、あまり」"
 translation = "「그건, 에또…… 솔직히 말해서, 그다지」"
 
 [[dialogue]]
-speaker = "ルリエル"
+speaker_original = "ルリエル"
+speaker_translation = "루리엘"
 original = "「わたしもですぅ。泳ぐことへの苦手意識はマシになったとは思うのですが」"
 translation = "「저도예욧. 수영에 대한 거부감은 나아졌다고 생각합니다만아」"
 
 [[dialogue]]
-speaker = "イクシリオン"
+speaker_original = "イクシリオン"
+speaker_translation = "익실리온"
 original = "「とにかく色々と試してみましょうか。単純に星力を使ってみるだけでも訓練になると思いますし」"
 translation = "「어쨌든 여러 가지로 시도해 볼까요어. 단순하게 성력을 사용해 보는 것만으로도 훈련이 될 거라 생각하고요어」"
 
 [[dialogue]]
-speaker = "ルリエル"
+speaker_original = "ルリエル"
+speaker_translation = "루리엘"
 original = "「うーん、模擬戦でもしてみましょうか。……せっかくの海なので、遊びたい気持ちはありますが」"
 translation = "「으음, 모의전이라도 해볼까요어. ……기껏 바다에 왔으니, 놀고 싶은 마음은 있습니다만아」"
 
 [[dialogue]]
-speaker = "イクシリオン"
+speaker_original = "イクシリオン"
+speaker_translation = "익실리온"
 original = "「！\u3000モンスターの反応……！？」"
 translation = "「! 몬스터의 반응……!?」"
 
 [[dialogue]]
-speaker = "ルリエル"
+speaker_original = "ルリエル"
+speaker_translation = "루리엘"
 original = "「近いですっ！！\u3000急ぎましょうっ！！」"
 translation = "「가까워욧!! 서두르자구욧!!」"
 
 [[dialogue]]
-speaker = "モンスター"
+speaker_original = "モンスター"
+speaker_translation = "몬스터"
 original = "「イーッ！」"
 translation = "「이─!」"
 
 [[dialogue]]
-speaker = "イクシリオン"
+speaker_original = "イクシリオン"
+speaker_translation = "익실리온"
 original = "「いましたっ、あそこですっ！」"
 translation = "「있었어욧, 저기예욧!」"
 
 [[dialogue]]
-speaker = "ルリエル"
+speaker_original = "ルリエル"
+speaker_translation = "루리엘"
 original = "「うぅ、ですが今のわたしたちで対抗できるでしょうか……！\u3000星力制御もままなりませんのに……！」"
 translation = "「으으, 하지만 지금의 저희로 대항할 수 있을까요어……! 성력 제어도 마음대로 안 되는데욧……!」"
 
 [[dialogue]]
-speaker = "イクシリオン"
+speaker_original = "イクシリオン"
+speaker_translation = "익실리온"
 original = "「それは……──しかし、やるしかありませんっ」"
 translation = "「그건……── 하지만, 할 수밖에 없어요어」"
 
 [[dialogue]]
-speaker = "ルリエル"
+speaker_original = "ルリエル"
+speaker_translation = "루리엘"
 original = "「ですね……！\u3000会長さん、フォローを……──！？\u3000向こうに誰かいます！？」"
 translation = "「그렇네욧……! 회장님, 서포트를……──!? 저쪽에 누군가 있어욧!?」"
 
 [[dialogue]]
-speaker = "ウィステリア"
+speaker_original = "ウィステリア"
+speaker_translation = "위스테리아"
 original = "「はぁ、せっかくのバカンスなのにモンスターなんてついてないわ。やっぱり私、呪われてる……」"
 translation = "「하아, 모처럼의 바캉스인데 몬스터라니 운도 없네. 역시 나, 저주받았나 봐……」"
 
 [[dialogue]]
-speaker = "イクシリオン"
+speaker_original = "イクシリオン"
+speaker_translation = "익실리온"
 original = "「ウィステリアさん！？」"
 translation = "「위스테리아 씨!?」"
 

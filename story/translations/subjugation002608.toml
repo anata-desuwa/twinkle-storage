@@ -4,67 +4,80 @@ original = "コンテスト前日──"
 translation = "콘테스트 전날──"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「ヘレナちゃんの目論見を阻止するわよ！」"
 translation = "「헬레나짱의 음모를 저지하자고!」"
 
 [[dialogue]]
-speaker = "ソフィア"
+speaker_original = "ソフィア"
+speaker_translation = "소피아"
 original = "「リゾート結界は……リップルさんの夢がたくさん詰まった楽園なんです。大人の魂胆になんか負けません！」"
 translation = "「리조트 결계는…… 리플 씨의 꿈이 잔뜩 담긴 낙원이에요. 어른의 꿍꿍이 따위에 지지 않겠어요!」"
 
 [[dialogue]]
-speaker = "アナ"
+speaker_original = "アナ"
+speaker_translation = "아나"
 original = "「ぬるりと現れますね、ソフィアさん」"
 translation = "「스르륵 나타나시는군요, 소피아 씨.」"
 
 [[dialogue]]
-speaker = "ルリエル"
+speaker_original = "ルリエル"
+speaker_translation = "루리엘"
 original = "「わたしもいま～す」"
 translation = "「저도 있답니~다.」"
 
 [[dialogue]]
-speaker = "アポロ"
+speaker_original = "アポロ"
+speaker_translation = "아폴로"
 original = "「あたしもだ！\u3000授業が終わって、こっちに来たぞ！」"
 translation = "「나도다! 수업이 끝나서 이쪽으로 왔다구!」"
 
 [[dialogue]]
-speaker = "マトイ"
+speaker_original = "マトイ"
+speaker_translation = "마토이"
 original = "「ヘレナさんの目論見を阻止する……って言っても」"
 translation = "「헬레나 씨의 음모를 저지한다……고는 해도.」"
 
 [[dialogue]]
-speaker = "マトイ"
+speaker_original = "マトイ"
+speaker_translation = "마토이"
 original = "「それって、トリシャさんの優勝を阻止するってことだよね？」"
 translation = "「그건 트리샤 씨의 우승을 저지한다는 뜻이지?」"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「ええ。トリシャには悪いけど──あんなこと言われて、黙ってられるもんですか」"
 translation = "「그래. 트리샤에겐 미안하지만── 그런 말을 듣고 가만히 있을 수 있겠어?」"
 
 [[dialogue]]
-speaker = "アナ"
+speaker_original = "アナ"
+speaker_translation = "아나"
 original = "「ええ。何もかも持てる者の思う通りにさせるわけにはいきません」"
 translation = "「네. 모든 것이 가진 자의 뜻대로 되게 놔둘 수는 없죠.」"
 
 [[dialogue]]
-speaker = "マトイ"
+speaker_original = "マトイ"
+speaker_translation = "마토이"
 original = "「何言われたんだろ……」"
 translation = "「무슨 말을 들은 걸까……」"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「それに大丈夫よ。トリシャは強敵だけど、こっちにも弾数はたくさんあるんだから」"
 translation = "「그리고 괜찮아. 트리샤는 강적이지만, 이쪽에도 패는 얼마든지 있으니까.」"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「ね、マトイ？」"
 translation = "「그치, 마토이?」"
 
 [[dialogue]]
-speaker = "マトイ"
+speaker_original = "マトイ"
+speaker_translation = "마토이"
 original = "「へっ？」"
 translation = "「헤?」"
 
@@ -74,22 +87,26 @@ original = "と、いうわけで……"
 translation = "그리하여……"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「さあ、張り切ってリハーサルいくわよ！」"
 translation = "「자, 기운차게 리허설 가보자고!」"
 
 [[dialogue]]
-speaker = "マトイ"
+speaker_original = "マトイ"
+speaker_translation = "마토이"
 original = "「えっと……エントリーナンバー１番、詠野マトイ。チャームポイントは親しみやすさ……なのかな？\u3000一応……」"
 translation = "「에또…… 엔트리 넘버 1번, 에이노 마토이. 매력 포인트는 친근함……이려나? 일단은……」"
 
 [[dialogue]]
-speaker = "マトイ"
+speaker_original = "マトイ"
+speaker_translation = "마토이"
 original = "「ねえ、ヴィーナス。室内で水着着るほうが恥ずかしいんだけど……」"
 translation = "「저기, 비너스. 실내에서 수영복을 입는 게 더 창피한데……」"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「その赤らんだ表情がぐっとくるわ！\u3000ねえ！？」"
 translation = "「그 붉어진 표정이 확 와닿는걸! 그치!?」"
 
@@ -104,12 +121,14 @@ original = "魅力的だ"
 translation = "매력적이야"
 
 [[dialogue]]
-speaker = "アポロ"
+speaker_original = "アポロ"
+speaker_translation = "아폴로"
 original = "「エントリーナンバー２番、アポロ！\u3000特技は犬かきだ！\u3000賞金は全額グミ・パーティに注ぎ込むぞ！」"
 translation = "「엔트리 넘버 2번, 아폴로! 특기는 개헤엄이다! 상금은 전액 구미 파티에 쏟아부을 거야!」"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「いいわよ！\u3000パワフルでチャーミング！\u3000ねえ！？」"
 translation = "「좋아! 파워풀하고 차밍해! 그치!?」"
 
@@ -124,12 +143,14 @@ original = "魅力的だ"
 translation = "매력적이야"
 
 [[dialogue]]
-speaker = "ルリエル"
+speaker_original = "ルリエル"
+speaker_translation = "루리엘"
 original = "「エントリーナンバー３番、ルリエル！\u3000アピールポイントは元気とお歌です！\u3000えいえいおーっ！」"
 translation = "「엔트리 넘버 3번, 루리에르! 어필 포인트는 활기와 노래인 것이에욧! 에이 에이 오─!」"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「眩しい！\u3000可愛い！\u3000天使の輪っかが超キューティー！\u3000肩に守護星乗っけるつもり！？」"
 translation = "「눈부셔! 귀여워! 천사 고리가 초 큐티해! 어깨에 수호성을 얹을 셈이야!?」"
 
@@ -144,27 +165,32 @@ original = "背筋仕上がってる！"
 translation = "배근이 완성됐어!"
 
 [[dialogue]]
-speaker = "ソフィア"
+speaker_original = "ソフィア"
+speaker_translation = "소피아"
 original = "「だんだん違う方向に行ってませんか……？」"
 translation = "「점점 방향이 이상해지지 않나요……?」"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「そういうソフィアも、出なくていいの？\u3000１人でも多いほうが勝機はあるわ！」"
 translation = "「그러는 소피아도 안 나가도 돼? 한 명이라도 많은 편이 승산이 있어!」"
 
 [[dialogue]]
-speaker = "ソフィア"
+speaker_original = "ソフィア"
+speaker_translation = "소피아"
 original = "「う……確かに。私がリゾート結界のためにひと肌脱ぎませんと……！」"
 translation = "「으…… 확실히. 제가 리조트 결계를 위해 한 몸 던져야겠군요……!」"
 
 [[dialogue]]
-speaker = "ソフィア"
+speaker_original = "ソフィア"
+speaker_translation = "소피아"
 original = "「──４番、ソフィア。氷の上なら負けません！」"
 translation = "「──4번, 소피아. 얼음 위라면 지지 않습니다!」"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「──続いて５番ヴィーナス！\u3000アピールポイントは健康美よ！\u3000あとめちゃんこ強いんだから！」"
 translation = "「──이어서 5번 비너스! 어필 포인트는 건강미야! 그리고 무진장 강하니까!」"
 
@@ -179,32 +205,38 @@ original = "どっちも魅力的"
 translation = "둘 다 매력적이야"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「最後は大本命よ！\u3000かもん！」"
 translation = "「마지막은 강력한 우승 후보야! 카몬!」"
 
 [[dialogue]]
-speaker = "サーシャ"
+speaker_original = "サーシャ"
+speaker_translation = "사샤"
 original = "「はーい。サーシャよ～。アピールポイントは～……ん～……包容力かしら？」"
 translation = "「네~에. 사샤예요~. 어필 포인트는~…… 음~…… 포용력일까나?」"
 
 [[dialogue]]
-speaker = "ルリエル"
+speaker_original = "ルリエル"
+speaker_translation = "루리엘"
 original = "「う……なんというダイナマイトボディ……！」"
 translation = "「우…… 이 무슨 다이너마이트 보디……!」"
 
 [[dialogue]]
-speaker = "ソフィア"
+speaker_original = "ソフィア"
+speaker_translation = "소피아"
 original = "「我が姉ながら……なぜこうも仕上がりに差があるのでしょうか……？」"
 translation = "「제 언니긴 하지만…… 어째서 이렇게 완성도에 차이가 있는 걸까요……?」"
 
 [[dialogue]]
-speaker = "アナ"
+speaker_original = "アナ"
+speaker_translation = "아나"
 original = "「大丈夫です。ソフィアさんにはまだまだ可能性が眠っているということですよ……！」"
 translation = "「괜찮습니다. 소피아 씨에겐 아직 가능성이 잠들어 있다는 것이니까요……!」"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「みんな出揃ったわよ！\u3000さあ、審査員席──優勝を手にするのは一体誰！？」"
 translation = "「모두 다 모였어! 자, 심사위원석── 우승을 차지하는 건 과연 누구!?」"
 
@@ -219,42 +251,50 @@ original = "みんな優勝"
 translation = "모두 우승"
 
 [[dialogue]]
-speaker = "アポロ"
+speaker_original = "アポロ"
+speaker_translation = "아폴로"
 original = "「おい！\u3000そんなのアリか！？」"
 translation = "「야! 그런 게 어딨어!?」"
 
 [[dialogue]]
-speaker = "アナ"
+speaker_original = "アナ"
+speaker_translation = "아나"
 original = "「本当にこんなことでトリシャさんに勝てるのでしょうか……」"
 translation = "「정말로 이런 걸로 트리샤 씨에게 이길 수 있을까요……」"
 
 [[dialogue]]
-speaker = "ソフィア"
+speaker_original = "ソフィア"
+speaker_translation = "소피아"
 original = "「大丈夫です。本番の審査はオーディエンスの意見で決まるようですから──皆が皆、セクシー指向というわけではないはずです」"
 translation = "「괜찮아요. 본선 심사는 관객의 의견으로 결정되는 모양이니까요── 모두가 모두 섹시 지향인 것은 아닐 터입니다.」"
 
 [[dialogue]]
-speaker = "サーシャ"
+speaker_original = "サーシャ"
+speaker_translation = "사샤"
 original = "「それもそうよね。特に女の子はやっぱり、スレンダーな体型を好むんじゃないかしら……？」"
 translation = "「그것도 그렇네. 특히 여자아이들은 역시 슬렌더한 체형을 선호하지 않을까나……?」"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「なら、マトイにもやっぱり勝機はあるわね。ちょっとこっち来て」"
 translation = "「그럼 마토이에게도 역시 승산은 있겠네. 잠깐 이쪽으로 와봐.」"
 
 [[dialogue]]
-speaker = "マトイ"
+speaker_original = "マトイ"
+speaker_translation = "마토이"
 original = "「ん？\u3000な、何？」"
 translation = "「응? 머, 뭐야?」"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「ほら！\u3000マトイの魅力をもっとじっくりくっきり見ていいのよ！」"
 translation = "「자! 마토이의 매력을 좀 더 차분하고 뚜렷하게 봐도 된다고!」"
 
 [[dialogue]]
-speaker = "マトイ"
+speaker_original = "マトイ"
+speaker_translation = "마토이"
 original = "「！？\u3000ちょっ、会長やめっ、間近で見るのは禁止～～～～っ！！」"
 translation = "「!? 큭, 회장 그만둬, 가까이서 보는 건 금지야~~~~~~~~!!」"
 

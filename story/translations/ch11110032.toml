@@ -4,77 +4,92 @@ original = "第２話,乙女心とニンニクと,P"
 translation = "제2화, 소녀심과 마늘과, P"
 
 [[dialogue]]
-speaker = "ベアトリス"
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
 original = "「はぁー、美味しい～♪\u3000どれもこれも絶品だよ～♪\u3000お箸がとまらな～いっ♪」"
 translation = "「하아─, 맛있다～♪ 어느 것 하나 빼놓을 것 없이 일품이야～♪ 젓가락이 멈추질 않아～♪」"
 
 [[dialogue]]
-speaker = "梨緒"
+speaker_original = "梨緒"
+speaker_translation = "리오"
 original = "「ベアトは本当に美味しそうに食事をするな。見ていてほっこりするよ」"
 translation = "「베아토는 정말 맛있게 먹는구나. 보고 있으면 마음이 따뜻해져.」"
 
 [[dialogue]]
-speaker = "ベアトリス"
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
 original = "「梨緒ちゃんは食べないの？\u3000二人前頼んであるから、浜焼きも、焼きそばも、たこ焼きも、食べてくれていいんだよ？」"
 translation = "「리오짱은 안 먹어? 2인분 시켰으니까, 조개구이도, 야키소바도, 타코야키도 먹어도 된다구?」"
 
 [[dialogue]]
-speaker = "ベアトリス"
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
 original = "「どれもニンニクマシマシ、超モリモリで頼んであるから♪\u3000オススメは、この黒ニンニクのホイル焼き♪\u3000あ、デザートにニンニクソースたっぷりのかき氷も注文してあるよ♪」"
 translation = "「전부 마늘 듬뿍, 아주 산더미처럼 주문했으니까♪ 추천하는 건 이 흑마늘 호일 구이♪ 아, 디저트로 마늘 소스가 잔뜩 뿌려진 빙수도 주문해 뒀어♪」"
 
 [[dialogue]]
-speaker = "梨緒"
+speaker_original = "梨緒"
+speaker_translation = "리오"
 original = "「あ、あはは……。ベアトと食事をする時は、他の人と会うのを控える覚悟をしないといけないな」"
 translation = "「아, 아하하……. 베아토랑 식사할 때는 다른 사람과 만나는 걸 삼갈 각오를 해야겠네.」"
 
 [[dialogue]]
-speaker = "ベアトリス"
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
 original = "「会うのを控えるって……そんなに気になるものなの？\u3000ニンニクを食べた後の匂いって」"
 translation = "「만나는 걸 삼간다니…… 그렇게 신경 쓰이는 거야? 마늘을 먹은 뒤의 냄새라는 게.」"
 
 [[dialogue]]
-speaker = "梨緒"
+speaker_original = "梨緒"
+speaker_translation = "리오"
 original = "「そうだな……こうして共に食事をしていれば気にならないだろうが、他の相手からするとかなりのもの……だとは思う」"
 translation = "「그렇지…… 이렇게 같이 식사하고 있으면 모르겠지만, 다른 사람이 보기에는 꽤 심할 거라고…… 생각해.」"
 
 [[dialogue]]
-speaker = "ベアトリス"
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
 original = "「気にしすぎだと思うけどなぁ。くんくん、うーん、わからない」"
 translation = "「너무 신경 쓰는 거 같은데 말야. 킁킁, 으음, 모르겠어.」"
 
 [[dialogue]]
-speaker = "ベアトリス"
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
 original = "「でも、そっか。普通はそんなに気になるものなんだ。まぁ今日は特に会う予定もないし……」"
 translation = "「하지만, 그렇구나. 보통은 그렇게 신경 쓰이는 거구나. 뭐, 오늘은 딱히 만날 예정도 없으니까……」"
 
 [[dialogue]]
-speaker = "梨緒"
+speaker_original = "梨緒"
+speaker_translation = "리오"
 original = "「そういえば最近、魔王とはどうなんだ？」"
 translation = "「그러고 보니 요즘, 마왕과는 어때?」"
 
 [[dialogue]]
-speaker = "ベアトリス"
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
 original = "「──ぶふっ。コホ、コホっ、どうして急に会長さんの名前が出てくるのっ。特になんでもないよっ」"
 translation = "「──푸흡. 콜록, 콜록, 왜 갑자기 회장님 이름이 나오는 거야앗. 딱히 아무것도 아니라구욧.」"
 
 [[dialogue]]
-speaker = "梨緒"
+speaker_original = "梨緒"
+speaker_translation = "리오"
 original = "「そうなのか？\u3000てっきり付き合っているものかと思っていたが」"
 translation = "「그런가? 틀림없이 사귀고 있는 줄 알았는데.」"
 
 [[dialogue]]
-speaker = "ベアトリス"
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
 original = "「な、ないない。いつかデネブに帰らなくちゃいけないんだから、それはないって」"
 translation = "「아, 아니야 아니야. 언젠가 데네브로 돌아가야 하니까, 그럴 일은 없다니까.」"
 
 [[dialogue]]
-speaker = "梨緒"
+speaker_original = "梨緒"
+speaker_translation = "리오"
 original = "「しかし先日も波打ち際で２人仲良く遊んでいたんだろう？\u3000魔王も最近は親しげにベアトと呼んでいるじゃないか」"
 translation = "「하지만 요전에도 해변에서 둘이 사이좋게 놀고 있었잖아? 마왕도 요즘은 친근하게 베아토라고 부르고 있고 말이야.」"
 
 [[dialogue]]
-speaker = "ベアトリス"
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
 original = "「どうしてそれを──じゃなくて！？\u3000あれはそうじゃなくて……！」"
 translation = "「그걸 어떻게──가 아니라!? 그건 그런 게 아니라……!」"
 
@@ -84,7 +99,8 @@ original = "ベアトと梨緒？"
 translation = "베아토랑 리오?"
 
 [[dialogue]]
-speaker = "ベアトリス"
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
 original = "「ひゃっ！？\u3000か、会長さん！？\u3000どうしてここに……！？」"
 translation = "「히익!? 회, 회장님!? 어째서 여기에……!?」"
 
@@ -94,17 +110,20 @@ original = "さっきまで星徒会のみんなと遊んでて"
 translation = "방금 전까지 성도회 모두와 놀고 있어서"
 
 [[dialogue]]
-speaker = "ベアトリス"
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
 original = "「え、他の女の子と遊んでたんですか？\u3000ふ、ふーん、そうですか、そうなんですか、ふ～～ん……！」"
 translation = "「에, 다른 여자애들이랑 놀고 있었나요? 흐, 흐응, 그렇군요, 그런 거군요, 흐~~응……!」"
 
 [[dialogue]]
-speaker = "梨緒"
+speaker_original = "梨緒"
+speaker_translation = "리오"
 original = "「……ヤキモチを焼いてるじゃないか」"
 translation = "「……질투하고 있잖아.」"
 
 [[dialogue]]
-speaker = "ベアトリス"
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
 original = "「や、焼いてないよっ」"
 translation = "「지, 질투 안 해욧.」"
 
@@ -114,22 +133,26 @@ original = "せっかくだから一緒していい？"
 translation = "기왕 이렇게 된 거 같이 있어도 돼?"
 
 [[dialogue]]
-speaker = "ベアトリス"
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
 original = "「ひゃっ、ダメです。近づかないでくださいっ」"
 translation = "「히익, 안 돼요. 가까이 오지 마세요옷.」"
 
 [[dialogue]]
-speaker = "ベアトリス"
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
 original = "「それ以上、絶対に近づかないでくださいっ。少しでも近づいたら、怒っちゃいますからねっ！」"
 translation = "「그 이상, 절대로 가까이 오지 마세요옷. 조금이라도 가까이 오면 화낼 거니까요옷!」"
 
 [[dialogue]]
-speaker = "梨緒"
+speaker_original = "梨緒"
+speaker_translation = "리오"
 original = "「魔王、気を悪くしないでくれ。ちょうど食事を取っていたところなんだ。恐らくベアトは自分の匂いを気にして──」"
 translation = "「마왕, 기분 나쁘게 생각하지 말아줘. 마침 식사를 하던 참이었거든. 아마 베아토는 자기 냄새를 신경 써서──」"
 
 [[dialogue]]
-speaker = "ベアトリス"
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
 original = "「わー、わー、わー、余計なこと言わなくていいから！」"
 translation = "「와아, 와아, 와아, 쓸데없는 소리 안 해도 되니까!」"
 
@@ -139,7 +162,8 @@ original = "バクバクバクっ！"
 translation = "와구와구와구!"
 
 [[dialogue]]
-speaker = "ベアトリス"
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
 original = "「えっ！？\u3000な、なんでいきなりニンニク料理にがっついて……」"
 translation = "「엣!? 어, 어째서 갑자기 마늘 요리를 허겁지겁 먹는 거야……」"
 
@@ -149,22 +173,26 @@ original = "これでベアトと一緒だ"
 translation = "이걸로 베아토랑 똑같아"
 
 [[dialogue]]
-speaker = "ベアトリス"
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
 original = "「か、会長さん……。私のために……」"
 translation = "「회, 회장님……. 저를 위해서……」"
 
 [[dialogue]]
-speaker = "ベアトリス"
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
 original = "「そこまでして一緒にいようとしてくれるんですか？\u3000別に会おうと思えばいつだって会えるのに……」"
 translation = "「그렇게까지 해서 같이 있으려고 해주는 건가요? 딱히 만나려고 하면 언제든 만날 수 있는데……」"
 
 [[dialogue]]
-speaker = "ベアトリス"
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
 original = "「そんなにニンニク食べたら、きっと星徒会の皆さんにも渋い顔されちゃいますよ……？」"
 translation = "「그렇게 마늘을 먹으면, 분명 성도회 여러분도 인상을 찌푸릴 거예요……?」"
 
 [[dialogue]]
-speaker = "ベアトリス"
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
 original = "「会う人、会う人、会長さんを避けちゃうかもしれないのに……」"
 translation = "「만나는 사람마다 회장님을 피할지도 모르는데……」"
 
@@ -174,82 +202,98 @@ original = "ベアトといられるなら気にしないよ"
 translation = "베아토와 있을 수 있다면 상관없어"
 
 [[dialogue]]
-speaker = "ベアトリス"
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
 original = "「会長さん……<emoji=heart04>」"
 translation = "「회장님……<emoji=heart04>」"
 
 [[dialogue]]
-speaker = "ベアトリス"
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
 original = "「えへへ、嬉しいです。会長さんと美味しいもの２人でたくさん食べたいって思ってたから」"
 translation = "「에헤헤, 기뻐요. 회장님이랑 맛있는 거 둘이서 잔뜩 먹고 싶다고 생각했으니까.」"
 
 [[dialogue]]
-speaker = "ベアトリス"
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
 original = "「いっぱい頼んであるので、一緒に食べませんか？\u3000ああほら、黒ニンニクのホイル焼きが食べ頃になりましたよ！」"
 translation = "「잔뜩 시켜뒀으니까 같이 먹지 않을래요? 아, 보세요, 흑마늘 호일 구이가 먹기 좋게 익었어요!」"
 
 [[dialogue]]
-speaker = "ベアトリス"
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
 original = "「デザートにはニンニクソースたっぷりのかき氷も用意してあるんです」"
 translation = "「디저트로는 마늘 소스가 듬뿍 뿌려진 빙수도 준비되어 있어요.」"
 
 [[dialogue]]
-speaker = "ベアトリス"
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
 original = "「１つは梨緒ちゃんのなので、えと、その、私の分を分け合うことになりますけど……」"
 translation = "「하나는 리오짱 거니까, 에토, 그게, 제 분량을 나눠 먹게 되겠지만……」"
 
 [[dialogue]]
-speaker = "ベアトリス"
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
 original = "「え？\u3000それは恥ずかしいんですか？\u3000ふふふ、照れなくていいじゃないですか」"
 translation = "「에? 그건 부끄러운 건가요? 후후후, 수줍어하지 않아도 되잖아요.」"
 
 [[dialogue]]
-speaker = "ベアトリス"
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
 original = "「ほーら、お口開けてください<emoji=heart04>\u3000あーんしてあげますよ<emoji=heart04>\u3000あはは、だから照れないでください<emoji=heart04>\u3000ほら、あーん<emoji=heart04>」"
 translation = "「자아, 입 벌려 주세요<emoji=heart04> 아앙 해줄게요<emoji=heart04> 아하하, 그러니까 수줍어하지 말라니까요<emoji=heart04> 자, 아앙<emoji=heart04>」"
 
 [[dialogue]]
-speaker = "梨緒"
+speaker_original = "梨緒"
+speaker_translation = "리오"
 original = "「はぁ……もう付き合えばいいだろう」"
 translation = "「하아…… 그냥 사귀면 되잖아.」"
 
 [[dialogue]]
-speaker = "ベアトリス"
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
 original = "「ハっ！？\u3000ち、違うの、梨緒ちゃん、これは……！」"
 translation = "「핫!? 아, 아니야, 리오짱, 이건……!」"
 
 [[dialogue]]
-speaker = "梨緒"
+speaker_original = "梨緒"
+speaker_translation = "리오"
 original = "「ご馳走様。すまないが急用を思い出した。ジグにスイカ割り勝負を挑む予定があったんだった」"
 translation = "「잘 먹었어. 미안하지만 급한 일이 생각났네. 지그에게 수박 깨기 승부를 걸 예정이었거든.」"
 
 [[dialogue]]
-speaker = "梨緒"
+speaker_original = "梨緒"
+speaker_translation = "리오"
 original = "「ベアトは魔王とゆっくり食事をしているといい。ああ、かき氷だけは自分の分を食べきっておいた方がよさそうかな？」"
 translation = "「베아토는 마왕이랑 천천히 식사하도록 해. 아, 빙수만큼은 자기 몫을 다 먹어두는 게 좋을 것 같네?」"
 
 [[dialogue]]
-speaker = "ベアトリス"
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
 original = "「へ、変な気の利かせ方しなくていいからっ。急用なんて嘘でしょっ。一緒にいてくれていいよっ」"
 translation = "「이, 이상하게 배려하지 않아도 되니까앗. 급한 일 같은 건 거짓말이지욧. 같이 있어도 된다구욧.」"
 
 [[dialogue]]
-speaker = "梨緒"
+speaker_original = "梨緒"
+speaker_translation = "리오"
 original = "「言っておくが魔王、くれぐれもベアトを泣かせるんじゃないぞ。もし彼女を泣かせるような真似をすれば、必ず君に引導を渡してやる」"
 translation = "「말해두겠는데 마왕, 부디 베아토를 울리지 마라. 만약 그녀를 울리는 짓을 한다면, 반드시 네게 인도(引導)를 건네주마.」"
 
 [[dialogue]]
-speaker = "ベアトリス"
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
 original = "「だから、誤解だってば……！\u3000会長さんも何を頷いてるんですかっ……！\u3000恥ずかしい、恥ずかしいですってば……！」"
 translation = "「그러니까, 오해라니까요……! 회장님도 뭘 끄덕이고 있는 거예요앗……! 부끄러워, 부끄럽다니까요……!」"
 
 [[dialogue]]
-speaker = "梨緒"
+speaker_original = "梨緒"
+speaker_translation = "리오"
 original = "「そういえば、ナターシャたちも遊びに来ているらしい。ふふ、２人の邪魔をしないようによーく言い聞かせておくよ」"
 translation = "「그러고 보니 나탸샤 일행도 놀러 온 모양이야. 후후, 두 사람을 방해하지 않도록 잘 일러둘게.」"
 
 [[dialogue]]
-speaker = "ベアトリス"
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
 original = "「だから、余計な気を利かせないで～～っっ！！」"
 translation = "「그러니까, 쓸데없는 참견 하지 마아아~~!!」"
 

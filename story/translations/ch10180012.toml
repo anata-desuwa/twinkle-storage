@@ -4,7 +4,8 @@ original = "第２話,フランスから来た麗人,P"
 translation = "제2화, 프랑스에서 온 미인, P"
 
 [[dialogue]]
-speaker = "エリス"
+speaker_original = "エリス"
+speaker_translation = "에리스"
 original = "「こんにちは。先日お会いして以来ですね。星徒会の業務には慣れましたか？」"
 translation = "「안녕하세요. 요전번에 뵙고 처음이네요. 성도회 업무에는 익숙해지셨나요?」"
 
@@ -14,22 +15,26 @@ original = "けっこう大変かも……"
 translation = "꽤 힘들지도……."
 
 [[dialogue]]
-speaker = "エリス"
+speaker_original = "エリス"
+speaker_translation = "에리스"
 original = "「あはは……ご心労お察しします」"
 translation = "「아하하…… 노고가 많으시겠네요.」"
 
 [[dialogue]]
-speaker = "エリス"
+speaker_original = "エリス"
+speaker_translation = "에리스"
 original = "「せっかくですからご一緒しても？\u3000……ありがとうございます」"
 translation = "「모처럼인데 합석해도 될까요? ……감사합니다.」"
 
 [[dialogue]]
-speaker = "エリス"
+speaker_original = "エリス"
+speaker_translation = "에리스"
 original = "「飲み物は……カフェオレにします。好きなのでよく飲んでいるんですよ」"
 translation = "「음료는…… 카페오레로 하겠어요. 좋아해서 자주 마시거든요.」"
 
 [[dialogue]]
-speaker = "エリス"
+speaker_original = "エリス"
+speaker_translation = "에리스"
 original = "「あ、会長さんもカフェオレにしますか。じゃあお揃いですね、ふふっ」"
 translation = "「아, 회장님도 카페오레로 하시겠어요? 그럼 세트네요, 후훗.」"
 
@@ -39,47 +44,56 @@ original = "エリスはどうして風紀委員に？"
 translation = "에리스는 어째서 풍기위원이 된 거야?"
 
 [[dialogue]]
-speaker = "エリス"
+speaker_original = "エリス"
+speaker_translation = "에리스"
 original = "「そうですね……もちろんリヨンでの経験もありますが、きっと父の影響だと思います」"
 translation = "「글쎄요…… 물론 리옹에서의 경험도 있습니다만, 분명 아버지의 영향이라고 생각해요.」"
 
 [[dialogue]]
-speaker = "エリス"
+speaker_original = "エリス"
+speaker_translation = "에리스"
 original = "「父はフランスの貴族の末裔で、代々受け継いできた事業と資産を持っています。ですから私も裕福な家庭で育ちました」"
 translation = "「아버지는 프랑스 귀족의 후예로, 대대로 물려받은 사업과 자산을 가지고 계십니다. 그래서 저도 부유한 가정에서 자랐지요.」"
 
 [[dialogue]]
-speaker = "エリス"
+speaker_original = "エリス"
+speaker_translation = "에리스"
 original = "「しかし父は恵まれた環境をただ享受することを良しとせず、よく幼い私に言い聞かせました。富や地位、力には責務が伴うと」"
 translation = "「하지만 아버지는 혜택받은 환경을 그저 누리는 것만을 옳게 여기지 않으시고, 어린 제게 자주 말씀하셨어요. 부와 지위, 힘에는 책무가 따른다고요.」"
 
 [[dialogue]]
-speaker = "エリス"
+speaker_original = "エリス"
+speaker_translation = "에리스"
 original = "「いわゆるノブレス・オブリージュです。星騎士になることを選んだのもそのためです」"
 translation = "「이른바 노블레스 오블리주입니다. 성기사가 되기로 선택한 것도 그 때문입니다.」"
 
 [[dialogue]]
-speaker = "エリス"
+speaker_original = "エリス"
+speaker_translation = "에리스"
 original = "「そして父はこうも言っていました。力ある者が責務と責任を忘れて横暴に走れば、力なき者を蹂躙し、いずれ己の身も滅ぼす……と」"
 translation = "「그리고 아버지는 이렇게도 말씀하셨죠. 힘 있는 자가 책무와 책임을 잊고 횡포를 부리면, 힘없는 자를 유린하고 결국 자신의 몸도 멸망시킨다…… 라고요.」"
 
 [[dialogue]]
-speaker = "エリス"
+speaker_original = "エリス"
+speaker_translation = "에리스"
 original = "「例えば、もし星騎士が星術で人々に危害を加えるとどうなるか」"
 translation = "「예를 들어, 만약 성기사가 성술로 사람들에게 위해를 가하면 어떻게 될까요?」"
 
 [[dialogue]]
-speaker = "エリス"
+speaker_original = "エリス"
+speaker_translation = "에리스"
 original = "「そんな暴虐が跋扈すれば、星騎士と人々との間に溝が生まれ、私たちは今のような支援を受けられず戦うこともままならなくなるでしょう」"
 translation = "「그런 폭거가 횡행하면 성기사와 사람들 사이에 골이 생기고, 우리는 지금과 같은 지원을 받지 못해 싸우는 것조차 마음대로 되지 않겠지요.」"
 
 [[dialogue]]
-speaker = "エリス"
+speaker_original = "エリス"
+speaker_translation = "에리스"
 original = "「だからたとえ煙たがられても、風紀委員として規律を守ることには意義があると思うんです」"
 translation = "「그러니 설령 미움을 사더라도, 풍기위원으로서 규율을 지키는 것에는 의의가 있다고 생각합니다.」"
 
 [[dialogue]]
-speaker = "エリス"
+speaker_original = "エリス"
+speaker_translation = "에리스"
 original = "「……なんて、また堅苦しい話をしてしまいましたね。お恥ずかしい」"
 translation = "「……랄까, 또 딱딱한 이야기를 해버렸네요. 부끄러워라.」"
 
@@ -89,12 +103,14 @@ original = "素晴らしい志だと思う"
 translation = "훌륭한 뜻이라고 생각해."
 
 [[dialogue]]
-speaker = "エリス"
+speaker_original = "エリス"
+speaker_translation = "에리스"
 original = "「そ、そうでしょうか……？\u3000そう言われるとその、少々こそばゆいですね……」"
 translation = "「그, 그럴까요……? 그렇게 말씀하시니 그게, 조금 쑥스럽네요……」"
 
 [[dialogue]]
-speaker = "エリス"
+speaker_original = "エリス"
+speaker_translation = "에리스"
 original = "「そうです、せっかくですからケーキも頼みましょう！」"
 translation = "「맞아요, 모처럼이니 케이크도 주문하죠!」"
 
@@ -104,117 +120,140 @@ original = "（あ、ごまかした）"
 translation = "(아, 얼버무렸다.)"
 
 [[dialogue]]
-speaker = "エリス"
+speaker_original = "エリス"
+speaker_translation = "에리스"
 original = "「私はミルクレープにします」"
 translation = "「저는 밀크레이프로 하겠어요.」"
 
 [[dialogue]]
-speaker = "エリス"
+speaker_original = "エリス"
+speaker_translation = "에리스"
 original = "「ミルクレープはこちらに来て初めて食べたのですが、お気に入りなんです。クレープはフランスが発祥なのに不思議なものですね」"
 translation = "「밀크레이프는 이곳에 와서 처음 먹어봤는데, 마음에 쏙 들었거든요. 크레이프는 프랑스가 발상지인데 신기한 일이죠.」"
 
 [[dialogue]]
-speaker = "エリス"
+speaker_original = "エリス"
+speaker_translation = "에리스"
 original = "「……おや」"
 translation = "「……어라.」"
 
 [[dialogue]]
-speaker = "アニュラス"
+speaker_original = "アニュラス"
+speaker_translation = "아뉴라스"
 original = "「普通のコーヒーとエスプレッソはどう違うのだ？\u3000いや、砂糖とミルクはいらない。そのままでいい」"
 translation = "「보통 커피와 에스프레소는 어떻게 다른 거지? 아니, 설탕과 우유는 필요 없다. 그대로면 돼.」"
 
 [[dialogue]]
-speaker = "ヨミ"
+speaker_original = "ヨミ"
+speaker_translation = "요미"
 original = "「か、かしこまりました……」"
 translation = "「아, 알겠습니다……」"
 
 [[dialogue]]
-speaker = "アニュラス"
+speaker_original = "アニュラス"
+speaker_translation = "아뉴라스"
 original = "「なんだ、お前か。あと新星の会長もいるな」"
 translation = "「뭐냐, 너였나. 그리고 신성의 회장도 있군.」"
 
 [[dialogue]]
-speaker = "エリス"
+speaker_original = "エリス"
+speaker_translation = "에리스"
 original = "「私たち、流星学園入学以前からの知り合いでして」"
 translation = "「우리, 유성학원 입학 전부터 알던 사이거든요.」"
 
 [[dialogue]]
-speaker = "エリス"
+speaker_original = "エリス"
+speaker_translation = "에리스"
 original = "「リヨンでモンスターにやられそうになった時、私を助けてくれたのがアニュラスなんです」"
 translation = "「리옹에서 몬스터에게 당할 뻔했을 때 저를 구해준 게 아뉴라스예요.」"
 
 [[dialogue]]
-speaker = "エリス"
+speaker_original = "エリス"
+speaker_translation = "에리스"
 original = "「あの時、現九浄家当主の九浄ヘレナさんがヨーロッパを巡遊していて、武者修行と護衛を兼ねてアニュラスが同行していたんです」"
 translation = "「그때 현 쿠죠 가문 당주인 쿠죠 헬레나 씨가 유럽을 순유하고 계셨는데, 무사 수행과 호위를 겸해서 아뉴라스가 동행하고 있었거든요.」"
 
 [[dialogue]]
-speaker = "アニュラス"
+speaker_original = "アニュラス"
+speaker_translation = "아뉴라스"
 original = "「そんなこともあったか」"
 translation = "「그런 일도 있었지.」"
 
 [[dialogue]]
-speaker = "エリス"
+speaker_original = "エリス"
+speaker_translation = "에리스"
 original = "「あの時は仮面は付けていませんでしたけど。素顔を見せてくれないのは少し寂しいです」"
 translation = "「그때는 가면을 쓰고 있지 않았지만요. 맨얼굴을 보여주지 않는 건 조금 섭섭해요.」"
 
 [[dialogue]]
-speaker = "エリス"
+speaker_original = "エリス"
+speaker_translation = "에리스"
 original = "「そのノート……アニュラスは勉強ですか？\u3000私の方が上級生ですし、わからないところがあれば教えましょうか」"
 translation = "「그 노트…… 아뉴라스는 공부 중인가요? 제가 상급생이니까 모르는 부분이 있으면 가르쳐줄까요?」"
 
 [[dialogue]]
-speaker = "アニュラス"
+speaker_original = "アニュラス"
+speaker_translation = "아뉴라스"
 original = "「必要ない。自分でできる」"
 translation = "「필요 없다. 혼자서 할 수 있어.」"
 
 [[dialogue]]
-speaker = "エリス"
+speaker_original = "エリス"
+speaker_translation = "에리스"
 original = "「この後、模擬戦でお手合わせお願いしたくて。だから早く終わらせてほしいんですよ」"
 translation = "「이따가 모의전으로 대련을 부탁드리고 싶어서요. 그래서 빨리 끝내주셨으면 하거든요.」"
 
 [[dialogue]]
-speaker = "アニュラス"
+speaker_original = "アニュラス"
+speaker_translation = "아뉴라스"
 original = "「……そういうことならいいだろう。手伝わせてやる」"
 translation = "「……그렇게 된 거라면 좋겠지. 도와주게 하마.」"
 
 [[dialogue]]
-speaker = "ヨミ"
+speaker_original = "ヨミ"
+speaker_translation = "요미"
 original = "「お待たせしました。カフェオレと……エスプレッソです」"
 translation = "「오래 기다리셨습니다. 카페오레와…… 에스프레소입니다.」"
 
 [[dialogue]]
-speaker = "アニュラス"
+speaker_original = "アニュラス"
+speaker_translation = "아뉴라스"
 original = "「ああ。ズズ──ッ！？」"
 translation = "「음. 후루룩──!?」"
 
 [[dialogue]]
-speaker = "エリス"
+speaker_original = "エリス"
+speaker_translation = "에리스"
 original = "（とても苦そうな顔をしていますね……仮面越しでもわかります……）"
 translation = "(무척 써 보이는 표정이네요…… 가면 너머로도 알 수 있어요……)"
 
 [[dialogue]]
-speaker = "エリス"
+speaker_original = "エリス"
+speaker_translation = "에리스"
 original = "「私のカフェオレと交換しませんか？」"
 translation = "「제 카페오레와 바꾸지 않을래요?」"
 
 [[dialogue]]
-speaker = "アニュラス"
+speaker_original = "アニュラス"
+speaker_translation = "아뉴라스"
 original = "「問題ない。想定通りだ」"
 translation = "「문제없다. 예상대로다.」"
 
 [[dialogue]]
-speaker = "エリス"
+speaker_original = "エリス"
+speaker_translation = "에리스"
 original = "「いえ、なんとなくエスプレッソが飲みたい気分なんです。いけませんか？」"
 translation = "「아니요, 왠지 에스프레소가 마시고 싶은 기분이라서요. 안 될까요?」"
 
 [[dialogue]]
-speaker = "アニュラス"
+speaker_original = "アニュラス"
+speaker_translation = "아뉴라스"
 original = "「仕方ない……ほら」"
 translation = "「어쩔 수 없군…… 자.」"
 
 [[dialogue]]
-speaker = "エリス"
+speaker_original = "エリス"
+speaker_translation = "에리스"
 original = "「ふふっ、ありがとうございます」"
 translation = "「후훗, 감사합니다.」"
 
@@ -224,32 +263,38 @@ original = "（うまく操っている……）"
 translation = "(잘 다루고 있어……)"
 
 [[dialogue]]
-speaker = "エリス"
+speaker_original = "エリス"
+speaker_translation = "에리스"
 original = "「この問題は両辺を１０倍すると計算しやすくなりますよ」"
 translation = "「이 문제는 양변에 10을 곱하면 계산하기 편해져요.」"
 
 [[dialogue]]
-speaker = "アニュラス"
+speaker_original = "アニュラス"
+speaker_translation = "아뉴라스"
 original = "「わ、わかっている。今やろうとしていたところだ。……両辺？\u3000りょうへん？？？」"
 translation = "「아, 알고 있다. 지금 하려던 참이었다. ……양변? 양벼언???」"
 
 [[dialogue]]
-speaker = "エリス"
+speaker_original = "エリス"
+speaker_translation = "에리스"
 original = "「ちょっとペンを貸してください。ここをこうして……こちらも……」"
 translation = "「잠깐 펜 좀 빌려주세요. 여기를 이렇게 하고…… 이쪽도……」"
 
 [[dialogue]]
-speaker = "アニュラス"
+speaker_original = "アニュラス"
+speaker_translation = "아뉴라스"
 original = "「むむ、むむむ？\u3000…………そういうことか！」"
 translation = "「음, 음음음? …………그렇게 된 건가!」"
 
 [[dialogue]]
-speaker = "アニュラス"
+speaker_original = "アニュラス"
+speaker_translation = "아뉴라스"
 original = "「ハッ──いや言われなくとも理解していたぞ。理解していたからな！」"
 translation = "「핫── 아니, 말하지 않아도 이해하고 있었다고. 이해하고 있었으니까 말이다!」"
 
 [[dialogue]]
-speaker = "エリス"
+speaker_original = "エリス"
+speaker_translation = "에리스"
 original = "「ええ、承知していますよ。その調子で解いていきましょう」"
 translation = "「네, 알고 있어요. 그 기세로 계속 풀어보죠.」"
 

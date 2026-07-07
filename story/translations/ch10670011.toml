@@ -4,57 +4,68 @@ original = "第１話,見学！\u3000異世界流星学園！,P"
 translation = "제1화, 견학! 이세계 유성학원!, P"
 
 [[dialogue]]
-speaker = "ユウリ"
+speaker_original = "ユウリ"
+speaker_translation = "유우리"
 original = "「へぇ～。この人がフィオナの言ってたクルセイダースの」"
 translation = "「헤에~. 이 사람이 피오나가 말했던 크루세이더스의」"
 
 [[dialogue]]
-speaker = "セーラ"
+speaker_original = "セーラ"
+speaker_translation = "세라"
 original = "「クルセイダースっていったら大昔の英雄さんだけど、うちらとそう変わんないね？\u3000てゆか下手したら、うちより年下的な？」"
 translation = "「크루세이더스라고 하면 먼 옛날의 영웅이라던데, 우리랑 별반 다를 게 없네? 그보다 어쩌면 나보다 어린 거 아냐?」"
 
 [[dialogue]]
-speaker = "ソフィア"
+speaker_original = "ソフィア"
+speaker_translation = "소피아"
 original = "「そうですね、イメージとは似ても似つきません。やはりこちらの世界のクルセイダースとは違うのでしょうか」"
 translation = "「그렇네요, 이미지와는 전혀 딴판이에요. 역시 이쪽 세계의 크루세이더스와는 다른 걸까요」"
 
 [[dialogue]]
-speaker = "聖沙"
+speaker_original = "聖沙"
+speaker_translation = "미사"
 original = "「コ、コホン。そんなにジロジロ舐め回すように眺めなくても。まるで見世物小屋のパンダになった気分だわ」"
 translation = "「커, 큼. 그렇게 빤히 훑어보듯이 쳐다보지 않아도. 마치 구경거리가 된 판다 기분인걸」"
 
 [[dialogue]]
-speaker = "ルリエル"
+speaker_original = "ルリエル"
+speaker_translation = "루리엘"
 original = "「聖沙さんは正真正銘のクルセイダースですよ！\u3000それにとーっても強いんです！\u3000よく覚えていませんが、わたしもズドドドってありとあらゆる場所を射抜かれまして──」"
 translation = "「미사 씨는 정통 크루세이더스라고요! 거기다 어어어엄청 강해요! 잘 기억나진 않지만 저도 즈도도도 하고 온갖 곳을 꿰뚫려 버려서──」"
 
 [[dialogue]]
-speaker = "聖沙"
+speaker_original = "聖沙"
+speaker_translation = "미사"
 original = "「そ、その節はごめんなさい。ルリエルさんが正気を失っていたものだから」"
 translation = "「그, 그때는 미안해. 루리엘 씨가 제정신이 아니었으니까」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「まずはお互い自己紹介しないとね。せっかく聖沙さんが私たち流星学園星徒会を見学しに来てくれたんだから」"
 translation = "「우선은 서로 자기소개를 해야겠네. 어렵게 미사 씨가 우리 유성학원 성도회를 견학하러 와줬으니까」"
 
 [[dialogue]]
-speaker = "ユウリ"
+speaker_original = "ユウリ"
+speaker_translation = "유우리"
 original = "「おっと、そうだったそうだった。あたしは楠葉ユウリ。星徒会の庶務だ」"
 translation = "「앗, 그랬지 그랬어. 나는 쿠스하 유우리. 성도회의 서무다」"
 
 [[dialogue]]
-speaker = "セーラ"
+speaker_original = "セーラ"
+speaker_translation = "세라"
 original = "「うちは副会長の桐原セーラ。ねぇねぇ、みさちーって呼んでいい？\u3000うちのこともセーラで全然オケだから♪\u3000とりま、よろしくね～♪」"
 translation = "「우리는 부회장 키리하라 세라. 있잖아 있잖아, 미사치라고 불러도 돼? 나도 세라라고 불러도 완전 오케이니까♪ 암튼 잘 부탁해~♪」"
 
 [[dialogue]]
-speaker = "ソフィア"
+speaker_original = "ソフィア"
+speaker_translation = "소피아"
 original = "「私は奏ソフィアです。星徒会では書記を担当しています。腹巻きを巻いて寝るのが最近のマイブームです」"
 translation = "「저는 카나데 소피아입니다. 성도회에서는 서기를 담당하고 있어요. 배가리개를 차고 자는 게 요즘 제 유행이에요」"
 
 [[dialogue]]
-speaker = "聖沙"
+speaker_original = "聖沙"
+speaker_translation = "미사"
 original = "「ユウリさんにセーラさん、それにソフィアさんね？\u3000みさちーは……まぁいいけど。それと──」"
 translation = "「유우리 씨에 세라 씨, 그리고 소피아 씨지? 미사치는…… 뭐 상관없지만. 그리고──」"
 
@@ -64,102 +75,122 @@ original = "どうも新星学園の星徒会長です"
 translation = "아무래도 신성학원의 성도회장입니다"
 
 [[dialogue]]
-speaker = "ルリエル"
+speaker_original = "ルリエル"
+speaker_translation = "루리엘"
 original = "「無駄に新星学園の名前をアピールしてきました！\u3000これは噂に聞くあれですか！？\u3000ライバル校へのあぶり餅というヤツですか！？」"
 translation = "「쓸데없이 신성학원 이름을 어필해 왔어요! 이건 소문으로 듣던 그건가요!? 라이벌 학교에 대한 아부리모치라는 건가요!?」"
 
 [[dialogue]]
-speaker = "セーラ"
+speaker_original = "セーラ"
+speaker_translation = "세라"
 original = "「それを言うなら殴り込みだよ、ルリち～。てゆか、そもそも単なる付き添いじゃない？」"
 translation = "「그걸 말하려면 쳐들어오는 거겠지, 루리치~. 그보다 애초에 그냥 보호자 아냐?」"
 
 [[dialogue]]
-speaker = "ソフィア"
+speaker_original = "ソフィア"
+speaker_translation = "소피아"
 original = "「流星学園は迷宮のように広いですからね。私も迷子に──コホン。一度も迷子になったことはありませんが、未だに迷いそうになる時もありますから」"
 translation = "「유성학원은 미궁처럼 넓으니까요. 저도 길을 잃── 큼. 한 번도 길을 잃은 적은 없지만, 아직도 헷갈릴 때가 있으니까요」"
 
 [[dialogue]]
-speaker = "聖沙"
+speaker_original = "聖沙"
+speaker_translation = "미사"
 original = "「いえ、会長さんのことは顔も名前もバッチリ覚えてるんだけど。あ、あの子はいないのかしら？」"
 translation = "「아니, 회장님은 얼굴도 이름도 확실히 기억하고 있는데. 아, 그 아이는 없나 해서?」"
 
 [[dialogue]]
-speaker = "ルリエル"
+speaker_original = "ルリエル"
+speaker_translation = "루리엘"
 original = "「あの子、ですか？\u3000流星星徒会のメンバーはこれで全員ですよ？」"
 translation = "「그 아이요? 유성 성도회 멤버는 이게 전부인데요?」"
 
 [[dialogue]]
-speaker = "聖沙"
+speaker_original = "聖沙"
+speaker_translation = "미사"
 original = "「役員じゃなくて、あの子よ。とってもキュートで愛らしい、鈴とマントがトレードマークの……」"
 translation = "「임원이 아니라 그 애 말이야. 정말 큐트하고 사랑스러운, 방울이랑 망토가 트레이드마크인……」"
 
 [[dialogue]]
-speaker = "ユウリ"
+speaker_original = "ユウリ"
+speaker_translation = "유우리"
 original = "「とってもキュートで愛らしい？\u3000鈴とマントがトレードマークの？\u3000そんなヤツ……うちの星徒会にいたか？」"
 translation = "「정말 큐트하고 사랑스러워? 방울이랑 망토가 트레이드마크라고? 그런 녀석…… 우리 성도회에 있었나?」"
 
 [[dialogue]]
-speaker = "聖沙"
+speaker_original = "聖沙"
+speaker_translation = "미사"
 original = "「いるはずよ！\u3000現に私はこの前の騒動の時に会って──」"
 translation = "「있을 텐데! 실제로 나는 지난 소동 때 만났──」"
 
 [[dialogue]]
-speaker = "ニャリオン"
+speaker_original = "ニャリオン"
+speaker_translation = "냐리온"
 original = "「フィオナ嬢～。お昼はまだかニャ～？\u3000今日はにゅーるの気分だニャ～」"
 translation = "「피오나 양~. 점심은 아직이냥~? 오늘은 츄르 기분이다냥~」"
 
 [[dialogue]]
-speaker = "聖沙"
+speaker_original = "聖沙"
+speaker_translation = "미사"
 original = "「きゃああああっっ～！！\u3000いたーっ！！\u3000きゃわいいいっ～～！！！」"
 translation = "「꺄아아앗~!! 여기 있다~!! 너무 귀여워~~!!!」"
 
 [[dialogue]]
-speaker = "ニャリオン"
+speaker_original = "ニャリオン"
+speaker_translation = "냐리온"
 original = "「グニャニャニャっ！！？\u3000ニャんで、この女がここに──！！？」"
 translation = "「구냐냐냐!!? 냥데, 이 여자가 여기에──!!?」"
 
 [[dialogue]]
-speaker = "セーラ"
+speaker_original = "セーラ"
+speaker_translation = "세라"
 original = "「あははっニャリオンちゃん、ちょお頬ずりされてんじゃん。ぬいぐるみだったら、中から綿が飛び出ちゃいそうなくらい握り締められちゃってんし～♪」"
 translation = "「아하하 냐리온짱, 완전 부비부비당하고 있잖아. 인형이었으면 안에서 솜이 튀어나올 정도로 꽉 쥐여지고 있고~♪」"
 
 [[dialogue]]
-speaker = "ユウリ"
+speaker_original = "ユウリ"
+speaker_translation = "유우리"
 original = "「あー、そういやアホ猫の存在忘れてたわ。つってもキュートで愛らしいって時点でどのみちピンとはこねえけど」"
 translation = "「아, 그러고 보니 바보 고양이 존재를 잊고 있었네. 그래도 큐트하고 사랑스럽다는 시점에서 어차피 감은 안 왔겠지만」"
 
 [[dialogue]]
-speaker = "ニャリオン"
+speaker_original = "ニャリオン"
+speaker_translation = "냐리온"
 original = "「見てニャいで助けっ……！！\u3000毛並みがっ、ワガハイの凛々しく上品な毛並みがメチャクチャにされてるニャぁ……！！」"
 translation = "「보고만 있지 말고 도와라냥……!! 털 결이, 와가하이의 늠름하고 품격 있는 털 결이 엉망진창이 되고 있다냥……!!」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「ふふ、クルセイダースさまに可愛がってもらえるなんて光栄じゃないですか。どうぞ聖沙さん。お好きなだけ撫でてあげてください」"
 translation = "「후후, 크루세이더스 님께 귀여움 받는 건 영광 아니겠어요. 자 미사 씨. 마음껏 쓰다듬어 주세요」"
 
 [[dialogue]]
-speaker = "ニャリオン"
+speaker_original = "ニャリオン"
+speaker_translation = "냐리온"
 original = "「ニャニャ！？\u3000フィオナ嬢まで！？」"
 translation = "「냐냐!? 피오나 양까지!?」"
 
 [[dialogue]]
-speaker = "聖沙"
+speaker_original = "聖沙"
+speaker_translation = "미사"
 original = "「ねね、お腹空いてるんでしょ？\u3000キャットフード食べる？\u3000道すがらあなたのために買ってきてあげたの♪\u3000猫じゃらしも持ってきたわよ♪」"
 translation = "「있지 있지, 배고프지? 고양이 사료 먹을래? 오는 길에 널 위해서 사 왔어♪ 강아지풀도 가져왔다고♪」"
 
 [[dialogue]]
-speaker = "ニャリオン"
+speaker_original = "ニャリオン"
+speaker_translation = "냐리온"
 original = "「ワガハイをその辺の野良猫と一緒にするんじゃないニャ！\u3000ワガハイは偉大なる──ニャニャン！\u3000フィオナ嬢の従──ニャフン！\u3000ニャリオ──んにゃん！！」"
 translation = "「와가하이를 그 근처 길고양이랑 같이 취급하지 마라냥! 와가하이는 위대한── 냐냐냥! 피오나 양의 종── 냐훙! 냐리오──ㄴ냥!!」"
 
 [[dialogue]]
-speaker = "聖沙"
+speaker_original = "聖沙"
+speaker_translation = "미사"
 original = "「きゃぁっ～！！\u3000猫じゃらし叩くのうま～い！！\u3000可愛い～！！」"
 translation = "「꺄아~!! 강아지풀 잡는 솜씨 짱이다!! 귀여워~!!」"
 
 [[dialogue]]
-speaker = "ニャリオン"
+speaker_original = "ニャリオン"
+speaker_translation = "냐리온"
 original = "「ぐにゃ～！！\u3000体が勝手に反応してしまうニャ～！！」"
 translation = "「구냐~!! 몸이 멋대로 반응해버린다냥~!!」"
 
@@ -169,87 +200,104 @@ original = "……お目当てはニャリオンだったわけか"
 translation = "……목표는 냐리온이었던 건가"
 
 [[dialogue]]
-speaker = "聖沙"
+speaker_original = "聖沙"
+speaker_translation = "미사"
 original = "「ご、ごめんなさい。あんまり可愛いものだからつい……。機嫌直して？\u3000ねっ？」"
 translation = "「미, 미안해. 너무 귀여워서 그만……. 기분 풀어? 응?」"
 
 [[dialogue]]
-speaker = "ニャリオン"
+speaker_original = "ニャリオン"
+speaker_translation = "냐리온"
 original = "「プイっ、ニャ！」"
 translation = "「퉤, 냥!」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「ダメよ、ニャリオン。わざわざ会いに来てくれたのに、そんな失礼な態度を取ったら」"
 translation = "「안 돼, 냐리온. 일부러 만나러 와줬는데 그런 무례한 태도를 취하면」"
 
 [[dialogue]]
-speaker = "聖沙"
+speaker_original = "聖沙"
+speaker_translation = "미사"
 original = "「べ、別にニャリオンさんにだけ会いに来たわけじゃないのよ？\u3000本当にこちらの流星学園生徒会の皆さんとも話してみたいと思っていて」"
 translation = "「떠, 딱히 냐리온 씨만 만나러 온 건 아니라고? 정말로 여기 유성학원 성도회 여러분과도 이야기해보고 싶다고 생각해서」"
 
 [[dialogue]]
-speaker = "セーラ"
+speaker_original = "セーラ"
+speaker_translation = "세라"
 original = "「いーよいーよ、フォロー入れなくても♪\u3000みさちーがかわい～ってことも、よーくわかったし♪」"
 translation = "「됐어 됐어, 변명 안 해도 돼♪ 미사치가 귀여운 걸 좋아한다는 거 잘 알았으니까♪」"
 
 [[dialogue]]
-speaker = "聖沙"
+speaker_original = "聖沙"
+speaker_translation = "미사"
 original = "「なっ、かわいい！？」"
 translation = "「뭣, 귀여워!?」"
 
 [[dialogue]]
-speaker = "ルリエル"
+speaker_original = "ルリエル"
+speaker_translation = "루리엘"
 original = "「わたしたちのことを知りたいっていうお話なら、カードゲームでもしませんか？\u3000みんなで、よくやってるんです！」"
 translation = "「우리들에 대해 알고 싶다는 이야기라면 카드 게임이라도 하지 않을래요? 다들 자주 하고 있거든요!」"
 
 [[dialogue]]
-speaker = "ユウリ"
+speaker_original = "ユウリ"
+speaker_translation = "유우리"
 original = "「お、いいな。ついでにアホ猫の所有権も賭けようぜ。トップがアホ猫を一週間、自分の使い魔にできるってことで」"
 translation = "「오, 좋네. 하는 김에 바보 고양이 소유권도 걸자고. 1등이 바보 고양이를 일주일 동안 자기 사역마로 삼을 수 있는 걸로」"
 
 [[dialogue]]
-speaker = "ニャリオン"
+speaker_original = "ニャリオン"
+speaker_translation = "냐리온"
 original = "「何を勝手に決めてるニャ！？\u3000ワガハイはフィオナ嬢の使い魔ニャ！！\u3000それに万が一、あの女がトップを取ったら……！」"
 translation = "「뭘 마음대로 정하냥!? 와가하이는 피오나 양의 사역마다냥!! 게다가 만에 하나 저 여자가 1등이라도 하면……!」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「ふふ、いいですよ。トップの方にしばらくニャリオンを預けますね？」"
 translation = "「후후, 좋아요. 1등 하신 분께 당분간 냐리온을 맡길게요?」"
 
 [[dialogue]]
-speaker = "ニャリオン"
+speaker_original = "ニャリオン"
+speaker_translation = "냐리온"
 original = "「ニャんですと！？」"
 translation = "「냥이라고요!?」"
 
 [[dialogue]]
-speaker = "セーラ"
+speaker_original = "セーラ"
+speaker_translation = "세라"
 original = "「だってさ～。ふふふ、ニャリオンちゃん知ってる？\u3000ゲームってのは自分が勝つより誰かを勝たせる方が何倍も簡単なんだよ～？」"
 translation = "「들었지~. 후후후, 냐리온짱 알아? 게임이라는 건 자기가 이기는 것보다 누군가를 이기게 만드는 게 몇 배는 더 쉽다는 걸~?」"
 
 [[dialogue]]
-speaker = "ニャリオン"
+speaker_original = "ニャリオン"
+speaker_translation = "냐리온"
 original = "「こ、こいつら、あの女をわざと勝たせるつもりニャ……！\u3000どうしてそんな残酷なコトができるニャぁぁ～！！？」"
 translation = "「이, 이 녀석들, 저 여자를 일부러 이기게 만들 생각이다냥……! 어째서 그런 잔인한 짓을 할 수 있냥~~!!?」"
 
 [[dialogue]]
-speaker = "聖沙"
+speaker_original = "聖沙"
+speaker_translation = "미사"
 original = "「ふ、不正はダメよ！\u3000やるなら正々堂々勝負しましょ！\u3000その上で私はニャリオンさんを必ず手に入れてみせるから……！」"
 translation = "「부, 부정은 안 돼! 할 거면 정정당당하게 승부하자! 그 대신 나는 냐리온 씨를 반드시 손에 넣고 말 테니까……!」"
 
 [[dialogue]]
-speaker = "ソフィア"
+speaker_original = "ソフィア"
+speaker_translation = "소피아"
 original = "「正々堂々と、ですか。ふふ、聖沙さんのことが少しわかった気がしますね。では私が公平にカードをお配りしますよ」"
 translation = "「정정당당하게, 말인가요. 후후, 미사 씨에 대해 조금 알 것 같은 기분이 드네요. 그럼 제가 공평하게 카드를 나눠 드릴게요」"
 
 [[dialogue]]
-speaker = "ニャリオン"
+speaker_original = "ニャリオン"
+speaker_translation = "냐리온"
 original = "「ま、負けられないニャ……！\u3000この勝負だけは絶対に負けられないニャっ……！！」"
 translation = "「지, 질 수 없다냥……! 이 승부만큼은 절대로 질 수 없다냥……!!」"
 
 [[dialogue]]
-speaker = "聖沙"
+speaker_original = "聖沙"
+speaker_translation = "미사"
 original = "「それじゃあ──勝負よ、ニャリオンさん！\u3000私だって、ふふ、絶対に負けないんだからっ♪」"
 translation = "「그럼── 승부야, 냐리온 씨! 나도, 후후, 절대로 안 질 거니까♪」"
 

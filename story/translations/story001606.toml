@@ -1,255 +1,306 @@
 [[dialogue]]
-speaker = "セナリィ"
+speaker_original = "セナリィ"
+speaker_translation = "세나리"
 original = "「新規依頼が３件……」"
 translation = "「신규 의뢰가 3건……」"
 
 [[dialogue]]
-speaker = "セナリィ"
+speaker_original = "セナリィ"
+speaker_translation = "세나리"
 original = "（以前より仕事の依頼が来てくれるのはありがたいのだけど……ヒマワリが稼いでくれてるおかげか、報酬がしょぼく見えてしまうわね……）"
 translation = "(이전보다 일 의뢰가 많이 들어오는 건 고마운 일이지만…… 히마와리가 벌어다 주는 덕분인지 보수가 쥐꼬리만 하게 보이네……)"
 
 [[dialogue]]
-speaker = "セナリィ"
+speaker_original = "セナリィ"
+speaker_translation = "세나리"
 original = "（何も危険に身を晒さなくとも、しばらくは食い繋げ──いいえ！\u3000金額の大小じゃないわ！\u3000『裏社会にゴールデングースあり！』と知らしめなければ！）"
 translation = "(굳이 위험에 몸을 노출하지 않아도 당분간은 먹고살 수 있── 아니! 금액의 크고 작음이 아니야! 『뒷세계에 골든 구스가 있다!』는 걸 널리 알려야 해!)"
 
 [[dialogue]]
-speaker = "セナリィ"
+speaker_original = "セナリィ"
+speaker_translation = "세나리"
 original = "（実績に基づいた圧倒的な知名度は、お金で買うものではないの。これぞまさにプライスレス！）"
 translation = "(실적에 근거한 압도적인 지명도는 돈으로 사는 게 아니야. 이야말로 진정한 프라이스리스!)"
 
 [[dialogue]]
-speaker = "セナリィ"
+speaker_original = "セナリィ"
+speaker_translation = "세나리"
 original = "（よもや、この子たちにお金では買えないものを教えられるとは思いもよらなかったわ……）"
 translation = "(설마 이 아이들에게 돈으로는 살 수 없는 것을 가르치게 될 줄은 꿈에도 몰랐네……)"
 
 [[dialogue]]
-speaker = "ミウ"
+speaker_original = "ミウ"
+speaker_translation = "미우"
 original = "「セナリィ社長？\u3000遠い目をされて、どうかしました？」"
 translation = "「세나리 사장님? 먼 곳을 보고 계시는데 무슨 일 있나요?」"
 
 [[dialogue]]
-speaker = "セナリィ"
+speaker_original = "セナリィ"
+speaker_translation = "세나리"
 original = "「なんでもありませんわ。今晩は犯罪者を追いかけ回すだけの簡単なお仕事。ゴールデングース出撃しますわよ！」"
 translation = "「아무것도 아닙니다. 오늘 밤은 범죄자를 쫓아다니기만 하면 되는 간단한 업무. 골든 구스, 출격합니다!」"
 
 [[dialogue]]
-speaker = "ミウ＆ヒマワリ"
+speaker_original = "ミウ＆ヒマワリ"
+speaker_translation = "미우 & 히마와리"
 original = "「了解っ！」"
 translation = "「라져!」"
 
 [[dialogue]]
-speaker = "ヒマワリ"
+speaker_original = "ヒマワリ"
+speaker_translation = "히마와리"
 original = "「さぁ、あたしらゴールデングースの恐怖を心に刻みつけて、お縄につけー！」"
 translation = "「자, 우리 골든 구스의 공포를 마음에 새기고 포승줄을 받아라ー!」"
 
 [[dialogue]]
-speaker = "ミウ"
+speaker_original = "ミウ"
+speaker_translation = "미우"
 original = "「私たち２人でも余裕そうだね、ヒマワリちゃん」"
 translation = "「우리 둘만으로도 여유롭겠네, 히마와리짱.」"
 
 [[dialogue]]
-speaker = "ヒマワリ"
+speaker_original = "ヒマワリ"
+speaker_translation = "히마와리"
 original = "「セナリィ社長の手を煩わせるまでもないっ！\u3000あたしたちだけで終わらせちゃおーよ！\u3000これなら見習いから昇格するのも、あっという間だね！」"
 translation = "「세나리 사장님의 손을 번거롭게 할 것까지도 없어! 우리끼리 끝내버리자구ー! 이러면 견습에서 승격하는 것도 순식간이겠네!」"
 
 [[dialogue]]
-speaker = "ミウ"
+speaker_original = "ミウ"
+speaker_translation = "미우"
 original = "「事前の話通り、逃げ足だけは速いね。このままだと引き離されちゃう。狙撃で脳天を撃ち抜けば、簡単なのに……」"
 translation = "「사전 정보대로 도망 하나는 빠르네. 이대로라면 거리가 벌어지겠어. 저격으로 정수리를 뚫어버리면 간단할 텐데……」"
 
 [[dialogue]]
-speaker = "ヒマワリ"
+speaker_original = "ヒマワリ"
+speaker_translation = "히마와리"
 original = "「ヘッドショットしたい気持ちはよーくわかるけど、ダメだよ！\u3000生かしたまま捕らえろって任務だし──」"
 translation = "「헤드샷 하고 싶은 기분은 아주 잘 알지만 안 돼! 산 채로 잡으라는 임무니까──」"
 
 [[dialogue]]
-speaker = "ミウ"
+speaker_original = "ミウ"
+speaker_translation = "미우"
 original = "「──！？\u3000止まって、ヒマワリちゃん！」"
 translation = "「──!? 멈춰, 히마와리짱!」"
 
 [[dialogue]]
-speaker = "ヒマワリ"
+speaker_original = "ヒマワリ"
+speaker_translation = "히마와리"
 original = "「え？\u3000──うわぁっ！？」"
 translation = "「에? ──우와앗!?」"
 
 [[dialogue]]
-speaker = "モンスター"
+speaker_original = "モンスター"
+speaker_translation = "몬스터"
 original = "「ピガーーー！」"
 translation = "「피가아아아!」"
 
 [[dialogue]]
-speaker = "ヒマワリ"
+speaker_original = "ヒマワリ"
+speaker_translation = "히마와리"
 original = "「なに、このモンスター！？\u3000こんな変なの見たことないよー！」"
 translation = "「뭐야 이 몬스터!? 이런 이상한 건 본 적 없다구ー!」"
 
 [[dialogue]]
-speaker = "ミウ"
+speaker_original = "ミウ"
+speaker_translation = "미우"
 original = "「全身が機械でできてる……噂には聞いてましたけど、これが新型……？」"
 translation = "「전신이 기계로 되어 있어…… 소문으로는 들었습니다만 이게 신형……?」"
 
 [[dialogue]]
-speaker = "ヒマワリ"
+speaker_original = "ヒマワリ"
+speaker_translation = "히마와리"
 original = "「ああっ、くそー！\u3000おまえのせいで逃げられちゃうじゃないかー！」"
 translation = "「아앗, 젠장ー! 너 때문에 놓쳐버리게 생겼잖아ー!」"
 
 [[dialogue]]
-speaker = "ミウ"
+speaker_original = "ミウ"
+speaker_translation = "미우"
 original = "「初見の相手ですから、プランの立てようがないです……困っちゃいましたね」"
 translation = "「처음 보는 상대라서 플랜을 세울 수가 없어요…… 곤란해졌네요.」"
 
 [[dialogue]]
-speaker = "ヒマワリ"
+speaker_original = "ヒマワリ"
+speaker_translation = "히마와리"
 original = "「あー、そこだよね。ミウの弱点」"
 translation = "「아ー, 거기가 미우의 약점이지.」"
 
 [[dialogue]]
-speaker = "ミウ"
+speaker_original = "ミウ"
+speaker_translation = "미우"
 original = "「むぅ……とりあえず脆そうな部分を狙ってみましょう」"
 translation = "「으음…… 일단 약해 보이는 부분을 노려보죠.」"
 
 [[dialogue]]
-speaker = "ヒマワリ"
+speaker_original = "ヒマワリ"
+speaker_translation = "히마와리"
 original = "「うわ、カッタぁ！\u3000あたしの銃弾がちっとも通んないよー！」"
 translation = "「우와, 딱딱해! 내 총알이 전혀 안 통해ー!」"
 
 [[dialogue]]
-speaker = "ミウ"
+speaker_original = "ミウ"
+speaker_translation = "미우"
 original = "「私の狙撃も弾かれちゃってます。装甲が薄そうな部分を狙っているんですが……」"
 translation = "「제 저격도 튕겨 나가고 있어요. 장갑이 얇아 보이는 부분을 노리고 있는데……」"
 
 [[dialogue]]
-speaker = "ヒマワリ"
+speaker_original = "ヒマワリ"
+speaker_translation = "히마와리"
 original = "「なんだよもー！\u3000そんなのズルだよ、ズル！\u3000チートだ、チート！」"
 translation = "「뭐야 정말ー! 그런 건 반칙이야, 반칙! 치트라고, 치트!」"
 
 [[dialogue]]
-speaker = "ミウ"
+speaker_original = "ミウ"
+speaker_translation = "미우"
 original = "「ターゲットには逃げられてしまいましたし、任務失敗ですね……生死を問わなければ、楽だったのに……」"
 translation = "「타겟은 놓쳐버렸고 임무 실패네요…… 생사 불문이었다면 편했을 텐데……」"
 
 [[dialogue]]
-speaker = "ヒマワリ"
+speaker_original = "ヒマワリ"
+speaker_translation = "히마와리"
 original = "「中途半端に攻撃したから、モンスターくんも怒ってるみたいだし……ヘイト集めすぎちゃった？」"
 translation = "「어설프게 공격했더니 몬스터 군도 화난 모양이고…… 어그로 너무 끌었나?」"
 
 [[dialogue]]
-speaker = "ミウ"
+speaker_original = "ミウ"
+speaker_translation = "미우"
 original = "「そうですね。ちょっとヤバい、かも」"
 translation = "「그러게요. 조금 위험할지도.」"
 
 [[dialogue]]
-speaker = "ヒマワリ"
+speaker_original = "ヒマワリ"
+speaker_translation = "히마와리"
 original = "「ミウがそう言うなら、めちゃヤバなんだろーね……どうしよっか」"
 translation = "「미우가 그렇게 말한다면 엄청 위험한 거겠지ー…… 어쩌지.」"
 
 [[dialogue]]
-speaker = "ミウ"
+speaker_original = "ミウ"
+speaker_translation = "미우"
 original = "「私のプランなら、撤退推奨です」"
 translation = "「제 플랜이라면 철수 권장입니다.」"
 
 [[dialogue]]
-speaker = "ヒマワリ"
+speaker_original = "ヒマワリ"
+speaker_translation = "히마와리"
 original = "「逃げるってことだね！\u3000あたしも賛成っ！」"
 translation = "「도망친다는 거네! 나도 찬성!」"
 
 [[dialogue]]
-speaker = "モンスター"
+speaker_original = "モンスター"
+speaker_translation = "몬스터"
 original = "「ピピガガーーー！」"
 translation = "「피피가가아아!」"
 
 [[dialogue]]
-speaker = "ヒマワリ"
+speaker_original = "ヒマワリ"
+speaker_translation = "히마와리"
 original = "「うわ、ヤバ、ヤバーッ！\u3000コイツ速ーいっ！」"
 translation = "「우와, 위험해 위험해ー! 이 녀석 빨라ー!」"
 
 [[dialogue]]
-speaker = "ミウ"
+speaker_original = "ミウ"
+speaker_translation = "미우"
 original = "「５秒後には追い付かれちゃいます！\u3000ヒマワリちゃん、もっと加速してっ！」"
 translation = "「5초 뒤면 따라잡혀요! 히마와리짱, 더 가속해!」"
 
 [[dialogue]]
-speaker = "ヒマワリ"
+speaker_original = "ヒマワリ"
+speaker_translation = "히마와리"
 original = "「そう言われても、これで目一杯だってー！」"
 translation = "「그렇게 말해도 이게 전력이란 말이야ー!」"
 
 [[dialogue]]
-speaker = "セナリィ（覚醒）"
+speaker_original = "セナリィ（覚醒）"
+speaker_translation = "세나리(각성)"
 original = "「ごめんなさい、２人とも。待たせてしまったようですわね」"
 translation = "「미안해요, 두 사람. 기다리게 한 모양이군요.」"
 
 [[dialogue]]
-speaker = "ミウ"
+speaker_original = "ミウ"
+speaker_translation = "미우"
 original = "「セナリィ社長、ですか……？\u3000その姿は……！？」"
 translation = "「세나리 사장님, 인가요……? 그 모습은……!?」"
 
 [[dialogue]]
-speaker = "セナリィ（覚醒）"
+speaker_original = "セナリィ（覚醒）"
+speaker_translation = "세나리(각성)"
 original = "「２人にも秘密にしていた<ruby>女帝<rt>エンプレス</rt></ruby>フォーム。今こそお披露目の時ですわ」"
 translation = "「두 사람에게도 비밀로 했던 <ruby>여제<rt>엠프레스</rt></ruby> 폼. 지금이야말로 선보일 때입니다.」"
 
 [[dialogue]]
-speaker = "ヒマワリ"
+speaker_original = "ヒマワリ"
+speaker_translation = "히마와리"
 original = "「<ruby>女帝<rt>エンプレス</rt></ruby>フォーム……カッコよ！」"
 translation = "「<ruby>여제<rt>엠프레스</rt></ruby> 폼…… 멋져!」"
 
 [[dialogue]]
-speaker = "セナリィ（覚醒）"
+speaker_original = "セナリィ（覚醒）"
+speaker_translation = "세나리(각성)"
 original = "「私の部下を可愛がってくれた礼、させていただきますわ。覚悟なさい！」"
 translation = "「제 부하를 귀여워해 준 보답, 해드리도록 하죠. 각오하세요!」"
 
 [[dialogue]]
-speaker = "ミウ"
+speaker_original = "ミウ"
+speaker_translation = "미우"
 original = "「そいつ、すっごく硬いですよ！\u3000気をつけてください！」"
 translation = "「그 녀석, 엄청나게 단단해요! 조심하세요!」"
 
 [[dialogue]]
-speaker = "セナリィ（覚醒）"
+speaker_original = "セナリィ（覚醒）"
+speaker_translation = "세나리(각성)"
 original = "「ふふ、心配には及びませんわ。私を誰だと思っていますの？」"
 translation = "「후후, 걱정할 필요 없습니다. 저를 누구라고 생각하는 거죠?」"
 
 [[dialogue]]
-speaker = "セナリィ（覚醒）"
+speaker_original = "セナリィ（覚醒）"
+speaker_translation = "세나리(각성)"
 original = "「あなたたちを統べる者の力、とくと見るがいいですわ！\u3000ガトリングパーティー！」"
 translation = "「당신들을 거느리는 자의 힘, 똑똑히 지켜보세요! 개틀링 파티!」"
 
 [[dialogue]]
-speaker = "セナリィ（覚醒）"
+speaker_original = "セナリィ（覚醒）"
+speaker_translation = "세나리(각성)"
 original = "「ゴールデングース総帥、バンデット・セナリィ。以後、お見知りおきを」"
 translation = "「골든 구스 총수, 밴디트 세나리. 이만 실례.」"
 
 [[dialogue]]
-speaker = "モンスター"
+speaker_original = "モンスター"
+speaker_translation = "몬스터"
 original = "「ピガガー……」"
 translation = "「피가가아……」"
 
 [[dialogue]]
-speaker = "ミウ"
+speaker_original = "ミウ"
+speaker_translation = "미우"
 original = "「い、一撃ですか……！？\u3000私たちが手も足も出なかったモンスターを……たったの一撃で……！？」"
 translation = "「이, 일격인가요……!? 저희가 손도 발도 못 썼던 몬스터를…… 단 일격에……!?」"
 
 [[dialogue]]
-speaker = "ヒマワリ"
+speaker_original = "ヒマワリ"
+speaker_translation = "히마와리"
 original = "「うわぁあぁぁぁぁ社長カッコよぉおおぉぉっ！」"
 translation = "「우와아아아아아 사장님 멋있어어어어엇!」"
 
 [[dialogue]]
-speaker = "セナリィ"
+speaker_original = "セナリィ"
+speaker_translation = "세나리"
 original = "（なるほど。やはり星力の消耗が尋常ではないわね……一撃で決める短期決戦なら、さっきのように使用できるけど……）"
 translation = "(과연. 역시 성력의 소모가 심상치 않군…… 일격에 끝내는 단기 결전이라면 방금처럼 사용할 수 있겠지만……)"
 
 [[dialogue]]
-speaker = "ヒマワリ"
+speaker_original = "ヒマワリ"
+speaker_translation = "히마와리"
 original = "「ありがとうございます、社長ーーっ！」"
 translation = "「감사합니다, 사장님ーー!」"
 
 [[dialogue]]
-speaker = "ミウ"
+speaker_original = "ミウ"
+speaker_translation = "미우"
 original = "「素敵でした……素敵が溢れ過ぎてました……！\u3000一生ついていこうと、固く心に誓いました！」"
 translation = "「멋졌어요…… 멋짐이 너무 넘쳤어요……! 평생 따르겠다고 굳게 마음먹었습니다!」"
 
 [[dialogue]]
-speaker = "セナリィ"
+speaker_original = "セナリィ"
+speaker_translation = "세나리"
 original = "（ま……とりあえず、社長の面目躍如といったところかしら……）"
 translation = "(뭐…… 일단은 사장의 면목은 세웠다고 해야 할까……)"
 

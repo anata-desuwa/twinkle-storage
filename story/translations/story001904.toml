@@ -1,5 +1,6 @@
 [[dialogue]]
-speaker = "オオヒメ"
+speaker_original = "オオヒメ"
+speaker_translation = "오오히메"
 original = "「なぜだ……なぜ滅びない……？」"
 translation = "「어째서냐…… 어째서 멸망하지 않는 거냐……?」"
 
@@ -14,207 +15,248 @@ original = "そして──"
 translation = "그리고──"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「世界に光を取り戻しましょう。目を覚ましてください、オオヒメ様……！」"
 translation = "「세계에 빛을 되찾읍시다. 제발 눈을 뜨세요, 오오히메 님……!」"
 
 [[dialogue]]
-speaker = "オオヒメ"
+speaker_original = "オオヒメ"
+speaker_translation = "오오히메"
 original = "「ぐあああっ……！？」"
 translation = "「구아아악……!?」"
 
 [[dialogue]]
-speaker = "オオヒメ"
+speaker_original = "オオヒメ"
+speaker_translation = "오오히메"
 original = "「私は……私は何を……？」"
 translation = "「나는…… 나는 무엇을……?」"
 
 [[dialogue]]
-speaker = "アイリーン"
+speaker_original = "アイリーン"
+speaker_translation = "아이린"
 original = "「オオヒメさん、消えちゃった……あー、しんどかったー！\u3000めちゃくちゃ強かったねー……！」"
 translation = "「오오히메 씨, 사라졌어…… 아ー, 힘들었다! 엄청 강했네……!」"
 
 [[dialogue]]
-speaker = "マグダレナ"
+speaker_original = "マグダレナ"
+speaker_translation = "막달레나"
 original = "「おや……？\u3000オオヒメの本体は、まだフィーニスの塔には戻っていないようです。これでは世界の滅びは回避できません」"
 translation = "「오야……? 오오히메의 본체는 아직 피니스의 탑으로 돌아가지 않은 모양입니다. 이래서는 세계의 멸망을 회피할 수 없습니다.」"
 
 [[dialogue]]
-speaker = "ウズメイア"
+speaker_original = "ウズメイア"
+speaker_translation = "우즈메"
 original = "「それじゃ今の戦い損じゃん！\u3000このままじゃトリシャさんの占い通りに、世界が滅んじゃうって～！」"
 translation = "「그럼 방금 싸운 건 헛수고잖아! 이대로라면 트리샤 씨 점괘대로 세계가 망한다구~!」"
 
 [[dialogue]]
-speaker = "マグダレナ"
+speaker_original = "マグダレナ"
+speaker_translation = "막달레나"
 original = "「神殿の奥底に引きこもっているようですね。そこに続く扉を固く閉ざしています」"
 translation = "「신전 깊숙한 곳에 틀어박힌 모양이군요. 그곳으로 이어지는 문을 굳게 닫고 있습니다.」"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「なら、神殿の扉をぶっ壊せばいいのね！\u3000オオヒメをやっつけた時みたいに、みんなの必殺技を叩きつけてやりましょ！」"
 translation = "「그럼 신전 문을 부숴버리면 되겠네! 오오히메를 해치웠을 때처럼 모두의 필살기를 쏟아붓자구!」"
 
 [[dialogue]]
-speaker = "マグダレナ"
+speaker_original = "マグダレナ"
+speaker_translation = "막달레나"
 original = "「いいえ、そう簡単にはいきません。あの扉はオオヒメの心そのもの。強烈な攻撃を闇雲にぶつけてもこじ開けることはできはないでしょう」"
 translation = "「아니요, 그렇게 간단하지 않습니다. 저 문은 오오히메의 마음 그 자체. 강렬한 공격을 무턱대고 퍼부어도 억지로 열 수는 없겠지요.」"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「ホント？\u3000木っ端ミジンコになりなさい！\u3000ハッピー・ニュースター！」"
 translation = "「정말? 가루가 되어버려라! 해피 뉴 스타!」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「ちょっと、ヴィーナスさん！？」"
 translation = "「잠깐, 비너스 씨!?」"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「私の必殺技でも傷ひとつついてないわ！\u3000カッチカチね！」"
 translation = "「내 필살기로도 상처 하나 안 나잖아! 엄청 딱딱하네!」"
 
 [[dialogue]]
-speaker = "マグダレナ"
+speaker_original = "マグダレナ"
+speaker_translation = "막달레나"
 original = "「つまり、オオヒメをフィーニスの塔へと連れ戻すには、力ずくではなく、彼女の心の扉を開かせなければいけません」"
 translation = "「즉, 오오히메를 피니스의 탑으로 데려가려면 힘이 아니라 그녀의 마음의 문을 열게 해야만 합니다.」"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「でも、心を開くってどうすればいいのかしら？\u3000お菓子でも持っていく？」"
 translation = "「하지만 마음을 연다는 건 어떻게 해야 하는 걸까? 과자라도 사 갈까?」"
 
 [[dialogue]]
-speaker = "ウズメイア"
+speaker_original = "ウズメイア"
+speaker_translation = "우즈메"
 original = "「一緒にお茶するとか、旅行に行くとか～？\u3000クリパはちょっと前に終わっちゃったけど～」"
 translation = "「같이 차를 마신다거나 여행을 간다거나~? 크리파는 조금 전에 끝났지만 말이야~.」"
 
 [[dialogue]]
-speaker = "舞亜"
+speaker_original = "舞亜"
+speaker_translation = "마이아"
 original = "「どうかな。あんまりぐいぐい行っても、逆に引かれちゃうかも」"
 translation = "「글쎄. 너무 들이대도 오히려 거부감만 살지도 몰라.」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「マグダレナさん、何かいい案はないでしょうか？\u3000オオヒメ様の性格がわかれば、何か手が思いつくかもしれませんが……」"
 translation = "「마그달레나 씨, 뭐 좋은 안 없을까요? 오오히메 님의 성격을 알면 뭔가 수단이 떠오를지도 모르겠는데……」"
 
 [[dialogue]]
-speaker = "マグダレナ"
+speaker_original = "マグダレナ"
+speaker_translation = "막달레나"
 original = "「ひとつ、オオヒメの扉に打ち込める楔があります」"
 translation = "「한 가지, 오오히메의 문에 박아 넣을 수 있는 쐐기가 있습니다.」"
 
 [[dialogue]]
-speaker = "アイリーン"
+speaker_original = "アイリーン"
+speaker_translation = "아이린"
 original = "「クサビ？\u3000お寿司に入ってる鼻がツーンってするヤツ？」"
 translation = "「쐐기? 초밥에 들어있는 코가 찡한 그거?」"
 
 [[dialogue]]
-speaker = "ソフィア"
+speaker_original = "ソフィア"
+speaker_translation = "소피아"
 original = "「それはワサビですね」"
 translation = "「그건 와사비죠.」"
 
 [[dialogue]]
-speaker = "舞亜"
+speaker_original = "舞亜"
+speaker_translation = "마이아"
 original = "「ひゅるるるる～、どっか～～ん」"
 translation = "「휘익~ 펑!」"
 
 [[dialogue]]
-speaker = "ソフィア"
+speaker_original = "ソフィア"
+speaker_translation = "소피아"
 original = "「それはハナビ！\u3000舞亜、今は真面目な話を──」"
 translation = "「그건 하나비(불꽃)! 마아, 지금은 진지한 이야기를──」"
 
 [[dialogue]]
-speaker = "マグダレナ"
+speaker_original = "マグダレナ"
+speaker_translation = "막달레나"
 original = "「それです」"
 translation = "「그겁니다.」"
 
 [[dialogue]]
-speaker = "舞亜"
+speaker_original = "舞亜"
+speaker_translation = "마이아"
 original = "「え？\u3000どれ？\u3000どういうこと？」"
 translation = "「에? 어떤 거? 무슨 소리야?」"
 
 [[dialogue]]
-speaker = "マグダレナ"
+speaker_original = "マグダレナ"
+speaker_translation = "막달레나"
 original = "「オオヒメが好きなものは『芸』です」"
 translation = "「오오히메가 좋아하는 것은 『예』입니다.」"
 
 [[dialogue]]
-speaker = "ウズメイア"
+speaker_original = "ウズメイア"
+speaker_translation = "우즈메"
 original = "「芸術とか芸能の『芸』？」"
 translation = "「예술이나 예능의 그 『예』?」"
 
 [[dialogue]]
-speaker = "マグダレナ"
+speaker_original = "マグダレナ"
+speaker_translation = "막달레나"
 original = "「はい。今のような漫才もですが、歌、お笑い、踊り、劇、一発芸。ジャンルは問いませんが、オオヒメは心を震わせる芸事に目がないのです」"
 translation = "「네. 방금 같은 만담도 그렇지만 노래, 코미디, 춤, 연극, 장기 자랑. 장르는 불문하지만 오오히메는 마음을 울리는 예술적인 장기에 사족을 못 씁니다.」"
 
 [[dialogue]]
-speaker = "ソフィア"
+speaker_original = "ソフィア"
+speaker_translation = "소피아"
 original = "「漫才をしていたつもりはないんですけど……」"
 translation = "「만담을 할 생각은 아니었습니다만……」"
 
 [[dialogue]]
-speaker = "マグダレナ"
+speaker_original = "マグダレナ"
+speaker_translation = "막달레나"
 original = "「オオヒメの心を動かすような芸を披露すれば、神殿の奥に篭っている彼女もたまらず顔を覗かせるでしょう」"
 translation = "「오오히메의 마음을 움직일 만한 장기를 선보이면 신전 깊은 곳에 숨어있는 그녀도 참지 못하고 얼굴을 내밀겠죠.」"
 
 [[dialogue]]
-speaker = "舞亜"
+speaker_original = "舞亜"
+speaker_translation = "마이아"
 original = "「今の漫才じゃ掴みは弱そうだったけどね」"
 translation = "「방금 만담으로는 관심 끌기엔 약할 것 같긴 했어.」"
 
 [[dialogue]]
-speaker = "ソフィア"
+speaker_original = "ソフィア"
+speaker_translation = "소피아"
 original = "「だから、漫才してたつもりはないってば！」"
 translation = "「그러니까 만담 한 거 아니라니까요!」"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「つまり、一足早めの隠し芸大会を開催すればいいのね！」"
 translation = "「즉, 한발 앞선 장기 자랑 대회를 개최하면 된다는 거네!」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「ヴィーナスさん、その言い方はあまりにも緊張感が……」"
 translation = "「비너스 씨, 그 말투는 너무 긴장감이……」"
 
 [[dialogue]]
-speaker = "マグダレナ"
+speaker_original = "マグダレナ"
+speaker_translation = "막달레나"
 original = "「ふふふ、それでいいのです。今必要なのは戦いではなく、心を楽しませる芸なのですから」"
 translation = "「후후후, 그걸로 된 겁니다. 지금 필요한 것은 싸움이 아니라 마음을 즐겁게 할 예술이니까요.」"
 
 [[dialogue]]
-speaker = "ソフィア"
+speaker_original = "ソフィア"
+speaker_translation = "소피아"
 original = "「芸なら舞亜の出番ですね！」"
 translation = "「예술이라면 마아가 나설 차례네요!」"
 
 [[dialogue]]
-speaker = "舞亜"
+speaker_original = "舞亜"
+speaker_translation = "마이아"
 original = "「え、私？\u3000隠し芸なんてできないよ？\u3000テーブルクロス引きとか練習した方が良いかな」"
 translation = "「에, 나? 나 장기 자랑 같은 거 못 하는데? 테이블보 빼기 같은 거라도 연습해야 하려나.」"
 
 [[dialogue]]
-speaker = "ソフィア"
+speaker_original = "ソフィア"
+speaker_translation = "소피아"
 original = "「なんで今から新しい芸を身に着けようとするの？\u3000舞亜にはあるでしょ、ワールドクラスのスケートが」"
 translation = "「왜 이제 와서 새로운 장기를 배우려는 거야? 마아에게는 있잖아, 월드 클래스 스케이트가.」"
 
 [[dialogue]]
-speaker = "舞亜"
+speaker_original = "舞亜"
+speaker_translation = "마이아"
 original = "「あ、それでいいんだ。なんとなく忘年会の余興みたいなの想像してたよ」"
 translation = "「아, 그걸로 되는구나. 왠지 망년회 여흥 같은 걸 상상했어.」"
 
 [[dialogue]]
-speaker = "ウズメイア"
+speaker_original = "ウズメイア"
+speaker_translation = "우즈메"
 original = "「おっもしろそ～！\u3000あたしもなんかやれるかな～？」"
 translation = "「재밌겠다~! 나도 뭐 할 수 있을까?」"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「もちろん、クロトもやるのよ。ほら、星徒会のみんなを爆笑の渦に巻き込んで、ドッカンドッカンいわせた一発芸があるじゃない？」"
 translation = "「물론 쿠로토도 하는 거지. 봐, 성도회 모두를 폭소의 도가니로 몰아넣어서 배꼽 빠지게 했던 그 장기 자랑 있잖아?」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「緋宮会長、そんなに面白い一発芸をお持ちなんですか？」"
 translation = "「히노미야 회장님, 그렇게 재미있는 장기를 가지고 계셨나요?」"
 
@@ -224,22 +266,26 @@ original = "やった覚えがないなぁ！？\n無茶振りしないで！？
 translation = "「한 기억이 없는데!? 억지 부리지 마!?」"
 
 [[dialogue]]
-speaker = "アイリーン"
+speaker_original = "アイリーン"
+speaker_translation = "아이린"
 original = "「これって世界の命運がかかってるんだよね。こんなにゆるゆるで大丈夫かなー？」"
 translation = "「이거 세계의 운명이 걸린 일 맞지? 이렇게 널널해도 괜찮으려나~?」"
 
 [[dialogue]]
-speaker = "マグダレナ"
+speaker_original = "マグダレナ"
+speaker_translation = "막달레나"
 original = "「変に緊張しているよりいいのではないでしょうか？\u3000世界の命運がかかっていると思うと、私たちも楽しめないでしょう？」"
 translation = "「이상하게 긴장하고 있는 것보다 낫지 않을까요? 세계의 운명이 걸렸다고 생각하면 저희도 즐길 수 없을 테니까요.」"
 
 [[dialogue]]
-speaker = "アイリーン"
+speaker_original = "アイリーン"
+speaker_translation = "아이린"
 original = "「なるほどー。じゃあ私もリラックスしよっと」"
 translation = "「그렇구나. 그럼 나도 긴장 풀어야지.」"
 
 [[dialogue]]
-speaker = "マグダレナ"
+speaker_original = "マグダレナ"
+speaker_translation = "막달레나"
 original = "「堕ちた天使すら天に舞い上がらせる程の芸の冴え。このような機会でなくとも是非拝見したいものです」"
 translation = "「타락한 천사조차 하늘로 날아오르게 할 정도의 예술적 기교. 이런 기회가 아니더라도 꼭 보고 싶군요.」"
 

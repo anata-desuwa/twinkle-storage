@@ -14,7 +14,8 @@ original = "もちろん俺だけじゃなく、恋人の舞亜も一緒だ。"
 translation = "물론 나뿐만 아니라, 애인인 마이아도 함께다."
 
 [[dialogue]]
-speaker = "舞亜"
+speaker_original = "舞亜"
+speaker_translation = "마이아"
 original = "「あのー、会長さん？」"
 translation = "「저기─, 회장님?」"
 
@@ -29,17 +30,20 @@ original = "自分の家だと思ってくつろいで"
 translation = "자기 집이라고 생각하고 편하게 있어."
 
 [[dialogue]]
-speaker = "舞亜"
+speaker_original = "舞亜"
+speaker_translation = "마이아"
 original = "「いやいや、そういう問題じゃなくて。どうして私がここにいるの？」"
 translation = "「아니 아니, 그런 문제가 아니라. 왜 내가 여기 있는 거야?」"
 
 [[dialogue]]
-speaker = "舞亜"
+speaker_original = "舞亜"
+speaker_translation = "마이아"
 original = "「パーティーが終わって、いい雰囲気で一緒に帰ったところまではいいんだけど……」"
 translation = "「파티가 끝나고, 좋은 분위기로 같이 돌아온 것까지는 좋은데……」"
 
 [[dialogue]]
-speaker = "舞亜"
+speaker_original = "舞亜"
+speaker_translation = "마이아"
 original = "「……この手、そろそろいいんじゃない？」"
 translation = "「……이 손, 슬슬 놔줘도 되지 않아?」"
 
@@ -54,37 +58,44 @@ original = "つないだままがいい"
 translation = "잡은 채로 있는 게 좋아."
 
 [[dialogue]]
-speaker = "舞亜"
+speaker_original = "舞亜"
+speaker_translation = "마이아"
 original = "「ふふっ、完全にスイッチ入っちゃってるし」"
 translation = "「후후, 완전히 스위치 켜져 버렸네.」"
 
 [[dialogue]]
-speaker = "舞亜"
+speaker_original = "舞亜"
+speaker_translation = "마이아"
 original = "「クリスマスで浮かれちゃう気持ちもわかるけどね。でも、繋いだ手を離したくないからって、そのままお持ち帰りしちゃうのはどうかなぁ」"
 translation = "「크리스마스라 들뜨는 마음은 이해하지만 말이야. 그래도 잡은 손을 놓기 싫다고 그대로 보쌈해버리는 건 좀 그렇지 않아?」"
 
 [[dialogue]]
-speaker = "舞亜"
+speaker_original = "舞亜"
+speaker_translation = "마이아"
 original = "「まあ、お持ち帰りされるのは……こっちも想定してたから問題ないんだけどね。でも、ずっと手を繋いだままだと、いろいろやりづらいでしょ」"
 translation = "「뭐, 보쌈당하는 건…… 나도 예상하고 있었으니까 상관없지만 말이야. 하지만 계속 손을 잡고 있으면 여러모로 하기 힘들잖아.」"
 
 [[dialogue]]
-speaker = "舞亜"
+speaker_original = "舞亜"
+speaker_translation = "마이아"
 original = "「あ、いや、変な意味じゃなくて！\u3000もう、いきなり抱きつかないの！\u3000むぎゅってしないでぇぇ～～っ！！」"
 translation = "「아, 아니, 이상한 뜻이 아니라! 정말, 갑자기 껴안지 마! 꽉 하지 말라구우우~~!!」"
 
 [[dialogue]]
-speaker = "舞亜"
+speaker_original = "舞亜"
+speaker_translation = "마이아"
 original = "「ふふ……もう、がっつきすぎだってば、仕方のない会長さんだね」"
 translation = "「후후…… 정말, 너무 들이댄다니까, 어쩔 수 없는 회장님이네.」"
 
 [[dialogue]]
-speaker = "舞亜"
+speaker_original = "舞亜"
+speaker_translation = "마이아"
 original = "「やりづらいって言ったのは、玄関のカギ開けるのとか、飲み物用意したりすることで……この人器用にやるな～って感心したけど」"
 translation = "「하기 힘들다고 한 건, 현관문 열기라든가, 음료수 준비하는 거라든가…… 이 사람 용케도 해내네 하고 감탄하긴 했지만.」"
 
 [[dialogue]]
-speaker = "舞亜"
+speaker_original = "舞亜"
+speaker_translation = "마이아"
 original = "「なんでこう、いちゃいちゃに全力なわけ？\u3000おまけに、クリスマスフォームをやめようとすると拗ねるし」"
 translation = "「왜 이렇게 꽁냥거리는 데 전력을 다하는 거야? 게다가 크리스마스 폼을 벗으려고 하면 삐지고.」"
 
@@ -99,27 +110,32 @@ original = "だって可愛いから"
 translation = "그야 귀여우니까."
 
 [[dialogue]]
-speaker = "舞亜"
+speaker_original = "舞亜"
+speaker_translation = "마이아"
 original = "「うん……知ってる。帰り道で何度も言われたし」"
 translation = "「응…… 알고 있어. 오는 길에 몇 번이나 들었으니까.」"
 
 [[dialogue]]
-speaker = "舞亜"
+speaker_original = "舞亜"
+speaker_translation = "마이아"
 original = "「あんなに情熱的に求められたら、私だって……そういう気になっちゃうでしょ。だから、クリスマスフォームだってそのままだし」"
 translation = "「그렇게 열정적으로 원하면, 나라도…… 그런 기분이 되어버리잖아. 그래서 크리스마스 폼도 그대로 입고 있는 거고.」"
 
 [[dialogue]]
-speaker = "舞亜"
+speaker_original = "舞亜"
+speaker_translation = "마이아"
 original = "「とりあえず改めて、メリークリスマス♪\u3000色々あったけど、無事パーティーが成功してよかったね」"
 translation = "「일단 다시 한번, 메리 크리스마스♪ 여러 일이 있었지만, 무사히 파티가 성공해서 다행이야.」"
 
 [[dialogue]]
-speaker = "舞亜"
+speaker_original = "舞亜"
+speaker_translation = "마이아"
 original = "「あっ、こら、繋いだ手をブンブンしないのっ。わかったから落ち着いて、ねっ？」"
 translation = "「앗, 이봐, 잡은 손 붕붕 흔들지 마. 알았으니까 진정해, 응?」"
 
 [[dialogue]]
-speaker = "舞亜"
+speaker_original = "舞亜"
+speaker_translation = "마이아"
 original = "「私は会長さんみたいに器用じゃないから、出来れば手を離して欲しいんだけど……」"
 translation = "「나는 회장님처럼 능숙하지 않으니까, 가능하면 손을 놔줬으면 좋겠는데……」"
 
@@ -134,32 +150,38 @@ original = "しょうがないなぁ"
 translation = "어쩔 수 없네."
 
 [[dialogue]]
-speaker = "舞亜"
+speaker_original = "舞亜"
+speaker_translation = "마이아"
 original = "「………………ちゅ<emoji=heart04>\u3000これでいい？」"
 translation = "「………………쪽<emoji=heart04> 이걸로 됐어?」"
 
 [[dialogue]]
-speaker = "舞亜"
+speaker_original = "舞亜"
+speaker_translation = "마이아"
 original = "「あ～あ、もっとギュッてしてくるし……キスしたの失敗だったかなぁ？」"
 translation = "「아~아, 더 꽉 안아오고…… 키스한 거 실수였나?」"
 
 [[dialogue]]
-speaker = "舞亜"
+speaker_original = "舞亜"
+speaker_translation = "마이아"
 original = "「はいはい、もっとすればいいんでしょ？\u3000んちゅ<emoji=heart04>\u3000ちゅ～っ<emoji=heart04>\u3000ちゅ<emoji=heart04>」"
 translation = "「네네, 더 하면 되잖아요? 음쫍<emoji=heart04> 츄~<emoji=heart04> 쪽<emoji=heart04>」"
 
 [[dialogue]]
-speaker = "舞亜"
+speaker_original = "舞亜"
+speaker_translation = "마이아"
 original = "「普段は我慢させちゃってごめんね。２人きりの時は、私ももうちょっと頑張るから<emoji=heart04>」"
 translation = "「평소에는 참게 해서 미안해. 둘만 있을 때는 나도 좀 더 노력할 테니까<emoji=heart04>」"
 
 [[dialogue]]
-speaker = "舞亜"
+speaker_original = "舞亜"
+speaker_translation = "마이아"
 original = "「はい、ちゃんとキスしたんだからそろそろ手を離してよ」"
 translation = "「자, 제대로 키스했으니까 슬슬 손 놔줘.」"
 
 [[dialogue]]
-speaker = "舞亜"
+speaker_original = "舞亜"
+speaker_translation = "마이아"
 original = "「まったく、名残惜しそうにして……よし、離れた」"
 translation = "「정말이지, 아쉬운 표정 짓기는…… 좋아, 떨어졌다.」"
 
@@ -174,67 +196,80 @@ original = "手を離してどうするの？"
 translation = "손을 떼고 뭐 하려고?"
 
 [[dialogue]]
-speaker = "舞亜"
+speaker_original = "舞亜"
+speaker_translation = "마이아"
 original = "「恋人同士いちゃいちゃするのも悪くないけど、クリスマスなんだから、それらしいこともしないとね」"
 translation = "「연인끼리 꽁냥거리는 것도 나쁘지 않지만, 크리스마스니까 그다운 일도 해야지.」"
 
 [[dialogue]]
-speaker = "舞亜"
+speaker_original = "舞亜"
+speaker_translation = "마이아"
 original = "「ということで……はいっ、クリスマスプレゼント<emoji=heart04>」"
 translation = "「그런 의미에서…… 자, 크리스마스 선물<emoji=heart04>」"
 
 [[dialogue]]
-speaker = "舞亜"
+speaker_original = "舞亜"
+speaker_translation = "마이아"
 original = "「このマフラーは買ったのだけど、おまけでついてるスイーツは自作だからね」"
 translation = "「이 머플러는 산 거지만, 덤으로 붙어있는 디저트는 직접 만든 거니까.」"
 
 [[dialogue]]
-speaker = "舞亜"
+speaker_original = "舞亜"
+speaker_translation = "마이아"
 original = "「味の方は大丈夫。あの特訓のおかげで上手に作れるようになったから。パーティーで出したクリスマスケーキもすごく喜んでもらえたし」"
 translation = "「맛은 괜찮아. 그 특훈 덕분에 잘 만들게 됐으니까. 파티 때 낸 크리스마스 케이크도 다들 아주 좋아해 줬고.」"
 
 [[dialogue]]
-speaker = "舞亜"
+speaker_original = "舞亜"
+speaker_translation = "마이아"
 original = "「会長さんも食べてくれた？\u3000クリスマスフォームで作ったスイーツはバフがかかるから、すぐわかったんじゃない？」"
 translation = "「회장님도 먹어줬어? 크리스마스 폼으로 만든 디저트는 버프가 걸리니까 금방 알 수 있었지 않아?」"
 
 [[dialogue]]
-speaker = "舞亜"
+speaker_original = "舞亜"
+speaker_translation = "마이아"
 original = "「というわけで味は保証済み、きっと美味しいよ～」"
 translation = "「그런 고로 맛은 보증 완료, 분명 맛있을 거야~」"
 
 [[dialogue]]
-speaker = "舞亜"
+speaker_original = "舞亜"
+speaker_translation = "마이아"
 original = "「あ、気になるなら今食べちゃう？\u3000いいよー。疲れも吹っ飛ぶかも。私も少し分けてもらおうかな」"
 translation = "「아, 신경 쓰이면 지금 먹어볼래? 좋아─. 피로가 확 풀릴지도. 나도 조금 나눠 받을까나.」"
 
 [[dialogue]]
-speaker = "舞亜"
+speaker_original = "舞亜"
+speaker_translation = "마이아"
 original = "「では、頂きます……んふ、甘さ強めでおいしい～<emoji=heart04>」"
 translation = "「그럼, 잘 먹겠습니다…… 음후, 단맛이 강해서 맛있어~<emoji=heart04>」"
 
 [[dialogue]]
-speaker = "舞亜"
+speaker_original = "舞亜"
+speaker_translation = "마이아"
 original = "「ん？\u3000会長さんもプレゼントくれるの？\u3000ふふっ、彼女に贈るクリスマスプレゼントだから、気合い入れてるのかな～？」"
 translation = "「응? 회장님도 선물 주는 거야? 후후, 여자친구에게 주는 크리스마스 선물이니까 기합 좀 넣었으려나~?」"
 
 [[dialogue]]
-speaker = "舞亜"
+speaker_original = "舞亜"
+speaker_translation = "마이아"
 original = "「ありがと。これは寮に戻ってから開けさせてもらうね。今開けると、ドキドキが爆発しちゃいそうだから」"
 translation = "「고마워. 이건 기숙사에 돌아가서 열어볼게. 지금 열면 두근거림이 폭발해버릴 것 같으니까.」"
 
 [[dialogue]]
-speaker = "舞亜"
+speaker_original = "舞亜"
+speaker_translation = "마이아"
 original = "「……うん、今も絶賛ドキドキしてるよ。大好きな人がこんなすぐ近くにいるんだもん、おかしくなりそうなのを、頑張って我慢してるんだから」"
 translation = "「……응, 지금도 한창 두근거리고 있어. 좋아하는 사람이 이렇게 바로 옆에 있는걸, 이상해질 것 같은 걸 열심히 참고 있으니까.」"
 
 [[dialogue]]
-speaker = "舞亜"
+speaker_original = "舞亜"
+speaker_translation = "마이아"
 original = "「ねえ、会長さん……ふふっ、メリークリスマス<emoji=heart04>\u3000いっぱいいっぱいありがとう、大好きだよ<emoji=heart04>」"
 translation = "「저기, 회장님…… 후후, 메리 크리스마스<emoji=heart04> 정말 정말 고마워, 사랑해<emoji=heart04>」"
 
 [[dialogue]]
-speaker = "舞亜"
+speaker_original = "舞亜"
+speaker_translation = "마이아"
 original = "「……ちゅっ<emoji=heart04>」"
 translation = "「……쪽<emoji=heart04>」"
 

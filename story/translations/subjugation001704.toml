@@ -4,27 +4,32 @@ original = "第二幕、第二場。"
 translation = "제2막 제2장."
 
 [[dialogue]]
-speaker = "ロクサーナ"
+speaker_original = "ロクサーナ"
+speaker_translation = "록사나"
 original = "「お待ちかねのキャピュレット家の庭園で、愛を囁き、誓うシーンだ」"
 translation = "「기다리고 기다리던 캐퓰릿 가문의 정원에서 사랑을 속삭이고 맹세하는 장면이다.」"
 
 [[dialogue]]
-speaker = "ジュリエット"
+speaker_original = "ジュリエット"
+speaker_translation = "줄리엣"
 original = "「ああ、ロミオ……どうしてあなたはロミオなの」"
 translation = "「아아, 로미오…… 당신은 어찌하여 로미오인가요.」"
 
 [[dialogue]]
-speaker = "ジュリエット"
+speaker_original = "ジュリエット"
+speaker_translation = "줄리엣"
 original = "「あなたのお父様を、お父様ではないといい、あなたの家名をお捨てになって！」"
 translation = "「당신의 아버지를 아버지가 아니라 하시고, 당신의 가문을 버려 주세요!」"
 
 [[dialogue]]
-speaker = "ジュリエット"
+speaker_original = "ジュリエット"
+speaker_translation = "줄리엣"
 original = "「それとも、それがお嫌なら、せめて私を愛すると誓っていただきたいの！」"
 translation = "「그게 싫으시다면 적어도 저를 사랑한다고 맹세해 주세요!」"
 
 [[dialogue]]
-speaker = "ジュリエット"
+speaker_original = "ジュリエット"
+speaker_translation = "줄리엣"
 original = "「さすれば、私もキャピュレットの名を捨ててみせますわ！」"
 translation = "「그러면 저 또한 캐퓰릿의 이름을 버리겠어요!」"
 
@@ -34,7 +39,8 @@ original = "こんな塀など恋の翼で飛び越えました\n石の壁など
 translation = "이런 담장 따위 사랑의 날개로 뛰어넘었습니다\\n돌벽 따위로는 나의 사랑을 가둘 수 없지요"
 
 [[dialogue]]
-speaker = "ジュリエット"
+speaker_original = "ジュリエット"
+speaker_translation = "줄리엣"
 original = "「誰の案内でこの場所がお分かりになりましたの？」"
 translation = "「누구의 안내로 이곳을 알아내셨나요?」"
 
@@ -44,17 +50,20 @@ original = "恋が案内をしてくれました"
 translation = "사랑이 안내를 해 주었습니다"
 
 [[dialogue]]
-speaker = "メイプル"
+speaker_original = "メイプル"
+speaker_translation = "메이플"
 original = "「きゃ～っ♪\u3000お兄ちゃん、カッコいい～♪」"
 translation = "「꺄아~♪ 오빠, 멋있어~♪」"
 
 [[dialogue]]
-speaker = "ロクサーナ"
+speaker_original = "ロクサーナ"
+speaker_translation = "록사나"
 original = "「まったく、全身がむず痒くなるシーンだ。台詞を書いていて、<ruby>蕁麻疹<rt>じんましん</rt></ruby>が出るかと思ったぞ」"
 translation = "「정말이지 온몸이 근질거리는 장면이야. 대사를 쓰면서 두드러기가 날 뻔했다니까.」"
 
 [[dialogue]]
-speaker = "ジュリエット"
+speaker_original = "ジュリエット"
+speaker_translation = "줄리엣"
 original = "「──ああ、口説いてくださいませ、愛しいモンタギュー」"
 translation = "「──아아, 유혹해 주세요, 사랑스러운 몬태규.」"
 
@@ -64,7 +73,8 @@ original = "愛しいジュリエット。月にかけて私は誓う"
 translation = "사랑스러운 줄리엣. 달에 대고 나는 맹세하오"
 
 [[dialogue]]
-speaker = "ジュリエット"
+speaker_original = "ジュリエット"
+speaker_translation = "줄리엣"
 original = "「──今夜はこれでお別れしましょう。この恋の蕾が、今度お会いする時には美しい花となっておりますように」"
 translation = "「──오늘 밤은 이만 헤어지기로 해요. 이 사랑의 꽃봉오리가 다음에 만날 때는 아름다운 꽃이 되어 있기를.」"
 
@@ -74,7 +84,8 @@ original = "満たされぬ私の心を見捨てて別れるだなんて"
 translation = "채워지지 않은 나의 마음을 두고 이대로 헤어지다니"
 
 [[dialogue]]
-speaker = "ジュリエット"
+speaker_original = "ジュリエット"
+speaker_translation = "줄리엣"
 original = "「どうやったら満たされるとお考えなのでしょう？」"
 translation = "「어떻게 하면 채워질 거라 생각하시나요?」"
 
@@ -84,22 +95,26 @@ original = "真心の篭った愛の誓いを交わしたいのです"
 translation = "진심 어린 사랑의 맹세를 나누고 싶습니다"
 
 [[dialogue]]
-speaker = "ロクサーナ"
+speaker_original = "ロクサーナ"
+speaker_translation = "록사나"
 original = "「そして、ロミオの愛を欲したジュリエットはバルコニーから長い金髪を垂らす」"
 translation = "「그리고 로미오의 사랑을 갈구한 줄리엣은 발코니에서 긴 금발을 늘어뜨린다.」"
 
 [[dialogue]]
-speaker = "メイプル"
+speaker_original = "メイプル"
+speaker_translation = "메이플"
 original = "「……あれ？\u3000ロミジュリに、そんなシーンあったっけ？」"
 translation = "「……어라? 로미줄리에 그런 장면이 있었나?」"
 
 [[dialogue]]
-speaker = "ロクサーナ"
+speaker_original = "ロクサーナ"
+speaker_translation = "록사나"
 original = "「金を紡いだような長い髪を辿り、ロミオはジュリエットの部屋に忍び込むと、愛し合う２人は情熱的な一夜を──」"
 translation = "「금실을 자은 듯한 긴 머리카락을 타고 로미오는 줄리엣의 방에 숨어들고, 사랑하는 두 사람은 정열적인 하룻밤을──」"
 
 [[dialogue]]
-speaker = "藍"
+speaker_original = "藍"
+speaker_translation = "아이"
 original = "「『髪長姫』のラプンツェルと混ざってますぅ！」"
 translation = "「『라푼젤』이랑 섞였잖아요!」"
 
@@ -109,42 +124,50 @@ original = "隙あらば濡れ場展開に持っていこうとする！"
 translation = "틈만 나면 베드신 전개로 끌고 가려 해!"
 
 [[dialogue]]
-speaker = "ロクサーナ"
+speaker_original = "ロクサーナ"
+speaker_translation = "록사나"
 original = "「ちっ、バレたか」"
 translation = "「칫, 들켰나.」"
 
 [[dialogue]]
-speaker = "ロクサーナ"
+speaker_original = "ロクサーナ"
+speaker_translation = "록사나"
 original = "「ちなみにラプンツェルの原典では、毎晩、王子を塔へと招き入れ、やがて妊娠するという描写がある。そんな童話は子供の寝物語に聞かせられんな、くっくっく」"
 translation = "「참고로 라푼젤 원전에서는 매일 밤 왕자를 탑으로 불러들여 마침내 임신하게 된다는 묘사가 있다. 그런 동화는 아이들 잠자리용으로 들려줄 게 못 되지, 큭큭큭.」"
 
 [[dialogue]]
-speaker = "ロクサーナ"
+speaker_original = "ロクサーナ"
+speaker_translation = "록사나"
 original = "「しかしだな、恋の翼で石の壁を飛び越えるような男ならば、危険を承知でバルコニーまで昇るくらいはやってのけるだろう」"
 translation = "「하지만 말이다, 사랑의 날개로 돌벽을 뛰어넘는 남자라면 위험을 무릅쓰고 발코니까지 오르는 것쯤은 해내지 않겠느냐?」"
 
 [[dialogue]]
-speaker = "ロクサーナ"
+speaker_original = "ロクサーナ"
+speaker_translation = "록사나"
 original = "「本当に愛し合う者同士ならば、そのくらいの暴挙に及ぶのも当然ではないか？」"
 translation = "「진심으로 서로 사랑하는 사이라면 그 정도 폭거를 저지르는 것도 당연하지 않나?」"
 
 [[dialogue]]
-speaker = "藍"
+speaker_original = "藍"
+speaker_translation = "아이"
 original = "「ジュリエットの気持ちになって考えれば、愛する人と結ばれたいというのは、とても自然な流れですよね……」"
 translation = "「줄리엣의 입장이 되어 생각하면 사랑하는 사람과 맺어지고 싶다는 건 아주 자연스러운 흐름이긴 하네요……」"
 
 [[dialogue]]
-speaker = "メイプル"
+speaker_original = "メイプル"
+speaker_translation = "메이플"
 original = "「言われてみれば、そんな気がしてきた……」"
 translation = "「듣고 보니 그런 기분이 들어……」"
 
 [[dialogue]]
-speaker = "ロクサーナ"
+speaker_original = "ロクサーナ"
+speaker_translation = "록사나"
 original = "「これまで読んだ限り、聞いた限り、観た限り、恋愛物の道筋は、スラスラ進んだ試しがない」"
 translation = "「지금껏 읽고, 듣고, 본 바로는 연애물의 전개가 술술 풀리는 법이 없지.」"
 
 [[dialogue]]
-speaker = "ロクサーナ"
+speaker_original = "ロクサーナ"
+speaker_translation = "록사나"
 original = "「私の脚本の中でくらい、ロミオとジュリエットには愛する者と結ばれる悦びを教えてやりたいと──」"
 translation = "「내 각본 속에서만큼은 로미오와 줄리엣에게 사랑하는 이와 맺어지는 기쁨을 알려주고 싶어서──」"
 
@@ -154,42 +177,50 @@ original = "みんな、騙されそうになってる！\n会長権限で上演
 translation = "다들 속아 넘어가고 있어!\\n회장 권한으로 상영 금지!"
 
 [[dialogue]]
-speaker = "メイプル"
+speaker_original = "メイプル"
+speaker_translation = "메이플"
 original = "「はっ！？\u3000部長の説得力にやられるとこだった！」"
 translation = "「핫!? 부장님의 설득력에 넘어갈 뻔했어!」"
 
 [[dialogue]]
-speaker = "ロクサーナ"
+speaker_original = "ロクサーナ"
+speaker_translation = "록사나"
 original = "「ちっ、つまらん。だがな、大衆はそういった過激な表現を望んでいるのだぞ」"
 translation = "「칫, 시시하군. 하지만 말이다, 대중은 그런 자극적인 표현을 바라고 있다고.」"
 
 [[dialogue]]
-speaker = "ロクサーナ"
+speaker_original = "ロクサーナ"
+speaker_translation = "록사나"
 original = "「エロとグロは大衆文化の骨頂だ。どんなに低俗であっても、声を大にして言わずとも、どいつもこいつも目を覆った両手の指の隙間から覗いている」"
 translation = "「에로와 그로는 대중문화의 절정이다. 아무리 저속하다 해도, 굳이 입 밖으로 내지 않을 뿐이지 이놈이나 저놈이나 눈을 가린 두 손가락 사이로 훔쳐보고 있지.」"
 
 [[dialogue]]
-speaker = "ロクサーナ"
+speaker_original = "ロクサーナ"
+speaker_translation = "록사나"
 original = "「でなければ、演劇という文化が生まれて幾星霜。愛を語らうエロと、無惨に命を奪われるグロを題材に取り扱ったものが長く評価され、残り続けるものか」"
 translation = "「그렇지 않다면 연극이라는 문화가 생겨난 지 수만 년. 사랑을 속삭이는 에로와 무참히 목숨을 뺏는 그로를 소재로 다룬 것들이 어찌 이토록 길게 평가받고 남아 있겠느냐.」"
 
 [[dialogue]]
-speaker = "藍"
+speaker_original = "藍"
+speaker_translation = "아이"
 original = "「尊い純愛も、エ、エロと言い切ってしまうのは、その……あまりよくないと思います……」"
 translation = "「숭고한 순애보도 에, 에로라고 단정 짓는 건 그게…… 별로 좋지 않다고 생각해요……」"
 
 [[dialogue]]
-speaker = "ロクサーナ"
+speaker_original = "ロクサーナ"
+speaker_translation = "록사나"
 original = "「私に意見するとはいい度胸だ。恋愛なんてのは詰まるところ、繁殖行為に及びたい男女の初期衝動だろう」"
 translation = "「나한테 의견을 내다니 배짱 한번 좋군. 연애라는 건 결국 번식 행위를 하고 싶어 하는 남녀의 초기 충동이지 않느냐.」"
 
 [[dialogue]]
-speaker = "ロクサーナ"
+speaker_original = "ロクサーナ"
+speaker_translation = "록사나"
 original = "「ああ、そうだな。藍、会長、いっそ恋仲になってしまったらどうだ？」"
 translation = "「아아, 그렇지. 아이, 회장, 차라리 연인 사이가 되어버리는 건 어떠냐?」"
 
 [[dialogue]]
-speaker = "藍"
+speaker_original = "藍"
+speaker_translation = "아이"
 original = "「ほにぇ！？」"
 translation = "「호냐!?」"
 
@@ -199,32 +230,38 @@ original = "無茶言わんでください！"
 translation = "말도 안 되는 소리 하지 마세요!"
 
 [[dialogue]]
-speaker = "ロクサーナ"
+speaker_original = "ロクサーナ"
+speaker_translation = "록사나"
 original = "「カップルになった演者同士が、舞台後に恋仲になった話など、なんら珍しくない。そのくらい本気の方が、演技にも熱が入るというものだ」"
 translation = "「커플 역할을 맡은 배우들이 무대 뒤에서 연인이 되었다는 얘기 따위 전혀 드물지 않다. 그 정도로 진심이어야 연기에도 열이 오르는 법이지.」"
 
 [[dialogue]]
-speaker = "藍"
+speaker_original = "藍"
+speaker_translation = "아이"
 original = "「わ、私と会長さんが、カ、カ、カップル……なんて、そんな……会長さんにご迷惑が……！」"
 translation = "「저, 저랑 회장님이 커, 커, 커플…… 이라니, 그런…… 회장님께 폐가……!」"
 
 [[dialogue]]
-speaker = "ロクサーナ"
+speaker_original = "ロクサーナ"
+speaker_translation = "록사나"
 original = "「身持ちの固い女優と、頭の固い会長だ。だが、公演中止を盾にされては濡れ場の削除は受け入れるより他ない」"
 translation = "「지조 높은 여배우와 고리타분한 회장이군. 하지만 공연 중지를 방패 삼는다면 베드신 삭제는 받아들일 수밖에 없겠지.」"
 
 [[dialogue]]
-speaker = "ロクサーナ"
+speaker_original = "ロクサーナ"
+speaker_translation = "록사나"
 original = "「だが、２人の愛を伝えるため、キスシーンだけは必ずやってもらう。いいな？」"
 translation = "「하지만 두 사람의 사랑을 전하기 위해 키스 장면만은 반드시 하도록 해라. 알겠나?」"
 
 [[dialogue]]
-speaker = "藍"
+speaker_original = "藍"
+speaker_translation = "아이"
 original = "「うぅ、ファーストキスもまだなのに……」"
 translation = "「으으, 첫 키스도 아직인데……」"
 
 [[dialogue]]
-speaker = "ロクサーナ"
+speaker_original = "ロクサーナ"
+speaker_translation = "록사나"
 original = "「よし、会長、さくっと藍の唇を奪え」"
 translation = "「좋아, 회장, 잽싸게 아이의 입술을 훔쳐라.」"
 
@@ -234,17 +271,20 @@ original = "できるか！"
 translation = "할 수 있겠냐!"
 
 [[dialogue]]
-speaker = "ロクサーナ"
+speaker_original = "ロクサーナ"
+speaker_translation = "록사나"
 original = "「ジョークだ。実際に舞台上でキスしろとまでは言わん。情熱的なキスをしているように見せるだけでいい」"
 translation = "「농담이다. 실제로 무대 위에서 키스하라고까지는 안 하마. 정열적인 키스를 하는 것처럼 보이기만 하면 돼.」"
 
 [[dialogue]]
-speaker = "ロクサーナ"
+speaker_original = "ロクサーナ"
+speaker_translation = "록사나"
 original = "「最大限に譲歩して、キスと見せかけるほどの顔の接近だ。それすらないようでは観客も白けて、公演も大失敗に終わるだろう」"
 translation = "「최대한 양보해서 키스하는 것처럼 보일 정도의 안면 근접이다. 그것조차 없다면 관객도 김이 새서 공연은 대실패로 끝나겠지.」"
 
 [[dialogue]]
-speaker = "ロクサーナ"
+speaker_original = "ロクサーナ"
+speaker_translation = "록사나"
 original = "「その程度のスキンシップなら構わないだろう？」"
 translation = "「그 정도의 스킨십이라면 괜찮겠지?」"
 
@@ -254,7 +294,8 @@ original = "ギリギリ、なんとか……"
 translation = "간신히, 어떻게든……"
 
 [[dialogue]]
-speaker = "ロクサーナ"
+speaker_original = "ロクサーナ"
+speaker_translation = "록사나"
 original = "「よし、決定だ。では、稽古を続ける！」"
 translation = "「좋아, 결정이다. 그럼 연습을 계속하지!」"
 

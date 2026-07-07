@@ -4,12 +4,14 @@ original = "第３話,パティシエ舞亜の不思議なスイーツ,P"
 translation = "제3화, 파티시에 마이아의 신비한 디저트, P"
 
 [[dialogue]]
-speaker = "舞亜"
+speaker_original = "舞亜"
+speaker_translation = "마이아"
 original = "「ごめんね、会長さん。迷惑かけちゃって」"
 translation = "「미안해, 회장님. 폐를 끼쳐서.」"
 
 [[dialogue]]
-speaker = "舞亜"
+speaker_original = "舞亜"
+speaker_translation = "마이아"
 original = "「まさか、私のスイーツで犠牲者を出しちゃうなんて……」"
 translation = "「설마 내 디저트로 희생자를 낼 줄이야……」"
 
@@ -24,12 +26,14 @@ original = "死んでない死んでない！"
 translation = "안 죽었어 안 죽었어!"
 
 [[dialogue]]
-speaker = "アニュラス"
+speaker_original = "アニュラス"
+speaker_translation = "아뉴라스"
 original = "「りょ、料理は……出来るのでは……なかったのか……」"
 translation = "「요, 요리는…… 할 수 있는 게…… 아니었나……」"
 
 [[dialogue]]
-speaker = "舞亜"
+speaker_original = "舞亜"
+speaker_translation = "마이아"
 original = "「普通に出来るはずなんだけど……どうしてお菓子作りだと上手くいかなかったんだろ」"
 translation = "「평범하게 할 수 있을 텐데…… 어째서 과자 만들기만 하면 잘 안 되는 걸까.」"
 
@@ -39,87 +43,104 @@ original = "スイーツの先生を呼んできました"
 translation = "디저트 선생님을 모셔왔어."
 
 [[dialogue]]
-speaker = "サラン"
+speaker_original = "サラン"
+speaker_translation = "사란"
 original = "「会長ちゃんに呼ばれて来ました～♪\u3000スイーツの先生、サランだよ～♪」"
 translation = "「회장짱이 불러서 왔어요~♪ 디저트 선생님, 사란이야~♪」"
 
 [[dialogue]]
-speaker = "舞亜"
+speaker_original = "舞亜"
+speaker_translation = "마이아"
 original = "「サランさん？\u3000わざわざありがとうございます」"
 translation = "「사란 씨? 일부러 와주셔서 감사합니다.」"
 
 [[dialogue]]
-speaker = "サラン"
+speaker_original = "サラン"
+speaker_translation = "사란"
 original = "「気にしなくていいよ～。会長ちゃんの頼みだし、可愛い後輩ちゃんのお手伝いができるなら喜んで引き受けちゃうかも～♪」"
 translation = "「신경 쓰지 않아도 돼~. 회장짱의 부탁이고, 귀여운 후배짱을 도울 수 있다면 기쁘게 받아들일 거라구~♪」"
 
 [[dialogue]]
-speaker = "サラン"
+speaker_original = "サラン"
+speaker_translation = "사란"
 original = "「アニュラスちゃんを昇天させかけたスイーツっていうのはどれかな～？」"
 translation = "「아뉴라스짱을 승천시킬 뻔한 디저트라는 게 어느 걸까나~?」"
 
 [[dialogue]]
-speaker = "舞亜"
+speaker_original = "舞亜"
+speaker_translation = "마이아"
 original = "「……こ、これです」"
 translation = "「……이, 이거예요.」"
 
 [[dialogue]]
-speaker = "サラン"
+speaker_original = "サラン"
+speaker_translation = "사란"
 original = "「う～ん、見た目は普通のクッキーだね～♪\u3000ん～、はむっ」"
 translation = "「으음, 겉보기엔 평범한 쿠키네~♪ 음, 냠.」"
 
 [[dialogue]]
-speaker = "舞亜"
+speaker_original = "舞亜"
+speaker_translation = "마이아"
 original = "「食べちゃダメっ！\u3000本当にヤバいから！」"
 translation = "「먹으면 안 돼! 진짜 위험하니까!」"
 
 [[dialogue]]
-speaker = "サラン"
+speaker_original = "サラン"
+speaker_translation = "사란"
 original = "「ん～、確かに失敗しちゃってるかも～♪\u3000でもでも全然ダメじゃなくて～、ちょっと惜しいかな～って感じ～」"
 translation = "「음~, 확실히 실패했을지도 모르겠네~♪ 하지만 하지만 완전히 꽝인 건 아니고~, 조금 아깝다는 느낌일까나~」"
 
 [[dialogue]]
-speaker = "舞亜"
+speaker_original = "舞亜"
+speaker_translation = "마이아"
 original = "「え……ほんとにですか？」"
 translation = "「에…… 정말인가요?」"
 
 [[dialogue]]
-speaker = "サラン"
+speaker_original = "サラン"
+speaker_translation = "사란"
 original = "「本当だよ～♪\u3000もしかしたらアニュラスちゃんがこういう味に慣れてなかっただけかも」"
 translation = "「정말이야~♪ 어쩌면 아뉴라스짱이 이런 맛에 익숙하지 않았을 뿐일지도.」"
 
 [[dialogue]]
-speaker = "アニュラス"
+speaker_original = "アニュラス"
+speaker_translation = "아뉴라스"
 original = "「たしかに……初めて口にする、味だった……が……」"
 translation = "「확실히…… 처음 입에 담아보는, 맛이었다……만……」"
 
 [[dialogue]]
-speaker = "サラン"
+speaker_original = "サラン"
+speaker_translation = "사란"
 original = "「レシピ通りに作ったわけじゃなさそうだね～。何を入れたんだろ……？\u3000きのこと……ハーブかな～……？」"
 translation = "「레시피대로 만든 건 아닌 것 같네~. 뭘 넣은 걸까……? 버섯이랑…… 허브일까나~……?」"
 
 [[dialogue]]
-speaker = "舞亜"
+speaker_original = "舞亜"
+speaker_translation = "마이아"
 original = "「わ、正解です！\u3000さすがですね……」"
 translation = "「와, 정답이에요! 역시 대단하시네요……」"
 
 [[dialogue]]
-speaker = "サラン"
+speaker_original = "サラン"
+speaker_translation = "사란"
 original = "「この組み合わせってことは～、舞亜ちゃんはこんな感じの味にしたかったってことだから～」"
 translation = "「이 조합이라는 건~, 마이아짱은 이런 느낌의 맛을 내고 싶었다는 거니까~」"
 
 [[dialogue]]
-speaker = "サラン"
+speaker_original = "サラン"
+speaker_translation = "사란"
 original = "「うんうん、そうだよね……いけそうかも～♪」"
 translation = "「응응, 그렇구나…… 괜찮을지도 몰라~♪」"
 
 [[dialogue]]
-speaker = "舞亜"
+speaker_original = "舞亜"
+speaker_translation = "마이아"
 original = "「えっ？\u3000すごい！\u3000もしかして私のやりたいこと、分かっちゃった感じですか？」"
 translation = "「엣? 대단해! 혹시 제가 하고 싶은 거, 알아버린 느낌인가요?」"
 
 [[dialogue]]
-speaker = "サラン"
+speaker_original = "サラン"
+speaker_translation = "사란"
 original = "「ぽよ～、分かっちゃったかも～♪」"
 translation = "「뽀요~, 알아버렸을지도~♪」"
 
@@ -129,77 +150,92 @@ original = "俺にはさっぱり理解出来ない"
 translation = "나로선 도저히 이해할 수 없어."
 
 [[dialogue]]
-speaker = "サラン"
+speaker_original = "サラン"
+speaker_translation = "사란"
 original = "「舞亜ちゃんはセンスいいと思うよ～♪\u3000サランも、なるほど～って感心しちゃった♪」"
 translation = "「마이아짱은 센스가 좋다고 생각해~♪ 사란도, 과연~ 하고 감탄해버렸어♪」"
 
 [[dialogue]]
-speaker = "舞亜"
+speaker_original = "舞亜"
+speaker_translation = "마이아"
 original = "「サランさんもすごいです。私の意図を読み取って、すぐにどうしたらいいか教えてくれるんですから！」"
 translation = "「사란 씨도 대단해요. 제 의도를 읽어내고, 바로 어떻게 하면 좋을지 가르쳐주시니까요!」"
 
 [[dialogue]]
-speaker = "サラン"
+speaker_original = "サラン"
+speaker_translation = "사란"
 original = "「ありがと～。舞亜ちゃんとは話が合うかも～♪」"
 translation = "「고마워~. 마이아짱과는 말이 잘 통할지도~♪」"
 
 [[dialogue]]
-speaker = "舞亜"
+speaker_original = "舞亜"
+speaker_translation = "마이아"
 original = "「今日だけじゃなく、これからもいろいろ教えてくれると嬉しいです」"
 translation = "「오늘뿐만 아니라, 앞으로도 여러 가지 가르쳐주시면 기쁘겠어요.」"
 
 [[dialogue]]
-speaker = "サラン"
+speaker_original = "サラン"
+speaker_translation = "사란"
 original = "「クリスマスパーティー用のスイーツ、もっと種類があった方がいいと思うから、いろいろ教えとくね～」"
 translation = "「크리스마스 파티용 디저트, 종류가 더 많은 게 좋다고 생각하니까, 여러 가지 가르쳐줄게~」"
 
 [[dialogue]]
-speaker = "舞亜"
+speaker_original = "舞亜"
+speaker_translation = "마이아"
 original = "「ブッシュドノエルを……大きく出来たりしますか？\u3000出来れば実物大で」"
 translation = "「부슈 드 노엘을…… 크게 만들 수 있을까요? 가능하다면 실물 크기로.」"
 
 [[dialogue]]
-speaker = "サラン"
+speaker_original = "サラン"
+speaker_translation = "사란"
 original = "「うーん、実物大だと難しくなるけど、大丈夫だと思うよ～」"
 translation = "「으음, 실물 크기면 어려워지겠지만, 괜찮을 거라고 생각해~」"
 
 [[dialogue]]
-speaker = "サラン"
+speaker_original = "サラン"
+speaker_translation = "사란"
 original = "「でもそれは後でね。今日はさっきのクッキーをおいしく作っちゃおう♪」"
 translation = "「하지만 그건 나중에. 오늘은 아까 그 쿠키를 맛있게 만들어 보자♪」"
 
 [[dialogue]]
-speaker = "舞亜"
+speaker_original = "舞亜"
+speaker_translation = "마이아"
 original = "「はいっ、よろしくお願いします！」"
 translation = "「네! 잘 부탁드립니다!」"
 
 [[dialogue]]
-speaker = "サラン"
+speaker_original = "サラン"
+speaker_translation = "사란"
 original = "「材料は……これとこれとこれ……でいいかな～」"
 translation = "「재료는…… 이것과 이것과 이것……이면 되려나~」"
 
 [[dialogue]]
-speaker = "舞亜"
+speaker_original = "舞亜"
+speaker_translation = "마이아"
 original = "「分かりました。やってみます！」"
 translation = "「알겠습니다. 해볼게요!」"
 
 [[dialogue]]
-speaker = "舞亜"
+speaker_original = "舞亜"
+speaker_translation = "마이아"
 original = "「まずはバターとたまご、お砂糖を、このハンドミキサーを使って、混ぜ混ぜします」"
 translation = "「우선 버터와 달걀, 설탕을 이 핸드 믹서를 사용해서, 섞섞 할게요.」"
 
 [[dialogue]]
-speaker = "舞亜"
+speaker_original = "舞亜"
+speaker_translation = "마이아"
 original = "「はい、こんな感じ。しっかり混ざってるね。どうかな、サランさん？」"
 translation = "「네, 이런 느낌. 잘 섞였네. 어때요, 사란 씨?」"
 
 [[dialogue]]
-speaker = "サラン"
+speaker_original = "サラン"
+speaker_translation = "사란"
 original = "「うん！\u3000上出来です♪」"
 translation = "「응! 아주 잘했어♪」"
 
 [[dialogue]]
-speaker = "舞亜"
+speaker_original = "舞亜"
+speaker_translation = "마이아"
 original = "「あとは具材かな。サランさんが選んでくれた組み合わせなら、絶対おいしくなるよ」"
 translation = "「남은 건 재료인가. 사란 씨가 골라준 조합이라면, 분명 맛있어질 거야.」"
 
@@ -214,32 +250,38 @@ original = "きのことハーブなのに？"
 translation = "버섯이랑 허브인데?"
 
 [[dialogue]]
-speaker = "サラン"
+speaker_original = "サラン"
+speaker_translation = "사란"
 original = "「あ、きのこはもうちょっと細かく刻んだ方がいいかも♪」"
 translation = "「아, 버섯은 좀 더 잘게 다지는 게 좋을지도 몰라♪」"
 
 [[dialogue]]
-speaker = "舞亜"
+speaker_original = "舞亜"
+speaker_translation = "마이아"
 original = "「その方がうまみと香りが立つってことですね、やってみます」"
 translation = "「그게 감칠맛과 향이 더 살아난다는 거군요, 해볼게요.」"
 
 [[dialogue]]
-speaker = "サラン"
+speaker_original = "サラン"
+speaker_translation = "사란"
 original = "「頑張って～♪」"
 translation = "「힘내~♪」"
 
 [[dialogue]]
-speaker = "舞亜"
+speaker_original = "舞亜"
+speaker_translation = "마이아"
 original = "「刻んだ具材を生地に入れて……よし、次はこのヘラの出番だね。全体をざっくりと混ぜ混ぜして～……うん、こんなもんかな」"
 translation = "「다진 재료를 반죽에 넣고…… 좋아, 다음은 이 주걱 차례네. 전체적으로 슥슥 섞섞 해서~…… 응, 이 정도면 됐나.」"
 
 [[dialogue]]
-speaker = "舞亜"
+speaker_original = "舞亜"
+speaker_translation = "마이아"
 original = "「はいっ。じゃあ、成型して焼きますね～」"
 translation = "「네. 그럼, 모양을 잡아서 구울게요~」"
 
 [[dialogue]]
-speaker = "舞亜"
+speaker_original = "舞亜"
+speaker_translation = "마이아"
 original = "「はいっ、出来ました～♪\u3000んー、いい香り」"
 translation = "「자, 다 됐어요~♪ 음─, 좋은 향기.」"
 
@@ -254,32 +296,38 @@ original = "あの組み合わせでこの香り？"
 translation = "그 조합에서 이런 향기가?"
 
 [[dialogue]]
-speaker = "舞亜"
+speaker_original = "舞亜"
+speaker_translation = "마이아"
 original = "「とりあえず食べてみてよ。会長さんたちもサランさんも試食をお願いします」"
 translation = "「일단 먹어봐. 회장님들이랑 사란 씨도 시식 부탁해.」"
 
 [[dialogue]]
-speaker = "サラン"
+speaker_original = "サラン"
+speaker_translation = "사란"
 original = "「はーい♪\u3000はむっ、もぐもぐもぐ……うんっ、ばっちり！\u3000とってもおいしく出来たね～♪」"
 translation = "「네~♪ 냠, 우물우물우물…… 응! 완벽해! 정말 맛있게 만들어졌네~♪」"
 
 [[dialogue]]
-speaker = "アニュラス"
+speaker_original = "アニュラス"
+speaker_translation = "아뉴라스"
 original = "「本当だ……味の方向性は同じなのに、今度のはちゃんと美味しい……」"
 translation = "「정말이다…… 맛의 방향성은 같은데, 이번 거는 제대로 맛있어……」"
 
 [[dialogue]]
-speaker = "舞亜"
+speaker_original = "舞亜"
+speaker_translation = "마이아"
 original = "「えへへ～、サランさんの指導のおかげですよ」"
 translation = "「에헤헤~, 사란 씨의 지도 덕분이에요.」"
 
 [[dialogue]]
-speaker = "サラン"
+speaker_original = "サラン"
+speaker_translation = "사란"
 original = "「サランはちょこっとアドバイスしただけだよ～♪」"
 translation = "「사란은 살짝 조언만 했을 뿐이야~♪」"
 
 [[dialogue]]
-speaker = "舞亜"
+speaker_original = "舞亜"
+speaker_translation = "마이아"
 original = "「そうだ、会長さんは？\u3000さっきから反応ないんだけど……」"
 translation = "「맞다, 회장님은? 아까부터 반응이 없는데……」"
 
@@ -294,17 +342,20 @@ original = "う、うまぁーーい！！"
 translation = "마, 맛있어──!!"
 
 [[dialogue]]
-speaker = "舞亜"
+speaker_original = "舞亜"
+speaker_translation = "마이아"
 original = "「おいしかったんだ？\u3000よかった～」"
 translation = "「맛있었어? 다행이다~」"
 
 [[dialogue]]
-speaker = "サラン"
+speaker_original = "サラン"
+speaker_translation = "사란"
 original = "「会長ちゃんも大喜びだし、大成功かも～♪」"
 translation = "「회장짱도 아주 기뻐하고, 대성공일지도~♪」"
 
 [[dialogue]]
-speaker = "舞亜"
+speaker_original = "舞亜"
+speaker_translation = "마이아"
 original = "「はいっ、もっともっと色んなスイーツに挑戦して、クリスマスパーティーを盛り上げたいです」"
 translation = "「네! 더 많은 종류의 디저트에 도전해서, 크리스마스 파티 분위기를 띄우고 싶어요.」"
 

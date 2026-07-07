@@ -14,12 +14,14 @@ original = "フニ、どうかした……？"
 translation = "후니, 무슨 일이야……?"
 
 [[dialogue]]
-speaker = "フェニエル"
+speaker_original = "フェニエル"
+speaker_translation = "페니엘"
 original = "「あれ、会長さん？\u3000こんばんは。実は……」"
 translation = "「어, 회장님? 안녕하세요. 사실은……」"
 
 [[dialogue]]
-speaker = "ヒルディオーネ"
+speaker_original = "ヒルディオーネ"
+speaker_translation = "힐디오네"
 original = "「ふっ……！\u3000はっ……！\u3000ふっ……！」"
 translation = "「흡……! 하앗……! 흡……!」"
 
@@ -29,37 +31,44 @@ original = "（千園寺先輩……凄い気迫だ）"
 translation = "(센온지 선배…… 엄청난 기박이다)"
 
 [[dialogue]]
-speaker = "フェニエル"
+speaker_original = "フェニエル"
+speaker_translation = "페니엘"
 original = "「お姉様の内緒のトレーニングなんです。ちょっとだけ様子を見に来たつもりだったんですが、つい魅入ってしまって……」"
 translation = "「언니분의 비밀 트레이닝이에요. 잠깐 상태를 보러 온 생각이었는데, 그만 넋을 잃고 보고 있어서……」"
 
 [[dialogue]]
-speaker = "フェニエル"
+speaker_original = "フェニエル"
+speaker_translation = "페니엘"
 original = "「いつもの優雅なお姉様とは全然違うんですけど、何だか凄く格好良くて。……時間が経つのも、忘れてしまうんです」"
 translation = "「평소의 우아한 언니분과는 전혀 다르지만, 왠지 굉장히 멋있어서. ……시간이 가는 것도 잊어버리게 돼요」"
 
 [[dialogue]]
-speaker = "フェニエル"
+speaker_original = "フェニエル"
+speaker_translation = "페니엘"
 original = "「ただ、お姉様はトレーニング姿を見られるのがお好きではないそうなので、出来れば私が覗いていたことは、秘密にして頂けると……」"
 translation = "「다만, 언니분은 트레이닝하는 모습을 보여주는 걸 좋아하지 않으시는 것 같으니, 가급적 제가 엿보고 있었다는 건 비밀로 해주셨으면……」"
 
 [[dialogue]]
-speaker = "ヒルディオーネ"
+speaker_original = "ヒルディオーネ"
+speaker_translation = "힐디오네"
 original = "「フニ、全部聞こえていましてよ」"
 translation = "「후니, 전부 들리고 있답니다」"
 
 [[dialogue]]
-speaker = "フェニエル"
+speaker_original = "フェニエル"
+speaker_translation = "페니엘"
 original = "「ぴぃっ！？\u3000お姉様、いつの間に……？」"
 translation = "「삐익!? 언니분, 어느 사이에……?」"
 
 [[dialogue]]
-speaker = "ヒルディオーネ"
+speaker_original = "ヒルディオーネ"
+speaker_translation = "힐디오네"
 original = "「貴方はもっと周囲の気配に敏感になった方がいいですわね。戦闘ではその油断が命取りになりますわよ」"
 translation = "「당신은 좀 더 주위의 기척에 민감해지는 편이 좋겠어요. 전투에서는 그 방심이 치명상이 된답니다」"
 
 [[dialogue]]
-speaker = "ヒルディオーネ"
+speaker_original = "ヒルディオーネ"
+speaker_translation = "힐디오네"
 original = "「しかし、トレーニング姿を緋宮会長に見られてしまうとは、私も油断していましたわ」"
 translation = "「하지만, 트레이닝하는 모습을 히노미야 회장님께 들켜버리다니, 저도 방심했네요」"
 
@@ -69,12 +78,14 @@ original = "先輩の居場所をマムから聞きまして"
 translation = "선배가 있는 곳을 마무에게 들었습니다"
 
 [[dialogue]]
-speaker = "ヒルディオーネ"
+speaker_original = "ヒルディオーネ"
+speaker_translation = "힐디오네"
 original = "「マハムートから？\u3000全く、悪戯好きですわね……それで、私に何か用がございますの？」"
 translation = "「마하무트에게요? 정말이지, 장난꾸러기네요…… 그래서, 제게 무슨 용건이라도 있나요?」"
 
 [[dialogue]]
-speaker = "ヒルディオーネ"
+speaker_original = "ヒルディオーネ"
+speaker_translation = "힐디오네"
 original = "「ん、これは……ああ、今度の定例会の資料ですわね。届けて下さり、感謝致しますわ」"
 translation = "「음, 이건…… 아아, 이번 정례회 자료군요. 전해주셔서 감사드려요」"
 
@@ -84,47 +95,56 @@ original = "いつもこんな時間までトレーニングを？"
 translation = "항상 이런 시간까지 트레이닝을?"
 
 [[dialogue]]
-speaker = "ヒルディオーネ"
+speaker_original = "ヒルディオーネ"
+speaker_translation = "힐디오네"
 original = "「はて、何のことやら分かりませんわね。今日はたまたま――」"
 translation = "「글쎄요, 무슨 말씀이신지 모르겠네요. 오늘은 우연히──」"
 
 [[dialogue]]
-speaker = "フェニエル"
+speaker_original = "フェニエル"
+speaker_translation = "페니엘"
 original = "「そうなんです！」"
 translation = "「맞아요!」"
 
 [[dialogue]]
-speaker = "ヒルディオーネ"
+speaker_original = "ヒルディオーネ"
+speaker_translation = "힐디오네"
 original = "「えっ」"
 translation = "「엣」"
 
 [[dialogue]]
-speaker = "フェニエル"
+speaker_original = "フェニエル"
+speaker_translation = "페니엘"
 original = "「お姉様は毎日欠かさず、夜に集中してトレーニングをされているんです！\u3000しかも、そのトレーニング量は凄くて、早朝まで続けることもあるくらいで！」"
 translation = "「언니분은 매일 거르지 않고, 밤에 집중해서 트레이닝을 하고 계세요! 게다가 그 트레이닝 양이 엄청나서, 이른 아침까지 계속하는 경우도 있을 정도로요!」"
 
 [[dialogue]]
-speaker = "ヒルディオーネ"
+speaker_original = "ヒルディオーネ"
+speaker_translation = "힐디오네"
 original = "「ま、待ちなさいフニ。貴方が何でそれを知っているのかしら？」"
 translation = "「기, 기다려요 후니. 당신이 그걸 어떻게 알고 있는 건가요?」"
 
 [[dialogue]]
-speaker = "フェニエル"
+speaker_original = "フェニエル"
+speaker_translation = "페니엘"
 original = "「感動して、見ていました！」"
 translation = "「감동해서 보고 있었습니다!」"
 
 [[dialogue]]
-speaker = "ヒルディオーネ"
+speaker_original = "ヒルディオーネ"
+speaker_translation = "힐디오네"
 original = "「ですわ！？\u3000むしろ貴方の集中力の方が凄いのではなくて……！？」"
 translation = "「인가요!? 오히려 당신의 집중력이 더 대단한 거 아닌가요……!?」"
 
 [[dialogue]]
-speaker = "フェニエル"
+speaker_original = "フェニエル"
+speaker_translation = "페니엘"
 original = "「お姉様の尊敬出来るところは、ハードなトレーニングを毎日欠かさず続けているのに、昼間はそれをおくびにも出さず、優雅に振る舞い続けているところです！」"
 translation = "「언니분의 존경스러운 점은, 하드한 트레이닝을 매일 거르지 않고 계속하면서도, 낮에는 그걸 내색조차 하지 않고 우아하게 행동하신다는 점이에요!」"
 
 [[dialogue]]
-speaker = "フェニエル"
+speaker_original = "フェニエル"
+speaker_translation = "페니엘"
 original = "「真面目に授業を受け、星騎士の仕事をこなし、寮長として後輩を厳しくも真摯に向き合って指導する。まさに、模範生……私の尊敬するお姉様です！」"
 translation = "「성실하게 수업을 듣고, 별의 기사 일을 해내며, 기숙사장으로서 후배를 엄격하면서도 진지하게 마주하며 지도한다. 그야말로 모범생…… 제가 존경하는 언니분이에요!」"
 
@@ -134,47 +154,56 @@ original = "千園寺先輩は努力家だったんですね"
 translation = "센온지 선배는 노력가였군요"
 
 [[dialogue]]
-speaker = "ヒルディオーネ"
+speaker_original = "ヒルディオーネ"
+speaker_translation = "힐디오네"
 original = "「も、もう！\u3000フニ、そのくらいになさい！\u3000あまり上級生に恥をかかせるものではなくってよ！」"
 translation = "「정, 정말이지! 후니, 그 정도로 해둬요! 너무 상급자에게 창피를 주는 게 아니랍니다!」"
 
 [[dialogue]]
-speaker = "フェニエル"
+speaker_original = "フェニエル"
+speaker_translation = "페니엘"
 original = "「あっ……申し訳ありません、お姉様。つい熱くなっちゃって……」"
 translation = "「앗…… 죄송합니다, 언니분. 그만 열이 올라서……」"
 
 [[dialogue]]
-speaker = "ヒルディオーネ"
+speaker_original = "ヒルディオーネ"
+speaker_translation = "힐디오네"
 original = "「努力とは見せびらかすものではありません。あくまで成果に繋げる為の過程であり、美しい結果だけを当然のように見せることこそがエレガント――」"
 translation = "「노력이란 과시하는 것이 아닙니다. 어디까지나 성과로 이어지기 위한 과정이며, 아름다운 결과만을 당연하다는 듯 보여주는 것이야말로 엘레강트──」"
 
 [[dialogue]]
-speaker = "ヒルディオーネ"
+speaker_original = "ヒルディオーネ"
+speaker_translation = "힐디오네"
 original = "「すなわち、私の美学なのですわ」"
 translation = "「즉, 저의 미학이랍니다」"
 
 [[dialogue]]
-speaker = "フェニエル"
+speaker_original = "フェニエル"
+speaker_translation = "페니엘"
 original = "「お姉様……！\u3000私、感動しました！\u3000やはりお姉様は、尊敬出来る凄い人ですっ」"
 translation = "「언니분……! 저, 감동했어요! 역시 언니분은 존경할 수 있는 대단한 분이에요」"
 
 [[dialogue]]
-speaker = "フェニエル"
+speaker_original = "フェニエル"
+speaker_translation = "페니엘"
 original = "「だからこそ流星寮の皆さんは、お姉さまが自主練してても<b>知らないフリ</b>をしているんですね……！」"
 translation = "「그렇기에 유성 기숙사의 여러분은, 언니분이 자율 훈련을 하고 있어도 <b>모르는</b> <b>척</b>을 해주고 있는 거군요……!」"
 
 [[dialogue]]
-speaker = "ヒルディオーネ"
+speaker_original = "ヒルディオーネ"
+speaker_translation = "힐디오네"
 original = "「そうそう、その通り……って、んん？\u3000フニ、今なんと言ったかしら？」"
 translation = "「그래그래, 바로 그거…… 응, 응? 후니, 지금 뭐라고 했나요?」"
 
 [[dialogue]]
-speaker = "フェニエル"
+speaker_original = "フェニエル"
+speaker_translation = "페니엘"
 original = "「流星寮の皆さんも、お姉様を尊敬しているということです！」"
 translation = "「유성 기숙사 분들도 언니분을 존경하고 있다는 뜻이에요!」"
 
 [[dialogue]]
-speaker = "ヒルディオーネ"
+speaker_original = "ヒルディオーネ"
+speaker_translation = "힐디오네"
 original = "「そ、そう？\u3000何か聞き捨てならない台詞が聞こえたような気が……」"
 translation = "「그, 그래요? 뭔가 그냥 넘기기 힘든 대사가 들린 것 같은 기분이……」"
 
@@ -184,12 +213,14 @@ original = "（寮生みんなに努力がバレてる……！）"
 translation = "(기숙사생 모두에게 노력이 들통나 있어……!)"
 
 [[dialogue]]
-speaker = "ヒルディオーネ"
+speaker_original = "ヒルディオーネ"
+speaker_translation = "힐디오네"
 original = "「ま、まあいいですわ。そんなわけで、緋宮会長も私がトレーニングしていたことは、吹聴しないで頂けますかしら？」"
 translation = "「뭐, 뭐 됐어요. 그런 고로, 히노미야 회장님도 제가 트레이닝하고 있었다는 건 소문내지 말아 주시겠어요?」"
 
 [[dialogue]]
-speaker = "ヒルディオーネ"
+speaker_original = "ヒルディオーネ"
+speaker_translation = "힐디오네"
 original = "「淑女としてみっともないところを、あまり知られたくはありませんので」"
 translation = "「숙녀로서 꼴사나운 모습을 너무 알려지고 싶지는 않으니까요」"
 
@@ -204,12 +235,14 @@ original = "言いふらさないと約束します"
 translation = "말하지 않겠다고 약속할게요"
 
 [[dialogue]]
-speaker = "ヒルディオーネ"
+speaker_original = "ヒルディオーネ"
+speaker_translation = "힐디오네"
 original = "「え？\u3000緋宮会長が私と一緒に？」"
 translation = "「에? 히노미야 회장님이 저와 함께요?」"
 
 [[dialogue]]
-speaker = "ヒルディオーネ"
+speaker_original = "ヒルディオーネ"
+speaker_translation = "힐디오네"
 original = "「ふむ。誰かと一緒にトレーニングすることは、これまであまりありませんでしたわね……」"
 translation = "「흠. 누군가와 함께 트레이닝하는 일은 그동안 거의 없었네요……」"
 
@@ -219,37 +252,44 @@ original = "俺は強くなりたい。リクリエを止める為に"
 translation = "나는 강해지고 싶어. 리크리에를 막기 위해서"
 
 [[dialogue]]
-speaker = "ヒルディオーネ"
+speaker_original = "ヒルディオーネ"
+speaker_translation = "힐디오네"
 original = "「……！\u3000ふふっ……」"
 translation = "「……! 후훗……」"
 
 [[dialogue]]
-speaker = "ヒルディオーネ"
+speaker_original = "ヒルディオーネ"
+speaker_translation = "힐디오네"
 original = "「おーっほっほっほ！\u3000そうですわね、その通りですわ！\u3000それに緋宮会長にはこの前、同志として親交を結ぶことを宣言したばかり！」"
 translation = "「오─홋홋홋! 그렇군요, 맞는 말이에요! 게다가 히노미야 회장님께는 얼마 전, 동지로서 친교를 맺겠다고 선언한 참이었죠!」"
 
 [[dialogue]]
-speaker = "ヒルディオーネ"
+speaker_original = "ヒルディオーネ"
+speaker_translation = "힐디오네"
 original = "「いいでしょう。リクリエを阻止出来る最強の星騎士になる為、今日だけと言わず、貴方を私の正式なトレーニングパートナーにして差し上げますわ！」"
 translation = "「좋아요. 리크리에를 저지할 수 있는 최강의 별의 기사가 되기 위해, 오늘뿐만 아니라 당신을 저의 정식 트레이닝 파트너로 삼아드리겠어요!」"
 
 [[dialogue]]
-speaker = "ヒルディオーネ"
+speaker_original = "ヒルディオーネ"
+speaker_translation = "힐디오네"
 original = "「そうと決まれば、善は急げ、すぐに共同トレーニング開始ですわよ！」"
 translation = "「그렇게 정해졌으면 쇠뿔도 단김에 빼는 법, 즉시 공동 트레이닝 개시예요!」"
 
 [[dialogue]]
-speaker = "フェニエル"
+speaker_original = "フェニエル"
+speaker_translation = "페니엘"
 original = "「あ、あの、お姉様っ。私も一緒に参加しちゃダメですか……？」"
 translation = "「저, 저기, 언니분. 저도 같이 참가하면 안 될까요……?」"
 
 [[dialogue]]
-speaker = "ヒルディオーネ"
+speaker_original = "ヒルディオーネ"
+speaker_translation = "힐디오네"
 original = "「ふふっ、こうなれば１人くらい増えたところで変わりませんわ！\u3000隠れて覗かれるくらいなら、訓練を見てあげてもよろしくてよ、フニ！」"
 translation = "「후훗, 이렇게 된 거 한 명쯤 늘어난다고 달라질 건 없답니다! 숨어서 엿볼 바에야 훈련을 봐주도록 하겠어요, 후니!」"
 
 [[dialogue]]
-speaker = "フェニエル"
+speaker_original = "フェニエル"
+speaker_translation = "페니엘"
 original = "「はいっ。ありがとうございます、お姉様♪」"
 translation = "「네! 감사합니다, 언니분♪」"
 

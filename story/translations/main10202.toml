@@ -4,267 +4,320 @@ original = "第２話,メイド長とガールズトーク☆,B"
 translation = "제2화, 메이드장과 걸즈 토크☆"
 
 [[dialogue]]
-speaker = "蘭美"
+speaker_original = "蘭美"
+speaker_translation = "라미"
 original = "「こっちよ。ご当主様は大聖堂にいらっしゃるわ」"
 translation = "「이쪽이야. 당주님은 대성당에 계신다.」"
 
 [[dialogue]]
-speaker = "美鶴"
+speaker_original = "美鶴"
+speaker_translation = "미츠루"
 original = "「メイド長、足早いですね」"
 translation = "「메이드장, 발이 빠르시네요.」"
 
 [[dialogue]]
-speaker = "蘭美"
+speaker_original = "蘭美"
+speaker_translation = "라미"
 original = "「ちっちゃいクセに、ってこと！？」"
 translation = "「조그만 주제에, 라는 뜻이냐!?」"
 
 [[dialogue]]
-speaker = "美鶴"
+speaker_original = "美鶴"
+speaker_translation = "미츠루"
 original = "「そうは言ってないです」"
 translation = "「그렇게 말 안 했어요.」"
 
 [[dialogue]]
-speaker = "蘭美"
+speaker_original = "蘭美"
+speaker_translation = "라미"
 original = "「普通に歩いてるだけよ。あなたが遅いの。私より体が大きいんだから、もっとシャキシャキ歩きなさい」"
 translation = "「평범하게 걷고 있을 뿐이다. 네가 느린 거야. 나보다 몸집이 크니까 좀 더 씩씩하게 걷거라.」"
 
 [[dialogue]]
-speaker = "蘭美"
+speaker_original = "蘭美"
+speaker_translation = "라미"
 original = "「ちなみに、あなたが大きいのであって、私が小さいわけではないのよ！？」"
 translation = "「참고로 네가 큰 것이지, 내가 작은 게 아니란 말이다!?」"
 
 [[dialogue]]
-speaker = "美鶴"
+speaker_original = "美鶴"
+speaker_translation = "미츠루"
 original = "（言ってないのに……自分で言っちゃうんよな、この人……）"
 translation = "(말도 안 했는데…… 스스로 말해버린단 말이지, 이 사람……)"
 
 [[dialogue]]
-speaker = "美鶴"
+speaker_original = "美鶴"
+speaker_translation = "미츠루"
 original = "（でもさ、こう見えて前代未聞にスゴい人なんだよね。九浄家メイド隊の隊長にして、『歴代最年少のメイド長』だもん）"
 translation = "(하지만 말이야, 이래 보여도 전대미문으로 대단한 사람이거든. 쿠죠 가 메이드대의 대장이자, 『역대 최연소 메이드장』이니까)"
 
 [[dialogue]]
-speaker = "美鶴"
+speaker_original = "美鶴"
+speaker_translation = "미츠루"
 original = "「えーと……それで、当主様がうちなんかに何の用なんですかね。お小言じゃないですよね」"
 translation = "「저기…… 그래서, 당주님이 나 같은 애한테 무슨 용건이실까요. 잔소리는 아니겠죠.」"
 
 [[dialogue]]
-speaker = "蘭美"
+speaker_original = "蘭美"
+speaker_translation = "라미"
 original = "「お小言を言われる覚えでもあるの？」"
 translation = "「잔소리를 들을 만한 짐작 가는 일이라도 있느냐?」"
 
 [[dialogue]]
-speaker = "美鶴"
+speaker_original = "美鶴"
+speaker_translation = "미츠루"
 original = "「悪いことはしてないすけど……うち、いつもこんな調子じゃないすか」"
 translation = "「나쁜 짓은 안 했지만…… 나, 항상 이런 상태잖아요.」"
 
 [[dialogue]]
-speaker = "美鶴"
+speaker_original = "美鶴"
+speaker_translation = "미츠루"
 original = "「どーもサボってるように思われがちなんですよ。与えられたノルマは、ちゃんとこなしてるんすけど」"
 translation = "「아무래도 땡땡이치고 있는 것처럼 보이기 십상이거든요. 주어진 할당량은 제대로 해내고 있는데 말이죠.」"
 
 [[dialogue]]
-speaker = "蘭美"
+speaker_original = "蘭美"
+speaker_translation = "라미"
 original = "「ええ、わかってるわ。あなたは自分に与えられた仕事を、しっかりとやっている」"
 translation = "「그래, 알고 있다. 너는 자신에게 주어진 일을 확실히 하고 있지.」"
 
 [[dialogue]]
-speaker = "蘭美"
+speaker_original = "蘭美"
+speaker_translation = "라미"
 original = "「ただし、それ以上のことは決してやらない。それがあなたのポリシーよね？」"
 translation = "「다만, 그 이상의 일은 결코 하지 않는다. 그것이 네 폴리시(Policy)지?」"
 
 [[dialogue]]
-speaker = "美鶴"
+speaker_original = "美鶴"
+speaker_translation = "미츠루"
 original = "「ご理解いただけてるみたいで、助かります」"
 translation = "「이해해 주시는 것 같아 다행이네요.」"
 
 [[dialogue]]
-speaker = "蘭美"
+speaker_original = "蘭美"
+speaker_translation = "라미"
 original = "「メイドたちの仕事ぶりを把握するのは、メイド長として当然のことよ」"
 translation = "「메이드들의 업무 태도를 파악하는 것은 메이드장으로서 당연한 일이다.」"
 
 [[dialogue]]
-speaker = "蘭美"
+speaker_original = "蘭美"
+speaker_translation = "라미"
 original = "「あなたは必要最低限のことを過不足なく成し遂げている。そういう意味ではあなたの仕事ぶりを高く評価してるわ」"
 translation = "「너는 필요 최소한의 일을 과부족 없이 완수하고 있다. 그런 의미에서 네 업무 태도를 높게 평가하고 있다.」"
 
 [[dialogue]]
-speaker = "美鶴"
+speaker_original = "美鶴"
+speaker_translation = "미츠루"
 original = "「や、当たり前のことをやってるだけなんすけど」"
 translation = "「아니, 당연한 일을 하고 있을 뿐인데요.」"
 
 [[dialogue]]
-speaker = "蘭美"
+speaker_original = "蘭美"
+speaker_translation = "라미"
 original = "「でも私はね……あなたが本気を出しさえすれば、いずれ九浄家メイド隊の柱になれる人材だと思っているの」"
 translation = "「하지만 나는 말이다…… 네가 진심을 내기만 한다면, 머지않아 쿠죠 가 메이드대의 기둥이 될 인재라고 생각하고 있다.」"
 
 [[dialogue]]
-speaker = "美鶴"
+speaker_original = "美鶴"
+speaker_translation = "미츠루"
 original = "「ハシラ？\u3000うちもメイド長になるってことすか？」"
 translation = "「기둥? 나도 메이드장이 된다는 소리에요?」"
 
 [[dialogue]]
-speaker = "蘭美"
+speaker_original = "蘭美"
+speaker_translation = "라미"
 original = "「そうね。うかうかしていたら、私の地位はあなたに持っていかれてしまうかもしれないわ」"
 translation = "「그래. 방심하고 있다가는 내 지위는 네가 가져가 버릴지도 모르겠구나.」"
 
 [[dialogue]]
-speaker = "美鶴"
+speaker_original = "美鶴"
+speaker_translation = "미츠루"
 original = "「ないない。ないですよ。いくらなんでもそれは買い被りってもんですって」"
 translation = "「아니에요, 아니에요. 아무리 그래도 그건 과찬이라니까요.」"
 
 [[dialogue]]
-speaker = "美鶴"
+speaker_original = "美鶴"
+speaker_translation = "미츠루"
 original = "「うちみたいな、めんどくさがりなやる気なし子さんがメイド長になったら、みんなに迷惑かけちゃいますよ」"
 translation = "「나 같은 귀차니스트에 의욕 없는 애가 메이드장이 되면 다들 고생한다고요.」"
 
 [[dialogue]]
-speaker = "蘭美"
+speaker_original = "蘭美"
+speaker_translation = "라미"
 original = "「そんなことないわ！！！」"
 translation = "「그렇지 않다!!!」"
 
 [[dialogue]]
-speaker = "美鶴"
+speaker_original = "美鶴"
+speaker_translation = "미츠루"
 original = "「うわ。びっくりした」"
 translation = "「우와. 깜짝이야.」"
 
 [[dialogue]]
-speaker = "蘭美"
+speaker_original = "蘭美"
+speaker_translation = "라미"
 original = "「あなたは生まれ持った力を、最大限に活用していないだけでしょ。力を持っていると自覚していながら、意図的に」"
 translation = "「너는 타고난 힘을 최대한으로 활용하지 않고 있을 뿐이잖느냐. 힘을 가지고 있다는 걸 자각하고 있으면서도 의도적으로.」"
 
 [[dialogue]]
-speaker = "美鶴"
+speaker_original = "美鶴"
+speaker_translation = "미츠루"
 original = "「メイドのお仕事をフルパワーでやる必要はなくないすか？\u3000雑魚モンスターを倒すのに、命がけの超必殺技を使う必要はないでしょ？」"
 translation = "「메이드 업무를 풀 파워로 할 필요는 없지 않나요? 잡몹을 잡는 데 목숨 건 초필살기를 쓸 필요는 없잖아요?」"
 
 [[dialogue]]
-speaker = "蘭美"
+speaker_original = "蘭美"
+speaker_translation = "라미"
 original = "「つまり、その気になれば、あなたも命がけの超必殺技が打てるってことね？」"
 translation = "「즉, 마음만 먹으면 너도 목숨 건 초필살기를 쓸 수 있다는 뜻이구나?」"
 
 [[dialogue]]
-speaker = "美鶴"
+speaker_original = "美鶴"
+speaker_translation = "미츠루"
 original = "「物のたとえっすよ」"
 translation = "「비유예요, 비유.」"
 
 [[dialogue]]
-speaker = "蘭美"
+speaker_original = "蘭美"
+speaker_translation = "라미"
 original = "「いつもそうね。あなたは力を抑えて、一歩引いて、メイド隊の中でも極力目立たないように行動している」"
 translation = "「항상 그렇지. 너는 힘을 억누르고 한 발짝 물러나서, 메이드대 안에서도 가급적 눈에 띄지 않게 행동하고 있다.」"
 
 [[dialogue]]
-speaker = "美鶴"
+speaker_original = "美鶴"
+speaker_translation = "미츠루"
 original = "「んなことないと思うすけど」"
 translation = "「그러지는 않는다고 생각하는데요.」"
 
 [[dialogue]]
-speaker = "蘭美"
+speaker_original = "蘭美"
+speaker_translation = "라미"
 original = "「んなことあるわよ！\u3000大有りよ！」"
 translation = "「그러고 있다! 아주 많이!」"
 
 [[dialogue]]
-speaker = "蘭美"
+speaker_original = "蘭美"
+speaker_translation = "라미"
 original = "「抑えている力を、ほんの少し表に出すだけで、あなたはもっと高みへと登れるというのに……！」"
 translation = "「억누르고 있는 힘을 아주 조금만 밖으로 드러내도 너는 더 높은 곳으로 올라갈 수 있는데……!」"
 
 [[dialogue]]
-speaker = "蘭美"
+speaker_original = "蘭美"
+speaker_translation = "라미"
 original = "「類稀な才能の持ち主が、正当な評価を受けていないのが歯がゆくて仕方ないの！」"
 translation = "「유례없는 재능의 소유자가 정당한 평가를 받지 못하는 게 안타까워 견딜 수가 없구나!」"
 
 [[dialogue]]
-speaker = "美鶴"
+speaker_original = "美鶴"
+speaker_translation = "미츠루"
 original = "「メイド長、あんましデッカい声出さない。みんな見てますよ」"
 translation = "「메이드장, 너무 큰 소리 내지 마요. 다들 보잖아요.」"
 
 [[dialogue]]
-speaker = "蘭美"
+speaker_original = "蘭美"
+speaker_translation = "라미"
 original = "「はっ……！」"
 translation = "「핫……!」"
 
 [[dialogue]]
-speaker = "蘭美"
+speaker_original = "蘭美"
+speaker_translation = "라미"
 original = "「……こほん。とにかく、あなたのような有能なメイドを眠らせておくのは、九浄家にとっても大きな損失なのよ」"
 translation = "「……크흠. 어쨌든 너 같은 유능한 메이드를 잠재워 두는 것은 쿠죠 가에게 있어서도 큰 손실이다.」"
 
 [[dialogue]]
-speaker = "美鶴"
+speaker_original = "美鶴"
+speaker_translation = "미츠루"
 original = "「はは、うちなんかを高く買ってくれるのは嬉しいんすけど困っちゃいますね」"
 translation = "「하하, 나 같은 걸 높게 사주는 건 기쁘지만 곤란하네요.」"
 
 [[dialogue]]
-speaker = "蘭美"
+speaker_original = "蘭美"
+speaker_translation = "라미"
 original = "「何が困るっていうのよ」"
 translation = "「뭐가 곤란하다는 것이냐.」"
 
 [[dialogue]]
-speaker = "美鶴"
+speaker_original = "美鶴"
+speaker_translation = "미츠루"
 original = "「メイド長が言ってた通り『後ろの方で過不足なく、ローカロリーにこなす』ってのがうちの処世術なもんで」"
 translation = "「메이드장이 말한 대로 『뒤쪽에서 과부족 없이, 로우 칼로리로 해치운다』는 게 나의 처세술이라서요.」"
 
 [[dialogue]]
-speaker = "美鶴"
+speaker_original = "美鶴"
+speaker_translation = "미츠루"
 original = "「すっかり根付いちゃってて、表に出すやり方ってのがよくわからないんすよね」"
 translation = "「완전히 몸에 배버려서 겉으로 드러내는 방식 같은 건 잘 모르겠거든요.」"
 
 [[dialogue]]
-speaker = "蘭美"
+speaker_original = "蘭美"
+speaker_translation = "라미"
 original = "「まあ、そこまで無理強いするつもりはないのだけど……他人には言えない事情だってあるでしょうしね」"
 translation = "「뭐, 그렇게까지 강요할 생각은 없다만…… 타인에게는 말할 수 없는 사정도 있을 테고 말이다.」"
 
 [[dialogue]]
-speaker = "美鶴"
+speaker_original = "美鶴"
+speaker_translation = "미츠루"
 original = "「や、そんな大層なもんじゃないですよ。メイド長はどこまでもうちを買い被ってくれるんですね」"
 translation = "「아니, 그런 거창한 거 아니에요. 메이드장은 끝까지 나를 과대평가해 주시네요.」"
 
 [[dialogue]]
-speaker = "美鶴"
+speaker_original = "美鶴"
+speaker_translation = "미츠루"
 original = "（ホントにね、ご立派な理由とかないよ）"
 translation = "(정말로 말이야, 거창한 이유 같은 건 없어)"
 
 [[dialogue]]
-speaker = "美鶴"
+speaker_original = "美鶴"
+speaker_translation = "미츠루"
 original = "（熱くなるのって、カロリー使うじゃん。目立つじゃん。恥ずいじゃん。単にそれだけ）"
 translation = "(열을 올리는 건 칼로리 소모되잖아. 눈에 띄잖아. 부끄럽잖아. 단지 그뿐)"
 
 [[dialogue]]
-speaker = "美鶴"
+speaker_original = "美鶴"
+speaker_translation = "미츠루"
 original = "（面白みのない本心がバレるのも恥ずいし、あえては言わないけど）"
 translation = "(재미없는 본심이 들통나는 것도 부끄럽고, 굳이 말하진 않겠지만)"
 
 [[dialogue]]
-speaker = "蘭美"
+speaker_original = "蘭美"
+speaker_translation = "라미"
 original = "「まあ、いいわ。気が変わったら、いつでも相談して。優秀なメイドになるための心得を、骨の髄まで叩きこんであげるから」"
 translation = "「뭐, 좋다. 마음이 바뀌면 언제든 상담하거라. 우수한 메이드가 되기 위한 마음가짐을 뼛속까지 새겨줄 테니.」"
 
 [[dialogue]]
-speaker = "美鶴"
+speaker_original = "美鶴"
+speaker_translation = "미츠루"
 original = "「そんな機会は一生ないすよ」"
 translation = "「그런 기회는 평생 없어요.」"
 
 [[dialogue]]
-speaker = "蘭美"
+speaker_original = "蘭美"
+speaker_translation = "라미"
 original = "「まったく……そういえば、ご当主様があなたを呼び出した用件について、なんだけど」"
 translation = "「정말이지…… 그러고 보니 당주님께서 너를 불러내신 용건에 대해서인데.」"
 
 [[dialogue]]
-speaker = "美鶴"
+speaker_original = "美鶴"
+speaker_translation = "미츠루"
 original = "「聞いてるんですか？」"
 translation = "「들으셨어요?」"
 
 [[dialogue]]
-speaker = "蘭美"
+speaker_original = "蘭美"
+speaker_translation = "라미"
 original = "「お生憎様、私も詳細は聞いてないわ。『美鶴を呼んできて』と命じられただけ」"
 translation = "「안타깝게도 나도 자세한 건 듣지 못했다. 『미츠루를 불러오너라』라고 명받았을 뿐.」"
 
 [[dialogue]]
-speaker = "蘭美"
+speaker_original = "蘭美"
+speaker_translation = "라미"
 original = "「でも、私の経験則からすると、美鶴には極秘任務が課せられるんじゃないかしら。ご当主様の期待に応えられるよう、気張ることね」"
 translation = "「하지만 내 경험칙으로 미루어 보아 미츠루에게는 극비 임무가 맡겨지지 않을까 싶구나. 당주님의 기대에 부응할 수 있도록 기운 차리거라.」"
 
 [[dialogue]]
-speaker = "美鶴"
+speaker_original = "美鶴"
+speaker_translation = "미츠루"
 original = "「うーわ。お小言の方がマシですね」"
 translation = "「우와─. 잔소리 듣는 게 차라리 낫겠네요.」"
 

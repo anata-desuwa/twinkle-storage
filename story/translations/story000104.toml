@@ -4,7 +4,8 @@ original = "バトルウィーク開幕初日の早朝──"
 translation = "배틀 위크 개막 첫날의 이른 아침──"
 
 [[dialogue]]
-speaker = "ヒルディオーネ"
+speaker_original = "ヒルディオーネ"
+speaker_translation = "힐디오네"
 original = "「ようこそいらっしゃいました、緋宮会長。ここが流星寮『イルソーレ』の共有ロビーですわ！」"
 translation = "「잘 오셨어요, 히노미야 회장. 이곳이 유성 기숙사 『일 소레』의 공유 로비예요!」"
 
@@ -14,12 +15,14 @@ original = "王宮のラウンジかな……？"
 translation = "왕궁 라운지인가……?"
 
 [[dialogue]]
-speaker = "フェニエル"
+speaker_original = "フェニエル"
+speaker_translation = "페니엘"
 original = "「あはは……。最初に見ると、やっぱりそういう感想になっちゃいますよね」"
 translation = "「아하하……. 처음 보면 역시 그런 감상이 나오게 되죠」"
 
 [[dialogue]]
-speaker = "フェニエル"
+speaker_original = "フェニエル"
+speaker_translation = "페니엘"
 original = "「私も、最初にここに住んでいいって言われた時は、何かの間違いかと思っちゃいました……」"
 translation = "「저도 처음에 여기서 살아도 좋다는 말을 들었을 때는 뭔가 착오가 있는 게 아닐까 생각했어요……」"
 
@@ -29,62 +32,74 @@ original = "外観もだけど、明らかに新星寮と設備が違う"
 translation = "외관도 그렇지만 분명히 신성 기숙사와 설비가 다르다"
 
 [[dialogue]]
-speaker = "ヒルディオーネ"
+speaker_original = "ヒルディオーネ"
+speaker_translation = "힐디오네"
 original = "「ふふっ。高貴な精神は、優雅な生活に裏打ちされてこそ、ですわ♪」"
 translation = "「후훗. 고귀한 정신은 우아한 생활이 뒷받침되어야 비로소 생겨나는 법이에요♪」"
 
 [[dialogue]]
-speaker = "フェニエル"
+speaker_original = "フェニエル"
+speaker_translation = "페니엘"
 original = "「<ruby>流星寮<rt>イルソーレ</rt></ruby>の挨拶は『ごきげんよう』ですし、休日の午後はアフタヌーンティーをしたりするんです」"
 translation = "「<ruby>유성 기숙사<rt>일 소레</rt></ruby>의 인사는 『평안하신지요』이고, 휴일 오후에는 애프터눈 티를 하기도 해요」"
 
 [[dialogue]]
-speaker = "ヒルディオーネ"
+speaker_original = "ヒルディオーネ"
+speaker_translation = "힐디오네"
 original = "「緋宮会長はアフタヌーンティーの経験はございませんの？\u3000いけませんわよ。首長たるもの、社交の場におけるマナーくらい、身に着けておきませんと」"
 translation = "「히노미야 회장은 애프터눈 티 경험이 없으신가요? 안 돼요. 수장이라면 사교의 장에서의 매너 정도는 익혀두어야죠」"
 
 [[dialogue]]
-speaker = "ヒルディオーネ"
+speaker_original = "ヒルディオーネ"
+speaker_translation = "힐디오네"
 original = "「イルソーレでは、そうした教養や高貴な精神を重視しておりますわ。『清楚・上品・優雅』がこの寮のモットーですの」"
 translation = "「일 소레에서는 그런 교양이나 고귀한 정신을 중시하고 있어요. 『청초·단정·우아』가 이 기숙사의 모토예요」"
 
 [[dialogue]]
-speaker = "フェニエル"
+speaker_original = "フェニエル"
+speaker_translation = "페니엘"
 original = "「あっ、もちろんお姉様はそういうことを強制はしてないんですよっ」"
 translation = "「앗, 물론 언니분은 그런 걸 강요하지는 않아요!」"
 
 [[dialogue]]
-speaker = "フェニエル"
+speaker_original = "フェニエル"
+speaker_translation = "페니엘"
 original = "「ただ、流星寮には昔からそういう伝統があったみたいなのと、何より今の寮生は、お姉様を慕っている方々が多いので……」"
 translation = "「다만 유성 기숙사에는 옛날부터 그런 전통이 있었던 것 같고, 무엇보다 지금 기숙사생들은 언니분을 따르는 분들이 많아서……」"
 
 [[dialogue]]
-speaker = "ヒルディオーネ"
+speaker_original = "ヒルディオーネ"
+speaker_translation = "힐디오네"
 original = "「おーっほっほっほ！\u3000私が高貴すぎるが故に、ですわね」"
 translation = "「오~홋홋홋! 제가 너무나도 고귀한 탓이겠지요.」"
 
 [[dialogue]]
-speaker = "ヒルディオーネ"
+speaker_original = "ヒルディオーネ"
+speaker_translation = "힐디오네"
 original = "「私は流星学園の長い歴史においても、最強の星騎士を目指している者ですわ。だから後輩たちは、迷うことなく私が作った道に続けばよいのです」"
 translation = "「저는 유성학원의 긴 역사 속에서도, 최강의 성기사를 목표로 하는 자랍니다. 그러니 후배들은 망설임 없이 제가 만든 길을 따라오면 되는 거예요.」"
 
 [[dialogue]]
-speaker = "ヒルディオーネ"
+speaker_original = "ヒルディオーネ"
+speaker_translation = "힐디오네"
 original = "「そうすれば私が必ずや、リクリエをも打ち破れる強き星騎士へと導いてみせますわ！」"
 translation = "「그러면 제가 반드시, 리크리에조차 타파할 수 있는 강한 성기사로 이끌어 보겠어요!」"
 
 [[dialogue]]
-speaker = "フェニエル"
+speaker_original = "フェニエル"
+speaker_translation = "페니엘"
 original = "「お姉様の訓練の量は、なまら凄いんですっ。あんなに自分を追い込める人を、私は見たことがありません」"
 translation = "「언니분의 훈련량은 정말이지 엄청나요. 저렇게까지 자신을 몰아붙이는 사람을 저는 본 적이 없어요.」"
 
 [[dialogue]]
-speaker = "ヒルディオーネ"
+speaker_original = "ヒルディオーネ"
+speaker_translation = "힐디오네"
 original = "「こ、こらフニ。そういうことはあまり大きな声で言うものではありませんわ」"
 translation = "「이, 이봐 후니. 그런 건 그렇게 큰 소리로 말하는 게 아니에요.」"
 
 [[dialogue]]
-speaker = "ヒルディオーネ"
+speaker_original = "ヒルディオーネ"
+speaker_translation = "힐디오네"
 original = "「強者は結果で語るべきであって、トレーニングの量を誇るものではないのです」"
 translation = "「강자는 결과로 말해야 하는 법이지, 트레이닝 양을 뽐내는 게 아니랍니다.」"
 
@@ -94,12 +109,14 @@ original = "よければ今度、自主トレをご一緒したいです"
 translation = "「괜찮다면 다음에 자율 학습을 같이하고 싶어요.」"
 
 [[dialogue]]
-speaker = "ヒルディオーネ"
+speaker_original = "ヒルディオーネ"
+speaker_translation = "힐디오네"
 original = "「確かに、緋宮会長が普段どのようなトレーニングをされているのかは、興味がありますわね」"
 translation = "「확실히, 히노미야 회장이 평소에 어떤 트레이닝을 하는지는 흥미가 있군요.」"
 
 [[dialogue]]
-speaker = "ヒルディオーネ"
+speaker_original = "ヒルディオーネ"
+speaker_translation = "힐디오네"
 original = "「あなたの勤勉さ、素直さを私は高く評価しておりますの。だからこそ、イルソーレにスカウトしたわけですから」"
 translation = "「당신의 근면함과 솔직함을 높게 평가하고 있답니다. 그렇기에 일 소레로 스카우트한 것이니까요.」"
 
@@ -109,22 +126,26 @@ original = "そうだった！\u3000なんで朝から俺――"
 translation = "「그랬지! 근데 왜 아침부터 나를──」"
 
 [[dialogue]]
-speaker = "ヒルディオーネ"
+speaker_original = "ヒルディオーネ"
+speaker_translation = "힐디오네"
 original = "「新星寮側の人間なのに、流星寮に呼び出した理由、ですの？」"
 translation = "「신성 기숙사 측 사람인데도 유성 기숙사로 불러낸 이유, 말인가요?」"
 
 [[dialogue]]
-speaker = "ヒルディオーネ"
+speaker_original = "ヒルディオーネ"
+speaker_translation = "힐디오네"
 original = "「おーっほっほっほ！\u3000あなたはいずれ私のものになるんですもの。早いうちにイルソーレの文化にも馴染んでもらおうと思っただけですわ♪」"
 translation = "「오~홋홋홋! 당신은 조만간 제 것이 될 몸인걸요. 일찍부터 일 소레의 문화에 익숙해지게 하려 했을 뿐이랍니다♪」"
 
 [[dialogue]]
-speaker = "フェニエル"
+speaker_original = "フェニエル"
+speaker_translation = "페니엘"
 original = "「私たち、今日から毎朝ミーティングをして、学園が始まるまで周辺地域をパトロールをすることになったんです」"
 translation = "「저희, 오늘부터 매일 아침 미팅을 하고 학원이 시작되기 전까지 주변 지역을 순찰하기로 했어요.」"
 
 [[dialogue]]
-speaker = "フェニエル"
+speaker_original = "フェニエル"
+speaker_translation = "페니엘"
 original = "「お姉様の声掛けで、寮生のほとんどが参加すると手を挙げたんですよっ。すごい人望ですっ」"
 translation = "「언니분의 제안으로 기숙사생 대부분이 참가하겠다고 손을 들었답니다. 대단한 인망이에요!」"
 
@@ -134,37 +155,44 @@ original = "俺に作戦をバラしちゃっていいんですか？"
 translation = "「나한테 작전을 다 불어버려도 괜찮은 거야?」"
 
 [[dialogue]]
-speaker = "ヒルディオーネ"
+speaker_original = "ヒルディオーネ"
+speaker_translation = "힐디오네"
 original = "「フッ……これしきのこと、マムならとっくに同じことを手配済みのはず」"
 translation = "「훗…… 이 정도쯤이야, 마무라면 진작에 똑같은 조치를 해두었을 터.」"
 
 [[dialogue]]
-speaker = "ヒルディオーネ"
+speaker_original = "ヒルディオーネ"
+speaker_translation = "힐디오네"
 original = "「ラルーナはいわゆる体育会系ですから、勝負事には目がありませんの」"
 translation = "「라 루나는 이른바 체육계니까, 승부사적인 면에는 사족을 못 쓴답니다.」"
 
 [[dialogue]]
-speaker = "ヒルディオーネ"
+speaker_original = "ヒルディオーネ"
+speaker_translation = "힐디오네"
 original = "「朝練みたいなものですし、早朝パトロールともなれば、もしかするとイルソーレより参加率が高いくらいかもしれませんわね」"
 translation = "「아침 연습 같은 것이기도 하고, 조기 순찰이라고 하면 어쩌면 일 소레보다 참가율이 높을지도 모르겠네요.」"
 
 [[dialogue]]
-speaker = "フェニエル"
+speaker_original = "フェニエル"
+speaker_translation = "페니엘"
 original = "「えっ！？\u3000こっちはびっくりするくらい人が集まってて、たぶん９割くらいの寮生が参加してるんですよ？\u3000流石にそれはないんじゃ……」"
 translation = "「엣!? 이쪽은 깜짝 놀랄 정도로 사람이 모여서, 아마 9할 정도의 기숙사생이 참가하고 있다고요? 설마 그 정도까지는……」"
 
 [[dialogue]]
-speaker = "ヒルディオーネ"
+speaker_original = "ヒルディオーネ"
+speaker_translation = "힐디오네"
 original = "「フニ。私の宿敵である、妃竜院マハムートを甘く見てはいけませんわ」"
 translation = "「후니. 나의 숙적인 키류인 마하무트를 얕보아서는 안 돼요.」"
 
 [[dialogue]]
-speaker = "ヒルディオーネ"
+speaker_original = "ヒルディオーネ"
+speaker_translation = "힐디오네"
 original = "「……不本意ですが、現時点では、あの方は私よりも実力が上ですのよ」"
 translation = "「……내키지는 않지만, 현시점에서는 그분이 저보다 실력이 위니까요.」"
 
 [[dialogue]]
-speaker = "フェニエル"
+speaker_original = "フェニエル"
+speaker_translation = "페니엘"
 original = "「お姉様よりも、上……！？」"
 translation = "「언니분보다 위……!?」"
 
@@ -174,57 +202,68 @@ original = "（そこは素直に認めてるのか……凄いな）"
 translation = "(그 부분은 순순히 인정하는 건가…… 대단하네.)"
 
 [[dialogue]]
-speaker = "ヒルディオーネ"
+speaker_original = "ヒルディオーネ"
+speaker_translation = "힐디오네"
 original = "「ラルーナの暑苦しいノリには付いていけませんけれど、マハムートのカリスマによる統率力は本物ですわ」"
 translation = "「라 루나의 숨 막히는 분위기는 따라갈 수 없지만, 마하무트의 카리스마를 통한 통솔력은 진짜예요.」"
 
 [[dialogue]]
-speaker = "ヒルディオーネ"
+speaker_original = "ヒルディオーネ"
+speaker_translation = "힐디오네"
 original = "「それに加えて、彼女を始めとした個人戦力、エース級プリマステラの力は……ええ、認めざるを得ませんわ。イルソーレの平均を大きく上回っているでしょうね」"
 translation = "「거기에 더해 그녀를 필두로 한 개인 전력, 에이스급 프리마스텔라의 힘은…… 네, 인정하지 않을 수 없군요. 일 소레의 평균을 크게 웃돌고 있을 거예요.」"
 
 [[dialogue]]
-speaker = "フェニエル"
+speaker_original = "フェニエル"
+speaker_translation = "페니엘"
 original = "「そ、そんな……」"
 translation = "「그, 그럴 수가……」"
 
 [[dialogue]]
-speaker = "ヒルディオーネ"
+speaker_original = "ヒルディオーネ"
+speaker_translation = "힐디오네"
 original = "「ですが……戦場における、最も重要な要素とは『優雅さ』――」"
 translation = "「하지만…… 전장에서 가장 중요한 요소는 『우아함』──」"
 
 [[dialogue]]
-speaker = "ヒルディオーネ"
+speaker_original = "ヒルディオーネ"
+speaker_translation = "힐디오네"
 original = "「つまりは『連携力』ですわ」"
 translation = "「즉 『연계력』이랍니다.」"
 
 [[dialogue]]
-speaker = "ヒルディオーネ"
+speaker_original = "ヒルディオーネ"
+speaker_translation = "힐디오네"
 original = "「新星学園の生徒は、九浄家の積極的なスカウトによって集められた尖った才能の者達が多い……それ故に、チームとしての完成度は粗削りな面が否めませんの」"
 translation = "「신성학원의 학생은 쿠죠 가문의 적극적인 스카우트로 모인 모난 재능의 소유자가 많아요…… 그렇기에 팀으로서의 완성도는 거친 면을 부정할 수 없죠.」"
 
 [[dialogue]]
-speaker = "ヒルディオーネ"
+speaker_original = "ヒルディオーネ"
+speaker_translation = "힐디오네"
 original = "「一方でチームの完成度という点において、流星寮には先輩方が連綿と積み重ねてきた歴史――ノウハウがありますわ」"
 translation = "「반면 팀의 완성도라는 점에서 유성 기숙사에는 선배들이 면면히 쌓아온 역사── 노하우가 있답니다.」"
 
 [[dialogue]]
-speaker = "ヒルディオーネ"
+speaker_original = "ヒルディオーネ"
+speaker_translation = "힐디오네"
 original = "「そして、そんな私たち流星寮の絆とチーム力は、新星寮にも、リクリエにも、決して負けたりはしませんわ！」"
 translation = "「그리고 그런 우리 유성 기숙사의 유대와 팀워크는 신성 기숙사에도, 리크리에에도 결코 지지 않아요!」"
 
 [[dialogue]]
-speaker = "ヒルディオーネ"
+speaker_original = "ヒルディオーネ"
+speaker_translation = "힐디오네"
 original = "「その証拠に、私たちは３年間、学園対抗杯で勝利し続けているのだから！」"
 translation = "「그 증거로 우리는 3년 동안 학원 대항배에서 계속 승리해 왔으니까요!」"
 
 [[dialogue]]
-speaker = "ヒルディオーネ"
+speaker_original = "ヒルディオーネ"
+speaker_translation = "힐디오네"
 original = "「さあ、みなさん。参りますわよ……！\u3000三界にはびこるモンスターというモンスター共を狩り尽くし、我らが誇るイルソーレに勝利をもたらすのですわっ！」"
 translation = "「자, 여러분. 갑니다……! 삼계에 만연한 몬스터라는 몬스터 놈들을 모조리 사냥해, 우리가 자랑하는 일 소레에 승리를 가져오는 거예요!」"
 
 [[dialogue]]
-speaker = "イルソーレ寮生"
+speaker_original = "イルソーレ寮生"
+speaker_translation = "일소레 기숙사생"
 original = "「はいっ、お姉様……！」"
 translation = "「네, 언니분……!」"
 

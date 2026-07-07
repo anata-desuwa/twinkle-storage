@@ -4,32 +4,38 @@ original = "守護天使同士の戦いは果たして――"
 translation = "수호천사끼리의 싸움은 과연──"
 
 [[dialogue]]
-speaker = "アルモタヘル（幼少）"
+speaker_original = "アルモタヘル（幼少）"
+speaker_translation = "아르모타헬(어린 시절)"
 original = "「これで終わりなのだ！」"
 translation = "「이것으로 끝인 것이다!」"
 
 [[dialogue]]
-speaker = "マグダレナ（幼少）"
+speaker_original = "マグダレナ（幼少）"
+speaker_translation = "막달레나(어린 시절)"
 original = "「フィニッシュです！」"
 translation = "「피니시예요!」"
 
 [[dialogue]]
-speaker = "アルモタヘル"
+speaker_original = "アルモタヘル"
+speaker_translation = "아르모타헬"
 original = "「…………！」"
 translation = "「…………!」"
 
 [[dialogue]]
-speaker = "マグダレナ"
+speaker_original = "マグダレナ"
+speaker_translation = "막달레나"
 original = "「っ……」"
 translation = "「윽……」"
 
 [[dialogue]]
-speaker = "アルモタヘル（幼少）"
+speaker_original = "アルモタヘル（幼少）"
+speaker_translation = "아르모타헬(어린 시절)"
 original = "「ふふん、見たかなのだ！\u3000小さい体でも、ちゃんとパワーアップしているのだ！」"
 translation = "「후훈, 보았느냐는 것이다! 작은 몸이라도 제대로 파워업하고 있는 것이다!」"
 
 [[dialogue]]
-speaker = "マグダレナ（幼少）"
+speaker_original = "マグダレナ（幼少）"
+speaker_translation = "막달레나(어린 시절)"
 original = "「前にはなかった力に目覚めた感じがします。守護天使として、私たちも新たな成長をしているということでしょうか」"
 translation = "「이전에는 없던 힘에 눈을 뜬 느낌이 들어요. 수호천사로서 우리도 새로운 성장을 하고 있다는 뜻일까요.」"
 
@@ -44,62 +50,74 @@ original = "２人共、大丈夫か！？"
 translation = "둘 다 무사해!?"
 
 [[dialogue]]
-speaker = "アルモタヘル（幼少）"
+speaker_original = "アルモタヘル（幼少）"
+speaker_translation = "아르모타헬(어린 시절)"
 original = "「おっ、会長！\u3000助けにきてくれたのか！？」"
 translation = "「오, 회장! 도와주러 와준 것인가!?」"
 
 [[dialogue]]
-speaker = "マグダレナ（幼少）"
+speaker_original = "マグダレナ（幼少）"
+speaker_translation = "막달레나(어린 시절)"
 original = "「この隠蔽の結界に、よく気づかれましたね」"
 translation = "「이 은폐 결계를 잘도 눈치채셨네요.」"
 
 [[dialogue]]
-speaker = "セシア"
+speaker_original = "セシア"
+speaker_translation = "세시아"
 original = "「それは、私が見つけたのよ。マグダレナ」"
 translation = "「그건 내가 찾아낸 거야. 마그달레나.」"
 
 [[dialogue]]
-speaker = "マグダレナ（幼少）"
+speaker_original = "マグダレナ（幼少）"
+speaker_translation = "막달레나(어린 시절)"
 original = "「セシア……！\u3000なるほど、あなたが結界の霊力を感知してくれたのですね。助かりました」"
 translation = "「세시아……! 과연, 당신이 결계의 영력을 감지해 준 거군요. 도움이 됐어요.」"
 
 [[dialogue]]
-speaker = "ナミエル"
+speaker_original = "ナミエル"
+speaker_translation = "나미엘"
 original = "「一体、何があったんですか？」"
 translation = "「대체 무슨 일이 있었던 건가요?」"
 
 [[dialogue]]
-speaker = "マグダレナ（幼少）"
+speaker_original = "マグダレナ（幼少）"
+speaker_translation = "막달레나(어린 시절)"
 original = "「ナミエル、実は――」"
 translation = "「나미엘, 실은──」"
 
 [[dialogue]]
-speaker = "ナミエル"
+speaker_original = "ナミエル"
+speaker_translation = "나미엘"
 original = "「保健室で治療中だったはずの大人アバターが勝手に動いて……？\u3000そんなことがあるんですか？」"
 translation = "「보건실에서 치료 중이어야 할 성인 아바타가 마음대로 움직여서……? 그런 일이 있을 수 있나요?」"
 
 [[dialogue]]
-speaker = "マグダレナ（幼少）"
+speaker_original = "マグダレナ（幼少）"
+speaker_translation = "막달레나(어린 시절)"
 original = "「私たちにも原因はわかりません。後でアニマさまに調べてもらう必要がありますね」"
 translation = "「저희도 원인은 모르겠어요. 나중에 아니마 님께 조사를 부탁드려야겠네요.」"
 
 [[dialogue]]
-speaker = "アルモタヘル（幼少）"
+speaker_original = "アルモタヘル（幼少）"
+speaker_translation = "아르모타헬(어린 시절)"
 original = "「とりあえず結界から出て、本体を保健室に運ぶのだ……あれ？」"
 translation = "「우선 결계에서 나가서 본체를 보건실로 옮기는 것이다…… 어라?」"
 
 [[dialogue]]
-speaker = "マグダレナ（幼少）"
+speaker_original = "マグダレナ（幼少）"
+speaker_translation = "막달레나(어린 시절)"
 original = "「どうしました？\u3000アルモタヘル？」"
 translation = "「왜 그러세요? 아르모타헬?」"
 
 [[dialogue]]
-speaker = "アルモタヘル（幼少）"
+speaker_original = "アルモタヘル（幼少）"
+speaker_translation = "아르모타헬(어린 시절)"
 original = "「そういえば大人アバターを倒したはずなのに、どうして結界が解除されずに――」"
 translation = "「그러고 보니 성인 아바타를 쓰러뜨렸을 텐데, 어째서 결계가 해제되지 않고──」"
 
 [[dialogue]]
-speaker = "マグダレナ（幼少）"
+speaker_original = "マグダレナ（幼少）"
+speaker_translation = "막달레나(어린 시절)"
 original = "「！\u3000皆さま、そのアバターからすぐに離れて下さい！」"
 translation = "「! 여러분, 그 아바타에게서 즉시 떨어지세요!」"
 
@@ -114,147 +132,176 @@ original = "これはあの時の、リクリエの瘴気……！"
 translation = "이건 그때의, 리크리에의 장기……!"
 
 [[dialogue]]
-speaker = "アルモタヘル（幼少）"
+speaker_original = "アルモタヘル（幼少）"
+speaker_translation = "아르모타헬(어린 시절)"
 original = "「くっ……やられたのだ……！\u3000本体を操っていたのは、この瘴気ということか！」"
 translation = "「큭…… 당한 것이다……! 본체를 조종하고 있던 것은 이 장기라는 뜻인가!」"
 
 [[dialogue]]
-speaker = "マグダレナ（幼少）"
+speaker_original = "マグダレナ（幼少）"
+speaker_translation = "막달레나(어린 시절)"
 original = "「あの時の新種モンスターは、消滅したわけじゃなくて……瘴気に姿を変えていただけ……！\u3000モンスターの狙いは――」"
 translation = "「그때의 신종 몬스터는 소멸한 게 아니라…… 장기로 모습을 바꿨을 뿐……! 몬스터의 노림수는──」"
 
 [[dialogue]]
-speaker = "アルモタヘル（幼少）"
+speaker_original = "アルモタヘル（幼少）"
+speaker_translation = "아르모타헬(어린 시절)"
 original = "「我らの体を乗っ取ることなのだ……！\u3000離れろ、会長、ナミエル、セシア！\u3000体が勝手に動いて、お前たちに攻撃をしようとしている……！」"
 translation = "「우리들의 몸을 빼앗는 것이다……! 떨어져라, 회장, 나미엘, 세시아! 몸이 제멋대로 움직여서 너희들을 공격하려 하고 있다……!」"
 
 [[dialogue]]
-speaker = "マグダレナ（幼少）"
+speaker_original = "マグダレナ（幼少）"
+speaker_translation = "막달레나(어린 시절)"
 original = "「こうなった以上、私たちにできることは――アルモタヘル」"
 translation = "「이렇게 된 이상 저희가 할 수 있는 일은── 아르모타헬.」"
 
 [[dialogue]]
-speaker = "アルモタヘル（幼少）"
+speaker_original = "アルモタヘル（幼少）"
+speaker_translation = "아르모타헬(어린 시절)"
 original = "「……！\u3000ああ、そうか。そうだな、マグダレナ」"
 translation = "「……! 아아, 그렇군. 그렇구나, 마그달레나.」"
 
 [[dialogue]]
-speaker = "アルモタヘル（幼少）"
+speaker_original = "アルモタヘル（幼少）"
+speaker_translation = "아르모타헬(어린 시절)"
 original = "「――３人共、我らが堕天している時と同じだ。我らの体が完全に乗っ取られる前に、倒して欲しいのだ」"
 translation = "「──세 사람 모두, 우리들이 타천하고 있을 때와 같다. 우리들의 몸이 완전히 빼앗기기 전에 쓰러뜨려 줬으면 하는 것이다.」"
 
 [[dialogue]]
-speaker = "ナミエル"
+speaker_original = "ナミエル"
+speaker_translation = "나미엘"
 original = "「わかりました！\u3000とりあえず、動きを止められればいいんですよね？\u3000気を失わせれば……」"
 translation = "「알겠습니다! 우선 움직임을 멈추면 되는 거죠? 정신을 잃게 하면……」"
 
 [[dialogue]]
-speaker = "マグダレナ（幼少）"
+speaker_original = "マグダレナ（幼少）"
+speaker_translation = "막달레나(어린 시절)"
 original = "「いえ、それではダメです。モンスターの瘴気を倒すには、私たちが体の中から逃がさないように霊力で抑え込んだ状態で、完全に消滅させる必要があります」"
 translation = "「아니요, 그래서는 안 됩니다. 몬스터의 장기를 쓰러뜨리려면, 저희가 몸속에서 도망치지 못하도록 영력으로 억눌러둔 상태에서 완전히 소멸시켜야 합니다.」"
 
 [[dialogue]]
-speaker = "ナミエル"
+speaker_original = "ナミエル"
+speaker_translation = "나미엘"
 original = "「え？\u3000それって……」"
 translation = "「에? 그건……」"
 
 [[dialogue]]
-speaker = "マグダレナ（幼少）"
+speaker_original = "マグダレナ（幼少）"
+speaker_translation = "막달레나(어린 시절)"
 original = "「ごめんなさい、ナミエル。嫌なことを押し付けてしまいますが――」"
 translation = "「죄송해요, 나미엘. 싫은 일을 떠맡기고 말았습니다만──」"
 
 [[dialogue]]
-speaker = "マグダレナ（幼少）"
+speaker_original = "マグダレナ（幼少）"
+speaker_translation = "막달레나(어린 시절)"
 original = "「この体を、倒して下さい。完全に」"
 translation = "「이 몸을 쓰러뜨려 주세요. 완전히.」"
 
 [[dialogue]]
-speaker = "ナミエル"
+speaker_original = "ナミエル"
+speaker_translation = "나미엘"
 original = "「なっ……！？」"
 translation = "「나앗……!?」"
 
 [[dialogue]]
-speaker = "ナミエル"
+speaker_original = "ナミエル"
+speaker_translation = "나미엘"
 original = "「た、倒して、お２人の魂はどうなるんですか？\u3000本体に戻るんですよね？」"
 translation = "「쓰, 쓰러뜨리면 두 분의 혼은 어떻게 되나요? 본체로 돌아가는 거죠?」"
 
 [[dialogue]]
-speaker = "アルモタヘル（幼少）"
+speaker_original = "アルモタヘル（幼少）"
+speaker_translation = "아르모타헬(어린 시절)"
 original = "「ああ。我らは守護天使の本体から、魂をコピーしてアバターに移していただけ。だから、この魂が失われても、死にはしないのだ」"
 translation = "「아아. 우리들은 수호천사의 본체로부터 혼을 복사해서 아바타로 옮겼을 뿐. 그러니 이 혼이 사라져도 죽지는 않는 것이다.」"
 
 [[dialogue]]
-speaker = "ナミエル"
+speaker_original = "ナミエル"
+speaker_translation = "나미엘"
 original = "「……ちょっと待って下さい。私が言った本体っていうのは、そういうことじゃなくて……！」"
 translation = "「……잠깐 기다려 주세요. 제가 말한 본체라는 건 그런 뜻이 아니라……!」"
 
 [[dialogue]]
-speaker = "ナミエル"
+speaker_original = "ナミエル"
+speaker_translation = "나미엘"
 original = "「今ここにあるお２人の魂は――記憶はどうなるんですか？」"
 translation = "「지금 여기 있는 두 분의 혼은── 기억은 어떻게 되는 건가요?」"
 
 [[dialogue]]
-speaker = "マグダレナ（幼少）"
+speaker_original = "マグダレナ（幼少）"
+speaker_translation = "막달레나(어린 시절)"
 original = "「……消えることになるでしょう」"
 translation = "「……사라지게 되겠죠.」"
 
 [[dialogue]]
-speaker = "ナミエル"
+speaker_original = "ナミエル"
+speaker_translation = "나미엘"
 original = "「そんな……！」"
 translation = "「그런……!」"
 
 [[dialogue]]
-speaker = "セシア"
+speaker_original = "セシア"
+speaker_translation = "세시아"
 original = "「……２人は、それでいいの？」"
 translation = "「……두 사람은 그걸로 괜찮아?」"
 
 [[dialogue]]
-speaker = "アルモタヘル（幼少）"
+speaker_original = "アルモタヘル（幼少）"
+speaker_translation = "아르모타헬(어린 시절)"
 original = "「……ああ。元々、人間界で生きるこの日々は、我ら守護天使にとっては仮初の夢のようなもの」"
 translation = "「……아아. 본래 인간계에서 살아가는 이 나날은 우리들 수호천사에게는 덧없는 꿈과 같은 것.」"
 
 [[dialogue]]
-speaker = "アルモタヘル（幼少）"
+speaker_original = "アルモタヘル（幼少）"
+speaker_translation = "아르모타헬(어린 시절)"
 original = "「リクリエを止めた後は、再び世界を見守る座に還る運命だったのだ」"
 translation = "「리크리에를 멈춘 뒤에는 다시 세계를 지켜보는 자리에 환원될 운명이었던 것이다.」"
 
 [[dialogue]]
-speaker = "マグダレナ（幼少）"
+speaker_original = "マグダレナ（幼少）"
+speaker_translation = "막달레나(어린 시절)"
 original = "「それに今の記憶が失われても、アニマさまがきっとまた本体の魂をコピーして、私たちのアバターを目覚めさせてくれるでしょう。だから……」"
 translation = "「게다가 지금의 기억이 소멸하더라도, 아니마 님께서 분명 다시 본체의 혼을 복사해서 저희 아바타를 깨워 주실 거예요. 그러니까……」"
 
 [[dialogue]]
-speaker = "セシア"
+speaker_original = "セシア"
+speaker_translation = "세시아"
 original = "「……わかったわ。同じ守護天使として、わたくしが――」"
 translation = "「……알겠어. 같은 수호천사로서 내가──」"
 
 [[dialogue]]
-speaker = "ナミエル"
+speaker_original = "ナミエル"
+speaker_translation = "나미엘"
 original = "「ダメです！」"
 translation = "「안 돼요!」"
 
 [[dialogue]]
-speaker = "セシア"
+speaker_original = "セシア"
+speaker_translation = "세시아"
 original = "「ナミエル……？」"
 translation = "「나미엘……?」"
 
 [[dialogue]]
-speaker = "ナミエル"
+speaker_original = "ナミエル"
+speaker_translation = "나미엘"
 original = "「私はまだ……お２人と、仲よくなれてません！\u3000ママダレナ、アルモたん！」"
 translation = "「저는 아직…… 두 분과 친해지지 못했어요! 마마달레나, 알모땅!」"
 
 [[dialogue]]
-speaker = "マグダレナ（幼少）"
+speaker_original = "マグダレナ（幼少）"
+speaker_translation = "막달레나(어린 시절)"
 original = "「その呼び方……！」"
 translation = "「그 호칭은……!」"
 
 [[dialogue]]
-speaker = "ナミエル"
+speaker_original = "ナミエル"
+speaker_translation = "나미엘"
 original = "「言ってたじゃないですか！\u3000これから友人関係を築けていけたらって！\u3000だから、そんな簡単に諦めたりしないで下さい！」"
 translation = "「말했었잖아요! 앞으로 친구 관계를 쌓아갈 수 있었으면 좋겠다고! 그러니까 그렇게 쉽게 포기하거나 하지 마세요!」"
 
 [[dialogue]]
-speaker = "ナミエル"
+speaker_original = "ナミエル"
+speaker_translation = "나미엘"
 original = "「私は諦めたくありません！\u3000２人を助けたい！」"
 translation = "「저는 포기하고 싶지 않아요! 두 사람을 돕고 싶어!」"
 
@@ -264,7 +311,8 @@ original = "俺は、そんなナミエルの肩を叩く。"
 translation = "나는 그런 나미엘의 어깨를 두드린다."
 
 [[dialogue]]
-speaker = "ナミエル"
+speaker_original = "ナミエル"
+speaker_translation = "나미엘"
 original = "「緋宮会長……？」"
 translation = "「히노미야 회장님……?」"
 
@@ -274,17 +322,20 @@ original = "俺も同じ気持ちだ。２人を必ず助けるぞ！"
 translation = "나도 같은 마음이야. 두 사람을 반드시 구하자!"
 
 [[dialogue]]
-speaker = "ナミエル"
+speaker_original = "ナミエル"
+speaker_translation = "나미엘"
 original = "「……！\u3000はいっ！」"
 translation = "「……! 네!」"
 
 [[dialogue]]
-speaker = "アルモタヘル（幼少）"
+speaker_original = "アルモタヘル（幼少）"
+speaker_translation = "아르모타헬(어린 시절)"
 original = "「くっ……ダメだ、これ以上は瘴気を抑え切れない……！」"
 translation = "「큭…… 안 돼, 더 이상은 장기를 억누를 수 없는 것이다……!」"
 
 [[dialogue]]
-speaker = "ナミエル"
+speaker_original = "ナミエル"
+speaker_translation = "나미엘"
 original = "「待っていて下さい！\u3000そんな瘴気、私が必ず掃除してみせます！」"
 translation = "「기다려 주세요! 그런 장기, 제가 반드시 청소해 보이겠어요!」"
 

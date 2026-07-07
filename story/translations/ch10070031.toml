@@ -4,37 +4,44 @@ original = "第１話,レンズの向こうに恋人水着,P"
 translation = "제1화, 렌즈 너머로 연인 수영복, P"
 
 [[dialogue]]
-speaker = "ルリエル"
+speaker_original = "ルリエル"
+speaker_translation = "루리엘"
 original = "「じゃじゃ～ん！\u3000これがルリエルの水着戦闘服なのですっ！」"
 translation = "「짜잔~! 이것이 루리엘의 수영복 전투복인 거예요!」"
 
 [[dialogue]]
-speaker = "ユウリ"
+speaker_original = "ユウリ"
+speaker_translation = "유우리"
 original = "「あーはいはい。わかったわかった」"
 translation = "「아─ 예 예. 알았어 알았어」"
 
 [[dialogue]]
-speaker = "セーラ"
+speaker_original = "セーラ"
+speaker_translation = "세라"
 original = "「似合ってる似合ってるー。いいと思うよー」"
 translation = "「잘 어울려 잘 어울려─. 괜찮다고 생각해─」"
 
 [[dialogue]]
-speaker = "ルリエル"
+speaker_original = "ルリエル"
+speaker_translation = "루리엘"
 original = "「リアクション薄～いっ！？\u3000せっかく披露してるんですから、もっと持て囃してくださいよぉ～！」"
 translation = "「리액션이 너무 부족해요!? 어렵게 선보이고 있으니까, 좀 더 치켜세워 달라고요~!」"
 
 [[dialogue]]
-speaker = "ソフィア"
+speaker_original = "ソフィア"
+speaker_translation = "소피아"
 original = "「ルリが毎日毎日見せびらかしてくるからでしょ？\u3000これ以上、取れるリアクションない」"
 translation = "「루리가 매일매일 자랑하니까 그렇지? 이 이상, 나올 리액션이 없어」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「ふふ、いいじゃない。初めての水着がよっぽど嬉しいんだよ。毎日毎日彼氏さんを呼びつけちゃうくらいには」"
 translation = "「후후, 괜찮잖아. 첫 수영복이 그만큼 기쁜 거야. 매일매일 남자친구분을 불러낼 정도로 말이지」"
 
 [[dialogue]]
-speaker = "ユウリ"
+speaker_original = "ユウリ"
+speaker_translation = "유우리"
 original = "「まぁ気持ちはわかるけど──……」"
 translation = "「뭐 기분은 알겠지만──……」"
 
@@ -44,92 +51,110 @@ original = "キューティー！\u3000マイエンジェル！"
 translation = "큐티! 마이 엔젤!"
 
 [[dialogue]]
-speaker = "ルリエル"
+speaker_original = "ルリエル"
+speaker_translation = "루리엘"
 original = "「えへへ～！\u3000でしょうでしょう！\u3000さっすがは会長さん！\u3000マイボーイフレンド！\u3000大変に気分が良いですぅ～！」"
 translation = "「에헤헤~! 그렇죠 그렇죠! 역시 회장님! 마이 보이프렌드! 기분이 무척 좋아요~!」"
 
 [[dialogue]]
-speaker = "ルリエル"
+speaker_original = "ルリエル"
+speaker_translation = "루리엘"
 original = "「ほーら特別にもっと近くで見せてあげますよ～。写真も何枚でも撮らせてあげちゃいますぅ！\u3000可愛く撮っちゃってくださいね♪」"
 translation = "「자─ 특별히 좀 더 가까이서 보여드릴게요~. 사진도 몇 장이든 찍게 해드릴게요! 예쁘게 찍어주세요♪」"
 
 [[dialogue]]
-speaker = "ルリエル"
+speaker_original = "ルリエル"
+speaker_translation = "루리엘"
 original = "「あははっ、はしゃぎすぎですってばぁ～。ルリエルの写真集でも作っちゃうつもりですかぁ？\u3000他の人には見せちゃダメなのですよぉ～？」"
 translation = "「아하핫, 너무 들떴다니까요~. 루리엘의 사진집이라도 만들 셈인가요~? 다른 사람에게 보여주면 안 되는 거예요~?」"
 
 [[dialogue]]
-speaker = "ユウリ"
+speaker_original = "ユウリ"
+speaker_translation = "유우리"
 original = "「このバカップルっぷりはどうにかなんねーのか。毎日毎日暑苦しいイチャイチャを見せつけられる身にもなれって……」"
 translation = "「이 바보 커플 짓거리는 어떻게 안 되는 건가. 매일매일 숨 막히는 꽁냥거림을 지켜봐야 하는 입장도 되어보라고……」"
 
 [[dialogue]]
-speaker = "セーラ"
+speaker_original = "セーラ"
+speaker_translation = "세라"
 original = "「水着をもらってからラブラブ度合いに拍車がかかったよね～。やっぱ水着着ると開放的な気分になっちゃう的な？」"
 translation = "「수영복을 받고 나서 러브러브 지수가 더 가속화됐네~. 역시 수영복을 입으면 개방적인 기분이 되는 그런 거?」"
 
 [[dialogue]]
-speaker = "ソフィア"
+speaker_original = "ソフィア"
+speaker_translation = "소피아"
 original = "「最低限の羞恥心まで失ってますけどね……」"
 translation = "「최소한의 수치심까지 잃어버렸지만요……」"
 
 [[dialogue]]
-speaker = "ルリエル"
+speaker_original = "ルリエル"
+speaker_translation = "루리엘"
 original = "「んもう、うるさいですよ、皆さん！\u3000こんなのカレシカノジョなら普通ですってフツー！」"
 translation = "「정말, 시끄러워요, 여러분! 이런 건 남자친구 여자친구라면 보통이라니까요, 보통!」"
 
 [[dialogue]]
-speaker = "ルリエル"
+speaker_original = "ルリエル"
+speaker_translation = "루리엘"
 original = "「水着姿って何度でもカレシに見せたくなっちゃうものなのですよ～。カレシもカレシでカノジョの水着姿は何度でも見たくなるものなのです～」"
 translation = "「수영복 차림이란 건 몇 번이고 남자친구에게 보여주고 싶어지는 법인 거예요~. 남자친구도 남자친구대로 여자친구의 수영복 차림은 몇 번이고 보고 싶어지는 법인 거예요~」"
 
 [[dialogue]]
-speaker = "ルリエル"
+speaker_original = "ルリエル"
+speaker_translation = "루리엘"
 original = "「アチチな視線を送られすぎて、ちょっぴり恥ずかしいですけどね？\u3000胸元とか太ももとかカレシの熱視線で日焼けしちゃいそうですも～ん、きゃっ♪」"
 translation = "「뜨거운 시선을 너무 받아서, 조금 부끄럽긴 하지만요? 가슴이나 허벅지라든가 남자친구의 열띤 시선에 타버릴 것 같아요, 꺄♪」"
 
 [[dialogue]]
-speaker = "セーラ"
+speaker_original = "セーラ"
+speaker_translation = "세라"
 original = "「うちもヘレナさんに頼んで水着戦闘服作ってもらおうかなー。今すぐ海に飛び込みに行きたい気分」"
 translation = "「나도 헬레나 씨에게 부탁해서 수영복 전투복 만들어 달라고 할까─. 지금 당장 바다에 뛰어들러 가고 싶은 기분」"
 
 [[dialogue]]
-speaker = "ソフィア"
+speaker_original = "ソフィア"
+speaker_translation = "소피아"
 original = "「そういえば今のところフィオナ会長だけですよね？\u3000ルリの他に流星星徒会で水着戦闘服を持つのは」"
 translation = "「그러고 보니 지금으로선 피오나 회장님뿐이죠? 루리 말고 유성 성도회에서 수영복 전투복을 가진 건」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「うん、リップルさんの結界で手に入れたんだけどね」"
 translation = "「응, 리플 씨의 결계에서 손에 넣었지만 말이야」"
 
 [[dialogue]]
-speaker = "ユウリ"
+speaker_original = "ユウリ"
+speaker_translation = "유우리"
 original = "「つか改めて見るとヤベえな、フィオナの水着。よく恥ずかしげもなく、んなもん着られるっつーか……」"
 translation = "「그나저나 다시 보니까 장난 아니네, 피오나의 수영복. 잘도 부끄러운 기색도 없이 그런 걸 입을 수 있달까……」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「そ、そうかな……？\u3000確かにちょっと大胆かなとは思ったけど……」"
 translation = "「그, 그럴까……? 확실히 조금 대담하다고는 생각했지만……」"
 
 [[dialogue]]
-speaker = "ルリエル"
+speaker_original = "ルリエル"
+speaker_translation = "루리엘"
 original = "「どーしてフィオナ会長の水着で盛り上がってるんですか！\u3000今日の主役はわたしですよっ、わたしにちゅーもくしてくださいってばぁ！」"
 translation = "「어째서 피오나 회장님의 수영복으로 달아오르는 건가요! 오늘의 주인공은 저라고요, 저에게 주목해 달라고요!」"
 
 [[dialogue]]
-speaker = "ルリエル"
+speaker_original = "ルリエル"
+speaker_translation = "루리엘"
 original = "「……む？\u3000むむむ～！？\u3000いま会長さん、フィオナ会長を撮ってませんでしたかっ！？」"
 translation = "「……음? 음음음~!? 지금 회장님, 피오나 회장님을 찍고 있지 않았나요!?」"
 
 [[dialogue]]
-speaker = "ルリエル"
+speaker_original = "ルリエル"
+speaker_translation = "루리엘"
 original = "「ヒドイです、裏切りです、この浮気者～！\u3000さっきあんなにわたしのこと褒めてましたのに～！」"
 translation = "「너무해요, 배신이에요, 이 바람둥이~! 아까 그렇게 저를 칭찬해 주셨으면서~!」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「お、落ち着いてルリエル。緋宮会長はそんな隠し撮りのような真似しないから」"
 translation = "「지, 진정해 루리엘. 히노미야 회장은 그런 도둑촬영 같은 짓은 안 하니까」"
 
@@ -139,37 +164,44 @@ original = "お、おおー……"
 translation = "오, 오오─……"
 
 [[dialogue]]
-speaker = "ルリエル"
+speaker_original = "ルリエル"
+speaker_translation = "루리엘"
 original = "「撮ってるじゃないですかぁ！？\u3000やっぱりビキニがいいんですかっ！？」"
 translation = "「찍고 있잖아요!? 역시 비키니가 좋은 건가요!?」"
 
 [[dialogue]]
-speaker = "ルリエル"
+speaker_original = "ルリエル"
+speaker_translation = "루리엘"
 original = "「いいですもん、いいですもん、そういうことなら──」"
 translation = "「됐거든요, 됐거든요, 그런 거라면──」"
 
 [[dialogue]]
-speaker = "ルリエル"
+speaker_original = "ルリエル"
+speaker_translation = "루리엘"
 original = "「ふ～んだっ」"
 translation = "「흥이다」"
 
 [[dialogue]]
-speaker = "セーラ"
+speaker_original = "セーラ"
+speaker_translation = "세라"
 original = "「あらら、拗ねちった」"
 translation = "「어라라, 삐져버렸네」"
 
 [[dialogue]]
-speaker = "ユウリ"
+speaker_original = "ユウリ"
+speaker_translation = "유우리"
 original = "「ケンカすんなって。修羅場の空気も居たたまれねえから」"
 translation = "「싸우지 마. 수라장 분위기도 가시방석이니까」"
 
 [[dialogue]]
-speaker = "ルリエル"
+speaker_original = "ルリエル"
+speaker_translation = "루리엘"
 original = "「つーん。文句ならそこの浮気彼氏に言ってくださいよーっだ」"
 translation = "「흥. 불만이라면 저기 있는 바람둥이 남자친구한테 말하시지」"
 
 [[dialogue]]
-speaker = "ルリエル"
+speaker_original = "ルリエル"
+speaker_translation = "루리엘"
 original = "「会長さんには二度と水着なんて見せてあげません。どーぞお好きにフィオナ会長の水着写真集でも作っててください」"
 translation = "「회장님에게는 두 번 다시 수영복 같은 거 안 보여줄 거예요. 마음대로 피오나 회장님의 수영복 사진집이나 만들고 계세요」"
 
@@ -179,7 +211,8 @@ original = "俺が作りたいのはルリエルの水着写真集だけだ"
 translation = "내가 만들고 싶은 건 루리엘의 수영복 사진집뿐이다"
 
 [[dialogue]]
-speaker = "ルリエル"
+speaker_original = "ルリエル"
+speaker_translation = "루리엘"
 original = "「っっ。でも撮ってたじゃないですか、フィオナ会長の水着……。鼻の下伸ばして、おっぱいもじーっと見て」"
 translation = "「윽. 그래도 찍고 있었잖아요, 피오나 회장님의 수영복…… 콧구멍 벌렁거리면서, 가슴도 빤히 보고」"
 
@@ -189,17 +222,20 @@ original = "これを見てくれ！"
 translation = "이걸 봐줘!"
 
 [[dialogue]]
-speaker = "ルリエル"
+speaker_original = "ルリエル"
+speaker_translation = "루리엘"
 original = "「なんですか、ＤＩＳＣなんて渡してきて……。さっき撮ったフィオナ会長の隠し撮り写真でも見せるつもりですか？」"
 translation = "「뭔가요, DISC 같은 걸 건네주고는…… 아까 찍은 피오나 회장님의 도둑촬영 사진이라도 보여줄 셈인가요?」"
 
 [[dialogue]]
-speaker = "ルリエル"
+speaker_original = "ルリエル"
+speaker_translation = "루리엘"
 original = "「ほえ……？\u3000ない。フィオナ会長の水着写真、ＤＩＳＣに一枚もありません！」"
 translation = "「호에……? 없어. 피오나 회장님의 수영복 사진, DISC에 한 장도 없어요!」"
 
 [[dialogue]]
-speaker = "ルリエル"
+speaker_original = "ルリエル"
+speaker_translation = "루리엘"
 original = "「あ、ルリエルが怒ってる時の写真がっ！？\u3000フィオナ会長のおっぱい撮ってるって思ってた時の、ほっぺ膨らませてるわたしの姿が写ってます……！」"
 translation = "「아, 루리엘이 화내고 있을 때의 사진이!? 피오나 회장님 가슴 찍고 있다고 생각했을 때의, 볼을 부풀리고 있는 제 모습이 찍혀 있어요……!」"
 
@@ -209,42 +245,50 @@ original = "どれもこれもルリエルの可愛い一面だから"
 translation = "하나하나가 루리엘의 귀여운 일면이니까"
 
 [[dialogue]]
-speaker = "ルリエル"
+speaker_original = "ルリエル"
+speaker_translation = "루리엘"
 original = "「えへ、えへへへへぇ～。んもう、どれだけルリエルのこと大好きなんですかぁ～。わかってましたけどぉ、知ってましたけどぉ～」"
 translation = "「에헤, 에헤헤헤헤~. 정말, 얼마나 루리엘을 좋아하는 건가요~. 알고 있었지만요, 알고 있었지만요~」"
 
 [[dialogue]]
-speaker = "ソフィア"
+speaker_original = "ソフィア"
+speaker_translation = "소피아"
 original = "「あ、機嫌直った」"
 translation = "「아, 기분 풀렸다」"
 
 [[dialogue]]
-speaker = "ルリエル"
+speaker_original = "ルリエル"
+speaker_translation = "루리엘"
 original = "「ほーら、んんっ。大好きなカノジョの水着姿ですよぉ～。存分に好きなだけ撮っちゃってください！\u3000大胆なポーズだって、えへへ、いくらでも取ってあげますから！」"
 translation = "「자─, 흠흠. 너무나 좋아하는 여자친구의 수영복 차림이에요~. 마음껏 원하는 만큼 찍어주세요! 대담한 포즈라도, 에헤헤, 얼마든지 취해줄 테니까!」"
 
 [[dialogue]]
-speaker = "セーラ"
+speaker_original = "セーラ"
+speaker_translation = "세라"
 original = "「ルリちー。一応ここ、星徒会室だかんね？」"
 translation = "「루리치─. 일단 여기, 성도회실이거든?」"
 
 [[dialogue]]
-speaker = "ユウリ"
+speaker_original = "ユウリ"
+speaker_translation = "유우리"
 original = "「……結局こうなんのかよ。これだからバカップルは……」"
 translation = "「……결국 이렇게 되는 거냐. 이래서 바보 커플은……」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「ええと……。私、当て馬に使われたような……？」"
 translation = "「저기…… 나, 들러리로 이용당한 듯한……?」"
 
 [[dialogue]]
-speaker = "ルリエル"
+speaker_original = "ルリエル"
+speaker_translation = "루리엘"
 original = "「そーだ、あとで中庭にも行きましょう！\u3000色々な場所で撮ってもらいたいですからっ！」"
 translation = "「맞다, 나중에 중정에도 가요! 여러 장소에서 찍히고 싶으니까요!」"
 
 [[dialogue]]
-speaker = "ルリエル"
+speaker_original = "ルリエル"
+speaker_translation = "루리엘"
 original = "「会長さんとわたしだけのラブラブ水着写真集、何冊も何冊も作っちゃいましょうね！」"
 translation = "「회장님과 저만의 러브러브 수영복 사진집, 몇 권이고 몇 권이고 만들어 버리자고요!」"
 

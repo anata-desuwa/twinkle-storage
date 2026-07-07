@@ -4,52 +4,62 @@ original = "第４話,ユーリスとのこれから,P"
 translation = "제4화, 유리스와의 앞으로, P"
 
 [[dialogue]]
-speaker = "アナ"
+speaker_original = "アナ"
+speaker_translation = "아나"
 original = "「書類の整理お疲れ様でした、会長。今日の仕事はこれで終わり──」"
 translation = "「서류 정리 수고하셨습니다, 회장님. 오늘의 업무는 이것으로 끝──」"
 
 [[dialogue]]
-speaker = "ユーリス"
+speaker_original = "ユーリス"
+speaker_translation = "유리스"
 original = "「やぁ、そろそろ星徒会が終わるころかと思って迎えに来たよ」"
 translation = "「안녕, 슬슬 성도회가 끝날 즈음이라 생각해서 마중 나왔어」"
 
 [[dialogue]]
-speaker = "アナ"
+speaker_original = "アナ"
+speaker_translation = "아나"
 original = "「ジャストのお迎えです。最近、会長とユーリスさんはとても仲良しですね」"
 translation = "「딱 맞춰 오셨네요. 최근, 회장님과 유리스 씨는 무척 사이가 좋으시네요」"
 
 [[dialogue]]
-speaker = "ユーリス"
+speaker_original = "ユーリス"
+speaker_translation = "유리스"
 original = "「男同士ですから。自然と結束ができるものです」"
 translation = "「남자끼리니까요. 자연스럽게 결속이 생기는 법입니다」"
 
 [[dialogue]]
-speaker = "ユーリス"
+speaker_original = "ユーリス"
+speaker_translation = "유리스"
 original = "「それに今日はたこ焼きとお好み焼きの作り方を教えてもらう約束なので。とても楽しみにしていました」"
 translation = "「게다가 오늘은 타코야키와 오코노미야키 만드는 법을 배우기로 약속해서요. 무척 기대하고 있었습니다」"
 
 [[dialogue]]
-speaker = "アナ"
+speaker_original = "アナ"
+speaker_translation = "아나"
 original = "「なるほど。納得」"
 translation = "「과연. 납득」"
 
 [[dialogue]]
-speaker = "ユーリス"
+speaker_original = "ユーリス"
+speaker_translation = "유리스"
 original = "「では会長をもらいますね」"
 translation = "「그럼 회장님을 데려갈게요」"
 
 [[dialogue]]
-speaker = "アナ"
+speaker_original = "アナ"
+speaker_translation = "아나"
 original = "「どうぞ～」"
 translation = "「다녀오세요~」"
 
 [[dialogue]]
-speaker = "ユーリス"
+speaker_original = "ユーリス"
+speaker_translation = "유리스"
 original = "「男同士……か」"
 translation = "「남자끼리……인가」"
 
 [[dialogue]]
-speaker = "ユーリス"
+speaker_original = "ユーリス"
+speaker_translation = "유리스"
 original = "「あのことは……誰にも言ってないんだね」"
 translation = "「그 일은…… 아무에게도 말하지 않았구나」"
 
@@ -59,12 +69,14 @@ original = "もちろん"
 translation = "물론이지"
 
 [[dialogue]]
-speaker = "ユーリス"
+speaker_original = "ユーリス"
+speaker_translation = "유리스"
 original = "「ありがとう」"
 translation = "「고마워」"
 
 [[dialogue]]
-speaker = "ユーリス"
+speaker_original = "ユーリス"
+speaker_translation = "유리스"
 original = "「…………見た？」"
 translation = "「…………봤어?」"
 
@@ -74,17 +86,20 @@ original = "ごめん！\u3000そんなつもりじゃなくて……"
 translation = "미안! 그럴 생각은 아니었는데……"
 
 [[dialogue]]
-speaker = "ユーリス"
+speaker_original = "ユーリス"
+speaker_translation = "유리스"
 original = "「うん、わかってるよ。鍵をかけ忘れた私がうっかりしていた……」"
 translation = "「응, 알고 있어. 문 잠그는 걸 잊은 내가 부주의했지……」"
 
 [[dialogue]]
-speaker = "ユーリス"
+speaker_original = "ユーリス"
+speaker_translation = "유리스"
 original = "「君がトイレで見た通り、私は女だ」"
 translation = "「네가 화장실에서 본 대로, 나는 여자다」"
 
 [[dialogue]]
-speaker = "ユーリス"
+speaker_original = "ユーリス"
+speaker_translation = "유리스"
 original = "「本当の名前は、ユリアーナ・フォン・ジルラント。ジルラント王国の王女だ」"
 translation = "「본래 이름은 율리아나 폰 질란트. 질란트 왕국의 왕녀다」"
 
@@ -94,42 +109,50 @@ original = "どうして性別を隠していたんだ？"
 translation = "어째서 성별을 숨기고 있었던 거야?"
 
 [[dialogue]]
-speaker = "ユーリス"
+speaker_original = "ユーリス"
+speaker_translation = "유리스"
 original = "「言ったよね、聖剣と王位は代々男が受け継ぐものだって。それなのに女の私が聖剣に選ばれてしまったんだ……」"
 translation = "「말했었지, 성검과 왕위는 대대로 남자가 이어받는 것이라고. 그런데도 여자인 내가 성검에 선택받고 만 거야……」"
 
 [[dialogue]]
-speaker = "ユーリス"
+speaker_original = "ユーリス"
+speaker_translation = "유리스"
 original = "「当時のジルラント王国は、相次ぐアステラの出現で大きな被害を受けていてね」"
 translation = "「당시 질란트 왕국은 잇따른 아스테라의 출현으로 큰 피해를 입고 있었거든」"
 
 [[dialogue]]
-speaker = "ユーリス"
+speaker_original = "ユーリス"
+speaker_translation = "유리스"
 original = "「戦う力のない国民たちの不安は、想像すらできないものだったろう。せめて彼らに安心を与えることが私たち王族の役目だった」"
 translation = "「싸울 힘이 없는 국민들의 불안은 상상조차 할 수 없는 것이었겠지. 적어도 그들에게 안심을 주는 것이 우리 왕족의 역할이었어」"
 
 [[dialogue]]
-speaker = "ユーリス"
+speaker_original = "ユーリス"
+speaker_translation = "유리스"
 original = "「歴史上、例のない女性の聖剣使い──だなんて。あんなナーバスな時期に発表できるものじゃなかった」"
 translation = "「역사상 유례없는 여성 성검사──라니. 그런 예민한 시기에 발표할 수 있는 게 아니었어」"
 
 [[dialogue]]
-speaker = "ユーリス"
+speaker_original = "ユーリス"
+speaker_translation = "유리스"
 original = "「だから名前も『ユーリス』に改めた。男装をして聖剣を担いで国民の前に立った時……」"
 translation = "「그래서 이름도 『유리스』로 고쳤어. 남장을 하고 성검을 짊어지고 국민들 앞에 섰을 때……」"
 
 [[dialogue]]
-speaker = "ユーリス"
+speaker_original = "ユーリス"
+speaker_translation = "유리스"
 original = "「みんな救われた顔をしていた。安心していた。私は正しいことをしたんだって思った」"
 translation = "「모두 구원받은 표정을 짓고 있었어. 안심하고 있었지. 나는 옳은 일을 했다고 생각했어」"
 
 [[dialogue]]
-speaker = "ユーリス"
+speaker_original = "ユーリス"
+speaker_translation = "유리스"
 original = "「新星学園に入学する時も、王子ユーリスとして華々しく送ってもらったからね。こっちで女に戻るわけにもいかないよ」"
 translation = "「신성학원에 입학할 때도 왕자 유리스로서 화려하게 배웅받았으니까. 여기서 여자로 돌아갈 수도 없는 노릇이야」"
 
 [[dialogue]]
-speaker = "ユーリス"
+speaker_original = "ユーリス"
+speaker_translation = "유리스"
 original = "「今まで騙していてごめん。君を傷つけるつもりはなかったんだけど……」"
 translation = "「지금까지 속여서 미안해. 너를 상처 줄 생각은 없었는데……」"
 
@@ -139,7 +162,8 @@ original = "怒ってないから大丈夫"
 translation = "화나지 않았으니까 괜찮아"
 
 [[dialogue]]
-speaker = "ユーリス"
+speaker_original = "ユーリス"
+speaker_translation = "유리스"
 original = "「ありがとう。やはり会長はかけがえのない友達だ」"
 translation = "「고마워. 역시 회장은 둘도 없는 친구야」"
 
@@ -149,22 +173,26 @@ original = "いや、親友だ"
 translation = "아니, 친우다"
 
 [[dialogue]]
-speaker = "ユーリス"
+speaker_original = "ユーリス"
+speaker_translation = "유리스"
 original = "「──！」"
 translation = "「──!」"
 
 [[dialogue]]
-speaker = "ユーリス"
+speaker_original = "ユーリス"
+speaker_translation = "유리스"
 original = "「そう言ってくれると本当に嬉しい。この国に来て良かったと、心からそう思うよ」"
 translation = "「그렇게 말해주니 정말 기뻐. 이 나라에 오길 잘했다고 진심으로 그렇게 생각해」"
 
 [[dialogue]]
-speaker = "ユーリス"
+speaker_original = "ユーリス"
+speaker_translation = "유리스"
 original = "「ごめんね。会長もみんなに隠し事をすることになってしまって」"
 translation = "「미안해. 회장도 모두에게 비밀을 만들게 해버려서」"
 
 [[dialogue]]
-speaker = "ユーリス"
+speaker_original = "ユーリス"
+speaker_translation = "유리스"
 original = "「でも、私の勇者スキル習得に無理に付き合ってくれなくていいんだよ？\u3000会長も年頃の男子なんだから、女の子とデートに行きたいだろうし」"
 translation = "「하지만 내 용사 스킬 습득에 억지로 어울려 주지 않아도 괜찮아? 회장도 한창때의 남자애니까, 여자애랑 데이트하러 가고 싶을 테고」"
 
@@ -174,12 +202,14 @@ original = "おうちデートっていうのもあるぞ"
 translation = "집 데이트라는 것도 있다고"
 
 [[dialogue]]
-speaker = "ユーリス"
+speaker_original = "ユーリス"
+speaker_translation = "유리스"
 original = "「えっ、じゃあ私と会長がデート……！？\u3000いやいや、そもそも今の私は女の子に含まれるの……？」"
 translation = "「엣, 그럼 나랑 회장이 데이트……!? 아니아니, 애초에 지금의 내가 여자애에 포함되는 거야……?」"
 
 [[dialogue]]
-speaker = "ユーリス"
+speaker_original = "ユーリス"
+speaker_translation = "유리스"
 original = "「男として生きていくと誓ったはずなのに、嬉しく思ってる自分がいる。はは……我ながら現金だな」"
 translation = "「남자로 살아가겠다고 맹세했을 텐데, 기뻐하고 있는 내가 있어. 하하…… 나도 참 속물이네」"
 
@@ -189,57 +219,68 @@ original = "ユーリスが女の子で正直ほっとした"
 translation = "유리스가 여자라서 솔직히 안심했어"
 
 [[dialogue]]
-speaker = "ユーリス"
+speaker_original = "ユーリス"
+speaker_translation = "유리스"
 original = "「……え？\u3000どうして？」"
 translation = "「……에? 어째서?」"
 
 [[dialogue]]
-speaker = "ユーリス"
+speaker_original = "ユーリス"
+speaker_translation = "유리스"
 original = "「時々ユーリスが女の子に見えてたから……？\u3000ええっ！？」"
 translation = "「가끔 유리스가 여자애로 보였으니까……? 에엣!?」"
 
 [[dialogue]]
-speaker = "ユーリス"
+speaker_original = "ユーリス"
+speaker_translation = "유리스"
 original = "「……な、なるほど。ユーリスは男のはずなのに、一瞬女の子に見えて、男にドキッとしたのかもって思ってた時期もあったと」"
 translation = "「……나, 과연. 유리스는 남자일 텐데, 순간 여자애로 보여서 남자에게 두근거린 건가 하고 생각했던 시기도 있었다고」"
 
 [[dialogue]]
-speaker = "ユーリス"
+speaker_original = "ユーリス"
+speaker_translation = "유리스"
 original = "「はは……まさかお見通しとは。いや、まさかでもないか。思い返すと心当たりがいくつか……」"
 translation = "「하하…… 설마 꿰뚫어 보고 있었을 줄이야. 아니, 설마도 아닌가. 되돌아보니 짚이는 구석이 몇 군데……」"
 
 [[dialogue]]
-speaker = "ユーリス"
+speaker_original = "ユーリス"
+speaker_translation = "유리스"
 original = "「ありがとう、会長。こんな私でも受け入れてくれて」"
 translation = "「고마워, 회장. 이런 나라도 받아줘서」"
 
 [[dialogue]]
-speaker = "ユーリス"
+speaker_original = "ユーリス"
+speaker_translation = "유리스"
 original = "「こんなこと言うのもなんだけど……バレたのが会長で良かった。ずっとひとりで秘密を抱えるのはしんどかったから」"
 translation = "「이런 말 하긴 좀 그렇지만…… 들킨 게 회장이라서 다행이야. 계속 혼자서 비밀을 안고 있는 건 힘들었으니까」"
 
 [[dialogue]]
-speaker = "ユーリス"
+speaker_original = "ユーリス"
+speaker_translation = "유리스"
 original = "「こんなに助けてもらって、仲良くしてもらって、何もしないのはジルラント家の名折れだ」"
 translation = "「이렇게 도움을 받고, 사이좋게 지내면서 아무것도 하지 않는 건 질란트 가문의 수치다」"
 
 [[dialogue]]
-speaker = "ユーリス"
+speaker_original = "ユーリス"
+speaker_translation = "유리스"
 original = "「これから先、君が窮地に陥った時は誰よりも早く駆け付ける。聖剣にかけて誓うよ」"
 translation = "「앞으로 네가 궁지에 몰렸을 때는 누구보다 빨리 달려갈게. 성검에 걸고 맹세해」"
 
 [[dialogue]]
-speaker = "ユーリス"
+speaker_original = "ユーリス"
+speaker_translation = "유리스"
 original = "「ユーリス・フォン・ジルラントとして」"
 translation = "「유리스 폰 질란트로서」"
 
 [[dialogue]]
-speaker = "ユーリス"
+speaker_original = "ユーリス"
+speaker_translation = "유리스"
 original = "「そして……ユリアーナ・フォン・ジルラントとしてもね」"
 translation = "「그리고…… 율리아나 폰 질란트로서도 말이야」"
 
 [[dialogue]]
-speaker = "ユーリス"
+speaker_original = "ユーリス"
+speaker_translation = "유리스"
 original = "「これからもよろしくね、会長」"
 translation = "「앞으로도 잘 부탁해, 회장」"
 

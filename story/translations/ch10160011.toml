@@ -4,32 +4,38 @@ original = "第１話,不知火ヒトリは幽霊が見える,P"
 translation = "제1화, 시라누이 히토리는 유령이 보인다, P"
 
 [[dialogue]]
-speaker = "アナ"
+speaker_original = "アナ"
+speaker_translation = "아나"
 original = "「……お疲れ様です。美術部の活動計画、確かに受け取りました」"
 translation = "「……수고하셨습니다. 미술부 활동 계획, 확실히 받았습니다」"
 
 [[dialogue]]
-speaker = "ヒトリ"
+speaker_original = "ヒトリ"
+speaker_translation = "히토리"
 original = "「あ、ありがとうございます……問題とか、ありませんでしたか？」"
 translation = "「아, 가, 감사합니다…… 문제라든가, 없었나요?」"
 
 [[dialogue]]
-speaker = "アナ"
+speaker_original = "アナ"
+speaker_translation = "아나"
 original = "「特には。ノープロブレムです」"
 translation = "「딱히요. 노 프로블럼입니다」"
 
 [[dialogue]]
-speaker = "ヒトリ"
+speaker_original = "ヒトリ"
+speaker_translation = "히토리"
 original = "「そ、そうですか……」"
 translation = "「그, 그렇군요……」"
 
 [[dialogue]]
-speaker = "アナ"
+speaker_original = "アナ"
+speaker_translation = "아나"
 original = "「……それよりも、相変わらず不知火さんは物々しい」"
 translation = "「……그보다도, 여전히 시라누이 씨는 삼엄하네요」"
 
 [[dialogue]]
-speaker = "ヒトリ"
+speaker_original = "ヒトリ"
+speaker_translation = "히토리"
 original = "「へっ……？」"
 translation = "「헤……?」"
 
@@ -39,22 +45,26 @@ original = "まあ……確かに？"
 translation = "뭐…… 확실히?"
 
 [[dialogue]]
-speaker = "ヒトリ"
+speaker_original = "ヒトリ"
+speaker_translation = "히토리"
 original = "「ひあっ！？\u3000お、男の人っ！？」"
 translation = "「히앗!? 나, 남자 사람!?」"
 
 [[dialogue]]
-speaker = "アナ"
+speaker_original = "アナ"
+speaker_translation = "아나"
 original = "「……後ろの棺桶の中に隠れてしまいました」"
 translation = "「……뒤의 관 속에 숨어버렸네요」"
 
 [[dialogue]]
-speaker = "ヒトリ"
+speaker_original = "ヒトリ"
+speaker_translation = "히토리"
 original = "「す、すみません……直そうとは思ってるんですけど、まだその、お、男の人、得意じゃなくて……」"
 translation = "「죄, 죄송합니다…… 고치려고는 생각하고 있는데, 아직 그, 나, 남자 사람, 잘 못해서……」"
 
 [[dialogue]]
-speaker = "アナ"
+speaker_original = "アナ"
+speaker_translation = "아나"
 original = "「会長が驚かすからです。３歩後ろにバック」"
 translation = "「회장님이 놀라게 해서 그렇습니다. 3걸음 뒤로 백」"
 
@@ -64,42 +74,50 @@ original = "普通に話しかけただけなんだけど！？"
 translation = "평범하게 말을 걸었을 뿐인데!?"
 
 [[dialogue]]
-speaker = "ヒトリ"
+speaker_original = "ヒトリ"
+speaker_translation = "히토리"
 original = "「い、いえ……会長さんは何も悪くないです……。か、会長さんが優しい方だっていうのは、わかってますから……」"
 translation = "「아, 아니요…… 회장님은 아무 잘못 없어요……. 회, 회장님이 다정한 분이라는 건, 알고 있으니까요……」"
 
 [[dialogue]]
-speaker = "ヒトリ"
+speaker_original = "ヒトリ"
+speaker_translation = "히토리"
 original = "「ん、しょっと……」"
 translation = "「영, 차……」"
 
 [[dialogue]]
-speaker = "ヒトリ"
+speaker_original = "ヒトリ"
+speaker_translation = "히토리"
 original = "「す、すみません、話の腰を折ってしまって……。それで、わたしが物々しいっていうのは……」"
 translation = "「죄, 죄송합니다, 말허리를 잘라버려서……. 그래서, 제가 삼엄하다는 건……」"
 
 [[dialogue]]
-speaker = "アナ"
+speaker_original = "アナ"
+speaker_translation = "아나"
 original = "「その棺桶と、不知火さんにいつもついてる霊もそう。見えない人には見えないだろうけど、見える人は驚く」"
 translation = "「그 관이랑, 시라누이 씨에게 항상 붙어있는 영도 그래요. 안 보이는 사람에겐 안 보이겠지만, 보이는 사람은 놀라요」"
 
 [[dialogue]]
-speaker = "ヒトリ"
+speaker_original = "ヒトリ"
+speaker_translation = "히토리"
 original = "「ゆーちゃんのことですか……？\u3000だ、大丈夫ですよ？\u3000ゆーちゃんは悪い霊じゃありませんから」"
 translation = "「유ー짱 말인가요……? 대, 괜찮아요? 유ー짱은 나쁜 유령이 아니니까요.」"
 
 [[dialogue]]
-speaker = "アナ"
+speaker_original = "アナ"
+speaker_translation = "아나"
 original = "「その棺桶の中にも、たくさんいる」"
 translation = "「그 관 속에도, 잔뜩 있어.」"
 
 [[dialogue]]
-speaker = "ヒトリ"
+speaker_original = "ヒトリ"
+speaker_translation = "히토리"
 original = "「あ、うぅ……で、でも、みんな、本当にいい幽霊さんたちなんです……だ、だから、迷惑とか、かけないので……」"
 translation = "「아, 우으…… 하, 하지만, 다들 정말 착한 유령님들이에요…… 그, 그러니까, 폐라든가 끼치지 않을 테니까……」"
 
 [[dialogue]]
-speaker = "アナ"
+speaker_original = "アナ"
+speaker_translation = "아나"
 original = "「別に、連れてくるなと言ってるわけじゃない。……勘違いさせたのなら、謝罪します」"
 translation = "「딱히, 데려오지 말라고 하는 게 아니야. ……오해하게 했다면, 사과하지.」"
 
@@ -109,27 +127,32 @@ original = "ゆーちゃんは、ヒトリの友達なんだよな？"
 translation = "유ー짱은, 히토리의 친구인 거지?"
 
 [[dialogue]]
-speaker = "ヒトリ"
+speaker_original = "ヒトリ"
+speaker_translation = "히토리"
 original = "「は、はいっ……。わたしが子供の頃からのお友達ですっ。星力のことも、この学園のことも、全部ゆーちゃんから教えてもらったんですよ」"
 translation = "「네, 네엣……. 제가 어릴 때부터 친구예요. 성력에 대해서도, 이 학원에 대해서도, 전부 유ー짱한테 배웠거든요.」"
 
 [[dialogue]]
-speaker = "アナ"
+speaker_original = "アナ"
+speaker_translation = "아나"
 original = "「随分博識な幽霊。生前は星騎士？」"
 translation = "「제법 박식한 유령이군. 생전에는 성기사?」"
 
 [[dialogue]]
-speaker = "ヒトリ"
+speaker_original = "ヒトリ"
+speaker_translation = "히토리"
 original = "「言われてみれば……。そうだったの、ゆーちゃん？」"
 translation = "「듣고 보니…… 그랬던 거야, 유ー짱?」"
 
 [[dialogue]]
-speaker = "ゆーちゃん"
+speaker_original = "ゆーちゃん"
+speaker_translation = "유짱"
 original = "「ゆー……」"
 translation = "「유ー……」"
 
 [[dialogue]]
-speaker = "ヒトリ"
+speaker_original = "ヒトリ"
+speaker_translation = "히토리"
 original = "「違うって言ってます」"
 translation = "「아니라고 하네요.」"
 
@@ -139,32 +162,38 @@ original = "幽霊の言葉がわかるの！？"
 translation = "유령의 말을 알아듣는 거야!?"
 
 [[dialogue]]
-speaker = "ヒトリ"
+speaker_original = "ヒトリ"
+speaker_translation = "히토리"
 original = "「は、はい。霊感が強いおかげで、姿もくっきり見えますし、言葉も話せますよ？」"
 translation = "「네, 네. 영감이 강한 덕분에 모습도 또렷하게 보이고, 대화도 할 수 있어요.」"
 
 [[dialogue]]
-speaker = "アナ"
+speaker_original = "アナ"
+speaker_translation = "아나"
 original = "「天使の私ですら、人間界の霊的存在の姿は朧気に確認できても、言葉までわからない。不知火さんは相当強い霊感の持ち主。凄い」"
 translation = "「천사인 나조차 인간계의 영적 존재의 모습은 어렴풋이 확인할 수 있어도, 말까지는 모르는데. 시라누이 씨는 상당한 영감의 소유자네. 대단해.」"
 
 [[dialogue]]
-speaker = "ゆーちゃん"
+speaker_original = "ゆーちゃん"
+speaker_translation = "유짱"
 original = "「ゆー！」"
 translation = "「유ー!」"
 
 [[dialogue]]
-speaker = "ヒトリ"
+speaker_original = "ヒトリ"
+speaker_translation = "히토리"
 original = "「そ、そんなに凄いことじゃないと思いますけど……え、えへへ」"
 translation = "「그, 그렇게 대단한 건 아니라고 생각하지만…… 에, 에헤헤.」"
 
 [[dialogue]]
-speaker = "アナ"
+speaker_original = "アナ"
+speaker_translation = "아나"
 original = "「とは言え、他の人を驚かせてしまうのも事実。普段はゆーちゃんをどこかに隠しておくことを提案」"
 translation = "「그렇다고는 해도, 다른 사람을 놀라게 하는 것도 사실. 평소에는 유ー짱을 어딘가에 숨겨두는 것을 제안.」"
 
 [[dialogue]]
-speaker = "ヒトリ"
+speaker_original = "ヒトリ"
+speaker_translation = "히토리"
 original = "「な、なるほどです……ゆーちゃん、どうする？」"
 translation = "「과, 과연 그렇네요…… 유ー짱, 어떡할래?」"
 
@@ -174,32 +203,38 @@ original = "この棺桶の中とかはどうだ？"
 translation = "이 관 속 같은 데는 어때?"
 
 [[dialogue]]
-speaker = "ヒトリ"
+speaker_original = "ヒトリ"
+speaker_translation = "히토리"
 original = "「ひうっ！？\u3000ち、近いです！？」"
 translation = "「히익!? 가, 가까워요!?」"
 
 [[dialogue]]
-speaker = "アナ"
+speaker_original = "アナ"
+speaker_translation = "아나"
 original = "「……あなたが隠れてどうするんですか」"
 translation = "「……당신이 숨어서 어쩌자는 겁니까.」"
 
 [[dialogue]]
-speaker = "ヒトリ"
+speaker_original = "ヒトリ"
+speaker_translation = "히토리"
 original = "「す、すみません～～！」"
 translation = "「죄, 죄송합니다~~!」"
 
 [[dialogue]]
-speaker = "アナ"
+speaker_original = "アナ"
+speaker_translation = "아나"
 original = "「会長も。今度は５歩後ろにバック」"
 translation = "「회장도. 이번에는 5걸음 뒤로 물러나.」"
 
 [[dialogue]]
-speaker = "ヒトリ"
+speaker_original = "ヒトリ"
+speaker_translation = "히토리"
 original = "「すすす、すみませんっ、すみませんっ……恥ずかしいだけで、会長さんが優しい人だとは、ちゃんとわかってますから……！」"
 translation = "「죄죄죄, 죄송해요, 죄송해요…… 부끄러워서 그런 거지, 회장님이 상냥한 분이라는 건 잘 알고 있으니까요……!」"
 
 [[dialogue]]
-speaker = "アナ"
+speaker_original = "アナ"
+speaker_translation = "아나"
 original = "「初心な少女の乙女心をもてあそんだ。会長、反省」"
 translation = "「순진한 소녀의 처녀심을 농락했군. 회장, 반성.」"
 
@@ -209,12 +244,14 @@ original = "人をプレイボーイみたいに言わないでくれる！？"
 translation = "사람을 플레이보이처럼 말하지 말아 줄래!?"
 
 [[dialogue]]
-speaker = "アナ"
+speaker_original = "アナ"
+speaker_translation = "아나"
 original = "「…………」"
 translation = "「…………」"
 
 [[dialogue]]
-speaker = "ヒトリ"
+speaker_original = "ヒトリ"
+speaker_translation = "히토리"
 original = "「…………」"
 translation = "「…………」"
 
@@ -224,12 +261,14 @@ original = "そこは否定して！？"
 translation = "거기는 부정해 줘!?"
 
 [[dialogue]]
-speaker = "ヒトリ"
+speaker_original = "ヒトリ"
+speaker_translation = "히토리"
 original = "「わ、わたし、そろそろお暇しますねっ。会長さんも、できれば気にしないでくださいっ。失礼します～～！」"
 translation = "「저, 저, 슬슬 가볼게요. 회장님도 가급적 신경 쓰지 말아 주세요. 실례하겠습니다~~!」"
 
 [[dialogue]]
-speaker = "アナ"
+speaker_original = "アナ"
+speaker_translation = "아나"
 original = "「会長、また不知火さんにフラれてしまいましたね。前途多難」"
 translation = "「회장, 또 시라누이 씨에게 차여버렸네요. 전도다난.」"
 

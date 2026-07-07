@@ -1,485 +1,582 @@
 [[dialogue]]
-speaker = "トレジアンナ"
+speaker_original = "トレジアンナ"
+speaker_translation = "트레지안나"
 original = "「いや～、本当にご迷惑をおかけしました☆\u3000完全に欲に呑まれてしまいましたね～」"
 translation = "「이야~, 정말 민폐를 끼쳤네요☆ 완전히 욕망에 삼켜져 버렸었군요~」"
 
 [[dialogue]]
-speaker = "サチ"
+speaker_original = "サチ"
+speaker_translation = "사치"
 original = "「ふ～んだ……！」"
 translation = "「흥이다……!」"
 
 [[dialogue]]
-speaker = "いろは"
+speaker_original = "いろは"
+speaker_translation = "이로하"
 original = "「それにしてもサチちゃん、すごかったね～。まさか３人まとめて拘束されるとは思わなかったよ！」"
 translation = "「그나저나 사치 짱, 대단했어~. 설마 세 명을 한꺼번에 구속할 줄은 몰랐어!」"
 
 [[dialogue]]
-speaker = "トレジアンナ"
+speaker_original = "トレジアンナ"
+speaker_translation = "트레지안나"
 original = "「火事場の馬鹿力、というやつでしょうか☆\u3000よっ、さすがは私の見込んだ魔法少女っ♪」"
 translation = "「초인적인 힘, 이라는 걸까요☆ 역시 제가 눈독 들인 마법소녀답네요♪」"
 
 [[dialogue]]
-speaker = "サチ"
+speaker_original = "サチ"
+speaker_translation = "사치"
 original = "「もうっ！\u3000少しは反省する素振りを見せてください！」"
 translation = "「정말! 조금이라도 반성하는 척이라도 좀 해주세요!」"
 
 [[dialogue]]
-speaker = "トレジアンナ"
+speaker_original = "トレジアンナ"
+speaker_translation = "트레지안나"
 original = "「いやいや、本当に反省してますってば～」"
 translation = "「아니아니, 정말로 반성하고 있다니까요~」"
 
 [[dialogue]]
-speaker = "ここあ"
+speaker_original = "ここあ"
+speaker_translation = "코코아"
 original = "「はにゃ？\u3000なんかカオリンが隅で体育座りしてるけど、何があったのかにゃ？」"
 translation = "「하냐? 왠지 카오린이 구석에서 무릎을 안고 앉아 있는데 무슨 일 있었냐옹?」"
 
 [[dialogue]]
-speaker = "花織"
+speaker_original = "花織"
+speaker_translation = "카오리"
 original = "「ウチ、死にたい……穴があったら埋まって死にたい……」"
 translation = "「나, 죽고 싶어…… 쥐구멍이라도 있으면 들어가서 죽고 싶어……」"
 
 [[dialogue]]
-speaker = "いろは"
+speaker_original = "いろは"
+speaker_translation = "이로하"
 original = "「あ～、それは聞かないでおいてあげて」"
 translation = "「아~, 그건 묻지 말아 주자」"
 
 [[dialogue]]
-speaker = "プリムラ"
+speaker_original = "プリムラ"
+speaker_translation = "프리뮬러"
 original = "「ハハ……切腹……？\u3000生き恥を晒すくらいなら、せめて自ら腹を切るべきではないのか……？」"
 translation = "「하하…… 할복……? 살아서 치욕을 당하느니 차라리 스스로 배를 갈라야 하는 것 아닌가……?」"
 
 [[dialogue]]
-speaker = "サチ"
+speaker_original = "サチ"
+speaker_translation = "사치"
 original = "「プリムラ！\u3000いつまでうじうじしてるの！\u3000ヒトには秘密にしたいことの一つや二つ、あるものなんだから！」"
 translation = "「프리뮬러! 언제까지 우물쭈물하고 있을 거야! 사람에겐 비밀로 하고 싶은 일 한두 개쯤은 있는 법이라고!」"
 
 [[dialogue]]
-speaker = "サチ"
+speaker_original = "サチ"
+speaker_translation = "사치"
 original = "「自分から喰らいにいったトレジアンナさんはともかく、敵の能力で正気を失ってただけなんだから、誰も気にしてないよ！」"
 translation = "「스스로 당하러 간 트레지아나 씨는 둘째치고, 적의 능력으로 정신을 잃었을 뿐이니까 아무도 신경 안 써!」"
 
 [[dialogue]]
-speaker = "プリムラ"
+speaker_original = "プリムラ"
+speaker_translation = "프리뮬러"
 original = "「くそぉ……！\u3000わかっておる！\u3000理屈ではわかっておるのじゃ！！\u3000じゃが、それにしたって……それにしたって許せん能力なのじゃあぁぁぁ！！！」"
 translation = "「젠장……! 알고 있느니라! 이성으로는 알고 있느니라!! 하지만 그렇다 쳐도…… 그렇다 쳐도 용서 못 할 능력이니라아아아아!!!」"
 
 [[dialogue]]
-speaker = "プリムラ"
+speaker_original = "プリムラ"
+speaker_translation = "프리뮬러"
 original = "「サチぃ！\u3000次は我も真剣に戦うぞ！！\u3000あんな能力、世にあってはならぬのじゃ！！！」"
 translation = "「사치! 다음엔 짐도 진지하게 싸울 것이니라!! 저런 능력, 세상에 있어서는 안 되느니라!!!」"
 
 [[dialogue]]
-speaker = "サチ"
+speaker_original = "サチ"
+speaker_translation = "사치"
 original = "「プリムラ……！\u3000ようやくわかってくれたんだねっ！！」"
 translation = "「프리뮬러……! 드디어 알아준 거구나!!」"
 
 [[dialogue]]
-speaker = "いろは"
+speaker_original = "いろは"
+speaker_translation = "이로하"
 original = "「わぁぁああ♪\u3000サチちゃんとプリちゃんの固い握手だぁ！\u3000魔法少女同士の相互理解、熱い友情が確認し合えた瞬間だね！」"
 translation = "「와아아아아♪ 사치 짱이랑 프리 짱의 굳은 악수다! 마법소녀끼리의 상호 이해, 뜨거운 우정을 서로 확인한 순간이네!」"
 
 [[dialogue]]
-speaker = "ここあ"
+speaker_original = "ここあ"
+speaker_translation = "코코아"
 original = "「にゃはは～、キスパンデミックが原因でさえなければ、激熱の展開だっただろうね～♪」"
 translation = "「냐하하~, 키스 팬데믹이 원인만 아니었으면 아주 뜨거운 전개였을 텐데 말야~♪」"
 
 [[dialogue]]
-speaker = "シズハ"
+speaker_original = "シズハ"
+speaker_translation = "시즈하"
 original = "「それで、トレジアンナさん……さっきはどうして自分からキスをしに行ってたの？」"
 translation = "「그런데, 트레지아나 씨…… 아까는 왜 스스로 키스를 하러 간 거예요?」"
 
 [[dialogue]]
-speaker = "サチ"
+speaker_original = "サチ"
+speaker_translation = "사치"
 original = "「そうですよ！\u3000トレジアンナさんがあんなことしなければ、こんな大惨事にはならなかったんですからね！？」"
 translation = "「맞아요! 트레지아나 씨가 그런 짓을 안 했으면 이런 대참사는 안 일어났을 거라구요!?」"
 
 [[dialogue]]
-speaker = "トレジアンナ"
+speaker_original = "トレジアンナ"
+speaker_translation = "트레지안나"
 original = "「ふっふっふっ……私だって別に、おふざけや興味本位だけで罹りに行ったわけじゃないんですよ！」"
 translation = "「훗훗훗…… 저도 딱히 장난이나 호기심만으로 걸리러 간 게 아니랍니다!」"
 
 [[dialogue]]
-speaker = "トレジアンナ"
+speaker_original = "トレジアンナ"
+speaker_translation = "트레지안나"
 original = "「ピンク脳症候群について調べるには、自分で罹患してみるのが一番かなって思ったんです☆」"
 translation = "「핑크 뇌 증후군에 대해 조사하려면 스스로 감염되어 보는 게 제일이라고 생각했거든요☆」"
 
 [[dialogue]]
-speaker = "トレジアンナ"
+speaker_original = "トレジアンナ"
+speaker_translation = "트레지안나"
 original = "「おかげで色んな事が分かりましたし、それにほら、これを見てください！」"
 translation = "「덕분에 여러 가지를 알게 됐고, 자, 이걸 보세요!」"
 
 [[dialogue]]
-speaker = "オムニス"
+speaker_original = "オムニス"
+speaker_translation = "옴니스"
 original = "「バカアワビ！」"
 translation = "「바보 전복!」"
 
 [[dialogue]]
-speaker = "サチ"
+speaker_original = "サチ"
+speaker_translation = "사치"
 original = "「アワビ……？\u3000これが何なのか知っているんですか？」"
 translation = "「전복……? 이게 뭔지 알고 계신 건가요?」"
 
 [[dialogue]]
-speaker = "いろは"
+speaker_original = "いろは"
+speaker_translation = "이로하"
 original = "「実はあたしたちもよく分かってないんだけど、大型の悪魔が現れると、だいたいその近くにこのバカアワビが落ちてるの」"
 translation = "「사실 우리도 잘은 모르지만, 대형 악마가 나타나면 보통 그 근처에 이 바보 전복이 떨어져 있어」"
 
 [[dialogue]]
-speaker = "ここあ"
+speaker_original = "ここあ"
+speaker_translation = "코코아"
 original = "「それを使って、別の世界に移動できたりすることもあるんだよね～」"
 translation = "「그걸 써서 다른 세계로 이동하거나 할 수도 있거든~」"
 
 [[dialogue]]
-speaker = "シズハ"
+speaker_original = "シズハ"
+speaker_translation = "시즈하"
 original = "「世界を移動って、そんなことができちゃうの！？」"
 translation = "「세계 이동이라니, 그런 게 가능한 거야!?」"
 
 [[dialogue]]
-speaker = "サチ"
+speaker_original = "サチ"
+speaker_translation = "사치"
 original = "「だったら、これを使っていろはさんたちが元の世界に戻ることだって……！\u3000トレジアンナさん、いつの間にこんなものを？」"
 translation = "「그렇다면 이걸 써서 이로하 씨 일행이 원래 세계로 돌아가는 것도……! 트레지아나 씨, 언제 이런 걸?」"
 
 [[dialogue]]
-speaker = "トレジアンナ"
+speaker_original = "トレジアンナ"
+speaker_translation = "트레지안나"
 original = "「あの戦いの最中、近くに落ちていたのでコレクションしておきました☆」"
 translation = "「그 싸움 도중 근처에 떨어져 있길래 컬렉션 해두었죠☆」"
 
 [[dialogue]]
-speaker = "シズハ"
+speaker_original = "シズハ"
+speaker_translation = "시즈하"
 original = "「そんなポンポン落ちてていい代物なのかな、これ……」"
 translation = "「그렇게 툭툭 떨어져 있어도 되는 물건인 걸까, 이거……」"
 
 [[dialogue]]
-speaker = "いろは"
+speaker_original = "いろは"
+speaker_translation = "이로하"
 original = "「うん、まあ……これはそういうものなんだよ。探すと見つからなかったりするけど、意外とぽろっと見つかったりね」"
 translation = "「응, 뭐…… 이건 그런 거야. 찾으려면 안 보이는데, 의외로 툭 하고 발견되기도 하거든」"
 
 [[dialogue]]
-speaker = "トレジアンナ"
+speaker_original = "トレジアンナ"
+speaker_translation = "트레지안나"
 original = "「とりあえずこれを分析して、より詳しく、今回何が起こったのかを調べてみようと思います！」"
 translation = "「일단 이걸 분석해서 이번에 어떤 일이 일어났는지 더 자세히 알아보려고 합니다!」"
 
 [[dialogue]]
-speaker = "オムニス"
+speaker_original = "オムニス"
+speaker_translation = "옴니스"
 original = "「お願いします、トレジアンナさん」"
 translation = "「부탁합니다, 트레지아나 씨」"
 
 [[dialogue]]
-speaker = "トレジアンナ"
+speaker_original = "トレジアンナ"
+speaker_translation = "트레지안나"
 original = "「お待たせしました～、解析完了です☆」"
 translation = "「오래 기다리셨습니다~, 해석 완료예요☆」"
 
 [[dialogue]]
-speaker = "いろは"
+speaker_original = "いろは"
+speaker_translation = "이로하"
 original = "「早っ！？」"
 translation = "「빨라!?」"
 
 [[dialogue]]
-speaker = "トレジアンナ"
+speaker_original = "トレジアンナ"
+speaker_translation = "트레지안나"
 original = "「ふっふっふ♪\u3000こう見えて私、昔は名の知れた魔女でしたからね！\u3000『物体から記憶を読み取る魔法』を使って、今回の事件の全容を把握しました」"
 translation = "「훗훗훗♪ 이래 봬도 저, 예전엔 이름 꽤나 날리던 마녀였으니까요! 『물체에서 기억을 읽어내는 마법』을 사용해서 이번 사건의 전말을 파악했습니다」"
 
 [[dialogue]]
-speaker = "花織"
+speaker_original = "花織"
+speaker_translation = "카오리"
 original = "「何か今、名探偵不要のとんでもない魔法を口にした！？」"
 translation = "「방금 명탐정이 필요 없는 엄청난 마법을 입에 올렸는데!?」"
 
 [[dialogue]]
-speaker = "トレジアンナ"
+speaker_original = "トレジアンナ"
+speaker_translation = "트레지안나"
 original = "「はい、それではちゃちゃっと究明編に行っちゃいますよ～☆」"
 translation = "「네, 그럼 바로바로 규명편으로 넘어가 볼까요~☆」"
 
 [[dialogue]]
-speaker = "トレジアンナ"
+speaker_original = "トレジアンナ"
+speaker_translation = "트레지안나"
 original = "「――事の発端は、やはりロストアイテムだったようです。まず私たちの世界に存在していた『悪魔のロストアイテム』が、そちらの世界に転移しました」"
 translation = "「――사건의 발단은 역시 로스트 아이템이었던 모양입니다. 우선 저희 세계에 존재하던 『악마의 로스트 아이템』이 그쪽 세계로 전이되었습니다」"
 
 [[dialogue]]
-speaker = "トレジアンナ"
+speaker_original = "トレジアンナ"
+speaker_translation = "트레지안나"
 original = "「それをたまたま、本当に偶然見つけたのが、どうやら陽彩さんだったようですね」"
 translation = "「그걸 어쩌다, 정말 우연히 발견한 것이 아무래도 아키사 씨였던 것 같네요」"
 
 [[dialogue]]
-speaker = "トレジアンナ"
+speaker_original = "トレジアンナ"
+speaker_translation = "트레지안나"
 original = "「そして、何も知らない陽彩さんは、そのロストアイテムに興味を持ち、１人で研究を始めてしまいました」"
 translation = "「그리고 아무것도 모르는 아키사 씨는 그 로스트 아이템에 흥미를 느끼고 혼자서 연구를 시작해버렸습니다」"
 
 [[dialogue]]
-speaker = "花織"
+speaker_original = "花織"
+speaker_translation = "카오리"
 original = "「うわ……陽彩ちゃん、やりそー……」"
 translation = "「우와…… 아키사 짱, 그럴 법해……」"
 
 [[dialogue]]
-speaker = "トレジアンナ"
+speaker_original = "トレジアンナ"
+speaker_translation = "트레지안나"
 original = "「そうこうしているうちに、悪魔のロストアイテムとそちらの世界の『<ruby>黴体生物<rt>ばいたいせいぶつ</rt></ruby>』が融合して突然変異が起こり、寄生型の悪魔が生まれたようです」"
 translation = "「그러는 사이에 악마의 로스트 아이템과 그쪽 세계의 『매개 생물』이 융합해 돌연변이가 일어나 기생형 악마가 태어난 모양입니다」"
 
 [[dialogue]]
-speaker = "トレジアンナ"
+speaker_original = "トレジアンナ"
+speaker_translation = "트레지안나"
 original = "「今の陽彩さんはそれに取りつかれてしまっている状態で、『研究することが気持ちよくて仕方がない』という状態みたいですね～」"
 translation = "「지금의 아키사 씨는 그것에 씌어버린 상태로, 『연구하는 것이 기분 좋아 견딜 수 없는』 상태인 것 같네요~」"
 
 [[dialogue]]
-speaker = "トレジアンナ"
+speaker_original = "トレジアンナ"
+speaker_translation = "트레지안나"
 original = "「そしてその探求心を満たすために、悪魔のロストアイテムがやってきた私たちの世界にゲートを繋いでやってきた……というのが真相みたいです」"
 translation = "「그리고 그 탐구심을 채우기 위해 악마의 로스트 아이템이 건너온 저희 세계와 게이트를 연결해 넘어왔다……는 것이 진상인 듯합니다」"
 
 [[dialogue]]
-speaker = "サチ"
+speaker_original = "サチ"
+speaker_translation = "사치"
 original = "「そんなことまで出来ちゃうの！？」"
 translation = "「그런 것까지 가능해!?」"
 
 [[dialogue]]
-speaker = "プリムラ"
+speaker_original = "プリムラ"
+speaker_translation = "프리뮬러"
 original = "「普通は無理じゃな。別世界に渡るなど、余程特別な状況でも生まれない限り、『賢者の石』からできている我でも不可能じゃ」"
 translation = "「보통은 무리이니라. 별세계로 건너가는 건 아주 특별한 상황이 생기지 않는 한, 『현자의 돌』로 만들어진 짐조차 불가능하느니라」"
 
 [[dialogue]]
-speaker = "トレジアンナ"
+speaker_original = "トレジアンナ"
+speaker_translation = "트레지안나"
 original = "「そうですね……ですがそんな不可能を可能にしてしまったのが、今回の『悪魔のロストアイテム』の持つ力というわけです」"
 translation = "「그렇죠…… 하지만 그런 불가능을 가능케 한 것이 이번 『악마의 로스트 아이템』이 가진 힘이라는 겁니다」"
 
 [[dialogue]]
-speaker = "トレジアンナ"
+speaker_original = "トレジアンナ"
+speaker_translation = "트레지안나"
 original = "「そしてここにいるみなさんは……連絡の取れない陽彩さんのことを心配して様子を見に来たところ、転移に巻き込まれてしまった、ということみたいですね」"
 translation = "「그리고 여기 계신 분들은…… 연락이 닿지 않는 아키사 씨가 걱정되어 상태를 보러 왔다가 전이에 휘말려버린 것 같네요」"
 
 [[dialogue]]
-speaker = "ここあ"
+speaker_original = "ここあ"
+speaker_translation = "코코아"
 original = "「そうだったんだ……全然覚えてないな～」"
 translation = "「그랬구나…… 전혀 기억 안 나네~」"
 
 [[dialogue]]
-speaker = "トレジアンナ"
+speaker_original = "トレジアンナ"
+speaker_translation = "트레지안나"
 original = "「おそらく転移の影響で、その前後の記憶が失われてしまったのだと思われます」"
 translation = "「아마 전이의 영향으로 그 전후의 기억이 사라진 것으로 추정됩니다」"
 
 [[dialogue]]
-speaker = "いろは"
+speaker_original = "いろは"
+speaker_translation = "이로하"
 original = "「えっと、それで……陽彩ちゃんを助けるには、あたしたちはどうすればいいの？」"
 translation = "「저기, 그래서…… 아키사 짱을 구하려면 우린 어떻게 해야 해?」"
 
 [[dialogue]]
-speaker = "トレジアンナ"
+speaker_original = "トレジアンナ"
+speaker_translation = "트레지안나"
 original = "「まず絶対なのは、陽彩さんに取りついている寄生型悪魔を引きはがすことです！」"
 translation = "「우선 절대적인 건 아키사 씨에게 씌어있는 기생형 악마를 떼어내는 것입니다!」"
 
 [[dialogue]]
-speaker = "トレジアンナ"
+speaker_original = "トレジアンナ"
+speaker_translation = "트레지안나"
 original = "「幸いあれは元々、人間に寄生できるほどの力を持った悪魔ではないようです。ロストアイテムと融合してしまったことで、本来ならあり得ない力を持ったようですから」"
 translation = "「다행히 그것은 원래 인간에게 기생할 정도의 힘을 가진 악마는 아닌 모양입니다. 로스트 아이템과 융합해버린 탓에 본래라면 있을 수 없는 힘을 가지게 된 것뿐이니까요」"
 
 [[dialogue]]
-speaker = "トレジアンナ"
+speaker_original = "トレジアンナ"
+speaker_translation = "트레지안나"
 original = "「つまり、ロストアイテムの方を取り除いてしまえば、陽彩さんも自然に元に戻ることができるでしょう」"
 translation = "「즉, 로스트 아이템 쪽을 제거해버리면 아키사 씨도 자연스럽게 원래대로 돌아올 수 있을 겁니다」"
 
 [[dialogue]]
-speaker = "いろは"
+speaker_original = "いろは"
+speaker_translation = "이로하"
 original = "「よかったぁ、助かるんだ～」"
 translation = "「다행이다, 살 수 있구나~」"
 
 [[dialogue]]
-speaker = "トレジアンナ"
+speaker_original = "トレジアンナ"
+speaker_translation = "트레지안나"
 original = "「ただここで問題になってくるのが、陽彩さんの能力がどんどん強まっているということです」"
 translation = "「다만 여기서 문제가 되는 건 아키사 씨의 능력이 점점 강해지고 있다는 점입니다」"
 
 [[dialogue]]
-speaker = "トレジアンナ"
+speaker_original = "トレジアンナ"
+speaker_translation = "트레지안나"
 original = "「今は『レベル２』らしいですが、時間が経てばレベル３、レベル４と強まっていく可能性が高いでしょう」"
 translation = "「지금은 『레벨 2』인 모양입니다만, 시간이 지나면 레벨 3, 레벨 4로 강해질 가능성이 높겠죠」"
 
 [[dialogue]]
-speaker = "トレジアンナ"
+speaker_original = "トレジアンナ"
+speaker_translation = "트레지안나"
 original = "「現在はキスでしか感染させることができませんが、近いうちに空気感染させることすら可能になると推察されます」"
 translation = "「현재는 키스로만 감염시킬 수 있지만, 머지않아 공기 감염시키는 것조차 가능해질 것으로 추측됩니다」"
 
 [[dialogue]]
-speaker = "サチ"
+speaker_original = "サチ"
+speaker_translation = "사치"
 original = "「なっ！？\u3000それ、もはや洒落にならない<ruby>感染爆発<rt>パンデミック</rt></ruby>ですよ！？」"
 translation = "「나앗!? 그거 이젠 농담이 안 되는 감염 폭발이잖아요!?」"
 
 [[dialogue]]
-speaker = "トレジアンナ"
+speaker_original = "トレジアンナ"
+speaker_translation = "트레지안나"
 original = "「ええ。そうなってしまうと、感染の拡大を抑えるのはいよいよ困難になってくるでしょう……」"
 translation = "「네. 그렇게 되면 감염 확산을 막는 건 이윽고 곤란해지겠죠……」"
 
 [[dialogue]]
-speaker = "トレジアンナ"
+speaker_original = "トレジアンナ"
+speaker_translation = "트레지안나"
 original = "「そうなる前に彼女……陽彩さんを寄生型悪魔から引きはがさなければなりません！」"
 translation = "「그렇게 되기 전에 그녀…… 아키사 씨를 기생형 악마에게서 떼어내야 합니다!」"
 
 [[dialogue]]
-speaker = "いろは"
+speaker_original = "いろは"
+speaker_translation = "이로하"
 original = "「でも今の状態でも、陽彩ちゃん相当手ごわいよ……？」"
 translation = "「하지만 지금 상태로도 아키사 짱은 상당히 버겁다구……?」"
 
 [[dialogue]]
-speaker = "プリムラ"
+speaker_original = "プリムラ"
+speaker_translation = "프리뮬러"
 original = "「動きが速すぎる上に、キスをされるだけで戦闘不能なのじゃ」"
 translation = "「움직임이 너무 빠른 데다 키스를 당하는 것만으로 전투 불능이니라」"
 
 [[dialogue]]
-speaker = "シズハ"
+speaker_original = "シズハ"
+speaker_translation = "시즈하"
 original = "「その上、能力もさらに覚醒し出したら、キスさえ必要なくなる……」"
 translation = "「그 위에 능력까지 더 각성하기 시작하면 키스조차 필요 없어져……」"
 
 [[dialogue]]
-speaker = "トレジアンナ"
+speaker_original = "トレジアンナ"
+speaker_translation = "트레지안나"
 original = "「それについてはご安心ください。ちゃんと対策は考えています」"
 translation = "「그 점에 대해서는 안심하세요. 제대로 대책은 생각해 두었으니까요」"
 
 [[dialogue]]
-speaker = "トレジアンナ"
+speaker_original = "トレジアンナ"
+speaker_translation = "트레지안나"
 original = "「伊達にわざわざ罹患しにいったわけではありませんよ～？\u3000１度感染することで、その性質を把握することができました」"
 translation = "「괜히 일부러 감염되러 간 게 아니랍니다~? 한 번 감염됨으로써 그 성질을 파악할 수 있었습니다」"
 
 [[dialogue]]
-speaker = "トレジアンナ"
+speaker_original = "トレジアンナ"
+speaker_translation = "트레지안나"
 original = "「時間を頂ければ、ピンク脳症候群に対抗できるワクチンを作り出すことができます！」"
 translation = "「시간을 주신다면 핑크 뇌 증후군에 대항할 수 있는 백신을 만들어낼 수 있습니다!」"
 
 [[dialogue]]
-speaker = "サチ"
+speaker_original = "サチ"
+speaker_translation = "사치"
 original = "「す、すごい……。こんな短時間で、そこまでできちゃうんですか」"
 translation = "「대, 대단해…… 이런 짧은 시간에 거기까지 가능한 건가요」"
 
 [[dialogue]]
-speaker = "トレジアンナ"
+speaker_original = "トレジアンナ"
+speaker_translation = "트레지안나"
 original = "「えっへん♪\u3000少しは私のことを見直しましたか、サチさん？」"
 translation = "「에헴♪ 조금은 저를 다시 보게 됐나요, 사치 씨?」"
 
 [[dialogue]]
-speaker = "サチ"
+speaker_original = "サチ"
+speaker_translation = "사치"
 original = "「はい……トレジアンナさんは本当にすごいです。生意気ばっかり言って、すみませんでした……」"
 translation = "「네…… 트레지아나 씨는 정말 대단해요. 건방진 말만 해서 죄송했습니다……」"
 
 [[dialogue]]
-speaker = "トレジアンナ"
+speaker_original = "トレジアンナ"
+speaker_translation = "트레지안나"
 original = "「ちょっとちょっと！\u3000そこまで殊勝になられると、調子狂っちゃうじゃないですか～！」"
 translation = "「잠깐잠깐! 그렇게 기특하게 나오시면 페이스가 꼬이잖아요~!」"
 
 [[dialogue]]
-speaker = "サチ"
+speaker_original = "サチ"
+speaker_translation = "사치"
 original = "「だって……なんか今回、私ちっとも役に立ってないなって思って……」"
 translation = "「그치만…… 왠지 이번에 전 하나도 도움이 안 되는 것 같아서……」"
 
 [[dialogue]]
-speaker = "いろは"
+speaker_original = "いろは"
+speaker_translation = "이로하"
 original = "「何言ってるの、サチちゃん！」"
 translation = "「무슨 소리야, 사치 짱!」"
 
 [[dialogue]]
-speaker = "いろは"
+speaker_original = "いろは"
+speaker_translation = "이로하"
 original = "「全滅のピンチの時、サチちゃんがみんなを簀巻きにして連れて来てくれたから、こうやって態勢を立て直せてるんだよ！！」"
 translation = "「전멸 위기일 때 사치 짱이 모두를 꽁꽁 묶어서 데려와 줬으니까 이렇게 태세를 정비할 수 있었던 거야!!」"
 
 [[dialogue]]
-speaker = "プリムラ"
+speaker_original = "プリムラ"
+speaker_translation = "프리뮬러"
 original = "「まあ、簀巻きにはされたがの……」"
 translation = "「뭐, 멍석말이처럼 묶이긴 했지만 말이느니라……」"
 
 [[dialogue]]
-speaker = "花織"
+speaker_original = "花織"
+speaker_translation = "카오리"
 original = "「プリムラちゃん、しっ！」"
 translation = "「프리뮬러 짱, 쉿!」"
 
 [[dialogue]]
-speaker = "いろは"
+speaker_original = "いろは"
+speaker_translation = "이로하"
 original = "「サチちゃんの警戒心のお陰で、反撃のチャンスが生まれたんだから！」"
 translation = "「사치 짱의 경계심 덕분에 반격의 찬스가 생긴 거니까!」"
 
 [[dialogue]]
-speaker = "いろは"
+speaker_original = "いろは"
+speaker_translation = "이로하"
 original = "「自信持って！\u3000この世界の魔法少女！！」"
 translation = "「자신감을 가져! 이 세계의 마법소녀!!」"
 
 [[dialogue]]
-speaker = "サチ"
+speaker_original = "サチ"
+speaker_translation = "사치"
 original = "「あ、ありがとうございます……」"
 translation = "「고, 고맙습니다……」"
 
 [[dialogue]]
-speaker = "サチ"
+speaker_original = "サチ"
+speaker_translation = "사치"
 original = "「そうですよね、卑屈になりすぎるのは、よくありませんでした。まだ終わっていません。最後までやり切って、必ず陽彩さんを取り返しましょう！」"
 translation = "「그렇네요, 너무 비굴해지는 건 좋지 않았어요. 아직 끝나지 않았습니다. 끝까지 해내서 반드시 아키사 씨를 되찾아오자구요!」"
 
 [[dialogue]]
-speaker = "ここあ"
+speaker_original = "ここあ"
+speaker_translation = "코코아"
 original = "「お～！\u3000元気出して行こ～！」"
 translation = "「오~! 기운 내서 가자구~!」"
 
 [[dialogue]]
-speaker = "サチ"
+speaker_original = "サチ"
+speaker_translation = "사치"
 original = "「えっと……こほん！\u3000それでトレジアンナさん、そのワクチンがあれば陽彩さんの感染攻撃も効かなくなる、ということですか？」"
 translation = "「저기…… 흠흠! 그래서 트레지아나 씨, 그 백신이 있으면 아키사 씨의 감염 공격도 안 통하게 된다는 건가요?」"
 
 [[dialogue]]
-speaker = "トレジアンナ"
+speaker_original = "トレジアンナ"
+speaker_translation = "트레지안나"
 original = "「いえ、あくまで抵抗力をつける、というだけです。完全に無効化というわけにはいきません」"
 translation = "「아뇨, 어디까지나 저항력을 키울 뿐입니다. 완전히 무효화라는 건 아니에요」"
 
 [[dialogue]]
-speaker = "トレジアンナ"
+speaker_original = "トレジアンナ"
+speaker_translation = "트레지안나"
 original = "「それに……時間とワクチンを作り出す素材の関係から、用意できる量は３人分まででしょう」"
 translation = "「게다가…… 시간과 백신을 만들 소재 관계상 준비할 수 있는 양은 세 명분까지겠죠」"
 
 [[dialogue]]
-speaker = "サチ"
+speaker_original = "サチ"
+speaker_translation = "사치"
 original = "「３人……」"
 translation = "「세 명……」"
 
 [[dialogue]]
-speaker = "いろは"
+speaker_original = "いろは"
+speaker_translation = "이로하"
 original = "「それなら、丁度いいね！」"
 translation = "「그럼 딱 좋네!」"
 
 [[dialogue]]
-speaker = "いろは"
+speaker_original = "いろは"
+speaker_translation = "이로하"
 original = "「陽彩ちゃんはあたしたちの仲間だし、やっぱ最後はあたしたちの手で決着を付けさせて欲しい」"
 translation = "「아키사 짱은 우리의 동료고, 역시 마지막은 우리 손으로 결판을 짓게 해줬으면 좋겠어」"
 
 [[dialogue]]
-speaker = "いろは"
+speaker_original = "いろは"
+speaker_translation = "이로하"
 original = "「カオリンもここにゃんも、それでいいよね？」"
 translation = "「카올린도 코코냥도 괜찮지?」"
 
 [[dialogue]]
-speaker = "ここあ"
+speaker_original = "ここあ"
+speaker_translation = "코코아"
 original = "「まあここは空気的にそれしかないよね～。今度はここあたちが頑張る番、ってことでいいんじゃない？」"
 translation = "「뭐, 분위기상 그것밖에 없겠네~. 이번엔 코코아들이 힘낼 차례라는 걸로 괜찮지 않아?」"
 
 [[dialogue]]
-speaker = "花織"
+speaker_original = "花織"
+speaker_translation = "카오리"
 original = "「上手くいかなかったらごめんだけど……ウチらにやらせて欲しいな」"
 translation = "「잘 안되면 미안하지만…… 우리에게 맡겨줬으면 해」"
 
 [[dialogue]]
-speaker = "プリムラ"
+speaker_original = "プリムラ"
+speaker_translation = "프리뮬러"
 original = "「どうするのじゃ、サチ？」"
 translation = "「어쩔 것이냐, 사치?」"
 
 [[dialogue]]
-speaker = "サチ"
+speaker_original = "サチ"
+speaker_translation = "사치"
 original = "「……そうだね、ここはお任せします。でも陽彩さんは強いですよ？」"
 translation = "「……그렇네, 여기는 맡기겠습니다. 하지만 아키사 씨는 강해요」"
 
 [[dialogue]]
-speaker = "オムニス"
+speaker_original = "オムニス"
+speaker_translation = "옴니스"
 original = "「それは重々わかってる。でも、こいつらだって魔法少女だ。信じて任せてくれないか？」"
 translation = "「그건 충분히 알고 있어. 하지만 이 녀석들도 마법소녀다. 믿고 맡겨주지 않겠나?」"
 
 [[dialogue]]
-speaker = "サチ"
+speaker_original = "サチ"
+speaker_translation = "사치"
 original = "「わかりました。私たちは後方からのサポートに回りますので、お願いします」"
 translation = "「알겠습니다. 저희는 후방에서 서포트할 테니 부탁드려요」"
 
 [[dialogue]]
-speaker = "いろは"
+speaker_original = "いろは"
+speaker_translation = "이로하"
 original = "「うんっ！\u3000カオリン、ここにゃん！\u3000絶対に勝とうね！」"
 translation = "「응! 카올린, 코코냥! 반드시 이기자!」"
 
 [[dialogue]]
-speaker = "３人"
+speaker_original = "３人"
+speaker_translation = "3명"
 original = "「おーっ！」"
 translation = "「오-!」"
 

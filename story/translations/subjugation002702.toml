@@ -1,5 +1,6 @@
 [[dialogue]]
-speaker = "ヨミ"
+speaker_original = "ヨミ"
+speaker_translation = "요미"
 original = "「無事に……着いたみたいですね……」"
 translation = "「무사히…… 도착한 모양이네요……」"
 
@@ -14,22 +15,26 @@ original = "本当に転移したんだ……"
 translation = "정말 전이했구나……"
 
 [[dialogue]]
-speaker = "せつな"
+speaker_original = "せつな"
+speaker_translation = "세츠나"
 original = "「おお～、ここはまさしく紫桜の里にござる！\u3000転移は大成功でござるよ～！」"
 translation = "「오오~ 이곳은 틀림없는 자앵마을이오 소! 전이는 대성공이오 소~!」"
 
 [[dialogue]]
-speaker = "ヨミ"
+speaker_original = "ヨミ"
+speaker_translation = "요미"
 original = "「体調は大丈夫ですか？\u3000具合が悪かったりしませんか？」"
 translation = "「컨디션은 괜찮으세요? 몸이 안 좋거나 하진 않으시고요?」"
 
 [[dialogue]]
-speaker = "せつな"
+speaker_original = "せつな"
+speaker_translation = "세츠나"
 original = "「特に問題は無さそうでござるな、せつなは元気いっぱいでござる！」"
 translation = "「특별히 문제는 없어 보이오 소, 세츠나는 원기 왕성하오 소!」"
 
 [[dialogue]]
-speaker = "ウズメイア"
+speaker_original = "ウズメイア"
+speaker_translation = "우즈메"
 original = "「うぷっ……あたしはちょっち気持ち悪いかも……」"
 translation = "「우웁…… 난 초큼 기분 나쁠지도……」"
 
@@ -44,42 +49,50 @@ original = "大丈夫？"
 translation = "괜찮아?"
 
 [[dialogue]]
-speaker = "ウズメイア"
+speaker_original = "ウズメイア"
+speaker_translation = "우즈메"
 original = "「へーきへーき、そんなことよりほら！\u3000忍者の里だよ、忍者の里！\u3000め～～っちゃアガるっしょ～！」"
 translation = "「괘차나 괘차나, 그것보다 봐봐! 닌자 마을이야, 닌자 마을! 즈으으응말 텐션 오르잖아!」"
 
 [[dialogue]]
-speaker = "せつな"
+speaker_original = "せつな"
+speaker_translation = "세츠나"
 original = "「アゲアゲでござるな！」"
 translation = "「텐션 하이이오 소!」"
 
 [[dialogue]]
-speaker = "ウズメイア"
+speaker_original = "ウズメイア"
+speaker_translation = "우즈메"
 original = "「ありがとね、ござるちゃん！\u3000あたしも誘ってくれて、感謝してもしきれないっしょ！」"
 translation = "「고마워, 고자루짱! 나까지 초대해 줘서 고마워서 어쩔 줄 모르겠다구!」"
 
 [[dialogue]]
-speaker = "せつな"
+speaker_original = "せつな"
+speaker_translation = "세츠나"
 original = "「時代劇をこよなく愛するウズメ殿は、是非ご招待したいと思っていたでござる！\u3000喜んでもらえているようで何よりでござるよ！」"
 translation = "「사극을 각별히 사랑하는 우즈메 공은 꼭 초대하고 싶었소 소! 기뻐해 주니 무엇보다 다행이오 소!」"
 
 [[dialogue]]
-speaker = "ヨミ"
+speaker_original = "ヨミ"
+speaker_translation = "요미"
 original = "「……とは言っても、見た感じは普通ののどかな山里って感じでしょうか？」"
 translation = "「……라고 해도, 보기에는 평범하고 평화로운 산골 마을 같은 느낌일까요?」"
 
 [[dialogue]]
-speaker = "ウズメイア"
+speaker_original = "ウズメイア"
+speaker_translation = "우즈메"
 original = "「甘いよっ、ヨミヨミ！\u3000それは世を忍ぶ仮の姿！\u3000その実態は……ほらそこ！\u3000忍の罠が！」"
 translation = "「물러, 요미요미! 그건 세상을 속이기 위한 임시 모습! 그 실체는…… 봐, 저기! 시노비의 함정이!」"
 
 [[dialogue]]
-speaker = "ヨミ"
+speaker_original = "ヨミ"
+speaker_translation = "요미"
 original = "「ええ～、そんなことあるはず……」"
 translation = "「에에~ 그럴 리가……」"
 
 [[dialogue]]
-speaker = "ヨミ"
+speaker_original = "ヨミ"
+speaker_translation = "요미"
 original = "「こやぁぁぁ～～～～～っ！！」"
 translation = "「코야아아아아앗!!」"
 
@@ -94,157 +107,188 @@ original = "ヨミヨミ～～っ！！"
 translation = "요미요미~~!!"
 
 [[dialogue]]
-speaker = "せつな"
+speaker_original = "せつな"
+speaker_translation = "세츠나"
 original = "「油断大敵でござる、はあっ！！！」"
 translation = "「방심은 금물이오 소, 하앗!!!」"
 
 [[dialogue]]
-speaker = "ヨミ"
+speaker_original = "ヨミ"
+speaker_translation = "요미"
 original = "「あぅぅ……ひどい目に遭いました……」"
 translation = "「아으으…… 험한 꼴을 당했어요……」"
 
 [[dialogue]]
-speaker = "ウズメイア"
+speaker_original = "ウズメイア"
+speaker_translation = "우즈메"
 original = "「おおー、これがシノビ・トラップ！\u3000さっすが忍の里！」"
 translation = "「오오─ 이게 시노비 트랩! 역시 닌자 마을!」"
 
 [[dialogue]]
-speaker = "せつな"
+speaker_original = "せつな"
+speaker_translation = "세츠나"
 original = "「至るところに罠が仕掛けられてるから、気軽にその辺を触らない方がいいでござるよ」"
 translation = "「곳곳에 함정이 설치되어 있으니, 함부로 그 주변을 건드리지 않는 게 좋소 소.」"
 
 [[dialogue]]
-speaker = "ヨミ"
+speaker_original = "ヨミ"
+speaker_translation = "요미"
 original = "「それを先に言って下さいよ～」"
 translation = "「그걸 미리 말씀해 주셨어야죠~」"
 
 [[dialogue]]
-speaker = "ウズメイア"
+speaker_original = "ウズメイア"
+speaker_translation = "우즈메"
 original = "「ってことは、もしかしてあっちにいる村人ちゃんも、ただの女の子じゃないとか？」"
 translation = "「그렇다는 건, 설마 저기 있는 마을 사람짱도 그냥 여자아이가 아니라던가?」"
 
 [[dialogue]]
-speaker = "村の女の子"
+speaker_original = "村の女の子"
+speaker_translation = "마을 여자아이"
 original = "「曲者っ！！」"
 translation = "「수상한 자!!」"
 
 [[dialogue]]
-speaker = "ヨミ"
+speaker_original = "ヨミ"
+speaker_translation = "요미"
 original = "「え？\u3000あ、ちょっと！？\u3000これってヤバくないですか？」"
 translation = "「에? 아, 잠깐!? 이거 위험하지 않나요?」"
 
 [[dialogue]]
-speaker = "ウズメイア"
+speaker_original = "ウズメイア"
+speaker_translation = "우즈메"
 original = "「わ～お！\u3000さっそく面白そうな展開になってきたし♪」"
 translation = "「와아─오! 벌써 재미있는 전개가 되기 시작했고♪」"
 
 [[dialogue]]
-speaker = "村の女の子"
+speaker_original = "村の女の子"
+speaker_translation = "마을 여자아이"
 original = "「たぁっ！！」"
 translation = "「타앗!!」"
 
 [[dialogue]]
-speaker = "せつな"
+speaker_original = "せつな"
+speaker_translation = "세츠나"
 original = "「甘い！」"
 translation = "「무르다!」"
 
 [[dialogue]]
-speaker = "ヨミ"
+speaker_original = "ヨミ"
+speaker_translation = "요미"
 original = "「こやぁぁぁん！\u3000いきなり何なんですか～！\u3000着いて早々、死んじゃうとこでしたよ～！」"
 translation = "「코야아앙! 갑자기 이게 뭔가요~! 도착하자마자 죽을 뻔했다고요~!」"
 
 [[dialogue]]
-speaker = "ウズメイア"
+speaker_original = "ウズメイア"
+speaker_translation = "우즈메"
 original = "「手裏剣！？\u3000今の手裏剣だよね？\u3000おおお～、マジ手裏剣きたっしょ～～～～っ！！」"
 translation = "「표창!? 방금 표창이지? 오오오~ 리얼 표창 왔다구~~~~!!」"
 
 [[dialogue]]
-speaker = "ヨミ"
+speaker_original = "ヨミ"
+speaker_translation = "요미"
 original = "「興奮してる場合じゃないですよ！\u3000いきなり手裏剣を投げつけてくるなんて、完全に侵入者を排除するモードになってるじゃないですか～」"
 translation = "「흥분하고 있을 때가 아니에요! 갑자기 표창을 던지다니, 완전히 침입자를 배제하는 모드가 되어 있잖아요~」"
 
 [[dialogue]]
-speaker = "せつな"
+speaker_original = "せつな"
+speaker_translation = "세츠나"
 original = "「心配ご無用でござるよ。これも里の歓迎みたいなもの……で、ござるな、さつき？」"
 translation = "「걱정 마시오 소. 이것도 마을의 환영 같은 것…… 맞지, 사츠키?」"
 
 [[dialogue]]
-speaker = "さつき"
+speaker_original = "さつき"
+speaker_translation = "사츠키"
 original = "「うん。お帰り、せつな。久し振りだね」"
 translation = "「응. 어서 와, 세츠나. 오랜만이네.」"
 
 [[dialogue]]
-speaker = "せつな"
+speaker_original = "せつな"
+speaker_translation = "세츠나"
 original = "「にんにん！」"
 translation = "「닌닌!」"
 
 [[dialogue]]
-speaker = "さつき"
+speaker_original = "さつき"
+speaker_translation = "사츠키"
 original = "「にんにん！」"
 translation = "「닌닌!」"
 
 [[dialogue]]
-speaker = "ウズメイア"
+speaker_original = "ウズメイア"
+speaker_translation = "우즈메"
 original = "「忍者同士の謎の挨拶はじまった！\u3000クールすぎでしょ～！」"
 translation = "「닌자들끼리의 수수께끼의 인사가 시작됐다! 너무 쿨하잖아~!」"
 
 [[dialogue]]
-speaker = "村の女の子"
+speaker_original = "村の女の子"
+speaker_translation = "마을 여자아이"
 original = "「せつな～っ、おっかえり～！！」"
 translation = "「세츠나~ 어서 와~!!」"
 
 [[dialogue]]
-speaker = "せつな"
+speaker_original = "せつな"
+speaker_translation = "세츠나"
 original = "「おお、ちとせも！\u3000ただいまでござる～！」"
 translation = "「오오, 치토세도! 다녀왔소 소~!」"
 
 [[dialogue]]
-speaker = "ちとせ"
+speaker_original = "ちとせ"
+speaker_translation = "치토세"
 original = "「にんにん、お土産は買ってきてくれた？」"
 translation = "「닌닌, 선물은 사 왔어?」"
 
 [[dialogue]]
-speaker = "せつな"
+speaker_original = "せつな"
+speaker_translation = "세츠나"
 original = "「もちろんでござるよ。後で渡すから待っているでござる」"
 translation = "「물론이오 소. 나중에 줄 테니 기다리시오 소.」"
 
 [[dialogue]]
-speaker = "ちとせ"
+speaker_original = "ちとせ"
+speaker_translation = "치토세"
 original = "「オッケー、楽しみにしてるね。じゃひとまず、退散！」"
 translation = "「오케이, 기대할게. 그럼 일단 퇴산!」"
 
 [[dialogue]]
-speaker = "さつき"
+speaker_original = "さつき"
+speaker_translation = "사츠키"
 original = "「せつな、私も行くね。後で色々聞かせてもらうから覚悟してて」"
 translation = "「세츠나, 나도 갈게. 나중에 여러 가지 들려줘야 하니까 각오해 둬.」"
 
 [[dialogue]]
-speaker = "ウズメイア"
+speaker_original = "ウズメイア"
+speaker_translation = "우즈메"
 original = "「２人とも消えたし！？\u3000か、かっこいい……」"
 translation = "「둘 다 사라졌고!? 머, 멋있다……」"
 
 [[dialogue]]
-speaker = "せつな"
+speaker_original = "せつな"
+speaker_translation = "세츠나"
 original = "「皆に紹介しようとおもったのに、さっさと消えてしまうとは。本当に困った２人でござる……」"
 translation = "「모두에게 소개하려고 했는데, 얼른 사라져 버리다니. 정말 곤란한 두 사람이오 소……」"
 
 [[dialogue]]
-speaker = "せつな"
+speaker_original = "せつな"
+speaker_translation = "세츠나"
 original = "「ともあれ、ここがせつなの故郷、紫桜の里でござるよ。みんなにも気に入ってもらえると嬉しいでござる」"
 translation = "「어쨌든, 여기가 세츠나의 고향, 자앵마을이오 소. 모두 마음에 들어 해 주면 기쁘겠소 소.」"
 
 [[dialogue]]
-speaker = "ウズメイア"
+speaker_original = "ウズメイア"
+speaker_translation = "우즈메"
 original = "「もうのっけから気に入りまくりだよっ！\u3000忍者の里、最高～っ！」"
 translation = "「벌써 처음부터 마음에 쏙 들었다구! 닌자 마을 최고~!」"
 
 [[dialogue]]
-speaker = "ヨミ"
+speaker_original = "ヨミ"
+speaker_translation = "요미"
 original = "「はい、最初はビックリしましたけど慣れれば楽しいかもです」"
 translation = "「네, 처음에는 깜짝 놀랐지만 익숙해지면 즐거울지도 몰라요.」"
 
 [[dialogue]]
-speaker = "せつな"
+speaker_original = "せつな"
+speaker_translation = "세츠나"
 original = "「それは何よりでござった。では、これからせつなの師匠にご挨拶するでござるよ～！」"
 translation = "「그거 다행이오 소. 그럼, 이제부터 세츠나의 스승님께 인사드리러 가겠소 소~!」"
 

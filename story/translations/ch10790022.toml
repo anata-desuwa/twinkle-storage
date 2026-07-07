@@ -19,7 +19,8 @@ original = "うわっ！？"
 translation = "우왓!?"
 
 [[dialogue]]
-speaker = "パテル"
+speaker_original = "パテル"
+speaker_translation = "파텔"
 original = "「ヤッホー♪\u3000あなたの死神、パテルちゃんだよ♪」"
 translation = "「얏호♪ 당신의 사신, 파텔짱이야♪」"
 
@@ -29,147 +30,176 @@ original = "どうしてパテルがここに？"
 translation = "어째서 파텔이 여기에?"
 
 [[dialogue]]
-speaker = "パテル"
+speaker_original = "パテル"
+speaker_translation = "파텔"
 original = "「ちょっとこの辺で人に会っててね。魔王も知ってる人だよ」"
 translation = "「잠깐 이 근처에서 사람을 만나고 있었거든. 마왕도 아는 사람이야」"
 
 [[dialogue]]
-speaker = "レイラ"
+speaker_original = "レイラ"
+speaker_translation = "레이라"
 original = "「うぅ、やっぱり秋葉原でもパーツが暴騰してる……」"
 translation = "「우으, 역시 아키하바라에서도 부품값이 폭등하고 있어……」"
 
 [[dialogue]]
-speaker = "レイラ"
+speaker_original = "レイラ"
+speaker_translation = "레이라"
 original = "「メモリもＣＰＵもグラボも値上げの魔の手に……まだ電源しか新しいの買えてないのに、血も涙もない……」"
 translation = "「메모리도 CPU도 그래픽 카드도 가격 인상의 마수에…… 아직 파워 서플라이밖에 새 걸로 못 샀는데, 피도 눈물도 없어……」"
 
 [[dialogue]]
-speaker = "レイラ"
+speaker_original = "レイラ"
+speaker_translation = "레이라"
 original = "「救いは……<ruby>自作ｅｒ<rt>ジサカー</rt></ruby>に救いはないんですか！？\u3000このままだと一生パソコンが組めなくて、<ruby>自作ｅｒ<rt>ジサカー</rt></ruby>は死に絶えてしまいますっ……！」"
 translation = "「구원은…… 자작러에게 구원은 없는 건가요!? 이대로라면 평생 컴퓨터를 조립하지 못해서, 자작러는 멸종해버리고 말 거예요……!」"
 
 [[dialogue]]
-speaker = "パテル"
+speaker_original = "パテル"
+speaker_translation = "파텔"
 original = "「やぁ、あなたがコラプサーのレイラだよね？」"
 translation = "「여어, 네가 콜랩서의 레이라지?」"
 
 [[dialogue]]
-speaker = "レイラ"
+speaker_original = "レイラ"
+speaker_translation = "레이라"
 original = "「ひゃあっ！？\u3000し、死神！？\u3000とうとう自作ｅｒに終焉の時が！？」"
 translation = "「히익!? 사, 사신!? 드디어 자작러에게 종언의 때가!?」"
 
 [[dialogue]]
-speaker = "パテル"
+speaker_original = "パテル"
+speaker_translation = "파텔"
 original = "「あたしは『淘汰』の摂理を司る守護天使、《試練》のパテル。ジサなんとかは知らないけど、死神なのはほんとだよ」"
 translation = "「나는 『도태』의 섭리를 다스리는 수호천사, 《시련》의 파텔. 자작 뭐시기는 모르겠지만, 사신인 건 진짜야」"
 
 [[dialogue]]
-speaker = "レイラ"
+speaker_original = "レイラ"
+speaker_translation = "레이라"
 original = "「は、はぁ……？\u3000その死神さんが私に何のご用でしょうか？」"
 translation = "「하, 하아……? 그 사신님이 저에게 무슨 용건이신가요?」"
 
 [[dialogue]]
-speaker = "パテル"
+speaker_original = "パテル"
+speaker_translation = "파텔"
 original = "「あなたたちコラプサーは一度死に、ブラックホールの星力によって蘇った。だけどそれは不完全な蘇生だった」"
 translation = "「너희 콜랩서는 한 번 죽었고, 블랙홀의 성력에 의해 되살아났어. 하지만 그건 불완전한 소생이었지」"
 
 [[dialogue]]
-speaker = "パテル"
+speaker_original = "パテル"
+speaker_translation = "파텔"
 original = "「再び死の窮地に立たされたあなたたちは、朝比奈コハルコの魔法によって、今度こそ生を取り戻した。……そうだよね？」"
 translation = "「다시금 죽음의 궁지에 몰렸던 너희는, 아사히나 코하루코의 마법에 의해, 이번에야말로 생명을 되찾았어. ……그렇지?」"
 
 [[dialogue]]
-speaker = "レイラ"
+speaker_original = "レイラ"
+speaker_translation = "레이라"
 original = "「……はい、そうです。間違いありません」"
 translation = "「……네, 맞아요. 틀림없습니다」"
 
 [[dialogue]]
-speaker = "パテル"
+speaker_original = "パテル"
+speaker_translation = "파텔"
 original = "「一度死んだはずのコラプサーは、本来あたしが連れていかなくちゃいけない存在だったんだけど──」"
 translation = "「한 번 죽었어야 할 콜랩서는, 본래 내가 데려가야 할 존재였지만──」"
 
 [[dialogue]]
-speaker = "レイラ"
+speaker_original = "レイラ"
+speaker_translation = "레이라"
 original = "「私、死神に連れていかれちゃうんですか！？」"
 translation = "「저, 사신님께 끌려가 버리는 건가요!?」"
 
 [[dialogue]]
-speaker = "レイラ"
+speaker_original = "レイラ"
+speaker_translation = "레이라"
 original = "「せ、せめてその前に、持ってるパーツでパソコンを組ませてくださいっ。買ったまま使ってないパーツがたくさんあるんです！」"
 translation = "「저, 적어도 그전에, 가지고 있는 부품으로 컴퓨터를 조립하게 해주세요. 산 채로 쓰지 않은 부품이 잔뜩 있단 말이에요!」"
 
 [[dialogue]]
-speaker = "レイラ"
+speaker_original = "レイラ"
+speaker_translation = "레이라"
 original = "「あと期間限定タツタバーガーも食べたいし、てり玉も食べなきゃだし、冬のグラタンバーガーも食べる予定だし──ああっ、月見もあるんだった！」"
 translation = "「그리고 기간 한정 타츠타 버거도 먹고 싶고, 테리타마도 먹어야 하고, 겨울의 그라탕 버거도 먹을 예정이고── 아앗, 츠키미도 있었지!」"
 
 [[dialogue]]
-speaker = "パテル"
+speaker_original = "パテル"
+speaker_translation = "파텔"
 original = "「せめてになってない気がするんだけど……。全然死ぬ気ないじゃん」"
 translation = "「'적어도'가 아닌 것 같은데……. 전혀 죽을 생각이 없잖아.」"
 
 [[dialogue]]
-speaker = "パテル"
+speaker_original = "パテル"
+speaker_translation = "파텔"
 original = "「大丈夫。あなたも、あなたの仲間も、連れていくつもりはないよ」"
 translation = "「괜찮아. 너도, 네 동료도, 데려갈 생각은 없어.」"
 
 [[dialogue]]
-speaker = "パテル"
+speaker_original = "パテル"
+speaker_translation = "파텔"
 original = "「あなたたちは生者に戻り、試練を乗り越えた。かなり反則スレスレだったけど」"
 translation = "「너희는 생자로 돌아왔고, 시련을 극복했어. 꽤 반칙에 아슬아슬하긴 했지만.」"
 
 [[dialogue]]
-speaker = "パテル"
+speaker_original = "パテル"
+speaker_translation = "파텔"
 original = "「今は不完全な蘇生を受けた時の影響がないか観察してるから、一応伝えておこうと思っただけ」"
 translation = "「지금은 불완전한 소생을 받았을 때의 영향이 없는지 관찰하고 있으니까, 일단 전해 두려고 생각했을 뿐이야.」"
 
 [[dialogue]]
-speaker = "レイラ"
+speaker_original = "レイラ"
+speaker_translation = "레이라"
 original = "「ほっ……」"
 translation = "「휴우……」"
 
 [[dialogue]]
-speaker = "パテル"
+speaker_original = "パテル"
+speaker_translation = "파텔"
 original = "「コハルコに蘇生される前だったら、連れていってたけどね」"
 translation = "「코하루코에게 소생되기 전이었다면, 데려갔겠지만 말이야.」"
 
 [[dialogue]]
-speaker = "レイラ"
+speaker_original = "レイラ"
+speaker_translation = "레이라"
 original = "「ひぃぃぃっ！？」"
 translation = "「히이이익!?」"
 
 [[dialogue]]
-speaker = "パテル"
+speaker_original = "パテル"
+speaker_translation = "파텔"
 original = "「コラプサーの黒幕であるイザベラも、本当はあたしが連れていかなきゃいけない存在だった。秋葉原に張ったあの結界は、あたしを寄せ付けないためでもあったんだろうね」"
 translation = "「콜랩서의 흑막인 이자벨라도, 사실은 내가 데려가야 할 존재였어. 아키하바라에 쳤던 그 결계는, 나를 접근하지 못하게 하기 위함이기도 했겠지.」"
 
 [[dialogue]]
-speaker = "パテル"
+speaker_original = "パテル"
+speaker_translation = "파텔"
 original = "「あと、<ruby>封理再誕<rt>レナトゥス</rt></ruby>の魔法で生まれ変わったあなたも観察対象だから、一応忘れないでね」"
 translation = "「그리고, 봉리재탄 마법으로 다시 태어난 너도 관찰 대상이니까, 일단 잊지 마.」"
 
 [[dialogue]]
-speaker = "パテル"
+speaker_original = "パテル"
+speaker_translation = "파텔"
 original = "「で、魔王は何してたの──って、漫画買ってたんだ」"
 translation = "「그나저나, 마왕은 뭐 하고 있었어── 라니, 만화 사고 있었네.」"
 
 [[dialogue]]
-speaker = "パテル"
+speaker_original = "パテル"
+speaker_translation = "파텔"
 original = "「ちょっと気になるなぁ～。じゃ、魔王のおうちにお邪魔させてもらうね♪」"
 translation = "「조금 궁금한걸~. 그럼, 마왕의 집에 실례 좀 할게♪」"
 
 [[dialogue]]
-speaker = "パテル"
+speaker_original = "パテル"
+speaker_translation = "파텔"
 original = "「どんな漫画買ったの？\u3000見せて見せて～」"
 translation = "「어떤 만화 샀어? 보여줘 보여줘~」"
 
 [[dialogue]]
-speaker = "パテル"
+speaker_original = "パテル"
+speaker_translation = "파텔"
 original = "「けっこうグロくて刺激が強い？\u3000へーきへーき、あたし死神だよ？」"
 translation = "「꽤 고어하고 자극이 강해? 괜찮아 괜찮아, 나 사신이라구?」"
 
 [[dialogue]]
-speaker = "パテル"
+speaker_original = "パテル"
+speaker_translation = "파텔"
 original = "「どれどれ……ふーん、へー、ほーん」"
 translation = "「어디 보자…… 흐음, 헤에, 호오.」"
 
@@ -179,7 +209,8 @@ original = "めちゃくちゃ冷めてる！？"
 translation = "엄청나게 식어있어!?"
 
 [[dialogue]]
-speaker = "パテル"
+speaker_original = "パテル"
+speaker_translation = "파텔"
 original = "「動物なんて、文字通り一皮剥けば血と肉と骨の塊だ。言われなくても知ってるし、そんなの見せつけられたって、何の感情も浮かばないよ」"
 translation = "「동물 따위, 말 그대로 한 꺼풀 벗기면 피와 살과 뼈의 덩어리야. 말하지 않아도 알고 있고, 그런 걸 보여준대도 아무런 감정도 들지 않아.」"
 
@@ -189,82 +220,98 @@ original = "じゃあこっちはどう？"
 translation = "그럼 이건 어때?"
 
 [[dialogue]]
-speaker = "パテル"
+speaker_original = "パテル"
+speaker_translation = "파텔"
 original = "「派遣社員の女性が、仕事の疲れをご飯で癒すグルメ漫画？\u3000全然刺激的じゃなさそうだけど……」"
 translation = "「파견 사원인 여성이, 일의 피로를 음식으로 치유하는 구르메 만화? 전혀 자극적이지 않아 보이는데……」"
 
 [[dialogue]]
-speaker = "パテル"
+speaker_original = "パテル"
+speaker_translation = "파텔"
 original = "「ん？\u3000あれ？\u3000いきなりおっきなお弁当食べだしたけど……２０００キロカロリー……？」"
 translation = "「응? 어라? 갑자기 커다란 도시락을 먹기 시작했는데…… 2000킬로칼로리……?」"
 
 [[dialogue]]
-speaker = "パテル"
+speaker_original = "パテル"
+speaker_translation = "파텔"
 original = "「一日の摂取量じゃなくて？\u3000一食で？\u3000女性の一日の摂取カロリーの目安は１８００キロカロリーだよ？」"
 translation = "「하루 섭취량이 아니라? 한 끼에? 여성의 하루 권장 섭취 칼로리는 1800킬로칼로리라구?」"
 
 [[dialogue]]
-speaker = "パテル"
+speaker_original = "パテル"
+speaker_translation = "파텔"
 original = "「そんなの一気に食べたら……うわぁあっ！？\u3000意識が飛んでるっ！？\u3000こんなの死んじゃうよぉっ！？」"
 translation = "「그런 걸 단숨에 먹으면…… 우와앗!? 의식이 날아가고 있어!? 이런 건 죽어버린다구!」"
 
 [[dialogue]]
-speaker = "パテル"
+speaker_original = "パテル"
+speaker_translation = "파텔"
 original = "「はぁ、はぁ……あたし、どうしてこんなの読んでるんだ……？」"
 translation = "「하아, 하아…… 나, 어째서 이런 걸 읽고 있는 거지……?」"
 
 [[dialogue]]
-speaker = "パテル"
+speaker_original = "パテル"
+speaker_translation = "파텔"
 original = "「え、仕事から帰ってきてまだ食べるの？\u3000お米そんなにいらないって！\u3000１合炊けば十分だってば！」"
 translation = "「에, 일하고 돌아와서 또 먹어? 쌀 그렇게나 필요 없다니까! 1홉만 지으면 충분하다니까!」"
 
 [[dialogue]]
-speaker = "パテル"
+speaker_original = "パテル"
+speaker_translation = "파텔"
 original = "「一日の摂取カロリーは……５０００キロカロリー！？\u3000いや、だから成人女性のカロリーは１８００だって！\u3000倍以上いってるってば！」"
 translation = "「하루 섭취 칼로리는…… 5000킬로칼로리!? 아니, 그러니까 성인 여성 칼로리는 1800이라니까! 배 이상 넘어가고 있잖아!」"
 
 [[dialogue]]
-speaker = "パテル"
+speaker_original = "パテル"
+speaker_translation = "파텔"
 original = "「ていうかこれ、塩分もものすごいことになってるんじゃ……わぁっ！？\u3000さらに塩振り出した！？\u3000もう塩そのまま食べてるようなものだよ！？」"
 translation = "「그보다 이거, 염분도 엄청난 거 아냐…… 와앗!? 거기다 소금을 더 뿌려!? 이건 그냥 소금을 그대로 먹는 거나 마찬가지잖아!?」"
 
 [[dialogue]]
-speaker = "パテル"
+speaker_original = "パテル"
+speaker_translation = "파텔"
 original = "「一日の塩分の摂取目安量は７グラムくらい……でもこれ倍とかそういうレベルじゃないよ……」"
 translation = "「하루 염분 섭취 권장량은 7그램 정도…… 하지만 이건 배라든가 그런 수준이 아니야……」"
 
 [[dialogue]]
-speaker = "パテル"
+speaker_original = "パテル"
+speaker_translation = "파텔"
 original = "「ひやぁああっ！？\u3000ベーコンの塊にマヨネーズぶっかけちゃダメダメダメぇっ！？\u3000血糖値も血圧もぶっ壊れちゃうっ！？」"
 translation = "「히야아앗!? 베이컨 덩어리에 마요네즈를 들이부으면 안 돼 안 돼 안 돼!? 혈당치도 혈압도 박살 나버린다구!?」"
 
 [[dialogue]]
-speaker = "パテル"
+speaker_original = "パテル"
+speaker_translation = "파텔"
 original = "「なんだこれ！？\u3000これもうグルメ漫画じゃないよ！\u3000死神いじめだよ！？」"
 translation = "「뭐야 이거!? 이건 이제 구르메 만화가 아니야! 사신 괴롭히기라구!?」"
 
 [[dialogue]]
-speaker = "パテル"
+speaker_original = "パテル"
+speaker_translation = "파텔"
 original = "「生きるために食べてるはずなのに、どうして食べながら傷ついていくの……？\u3000こんなの……こんなの……」"
 translation = "「살기 위해서 먹는 것일 텐데, 어째서 먹으면서 상처 입어가는 거야……? 이런 건…… 이런 건……」"
 
 [[dialogue]]
-speaker = "パテル"
+speaker_original = "パテル"
+speaker_translation = "파텔"
 original = "「命をなんだと思ってるんだ！！！」"
 translation = "「생명을 뭐라고 생각하는 거야!!!」"
 
 [[dialogue]]
-speaker = "パテル"
+speaker_original = "パテル"
+speaker_translation = "파텔"
 original = "「はぁ……はぁ……なんてものを作るんだ、人類は……！」"
 translation = "「하아…… 하아…… 대체 뭘 만드는 거야, 인류는……!」"
 
 [[dialogue]]
-speaker = "パテル"
+speaker_original = "パテル"
+speaker_translation = "파텔"
 original = "「ねぇ、魔王……」"
 translation = "「저기, 마왕……」"
 
 [[dialogue]]
-speaker = "パテル"
+speaker_original = "パテル"
+speaker_translation = "파텔"
 original = "「魔王はこんな生活しないで、少しは健康に気を遣ってね。あたし心配だよ……」"
 translation = "「마왕은 이런 생활 하지 말고, 조금은 건강에 신경 써줘. 나 걱정된다구……」"
 

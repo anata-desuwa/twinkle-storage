@@ -4,22 +4,26 @@ original = "第４話,一緒におじいさんとおばあさんに,P"
 translation = "제4화, 함께 할아버지 할머니가 되기로"
 
 [[dialogue]]
-speaker = "ナミエル"
+speaker_original = "ナミエル"
+speaker_translation = "나미엘"
 original = "「やはりもう……終わりにしないとです」"
 translation = "「역시 이제…… 끝내야겠어요.」"
 
 [[dialogue]]
-speaker = "ナミエル"
+speaker_original = "ナミエル"
+speaker_translation = "나미엘"
 original = "「ん……ひゃっ！？\u3000な、なぜ緋宮会長がこちらにっ……」"
 translation = "「음…… 히얏!? 어, 어째서 히노미야 회장님이 여기에……」"
 
 [[dialogue]]
-speaker = "ナミエル"
+speaker_original = "ナミエル"
+speaker_translation = "나미엘"
 original = "「あ……いつの間にかこんな時間に……。買い出しから中々帰ってこない私を探しに来た、ということですか？」"
 translation = "「아…… 어느새 이런 시간이……. 장 보러 가서 좀처럼 돌아오지 않는 저를 찾으러 왔다, 는 건가요?」"
 
 [[dialogue]]
-speaker = "ナミエル"
+speaker_original = "ナミエル"
+speaker_translation = "나미엘"
 original = "「ご心配をおかけしました。しかし大丈夫です。買い物帰りにふと式場が目に入って。それでつい立ち寄ってしまっただけなので」"
 translation = "「걱정 끼쳐 드렸습니다. 하지만 괜찮아요. 장보고 돌아오는 길에 문득 식장이 눈에 들어와서. 그래서 그만 들러버린 것뿐이니까요.」"
 
@@ -29,22 +33,26 @@ original = "俺との結婚を意識してくれてた？"
 translation = "나와의 결혼을 의식하고 있었어?"
 
 [[dialogue]]
-speaker = "ナミエル"
+speaker_original = "ナミエル"
+speaker_translation = "나미엘"
 original = "「……馬鹿言わないでください。しませんよ、結婚なんて。学生時代の恋人が結婚まで到達することなんてほとんどありません」"
 translation = "「……바보 같은 소리 마세요. 안 해요, 결혼 같은 거. 학창 시절의 연인이 결혼까지 도달하는 일은 거의 없으니까요.」"
 
 [[dialogue]]
-speaker = "ナミエル"
+speaker_original = "ナミエル"
+speaker_translation = "나미엘"
 original = "「私も最近は少々浮かれすぎておりました。きっと先日の花嫁騒動も相まって頭に虫でも湧いていたのですね」"
 translation = "「저도 요새는 조금 너무 들떠 있었나 봐요. 분명 요전번의 신부 소동도 겹쳐서 머리에 벌레라도 꼬였던 거겠죠.」"
 
 [[dialogue]]
-speaker = "ナミエル"
+speaker_original = "ナミエル"
+speaker_translation = "나미엘"
 original = "「その虫は綺麗さっぱり掃除いたしました。……ああ、そうです。ちょうど緋宮会長にお話したいこともあったんです」"
 translation = "「그 벌레는 깨끗하게 청소했습니다. ……아아, 맞아요. 마침 히노미야 회장님께 드리고 싶은 말씀도 있었어요.」"
 
 [[dialogue]]
-speaker = "ナミエル"
+speaker_original = "ナミエル"
+speaker_translation = "나미엘"
 original = "「今までとても楽しい時間を過ごさせていただきました。だけどもう、私とは別れ──」"
 translation = "「지금까지 아주 즐거운 시간을 보냈습니다. 하지만 이제, 저와는 헤어──」"
 
@@ -54,12 +62,14 @@ original = "絶対に別れないよ"
 translation = "절대로 헤어지지 않아"
 
 [[dialogue]]
-speaker = "ナミエル"
+speaker_original = "ナミエル"
+speaker_translation = "나미엘"
 original = "「……何故ですか。女性のお知り合いでしたら私の他にもいくらでもおりますよね。私でなくてもいいはずです」"
 translation = "「……어째서인가요. 여성 지인이라면 저 말고도 얼마든지 있잖아요. 제가 아니어도 될 텐데요.」"
 
 [[dialogue]]
-speaker = "ナミエル"
+speaker_original = "ナミエル"
+speaker_translation = "나미엘"
 original = "「私は……やっぱり１人がいいです。１人の方が気楽だと、あなたとお付き合いして気付きました」"
 translation = "「저는…… 역시 혼자가 좋아요. 혼자인 편이 편하다는 걸 당신과 사귀면서 깨달았어요.」"
 
@@ -69,72 +79,86 @@ original = "俺のことが嫌いになったのか？"
 translation = "내가 싫어진 거야?"
 
 [[dialogue]]
-speaker = "ナミエル"
+speaker_original = "ナミエル"
+speaker_translation = "나미엘"
 original = "「そうではありません。むしろ……」"
 translation = "「그렇지 않아요. 오히려……」"
 
 [[dialogue]]
-speaker = "ナミエル"
+speaker_original = "ナミエル"
+speaker_translation = "나미엘"
 original = "「私は、怖いんです。あなたとお付き合いしていて幸せになっていく自分が」"
 translation = "「저는 무서워요. 당신과 사귀면서 행복해져 가는 제 자신이.」"
 
 [[dialogue]]
-speaker = "ナミエル"
+speaker_original = "ナミエル"
+speaker_translation = "나미엘"
 original = "「あなたをどんどん好きになっていく自分が。恋人に留まらず、結婚や、子供ができた時のことまで考えてしまう自分が」"
 translation = "「당신을 점점 좋아하게 되는 제 자신이. 연인에 머물지 않고 결혼이나 아이가 생겼을 때의 일까지 생각해 버리는 제 자신이.」"
 
 [[dialogue]]
-speaker = "ナミエル"
+speaker_original = "ナミエル"
+speaker_translation = "나미엘"
 original = "「以前お話しましたよね。私は幼い頃に事故で両親を亡くしてしまい、以来、暗殺者として育てられるようになった……と」"
 translation = "「이전에 말씀드렸죠. 저는 어릴 적 사고로 부모님을 잃고, 그 후 암살자로 길러졌다고……」"
 
 [[dialogue]]
-speaker = "ナミエル"
+speaker_original = "ナミエル"
+speaker_translation = "나미엘"
 original = "「もう忘れたと思っていたのに……緋宮会長と過ごしていると、暗殺者時代になくしたはずの感情が蘇ってくるんです」"
 translation = "「이미 잊었다고 생각했는데…… 히노미야 회장님과 지내다 보면 암살자 시절에 잃어버렸을 터인 감정이 되살아나요.」"
 
 [[dialogue]]
-speaker = "ナミエル"
+speaker_original = "ナミエル"
+speaker_translation = "나미엘"
 original = "「家族みんなで幸せに暮らしていた頃を。二度と戻ってこないあのキラキラした毎日を……」"
 translation = "「가족 모두가 행복하게 살던 시절을. 두 번 다시 돌아오지 않을 그 반짝이던 나날을……」"
 
 [[dialogue]]
-speaker = "ナミエル"
+speaker_original = "ナミエル"
+speaker_translation = "나미엘"
 original = "「だからこそ、怖いんです。これ以上あなたと仲良くなることが。このままお付き合いを続けてしまうことが」"
 translation = "「그렇기에 무서운 거예요. 이 이상 당신과 사이가 좋아지는 것이. 이대로 교제를 계속해 버리는 것이.」"
 
 [[dialogue]]
-speaker = "ナミエル"
+speaker_original = "ナミエル"
+speaker_translation = "나미엘"
 original = "「私は……あなたが思っている以上にあなたを好きなんです。このまま恋人でいたら、必ず結婚してしまうほど愛しているんです」"
 translation = "「저는…… 당신이 생각하는 것 이상으로 당신을 좋아해요. 이대로 연인으로 있으면 반드시 결혼해 버릴 정도로 사랑하고 있다고요.」"
 
 [[dialogue]]
-speaker = "ナミエル"
+speaker_original = "ナミエル"
+speaker_translation = "나미엘"
 original = "「結婚生活はきっと、いいえ、絶対に幸せで幸せでたまりません。毎日が楽しくて楽しくて仕方ないと容易に想像できます」"
 translation = "「결혼 생활은 분명, 아니, 절대로 행복해서 견딜 수 없을 거예요. 매일매일이 즐거워서 어쩔 줄 모를 거라는 걸 쉽게 상상할 수 있어요.」"
 
 [[dialogue]]
-speaker = "ナミエル"
+speaker_original = "ナミエル"
+speaker_translation = "나미엘"
 original = "「だけど私は……それが怖い、恐ろしい。あなたが大切になればなるほど、幸せな明日を想像すればするほど」"
 translation = "「하지만 저는…… 그게 무서워요, 두려워요. 당신이 소중해지면 소중해질수록, 행복한 내일을 상상하면 상상할수록.」"
 
 [[dialogue]]
-speaker = "ナミエル"
+speaker_original = "ナミエル"
+speaker_translation = "나미엘"
 original = "「失ってしまった時のことを考えて苦しくなります。私は命の儚さを知っていますから」"
 translation = "「잃어버렸을 때의 일을 생각하면 괴로워져요. 저는 생명의 허무함을 알고 있으니까요.」"
 
 [[dialogue]]
-speaker = "ナミエル"
+speaker_original = "ナミエル"
+speaker_translation = "나미엘"
 original = "「もしあなたが私の前からいなくなったらと思うと……それだけで耐えられません──！」"
 translation = "「만약 당신이 제 앞에서 사라진다고 생각하면…… 그것만으로 견딜 수 없어요──!」"
 
 [[dialogue]]
-speaker = "ナミエル"
+speaker_original = "ナミエル"
+speaker_translation = "나미엘"
 original = "「だからお別れしてください。私をこれ以上、幸せになんてしないで──……んんっ！？」"
 translation = "「그러니까 헤어져 주세요. 저를 이 이상 행복하게 만들지 말아── 응읏!?」"
 
 [[dialogue]]
-speaker = "ナミエル"
+speaker_original = "ナミエル"
+speaker_translation = "나미엘"
 original = "「んっ……！！」"
 translation = "「응……!!」"
 
@@ -144,12 +168,14 @@ original = "俺はナミエルの前から絶対にいなくならないよ"
 translation = "나는 나미엘 앞에서 절대로 사라지지 않아"
 
 [[dialogue]]
-speaker = "ナミエル"
+speaker_original = "ナミエル"
+speaker_translation = "나미엘"
 original = "「うぅ……！\u3000そんなこと囁かないでください。優しく抱き締めないでください」"
 translation = "「우으……! 그런 말 속삭이지 마세요. 상냥하게 안아주지 마세요.」"
 
 [[dialogue]]
-speaker = "ナミエル"
+speaker_original = "ナミエル"
+speaker_translation = "나미엘"
 original = "「別れが、ひっく、辛くなります。別れたく、ぐす、なくなっちゃいます」"
 translation = "「이별이, 히끅, 괴로워지잖아요. 헤어지기, 구스, 싫어져 버린단 말이에요.」"
 
@@ -159,97 +185,116 @@ original = "一緒におじいさんとおばあさんになるって誓うよ"
 translation = "함께 할아버지 할머니가 되겠다고 맹세할게"
 
 [[dialogue]]
-speaker = "ナミエル"
+speaker_original = "ナミエル"
+speaker_translation = "나미엘"
 original = "「緋宮、会長……」"
 translation = "「히노미야, 회장님……」"
 
 [[dialogue]]
-speaker = "ナミエル"
+speaker_original = "ナミエル"
+speaker_translation = "나미엘"
 original = "「なんですか、これ……。どうして私、変身なんかして……」"
 translation = "「뭡니까, 이거……. 어째서 저, 변신 같은 걸 하고……」"
 
 [[dialogue]]
-speaker = "ナミエル"
+speaker_original = "ナミエル"
+speaker_translation = "나미엘"
 original = "「これじゃまるで、ひっく、私がプロポーズを受け入れてるみたいじゃないですか。なぜ涙が、ぐすっ、とまらないのです……」"
 translation = "「이러면 마치, 히끅, 제가 프로포즈를 받아들인 것 같잖아요. 왜 눈물이, 구슷, 멈추지 않는 건가요……」"
 
 [[dialogue]]
-speaker = "ナミエル"
+speaker_original = "ナミエル"
+speaker_translation = "나미엘"
 original = "「本当に……誓ってくださるのですか？\u3000私の前から絶対にいなくなりませんか？」"
 translation = "「정말로…… 맹세해 주시는 건가요? 제 앞에서 절대로 사라지지 않겠다고요?」"
 
 [[dialogue]]
-speaker = "ナミエル"
+speaker_original = "ナミエル"
+speaker_translation = "나미엘"
 original = "「あっ……ん、んちゅっ、ふぁ、んふぅん……<emoji=heart04>」"
 translation = "「앗…… 응, 응츄, 화, 응후우운……<emoji=heart04>」"
 
 [[dialogue]]
-speaker = "ナミエル"
+speaker_original = "ナミエル"
+speaker_translation = "나미엘"
 original = "「バ、バカですか。返事の仕方が、えっちいです……。あんまりそういうえっちなことばかりすると、お掃除しますからね……？」"
 translation = "「바, 바보인가요. 대답하는 방식이 야해요……. 자꾸 그렇게 야한 짓만 하면 청소해 버릴 테니까요……?」"
 
 [[dialogue]]
-speaker = "ナミエル"
+speaker_original = "ナミエル"
+speaker_translation = "나미엘"
 original = "「だけど……ふふ。嬉しいです。とても、幸せです……」"
 translation = "「하지만…… 후후. 기뻐요. 아주 행복해요……」"
 
 [[dialogue]]
-speaker = "ナミエル"
+speaker_original = "ナミエル"
+speaker_translation = "나미엘"
 original = "「私はもうとっくにあなたから、んっ、ちゅっ……<emoji=heart04>\u3000離れられなくなっていたのですね……<emoji=heart04>」"
 translation = "「저는 이미 진작에 당신에게서, 응, 츄……<emoji=heart04> 떨어질 수 없게 되어버렸던 거군요……<emoji=heart04>」"
 
 [[dialogue]]
-speaker = "ナミエル"
+speaker_original = "ナミエル"
+speaker_translation = "나미엘"
 original = "「別れるのはやめにします。あなたを信じて、あなたと結婚してあげることにします」"
 translation = "「헤어지는 건 그만두겠어요. 당신을 믿고 당신과 결혼해 주기로 할게요.」"
 
 [[dialogue]]
-speaker = "ナミエル"
+speaker_original = "ナミエル"
+speaker_translation = "나미엘"
 original = "「幸せに、してくださいね？\u3000私、最期の最期まで笑っていたいです」"
 translation = "「행복하게 해 주세요, 아시겠죠? 저, 마지막의 마지막까지 웃고 싶어요.」"
 
 [[dialogue]]
-speaker = "ナミエル"
+speaker_original = "ナミエル"
+speaker_translation = "나미엘"
 original = "「あなたと結婚して良かったって、最期の最期までそう思っていられる人生にしたいです」"
 translation = "「당신과 결혼해서 다행이라고 마지막의 마지막까지 그렇게 생각할 수 있는 인생으로 만들고 싶어요.」"
 
 [[dialogue]]
-speaker = "ナミエル"
+speaker_original = "ナミエル"
+speaker_translation = "나미엘"
 original = "「私も頑張りますから。差し当たってはお料理のお勉強に励もうと思います」"
 translation = "「저도 노력할 테니까요. 우선은 요리 공부에 힘쓰려고 해요.」"
 
 [[dialogue]]
-speaker = "ナミエル"
+speaker_original = "ナミエル"
+speaker_translation = "나미엘"
 original = "「長寿のためには健康管理が大事ですからね。栄養のある美味しいものを、あなたに……だ、旦那様に作ってあげたいんです」"
 translation = "「장수하려면 건강 관리가 중요하니까요. 영양가 있고 맛있는 것을 당신에게…… 다, 당신, 서방님께 만들어 드리고 싶어요.」"
 
 [[dialogue]]
-speaker = "ナミエル"
+speaker_original = "ナミエル"
+speaker_translation = "나미엘"
 original = "「食べて、くれますか？\u3000私の手料理、毎日食べていただけますか……？」"
 translation = "「먹어 주실 건가요? 제 손맛, 매일 드셔 주실 건가요……?」"
 
 [[dialogue]]
-speaker = "ナミエル"
+speaker_original = "ナミエル"
+speaker_translation = "나미엘"
 original = "「私をあなたの花嫁に……お嫁さんに、していただけますか？」"
 translation = "「저를 당신의 신부로…… 아내로 삼아 주시겠어요?」"
 
 [[dialogue]]
-speaker = "ナミエル"
+speaker_original = "ナミエル"
+speaker_translation = "나미엘"
 original = "「あ……んっ、んふ、んちゅっ、んんっ……<emoji=heart04>」"
 translation = "「아…… 응, 응후, 응츄, 응읏……<emoji=heart04>」"
 
 [[dialogue]]
-speaker = "ナミエル"
+speaker_original = "ナミエル"
+speaker_translation = "나미엘"
 original = "「えへへ……だから返事の仕方がえっちいですよ<emoji=heart04>」"
 translation = "「에헤헤…… 그러니까 대답하는 방식이 야하다니까요<emoji=heart04>」"
 
 [[dialogue]]
-speaker = "ナミエル"
+speaker_original = "ナミエル"
+speaker_translation = "나미엘"
 original = "「不束者ですが末永くよろしくお願いしますね？」"
 translation = "「부족한 사람이지만 오랫동안 잘 부탁드려요?」"
 
 [[dialogue]]
-speaker = "ナミエル"
+speaker_original = "ナミエル"
+speaker_translation = "나미엘"
 original = "「私の世界で一番大好きな……旦那、さま……<emoji=heart04>」"
 translation = "「제 세상에서 제일 좋아하는…… 서방, 님……<emoji=heart04>」"
 

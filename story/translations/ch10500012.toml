@@ -4,32 +4,38 @@ original = "第２話,ウラとオモテ,P"
 translation = "제2화, 겉과 속, P"
 
 [[dialogue]]
-speaker = "ヨミ"
+speaker_original = "ヨミ"
+speaker_translation = "요미"
 original = "「ご注文はお決まりですか？」"
 translation = "「주문하시겠어요?」"
 
 [[dialogue]]
-speaker = "フロレンシア"
+speaker_original = "フロレンシア"
+speaker_translation = "플로렌시아"
 original = "「会長さんは……はい、コーヒー、砂糖ミルクなしで。会長さんはブラック飲めるんですね。大人ですね」"
 translation = "「회장님은…… 네, 커피, 설탕이랑 우유 없이. 회장님은 블랙을 마실 수 있군요. 어른스럽네요」"
 
 [[dialogue]]
-speaker = "フロレンシア"
+speaker_original = "フロレンシア"
+speaker_translation = "플로렌시아"
 original = "「私はミルクティーでお願いします」"
 translation = "「저는 밀크티로 부탁드릴게요」"
 
 [[dialogue]]
-speaker = "ヨミ"
+speaker_original = "ヨミ"
+speaker_translation = "요미"
 original = "「かしこまりました～。少々お待ちください」"
 translation = "「알겠습니다~. 잠시만 기다려 주세요」"
 
 [[dialogue]]
-speaker = "フロレンシア"
+speaker_original = "フロレンシア"
+speaker_translation = "플로렌시아"
 original = "「お忙しいところお付き合いいただいてありがとうございます。今日はお聞きしたいことがありまして」"
 translation = "「바쁘신 와중에 함께해 주셔서 감사해요. 오늘은 여쭤보고 싶은 게 있어서요」"
 
 [[dialogue]]
-speaker = "フロレンシア"
+speaker_original = "フロレンシア"
+speaker_translation = "플로렌시아"
 original = "「それと、この前はご迷惑をおかけしてしまってすみません……」"
 translation = "「그리고 저번에는 폐를 끼쳐서 죄송해요……」"
 
@@ -39,32 +45,38 @@ original = "大暴れだった"
 translation = "완전 난리도 아니었지"
 
 [[dialogue]]
-speaker = "フロレンシア"
+speaker_original = "フロレンシア"
+speaker_translation = "플로렌시아"
 original = "「うぅ、言わないでくださいよ……あんなにモンスターを相手にするのは初めてで、必死だったんですから」"
 translation = "「으으, 말하지 마세요…… 그렇게 많은 몬스터를 상대하는 건 처음이라 필사적이었으니까요」"
 
 [[dialogue]]
-speaker = "フロレンシア"
+speaker_original = "フロレンシア"
+speaker_translation = "플로렌시아"
 original = "「私、保健委員なのに血が苦手で、血を見ると気絶してしまうんです」"
 translation = "「저, 보건위원인데도 피를 무서워해서 피를 보면 기절해 버려요」"
 
 [[dialogue]]
-speaker = "フロレンシア"
+speaker_original = "フロレンシア"
+speaker_translation = "플로렌시아"
 original = "「でも私が気絶してたのに、気が付いたら傷の治療が終わっているんです」"
 translation = "「하지만 제가 기절해 있었는데도 정신을 차려보면 상처 치료가 끝나 있거든요」"
 
 [[dialogue]]
-speaker = "フロレンシア"
+speaker_original = "フロレンシア"
+speaker_translation = "플로렌시아"
 original = "「こういうことは前から時々あって、決まって治療しようとしていた相手から怖がられるんです」"
 translation = "「이런 일은 전부터 가끔 있었는데, 꼭 치료하려고 했던 상대가 저를 무서워하게 돼요」"
 
 [[dialogue]]
-speaker = "フロレンシア"
+speaker_original = "フロレンシア"
+speaker_translation = "플로렌시아"
 original = "「だけど会長さんは怖がってない……ですよね？\u3000……大丈夫？\u3000なら良かったです」"
 translation = "「하지만 회장님은 무서워하지 않으시……죠? ……괜찮아요? 그렇다면 다행이에요」"
 
 [[dialogue]]
-speaker = "フロレンシア"
+speaker_original = "フロレンシア"
+speaker_translation = "플로렌시아"
 original = "「私が気絶している間、何が起こったのか、会長さんに教えてほしいんです。きっと会長さんなら全部知ってるから……」"
 translation = "「제가 기절해 있는 동안 무슨 일이 일어났는지 회장님이 알려주셨으면 해요. 분명 회장님이라면 전부 알고 계실 테니까……」"
 
@@ -74,42 +86,50 @@ original = "（正直には言えない……）"
 translation = "(솔직하게는 말할 수 없어……)"
 
 [[dialogue]]
-speaker = "フロレンシア"
+speaker_original = "フロレンシア"
+speaker_translation = "플로렌시아"
 original = "「あれ、その手の傷はどうされたんですか？\u3000……さっき星徒会で書類仕事してる時に？\u3000なるほど、紙ってけっこう切れますもんね」"
 translation = "「어라, 그 손의 상처는 어쩌다 그러셨어요? ……아까 성도회에서 서류 작업할 때요? 과연, 종이는 꽤 잘 베이죠」"
 
 [[dialogue]]
-speaker = "フロレンシア"
+speaker_original = "フロレンシア"
+speaker_translation = "플로렌시아"
 original = "「ひぁっ！？\u3000血が──！？」"
 translation = "「히앗!? 피가──!?」"
 
 [[dialogue]]
-speaker = "ヨミ"
+speaker_original = "ヨミ"
+speaker_translation = "요미"
 original = "「お待たせしました。ミルクティーのお客様──」"
 translation = "「기다리셨습니다. 밀크티 주문하신 손님──」"
 
 [[dialogue]]
-speaker = "フロレンシア？"
+speaker_original = "フロレンシア？"
+speaker_translation = "플로렌시아?"
 original = "「あ、それそっちで」"
 translation = "「아, 그건 저쪽으로」"
 
 [[dialogue]]
-speaker = "ヨミ"
+speaker_original = "ヨミ"
+speaker_translation = "요미"
 original = "「え、あれ？\u3000じゃあコーヒーは……」"
 translation = "「에, 어라? 그럼 커피는……」"
 
 [[dialogue]]
-speaker = "フロレンシア？"
+speaker_original = "フロレンシア？"
+speaker_translation = "플로렌시아?"
 original = "「アタシのだ」"
 translation = "「내 거다」"
 
 [[dialogue]]
-speaker = "ヨミ"
+speaker_original = "ヨミ"
+speaker_translation = "요미"
 original = "「は、はい。ごゆっくりどうぞ～」"
 translation = "「네, 네. 맛있게 드세요~」"
 
 [[dialogue]]
-speaker = "フロレンシア？"
+speaker_original = "フロレンシア？"
+speaker_translation = "플로렌시아?"
 original = "「ズズッ……やっぱりコーヒーはこの苦みがないとな」"
 translation = "「홀짝…… 역시 커피는 이 쓴맛이 있어야지」"
 
@@ -119,57 +139,68 @@ original = "君はフロレンシアじゃない？"
 translation = "너는 플로렌시아가 아니지?"
 
 [[dialogue]]
-speaker = "フロレンシア？"
+speaker_original = "フロレンシア？"
+speaker_translation = "플로렌시아?"
 original = "「あぁん？\u3000どこからどう見てもアタシはフロレンシアだろ。どこに目ぇ付けてんだ会長サン」"
 translation = "「앙? 어디를 봐도 난 플로렌시아잖아. 눈을 어디다 두고 있는 거야, 회장님」"
 
 [[dialogue]]
-speaker = "フロレンシア？"
+speaker_original = "フロレンシア？"
+speaker_translation = "플로렌시아?"
 original = "「──って、しらばっくれても意味ねえか。そうさ、アタシはフロレンシアの裏人格だ」"
 translation = "「──라곤 해도 시치미 떼봤자 의미 없나. 그래, 난 플로렌시아의 뒷인격이다」"
 
 [[dialogue]]
-speaker = "スミカ"
+speaker_original = "スミカ"
+speaker_translation = "스미카"
 original = "「名前は……スミカってことにしとけ。どうでもいいが、呼び名がないと地味に不便だからな」"
 translation = "「이름은…… 스미카라고 해둬. 아무래도 상관없지만 부를 이름이 없으면 지극히 불편하니까 말이야」"
 
 [[dialogue]]
-speaker = "スミカ"
+speaker_original = "スミカ"
+speaker_translation = "스미카"
 original = "「へっ、そんなに身構えなくたっていいじゃねーか。アタシだってれっきとした星騎士なんだからよ」"
 translation = "「헤엣, 그렇게 경계하지 않아도 되잖아. 나도 엄연한 성기사니까 말이야」"
 
 [[dialogue]]
-speaker = "スミカ"
+speaker_original = "スミカ"
+speaker_translation = "스미카"
 original = "「言っとくが、アタシはフロレンシアに危害を加えるつもりはねーし、無理やり乗っ取ってもいねえ」"
 translation = "「말해두겠는데, 난 플로렌시아에게 해를 끼칠 생각은 없고 억지로 몸을 빼앗은 것도 아니야」"
 
 [[dialogue]]
-speaker = "スミカ"
+speaker_original = "スミカ"
+speaker_translation = "스미카"
 original = "「表人格様が意識を失ってる間だけしか出てこれない儚い存在なんだよ、アタシは」"
 translation = "「겉인격 님이 의식을 잃고 있는 동안에만 나올 수 있는 덧없는 존재라고, 나는」"
 
 [[dialogue]]
-speaker = "スミカ"
+speaker_original = "スミカ"
+speaker_translation = "스미카"
 original = "「もちろんフロレンシアが気絶した時に、星術で怪我を治療してるのはこのアタシだ」"
 translation = "「물론 플로렌시아가 기절했을 때 성술로 상처를 치료하고 있는 건 바로 나다」"
 
 [[dialogue]]
-speaker = "スミカ"
+speaker_original = "スミカ"
+speaker_translation = "스미카"
 original = "「しっかしいいよなぁ～、保健委員は。精鋭のはずの星騎士どもが痛い痛いって泣き叫ぶところを見られる特等席なんだからよ」"
 translation = "「그나저나 좋단 말이지~ 보건위원은. 정예라는 성기사 놈들이 아프다며 울부짖는 꼴을 볼 수 있는 특등석이니까 말이야」"
 
 [[dialogue]]
-speaker = "スミカ"
+speaker_original = "スミカ"
+speaker_translation = "스미카"
 original = "「……おいおい、そんなにビビるなって。痛いのは生きてる証だ。つまり命の輝きってやつだ。命を尊び、愛するのは星騎士として当然のことだろぉ？」"
 translation = "「……어이어이, 그렇게 겁먹지 말라고. 아픈 건 살아있다는 증거다. 즉 생명의 광채라는 거지. 생명을 존중하고 사랑하는 건 성기사로서 당연한 거 아니냐?」"
 
 [[dialogue]]
-speaker = "スミカ"
+speaker_original = "スミカ"
+speaker_translation = "스미카"
 original = "「ああそうそう、アタシのことは表人格に言うんじゃねーぞ。アタシが出てこれないようにされたらたまんねぇからな」"
 translation = "「아아 맞다, 내 존재는 겉인격에게 말하지 마라. 내가 나오지 못하게 되면 곤란하니까 말이야」"
 
 [[dialogue]]
-speaker = "スミカ"
+speaker_original = "スミカ"
+speaker_translation = "스미카"
 original = "「もしフロレンシアにチクッたら、会長サンの治療するとき３倍痛くしてやる」"
 translation = "「만약 플로렌시아에게 찌르면 회장님을 치료할 때 3배는 더 아프게 해줄 테니까」"
 
@@ -179,22 +210,26 @@ original = "ヒィッ……！？"
 translation = "히익……!?"
 
 [[dialogue]]
-speaker = "スミカ"
+speaker_original = "スミカ"
+speaker_translation = "스미카"
 original = "「イイ顔だなぁ……どこまで痛みに耐えられるか試してみてえな。キヒヒッ、会長サンがモンスターにズタボロにされるのが楽しみだ」"
 translation = "「좋은 표정이구만…… 어디까지 고통을 참을 수 있는지 시험해 보고 싶네. 키히히, 회장님이 몬스터에게 엉망진창이 되는 게 기대되는걸」"
 
 [[dialogue]]
-speaker = "スミカ"
+speaker_original = "スミカ"
+speaker_translation = "스미카"
 original = "「あ、手ぇ貸せ。……ほら、さっさとしろ」"
 translation = "「아, 손 내밀어. ……자, 빨리빨리」"
 
 [[dialogue]]
-speaker = "スミカ"
+speaker_original = "スミカ"
+speaker_translation = "스미카"
 original = "「よーし、いい子だ。絆創膏貼ってやる。傷が治りやすくなるやつな」"
 translation = "「좋아, 착한 아이네. 반창고 붙여줄게. 상처가 잘 낫게 해주는 놈으로 말이야」"
 
 [[dialogue]]
-speaker = "スミカ"
+speaker_original = "スミカ"
+speaker_translation = "스미카"
 original = "「何驚いてやがる。切り傷ひとつ治すのに、メスで切開するようなムダな真似はしねぇよ。切り刻まれてえならやってやるが」"
 translation = "「뭘 놀라고 자빠졌어. 베인 상처 하나 고치는 데 메스로 절개하는 무식한 짓은 안 해. 난도질당하고 싶다면 해줄 수도 있지만」"
 
@@ -204,27 +239,32 @@ original = "遠慮しておきます"
 translation = "사양하겠습니다"
 
 [[dialogue]]
-speaker = "スミカ"
+speaker_original = "スミカ"
+speaker_translation = "스미카"
 original = "「でもこのまま戻るのも面白そうだな──」"
 translation = "「하지만 이대로 돌아가는 것도 재미있겠네──」"
 
 [[dialogue]]
-speaker = "フロレンシア"
+speaker_original = "フロレンシア"
+speaker_translation = "플로렌시아"
 original = "「あれ……会長さん？」"
 translation = "「어라…… 회장님?」"
 
 [[dialogue]]
-speaker = "フロレンシア"
+speaker_original = "フロレンシア"
+speaker_translation = "플로렌시아"
 original = "「なんで私が会長さんの手を握っているんですか……？\u3000それにどうして会長さんがミルクティーを？\u3000あれ、私コーヒー飲んでる？」"
 translation = "「왜 제가 회장님의 손을 잡고 있는 거죠……? 게다가 왜 회장님이 밀크티를? 어라, 제가 커피를 마시고 있나요?」"
 
 [[dialogue]]
-speaker = "フロレンシア"
+speaker_original = "フロレンシア"
+speaker_translation = "플로렌시아"
 original = "「まさか間接キス？\u3000なんでそんな、えと、あの……」"
 translation = "「설마 간접 키스? 왜 그런, 에토, 저기, 그게……」"
 
 [[dialogue]]
-speaker = "フロレンシア"
+speaker_original = "フロレンシア"
+speaker_translation = "플로렌시아"
 original = "「すみませーん、失礼しまーす！」"
 translation = "「죄송합니다, 실례할게요!」"
 

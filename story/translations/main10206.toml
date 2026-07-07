@@ -4,392 +4,470 @@ original = "第６話,逃げるが勝ちってね,B"
 translation = "제6화, 도망치는 게 이기는 법, B"
 
 [[dialogue]]
-speaker = "ヨミ"
+speaker_original = "ヨミ"
+speaker_translation = "요미"
 original = "「爆裂ーっ！」"
 translation = "「폭렬ーー!」"
 
 [[dialogue]]
-speaker = "鏡像"
+speaker_original = "鏡像"
+speaker_translation = "경상"
 original = "「…………！」"
 translation = "「…………!」"
 
 [[dialogue]]
-speaker = "せつな"
+speaker_original = "せつな"
+speaker_translation = "세츠나"
 original = "「これにて終いにござる！」"
 translation = "「이것으로 끝이오!」"
 
 [[dialogue]]
-speaker = "鏡像"
+speaker_original = "鏡像"
+speaker_translation = "경상"
 original = "「…………！」"
 translation = "「…………!」"
 
 [[dialogue]]
-speaker = "湖の魔女"
+speaker_original = "湖の魔女"
+speaker_translation = "호수의 마녀"
 original = "「あら、やられてしまいましたか」"
 translation = "「어머, 당해버렸나요.」"
 
 [[dialogue]]
-speaker = "美鶴"
+speaker_original = "美鶴"
+speaker_translation = "미츠루"
 original = "「せつなもヨミーも、やるねー」"
 translation = "「세츠나도 요미도, 제법이네ー.」"
 
 [[dialogue]]
-speaker = "ヨミ"
+speaker_original = "ヨミ"
+speaker_translation = "요미"
 original = "「お褒めいただき感謝です！」"
 translation = "「칭찬해 주셔서 감사합니다!」"
 
 [[dialogue]]
-speaker = "せつな"
+speaker_original = "せつな"
+speaker_translation = "세츠나"
 original = "「残ったのは、魔女殿だけでござるよ！\u3000お覚悟！」"
 translation = "「남은 건 마녀 공뿐이오! 각오하시오!」"
 
 [[dialogue]]
-speaker = "美鶴"
+speaker_original = "美鶴"
+speaker_translation = "미츠루"
 original = "「これで終わりなら楽なんだけどね」"
 translation = "「이걸로 끝이라면 편하겠지만 말이야.」"
 
 [[dialogue]]
-speaker = "湖の魔女"
+speaker_original = "湖の魔女"
+speaker_translation = "호수의 마녀"
 original = "「あなたは次の展開が予想できているようですね。そう、私が呼び出したのはただの鏡像です」"
 translation = "「당신은 다음 전개를 예상하고 있는 모양이군요. 그래요, 제가 불러낸 건 그저 경상일 뿐입니다.」"
 
 [[dialogue]]
-speaker = "湖の魔女"
+speaker_original = "湖の魔女"
+speaker_translation = "호수의 마녀"
 original = "「私の魔法は、鏡に写した者を、鏡像として呼び出すことができます。つまり──出なさい」"
 translation = "「제 마법은 거울에 비춘 자를 경상으로서 불러낼 수 있습니다. 즉── 나오렴.」"
 
 [[dialogue]]
-speaker = "せつな"
+speaker_original = "せつな"
+speaker_translation = "세츠나"
 original = "「あの愛くるしいくのいち、どこかで見覚えが……？」"
 translation = "「저 사랑스러운 쿠노이치, 어디선가 본 기억이……?」"
 
 [[dialogue]]
-speaker = "ヨミ"
+speaker_original = "ヨミ"
+speaker_translation = "요미"
 original = "「こやっ！？\u3000あれって私ですよね！？」"
 translation = "「코얏!? 저건 저잖아요!?」"
 
 [[dialogue]]
-speaker = "美鶴"
+speaker_original = "美鶴"
+speaker_translation = "미츠루"
 original = "「あんたのお友達と戦ってる隙に、ふたりをコピーしたんだね」"
 translation = "「네 친구랑 싸우는 틈에, 둘을 복사했구나.」"
 
 [[dialogue]]
-speaker = "湖の魔女"
+speaker_original = "湖の魔女"
+speaker_translation = "호수의 마녀"
 original = "「ええ、よくできているでしょう？\u3000お気に召したのならば幸いです」"
 translation = "「네, 잘 만들어졌죠? 마음에 드신다면 다행이네요.」"
 
 [[dialogue]]
-speaker = "せつな"
+speaker_original = "せつな"
+speaker_translation = "세츠나"
 original = "「ぐぬぬぅ……偽物だと分かっていても、戦いづらいでござるな」"
 translation = "「그누누…… 가짜라는 걸 알고 있어도 싸우기 힘들구려.」"
 
 [[dialogue]]
-speaker = "ヨミ"
+speaker_original = "ヨミ"
+speaker_translation = "요미"
 original = "「でも、鏡像の動きは単調です。連携も取れていませんし、勝てない相手ではないですよ！」"
 translation = "「하지만 경상의 움직임은 단조로워요. 연계도 되지 않고 있고, 이길 수 없는 상대는 아니에요!」"
 
 [[dialogue]]
-speaker = "美鶴"
+speaker_original = "美鶴"
+speaker_translation = "미츠루"
 original = "「うちはコピーしなかったんだね」"
 translation = "「나는 복사하지 않았네.」"
 
 [[dialogue]]
-speaker = "湖の魔女"
+speaker_original = "湖の魔女"
+speaker_translation = "호수의 마녀"
 original = "「だって、あなた、本気で戦ってないですよね？」"
 translation = "「그야, 당신, 진심으로 싸우고 있지 않잖아요?」"
 
 [[dialogue]]
-speaker = "湖の魔女"
+speaker_original = "湖の魔女"
+speaker_translation = "호수의 마녀"
 original = "「あなたの持つその武器……管槍と言いましたか？\u3000筒を用いて、その遠心力で突きの速度と威力を増幅させる」"
 translation = "「당신이 가진 그 무기…… 관창이라고 했나요? 통을 이용해서 그 원심력으로 찌르기의 속도와 위력을 증폭시키죠.」"
 
 [[dialogue]]
-speaker = "湖の魔女"
+speaker_original = "湖の魔女"
+speaker_translation = "호수의 마녀"
 original = "「その特性をまるで活かすことなく、あくまで様子見な戦い方。私の力を推し量っているみたいに」"
 translation = "「그 특성을 전혀 살리지 않고, 어디까지나 간을 보는 듯한 싸움 방식. 제 힘을 가늠해 보려는 것 같군요.」"
 
 [[dialogue]]
-speaker = "美鶴"
+speaker_original = "美鶴"
+speaker_translation = "미츠루"
 original = "「ご名答です。聡明ですね」"
 translation = "「정답이야. 총명하네.」"
 
 [[dialogue]]
-speaker = "美鶴"
+speaker_original = "美鶴"
+speaker_translation = "미츠루"
 original = "「そういうあんたも全然本気じゃないよね。ちょろっと攻める素振りは見せるけど、ずっと守りっぱなし」"
 translation = "「그러는 당신도 전혀 진심이 아니잖아. 살짝 공격하는 시늉은 보이지만, 계속 방어만 하고 있고.」"
 
 [[dialogue]]
-speaker = "美鶴"
+speaker_original = "美鶴"
+speaker_translation = "미츠루"
 original = "「鏡を使うくらいだから、反撃のカウンター狙い？\u3000自分から攻めるのは苦手なのかと思ったけど……それもちょっと違うっぽい」"
 translation = "「거울을 쓸 정도니까 반격 카운터를 노리는 건가? 직접 공격하는 건 서툰가 싶었는데…… 그것도 좀 다른 것 같고.」"
 
 [[dialogue]]
-speaker = "せつな"
+speaker_original = "せつな"
+speaker_translation = "세츠나"
 original = "「ヨミ殿、すまぬでござる！\u3000てぃやぁーーーっ！」"
 translation = "「요미 공, 미안하오! 테이야아ーーー!」"
 
 [[dialogue]]
-speaker = "ヨミ"
+speaker_original = "ヨミ"
+speaker_translation = "요미"
 original = "「謝ってる暇はないですよ！\u3000せつなさん、第３陣、来ます！」"
 translation = "「사과할 틈은 없어요! 세츠나 씨, 제3진이 옵니다!」"
 
 [[dialogue]]
-speaker = "美鶴"
+speaker_original = "美鶴"
+speaker_translation = "미츠루"
 original = "「またおかわり？\u3000キリないね、これ」"
 translation = "「또 추가야? 끝이 없네, 이거.」"
 
 [[dialogue]]
-speaker = "せつな"
+speaker_original = "せつな"
+speaker_translation = "세츠나"
 original = "「まだまだやれるでござるよ！」"
 translation = "「아직 더 할 수 있소!」"
 
 [[dialogue]]
-speaker = "美鶴"
+speaker_original = "美鶴"
+speaker_translation = "미츠루"
 original = "「２人とも元気いっぱいだね。血気盛んなのはいいけど、そろそろここで逃げよっか」"
 translation = "「둘 다 기운이 넘치네. 혈기 왕성한 건 좋지만, 슬슬 여기서 도망칠까.」"
 
 [[dialogue]]
-speaker = "ヨミ"
+speaker_original = "ヨミ"
+speaker_translation = "요미"
 original = "「こやっ！？\u3000尻尾を巻いて逃げるんですか！？」"
 translation = "「코얏!? 꼬리를 말고 도망치는 건가요!?」"
 
 [[dialogue]]
-speaker = "美鶴"
+speaker_original = "美鶴"
+speaker_translation = "미츠루"
 original = "「逃げるのが嫌なら戦略的撤退？\u3000戦ってみて分かったと思うけどさ、相手さん、かなり強いよ」"
 translation = "「도망치는 게 싫다면 전략적 후퇴? 싸워봐서 알겠지만 말이야, 상대방, 꽤 강해.」"
 
 [[dialogue]]
-speaker = "ヨミ"
+speaker_original = "ヨミ"
+speaker_translation = "요미"
 original = "「手ごわいですが、決して倒せないほどの相手では……」"
 translation = "「까다롭긴 하지만, 결코 쓰러뜨리지 못할 정도의 상대는……」"
 
 [[dialogue]]
-speaker = "美鶴"
+speaker_original = "美鶴"
+speaker_translation = "미츠루"
 original = "「そりゃ倒せるよ。倒せるけどさ」"
 translation = "「그야 쓰러뜨릴 수 있지. 쓰러뜨릴 수는 있지만 말이야.」"
 
 [[dialogue]]
-speaker = "美鶴"
+speaker_original = "美鶴"
+speaker_translation = "미츠루"
 original = "「このまま戦い続けても、魔女さんは無限に鏡像を作るだけでしょ。敵は無限だけど、うちらの体力は無限じゃない」"
 translation = "「이대로 계속 싸워봤자, 마녀 씨는 무한히 경상을 만들 뿐이잖아. 적은 무한하지만, 우리 체력은 무한하지 않아.」"
 
 [[dialogue]]
-speaker = "せつな"
+speaker_original = "せつな"
+speaker_translation = "세츠나"
 original = "「なれば、そちらの魔女を先に倒せば！」"
 translation = "「그렇다면 저쪽의 마녀를 먼저 쓰러뜨리면!」"
 
 [[dialogue]]
-speaker = "美鶴"
+speaker_original = "美鶴"
+speaker_translation = "미츠루"
 original = "「そーだね。術士本人を倒したら、無限湧きが止まるってのがデフォだけど。この魔女さん自身も鏡像だからさ」"
 translation = "「그렇지. 술사 본인을 쓰러뜨리면 무한 생성이 멈추는 게 국룰이지만. 이 마녀 씨 자신도 경상이니까 말이야.」"
 
 [[dialogue]]
-speaker = "せつな"
+speaker_original = "せつな"
+speaker_translation = "세츠나"
 original = "「にゃんと！？\u3000偽物とは思えぬクオリティでござるが」"
 translation = "「냐앗!? 가짜라고는 생각되지 않는 퀄리티구려.」"
 
 [[dialogue]]
-speaker = "美鶴"
+speaker_original = "美鶴"
+speaker_translation = "미츠루"
 original = "「魔女さん本人の鏡像だからじゃない？\u3000あんたを倒したところで、第二、第三の魔女さんが出てくるんでしょ？」"
 translation = "「마녀 씨 본인의 경상이라서 그런 거 아냐? 당신을 쓰러뜨려 봤자, 제2, 제3의 마녀 씨가 나오겠지?」"
 
 [[dialogue]]
-speaker = "湖の魔女"
+speaker_original = "湖の魔女"
+speaker_translation = "호수의 마녀"
 original = "「……へえ？\u3000いつから気づいてたんです？」"
 translation = "「……헤에? 언제부터 눈치챘죠?」"
 
 [[dialogue]]
-speaker = "美鶴"
+speaker_original = "美鶴"
+speaker_translation = "미츠루"
 original = "「今さっき。だってあんた影ないじゃん」"
 translation = "「방금 전. 그야 당신 그림자가 없잖아.」"
 
 [[dialogue]]
-speaker = "湖の魔女"
+speaker_original = "湖の魔女"
+speaker_translation = "호수의 마녀"
 original = "「ええ、鏡像ですから」"
 translation = "「네, 경상이라서요.」"
 
 [[dialogue]]
-speaker = "湖の魔女"
+speaker_original = "湖の魔女"
+speaker_translation = "호수의 마녀"
 original = "「私は水鏡の魔女。そしてここは<ruby>鏡界の湖<rt>ラーゴ・シエロ</rt></ruby>。魔法の相性は最高です」"
 translation = "「저는 수경의 마녀. 그리고 이곳은 <ruby>경계의 호수<rt>라르고 시에로</rt></ruby>. 마법의 상성은 최고입니다.」"
 
 [[dialogue]]
-speaker = "湖の魔女"
+speaker_original = "湖の魔女"
+speaker_translation = "호수의 마녀"
 original = "「ゆえにここなら無尽蔵に鏡像を生み出すことが可能です。地の利はこちらにあります」"
 translation = "「고로 이곳이라면 무궁무진하게 경상을 만들어내는 것이 가능합니다. 지리적 이점은 이쪽에 있죠.」"
 
 [[dialogue]]
-speaker = "美鶴"
+speaker_original = "美鶴"
+speaker_translation = "미츠루"
 original = "「ほらね。別に、敵をぶっ潰してこいとは言われてないしさ。どっかの誰かが湖を占拠してるってことがわかれば十二分」"
 translation = "「거봐. 딱히 적을 박살 내고 오라는 말은 듣지 않았고 말이야. 누군가가 호수를 점거하고 있다는 것만 알면 충분해.」"
 
 [[dialogue]]
-speaker = "せつな"
+speaker_original = "せつな"
+speaker_translation = "세츠나"
 original = "「生きて情報を持ち帰るのが先決……諜報活動の基本でござる」"
 translation = "「살아서 정보를 가지고 돌아가는 것이 선결…… 첩보 활동의 기본이구려.」"
 
 [[dialogue]]
-speaker = "美鶴"
+speaker_original = "美鶴"
+speaker_translation = "미츠루"
 original = "「そーゆーわけで、ね、魔女さん。うちらはここから退くからさ。もう手ぇ出さないでくれる？」"
 translation = "「그런 이유로, 있지, 마녀 씨. 우리는 여기서 물러날 테니까. 이제 손대지 말아 줄래?」"
 
 [[dialogue]]
-speaker = "美鶴"
+speaker_original = "美鶴"
+speaker_translation = "미츠루"
 original = "「結界壊しちゃったのは謝るから。この通り。ごめーんね」"
 translation = "「결계 부순 건 사과할게. 자, 이렇게. 미안ー해.」"
 
 [[dialogue]]
-speaker = "せつな"
+speaker_original = "せつな"
+speaker_translation = "세츠나"
 original = "「美鶴殿、ナチュラルに煽り性能高いでござるな」"
 translation = "「미츠루 공, 내추럴하게 도발 성능이 높구려.」"
 
 [[dialogue]]
-speaker = "ヨミ"
+speaker_original = "ヨミ"
+speaker_translation = "요미"
 original = "「火に油を注いでいるだけなのでは……？」"
 translation = "「불난 집에 부채질을 하고 있는 것뿐 아닌가요……?」"
 
 [[dialogue]]
-speaker = "美鶴"
+speaker_original = "美鶴"
+speaker_translation = "미츠루"
 original = "「いや、水に流してもらうつもりだけど」"
 translation = "「아니, 물에 흘려보내 달라는 생각인데.」"
 
 [[dialogue]]
-speaker = "湖の魔女"
+speaker_original = "湖の魔女"
+speaker_translation = "호수의 마녀"
 original = "「…………」"
 translation = "「…………」"
 
 [[dialogue]]
-speaker = "せつな"
+speaker_original = "せつな"
+speaker_translation = "세츠나"
 original = "「水を打ったように黙ったでござるな」"
 translation = "「물을 끼얹은 듯 조용해졌구려.」"
 
 [[dialogue]]
-speaker = "美鶴"
+speaker_original = "美鶴"
+speaker_translation = "미츠루"
 original = "「どうかなー？\u3000やっちゃったかなー？\u3000呆れたわけでもドン引いたわけでもないといいんだけど」"
 translation = "「어떠려나ー? 사고 친 건가ー? 질린 것도 정떨어진 것도 아니면 좋겠는데.」"
 
 [[dialogue]]
-speaker = "湖の魔女"
+speaker_original = "湖の魔女"
+speaker_translation = "호수의 마녀"
 original = "「……わかりました。取引成立です」"
 translation = "「……알겠습니다. 거래 성립이에요.」"
 
 [[dialogue]]
-speaker = "せつな"
+speaker_original = "せつな"
+speaker_translation = "세츠나"
 original = "「いいのでござるか！？」"
 translation = "「괜찮은 것이오!?」"
 
 [[dialogue]]
-speaker = "湖の魔女"
+speaker_original = "湖の魔女"
+speaker_translation = "호수의 마녀"
 original = "「これ以上、交戦したところで、お互いに利はありませんからね。速やかに立ち去ってください」"
 translation = "「더 이상 교전해 봤자 서로에게 이득은 없으니까요. 신속히 떠나주세요.」"
 
 [[dialogue]]
-speaker = "美鶴"
+speaker_original = "美鶴"
+speaker_translation = "미츠루"
 original = "「話の分かる子で助かったー。じゃ、せつな、ヨミー、とっとと帰ろ。やー、終わった終わった」"
 translation = "「말이 통하는 아이라 살았다ー. 자, 세츠나, 요미, 얼른 돌아가자. 야ー, 끝났다 끝났어.」"
 
 [[dialogue]]
-speaker = "美鶴"
+speaker_original = "美鶴"
+speaker_translation = "미츠루"
 original = "「あー、魔女さん。一応、言っとくけどさ」"
 translation = "「아ー, 마녀 씨. 일단 말해두겠는데.」"
 
 [[dialogue]]
-speaker = "湖の魔女"
+speaker_original = "湖の魔女"
+speaker_translation = "호수의 마녀"
 original = "「なんでしょう。まだ何か？」"
 translation = "「무엇인가요. 아직 더?」"
 
 [[dialogue]]
-speaker = "美鶴"
+speaker_original = "美鶴"
+speaker_translation = "미츠루"
 original = "「うちらの鏡像で、悪さしないでね」"
 translation = "「우리 경상으로 나쁜 짓 하지 마.」"
 
 [[dialogue]]
-speaker = "湖の魔女"
+speaker_original = "湖の魔女"
+speaker_translation = "호수의 마녀"
 original = "「……約束しましょう」"
 translation = "「……약속하죠.」"
 
 [[dialogue]]
-speaker = "せつな"
+speaker_original = "せつな"
+speaker_translation = "세츠나"
 original = "「魔女殿が尾けてくる気配はないでござる。無事に脱出成功でござるな」"
 translation = "「마녀 공이 뒤쫓아오는 기척은 없소. 무사히 탈출 성공이구려.」"
 
 [[dialogue]]
-speaker = "ヨミ"
+speaker_original = "ヨミ"
+speaker_translation = "요미"
 original = "「いよいよリクリエが本格化しようという時に、おかしな敵まで登場するなんて……いったいどうしたらいいんですかー！？」"
 translation = "「드디어 리크리에가 본격화되려는 때에, 이상한 적까지 등장하다니…… 대체 어떻게 하면 좋은 건가요ー!?」"
 
 [[dialogue]]
-speaker = "美鶴"
+speaker_original = "美鶴"
+speaker_translation = "미츠루"
 original = "「まあまあ、ヨミー、悩んでもしゃーない。なるようにしかなんないよ」"
 translation = "「자자, 요미, 고민해도 어쩔 수 없어. 될 대로 되는 법이야.」"
 
 [[dialogue]]
-speaker = "せつな"
+speaker_original = "せつな"
+speaker_translation = "세츠나"
 original = "「それはまあ、そうでござろうが……美鶴殿、軽いでござるなぁ」"
 translation = "「그건 뭐, 그렇겠지만…… 미츠루 공, 너무 가볍구려.」"
 
 [[dialogue]]
-speaker = "美鶴"
+speaker_original = "美鶴"
+speaker_translation = "미츠루"
 original = "「せつなの身のこなし程じゃーないよ」"
 translation = "「세츠나의 몸놀림만큼은 아니야.」"
 
 [[dialogue]]
-speaker = "せつな"
+speaker_original = "せつな"
+speaker_translation = "세츠나"
 original = "「えー、それほどでもないでござるよぉ」"
 translation = "「에ー, 그 정도는 아니구려어.」"
 
 [[dialogue]]
-speaker = "美鶴"
+speaker_original = "美鶴"
+speaker_translation = "미츠루"
 original = "「世界が動き出してんなら、うちみたいなモブ子ちゃんがワーワー騒いだところで何も変わんないでしょ」"
 translation = "「세계가 움직이기 시작했다면, 나 같은 엑스트라가 왁왁 떠들어봤자 아무것도 안 변하잖아.」"
 
 [[dialogue]]
-speaker = "美鶴"
+speaker_original = "美鶴"
+speaker_translation = "미츠루"
 original = "「世界の一大事は、当主様とかお嬢様みたいな大物やヒロインに任しときゃいーの。とっとと報告に帰るのが、うちらの仕事じゃん」"
 translation = "「세계의 중대사는 당주님이나 아가씨 같은 거물이나 히로인에게 맡겨두면 돼. 얼른 보고하러 돌아가는 게 우리 일이잖아.」"
 
 [[dialogue]]
-speaker = "ヨミ"
+speaker_original = "ヨミ"
+speaker_translation = "요미"
 original = "「そう、ですね。自分の手が届くところを堅実に……」"
 translation = "「그렇, 네요. 자신의 손이 닿는 곳을 견실하게……」"
 
 [[dialogue]]
-speaker = "せつな"
+speaker_original = "せつな"
+speaker_translation = "세츠나"
 original = "「ヨミ殿は１人で戦っているわけではないでござる。せつなたちが傍にいること、<ruby>努々<rt>ゆめゆめ</rt></ruby>忘れるべからずでござる」"
 translation = "「요미 공은 혼자서 싸우고 있는 게 아니오. 세츠나 일행이 곁에 있다는 것, 절대로 잊지 말지어다.」"
 
 [[dialogue]]
-speaker = "ヨミ"
+speaker_original = "ヨミ"
+speaker_translation = "요미"
 original = "「ありがとうございます、美鶴さん、せつなさん。少し落ち着きました」"
 translation = "「감사합니다, 미츠루 씨, 세츠나 씨. 조금 진정됐어요.」"
 
 [[dialogue]]
-speaker = "せつな"
+speaker_original = "せつな"
+speaker_translation = "세츠나"
 original = "「しかしながら、得体の知れぬ魔女が潜伏していようとは。当主様もビックリされるでござろうな」"
 translation = "「그나저나 정체불명의 마녀가 잠복하고 있을 줄이야. 당주님도 깜짝 놀라시겠구려.」"
 
 [[dialogue]]
-speaker = "美鶴"
+speaker_original = "美鶴"
+speaker_translation = "미츠루"
 original = "「どーだろ。たぶんだけど、そんなに驚かないんじゃない」"
 translation = "「글쎄. 아마도 그렇게 놀라지 않을걸.」"
 
 [[dialogue]]
-speaker = "せつな"
+speaker_original = "せつな"
+speaker_translation = "세츠나"
 original = "「そのココロは？」"
 translation = "「그 이유는?」"
 
 [[dialogue]]
-speaker = "美鶴"
+speaker_original = "美鶴"
+speaker_translation = "미츠루"
 original = "「勘の良い当主様なら、ここに魔女がいることも、なんなら正体まで予想がついてたんじゃないかなって」"
 translation = "「눈치 빠른 당주님이라면 여기에 마녀가 있는 것도, 어쩌면 정체까지 예상하고 있지 않았을까 싶어서.」"
 
 [[dialogue]]
-speaker = "ヨミ"
+speaker_original = "ヨミ"
+speaker_translation = "요미"
 original = "「あの魔女さん以上に、当主様は底がしれませんからね」"
 translation = "「그 마녀 씨 이상으로 당주님은 속을 알 수 없으니까요.」"
 
 [[dialogue]]
-speaker = "せつな"
+speaker_original = "せつな"
+speaker_translation = "세츠나"
 original = "「おっかないでござるな。にんともかんとも」"
 translation = "「무섭구려. 참으로 말이오.」"
 

@@ -4,52 +4,62 @@ original = "第2話,メイド長に弟子入り,P"
 translation = "제2화, 메이드장에게 입문"
 
 [[dialogue]]
-speaker = "キリカ"
+speaker_original = "キリカ"
+speaker_translation = "키리카"
 original = "「お嬢様がどうしてこちらに？」"
 translation = "「아가씨께서 어째서 이곳에?」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「星騎士として、モンスターの対応をするために来たまでです。でももう終わってるし、キリカと緋宮会長が一緒にいたから少し驚いちゃった」"
 translation = "「성기사로서 몬스터에 대응하기 위해 왔을 뿐이야. 하지만 벌써 끝난 것 같고, 키리카와 히노미야 회장이 함께 있어서 조금 놀랐어」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「さっきの、いいんじゃない。緋宮会長を弟子にしても」"
 translation = "「방금 그거, 괜찮지 않아? 히노미야 회장을 제자로 삼아도」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「緋宮会長が強くなれば、必ず私たちの力になる。そう考えれば、緋宮会長を鍛えるのは星見家のメイドとして不自然なことではない。……でしょう？」"
 translation = "「히노미야 회장이 강해지면 반드시 우리의 힘이 될 거야. 그렇게 생각하면 히노미야 회장을 단련시키는 건 호시미 가문의 메이드로서 부자연스러운 일이 아니야. ……그렇지?」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「キリカだって緋宮会長のことは気にしていたと思うけど」"
 translation = "「키리카도 히노미야 회장에 대해서는 신경 쓰고 있었다고 생각하는데」"
 
 [[dialogue]]
-speaker = "キリカ"
+speaker_original = "キリカ"
+speaker_translation = "키리카"
 original = "「それは戦闘スタイルが私に近いからです。星騎士には様々な戦い方がありますが、格闘戦主体の星騎士は少々珍しいので」"
 translation = "「그건 전투 스타일이 저와 가깝기 때문입니다. 성기사에게는 다양한 싸움 방식이 있습니다만, 격투전 주체의 성기사는 조금 드물기에」"
 
 [[dialogue]]
-speaker = "キリカ"
+speaker_original = "キリカ"
+speaker_translation = "키리카"
 original = "「……ですがお嬢様がそう仰るなら。では星見家のお屋敷にお越しください。私から指導させていただきます」"
 translation = "「……하지만 아가씨께서 그렇게 말씀하신다면. 그럼 호시미 가문의 저택으로 와 주십시오. 제가 지도해 드리겠습니다」"
 
 [[dialogue]]
-speaker = "キリカ"
+speaker_original = "キリカ"
+speaker_translation = "키리카"
 original = "「メイドにとって、紅茶を淹れることは基礎中の基礎。これを習得せずして奉仕はできません」"
 translation = "「메이드에게 있어 홍차를 우려내는 것은 기초 중의 기초. 이것을 습득하지 않고서는 봉사를 할 수 없습니다」"
 
 [[dialogue]]
-speaker = "キリカ"
+speaker_original = "キリカ"
+speaker_translation = "키리카"
 original = "「良い紅茶を淹れるには当然茶葉の品質も大事ですが、技術と知識も必要です」"
 translation = "「좋은 홍차를 우려내기 위해서는 당연히 찻잎의 품질도 중요합니다만, 기술과 지식도 필요합니다」"
 
 [[dialogue]]
-speaker = "キリカ"
+speaker_original = "キリカ"
+speaker_translation = "키리카"
 original = "「まずは適切な道具選びから。紅茶の成分が鉄と反応すると味や風味が損なわれてしまいますので、鉄の含まれるティーポットは避けてください」"
 translation = "「우선은 적절한 도구 선택부터. 홍차의 성분이 철과 반응하면 맛이나 풍미가 손상되어 버리므로, 철이 포함된 티포트는 피해 주십시오」"
 
@@ -59,12 +69,14 @@ original = "どうして紅茶の淹れ方を……？"
 translation = "어째서 홍차 우리는 법을……?"
 
 [[dialogue]]
-speaker = "キリカ"
+speaker_original = "キリカ"
+speaker_translation = "키리카"
 original = "「上月家は古来より星見家の従者を務めてきました。私が修める神闘流は、星見家を守る者として上月家が代々伝えてきたものです」"
 translation = "「코즈키 가문은 예로부터 호시미 가문의 종자를 맡아왔습니다. 제가 닦고 있는 신투류는 호시미 가문을 지키는 자로서 코즈키 가문이 대대로 전해온 것입니다」"
 
 [[dialogue]]
-speaker = "キリカ"
+speaker_original = "キリカ"
+speaker_translation = "키리카"
 original = "「ですから私を師と仰ぐからには戦闘技術だけでなく、奉仕の精神を学んでいただきます。よろしいですね？」"
 translation = "「그러니 저를 스승으로 모시는 이상 전투 기술뿐만 아니라, 봉사의 정신도 배우셔야 합니다. 아시겠지요?」"
 
@@ -74,42 +86,50 @@ original = "はい、師匠！"
 translation = "네, 스승님!"
 
 [[dialogue]]
-speaker = "キリカ"
+speaker_original = "キリカ"
+speaker_translation = "키리카"
 original = "「良い返事です。では続きを」"
 translation = "「좋은 대답입니다. 그럼 계속하죠」"
 
 [[dialogue]]
-speaker = "キリカ"
+speaker_original = "キリカ"
+speaker_translation = "키리카"
 original = "「紅茶を淹れる際は汲みたての水を使い、しっかり沸騰させてください」"
 translation = "「홍차를 우릴 때는 갓 길어 올린 물을 사용해, 확실히 비등시켜 주십시오」"
 
 [[dialogue]]
-speaker = "キリカ"
+speaker_original = "キリカ"
+speaker_translation = "키리카"
 original = "「茶葉を入れる前にお湯を注いでポットを温めます。冷たいままポットを使うとお湯の温度が下がり、茶葉の成分がきちんと抽出されなくなるためです」"
 translation = "「찻잎을 넣기 전에 뜨거운 물을 부어 포트를 데웁니다. 차가운 채로 포트를 사용하면 물의 온도가 내려가, 찻잎의 성분이 제대로 추출되지 않기 때문입니다」"
 
 [[dialogue]]
-speaker = "キリカ"
+speaker_original = "キリカ"
+speaker_translation = "키리카"
 original = "「使用するカップも同じ要領で温めておきましょう。次に人数分の茶葉をポットに入れ、勢いよくお湯を注ぎます」"
 translation = "「사용하는 컵도 같은 요령으로 데워 둡시다. 다음으로 인원수만큼의 찻잎을 포트에 넣고, 기세 좋게 뜨거운 물을 붓습니다」"
 
 [[dialogue]]
-speaker = "キリカ"
+speaker_original = "キリカ"
+speaker_translation = "키리카"
 original = "「そしてポットの蓋を閉めて蒸らします。蒸らす時間は短すぎても長すぎても最適の味を出すことはできません。……最後にティーカップに注げば完成です」"
 translation = "「그리고 포트의 뚜껑을 닫고 뜸을 들입니다. 뜸 들이는 시간은 너무 짧아도 너무 길어도 최적의 맛을 낼 수 없습니다. ……마지막으로 찻잔에 따르면 완성입니다」"
 
 [[dialogue]]
-speaker = "キリカ"
+speaker_original = "キリカ"
+speaker_translation = "키리카"
 original = "「紅茶を一杯淹れるために、これだけの工程があります。ひとつひとつは難しいものではありません。ですがその積み重ねが紅茶を美味しくするのです」"
 translation = "「홍차 한 잔을 우리기 위해 이만큼의 공정이 있습니다. 하나하나는 어려운 것이 아닙니다. 하지만 그 쌓임이 홍차를 맛있게 만드는 것입니다」"
 
 [[dialogue]]
-speaker = "キリカ"
+speaker_original = "キリカ"
+speaker_translation = "키리카"
 original = "「では、先ほど購入してきた茶葉を使って紅茶を淹れてみてください」"
 translation = "「그럼, 방금 구입해 온 찻잎을 사용해 홍차를 우려 보십시오」"
 
 [[dialogue]]
-speaker = "キリカ"
+speaker_original = "キリカ"
+speaker_translation = "키리카"
 original = "「基本に忠実に、私の教えた通りに……ええ、そうです。手順は合っていますよ」"
 translation = "「기본에 충실하게, 제가 가르친 대로…… 네, 그렇습니다. 절차는 맞아요」"
 
@@ -119,32 +139,38 @@ original = "どうぞ、お嬢様"
 translation = "드세요, 아가씨"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「ありがとう。ふふっ、すっかりうちの執事みたいですね」"
 translation = "「고마워. 후훗, 완전히 우리 집 집사 같네」"
 
 [[dialogue]]
-speaker = "キリカ"
+speaker_original = "キリカ"
+speaker_translation = "키리카"
 original = "「お嬢様。メイドに対して男性に使う言葉としては、フットマンやヴァレットがふさわしいかと」"
 translation = "「아가씨. 메이드에 대해 남성에게 사용하는 말로서는, 풋맨이나 발렛이 적절할 것으로 사료됩니다」"
 
 [[dialogue]]
-speaker = "キリカ"
+speaker_original = "キリカ"
+speaker_translation = "키리카"
 original = "「執事とは屋敷内の職務を取り仕切り、使用人を統括する立場の者のこと。つまり私です」"
 translation = "「집사란 저택 내의 직무를 관리하고, 고용인을 통괄하는 입장의 사람을 말하는 것. 즉 접니다」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「もう一般的に定着しているし、そこまで細かく気にしなくてもいいんじゃない？\u3000では、いただきます」"
 translation = "「이미 일반적으로 정착되어 있고, 그렇게까지 세세하게 신경 쓰지 않아도 되지 않아? 그럼, 잘 먹을게」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「ふむ……美味しいです。ですがいつも飲んでいるものと比べると、風味が弱いような……」"
 translation = "「흠…… 맛있어요. 하지만 평소 마시는 것과 비교하면 풍미가 약한 듯한……」"
 
 [[dialogue]]
-speaker = "キリカ"
+speaker_original = "キリカ"
+speaker_translation = "키리카"
 original = "「こちらが私が淹れたものです。どうぞ」"
 translation = "「이쪽이 제가 우린 것입니다. 드시지요」"
 
@@ -154,22 +180,26 @@ original = "香りが全然違う……！"
 translation = "향기가 전혀 달라……!"
 
 [[dialogue]]
-speaker = "キリカ"
+speaker_original = "キリカ"
+speaker_translation = "키리카"
 original = "「手際は悪くなかったですが、蒸らす時間が少々足りなかったようです。茶葉の種類や加工によっても蒸らす時間が異なってくるので、注意してください」"
 translation = "「솜씨는 나쁘지 않았습니다만, 뜸 들이는 시간이 조금 부족했던 모양입니다. 찻잎의 종류나 가공에 따라서도 뜸 들이는 시간이 달라지니 주의해 주십시오」"
 
 [[dialogue]]
-speaker = "キリカ"
+speaker_original = "キリカ"
+speaker_translation = "키리카"
 original = "「私が焼いたクッキーです。紅茶と一緒にお召し上がりください」"
 translation = "「제가 구운 쿠키입니다. 홍차와 함께 드시지요」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「ありがとう。……うん、おいしい」"
 translation = "「고마워. ……응, 맛있어」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「そう落ち込まないでください、緋宮会長。キリカは私が物心ついた時からいてくれてるんですから、すぐには追いつけなくて当然ですよ」"
 translation = "「그렇게 낙담하지 마세요, 히노미야 회장. 키리카는 내가 철들기 전부터 곁에 있어 줬으니까, 금방 따라잡지 못하는 건 당연해요」"
 
@@ -179,47 +209,56 @@ original = "キリカさんはすごい"
 translation = "키리카 씨는 대단해"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「そうですね。キリカ、いつもありがとう」"
 translation = "「그렇네. 키리카, 항상 고마워」"
 
 [[dialogue]]
-speaker = "キリカ"
+speaker_original = "キリカ"
+speaker_translation = "키리카"
 original = "「メイドとして当然のことをしているまでです」"
 translation = "「메이드로서 당연한 일을 하고 있을 뿐입니다」"
 
 [[dialogue]]
-speaker = "キリカ"
+speaker_original = "キリカ"
+speaker_translation = "키리카"
 original = "「では他にも屋敷の家事を学んでいただきます。掃除、洗濯、料理、修繕、庭の手入れに至るまで、全て使用人の仕事ですので」"
 translation = "「그럼 그 외에도 저택의 가사를 배우셔야겠습니다. 청소, 세탁, 요리, 수선, 정원 손질에 이르기까지, 전부 고용인의 일이니까요」"
 
 [[dialogue]]
-speaker = "キリカ"
+speaker_original = "キリカ"
+speaker_translation = "키리카"
 original = "「そんなに驚いた顔をしないでください。当然のことを言っただけです」"
 translation = "「그렇게 놀란 얼굴 하지 마십시오. 당연한 것을 말했을 뿐입니다」"
 
 [[dialogue]]
-speaker = "キリカ"
+speaker_original = "キリカ"
+speaker_translation = "키리카"
 original = "「戦闘訓練はその後に。疲労しているからといって手を抜くつもりはありませんので、そのつもりでいてください」"
 translation = "「전투 훈련은 그다음에. 피로하다고 해서 적당히 할 생각은 없으니, 그럴 각오로 계십시오」"
 
 [[dialogue]]
-speaker = "キリカ"
+speaker_original = "キリカ"
+speaker_translation = "키리카"
 original = "「ふむ……望むところ、ですか。良いでしょう、その姿勢は評価します」"
 translation = "「흠…… 바라던 바, 입니까. 좋습니다, 그 자세는 평가하죠」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「まぁまぁ、お手柔らかにね」"
 translation = "「자자, 살살 해줘」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「（キリカったら、私が緋宮会長を弟子にしちゃえばって軽く言ったから、少し遊んでる？）」"
 translation = "「(키리카도 참, 내가 히노미야 회장을 제자로 삼아버리라고 가볍게 말했더니, 조금 골탕 먹이는 건가?)」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「（緋宮会長もやる気だからいいけど……もう少し様子を見てみようかな）」"
 translation = "「(히노미야 회장도 의욕이 넘치니까 괜찮지만…… 조금 더 지켜볼까)」"
 

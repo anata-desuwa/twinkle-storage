@@ -1,20 +1,24 @@
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「……ある時、リクリエのせいで、異世界から私たちの世界にやってきた彼女たち……」"
 translation = "「……어느 날, 리크리에 때문에 이세계에서 우리 세계로 넘어온 그녀들……」"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「リアさん、聖沙、それにセクハラパンダ……もとい、大賢者パッキー」"
 translation = "「리아 씨, 미사, 그리고 성희롱 팬더…… 아니, 대현자 팟키」"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「色々と騒動はあったけど、みんなで協力してトラブルを解決したあと、元の世界に帰っていった……」"
 translation = "「이런저런 소동은 있었지만, 모두가 협력해서 트러블을 해결한 뒤, 원래 세계로 돌아갔지……」"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「なんだか、懐かしく感じちゃうわね～。むこうの世界は、今頃どんな感じかしら……」"
 translation = "「왠지 모르게, 그립게 느껴지네~. 저쪽 세계는 지금쯤 어떤 느낌일까……」"
 
@@ -24,22 +28,26 @@ original = "急にどうしたの？"
 translation = "갑자기 왜 그래?"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「あ、クロト。たまたまあの時の日誌を見つけちゃってね、読み返してたの」"
 translation = "「아, 쿠로토. 마침 그때의 일지를 발견해서 말이야, 다시 읽고 있었어」"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「ちなみに、星徒会室の資料を整理してあげてたのよ。ふふん、偉いでしょ」"
 translation = "「참고로, 성도회실 자료를 정리해 주고 있었어. 후훗, 기특하지」"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「えっ、前より散らかってるって……それはほら、やっぱり人には向き不向きがあるってことよね、うんうん」"
 translation = "「엣, 전보다 더 어질러져 있다니…… 그건 뭐, 역시 사람에게는 적성과 부적성이 있다는 거겠지, 응응」"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「ちょっと気まぐれで、手伝ってみてもいいかな～って思っただけだし、やっぱりアナに任せた方が良さそうだわ」"
 translation = "「잠깐 변덕으로, 도와줘도 괜찮을까~ 하고 생각했을 뿐이고, 역시 아나에게 맡기는 게 좋을 것 같아」"
 
@@ -49,22 +57,26 @@ original = "楽しそうだったね"
 translation = "즐거워 보이던데"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「え、あの時の騒動の話？\u3000そりゃ、あんな経験、滅多にできないし、今でも時々思い出しちゃうのよね」"
 translation = "「에, 그때 소동 이야기? 그야, 그런 경험, 흔치 않고, 지금도 가끔 생각나거든」"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「また、リアさんや聖沙にも会いたいし、あの不思議な体験ができたらな～っていうのもあるし……」"
 translation = "「또, 리아 씨나 미사도 만나고 싶고, 그 신기한 체험을 할 수 있다면 좋겠다는 것도 있고……」"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「もしかしたら、そのうち新しい出会いがあるんじゃないか、って……なんとなくだけど、そんな予感もするのよね」"
 translation = "「어쩌면, 조만간 새로운 만남이 있지 않을까, 하고…… 어쩐지, 그런 예감도 들어」"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「それに、また変なトラブルが起こったって、私たちで解決すればいいじゃない！」"
 translation = "「게다가, 또 이상한 트러블이 일어난다고 해도, 우리들이 해결하면 되잖아!」"
 
@@ -74,27 +86,32 @@ original = "そうだね。それと……"
 translation = "그렇지. 그리고……"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「え、時間……？」"
 translation = "「에, 시간……?」"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「あっ、忘れてた……！\u3000流星星徒会と打ち合わせの約束をしてたんだったわね。ありがと」"
 translation = "「앗, 잊고 있었다……! 유성 성도회와 회의 약속을 했었지. 고마워」"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「それじゃ、遅れないうちに、行きましょうか」"
 translation = "「그럼, 늦지 않게, 가볼까」"
 
 [[dialogue]]
-speaker = "ルリエル？"
+speaker_original = "ルリエル？"
+speaker_translation = "루리엘?"
 original = "「あっ……」"
 translation = "「앗……」"
 
 [[dialogue]]
-speaker = "ルリエル？"
+speaker_original = "ルリエル？"
+speaker_translation = "루리엘?"
 original = "「新星の会長さんたちじゃないですか、こんにちは～」"
 translation = "「신성의 회장님들이 아니십니까, 안녕하세요~」"
 
@@ -104,92 +121,110 @@ original = "こんにちは"
 translation = "안녕하세요"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「ん……？\u3000見かけない子ね。制服を見る限り、流星学園の生徒みたいだけど……」"
 translation = "「응……? 못 보던 애네. 교복을 보니, 유성 학원 학생인 것 같은데……」"
 
 [[dialogue]]
-speaker = "ルリエル？"
+speaker_original = "ルリエル？"
+speaker_translation = "루리엘?"
 original = "「お揃いでどうされましたか？\u3000あ、フィオナ会長にご用でしょうか」"
 translation = "「다 같이 어쩐 일이십니까? 아, 피오나 회장에게 볼일이 있으신가요」"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「そうだけど……フィオナのこと、知ってるの？\u3000ていうか、私たちのことも……もしかして、私のファン？」"
 translation = "「그렇긴 한데…… 피오나를 알고 있어? 그보다, 우리도…… 혹시, 내 팬이야?」"
 
 [[dialogue]]
-speaker = "ルリエル？"
+speaker_original = "ルリエル？"
+speaker_translation = "루리엘?"
 original = "「ほえ……？\u3000何を言っているんです、当たり前じゃないですか」"
 translation = "「호에……? 무슨 말씀을 하시는 겁니까, 당연하지 않습니까」"
 
 [[dialogue]]
-speaker = "ルリエル？"
+speaker_original = "ルリエル？"
+speaker_translation = "루리엘?"
 original = "「このルリエル、やる気と記憶力には自身がありますよ！」"
 translation = "「이 루리엘, 의욕과 기억력에는 자신이 있다고요!」"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「え……えーっ、ルリエル……！？」"
 translation = "「에…… 에엣, 루리엘……!?」"
 
 [[dialogue]]
-speaker = "ルリエル？"
+speaker_original = "ルリエル？"
+speaker_translation = "루리엘?"
 original = "「そうですよぉ！\u3000まさか、わたしのことを忘れちゃっただなんて、そんなことないですよねっ？」"
 translation = "「그렇다구요! 설마, 저를 잊어버리셨다니, 그럴 리 없죠?」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「なにやら騒がしいですが……どうかしたんですか？」"
 translation = "「무슨 소란이신가요…… 무슨 일 있으신가요?」"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「あ、フィオナ。ちょうどいいところに来てくれたわ」"
 translation = "「아, 피오나. 마침 잘 와줬어」"
 
 [[dialogue]]
-speaker = "ルリエル？"
+speaker_original = "ルリエル？"
+speaker_translation = "루리엘?"
 original = "「フィオナ会長、聞いて下さいよ～」"
 translation = "「피오나 회장, 들어보세요~」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「えっと、どちら様でしたっけ……？」"
 translation = "「음, 누구셨죠……?」"
 
 [[dialogue]]
-speaker = "ルリエル？"
+speaker_original = "ルリエル？"
+speaker_translation = "루리엘?"
 original = "「ええっ、そんなぁ！\u3000フィオナ会長まで、わたしのことを忘れちゃったんですかっ？\u3000ひどいです！」"
 translation = "「에에엣, 설마! 피오나 회장까지, 저를 잊어버리신 건가요? 너무해요!」"
 
 [[dialogue]]
-speaker = "ルリエル？"
+speaker_original = "ルリエル？"
+speaker_translation = "루리엘?"
 original = "「わたしですっ、ルリエルですよっ！」"
 translation = "「저예요! 루리엘이라구요!」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「えっ、ルリエル……？」"
 translation = "「엣, 루리엘……?」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「……あっ、そうでしたね、言われてみれば、確かに、ルリエル……私ってば、どうしちゃったんでしょう……」"
 translation = "「……앗, 그랬었네요, 듣고 보니, 확실히, 루리엘…… 제가 왜 이랬을까요……」"
 
 [[dialogue]]
-speaker = "ルリエル？"
+speaker_original = "ルリエル？"
+speaker_translation = "루리엘?"
 original = "「いえいえ、わかってもらえればいいんです。会長のことは信じていますから」"
 translation = "「아니요, 알아주시면 됐습니다. 회장님은 믿고 있으니까요」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「ええ、変なことを言って、ごめんなさいね」"
 translation = "「네, 이상한 말을 해서, 죄송해요」"
 
 [[dialogue]]
-speaker = "ルリエル？"
+speaker_original = "ルリエル？"
+speaker_translation = "루리엘?"
 original = "「新星の会長さんも、わたしのこと、忘れてなんていませんよねっ？」"
 translation = "「신성의 회장님도, 저를, 잊지 않으셨죠?」"
 
@@ -199,62 +234,74 @@ original = "う、うん……"
 translation = "으, 응……"
 
 [[dialogue]]
-speaker = "ルリエル？"
+speaker_original = "ルリエル？"
+speaker_translation = "루리엘?"
 original = "「ほっ、よかったです～」"
 translation = "「휴, 다행입니다~」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「それで……緋宮会長たちは、どうされたんですか？」"
 translation = "「그래서…… 히노미야 회장님들은, 어쩐 일이신가요?」"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「えっと……あれ、私たち、なんでルリエルのことを訊こうと思ってたんだっけ……」"
 translation = "「음…… 어라, 우리, 왜 루리엘에 대해 물어보려고 했더라……」"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「なんだか、違和感があったような気がするんだけど……」"
 translation = "「왠지 모르게, 위화감이 있었던 것 같은데……」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「違和感？」"
 translation = "「위화감?」"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「具体的に何が、っていうと、説明が難しくて……」"
 translation = "「구체적으로 뭐가, 라고 하면, 설명하기 어려워서……」"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「ルリエルの雰囲気が、いつもとちょっと違うんじゃないかな～、とか……」"
 translation = "「루리엘의 분위기가, 평소와 조금 다르지 않나~, 라든가……」"
 
 [[dialogue]]
-speaker = "ルリエル？"
+speaker_original = "ルリエル？"
+speaker_translation = "루리엘?"
 original = "「そんなことないですよっ。ほら、どこからどう見ても、いつものわたしじゃないですか」"
 translation = "「그렇지 않다구요. 보세요, 어디서 어떻게 봐도, 평소의 저 아닙니까」"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「ん～……確かに最初は、違和感があったけど……言われてみれば、ルリエルって最初からこんな感じだったような気もするし」"
 translation = "「음~…… 확실히 처음에는, 위화감이 있었지만…… 듣고 보니, 루리엘은 처음부터 이런 느낌이었던 것 같기도 하고」"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「……うん。この、ちょっとそそっかしくて危なっかしい感じは、確かにルリエルよね」"
 translation = "「……응. 이, 조금 덜렁거리고 위태로운 느낌은, 확실히 루리엘이네」"
 
 [[dialogue]]
-speaker = "ルリエル？"
+speaker_original = "ルリエル？"
+speaker_translation = "루리엘?"
 original = "「それは微妙に失礼だと思います！」"
 translation = "「그건 미묘하게 실례라고 생각합니다!」"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「この感覚、前にもどこかであったような気がしたんだけどな～……」"
 translation = "「이 감각, 전에도 어디선가 있었던 것 같았는데~……」"
 
@@ -264,47 +311,56 @@ original = "よく思い出せないかも"
 translation = "잘 기억이 안 날지도"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「そうよね、なんかもやっとするわ。上手く言えないんだけど」"
 translation = "「그렇지, 뭔가 찜찜해. 말로 표현하기 어려운데」"
 
 [[dialogue]]
-speaker = "ルリエル？"
+speaker_original = "ルリエル？"
+speaker_translation = "루리엘?"
 original = "「もしかして、星徒会の業務でお疲れなんじゃないですか？」"
 translation = "「혹시, 성도회 업무로 피곤하신 거 아닙니까?」"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「そうなのかしら……」"
 translation = "「그런가……」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「私たちでお手伝いできることがあれば、言って下さいね」"
 translation = "「저희가 도와드릴 수 있는 일이 있다면, 말씀해 주세요」"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「あ、ありがと……」"
 translation = "「아, 고마워……」"
 
 [[dialogue]]
-speaker = "ルリエル？"
+speaker_original = "ルリエル？"
+speaker_translation = "루리엘?"
 original = "「ところで、わたしたちに何かご用があったのでは？」"
 translation = "「그런데, 저희에게 무슨 볼일이 있으셨던 거 아닌가요?」"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「あ、そうだわ。星徒会業務についての、打ち合わせの約束をしてたんだったわ」"
 translation = "「아, 맞다. 성도회 업무에 대한, 회의 약속을 했었지」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「そういえば、そうでしたね。それで私も、お声をかけに行くところだったんです」"
 translation = "「그러고 보니, 그랬었네요. 그래서 저도, 말을 걸러 가려던 참이었습니다」"
 
 [[dialogue]]
-speaker = "ルリエル？"
+speaker_original = "ルリエル？"
+speaker_translation = "루리엘?"
 original = "「さあさあ、それでは皆さんで、星徒会室に向かいましょう～」"
 translation = "「자자, 그럼 모두 함께, 성도회실로 향합시다~」"
 

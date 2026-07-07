@@ -14,12 +14,14 @@ original = "漫画が原作の実写映画を一緒に見たのだが──"
 translation = "만화가 원작인 실사 영화를 같이 보았는데──"
 
 [[dialogue]]
-speaker = "モネ"
+speaker_original = "モネ"
+speaker_translation = "모네"
 original = "「…………」"
 translation = "「…………」"
 
 [[dialogue]]
-speaker = "モネ"
+speaker_original = "モネ"
+speaker_translation = "모네"
 original = "「あ、すみません……映画、とても面白かったと思い、ます…………ごめんなさい」"
 translation = "「아, 죄송해요…… 영화, 아주 재미있었다고 생각, 해요………… 미안해요」"
 
@@ -29,27 +31,32 @@ original = "何かあった？"
 translation = "무슨 일 있었어?"
 
 [[dialogue]]
-speaker = "モネ"
+speaker_original = "モネ"
+speaker_translation = "모네"
 original = "「ああいや、それは……」"
 translation = "「아니 그건……」"
 
 [[dialogue]]
-speaker = "モネ"
+speaker_original = "モネ"
+speaker_translation = "모네"
 original = "「……はい、ありました」"
 translation = "「……네, 있었어요」"
 
 [[dialogue]]
-speaker = "モネ"
+speaker_original = "モネ"
+speaker_translation = "모네"
 original = "「応募していた小説賞の結果通知が、昨日来たんです。それが頭を離れなくて……」"
 translation = "「응모했던 소설상의 결과 통지가 어제 왔거든요. 그게 머릿속을 떠나지 않아서……」"
 
 [[dialogue]]
-speaker = "モネ"
+speaker_original = "モネ"
+speaker_translation = "모네"
 original = "「選評結果は……『佳作』でした」"
 translation = "「심사 결과는…… 『가작』이었어요」"
 
 [[dialogue]]
-speaker = "モネ"
+speaker_original = "モネ"
+speaker_translation = "모네"
 original = "「…………」"
 translation = "「…………」"
 
@@ -64,32 +71,38 @@ original = "嬉しい？"
 translation = "기뻐?"
 
 [[dialogue]]
-speaker = "モネ"
+speaker_original = "モネ"
+speaker_translation = "모네"
 original = "「……自分でも初めてのことで、戸惑ってます」"
 translation = "「……저 자신도 처음 겪는 일이라 당황스러워요」"
 
 [[dialogue]]
-speaker = "モネ"
+speaker_original = "モネ"
+speaker_translation = "모네"
 original = "「今までも何度か応募して、一番いい結果で、本当なら嬉しいはずなんです」"
 translation = "「지금까지도 몇 번 응모했었고, 가장 좋은 결과라서 원래라면 기뻐해야 하는데」"
 
 [[dialogue]]
-speaker = "モネ"
+speaker_original = "モネ"
+speaker_translation = "모네"
 original = "「でも、悔しくて……悔しくてたまらないんです」"
 translation = "「하지만 분해서…… 분해서 견딜 수가 없어요」"
 
 [[dialogue]]
-speaker = "モネ"
+speaker_original = "モネ"
+speaker_translation = "모네"
 original = "「ウィステリアさんやリィベルさんにも応援してもらったのに…………ううん、違う」"
 translation = "「위스테리아 씨나 리플 씨도 응원해 주셨는데………… 아니, 아니야」"
 
 [[dialogue]]
-speaker = "モネ"
+speaker_original = "モネ"
+speaker_translation = "모네"
 original = "「私の書いたものは最高だったはずなのに、それが認められないのが、悔しいんです」"
 translation = "「내가 쓴 건 최고였을 텐데, 그걸 인정받지 못하는 게 분한 거예요」"
 
 [[dialogue]]
-speaker = "モネ"
+speaker_original = "モネ"
+speaker_translation = "모네"
 original = "「あはは……私、本当はこんなに傲慢だったんですね。ロクサーナ先輩の言う通りです」"
 translation = "「아하하…… 저, 사실은 이렇게나 오만했었네요. 록사나 선배님 말씀대로예요」"
 
@@ -99,17 +112,20 @@ original = "審査員は見る目がないな"
 translation = "심사위원들이 보는 눈이 없네"
 
 [[dialogue]]
-speaker = "モネ"
+speaker_original = "モネ"
+speaker_translation = "모네"
 original = "「そこまで言いますか！？\u3000さすが魔王様、私に負けない傲慢さですね……」"
 translation = "「그렇게까지 말씀해 주시나요!? 역시 마왕님, 저 못지않은 오만함이네요……」"
 
 [[dialogue]]
-speaker = "モネ"
+speaker_original = "モネ"
+speaker_translation = "모네"
 original = "「でも、そのくらいでいいのかもしれません。研鑽は大事ですけど、『理解しない方が悪い』くらいの傲慢さは、時にはあってもいいのかも」"
 translation = "「하지만 그 정도가 좋을지도 모르겠어요. 연마도 중요하지만, 『이해하지 못하는 쪽이 나쁘다』 정도의 오만함은 때로는 필요할지도」"
 
 [[dialogue]]
-speaker = "モネ"
+speaker_original = "モネ"
+speaker_translation = "모네"
 original = "「そうでないと、作品を世に出す意味がありませんから。やっぱり傲慢は作家の<ruby>性<rt>さが</rt></ruby>なんですね」"
 translation = "「그러지 않으면 작품을 세상에 내놓는 의미가 없으니까요. 역시 오만은 작가의 본성이네요」"
 
@@ -119,22 +135,26 @@ original = "だけど──"
 translation = "하지만──"
 
 [[dialogue]]
-speaker = "モネ"
+speaker_original = "モネ"
+speaker_translation = "모네"
 original = "「モネが大作家になっても、最初のファンも、一番のファンも譲らない……？」"
 translation = "「모네가 대작가가 되어도, 첫 번째 팬도, 최고의 팬도 양보하지 않겠다……?」"
 
 [[dialogue]]
-speaker = "モネ"
+speaker_original = "モネ"
+speaker_translation = "모네"
 original = "「ふふふ、そうでした。私が書いた小説を最初に読んでくれたのは会長でしたね」"
 translation = "「후후후, 그랬었죠. 제가 쓴 소설을 가장 먼저 읽어준 건 회장님이었죠」"
 
 [[dialogue]]
-speaker = "モネ"
+speaker_original = "モネ"
+speaker_translation = "모네"
 original = "「はい。もし私が有名な作家になって、賞を取りまくって、ベストセラーを連発しても、一番のファンは会長ですよ」"
 translation = "「네. 만약 제가 유명한 작가가 되어서 상을 휩쓸고 베스트셀러를 연발해도, 최고의 팬은 회장님이에요」"
 
 [[dialogue]]
-speaker = "モネ"
+speaker_original = "モネ"
+speaker_translation = "모네"
 original = "「ちなみにそれは、彼氏としての独占欲もあります……？」"
 translation = "「참고로 그건 남자친구로서의 독점욕도 포함인가요……?」"
 
@@ -144,77 +164,92 @@ original = "もちろんそれもある！"
 translation = "물론 그것도 있지!"
 
 [[dialogue]]
-speaker = "モネ"
+speaker_original = "モネ"
+speaker_translation = "모네"
 original = "「でも嬉しい……えへへ……」"
 translation = "「그래도 기뻐요…… 에헤헤……」"
 
 [[dialogue]]
-speaker = "モネ"
+speaker_original = "モネ"
+speaker_translation = "모네"
 original = "「──モンスター！」"
 translation = "「──몬스터!」"
 
 [[dialogue]]
-speaker = "モネ"
+speaker_original = "モネ"
+speaker_translation = "모네"
 original = "「ここから近いですね。行きましょう！」"
 translation = "「여기서 가깝네요. 가요!」"
 
 [[dialogue]]
-speaker = "モンスター"
+speaker_original = "モンスター"
+speaker_translation = "몬스터"
 original = "「イーーッ！」"
 translation = "「이익!」"
 
 [[dialogue]]
-speaker = "モネ"
+speaker_original = "モネ"
+speaker_translation = "모네"
 original = "「モンスターいました！\u3000ヴァースオブフェネクス！」"
 translation = "「몬스터 발견했어요! 버스 오브 피닉스!」"
 
 [[dialogue]]
-speaker = "モンスター"
+speaker_original = "モンスター"
+speaker_translation = "몬스터"
 original = "「イ～～……」"
 translation = "「이이잉……」"
 
 [[dialogue]]
-speaker = "モネ"
+speaker_original = "モネ"
+speaker_translation = "모네"
 original = "「私もプリマステラになりましたから、これくらいできます。私も強くなりました」"
 translation = "「저도 프리마스텔라가 되었으니까 이 정도는 할 수 있어요. 저도 강해졌거든요」"
 
 [[dialogue]]
-speaker = "モンスター"
+speaker_original = "モンスター"
+speaker_translation = "몬스터"
 original = "「グルルルルッ！」"
 translation = "「그르르르!」"
 
 [[dialogue]]
-speaker = "モネ"
+speaker_original = "モネ"
+speaker_translation = "모네"
 original = "「！\u3000機械型モンスターまで……！」"
 translation = "「! 기계형 몬스터까지……!」"
 
 [[dialogue]]
-speaker = "モネ"
+speaker_original = "モネ"
+speaker_translation = "모네"
 original = "「機械型モンスターは非常に頑健な体と、高い攻撃力を持ち、プリマステラでも太刀打ちできない相手でした」"
 translation = "「기계형 몬스터는 매우 강건한 신체와 높은 공격력을 가져서 프리마스텔라도 상대하기 힘든 적이었어요」"
 
 [[dialogue]]
-speaker = "モネ"
+speaker_original = "モネ"
+speaker_translation = "모네"
 original = "「ですが──」"
 translation = "「하지만──」"
 
 [[dialogue]]
-speaker = "モネ（覚醒）"
+speaker_original = "モネ（覚醒）"
+speaker_translation = "모네(각성)"
 original = "「今の私なら倒せます！」"
 translation = "「지금의 저라면 쓰러뜨릴 수 있어요!」"
 
 [[dialogue]]
-speaker = "モネ（覚醒）"
+speaker_original = "モネ（覚醒）"
+speaker_translation = "모네(각성)"
 original = "「跪け──ルシファーアセンション！！」"
 translation = "「무릎 꿇어라── 루시퍼 어센션!!」"
 
 [[dialogue]]
-speaker = "モンスター"
+speaker_original = "モンスター"
+speaker_translation = "몬스터"
 original = "「ガアァ……！」"
 translation = "「가아악……!」"
 
 [[dialogue]]
-speaker = "モネ（覚醒）"
+speaker_original = "モネ（覚醒）"
+speaker_translation = "모네(각성)"
 original = "「ああ、ああ……っ！\u3000会長、大変です！」"
 translation = "「아아, 아아……! 회장님, 큰일이에요!」"
 
@@ -224,32 +259,38 @@ original = "どうしたの！？\u3000怪我でもした！？"
 translation = "왜 그래!? 어디 다치기라도 했어!?"
 
 [[dialogue]]
-speaker = "モネ（覚醒）"
+speaker_original = "モネ（覚醒）"
+speaker_translation = "모네(각성)"
 original = "「ちち、違うんです！\u3000会長と一緒にモンスターを倒したら、文章があふれ出てきて……今すぐ帰って書き留めないとっ！」"
 translation = "「아아, 아니에요! 회장님과 함께 몬스터를 쓰러뜨렸더니 문장이 넘쳐흘러서…… 지금 당장 돌아가서 적어두지 않으면!」"
 
 [[dialogue]]
-speaker = "モネ（覚醒）"
+speaker_original = "モネ（覚醒）"
+speaker_translation = "모네(각성)"
 original = "「ああいや、帰ってからじゃ間に合わない！\u3000メモメモ……」"
 translation = "「아아 아니, 돌아가서 쓰면 늦어! 메모 메모……」"
 
 [[dialogue]]
-speaker = "モネ（覚醒）"
+speaker_original = "モネ（覚醒）"
+speaker_translation = "모네(각성)"
 original = "「……ふぅ、とりあえず書き留めました。寮に帰ったらまた改めて文章にします」"
 translation = "「……후우, 일단 적어두었어요. 기숙사에 돌아가면 다시 제대로 글로 옮길게요」"
 
 [[dialogue]]
-speaker = "モネ（覚醒）"
+speaker_original = "モネ（覚醒）"
+speaker_translation = "모네(각성)"
 original = "「今回の悔しさを、私はずっと忘れないでしょう。でもそれはそれとして、物語を書き続けます」"
 translation = "「이번의 분함을 저는 평생 잊지 않겠죠. 하지만 그건 그거대로, 이야기를 계속 써 내려갈 거예요」"
 
 [[dialogue]]
-speaker = "モネ（覚醒）"
+speaker_original = "モネ（覚醒）"
+speaker_translation = "모네(각성)"
 original = "「だって、私は賞が欲しくて小説を書いたんじゃないですから。もちろん、もらえれば嬉しいですけど、書きたくて、書かずにはいられないから書くんです」"
 translation = "「왜냐하면, 저는 상을 받고 싶어서 소설을 쓴 게 아니니까요. 물론 받으면 기쁘겠지만, 쓰고 싶어서, 쓰지 않고서는 못 배기니까 쓰는 거예요」"
 
 [[dialogue]]
-speaker = "モネ（覚醒）"
+speaker_original = "モネ（覚醒）"
+speaker_translation = "모네(각성)"
 original = "「そして、私が書いた<ruby>小説<rt>本</rt></ruby>が、いつか誰かの友達になってくれたら嬉しいです」"
 translation = "「그리고 제가 쓴 소설이 언젠가 누군가의 친구가 되어준다면 기쁠 거예요」"
 
@@ -259,7 +300,8 @@ original = "次はどんな話を書くの？"
 translation = "다음엔 어떤 이야기를 쓸 거야?"
 
 [[dialogue]]
-speaker = "モネ（覚醒）"
+speaker_original = "モネ（覚醒）"
+speaker_translation = "모네(각성)"
 original = "「それはもちろん、どんな絶望的な状況でも諦めない、終焉に立ち向かう<ruby>星騎士<rt>スターナイツ</rt></ruby>の物語です！」"
 translation = "「그건 당연히, 어떤 절망적인 상황에서도 포기하지 않는, 종언에 맞서는 <ruby>성기사<rt>스타 나이츠</rt></ruby>의 이야기예요!」"
 

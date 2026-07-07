@@ -4,22 +4,26 @@ original = "第２話,危険すぎる会議,P"
 translation = "제2화, 너무 위험한 회의"
 
 [[dialogue]]
-speaker = "せつな"
+speaker_original = "せつな"
+speaker_translation = "세츠나"
 original = "「お初にお目に掛かりまする。新星学園１年、甲賀流くノ一兼メイドのせつなでござる」"
 translation = "「처음 뵙겠소. 신성학원 1학년, 코가류 쿠노이치 겸 메이드인 세츠나라 하오.」"
 
 [[dialogue]]
-speaker = "イクシリオン"
+speaker_original = "イクシリオン"
+speaker_translation = "익실리온"
 original = "「新星学園１年、保健委員をしていますイクシリオン・グレゴールです。イクシーと呼んでください」"
 translation = "「신성학원 1학년, 보건위원을 맡고 있는 익실리온 그레고르입니다. 익실이라고 불러주세요.」"
 
 [[dialogue]]
-speaker = "レミカ"
+speaker_original = "レミカ"
+speaker_translation = "레미카"
 original = "「芸能事務所『ポラリスプロダクション』のレミカです。こういう場に招かれることってなかなか無いから嬉しいよ」"
 translation = "「연예 기획사 『폴라리스 프로덕션』의 레미카입니다. 이런 자리에 초대받는 건 좀처럼 없는 일이라 기쁘네.」"
 
 [[dialogue]]
-speaker = "ツェツィーリエ"
+speaker_original = "ツェツィーリエ"
+speaker_translation = "체칠리에"
 original = "「アタシも嬉しいよ～♪\u3000魔王ちゃん、みんなのこと紹介してくれてありがとー♪」"
 translation = "「나도 기뻐~♪ 마왕 짱, 모두를 소개해 줘서 고마워~♪」"
 
@@ -29,37 +33,44 @@ original = "人選を間違ったかもしれない……"
 translation = "인선이 잘못됐을지도 몰라……"
 
 [[dialogue]]
-speaker = "せつな"
+speaker_original = "せつな"
+speaker_translation = "세츠나"
 original = "「それで今日は、ツェツィーリエ殿が自作されたデンマを試して欲しいとか？」"
 translation = "「그래서 오늘은 체칠리에 공이 직접 만든 덴마를 시험해 보길 원하는 것이오?」"
 
 [[dialogue]]
-speaker = "ツェツィーリエ"
+speaker_original = "ツェツィーリエ"
+speaker_translation = "체칠리에"
 original = "「そーなんだよ～。忌憚のない意見をもらおうと思って魔王ちゃんにみんなを集めてもらったんだ」"
 translation = "「그으래~. 가감 없는 의견을 듣고 싶어서 마왕 짱한테 모두를 모아달라고 했어.」"
 
 [[dialogue]]
-speaker = "せつな"
+speaker_original = "せつな"
+speaker_translation = "세츠나"
 original = "「さすがは主様、お目が高いでござる！」"
 translation = "「과연 주군, 안목이 높으시구려!」"
 
 [[dialogue]]
-speaker = "レミカ"
+speaker_original = "レミカ"
+speaker_translation = "레미카"
 original = "「現場から現場に移動する時、車の中とかで使えるマッサージ器があると助かると思ってたんだ」"
 translation = "「현장에서 현장으로 이동할 때 차 안에서 쓸 수 있는 마사지기가 있으면 좋겠다고 생각했거든.」"
 
 [[dialogue]]
-speaker = "イクシリオン"
+speaker_original = "イクシリオン"
+speaker_translation = "익실리온"
 original = "「わ、私も保健委員をしていると肩こりがすごいんです！\u3000あ～、もー、イヤになっちゃいますね～」"
 translation = "「저, 저도 보건위원을 하다 보니 어깨 결림이 심해요! 아~ 정말 싫증 나네요~」"
 
 [[dialogue]]
-speaker = "せつな"
+speaker_original = "せつな"
+speaker_translation = "세츠나"
 original = "「せつなは忍者でありメイドでありたわわでござるが、肩こりとは無縁でござる。ですが何やら気持ちよくなれる器具があると聞いて──」"
 translation = "「세츠나는 닌자이자 메이드이며 풍만하오나, 어깨 결림과는 거리가 멀소. 하지만 왠지 기분 좋아질 수 있는 기구가 있다고 들어서──」"
 
 [[dialogue]]
-speaker = "イクシリオン"
+speaker_original = "イクシリオン"
+speaker_translation = "익실리온"
 original = "「いいい、いけません！\u3000その言い方だと、あらぬ誤解を招いてしまいますよ！」"
 translation = "「아, 안 돼요! 그런 식으로 말하면 엉뚱한 오해를 부른다고요!」"
 
@@ -69,257 +80,308 @@ original = "絶対に人選を間違った！"
 translation = "절대적으로 인선이 잘못됐다!"
 
 [[dialogue]]
-speaker = "ツェツィーリエ"
+speaker_original = "ツェツィーリエ"
+speaker_translation = "체칠리에"
 original = "「じゃーん！\u3000早速ひとつ目なんだけど、これは通称『ボルケーノ』。床に敷いて……と。さ、この上に横になってみて」"
 translation = "「짠! 우선 첫 번째인데 이건 통칭 『볼케이노』. 바닥에 깔고…… 자, 이 위에 누워봐.」"
 
 [[dialogue]]
-speaker = "レミカ"
+speaker_original = "レミカ"
+speaker_translation = "레미카"
 original = "「それじゃ最初は私が……これでいい？」"
 translation = "「그럼 처음에 내가…… 이렇게 하면 돼?」"
 
 [[dialogue]]
-speaker = "ツェツィーリエ"
+speaker_original = "ツェツィーリエ"
+speaker_translation = "체칠리에"
 original = "「おーけー。レッツスタート♪」"
 translation = "「오케이. 레츠 스타트♪」"
 
 [[dialogue]]
-speaker = "レミカ"
+speaker_original = "レミカ"
+speaker_translation = "레미카"
 original = "「わわっ、わ……なに、これ……！？」"
 translation = "「와앗, 와…… 뭐야, 이거……!?」"
 
 [[dialogue]]
-speaker = "ツェツィーリエ"
+speaker_original = "ツェツィーリエ"
+speaker_translation = "체칠리에"
 original = "「これは全身を同時にマッサージする、ということに主眼を置いたデンマだよ」"
 translation = "「이건 전신을 동시에 마사지한다는 것에 주안점을 둔 덴마야.」"
 
 [[dialogue]]
-speaker = "ツェツィーリエ"
+speaker_original = "ツェツィーリエ"
+speaker_translation = "체칠리에"
 original = "「電波によって疲労のたまっている所やこっている所を自動的に検知して、火山が噴火するかのように下から突き上げてくれるんだ」"
 translation = "「전파에 의해 피로가 쌓인 곳이나 뭉친 곳을 자동으로 감지해서 화산이 폭발하듯 아래에서 찔러주는 거지.」"
 
 [[dialogue]]
-speaker = "レミカ"
+speaker_original = "レミカ"
+speaker_translation = "레미카"
 original = "「あっ、あっ、うっ……うん……ホントだ……突いて欲しい、とこを、あちこち、突いてくれる、ねっ……！」"
 translation = "「앗, 앗, 윽…… 응…… 정말이다…… 찔러줬으면 하는 곳을 여기저기 찔러주네……!」"
 
 [[dialogue]]
-speaker = "せつな"
+speaker_original = "せつな"
+speaker_translation = "세츠나"
 original = "「全身の至る所を突かれて……レミカ殿、いい声で啼いているでござるな」"
 translation = "「전신 여기저기를 찔려 대니…… 레미카 공, 좋은 목소리로 우는구려.」"
 
 [[dialogue]]
-speaker = "イクシリオン"
+speaker_original = "イクシリオン"
+speaker_translation = "익실리온"
 original = "「とっても気持ちよさそうです……」"
 translation = "「정말 기분 좋아 보여요……」"
 
 [[dialogue]]
-speaker = "レミカ"
+speaker_original = "レミカ"
+speaker_translation = "레미카"
 original = "「うん……すごく、いいよ……力加減も、絶妙で……」"
 translation = "「응…… 정말 좋아…… 힘 조절도 절묘해서……」"
 
 [[dialogue]]
-speaker = "ツェツィーリエ"
+speaker_original = "ツェツィーリエ"
+speaker_translation = "체칠리에"
 original = "「次はこれ、『スネーク』だよ～。この長いにょろにょろを巻いてスイッチを入れると、キュッと締まってブルブル震えるんだ」"
 translation = "「다음은 이거, 『스네이크』야~. 이 긴 꿈틀이를 감고 스위치를 켜면 꽉 조여지면서 부르르 떨려.」"
 
 [[dialogue]]
-speaker = "イクシリオン"
+speaker_original = "イクシリオン"
+speaker_translation = "익실리온"
 original = "「ビジュアルが……まるで大蛇に襲われているみたいになりませんか？」"
 translation = "「비주얼이…… 마치 거대한 뱀에게 습격당하는 것 같지 않나요?」"
 
 [[dialogue]]
-speaker = "せつな"
+speaker_original = "せつな"
+speaker_translation = "세츠나"
 original = "「せつなはそういうのも得意でござる！」"
 translation = "「세츠나는 그런 것도 특기요!」"
 
 [[dialogue]]
-speaker = "レミカ"
+speaker_original = "レミカ"
+speaker_translation = "레미카"
 original = "「……得意って何？？」"
 translation = "「……특기라니 뭐야??」"
 
 [[dialogue]]
-speaker = "せつな"
+speaker_original = "せつな"
+speaker_translation = "세츠나"
 original = "「では、いざ勝負っ！！」"
 translation = "「그럼, 승부다!!」"
 
 [[dialogue]]
-speaker = "せつな"
+speaker_original = "せつな"
+speaker_translation = "세츠나"
 original = "「う……くっ……くノ一として……妖に屈するわけには、いかないでござるっ……！」"
 translation = "「우…… 큭…… 쿠노이치로서…… 요괴에게 굴복할 수는 없는 법이오……!」"
 
 [[dialogue]]
-speaker = "イクシリオン"
+speaker_original = "イクシリオン"
+speaker_translation = "익실리온"
 original = "「はぁ……はぁ……せつなさんの全身が締め付けられて……見ているこちらまで変な気分になってきました……<emoji=heart04>」"
 translation = "「하아…… 하아…… 세츠나 씨의 전신이 죄어지니…… 보고 있는 저까지 묘한 기분이 드네요……❤️」"
 
 [[dialogue]]
-speaker = "ツェツィーリエ"
+speaker_original = "ツェツィーリエ"
+speaker_translation = "체칠리에"
 original = "「さらにお次はこれ、『パイルドライバ』」"
 translation = "「거기에 다음은 이거, 『파일 드라이버』」"
 
 [[dialogue]]
-speaker = "ツェツィーリエ"
+speaker_original = "ツェツィーリエ"
+speaker_translation = "체칠리에"
 original = "「通常のデンマは患部にそれを当てて時間をかけてほぐす、という感じだけどこのパイルドライバは一撃必殺」"
 translation = "「통상적인 덴마는 환부에 대고 시간을 들여서 푸는 느낌이지만 이 파일 드라이버는 일격필살.」"
 
 [[dialogue]]
-speaker = "ツェツィーリエ"
+speaker_original = "ツェツィーリエ"
+speaker_translation = "체칠리에"
 original = "「ズドン、と衝撃を与えればそれでコリがほぐれてしまうのだ」"
 translation = "「즈돈 하고 충격을 주면 그걸로 뭉친 게 풀려버리는 거야.」"
 
 [[dialogue]]
-speaker = "イクシリオン"
+speaker_original = "イクシリオン"
+speaker_translation = "익실리온"
 original = "「あぁ……そんな強烈な一撃をくらわされたら……どうにかなっちゃいそうです～<emoji=heart04><emoji=heart04><emoji=heart04>」"
 translation = "「아아…… 그런 강렬한 일격을 당한다면…… 어떻게 되어버릴 것 같아요~❤️❤️❤️」"
 
 [[dialogue]]
-speaker = "ツェツィーリエ"
+speaker_original = "ツェツィーリエ"
+speaker_translation = "체칠리에"
 original = "「──とまあ、以上がアタシの開発したデンマなんだけど……」"
 translation = "「──라며, 이상이 내가 개발한 덴마들인데……」"
 
 [[dialogue]]
-speaker = "せつな"
+speaker_original = "せつな"
+speaker_translation = "세츠나"
 original = "「いかがされましたか、ツェツィーリエ殿？」"
 translation = "「어찌 된 일이오, 체칠리에 공?」"
 
 [[dialogue]]
-speaker = "ツェツィーリエ"
+speaker_original = "ツェツィーリエ"
+speaker_translation = "체칠리에"
 original = "「実はね、もう１本だけあるんだよ」"
 translation = "「사실은 말이야, 하나 더 있거든.」"
 
 [[dialogue]]
-speaker = "レミカ"
+speaker_original = "レミカ"
+speaker_translation = "레미카"
 original = "「そうなんだ。もしかして秘蔵の１本だったりするの？」"
 translation = "「그렇구나. 혹시 비장의 하나인 거야?」"
 
 [[dialogue]]
-speaker = "ツェツィーリエ"
+speaker_original = "ツェツィーリエ"
+speaker_translation = "체칠리에"
 original = "「うーん……」"
 translation = "「으음……」"
 
 [[dialogue]]
-speaker = "イクシリオン"
+speaker_original = "イクシリオン"
+speaker_translation = "익실리온"
 original = "「この反応ということは、逆に完成度に納得がいっていないということなのでしょうか？」"
 translation = "「이런 반응이라면 반대로 완성도가 만족스럽지 못하다는 걸까요?」"
 
 [[dialogue]]
-speaker = "ツェツィーリエ"
+speaker_original = "ツェツィーリエ"
+speaker_translation = "체칠리에"
 original = "「そんなことないよ、むしろ一番完成度が高いのはこれかなって思ってるくらい」"
 translation = "「그럴 리가, 오히려 가장 완성도가 높은 게 아닐까 싶을 정도야.」"
 
 [[dialogue]]
-speaker = "せつな"
+speaker_original = "せつな"
+speaker_translation = "세츠나"
 original = "「なんと！\u3000それは是非堪能してみたいでござる」"
 translation = "「오오! 그것은 꼭 만끽해 보고 싶구려.」"
 
 [[dialogue]]
-speaker = "ツェツィーリエ"
+speaker_original = "ツェツィーリエ"
+speaker_translation = "체칠리에"
 original = "「これがそのデンマなんだけど……」"
 translation = "「이게 그 덴마인데……」"
 
 [[dialogue]]
-speaker = "レミカ"
+speaker_original = "レミカ"
+speaker_translation = "레미카"
 original = "「一見しただけだと、普通のデンマに見えるね」"
 translation = "「얼핏 보기엔 평범한 덴마 같네.」"
 
 [[dialogue]]
-speaker = "ツェツィーリエ"
+speaker_original = "ツェツィーリエ"
+speaker_translation = "체칠리에"
 original = "「うん、見た目通りの普通のデンマだよ」"
 translation = "「응, 보이는 대로 평범한 덴마야.」"
 
 [[dialogue]]
-speaker = "ツェツィーリエ"
+speaker_original = "ツェツィーリエ"
+speaker_translation = "체칠리에"
 original = "「これは初めてデンマを見た日、研究室に戻って一番最初に作ったものなんだ」"
 translation = "「이건 처음 덴마를 본 날 연구실에 돌아와서 가장 먼저 만든 거야.」"
 
 [[dialogue]]
-speaker = "ツェツィーリエ"
+speaker_original = "ツェツィーリエ"
+speaker_translation = "체칠리에"
 original = "「それからいろんなアイデアを詰め込んだデンマを作ってみたけど、どうしてもこのオリジナル型の完成度を超えることが出来なくて」"
 translation = "「그 뒤로 여러 아이디어를 담은 덴마를 만들어 봤지만 아무래도 이 오리지널 형의 완성도를 넘을 수가 없더라고.」"
 
 [[dialogue]]
-speaker = "せつな"
+speaker_original = "せつな"
+speaker_translation = "세츠나"
 original = "「ツェツィーリエ殿……試してみてもいいでござるか？」"
 translation = "「체칠리에 공…… 시험해 봐도 되겠소?」"
 
 [[dialogue]]
-speaker = "ツェツィーリエ"
+speaker_original = "ツェツィーリエ"
+speaker_translation = "체칠리에"
 original = "「うん」"
 translation = "「응.」"
 
 [[dialogue]]
-speaker = "せつな"
+speaker_original = "せつな"
+speaker_translation = "세츠나"
 original = "「しからば失礼して……」"
 translation = "「그럼 실례하겠소……」"
 
 [[dialogue]]
-speaker = "せつな"
+speaker_original = "せつな"
+speaker_translation = "세츠나"
 original = "「ふぉおおおおおおおおおおおっ！！！！！！！」"
 translation = "「훠어어어어어어어어어어어어억!!!!!」"
 
 [[dialogue]]
-speaker = "イクシリオン"
+speaker_original = "イクシリオン"
+speaker_translation = "익실리온"
 original = "「せ、せつなさんが秒で昇天した！？」"
 translation = "「세, 세츠나 씨가 1초 만에 승천했어!?」"
 
 [[dialogue]]
-speaker = "せつな"
+speaker_original = "せつな"
+speaker_translation = "세츠나"
 original = "「や、やばいでござる……ハンパなくキモチいいのでござる……」"
 translation = "「여, 위험하오…… 장난 아니게 기분 좋은 것이오……」"
 
 [[dialogue]]
-speaker = "イクシリオン"
+speaker_original = "イクシリオン"
+speaker_translation = "익실리온"
 original = "「そんなにですか！？」"
 translation = "「그 정도인가요!?」"
 
 [[dialogue]]
-speaker = "レミカ"
+speaker_original = "レミカ"
+speaker_translation = "레미카"
 original = "「じゃ、じゃあ……私も失礼して……」"
 translation = "「그, 그럼…… 나도 실례해서……」"
 
 [[dialogue]]
-speaker = "レミカ"
+speaker_original = "レミカ"
+speaker_translation = "레미카"
 original = "「ひぁあああああああああああああっ！！！！！！」"
 translation = "「히아아아아아아아아아아아아악!!!!!」"
 
 [[dialogue]]
-speaker = "レミカ"
+speaker_original = "レミカ"
+speaker_translation = "레미카"
 original = "「あへ……あへ……ぴく……ぴく……」"
 translation = "「아헤…… 아헤…… 움찔…… 움찔……」"
 
 [[dialogue]]
-speaker = "イクシリオン"
+speaker_original = "イクシリオン"
+speaker_translation = "익실리온"
 original = "「アイドルのこの顔は絶対に見せられません！\u3000自主規制ですっ！」"
 translation = "「아이돌의 이런 얼굴은 절대 보여줄 수 없어요! 자체 규제입니다!」"
 
 [[dialogue]]
-speaker = "イクシリオン"
+speaker_original = "イクシリオン"
+speaker_translation = "익실리온"
 original = "「はっ！\u3000でも、どうしましょう！\u3000次は私の番！？\u3000私もアレの餌食になって、だらしない姿を晒してしまうのでしょうか？」"
 translation = "「핫! 하지만 어쩌죠! 다음은 제 차례!? 저도 저것의 제물이 되어 추태를 보이고 마는 걸까요?」"
 
 [[dialogue]]
-speaker = "ツェツィーリエ"
+speaker_original = "ツェツィーリエ"
+speaker_translation = "체칠리에"
 original = "「２人も試してくれたし、おかげで原初こそ至高ってことが分かったし……無理にとは言わないよ？」"
 translation = "「둘 다 시험해 줬고 덕분에 원초야말로 지고라는 걸 알았으니…… 억지로 시키진 않을게?」"
 
 [[dialogue]]
-speaker = "イクシリオン"
+speaker_original = "イクシリオン"
+speaker_translation = "익실리온"
 original = "「あっ……いや、その……」"
 translation = "「앗…… 아니, 그게……」"
 
 [[dialogue]]
-speaker = "せつな"
+speaker_original = "せつな"
+speaker_translation = "세츠나"
 original = "「い、イクシー殿……素直になった方がいいでござる……」"
 translation = "「이, 익실 공…… 솔직해지는 게 좋을 것이오……」"
 
 [[dialogue]]
-speaker = "レミカ"
+speaker_original = "レミカ"
+speaker_translation = "레미카"
 original = "「この気持ちよさ……一生に一度は経験しておくべきかも……」"
 translation = "「이 기분 좋음…… 일생에 한 번은 경험해 봐야 할지도……」"
 
 [[dialogue]]
-speaker = "イクシリオン"
+speaker_original = "イクシリオン"
+speaker_translation = "익실리온"
 original = "「お……お……お願いしますぅ！\u3000私も昇天させてください～！！！！」"
 translation = "「부…… 부…… 부탁드려요! 저도 승천시켜 주세요~!!!!」"
 

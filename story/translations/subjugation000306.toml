@@ -1,230 +1,276 @@
 [[dialogue]]
-speaker = "モネ"
+speaker_original = "モネ"
+speaker_translation = "모네"
 original = "「出張図書コンシェルジュ──第２弾です！」"
 translation = "「출장 도서 컨시어지── 제2탄입니다!」"
 
 [[dialogue]]
-speaker = "カティア"
+speaker_original = "カティア"
+speaker_translation = "카티아"
 original = "「しゅっちょう……としょ……こんしぇるじゅ……？」"
 translation = "「추울장…… 도오서…… 컨시어어지……?」"
 
 [[dialogue]]
-speaker = "モネ"
+speaker_original = "モネ"
+speaker_translation = "모네"
 original = "「はい。あなたにぴったりな一冊を図書委員の紙屋敷モネがご紹介します」"
 translation = "「네. 당신에게 딱 맞는 한 권을 도서위원인 카미야시키 모네가 소개해 드릴게요.」"
 
 [[dialogue]]
-speaker = "カティア"
+speaker_original = "カティア"
+speaker_translation = "카티아"
 original = "「え～、モネ先輩には悪いけど、私本読まないしなー」"
 translation = "「에~, 모네 선배에겐 미안하지만, 나 책 안 읽는데 말이지─」"
 
 [[dialogue]]
-speaker = "モネ"
+speaker_original = "モネ"
+speaker_translation = "모네"
 original = "「まぁまぁそうおっしゃらず。カティアさんのお役に立てる本がきっとありますよ。図書館ですから全部無料ですし」"
 translation = "「자자, 그렇게 말씀하시지 말고. 카티아 씨에게 도움이 될 책이 분명 있을 거예요. 도서관이니까 전부 무료고요.」"
 
 [[dialogue]]
-speaker = "カティア"
+speaker_original = "カティア"
+speaker_translation = "카티아"
 original = "「そんなこと言って、後でお金取られるんじゃないですか？\u3000うちの村じゃ本は貴重でしたし、読み放題なんて言われても信じられないんですけど」"
 translation = "「말은 그렇게 해도 나중에 돈 받아내는 거 아니에요? 우리 마을에선 책이 귀중했으니까, 마음껏 읽으라는 말을 들어도 못 믿겠는데요.」"
 
 [[dialogue]]
-speaker = "モネ"
+speaker_original = "モネ"
+speaker_translation = "모네"
 original = "「取りませんよ。汚したり破いたりしたら弁償になることはありますが」"
 translation = "「안 받아요. 더럽히거나 찢으면 변상해야 할 때도 있지만요.」"
 
 [[dialogue]]
-speaker = "カティア"
+speaker_original = "カティア"
+speaker_translation = "카티아"
 original = "「でも教科書読むのもめんどくさいくらいだし、漫画しか読まないし……」"
 translation = "「그치만 교과서 읽는 것도 귀찮을 정도고, 만화밖에 안 읽는데……」"
 
 [[dialogue]]
-speaker = "モネ"
+speaker_original = "モネ"
+speaker_translation = "모네"
 original = "「漫画も図書館にありますよ。さすがに最新の作品まで網羅しているわけではないですけどね」"
 translation = "「만화도 도서관에 있어요. 설마 최신 작품까지 다 망라하고 있는 건 아니지만요.」"
 
 [[dialogue]]
-speaker = "カティア"
+speaker_original = "カティア"
+speaker_translation = "카티아"
 original = "「ほんとに？」"
 translation = "「정말?」"
 
 [[dialogue]]
-speaker = "モネ"
+speaker_original = "モネ"
+speaker_translation = "모네"
 original = "「はい。ですがカティアさんには他にもおすすめがあって──」"
 translation = "「네. 하지만 카티아 씨에게는 다른 추천 도서도 있어서──」"
 
 [[dialogue]]
-speaker = "イクシリオン"
+speaker_original = "イクシリオン"
+speaker_translation = "익실리온"
 original = "「手が離せないウィステリアさんの代わりに、今日は私が図書館デリバリーです。こんにちは、カティアさん」"
 translation = "「손을 뗄 수 없는 위스테리아 씨 대신, 오늘은 제가 도서관 배달원이에요. 안녕하세요, 카티아 씨.」"
 
 [[dialogue]]
-speaker = "カティア"
+speaker_original = "カティア"
+speaker_translation = "카티아"
 original = "「なんでイクシーが？\u3000図書委員だったっけ？」"
 translation = "「왜 익실이가? 도서위원이었나?」"
 
 [[dialogue]]
-speaker = "イクシリオン"
+speaker_original = "イクシリオン"
+speaker_translation = "익실리온"
 original = "「保健委員ですがモネさんのお手伝いで。モネさん、こちらがご依頼の本です」"
 translation = "「보건위원이지만 모네 씨를 돕고 있어요. 모네 씨, 여기 의뢰하신 책입니다.」"
 
 [[dialogue]]
-speaker = "モネ"
+speaker_original = "モネ"
+speaker_translation = "모네"
 original = "「ありがとうございます、イクシーさん。──というわけで、カティアさんにおすすめしたいのはこの植物図鑑です！」"
 translation = "「고마워요, 익실 씨. ──그런고로, 카티아 씨에게 추천하고 싶은 건 이 식물 도감이에요!」"
 
 [[dialogue]]
-speaker = "カティア"
+speaker_original = "カティア"
+speaker_translation = "카티아"
 original = "「ずかん？」"
 translation = "「도감?」"
 
 [[dialogue]]
-speaker = "モネ"
+speaker_original = "モネ"
+speaker_translation = "모네"
 original = "「はい。カティアさんは花壇のお世話をされてますし、お花がお好きですよね？\u3000この図鑑は、植物の生態が写真とともに掲載されています」"
 translation = "「네. 카티아 씨는 화단을 돌보고 계시고, 꽃을 좋아하시죠? 이 도감은 식물의 생태가 사진과 함께 게재되어 있어요.」"
 
 [[dialogue]]
-speaker = "カティア"
+speaker_original = "カティア"
+speaker_translation = "카티아"
 original = "「へ～……でもそれくらいＤＩＳＣで調べられるし……」"
 translation = "「헤~…… 하지만 그 정도는 DISC로 조사할 수 있고……」"
 
 [[dialogue]]
-speaker = "モネ"
+speaker_original = "モネ"
+speaker_translation = "모네"
 original = "「確かにＤＩＳＣでも調べものはできます。だけどネットの情報って断片的だったり、ブレがあったり、なかなか確度の高い情報に辿りつけないこともあります」"
 translation = "「확실히 DISC로도 조사할 순 있죠. 하지만 인터넷 정보는 단편적이거나 오차가 있어서, 좀처럼 정확도 높은 정보에 도달하지 못할 때도 있어요.」"
 
 [[dialogue]]
-speaker = "モネ"
+speaker_original = "モネ"
+speaker_translation = "모네"
 original = "「そういう時は案外本の方が早く調べられますよ。専門家や出版社が関わっている分、一定の信用性もありますからね」"
 translation = "「그럴 때는 의외로 책이 더 빨리 찾아지기도 해요. 전문가나 출판사가 관여한 만큼 일정 수준의 신용성도 있으니까요.」"
 
 [[dialogue]]
-speaker = "カティア"
+speaker_original = "カティア"
+speaker_translation = "카티아"
 original = "「ふ～ん」"
 translation = "「흐음.」"
 
 [[dialogue]]
-speaker = "イクシリオン"
+speaker_original = "イクシリオン"
+speaker_translation = "익실리온"
 original = "（おや、こちらは野草の本ですか。オオイヌノフグリ……あのかわいらしい花はそんな名前なのですね）"
 translation = "(오호, 이건 야생화 책인가요. 큰개불알풀…… 그 귀여운 꽃이 그런 이름이었군요)"
 
 [[dialogue]]
-speaker = "イクシリオン"
+speaker_original = "イクシリオン"
+speaker_translation = "익실리온"
 original = "（ふむふむ……イヌノフグリという植物に似ているから、“オオ”イヌノフグリと。しかしフグリとは何のことでしょうか？）"
 translation = "(흠흠…… 개불알풀이라는 식물과 닮아서 '큰'개불알풀이라고. 그런데 불알이란 무엇을 뜻하는 걸까요?)"
 
 [[dialogue]]
-speaker = "イクシリオン"
+speaker_original = "イクシリオン"
+speaker_translation = "익실리온"
 original = "（！\u3000フグリとは……なんと……！？）"
 translation = "(! 불알이란…… 세상에……!?)"
 
 [[dialogue]]
-speaker = "モネ"
+speaker_original = "モネ"
+speaker_translation = "모네"
 original = "「それとカティアさんに読んでもらいたいのがこの１冊──『自由な庭づくり』です」"
 translation = "「그리고 카티아 씨가 읽어주었으면 하는 게 이 한 권── 『자유로운 정원 가꾸기』예요.」"
 
 [[dialogue]]
-speaker = "モネ"
+speaker_original = "モネ"
+speaker_translation = "모네"
 original = "「ガーデニング初心者から上級者まで幅広く対応した本で、さまざまな植物の環境に合わせた育て方が書かれているんですよ」"
 translation = "「가드닝 초보부터 상급자까지 폭넓게 대응한 책으로, 다양한 식물의 환경에 맞춘 재배법이 적혀 있답니다.」"
 
 [[dialogue]]
-speaker = "カティア"
+speaker_original = "カティア"
+speaker_translation = "카티아"
 original = "「あ、これ、気になってたやつも載ってる」"
 translation = "「아, 이거, 궁금했던 것도 실려 있어.」"
 
 [[dialogue]]
-speaker = "モネ"
+speaker_original = "モネ"
+speaker_translation = "모네"
 original = "「もしお気に召したのなら、図書館にいらしてください。他にもお花の本がたくさんありますよ」"
 translation = "「혹시 마음에 드셨다면 도서관에 와주세요. 그 외에도 꽃 책이 많이 있어요.」"
 
 [[dialogue]]
-speaker = "カティア"
+speaker_original = "カティア"
+speaker_translation = "카티아"
 original = "「でも図書館に来るのって、真面目な人ばっかりじゃないんですか？」"
 translation = "「하지만 도서관에 오는 건 진지한 사람뿐이지 않나요?」"
 
 [[dialogue]]
-speaker = "モネ"
+speaker_original = "モネ"
+speaker_translation = "모네"
 original = "「大丈夫ですよ。図書館は本好きの人だけの場所ではありませんから」"
 translation = "「괜찮아요. 도서관은 책을 좋아하는 사람만의 장소가 아니니까요.」"
 
 [[dialogue]]
-speaker = "モネ"
+speaker_original = "モネ"
+speaker_translation = "모네"
 original = "「騒いだり本を汚してはいけませんけど、勉強でも休憩でも、気分転換でも、気軽に来てください。もちろん漫画を読みに来るのでもいいです」"
 translation = "「떠들거나 책을 더럽히면 안 되지만, 공부든 휴식이든 기분 전환이든 부담 없이 와주세요. 물론 만화를 보러 오는 것도 괜찮고요.」"
 
 [[dialogue]]
-speaker = "モネ"
+speaker_original = "モネ"
+speaker_translation = "모네"
 original = "「ぼーっとたくさんの本を眺めて、気が向いたときに本を手に取る。それでも全然いいと思います」"
 translation = "「멍하니 수많은 책을 바라보다가, 마음 내킬 때 책을 집어 든다. 그래도 전혀 괜찮다고 생각해요.」"
 
 [[dialogue]]
-speaker = "モネ"
+speaker_original = "モネ"
+speaker_translation = "모네"
 original = "「司書さんや図書委員がいつでも相談を受け付けます。図書館はただ本があるだけの場所ではないんですから」"
 translation = "「사서님이나 도서위원이 언제든 상담을 받을게요. 도서관은 그저 책만 있는 장소가 아니니까요.」"
 
 [[dialogue]]
-speaker = "カティア"
+speaker_original = "カティア"
+speaker_translation = "카티아"
 original = "「そこまで言うなら……行ってあげてもいいです」"
 translation = "「그렇게까지 말한다면…… 가줄 수도 있어요.」"
 
 [[dialogue]]
-speaker = "モネ"
+speaker_original = "モネ"
+speaker_translation = "모네"
 original = "「はい！\u3000お待ちしています！」"
 translation = "「네! 기다릴게요!」"
 
 [[dialogue]]
-speaker = "イクシリオン"
+speaker_original = "イクシリオン"
+speaker_translation = "익실리온"
 original = "「オオイヌノ……フグリ」"
 translation = "「큰개…… 불알.」"
 
 [[dialogue]]
-speaker = "モネ"
+speaker_original = "モネ"
+speaker_translation = "모네"
 original = "「オオイヌノフグリがどうされたんですか？」"
 translation = "「큰개불알풀이 왜 그러시나요?」"
 
 [[dialogue]]
-speaker = "イクシリオン"
+speaker_original = "イクシリオン"
+speaker_translation = "익실리온"
 original = "「きゃっ！？\u3000モネさんったら大胆な……」"
 translation = "「꺄악!? 모네 씨도 참 대담하시긴……」"
 
 [[dialogue]]
-speaker = "モネ"
+speaker_original = "モネ"
+speaker_translation = "모네"
 original = "「はい？」"
 translation = "「네?」"
 
 [[dialogue]]
-speaker = "カティア"
+speaker_original = "カティア"
+speaker_translation = "카티아"
 original = "「せっかくだし図書館で調べて何か育ててみようかなー。バタフライピーとかいいかな」"
 translation = "「모처럼이니 도서관에서 조사해서 뭐라도 키워볼까나─. 버터플라이피 같은 게 좋으려나.」"
 
 [[dialogue]]
-speaker = "イクシリオン"
+speaker_original = "イクシリオン"
+speaker_translation = "익실리온"
 original = "「！\u3000バタフライピーは熱帯アジア原産のマメ科の多年草。和名はチョウマメ。学名はクリトリア……」"
 translation = "「! 버터플라이피는 열대 아시아 원산인 콩과 다년초. 화명은 나비콩. 학명은 클리토리아……」"
 
 [[dialogue]]
-speaker = "カティア"
+speaker_original = "カティア"
+speaker_translation = "카티아"
 original = "「イクシーはなんでそんなにバタフライピーに詳しいの？」"
 translation = "「익실이는 왜 그렇게 버터플라이피에 대해서 잘 알아?」"
 
 [[dialogue]]
-speaker = "イクシリオン"
+speaker_original = "イクシリオン"
+speaker_translation = "익실리온"
 original = "「いえ、以前調べたことがありまして……。あとスッポンタケも調べました！」"
 translation = "「아니요, 이전에 조사한 적이 있어서……. 그리고 말뚝버섯도 조사했었습니다!」"
 
 [[dialogue]]
-speaker = "カティア"
+speaker_original = "カティア"
+speaker_translation = "카티아"
 original = "「いやキノコの話してないし」"
 translation = "「아니, 버섯 얘기는 안 했는데.」"
 
 [[dialogue]]
-speaker = "イクシリオン"
+speaker_original = "イクシリオン"
+speaker_translation = "익실리온"
 original = "「あ……コホン、失礼しました」"
 translation = "「아…… 흠흠, 실례했습니다.」"
 
 [[dialogue]]
-speaker = "カティア"
+speaker_original = "カティア"
+speaker_translation = "카티아"
 original = "「？\u3000変なイクシー」"
 translation = "「? 이상한 익실이.」"
 

@@ -9,427 +9,512 @@ original = "そんな騒ぎがあった数日後のこと。"
 translation = "그런 소동이 있은 지 며칠 후의 일."
 
 [[dialogue]]
-speaker = "セドナ"
+speaker_original = "セドナ"
+speaker_translation = "세드나"
 original = "「では行くぞ、ウェンディ」"
 translation = "「그럼 가자, 웨디」"
 
 [[dialogue]]
-speaker = "ウェンディ"
+speaker_original = "ウェンディ"
+speaker_translation = "웬디"
 original = "「は、はいっ」"
 translation = "「네, 네!」"
 
 [[dialogue]]
-speaker = "セドナ"
+speaker_original = "セドナ"
+speaker_translation = "세드나"
 original = "「緊張しているか？」"
 translation = "「긴장하고 있나?」"
 
 [[dialogue]]
-speaker = "ウェンディ"
+speaker_original = "ウェンディ"
+speaker_translation = "웬디"
 original = "「はい……九浄家当主からの呼び出しとなれば。一体どのような用件なのでしょう？」"
 translation = "「네…… 쿠죠 가 당주가 호출했다면 말이죠. 대체 어떤 용건일까요?」"
 
 [[dialogue]]
-speaker = "ウェンディ"
+speaker_original = "ウェンディ"
+speaker_translation = "웬디"
 original = "「ま、まさか先日のカジノでの一件について、ということは……」"
 translation = "「서, 설마 지난번 카지노 건에 대해서, 라는 건……」"
 
 [[dialogue]]
-speaker = "セドナ"
+speaker_original = "セドナ"
+speaker_translation = "세드나"
 original = "「さすがにそれはないだろう」"
 translation = "「설마 그럴 리는 없겠지」"
 
 [[dialogue]]
-speaker = "セドナ"
+speaker_original = "セドナ"
+speaker_translation = "세드나"
 original = "「話を持ってきたリノが言うには、今後のネビュラの進退に関わる話だとか」"
 translation = "「이야기를 가져온 리노가 말하기를, 향후 네뷸라의 진퇴에 관련된 이야기라더군」"
 
 [[dialogue]]
-speaker = "ウェンディ"
+speaker_original = "ウェンディ"
+speaker_translation = "웬디"
 original = "「そんな重大な話ですか！？」"
 translation = "「그렇게 중대한 이야기인가요!?」"
 
 [[dialogue]]
-speaker = "セドナ"
+speaker_original = "セドナ"
+speaker_translation = "세드나"
 original = "「リノのことだ。面白がって話を大きくしている可能性もあるがな」"
 translation = "「리노 녀석 일이다. 재미 삼아 이야기를 부풀렸을 가능성도 있다만」"
 
 [[dialogue]]
-speaker = "ウェンディ"
+speaker_original = "ウェンディ"
+speaker_translation = "웬디"
 original = "「そんな話にどうして私が同席するよう指名を受けたのでしょう？」"
 translation = "「그런 자리에 어째서 제가 동석하도록 지명을 받은 걸까요?」"
 
 [[dialogue]]
-speaker = "セドナ"
+speaker_original = "セドナ"
+speaker_translation = "세드나"
 original = "「分からない、が、先方からの強い要望らしい」"
 translation = "「모르겠다만, 상대측의 강력한 요망인 모양이다」"
 
 [[dialogue]]
-speaker = "ウェンディ"
+speaker_original = "ウェンディ"
+speaker_translation = "웬디"
 original = "「ぅぅぅ……恐い～、恐すぎます～……」"
 translation = "「으으으…… 무서워요~, 너무 무섭다구요~……」"
 
 [[dialogue]]
-speaker = "セドナ"
+speaker_original = "セドナ"
+speaker_translation = "세드나"
 original = "「そう構えるな。交渉において平常心を保つことが最も重要だぞ」"
 translation = "「그렇게 긴장하지 마라. 협상에 있어서 평상심을 유지하는 것이 가장 중요하니까」"
 
 [[dialogue]]
-speaker = "ウェンディ"
+speaker_original = "ウェンディ"
+speaker_translation = "웬디"
 original = "「は、はい……」"
 translation = "「네, 네……」"
 
 [[dialogue]]
-speaker = "ヘレナ"
+speaker_original = "ヘレナ"
+speaker_translation = "헬레나"
 original = "「よく来てくれた、ネビュラの諸君」"
 translation = "「잘 와 주었구나, 네뷸라 제군들」"
 
 [[dialogue]]
-speaker = "ヘレナ"
+speaker_original = "ヘレナ"
+speaker_translation = "헬레나"
 original = "「立てばプリティ、座ればゴージャス。泣く子も黙る九浄家二十六代目当主・九浄ヘレナちゃんとは私のことである」"
 translation = "「서면 프리티, 앉으면 고저스. 우는 아이도 그치게 하는 쿠죠 가 26대 당주·쿠죠 헬레나짱이란 나를 말함이니라」"
 
 [[dialogue]]
-speaker = "セドナ"
+speaker_original = "セドナ"
+speaker_translation = "세드나"
 original = "「対リクリエ秘密組織ネビュラ、司令官のセドナだ」"
 translation = "「대 리크리에 비밀 조직 네뷸라, 사령관 세드나다」"
 
 [[dialogue]]
-speaker = "ウェンディ"
+speaker_original = "ウェンディ"
+speaker_translation = "웬디"
 original = "「財務を担当しているウェンディです」"
 translation = "「재무를 담당하고 있는 웨디입니다」"
 
 [[dialogue]]
-speaker = "ヘレナ"
+speaker_original = "ヘレナ"
+speaker_translation = "헬레나"
 original = "「うむ、ウェンディ殿……先日はカジノでお会いしたが、私のことは覚えているかな？」"
 translation = "「음, 웨디 공…… 지난번 카지노에서 만났다만, 나를 기억하고 있으려나?」"
 
 [[dialogue]]
-speaker = "ウェンディ"
+speaker_original = "ウェンディ"
+speaker_translation = "웬디"
 original = "「はい、その節は色々と申し訳ありませんでした……」"
 translation = "「네, 그때는 여러모로 죄송했습니다……」"
 
 [[dialogue]]
-speaker = "ヘレナ"
+speaker_original = "ヘレナ"
+speaker_translation = "헬레나"
 original = "「否、否、楽しんで頂けたようで大変結構なことだ」"
 translation = "「아니, 아니, 즐겨 준 모양이라 매우 다행이로다」"
 
 [[dialogue]]
-speaker = "ヘレナ"
+speaker_original = "ヘレナ"
+speaker_translation = "헬레나"
 original = "「先日の勝負は誠、見事という他になかったぞ。願わくば貴殿の勝負をもっと見てみたいものだ」"
 translation = "「지난번 승부는 참으로, 훌륭하다는 말밖에는 할 수 없었도다. 바라건대 귀공의 승부를 좀 더 보고 싶은 것이니라」"
 
 [[dialogue]]
-speaker = "ヘレナ"
+speaker_original = "ヘレナ"
+speaker_translation = "헬레나"
 original = "「そうだ、当カジノのエースディーラーと勝負してみてはどうか？\u3000きっと熱い戦いになると思うが」"
 translation = "「그렇다, 우리 카지노의 에이스 딜러와 승부해 보는 건 어떠냐? 분명 뜨거운 싸움이 될 거라 생각한다만」"
 
 [[dialogue]]
-speaker = "ウェンディ"
+speaker_original = "ウェンディ"
+speaker_translation = "웬디"
 original = "「い、いえ……ギャンブルはこりごりというか、しばらく控えようかと……」"
 translation = "「아, 아니요…… 도박은 이제 질렸다고나 할까, 당분간은 자제하려고 해서……」"
 
 [[dialogue]]
-speaker = "ヘレナ"
+speaker_original = "ヘレナ"
+speaker_translation = "헬레나"
 original = "「ふむ、それは残念だ。だが、気が変わったらまた遊びに来るとよい」"
 translation = "「흠, 그거 아쉽구나. 하지만, 마음이 바뀌면 또 놀러 오도록 하거라」"
 
 [[dialogue]]
-speaker = "セドナ"
+speaker_original = "セドナ"
+speaker_translation = "세드나"
 original = "「九浄ヘレナ、前置きはそのくらいにして本題に入ってもらえないか？」"
 translation = "「쿠죠 헬레나, 서론은 그 정도로 하고 본론으로 들어가 주지 않겠나?」"
 
 [[dialogue]]
-speaker = "ヘレナ"
+speaker_original = "ヘレナ"
+speaker_translation = "헬레나"
 original = "「ふっ……これは失礼した。では、単刀直入に申し上げよう──」"
 translation = "「훗…… 이거 실례했도다. 그럼, 단도직입적으로 말하겠노라──」"
 
 [[dialogue]]
-speaker = "ヘレナ"
+speaker_original = "ヘレナ"
+speaker_translation = "헬레나"
 original = "「ネビュラの……魔女の力を借りたい」"
 translation = "「네뷸라의…… 마녀의 힘을 빌리고 싶다」"
 
 [[dialogue]]
-speaker = "セドナ"
+speaker_original = "セドナ"
+speaker_translation = "세드나"
 original = "「ほう？」"
 translation = "「호오?」"
 
 [[dialogue]]
-speaker = "ウェンディ"
+speaker_original = "ウェンディ"
+speaker_translation = "웬디"
 original = "（人間が魔女の力を借りたいって？\u3000どういうことですか？）"
 translation = "（인간이 마녀의 힘을 빌리고 싶다니? 무슨 소리인가요?）"
 
 [[dialogue]]
-speaker = "セドナ"
+speaker_original = "セドナ"
+speaker_translation = "세드나"
 original = "「リクリエを凌いだ今、殊更我らの力を借りねばならぬ事があるとは思えないが？」"
 translation = "「리크리에를 이겨낸 지금, 새삼스레 우리의 힘을 빌려야 할 일이 있다고는 생각되지 않는다만?」"
 
 [[dialogue]]
-speaker = "ヘレナ"
+speaker_original = "ヘレナ"
+speaker_translation = "헬레나"
 original = "「何を言う。貴殿ならばこれだけで、もう十分察しはついているだろう」"
 translation = "「무슨 소리를. 귀공이라면 이것만으로도, 이미 충분히 짐작하고 있을 터이거늘」"
 
 [[dialogue]]
-speaker = "セドナ"
+speaker_original = "セドナ"
+speaker_translation = "세드나"
 original = "「…………」"
 translation = "「…………」"
 
 [[dialogue]]
-speaker = "セドナ"
+speaker_original = "セドナ"
+speaker_translation = "세드나"
 original = "「……守護天使、か？」"
 translation = "「……수호천사, 인가?」"
 
 [[dialogue]]
-speaker = "ヘレナ"
+speaker_original = "ヘレナ"
+speaker_translation = "헬레나"
 original = "「御名答！」"
 translation = "「정답이로다!」"
 
 [[dialogue]]
-speaker = "ヘレナ"
+speaker_original = "ヘレナ"
+speaker_translation = "헬레나"
 original = "「リクリエは凌いだ。世界は平穏を取り戻したかに見える」"
 translation = "「리크리에는 이겨냈다. 세계는 평온을 되찾은 것처럼 보이도다」"
 
 [[dialogue]]
-speaker = "ヘレナ"
+speaker_original = "ヘレナ"
+speaker_translation = "헬레나"
 original = "「だが実際は違う。一触即発、それこそ世界を滅ぼしかねない危険に晒されているのだ」"
 translation = "「하지만 실제로는 다르니라. 일촉즉발, 그야말로 세계를 멸망시킬지도 모르는 위험에 노출되어 있도다」"
 
 [[dialogue]]
-speaker = "ウェンディ"
+speaker_original = "ウェンディ"
+speaker_translation = "웬디"
 original = "（守護天使の問題、ですか……なるほど）"
 translation = "（수호천사의 문제, 인가요…… 과연）"
 
 [[dialogue]]
-speaker = "ウェンディ"
+speaker_original = "ウェンディ"
+speaker_translation = "웬디"
 original = "（星騎士によって解放されはしたが、一時、守護天使たちは堕天使となってしまっていました）"
 translation = "（성기사에 의해 해방되기는 했지만, 일시적으로 수호천사들은 타락천사가 되어 버렸었죠）"
 
 [[dialogue]]
-speaker = "ウェンディ"
+speaker_original = "ウェンディ"
+speaker_translation = "웬디"
 original = "（その守護天使の本体は魔界に封印されています……）"
 translation = "（그 수호천사의 본체는 마계에 봉인되어 있습니다……）"
 
 [[dialogue]]
-speaker = "ヘレナ"
+speaker_original = "ヘレナ"
+speaker_translation = "헬레나"
 original = "「守護天使の本体が封印された状態では、本来の役目を十全に果たすことが出来ない」"
 translation = "「수호천사의 본체가 봉인된 상태로는, 본래의 역할을 온전히 수행할 수 없느니라」"
 
 [[dialogue]]
-speaker = "ヘレナ"
+speaker_original = "ヘレナ"
+speaker_translation = "헬레나"
 original = "「現在、信徒たちの祈りの力によって持ちこたえてはいるが、これを放置し続ければ取り返しのつかぬ大きな問題へと発展するであろう」"
 translation = "「현재, 신도들의 기도의 힘으로 버티고는 있다만, 이를 계속 방치한다면 돌이킬 수 없는 큰 문제로 발전하겠지」"
 
 [[dialogue]]
-speaker = "ヘレナ"
+speaker_original = "ヘレナ"
+speaker_translation = "헬레나"
 original = "「そうなる前に、守護天使たちの本体を解放し、力を取り戻してもらわねばならないのだ」"
 translation = "「그렇게 되기 전에, 수호천사들의 본체를 해방하여, 힘을 되찾게 해 주어야만 하느니라」"
 
 [[dialogue]]
-speaker = "ウェンディ"
+speaker_original = "ウェンディ"
+speaker_translation = "웬디"
 original = "（そう……その危険は我々も察知し、かねてより守護天使の封じられた神殿を探していました……）"
 translation = "（그래요…… 그 위험은 우리도 감지하고, 진작부터 수호천사가 봉인된 신전을 찾고 있었죠……）"
 
 [[dialogue]]
-speaker = "セドナ"
+speaker_original = "セドナ"
+speaker_translation = "세드나"
 original = "「……守護天使の封印を解くために、大人数の星騎士を魔界に送りたい」"
 translation = "「……수호천사의 봉인을 풀기 위해, 대인원의 성기사를 마계로 보내고 싶다는 거군」"
 
 [[dialogue]]
-speaker = "セドナ"
+speaker_original = "セドナ"
+speaker_translation = "세드나"
 original = "「だが大交流の時期もまだ遠く、世界を渡る術がない……たったひとつ、魔女の森の世界樹以外──」"
 translation = "「하지만 대교류 시기도 아직 멀었고, 세계를 건널 수단이 없다…… 단 하나, 마녀의 숲의 세계수 이외에는──」"
 
 [[dialogue]]
-speaker = "セドナ"
+speaker_original = "セドナ"
+speaker_translation = "세드나"
 original = "「それで緋宮リノを通じて、私に連絡をよこしたというわけだ」"
 translation = "「그래서 히노미야 리노를 통해, 나에게 연락을 보냈다는 뜻인가」"
 
 [[dialogue]]
-speaker = "ヘレナ"
+speaker_original = "ヘレナ"
+speaker_translation = "헬레나"
 original = "「うむ、そういうことだ」"
 translation = "「음, 그러하도다」"
 
 [[dialogue]]
-speaker = "セドナ"
+speaker_original = "セドナ"
+speaker_translation = "세드나"
 original = "「守護天使の問題は、魔女としても見過ごせない事態だ。協力もやぶさかではない」"
 translation = "「수호천사 문제는 마녀로서도 간과할 수 없는 사태다. 협력하는 것도 마다하지 않지」"
 
 [[dialogue]]
-speaker = "セドナ"
+speaker_original = "セドナ"
+speaker_translation = "세드나"
 original = "「だが、我々はこれまでリクリエへの対処を巡って、新星・流星星徒会と対立してきた」"
 translation = "「하지만, 우리는 지금까지 리크리에 대처를 둘러싸고, 신성·유성성도회와 대립해 왔다」"
 
 [[dialogue]]
-speaker = "セドナ"
+speaker_original = "セドナ"
+speaker_translation = "세드나"
 original = "「そんな我々のことを果たして信用できるのかな？」"
 translation = "「그런 우리를 과연 신용할 수 있겠나?」"
 
 [[dialogue]]
-speaker = "ヘレナ"
+speaker_original = "ヘレナ"
+speaker_translation = "헬레나"
 original = "「ふむ……貴殿は魔界に送った星徒会の面々を、世界樹を封鎖することで人間界に戻ってこれぬようにした、そんなこともあったな」"
 translation = "「흠…… 귀공은 마계로 보낸 성도회 면면을, 세계수를 봉쇄함으로써 인간계로 돌아오지 못하게 했던, 그런 일도 있었지」"
 
 [[dialogue]]
-speaker = "ヘレナ"
+speaker_original = "ヘレナ"
+speaker_translation = "헬레나"
 original = "「警戒はされるやもしれぬ。だが他に手段はないのだ」"
 translation = "「경계는 받을지도 모르느니라. 하지만 다른 수단이 없도다」"
 
 [[dialogue]]
-speaker = "ヘレナ"
+speaker_original = "ヘレナ"
+speaker_translation = "헬레나"
 original = "「誠意をもって説明すれば皆もきっと分かってくれよう」"
 translation = "「성의를 다해 설명하면 모두들 분명 이해해 줄 것이니라」"
 
 [[dialogue]]
-speaker = "ヘレナ"
+speaker_original = "ヘレナ"
+speaker_translation = "헬레나"
 original = "「手段方法は違った。だが我々は存亡をかけて共にリクリエに立ち向かった仲間なのだからな！」"
 translation = "「수단과 방법은 달랐도다. 하지만 우리는 존망을 걸고 함께 리크리에에 맞선 동료이니까 말이다!」"
 
 [[dialogue]]
-speaker = "セドナ"
+speaker_original = "セドナ"
+speaker_translation = "세드나"
 original = "「…………」"
 translation = "「…………」"
 
 [[dialogue]]
-speaker = "ヘレナ"
+speaker_original = "ヘレナ"
+speaker_translation = "헬레나"
 original = "「無論、ネビュラの協力を無償で仰ごうなどとは考えていない。相応の返礼は用意するつもりだ」"
 translation = "「물론, 네뷸라의 협력을 무상으로 바랄 생각은 없느니라. 상응하는 답례는 준비할 생각이도다」"
 
 [[dialogue]]
-speaker = "ヘレナ"
+speaker_original = "ヘレナ"
+speaker_translation = "헬레나"
 original = "「そうだな……以後、ネビュラと我ら学園は同盟を結ぶ、ということでどうだ？」"
 translation = "「그렇구나…… 이후로 네뷸라와 우리 학원은 동맹을 맺는다, 는 것으로 어떠냐?」"
 
 [[dialogue]]
-speaker = "ヘレナ"
+speaker_original = "ヘレナ"
+speaker_translation = "헬레나"
 original = "「同盟関係となった以上、経済的援助は惜しまない。これは願ってもない条件だと思うが」"
 translation = "「동맹 관계가 된 이상, 경제적 원조는 아끼지 않겠노라. 이것은 더할 나위 없는 조건이라 생각한다만」"
 
 [[dialogue]]
-speaker = "ウェンディ"
+speaker_original = "ウェンディ"
+speaker_translation = "웬디"
 original = "「っ……！？」"
 translation = "「윽……!?」"
 
 [[dialogue]]
-speaker = "セドナ"
+speaker_original = "セドナ"
+speaker_translation = "세드나"
 original = "「隠すだけ無駄ということか……しかし、そんな情報をどこから得た？\u3000リノ辺りから聞いたか？」"
 translation = "「숨기는 것 자체가 무의미하다는 건가…… 하지만, 그런 정보를 어디서 얻었지? 리노 같은 녀석에게 들었나?」"
 
 [[dialogue]]
-speaker = "ヘレナ"
+speaker_original = "ヘレナ"
+speaker_translation = "헬레나"
 original = "「残念ながら違う。だが、貴殿らネビュラと魔女の行く末を想う、善意の者の口添えだ」"
 translation = "「아쉽게도 아니로다. 하지만, 귀공들 네뷸라와 마녀의 앞날을 생각하는, 선의를 가진 자의 조언이니라」"
 
 [[dialogue]]
-speaker = "セドナ"
+speaker_original = "セドナ"
+speaker_translation = "세드나"
 original = "「そうか……」"
 translation = "「그런가……」"
 
 [[dialogue]]
-speaker = "ヘレナ"
+speaker_original = "ヘレナ"
+speaker_translation = "헬레나"
 original = "「返答や如何に？」"
 translation = "「답변은 어떠하냐?」"
 
 [[dialogue]]
-speaker = "セドナ"
+speaker_original = "セドナ"
+speaker_translation = "세드나"
 original = "「選択の余地がないのはお互い様ということだ。ネビュラとしても金銭的な支援は最も望むべき条件」"
 translation = "「선택의 여지가 없는 건 서로 마찬가지라는 거군. 네뷸라로서도 금전적인 지원은 가장 바라마지않는 조건이다」"
 
 [[dialogue]]
-speaker = "ヘレナ"
+speaker_original = "ヘレナ"
+speaker_translation = "헬레나"
 original = "「では同盟成立、ということでよろしいかな？」"
 translation = "「그럼 동맹 성립, 으로 보아도 좋겠느냐?」"
 
 [[dialogue]]
-speaker = "セドナ"
+speaker_original = "セドナ"
+speaker_translation = "세드나"
 original = "「ああ……『対等な』同盟関係だ」"
 translation = "「아아…… 『대등한』 동맹 관계다」"
 
 [[dialogue]]
-speaker = "ヘレナ"
+speaker_original = "ヘレナ"
+speaker_translation = "헬레나"
 original = "「ふむ？」"
 translation = "「흠?」"
 
 [[dialogue]]
-speaker = "セドナ"
+speaker_original = "セドナ"
+speaker_translation = "세드나"
 original = "「対等な同盟である以上、我々も協力を惜しまない」"
 translation = "「대등한 동맹인 이상, 우리도 협력을 아끼지 않겠다」"
 
 [[dialogue]]
-speaker = "セドナ"
+speaker_original = "セドナ"
+speaker_translation = "세드나"
 original = "「世界樹の通行権だけでは釣り合わないだろう。戦闘員としても可能な限り協力しよう」"
 translation = "「세계수 통행권만으로는 수지가 맞지 않겠지. 전투원으로서도 가능한 한 협력하마」"
 
 [[dialogue]]
-speaker = "ヘレナ"
+speaker_original = "ヘレナ"
+speaker_translation = "헬레나"
 original = "「そうか……感謝する」"
 translation = "「그러냐…… 감사하도다」"
 
 [[dialogue]]
-speaker = "セドナ"
+speaker_original = "セドナ"
+speaker_translation = "세드나"
 original = "「組織の財務に関してはウェンディに任せている。そちらは頼んでいいな、ウェンディ」"
 translation = "「조직의 재무에 관해서는 웨디에게 맡기고 있다. 그쪽은 부탁해도 되겠나, 웨디」"
 
 [[dialogue]]
-speaker = "ウェンディ"
+speaker_original = "ウェンディ"
+speaker_translation = "웬디"
 original = "「はいっ、お任せください！」"
 translation = "「네! 맡겨 주십시오!」"
 
 [[dialogue]]
-speaker = "ヘレナ"
+speaker_original = "ヘレナ"
+speaker_translation = "헬레나"
 original = "「ふふふ、以後末永く宜しく頼むぞ」"
 translation = "「후후후, 앞으로 오랫동안 잘 부탁하노라」"
 
 [[dialogue]]
-speaker = "ウェンディ"
+speaker_original = "ウェンディ"
+speaker_translation = "웬디"
 original = "「ヘレナ様、こちらこそよろしくお願い致しますっ！」"
 translation = "「헬레나님, 저희야말로 잘 부탁드립니다!」"
 
 [[dialogue]]
-speaker = "ウェンディ"
+speaker_original = "ウェンディ"
+speaker_translation = "웬디"
 original = "（……そうか、私を会談に指名したのはそういう理由だったのですか）"
 translation = "（……그랬군요, 저를 회담에 지명한 것은 그런 이유였던 건가요）"
 
 [[dialogue]]
-speaker = "ウェンディ"
+speaker_original = "ウェンディ"
+speaker_translation = "웬디"
 original = "（どれだけの援助が頂けるのかわかりません！\u3000でも、でもっ！！）"
 translation = "（얼마나 원조를 받을 수 있을지는 모르겠습니다! 하지만, 하지만!!）"
 
 [[dialogue]]
-speaker = "ウェンディ"
+speaker_original = "ウェンディ"
+speaker_translation = "웬디"
 original = "（これできっと、ネビュラは救われますっ！！！！）"
 translation = "（이걸로 분명, 네뷸라는 구원받을 수 있어요!!!!）"
 
 [[dialogue]]
-speaker = "ヘレナ"
+speaker_original = "ヘレナ"
+speaker_translation = "헬레나"
 original = "「ふむ……こんなところでどうだろうか、トリュファイナ殿？」"
 translation = "「흠…… 이 정도면 되겠느냐, 트류파이나 공?」"
 
 [[dialogue]]
-speaker = "トリュファイナ"
+speaker_original = "トリュファイナ"
+speaker_translation = "트류파이나"
 original = "「ありがとうございます。私のわがままを聞いてくださって」"
 translation = "「감사합니다. 제 이기적인 부탁을 들어주셔서」"
 
 [[dialogue]]
-speaker = "ヘレナ"
+speaker_original = "ヘレナ"
+speaker_translation = "헬레나"
 original = "「なに、世界樹を通じて魔界に星騎士を送り込む、というアイデアは私も考えていたのだ」"
 translation = "「무슨 소리냐, 세계수를 통해 마계에 성기사를 보낸다는 아이디어는 나도 생각하고 있었도다」"
 
 [[dialogue]]
-speaker = "ヘレナ"
+speaker_original = "ヘレナ"
+speaker_translation = "헬레나"
 original = "「そのための交渉条件と、貴殿の願いが合致したまで」"
 translation = "「그를 위한 협상 조건과, 귀공의 소원이 일치했을 뿐이니라」"
 
 [[dialogue]]
-speaker = "トリュファイナ"
+speaker_original = "トリュファイナ"
+speaker_translation = "트류파이나"
 original = "「……きっと、あの子たちも救われます」"
 translation = "「……분명, 그 아이들도 구원받을 수 있을 거예요」"
 
 [[dialogue]]
-speaker = "トリュファイナ"
+speaker_original = "トリュファイナ"
+speaker_translation = "트류파이나"
 original = "「これを契機に、魔女とニンゲンが共に、手を取り合える世界が訪れれば幸いです」"
 translation = "「이것을 계기로, 마녀와 인간이 함께 손을 맞잡을 수 있는 세계가 오기를 바랍니다」"
 
 [[dialogue]]
-speaker = "ヘレナ"
+speaker_original = "ヘレナ"
+speaker_translation = "헬레나"
 original = "「必ずや実現してみせよう。この九浄ヘレナの名に懸けて、はっはっは！」"
 translation = "「반드시 실현해 보이겠노라. 이 쿠죠 헬레나의 이름을 걸고, 핫핫하!」"
 

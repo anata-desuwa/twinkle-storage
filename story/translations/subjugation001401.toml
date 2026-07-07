@@ -1,10 +1,12 @@
 [[dialogue]]
-speaker = "ルリエル"
+speaker_original = "ルリエル"
+speaker_translation = "루리엘"
 original = "「すっずし～いっ！\u3000すっごく動きやすいのですぅ～！」"
 translation = "「시워어어언해애애욧! 엄청나게 움직이기 편한 것이에욧~!」"
 
 [[dialogue]]
-speaker = "イクシリオン"
+speaker_original = "イクシリオン"
+speaker_translation = "익실리온"
 original = "「弾ける水滴……照りつける太陽……眩しい素肌……っっ……」"
 translation = "「튀어 오르는 물방울…… 내리쬐는 태양…… 눈부신 살결…… 윽윽……」"
 
@@ -14,12 +16,14 @@ original = "２人とも、遊びに来たわけじゃないからね"
 translation = "둘 다, 놀러 온 게 아니니까 말이야"
 
 [[dialogue]]
-speaker = "ルリエル"
+speaker_original = "ルリエル"
+speaker_translation = "루리엘"
 original = "「わかってますよぉ～！\u3000ヘレナさんのためにも、わたし自身の実力コージョーのためにも頑張ります！」"
 translation = "「알고 있다구욧~! 헬레나님을 위해서라도, 저 자신의 실력 향상을 위해서라도 열심히 하겠어욧!」"
 
 [[dialogue]]
-speaker = "イクシリオン"
+speaker_original = "イクシリオン"
+speaker_translation = "익실리온"
 original = "「新たな力を使いこなせるようになれば、誰かを救う術も増えますからね。私も精一杯、努力させていただきますっ」"
 translation = "「새로운 힘을 다룰 수 있게 되면 누군가를 구할 방법도 늘어나니까요. 저도 온 힘을 다해 노력하겠습니다아」"
 
@@ -34,117 +38,140 @@ original = "事の始まりは──ヘレナさんの呼びかけだった。"
 translation = "사건의 시작은── 헬레나 씨의 제안이었다."
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「人工戦闘服のテスター募集……ですか」"
 translation = "「인공 전투복 테스터 모집…… 말인가요」"
 
 [[dialogue]]
-speaker = "ヘレナ"
+speaker_original = "ヘレナ"
+speaker_translation = "헬레나"
 original = "「うむ。諸君らに集まってもらったのはそのためだ」"
 translation = "「음. 자네들을 불러 모은 것은 그 때문이다」"
 
 [[dialogue]]
-speaker = "ヘレナ"
+speaker_original = "ヘレナ"
+speaker_translation = "헬레나"
 original = "「噂には聞いているかもしれんが、現在、九浄家では人工戦闘服の開発を進めていてな。その試作品の被験者を流星・新星両校の生徒たちから１名ずつ募りたい」"
 translation = "「소문으로는 들었을지도 모르지만, 현재 쿠죠 가문에서는 인공 전투복 개발을 진행하고 있어서 말이지. 그 시제품의 피실험자를 유성·신성 두 학교 학생 중에서 한 명씩 모집하고 싶다」"
 
 [[dialogue]]
-speaker = "ヘレナ"
+speaker_original = "ヘレナ"
+speaker_translation = "헬레나"
 original = "「個人で戦闘服を調整できる者もいるが、それは少数だ。しかしこの人工戦闘服を使えば、それができない者も気軽にフォームチェンジできる。戦術の幅も広がるだろう」"
 translation = "「개인적으로 전투복을 조정할 수 있는 자도 있지만, 그것은 소수다. 하지만 이 인공 전투복을 사용하면 그것이 불가능한 자도 부담 없이 폼 체인지를 할 수 있지. 전술의 폭도 넓어질 게야」"
 
 [[dialogue]]
-speaker = "ヘレナ"
+speaker_original = "ヘレナ"
+speaker_translation = "헬레나"
 original = "「何より装いを新たにすると気分がいい。身に付けるものひとつで世界の見え方も気分も変わるからな。潜在能力を引き出せるというものだ」"
 translation = "「무엇보다 차림새를 새로이 하면 기분이 좋지. 몸에 걸치는 것 하나로 세계가 보이는 방식도 기분도 달라지니까 말이야. 잠재 능력을 끌어낼 수도 있는 법이다」"
 
 [[dialogue]]
-speaker = "ヘレナ"
+speaker_original = "ヘレナ"
+speaker_translation = "헬레나"
 original = "「今回は水着をベースにした戦闘服だ。先日ネビュラで運用したデータをもらってな。そのフィードバックも兼ねてというわけだ」"
 translation = "「이번에는 수영복을 베이스로 한 전투복이다. 지난번 네뷸라에서 운용한 데이터를 받아서 말이지. 그 피드백도 겸하려는 것이야」"
 
 [[dialogue]]
-speaker = "ルリエル"
+speaker_original = "ルリエル"
+speaker_translation = "루리엘"
 original = "「水着──水着ですか！\u3000はいはい！\u3000でしたら流星学園からは、わたしが立候補します！」"
 translation = "「수영복── 수영복인가요! 네네! 그렇다면 유성학원에서는 제가 입후보하겠어욧!」"
 
 [[dialogue]]
-speaker = "ヘレナ"
+speaker_original = "ヘレナ"
+speaker_translation = "헬레나"
 original = "「ほう……自ら名乗り出るとは感心だな。その積極的な態度は好ましいぞ」"
 translation = "「오호…… 스스로 나서다니 기특하구나. 그 적극적인 태도는 마음에 드는군」"
 
 [[dialogue]]
-speaker = "セーラ"
+speaker_original = "セーラ"
+speaker_translation = "세라"
 original = "「ちょい待った。ルリちーって泳げないんじゃなかったっけ？」"
 translation = "「잠깐만. 루리치 수영 못 하지 않았어?」"
 
 [[dialogue]]
-speaker = "ユウリ"
+speaker_original = "ユウリ"
+speaker_translation = "유우리"
 original = "「無理に星徒会から立候補者を出す必要はないんだぞ？\u3000他にもテスターになりたいやつはいるだろーし」"
 translation = "「무리해서 성도회에서 후보를 낼 필요는 없는데? 다른 테스터 하고 싶은 애들도 있을 거 아냐」"
 
 [[dialogue]]
-speaker = "ルリエル"
+speaker_original = "ルリエル"
+speaker_translation = "루리엘"
 original = "「無理なんかしてませんよぉ。わたし、ずっと涼しい戦闘服が欲しかったんです！\u3000星徒会メンバーでわたしだけですもん、夏用の戦闘服がないの！」"
 translation = "「무리하는 거 아니라구욧. 저, 계속 시원한 전투복이 갖고 싶었단 말이에욧! 성도회 멤버 중에서 저만 여름용 전투복이 없다구욧!」"
 
 [[dialogue]]
-speaker = "ルリエル"
+speaker_original = "ルリエル"
+speaker_translation = "루리엘"
 original = "「フィオナ会長は既に水着フォームがありますし、セーラ先輩とユウリ先輩にはバニーがあるじゃないですか！\u3000ソフィアは素の戦闘服の時点で、おへそも背中も丸出しですし！」"
 translation = "「피오나 회장님은 이미 수영복 폼이 있고, 세라 선배랑 유우리 선배는 바니걸이 있잖아욧! 소피아는 원래 전투복부터가 배꼽이랑 등을 다 내놓고 있고욧!」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「別に夏用の戦闘服として水着フォームを会得したわけじゃないけど……。確かにルリエルの戦闘服は厚手な方だもんね」"
 translation = "「딱히 여름용 전투복으로 수영복 폼을 얻은 건 아니지만…… 확실히 루리에르의 전투복은 두꺼운 편이긴 하네」"
 
 [[dialogue]]
-speaker = "ソフィア"
+speaker_original = "ソフィア"
+speaker_translation = "소피아"
 original = "「というかルリ。人を露出狂みたいに言わないで。フィギュアの衣装は華やかなだけ」"
 translation = "「그보다 루리. 사람을 노출증 환자처럼 말하지 마. 피겨 의상은 화려할 뿐」"
 
 [[dialogue]]
-speaker = "ルリエル"
+speaker_original = "ルリエル"
+speaker_translation = "루리엘"
 original = "「夏場でも涼しいのは事実じゃないですか！\u3000わたしなんて、戦う度に汗びっしょびしょ、全身蒸れっ蒸れのサウナ状態なんですから！」"
 translation = "「여름철에 시원한 건 사실이잖아욧! 저 같은 경우는 싸울 때마다 땀 범벅에 전신이 푹푹 찌는 사우나 상태라구욧!」"
 
 [[dialogue]]
-speaker = "ルリエル"
+speaker_original = "ルリエル"
+speaker_translation = "루리엘"
 original = "「なのでお願いです、ヘレナさん……！\u3000どうかわたしにテスターをやらせてください！」"
 translation = "「그러니까 부탁이에욧, 헬레나님……! 부디 저에게 테스터를 맡겨주세욧!」"
 
 [[dialogue]]
-speaker = "ヘレナ"
+speaker_original = "ヘレナ"
+speaker_translation = "헬레나"
 original = "「理由はどうあれ貪欲に望みを叶えようとする気概は嫌いではない。では流星学園のテスターは貴殿に任せよう」"
 translation = "「이유야 어찌 됐든 탐욕스럽게 소망을 이루려는 기개는 싫지 않군. 그럼 유성학원의 테스터는 귀공에게 맡기마」"
 
 [[dialogue]]
-speaker = "ルリエル"
+speaker_original = "ルリエル"
+speaker_translation = "루리엘"
 original = "「えっ！？\u3000ホントにいいんですか！？\u3000わーい、言ってみるものですね！」"
 translation = "「엣!? 정말로 괜찮은 건가욧!? 와아, 말해보고 볼 일이네욧!」"
 
 [[dialogue]]
-speaker = "ヘレナ"
+speaker_original = "ヘレナ"
+speaker_translation = "헬레나"
 original = "「新星学園側はどうだ？\u3000チャンスとは自ら掴みに行くものだぞ？」"
 translation = "「신성학원 쪽은 어떠냐? 기회란 스스로 잡으러 가는 것이다」"
 
 [[dialogue]]
-speaker = "イクシリオン"
+speaker_original = "イクシリオン"
+speaker_translation = "익실리온"
 original = "「で──でしたら是非、私に！」"
 translation = "「그── 그렇다면 부디 저에게!」"
 
 [[dialogue]]
-speaker = "フロレンシア"
+speaker_original = "フロレンシア"
+speaker_translation = "플로렌시아"
 original = "「珍しいですね。イクシーさんが前のめりに挙手されるなんて」"
 translation = "「드문 일이네요. 익시 씨가 적극적으로 손을 드시다니」"
 
 [[dialogue]]
-speaker = "イクシリオン"
+speaker_original = "イクシリオン"
+speaker_translation = "익실리온"
 original = "「だって水着ですよっ？\u3000合法的に下着同然で歩ける魔法の衣装じゃありませんか……！」"
 translation = "「그치만 수영복이라구요오? 합법적으로 속옷이나 다름없는 차림으로 걸어 다닐 수 있는 마법의 의상 아닙니까아……!」"
 
 [[dialogue]]
-speaker = "フロレンシア"
+speaker_original = "フロレンシア"
+speaker_translation = "플로렌시아"
 original = "「へ……？」"
 translation = "「헤……?」"
 
@@ -154,62 +181,74 @@ original = "イクシー、流石にその理由は……"
 translation = "익시, 아무리 그래도 그 이유는 좀……"
 
 [[dialogue]]
-speaker = "イクシリオン"
+speaker_original = "イクシリオン"
+speaker_translation = "익실리온"
 original = "「ハっ！\u3000じょ、冗談ですよ冗談。保健委員たる者、あらゆる場所での活動を想定せねばいけませんからね……！」"
 translation = "「하앗! 조, 농담이에요 농담. 보건위원이라면 모든 장소에서의 활동을 상정해야 하니까요……!」"
 
 [[dialogue]]
-speaker = "イクシリオン"
+speaker_original = "イクシリオン"
+speaker_translation = "익실리온"
 original = "「水着の戦闘服があれば、水難救助の際に役立つはずです。ライフセーバーですよ、ライフセーバー！」"
 translation = "「수영복 전투복이 있다면 수난 구조 시에 도움이 될 것입니다. 라이프세이퍼라구요, 라이프세이퍼!」"
 
 [[dialogue]]
-speaker = "フロレンシア"
+speaker_original = "フロレンシア"
+speaker_translation = "플로렌시아"
 original = "「なるほど──流石はイクシーさんです、保健委員の鑑ですね！\u3000でも、それなら治療の星術が得意な私が被験者になった方が──」"
 translation = "「과연── 역시 익시 씨예요, 보건위원의 귀감이네요! 하지만 그렇다면 치료 성술이 특기인 제가 피실험자가 되는 편이──」"
 
 [[dialogue]]
-speaker = "イクシリオン"
+speaker_original = "イクシリオン"
+speaker_translation = "익실리온"
 original = "「い、いえっ！\u3000水難救助は特に体力が必要になる仕事！\u3000これは私の担当ですよ！」"
 translation = "「아, 아뇨옷! 수난 구조는 특히 체력이 필요해지는 작업! 이건 제 담당이에요!」"
 
 [[dialogue]]
-speaker = "フロレンシア"
+speaker_original = "フロレンシア"
+speaker_translation = "플로렌시아"
 original = "「そ、そうですか。イクシーさんがそこまで仰るなら……」"
 translation = "「그, 그런가요. 익시 씨가 그렇게까지 말씀하신다면……」"
 
 [[dialogue]]
-speaker = "ヘレナ"
+speaker_original = "ヘレナ"
+speaker_translation = "헬레나"
 original = "「ふむ。他の生徒たちにも異論はないようだな。それでは２人に頼むとしよう」"
 translation = "「흠. 다른 학생들도 이견은 없는 모양이군. 그럼 두 사람에게 부탁하마」"
 
 [[dialogue]]
-speaker = "ヘレナ"
+speaker_original = "ヘレナ"
+speaker_translation = "헬레나"
 original = "「最初に言った通り、この人工戦闘服はまだ試作段階だ。力を使いこなせるようになるには訓練が必要になる」"
 translation = "「처음에 말했듯이 이 인공 전투복은 아직 시제품 단계다. 힘을 온전히 다루게 되려면 훈련이 필요하겠지」"
 
 [[dialogue]]
-speaker = "ヘレナ"
+speaker_original = "ヘレナ"
+speaker_translation = "헬레나"
 original = "「訓練場所には九浄家が経営する海水浴場を使ってくれ。ちょうど海開きをしたところでな。特訓ついでにビーチの警備も頼みたい」"
 translation = "「훈련 장소로는 쿠죠 가문에서 경영하는 해수욕장을 사용해라. 마침 개장한 참이라 말이지. 특훈 겸 비치 경비도 부탁하고 싶구나」"
 
 [[dialogue]]
-speaker = "ルリエル"
+speaker_original = "ルリエル"
+speaker_translation = "루리엘"
 original = "「海！？\u3000海に行けるんですかっ！？\u3000『ＹＡＫＩＳＯＢＡ』とか『ＫＡＫＩＧＯＲＩ』とかで有名なあの海にっ！？」"
 translation = "「바다!? 바다에 갈 수 있는 건가욧!? 『야키소바』나 『카키고리』 같은 걸로 유명한 그 바다에욧!?」"
 
 [[dialogue]]
-speaker = "イクシリオン"
+speaker_original = "イクシリオン"
+speaker_translation = "익실리온"
 original = "「ビーチで……特訓……。岩場の影でこっそり……」"
 translation = "「비치에서…… 특훈……. 바위 뒤에서 몰래……」"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「……なんだか２人とも様子がおかしいけれど」"
 translation = "「……왠지 두 사람 다 상태가 이상한데」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「あくまで訓練だからね……？\u3000わかってる……？」"
 translation = "「어디까지나 훈련이니까 말이야……? 알겠어……?」"
 
@@ -219,27 +258,32 @@ original = "俺もついて行こうか？"
 translation = "나도 같이 갈까?"
 
 [[dialogue]]
-speaker = "ヘレナ"
+speaker_original = "ヘレナ"
+speaker_translation = "헬레나"
 original = "「元よりそのつもりだ。訓練中の星騎士２人にビーチの警備を丸ごと任せるわけにもいくまい。警備監督兼、訓練教官は必須だろう」"
 translation = "「애초부터 그럴 생각이었다. 훈련 중인 성기사 두 사람에게 비치 경비를 통째로 맡길 수는 없지. 경비 감독 겸 훈련 교관은 필수일 테니까」"
 
 [[dialogue]]
-speaker = "ヴィーナス"
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
 original = "「ま、クロトなら２人と仲も良いしね。適任じゃないかしら」"
 translation = "「뭐, 쿠로토라면 두 사람이랑 사이도 좋고 말이야. 적임 아닐까」"
 
 [[dialogue]]
-speaker = "フィオナ"
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
 original = "「ルリエルのこと、お願いしますね。少し手がかかるかもしれませんけど……」"
 translation = "「루리에르를 잘 부탁드려요. 조금 손이 많이 갈지도 모르겠지만……」"
 
 [[dialogue]]
-speaker = "ルリエル"
+speaker_original = "ルリエル"
+speaker_translation = "루리엘"
 original = "「ふふん、心配ありません！\u3000ルリエル、やる気モリモリ、バーベキューなのです！」"
 translation = "「후훙, 걱정 마세욧! 루리에르, 의욕 뿜뿜 바비큐인 것이에욧!」"
 
 [[dialogue]]
-speaker = "イクシリオン"
+speaker_original = "イクシリオン"
+speaker_translation = "익실리온"
 original = "「私もかつてないほど身体が火照ってます……！\u3000はぁはぁ……エネルギー全開です……！\u3000会長と一緒だと聞いて尚更、んっ……！」"
 translation = "「저도 이전에 없을 정도로 몸이 달아오르고 있어요어……! 하아하아…… 에너지 풀가동입니다아……! 회장님과 함께라는 말을 듣고 더더욱, 응으으으……!」"
 
@@ -249,7 +293,8 @@ original = "……それじゃよろしくな？"
 translation = "……그럼 잘 부탁해?"
 
 [[dialogue]]
-speaker = "２人"
+speaker_original = "２人"
+speaker_translation = "2명"
 original = "「はい！」"
 translation = "「네!」"
 

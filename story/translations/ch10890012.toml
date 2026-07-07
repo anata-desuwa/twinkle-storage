@@ -4,7 +4,8 @@ original = "第２話,デキる苦労人シアン,P"
 translation = "제2화, 능력 있는 고생꾼 시안, P"
 
 [[dialogue]]
-speaker = "シアン"
+speaker_original = "シアン"
+speaker_translation = "시안"
 original = "「ったく、ネーゼマインのヤツ、あたしをなんだと思ってんだ。ちっとは目上を敬うとかよ……」"
 translation = "「나 원 참, 네제마인 그 녀석, 날 뭐라고 생각하는 거야. 조금은 윗사람을 공경하라고……」"
 
@@ -14,227 +15,272 @@ original = "マインと何かありました？"
 translation = "마인하고 무슨 일 있었어요?"
 
 [[dialogue]]
-speaker = "シアン"
+speaker_original = "シアン"
+speaker_translation = "시안"
 original = "「よぉ、会長さん……まぁ、ちょっと前に、あいつと組んだ一仕事があってよ──」"
 translation = "「여어, 회장님…… 뭐, 조금 전에 그 녀석이랑 같이 한 일 처리가 있어서 말이야──」"
 
 [[dialogue]]
-speaker = "シアン"
+speaker_original = "シアン"
+speaker_translation = "시안"
 original = "「会長さんも知っての通り、星術を悪用する犯罪者を秘密裏に処理するのが、表向きには存在しないあたしらの組織『公安委員会』だ」"
 translation = "「회장님도 알다시피 성술을 악용하는 범죄자를 비밀리에 처리하는 것이 겉으로는 존재하지 않는 우리 조직 『공안위원회』다」"
 
 [[dialogue]]
-speaker = "シアン"
+speaker_original = "シアン"
+speaker_translation = "시안"
 original = "「任務の内容はこう。──『国際的な犯罪組織のメンバーが、<ruby>道化師<rt>ピエロ</rt></ruby>に扮して遊園地に潜んでいる。可能ならば、無傷で捕縛。最悪、生死は問わない』」"
 translation = "「임무 내용은 이래. ──『국제적인 범죄 조직 멤버가 광대로 분장해 유원지에 잠입해 있다. 가능하다면 무상으로 포박. 최악의 경우 생사는 불문』」"
 
 [[dialogue]]
-speaker = "シアン"
+speaker_original = "シアン"
+speaker_translation = "시안"
 original = "「それで、今回の任務に白羽の矢が立ったのがあたしとネーゼマインだったんだが──」"
 translation = "「그래서 이번 임무에 발탁된 게 나랑 네제마인이었는데──」"
 
 [[dialogue]]
-speaker = "ネーゼマイン"
+speaker_original = "ネーゼマイン"
+speaker_translation = "네제마인"
 original = "「ふあ～あ……シアンせんぱ～い？\u3000ここに隠れて、もう８時間だよ。もう丸ごとドッカーンってふっ飛ばしちゃえばよくな～い？」"
 translation = "「후아~암…… 시안 선배~? 여기 숨어 있은 지 벌써 8시간째야. 그냥 통째로 콰광 하고 날려버리면 안 돼~?」"
 
 [[dialogue]]
-speaker = "ネーゼマイン"
+speaker_original = "ネーゼマイン"
+speaker_translation = "네제마인"
 original = "「最悪、生死は問わない――でしょ？」"
 translation = "「최악의 경우 생사는 불문──이라며?」"
 
 [[dialogue]]
-speaker = "シアン"
+speaker_original = "シアン"
+speaker_translation = "시안"
 original = "「初っ端から最悪を想定するんじゃねえよ。そいつは全て尽くした後の奥の手だ」"
 translation = "「처음부터 최악을 상정하지 마. 그건 모든 수단을 다 쓴 뒤의 비장의 카드다」"
 
 [[dialogue]]
-speaker = "シアン"
+speaker_original = "シアン"
+speaker_translation = "시안"
 original = "「疲れたんなら、そこの飯でも食って休んでろ。食える時に食っておくのも仕事の内だからな」"
 translation = "「피곤하면 거기 밥이라도 먹으면서 쉬어. 먹을 수 있을 때 먹어두는 것도 일의 일부니까」"
 
 [[dialogue]]
-speaker = "ネーゼマイン"
+speaker_original = "ネーゼマイン"
+speaker_translation = "네제마인"
 original = "「ありがと、先輩。それじゃ、お先にいっただっきまーす。はむっ」"
 translation = "「고마워, 선배. 그럼 먼저 자알 먹겠습니다. 함냐」"
 
 [[dialogue]]
-speaker = "ネーゼマイン"
+speaker_original = "ネーゼマイン"
+speaker_translation = "네제마인"
 original = "「んーっ<emoji=heart04>\u3000チリソースた～っぷりのチリドッグ、刺激的ぃ♪\u3000先輩、私が辛いの大好きって覚えててくれてたんだ～」"
 translation = "「음~<emoji=heart04> 칠리소스 가~득한 칠리 도그, 자극적이야♪ 선배, 내가 매운 거 엄청 좋아하는 거 기억해줬구나~」"
 
 [[dialogue]]
-speaker = "ネーゼマイン"
+speaker_original = "ネーゼマイン"
+speaker_translation = "네제마인"
 original = "「はむはむ、はぐはぐ。んーっ♪\u3000眠気もぶっとぶ辛さ、最＆高☆」"
 translation = "「함냐함냐, 쩝쩝. 음~♪ 졸음도 싹 가시는 매운맛, 최&고☆」"
 
 [[dialogue]]
-speaker = "シアン"
+speaker_original = "シアン"
+speaker_translation = "시안"
 original = "「大量にチリソースぶっかけたのを、そんな美味そうに食えるもんかね。どんな舌してんだよ、おっかねえな」"
 translation = "「칠리소스를 저렇게 대량으로 퍼부은 걸 맛있게도 먹는구만. 도대체 혀 구조가 어떻게 된 거야, 무섭네」"
 
 [[dialogue]]
-speaker = "ネーゼマイン"
+speaker_original = "ネーゼマイン"
+speaker_translation = "네제마인"
 original = "「はー、美味しかった。ごちそうさまー。お腹いっぱいになったし、目も冴えたし、もうちょい頑張ろっと」"
 translation = "「하ー, 맛있다. 잘 먹었습니다ー. 배도 부르고 눈도 떴으니 좀 더 힘내볼까나」"
 
 [[dialogue]]
-speaker = "シアン"
+speaker_original = "シアン"
+speaker_translation = "시안"
 original = "「そりゃ何よりだ。あたしも腹ごしらえする。監視、変わってくれ」"
 translation = "「그거 다행이군. 나도 요기를 좀 하겠어. 감시 교대해줘」"
 
 [[dialogue]]
-speaker = "ネーゼマイン"
+speaker_original = "ネーゼマイン"
+speaker_translation = "네제마인"
 original = "「はいはーい。ターゲット、依然動きありませーん。いつになったら動いてくれるんだろうね？」"
 translation = "「네에네에. 타깃, 여전히 움직임 없습니다ー. 언제쯤 움직여주려나?」"
 
 [[dialogue]]
-speaker = "シアン"
+speaker_original = "シアン"
+speaker_translation = "시안"
 original = "「まあ、あと２０分は動かねえだろうな……ぁむ、もぐもぐ……」"
 translation = "「뭐, 앞으로 20분은 안 움직이겠지…… 냠, 우물우물……」"
 
 [[dialogue]]
-speaker = "シアン"
+speaker_original = "シアン"
+speaker_translation = "시안"
 original = "「んむっ……！？\u3000このチリドッグ、何もかけなくても、かなり辛いじゃねえか……！\u3000水っ、水っ……！」"
 translation = "「음윽……!? 이 칠리 도그, 아무것도 안 뿌려도 꽤 맵잖아……! 물, 물……!」"
 
 [[dialogue]]
-speaker = "ネーゼマイン"
+speaker_original = "ネーゼマイン"
+speaker_translation = "네제마인"
 original = "「シアン先輩って、真面目だよね～。なんでも器用にこなしちゃうし、デキる女って感じ」"
 translation = "「시안 선배는 참 성실하단 말이야~. 뭐든 능숙하게 해내고, 능력 있는 여자라는 느낌」"
 
 [[dialogue]]
-speaker = "シアン"
+speaker_original = "シアン"
+speaker_translation = "시안"
 original = "「んぐ、んぐ……ぷぁ？\u3000なんだよ、いきなり。一応、褒め言葉として受け取っておくけどよ」"
 translation = "「꿀꺽, 꿀꺽…… 푸하? 뭐야, 갑자기. 일단 칭찬으로 받아두겠다만」"
 
 [[dialogue]]
-speaker = "ネーゼマイン"
+speaker_original = "ネーゼマイン"
+speaker_translation = "네제마인"
 original = "「もちろん、褒めてるよ～？\u3000でも、真面目な人って貧乏クジ引きがちだなーって」"
 translation = "「당연히 칭찬이지~? 하지만 성실한 사람은 손해 보는 일을 떠맡기 쉽단 말이지ー」"
 
 [[dialogue]]
-speaker = "シアン"
+speaker_original = "シアン"
+speaker_translation = "시안"
 original = "「……悪かったな。こなすのは器用でも、生きるのは不器用なんだよ」"
 translation = "「……미안하게 됐군. 해내는 건 능숙해도 사는 건 서툴러서 말이야」"
 
 [[dialogue]]
-speaker = "ネーゼマイン"
+speaker_original = "ネーゼマイン"
+speaker_translation = "네제마인"
 original = "「私なら理由つけてスルーするようなのも安請け合いしちゃうんだもん。さすがだよね～」"
 translation = "「나라면 핑계 대고 넘길 만한 것도 덥석 맡아버린다니까. 역시 대단해~」"
 
 [[dialogue]]
-speaker = "シアン"
+speaker_original = "シアン"
+speaker_translation = "시안"
 original = "「おまえみたいのがいるから、あたしに面倒なのばかり回ってくんだよな……おかげさまで、そろそろ地球上で行ってない国の方が少なくなってきたよ」"
 translation = "「너 같은 녀석이 있으니까 나한테 귀찮은 일만 돌아오는 거 아냐…… 덕분에 이제 지구상에서 안 가본 나라가 더 적어질 지경이라고」"
 
 [[dialogue]]
-speaker = "ネーゼマイン"
+speaker_original = "ネーゼマイン"
+speaker_translation = "네제마인"
 original = "「この前だって、地球の裏側まで行ってたんでしょ？\u3000ワールドワイド～☆」"
 translation = "「저번에도 지구 반대편까지 갔다 왔다며? 월드 와이드~☆」"
 
 [[dialogue]]
-speaker = "ネーゼマイン"
+speaker_original = "ネーゼマイン"
+speaker_translation = "네제마인"
 original = "「それでもちゃんとクリアして帰ってくるんだから、先輩ってホント凄いよね～」"
 translation = "「그런데도 제대로 클리어하고 돌아오니까 선배는 정말 대단해~」"
 
 [[dialogue]]
-speaker = "ネーゼマイン"
+speaker_original = "ネーゼマイン"
+speaker_translation = "네제마인"
 original = "「今回のだって、先輩と一緒だから受けたしね。『毎回生き残ってる』ってことは『先輩と一緒なら安全』ってことだもん」"
 translation = "「이번 임무도 선배랑 같이니까 맡은 거고. 『매번 살아남는다』는 건 『선배랑 함께라면 안전하다』는 뜻이니까」"
 
 [[dialogue]]
-speaker = "シアン"
+speaker_original = "シアン"
+speaker_translation = "시안"
 original = "「毎回、安全とは限らねえよ。たった１回の失敗で終わっちまう仕事だ。その『たった１回』が今回になる可能性だってあるんだぜ」"
 translation = "「매번 안전하리란 보장은 없어. 단 한 번의 실수로 끝장나는 일이다. 그 『단 한 번』이 이번이 될 가능성도 있단 말이야」"
 
 [[dialogue]]
-speaker = "シアン"
+speaker_original = "シアン"
+speaker_translation = "시안"
 original = "「は～ぁ……たまにゃ温泉旅行にでも行って、ゆっくり疲れを癒してえんだけどな……」"
 translation = "「하~아…… 가끔은 온천 여행이라도 가서 느긋하게 피로를 풀고 싶은데……」"
 
 [[dialogue]]
-speaker = "ネーゼマイン"
+speaker_original = "ネーゼマイン"
+speaker_translation = "네제마인"
 original = "「あっ、それいいかもー！\u3000社員旅行みたいに公安のみんなで温泉旅行行こうよ。会長も誘って♪」"
 translation = "「앗, 그거 좋을지도! 사원 여행처럼 공안 다 같이 온천 여행 가자. 회장님도 불러서♪」"
 
 [[dialogue]]
-speaker = "ネーゼマイン"
+speaker_original = "ネーゼマイン"
+speaker_translation = "네제마인"
 original = "「みんなで背中流しっこしよ。先輩の体、隅々までマッサージしてあげちゃうよ～？」"
 translation = "「다 같이 등도 밀어주고. 선배 몸 구석구석까지 마사지해 줄게~?」"
 
 [[dialogue]]
-speaker = "シアン"
+speaker_original = "シアン"
+speaker_translation = "시안"
 original = "「やめろ。かえって気疲れしそうだから、ひとりで行かせてくれ。あと、なんでそこに会長さんが出てくるんだよ」"
 translation = "「그만둬. 오히려 기만 빨릴 것 같으니까 혼자 보내줘. 그리고 왜 거기서 회장님이 나오는 거야」"
 
 [[dialogue]]
-speaker = "ネーゼマイン"
+speaker_original = "ネーゼマイン"
+speaker_translation = "네제마인"
 original = "「だって、そういう時こそ刺激が必要でしょ？\u3000男女交えたしっぽり温泉旅行……体を火照らせた夜に、何もないはずがなく――みたいな♪」"
 translation = "「그야 그럴 때야말로 자극이 필요하잖아? 남녀 섞여서 오붓한 온천 여행…… 몸이 달아오른 밤에 아무 일도 없을 리가── 같은 느낌♪」"
 
 [[dialogue]]
-speaker = "シアン"
+speaker_original = "シアン"
+speaker_translation = "시안"
 original = "「あ、あのなあ……！\u3000任務中になんつー話を……」"
 translation = "「이, 이봐……! 임무 중에 무슨 소리를……」"
 
 [[dialogue]]
-speaker = "ネーゼマイン"
+speaker_original = "ネーゼマイン"
+speaker_translation = "네제마인"
 original = "「顔真っ赤～♪\u3000シアン先輩、こういうの苦手なの？\u3000私、先輩みたいな初心な人、好きだな～、にひひ♪」"
 translation = "「얼굴 빨개졌다~♪ 시안 선배, 이런 거 잘 못 해? 나 선배 같은 순진한 사람 좋아해~, 니히히♪」"
 
 [[dialogue]]
-speaker = "シアン"
+speaker_original = "シアン"
+speaker_translation = "시안"
 original = "「……あたしはおまえみたいなヤツは苦手だよ」"
 translation = "「……난 너 같은 녀석은 거북하다고」"
 
 [[dialogue]]
-speaker = "ネーゼマイン"
+speaker_original = "ネーゼマイン"
+speaker_translation = "네제마인"
 original = "「やぁん、先輩ってばツンデレ～」"
 translation = "「야앙, 선배도 참 츤데레~」"
 
 [[dialogue]]
-speaker = "シアン"
+speaker_original = "シアン"
+speaker_translation = "시안"
 original = "「本気で言ってるつもりなんだけどな……ったく、公安委員会の人選も随分と変わったな――ッ！」"
 translation = "「진심으로 하는 소리다만…… 나 원 참, 공안위원회의 인선도 참 많이 변했구만──앗!」"
 
 [[dialogue]]
-speaker = "シアン"
+speaker_original = "シアン"
+speaker_translation = "시안"
 original = "「ターゲット動いた。ネーゼマイン、ボムの用意だ」"
 translation = "「타깃 움직였다. 네제마인, 봄(Bomb) 준비해」"
 
 [[dialogue]]
-speaker = "ネーゼマイン"
+speaker_original = "ネーゼマイン"
+speaker_translation = "네제마인"
 original = "「わ、きっかり２０分だし。先輩、すっご」"
 translation = "「와, 정확히 20분이네. 선배 대박」"
 
 [[dialogue]]
-speaker = "ネーゼマイン"
+speaker_original = "ネーゼマイン"
+speaker_translation = "네제마인"
 original = "「でも、ざーんねん。もうちょっと先輩とお喋りしてたかったのになー」"
 translation = "「하지만 아쉽네ー. 선배랑 좀 더 수다 떨고 싶었는데」"
 
 [[dialogue]]
-speaker = "シアン"
+speaker_original = "シアン"
+speaker_translation = "시안"
 original = "「近いうちに茶飲むくらいの時間は作ってやるよ」"
 translation = "「조만간 차 마실 시간 정도는 내줄게」"
 
 [[dialogue]]
-speaker = "ネーゼマイン"
+speaker_original = "ネーゼマイン"
+speaker_translation = "네제마인"
 original = "「やった☆\u3000約束ですよー！\u3000んじゃ、サクッとヤッちゃいましょ～♪」"
 translation = "「앗싸☆ 약속이에요! 그럼 후딱 해치워버리자구~♪」"
 
 [[dialogue]]
-speaker = "シアン"
+speaker_original = "シアン"
+speaker_translation = "시안"
 original = "「行くぜ。狩りの時間だ」"
 translation = "「간다. 사냥 시간이다」"
 
 [[dialogue]]
-speaker = "シアン"
+speaker_original = "シアン"
+speaker_translation = "시안"
 original = "「──とまぁ、一応はターゲットも生け捕りにしたけどさ。なんなんだよ、あいつは。自由すぎんだろ」"
 translation = "「──라면서 뭐, 일단은 타깃을 생포하긴 했는데 말이야. 대체 뭐냐고 그 녀석은. 너무 자유분방하잖아」"
 
 [[dialogue]]
-speaker = "シアン"
+speaker_original = "シアン"
+speaker_translation = "시안"
 original = "「会長さんも手ぇ焼いてんじゃねえか？\u3000ウチの後輩が迷惑かけてんなら、あたしの方から謝るよ」"
 translation = "「회장님도 골머리 썩고 있는 거 아냐? 우리 후배가 폐를 끼치고 있다면 내가 대신 사과하지」"
 
@@ -244,22 +290,26 @@ original = "マインといいコンビなんですね"
 translation = "마인하고 좋은 콤비네요"
 
 [[dialogue]]
-speaker = "シアン"
+speaker_original = "シアン"
+speaker_translation = "시안"
 original = "「はあ！？\u3000今の話を聞いて、どこをどうしたらそうなんだよ。いや、結論だけなら、確かに成功はしてっけど……」"
 translation = "「하아!? 지금 이야기를 듣고 어떻게 그런 결론이 나오는 거야. 아니, 결과만 따지면 확실히 성공은 했다만……」"
 
 [[dialogue]]
-speaker = "シアン"
+speaker_original = "シアン"
+speaker_translation = "시안"
 original = "「っと、悪ぃ、そのネーゼマインに呼び出されてんだ」"
 translation = "「앗, 미안, 그 네제마인한테 호출이다」"
 
 [[dialogue]]
-speaker = "シアン"
+speaker_original = "シアン"
+speaker_translation = "시안"
 original = "「『約束のティータイムに付き合って☆』だとよ。たまたま時間が空いてたからいいものの、急すぎなんだよ」"
 translation = "「『약속한 티타임 같이 해줘☆』라는데. 마침 시간이 비어서 다행이지, 너무 갑작스럽다고」"
 
 [[dialogue]]
-speaker = "シアン"
+speaker_original = "シアン"
+speaker_translation = "시안"
 original = "「先輩を振り回すのも、いい加減にしてほしいもんだぜ。じゃ、またな、会長さん」"
 translation = "「선배 휘두르는 것도 적당히 좀 했으면 좋겠군. 그럼 다음에 봐, 회장님」"
 

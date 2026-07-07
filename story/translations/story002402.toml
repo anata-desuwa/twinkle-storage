@@ -14,32 +14,38 @@ original = "気を取り直してモンスターと対峙する。だが──"
 translation = "마음을 다잡고 몬스터와 대치한다. 하지만──"
 
 [[dialogue]]
-speaker = "トワ先生"
+speaker_original = "トワ先生"
+speaker_translation = "토와 선생님"
 original = "「勝てちゃった……しかもあっさりと……」"
 translation = "「이겨 버렸어…… 그것도 아주 간단히……」"
 
 [[dialogue]]
-speaker = "マトイ"
+speaker_original = "マトイ"
+speaker_translation = "마토이"
 original = "「すごいですよ、トワちゃん先生！\u3000まさか援軍が来る前に片がついちゃうとは思いませんでした」"
 translation = "「대단해요, 토와 짱 선생님! 설마 원군이 오기 전에 상황이 끝날 줄은 몰랐어요」"
 
 [[dialogue]]
-speaker = "トワ先生"
+speaker_original = "トワ先生"
+speaker_translation = "토와 선생님"
 original = "「う、うん。自分でもびっくりだよ」"
 translation = "「으, 응. 나도 깜짝 놀랐어」"
 
 [[dialogue]]
-speaker = "トワ先生"
+speaker_original = "トワ先生"
+speaker_translation = "토와 선생님"
 original = "「ノヴァフォームほど爆発的な力はないけれど、すごく安定してる……」"
 translation = "「노바 폼만큼 폭발적인 힘은 없지만 굉장히 안정적이야……」"
 
 [[dialogue]]
-speaker = "マトイ"
+speaker_original = "マトイ"
+speaker_translation = "마토이"
 original = "「これが研究中だったウェディングフォームなんですか？」"
 translation = "「이게 연구 중이던 웨딩 폼인가요?」"
 
 [[dialogue]]
-speaker = "トワ先生"
+speaker_original = "トワ先生"
+speaker_translation = "토와 선생님"
 original = "「えーっと、どうなんだろ？\u3000正直わたしも、なんでこんな事になっちゃったのか分かんなくて、混乱してて……」"
 translation = "「어ー, 글쎄? 솔직히 나도 왜 이렇게 된 건지 몰라서 당황스럽네……」"
 
@@ -54,157 +60,188 @@ original = "綺麗です"
 translation = "아름다우세요"
 
 [[dialogue]]
-speaker = "トワ先生"
+speaker_original = "トワ先生"
+speaker_translation = "토와 선생님"
 original = "「えっ？\u3000そ、そうかな～？\u3000自分じゃよくわからないんだけど」"
 translation = "「엣? 그, 그럴까나~? 스스로는 잘 모르겠는데」"
 
 [[dialogue]]
-speaker = "マトイ"
+speaker_original = "マトイ"
+speaker_translation = "마토이"
 original = "「写真撮りますね。そしたら全身像を確認できますし」"
 translation = "「사진 찍을게요. 그러면 전신 모습을 확인할 수 있으니까요」"
 
 [[dialogue]]
-speaker = "トワ先生"
+speaker_original = "トワ先生"
+speaker_translation = "토와 선생님"
 original = "「ん～、そっかぁ。そだよね……確認は大事だし……じゃあ、お願いしちゃおうかなっ」"
 translation = "「음~, 그렇구나. 맞아…… 확인은 중요하니까…… 그럼, 부탁해 볼까나」"
 
 [[dialogue]]
-speaker = "マトイ"
+speaker_original = "マトイ"
+speaker_translation = "마토이"
 original = "「そうだ、せっかくだし会長も並んで並んで♪」"
 translation = "「맞다, 이왕 이렇게 된 거 회장도 나란히 서 봐요♪」"
 
 [[dialogue]]
-speaker = "トワ先生"
+speaker_original = "トワ先生"
+speaker_translation = "토와 선생님"
 original = "「どど、どうして会長くんを隣に！？」"
 translation = "「어어, 어째서 회장 군을 옆에!?」"
 
 [[dialogue]]
-speaker = "マトイ"
+speaker_original = "マトイ"
+speaker_translation = "마토이"
 original = "「素敵なウェディングドレスだから、新郎役がいた方がそれっぽいかなって」"
 translation = "「멋진 웨딩드레스니까 신랑 역할이 있는 게 더 그럴싸해 보여서요」"
 
 [[dialogue]]
-speaker = "トワ先生"
+speaker_original = "トワ先生"
+speaker_translation = "토와 선생님"
 original = "「か、会長くん……」"
 translation = "「회, 회장 군……」"
 
 [[dialogue]]
-speaker = "マトイ"
+speaker_original = "マトイ"
+speaker_translation = "마토이"
 original = "「じゃあ撮りまーす！」"
 translation = "「그럼 찍습니다ー!」"
 
 [[dialogue]]
-speaker = "マトイ"
+speaker_original = "マトイ"
+speaker_translation = "마토이"
 original = "「はいっ、撮れました。さっそくデータを送信しますね」"
 translation = "「네, 찍혔어요. 바로 데이터를 전송할게요」"
 
 [[dialogue]]
-speaker = "トワ先生"
+speaker_original = "トワ先生"
+speaker_translation = "토와 선생님"
 original = "「わぁ、ほんとにウェディングドレスだね。これがわたし……？」"
 translation = "「와아, 정말 웨딩드레스네. 이게 나……?」"
 
 [[dialogue]]
-speaker = "マトイ"
+speaker_original = "マトイ"
+speaker_translation = "마토이"
 original = "「とってもよくお似合いです！」"
 translation = "「정말 잘 어울리세요!」"
 
 [[dialogue]]
-speaker = "トワ先生"
+speaker_original = "トワ先生"
+speaker_translation = "토와 선생님"
 original = "「そ、そうかなぁ？\u3000ちょっと無理があるような……でもでもっ、会長くんが隣にいるおかげで、本当に花嫁さんっぽいかも……」"
 translation = "「그, 그럴까나? 조금 무리가 있는 것 같기도…… 하지만 하지만, 회장 군이 옆에 있는 덕분에 정말 신부 같을지도……」"
 
 [[dialogue]]
-speaker = "マトイ"
+speaker_original = "マトイ"
+speaker_translation = "마토이"
 original = "「でもどうして、いきなり戦闘服がドレスになっちゃったんだろ」"
 translation = "「근데 왜 갑자기 전투복이 드레스로 변해버린 걸까요」"
 
 [[dialogue]]
-speaker = "トワ先生"
+speaker_original = "トワ先生"
+speaker_translation = "토와 선생님"
 original = "「フィオナちゃんたちの時もそうだったんだよね……とにかく九浄家に行って理事長に報告しないと」"
 translation = "「피오나 짱 일행 때도 이랬었지…… 어쨌든 쿠죠 가문에 가서 이사장님께 보고해야겠어」"
 
 [[dialogue]]
-speaker = "ヘレナ"
+speaker_original = "ヘレナ"
+speaker_translation = "헬레나"
 original = "「ほぅ……ほほぅ……」"
 translation = "「호오…… 허허……」"
 
 [[dialogue]]
-speaker = "ヘレナ"
+speaker_original = "ヘレナ"
+speaker_translation = "헬레나"
 original = "「素晴らしい！\u3000これが貴殿の研究成果という訳だな？」"
 translation = "「훌륭하군! 이것이 귀공자의 연구 성과라는 말인가?」"
 
 [[dialogue]]
-speaker = "トワ先生"
+speaker_original = "トワ先生"
+speaker_translation = "토와 선생님"
 original = "「い、いえ、こちらはあくまで偶然の産物と言いますか、わたしにとっても想定外のことで……」"
 translation = "「아, 아니요, 이건 어디까지나 우연한 산물이라고나 할까, 저에게도 예상 밖의 일이라서……」"
 
 [[dialogue]]
-speaker = "トワ先生"
+speaker_original = "トワ先生"
+speaker_translation = "토와 선생님"
 original = "「こちらに向かう途中でアステラに遭遇し、それに対処しようと変身したらこうなってしまったんです」"
 translation = "「이쪽으로 오던 중에 아스텔라를 조우해서, 대처하려고 변신했더니 이렇게 되어버렸어요」"
 
 [[dialogue]]
-speaker = "トワ先生"
+speaker_original = "トワ先生"
+speaker_translation = "토와 선생님"
 original = "「元々の戦闘服が勝手にこのドレスと差し替わってしまったみたいで、なぜ急にこんなことが起きてしまったのか……」"
 translation = "「원래의 전투복이 멋대로 이 드레스와 교체되어버린 모양이라, 왜 갑자기 이런 일이 일어난 건지……」"
 
 [[dialogue]]
-speaker = "ヘレナ"
+speaker_original = "ヘレナ"
+speaker_translation = "헬레나"
 original = "「既視感があるな。星見家で起きた件と全く同じではないか？」"
 translation = "「기시감이 있군. 호시미 가문에서 일어난 건과 완전히 똑같지 않은가?」"
 
 [[dialogue]]
-speaker = "トワ先生"
+speaker_original = "トワ先生"
+speaker_translation = "토와 선생님"
 original = "「はい……」"
 translation = "「네……」"
 
 [[dialogue]]
-speaker = "ヘレナ"
+speaker_original = "ヘレナ"
+speaker_translation = "헬레나"
 original = "「ウェディングフォームについては我が九浄家でも研究を進めてきた。一定の成果は得られていたが、しかし完全な究明には未だ至っていない」"
 translation = "「웨딩 폼에 대해서는 우리 쿠죠 가문에서도 연구를 진행해 왔지. 일정 수준의 성과는 얻었으나, 완전한 규명에는 아직 이르지 못했다」"
 
 [[dialogue]]
-speaker = "トワ先生"
+speaker_original = "トワ先生"
+speaker_translation = "토와 선생님"
 original = "「わたしも同じです。表面的な模倣は可能なラインに近づきつつあったんですが、肝心の所はまったく……」"
 translation = "「저도 마찬가지예요. 표면적인 모방은 가능한 수준에 가까워지고 있었는데, 정작 중요한 부분은 전혀……」"
 
 [[dialogue]]
-speaker = "ヘレナ"
+speaker_original = "ヘレナ"
+speaker_translation = "헬레나"
 original = "「ふむ……では今回のことは、行き詰まった謎を解明する手がかりになるかもしれぬ、ということだな」"
 translation = "「흠…… 그럼 이번 일은 막혔던 수수께끼를 해명할 실마리가 될지도 모른다는 뜻이군」"
 
 [[dialogue]]
-speaker = "ヘレナ"
+speaker_original = "ヘレナ"
+speaker_translation = "헬레나"
 original = "「蘭美、ヨミ」"
 translation = "「라비, 요미」"
 
 [[dialogue]]
-speaker = "蘭美"
+speaker_original = "蘭美"
+speaker_translation = "라미"
 original = "「お呼びでしょうか、当主様？」"
 translation = "「부르셨습니까, 당주님?」"
 
 [[dialogue]]
-speaker = "ヘレナ"
+speaker_original = "ヘレナ"
+speaker_translation = "헬레나"
 original = "「うむ。２人とも、お客人にアレを見せてやってくれ」"
 translation = "「음. 둘 다 손님들에게 '그것'을 보여드려라」"
 
 [[dialogue]]
-speaker = "蘭美"
+speaker_original = "蘭美"
+speaker_translation = "라미"
 original = "「かしこまりました。いくわよ、ヨミ」"
 translation = "「알겠습니다. 가자, 요미」"
 
 [[dialogue]]
-speaker = "ヨミ"
+speaker_original = "ヨミ"
+speaker_translation = "요미"
 original = "「はいっ！」"
 translation = "「네!」"
 
 [[dialogue]]
-speaker = "マトイ"
+speaker_original = "マトイ"
+speaker_translation = "마토이"
 original = "「こ、これ！\u3000新しい人工戦闘服ですか！？\u3000ウェディングフォームですよね、しかも和風の！」"
 translation = "「이, 이거! 새로운 인공 전투복인가요!? 웨딩 폼이죠, 그것도 화풍의!」"
 
 [[dialogue]]
-speaker = "トワ先生"
+speaker_original = "トワ先生"
+speaker_translation = "토와 선생님"
 original = "「白無垢だね。すごい……とっても似合ってる」"
 translation = "「시로무쿠네. 대단해…… 정말 잘 어울려」"
 
@@ -214,37 +251,44 @@ original = "なんで白無垢なんですか？"
 translation = "왜 시로무쿠인가요?"
 
 [[dialogue]]
-speaker = "ヘレナ"
+speaker_original = "ヘレナ"
+speaker_translation = "헬레나"
 original = "「星見家がスタンダードなウェディングドレスなら、こちらは白無垢にしてはどうかと思ったのだ」"
 translation = "「호시미 가문이 스탠더드한 웨딩드레스라면, 이쪽은 시로무쿠로 하는 게 어떨까 생각했노라」"
 
 [[dialogue]]
-speaker = "蘭美"
+speaker_original = "蘭美"
+speaker_translation = "라미"
 original = "「九浄家メイド隊といえばやっぱり和装よ」"
 translation = "「쿠죠 가문 메이드대라고 하면 역시 일본식 복장이지」"
 
 [[dialogue]]
-speaker = "ヨミ"
+speaker_original = "ヨミ"
+speaker_translation = "요미"
 original = "「白無垢なんてちょっぴり照れちゃいますけど」"
 translation = "「시로무쿠라니 조금 쑥스럽긴 하지만요」"
 
 [[dialogue]]
-speaker = "ヘレナ"
+speaker_original = "ヘレナ"
+speaker_translation = "헬레나"
 original = "「これが現段階でのこちら側での成果だ。しかし、まだ足りぬ。ウェディングフォームに匹敵するものを作るには、更なる研究が必要であろう」"
 translation = "「이것이 현 단계에서 이쪽의 성과다. 하지만 아직 부족해. 웨딩 폼에 필적하는 것을 만들려면 더 많은 연구가 필요하겠지」"
 
 [[dialogue]]
-speaker = "ヘレナ"
+speaker_original = "ヘレナ"
+speaker_translation = "헬레나"
 original = "「貴殿が偶然にもウェディングフォームを獲得したのは、またとない好機だ」"
 translation = "「귀공자가 우연히 웨딩 폼을 획득한 것은 더할 나위 없는 호기다」"
 
 [[dialogue]]
-speaker = "ヘレナ"
+speaker_original = "ヘレナ"
+speaker_translation = "헬레나"
 original = "「どうだろう、あらためて新フォームの研究に助力を願いたいのだが？」"
 translation = "「어떤가, 새삼스럽지만 새로운 폼 연구에 조력을 부탁하고 싶다만?」"
 
 [[dialogue]]
-speaker = "トワ先生"
+speaker_original = "トワ先生"
+speaker_translation = "토와 선생님"
 original = "「もちろんです、是非お手伝いさせて下さい！」"
 translation = "「물론이에요, 꼭 도와드리게 해주세요!」"
 

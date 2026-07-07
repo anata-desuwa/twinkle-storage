@@ -4,27 +4,32 @@ original = "第４話,幾久しく,P"
 translation = "제4화, 오래도록, P"
 
 [[dialogue]]
-speaker = "トワ先生"
+speaker_original = "トワ先生"
+speaker_translation = "토와 선생님"
 original = "「会長くん！\u3000今日は会長くんに大事な報告がありまして……」"
 translation = "「회장 군! 오늘은 회장 군에게 중요한 보고가 있어서요……」"
 
 [[dialogue]]
-speaker = "トワ先生"
+speaker_original = "トワ先生"
+speaker_translation = "토와 선생님"
 original = "「この前宣言したよね、新生・有明トワになりますって」"
 translation = "「저번에 선언했었지, 신생 아리아케 토와가 되겠다고」"
 
 [[dialogue]]
-speaker = "トワ先生"
+speaker_original = "トワ先生"
+speaker_translation = "토와 선생님"
 original = "「それについて、なんだけど……ううっ、今からそれを報告します……」"
 translation = "「그거에 대해서인데…… 으윽, 지금부터 그걸 보고하겠습니다……」"
 
 [[dialogue]]
-speaker = "トワ先生"
+speaker_original = "トワ先生"
+speaker_translation = "토와 선생님"
 original = "「まず、部屋の片付けは……ちょっと忙しくて、全然出来てなくて……むしろ、いつもより散らかっているという有様です」"
 translation = "「우선 방 정리는…… 좀 바빠서 전혀 못 했고…… 오히려 평소보다 어질러져 있는 상태입니다」"
 
 [[dialogue]]
-speaker = "トワ先生"
+speaker_original = "トワ先生"
+speaker_translation = "토와 선생님"
 original = "「クローゼットは入りきらなくなっちゃって、メイプルちゃんにお願いしてそっちで預かってもらいました」"
 translation = "「클로젯은 다 들어가지 않게 되어서, 메이플 짱에게 부탁해서 그쪽에 맡겨두었습니다」"
 
@@ -34,77 +39,92 @@ original = "お酒は？"
 translation = "술은?"
 
 [[dialogue]]
-speaker = "トワ先生"
+speaker_original = "トワ先生"
+speaker_translation = "토와 선생님"
 original = "「お酒は……とてもおいしい飲み物、だと思います」"
 translation = "「술은…… 아주 맛있는 음료라고 생각합니다」"
 
 [[dialogue]]
-speaker = "トワ先生"
+speaker_original = "トワ先生"
+speaker_translation = "토와 선생님"
 original = "「ほんと忙しくてね、飲まないとやってられなかったの。だからっ、あれから休肝日ゼロで晩酌をエンジョイしてしまいましたぁ！」"
 translation = "「정말 바빴거든, 마시지 않으면 버틸 수가 없었어. 그러니까! 그때부터 간 쉬는 날 제로로 반주를 즐겨버렸습니다아!」"
 
 [[dialogue]]
-speaker = "トワ先生"
+speaker_original = "トワ先生"
+speaker_translation = "토와 선생님"
 original = "「自分から宣言しておきながら、この体たらくだよ。ほんと、わたしはとことんダメ人間だね……」"
 translation = "「직접 선언해놓고 이 꼴이야. 정말 나는 구제 불능인 인간이네……」"
 
 [[dialogue]]
-speaker = "トワ先生"
+speaker_original = "トワ先生"
+speaker_translation = "토와 선생님"
 original = "「こんなので会長くんの彼女って言っていいのかな？」"
 translation = "「이런 내가 회장 군의 여자친구라고 해도 되는 걸까?」"
 
 [[dialogue]]
-speaker = "トワ先生"
+speaker_original = "トワ先生"
+speaker_translation = "토와 선생님"
 original = "「会長くんだって同じかそれ以上に忙しいのに、日常生活もちゃんとしてて……すごいなぁって尊敬しちゃうよ」"
 translation = "「회장 군도 똑같이, 아니 그 이상으로 바쁜데 일상생활도 제대로 하고…… 대단하다고 존경하게 돼」"
 
 [[dialogue]]
-speaker = "トワ先生"
+speaker_original = "トワ先生"
+speaker_translation = "토와 선생님"
 original = "「でも、わたしには無理みたい。そういうとこで評価されるのはもう諦めたよ。だからね……」"
 translation = "「하지만 나에겐 무리인 것 같아. 그런 부분에서 평가받는 건 이제 포기했어. 그러니까……」"
 
 [[dialogue]]
-speaker = "トワ先生"
+speaker_original = "トワ先生"
+speaker_translation = "토와 선생님"
 original = "「へ、変身！」"
 translation = "「벼, 변신!」"
 
 [[dialogue]]
-speaker = "トワ先生"
+speaker_original = "トワ先生"
+speaker_translation = "토와 선생님"
 original = "「女の子の魅力で会長くんをメロメロにするしか、もう手はないんだから～～！！」"
 translation = "「여자의 매력으로 회장 군을 헤롱헤롱하게 만드는 수밖에 이제 방법이 없으니까아~~!!」"
 
 [[dialogue]]
-speaker = "トワ先生"
+speaker_original = "トワ先生"
+speaker_translation = "토와 선생님"
 original = "「もう、生活能力でわたしに期待するのは諦めて。その代わり、いっぱい可愛いことして、全力で会長くんを甘やかしてあげる！」"
 translation = "「이제 생활 능력으로 나에게 기대하는 건 포기해 줘. 그 대신 잔뜩 귀여운 짓 하고 전력으로 회장 군을 응석받이로 만들어 줄게!」"
 
 [[dialogue]]
-speaker = "トワ先生"
+speaker_original = "トワ先生"
+speaker_translation = "토와 선생님"
 original = "「か、可愛さ全振りで突撃しちゃうんだから！」"
 translation = "「귀, 귀여움에 올인해서 돌격해버릴 거니까!」"
 
 [[dialogue]]
-speaker = "トワ先生"
+speaker_original = "トワ先生"
+speaker_translation = "토와 선생님"
 original = "「どぉーーーーん！」"
 translation = "「콰아앙!」"
 
 [[dialogue]]
-speaker = "トワ先生"
+speaker_original = "トワ先生"
+speaker_translation = "토와 선생님"
 original = "「えへへへ～、飛びついちゃった。どうどう？\u3000会長くんのお嫁さんだよ～。可愛いでしょ～」"
 translation = "「에헤헤헤~ 달려들어 버렸다. 어때 어때? 회장 군의 신부야~. 귀엽지~」"
 
 [[dialogue]]
-speaker = "トワ先生"
+speaker_original = "トワ先生"
+speaker_translation = "토와 선생님"
 original = "「ちょうど会長くんにぴったりだね。抱っこするとちょうどいいサイズだよ<emoji=heart04>」"
 translation = "「딱 회장 군에게 안성맞춤이네. 안으면 딱 좋은 사이즈야<emoji=heart04>」"
 
 [[dialogue]]
-speaker = "トワ先生"
+speaker_original = "トワ先生"
+speaker_translation = "토와 선생님"
 original = "「ちっちゃいこと、コンプレックスに感じてたけど……会長くんが抱き心地いいなって思ってくれるなら、ちっちゃいわたしでもよかったなって」"
 translation = "「작은 거 콤플렉스로 느끼고 있었지만…… 회장 군이 안기 편하다고 생각해 준다면 작은 나라도 괜찮겠구나 싶어서」"
 
 [[dialogue]]
-speaker = "トワ先生"
+speaker_original = "トワ先生"
+speaker_translation = "토와 선생님"
 original = "「ほら、ぎゅってしてみて。いいんだよ、会長くんがしたいことしても」"
 translation = "「자, 꽉 안아 봐. 괜찮아, 회장 군이 하고 싶은 거 해도」"
 
@@ -114,27 +134,32 @@ original = "ぎゅ～～♪"
 translation = "꼬옥~~♪"
 
 [[dialogue]]
-speaker = "トワ先生"
+speaker_original = "トワ先生"
+speaker_translation = "토와 선생님"
 original = "「わわっ、ぎゅ～～ってされちゃった。会長くん、結構力強いんだ……男の子なんだね」"
 translation = "「와왓, 꼬옥~~ 당해버렸다. 회장 군, 꽤 힘세구나…… 남자아이네」"
 
 [[dialogue]]
-speaker = "トワ先生"
+speaker_original = "トワ先生"
+speaker_translation = "토와 선생님"
 original = "「ううっ、わたしがゆーわくするつもりだったのに、ドキドキさせられちゃったよぉ」"
 translation = "「으윽, 내가 유혹할 생각이었는데 두근거리게 되어버렸어어」"
 
 [[dialogue]]
-speaker = "トワ先生"
+speaker_original = "トワ先生"
+speaker_translation = "토와 선생님"
 original = "「も、もうちょっとこのまま……抱っこしてもらってもいい？」"
 translation = "「조, 조금만 더 이대로…… 안겨 있어도 될까?」"
 
 [[dialogue]]
-speaker = "トワ先生"
+speaker_original = "トワ先生"
+speaker_translation = "토와 선생님"
 original = "「えへへ～、会長くんは優しいなぁ。ほんと、わたしを甘やかす天才だよ～」"
 translation = "「에헤헤~ 회장 군은 다정하네. 정말 나를 응석받이로 만드는 천재야~」"
 
 [[dialogue]]
-speaker = "トワ先生"
+speaker_original = "トワ先生"
+speaker_translation = "토와 선생님"
 original = "「はっ！\u3000もしかして甘やかされるより甘やかす方がよかった？」"
 translation = "「핫! 혹시 어리광부리는 것보다 어리광 받아주는 쪽이 좋았어?」"
 
@@ -144,32 +169,38 @@ original = "甘やかしてあげる"
 translation = "어리광 부리게 해줄게"
 
 [[dialogue]]
-speaker = "トワ先生"
+speaker_original = "トワ先生"
+speaker_translation = "토와 선생님"
 original = "「うん……会長くんがそう言うなら、わたしのこと、甘やかしてもいいよ」"
 translation = "「으응…… 회장군이 그렇게 말한다면, 나를, 어리광 부리게 해줘도 좋아」"
 
 [[dialogue]]
-speaker = "トワ先生"
+speaker_original = "トワ先生"
+speaker_translation = "토와 선생님"
 original = "「えへへ～、抱っこと同時になでなで～……好き<emoji=heart04>」"
 translation = "「에헤헤~, 안아주는 거랑 동시에 쓰담쓰담~…… 좋아<emoji=heart04>」"
 
 [[dialogue]]
-speaker = "トワ先生"
+speaker_original = "トワ先生"
+speaker_translation = "토와 선생님"
 original = "「うーん、ここまでされちゃうと年上彼女の威厳もゼロになっちゃうね」"
 translation = "「으음, 이 정도까지 당해버리면 연상 여자친구의 위엄도 제로가 되어버리겠네」"
 
 [[dialogue]]
-speaker = "トワ先生"
+speaker_original = "トワ先生"
+speaker_translation = "토와 선생님"
 original = "「わたしは、先生としても彼女としても、会長くんに頼ってもらえるかっこいいレディになりたかったのになぁ」"
 translation = "「나는, 선생님으로서도 여자친구로서도, 회장군이 의지할 수 있는 멋진 레이디가 되고 싶었는데 말이야」"
 
 [[dialogue]]
-speaker = "トワ先生"
+speaker_original = "トワ先生"
+speaker_translation = "토와 선생님"
 original = "「ズボラなのもバレちゃったし、もう可愛さしか残ってないでしょ」"
 translation = "「칠칠치 못한 것도 들켜버렸고, 이제 귀여움밖에 안 남았지?」"
 
 [[dialogue]]
-speaker = "トワ先生"
+speaker_original = "トワ先生"
+speaker_translation = "토와 선생님"
 original = "「こうしてひたすら可愛がってもらうしか、価値なんてないのに……」"
 translation = "「이렇게 오로지 귀여움받는 것밖에, 가치 같은 건 없는데……」"
 
@@ -184,37 +215,44 @@ original = "トワの不得手は俺が補う"
 translation = "토와의 서툰 점은 내가 보완할게"
 
 [[dialogue]]
-speaker = "トワ先生"
+speaker_original = "トワ先生"
+speaker_translation = "토와 선생님"
 original = "「そ、そうだよね。わたし、会長くんみたいにちゃんとしなきゃって思ってたけど」"
 translation = "「그, 그렇네. 나, 회장군처럼 제대로 해야겠다고 생각했었지만」"
 
 [[dialogue]]
-speaker = "トワ先生"
+speaker_original = "トワ先生"
+speaker_translation = "토와 선생님"
 original = "「会長くんが出来ることは、任せちゃっていいんだ。その代わり、会長くんに出来ないことは、わたしが全力でサポートする」"
 translation = "「회장군이 할 수 있는 일은, 맡겨버려도 되는구나. 그 대신, 회장군이 못 하는 일은, 내가 전력으로 서포트할게」"
 
 [[dialogue]]
-speaker = "トワ先生"
+speaker_original = "トワ先生"
+speaker_translation = "토와 선생님"
 original = "「それが……正しい夫婦のあり方なんだね……」"
 translation = "「그게…… 올바른 부부의 모습인 거네……」"
 
 [[dialogue]]
-speaker = "トワ先生"
+speaker_original = "トワ先生"
+speaker_translation = "토와 선생님"
 original = "「って、一気に飛躍しちゃったね。まだ夫婦じゃなくて、ただの恋人同士なのに」"
 translation = "「앗, 단번에 비약해버렸네. 아직 부부가 아니라, 그냥 연인 사이인데」"
 
 [[dialogue]]
-speaker = "トワ先生"
+speaker_original = "トワ先生"
+speaker_translation = "토와 선생님"
 original = "「でも……恋人関係は、結婚生活の予行演習みたいなところもあるよね。つまり、夫婦ごっこみたいなことしてもいいんだよね？」"
 translation = "「하지만…… 연인 관계는, 결혼 생활의 예행연습 같은 면도 있잖아. 즉, 부부 놀이 같은 걸 해도 된다는 거지?」"
 
 [[dialogue]]
-speaker = "トワ先生"
+speaker_original = "トワ先生"
+speaker_translation = "토와 선생님"
 original = "「もちろん学園とか、他に人がいる時は絶対そんな姿見せられないよ！\u3000でもっ、２人きりの時には……」"
 translation = "「물론 학원이라든가, 다른 사람이 있을 때는 절대 그런 모습 보여줄 수 없어! 하지만, 둘만 있을 때는……」"
 
 [[dialogue]]
-speaker = "トワ先生"
+speaker_original = "トワ先生"
+speaker_translation = "토와 선생님"
 original = "「会長くんの……お嫁さんのつもりでいて……いいですか？」"
 translation = "「회장군의…… 아내라고 생각하고 있어도…… 될까요?」"
 
@@ -224,32 +262,38 @@ original = "夫婦ごっこしよう、トワ"
 translation = "부부 놀이 하자, 토와"
 
 [[dialogue]]
-speaker = "トワ先生"
+speaker_original = "トワ先生"
+speaker_translation = "토와 선생님"
 original = "「うんっ！\u3000ありがとぉ、会長くん……」"
 translation = "「응! 고마워, 회장군……」"
 
 [[dialogue]]
-speaker = "トワ先生"
+speaker_original = "トワ先生"
+speaker_translation = "토와 선생님"
 original = "「えへへ、わたしのこと、お嫁さんとして、いっぱいいっぱい愛してね<emoji=heart04>」"
 translation = "「에헤헤, 나를, 아내로서, 듬뿍듬뿍 사랑해줘<emoji=heart04>」"
 
 [[dialogue]]
-speaker = "トワ先生"
+speaker_original = "トワ先生"
+speaker_translation = "토와 선생님"
 original = "「わたしも、恥ずかしかったり、照れくさかったり、そういうのを全部乗り越えて、全力で会長くんを愛するから」"
 translation = "「나도 창피하거나 쑥스럽거나 그런 걸 전부 극복하고, 전력으로 회장 군을 사랑할 테니까」"
 
 [[dialogue]]
-speaker = "トワ先生"
+speaker_original = "トワ先生"
+speaker_translation = "토와 선생님"
 original = "「大好きなあなただから……わたしはわたしのままでいられるんだね」"
 translation = "「사랑하는 당신이니까…… 나는 나인 채로 있을 수 있는 거네」"
 
 [[dialogue]]
-speaker = "トワ先生"
+speaker_original = "トワ先生"
+speaker_translation = "토와 선생님"
 original = "「ありがとう、会長くん。大好きだよ<emoji=heart04>」"
 translation = "「고마워, 회장 군. 정말 좋아해<emoji=heart04>」"
 
 [[dialogue]]
-speaker = "トワ先生"
+speaker_original = "トワ先生"
+speaker_translation = "토와 선생님"
 original = "「そして……これからも幾久しく、よろしくお願いしますっ<emoji=heart04>」"
 translation = "「그리고…… 앞으로도 오래오래, 잘 부탁해<emoji=heart04>」"
 

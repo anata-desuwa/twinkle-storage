@@ -1,10 +1,12 @@
 [[dialogue]]
-speaker = "リーリア"
+speaker_original = "リーリア"
+speaker_translation = "릴리아"
 original = "「せんぱーーーい。いきますよーーー、見ててくださいねーーー！！\u3000ひゃああああああ！」"
 translation = "「선배~~~~~. 갑니다~~~~~, 보고 계셔야 해요~~~~~!! 히야아아아아아!」"
 
 [[dialogue]]
-speaker = "セドナ"
+speaker_original = "セドナ"
+speaker_translation = "세드나"
 original = "「随分と楽しそうにしているようだ」"
 translation = "「상당히 즐거워 보이는군.」"
 
@@ -14,7 +16,8 @@ original = "セドナさん……"
 translation = "세드나 씨……"
 
 [[dialogue]]
-speaker = "セドナ"
+speaker_original = "セドナ"
+speaker_translation = "세드나"
 original = "「咎めるつもりはない。先ほども水を差すような真似をしてしまって、済まなかった」"
 translation = "「나무랄 생각은 없다. 방금 전에도 찬물을 끼얹는 짓을 해서 미안했다.」"
 
@@ -24,37 +27,44 @@ original = "セドナさんは遊びにいかないんですか？"
 translation = "세드나 씨는 놀러 안 가시나요?"
 
 [[dialogue]]
-speaker = "セドナ"
+speaker_original = "セドナ"
+speaker_translation = "세드나"
 original = "「それよりも今は、お前と話がしたい」"
 translation = "「그보다 지금은 너와 이야기를 하고 싶다.」"
 
 [[dialogue]]
-speaker = "セドナ"
+speaker_original = "セドナ"
+speaker_translation = "세드나"
 original = "「そうだな……まずは色々とあったが新星、流星星徒会と友好な関係を結べたことを喜ばしく思っている」"
 translation = "「그렇군…… 우선 여러 일이 있었지만 신성, 유성학생회와 우호적인 관계를 맺게 된 것을 기쁘게 생각하고 있다.」"
 
 [[dialogue]]
-speaker = "セドナ"
+speaker_original = "セドナ"
+speaker_translation = "세드나"
 original = "「我々の組織は３０００年前より、此度のリクリエに向けて全てを注いできた」"
 translation = "「우리 조직은 3000년 전부터 이번 리크리에를 향해 모든 것을 쏟아부어 왔다.」"
 
 [[dialogue]]
-speaker = "セドナ"
+speaker_original = "セドナ"
+speaker_translation = "세드나"
 original = "「それはひとまず退けることが出来たわけだが……三界の状況も、ネビュラという組織も、ここまで五体満足な状態での完勝は想定していなかった」"
 translation = "「그것은 일단 물리칠 수 있었습니다만…… 삼계의 상황도, 네뷸라라는 조직도, 이 정도로 멀쩡한 상태에서의 완승은 상정하지 않았다.」"
 
 [[dialogue]]
-speaker = "セドナ"
+speaker_original = "セドナ"
+speaker_translation = "세드나"
 original = "「いや、すまない。もう少し端的に言わせてもらおう。我々は先日のリクリエの日に心中する覚悟であったために、まともなリソースを残していなかったのだ」"
 translation = "「아니, 미안하다. 좀 더 단적으로 말하도록 하지. 우리는 지난 리크리에의 날에 함께 죽을 각오였기에, 제대로 된 리소스를 남겨두지 않았었다.」"
 
 [[dialogue]]
-speaker = "セドナ"
+speaker_original = "セドナ"
+speaker_translation = "세드나"
 original = "「わかりやすいところで言うと、組織を維持するための金にすら困るほどの体たらくだ」"
 translation = "「알기 쉬운 예로 말하자면, 조직을 유지하기 위한 자금조차 곤란할 정도의 꼴사나운 상태다.」"
 
 [[dialogue]]
-speaker = "セドナ"
+speaker_original = "セドナ"
+speaker_translation = "세드나"
 original = "「だが学園からの援助によって、その危機もどうにか乗り越えられそうだ」"
 translation = "「하지만 학원의 원조 덕분에 그 위기도 어떻게든 넘길 수 있을 것 같군.」"
 
@@ -64,52 +74,62 @@ original = "今後も友好な関係を続けていきたいです"
 translation = "앞으로도 우호적인 관계를 유지하고 싶네요"
 
 [[dialogue]]
-speaker = "セドナ"
+speaker_original = "セドナ"
+speaker_translation = "세드나"
 original = "「そうだな。もしかすると本当の戦いは、ここからかもしれないのだから……」"
 translation = "「그렇군. 어쩌면 진짜 싸움은 여기서부터일지도 모르니까…….」"
 
 [[dialogue]]
-speaker = "セドナ"
+speaker_original = "セドナ"
+speaker_translation = "세드나"
 original = "「…………それから、もうひとつ」"
 translation = "「…………그리고, 한 가지 더.」"
 
 [[dialogue]]
-speaker = "セドナ"
+speaker_original = "セドナ"
+speaker_translation = "세드나"
 original = "「……私が言うのも……おかしな話だということは分かっているのだが……」"
 translation = "「……내가 말하는 것도…… 이상한 소리라는 건 알고 있다만……」"
 
 [[dialogue]]
-speaker = "セドナ"
+speaker_original = "セドナ"
+speaker_translation = "세드나"
 original = "「リーリアと友好な関係を結んでくれて、感謝する……」"
 translation = "「리리아와 우호적인 관계를 맺어줘서 감사한다……」"
 
 [[dialogue]]
-speaker = "セドナ"
+speaker_original = "セドナ"
+speaker_translation = "세드나"
 original = "「私の命令で、リーリアはスパイとして人間界に潜入した」"
 translation = "「나의 명령으로 리리아는 스파이로서 인간계에 잠입했다.」"
 
 [[dialogue]]
-speaker = "セドナ"
+speaker_original = "セドナ"
+speaker_translation = "세드나"
 original = "「最大の理由は彼女のコミュニケーション能力の高さを見込んでのこと。また、年の若い魔女であり、君たちと同年代であるが故に、感性のズレが少ないと考えた」"
 translation = "「가장 큰 이유는 그녀의 높은 커뮤니케이션 능력을 높이 샀기 때문. 또한 나이가 어린 마녀이고 너희와 동년배이기에 감성의 차이가 적을 것이라 생각했다.」"
 
 [[dialogue]]
-speaker = "セドナ"
+speaker_original = "セドナ"
+speaker_translation = "세드나"
 original = "「なんにせよ、その任命責任は私にあり、スパイ工作は彼女の望んだ仕事ではない」"
 translation = "「어찌 됐든 그 임명 책임은 내게 있으며, 스파이 공작은 그녀가 원한 일이 아니다.」"
 
 [[dialogue]]
-speaker = "セドナ"
+speaker_original = "セドナ"
+speaker_translation = "세드나"
 original = "「しかしお前たちの側からすれば、結果的に彼女に騙され、裏切られたということになる」"
 translation = "「하지만 너희 입장에서 보면 결과적으로 그녀에게 속고 배신당한 것이 된다.」"
 
 [[dialogue]]
-speaker = "セドナ"
+speaker_original = "セドナ"
+speaker_translation = "세드나"
 original = "「にも関わらず、リクリエ以後、お前たちは変わらずリーリアと親しく接してくれている」"
 translation = "「그럼에도 불구하고 리크리에 이후, 너희는 변함없이 리리아와 친하게 지내주고 있군.」"
 
 [[dialogue]]
-speaker = "セドナ"
+speaker_original = "セドナ"
+speaker_translation = "세드나"
 original = "「本当に……私が礼を言うような事ではない。だが……心より感謝している……」"
 translation = "「정말로…… 내가 감사를 표할 일은 아니다. 하지만…… 진심으로 감사하고 있다……」"
 
@@ -119,32 +139,38 @@ original = "部下思いなんですね"
 translation = "부하를 생각하시는군요"
 
 [[dialogue]]
-speaker = "セドナ"
+speaker_original = "セドナ"
+speaker_translation = "세드나"
 original = "「そんな立派なものではない……基地では衝突が絶えんよ」"
 translation = "「그렇게 훌륭한 게 아니다…… 기지에서는 충돌이 끊이지 않거든.」"
 
 [[dialogue]]
-speaker = "セドナ"
+speaker_original = "セドナ"
+speaker_translation = "세드나"
 original = "「私は私の正しいと思う考えを曲げない。合理的であることが、魔女としての矜持だからだ。故に彼女の言い分を力で抑えつけることも度々あった」"
 translation = "「나는 내가 옳다고 생각하는 신념을 굽히지 않는다. 합리적이어야 하는 것이 마녀로서의 자긍심이기 때문이다. 그래서 그녀의 주장을 힘으로 억누르는 일도 종종 있었다.」"
 
 [[dialogue]]
-speaker = "セドナ"
+speaker_original = "セドナ"
+speaker_translation = "세드나"
 original = "「だがリーリアの理屈に筋が通っていないわけではない」"
 translation = "「하지만 리리아의 논리에 이치가 없는 것은 아니다.」"
 
 [[dialogue]]
-speaker = "セドナ"
+speaker_original = "セドナ"
+speaker_translation = "세드나"
 original = "「彼女の言い分もわかる。そして、実際に彼女の考えに基づいた行動によって、ネビュラが救われていることも知っている」"
 translation = "「그녀의 주장도 이해한다. 그리고 실제로 그녀의 생각에 기반한 행동 덕분에 네뷸라가 구원받고 있다는 것도 알고 있다.」"
 
 [[dialogue]]
-speaker = "セドナ"
+speaker_original = "セドナ"
+speaker_translation = "세드나"
 original = "「ネビュラと星徒会の友好関係は、彼女の働きかけがなければ存在し得なかったものだろう」"
 translation = "「네뷸라와 성도회의 우호 관계는 그녀의 노력이 없었다면 존재할 수 없었겠지.」"
 
 [[dialogue]]
-speaker = "セドナ"
+speaker_original = "セドナ"
+speaker_translation = "세드나"
 original = "「今日のこの会合に……私がこの場に居ることも無かっただろうな」"
 translation = "「오늘 이 회합에…… 내가 이 자리에 있는 일도 없었을 테고 말이다.」"
 
@@ -154,42 +180,50 @@ original = "その言葉をリーリアに伝えてみては？"
 translation = "그 말을 리리아에게 전해보는 건 어때요?"
 
 [[dialogue]]
-speaker = "セドナ"
+speaker_original = "セドナ"
+speaker_translation = "세드나"
 original = "「それは、難しいな」"
 translation = "「그건 어렵겠군.」"
 
 [[dialogue]]
-speaker = "セドナ"
+speaker_original = "セドナ"
+speaker_translation = "세드나"
 original = "「私たちは私たちのままの関係で良い。互いに煙たく思うほどの距離がむしろ都合がいいのだ」"
 translation = "「우리는 우리 그대로의 관계면 족하다. 서로를 거북하게 생각할 정도의 거리가 오히려 형편에 맞거든.」"
 
 [[dialogue]]
-speaker = "セドナ"
+speaker_original = "セドナ"
+speaker_translation = "세드나"
 original = "「とにかく……私はお前にひと言、礼を言っておきたかった……それだけだ」"
 translation = "「어쨌든…… 나는 네게 한마디 감사를 표하고 싶었다…… 그뿐이다.」"
 
 [[dialogue]]
-speaker = "リーリア"
+speaker_original = "リーリア"
+speaker_translation = "릴리아"
 original = "「センパーーーーーーーイ！！！！」"
 translation = "「선배~~~~~~~~!!!!」"
 
 [[dialogue]]
-speaker = "リーリア"
+speaker_original = "リーリア"
+speaker_translation = "릴리아"
 original = "「センパイ！\u3000見ててくださいって言ったのに見てなかったですよね！」"
 translation = "「선배! 보고 있으라고 말씀드렸는데 안 보고 계셨죠!」"
 
 [[dialogue]]
-speaker = "セドナ"
+speaker_original = "セドナ"
+speaker_translation = "세드나"
 original = "「私が彼を捕まえて話していたのだ」"
 translation = "「내가 그를 붙잡고 이야기하고 있었다.」"
 
 [[dialogue]]
-speaker = "リーリア"
+speaker_original = "リーリア"
+speaker_translation = "릴리아"
 original = "「そうでしょうとも！\u3000滑りながら見えてましたから！」"
 translation = "「그렇겠죠! 미끄러지면서 다 보였으니까요!」"
 
 [[dialogue]]
-speaker = "リーリア"
+speaker_original = "リーリア"
+speaker_translation = "릴리아"
 original = "「センパイの浮気者っ！\u3000こうなったら私のことを抱きしめて、一緒に滑ってもらいますからね！」"
 translation = "「선배 바람둥이! 이렇게 된 이상 저를 껴안고 같이 미끄러져 주셔야겠어요!」"
 
@@ -199,17 +233,20 @@ original = "えー……"
 translation = "에이……"
 
 [[dialogue]]
-speaker = "リーリア"
+speaker_original = "リーリア"
+speaker_translation = "릴리아"
 original = "「何ですか、その反応は！\u3000こんな美少女が抱っこを求めてるんですから、もっと喜んでください！」"
 translation = "「뭐예요 그 반응은! 이런 미소녀가 안아달라고 하는데 좀 더 기뻐해 주세요!」"
 
 [[dialogue]]
-speaker = "リーリア"
+speaker_original = "リーリア"
+speaker_translation = "릴리아"
 original = "「さあ、行きますよ！\u3000さあ、さあ！！」"
 translation = "「자, 갑니다! 자, 어서!!」"
 
 [[dialogue]]
-speaker = "セドナ"
+speaker_original = "セドナ"
+speaker_translation = "세드나"
 original = "「…………」"
 translation = "「…………」"
 
