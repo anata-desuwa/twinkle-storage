@@ -1,0 +1,1988 @@
+[
+  {
+    "original": {
+      "name": "ギガブレイド",
+      "stats": {
+        "ability": [
+          "ATK",
+          "アップ雷属性はさらに",
+          "アップ"
+        ]
+      }
+    },
+    "translation": {
+      "name": "기가 블레이드",
+      "stats": {
+        "ability": [
+          "ATK",
+          "증가 뇌속성은 추가로",
+          "증가"
+        ]
+      }
+    }
+  },
+  {
+    "original": {
+      "name": "聖杖カドゥケウス",
+      "stats": {
+        "ability": [
+          "水属性のチャージ時の戻り量を",
+          "短縮"
+        ]
+      }
+    },
+    "translation": {
+      "name": "성지팡이 카두케우스",
+      "stats": {
+        "ability": [
+          "수속성의 차지 시 되돌아오는 양을",
+          "단축"
+        ]
+      }
+    }
+  },
+  {
+    "original": {
+      "name": "常闇のデビルメイス",
+      "stats": {
+        "ability": [
+          "闇属性のクリティカル",
+          "加算"
+        ]
+      }
+    },
+    "translation": {
+      "name": "상어의 데빌 메이스",
+      "stats": {
+        "ability": [
+          "암속성의 크리티컬",
+          "가산"
+        ]
+      }
+    }
+  },
+  {
+    "original": {
+      "name": "ユニコーンランス",
+      "stats": {
+        "ability": [
+          "光属性のATK",
+          "アップ"
+        ]
+      }
+    },
+    "translation": {
+      "name": "유니콘 랜스",
+      "stats": {
+        "ability": [
+          "빛속성의 ATK",
+          "증가"
+        ]
+      }
+    }
+  },
+  {
+    "original": {
+      "name": "ノヴァ・ロッド",
+      "stats": {
+        "ability": [
+          "ATK",
+          "アップ光属性のチャージ時の戻り量を",
+          "短縮"
+        ]
+      }
+    },
+    "translation": {
+      "name": "노바 로드",
+      "stats": {
+        "ability": [
+          "ATK",
+          "증가 빛속성의 차지 시 되돌아오는 양을",
+          "단축"
+        ]
+      }
+    }
+  },
+  {
+    "original": {
+      "name": "聖裁の拳",
+      "stats": {
+        "ability": [
+          "光属性のクリティカル",
+          "加算"
+        ]
+      }
+    },
+    "translation": {
+      "name": "성재의 권",
+      "stats": {
+        "ability": [
+          "빛속성의 크리티컬",
+          "가산"
+        ]
+      }
+    }
+  },
+  {
+    "original": {
+      "name": "ホロ・チャクラム",
+      "stats": {
+        "ability": [
+          "炎属性のATK",
+          "アップ"
+        ]
+      }
+    },
+    "translation": {
+      "name": "홀로 차크람",
+      "stats": {
+        "ability": [
+          "화속성의 ATK",
+          "증가"
+        ]
+      }
+    }
+  },
+  {
+    "original": {
+      "name": "禁書アポカリプス",
+      "stats": {
+        "ability": [
+          "闇属性のチャージ時の戻り量を",
+          "短縮"
+        ]
+      }
+    },
+    "translation": {
+      "name": "금서 아포칼립스",
+      "stats": {
+        "ability": [
+          "암속성의 차지 시 되돌아오는 양을",
+          "단축"
+        ]
+      }
+    }
+  },
+  {
+    "original": {
+      "name": "ローゼストチェイン",
+      "stats": {
+        "ability": [
+          "水属性のクリティカル",
+          "加算"
+        ]
+      }
+    },
+    "translation": {
+      "name": "로제스트 체인",
+      "stats": {
+        "ability": [
+          "수속성의 크리티컬",
+          "가산"
+        ]
+      }
+    }
+  },
+  {
+    "original": {
+      "name": "毒刀・蠍",
+      "stats": {
+        "ability": [
+          "闇属性のATK",
+          "アップ"
+        ]
+      }
+    },
+    "translation": {
+      "name": "독도 사소리",
+      "stats": {
+        "ability": [
+          "암속성의 ATK",
+          "증가"
+        ]
+      }
+    }
+  },
+  {
+    "original": {
+      "name": "彗星扇",
+      "stats": {
+        "ability": [
+          "雷属性のチャージ時の戻り量を",
+          "短縮"
+        ]
+      }
+    },
+    "translation": {
+      "name": "혜성선",
+      "stats": {
+        "ability": [
+          "뇌속성의 차지 시 되돌아오는 양을",
+          "단축"
+        ]
+      }
+    }
+  },
+  {
+    "original": {
+      "name": "ヘルクレスの大槌",
+      "stats": {
+        "ability": [
+          "ATK",
+          "アップ炎属性のクリティカル",
+          "加算"
+        ]
+      }
+    },
+    "translation": {
+      "name": "헤라클레스의 대퇴",
+      "stats": {
+        "ability": [
+          "ATK",
+          "증가 화속성의 크리티컬",
+          "가산"
+        ]
+      }
+    }
+  },
+  {
+    "original": {
+      "name": "アヌビスの大鎌",
+      "stats": {
+        "ability": [
+          "火傷耐性を",
+          "段階アップ神族のATK",
+          "アップ"
+        ]
+      }
+    },
+    "translation": {
+      "name": "아누비스의 대낫",
+      "stats": {
+        "ability": [
+          "화상 내성을",
+          "단계 증가 신족의 ATK",
+          "증가"
+        ]
+      }
+    }
+  },
+  {
+    "original": {
+      "name": "マジカルウォーターガン",
+      "stats": {
+        "ability": [
+          "魔族のATK",
+          "アップクリティカル",
+          "加算"
+        ]
+      }
+    },
+    "translation": {
+      "name": "매지컬 워터건",
+      "stats": {
+        "ability": [
+          "마족의 ATK",
+          "증가 크리티컬",
+          "가산"
+        ]
+      }
+    }
+  },
+  {
+    "original": {
+      "name": "カボチャステッキ",
+      "stats": {
+        "ability": [
+          "人間のATK",
+          "アップクリティカル",
+          "加算"
+        ]
+      }
+    },
+    "translation": {
+      "name": "호박 스틱",
+      "stats": {
+        "ability": [
+          "인간의 ATK",
+          "증가 크리티컬",
+          "가산"
+        ]
+      }
+    }
+  },
+  {
+    "original": {
+      "name": "ネプチューンの槍",
+      "stats": {
+        "ability": [
+          "ATK",
+          "アップ水属性はさらに",
+          "アップ"
+        ]
+      }
+    },
+    "translation": {
+      "name": "넵튠의 창",
+      "stats": {
+        "ability": [
+          "ATK",
+          "증가 수속성은 추가로",
+          "증가"
+        ]
+      }
+    }
+  },
+  {
+    "original": {
+      "name": "禁書ムスペルム",
+      "stats": {
+        "ability": [
+          "炎属性のチャージ時の戻り量を",
+          "短縮"
+        ]
+      }
+    },
+    "translation": {
+      "name": "금서 무스펠름",
+      "stats": {
+        "ability": [
+          "화속성의 차지 시 되돌아오는 양을",
+          "단축"
+        ]
+      }
+    }
+  },
+  {
+    "original": {
+      "name": "雷神の槌",
+      "stats": {
+        "ability": [
+          "ATK",
+          "アップ雷属性のクリティカル",
+          "加算"
+        ]
+      }
+    },
+    "translation": {
+      "name": "뇌신의 망치",
+      "stats": {
+        "ability": [
+          "ATK",
+          "증가 뇌속성의 크리티컬",
+          "가산"
+        ]
+      }
+    }
+  },
+  {
+    "original": {
+      "name": "スターライトレイピア",
+      "stats": {
+        "ability": [
+          "ATK",
+          "アップ光属性はさらに",
+          "アップ"
+        ]
+      }
+    },
+    "translation": {
+      "name": "스타라이트 레이피어",
+      "stats": {
+        "ability": [
+          "ATK",
+          "증가 빛속성은 추가로",
+          "증가"
+        ]
+      }
+    }
+  },
+  {
+    "original": {
+      "name": "冥王の大弓",
+      "stats": {
+        "ability": [
+          "ATK",
+          "アップ闇属性のチャージ時の戻り量を",
+          "短縮"
+        ]
+      }
+    },
+    "translation": {
+      "name": "명왕의 대궁",
+      "stats": {
+        "ability": [
+          "ATK",
+          "증가 암속성의 차지 시 되돌아오는 양을",
+          "단축"
+        ]
+      }
+    }
+  },
+  {
+    "original": {
+      "name": "焔帝の拳",
+      "stats": {
+        "ability": [
+          "炎属性のクリティカル",
+          "加算"
+        ]
+      }
+    },
+    "translation": {
+      "name": "염제의 권",
+      "stats": {
+        "ability": [
+          "화속성의 크리티컬",
+          "가산"
+        ]
+      }
+    }
+  },
+  {
+    "original": {
+      "name": "アイスチャクラム",
+      "stats": {
+        "ability": [
+          "水属性のATK",
+          "アップ"
+        ]
+      }
+    },
+    "translation": {
+      "name": "아이스 차크람",
+      "stats": {
+        "ability": [
+          "수속성의 ATK",
+          "업"
+        ]
+      }
+    }
+  },
+  {
+    "original": {
+      "name": "雷神の太鼓",
+      "stats": {
+        "ability": [
+          "ATK",
+          "アップ雷属性のチャージ時の戻り量を",
+          "短縮"
+        ]
+      }
+    },
+    "translation": {
+      "name": "뇌신의 태고",
+      "stats": {
+        "ability": [
+          "ATK",
+          "업 뇌속성의 차지 시의 되돌아오는 양을",
+          "단축"
+        ]
+      }
+    }
+  },
+  {
+    "original": {
+      "name": "天光のヘブンズメイス",
+      "stats": {
+        "ability": [
+          "ATK",
+          "アップ光属性のクリティカル",
+          "加算"
+        ]
+      }
+    },
+    "translation": {
+      "name": "천광의 헤븐즈 메이스",
+      "stats": {
+        "ability": [
+          "ATK",
+          "업 빛속성의 크리티컬",
+          "가산"
+        ]
+      }
+    }
+  },
+  {
+    "original": {
+      "name": "魔剣ネロスカリバー",
+      "stats": {
+        "ability": [
+          "ATK",
+          "アップ闇属性はさらに",
+          "アップ"
+        ]
+      }
+    },
+    "translation": {
+      "name": "마검 네로스칼리버",
+      "stats": {
+        "ability": [
+          "ATK",
+          "업 암속성은 더욱",
+          "업"
+        ]
+      }
+    }
+  },
+  {
+    "original": {
+      "name": "ファイアリロード",
+      "stats": {
+        "ability": [
+          "ATK",
+          "アップ炎属性のチャージ時の戻り量を",
+          "短縮"
+        ]
+      }
+    },
+    "translation": {
+      "name": "파이어 리로드",
+      "stats": {
+        "ability": [
+          "ATK",
+          "업 화속성의 차지 시의 되돌아오는 양을",
+          "단축"
+        ]
+      }
+    }
+  },
+  {
+    "original": {
+      "name": "ライトニングチェイン",
+      "stats": {
+        "ability": [
+          "雷属性のクリティカル",
+          "加算"
+        ]
+      }
+    },
+    "translation": {
+      "name": "라이트닝 체인",
+      "stats": {
+        "ability": [
+          "뇌속성의 크리티컬",
+          "가산"
+        ]
+      }
+    }
+  },
+  {
+    "original": {
+      "name": "フェニックスアクス",
+      "stats": {
+        "ability": [
+          "ATK",
+          "アップ炎属性はさらに",
+          "アップ"
+        ]
+      }
+    },
+    "translation": {
+      "name": "피닉스 액스",
+      "stats": {
+        "ability": [
+          "ATK",
+          "업 화속성은 더욱",
+          "업"
+        ]
+      }
+    }
+  },
+  {
+    "original": {
+      "name": "光杖ガンバンテイン",
+      "stats": {
+        "ability": [
+          "光属性のチャージ時の戻り量を",
+          "短縮"
+        ]
+      }
+    },
+    "translation": {
+      "name": "광지팡이 간반테인",
+      "stats": {
+        "ability": [
+          "빛속성의 차지 시의 되돌아오는 양을",
+          "단축"
+        ]
+      }
+    }
+  },
+  {
+    "original": {
+      "name": "水龍のひげ",
+      "stats": {
+        "ability": [
+          "ATK",
+          "アップ水属性のクリティカル",
+          "加算"
+        ]
+      }
+    },
+    "translation": {
+      "name": "수룡의 수염",
+      "stats": {
+        "ability": [
+          "ATK",
+          "업 수속성의 크리티컬",
+          "가산"
+        ]
+      }
+    }
+  },
+  {
+    "original": {
+      "name": "フェンリルファング",
+      "stats": {
+        "ability": [
+          "雷属性のATK",
+          "アップ"
+        ]
+      }
+    },
+    "translation": {
+      "name": "펜릴 팽",
+      "stats": {
+        "ability": [
+          "뇌속성의 ATK",
+          "업"
+        ]
+      }
+    }
+  },
+  {
+    "original": {
+      "name": "氷王の杖",
+      "stats": {
+        "ability": [
+          "ATK",
+          "アップ水属性のチャージ時の戻り量を",
+          "短縮"
+        ]
+      }
+    },
+    "translation": {
+      "name": "빙왕의 지팡이",
+      "stats": {
+        "ability": [
+          "ATK",
+          "업 수속성의 차지 시의 되돌아오는 양을",
+          "단축"
+        ]
+      }
+    }
+  },
+  {
+    "original": {
+      "name": "デッドエンドナックル",
+      "stats": {
+        "ability": [
+          "ATK",
+          "アップ闇属性のクリティカル",
+          "加算"
+        ]
+      }
+    },
+    "translation": {
+      "name": "데드 엔드 너클",
+      "stats": {
+        "ability": [
+          "ATK",
+          "업 암속성의 크리티컬",
+          "가산"
+        ]
+      }
+    }
+  },
+  {
+    "original": {
+      "name": "新春の扇子",
+      "stats": {
+        "ability": [
+          "クリティカル",
+          "加算"
+        ]
+      }
+    },
+    "translation": {
+      "name": "신춘의 부채",
+      "stats": {
+        "ability": [
+          "크리티컬",
+          "가산"
+        ]
+      }
+    }
+  },
+  {
+    "original": {
+      "name": "フワッチソード",
+      "stats": {
+        "ability": [
+          "通常攻撃でクリティカル発生した時",
+          "自身の重さが",
+          "アップ",
+          "CT"
+        ]
+      }
+    },
+    "translation": {
+      "name": "후왓치 소드",
+      "stats": {
+        "ability": [
+          "통상 공격으로 크리티컬 발생 시",
+          "자신의 무게가",
+          "업",
+          "CT"
+        ]
+      }
+    }
+  },
+  {
+    "original": {
+      "name": "1周年記念祭うちわ",
+      "stats": {
+        "ability": [
+          "チャージ時の戻り量を",
+          "短縮"
+        ]
+      }
+    },
+    "translation": {
+      "name": "1주년 기념제 부채",
+      "stats": {
+        "ability": [
+          "차지 시의 되돌아오는 양을",
+          "단축"
+        ]
+      }
+    }
+  },
+  {
+    "original": {
+      "name": "カラミティスピア",
+      "stats": {
+        "ability": [
+          "魔族のATK",
+          "アップ"
+        ]
+      }
+    },
+    "translation": {
+      "name": "칼라미티 스피어",
+      "stats": {
+        "ability": [
+          "마족의 ATK",
+          "업"
+        ]
+      }
+    }
+  },
+  {
+    "original": {
+      "name": "デュミナスバレット",
+      "stats": {
+        "ability": [
+          "ATK",
+          "アップ人間のチャージ時の戻り量を",
+          "短縮"
+        ]
+      }
+    },
+    "translation": {
+      "name": "듀미나스 불렛",
+      "stats": {
+        "ability": [
+          "ATK",
+          "업 인간의 차지 시의 되돌아오는 양을",
+          "단축"
+        ]
+      }
+    }
+  },
+  {
+    "original": {
+      "name": "セラフィムフィスト",
+      "stats": {
+        "ability": [
+          "ATK",
+          "アップ神族のクリティカル",
+          "加算"
+        ]
+      }
+    },
+    "translation": {
+      "name": "세라핌 피스트",
+      "stats": {
+        "ability": [
+          "ATK",
+          "업 신족의 크리티컬",
+          "가산"
+        ]
+      }
+    }
+  },
+  {
+    "original": {
+      "name": "王者の鉤爪",
+      "stats": {
+        "ability": [
+          "人間のATK",
+          "アップ"
+        ]
+      }
+    },
+    "translation": {
+      "name": "왕자의 갈고리 발톱",
+      "stats": {
+        "ability": [
+          "인간의 ATK",
+          "업"
+        ]
+      }
+    }
+  },
+  {
+    "original": {
+      "name": "神秘ラジエルの書",
+      "stats": {
+        "ability": [
+          "ATK",
+          "アップ神族のチャージ時の戻り量を",
+          "短縮"
+        ]
+      }
+    },
+    "translation": {
+      "name": "신비 라지엘의 서",
+      "stats": {
+        "ability": [
+          "ATK",
+          "증가 신족의 차지 시 되돌아오는 양을",
+          "단축"
+        ]
+      }
+    }
+  },
+  {
+    "original": {
+      "name": "ナイトフォールウィップ",
+      "stats": {
+        "ability": [
+          "ATK",
+          "アップ魔族のクリティカル",
+          "加算"
+        ]
+      }
+    },
+    "translation": {
+      "name": "나이트폴 윕",
+      "stats": {
+        "ability": [
+          "ATK",
+          "증가 마족의 크리티컬",
+          "가산"
+        ]
+      }
+    }
+  },
+  {
+    "original": {
+      "name": "シャドウブリンガー",
+      "stats": {
+        "ability": [
+          "ATK",
+          "アップ魔族はさらに",
+          "アップ"
+        ]
+      }
+    },
+    "translation": {
+      "name": "섀도우 브링어",
+      "stats": {
+        "ability": [
+          "ATK",
+          "증가 마족은 추가로",
+          "증가"
+        ]
+      }
+    }
+  },
+  {
+    "original": {
+      "name": "ソラリスレセプター",
+      "stats": {
+        "ability": [
+          "クリティカル",
+          "加算神族のATK",
+          "アップ"
+        ]
+      }
+    },
+    "translation": {
+      "name": "솔라리스 리셉터",
+      "stats": {
+        "ability": [
+          "크리티컬",
+          "가산 신족의 ATK",
+          "증가"
+        ]
+      }
+    }
+  },
+  {
+    "original": {
+      "name": "ヴァイキング・スレッジ",
+      "stats": {
+        "ability": [
+          "人間のクリティカル",
+          "加算"
+        ]
+      }
+    },
+    "translation": {
+      "name": "바이킹 슬레지",
+      "stats": {
+        "ability": [
+          "인간의 크리티컬",
+          "가산"
+        ]
+      }
+    }
+  },
+  {
+    "original": {
+      "name": "トリック・アンド・ロリポップ",
+      "stats": {
+        "ability": [
+          "ATK",
+          "アップクリティカル",
+          "加算"
+        ]
+      }
+    },
+    "translation": {
+      "name": "트릭 앤 롤리팝",
+      "stats": {
+        "ability": [
+          "ATK",
+          "증가 크리티컬",
+          "가산"
+        ]
+      }
+    }
+  },
+  {
+    "original": {
+      "name": "聖霊のハルバード",
+      "stats": {
+        "ability": [
+          "神族のATK",
+          "アップ"
+        ]
+      }
+    },
+    "translation": {
+      "name": "성령의 할버드",
+      "stats": {
+        "ability": [
+          "신족의 ATK",
+          "증가"
+        ]
+      }
+    }
+  },
+  {
+    "original": {
+      "name": "星詠みのアルカナ",
+      "stats": {
+        "ability": [
+          "クリティカル",
+          "加算人間のATK",
+          "アップ"
+        ]
+      }
+    },
+    "translation": {
+      "name": "별을 읽는 아르카나",
+      "stats": {
+        "ability": [
+          "크리티컬",
+          "가산 인간의 ATK",
+          "증가"
+        ]
+      }
+    }
+  },
+  {
+    "original": {
+      "name": "ブラッド・メイス",
+      "stats": {
+        "ability": [
+          "ATK",
+          "アップ魔族のチャージ時の戻り量を",
+          "短縮"
+        ]
+      }
+    },
+    "translation": {
+      "name": "블러드 메이스",
+      "stats": {
+        "ability": [
+          "ATK",
+          "증가 마족의 차지 시 되돌아오는 양을",
+          "단축"
+        ]
+      }
+    }
+  },
+  {
+    "original": {
+      "name": "迎春の羽子板",
+      "stats": {
+        "ability": [
+          "ATK",
+          "アップ"
+        ]
+      }
+    },
+    "translation": {
+      "name": "맞이하는 봄의 하고이타",
+      "stats": {
+        "ability": [
+          "ATK",
+          "증가"
+        ]
+      }
+    }
+  },
+  {
+    "original": {
+      "name": "機工刀・大蛇",
+      "stats": {
+        "ability": [
+          "ATK",
+          "アップ人間はさらに",
+          "アップ"
+        ]
+      }
+    },
+    "translation": {
+      "name": "기공도 오로치",
+      "stats": {
+        "ability": [
+          "ATK",
+          "증가 인간은 추가로",
+          "증가"
+        ]
+      }
+    }
+  },
+  {
+    "original": {
+      "name": "冥境のバイオリン",
+      "stats": {
+        "ability": [
+          "魔族のチャージ時の戻り量を",
+          "短縮"
+        ]
+      }
+    },
+    "translation": {
+      "name": "명경의 바이올린",
+      "stats": {
+        "ability": [
+          "마족의 차지 시 되돌아오는 양을",
+          "단축"
+        ]
+      }
+    }
+  },
+  {
+    "original": {
+      "name": "ヘブンズモーニングスター",
+      "stats": {
+        "ability": [
+          "ATK",
+          "アップ神族のチャージ時の戻り量を",
+          "短縮"
+        ]
+      }
+    },
+    "translation": {
+      "name": "헤븐즈 모닝스타",
+      "stats": {
+        "ability": [
+          "ATK",
+          "증가 신족의 차지 시 되돌아오는 양을",
+          "단축"
+        ]
+      }
+    }
+  },
+  {
+    "original": {
+      "name": "2周年記念宝剣",
+      "stats": {
+        "ability": [
+          "ATK",
+          "アップクリティカル",
+          "加算"
+        ]
+      }
+    },
+    "translation": {
+      "name": "2주년 기념 보검",
+      "stats": {
+        "ability": [
+          "ATK",
+          "증가 크리티컬",
+          "가산"
+        ]
+      }
+    }
+  },
+  {
+    "original": {
+      "name": "舞踏会の扇子",
+      "stats": {
+        "ability": [
+          "クリティカル",
+          "加算"
+        ]
+      }
+    },
+    "translation": {
+      "name": "무도회의 부채",
+      "stats": {
+        "ability": [
+          "크리티컬",
+          "가산"
+        ]
+      }
+    }
+  },
+  {
+    "original": {
+      "name": "神翼の天剣",
+      "stats": {
+        "ability": [
+          "神族のクリティカル",
+          "加算"
+        ]
+      }
+    },
+    "translation": {
+      "name": "신익의 천검",
+      "stats": {
+        "ability": [
+          "신족의 크리티컬",
+          "가산"
+        ]
+      }
+    }
+  },
+  {
+    "original": {
+      "name": "竜帝の魔弓",
+      "stats": {
+        "ability": [
+          "ATK",
+          "アップ魔族のチャージ時の戻り量を",
+          "短縮"
+        ]
+      }
+    },
+    "translation": {
+      "name": "용제의 마궁",
+      "stats": {
+        "ability": [
+          "ATK",
+          "증가 마족의 차지 시 되돌아오는 양을",
+          "단축"
+        ]
+      }
+    }
+  },
+  {
+    "original": {
+      "name": "機工鎚・夜行",
+      "stats": {
+        "ability": [
+          "ATK",
+          "アップ人間のクリティカル",
+          "加算"
+        ]
+      }
+    },
+    "translation": {
+      "name": "기공추 야행",
+      "stats": {
+        "ability": [
+          "ATK",
+          "증가 인간의 크리티컬",
+          "가산"
+        ]
+      }
+    }
+  },
+  {
+    "original": {
+      "name": "暗夜の毒牙",
+      "stats": {
+        "ability": [
+          "クリティカル",
+          "加算魔族のATK",
+          "アップ"
+        ]
+      }
+    },
+    "translation": {
+      "name": "암야의 독니",
+      "stats": {
+        "ability": [
+          "크리티컬",
+          "가산 마족의 ATK",
+          "증가"
+        ]
+      }
+    }
+  },
+  {
+    "original": {
+      "name": "慈天のシンボルカード",
+      "stats": {
+        "ability": [
+          "ATK",
+          "アップ神族のクリティカル",
+          "加算"
+        ]
+      }
+    },
+    "translation": {
+      "name": "자천의 심볼 카드",
+      "stats": {
+        "ability": [
+          "ATK",
+          "증가 신족의 크리티컬",
+          "가산"
+        ]
+      }
+    }
+  },
+  {
+    "original": {
+      "name": "パイルバンカー・ロア",
+      "stats": {
+        "ability": [
+          "人間のATK",
+          "アップ"
+        ]
+      }
+    },
+    "translation": {
+      "name": "파일 벙커 로어",
+      "stats": {
+        "ability": [
+          "인간의 ATK",
+          "상승"
+        ]
+      }
+    }
+  },
+  {
+    "original": {
+      "name": "陽炎・煌金刃",
+      "stats": {
+        "ability": [
+          "ATK",
+          "アップ人間はさらに",
+          "アップ"
+        ]
+      }
+    },
+    "translation": {
+      "name": "양염·황금인",
+      "stats": {
+        "ability": [
+          "ATK",
+          "상승 인간은 추가로",
+          "상승"
+        ]
+      }
+    }
+  },
+  {
+    "original": {
+      "name": "ラピス・ロッド",
+      "stats": {
+        "ability": [
+          "ATK",
+          "アップ魔族のクリティカル",
+          "加算"
+        ]
+      }
+    },
+    "translation": {
+      "name": "라피스 로드",
+      "stats": {
+        "ability": [
+          "ATK",
+          "상승 마족의 크리티컬",
+          "가산"
+        ]
+      }
+    }
+  },
+  {
+    "original": {
+      "name": "アストラル・ガントレット",
+      "stats": {
+        "ability": [
+          "神族のクリティカル",
+          "加算"
+        ]
+      }
+    },
+    "translation": {
+      "name": "아스트랄 건틀릿",
+      "stats": {
+        "ability": [
+          "신족의 크리티컬",
+          "가산"
+        ]
+      }
+    }
+  },
+  {
+    "original": {
+      "name": "トワイライト・ハーベスト",
+      "stats": {
+        "ability": [
+          "神族のATK",
+          "アップクリティカル",
+          "加算"
+        ]
+      }
+    },
+    "translation": {
+      "name": "트와일라잇 하베스트",
+      "stats": {
+        "ability": [
+          "신족의 ATK",
+          "상승 크리티컬",
+          "가산"
+        ]
+      }
+    }
+  },
+  {
+    "original": {
+      "name": "ヴァーディクト・ランス",
+      "stats": {
+        "ability": [
+          "ATK",
+          "アップ神族はさらに",
+          "アップ"
+        ]
+      }
+    },
+    "translation": {
+      "name": "버딕트 랜스",
+      "stats": {
+        "ability": [
+          "ATK",
+          "상승 신족은 추가로",
+          "상승"
+        ]
+      }
+    }
+  },
+  {
+    "original": {
+      "name": "マギア・リボルバー",
+      "stats": {
+        "ability": [
+          "人間のクリティカル",
+          "加算"
+        ]
+      }
+    },
+    "translation": {
+      "name": "마기아 리볼버",
+      "stats": {
+        "ability": [
+          "인간의 크리티컬",
+          "가산"
+        ]
+      }
+    }
+  },
+  {
+    "original": {
+      "name": "ネフィルガロス",
+      "stats": {
+        "ability": [
+          "ATK",
+          "アップ魔族のクリティカル",
+          "加算"
+        ]
+      }
+    },
+    "translation": {
+      "name": "네필가로스",
+      "stats": {
+        "ability": [
+          "ATK",
+          "상승 마족의 크리티컬",
+          "가산"
+        ]
+      }
+    }
+  },
+  {
+    "original": {
+      "name": "神午の門松杖",
+      "stats": {
+        "ability": [
+          "ATK",
+          "アップ"
+        ]
+      }
+    },
+    "translation": {
+      "name": "신오의 카도마츠 지팡이",
+      "stats": {
+        "ability": [
+          "ATK",
+          "상승"
+        ]
+      }
+    }
+  },
+  {
+    "original": {
+      "name": "モード花織",
+      "stats": {
+        "ability": [
+          "異なるタイプの味方を",
+          "体以上編成している時",
+          "ATK",
+          "アップ"
+        ]
+      }
+    },
+    "translation": {
+      "name": "모드 하나오리",
+      "stats": {
+        "ability": [
+          "서로 다른 타입의 아군을",
+          "체 이상 편성했을 때",
+          "ATK",
+          "상승"
+        ]
+      }
+    }
+  },
+  {
+    "original": {
+      "name": "創生の黎刃",
+      "stats": {
+        "ability": [
+          "クリティカル",
+          "加算人間のATK",
+          "アップ"
+        ]
+      }
+    },
+    "translation": {
+      "name": "창세의 여인",
+      "stats": {
+        "ability": [
+          "크리티컬",
+          "가산 인간의 ATK",
+          "상승"
+        ]
+      }
+    }
+  },
+  {
+    "original": {
+      "name": "天律のハルモニア",
+      "stats": {
+        "ability": [
+          "ATK",
+          "アップ神族のクリティカル",
+          "加算"
+        ]
+      }
+    },
+    "translation": {
+      "name": "천률의 하르모니아",
+      "stats": {
+        "ability": [
+          "ATK",
+          "상승 신족의 크리티컬",
+          "가산"
+        ]
+      }
+    }
+  },
+  {
+    "original": {
+      "name": "ヴァイパー・スマッシャー",
+      "stats": {
+        "ability": [
+          "魔族のクリティカル",
+          "加算"
+        ]
+      }
+    },
+    "translation": {
+      "name": "바이퍼 스매셔",
+      "stats": {
+        "ability": [
+          "마족의 크리티컬",
+          "가산"
+        ]
+      }
+    }
+  },
+  {
+    "original": {
+      "name": "くまさんロッド",
+      "stats": {
+        "ability": [
+          "クリティカル",
+          "加算"
+        ]
+      }
+    },
+    "translation": {
+      "name": "곰돌이 로드",
+      "stats": {
+        "ability": [
+          "크리티컬",
+          "가산"
+        ]
+      }
+    }
+  },
+  {
+    "original": {
+      "name": "ヘブンズ・チャクラム",
+      "stats": {
+        "ability": [
+          "クリティカル",
+          "加算神族のATK",
+          "アップ"
+        ]
+      }
+    },
+    "translation": {
+      "name": "헤븐즈 차크람",
+      "stats": {
+        "ability": [
+          "크리티컬",
+          "가산 신족의 ATK",
+          "상승"
+        ]
+      }
+    }
+  },
+  {
+    "original": {
+      "name": "禁銃アバドン",
+      "stats": {
+        "ability": [
+          "魔族のクリティカル",
+          "加算"
+        ]
+      }
+    },
+    "translation": {
+      "name": "금총 아바돈",
+      "stats": {
+        "ability": [
+          "마족의 크리티컬",
+          "가산"
+        ]
+      }
+    }
+  },
+  {
+    "original": {
+      "name": "機工棍・流星",
+      "stats": {
+        "ability": [
+          "ATK",
+          "アップ人間のクリティカル",
+          "加算"
+        ]
+      }
+    },
+    "translation": {
+      "name": "기공곤·유성",
+      "stats": {
+        "ability": [
+          "ATK",
+          "상승 인간의 크리티컬",
+          "가산"
+        ]
+      }
+    }
+  },
+  {
+    "original": {
+      "name": "星鍵リベレーション",
+      "stats": {
+        "ability": [
+          "ATK",
+          "アップバトル開始時",
+          "チーム内に異なるメイン属性の味方が",
+          "体以上いる時",
+          "クリティカル",
+          "加算"
+        ]
+      }
+    },
+    "translation": {
+      "name": "성건 리베레이션",
+      "stats": {
+        "ability": [
+          "ATK",
+          "상승 배틀 시작 시",
+          "팀 내에 서로 다른 메인 속성의 아군이",
+          "체 이상 있을 때",
+          "크리티컬",
+          "가산"
+        ]
+      }
+    }
+  },
+  {
+    "original": {
+      "name": "アイアンソード",
+      "stats": {
+        "ability": [
+          "ATK",
+          "アップ"
+        ]
+      }
+    },
+    "translation": {
+      "name": "아이언 소드",
+      "stats": {
+        "ability": [
+          "ATK",
+          "상승"
+        ]
+      }
+    }
+  },
+  {
+    "original": {
+      "name": "月の杖",
+      "stats": {
+        "ability": [
+          "ATK",
+          "アップ"
+        ]
+      }
+    },
+    "translation": {
+      "name": "달의 지팡이",
+      "stats": {
+        "ability": [
+          "ATK",
+          "상승"
+        ]
+      }
+    }
+  },
+  {
+    "original": {
+      "name": "モーニングスター",
+      "stats": {
+        "ability": [
+          "ATK",
+          "アップ"
+        ]
+      }
+    },
+    "translation": {
+      "name": "모닝스타",
+      "stats": {
+        "ability": [
+          "ATK",
+          "업"
+        ]
+      }
+    }
+  },
+  {
+    "original": {
+      "name": "アイアンクロー",
+      "stats": {
+        "ability": [
+          "ATK",
+          "アップ"
+        ]
+      }
+    },
+    "translation": {
+      "name": "아이언 클로",
+      "stats": {
+        "ability": [
+          "ATK",
+          "업"
+        ]
+      }
+    }
+  },
+  {
+    "original": {
+      "name": "秘密の魔導書",
+      "stats": {
+        "ability": [
+          "ATK",
+          "アップ"
+        ]
+      }
+    },
+    "translation": {
+      "name": "비밀의 마도서",
+      "stats": {
+        "ability": [
+          "ATK",
+          "업"
+        ]
+      }
+    }
+  },
+  {
+    "original": {
+      "name": "パワーハンマー",
+      "stats": {
+        "ability": [
+          "ATK",
+          "アップ"
+        ]
+      }
+    },
+    "translation": {
+      "name": "파워 해머",
+      "stats": {
+        "ability": [
+          "ATK",
+          "업"
+        ]
+      }
+    }
+  },
+  {
+    "original": {
+      "name": "バトルアックス",
+      "stats": {
+        "ability": [
+          "ATK",
+          "アップ"
+        ]
+      }
+    },
+    "translation": {
+      "name": "배틀 액스",
+      "stats": {
+        "ability": [
+          "ATK",
+          "업"
+        ]
+      }
+    }
+  },
+  {
+    "original": {
+      "name": "スターロッド",
+      "stats": {
+        "ability": [
+          "ATK",
+          "アップ"
+        ]
+      }
+    },
+    "translation": {
+      "name": "스타 로드",
+      "stats": {
+        "ability": [
+          "ATK",
+          "업"
+        ]
+      }
+    }
+  },
+  {
+    "original": {
+      "name": "パワーウィップ",
+      "stats": {
+        "ability": [
+          "ATK",
+          "アップ"
+        ]
+      }
+    },
+    "translation": {
+      "name": "파워 윕",
+      "stats": {
+        "ability": [
+          "ATK",
+          "업"
+        ]
+      }
+    }
+  },
+  {
+    "original": {
+      "name": "クロスダガー",
+      "stats": {
+        "ability": [
+          "ATK",
+          "アップ"
+        ]
+      }
+    },
+    "translation": {
+      "name": "크로스 대거",
+      "stats": {
+        "ability": [
+          "ATK",
+          "업"
+        ]
+      }
+    }
+  },
+  {
+    "original": {
+      "name": "マジックカード",
+      "stats": {
+        "ability": [
+          "ATK",
+          "アップ"
+        ]
+      }
+    },
+    "translation": {
+      "name": "매직 카드",
+      "stats": {
+        "ability": [
+          "ATK",
+          "업"
+        ]
+      }
+    }
+  },
+  {
+    "original": {
+      "name": "ブロンズフィスト",
+      "stats": {
+        "ability": [
+          "ATK",
+          "アップ"
+        ]
+      }
+    },
+    "translation": {
+      "name": "브론즈 피스트",
+      "stats": {
+        "ability": [
+          "ATK",
+          "업"
+        ]
+      }
+    }
+  },
+  {
+    "original": {
+      "name": "ダガー",
+      "stats": {
+        "ability": []
+      }
+    },
+    "translation": {
+      "name": "대거",
+      "stats": {
+        "ability": []
+      }
+    }
+  },
+  {
+    "original": {
+      "name": "木彫りの杖",
+      "stats": {
+        "ability": []
+      }
+    },
+    "translation": {
+      "name": "나무 지팡이",
+      "stats": {
+        "ability": []
+      }
+    }
+  },
+  {
+    "original": {
+      "name": "メイス",
+      "stats": {
+        "ability": []
+      }
+    },
+    "translation": {
+      "name": "메이스",
+      "stats": {
+        "ability": []
+      }
+    }
+  },
+  {
+    "original": {
+      "name": "トマホーク",
+      "stats": {
+        "ability": []
+      }
+    },
+    "translation": {
+      "name": "토마호크",
+      "stats": {
+        "ability": []
+      }
+    }
+  },
+  {
+    "original": {
+      "name": "普通の魔導書",
+      "stats": {
+        "ability": []
+      }
+    },
+    "translation": {
+      "name": "평범한 마도서",
+      "stats": {
+        "ability": []
+      }
+    }
+  },
+  {
+    "original": {
+      "name": "グローブ",
+      "stats": {
+        "ability": []
+      }
+    },
+    "translation": {
+      "name": "글러브",
+      "stats": {
+        "ability": []
+      }
+    }
+  }
+]
