@@ -1,0 +1,191 @@
+[[dialogue]]
+speaker_original = "煌嶺"
+speaker_translation = "코레이"
+original = "「妾はこの世界を守る。たとえ他の世界を滅ぼしてもな」"
+translation = "「소첩은 이 세계를 지킨다. 설령 다른 세계를 멸망시키더라도 말이다」"
+
+[[dialogue]]
+speaker_original = "煌嶺"
+speaker_translation = "코레이"
+original = "「生存競争であるというなら、この戦い、受けて立とうではないか！」"
+translation = "「생존 경쟁이라 한다면, 이 싸움, 기꺼이 받아들이지 않겠는가!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "アルタイルを守るために、デネブを滅ぼす──煌嶺はそう宣言した。"
+translation = "알타이르를 지키기 위해 데네브를 멸망시킨다── 코우레이는 그렇게 선언했다."
+
+[[dialogue]]
+speaker = "unk"
+original = "煌嶺は新星学園の星騎士たちを、その戦いのための兵士にしようとしたのだ。"
+translation = "코우레이는 신성학원의 성기사들을 그 싸움을 위한 병사로 만들려 한 것이다."
+
+[[dialogue]]
+speaker = "unk"
+original = "それに対抗したのは、もう１人の学園長候補であるシノさんだった。"
+translation = "그에 대항한 것은 또 한 명의 학원장 후보인 시노 씨였다."
+
+[[dialogue]]
+speaker_original = "シノ"
+speaker_translation = "시노"
+original = "「新星星徒会は、あのディザスターハンドを倒すつもりです」"
+translation = "「신성성도회는 그 디자스터 핸드를 쓰러뜨릴 생각입니다」"
+
+[[dialogue]]
+speaker_original = "シノ"
+speaker_translation = "시노"
+original = "「ディザスターハンドに潰されるのに怯えながらデネブと戦うか、それとも<ruby>厄災<rt>リクリエ</rt></ruby>の化身たるディザスターハンドと戦うか。煌嶺殿はどちらがお好みですか？」"
+translation = "「디자스터 핸드에게 짓눌리는 것에 겁내며 데네브와 싸울 것인가, 아니면 <ruby>재액<rt>리크리에</rt></ruby>의 화신인 디자스터 핸드와 싸울 것인가. 코우레이 공은 어느 쪽이 취향이십니까?」"
+
+[[dialogue]]
+speaker_original = "煌嶺"
+speaker_translation = "코레이"
+original = "「ふふ……くっくっく……言うではないか、シノとやら。つまり貴殿は、ディザスターハンドと戦う方が、星騎士がより輝くと言うのだな？」"
+translation = "「후후…… 큭큭큭…… 제법이지 않은가, 시노라고 했나. 즉 귀공은, 디자스터 핸드와 싸우는 편이 성기사가 더 빛날 거라 말하는 것이군?」"
+
+[[dialogue]]
+speaker_original = "煌嶺"
+speaker_translation = "코레이"
+original = "「ふふふ……これは予想外だ。人間界の経営者などつまらぬものと思っていたが、なかなか酔狂ではないか」"
+translation = "「후후후…… 이건 예상 밖이로군. 인간계의 경영자 따위 지루한 것이라 생각했다만, 꽤나 풍류가 있지 않은가」"
+
+[[dialogue]]
+speaker_original = "煌嶺"
+speaker_translation = "코레이"
+original = "「だが口先だけでは無意味。守る戦いが星騎士の本質というならば、妾が直々にその輝きを試してやろう」"
+translation = "「하지만 말뿐이라면 무의미. 지키는 싸움이 성기사의 본질이라 한다면, 소첩이 직접 그 빛을 시험해 주마」"
+
+[[dialogue]]
+speaker = "unk"
+original = "煌嶺を迎え撃つのは、新星学園でも屈指の耐久力を持ち、元星徒会副会長でもあるシルヴィ先輩。"
+translation = "코우레이를 맞이해 싸우는 것은, 신성학원에서도 굴지의 내구력을 가졌으며 전 성도회 부회장이기도 한 실비 선배."
+
+[[dialogue]]
+speaker_original = "シルヴィ"
+speaker_translation = "실비"
+original = "「アステラ……！？\u3000どうしてここに……！？」"
+translation = "「아스테라……!? 어째서 여기에……!?」"
+
+[[dialogue]]
+speaker_original = "煌嶺"
+speaker_translation = "코레이"
+original = "「あれは先日、我が尾に吸収したアステラだ」"
+translation = "「저것은 며칠 전, 짐의 꼬리에 흡수한 아스테라다」"
+
+[[dialogue]]
+speaker_original = "煌嶺"
+speaker_translation = "코레이"
+original = "「あのアステラを圧縮して貴様に叩き落とす。まともに受ければ跡形もなく消し飛ぶだろう」"
+translation = "「저 아스테라를 압축해서 네놈에게 내리꽂겠다. 정면으로 받으면 형체도 없이 사라지겠지」"
+
+[[dialogue]]
+speaker_original = "煌嶺"
+speaker_translation = "코레이"
+original = "「どうする？\u3000ここで妾に頭を垂れるなら、アステラを尾に戻してやるが」"
+translation = "「어떻게 하겠나? 여기서 소첩에게 머리를 조아린다면, 아스테라를 꼬리로 되돌려주겠다만」"
+
+[[dialogue]]
+speaker_original = "シルヴィ"
+speaker_translation = "실비"
+original = "「答えは決まってる。──来いっ！！」"
+translation = "「대답은 정해져 있어. ──와라!!」"
+
+[[dialogue]]
+speaker_original = "煌嶺"
+speaker_translation = "코레이"
+original = "「フ──よく言った」"
+translation = "「후── 잘 말했다」"
+
+[[dialogue]]
+speaker_original = "煌嶺"
+speaker_translation = "코레이"
+original = "「さぁ、星の加護を受けし戦士よ。妾に抗ってみせよ──！」"
+translation = "「자, 별의 가호를 받은 전사여. 소첩에게 저항해 보아라──!」"
+
+[[dialogue]]
+speaker_original = "シルヴィ"
+speaker_translation = "실비"
+original = "「おおおーーーーーっ！！」"
+translation = "「오오오오오───앗!!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "アステラを弾として撃ち出す強烈無比な一撃。"
+translation = "아스테라를 탄환으로 쏘아내는 강렬무비한 일격."
+
+[[dialogue]]
+speaker = "unk"
+original = "しかしシルヴィは耐えてみせ、星騎士の『守る』意志と力を証明した。"
+translation = "하지만 실비는 버텨냈고, 성기사의 『지키는』 의지와 힘을 증명했다."
+
+[[dialogue]]
+speaker_original = "シルヴィ"
+speaker_translation = "실비"
+original = "「ふぅ、はぁ、はぁ……どんなもんだいっ！」"
+translation = "「후우, 하아, 하아…… 어떠냐!」"
+
+[[dialogue]]
+speaker_original = "煌嶺"
+speaker_translation = "코레이"
+original = "「──フ」"
+translation = "「──후」"
+
+[[dialogue]]
+speaker_original = "煌嶺"
+speaker_translation = "코레이"
+original = "「フハハハハッ！\u3000よくぞ大欲の女帝から新星学園を守り切った！」"
+translation = "「후하하하하! 장하도다, 대욕의 여제로부터 신성학원을 끝까지 지켜냈구나!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "シルヴィ先輩の奮闘の結果、煌嶺は星騎士たちを認め、学園長を目指すことを撤回。"
+translation = "실비 선배의 분투 결과, 코우레이는 성기사들을 인정하고 학원장을 지향하는 것을 철회."
+
+[[dialogue]]
+speaker = "unk"
+original = "そしてシノさんが学園長となった。"
+translation = "그리고 시노 씨가 학원장이 되었다."
+
+[[dialogue]]
+speaker = "unk"
+original = "その他には──"
+translation = "그 외에는──"
+
+[[dialogue]]
+speaker_original = "煌嶺"
+speaker_translation = "코레이"
+original = "「ヤダヤダヤダヤダ！\u3000肉まん食べたい食べたい！\u3000肉まん食べた～い！」"
+translation = "「싫어싫어싫어싫어! 고기만두 먹고 싶어 먹고 싶어! 고기만두 먹고 싶어~!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "肉まんが食べたくて駄々をこねたり……"
+translation = "고기만두가 먹고 싶어서 떼를 쓰기도 하고……"
+
+[[dialogue]]
+speaker_original = "煌嶺"
+speaker_translation = "코레이"
+original = "「妾のものとなれ！」"
+translation = "「소첩의 것이 되어라!」"
+
+[[dialogue]]
+speaker_original = "モンスター"
+speaker_translation = "몬스터"
+original = "「キシャー！？」"
+translation = "「키샤─!?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "機械型モンスターを自分のものにしたり……"
+translation = "기계형 몬스터를 자기 것으로 만들기도 하고……"
+
+[[dialogue]]
+speaker = "unk"
+original = "天界に駆けつけたチナに極星従騎を貸したり……"
+translation = "천계로 달려온 치나에게 극성종기를 빌려주기도 하고……"
+
+[[dialogue]]
+speaker = "unk"
+original = "わがままを言ったり、気まぐれに俺たちを助けてくれたりと、女帝は気ままに振る舞っていた。"
+translation = "제멋대로 굴거나 변덕스럽게 우리들을 도와주기도 하는 등, 여제는 마음 내키는 대로 행동하고 있었다."
+

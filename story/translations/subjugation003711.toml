@@ -1,0 +1,256 @@
+[[dialogue]]
+speaker = "unk"
+original = "第１１話,ＶＳ星喰らいシャドウ・黒騎士戦闘前,B"
+translation = "제11화, VS 별 먹보 섀도우·흑기사 전투 전, B"
+
+[[dialogue]]
+speaker_original = "メルエル（覚醒）"
+speaker_translation = "메르엘 (각성)"
+original = "「はぁっ……はぁあっ……！」"
+translation = "「하아…… 하아앗……!」"
+
+[[dialogue]]
+speaker_original = "ネーゼマイン（覚醒）"
+speaker_translation = "네제마인 (각성)"
+original = "「知ってはいたけど、やっぱり出鱈目な強さだねー……！」"
+translation = "「알고는 있었지만 역시 터무니없는 강함이네—……!」"
+
+[[dialogue]]
+speaker_original = "メルエル（覚醒）"
+speaker_translation = "메르엘 (각성)"
+original = "「アニュラスちゃん、大丈夫……？」"
+translation = "「아뉴라스짱, 괜찮아……?」"
+
+[[dialogue]]
+speaker_original = "アニュラス（覚醒）"
+speaker_translation = "아뉴라스(각성)"
+original = "「ああ、問題ない……！\u3000まだいける……！」"
+translation = "「아아, 문제없어……! 아직 할 수 있어……!」"
+
+[[dialogue]]
+speaker_original = "アニュラス（覚醒）"
+speaker_translation = "아뉴라스(각성)"
+original = "「ふふ……本当に流石ですね──」"
+translation = "「후후…… 정말 대단하네요──」"
+
+[[dialogue]]
+speaker_original = "アニュラス（覚醒）"
+speaker_translation = "아뉴라스(각성)"
+original = "「…………お父様！！」"
+translation = "「…………아버님!!」"
+
+[[dialogue]]
+speaker_original = "黒騎士"
+speaker_translation = "흑기사"
+original = "「……理解が出来ぬ。なぜ世界の刷新を拒むのだ？」"
+translation = "「……이해가 되지 않는군. 왜 세계의 쇄신을 거부하는 것이냐?」"
+
+[[dialogue]]
+speaker_original = "黒騎士"
+speaker_translation = "흑기사"
+original = "「森羅歴の進歩はもはや頭打ち。これからヒトに待ち受けるのは、衰退と滅亡のみ……醜く足掻いて、何になる……？」"
+translation = "「신라력의 진보는 이미 한계. 앞으로 인간을 기다리는 것은 쇠퇴와 멸망뿐…… 흉하게 발버둥 쳐서 무엇이 되겠느냐……?」"
+
+[[dialogue]]
+speaker_original = "ネーゼマイン（覚醒）"
+speaker_translation = "네제마인 (각성)"
+original = "「見解の相違ってやつだね～。というか、学園長の口を使って喋ってるけど、それってただの『ＸＥＬＯＳ』の代弁だよね？」"
+translation = "「견해 차이라는 거네~. 그보다 학원장의 입을 빌려 말하고 있지만, 그건 그냥 『XELOS』의 대변일 뿐이지?」"
+
+[[dialogue]]
+speaker_original = "アニュラス（覚醒）"
+speaker_translation = "아뉴라스(각성)"
+original = "「お父様の口から、『<ruby>ＸＥＬＯＳ<rt>ゼロス</rt></ruby>』の決めつけを聞かされるのは、想像以上に不愉快だな──」"
+translation = "「아버님의 입에서 『<ruby>XELOS<rt>제로스</rt></ruby>』의 단정을 듣는 건 상상 이상으로 불쾌하군──」"
+
+[[dialogue]]
+speaker_original = "アニュラス（覚醒）"
+speaker_translation = "아뉴라스(각성)"
+original = "「私たちヒトは、創造神の定めた枠に収まるつもりはない！！」"
+translation = "「우리 인간들은 창조신이 정한 틀에 박혀있을 생각은 없다!!」"
+
+[[dialogue]]
+speaker_original = "メルエル（覚醒）"
+speaker_translation = "메르엘 (각성)"
+original = "「……黒騎士になった、セイファート学園長。あなたが世界の破滅を望むようになったきっかけは──聞いたよ」"
+translation = "「……흑기사가 된 세이퍼트 학원장님. 당신이 세계의 파멸을 원하게 된 계기는── 들었어요」"
+
+[[dialogue]]
+speaker_original = "メルエル（覚醒）"
+speaker_translation = "메르엘 (각성)"
+original = "「心の底から愛していた奥さんと、離ればなれになって……その絶望は、理解してあげたいけど……」"
+translation = "「진심으로 사랑했던 아내분과 헤어지게 되어서…… 그 절망은 이해해 주고 싶지만……」"
+
+[[dialogue]]
+speaker_original = "メルエル（覚醒）"
+speaker_translation = "메르엘 (각성)"
+original = "「でもその絶望は、すべての人が向き合っているものだから！！」"
+translation = "「하지만 그 절망은 모든 사람이 마주하고 있는 것이니까요!!」"
+
+[[dialogue]]
+speaker_original = "メルエル（覚醒）"
+speaker_translation = "메르엘 (각성)"
+original = "「戦う力のない人にも最愛の人がいて、かけがえのない時間があって、お別れの時がある！」"
+translation = "「싸울 힘이 없는 사람에게도 소중한 사람이 있고, 무엇과도 바꿀 수 없는 시간이 있고, 이별의 순간이 있어요!」"
+
+[[dialogue]]
+speaker_original = "メルエル（覚醒）"
+speaker_translation = "메르엘 (각성)"
+original = "「だからこそ私たち星騎士は……憎しみに力を預けちゃいけないの！」"
+translation = "「그렇기에 우리 성기사는…… 증오에 힘을 맡겨서는 안 되는 거예요!」"
+
+[[dialogue]]
+speaker_original = "ネーゼマイン（覚醒）"
+speaker_translation = "네제마인 (각성)"
+original = "「そもそも、無限の成長とか進歩って何？\u3000って感じなんだよね。それってちゃんと定義あるの？」"
+translation = "「애초에 무한한 성장이나 진보가 뭔데? 라는 느낌이거든. 그거 제대로 된 정의는 있는 거야?」"
+
+[[dialogue]]
+speaker_original = "ネーゼマイン（覚醒）"
+speaker_translation = "네제마인 (각성)"
+original = "「どーせ神様の感覚で、『最近ちょっと伸び率悪いな～』とか、そんなテキトーな分析なんでしょ？」"
+translation = "「어차피 신의 감각으로 『요즘 좀 성장률이 나쁘네~』라든가, 그런 대충 하는 분석이잖아?」"
+
+[[dialogue]]
+speaker_original = "ネーゼマイン（覚醒）"
+speaker_translation = "네제마인 (각성)"
+original = "「正直、神様の手による世界の調整なんて、いい迷惑。そんなものがなくたって、私たちは進歩していけるんだから！」"
+translation = "「솔직히 신의 손에 의한 세계 조정 따위 민폐야. 그런 게 없어도 우리는 진보해 나갈 수 있으니까!」"
+
+[[dialogue]]
+speaker_original = "アニュラス（覚醒）"
+speaker_translation = "아뉴라스(각성)"
+original = "「先輩たちの言う通りだ──だから今一度、お父様！！\u3000貴方の凶行を止めさせていただくッ！！」"
+translation = "「선배들 말씀대로다── 그러니 다시 한번, 아버님!! 당신의 흉행을 멈추게 하겠다!!」"
+
+[[dialogue]]
+speaker_original = "黒騎士"
+speaker_translation = "흑기사"
+original = "「……理解できぬのであれば仕方あるまい」"
+translation = "「……이해하지 못한다면 어쩔 수 없지」"
+
+[[dialogue]]
+speaker_original = "黒騎士"
+speaker_translation = "흑기사"
+original = "「創造神よ──もっと力を寄越せ。私に無限の『霊力』を授けよ──」"
+translation = "「창조신이여── 더 많은 힘을 내어라. 내게 무한한 『영력』을 내려주소서──」"
+
+[[dialogue]]
+speaker_original = "ＸＥＬＯＳ"
+speaker_translation = "제로스"
+original = "「…………ギ、ィィイィィィィ！！！」"
+translation = "「…………기, 이이이이이이이!!!」"
+
+[[dialogue]]
+speaker_original = "ネーゼマイン（覚醒）"
+speaker_translation = "네제마인 (각성)"
+original = "「……！！\u3000『<ruby>ＸＥＬＯＳ<rt>ゼロス</rt></ruby>』の分身体が、黒騎士と同化して──」"
+translation = "「……!! 『<ruby>XELOS<rt>제로스</rt></ruby>』의 분신체가 흑기사와 동화해서──」"
+
+[[dialogue]]
+speaker_original = "メルエル（覚醒）"
+speaker_translation = "메르엘 (각성)"
+original = "「何、この闇の力っ──！？」"
+translation = "「뭐야, 이 어둠의 힘은──!?」"
+
+[[dialogue]]
+speaker_original = "黒騎士"
+speaker_translation = "흑기사"
+original = "「────生マレロ」"
+translation = "「────태어나라」"
+
+[[dialogue]]
+speaker = "unk"
+original = "黒騎士がその大剣を大地に突き立てると、インクをこぼしたような染みが広がり──"
+translation = "흑기사가 그 대검을 대지에 꽂자, 잉크를 쏟은 것 같은 얼룩이 번지며──"
+
+[[dialogue]]
+speaker_original = "ホロウ・ルヴィネ"
+speaker_translation = "할로우・루비네"
+original = "「────滅ボス。滅ボス。滅ボス」"
+translation = "「────멸한다. 멸한다. 멸한다」"
+
+[[dialogue]]
+speaker_original = "レイラ"
+speaker_translation = "레이라"
+original = "「ファッ！？\u3000ホロウのシャドウが、いち、じゅう──か、数えきれないほどに出てきて……！？」"
+translation = "「화앗!? 홀로우의 섀도우가 하나, 열── 서, 셀 수 없을 정도로 나타나서……!?」"
+
+[[dialogue]]
+speaker_original = "コハルコ（覚醒）"
+speaker_translation = "쿠하루코(각성)"
+original = "「レイラ！\u3000加速の星術をかけるよ！！\u3000コラプサーの皆にも指示を出して！！」"
+translation = "「레이라! 가속 성술을 걸게!! 콜랩서 분들에게도 지시를 내려줘!!」"
+
+[[dialogue]]
+speaker_original = "レイラ"
+speaker_translation = "레이라"
+original = "「はい！\u3000みんな、手分けして──」"
+translation = "「네! 모두, 분담해서──」"
+
+[[dialogue]]
+speaker_original = "イングリット"
+speaker_translation = "잉그리드"
+original = "「何だ、まだ斬らせてくれるのか──片っ端から首を貰うぞ！」"
+translation = "「뭐냐, 아직 베게 해주는 거냐── 닥치는 대로 목을 따주마!」"
+
+[[dialogue]]
+speaker_original = "メテオラ"
+speaker_translation = "메테오라"
+original = "「思いっきりやるぞ、どっかーんってな！」"
+translation = "「마음껏 해보자고, 콰광— 하고 말이야!」"
+
+[[dialogue]]
+speaker_original = "レイラ"
+speaker_translation = "레이라"
+original = "「……ああ、ちょっと！\u3000待ってってば！」"
+translation = "「……아아, 정말! 기다리라니까!」"
+
+[[dialogue]]
+speaker_original = "ジュリエッテ"
+speaker_translation = "줄리엣타"
+original = "「相変わらずでございますわね、本当に」"
+translation = "「여전하시군요, 정말이지」"
+
+[[dialogue]]
+speaker_original = "キサナ"
+speaker_translation = "키사나"
+original = "「ま。あいつらは連携なんて考えない方がいいだろ。離れてた方がアタシらも安全だしな」"
+translation = "「뭐. 저 녀석들은 연계 같은 건 생각하지 않는 게 낫겠어. 떨어져 있는 게 우리도 안전하니까」"
+
+[[dialogue]]
+speaker_original = "ヴァレリー"
+speaker_translation = "발레리"
+original = "「ふふふ。おぞましく、そして美しい光景ですね」"
+translation = "「후후후. 끔찍하면서도 아름다운 광경이군요」"
+
+[[dialogue]]
+speaker_original = "リーナ"
+speaker_translation = "리나"
+original = "「またルヴィネって子が出てきたの？\u3000お兄ちゃんを困らせてる奴。全部いなくなっちゃえいなくなっちゃえいなくなっちゃえ──」"
+translation = "「또 루비네라는 애가 나타난 거야? 오빠를 곤란하게 만드는 녀석. 전부 없어져 버려 없어져 버려 없어져 버려──」"
+
+[[dialogue]]
+speaker_original = "エンジュ"
+speaker_translation = "엔쥬"
+original = "「全員ぶっ潰してやる……行くぞ！！」"
+translation = "「전부 쳐부숴 주마…… 간다!!」"
+
+[[dialogue]]
+speaker_original = "黒騎士"
+speaker_translation = "흑기사"
+original = "「……これで終わりだ。貴様たちは敗北し、緋宮クロトはベガの地を踏むことも敵わない」"
+translation = "「……이걸로 끝이다. 네놈들은 패배하고, 히노미야 쿠로토는 베가의 땅을 밟지도 못할 터」"
+
+[[dialogue]]
+speaker_original = "黒騎士"
+speaker_translation = "흑기사"
+original = "「世界の刷新を……マルキアとの──再会、を────」"
+translation = "「세계의 쇄신을…… 마르키아와의── 재회를────」"
+
+[[dialogue]]
+speaker_original = "アニュラス（覚醒）"
+speaker_translation = "아뉴라스(각성)"
+original = "「……お父様。貴方をその妄執から解き放つ──お相手願おう！！」"
+translation = "「……아버님. 당신을 그 망집에서 해방해주지── 상대해주실까!!」"
+

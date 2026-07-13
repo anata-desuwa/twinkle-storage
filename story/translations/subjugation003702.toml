@@ -1,0 +1,456 @@
+[[dialogue]]
+speaker = "unk"
+original = "第２話,フロンティアドライブ・オーバーロード,B"
+translation = "제2화, 프론티어 드라이브 오버로드, B"
+
+[[dialogue]]
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
+original = "「魔王ラクシスの権能……？\u3000あ──」"
+translation = "「마왕 락시스의 권능……? 아──」"
+
+[[dialogue]]
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
+original = "「わかったわ！\u3000フロンティアドライブね！」"
+translation = "「알겠어! 프론티어 드라이브네!」"
+
+[[dialogue]]
+speaker_original = "トリシャ"
+speaker_translation = "트리샤"
+original = "「その通り……会長さんにフロンティアドライブを使ってもらいます……これで、万事解決……」"
+translation = "「그 말대로예요…… 회장님에게 프론티어 드라이브를 사용하게 하는 겁니다…… 이걸로 만사 해결……」"
+
+[[dialogue]]
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
+original = "「フロンティア、ドライブ？\u3000魔王ラクシスの権能は、平行世界を跳躍する力……じゃないんですか？」"
+translation = "「프론티어 드라이브? 마왕 락시스의 권능은 평행세계를 도약하는 힘…… 아닌가요?」"
+
+[[dialogue]]
+speaker_original = "アナ"
+speaker_translation = "아나"
+original = "「それも力の１つですが、ラクシス本来の能力はそれにとどまりません。『平行世界への干渉能力』──それが能力の正体です」"
+translation = "「그것도 힘 중 하나입니다만 락시스 본래의 능력은 그에 그치지 않습니다. 『평행세계에 대한 간섭 능력』── 그것이 능력의 정체입니다」"
+
+[[dialogue]]
+speaker_original = "マトイ"
+speaker_translation = "마토이"
+original = "「前回のフィヴォス流星群……魔神ギエルとの戦いの時に、会長はフロンティアドライブを使って、平行世界に干渉して──」"
+translation = "「지난 피보스 유성군…… 마신 기엘과의 싸움 때 회장은 프론티어 드라이브를 사용해 평행세계에 간섭해서──」"
+
+[[dialogue]]
+speaker_original = "サーシャ"
+speaker_translation = "사샤"
+original = "「ベガとデネブからも星の力を引っ張ってくることができたのよね～。それで私たちも、あの魔神を倒すことができたわ～」"
+translation = "「베가와 데네브에서도 별의 힘을 끌어올 수 있었지~. 그래서 우리도 그 마신을 쓰러뜨릴 수 있었어~」"
+
+[[dialogue]]
+speaker_original = "ルヴィネ"
+speaker_translation = "루비네"
+original = "「……聞けば聞くほどに出鱈目ね。でも、その力があれば──」"
+translation = "「……들으면 들을수록 터무니없네. 하지만 그 힘이 있다면──」"
+
+[[dialogue]]
+speaker_original = "グレイス"
+speaker_translation = "그레이스"
+original = "「何とかなるかもしれませんねっ！」"
+translation = "「어떻게든 될지도 모르겠네요!」"
+
+[[dialogue]]
+speaker_original = "クロト"
+speaker_translation = "쿠로토"
+original = "「いや──これだけじゃダメなんだ」"
+translation = "「아니── 이것만으로는 부족해」"
+
+[[dialogue]]
+speaker_original = "グレイス"
+speaker_translation = "그레이스"
+original = "「あれぇ！？」"
+translation = "「어라!?」"
+
+[[dialogue]]
+speaker_original = "クロト"
+speaker_translation = "쿠로토"
+original = "「３つの平行世界に干渉して力を集めたとしても、出力が足りない。『星喰らい』の戦闘力……観測数値は、それくらいに絶望的なんだ」"
+translation = "「3개의 평행세계에 간섭해서 힘을 모은다 해도 출력이 부족해. 『호시쿠라이』의 전투력…… 관측 수치는 그 정도로 절망적이다」"
+
+[[dialogue]]
+speaker_original = "クロト"
+speaker_translation = "쿠로토"
+original = "「だけど『フロンティアドライブ』は、平行世界の可能性を重ね合わせる能力。だったらその力の影響範囲を、もっと広げればいい」"
+translation = "「하지만 『프론티어 드라이브』는 평행세계의 가능성을 겹쳐 맞추는 능력. 그렇다면 그 힘의 영향 범위를 더 넓히면 돼」"
+
+[[dialogue]]
+speaker_original = "クロト"
+speaker_translation = "쿠로토"
+original = "「無数の世界へアクセスできれば……今まで以上の力だって借りられるはずだ」"
+translation = "「무수한 세계로 액세스할 수 있다면…… 지금까지 이상의 힘이라도 빌릴 수 있을 거야」"
+
+[[dialogue]]
+speaker_original = "チナ"
+speaker_translation = "치나"
+original = "「いや、ちょっと待てよ。無数の世界って……何言ってるんだよ、魔王」"
+translation = "「아니, 잠깐 기다려봐. 무수한 세계라니…… 무슨 소리 하는 거야, 마왕」"
+
+[[dialogue]]
+speaker_original = "レティシア"
+speaker_translation = "레티시아"
+original = "「そうね。デネブ、アルタイル、ベガ──世界はこれだけのはずでしょう？」"
+translation = "「그래. 데네브, 알타이르, 베가── 세계는 이것뿐이잖아?」"
+
+[[dialogue]]
+speaker_original = "クロト"
+speaker_translation = "쿠로토"
+original = "「……俺もそう思っていた。だけど、トリシャさんはそうじゃないって言うんだ」"
+translation = "「……나도 그렇게 생각했어. 하지만 트리샤 씨는 그렇지 않다고 하더라고」"
+
+[[dialogue]]
+speaker_original = "トリシャ"
+speaker_translation = "트리샤"
+original = "「はい。あなた方がご存知の、３つの平行世界は……魔王ラクシスが<ruby>封理再誕<rt>レナトゥス</rt></ruby>で生まれ直したことによって、発生したもの……」"
+translation = "「네. 여러분이 알고 계시는 3개의 평행세계는…… 마왕 락시스가 <ruby>봉리재탄<rt>레나투스</rt></ruby>으로 다시 태어남으로써 발생한 것……」"
+
+[[dialogue]]
+speaker_original = "トリシャ"
+speaker_translation = "트리샤"
+original = "「これを『<ruby>近似世界<rt>きんじせかい</rt></ruby>』と呼びましょう……ですが、このようなイレギュラーがなくとも、そもそも宇宙は無数に枝分かれをしています……」"
+translation = "「이것을 『근사 세계』라고 부릅시다…… 하지만 이런 이레귤러가 없더라도 애당초 우주는 무수히 가지를 뻗고 있습니다……」"
+
+[[dialogue]]
+speaker_original = "グレイス"
+speaker_translation = "그레이스"
+original = "「そ、そうなのですか！？」"
+translation = "「그, 그런 건가요!?」"
+
+[[dialogue]]
+speaker_original = "トリシャ"
+speaker_translation = "트리샤"
+original = "「ええ。私の師……メラムから聞いたことがあります。宇宙の可能性は無限大……無数に枝分かれする、可能性という名の『ゆらぎ』の世界……」"
+translation = "「네. 제 스승…… 멜람에게 들은 적이 있습니다. 우주의 가능성은 무한대…… 무수히 가지 치는 가능성이라는 이름의 『요동』의 세계……」"
+
+[[dialogue]]
+speaker_original = "トリシャ"
+speaker_translation = "트리샤"
+original = "「──『<ruby>幹内世界<rt>フラクタル・ワールド</rt></ruby>』。師はそう呼んでいました……」"
+translation = "「──『<ruby>간내세계<rt>프랙탈 월드</rt></ruby>』. 스승은 그렇게 불렀습니다……」"
+
+[[dialogue]]
+speaker_original = "ルヴィネ"
+speaker_translation = "루비네"
+original = "「幹内、世界……。近似世界とは違う……？」"
+translation = "「간내세계……. 근사 세계와는 다른 거야?」"
+
+[[dialogue]]
+speaker_original = "トリシャ"
+speaker_translation = "트리샤"
+original = "「はい。私たちが今いるこのアルタイルを、１本の樹……巨大な幹だと、考えてください……」"
+translation = "「네. 우리가 지금 있는 이 알타이르를 한 그루의 나무…… 거대한 줄기라고 생각해 주세요……」"
+
+[[dialogue]]
+speaker_original = "トリシャ"
+speaker_translation = "트리샤"
+original = "「その幹には、いくつもの枝葉が付きます……ですがどの枝も、幹と繋がった、同じ樹の『可能性の一部』……同じアルタイルの中の『ゆらぎ』でしかない……」"
+translation = "「그 줄기에는 수많은 가지와 잎이 붙습니다…… 하지만 어느 가지도 줄기와 연결된 같은 나무의 『가능성의 일부』…… 같은 알타이르 안의 『요동』일 뿐……」"
+
+[[dialogue]]
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
+original = "「……？？？」"
+translation = "「……???」"
+
+[[dialogue]]
+speaker_original = "ルヴィネ"
+speaker_translation = "루비네"
+original = "「…………」"
+translation = "「…………」"
+
+[[dialogue]]
+speaker_original = "ルヴィネ"
+speaker_translation = "루비네"
+original = "「……平行世界には、管理者である神すらも異なる、異世界と言っても過言ではない、『遠い世界』が存在するわ」"
+translation = "「……평행세계에는 관리자인 신조차 다른, 이세계라 해도 과언이 아닌 『먼 세계』가 존재해」"
+
+[[dialogue]]
+speaker_original = "ルヴィネ"
+speaker_translation = "루비네"
+original = "「一方で、デネブ、アルタイル、ベガの３つは、元々同じ幹から派生した『近似世界』。だからこそ不自然であるし、管理する神は同一だった」"
+translation = "「한편으로 데네브, 알타이르, 베가 세 곳은 원래 같은 줄기에서 파생된 『근사 세계』. 그렇기에 부자연스러웠고 관리하는 신은 동일했어」"
+
+[[dialogue]]
+speaker_original = "ルヴィネ"
+speaker_translation = "루비네"
+original = "「『<ruby>幹内世界<rt>フラクタル・ワールド</rt></ruby>』は、それよりもさらに近い。同じアルタイルの中にある、『起こったかもしれない、ゆらぎの世界』ということね？」"
+translation = "「『<ruby>간내세계<rt>프랙탈 월드</rt></ruby>』는 그보다 더 가까워. 같은 알타이르 안에 있는 『일어났을지도 모르는 요동의 세계』라는 거지?」"
+
+[[dialogue]]
+speaker_original = "ルヴィネ"
+speaker_translation = "루비네"
+original = "「私たちが観測しなかったところに『あったかもしれない世界』。観測しなければ、やがて同じ歴史に紛れて溶けてしまう、無数の可能性の束──」"
+translation = "「우리가 관측하지 못한 곳에 『있었을지도 모르는 세계』. 관측하지 않으면 이윽고 같은 역사에 섞여 녹아버리는 무수한 가능성의 묶음──」"
+
+[[dialogue]]
+speaker_original = "トリシャ"
+speaker_translation = "트리샤"
+original = "「その通りです……フフフ。ルヴィネさん……あなたは理解が早いですね……」"
+translation = "「그 말대로입니다…… 후후후. 루비네 씨…… 당신은 이해가 빠르군요……」"
+
+[[dialogue]]
+speaker_original = "トリシャ"
+speaker_translation = "트리샤"
+original = "「幹内世界の数は、数え切ることは不可能です……それほどまでに、高次元宇宙というものは、膨大……」"
+translation = "「간내세계의 수는 다 세는 것이 불가능합니다…… 그 정도로 고차원 우주라는 것은 방대……」"
+
+[[dialogue]]
+speaker_original = "トリシャ"
+speaker_translation = "트리샤"
+original = "「数多の枝葉の世界から、あなた方の同一存在に会長さんがアクセス……そこから技能、戦闘経験、星力……それら全てを、借りるのです……」"
+translation = "「수많은 가지와 잎의 세계에서 여러분의 동일 존재에게 회장님이 액세스…… 거기서 기능, 전투 경험, 성력…… 그것들 전부를 빌리는 겁니다……」"
+
+[[dialogue]]
+speaker_original = "トリシャ"
+speaker_translation = "트리샤"
+original = "「<ruby>幹内世界<rt>フラクタル・ワールド</rt></ruby>には、今より未来のあなた方もいるかも……今ここにいるあなた方が目覚めていない、戦う力を持っているかもしれません……」"
+translation = "「<ruby>간내세계<rt>프랙탈 월드</rt></ruby>에는 지금보다 미래의 여러분도 있을지도…… 여기 있는 여러분이 깨닫지 못한 싸우는 힘을 가지고 있을지도 모릅니다……」"
+
+[[dialogue]]
+speaker_original = "ユウリ"
+speaker_translation = "유우리"
+original = "「め、めちゃくちゃなことを言ってるように聞こえるけどよ……要するに、パワーアップできるってことだよな？」"
+translation = "「머, 말도 안 되는 소리를 하는 것처럼 들리지만 말이야…… 요컨대 파워 업할 수 있다는 거지?」"
+
+[[dialogue]]
+speaker_original = "クロト"
+speaker_translation = "쿠로토"
+original = "「そのくらい雑に噛み砕いてくれて大丈夫だ」"
+translation = "「그 정도로 대충 씹어서 이해해 줘도 괜찮아」"
+
+[[dialogue]]
+speaker_original = "ルリエル"
+speaker_translation = "루리엘"
+original = "「つまりどこかの<ruby>幹内世界<rt>フラクタル・ワールド</rt></ruby>には、スーパーモードのルリエルがいるかもってことですねっ！」"
+translation = "「즉 어딘가의 <ruby>간내세계<rt>프랙탈 월드</rt></ruby>에는 슈퍼 모드 루리엘이 있을지도 모른다는 거네요!」"
+
+[[dialogue]]
+speaker_original = "クロト"
+speaker_translation = "쿠로토"
+original = "「ああ。ルリエルの持っていない戦闘服だって、<ruby>幹内世界<rt>フラクタル・ワールド</rt></ruby>の同一存在から借りられるかもしれない」"
+translation = "「아아. 루리엘이 가지고 있지 않은 전투복이라도 <ruby>간내세계<rt>프랙탈 월드</rt></ruby>의 동일 존재로부터 빌릴 수 있을지도 몰라」"
+
+[[dialogue]]
+speaker_original = "チナ"
+speaker_translation = "치나"
+original = "「す──すげぇな。流石は旧森羅歴でリクリエを食い止めた英雄……イカれた能力だ！！」"
+translation = "「와── 대단하네. 역시 구 삼라력에서 리크리에를 막아낸 영웅…… 미친 능력이구만!!」"
+
+[[dialogue]]
+speaker_original = "クロト"
+speaker_translation = "쿠로토"
+original = "「ここまで大がかりなフロンティアドライブは、俺１人じゃ無理だ。あくまで『ベガの俺』の助力がある間だけの、限定的な奇蹟……」"
+translation = "「이 정도로 대규모 프론티어 드라이브는 나 혼자선 무리야. 어디까지나 『베가의 나』의 조력이 있는 동안만의 한정적인 기적……」"
+
+[[dialogue]]
+speaker_original = "クロト"
+speaker_translation = "쿠로토"
+original = "「<ruby>過負荷<rt>オーバーロード</rt></ruby>をかけたフロンティアドライブを使えるのは、今だけ──だからこそ、『<ruby>ＸＥＬＯＳ<rt>ゼロス</rt></ruby>』を討つ機会は逃せない」"
+translation = "「<ruby>과부하<rt>오버로드</rt></ruby>를 건 프론티어 드라이브를 쓸 수 있는 건 지금뿐── 그렇기에 『<ruby>XELOS<rt>제로스</rt></ruby>』를 칠 기회를 놓칠 수 없어」"
+
+[[dialogue]]
+speaker_original = "ルヴィネ"
+speaker_translation = "루비네"
+original = "「フロンティアドライブ・オーバーロード……試してみる価値はありそうね」"
+translation = "「프론티어 드라이브 오버로드…… 시도해 볼 가치는 있겠네」"
+
+[[dialogue]]
+speaker_original = "クロト"
+speaker_translation = "쿠로토"
+original = "「みんなに頼りきりで悪いと思っている……でも『星喰らい』の活動は、ベガ内で弱体化した俺では止められない」"
+translation = "「모두에게 너무 의지하는 것 같아 미안하게 생각하고 있어…… 하지만 호시쿠라이의 활동은 베가 내에서 약해진 나로서는 멈출 수 없어」"
+
+[[dialogue]]
+speaker_original = "クロト"
+speaker_translation = "쿠로토"
+original = "「星喰らいさえ止められたら……『<ruby>ＸＥＬＯＳ<rt>ゼロス</rt></ruby>』の相手は俺がする。みんな、力を貸してくれるか？」"
+translation = "「호시쿠라이만 멈출 수 있다면…… 『<ruby>XELOS<rt>제로스</rt></ruby>』의 상대는 내가 하겠어. 모두 힘을 빌려주겠어?」"
+
+[[dialogue]]
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
+original = "「もちろんよ！\u3000そのフラフラワールドでパワーアップできるんでしょ！\u3000だったらいけるわ！」"
+translation = "「물론이지! 그 플라플라 월드인지 뭔지로 파워 업할 수 있는 거잖아! 그렇다면 할 수 있어!」"
+
+[[dialogue]]
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
+original = "「問題ありません。緋宮会長が『ディザスターハンド』の力を行使できるよう──５人の星喰らいの活動は、私たちが止めてみせます！」"
+translation = "「문제없습니다. 히노미야 회장이 『디재스터 핸드』의 힘을 행사할 수 있도록── 5명의 호시쿠라이의 활동은 저희가 멈춰 보이겠습니다!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "──ヴィーナスやフィオナたちだけではない。"
+translation = "──비너스나 피오나 일행뿐만이 아니었다."
+
+[[dialogue]]
+speaker = "unk"
+original = "その場のみんなが、頷いてくれた。"
+translation = "그곳의 모두가 고개를 끄덕여 주었다."
+
+[[dialogue]]
+speaker = "unk"
+original = "確実な保証なんてどこにもないというのに、俺の作戦を信じ、命を預けてくれた──"
+translation = "확실한 보증 따윈 어디에도 없는데도 내 작전을 믿고 목숨을 맡겨 주었다──"
+
+[[dialogue]]
+speaker_original = "クロト"
+speaker_translation = "쿠로토"
+original = "「……ありがとう。俺はアルタイルの九浄家に残って、フロンティアドライブの維持に専念する」"
+translation = "「……고마워. 나는 알타이르의 쿠죠 가문에 남아서 프론티어 드라이브 유지에 전념할게」"
+
+[[dialogue]]
+speaker_original = "クロト"
+speaker_translation = "쿠로토"
+original = "「みんなは精鋭の星騎士を５チームにわけて、ベガの一次攻略に当たって欲しい」"
+translation = "「모두는 정예 성기사를 5개 팀으로 나누어 베가의 1차 공략에 임해 줬으면 해」"
+
+[[dialogue]]
+speaker_original = "ソフィア"
+speaker_translation = "소피아"
+original = "「──待ってください。肝心の『<ruby>ＸＥＬＯＳ<rt>ゼロス</rt></ruby>』の居場所は、どうやって捕捉するのですか？」"
+translation = "「──잠시만요. 정작 『<ruby>XELOS<rt>제로스</rt></ruby>』의 위치는 어떻게 포착하는 건가요?」"
+
+[[dialogue]]
+speaker_original = "クロト"
+speaker_translation = "쿠로토"
+original = "「それについては、梨緒とジグにお願いするつもりだ」"
+translation = "「그 점에 대해서는 리오와 지그에게 부탁할 생각이야」"
+
+[[dialogue]]
+speaker_original = "梨緒"
+speaker_translation = "리오"
+original = "「……私たちに？」"
+translation = "「……우리에게?」"
+
+[[dialogue]]
+speaker_original = "クロト"
+speaker_translation = "쿠로토"
+original = "「ああ。ベガ世界で『星喰らい』を撃破するたびに──身を隠している『<ruby>ＸＥＬＯＳ<rt>ゼロス</rt></ruby>』本体に送っていた霊力の流れが乱れるはずだ」"
+translation = "「아아. 베가 세계에서 『호시쿠라이』를 격파할 때마다── 몸을 숨기고 있는 『<ruby>XELOS<rt>제로스</rt></ruby>』 본체에게 보내던 영력의 흐름이 흐트러질 거야」"
+
+[[dialogue]]
+speaker_original = "クロト"
+speaker_translation = "쿠로토"
+original = "「その因果の流れを梨緒に辿ってもらう。そうすれば──」"
+translation = "「그 인과의 흐름을 리오가 쫓아주면 돼. 그렇게 하면──」"
+
+[[dialogue]]
+speaker_original = "ジグ"
+speaker_translation = "지그"
+original = "「……なるほど。因果の流れを補足するたびにアガサの『これから取る行動』が変わる。そうなれば──」"
+translation = "「……과연. 인과의 흐름을 포착할 때마다 아가사가 『이제부터 취할 행동』이 변한다. 그렇게 되면──」"
+
+[[dialogue]]
+speaker_original = "梨緒"
+speaker_translation = "리오"
+original = "「ジグの、天機の星眼で見える未来も変わる、ということか」"
+translation = "「지그의 천기의 성안으로 보이는 미래도 변한다는 거군」"
+
+[[dialogue]]
+speaker_original = "クロト"
+speaker_translation = "쿠로토"
+original = "「そういうことだ。梨緒たちはアルタイルに残って、各地での戦況報告を俺と一緒に受け取って欲しい」"
+translation = "「그런 거야. 리오 일행은 알타이르에 남아서 각지의 전황 보고를 나와 함께 받아줬으면 해」"
+
+[[dialogue]]
+speaker_original = "ジグ"
+speaker_translation = "지그"
+original = "「酷い作戦だね。まだ本調子じゃない私に、星眼を短時間で５回も使用しろだなんて」"
+translation = "「가혹한 작전이네. 아직 컨디션이 다 돌아오지 않은 나에게 성안을 단시간에 5번이나 사용하라니」"
+
+[[dialogue]]
+speaker_original = "クロト"
+speaker_translation = "쿠로토"
+original = "「……すまない、ジグ」"
+translation = "「……미안해, 지그」"
+
+[[dialogue]]
+speaker_original = "ジグ"
+speaker_translation = "지그"
+original = "「──なんてね、言ってみただけさ。もちろん付き合うとも。創造神の息の根を止められるなら、擦り切れるまで星眼を酷使しようじゃないか」"
+translation = "「──농담이야, 한번 말해봤어. 물론 함께하고말고. 창조신의 숨통을 끊을 수 있다면 닳아 없어질 때까지 성안을 혹사해 주지」"
+
+[[dialogue]]
+speaker_original = "梨緒"
+speaker_translation = "리오"
+original = "「……だが魔王、まだ懸念はあるぞ。ベガにひしめく、１００万のシャドウたちの相手は？」"
+translation = "「……하지만 마왕, 아직 우려되는 게 있어. 베가에 들끓는 100만의 섀도 상대는?」"
+
+[[dialogue]]
+speaker_original = "セイファート"
+speaker_translation = "세이파트"
+original = "「案ずるな。シャドウたちの相手……その陣頭指揮は、私が取ろう」"
+translation = "「걱정 마라. 섀도들의 상대…… 그 선봉 지휘는 내가 맡도록 하지」"
+
+[[dialogue]]
+speaker_original = "セイファート"
+speaker_translation = "세이파트"
+original = "「元よりそのつもりで、私をデネブから呼んだのだろう、少年？」"
+translation = "「원래 그럴 생각으로 나를 데네브에서 부른 것 아니냐, 소년?」"
+
+[[dialogue]]
+speaker_original = "クロト"
+speaker_translation = "쿠로토"
+original = "「……はい、セイファート学園長」"
+translation = "「……네, 세이파트 학원장님」"
+
+[[dialogue]]
+speaker_original = "セイファート"
+speaker_translation = "세이파트"
+original = "「『星喰らい』戦の選抜から漏れた者たちを連れて行く。此度の露払いは、任せてもらおうか」"
+translation = "「『호시쿠라이』 전투 선발에서 빠진 자들을 데려가겠다. 이번 길 닦기는 내게 맡겨주겠나」"
+
+[[dialogue]]
+speaker_original = "クロト"
+speaker_translation = "쿠로토"
+original = "「ありがとうございます……！」"
+translation = "「감사합니다……!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "──話はまとまった。"
+translation = "──이야기는 정리되었다."
+
+[[dialogue]]
+speaker = "unk"
+original = "ならば、後は机上の空論を顕現させることに集中しよう。"
+translation = "그렇다면 남은 것은 탁상공론을 현현시키는 것에 집중하는 것뿐."
+
+[[dialogue]]
+speaker_original = "クロト"
+speaker_translation = "쿠로토"
+original = "「みんな──今から『<ruby>ＸＥＬＯＳ<rt>ゼロス</rt></ruby>』討伐の最終作戦を始める！」"
+translation = "「모두들── 지금부터 『<ruby>XELOS<rt>제로스</rt></ruby>』 토벌 최종 작전을 시작한다!」"
+
+[[dialogue]]
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
+original = "「──はい！」"
+translation = "「──네!」"
+
+[[dialogue]]
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
+original = "「クロト、お願い！！」"
+translation = "「쿠로토, 부탁해!!」"
+
+[[dialogue]]
+speaker_original = "クロト"
+speaker_translation = "쿠로토"
+original = "「<ruby>幹内世界<rt>フラクタル・ワールド</rt></ruby>のみんなから力を借り受ける……今だけの奇蹟を、ここに集約する！」"
+translation = "「<ruby>간내세계<rt>프랙탈 월드</rt></ruby>의 모두로부터 힘을 빌려받는다…… 지금만의 기적을 여기에 집약하겠어!」"
+
+[[dialogue]]
+speaker_original = "クロト"
+speaker_translation = "쿠로토"
+original = "「フロンティアドライブ──オーバーロード！！！」"
+translation = "「프론티어 드라이브── 오버로드!!!」"
+

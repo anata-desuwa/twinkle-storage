@@ -1,0 +1,259 @@
+[[dialogue]]
+speaker = "unk"
+original = "極星学園の星徒会長・ルヴィネ。"
+translation = "극성학원의 성도회장 루비네."
+
+[[dialogue]]
+speaker = "unk"
+original = "創造神『<ruby>ＸＥＬＯＳ<rt>ゼロス</rt></ruby>』に生み出された、新たな女神。"
+translation = "창조신 『<ruby>ＸＥＬＯＳ<rt>제로스</rt></ruby>』에게 태어난, 새로운 여신."
+
+[[dialogue]]
+speaker = "unk"
+original = "彼女はリクリエを遂行するために生まれた存在だった。"
+translation = "그녀는 리크리에를 수행하기 위해 태어난 존재였다."
+
+[[dialogue]]
+speaker = "unk"
+original = "彼女は世界を滅ぼすために、デネブ全てを謀っていた。"
+translation = "그녀는 세계를 멸망시키기 위해, 데네브 전체를 기만하고 있었다."
+
+[[dialogue]]
+speaker = "unk"
+original = "だけど、それだけじゃなかった。"
+translation = "하지만, 그것뿐만이 아니었다."
+
+[[dialogue]]
+speaker = "unk"
+original = "心優しきヴァンパイアの副会長・ベアトリス。"
+translation = "마음 착한 뱀파이어 부회장 베아트리스."
+
+[[dialogue]]
+speaker = "unk"
+original = "家族想いで勇敢な一番槍のチナ。"
+translation = "가족을 생각하는 용감한 선봉장 치나."
+
+[[dialogue]]
+speaker = "unk"
+original = "好奇心と食欲旺盛で、元気溢れるグレイス。"
+translation = "호기심과 식욕이 왕성하고 활기 넘치는 그레이스."
+
+[[dialogue]]
+speaker = "unk"
+original = "冷たい微笑の下に優しい心を宿したレティシア。"
+translation = "차가운 미소 아래 따뜻한 마음을 품은 레티시아."
+
+[[dialogue]]
+speaker = "unk"
+original = "周囲から隔絶された流星市国──１０年前の地獄を共に生きた仲間たち。"
+translation = "주변으로부터 격절된 유성시국── 10년 전의 지옥을 함께 살아온 동료들."
+
+[[dialogue]]
+speaker = "unk"
+original = "ルヴィネの死の危機を知った極星星徒会の４人は、彼女が自分たちを騙していたと気付いてもなお、ルヴィネを救うために立ち向かった。"
+translation = "루비네의 죽음의 위기를 알게 된 극성성도회 4명은, 그녀가 자신들을 속이고 있었다는 것을 깨닫고도 여전히, 루비네를 구하기 위해 맞서 싸웠다."
+
+[[dialogue]]
+speaker = "unk"
+original = "極星星徒会の仲間たちを、守護天使として新たな世界に連れていこうとするルヴィネ。"
+translation = "극성성도회의 동료들을, 수호천사로서 새로운 세계로 데려가려 하는 루비네."
+
+[[dialogue]]
+speaker = "unk"
+original = "だが４人はその誘いを断り、友達として呼びかける。"
+translation = "하지만 4명은 그 권유를 거절하고, 친구로서 말을 건다."
+
+[[dialogue]]
+speaker_original = "チナ"
+speaker_translation = "치나"
+original = "「……ルヴィはモノなんかじゃない。女神である前に、１人の天使だ……アタシの、友達だっ！」"
+translation = "「……루비는 물건 같은 게 아냐. 여신이기 이전에, 한 명의 천사야…… 내, 친구라고!」"
+
+[[dialogue]]
+speaker_original = "グレイス"
+speaker_translation = "그레이스"
+original = "「『魔王さん』と約束しましたから！\u3000世界も、友達も、絶対に諦めないって！！\u3000ルヴィ、私たちとちゃんと向き合ってください！\u3000そこからですよ……！」"
+translation = "「『마왕님』과 약속했으니까요! 세계도, 친구도, 절대로 포기하지 않겠다고!! 루비, 우리들과 제대로 마주해 주세요! 거기서부터예요……!」"
+
+[[dialogue]]
+speaker_original = "レティシア"
+speaker_translation = "레티시아"
+original = "「永遠にルヴィと生きられるのも、素敵だとは思うけれど……私たちの居場所のデネブで、限りある人生を生きる方が、魅力的だわ……」"
+translation = "「영원히 루비와 살 수 있는 것도 멋지다고 생각하지만…… 우리들의 안식처인 데네브에서, 유한한 인생을 사는 편이 더 매력적이야……」"
+
+[[dialogue]]
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
+original = "「ねぇルヴィ。私たち、聞きたいことは１つだけなの」"
+translation = "「있지 루비. 우리들, 묻고 싶은 건 한 가지뿐이야」"
+
+[[dialogue]]
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
+original = "「『<ruby>ＸＥＬＯＳ<rt>ゼロス</rt></ruby>』に与えられた使命を全うして、世界をやり直したいの……？」"
+translation = "「『<ruby>ＸＥＬＯＳ<rt>제로스</rt></ruby>』에게 부여받은 사명을 다해서, 세계를 다시 시작하고 싶어……?」"
+
+[[dialogue]]
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
+original = "「それとも……嘘や間違いだらけでも、この世界で私たちと生きていきたい？」"
+translation = "「아니면…… 거짓말이나 실수투성이여도, 이 세계에서 우리와 살아가고 싶어?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "極星星徒会は１０年もの時間を……家族より長い時を共に過ごしてきた。"
+translation = "극성성도회는 10년이라는 시간을…… 가족보다 긴 시간을 함께 보내왔다."
+
+[[dialogue]]
+speaker = "unk"
+original = "そんな大切な幼なじみの言葉に、ルヴィネも素直にならざるを得なかった。"
+translation = "그런 소중한 소꿉친구의 말에, 루비네도 솔직해질 수밖에 없었다."
+
+[[dialogue]]
+speaker_original = "ルヴィネ"
+speaker_translation = "루비네"
+original = "「みんな、今まで本当に……ごめんなさい」"
+translation = "「모두들, 지금까지 정말…… 미안해」"
+
+[[dialogue]]
+speaker_original = "ルヴィネ"
+speaker_translation = "루비네"
+original = "「許されるのなら……これからも、みんなと一緒に生きていきたい……っ」"
+translation = "「용서받을 수 있다면…… 앞으로도, 모두와 함께 살아가고 싶어……!」"
+
+[[dialogue]]
+speaker_original = "ルヴィネ"
+speaker_translation = "루비네"
+original = "「リクリエなんて起こさずに、この世界で生きていきたいわ……！」"
+translation = "「리크리에 같은 거 일으키지 않고, 이 세계에서 살아가고 싶어……!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ルヴィネは極星星徒会のみんなと共に生きることを選んだ。"
+translation = "루비네는 극성성도회 모두와 함께 살아가는 것을 택했다."
+
+[[dialogue]]
+speaker = "unk"
+original = "戦いを回避し、ルヴィネの死の未来も退けられた──と思われた。"
+translation = "싸움을 회피하고, 루비네의 죽음의 미래도 물리쳤다──고 생각되었다."
+
+[[dialogue]]
+speaker_original = "ルヴィネ"
+speaker_translation = "루비네"
+original = "「どうして……？\u3000霊力が突然、なくなった──？」"
+translation = "「어째서……? 영력이 갑자기, 사라졌어──?」"
+
+[[dialogue]]
+speaker_original = "？？？"
+speaker_translation = "？？？"
+original = "「──返してもらったのよ。不出来な姉には過ぎた力だもの」"
+translation = "「──돌려받은 거야. 서투른 언니에게는 과분한 힘이니까」"
+
+[[dialogue]]
+speaker_original = "ルヴィネ"
+speaker_translation = "루비네"
+original = "「────か、はっ……！？」"
+translation = "「────커, 헉……!?」"
+
+[[dialogue]]
+speaker_original = "ホロウ・ルヴィネ"
+speaker_translation = "할로우・루비네"
+original = "「１０年間、お疲れ様……役立たずのルヴィネ。そしてさようなら」"
+translation = "「10년 동안 수고했어…… 쓸모없는 루비네. 그리고 작별이야」"
+
+[[dialogue]]
+speaker_original = "ホロウ・ルヴィネ"
+speaker_translation = "할로우・루비네"
+original = "「これからは私──新しいルヴィネが、リクリエを引き継ぐわ」"
+translation = "「이제부터는 나── 새로운 루비네가, 리크리에를 인계받겠어」"
+
+[[dialogue]]
+speaker = "unk"
+original = "しかしルヴィネは、<b>新しいルヴィネ</b>に霊力を奪われ、討たれた。"
+translation = "그러나 루비네는, **새로운 루비네**에게 영력을 빼앗기고, 토벌당했다."
+
+[[dialogue]]
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
+original = "「私の守護星は、ポラリス・アウストラリス……！\u3000南極に一番近い星で！」"
+translation = "「나의 수호성은, 폴라리스 아우스트랄리스……! 남극에 가장 가까운 별이야!」"
+
+[[dialogue]]
+speaker_original = "グレイス"
+speaker_translation = "그레이스"
+original = "「私の守護星は、ファワリス……いつか北極星に組み込まれる星座なんですね！」"
+translation = "「나의 수호성은, 파와리스…… 언젠가 북극성에 편입되는 별자리네요!」"
+
+[[dialogue]]
+speaker_original = "チナ"
+speaker_translation = "치나"
+original = "「アタシはエライ。レティシアはエダシク……どっちも北極星に関係してるだなんて、こんな偶然あるんだな！」"
+translation = "「나는 에라이. 레티시아는 에다시크…… 둘 다 북극성과 관계되어 있다니, 이런 우연이 다 있나!」"
+
+[[dialogue]]
+speaker_original = "レティシア"
+speaker_translation = "레티시아"
+original = "「……すごい、ぐうぜん？」"
+translation = "「……멋진, 우연?」"
+
+[[dialogue]]
+speaker_original = "チナ"
+speaker_translation = "치나"
+original = "「ルヴィの守護星も調べたかったなあ。アタシらじゃ機械の動かし方、よくわからなかったし……」"
+translation = "「루비의 수호성도 알아보고 싶었는데. 우리로서는 기계 작동법을 잘 몰랐으니까……」"
+
+[[dialogue]]
+speaker_original = "ルヴィネ"
+speaker_translation = "루비네"
+original = "「いいえ。テルル様に遣わされた時に、守護星のことは聞いているの」"
+translation = "「아니. 테루루 님에 의해 파견되었을 때, 수호성에 대해서는 들었어」"
+
+[[dialogue]]
+speaker_original = "ルヴィネ"
+speaker_translation = "루비네"
+original = "「私の守護星は──ポラリス。今の北極星よ。ふふ……みんな同じなのね」"
+translation = "「나의 수호성은── 폴라리스. 지금의 북극성이야. 후후…… 모두 똑같네」"
+
+[[dialogue]]
+speaker = "unk"
+original = "偶然にも共通項を持つ５人の守護星。だがルヴィネの言葉は偽りだった。"
+translation = "우연히도 공통점을 가진 5명의 수호성. 하지만 루비네의 말은 거짓이었다."
+
+[[dialogue]]
+speaker = "unk"
+original = "創造神の従僕だったルヴィネは守護星を持たない。"
+translation = "창조신의 하수인이었던 루비네는 수호성을 가지지 않는다."
+
+[[dialogue]]
+speaker = "unk"
+original = "それでもルヴィネは願った。"
+translation = "그래도 루비네는 바랐다."
+
+[[dialogue]]
+speaker = "unk"
+original = "夜空で動かず、迷わず、静かに地上を見守り続ける極星に。"
+translation = "밤하늘에서 움직이지 않고, 망설이지 않고, 조용히 지상을 계속 지켜보는 극성에."
+
+[[dialogue]]
+speaker_original = "ルヴィネ"
+speaker_translation = "루비네"
+original = "「お願い……私に……愛しい世界を……」"
+translation = "「부탁이야…… 나에게…… 사랑하는 세계를……」"
+
+[[dialogue]]
+speaker_original = "ルヴィネ"
+speaker_translation = "루비네"
+original = "「大好きな友達を……守る力を…………！！」"
+translation = "「좋아하는 친구를…… 지킬 힘을…………!!」"
+
+[[dialogue]]
+speaker_original = "ルヴィネ"
+speaker_translation = "루비네"
+original = "「今度こそ一緒に行きましょう──ポラリス！！」"
+translation = "「이번에야말로 함께 가요── 폴라리스!!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "そしてルヴィネは復活を果たし、今度こそ星騎士として羽ばたいた。"
+translation = "그리고 루비네는 부활을 이루었고, 이번에야말로 성기사로서 비상했다."
+

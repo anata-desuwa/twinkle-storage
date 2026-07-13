@@ -1,0 +1,314 @@
+[[dialogue]]
+speaker = "unk"
+original = "第３話,環、新星学園へ,P"
+translation = "제3화, 타마키, 신성학원으로, P"
+
+[[dialogue]]
+speaker = "unk"
+original = "『<ruby>ＸＥＬＯＳ<rt>ゼロス</rt></ruby>』との決着は近い──だからこそ最後の瞬間まで、かけがえのない学園生活を謳歌しよう。"
+translation = "『<ruby>ＸＥＬＯＳ<rt>제로스</rt></ruby>』와의 결판은 머지않았다── 그렇기에 마지막 순간까지, 소중한 학원 생활을 구가하자."
+
+[[dialogue]]
+speaker = "unk"
+original = "俺たちの日常を守りたい。かけがえのない平和を続けていく──そう強く実感することが、創造神との戦いで何よりも大切なことだと思うから。"
+translation = "우리들의 일상을 지키고 싶다. 소중한 평화를 이어가겠다── 그렇게 강하게 실감하는 것이, 창조신과의 싸움에서 무엇보다 중요하다고 생각하니까."
+
+[[dialogue]]
+speaker_original = "ラクシャ"
+speaker_translation = "락샤"
+original = "「おっじゃましまーす！\u3000多忙な会長を借りに来ました～♪」"
+translation = "「실례하겠습니당! 바쁜 회장을 빌리러 왔어요~♪」"
+
+[[dialogue]]
+speaker_original = "サーシャ"
+speaker_translation = "사샤"
+original = "「あらあら、うふふ♪\u3000元気いっぱいね、環ちゃん」"
+translation = "「어머어머, 우후후♪ 활기차네, 타마키 짱」"
+
+[[dialogue]]
+speaker_original = "アナ"
+speaker_translation = "아나"
+original = "「ようこそいらっしゃいました。会長の仕事はもうすぐ終わります。少々お待ちください」"
+translation = "「어서 오세요. 회장의 업무는 곧 끝납니다. 잠시만 기다려 주십시오」"
+
+[[dialogue]]
+speaker_original = "マトイ"
+speaker_translation = "마토이"
+original = "「また新星学園の制服を着た市倉さんが見られるだなんて、何だか感動かも」"
+translation = "「다시 신성학원 교복을 입은 이치쿠라 씨를 볼 수 있다니, 왠지 감동일지도」"
+
+[[dialogue]]
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
+original = "「ていうかびっくりしたわ！\u3000髪を下ろしたら、雰囲気ぜんぜん違うのね！」"
+translation = "「그보다 깜짝 놀랐어! 머리를 내리니까 분위기가 전혀 다르네!」"
+
+[[dialogue]]
+speaker_original = "ラクシャ"
+speaker_translation = "락샤"
+original = "「まあねー。ああして髪を結ぶのは、一種のスイッチみたいなものだったから」"
+translation = "「뭐 그렇지─. 저렇게 머리를 묶는 건, 일종의 스위치 같은 거였으니까」"
+
+[[dialogue]]
+speaker_original = "ラクシャ"
+speaker_translation = "락샤"
+original = "「守護天使ラクシャから、ただのキュートな天使の学園生・市倉環になるために必要なルーティンってわけ」"
+translation = "「수호천사 락샤에서, 평범하고 큐트한 천사 학원생 이치쿠라 타마키가 되기 위해 필요한 루틴이라는 거지」"
+
+[[dialogue]]
+speaker = "unk"
+original = "もう少しだけ待っててくれるか"
+translation = "조금만 더 기다려 줄래?"
+
+[[dialogue]]
+speaker = "unk"
+original = "キュートな天使、環ちゃん"
+translation = "큐트한 천사, 타마키 짱"
+
+[[dialogue]]
+speaker_original = "ラクシャ"
+speaker_translation = "락샤"
+original = "「そこはツッコむところなんだけどなー……。ま、いいや。了解でーす、っと」"
+translation = "「거긴 태클을 걸어야 할 부분인데 말이야~……. 뭐, 됐어. 알겠습니당─ 하고」"
+
+[[dialogue]]
+speaker_original = "アナ"
+speaker_translation = "아나"
+original = "「どうぞ、お茶です」"
+translation = "「여기, 차입니다」"
+
+[[dialogue]]
+speaker_original = "ラクシャ"
+speaker_translation = "락샤"
+original = "「サンキュー、アナ。うん……おいしいや！」"
+translation = "「땡큐, 아나. 음…… 맛있다!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "環とは過去に色々なことがあったが……彼女の行動は全てリクリエを防ぎ、デネブとアルタイルを存続させるためにこそあった。"
+translation = "타마키와는 과거에 여러 일이 있었지만…… 그녀의 행동은 모두 리크리에를 막고, 데네브와 알타이르를 존속시키기 위함이었다."
+
+[[dialogue]]
+speaker = "unk"
+original = "そのことを皆承知しているから、以前と同じような距離感を取り戻すことができていた。雑談にも華が咲いている様子で──"
+translation = "그 사실을 모두가 알고 있기에, 이전과 같은 거리감을 되찾을 수 있었다. 잡담에도 꽃이 피는 모양새라──"
+
+[[dialogue]]
+speaker_original = "マトイ"
+speaker_translation = "마토이"
+original = "「会長を監視して、守ることも女神様からの命令だったんだよね。やっぱり大変だった？」"
+translation = "「회장을 감시하고 지키는 것도 여신님의 명령이었지. 역시 힘들었어?」"
+
+[[dialogue]]
+speaker_original = "ラクシャ"
+speaker_translation = "락샤"
+original = "「大変なんてものじゃないよ、マトイ！\u3000キミたちも知ってるでしょ、彼のバイト遍歴のやばさ！」"
+translation = "「힘든 정도가 아니야, 마토이! 너희들도 알잖아, 그의 알바 경력의 무시무시함을!」"
+
+[[dialogue]]
+speaker_original = "ラクシャ"
+speaker_translation = "락샤"
+original = "「交通量調査、ゲームセンター、ペットショップ。回転寿司屋にチェーンのカレースタンド……まだこの辺りはいいんだけど」"
+translation = "「교통량 조사, 게임 센터, 펫숍. 회전초밥집에 체인 카레 스탠드…… 여기까지는 그래도 괜찮은데」"
+
+[[dialogue]]
+speaker_original = "ラクシャ"
+speaker_translation = "락샤"
+original = "「冷凍マグロの倉庫仕分けに、芸能事務所のアシスタント……土木作業員に、ヒーローショーの怪人役──」"
+translation = "「냉동 참치 창고 분류에, 연예 기획사 어시스턴트…… 토목업자에, 히어로 쇼의 괴인 역──」"
+
+[[dialogue]]
+speaker_original = "ラクシャ"
+speaker_translation = "락샤"
+original = "「ライフセーバーを始めたと思ったら、今度は女装メイド喫茶に出勤して……ボクがただの天使だったら今ごろ過労で力尽きてるね」"
+translation = "「라이프세이버를 시작하나 싶더니, 이번엔 여장 메이드 카페에 출근하고…… 내가 평범한 천사였으면 지금쯤 과로로 쓰러졌을걸」"
+
+[[dialogue]]
+speaker_original = "ラクシャ"
+speaker_translation = "락샤"
+original = "「いつモンスターに襲われるかわかんないから、できる限り傍に居なきゃならなくて……はは。いったい何枚の履歴書を書いたことか……」"
+translation = "「언제 몬스터에게 습격당할지 모르니까 가급적 곁에 있어야 해서…… 하하. 도대체 몇 장의 이력서를 썼는지 원……」"
+
+[[dialogue]]
+speaker_original = "ラクシャ"
+speaker_translation = "락샤"
+original = "「やることが……やることが多い！！\u3000ってなったよね。ぶっちゃけボク、忙しすぎて何回か記憶が飛んでるし」"
+translation = "「할 일이…… 할 일이 너무 많아!! 라고 생각했지. 솔직히 나, 너무 바빠서 몇 번은 기억이 날아갔을 정도라고」"
+
+[[dialogue]]
+speaker_original = "アナ"
+speaker_translation = "아나"
+original = "「改めて聞くに人を辞めていますね、うちの会長は」"
+translation = "「새삼 듣자니 사람의 범주를 벗어났군요, 우리 회장은」"
+
+[[dialogue]]
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
+original = "「パパは魔王だもの！\u3000当然よね♪」"
+translation = "「아빠는 마왕인걸! 당연하지♪」"
+
+[[dialogue]]
+speaker_original = "マトイ"
+speaker_translation = "마토이"
+original = "「それ説明になってる……？」"
+translation = "「그게 설명이 돼……?」"
+
+[[dialogue]]
+speaker_original = "ラクシャ"
+speaker_translation = "락샤"
+original = "「おかげでなんでも１人でできるようになっちゃったよ……みんなも自宅の水道管が詰まったら言いなよ。ボク、直せるから」"
+translation = "「덕분에 뭐든 혼자서 할 수 있게 돼버렸어…… 너희도 집 수도관 막히면 말해. 나 고칠 수 있으니까」"
+
+[[dialogue]]
+speaker = "unk"
+original = "俺も直せるぞ！"
+translation = "나도 고칠 수 있어!"
+
+[[dialogue]]
+speaker_original = "ラクシャ"
+speaker_translation = "락샤"
+original = "「キミは早く仕事終わらせなよ……彼女が待ってるんですけどー？」"
+translation = "「넌 빨리 일이나 끝내셔……. 여자친구가 기다리고 계시거든요─?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ごめんなさい……"
+translation = "죄송합니다……"
+
+[[dialogue]]
+speaker_original = "マトイ"
+speaker_translation = "마토이"
+original = "「今から思えば、よく会長にバレなかったね？\u3000それだけ色んなバイト先で出会ってたら……」"
+translation = "「지금 생각해보면, 용케 회장한테 안 들켰네? 그렇게 여러 알바처에서 만났으면……」"
+
+[[dialogue]]
+speaker_original = "アナ"
+speaker_translation = "아나"
+original = "「はい。市倉さんに何か目的があるのでは、と勘繰りそうなものですが」"
+translation = "「네. 이치쿠라 씨에게 무슨 목적이 있는 게 아닐까 하고 의심할 법도 합니다만」"
+
+[[dialogue]]
+speaker_original = "ラクシャ"
+speaker_translation = "락샤"
+original = "「ああ、その心配はいらないよ。彼、超がつく鈍感野郎だから」"
+translation = "「아아, 그 걱정은 필요 없어. 얘, 초가 붙을 정도로 둔감한 놈이니까」"
+
+[[dialogue]]
+speaker_original = "ラクシャ"
+speaker_translation = "락샤"
+original = "「ボクが『将来のために貯金したくてさー』ってテキトー言ったのを、ず～っと信じてたからね」"
+translation = "「내가 『장래를 위해 저금하고 싶어서 말이야─』라고 대충 둘러댄 걸, 주욱─ 믿었으니까 말이야」"
+
+[[dialogue]]
+speaker_original = "ラクシャ"
+speaker_translation = "락샤"
+original = "「『そうなんだ、俺も学費を貯めてるんだ。お互い頑張ろう』とか言っちゃって……」"
+translation = "「『그렇구나, 나도 학비를 모으고 있어. 서로 힘내자』라든가 말하고……」"
+
+[[dialogue]]
+speaker_original = "ラクシャ"
+speaker_translation = "락샤"
+original = "「ストーカーだと誤解されたらどうしようとか、色々言い訳考えてたのにね。張り合いなかったなあ」"
+translation = "「스토커라고 오해받으면 어쩌나 싶어서 이런저런 변명을 생각했었는데 말이지. 보람이 없었다니까」"
+
+[[dialogue]]
+speaker_original = "マトイ"
+speaker_translation = "마토이"
+original = "「会長、その察しの悪さはちょっとまずいと思うよ！？」"
+translation = "「회장, 그 눈치 없는 건 좀 심각하다고 생각해!?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "それに環も、労働が好きなのかと……"
+translation = "게다가 타마키도 노동을 좋아하는 줄 알고……"
+
+[[dialogue]]
+speaker = "unk"
+original = "昔は、学費のことで頭がいっぱいで……"
+translation = "옛날에는 학비 생각으로 머리가 가득 차 있어서……"
+
+[[dialogue]]
+speaker_original = "ラクシャ"
+speaker_translation = "락샤"
+original = "「華の女学生だよこっちは！？\u3000誰が好き好んで、冷凍マグロの仕分けとか、土木工事をするのさ！？」"
+translation = "「꽃다운 여학생이라고, 이쪽은!? 누가 좋아서 냉동 참치 분류나 토목 공사를 하겠어!?」"
+
+[[dialogue]]
+speaker_original = "ラクシャ"
+speaker_translation = "락샤"
+original = "「オシャレなカフェとかで働くでしょ、普通！！」"
+translation = "「세련된 카페 같은 데서 일하지, 보통은!!」"
+
+[[dialogue]]
+speaker_original = "アナ"
+speaker_translation = "아나"
+original = "「ごもっともすぎます。反論の余地がありません」"
+translation = "「지극히 옳은 말씀입니다. 반론의 여지가 없군요」"
+
+[[dialogue]]
+speaker_original = "サーシャ"
+speaker_translation = "사샤"
+original = "「あらあら、うふふ♪」"
+translation = "「어머어머, 우후후♪」"
+
+[[dialogue]]
+speaker = "unk"
+original = "確かに言われてみれば、俺は鈍感だったのかも……反省だ。"
+translation = "확실히 듣고 보니, 내가 둔감했던 걸지도…… 반성이다."
+
+[[dialogue]]
+speaker_original = "ラクシャ"
+speaker_translation = "락샤"
+original = "「よーやく終わったみたいだね。あー、お腹空いた。ね、久しぶりの新星学園だし、カフェテリアで何か食べようよ」"
+translation = "「드디어 끝난 모양이네. 아─, 배고파. 자, 오랜만의 신성학원인데 카페테리아에서 뭐 좀 먹자」"
+
+[[dialogue]]
+speaker = "unk"
+original = "最近、味が変わったんだ"
+translation = "최근에 맛이 변했어"
+
+[[dialogue]]
+speaker = "unk"
+original = "環のお気に入りだったカレーにするか"
+translation = "타마키가 좋아하던 카레로 할까"
+
+[[dialogue]]
+speaker_original = "ラクシャ"
+speaker_translation = "락샤"
+original = "「そうなの！？\u3000え、それは楽しみだね。よーし、行こ！\u3000会長！」"
+translation = "「그래!? 에, 그거 기대되는데. 좋아, 가자! 회장!」"
+
+[[dialogue]]
+speaker_original = "アナ"
+speaker_translation = "아나"
+original = "「会長、腕を引っ張られて行きましたね。守護天使様と仲良しなようで何よりです」"
+translation = "「회장, 팔을 붙잡혀서 끌려가 버렸네요. 수호천사 님과 사이가 좋으신 것 같아 다행입니다」"
+
+[[dialogue]]
+speaker_original = "サーシャ"
+speaker_translation = "사샤"
+original = "「平和ね～。この平和を守るためにも……」"
+translation = "「평화롭네~. 이 평화를 지키기 위해서라도……」"
+
+[[dialogue]]
+speaker_original = "マトイ"
+speaker_translation = "마토이"
+original = "「はい。絶対に負けられません！」"
+translation = "「네. 절대로 질 수 없어요!」"
+
+[[dialogue]]
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
+original = "「よーしっ、私たちもご飯にしましょう！\u3000それが終わったら特訓よ！」"
+translation = "「좋아, 우리도 밥 먹으러 가요! 그게 끝나면 특훈이야!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ドタバタで、賑やかで──この平和を守るためにも負けられない。"
+translation = "북적거리고 활기찬── 이 평화를 지키기 위해서라도 질 수 없다."
+
+[[dialogue]]
+speaker = "unk"
+original = "俺は改めて、決意を固めるのだった──"
+translation = "나는 다시금 결의를 다지는 것이었다──"
+

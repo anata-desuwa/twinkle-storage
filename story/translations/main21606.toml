@@ -1,0 +1,736 @@
+[[dialogue]]
+speaker = "unk"
+original = "第６話,スター・リユニオン,B"
+translation = "제6화, 스타 리유니온, B"
+
+[[dialogue]]
+speaker = "unk"
+original = "『<ruby>星の再会<rt>スター・リユニオン</rt></ruby>』──これが俺の最後の計画だ。"
+translation = "『<ruby>별의 재회<rt>스타 리유니온</rt></ruby>』── 이것이 나의 마지막 계획이다."
+
+[[dialogue]]
+speaker = "unk"
+original = "天界襲撃時にグレイスから確保した転送装置を、アニマ先輩とトレジアンナさんに解析してもらい……"
+translation = "천계 습격 시에 그레이스로부터 확보한 전송 장치를 아니마 선배와 트레지안나 씨에게 해석을 맡겼고……"
+
+[[dialogue]]
+speaker = "unk"
+original = "先刻、ホロウ複製体との戦闘で手に入れた２台目を用いることで、出力の問題もクリアされた。"
+translation = "방금 전 홀로우 복제체와의 전투에서 손에 넣은 두 번째 기기를 사용함으로써 출력 문제도 해결되었다."
+
+[[dialogue]]
+speaker = "unk"
+original = "だからこそ実現できる──超大型ゲートを、デネブ各地に複数かつ同時展開することが！"
+translation = "그렇기에 실현 가능한── 초대형 게이트를 데네브 각지에 복수, 그리고 동시 전개하는 것이!"
+
+[[dialogue]]
+speaker_original = "煌嶺"
+speaker_translation = "코레이"
+original = "「妾は言ったな？\u3000『戦争』ではなく『蹂躙』をしてみせろと」"
+translation = "「짐이 말했었지? 『전쟁』이 아니라 『유린』을 보여달라고」"
+
+[[dialogue]]
+speaker_original = "煌嶺"
+speaker_translation = "코레이"
+original = "「クク……魔王、合格点をやろう──見事だ！！」"
+translation = "「크크…… 마왕, 합격점을 주마── 장하구나!!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "デネブで散っていった、かつての星騎士たちは、今ここに再会を果たす──"
+translation = "데네브에서 흩어져 갔던 과거의 성기사들은 지금 여기서 재회를 완수한다──"
+
+[[dialogue]]
+speaker_original = "煌嶺"
+speaker_translation = "코레이"
+original = "「数え切れぬほどの世界の門が生まれ、開く──絢爛たる景色ではないか！！！」"
+translation = "「셀 수 없을 정도의 세계의 문이 태어나 열린다── 현란한 경치가 아닌가!!!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "大型ゲートをくぐり、教皇庁前にまず現れたのは、天使の大軍勢──！"
+translation = "대형 게이트를 지나 교황청 앞에 먼저 나타난 것은 천사 대군세──!"
+
+[[dialogue]]
+speaker_original = "メルエル"
+speaker_translation = "메르엘"
+original = "「会長くん！\u3000お待たせ！！」"
+translation = "「회장 군! 오래 기다렸지!!」"
+
+[[dialogue]]
+speaker_original = "ナターシャ"
+speaker_translation = "나타샤"
+original = "「すっごい状況になってるねー。へぇ、あれが創造神……『<ruby>ＸＥＬＯＳ<rt>ゼロス</rt></ruby>』か」"
+translation = "「굉장한 상황이 되어 있네─. 헤에, 저게 창조신…… 『<ruby>XELOS<rt>제로스</rt></ruby>』인가」"
+
+[[dialogue]]
+speaker = "unk"
+original = "メルエルたちの背後には、俺も名を知らない膨大な数の天使たちの姿──それだけじゃない！"
+translation = "멜엘 일행의 등 뒤에는 나도 이름을 모르는 방대한 수의 천사들의 모습── 그뿐만이 아니다!"
+
+[[dialogue]]
+speaker = "unk"
+original = "その中には見知った顔──"
+translation = "그중에는 낯익은 얼굴──"
+
+[[dialogue]]
+speaker = "unk"
+original = "学園生の神族の星騎士──"
+translation = "학원생인 신족 성기사──"
+
+[[dialogue]]
+speaker = "unk"
+original = "教皇庁所属の者たちまで──！"
+translation = "교황청 소속인 자들까지──!"
+
+[[dialogue]]
+speaker_original = "ナターシャ"
+speaker_translation = "나타샤"
+original = "「事前にこっちのコハルコさん？\u3000に確認を取って、被りのない星騎士にできる限り声をかけてきたよ。これで満足？」"
+translation = "「미리 이쪽의 코하루코 씨? 한테 확인을 받아서, 겹치지 않는 성기사들에게 가능한 한 말을 걸어왔어. 이걸로 만족해?」"
+
+[[dialogue]]
+speaker_original = "クロト"
+speaker_translation = "쿠로토"
+original = "「──ありがとう。想像以上だ！\u3000２人とも、よくやってくれた……！」"
+translation = "「──고마워. 상상 이상이야! 둘 다 정말 잘해줬어……!」"
+
+[[dialogue]]
+speaker_original = "メルエル"
+speaker_translation = "메르엘"
+original = "「えへへ！\u3000会長くんの頼みだもん、張り切っちゃった！」"
+translation = "「에헤헤! 회장 군의 부탁인걸, 힘 좀 냈지!」"
+
+[[dialogue]]
+speaker_original = "ナターシャ"
+speaker_translation = "나타샤"
+original = "「あーあ、可哀想。ホロウだっけ……あいつら、ケイティ姉さんに『制圧』されちゃうんでしょ？\u3000敵ながら同情しちゃうね」"
+translation = "「아아, 가엾어라. 홀로우였나…… 저 녀석들, 케이티 언니한테 『제압』당하겠네? 적이지만 동정하게 돼」"
+
+[[dialogue]]
+speaker_original = "マグダレナ"
+speaker_translation = "막달레나"
+original = "「もちろん天使の皆様だけではありません。アルタイルの守護天使たちもここに！」"
+translation = "「물론 천사 여러분뿐만이 아닙니다. 알타이르의 수호천사들도 이곳에!」"
+
+[[dialogue]]
+speaker_original = "アルモタヘル"
+speaker_translation = "아르모타헬"
+original = "「血沸き肉躍るとはこのことだな、人の子よ！」"
+translation = "「피가 끓고 살이 떨린다는 건 이런 것이로군, 인간의 아이여!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "マグダレナとアルモタヘルだけではない。他の守護天使たちの姿も見える！"
+translation = "막달레나와 알모타헬뿐만이 아니다. 다른 수호천사들의 모습도 보인다!"
+
+[[dialogue]]
+speaker = "unk"
+original = "そして、守護天使を祀る一族の者たちも傍に控えて──"
+translation = "그리고 수호천사를 모시는 일족의 자들도 곁에 대기하며──"
+
+[[dialogue]]
+speaker_original = "ラクシャ"
+speaker_translation = "락샤"
+original = "「ちゃーんとアルタイルのボクだけは留守番してるね。これなら問題なし！」"
+translation = "「자알 알타이르의 나만은 집을 지키고 있어. 이러면 문제없지!」"
+
+[[dialogue]]
+speaker_original = "マグダレナ"
+speaker_translation = "막달레나"
+original = "「デネブのラクシャですね。ふふ、永き時を生きていますが、このような形での共闘があるとは」"
+translation = "「데네브의 락샤군요. 후후, 오랜 세월을 살아왔지만 이런 형태의 공투가 있을 줄이야」"
+
+[[dialogue]]
+speaker_original = "アルモタヘル"
+speaker_translation = "아르모타헬"
+original = "「世界を超えた大戦だ。久方ぶりにお前の戦を見せてもらうぞ、ラクシャよ！」"
+translation = "「세계를 넘은 대전이다. 오랜만에 너의 전투를 구경해주마, 락샤여!」"
+
+[[dialogue]]
+speaker_original = "ネーゼマイン"
+speaker_translation = "네제마인"
+original = "「はろはろ～♪\u3000立朽ネーゼマイン、魔界より帰還しました～♪」"
+translation = "「할로할로~♪ 타치쿠치 네제마인, 마계에서 귀환했습니다~♪」"
+
+[[dialogue]]
+speaker_original = "クロト"
+speaker_translation = "쿠로토"
+original = "「マイン……！\u3000魔界での交渉は──」"
+translation = "「마인……! 마계에서의 협상은──」"
+
+[[dialogue]]
+speaker_original = "ネーゼマイン"
+speaker_translation = "네제마인"
+original = "「もちろんバッチリ。煌嶺さんが提示した、魔界のならず者たちは残らずあちらに♪」"
+translation = "「물론 완벽. 코우레이 씨가 제시한 마계의 무법자들은 남김없이 저쪽으로♪」"
+
+[[dialogue]]
+speaker_original = "魔族の星術使い"
+speaker_translation = "마족 성술사"
+original = "「ヒャッハァ──『<ruby>ＸＥＬＯＳ<rt>ゼロス</rt></ruby>』ってのはアイツかァ！？」"
+translation = "「히야하아── 『<ruby>XELOS<rt>제로스</rt></ruby>』라는 게 저 녀석이냐아!?」"
+
+[[dialogue]]
+speaker_original = "魔族の星術使い"
+speaker_translation = "마족 성술사"
+original = "「ゲヘヘヘヘ！\u3000ついでに煌嶺の首も狙ってやらぁ！！\u3000そうすりゃキュリオスは俺たちのモンだぁ！！」"
+translation = "「게헤헤헤헤! 겸사겸사 코우레이의 목도 노려주마!! 그러면 큐리오스는 우리 차지다아!!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "……うわぁ。"
+translation = "……우와."
+
+[[dialogue]]
+speaker_original = "クロト"
+speaker_translation = "쿠로토"
+original = "「なんか世紀末みたいな奴らばっかりなんだけど……」"
+translation = "「왠지 세기말 같은 녀석들뿐인데……」"
+
+[[dialogue]]
+speaker_original = "ネーゼマイン"
+speaker_translation = "네제마인"
+original = "「ほんっとひどいよね～。あいつら相手の交渉、めちゃくちゃ大変だったんだよ？\u3000いっぱい感謝してよね！」"
+translation = "「정말 너무하다니까~. 저 녀석들 상대로 협상하는 거 진짜 힘들었거든? 많이 감사하라구!」"
+
+[[dialogue]]
+speaker_original = "クロト"
+speaker_translation = "쿠로토"
+original = "「本当にありがとう、マイン……」"
+translation = "「정말 고마워, 마인……」"
+
+[[dialogue]]
+speaker_original = "セナリィ"
+speaker_translation = "세나리"
+original = "「会長様？\u3000なんでも報酬を弾んでいただけると聞きまして──ゴールデングースも一枚噛ませていただきますわ！」"
+translation = "「회장님? 뭐든지 보수를 듬뿍 주신다고 들어서요── 골든 구스도 한몫 거들도록 하겠어요!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "セナリィの後ろには、ゴールデングースの新入社員たちの姿──それだけじゃない。"
+translation = "세나리의 뒤에는 골든 구스의 신입 사원들의 모습── 그뿐만이 아니다."
+
+[[dialogue]]
+speaker = "unk"
+original = "九浄家メイド隊のみんなも、この魔族部隊に組み込まれていたのか！"
+translation = "구죠 가문 메이드대 모두도 이 마족 부대에 편입되어 있었던 건가!"
+
+[[dialogue]]
+speaker_original = "クロト"
+speaker_translation = "쿠로토"
+original = "「──先生たちまで！？」"
+translation = "「──선생님들까지!?」"
+
+[[dialogue]]
+speaker_original = "セナリィ"
+speaker_translation = "세나리"
+original = "「教え子が死地に向かうのを、指を咥えて待つことはできないと……報酬もないのに律儀な人達ですこと」"
+translation = "「제자가 사지로 향하는 것을 손가락 빨며 기다릴 수는 없다고…… 보수도 없는데 의리 있는 사람들이네요」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ウィステリアさんの姿もある──リィベルにモネも！"
+translation = "위스테리아 씨의 모습도 있다── 리벨에 모네도!"
+
+[[dialogue]]
+speaker_original = "ルヴィネ"
+speaker_translation = "루비네"
+original = "「アルタイルの星騎士をデネブに集める……『<ruby>星の再会<rt>スター・リユニオン</rt></ruby>』とは、よく言ったものね」"
+translation = "「알타이르의 성기사를 데네브에 모으다니…… 『<ruby>별의 재회<rt>스타 리유니온</rt></ruby>』이라니, 잘도 지었네」"
+
+[[dialogue]]
+speaker_original = "チナ"
+speaker_translation = "치나"
+original = "「でも教皇庁前だけじゃ……複製体はデネブの流星市国全域に……！」"
+translation = "「하지만 교황청 앞뿐만 아니라…… 복제체는 데네브의 유성시국 전역에……!」"
+
+[[dialogue]]
+speaker_original = "メルエル"
+speaker_translation = "메르엘"
+original = "「安心して！\u3000こっちに乗り込む前にちゃんと打ち合わせしてきてるから！」"
+translation = "「안심해! 이쪽으로 넘어오기 전에 제대로 협의하고 왔으니까!」"
+
+[[dialogue]]
+speaker_original = "極星学園の星騎士"
+speaker_translation = "극성학원의 성기사"
+original = "「あ、あなた達は……！？」"
+translation = "「다, 당신들은……!?」"
+
+[[dialogue]]
+speaker_original = "トレジアンナ"
+speaker_translation = "트레지안나"
+original = "「こんにちは～☆\u3000魔法少女、トレジャーアンナです☆」"
+translation = "「안녕~☆ 마법소녀, 트레저 안나입니다☆」"
+
+[[dialogue]]
+speaker_original = "シズハ"
+speaker_translation = "시즈하"
+original = "「私は魔法少女、グレイル・シズハ！」"
+translation = "「나는 마법소녀, 그레일 시즈하!」"
+
+[[dialogue]]
+speaker_original = "プリムラ（覚醒）"
+speaker_translation = "프리뮬러(각성)"
+original = "「フハハハ！！\u3000我は悪の終末兵器、プリムラ†ノワール！」"
+translation = "「후하하하!! 짐은 악의 종말병기, 프리뮬라†누아르!」"
+
+[[dialogue]]
+speaker_original = "極星学園の星騎士"
+speaker_translation = "극성학원의 성기사"
+original = "「魔法少女に……終末兵器！？\u3000──どういうことです！？」"
+translation = "「마법소녀에…… 종말병기!? ──어떻게 된 거죠!?」"
+
+[[dialogue]]
+speaker_original = "サチ（覚醒）"
+speaker_translation = "사치(각성)"
+original = "「アルタイルの星騎士だって名乗って欲しい……あ、あの。救援に来ました！」"
+translation = "「알타이르의 성기사라고 자처하고 싶지만…… 저, 저기. 구원하러 왔습니다!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "もちろん魔法少女だけではなく、附属校生徒会長・サチに従う星騎士も結集している。"
+translation = "물론 마법소녀뿐만 아니라, 부속 학교 학생회장 사치를 따르는 성기사도 결집해 있다."
+
+[[dialogue]]
+speaker_original = "ジュエリー（究明）"
+speaker_translation = "쥬얼리(규명)"
+original = "「随分と賑やかだ。まるで同窓会だね」"
+translation = "「제법 시끌벅적하네. 마치 동창회 같아」"
+
+[[dialogue]]
+speaker_original = "ミネコ"
+speaker_translation = "미네코"
+original = "「世界の危機に『<ruby>選星者<rt>ロールスター</rt></ruby>』が駆けつけないのもおかしな話だからね。ついでに平行世界のお宝も探しちゃおっかな～♪」"
+translation = "「세계의 위기에 『<ruby>선성자<rt>롤 스타</rt></ruby>』가 달려오지 않는 것도 이상한 일이니까. 겸사겸사 평행세계의 보물도 찾아볼까나~♪」"
+
+[[dialogue]]
+speaker = "unk"
+original = "呼べるだけの<ruby>選星者<rt>ロールスター</rt></ruby>も集い──その知己である吸血鬼の姿も。"
+translation = "부를 수 있는 만큼의 <ruby>선성자<rt>롤 스타</rt></ruby>도 모였고── 그 지인인 흡혈귀의 모습도."
+
+[[dialogue]]
+speaker = "unk"
+original = "さらにネーゼマインが所属する公安委員会も、九浄家の命令により駆けつけていた──"
+translation = "나아가 네제마인이 소속된 공안위원회도 구죠 가문의 명령에 의해 달려와 있었다──"
+
+[[dialogue]]
+speaker_original = "クラウディア"
+speaker_translation = "클라우디아"
+original = "「おお、ここが平行世界──デネブか！\u3000未来の流星市国を拝めるとは、なんと愉快なことか！」"
+translation = "「오오, 여기가 평행세계── 데네브인가! 미래의 유성시국을 친히 보다니, 이 얼마나 즐거운 일인가!」"
+
+[[dialogue]]
+speaker_original = "セドナ"
+speaker_translation = "세드나"
+original = "「姫様……はしゃぐのは結構ですが、我々の目的は救援です」"
+translation = "「공주님…… 들뜨는 건 좋지만 저희의 목적은 구원입니다」"
+
+[[dialogue]]
+speaker_original = "クラウディア"
+speaker_translation = "클라우디아"
+original = "「わかっておる。さぁネビュラの魔女よ、余に続け！」"
+translation = "「알고 있다. 자, 네뷸라의 마녀여, 나를 따르라!」"
+
+[[dialogue]]
+speaker_original = "リーリア（覚醒）"
+speaker_translation = "릴리아(각성)"
+original = "「センパイは教皇庁前かぁ。あっちに行きたかったな～」"
+translation = "「선배는 교황청 앞인가아. 저쪽으로 가고 싶었는데~」"
+
+[[dialogue]]
+speaker_original = "セドナ"
+speaker_translation = "세드나"
+original = "「ここを蹴散らせばすぐに合流できる。励め、リーリア」"
+translation = "「여기를 걷어차 버리면 금방 합류할 수 있다. 힘내라, 리리아」"
+
+[[dialogue]]
+speaker_original = "リーリア（覚醒）"
+speaker_translation = "릴리아(각성)"
+original = "「は～い──って、あれれ？」"
+translation = "「네에── 어라라?」"
+
+[[dialogue]]
+speaker_original = "リノ"
+speaker_translation = "리노"
+original = "「セドナ。来てくれたのね」"
+translation = "「세도나. 와 주었구나」"
+
+[[dialogue]]
+speaker_original = "セドナ"
+speaker_translation = "세드나"
+original = "「……リノか。１０年も未来だと聞いていたが──変わらんな、お前は」"
+translation = "「……리노인가. 10년이나 미래라고 들었다만── 변함없군, 너는」"
+
+[[dialogue]]
+speaker_original = "リノ"
+speaker_translation = "리노"
+original = "「会って第一声がそれ？\u3000あなたも相変わらずね」"
+translation = "「만나자마자 첫마디가 그거야? 당신도 여전하네」"
+
+[[dialogue]]
+speaker_original = "リノ"
+speaker_translation = "리노"
+original = "「……懐かしい顔ばかりだわ」"
+translation = "「……그리운 얼굴들뿐이야」"
+
+[[dialogue]]
+speaker_original = "セドナ"
+speaker_translation = "세드나"
+original = "「デネブでは前線にいた魔女はお前以外、殆どが戦死したと聞いている──雪辱を果たそう」"
+translation = "「데네브에서는 전선에 있던 마녀는 너 이외에 대부분이 전사했다고 들었다── 설욕을 다하도록 하지」"
+
+[[dialogue]]
+speaker_original = "リノ"
+speaker_translation = "리노"
+original = "「ええ……今度こそ、みんなで勝利を掴みましょう！」"
+translation = "「응…… 이번에야말로, 다 함께 승리를 거머쥐자!」"
+
+[[dialogue]]
+speaker_original = "レイラ"
+speaker_translation = "레이라"
+original = "「あ、あれ？\u3000イングリットは！？\u3000メテオラは！？\u3000一体どこに……！？」"
+translation = "「어, 어라? 잉그리드는!? 메테오라는!? 대체 어디에……!?」"
+
+[[dialogue]]
+speaker_original = "キサナ"
+speaker_translation = "키사나"
+original = "「さっき飛び出してっただろ。見てねぇのか？」"
+translation = "「방금 튀어 나갔잖아. 못 본 거냐?」"
+
+[[dialogue]]
+speaker_original = "レイラ"
+speaker_translation = "레이라"
+original = "「そんな！？\u3000ちゃんと私の言うこと聞いてって言ったのに……！」"
+translation = "「그럴 수가!? 내 말을 잘 들어 달라고 그렇게 말했는데……!」"
+
+[[dialogue]]
+speaker_original = "キサナ"
+speaker_translation = "키사나"
+original = "「ンなもん、あいつらが聞くわけねえだろが」"
+translation = "「그딴 거, 그 녀석들이 들을 리가 없잖냐」"
+
+[[dialogue]]
+speaker_original = "リーナ"
+speaker_translation = "리나"
+original = "「ふーん。あの同じ顔した……ルヴィネっていうのが、お兄ちゃんを困らせてるんだ？\u3000リーナからお兄ちゃんを取ろうとしてるんだ……？」"
+translation = "「흐음. 저 똑같이 생긴…… 루비네라는 애가 오빠를 곤란하게 하고 있다고? 리나한테서 오빠를 뺏으려 하고 있다고……?」"
+
+[[dialogue]]
+speaker_original = "リーナ"
+speaker_translation = "리나"
+original = "「許さない許さない許さない許さないゼッタイ許さない……」"
+translation = "「용서 못 해 용서 못 해 용서 못 해 용서 못 해 절대로 용서 못 해……」"
+
+[[dialogue]]
+speaker_original = "キサナ"
+speaker_translation = "키사나"
+original = "「リーナの子守はしといてやるからよ。オマエはあいつらを探しに行けよ」"
+translation = "「리나 뒷바라지는 내가 해 줄 테니까 말이야. 너는 저 녀석들을 찾으러 가 봐」"
+
+[[dialogue]]
+speaker_original = "レイラ"
+speaker_translation = "레이라"
+original = "「うぅぅう！\u3000平行世界に来てもこんな役回りばっかり──！」"
+translation = "「으으으으! 평행세계에 와서도 이런 역할만──!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ホロウ・ルヴィネへ対応するために、今も続々とアルタイルからの増援は送りこまれ続けている──"
+translation = "홀로우 루비네에게 대응하기 위해, 지금도 속속들이 알타이르로부터의 증원군이 계속해서 보내지고 있다──"
+
+[[dialogue]]
+speaker_original = "ルリエル"
+speaker_translation = "루리엘"
+original = "「アルタイルからの応援がどんどん到着しているのです……！」"
+translation = "「알타이르로부터의 응원이 계속해서 도착하고 있어요……!」"
+
+[[dialogue]]
+speaker_original = "アポロ（大人）"
+speaker_translation = "아폴로(성인)"
+original = "「これが魔王の計画した最終作戦か！\u3000全員集合イベントってやつだな、熱いじゃないか！！」"
+translation = "「이것이 마왕이 계획한 최종 작전인가! 전원 집합 이벤트라는 거군, 뜨겁지 않은가!!」"
+
+[[dialogue]]
+speaker_original = "ホロウ・ルヴィネL"
+speaker_translation = "할로우 루비네 L"
+original = "「創造神と女神の力を舐めすぎよ。世界を超えてきた者の魂を、端から全て回収してあげるわ……！」"
+translation = "「창조신과 여신의 힘을 너무 얕봤구나. 세계를 건너온 자들의 영혼을, 처음부터 끝까지 전부 회수해 주겠어……!」"
+
+[[dialogue]]
+speaker_original = "ネーゼマイン"
+speaker_translation = "네제마인"
+original = "「にひぃ♪\u3000それはどうかなー？」"
+translation = "「니히♪ 그건 어떨까나─?」"
+
+[[dialogue]]
+speaker_original = "ネーゼマイン"
+speaker_translation = "네제마인"
+original = "「会長、間に合ったよ。人工ノヴァフォーム──その到達点の実戦配備♪」"
+translation = "「회장님, 늦지 않았어. 인공 노바 폼── 그 도달점의 실전 배치♪」"
+
+[[dialogue]]
+speaker_original = "クロト"
+speaker_translation = "쿠로토"
+original = "「……！\u3000まさか、マインが？」"
+translation = "「……! 설마, 마인이?」"
+
+[[dialogue]]
+speaker_original = "ネーゼマイン"
+speaker_translation = "네제마인"
+original = "「そ♪\u3000ノヴァフォーム覚醒に必要な要素は全部で３つ。本人の類まれな才能、心理的ブレイクスルー、そして魔王との絆──」"
+translation = "「구롬♪ 노바 폼 각성에 필요한 요소는 전부 3가지. 본인의 희귀한 재능, 심리적 브레이크스루, 그리고 마왕과의 유대──」"
+
+[[dialogue]]
+speaker_original = "ネーゼマイン"
+speaker_translation = "네제마인"
+original = "「最新式の人工ノヴァフォームは、その『本人の才能』が足りない場合でも、アルケインコードを受け取れるような機構を搭載してるんだ♪」"
+translation = "「최신식 인공 노바 폼은, 그 『본인의 재능』이 부족한 경우에도 아르케인 코드를 받아들일 수 있는 기구를 탑재하고 있다구♪」"
+
+[[dialogue]]
+speaker_original = "クロト"
+speaker_translation = "쿠로토"
+original = "「……量産は大変そうだな」"
+translation = "「……양산은 힘들 것 같군」"
+
+[[dialogue]]
+speaker_original = "ネーゼマイン"
+speaker_translation = "네제마인"
+original = "「うん、今のとこ１着だけ。だからお願い、会長。最後のプッシュ、お願いしまーす♪」"
+translation = "「응, 지금은 딱 한 벌뿐이야. 그러니까 부탁해, 회장님. 마지막 푸시, 부탁드립니당─♪」"
+
+[[dialogue]]
+speaker = "unk"
+original = "俺はマインに向かって掌を掲げる──なるほど、確かにアルケインコードが使用可能な、魂の輝きが見える！"
+translation = "나는 마인을 향해 손바닥을 내건다── 과연, 확실히 아르케인 코드 사용이 가능한 영혼의 광채가 보인다!"
+
+[[dialogue]]
+speaker_original = "クロト"
+speaker_translation = "쿠로토"
+original = "「行くぞ──アルケインノヴァエクストリーム！！」"
+translation = "「간다── 아르케인 노바 익스트림!!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "マインの心臓の奥に見えた魂の輝きを、俺は強く、強く押す──！"
+translation = "마인의 심장 깊은 곳에 보인 영혼의 광채를, 나는 강하게, 강하게 누른다──!"
+
+[[dialogue]]
+speaker_original = "ネーゼマイン"
+speaker_translation = "네제마인"
+original = "「チェンジ――ノヴァフォーム♪」"
+translation = "「체인지── 노바 폼♪」"
+
+[[dialogue]]
+speaker_original = "ネーゼマイン（覚醒）"
+speaker_translation = "네제마인 (각성)"
+original = "「じゃ～～ん♪\u3000というわけでこれが、立朽ネーゼマイン、完成形人工ノヴァフォームだよ♪」"
+translation = "「짜잔~~♪ 그런 고로 이것이 타치쿠치 네제마인, 완성형 인공 노바 폼이야♪」"
+
+[[dialogue]]
+speaker_original = "ネーゼマイン（覚醒）"
+speaker_translation = "네제마인 (각성)"
+original = "「私の才能じゃ、アルケインコードを受け取り切れない──そんな風に思ったこともあったけど、足りない分は外から補えばいいんだよね♪」"
+translation = "「내 재능으론 아르케인 코드를 다 받아낼 수 없어── 그런 식으로 생각한 적도 있었지만, 부족한 만큼은 밖에서 채우면 되는 거네♪」"
+
+[[dialogue]]
+speaker_original = "ネーゼマイン（覚醒）"
+speaker_translation = "네제마인 (각성)"
+original = "「──うん、うん。イイ感じだね～、これがノヴァフォームかぁ。早速、試射しちゃお～っと♪」"
+translation = "「──응, 응. 느낌 좋은걸~, 이게 노바 폼인가아. 곧장 시사해 버려야징~♪」"
+
+[[dialogue]]
+speaker_original = "ホロウ・ルヴィネL"
+speaker_translation = "할로우 루비네 L"
+original = "「ぐう、ぁ──！？」"
+translation = "「구우, 아──!?」"
+
+[[dialogue]]
+speaker_original = "ネーゼマイン（覚醒）"
+speaker_translation = "네제마인 (각성)"
+original = "「おー、火力はバッチリ。今までは小細工ばっかりで、前線に立ててなかったけど……これならガンガンやれちゃいそうだね♪」"
+translation = "「오─, 화력은 합격점. 지금까지는 잔재주뿐이라 전선에 서지 못했지만…… 이 정도라면 팍팍 해치울 수 있을 것 같네♪」"
+
+[[dialogue]]
+speaker_original = "メルエル"
+speaker_translation = "메르엘"
+original = "「会長くん……乱戦になる前に、私にもお願い！！」"
+translation = "「회장님…… 난전이 되기 전에 나한테도 부탁해!!」"
+
+[[dialogue]]
+speaker_original = "クロト"
+speaker_translation = "쿠로토"
+original = "「メルエル──君も天界で、何か新しいアルケインコードを？」"
+translation = "「멜엘── 너도 천계에서 뭔가 새로운 아르케인 코드를?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "今まで、メルエルにもアルケインノヴァエクストリームを試したことはあった。"
+translation = "지금까지 멜엘에게도 아르케인 노바 익스트림을 시도한 적은 있었다."
+
+[[dialogue]]
+speaker = "unk"
+original = "しかし、『<ruby>魔王の力を貸し与える技<rt>アルケインノヴァエクストリーム</rt></ruby>』と『メルエルの血に流れる魔王因子』が反発するせいなのか、技が成功することはなかった。"
+translation = "하지만, 『<ruby>마왕의 힘을 빌려주는 기술<rt>아르케인 노바 익스트림</rt></ruby>』과 『멜엘의 피에 흐르는 마왕 인자』가 반발하는 탓인지 기술이 성공한 적은 없었다."
+
+[[dialogue]]
+speaker_original = "メルエル"
+speaker_translation = "메르엘"
+original = "「ううん。新しい技を習得したとか、魔王として何か進化したとか、そういうんじゃないの」"
+translation = "「으응. 새로운 기술을 습득했다거나 마왕으로서 뭔가 진화했다거나, 그런 게 아니야」"
+
+[[dialogue]]
+speaker_original = "メルエル"
+speaker_translation = "메르엘"
+original = "「むしろ逆……かな？」"
+translation = "「오히려 반대…… 일까?」"
+
+[[dialogue]]
+speaker_original = "クロト"
+speaker_translation = "쿠로토"
+original = "「逆……？」"
+translation = "「반대……?」"
+
+[[dialogue]]
+speaker_original = "メルエル"
+speaker_translation = "메르엘"
+original = "「私ね、自分の出自のこととか、ナターシャちゃんが小さい頃から抱いていた気持ちのこととか……」"
+translation = "「나 말이야, 내 출생에 관한 거나 나타샤가 어릴 때부터 품고 있었던 마음 같은 거……」"
+
+[[dialogue]]
+speaker_original = "メルエル"
+speaker_translation = "메르엘"
+original = "「そういうこと、全部受け止めたつもりだった。でも『つもり』なだけだったんだ」"
+translation = "「그런 것들, 전부 받아들였다고 생각했어. 하지만 『생각』만 했던 거였어」"
+
+[[dialogue]]
+speaker_original = "メルエル"
+speaker_translation = "메르엘"
+original = "「天界へ行って……ナターシャちゃんといっぱい言葉を交わして……知らなかったことと、改めて向き合ってきたよ」"
+translation = "「천계에 가서…… 나타샤와 잔뜩 이야기를 나누고…… 몰랐던 것들과 다시 한번 마주하고 왔어」"
+
+[[dialogue]]
+speaker_original = "メルエル"
+speaker_translation = "메르엘"
+original = "「そのうえでひとつ、決めたことがあるの！」"
+translation = "「그 과정에서 한 가지, 정한 게 있어!」"
+
+[[dialogue]]
+speaker_original = "メルエル"
+speaker_translation = "메르엘"
+original = "「私は──姫にも王にもならない！\u3000天界の魔王は、リガルタ様で終わり！」"
+translation = "「나는── 공주도 왕도 되지 않을 거야! 천계의 마왕은 리갈타 님으로 끝!」"
+
+[[dialogue]]
+speaker_original = "メルエル"
+speaker_translation = "메르엘"
+original = "「私は<b>天界の魔王にはならない</b>って、そう決めたの！」"
+translation = "「나는 <b>천계의 마왕은 되지 않겠다</b>고, 그렇게 정했어!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "メルエルのその宣言を聞いた瞬間──彼女の胸を中心に、清廉に輝く魂のきらめきが、爆発的な広がりを見せた。"
+translation = "멜엘의 그 선언을 들은 순간── 그녀의 가슴을 중심으로 청렴하게 빛나는 영혼의 반짝임이 폭발적으로 퍼져 나갔다."
+
+[[dialogue]]
+speaker_original = "メルエル"
+speaker_translation = "메르엘"
+original = "「これが、私がナターシャちゃんに示せる覚悟だよ！！\u3000そうやってお腹を割って話をして、仲直りしてきたの！\u3000ねっ？」"
+translation = "「이게 내가 나타샤에게 보여줄 수 있는 각오야!! 그렇게 속내를 터놓고 얘기해서 화해하고 왔어! 그치?」"
+
+[[dialogue]]
+speaker_original = "ナターシャ"
+speaker_translation = "나타샤"
+original = "「……ねちねち嫌味をいっぱい言ったんだけど、全然効果がないんだもん。我ながら無意味な抵抗だったよね」"
+translation = "「……네치네치하게 비아냥을 잔뜩 퍼부었는데도 전혀 효과가 없는걸. 나로서도 무의미한 저항이었지」"
+
+[[dialogue]]
+speaker_original = "メルエル"
+speaker_translation = "메르엘"
+original = "「魔王因子って、すっごく心の力の影響を受けるでしょ？\u3000だから『魔王じゃなくなった私』に、もう一度試してほしいの」"
+translation = "「마왕 인자라는 건 정말 마음의 힘에 영향을 많이 받잖아? 그러니까 『마왕이 아니게 된 나』에게 다시 한번 시도해 줬으면 해」"
+
+[[dialogue]]
+speaker_original = "メルエル"
+speaker_translation = "메르엘"
+original = "「だって私は、魔王メルエルなんかじゃなくって……」"
+translation = "「왜냐면 나는 마왕 멜엘 같은 게 아니라……」"
+
+[[dialogue]]
+speaker_original = "メルエル"
+speaker_translation = "메르엘"
+original = "「魔王クロトの眷属として、キミの力で戦いたいから！！」"
+translation = "「마왕 쿠로토의 권속으로서 너의 힘으로 싸우고 싶으니까!!」"
+
+[[dialogue]]
+speaker_original = "クロト"
+speaker_translation = "쿠로토"
+original = "「……わかった。メルエル。俺の剣として、世界を救う手助けをしてほしい」"
+translation = "「……알았어. 멜엘. 나의 검으로서 세계를 구하는 일을 도와줘」"
+
+[[dialogue]]
+speaker_original = "メルエル"
+speaker_translation = "메르엘"
+original = "「──うん！！」"
+translation = "「──응!!」"
+
+[[dialogue]]
+speaker_original = "クロト"
+speaker_translation = "쿠로토"
+original = "「受け取れ！\u3000────アルケインノヴァエクストリーム！！」"
+translation = "「받아라! ──── 아르케인 노바 익스트림!!」"
+
+[[dialogue]]
+speaker_original = "メルエル"
+speaker_translation = "메르엘"
+original = "「……！\u3000これが、会長くんのアルケインコードの力……！」"
+translation = "「……! 이게 회장님의 아르케인 코드의 힘……!」"
+
+[[dialogue]]
+speaker_original = "メルエル"
+speaker_translation = "메르엘"
+original = "「チェンジ――ノヴァフォーム！！」"
+translation = "「체인지── 노바 폼!!」"
+
+[[dialogue]]
+speaker_original = "メルエル（覚醒）"
+speaker_translation = "메르엘 (각성)"
+original = "「これが会長くんと私の絆の力──ノヴァフォームだよ！」"
+translation = "「이게 회장님과 나의 유대의 힘── 노바 폼이야!」"
+
+[[dialogue]]
+speaker_original = "クロト"
+speaker_translation = "쿠로토"
+original = "「！！\u3000力同士の結びつきがどうなってるのか、分からないけど……すごいな」"
+translation = "「!! 힘끼리의 결합이 어떻게 된 건지 모르겠지만…… 대단하군」"
+
+[[dialogue]]
+speaker_original = "クロト"
+speaker_translation = "쿠로토"
+original = "「ヴィーナスのノヴァフォームや、フィオナの魔王フォームにも引けを取らないくらいの力を感じる！」"
+translation = "「비너스의 노바 폼이나 피오나의 마왕 폼에도 뒤지지 않을 정도의 힘이 느껴져!」"
+
+[[dialogue]]
+speaker_original = "メルエル（覚醒）"
+speaker_translation = "메르엘 (각성)"
+original = "「うん！\u3000この姿なら、キミの剣として、世界だって救えちゃうよ！」"
+translation = "「응! 이 모습이라면 너의 검으로서 세계라도 구할 수 있어!」"
+
+[[dialogue]]
+speaker_original = "クロト"
+speaker_translation = "쿠로토"
+original = "「『<ruby>ＸＥＬＯＳ<rt>ゼロス</rt></ruby>』……これが俺の描いた、最後の絵図だ！」"
+translation = "「『<ruby>XELOS<rt>젤로스</rt></ruby>』…… 이것이 내가 그려낸 마지막 구상이다!」"
+
+[[dialogue]]
+speaker_original = "ＸＥＬＯＳ"
+speaker_translation = "제로스"
+original = "「──────ッ！！」"
+translation = "「──────윽!!」"
+
+[[dialogue]]
+speaker_original = "クロト"
+speaker_translation = "쿠로토"
+original = "「行くぞ、最終決戦だ！！！」"
+translation = "「간다, 최종 결전이다!!!」"
+

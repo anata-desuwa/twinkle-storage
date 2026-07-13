@@ -1,0 +1,466 @@
+[[dialogue]]
+speaker = "unk"
+original = "第１話,ルヴィネ（妹）,P"
+translation = "제1화, 루비네 (동생), P"
+
+[[dialogue]]
+speaker = "unk"
+original = "創造神『<ruby>ＸＥＬＯＳ<rt>ゼロス</rt></ruby>』に勝利した記念に行われた、アルタイルでの祝勝会──その翌日。"
+translation = "창조신 『<ruby>XELOS<rt>제로스</rt></ruby>』에게 승리한 기념으로 열린, 알타이르에서의 축승회── 그 다음 날."
+
+[[dialogue]]
+speaker = "unk"
+original = "ルヴィネが新星学園の星徒会室を訪ねてきた。"
+translation = "루비네가 신성 학원의 성도회실을 찾아왔다."
+
+[[dialogue]]
+speaker_original = "アナ"
+speaker_translation = "아나"
+original = "「ようこそいらっしゃいました。お茶をどうぞ、ルヴィネさん」"
+translation = "「어서 오세요. 차 드세요, 루비네 씨」"
+
+[[dialogue]]
+speaker_original = "ルヴィネ"
+speaker_translation = "루비네"
+original = "「ありがとう、アナ。ん……いい味だわ」"
+translation = "「고마워, 아나. 음…… 좋은 맛이네」"
+
+[[dialogue]]
+speaker_original = "マトイ"
+speaker_translation = "마토이"
+original = "「ゆっくりしていってね、ルヴィネちゃん♪」"
+translation = "「편히 쉬다 가, 루비네짱♪」"
+
+[[dialogue]]
+speaker_original = "ルヴィネ"
+speaker_translation = "루비네"
+original = "「ええ──今日は極星の皆、用事があるみたいなの。時間を持て余していたから助かるわ」"
+translation = "「응── 오늘은 극성의 모두가 볼일이 있는 모양이야. 시간이 남아돌던 참이라 다행이야」"
+
+[[dialogue]]
+speaker = "unk"
+original = "デネブからやってきた極星学園のみんなは、今日から数日間、アルタイルに滞在する予定になっている。"
+translation = "데네브에서 온 극성 학원 친구들은 오늘부터 수일간 알타이르에 머물 예정이다."
+
+[[dialogue]]
+speaker = "unk"
+original = "ベアトリスは選管メンバーと遊びに。チナやグレイスは家族水入らずで過ごすとのことだ。"
+translation = "베아트리스는 선관 멤버와 놀러. 치나나 그레이스는 가족끼리 단란하게 보낸다고 한다."
+
+[[dialogue]]
+speaker = "unk"
+original = "意外なことに、レティシアも祝勝会でナミエルと打ち解けたらしく、今日は星見家にお邪魔しているらしい──"
+translation = "의외로 레티시아도 축승회에서 나미엘과 친해진 모양이라, 오늘은 호시미 가에 실례하고 있는 듯하다──"
+
+[[dialogue]]
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
+original = "「なるほど～。それでルヴィネおばちゃん、寂しくってうちの星徒会室に来たってわけね！」"
+translation = "「과연~. 그래서 루비네 아줌마, 외로워서 우리 성도회실에 왔다는 거네!」"
+
+[[dialogue]]
+speaker_original = "ルヴィネ"
+speaker_translation = "루비네"
+original = "「九浄ヴィーナス。別に私は寂しがってなんかいないわ」"
+translation = "「쿠죠 비너스. 딱히 난 외로워하고 있지 않아」"
+
+[[dialogue]]
+speaker_original = "ルヴィネ"
+speaker_translation = "루비네"
+original = "「──って、待ちなさい。貴女、今なんて？」"
+translation = "「──라니, 기다려. 너, 방금 뭐라고?」"
+
+[[dialogue]]
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
+original = "「？\u3000ルヴィネおばちゃん──」"
+translation = "「? 루비네 아줌마──」"
+
+[[dialogue]]
+speaker_original = "ルヴィネ"
+speaker_translation = "루비네"
+original = "「どういうこと……！？」"
+translation = "「어떻게 된 일이야……!?」"
+
+[[dialogue]]
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
+original = "「ルヴィネはママの妹なんでしょう？\u3000ママとのお別れの時も、『姉さん』って呼んでたものね！」"
+translation = "「루비네는 엄마의 동생이잖아? 엄마랑 작별할 때도, 『언니』라고 불렀는걸!」"
+
+[[dialogue]]
+speaker_original = "ルヴィネ"
+speaker_translation = "루비네"
+original = "「まあ……そうね。同じ父から創造された者同士、姉妹のようなものには違いないわ」"
+translation = "「뭐…… 그렇네. 같은 아버지로부터 창조된 자들끼리, 자매 같은 것임에는 틀림없어」"
+
+[[dialogue]]
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
+original = "「ママの妹ってことは──つまり、私のおばさんじゃない！\u3000だから『ルヴィネおばちゃん』♪」"
+translation = "「엄마의 동생이라는 건── 즉, 나의 아줌마잖아! 그러니까 『루비네 아줌마』♪」"
+
+[[dialogue]]
+speaker_original = "ルヴィネ"
+speaker_translation = "루비네"
+original = "「…………不愉快だわ。やめなさい」"
+translation = "「…………불쾌해. 그만두렴」"
+
+[[dialogue]]
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
+original = "「なんでー！？\u3000親しみを込めて呼んでるのに！！」"
+translation = "「왜애ー!? 친근함을 담아서 부르는 건데!!」"
+
+[[dialogue]]
+speaker_original = "マトイ"
+speaker_translation = "마토이"
+original = "「ヴィーナス、女の子がいきなり『おばちゃん』呼ばわりされたら、そりゃ嫌だよ……」"
+translation = "「비너스, 여자애가 갑자기 『아줌마』라고 불리면, 그건 싫지……」"
+
+[[dialogue]]
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
+original = "「デネブのリノさんは『おばあちゃん』って呼ぶと喜んでくれたのに！？\u3000お小遣いだってくれそうな勢いだったわ！」"
+translation = "「데네브의 리노 씨는 『할머니』라고 부르면 기뻐해 줬는데!? 용돈이라도 줄 기세였어!」"
+
+[[dialogue]]
+speaker_original = "アナ"
+speaker_translation = "아나"
+original = "「リノさんは数百年生きた魔女ですから、その辺りのことは気にならないと思いますが……」"
+translation = "「리노 씨는 수백 년을 산 마녀니까, 그런 건 신경 쓰지 않으시겠지만……」"
+
+[[dialogue]]
+speaker_original = "サーシャ"
+speaker_translation = "사샤"
+original = "「そうね～。今回のことは流石に、ヴィーナスちゃんが悪いわよ～？」"
+translation = "「그렇네~. 이번 일은 아무래도 비너스짱이 잘못했어~?」"
+
+[[dialogue]]
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
+original = "「え～！？\u3000なんでなんでっ！？\u3000呼び方を変えるのって、仲良くなるために大事じゃない！\u3000ねぇマトイ？」"
+translation = "「에~!? 왜왜!? 호칭을 바꾸는 건 사이좋아지기 위해 중요하잖아! 그치, 마토이?」"
+
+[[dialogue]]
+speaker_original = "マトイ"
+speaker_translation = "마토이"
+original = "「なんで私に振るの！？」"
+translation = "「왜 나한테 넘겨!?」"
+
+[[dialogue]]
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
+original = "「マトイだって昔は私のこと、『ヴィーナスさん』って呼んでたじゃない？」"
+translation = "「마토이도 옛날엔 나를 『비너스 씨』라고 불렀잖아?」"
+
+[[dialogue]]
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
+original = "「でもそれを変えてから、もっと仲良しになれたでしょ♪」"
+translation = "「하지만 그걸 바꾸고 나서, 더 사이좋아질 수 있었잖아♪」"
+
+[[dialogue]]
+speaker_original = "マトイ"
+speaker_translation = "마토이"
+original = "「あ～、そんな時期もあったね。あの頃の私は、ヴィーナスの何に気後れをしてたんだろう……懐かしいなぁ」"
+translation = "「아~ 그런 시기도 있었지. 그 시절의 나는 비너스의 무엇에 위축되어 있었을까…… 그립네」"
+
+[[dialogue]]
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
+original = "「デネブとはこれから手を取り合っていくんだから、よそよそしい関係はダメだって思ったの！」"
+translation = "「데네브와는 앞으로 손을 맞잡고 나아갈 거니까, 서먹서먹한 관계는 안 된다고 생각했어!」"
+
+[[dialogue]]
+speaker_original = "ルヴィネ"
+speaker_translation = "루비네"
+original = "「必要以上に距離を取ろうとは思わないわ。けれど……おばさん呼びは嫌よ。やめて頂戴」"
+translation = "「필요 이상으로 거리를 두려고는 생각지 않아. 하지만…… 아줌마 호출은 싫어. 그만둬 주렴」"
+
+[[dialogue]]
+speaker_original = "ルヴィネ"
+speaker_translation = "루비네"
+original = "「魔王……貴方ね、娘のしつけはちゃんとしなさい」"
+translation = "「마왕…… 당신 말이야, 딸 교육은 제대로 시키라고」"
+
+[[dialogue]]
+speaker = "unk"
+original = "本当に申し訳ない……"
+translation = "정말로 면목 없다……"
+
+[[dialogue]]
+speaker_original = "サーシャ"
+speaker_translation = "사샤"
+original = "「う～ん。でもでも、ヴィーナスちゃんの言うことも一理あるかもしれないわね～」"
+translation = "「음~. 그래도 그래도, 비너스짱이 하는 말도 일리가 있을지도 모르겠네~」"
+
+[[dialogue]]
+speaker_original = "ルヴィネ"
+speaker_translation = "루비네"
+original = "「何を言っているの、奏サーシャ。貴女まで……」"
+translation = "「무슨 소리를 하는 거야, 카나데 사샤. 당신까지……」"
+
+[[dialogue]]
+speaker_original = "サーシャ"
+speaker_translation = "사샤"
+original = "「相手が嫌がる呼び名はもちろんダメだけど。関係性を意識して変えていくのも、大切なことじゃないかしら～？」"
+translation = "「상대가 싫어하는 호칭은 물론 안 되지만. 관계성을 의식해서 바꿔가는 것도 소중한 일 아닐까~?」"
+
+[[dialogue]]
+speaker_original = "サーシャ"
+speaker_translation = "사샤"
+original = "「事実、ルヴィネちゃんってば私たちのこと、フルネームで呼ぶし……」"
+translation = "「사실 루비네짱은 우리를 풀네임으로 부르고 말이야……」"
+
+[[dialogue]]
+speaker_original = "アナ"
+speaker_translation = "아나"
+original = "「確かに。先ほどから『九浄ヴィーナス』『奏サーシャ』と呼んでいます。少し距離を感じるかもしれません」"
+translation = "「확실히. 조금 전부터 『쿠죠 비너스』 『카나데 사샤』라고 부르고 있습니다. 조금 거리를 느낄지도 모르겠네요」"
+
+[[dialogue]]
+speaker_original = "ルヴィネ"
+speaker_translation = "루비네"
+original = "「ぅ……性分なのだけれど、確かによそよそしかったかしら。わかったわ、希望の呼び名があるなら教えて頂戴。改めるから」"
+translation = "「윽…… 성미이긴 하지만, 확실히 서먹서먹했나 보네. 알았어, 희망하는 호칭이 있다면 알려주렴. 고칠 테니까」"
+
+[[dialogue]]
+speaker_original = "サーシャ"
+speaker_translation = "사샤"
+original = "「うふふ♪\u3000じゃあ私のことは『サーシャお姉ちゃん』でお願いしようかしら～♪」"
+translation = "「우후후♪ 그럼 나는 『사샤 언니』라고 부탁해볼까나~♪」"
+
+[[dialogue]]
+speaker_original = "ルヴィネ"
+speaker_translation = "루비네"
+original = "「……真面目にやってもらえる？」"
+translation = "「……진지하게 해줄래?」"
+
+[[dialogue]]
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
+original = "「失礼ね！\u3000私が集めた『最強のお姉ちゃん』に、なんてことを言うの！」"
+translation = "「무례하네! 내가 모은 『최강의 언니』에게 무슨 소리를 하는 거야!」"
+
+[[dialogue]]
+speaker_original = "ルヴィネ"
+speaker_translation = "루비네"
+original = "「……やっぱり貴女の感性、どうかしているわ」"
+translation = "「……역시 당신의 감성, 어떻게 된 거 아니야」"
+
+[[dialogue]]
+speaker_original = "サーシャ"
+speaker_translation = "사샤"
+original = "「ふふ。私、皆の『お姉ちゃん』だもの♪\u3000それにルヴィネちゃんって、妹力が高いと思うのよね～<emoji=heart04>」"
+translation = "「후후. 나, 모두의 『언니』인걸♪ 게다가 루비네짱은 여동생력이 높다고 생각하거든~<emoji=heart04>」"
+
+[[dialogue]]
+speaker_original = "ルヴィネ"
+speaker_translation = "루비네"
+original = "「貴女の主観を否定する気はないけれど、何なの『妹力』って……理解不能だわ。そんなもの私にはないし、似合わないでしょう」"
+translation = "「당신의 주관을 부정할 생각은 없지만, 뭐야 『여동생력』이란 건…… 이해 불능이야. 그런 거 나에겐 없고, 어울리지도 않잖아」"
+
+[[dialogue]]
+speaker_original = "アナ"
+speaker_translation = "아나"
+original = "「そうでしょうか？\u3000ルヴィネさんは、女神テルル様の妹さん──それに、私と同じく小さい見た目です」"
+translation = "「그럴까요? 루비네 씨는 여신 테룰 님의 여동생── 게다가 저와 마찬가지로 어린 외견입니다」"
+
+[[dialogue]]
+speaker_original = "アナ"
+speaker_translation = "아나"
+original = "「『妹』たるポテンシャルは、十分あるかと」"
+translation = "「『여동생』으로서의 포텐셜은 충분하다고 봅니다」"
+
+[[dialogue]]
+speaker_original = "ルヴィネ"
+speaker_translation = "루비네"
+original = "「……アナ、貴女も実はそちら側だったの？」"
+translation = "「……아나, 당신도 실은 그쪽이었어?」"
+
+[[dialogue]]
+speaker_original = "サーシャ"
+speaker_translation = "사샤"
+original = "「次代の立派な女神様になるために、色々なことを学んでいくって決めたんでしょう？」"
+translation = "「차세대의 훌륭한 여신님이 되기 위해서 여러 가지를 배워가기로 정했잖아?」"
+
+[[dialogue]]
+speaker_original = "サーシャ"
+speaker_translation = "사샤"
+original = "「だったら、物は試しよ～♪\u3000ほらほら、呼んでみて♪」"
+translation = "「그렇다면 밑져야 본전이야~♪ 자자, 불러봐♪」"
+
+[[dialogue]]
+speaker_original = "ルヴィネ"
+speaker_translation = "루비네"
+original = "「………………」"
+translation = "「………………」"
+
+[[dialogue]]
+speaker_original = "ルヴィネ"
+speaker_translation = "루비네"
+original = "「アルタイルには、おかしなヒトが多いわね……はぁ。一度だけよ？」"
+translation = "「알타이르에는 이상한 사람이 많네…… 하아. 딱 한 번뿐이야?」"
+
+[[dialogue]]
+speaker_original = "ルヴィネ"
+speaker_translation = "루비네"
+original = "「…………サーシャ、お姉ちゃん」"
+translation = "「…………사샤, 언니」"
+
+[[dialogue]]
+speaker_original = "サーシャ"
+speaker_translation = "사샤"
+original = "「あ～ん、可愛いわ～っ<emoji=heart04>\u3000ぎゅ～ぅ～っ<emoji=heart04>」"
+translation = "「아~앙, 귀여워라~ <emoji=heart04> 꼬~옥~ <emoji=heart04>」"
+
+[[dialogue]]
+speaker_original = "ルヴィネ"
+speaker_translation = "루비네"
+original = "「んぶぶっ！？\u3000は、離しなさい、奏サーシャ……！！」"
+translation = "「읍부붓!? 누, 놓으렴, 카나데 사샤……!!」"
+
+[[dialogue]]
+speaker_original = "サーシャ"
+speaker_translation = "사샤"
+original = "「だ～め<emoji=heart04>\u3000お姉ちゃんって呼ばないと～……お仕置きのハグ、強ーくしちゃうんだから～♪\u3000えい、え～いっ<emoji=heart04>」"
+translation = "「안~돼 <emoji=heart04> 언니라고 부르지 않으면~…… 벌로 허그, 아주 강~하게 해버릴 거니까~♪ 에잇, 에잇 <emoji=heart04>」"
+
+[[dialogue]]
+speaker_original = "ルヴィネ"
+speaker_translation = "루비네"
+original = "「ま、魔王っ！！\u3000突っ立ってないで、助けて頂戴……！」"
+translation = "「마, 마왕!! 멍하니 서 있지 말고, 좀 도와줘……!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "俺のことは『兄さん』って呼んでくれ"
+translation = "내 쪽은 『오빠』라고 불러줘"
+
+[[dialogue]]
+speaker_original = "ルヴィネ"
+speaker_translation = "루비네"
+original = "「ひぃ！？」"
+translation = "「히익!?」"
+
+[[dialogue]]
+speaker_original = "ルヴィネ"
+speaker_translation = "루비네"
+original = "「あ、貴方まで馬鹿なことを言ってないで……！\u3000ふざけてないで早く……むぎゅぅ！？」"
+translation = "「다, 당신까지 바보 같은 소리 하지 말고……! 장난치지 말고 빨리…… 으규우!?」"
+
+[[dialogue]]
+speaker_original = "ルヴィネ"
+speaker_translation = "루비네"
+original = "（こ、このままだと本当にハグで落とされる……！\u3000い、言うしかないの！？\u3000次代の女神である私が！？）"
+translation = "（이, 이대로라면 정말 허그로 당해버려……! 마, 말할 수밖에 없는 거야!? 차세대 여신인 내가!?）"
+
+[[dialogue]]
+speaker_original = "ルヴィネ"
+speaker_translation = "루비네"
+original = "「に──兄さん！\u3000助けてっ────！」"
+translation = "「오── 오빠! 도와줘────!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "──任せろ！！！"
+translation = "──맡겨둬!!!"
+
+[[dialogue]]
+speaker_original = "サーシャ"
+speaker_translation = "사샤"
+original = "「あ～ん<emoji=heart04>\u3000会長くんに引き離されちゃったわ～♪」"
+translation = "「아~앙 <emoji=heart04> 회장 군한테 떼어져 버렸네~♪」"
+
+[[dialogue]]
+speaker_original = "ルヴィネ"
+speaker_translation = "루비네"
+original = "「けほっ……何なの、本当に……」"
+translation = "「케학…… 뭐야, 정말……」"
+
+[[dialogue]]
+speaker_original = "ルヴィネ"
+speaker_translation = "루비네"
+original = "「魔王。貴方まで一緒になって……ふざけるのは程々にして頂戴」"
+translation = "「마왕. 당신까지 합세해서…… 장난은 적당히 좀 해줘」"
+
+[[dialogue]]
+speaker = "unk"
+original = "もう『兄さん』呼びは終わり……？"
+translation = "벌써 『오빠』라고 부르는 건 끝……?"
+
+[[dialogue]]
+speaker_original = "ルヴィネ"
+speaker_translation = "루비네"
+original = "「当たり前でしょう！？\u3000アルタイルには変人しかいないの……！？」"
+translation = "「당연하잖아!? 알타이르에는 변태들뿐인 거야……!?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "──それから、しばらく後。"
+translation = "──그러고 나서, 잠시 후."
+
+[[dialogue]]
+speaker = "unk"
+original = "星徒会室から逃げ出したルヴィネは、カフェテリアで休息を取っていた。"
+translation = "성도회실에서 도망쳐 나온 루비네는, 카페테리아에서 휴식을 취하고 있었다."
+
+[[dialogue]]
+speaker_original = "ルヴィネ"
+speaker_translation = "루비네"
+original = "「創造神の傀儡ではなく、１人の天使として知見を深めていく……そのことの大切さは理解しているけれど、いきなり散々な目に遭ったわ」"
+translation = "「창조신의 꼭두각시가 아니라, 한 명의 천사로서 지견을 넓혀간다…… 그 일의 소중함은 이해하고 있지만, 갑자기 끔찍한 꼴을 당했어」"
+
+[[dialogue]]
+speaker_original = "ルヴィネ"
+speaker_translation = "루비네"
+original = "「おばさん呼ばわりされるし、妹キャラが似合うだなんて言われるし……立派な女神になるための道のりは前途多難そうね……」"
+translation = "「아줌마라고 불리고, 여동생 캐릭터가 어울린다는 소리나 듣고…… 훌륭한 여신이 되기 위한 길은 전도다난해 보이네……」"
+
+[[dialogue]]
+speaker_original = "ルルカ"
+speaker_translation = "루루카"
+original = "「あっ──いたいた！\u3000こんにちは、ルヴィネさん！\u3000今ちょっといいですか？」"
+translation = "「앗── 찾았다! 안녕하세요, 루비네 씨! 지금 잠시 괜찮나요?」"
+
+[[dialogue]]
+speaker_original = "ルヴィネ"
+speaker_translation = "루비네"
+original = "「貴女たちは……？」"
+translation = "「당신들은……?」"
+
+[[dialogue]]
+speaker_original = "ルルカ"
+speaker_translation = "루루카"
+original = "「さっきアナちゃんから、新しい妹が増えたって聞いて──ご挨拶に来ました！\u3000よろしくお願いしますっ！」"
+translation = "「방금 아나짱한테 새로운 여동생이 늘었다고 들어서── 인사하러 왔어요! 잘 부탁드립니다!」"
+
+[[dialogue]]
+speaker_original = "メイプル"
+speaker_translation = "메이플"
+original = "「ふっふっふ……まさか平行世界から、新たな『妹ライバル』が現れるとは！\u3000油断ならない相手のようだな！」"
+translation = "「훗훗훗…… 설마 평행세계에서 새로운 『여동생 라이벌』이 나타날 줄이야! 방심할 수 없는 상대인 것 같군!」"
+
+[[dialogue]]
+speaker_original = "クーシェン"
+speaker_translation = "쿠셰엔"
+original = "「誰が一番、にーにーの妹にふさわしいか勝負だよ！\u3000ボク、負けないから！！」"
+translation = "「누가 가장 오빠의 여동생에 어울리는지 승부야! 나, 지지 않을 거니까!!」"
+
+[[dialogue]]
+speaker_original = "ルヴィネ"
+speaker_translation = "루비네"
+original = "「？？？？\u3000……？？\u3000？？？」"
+translation = "「???? ……?? ???」"
+
+[[dialogue]]
+speaker = "unk"
+original = "そうしてルヴィネは、学園内に存在する妹同盟の女の子たちに囲まれて、親交を深めることになるのだが。"
+translation = "그렇게 해서 루비네는, 학원 내에 존재하는 여동생 동맹 소녀들에게 둘러싸여 친교를 다지게 되는데."
+
+[[dialogue]]
+speaker = "unk"
+original = "それはまた、別のお話──"
+translation = "그것은 또한, 다른 이야기──"
+

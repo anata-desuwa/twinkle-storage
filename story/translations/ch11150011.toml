@@ -1,0 +1,354 @@
+[[dialogue]]
+speaker = "unk"
+original = "第１話,煌嶺の差し入れ,P"
+translation = "제1화, 코우레이의 간식, P"
+
+[[dialogue]]
+speaker_original = "アナ"
+speaker_translation = "아나"
+original = "「会長、書類の確認終わりました」"
+translation = "「회장, 서류 확인 끝났습니다」"
+
+[[dialogue]]
+speaker_original = "サーシャ"
+speaker_translation = "사샤"
+original = "「キリがいいし、ちょっと休憩にしましょうか～」"
+translation = "「딱 좋네요, 좀 쉴까요~」"
+
+[[dialogue]]
+speaker_original = "マトイ"
+speaker_translation = "마토이"
+original = "「みんな、お茶入ったよー」"
+translation = "「모두들, 차 끓였어─」"
+
+[[dialogue]]
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
+original = "「今日のおやつは何かしら♪」"
+translation = "「오늘 간식은 뭘까♪」"
+
+[[dialogue]]
+speaker_original = "煌嶺"
+speaker_translation = "코레이"
+original = "「いかんな。来客にはもっと良い茶を出さねば」"
+translation = "「안 되겠군. 손님에게는 더 좋은 차를 내와야지」"
+
+[[dialogue]]
+speaker_original = "マトイ"
+speaker_translation = "마토이"
+original = "「す、すみませ──って、こ、こ、煌嶺──さん！？」"
+translation = "「죄, 죄송합── 어, 코, 코, 코우레이── 씨!?」"
+
+[[dialogue]]
+speaker_original = "サーシャ"
+speaker_translation = "사샤"
+original = "「悪名高きキュリオスの女帝が、星徒会に何のご用かしら～？」"
+translation = "「악명 높은 큐리오스의 여제가 성도회에 무슨 볼일일까나~?」"
+
+[[dialogue]]
+speaker_original = "煌嶺"
+speaker_translation = "코레이"
+original = "「忘れたか？\u3000妾は新星学園の理事。星徒会の仕事ぶりを見に来ることに何の不思議もあるまい？」"
+translation = "「잊었느냐? 첩은 신성학원의 이사. 성도회의 업무 모습을 보러 오는 것에 무슨 이상함이 있겠느냐?」"
+
+[[dialogue]]
+speaker_original = "煌嶺"
+speaker_translation = "코레이"
+original = "「というわけで──」"
+translation = "「그런 고로──」"
+
+[[dialogue]]
+speaker_original = "煌嶺"
+speaker_translation = "코레이"
+original = "「はーい、差し入れだよー♪」"
+translation = "「자─, 간식이야─♪」"
+
+[[dialogue]]
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
+original = "「煌嶺から差し入れ！？\u3000まぁお茶にちょうどいいけど」"
+translation = "「코우레이가 간식을!? 뭐, 차에 곁들이기 딱 좋지만」"
+
+[[dialogue]]
+speaker_original = "アナ"
+speaker_translation = "아나"
+original = "「これは……どら焼きのようですが、挟んでいるのはあんこだけではありませんね」"
+translation = "「이건…… 도라야키 같네요. 사이에 낀 건 팥앙금만이 아니군요」"
+
+[[dialogue]]
+speaker_original = "煌嶺"
+speaker_translation = "코레이"
+original = "「クリームチーズ入りだって。よかったら食べてみて♪」"
+translation = "「크림치즈가 들었대. 괜찮으면 먹어봐♪」"
+
+[[dialogue]]
+speaker_original = "マトイ"
+speaker_translation = "마토이"
+original = "「あ、はい……いただきます……」"
+translation = "「아, 네…… 잘 먹겠습니다……」"
+
+[[dialogue]]
+speaker_original = "マトイ"
+speaker_translation = "마토이"
+original = "（これほんとに食べていいやつ……？\u3000手を付けようとしたら、畏れ多いとか言って怒ったりしない……？）"
+translation = "（이거 정말 먹어도 되는 거야……? 손을 대려 하면 감히 어디에 손을 대느냐며 화내지는 않을까……?）"
+
+[[dialogue]]
+speaker = "unk"
+original = "多分大丈夫だと思う……"
+translation = "아마 괜찮을 것 같아……"
+
+[[dialogue]]
+speaker_original = "煌嶺"
+speaker_translation = "코레이"
+original = "「ん？\u3000どうしたの？」"
+translation = "「응? 왜 그래?」"
+
+[[dialogue]]
+speaker_original = "マトイ"
+speaker_translation = "마토이"
+original = "「あ、いや、煌嶺さんが流星市国に来てからしばらく経つのに、煌嶺さんのこと全然知らないなって……」"
+translation = "「아, 아니, 코우레이 씨가 유성시국에 온 지 꽤 됐는데, 코우레이 씨에 대해 전혀 모르는 것 같아서요……」"
+
+[[dialogue]]
+speaker_original = "煌嶺"
+speaker_translation = "코레이"
+original = "「まぁ、星徒会の人たちにはちゃんと自己紹介もしてなかったし、無理もないかもね」"
+translation = "「뭐, 성도회 사람들에게는 제대로 자기소개도 안 했으니 무리도 아니겠네」"
+
+[[dialogue]]
+speaker_original = "煌嶺"
+speaker_translation = "코레이"
+original = "「私煌嶺！\u3000キュリオスの偉い魔族！\u3000ヨロシクぅ！」"
+translation = "「나 코우레이! 큐리오스의 높으신 마족! 잘 부탁해!」"
+
+[[dialogue]]
+speaker_original = "マトイ"
+speaker_translation = "마토이"
+original = "「それは知ってるんですけど……他にもいろいろ気になってることがありまして……」"
+translation = "「그건 알고 있습니다만…… 그 외에도 여러 가지 궁금한 게 있어서요……」"
+
+[[dialogue]]
+speaker_original = "煌嶺"
+speaker_translation = "코레이"
+original = "「ん～？\u3000なぁに～？」"
+translation = "「응~? 뭔~데~?」"
+
+[[dialogue]]
+speaker_original = "マトイ"
+speaker_translation = "마토이"
+original = "「えーと、煌嶺さんはどうして、その……威厳がある時と、そうでない時があるんですか？」"
+translation = "「저기, 코우레이 씨는 왜 그…… 위엄이 있을 때와 그렇지 않을 때가 있는 건가요?」"
+
+[[dialogue]]
+speaker_original = "煌嶺"
+speaker_translation = "코레이"
+original = "「そんなの気分だよ、気分」"
+translation = "「그런 건 기분이야, 기분」"
+
+[[dialogue]]
+speaker_original = "煌嶺"
+speaker_translation = "코레이"
+original = "「えらそーにしたい時はえらそーにするし、力抜きたい時はそうするし、中身は変わってないよ」"
+translation = "「거드름 피우고 싶을 땐 거드름 피우고, 힘 빼고 싶을 땐 그렇게 하고, 알맹이는 변하지 않아」"
+
+[[dialogue]]
+speaker_original = "煌嶺"
+speaker_translation = "코레이"
+original = "「私偉いからね♪\u3000そこんとこ自由なんだ♪」"
+translation = "「나 대단하니까♪ 그런 건 자유라구♪」"
+
+[[dialogue]]
+speaker_original = "マトイ"
+speaker_translation = "마토이"
+original = "「な、なるほど……？」"
+translation = "「그, 그렇군요……?」"
+
+[[dialogue]]
+speaker_original = "マトイ"
+speaker_translation = "마토이"
+original = "（答えてもらったけど、煌嶺さんの感覚がよくわからない……！）"
+translation = "（답변은 들었지만, 코우레이 씨의 감각을 잘 모르겠어……!）"
+
+[[dialogue]]
+speaker_original = "アナ"
+speaker_translation = "아나"
+original = "「では私からもいいでしょうか。煌嶺さんは魔界の皇妃だと聞いていましたが、妃ということは、夫がいるのですか？」"
+translation = "「그럼 저도 하나 여쭤봐도 될까요. 코우레이 씨는 마계의 황비라고 들었습니다만, 비라는 것은 남편이 있는 건가요?」"
+
+[[dialogue]]
+speaker_original = "煌嶺"
+speaker_translation = "코레이"
+original = "「ああそれ？\u3000よく聞かれ──はしないか。私に質問してくる人あんまりいないし」"
+translation = "「아, 그거? 자주 질문 받──지는 않나. 나한테 질문하는 사람 별로 없으니까」"
+
+[[dialogue]]
+speaker_original = "煌嶺"
+speaker_translation = "코레이"
+original = "「『煌嶺』の名前は代々受け継ぐもので、皇妃という地位ごと継ぐことになってるんだ」"
+translation = "「『코우레이』라는 이름은 대대로 물려받는 거라, 황비라는 지위까지 통째로 잇게 되어 있어」"
+
+[[dialogue]]
+speaker_original = "煌嶺"
+speaker_translation = "코레이"
+original = "「初代煌嶺はキュリオスの皇帝の妃だったんだけど、キュリオスを自分のものにしちゃって、いつの間にか『煌嶺』の名と地位を継承していくことになったんだって」"
+translation = "「초대 코우레이는 큐리오스 황제의 비였는데, 큐리오스를 자기 걸로 만들어버려서 어느샌가 『코우레이』의 이름과 지위를 계승하게 됐대」"
+
+[[dialogue]]
+speaker_original = "煌嶺"
+speaker_translation = "코레이"
+original = "「だから私に旦那さんはいないよ。ま、古いしきたりってやつだね」"
+translation = "「그러니까 나한테 남편은 없어. 뭐, 낡은 관습이라는 거지」"
+
+[[dialogue]]
+speaker_original = "アナ"
+speaker_translation = "아나"
+original = "「なるほど、皇妃の肩書はあくまで形式的なものなのですね」"
+translation = "「그렇군요, 황비라는 직함은 어디까지나 형식적인 것이었군요」"
+
+[[dialogue]]
+speaker_original = "煌嶺"
+speaker_translation = "코레이"
+original = "「そゆこと。ま、求婚者はひっきりなしに来るけど」"
+translation = "「그런 거지. 뭐, 구혼자는 끊임없이 오지만 말이야」"
+
+[[dialogue]]
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
+original = "「ええっ！？\u3000煌嶺と結婚したいやつなんているの！？」"
+translation = "「에엣!? 코우레이랑 결혼하고 싶은 녀석이 있다고!?」"
+
+[[dialogue]]
+speaker_original = "サーシャ"
+speaker_translation = "사샤"
+original = "「私も信じられないけど、噂には聞いたことがあるわ」"
+translation = "「나도 믿기지 않지만 소문으로 들은 적은 있어」"
+
+[[dialogue]]
+speaker_original = "サーシャ"
+speaker_translation = "사샤"
+original = "「その美貌に魅入られたのか、財や力が欲しいのか……煌嶺に求婚する男たちが、国を買えるような宝物を携えてキュリオスを訪れるとか」"
+translation = "「그 미모에 홀린 건지, 재물이나 힘을 원하는 건지…… 코우레이에게 구혼하는 남자들이 나라를 살 수 있을 법한 보물을 가지고 큐리오스를 방문한다고 해」"
+
+[[dialogue]]
+speaker_original = "煌嶺"
+speaker_translation = "코레이"
+original = "「お宝が気に入らなかったら処すよ？\u3000──って言っても来ちゃうんだよねー、これが」"
+translation = "「보물이 마음에 안 들면 처단한다? ──라고 해도 온단 말이지, 이게」"
+
+[[dialogue]]
+speaker_original = "煌嶺"
+speaker_translation = "코레이"
+original = "「まだ恋愛とか結婚に興味ないから、気に入ったお宝だけもらって男はポイだけど」"
+translation = "「아직 연애나 결혼에 흥미 없으니까 마음에 드는 보물만 받고 남자는 뻥 걷어차지만」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ひどい……"
+translation = "너무해……"
+
+[[dialogue]]
+speaker_original = "煌嶺"
+speaker_translation = "코레이"
+original = "「だってお宝に満足したら結婚するとは一言も言ってないし～」"
+translation = "「그치만 보물에 만족하면 결혼한다고 한 마디도 안 했는걸~」"
+
+[[dialogue]]
+speaker_original = "煌嶺"
+speaker_translation = "코레이"
+original = "「それに会ってあげてるんだから、私の気を引けない方が悪いよー。この煌嶺に謁見できるだけありがたいと思ってくれなくちゃ」"
+translation = "「게다가 만나주는 거니까, 내 마음을 사로잡지 못한 쪽이 잘못이지. 이 코우레이를 알현할 수 있는 것만으로도 고맙게 생각해야 한다구」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ストロング暴君スタイル！"
+translation = "스트롱 폭군 스타일!"
+
+[[dialogue]]
+speaker_original = "煌嶺"
+speaker_translation = "코레이"
+original = "「で、どうどう？\u3000私が持ってきたどら焼き美味しかった？」"
+translation = "「그래서, 어때 어때? 내가 가져온 도라야키 맛있었어?」"
+
+[[dialogue]]
+speaker_original = "アナ"
+speaker_translation = "아나"
+original = "「濃厚なクリームチーズとあんこが合わさって、非常に贅沢な味わいです」"
+translation = "「농후한 크림치즈와 팥이 어우러져 매우 사치스러운 맛입니다」"
+
+[[dialogue]]
+speaker_original = "アナ"
+speaker_translation = "아나"
+original = "「ですがこれほどの逸品なら、私が把握していてもよさそうなものですが……」"
+translation = "「하지만 이 정도의 일품이라면 제가 파악하고 있었을 법도 합니다만……」"
+
+[[dialogue]]
+speaker_original = "煌嶺"
+speaker_translation = "코레이"
+original = "「ならよかった！\u3000これで商品化決定だよ！」"
+translation = "「그럼 다행이다! 이걸로 상품화 결정이야!」"
+
+[[dialogue]]
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
+original = "「商品化？」"
+translation = "「상품화?」"
+
+[[dialogue]]
+speaker_original = "煌嶺"
+speaker_translation = "코레이"
+original = "「私が買ったスイーツブランドが開発中の新商品でさ、ちょっと試食してもらったんだよね。忌憚なく意見を聞かせてもらって助かったよ」"
+translation = "「내가 산 디저트 브랜드에서 개발 중인 신상품인데 말이야, 좀 시식해 보게 한 거야. 가감 없이 의견을 들려줘서 도움이 됐어」"
+
+[[dialogue]]
+speaker_original = "煌嶺"
+speaker_translation = "코레이"
+original = "「私、流星市国に来てからいろいろ気に入っちゃってさ、スイーツやファッションのブランドいろいろ買っちゃったんだ～♪」"
+translation = "「나 유성시국에 온 뒤로 여러 가지가 마음에 들어서 말이야, 디저트나 패션 브랜드를 이것저것 사버렸어~♪」"
+
+[[dialogue]]
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
+original = "「何それ！？\u3000私たちを利用したってこと！？」"
+translation = "「뭐야 그게!? 우리를 이용했다는 거야!?」"
+
+[[dialogue]]
+speaker_original = "サーシャ"
+speaker_translation = "사샤"
+original = "「大欲の女帝はしたたかね～」"
+translation = "「대욕의 여제는 영악하네~」"
+
+[[dialogue]]
+speaker_original = "マトイ"
+speaker_translation = "마토이"
+original = "「ブランドを買ったって、さも普通の買い物みたいに……」"
+translation = "「브랜드를 샀다니, 마치 평범한 쇼핑이라도 하는 것처럼……」"
+
+[[dialogue]]
+speaker = "unk"
+original = "そういえば肉肉飯店にも出資してたな……"
+translation = "그러고 보니 고기고기 반점에도 출자했었지……"
+
+[[dialogue]]
+speaker_original = "マトイ"
+speaker_translation = "마토이"
+original = "「煌嶺さん、強さだけじゃなくて、買い物のスケールも違うんだね……」"
+translation = "「코우레이 씨, 강함뿐만 아니라 쇼핑의 스케일도 다르네……」"
+
+[[dialogue]]
+speaker_original = "アナ"
+speaker_translation = "아나"
+original = "「クリームチーズどら焼きが商品化の暁には、是非とも購入させていただきます」"
+translation = "「크림치즈 도라야키가 상품화되면 꼭 구매하도록 하겠습니다」"
+
+[[dialogue]]
+speaker_original = "煌嶺"
+speaker_translation = "코레이"
+original = "「うん、ありがと～♪」"
+translation = "「응, 고마워~♪」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ヴィーナスとサーシャさんが呆れ、俺とマトイが驚く中、アナはクリームチーズどら焼きに夢中になっていたのだった。"
+translation = "비너스와 사샤 씨가 어이없어하고, 나와 마토이가 놀라는 가운데 아나는 크림치즈 도라야키에 푹 빠져 있었다."
+

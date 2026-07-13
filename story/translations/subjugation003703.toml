@@ -1,0 +1,440 @@
+[[dialogue]]
+speaker = "unk"
+original = "第３話,ＶＳ星喰らいホロウ・ルヴィネ戦闘前,B"
+translation = "제3화, VS 호시쿠라이 홀로우 루비네 전투 전, B"
+
+[[dialogue]]
+speaker = "unk"
+original = "緋宮クロトたちの作戦会議から数時間後……"
+translation = "히노미야 쿠로토 일행의 작전 회의로부터 수 시간 후……"
+
+[[dialogue]]
+speaker = "unk"
+original = "終焉世界──ベガ。"
+translation = "종언 세계── 베가."
+
+[[dialogue]]
+speaker = "unk"
+original = "アルタイルの星騎士たちが攻略すべき最重要拠点『星喰らい』の活動ポイント。"
+translation = "알타이르의 성기사들이 공략해야 할 최중요 거점 『호시쿠라이』의 활동 포인트."
+
+[[dialogue]]
+speaker = "unk"
+original = "その１つを任されているのは、真なる神の忠実なる<ruby>僕<rt>しもべ</rt></ruby>──ホロウ・ルヴィネだった。"
+translation = "그중 한 곳을 맡고 있는 것은 진정한 신의 충실한 종복── 홀로우 루비네였다."
+
+[[dialogue]]
+speaker_original = "ホロウ・ルヴィネ"
+speaker_translation = "할로우・루비네"
+original = "「……始まったわね」"
+translation = "「……시작됐군」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ベガ世界の各地に配置した、自身のシャドウたちからリアルタイムで情報が送られてくる。"
+translation = "베가 세계 각지에 배치한 자신의 섀도들로부터 실시간으로 정보가 전송되어 온다."
+
+[[dialogue]]
+speaker_original = "ホロウ・ルヴィネ"
+speaker_translation = "할로우・루비네"
+original = "「ふふふ……やはり緋宮クロトは参戦していない。ならば私たちが負ける道理はないわ」"
+translation = "「후후후…… 역시 히노미야 쿠로토는 참전하지 않았어. 그렇다면 우리가 질 이유는 없지」"
+
+[[dialogue]]
+speaker_original = "ホロウ・ルヴィネL"
+speaker_translation = "할로우 루비네 L"
+original = "「厄災の右腕の力を振るう、緋宮クロトさえいなければ……お前たちの相手などどうにでもなるのよ！」"
+translation = "「재앙의 오른팔의 힘을 휘두르는 히노미야 쿠로토만 없다면…… 너희 상대 따위는 어떻게든 된다고!」"
+
+[[dialogue]]
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
+original = "「見つけました！\u3000ホロウ・ルヴィネ──覚悟っ！！」"
+translation = "「찾았습니다! 홀로우 루비네── 각오하세요!!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ホロウ・ルヴィネの背中に声が投げかけられる。"
+translation = "홀로우 루비네의 등 뒤로 목소리가 날아든다."
+
+[[dialogue]]
+speaker_original = "ホロウ・ルヴィネ"
+speaker_translation = "할로우・루비네"
+original = "「……愚かね。魔王の血統ならばどうにかできると思ったのかしら？\u3000今の私は、以前とは違うわ」"
+translation = "「……어리석구나. 마왕의 혈통이라면 어떻게든 할 수 있다고 생각한 걸까? 지금의 나는 이전과는 달라」"
+
+[[dialogue]]
+speaker = "unk"
+original = "このホロウは『<ruby>ＸＥＬＯＳ<rt>ゼロス</rt></ruby>』によって特別に手を加えられた個体。"
+translation = "이 홀로우는 『<ruby>XELOS<rt>제로스</rt></ruby>』에 의해 특별히 손봐진 개체."
+
+[[dialogue]]
+speaker = "unk"
+original = "故にその出力は、大量生産された<ruby>影<rt>シャドウ</rt></ruby>たちとも、以前デネブを襲ったホロウ・ルヴィネとも、比較にならない。"
+translation = "고로 그 출력은 대량 생산된 <ruby>그림자<rt>섀도</rt></ruby>들과도, 이전에 데네브를 습격했던 홀로우 루비네와도 비교가 되지 않는다."
+
+[[dialogue]]
+speaker_original = "ホロウ・ルヴィネL"
+speaker_translation = "할로우 루비네 L"
+original = "「今から始まるのは戦いではないわ。一方的な──」"
+translation = "「지금부터 시작되는 것은 전투가 아니야. 일방적인──」"
+
+[[dialogue]]
+speaker = "unk"
+original = "そしてホロウ・ルヴィネは振り向き、フィオナたちの姿を捕らえた──"
+translation = "그리고 홀로우 루비네는 뒤를 돌아 피오나 일행의 모습을 포착했다──"
+
+[[dialogue]]
+speaker_original = "ホロウ・ルヴィネ"
+speaker_translation = "할로우・루비네"
+original = "「一方的な……じゅう…………りん…………」"
+translation = "「일방적인…… 유………… 린…………」"
+
+[[dialogue]]
+speaker_original = "ジュエリー"
+speaker_translation = "쥬얼리"
+original = "「やあ、神の従僕──デネブでの戦い以来だね。助手の力によってパワーアップした私たちの力。とくと見せてあげようじゃないか」"
+translation = "「안녕, 신의 종복── 데네브 전투 이후로군. 조수의 힘으로 파워 업한 우리의 힘, 똑똑히 보여주지 않겠나」"
+
+[[dialogue]]
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
+original = "「こ、ここで会ったが１００年目！\u3000ホロウ・ルヴィネ──容赦はしませんっ！！」"
+translation = "「여, 여기서 만난 게 100년째! 홀로우 루비네── 용서하지 않겠습니다!!」"
+
+[[dialogue]]
+speaker_original = "イレーナ"
+speaker_translation = "이레이나"
+original = "「せ、世界の安寧のため……女神様の遺志を未来へ繋ぐため！\u3000今日こそ貴女を滅します！」"
+translation = "「세, 세계의 안녕을 위해…… 여신님의 유지를 미래로 잇기 위해! 오늘이야말로 당신을 멸하겠습니다!」"
+
+[[dialogue]]
+speaker_original = "ホロウ・ルヴィネL"
+speaker_translation = "할로우 루비네 L"
+original = "「視覚情報にエラーが……？\u3000そんな…………いったい、何が…………？」"
+translation = "「시각 정보에 에러가……? 그런………… 대체 뭐가…………?」"
+
+[[dialogue]]
+speaker_original = "ホロウ・ルヴィネL"
+speaker_translation = "할로우 루비네 L"
+original = "「？？？？\u3000……？？\u3000？？？」"
+translation = "「???? ……?? ???」"
+
+[[dialogue]]
+speaker_original = "イレーナ"
+speaker_translation = "이레이나"
+original = "（やっぱり！\u3000ドン引きしてるじゃないの！？\u3000何なのよこの衣装は～っ！？）"
+translation = "（역시! 질겁하고 있잖아!? 대체 뭐야 이 의상은~!?）"
+
+[[dialogue]]
+speaker_original = "イレーナ"
+speaker_translation = "이레이나"
+original = "（幹内世界のあたしから力を受け取れたのはいいんだけど！\u3000どうして衣装を選べないのよ！？）"
+translation = "（간내세계의 나로부터 힘을 받은 건 좋은데! 어째서 의상을 고를 수 없는 거야!?）"
+
+[[dialogue]]
+speaker_original = "ジュエリー"
+speaker_translation = "쥬얼리"
+original = "「おやおや。神の従僕ともあろう者が情けない。戦場で随分と気の抜けた顔をするじゃないか」"
+translation = "「이런 이런. 신의 종복이라는 자가 한심하군. 전장에서 상당히 넋 나간 얼굴을 하고 있지 않나」"
+
+[[dialogue]]
+speaker_original = "ホロウ・ルヴィネ"
+speaker_translation = "할로우・루비네"
+original = "「な──何なのその格好は！？\u3000ふざけているの！？」"
+translation = "「머── 뭐야 그 차림은!? 장난치는 거야!?」"
+
+[[dialogue]]
+speaker_original = "ジュエリー"
+speaker_translation = "쥬얼리"
+original = "「まさか、真面目も真面目、大真面目さ。疑うのならば、私たちの星力を感知してみるといい」"
+translation = "「설마, 진지하다 못해 매우 진지하다네. 의심스럽다면 우리의 성력을 감지해 보도록 해」"
+
+[[dialogue]]
+speaker_original = "ホロウ・ルヴィネL"
+speaker_translation = "할로우 루비네 L"
+original = "「──っ！？\u3000な、なぜっ……デネブで戦った時の、数倍の星力を宿している……そんなバカなっ！？」"
+translation = "「──윽!? 어, 어째서…… 데네브에서 싸웠을 때보다 몇 배의 성력을 품고 있어…… 그런 말도 안 되는 일이!?」"
+
+[[dialogue]]
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
+original = "「この衣装が発現した時は少々二の足を踏みましたが……世界を救うために必要であるのなら！\u3000格好にこだわっている場合ではありません！」"
+translation = "「이 의상이 발현되었을 때는 조금 주저했습니다만…… 세계를 구하기 위해 필요한 것이라면! 겉모습을 따질 때가 아닙니다!」"
+
+[[dialogue]]
+speaker_original = "ホロウ・ルヴィネ"
+speaker_translation = "할로우・루비네"
+original = "「くっ……異常事態だわ！\u3000お、お父様……！！」"
+translation = "「큭…… 이상 사태야! 아, 아버님……!!」"
+
+[[dialogue]]
+speaker_original = "ＸＥＬＯＳ"
+speaker_translation = "제로스"
+original = "「ギ────ギ、ギギ────ギ────！？！？」"
+translation = "「기────기, 기기────기────!?!?」"
+
+[[dialogue]]
+speaker_original = "ホロウ・ルヴィネ"
+speaker_translation = "할로우・루비네"
+original = "「そ、そんな……！\u3000お父様ですら、起こっている事態を把握できていないっ！？」"
+translation = "「그, 그럴 수가……! 아버님조차 일어나고 있는 사태를 파악하지 못하고 있어!?」"
+
+[[dialogue]]
+speaker_original = "ホロウ・ルヴィネ"
+speaker_translation = "할로우・루비네"
+original = "「お、恐れている……怯えている……！？\u3000お、お父様！\u3000気を確かに……！！」"
+translation = "「두, 두려워하고 있어…… 겁먹고 있어……!? 아, 아버님! 정신 차리세요……!!」"
+
+[[dialogue]]
+speaker_original = "ジュエリー"
+speaker_translation = "쥬얼리"
+original = "「ふふ……怖いかい？\u3000それもそうだろう、今の私たちは無敵だ。助手との間に紡いだ、無限の宇宙の愛を纏っているのだからね」"
+translation = "「후후…… 무서운가? 그럴 만도 하지, 지금의 우리는 무적이다. 조수와의 사이에 자아낸 무한한 우주의 사랑을 두르고 있으니까 말이야」"
+
+[[dialogue]]
+speaker_original = "イレーナ"
+speaker_translation = "이레이나"
+original = "「呆れてるだけでしょ……敵ながら同情するわ、ほんとに」"
+translation = "「질린 것뿐이겠지…… 적이지만 동정하게 되네, 정말로」"
+
+[[dialogue]]
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
+original = "「緋宮会長をベガ世界に呼ぶためにも──ホロウ・ルヴィネ！\u3000そして『<ruby>ＸＥＬＯＳ<rt>ゼロス</rt></ruby>』！\u3000このポイントを解放させていただきます！」"
+translation = "「히노미야 회장님을 베가 세계로 부르기 위해서도── 홀로우 루비네! 그리고 『<ruby>XELOS<rt>제로스</rt></ruby>』! 이 포인트를 해방하겠습니다!」"
+
+[[dialogue]]
+speaker_original = "ホロウ・ルヴィネL"
+speaker_translation = "할로우 루비네 L"
+original = "「くっ！\u3000ふざけた格好でふざけたことを……！\u3000どこまで私をコケにするつもり！？\u3000せめてノヴァフォームで来なさい！！」"
+translation = "「큭! 웃기는 차림으로 웃기는 소리를……! 어디까지 나를 바보 취급할 셈이야!? 적어도 노바 폼으로 오란 말이야!!」"
+
+[[dialogue]]
+speaker_original = "ミヤハル"
+speaker_translation = "미야하루"
+original = "「うふふ。もっともなつっこみやねぇ♪」"
+translation = "「우후후. 구구절절 맞는 말이구마잉♪」"
+
+[[dialogue]]
+speaker_original = "ジュエリー"
+speaker_translation = "쥬얼리"
+original = "「生憎、戦闘服の選択はできないようでね。全力を出すと、どうしてもこの衣装になってしまうんだよ」"
+translation = "「안타깝게도 전투복 선택권은 없는 모양이라서 말이지. 전력을 내면 아무래도 이 의상이 되어버린단다」"
+
+[[dialogue]]
+speaker_original = "ミヤハル"
+speaker_translation = "미야하루"
+original = "「ええやん、ええやん。なーんも問題あらへんよ♪\u3000ジュエリーはん、最後に世界を救うのは、いつだって愛と煩悩やからねぇ♪」"
+translation = "「괘안타, 괘안타. 아~무 문제 엄따♪ 쥬얼리 한, 마지막에 세계를 구하는 건 언제나 사랑과 번뇌니까네♪」"
+
+[[dialogue]]
+speaker_original = "ジュエリー"
+speaker_translation = "쥬얼리"
+original = "「む？\u3000何か余計な単語がくっついていた気が……？」"
+translation = "「음? 뭔가 불필요한 단어가 붙어 있었던 기분이……?」"
+
+[[dialogue]]
+speaker_original = "ミヤハル"
+speaker_translation = "미야하루"
+original = "「フィオナ会長にイレーナはんも、えろう似合うてて……花嫁はんの戦いぶり、この目に焼き付けさせてもらうわぁ♪」"
+translation = "「피오나 회장 한에 이레나 한도 억수로 잘 어울리고…… 신부 한의 싸움 모습, 이 눈에 똑똑히 새겨두겠데이♪」"
+
+[[dialogue]]
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
+original = "「そ、そんなにジロジロと見られると、少し居心地が……」"
+translation = "「그, 그렇게 빤히 쳐다보시면 조금 거북함이……」"
+
+[[dialogue]]
+speaker_original = "ミヤハル"
+speaker_translation = "미야하루"
+original = "「何を言うてはるの♪\u3000花嫁はんは、見られるんがお仕事やろ？」"
+translation = "「무슨 소리를 하는 기고♪ 신부 한은 남들한테 보여지는 게 일 아이가?」"
+
+[[dialogue]]
+speaker_original = "イレーナ"
+speaker_translation = "이레이나"
+original = "（どんな羞恥プレイよ！？\u3000さっさとホロウたちを倒して、すぐにこの衣装、脱がなきゃ……！！）"
+translation = "（무슨 수치 플레이냐고!? 빨리 홀로우들을 쓰러뜨리고 바로 이 의상, 벗어야겠어……!!）"
+
+[[dialogue]]
+speaker_original = "ルルカ"
+speaker_translation = "루루카"
+original = "「よーっし！\u3000お兄ちゃんのためにも、絶対に『星喰らい』を倒さなきゃ！」"
+translation = "「좋아~! 오빠를 위해서라도 절대로 호시쿠라이를 쓰러뜨려야 해!」"
+
+[[dialogue]]
+speaker_original = "シャロン"
+speaker_translation = "샤론"
+original = "「会長さまから授かった新たな力……バレンタインフォーム。使いこなしてみせます！」"
+translation = "「회장님으로부터 하사받은 새로운 힘…… 발렌타인 폼. 능숙하게 다뤄 보이겠습니다!」"
+
+[[dialogue]]
+speaker_original = "イクシリオン"
+speaker_translation = "익실리온"
+original = "「花嫁……煩悩……はぅあっ！？\u3000あ、危ないっ……また妄想の世界に旅立ってしまうところでしたっ！」"
+translation = "「신부…… 번뇌…… 하으앗!? 위, 위험해…… 또 망상의 세계로 여행을 떠날 뻔했습니다!」"
+
+[[dialogue]]
+speaker_original = "ホロウ・ルヴィネL"
+speaker_translation = "할로우 루비네 L"
+original = "「──！？\u3000何なのよお前たちは！？\u3000普通の星騎士はいないの！？」"
+translation = "「──!? 뭐야 너희는!? 평범한 성기사는 없는 거야!?」"
+
+[[dialogue]]
+speaker_original = "ウルスラ"
+speaker_translation = "우르슬라"
+original = "「ふふふ♪\u3000チョコの甘い香りが満ち満ちて……バレンタインフォームですか。嗚呼──素晴らしいです<emoji=heart04>」"
+translation = "「후후후♪ 초코의 달콤한 향기가 가득해서…… 발렌타인 폼인가요. 아아── 아름답습니다<emoji=heart04>」"
+
+[[dialogue]]
+speaker_original = "ウルスラ"
+speaker_translation = "우르슬라"
+original = "「麗しい見た目のバレンタインフォームの方々を見ていると、私もどんどん星力が湧き出てきちゃいます～っ<emoji=heart04>」"
+translation = "「고운 모습의 발렌타인 폼 분들을 보고 있으면 저도 점점 성력이 솟구쳐 버려요~<emoji=heart04>」"
+
+[[dialogue]]
+speaker_original = "ルルカ"
+speaker_translation = "루루카"
+original = "「わわっ！？\u3000ウルスラさんの星力が急にぐーんって伸びた！？\u3000なんでぇっ！？」"
+translation = "「와왓!? 우르술라 씨의 성력이 갑자기 쭉쭉 늘어났어!? 어째서!?」"
+
+[[dialogue]]
+speaker_original = "ウルスラ"
+speaker_translation = "우르슬라"
+original = "「私はバレンタイン当日に爆発的に星力が伸びる星騎士……もちろん今日はバレンタインではありません」"
+translation = "「저는 발렌타인 당일에 폭발적으로 성력이 늘어나는 성기사…… 물론 오늘은 발렌타인이 아니죠」"
+
+[[dialogue]]
+speaker_original = "ウルスラ"
+speaker_translation = "우르슬라"
+original = "「ですが、こんなにも素敵な愛とチョコの波動があれば──バレンタイン当日と言っても差し支えないでしょう♪」"
+translation = "「하지만 이렇게나 멋진 사랑과 초코의 파동이 있다면── 발렌타인 당일이라고 해도 과언이 아니겠지요♪」"
+
+[[dialogue]]
+speaker_original = "ルルカ"
+speaker_translation = "루루카"
+original = "「そういう問題なんですか！？\u3000自由過ぎない～っ！？」"
+translation = "「그런 문제인 거예요!? 너무 자유롭잖아~!」"
+
+[[dialogue]]
+speaker_original = "ホロウ・ルヴィネ"
+speaker_translation = "할로우・루비네"
+original = "「な、なぜっ……味方のバレンタインフォームを見ているだけなのに、この女は戦闘力が引き上げられているの！？」"
+translation = "「어, 어째서…… 아군의 발렌타인 폼을 보고 있을 뿐인데 이 여자는 전투력이 끌어올려지는 거야!?」"
+
+[[dialogue]]
+speaker_original = "エステル"
+speaker_translation = "에스텔"
+original = "「す、すごい光景ですねケイティさん。皆様の星力が溢れ続け、眩しいほどです……！」"
+translation = "「대, 대단한 광경이네요 케이티 씨. 여러분의 성력이 계속 흘러넘쳐 눈부실 정도입니다……!」"
+
+[[dialogue]]
+speaker_original = "ケイティ"
+speaker_translation = "케이티"
+original = "「そうですね……ウェディングフォームにバレンタインフォーム。異なる世界の、魔王さんとの絆が形になる……このような奇蹟に出会えるとは」"
+translation = "「그렇네요…… 웨딩 폼에 발렌타인 폼. 다른 세계의 마왕님과의 유대감이 형태가 된 것…… 이런 기적을 만날 수 있을 줄이야」"
+
+[[dialogue]]
+speaker_original = "エステル"
+speaker_translation = "에스텔"
+original = "「私たちには、新たな戦闘服こそございませんが──」"
+translation = "「저희에게는 새로운 전투복은 없습니다만──」"
+
+[[dialogue]]
+speaker_original = "ケイティ"
+speaker_translation = "케이티"
+original = "「それでも、幹内世界から星力を借り受けることはできるようです。魔王さんの御力に感謝ですね」"
+translation = "「그래도 간내세계로부터 성력을 빌려받을 수는 있는 모양입니다. 마왕님의 저력에 감사해야겠네요」"
+
+[[dialogue]]
+speaker_original = "エステル"
+speaker_translation = "에스텔"
+original = "「はい！\u3000エステル・ミルフォード……全力で参ります！」"
+translation = "「네! 에스텔 밀포드…… 전력으로 가겠습니다!」"
+
+[[dialogue]]
+speaker_original = "ケイティ"
+speaker_translation = "케이티"
+original = "「世界を乱す輩に鉄槌を……『制圧』させていただきましょう！」"
+translation = "「세계를 어지럽히는 무리에게 철퇴를…… 『제압』해 드리도록 하죠!」"
+
+[[dialogue]]
+speaker_original = "ホロウ・ルヴィネ"
+speaker_translation = "할로우・루비네"
+original = "「こ、この２人だけはまとものようね……」"
+translation = "「이, 이 둘만큼은 제정신인 모양이네……」"
+
+[[dialogue]]
+speaker_original = "マトイ"
+speaker_translation = "마토이"
+original = "「二刀流の巫女……こういう力を身に着ける可能性も、私にはあるんだね！\u3000会長から貰った力で、世界を救わなきゃ！」"
+translation = "「이도류 무녀…… 이런 힘을 익힐 가능성도 내게는 있는 거구나! 회장님에게 받은 힘으로 세계를 구해야지!」"
+
+[[dialogue]]
+speaker_original = "ホロウ・ルヴィネL"
+speaker_translation = "할로우 루비네 L"
+original = "「って言ったそばから！\u3000普通じゃないやつが来たわ！？」"
+translation = "「라고 말하자마자! 정상이 아닌 녀석이 왔어!?」"
+
+[[dialogue]]
+speaker_original = "マトイ"
+speaker_translation = "마토이"
+original = "「私が────普通じゃない！？\u3000本当に！？」"
+translation = "「내가──── 정상이 아니라고!? 정말로!?」"
+
+[[dialogue]]
+speaker_original = "ホロウ・ルヴィネ"
+speaker_translation = "할로우・루비네"
+original = "「世界の命運をかけた戦いに、巫女服で来る輩が普通なわけがないでしょう！？\u3000ノヴァフォームはどうしたの！？」"
+translation = "「세계의 운명이 걸린 싸움에 무녀복 입고 오는 놈이 정상일 리가 없잖아!? 노바 폼은 어찌한 거야!?」"
+
+[[dialogue]]
+speaker_original = "マトイ"
+speaker_translation = "마토이"
+original = "「普通じゃないっ……普通じゃないんだ、今の私！！！」"
+translation = "「정상이 아니야…… 정상이 아닌 거야, 지금의 나!!!」"
+
+[[dialogue]]
+speaker_original = "ホロウ・ルヴィネL"
+speaker_translation = "할로우 루비네 L"
+original = "「どうして喜んでいるの！？\u3000お、恐ろしい……こいつら、頭がどうかしているんだわ！！」"
+translation = "「어째서 기뻐하는 거야!? 무, 무서워…… 이 녀석들, 머리가 어떻게 된 게 분명해!!」"
+
+[[dialogue]]
+speaker_original = "ＸＥＬＯＳ"
+speaker_translation = "제로스"
+original = "「ギ────ガ、ガガ────！！」"
+translation = "「기────가, 가가────!!」"
+
+[[dialogue]]
+speaker_original = "ホロウ・ルヴィネ"
+speaker_translation = "할로우・루비네"
+original = "「……っ！\u3000緋宮クロトの権能？\u3000無数の可能性の宇宙に、働きかけを行っていると……！？」"
+translation = "「……윽! 히노미야 쿠로토의 권능? 무수한 가능성의 우주에 작용을 가하고 있다고……!?」"
+
+[[dialogue]]
+speaker_original = "ホロウ・ルヴィネ"
+speaker_translation = "할로우・루비네"
+original = "「異なる世界に干渉する力……フロンティアドライブ？\u3000そ、そんな……！！」"
+translation = "「다른 세계에 간섭하는 힘…… 프론티어 드라이브? 거, 그럴 수가……!!」"
+
+[[dialogue]]
+speaker_original = "ホロウ・ルヴィネ"
+speaker_translation = "할로우・루비네"
+original = "「緋宮クロト……やはりあの男は、存在してはならない！！」"
+translation = "「히노미야 쿠로토…… 역시 그 남자는 존재해서는 안 돼!!」"
+
+[[dialogue]]
+speaker_original = "ホロウ・ルヴィネL"
+speaker_translation = "할로우 루비네 L"
+original = "「……いいでしょう。ふざけた格好で死にたいのなら、お望みどおりにしてあげるわ……！！」"
+translation = "「……좋아. 웃기는 차림으로 죽고 싶다면 소원대로 해 주지……!!」"
+
+[[dialogue]]
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
+original = "「皆さん、戦闘準備を──来ますっ！！」"
+translation = "「여러분, 전투 준비를── 옵니다!」"
+

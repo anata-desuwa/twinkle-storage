@@ -1,0 +1,380 @@
+[[dialogue]]
+speaker = "unk"
+original = "第２話,変わった好きでも分け合いたい,P"
+translation = "제2화, 변한 취향이어도 나누고 싶어"
+
+[[dialogue]]
+speaker = "unk"
+original = "その日、俺たちは以前にも訪れた激辛ラーメン店『ボルケーノ』へとやって来ていた。"
+translation = "그날 우리들은 이전에도 방문했던 매운 라면 가게 『볼케이노』에 와 있었다."
+
+[[dialogue]]
+speaker = "unk"
+original = "ＳＮＳで新たなチャレンジメニューの告知を見たマインに誘われ、食べに来たのだ。"
+translation = "SNS에서 새로운 챌린지 메뉴 공지를 본 네제마인의 권유로 먹으러 온 것이다."
+
+[[dialogue]]
+speaker_original = "ネーゼマイン"
+speaker_translation = "네제마인"
+original = "「こんにちは～♪\u3000大将～、食べに来ました～」"
+translation = "「안녕하세요~♪ 사장님~ 먹으러 왔어요~」"
+
+[[dialogue]]
+speaker_original = "ラーメン店主"
+speaker_translation = "라면집 주인"
+original = "「いらっしゃいやせェ！\u3000おっ、ラーメンキングの嬢ちゃんと、会長の兄ちゃん！\u3000来てくれると思ってたぜ！」"
+translation = "「어서 오쇼! 오옷, 라면 킹 아가씨랑 회장 형씨! 와줄 줄 알았다고!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "『ラーメンキング』とは、この店の早食いチャレンジ１位に与えられる称号で、現在はマインが保持していた。"
+translation = "『라면 킹』이란 이 가게의 빨리 먹기 챌린지 1위에게 주어지는 칭호로, 현재는 네제마인이 보유하고 있었다."
+
+[[dialogue]]
+speaker_original = "ネーゼマイン"
+speaker_translation = "네제마인"
+original = "「にひひ♪\u3000今日は早速、新メニューにチャレンジしに来たよ」"
+translation = "「니히히♪ 오늘은 냉큼 신메뉴에 챌린지 하러 왔어」"
+
+[[dialogue]]
+speaker_original = "ラーメン店主"
+speaker_translation = "라면집 주인"
+original = "「ありがとな。ただ、心苦しいんだが、今回から早食いで順位を決めるのはやめようと思ってな」"
+translation = "「고맙구먼. 다만 미안하게도 이번부터는 빨리 먹기로 순위를 정하는 건 그만두려고 해서 말야」"
+
+[[dialogue]]
+speaker_original = "ネーゼマイン"
+speaker_translation = "네제마인"
+original = "「ありゃ、そうなの？」"
+translation = "「어라, 그래요?」"
+
+[[dialogue]]
+speaker_original = "ラーメン店主"
+speaker_translation = "라면집 주인"
+original = "「ああ。『ラーメンプリンセス』の食べっぷりを見て、大事なことを思い出しちまったんでなァ」"
+translation = "「어. 『라면 프린세스』가 먹는 모습을 보고 중요한 걸 떠올려 버렸거든」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ラーメンプリンセス……？"
+translation = "라면 프린세스……?"
+
+[[dialogue]]
+speaker_original = "ラーメン店主"
+speaker_translation = "라면집 주인"
+original = "「俺が勝手に付けた称号さ。ほら、あそこで食べてるあの嬢ちゃんだ」"
+translation = "「내가 마음대로 붙인 칭호야. 봐, 저기서 먹고 있는 저 아가씨라고」"
+
+[[dialogue]]
+speaker_original = "モネ"
+speaker_translation = "모네"
+original = "「はあぁ……とても素晴らしい激辛ラーメンでした……♪\u3000よいしょっと」"
+translation = "「하아아…… 정말 훌륭한 매운 라면이었어요……♪ 영차」"
+
+[[dialogue]]
+speaker = "unk"
+original = "そう言って、満足げに席を立ち上がったのは、知っている人物だった。"
+translation = "그렇게 말하며 만족스럽게 자리에서 일어난 것은 아는 인물이었다."
+
+[[dialogue]]
+speaker_original = "ネーゼマイン"
+speaker_translation = "네제마인"
+original = "「図書委員の、モネ先輩？」"
+translation = "「도서위원인 모네 선배?」"
+
+[[dialogue]]
+speaker_original = "モネ"
+speaker_translation = "모네"
+original = "「あれ？\u3000会長と……ネーゼマインさん？」"
+translation = "「어레? 회장이랑…… 네제마인 씨?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "彼女は新星学園２年、『紙屋敷モネ』。いつも本を持ち歩いているくらい本好きな、名物図書委員である。"
+translation = "그녀는 신성학원 2학년 『카미야시키 모네』. 항상 책을 들고 다닐 정도로 책을 좋아하는 유명한 도서위원이다."
+
+[[dialogue]]
+speaker_original = "ネーゼマイン"
+speaker_translation = "네제마인"
+original = "「いや～、モネ先輩が激辛好きっていうのは、会長から聞いてたけど……まさかここのチャレンジメニューを完食できる程とはね～」"
+translation = "「이야~ 모네 선배가 매운 걸 좋아한다는 건 회장한테 들었지만…… 설마 여기 챌린지 메뉴를 완식할 수 있을 정도일 줄이야~」"
+
+[[dialogue]]
+speaker_original = "モネ"
+speaker_translation = "모네"
+original = "「私も驚きました。ネーゼマインさんがまさかラーメンキングだったなんて……」"
+translation = "「저도 놀랐어요. 네제마인 씨가 설마 라면 킹이었다니……」"
+
+[[dialogue]]
+speaker_original = "ネーゼマイン"
+speaker_translation = "네제마인"
+original = "「で、先輩の『ラーメンプリンセス』っていうのは？」"
+translation = "「그래서 선배의 『라면 프린세스』라는 건?」"
+
+[[dialogue]]
+speaker_original = "モネ"
+speaker_translation = "모네"
+original = "「ああ、それは……今回の新チャレンジメニューを作るきっかけになったのが、お恥ずかしながら私みたいで……」"
+translation = "「아아, 그건…… 이번 신규 챌린지 메뉴를 만드는 계기가 된 게 부끄럽게도 저인 것 같아서……」"
+
+[[dialogue]]
+speaker_original = "ラーメン店主"
+speaker_translation = "라면집 주인"
+original = "「プリンセスの嬢ちゃんはな、チャレンジメニューでも全然早食いはしねェんだ」"
+translation = "「프린세스 아가씨는 말이지, 챌린지 메뉴인데도 전혀 빨리 먹기를 안 해」"
+
+[[dialogue]]
+speaker_original = "モネ"
+speaker_translation = "모네"
+original = "「私、早食いは苦手なんですけど、激辛料理は大好きなんです♪」"
+translation = "「저, 빨리 먹기는 잘 못하지만 매운 요리는 정말 좋아하거든요♪」"
+
+[[dialogue]]
+speaker_original = "ラーメン店主"
+speaker_translation = "라면집 주인"
+original = "「そんで、うちのボルケーノラーメン１００倍をよ、それはもう美味そうに食べてくれてな。しかも感想まで丁寧に伝えてくれて……それで思い出したのさ」"
+translation = "「그래서 우리 집 볼케이노 라면 100배를 말야, 아주 맛있게 먹어주더라고. 게다가 소감까지 정중하게 전해줘서…… 그래서 떠올린 거야」"
+
+[[dialogue]]
+speaker_original = "ラーメン店主"
+speaker_translation = "라면집 주인"
+original = "「辛けりゃいいってわけじゃねェ。俺はもともと『辛くて美味いラーメン』を食べてもらいたくて、この店を始めたんだってな」"
+translation = "「맵기만 하면 장땡이 아니지. 나는 원래 『매우면서도 맛있는 라면』을 대접하고 싶어서 이 가게를 시작했었다는 걸 말야」"
+
+[[dialogue]]
+speaker_original = "ネーゼマイン"
+speaker_translation = "네제마인"
+original = "「なるほどね。それで新メニューの『ノヴァボルケーノラーメン』を作ったってわけだ」"
+translation = "「과연 그렇네. 그래서 신메뉴 『노바 볼케이노 라면』을 만들었다는 거구나」"
+
+[[dialogue]]
+speaker_original = "モネ"
+speaker_translation = "모네"
+original = "「とても素晴らしかったです♪\u3000辛さと旨味の調和がさらに洗練されていて……まるで、口の中で新星爆発が起きるような……！」"
+translation = "「정말 훌륭했어요♪ 매운맛과 감칠맛의 조화가 더욱 세련되어서…… 마치 입안에서 초신성 폭발이 일어나는 것 같은……!」"
+
+[[dialogue]]
+speaker_original = "モネ"
+speaker_translation = "모네"
+original = "「激辛好きなら、きっと唸る美味しさだと思います♪」"
+translation = "「매운 걸 좋아하신다면 분명 감탄할 만한 맛이라고 생각해요♪」"
+
+[[dialogue]]
+speaker_original = "ラーメン店主"
+speaker_translation = "라면집 주인"
+original = "「あんがとよ！\u3000そういうわけで、キングの嬢ちゃんも、ぜひ食べてくれぃ！」"
+translation = "「고맙구먼! 그런 이유로 킹 아가씨도 꼭 먹어주쇼!」"
+
+[[dialogue]]
+speaker_original = "ネーゼマイン"
+speaker_translation = "네제마인"
+original = "「辛いだけじゃない激辛ラーメン、ね……それじゃあ――いただきま～す♪」"
+translation = "「맵기만 한 게 아닌 매운 라면이라…… 그럼── 잘 먹겠습니다~♪」"
+
+[[dialogue]]
+speaker_original = "ネーゼマイン"
+speaker_translation = "네제마인"
+original = "「……ふぅ」"
+translation = "「……후우」"
+
+[[dialogue]]
+speaker = "unk"
+original = "マインはしばらく静かに食べ続けた後、ひと息つく。"
+translation = "네제마인은 한동안 조용히 계속 먹은 뒤 한숨을 돌린다."
+
+[[dialogue]]
+speaker_original = "ラーメン店主"
+speaker_translation = "라면집 주인"
+original = "「……どうだい、キングの嬢ちゃん？」"
+translation = "「……어떠냐, 킹 아가씨?」"
+
+[[dialogue]]
+speaker_original = "ネーゼマイン"
+speaker_translation = "네제마인"
+original = "「――正直、もっと辛いラーメンを求めるなら、他にもあると思う」"
+translation = "「──솔직히 더 매운 라면을 원한다면 다른 곳도 있다고 생각해」"
+
+[[dialogue]]
+speaker_original = "ネーゼマイン"
+speaker_translation = "네제마인"
+original = "「でも……ここまで辛さと旨味が引き立て合ってる味のラーメンは、初めてだよ」"
+translation = "「하지만…… 이 정도로 매운맛과 감칠맛이 서로를 끌어올려 주는 맛의 라면은 처음이야」"
+
+[[dialogue]]
+speaker_original = "ネーゼマイン"
+speaker_translation = "네제마인"
+original = "「うん。今まで私が食べてきた激辛ラーメンで、これが１番美味しい。――気に入った♪」"
+translation = "「응. 지금까지 내가 먹어온 매운 라면 중에서 이게 제일 맛있어. ──마음에 들었어♪」"
+
+[[dialogue]]
+speaker_original = "ラーメン店主"
+speaker_translation = "라면집 주인"
+original = "「よっし！\u3000やったぜ！」"
+translation = "「좋았어! 해냈구먼!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "こっちの新メニューも、すごく美味しいです！"
+translation = "이쪽 신메뉴도 정말 맛있어요!"
+
+[[dialogue]]
+speaker_original = "ラーメン店主"
+speaker_translation = "라면집 주인"
+original = "「あんがとよ、会長の兄ちゃん！\u3000激辛が食べられない人向けに『旨辛ボルケーノラーメン』も改めて作ってみたんだ！」"
+translation = "「고맙구먼, 회장 형씨! 매운 걸 못 드시는 분들을 위해 『맛있게 매운 볼케이노 라면』도 새롭게 만들어 봤거든!」"
+
+[[dialogue]]
+speaker_original = "ネーゼマイン"
+speaker_translation = "네제마인"
+original = "「……でも、なんかモネ先輩には負けた気分だな～」"
+translation = "「……하지만 왠지 모네 선배한테는 진 기분이네~」"
+
+[[dialogue]]
+speaker_original = "モネ"
+speaker_translation = "모네"
+original = "「え？\u3000私にですか？」"
+translation = "「에? 저한테요?」"
+
+[[dialogue]]
+speaker_original = "ネーゼマイン"
+speaker_translation = "네제마인"
+original = "「うん。私、最近は激辛の刺激ばっかり追ってた気がするからさ」"
+translation = "「응. 나 최근에는 매운 자극만 쫓아다녔던 기분이 들어서 말야」"
+
+[[dialogue]]
+speaker_original = "モネ"
+speaker_translation = "모네"
+original = "「私は本を読むみたいに、激辛料理もじっくり味わうのが好きなんです」"
+translation = "「저는 책을 읽는 것처럼 매운 요리도 차분히 음미하는 걸 좋아해요」"
+
+[[dialogue]]
+speaker_original = "ネーゼマイン"
+speaker_translation = "네제마인"
+original = "「……なるほどね。私もちょっと見直さないとな～」"
+translation = "「……과연 그렇네. 나도 좀 다시 생각해야겠는걸~」"
+
+[[dialogue]]
+speaker_original = "モネ"
+speaker_translation = "모네"
+original = "「あの……よかったら今度、一緒に他の激辛料理も食べに行きませんか？」"
+translation = "「저기…… 괜찮으시다면 다음에 같이 다른 매운 요리도 먹으러 가지 않을래요?」"
+
+[[dialogue]]
+speaker_original = "ネーゼマイン"
+speaker_translation = "네제마인"
+original = "「え？\u3000私と？」"
+translation = "「에? 나랑?」"
+
+[[dialogue]]
+speaker_original = "モネ"
+speaker_translation = "모네"
+original = "「はい。自分と同じレベルで激辛のを食べられる人が、周りにはなかなかいなくて……」"
+translation = "「네. 저랑 같은 레벨로 매운 걸 먹을 수 있는 사람이 주변에 좀처럼 없어서……」"
+
+[[dialogue]]
+speaker_original = "ネーゼマイン"
+speaker_translation = "네제마인"
+original = "「……じゃあとりあえず、連絡先交換しときます？」"
+translation = "「……그럼 일단 연락처 교환해둘까요?」"
+
+[[dialogue]]
+speaker_original = "モネ"
+speaker_translation = "모네"
+original = "「はいっ♪\u3000ありがとうございます！」"
+translation = "「네♪ 감사합니다!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "そうしてラーメンを食べ終え、店を出たところでモネと別れてから、俺たちは街を歩くことにした。"
+translation = "그렇게 라면을 다 먹고 가게를 나와 모네와 헤어진 뒤, 우리들은 거리를 걷기로 했다."
+
+[[dialogue]]
+speaker_original = "ネーゼマイン"
+speaker_translation = "네제마인"
+original = "「モネ先輩か～……大人しそうな性格の人だけど、私と合うかな～」"
+translation = "「모네 선배인가~…… 얌전해 보이는 성격인데 나랑 맞으려나~」"
+
+[[dialogue]]
+speaker = "unk"
+original = "意外と合うと思うぞ"
+translation = "의외로 잘 맞을 것 같아."
+
+[[dialogue]]
+speaker_original = "ネーゼマイン"
+speaker_translation = "네제마인"
+original = "「え？\u3000――本がオールジャンル行ける人だから、意外と誰とでも話せるって？\u3000ふ～ん、それがマジなら、面白そうだけど……」"
+translation = "「에? ──책을 올 장르 섭렵하는 사람이니까 의외로 누구와도 대화가 통한다구? 흠~ 그게 진짜라면 재밌을 것 같지만……」"
+
+[[dialogue]]
+speaker = "unk"
+original = "と、そこで少し間を置いた後、マインは俺の目を見てから言う。"
+translation = "거기서 잠시 뜸을 들인 뒤, 네제마인은 내 눈을 보며 말한다."
+
+[[dialogue]]
+speaker_original = "ネーゼマイン"
+speaker_translation = "네제마인"
+original = "「あのさ、会長。さっきのことで思ったんだけど……」"
+translation = "「저기 말야, 회장. 아까 일로 생각한 건데……」"
+
+[[dialogue]]
+speaker_original = "ネーゼマイン"
+speaker_translation = "네제마인"
+original = "「会長もさ、無理に私に合わせて、激辛料理を食べようとしなくてもいいからね」"
+translation = "「회장도 말야, 억지로 나한테 맞춰서 매운 요리를 먹으려 하지 않아도 되니까」"
+
+[[dialogue]]
+speaker_original = "ネーゼマイン"
+speaker_translation = "네제마인"
+original = "「私はつい刺激的なことを求めちゃうけど……そこが自分の悪いところだって自覚してるからさ」"
+translation = "「나는 무심코 자극적인 것만 추구해 버리지만…… 그게 내 나쁜 점이라는 건 자각하고 있으니까 말야」"
+
+[[dialogue]]
+speaker_original = "ネーゼマイン"
+speaker_translation = "네제마인"
+original = "「無理な時は、遠慮せずに無理って言ってくれていいから」"
+translation = "「무리일 때는 사양 말고 무리라고 말해줘도 돼」"
+
+[[dialogue]]
+speaker = "unk"
+original = "大丈夫。無理はしてないよ"
+translation = "괜찮아. 무리하는 거 아냐."
+
+[[dialogue]]
+speaker = "unk"
+original = "俺は、自分が好きな子の『好きなもの』を、一緒に楽しみたいと思っているだけだ。"
+translation = "나는 내가 좋아하는 아이의 『좋아하는 것』을 함께 즐기고 싶을 뿐이야."
+
+[[dialogue]]
+speaker_original = "ネーゼマイン"
+speaker_translation = "네제마인"
+original = "「私の『好きなもの』を、分かろうとしてくれてるってこと……？」"
+translation = "「내 『좋아하는 것』을 이해하려고 해준다는 거야……?」"
+
+[[dialogue]]
+speaker_original = "ネーゼマイン"
+speaker_translation = "네제마인"
+original = "「……そっか。じゃあ――これからもオススメを教えるね♪」"
+translation = "「……그렇구나. 그럼── 앞으로도 추천 메뉴 알려줄게♪」"
+
+[[dialogue]]
+speaker_original = "ネーゼマイン"
+speaker_translation = "네제마인"
+original = "「今度はモネ先輩も誘って、激辛巡りでもする？」"
+translation = "「이번에는 모네 선배도 불러서 매운 요리 순회라도 할까?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "できれば『旨辛』もある店で"
+translation = "가급적 『맛있게 매운맛』도 있는 가게로."
+
+[[dialogue]]
+speaker_original = "ネーゼマイン"
+speaker_translation = "네제마인"
+original = "「にひひ♪\u3000わかってるって♪」"
+translation = "「니히히♪ 알고 있다니깐♪」"
+
+[[dialogue]]
+speaker = "unk"
+original = "マインはそう言って、晴れやかな笑みを浮かべるのだった。"
+translation = "네제마인은 그렇게 말하며 환한 미소를 짓는 것이었다."
+

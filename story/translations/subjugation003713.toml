@@ -1,0 +1,348 @@
+[[dialogue]]
+speaker = "unk"
+original = "第１３話,ＶＳ『ＸＥＬＯＳ』,B"
+translation = "제13화, VS 『XELOS』, B"
+
+[[dialogue]]
+speaker = "unk"
+original = "とうとう『<ruby>ＸＥＬＯＳ<rt>ゼロス</rt></ruby>』を追い詰めた。傷を癒すことは叶わず、防衛のために敷いていた強靭な護り手も今はない。"
+translation = "드디어 『<ruby>XELOS<rt>제로스</rt></ruby>』를 몰아넣었다. 상처를 치유하는 것은 이루어지지 않았고, 방위를 위해 깔아두었던 강력한 수호자들도 이제는 없다."
+
+[[dialogue]]
+speaker = "unk"
+original = "『ＸＥＬＯＳ』の足元に佇むホロウも１人きり……奴も察したことだろう。どれだけ女神の幼体を増殖させようと、俺たちには敵わないことを。"
+translation = "『XELOS』의 발치에 서 있는 홀로우도 단 한 명뿐…… 녀석도 눈치챘을 것이다. 아무리 여신의 유체를 증식시킨다 한들 우리를 이길 수 없다는 것을."
+
+[[dialogue]]
+speaker = "unk"
+original = "もう逃がさない。『ベガの俺』から受け取ったこの力で──奴らを跡形もなく討ち滅ぼす。"
+translation = "더는 놓치지 않는다. 『베가의 나』로부터 받은 이 힘으로── 녀석들을 흔적도 없이 토멸하겠다."
+
+[[dialogue]]
+speaker_original = "梨緒"
+speaker_translation = "리오"
+original = "「……決着をつけよう。これが本当に最後だ」"
+translation = "「……결판을 내자. 이게 정말 마지막이다」"
+
+[[dialogue]]
+speaker_original = "ジグ"
+speaker_translation = "지그"
+original = "「崩壊したベガの世界で幕を引く──創造神が散るには、ちょうどいい場所じゃないかな？」"
+translation = "「붕괴한 베가의 세계에서 막을 내린다── 창조신이 흩어지기에는 딱 좋은 장소 아닌가?」"
+
+[[dialogue]]
+speaker_original = "ホロウ・ルヴィネL"
+speaker_translation = "할로우 루비네 L"
+original = "「『…………だ』」"
+translation = "「『…………다』」"
+
+[[dialogue]]
+speaker_original = "梨緒"
+speaker_translation = "리오"
+original = "「……何？」"
+translation = "「……뭐?」"
+
+[[dialogue]]
+speaker_original = "ホロウ・ルヴィネ"
+speaker_translation = "할로우・루비네"
+original = "「『……だめだ。私を消しては、いけない……』」"
+translation = "「『……안 된다. 나를 없애서는, 안 된다……』」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ホロウ・ルヴィネの口を使って、『<ruby>ＸＥＬＯＳ<rt>ゼロス</rt></ruby>』が言葉を発する。"
+translation = "홀로우 루비네의 입을 빌려 『<ruby>XELOS<rt>제로스</rt></ruby>』가 말을 내뱉는다."
+
+[[dialogue]]
+speaker_original = "ホロウ・ルヴィネ"
+speaker_translation = "할로우・루비네"
+original = "「『世界を、やりなおさなければ……いけない……』」"
+translation = "「『세계의, 재시작을 하지 않으면…… 안 된다……』」"
+
+[[dialogue]]
+speaker_original = "ホロウ・ルヴィネL"
+speaker_translation = "할로우 루비네 L"
+original = "「『“神”の拒絶……オマエたちは必ず、後悔する……』」"
+translation = "「『“신”의 거절…… 너희는 반드시 후회하게 된다……』」"
+
+[[dialogue]]
+speaker_original = "梨緒"
+speaker_translation = "리오"
+original = "「故郷を滅ぼされた私たちの前で……まだそんな言葉を吐けるとはな」"
+translation = "「고향을 멸망당한 우리 앞에서…… 아직도 그런 소리를 지껄이다니」"
+
+[[dialogue]]
+speaker_original = "ジグ"
+speaker_translation = "지그"
+original = "「最期くらい、潔くしたらどうだい？\u3000何度も君たちがやってきたことだ」"
+translation = "「마지막 정도는 깨끗하게 굴지 그래? 수없이 너희가 저질러온 일이잖아」"
+
+[[dialogue]]
+speaker_original = "梨緒"
+speaker_translation = "리오"
+original = "「フィオナとエリシアの仇……」"
+translation = "「피오나와 엘리시아의 원수……」"
+
+[[dialogue]]
+speaker_original = "ジグ"
+speaker_translation = "지그"
+original = "「そして、散っていった同胞たちの無念を晴らさせてもらうよ」"
+translation = "「그리고 스러져간 동포들의 원한을 갚아주겠어」"
+
+[[dialogue]]
+speaker_original = "ホロウ・ルヴィネ"
+speaker_translation = "할로우・루비네"
+original = "「『…………だめだ』」"
+translation = "「『…………안 된다』」"
+
+[[dialogue]]
+speaker_original = "ホロウ・ルヴィネL"
+speaker_translation = "할로우 루비네 L"
+original = "「『だめだ──だめだ──だめだ──』」"
+translation = "「『안 된다── 안 된다── 안 된다──』」"
+
+[[dialogue]]
+speaker_original = "ホロウ・ルヴィネL"
+speaker_translation = "할로우 루비네 L"
+original = "「『────不合理、不条理──不完全──』」"
+translation = "「『────불합리, 부조리── 불완전──』」"
+
+[[dialogue]]
+speaker_original = "ホロウ・ルヴィネL"
+speaker_translation = "할로우 루비네 L"
+original = "「『“神”を残せ──消しては、ならない────』」"
+translation = "「『“신”을 남겨라── 없애서는, 안 된다────』」"
+
+[[dialogue]]
+speaker_original = "チナ"
+speaker_translation = "치나"
+original = "「……ふざけんな。全部、お前が始めたことだろうが！」"
+translation = "「……웃기지 마. 전부 네가 시작한 일이잖아!」"
+
+[[dialogue]]
+speaker_original = "グレイス"
+speaker_translation = "그레이스"
+original = "「自分が不利になった途端、命乞いですか……！？」"
+translation = "「자신이 불리해지자마자 목숨 구걸인가요……!?」"
+
+[[dialogue]]
+speaker_original = "グレイス"
+speaker_translation = "그레이스"
+original = "「死にたくない、消えたくない……そんなの、リクリエに消された人たちだって、みんな同じだったんですよ！？」"
+translation = "「죽고 싶지 않다, 사라지고 싶지 않다…… 그런 거, 리크리에에 의해 사라진 사람들도 전부 마찬가지였다고요!?」"
+
+[[dialogue]]
+speaker_original = "レティシア"
+speaker_translation = "레티시아"
+original = "「聞くに堪えないわね……みんなと一緒の未来を勝ち取るためにも、あなた達は邪魔なの」"
+translation = "「듣기 거북하네…… 모두와 함께할 미래를 쟁취하기 위해서라도 당신들은 방해물이야」"
+
+[[dialogue]]
+speaker_original = "レティシア"
+speaker_translation = "레티시아"
+original = "「今日ここで消えてもらうわ──『<ruby>ＸＥＬＯＳ<rt>ゼロス</rt></ruby>』！」"
+translation = "「오늘 여기서 사라져줘야겠어── 『<ruby>XELOS<rt>제로스</rt></ruby>』!」"
+
+[[dialogue]]
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
+original = "「『<ruby>ＸＥＬＯＳ<rt>ゼロス</rt></ruby>』……あなたが戦いのどこかで、私たちのために言葉を紡いでくれてたら」"
+translation = "「『<ruby>XELOS<rt>제로스</rt></ruby>…… 당신이 싸움 어딘가에서 우리를 위해 말을 건네주었다면」"
+
+[[dialogue]]
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
+original = "「脅迫するような言葉じゃなくって、譲り合える交渉のテーブルについてくれてたら……未来は違ったのかもしれない」"
+translation = "「협박하는 말이 아니라, 서로 양보할 수 있는 협상의 테이블에 앉아주었다면…… 미래는 달랐을지도 몰라」"
+
+[[dialogue]]
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
+original = "「でも、そうはならなかった……だから、私たちも生き残るために、全力を尽くことにしたんだよ！！」"
+translation = "「하지만 그렇게 되지 않았어…… 그러니까 우리도 살아남기 위해 전력을 다하기로 한 거야!!」"
+
+[[dialogue]]
+speaker_original = "ホロウ・ルヴィネ"
+speaker_translation = "할로우・루비네"
+original = "「『考え直せ……“神”が滅びれば、世界はもうやり直せなくなる……』」"
+translation = "「『다시 생각해라…… “신”이 멸망하면 세계는 더 이상 다시 시작할 수 없게 된다……』」"
+
+[[dialogue]]
+speaker_original = "ホロウ・ルヴィネ"
+speaker_translation = "할로우・루비네"
+original = "「『本当に、許容できるか……？\u3000できるわけが、ない……』」"
+translation = "「『정말로 수용할 수 있겠나……? 그럴 수 있을 리가 없다……』」"
+
+[[dialogue]]
+speaker_original = "ホロウ・ルヴィネ"
+speaker_translation = "할로우・루비네"
+original = "「『ヒトであるオマエは、必ず願う……』」"
+translation = "「『인간인 너는 반드시 바란다……』」"
+
+[[dialogue]]
+speaker_original = "ホロウ・ルヴィネL"
+speaker_translation = "할로우 루비네 L"
+original = "「『やり直したい。なかったことにしたい。そう思う時が、必ずくる────』」"
+translation = "「『다시 시작하고 싶다. 없었던 일로 하고 싶다. 그렇게 생각할 때가 반드시 온다────』」"
+
+[[dialogue]]
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
+original = "「確かに、目をそらしたくなるような不幸は、いつか必ずやってくるよ……でも！」"
+translation = "「분명 눈을 돌리고 싶어질 정도의 불행은 언젠가 반드시 찾아올 거야…… 하지만!」"
+
+[[dialogue]]
+speaker_original = "グレイス"
+speaker_translation = "그레이스"
+original = "「不幸になっても、壊れても、崩れても！\u3000何度だって、もう一度積み上げるだけです！」"
+translation = "「불행해져도, 부서져도, 무너져도! 몇 번이고 다시 쌓아 올릴 뿐입니다!」"
+
+[[dialogue]]
+speaker_original = "チナ"
+speaker_translation = "치나"
+original = "「アタシたちはずっと、そうやって生きてきたんだ！」"
+translation = "「우리는 계속 그렇게 살아왔어!」"
+
+[[dialogue]]
+speaker_original = "レティシア"
+speaker_translation = "레티시아"
+original = "「ええ。今までも、これからも……それは変わらない！！」"
+translation = "「네. 지금까지도, 앞으로도…… 그건 변하지 않아!!」"
+
+[[dialogue]]
+speaker_original = "ルヴィネ"
+speaker_translation = "루비네"
+original = "「……お父様。貴方の言うことは……わからないでもない」"
+translation = "「……아버님. 당신이 하는 말은…… 이해가 안 가는 건 아니에요」"
+
+[[dialogue]]
+speaker_original = "ルヴィネ"
+speaker_translation = "루비네"
+original = "「事実、人間界に降り立ったばかりの頃は──非効率なヒトの考えが理解が出来なかった……」"
+translation = "「사실 인간계에 갓 내려왔을 무렵에는── 비효율적인 인간의 생각을 이해할 수 없었어요……」"
+
+[[dialogue]]
+speaker_original = "ルヴィネ"
+speaker_translation = "루비네"
+original = "「どうしてこんなにも、世界は間違っているのだろうと」"
+translation = "「어째서 이토록 세계는 잘못되어 있는 것일까 하고요」"
+
+[[dialogue]]
+speaker_original = "ルヴィネ"
+speaker_translation = "루비네"
+original = "「醜く、不合理で、不条理で、正しいものなど１つもない……」"
+translation = "「추하고 불합리하며 부조리하고 올바른 것 따위 하나도 없는……」"
+
+[[dialogue]]
+speaker_original = "ルヴィネ"
+speaker_translation = "루비네"
+original = "「そんな世界で足掻くくらいなら、全てを打ち捨てて、創り直せばいいじゃないか……って」"
+translation = "「그런 세계에서 발버둥 칠 바에야 모든 것을 내버리고 새로 만들면 되잖아…… 라고요」"
+
+[[dialogue]]
+speaker_original = "ルヴィネ"
+speaker_translation = "루비네"
+original = "「でも……違うんです。世界とは、命とは……そこまで単純なものではない」"
+translation = "「하지만…… 아니에요. 세계란, 생명이란…… 그렇게 단순한 것이 아니에요」"
+
+[[dialogue]]
+speaker_original = "ルヴィネ"
+speaker_translation = "루비네"
+original = "「生み出した物が、親の思惑を超えることもある……むしろ、思惑通りに動く生命なんてない」"
+translation = "「태어난 것이 부모의 생각을 뛰어넘기도 하죠…… 아니, 애당초 생각대로 움직이는 생명 따위 없어요」"
+
+[[dialogue]]
+speaker_original = "ルヴィネ"
+speaker_translation = "루비네"
+original = "「お父様は、ヒトはこれ以上進歩しないと断じていました……けれど、その前提も計算も間違っている。私はそう思っています」"
+translation = "「아버님은 인간은 더 이상 진보하지 않는다고 단정하셨죠…… 하지만 그 전제도 계산도 틀렸어요. 저는 그렇게 생각해요」"
+
+[[dialogue]]
+speaker_original = "ルヴィネ"
+speaker_translation = "루비네"
+original = "「ヒトや宇宙、星──命を紡ぎ続けるために、無限の成長が不可欠という点は同意しています」"
+translation = "「인간이나 우주, 별── 생명을 계속 이어나가기 위해 무한한 성장이 불가결하다는 점에는 동의해요」"
+
+[[dialogue]]
+speaker_original = "ルヴィネ"
+speaker_translation = "루비네"
+original = "「お父様が成し得なかったことは、私が引き継ぎましょう──あなたとは違うやり方で」"
+translation = "「아버님이 이루지 못한 것은 제가 이어받겠어요── 당신과는 다른 방식으로요」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ルヴィネの言葉を聞いた『<ruby>ＸＥＬＯＳ<rt>ゼロス</rt></ruby>』は──"
+translation = "루비네의 말을 들은 『<ruby>XELOS<rt>제로스</rt></ruby>』는──"
+
+[[dialogue]]
+speaker_original = "ホロウ・ルヴィネ"
+speaker_translation = "할로우・루비네"
+original = "「『だめだ────だめだ、だめだ、だめだ──』」"
+translation = "「『안 된다──── 안 된다, 안 된다, 안 된다──』」"
+
+[[dialogue]]
+speaker_original = "ホロウ・ルヴィネ"
+speaker_translation = "할로우・루비네"
+original = "「『私は────管理者である』」"
+translation = "「『나는──── 관리자다』」"
+
+[[dialogue]]
+speaker_original = "ホロウ・ルヴィネ"
+speaker_translation = "할로우・루비네"
+original = "「『消えるわけにはいかない──完全、不滅、超越こそが“神”──』」"
+translation = "「『사라질 수는 없다── 완전, 불멸, 초월이야말로 “신”──』」"
+
+[[dialogue]]
+speaker_original = "ルヴィネ"
+speaker_translation = "루비네"
+original = "「…………わかりました、お父様」"
+translation = "「…………알겠습니다, 아버님」"
+
+[[dialogue]]
+speaker_original = "ルヴィネ"
+speaker_translation = "루비네"
+original = "「あなたは最期まで、宇宙規模のプログラムでしかなかった。対話をすることは、できなかった……」"
+translation = "「당신은 마지막까지 우주 규모의 프로그램일 뿐이었군요. 대화를 하는 것은 불가능했어……」"
+
+[[dialogue]]
+speaker_original = "ルヴィネ"
+speaker_translation = "루비네"
+original = "「１つの殻に閉じこもり、自分だけが正しいという前提を破壊できなかった……それは停滞でしかない。進歩も成長も、望めない……」"
+translation = "「하나의 껍질에 갇혀 자신만이 옳다는 전제를 파괴하지 못했어…… 그것은 정체일 뿐이에요. 진보도 성장도 바랄 수 없죠……」"
+
+[[dialogue]]
+speaker_original = "ルヴィネ"
+speaker_translation = "루비네"
+original = "「この世界を進歩させる、新たな女神として告げます」"
+translation = "「이 세계를 진보시킬 새로운 여신으로서 고합니다」"
+
+[[dialogue]]
+speaker_original = "ルヴィネ"
+speaker_translation = "루비네"
+original = "「私があなたを終わらせ、私たちの、私たちによる『<ruby>再・創造<rt>リ・クリエイション</rt></ruby>』をここから始めます！」"
+translation = "「제가 당신을 끝내고 우리의, 우리에 의한 『<ruby>재·창조<rt>리 크리에이션</rt></ruby>』을 여기서부터 시작하겠습니다!」"
+
+[[dialogue]]
+speaker_original = "ラクシャ"
+speaker_translation = "락샤"
+original = "「デネブの魔王……そしてテルル。キミたちの仇を取る。だから……見守っていて」"
+translation = "「데네브의 마왕…… 그리고 텔루르. 너희의 원수를 갚을게. 그러니까…… 지켜봐 줘」"
+
+[[dialogue]]
+speaker_original = "ラクシャ"
+speaker_translation = "락샤"
+original = "「守護天使が一柱・《円環》のラクシャ──亡き友と女神のために──『<ruby>ＸＥＬＯＳ<rt>ゼロス</rt></ruby>』、お前を倒す！！」"
+translation = "「수호천사 제1주 · 《원환》의 락샤── 죽은 친구와 여신을 위해── 『<ruby>XELOS<rt>제로스</rt></ruby>』, 너를 쓰러뜨리겠다!!」"
+
+[[dialogue]]
+speaker_original = "クロト"
+speaker_translation = "쿠로토"
+original = "「……行くぞ、『<ruby>ＸＥＬＯＳ<rt>ゼロス</rt></ruby>』」"
+translation = "「……간다, 『<ruby>XELOS<rt>제로스</rt></ruby>』」"
+
+[[dialogue]]
+speaker_original = "クロト"
+speaker_translation = "쿠로토"
+original = "「お前が与えた試練によってヒトが得た星々の輝き──その身でとくと味わえ！！！」"
+translation = "「네가 준 시련을 통해 인간이 얻은 별들의 광채── 그 몸으로 똑똑히 맛보아라!!!」"
+

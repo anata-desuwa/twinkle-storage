@@ -1,0 +1,708 @@
+[[dialogue]]
+speaker = "unk"
+original = "第１８話,星々の煌き,B"
+translation = "제18화, 별들의 반짝임, B"
+
+[[dialogue]]
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
+original = "「とうちゃ～く！\u3000──って！？」"
+translation = "「도─착! ──어라!?」"
+
+[[dialogue]]
+speaker_original = "アナ"
+speaker_translation = "아나"
+original = "「おお。予想を超えるどんちゃん騒ぎですね。皆さん、会長の到着前に始めてしまったようです」"
+translation = "「오오. 예상을 뛰어넘는 난장판이네요. 여러분, 회장님이 도착하시기 전에 시작해버린 모양입니다」"
+
+[[dialogue]]
+speaker_original = "サーシャ"
+speaker_translation = "사샤"
+original = "「あらあら～、うふふ♪」"
+translation = "「어머어머~, 우후후♪」"
+
+[[dialogue]]
+speaker_original = "マトイ"
+speaker_translation = "마토이"
+original = "「あはは。待ちきれなかったみたいだね」"
+translation = "「아하하. 못 기다렸나 보네」"
+
+[[dialogue]]
+speaker_original = "エステル"
+speaker_translation = "에스텔"
+original = "「ま、魔王様っ。すぐにお飲み物を用意しますね……！」"
+translation = "「마, 마왕님. 금방 음료를 준비할게요……!」"
+
+[[dialogue]]
+speaker_original = "クロト"
+speaker_translation = "쿠로토"
+original = "「大丈夫、大丈夫！\u3000エステルはすぐに俺の世話を焼かなくて大丈夫だから……！」"
+translation = "「괜찮아, 괜찮아! 에스텔은 바로 내 시중을 들지 않아도 괜찮으니까……!」"
+
+[[dialogue]]
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
+original = "「あっ……緋宮会長！\u3000それに極星学園の皆さんも！」"
+translation = "「앗…… 히노미야 회장님! 그리고 극성학원의 여러분도!」"
+
+[[dialogue]]
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
+original = "「すみません、開始までまだ時間があるのに、会場のどこかで乾杯が起こってしまったようで──」"
+translation = "「죄송해요, 시작까지 아직 시간이 남았는데 식장 어딘가에서 건배가 터져버린 것 같아서──」"
+
+[[dialogue]]
+speaker_original = "セーラ"
+speaker_translation = "세라"
+original = "「連鎖してもうこの騒ぎ。ごめんねー？」"
+translation = "「연쇄적으로 벌써 이 소동이야. 미안해?」"
+
+[[dialogue]]
+speaker_original = "クロト"
+speaker_translation = "쿠로토"
+original = "「いや、ちょうどいいよ。始まりの挨拶なんて堅苦しいし……このまま皆には楽しんでもらおう」"
+translation = "「아니, 딱 좋아. 시작 인사 같은 건 딱딱하고…… 이대로 다들 즐기게 두자」"
+
+[[dialogue]]
+speaker_original = "ルリエル"
+speaker_translation = "루리엘"
+original = "「極星学園の皆さん！\u3000ようこそなのです、飲み物をどうぞっ♪」"
+translation = "「극성학원의 여러분! 어서 오세요인 거예요, 음료 여기 있습니다♪」"
+
+[[dialogue]]
+speaker_original = "グレイス"
+speaker_translation = "그레이스"
+original = "「ルリエルさん、ありがとうございます！\u3000おおぉっ……会場中に、美味しそうな食べ物がたくさん……！！」"
+translation = "「루리엘 씨, 감사합니다! 오오오…… 식장 안에 맛있어 보이는 음식이 잔뜩……!!」"
+
+[[dialogue]]
+speaker_original = "ルリエル"
+speaker_translation = "루리엘"
+original = "「給食委員会さんが総出で作ってくれたのです～！\u3000今日は思いっきり楽しんでいってください！」"
+translation = "「급식위원회 분들이 총출동해서 만들어주신 거예요~! 오늘은 마음껏 즐기고 가세요!」"
+
+[[dialogue]]
+speaker_original = "グレイス"
+speaker_translation = "그레이스"
+original = "「どこから回りましょうか……どれもこれもおいしそうで迷ってしまいますね！」"
+translation = "「어디부터 돌아야 할까요…… 하나같이 다 맛있어 보여서 고민되네요!」"
+
+[[dialogue]]
+speaker_original = "ルリエル"
+speaker_translation = "루리엘"
+original = "「ふっふっふ！\u3000ではルリエルがご案内しましょう！\u3000お料理もスイーツも、下調べはバッチリなのです！」"
+translation = "「훗훗훗! 그럼 루리엘이 안내해드릴게요! 요리도 디저트도 사전 조사는 완벽한 거예요!」"
+
+[[dialogue]]
+speaker_original = "グレイス"
+speaker_translation = "그레이스"
+original = "「本当ですか！？\u3000嬉しいですっ！\u3000そうだ、マトイさんも！\u3000私と一緒に行きましょう！！」"
+translation = "「정말인가요!? 기뻐요! 맞다, 마토이 씨도! 저랑 같이 가요!!」"
+
+[[dialogue]]
+speaker_original = "マトイ"
+speaker_translation = "마토이"
+original = "「え、私も？\u3000──わあぁああっ！？」"
+translation = "「에, 나도? ──와아아악!?」"
+
+[[dialogue]]
+speaker_original = "ユウリ"
+speaker_translation = "유우리"
+original = "「うお。あっという間に見えなくなったな」"
+translation = "「우와. 순식간에 안 보이게 됐네」"
+
+[[dialogue]]
+speaker_original = "ソフィア"
+speaker_translation = "소피아"
+original = "「うちのルリがすみません……騒がしくしちゃって」"
+translation = "「저희 루리가 죄송해요…… 소란을 피워서」"
+
+[[dialogue]]
+speaker_original = "レティシア"
+speaker_translation = "레티시아"
+original = "「問題ないわ。でも──会場が広くって迷子になりそうね。流星学園の人達と交流もしてみたかったし……」"
+translation = "「문제없어. 하지만── 식장이 넓어서 미아가 될 것 같네. 유성학원 사람들과 교류도 해보고 싶었고……」"
+
+[[dialogue]]
+speaker_original = "チナ"
+speaker_translation = "치나"
+original = "「ああ！\u3000せっかくだし案内してもらえるか？\u3000そんで、そっちの学園のこともたくさん教えてくれよ！」"
+translation = "「아아! 기왕이면 안내 좀 해줄래? 그리고 그쪽 학원 이야기도 많이 들려달라고!」"
+
+[[dialogue]]
+speaker_original = "ユウリ"
+speaker_translation = "유우리"
+original = "「おう、いいぜ！」"
+translation = "「오, 좋아!」"
+
+[[dialogue]]
+speaker_original = "ソフィア"
+speaker_translation = "소피아"
+original = "「じゃあ行きましょうか、チナさん、レティシアさん！」"
+translation = "「그럼 갈까요, 치나 씨, 레티시아 씨!」"
+
+[[dialogue]]
+speaker_original = "レティシア"
+speaker_translation = "레티시아"
+original = "「ええ。サーシャ、貴女もどう？」"
+translation = "「그래. 사샤, 당신도 어때?」"
+
+[[dialogue]]
+speaker_original = "サーシャ"
+speaker_translation = "사샤"
+original = "「うふふ♪\u3000それじゃあご一緒させてもらうわ～♪」"
+translation = "「우후후♪ 그럼 같이 가도록 할게요~♪」"
+
+[[dialogue]]
+speaker_original = "チナ"
+speaker_translation = "치나"
+original = "「アナも行こうぜ、ジッとしててもつまらないぞ！」"
+translation = "「아나도 가자고, 가만히 있어 봤자 재미없어!」"
+
+[[dialogue]]
+speaker_original = "アナ"
+speaker_translation = "아나"
+original = "「ラジャー。では会長、また後で合流しましょう」"
+translation = "「라져. 그럼 회장님, 나중에 다시 합류하죠」"
+
+[[dialogue]]
+speaker_original = "クロト"
+speaker_translation = "쿠로토"
+original = "「ああ。楽しんで来てくれ」"
+translation = "「아아. 즐겁게 놀다 와」"
+
+[[dialogue]]
+speaker_original = "梨緒"
+speaker_translation = "리오"
+original = "「──ベアト！\u3000しばらくぶりだな！」"
+translation = "「──베아토! 오랜만이네!」"
+
+[[dialogue]]
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
+original = "「梨緒ちゃん！\u3000お邪魔してます！」"
+translation = "「리오짱! 실례하고 있습니다!」"
+
+[[dialogue]]
+speaker_original = "梨緒"
+speaker_translation = "리오"
+original = "「『<ruby>ＸＥＬＯＳ<rt>ゼロス</rt></ruby>』との決着の後、君はデネブに帰っていたからな……今日、会えるのを楽しみにしていたんだ」"
+translation = "「『<ruby>XELOS<rt>제로스</rt></ruby>』와의 결전 이후에 너는 데네브로 돌아가 버렸으니까…… 오늘 만나는 걸 기대하고 있었어」"
+
+[[dialogue]]
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
+original = "「私もだよ、梨緒ちゃん。それに──選管の皆も！」"
+translation = "「나도 그래, 리오짱. 그리고── 선관의 모두도!」"
+
+[[dialogue]]
+speaker_original = "ナターシャ"
+speaker_translation = "나타샤"
+original = "「おひさ～──って。ベアト、わざわざこっちの制服を着てるんだ？」"
+translation = "「오랜마─ ──어라. 베아토, 일부러 이쪽 교복을 입은 거야?」"
+
+[[dialogue]]
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
+original = "「うん！\u3000せっかくのアルタイル訪問だし。こっちの方がしっくりくるからね！」"
+translation = "「응! 기껏 알타이르를 방문했으니까. 이쪽이 더 잘 어울리는 것 같아서!」"
+
+[[dialogue]]
+speaker_original = "アポロ"
+speaker_translation = "아폴로"
+original = "「選管メンバー、再集合だな！\u3000今日は思いっきり楽しむぞ、ベアト！」"
+translation = "「선관 멤버 재집결이네! 오늘은 마음껏 즐기자, 베아토!」"
+
+[[dialogue]]
+speaker_original = "ジグ"
+speaker_translation = "지그"
+original = "「良い情報をあげよう。アガサときたら、さっきから会場中のニンニク料理の場所ばかりチェックしていてね？」"
+translation = "「좋은 정보를 주지. 아가사는 아까부터 식장 안의 마늘 요리가 있는 곳만 체크하고 있더군」"
+
+[[dialogue]]
+speaker_original = "梨緒"
+speaker_translation = "리오"
+original = "「なっ──ジグ！？」"
+translation = "「나, 낫── 지그!?」"
+
+[[dialogue]]
+speaker_original = "ジグ"
+speaker_translation = "지그"
+original = "「よほど君をもてなしたかったと見える。いつになくはしゃいでいて、面白かったよ」"
+translation = "「그만큼 너를 대접하고 싶었던 모양이야. 평소답지 않게 들떠 있어서 재밌었어」"
+
+[[dialogue]]
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
+original = "「梨緒ちゃん、そうなの！？\u3000嬉しいっ！」"
+translation = "「리오짱, 정말이야!? 기뻐!」"
+
+[[dialogue]]
+speaker_original = "梨緒"
+speaker_translation = "리오"
+original = "「ゆ、友人との再会なんだ、好物でもてなすのは当然だろう……何だジグ、その目は！」"
+translation = "「치, 친구와의 재회잖아, 좋아하는 음식으로 대접하는 건 당연하지…… 뭐야 지그, 그 눈은!」"
+
+[[dialogue]]
+speaker_original = "ジグ"
+speaker_translation = "지그"
+original = "「別に？\u3000アガサは単純で可愛いなって思っただけさ」"
+translation = "「별로? 아가사는 단순해서 귀엽다고 생각했을 뿐이야」"
+
+[[dialogue]]
+speaker_original = "梨緒"
+speaker_translation = "리오"
+original = "「こいつっ……！」"
+translation = "「이 자식이……!」"
+
+[[dialogue]]
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
+original = "「……よかったぁ、梨緒ちゃんに、そんなに楽しみにしてもらえて」"
+translation = "「……다행이다, 리오짱이 그렇게나 기대해줘서」"
+
+[[dialogue]]
+speaker_original = "梨緒"
+speaker_translation = "리오"
+original = "「……？\u3000何言ってるんだ、ベアト」"
+translation = "「……? 무슨 소리야, 베아토」"
+
+[[dialogue]]
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
+original = "「だって私、デネブの星騎士だから……基本は向こうで暮らすことになるわけだし……」"
+translation = "「그게 나, 데네브의 성기사니까…… 기본은 저쪽에서 살게 되는 거고……」"
+
+[[dialogue]]
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
+original = "「会えない時間が増えていったら、距離が開いちゃうかも～って……」"
+translation = "「만나지 못하는 시간이 늘어나면 거리가 멀어질지도 모른다고 생각해서……」"
+
+[[dialogue]]
+speaker_original = "梨緒"
+speaker_translation = "리오"
+original = "「馬鹿を言うな！\u3000ベアトは、選管の大切なメンバーだ。君の席はいつだって空けてある」"
+translation = "「바보 같은 소리 마! 베아토는 선관의 소중한 멤버야. 네 자리는 언제나 비워두고 있어」"
+
+[[dialogue]]
+speaker_original = "梨緒"
+speaker_translation = "리오"
+original = "「新しい転送装置による世界間移動は、ようやく安定したと聞いている。これからアルタイルとデネブは、密に連絡を取り合うことになるだろう」"
+translation = "「새로운 전송 장치를 통한 세계 간 이동은 이제야 안정되었다고 들었어. 이제부터 알타이르와 데네브는 긴밀하게 연락을 주고받게 되겠지」"
+
+[[dialogue]]
+speaker_original = "アポロ"
+speaker_translation = "아폴로"
+original = "「そうだぞ！\u3000合同訓練とか、合宿とか、色々できるさ！」"
+translation = "「맞아! 합동 훈련이라든가, 합숙이라든가 여러 가지 할 수 있다고!」"
+
+[[dialogue]]
+speaker_original = "梨緒"
+speaker_translation = "리오"
+original = "「準備さえすればいつでも会える。私たちがよそよそしくなるだなんて、あり得ないな」"
+translation = "「준비만 하면 언제든 만날 수 있어. 우리가 서먹해진다니, 있을 수 없는 일이야」"
+
+[[dialogue]]
+speaker_original = "梨緒"
+speaker_translation = "리오"
+original = "「アルタイルは、ベアトの第二の故郷だ。いつでも訪ねてくれていいし……」"
+translation = "「알타이르는 베아토의 제2의 고향이야. 언제든 찾아와도 좋고……」"
+
+[[dialogue]]
+speaker_original = "ナターシャ"
+speaker_translation = "나타샤"
+original = "「私たちがデネブに行くんだったら、もっと簡単に会えるでしょ？\u3000同一存在と同時にくぐらなくていいわけだからねー」"
+translation = "「우리가 데네브로 간다면 더 쉽게 만날 수 있잖아? 동일 존재와 동시에 통과하지 않아도 되니까 말이야─」"
+
+[[dialogue]]
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
+original = "「み……みんなぁっ……！！」"
+translation = "「얘…… 얘들아……!!」"
+
+[[dialogue]]
+speaker_original = "梨緒"
+speaker_translation = "리오"
+original = "「さ、行こうベアト。めでたい席だ、涙は似合わないぞ」"
+translation = "「자, 가자 베아토. 경사스러운 자리다, 눈물은 어울리지 않아」"
+
+[[dialogue]]
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
+original = "「──うん！！」"
+translation = "「──응!!」"
+
+[[dialogue]]
+speaker_original = "アポロ"
+speaker_translation = "아폴로"
+original = "「悪いなルヴィネ、ベアトを借りていくぞっ！」"
+translation = "「미안해 루비네, 베아토 좀 빌려 갈게!」"
+
+[[dialogue]]
+speaker_original = "ルヴィネ"
+speaker_translation = "루비네"
+original = "「ええ。行ってらっしゃい、ベアト」"
+translation = "「그래. 다녀오렴, 베아토」"
+
+[[dialogue]]
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
+original = "「ありがとうルヴィ！\u3000また後でね！」"
+translation = "「고마워 루비! 나중에 봐!」"
+
+[[dialogue]]
+speaker_original = "ルヴィネ"
+speaker_translation = "루비네"
+original = "「…………とても賑やかね、魔王」"
+translation = "「…………아주 북적거리네, 마왕」"
+
+[[dialogue]]
+speaker_original = "クロト"
+speaker_translation = "쿠로토"
+original = "「ああ、平和だな──」"
+translation = "「아아, 평화롭네──」"
+
+[[dialogue]]
+speaker = "unk"
+original = "──会場中で騒いでいる皆を見ると、思わず笑みがこぼれてしまう。"
+translation = "──식장 안에서 떠들썩한 모두를 보니 절로 미소가 지어진다."
+
+[[dialogue]]
+speaker = "unk"
+original = "共に『<ruby>ＸＥＬＯＳ<rt>ゼロス</rt></ruby>』の脅威を退けた仲間たち。"
+translation = "함께 『<ruby>XELOS<rt>제로스</rt></ruby>』의 위협을 물리친 동료들."
+
+[[dialogue]]
+speaker = "unk"
+original = "人間も天使も魔族も隔てなく──"
+translation = "인간도 천사도 마족도 차별 없이──"
+
+[[dialogue]]
+speaker = "unk"
+original = "食べて、飲んで、騒いでいる──"
+translation = "먹고 마시고 떠들고 있다──"
+
+[[dialogue]]
+speaker_original = "ルヴィネ"
+speaker_translation = "루비네"
+original = "「これが……魔王が守りたかった景色」"
+translation = "「이것이…… 마왕이 지키고 싶었던 풍경」"
+
+[[dialogue]]
+speaker_original = "ルヴィネ"
+speaker_translation = "루비네"
+original = "「そしてかつての私が、壊そうとしていたものなのね……」"
+translation = "「그리고 과거의 내가 파괴하려 했던 것이로구나……」"
+
+[[dialogue]]
+speaker_original = "ルヴィネ"
+speaker_translation = "루비네"
+original = "「……魔王。改めて、謝らせて頂戴」"
+translation = "「……마왕. 다시 한번 사과하게 해줘」"
+
+[[dialogue]]
+speaker_original = "クロト"
+speaker_translation = "쿠로토"
+original = "「──謝る？」"
+translation = "「──사과?」"
+
+[[dialogue]]
+speaker_original = "ルヴィネ"
+speaker_translation = "루비네"
+original = "「……１０年前。デネブの貴方を、私は貶めたわ」"
+translation = "「……10년 전. 데네브의 당신을 내가 깎아내렸어」"
+
+[[dialogue]]
+speaker_original = "ルヴィネ"
+speaker_translation = "루비네"
+original = "「効率的だからって、合理的だからって……英雄であった貴方の名誉を、私は傷つけた……」"
+translation = "「효율적이라서, 합리적이라서…… 영웅이었던 당신의 명예를 내가 더럽혔어……」"
+
+[[dialogue]]
+speaker_original = "クロト"
+speaker_translation = "쿠로토"
+original = "「なんだ、そんなの──」"
+translation = "「뭐야, 그런 건──」"
+
+[[dialogue]]
+speaker_original = "ルヴィネ"
+speaker_translation = "루비네"
+original = "「そんなの、ではないでしょう。貴方自身のことなのだから」"
+translation = "「그런 건, 이 아니겠지. 당신 자신의 일이니까」"
+
+[[dialogue]]
+speaker = "unk"
+original = "まだヒトとしての心を持っていなかった頃のルヴィネが、『<ruby>ＸＥＬＯＳ<rt>ゼロス</rt></ruby>』に命じられるままに行ったことだ。"
+translation = "아직 인간으로서의 마음을 갖지 못했던 시절의 루비네가 『<ruby>XELOS<rt>제로스</rt></ruby>』의 명령대로 행한 일이다."
+
+[[dialogue]]
+speaker = "unk"
+original = "当人である俺は気にしていないんだが──"
+translation = "당사자인 나는 신경 쓰지 않지만──"
+
+[[dialogue]]
+speaker_original = "クロト"
+speaker_translation = "쿠로토"
+original = "「……うーん。だったら、エステルに決めてもらおうか」"
+translation = "「……음. 그렇다면 에스텔이 결정하게 할까」"
+
+[[dialogue]]
+speaker_original = "エステル"
+speaker_translation = "에스텔"
+original = "「えっ……？\u3000わ、私ですかっ？」"
+translation = "「엣……? 저, 저 말인가요?」"
+
+[[dialogue]]
+speaker_original = "クロト"
+speaker_translation = "쿠로토"
+original = "「うん。エステルがルヴィネを許すなら──もうそれでいいかなって俺は思うんだ。どうかな？」"
+translation = "「응. 에스텔이 루비네를 용서한다면── 난 그걸로 됐다고 생각해. 어때?」"
+
+[[dialogue]]
+speaker_original = "ルヴィネ"
+speaker_translation = "루비네"
+original = "「…………」"
+translation = "「…………」"
+
+[[dialogue]]
+speaker_original = "エステル"
+speaker_translation = "에스텔"
+original = "「……め、女神様の教えに、このようなものがあります」"
+translation = "「……여, 여신님의 가르침에 이런 것이 있습니다」"
+
+[[dialogue]]
+speaker_original = "エステル"
+speaker_translation = "에스텔"
+original = "「ヒトは生きていると、必ず過ちも犯すもの。ならば大切なのは、その過ちに気づき、反省し……前を向いて生きていけるかどうかである、と」"
+translation = "「사람은 살아가다 보면 반드시 잘못도 저지르는 법. 그렇다면 중요한 것은 그 잘못을 깨닫고 반성하며…… 앞을 향해 살아갈 수 있느냐 없느냐이다, 라고요」"
+
+[[dialogue]]
+speaker_original = "エステル"
+speaker_translation = "에스텔"
+original = "「私も──同じ考えです。それに、デネブでの魔王様の名誉回復も、行われています」"
+translation = "「저도── 같은 생각입니다. 게다가 데네브에서의 마왕님의 명예 회복도 이루어지고 있고요」"
+
+[[dialogue]]
+speaker = "unk"
+original = "話によると──エステルとグレイスによって──かなり積極的に『デネブの緋宮クロト』の最期は喧伝されているらしい。"
+translation = "이야기에 따르면── 에스텔과 그레이스에 의해── 꽤 적극적으로 『데네브의 히노미야 쿠로토』의 최후가 선전되고 있다고 한다."
+
+[[dialogue]]
+speaker = "unk"
+original = "プラン・ジャスティスウィザードによって、デネブの『俺』の最期は伝えられてこそいたが……"
+translation = "플랜 저스티스 위저드에 의해 데네브의 『나』의 최후가 전해지긴 했었지만……"
+
+[[dialogue]]
+speaker = "unk"
+original = "それでも十分とは言えないと、エステルたちは繰り返し、デネブの『俺』のことを話してくれているのだった。"
+translation = "그걸로도 충분하지 않다며 에스텔 일행은 반복해서 데네브의 『나』에 대해 이야기해주고 있는 것이었다."
+
+[[dialogue]]
+speaker_original = "ルヴィネ"
+speaker_translation = "루비네"
+original = "「その……デネブ市民に対しては、レティシアがとっさについた嘘のまま……『私も騙されていた』ということになっていて、とても居心地が悪いのだけれど……」"
+translation = "「그…… 데네브 시민들에 대해서는 레티시아가 임기응변으로 지어낸 거짓말 그대로…… 『나도 속고 있었다』는 것이 되어 있어서 무척 마음이 불편하긴 하지만……」"
+
+[[dialogue]]
+speaker_original = "エステル"
+speaker_translation = "에스텔"
+original = "「ふふっ。それについては、罰だと思って受けいれてください」"
+translation = "「후후. 그 점에 대해서는 벌이라고 생각하고 받아들여 주세요」"
+
+[[dialogue]]
+speaker_original = "ルヴィネ"
+speaker_translation = "루비네"
+original = "「私、嘘についてはちょっとしたトラウマが……いえ、だからこそ贖罪になる、ということかしら……」"
+translation = "「나, 거짓말에 대해서는 약간의 트라우마가…… 아니, 그렇기에 속죄가 된다는 뜻이려나……」"
+
+[[dialogue]]
+speaker_original = "クロト"
+speaker_translation = "쿠로토"
+original = "「これに関しては、そういうことにしておこう。今更、昔のルヴィネが『<ruby>ＸＥＬＯＳ<rt>ゼロス</rt></ruby>』の傀儡だった、なんて話、誰も聞きたくないだろうからな」"
+translation = "「이건 그렇게 해두자. 이제 와서 예전의 루비네가 『<ruby>XELOS<rt>제로스</rt></ruby>』의 꼭두각시였다는 식의 이야기는 아무도 듣고 싶어 하지 않을 테니까」"
+
+[[dialogue]]
+speaker_original = "ルヴィネ"
+speaker_translation = "루비네"
+original = "「それもそうね……わかったわ。魔王への謝意の証として、この嘘は胸に秘めると誓うわ」"
+translation = "「그것도 그렇네…… 알았어. 마왕에 대한 사죄의 증표로서 이 거짓말은 가슴에 비축해두겠다고 맹세할게」"
+
+[[dialogue]]
+speaker_original = "クロト"
+speaker_translation = "쿠로토"
+original = "「それじゃあ……どうかな、エステル？」"
+translation = "「그럼…… 어때, 에스텔?」"
+
+[[dialogue]]
+speaker_original = "エステル"
+speaker_translation = "에스텔"
+original = "「はい。ルヴィネ会長のお気持ちも聞くことが出来ました。もう、何も気にしていません」"
+translation = "「네. 루비네 회장님의 진심도 들을 수 있었습니다. 이제 아무것도 신경 쓰지 않아요」"
+
+[[dialogue]]
+speaker_original = "ルヴィネ"
+speaker_translation = "루비네"
+original = "「……エステル」"
+translation = "「……에스텔」"
+
+[[dialogue]]
+speaker_original = "エステル"
+speaker_translation = "에스텔"
+original = "「ルヴィネ会長は間違いなく……人々を愛する女神様になられる御方だと信じています、私」"
+translation = "「루비네 회장님은 틀림없이…… 사람들을 사랑하는 여신님이 되실 분이라고 믿고 있어요, 저」"
+
+[[dialogue]]
+speaker_original = "ルヴィネ"
+speaker_translation = "루비네"
+original = "「────ありがとう」"
+translation = "「────고마워」"
+
+[[dialogue]]
+speaker_original = "エステル"
+speaker_translation = "에스텔"
+original = "「はい。せっかくのパーティーですし……みなさんで乾杯しましょう！\u3000ちょっと待っていてくださいね！」"
+translation = "「네. 기왕 파티니까…… 다 같이 건배해요! 잠시만 기다려주세요!」"
+
+[[dialogue]]
+speaker_original = "クロト"
+speaker_translation = "쿠로토"
+original = "「……ってわけだ。もう気にしなくていいよ、ルヴィネ」"
+translation = "「……라는 거다. 이제 신경 쓰지 마, 루비네」"
+
+[[dialogue]]
+speaker_original = "ルヴィネ"
+speaker_translation = "루비네"
+original = "「レティシアから聞いていたし、私自身もそう思っていたけれど──貴方って本当にお人好しね」"
+translation = "「레티시아에게 들었고 나 자신도 그렇게 생각했지만── 당신은 정말 사람 좋네」"
+
+[[dialogue]]
+speaker_original = "ルヴィネ"
+speaker_translation = "루비네"
+original = "「私は、憎まれて当たり前だと思うのだけど……」"
+translation = "「나는 미움받아 마땅하다고 생각하는데……」"
+
+[[dialogue]]
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
+original = "「ふっふーん！\u3000クロトはそんなちっちゃい魔王じゃないってことよ！」"
+translation = "「훗후─운! 쿠로토는 그렇게 옹졸한 마왕이 아니라는 소리야!」"
+
+[[dialogue]]
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
+original = "「それよりルヴィネ！\u3000あなたが気にするべきは、ママの仕事をちゃんと引き継げるのか～ってところだと思うわ！」"
+translation = "「그것보다 루비네! 당신이 신경 써야 할 건 엄마의 업무를 제대로 인계받을 수 있느냐~ 하는 부분이라고 봐!」"
+
+[[dialogue]]
+speaker_original = "ルヴィネ"
+speaker_translation = "루비네"
+original = "「……ええ、そうね。貴女の言う通りだわ」"
+translation = "「……그래, 맞아. 네 말이 옳아」"
+
+[[dialogue]]
+speaker_original = "ルヴィネ"
+speaker_translation = "루비네"
+original = "「次代の女神として……どこまでテルルの代わりになれるか、わからないけれど──」"
+translation = "「차세대 여신으로서…… 어디까지 테루르를 대신할 수 있을지 모르겠지만──」"
+
+[[dialogue]]
+speaker_original = "ルヴィネ"
+speaker_translation = "루비네"
+original = "「──いいえ。代わるんじゃない。受け継いで、テルルよりも立派な女神を目指さなくちゃいけないわね」"
+translation = "「──아니. 대신하는 게 아냐. 물려받아서 테루르보다 더 훌륭한 여신을 목표로 해야겠지」"
+
+[[dialogue]]
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
+original = "「ママの壁は高いわよ！\u3000でも、その意気や良しってやつね♪」"
+translation = "「엄마의 벽은 높다고! 하지만 그 기개는 좋네♪」"
+
+[[dialogue]]
+speaker_original = "ルヴィネ"
+speaker_translation = "루비네"
+original = "「……これからたくさんのことを学んで、己の糧にして」"
+translation = "「……앞으로 많은 것을 배우고 자신의 양분으로 삼아서」"
+
+[[dialogue]]
+speaker_original = "ルヴィネ"
+speaker_translation = "루비네"
+original = "「<ruby>テルル<rt>姉さん</rt></ruby>のように、生きとし生ける者すべてに愛を注げるような、そんな女神に、きっとなってみせるわ」"
+translation = "「<ruby>테루르<rt>언니</rt></ruby>처럼 살아있는 모든 자에게 사랑을 쏟을 수 있는, 그런 여신이 꼭 되어 보이겠어」"
+
+[[dialogue]]
+speaker_original = "ルヴィネ"
+speaker_translation = "루비네"
+original = "「不安はあるけど、きっと大丈夫──だって、貴方たちのおかげで、私は愛を知ることができたから」"
+translation = "「불안은 있지만 분명 괜찮을 거야── 왜냐면 당신들 덕분에 나는 사랑을 알 수 있었으니까」"
+
+[[dialogue]]
+speaker_original = "ルヴィネ"
+speaker_translation = "루비네"
+original = "「私が、大好きな幼なじみと『今』を過ごせているのは──全部、貴方達のおかげよ」"
+translation = "「내가 소중한 소꿉친구와 『지금』을 보낼 수 있는 건 전부 당신들 덕분이야」"
+
+[[dialogue]]
+speaker_original = "ルヴィネ"
+speaker_translation = "루비네"
+original = "「だから本当に──ありがとう」"
+translation = "「그러니까 정말── 고마워」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ルヴィネは優しく、だけどどこか力強く──微笑みながらそう言うのだった。"
+translation = "루비네는 부드럽지만 어딘가 힘차게── 미소 지으며 그렇게 말했다."
+
+[[dialogue]]
+speaker_original = "ルヴィネ"
+speaker_translation = "루비네"
+original = "「魔王。それに……九浄ヴィーナス。これからも、貴方たちの力をたくさん借りることになると思う……」"
+translation = "「마왕. 그리고…… 쿠죠 비너스. 앞으로도 당신들의 힘을 많이 빌리게 될 것 같아……」"
+
+[[dialogue]]
+speaker_original = "ルヴィネ"
+speaker_translation = "루비네"
+original = "「もしもの時は──手伝ってくれるかしら？」"
+translation = "「혹시 무슨 일이 생기면── 도와주겠어?」"
+
+[[dialogue]]
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
+original = "「もっちろん！\u3000ママが託してくれた世界は、みんなで守らなきゃ！\u3000そうでしょ、クロト！」"
+translation = "「당요니지! 엄마가 맡겨준 세계는 다 같이 지켜야 하는걸! 그치, 쿠로토!」"
+
+[[dialogue]]
+speaker_original = "クロト"
+speaker_translation = "쿠로토"
+original = "「ああ。俺もヴィーナスも……そしてルヴィネ。君も同じだ」"
+translation = "「아아. 나도 비너스도…… 그리고 루비네. 너도 마찬가지야」"
+
+[[dialogue]]
+speaker_original = "ルヴィネ"
+speaker_translation = "루비네"
+original = "「同じ……？」"
+translation = "「마찬가지……?」"
+
+[[dialogue]]
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
+original = "「その通りよ♪\u3000私たちの前では、どんな不幸も絶望も、尻尾巻いて逃げ出すしかないんだから！」"
+translation = "「그 말대로야♪ 우리 앞에서는 어떤 불행도 절망도 꼬리를 말고 도망칠 수밖에 없으니까!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "そう言って、ヴィーナスは天穹を示すかのように、ビッと人差し指を掲げた。"
+translation = "그렇게 말하며 비너스는 하늘을 가리키듯 검지 손가락을 척 치켜세웠다."
+
+[[dialogue]]
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
+original = "「だって私たちは、この世界を守る星々の輝き──」"
+translation = "「왜냐면 우리는 이 세계를 지키는 별들의 반짝임──」"
+
+[[dialogue]]
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
+original = "「『ティンクルスターナイツ』なんだもの！」"
+translation = "「『티클 스타 나이츠』인걸!」"
+

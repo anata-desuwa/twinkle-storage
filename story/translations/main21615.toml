@@ -1,0 +1,514 @@
+[[dialogue]]
+speaker = "unk"
+original = "第１５話,愛すべき世界へ,B"
+translation = "제15화, 사랑해야 할 세계로, B"
+
+[[dialogue]]
+speaker = "unk"
+original = "──闇。"
+translation = "──어둠."
+
+[[dialogue]]
+speaker = "unk"
+original = "闇。闇。闇──"
+translation = "어둠. 어둠. 어둠──"
+
+[[dialogue]]
+speaker = "unk"
+original = "音もない。温度もない。香りもない。四肢の感覚すらが曖昧だ……ここが、時空の裂け目の中？"
+translation = "소리도 없다. 온도도 없다. 향기도 없다. 사지의 감각조차 모호하다…… 여기가 시공의 균열 안인가?"
+
+[[dialogue]]
+speaker_original = "クロト"
+speaker_translation = "쿠로토"
+original = "（確かに『<ruby>ＸＥＬＯＳ<rt>ゼロス</rt></ruby>』を掴んで飛び込んだはずなのに……）"
+translation = "(분명 『<ruby>XELOS<rt>제로스</rt></ruby>』를 붙잡고 뛰어들었을 텐데……)"
+
+[[dialogue]]
+speaker = "unk"
+original = "入った瞬間に五感がぐちゃぐちゃになり、上も下もわからなくなって──今はこのざま。"
+translation = "들어온 순간 오감이 뒤죽박죽이 되어 위아래도 모르게 됐고── 지금은 이 꼴."
+
+[[dialogue]]
+speaker = "unk"
+original = "星の破壊という最悪の事態は免れたけれど、早くデネブに帰らないとまずい……！"
+translation = "별의 파괴라는 최악의 사태는 면했지만, 빨리 데네브로 돌아가지 않으면 위험해……!"
+
+[[dialogue]]
+speaker = "unk"
+original = "ホロウは無限の試行錯誤で、アルタイルへの経路を割り出していた。ということは、俺がいなくなった後のデネブへ再侵攻を図っているはず……！"
+translation = "홀로우는 무한한 시행착오로 알타이르로 가는 경로를 산출해 냈어. 그렇다는 건 내가 사라진 뒤의 데네브로 재침공을 꾀하고 있을 터……!"
+
+[[dialogue]]
+speaker = "unk"
+original = "ラクシスの平行世界間を移動する権能を自在に使えればいいのだけど……生憎、俺はまだそれをモノにしていない。"
+translation = "락시스의 평행세계 간을 이동하는 권능을 자재로 쓸 수 있으면 좋겠지만…… 안타깝게도 나는 아직 그것을 내 것으로 만들지 못했어."
+
+[[dialogue]]
+speaker_original = "クロト"
+speaker_translation = "쿠로토"
+original = "（どうすれば……いいんだ……！？）"
+translation = "(어떡하면…… 되는 거지……!?)"
+
+[[dialogue]]
+speaker_original = "？？？"
+speaker_translation = "？？？"
+original = "『……無茶をしましたね、緋宮クロト』"
+translation = "『……무리를 하셨군요, 히노미야 쿠로토』"
+
+[[dialogue]]
+speaker_original = "クロト"
+speaker_translation = "쿠로토"
+original = "「テルル……！！？」"
+translation = "「테루루……!!?」"
+
+[[dialogue]]
+speaker_original = "テルル"
+speaker_translation = "테루루"
+original = "『……ええ。ヴィーナスとルヴィネには別れを告げましたが……貴方にはまだでしたから』"
+translation = "『……네. 비너스와 루비네에겐 작별을 고했지만…… 귀하에겐 아직이었으니까요』"
+
+[[dialogue]]
+speaker_original = "テルル"
+speaker_translation = "테루루"
+original = "『もはや世界の誰にも感知できないほどに、存在が薄まった私ですが……最期に、あなたと話をしたかったのです』"
+translation = "『이미 세상 누구도 감지할 수 없을 정도로 존재가 옅어진 저입니다만…… 마지막으로 당신과 대화를 나누고 싶었습니다』"
+
+[[dialogue]]
+speaker_original = "テルル"
+speaker_translation = "테루루"
+original = "『緋宮クロト、貴方は本当によくやってくれました……』"
+translation = "『히노미야 쿠로토, 당신은 정말 잘해주었습니다……』"
+
+[[dialogue]]
+speaker_original = "テルル"
+speaker_translation = "테루루"
+original = "『貴方のおかげで“<ruby>ＸＥＬＯＳ<rt>ゼロス</rt></ruby>”は深手を負いました。真なる魔王がデネブやアルタイルに留まる限り、きっと手出しはできないでしょう……』"
+translation = "『당신 덕분에 “<ruby>XELOS<rt>제로스</rt></ruby>”는 깊은 상처를 입었습니다. 진정한 마왕이 데네브나 알타이르에 머무는 한, 분명 손을 대지는 못하겠지요……』"
+
+[[dialogue]]
+speaker_original = "クロト"
+speaker_translation = "쿠로토"
+original = "「そうは言うけれど……今の俺は、こんな状況です……」"
+translation = "「그렇게 말해도…… 지금의 나는 이런 상황입니다……」"
+
+[[dialogue]]
+speaker_original = "テルル"
+speaker_translation = "테루루"
+original = "『ええ。しかし、忘れてはいませんか？\u3000貴方は厄災の力だけではない。星の輝きを宿した騎士であることを』"
+translation = "『네. 하지만 잊으셨나요? 당신은 재앙의 힘뿐만이 아니다. 별의 빛을 품은 기사라는 것을』"
+
+[[dialogue]]
+speaker_original = "テルル"
+speaker_translation = "테루루"
+original = "『守護星が地球であったことも、きっとこの時のため……大丈夫。きっと帰ることができますよ』"
+translation = "『수호성이 지구였던 것도 분명 이때를 위해…… 괜찮아요. 분명 돌아갈 수 있을 거예요』"
+
+[[dialogue]]
+speaker_original = "テルル"
+speaker_translation = "테루루"
+original = "『守護星とのリンクを可能な限り開き──耳を澄ませてみてください』"
+translation = "『수호성과의 링크를 가능한 한 열고── 귀를 기울여 보세요』"
+
+[[dialogue]]
+speaker_original = "テルル"
+speaker_translation = "테루루"
+original = "『貴方の帰るべき場所で、帰りを待ち望む星々の声が聴こえるはずです──』"
+translation = "『당신이 돌아가야 할 곳에서, 돌아오길 바라는 별들의 목소리가 들릴 터입니다──』"
+
+[[dialogue]]
+speaker = "unk"
+original = "──耳を澄ませてみる。"
+translation = "──귀를 기울여 본다."
+
+[[dialogue]]
+speaker = "unk"
+original = "完全な『無』の世界。果たして本当に、女神テルルの言う『声』は聴こえるのか──？"
+translation = "완전한 『무』의 세계. 과연 정말로 여신 테루루가 말하는 『목소리』는 들리는 것일까──?"
+
+[[dialogue]]
+speaker = "unk"
+original = "…………"
+translation = "…………"
+
+[[dialogue]]
+speaker = "unk"
+original = "……"
+translation = "……"
+
+[[dialogue]]
+speaker_original = "ヴィーナス（覚醒）"
+speaker_translation = "비너스(각성)"
+original = "『クロトーーーーーー！！！！！』"
+translation = "『쿠로토오오오오오오!!!!!!』"
+
+[[dialogue]]
+speaker_original = "クロト"
+speaker_translation = "쿠로토"
+original = "「…………ははっ」"
+translation = "「…………하핫」"
+
+[[dialogue]]
+speaker_original = "テルル"
+speaker_translation = "테루루"
+original = "『ふふふ……私たちの娘は、元気いっぱいですね？』"
+translation = "『후후…… 우리들의 딸은 기운이 넘치네요?』"
+
+[[dialogue]]
+speaker = "unk"
+original = "ありがとう、ヴィーナス。君はいつだってそうだ。"
+translation = "고마워, 비너스. 너는 언제나 그렇네."
+
+[[dialogue]]
+speaker = "unk"
+original = "いつだって俺の尻を叩いて、導いてくれる──"
+translation = "언제나 나의 엉덩이를 두드려주며 이끌어줘──"
+
+[[dialogue]]
+speaker_original = "テルル"
+speaker_translation = "테루루"
+original = "『方角はわかりましたね？\u3000迷わず、まっすぐ。最短距離で向かってください』"
+translation = "『방향은 알겠지요? 망설이지 말고 똑바로. 최단 거리로 향하세요』"
+
+[[dialogue]]
+speaker_original = "テルル"
+speaker_translation = "테루루"
+original = "『不出来な女神で申し訳ありませんでした……そして、この後の世界の行く末を、すべて押し付けてしまうことを、お許しください』"
+translation = "『부족한 여신이라 죄송했습니다…… 그리고 이 뒤의 세계의 향방을 모두 떠넘겨 버리는 것을 용서해 주세요』"
+
+[[dialogue]]
+speaker_original = "クロト"
+speaker_translation = "쿠로토"
+original = "「不出来だなんてとんでもない。あなたが俺たちの味方だったからこそ、ここまで来れたんです」"
+translation = "「부족하다니 천만다행입니다. 당신이 우리 편이었기에 여기까지 올 수 있었던 겁니다」"
+
+[[dialogue]]
+speaker_original = "テルル"
+speaker_translation = "테루루"
+original = "『私が亡くなった後の世界のことは……ルヴィネと話をしてあります』"
+translation = "『제가 죽은 뒤의 세계 일은…… 루비네와 이야기를 해두었습니다』"
+
+[[dialogue]]
+speaker_original = "テルル"
+speaker_translation = "테루루"
+original = "『あの子は今、一介の天使ですが……天寿を全うした後に、魂の位を神格にまで高め、私の後任の女神となります』"
+translation = "『그 아이는 지금 일개 천사이지만…… 천수를 다한 뒤에 영혼의 위계를 신격까지 높여 저의 후임 여신이 될 것입니다』"
+
+[[dialogue]]
+speaker_original = "テルル"
+speaker_translation = "테루루"
+original = "『ルヴィネは……妹は、快く応えてくれました。きっと私よりも優れた、ヒトの子に寄り添う女神になることでしょう』"
+translation = "『루비네는…… 여동생은 흔쾌히 응해주었습니다. 분명 저보다 뛰어난, 인간의 자식들에게 다가가는 여신이 될 거예요』"
+
+[[dialogue]]
+speaker_original = "クロト"
+speaker_translation = "쿠로토"
+original = "「……俺たちも、あなたが人類に注いでくれた愛を後世に伝えていきます」"
+translation = "「……우리도 당신이 인류에게 쏟아준 사랑을 후세에 전하겠습니다」"
+
+[[dialogue]]
+speaker_original = "クロト"
+speaker_translation = "쿠로토"
+original = "「流星教の女神は……これからもずっと、あなたを置いて他にいないのですから」"
+translation = "「유성교의 여신은…… 앞으로도 쭉 당신 말고는 다른 이가 없을 테니까요」"
+
+[[dialogue]]
+speaker_original = "テルル"
+speaker_translation = "테루루"
+original = "『…………ありがとう』"
+translation = "『…………고마워요』"
+
+[[dialogue]]
+speaker_original = "テルル"
+speaker_translation = "테루루"
+original = "『じゃあ最後に……ねえ──クロト？』"
+translation = "『그럼 마지막으로…… 저기── 쿠로토?』"
+
+[[dialogue]]
+speaker_original = "クロト"
+speaker_translation = "쿠로토"
+original = "「──っ！」"
+translation = "「──윽!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "テルルの声のトーンが変わった。"
+translation = "테루루의 목소리 톤이 바뀌었다."
+
+[[dialogue]]
+speaker = "unk"
+original = "これはきっと、悠久の時を過ごした女神の人格ではなく──デネブで短い時を過ごした、人間の器に注がれていた時の人格。"
+translation = "이건 분명 유구한 시간을 보낸 여신의 인격이 아니라── 데네브에서 짧은 시간을 보낸 인간의 그릇에 부어져 있던 때의 인격."
+
+[[dialogue]]
+speaker = "unk"
+original = "消えゆくその最期の時を、テルルは──『デネブの緋宮クロト』と運命を共にした、九浄テルルでいることを選んだ。"
+translation = "사라져 가는 그 마지막 시간을 테루루는── 『데네브의 히노미야 쿠로토』와 운명을 함께한 쿠죠 테루루로 있기를 선택했다."
+
+[[dialogue]]
+speaker_original = "クロト"
+speaker_translation = "쿠로토"
+original = "「ああ、なんだ？」"
+translation = "「아아, 뭐야?」"
+
+[[dialogue]]
+speaker_original = "テルル"
+speaker_translation = "테루루"
+original = "『ヴィーナスを……私たちの娘を守ってくれてありがとねっ！\u3000流石はあなただわ！』"
+translation = "『비너스를…… 우리 딸을 지켜줘서 고마워! 역시 당신이야!』"
+
+[[dialogue]]
+speaker_original = "テルル"
+speaker_translation = "테루루"
+original = "『それと……それとね…………！』"
+translation = "『그리고…… 그리고 말야…………!』"
+
+[[dialogue]]
+speaker_original = "テルル"
+speaker_translation = "테루루"
+original = "『愛してるわ、クロト！！\u3000これからも、ずーーーーーーっと！！！』"
+translation = "『사랑해, 쿠로토!! 앞으로도 주우우우우우욱!!!』"
+
+[[dialogue]]
+speaker = "unk"
+original = "……そうして、今度こそ。"
+translation = "……그렇게 이번에야말로."
+
+[[dialogue]]
+speaker = "unk"
+original = "……テルルは跡形もなく──消えた。"
+translation = "……테루루는 흔적도 없이── 사라졌다."
+
+[[dialogue]]
+speaker_original = "クロト"
+speaker_translation = "쿠로토"
+original = "「テルル……お疲れ様。デネブの俺と、末永く。幸せに──」"
+translation = "「테루루…… 고생했어. 데네브의 나와 오래도록. 행복하게──」"
+
+[[dialogue]]
+speaker = "unk"
+original = "──女神なき世界は、これからきっと大変だろう。"
+translation = "──여신 없는 세계는 앞으로 분명 힘들겠지."
+
+[[dialogue]]
+speaker = "unk"
+original = "けれど……守り抜く。何があっても──"
+translation = "하지만…… 지켜내겠어. 무슨 일이 있어도──"
+
+[[dialogue]]
+speaker_original = "クロト"
+speaker_translation = "쿠로토"
+original = "「俺も……帰ろう。みんなのところに──！！」"
+translation = "「나도…… 돌아가자. 모두가 있는 곳으로──!!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ヴィーナスの声がした方向を目指す。"
+translation = "비너스의 목소리가 들린 방향을 지향한다."
+
+[[dialogue]]
+speaker = "unk"
+original = "暗闇の中を泳ぐように。少しずつ、少しずつ──近づいていこう。"
+translation = "어둠 속을 헤엄치듯. 조금씩, 조금씩── 다가가자."
+
+[[dialogue]]
+speaker_original = "グレイス"
+speaker_translation = "그레이스"
+original = "「わ、私が！\u3000私が行きますっ！！\u3000絶対に魔王さんを見つけてきますからーっ！！」"
+translation = "「저, 제가! 제가 가겠습니다!! 절대로 마왕님을 찾아올 테니까요──!!」"
+
+[[dialogue]]
+speaker_original = "チナ"
+speaker_translation = "치나"
+original = "「バカヤロー！\u3000無茶言うな！\u3000落ち着けって！！」"
+translation = "「바보 같은 녀석! 무리한 소리 마! 진정하라고!!」"
+
+[[dialogue]]
+speaker_original = "グレイス"
+speaker_translation = "그레이스"
+original = "「でもこんなのあんまりですっ！\u3000魔王さんがいない世界なんて、絶対に──」"
+translation = "「하지만 이건 너무해요! 마왕님이 없는 세계 따위 절대로──」"
+
+[[dialogue]]
+speaker_original = "クロト"
+speaker_translation = "쿠로토"
+original = "「…………いてて」"
+translation = "「…………아야야」"
+
+[[dialogue]]
+speaker_original = "グレイス"
+speaker_translation = "그레이스"
+original = "「魔王さんっ！？」"
+translation = "「마왕님!?」"
+
+[[dialogue]]
+speaker_original = "チナ"
+speaker_translation = "치나"
+original = "「魔王──！？」"
+translation = "「마왕──!?」"
+
+[[dialogue]]
+speaker_original = "クロト"
+speaker_translation = "쿠로토"
+original = "「みんな、ただいま──」"
+translation = "「모두들, 다녀왔어──」"
+
+[[dialogue]]
+speaker_original = "ヴィーナス（覚醒）"
+speaker_translation = "비너스(각성)"
+original = "「クロトーーーーーーーーーッ！！！！」"
+translation = "「쿠로토오오오오오오오오오오옷!!!!」"
+
+[[dialogue]]
+speaker_original = "クロト"
+speaker_translation = "쿠로토"
+original = "「があぁぁああぁあっ──！？」"
+translation = "「가아아아아아아아앗──!?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ロケットみたいに突っ込んできた……！！"
+translation = "로켓처럼 돌진해왔어……!!"
+
+[[dialogue]]
+speaker_original = "クロト"
+speaker_translation = "쿠로토"
+original = "「ヴィーナス……お、落ち着け、傷が……うげっ！？」"
+translation = "「비너스…… 지, 진정해, 상처가…… 우겍!?」"
+
+[[dialogue]]
+speaker_original = "ヴィーナス（覚醒）"
+speaker_translation = "비너스(각성)"
+original = "「よかったぁ……もう、会えないかもって……ぐすっ、パパぁ！！」"
+translation = "「다행이야…… 이제 못 만날지도 모른다고…… 훌쩍, 아빠아!!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ヴィーナスに押し倒されたまま、晴れ渡ったデネブの空を見る。"
+translation = "비너스에게 깔린 채로 맑게 갠 데네브의 하늘을 본다."
+
+[[dialogue]]
+speaker_original = "クロト"
+speaker_translation = "쿠로토"
+original = "（……リクリエの脅威は、去った）"
+translation = "(……리크리에의 위협은 물러갔다)"
+
+[[dialogue]]
+speaker = "unk"
+original = "森羅歴上、３度目となるリクリエ防衛──その成功を、俺は確かに実感するのだった。"
+translation = "삼라력상 세 번째가 되는 리크리에 방위── 그 성공을 나는 확실히 실감하는 것이었다."
+
+[[dialogue]]
+speaker_original = "ホロウ・ルヴィネ"
+speaker_translation = "할로우・루비네"
+original = "「…………恐ろしい」"
+translation = "「…………무서워라」"
+
+[[dialogue]]
+speaker = "unk"
+original = "あの男は、本当にどうなっている？"
+translation = "그 남자는 정말 어떻게 되어있는 거지?"
+
+[[dialogue]]
+speaker = "unk"
+original = "時空のはざまに放逐したにも関わらず……大した<ruby>暇<rt>いとま</rt></ruby>もなく戻ってきた。"
+translation = "시공의 틈새로 방출했음에도 불구하고…… 큰 시간 차도 없이 돌아왔다."
+
+[[dialogue]]
+speaker_original = "ホロウ・ルヴィネL"
+speaker_translation = "할로우 루비네 L"
+original = "「……お父様？\u3000今、なんと……？」"
+translation = "「……아버님? 방금 뭐라고……?」"
+
+[[dialogue]]
+speaker_original = "ホロウ・ルヴィネL"
+speaker_translation = "할로우 루비네 L"
+original = "「……彼が生きている間は、リクリエの活動を停止する──ですか？」"
+translation = "「……그가 살아있는 동안에는 리크리에의 활동을 정지한다── 말입니까?」"
+
+[[dialogue]]
+speaker_original = "ホロウ・ルヴィネL"
+speaker_translation = "할로우 루비네 L"
+original = "「……はい。私も、賛成です。あの者には、まともな計算が通用しません……」"
+translation = "「……네. 저도 찬성입니다. 그자에게는 제대로 된 계산이 통하지 않습니다……」"
+
+[[dialogue]]
+speaker_original = "ホロウ・ルヴィネL"
+speaker_translation = "할로우 루비네 L"
+original = "「次のリクリエを起こすのは……緋宮クロトが寿命を迎え、死亡した後……承知いたしました」"
+translation = "「다음 리크리에를 일으키는 것은…… 히노미야 쿠로토가 수명을 다해 사망한 뒤…… 알겠습니다」"
+
+[[dialogue]]
+speaker_original = "ホロウ・ルヴィネL"
+speaker_translation = "할로우 루비네 L"
+original = "「はい。それまで、我々は身を隠しましょう──」"
+translation = "「네. 그때까지 저희는 몸을 숨기도록 하죠──」"
+
+[[dialogue]]
+speaker_original = "梨緒"
+speaker_translation = "리오"
+original = "「……魔王？\u3000今、なんと言った？」"
+translation = "「……마왕? 지금 뭐라고 했어?」"
+
+[[dialogue]]
+speaker_original = "クロト"
+speaker_translation = "쿠로토"
+original = "「リクリエ防衛は成功した。だけど、ここで手は休めない」"
+translation = "「리크리에 방위는 성공했어. 하지만 여기서 손을 떼진 않을 거야」"
+
+[[dialogue]]
+speaker_original = "クロト"
+speaker_translation = "쿠로토"
+original = "「時空のはざまには『ＸＥＬＯＳ』たちも飛び込んでいるが……あそこは完全な“無”の空間だ」"
+translation = "「시공의 틈새에는 『XELOS』들도 뛰어들어갔지만…… 저기는 완전한 “무”의 공간이야」"
+
+[[dialogue]]
+speaker_original = "クロト"
+speaker_translation = "쿠로토"
+original = "「……追撃する方法はまだ見えていない。けれど力を合わせれば、きっと『ＸＥＬＯＳ』の居場所を特定できるはずだ」"
+translation = "「……추격할 방법은 아직 보이지 않아. 하지만 힘을 합친다면 분명 『XELOS』의 거처를 특정할 수 있을 터야」"
+
+[[dialogue]]
+speaker_original = "煌嶺"
+speaker_translation = "코레이"
+original = "「やるのならば徹底的に叩かねばな。決着をつけぬなどあり得ぬ」"
+translation = "「할 거라면 철저히 짓뭉개야지. 결판을 내지 않는다는 건 있을 수 없다」"
+
+[[dialogue]]
+speaker_original = "クロト"
+speaker_translation = "쿠로토"
+original = "「そうだ。俺のこの力も……いつまでもあるものとは思えないからな」"
+translation = "「그래. 나의 이 힘도…… 언제까지나 있을 거라곤 생각되지 않으니까」"
+
+[[dialogue]]
+speaker = "unk"
+original = "そう遠くない未来に『ベガの俺』の力は失われる──そんな予感があった。"
+translation = "머지않은 미래에 『베가의 나』의 힘은 사라질 것이다── 그런 예감이 들었다."
+
+[[dialogue]]
+speaker = "unk"
+original = "だからこそ……この力があるうちに創造神を確実に滅ぼす。"
+translation = "그렇기에…… 이 힘이 있을 때 창조신을 확실히 멸한다."
+
+[[dialogue]]
+speaker = "unk"
+original = "防衛はもうここまで──さあ、今度こそ本当に幕を下ろそう。"
+translation = "방위는 이제 여기까지── 자, 이번에야말로 정말로 막을 내리자."
+
+[[dialogue]]
+speaker_original = "クロト"
+speaker_translation = "쿠로토"
+original = "「傷が癒え次第──掃討戦を開始する」"
+translation = "「상처가 치유되는 대로── 소탕전을 개시한다」"
+
+[[dialogue]]
+speaker_original = "クロト"
+speaker_translation = "쿠로토"
+original = "「『オペレーション・ペンタグラム』に比する規模の総力戦を始める──今度は俺たちが攻め込む番だ！！」"
+translation = "「『오퍼레이션 펜타그램』에 비견되는 규모의 총력전을 시작하겠어── 이번엔 우리가 쳐들어갈 차례다!!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "【To be continued…】"
+translation = "【To be continued…】"
+

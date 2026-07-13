@@ -1,0 +1,313 @@
+[[dialogue]]
+speaker = "unk"
+original = "第４話,俺たち『らしい』お家デート,P"
+translation = "제4화, 우리들 ‘다운’ 집 데이트, P"
+
+[[dialogue]]
+speaker = "unk"
+original = "環は見た目通りのアクティブな女の子で、体を動かす遊びを好む。"
+translation = "타마키는 겉모습 그대로 액티브한 소녀로, 몸을 움직이는 놀이를 즐긴다."
+
+[[dialogue]]
+speaker = "unk"
+original = "ゲームセンターのダンスゲームとか、バッティングセンターなんかに誘うと喜んでついて来てくれる──が。"
+translation = "게임 센터의 댄스 게임이나, 배팅 센터 같은 곳에 권하면 기쁘게 따라와 주지만──."
+
+[[dialogue]]
+speaker = "unk"
+original = "彼女の趣味の１つに、映画鑑賞がある。自宅でまったり過ごすのも好きなことを知っているのは、恋人の特権かもしれない。"
+translation = "그녀의 취미 중 하나에 영화 감상이 있다. 집에서 느긋하게 지내는 것도 좋아한다는 것을 아는 것은 연인의 특권일지도 모른다."
+
+[[dialogue]]
+speaker_original = "ラクシャ"
+speaker_translation = "락샤"
+original = "「とうとうあの監督の新作が観られるだなんて嬉しいなあ。公開してた時、ちょうど会長たちとバタバタしてたから見逃してたんだ」"
+translation = "「드디어 그 감독의 신작을 볼 수 있다니 기쁘네. 개봉했을 때 마침 회장 일행이랑 바쁘게 움직이느라 놓쳤었거든」"
+
+[[dialogue]]
+speaker_original = "ラクシャ"
+speaker_translation = "락샤"
+original = "「あれ、覚えてない？\u3000一緒に映画館で見たじゃん。主人公が、矢を何本も同時に撃つやつ」"
+translation = "「어라, 기억 안 나? 같이 영화관에서 봤잖아. 주인공이 화살을 몇 대나 동시에 쏘는 거」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ミュージカルシーンもあるやつだっけ"
+translation = "뮤지컬 장면도 있는 거였던가"
+
+[[dialogue]]
+speaker_original = "ラクシャ"
+speaker_translation = "락샤"
+original = "「そうそう！\u3000クライマックスの人間砲弾のシーン、めちゃくちゃ面白かったでしょ！」"
+translation = "「맞아 맞아! 클라이맥스의 인간 포탄 장면, 엄청 재밌었지!」"
+
+[[dialogue]]
+speaker_original = "ラクシャ"
+speaker_translation = "락샤"
+original = "「今日観るのは、同じ監督のやつだよ。すっごい楽しみ！\u3000会長、準備はいい？」"
+translation = "「오늘 볼 건 같은 감독의 작품이야. 정말 기대돼! 회장, 준비됐어?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ポップコーンとコーラはここに！"
+translation = "팝콘이랑 콜라는 여기!"
+
+[[dialogue]]
+speaker_original = "ラクシャ"
+speaker_translation = "락샤"
+original = "「オッケー、それじゃ、上映開始～♪」"
+translation = "「오케이, 그럼 상영 시작~♪」"
+
+[[dialogue]]
+speaker_original = "ラクシャ"
+speaker_translation = "락샤"
+original = "「……最高だった」"
+translation = "「……최고였어」"
+
+[[dialogue]]
+speaker = "unk"
+original = "神映画だ。間違いなく"
+translation = "갓 영화야. 틀림없이"
+
+[[dialogue]]
+speaker_original = "ラクシャ"
+speaker_translation = "락샤"
+original = "「うん。主人公たち２人が肩車しながら敵を殲滅するシーン、あまりに完璧すぎない？」"
+translation = "「응. 주인공들 둘이 목마 타고 적을 섬멸하는 장면, 너무 완벽하지 않아?」"
+
+[[dialogue]]
+speaker_original = "ラクシャ"
+speaker_translation = "락샤"
+original = "「バイクと馬で疾走するシーンもカッコよかったなあ……ボクも免許取ろうかな……！」"
+translation = "「바이크랑 말로 질주하는 장면도 멋졌지…… 나도 면허 딸까나……!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "俺も興味があるな"
+translation = "나도 흥미가 생기는걸"
+
+[[dialogue]]
+speaker_original = "ラクシャ"
+speaker_translation = "락샤"
+original = "「２人でツーリングとかも楽しいかもね！\u3000やりたいことリストに入れとこっと」"
+translation = "「둘이서 투어링 가는 것도 즐거울지도! 하고 싶은 일 리스트에 넣어둬야지」"
+
+[[dialogue]]
+speaker_original = "ラクシャ"
+speaker_translation = "락샤"
+original = "「あー、楽しかった。でも長いこと観てたからお腹空いたね。どっかに食べに行く？」"
+translation = "「아─, 재밌었다. 하지만 오랫동안 봤더니 배고프네. 어디 먹으러 갈까?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "せっかくだしピザでも取ろうか"
+translation = "이왕 이렇게 된 거 피자라도 시킬까"
+
+[[dialogue]]
+speaker_original = "ラクシャ"
+speaker_translation = "락샤"
+original = "「──ナイスアイデア。それ採用！\u3000早速ＤＩＳＣで注文っと……」"
+translation = "「──나이스 아이디어. 그걸로 결정! 바로 DISC로 주문해야지……」"
+
+[[dialogue]]
+speaker_original = "ラクシャ"
+speaker_translation = "락샤"
+original = "「あ、今日は月末近くだから、セールやってる。懐かしいな」"
+translation = "「아, 오늘은 월말 근처라 세일하고 있네. 그립다」"
+
+[[dialogue]]
+speaker_original = "ラクシャ"
+speaker_translation = "락샤"
+original = "「昔ここでもバイトしてたよね。月末はいっつもバタバタして……大変だったけど楽しかったよねー」"
+translation = "「옛날에 여기서도 알바했었지. 월말은 언제나 정신없어서…… 힘들었지만 즐거웠었지─」"
+
+[[dialogue]]
+speaker = "unk"
+original = "そうしてピザの注文を終えて……"
+translation = "그렇게 피자 주문을 마치고……"
+
+[[dialogue]]
+speaker_original = "ラクシャ"
+speaker_translation = "락샤"
+original = "「よし！\u3000後は待つだけ──ってことで♪」"
+translation = "「좋아! 이제 기다리기만 하면── 된다는 거로♪」"
+
+[[dialogue]]
+speaker_original = "ラクシャ"
+speaker_translation = "락샤"
+original = "「イチャイチャしよーぜ、会長っ♪」"
+translation = "「꽁냥대자고, 회장님♪」"
+
+[[dialogue]]
+speaker_original = "ラクシャ"
+speaker_translation = "락샤"
+original = "「えー、いいじゃん。にんにくたっぷりジェノベーゼピザを食べた後だとキスできないじゃん。今しよ？」"
+translation = "「에이, 좋잖아. 마늘 듬뿍 넣은 제노베제 피자를 먹고 나면 키스 못 하잖아. 지금 하자?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "俺は気にしないけど"
+translation = "난 상관없는데"
+
+[[dialogue]]
+speaker_original = "ラクシャ"
+speaker_translation = "락샤"
+original = "「ボクが気にするの！\u3000キミってさぁ、女心をわからないよねホントに」"
+translation = "「내가 신경 쓰인다고! 너 말이야, 여자의 마음을 정말 모른다니까 정말로」"
+
+[[dialogue]]
+speaker_original = "ラクシャ"
+speaker_translation = "락샤"
+original = "「ん……ちゅ<emoji=heart04>\u3000へへ、ほら、もっとギューってしてよ……ねっ<emoji=heart04>」"
+translation = "「음…… 츄<emoji=heart04> 헤헤, 자, 좀 더 꼬옥 안아줘…… 응?<emoji=heart04>」"
+
+[[dialogue]]
+speaker_original = "ラクシャ"
+speaker_translation = "락샤"
+original = "「んちゅ……ぷぁ<emoji=heart04>\u3000会長、インターフォン鳴ってる……早く行かなきゃ……」"
+translation = "「응츄…… 푸하<emoji=heart04> 회장, 초인종 울리고 있어…… 빨리 가봐야지……」"
+
+[[dialogue]]
+speaker = "unk"
+original = "もう少しだけ……"
+translation = "조금만 더……"
+
+[[dialogue]]
+speaker_original = "ラクシャ"
+speaker_translation = "락샤"
+original = "「だーめ。待たせちゃ悪いじゃん……また後でね？」"
+translation = "「안 돼. 기다리게 하면 미안하잖아…… 나중에 다시 해, 응?」"
+
+[[dialogue]]
+speaker_original = "青年"
+speaker_translation = "청년"
+original = "「ちわー、流星ピザでーす」"
+translation = "「계십니까, 유성 피자입니다」"
+
+[[dialogue]]
+speaker_original = "ラクシャ"
+speaker_translation = "락샤"
+original = "「待ってました～……って！？」"
+translation = "「기다렸어요~…… 어라!?」"
+
+[[dialogue]]
+speaker_original = "青年"
+speaker_translation = "청년"
+original = "「あれ、市倉じゃん！？\u3000それに──リ、リーダー！？」"
+translation = "「어라, 이치쿠라잖아!? 게다가── 리, 리더!?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "君はまだここでバイトしてたんだな"
+translation = "너 아직 여기서 알바하고 있었구나"
+
+[[dialogue]]
+speaker = "unk"
+original = "リーダーは昔の話だよ"
+translation = "리더는 옛날이야기야"
+
+[[dialogue]]
+speaker_original = "ラクシャ"
+speaker_translation = "락샤"
+original = "「世間は狭いね～。宅配お疲れ様！」"
+translation = "「세상 참 좁네~. 배달하느라 수고했어!」"
+
+[[dialogue]]
+speaker_original = "青年"
+speaker_translation = "청년"
+original = "「あれ……もしかして２人って……」"
+translation = "「저기…… 혹시 두 사람……」"
+
+[[dialogue]]
+speaker_original = "ラクシャ"
+speaker_translation = "락샤"
+original = "「……あー、うん。付き合ってるんだ、ボクら」"
+translation = "「……아─, 응. 사귀고 있어, 우리」"
+
+[[dialogue]]
+speaker_original = "青年"
+speaker_translation = "청년"
+original = "「そうなのか……仲良かったもんなぁ、２人とも！\u3000自分のことのように嬉しいよ！」"
+translation = "「그렇구나…… 사이 좋았었지, 둘 다! 내 일처럼 기뻐!」"
+
+[[dialogue]]
+speaker_original = "ラクシャ"
+speaker_translation = "락샤"
+original = "「忙しいのに頼んじゃってごめんねー。みんな元気にしてる？」"
+translation = "「바쁜데 시켜서 미안해─. 다들 잘 지내?」"
+
+[[dialogue]]
+speaker_original = "青年"
+speaker_translation = "청년"
+original = "「…………う、うぅ……！！」"
+translation = "「…………우, 으으……!!」"
+
+[[dialogue]]
+speaker_original = "ラクシャ"
+speaker_translation = "락샤"
+original = "「……どうしたの？」"
+translation = "「……왜 그래?」"
+
+[[dialogue]]
+speaker_original = "青年"
+speaker_translation = "청년"
+original = "「あの時のメンバーは、もういないんだ……生き残ったのは俺だけ……」"
+translation = "「그때 멤버들은, 이제 없어…… 살아남은 건 나뿐이야……」"
+
+[[dialogue]]
+speaker_original = "ラクシャ"
+speaker_translation = "락샤"
+original = "「なん──だって！？」"
+translation = "「무슨── 소리야!?」"
+
+[[dialogue]]
+speaker_original = "青年"
+speaker_translation = "청년"
+original = "「リーダーが辞めて……市倉も辞めた後……新しく来た店長がひどい奴でさ……もう俺しか……」"
+translation = "「리더가 그만두고…… 이치쿠라도 그만둔 뒤에…… 새로 온 점장이 지독한 녀석이라서…… 이제 나밖에……」"
+
+[[dialogue]]
+speaker_original = "青年"
+speaker_translation = "청년"
+original = "「今日もてんてこ舞いで、届け先で遅いって怒鳴られて……小銭も投げられてさ……俺、もう辛くて……うぅうう……！」"
+translation = "「오늘도 눈코 뜰 새 없이 바빠서, 배달지에서 늦었다고 고함 듣고…… 동전도 던져대고 말이야…… 나, 이제 힘들어서…… 으으으으……!」"
+
+[[dialogue]]
+speaker_original = "ラクシャ"
+speaker_translation = "락샤"
+original = "「そんな……なんてひどい……」"
+translation = "「세상에…… 어쩜 그렇게 심한……」"
+
+[[dialogue]]
+speaker_original = "青年"
+speaker_translation = "청년"
+original = "「──頼む！\u3000今日だけでいいんだ、臨時で手伝ってくれないか！？\u3000デート中に悪いとは思う……だけどもう、頼れるのは市倉たちしか……！」"
+translation = "「──부탁해! 오늘 하루면 돼, 임시로 좀 도와주지 않을래!? 데이트 중에 미안하다는 건 알아…… 하지만 이제, 의지할 수 있는 건 이치쿠라 일행밖에……!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "…………環"
+translation = "…………타마키"
+
+[[dialogue]]
+speaker_original = "ラクシャ"
+speaker_translation = "락샤"
+original = "「──うん。かつての仲間を見捨てちゃ、天使がすたるってもんだよ」"
+translation = "「──응. 옛 동료를 저버리면 천사가 아니지」"
+
+[[dialogue]]
+speaker_original = "ラクシャ"
+speaker_translation = "락샤"
+original = "「ピザは後で温め直せばいいや。よーし、天使環ちゃんとバイト魔王が助けてあげよう！\u3000ほら、泣かないで！\u3000行くよっ！」"
+translation = "「피자는 나중에 다시 데우면 돼. 좋ー아, 천사 타마키 짱과 알바 마왕이 도와줄게! 자, 울지 마! 가자!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "家デートはおかしな締めになっちゃったけど……こういうアクシデントも、バイト漬けだった俺たちには『らしい』のかもしれない。"
+translation = "집 데이트는 이상한 결말이 되어버렸지만…… 이런 사고도, 알바에 절어 살았던 우리에게는 『우리답다』고 할 수 있을지도 모른다."
+
+[[dialogue]]
+speaker = "unk"
+original = "こうして俺と環は、古巣のピザ屋で久しぶりに、かつてのコンビネーションを発揮するのだった──"
+translation = "이렇게 나와 타마키는, 옛 일터인 피자 가게에서 오랜만에 예전의 콤비네이션을 발휘하는 것이었다──"
+

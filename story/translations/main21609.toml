@@ -1,0 +1,592 @@
+[[dialogue]]
+speaker = "unk"
+original = "第９話,冥界の視座,B"
+translation = "제9화 명계의 시좌 B"
+
+[[dialogue]]
+speaker_original = "ホロウ・ルヴィネ"
+speaker_translation = "할로우・루비네"
+original = "「ようやく仕留めたわ。２つの世界を指揮する、最も厄介な星騎士を……」"
+translation = "「드디어 처치했네. 두 세계를 지휘하는 가장 까다로운 성기사를……」"
+
+[[dialogue]]
+speaker = "unk"
+original = "『<ruby>ＸＥＬＯＳ<rt>ゼロス</rt></ruby>』の光弾により心の臓を貫かれ、魔王・緋宮クロトは絶命した。"
+translation = "『<ruby>XELOS<rt>젤로스</rt></ruby>』의 광탄에 심장을 꿰뚫려 마왕 히노미야 쿠로토는 절명했다."
+
+[[dialogue]]
+speaker_original = "ヴィーナス（覚醒）"
+speaker_translation = "비너스(각성)"
+original = "「…………パパ？」"
+translation = "「………… 아빠?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "少年からの返事はない。すでに彼の髪色は黒髪へと戻り、戦闘服すらも制服へと立ち戻っている。"
+translation = "소년의 대답은 없다. 이미 그의 머리카락은 흑발로 돌아왔고, 전투복조차 교복으로 되돌아와 있다."
+
+[[dialogue]]
+speaker = "unk"
+original = "彼の傍らには、絶命の一撃と同時に砕かれたセレスティアが転がっており──全てが終わっていたことを、告げていた。"
+translation = "그의 곁에는 절명의 일격과 동시에 부서진 셀레스티아가 굴러다니고 있었으며── 모든 것이 끝났음을 고하고 있었다."
+
+[[dialogue]]
+speaker_original = "ルヴィネ"
+speaker_translation = "루비네"
+original = "「……そんな」"
+translation = "「…… 그럴 수가」"
+
+[[dialogue]]
+speaker_original = "フィオナ（魔王）"
+speaker_translation = "피오나(마왕)"
+original = "「緋宮、会長……？」"
+translation = "「히노미야, 회장님……?」"
+
+[[dialogue]]
+speaker_original = "ヴィーナス（覚醒）"
+speaker_translation = "비너스(각성)"
+original = "「あ、あるわけない……こんなこと……だって、パパは魔王で……世界を救う、ヒーローなんだから……」"
+translation = "「그, 그럴 리 없어…… 이런 일…… 왜냐면 아빠는 마왕이고…… 세계를 구하는 히어로니까……」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ヴィーナスがへたり込み、ぴくりとも動かない緋宮クロトを抱き上げる。"
+translation = "비너스가 주저앉아 미동도 하지 않는 히노미야 쿠로토를 안아 올린다."
+
+[[dialogue]]
+speaker_original = "ヴィーナス（覚醒）"
+speaker_translation = "비너스(각성)"
+original = "「パパ。目を、覚まして……お願い……ねぇ……！？」"
+translation = "「아빠. 눈 좀 떠 봐…… 부탁이야…… 응……!?」"
+
+[[dialogue]]
+speaker_original = "ヴィーナス（覚醒）"
+speaker_translation = "비너스(각성)"
+original = "「ラクシャ……！\u3000治療をして！\u3000マグダレナの権能を使えるんでしょう？\u3000早く……！！」"
+translation = "「락샤……! 치료해 줘! 막달레나의 권능을 쓸 수 있잖아? 빨리……!!」"
+
+[[dialogue]]
+speaker_original = "ラクシャ"
+speaker_translation = "락샤"
+original = "「…………無理だ。守護天使の力で傷は癒やせても……失った命までは──」"
+translation = "「………… 무리다. 수호천사의 힘으로 상처는 고칠 수 있어도…… 잃어버린 목숨까지는──」"
+
+[[dialogue]]
+speaker_original = "ヴィーナス（覚醒）"
+speaker_translation = "비너스(각성)"
+original = "「そんな……な、何とかなるはずよ！\u3000今までだって何度も奇蹟を起こしてきたもの！\u3000今度だって、きっと──」"
+translation = "「그럴 리…… 버, 방법이 있을 거야! 지금까지도 몇 번이나 기적을 일으켜 왔는걸! 이번에도 분명──」"
+
+[[dialogue]]
+speaker_original = "ラクシャ"
+speaker_translation = "락샤"
+original = "「…………ごめんよ、ヴィーナス」"
+translation = "「………… 미안해, 비너스」"
+
+[[dialogue]]
+speaker_original = "ヴィーナス（覚醒）"
+speaker_translation = "비너스(각성)"
+original = "「…………ぁ、ぁぁぁ、あぁあぁ──」"
+translation = "「………… 아, 아아아, 아아아──」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ヴィーナスの変身が、無意識のうちに解除される──戦う意志を、喪失した証だった。"
+translation = "비너스의 변신이 무의식중에 해제된다── 싸울 의지를 상실했다는 증거였다."
+
+[[dialogue]]
+speaker_original = "梨緒"
+speaker_translation = "리오"
+original = "「ヴィーナス！\u3000何をしている……立て！\u3000まだ戦いは終わっていない！！\u3000彼の遺志を、無駄にするつもりか！？」"
+translation = "「비너스! 뭘 하고 있는 거야…… 일어서! 아직 싸움은 끝나지 않았어!! 그의 유지를 헛되게 할 셈인가!?」"
+
+[[dialogue]]
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
+original = "「いや……いやよ……こんなの……いやぁ……」"
+translation = "「싫어…… 싫어…… 이런 거…… 싫어어……」"
+
+[[dialogue]]
+speaker_original = "梨緒"
+speaker_translation = "리오"
+original = "「ヴィーナスッ！！」"
+translation = "「비너스!!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "梨緒が懸命に、途切れかける士気を繋ごうと声をかけるが……その言葉はもうヴィーナスには届かない。"
+translation = "리오가 필사적으로 끊기려는 사기를 이으려 말을 걸지만…… 그 목소리는 더 이상 비너스에게 닿지 않는다."
+
+[[dialogue]]
+speaker = "unk"
+original = "アルタイルとデネブの希望であった、救世の魔王が倒れたことが、遺された者たちの心を折っていく。"
+translation = "알타이르와 데네브의 희망이었던 구세의 마왕이 쓰러진 사실이 남겨진 이들의 마음을 꺾어 간다."
+
+[[dialogue]]
+speaker = "unk"
+original = "諦めの気持ちが、周りに侵食していく──"
+translation = "포기하려는 마음이 주변으로 침식해 간다──"
+
+[[dialogue]]
+speaker = "unk"
+original = "彼がいなくてはどうにもならない──その想いが、伝播していく。"
+translation = "그가 없으면 아무것도 할 수 없다── 그 생각이 전파되어 간다."
+
+[[dialogue]]
+speaker_original = "梨緒"
+speaker_translation = "리오"
+original = "「みんな──しっかりしろ！\u3000こんなところで諦めて、彼が喜ぶと思うのか！？」"
+translation = "「모두── 정신 차려! 이런 곳에서 포기하면 그가 기뻐할 것 같아!?」"
+
+[[dialogue]]
+speaker_original = "ジグ"
+speaker_translation = "지그"
+original = "（真っ暗闇の未来。そういうことだったか……）"
+translation = "(칠흑 같은 미래. 그런 뜻이었나……)"
+
+[[dialogue]]
+speaker_original = "ジグ"
+speaker_translation = "지그"
+original = "「……………………終わりだ」"
+translation = "「…………………… 끝이다」"
+
+[[dialogue]]
+speaker_original = "クロト"
+speaker_translation = "쿠로토"
+original = "（ここは……どこだ……？）"
+translation = "(여기는…… 어디지……?)"
+
+[[dialogue]]
+speaker_original = "クロト"
+speaker_translation = "쿠로토"
+original = "（俺…………どうなったんだ……？）"
+translation = "(나………… 어떻게 된 거지……?)"
+
+[[dialogue]]
+speaker = "unk"
+original = "デネブに渡って、教皇庁前で『<ruby>ＸＥＬＯＳ<rt>ゼロス</rt></ruby>』と対峙して──それで？"
+translation = "데네브로 건너가서 교황청 앞에서 『<ruby>XELOS<rt>젤로스</rt></ruby>』와 대치하고── 그래서?"
+
+[[dialogue]]
+speaker_original = "ラクシャ"
+speaker_translation = "락샤"
+original = "「────やぁ、会長」"
+translation = "「──── 여어, 회장」"
+
+[[dialogue]]
+speaker_original = "クロト"
+speaker_translation = "쿠로토"
+original = "「…………環？」"
+translation = "「………… 타마키?」"
+
+[[dialogue]]
+speaker_original = "ラクシャ"
+speaker_translation = "락샤"
+original = "「逢いに来たよ、最期だからね」"
+translation = "「만나러 왔어, 마지막이니까」"
+
+[[dialogue]]
+speaker_original = "ラクシャ"
+speaker_translation = "락샤"
+original = "「魂の管理はパテルの領分だけど……今この世界にいる彼女のコアはボクが持っている。だからボクの口から伝えるよ」"
+translation = "「영혼의 관리는 파텔의 영역이지만…… 지금 이 세계에 있는 그녀의 코어는 내가 가지고 있어. 그러니까 내 입으로 전할게」"
+
+[[dialogue]]
+speaker_original = "ラクシャ"
+speaker_translation = "락샤"
+original = "「──きみは死んだ。もう、ボクたち守護天使の力でも、どうすることもできない……」"
+translation = "「── 너는 죽었어. 이제 우리 수호천사의 힘으로도 어찌할 수 없어……」"
+
+[[dialogue]]
+speaker_original = "ラクシャ"
+speaker_translation = "락샤"
+original = "「ここは冥界の視座──きみたちのいた現世と、死後の世界のはざまの場所だ」"
+translation = "「여기는 명계의 시좌── 너희가 있던 현세와 사후 세계의 경계가 되는 곳이야」"
+
+[[dialogue]]
+speaker_original = "ラクシャ"
+speaker_translation = "락샤"
+original = "「この冥界の視座に来た者が行く先は１つだけ。次の輪廻のために、進むしかない……」"
+translation = "「이 명계의 시좌에 온 자가 갈 곳은 단 하나뿐. 다음 윤회를 위해 나아갈 수밖에 없어……」"
+
+[[dialogue]]
+speaker_original = "クロト"
+speaker_translation = "쿠로토"
+original = "「環……待ってくれ。どうにか……どうにかならないのかっ？\u3000パテルや、ラクシャの力を使って、現世に戻れないのか！？」"
+translation = "「타마키…… 기다려 줘. 어떻게…… 어떻게 안 되는 거야!? 파텔이나 락샤의 힘을 써서 현세로 돌아갈 수는 없는 거냐고!?」"
+
+[[dialogue]]
+speaker_original = "ラクシャ"
+speaker_translation = "락샤"
+original = "「魂の依り代となる肉体を作ることはできる。けれど、命はみんな１つきり。失えば、取り戻せない……」"
+translation = "「영혼의 그릇이 될 육체를 만들 수는 있어. 하지만 생명은 누구나 단 하나뿐. 잃으면 되찾을 수 없어……」"
+
+[[dialogue]]
+speaker_original = "クロト"
+speaker_translation = "쿠로토"
+original = "「俺にはまだやらなくちゃいけないことがあるんだ……！\u3000みんなを救える、わずかな時間だけでもいい！！」"
+translation = "「나에겐 아직 해야 할 일이 있단 말이야……! 모두를 구할 수 있는 짧은 시간만이라도 좋아!!」"
+
+[[dialogue]]
+speaker_original = "クロト"
+speaker_translation = "쿠로토"
+original = "「デネブに……現世に戻してくれ！！\u3000頼む──！！」"
+translation = "「데네브로…… 현세로 돌려보내 줘!! 부탁이야──!!」"
+
+[[dialogue]]
+speaker_original = "ラクシャ"
+speaker_translation = "락샤"
+original = "「……ボクの命なんかで代わりになるなら、喜んで渡したいところなんだけれどね」"
+translation = "「…… 내 목숨 같은 걸로 대신할 수 있다면 기꺼이 주고 싶은 참이지만 말이야」"
+
+[[dialogue]]
+speaker_original = "ラクシャ"
+speaker_translation = "락샤"
+original = "「……魂の色は人それぞれ違う。代替は利かないんだ」"
+translation = "「…… 영혼의 색은 사람마다 다 달라. 대체는 불가능해」"
+
+[[dialogue]]
+speaker_original = "ラクシャ"
+speaker_translation = "락샤"
+original = "「きみの命は、きみだけのものだから……どうしようもないんだ……ごめんよ……」"
+translation = "「네 목숨은 너만의 것이니까…… 어쩔 수 없어…… 미안해……」"
+
+[[dialogue]]
+speaker = "unk"
+original = "『ＸＥＬＯＳ』が真なる姿を再び、その無機質な立方体の中に収めた。"
+translation = "『XELOS』가 진정한 모습을 다시금 그 무기질적인 정육면체 속에 거두었다."
+
+[[dialogue]]
+speaker_original = "ホロウ・ルヴィネ"
+speaker_translation = "할로우・루비네"
+original = "「魔王が死んだ今、脅威はもはやない──後は私たちとあの右腕にお任せください」"
+translation = "「마왕이 죽은 지금, 위협은 더 이상 없습니다── 나머지는 저희와 저 오른팔에게 맡겨 주십시오」"
+
+[[dialogue]]
+speaker_original = "梨緒"
+speaker_translation = "리오"
+original = "「くそっ……！！」"
+translation = "「젠장……!!」"
+
+[[dialogue]]
+speaker_original = "ホロウ・ルヴィネ"
+speaker_translation = "할로우・루비네"
+original = "「厄災、次の獲物はあれよ。守護天使ノルンごと、轢き潰しなさい」"
+translation = "「액운, 다음 사냥감은 저거야. 수호천사 노른과 함께 짓뭉개 버리렴」"
+
+[[dialogue]]
+speaker = "unk"
+original = "絶命を免れない一撃が己に届く、その数瞬先を覗く梨緒は──"
+translation = "절명을 피할 수 없는 일격이 자신에게 닿기 불과 몇 순간 앞을 엿보는 리오는──"
+
+[[dialogue]]
+speaker_original = "梨緒"
+speaker_translation = "리오"
+original = "（避ける必要がない──これは！？）"
+translation = "(피할 필요가 없어── 이건!?)"
+
+[[dialogue]]
+speaker_original = "クラウディア"
+speaker_translation = "클라우디아"
+original = "「──何をしておるのだ、星騎士ども！！」"
+translation = "「── 무엇을 하고 있느냐, 성기사 놈들!!」"
+
+[[dialogue]]
+speaker_original = "梨緒"
+speaker_translation = "리오"
+original = "「君たちは……ネビュラ！？」"
+translation = "「너희는…… 네뷸라!?」"
+
+[[dialogue]]
+speaker_original = "セドナ"
+speaker_translation = "세드나"
+original = "「市街地はあらかた片付けた。助力に──、っ！？」"
+translation = "「시가지는 대충 정리했다. 조력을──, 윽!?」"
+
+[[dialogue]]
+speaker_original = "リーリア（覚醒）"
+speaker_translation = "릴리아(각성)"
+original = "「え……セン、パイ？」"
+translation = "「어…… 선, 배?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "事切れた緋宮クロトを抱き、嗚咽するヴィーナスを見つけたネビュラ陣営──"
+translation = "숨이 끊어진 히노미야 쿠로토를 안고 오열하는 비너스를 발견한 네뷸라 진영──"
+
+[[dialogue]]
+speaker_original = "リノ"
+speaker_translation = "리노"
+original = "「……クロト？」"
+translation = "「…… 쿠로토?」"
+
+[[dialogue]]
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
+original = "「……おばあちゃん！\u3000クロトが……パパが……！」"
+translation = "「…… 할머니! 쿠로토가…… 아빠가……!」"
+
+[[dialogue]]
+speaker_original = "リノ"
+speaker_translation = "리노"
+original = "「…………そんな」"
+translation = "「………… 그럴 수가」"
+
+[[dialogue]]
+speaker_original = "クラウディア"
+speaker_translation = "클라우디아"
+original = "「…………セドナ」"
+translation = "「………… 세도나」"
+
+[[dialogue]]
+speaker_original = "セドナ"
+speaker_translation = "세드나"
+original = "「……はい、姫様」"
+translation = "「…… 예, 공주님」"
+
+[[dialogue]]
+speaker_original = "クラウディア"
+speaker_translation = "클라우디아"
+original = "「仇を討つ。邪魔をするでない」"
+translation = "「원수를 갚겠다. 방해하지 마라」"
+
+[[dialogue]]
+speaker = "unk"
+original = "本来、セドナの役目はクラウディアを止めること。"
+translation = "본래 세도나의 역할은 클라우디아를 말리는 것."
+
+[[dialogue]]
+speaker = "unk"
+original = "リクリエの発生が確実ともなれば、魔女の森に逃げ帰ってやり過ごさねばならない。だが──"
+translation = "리크리에의 발생이 확실해지면 마녀의 숲으로 도망쳐서 상황을 지켜봐야 한다. 하지만──"
+
+[[dialogue]]
+speaker_original = "セドナ"
+speaker_translation = "세드나"
+original = "（今の姫様を止めるのは……無理だ）"
+translation = "(지금의 공주님을 말리는 건…… 무리다)"
+
+[[dialogue]]
+speaker = "unk"
+original = "今クラウディアの邪魔をすれば、自分があの右腕よりも先に灰となることは明らかだった。"
+translation = "지금 클라우디아를 방해하면 자신이 저 오른팔보다 먼저 재가 될 것임이 자명했다."
+
+[[dialogue]]
+speaker = "unk"
+original = "ネビュラ構成員が束になっても本気のクラウディアに勝つことはできない。"
+translation = "네뷸라 구성원이 떼로 덤벼도 진심인 클라우디아를 이길 수는 없다."
+
+[[dialogue]]
+speaker_original = "クラウディア"
+speaker_translation = "클라우디아"
+original = "「あの腕も……『<ruby>ＸＥＬＯＳ<rt>ゼロス</rt></ruby>』とやらも余が<ruby>斃<rt>たお</rt></ruby>す！！」"
+translation = "「저 팔도…… 『<ruby>XELOS<rt>젤로스</rt></ruby>』인지 뭔지도 내가 쓰러뜨리겠다!!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "そしてクラウディアは、魔女として若輩ではあったが、彼我の実力差を測れないほど愚かではない。"
+translation = "그리고 클라우디아는 마녀로서 미숙할지언정 피아간의 실력 차를 가늠하지 못할 만큼 어리석지는 않다."
+
+[[dialogue]]
+speaker = "unk"
+original = "自身の魔力を全て用いても敵うわけがないことくらい──承知していた。"
+translation = "자신의 마력을 전부 쏟아부어도 상대가 안 될 것쯤은── 알고 있었다."
+
+[[dialogue]]
+speaker_original = "クラウディア"
+speaker_translation = "클라우디아"
+original = "「……やらねばならん！\u3000これは弔いぞ！！」"
+translation = "「…… 해야만 한다! 이것은 조문이다!!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "光の白杖を掲げたクラウディアが、ディザスターハンドに相対する。"
+translation = "빛의 백색 지팡이를 치켜든 클라우디아가 디재스터 핸드와 대치한다."
+
+[[dialogue]]
+speaker_original = "厄災の右腕"
+speaker_translation = "재앙의 오른팔"
+original = "「ギ──」"
+translation = "「기──」"
+
+[[dialogue]]
+speaker_original = "クラウディア"
+speaker_translation = "클라우디아"
+original = "「む……？」"
+translation = "「음……?」"
+
+[[dialogue]]
+speaker_original = "厄災の右腕"
+speaker_translation = "재앙의 오른팔"
+original = "「ギ──ガ、ガァアアア────！？！？」"
+translation = "「기── 가, 가아아아────!???」"
+
+[[dialogue]]
+speaker = "unk"
+original = "突如、ディザスターハンドが暴れ始める。"
+translation = "갑자기 디재스터 핸드가 날뛰기 시작한다."
+
+[[dialogue]]
+speaker = "unk"
+original = "元々、動く者すべてを抹殺する腕ではあったが──今は、壁や大地を手当たり次第に殴り続けるばかり。"
+translation = "원래 움직이는 모든 것을 말살하는 팔이었지만── 지금은 벽이나 대지를 닥치는 대로 두들겨 댈 뿐이다."
+
+[[dialogue]]
+speaker_original = "クラウディア"
+speaker_translation = "클라우디아"
+original = "「な、何が……起こっているのだ？」"
+translation = "「머, 무슨 일이…… 일어나고 있는 것이냐?」"
+
+[[dialogue]]
+speaker_original = "セドナ"
+speaker_translation = "세드나"
+original = "「我々を、狙わなくなっている……？\u3000どういう、ことだ……？」"
+translation = "「우리를 노리지 않게 되었어……? 어떻게 된 일이지……?」"
+
+[[dialogue]]
+speaker_original = "厄災の右腕"
+speaker_translation = "재앙의 오른팔"
+original = "「ガ、ガガガ────ギギ────！！」"
+translation = "「가, 가가가──── 기기────!!」"
+
+[[dialogue]]
+speaker_original = "リノ"
+speaker_translation = "리노"
+original = "「……危ない、ヴィーナスちゃん！」"
+translation = "「…… 위험해, 비너스!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "緋宮クロトの死体を抱いて泣くヴィーナスに右腕が伸ばされる──リノは庇うように２人を守ると。"
+translation = "히노미야 쿠로토의 시신을 안고 우는 비너스에게 오른팔이 뻗어진다── 리노는 감싸듯이 두 사람을 지키는데."
+
+[[dialogue]]
+speaker_original = "厄災の右腕"
+speaker_translation = "재앙의 오른팔"
+original = "「ガ、ギギギ！\u3000ギ……ガガ……ガッ……！！」"
+translation = "「가, 기기기! 기…… 가가…… 갓……!!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "掌の中にリノたちを収めつつ、握りつぶそうとはしない。"
+translation = "손바닥 안에 리노 일행을 가두면서도 쥐어 부수려 하지는 않는다."
+
+[[dialogue]]
+speaker = "unk"
+original = "厄災の右腕が、自らの意思で止めているのは明白だった。"
+translation = "디재스터 핸드가 자신의 의지로 멈추고 있는 것은 명백했다."
+
+[[dialogue]]
+speaker_original = "ホロウ・ルヴィネ"
+speaker_translation = "할로우・루비네"
+original = "「……？\u3000壊れてしまったのかしら」"
+translation = "「……? 고장이라도 난 걸까」"
+
+[[dialogue]]
+speaker_original = "ホロウ・ルヴィネ"
+speaker_translation = "할로우・루비네"
+original = "「元々狂ってはいたけれど……肝心な時に役立たずになるとはね」"
+translation = "「원래 미쳐있긴 했지만…… 정작 중요한 때에 쓸모가 없어질 줄이야」"
+
+[[dialogue]]
+speaker_original = "ホロウ・ルヴィネL"
+speaker_translation = "할로우 루비네 L"
+original = "「まあいいでしょう。もうこの腕に頼ることもないわ」"
+translation = "「뭐 상관없겠지. 이제 이 팔에 기댈 일도 없으니까」"
+
+[[dialogue]]
+speaker_original = "厄災の右腕"
+speaker_translation = "재앙의 오른팔"
+original = "「ギ…………ゴ………………」"
+translation = "「기………… 고………………」"
+
+[[dialogue]]
+speaker_original = "リノ"
+speaker_translation = "리노"
+original = "「…………え？\u3000なんて──」"
+translation = "「………… 에? 뭐라고──」"
+
+[[dialogue]]
+speaker_original = "リノ"
+speaker_translation = "리노"
+original = "（今……私の名前を……呼んだの…………？）"
+translation = "(방금…… 내 이름을…… 부른 거야…………?)"
+
+[[dialogue]]
+speaker_original = "ラクシャ"
+speaker_translation = "락샤"
+original = "「……逝こう、会長。ここに留まっても、何もない。何も起きないんだ」"
+translation = "「…… 가자, 회장. 여기 머물러 봤자 아무것도 없어. 아무 일도 일어나지 않아」"
+
+[[dialogue]]
+speaker_original = "クロト"
+speaker_translation = "쿠로토"
+original = "「…………」"
+translation = "「…………」"
+
+[[dialogue]]
+speaker = "unk"
+original = "冥界の視座。死んだ俺の魂が、次の場所へ向かうための、通過点となる領域──"
+translation = "명계의 시좌. 죽은 나의 영혼이 다음 장소로 가기 위한 통과점이 되는 영역──"
+
+[[dialogue]]
+speaker = "unk"
+original = "痛いほどの静寂に支配されたその空間に……"
+translation = "아플 정도의 정적에 지배된 그 공간에……"
+
+[[dialogue]]
+speaker_original = "クロト"
+speaker_translation = "쿠로토"
+original = "「…………あの、光は？」"
+translation = "「………… 저 빛은?」"
+
+[[dialogue]]
+speaker_original = "ラクシャ"
+speaker_translation = "락샤"
+original = "「……光？」"
+translation = "「…… 빛?」"
+
+[[dialogue]]
+speaker_original = "クロト"
+speaker_translation = "쿠로토"
+original = "「ほら、向こうに──小さく、光ってる……」"
+translation = "「봐, 저쪽에── 작게 빛나고 있어……」"
+
+[[dialogue]]
+speaker_original = "ラクシャ"
+speaker_translation = "락샤"
+original = "「…………どうして？\u3000この場所は、何人にも侵すことができない個人の領域。その人の魂しか入ることのできない場所なのに……」"
+translation = "「………… 어째서? 이 장소는 누구도 침범할 수 없는 개인의 영역. 그 사람의 영혼밖에 들어올 수 없는 장소인데……」"
+
+[[dialogue]]
+speaker_original = "ラクシャ"
+speaker_translation = "락샤"
+original = "「あれは……キミを、呼んでる……？」"
+translation = "「저건…… 너를 부르고 있어……?」"
+
+[[dialogue]]
+speaker_original = "クロト"
+speaker_translation = "쿠로토"
+original = "「ああ。俺も、そんな気がする……」"
+translation = "「아아. 나도 그런 기분이 들어……」"
+
+[[dialogue]]
+speaker = "unk"
+original = "あの光は、俺を呼んでいる──"
+translation = "저 빛은 나를 부르고 있다──"
+
+[[dialogue]]
+speaker = "unk"
+original = "闇を掻いて、近づく──そして。"
+translation = "어둠을 헤치고 다가간다── 그리고."
+
+[[dialogue]]
+speaker = "unk"
+original = "その真っ白な光に包まれた、俺と環は──"
+translation = "그 순백의 빛에 휩싸인 나와 타마키는──"
+
+[[dialogue]]
+speaker = "unk"
+original = "１人の男の意識を、覗き見ることになった。"
+translation = "한 남자의 의식을 엿보게 되었다."
+

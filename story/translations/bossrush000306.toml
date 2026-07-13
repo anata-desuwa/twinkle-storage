@@ -1,0 +1,193 @@
+[[dialogue]]
+speaker_original = "ルヴィネ"
+speaker_translation = "루비네"
+original = "「私はデネブと……極星のみんなと共に歩むと決めたの」"
+translation = "「나는 데네브와…… 극성의 모두와 함께 걷기로 결심했어」"
+
+[[dialogue]]
+speaker_original = "ルヴィネ"
+speaker_translation = "루비네"
+original = "「だからリクリエを止める。創造神に、私たちの営みの邪魔をさせないわ」"
+translation = "「그러니까 리크리에를 멈추겠어. 창조신이 우리들의 삶을 방해하게 두지 않아」"
+
+[[dialogue]]
+speaker_original = "煌嶺"
+speaker_translation = "코레이"
+original = "「妾は見たいのだ。創造神と戦い、生の限り輝く星騎士たちの様をな」"
+translation = "「소첩은 보고 싶다. 창조신과 싸우며 생이 다하는 순간까지 빛나는 성기사들의 모습을 말이다」"
+
+[[dialogue]]
+speaker_original = "煌嶺"
+speaker_translation = "코레이"
+original = "「何せ相手は創造神だ。数度生まれ変わっても、なかなか巡り会えるものではないぞ？」"
+translation = "「무려 상대는 창조신이다. 수 차례 환생하더라도 좀처럼 만나기 힘든 것이 아니더냐?」"
+
+[[dialogue]]
+speaker_original = "ルヴィネ"
+speaker_translation = "루비네"
+original = "「……呆れた。どこまでも享楽的なのね」"
+translation = "「……어이가 없네. 끝까지 향락적이구나」"
+
+[[dialogue]]
+speaker_original = "ルヴィネ"
+speaker_translation = "루비네"
+original = "「まぁいいわ。あなたが強大な力を持っていることは間違いない。味方であるのなら利用させてもらうまでよ」"
+translation = "「뭐 좋아. 당신이 강대한 힘을 가지고 있는 것은 확실해. 아군이라면 이용해 줄 뿐이야」"
+
+[[dialogue]]
+speaker_original = "煌嶺"
+speaker_translation = "코레이"
+original = "「フン、それはこちらのセリフだ。拾った命、せいぜい無駄に散らさぬことだな」"
+translation = "「흥, 그건 이쪽이 할 소리다. 주워 담은 목숨, 부디 헛되이 흩뿌리지 말거라」"
+
+[[dialogue]]
+speaker = "unk"
+original = "生みの親である創造神の下を離れ、仲間と共に生きることを選んだルヴィネ。"
+translation = "창조주인 창조신의 곁을 떠나 동료와 함께 살기를 택한 루비네."
+
+[[dialogue]]
+speaker = "unk"
+original = "どこまでも己の快楽を求め、鮮烈な星の輝きを欲する煌嶺。"
+translation = "끝까지 자신의 쾌락을 추구하며 선렬한 별의 빛을 원하는 코우레이."
+
+[[dialogue]]
+speaker = "unk"
+original = "相容れないのは当然だろう。"
+translation = "서로 용납할 수 없는 것은 당연하리라."
+
+[[dialogue]]
+speaker = "unk"
+original = "それでも今は、利害が一致していることに変わりはない。"
+translation = "그래도 지금은 이해관계가 일치한다는 점은 변함이 없다."
+
+[[dialogue]]
+speaker_original = "ルヴィネ"
+speaker_translation = "루비네"
+original = "「……ん？\u3000今誰かのお腹の音が鳴った……？」"
+translation = "「……응? 지금 누군가의 배꼽시계 소리가 들린 것 같은데……?」"
+
+[[dialogue]]
+speaker_original = "ルヴィネ"
+speaker_translation = "루비네"
+original = "「私じゃないけど……魔王、あなたなの？\u3000……違う？」"
+translation = "「나는 아니지만…… 마왕, 너야? ……아냐?」"
+
+[[dialogue]]
+speaker_original = "煌嶺"
+speaker_translation = "코레이"
+original = "「う～、お腹減った～！」"
+translation = "「으~ 배고파~!」"
+
+[[dialogue]]
+speaker_original = "ルヴィネ"
+speaker_translation = "루비네"
+original = "「！？\u3000いきなりどうしたの！？」"
+translation = "「!? 갑자기 왜 그래!?」"
+
+[[dialogue]]
+speaker_original = "煌嶺"
+speaker_translation = "코레이"
+original = "「だってずっと戦いっぱなしだったんだもん、お腹ペコペコだよ～」"
+translation = "「그야 계속 싸우기만 했는걸, 배가 고파서 죽을 지경이야~」"
+
+[[dialogue]]
+speaker_original = "ルヴィネ"
+speaker_translation = "루비네"
+original = "「いえそうではなくて、あなたの変わりっぷりに驚いているのだけど……」"
+translation = "「아니 그런 게 아니라, 당신의 급변한 태도에 놀라고 있는 건데……」"
+
+[[dialogue]]
+speaker_original = "煌嶺"
+speaker_translation = "코레이"
+original = "「女の子はいろんな顔があるものだからね♪」"
+translation = "「여자애는 여러 얼굴이 있는 법이니까♪」"
+
+[[dialogue]]
+speaker_original = "ルヴィネ"
+speaker_translation = "루비네"
+original = "「そういう問題かしら……？」"
+translation = "「그런 문제일까……?」"
+
+[[dialogue]]
+speaker_original = "煌嶺"
+speaker_translation = "코레이"
+original = "「それよりデネブのいいお店教えてよ。せっかくデネブに来たんだから、とびっきり美味しいものが食べたいな」"
+translation = "「그보다 데네브의 좋은 가게 좀 알려줘. 기껏 데네브에 왔으니까 엄청나게 맛있는 게 먹고 싶네」"
+
+[[dialogue]]
+speaker_original = "煌嶺"
+speaker_translation = "코레이"
+original = "「デネブはあなたのホームなんだし、美味しいお店くらい知ってるでしょ？\u3000ホストなんだから、ちゃ～んともてなしてよ♪」"
+translation = "「데네브는 당신의 홈그라운드니까 맛집 정도는 알고 있겠지? 호스트니까 제대로 대접해 달라고♪」"
+
+[[dialogue]]
+speaker_original = "ルヴィネ"
+speaker_translation = "루비네"
+original = "「傍若無人という煌嶺の評判は本当のようね……」"
+translation = "「방약무인하다는 코우레이의 평판은 사실인 모양이네……」"
+
+[[dialogue]]
+speaker_original = "ルヴィネ"
+speaker_translation = "루비네"
+original = "「でもそうね。共に戦うのなら、一緒に食事をして<ruby>胸襟<rt>きょうきん</rt></ruby>を開くのも悪くないわ」"
+translation = "「하지만 그렇네. 함께 싸운다면 같이 식사를 하며 속을 터놓는 것도 나쁘지 않겠어」"
+
+[[dialogue]]
+speaker_original = "ルヴィネ"
+speaker_translation = "루비네"
+original = "「美食を求めるなら答えはひとつ──」"
+translation = "「미식을 원한다면 답은 하나──」"
+
+[[dialogue]]
+speaker_original = "ルヴィネ"
+speaker_translation = "루비네"
+original = "「担々麺よ！！」"
+translation = "「탄탄면이야!!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ルヴィネに連れられ、目的のお店に向かう。"
+translation = "루비네에게 이끌려 목적지로 향한다."
+
+[[dialogue]]
+speaker_original = "ルヴィネ"
+speaker_translation = "루비네"
+original = "「よかった、こんな時でもお店はやっているわね」"
+translation = "「다행이다, 이런 때에도 가게는 열고 있네」"
+
+[[dialogue]]
+speaker_original = "ルヴィネ"
+speaker_translation = "루비네"
+original = "「ここは私のお気に入りで、個人的担々麺ランキングＴＯＰ５に入るお店よ」"
+translation = "「여기는 내가 아끼는 곳으로, 개인적인 탄탄면 랭킹 TOP 5에 드는 가게야」"
+
+[[dialogue]]
+speaker_original = "煌嶺"
+speaker_translation = "코레이"
+original = "「やった♪\u3000私、担々麺好き～♪」"
+translation = "「야호♪ 나 탄탄면 좋아해~♪」"
+
+[[dialogue]]
+speaker_original = "ルヴィネ"
+speaker_translation = "루비네"
+original = "「このお店は特にゴマにこだわっていて、お店でゴマを煎ってから練りゴマにしているの。黒ゴマを使った黒担々麺も美味しくて……」"
+translation = "「이 가게는 특히 깨에 신경을 써서, 가게에서 깨를 볶은 뒤에 페이스트로 만들고 있어. 검은깨를 쓴 흑탄탄면도 맛있어서……」"
+
+[[dialogue]]
+speaker_original = "煌嶺"
+speaker_translation = "코레이"
+original = "「あ、その話長くなりそう？\u3000別にそういうのが聞きたいんじゃないんだけど……」"
+translation = "「아, 그 이야기 길어질 것 같아? 딱히 그런 게 듣고 싶은 건 아닌데……」"
+
+[[dialogue]]
+speaker_original = "ルヴィネ"
+speaker_translation = "루비네"
+original = "「まぁ聞きなさい。知識を得ることで味わい方も変わるわ。このお店では、独特の痺れの元である<ruby>花椒<rt>ホアジャオ</rt></ruby>も厳選したものを使っていて──」"
+translation = "「뭐어 들어 봐. 지식을 얻으면 맛을 느끼는 방식도 달라져. 이 가게에서는 독특한 얼얼함의 근원인 <ruby>화조<rt>호아자오</rt></ruby>도 엄선한 것을 사용하고 있어서──」"
+
+[[dialogue]]
+speaker_original = "煌嶺"
+speaker_translation = "코레이"
+original = "「いやそれはいいから！\u3000早く食べさせて～！？」"
+translation = "「아니 그런 건 됐으니까! 빨리 먹게 해 줘~!」"
+

@@ -1,0 +1,439 @@
+[[dialogue]]
+speaker = "unk"
+original = "第６話,ＶＳ星喰らいシャドウ・ジグ戦闘後,B"
+translation = "제6화, VS 별을 먹는 섀도 지그 전투 후, B"
+
+[[dialogue]]
+speaker_original = "ジグ"
+speaker_translation = "지그"
+original = "「くそっ……何故だ、何故っ──追い込まれているんだっ！？」"
+translation = "「젠장…… 왜지, 왜── 몰리고 있는 거냐!?」"
+
+[[dialogue]]
+speaker_original = "アム"
+speaker_translation = "아무"
+original = "「エルゼ！\u3000あたしのそりに乗って！\u3000突っ込むよ！」"
+translation = "「엘제! 내 썰매에 타! 돌격이야!」"
+
+[[dialogue]]
+speaker_original = "エルデリーゼ"
+speaker_translation = "엘데리제"
+original = "「ええ、アム！\u3000ブレーキは必要ありません！\u3000トップスピードで！！」"
+translation = "「네, 아무! 브레이크는 필요 없습니다! 최고 속도로!!」"
+
+[[dialogue]]
+speaker_original = "アム"
+speaker_translation = "아무"
+original = "「あったり前！\u3000いっくよー──ひき逃げアターック！！！」"
+translation = "「당연하지! 간다── 뺑소니 어택!!!」"
+
+[[dialogue]]
+speaker_original = "ジグ"
+speaker_translation = "지그"
+original = "「──ぐぁぁああっ！？」"
+translation = "「──구아아아악!?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "アムの操作する高速のそりによる体当たり──"
+translation = "아무가 조종하는 고속 썰매에 의한 몸통박치기──"
+
+[[dialogue]]
+speaker = "unk"
+original = "吹き飛ぶシャドウジグに向かって、弾丸のようにエルデリーゼが飛び出す。"
+translation = "날아가는 섀도 지그를 향해 탄환처럼 엘데리제가 튀어나간다."
+
+[[dialogue]]
+speaker = "unk"
+original = "<ruby>好敵手<rt>ライバル</rt></ruby>の力を借りて、さらなる神速を手に入れた槍が使徒の影に迫り──"
+translation = ""
+
+[[dialogue]]
+speaker_original = "エルデリーゼ"
+speaker_translation = "엘데리제"
+original = "「──キャッスルブレイカー！！」"
+translation = "「──캐슬 브레이커!!」"
+
+[[dialogue]]
+speaker_original = "ジグ"
+speaker_translation = "지그"
+original = "「が、はっ──！\u3000なぜだ、どこにこんな力が……！！」"
+translation = "「커, 헉──! 왜지, 어디서 이런 힘이……!!」"
+
+[[dialogue]]
+speaker_original = "ジグ"
+speaker_translation = "지그"
+original = "「嫌だ、嫌だっ……！\u3000こんな奴らに負けるのが、最期だなんて──！」"
+translation = "「싫어, 싫어……! 이런 녀석들에게 지는 게 마지막이라니──!」"
+
+[[dialogue]]
+speaker_original = "ラティエ"
+speaker_translation = "라티에"
+original = "「強者への、せめてもの慈悲だ──全力で引導を渡してやる！」"
+translation = "「강자에 대한 최소한의 자비다── 전력으로 인도해주마!」"
+
+[[dialogue]]
+speaker_original = "ラティエ"
+speaker_translation = "라티에"
+original = "「唸れバラクィエル──ウロボロスッ！！！」"
+translation = "「울부짖어라 바라키엘── 우로보로스!!!」"
+
+[[dialogue]]
+speaker_original = "ジグ"
+speaker_translation = "지그"
+original = "「うぁあぁあぁああぁぁあああ──────ッ！？！？」"
+translation = "「우아아아아아아아아아아아아아──────!?!?」"
+
+[[dialogue]]
+speaker_original = "ナターシャ"
+speaker_translation = "나타샤"
+original = "「……ふう。『星喰らい』の拠点を解放、完了だね」"
+translation = "「……후우. 『별을 먹는 자』의 거점 해방, 완료네.」"
+
+[[dialogue]]
+speaker_original = "マグダレナ（幼少）"
+speaker_translation = "막달레나(어린 시절)"
+original = "「何とかなりましたね！\u3000流石は会長さんの授けてくださった力です！」"
+translation = "「어떻게든 됐네요! 역시 회장님이 내려주신 힘이에요!」"
+
+[[dialogue]]
+speaker_original = "セシア"
+speaker_translation = "세시아"
+original = "「ええ。私もアルモタヘルも、マグダレナも……いつも以上の力が発揮できていたわね」"
+translation = "「응. 나도 알모타헬도, 막달레나도…… 평소 이상의 힘을 발휘할 수 있었네.」"
+
+[[dialogue]]
+speaker_original = "アルモタヘル（幼少）"
+speaker_translation = "아르모타헬(어린 시절)"
+original = "「大勝利なのだ！\u3000帰ったら早速、ケバブをみんなで食べるのだ～♪」"
+translation = "「대승리인 것이다! 돌아가면 당장 케밥을 다 같이 먹는 것이다~♪」"
+
+[[dialogue]]
+speaker_original = "マグダレナ（幼少）"
+speaker_translation = "막달레나(어린 시절)"
+original = "「ふふ、アルモタヘルは相変わらずですね～。でも帰る前に！\u3000戦いを頑張ったみなさんに、ご褒美をあげないといけません！」"
+translation = "「후후, 알모타헬은 여전하네요~. 하지만 돌아가기 전에! 전투를 열심히 한 여러분께 보상을 드려야겠어요!」"
+
+[[dialogue]]
+speaker_original = "マグダレナ（幼少）"
+speaker_translation = "막달레나(어린 시절)"
+original = "「は～い！\u3000それじゃあ順番に並んで、ママダレナのところまで来てください！\u3000い～っぱい、よしよししてあげますからね～<emoji=heart04>」"
+translation = "「네~! 그럼 순서대로 줄을 서서 마마다레나가 있는 곳까지 오세요! 듬뿍듬뿍 착하다 착하다 해줄 테니까요~<emoji=heart04>」"
+
+[[dialogue]]
+speaker_original = "セシア"
+speaker_translation = "세시아"
+original = "「…………」"
+translation = "「…………」"
+
+[[dialogue]]
+speaker_original = "マグダレナ（幼少）"
+speaker_translation = "막달레나(어린 시절)"
+original = "「ほらセシアも！\u3000ママですよ～<emoji=heart04>」"
+translation = "「자, 세시아도! 엄마예요~<emoji=heart04>」"
+
+[[dialogue]]
+speaker_original = "セシア"
+speaker_translation = "세시아"
+original = "「──やっぱり、その姿のマグダレナは、私のママではないわ」"
+translation = "「──역시 그 모습의 막달레나는 나의 엄마가 아니야.」"
+
+[[dialogue]]
+speaker_original = "マグダレナ（幼少）"
+speaker_translation = "막달레나(어린 시절)"
+original = "「えっ──」"
+translation = "「엣──」"
+
+[[dialogue]]
+speaker_original = "セシア"
+speaker_translation = "세시아"
+original = "「ママはなるものではなくて、すでに『そこに在る』もの。自然体が何より大切なのよ？」"
+translation = "「엄마는 되는 게 아니라 이미 『그곳에 있는』 것. 자연스러운 모습이 무엇보다 중요해.」"
+
+[[dialogue]]
+speaker_original = "マグダレナ（幼少）"
+speaker_translation = "막달레나(어린 시절)"
+original = "「ま、待ってくださいセシア。姿かたちは変わっても、私はみなさんのママで──ああぁ、どこに行くんですかぁ！？」"
+translation = "「기, 기다려 주세요 세시아. 모습은 바뀌어도 저는 여러분의 엄마── 아아아, 어디 가시는 건가요!?」"
+
+[[dialogue]]
+speaker_original = "セシア"
+speaker_translation = "세시아"
+original = "「ミルフィーママ～<emoji=heart04>\u3000頑張ったセシアを褒めて～<emoji=heart04><emoji=heart04><emoji=heart04>」"
+translation = "「밀피 엄마~<emoji=heart04> 열심히 한 세시아를 칭찬해줘~<emoji=heart04><emoji=heart04><emoji=heart04>」"
+
+[[dialogue]]
+speaker_original = "ミルフィー"
+speaker_translation = "밀피"
+original = "「えぇえぇっ！？\u3000私！？\u3000私が、セシア様のママ！？\u3000そんな、恐れ多いですっ……！」"
+translation = "「에에엣!? 저요!? 제가 세시아 님의 엄마!? 그럴 수가, 가당치도 않아요……!」"
+
+[[dialogue]]
+speaker_original = "セシア"
+speaker_translation = "세시아"
+original = "「大丈夫。ミルフィーは、文句のつけどころのないママだわ。自信を持って、ナデナデして～<emoji=heart04>」"
+translation = "「괜찮아. 밀피는 나무랄 데 없는 엄마야. 자신을 갖고 쓰담쓰담 해줘~<emoji=heart04>」"
+
+[[dialogue]]
+speaker_original = "ミルフィー"
+speaker_translation = "밀피"
+original = "「あ、えっと……は、はい……なで、なで……」"
+translation = "「아, 저기…… 네, 네…… 쓰담쓰담……」"
+
+[[dialogue]]
+speaker_original = "セシア"
+speaker_translation = "세시아"
+original = "「んふふふふふ<emoji=heart04>\u3000ママ～～～<emoji=heart04><emoji=heart04><emoji=heart04>」"
+translation = "「응후후후후후<emoji=heart04> 엄마~~~<emoji=heart04><emoji=heart04><emoji=heart04>」"
+
+[[dialogue]]
+speaker_original = "マグダレナ（幼少）"
+speaker_translation = "막달레나(어린 시절)"
+original = "「ぁ──ぁぁぁぁぁぁ──」"
+translation = "「아── 아아아아아──」"
+
+[[dialogue]]
+speaker_original = "アルモタヘル（幼少）"
+speaker_translation = "아르모타헬(어린 시절)"
+original = "「こいつ、自分を祀る従者にママのポジションを取られてるのだ……」"
+translation = "「이 녀석, 자신을 모시는 종자에게 엄마 포지션을 뺏긴 것이다……」"
+
+[[dialogue]]
+speaker_original = "アナ"
+speaker_translation = "아나"
+original = "「えぐいですね。これがＮＴＲというやつでしょうか」"
+translation = "「가차 없네요. 이것이 NTR이라는 것일까요.」"
+
+[[dialogue]]
+speaker_original = "マグダレナ（幼少）"
+speaker_translation = "막달레나(어린 시절)"
+original = "「そ、そんなあぁぁあ～っ！？\u3000うわあぁあああぁぁあああんっ！！」"
+translation = "「그, 그럴 수가아아아~!? 우와아아아아아아아앙!!」"
+
+[[dialogue]]
+speaker_original = "アム"
+speaker_translation = "아무"
+original = "「いやー、それにしてもエルゼと共闘するのって何気にレアだよね」"
+translation = "「와아, 그건 그렇고 엘제랑 공투하는 건 왠지 레어하네.」"
+
+[[dialogue]]
+speaker_original = "エルデリーゼ"
+speaker_translation = "엘데리제"
+original = "「そうですわね。模擬戦闘こそたくさんしていますが、同じチームで動くというのは新鮮でした」"
+translation = "「그렇네요. 모의 전투야 많이 했습니다만, 같은 팀으로 움직이는 건 신선했습니다.」"
+
+[[dialogue]]
+speaker_original = "アム"
+speaker_translation = "아무"
+original = "「即席チームだったけど上手くいったね。あたしがやろうとしてること、言わなくても全部伝わるし！」"
+translation = "「급조 팀이었지만 잘 풀렸네. 내가 하려는 거 말 안 해도 다 전해지고!」"
+
+[[dialogue]]
+speaker_original = "エルデリーゼ"
+speaker_translation = "엘데리제"
+original = "「アムとは戦った回数が桁違いですから！\u3000ただ、それを言うならナミエル様の動きも驚きでした」"
+translation = "「아무와는 싸운 횟수가 차원이 다르니까요! 다만 그걸 따지자면 나미엘 님의 움직임도 놀라웠습니다.」"
+
+[[dialogue]]
+speaker_original = "ナミエル"
+speaker_translation = "나미엘"
+original = "「私が、ですか？」"
+translation = "「제가 말입니까?」"
+
+[[dialogue]]
+speaker_original = "エルデリーゼ"
+speaker_translation = "엘데리제"
+original = "「はい。アムはけっこうノリやテンションで動きを変えるので……けれど、すごく息が合っていましたから、驚いてしまって」"
+translation = "「네. 아무는 꽤 기분이나 텐션에 따라 움직임을 바꾸곤 해서…… 그런데 무척 호흡이 잘 맞았기에 깜짝 놀랐거든요.」"
+
+[[dialogue]]
+speaker_original = "ナミエル"
+speaker_translation = "나미엘"
+original = "「……この戦闘服が発現した際、アム先輩とは１メートル以上の距離を空けることができないトラブルがあったようで」"
+translation = "「……이 전투복이 발현됐을 때, 아무 선배와는 1미터 이상의 거리를 뗼 수 없는 트러블이 있었던 모양이라.」"
+
+[[dialogue]]
+speaker_original = "エルデリーゼ"
+speaker_translation = "엘데리제"
+original = "「ええっ？\u3000そんなことが……！？」"
+translation = "「에엣? 그런 일이……!?」"
+
+[[dialogue]]
+speaker_original = "アム"
+speaker_translation = "아무"
+original = "「不思議な感じだよねー。経験したことはないのに、幹内世界？\u3000の記憶は貰えてるからさ」"
+translation = "「신기한 느낌이지~ 경험한 적은 없는데 함내 세계? 의 기억은 받았으니까 말이야.」"
+
+[[dialogue]]
+speaker_original = "ナミエル"
+speaker_translation = "나미엘"
+original = "「その時に培ったチームワークを発揮できたようです」"
+translation = "「그때 쌓은 팀워크를 발휘할 수 있었던 것 같습니다.」"
+
+[[dialogue]]
+speaker_original = "エルデリーゼ"
+speaker_translation = "엘데리제"
+original = "「アムと１メートル以上離れられない……それは、何というか──ご愁傷様です」"
+translation = "「아무와 1미터 이상 떨어질 수 없다니…… 그건 뭐랄까── 삼가 고인의 명복을 빕니다.」"
+
+[[dialogue]]
+speaker_original = "アム"
+speaker_translation = "아무"
+original = "「どういう意味！？」"
+translation = "「무슨 의미야!?」"
+
+[[dialogue]]
+speaker_original = "エルデリーゼ"
+speaker_translation = "엘데리제"
+original = "「だってアムはよく言えば賑やかですが、悪く言えば……」"
+translation = "「그게, 아무는 좋게 말하면 활기차지만 나쁘게 말하면……」"
+
+[[dialogue]]
+speaker_original = "アム"
+speaker_translation = "아무"
+original = "「むっか～！？\u3000そんなことないって！\u3000ちゃんと先輩らしくお世話できてたから！」"
+translation = "「욱~!? 그렇지 않다니까! 제대로 선배답게 잘 챙겨줬거든!」"
+
+[[dialogue]]
+speaker_original = "ナミエル"
+speaker_translation = "나미엘"
+original = "「はい。その節は大変お世話になりました。それに騒動の後は、エルデリーゼ先輩とも私、仲良くなれていたみたいで……」"
+translation = "「네. 그때는 정말 신세를 많이 졌습니다. 게다가 소동이 끝난 후에는 저도 엘데리제 선배와 친해졌던 모양이라……」"
+
+[[dialogue]]
+speaker_original = "エルデリーゼ"
+speaker_translation = "엘데리제"
+original = "「まあ、そうだったのですか！\u3000確かにアムとお付き合いできるナミエル様なら、私も息が合う気がいたします！」"
+translation = "「어머, 그랬던 건가요! 확실히 아무를 감당할 수 있는 나미엘 님이라면 저와도 호흡이 잘 맞을 것 같네요!」"
+
+[[dialogue]]
+speaker_original = "アム"
+speaker_translation = "아무"
+original = "「だからどういう意味～っ！？」"
+translation = "「그러니까 무슨 의미냐고~!!」"
+
+[[dialogue]]
+speaker_original = "エルデリーゼ"
+speaker_translation = "엘데리제"
+original = "「ナミエル様。これから仲良くしてもらえると、とっても嬉しいですわ♪」"
+translation = "「나미엘 님. 앞으로 친하게 지낼 수 있다면 정말 기쁘겠어요♪」"
+
+[[dialogue]]
+speaker_original = "ナミエル"
+speaker_translation = "나미엘"
+original = "「はい、こちらこそ……エルデリーゼ先輩」"
+translation = "「네, 저야말로요…… 엘데리제 선배.」"
+
+[[dialogue]]
+speaker_original = "ラティエ"
+speaker_translation = "라티에"
+original = "「しかしアポロ、ずいぶん可愛らしい戦闘服を手に入れたものだな。驚いたよ」"
+translation = "「하지만 아폴로, 꽤나 귀여운 전투복을 손에 넣었구나. 놀랐어.」"
+
+[[dialogue]]
+speaker_original = "アポロ"
+speaker_translation = "아폴로"
+original = "「カワイイって言われるの、あんまり好きじゃないんだよなー……うげ、この衣装を手に入れた時のこと、思い出してきた……」"
+translation = "「귀엽다는 소리 듣는 거, 별로 안 좋아한단 말이지……. 우게, 이 의상을 얻었을 때 일이 떠올라 버렸어…….」"
+
+[[dialogue]]
+speaker_original = "アポロ"
+speaker_translation = "아폴로"
+original = "「フィオナもキリカも、屋敷のメイドがどちゃどちゃやってきて……ハグしたり撫でてきたり……散々だったぞ」"
+translation = "「피오나도 키리카도, 저택의 메이드들이 우르르 몰려와서는…… 허그하고 쓰다듬고…… 아주 난리도 아니었다고.」"
+
+[[dialogue]]
+speaker_original = "ラティエ"
+speaker_translation = "라티에"
+original = "「はっは。光景が目に浮かぶようだ。相変わらず、星見嬢たちは君に目がないようだね」"
+translation = "「핫하. 광경이 눈에 선하군. 여전하네, 호시미 양 일행은 자네에게 사족을 못 쓰는 모양이야.」"
+
+[[dialogue]]
+speaker_original = "アポロ"
+speaker_translation = "아폴로"
+original = "「てゆーか納得いかないぞ！\u3000かっこいいだろ、この衣装！\u3000剣だって特別仕様だし！」"
+translation = "「그보다 납득이 안 간다니까! 멋있잖아, 이 의상! 검도 특별 사양이고!」"
+
+[[dialogue]]
+speaker_original = "アナ"
+speaker_translation = "아나"
+original = "「アポロさんはマスコット的な立ち位置を確立していますから。小さい背丈の者はいじられる宿命です。諦めましょう」"
+translation = "「아폴로 씨는 마스코트적인 입지를 확립하고 있으니까요. 키가 작은 자는 괴롭힘당하는 숙명입니다. 포기하세요.」"
+
+[[dialogue]]
+speaker_original = "アポロ"
+speaker_translation = "아폴로"
+original = "「それ、アナに言われるのはなんか納得いかないぞ！？」"
+translation = "「그거, 아나한테 들으니까 왠지 납득이 안 가는데!?」"
+
+[[dialogue]]
+speaker_original = "ナターシャ"
+speaker_translation = "나타샤"
+original = "「ま、作戦が上手くいってよかったかな。水着にしか変身できなくなった時は、どうしようかと思ったけど」"
+translation = "「뭐, 작전이 잘 풀려서 다행이려나. 수영복으로밖에 변신할 수 없게 됐을 때는 어떻게 하나 싶었지만.」"
+
+[[dialogue]]
+speaker_original = "アム"
+speaker_translation = "아무"
+original = "（どうしようかと思ったのはこっちなんだけど……何なのあのサイズ！？）"
+translation = "（어떻게 하나 싶었던 건 이쪽인데…… 뭐야 그 사이즈는!?）"
+
+[[dialogue]]
+speaker_original = "エルデリーゼ"
+speaker_translation = "엘데리제"
+original = "（思わず目を疑いました……い、いえ。私だっていつかは……きっと、たぶん……）"
+translation = "（나도 모르게 눈을 의심했습니다…… 아, 아니요. 저도 언젠가는…… 꼭, 아마도……）"
+
+[[dialogue]]
+speaker_original = "ナミエル"
+speaker_translation = "나미엘"
+original = "（流石は上級生の先輩です……あまりじろじろ見るのは、よくないとわかってはいるのですが……）"
+translation = "（역시 상급생 선배님이세요…… 너무 빤히 보는 건 좋지 않다는 걸 알지만……）"
+
+[[dialogue]]
+speaker_original = "ナターシャ"
+speaker_translation = "나타샤"
+original = "「なーんか視線を感じるねー。まぁ慣れてるけど」"
+translation = "「으음~ 왠지 시선이 느껴지네. 뭐 익숙하지만 말이야.」"
+
+[[dialogue]]
+speaker_original = "ラティエ"
+speaker_translation = "라티에"
+original = "「予想外の戦闘服ではあったが、気に入ったよ。なかなかに着心地がいいね。この水着をプレゼントしてくれた新星の会長に感謝かな？」"
+translation = "「예상 밖의 전투복이긴 했지만, 마음에 들어. 꽤나 입기 편하네. 이 수영복을 선물해 준 신성의 회장에게 감사해야겠는걸?」"
+
+[[dialogue]]
+speaker_original = "ナミエル"
+speaker_translation = "나미엘"
+original = "「……は？」"
+translation = "「……네?」"
+
+[[dialogue]]
+speaker_original = "アポロ"
+speaker_translation = "아폴로"
+original = "「それ、魔王がプレゼントしたのか！？\u3000あいつ、とんだスケベ野郎だな！！」"
+translation = "「그거, 마왕이 선물한 거야!? 그 자식, 엄청난 변태 자식이었군!!」"
+
+[[dialogue]]
+speaker_original = "アナ"
+speaker_translation = "아나"
+original = "「なんと……どんな状況で？\u3000想像がつかないのですが」"
+translation = "「세상에…… 대체 어떤 상황에서? 상상이 안 갑니다만.」"
+
+[[dialogue]]
+speaker_original = "ラティエ"
+speaker_translation = "라티에"
+original = "「はっはっは。聞きたいなら話してあげようじゃないか──」"
+translation = "「핫핫하. 듣고 싶다면 이야기해주지──」"
+
+[[dialogue]]
+speaker_original = "ナミエル"
+speaker_translation = "나미엘"
+original = "「……やはり緋宮会長は要警戒対象ですね。お嬢様の安全のためにも、目を光らせなくては」"
+translation = "「……역시 히노미야 회장은 요경계 대상이군요. 아가씨의 안전을 위해서라도, 눈을 부라려야겠어요.」"
+
+[[dialogue]]
+speaker = "unk"
+original = "こうして『星喰らい』の拠点、２つ目を星騎士陣営は解放したのだった──"
+translation = "이렇게 『별을 먹는 자』의 거점, 두 번째를 성기사 진영은 해방한 것이었다──"
+

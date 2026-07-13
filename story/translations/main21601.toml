@@ -1,0 +1,731 @@
+[[dialogue]]
+speaker = "unk"
+original = "第１話,流星の騎士,B"
+translation = "제1화, 유성의 기사, B"
+
+[[dialogue]]
+speaker = "unk"
+original = "１０年前のデネブ──魔界にて。"
+translation = "10년 전의 데네브── 마계에서."
+
+[[dialogue]]
+speaker_original = "アニュラス"
+speaker_translation = "아뉴라스"
+original = "「ここが魔界……お父様とお母様が出会った世界なのですね」"
+translation = "「여기가 마계…… 아버님과 어머님이 만난 세계군요」"
+
+[[dialogue]]
+speaker_original = "セイファート"
+speaker_translation = "세이파트"
+original = "「ああ。といっても、マルキアの故郷はもっと果ての場所だがな……」"
+translation = "「아아. 그렇다고 해도 마르키아의 고향은 좀 더 끝자락에 있는 곳이지만 말이다……」"
+
+[[dialogue]]
+speaker = "unk"
+original = "魔界へ赴く際、本来ならば<ruby>鏡界の湖<rt>ラーゴ・シエロ</rt></ruby>を経由する必要がある。"
+translation = "마계로 향할 때, 본래라면 <ruby>경계의 호수<rt>라고 시엘로</rt></ruby>를 경유할 필요가 있다."
+
+[[dialogue]]
+speaker = "unk"
+original = "しかし今は非常事態──ゆえに私たち討伐隊は、人間界のフィーニスの塔を下りることで、強引に魔界への来訪を果たしていた。"
+translation = "하지만 지금은 비상사태── 그렇기에 우리 토벌대는 인간계의 피니스의 탑을 내려감으로써, 강제로 마계 방문을 완수하고 있었다."
+
+[[dialogue]]
+speaker = "unk"
+original = "禁域の塔内部を通るという暴挙も、非常時の今ならば女神も目こぼしをしてくださるはず。"
+translation = "금역의 탑 내부를 통과한다는 폭거도, 비상시인 지금이라면 여신님도 눈감아 주실 터."
+
+[[dialogue]]
+speaker_original = "セイファート"
+speaker_translation = "세이파트"
+original = "「よし。例の『仮面の女』の消息を追うぞ。まずはここから東──ズヴィエダ方面へと向かう！」"
+translation = "「좋아. 예의 『가면의 여자』의 소식을 쫓는다. 우선 여기서부터 동쪽── 즈비에다 방면으로 향한다!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "我々は流星教皇から勅命を受けた『仮面の女』の討伐隊。"
+translation = "우리는 유성교황으로부터 칙명을 받은 『가면의 여자』 토벌대."
+
+[[dialogue]]
+speaker = "unk"
+original = "世界を震撼させる謎の刺客を、何としても討ち取らなければならない──"
+translation = "세계를 전율케 하는 수수께끼의 자객을, 어떻게 해서든 처단해야만 한다──"
+
+[[dialogue]]
+speaker = "unk"
+original = "あれは数日前のことだった。"
+translation = "그것은 며칠 전의 일이었다."
+
+[[dialogue]]
+speaker_original = "セイファート"
+speaker_translation = "세이파트"
+original = "「聖庭園が……陥落しただと！？」"
+translation = "「성정원이…… 함락되었다고!?」"
+
+[[dialogue]]
+speaker_original = "流星教皇"
+speaker_translation = "유성 교황"
+original = "「ああ、ジェラルド……信じられないが、間違いない。わずかな天使の生き残りが、瘴気にまみれた塔を降り、教皇庁に伝えてくれたのだ」"
+translation = "「아아, 제랄드…… 믿기지 않지만, 틀림없다. 얼마 남지 않은 천사 생존자가 장기로 뒤덮인 탑을 내려와 교황청에 전해주었다」"
+
+[[dialogue]]
+speaker_original = "流星教皇"
+speaker_translation = "유성 교황"
+original = "「信じがたいが、敵は１人。仮面を被った謎の女が、聖庭園を襲撃したと……」"
+translation = "「믿기 힘들지만 적은 1명. 가면을 쓴 수수께끼의 여자가 성정원을 습격했다고……」"
+
+[[dialogue]]
+speaker_original = "流星教皇"
+speaker_translation = "유성 교황"
+original = "「その女は自らを『リクリエの使徒』と名乗り、アステラとモンスターを手足のように操るらしい……」"
+translation = "「그 여자는 스스로를 『리크리에의 사도』라 칭하며, 아스테라와 몬스터를 수족처럼 부린다는 모양이다……」"
+
+[[dialogue]]
+speaker_original = "流星教皇"
+speaker_translation = "유성 교황"
+original = "「生き残りの天使が言うには、仮面の女の次の狙いは、魔界とのことだ」"
+translation = "「생존한 천사의 말로는 가면의 여자의 다음 목표는 마계라고 하더군」"
+
+[[dialogue]]
+speaker_original = "流星教皇"
+speaker_translation = "유성 교황"
+original = "「ジェラルド、君はどう思う？\u3000今回の天界襲撃……聖庭園は確かに破壊された。だが女神の神殿は破壊されていないのだ」"
+translation = "「제랄드, 자네는 어떻게 생각하나? 이번 천계 습격…… 성정원은 확실히 파괴되었다. 하지만 여신의 신전은 파괴되지 않았네」"
+
+[[dialogue]]
+speaker = "unk"
+original = "女神の神殿が破壊されれば、この世界に生きる天使はみな実体を保てなくなる。しかし敵の狙いはそうではなかった──"
+translation = "여신의 신전이 파괴되면 이 세계에 사는 천사들은 모두 실체를 유지할 수 없게 된다. 하지만 적의 목표는 그것이 아니었다──"
+
+[[dialogue]]
+speaker_original = "流星教皇"
+speaker_translation = "유성 교황"
+original = "「あくまで聖庭園のみを狙った理由は、おそらく──」"
+translation = "「어디까지나 성정원만을 노린 이유는 아마도──」"
+
+[[dialogue]]
+speaker = "unk"
+original = "リガルタ老の命を狙ったのだろう──つまり、魔王の血を引く者の抹殺が目的。"
+translation = "리갈타 옹의 목숨을 노린 것이겠지── 즉, 마왕의 피를 이어받은 자의 말살이 목적."
+
+[[dialogue]]
+speaker_original = "セイファート"
+speaker_translation = "세이파트"
+original = "「ならば魔界での狙いは……キュリオスの煌嶺だろうか？」"
+translation = "「그렇다면 마계에서의 목표는…… 큐리오스의 코우레이일까요?」"
+
+[[dialogue]]
+speaker_original = "流星教皇"
+speaker_translation = "유성 교황"
+original = "「おそらく。それが終われば、最後は人間界……私と、私の娘が狙われるはずだ」"
+translation = "「아마도. 그것이 끝나면 마지막은 인간계…… 나와 내 딸이 표적이 될 것이네」"
+
+[[dialogue]]
+speaker_original = "流星教皇"
+speaker_translation = "유성 교황"
+original = "「ジェラルド、君に魔界の防衛を頼めないだろうか？\u3000聖庭園を単騎で壊滅させる怪物に、一介の星騎士では歯が立たない……」"
+translation = "「제랄드, 자네에게 마계의 방위를 부탁해도 되겠나? 성정원을 단기로 괴멸시키는 괴물에게 일개 성기사로는 상대가 되지 않아……」"
+
+[[dialogue]]
+speaker_original = "流星教皇"
+speaker_translation = "유성 교황"
+original = "「今一度、流星の騎士の力を借りたいのだ……！」"
+translation = "「다시 한번 유성의 기사의 힘을 빌리고 싶네……!」"
+
+[[dialogue]]
+speaker_original = "セイファート"
+speaker_translation = "세이파트"
+original = "「教皇が頭など下げるな……古い付き合いの友人が相手なら、尚更その必要はない。無論、引き受けるとも」"
+translation = "「교황이 고개를 숙이지 말게…… 오랜 친구가 상대라면 더더욱 그럴 필요는 없네. 물론 맡아주지」"
+
+[[dialogue]]
+speaker_original = "流星教皇"
+speaker_translation = "유성 교황"
+original = "「すまない……マルキア殿が寝たきりで、ただでさえ大変な君にこんな頼みを……」"
+translation = "「미안하네…… 마르키아 공이 병석에 누워있어 가뜩이나 힘든 자네에게 이런 부탁을……」"
+
+[[dialogue]]
+speaker_original = "セイファート"
+speaker_translation = "세이파트"
+original = "「……気にするな」"
+translation = "「……신경 쓰지 말게」"
+
+[[dialogue]]
+speaker = "unk"
+original = "妻のマルキアは、数週間前から突如として意識を失っていた。原因は不明。今も自宅で眠り続けている……"
+translation = "아내인 마르키아는 몇 주 전부터 돌연 의식을 잃고 있었다. 원인은 불명. 지금도 자택에서 계속 잠들어 있다……"
+
+[[dialogue]]
+speaker_original = "セイファート"
+speaker_translation = "세이파트"
+original = "「討伐隊を組織しよう。手練れの星騎士を連れ、魔界へ赴く。吉報を待っていてくれ」"
+translation = "「토벌대를 조직하지. 숙련된 성기사들을 데리고 마계로 가겠네. 길보를 기다려 주게」"
+
+[[dialogue]]
+speaker_original = "流星教皇"
+speaker_translation = "유성 교황"
+original = "「恩に着る、ジェラルド。それともう１つ、不確かな情報ではあるのだが……」"
+translation = "「고맙네, 제랄드. 그리고 한 가지 더, 불확실한 정보이긴 하지만……」"
+
+[[dialogue]]
+speaker_original = "流星教皇"
+speaker_translation = "유성 교황"
+original = "「聖庭園を襲った使徒は、マルキア殿に瓜二つの女性だった、とのことだ……用心してくれ」"
+translation = "「성정원을 습격한 사도는 마르키아 공과 판박이인 여성이었다는군…… 조심하게나」"
+
+[[dialogue]]
+speaker = "unk"
+original = "<ruby>流星教皇<rt>マリウス</rt></ruby>から伝え聞いたあの情報……"
+translation = "<ruby>유성교황<rt>마리우스</rt></ruby>로부터 전해 들은 그 정보……"
+
+[[dialogue]]
+speaker = "unk"
+original = "いったい今、世界に何が起こっているというのだ──？"
+translation = "도대체 지금 세계에 무슨 일이 일어나고 있는 것이지──?"
+
+[[dialogue]]
+speaker = "unk"
+original = "魔界の空を高速で翔け抜け、幾度もの野営の果てに、討伐隊はズヴィエダ地方のレゾフへとたどり着いた。"
+translation = "마계의 하늘을 고속으로 가로질러, 몇 번의 야영 끝에 토벌대는 즈비에다 지방의 레조프에 도착했다."
+
+[[dialogue]]
+speaker_original = "セイファート"
+speaker_translation = "세이파트"
+original = "「皆、ここまでの旅路で疲労がたまっているだろう。今夜から２日、ここで宿を取る。行軍に備えて英気を養ってくれ」"
+translation = "「모두들, 여기까지 오느라 피로가 쌓였겠지. 오늘 밤부터 이틀간 여기서 묵는다. 행군을 대비해 기력을 보충해 두게」"
+
+[[dialogue]]
+speaker = "unk"
+original = "煌嶺が支配するキュリオスは、ズヴィエダ地方からさらに東へ向かった先にある。"
+translation = "코우레이가 지배하는 큐리오스는 즈비에다 지방에서 좀 더 동쪽으로 향한 곳에 있다."
+
+[[dialogue]]
+speaker = "unk"
+original = "フィーニスの塔が<ruby>聳<rt>そび</rt></ruby>えるシャリオン地方から、道中で必ずこのレゾフを経由することになるのだ。これは私とアニュラスにとって、都合が良かった。"
+translation = "피니스의 탑이 솟아있는 샤리온 지방에서 가려면 반드시 이 레조프를 경유하게 된다. 이것은 나와 아뉴라스에게 있어 다행스러운 일이었다."
+
+[[dialogue]]
+speaker_original = "アニュラス"
+speaker_translation = "아뉴라스"
+original = "「お父様とお母様の知り合いが、この街にいらっしゃるのですか？」"
+translation = "「아버님과 어머님의 지인이 이 거리에 계신 건가요?」"
+
+[[dialogue]]
+speaker_original = "セイファート"
+speaker_translation = "세이파트"
+original = "「ああ。アニュラスが生まれるよりも前からの仲だ。彼らならば信用できる」"
+translation = "「아아. 아뉴라스가 태어나기 전부터 알고 지낸 사이다. 그들이라면 신용할 수 있지」"
+
+[[dialogue]]
+speaker = "unk"
+original = "マリウスから伝え聞いた例の情報──リクリエの使徒は、私の妻に瓜二つであるという。"
+translation = "마리우스로부터 전해 들은 예의 정보── 리크리에의 사도는 내 아내와 판박이라는 것."
+
+[[dialogue]]
+speaker = "unk"
+original = "この噂が人間界で広まれば、寝たきりの妻がどのような目に遭うかわからない。"
+translation = "이 소문이 인간계에 퍼지면 병석에 누운 아내가 어떤 꼴을 당할지 모른다."
+
+[[dialogue]]
+speaker = "unk"
+original = "マリウスが保護を申し出てくれていたのだが、流星教皇である彼の肩に、これ以上の重荷を背負わせるのも忍びない。"
+translation = "마리우스가 보호를 제안해 주었지만, 유성교황인 그의 어깨에 이 이상의 짐을 지우는 것도 마음이 아팠다."
+
+[[dialogue]]
+speaker = "unk"
+original = "だから私は眠り続けるマルキアを、魔界の友人に預けることに決めたのだった。"
+translation = "그래서 나는 계속 잠들어 있는 마르키아를 마계의 친구에게 맡기기로 결심한 것이었다."
+
+[[dialogue]]
+speaker_original = "魔族の女性"
+speaker_translation = "마족 여성"
+original = "「話はわかりました。マルキア様は丁重に保護いたします」"
+translation = "「이야기는 잘 알았습니다. 마르키아 님은 정중히 보호하겠습니다」"
+
+[[dialogue]]
+speaker_original = "魔族の男性"
+speaker_translation = "마족 남성"
+original = "「──ところで、その子が人間界でもうけた君たちの娘か？」"
+translation = "「──그건 그렇고, 그 아이가 인간계에서 낳은 당신들의 딸인가?」"
+
+[[dialogue]]
+speaker_original = "アニュラス"
+speaker_translation = "아뉴라스"
+original = "「は、はい。アニュラス・セイファートです」"
+translation = "「네, 네. 아뉴라스 세이퍼트입니다」"
+
+[[dialogue]]
+speaker_original = "魔族の男性"
+speaker_translation = "마족 남성"
+original = "「なるほど、マルキア殿によく似て……とはまだ言えんか。仮面があると分かりづらいな。ハハハ」"
+translation = "「과연, 마르키아 공을 쏙 빼닮…… 았다고는 아직 말 못 하겠군. 가면이 있어서 알기 힘들구먼. 하하하」"
+
+[[dialogue]]
+speaker = "unk"
+original = "……憂いは<ruby>断<rt>た</rt></ruby>った。これで使徒との戦いに専念できる。"
+translation = "……근심은 끊어냈다. 이제 사도와의 싸움에 전념할 수 있다."
+
+[[dialogue]]
+speaker = "unk"
+original = "ここを発てば、また過酷な移動の日々だ。魔界は人間界など比にもならぬほどの大界──疲れを癒し、備えねば。"
+translation = "이곳을 떠나면 다시 가혹한 이동의 나날이다. 마계는 인간계와는 비교도 안 될 정도의 대계── 피로를 풀고 대비해야 한다."
+
+[[dialogue]]
+speaker = "unk"
+original = "そうしてレゾフを発った後も、討伐隊はキュリオスに向けて飛び続けた。"
+translation = "그렇게 레조프를 떠난 후에도 토벌대는 큐리오스를 향해 계속 비행했다."
+
+[[dialogue]]
+speaker = "unk"
+original = "魔界に棲息する魔物たち。発生したアステラから湧き出るモンスター……それらを蹴散らしながら、使徒の背中を追いかける。"
+translation = "마계에 서식하는 마물들. 발생한 아스테라에서 솟아나오는 몬스터…… 그것들을 흩어버리며 사도의 뒤를 쫓는다."
+
+[[dialogue]]
+speaker = "unk"
+original = "こうして長旅を続けていると昔のことを思い出す。"
+translation = "이렇게 긴 여행을 계속하다 보니 옛날 일이 생각난다."
+
+[[dialogue]]
+speaker = "unk"
+original = "旅とは不思議なものだ。普段ならば絶対に交わらない縁の糸が、結ばれることもある──"
+translation = "여행이란 참으로 신비한 것이다. 평소라면 절대로 겹치지 않을 인연의 실이 맺어지기도 하니──"
+
+[[dialogue]]
+speaker_original = "セイファート"
+speaker_translation = "세이파트"
+original = "「……む？」"
+translation = "「……음?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ある日の深夜。野営地から少し離れた場所で、私は就寝前の鍛錬を行っていた。"
+translation = "어느 날 심야. 야영지에서 조금 떨어진 곳에서 나는 취침 전의 단련을 하고 있었다."
+
+[[dialogue]]
+speaker = "unk"
+original = "剣の素振りの合間に、かすかに声が聴こえた気がしたのだ──"
+translation = "검 휘두르기 중간에 희미하게 목소리가 들린 듯한 기분이 들었다──"
+
+[[dialogue]]
+speaker_original = "セイファート"
+speaker_translation = "세이파트"
+original = "「…………子供の、泣き声か？」"
+translation = "「…………아이의 울음소리인가?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "まさか、こんな魔界の原野で──そう思いつつも歩を進めていくと。"
+translation = "설마 이런 마계의 황야에서── 그렇게 생각하면서도 발걸음을 옮기자."
+
+[[dialogue]]
+speaker_original = "魔族の少女"
+speaker_translation = "마족 소녀"
+original = "「ひぐっ……えぐっ……」"
+translation = "「히극…… 에극……」"
+
+[[dialogue]]
+speaker = "unk"
+original = "洞窟の入口近くで泣きじゃくる、吸血鬼の少女を見つけた。"
+translation = "동굴 입구 근처에서 흐느껴 우는 흡혈귀 소녀를 발견했다."
+
+[[dialogue]]
+speaker_original = "セイファート"
+speaker_translation = "세이파트"
+original = "「どうしたのだ、君。こんなところで……」"
+translation = "「무슨 일이냐, 얘야. 이런 곳에서……」"
+
+[[dialogue]]
+speaker_original = "魔族の少女"
+speaker_translation = "마족 소녀"
+original = "「だ……れ？」"
+translation = "「누……구?」"
+
+[[dialogue]]
+speaker_original = "セイファート"
+speaker_translation = "세이파트"
+original = "「通りすがりの旅人だ。親とはぐれたのか？」"
+translation = "「지나가던 여행자란다. 부모님과 헤어진 거니?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "魔族の少女は、吸血鬼の中でもとりわけ優秀な『影の一族』だった。"
+translation = "마족 소녀는 흡혈귀 중에서도 특히 우수한 『그림자 일족』이었다."
+
+[[dialogue]]
+speaker = "unk"
+original = "しかし彼女は病弱で──使徒が近くに現れたがゆえに足手まといと判断され、一族の総意で洞窟に捨て置かれたのだという。なんと不憫な……"
+translation = "하지만 그녀는 몸이 약했고── 사도가 근처에 나타났기에 짐이 된다고 판단되어, 일족의 총의로 동굴에 버려졌다고 한다. 이 얼마나 가련한가……"
+
+[[dialogue]]
+speaker = "unk"
+original = "私は野営地から離れた場所にある、小さな村まで彼女を連れて行き、保護を依頼した──"
+translation = "나는 야영지에서 떨어진 곳에 있는 작은 마을까지 그녀를 데려가 보호를 의뢰했다──"
+
+[[dialogue]]
+speaker_original = "魔族の少女"
+speaker_translation = "마족 소녀"
+original = "「おじさん……もう、いっちゃうの……？」"
+translation = "「아저씨…… 벌써 가버리는 거야……?」"
+
+[[dialogue]]
+speaker_original = "セイファート"
+speaker_translation = "세이파트"
+original = "「すまない。私にはやるべきことがあるのだ」"
+translation = "「미안하구나. 나에게는 해야 할 일이 있단다」"
+
+[[dialogue]]
+speaker_original = "セイファート"
+speaker_translation = "세이파트"
+original = "「心配はいらない。この村は優しい人達ばかりだ──世話をしてもらいなさい」"
+translation = "「걱정할 것 없다. 이 마을은 친절한 사람들뿐이란다── 보살핌을 받으렴」"
+
+[[dialogue]]
+speaker_original = "魔族の少女"
+speaker_translation = "마족 소녀"
+original = "「でも私……おじさんに、なにもお返し、できてない……」"
+translation = "「그치만 나…… 아저씨한테 아무것도 보답 못 했는데……」"
+
+[[dialogue]]
+speaker_original = "セイファート"
+speaker_translation = "세이파트"
+original = "「律儀な子だな。では１つ約束をしてくれ」"
+translation = "「성실한 아이구나. 그럼 한 가지 약속을 해주렴」"
+
+[[dialogue]]
+speaker_original = "セイファート"
+speaker_translation = "세이파트"
+original = "「困っている者がいたら、今度は君が助けてあげるのだ。その助け合いの輪。縁の糸こそが、ヒトにとって最も強い力になるのだから」"
+translation = "「곤란해하는 사람이 있다면 이번엔 네가 도와주는 거란다. 그 서로 돕는 고리. 인연의 실이야말로 인간에게 있어 가장 강한 힘이 되니까」"
+
+[[dialogue]]
+speaker_original = "魔族の少女"
+speaker_translation = "마족 소녀"
+original = "「私が誰かを？\u3000そんなの、無理です……」"
+translation = "「내가 누군가를? 그런 거 무리에요……」"
+
+[[dialogue]]
+speaker_original = "魔族の少女"
+speaker_translation = "마족 소녀"
+original = "「私、おちこぼれで……何の力も、なくて……」"
+translation = "「나, 낙오자라서…… 아무런 힘도 없어서……」"
+
+[[dialogue]]
+speaker_original = "セイファート"
+speaker_translation = "세이파트"
+original = "「そんなことはない。星々は、優しくまっすぐな者を見逃さないものだ。君は明日にでも、守護の星を得るかもしれないぞ？」"
+translation = "「그렇지 않단다. 별들은 다정하고 올곧은 자를 놓치지 않는 법이지. 너는 내일이라도 수호의 별을 얻을지도 모른단다?」"
+
+[[dialogue]]
+speaker_original = "セイファート"
+speaker_translation = "세이파트"
+original = "「もしも力に目覚めたら、人間界に来なさい。歓迎しよう」"
+translation = "「만약 힘에 눈을 뜬다면 인간계로 오너라. 환영하마」"
+
+[[dialogue]]
+speaker = "unk"
+original = "吸血鬼の少女の頭を撫で、私は別れを告げた──"
+translation = "흡혈귀 소녀의 머리를 쓰다듬으며 나는 작별을 고했다──"
+
+[[dialogue]]
+speaker = "unk"
+original = "リクリエの使徒の影響は、そこかしこで現れていると見ていい。あの吸血鬼の少女のように、不幸な者をこれからも増やしていくのだろう。"
+translation = "리크리에의 사도의 영향은 곳곳에서 나타나고 있다고 봐도 좋다. 저 흡혈귀 소녀처럼 불행한 자를 앞으로도 늘려가겠지."
+
+[[dialogue]]
+speaker = "unk"
+original = "だからこそ──負けるわけにはいかない。"
+translation = "그렇기에── 질 수는 없다."
+
+[[dialogue]]
+speaker = "unk"
+original = "そう心に誓っていたというのに──"
+translation = "그렇게 마음속으로 맹세했건만──"
+
+[[dialogue]]
+speaker_original = "アニュラス"
+speaker_translation = "아뉴라스"
+original = "「ぅぁあああぁっ！？」"
+translation = "「우아아아아앗!?」"
+
+[[dialogue]]
+speaker_original = "セイファート"
+speaker_translation = "세이파트"
+original = "「アニュラス、下がれ！！\u3000負傷した者の援護をしろ！\u3000こいつは私が相手をする！！」"
+translation = "「아뉴라스, 물러나거라!! 부상당한 자들을 원호해! 이 녀석은 내가 상대하마!!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "──吸血鬼の少女と別れて、十数日。"
+translation = "──흡혈귀 소녀와 헤어지고 십수 일."
+
+[[dialogue]]
+speaker = "unk"
+original = "キュリオスまであと数日という地点で、討伐隊は『仮面の女』と会敵した。"
+translation = "큐리오스까지 앞으로 며칠 남지 않은 지점에서 토벌대는 『가면의 여자』와 조우했다."
+
+[[dialogue]]
+speaker_original = "セイファート"
+speaker_translation = "세이파트"
+original = "「ぬ、ぅぅうっ！？」"
+translation = "「큭, 으으윽!?」"
+
+[[dialogue]]
+speaker_original = "リクリエの使徒"
+speaker_translation = "리크리에의 사도"
+original = "「首を刎ねるつもりだったのに……ふふふっ！\u3000やっぱり『あなた』は強いわね！」"
+translation = "「목을 칠 생각이었는데…… 후후훗! 역시 『당신』은 강하네!」"
+
+[[dialogue]]
+speaker_original = "セイファート"
+speaker_translation = "세이파트"
+original = "（何なのだ……この女は！？）"
+translation = "(도대체 무엇이냐…… 이 여자는!?)"
+
+[[dialogue]]
+speaker_original = "セイファート"
+speaker_translation = "세이파트"
+original = "（マルキアに……似ている！\u3000似すぎているッ！！\u3000まるでマルキア本人のような──いや、そんなことはありえない！）"
+translation = "(마르키아와…… 닮았다! 너무 닮았어!! 마치 마르키아 본인 같은── 아니, 그럴 리가 없다!)"
+
+[[dialogue]]
+speaker = "unk"
+original = "私の妻は今、レゾフで眠っている。"
+translation = "내 아내는 지금 레조프에서 잠들어 있다."
+
+[[dialogue]]
+speaker = "unk"
+original = "似ているだけの別物だ……あの優しい妻の外見を騙る偽物め。正体を暴いてくれる──！"
+translation = "닮았을 뿐인 가짜다…… 그 다정한 아내의 외모를 사칭하는 가짜 녀석. 정체를 밝혀주마──!"
+
+[[dialogue]]
+speaker_original = "セイファート"
+speaker_translation = "세이파트"
+original = "「──ムゥウゥウウゥンッ！！！」"
+translation = "「──무우우우우운!!!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "一瞬の隙に、手ごたえを感じる袈裟の一撃を使徒に見舞う。"
+translation = "한순간의 틈에 타격감이 느껴지는 가사 베기를 사도에게 선사한다."
+
+[[dialogue]]
+speaker_original = "リクリエの使徒"
+speaker_translation = "리크리에의 사도"
+original = "「ぐ、ぁッ────！？」"
+translation = "「구, 악────!?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "顔を覆っていた仮面の半分が欠け、女の素顔が明らかになった──"
+translation = "얼굴을 가리고 있던 가면의 절반이 깨지며 여자의 맨얼굴이 드러났다──"
+
+[[dialogue]]
+speaker_original = "マルキア"
+speaker_translation = "마르키아"
+original = "「あ、あな……た──」"
+translation = "「아, 당……신──」"
+
+[[dialogue]]
+speaker_original = "セイファート"
+speaker_translation = "세이파트"
+original = "「マル……キア？」"
+translation = "「마르……키아?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "見間違うことなどありえない、愛しい妻の顔。"
+translation = "잘못 볼 리가 없는, 사랑스러운 아내의 얼굴."
+
+[[dialogue]]
+speaker = "unk"
+original = "<b>今よりも１０歳ほど若い</b>ということを除けば、まぎれもなくそれは──私の妻だった！"
+translation = "<b>지금보다 10살 정도 젊다</b>는 것을 제외하면 틀림없이 그것은── 내 아내였다!"
+
+[[dialogue]]
+speaker_original = "マルキア"
+speaker_translation = "마르키아"
+original = "「お願い……私を、殺して……」"
+translation = "「부탁이야…… 나를 죽여줘……」"
+
+[[dialogue]]
+speaker_original = "セイファート"
+speaker_translation = "세이파트"
+original = "「な、何を──！？」"
+translation = "「뭐, 뭐라고──!?」"
+
+[[dialogue]]
+speaker_original = "マルキア"
+speaker_translation = "마르키아"
+original = "「天界で、魔界で……私は数えきれないほどの、罪のない人を……！」"
+translation = "「천계에서, 마계에서…… 나는 셀 수 없을 정도로 많은 죄 없는 사람들을……!」"
+
+[[dialogue]]
+speaker_original = "マルキア"
+speaker_translation = "마르키아"
+original = "「全てを壊せ、滅ぼせと……声が頭の中で鳴りやまないの！\u3000抵抗することすらできない……！！」"
+translation = "「모든 것을 파괴해라, 멸망시켜라 하고…… 목소리가 머릿속에서 끊이지 않아! 저항하는 것조차 할 수 없어……!!」"
+
+[[dialogue]]
+speaker_original = "マルキア"
+speaker_translation = "마르키아"
+original = "「お願い、あなた！\u3000早く私を──殺して！！！」"
+translation = "「부탁이야, 당신! 빨리 나를── 죽여줘!!!」"
+
+[[dialogue]]
+speaker_original = "セイファート"
+speaker_translation = "세이파트"
+original = "「マルキア……そんな……」"
+translation = "「마르키아…… 그럴 수가……」"
+
+[[dialogue]]
+speaker = "unk"
+original = "達人同士の一騎打ちにおいて、冷静さを欠くなどあってはならないのに──私は本当に未熟者だ。"
+translation = "달인끼리의 일대일 대결에서 냉정함을 잃는 일 따위 있어선 안 되는데── 나는 정말 미숙한 자다."
+
+[[dialogue]]
+speaker_original = "マルキア"
+speaker_translation = "마르키아"
+original = "「ぁ──あぁああ──やめて！\u3000もう、やめて────！！」"
+translation = "「아── 아아아아── 하지 마! 이제 그만둬────!!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "次の瞬間、欠けていた仮面が再生し──泣いて懇願していたマルキアの口元には、再び嗜虐的な笑みが張り付いた。"
+translation = "다음 순간 깨져있던 가면이 재생되고── 울며 간청하던 마르키아의 입가에는 다시 가학적인 미소가 달라붙었다."
+
+[[dialogue]]
+speaker_original = "リクリエの使徒"
+speaker_translation = "리크리에의 사도"
+original = "「甘いわね、英雄──」"
+translation = "「무르구나, 영웅──」"
+
+[[dialogue]]
+speaker_original = "セイファート"
+speaker_translation = "세이파트"
+original = "「ぐッ────ァアァァアァァァアアッ！？！？」"
+translation = "「구윽────아아아아아아앗!?!?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "私の意識は、そこで途絶えた──"
+translation = "나의 의식은 거기서 끊겼다──"
+
+[[dialogue]]
+speaker = "unk"
+original = "……………………"
+translation = "……………………"
+
+[[dialogue]]
+speaker = "unk"
+original = "…………"
+translation = "…………"
+
+[[dialogue]]
+speaker = "unk"
+original = "……"
+translation = "……"
+
+[[dialogue]]
+speaker_original = "アニュラス"
+speaker_translation = "아뉴라스"
+original = "「──お父様！」"
+translation = "「──아버님!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "声が──"
+translation = "목소리가──"
+
+[[dialogue]]
+speaker_original = "マルキア"
+speaker_translation = "마르키아"
+original = "「……あなた！！」"
+translation = "「……당신!!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "声が、聴こえる──"
+translation = "목소리가 들린다──"
+
+[[dialogue]]
+speaker_original = "セイファート"
+speaker_translation = "세이파트"
+original = "「……ここ、は？」"
+translation = "「……여기, 는?」"
+
+[[dialogue]]
+speaker_original = "アニュラス"
+speaker_translation = "아뉴라스"
+original = "「お父様……レゾフです！\u3000ほら、お母様もいますよ……しっかり！」"
+translation = "「아버님…… 레조프입니다! 보세요, 어머님도 계세요…… 정신 차리세요!」"
+
+[[dialogue]]
+speaker_original = "マルキア"
+speaker_translation = "마르키아"
+original = "「あなた……ようやく目を覚ましてくれた……よかった……」"
+translation = "「당신…… 겨우 눈을 떴구나…… 다행이야……」"
+
+[[dialogue]]
+speaker_original = "セイファート"
+speaker_translation = "세이파트"
+original = "「私は、使徒に……なぜ、生きて、いるのだ……？」"
+translation = "「나는 사도에게…… 어째서 살아있는 거지……?」"
+
+[[dialogue]]
+speaker_original = "アニュラス"
+speaker_translation = "아뉴라스"
+original = "「私とお父様だけは……生き延びることができたのです……」"
+translation = "「저와 아버님만은…… 살아남을 수 있었던 거예요……」"
+
+[[dialogue]]
+speaker_original = "アニュラス"
+speaker_translation = "아뉴라스"
+original = "「瀕死のお父様を担いで、あらゆる人達の助けを借りて、レゾフまで撤退を……お母様は少し前に、突然目が覚めて……」"
+translation = "「빈사 상태인 아버님을 메고 온갖 사람들의 도움을 받아 레조프까지 후퇴를…… 어머님은 조금 전에 갑자기 눈을 뜨셔서……」"
+
+[[dialogue]]
+speaker = "unk"
+original = "アニュラスと私だけが生き延びられたのは、なぜだ。あのリクリエの使徒が、手心を加えたとでも？"
+translation = "아뉴라스와 나만이 살아남을 수 있었던 것은 왜인가. 그 리크리에의 사도가 봐주기라도 했다는 건가?"
+
+[[dialogue]]
+speaker = "unk"
+original = "そして昏睡していたはずの妻が、再び目を覚ましている……いったい、何が原因だったのだ？"
+translation = "그리고 혼수상태였을 아내가 다시 눈을 떴다…… 도대체 무엇이 원인이었지?"
+
+[[dialogue]]
+speaker_original = "セイファート"
+speaker_translation = "세이파트"
+original = "「……アニュラス。あれから、どれだけ経った？」"
+translation = "「……아뉴라스. 그때부터 얼마나 지났느냐?」"
+
+[[dialogue]]
+speaker_original = "アニュラス"
+speaker_translation = "아뉴라스"
+original = "「……１ヵ月ほどです」"
+translation = "「……한 달 정도예요」"
+
+[[dialogue]]
+speaker_original = "セイファート"
+speaker_translation = "세이파트"
+original = "「──！？\u3000では、人間界はっ！？」"
+translation = "「──!? 그렇다면 인간계는!?」"
+
+[[dialogue]]
+speaker_original = "アニュラス"
+speaker_translation = "아뉴라스"
+original = "「わからないのです、お父様……」"
+translation = "「모르겠어요, 아버님……」"
+
+[[dialogue]]
+speaker_original = "アニュラス"
+speaker_translation = "아뉴라스"
+original = "「『仮面の女』はキュリオスを壊滅させた後、すぐに人間界へ向かったようなのですが……」"
+translation = "「『가면의 여자』는 큐리오스를 괴멸시킨 뒤 곧바로 인간계로 향한 것 같습니다만……」"
+
+[[dialogue]]
+speaker_original = "アニュラス"
+speaker_translation = "아뉴라스"
+original = "「<ruby>鏡界の湖<rt>ラーゴ・シエロ</rt></ruby>の道は閉ざされていて……人間界がどうなっているのか……確認も取れないのです！」"
+translation = "「<ruby>경계의 호수<rt>라고 시엘로</rt></ruby>의 길은 닫혀 있고…… 인간계가 어떻게 되었는지…… 확인조차 할 수 없어요!」"
+

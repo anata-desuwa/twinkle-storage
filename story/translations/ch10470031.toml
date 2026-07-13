@@ -1,0 +1,388 @@
+[[dialogue]]
+speaker = "unk"
+original = "第１話,メルエルとナターシャのその後,P"
+translation = "제1화, 멜엘과 나타샤의 뒷이야기, P"
+
+[[dialogue]]
+speaker = "unk"
+original = "『<ruby>ＸＥＬＯＳ<rt>ゼロス</rt></ruby>』との戦いが終わり――ようやく日常が戻ってきたと実感し始めた、ある日の放課後。"
+translation = "『<ruby>XELOS<rt>제롯</rt></ruby>』과의 싸움이 끝나고―― 겨우 일상이 돌아왔음을 실감하기 시작한 어느 날 방과 후."
+
+[[dialogue]]
+speaker = "unk"
+original = "恋人のメルエルが、今日は教室まで迎えに来なかった。何か用事でもあったのだろうかと、彼女の教室へ向かうと……"
+translation = "연인인 멜엘이 오늘은 교실까지 마중 나오지 않았다. 무슨 일이라도 있는 걸까 싶어 그녀의 교실로 향하자……"
+
+[[dialogue]]
+speaker_original = "メルエル"
+speaker_translation = "메르엘"
+original = "「ねっ、お願いナターシャちゃん！\u3000今日は一緒に買い物に行こうっ」"
+translation = "「저기, 부탁이야 나타샤짱! 오늘은 같이 쇼핑 가자」"
+
+[[dialogue]]
+speaker_original = "ナターシャ"
+speaker_translation = "나타샤"
+original = "「え～、やだよ。メルエルって放課後は毎日、会長さんのところでしょ？\u3000買い物なら、会長さんと行けばいいじゃん」"
+translation = "「에~ 싫어. 멜엘은 방과 후엔 매일 회장님한테 가잖아? 쇼핑이라면 회장님이랑 가면 되잖아」"
+
+[[dialogue]]
+speaker_original = "メルエル"
+speaker_translation = "메르엘"
+original = "「うんっ！\u3000だからその会長くんとの買い物に、ナターシャちゃんも一緒にどうかなって！」"
+translation = "「응! 그러니까 그 회장군과의 쇼핑에 나타샤짱도 같이 어떨까 해서!」"
+
+[[dialogue]]
+speaker_original = "ナターシャ"
+speaker_translation = "나타샤"
+original = "「えっ、本当に嫌。なんで私がカップルのお邪魔虫みたいなことしなきゃいけないの」"
+translation = "「에, 진짜 싫어. 왜 내가 커플 사이에 낀 방해꾼 같은 짓을 해야 하는 건데」"
+
+[[dialogue]]
+speaker = "unk"
+original = "２人とも、どうかした？"
+translation = "둘 다 무슨 일이야?"
+
+[[dialogue]]
+speaker_original = "メルエル"
+speaker_translation = "메르엘"
+original = "「あっ、会長くん、ごめんね。ナターシャちゃんと話してて、迎えに行けなくて……」"
+translation = "「앗, 회장군, 미안해. 나타샤짱이랑 이야기하느라 마중을 못 가서……」"
+
+[[dialogue]]
+speaker_original = "ナターシャ"
+speaker_translation = "나타샤"
+original = "「聞いてよ会長さん。この子、会長さんとのデートに、私を連れて行こうとするんだよ。彼氏としてどう思う？」"
+translation = "「들어봐 회장님. 이 애, 회장님이랑 데이트하는데 나를 데려가려고 해. 남친으로서 어떻게 생각해?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "俺も仲良くしておきたいな"
+translation = "나도 사이좋게 지내고 싶네"
+
+[[dialogue]]
+speaker = "unk"
+original = "メルエルが仲良くしたいナターシャとは"
+translation = "멜엘이 사이좋게 지내고 싶은 나타샤와는"
+
+[[dialogue]]
+speaker_original = "メルエル"
+speaker_translation = "메르엘"
+original = "「……！\u3000会長くんっ<emoji=heart04>」"
+translation = "「……! 회장군<emoji=heart04>」"
+
+[[dialogue]]
+speaker_original = "ナターシャ"
+speaker_translation = "나타샤"
+original = "「わお。それ、なかなか大胆な発言だね」"
+translation = "「와오. 그거 꽤 대담한 발언이네」"
+
+[[dialogue]]
+speaker_original = "メルエル"
+speaker_translation = "메르엘"
+original = "「？\u3000大胆って……何が？」"
+translation = "「? 대담하다니…… 뭐가?」"
+
+[[dialogue]]
+speaker_original = "ナターシャ"
+speaker_translation = "나타샤"
+original = "「メルエルという恋人がいながら、私とも仲良くしたいってことは……私も魔王の側室に加えられちゃうってことだよ、メルエル」"
+translation = "「멜엘이라는 연인이 있으면서 나랑도 사이좋게 지내고 싶다는 건…… 나도 마왕의 측실로 들어간다는 소리라고, 멜엘」"
+
+[[dialogue]]
+speaker_original = "メルエル"
+speaker_translation = "메르엘"
+original = "「えぇえっ！？\u3000会長くん、ナターシャちゃんのことも好きだったのぉ！？」"
+translation = "「에에에앗!? 회장군, 나타샤짱도 좋아했던 거야!?」"
+
+[[dialogue]]
+speaker_original = "ナターシャ"
+speaker_translation = "나타샤"
+original = "「まあ？\u3000世界を救った魔王の側室っていうのも、案外悪くないのかな？」"
+translation = "「뭐? 세계를 구한 마왕의 측실이라는 것도 의외로 나쁘지 않은 걸까나?」"
+
+[[dialogue]]
+speaker_original = "ナターシャ"
+speaker_translation = "나타샤"
+original = "「暗殺稼業から足を洗っても安心安全だろうし、魔王さまが甲斐性を見せてくれるなら、これ、玉の輿ってやつ？」"
+translation = "「암살 가업에서 손을 씻어도 안심 안전할 테고, 마왕님이 능력껏 대우해 준다면 이거 벼락출세라는 거지?」"
+
+[[dialogue]]
+speaker_original = "メルエル"
+speaker_translation = "메르엘"
+original = "「うぅうっ、会長くんが私以外の女の子を『好き』なのは、ちょっと胸がチクチクするけど、それでも……私のことも好きでいてくれるなら！！」"
+translation = "「으으윽, 회장군이 나 말고 다른 여자애를 『좋아』하는 건 조금 가슴이 찌릿찌릿하지만, 그래도…… 나도 좋아해 준다면!!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "俺が結婚したいのは、メルエルだけだ！"
+translation = "내가 결혼하고 싶은 건 멜엘뿐이야!"
+
+[[dialogue]]
+speaker = "unk"
+original = "メルエル以外に好きな子なんていない！"
+translation = "멜엘 말고 좋아하는 애 따위 없어!"
+
+[[dialogue]]
+speaker_original = "メルエル"
+speaker_translation = "메르엘"
+original = "「か、会長くん……！！<emoji=heart04>」"
+translation = "「회, 회장군……!!<emoji=heart04>」"
+
+[[dialogue]]
+speaker_original = "ナターシャ"
+speaker_translation = "나타샤"
+original = "「え～？\u3000でもさ、魔王の血筋はちゃんと残すべきじゃない？」"
+translation = "「에~? 그래도 말이야, 마왕의 핏줄은 제대로 남겨야 하지 않아?」"
+
+[[dialogue]]
+speaker_original = "ナターシャ"
+speaker_translation = "나타샤"
+original = "「メルエルが<b>天界の魔王を断絶させちゃう</b>わけだし？\u3000その分、会長さんには側室を５人でも１０人でもとってもらって、たくさん子孫を残してもらわないと」"
+translation = "「멜엘이 <b>천계의 마왕을 단절시켜버리는</b> 셈이고? 그만큼 회장님은 측실을 5명이든 10명이든 들여서 잔뜩 자손을 남겨줘야지」"
+
+[[dialogue]]
+speaker = "unk"
+original = "魔王の役目はもう終わっただろ？"
+translation = "마왕의 역할은 이제 끝났잖아?"
+
+[[dialogue]]
+speaker = "unk"
+original = "『ＸＥＬＯＳ』は倒したわけだし"
+translation = "『XELOS』는 쓰러뜨렸으니까"
+
+[[dialogue]]
+speaker_original = "ナターシャ"
+speaker_translation = "나타샤"
+original = "「いやいや、世界の危機なんて、いつどこから転がり込んでくるか分からないものだよ？」"
+translation = "「아니 아니, 세계의 위기 같은 건 언제 어디서 굴러 들어올지 모르는 법이라고?」"
+
+[[dialogue]]
+speaker_original = "メルエル"
+speaker_translation = "메르엘"
+original = "「だ、大丈夫っ！！」"
+translation = "「괘, 괜찮아!!」"
+
+[[dialogue]]
+speaker_original = "メルエル"
+speaker_translation = "메르엘"
+original = "「それなら私が、会長くんの子供を１０人でも２０人でも産むからっ！！」"
+translation = "「그렇다면 내가 회장군 아이를 10명이든 20명이든 낳을 테니까!!」"
+
+[[dialogue]]
+speaker_original = "ナターシャ"
+speaker_translation = "나타샤"
+original = "「うわ～、エロだ。それはエロだよ、メルエル」"
+translation = "「우와~ 에로다. 그건 에로야, 멜엘」"
+
+[[dialogue]]
+speaker_original = "メルエル"
+speaker_translation = "메르엘"
+original = "「私、エロじゃないよ！？」"
+translation = "「나 에로 아니거든!?」"
+
+[[dialogue]]
+speaker_original = "メルエル"
+speaker_translation = "메르엘"
+original = "「お世継ぎの話は大事だし、全然どこにも、エッチな要素はなかったよね！？」"
+translation = "「후계자 이야기는 중요하니까 전혀 어디에도 야한 요소 같은 건 없었지!?」"
+
+[[dialogue]]
+speaker_original = "ナターシャ"
+speaker_translation = "나타샤"
+original = "「これがカマトトってやつか～。どうやって子供ができるか知らないわけじゃあるまいし、あざといなぁ♪」"
+translation = "「이게 내숭이라는 건가~. 어떻게 아기가 생기는지 모르는 것도 아닐 텐데, 영악하네♪」"
+
+[[dialogue]]
+speaker_original = "メルエル"
+speaker_translation = "메르엘"
+original = "「もう、ナターシャちゃんっ。そういうことを堂々と言うのは、はしたないんだよっ」"
+translation = "「정말, 나타샤짱. 그런 걸 당당하게 말하는 건 천박한 거야」"
+
+[[dialogue]]
+speaker_original = "メルエル"
+speaker_translation = "메르엘"
+original = "「と、特に、そのっ。会長くん……じゃなかった、会長くんに限らず、男の子がいるところで、女の子がそういう話をするなんてっ」"
+translation = "「트, 특히 그게. 회장군……이 아니라, 회장군을 포함해서 남자애가 있는 곳에서 여자애가 그런 이야기를 하다니」"
+
+[[dialogue]]
+speaker_original = "ナターシャ"
+speaker_translation = "나타샤"
+original = "「うんうん、あざといあざとい♪\u3000まあでも？\u3000恥ずかしげもなく会長さんにデレデレしてるメルエルの姿、１周回って好きになって来ちゃったよ♪」"
+translation = "「그래 그래, 영악해 영악해♪ 뭐 그래도? 부끄러운 줄도 모르고 회장님한테 데레데레하는 멜엘의 모습, 한 바퀴 돌아서 좋아하게 되어버렸어♪」"
+
+[[dialogue]]
+speaker_original = "メルエル"
+speaker_translation = "메르엘"
+original = "「してないよ！？」"
+translation = "「안 그랬거든!?」"
+
+[[dialogue]]
+speaker_original = "メルエル"
+speaker_translation = "메르엘"
+original = "「私、確かに会長くんのこと大好きだけど、人前でデレデレはしてないもんっ。節度は守ってるつもりだよっ！」"
+translation = "「나 확실히 회장군 정말 좋아하지만, 남들 앞에서 데레데레는 안 한다고. 절도는 지키고 있다고 생각하거든!」"
+
+[[dialogue]]
+speaker_original = "ナターシャ"
+speaker_translation = "나타샤"
+original = "「…………」"
+translation = "「…………」"
+
+[[dialogue]]
+speaker_original = "ナターシャ"
+speaker_translation = "나타샤"
+original = "「……審議、かな？」"
+translation = "「……심의, 일까나?」"
+
+[[dialogue]]
+speaker_original = "メルエル"
+speaker_translation = "메르엘"
+original = "「なんの審議ぃ！？」"
+translation = "「무슨 심의야!?」"
+
+[[dialogue]]
+speaker_original = "ナターシャ"
+speaker_translation = "나타샤"
+original = "「被告人メルエルの罪状は後で申し渡すとして……メルエルの情けない姿がちょっと笑えて、お気に入りなのは本当」"
+translation = "「피고인 멜엘의 죄목은 나중에 선고하기로 하고…… 멜엘의 한심한 모습이 좀 웃겨서 맘에 드는 건 사실이야」"
+
+[[dialogue]]
+speaker_original = "ナターシャ"
+speaker_translation = "나타샤"
+original = "「昔から、メルエルののん気で何も知らない、平和ボケした顔が嫌いだった」"
+translation = "「옛날부터 멜엘의 태평하고 아무것도 모르는, 평화에 찌든 얼굴이 싫었어」"
+
+[[dialogue]]
+speaker_original = "ナターシャ"
+speaker_translation = "나타샤"
+original = "「その癖、何かあると簡単に自己犠牲に走るところが、もっと嫌いだった」"
+translation = "「그 주제에 무슨 일만 있으면 간단히 자기희생으로 치닫는 부분이 더 싫었지」"
+
+[[dialogue]]
+speaker_original = "ナターシャ"
+speaker_translation = "나타샤"
+original = "「自分の生まれも知らないくせに、王の器ってやつ？\u3000メルエルって大切なものを守るためだったら、簡単に命をかけちゃう危ない雰囲気があった」"
+translation = "「자기 출생도 모르면서 왕의 그릇이랄까? 멜엘은 소중한 걸 지키기 위해서라면 쉽게 목숨을 거는 위험한 분위기가 있었어」"
+
+[[dialogue]]
+speaker_original = "メルエル"
+speaker_translation = "메르엘"
+original = "「ナターシャちゃん……」"
+translation = "「나타샤짱……」"
+
+[[dialogue]]
+speaker_original = "ナターシャ"
+speaker_translation = "나타샤"
+original = "「でも、最近のメルエルは、そういう雰囲気がなくなった」"
+translation = "「하지만 요즘의 멜엘은 그런 분위기가 없어졌어」"
+
+[[dialogue]]
+speaker_original = "ナターシャ"
+speaker_translation = "나타샤"
+original = "「ちゃんと色ボケした、正真正銘、脳内ピンクのアホ天使だよ」"
+translation = "「제대로 사랑에 빠진, 그야말로 뇌 속이 핑크색인 바보 천사야」"
+
+[[dialogue]]
+speaker_original = "メルエル"
+speaker_translation = "메르엘"
+original = "「ナターシャちゃんっ！？」"
+translation = "「나타샤짱!?」"
+
+[[dialogue]]
+speaker_original = "ナターシャ"
+speaker_translation = "나타샤"
+original = "「それはきっと――会長さんが本物の魔王で、１番偉い支配者で、メルエルがあなたに従うのが最も正しいって、心の底から信じてるからだと思うんだ」"
+translation = "「그건 분명―― 회장님이 진짜 마왕이고, 가장 높은 지배자이고, 멜엘이 당신을 따르는 게 가장 옳다고 마음속 깊이 믿고 있기 때문이라고 생각해」"
+
+[[dialogue]]
+speaker_original = "ナターシャ"
+speaker_translation = "나타샤"
+original = "「だから、幼なじみとして、お礼を言わせて」"
+translation = "「그러니까 소꿉친구로서 고맙다는 말을 하게 해줘」"
+
+[[dialogue]]
+speaker_original = "ナターシャ"
+speaker_translation = "나타샤"
+original = "「この子を宿命から解き放ってくれて、ありがとう。あなたが代わりに背負ってくれて、ありがとう」"
+translation = "「이 애를 숙명에서 해방해 줘서 고마워. 당신이 대신 짊어져 줘서 고마워」"
+
+[[dialogue]]
+speaker_original = "ナターシャ"
+speaker_translation = "나타샤"
+original = "「あなたにだったら、私の大切なものを預けてもいいよ」"
+translation = "「당신이라면 내 소중한 걸 맡겨도 좋아」"
+
+[[dialogue]]
+speaker = "unk"
+original = "必ず、ナターシャの宝物を守ると誓うよ"
+translation = "반드시 나타샤의 보물을 지키겠다고 맹세할게"
+
+[[dialogue]]
+speaker = "unk"
+original = "ありがとう。"
+translation = "고마워."
+
+[[dialogue]]
+speaker_original = "ナターシャ"
+speaker_translation = "나타샤"
+original = "「<ruby>宝物<rt>そこ</rt></ruby>まで言ってない」"
+translation = "「<ruby>보물<rt>거기</rt></ruby>까지는 말 안 했어」"
+
+[[dialogue]]
+speaker_original = "ナターシャ"
+speaker_translation = "나타샤"
+original = "「でも、言質は取ったからね。……じゃあ、お邪魔虫は消えるよ。お幸せにね、お２人さん」"
+translation = "「하지만 확답은 받았으니까. ……그럼 방해꾼은 사라질게. 행복해라, 두 사람」"
+
+[[dialogue]]
+speaker_original = "メルエル"
+speaker_translation = "메르엘"
+original = "「ストーーップ！！」"
+translation = "「스토오오옵!!」"
+
+[[dialogue]]
+speaker_original = "メルエル"
+speaker_translation = "메르엘"
+original = "「好き放題言って、『はい、さようなら』なんてダメなんだから！\u3000さっきも言ったでしょ？\u3000今日は３人でお買い物だよ！」"
+translation = "「하고 싶은 말 다 해놓고 『네, 안녕히』라니 안 된다니까! 아까도 말했잖아? 오늘은 셋이서 쇼핑이야!」"
+
+[[dialogue]]
+speaker_original = "ナターシャ"
+speaker_translation = "나타샤"
+original = "「……あのね、メルエル」"
+translation = "「……저기 말이야, 멜엘」"
+
+[[dialogue]]
+speaker_original = "ナターシャ"
+speaker_translation = "나타샤"
+original = "「あんな小っ恥ずかしい話をしておいて、そのまま買い物になんて行けるわけないでしょ」"
+translation = "「그런 낯부끄러운 이야기를 해놓고 이대로 쇼핑을 어떻게 가겠냐고」"
+
+[[dialogue]]
+speaker_original = "メルエル"
+speaker_translation = "메르엘"
+original = "「私は全然恥ずかしくなかったよ！\u3000とっても嬉しかった！」"
+translation = "「나는 전혀 부끄럽지 않았어! 정말 기뻤는걸!」"
+
+[[dialogue]]
+speaker_original = "メルエル"
+speaker_translation = "메르엘"
+original = "「だから、絶対ナターシャちゃんと一緒にお出かけしたいって思ったもん！」"
+translation = "「그러니까 꼭 나타샤짱이랑 같이 외출하고 싶다고 생각했단 말이야!」"
+
+[[dialogue]]
+speaker_original = "ナターシャ"
+speaker_translation = "나타샤"
+original = "「……はぁ。ほんと、メルエルは嫌味が通じないから、嫌いだよ」"
+translation = "「……하아. 정말 멜엘은 빈말이 안 통하니까 싫다니까」"
+
+[[dialogue]]
+speaker = "unk"
+original = "そんな憎まれ口とは裏腹に――"
+translation = "그런 미운 소리와는 반대로――"
+
+[[dialogue]]
+speaker = "unk"
+original = "ナターシャの口元は、どこか嬉しそうに、ふっと緩んでいるのだった。"
+translation = "나타샤의 입가는 어딘가 기쁜 듯이 피식 풀려 있는 것이었다."
+

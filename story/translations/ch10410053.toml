@@ -1,0 +1,365 @@
+[[dialogue]]
+speaker = "unk"
+original = "第３話,マインと猫ちゃんスキンシップ,P"
+translation = "제3화, 마인과 고양이 스킨십"
+
+[[dialogue]]
+speaker = "unk"
+original = "ある日の放課後、俺はアニマ先輩の新しい実験に付き合う約束をしていた。"
+translation = "어느 날 방과 후, 나는 아니마 선배의 새로운 실험을 도와주기로 약속했었다."
+
+[[dialogue]]
+speaker_original = "アニマ"
+speaker_translation = "아니마"
+original = "「というわけで――『獣人化薬』～♪」"
+translation = "「그런 고로── 『수인화 약』~♪」"
+
+[[dialogue]]
+speaker_original = "アニマ"
+speaker_translation = "아니마"
+original = "「これまでの戦闘データから、人間・天使・魔族の星力にはそれぞれ異なる性質があると判明してイル」"
+translation = "「지금까지의 전투 데이터로부터 인간, 천사, 마족의 성력에는 각각 다른 성질이 있다는 게 판명되었지」"
+
+[[dialogue]]
+speaker_original = "アニマ"
+speaker_translation = "아니마"
+original = "「そこで一時的に種族を変えられる方法として、まずは『魔族』に変身できる新たな薬を試作開発したというわけダ♪」"
+translation = "「그래서 일시적으로 종족을 바꿀 수 있는 방법으로서, 우선은 『마족』으로 변신할 수 있는 새로운 약을 시작 개발했다는 말씀♪」"
+
+[[dialogue]]
+speaker = "unk"
+original = "相変わらず、とんでもない代物を……！"
+translation = "여전히 터무니없는 물건을……!"
+
+[[dialogue]]
+speaker_original = "アニマ"
+speaker_translation = "아니마"
+original = "「というわけで会長、試してみてくれるカナ？」"
+translation = "「그런 고로 회장, 시험해 봐 주겠나?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "俺はアニマ先輩を信じ、薬を飲む――すると。"
+translation = "나는 아니마 선배를 믿고 약을 마신다── 그러자."
+
+[[dialogue]]
+speaker_original = "アニマ"
+speaker_translation = "아니마"
+original = "「おお、これは……！」"
+translation = "「오오, 이것은……!」"
+
+[[dialogue]]
+speaker_original = "クロ猫"
+speaker_translation = "쿠로네코"
+original = "「にゃ……？\u3000にゃにゃ～～っ！？」"
+translation = "「냐……? 냐냐──앗!?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "（俺、猫になってるぅ～～っ！？）"
+translation = "(나, 고양이가 됐어어──!!?)"
+
+[[dialogue]]
+speaker_original = "アニマ"
+speaker_translation = "아니마"
+original = "「しまっタ！\u3000猫系獣人の魔族になるはずが……失敗して、完全に『猫』になってしまったカ！」"
+translation = "「이런! 고양이계 수인 마족이 되어야 하는데…… 실패해서 완전히 『고양이』가 되어 버렸나!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "アニマ先輩が「少し待っていてくれるカ？」と言って、保健室から出て行き、少しして。"
+translation = "아니마 선배가 「잠시 기다려 주겠나?」라고 말하며 보건실에서 나가고 잠시 후."
+
+[[dialogue]]
+speaker_original = "ネーゼマイン"
+speaker_translation = "네제마인"
+original = "「――あっ、本当だ～。黒猫ちゃんがいる～♪」"
+translation = "「──앗, 진짜다~. 검은 고양이가 있네~♪」"
+
+[[dialogue]]
+speaker_original = "クロ猫"
+speaker_translation = "쿠로네코"
+original = "「！\u3000にゃ～ん！」"
+translation = "「! 냐~앙!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "やって来たのは、なんとマインだった。"
+translation = "찾아온 것은 뜻밖에도 네제마인이었다."
+
+[[dialogue]]
+speaker_original = "ネーゼマイン"
+speaker_translation = "네제마인"
+original = "「アニマ先輩から、会長が戻ってくるまで面倒を見ていてくれって頼まれたけど……キミは一体、何の実験に使う猫ちゃんなのかにゃ～？」"
+translation = "「아니마 선배한테 회장이 돌아올 때까지 돌봐달라고 부탁받았는데…… 너는 대체 무슨 실험에 쓰이는 고양이니~?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "マインは近づいてきて、俺に話しかけてくる。"
+translation = "네제마인은 다가와서 나에게 말을 건다."
+
+[[dialogue]]
+speaker_original = "ネーゼマイン"
+speaker_translation = "네제마인"
+original = "「ねぇ、猫ちゃん。私もちょ～っと実験してもいい？」"
+translation = "「있지, 고양아. 나도 조~금 실험해 봐도 돼?」"
+
+[[dialogue]]
+speaker_original = "クロ猫"
+speaker_translation = "쿠로네코"
+original = "「にゃ……？」"
+translation = "「냐……?」"
+
+[[dialogue]]
+speaker_original = "ネーゼマイン"
+speaker_translation = "네제마인"
+original = "「にひひ♪\u3000大丈夫、私はちょっと意地悪な天使だけど、小動物をイジメたりはしないって決めてるから～」"
+translation = "「니히히♪ 괜찮아, 나는 조금 심술궂은 천사지만 소동물을 괴롭히거나 하지는 않기로 정했으니까~」"
+
+[[dialogue]]
+speaker_original = "クロ猫"
+speaker_translation = "쿠로네코"
+original = "「にゃっ……うにゃ～」"
+translation = "「냐앗…… 우냐~」"
+
+[[dialogue]]
+speaker = "unk"
+original = "マインは俺の頭に手を置いて、撫でてくる。"
+translation = "네제마인은 내 머리에 손을 얹고 쓰다듬어 준다."
+
+[[dialogue]]
+speaker_original = "ネーゼマイン"
+speaker_translation = "네제마인"
+original = "「どう？\u3000撫でられると、どんな感じかにゃ～？」"
+translation = "「어때? 쓰다듬어지니까 어떤 기분이니~?」"
+
+[[dialogue]]
+speaker_original = "クロ猫"
+speaker_translation = "쿠로네코"
+original = "「にゃう～ん……♪」"
+translation = "「냐우~웅……♪」"
+
+[[dialogue]]
+speaker = "unk"
+original = "マインの手つきは優しいもので、なんだかちょっと安心する。"
+translation = "마인의 손길은 상냥해서, 왠지 조금 안심이 된다."
+
+[[dialogue]]
+speaker_original = "ネーゼマイン"
+speaker_translation = "네제마인"
+original = "「じゃあ次は、顎の下を撫でちゃおっかな～？\u3000ほれほれ～♪」"
+translation = "「자, 다음은 턱 밑을 쓰다듬어 볼까나~? 요것 봐라~♪」"
+
+[[dialogue]]
+speaker_original = "クロ猫"
+speaker_translation = "쿠로네코"
+original = "「にゃ～ん……ごろごろ……♪」"
+translation = "「냐~앙…… 가릉가릉……♪」"
+
+[[dialogue]]
+speaker = "unk"
+original = "（気持ちよくて、喉が鳴ってしまう……）"
+translation = "(기분이 좋아서 목이 울려버려……)"
+
+[[dialogue]]
+speaker_original = "ネーゼマイン"
+speaker_translation = "네제마인"
+original = "「にひひ♪\u3000警戒せずに、受け入れてもらえたかな～？\u3000それなら～」"
+translation = "「니히히♪ 경계하지 않고 받아들여 준 걸까나~? 그렇다면~」"
+
+[[dialogue]]
+speaker = "unk"
+original = "俺がリラックス気分で油断していた、次の瞬間――"
+translation = "내가 릴랙스한 기분으로 방심하고 있던 다음 순간――"
+
+[[dialogue]]
+speaker_original = "ネーゼマイン"
+speaker_translation = "네제마인"
+original = "「失礼しま～す♪\u3000えいっ<emoji=heart04>」"
+translation = "「실례하겠습니~다♪ 에잇<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "unk"
+original = "なんといきなり、体にモフッと顔を埋められた。"
+translation = "난데없이 갑자기 몸에 얼굴을 확 파묻어 왔다."
+
+[[dialogue]]
+speaker_original = "クロ猫"
+speaker_translation = "쿠로네코"
+original = "「んにゃあっ！？」"
+translation = "「냐아앗!?」"
+
+[[dialogue]]
+speaker_original = "ネーゼマイン"
+speaker_translation = "네제마인"
+original = "「すぅ～っ、はぁ～っ……<emoji=heart04>」"
+translation = "「스으으~읍, 하아아~아……<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "unk"
+original = "そして、思いっきり深呼吸をされる。"
+translation = "그리고 한껏 심호흡을 한다."
+
+[[dialogue]]
+speaker_original = "クロ猫"
+speaker_translation = "쿠로네코"
+original = "「に、にゃあぁ……」"
+translation = "「냐, 냐아아……」"
+
+[[dialogue]]
+speaker = "unk"
+original = "（思いっきり嗅がれて、恥ずかしい……！）"
+translation = "(한껏 냄새를 맡아대서 창피해……!)"
+
+[[dialogue]]
+speaker_original = "ネーゼマイン"
+speaker_translation = "네제마인"
+original = "「――ん～、なるほどね～♪\u3000これが『猫吸い』か～」"
+translation = "「――음~ 그렇구나~♪ 이게 『고양이 흡입』인가~」"
+
+[[dialogue]]
+speaker_original = "ネーゼマイン"
+speaker_translation = "네제마인"
+original = "「ありがとね～、猫ちゃん。お礼に、いいことしてあげるね♪」"
+translation = "「고마워~ 고양아. 답례로 좋은 거 해줄게♪」"
+
+[[dialogue]]
+speaker_original = "ネーゼマイン"
+speaker_translation = "네제마인"
+original = "「ほ～ら――『お尻トントン』♪」"
+translation = "「자아―― 『엉덩이 톡톡』♪」"
+
+[[dialogue]]
+speaker_original = "クロ猫"
+speaker_translation = "쿠로네코"
+original = "「にゃっ！？\u3000ふにゃあ～～っ！？<emoji=heart04><emoji=heart04>」"
+translation = "「냐앗!? 후냐아아~~앗!?<emoji=heart04><emoji=heart04>」"
+
+[[dialogue]]
+speaker = "unk"
+original = "尻尾の付け根の辺りを軽くポンポンと叩かれた瞬間、得も言われぬ<b>快感</b>が電流のように全身を駆け抜けた。"
+translation = "꼬리 시작 부분 근처를 가볍게 톡톡 두드려진 순간, 말로 표현할 수 없는 <b>쾌감</b>이 전류처럼 전신을 달려나갔다."
+
+[[dialogue]]
+speaker_original = "ネーゼマイン"
+speaker_translation = "네제마인"
+original = "「あっ……にひひっ♪\u3000お尻が上がって来た～。気持ちいいの～？」"
+translation = "「앗…… 니히히♪ 엉덩이가 올라오네~. 기분 좋은 거야~?」"
+
+[[dialogue]]
+speaker_original = "クロ猫"
+speaker_translation = "쿠로네코"
+original = "「にゃ、にゃああぁ～～っ<emoji=heart04>」"
+translation = "「냐, 냐아아아~~앗<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "unk"
+original = "四つん這いの状態から、勝手にお尻が上がっていってしまう。"
+translation = "네 발로 엎드린 상태에서 멋대로 엉덩이가 치켜 올라가 버린다."
+
+[[dialogue]]
+speaker = "unk"
+original = "（や、やばい、これ以上続けられたら……！）"
+translation = "(야, 위험해, 이 이상 계속되면……!)"
+
+[[dialogue]]
+speaker_original = "ネーゼマイン"
+speaker_translation = "네제마인"
+original = "「ん？\u3000猫ちゃん、体が光って……」"
+translation = "「응? 고양아, 몸이 빛나면서……」"
+
+[[dialogue]]
+speaker = "unk"
+original = "――気づけば、俺は元の人間の姿へと戻っていた。"
+translation = "――정신을 차려보니, 나는 원래 인간의 모습으로 돌아와 있었다."
+
+[[dialogue]]
+speaker_original = "ネーゼマイン"
+speaker_translation = "네제마인"
+original = "「あ～あ、薬の効果が切れちゃったみたいだね～。にひひ♪」"
+translation = "「아~아, 약 효과가 다 떨어진 모양이네~. 니히히♪」"
+
+[[dialogue]]
+speaker = "unk"
+original = "えっ……！？\u3000マイン、知ってたの！？"
+translation = "엣……!? 마인, 알고 있었어!?"
+
+[[dialogue]]
+speaker_original = "ネーゼマイン"
+speaker_translation = "네제마인"
+original = "「うん♪\u3000実はアニマ先輩に呼び出された時、聞かされてね～♪」"
+translation = "「응♪ 사실 아니마 선배한테 호출받았을 때 들었거든~♪」"
+
+[[dialogue]]
+speaker_original = "ネーゼマイン"
+speaker_translation = "네제마인"
+original = "「っていうか会長、その体勢……ぷっ♪\u3000きゃはははっ♪\u3000お尻を突き上げたままの体勢になってるよ～」"
+translation = "「그보다 회장, 그 자세…… 풉♪ 꺄하하하♪ 엉덩이를 치켜든 자세 그대로라고~」"
+
+[[dialogue]]
+speaker = "unk"
+original = "俺は顔が熱くなって、慌てて立ち上がる。"
+translation = "나는 얼굴이 화끈거려 서둘러 일어난다."
+
+[[dialogue]]
+speaker_original = "アニマ"
+speaker_translation = "아니마"
+original = "「――おっ、ちゃんと元に戻ったようダナ♪」"
+translation = "「――오, 제대로 원래대로 돌아온 모양이군♪」"
+
+[[dialogue]]
+speaker = "unk"
+original = "と、そこでアニマ先輩が戻って来る。"
+translation = "그때 아니마 선배가 돌아온다."
+
+[[dialogue]]
+speaker = "unk"
+original = "一体どういうことなの！？"
+translation = "대체 어떻게 된 거야!?"
+
+[[dialogue]]
+speaker_original = "ネーゼマイン"
+speaker_translation = "네제마인"
+original = "「アニマ先輩から、会長が猫ちゃんに変身してるから、イチャイチャするならチャンスだよって言われちゃってさ～」"
+translation = "「아니마 선배가 회장이 고양이로 변신해 있으니까, 꽁냥거릴 거라면 찬스라고 말해줘서 말이야~」"
+
+[[dialogue]]
+speaker_original = "アニマ"
+speaker_translation = "아니마"
+original = "「薬の効果は、失敗しても短い時間で切れるようにしてあったからナ」"
+translation = "「약 효과는 실패하더라도 짧은 시간 안에 끊기도록 해두었으니까 말이다」"
+
+[[dialogue]]
+speaker_original = "アニマ"
+speaker_translation = "아니마"
+original = "「それならせっかくだし、会長が猫としてスキンシップされるとどのように感じるのか、知りたくなってナ。フヒ♪」"
+translation = "「그럼 이왕 이렇게 된 거, 회장이 고양이로서 스킨십을 받으면 어떻게 느끼는지 알고 싶어져서 말이지. 후히♪」"
+
+[[dialogue]]
+speaker_original = "ネーゼマイン"
+speaker_translation = "네제마인"
+original = "「で、猫吸いとか、お尻トントンとか、どんな感じだった～？」"
+translation = "「그래서 고양이 흡입이라든가, 엉덩이 톡톡이라든가, 어땠어~?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "そんなこと言えるかぁ～～っ！！"
+translation = "그런 걸 말할 수 있겠냐아아~~앗!!"
+
+[[dialogue]]
+speaker_original = "ネーゼマイン"
+speaker_translation = "네제마인"
+original = "「きゃはははっ♪\u3000ゴメ～ン！」"
+translation = "「꺄하하하♪ 미안~!」"
+
+[[dialogue]]
+speaker_original = "アニマ"
+speaker_translation = "아니마"
+original = "「てへぺろダ♪」"
+translation = "「데헤페로다♪」"
+
+[[dialogue]]
+speaker = "unk"
+original = "そう言って、舌を出し、悪戯スマイルを浮かべてみせる２人なのだった。"
+translation = "그렇게 말하며 혀를 내밀고 장난스러운 미소를 짓는 두 사람이었다."
+

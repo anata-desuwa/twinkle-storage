@@ -1,0 +1,328 @@
+[[dialogue]]
+speaker = "unk"
+original = "第１話,市倉環の乙女なココロ,P"
+translation = "제1화, 이치쿠라 타마키의 소녀다운 마음, P"
+
+[[dialogue]]
+speaker = "unk"
+original = "平行世界デネブにおける防衛戦から数日が経った。"
+translation = "평행세계 데네브에서의 방위전으로부터 며칠이 지났다."
+
+[[dialogue]]
+speaker = "unk"
+original = "『<ruby>ＸＥＬＯＳ<rt>ゼロス</rt></ruby>』とは近いうちに最後の決着をつけることになるだろう──しかしすぐにヤツのところに乗り込むわけにはいかない。"
+translation = "『<ruby>ＸＥＬＯＳ<rt>제로스</rt></ruby>』와는 조만간 최후의 결판을 내게 될 것이다── 하지만 곧장 녀석이 있는 곳으로 쳐들어갈 수는 없다."
+
+[[dialogue]]
+speaker = "unk"
+original = "負傷者の手当てに、アルタイルとデネブが連携を取るための打ち合わせ。やることはたくさんある──そして今、俺は。"
+translation = "부상자 치료에, 알타이르와 데네브가 연계를 취하기 위한 협의. 할 일은 산더미다── 그리고 지금, 나는."
+
+[[dialogue]]
+speaker = "unk"
+original = "世界の危機と同じくらいに大変な、個人的なトラブルにも直面していた──"
+translation = "세계의 위기만큼이나 중대한, 개인적인 문제에도 직면해 있었다──"
+
+[[dialogue]]
+speaker_original = "チナ"
+speaker_translation = "치나"
+original = "「ここがレジスタンスのアジト……すごいな。本当に秘密基地って感じだ」"
+translation = "「여기가 레지스탕스의 아지트…… 대단한데. 정말 비밀기지라는 느낌이야」"
+
+[[dialogue]]
+speaker_original = "ルヴィネ"
+speaker_translation = "루비네"
+original = "「『空間』の魔女が隠蔽していたのね。道理で見つからないわけだわ」"
+translation = "「『공간』의 마녀가 은폐하고 있었군. 도저히 발견되지 않을 만해」"
+
+[[dialogue]]
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
+original = "「お邪魔します、リノさん。すみません、大勢で押しかけちゃって……」"
+translation = "「실례하겠습니다, 리노 씨. 죄송해요, 대인원으로 몰려와 버려서……」"
+
+[[dialogue]]
+speaker_original = "リノ"
+speaker_translation = "리노"
+original = "「いいのよ、賑やかな方が楽しいもの！」"
+translation = "「괜찮아, 북적거리는 게 더 즐거운 법이니까!」"
+
+[[dialogue]]
+speaker_original = "アポロ（大人）"
+speaker_translation = "아폴로(성인)"
+original = "「色々と<ruby>諍い<rt>いさかい</rt></ruby>もあったけど、アタシたちはもう仲間だ。極星学園のみんな、我が家だと思ってくつろいでくれ！」"
+translation = "「여러 갈등도 있었지만, 우리들은 이제 동료다. 극성학원의 모두들, 우리 집이라 생각하고 편히 쉬라고!」"
+
+[[dialogue]]
+speaker_original = "ルヴィネ"
+speaker_translation = "루비네"
+original = "「感謝するわ。ところで──」"
+translation = "「감사하지. 그런데──」"
+
+[[dialogue]]
+speaker_original = "チナ"
+speaker_translation = "치나"
+original = "「……あれ、何なんだ？」"
+translation = "「……저건, 뭐야?」"
+
+[[dialogue]]
+speaker_original = "ラクシャ"
+speaker_translation = "락샤"
+original = "「あ～……喉が渇いたなぁ～？\u3000冷たいコーラが飲みたいなあ～？」"
+translation = "「아~…… 목마르네에~? 시원한 콜라가 마시고 싶은데에~?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "どうぞ……！"
+translation = "여기요……!"
+
+[[dialogue]]
+speaker_original = "ラクシャ"
+speaker_translation = "락샤"
+original = "「ゴクゴク……ぷはー♪\u3000あー、今度は肩が凝ってきたかも？\u3000どこかにマッサージ上手な男の子はいないかなー？」"
+translation = "「꿀꺽꿀꺽…… 푸하♪ 아─, 이번엔 어깨가 결려오는데? 어디 마사지 잘하는 남자애는 없으려나~?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "モミモミ……！"
+translation = "주물주물……!"
+
+[[dialogue]]
+speaker_original = "グレイス"
+speaker_translation = "그레이스"
+original = "「魔王さん、ずいぶんと慌ただしく動いてますね？」"
+translation = "「마왕님, 굉장히 분주하게 움직이고 계시네요?」"
+
+[[dialogue]]
+speaker_original = "レティシア"
+speaker_translation = "레티시아"
+original = "「察するに──私たちがここに来る前から、ずっとあんな感じのようだけれど？」"
+translation = "「짐작건대── 우리가 여기 오기 전부터, 계속 저런 느낌인 것 같은데?」"
+
+[[dialogue]]
+speaker_original = "アナ"
+speaker_translation = "아나"
+original = "「イエス。現在、守護天使ラクシャ様──いいえ。市倉さんは、非常にご機嫌がナナメでして」"
+translation = "「예스. 현재, 수호천사 락샤 님── 아니요. 이치쿠라 양은, 매우 기분이 언짢으셔서요」"
+
+[[dialogue]]
+speaker_original = "マトイ"
+speaker_translation = "마토이"
+original = "「会長が市倉さんを怒らせちゃったみたい……ついこの間知ったんだけど、あの２人、<b>実はお付き合いしてた</b>みたいで……」"
+translation = "「회장이 이치쿠라 씨를 화나게 한 모양이야…… 요전에 알게 된 건데, 저 두 사람, <b>사실 사귀는 사이</b>였던 것 같아……」"
+
+[[dialogue]]
+speaker_original = "グレイス"
+speaker_translation = "그레이스"
+original = "「がーん！？\u3000お、お付き合い……そ、そうですかぁ」"
+translation = "「가안!? 사, 사귀는 사이…… 그, 그렇군요오」"
+
+[[dialogue]]
+speaker_original = "グレイス"
+speaker_translation = "그레이스"
+original = "「……その。事情はわかりませんが、魔王さんを許してあげることはできないんですか？」"
+translation = "「……그게. 사정은 모르겠습니다만, 마왕님을 용서해 주실 수는 없는 건가요?」"
+
+[[dialogue]]
+speaker_original = "ラクシャ"
+speaker_translation = "락샤"
+original = "「うーん。もうしばらくは無理かなー？\u3000ボクのピュアな乙女心を弄んだ罪は重いからね～」"
+translation = "「으음. 당분간은 무리려나~? 내 순수한 소녀심을 농락한 죄는 무거우니까 말이야~」"
+
+[[dialogue]]
+speaker_original = "レティシア"
+speaker_translation = "레티시아"
+original = "「そう言わずに。魔王が可哀想じゃない」"
+translation = "「그러지 말고. 마왕이 불쌍하잖아」"
+
+[[dialogue]]
+speaker_original = "チナ"
+speaker_translation = "치나"
+original = "「そーだぞ。あんなにしおらしく反省してるじゃないか。仲直りしてやれよ」"
+translation = "「맞아. 저렇게 얌전하게 반성하고 있잖아. 화해해 주라고」"
+
+[[dialogue]]
+speaker = "unk"
+original = "極星の皆……味方になってくれるのか！？"
+translation = "극성의 모두들…… 내 편이 되어주는 거야!?"
+
+[[dialogue]]
+speaker_original = "ルヴィネ"
+speaker_translation = "루비네"
+original = "「当然でしょう。魔王には世話になったもの。私たち５人は、いつだってあなたの味方よ」"
+translation = "「당연하지. 마왕에게는 신세를 졌으니까. 우리 다섯 명은, 언제나 당신 편이야」"
+
+[[dialogue]]
+speaker_original = "ルヴィネ"
+speaker_translation = "루비네"
+original = "「守護天使ラクシャ。いったい何があったというの？」"
+translation = "「수호천사 락샤. 도대체 무슨 일이 있었던 거지?」"
+
+[[dialogue]]
+speaker_original = "ラクシャ"
+speaker_translation = "락샤"
+original = "「知りたいなら教えてあげるよ。会長ったらひどいんだから……！」"
+translation = "「알고 싶다면 알려줄게. 회장이 말이야, 너무한다니까……!」"
+
+[[dialogue]]
+speaker_original = "ラクシャ"
+speaker_translation = "락샤"
+original = "「会長たちの１回目のデネブ来訪の際──彼らを逃がすために、ボクはフィーニスの塔に残した半身と同化したでしょ？」"
+translation = "「회장 일행의 첫 번째 데네브 방문 때── 그들을 도망치게 하려고, 내가 피니스 탑에 남겨둔 반신과 동화했었지?」"
+
+[[dialogue]]
+speaker_original = "ラクシャ"
+speaker_translation = "락샤"
+original = "「その時、別れ際に約束してくれたんだよ……ねぇ会長。キミはボクに何て言ったっけ？」"
+translation = "「그때, 헤어지면서 약속해줬거든…… 그치, 회장? 너, 나한테 뭐라고 했더라?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "『いつか迎えに来るよ、環』って……"
+translation = "『언젠가 데리러 올게, 타마키』라고……"
+
+[[dialogue]]
+speaker_original = "ラクシャ"
+speaker_translation = "락샤"
+original = "「そう。『ラクシャ』じゃなくて、わざわざボクのヒトとしての名前まで呼んでくれて……それはもう感動的なお別れだったよね？」"
+translation = "「맞아. 『락샤』가 아니라, 일부러 내 인간으로서의 이름까지 불러줘서…… 그건 정말 감동적인 이별이었지?」"
+
+[[dialogue]]
+speaker_original = "ラクシャ"
+speaker_translation = "락샤"
+original = "「その後すぐボクは、フィーニスの塔の第零層に封印された」"
+translation = "「그 뒤에 바로 나는, 피니스 탑의 제0층에 봉인됐어」"
+
+[[dialogue]]
+speaker_original = "ラクシャ"
+speaker_translation = "락샤"
+original = "「暗い闇の中で……ボクは会長のことを待ち続けたんだ……」"
+translation = "「어두운 어둠 속에서…… 나는 회장을 계속 기다렸어……」"
+
+[[dialogue]]
+speaker_original = "ラクシャ"
+speaker_translation = "락샤"
+original = "（……次に会長に出会えたら、何て声をかけようかな？）"
+translation = "(……다음에 회장을 만나면, 뭐라고 말을 걸까?)"
+
+[[dialogue]]
+speaker_original = "ラクシャ"
+speaker_translation = "락샤"
+original = "（『もう──遅いよ！』なんて言いながら、ハグとかしちゃったり……あはは、ボクのキャラじゃないっての）"
+translation = "(『벌써── 늦었어!』라면서, 허그 같은 것도 해보고…… 아하하, 내 캐릭터가 아니잖아)"
+
+[[dialogue]]
+speaker_original = "ラクシャ"
+speaker_translation = "락샤"
+original = "（でも……）"
+translation = "(하지만……)"
+
+[[dialogue]]
+speaker_original = "ラクシャ"
+speaker_translation = "락샤"
+original = "（早く、逢いたいな……）"
+translation = "(빨리, 보고 싶다……)"
+
+[[dialogue]]
+speaker_original = "ラクシャ"
+speaker_translation = "락샤"
+original = "「あ──封印が、解かれる……！？」"
+translation = "「아── 봉인이, 풀린다……!?」"
+
+[[dialogue]]
+speaker_original = "ラクシャ"
+speaker_translation = "락샤"
+original = "「待ってたよ会長！\u3000逢いたかったよ、すっごく──！」"
+translation = "「기다렸어 회장! 보고 싶었어, 정말──!」"
+
+[[dialogue]]
+speaker_original = "セイファート"
+speaker_translation = "세이파트"
+original = "「──フ。待たせてしまったようだな」"
+translation = "「──후. 기다리게 한 모양이군」"
+
+[[dialogue]]
+speaker_original = "ラクシャ"
+speaker_translation = "락샤"
+original = "「……………………はぁ？」"
+translation = "「……………………하아?」"
+
+[[dialogue]]
+speaker_original = "ラクシャ"
+speaker_translation = "락샤"
+original = "「──ってわけ！\u3000怒るなって方が無理でしょ、これ！？」"
+translation = "「──라는 거야! 화내지 말라는 게 무리잖아, 이거!?」"
+
+[[dialogue]]
+speaker_original = "ラクシャ"
+speaker_translation = "락샤"
+original = "「ようやく彼氏と再会できると思ったら、ヒゲのおっさんに出迎えられたんだよ！？\u3000あり得ないよ！！」"
+translation = "「드디어 남자친구랑 재회할 수 있을 줄 알았는데, 수염 난 아저씨가 마중 나온 거라고!? 있을 수 없는 일이야!!」"
+
+[[dialogue]]
+speaker_original = "チナ"
+speaker_translation = "치나"
+original = "「それは魔王が悪いな。誠心誠意謝れ」"
+translation = "「그건 마왕이 잘못했네. 성심성의껏 사과해」"
+
+[[dialogue]]
+speaker_original = "レティシア"
+speaker_translation = "레티시아"
+original = "「男としてダメね」"
+translation = "「남자로서 실격이네」"
+
+[[dialogue]]
+speaker_original = "グレイス"
+speaker_translation = "그레이스"
+original = "「魔王さん、酷いです……！\u3000鬼畜！\u3000魔王！！」"
+translation = "「마왕님, 너무해요……! 귀축! 마왕!!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "さっきまで味方してくれてたのに！？"
+translation = "조금 전까지 편들어 줬으면서!?"
+
+[[dialogue]]
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
+original = "「お、おじさんの何が駄目なんですか！？\u3000おじさんはかっこよくて素敵じゃないですか──！？」"
+translation = "「아, 아저씨가 뭐가 어때서요!? 아저씨는 멋지고 근사하시잖아요──!?」"
+
+[[dialogue]]
+speaker_original = "ルヴィネ"
+speaker_translation = "루비네"
+original = "「ベアト。ややこしくなるから、あなたは下がりなさい」"
+translation = "「베아트. 복잡해지니까, 당신은 물러나 있으렴」"
+
+[[dialogue]]
+speaker = "unk"
+original = "いい加減、機嫌を直してくれよ環……"
+translation = "이제 그만, 기분 좀 풀어줘 타마키……"
+
+[[dialogue]]
+speaker_original = "ラクシャ"
+speaker_translation = "락샤"
+original = "「むりむり。これはもーちょい引っ張るから」"
+translation = "「무리무리. 이건 좀 더 끌 거니까」"
+
+[[dialogue]]
+speaker_original = "ラクシャ"
+speaker_translation = "락샤"
+original = "「あー、彼氏にエスコートしてもらってデートがしたいなー？\u3000もちろん全部キミの奢りね？」"
+translation = "「아─, 남자친구한테 에스코트받으면서 데이트가 하고 싶네~? 물론 전부 네가 쏘는 거다?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "お、仰せのままに……！！"
+translation = "모, 명하시는 대로……!!"
+
+[[dialogue]]
+speaker = "unk"
+original = "環は基本的にさっぱりしていて、後に引きずるタイプではないのだけど……"
+translation = "타마키는 기본적으로 시원시원해서 뒤끝이 있는 타입은 아니지만……"
+
+[[dialogue]]
+speaker = "unk"
+original = "それからしばらくの間、俺は環のご機嫌取りに奔走することになるのだった──"
+translation = "그로부터 한동안, 나는 타마키의 비위를 맞추느라 분주하게 움직이게 되었다──"
+

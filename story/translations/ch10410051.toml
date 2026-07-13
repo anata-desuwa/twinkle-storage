@@ -1,0 +1,397 @@
+[[dialogue]]
+speaker = "unk"
+original = "第１話,マインと人工ノヴァフォーム,P"
+translation = "제1화, 마인과 인공 노바 폼"
+
+[[dialogue]]
+speaker = "unk"
+original = "マインが『人工ノヴァフォーム』を手に入れてから、少し経ったある日のこと。"
+translation = "네제마인이 『인공 노바 폼』을 손에 넣고 나서 조금 지난 어느 날의 일."
+
+[[dialogue]]
+speaker = "unk"
+original = "公安委員会の仕事でバディを組んでいるセナリィも呼び、俺たちは仮想結界内で戦闘訓練を行っていた。"
+translation = "공안위원회의 일로 버디를 짜고 있는 세나리도 불러, 우리들은 가상결계 내에서 전투 훈련을 하고 있었다."
+
+[[dialogue]]
+speaker_original = "ネーゼマイン（覚醒）"
+speaker_translation = "네제마인 (각성)"
+original = "「それじゃあ、行くよ～♪\u3000『シェアハートボンバー』――発射♪」"
+translation = "「그럼, 간다~♪ 『셰어 하트 밤버』── 발사♪」"
+
+[[dialogue]]
+speaker = "unk"
+original = "マインの新たな武器であるバズーカから、能力で生み出された使い魔『爆弾ちゃん』が勢いよく射出される。"
+translation = "네제마인의 새로운 무기인 바주카에서 능력으로 생겨난 사역마 『폭탄짱』이 힘차게 사출된다."
+
+[[dialogue]]
+speaker_original = "セナリィ（覚醒）"
+speaker_translation = "세나리(각성)"
+original = "「その小型戦車のような爆弾……決戦の時にも使ってましたわね」"
+translation = "「그 소형 전차 같은 폭탄…… 결전 때도 사용하셨었죠」"
+
+[[dialogue]]
+speaker_original = "モンスター"
+speaker_translation = "몬스터"
+original = "「ギギ！」"
+translation = "「기기!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "飛来する爆弾ちゃんに対し、モンスターがビーム攻撃を放つ"
+translation = "날아오는 폭탄짱을 향해 몬스터가 빔 공격을 퍼붓는다."
+
+[[dialogue]]
+speaker = "unk"
+original = "直撃して、爆弾ちゃんは破壊された――かのように見えたが。"
+translation = "직격하여 폭탄짱은 파괴된── 것처럼 보였으나."
+
+[[dialogue]]
+speaker_original = "ネーゼマイン（覚醒）"
+speaker_translation = "네제마인 (각성)"
+original = "「にひひ♪\u3000その爆弾ちゃんは、簡単には止まらないよ～？」"
+translation = "「니히히♪ 그 폭탄짱은 쉽게 멈추지 않는다구~?」"
+
+[[dialogue]]
+speaker_original = "モンスター"
+speaker_translation = "몬스터"
+original = "「ギッ……！？」"
+translation = "「깃……!?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ほとんど無傷のまま、爆弾ちゃんは再びモンスターに接近を開始する。"
+translation = "거의 무상태로 폭탄짱은 다시 몬스터에게 접근을 개시한다."
+
+[[dialogue]]
+speaker = "unk"
+original = "その後も、何度も爆弾ちゃんはビームをくらいまくるが、決して破壊されることなく――"
+translation = "그 후로도 몇 번이나 폭탄짱은 빔을 계속 얻어맞지만, 결코 파괴되지 않고──"
+
+[[dialogue]]
+speaker_original = "爆弾ちゃん"
+speaker_translation = "폭탄짱"
+original = "『にひひっ♪\u3000こっちを見て～♪』"
+translation = "『니히힛♪ 여기를 봐~♪』"
+
+[[dialogue]]
+speaker_original = "ネーゼマイン（覚醒）"
+speaker_translation = "네제마인 (각성)"
+original = "「――<ruby>Ｂｏｍｂ<rt>ボンッ</rt></ruby>♪」"
+translation = "「──<ruby>Bomb<rt>콰앙</rt></ruby>♪」"
+
+[[dialogue]]
+speaker_original = "モンスター"
+speaker_translation = "몬스터"
+original = "「ギーーッ！？」"
+translation = "「기이잇!?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "モンスターの至近距離まで来ると、クレーターができる程の大爆発を起こして、モンスターを跡形もなく吹き飛ばしてみせた。"
+translation = "몬스터의 지근거리까지 오자, 크레이터가 생길 정도의 대폭발을 일으켜 몬스터를 형체도 없이 날려버렸다."
+
+[[dialogue]]
+speaker_original = "爆弾ちゃん"
+speaker_translation = "폭탄짱"
+original = "『ターゲット、撃破完了～♪』"
+translation = "『타깃, 격파 완료~♪』"
+
+[[dialogue]]
+speaker = "unk"
+original = "だが――爆発したはずの爆弾ちゃんは、何事もなかったかのようにその場に健在であった。"
+translation = "하지만── 폭발했을 터인 폭탄짱은 아무 일도 없었다는 듯이 그 자리에 건재했다."
+
+[[dialogue]]
+speaker_original = "ネーゼマイン（覚醒）"
+speaker_translation = "네제마인 (각성)"
+original = "「うん、耐久性も火力も、いい感じだね♪」"
+translation = "「응, 내구력도 화력도 느낌 좋은걸♪」"
+
+[[dialogue]]
+speaker_original = "セナリィ（覚醒）"
+speaker_translation = "세나리(각성)"
+original = "「あ、あれだけ攻撃を受けてもビクともしないどころか……爆発しても継続して戦闘可能なんて、えげつねぇ爆弾ですわ……！」"
+translation = "「아, 저 정도 공격을 받고도 끄떡없기는커녕…… 폭발해도 지속해서 전투가 가능하다니, 지독한 폭탄이네요……!」"
+
+[[dialogue]]
+speaker_original = "ネーゼマイン（覚醒）"
+speaker_translation = "네제마인 (각성)"
+original = "「まあ高性能な分、現状１体しか出せないっていう欠点はあるけどね～」"
+translation = "「뭐 고성능인 만큼, 현시점에서는 1체밖에 낼 수 없다는 결점은 있지만 말야~」"
+
+[[dialogue]]
+speaker_original = "セナリィ（覚醒）"
+speaker_translation = "세나리(각성)"
+original = "「いや、十分過ぎますわ！\u3000こんな爆弾が複数出せたら、むしろ怖すぎますわよ！」"
+translation = "「아니, 충분하고도 남습니다! 이런 폭탄이 여러 개 나온다면 오히려 너무 무섭다구요!」"
+
+[[dialogue]]
+speaker_original = "ネーゼマイン（覚醒）"
+speaker_translation = "네제마인 (각성)"
+original = "「それにしても、人工戦闘服とはいえ、まさか私がノヴァフォームになれるとはね～」"
+translation = "「그나저나 인공 전투복이라고는 해도, 설마 내가 노바 폼이 될 수 있을 줄이야~」"
+
+[[dialogue]]
+speaker_original = "ネーゼマイン（覚醒）"
+speaker_translation = "네제마인 (각성)"
+original = "「星騎士の才能が足りないって諦めてたけど……これも、セナリィがエンプレスフォームでデータを集めてくれたおかげかな？」"
+translation = "「성기사의 재능이 부족하다고 포기했었지만…… 이것도 세나리가 엠프레스 폼으로 데이터를 모아준 덕분일까?」"
+
+[[dialogue]]
+speaker_original = "セナリィ（覚醒）"
+speaker_translation = "세나리(각성)"
+original = "「役に立ったなら、筋肉痛になり続けた甲斐がありますわ」"
+translation = "「도움이 되었다면 계속 근육통에 시달린 보람이 있네요」"
+
+[[dialogue]]
+speaker_original = "セナリィ（覚醒）"
+speaker_translation = "세나리(각성)"
+original = "「マイン、ずっと他の方のノヴァフォームを見て、羨ましがってましたものね？\u3000ふふっ♪」"
+translation = "「마인, 계속 다른 분들의 노바 폼을 보며 부러워했었으니까요? 후훗♪」"
+
+[[dialogue]]
+speaker = "unk"
+original = "え？\u3000そうだったの？"
+translation = "에? 그랬었어?"
+
+[[dialogue]]
+speaker_original = "ネーゼマイン（覚醒）"
+speaker_translation = "네제마인 (각성)"
+original = "「ちょっ……セナリィ、なに言ってんの！」"
+translation = "「잠깐…… 세나리, 무슨 소릴 하는 거야!」"
+
+[[dialogue]]
+speaker_original = "セナリィ（覚醒）"
+speaker_translation = "세나리(각성)"
+original = "「マインはポーカーフェイスが得意ですけれど――会長様の前だと、わかりやすいですわよ？」"
+translation = "「마인은 포커페이스가 특기입니다만── 회장님 앞에서는 알기 쉽다구요?」"
+
+[[dialogue]]
+speaker_original = "セナリィ（覚醒）"
+speaker_translation = "세나리(각성)"
+original = "「会長様が他の女性と仲良く話していると、しっかり目で追ってますし……嫉妬の気配が漏れてますもの♪」"
+translation = "「회장님이 다른 여성과 즐겁게 대화하고 있으면, 시선이 확실히 쫓아가고 있고…… 질투의 기색이 새어 나오고 있거든요♪」"
+
+[[dialogue]]
+speaker_original = "ネーゼマイン（覚醒）"
+speaker_translation = "네제마인 (각성)"
+original = "「セナリィ～？」"
+translation = "「세나리~?」"
+
+[[dialogue]]
+speaker_original = "セナリィ（覚醒）"
+speaker_translation = "세나리(각성)"
+original = "「おっと、危ないですわ」"
+translation = "「어이쿠, 위험하네요」"
+
+[[dialogue]]
+speaker = "unk"
+original = "マインが笑顔を浮かべながら、セナリィの影から爆弾ちゃんを出現させるが、ひょいっと回避される。"
+translation = "네제마인이 미소를 지으며 세나리의 그림자에서 폭탄짱을 출현시키지만, 가볍게 회피당한다."
+
+[[dialogue]]
+speaker_original = "セナリィ（覚醒）"
+speaker_translation = "세나리(각성)"
+original = "「ふふっ、他人の影からも爆弾を召喚できるようになったのは強力ですけれど――私には気配でわかりますわよ」"
+translation = "「후훗, 타인의 그림자에서도 폭탄을 소환할 수 있게 된 건 강력합니다만── 저에게는 기척으로 다 느껴진다구요」"
+
+[[dialogue]]
+speaker_original = "ネーゼマイン（覚醒）"
+speaker_translation = "네제마인 (각성)"
+original = "「セナリィはほんと、こういう不意打ちも、普通に避けるんだからな～」"
+translation = "「세나리는 정말 이런 기습도 평범하게 피한다니까~」"
+
+[[dialogue]]
+speaker_original = "ネーゼマイン（覚醒）"
+speaker_translation = "네제마인 (각성)"
+original = "「でも……これならどうかな？\u3000シェアハートボンバー♪」"
+translation = "「하지만…… 이건 어떨까? 셰어 하트 밤버♪」"
+
+[[dialogue]]
+speaker_original = "爆弾ちゃん"
+speaker_translation = "폭탄짱"
+original = "『ターゲット、ロックオン♪』"
+translation = "『타깃, 록온♪』"
+
+[[dialogue]]
+speaker_original = "セナリィ（覚醒）"
+speaker_translation = "세나리(각성)"
+original = "「げっ！？\u3000戦車型の標的がこっちに……！？」"
+translation = "「게겍!? 전차형 표적이 이쪽으로……!?」"
+
+[[dialogue]]
+speaker_original = "ネーゼマイン（覚醒）"
+speaker_translation = "네제마인 (각성)"
+original = "「せっかくだし、セナリィに正面突破できるかどうか、試してみるのも面白そうだよね～？」"
+translation = "「기왕 이렇게 된 거, 세나리가 정면 돌파할 수 있을지 시험해 보는 것도 재밌을 것 같지 않아~?」"
+
+[[dialogue]]
+speaker_original = "爆弾ちゃん"
+speaker_translation = "폭탄짱"
+original = "『は～い、こっちを見て～♪』"
+translation = "『네~에, 여기를 봐~♪』"
+
+[[dialogue]]
+speaker_original = "セナリィ（覚醒）"
+speaker_translation = "세나리(각성)"
+original = "「見ませんわよ！\u3000ミサイルストーム！」"
+translation = "「안 본다구요! 미사일 스톰!」"
+
+[[dialogue]]
+speaker_original = "爆弾ちゃん"
+speaker_translation = "폭탄짱"
+original = "『にひひっ♪\u3000ざんね～ん♪』"
+translation = "『니히힛♪ 아쉽네~♪』"
+
+[[dialogue]]
+speaker_original = "セナリィ（覚醒）"
+speaker_translation = "세나리(각성)"
+original = "「エンプレスフォームの火力でも、装甲が少し欠けただけ！？\u3000ちょっ……こっちに来るんじゃねぇですわぁ～～っ！」"
+translation = "「엠프레스 폼의 화력으로도 장갑이 조금 깎였을 뿐!? 잠깐…… 이쪽으로 오지 말란 말입니다아아~~앗!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "セナリィは引き撃ちをしながら、全力で逃走を開始する。"
+translation = "세나리는 뒤로 사격하며 전력으로 도주를 시작한다."
+
+[[dialogue]]
+speaker_original = "ネーゼマイン（覚醒）"
+speaker_translation = "네제마인 (각성)"
+original = "「ふん、しばらく解除してあげないもんね～だ」"
+translation = "「흥, 한동안 해제 안 해줄 거라구」"
+
+[[dialogue]]
+speaker = "unk"
+original = "マイン、ところでさっきの話って……"
+translation = "마인, 그런데 아까 그 이야기는……"
+
+[[dialogue]]
+speaker_original = "ネーゼマイン（覚醒）"
+speaker_translation = "네제마인 (각성)"
+original = "「え？\u3000さっきのって――わ、私がノヴァフォームを羨ましがってたって話……？」"
+translation = "「에? 아까 그거── 내, 내가 노바 폼을 부러워했다는 이야기……?」"
+
+[[dialogue]]
+speaker_original = "ネーゼマイン（覚醒）"
+speaker_translation = "네제마인 (각성)"
+original = "「それはまあ……付き合ってるんだし、他の子との『絆の力』って言われたら……多少は、ね」"
+translation = "「그건 뭐…… 사귀고 있는 사이니까, 다른 애와의 『유대감의 힘』이라는 소릴 들으면…… 조금은, 말야」"
+
+[[dialogue]]
+speaker = "unk"
+original = "俺とマインの絆が最強だって証明しないとな"
+translation = "나와 마인의 유대감이 최강이라는 걸 증명해야겠네."
+
+[[dialogue]]
+speaker = "unk"
+original = "じゃあ、これから――"
+translation = "그럼 이제부터──"
+
+[[dialogue]]
+speaker_original = "ネーゼマイン（覚醒）"
+speaker_translation = "네제마인 (각성)"
+original = "「最強って……そこまでは別に……」"
+translation = "「최강이라니…… 그 정도까지는 딱히……」"
+
+[[dialogue]]
+speaker = "unk"
+original = "俺はこれまで、多くの星騎士が新たな力を得て、その先の可能性へと踏み出していく姿を見てきた。"
+translation = "나는 지금까지 수많은 성기사가 새로운 힘을 얻고, 그 너머의 가능성으로 발을 내딛는 모습을 보아왔다."
+
+[[dialogue]]
+speaker = "unk"
+original = "だからこそ――マインもまた、今回の人工ノヴァフォームをきっかけに、自身の更なる可能性を広げていくと信じている。"
+translation = "그렇기에── 네제마인 또한 이번 인공 노바 폼을 계기로 자신의 더 큰 가능성을 넓혀갈 것이라 믿고 있다."
+
+[[dialogue]]
+speaker_original = "ネーゼマイン（覚醒）"
+speaker_translation = "네제마인 (각성)"
+original = "「――私は交渉人としての才能があるから、そのうち守護星と交渉して、もっとすごい力を引き出せるようになるかもって……？」"
+translation = "「──나는 교섭인으로서의 재능이 있으니까, 조만간 수호성과 교섭해서 더 굉장한 힘을 끌어낼 수 있게 될지도 모른다고……?」"
+
+[[dialogue]]
+speaker_original = "ネーゼマイン（覚醒）"
+speaker_translation = "네제마인 (각성)"
+original = "「ぷっ……きゃはははっ♪\u3000会長は相変わらず、面白いこと言うね～」"
+translation = "「풋…… 캬하하하♪ 회장은 여전히 재밌는 소릴 하네~」"
+
+[[dialogue]]
+speaker_original = "ネーゼマイン（覚醒）"
+speaker_translation = "네제마인 (각성)"
+original = "「でも、その邪道な感じ……確かに私らしいかも♪」"
+translation = "「하지만 그 사도 같은 느낌…… 확실히 나다울지도♪」"
+
+[[dialogue]]
+speaker_original = "ネーゼマイン（覚醒）"
+speaker_translation = "네제마인 (각성)"
+original = "「……ねぇ、会長――」"
+translation = "「……있지, 회장──」"
+
+[[dialogue]]
+speaker_original = "ネーゼマイン（覚醒）"
+speaker_translation = "네제마인 (각성)"
+original = "「ありがとね♪\u3000ちゅっ……<emoji=heart04>」"
+translation = "「고마워♪ 쪽……<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "unk"
+original = "不意に、マインからキスをされる。"
+translation = "갑자기 네제마인이 키스를 해온다."
+
+[[dialogue]]
+speaker_original = "ネーゼマイン（覚醒）"
+speaker_translation = "네제마인 (각성)"
+original = "「――このあと、絆の力を深める為の訓練、付き合ってくれる？」"
+translation = "「──이따가, 유대감의 힘을 깊게 만들기 위한 훈련, 같이 해줄래?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ああ、もちろんだ"
+translation = "아아, 물론이지."
+
+[[dialogue]]
+speaker_original = "ネーゼマイン（覚醒）"
+speaker_translation = "네제마인 (각성)"
+original = "「にひひ<emoji=heart04>\u3000じゃあ、２人きりになれる場所で……ね♪」"
+translation = "「니히히<emoji=heart04> 그럼 둘만 있을 수 있는 장소에서…… 말야♪」"
+
+[[dialogue]]
+speaker = "unk"
+original = "俺は頷き、マインと指を絡め――恋人繋ぎにするのだった。"
+translation = "나는 고개를 끄덕이며 네제마인과 손가락을 얽어── 연인 잡기를 했다."
+
+[[dialogue]]
+speaker = "unk"
+original = "一方、その頃。"
+translation = "한편, 그 무렵."
+
+[[dialogue]]
+speaker_original = "セナリィ（覚醒）"
+speaker_translation = "세나리(각성)"
+original = "「ぜーっ、ぜーっ……！\u3000この戦車爆弾、いつ止まってくれますの！？」"
+translation = "「허억, 허억……! 이 전차 폭탄, 언제 멈춰주는 겁니까!?」"
+
+[[dialogue]]
+speaker_original = "セナリィ（覚醒）"
+speaker_translation = "세나리(각성)"
+original = "「マイン！？\u3000まさか解除忘れてるんじゃありませんわよね！？\u3000マイン～！？」"
+translation = "「마인!? 설마 해제하는 거 잊고 있는 건 아니겠죠!? 마인~~!?」"
+
+[[dialogue]]
+speaker_original = "爆弾ちゃん"
+speaker_translation = "폭탄짱"
+original = "『こっちを見て～♪』"
+translation = "『여기를 봐~♪』"
+
+[[dialogue]]
+speaker_original = "セナリィ（覚醒）"
+speaker_translation = "세나리(각성)"
+original = "「ちょっ、近ぇですわ！\u3000ぎゃあぁ～～っ！？」"
+translation = "「잠깐, 너무 가깝단 말입니다! 갸아아아~~앗!?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "マインが会長とイチャイチャしている間、爆弾ちゃんと追いかけっこをし続ける羽目になるセナリィなのであった。"
+translation = "네제마인이 회장과 꽁냥거리는 동안, 폭탄짱과 쫓고 쫓기기를 계속하게 된 세나리였다."
+

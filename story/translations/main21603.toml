@@ -1,0 +1,376 @@
+[[dialogue]]
+speaker = "unk"
+original = "第３話,抹殺の剣,B"
+translation = "제3화, 말살의 검, B"
+
+[[dialogue]]
+speaker_original = "フィオナ（魔王）"
+speaker_translation = "피오나(마왕)"
+original = "「平行世界デネブの……セイファート学園長！」"
+translation = "「평행세계 데네브의…… 세이파트 학원장님!」"
+
+[[dialogue]]
+speaker_original = "ヴィーナス（覚醒）"
+speaker_translation = "비너스(각성)"
+original = "「ママが言ってた頼もしい増援って、学園長のことだったのね！」"
+translation = "「엄마가 말했던 든든한 증원이 학원장님이었구나!」"
+
+[[dialogue]]
+speaker_original = "セイファート"
+speaker_translation = "세이파트"
+original = "「──懐かしい顔ぶれだな。本当に、１０年前の流星市国に戻ってきたようだ……」"
+translation = "「──그리운 얼굴들이로군. 정말로, 10년 전의 유성시국으로 돌아온 것 같다……」"
+
+[[dialogue]]
+speaker_original = "クロト"
+speaker_translation = "쿠로토"
+original = "「まさかあなたが来てくれるだなんて、思っていませんでした……もう、会えないとばかり……！」"
+translation = "「설마 당신이 와줄 줄이야, 생각지도 못했습니다…… 이제, 만날 수 없다고만……!」"
+
+[[dialogue]]
+speaker_original = "梨緒"
+speaker_translation = "리오"
+original = "「魔王、無事か！？」"
+translation = "「마왕, 무사해!?」"
+
+[[dialogue]]
+speaker_original = "クロト"
+speaker_translation = "쿠로토"
+original = "「梨緒、ジグ……！\u3000守護天使たちの解放は終わったんだな！」"
+translation = "「리오, 지그……! 수호천사들의 해방은 끝난 거군!」"
+
+[[dialogue]]
+speaker_original = "梨緒"
+speaker_translation = "리오"
+original = "「ああ。そちらは問題ない。<ruby>第零層<rt>だいれいそう</rt></ruby>でホロウたちに手こずっていたところに、学園長が駆けつけてくれてな」"
+translation = "「어아. 그쪽은 문제없어. 제0층에서 홀로우들에게 애를 먹고 있던 차에, 학원장님이 달려와 주셔서 말이야」"
+
+[[dialogue]]
+speaker_original = "ジグ"
+speaker_translation = "지그"
+original = "「意外な再会だったね。まさか学園長に助けてもらうとは思わなかったよ」"
+translation = "「의외의 재회였네. 설마 학원장님께 도움을 받을 줄은 몰랐어」"
+
+[[dialogue]]
+speaker_original = "クロト"
+speaker_translation = "쿠로토"
+original = "「２人とも『学園長』って……そうか。ベガでも、セイファート『学園長』だったんだな……」"
+translation = "「둘 다 『학원장』이라고…… 그렇군. 베가에서도 세이파트 『학원장』이었구나……」"
+
+[[dialogue]]
+speaker_original = "梨緒"
+speaker_translation = "리오"
+original = "「かつて死に別れた人との再会は、何度味わっても不思議なものだが……」"
+translation = "「과거에 죽음으로 이별했던 사람과의 재회는, 몇 번을 겪어도 불가사의한 것이지만……」"
+
+[[dialogue]]
+speaker_original = "ジグ"
+speaker_translation = "지그"
+original = "「ああ。まだ取り返しがつく──そう思うだけでも、気を強く持てるというものさ」"
+translation = "「그래. 아직 되돌릴 수 있다── 그렇게 생각하는 것만으로도, 마음을 강하게 먹을 수 있으니까」"
+
+[[dialogue]]
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
+original = "「おじさん……間違いない！\u3000おじさん、ですよね！？」"
+translation = "「아저씨…… 틀림없어! 아저씨, 맞죠!?」"
+
+[[dialogue]]
+speaker_original = "セイファート"
+speaker_translation = "세이파트"
+original = "「──む？\u3000君は……」"
+translation = "「──음? 자네는……」"
+
+[[dialogue]]
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
+original = "「わ、私です！\u3000１０年前に、魔界で助けてもらった……！」"
+translation = "「저, 저예요! 10년 전에, 마계에서 도움을 받았던……!」"
+
+[[dialogue]]
+speaker_original = "セイファート"
+speaker_translation = "세이파트"
+original = "「……あの吸血鬼の少女か。この場に居合わすほどの星騎士に成長していたとは──立派になったな」"
+translation = "「……그 흡혈귀 소녀인가. 이 자리에 함께할 정도의 성기사로 성장해 있었을 줄이야── 훌륭하게 자랐구나」"
+
+[[dialogue]]
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
+original = "「は、はいっ……！\u3000私、おじさんとの約束を果たし続けて、ここまで来ました……！」"
+translation = "「네, 넷……! 저, 아저씨와의 약속을 계속 지키면서 여기까지 왔어요……!」"
+
+[[dialogue]]
+speaker_original = "セイファート"
+speaker_translation = "세이파트"
+original = "「いい面構えだ。だが傷も深いだろう……しばし、休んでいるがいい」"
+translation = "「좋은 눈빛이다. 하지만 상처도 깊겠지…… 잠시, 쉬도록 해라」"
+
+[[dialogue]]
+speaker_original = "ラクシャ"
+speaker_translation = "락샤"
+original = "「うーわ。いくら恩師との再会だからって、なっさけない顔しちゃって。ボクがこんなに近づいても気づかないし」"
+translation = "「우와─. 아무리 은사님과의 재회라지만, 한심한 표정을 짓고 있긴. 내가 이렇게 다가와도 눈치 못 채고」"
+
+[[dialogue]]
+speaker_original = "クロト"
+speaker_translation = "쿠로토"
+original = "「環……！？\u3000いや、そんな情けない顔なんて」"
+translation = "「타마키……!? 아니, 그런 한심한 표정 같은 건」"
+
+[[dialogue]]
+speaker_original = "ラクシャ"
+speaker_translation = "락샤"
+original = "「してた。すっごいしてた。ていうか、ひどいよね？\u3000迎えに行くって約束してくれたのにさー？」"
+translation = "「지었어. 엄청 지었다고. 그보다 너무하잖아? 데리러 오겠다고 약속했으면서 말이야─?」"
+
+[[dialogue]]
+speaker_original = "ラクシャ"
+speaker_translation = "락샤"
+original = "「封印から解放されて目を開けたら、キミじゃなくムサいおじさんが立ってた時のボクの気持ちを答えよ──って感じなんだけど？」"
+translation = "「봉인에서 해방돼서 눈을 떴더니, 네가 아니라 칙칙한 아저씨가 서 있었을 때의 내 기분을 답해라──라는 느낌인데?」"
+
+[[dialogue]]
+speaker_original = "クロト"
+speaker_translation = "쿠로토"
+original = "「すまない環……この埋め合わせは絶対にするから」"
+translation = "「미안해 타마키…… 이 보상은 반드시 할 테니까」"
+
+[[dialogue]]
+speaker_original = "ラクシャ"
+speaker_translation = "락샤"
+original = "「ま、嫌味はこのくらいにしとこっか。ここまで頑張ったキミたちに、守護天使の癒しの力を贈るよ！」"
+translation = "「뭐, 빈정거리는 건 이쯤 해둘까. 지금까지 노력한 너희에게, 수호천사의 치유의 힘을 주겠어!」"
+
+[[dialogue]]
+speaker_original = "クロト"
+speaker_translation = "쿠로토"
+original = "「守護天使ラクシャに、こんな力はないはずじゃ……？」"
+translation = "「수호천사 락샤에게, 이런 힘은 없었을 텐데……?」"
+
+[[dialogue]]
+speaker_original = "ラクシャ"
+speaker_translation = "락샤"
+original = "「デネブの守護天使たちは今、みーんな世界の摂理を維持するために休眠中だよ。元々弱らされて、封印されたわけだしね」"
+translation = "「데네브의 수호천사들은 지금, 저─언부 세계의 섭리를 유지하기 위해서 휴면 중이야. 원래 약해진 상태에서 봉인된 거기도 하고」"
+
+[[dialogue]]
+speaker_original = "ラクシャ"
+speaker_translation = "락샤"
+original = "「今から体を創るより、権能だけをボクに預けた方が効率がいいって判断。これはマグダレナから借りた力さ」"
+translation = "「지금부터 몸을 만드는 것보다, 권능만 나한테 맡기는 게 효율적이라는 판단. 이건 막달레나한테 빌린 힘이야」"
+
+[[dialogue]]
+speaker_original = "ラクシャ"
+speaker_translation = "락샤"
+original = "「ふふっ。最終決戦にふさわしいスーパーモードでしょ？」"
+translation = "「후훗. 최종결전다운 슈퍼 모드지?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "俺と環の会話の傍ら、セイファート学園長がＤＩＳＣを取り出して通信を行っていた。"
+translation = "나와 타마키의 대화 곁에서, 세이파트 학원장님이 DISC를 꺼내 통신을 하고 있었다."
+
+[[dialogue]]
+speaker_original = "セイファート"
+speaker_translation = "세이파트"
+original = "「──マルキア、アニュラス。配置についたか？」"
+translation = "「──마르키아, 아뉴라스. 배치에 붙었나?」"
+
+[[dialogue]]
+speaker_original = "マルキア"
+speaker_translation = "마르키아"
+original = "『ええ──あなた』"
+translation = "『네── 당신』"
+
+[[dialogue]]
+speaker_original = "アニュラス"
+speaker_translation = "아뉴라스"
+original = "『問題ありません、お父様！！』"
+translation = "『문제없습니다, 아버님!!』"
+
+[[dialogue]]
+speaker_original = "セイファート"
+speaker_translation = "세이파트"
+original = "「よし──私は創造神の相手をする。１０年前の雪辱を晴らすぞ。デネブ各地にはびこる複製体を蹂躙しろ！！」"
+translation = "「좋다── 나는 창조신을 상대하겠다. 10년 전의 설욕을 씻자. 데네브 각지에 만연한 복제체들을 유린해라!!」"
+
+[[dialogue]]
+speaker_original = "アニュラス"
+speaker_translation = "아뉴라스"
+original = "『承知いたしました！！』"
+translation = "『알겠습니다!!』"
+
+[[dialogue]]
+speaker_original = "チナ"
+speaker_translation = "치나"
+original = "「マジかよ……英雄ジェラルドも、戦姫マルキアも、生きてただなんて！！」"
+translation = "「진짜냐고…… 영웅 제랄드도, 전희 마르키아도 살아 있었다니!!」"
+
+[[dialogue]]
+speaker_original = "グレイス"
+speaker_translation = "그레이스"
+original = "「私たちも膝を折っている場合じゃありませんね！\u3000何としても、ここから巻き返さねばっ！」"
+translation = "「우리도 무릎 꿇고 있을 때가 아니군요! 어떻게 해서든, 여기서 되받아쳐야겠어요!」"
+
+[[dialogue]]
+speaker_original = "レティシア"
+speaker_translation = "레티시아"
+original = "「顔を見るのは初めてだけれど……チナたちが信頼を置く相手なら、背中を預けられそうね」"
+translation = "「얼굴을 보는 건 처음이지만…… 치나들이 신뢰하는 상대라면, 등을 맡길 수 있겠네」"
+
+[[dialogue]]
+speaker_original = "ホロウ・ルヴィネ"
+speaker_translation = "할로우・루비네"
+original = "「本当に……愚かな者たち。ピークをとうに過ぎた老体の星騎士が来たくらいで、盛り返せると本気で信じているだなんて」"
+translation = "「정말로…… 어리석은 자들. 전성기를 한참 지난 노체의 성기사가 온 정도로 전황을 뒤집을 수 있다고 진심으로 믿고 있다니」"
+
+[[dialogue]]
+speaker_original = "ホロウ・ルヴィネ"
+speaker_translation = "할로우・루비네"
+original = "「お父様を堕落させる剣……あの出来損ないが、命を賭してまで創り出したものがそれ？」"
+translation = "「아버님을 타락시키는 검…… 그 실패작이 목숨을 걸고서까지 만들어낸 것이 그거?」"
+
+[[dialogue]]
+speaker_original = "ホロウ・ルヴィネ"
+speaker_translation = "할로우・루비네"
+original = "「お笑いだわ。そんなもの、届くわけがないでしょう」"
+translation = "「우습네. 그런 것, 닿을 리가 없잖아」"
+
+[[dialogue]]
+speaker_original = "ホロウ・ルヴィネ"
+speaker_translation = "할로우・루비네"
+original = "「教えてあげるわ。どうしようもない実力の差というもの──」"
+translation = "「가르쳐 줄게. 어찌할 수 없는 실력의 차이라는 것을──」"
+
+[[dialogue]]
+speaker_original = "ホロウ・ルヴィネL"
+speaker_translation = "할로우 루비네 L"
+original = "「────をっ！？」"
+translation = "「────를!?」"
+
+[[dialogue]]
+speaker_original = "セイファート"
+speaker_translation = "세이파트"
+original = "「──遅い」"
+translation = "「──느리다」"
+
+[[dialogue]]
+speaker_original = "ＸＥＬＯＳ"
+speaker_translation = "제로스"
+original = "「────────！？！？」"
+translation = "「────────!??」"
+
+[[dialogue]]
+speaker_original = "クロト"
+speaker_translation = "쿠로토"
+original = "「──なっ！？」"
+translation = "「──앗!?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ホロウが瞬く間に両断され、遠く離れていた『<ruby>ＸＥＬＯＳ<rt>ゼロス</rt></ruby>』にも、セイファート学園長が一太刀を浴びせていた──"
+translation = "홀로우가 순식간에 양단되고, 멀리 떨어져 있던 『<ruby>XELOS<rt>제로스</rt></ruby>』에게도 세이파트 학원장님이 일격을 가하고 있었다──"
+
+[[dialogue]]
+speaker_original = "セイファート"
+speaker_translation = "세이파트"
+original = "「まず１次元、楔を打ち込ませてもらった。あと７度、斬りつければそこまでだ」"
+translation = "「우선 1차원, 쐐기를 박아 넣었다. 앞으로 7번 더 베면 거기까지다」"
+
+[[dialogue]]
+speaker_original = "ホロウ・ルヴィネ"
+speaker_translation = "할로우・루비네"
+original = "「いくらテルルの霊力補助を受けているとはいえ……そんな、馬鹿な……！？」"
+translation = "「아무리 테를르의 영력 보조를 받고 있다곤 해도…… 그런, 말도 안 되는……!?」"
+
+[[dialogue]]
+speaker_original = "セイファート"
+speaker_translation = "세이파트"
+original = "「私もこの１０年……遊んでいたわけではない」"
+translation = "「나도 이 10년…… 놀고만 있었던 건 아니다」"
+
+[[dialogue]]
+speaker_original = "セイファート"
+speaker_translation = "세이파트"
+original = "「──少年、呼吸を整えろ。復帰できるようになったら、援護を頼みたい。老体に鞭を打っているのだ。長くはもたない」"
+translation = "「──소년, 호흡을 가다듬어라. 복귀할 수 있게 되면, 원호를 부탁하고 싶군. 노구에 채찍질을 하고 있는 거다. 오래 버티지는 못해」"
+
+[[dialogue]]
+speaker_original = "ＸＥＬＯＳ"
+speaker_translation = "제로스"
+original = "「──────ッ！！」"
+translation = "「──────윽!!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "『<ruby>ＸＥＬＯＳ<rt>ゼロス</rt></ruby>』の放つ光弾がセイファート学園長に殺到するが、彼は怯むことなく距離を詰める。"
+translation = "『<ruby>XELOS<rt>제로스</rt></ruby>』가 쏘아내는 광탄이 세이파트 학원장에게 쇄도하지만, 그는 굴하지 않고 거리를 좁힌다."
+
+[[dialogue]]
+speaker_original = "セイファート"
+speaker_translation = "세이파트"
+original = "「──無駄だッ！！！」"
+translation = "「──무의미하다!!!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "高次元存在に触れられる剣によって、その光弾が全て弾き落とされ──"
+translation = "고차원 존재에게 닿을 수 있는 검에 의해, 그 광탄이 전부 튕겨 나가고──"
+
+[[dialogue]]
+speaker_original = "ＸＥＬＯＳ"
+speaker_translation = "제로스"
+original = "「────ギ、ギ────！！」"
+translation = "「────기, 기────!!」"
+
+[[dialogue]]
+speaker_original = "セイファート"
+speaker_translation = "세이파트"
+original = "「２つ目の楔だ。このまま我々の次元まで降りてきてもらおう──悪神よ！」"
+translation = "「두 번째 쐐기다. 이대로 우리의 차원까지 내려와 주실까── 악신이여!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "『<ruby>ＸＥＬＯＳ<rt>ゼロス</rt></ruby>』とホロウ・ルヴィネ。２つの脅威を、舞うようにいなし、圧倒していく流星の騎士の背中から目が離せない。"
+translation = "『<ruby>XELOS<rt>제로스</rt></ruby>』와 홀로우 루비네. 두 가지 위협을 춤추듯 넘기며 압도해 나가는 유성의 기사의 뒷모습에서 눈을 뗄 수 없다."
+
+[[dialogue]]
+speaker = "unk"
+original = "あなたをずっと見てきた。いつか追い付きたい、追い越したいと思い続けて──その想いは儚く砕けて消えたはずだった……"
+translation = "당신을 계속 봐왔다. 언젠가 따라잡고 싶다, 뛰어넘고 싶다고 계속 생각하며── 그 마음은 허무하게 부서져 사라졌을 터였다……"
+
+[[dialogue]]
+speaker = "unk"
+original = "──でも！"
+translation = "──하지만!"
+
+[[dialogue]]
+speaker_original = "ヴィーナス（覚醒）"
+speaker_translation = "비너스(각성)"
+original = "「──クロト！！」"
+translation = "「──쿠로토!!」"
+
+[[dialogue]]
+speaker_original = "フィオナ（魔王）"
+speaker_translation = "피오나(마왕)"
+original = "「──緋宮会長！！」"
+translation = "「──히노미야 회장님!!」"
+
+[[dialogue]]
+speaker_original = "クロト"
+speaker_translation = "쿠로토"
+original = "「ああ！！\u3000もう、立ち上がれる……行ける！！」"
+translation = "「그래!! 이제, 일어설 수 있어…… 갈 수 있어!!」"
+
+[[dialogue]]
+speaker_original = "クロト"
+speaker_translation = "쿠로토"
+original = "「総員──学園長への、ホロウの接近を許すな！」"
+translation = "「전원── 학원장님에게 홀로우의 접근을 허용하지 마라!」"
+
+[[dialogue]]
+speaker_original = "クロト"
+speaker_translation = "쿠로토"
+original = "「露払いは俺たちの役目……流星の騎士の刃を届ける！\u3000死力を尽くすぞ！！」"
+translation = "「길을 터는 건 우리 역할…… 유성의 기사의 칼날을 닿게 한다! 사력을 다하자!!」"
+
