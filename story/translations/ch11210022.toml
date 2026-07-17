@@ -1,0 +1,354 @@
+[[dialogue]]
+speaker = "unk"
+original = "第２話,大きすぎる枕,P"
+translation = "제2화, 너무 큰 베개"
+
+[[dialogue]]
+speaker = "unk"
+original = "今日はレイラと買い物だ。探しているものがあるそうで、相談に乗ってほしいと言われた。"
+translation = "오늘은 레이라와 쇼핑이다. 찾고 있는 게 있다고 해서 상담을 해달라고 부탁받았다."
+
+[[dialogue]]
+speaker_original = "レイラ"
+speaker_translation = "레이라"
+original = "「お待たせしました、魔王さん」"
+translation = "「기다리게 해서 죄송해요, 마왕님」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ううん、俺も今来たところ"
+translation = "으응, 나도 방금 왔어"
+
+[[dialogue]]
+speaker_original = "レイラ"
+speaker_translation = "레이라"
+original = "「前にもこんなことありましたね。デートみたい……いえ、今日は本当にデートなんですよね」"
+translation = "「전에도 이런 적 있었죠. 데이트 같아…… 아니, 오늘은 정말로 데이트인 거네요」"
+
+[[dialogue]]
+speaker_original = "レイラ"
+speaker_translation = "레이라"
+original = "「エスコート、お願いしますね」"
+translation = "「에스코트, 부탁드릴게요」"
+
+[[dialogue]]
+speaker = "unk"
+original = "レイラが差し出した手を握る。温かい、恋人の手だ。"
+translation = "레이라가 내민 손을 잡는다. 따뜻한 연인의 손이다."
+
+[[dialogue]]
+speaker_original = "レイラ"
+speaker_translation = "레이라"
+original = "「今日はですね、ぜひ魔王さんに一緒に選んでほしいものがあるんです」"
+translation = "「오늘은 말이죠, 꼭 마왕님이 같이 골라주셨으면 하는 게 있어요」"
+
+[[dialogue]]
+speaker_original = "レイラ"
+speaker_translation = "레이라"
+original = "「それはずばり──枕です」"
+translation = "「그건 바로── 베개예요」"
+
+[[dialogue]]
+speaker = "unk"
+original = "……え、枕？"
+translation = "……어, 베개?"
+
+[[dialogue]]
+speaker_original = "レイラ"
+speaker_translation = "레이라"
+original = "「はい。というのもですね、ちょっと前にアドバイスをいただきまして……」"
+translation = "「네. 그게 말이죠, 조금 전에 조언을 받아서……」"
+
+[[dialogue]]
+speaker_original = "レイラ"
+speaker_translation = "레이라"
+original = "「リーリアさん、お疲れ様です」"
+translation = "「리리아 씨, 수고 많으세요」"
+
+[[dialogue]]
+speaker_original = "リーリア"
+speaker_translation = "릴리아"
+original = "「お疲れ様です。レイラ……さん」"
+translation = "「수고 많으세요. 레이라…… 씨」"
+
+[[dialogue]]
+speaker_original = "レイラ"
+speaker_translation = "레이라"
+original = "「レイラで結構ですよ。一応、私の方が年上ですけど、組織ではリーリアさんが先輩ですから」"
+translation = "「레이라라고 부르셔도 돼요. 일단 제가 연상이지만 조직에서는 리리아 씨가 선배니까요」"
+
+[[dialogue]]
+speaker_original = "リーリア"
+speaker_translation = "릴리아"
+original = "「まぁそれはそうなんですけど……今日はどうしました？\u3000私たち、あんまり話したことないですよね？」"
+translation = "「뭐 그렇긴 한데…… 오늘은 무슨 일이죠? 우리 별로 얘기해 본 적 없잖아요?」"
+
+[[dialogue]]
+speaker_original = "レイラ"
+speaker_translation = "레이라"
+original = "「実は以前から、リーリアさんにお聞きしたいことがありまして……肩凝りについてなんですが」"
+translation = "「사실 이전부터 리리아 씨께 여쭤보고 싶은 게 있어서요…… 어깨결림에 대해서인데요」"
+
+[[dialogue]]
+speaker_original = "リーリア"
+speaker_translation = "릴리아"
+original = "「は？\u3000肩凝り？」"
+translation = "「하? 어깨결림?」"
+
+[[dialogue]]
+speaker_original = "ツェツィーリエ"
+speaker_translation = "체칠리에"
+original = "「おやおや？\u3000珍しい組み合わせだね～。何の話？」"
+translation = "「오야오야? 희한한 조합이네~. 무슨 얘기야?」"
+
+[[dialogue]]
+speaker_original = "リーリア"
+speaker_translation = "릴리아"
+original = "「いえ、私にも何がなんだか……肩凝りについてらしいんですが」"
+translation = "「아뇨, 저도 뭐가 뭔지…… 어깨결림에 대해서라는 것 같은데」"
+
+[[dialogue]]
+speaker_original = "レイラ"
+speaker_translation = "레이라"
+original = "「そう、人類の永遠の課題──肩凝りです。私、胸が大きいし、パソコン仕事ばかりなので、肩凝りに悩まされているんです」"
+translation = "「그래요, 인류의 영원한 과제── 어깨결림입니다. 전 가슴이 크고 컴퓨터 작업만 해서 어깨결림에 시달리고 있거든요」"
+
+[[dialogue]]
+speaker_original = "レイラ"
+speaker_translation = "레이라"
+original = "「リーリアさん、スタイル抜群じゃないですか。だから肩凝り対策してるのかなと思ってお声掛けした次第です」"
+translation = "「리리아 씨, 스타일 발군이시잖아요. 그래서 어깨결림 대책을 세우고 계신가 해서 말 걸어 본 참이에요」"
+
+[[dialogue]]
+speaker_original = "リーリア"
+speaker_translation = "릴리아"
+original = "「…………えっと～」"
+translation = "「…………어어어」"
+
+[[dialogue]]
+speaker_original = "ツェツィーリエ"
+speaker_translation = "체칠리에"
+original = "「ぷっ、あはははははは！\u3000そっか、リーリアもおっぱい仲間だと思って声かけたんだー！」"
+translation = "「푸하핫, 아하하하하하하! 그렇구나, 리리아도 가슴 동료라고 생각해서 말을 걸었구나~!」"
+
+[[dialogue]]
+speaker_original = "リーリア"
+speaker_translation = "릴리아"
+original = "「ちょ、笑わなくてもいいじゃないですか！」"
+translation = "「잠깐, 그렇게 웃지 않아도 되잖아요!」"
+
+[[dialogue]]
+speaker_original = "レイラ"
+speaker_translation = "레이라"
+original = "「え？\u3000え？」"
+translation = "「에? 에?」"
+
+[[dialogue]]
+speaker_original = "ツェツィーリエ"
+speaker_translation = "체칠리에"
+original = "「何を隠そう、リーリアは<ruby>偽乳<rt>パッド</rt></ruby>なんだよ！\u3000スパイとして学園に通い出してから急におっぱいおっきくなってさ。種も仕掛けもあったというわけ」"
+translation = "「이거 비밀인데, 리리아는 <ruby>가짜 가슴<rt>패드</rt></ruby>이야! 스파이로서 학원에 다니기 시작하고 나서 갑자기 가슴이 커진 거거든. 속임수가 있었다는 말씀」"
+
+[[dialogue]]
+speaker_original = "リーリア"
+speaker_translation = "릴리아"
+original = "「それは隠してー！？」"
+translation = "「그건 숨겨줘어!?」"
+
+[[dialogue]]
+speaker_original = "レイラ"
+speaker_translation = "레이라"
+original = "「パ、パッド！？\u3000じゃあリーリアさんは自ら重荷を？\u3000修行ですか？\u3000外したら素早く動けたりするんですか！？」"
+translation = "「패, 패드!? 그럼 리리아 씨는 스스로 짐을? 수행인가요? 벗으면 빠르게 움직일 수 있거나 하는 건가요!?」"
+
+[[dialogue]]
+speaker_original = "ツェツィーリエ"
+speaker_translation = "체칠리에"
+original = "「あはははははは！\u3000あーもうおなか痛ーい！」"
+translation = "「아하하하하하하! 아~ 이제 배 아파~!」"
+
+[[dialogue]]
+speaker_original = "リーリア"
+speaker_translation = "릴리아"
+original = "「もうやだこの職場ー！」"
+translation = "「정말 싫어 이 직장~!」"
+
+[[dialogue]]
+speaker_original = "ツェツィーリエ"
+speaker_translation = "체칠리에"
+original = "「でも、レイラにはアタシのでんまちゃんを貸してあるよね？\u3000それでも肩凝り治らないんだ？」"
+translation = "「근데 레이라한테는 내 덴마짱을 빌려줬었지? 그래도 어깨결림 안 나았어?」"
+
+[[dialogue]]
+speaker_original = "レイラ"
+speaker_translation = "레이라"
+original = "「一時的にはよくなるんですけど、すぐまた凝っちゃうんです。特に寝起きなんかは肩も首もバキバキで」"
+translation = "「일시적으로는 좋아지는데 금방 또 뭉쳐버려요. 특히 자고 일어났을 때는 어깨랑 목이 뻐근해서」"
+
+[[dialogue]]
+speaker_original = "ツェツィーリエ"
+speaker_translation = "체칠리에"
+original = "「寝起きかぁ。じゃあ、それは肩凝りっていうより、寝具が合ってないんじゃないかな？」"
+translation = "「자고 일어났을 때인가. 그럼 그건 어깨결림이라기보다 침구가 안 맞는 거 아닐까?」"
+
+[[dialogue]]
+speaker_original = "レイラ"
+speaker_translation = "레이라"
+original = "「寝具……ですか？」"
+translation = "「침구…… 말인가요?」"
+
+[[dialogue]]
+speaker_original = "ツェツィーリエ"
+speaker_translation = "체칠리에"
+original = "「うん、特に枕かな。枕が合ってないと肩にも首にも負担をかけるし、何より疲れもとれないからね」"
+translation = "「응, 특히 베개일까나. 베개가 안 맞으면 어깨랑 목에도 부담을 주고, 무엇보다 피로가 안 풀리거든」"
+
+[[dialogue]]
+speaker_original = "レイラ"
+speaker_translation = "레이라"
+original = "「さすがツェツィーリエさん。勉強になります」"
+translation = "「역시 체칠리에 씨. 공부가 되네요」"
+
+[[dialogue]]
+speaker_original = "リーリア"
+speaker_translation = "릴리아"
+original = "「この話、私必要でした？\u3000必要なかったですよねー！？」"
+translation = "「이 얘기, 나 필요했어요? 필요 없었죠!?」"
+
+[[dialogue]]
+speaker_original = "レイラ"
+speaker_translation = "레이라"
+original = "「というわけなんです。魔王さんはアルバイト経験が豊富ですから、その知見をお貸しください」"
+translation = "「그렇게 된 거예요. 마왕님은 아르바이트 경험이 풍부하시니까 그 지견을 빌려주세요」"
+
+[[dialogue]]
+speaker = "unk"
+original = "それくらいお安い御用だよ"
+translation = "그 정도야 식은 죽 먹기지"
+
+[[dialogue]]
+speaker_original = "レイラ"
+speaker_translation = "레이라"
+original = "「ありがとうございますっ」"
+translation = "「감사합니다아」"
+
+[[dialogue]]
+speaker = "unk"
+original = "俺が以前バイトしていた寝具店で、レイラの枕を見繕う。棚には見本がずらりと並んでいた。"
+translation = "내가 예전에 알바했던 침구점에서 레이라의 베개를 고른다. 선반에는 견본이 가득 진열되어 있었다."
+
+[[dialogue]]
+speaker_original = "レイラ"
+speaker_translation = "레이라"
+original = "「枕だけでもこんなに種類があるんですね……このブロックみたいなのも枕なんですか？\u3000……なるほど、中身を組み替えて高さを調整できるんですね」"
+translation = "「베개만 해도 이렇게 종류가 많군요…… 이 블록 같은 것도 베개인가요? ……과연, 내용을 바꿔서 높이를 조절할 수 있군요」"
+
+[[dialogue]]
+speaker_original = "レイラ"
+speaker_translation = "레이라"
+original = "「こっちはひんやり素材で夏にぴったり、こっちはしっとりふわふわ……う～ん、ギガンドム。永遠に触っていたい感触」"
+translation = "「이쪽은 시원한 소재라 여름에 딱이고, 이쪽은 촉촉하고 푹신푹신…… 으음, 기간돔. 영원히 만지고 싶은 감촉」"
+
+[[dialogue]]
+speaker_original = "レイラ"
+speaker_translation = "레이라"
+original = "「たくさんありすぎて選べませんね。魔王さんのオヌヌメはどちらですか？」"
+translation = "「너무 많아서 못 고르겠네요. 마왕님의 오누누메(추천)는 어느 쪽인가요?」"
+
+[[dialogue]]
+speaker_original = "レイラ"
+speaker_translation = "레이라"
+original = "「え、これは……この枕、大きすぎませんか？\u3000横幅がベッドと同じくらいありますよ」"
+translation = "「에, 이건…… 이 베개, 너무 크지 않나요? 가로폭이 침대랑 거의 비슷해요」"
+
+[[dialogue]]
+speaker_original = "レイラ"
+speaker_translation = "레이라"
+original = "「……いくら寝返りをうっても大丈夫？\u3000しかも低反発で肩や首もしっかり支えてくれる……それは確かに魅力的です。実際に試すこともできるみたいですね」"
+translation = "「……아무리 뒤척여도 괜찮다? 게다가 저반발이라 어깨랑 목도 확실히 지탱해준다…… 그건 확실히 매력적이네요. 실제로 써보는 것도 가능한가 봐요」"
+
+[[dialogue]]
+speaker = "unk"
+original = "レイラがお試し用のベッドに寝転がる。"
+translation = "레이라가 테스트용 침대에 눕는다."
+
+[[dialogue]]
+speaker_original = "レイラ"
+speaker_translation = "레이라"
+original = "「これは……っ！」"
+translation = "「이것은……!」"
+
+[[dialogue]]
+speaker_original = "レイラ"
+speaker_translation = "레이라"
+original = "「頭が軽い……首が重力から解放されていく……なんという、なんという枕でしょう……」"
+translation = "「머리가 가벼워…… 목이 중력에서 해방되어 가요…… 이 무슨, 이 무슨 베개일까요……」"
+
+[[dialogue]]
+speaker_original = "レイラ"
+speaker_translation = "레이라"
+original = "「こんなにすごい枕は体験したことがありません。でも、懐かしい感覚……まるでお母様の腕に抱かれているような……」"
+translation = "「이런 대단한 베개는 체험해 본 적이 없어요. 하지만 그리운 감각…… 마치 어머니의 팔에 안겨 있는 듯한……」"
+
+[[dialogue]]
+speaker_original = "レイラ"
+speaker_translation = "레이라"
+original = "「この枕に比べたら、今使っている枕は……あえて言いましょう、カスであると！」"
+translation = "「이 베개에 비하면 지금 쓰고 있는 베개는…… 감히 말하죠, 쓰레기라고!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "そこまで言わなくても、とも思ったが、それだけこの枕を気に入ったんだろう。"
+translation = "그렇게까지 말하지 않아도, 라고 생각했지만 그만큼 이 베개가 마음에 들었나 보다."
+
+[[dialogue]]
+speaker_original = "レイラ"
+speaker_translation = "레이라"
+original = "「素晴らしい枕です。……でも、お高いんでしょう？」"
+translation = "「훌륭한 베개예요. ……하지만 비싸겠죠?」"
+
+[[dialogue]]
+speaker_original = "レイラ"
+speaker_translation = "레이라"
+original = "「……ふむふむ。それだけあればハンバーガーが５０個買えますね。う～ん、その価値はあると思いますが、非常に悩みます……」"
+translation = "「……흐음흐음. 그만큼 있으면 햄버거를 50개 살 수 있겠네요. 으음, 그럴 가치는 있다고 생각하지만 굉장히 고민되네요……」"
+
+[[dialogue]]
+speaker = "unk"
+original = "プレゼントしようか？"
+translation = "선물해 줄까?"
+
+[[dialogue]]
+speaker_original = "レイラ"
+speaker_translation = "레이라"
+original = "「ダメです。魔王さんは学生なんですから、そういうお金の使い方はいけません。ハンバーガーを奢るのとは額が違います」"
+translation = "「안 돼요. 마왕님은 학생이니까 그런 돈 씀씀이는 좋지 않아요. 햄버거 사주는 거랑은 액수가 달라요」"
+
+[[dialogue]]
+speaker_original = "レイラ"
+speaker_translation = "레이라"
+original = "「決めました。買います。すみません、店員さん。これください！」"
+translation = "「결정했어요. 살게요. 저기요, 점원 분. 이거 주세요!」"
+
+[[dialogue]]
+speaker_original = "レイラ"
+speaker_translation = "레이라"
+original = "「え、デッカ！？」"
+translation = "「에, 데카아(크다)!?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "圧縮されて箱に収納されているはずだが、大きすぎる枕はそれでも大きい。"
+translation = "압축되어 상자에 수납되어 있을 텐데, 너무 큰 베개는 그래도 컸다."
+
+[[dialogue]]
+speaker_original = "レイラ"
+speaker_translation = "레이라"
+original = "「この枕、やっぱり大きすぎませんか……？」"
+translation = "「이 베개, 역시 너무 크지 않나요……?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "大荷物を抱えてデートというわけにもいかず、この日は解散したのだった。"
+translation = "큰 짐을 안고 데이트를 할 수도 없어 이날은 해산했다."
+

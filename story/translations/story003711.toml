@@ -1,0 +1,481 @@
+[[dialogue]]
+speaker = "unk"
+original = "行きと同じく、世界樹を通って基地に帰還する。"
+translation = "올 때와 마찬가지로 세계수를 통해 기지로 귀환한다."
+
+[[dialogue]]
+speaker_original = "レイラ"
+speaker_translation = "레이라"
+original = "「ただいま戻りましたー」"
+translation = "「다녀왔습니다─」"
+
+[[dialogue]]
+speaker_original = "イニシュ"
+speaker_translation = "이니슈"
+original = "「おかえりなさい。調査はどうでしたか？」"
+translation = "「어서 오세요. 조사는 어땠나요?」"
+
+[[dialogue]]
+speaker_original = "レイラ"
+speaker_translation = "레이라"
+original = "「あ、イニシュさん……え、ええと調査中にモンスターが発生し、これを討伐しました！」"
+translation = "「아, 이니슈 씨…… 에, 어 그러니까 조사 중에 몬스터가 발생해서 이를 토벌했습니다!」"
+
+[[dialogue]]
+speaker_original = "イニシュ"
+speaker_translation = "이니슈"
+original = "「任務は調査のはずですが……まぁいいでしょう。データは私からツェツィーリエに渡しておきます。４人ともお疲れさまでした」"
+translation = "「임무는 조사였을 텐데요…… 뭐, 됐습니다. 데이터는 제가 체칠리에에게 전달해 두죠. 네 분 다 수고하셨습니다」"
+
+[[dialogue]]
+speaker = "unk"
+original = "レイラから端末を受け取り、イニシュが立ち去る。"
+translation = "레이라에게서 단말기를 건네받고 이니슈가 떠난다."
+
+[[dialogue]]
+speaker_original = "レイラ"
+speaker_translation = "레이라"
+original = "「怒られなくてよかったぁ～」"
+translation = "「안 혼나서 다행이다~」"
+
+[[dialogue]]
+speaker_original = "イニシュ"
+speaker_translation = "이니슈"
+original = "「怒られるようなことをしたのですか？」"
+translation = "「혼날 만한 짓을 했나요?」"
+
+[[dialogue]]
+speaker_original = "レイラ"
+speaker_translation = "레이라"
+original = "「い、いえ、なんでもありませんでございます！」"
+translation = "「아, 아뇨, 아무것도 아닙니다요!」"
+
+[[dialogue]]
+speaker_original = "イニシュ"
+speaker_translation = "이니슈"
+original = "「そうですか。ならいいのですが」"
+translation = "「그렇습니까. 그럼 됐습니다만」"
+
+[[dialogue]]
+speaker_original = "キサナ"
+speaker_translation = "키사나"
+original = "「まさか身内で決闘してたとは言えねえよな」"
+translation = "「설마 자기들끼리 결투하고 있었다고는 말 못 하겠지」"
+
+[[dialogue]]
+speaker_original = "レイラ"
+speaker_translation = "레이라"
+original = "「もう、分かってるなら言わないで。イニシュさんに聞こえちゃうでしょ」"
+translation = "「정말, 알고 있으면 말하지 마. 이니슈 씨한테 들리잖아」"
+
+[[dialogue]]
+speaker_original = "リーナ"
+speaker_translation = "리나"
+original = "「ただいまー！」"
+translation = "「다녀왔어─!」"
+
+[[dialogue]]
+speaker_original = "メテオラ"
+speaker_translation = "메테오라"
+original = "「おー！\u3000おかえり！！」"
+translation = "「오─! 어서 와!!」"
+
+[[dialogue]]
+speaker_original = "エンジュ"
+speaker_translation = "엔쥬"
+original = "「おかえり」"
+translation = "「어서 와」"
+
+[[dialogue]]
+speaker_original = "リーナ"
+speaker_translation = "리나"
+original = "「見て見て、キレイな貝殻たくさんひろってきたよ！\u3000はじめて見た果物もいっぱい！」"
+translation = "「이것 봐, 예쁜 조개껍데기 많이 주워왔어! 처음 본 과일도 가득!」"
+
+[[dialogue]]
+speaker_original = "メテオラ"
+speaker_translation = "메테오라"
+original = "「おー、キラキラしてキレイだぞー！\u3000リーナ、あたしの手のひらに乗せてくれ！\u3000あたしが持つと壊れちゃうからな！」"
+translation = "「오─, 반짝반짝하고 예쁘다! 리나, 내 손바닥에 올려줘! 내가 잡으면 부서지니까 말이야!」"
+
+[[dialogue]]
+speaker_original = "リーナ"
+speaker_translation = "리나"
+original = "「はーい、どうぞ～」"
+translation = "「네─, 여기요~」"
+
+[[dialogue]]
+speaker_original = "メテオラ"
+speaker_translation = "메테오라"
+original = "「おおーー！！\u3000色もイロイロだぞ！\u3000部屋に飾ろう！\u3000あ、でも、あたしの部屋に置くと壊しちゃうからなー」"
+translation = "「오오─!! 색깔도 알록달록해! 방에 장식하자! 아, 하지만 내 방에 두면 부숴버릴지도 모르겠네─」"
+
+[[dialogue]]
+speaker_original = "エンジュ"
+speaker_translation = "엔쥬"
+original = "「ツェツィーリエにケースでも作ってもらえばいいんじゃないか？」"
+translation = "「체칠리에한테 케이스라도 만들어달라고 하면 되지 않겠어?」"
+
+[[dialogue]]
+speaker_original = "メテオラ"
+speaker_translation = "메테오라"
+original = "「そうだな！\u3000頼んでみよう！」"
+translation = "「그렇네! 부탁해 보자!」"
+
+[[dialogue]]
+speaker_original = "リーナ"
+speaker_translation = "리나"
+original = "「エンジュちゃんにはこれあげる！」"
+translation = "「엔쥬 언니한테는 이거 줄게!」"
+
+[[dialogue]]
+speaker_original = "エンジュ"
+speaker_translation = "엔쥬"
+original = "「なんだこれ。うず巻いてて、七色で……なんだこれ」"
+translation = "「이게 뭐야. 소용돌이치고 있고, 일곱 빛깔이고…… 이게 뭐야」"
+
+[[dialogue]]
+speaker_original = "リーナ"
+speaker_translation = "리나"
+original = "「果物だよ。たーくさん木になってたんだ！\u3000美味しいから食べてね♪」"
+translation = "「과일이야. 나무에 엄─청 많이 열려 있었어! 맛있으니까 먹어♪」"
+
+[[dialogue]]
+speaker_original = "エンジュ"
+speaker_translation = "엔쥬"
+original = "「お、おう。本当に食えるのか、これ。……まぁ、ありがたくいただくよ」"
+translation = "「어, 응. 진짜 먹을 수 있는 거냐, 이거. ……뭐, 고맙게 받을게」"
+
+[[dialogue]]
+speaker_original = "リーナ"
+speaker_translation = "리나"
+original = "「こっちはアイリーンちゃんの分でしょ。こっちはカヤちゃんの分！」"
+translation = "「이건 아이린 언니 몫. 이건 카야 언니 몫!」"
+
+[[dialogue]]
+speaker_original = "イングリット"
+speaker_translation = "잉그리드"
+original = "「まったく、騒がしいな」"
+translation = "「정말이지, 시끄럽군」"
+
+[[dialogue]]
+speaker_original = "ジュリエッテ"
+speaker_translation = "줄리엣타"
+original = "「おかえりなさいませ。イングリット様もご無事で何よりでございますわ」"
+translation = "「어서 오세요. 잉그리드 님도 무사하셔서 다행이옵니다」"
+
+[[dialogue]]
+speaker_original = "イングリット"
+speaker_translation = "잉그리드"
+original = "「私が怪我などするわけないだろう。私は強いからな」"
+translation = "「내가 다칠 리가 없잖나. 나는 강하니까 말이다」"
+
+[[dialogue]]
+speaker_original = "ジュリエッテ"
+speaker_translation = "줄리엣타"
+original = "（元から本気で心配などしていませんでしたけど、そう言われると腹立ちますわ。お腹でもお壊しになられるとよろしいのに）"
+translation = "(애초에 진심으로 걱정 따위 하지 않았습니다만, 그렇게 나오시니 배알이 꼴리는군요. 배탈이라도 나시면 좋을 텐데)"
+
+[[dialogue]]
+speaker_original = "ジュリエッテ"
+speaker_translation = "줄리엣타"
+original = "「……おや？\u3000イングリット様、どこか機嫌が良いような……何かいいことでもございました？」"
+translation = "「……어라? 잉그리드 님, 어쩐지 기분이 좋아 보이시는데…… 무슨 좋은 일이라도 있었나요?」"
+
+[[dialogue]]
+speaker_original = "イングリット"
+speaker_translation = "잉그리드"
+original = "「知らん。私はいつも通りだ」"
+translation = "「모른다. 나는 평소와 같다」"
+
+[[dialogue]]
+speaker_original = "イングリット"
+speaker_translation = "잉그리드"
+original = "「レイラ！\u3000次は必ず私が勝つ。首を洗って待っていろ！」"
+translation = "「레이라! 다음엔 반드시 내가 이긴다. 목을 씻고 기다리고 있어라!」"
+
+[[dialogue]]
+speaker_original = "イングリット"
+speaker_translation = "잉그리드"
+original = "「では、私は寝る！」"
+translation = "「그럼, 난 잔다!」"
+
+[[dialogue]]
+speaker_original = "キサナ"
+speaker_translation = "키사나"
+original = "「ったく、アイツも懲りねえな。次こそは消滅するんじゃねえか」"
+translation = "「나 원 참, 저 녀석도 참 끈질기구먼. 다음번엔 진짜 소멸하는 거 아냐?」"
+
+[[dialogue]]
+speaker_original = "レイラ"
+speaker_translation = "레이라"
+original = "「消さないってば。怖いこと言わないで。……キサナは私の戦い、見ててくれた？」"
+translation = "「소멸 안 시킨다니까. 무서운 소리 하지 마. ……키사나는 내 싸움, 지켜봐 줬어?」"
+
+[[dialogue]]
+speaker_original = "キサナ"
+speaker_translation = "키사나"
+original = "「さあな。忘れちまった」"
+translation = "「글쎄다. 까먹었어」"
+
+[[dialogue]]
+speaker_original = "キサナ"
+speaker_translation = "키사나"
+original = "「さて、アタシも寝るぜ。今回は簡単な仕事だと思ったんだが、オマエらといるといつも面倒なことになるな」"
+translation = "「그럼 나도 자러 간다. 이번엔 쉬운 일인 줄 알았는데 너희랑 있으면 항상 귀찮은 일이 생기네」"
+
+[[dialogue]]
+speaker_original = "レイラ"
+speaker_translation = "레이라"
+original = "「うん。いつもありがとう、キサナ。おやすみなさい」"
+translation = "「응. 항상 고마워, 키사나. 잘 자」"
+
+[[dialogue]]
+speaker_original = "キサナ"
+speaker_translation = "키사나"
+original = "「じゃな」"
+translation = "「어이」"
+
+[[dialogue]]
+speaker_original = "リーナ"
+speaker_translation = "리나"
+original = "「ふわぁ～」"
+translation = "「후아암~」"
+
+[[dialogue]]
+speaker_original = "メテオラ"
+speaker_translation = "메테오라"
+original = "「リーナ、おねむか？\u3000寝るならおふとんで寝ないとカゼひくぞー」"
+translation = "「리나, 졸려? 잘 거면 이불에서 자야 감기 안 걸린다─」"
+
+[[dialogue]]
+speaker_original = "エンジュ"
+speaker_translation = "엔쥬"
+original = "「じゃあ、あたしたちも引っ込むか。メテオラ、おぶってやれ」"
+translation = "「그럼 우리도 들어가 볼까. 메테오라, 업어줘라」"
+
+[[dialogue]]
+speaker_original = "メテオラ"
+speaker_translation = "메테오라"
+original = "「うん、よいしょ」"
+translation = "「응, 영차」"
+
+[[dialogue]]
+speaker_original = "リーナ"
+speaker_translation = "리나"
+original = "「メテオラお姉ちゃんのせなか……あったかくて好きー……すー」"
+translation = "「메테오라 언니 등…… 따뜻해서 좋아─…… 드르렁」"
+
+[[dialogue]]
+speaker_original = "メテオラ"
+speaker_translation = "메테오라"
+original = "「あれ、寝ちゃったか？\u3000寝る前に歯みがきしないとダメだぞー？」"
+translation = "「어라, 잠들었어? 자기 전에 양치질 안 하면 안 되는데─?」"
+
+[[dialogue]]
+speaker_original = "レイラ"
+speaker_translation = "레이라"
+original = "「今日は仕方ないね。あとはお願いしていい？」"
+translation = "「오늘은 어쩔 수 없네. 뒷정리는 부탁해도 될까?」"
+
+[[dialogue]]
+speaker_original = "エンジュ"
+speaker_translation = "엔쥬"
+original = "「ああ、分かった。おやすみ」"
+translation = "「그래, 알았어. 잘 자」"
+
+[[dialogue]]
+speaker_original = "メテオラ"
+speaker_translation = "메테오라"
+original = "「おやすみだぞー」"
+translation = "「잘 자라─」"
+
+[[dialogue]]
+speaker_original = "ジュリエッテ"
+speaker_translation = "줄리엣타"
+original = "「わたくしも失礼いたしますわ。おやすみなさいませ」"
+translation = "「저도 실례하겠습니다. 편안한 밤 되십시오」"
+
+[[dialogue]]
+speaker_original = "レイラ"
+speaker_translation = "레이라"
+original = "「じー……」"
+translation = "「지익─……」"
+
+[[dialogue]]
+speaker_original = "ジュリエッテ"
+speaker_translation = "줄리엣타"
+original = "「レイラ様？\u3000キュイジーヌちゃんがどうかいたしまして？」"
+translation = "「레이라 님? 퀴진(줄리에트)이 왜 그러신가요?」"
+
+[[dialogue]]
+speaker_original = "レイラ"
+speaker_translation = "레이라"
+original = "「ううん、なんでもない。ごめんね」"
+translation = "「으응, 아무것도 아니야. 미안해」"
+
+[[dialogue]]
+speaker_original = "ジュリエッテ"
+speaker_translation = "줄리엣타"
+original = "「はぁ……変なレイラ様でございますわ」"
+translation = "「하아…… 이상한 레이라 님이시군요」"
+
+[[dialogue]]
+speaker_original = "レイラ"
+speaker_translation = "레이라"
+original = "（コラプサーはみんな、それぞれの理由で私についてきてくれた。その理由がなくなれば、きっとお別れだ。今回のイングリットみたいに）"
+translation = "(콜랩서 모두는 저마다의 이유로 나를 따라와 줬어. 그 이유가 없어지면 분명 작별이겠지. 이번의 잉그리드처럼)"
+
+[[dialogue]]
+speaker_original = "レイラ"
+speaker_translation = "레이라"
+original = "（家族はずっと一緒にはいられない。いつか離れ離れになるときが来る。もともと一緒にいるのが奇跡みたいなみんなだし、一緒にいられる時間を大切にしなきゃ）"
+translation = "(가족은 계속 함께 있을 수 없어. 언젠가 헤어질 때가 와. 원래부터 함께 있는 게 기적 같은 모두니까, 같이 있을 수 있는 시간을 소중히 여겨야 해)"
+
+[[dialogue]]
+speaker_original = "レイラ"
+speaker_translation = "레이라"
+original = "（……そのときまでは、離さないようみんなの手を握っていよう。笑顔で手を振って別れる、そのときまで）"
+translation = "(……그때까지는 헤어지지 않도록 모두의 손을 잡고 있자. 웃으며 손을 흔들며 헤어지는 그날까지)"
+
+[[dialogue]]
+speaker_original = "ヴァレリー"
+speaker_translation = "발레리"
+original = "「おや、レイラ。眠れませんか？」"
+translation = "「오호, 레이라. 잠이 안 오나요?」"
+
+[[dialogue]]
+speaker_original = "レイラ"
+speaker_translation = "레이라"
+original = "「ヴァレリーこそ。あ、じゃあ紅茶淹れてよ。ミルクたっぷりのやつ」"
+translation = "「발레리야말로. 아, 그럼 홍차 좀 타줘. 우유 듬뿍 넣은 걸로」"
+
+[[dialogue]]
+speaker_original = "ヴァレリー"
+speaker_translation = "발레리"
+original = "「フフ。かしこまりました、マイレディ」"
+translation = "「후후. 분부대로 하겠습니다, 마이 레이디」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ヴァレリーが濃く淹れた紅茶を冷たいミルクと合わせ、アイスミルクティーを差し出す。"
+translation = "발레리가 진하게 우려낸 홍차를 차가운 우유와 섞어 아이스 밀크티를 내민다."
+
+[[dialogue]]
+speaker_original = "ヴァレリー"
+speaker_translation = "발레리"
+original = "「……はい、どうぞ」"
+translation = "「……자, 여기 있습니다」"
+
+[[dialogue]]
+speaker_original = "レイラ"
+speaker_translation = "레이라"
+original = "「ありがとう。うん、美味しい。ヴァレリー、紅茶淹れるの上手だよね」"
+translation = "「고마워. 응, 맛있다. 발레리, 홍차 진짜 잘 탄다니까」"
+
+[[dialogue]]
+speaker_original = "ヴァレリー"
+speaker_translation = "발레리"
+original = "「これでもイギリス人ですからね。バカンスは楽しめましたか？」"
+translation = "「이래 봬도 영국인이니까요. 바캉스는 즐거우셨나요?」"
+
+[[dialogue]]
+speaker_original = "レイラ"
+speaker_translation = "레이라"
+original = "「部分的にはそう。バーベキューは楽しかったけど、イングリットには振り回されっぱなしだったし疲れたー」"
+translation = "「부분적으로는 그래. 바비큐는 즐거웠지만, 잉그리드한테 계속 휘둘려서 피곤해─」"
+
+[[dialogue]]
+speaker_original = "ヴァレリー"
+speaker_translation = "발레리"
+original = "「ハハハ。お疲れ様です、<ruby>首領<rt>ボス</rt></ruby>」"
+translation = "「하하하. 수고하셨습니다, <ruby>수령<rt>보스</rt></ruby>」"
+
+[[dialogue]]
+speaker_original = "ヴァレリー"
+speaker_translation = "발레리"
+original = "「ところで今回の件についてです」"
+translation = "「그런데 이번 건에 대해서입니다만」"
+
+[[dialogue]]
+speaker_original = "ヴァレリー"
+speaker_translation = "발레리"
+original = "「『<ruby>ＸＥＬＯＳ<rt>ゼロス</rt></ruby>』を倒してリクリエはなくなりましたが、モンスターは出現し続けています」"
+translation = "「『<ruby>XELOS<rt>제로스</rt></ruby>』를 쓰러뜨리고 리크리에는 사라졌지만, 몬스터는 계속해서 출현하고 있습니다」"
+
+[[dialogue]]
+speaker_original = "ヴァレリー"
+speaker_translation = "발레리"
+original = "「どうやらモンスターは世界の機構に組み込まれていて、そう簡単には消えないようです」"
+translation = "「아무래도 몬스터는 세계의 기구에 편입되어 있어서 그렇게 쉽게 사라지지는 않는 모양입니다」"
+
+[[dialogue]]
+speaker_original = "ヴァレリー"
+speaker_translation = "발레리"
+original = "「そしてあのデータにない新型モンスターですが、ツェツィーリエさんが仰るには、ディザスターハンドの影響で並行世界ベガから転移してきたようです」"
+translation = "「그리고 그 데이터에 없던 신형 몬스터 말입니다만, 체칠리에 씨의 말씀으로는 디재스터 핸드의 영향으로 평행 세계 베가에서 전이되어 온 것 같다고 합니다」"
+
+[[dialogue]]
+speaker_original = "ヴァレリー"
+speaker_translation = "발레리"
+original = "「平行世界の時間はブレがありますからね。ディザスターハンドが消滅しても、時間差でこういうことが起こりうる──とのことでした」"
+translation = "「평행 세계의 시간은 오차가 있으니까요. 디재스터 핸드가 소멸했어도 시차를 두고 이런 일이 일어날 수 있다──는 것이었습니다」"
+
+[[dialogue]]
+speaker_original = "レイラ"
+speaker_translation = "레이라"
+original = "「え、イングリットが祠を壊したせいじゃないの？」"
+translation = "「어, 잉그리드가 사당을 부순 탓이 아니었어?」"
+
+[[dialogue]]
+speaker_original = "ヴァレリー"
+speaker_translation = "발레리"
+original = "「まだ簡易解析ですが、祠には不審な点はありませんでした。他のデータも同様です」"
+translation = "「아직 간이 분석입니다만, 사당에는 의심스러운 점이 없었습니다. 다른 데이터도 마찬가지고요」"
+
+[[dialogue]]
+speaker_original = "ヴァレリー"
+speaker_translation = "발레리"
+original = "「守護天使の神殿の例のように、信仰が何かしらの影響を及ぼしていた可能性もありますが……まぁほぼ無関係でしょうね」"
+translation = "「수호천사의 신전 예시처럼 신앙이 어떠한 영향을 미쳤을 가능성도 있습니다만…… 뭐, 거의 무관하겠죠」"
+
+[[dialogue]]
+speaker_original = "ヴァレリー"
+speaker_translation = "발레리"
+original = "「そして、転移モンスターはこれからも出現する可能性があるとのことです。まだまだコラプサーの仕事はなくなりそうにありませんね」"
+translation = "「그리고 전이 몬스터는 앞으로도 출현할 가능성이 있다고 합니다. 아직 콜랩서의 일이 없어질 것 같지는 않군요」"
+
+[[dialogue]]
+speaker_original = "レイラ"
+speaker_translation = "레이라"
+original = "「えぇー」"
+translation = "「에에─」"
+
+[[dialogue]]
+speaker_original = "レイラ"
+speaker_translation = "레이라"
+original = "（モンスターの出現は続く。その報せを残念に思いつつも、どこかほっとする自分もいて。ともあれ、みんなとのお別れはまだ先になりそうだ）"
+translation = "(몬스터의 출현은 계속된다. 그 소식을 아쉽게 생각하면서도, 어딘지 모르게 안도하는 자신도 있어서. 어쨌든, 모두와의 작별은 아직 멀 것 같다)"
+
+[[dialogue]]
+speaker_original = "レイラ"
+speaker_translation = "레이라"
+original = "「ひゅごっ……。ヴァレリー、紅茶おかわり」"
+translation = "「휴고……. 발레리, 홍차 한 잔 더」"
+
+[[dialogue]]
+speaker_original = "ヴァレリー"
+speaker_translation = "발레리"
+original = "「やれやれ、寝られなくなっても知りませんよ」"
+translation = "「이런이런, 잠들지 못하게 되어도 모릅니다」"
+
+[[dialogue]]
+speaker = "unk"
+original = "夜は静かに更けていく。明日も早いのに、まだ起きていたい。"
+translation = "밤은 고요하게 깊어 간다. 내일도 일찍 일어나야 하는데, 좀 더 깨어 있고 싶다."
+
+[[dialogue]]
+speaker = "unk"
+original = "そんな、夏休み最終日の夜だった。"
+translation = "그런, 여름방학 마지막 날의 밤이었다."
+

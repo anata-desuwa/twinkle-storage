@@ -1,0 +1,215 @@
+[[dialogue]]
+speaker = "unk"
+original = "時はさかのぼって、ネビュラ基地。"
+translation = "시간은 거슬러 올라가서, 네뷸라 기지."
+
+[[dialogue]]
+speaker_original = "ヴァレリー"
+speaker_translation = "발레리"
+original = "「行ってしまいましたね。レイラたちの水着姿をこの目に収めたかったのですが、同行できなくて残念です」"
+translation = "「가버리셨군요. 레이라 일행의 수영복 차림을 이 눈에 담고 싶었습니다만, 동행하지 못해 유감입니다」"
+
+[[dialogue]]
+speaker_original = "ジュリエッテ"
+speaker_translation = "줄리엣타"
+original = "「もしわたくしが水着をいただきましても、ヴァレリー様の前では着ませんわ。レイラ様方もきっと同じでございます」"
+translation = "「설령 제가 수영복을 받았다 하더라도 발레리 님 앞에서는 입지 않을 거예요. 레이라 님 일행도 분명 마찬가지일 겁니다」"
+
+[[dialogue]]
+speaker_original = "ヴァレリー"
+speaker_translation = "발레리"
+original = "「フフ、いけずですね。ところで、皆さんはこれからのことは考えていますか？」"
+translation = "「후후, 심술쟁이시군요. 그건 그렇고, 여러분은 앞으로의 일에 대해 생각하고 계신가요?」"
+
+[[dialogue]]
+speaker_original = "メテオラ"
+speaker_translation = "메테오라"
+original = "「んー？\u3000どういうことだー？」"
+translation = "「응─? 그게 무슨 소리야─?」"
+
+[[dialogue]]
+speaker_original = "ヴァレリー"
+speaker_translation = "발레리"
+original = "「我々コラプサーは戦闘員。ですが、戦う相手がいなければ……ね？」"
+translation = "「우리 콜랩서는 전투원. 하지만 싸울 상대가 없다면…… 말이죠?」"
+
+[[dialogue]]
+speaker_original = "エンジュ"
+speaker_translation = "엔쥬"
+original = "「コラプサーがなくなるかもって、そう言いたいのか？」"
+translation = "「콜랩서가 없어질지도 모른다, 그렇게 말하고 싶은 거야?」"
+
+[[dialogue]]
+speaker_original = "ヴァレリー"
+speaker_translation = "발레리"
+original = "「そこまでは言いませんが、何かしらの備えはあってもよいかと」"
+translation = "「그 정도까지는 아닙니다만, 나름대로의 대비는 있어도 좋지 않을까 해서요」"
+
+[[dialogue]]
+speaker_original = "メテオラ"
+speaker_translation = "메테오라"
+original = "「コラプサーがなくなるなんてイヤだぞ！\u3000みんな仲間なんだぞ！」"
+translation = "「콜랩서가 없어지는 건 싫어! 다들 동료란 말이야!」"
+
+[[dialogue]]
+speaker_original = "メテオラ"
+speaker_translation = "메테오라"
+original = "「……あたしは生まれつき力が強くて、触るだけでなんでも壊しちゃうから、パパもママも困って、施設に預けられて……」"
+translation = "「……난 태어날 때부터 힘이 강해서, 만지기만 해도 다 부숴버리니까 아빠랑 엄마도 곤란해하다가 시설에 맡겨졌어……」"
+
+[[dialogue]]
+speaker_original = "メテオラ"
+speaker_translation = "메테오라"
+original = "「そこでもあたしは怖がられて、先生も怪我させちゃって……パパも、ママも、友達も、先生も好きなのに……好きだから傷付けたくなくて、一緒にいられなくて」"
+translation = "「거기서도 난 무서움의 대상이었고, 선생님도 다치게 해버려서…… 아빠도, 엄마도, 친구도, 선생님도 좋아하는데…… 좋아하니까 상처 입히기 싫어서 같이 있을 수 없었어」"
+
+[[dialogue]]
+speaker_original = "メテオラ"
+speaker_translation = "메테오라"
+original = "「でも、コラプサーのみんなだけが、一緒にいていいって言ってくれたんだ！」"
+translation = "「하지만 콜랩서 친구들만이 함께 있어도 좋다고 말해줬어!」"
+
+[[dialogue]]
+speaker_original = "メテオラ"
+speaker_translation = "메테오라"
+original = "「だからコラプサーがなくなるなんて絶対にイヤだ！」"
+translation = "「그러니까 콜랩서가 없어지는 건 절대 싫어!」"
+
+[[dialogue]]
+speaker_original = "エンジュ"
+speaker_translation = "엔쥬"
+original = "「あたしだって帰る場所がないのは同じだ」"
+translation = "「나 역시 돌아갈 곳이 없는 건 마찬가지다」"
+
+[[dialogue]]
+speaker_original = "エンジュ"
+speaker_translation = "엔쥬"
+original = "「故郷はモンスターのせいでもうない。故郷を見捨てて、モンスターから逃げたあいつに復讐しようにも、未だに行方知れずだ」"
+translation = "「고향은 몬스터 때문에 이미 없어졌어. 고향을 버리고 몬스터로부터 도망친 그 녀석에게 복수하려 해도 여전히 행방불명이다」"
+
+[[dialogue]]
+speaker_original = "エンジュ"
+speaker_translation = "엔쥬"
+original = "「復讐心が消えたわけじゃない。だけど今のあたしは、復讐だけがすべてじゃない。レイラがコラプサーに誘ってくれたから、あたしは今ここにいる」"
+translation = "「복수심이 사라진 건 아니야. 하지만 지금의 나는 복수만이 전부는 아니야. 레이라가 콜랩서에 권유해 줬으니까 나는 지금 여기에 있는 거다」"
+
+[[dialogue]]
+speaker_original = "エンジュ"
+speaker_translation = "엔쥬"
+original = "「それにお前ら危なっかしいからな。レイラもメテオラも、放っておくには心配すぎる」"
+translation = "「게다가 너희는 위태위태하니까 말이야. 레이라도 메테오라도 내버려 두기엔 너무 걱정돼」"
+
+[[dialogue]]
+speaker_original = "ヴァレリー"
+speaker_translation = "발레리"
+original = "「フフ、エンジュは優しいですね。ジュリエッテはいかがですか？」"
+translation = "「후후, 엔쥬는 상냥하네요. 줄리에트는 어떠신가요?」"
+
+[[dialogue]]
+speaker_original = "ジュリエッテ"
+speaker_translation = "줄리엣타"
+original = "「わたくしでございますか？\u3000わたくしは……少なくとも実家に帰ることはございませんわね。家は捨てましたわ」"
+translation = "「저 말씀이신가요? 저는…… 적어도 본가에 돌아갈 일은 없겠군요. 집은 버렸습니다」"
+
+[[dialogue]]
+speaker_original = "ジュリエッテ"
+speaker_translation = "줄리엣타"
+original = "「実家ではわたくしはいらない子でございましたから。星力に目覚めず、何の取柄もないわたくしは……落ちこぼれとも言われておりました」"
+translation = "「본가에서 저는 필요 없는 아이였으니까요. 성력에 눈을 뜨지 못하고 아무런 장점도 없는 저는…… 낙오자라고 불리기도 했답니다」"
+
+[[dialogue]]
+speaker_original = "ジュリエッテ"
+speaker_translation = "줄리엣타"
+original = "「家出して、荒野をさまよって……そんな時にコラプサーに出会ったのでございます」"
+translation = "「가출해서 황야를 헤매다가…… 그러던 중에 콜랩서를 만난 것입니다」"
+
+[[dialogue]]
+speaker_original = "ジュリエッテ"
+speaker_translation = "줄리엣타"
+original = "「世界を救い、英雄ともなれば、三界支配の足掛かり──もとい立身出世になると考えて、ご一緒したのでございますわ」"
+translation = "「세계를 구하고 영웅이 된다면 삼계 지배의 발판── 아니, 입신출세가 될 거라 생각해서 함께한 것이옵니다」"
+
+[[dialogue]]
+speaker_original = "ジュリエッテ"
+speaker_translation = "줄리엣타"
+original = "「それにあのメスガ……コホン、シャルレーヌ様にギャフンと言わせなければわたくしの気が収まりませんわ」"
+translation = "「게다가 그 메스가…… 코흠, 샤를렌 님에게 본때를 보여주지 않으면 제 직성이 풀리지 않아요」"
+
+[[dialogue]]
+speaker_original = "ジュリエッテ"
+speaker_translation = "줄리엣타"
+original = "「ヴァレリー様こそ、お家はよろしいのでございますか？\u3000確か火事で焼け出されたと伺いましたが」"
+translation = "「발레리 님이야말로 가문은 괜찮으신 건가요? 분명 화재로 집을 잃었다고 들었습니다만」"
+
+[[dialogue]]
+speaker_original = "ヴァレリー"
+speaker_translation = "발레리"
+original = "「フフ、スチュアート家のご心配ありがとうございます。ですが、手持ちの屋敷がひとつ燃えただけですから大丈夫です」"
+translation = "「후후, 스튜어트 가문을 걱정해 주셔서 감사합니다. 하지만 가지고 있던 저택이 하나 탔을 뿐이니 괜찮습니다」"
+
+[[dialogue]]
+speaker_original = "ヴァレリー"
+speaker_translation = "발레리"
+original = "「人的被害もなく……いえ、正確には私だけ死んでしまっていたのですが」"
+translation = "「인명 피해도 없이…… 아니, 정확하게는 저만 죽어버린 셈이었습니다만」"
+
+[[dialogue]]
+speaker_original = "ヴァレリー"
+speaker_translation = "발레리"
+original = "「ブラックホールの力で生き永らえていなければ、美術品と一緒に灰になっていたでしょうね。……まぁ、それはそれで悪くない最期かもしれません」"
+translation = "「블랙홀의 힘으로 연명하지 않았더라면 미술품들과 함께 재가 되었겠죠. ……뭐, 그것도 그것 나름대로 나쁘지 않은 최후였을지도 모릅니다」"
+
+[[dialogue]]
+speaker_original = "メテオラ"
+speaker_translation = "메테오라"
+original = "「ヴァレリーの家族は無事なんだな！\u3000よかったぞ！\u3000……あ、じゃあ、実家に帰っちゃうのか？」"
+translation = "「발레리의 가족은 무사하구나! 다행이다! ……아, 그럼 본가로 돌아가는 거야?」"
+
+[[dialogue]]
+speaker_original = "ヴァレリー"
+speaker_translation = "발레리"
+original = "「いえ？\u3000そんなこと露も考えていませんよ。私は快楽のためにコラプサーにいますからね」"
+translation = "「아뇨? 그런 건 티끌만큼도 생각하지 않아요. 저는 쾌락을 위해 콜랩서에 있는 거니까요」"
+
+[[dialogue]]
+speaker_original = "ヴァレリー"
+speaker_translation = "발레리"
+original = "「火事で美術品が焼け落ち、真の美に目覚めた私に、彼女は言いました。『もっと美しいものを見に行こう』と。その言葉に従ってよかったです」"
+translation = "「화재로 미술품이 타버리고 진정한 아름다움에 눈을 뜬 저에게 그녀는 말했습니다. 『더 아름다운 것을 보러 가자』라고요. 그 말을 따르길 잘했습니다」"
+
+[[dialogue]]
+speaker_original = "ヴァレリー"
+speaker_translation = "발레리"
+original = "「そのおかげでみんなに、そして星騎士の皆さんに出会えましたからね」"
+translation = "「덕분에 모두를, 그리고 성기사 여러분을 만날 수 있었으니까요」"
+
+[[dialogue]]
+speaker_original = "メテオラ"
+speaker_translation = "메테오라"
+original = "「そっかー。それはよかったな！」"
+translation = "「그렇구나─. 그거 다행이네!」"
+
+[[dialogue]]
+speaker_original = "ヴァレリー"
+speaker_translation = "발레리"
+original = "「ええ、本当に。美しい星騎士たちが傷つくところを特等席で観られたのですから、それはもう眼福でした……フフ、フフフフ」"
+translation = "「네, 정말로요. 아름다운 성기사들이 상처 입는 모습을 특등석에서 관람할 수 있었으니 그야말로 눈이 호강했습니다…… 후후, 후후후후」"
+
+[[dialogue]]
+speaker_original = "メテオラ"
+speaker_translation = "메테오라"
+original = "「そ、それはよかったのかー！？」"
+translation = "「그, 그게 다행인 거야─!?」"
+
+[[dialogue]]
+speaker_original = "エンジュ"
+speaker_translation = "엔쥬"
+original = "（変態だ）"
+translation = "(변태다)"
+
+[[dialogue]]
+speaker_original = "ジュリエッテ"
+speaker_translation = "줄리엣타"
+original = "（変態でございますわ）"
+translation = "(변태이옵니다)」"
+

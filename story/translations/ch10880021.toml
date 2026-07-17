@@ -1,0 +1,298 @@
+[[dialogue]]
+speaker = "unk"
+original = "第１話,妹と海へ,P"
+translation = "제1화, 여동생과 바다로, P"
+
+[[dialogue]]
+speaker_original = "リーナ"
+speaker_translation = "리나"
+original = "「見て見て、お兄ちゃん！\u3000水着、似合ってる？」"
+translation = "「봐봐, 오빠! 수영복, 어울려?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "うん、よく似合ってるよ"
+translation = "응, 잘 어울려"
+
+[[dialogue]]
+speaker_original = "リーナ"
+speaker_translation = "리나"
+original = "「やったぁ♪\u3000お兄ちゃんに褒めてもらえてすっごく嬉しいっ♪」"
+translation = "「앗싸♪ 오빠한테 칭찬받아서 정말 기뻐♪」"
+
+[[dialogue]]
+speaker = "unk"
+original = "よほど嬉しかったのか、水着を見せびらかすようにくるくる回るリーナ。"
+translation = "무척 기뻤는지 수영복을 뽐내듯이 뱅글뱅글 도는 리나."
+
+[[dialogue]]
+speaker = "unk"
+original = "傍から見ると、俺たちは仲のいい兄妹に見えるのかもしれないが──リーナは俺の妹ではない。そもそも俺に妹はいない。いないはず。"
+translation = "옆에서 보면 우리는 사이좋은 남매로 보일지도 모르지만── 리나는 내 여동생이 아니다. 애초에 나에게 여동생은 없다. 없을 터다."
+
+[[dialogue]]
+speaker_original = "リーナ"
+speaker_translation = "리나"
+original = "「今日は連れてきてくれてありがとう。いっぱい遊ぼうね、お兄ちゃんっ」"
+translation = "「오늘은 데려와 줘서 고마워. 많이 놀자, 오빠아」"
+
+[[dialogue]]
+speaker = "unk"
+original = "リーナがなぜ俺をお兄ちゃんと呼ぶのかというと──"
+translation = "리나가 왜 나를 오빠라고 부르느냐 하면──"
+
+[[dialogue]]
+speaker_original = "レイラ"
+speaker_translation = "레이라"
+original = "「リーナについて、改めて私から説明します。すでにお聞きのことかもしれませんが、ご容赦ください」"
+translation = "「리나에 대해 다시 한번 제가 설명하겠습니다. 이미 들으신 내용일지도 모르지만, 양해 부탁드립니다」"
+
+[[dialogue]]
+speaker_original = "レイラ"
+speaker_translation = "레이라"
+original = "「リーナのフルネームは、<ruby>火憑<rt>ひづき</rt></ruby>リーナ。流星市国から遠くない街に生まれた、普通の女の子でした」"
+translation = "「리나의 풀네임은 <ruby>히즈키<rt>히즈키</rt></ruby> 리나. 유성시국에서 멀지 않은 거리에서 태어난 평범한 여자아이였습니다」"
+
+[[dialogue]]
+speaker_original = "レイラ"
+speaker_translation = "레이라"
+original = "「リーナには本当にお兄さんがいました。リーナが生まれる前に病気で亡くなってしまいましたが……もし生きていれば、私や魔王さんと同じくらいの歳ですね」"
+translation = "「리나에게는 정말로 오빠가 있었습니다. 리나가 태어나기 전에 병으로 세상을 떠났지만…… 만약 살아있었다면 저나 마왕님과 비슷한 나이겠네요」"
+
+[[dialogue]]
+speaker_original = "レイラ"
+speaker_translation = "레이라"
+original = "「リーナが生まれた時、ご両親は大変な喜びようだったそうです。お兄さんは生まれた時から重篤な病を患っていましたが、リーナにはそれがなかったのです」"
+translation = "「리나가 태어났을 때 부모님은 대단히 기뻐하셨다고 합니다. 오빠는 태어날 때부터 위중한 병을 앓고 있었지만, 리나에게는 그것이 없었으니까요」"
+
+[[dialogue]]
+speaker_original = "レイラ"
+speaker_translation = "레이라"
+original = "「……ですが、それもすぐに呪いに変わります」"
+translation = "「……하지만 그것도 금세 저주로 변합니다」"
+
+[[dialogue]]
+speaker_original = "レイラ"
+speaker_translation = "레이라"
+original = "「『お兄ちゃんが天国で見守ってくれている』『お兄ちゃんと違ってリーナは健康でよかった』……ご両親はいつもそう言っていたそうです」"
+translation = "「『오빠가 천국에서 지켜봐 주고 있어』 『오빠와 달리 리나는 건강해서 다행이야』…… 부모님은 항상 그렇게 말씀하셨다고 합니다」"
+
+[[dialogue]]
+speaker_original = "レイラ"
+speaker_translation = "레이라"
+original = "「何をしても、していなくても、お兄さんのことがついて回る生活だったようです。リーナにとってお兄さんは…………重荷だったでしょうね」"
+translation = "「무엇을 하든, 하지 않든 오빠에 대한 이야기가 따라다니는 생활이었던 모양입니다. 리나에게 오빠는………… 짐이었겠지요」"
+
+[[dialogue]]
+speaker_original = "レイラ"
+speaker_translation = "레이라"
+original = "「そんなある日、悲劇が起こりました。リーナとご両親を乗せた車が大型車両と衝突し、ご両親は即死。リーナだけはコラプサーとなって生き永らえました」"
+translation = "「그러던 어느 날 비극이 일어났습니다. 리나와 부모님을 태운 차가 대형 차량과 충돌하여 부모님은 즉사. 리나만은 콜랩서가 되어 살아남았습니다」"
+
+[[dialogue]]
+speaker_original = "レイラ"
+speaker_translation = "레이라"
+original = "「……事故の状況から考えて、リーナはご両親の死を目撃していた可能性が高いです。歪んだ家族とはいえ、実の両親です。リーナのショックは計り知れません」"
+translation = "「……사고 상황으로 미루어 볼 때 리나는 부모님의 죽음을 목격했을 가능성이 큽니다. 일그러진 가족이라 해도 친부모입니다. 리나의 충격은 헤아릴 수 없습니다」"
+
+[[dialogue]]
+speaker_original = "レイラ"
+speaker_translation = "레이라"
+original = "「リーナが現在のような状態になったのもそれが原因でしょう。リーナはご両親の死を受け入れられず、また、魔王さんをいないはずのお兄ちゃんだと思い込んでいます」"
+translation = "「리나가 현재와 같은 상태가 된 것도 그 때문이겠지요. 리나는 부모님의 죽음을 받아들이지 못하고, 또한 마왕님을 없을 터인 오빠라고 굳게 믿고 있습니다」"
+
+[[dialogue]]
+speaker_original = "レイラ"
+speaker_translation = "레이라"
+original = "「これは私の個人的な意見なのですが、リーナは夢を見ているんだと思います。……優しいお兄ちゃんが本当にいたら、という甘い夢を」"
+translation = "「이건 제 개인적인 의견입니다만, 리나는 꿈을 꾸고 있는 것이라 생각합니다. ……상냥한 오빠가 정말로 있다면, 하는 달콤한 꿈을」"
+
+[[dialogue]]
+speaker_original = "レイラ"
+speaker_translation = "레이라"
+original = "「魔王さんがリーナの夢に付き合う義務はありません。……それでも、どうかもう少しの間、お兄ちゃんでいてあげてください」"
+translation = "「마왕님이 리나의 꿈에 어울려줄 의무는 없습니다. ……그렇지만 부디 조금만 더, 오빠로 있어 주세요」"
+
+[[dialogue]]
+speaker = "unk"
+original = "今日はスイカ割りがしたいというリーナの願いを叶えに来た。プライベートの方のリゾート結界を借りているので、他の客もいない。"
+translation = "오늘은 수박 깨기를 하고 싶다는 리나의 소원을 들어주러 왔다. 프라이빗 쪽의 리조트 결계를 빌렸기에 다른 손님도 없다."
+
+[[dialogue]]
+speaker_original = "リーナ"
+speaker_translation = "리나"
+original = "「わー！\u3000おっきなスイカ！\u3000おおだまだね！」"
+translation = "「와아! 커다란 수박! 엄청 크다!」"
+
+[[dialogue]]
+speaker_original = "リーナ"
+speaker_translation = "리나"
+original = "「じゃあお兄ちゃん、目隠しして～」"
+translation = "「그럼 오빠, 눈 가려줘~」"
+
+[[dialogue]]
+speaker = "unk"
+original = "途中で解けないように、でもきつくならないように気を付けて目隠しを結ぶ。"
+translation = "도중에 풀리지 않도록, 하지만 너무 조이지 않게 주의하며 안대를 묶는다."
+
+[[dialogue]]
+speaker_original = "リーナ"
+speaker_translation = "리나"
+original = "「あはは！\u3000何にも見えな～いっ」"
+translation = "「아하하! 아무것도 안 보여~」"
+
+[[dialogue]]
+speaker_original = "リーナ"
+speaker_translation = "리나"
+original = "「……お兄ちゃん、見えないからっていなくなっちゃダメだからね？」"
+translation = "「……오빠, 안 보인다고 해서 어디 가버리면 안 돼?」"
+
+[[dialogue]]
+speaker_original = "リーナ"
+speaker_translation = "리나"
+original = "「あはは！\u3000冗談だよ、お兄ちゃん。お兄ちゃんはリーナを置いていなくなったりしないもんね。それに……」"
+translation = "「아하하! 농담이야, 오빠. 오빠는 리나를 두고 어디 가버리거나 하지 않으니까. 게다가……」"
+
+[[dialogue]]
+speaker_original = "リーナ"
+speaker_translation = "리나"
+original = "「お兄ちゃんがどこにいても、ゼッタイ見付けるからね<emoji=heart04>」"
+translation = "「오빠가 어디에 있든, 반드시 찾아낼 거니까<emoji=heart04>」"
+
+[[dialogue]]
+speaker_original = "リーナ"
+speaker_translation = "리나"
+original = "「じゃあ、お兄ちゃん。リーナにスイカの場所教えて」"
+translation = "「그럼 오빠. 리나한테 수박 위치 알려줘」"
+
+[[dialogue]]
+speaker = "unk"
+original = "少し右！"
+translation = "조금 오른쪽!"
+
+[[dialogue]]
+speaker_original = "リーナ"
+speaker_translation = "리나"
+original = "「えっと、こうかな？」"
+translation = "「엣토, 이렇게인가?」"
+
+[[dialogue]]
+speaker_original = "リーナ"
+speaker_translation = "리나"
+original = "「え、行きすぎ！？\u3000じゃあこっち？」"
+translation = "「에, 너무 갔어!? 그럼 이쪽?」"
+
+[[dialogue]]
+speaker_original = "リーナ"
+speaker_translation = "리나"
+original = "「また行きすぎ？\u3000も～、難しいよぉ、お兄ちゃんっ。……そうだ、お兄ちゃんが直接リーナを動かしてよ」"
+translation = "「또 너무 갔어? 정말~ 어려워, 오빠아. ……맞다, 오빠가 직접 리나를 움직여줘」"
+
+[[dialogue]]
+speaker = "unk"
+original = "直接？"
+translation = "직접?"
+
+[[dialogue]]
+speaker_original = "リーナ"
+speaker_translation = "리나"
+original = "「うん。お兄ちゃんはリーナの後ろに立って、肩を持ってリーナを動かして。そうすれば分かりやすいよ」"
+translation = "「응. 오빠는 리나 뒤에 서서 어깨를 잡고 리나를 움직여줘. 그러면 알기 쉽잖아」"
+
+[[dialogue]]
+speaker_original = "リーナ"
+speaker_translation = "리나"
+original = "「いいでしょ？\u3000ね？」"
+translation = "「괜찮지? 응?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "リーナがそう言うなら……"
+translation = "리나가 그렇게 말한다면……"
+
+[[dialogue]]
+speaker_original = "リーナ"
+speaker_translation = "리나"
+original = "「あっ<emoji=heart04>」"
+translation = "「앗<emoji=heart04>」"
+
+[[dialogue]]
+speaker_original = "リーナ"
+speaker_translation = "리나"
+original = "「ごめんね、変な声出して。目隠ししてるから、お兄ちゃんの手にびっくりしちゃった」"
+translation = "「미안해, 이상한 소리 내서. 눈 가리고 있으니까 오빠 손에 깜짝 놀랐어」"
+
+[[dialogue]]
+speaker = "unk"
+original = "じゃあ動かすよ"
+translation = "그럼 움직인다"
+
+[[dialogue]]
+speaker_original = "リーナ"
+speaker_translation = "리나"
+original = "「お兄ちゃん、優しく動かしてね。リーナ、今見えないから急に動かすと怖いよ」"
+translation = "「오빠, 살살 움직여줘. 리나, 지금 안 보이니까 갑자기 움직이면 무서워」"
+
+[[dialogue]]
+speaker_original = "リーナ"
+speaker_translation = "리나"
+original = "「……うん、そう。ゆっくり優しくね。お兄ちゃんの手、あったかくて大好き」"
+translation = "「……응, 그래. 천천히 상냥하게. 오빠 손, 따뜻해서 정말 좋아」"
+
+[[dialogue]]
+speaker_original = "リーナ"
+speaker_translation = "리나"
+original = "「ここでいいんだね？\u3000じゃあ割るよっ！\u3000せーの、チクチクバット！」"
+translation = "「여기면 되는 거지? 그럼 깬다! 하나 둘, 따끔따끔 배트!」"
+
+[[dialogue]]
+speaker_original = "リーナ"
+speaker_translation = "리나"
+original = "「当たった！？\u3000……あ、あれ？\u3000やりすぎちゃった？\u3000スイカが粉々になってる……」"
+translation = "「맞았어!? ……어, 어라? 너무 세게 했나? 수박이 산산조각 났어……」"
+
+[[dialogue]]
+speaker_original = "リーナ"
+speaker_translation = "리나"
+original = "「ど、どうしようお兄ちゃん……」"
+translation = "「어, 어쩌지 오빠……」"
+
+[[dialogue]]
+speaker = "unk"
+original = "もう一度やろう！"
+translation = "다시 한번 하자!"
+
+[[dialogue]]
+speaker_original = "リーナ"
+speaker_translation = "리나"
+original = "「うん！\u3000お兄ちゃんが一緒だもん、次はキレイにスイカ割ってみせるね！」"
+translation = "「응! 오빠가 함께니까, 다음엔 예쁘게 수박 깨보일게!」"
+
+[[dialogue]]
+speaker_original = "リーナ"
+speaker_translation = "리나"
+original = "「スイカ美味しいね、お兄ちゃん」"
+translation = "「수박 맛있다, 오빠」"
+
+[[dialogue]]
+speaker_original = "リーナ"
+speaker_translation = "리나"
+original = "「何度もスイカ粉々にしちゃったけど、ちゃんと綺麗に割れるようになったよ。えへへ～」"
+translation = "「몇 번이나 수박을 산산조각 냈지만, 결국 예쁘게 깰 수 있게 됐어. 에헤헤~」"
+
+[[dialogue]]
+speaker_original = "リーナ"
+speaker_translation = "리나"
+original = "「今日は楽しかった！\u3000ありがとう、お兄ちゃん。また遊びに連れて行ってね！」"
+translation = "「오늘은 즐거웠어! 고마워, 오빠. 또 놀러 데려가 줘!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "リーナの夢がいつ醒めるのかは分からない。いつまでお兄ちゃんでいるのかも。"
+translation = "리나의 꿈이 언제 깰지는 알 수 없다. 언제까지 오빠로 있을지도."
+
+[[dialogue]]
+speaker = "unk"
+original = "それでも、今日食べたスイカの味を忘れないと思う。"
+translation = "그렇지만 오늘 먹은 수박 맛은 잊지 않을 것이라 생각한다."
+

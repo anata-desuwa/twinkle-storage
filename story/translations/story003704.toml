@@ -1,0 +1,273 @@
+[[dialogue]]
+speaker_original = "リーナ"
+speaker_translation = "리나"
+original = "「レイラお姉ちゃん、キサナお姉ちゃん！\u3000こっちこっちー！」"
+translation = "「레이라 언니, 키사나 언니! 여기 여기ー!」"
+
+[[dialogue]]
+speaker_original = "レイラ"
+speaker_translation = "레이라"
+original = "「リーナ！\u3000ごめんね、遅くなって」"
+translation = "「리나! 미안해, 늦어서」"
+
+[[dialogue]]
+speaker_original = "リーナ"
+speaker_translation = "리나"
+original = "「それより見て見て！\u3000今日の獲物でございますー！」"
+translation = "「그것보다 봐봐! 오늘의 수확물입니다ー!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "リーナがぶんぶん振り回しているのは、アザラシに似た魔獣だ。さっき仕留めたところらしい。"
+translation = "리나가 붕붕 휘두르고 있는 것은 물개를 닮은 마수다. 방금 잡은 모양이다."
+
+[[dialogue]]
+speaker_original = "キサナ"
+speaker_translation = "키사나"
+original = "「それは……この辺にいる魔獣か？」"
+translation = "「그건…… 이 근처에 있는 마수인가?」"
+
+[[dialogue]]
+speaker_original = "リーナ"
+speaker_translation = "리나"
+original = "「うん。ジュリエッテちゃんが頭を狙うでございますって言ってたから、やってみたらできたの！」"
+translation = "「응. 줄리에트 짱이 머리를 노리라고 했으니까 해봤더니 됐어!」"
+
+[[dialogue]]
+speaker_original = "レイラ"
+speaker_translation = "레이라"
+original = "「そ、そっか……リーナは狩り上手だね」"
+translation = "「그, 그렇구나…… 리나는 사냥을 잘하네」"
+
+[[dialogue]]
+speaker_original = "キサナ"
+speaker_translation = "키사나"
+original = "「よし、とりあえず焼いて食おうぜ。レイラ、火ぃおこせ。アタシが捌く」"
+translation = "「좋아, 우선 구워 먹자고. 레이라, 불 피워. 내가 손질할게」"
+
+[[dialogue]]
+speaker_original = "レイラ"
+speaker_translation = "레이라"
+original = "「はいはい。リーナ、まき拾い手伝ってくれる？」"
+translation = "「네네. 리나, 땔감 줍는 것 좀 도와줄래?」"
+
+[[dialogue]]
+speaker_original = "リーナ"
+speaker_translation = "리나"
+original = "「は～い。ごはんごはん～♪」"
+translation = "「네~에. 밥이다 밥이다~♪」"
+
+[[dialogue]]
+speaker_original = "レイラ"
+speaker_translation = "레이라"
+original = "「お客様。本日のメインディッシュ、その辺にいた魔獣の丸焼きでございます」"
+translation = "「손님. 오늘의 메인 디시, 근처에 있던 마수 통구이입니다」"
+
+[[dialogue]]
+speaker_original = "キサナ"
+speaker_translation = "키사나"
+original = "「うるせえ。変な小芝居してんじゃねえよ」"
+translation = "「시끄러워. 이상한 상황극 하지 마」"
+
+[[dialogue]]
+speaker = "unk"
+original = "そう吐き捨てながらも、キサナは手際よく丸焼きを切り分けていく。"
+translation = "그렇게 내뱉으면서도 키사나는 능숙하게 통구이를 잘라 나간다."
+
+[[dialogue]]
+speaker_original = "リーナ"
+speaker_translation = "리나"
+original = "「いっただきまーす♪\u3000……これ、おいしくないかも。なんか生ぐさい……」"
+translation = "「잘 먹겠습니다~♪ ……이거 맛없을지도. 왠지 비린내 나……」"
+
+[[dialogue]]
+speaker_original = "レイラ"
+speaker_translation = "레이라"
+original = "「ひゅごっ……もぐもぐ……やっぱり味付けが海水だけだとさすがに食べにくいね……ひゅごっ……ジュリエッテがいてくれればよかったんだけど」"
+translation = "「휴고…… 우물우물…… 역시 간을 바닷물로만 하니 확실히 먹기 힘드네…… 휴고…… 줄리에트가 있어줬으면 좋았을 텐데」"
+
+[[dialogue]]
+speaker_original = "キサナ"
+speaker_translation = "키사나"
+original = "「食うかしゃべるかどっちかにしろ」"
+translation = "「처먹든가 말하든가 둘 중 하나만 해」"
+
+[[dialogue]]
+speaker_original = "レイラ"
+speaker_translation = "레이라"
+original = "「ひゅごっ……もぐもぐ……ひゅごっ……もぐもぐ……」"
+translation = "「휴고…… 우물우물…… 휴고…… 우물우물……」"
+
+[[dialogue]]
+speaker_original = "キサナ"
+speaker_translation = "키사나"
+original = "「食う方に集中すんのかよ。……ったく。アタシが言うのもアレだが、オマエもよくコイツについていこうと思ったな」"
+translation = "「처먹는 거에 집중하는 거냐. ……참나. 내가 말하는 것도 그렇지만, 너도 참 이 녀석을 잘도 따라오기로 했구먼」"
+
+[[dialogue]]
+speaker_original = "リーナ"
+speaker_translation = "리나"
+original = "「リーナ、よく覚えてないんだけど……気が付いたら、病院にひとりでいたの」"
+translation = "「리나, 잘 기억은 안 나지만…… 정신을 차려보니 병원에 혼자 있었어」"
+
+[[dialogue]]
+speaker_original = "リーナ"
+speaker_translation = "리나"
+original = "「お父さんもお母さんもお兄ちゃんもいなくって……ナースさんに聞いても、誰も教えてくれないし……リーナ、寂しくて死んじゃいそうだった」"
+translation = "「아빠도 엄마도 오빠도 없어서…… 간호사 언니한테 물어봐도 아무도 안 알려주고…… 리나, 외로워서 죽을 것 같았어」"
+
+[[dialogue]]
+speaker_original = "リーナ"
+speaker_translation = "리나"
+original = "「そんなときに、レイラお姉ちゃんが会いに来てくれたんだ」"
+translation = "「그럴 때 레이라 언니가 만나러 와준 거야」"
+
+[[dialogue]]
+speaker_original = "リーナ"
+speaker_translation = "리나"
+original = "「レイラお姉ちゃんはね、一緒に『お兄ちゃんを探そう』って言ってくれたの！」"
+translation = "「레이라 언니는 말이야, 같이 『오빠를 찾자』고 말해줬어!」"
+
+[[dialogue]]
+speaker_original = "リーナ"
+speaker_translation = "리나"
+original = "「リーナにそう言ってくれたの、レイラお姉ちゃんだけだったからすっごく嬉しかった！」"
+translation = "「리나한테 그렇게 말해준 거 레이라 언니뿐이라서 정말 기뻤어!」"
+
+[[dialogue]]
+speaker_original = "レイラ"
+speaker_translation = "레이라"
+original = "「そ、そうなんだ……あはは……」"
+translation = "「그, 그렇구나…… 아하하……」"
+
+[[dialogue]]
+speaker_original = "レイラ"
+speaker_translation = "레이라"
+original = "（リーナと出会ったのは、白い、無機質な病室だった……）"
+translation = "（리나와 만난 건 하얗고 무기질적인 병실이었지……）"
+
+[[dialogue]]
+speaker_original = "レイラ"
+speaker_translation = "레이라"
+original = "（イザベラさんから、交通事故に遭った女の子がコラプサーに目覚めたと言われ、リーナに会いに行った）"
+translation = "（이사벨라 씨로부터 교통사고를 당한 여자아이가 콜랩서로 각성했다는 말을 듣고 리나를 만나러 갔어）"
+
+[[dialogue]]
+speaker_original = "レイラ"
+speaker_translation = "레이라"
+original = "（家族を失った彼女になんて声をかけていいか分からないけど、それでも、ひとりぼっちにさせちゃいけないと思って）"
+translation = "（가족을 잃은 그녀에게 어떤 말을 건네야 할지 몰랐지만, 그래도 혼자 있게 두어서는 안 된다고 생각해서）"
+
+[[dialogue]]
+speaker_original = "レイラ"
+speaker_translation = "레이라"
+original = "（でもリーナが口にしたのは、予想外の言葉だった……）"
+translation = "（하지만 리나가 꺼낸 말은 예상 밖의 것이었어……）"
+
+[[dialogue]]
+speaker_original = "リーナ"
+speaker_translation = "리나"
+original = "「お兄ちゃん……お兄ちゃんがどこにもいないの」"
+translation = "「오빠…… 오빠가 어디에도 없어」"
+
+[[dialogue]]
+speaker_original = "レイラ"
+speaker_translation = "레이라"
+original = "「え……？」"
+translation = "「에……?」"
+
+[[dialogue]]
+speaker_original = "レイラ"
+speaker_translation = "레이라"
+original = "（リーナには、リーナが生まれる前に亡くなったお兄さんがいた。リーナの両親が、何かにつけてそのお兄さんの話をすることもイザベラさんから聞いていた）"
+translation = "（리나에겐 리나가 태어나기 전에 세상을 떠난 오빠가 있었어. 리나의 부모님이 틈만 나면 그 오빠 이야기를 했다는 것도 이사벨라 씨에게 들었지）"
+
+[[dialogue]]
+speaker_original = "レイラ"
+speaker_translation = "레이라"
+original = "（でも、そのお兄さんを探しているなんて、思いもしなかった）"
+translation = "（하지만 그 오빠를 찾고 있을 줄은 꿈에도 몰랐어）"
+
+[[dialogue]]
+speaker_original = "リーナ"
+speaker_translation = "리나"
+original = "「リーナ、いらない子なの？\u3000だからお父さんもお母さんもお兄ちゃんも迎えに来てくれないの？」"
+translation = "「리나, 필요 없는 아이야? 그래서 아빠도 엄마도 오빠도 데리러 오지 않는 거야?」"
+
+[[dialogue]]
+speaker_original = "レイラ"
+speaker_translation = "레이라"
+original = "「そんなことないよ。今、お父さんとお母さんは遠いところにいて迎えに来れないの。だから私が来たんだ」"
+translation = "「그렇지 않아. 지금 아빠랑 엄마는 먼 곳에 있어서 데리러 올 수 없는 거야. 그래서 내가 온 거야」"
+
+[[dialogue]]
+speaker_original = "リーナ"
+speaker_translation = "리나"
+original = "「お兄ちゃんは？\u3000……お兄ちゃんはどこにいるの？」"
+translation = "「오빠는? ……오빠는 어디 있어?」"
+
+[[dialogue]]
+speaker_original = "レイラ"
+speaker_translation = "레이라"
+original = "「……お兄ちゃんは迷子みたい。だから一緒に探しに行こう？」"
+translation = "「……오빠는 길을 잃었나 봐. 그러니까 같이 찾으러 갈까?」"
+
+[[dialogue]]
+speaker_original = "リーナ"
+speaker_translation = "리나"
+original = "「ホントに！？\u3000ありがとう、お姉ちゃん！」"
+translation = "「정말!? 고마워, 언니!」"
+
+[[dialogue]]
+speaker_original = "レイラ"
+speaker_translation = "레이라"
+original = "（私はリーナの入院記録をハッキングで消して、リーナを連れて帰った。ここには……ううん、どこにもリーナの居場所はないと思ったから）"
+translation = "（나는 리나의 입원 기록을 해킹으로 지우고 리나를 데리고 나왔어. 여기엔…… 아니, 어디에도 리나의 자리는 없다고 생각했으니까）"
+
+[[dialogue]]
+speaker_original = "リーナ"
+speaker_translation = "리나"
+original = "「すぅー……すぅー……」"
+translation = "「쌔근…… 쌔근……」"
+
+[[dialogue]]
+speaker_original = "レイラ"
+speaker_translation = "레이라"
+original = "「ふふっ、疲れて寝ちゃった。今日一日だけでもいろいろあったもんね」"
+translation = "「후훗, 피곤해서 잠들었네. 오늘 하루만 해도 참 여러 일이 있었으니까 말야」"
+
+[[dialogue]]
+speaker_original = "キサナ"
+speaker_translation = "키사나"
+original = "「コイツ、どうするつもりだよ。このまま狂ったままにしとくのか？」"
+translation = "「이 녀석 어떻게 할 생각이야. 이대로 미친 채로 둘 거냐?」"
+
+[[dialogue]]
+speaker_original = "レイラ"
+speaker_translation = "레이라"
+original = "「リーナはね、夢を見ているの。いないはずのお兄ちゃんが本当にいたらっていう夢を」"
+translation = "「리나는 말이야, 꿈을 꾸고 있는 거야. 있을 리 없는 오빠가 정말로 있다면 하는 꿈을」"
+
+[[dialogue]]
+speaker_original = "レイラ"
+speaker_translation = "레이라"
+original = "「私もね、何度も夢に見た。両親が死んだのが悪い夢で、本当は生きてるっていう夢。だから、その夢を無理に覚まそうとはしないよ」"
+translation = "「나도 말이야, 몇 번이나 꿈에서 봤어. 부모님이 돌아가신 게 나쁜 꿈이고 사실은 살아계시는 꿈. 그러니까 그 꿈을 억지로 깨우려 하지는 않을 거야」"
+
+[[dialogue]]
+speaker_original = "レイラ"
+speaker_translation = "레이라"
+original = "「リーナの目が覚めるまで、私は待つから」"
+translation = "「리나가 눈을 뜰 때까지 내가 기다릴 테니까」"
+
+[[dialogue]]
+speaker_original = "キサナ"
+speaker_translation = "키사나"
+original = "「はっ、そうかよ。好きにしろ」"
+translation = "「하, 그렇냐. 마음대로 해」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ぱちぱちと音を上げ、薪が爆ぜた。焚き火の炎が静寂に溶けていく。"
+translation = "타닥타닥 소리를 내며 장작이 튀었다. 모닥불의 불꽃이 정적 속으로 녹아든다."
+

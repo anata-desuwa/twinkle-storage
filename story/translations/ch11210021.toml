@@ -1,0 +1,312 @@
+[[dialogue]]
+speaker = "unk"
+original = "第１話,あなたの傍で,P"
+translation = "제1화, 당신 곁에서"
+
+[[dialogue]]
+speaker = "unk"
+original = "『ＸＥＬＯＳ』との決戦から少し経ち、学園には日常が戻りつつあった。"
+translation = "『XELOS』와의 결전으로부터 조금 시간이 흘러 학원에는 일상이 돌아오고 있었다."
+
+[[dialogue]]
+speaker = "unk"
+original = "放課後の星徒会室に、いつかのようにノックが響く。"
+translation = "방과 후 성도회실에 여느 때처럼 노크 소리가 울린다."
+
+[[dialogue]]
+speaker_original = "レイラ"
+speaker_translation = "레이라"
+original = "「失礼します」"
+translation = "「실례합니다」"
+
+[[dialogue]]
+speaker_original = "レイラ"
+speaker_translation = "레이라"
+original = "「っ！\u3000魔王さんっ！」"
+translation = "「앗! 마왕님!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "レイラにいきなり抱き締められた。柔らかい感触が、匂いが、俺を包む。"
+translation = "레이라에게 갑자기 껴안겼다. 부드러운 감촉이, 향기가 나를 감싼다."
+
+[[dialogue]]
+speaker = "unk"
+original = "……レイラ？"
+translation = "……레이라?"
+
+[[dialogue]]
+speaker_original = "レイラ"
+speaker_translation = "레이라"
+original = "「ごめんなさい。こんなことするために来たんじゃないのに」"
+translation = "「죄송해요. 이런 짓 하러 온 게 아닌데」"
+
+[[dialogue]]
+speaker_original = "レイラ"
+speaker_translation = "레이라"
+original = "「でも魔王さんの顔を見たら、いてもたってもいられなくて……本当に、本当に無事でよかった」"
+translation = "「하지만 마왕님 얼굴을 보니까 가만히 있을 수가 없어서…… 정말로, 정말로 무사해서 다행이에요」"
+
+[[dialogue]]
+speaker_original = "レイラ"
+speaker_translation = "레이라"
+original = "「ずっと、あなたの傍にいたかった。でも叶わなくて……だから、今だけは魔王さんを感じさせてください」"
+translation = "「계속 당신 곁에 있고 싶었어요. 하지만 이루어지지 않아서…… 그러니까 지금만은 마왕님을 느끼게 해주세요」"
+
+[[dialogue]]
+speaker = "unk"
+original = "俺を抱き締める腕の力が強くなる。それに応えようと、俺もレイラを抱き締める。"
+translation = "나를 껴안는 팔에 힘이 들어간다. 그에 응하듯 나도 레이라를 껴안는다."
+
+[[dialogue]]
+speaker_original = "レイラ"
+speaker_translation = "레이라"
+original = "「魔王さん……」"
+translation = "「마왕님……」"
+
+[[dialogue]]
+speaker = "unk"
+original = "レイラが目をつむる。そして、お互いの唇が近付いて──"
+translation = "레이라가 눈을 감는다. 그리고 서로의 입술이 가까워져서──"
+
+[[dialogue]]
+speaker_original = "コハルコ"
+speaker_translation = "쿠하루코"
+original = "「あのー……」"
+translation = "「저기~……」"
+
+[[dialogue]]
+speaker_original = "レイラ"
+speaker_translation = "레이라"
+original = "「アイエエエェェッ！？」"
+translation = "「아이에에에엑!?」"
+
+[[dialogue]]
+speaker_original = "レイラ"
+speaker_translation = "레이라"
+original = "「コハルコさんナンデェ！？\u3000いつからそこに！？」"
+translation = "「코하루코 씨 난데에!? 언제부터 거기에!?」"
+
+[[dialogue]]
+speaker_original = "コハルコ"
+speaker_translation = "쿠하루코"
+original = "「いや、最初からいたよ。書類の提出で来てたんだけど、会長さんも途中から忘れてたでしょ」"
+translation = "「아니, 처음부터 있었어. 서류 제출하러 왔는데 회장님도 중간부터 잊고 있었지?」"
+
+[[dialogue]]
+speaker_original = "レイラ"
+speaker_translation = "레이라"
+original = "「はぁはぁ……今世紀最大にビックリした……心臓ないなった……」"
+translation = "「하아 하아…… 이번 세기 최대급으로 놀랐어…… 심장 없어졌어……」"
+
+[[dialogue]]
+speaker_original = "コハルコ"
+speaker_translation = "쿠하루코"
+original = "「目の前で当然のように２人の世界に突入するし、私もびっくりしたよ。会長さんとレイラってそういう関係だったんだ？」"
+translation = "「눈앞에서 당연하다는 듯이 둘만의 세계에 돌입하고 말야, 나도 깜짝 놀랐어. 회장님이랑 레이라는 그런 관계였어?」"
+
+[[dialogue]]
+speaker_original = "レイラ"
+speaker_translation = "레이라"
+original = "「えっと、それは、その……以前からこっそり、２人でお出かけとかしてます……」"
+translation = "「그게, 그건, 그…… 이전부터 몰래 둘이서 외출하거나 하고 있어요……」"
+
+[[dialogue]]
+speaker_original = "コハルコ"
+speaker_translation = "쿠하루코"
+original = "「ふ～ん。そっかそっか。でも意外だな。レイラ、リアルの男の子とか興味あったんだなって」"
+translation = "「흐~음. 그렇구나 그렇구나. 근데 의외네. 레이라, 현실 남자애 같은 거에 흥미 있었구나 해서」"
+
+[[dialogue]]
+speaker_original = "レイラ"
+speaker_translation = "레이라"
+original = "「え～。それ、コハルコさんが言います？\u3000コハルコさんこそ架空の触手やらにご執心なのでは……」"
+translation = "「에~. 그걸 코하루코 씨가 말해요? 코하루코 씨야말로 가공의 촉수 같은 거에 집착하시는 거 아니에요……?」"
+
+[[dialogue]]
+speaker_original = "コハルコ"
+speaker_translation = "쿠하루코"
+original = "「レイラ。それ以上言ったら体育館裏に来てもらうからね？」"
+translation = "「레이라. 그 이상 말하면 체육관 뒤로 불러낼 거야?」"
+
+[[dialogue]]
+speaker_original = "レイラ"
+speaker_translation = "레이라"
+original = "「ずみまぜん！\u3000失礼しましたぁ！」"
+translation = "「죄송함돠! 실례했습니다아!」"
+
+[[dialogue]]
+speaker_original = "コハルコ"
+speaker_translation = "쿠하루코"
+original = "「それにしても会長さんとレイラが付き合ってるなんてね。命のやり取りした相手なのに……まぁ私もレイラと仲良くしてるし、今更かな」"
+translation = "「그건 그렇고 회장님이랑 레이라가 사귀다니 말야. 목숨을 주고받았던 상대인데…… 뭐 나도 레이라랑 사이좋게 지내고 있고, 이제 와서인가」"
+
+[[dialogue]]
+speaker_original = "レイラ"
+speaker_translation = "레이라"
+original = "「お付き合いしているわけでは……私が一方的にお慕いしてるというか……」"
+translation = "「사귀고 있는 건 아니고요…… 제가 일방적으로 사모하고 있다고 해야 할까……」"
+
+[[dialogue]]
+speaker_original = "コハルコ"
+speaker_translation = "쿠하루코"
+original = "「キスする３秒前でそれは無理があるって。逆にこれで付き合ってなかったら会長さんがだらしなさすぎる」"
+translation = "「키스하기 3초 전인데 그건 무리가 있지. 반대로 이걸로 안 사귀는 거면 회장님이 너무 우유부단한 거야」"
+
+[[dialogue]]
+speaker_original = "レイラ"
+speaker_translation = "레이라"
+original = "「でも私はコラプサーで、星騎士のみなさんを傷付けた身です。異性と交際なんて不謹慎ではないでしょうか」"
+translation = "「하지만 저는 콜랩서로 성기사 여러분을 상처 입힌 몸이에요. 이성과 교제라니 불경하지 않을까요」"
+
+[[dialogue]]
+speaker_original = "レイラ"
+speaker_translation = "레이라"
+original = "「ましてや、魔王さんは星騎士を束ねる星徒会長です。私とお付き合いなんてことになったら、魔王さんにも累が及ぶのではないかと心配なんです」"
+translation = "「하물며 마왕님은 성기사를 이끄는 성도회장이에요. 저랑 사귀게 된다면 마왕님께도 화가 미치지 않을까 걱정돼요」"
+
+[[dialogue]]
+speaker_original = "コハルコ"
+speaker_translation = "쿠하루코"
+original = "「それこそ今更だと思うけどなぁ。でも、レイラは会長さんのこと好きなんでしょ？」"
+translation = "「그거야말로 이제 와서라고 생각하는데 말야. 근데 레이라는 회장님 좋아하잖아?」"
+
+[[dialogue]]
+speaker_original = "レイラ"
+speaker_translation = "레이라"
+original = "「はい。この気持ちに偽りはありません」"
+translation = "「네. 이 마음에는 거짓이 없어요」"
+
+[[dialogue]]
+speaker_original = "コハルコ"
+speaker_translation = "쿠하루코"
+original = "「会長さんは？」"
+translation = "「회장님은?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "俺もレイラが好きです"
+translation = "나도 레이라를 좋아해"
+
+[[dialogue]]
+speaker_original = "コハルコ"
+speaker_translation = "쿠하루코"
+original = "「うん。じゃあ何も問題ないね。付き合っちゃえ付き合っちゃえ」"
+translation = "「응. 그럼 아무 문제 없네. 사귀어버려 사귀어버려」"
+
+[[dialogue]]
+speaker_original = "レイラ"
+speaker_translation = "레이라"
+original = "「でも……」"
+translation = "「하지만……」"
+
+[[dialogue]]
+speaker_original = "コハルコ"
+speaker_translation = "쿠하루코"
+original = "「レイラ、おいで」"
+translation = "「레이라, 이리 와」"
+
+[[dialogue]]
+speaker_original = "レイラ"
+speaker_translation = "레이라"
+original = "「え……？」"
+translation = "「에……?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "コハルコさんがレイラを抱き締め、頭をなでる。まるで姉が妹にそうするように。"
+translation = "코하루코 씨가 레이라를 껴안고 머리를 쓰다듬는다. 마치 언니가 여동생에게 그러하듯."
+
+[[dialogue]]
+speaker_original = "レイラ"
+speaker_translation = "레이라"
+original = "「コハルコさん？」"
+translation = "「코하루코 씨?」"
+
+[[dialogue]]
+speaker_original = "コハルコ"
+speaker_translation = "쿠하루코"
+original = "「レイラやコラプサーのみんながいろんなところで戦ってきたの、私は知ってるよ。もうあなたたちは星騎士の敵じゃない。私が保証する」"
+translation = "「레이라나 콜랩서 모두가 여러 곳에서 싸워온 거, 난 알고 있어. 이제 당신들은 성기사의 적이 아니야. 내가 보증할게」"
+
+[[dialogue]]
+speaker_original = "コハルコ"
+speaker_translation = "쿠하루코"
+original = "「レイラこそ、無事に帰ってきてくれてよかった。おかえり」"
+translation = "「레이라야말로 무사히 돌아와 줘서 다행이야. 어서 와」"
+
+[[dialogue]]
+speaker_original = "レイラ"
+speaker_translation = "레이라"
+original = "「……いつもご心配おかけしてます」"
+translation = "「……항상 걱정 끼쳐 드려 죄송해요」"
+
+[[dialogue]]
+speaker_original = "コハルコ"
+speaker_translation = "쿠하루코"
+original = "「もう、本当だよ。……誰かに何か言われても大丈夫、私は味方だから。レイラは幸せになっていいんだよ」"
+translation = "「정말, 정말이야. ……누가 뭐라고 해도 괜찮아, 내가 편이니까. 레이라는 행복해져도 돼」"
+
+[[dialogue]]
+speaker_original = "レイラ"
+speaker_translation = "레이라"
+original = "「コハルコさん。……はい、ありがとうございます」"
+translation = "「코하루코 씨. ……네, 감사합니다」"
+
+[[dialogue]]
+speaker_original = "コハルコ"
+speaker_translation = "쿠하루코"
+original = "「会長さんも、付き合うんだったらちゃんと彼女を守ってあげないとダメだよ。私の友達、泣かせたら怒るからね」"
+translation = "「회장님도, 사귈 거면 제대로 그녀를 지켜줘야 해. 내 친구 울리면 화낼 거니까」"
+
+[[dialogue]]
+speaker_original = "コハルコ"
+speaker_translation = "쿠하루코"
+original = "「書類は机に置いとくから、後で読んでおいて。じゃ、お邪魔虫は退散するよ」"
+translation = "「서류는 책상에 둘 테니까 나중에 읽어둬. 그럼 방해꾼은 퇴장할게」"
+
+[[dialogue]]
+speaker_original = "レイラ"
+speaker_translation = "레이라"
+original = "「コハルコさん、行っちゃいましたね……」"
+translation = "「코하루코 씨, 가버렸네요……」"
+
+[[dialogue]]
+speaker_original = "レイラ"
+speaker_translation = "레이라"
+original = "「私、本当に魔王さんとお付き合いしてもいいんでしょうか……？」"
+translation = "「저, 정말로 마왕님과 사귀어도 되는 걸까요……?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "レイラの顔に戸惑いの色が浮かぶ。でも、この先は俺から言わなくちゃ。"
+translation = "레이라의 얼굴에 당혹스러운 빛이 어린다. 하지만 이 다음은 내가 말해야 해."
+
+[[dialogue]]
+speaker = "unk"
+original = "レイラが好きだ。俺と付き合ってほしい"
+translation = "레이라를 좋아해. 나랑 사귀어줘"
+
+[[dialogue]]
+speaker_original = "レイラ"
+speaker_translation = "레이라"
+original = "「っ！」"
+translation = "「앗!」"
+
+[[dialogue]]
+speaker_original = "レイラ"
+speaker_translation = "레이라"
+original = "「はい。……不束者ですけど、よろしくお願いします」"
+translation = "「네. ……부족한 사람이지만, 잘 부탁드립니다」"
+
+[[dialogue]]
+speaker = "unk"
+original = "レイラが再び目を閉じる。俺も目を閉じ──"
+translation = "레이라가 다시 눈을 감는다. 나도 눈을 감고──"
+
+[[dialogue]]
+speaker_original = "レイラ"
+speaker_translation = "레이라"
+original = "「ちゅっ」"
+translation = "「쪽」"
+

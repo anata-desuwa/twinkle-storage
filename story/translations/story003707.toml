@@ -1,0 +1,248 @@
+[[dialogue]]
+speaker_original = "モンスター"
+speaker_translation = "몬스터"
+original = "「ンギャァアアアッス！！」"
+translation = "「응갸아아아악!!」"
+
+[[dialogue]]
+speaker_original = "モンスター"
+speaker_translation = "몬스터"
+original = "「ンゴォォォッ！！」"
+translation = "「응고오오오!!」"
+
+[[dialogue]]
+speaker_original = "リーナ"
+speaker_translation = "리나"
+original = "「あはは、モンスターいっぱいいるー！」"
+translation = "「아하하, 몬스터가 잔뜩 있어─!」"
+
+[[dialogue]]
+speaker_original = "イングリット"
+speaker_translation = "잉그리드"
+original = "「……邪魔をするな。私の獲物だっ！」"
+translation = "「……방해하지 마라. 내 사냥감이다!」"
+
+[[dialogue]]
+speaker_original = "キサナ"
+speaker_translation = "키사나"
+original = "「だってよ、どうする？」"
+translation = "「라고 하는데, 어쩔 거야?」"
+
+[[dialogue]]
+speaker_original = "レイラ"
+speaker_translation = "레이라"
+original = "「知ーらない。コラプサーの首領は私だもん。行くよ、キサナ、リーナ！」"
+translation = "「모─올라. 콜랩서의 수령은 나인걸. 가자, 키사나, 리나!」"
+
+[[dialogue]]
+speaker_original = "キサナ"
+speaker_translation = "키사나"
+original = "「よっしゃ、ひと暴れすっか！\u3000来い、雑魚モンスターども！」"
+translation = "「좋아, 한바탕 날뛰어볼까! 이리 와라, 잡동사니 몬스터 놈들!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "キサナの銃撃がイングリットを取り囲んでいたモンスターに降り注いだ。攻撃を受けたモンスターの注意がキサナへ向く。"
+translation = "키사나의 총격이 잉그리드를 에워싸고 있던 몬스터들에게 쏟아졌다. 공격을 받은 몬스터의 주의가 키사나에게로 향한다."
+
+[[dialogue]]
+speaker_original = "イングリット"
+speaker_translation = "잉그리드"
+original = "「ちっ、余計なことを」"
+translation = "「칫, 쓸데없는 짓을」"
+
+[[dialogue]]
+speaker_original = "キサナ"
+speaker_translation = "키사나"
+original = "「言ってろ！」"
+translation = "「말은 잘해요!」"
+
+[[dialogue]]
+speaker_original = "リーナ"
+speaker_translation = "리나"
+original = "「スイカ割りできなかったから、代わりにモンスター割りするね！」"
+translation = "「수박 깨기를 못 했으니까 대신 몬스터 깨기를 할게!」"
+
+[[dialogue]]
+speaker_original = "モンスター"
+speaker_translation = "몬스터"
+original = "「ギャッ！？」"
+translation = "「갹!?」"
+
+[[dialogue]]
+speaker_original = "リーナ"
+speaker_translation = "리나"
+original = "「そ～れ♪」"
+translation = "「영─차♪」"
+
+[[dialogue]]
+speaker_original = "リーナ"
+speaker_translation = "리나"
+original = "「あははは！\u3000えい！\u3000えい！\u3000えい！」"
+translation = "「아하하하! 에잇! 에잇! 에잇!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "リーナがバットを振り回すたび、モンスターが木っ端微塵に砕けていく。"
+translation = "리나가 배트를 휘두를 때마다 몬스터가 가루가 되어 부서져 나간다."
+
+[[dialogue]]
+speaker_original = "レイラ"
+speaker_translation = "레이라"
+original = "「ＯＨ～、ワイルド……。じゃあ私も……それ！」"
+translation = "「오우~, 와일드한데…… 그럼 나도…… 에잇!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "モンスターの頭上にマイクロブラックホールが落ち、触れたそばからモンスターが形を歪めながら吸い込まれていく。"
+translation = "몬스터의 머리 위로 마이크로 블랙홀이 떨어지고, 닿는 족족 몬스터가 형태를 일그러뜨리며 빨려 들어간다."
+
+[[dialogue]]
+speaker_original = "イングリット"
+speaker_translation = "잉그리드"
+original = "「……くっ、私ひとりで、十分だと言っているだろう……！」"
+translation = "「……큭, 나 혼자서 충분하다고 말하고 있잖나……!」"
+
+[[dialogue]]
+speaker_original = "キサナ"
+speaker_translation = "키사나"
+original = "「はっ、そう言いながらフラフラじゃねぇか。それにテメェに指図される謂れはねぇ！」"
+translation = "「핫, 그렇게 말하면서 비틀거리고 있잖아. 게다가 네놈한테 지시받을 이유는 없거든!」"
+
+[[dialogue]]
+speaker_original = "キサナ"
+speaker_translation = "키사나"
+original = "「オラオラ、ハチの巣にされたいヤツからかかってこい！」"
+translation = "「오라오라, 벌집이 되고 싶은 녀석부터 덤벼라!」"
+
+[[dialogue]]
+speaker_original = "キサナ"
+speaker_translation = "키사나"
+original = "「ハハ！\u3000いつものも悪くねぇが、やっぱ銃は使いやすいな！」"
+translation = "「하하! 평소에 쓰던 것도 나쁘지 않지만 역시 총은 쓰기 편하구먼!」"
+
+[[dialogue]]
+speaker_original = "モンスター"
+speaker_translation = "몬스터"
+original = "「クルルァアッ！！」"
+translation = "「크르르아악!!」"
+
+[[dialogue]]
+speaker_original = "レイラ"
+speaker_translation = "레이라"
+original = "「リーナ、お願い！」"
+translation = "「리나, 부탁해!」"
+
+[[dialogue]]
+speaker_original = "リーナ"
+speaker_translation = "리나"
+original = "「うん、レイラお姉ちゃんの力受け取ったよ！」"
+translation = "「응, 레이라 언니의 힘을 받았어!」"
+
+[[dialogue]]
+speaker_original = "リーナ"
+speaker_translation = "리나"
+original = "「いっけー！\u3000トゲトゲスマーッシュ！」"
+translation = "「가랏─! 가시가시 스매─시!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "リーナのバットがモンスターを叩き潰し、衝撃でクーラーボックスが宙に投げ出される。"
+translation = "리나의 배트가 몬스터를 때려눕히고, 충격으로 아이스박스가 공중으로 튕겨 나간다."
+
+[[dialogue]]
+speaker_original = "レイラ"
+speaker_translation = "레이라"
+original = "「おっとっと……キャァッチ！\u3000クーラーボックス、獲ったどー！」"
+translation = "「어이쿠…… 캐치! 아이스박스 득템─!」"
+
+[[dialogue]]
+speaker_original = "キサナ"
+speaker_translation = "키사나"
+original = "「よし、大物は仕留めたな。こっちも片ぁつけんぞ」"
+translation = "「좋아, 대물은 처리했군. 이쪽도 마무리 짓자고」"
+
+[[dialogue]]
+speaker_original = "イングリット"
+speaker_translation = "잉그리드"
+original = "「……うるさい」"
+translation = "「……시끄러워」"
+
+[[dialogue]]
+speaker_original = "キサナ"
+speaker_translation = "키사나"
+original = "「あ？\u3000テメェ、なんかおかしいぞ。いや、いつも頭おかしいけどよ」"
+translation = "「어? 네놈, 상태가 좀 이상한데. 아니, 원래 머리가 이상하긴 했다만」"
+
+[[dialogue]]
+speaker_original = "キサナ"
+speaker_translation = "키사나"
+original = "「ま、そっちはレイラの仕事だ。アタシには関係ねえ」"
+translation = "「뭐, 저쪽은 레이라의 일이지. 나랑은 상관없어」"
+
+[[dialogue]]
+speaker_original = "キサナ"
+speaker_translation = "키사나"
+original = "「これで終わりだ！\u3000スプラッシュザッパー！」"
+translation = "「이걸로 끝이다! 스플래시 재퍼!」"
+
+[[dialogue]]
+speaker_original = "レイラ"
+speaker_translation = "레이라"
+original = "「イングリット、大丈夫！？」"
+translation = "「잉그리드, 괜찮아!?」"
+
+[[dialogue]]
+speaker_original = "イングリット"
+speaker_translation = "잉그리드"
+original = "「……これで、邪魔者はいなく、なった。私と、戦え……」"
+translation = "「……이걸로 방해꾼은 사라졌군. 나와 싸워라……」"
+
+[[dialogue]]
+speaker_original = "レイラ"
+speaker_translation = "레이라"
+original = "「イングリット！？」"
+translation = "「잉그리드!?」"
+
+[[dialogue]]
+speaker_original = "イングリット"
+speaker_translation = "잉그리드"
+original = "「すー……すー……」"
+translation = "「드르렁…… 드르렁……」"
+
+[[dialogue]]
+speaker_original = "レイラ"
+speaker_translation = "레이라"
+original = "「あ、寝てる……ふふ、寝顔だけは天使みたいなんだから」"
+translation = "「아, 자고 있어…… 후후, 자는 얼굴만큼은 천사 같다니까」"
+
+[[dialogue]]
+speaker_original = "リーナ"
+speaker_translation = "리나"
+original = "「イングリットお姉ちゃん、もともと天使だよ？」"
+translation = "「잉그리드 언니, 원래 천사야?」"
+
+[[dialogue]]
+speaker_original = "イングリット"
+speaker_translation = "잉그리드"
+original = "「むにゃ……ふはは、私の、勝ちだ……むにゃ……」"
+translation = "「음냐…… 푸하하, 내가 이겼다…… 음냐……」"
+
+[[dialogue]]
+speaker_original = "キサナ"
+speaker_translation = "키사나"
+original = "「こいつ、夢の中でも戦ってんのかよ……」"
+translation = "「이 녀석, 꿈속에서도 싸우고 있는 거냐……」"
+
+[[dialogue]]
+speaker_original = "レイラ"
+speaker_translation = "레이라"
+original = "「もう。イングリット、本当に変わらないんだから……つんつん」"
+translation = "「정말. 잉그리드, 정말 변하질 않는다니까…… 쿡쿡」"
+
+[[dialogue]]
+speaker_original = "イングリット"
+speaker_translation = "잉그리드"
+original = "「ん……んみゅ……」"
+translation = "「으응…… 음냐……」"
+

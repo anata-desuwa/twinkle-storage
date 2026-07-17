@@ -1,0 +1,254 @@
+[[dialogue]]
+speaker = "unk"
+original = "『<ruby>ＸＥＬＯＳ<rt>ゼロス</rt></ruby>』との決戦から数日。星騎士たちが激戦の疲れを癒す傍ら、ネビュラは慌ただしく活動していた。"
+translation = "『<ruby>XELOS<rt>제로스</rt></ruby>』와의 결전으로부터 며칠. 성기사들이 격전의 피로를 푸는 틈에 네뷸라는 분주하게 활동하고 있었다."
+
+[[dialogue]]
+speaker = "unk"
+original = "元凶である『<ruby>ＸＥＬＯＳ<rt>ゼロス</rt></ruby>』を倒したことで、リクリエのない世界は実現された。"
+translation = "원흉인 『<ruby>XELOS<rt>제로스</rt></ruby>』를 쓰러뜨림으로써 리크리에가 없는 세계가 실현되었다."
+
+[[dialogue]]
+speaker = "unk"
+original = "同時に世界はこれまでにない新しい段階に至った。この先何が起こるかは未知数であり、その調査で魔女たちは三界を駆け回っているのだ。"
+translation = "동시에 세계는 지금까지 없던 새로운 단계에 이르렀다. 앞으로 무슨 일이 일어날지는 미지수이며, 그 조사로 마녀들은 삼계를 뛰어다니고 있는 것이다."
+
+[[dialogue]]
+speaker = "unk"
+original = "それは当然、ネビュラに身を預ける彼女たちコラプサーも例外ではない。"
+translation = "그것은 당연히 네뷸라에 몸을 의탁한 그녀들 콜랩서도 예외는 아니다."
+
+[[dialogue]]
+speaker_original = "イニシュ"
+speaker_translation = "이니슈"
+original = "「極星学園の流星市国襲撃、天界防衛、『<ruby>ＸＥＬＯＳ<rt>ゼロス</rt></ruby>』との戦い等々、先の戦闘ではお疲れ様でした」"
+translation = "「극성학원의 유성시국 습격, 천계 방위, 『<ruby>XELOS<rt>제로스</rt></ruby>』와의 싸움 등등, 지난 전투에서는 수고 많으셨습니다」"
+
+[[dialogue]]
+speaker_original = "イニシュ"
+speaker_translation = "이니슈"
+original = "「今は休息を、と言いたいところですが、我々にはやるべきことがあります。──次の任務です」"
+translation = "「지금은 휴식을, 이라고 말하고 싶지만 우리에게는 해야 할 일이 있습니다. ──다음 임무입니다」"
+
+[[dialogue]]
+speaker_original = "レイラ"
+speaker_translation = "레이라"
+original = "（うぅ、イニシュさん、容赦ない……）"
+translation = "（으으, 이니슈 씨, 가차 없어……）"
+
+[[dialogue]]
+speaker_original = "レイラ"
+speaker_translation = "레이라"
+original = "（私たちコラプサーは、かつて星騎士の敵だったところを、ネビュラに戦闘員として拾ってもらった。だから仕方ないとは思うけど……）"
+translation = "（우리 콜랩서는 과거에 성기사의 적이었던 걸 네뷸라가 전투원으로 거두어줬어. 그러니까 어쩔 수 없다고는 생각하지만……）"
+
+[[dialogue]]
+speaker_original = "イニシュ"
+speaker_translation = "이니슈"
+original = "「任務内容は魔界の調査。マップを立体映像に表示します」"
+translation = "「임무 내용은 마계의 조사. 맵을 입체 영상으로 표시합니다」"
+
+[[dialogue]]
+speaker_original = "レイラ"
+speaker_translation = "레이라"
+original = "「ここは……魔界にいた時に聞いたことがあります。魔界の貴族に古くから愛されるリゾート地だとか」"
+translation = "「여기는…… 마계에 있을 때 들은 적이 있어요. 마계의 귀족들에게 오래전부터 사랑받는 리조트지라든가」"
+
+[[dialogue]]
+speaker_original = "ツェツィーリエ"
+speaker_translation = "체칠리에"
+original = "「そうそう、いいとこなんだよね～。だけどこの地点で不自然な空間の歪みが観測されてさ、コラプサーにはその調査にあたってもらいたいんだ」"
+translation = "「그래그래, 좋은 곳이지~. 하지만 이 지점에서 부자연스러운 공간 왜곡이 관측되어서 말이야, 콜랩서에겐 그 조사를 맡아줬으면 해」"
+
+[[dialogue]]
+speaker_original = "ツェツィーリエ"
+speaker_translation = "체칠리에"
+original = "「それじゃメンバー発表の前に……はい、レイラたちにアタシからプレゼント！」"
+translation = "「그럼 멤버 발표 전에…… 자, 레이라 일행에게 내가 주는 선물!」"
+
+[[dialogue]]
+speaker_original = "レイラ"
+speaker_translation = "레이라"
+original = "「これは……水着、ですか？」"
+translation = "「이건…… 수영복, 인가요?」"
+
+[[dialogue]]
+speaker_original = "ツェツィーリエ"
+speaker_translation = "체칠리에"
+original = "「ザッツライト！\u3000ネビュラ版水着戦闘服第２弾だよ。まぁ魔力じゃなくて星力稼働だから、正確にはネビュラ版ていうより再現版というべきかな？」"
+translation = "「댓츠 라이트! 네뷸라 버전 수영복 전투복 제2탄이야. 뭐 마력이 아니라 성력 가동이니까, 정확하게는 네뷸라 버전이라기보다 재현 버전이라고 해야 할까?」"
+
+[[dialogue]]
+speaker_original = "ツェツィーリエ"
+speaker_translation = "체칠리에"
+original = "「まぁ細かいことは置いといて、これ着ていってね～。一度着れば戦闘服として変身できるようになるから」"
+translation = "「뭐 세세한 건 제쳐두고, 이거 입고 가줘~. 한 번 입으면 전투복으로 변신할 수 있게 되니까」"
+
+[[dialogue]]
+speaker_original = "イニシュ"
+speaker_translation = "이니슈"
+original = "「今回の任務は人工戦闘服のテストも兼ねています。よって、メンバーは戦闘服が完成したレイラ、キサナ、リーナ、イングリットの４名です」"
+translation = "「이번 임무는 인공 전투복 테스트도 겸하고 있습니다. 따라서 멤버는 전투복이 완성된 레이라, 키사나, 리나, 잉그리드 4명입니다」"
+
+[[dialogue]]
+speaker_original = "イニシュ"
+speaker_translation = "이니슈"
+original = "「……これは捕捉ですが。今回の任務はあくまで調査です。必要なデータを取り終えたら自由行動でも構いません」"
+translation = "「……이건 보충입니다만. 이번 임무는 어디까지나 조사입니다. 필요한 데이터를 다 얻었다면 자유 행동을 해도 상관없습니다」"
+
+[[dialogue]]
+speaker_original = "レイラ"
+speaker_translation = "레이라"
+original = "「つまり、海でバカンス……ってコト！？」"
+translation = "「즉, 바다에서 바캉스……라는 거!?」"
+
+[[dialogue]]
+speaker_original = "イニシュ"
+speaker_translation = "이니슈"
+original = "「そうは言っていません。任務は確実に遂行してください」"
+translation = "「그렇게 말하지 않았습니다. 임무는 확실히 수행해 주십시오」"
+
+[[dialogue]]
+speaker_original = "レイラ"
+speaker_translation = "레이라"
+original = "「は、はい。失礼しました」"
+translation = "「네, 네. 실례했습니다」"
+
+[[dialogue]]
+speaker_original = "ツェツィーリエ"
+speaker_translation = "체칠리에"
+original = "「まぁまぁ、上官からはそう言うしかないからさ。あ、でも戦闘服のレポートはしっかりね？」"
+translation = "「자자, 상관으로서는 그렇게 말할 수밖에 없으니까. 아, 그래도 전투복 리포트는 확실히 해야 해?」"
+
+[[dialogue]]
+speaker_original = "レイラ"
+speaker_translation = "레이라"
+original = "「はい、かしこまりました」"
+translation = "「네, 잘 알겠습니다」"
+
+[[dialogue]]
+speaker_original = "イニシュ"
+speaker_translation = "이니슈"
+original = "「では、出発は明日です。速やかに準備を」"
+translation = "「그럼 출발은 내일입니다. 조속히 준비를」"
+
+[[dialogue]]
+speaker_original = "レイラ"
+speaker_translation = "레이라"
+original = "「というわけで海でバカンスだよ！\u3000ドンドンパフパフ～！」"
+translation = "「그런 고로 바다에서 바캉스야! 둥둥파프파프~!」"
+
+[[dialogue]]
+speaker_original = "リーナ"
+speaker_translation = "리나"
+original = "「やったー！\u3000リーナ、スイカ割りしたい！」"
+translation = "「야호! 리나, 수박 깨기 하고 싶어!」"
+
+[[dialogue]]
+speaker_original = "キサナ"
+speaker_translation = "키사나"
+original = "「いや、仕事だっつってんだろ」"
+translation = "「아니, 일이라고 했잖아」"
+
+[[dialogue]]
+speaker_original = "イングリット"
+speaker_translation = "잉그리드"
+original = "「ふん……」"
+translation = "「흥……」"
+
+[[dialogue]]
+speaker_original = "メテオラ"
+speaker_translation = "메테오라"
+original = "「いってらっしゃいだぞ！」"
+translation = "「잘 다녀와라!」"
+
+[[dialogue]]
+speaker_original = "リーナ"
+speaker_translation = "리나"
+original = "「お土産いっぱい持って帰ってくるね！\u3000ヒトデとかキレイな貝殻とか！」"
+translation = "「선물 잔뜩 사 올게! 불가사리나 예쁜 조개껍데기 같은 거!」"
+
+[[dialogue]]
+speaker_original = "メテオラ"
+speaker_translation = "메테오라"
+original = "「おー、楽しみにしてるぞ！\u3000……ヒトデってなんだー？」"
+translation = "「오ー 기대하고 있으마! ……불가사리가 뭐냐?」"
+
+[[dialogue]]
+speaker_original = "レイラ"
+speaker_translation = "레이라"
+original = "「ごめんね、私たちだけでバカンスなんて」"
+translation = "「미안해, 우리끼리만 바캉스라서」"
+
+[[dialogue]]
+speaker_original = "エンジュ"
+speaker_translation = "엔쥬"
+original = "「いいよ、あたしは暑いの苦手だし……って任務だからな？\u3000ホントに分かってるのか？」"
+translation = "「됐어, 난 더운 거 질색이고…… 근데 임무라고? 진짜 알고 있는 거냐?」"
+
+[[dialogue]]
+speaker_original = "ジュリエッテ"
+speaker_translation = "줄리엣타"
+original = "「行ってらっしゃいませ。ゆっくりしてきてくださいまし」"
+translation = "「다녀오세요. 푹 쉬다 오시길」"
+
+[[dialogue]]
+speaker_original = "ジュリエッテ"
+speaker_translation = "줄리엣타"
+original = "（これでしばらくはイングリット様に振り回されないで済みますわ。というか、もう帰ってこなくて結構でございますわ～！）"
+translation = "（이걸로 한동안은 잉그리드 님에게 휘둘리지 않아도 되겠군요. 아니, 이제 돌아오지 않으셔도 괜찮사옵니다~!）"
+
+[[dialogue]]
+speaker_original = "レイラ"
+speaker_translation = "레이라"
+original = "「ヴァレリー、みんなのことお願いね。あ、でも、女の子をいやらしい目でジロジロ見ないこと。ひとりで美術品に近付くのも禁止だからね」"
+translation = "「발레리, 모두를 부탁해. 아, 그래도 여자애들을 음흉한 눈으로 빤히 쳐다보지 말 것. 혼자서 미술품에 다가가는 것도 금지니까 말야」"
+
+[[dialogue]]
+speaker_original = "ヴァレリー"
+speaker_translation = "발레리"
+original = "「おやおや、信用がありませんね。まぁ日頃の行いが行いだけに反論はできませんが。フフフ」"
+translation = "「이런 이런, 신용이 없군요. 뭐 평소 행실이 행실인 만큼 반론은 할 수 없습니다만. 후후후」"
+
+[[dialogue]]
+speaker_original = "レイラ"
+speaker_translation = "레이라"
+original = "「いや、笑いごとじゃないんだけど。何かあったら怒られるの私なんだよ！」"
+translation = "「아니, 웃을 일이 아니거든. 무슨 일 생기면 혼나는 건 나란 말야!」"
+
+[[dialogue]]
+speaker_original = "レイラ"
+speaker_translation = "레이라"
+original = "（いつもと変わらず賑やかだけど……みんなとこうしていられるのは、あとどれくらいなんだろう）"
+translation = "（평소처럼 시끌벅적하지만…… 모두와 이렇게 있을 수 있는 건 앞으로 얼마나 될까）"
+
+[[dialogue]]
+speaker_original = "レイラ"
+speaker_translation = "레이라"
+original = "（私たちコラプサーの目的は世界を救うこと。それは今でも変わらない。でも本当に救ってしまったら……リクリエがなくなったら、私たちは……）"
+translation = "（우리 콜랩서의 목적은 세계를 구하는 것. 그건 지금도 변함없어. 하지만 정말로 구해버린다면…… 리크리에가 없어진다면, 우리는……）"
+
+[[dialogue]]
+speaker_original = "キサナ"
+speaker_translation = "키사나"
+original = "「おい、下向いてんじゃねえ。コラプサーの<ruby>首領<rt>ボス</rt></ruby>はお前だろ」"
+translation = ""
+
+[[dialogue]]
+speaker_original = "レイラ"
+speaker_translation = "레이라"
+original = "「……ごめん、ちょっと考え事してて。ありがとう、キサナ」"
+translation = "「……미안, 잠깐 생각 좀 하느라. 고마워, 키사나」"
+
+[[dialogue]]
+speaker_original = "レイラ"
+speaker_translation = "레이라"
+original = "「では、改めて……コラプサー４名、バカンスに出撃！」"
+translation = "「그럼 다시 한번…… 콜랩서 4명, 바캉스에 출격!」"
+
+[[dialogue]]
+speaker_original = "エンジュ"
+speaker_translation = "엔쥬"
+original = "「ああ、行ってらっしゃい……ってやっぱ分かってないだろお前！」"
+translation = "「아아, 다녀와라…… 역시 전혀 이해 못 했잖아 너!」"
+
