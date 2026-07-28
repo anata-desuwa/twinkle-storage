@@ -1,0 +1,410 @@
+[[dialogue]]
+speaker = "unk"
+original = "散発的にフライドチキンモンスターとの戦闘はあったものの、フライドチキンマシンを発見できないまま日没を迎えてしまった。"
+translation = "산발적으로 프라이드 치킨 몬스터와의 전투는 있었지만, 프라이드 치킨 머신을 발견하지 못한 채 일몰을 맞이하고 말았다."
+
+[[dialogue]]
+speaker_original = "リップル"
+speaker_translation = "리플"
+original = "「カイチョー、シルヴィさん、お疲れサマーです！」"
+translation = "「회장님, 실비 씨, 수고하셨서머~입니다!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "海の家まで戻ると、リップルたちも合流していた。"
+translation = "바다의 집까지 돌아오니 리플 일행도 합류해 있었다."
+
+[[dialogue]]
+speaker_original = "コハルコ"
+speaker_translation = "쿠하루코"
+original = "「今日の捜索はここまでにしようか。急いてはことをし損じるっていうしね」"
+translation = "「오늘 수색은 여기까지 할까. 급할수록 돌아가라는 말도 있으니까」"
+
+[[dialogue]]
+speaker_original = "シルヴィ"
+speaker_translation = "실비"
+original = "「あたしはまだまだ動けるけど……うん、そうだね。夜の海で探し物は危ないもんね」"
+translation = "「나는 아직 더 움직일 수 있지만…… 응, 그렇네. 밤바다에서 물건 찾기는 위험하니까」"
+
+[[dialogue]]
+speaker = "unk"
+original = "俺も先輩たちと同意見だ。いくら手練れの星騎士でも、敵がどこにいるか分からない以上、飛び込むわけにはいかない。"
+translation = "나도 선배들과 동의견이다. 아무리 노련한 성기사라도 적이 어디 있는지 모르는 이상 뛰어들 수는 없다."
+
+[[dialogue]]
+speaker_original = "アニマ"
+speaker_translation = "아니마"
+original = "「３人とも、巻き込んでスマナイ。今日は休んでくれたまエ。後は我々、購買部でなんとかするサ」"
+translation = "「세 사람 모두 말려들게 해서 미안하군아. 오늘은 쉬어주게나. 나머지는 우리 매점부에서 어떻게든 하마」"
+
+[[dialogue]]
+speaker_original = "トリュファイナ"
+speaker_translation = "트류파이나"
+original = "「うぅ……私のせいでご迷惑をお掛けしてしまい、申し訳ありませんでした」"
+translation = "「으으…… 제 때문에 폐를 끼쳐드려 정말 죄송합니다」"
+
+[[dialogue]]
+speaker_original = "コハルコ"
+speaker_translation = "쿠하루코"
+original = "「謝らないでください。トリュファイナさんのせいじゃないですよ」"
+translation = "「사과하지 마세요. 트리파이나 씨 탓이 아니에요」"
+
+[[dialogue]]
+speaker_original = "トリュファイナ"
+speaker_translation = "트류파이나"
+original = "「でも、私がチキンをたくさん揚げられていれば、マシンが生まれることもなかったはず……ごめんなさい……」"
+translation = "「하지만 제가 치킨을 많이 튀겼더라면 머신이 태어날 일도 없었을 텐데…… 죄송해요……」"
+
+[[dialogue]]
+speaker_original = "コハルコ"
+speaker_translation = "쿠하루코"
+original = "「トリュファイナさん、言ってくれましたよね？\u3000『独りで絶望しないで』『泣いて喚いてでも助けを求めて』って」"
+translation = "「트리파이나 씨, 저에게 말해주셨죠? 『혼자서 절망하지 마』 『울고불고 해서라도 도움을 구해』라고」"
+
+[[dialogue]]
+speaker_original = "コハルコ"
+speaker_translation = "쿠하루코"
+original = "「私はその言葉に救われました。だから、同じことを言います」"
+translation = "「저는 그 말에 구원받았어요. 그러니까 똑같은 말을 해드릴게요」"
+
+[[dialogue]]
+speaker_original = "コハルコ"
+speaker_translation = "쿠하루코"
+original = "「ひとりで抱え込まないで、私たちを頼ってください」"
+translation = "「혼자서 짊어지지 말고 저희를 의지해 주세요」"
+
+[[dialogue]]
+speaker_original = "コハルコ"
+speaker_translation = "쿠하루코"
+original = "「私とトリュファイナさんは……姉妹みたいなものなんでしょう？\u3000他人じゃないんだから、もっと気安く頼ってよ、お姉ちゃん」"
+translation = "「저와 트리파이나 씨는…… 자매 같은 거잖아요? 남이 아니니까 좀 더 편하게 의지해줘요, 언니」"
+
+[[dialogue]]
+speaker_original = "トリュファイナ"
+speaker_translation = "트류파이나"
+original = "「コハルコさん……ありがとうございます……」"
+translation = "「코하루코 씨…… 감사합니다……」"
+
+[[dialogue]]
+speaker_original = "アニマ"
+speaker_translation = "아니마"
+original = "「トリュファイナ、そろそろ義体の活動限界ダ。今日はムリをしたから、しっかりメンテしないとナ」"
+translation = "「트리파이나, 슬슬 의체의 활동 한계다. 오늘은 무리를 했으니 확실히 정비해야 한단다」"
+
+[[dialogue]]
+speaker_original = "トリュファイナ"
+speaker_translation = "트류파이나"
+original = "「ありがとうございます、アニマ様。それでは、失礼いたします。コハルコさん、会長様、シルヴィ様」"
+translation = "「감사합니다, 아니마 님. 그럼 실례하겠습니다. 코하루코 씨, 회장님, 실비 님」"
+
+[[dialogue]]
+speaker_original = "シルヴィ"
+speaker_translation = "실비"
+original = "「お疲れさまでした～」"
+translation = "「수고하셨어요~」"
+
+[[dialogue]]
+speaker_original = "アニマ"
+speaker_translation = "아니마"
+original = "「さらばダ、諸君。まタ会おウ」"
+translation = "「작별이군아, 제군들. 또 만나자구」"
+
+[[dialogue]]
+speaker_original = "コハルコ"
+speaker_translation = "쿠하루코"
+original = "「シルヴィ、トリュファイナさんと知り合いだったの？」"
+translation = "「실비, 트리파이나 씨랑 아는 사이였어?」"
+
+[[dialogue]]
+speaker_original = "シルヴィ"
+speaker_translation = "실비"
+original = "「うん。あたし、購買は常連だからね。コハルコこそ、フライドチキンのお姉さんと仲良しなんだ。どういう関係？」"
+translation = "「응. 나 매점 단골이거든. 코하루코야말로 프라이드 치킨 언니랑 친하네. 어떤 관계야?」"
+
+[[dialogue]]
+speaker_original = "コハルコ"
+speaker_translation = "쿠하루코"
+original = "「うーん、親戚のお姉さん、かな？\u3000というか、シルヴィにとってはフライドチキンのお姉さんなんだ、トリュファイナさん……」"
+translation = "「으음, 친척 언니……랄까? 그보다 실비한테는 프라이드 치킨 언니구나, 트리파이나 씨……」"
+
+[[dialogue]]
+speaker_original = "コハルコ"
+speaker_translation = "쿠하루코"
+original = "「よし、決めた。今日はここに泊まっていくよ。何かあったらすぐに対処できるようにしておきたいし」"
+translation = "「좋아, 결정했어. 오늘은 여기서 묵고 갈게. 무슨 일이 생기면 바로 대처할 수 있게 해두고 싶고」"
+
+[[dialogue]]
+speaker_original = "リップル"
+speaker_translation = "리플"
+original = "「いいんデスか？\u3000ワタシとしては助かりますけど……」"
+translation = "「괜찮으신가요? 저는 도움이 됩니다만……」"
+
+[[dialogue]]
+speaker_original = "コハルコ"
+speaker_translation = "쿠하루코"
+original = "「うん。明日から週末だしお休みだから大丈夫。トリュファイナさんにカッコつけちゃったし、片足つっこんだまま終わりにはしたくないから」"
+translation = "「응. 내일부터 주말이라 휴일이니까 괜찮아. 트리파이나 씨한테 폼 잡기도 했고, 발만 담근 채로 끝내고 싶지 않으니까」"
+
+[[dialogue]]
+speaker_original = "シルヴィ"
+speaker_translation = "실비"
+original = "「はいはーい！\u3000じゃああたしも泊まる！\u3000海のコテージでお泊まりとか絶対楽しいよ！」"
+translation = "「네에 네에! 그럼 나도 묵을래! 바다 코티지에서 하룻밤이라니 절대 즐거울 거야!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "じゃあ俺も"
+translation = "그럼 저도"
+
+[[dialogue]]
+speaker_original = "リップル"
+speaker_translation = "리플"
+original = "「ワカりました！\u3000ありがとうございま～す！\u3000お礼にい～っぱいオモテナシしますね♪」"
+translation = "「알겠습니다! 감사합니당~! 보답으로 가~득 대접해 드릴게요♪」"
+
+[[dialogue]]
+speaker = "unk"
+original = "晩ごはんはシルヴィ先輩のたっての希望で、浜辺でバーベキューになった。"
+translation = "저녁 식사는 실비 선배의 간곡한 희망으로 해변에서 바비큐를 하게 되었다."
+
+[[dialogue]]
+speaker = "unk"
+original = "準備の間、それぞれ家や寮に電話だ。"
+translation = "준비하는 동안 각자 집이나 기숙사에 전화를 건다."
+
+[[dialogue]]
+speaker_original = "コハルコ"
+speaker_translation = "쿠하루코"
+original = "「もしもし、お母さん？\u3000今日、友達とお泊りになったから、晩ごはんは要らないよ」"
+translation = "「여보세요, 엄마? 오늘 친구랑 자고 가게 됐으니까 저녁은 안 먹어도 돼」"
+
+[[dialogue]]
+speaker_original = "コハルコ"
+speaker_translation = "쿠하루코"
+original = "「あ、ナツコ？\u3000宿題ちゃんとやった？\u3000えらい、さすがお姉ちゃんだね。トウコに替われる？\u3000うん、お願い」"
+translation = "「아, 나츠코? 숙제 제대로 했어? 장하다, 역시 언니네. 토우코 좀 바꿔줄래? 응, 부탁해」"
+
+[[dialogue]]
+speaker_original = "コハルコ"
+speaker_translation = "쿠하루코"
+original = "「……トウコ、そんなに寂しがらないで大丈夫。明日にはちゃんと帰るから安心して。その間、お母さんとお父さんをお願いね」"
+translation = "「……토우코, 그렇게 외로워하지 않아도 괜찮아. 내일이면 꼭 돌아갈 테니까 안심해. 그동안 엄마랑 아빠 부탁해」"
+
+[[dialogue]]
+speaker_original = "シルヴィ"
+speaker_translation = "실비"
+original = "「サーシャ、あたしとリップルちゃんの外泊届出しといて！\u3000マムにはあたしから後で言っとく」"
+translation = "「사샤, 나랑 리플짱 외박계 좀 내줘! 맘한테는 내가 나중에 말해둘게」"
+
+[[dialogue]]
+speaker_original = "シルヴィ"
+speaker_translation = "실비"
+original = "「そうそう、リゾート結界でフライドチキン狩りやってるよ！\u3000サーシャも時間あったら明日来なよ！\u3000うん、じゃ」"
+translation = "「그래그래, 리조트 결계에서 프라이드 치킨 사냥 하고 있어! 사샤도 시간 되면 내일 와! 응, 그럼」"
+
+[[dialogue]]
+speaker_original = "シルヴィ"
+speaker_translation = "실비"
+original = "「よし、連絡おっけー！」"
+translation = "「좋아, 연락 끝!」"
+
+[[dialogue]]
+speaker_original = "コハルコ"
+speaker_translation = "쿠하루코"
+original = "「こっちも大丈夫だよ」"
+translation = "「이쪽도 괜찮아」"
+
+[[dialogue]]
+speaker_original = "リップル"
+speaker_translation = "리플"
+original = "「こちらもジュンビバンタンでーす♪\u3000スミがあったまってまーす！」"
+translation = "「이쪽도 준비 만땅이에용♪ 숯이 달궈졌어용!」"
+
+[[dialogue]]
+speaker_original = "リップル"
+speaker_translation = "리플"
+original = "「では、お肉を焼きま～す♪」"
+translation = "「그럼 고기를 굽겠습니당~♪」"
+
+[[dialogue]]
+speaker = "unk"
+original = "リップルが生肉を金網に並べていく。潮風に肉が焼ける匂いが混ざって、最高に夏だ。"
+translation = "리플이 생고기를 석쇠에 늘어놓는다. 바닷바람에 고기 굽는 냄새가 섞여 최고로 여름답다."
+
+[[dialogue]]
+speaker_original = "リップル"
+speaker_translation = "리플"
+original = "「野菜もドーン！！\u3000たくさんありますからドンドン食べてくださーい！」"
+translation = "「야채도 콰광!! 잔뜩 있으니까 팍팍 드세용~!」"
+
+[[dialogue]]
+speaker_original = "シルヴィ"
+speaker_translation = "실비"
+original = "「やった！\u3000ありがとう、リップルちゃん！\u3000フライドチキンもいいけど、浜辺にはバーベキューだよね！」"
+translation = "「앗싸! 고마워, 리플짱! 프라이드 치킨도 좋지만 해변엔 역시 바비큐지!」"
+
+[[dialogue]]
+speaker_original = "コハルコ"
+speaker_translation = "쿠하루코"
+original = "「うちはみんなインドア派だから、こういうの初めてかも。あ、そっちのお肉まだ生焼けだから気を付けて」"
+translation = "「우리 집은 다들 인도어파라 이런 건 처음일지도. 아, 그쪽 고기 아직 덜 익었으니까 조심해」"
+
+[[dialogue]]
+speaker_original = "シルヴィ"
+speaker_translation = "실비"
+original = "「大丈夫大丈夫、あたしお腹壊したことないし！」"
+translation = "「괜찮아 괜찮아, 나 배탈 난 적 없거든!」"
+
+[[dialogue]]
+speaker_original = "コハルコ"
+speaker_translation = "쿠하루코"
+original = "「いや、それフラグだから。悪いこと言わないからお肉はちゃんと火を通しなさい！」"
+translation = "「아니, 그거 플래그니까. 나쁜 말 안 할 테니 고기는 제대로 익혀 먹어!」"
+
+[[dialogue]]
+speaker_original = "シルヴィ"
+speaker_translation = "실비"
+original = "「はーい、コハルコお姉ちゃん」"
+translation = "「네~ 코하루코 언니」"
+
+[[dialogue]]
+speaker_original = "コハルコ"
+speaker_translation = "쿠하루코"
+original = "「シルヴィはいつから私の妹になったの！？」"
+translation = "「실비는 언제부터 내 동생이 된 거야!?」"
+
+[[dialogue]]
+speaker_original = "リップル"
+speaker_translation = "리플"
+original = "（リゾート結界のお肉に食中毒の危険はナイのですが、お肉に火を通すの実際ダイジなので、アエて黙っていマス……）"
+translation = "(리조트 결계 고기에 식중독 위험은 없지마는 고기를 익히는 건 실제로 중요하니까 굳이 입을 다물고 있겠습니당……)"
+
+[[dialogue]]
+speaker_original = "コハルコ"
+speaker_translation = "쿠하루코"
+original = "「んじゃ、食べながら明日の作戦会議しようか」"
+translation = "「그럼 먹으면서 내일 작전 회의 할까」"
+
+[[dialogue]]
+speaker_original = "シルヴィ"
+speaker_translation = "실비"
+original = "「うん、いいよ」"
+translation = "「응, 좋아」"
+
+[[dialogue]]
+speaker_original = "コハルコ"
+speaker_translation = "쿠하루코"
+original = "「今日はシルヴィと会長さんで探してもらったけど、どうだった？」"
+translation = "「오늘은 실비랑 회장님이 찾아봤는데 어땠어?」"
+
+[[dialogue]]
+speaker_original = "シルヴィ"
+speaker_translation = "실비"
+original = "「何回かチキンと戦っただけで、マシンの手掛かりもなかったよ。どこをどう探したのかもよく分かんないし、ほぼ遊んでました。以上」"
+translation = "「몇 번 치킨이랑 싸웠을 뿐이고 머신 단서도 없었어. 어디를 어떻게 찾았는지도 잘 모르겠고 거의 놀았습니다. 이상」"
+
+[[dialogue]]
+speaker_original = "コハルコ"
+speaker_translation = "쿠하루코"
+original = "「正直でよろしい。やっぱり、闇雲に探してもダメだね。リップルさん、リゾート結界の地図って用意できる？」"
+translation = "「솔직해서 좋네. 역시 무턱대고 찾으면 안 되겠어. 리플 씨, 리조트 결계 지도 준비해 줄 수 있어?」"
+
+[[dialogue]]
+speaker_original = "リップル"
+speaker_translation = "리플"
+original = "「ワカリましたー！\u3000最近いろいろイジってよくわかんなくなってたのでアタラしいの作りまーす！」"
+translation = "「알겠습니당~! 최근 이것저것 건드려서 잘 모르게 됐으니까 새로운 걸 만들게용!」"
+
+[[dialogue]]
+speaker_original = "コハルコ"
+speaker_translation = "쿠하루코"
+original = "「そんなスパゲッティコードみたいな……」"
+translation = "「그런 스파게티 코드 같은……」"
+
+[[dialogue]]
+speaker_original = "リップル"
+speaker_translation = "리플"
+original = "「ニッシンゲッポヒビショージンでーす！\u3000夏の間はいつもどこかイジってます！」"
+translation = "「일취월장 나날이 정진 중이에용! 여름 동안은 항상 어딘가 건드리고 있어용!」"
+
+[[dialogue]]
+speaker_original = "シルヴィ"
+speaker_translation = "실비"
+original = "「あははっ、電車みたいっ！」"
+translation = "「아하하, 전철 같아!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "流星市国、および東京は常にどこかの駅で工事をしているのである。"
+translation = "유성시국, 그리고 도쿄는 항상 어딘가 역에서 공사를 하고 있는 법이다."
+
+[[dialogue]]
+speaker_original = "コハルコ"
+speaker_translation = "쿠하루코"
+original = "「地図はリップルさんにお願いするとして……明日は班分けどうする？」"
+translation = "「지도는 리플 씨한테 부탁하는 걸로 하고…… 내일 조 편성은 어떻게 할까?」"
+
+[[dialogue]]
+speaker_original = "リップル"
+speaker_translation = "리플"
+original = "「あ、ワタシも明日はマシンを探すの参加しまーす！」"
+translation = "「아, 저도 내일은 머신 찾는 거 참가할게용!」"
+
+[[dialogue]]
+speaker_original = "シルヴィ"
+speaker_translation = "실비"
+original = "「なら、あたしと一緒に探そう！\u3000お願いしたいことがあるんだ！」"
+translation = "「그럼 나랑 같이 찾자! 부탁하고 싶은 게 있어!」"
+
+[[dialogue]]
+speaker_original = "リップル"
+speaker_translation = "리플"
+original = "「了解でーす！\u3000ヨロシクおねがいしマス！」"
+translation = "「알겠습니당~! 잘 부탁해용!」"
+
+[[dialogue]]
+speaker_original = "コハルコ"
+speaker_translation = "쿠하루코"
+original = "「会長さんは私と一緒でいいかな？\u3000マップを確認しながら探してみよう」"
+translation = "「회장님은 나랑 같이 가면 될까? 맵을 확인하면서 찾아보자」"
+
+[[dialogue]]
+speaker = "unk"
+original = "よろしくお願いします"
+translation = "잘 부탁드립니다"
+
+[[dialogue]]
+speaker_original = "コハルコ"
+speaker_translation = "쿠하루코"
+original = "「うん、決まりだね」"
+translation = "「응, 결정됐네」"
+
+[[dialogue]]
+speaker_original = "シルヴィ"
+speaker_translation = "실비"
+original = "「よーし！\u3000じゃあ、いっぱい食べて英気を養おう！」"
+translation = "「좋아~! 그럼 잔뜩 먹고 기운을 차리자!」"
+
+[[dialogue]]
+speaker_original = "リップル"
+speaker_translation = "리플"
+original = "「オー！」"
+translation = "「오~!」"
+
+[[dialogue]]
+speaker_original = "シルヴィ"
+speaker_translation = "실비"
+original = "「バーベキューバンザーイ！」"
+translation = "「바비큐 만세!」"
+
+[[dialogue]]
+speaker_original = "リップル"
+speaker_translation = "리플"
+original = "「バンザーイ！」"
+translation = "「만세!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "山盛りの肉と野菜を平らげた俺たちは、明日に備えてコテージで休むのだった。"
+translation = "산더미 같은 고기와 야채를 먹어 치운 우리들은 내일을 대비해 코티지에서 쉬기로 했다."
+

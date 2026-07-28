@@ -1,0 +1,387 @@
+[[dialogue]]
+speaker = "unk"
+original = "第２話,流星市国最強チキン決定戦,P"
+translation = "제2화, 유성시국 최강 치킨 결정전"
+
+[[dialogue]]
+speaker = "unk"
+original = "シルヴィ先輩に呼び出され、俺はカフェテリアにやってきた。"
+translation = "실비 선배의 호출을 받고 나는 카페테리아에 왔다."
+
+[[dialogue]]
+speaker_original = "蛍火"
+speaker_translation = "호타루비"
+original = "「お疲れ様です、師匠」"
+translation = "「수고하셨습니다, 스승님」"
+
+[[dialogue]]
+speaker_original = "サーシャ"
+speaker_translation = "사샤"
+original = "「もしかして、会長くんもシルヴィに呼び出されたの～？」"
+translation = "「혹시, 회장 군도 실비가 부른 거야~?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "シルヴィ先輩はサーシャさんが星徒会長だった代の副会長で、蛍火も星徒会のその代の役員だった。"
+translation = "실비 선배는 사샤 씨가 성태회장이던 시절의 부회장이었고, 호타루비도 성태회의 그 시절 임원이었다."
+
+[[dialogue]]
+speaker = "unk"
+original = "この２人まで一緒とは、いったいこれから何が起こるのだろうか。"
+translation = "이 두 사람까지 함께라니 대체 앞으로 무슨 일이 벌어지는 걸까."
+
+[[dialogue]]
+speaker_original = "シルヴィ"
+speaker_translation = "실비"
+original = "「お待たせ～！」"
+translation = "「오래 기다렸지~!」"
+
+[[dialogue]]
+speaker_original = "サーシャ"
+speaker_translation = "사샤"
+original = "「今日はどうしたの？\u3000用件くらい教えてほしいわ～」"
+translation = "「오늘은 무슨 일이야? 용건 정도는 알려줬으면 좋겠는데~」"
+
+[[dialogue]]
+speaker_original = "蛍火"
+speaker_translation = "호타루비"
+original = "「それに、大きな袋を抱えて……何が入っているんですか？」"
+translation = "「게다가 큰 봉투를 들고…… 무엇이 들어있나요?」"
+
+[[dialogue]]
+speaker_original = "シルヴィ"
+speaker_translation = "실비"
+original = "「ふっふっふ……欲するなら教えて進ぜよう！」"
+translation = "「훗훗훗…… 원한다면 알려주지!」"
+
+[[dialogue]]
+speaker_original = "シルヴィ"
+speaker_translation = "실비"
+original = "「名付けて！\u3000『流星市国最強チキン決定戦』！！」"
+translation = "「이름하여! 『유성시국 최강 치킨 결정전』!!」"
+
+[[dialogue]]
+speaker_original = "サーシャ"
+speaker_translation = "사샤"
+original = "「りゅうせいしこく……」"
+translation = "「유성시국……」"
+
+[[dialogue]]
+speaker_original = "蛍火"
+speaker_translation = "호타루비"
+original = "「さいきょうチキン……」"
+translation = "「최강 치킨……」"
+
+[[dialogue]]
+speaker = "unk"
+original = "けっていせん……？"
+translation = "결정전……?"
+
+[[dialogue]]
+speaker_original = "シルヴィ"
+speaker_translation = "실비"
+original = "「そう！\u3000流星市国で最強の美味しいフライドチキンを決める戦いだよ！\u3000ほら、これ！」"
+translation = "「그래! 유성시국에서 가장 맛있는 프라이드치킨을 정하는 싸움이야! 자, 이거!」"
+
+[[dialogue]]
+speaker_original = "蛍火"
+speaker_translation = "호타루비"
+original = "「これは……ＧＦＣのフライドチキンとボスチキンですね」"
+translation = "「이건…… GFC의 프라이드치킨과 보스 치킨이네요」"
+
+[[dialogue]]
+speaker_original = "サーシャ"
+speaker_translation = "사샤"
+original = "「しかも大量に……これ、私たちで食べるの？」"
+translation = "「게다가 대량으로…… 이거 우리가 다 먹는 거야?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ＧＦＣはガルスフライドチキンの略で、人間界で世界的に展開されているフライドチキンのチェーン店だ。"
+translation = "GFC는 갈스 프라이드치킨의 약자로, 인간계에서 세계적으로 전개되는 프라이드치킨 체인점이다."
+
+[[dialogue]]
+speaker = "unk"
+original = "ボスチキンはハンバーガーチェーン『ボスバーガー』で販売されているフライドチキン。米粉を使ったサクサクの衣が特徴で、根強いファンがいる。"
+translation = "보스 치킨은 햄버거 체인 『보스 버거』에서 판매하는 프라이드치킨. 쌀가루를 사용한 바삭한 튀김옷이 특징이라 마니아층이 두텁다."
+
+[[dialogue]]
+speaker = "unk"
+original = "どちらも流星市国にいくつか店舗があり、俺もバイトしたことがある。"
+translation = "둘 다 유성시국에 매장이 몇 군데 있어 나도 알바를 해본 적이 있다."
+
+[[dialogue]]
+speaker_original = "シルヴィ"
+speaker_translation = "실비"
+original = "「そう！\u3000でも、これだけじゃないよ！\u3000チキン、カモン！」"
+translation = "「맞아! 하지만 이것뿐만이 아니야! 치킨, 카몬!」"
+
+[[dialogue]]
+speaker_original = "トリュファイナ"
+speaker_translation = "트류파이나"
+original = "「はーい、ただいま。購買部のデリバリーです」"
+translation = "「네에, 왔습니다. 매점의 배달 서비스입니다」"
+
+[[dialogue]]
+speaker = "unk"
+original = "めちゃくちゃいい音の指パッチンと同時、大きな袋を持ったトリュファイナさんが現れた。中身は当然──"
+translation = "엄청나게 좋은 소리가 나는 핑거 스냅과 동시에 큰 봉투를 든 트리파이나 씨가 나타났다. 내용물은 당연히──"
+
+[[dialogue]]
+speaker_original = "トリュファイナ"
+speaker_translation = "트류파이나"
+original = "「はい、フライドチキンの盛り合わせです。プレーン、ピリ辛、旨塩、黒ごまガーリック、ブラックペッパー……なんでもありますよ」"
+translation = "「네, 프라이드치킨 모둠입니다. 플레인, 매콤한 맛, 짭조름한 소금맛, 흑임자 갈릭, 블랙페퍼…… 뭐든지 있습니다」"
+
+[[dialogue]]
+speaker_original = "シルヴィ"
+speaker_translation = "실비"
+original = "「ありがとうございます！\u3000さぁ食べよ食べよ！\u3000そして最強チキンを決めよう！！」"
+translation = "「고맙습니다! 자, 먹자 먹어! 그리고 최강 치킨을 정하자!!」"
+
+[[dialogue]]
+speaker_original = "サーシャ"
+speaker_translation = "사샤"
+original = "「また思い付きで行動して……」"
+translation = "「또 충동적으로 행동하긴……」"
+
+[[dialogue]]
+speaker_original = "？？？"
+speaker_translation = "？？？"
+original = "「ちょーっと待ったーー！」"
+translation = "「잠─깐만 기다려어──!」"
+
+[[dialogue]]
+speaker_original = "シルヴィ"
+speaker_translation = "실비"
+original = "「この声は！？」"
+translation = "「이 목소리는!?」"
+
+[[dialogue]]
+speaker_original = "グレイス"
+speaker_translation = "그레이스"
+original = "「我が名はグレイス・オベロニア！\u3000流星市国のチキンを愛する者！」"
+translation = "「내 이름은 그레이스 오베로니아! 유성시국의 치킨을 사랑하는 자!」"
+
+[[dialogue]]
+speaker_original = "トリュファイナ"
+speaker_translation = "트류파이나"
+original = "「グレイス様！」"
+translation = "「그레이스 님!」"
+
+[[dialogue]]
+speaker_original = "サーシャ"
+speaker_translation = "사샤"
+original = "「あら～。グレイスちゃん、久しぶり～」"
+translation = "「어머~. 그레이스짱, 오랜만이야~」"
+
+[[dialogue]]
+speaker = "unk"
+original = "彼女は平行世界デネブにある極星学園の星徒会役員だ。かつては敵対していたが、今はともに世界を救うために戦った仲間だ。"
+translation = "그녀는 평행세계 데네브에 있는 극성학원의 성태회 임원이다. 예전에는 적대했었지만, 지금은 함께 세계를 구하기 위해 싸운 동료다."
+
+[[dialogue]]
+speaker_original = "グレイス"
+speaker_translation = "그레이스"
+original = "「やぁやぁみなさん、お久しぶりです！\u3000面白そうな話が聞こえて、つい声をかけてしまいました！」"
+translation = "「야아야아 여러분, 오랜만입니다! 재미있는 이야기가 들려서 그만 말을 걸고 말았습니다!」"
+
+[[dialogue]]
+speaker_original = "グレイス"
+speaker_translation = "그레이스"
+original = "「ちなみに、<ruby>アルタイル<rt>こちら</rt></ruby>のグレイスちゃんは今ごろ家族でデネブ旅行です！」"
+translation = "「참고로 <ruby>이쪽<rt>알타이르</rt></ruby>의 그레이스짱은 지금쯤 가족들과 데네브 여행 중입니다!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "並行世界から同一人物がやってくると、その世界の住人は昏睡状態に陥ってしまう。"
+translation = "평행세계에서 동일 인물이 오면 그 세계의 주민은 혼수상태에 빠지고 만다."
+
+[[dialogue]]
+speaker = "unk"
+original = "だが同一人物同士で入れ替わるとそれを防げるのだ。"
+translation = "하지만 동일 인물끼리 맞교대하면 그것을 방지할 수 있다."
+
+[[dialogue]]
+speaker_original = "グレイス"
+speaker_translation = "그레이스"
+original = "「ふっふっふ～、チキン最強決定戦とは聞き捨てなりませんね！\u3000私も混ぜてください！」"
+translation = "「훗훗훗~, 치킨 최강 결정전이라니 그냥 지나칠 수 없네요! 저도 끼워주세요!」"
+
+[[dialogue]]
+speaker_original = "シルヴィ"
+speaker_translation = "실비"
+original = "「もちろん！\u3000グレイスちゃんもチキン大好きなんだね、大歓迎だよ！」"
+translation = "「물론이지! 그레이스짱도 치킨을 정말 좋아하는구나, 대환영이야!」"
+
+[[dialogue]]
+speaker_original = "グレイス"
+speaker_translation = "그레이스"
+original = "「ありがとうございます！\u3000ではでは～！」"
+translation = "「고맙습니다! 그럼 그럼~!」"
+
+[[dialogue]]
+speaker_original = "シルヴィ"
+speaker_translation = "실비"
+original = "「いただきまーす！\u3000まずは王道のＧＦＣから！」"
+translation = "「잘 먹겠습니다! 우선은 왕도인 GFC부터!」"
+
+[[dialogue]]
+speaker_original = "シルヴィ"
+speaker_translation = "실비"
+original = "「もぐもぐもぐ…………おいっしい！\u3000皮がパリパリでお肉もジューシー！\u3000そしてやっぱりこのスパイスだよね！\u3000マネできない美味しさ！」"
+translation = "「우물우물우물………… 맛있어! 껍질은 파삭파삭하고 고기도 쥬시해! 그리고 역시 이 스파이스지! 흉내 낼 수 없는 맛!」"
+
+[[dialogue]]
+speaker_original = "グレイス"
+speaker_translation = "그레이스"
+original = "「私はボスチキンをいただきますね！\u3000ん～、衣がサクサクですね！\u3000味付けは醤油ベースで優しい美味しさです！」"
+translation = "「저는 보스 치킨을 먹어보겠습니다! 음~, 튀김옷이 바삭바삭하네요! 양념은 간장 베이스라 부드러운 맛이에요!」"
+
+[[dialogue]]
+speaker_original = "サーシャ"
+speaker_translation = "사샤"
+original = "「じゃあ、私は購買の旨塩チキンを……はむはむ……あ、バジルかしら？\u3000後を引く香りで美味しいわ」"
+translation = "「그럼 나는 매점의 소금 치킨을…… 냠냠…… 아, 바질일까? 향이 여운을 남겨서 맛있네」"
+
+[[dialogue]]
+speaker_original = "蛍火"
+speaker_translation = "호타루비"
+original = "「気付いていただき、ありがとうございます。実は、購買のチキンの味付けは私たち給食委員会で開発したものなんです」"
+translation = "「알아차려 주셔서 감사합니다. 사실 매점 치킨의 양념은 저희 급식위원회에서 개발한 것입니다」"
+
+[[dialogue]]
+speaker_original = "蛍火"
+speaker_translation = "호타루비"
+original = "「委員会のみんなでいろんなフライドチキンを食べ歩いて研究しました。販売数も増えているようで嬉しいです。購買部のみなさんにはご負担をおかけしますが……」"
+translation = "「위원회 친구들과 여러 프라이드치킨을 먹으러 다니며 연구했습니다. 판매량도 늘고 있는 것 같아 기쁩니다. 매점 여러분께는 부담을 드려 죄송하지만……」"
+
+[[dialogue]]
+speaker_original = "トリュファイナ"
+speaker_translation = "트류파이나"
+original = "「いえいえ、お気になさらないでください。それだけチキンが美味しいということです」"
+translation = "「아뇨아뇨, 신경 쓰지 마세요. 그만큼 치킨이 맛있다는 뜻이니까요」"
+
+[[dialogue]]
+speaker_original = "シルヴィ"
+speaker_translation = "실비"
+original = "「そっかー。天界から帰ってきたら、購買のチキンが美味しくなってたのは蛍火ちゃんたちのおかげだったんだね。ありがとう！」"
+translation = "「그렇구나─. 천계에서 돌아왔더니 매점 치킨이 맛있어진 건 호타루비짱 덕분이었네. 고마워!」"
+
+[[dialogue]]
+speaker_original = "グレイス"
+speaker_translation = "그레이스"
+original = "「私からもありがとうございます！\u3000購買のチキン、とっても美味しいです！」"
+translation = "「저로서도 감사드립니다! 매점 치킨, 정말 맛있어요!」"
+
+[[dialogue]]
+speaker_original = "蛍火"
+speaker_translation = "호타루비"
+original = "「いえ、その……こちらこそ、ありがとうございます。食べてくれる人の笑顔が、私たち料理人の一番の報酬ですから」"
+translation = "「아니, 그게…… 저야말로 감사합니다. 먹는 사람의 미소가 저희 요리사들에게는 최고의 보상이니까요」"
+
+[[dialogue]]
+speaker_original = "シルヴィ"
+speaker_translation = "실비"
+original = "「うん、いつもありがとう。美味しいごはんがみんなの支えになってるよ」"
+translation = "「응, 항상 고마워. 맛있는 밥이 모두의 버팀목이 되고 있어」"
+
+[[dialogue]]
+speaker_original = "シルヴィ"
+speaker_translation = "실비"
+original = "「ささ、会長くんも食べて食べて。トリュファイナさんも時間あったら一緒にどうぞ！」"
+translation = "「자자, 회장 군도 먹어 먹어. 트리파이나 씨도 시간 되면 같이 드시죠!」"
+
+[[dialogue]]
+speaker_original = "シルヴィ"
+speaker_translation = "실비"
+original = "「ご馳走さまでした！\u3000チキン美味しかったね！」"
+translation = "「잘 먹었습니다! 치킨 맛있었네!」"
+
+[[dialogue]]
+speaker_original = "グレイス"
+speaker_translation = "그레이스"
+original = "「ご馳走さまでしたー！」"
+translation = "「잘 먹었습니다─!」"
+
+[[dialogue]]
+speaker_original = "サーシャ"
+speaker_translation = "사샤"
+original = "「うぅ……少し食べすぎたわ。で、シルヴィ。最強チキンとやらは決まったの？」"
+translation = "「으으…… 조금 과식했어. 그래서 실비. 최강 치킨인가 뭔가는 정해졌어?」"
+
+[[dialogue]]
+speaker_original = "シルヴィ"
+speaker_translation = "실비"
+original = "「う～ん、どのチキンも美味しかったからなぁ……会長くんはどうだった？」"
+translation = "「으음, 어느 치킨이나 다 맛있었으니까…… 회장 군은 어땠어?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "俺も同じ感想です"
+translation = "저도 똑같은 생각이에요"
+
+[[dialogue]]
+speaker = "unk"
+original = "どのチキンにも良さがある。一番なんて決められない。"
+translation = "어느 치킨이나 장점이 있다. 최고를 정할 수 없다."
+
+[[dialogue]]
+speaker_original = "グレイス"
+speaker_translation = "그레이스"
+original = "「賛成です！\u3000チキン美味しいです！」"
+translation = "「찬성입니다! 치킨은 다 맛있어요!」"
+
+[[dialogue]]
+speaker_original = "シルヴィ"
+speaker_translation = "실비"
+original = "「というわけで、今日はみんな最強！\u3000みんな違ってみんないい！」"
+translation = "「그런 고로 오늘은 모두 최강! 모두 달라서 모두 좋아!」"
+
+[[dialogue]]
+speaker_original = "サーシャ"
+speaker_translation = "사샤"
+original = "「そう……」"
+translation = "「그래……」"
+
+[[dialogue]]
+speaker_original = "シルヴィ"
+speaker_translation = "실비"
+original = "「あれ？\u3000サーシャ……なんであたしの腕をつかむのかな？」"
+translation = "「어라? 사샤…… 왜 내 팔을 잡는 걸까?」"
+
+[[dialogue]]
+speaker_original = "サーシャ"
+speaker_translation = "사샤"
+original = "「チキンは美味しかったけど～、いきなり呼びつけられてチキンたくさん食べさせられて、しかもあんまり意味がなかったから────お・し・お・き<emoji=heart04>」"
+translation = "「치킨은 맛있었지만~, 갑자기 불러내서 치킨을 잔뜩 먹게 하고 게다가 별로 의미도 없었으니까──── 벌·을·받·아·야·겠·네<emoji=heart04>」"
+
+[[dialogue]]
+speaker_original = "シルヴィ"
+speaker_translation = "실비"
+original = "「んぎゃーーーーーー！！」"
+translation = "「응갸아아아아아악!!」"
+
+[[dialogue]]
+speaker_original = "グレイス"
+speaker_translation = "그레이스"
+original = "「さすがサーシャさん、見事なアームロックです！」"
+translation = "「역시 사샤 선배, 훌륭한 암록입니다!」"
+
+[[dialogue]]
+speaker_original = "蛍火"
+speaker_translation = "호타루비"
+original = "「久しぶりに見ました。変わらぬ技の冴えですね」"
+translation = "「오랜만에 봅니다. 변치 않는 기술의 정교함이네요」"
+
+[[dialogue]]
+speaker_original = "トリュファイナ"
+speaker_translation = "트류파이나"
+original = "「シルヴィ様～！？\u3000お気を確かにー！」"
+translation = "「실비 님~!? 정신 차리세요─!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "久々にサーシャさんのアームロックが炸裂。シルヴィ先輩にお灸を据えたのだった。"
+translation = "오랜만에 사샤 씨의 암록이 작렬. 실비 선배에게 따끔한 맛을 보여준 것이었다."
+

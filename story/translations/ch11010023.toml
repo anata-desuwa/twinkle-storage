@@ -1,0 +1,374 @@
+[[dialogue]]
+speaker = "unk"
+original = "第３話,会長ＶＳ副会長インサマー,P"
+translation = "제3화, 회장 VS 부회장 인 서머"
+
+[[dialogue]]
+speaker = "unk"
+original = "シルヴィ先輩が水着戦闘服に慣れるため、リゾート結界で模擬戦をすることになった。そして、その相手は──"
+translation = "실비 선배가 수영복 전투복에 익숙해지기 위해 리조트 결계에서 모의전을 하게 되었다. 그리고 그 상대는──"
+
+[[dialogue]]
+speaker_original = "サーシャ"
+speaker_translation = "사샤"
+original = "「シルヴィと戦うなんていつ以来かしら。本当に久しぶりね～」"
+translation = "「실비와 싸우는 건 언제 이후인지 모르겠네. 정말 오랜만이야~」"
+
+[[dialogue]]
+speaker_original = "シルヴィ"
+speaker_translation = "실비"
+original = "「あたしも覚えてないや。あははっ、ウズウズしてきたー！」"
+translation = "「나도 기억 안 나. 아하하, 근질근질해지기 시작했어─!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "シルヴィ先輩が星徒会副会長だった時の会長であり、先んじて水着フォームを手に入れているサーシャさんだ。"
+translation = "실비 선배가 성태회 부회장이던 시절의 회장이자, 먼저 수영복 폼을 손에 넣은 사샤 씨다."
+
+[[dialogue]]
+speaker_original = "セーラ"
+speaker_translation = "세라"
+original = "「会長さんはシルヴィの付き添い？\u3000彼氏も大変だねぇ」"
+translation = "「회장 군은 실비 보호자로 온 거야? 남자친구도 고생이네」"
+
+[[dialogue]]
+speaker_original = "セーラ"
+speaker_translation = "세라"
+original = "「え、うち？\u3000うちは野次馬かな。２人が模擬戦やるって聞いて見に来ただけ」"
+translation = "「응, 나? 나는 구경꾼이랄까. 둘이 모의전 한다길래 보러 왔을 뿐이야」"
+
+[[dialogue]]
+speaker_original = "シルヴィ"
+speaker_translation = "실비"
+original = "「会長くーん！\u3000いいとこ見せてあげるから、見逃さないでねー！」"
+translation = "「회장 군─! 멋진 모습 보여줄 테니까 놓치지 마─!」"
+
+[[dialogue]]
+speaker_original = "サーシャ"
+speaker_translation = "사샤"
+original = "「あらあら～、自分が負けるところ、会長くんに見られちゃうわよ～？」"
+translation = "「어라어라~, 자기가 지는 모습 회장 군에게 보여주게 될 텐데~?」"
+
+[[dialogue]]
+speaker_original = "シルヴィ"
+speaker_translation = "실비"
+original = "「負ーけーまーせーん。サーシャこそ、お隣の星徒会にかっこ悪いとこ見られないようにね！」"
+translation = "「안·집·니·다. 사샤야말로 옆 동네 성태회에 꼴사나운 모습 보이지 않게 조심해!」"
+
+[[dialogue]]
+speaker_original = "サーシャ"
+speaker_translation = "사샤"
+original = "「うふふっ、言われるまでもないわ～」"
+translation = "「우후훗, 말할 필요도 없는걸~」"
+
+[[dialogue]]
+speaker_original = "シルヴィ"
+speaker_translation = "실비"
+original = "「ふっふっふ。今日のあたしは自信あるからね！」"
+translation = "「훗훗훗. 오늘 나는 자신 있거든!」"
+
+[[dialogue]]
+speaker_original = "サーシャ"
+speaker_translation = "사샤"
+original = "「ふぅん？\u3000理由を聞かせてもらおうかしら？」"
+translation = "「후운? 이유나 한번 들어볼까?」"
+
+[[dialogue]]
+speaker_original = "シルヴィ"
+speaker_translation = "실비"
+original = "「あたしの水着戦闘服はこの間、手に入れたばかり。まだサーシャと一緒に戦ったことないし、あたしの水着の戦い方をサーシャは知らないはず！」"
+translation = "「내 수영복 전투복은 요전에 갓 손에 넣었거든. 아직 사샤랑 같이 싸워본 적도 없고, 내 수영복 전투 방식을 사샤는 모를 게 분명해!」"
+
+[[dialogue]]
+speaker_original = "サーシャ"
+speaker_translation = "사샤"
+original = "「なるほど～、私は手の内が知れてる分だけ不利ということね」"
+translation = "「과연~, 나는 패가 다 읽히는 만큼 불리하다는 거네」"
+
+[[dialogue]]
+speaker_original = "サーシャ"
+speaker_translation = "사샤"
+original = "「……って、あれ？\u3000私、シルヴィと一緒に水着で戦ったことあったかしら～？」"
+translation = "「……어라? 나 실비랑 같이 수영복으로 싸운 적 있었나~?」"
+
+[[dialogue]]
+speaker_original = "シルヴィ"
+speaker_translation = "실비"
+original = "「そうだった～～～～！？\u3000あたしも水着のサーシャの戦い方わかんないや！」"
+translation = "「그랬었어~~~~!? 나도 수영복 차림인 사샤의 전투 방식을 모르잖아!」"
+
+[[dialogue]]
+speaker_original = "サーシャ"
+speaker_translation = "사샤"
+original = "「うふふ。相変わらず詰めが甘いわね、シルヴィ。じゃあ使い込んでる分、私の方が有利ね～」"
+translation = "「우후후. 여전히 마무리가 허술하네, 실비. 그럼 숙련된 만큼 내가 더 유리하겠네~」"
+
+[[dialogue]]
+speaker_original = "シルヴィ"
+speaker_translation = "실비"
+original = "「うぅ……でも負けないもん！」"
+translation = "「으으…… 그래도 안 질 거야!」"
+
+[[dialogue]]
+speaker_original = "セーラ"
+speaker_translation = "세라"
+original = "「あははっ、子どもか。やっぱシルヴィってノリで生きてるわ～」"
+translation = "「아하하, 어린애냐. 역시 실비는 기분파라니까~」"
+
+[[dialogue]]
+speaker = "unk"
+original = "セーラさんとシルヴィ先輩って仲いいんですか？"
+translation = "세라 씨와 실비 선배는 사이가 좋나요?"
+
+[[dialogue]]
+speaker_original = "セーラ"
+speaker_translation = "세라"
+original = "「まぁノリが合うからね～。シルヴィが星徒会だった頃も、現場で会ったことあったし」"
+translation = "「뭐, 코드가 잘 맞으니까~. 실비가 성태회였을 때도 현장에서 만난 적 있었고」"
+
+[[dialogue]]
+speaker_original = "セーラ"
+speaker_translation = "세라"
+original = "「あっ、そろそろ始まりそ」"
+translation = "「앗, 슬슬 시작하겠어」"
+
+[[dialogue]]
+speaker_original = "シルヴィ"
+speaker_translation = "실비"
+original = "「よっしゃー、行くよ！」"
+translation = "「좋아, 간다!」"
+
+[[dialogue]]
+speaker_original = "サーシャ"
+speaker_translation = "사샤"
+original = "「かかって来なさい！」"
+translation = "「덤벼봐!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "２人の星術がぶつかり合い、大きく波が立つ。"
+translation = "두 사람의 성술이 부딪치며 커다란 파도가 일어난다."
+
+[[dialogue]]
+speaker_original = "サーシャ"
+speaker_translation = "사샤"
+original = "「ここのところフライドチキンばっかりだったから、カロリー消費に付き合ってもらうわ～！\u3000ナイトレイドハグ！」"
+translation = "「요즘 프라이드치킨만 먹었으니까 칼로리 소비 좀 도와줘야겠어~! 나이트 레이드 허그!」"
+
+[[dialogue]]
+speaker_original = "シルヴィ"
+speaker_translation = "실비"
+original = "「くっ……お返し！\u3000ディープペネトレイター！」"
+translation = "「큭…… 복수다! 딥 페네트레이터!」"
+
+[[dialogue]]
+speaker_original = "シルヴィ"
+speaker_translation = "실비"
+original = "「よし！\u3000手応えあり……ってシャチのフロート！？」"
+translation = "「좋아! 손맛이 느껴졌어…… 어라, 범고래 튜브!?」"
+
+[[dialogue]]
+speaker_original = "サーシャ"
+speaker_translation = "사샤"
+original = "「隙あり～。シャドウストローク！」"
+translation = "「방심했네~. 섀도 스트로크!」"
+
+[[dialogue]]
+speaker_original = "シルヴィ"
+speaker_translation = "실비"
+original = "「海の中から！？\u3000うぎゃぁーーー！」"
+translation = "「바다 밑에서!? 으갸아아악─!」"
+
+[[dialogue]]
+speaker_original = "サーシャ"
+speaker_translation = "사샤"
+original = "「ふふっ、どうかしら。やっぱり水着戦闘服なら私の方が先輩ね♪」"
+translation = "「후훗, 어떠니. 역시 수영복 전투복이라면 내가 선배네♪」"
+
+[[dialogue]]
+speaker_original = "シルヴィ"
+speaker_translation = "실비"
+original = "「むぅ……さすがサーシャ。でも、負けないったら負けないんだから！\u3000この妖怪『誰にでもお姉ちゃん』め！」"
+translation = "「무으…… 역시 사샤. 하지만 지지 않는다면 지지 않는 거야! 이 요괴 『누구에게나 언니인 척하는 여자』 같으니라고!」"
+
+[[dialogue]]
+speaker_original = "サーシャ"
+speaker_translation = "사샤"
+original = "「…………はい？」"
+translation = "「…………네?」"
+
+[[dialogue]]
+speaker_original = "シルヴィ"
+speaker_translation = "실비"
+original = "「あたしが天界から戻ってきたら、誰にでも姉ぶりたがる不審者になっててびっくりしたよね。元からその気はあったけど、酷くなってたし」"
+translation = "「내가 천계에서 돌아왔더니 누구에게나 언니 노릇 하려 드는 수상한 사람이 되어 있어서 깜짝 놀랐다니까. 원래 그런 기질은 있었지만 더 심해졌고!」"
+
+[[dialogue]]
+speaker_original = "シルヴィ"
+speaker_translation = "실비"
+original = "「ソフィアちゃんと離れてるから寂しいのかなと思ってたけど、ソフィアちゃんも流星市国に来てるのにこれなんだから、こいつ根っからなんだなって！」"
+translation = "「소피아짱이랑 떨어져 있어서 외로운가 싶었는데, 소피아짱도 유성시국에 와 있는데도 이러는 걸 보면 이 녀석은 뼛속부터구나 싶더라고!」"
+
+[[dialogue]]
+speaker_original = "サーシャ"
+speaker_translation = "사샤"
+original = "「えぇ～～～っ！？\u3000シルヴィ、そんな風に思ってたの！？」"
+translation = "「에에에~~~!? 실비, 그런 식으로 생각하고 있었어!?」"
+
+[[dialogue]]
+speaker_original = "セーラ"
+speaker_translation = "세라"
+original = "「ぷっ、あはははははっ！\u3000身も蓋もなさすぎ～！」"
+translation = "「푸훕, 아하하하하하! 너무 거침없잖아~!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "シルヴィ先輩はサーシャさんには一切遠慮がない。傍から見ていて冷や冷やするときもあるくらいだ。"
+translation = "실비 선배는 사샤 씨에게 전혀 사양하는 법이 없다. 옆에서 보고 있으면 조마조마할 때가 있을 정도다."
+
+[[dialogue]]
+speaker_original = "サーシャ"
+speaker_translation = "사샤"
+original = "「シルヴィこそ、フライドチキンジャンキーのくせにぃ～～～～！」"
+translation = "「실비야말로 프라이드치킨 중독자 주제에에~~~~!」"
+
+[[dialogue]]
+speaker_original = "サーシャ"
+speaker_translation = "사샤"
+original = "「ふぅ……いいわ、じゃあこうしましょう。私が勝ったら、シルヴィは私のことをお姉ちゃんと呼びなさい。１週間くらい！」"
+translation = "「후우…… 좋아, 그럼 이렇게 하자. 내가 이기면 실비는 나를 언니라고 불러. 일주일 정도!」"
+
+[[dialogue]]
+speaker_original = "シルヴィ"
+speaker_translation = "실비"
+original = "「マジで開き直ったね、サーシャ！\u3000じゃあ、あたしが勝ったらサーシャの奢りでフライドチキン食べ放題、１週間ね！」"
+translation = "「정말로 막 나가기로 했네, 사샤! 그럼 내가 이기면 사샤가 쏘는 프라이드치킨 무한 리필, 일주일이다!」"
+
+[[dialogue]]
+speaker_original = "サーシャ"
+speaker_translation = "사샤"
+original = "「はぁぁぁぁ──！」"
+translation = "「하아아아아──!」"
+
+[[dialogue]]
+speaker_original = "シルヴィ"
+speaker_translation = "실비"
+original = "「うおぉぉぉっ！」"
+translation = "「우오오오옷!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "両者ともに星力が高まる。次が決着の一撃となるだろう。"
+translation = "양쪽 모두 성력이 높아진다. 다음이 결판을 내는 일격이 될 것이다."
+
+[[dialogue]]
+speaker_original = "サーシャ"
+speaker_translation = "사샤"
+original = "「シャドウストロークっ！！」"
+translation = "「섀도 스트로크!!」"
+
+[[dialogue]]
+speaker_original = "シルヴィ"
+speaker_translation = "실비"
+original = "「スクリューウェーブジャベリンっ！！」"
+translation = "「스크류 웨이브 자벨린!!」"
+
+[[dialogue]]
+speaker_original = "サーシャ"
+speaker_translation = "사샤"
+original = "「きゃああぁぁぁっ！」"
+translation = "「꺄아아아아앗!」"
+
+[[dialogue]]
+speaker_original = "シルヴィ"
+speaker_translation = "실비"
+original = "「うわあぁぁぁぁっ！」"
+translation = "「우와아아아아앗!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "星力が激しく激突し、爆発。２人ともそろって吹っ飛ばされるのだった。"
+translation = "성력이 격렬하게 격돌하며 폭발. 두 사람 모두 나란히 날아갔다."
+
+[[dialogue]]
+speaker_original = "蛍火"
+speaker_translation = "호타루비"
+original = "「お疲れ様です。おふたりが模擬戦をしていると聞いて、差し入れを持ってきたのですが…………サーシャ先輩とシルヴィ先輩は？」"
+translation = "「수고하셨습니다. 두 분이 모의전을 하신다기에 간식을 좀 가져왔는데………… 사샤 선배와 실비 선배는요?」"
+
+[[dialogue]]
+speaker_original = "セーラ"
+speaker_translation = "세라"
+original = "「仲良く砂浜に打ち上げられてるよ～」"
+translation = "「사이좋게 모래사장에 떠내려와 있어~」"
+
+[[dialogue]]
+speaker_original = "蛍火"
+speaker_translation = "호타루비"
+original = "「……またですか」"
+translation = "「……또인가요」"
+
+[[dialogue]]
+speaker = "unk"
+original = "またなの？"
+translation = "또인 거야?"
+
+[[dialogue]]
+speaker_original = "蛍火"
+speaker_translation = "호타루비"
+original = "「はい。サーシャ先輩とシルヴィ先輩が模擬戦をすると、だいたいこうなりますね。途中で子どものようなケンカに発展することもしばしばです」"
+translation = "「네. 사샤 선배와 실비 선배가 모의전을 하면 대개 이렇게 됩니다. 도중에 어린아이 같은 싸움으로 번지는 일도 비일비재하죠」"
+
+[[dialogue]]
+speaker_original = "セーラ"
+speaker_translation = "세라"
+original = "「ケンカするほど仲がいいってことかなー？\u3000見てる分にはおもしろいよね～」"
+translation = "「싸울 정도로 사이가 좋다는 걸까나─? 보고 있으면 재미있긴 해~」"
+
+[[dialogue]]
+speaker_original = "蛍火"
+speaker_translation = "호타루비"
+original = "「それはまぁ…………はい」"
+translation = "「그건 뭐………… 네」"
+
+[[dialogue]]
+speaker_original = "サーシャ"
+speaker_translation = "사샤"
+original = "「…………ぷっ」"
+translation = "「…………푸훕」"
+
+[[dialogue]]
+speaker_original = "シルヴィ"
+speaker_translation = "실비"
+original = "「…………ふふっ、んふっ」"
+translation = "「…………후훗, 음훗」"
+
+[[dialogue]]
+speaker_original = "２人"
+speaker_translation = "2명"
+original = "「あはははははははははっ！！」"
+translation = "「아하하하하하하하하하!!」"
+
+[[dialogue]]
+speaker_original = "シルヴィ"
+speaker_translation = "실비"
+original = "「あー、楽しかった。またやろうね！」"
+translation = "「아─, 즐거웠다. 다음에 또 하자!」"
+
+[[dialogue]]
+speaker_original = "サーシャ"
+speaker_translation = "사샤"
+original = "「ええ、次こそ私が勝ってお姉ちゃんになってみせるわ～」"
+translation = "「그래, 다음엔 꼭 내가 이겨서 언니가 되어 보이겠어~」"
+
+[[dialogue]]
+speaker_original = "シルヴィ"
+speaker_translation = "실비"
+original = "「へへっ、妖怪め～」"
+translation = "「헤헷, 요괴 녀석~」"
+
+[[dialogue]]
+speaker = "unk"
+original = "一週間後、丸い焼き菓子の呼び名をめぐって激突することになるのだが、それはまた別の話──"
+translation = "일주일 후, 둥근 구운 과자의 호칭을 두고 격돌하게 되지만, 그것은 또 다른 이야기──"
+

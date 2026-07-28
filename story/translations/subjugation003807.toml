@@ -1,0 +1,351 @@
+[[dialogue]]
+speaker_original = "モンスター"
+speaker_translation = "몬스터"
+original = "「ビガ！？」"
+translation = "「비가!?」"
+
+[[dialogue]]
+speaker_original = "シルヴィ"
+speaker_translation = "실비"
+original = "「マシンの中からなんか出てきた！？」"
+translation = "「머신 안에서 뭐가 나왔어!?」"
+
+[[dialogue]]
+speaker_original = "コハルコ"
+speaker_translation = "쿠하루코"
+original = "「多分、あれがマシン暴走の原因。機械型モンスターがマシンに入り込んで、チキンをモンスター化させていたんだよ」"
+translation = "「아마 저게 머신 폭주의 원인일 거야. 기계형 몬스터가 머신 속에 들어가서 치킨을 몬스터화시키고 있었던 거야」"
+
+[[dialogue]]
+speaker_original = "シルヴィ"
+speaker_translation = "실비"
+original = "「え、でも、あのモンスターどこから入ってきたの！？\u3000モンスターが出たらアラーム鳴るよね？」"
+translation = "「에, 근데 저 몬스터 어디서 들어온 거야!? 몬스터가 나오면 알람 울리잖아?」"
+
+[[dialogue]]
+speaker_original = "コハルコ"
+speaker_translation = "쿠하루코"
+original = "「すぐフライドチキンマシンの中に入り込んだから、検知システムに引っかからなかったんだと思う」"
+translation = "「곧장 프라이드 치킨 머신 안으로 들어갔으니까 검지 시스템에 걸리지 않았던 거라고 봐」"
+
+[[dialogue]]
+speaker_original = "コハルコ"
+speaker_translation = "쿠하루코"
+original = "「並行世界ベガから転移してきたのかもしれない。魔界でもそうやってモンスターが現れたってネビュラから報告があったはず……」"
+translation = "「평행 세계 베가에서 전이해 온 걸지도 몰라. 마계에서도 그렇게 몬스터가 나타났다고 네뷸라한테 보고가 있었을 거야……」"
+
+[[dialogue]]
+speaker_original = "シルヴィ"
+speaker_translation = "실비"
+original = "「さすがコハルコ、詳しいね～」"
+translation = "「역시 코하루코, 잘 아네~」"
+
+[[dialogue]]
+speaker_original = "コハルコ"
+speaker_translation = "쿠하루코"
+original = "「だって、現行のシステム組んだの私だし」"
+translation = "「그야 현행 시스템 짠 게 나니까」"
+
+[[dialogue]]
+speaker_original = "シルヴィ"
+speaker_translation = "실비"
+original = "「そう言うと思った！」"
+translation = "「그렇게 말할 줄 알았어!」"
+
+[[dialogue]]
+speaker_original = "コハルコ"
+speaker_translation = "쿠하루코"
+original = "「今回、一番悪いのはアニマさんでもトリュファイナさんでもなく私だ。この私がセキュリティの穴を見逃すなんて、不甲斐ない……」"
+translation = "「이번에 제일 잘못한 건 아니마 씨도 트리파이나 씨도 아니고 나야. 이 내가 보안의 구멍을 놓치다니, 한심해……」"
+
+[[dialogue]]
+speaker_original = "シルヴィ"
+speaker_translation = "실비"
+original = "「それは違うよ、コハルコ」"
+translation = "「그건 아니야, 코하루코」"
+
+[[dialogue]]
+speaker_original = "コハルコ"
+speaker_translation = "쿠하루코"
+original = "「シルヴィ……」"
+translation = "「실비……」"
+
+[[dialogue]]
+speaker_original = "シルヴィ"
+speaker_translation = "실비"
+original = "「悪いのはモンスターだよ。誰かのせいじゃない。それに、モンスターはみんなで倒すものでしょ。あたしたち星騎士みんなで！」"
+translation = "「나쁜 건 몬스터야. 누구 탓이 아니야. 게다가 몬스터는 다 같이 물리치는 거잖아. 우리 성기사 모두가!」"
+
+[[dialogue]]
+speaker_original = "シルヴィ"
+speaker_translation = "실비"
+original = "「ね、会長くん、リップルちゃん！」"
+translation = "「그치, 회장군, 리플짱!」"
+
+[[dialogue]]
+speaker_original = "リップル"
+speaker_translation = "리플"
+original = "「オフコ－ス！」"
+translation = "「오브 코스!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "はい！"
+translation = "네!"
+
+[[dialogue]]
+speaker_original = "コハルコ"
+speaker_translation = "쿠하루코"
+original = "「ありがとう、みんな。反省は後回しにして、今はモンスターを──あれ、なんか様子が……？」"
+translation = "「고마워, 얘들아. 반성은 나중으로 미루고 지금은 몬스터를── 어라, 뭔가 상태가……?」"
+
+[[dialogue]]
+speaker_original = "モンスター"
+speaker_translation = "몬스터"
+original = "「ビガー！！」"
+translation = "「비가!!」"
+
+[[dialogue]]
+speaker_original = "モンスター"
+speaker_translation = "몬스터"
+original = "「チキチキチー！！」"
+translation = "「치키치키치!」"
+
+[[dialogue]]
+speaker_original = "シルヴィ"
+speaker_translation = "실비"
+original = "「チキンが光ったーーー！！」"
+translation = "「치킨이 빛났다!!!」"
+
+[[dialogue]]
+speaker_original = "コハルコ"
+speaker_translation = "쿠하루코"
+original = "「なんで嬉しそうなの！？」"
+translation = "「왜 기뻐하는 거야!?」"
+
+[[dialogue]]
+speaker_original = "シルヴィ"
+speaker_translation = "실비"
+original = "「いやだって！\u3000こんな強そうなチキン見るの生まれて初めてだから、つい！」"
+translation = "「아니 그게! 이렇게 강해 보이는 치킨 보는 거 태어나서 처음이라 그만!」"
+
+[[dialogue]]
+speaker_original = "コハルコ"
+speaker_translation = "쿠하루코"
+original = "「ついじゃない！\u3000相手はモンスターなんだからね、分かってる？」"
+translation = "「그만이 아니야! 상대는 몬스터라고, 알고 있어?」"
+
+[[dialogue]]
+speaker_original = "シルヴィ"
+speaker_translation = "실비"
+original = "「分かってる分かってる！」"
+translation = "「알고 있어 알고 있어!」"
+
+[[dialogue]]
+speaker_original = "コハルコ"
+speaker_translation = "쿠하루코"
+original = "（どんなピンチでも自然体なのはいいことなんだけど、緊張感がないようにも見えるよね。サーシャが星徒会に入れるの迷ったのも分かるなぁ……）"
+translation = "(어떤 위기 상황에서도 자연스러운 건 좋은 일이지만 긴장감이 없어 보이기도 하네. 사샤가 성도회에 넣을지 고민한 것도 알 것 같아……)"
+
+[[dialogue]]
+speaker_original = "シルヴィ"
+speaker_translation = "실비"
+original = "「どったの？」"
+translation = "「왜 그래?」"
+
+[[dialogue]]
+speaker_original = "コハルコ"
+speaker_translation = "쿠하루코"
+original = "「ううん、なんでもない。シルヴィ、変わらないなと思って」"
+translation = "「아니, 아무것도 아니야. 실비는 변하지 않는구나 싶어서」"
+
+[[dialogue]]
+speaker_original = "シルヴィ"
+speaker_translation = "실비"
+original = "「んー？？？」"
+translation = "「응???」"
+
+[[dialogue]]
+speaker_original = "コハルコ"
+speaker_translation = "쿠하루코"
+original = "「いいよ、シルヴィはそのままで。それより、カッコいいとこ見せてよね」"
+translation = "「됐어, 실비는 그대로 있어줘. 그것보다 멋진 모습 보여줘」"
+
+[[dialogue]]
+speaker_original = "シルヴィ"
+speaker_translation = "실비"
+original = "「おっけー！\u3000じゃあサポートよろしくね！」"
+translation = "「오케이! 그럼 서포트 부탁해!」"
+
+[[dialogue]]
+speaker_original = "コハルコ"
+speaker_translation = "쿠하루코"
+original = "「うん、任せて。エフェクトランチャー起動──」"
+translation = "「응, 맡겨줘. 이펙트 런처 기동──」"
+
+[[dialogue]]
+speaker_original = "コハルコ"
+speaker_translation = "쿠하루코"
+original = "「リングノーツプロジェクション！」"
+translation = "「링 노츠 프로젝션!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ドルフィンドローンから光輪が空中に投射され、色とりどりの光が空を彩る。"
+translation = "돌핀 드론에서 광륜이 공중에 투사되어 형형색색의 빛이 하늘을 수놓는다."
+
+[[dialogue]]
+speaker_original = "シルヴィ"
+speaker_translation = "실비"
+original = "「よっしゃ、力湧いてきた！」"
+translation = "「좋아, 힘이 솟구친다!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "光の輪をくぐったシルヴィ先輩のまとう星力が増す。"
+translation = "빛의 고리를 통과한 실비 선배가 두른 성력이 증폭된다."
+
+[[dialogue]]
+speaker_original = "シルヴィ"
+speaker_translation = "실비"
+original = "「いっけー！」"
+translation = "「가랏!」"
+
+[[dialogue]]
+speaker_original = "モンスター"
+speaker_translation = "몬스터"
+original = "「チキー！」"
+translation = "「치키!」"
+
+[[dialogue]]
+speaker_original = "シルヴィ"
+speaker_translation = "실비"
+original = "「あはっ！\u3000簡単には倒せないかー！」"
+translation = "「아핫! 쉽게는 안 쓰러지나~!」"
+
+[[dialogue]]
+speaker_original = "モンスター"
+speaker_translation = "몬스터"
+original = "「チキチキ！」"
+translation = "「치키치키!」"
+
+[[dialogue]]
+speaker_original = "リップル"
+speaker_translation = "리플"
+original = "「させませーん！」"
+translation = "「안 보냅니당!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "モンスターの攻撃を、リップルが生み出した波の障壁が遮った。"
+translation = "몬스터의 공격을 리플이 만들어낸 파도의 장벽이 차단했다."
+
+[[dialogue]]
+speaker = "unk"
+original = "ディマイズブレイカー！"
+translation = "디마이즈 브레이커!"
+
+[[dialogue]]
+speaker_original = "モンスター"
+speaker_translation = "몬스터"
+original = "「チキィ！」"
+translation = "「치키!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "俺が拳で穿ったのは、骨と肉の境目。<ruby>ＧＦＣ<rt>ガルスフライドチキン</rt></ruby>のバイト経験から、肉がきれいにはがれる場所を狙った。"
+translation = "내가 주먹으로 꿰뚫은 것은 뼈와 살의 경계. <ruby>GFC<rt>갈스 프라이드 치킨</rt></ruby>의 알바 경험으로 살이 깔끔하게 발라지는 곳을 노렸다."
+
+[[dialogue]]
+speaker_original = "シルヴィ"
+speaker_translation = "실비"
+original = "「さっすが会長くん！\u3000あたしも負けないよ！\u3000はぁああああっ！！」"
+translation = "「역~시 회장군! 나도 안 질 거야! 하아아아앗!!」"
+
+[[dialogue]]
+speaker_original = "モンスター"
+speaker_translation = "몬스터"
+original = "「チキィッ！！」"
+translation = "「치키잇!!」"
+
+[[dialogue]]
+speaker_original = "シルヴィ"
+speaker_translation = "실비"
+original = "「効いてる効いてるっ！」"
+translation = "「먹히고 있어 먹히고 있어!」"
+
+[[dialogue]]
+speaker_original = "シルヴィ"
+speaker_translation = "실비"
+original = "「また湧いてきた！？\u3000そういうのもできるんだ！\u3000コハルコ！」"
+translation = "「또 솟아나!? 그런 것도 할 수 있구나! 코하루코!」"
+
+[[dialogue]]
+speaker_original = "コハルコ"
+speaker_translation = "쿠하루코"
+original = "「分かってる！\u3000索敵開始！」"
+translation = "「알고 있어! 색적 개시!」"
+
+[[dialogue]]
+speaker_original = "コハルコ"
+speaker_translation = "쿠하루코"
+original = "「……会長さん、５時の方向に３！\u3000リップルさん、９時の方向に２！」"
+translation = "「……회장님, 5시 방향에 셋! 리플 씨, 9시 방향에 둘!」"
+
+[[dialogue]]
+speaker_original = "リップル"
+speaker_translation = "리플"
+original = "「リョーカイ！\u3000ハッピーライディング！」"
+translation = "「라져! 해피 라이딩!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "四方八方からチキンモンスターが襲い掛かるが、コハルコさんの指示で的確に迎撃する。"
+translation = "사방팔방에서 치킨 몬스터가 습격해오지만 코하루코 씨의 지시로 적절히 요격한다."
+
+[[dialogue]]
+speaker = "unk"
+original = "ドルフィンドローンの索敵とコハルコさんの情報処理が合わされば、敵ではない。"
+translation = "돌핀 드론의 색적과 코하루코 씨의 정보 처리가 합쳐지면 적수가 되지 않는다."
+
+[[dialogue]]
+speaker_original = "モンスター"
+speaker_translation = "몬스터"
+original = "「チキィ……」"
+translation = "「치키……」"
+
+[[dialogue]]
+speaker_original = "シルヴィ"
+speaker_translation = "실비"
+original = "「そろそろ食べどきかな？\u3000よーし、あたしに続いて、みんな！」"
+translation = "「슬슬 먹을 때가 됐나? 좋아, 나를 따라와, 얘들아!」"
+
+[[dialogue]]
+speaker_original = "リップル"
+speaker_translation = "리플"
+original = "「いきまーす！\u3000リゾートオーシャン！」"
+translation = "「갑니당! 리조트 오션!」"
+
+[[dialogue]]
+speaker_original = "コハルコ"
+speaker_translation = "쿠하루코"
+original = "「ターゲットロック……エコーノイズショット！」"
+translation = "「타겟 록…… 에코 노이즈 샷!」"
+
+[[dialogue]]
+speaker_original = "シルヴィ"
+speaker_translation = "실비"
+original = "「チキン、いただきまぁす！！\u3000ストームスピアフィッシャァーーーッ！！」"
+translation = "「치킨, 잘 먹겠습니다!! 스톰 스피어 피셔어어어엇!!!」"
+
+[[dialogue]]
+speaker_original = "モンスター"
+speaker_translation = "몬스터"
+original = "「チキーーーーーンッ！！」"
+translation = "「치키이이이이인!!!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "嵐をまとった銛がチキンを貫き、チキンモンスターは断末魔とともに消滅したのだった。"
+translation = "폭풍을 두른 작살이 치킨을 꿰뚫고, 치킨 몬스터는 단말마와 함께 소멸했다."
+

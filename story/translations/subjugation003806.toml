@@ -1,0 +1,352 @@
+[[dialogue]]
+speaker = "unk"
+original = "翌朝、俺たちはリップルの用意してくれた朝食を平らげて行動を開始した。"
+translation = "다음 날 아침, 우리들은 리플이 준비해 준 아침 식사를 해치우고 행동을 개시했다."
+
+[[dialogue]]
+speaker_original = "コハルコ"
+speaker_translation = "쿠하루코"
+original = "「うぅ……食べすぎちゃったかな。リゾート結界って何でも美味しいからつい……ただでさえ最近、運動不足なのにぃ……」"
+translation = "「으으…… 너무 많이 먹었나. 리조트 결계는 뭐든 맛있어서 그만…… 안 그래도 요즘 운동 부족인데에……」"
+
+[[dialogue]]
+speaker_original = "コハルコ"
+speaker_translation = "쿠하루코"
+original = "「……あ、なんでもない、なんでもないから！\u3000ただの独り言、気にしないで！」"
+translation = "「……아, 아무것도 아니야, 아무것도 아니니까! 그냥 혼잣말이야, 신경 쓰지 마!」"
+
+[[dialogue]]
+speaker_original = "コハルコ"
+speaker_translation = "쿠하루코"
+original = "「さて、気を取り直して、マシンを探そう！」"
+translation = "「자, 기운 차리고 머신을 찾자!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "コハルコさんがそうおっしゃるなら、本当に何でもないのだろう。聞かなかったことにして忘れよう。"
+translation = "코하루코 씨가 그렇게 말씀하신다면 정말 아무것도 아닐 것이다. 못 들은 척 잊어버리자."
+
+[[dialogue]]
+speaker_original = "コハルコ"
+speaker_translation = "쿠하루코"
+original = "「まずはこれを見て」"
+translation = "「우선 이걸 봐」"
+
+[[dialogue]]
+speaker = "unk"
+original = "コハルコさんのドルフィンドローンから光が投射され、地球儀のようなものを浮かび上がらせる。"
+translation = "코하루코 씨의 돌핀 드론에서 빛이 투사되어 지구본 같은 것을 띄워 올린다."
+
+[[dialogue]]
+speaker_original = "コハルコ"
+speaker_translation = "쿠하루코"
+original = "「これが現在のリゾート結界の地図だよ」"
+translation = "「이게 현재 리조트 결계의 지도야」"
+
+[[dialogue]]
+speaker_original = "コハルコ"
+speaker_translation = "쿠하루코"
+original = "「リゾート結界にある海の家を経度・緯度ともにゼロとして、調査を開始。調査済みポイントを塗り潰しながら、マシンの位置を特定する予定だよ」"
+translation = "「리조트 결계에 있는 바다의 집을 경도·위도 모두 제로로 잡고 조사 개시. 조사 완료 포인트를 지워나가면서 머신의 위치를 특정할 예정이야」"
+
+[[dialogue]]
+speaker = "unk"
+original = "実に計画的だ。これに比べると、昨日のシルヴィ先輩との調査は行き当たりばったりだった。"
+translation = "실로 계획적이다. 이에 비하면 어제 실비 선배와의 조사는 좌충우돌이었다."
+
+[[dialogue]]
+speaker_original = "コハルコ"
+speaker_translation = "쿠하루코"
+original = "「質問はないかな？\u3000なければ──作戦開始！」"
+translation = "「질문 없니? 없으면── 작전 개시!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "時計の針が１２時を回ったころ、ちょうどリゾート結界の半分を調査し終えた。コハルコさんのドローンが優秀で、俺はほとんど見ているだけだったけど。"
+translation = "시계바늘이 12시를 돌았을 즈음, 마침 리조트 결계의 절반을 조사 마쳤다. 코하루코 씨의 드론이 우수해서 나는 거의 보고만 있었지만."
+
+[[dialogue]]
+speaker_original = "コハルコ"
+speaker_translation = "쿠하루코"
+original = "「よし、この地点は調査完了。だいぶ絞れてきたね」"
+translation = "「좋아, 이 지점은 조사 완료. 꽤 좁혀졌네」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ドルフィンドローンが海面から飛び出し、コハルコさんの頭上を旋回する。空中、水中を問わず高い探索能力を誇るニクいやつだ。"
+translation = "돌핀 드론이 해수면에서 튀어나와 코하루코 씨의 머리 위를 선회한다. 공중, 수중을 가리지 않고 높은 탐색 능력을 자랑하는 얄미운 녀석이다."
+
+[[dialogue]]
+speaker_original = "コハルコ"
+speaker_translation = "쿠하루코"
+original = "「ちょっと休憩して、お昼にしよう。はい、お弁当。リップルさんから預かってきてるよ」"
+translation = "「잠깐 쉬고 점심 먹자. 자, 도시락. 리플 씨한테 맡아왔어」"
+
+[[dialogue]]
+speaker_original = "コハルコ"
+speaker_translation = "쿠하루코"
+original = "「中身はなんだろ……あ、ロコモコ丼だ。いい匂い」"
+translation = "「내용물은 뭘까…… 아, 로코모코 덮밥이다. 좋은 냄새」"
+
+[[dialogue]]
+speaker_original = "コハルコ"
+speaker_translation = "쿠하루코"
+original = "「しかもホカホカ……どうやって……？」"
+translation = "「게다가 따끈따끈해…… 어떻게 한 거지……?」"
+
+[[dialogue]]
+speaker_original = "コハルコ"
+speaker_translation = "쿠하루코"
+original = "「そうか、弁当箱に時間を止める結界をかけてあるんだ。さすがリップルさん。私も魔法でマネできないか試してみようっと」"
+translation = "「그렇구나, 도시락통에 시간을 멈추는 결계를 걸어뒀구나. 역시 리플 씨. 나도 마법으로 흉내 낼 수 없는지 시험해봐야지」"
+
+[[dialogue]]
+speaker_original = "コハルコ"
+speaker_translation = "쿠하루코"
+original = "「ん～～、美味しい！\u3000濃いソースがごはんに合う！」"
+translation = "「으~~음, 맛있다! 진한 소스가 밥이랑 잘 어울려!」"
+
+[[dialogue]]
+speaker_original = "コハルコ"
+speaker_translation = "쿠하루코"
+original = "「会長さん、どうしたの？\u3000私の顔になんかついてる？」"
+translation = "「회장님, 왜 그래? 내 얼굴에 뭐 묻었어?」"
+
+[[dialogue]]
+speaker_original = "コハルコ"
+speaker_translation = "쿠하루코"
+original = "「……学園を卒業したら、どうするつもりかって？\u3000ああ、昨日、シルヴィとそんな話したんだ」"
+translation = "「……학원을 졸업하면 어떻게 할 생각이냐고? 아아, 어제 실비랑 그런 얘기 했었지」"
+
+[[dialogue]]
+speaker_original = "コハルコ"
+speaker_translation = "쿠하루코"
+original = "「う～～ん、私はどうもしないかな。新星学園のシステム担当は入学前から決まってたことだし、入学したのもたまたま星力の適性があったからだしね」"
+translation = "「으~~음, 나는 딱히 변하는 건 없으려나. 신성 학원의 시스템 담당은 입학 전부터 정해져 있던 일이고, 입학한 것도 우연히 성력 적성이 있었기 때문이니까」"
+
+[[dialogue]]
+speaker_original = "コハルコ"
+speaker_translation = "쿠하루코"
+original = "「卒業したら、このままシステム担当をしながら家のパーツショップを手伝って、妹の面倒を見て…………うん、今とそんなに変わらないかな」"
+translation = "「졸업하면 이대로 시스템 담당을 하면서 집의 부품 가게를 돕고, 여동생을 돌보고………… 응, 지금이랑 그렇게 다르지 않을 것 같아」"
+
+[[dialogue]]
+speaker_original = "コハルコ"
+speaker_translation = "쿠하루코"
+original = "「私は３年生だから会長さんより一足先に卒業しちゃうけど、これまで通りシステム周りはやる予定だから安心して。新星学園のシステムは私が守るよ」"
+translation = "「나는 3학년이라 회장님보다 한발 먼저 졸업해버리겠지만, 전처럼 시스템 쪽은 맡을 예정이니까 안심해. 신성 학원의 시스템은 내가 지킬게」"
+
+[[dialogue]]
+speaker_original = "コハルコ"
+speaker_translation = "쿠하루코"
+original = "「でも、サーシャやシルヴィを始め、３年のみんなが卒業しちゃうのは寂しいな……」"
+translation = "「하지만 사샤나 실비를 비롯해서 3학년 애들이 졸업해버리는 건 외롭네……」"
+
+[[dialogue]]
+speaker_original = "コハルコ"
+speaker_translation = "쿠하루코"
+original = "「ううん、まだ先の話だよね。寂しがる前に、今は目の前のことを考えよう」"
+translation = "「아니, 아직 나중 일이지. 외로워하기 전에 지금은 눈앞의 일을 생각하자」"
+
+[[dialogue]]
+speaker_original = "コハルコ"
+speaker_translation = "쿠하루코"
+original = "「いつも朗らかなトリュファイナさんが、あんなに落ち込んでるの初めて見た……。マシンを見付けて、トリュファイナさんを早く安心させてあげなくちゃ」"
+translation = "「항상 쾌활한 트리파이나 씨가 저렇게 낙담하는 거 처음 봤어……. 머신을 찾아서 트리파이나 씨를 빨리 안심시켜 드려야 해」"
+
+[[dialogue]]
+speaker_original = "モンスター"
+speaker_translation = "몬스터"
+original = "「チキチキチー！！」"
+translation = "「치키치키치!」"
+
+[[dialogue]]
+speaker_original = "コハルコ"
+speaker_translation = "쿠하루코"
+original = "「もう、言った傍から！\u3000迎撃するよ、会長さん！」"
+translation = "「정말, 말하기가 무섭게! 요격하자, 회장님!」"
+
+[[dialogue]]
+speaker_original = "コハルコ"
+speaker_translation = "쿠하루코"
+original = "「エコーノイズショット！」"
+translation = "「에코 노이즈 샷!」"
+
+[[dialogue]]
+speaker_original = "コハルコ"
+speaker_translation = "쿠하루코"
+original = "「会長さん、少し時間を稼いで。一網打尽にするよ」"
+translation = "「회장님, 시간 좀 벌어줘. 일망타진할게」"
+
+[[dialogue]]
+speaker = "unk"
+original = "了解！"
+translation = "라져!"
+
+[[dialogue]]
+speaker = "unk"
+original = "星力を纏った拳で迎撃すると、アツアツの油が飛び散り、辺りに香ばしい匂いが漂った。ＧＦＣのバイト時代を思い出す。"
+translation = "성력을 두른 주먹으로 요격하자 뜨끈한 기름이 튀며 주변에 고소한 냄새가 감돌았다. GFC 알바 시절이 떠오른다."
+
+[[dialogue]]
+speaker_original = "コハルコ"
+speaker_translation = "쿠하루코"
+original = "「ハイドロジェット最大出力！\u3000フロムアビスインパクト！」"
+translation = "「하이드로 제트 최대 출력! 프롬 어비스 임팩트!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "水流で加速したドルフィンドローンがチキンを吹っ飛ばした。ドローンが空中で優雅に一回転する。"
+translation = "수류로 가속한 돌핀 드론이 치킨을 날려버렸다. 드론이 공중에서 우아하게 한 바퀴 회전한다."
+
+[[dialogue]]
+speaker_original = "コハルコ"
+speaker_translation = "쿠하루코"
+original = "「よし、無力化成功──」"
+translation = "「좋아, 무력화 성공──」"
+
+[[dialogue]]
+speaker_original = "コハルコ"
+speaker_translation = "쿠하루코"
+original = "「チキンがまた出たー！？」"
+translation = "「치킨이 또 나왔어!?」"
+
+[[dialogue]]
+speaker_original = "コハルコ"
+speaker_translation = "쿠하루코"
+original = "「もしかしなくても、出現頻度が少しずつ上がってる。てことは、マシンに近付いてるんだ。でもこの数は私たちだけじゃ厳しいかも……」"
+translation = "「설마가 아니라 출현 빈도가 조금씩 올라가고 있어. 그 말은 머신에 가까워지고 있다는 거야. 하지만 이 숫자는 우리끼리는 힘들지도 몰라……」"
+
+[[dialogue]]
+speaker_original = "シルヴィ"
+speaker_translation = "실비"
+original = "「助太刀するよ！」"
+translation = "「도와주러 왔어!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "シルヴィ先輩！"
+translation = "실비 선배!"
+
+[[dialogue]]
+speaker_original = "リップル"
+speaker_translation = "리플"
+original = "「ワタシもいまーす！」"
+translation = "「저도 있어용!」"
+
+[[dialogue]]
+speaker_original = "シルヴィ"
+speaker_translation = "실비"
+original = "「あたしたちのアツアツチキンサーチによれば、マシンはこの近くだよ！」"
+translation = "「우리들의 뜨끈뜨끈 치킨 서치에 따르면 머신은 이 근처야!」"
+
+[[dialogue]]
+speaker_original = "コハルコ"
+speaker_translation = "쿠하루코"
+original = "「は？\u3000アツアツチキンサーチ？」"
+translation = "「하? 뜨끈뜨끈 치킨 서치?」"
+
+[[dialogue]]
+speaker_original = "シルヴィ"
+speaker_translation = "실비"
+original = "「アツアツチキンサーチっていうのはね……」"
+translation = "「뜨끈뜨끈 치킨 서치라는 건 말이지……」"
+
+[[dialogue]]
+speaker_original = "シルヴィ"
+speaker_translation = "실비"
+original = "「リップルちゃんにお願いがあるんだ」"
+translation = "「리플짱한테 부탁이 있어」"
+
+[[dialogue]]
+speaker_original = "リップル"
+speaker_translation = "리플"
+original = "「オネガイですか？」"
+translation = "「부탁인가용?」"
+
+[[dialogue]]
+speaker_original = "シルヴィ"
+speaker_translation = "실비"
+original = "「うん。リップルちゃん、時間を止める結界を作れるって聞いたんだけど、本当？」"
+translation = "「응. 리플짱, 시간을 멈추는 결계를 만들 수 있다고 들었는데 정말이야?」"
+
+[[dialogue]]
+speaker_original = "リップル"
+speaker_translation = "리플"
+original = "「ハイ。デモ、夏パワーをタクサン消費するので、今は少しだけしかできマセン……」"
+translation = "「네. 하지만 여름 파워를 잔뜩 소비해서 지금은 아주 조금밖에 못 해용……」"
+
+[[dialogue]]
+speaker_original = "シルヴィ"
+speaker_translation = "실비"
+original = "「少しで大丈夫。モンスターを倒したら、戻ったチキンを食べずに結界に入れておくの。で、チキン同士を比べてみて、よりアツアツの方にマシンがいるって寸法だよ」"
+translation = "「조금이면 돼. 몬스터를 쓰러뜨리면 원래대로 돌아온 치킨을 먹지 말고 결계에 넣어두는 거야. 그래서 치킨끼리 비교해보고, 더 뜨끈뜨끈한 쪽에 머신이 있다는 계산이지」"
+
+[[dialogue]]
+speaker_original = "シルヴィ"
+speaker_translation = "실비"
+original = "「名付けて、アツアツチキンサーチ！」"
+translation = "「이름하여, 뜨끈뜨끈 치킨 서치!」"
+
+[[dialogue]]
+speaker_original = "リップル"
+speaker_translation = "리플"
+original = "「オー、ナイスアイディアでーす！」"
+translation = "「오, 나이스 아이디어네용!」"
+
+[[dialogue]]
+speaker_original = "シルヴィ"
+speaker_translation = "실비"
+original = "「というワケだよ！」"
+translation = "「그렇게 된 거야!」"
+
+[[dialogue]]
+speaker_original = "コハルコ"
+speaker_translation = "쿠하루코"
+original = "「えぇ……それ、ほぼ直感では」"
+translation = "「에휴…… 그거 거의 직감이잖아」"
+
+[[dialogue]]
+speaker_original = "シルヴィ"
+speaker_translation = "실비"
+original = "「いいんだよ、見付かれば！\u3000そのあたしの直感が告げてる！\u3000チキンマシンは、そこだぁ！\u3000てぇりゃあああっ！」"
+translation = "「찾으면 장땡이야! 내 직감이 말하고 있어! 치킨 머신은 거기다아! 테랴아아앗!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "シルヴィ先輩の銛が、海面の岩塊に突き刺さった。岩塊は崩れ去り、四角いマシンが顔を出した。"
+translation = "실비 선배의 작살이 해수면의 바위덩어리에 박혔다. 바위덩어리는 무너져 내리고 사각형 머신이 모습을 드러냈다."
+
+[[dialogue]]
+speaker_original = "コハルコ"
+speaker_translation = "쿠하루코"
+original = "「ウソ！？\u3000ホントにあった！」"
+translation = "「거짓말!? 진짜 있었어!」"
+
+[[dialogue]]
+speaker_original = "シルヴィ"
+speaker_translation = "실비"
+original = "「このまま破壊しちゃうよ！\u3000そりゃあ！」"
+translation = "「이대로 부숴버릴게! 에잇!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "再び銛が飛び、マシンを貫く。"
+translation = "다시 작살이 날아가 머신을 꿰뚫는다."
+
+[[dialogue]]
+speaker = "unk"
+original = "すると中から出てきたのは──"
+translation = "그러자 안에서 나온 것은──"
+
+[[dialogue]]
+speaker_original = "モンスター"
+speaker_translation = "몬스터"
+original = "「ビガ！？」"
+translation = "「비가!?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "見覚えのある、機械型モンスターだった。"
+translation = "낯익은 기계형 몬스터였다."
+

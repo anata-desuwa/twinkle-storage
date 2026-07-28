@@ -1,0 +1,283 @@
+[[dialogue]]
+speaker = "unk"
+original = "第４話,君と海とこれからと,P"
+translation = "제4화, 너와 바다와 앞으로와, P"
+
+[[dialogue]]
+speaker_original = "コハルコ"
+speaker_translation = "쿠하루코"
+original = "「ナツコ、トウコ。あんまり遠くまで行っちゃダメだからね」"
+translation = "「나츠코, 토우코. 너무 멀리까지 가면 안 돼」"
+
+[[dialogue]]
+speaker_original = "ナツコ"
+speaker_translation = "나츠코"
+original = "「はーい！」"
+translation = "「네ー에!」"
+
+[[dialogue]]
+speaker_original = "トウコ"
+speaker_translation = "토우코"
+original = "「うん」"
+translation = "「응」"
+
+[[dialogue]]
+speaker_original = "コハルコ"
+speaker_translation = "쿠하루코"
+original = "「会長さんも、２人のこと見ててくれる？」"
+translation = "「회장님도 애들 좀 봐줄래?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "もちろん"
+translation = "물론이지"
+
+[[dialogue]]
+speaker_original = "コハルコ"
+speaker_translation = "쿠하루코"
+original = "「ありがとう。なんかごめんね」"
+translation = "「고마워. 왠지 미안하네」"
+
+[[dialogue]]
+speaker = "unk"
+original = "２人とも俺にとっても大切な妹だから"
+translation = "둘 다 나에게 있어서도 소중한 동생들이니까"
+
+[[dialogue]]
+speaker_original = "コハルコ"
+speaker_translation = "쿠하루코"
+original = "「……うん、そう言ってくれると本当に嬉しい。ありがとう」"
+translation = "「……응, 그렇게 말해주니까 정말 기뻐. 고마워」"
+
+[[dialogue]]
+speaker = "unk"
+original = "今日は朝比奈家の海水浴に男手としてついてきた。家族水入らずにお邪魔かとも思ったけど、コハルコと一緒にいられるのはやっぱり嬉しい。"
+translation = "오늘은 아사히나 가문의 해수욕에 일손으로서 따라왔다. 가족끼리 오붓한 시간에 방해가 될까 싶기도 했지만, 코하루코와 함께 있을 수 있는 건 역시 기쁘다."
+
+[[dialogue]]
+speaker_original = "コハルコ父"
+speaker_translation = "쿠하루코 아빠"
+original = "「緋宮くんが来てくれてよかったよ。バーベキューをしようと思ったんだけど、僕たちだけじゃ心許なくてね」"
+translation = "「히노미야 군이 와줘서 다행이야. 바비큐를 하려고 했는데, 우리끼리만으론 좀 불안했거든」"
+
+[[dialogue]]
+speaker_original = "コハルコ母"
+speaker_translation = "쿠하루코 엄마"
+original = "「お手伝いありがとうね。その代わりといってはなんだけど、お肉たくさん食べて」"
+translation = "「도와줘서 고마워요. 대신이라고 하긴 뭐하지만, 고기 많이 먹으렴」"
+
+[[dialogue]]
+speaker_original = "ナツコ"
+speaker_translation = "나츠코"
+original = "「ごちそうさま！」"
+translation = "「잘 먹었습니다!」"
+
+[[dialogue]]
+speaker_original = "トウコ"
+speaker_translation = "토우코"
+original = "「ごちそうさまでした」"
+translation = "「잘 먹었습니다」"
+
+[[dialogue]]
+speaker_original = "コハルコ"
+speaker_translation = "쿠하루코"
+original = "「はい、お粗末様でした」"
+translation = "「네, 별말씀을요」"
+
+[[dialogue]]
+speaker_original = "コハルコ"
+speaker_translation = "쿠하루코"
+original = "「会長さん、ありがとう。おかげでバーベキュー大成功だね。ちゃんとお肉食べられた？」"
+translation = "「회장님, 고마워. 덕분에 바비큐 대성공이네. 고기 제대로 먹었어?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "お腹いっぱいです……"
+translation = "배불러요……"
+
+[[dialogue]]
+speaker_original = "コハルコ"
+speaker_translation = "쿠하루코"
+original = "「あー、なんかごめんね、お父さんもお母さんも張り切っちゃって……」"
+translation = "「아ー, 왠지 미안해, 아빠도 엄마도 의욕이 넘쳐서……」"
+
+[[dialogue]]
+speaker_original = "コハルコ"
+speaker_translation = "쿠하루코"
+original = "「２人とも、会長さんには感謝してるんだ」"
+translation = "「두 분 다 회장님께 감사하고 있어」"
+
+[[dialogue]]
+speaker_original = "コハルコ"
+speaker_translation = "쿠하루코"
+original = "「コラプサーのときは私を助けてくれたし、妹たちとも仲良くしてくれるし。今日だって一緒にバーベキュー来てくれたしね」"
+translation = "「콜랩서 때는 나를 구해줬고, 동생들이랑도 사이좋게 지내주고. 오늘도 이렇게 같이 바비큐 하러 와줬으니까」"
+
+[[dialogue]]
+speaker_original = "コハルコ父"
+speaker_translation = "쿠하루코 아빠"
+original = "「片付けは僕らがやるから、コハルコと緋宮くんは遊んでおいで」"
+translation = "「뒷정리는 우리가 할 테니, 코하루코랑 히노미야 군은 놀다 오렴」"
+
+[[dialogue]]
+speaker_original = "コハルコ母"
+speaker_translation = "쿠하루코 엄마"
+original = "「ナツコ、トウコ。お父さんのお手伝いしようか」"
+translation = "「나츠코, 토우코. 아빠 좀 도와줄까?」"
+
+[[dialogue]]
+speaker_original = "ナツコ"
+speaker_translation = "나츠코"
+original = "「はーい！」"
+translation = "「네ー에!」"
+
+[[dialogue]]
+speaker_original = "トウコ"
+speaker_translation = "토우코"
+original = "「お姉ちゃん、会長さん、いってらっしゃい」"
+translation = "「언니, 회장님, 다녀오세요」"
+
+[[dialogue]]
+speaker_original = "コハルコ"
+speaker_translation = "쿠하루코"
+original = "「じゃ、お願いしようかな。会長さん、行こ行こ」"
+translation = "「그럼 부탁해볼까. 회장님, 가자 가자」"
+
+[[dialogue]]
+speaker = "unk"
+original = "コハルコに手を引かれ、夏の海に繰り出す。"
+translation = "코하루코에게 손을 이끌려, 여름 바다로 나간다."
+
+[[dialogue]]
+speaker_original = "コハルコ"
+speaker_translation = "쿠하루코"
+original = "「そぉれ！」"
+translation = "「이얍!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "お返しだっ！"
+translation = "복수다!"
+
+[[dialogue]]
+speaker_original = "コハルコ"
+speaker_translation = "쿠하루코"
+original = "「あはははっ、しょっぱ！」"
+translation = "「아하하하, 짜!」"
+
+[[dialogue]]
+speaker_original = "コハルコ"
+speaker_translation = "쿠하루코"
+original = "「んー、ちゅっ<emoji=heart04>」"
+translation = "「음ー, 쪽<emoji=heart04>」"
+
+[[dialogue]]
+speaker_original = "コハルコ"
+speaker_translation = "쿠하루코"
+original = "「ふふっ、会長さんの唇もしょっぱい」"
+translation = "「후후, 회장님 입술도 짜네」"
+
+[[dialogue]]
+speaker_original = "コハルコ"
+speaker_translation = "쿠하루코"
+original = "「海で彼氏と遊んでるなんて、学園に入る前の私が知ったらびっくりするだろうな。彼氏ができるのも、海に行くのも、想像もしてなかった」"
+translation = "「바다에서 남자친구랑 놀고 있다니, 학원에 들어가기 전의 내가 알면 깜짝 놀라겠지. 남자친구가 생기는 것도, 바다에 가는 것도, 상상도 못 했어」"
+
+[[dialogue]]
+speaker_original = "コハルコ"
+speaker_translation = "쿠하루코"
+original = "「今日だって、浜辺でバーベキューなんて、会長さんがいなかったらできなかっただろうしね。妹たちにも夏の思い出を作ってあげられてよかった」"
+translation = "「오늘만 해도 해변에서 바비큐라니, 회장님이 없었다면 못 했을 거고 말이야. 동생들에게도 여름 추억을 만들어 줄 수 있어서 다행이야」"
+
+[[dialogue]]
+speaker_original = "コハルコ"
+speaker_translation = "쿠하루코"
+original = "「いつもありがとう。会長さんがいるから、私の世界が広がってる気がする」"
+translation = "「항상 고마워. 회장님이 있으니까 내 세계가 넓어지는 기분이야」"
+
+[[dialogue]]
+speaker_original = "コハルコ"
+speaker_translation = "쿠하루코"
+original = "「……え、泳げると世界がもっと広がる？」"
+translation = "「……에, 헤엄칠 줄 알게 되면 세계가 더 넓어진다고?」"
+
+[[dialogue]]
+speaker_original = "コハルコ"
+speaker_translation = "쿠하루코"
+original = "「そ、それはおいおいね……そのうち……いつかきっと……将来的に……」"
+translation = "「그, 그건 차차 생각하자…… 조만간…… 언젠가 꼭…… 장래적으로는……」"
+
+[[dialogue]]
+speaker_original = "コハルコ"
+speaker_translation = "쿠하루코"
+original = "「あ、将来といえば……」"
+translation = "「아, 장래라고 하니까……」"
+
+[[dialogue]]
+speaker_original = "コハルコ"
+speaker_translation = "쿠하루코"
+original = "「……この前、話したこと覚えてる？\u3000学園を卒業したらって」"
+translation = "「……저번에 한 말 기억해? 학원을 졸업하면 말이야」"
+
+[[dialogue]]
+speaker_original = "コハルコ"
+speaker_translation = "쿠하루코"
+original = "「私は家族が大好き。生まれ育った秋葉原も大好き。卒業後も今と変わらず学園で働きながら、家族を支えていけたらなって思ってる」"
+translation = "「나는 가족을 정말 좋아해. 나고 자란 아키하바라도 정말 좋아하고. 졸업 후에도 지금과 변함없이 학원에서 일하면서, 가족을 지탱해 나갈 수 있다면 좋겠다고 생각하고 있어」"
+
+[[dialogue]]
+speaker_original = "コハルコ"
+speaker_translation = "쿠하루코"
+original = "「会長さんはどう？\u3000卒業後のことって考えてる？」"
+translation = "「회장님은 어때? 졸업 후의 일 생각하고 있어?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "今までリクリエとの戦いで精いっぱいで、その先のことなんて考える余裕はなかった。"
+translation = "지금까지 리크리에와의 싸움에 전력을 다하느라, 그 너머의 일 같은 건 생각할 여유가 없었다."
+
+[[dialogue]]
+speaker = "unk"
+original = "でも今は……いや、そろそろ考えないといけないのかもしれない。"
+translation = "하지만 지금은…… 아니, 슬슬 생각해야 할 때인지도 모른다."
+
+[[dialogue]]
+speaker_original = "コハルコ"
+speaker_translation = "쿠하루코"
+original = "「もし、卒業後のこと決めてないんだったら……秋葉原の小さいお店なんだけど、どうかな？」"
+translation = "「만약 졸업 후의 일 정하지 않았다면…… 아키하바라의 작은 가게지만, 어떨까?」"
+
+[[dialogue]]
+speaker_original = "コハルコ"
+speaker_translation = "쿠하루코"
+original = "「…………言ってみただけ、言ってみただけだから！\u3000会長さんにも将来やりたいこととかあると思うし」"
+translation = "「…………말해본 것뿐이야, 말해본 것뿐이니까! 회장님도 장래에 하고 싶은 일 같은 거 있을 거고」"
+
+[[dialogue]]
+speaker_original = "コハルコ"
+speaker_translation = "쿠하루코"
+original = "「でも、少しだけでも考えてくれたら嬉しいな。うちの家族も喜ぶよ」"
+translation = "「하지만 조금이라도 생각해 주면 기쁘겠어. 우리 가족도 좋아할 거야」"
+
+[[dialogue]]
+speaker = "unk"
+original = "それがどんな形になるかはまだ分からないけど、これからもコハルコと一緒に生きていける道を選びたい。"
+translation = "그것이 어떤 형태가 될지는 아직 모르겠지만, 앞으로도 코하루코와 함께 살아갈 수 있는 길을 택하고 싶다."
+
+[[dialogue]]
+speaker = "unk"
+original = "分かった。考えとく"
+translation = "알았어. 생각해둘게"
+
+[[dialogue]]
+speaker_original = "コハルコ"
+speaker_translation = "쿠하루코"
+original = "「うん、ありがとう。私も君とこれからも一緒にいたい…………ううん、これからも一緒にいようね」"
+translation = "「응, 고마워. 나도 너와 앞으로도 함께 있고 싶어………… 아니, 앞으로도 함께 있자」"
+
+[[dialogue]]
+speaker_original = "コハルコ"
+speaker_translation = "쿠하루코"
+original = "「大人になっても、おじいちゃんおばあちゃんになっても、ずっとずっと、一緒だよ」"
+translation = "「어른이 되어도, 할아버지 할머니가 되어도, 계속 계속, 함께야」"
+

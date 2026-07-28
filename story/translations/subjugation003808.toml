@@ -1,0 +1,418 @@
+[[dialogue]]
+speaker = "unk"
+original = "合体チキンモンスターを倒したことで、合体していたチキンが雨のように降ってくる。"
+translation = "합체 치킨 몬스터를 물리치자 합체해 있던 치킨들이 비처럼 쏟아져 내린다."
+
+[[dialogue]]
+speaker_original = "シルヴィ"
+speaker_translation = "실비"
+original = "「リップルちゃん、お願い！」"
+translation = "「리플짱, 부탁해!」"
+
+[[dialogue]]
+speaker_original = "リップル"
+speaker_translation = "리플"
+original = "「イエーッス！！\u3000保存結界！」"
+translation = "「예쓰!! 보존 결계!」"
+
+[[dialogue]]
+speaker_original = "コハルコ"
+speaker_translation = "쿠하루코"
+original = "「大きなビニール袋みたいな結界がチキンを包み込んじゃった……。リップルさんは相変わらずすごいや……」"
+translation = "「커다란 비닐봉지 같은 결계가 치킨을 감싸버렸어……. 리플 씨는 여전히 대단하네……」"
+
+[[dialogue]]
+speaker_original = "リップル"
+speaker_translation = "리플"
+original = "「イエイエ、それほどでもナイで－す！」"
+translation = "「아니에용, 그 정도까진 아니랍니당~!」"
+
+[[dialogue]]
+speaker_original = "コハルコ"
+speaker_translation = "쿠하루코"
+original = "「それほどでもあると思うけど……それより、この大量のチキンどうしようか？」"
+translation = "「그 정도인 것 같다만…… 그것보다 이 대량의 치킨 어떻게 할까?」"
+
+[[dialogue]]
+speaker_original = "シルヴィ"
+speaker_translation = "실비"
+original = "「食べればいいんじゃない？\u3000フライドチキンパーティーだっ！\u3000う～ん、うまっ！」"
+translation = "「먹으면 되는 거 아냐? 프라이드 치킨 파티다! 으음, 맛있다!」"
+
+[[dialogue]]
+speaker_original = "コハルコ"
+speaker_translation = "쿠하루코"
+original = "「もう食べてるし……はぁ、それしかないか。私たちだけじゃ食べきれないし、ヘルプ呼ぶね」"
+translation = "「벌써 먹고 있고…… 하아, 그것밖에 없나. 우리끼리만으론 다 못 먹으니까 헬프 부를게」"
+
+[[dialogue]]
+speaker_original = "コハルコ"
+speaker_translation = "쿠하루코"
+original = "「もしもし、私だけど……いや、詐欺じゃないって。手が空いてたら学園まで来て欲しいんだけど……近くまで来てる？\u3000なら話が早いね。リゾート結界で待ってるから」"
+translation = "「여보세요, 난데…… 아니, 사기 아니라고. 손 비면 학원까지 좀 와줬으면 하는데…… 근처까지 와 있어? 그럼 말이 빠르네. 리조트 결계에서 기다릴게」"
+
+[[dialogue]]
+speaker_original = "コハルコ"
+speaker_translation = "쿠하루코"
+original = "「１名追加で来れるって」"
+translation = "「한 명 더 올 수 있대」"
+
+[[dialogue]]
+speaker_original = "シルヴィ"
+speaker_translation = "실비"
+original = "「あたしはもう呼んであるよ～」"
+translation = "「나는 이미 불러놨어~」"
+
+[[dialogue]]
+speaker_original = "サーシャ"
+speaker_translation = "사샤"
+original = "「シルヴィ、お待たせ。フライドチキン狩りってどういうこと～？」"
+translation = "「실비, 기다렸지. 프라이드 치킨 사냥이라니 그게 무슨 소리야~?」"
+
+[[dialogue]]
+speaker_original = "シルヴィ"
+speaker_translation = "실비"
+original = "「やっほー、サーシャ。ごめん、チキン狩りはもう終わって今は食べ放題やってるとこ」"
+translation = "「얏호, 사샤. 미안, 치킨 사냥은 벌써 끝났고 지금은 무한 리필 중이야」"
+
+[[dialogue]]
+speaker_original = "サーシャ"
+speaker_translation = "사샤"
+original = "「はぁ……とりあえずフライドチキンは食べていいのね～？」"
+translation = "「하아…… 일단 프라이드 치킨은 먹어도 된다는 거지~?」"
+
+[[dialogue]]
+speaker_original = "シルヴィ"
+speaker_translation = "실비"
+original = "「そうそう、いっぱいあるからたくさん食べて！」"
+translation = "「그래그래, 잔뜩 있으니까 많이 먹어!」"
+
+[[dialogue]]
+speaker_original = "アニマ"
+speaker_translation = "아니마"
+original = "「やあ諸君、ご機嫌ヨウ。首尾は……聞くまでもないようダナ」"
+translation = "「여어 제군들, 기분은 어떤가. 수비는…… 묻지 않아도 알 것 같군아」"
+
+[[dialogue]]
+speaker_original = "シュティレ"
+speaker_translation = "슈틸레"
+original = "「皆さん、お疲れさまでした。フライドチキンマシンの暴走を止めていただき、ありがとうございます」"
+translation = "「여러분, 수고하셨습니다. 프라이드 치킨 머신의 폭주를 멈춰주셔서 감사합니다」"
+
+[[dialogue]]
+speaker_original = "アニマ"
+speaker_translation = "아니마"
+original = "「会長、暴走の原因は……フムフム……ベガから転移してきたモンスターがマシンに入り込んでいたのカ」"
+translation = "「회장, 폭주의 원인은…… 흠흠…… 베가에서 전이해 온 몬스터가 머신 속에 들어가 있었던 건가」"
+
+[[dialogue]]
+speaker_original = "アニマ"
+speaker_translation = "아니마"
+original = "「モンスターが出現する以上、モンスターかリクリエが関わっているハズだとは考えていたが、ナルホドそういうことだったのカ。対策も考えなくてはナ」"
+translation = "「몬스터가 출현하는 이상 몬스터나 리크리에가 관여하고 있을 거라 생각은 했지마는, 과연 그런 거였군아. 대책도 생각해야겠군아」"
+
+[[dialogue]]
+speaker_original = "シュティレ"
+speaker_translation = "슈틸레"
+original = "「まずはチキンを食べましょう、マスター。腹が減っては研究はできません」"
+translation = "「우선 치킨을 먹읍시다, 마스터. 금강산도 식후경이니까요」"
+
+[[dialogue]]
+speaker_original = "トリュファイナ"
+speaker_translation = "트류파이나"
+original = "「コハルコさ～ん！」"
+translation = "「코하루코 사~앙!」"
+
+[[dialogue]]
+speaker_original = "コハルコ"
+speaker_translation = "쿠하루코"
+original = "「おっと」"
+translation = "「앗」"
+
+[[dialogue]]
+speaker_original = "トリュファイナ"
+speaker_translation = "트류파이나"
+original = "「ありがとうございます、コハルコさん！\u3000私、なんてお礼を言ったらいいか……」"
+translation = "「감사합니다, 코하루코 씨! 저, 뭐라고 감사를 드려야 할지……」"
+
+[[dialogue]]
+speaker_original = "コハルコ"
+speaker_translation = "쿠하루코"
+original = "「いえ……むしろ私が謝りたいくらいというか、セキュリティに穴を開けてしまったというか……」"
+translation = "「아니에요…… 오히려 제가 사과하고 싶을 정도랄까, 보안에 구멍을 내버렸달까……」"
+
+[[dialogue]]
+speaker_original = "トリュファイナ"
+speaker_translation = "트류파이나"
+original = "「いいえ、コハルコさん。原因が何であれ、あなたは落ち込む私を励まして、問題を解決してくださいました」"
+translation = "「아니요, 코하루코 씨. 원인이 무엇이든 당신은 낙담한 저를 격려하고 문제를 해결해 주셨습니다」"
+
+[[dialogue]]
+speaker_original = "トリュファイナ"
+speaker_translation = "트류파이나"
+original = "「あなたが私を救ってくださったことに何ひとつ変わりはないのです。だから、ありがとうございます」"
+translation = "「당신이 저를 구해주셨다는 사실에는 조금의 변함도 없어요. 그러니까, 감사합니다」"
+
+[[dialogue]]
+speaker_original = "コハルコ"
+speaker_translation = "쿠하루코"
+original = "「……はい。どういたしまして」"
+translation = "「……네. 천만에요」"
+
+[[dialogue]]
+speaker_original = "コハルコ"
+speaker_translation = "쿠하루코"
+original = "（この人には敵わないなぁ。たぶんずっと）"
+translation = "(이 사람한테는 못 당하겠네. 아마 평생)"
+
+[[dialogue]]
+speaker_original = "トリュファイナ"
+speaker_translation = "트류파이나"
+original = "「コハルコさん、さすが『じゃすてぃすうぃざーど』ですね！」"
+translation = "「코하루코 씨, 역시 『저스티스 위저드』네요!」"
+
+[[dialogue]]
+speaker_original = "コハルコ"
+speaker_translation = "쿠하루코"
+original = "「…………は？」"
+translation = "「…………하?」"
+
+[[dialogue]]
+speaker_original = "コハルコ"
+speaker_translation = "쿠하루코"
+original = "「トリュファイナさん、その……けったいな呼び名はどこから……？」"
+translation = "「트리파이나 씨, 그…… 해괴한 별명은 어디서……?」"
+
+[[dialogue]]
+speaker_original = "トリュファイナ"
+speaker_translation = "트류파이나"
+original = "「え？\u3000いつもチキンをたくさん買ってくださる方から……」"
+translation = "「에? 항상 치킨을 많이 사가시는 분께서……」"
+
+[[dialogue]]
+speaker_original = "レイラ"
+speaker_translation = "레이라"
+original = "「コハルコさん、お疲れ様で～す」"
+translation = "「코하루코 씨, 수고하셨어용~」"
+
+[[dialogue]]
+speaker_original = "トリュファイナ"
+speaker_translation = "트류파이나"
+original = "「あ、こちらの方です！」"
+translation = "「아, 이분이에요!」"
+
+[[dialogue]]
+speaker_original = "コハルコ"
+speaker_translation = "쿠하루코"
+original = "「やっぱりおまえかーー！！」"
+translation = "「역시 너냐아아!!!」"
+
+[[dialogue]]
+speaker_original = "レイラ"
+speaker_translation = "레이라"
+original = "「え、なんですか！？\u3000私はコハルコさんに呼ばれただけなのにー！？」"
+translation = "「에, 왜 그러세요!? 전 코하루코 씨가 불러서 온 것뿐인데~!」"
+
+[[dialogue]]
+speaker_original = "コハルコ"
+speaker_translation = "쿠하루코"
+original = "「しれっとクソダサネームを広めるなー！！\u3000ドルフィンドローン、ハイドロジェット逆噴射！！」"
+translation = "「시치미 뚝 떼고 구린 이름을 퍼뜨리지 마!!! 돌핀 드론, 하이드로 제트 역분사!!!」"
+
+[[dialogue]]
+speaker_original = "レイラ"
+speaker_translation = "레이라"
+original = "「ほんぎゃー！！」"
+translation = "「호에에엥!!!」"
+
+[[dialogue]]
+speaker_original = "サーシャ"
+speaker_translation = "사샤"
+original = "「ふふっ、なんだか賑やかね～」"
+translation = "「후훗, 왠지 떠들썩하네~」"
+
+[[dialogue]]
+speaker_original = "シルヴィ"
+speaker_translation = "실비"
+original = "「コハルコがあんなに怒るの珍しいよねー。あははっ！」"
+translation = "「코하루코가 저렇게 화내는 거 드문 일이지~ 아하하!」"
+
+[[dialogue]]
+speaker_original = "シルヴィ"
+speaker_translation = "실비"
+original = "「……楽しいね、サーシャ」"
+translation = "「……즐겁네, 사샤」"
+
+[[dialogue]]
+speaker_original = "サーシャ"
+speaker_translation = "사샤"
+original = "「ええ、そうね」"
+translation = "「응, 그러게」"
+
+[[dialogue]]
+speaker_original = "シルヴィ"
+speaker_translation = "실비"
+original = "「卒業したら、こんなに楽しいのも終わりなのかな？」"
+translation = "「졸업하면 이렇게 즐거운 것도 끝일까?」"
+
+[[dialogue]]
+speaker_original = "サーシャ"
+speaker_translation = "사샤"
+original = "「どうしたの？\u3000妙に湿っぽいわね。でも、そうね……」"
+translation = "「왜 그래? 묘하게 감성적이네. 하지만 그렇네……」"
+
+[[dialogue]]
+speaker_original = "サーシャ"
+speaker_translation = "사샤"
+original = "「卒業しても、何も終わりじゃないわ。一度道が分かれても、何度だって、また会えばいいのよ。だって私たちは──」"
+translation = "「졸업해도 아무것도 끝나지 않아. 한 번 길이 갈라져도 몇 번이고 다시 만나면 되는 거야. 왜냐하면 우리는──」"
+
+[[dialogue]]
+speaker_original = "シルヴィ"
+speaker_translation = "실비"
+original = "「離れていても、友達だもんね」"
+translation = "「떨어져 있어도 친구니까 말야」"
+
+[[dialogue]]
+speaker_original = "シルヴィ"
+speaker_translation = "실비"
+original = "「あーあ、なんか考え事してたらお腹すいてきちゃった。フライドチキンおかわりー！」"
+translation = "「아~아, 왠지 생각 좀 했더니 배고파졌어. 프라이드 치킨 리필!」"
+
+[[dialogue]]
+speaker_original = "サーシャ"
+speaker_translation = "사샤"
+original = "「ふふっ、私ももうひとつもらおうかしら～」"
+translation = "「후훗, 나도 하나 더 받을까~」"
+
+[[dialogue]]
+speaker_original = "リップル"
+speaker_translation = "리플"
+original = "「ドリンクもありますよ～！\u3000サイダー、コーラにオレンジジュース、ナンでもありま～す！」"
+translation = "「음료도 있어용~! 사이다, 콜라에 오렌지 주스, 뭐든 다 있답니당!」"
+
+[[dialogue]]
+speaker_original = "シルヴィ"
+speaker_translation = "실비"
+original = "「じゃあ、あたしオレンジジュースで！」"
+translation = "「그럼 난 오렌지 주스로!」"
+
+[[dialogue]]
+speaker_original = "サーシャ"
+speaker_translation = "사샤"
+original = "「私はアイスコーヒーでお願い～」"
+translation = "「나는 아이스 커피로 부탁해~」"
+
+[[dialogue]]
+speaker_original = "リップル"
+speaker_translation = "리플"
+original = "「ハ～イ、タダイマ！」"
+translation = "「넵, 여기 있습니당!」"
+
+[[dialogue]]
+speaker_original = "レイラ"
+speaker_translation = "레이라"
+original = "「あ、私はイチゴ練乳のかき氷でお願いします」"
+translation = "「아, 저는 딸기 연유 빙수로 부탁드려요」"
+
+[[dialogue]]
+speaker_original = "コハルコ"
+speaker_translation = "쿠하루코"
+original = "「かき氷はドリンクじゃないって！」"
+translation = "「빙수는 음료가 아니라고!」"
+
+[[dialogue]]
+speaker_original = "レイラ"
+speaker_translation = "레이라"
+original = "「えぇ！？\u3000かき氷はもともと液体なので飲み物ですよね！？」"
+translation = "「에에!? 빙수는 원래 액체였으니까 마실 거잖아요!?」"
+
+[[dialogue]]
+speaker_original = "コハルコ"
+speaker_translation = "쿠하루코"
+original = "「さも当たり前みたいに言わないの。ほらレイラ、フライドチキン好きなだけ食べていいから」"
+translation = "「당연하다는 듯이 말하지 마. 자 레이라, 프라이드 치킨 마음껏 먹어도 되니까」"
+
+[[dialogue]]
+speaker_original = "レイラ"
+speaker_translation = "레이라"
+original = "「いいんですか！？\u3000ありがとうございます！\u3000……ひゅごっ……ひゅごっ…………うめ……うめ……」"
+translation = "「정말요!? 감사합니다! ……휴곳……휴곳…………냠냠……냠냠……」"
+
+[[dialogue]]
+speaker_original = "シルヴィ"
+speaker_translation = "실비"
+original = "「すごい食べっぷり！\u3000あたしも負けないよ！\u3000……もぐもぐ……もぐ……」"
+translation = "「엄청 잘 먹네! 나도 안 질 거야! ……우물우물……우물……」"
+
+[[dialogue]]
+speaker_original = "コハルコ"
+speaker_translation = "쿠하루코"
+original = "「レイラと張り合ったら胃袋がいくつあっても足りないからやめときなって」"
+translation = "「레이라랑 경쟁했다간 위장이 몇 개라도 부족하니까 그만둬」"
+
+[[dialogue]]
+speaker_original = "シルヴィ"
+speaker_translation = "실비"
+original = "「あ」"
+translation = "「아」"
+
+[[dialogue]]
+speaker_original = "コハルコ"
+speaker_translation = "쿠하루코"
+original = "「どうしたの、突然」"
+translation = "「왜 그래, 갑자기」"
+
+[[dialogue]]
+speaker_original = "シルヴィ"
+speaker_translation = "실비"
+original = "「フライドチキンで忘れてたけどさ…………」"
+translation = "「프라이드 치킨 때문에 잊고 있었는데 말야…………」"
+
+[[dialogue]]
+speaker_original = "シルヴィ"
+speaker_translation = "실비"
+original = "「コハルコ、泳げるようになった？\u3000練習、途中だったよね」"
+translation = "「코하루코, 수영할 수 있게 됐어? 연습 중간이었잖아」"
+
+[[dialogue]]
+speaker_original = "コハルコ"
+speaker_translation = "쿠하루코"
+original = "「……………………………あ」"
+translation = "「……………………………아」"
+
+[[dialogue]]
+speaker_original = "コハルコ"
+speaker_translation = "쿠하루코"
+original = "「忘れてた～～～～～～～～～～！！」"
+translation = "「잊고 있었다~~~~~~~~~~~~~~~~!!!」"
+
+[[dialogue]]
+speaker_original = "コハルコ"
+speaker_translation = "쿠하루코"
+original = "「うぅ……どうせなら忘れたままでいたかった……」"
+translation = "「으으…… 이왕이면 잊은 채로 있고 싶었는데……」"
+
+[[dialogue]]
+speaker_original = "コハルコ"
+speaker_translation = "쿠하루코"
+original = "「フライドチキンはこりごり……しばらく見なくていいかな……」"
+translation = "「프라이드 치킨은 이제 지긋지긋해…… 당분간 안 봐도 될 것 같아……」"
+
+[[dialogue]]
+speaker_original = "シルヴィ"
+speaker_translation = "실비"
+original = "「えぇ？\u3000こんなに美味しいのにね」"
+translation = "「에에? 이렇게 맛있는데 말야」"
+
+[[dialogue]]
+speaker_original = "シルヴィ"
+speaker_translation = "실비"
+original = "「あたしは何度でもウェルカムだよ！\u3000あ、でも次があるなら、他の味も欲しいかな！\u3000あははっ！」"
+translation = "「나는 몇 번이라도 웰컴이야! 아, 근데 다음이 있다면 다른 맛도 원할지도! 아하하!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "フライドチキンを両手に、シルヴィ先輩はそう言って笑うのだった。"
+translation = "프라이드 치킨을 양손에 들고 실비 선배는 그렇게 말하며 웃는 것이었다."
+

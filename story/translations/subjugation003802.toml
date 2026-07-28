@@ -1,0 +1,321 @@
+[[dialogue]]
+speaker_original = "シルヴィ"
+speaker_translation = "실비"
+original = "「へ？」"
+translation = "「헤?」"
+
+[[dialogue]]
+speaker_original = "コハルコ"
+speaker_translation = "쿠하루코"
+original = "「いや、だから……私、泳げないの！」"
+translation = "「아니, 그러니까…… 나, 수영 못 한다고!」"
+
+[[dialogue]]
+speaker_original = "シルヴィ"
+speaker_translation = "실비"
+original = "「もしかして、水着を着るの渋ってたの、それが本当の理由？」"
+translation = "「혹시 수영복 입는 걸 주저했던 게 그것 때문이었어?」"
+
+[[dialogue]]
+speaker_original = "コハルコ"
+speaker_translation = "쿠하루코"
+original = "「…………………………うん」"
+translation = "「…………………………응」"
+
+[[dialogue]]
+speaker_original = "シルヴィ"
+speaker_translation = "실비"
+original = "「……ぷっ、あはははははっ！」"
+translation = "「……큭, 아하하하하핫!」"
+
+[[dialogue]]
+speaker_original = "コハルコ"
+speaker_translation = "쿠하루코"
+original = "「ちょっ、笑わないでっ！」"
+translation = "「잠깐, 웃지 마!」"
+
+[[dialogue]]
+speaker_original = "シルヴィ"
+speaker_translation = "실비"
+original = "「ごめんごめん。コハルコって何でもできるイメージだったから、まさか泳げないなんて思わなくて」"
+translation = "「미안 미안. 코하루코는 뭐든 잘하는 이미지라서 설마 수영을 못 할 줄은 몰랐어」"
+
+[[dialogue]]
+speaker_original = "コハルコ"
+speaker_translation = "쿠하루코"
+original = "「そりゃあ機械関係なら大体のことはできるけど、体を動かすのはダメなの！」"
+translation = "「그야 기계 관계라면 웬만한 건 다 할 수 있지만 몸을 움직이는 건 쥐약이란 말야!」"
+
+[[dialogue]]
+speaker_original = "コハルコ"
+speaker_translation = "쿠하루코"
+original = "「ボール投げは１０メートルもいかないし、反復横跳びも足がもつれて転ぶし…………うぅ、自分で言ってて悲しくなってきた……」"
+translation = "「공 던지기는 10미터도 안 가고, 왕복 달리기도 발이 꼬여서 넘어지고………… 으으, 내 입으로 말하니까 슬퍼지네……」"
+
+[[dialogue]]
+speaker_original = "シルヴィ"
+speaker_translation = "실비"
+original = "「……もしかしてコハルコって運動音痴？」"
+translation = "「……혹시 코하루코는 운동치?」"
+
+[[dialogue]]
+speaker_original = "コハルコ"
+speaker_translation = "쿠하루코"
+original = "「もう、はっきり言わないでっ！」"
+translation = "「정말, 대놓고 말하지 마!」"
+
+[[dialogue]]
+speaker_original = "シルヴィ"
+speaker_translation = "실비"
+original = "「あははっ、大丈夫大丈夫。誰でも苦手なことのひとつやふたつあるもんだよ。あたしだって星徒会だったのに書類仕事とか苦手だったし！」"
+translation = "「아하핫, 괜찮아 괜찮아. 누구든 못 하는 것 한두 가지는 있는 법이야. 나도 성도회였는데 서류 작업 같은 건 못 했는걸!」"
+
+[[dialogue]]
+speaker_original = "コハルコ"
+speaker_translation = "쿠하루코"
+original = "「それについてはサーシャに怒られなさい」"
+translation = "「그건 사샤한테 혼나렴」"
+
+[[dialogue]]
+speaker_original = "シルヴィ"
+speaker_translation = "실비"
+original = "「ははっ！\u3000よし、じゃあ、やることは決まったね！」"
+translation = "「하하! 좋아, 그럼 할 일은 정해졌네!」"
+
+[[dialogue]]
+speaker_original = "コハルコ"
+speaker_translation = "쿠하루코"
+original = "「あ…………なんか嫌な予感」"
+translation = "「아………… 왠지 불길한 예감」"
+
+[[dialogue]]
+speaker_original = "シルヴィ"
+speaker_translation = "실비"
+original = "「泳げるように！\u3000なろう！」"
+translation = "「수영할 수 있게! 되자!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "リゾート結界に場所を移して、コハルコの特訓が始まった。"
+translation = "리조트 결계로 장소를 옮겨 코하루코의 특훈이 시작되었다."
+
+[[dialogue]]
+speaker_original = "シルヴィ"
+speaker_translation = "실비"
+original = "「まずは水に親しむところから！\u3000その場で海に潜ってみよう！」"
+translation = "「우선 물과 친해지는 것부터! 그 자리에서 바다에 잠수해 보자!」"
+
+[[dialogue]]
+speaker_original = "コハルコ"
+speaker_translation = "쿠하루코"
+original = "「イヤです。顔を水につけたくないです」"
+translation = "「싫습니다. 얼굴을 물에 담그고 싶지 않아요」"
+
+[[dialogue]]
+speaker_original = "シルヴィ"
+speaker_translation = "실비"
+original = "「えぇっ！？\u3000そこから！？」"
+translation = "「에엣!? 거기서부터!?」"
+
+[[dialogue]]
+speaker_original = "コハルコ"
+speaker_translation = "쿠하루코"
+original = "「やっぱり泳げなくていいよ！\u3000何かあっても星騎士だから飛べるし！」"
+translation = "「역시 수영 못 해도 상관없어! 무슨 일이 있어도 성기사니까 날 수 있고!」"
+
+[[dialogue]]
+speaker_original = "シルヴィ"
+speaker_translation = "실비"
+original = "「星力は大人になったらなくなっちゃうでしょっ！」"
+translation = "「성력은 어른이 되면 없어지잖아!」"
+
+[[dialogue]]
+speaker_original = "コハルコ"
+speaker_translation = "쿠하루코"
+original = "「いや、でも私、魔女だからっ！\u3000魔力は一生ものでずっと使えるし！」"
+translation = "「아니, 그치만 나 마녀니까! 마력은 평생 가는 거라 계속 쓸 수 있고!」"
+
+[[dialogue]]
+speaker_original = "シルヴィ"
+speaker_translation = "실비"
+original = "「詳しくは知らないけど、コハルコは魔女でもちょっと特殊なんでしょ？\u3000ずっと魔力が使える保証なんてないんじゃない？」"
+translation = "「자세히는 모르지만 코하루코는 마녀라도 좀 특수하다며? 계속 마력을 쓸 수 있다는 보장은 없지 않아?」"
+
+[[dialogue]]
+speaker_original = "コハルコ"
+speaker_translation = "쿠하루코"
+original = "「それは…………確かに」"
+translation = "「그건………… 확실히」"
+
+[[dialogue]]
+speaker = "unk"
+original = "かつての事件で、コハルコは魔女の生まれだと判明した。"
+translation = "지난 사건으로 코하루코는 마녀의 태생임이 판명되었다."
+
+[[dialogue]]
+speaker = "unk"
+original = "その際に数百年の寿命を喪失し、今では普通の人間並みの寿命となっている。魔力もまた影響を受ける可能性は否定できない。"
+translation = "그 과정에서 수백 년의 수명을 상실하여 지금은 일반인과 다름없는 수명이 되었다. 마력 또한 영향을 받을 가능성을 부정할 수 없다."
+
+[[dialogue]]
+speaker_original = "シルヴィ"
+speaker_translation = "실비"
+original = "「はい、というわけで特訓再開！」"
+translation = "「자, 그런 고로 특훈 재개!」"
+
+[[dialogue]]
+speaker_original = "コハルコ"
+speaker_translation = "쿠하루코"
+original = "「うぅ……シルヴィの鬼、悪魔！」"
+translation = "「으으…… 실비 귀신, 악마!」"
+
+[[dialogue]]
+speaker_original = "シルヴィ"
+speaker_translation = "실비"
+original = "「ん？\u3000あたし天使だよ？」"
+translation = "「응? 나 천사인데?」"
+
+[[dialogue]]
+speaker_original = "コハルコ"
+speaker_translation = "쿠하루코"
+original = "「そうじゃない……そうだけど、そうじゃないんだよ……」"
+translation = "「그게 아냐…… 그렇긴 하지만, 그 소리가 아니라고……」"
+
+[[dialogue]]
+speaker_original = "チキン？"
+speaker_translation = "치킨?"
+original = "「チキチキー！」"
+translation = "「치키치키!」"
+
+[[dialogue]]
+speaker_original = "コハルコ"
+speaker_translation = "쿠하루코"
+original = "「なにこれ！？」"
+translation = "「뭐야 이거!?」"
+
+[[dialogue]]
+speaker_original = "シルヴィ"
+speaker_translation = "실비"
+original = "「フライドチキンだよ！\u3000いや、飛んでるからフライングチキンかな？」"
+translation = "「프라이드치킨이야! 아니, 날아다니니까 플라잉 치킨인가?」"
+
+[[dialogue]]
+speaker_original = "コハルコ"
+speaker_translation = "쿠하루코"
+original = "「そこはどっちでもいいけど、なんでチキンが飛んでるの！？」"
+translation = "「그건 아무래도 좋은데, 왜 치킨이 날아다니는 거야!?」"
+
+[[dialogue]]
+speaker_original = "チキン？"
+speaker_translation = "치킨?"
+original = "「チキー！」"
+translation = "「치키!」"
+
+[[dialogue]]
+speaker_original = "コハルコ"
+speaker_translation = "쿠하루코"
+original = "「攻撃してきた！？\u3000迎撃するよ、シルヴィ！」"
+translation = "「공격해 왔어!? 요격하자, 실비!」"
+
+[[dialogue]]
+speaker_original = "シルヴィ"
+speaker_translation = "실비"
+original = "「おっけー！\u3000じゃあ……」"
+translation = "「오케이! 그럼……」"
+
+[[dialogue]]
+speaker_original = "シルヴィ"
+speaker_translation = "실비"
+original = "「我が守護星アヴィオールよ……」"
+translation = "「나의 수호성 아비오르여……」"
+
+[[dialogue]]
+speaker_original = "シルヴィ"
+speaker_translation = "실비"
+original = "「よし、なんか出た！\u3000この辺りは普通の戦闘服と同じだね！」"
+translation = "「좋아, 뭔가 나왔어! 이 부분은 보통 전투복이랑 똑같네!」"
+
+[[dialogue]]
+speaker_original = "コハルコ"
+speaker_translation = "쿠하루코"
+original = "「シルヴィは相変わらず感覚派だなぁ。まぁいいや、私もやってみよ」"
+translation = "「실비는 여전히 감각파구나. 뭐 됐어, 나도 해보자」"
+
+[[dialogue]]
+speaker_original = "コハルコ"
+speaker_translation = "쿠하루코"
+original = "「星力、魔力同調──ファミリア・ドローン再起動！」"
+translation = "「성력, 마력 동조── 파밀리아 드론 재기동!」"
+
+[[dialogue]]
+speaker_original = "コハルコ"
+speaker_translation = "쿠하루코"
+original = "「ドルフィンドローン、ゴー！」"
+translation = "「돌핀 드론, 고!」"
+
+[[dialogue]]
+speaker_original = "コハルコ"
+speaker_translation = "쿠하루코"
+original = "「エコーノイズショット！」"
+translation = "「에코 노이즈 샷!」"
+
+[[dialogue]]
+speaker_original = "シルヴィ"
+speaker_translation = "실비"
+original = "「ハープーンストライク！」"
+translation = "「하푼 스트라이크!」"
+
+[[dialogue]]
+speaker_original = "チキン？"
+speaker_translation = "치킨?"
+original = "「チキィ……」"
+translation = "「치키이……」"
+
+[[dialogue]]
+speaker_original = "シルヴィ"
+speaker_translation = "실비"
+original = "「倒したら普通のフライドチキンになった！\u3000うまっ！」"
+translation = "「쓰러뜨리니까 보통 프라이드치킨이 됐어! 맛있다!」"
+
+[[dialogue]]
+speaker_original = "コハルコ"
+speaker_translation = "쿠하루코"
+original = "「食べていいのそれ！？」"
+translation = "「그거 먹어도 되는 거야!?」"
+
+[[dialogue]]
+speaker_original = "シルヴィ"
+speaker_translation = "실비"
+original = "「え、美味しいよ？\u3000でもこの味付け、どこかで……あ、購買のフライドチキンだ！」"
+translation = "「에, 맛있는데? 근데 이 맛, 어디서…… 아, 매점 프라이드치킨이다!」"
+
+[[dialogue]]
+speaker_original = "コハルコ"
+speaker_translation = "쿠하루코"
+original = "「味付けまで把握してるなんて、さすがシルヴィ……。フライドチキン大好きだもんね」"
+translation = "「시즈닝까지 파악하다니 역시 실비……. 프라이드치킨 정말 좋아하네」"
+
+[[dialogue]]
+speaker_original = "コハルコ"
+speaker_translation = "쿠하루코"
+original = "「それにしても、購買のチキンの味がするってどういうこと……？」"
+translation = "「그나저나 매점 치킨 맛이 난다는 게 무슨 소리야……?」"
+
+[[dialogue]]
+speaker_original = "チキン？"
+speaker_translation = "치킨?"
+original = "「チキチキチー！！」"
+translation = "「치키치키치!!」"
+
+[[dialogue]]
+speaker_original = "シルヴィ"
+speaker_translation = "실비"
+original = "「やった、いっぱい出た！\u3000チキン食べ放題だー！」"
+translation = "「앗싸, 잔뜩 나왔다! 치킨 무한 리필이다!」"
+
+[[dialogue]]
+speaker_original = "コハルコ"
+speaker_translation = "쿠하루코"
+original = "「もうなんなのこれー！？」"
+translation = "「정말 대체 뭐야 이거어!!」"
+
