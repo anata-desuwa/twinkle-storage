@@ -1,0 +1,586 @@
+[[dialogue]]
+speaker = "unk"
+original = "第１話,天使のお茶会,B"
+translation = "제1화, 천사의 티타임, B"
+
+[[dialogue]]
+speaker_original = "ケイティ"
+speaker_translation = "케이티"
+original = "「はい、お茶をどうぞ～。２人ともゆっくりしていってね」"
+translation = "「네, 차 드세요～. 두 분 다 천천히 쉬다 가세요」"
+
+[[dialogue]]
+speaker_original = "メルエル"
+speaker_translation = "메르엘"
+original = "「ありがとう、ケイティお姉ちゃん♪\u3000えへへ、こうやって３人でお茶をするの、すっごく久しぶりかも！」"
+translation = "「고마워, 케이티 언니♪ 에헤헤, 이렇게 셋이서 차 마시는 거, 진짜 오랜만일지도!」"
+
+[[dialogue]]
+speaker_original = "ケイティ"
+speaker_translation = "케이티"
+original = "「そうだね～。メルエルちゃんが新星学園に入学してから、ずっとご無沙汰だったから」"
+translation = "「그렇네～. 멜엘 짱이 신성학원에 입학하고 나서, 계속 뜸했으니까」"
+
+[[dialogue]]
+speaker_original = "ケイティ"
+speaker_translation = "케이티"
+original = "「それにしても、訪ねてくれたのは２人だけ？\u3000まだ後からお客さんが来るんだったら、準備をしておくけれど～」"
+translation = "「그건 그렇고, 찾아온 건 두 사람뿐? 나중에 또 손님이 온다면, 준비해 두겠지만～」"
+
+[[dialogue]]
+speaker_original = "ナターシャ"
+speaker_translation = "나타샤"
+original = "「ううん、今回は私たちだけ。まぁ一応、ネビュラの魔女も同行してたんだけどさ」"
+translation = "「아니, 이번엔 우리뿐이야. 뭐 일단, 네뷸라의 마녀도 동행하긴 했지만」"
+
+[[dialogue]]
+speaker_original = "メルエル"
+speaker_translation = "메르엘"
+original = "「聖庭園でおもてなししますよって言ったんだけど……『世界樹の傍を離れるわけにはいきません』って言われちゃって」"
+translation = "「성정원에서 대접하겠다고 말했는데…… 『세계수 곁을 떠날 수는 없습니다』라는 말을 들어버려서」"
+
+[[dialogue]]
+speaker = "unk"
+original = "メルエルとナターシャは、先の天界襲撃の時と同様に、世界樹のうろを用いて天界へやってきた。"
+translation = "멜엘과 나타샤는, 지난번 천계 습격 때와 마찬가지로, 세계수의 구멍을 이용해 천계로 왔다."
+
+[[dialogue]]
+speaker = "unk"
+original = "その移動をサポートしてくれた魔女は現在、天界の世界樹のうろで待機している。"
+translation = "그 이동을 지원해 준 마녀는 현재, 천계의 세계수 구멍에서 대기하고 있다."
+
+[[dialogue]]
+speaker_original = "ケイティ"
+speaker_translation = "케이티"
+original = "「あら。それじゃあ後でご挨拶に行かないと……でもまずは、可愛い妹分のおもてなしからかな～♪」"
+translation = "「어머. 그럼 나중에 인사를 가야겠네…… 하지만 우선은, 귀여운 여동생들을 대접하는 것부터일까～♪」"
+
+[[dialogue]]
+speaker_original = "ケイティ"
+speaker_translation = "케이티"
+original = "「はい、ナターシャちゃんの分のお菓子も用意したから、いっぱい食べてね～♪\u3000ふふふ♪」"
+translation = "「자, 나타샤 짱 몫의 과자도 준비했으니까, 잔뜩 먹으렴～♪ 후후후♪」"
+
+[[dialogue]]
+speaker_original = "ナターシャ"
+speaker_translation = "나타샤"
+original = "「ケイティ姉さん。食べる分は自分で取るからさ。そんなにたくさん皿に乗せなくていいってば……」"
+translation = "「케이티 언니. 먹을 건 내가 알아서 집을 테니까. 그렇게 많이 접시에 담지 않아도 된다니까……」"
+
+[[dialogue]]
+speaker_original = "ケイティ"
+speaker_translation = "케이티"
+original = "「だーめ。ナターシャちゃん、いつも遠慮するんだもの。はい、どうぞ～♪\u3000これも、これも、これもー♪」"
+translation = "「안 돼. 나타샤 짱, 항상 사양하잖아. 자, 여기요～♪ 이것도, 이것도, 이것도─♪」"
+
+[[dialogue]]
+speaker_original = "ナターシャ"
+speaker_translation = "나타샤"
+original = "「……相変わらず強引なんだから。てゆーかすっごく自然にお茶会始まっちゃったけど、衛兵隊への指示はいいの？」"
+translation = "「……여전히 막무가내라니까. 그보다 아주 자연스럽게 티타임이 시작돼 버렸는데, 위병대에 지시는 안 내려도 돼?」"
+
+[[dialogue]]
+speaker_original = "ケイティ"
+speaker_translation = "케이티"
+original = "「ちょうど休憩の時間だったから大丈夫だよ～」"
+translation = "「마침 휴식 시간이었으니까 괜찮아～」"
+
+[[dialogue]]
+speaker_original = "ケイティ"
+speaker_translation = "케이티"
+original = "「この前は戦い続きでゆっくりお喋りもできなかったし、学園のこととか、たくさんお話を聞かせてね？」"
+translation = "「저번에는 계속 싸우느라 느긋하게 이야기도 못 나눴고, 학원 이야기 같은 거, 잔뜩 들려줘?」"
+
+[[dialogue]]
+speaker_original = "メルエル"
+speaker_translation = "메르엘"
+original = "「うん！\u3000──あっ、ナターシャちゃん。カップが空だね。お茶のお代わり、いる？」"
+translation = "「응! ──앗, 나타샤 짱. 컵이 비었네. 차 더 마실래?」"
+
+[[dialogue]]
+speaker_original = "ナターシャ"
+speaker_translation = "나타샤"
+original = "「ううん。いらない。ありがと」"
+translation = "「아니. 됐어. 고마워」"
+
+[[dialogue]]
+speaker_original = "メルエル"
+speaker_translation = "메르엘"
+original = "「そ、そっかぁ。うん……」"
+translation = "「그, 그렇구나. 응……」"
+
+[[dialogue]]
+speaker_original = "ケイティ"
+speaker_translation = "케이티"
+original = "「…………？」"
+translation = "「…………?」"
+
+[[dialogue]]
+speaker_original = "ナターシャ"
+speaker_translation = "나타샤"
+original = "「──ケイティ姉さん？\u3000どうかしたの」"
+translation = "「──케이티 언니? 왜 그래」"
+
+[[dialogue]]
+speaker_original = "ケイティ"
+speaker_translation = "케이티"
+original = "「……２人とも、喧嘩でもしてるの？\u3000なんだかいつもと雰囲気が違うような……」"
+translation = "「……둘이, 싸우기라도 했니? 왠지 평소랑 분위기가 다른 것 같은데……」"
+
+[[dialogue]]
+speaker_original = "メルエル"
+speaker_translation = "메르엘"
+original = "「えっ。そ、そんなにわかりやすかった、かな……？」"
+translation = "「엣. 그, 그렇게 티가 났나……?」"
+
+[[dialogue]]
+speaker_original = "ケイティ"
+speaker_translation = "케이티"
+original = "「伊達に２人のお姉ちゃんをやってないから～。それで原因は？\u3000悪いことをしたら、ちゃんと謝らないとダメだよ～？」"
+translation = "「내가 두 사람 언니 노릇을 헛으로 한 게 아니거든～. 그래서 원인은? 잘못한 게 있다면, 제대로 사과해야 한다구～?」"
+
+[[dialogue]]
+speaker_original = "メルエル"
+speaker_translation = "메르엘"
+original = "「え、えっと……そのぉ……」"
+translation = "「어, 에또…… 그게……」"
+
+[[dialogue]]
+speaker_original = "ナターシャ"
+speaker_translation = "나타샤"
+original = "「別に隠すようなことじゃないよ。ていうか、喧嘩もしてない。あるべきところに戻った、って感じ？」"
+translation = "「딱히 숨길 일은 아니야. 그보다, 싸우지도 않았어. 있어야 할 곳으로 돌아갔다, 라는 느낌?」"
+
+[[dialogue]]
+speaker_original = "ケイティ"
+speaker_translation = "케이티"
+original = "「んん？」"
+translation = "「응?」"
+
+[[dialogue]]
+speaker_original = "ナターシャ"
+speaker_translation = "나타샤"
+original = "「──バレちゃったんだよね、この前の戦いで。メルエルがリガルタ様の娘で、魔王の血統だってことまで全部」"
+translation = "「──들켜버렸거든, 저번 전투에서. 멜엘이 리갈타 님의 딸이고, 마왕의 혈통이라는 것까지 전부」"
+
+[[dialogue]]
+speaker_original = "ケイティ"
+speaker_translation = "케이티"
+original = "「あ、あら……まあ……」"
+translation = "「아, 어머나…… 세상에……」"
+
+[[dialogue]]
+speaker_original = "メルエル"
+speaker_translation = "메르엘"
+original = "「な、ナターシャちゃんっ！？\u3000言っちゃって大丈夫なの……！？」"
+translation = "「나, 나타샤 짱!? 말해도 괜찮은 거야……!?」"
+
+[[dialogue]]
+speaker_original = "ナターシャ"
+speaker_translation = "나타샤"
+original = "「構わないよ。ケイティ姉さんも知ってることだから」"
+translation = "「상관없어. 케이티 언니도 알고 있는 사실이니까」"
+
+[[dialogue]]
+speaker_original = "メルエル"
+speaker_translation = "메르엘"
+original = "「ケイティお姉ちゃんも知ってる……そ、そうだったんだ。じゃあ、ナターシャちゃんの家族のことも……？」"
+translation = "「케이티 언니도 알고…… 그, 그랬구나. 그럼, 나타샤 짱의 가족에 대해서도……?」"
+
+[[dialogue]]
+speaker_original = "ナターシャ"
+speaker_translation = "나타샤"
+original = "「そりゃそうでしょ。聖庭園直属の、衛兵隊長様だよ？\u3000知らない方がおかしいってば」"
+translation = "「당연하지. 성정원 직속, 위병대장님이시라고? 모르는 게 더 이상하다니까」"
+
+[[dialogue]]
+speaker_original = "ケイティ"
+speaker_translation = "케이티"
+original = "「まあ、まあ。そんなことになって……だから２人とも、様子がおかしかったのね」"
+translation = "「어머, 어머. 그렇게 돼서…… 그래서 둘 다, 모습이 이상했던 거구나」"
+
+[[dialogue]]
+speaker_original = "メルエル"
+speaker_translation = "메르엘"
+original = "「そ、そっかぁ。ケイティお姉ちゃんも知ってるんだ……。その、いつから……？」"
+translation = "「그, 그렇구나. 케이티 언니도 알고 있었구나……. 그, 언제부터……?」"
+
+[[dialogue]]
+speaker_original = "ケイティ"
+speaker_translation = "케이티"
+original = "「初めて聞いたのは、衛兵隊に入る直前だったかな？\u3000お父さまから、内密にと口止めをされて。メルエルちゃんの出自の秘密を聞いたの」"
+translation = "「처음 들은 건, 위병대에 들어가기 직전이었을까? 아버님으로부터, 비밀이라며 입막음 당했었어. 멜엘 짱의 출생 비밀을 들었지」"
+
+[[dialogue]]
+speaker_original = "メルエル"
+speaker_translation = "메르엘"
+original = "「そうだったんだ……」"
+translation = "「그랬었구나……」"
+
+[[dialogue]]
+speaker_original = "ケイティ"
+speaker_translation = "케이티"
+original = "「すごく驚いたな～、あの時は。まさか妹のように接してきた幼なじみが、魔王の血を引く人だったなんて、夢にも思わなかったから」"
+translation = "「정말 놀랐었어～, 그때는. 설마 친동생처럼 대해온 소꿉친구가, 마왕의 피를 이어받은 사람이었다니, 꿈에도 생각지 못했으니까」"
+
+[[dialogue]]
+speaker_original = "ナターシャ"
+speaker_translation = "나타샤"
+original = "「私は、メルエルの秘密を知った後の、ケイティ姉さんの自然さにも驚いたけどね」"
+translation = "「나는, 멜엘의 비밀을 안 뒤에도, 케이티 언니가 너무 자연스러워서 놀랐는데」"
+
+[[dialogue]]
+speaker_original = "ナターシャ"
+speaker_translation = "나타샤"
+original = "「絶対に態度に出ると思ってたから。姉さん、隠し事とか苦手なタイプだし」"
+translation = "「절대로 태도에 드러날 거라고 생각했거든. 언니, 숨기는 거 잘 못하는 타입이고」"
+
+[[dialogue]]
+speaker_original = "ケイティ"
+speaker_translation = "케이티"
+original = "「うーん。だって急に魔王だなんて言われても～。私にとってメルエルちゃんは、小さい頃からよく知ってる、可愛い妹分でしかないし……」"
+translation = "「으음. 그치만 갑자기 마왕이라고 들어봤자～. 나에게 멜엘 짱은, 어릴 때부터 잘 아는, 귀여운 여동생일 뿐인걸……」"
+
+[[dialogue]]
+speaker_original = "メルエル"
+speaker_translation = "메르엘"
+original = "「ケイティお姉ちゃん……！」"
+translation = "「케이티 언니……!」"
+
+[[dialogue]]
+speaker_original = "ケイティ"
+speaker_translation = "케이티"
+original = "「今まで知らないふりをしていたのは、ごめんね？\u3000でもこれはメルエルちゃんの安全を守るためでもあったから、仕方なかったの」"
+translation = "「지금까지 모르는 척했던 건, 미안해? 하지만 이건 멜엘 짱의 안전을 지키기 위해서이기도 했으니까, 어쩔 수 없었어」"
+
+[[dialogue]]
+speaker_original = "ナターシャ"
+speaker_translation = "나타샤"
+original = "「そういうこと。聖庭園も一枚岩じゃないからね。メルエルの正体が広く知られたら、何があるかわかったものじゃない」"
+translation = "「그런 말씀. 성정원도 한 덩어리가 아니니까 말야. 멜엘의 정체가 널리 알려지면, 무슨 일이 생길지 모르는 일이야」"
+
+[[dialogue]]
+speaker_original = "メルエル"
+speaker_translation = "메르엘"
+original = "「今さらだけど……そんなに私の出自って、秘密にしなきゃいけないことなの？」"
+translation = "「이제 와서지만…… 그렇게 내 출생이, 비밀로 해야 할 일인 거야?」"
+
+[[dialogue]]
+speaker_original = "ナターシャ"
+speaker_translation = "나타샤"
+original = "「当然。聖庭園の政治がどんな形か──それくらいは知ってるでしょ？」"
+translation = "「당연하지. 성정원의 정치가 어떤 형태인지── 그 정도는 알잖아?」"
+
+[[dialogue]]
+speaker_original = "メルエル"
+speaker_translation = "메르엘"
+original = "「え、えっと……天界の<ruby>政<rt>まつりごと</rt></ruby>は、聖庭園の議会で決まるんだよね？」"
+translation = "「어, 에또…… 천계의 정치는, 성정원의 의회에서 결정되는 거지?」"
+
+[[dialogue]]
+speaker_original = "ナターシャ"
+speaker_translation = "나타샤"
+original = "「そう。議会制の民主主義。リガルタ老を入れて全部で１２の議席と、いつくかの派閥に分かれてる」"
+translation = "「응. 의회제 민주주의. 리갈타 영감을 포함해 전부 12개의 의석과, 몇 가지 파벌로 나뉘어 있어」"
+
+[[dialogue]]
+speaker_original = "ケイティ"
+speaker_translation = "케이티"
+original = "「それぞれの派閥ごとに、スタンスが違うの。保守派に改革派……色々あって～」"
+translation = "「각 파벌마다 스탠스가 달라. 보수파에 개혁파…… 여러 가지가 있어서～」"
+
+[[dialogue]]
+speaker_original = "ナターシャ"
+speaker_translation = "나타샤"
+original = "「で、中には『魔王の血族による王政を復活させるべきだ』っていう派閥もある。うちの一族の後ろ盾がここだね」"
+translation = "「그래서, 그중에는 『마왕의 혈족에 의한 왕정을 부활시켜야 한다』라는 파벌도 있어. 우리 일족의 후원자가 여기야」"
+
+[[dialogue]]
+speaker_original = "メルエル"
+speaker_translation = "메르엘"
+original = "「じゃあ、リガルタ様も……？」"
+translation = "「그럼, 리갈타 님도……?」"
+
+[[dialogue]]
+speaker_original = "ケイティ"
+speaker_translation = "케이티"
+original = "「そこは少しややこしくて……。リガルタ様個人は、天界の王政統治に反対の立場だったから」"
+translation = "「그건 좀 복잡한데……. 리갈타 님 개인은, 천계의 왕정 통치에 반대하는 입장이셨거든」"
+
+[[dialogue]]
+speaker_original = "ケイティ"
+speaker_translation = "케이티"
+original = "「この世界の平和のために『天界の魔王』の力が必要になる、と考えていらっしゃったから、『魔王の血族』を残すことには注力されていたけれど……」"
+translation = "「이 세계의 평화를 위해 『천계의 마왕』의 힘이 필요하다고 생각하셨기에, 『마왕의 혈족』을 남기는 데는 주력하셨지만……」"
+
+[[dialogue]]
+speaker_original = "ケイティ"
+speaker_translation = "케이티"
+original = "「ただ、リガルタ様ご本人のカリスマもあって、派閥の中で『天界の魔王を復権すべき』という論調が高まっていってしまったというか……」"
+translation = "「다만, 리갈타 님 본인의 카리스마도 있어서, 파벌 내에서 『천계의 마왕을 복권해야 한다』는 논조가 높아져 버렸다고 해야 할까……」"
+
+[[dialogue]]
+speaker_original = "ナターシャ"
+speaker_translation = "나타샤"
+original = "「長い年月の中で、魔王の血族の世話になった天使も多い。だけど同時に、２０００年前の災厄をもたらしたのも、間違いなく天界の魔王だった」"
+translation = "「긴 세월 동안, 마왕의 혈족의 보살핌을 받은 천사도 많아. 하지만 동시에, 2000년 전의 재앙을 가져온 것도 틀림없이 천계의 마왕이었지」"
+
+[[dialogue]]
+speaker_original = "メルエル"
+speaker_translation = "메르엘"
+original = "「『太陽の壁画』に描かれた事件……だったよね」"
+translation = "「『태양의 벽화』에 그려진 사건……이었지」"
+
+[[dialogue]]
+speaker_original = "ナターシャ"
+speaker_translation = "나타샤"
+original = "「そう。だから魔王による天界統治なんてとんでもないって派閥も、当然ある」"
+translation = "「응. 그래서 마왕에 의한 천계 통치 따위 말도 안 된다는 파벌도, 당연히 있어」"
+
+[[dialogue]]
+speaker_original = "ナターシャ"
+speaker_translation = "나타샤"
+original = "「その派閥と直接の関係は証明されていないけど、天界の魔王の命を狙う暗殺者組織もあった」"
+translation = "「그 파벌과 직접적인 관계는 증명되지 않았지만, 천계의 마왕의 목숨을 노리는 암살자 조직도 있었지」"
+
+[[dialogue]]
+speaker_original = "メルエル"
+speaker_translation = "메르엘"
+original = "「あ、暗殺……！？」"
+translation = "「아, 암살……!?」"
+
+[[dialogue]]
+speaker_original = "ナターシャ"
+speaker_translation = "나타샤"
+original = "「一旦壊滅させてはいるけど、この手の組織は定期的に登場するんだ」"
+translation = "「일단 궤멸시키긴 했지만, 이런 종류의 조직은 주기적으로 등장해」"
+
+[[dialogue]]
+speaker_original = "ナターシャ"
+speaker_translation = "나타샤"
+original = "「彼らにとっては、リガルタ老もその血族も、隙あらば亡き者にするべきターゲットだからね」"
+translation = "「그들에게 있어서는, 리갈타 영감도 그 혈족도, 틈만 나면 없애버려야 할 타깃이니까」"
+
+[[dialogue]]
+speaker_original = "ナターシャ"
+speaker_translation = "나타샤"
+original = "「リガルタ老としては、自分の身は自分で守れるけど──」"
+translation = "「리갈타 영감님이라면, 자기 몸은 자기가 지킬 수 있겠지만──」"
+
+[[dialogue]]
+speaker_original = "ナターシャ"
+speaker_translation = "나타샤"
+original = "「自分の後継者が、護衛も連れずにそこらへんをほっつき歩いてたら、たまったもんじゃないってワケ」"
+translation = "「자신의 후계자가, 호위도 없이 저런 데를 돌아다니고 있으면, 참을 수 없게 된다는 소리야」"
+
+[[dialogue]]
+speaker_original = "ケイティ"
+speaker_translation = "케이티"
+original = "「まだ幼かったメルエルちゃんに重荷を背負わせたくないって気持ちも、あったんだと思うの……」"
+translation = "「아직 어렸던 멜엘 짱에게 짐을 지우고 싶지 않다는 마음도, 있었을 거라 생각해……」"
+
+[[dialogue]]
+speaker_original = "ケイティ"
+speaker_translation = "케이티"
+original = "「むしろ王政復権を成し遂げて、守りを固める選択肢もあったそうよ。でも結局、その選択肢は取られなかった」"
+translation = "「오히려 왕정 복권을 이룩해서, 수비를 굳건히 하는 선택지도 있었다고 해. 하지만 결국, 그 선택지는 취해지지 않았지」"
+
+[[dialogue]]
+speaker_original = "ケイティ"
+speaker_translation = "케이티"
+original = "「だから、メルエルちゃんの正体はごく一部の人しか知らないトップシークレットになったの」"
+translation = "「그래서, 멜엘 짱의 정체는 극히 일부의 사람만 아는 톱 시크릿이 된 거야」"
+
+[[dialogue]]
+speaker_original = "メルエル"
+speaker_translation = "메르엘"
+original = "（やっぱり私、ナターシャちゃんの言う通り、何にも知らずに生きてきたんだな──）"
+translation = "（역시 나, 나타샤 짱의 말대로, 아무것도 모른 채 살아왔구나──）"
+
+[[dialogue]]
+speaker_original = "メルエル"
+speaker_translation = "메르엘"
+original = "（でも──ちゃんと受け止めなきゃ。知ってしまった以上、ちゃんとしなくちゃ……！）"
+translation = "（하지만── 제대로 받아들여야 해. 알게 된 이상, 제대로 해야 해……!）"
+
+[[dialogue]]
+speaker_original = "ナターシャ"
+speaker_translation = "나타샤"
+original = "「…………」"
+translation = "「…………」"
+
+[[dialogue]]
+speaker_original = "ケイティ"
+speaker_translation = "케이티"
+original = "「まさかこんなお話をすることになるだなんて……２人とも、今回の天界訪問は、このお話をメルエルちゃんとするために？」"
+translation = "「설마 이런 이야기를 하게 될 줄이야…… 둘 다, 이번 천계 방문은, 이 이야기를 멜엘 짱과 하기 위해서니?」"
+
+[[dialogue]]
+speaker_original = "メルエル"
+speaker_translation = "메르엘"
+original = "「──ううん。違うの。私とナターシャちゃんは、学園のお仕事で来たんだよ」"
+translation = "「──아니. 아니야. 나랑 나타샤 짱은, 학원 일로 왔어」"
+
+[[dialogue]]
+speaker_original = "メルエル"
+speaker_translation = "메르엘"
+original = "「これから訪れるであろう決戦のために。天使のみんなの力を貸してほしいの……！」"
+translation = "「앞으로 다가올 결전을 위해. 천사 여러분의 힘을 빌려줬으면 해……!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "──メルエルは、緋宮クロトから言付かっていたことをケイティに伝えた。"
+translation = "──멜엘은, 히노미야 쿠로토로부터 전해 들은 말을 케이티에게 전했다."
+
+[[dialogue]]
+speaker = "unk"
+original = "女神テルルよりも高位に位置する創造神『<ruby>ＸＥＬＯＳ<rt>ゼロス</rt></ruby>』の存在。<ruby>彼<rt>か</rt></ruby>の神によって、リクリエの使徒は生み出されていたこと──"
+translation = "여신 테루루보다 상위에 위치하는 창조신 『<ruby>XELOS<rt>제로스</rt></ruby>』의 존재. 그 신에 의해, 리크리에의 사도가 태어났다는 것──"
+
+[[dialogue]]
+speaker = "unk"
+original = "先日の極星学園生による襲撃にも『<ruby>ＸＥＬＯＳ<rt>ゼロス</rt></ruby>』は関与している。創造神との決着のために、１人でも多くの星騎士の力が必要であることも──"
+translation = "며칠 전 극성학원생들에 의한 습격에도 『<ruby>XELOS<rt>제로스</rt></ruby>』가 관여하고 있다. 창조신과의 결판을 위해, 한 명이라도 많은 성기사의 힘이 필요하다는 것도──"
+
+[[dialogue]]
+speaker_original = "ケイティ"
+speaker_translation = "케이티"
+original = "「あらまあ……それは大変そうね～」"
+translation = "「어머나…… 그거 큰일이겠네～」"
+
+[[dialogue]]
+speaker_original = "ナターシャ"
+speaker_translation = "나타샤"
+original = "「流石はケイティ姉さん。想像通りの呑気なリアクション」"
+translation = "「역시 케이티 언니. 상상했던 대로 태평한 리액션이네」"
+
+[[dialogue]]
+speaker_original = "ケイティ"
+speaker_translation = "케이티"
+original = "「もう。どういう意味～？\u3000これでも驚いてるのに～」"
+translation = "「정말. 무슨 뜻이야～? 이래 봬도 놀라고 있는데～」"
+
+[[dialogue]]
+speaker_original = "メルエル"
+speaker_translation = "메르엘"
+original = "（あんまり驚いてるように見えないよぉ……！？）"
+translation = "（별로 놀라고 있는 것처럼 보이지 않아요……!?）"
+
+[[dialogue]]
+speaker_original = "ケイティ"
+speaker_translation = "케이티"
+original = "「なるほど。だからメルエルちゃんたちがやってきたんだね～」"
+translation = "「과연. 그래서 멜엘 짱 일행이 찾아온 거구나～」"
+
+[[dialogue]]
+speaker_original = "メルエル"
+speaker_translation = "메르엘"
+original = "「う、うん。リガルタ様の娘なら、なんとかなるんじゃないかって会長くんが……」"
+translation = "「으, 응. 리갈타 님의 딸이라면, 어떻게든 되지 않을까 하고 회장 군이……」"
+
+[[dialogue]]
+speaker_original = "ナターシャ"
+speaker_translation = "나타샤"
+original = "「とは言っても、メルエルの正体を天界全土に明らかにしたら、それこそめちゃくちゃだから。あくまで政治的な搦め手を使うけどね」"
+translation = "「그렇다고는 해도, 멜엘의 정체를 천계 전역에 밝히면, 그야말로 엉망진창이 될 테니까. 어디까지나 정치적인 수를 쓰겠지만 말야」"
+
+[[dialogue]]
+speaker_original = "ナターシャ"
+speaker_translation = "나타샤"
+original = "「ケイティ姉さん。議会の王政派と保守派に働きかけられる？\u3000この人たちには、メルエル直々の命令ってことでいけると思う」"
+translation = "「케이티 언니. 의회의 왕정파와 보수파에 작용할 수 있어? 이 사람들에게는, 멜엘 직속 명령이라는 걸로 통할 것 같은데」"
+
+[[dialogue]]
+speaker_original = "ケイティ"
+speaker_translation = "케이티"
+original = "「うん。それは問題ないよ～」"
+translation = "「응. 그건 문제없어～」"
+
+[[dialogue]]
+speaker_original = "ナターシャ"
+speaker_translation = "나타샤"
+original = "「で、改革派とかの面倒な連中には、エサをぶら下げて交渉したいかな」"
+translation = "「그리고, 개혁파 같은 귀찮은 녀석들에게는, 미끼를 던져서 협상하고 싶어」"
+
+[[dialogue]]
+speaker_original = "メルエル"
+speaker_translation = "메르엘"
+original = "「……えさ？」"
+translation = "「……미끼?」"
+
+[[dialogue]]
+speaker_original = "ナターシャ"
+speaker_translation = "나타샤"
+original = "「そ。リクリエの危機だから手伝って、だけじゃ弱いからね。戦力を借りるための旨味がないと」"
+translation = "「그렇지. 리크리에의 위기니까 도와달라고 하는 것만으로는 약하니까. 전력을 빌리기 위한 메리트가 있어야지」"
+
+[[dialogue]]
+speaker_original = "ナターシャ"
+speaker_translation = "나타샤"
+original = "「襲撃された天界の復興を、流星市国が全力でサポートする──流星教皇庁からの書簡もあるよ」"
+translation = "「습격당한 천계의 부흥을, 유성 시국이 전력으로 서포트한다── 유성 교황청에서 온 서한도 있어」"
+
+[[dialogue]]
+speaker_original = "ナターシャ"
+speaker_translation = "나타샤"
+original = "「会長さんから星見家のお嬢様に交渉してもらったから、準備は簡単だったよ。で──どうかな、姉さん？」"
+translation = "「회장님이 호시미 가문의 아가씨에게 협상해 줬으니까, 준비는 간단했어. 그래서── 어때, 언니?」"
+
+[[dialogue]]
+speaker_original = "ケイティ"
+speaker_translation = "케이티"
+original = "「うん。問題ないと思うよ～。流星市国と良好な関係を築きたいっていうのは、どこの派閥も変わらないと思うから」"
+translation = "「응. 문제없을 것 같아～. 유성 시국과 양호한 관계를 맺고 싶어 하는 건, 어느 파벌이든 마찬가지일 테니까」"
+
+[[dialogue]]
+speaker_original = "ケイティ"
+speaker_translation = "케이티"
+original = "「それじゃあ早速、連絡を──」"
+translation = "「그럼 당장, 연락을──」"
+
+[[dialogue]]
+speaker_original = "メルエル"
+speaker_translation = "메르엘"
+original = "「……っ！？」"
+translation = "「……윽!?」"
+
+[[dialogue]]
+speaker_original = "ケイティ"
+speaker_translation = "케이티"
+original = "「緊急事態の、アラート──！？」"
+translation = "「긴급 사태의, 알람──!?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ケイティに連絡を飛ばしたのは、衛兵隊の隊員だった。"
+translation = "케이티에게 연락을 보낸 것은, 위병대의 대원이었다."
+
+[[dialogue]]
+speaker_original = "ケイティ"
+speaker_translation = "케이티"
+original = "「一体何が……えっ！？\u3000敵襲──！？\u3000そんな、場所はどこですか！？」"
+translation = "「대체 무슨 일이…… 엣!? 적습──!? 그런, 장소는 어디입니까!?」"
+
+[[dialogue]]
+speaker_original = "スレイプニル"
+speaker_translation = "슬레이프니르"
+original = "「──ブルルルッ！！」"
+translation = "「──부르르르!」"
+
+[[dialogue]]
+speaker_original = "ネビュラの魔女"
+speaker_translation = "네뷸라의 마녀"
+original = "「くっ……何者です、貴女は！！」"
+translation = "「큭…… 누굽니까, 당신은!!」"
+
+[[dialogue]]
+speaker_original = "ジグ"
+speaker_translation = "지그"
+original = "「……これから死ぬ者に、名乗る必要などないだろう？」"
+translation = "「……곧 죽을 자에게, 이름을 밝힐 필요는 없겠지?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "世界樹を守護するネビュラの魔女に、極星従騎と使徒のシャドウが、一斉に襲い掛かる──"
+translation = "세계수를 수호하는 네뷸라의 마녀에게, 극성 종사자와 사도의 섀도가 일제히 덮쳐온다──"
+

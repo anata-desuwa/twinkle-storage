@@ -1,0 +1,344 @@
+[[dialogue]]
+speaker = "unk"
+original = "第２話,水着星騎士杯開幕！？,P"
+translation = "제2화, 수영복 성기사배 개막!?, P"
+
+[[dialogue]]
+speaker = "unk"
+original = "イングリットとヴィーナスの邂逅から数日後。"
+translation = "잉그리드와 비너스의 해후로부터 며칠 후."
+
+[[dialogue]]
+speaker = "unk"
+original = "リゾート結界は水着を着た星騎士で溢れかえっていた。"
+translation = "리조트 결계는 수영복을 입은 성기사들로 넘쳐나고 있었다."
+
+[[dialogue]]
+speaker = "unk"
+original = "どうやら、俺と同じくヘレナちゃんからの呼び出しのようだ。何かのイベントだろうか。"
+translation = "아무래도 나처럼 헬레나짱의 호출을 받은 모양이다. 무슨 이벤트라도 열리는 걸까."
+
+[[dialogue]]
+speaker_original = "イングリット"
+speaker_translation = "잉그리드"
+original = "「フッ、水着戦闘服を着た星騎士がこんなにいたとはな。私を愉しませる強者がいるといいが」"
+translation = "「훗, 수영복 전투복을 입은 성기사가 이렇게나 많았다니. 나를 즐겁게 해 줄 강자가 있으면 좋겠군」"
+
+[[dialogue]]
+speaker = "unk"
+original = "イングリットも来たのか！？"
+translation = "잉그리드도 온 거야!?"
+
+[[dialogue]]
+speaker_original = "イングリット"
+speaker_translation = "잉그리드"
+original = "「なんだ、その呆けた顔は。これから始まるのは夏の最強をかけた戦い。そんなことで生き残れるのか？」"
+translation = "「뭐냐, 그 멍청한 얼굴은. 이제부터 시작되는 것은 여름의 최강을 건 싸움. 그런 정신으로 살아남을 수 있겠나?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "イングリットがイベントに来るなんて珍しい、などと思っているうちに、ヘレナちゃんがみんなの前に現れた。"
+translation = "잉그리드가 이벤트에 오다니 드문 일이네, 같은 생각을 하던 중에 헬레나짱이 모두의 앞에 나타났다."
+
+[[dialogue]]
+speaker_original = "ヘレナ"
+speaker_translation = "헬레나"
+original = "「星騎士諸君、急な呼び出しに応じていただき感謝する。立てばプリティー、座ればゴージャス、ヘレナちゃんである」"
+translation = "「성기사 제군, 갑작스러운 호출에 응해주어 감사한다. 서면 프리티, 앉으면 고저스, 헬레나짱이다」"
+
+[[dialogue]]
+speaker_original = "ヘレナ"
+speaker_translation = "헬레나"
+original = "「夏の最強──つまり、最強の水着星騎士は誰かを決めようというのが今回の趣旨だ。諸君は己の力をぶつけあい、研鑚の機会としてほしい」"
+translation = "「여름의 최강── 즉, 최강의 수영복 성기사는 누구인지를 정하자는 것이 이번 취지다. 제군은 서로의 힘을 부딪치며 연마의 기회로 삼길 바란다」"
+
+[[dialogue]]
+speaker_original = "ヘレナ"
+speaker_translation = "헬레나"
+original = "「形式はバトルロワイヤル。最後まで立っていた者の勝利だ。優勝者には賞品としてカフェテリアの食事券１年分を贈呈しよう」"
+translation = "「형식은 배틀 로얄. 마지막까지 서 있는 자의 승리다. 우승자에게는 상품으로 카페테리아 식사권 1년분을 증정하겠다」"
+
+[[dialogue]]
+speaker_original = "レイラ"
+speaker_translation = "레이라"
+original = "「食事券１年分！？\u3000さすが理事長閣下！\u3000ヘレナちゃん様サイコー！」"
+translation = "「식사권 1년분!? 역시 이사장 각하! 헬레나짱 님 최고!」"
+
+[[dialogue]]
+speaker_original = "イングリット"
+speaker_translation = "잉그리드"
+original = "「ククッ、レイラも来ていたか。戦うのが楽しみだ」"
+translation = "「크큭, 레이라도 와 있었나. 싸우는 것이 기대되는군」"
+
+[[dialogue]]
+speaker_original = "ヘレナ"
+speaker_translation = "헬레나"
+original = "「名付けて──『ドキッ！\u3000水着だらけの星騎士バトルロワイヤル』だ。では、リップル」"
+translation = "「이름하여── 『두근! 수영복 투성이의 성기사 배틀 로얄』이다. 그럼, 리플」"
+
+[[dialogue]]
+speaker_original = "リップル"
+speaker_translation = "리플"
+original = "「ハイ！\u3000準備デキてまーす！\u3000開催の合図とともにみなさんを結界内にランダムにハイチします。これで公平ですね！」"
+translation = "「하이! 준비 다 됐어용! 개최 신호와 함께 여러분을 결계 내에 랜덤으로 배치할게요. 이걸로 공평하죠!」"
+
+[[dialogue]]
+speaker_original = "ヘレナ"
+speaker_translation = "헬레나"
+original = "「うむ、よろしく頼むぞ。では、『ドキッ！\u3000水着だらけの星騎士バトルロワイヤル』の開催をここに宣言する！」"
+translation = "「음, 잘 부탁하마. 그럼, 『두근! 수영복 투성이의 성기사 배틀 로얄』의 개최를 이곳에 선언한다!」"
+
+[[dialogue]]
+speaker_original = "リップル"
+speaker_translation = "리플"
+original = "「いってラッシャーセー！」"
+translation = "「다녀오세용─!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "視界が暗転したかと思うと、次の瞬間には海岸に飛ばされていた。"
+translation = "시야가 암전되는가 싶더니, 다음 순간에는 해안가로 날려 가 있었다."
+
+[[dialogue]]
+speaker_original = "イングリット"
+speaker_translation = "잉그리드"
+original = "「最初に出くわすのが貴様とはな。これも運命だ。私と戦え」"
+translation = "「처음 마주치는 게 네놈이라니. 이것도 운명이군. 나와 싸워라」"
+
+[[dialogue]]
+speaker_original = "イングリット"
+speaker_translation = "잉그리드"
+original = "「……大会の開催を知っていたのか、だと？\u3000無論だ。この大会はヴィーナスの仕込みだからな。やつもなかなか面白いことを考える」"
+translation = "「……대회 개최를 알고 있었냐고? 물론이다. 이 대회는 비너스가 꾸민 것이니까 말이다. 그 녀석도 제법 재미있는 생각을 해」"
+
+[[dialogue]]
+speaker = "unk"
+original = "数日前、２人で笑いあっていたのはこういうことか。"
+translation = "며칠 전, 둘이서 웃고 있었던 게 이런 거였나."
+
+[[dialogue]]
+speaker_original = "イングリット"
+speaker_translation = "잉그리드"
+original = "「よし、では構えろ」"
+translation = "「좋아, 그럼 자세를 잡아라」"
+
+[[dialogue]]
+speaker_original = "？？？"
+speaker_translation = "？？？"
+original = "「でーでんでーでんでーでんでーでん……」"
+translation = "「두둥두둥두둥두둥……」"
+
+[[dialogue]]
+speaker_original = "パテル"
+speaker_translation = "파텔"
+original = "「しゃーっ！\u3000おまえの相手はあたしだー！」"
+translation = "「샤─앗! 네 상대는 이 몸이다─!」"
+
+[[dialogue]]
+speaker_original = "イングリット"
+speaker_translation = "잉그리드"
+original = "「誰かと思えば、守護天使パテルか。守護天使が相手とは<ruby>僥倖<rt>ぎょうこう</rt></ruby>だ。その力、見せてもらうぞ！」"
+translation = "「누구인가 했더니, 수호천사 파텔인가. 수호천사가 상대라니 요행이군. 그 힘, 보여주도록 해라!」"
+
+[[dialogue]]
+speaker_original = "パテル"
+speaker_translation = "파텔"
+original = "「盛り上がってるとこ悪いけど、今日はお仕置きに来たんだからね。パテルちゃんはおこなのだ。ぷんぷん！」"
+translation = "「분위기 좋은데 미안하지만, 오늘은 벌주러 왔거든. 파텔짱은 화났단 말이야. 뿡뿡!」"
+
+[[dialogue]]
+speaker_original = "イングリット"
+speaker_translation = "잉그리드"
+original = "「なに？\u3000仕置きを受けるようなことをした覚えはないぞ」"
+translation = "「뭐지? 벌을 받을 만한 짓을 한 기억은 없다만」"
+
+[[dialogue]]
+speaker_original = "パテル"
+speaker_translation = "파텔"
+original = "「分からないならはっきり言ってあげるね。すーっ……」"
+translation = "「모르겠다면 확실히 말해줄게. 쓰으읍……」"
+
+[[dialogue]]
+speaker_original = "パテル"
+speaker_translation = "파텔"
+original = "「神殿掃除しに来いやー！！\u3000イングリット、氏子なのに一度も掃除に来たことないじゃん！」"
+translation = "「신전 청소하러 오라고─!! 잉그리드, 신도면서 한 번도 청소하러 온 적 없잖아!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "氏子？"
+translation = "신도?"
+
+[[dialogue]]
+speaker_original = "イングリット"
+speaker_translation = "잉그리드"
+original = "「魔王には言っていなかったか。私の生まれた天界の武闘都市ウリルの近くには、守護天使パテルの神殿があり、その管理を我が家が代々担っている」"
+translation = "「마왕에겐 말하지 않았었나. 내가 태어난 천계의 무투 도시 우릴 근처에는 수호천사 파텔의 신전이 있으며, 그 관리를 우리 가문이 대대로 맡고 있다」"
+
+[[dialogue]]
+speaker_original = "イングリット"
+speaker_translation = "잉그리드"
+original = "「つまり、私はパテルを祀る家系の末裔というわけだ」"
+translation = "「즉, 나는 파텔을 모시는 가계의 후예라는 소리지」"
+
+[[dialogue]]
+speaker_original = "イングリット"
+speaker_translation = "잉그리드"
+original = "「天界襲撃の際にはちゃんと守りに行ってやったはずだがな。それではご不満らしい」"
+translation = "「천계 습격 당시에는 제대로 지키러 가줬을 텐데 말이다. 그걸로는 불만인 모양이군」"
+
+[[dialogue]]
+speaker_original = "パテル"
+speaker_translation = "파텔"
+original = "「イングリットは極星従騎と戦いたかっただけでしょ。しかも、帰りも掃除していかないし！」"
+translation = "「잉그리드는 극성종기랑 싸우고 싶었을 뿐이잖아. 게다가 돌아갈 때도 청소 안 하고 가버리고!」"
+
+[[dialogue]]
+speaker_original = "イングリット"
+speaker_translation = "잉그리드"
+original = "「当たり前だ。私は戦士だ。掃除なぞするヒマがあれば鍛錬に充てる。掃除など年寄りに任せておけ」"
+translation = "「당연하다. 나는 전사다. 청소 따위 할 틈이 있다면 단련에 충당한다. 청소 같은 건 노인들에게 맡겨둬라」"
+
+[[dialogue]]
+speaker_original = "パテル"
+speaker_translation = "파텔"
+original = "「他のとこはしっかりしてるのに、うちはこれだからなー。性根を叩き直してやるから覚悟しろ！」"
+translation = "「다른 집은 성실한데 우리 집만 이 모양이라니까─. 근성을 뜯어고쳐 줄 테니 각오해!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "（無理だと思う）"
+translation = "（무리라고 생각해）"
+
+[[dialogue]]
+speaker_original = "イングリット"
+speaker_translation = "잉그리드"
+original = "「御託はいい。かかってこい守護天使！」"
+translation = "「사설은 됐다. 덤벼라 수호천사!」"
+
+[[dialogue]]
+speaker_original = "パテル"
+speaker_translation = "파텔"
+original = "「こいつなんでこんなに偉そうなんだろうね。じゃあ──」"
+translation = "「얘는 왜 이렇게 거만한 걸까. 그럼──」"
+
+[[dialogue]]
+speaker_original = "パテル"
+speaker_translation = "파텔"
+original = "「でーでんでーでんでーでんでーでん」"
+translation = "「두둥두둥두둥두둥」"
+
+[[dialogue]]
+speaker_original = "イングリット"
+speaker_translation = "잉그리드"
+original = "「海に潜ったか。これではどこにいるか分からん」"
+translation = "「바다로 숨었나. 이래서는 어디 있는지 모르겠군」"
+
+[[dialogue]]
+speaker_original = "イングリット"
+speaker_translation = "잉그리드"
+original = "「死とは突然、忍び寄るもの……だったか。子どもの頃から聞かされていたとも」"
+translation = "「죽음이란 갑자기 소리 없이 다가오는 것……이었나. 어릴 때부터 귀에 못이 박히도록 들었지」"
+
+[[dialogue]]
+speaker_original = "イングリット"
+speaker_translation = "잉그리드"
+original = "「だが、そんなものを恐れる私ではない！\u3000海ごと叩き斬ってみせよう！\u3000ザンブレイクセイバー！！」"
+translation = "「하지만 그딴 것을 두려워할 내가 아니다! 바다째로 베어 넘겨주마! 잔 브레이크 세이버!!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "特大の斬撃が海を切り裂き、大波を生み出した。波の間からパテルが顔を出す。"
+translation = "특대 참격이 바다를 가르고 큰 파도를 일으켰다. 파도 사이에서 파텔이 얼굴을 내민다."
+
+[[dialogue]]
+speaker_original = "パテル"
+speaker_translation = "파텔"
+original = "「おっと、見付かっちゃった？\u3000やるね～。そりゃっ！」"
+translation = "「어라, 들켰나? 제법이네~. 에잇!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "波間から出てきたパテルがサメごと体当たりを仕掛ける。"
+translation = "파도 사이에서 튀어나온 파텔이 상어째로 몸통 박치기를 시도한다."
+
+[[dialogue]]
+speaker_original = "イングリット"
+speaker_translation = "잉그리드"
+original = "「ぐぅっ！\u3000これが守護天使の力か！\u3000ククク、やはり戦いは愉しいな！」"
+translation = "「구윽! 이것이 수호천사의 힘인가! 크크크, 역시 싸움은 즐겁군!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "……これじゃむしろご褒美では？"
+translation = "……이건 오히려 포상 아냐?"
+
+[[dialogue]]
+speaker_original = "パテル"
+speaker_translation = "파텔"
+original = "「え、どういうこと？」"
+translation = "「에, 그게 무슨 소리야?」"
+
+[[dialogue]]
+speaker_original = "パテル"
+speaker_translation = "파텔"
+original = "「……掃除しないお仕置きに来たのに、戦ったらご褒美になっちゃう？\u3000それはそうかも。う～ん」"
+translation = "「……청소 안 한 벌 주러 왔는데, 싸워주면 포상이 돼버려? 그럴지도 모르겠네. 으음」"
+
+[[dialogue]]
+speaker_original = "パテル"
+speaker_translation = "파텔"
+original = "「じゃ、こうしよっか。イングリット～、神殿の掃除したら続きしたげる。それまでお預けってことで！」"
+translation = "「그럼 이렇게 하자. 잉그리드~, 신전 청소하면 다음 싸움 해줄게. 그때까지는 금지야!」"
+
+[[dialogue]]
+speaker_original = "イングリット"
+speaker_translation = "잉그리드"
+original = "「なんだと！？\u3000ここからがいいところだろうが！」"
+translation = "「뭐라고!? 이제부터가 진짜 시작이거늘!」"
+
+[[dialogue]]
+speaker_original = "パテル"
+speaker_translation = "파텔"
+original = "「じゃあね。しーゆーあげいん♪」"
+translation = "「안녕. 씨 유 어게인♪」"
+
+[[dialogue]]
+speaker_original = "イングリット"
+speaker_translation = "잉그리드"
+original = "「に、逃げるな～～～～～！？」"
+translation = "「도, 도망치지 마아아아아─!?」"
+
+[[dialogue]]
+speaker_original = "イングリット"
+speaker_translation = "잉그리드"
+original = "「どうしてくれる、魔王！\u3000貴様のせいでパテルが帰ってしまったではないか！」"
+translation = "「어쩔 거냐, 마왕! 네놈 때문에 파텔이 돌아가 버리지 않았느냐!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "神殿の掃除しようね"
+translation = "신전 청소하자"
+
+[[dialogue]]
+speaker_original = "イングリット"
+speaker_translation = "잉그리드"
+original = "「他人事みたいな顔をするな！\u3000貴様のせいなのだから、責任を取って手伝え。今度ウリルに戻るときは貴様も来てもらうぞ！」"
+translation = "「남 일처럼 말하지 마라! 네놈 탓이니까 책임지고 도와라. 다음에 우릴로 돌아갈 때는 네놈도 같이 가줘야겠다!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "それって、イングリットの実家に俺も一緒に行くってことになるんだろうか。"
+translation = "그거, 잉그리드의 본가에 나도 같이 간다는 소리가 되는 건가."
+
+[[dialogue]]
+speaker_original = "イングリット"
+speaker_translation = "잉그리드"
+original = "「そうだ、ついでに父と母にも貴様を紹介してやろう。私と釣り合う男は少ないからな」"
+translation = "「그래, 가는 김에 아버지와 어머니께도 네놈을 소개해 주지. 나와 어울리는 남자는 드무니까 말이다」"
+
+[[dialogue]]
+speaker = "unk"
+original = "やっぱり一緒に実家に行く流れになっていた。何故だ。"
+translation = "결국 같이 본가에 가는 흐름이 되었다. 왜지."
+

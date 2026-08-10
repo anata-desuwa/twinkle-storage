@@ -1,0 +1,1343 @@
+[[dialogue]]
+speaker = "unk"
+original = "終焉世界ベガにて、創造神『<ruby>ＸＥＬＯＳ<rt>ゼロス</rt></ruby>』を討ち滅ぼした。"
+translation = "종언 세계 베가에서 창조신 『<ruby>XELOS<rt>제로스</rt></ruby>』를 토벌했다."
+
+[[dialogue]]
+speaker = "unk"
+original = "そしてアルタイル・デネブの星騎士たちが一同に集う祝勝会も終わり、しばらく経ったある日……"
+translation = "그리고 알타이르·데네브의 성기사들이 한자리에 모인 축승회도 끝나고, 한참이 지난 어느 날……"
+
+[[dialogue]]
+speaker = "unk"
+original = "新星学園の理事でもある煌嶺が、星徒会室を訪ねてきた。"
+translation = "신성 학원의 이사이기도 한 코우레이가 성도회실을 찾아왔다."
+
+[[dialogue]]
+speaker_original = "クロト"
+speaker_translation = "쿠로토"
+original = "「……今年から、修学旅行を復活させる？」"
+translation = "「……올해부터 수학여행을 부활시킨다고?」"
+
+[[dialogue]]
+speaker_original = "煌嶺"
+speaker_translation = "코레이"
+original = "「うん♪\u3000『<ruby>ＸＥＬＯＳ<rt>ゼロス</rt></ruby>』もいなくなって、リクリエの危機は去ったでしょ？」"
+translation = "「응♪ 『<ruby>XELOS<rt>제로스</rt></ruby>』도 없어졌고, 리크리에의 위기도 사라졌잖아?」"
+
+[[dialogue]]
+speaker_original = "煌嶺"
+speaker_translation = "코레이"
+original = "「シノさんやヘレナさんから聞いたよ～？\u3000ここ数年、新星学園は修学旅行をやってなかったって♪」"
+translation = "「시노 씨나 헬레나 씨에게 들었어~? 요 몇 년간 신성 학원은 수학여행을 안 했다며♪」"
+
+[[dialogue]]
+speaker_original = "クロト"
+speaker_translation = "쿠로토"
+original = "「えっと……そうなのか、みんな？」"
+translation = "「어…… 그랬던 건가, 다들?」"
+
+[[dialogue]]
+speaker_original = "マトイ"
+speaker_translation = "마토이"
+original = "「そっか。思えば会長って、少し前に転入してきたんだったね」"
+translation = "「그렇구나. 생각해보니 회장은 얼마 전에 전학 왔었지」"
+
+[[dialogue]]
+speaker_original = "サーシャ"
+speaker_translation = "사샤"
+original = "「うふふ。転入してすぐ、ヴィーナスちゃんと御前試合をして……その後もずーっとバタバタしてたものね～」"
+translation = "「우후후. 전학 오자마자 비너스 짱이랑 어전 시합을 하고…… 그 후로도 계속 정신없었는걸요~」"
+
+[[dialogue]]
+speaker_original = "アナ"
+speaker_translation = "아나"
+original = "「使徒となったアポロさんに、魔神ギエルとの戦い。それからしばらくして、梨緒さんがアルタイルにやってきて……」"
+translation = "「사도가 된 아폴로 씨에, 마신 기엘과의 싸움. 그리고 얼마 지나지 않아 리오 씨가 알타이르에 와서……」"
+
+[[dialogue]]
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
+original = "「大忙しだったわね、クロト！」"
+translation = "「무지 바빴었지, 쿠로토!」"
+
+[[dialogue]]
+speaker_original = "サーシャ"
+speaker_translation = "사샤"
+original = "「会長くんが学園の行事に疎いのも仕方ないわね。煌嶺ちゃんの言う通りよ～」"
+translation = "「회장 군이 학원 행사에 어두운 것도 어쩔 수 없겠네. 코우레이 짱 말대로야~」"
+
+[[dialogue]]
+speaker_original = "アナ"
+speaker_translation = "아나"
+original = "「記録によると、新森羅歴２９９８年から、新星学園の修学旅行は見送りとなっていたようです」"
+translation = "「기록에 따르면 신삼라력 2998년부터 신성 학원의 수학여행은 보류되었던 것으로 보입니다」"
+
+[[dialogue]]
+speaker_original = "アナ"
+speaker_translation = "아나"
+original = "「これはやはり、リクリエの到来が近づいていたことが原因でしょうか？」"
+translation = "「이건 역시 리크리에의 도래가 다가왔던 것이 원인일까요?」"
+
+[[dialogue]]
+speaker_original = "サーシャ"
+speaker_translation = "사샤"
+original = "「そうなのよ～。年を経るごとにアステラやモンスターの動きが活性化していたから。星騎士が流星市国を離れるわけにもいかなくって～」"
+translation = "「그렇단다~. 해가 갈수록 아스테라나 몬스터의 움직임이 활발해졌으니까. 성기사가 유성 시국을 비울 수도 없어서~」"
+
+[[dialogue]]
+speaker_original = "サーシャ"
+speaker_translation = "사샤"
+original = "「私が星徒会長だった去年も見送りで、シルヴィががっかりしてたわ～」"
+translation = "「내가 성도회장이었던 작년에도 보류라서 실비가 실망했었지~」"
+
+[[dialogue]]
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
+original = "「だったらちょうどいいじゃない！\u3000修学旅行を復活させて、今年はパーッと盛り上げちゃいましょ♪」"
+translation = "「그럼 딱 좋네! 수학여행을 부활시켜서 올해는 팍팍 분위기 띄워보자♪」"
+
+[[dialogue]]
+speaker = "unk"
+original = "俺たちは世界を救う役目を担う星騎士だが、同時に青春を謳歌する学生でもある。"
+translation = "우리들은 세계를 구하는 역할을 짊어진 성기사이지만, 동시에 청춘을 구가하는 학생이기도 하다."
+
+[[dialogue]]
+speaker = "unk"
+original = "『<ruby>ＸＥＬＯＳ<rt>ゼロス</rt></ruby>』がいなくなり、アステラもモンスターも大幅にその出現が目減りした今、かつての行事を復活させるのはいい機会だ。"
+translation = "『<ruby>XELOS<rt>제로스</rt></ruby>』가 사라지고, 아스테라도 몬스터도 출현이 대폭 줄어든 지금, 과거의 행사를 부활시키는 것은 좋은 기회다."
+
+[[dialogue]]
+speaker_original = "サーシャ"
+speaker_translation = "사샤"
+original = "「新星学園の修学旅行は、その年の最後の大交流に合わせて行われるのよ、会長くん♪」"
+translation = "「신성 학원의 수학여행은 그해 마지막 대교류에 맞춰서 진행된단다, 회장 군♪」"
+
+[[dialogue]]
+speaker_original = "クロト"
+speaker_translation = "쿠로토"
+original = "「大交流……<ruby>鏡界の湖<rt>ラーゴ・シエロ</rt></ruby>を使うんですか？」"
+translation = "「대교류…… <ruby>경계의 호수<rt>라고 시엘로</rt></ruby>를 사용하는 건가요?」"
+
+[[dialogue]]
+speaker_original = "サーシャ"
+speaker_translation = "사샤"
+original = "「ええ。人間界、天界、魔界……それらを繋ぐ<ruby>鏡界の湖<rt>ラーゴ・シエロ</rt></ruby>のゲートは、四半期ごとに開かれるでしょう？」"
+translation = "「네. 인간계, 천계, 마계…… 그것들을 잇는 <ruby>경계의 호수<rt>라고 시엘로</rt></ruby>의 게이트는 분기마다 열리잖아요?」"
+
+[[dialogue]]
+speaker_original = "マトイ"
+speaker_translation = "마토이"
+original = "「大交流のゲートって、普段はすぐに閉じちゃうんだけどね。その年の最後の大交流だけは、特別なんだよ」"
+translation = "「대교류 게이트는 평소에는 금방 닫히지만 말이야. 그해 마지막 대교류만큼은 특별하거든」"
+
+[[dialogue]]
+speaker_original = "サーシャ"
+speaker_translation = "사샤"
+original = "「地脈の影響か、星々の巡りが関係しているか……詳細は不明なのだけれど。１年の最後に開かれるゲートは、２週間以上も開通するの♪」"
+translation = "「지맥의 영향인지 별들의 운행이 관계된 건지…… 상세한 건 불명이지만. 1년의 마지막에 열리는 게이트는 2주 이상이나 개통된단다♪」"
+
+[[dialogue]]
+speaker_original = "クロト"
+speaker_translation = "쿠로토"
+original = "「そ、そんなに……！？」"
+translation = "「그, 그렇게나……!?」"
+
+[[dialogue]]
+speaker_original = "サーシャ"
+speaker_translation = "사샤"
+original = "「面白いでしょう？\u3000その時期に合わせて、天界と魔界を訪問して異文化交流をするのが、星騎士の修学旅行。そう聞いているわ～♪」"
+translation = "「재밌지 않니? 그 시기에 맞춰서 천계와 마계를 방문해 이문화 교류를 하는 것이 성기사의 수학여행. 그렇게 들었어~♪」"
+
+[[dialogue]]
+speaker_original = "アナ"
+speaker_translation = "아나"
+original = "「おお。ＤＩＳＣで調べると、たくさん出てきますね。６年前──開校直後のデータですが……」"
+translation = "「오오. DISC로 조사하니 많이 나오는군요. 6년 전── 개교 직후의 데이터입니다만……」"
+
+[[dialogue]]
+speaker_original = "アナ"
+speaker_translation = "아나"
+original = "「天界は聖庭園、私の故郷である学術都市ウル。ほかにも芸術都市イオルなどにも来訪したことがあるようです」"
+translation = "「천계는 성정원, 제 고향인 학술 도시 우루. 그 외에도 예술 도시 이오르 등에도 방문한 적이 있는 것 같습니다」"
+
+[[dialogue]]
+speaker_original = "サーシャ"
+speaker_translation = "사샤"
+original = "「魔界は広いから、たくさんの場所は巡れないの。<ruby>鏡界の湖<rt>ラーゴ・シエロ</rt></ruby>に近い、ズヴィエダ地方の都市がよく選ばれてたって聞いたかしら～」"
+translation = "「마계는 넓어서 많은 곳을 돌 수는 없어. <ruby>경계의 호수<rt>라고 시엘로</rt></ruby>에서 가까운 즈비에다 지방의 도시가 자주 선정됐다고 들었단다~」"
+
+[[dialogue]]
+speaker_original = "煌嶺"
+speaker_translation = "코레이"
+original = "「そうそう♪\u3000で、行き先の決定は星徒会が行うってシノさんから聞いてね？\u3000せっかくだから提案したいな～って♪」"
+translation = "「맞아 맞아♪ 그래서 행선지 결정은 성도회에서 한다고 시노 씨한테 들었거든? 기왕 하는 거 제안하고 싶어서~♪」"
+
+[[dialogue]]
+speaker_original = "煌嶺"
+speaker_translation = "코레이"
+original = "「ねぇ魔王さん。今年の修学旅行、魔界の行き先はキュリオスにしない？」"
+translation = "「저기 마왕님. 올해 수학여행, 마계 행선지는 큐리오스로 하지 않을래?」"
+
+[[dialogue]]
+speaker_original = "煌嶺"
+speaker_translation = "코레이"
+original = "「キュリオスはいいよ～？\u3000魔界でも飛びぬけて発展してる都市だからね！\u3000面白いものも、美味しい食べ物も盛りだくさん♪」"
+translation = "「큐리오스는 좋다구~? 마계에서도 독보적으로 발전한 도시니까! 재밌는 것도, 맛있는 음식도 가득해♪」"
+
+[[dialogue]]
+speaker_original = "煌嶺"
+speaker_translation = "코레이"
+original = "「おもてなしするから、おいでおいで♪\u3000ねっ？」"
+translation = "「대접할 테니까, 와 와♪ 응?」"
+
+[[dialogue]]
+speaker_original = "アナ"
+speaker_translation = "아나"
+original = "「おもてなしと言いますが……たくさんの学生を招けば、それだけ経済が潤います。学園生にお金を落としてもらって大儲け、というのが本音では？」"
+translation = "「대접한다고 말씀하십니다만…… 많은 학생을 초대하면 그만큼 경제가 활성화됩니다. 학원생들이 돈을 쓰게 해서 큰돈을 벌겠다는 것이 본심 아닙니까?」"
+
+[[dialogue]]
+speaker_original = "煌嶺"
+speaker_translation = "코레이"
+original = "「アナちゃんってば鋭い！\u3000それもあるよ～、もちろん♪」"
+translation = "「아나 짱도 참 예리해! 그것도 있어~ 물론♪」"
+
+[[dialogue]]
+speaker_original = "煌嶺"
+speaker_translation = "코레이"
+original = "「でも、交流したいって気持ちも本当だよ？\u3000あとお国自慢もしたい！\u3000私が治める魔界最大の都市だからね、<ruby>キュリオス<rt>うち</rt></ruby>は♪」"
+translation = "「하지만 교류하고 싶다는 마음도 진짜라구? 그리고 나라 자랑도 하고 싶어! 내가 다스리는 마계 최대의 도시니까, <ruby>큐리오스<rt>우리 집</rt></ruby>은♪」"
+
+[[dialogue]]
+speaker_original = "煌嶺"
+speaker_translation = "코레이"
+original = "「それじゃあ検討よろしくね～♪\u3000って言っても──」"
+translation = "「그럼 검토 잘 부탁해~♪ 라고 해도──」"
+
+[[dialogue]]
+speaker_original = "煌嶺"
+speaker_translation = "코레이"
+original = "「まさか私の『お誘い』を断るだなんて……カケラも思ってもないけどねっ♪」"
+translation = "「설마 나의 『초대』를 거절할 거라곤…… 눈곱만큼도 생각 안 하지만 말이야♪」"
+
+[[dialogue]]
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
+original = "「なるほど……そんなことが」"
+translation = "「그렇군요…… 그런 일이」"
+
+[[dialogue]]
+speaker = "unk"
+original = "半ば脅しのような『お誘い』をした煌嶺が帰った後──俺はフィオナを呼び出して、事の顛末を伝えた。"
+translation = "반쯤 협박 같은 『초대』를 한 코우레이가 돌아간 뒤── 나는 피오나를 불러서 자초지종을 전했다."
+
+[[dialogue]]
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
+original = "「修学旅行を復活させよう、というのは私も賛成です。かつては流星学園も、新星学園と合同で修学旅行を執り行ったと聞いていますし」"
+translation = "「수학여행을 부활시키자는 것에는 저도 찬성입니다. 예전에는 유성 학원도 신성 학원과 합동으로 수학여행을 집행했다고 들었으니까요」"
+
+[[dialogue]]
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
+original = "「しかし行き先にキュリオスを、というのは……少し不安がありますね……」"
+translation = "「하지만 행선지로 큐리오스를 정하는 것은…… 조금 불안함이 있네요……」"
+
+[[dialogue]]
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
+original = "「<ruby>頽廃<rt>たいはい</rt></ruby>都市キュリオスは、『煌嶺』の名を継ぐ女帝によって、永きに渡って統治されてきた都市です」"
+translation = "「퇴폐 도시 큐리오스는 『코우레이』의 이름을 잇는 여제에 의해 오랫동안 통치되어 온 도시입니다」"
+
+[[dialogue]]
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
+original = "「『都市』と名前はついていますが、スケールとしては国をイメージしてください」"
+translation = "「『도시』라는 이름이 붙어 있지만 스케일로서는 국가를 이미지해 주세요」"
+
+[[dialogue]]
+speaker_original = "サーシャ"
+speaker_translation = "사샤"
+original = "「キュリオスがある魔界のジンルオ地方は、７つの都市国家が覇を競い合う地域なのよ。内紛や戦争も多くって～」"
+translation = "「큐리오스가 있는 마계의 진루오 지방은 7개의 도시 국가가 패권을 다투는 지역이야. 내분이나 전쟁도 많고~」"
+
+[[dialogue]]
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
+original = "「ええ。ここ数年は、都市同士の武力が拮抗しているため、ある程度の治安は確保されているとは聞いていますが……」"
+translation = "「예. 요 몇 년은 도시 간의 무력이 팽팽하기 때문에 어느 정도 치안은 확보되어 있다고 들었습니다만……」"
+
+[[dialogue]]
+speaker_original = "クロト"
+speaker_translation = "쿠로토"
+original = "「デネブでの決戦──『<ruby>星の再会<rt>スター・リユニオン</rt></ruby>』の時に助力に来てくれた星術使いも、その……濃いメンツばっかりだったしな」"
+translation = "「데네브에서의 결전── 『<ruby>별의 재회<rt>스타 리유니온</rt></ruby>』 때 조력하러 와준 성술사들도 그…… 진한 멤버들뿐이었고 말이지」"
+
+[[dialogue]]
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
+original = "「はい。それにキュリオスは、魔界で随一の歓楽都市でもあります」"
+translation = "「네. 게다가 큐리오스는 마계에서 손꼽히는 환락 도시이기도 합니다」"
+
+[[dialogue]]
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
+original = "「カンラク都市……沈んじゃってるの！？」"
+translation = "「환락 도시…… 가라앉아 있는 거야!?」"
+
+[[dialogue]]
+speaker_original = "マトイ"
+speaker_translation = "마토이"
+original = "「違うよヴィーナス、ええっとね……」"
+translation = "「아냐 비너스, 에 그러니까……」"
+
+[[dialogue]]
+speaker_original = "アナ"
+speaker_translation = "아나"
+original = "「少し調べただけでも、後ろ暗いところがたくさん出てきますね」"
+translation = "「조금만 조사해도 구린 구석이 많이 나오는군요」"
+
+[[dialogue]]
+speaker_original = "アナ"
+speaker_translation = "아나"
+original = "「カジノに、賭け試合を行う闘技場に……盗品を売りさばくブラックマーケットもあるようです」"
+translation = "「카지노에, 내기 시합을 하는 투기장에…… 장물을 팔아치우는 블랙 마켓도 있는 모양입니다」"
+
+[[dialogue]]
+speaker_original = "アナ"
+speaker_translation = "아나"
+original = "「魔界全土から合法非合法を問わず、あらゆるルートを通って、人材・金品・技術が流入する<ruby>坩堝<rt>るつぼ</rt></ruby>の都市……」"
+translation = "「마계 전역에서 합법 비합법을 가리지 않고 온갖 루트를 통해 인재·금품·기술이 유입되는 도가니 같은 도시……」"
+
+[[dialogue]]
+speaker_original = "サーシャ"
+speaker_translation = "사샤"
+original = "「修学旅行の場所として適切かと言われると、疑問ね～」"
+translation = "「수학여행 장소로서 적절한가 묻는다면 의문이네요~」"
+
+[[dialogue]]
+speaker_original = "マトイ"
+speaker_translation = "마토이"
+original = "「だけど、煌嶺さん直々の『お誘い』ですよ……？」"
+translation = "「하지만 코우레이 씨가 직접 한 『초대』잖아요……?」"
+
+[[dialogue]]
+speaker_original = "アナ"
+speaker_translation = "아나"
+original = "「ええ。提案を袖にしたら、後が大変そうです」"
+translation = "「예. 제안을 거절하면 나중에 골치 아파질 것 같습니다」"
+
+[[dialogue]]
+speaker_original = "クロト"
+speaker_translation = "쿠로토"
+original = "「……よし。じゃあ、下見に行こう。俺がこの目で現地を視察して、適切かどうかを判断してくるよ」"
+translation = "「……좋아. 그럼 사전 답사를 가자. 내가 직접 현지를 시찰해서 적절한지 판단하고 올게」"
+
+[[dialogue]]
+speaker_original = "クロト"
+speaker_translation = "쿠로토"
+original = "「もしも学園生のみんなに悪影響のある危険な都市なら、煌嶺には俺の方から断っておく」"
+translation = "「만약 학원생 모두에게 악영향이 있는 위험한 도시라면, 코우레이에게는 내가 거절해 두겠어」"
+
+[[dialogue]]
+speaker_original = "マトイ"
+speaker_translation = "마토이"
+original = "「うぅ。すごくシリアスな空気……！\u3000旅行の行き先を決めるのって、もっと楽しい感じじゃないのかなぁ！？」"
+translation = "「우으. 굉장히 시리어스한 분위기……! 여행 행선지를 정하는 건 좀 더 즐거운 느낌 아니었나!?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "もしも断るなら、<ruby>肉肉飯店<rt>ローローハンテン</rt></ruby>に負けないくらいの極上の手土産を持参して、何とか溜飲を下げてもらおう……"
+translation = "만약 거절한다면 <ruby>육육반점<rt>로로한텐</rt></ruby>에 뒤지지 않을 정도의 극상 선물을 지참해서 어떻게든 기분을 풀어주자……"
+
+[[dialogue]]
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
+original = "「修学旅行の下見、気合い入れていくわよ～！\u3000みんなで早速、出発しましょう！」"
+translation = "「수학여행 사전 답사, 기합 넣고 가자구~! 다 같이 바로 출발하자!」"
+
+[[dialogue]]
+speaker_original = "マトイ"
+speaker_translation = "마토이"
+original = "「待って待って！？\u3000星徒会全員がいなくなっちゃうのはまずいよ！\u3000普段の仕事だってあるんだから……！」"
+translation = "「잠깐 잠깐!? 성도회 전원이 없어져 버리는 건 곤란해! 평소 업무도 있으니까……!」"
+
+[[dialogue]]
+speaker_original = "アナ"
+speaker_translation = "아나"
+original = "「そうですね。下見は会長だけで十分でしょう。前会長、ステイ」"
+translation = "「그렇네요. 사전 답사는 회장만으로 충분하겠죠. 전 회장님, 스테이」"
+
+[[dialogue]]
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
+original = "「え～っ！？\u3000クロト１人じゃ心配だわ！？」"
+translation = "「에엣!? 쿠로토 혼자 보내기엔 걱정된다구!?」"
+
+[[dialogue]]
+speaker_original = "マトイ"
+speaker_translation = "마토이"
+original = "「ヴィーナスがそれを言う！？」"
+translation = "「비너스가 할 소리냐!?」"
+
+[[dialogue]]
+speaker_original = "ニャリオン"
+speaker_translation = "냐리온"
+original = "「ニャッニャッニャッ！\u3000魔王を１人で向かわせるのが心配ニャら、ワガハイのような優秀な使い魔をつければいいのニャン！！」"
+translation = "「냐냐냐! 마왕을 혼자 보내는 게 걱정된다면 이 몸 같은 우수한 사역마를 붙여주면 되는 거다냥!!」"
+
+[[dialogue]]
+speaker_original = "マトイ"
+speaker_translation = "마토이"
+original = "「あれ。いたんだ、ニャリオンさん」"
+translation = "「어라. 있었나요, 냐리온 씨」"
+
+[[dialogue]]
+speaker_original = "ニャリオン"
+speaker_translation = "냐리온"
+original = "「あんまりニャ！？\u3000ずっとフィオナ嬢のそばにいたニャ！！！」"
+translation = "「너무하다냥!? 계속 피오나 양 곁에 있었다냥!!!」"
+
+[[dialogue]]
+speaker_original = "クロト"
+speaker_translation = "쿠로토"
+original = "「ニャリオン。俺の使い魔って、また急だな……」"
+translation = "「냐리온. 내 사역마라니, 또 갑작스럽네……」"
+
+[[dialogue]]
+speaker_original = "ニャリオン"
+speaker_translation = "냐리온"
+original = "「急じゃないニャ！\u3000ワガハイ、ずっと思ってたニャン。緋宮クロトは魔王ニャのに、使い魔を使役していないのはいかがなものかニャと！」"
+translation = "「갑작스러운 게 아니다냥! 이 몸, 계속 생각했다냥. 히노미야 쿠로토는 마왕인데 사역마를 부리지 않는 건 좀 아니지 않나 싶었다냥!」"
+
+[[dialogue]]
+speaker_original = "ニャリオン"
+speaker_translation = "냐리온"
+original = "「魔界の魔王が治める都市を訪ねるニャら、その土地の要人と会う機会も多いはずニャ。使い魔も使役していない魔王じゃ箔がつかないニャン！」"
+translation = "「마계의 마왕이 다스리는 도시를 방문한다면 그 땅의 요인과 만날 기회도 많을 거다냥. 사역마도 안 부리는 마왕은 체면이 안 선다냥!」"
+
+[[dialogue]]
+speaker_original = "クロト"
+speaker_translation = "쿠로토"
+original = "「そ、そういうものなのか……？」"
+translation = "「그, 그런 건가……?」"
+
+[[dialogue]]
+speaker_original = "ニャリオン"
+speaker_translation = "냐리온"
+original = "「そういうものニャン！！」"
+translation = "「그런 거다냥!!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "転入してから今日まで、戦いに次ぐ戦いの日々を送ってきた。"
+translation = "전학 온 뒤로 오늘까지, 싸움에 이은 싸움의 나날을 보내왔다."
+
+[[dialogue]]
+speaker = "unk"
+original = "フィオナのように使い魔を使役したいだなんて、そんなことを考える暇もなかったけれど──"
+translation = "피오나처럼 사역마를 부리고 싶다니 그런 걸 생각할 겨를도 없었지만──"
+
+[[dialogue]]
+speaker_original = "クロト"
+speaker_translation = "쿠로토"
+original = "「フィオナ。ニャリオンは簡単そうに言うけれど、俺にもできるのかな？\u3000使い魔の召喚って」"
+translation = "「피오나. 냐리온은 쉽게 말하지만 나도 할 수 있을까? 사역마 소환이라는 거」"
+
+[[dialogue]]
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
+original = "「ええ、可能かと。魔王ラクシスはかつて、大賢者であったニャリオンを従えていたそうですから。素質という点で問題はないと思います」"
+translation = "「예, 가능할 거예요. 마왕 락시스는 과거에 대현자였던 냐리온을 거느리고 있었다고 하니까요. 소질 면에서 문제는 없다고 봅니다」"
+
+[[dialogue]]
+speaker_original = "ニャリオン"
+speaker_translation = "냐리온"
+original = "「せっかくニャ！\u3000フィオナ嬢、ワガハイの本を貸してあげたらどうニャ？」"
+translation = "「좋은 기회다냥! 피오나 양, 이 몸의 책을 빌려주는 게 어떻겠냐냥?」"
+
+[[dialogue]]
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
+original = "「うん、そうだね──」"
+translation = "「응, 그렇네──」"
+
+[[dialogue]]
+speaker = "unk"
+original = "フィオナは何もない空間に手を掲げ、一冊の本を取り出した──金色の装飾を施された魔導書だ。"
+translation = "피오나는 허공에 손을 올리고 책 한 권을 꺼냈다── 금빛 장식이 된 마도서다."
+
+[[dialogue]]
+speaker_original = "マトイ"
+speaker_translation = "마토이"
+original = "「前にも見たことがありますね、それ。確かニャリオンさんをパワーアップする時に使っていた……」"
+translation = "「전에도 본 적 있네요, 그거. 분명 냐리온 씨를 파워업시킬 때 썼던……」"
+
+[[dialogue]]
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
+original = "「ええ。己が従える、使い魔に関する秘術がたくさん記されているんです。もちろん呼び出す際の術式も載っていますよ」"
+translation = "「네. 자신이 부리는 사역마에 관한 비술이 많이 적혀 있어요. 물론 불러낼 때의 술식도 실려 있고요」"
+
+[[dialogue]]
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
+original = "「魔女のウェンディさんやアイリーンさんも使い魔を持っていますが……この本の術式は、彼女たち魔女が用いるものとは原理が根本から異なります」"
+translation = "「마녀인 웬디 씨나 아이린 씨도 사역마를 가지고 있지만…… 이 책의 술식은 그녀들 마녀가 사용하는 것과는 원리가 근본적으로 다릅니다」"
+
+[[dialogue]]
+speaker = "unk"
+original = "フィオナ曰く、通常の使い魔は『魂を通わせた生き物に対して術を施す』か、『星力や魔力によって疑似生命を生み出す』ものらしいが……"
+translation = "피오나 말에 따르면 일반적인 사역마는 『교감한 생물에게 술법을 거는』 것이나, 『성력이나 마력으로 의사 생명을 만들어내는』 것이라는데……"
+
+[[dialogue]]
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
+original = "「この魔導書は、今よりも過去の時代を生きていた『神獣』に対して、時を超えた主従の契約を依頼することができるものなんです」"
+translation = "「이 마도서는 지금보다 과거 시대를 살았던 『신수』에게 시공을 초월한 주종 계약을 의뢰할 수 있는 물건이에요」"
+
+[[dialogue]]
+speaker_original = "マトイ"
+speaker_translation = "마토이"
+original = "「な、なんだかとんでもないことを言ってるような！？」"
+translation = "「뭐, 뭔가 엄청난 소리를 하는 것 같은데!?」"
+
+[[dialogue]]
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
+original = "「あはは……そうですよね。この魔導書自体、ニャリオンによって私へもたらされたものなんです」"
+translation = "「아하하…… 그렇죠. 이 마도서 자체가 냐리온을 통해 저에게 전해진 거예요」"
+
+[[dialogue]]
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
+original = "「私とニャリオンの出会い自体は、本当に何気ない、初めての『召喚術』によって生まれた偶然の産物でした」"
+translation = "「저와 냐리온의 만남 자체는 정말 아무 생각 없이 했던 첫 『소환술』에 의해 생겨난 우연의 산물이었죠」"
+
+[[dialogue]]
+speaker_original = "ニャリオン"
+speaker_translation = "냐리온"
+original = "「ニャニャ！\u3000それだけ、フィオナ嬢の魔王としての素質がずば抜けていたということニャ！」"
+translation = "「냐냐! 그만큼 피오나 양의 마왕으로서의 소질이 뛰어났다는 거다냥!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ニャリオンも３０００年前の俺──魔王ラクシスに仕えた大賢者だった。"
+translation = "냐리온도 3000년 전의 나── 마왕 락시스를 보필했던 대현자였다."
+
+[[dialogue]]
+speaker = "unk"
+original = "かつてのフィヴォス流星群の折、魔界から人間界へと戻る時、フィーニスの塔の道中で、俺たちはそのことを知った。"
+translation = "지난 피보스 유성우 때 마계에서 인간계로 돌아오는 길에 피니스의 탑 도중에서 우리들은 그 사실을 알게 되었다."
+
+[[dialogue]]
+speaker = "unk"
+original = "とは言っても、ニャリオンは３０００年前のことをほとんど覚えておらず、フィオナも当初は、魔導書の記載を眉唾だと思っていたらしい。"
+translation = "그렇다고는 해도 냐리온은 3000년 전 일을 거의 기억하지 못했고, 피오나도 당초에는 마도서의 기재를 미심쩍게 생각했던 모양이다."
+
+[[dialogue]]
+speaker_original = "アナ"
+speaker_translation = "아나"
+original = "「時を超えて行う、神獣への契約……凄まじいですね」"
+translation = "「시공을 초월해 행하는 신수와의 계약…… 대단하군요」"
+
+[[dialogue]]
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
+original = "「ただ注意点もありまして。この術はあくまで、強い魂を持つ神獣に対して、話しかけることができるだけなんです」"
+translation = "「다만 주의점도 있어요. 이 술법은 어디까지나 강한 혼을 가진 신수에게 말을 걸 수 있을 뿐이거든요」"
+
+[[dialogue]]
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
+original = "「従者となった神獣は、その魂が主人と深く結ばれてしまうため、文字通り<ruby>一蓮托生<rt>いちれんたくしょう</rt></ruby>となります」"
+translation = "「종자가 된 신수는 그 영혼이 주인과 깊게 결합되기 때문에 말 그대로 일련탁생이 됩니다」"
+
+[[dialogue]]
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
+original = "「そのため神獣の側が契約を了承しなくては、成立しません」"
+translation = "「그렇기에 신수 측이 계약을 승낙하지 않으면 성립되지 않아요」"
+
+[[dialogue]]
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
+original = "「とてつもなく強い使い魔を呼び出す機会を得られますが、上手くいくかどうかは相手次第……というものでして」"
+translation = "「엄청나게 강한 사역마를 불러낼 기회를 얻을 수 있지만, 잘 될지는 상대방에게 달린…… 그런 것이죠」"
+
+[[dialogue]]
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
+original = "「それなら問題ないわね！\u3000クロトは正真正銘の魔王だもの！！」"
+translation = "「그렇다면 문제없겠네! 쿠로토는 명실상부한 마왕인걸!!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "魔王である俺の、使い魔。"
+translation = "마왕인 나의 사역마."
+
+[[dialogue]]
+speaker = "unk"
+original = "創造神との戦いは終わり、いま世界は平和そのもの。"
+translation = "창조신과의 싸움은 끝나고 지금 세계는 평화 그 자체."
+
+[[dialogue]]
+speaker = "unk"
+original = "本来ならば、新たな力を求める必要もないのかもしれないが──"
+translation = "본래라면 새로운 힘을 구할 필요도 없을지 모르지만──"
+
+[[dialogue]]
+speaker_original = "クロト"
+speaker_translation = "쿠로토"
+original = "「試してみてもいいかな、フィオナ？」"
+translation = "「시험해 봐도 될까, 피오나?」"
+
+[[dialogue]]
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
+original = "「ええ。もちろん」"
+translation = "「네. 물론이죠」"
+
+[[dialogue]]
+speaker = "unk"
+original = "俺はフィオナに手ほどきされた通りに、詠唱を試みた。"
+translation = "나는 피오나에게 가르침을 받은 대로 영창을 시도했다."
+
+[[dialogue]]
+speaker = "unk"
+original = "星力を魔導書に込めると、複雑な術式が足元に展開され──"
+translation = "성력을 마도서에 담자 복잡한 술식이 발밑에 전개되고──"
+
+[[dialogue]]
+speaker = "unk"
+original = "掲げた掌にも、温かな光と熱が集中し始めた──"
+translation = "치켜든 손바닥에도 따뜻한 빛과 열이 집중되기 시작했다──"
+
+[[dialogue]]
+speaker = "unk"
+original = "俺は魔王──緋宮クロト。"
+translation = "나는 마왕── 히노미야 쿠로토."
+
+[[dialogue]]
+speaker = "unk"
+original = "この声を聴く、古き時代の神獣よ──"
+translation = "이 목소리를 듣는 옛 시대의 신수여──"
+
+[[dialogue]]
+speaker = "unk"
+original = "どうか俺と、主従の契約を──"
+translation = "부디 나와 주종의 계약을──"
+
+[[dialogue]]
+speaker = "unk"
+original = "────────。"
+translation = "────────."
+
+[[dialogue]]
+speaker_original = "クロト"
+speaker_translation = "쿠로토"
+original = "（……！？\u3000今、声が────！）"
+translation = "（……!? 지금 목소리가────!）"
+
+[[dialogue]]
+speaker_original = "マトイ"
+speaker_translation = "마토이"
+original = "「え～っと……？」"
+translation = "「에 그러니까……?」"
+
+[[dialogue]]
+speaker_original = "アナ"
+speaker_translation = "아나"
+original = "「…………何も現れませんね」"
+translation = "「…………아무것도 나타나지 않는군요」"
+
+[[dialogue]]
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
+original = "「ぴかーって光ったのに。何も出てこないわ！？」"
+translation = "「번쩍하고 빛났는데. 아무것도 안 나오잖아!?」"
+
+[[dialogue]]
+speaker_original = "サーシャ"
+speaker_translation = "사샤"
+original = "「これはもしかして～……」"
+translation = "「이건 설마~……」"
+
+[[dialogue]]
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
+original = "「あ、あはは。失敗、みたいですね……」"
+translation = "「아, 아하하. 실패한 것 같네요……」"
+
+[[dialogue]]
+speaker_original = "クロト"
+speaker_translation = "쿠로토"
+original = "「そう──か。残念だ」"
+translation = "「그런──가. 아쉽네」"
+
+[[dialogue]]
+speaker = "unk"
+original = "フィオナに付き従う、ニャリオンみたいな使い魔。"
+translation = "피오나를 따르는 냐리온 같은 사역마."
+
+[[dialogue]]
+speaker = "unk"
+original = "そんな特別な存在と出会えることを少し楽しみにしていたけれど……上手くいかなかったのなら仕方がない。"
+translation = "그런 특별한 존재와 만날 수 있기를 조금 기대했었지만…… 잘 안됐다면 어쩔 수 없다."
+
+[[dialogue]]
+speaker = "unk"
+original = "元より使い魔が必須の旅路ではないし……これ以上、別の方法を試す必要もないだろう。"
+translation = "애초에 사역마가 필수인 여정도 아니고…… 이 이상 다른 방법을 시도할 필요도 없을 것이다."
+
+[[dialogue]]
+speaker = "unk"
+original = "それから数日後──"
+translation = "그리고 며칠 뒤──"
+
+[[dialogue]]
+speaker = "unk"
+original = "俺は、キュリオスの下見に付いてきたがるヴィーナスをなんとかなだめて、学園を発った。"
+translation = "나는 큐리오스 사전 답사에 따라오고 싶어 하는 비너스를 간신히 달래고 학원을 떠났다."
+
+[[dialogue]]
+speaker = "unk"
+original = "行き先はネビュラの基地。世界樹のうろを使わせてもらうことで、今年最後の大交流よりも前に、キュリオスの下見を行うのだ。"
+translation = "목적지는 네뷸라의 기지. 세계수의 구멍을 사용함으로써 올해 마지막 대교류보다 앞서 큐리오스 사전 답사를 하는 것이다."
+
+[[dialogue]]
+speaker = "unk"
+original = "そうして俺は、人間界に滞在していた煌嶺やリーエンと共に、魔界はキュリオスの地へと赴いたのだった──"
+translation = "그렇게 나는 인간계에 머물고 있던 코우레이나 리엔과 함께 마계 큐리오스 땅으로 향했던 것이었다──"
+
+[[dialogue]]
+speaker_original = "クロト"
+speaker_translation = "쿠로토"
+original = "「……魔界にも青い空があるんだなあ」"
+translation = "「……마계에도 파란 하늘이 있구나」"
+
+[[dialogue]]
+speaker = "unk"
+original = "７つの都市国家が鎬を削るジンルオ地方──<ruby>頽廃<rt>たいはい</rt></ruby>都市キュリオスの空を、俺は眺める。"
+translation = "7개의 도시 국가가 각축을 벌이는 진루오 지방── 퇴폐 도시 큐리오스의 하늘을 나는 바라본다."
+
+[[dialogue]]
+speaker = "unk"
+original = "不思議な感じだ。こうして都市の景観を収めずに空だけを見ると、人間界とそう変わらない──魔界の広大さを実感してしまう。"
+translation = "신기한 기분이다. 이렇게 도시의 경관을 담지 않고 하늘만 보면 인간계와 그리 다르지 않은── 마계의 광대함을 실감하게 된다."
+
+[[dialogue]]
+speaker_original = "リーエン"
+speaker_translation = "리엔"
+original = "「何を言っている、貴様。到着した昨日も、同じことを言っていたぞ」"
+translation = "「무슨 소리를 하는 거냐, 네놈. 도착한 어제도 똑같은 말을 했었다고」"
+
+[[dialogue]]
+speaker_original = "リーエン"
+speaker_translation = "리엔"
+original = "「……現実逃避はそのくらいにしろ魔王。というか、説明しろ！\u3000返答次第では斬る！！」"
+translation = "「……현실 도피는 그 정도로 해라 마왕. 그보다 설명해라! 답변에 따라서는 베겠다!!」"
+
+[[dialogue]]
+speaker_original = "煌嶺"
+speaker_translation = "코레이"
+original = "「ククク……ハハハハハ！\u3000魔王よ。貴様、なかなか隅に置けぬではないか？\u3000まさかまさか──」"
+translation = "「크크크…… 하하하하하! 마왕이여. 네놈, 제법 수완이 좋지 않은가? 설마설마──」"
+
+[[dialogue]]
+speaker_original = "煌嶺"
+speaker_translation = "코레이"
+original = "「キュリオスに到着したその夜のうちに、<b>女を裸に剥いて寝所に連れ込む</b>とは！\u3000魔王にそんな甲斐性があったとはな！！」"
+translation = "「큐리오스에 도착한 그날 밤 사이에 <b>여자를 알몸으로 벗겨 침소에 끌어들이다니</b>! 마왕에게 그런 배짱이 있었을 줄이야!!」"
+
+[[dialogue]]
+speaker_original = "クロト"
+speaker_translation = "쿠로토"
+original = "「だからそれは誤解なんだ！\u3000朝起きたら、いつの間にか<b>あの子</b>が、隣で寝てて……！」"
+translation = "「그러니까 그건 오해라고! 아침에 일어났더니 어느새 <b>그 아이</b>가 옆에서 자고 있어서……!」"
+
+[[dialogue]]
+speaker_original = "リーエン"
+speaker_translation = "리엔"
+original = "「人間界で試していた使い魔の召喚が、時間差で成功した──だったか？」"
+translation = "「인간계에서 시험하던 사역마 소환이 시간 차로 성공했다── 였던가?」"
+
+[[dialogue]]
+speaker_original = "リーエン"
+speaker_translation = "리엔"
+original = "「そんなヘタクソな言い訳を信じるバカがどこにいる！？\u3000報告を聞いた時は耳を疑ったぞ！？\u3000あんな年端もいかない娘を……！」"
+translation = "「그런 서툰 변명을 믿을 바보가 어디 있나!? 보고를 들었을 때는 귀를 의심했다구!? 저렇게 앳된 소녀를……!」"
+
+[[dialogue]]
+speaker_original = "クロト"
+speaker_translation = "쿠로토"
+original = "「だから、あの子は俺の使い魔で……本人もそう言ってて……」"
+translation = "「그러니까 그 아이는 내 사역마고…… 본인도 그렇게 말했고……」"
+
+[[dialogue]]
+speaker_original = "リーエン"
+speaker_translation = "리엔"
+original = "「フン。あの小娘が魔王の使い魔？\u3000何の力も感じなかったぞ！」"
+translation = "「흥. 저 계집애가 마왕의 사역마? 아무런 힘도 느껴지지 않았다!」"
+
+[[dialogue]]
+speaker_original = "リーエン"
+speaker_translation = "리엔"
+original = "「おおかた<ruby>黒灯市場<rt>こくとういちば</rt></ruby>で娼婦でも買って、口裏を合わせたのだろう！\u3000くだらん嘘を吐くな！」"
+translation = "「보나 마나 흑등 시장에서 창부라도 사서 말을 맞춘 거겠지! 시시한 거짓말 마라!」"
+
+[[dialogue]]
+speaker_original = "煌嶺"
+speaker_translation = "코레이"
+original = "「なんだリーエン、随分と不機嫌ではないか？\u3000こんなに面白いことはないだろうに──ククク！」"
+translation = "「왜 그러느냐 리엔, 꽤나 기분이 좋지 않아 보이는군? 이렇게 재미있는 일이 또 없을 텐데── 크크크!」"
+
+[[dialogue]]
+speaker_original = "リーエン"
+speaker_translation = "리엔"
+original = "「……私はこの男を買っていたのです、陛下。志こそ違えど、己が譲れぬもののためなら、命を懸けられる武人であると！」"
+translation = "「……저는 이 남자를 높게 평가하고 있었습니다, 폐하. 뜻은 다를지언정 자신이 양보할 수 없는 것을 위해서라면 목숨을 걸 수 있는 무인이라고!」"
+
+[[dialogue]]
+speaker_original = "リーエン"
+speaker_translation = "리엔"
+original = "「しかし実態は違いました……この男は、近しい者の目がなくなった途端にハメを外す軟派な男だったのです！」"
+translation = "「하지만 실체는 달랐습니다…… 이 남자는 가까운 사람의 눈이 없어지자마자 방탕하게 노는 난봉꾼이었던 겁니다!」"
+
+[[dialogue]]
+speaker_original = "クロト"
+speaker_translation = "쿠로토"
+original = "「リーエン！\u3000キュリオスの往来で誤解を広めないでくれっ！！」"
+translation = "「리엔! 큐리오스 길거리에서 오해를 퍼뜨리지 말아줘!!」"
+
+[[dialogue]]
+speaker_original = "煌嶺"
+speaker_translation = "코레이"
+original = "「件の娘には今、着替えをさせているのだろう？\u3000昼過ぎにでも、妾のところへ連れて来い」"
+translation = "「해당 소녀에게는 지금 옷을 갈아입히고 있는 중이겠지? 정오가 지나면 짐의 거처로 데려오너라」"
+
+[[dialogue]]
+speaker_original = "煌嶺"
+speaker_translation = "코레이"
+original = "「魔王の下手な言い訳は、その時にとっくりと聞かせてもらおうではないか」"
+translation = "「마왕의 서툰 변명은 그때 톡톡히 들어보도록 하지 않겠는가」"
+
+[[dialogue]]
+speaker_original = "煌嶺"
+speaker_translation = "코레이"
+original = "「行くぞ、リーエン。人間界へ赴いている間の雑事も溜まっている。皇帝の時間は有限だぞ？」"
+translation = "「가자, 리엔. 인간계에 가 있는 동안 밀린 잡무도 쌓여 있다. 황제의 시간은 유한하다고?」"
+
+[[dialogue]]
+speaker_original = "リーエン"
+speaker_translation = "리엔"
+original = "「はっ、承知いたしました……！」"
+translation = "「옛, 알겠습니다……!」"
+
+[[dialogue]]
+speaker_original = "煌嶺"
+speaker_translation = "코레이"
+original = "「ではな、魔王。また後でその使い魔とやら……じっくり拝ませてもらうぞ！！」"
+translation = "「그럼 이만, 마왕. 나중에 그 사역마라는 것…… 차분히 구경해 주마!!」"
+
+[[dialogue]]
+speaker_original = "クロト"
+speaker_translation = "쿠로토"
+original = "「…………何てことだ」"
+translation = "「…………이럴 수가」"
+
+[[dialogue]]
+speaker = "unk"
+original = "キュリオスを訪れた矢先に、とんでもないトラブルが発生してしまった。"
+translation = "큐리오스를 방문하자마자 엄청난 트러블이 발생하고 말았다."
+
+[[dialogue]]
+speaker = "unk"
+original = "修学旅行の下見をしなくちゃいけないのに、あの煌嶺に弱みを握られてしまった──いや、本当に誤解なのだけれど。"
+translation = "수학여행 사전 답사를 해야 하는데 그 코우레이에게 약점을 잡혀버렸다── 아니, 정말 오해지만."
+
+[[dialogue]]
+speaker_original = "クロト"
+speaker_translation = "쿠로토"
+original = "（……俺のベッドに、いつの間にか潜り込んでいた、あの子）"
+translation = "（……내 침대에 어느새 기어들어 와 있던 그 아이）"
+
+[[dialogue]]
+speaker_original = "クロト"
+speaker_translation = "쿠로토"
+original = "（いったい、何者なんだ……？\u3000使い魔だって、言ってたけれど──）"
+translation = "（대체 정체가 뭐지……? 사역마라고는 했지만──）"
+
+[[dialogue]]
+speaker_original = "クロト"
+speaker_translation = "쿠로토"
+original = "「……いいや、考えるのは後だ。今はできることをしよう」"
+translation = "「……아니, 생각하는 건 나중이다. 지금은 할 수 있는 일을 하자」"
+
+[[dialogue]]
+speaker = "unk"
+original = "頽廃都市キュリオスを己の足で歩き、己の目で見て……修学旅行の場所として適切であるかを判断しなくては。"
+translation = "퇴폐 도시 큐리오스를 자신의 발로 걷고 자신의 눈으로 보며…… 수학여행 장소로서 적절한지 판단해야 한다."
+
+[[dialogue]]
+speaker_original = "魔族の行商人１"
+speaker_translation = "마족의 행상인 1"
+original = "「ヒヒヒ！\u3000ちょっといいかい、そこの兄サン？」"
+translation = "「히히히! 잠깐 괜찮겠어, 거기 형씨?」"
+
+[[dialogue]]
+speaker_original = "クロト"
+speaker_translation = "쿠로토"
+original = "「あ──俺、ですか？」"
+translation = "「아── 저 말인가요?」"
+
+[[dialogue]]
+speaker_original = "魔族の行商人１"
+speaker_translation = "마족의 행상인 1"
+original = "「おうよ。兄サン、煌嶺陛下と話してたなァ？\u3000身なりもちゃんとしてるし、アレだろ？\u3000金持ちだろ！」"
+translation = "「그래. 형씨, 코우레이 폐하랑 이야기하고 있었지? 옷차림도 번듯하고, 그거지? 부자지!」"
+
+[[dialogue]]
+speaker_original = "魔族の行商人１"
+speaker_translation = "마족의 행상인 1"
+original = "「聞いたぜぇ？\u3000女を連れ込んだとか。どうだい、夜のお供にこの強壮剤を１本──」"
+translation = "「들었다구? 여자를 끌어들였다면서. 어때, 밤 상대로 이 강장제 한 병──」"
+
+[[dialogue]]
+speaker_original = "クロト"
+speaker_translation = "쿠로토"
+original = "「え、遠慮しときます……」"
+translation = "「서, 사양하겠습니다……」"
+
+[[dialogue]]
+speaker = "unk"
+original = "魔族の行商人をかわして、キュリオスの大通りを進む。"
+translation = "마족 행상인을 따돌리고 큐리오스 대로를 나아간다."
+
+[[dialogue]]
+speaker = "unk"
+original = "この通りの名前は、<ruby>万象廊<rt>ばんしょうろう</rt></ruby>。"
+translation = "이 거리의 이름은 만상랑."
+
+[[dialogue]]
+speaker = "unk"
+original = "キュリオスの中でも、特に活気づく商店通りとのこと。"
+translation = "큐리오스 중에서도 특히 활기찬 상점가라고 한다."
+
+[[dialogue]]
+speaker = "unk"
+original = "リーエンが先ほど言っていた<ruby>黒灯市場<rt>こくとういちば</rt></ruby>（こちらはスラム街にあるブラックマーケットだ）とは違う、<b>正規</b>の市場と聞いているが……"
+translation = "리엔이 조금 전 말했던 흑등 시장(이쪽은 슬럼가에 있는 블랙 마켓이다)과는 다른 <b>정식</b> 시장이라고 들었지만……"
+
+[[dialogue]]
+speaker_original = "魔族の行商人２"
+speaker_translation = "마족의 행상인 2"
+original = "「さぁこいつを見てくれよ！\u3000レゾフから取り寄せた氷結ヨーグルト！\u3000掘り出しモンだぜぇ！？」"
+translation = "「자 이것 좀 보라고! 레조프에서 들여온 빙결 요구르트! 횡재한 거라니까!?」"
+
+[[dialogue]]
+speaker_original = "魔族の星術使い"
+speaker_translation = "마족 성술사"
+original = "「ヒャッハァー！\u3000俺は氷結ヨーグルトに目がなくてよォ！\u3000ってぇ、俺のサイフがねぇ！？」"
+translation = "「햐하~! 난 빙결 요구르트에 환장한다고! 어라, 내 지갑이 없네!?」"
+
+[[dialogue]]
+speaker_original = "魔族の行商人２"
+speaker_translation = "마족의 행상인 2"
+original = "「間抜けだなァ、やられちまったか。ケケッ！\u3000金がねぇなら客じゃねえ！\u3000失せな！！」"
+translation = "「얼빠진 녀석이구만, 당해버린 거냐. 케케! 돈 없으면 손님 아냐! 꺼져!!」"
+
+[[dialogue]]
+speaker_original = "クロト"
+speaker_translation = "쿠로토"
+original = "「本当に大丈夫かな、<ruby>新星学園<rt>うち</rt></ruby>の生徒を呼んで……」"
+translation = "「정말 괜찮을까, <ruby>신성 학원<rt>우리</rt></ruby> 학생들을 불러도……」"
+
+[[dialogue]]
+speaker = "unk"
+original = "活気があるのは間違いない。しかし、能力のない者はすぐに食い物にされる、そんな弱肉強食な魔界の歓楽都市──キュリオス。"
+translation = "활기가 있는 것은 분명하다. 하지만 능력이 없는 자는 금방 먹잇감이 되는 그런 약육강식의 마계 환락 도시── 큐리오스."
+
+[[dialogue]]
+speaker = "unk"
+original = "刺激はあるけれど危険な場所……それが俺の、現時点での印象だった。"
+translation = "자극은 있지만 위험한 곳…… 그것이 나의 현시점에서의 인상이었다."
+
+[[dialogue]]
+speaker = "unk"
+original = "その後、例のトラブルのタネとなった<b>あの子</b>と、煌嶺を引き合わせて──"
+translation = "그 후 문제의 씨앗이 된 <b>그 아이</b>와 코우레이를 대면시키고──"
+
+[[dialogue]]
+speaker = "unk"
+original = "キュリオスの色々なところを練り歩き、見聞を深めて──"
+translation = "큐리오스의 이곳저곳을 누비며 견문을 넓히고──"
+
+[[dialogue]]
+speaker = "unk"
+original = "その夜、俺はキュリオスの<ruby>黒灯市場<rt>こくとういちば</rt></ruby>──ブラックマーケットの一画を訪れていた。"
+translation = "그날 밤, 나는 큐리오스의 흑등 시장── 블랙 마켓의 한 구석을 방문하고 있었다."
+
+[[dialogue]]
+speaker_original = "クロト"
+speaker_translation = "쿠로토"
+original = "（……見るからに怪しい見た目の奴らばかりだな）"
+translation = "（……보기에도 수상쩍은 녀석들뿐이군）"
+
+[[dialogue]]
+speaker = "unk"
+original = "饐えた臭いに、入り組んだ街並み。なるほど確かに、ここに比べれば万象廊は『表の市場』と言えるかもしれない。"
+translation = "코를 찌르는 악취에 뒤얽힌 거리 풍경. 과연 확실히 이곳에 비하면 만상랑은 『양지의 시장』이라고 할 수 있을지도 모른다."
+
+[[dialogue]]
+speaker_original = "クロト"
+speaker_translation = "쿠로토"
+original = "（こんなところに呼び出すだなんて、いったい何の用事──）"
+translation = "（이런 곳으로 불러내다니 대체 무슨 용건──）"
+
+[[dialogue]]
+speaker_original = "クロト"
+speaker_translation = "쿠로토"
+original = "（────────え？）"
+translation = "（────────에?）"
+
+[[dialogue]]
+speaker = "unk"
+original = "背後から何かが──俺の体に触れた。"
+translation = "등 뒤에서 무언가가── 내 몸에 닿았다."
+
+[[dialogue]]
+speaker_original = "クロト"
+speaker_translation = "쿠로토"
+original = "（────あ、れ？）"
+translation = "（────어, 라?）"
+
+[[dialogue]]
+speaker = "unk"
+original = "景色が歪み、世界がぐらつき──"
+translation = "경치가 왜곡되고 세계가 휘청이며──"
+
+[[dialogue]]
+speaker = "unk"
+original = "スラムの冷たい地面に、俺は、倒れた──"
+translation = "슬럼의 차가운 바닥에 나는 쓰러졌다──"
+
+[[dialogue]]
+speaker_original = "クロト"
+speaker_translation = "쿠로토"
+original = "「ぁ────が…………ァッ…………！？」"
+translation = "「아────가…………아윽…………!?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "どくどく、どくどくと──"
+translation = "울컥울컥, 울컥울컥──"
+
+[[dialogue]]
+speaker = "unk"
+original = "広がってゆく、俺の…………"
+translation = "번져나가는 나의…………"
+
+[[dialogue]]
+speaker = "unk"
+original = "──血。"
+translation = "──피."
+
+[[dialogue]]
+speaker_original = "クロト"
+speaker_translation = "쿠로토"
+original = "（なん、で────！？）"
+translation = "（어째, 서────!?）"
+
+[[dialogue]]
+speaker_original = "？？？"
+speaker_translation = "？？？"
+original = "「『神殺し』の魔王が相手。警戒していましたが──」"
+translation = "「『신살자』의 마왕이 상대. 경계하고 있었습니다만──」"
+
+[[dialogue]]
+speaker_original = "クロト"
+speaker_translation = "쿠로토"
+original = "「…………ッ！？」"
+translation = "「…………윽!?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "冷たい少女の声音が、背後から──"
+translation = "차가운 소녀의 목소리가 등 뒤에서──"
+
+[[dialogue]]
+speaker_original = "？？？"
+speaker_translation = "？？？"
+original = "「大したことなかったですね。隙だらけでした」"
+translation = "「별거 아니었네요. 빈틈투성이였습니다」"
+
+[[dialogue]]
+speaker = "unk"
+original = "指一本動かせない。誰に、俺は、襲われて──？"
+translation = "손가락 하나 움직일 수 없다. 누구에게 나는 습격당해서──?"
+
+[[dialogue]]
+speaker_original = "クロト"
+speaker_translation = "쿠로토"
+original = "「──ぁ、ぅっ────」"
+translation = "「──아, 윽────」"
+
+[[dialogue]]
+speaker = "unk"
+original = "意識が……どんどん…………"
+translation = "의식이…… 점점…………"
+
+[[dialogue]]
+speaker = "unk"
+original = "遠──のい────て──────"
+translation = "멀──어────져──────"
+
+[[dialogue]]
+speaker_original = "？？？"
+speaker_translation = "？？？"
+original = "「…………魔王・緋宮クロトの死亡を確認」"
+translation = "「…………마왕 히노미야 쿠로토의 사망을 확인」"
+
+[[dialogue]]
+speaker_original = "？？？"
+speaker_translation = "？？？"
+original = "「これでこの宇宙は──安泰です」"
+translation = "「이것으로 이 우주는── 안녕합니다」"
+
+[[dialogue]]
+speaker = "unk"
+original = "………………"
+translation = "………………"
+
+[[dialogue]]
+speaker = "unk"
+original = "…………"
+translation = "…………"
+
+[[dialogue]]
+speaker = "unk"
+original = "……"
+translation = "……"
+
+[[dialogue]]
+speaker = "unk"
+original = "闇。闇。闇──一面の、闇。"
+translation = "어둠. 어둠. 어둠── 온통 어둠."
+
+[[dialogue]]
+speaker = "unk"
+original = "俺は、ここを知っている──"
+translation = "나는 이곳을 알고 있다──"
+
+[[dialogue]]
+speaker_original = "クロト"
+speaker_translation = "쿠로토"
+original = "（冥界の……視座）"
+translation = "（명계의…… 시좌）"
+
+[[dialogue]]
+speaker = "unk"
+original = "一度、『<ruby>ＸＥＬＯＳ<rt>ゼロス</rt></ruby>』に敗れた時に訪れた場所。"
+translation = "한번 『<ruby>XELOS<rt>제로스</rt></ruby>』에게 패했을 때 방문했던 장소."
+
+[[dialogue]]
+speaker = "unk"
+original = "『ベガの俺』の助力を得て、辛くも脱出することができた、漆黒の空間。"
+translation = "『베가의 나』의 조력을 얻어 간신히 탈출할 수 있었던 칠흑의 공간."
+
+[[dialogue]]
+speaker_original = "クロト"
+speaker_translation = "쿠로토"
+original = "（そんな……俺────）"
+translation = "（그런…… 나────）"
+
+[[dialogue]]
+speaker_original = "クロト"
+speaker_translation = "쿠로토"
+original = "（また、死んだのか……！？）"
+translation = "（또 죽은 건가……!?）"
+
+[[dialogue]]
+speaker = "unk"
+original = "──なぜ？"
+translation = "──왜?"
+
+[[dialogue]]
+speaker = "unk"
+original = "──どうして？"
+translation = "──어째서?"
+
+[[dialogue]]
+speaker = "unk"
+original = "──誰に？"
+translation = "──누구에게?"
+
+[[dialogue]]
+speaker = "unk"
+original = "何もかもが、わからない。理解が出来ない。唐突すぎる。"
+translation = "아무것도 모르겠다. 이해를 할 수 없다. 너무나도 갑작스럽다."
+
+[[dialogue]]
+speaker = "unk"
+original = "どうして。どうしてどうして。どうしてどうしてどうして────"
+translation = "어째서. 어째서어째서. 어째서어째서어째서────"
+
+[[dialogue]]
+speaker = "unk"
+original = "────────。"
+translation = "────────."
+
+[[dialogue]]
+speaker_original = "クロト"
+speaker_translation = "쿠로토"
+original = "（…………え？）"
+translation = "（…………에?）"
+
+[[dialogue]]
+speaker = "unk"
+original = "衣擦れよりも小さい、今にも掻き消えてしまいそうな、誰かの声。"
+translation = "옷깃 스치는 소리보다 작은, 금방이라도 사라져 버릴 것 같은 누군가의 목소리."
+
+[[dialogue]]
+speaker = "unk"
+original = "そして────"
+translation = "그리고────"
+
+[[dialogue]]
+speaker = "unk"
+original = "──────時、"
+translation = "──────시간을,"
+
+[[dialogue]]
+speaker = "unk"
+original = "────巻き、"
+translation = "────되,"
+
+[[dialogue]]
+speaker = "unk"
+original = "──戻、"
+translation = "──돌려,"
+
+[[dialogue]]
+speaker_original = "？？？"
+speaker_translation = "？？？"
+original = "「すー…………すー…………」"
+translation = "「수우…………수우…………」"
+
+[[dialogue]]
+speaker_original = "クロト"
+speaker_translation = "쿠로토"
+original = "「────！？！？」"
+translation = "「────!?!?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "まぶしい朝陽が、目に沁みる。"
+translation = "눈부신 아침 햇살이 눈에 스며든다."
+
+[[dialogue]]
+speaker = "unk"
+original = "ここは魔界の、キュリオス。滞在する間は好きに使えと、煌嶺によって手配された俺の寝室──"
+translation = "이곳은 마계의 큐리오스. 머무는 동안은 마음껏 쓰라며 코우레이가 마련해 준 나의 침실──"
+
+[[dialogue]]
+speaker_original = "クロト"
+speaker_translation = "쿠로토"
+original = "「なん……で？」"
+translation = "「어째……서?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "黒灯市場で何者かに襲われたのは、夜だった。"
+translation = "흑등 시장에서 누군가에게 습격당한 것은 밤이었다."
+
+[[dialogue]]
+speaker = "unk"
+original = "そして俺の命を奪ったあの傷も、痛みも──何もない。"
+translation = "그리고 내 목숨을 앗아갔던 그 상처도 통증도── 아무것도 없다."
+
+[[dialogue]]
+speaker_original = "クロト"
+speaker_translation = "쿠로토"
+original = "「夢……？\u3000そんな、馬鹿な……」"
+translation = "「꿈……? 그런 말도 안 되는……」"
+
+[[dialogue]]
+speaker = "unk"
+original = "夢なわけがない。あんなにもリアルな夢があって、たまるか。"
+translation = "꿈일 리가 없다. 그렇게나 리얼한 꿈이 있을 리가."
+
+[[dialogue]]
+speaker = "unk"
+original = "そして何より、俺は──"
+translation = "그리고 무엇보다 나는──"
+
+[[dialogue]]
+speaker = "unk"
+original = "この光景を、この少女を──俺は<b>知っている</b>。"
+translation = "이 광경을, 이 소녀를── 나는 <b>알고 있다</b>."
+
+[[dialogue]]
+speaker = "unk"
+original = "初めて出会ったはずなのに、この子の名前を、知っている……！"
+translation = "처음 만났을 텐데 이 아이의 이름을 알고 있어……!"
+
+[[dialogue]]
+speaker_original = "クロト"
+speaker_translation = "쿠로토"
+original = "「君、は……」"
+translation = "「너는……」"
+
+[[dialogue]]
+speaker_original = "？？？"
+speaker_translation = "？？？"
+original = "「…………ん、ぅ……？」"
+translation = "「…………음, 으……?」"
+
+[[dialogue]]
+speaker_original = "クロト"
+speaker_translation = "쿠로토"
+original = "「君はいったい……何者、なんだ……？」"
+translation = "「너는 대체…… 누구인 거냐……?」"
+
+[[dialogue]]
+speaker_original = "？？？"
+speaker_translation = "？？？"
+original = "「…………はぁ。忘れたのですか、ご主人」"
+translation = "「…………하아. 잊으신 건가요, 주인님」"
+
+[[dialogue]]
+speaker_original = "？？？"
+speaker_translation = "？？？"
+original = "「自己紹介──これで<b>２回目</b>。３回目は、させないでください」"
+translation = "「자기소개── 이걸로 <b>두 번째</b>. 세 번째는 시키지 말아 주세요」"
+
+[[dialogue]]
+speaker = "unk"
+original = "この子の名前は……"
+translation = "이 아이의 이름은……"
+
+[[dialogue]]
+speaker = "unk"
+original = "──ルーシィ。"
+translation = "──루시."
+
+[[dialogue]]
+speaker_original = "ルーシィ"
+speaker_translation = "루시"
+original = "「ルーの名前は……ルーシィ」"
+translation = "「루의 이름은…… 루시」"
+
+[[dialogue]]
+speaker_original = "ルーシィ"
+speaker_translation = "루시"
+original = "「ご主人が呼んだ────ご主人だけの、使い魔です」"
+translation = "「주인님이 부른──── 주인님만의 사역마입니다」"
+
+[[dialogue]]
+speaker = "unk"
+original = "【To be continued…】"
+translation = "【To be continued…】"
+
