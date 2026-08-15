@@ -1635,6 +1635,70 @@
   },
   {
     "original": {
+      "name": "冥羅刀",
+      "stats": {
+        "ability": [
+          "ATK",
+          "アップ魔族はさらに",
+          "アップ"
+        ]
+      }
+    },
+    "translation": {
+      "name": "명라도",
+      "stats": {
+        "ability": [
+          "ATK ",
+          "증가, 마족은 추가로 ",
+          "증가"
+        ]
+      }
+    }
+  },
+  {
+    "original": {
+      "name": "機工杖・星軌",
+      "stats": {
+        "ability": [
+          "ATK",
+          "アップ人間のクリティカル",
+          "加算"
+        ]
+      }
+    },
+    "translation": {
+      "name": "기공지팡이 성궤",
+      "stats": {
+        "ability": [
+          "ATK ",
+          "증가, 인간의 크리티컬 ",
+          "가산"
+        ]
+      }
+    }
+  },
+  {
+    "original": {
+      "name": "ルミナス・ブレイカー",
+      "stats": {
+        "ability": [
+          "神族のATK",
+          "アップ"
+        ]
+      }
+    },
+    "translation": {
+      "name": "루미너스 브레이커",
+      "stats": {
+        "ability": [
+          "신족의 ATK ",
+          "증가"
+        ]
+      }
+    }
+  },
+  {
+    "original": {
       "name": "星鍵リベレーション",
       "stats": {
         "ability": [
@@ -1982,70 +2046,6 @@
       "name": "글러브",
       "stats": {
         "ability": []
-      }
-    }
-  },
-  {
-    "original": {
-      "name": "冥羅刀",
-      "stats": {
-        "ability": [
-          "ATK",
-          "アップ魔族はさらに",
-          "アップ"
-        ]
-      }
-    },
-    "translation": {
-      "name": "명라도",
-      "stats": {
-        "ability": [
-          "ATK ",
-          "증가, 마족은 추가로 ",
-          "증가"
-        ]
-      }
-    }
-  },
-  {
-    "original": {
-      "name": "機工杖・星軌",
-      "stats": {
-        "ability": [
-          "ATK",
-          "アップ人間のクリティカル",
-          "加算"
-        ]
-      }
-    },
-    "translation": {
-      "name": "기공지팡이 성궤",
-      "stats": {
-        "ability": [
-          "ATK ",
-          "증가, 인간의 크리티컬 ",
-          "가산"
-        ]
-      }
-    }
-  },
-  {
-    "original": {
-      "name": "ルミナス・ブレイカー",
-      "stats": {
-        "ability": [
-          "神族のATK",
-          "アップ"
-        ]
-      }
-    },
-    "translation": {
-      "name": "루미너스 브레이커",
-      "stats": {
-        "ability": [
-          "신족의 ATK ",
-          "증가"
-        ]
       }
     }
   }
