@@ -19,7 +19,7 @@ translation = "「고마워, 케이티 언니♪ 에헤헤, 이렇게 셋이서 
 speaker_original = "ケイティ"
 speaker_translation = "케이티"
 original = "「そうだね～。メルエルちゃんが新星学園に入学してから、ずっとご無沙汰だったから」"
-translation = "「그렇네～. 멜엘 짱이 신성학원에 입학하고 나서, 계속 뜸했으니까」"
+translation = "「그렇네～. 메르엘 짱이 신성학원에 입학하고 나서, 계속 뜸했으니까」"
 
 [[dialogue]]
 speaker_original = "ケイティ"
@@ -42,7 +42,7 @@ translation = "「성정원에서 대접하겠다고 말했는데…… 『세�
 [[dialogue]]
 speaker = "unk"
 original = "メルエルとナターシャは、先の天界襲撃の時と同様に、世界樹のうろを用いて天界へやってきた。"
-translation = "멜엘과 나타샤는, 지난번 천계 습격 때와 마찬가지로, 세계수의 구멍을 이용해 천계로 왔다."
+translation = "메르엘과 나타샤는, 지난번 천계 습격 때와 마찬가지로, 세계수의 구멍을 이용해 천계로 왔다."
 
 [[dialogue]]
 speaker = "unk"
@@ -161,7 +161,7 @@ translation = "「응?」"
 speaker_original = "ナターシャ"
 speaker_translation = "나타샤"
 original = "「──バレちゃったんだよね、この前の戦いで。メルエルがリガルタ様の娘で、魔王の血統だってことまで全部」"
-translation = "「──들켜버렸거든, 저번 전투에서. 멜엘이 리갈타 님의 딸이고, 마왕의 혈통이라는 것까지 전부」"
+translation = "「──들켜버렸거든, 저번 전투에서. 메르엘이 리갈타 님의 딸이고, 마왕의 혈통이라는 것까지 전부」"
 
 [[dialogue]]
 speaker_original = "ケイティ"
@@ -209,7 +209,7 @@ translation = "「그, 그렇구나. 케이티 언니도 알고 있었구나…�
 speaker_original = "ケイティ"
 speaker_translation = "케이티"
 original = "「初めて聞いたのは、衛兵隊に入る直前だったかな？\u3000お父さまから、内密にと口止めをされて。メルエルちゃんの出自の秘密を聞いたの」"
-translation = "「처음 들은 건, 위병대에 들어가기 직전이었을까? 아버님으로부터, 비밀이라며 입막음 당했었어. 멜엘 짱의 출생 비밀을 들었지」"
+translation = "「처음 들은 건, 위병대에 들어가기 직전이었을까? 아버님으로부터, 비밀이라며 입막음 당했었어. 메르엘 짱의 출생 비밀을 들었지」"
 
 [[dialogue]]
 speaker_original = "メルエル"
@@ -227,7 +227,7 @@ translation = "「정말 놀랐었어～, 그때는. 설마 친동생처럼 대�
 speaker_original = "ナターシャ"
 speaker_translation = "나타샤"
 original = "「私は、メルエルの秘密を知った後の、ケイティ姉さんの自然さにも驚いたけどね」"
-translation = "「나는, 멜엘의 비밀을 안 뒤에도, 케이티 언니가 너무 자연스러워서 놀랐는데」"
+translation = "「나는, 메르엘의 비밀을 안 뒤에도, 케이티 언니가 너무 자연스러워서 놀랐는데」"
 
 [[dialogue]]
 speaker_original = "ナターシャ"
@@ -239,7 +239,7 @@ translation = "「절대로 태도에 드러날 거라고 생각했거든. 언�
 speaker_original = "ケイティ"
 speaker_translation = "케이티"
 original = "「うーん。だって急に魔王だなんて言われても～。私にとってメルエルちゃんは、小さい頃からよく知ってる、可愛い妹分でしかないし……」"
-translation = "「으음. 그치만 갑자기 마왕이라고 들어봤자～. 나에게 멜엘 짱은, 어릴 때부터 잘 아는, 귀여운 여동생일 뿐인걸……」"
+translation = "「으음. 그치만 갑자기 마왕이라고 들어봤자～. 나에게 메르엘 짱은, 어릴 때부터 잘 아는, 귀여운 여동생일 뿐인걸……」"
 
 [[dialogue]]
 speaker_original = "メルエル"
@@ -251,13 +251,13 @@ translation = "「케이티 언니……!」"
 speaker_original = "ケイティ"
 speaker_translation = "케이티"
 original = "「今まで知らないふりをしていたのは、ごめんね？\u3000でもこれはメルエルちゃんの安全を守るためでもあったから、仕方なかったの」"
-translation = "「지금까지 모르는 척했던 건, 미안해? 하지만 이건 멜엘 짱의 안전을 지키기 위해서이기도 했으니까, 어쩔 수 없었어」"
+translation = "「지금까지 모르는 척했던 건, 미안해? 하지만 이건 메르엘 짱의 안전을 지키기 위해서이기도 했으니까, 어쩔 수 없었어」"
 
 [[dialogue]]
 speaker_original = "ナターシャ"
 speaker_translation = "나타샤"
 original = "「そういうこと。聖庭園も一枚岩じゃないからね。メルエルの正体が広く知られたら、何があるかわかったものじゃない」"
-translation = "「그런 말씀. 성정원도 한 덩어리가 아니니까 말야. 멜엘의 정체가 널리 알려지면, 무슨 일이 생길지 모르는 일이야」"
+translation = "「그런 말씀. 성정원도 한 덩어리가 아니니까 말야. 메르엘의 정체가 널리 알려지면, 무슨 일이 생길지 모르는 일이야」"
 
 [[dialogue]]
 speaker_original = "メルエル"
@@ -377,7 +377,7 @@ translation = "「자신의 후계자가, 호위도 없이 저런 데를 돌아�
 speaker_original = "ケイティ"
 speaker_translation = "케이티"
 original = "「まだ幼かったメルエルちゃんに重荷を背負わせたくないって気持ちも、あったんだと思うの……」"
-translation = "「아직 어렸던 멜엘 짱에게 짐을 지우고 싶지 않다는 마음도, 있었을 거라 생각해……」"
+translation = "「아직 어렸던 메르엘 짱에게 짐을 지우고 싶지 않다는 마음도, 있었을 거라 생각해……」"
 
 [[dialogue]]
 speaker_original = "ケイティ"
@@ -389,7 +389,7 @@ translation = "「오히려 왕정 복권을 이룩해서, 수비를 굳건히 �
 speaker_original = "ケイティ"
 speaker_translation = "케이티"
 original = "「だから、メルエルちゃんの正体はごく一部の人しか知らないトップシークレットになったの」"
-translation = "「그래서, 멜엘 짱의 정체는 극히 일부의 사람만 아는 톱 시크릿이 된 거야」"
+translation = "「그래서, 메르엘 짱의 정체는 극히 일부의 사람만 아는 톱 시크릿이 된 거야」"
 
 [[dialogue]]
 speaker_original = "メルエル"
@@ -413,7 +413,7 @@ translation = "「…………」"
 speaker_original = "ケイティ"
 speaker_translation = "케이티"
 original = "「まさかこんなお話をすることになるだなんて……２人とも、今回の天界訪問は、このお話をメルエルちゃんとするために？」"
-translation = "「설마 이런 이야기를 하게 될 줄이야…… 둘 다, 이번 천계 방문은, 이 이야기를 멜엘 짱과 하기 위해서니?」"
+translation = "「설마 이런 이야기를 하게 될 줄이야…… 둘 다, 이번 천계 방문은, 이 이야기를 메르엘 짱과 하기 위해서니?」"
 
 [[dialogue]]
 speaker_original = "メルエル"
@@ -430,7 +430,7 @@ translation = "「앞으로 다가올 결전을 위해. 천사 여러분의 힘�
 [[dialogue]]
 speaker = "unk"
 original = "──メルエルは、緋宮クロトから言付かっていたことをケイティに伝えた。"
-translation = "──멜엘은, 히노미야 쿠로토로부터 전해 들은 말을 케이티에게 전했다."
+translation = "──메르엘은, 히노미야 쿠로토로부터 전해 들은 말을 케이티에게 전했다."
 
 [[dialogue]]
 speaker = "unk"
@@ -470,7 +470,7 @@ translation = "（별로 놀라고 있는 것처럼 보이지 않아요……!?�
 speaker_original = "ケイティ"
 speaker_translation = "케이티"
 original = "「なるほど。だからメルエルちゃんたちがやってきたんだね～」"
-translation = "「과연. 그래서 멜엘 짱 일행이 찾아온 거구나～」"
+translation = "「과연. 그래서 메르엘 짱 일행이 찾아온 거구나～」"
 
 [[dialogue]]
 speaker_original = "メルエル"
@@ -482,13 +482,13 @@ translation = "「으, 응. 리갈타 님의 딸이라면, 어떻게든 되지 �
 speaker_original = "ナターシャ"
 speaker_translation = "나타샤"
 original = "「とは言っても、メルエルの正体を天界全土に明らかにしたら、それこそめちゃくちゃだから。あくまで政治的な搦め手を使うけどね」"
-translation = "「그렇다고는 해도, 멜엘의 정체를 천계 전역에 밝히면, 그야말로 엉망진창이 될 테니까. 어디까지나 정치적인 수를 쓰겠지만 말야」"
+translation = "「그렇다고는 해도, 메르엘의 정체를 천계 전역에 밝히면, 그야말로 엉망진창이 될 테니까. 어디까지나 정치적인 수를 쓰겠지만 말야」"
 
 [[dialogue]]
 speaker_original = "ナターシャ"
 speaker_translation = "나타샤"
 original = "「ケイティ姉さん。議会の王政派と保守派に働きかけられる？\u3000この人たちには、メルエル直々の命令ってことでいけると思う」"
-translation = "「케이티 언니. 의회의 왕정파와 보수파에 작용할 수 있어? 이 사람들에게는, 멜엘 직속 명령이라는 걸로 통할 것 같은데」"
+translation = "「케이티 언니. 의회의 왕정파와 보수파에 작용할 수 있어? 이 사람들에게는, 메르엘 직속 명령이라는 걸로 통할 것 같은데」"
 
 [[dialogue]]
 speaker_original = "ケイティ"

@@ -13,7 +13,7 @@ translation = "밀피도 쇼핑 중이야?"
 speaker_original = "ミルフィー"
 speaker_translation = "밀피"
 original = "「うん、マグダレナ様とヒヨちゃんも一緒なんだ」"
-translation = "「네, 마그달레나 님과 히요짱도 함께예요.」"
+translation = "「네, 막달레나 님과 히요짱도 함께예요.」"
 
 [[dialogue]]
 speaker_original = "マグダレナ"
@@ -72,7 +72,7 @@ translation = "「우리, 그런 관계였구나……」"
 [[dialogue]]
 speaker = "unk"
 original = "ミルフィーは俺とマトイのクラスの学級委員長で、守護天使《境界》のマグダレナを<ruby>祀<rt>まつ</rt></ruby>る一族の出身でもある。"
-translation = "밀피는 나와 마토이 반의 학급위원장으로, 수호천사 《경계》의 마그달레나를 모시는 일족의 출신이기도 하다."
+translation = "밀피는 나와 마토이 반의 학급위원장으로, 수호천사 《경계》의 막달레나를 모시는 일족의 출신이기도 하다."
 
 [[dialogue]]
 speaker = "unk"
@@ -83,7 +83,7 @@ translation = "히요는 밀피의 동아리 후배로, 밀피를 무척 존경�
 speaker_original = "ミルフィー"
 speaker_translation = "밀피"
 original = "「マグダレナ様、何かご不便はありませんか？\u3000私になんなりとお申し付けください」"
-translation = "「마그달레나 님, 불편하신 건 없으신가요? 제게 무엇이든 말씀해 주세요.」"
+translation = "「막달레나 님, 불편하신 건 없으신가요? 제게 무엇이든 말씀해 주세요.」"
 
 [[dialogue]]
 speaker_original = "マグダレナ"
@@ -95,19 +95,19 @@ translation = "「아니오, 딱히 불편한 건 없답니다. 언제나 고마
 speaker_original = "ヒヨ"
 speaker_translation = "히요"
 original = "「姐さんはほんとマグダレナさまが好きだなぁ……」"
-translation = "「누님은 정말 마그달레나 님을 좋아하는구먼……」"
+translation = "「누님은 정말 막달레나 님을 좋아하는구먼……」"
 
 [[dialogue]]
 speaker_original = "ミルフィー"
 speaker_translation = "밀피"
 original = "「マグダレナ様は三界の境界を守るお方だから。マグダレナ様が存在しなければ、天界も人間界も魔界も滅んじゃうんだよ」"
-translation = "「마그달레나 님은 삼계의 경계를 수호하시는 분이니까. 마그달레나 님이 계시지 않으면 천계도 인간계도 마계도 멸망해 버리는걸.」"
+translation = "「막달레나 님은 삼계의 경계를 수호하시는 분이니까. 막달레나 님이 계시지 않으면 천계도 인간계도 마계도 멸망해 버리는걸.」"
 
 [[dialogue]]
 speaker_original = "ミルフィー"
 speaker_translation = "밀피"
 original = "「リクリエのせいとはいえ、マグダレナ様と直接お会いできるなんて、本当に光栄なことなんだ」"
-translation = "「리크리에 때문이라곤 해도 마그달레나 님과 직접 만날 수 있다니, 정말 영광스러운 일이야.」"
+translation = "「리크리에 때문이라곤 해도 막달레나 님과 직접 만날 수 있다니, 정말 영광스러운 일이야.」"
 
 [[dialogue]]
 speaker_original = "ヒヨ"
@@ -131,7 +131,7 @@ translation = "「설마 이건……」"
 speaker_original = "ミルフィー"
 speaker_translation = "밀피"
 original = "「マグダレナ様！」"
-translation = "「마그달레나 님!」"
+translation = "「막달레나 님!」"
 
 [[dialogue]]
 speaker_original = "マグダレナ"
@@ -154,7 +154,7 @@ translation = "『마왕이여. 지체 말고 쿠죠의 저택으로 와주겠�
 speaker_original = "ヘレナ"
 speaker_translation = "헬레나"
 original = "『……マグダレナたちも一緒にいる？\u3000それは非常に都合がいいな。一緒に来てもらおう』"
-translation = "『……마그달레나 일행도 같이 있다고? 아주 잘 됐군. 함께 데려오도록.』"
+translation = "『……막달레나 일행도 같이 있다고? 아주 잘 됐군. 함께 데려오도록.』"
 
 [[dialogue]]
 speaker_original = "ヴィーナス"
@@ -310,7 +310,7 @@ translation = "「기능 부전…… 구체적으로 어떻게 되는 건가요
 speaker_original = "アルモタヘル"
 speaker_translation = "아르모타헬"
 original = "「そうだな……マグダレナがわかりやすいか。マグダレナは三界の境界を司る──すなわち天界・人間界・魔界を隔てるのが役目だ」"
-translation = "「글쎄…… 마그달레나를 예로 들면 이해하기 쉽겠군. 마그달레나는 삼계의 경계를 관장한다── 즉 천계·인간계·마계를 가르는 것이 역할이지.」"
+translation = "「글쎄…… 막달레나를 예로 들면 이해하기 쉽겠군. 막달레나는 삼계의 경계를 관장한다── 즉 천계·인간계·마계를 가르는 것이 역할이지.」"
 
 [[dialogue]]
 speaker_original = "マグダレナ"
@@ -328,7 +328,7 @@ translation = "「뭐라고요!? 그럼 무조건 세계가 멸망하는 거잖�
 speaker_original = "セーラ"
 speaker_translation = "세라"
 original = "「天界・人間界・魔界は地続きで繋がってるわけじゃないから、普通はそうならないけど……なるほどー、マグダレナさんがいないとそうなっちゃうんだ」"
-translation = "「천계·인간계·마계는 지면으로 연결된 게 아니니까 보통은 그렇게 안 될 텐데…… 그렇구나~ 마그달레나 씨가 없으면 그렇게 되는구나.」"
+translation = "「천계·인간계·마계는 지면으로 연결된 게 아니니까 보통은 그렇게 안 될 텐데…… 그렇구나~ 막달레나 씨가 없으면 그렇게 되는구나.」"
 
 [[dialogue]]
 speaker_original = "ヴィーナス"
@@ -352,7 +352,7 @@ translation = "「전문적인 직무를 가진 자도 있습니다만, 천계�
 speaker_original = "ミルフィー"
 speaker_translation = "밀피"
 original = "「私やイクシーちゃんは、マグダレナ様やアルモタヘル様の信仰の総本山……一番大きな神殿を管理する一族なの」"
-translation = "「저나 익시짱은 마그달레나 님이나 아르모타헬 님의 신앙의 총본산…… 가장 큰 신전을 관리하는 일족이야.」"
+translation = "「저나 익시짱은 막달레나 님이나 아르모타헬 님의 신앙의 총본산…… 가장 큰 신전을 관리하는 일족이야.」"
 
 [[dialogue]]
 speaker_original = "ヒヨ"

@@ -37,7 +37,7 @@ translation = "「──지금 조금만 더 버텨주세요! 곧 위병대가 �
 speaker_original = "ケイティ"
 speaker_translation = "케이티"
 original = "「メルエルちゃん、ナターシャちゃんも！\u3000到着して早々悪いけれど──手伝ってくれる！？」"
-translation = "「멜엘 짱, 나타샤 짱도! 도착하자마자 미안하지만── 도와줄 수 있니!?」"
+translation = "「메르엘 짱, 나타샤 짱도! 도착하자마자 미안하지만── 도와줄 수 있니!?」"
 
 [[dialogue]]
 speaker_original = "メルエル"
@@ -103,7 +103,7 @@ translation = "「…………」"
 speaker_original = "ナターシャ"
 speaker_translation = "나타샤"
 original = "（やっぱりメルエルは危ういね。こんな状況でも、説得だとか。性善説が服を着て歩いてるみたい）"
-translation = "（역시 멜엘은 위태롭네. 이런 상황에서도 설득이라니. 성선설이 옷을 입고 걸어 다니는 것 같아）"
+translation = "（역시 메르엘은 위태롭네. 이런 상황에서도 설득이라니. 성선설이 옷을 입고 걸어 다니는 것 같아）"
 
 [[dialogue]]
 speaker = "unk"
@@ -125,7 +125,7 @@ translation = "그때, 천사들 인파 속에 섞여 서 있는, 한 여성의 
 speaker_original = "ナターシャ"
 speaker_translation = "나타샤"
 original = "「…………ごめん、メルエル。ちょっと席を外すよ」"
-translation = "「…………미안, 멜엘. 잠깐 자리 좀 비울게」"
+translation = "「…………미안, 메르엘. 잠깐 자리 좀 비울게」"
 
 [[dialogue]]
 speaker_original = "メルエル"
@@ -208,7 +208,7 @@ translation = "「──무슨 일이 있어도 공주를 지켜라」"
 speaker_original = "ナターシャ"
 speaker_translation = "나타샤"
 original = "（あなたの娘だって、これから死地に行くのに。いつもメルエルのことしか喋らない──ほんと、機械みたい）"
-translation = "（당신 딸도 이제 사지로 가는데. 언제나 멜엘 이야기뿐── 정말, 기계 같아）"
+translation = "（당신 딸도 이제 사지로 가는데. 언제나 메르엘 이야기뿐── 정말, 기계 같아）"
 
 [[dialogue]]
 speaker_original = "ナターシャの母"
@@ -243,13 +243,13 @@ translation = "「이야기는 끝이다. 돌아가거라」"
 [[dialogue]]
 speaker = "unk"
 original = "言うだけ言い放ち、聖庭園の建物の中へ消えていく母親を一瞥してから、ナターシャはメルエルの元へ戻った。"
-translation = "할 말만 내뱉고, 성정원 건물 안으로 사라지는 어머니를 힐끗 본 뒤, 나타샤는 멜엘 곁으로 돌아왔다."
+translation = "할 말만 내뱉고, 성정원 건물 안으로 사라지는 어머니를 힐끗 본 뒤, 나타샤는 메르엘 곁으로 돌아왔다."
 
 [[dialogue]]
 speaker_original = "ナターシャ"
 speaker_translation = "나타샤"
 original = "「──お待たせ、メルエル」"
-translation = "「──기다렸지, 멜엘」"
+translation = "「──기다렸지, 메르엘」"
 
 [[dialogue]]
 speaker_original = "メルエル"
@@ -303,7 +303,7 @@ translation = "「…………」"
 speaker_original = "ナターシャ"
 speaker_translation = "나타샤"
 original = "「──やっぱり私、メルエルのこと、嫌いだな」"
-translation = "「──역시 나, 멜엘이 싫어」"
+translation = "「──역시 나, 메르엘이 싫어」"
 
 [[dialogue]]
 speaker_original = "メルエル"

@@ -8,7 +8,7 @@ translation = "「어서 오세요~」"
 speaker_original = "モネ"
 speaker_translation = "모네"
 original = "「マグダレナさん！？\u3000どうして守護天使さんがこんなところに……？」"
-translation = "「마그달레나 씨!? 어째서 수호천사분이 이런 곳에……?」"
+translation = "「막달레나 씨!? 어째서 수호천사분이 이런 곳에……?」"
 
 [[dialogue]]
 speaker = "unk"
@@ -25,7 +25,7 @@ translation = "「하, 하아……」"
 speaker_original = "コハルコ"
 speaker_translation = "쿠하루코"
 original = "「マグダレナさんには、ここの臨時アニメショップで働いてもらいます。いいですか？」"
-translation = "「마그달레나 씨는 여기 임시 애니메이션 샵에서 일해주시면 됩니다. 아시겠죠?」"
+translation = "「막달레나 씨는 여기 임시 애니메이션 샵에서 일해주시면 됩니다. 아시겠죠?」"
 
 [[dialogue]]
 speaker_original = "マグダレナ"
@@ -37,7 +37,7 @@ translation = "「네, 맡겨주세요」"
 speaker_original = "コハルコ"
 speaker_translation = "쿠하루코"
 original = "「会長さんは接客や販売の経験はあるよね？\u3000マグダレナさんを補助してもらっていいかな。よろしくね」"
-translation = "「회장님은 접객이나 판매 경험이 있지? 마그달레나 씨를 보조해 줄래. 잘 부탁해」"
+translation = "「회장님은 접객이나 판매 경험이 있지? 막달레나 씨를 보조해 줄래. 잘 부탁해」"
 
 [[dialogue]]
 speaker_original = "マグダレナ"
@@ -97,12 +97,12 @@ translation = "「…………?」"
 speaker_original = "モネ"
 speaker_translation = "모네"
 original = "「マグダレナさん？\u3000固まっちゃってどうかしました？」"
-translation = "「마그달레나 씨? 굳어버리셨는데 무슨 일 있나요?」"
+translation = "「막달레나 씨? 굳어버리셨는데 무슨 일 있나요?」"
 
 [[dialogue]]
 speaker = "unk"
 original = "マグダレナさん、バーコード！"
-translation = "마그달레나 씨, 바코드!"
+translation = "막달레나 씨, 바코드!"
 
 [[dialogue]]
 speaker_original = "マグダレナ"
@@ -219,7 +219,7 @@ translation = "「저기, 회장에게는 다음에 주스나 뭐라도 사드�
 [[dialogue]]
 speaker = "unk"
 original = "マグダレナさんは商品の陳列をお願いします"
-translation = "마그달레나 씨는 상품 진열을 부탁드려요"
+translation = "막달레나 씨는 상품 진열을 부탁드려요"
 
 [[dialogue]]
 speaker_original = "マグダレナ"
@@ -249,7 +249,7 @@ translation = "「실례합니다, 랜덤 캔 배지 아직 남아있나요─�
 speaker_original = "フィオナ"
 speaker_translation = "피오나"
 original = "「緋宮会長！？\u3000それにマグダレナ様！？」"
-translation = "「히노미야 회장!? 게다가 마그달레나 님!?」"
+translation = "「히노미야 회장!? 게다가 막달레나 님!?」"
 
 [[dialogue]]
 speaker_original = "マグダレナ"
@@ -267,7 +267,7 @@ translation = "「아, 아니에요, 제가 애니메이션이나 만화를 좋�
 speaker_original = "フィオナ"
 speaker_translation = "피오나"
 original = "「というか……どうしてマグダレナ様がここで働いておられるんですか？」"
-translation = "「라기보다…… 어째서 마그달레나 님이 여기서 일하고 계시는 건가요?」"
+translation = "「라기보다…… 어째서 막달레나 님이 여기서 일하고 계시는 건가요?」"
 
 [[dialogue]]
 speaker_original = "フィオナ"

@@ -61,7 +61,7 @@ translation = "「무리, 겠지요…… 저로서는……」"
 speaker_original = "ケイティ"
 speaker_translation = "케이티"
 original = "「でも、メルエルちゃんは……きっと立ち上がり、ますよ……。あの子は、とても強い子、ですから……」"
-translation = "「하지만 멜엘 짱은…… 반드시 일어날 거예요. 그 아이는 무척 강한 아이니까요……」"
+translation = "「하지만 메르엘 짱은…… 반드시 일어날 거예요. 그 아이는 무척 강한 아이니까요……」"
 
 [[dialogue]]
 speaker_original = "ケイティ"
@@ -133,7 +133,7 @@ translation = "「카오스── 퀘이사────!!!」"
 speaker_original = "テルル"
 speaker_translation = "테루루"
 original = "『……リガルタの娘、メルエル。侵食する瘴気を跳ね除け、よくぞアルケインコードを唱えてくれました』"
-translation = "『……리갈타의 딸, 멜엘. 침식하는 장기를 떨쳐내고 잘도 아케인 코드를 영창해주었구나』"
+translation = "『……리갈타의 딸, 메르엘. 침식하는 장기를 떨쳐내고 잘도 아케인 코드를 영창해주었구나』"
 
 [[dialogue]]
 speaker_original = "ラストナンバー"
@@ -205,7 +205,7 @@ translation = "『과거로의 도약으로 인해 인과의 실이 흩어진 �
 speaker_original = "テルル"
 speaker_translation = "테루루"
 original = "『天使メルエル。貴女が近い未来、手に入れるであろう──絆の力を引き寄せましょう』"
-translation = "『천사 멜엘. 당신이 머지않은 미래에 손에 넣게 될── 유대의 힘을 끌어오겠습니다』"
+translation = "『천사 메르엘. 당신이 머지않은 미래에 손에 넣게 될── 유대의 힘을 끌어오겠습니다』"
 
 [[dialogue]]
 speaker_original = "ラストナンバー"
@@ -264,7 +264,7 @@ translation = "「하아아아앗──!!」"
 [[dialogue]]
 speaker = "unk"
 original = "メルエルが操るレイピアによって、ラストナンバーの撃ちだす光の羽根が全て叩き斬られていく。"
-translation = "멜엘이 다루는 레이피어에 의해 라스트 넘버가 쏘아 보내는 빛의 깃털이 전부 베어 넘겨진다."
+translation = "메르엘이 다루는 레이피어에 의해 라스트 넘버가 쏘아 보내는 빛의 깃털이 전부 베어 넘겨진다."
 
 [[dialogue]]
 speaker_original = "ラストナンバー"
@@ -323,13 +323,13 @@ translation = "무엇을 해도 바꿀 수 없는 파멸의 미래를──"
 speaker_original = "ケイティ"
 speaker_translation = "케이티"
 original = "「──メルエルちゃん！！」"
-translation = "「──멜엘 짱!!」"
+translation = "「──메르엘 짱!!」"
 
 [[dialogue]]
 speaker_original = "ナターシャ"
 speaker_translation = "나타샤"
 original = "「──メルエルッ！！」"
-translation = "「──멜엘!!」"
+translation = "「──메르엘!!」"
 
 [[dialogue]]
 speaker_original = "メルエル（覚醒）"
@@ -388,7 +388,7 @@ translation = "「…………어떻게든 쓰러뜨렸네」"
 speaker_original = "ケイティ"
 speaker_translation = "케이티"
 original = "「ええ。メルエルちゃん、その姿は──」"
-translation = "「네. 멜엘 짱, 그 모습은──」"
+translation = "「네. 메르엘 짱, 그 모습은──」"
 
 [[dialogue]]
 speaker_original = "メルエル（覚醒）"
@@ -441,7 +441,7 @@ translation = "「……?」"
 [[dialogue]]
 speaker = "unk"
 original = "メルエルはコントロールルームの最奥に進む。"
-translation = "멜엘은 컨트롤 룸의 최심부로 나아간다."
+translation = "메르엘은 컨트롤 룸의 최심부로 나아간다."
 
 [[dialogue]]
 speaker = "unk"
@@ -452,7 +452,7 @@ translation = "리크리에의 장기를 통해 본 과거의 기억을 의지�
 speaker_original = "ケイティ"
 speaker_translation = "케이티"
 original = "「メルエルちゃん、それは……？」"
-translation = "「멜엘 짱, 그건……?」"
+translation = "「메르엘 짱, 그건……?」"
 
 [[dialogue]]
 speaker_original = "メルエル"
@@ -470,7 +470,7 @@ translation = "「여신의 신전에 있는, 마왕 인자에 작용해 약화�
 speaker_original = "ナターシャ"
 speaker_translation = "나타샤"
 original = "「……何をするつもり、メルエル？」"
-translation = "「……무슨 생각을 하는 거야, 멜엘?」"
+translation = "「……무슨 생각을 하는 거야, 메르엘?」"
 
 [[dialogue]]
 speaker_original = "メルエル"
@@ -512,7 +512,7 @@ translation = "「그 의지의 증명으로서 이 마도구를 전력으로 �
 speaker_original = "ナターシャ"
 speaker_translation = "나타샤"
 original = "「本気で言ってるの？\u3000だって魔王因子がなくなったら、メルエル──もう、魔王の力も、アルケインコードも、使えなくなるのに──」"
-translation = "「진심으로 하는 소리야? 그야 마왕 인자가 없어지면 멜엘── 더 이상 마왕의 힘도 아케인 코드도 쓸 수 없게 되는데──」"
+translation = "「진심으로 하는 소리야? 그야 마왕 인자가 없어지면 메르엘── 더 이상 마왕의 힘도 아케인 코드도 쓸 수 없게 되는데──」"
 
 [[dialogue]]
 speaker_original = "メルエル"
@@ -554,7 +554,7 @@ translation = "「그러니까 마왕도 영웅도 두 명은 필요 없어…�
 speaker_original = "メルエル"
 speaker_translation = "메르엘"
 original = "「私は姫咲メルエル──お姫様でもないし、魔王でもない。会長くんの下で戦う、ただの天使の星騎士だよ！」"
-translation = "「나는 히메사키 멜엘── 공주님도 아니고 마왕도 아냐. 회장님 밑에서 싸우는 평범한 천사 성기사야!」"
+translation = "「나는 히메사키 메르엘── 공주님도 아니고 마왕도 아냐. 회장님 밑에서 싸우는 평범한 천사 성기사야!」"
 
 [[dialogue]]
 speaker_original = "メルエル"
@@ -590,19 +590,19 @@ translation = "（아아 정말…… 정말 이 바보 같은 여자는……!!
 speaker_original = "ナターシャ"
 speaker_translation = "나타샤"
 original = "（でも……私は『メルエルの強さ』を、見誤っていたのかもしれない……）"
-translation = "（하지만…… 나는 『멜엘의 강함』을 잘못 보고 있었던 걸지도 몰라……）"
+translation = "（하지만…… 나는 『메르엘의 강함』을 잘못 보고 있었던 걸지도 몰라……）"
 
 [[dialogue]]
 speaker_original = "ナターシャ"
 speaker_translation = "나타샤"
 original = "（私は、『メルエルの強さ』がいつか、メルエルを殺してしまうんじゃないかって、怖かった……）"
-translation = "（나는 『멜엘의 강함』이 언젠가 멜엘을 죽여버리지 않을까 하고 두려웠어……）"
+translation = "（나는 『메르엘의 강함』이 언젠가 메르엘을 죽여버리지 않을까 하고 두려웠어……）"
 
 [[dialogue]]
 speaker_original = "ナターシャ"
 speaker_translation = "나타샤"
 original = "（でもきっと、今の『メルエルの強さ』は、メルエルのことを殺さない）"
-translation = "（하지만 분명 지금의 『멜엘의 강함』은 멜엘을 죽이지 않아）"
+translation = "（하지만 분명 지금의 『메르엘의 강함』은 메르엘을 죽이지 않아）"
 
 [[dialogue]]
 speaker_original = "ナターシャ"
@@ -614,13 +614,13 @@ translation = "（그건 분명 회장이라는 『진짜 마왕』과 만난 �
 speaker_original = "ナターシャ"
 speaker_translation = "나타샤"
 original = "（でも……私は、強いメルエルのことを、もう少しだけ信じてもいいかもしれない。嫌わなくても、いいかもしれない）"
-translation = "（하지만…… 나는 강한 멜엘을 조금만 더 믿어봐도 좋을지도 몰라. 싫어하지 않아도 좋을지도 몰라）"
+translation = "（하지만…… 나는 강한 메르엘을 조금만 더 믿어봐도 좋을지도 몰라. 싫어하지 않아도 좋을지도 몰라）"
 
 [[dialogue]]
 speaker_original = "ナターシャ"
 speaker_translation = "나타샤"
 original = "（……ま、私がそんなことを考えたなんて、メルエルには一生、内緒なんだけど）"
-translation = "（……뭐, 내가 이런 생각을 했다는 건 멜엘에게 평생 비밀이지만）"
+translation = "（……뭐, 내가 이런 생각을 했다는 건 메르엘에게 평생 비밀이지만）"
 
 [[dialogue]]
 speaker_original = "メルエル"
@@ -638,7 +638,7 @@ translation = "「내가 마왕이 아니게 되면 호위 임무도 필요 없�
 speaker_original = "ナターシャ"
 speaker_translation = "나타샤"
 original = "「はあ……やっぱりメルエルのこと、好きになれないや。こんな大ごとを、あっさり決めちゃってさ──」"
-translation = "「하아…… 역시 멜엘은 좋아할 수가 없네. 이런 중대사를 그렇게 덜컥 결정해버리고──」"
+translation = "「하아…… 역시 메르엘은 좋아할 수가 없네. 이런 중대사를 그렇게 덜컥 결정해버리고──」"
 
 [[dialogue]]
 speaker_original = "メルエル"
@@ -672,5 +672,5 @@ translation = "──이렇게 두 번째 천계 방위는 훌륭히 완수되�
 [[dialogue]]
 speaker = "unk"
 original = "創造神『<ruby>ＸＥＬＯＳ<rt>ゼロス</rt></ruby>』の最期のあがきは、メルエルたちの活躍によって阻止されたのだった──"
-translation = "창조신 『<ruby>XELOS<rt>제로스</rt></ruby>』의 마지막 발악은 멜엘 일행의 활약에 의해 저지된 것이었다──"
+translation = "창조신 『<ruby>XELOS<rt>제로스</rt></ruby>』의 마지막 발악은 메르엘 일행의 활약에 의해 저지된 것이었다──"
 

@@ -144,7 +144,7 @@
       }
     },
     "translation": {
-      "name": "마그달레나",
+      "name": "막달레나",
       "stats": {
         "teamskill": [
           "아군 전체의 기초 ATK",
@@ -597,7 +597,7 @@
       }
     },
     "translation": {
-      "name": "알모타헬",
+      "name": "아르모타헬",
       "stats": {
         "teamskill": [
           "아군 전체의 기초 ATK",
@@ -710,7 +710,7 @@
       }
     },
     "translation": {
-      "name": "멜엘",
+      "name": "메르엘",
       "stats": {
         "teamskill": [
           "아군 전체의 기초 ATK",
@@ -3774,7 +3774,7 @@
       }
     },
     "translation": {
-      "name": "스테라",
+      "name": "스텔라",
       "stats": {
         "teamskill": [
           "아군 전체의 기초 ATK",
@@ -4471,7 +4471,7 @@
       }
     },
     "translation": {
-      "name": "멜엘【극광】",
+      "name": "메르엘【극광】",
       "stats": {
         "teamskill": [
           "아군 전체의 기초 ATK",
@@ -4544,7 +4544,7 @@
       }
     },
     "translation": {
-      "name": "샤샤",
+      "name": "사샤",
       "stats": {
         "teamskill": [
           "아군 전체의 기초 ATK ",

@@ -11,13 +11,13 @@ translation = "어느 날 오후."
 [[dialogue]]
 speaker = "unk"
 original = "カフェテリアではサランに見守られつつ、ウルスラがチョコレート作りに勤しんでいた。"
-translation = "카페테리아에서는 사란의 지켜봄 속에 우르술라가 초콜릿 만들기에 정진하고 있었다."
+translation = "카페테리아에서는 사란의 지켜봄 속에 우르슬라가 초콜릿 만들기에 정진하고 있었다."
 
 [[dialogue]]
 speaker_original = "サラン"
 speaker_translation = "사란"
 original = "「そうそう、人肌よりもちょっぴりあったかいくらいで……ウルスラちゃん、手際良くなった～」"
-translation = "「그래그래, 체온보다 조금 더 따뜻한 정도로…… 우르술라짱, 솜씨 좋아졌네~」"
+translation = "「그래그래, 체온보다 조금 더 따뜻한 정도로…… 우르슬라짱, 솜씨 좋아졌네~」"
 
 [[dialogue]]
 speaker_original = "ウルスラ"
@@ -29,7 +29,7 @@ translation = "「과찬이십니다. 제대로 스승님께 배운 그대로의
 speaker_original = "サラン"
 speaker_translation = "사란"
 original = "「年上なんだから、師匠じゃなくってサランでいいのに～。ウルスラちゃんって真面目～」"
-translation = "「연상이니까 스승님이 아니라 사란이라고 불러도 되는데~. 우르술라짱은 성실하네~」"
+translation = "「연상이니까 스승님이 아니라 사란이라고 불러도 되는데~. 우르슬라짱은 성실하네~」"
 
 [[dialogue]]
 speaker_original = "ウルスラ"
@@ -59,7 +59,7 @@ translation = "「두근두근……!」"
 speaker_original = "サラン"
 speaker_translation = "사란"
 original = "「ん～～っ♪\u3000す～～っごく美味しい～！\u3000さすがウルスラちゃん、チョコレートはバッチリだ♪」"
-translation = "「음~~♪ 너~~무 맛있어~! 역시 우르술라짱, 초콜릿은 완벽해♪」"
+translation = "「음~~♪ 너~~무 맛있어~! 역시 우르슬라짱, 초콜릿은 완벽해♪」"
 
 [[dialogue]]
 speaker_original = "ウルスラ"
@@ -89,7 +89,7 @@ translation = "「아, 기다리고 있었습니다. 힐디오네 씨」"
 speaker_original = "ヒルディオーネ"
 speaker_translation = "힐디오네"
 original = "「本日はお誘いありがとうございますわ、ウルスラさん。サランさんもごきげんよう」"
-translation = "「오늘은 초대해 주셔서 감사해요, 우르술라 씨. 사란 씨도 평안하신지」"
+translation = "「오늘은 초대해 주셔서 감사해요, 우르슬라 씨. 사란 씨도 평안하신지」"
 
 [[dialogue]]
 speaker_original = "サラン"
@@ -113,7 +113,7 @@ translation = "「아무래도 인간계에는 익숙지 않았기에…… 학�
 speaker_original = "ヒルディオーネ"
 speaker_translation = "힐디오네"
 original = "「ウルスラさんがチョコレートを作って待っているとのことでしたが……こちらがウルスラさんの作られたチョコレートですの？」"
-translation = "「우르술라 씨가 초콜릿을 만들어 기다리고 계신다 들었습니다만…… 이것이 우르술라 씨가 만드신 초콜릿인가요?」"
+translation = "「우르슬라 씨가 초콜릿을 만들어 기다리고 계신다 들었습니다만…… 이것이 우르슬라 씨가 만드신 초콜릿인가요?」"
 
 [[dialogue]]
 speaker_original = "ウルスラ"
@@ -263,7 +263,7 @@ translation = "「후후, 화이트데이 답례도 고생하시겠어요. 하�
 speaker_original = "サラン"
 speaker_translation = "사란"
 original = "「うふふ、ウルスラちゃんも会長ちゃんのこと、気になる～？」"
-translation = "「우후후, 우르술라짱도 회장짱에 대해 신경 쓰여~?」"
+translation = "「우후후, 우르슬라짱도 회장짱에 대해 신경 쓰여~?」"
 
 [[dialogue]]
 speaker_original = "ウルスラ"
@@ -293,7 +293,7 @@ translation = "「흐~응, 그렇구나~♪」"
 speaker_original = "ヒルディオーネ"
 speaker_translation = "힐디오네"
 original = "「ウルスラさんの恋路に幸多からんことを……ですわね、ふふ」"
-translation = "「우르술라 씨의 앞날에 행복이 가득하기를…… 이네요, 후후」"
+translation = "「우르슬라 씨의 앞날에 행복이 가득하기를…… 이네요, 후후」"
 
 [[dialogue]]
 speaker_original = "ウルスラ"
@@ -304,7 +304,7 @@ translation = "「그러니까, 그런 게 아니라니까요──!」"
 [[dialogue]]
 speaker = "unk"
 original = "ウルスラが顔を真っ赤にして、２人に反論する。"
-translation = "우르술라가 얼굴을 새빨갛게 붉히며, 두 사람에게 반론한다."
+translation = "우르슬라가 얼굴을 새빨갛게 붉히며, 두 사람에게 반론한다."
 
 [[dialogue]]
 speaker = "unk"

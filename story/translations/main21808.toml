@@ -23,7 +23,7 @@ translation = "끝없이 가라앉는 착각을 느낄 법한 바닥 없는 심�
 speaker_original = "ナターシャ"
 speaker_translation = "나타샤"
 original = "（メルエルは……いる……）"
-translation = "（멜엘은…… 있어……）"
+translation = "（메르엘은…… 있어……）"
 
 [[dialogue]]
 speaker = "unk"
@@ -77,7 +77,7 @@ translation = "（……뭐야 이거. 질 나쁜 농담? 그야, 저 두 사람
 [[dialogue]]
 speaker = "unk"
 original = "彼女たちは、あまりにも──ナターシャとメルエルに似ていた。"
-translation = "그녀들은 너무나도── 나타샤와 멜엘을 닮아 있었다."
+translation = "그녀들은 너무나도── 나타샤와 메르엘을 닮아 있었다."
 
 [[dialogue]]
 speaker_original = "？？？"
@@ -331,13 +331,13 @@ translation = "「응. 아무래도 2000년 전부터 이어진 악연이었나 
 speaker_original = "ナターシャ"
 speaker_translation = "나타샤"
 original = "「それにしても、ここまで似てるだなんてね。そりゃあ私が、メルエルのことを嫌いになるわけだよ」"
-translation = "「그건 그렇고 이렇게까지 닮았다니 말이야. 그러니 내가 멜엘을 싫어하게 될 법도 하지」"
+translation = "「그건 그렇고 이렇게까지 닮았다니 말이야. 그러니 내가 메르엘을 싫어하게 될 법도 하지」"
 
 [[dialogue]]
 speaker_original = "ナターシャ"
 speaker_translation = "나타샤"
 original = "「メルエルは、自分が魔王の血を引く天使だなんて、知らないはずなのに……高貴なる者の精神ってやつ？\u3000あるいは王の器ってやつなのかな？」"
-translation = "「멜엘은 자신이 마왕의 피를 이어받은 천사라는 걸 모를 텐데…… 고귀한 자의 정신이라는 건가? 아니면 왕의 그릇이라는 걸까?」"
+translation = "「메르엘은 자신이 마왕의 피를 이어받은 천사라는 걸 모를 텐데…… 고귀한 자의 정신이라는 건가? 아니면 왕의 그릇이라는 걸까?」"
 
 [[dialogue]]
 speaker_original = "ナターシャ"
@@ -355,13 +355,13 @@ translation = "「설마 내 조상님까지 같은 고민을 하고 있었을 �
 speaker_original = "ナターシャ"
 speaker_translation = "나타샤"
 original = "「メルエルの『強いところ』が、私は嫌い……」"
-translation = "「멜엘의 『강한 점』이 나는 싫어……」"
+translation = "「메르엘의 『강한 점』이 나는 싫어……」"
 
 [[dialogue]]
 speaker_original = "ナターシャ"
 speaker_translation = "나타샤"
 original = "「その『強さ』は、いつかメルエル自身を殺してしまう。ずっとそう思ってた……」"
-translation = "「그 『강함』은 언젠가 멜엘 자신을 죽여버릴 거야. 계속 그렇게 생각했어……」"
+translation = "「그 『강함』은 언젠가 메르엘 자신을 죽여버릴 거야. 계속 그렇게 생각했어……」"
 
 [[dialogue]]
 speaker_original = "ナターシャ"
@@ -415,7 +415,7 @@ translation = "「하, 하지만……! 나타샤 짱은 내가 무자각하게 
 speaker_original = "ナターシャ"
 speaker_translation = "나타샤"
 original = "「『天界の姫のように振舞うメルエル』のことが嫌いだし、『何も知らない小娘のメルエル』にもイラついてたよ」"
-translation = "「『천계의 공주처럼 구는 멜엘』도 싫고, 『아무것도 모르는 꼬맹이 멜엘』에게도 짜증 났어」"
+translation = "「『천계의 공주처럼 구는 메르엘』도 싫고, 『아무것도 모르는 꼬맹이 메르엘』에게도 짜증 났어」"
 
 [[dialogue]]
 speaker_original = "メルエル"
@@ -427,25 +427,25 @@ translation = "「그, 그건 모순이라고 하지 않아!?」"
 speaker_original = "ナターシャ"
 speaker_translation = "나타샤"
 original = "「そう矛盾だよ。私はメルエルに対して、矛盾した気持ちを持ってる」"
-translation = "「그래 모순이야. 나는 멜엘에 대해 모순된 감정을 가지고 있어」"
+translation = "「그래 모순이야. 나는 메르엘에 대해 모순된 감정을 가지고 있어」"
 
 [[dialogue]]
 speaker_original = "ナターシャ"
 speaker_translation = "나타샤"
 original = "「『何も知らない小娘のメルエル』のことも、『天界の姫のように振舞うメルエル』のことも、どっちも嫌い」"
-translation = "「『아무것도 모르는 꼬맹이 멜엘』도, 『천계의 공주처럼 구는 멜엘』도 둘 다 싫어」"
+translation = "「『아무것도 모르는 꼬맹이 메르엘』도, 『천계의 공주처럼 구는 메르엘』도 둘 다 싫어」"
 
 [[dialogue]]
 speaker_original = "ナターシャ"
 speaker_translation = "나타샤"
 original = "「どっちに寄せても大嫌いなわけで、こんなの、メルエル側でどうこうできないでしょ？\u3000だから言ったじゃん。私たちは仲直りなんてできないよ」"
-translation = "「어느 쪽이든 정말 싫은 건 마찬가지라 이런 건 멜엘 쪽에서 어떻게 할 수 있는 게 아니잖아? 그러니까 말했잖아. 우리는 화해 같은 거 못 한다고」"
+translation = "「어느 쪽이든 정말 싫은 건 마찬가지라 이런 건 메르엘 쪽에서 어떻게 할 수 있는 게 아니잖아? 그러니까 말했잖아. 우리는 화해 같은 거 못 한다고」"
 
 [[dialogue]]
 speaker_original = "ナターシャ"
 speaker_translation = "나타샤"
 original = "「これは私の中にある矛盾で、全部、私が自分勝手な感情でメルエルにイライラしてるだけなんだから」"
-translation = "「이건 내 안에 있는 모순이고, 전부 내가 제멋대로인 감정으로 멜엘에게 짜증 내고 있는 것뿐이니까」"
+translation = "「이건 내 안에 있는 모순이고, 전부 내가 제멋대로인 감정으로 메르엘에게 짜증 내고 있는 것뿐이니까」"
 
 [[dialogue]]
 speaker_original = "メルエル"
@@ -475,7 +475,7 @@ translation = "「──아하. 그런 표정은 좋아. 정말로 정말 좋아
 speaker_original = "ナターシャ"
 speaker_translation = "나타샤"
 original = "「メルエルが泣いてるとさ、『ああ、この子にも弱いところがあるんだな』って、安心できた……」"
-translation = "「멜엘이 울고 있으면 말이야, 『아아, 이 아이에게도 약한 면이 있구나』 하고 안심할 수 있었어……」"
+translation = "「메르엘이 울고 있으면 말이야, 『아아, 이 아이에게도 약한 면이 있구나』 하고 안심할 수 있었어……」"
 
 [[dialogue]]
 speaker_original = "ナターシャ"
@@ -505,13 +505,13 @@ translation = "「엣」"
 speaker_original = "ナターシャ"
 speaker_translation = "나타샤"
 original = "「私……メルエルの『顔』、好きなんだよねぇ」"
-translation = "「나…… 멜엘의 『얼굴』, 좋아하거든」"
+translation = "「나…… 메르엘의 『얼굴』, 좋아하거든」"
 
 [[dialogue]]
 speaker_original = "ナターシャ"
 speaker_translation = "나타샤"
 original = "「ほんと──顔と体だけは最高だよ、メルエル」"
-translation = "「정말── 얼굴이랑 몸만큼은 최고야, 멜엘」"
+translation = "「정말── 얼굴이랑 몸만큼은 최고야, 메르엘」"
 
 [[dialogue]]
 speaker_original = "メルエル"
@@ -559,7 +559,7 @@ translation = "「아니! 아직이야. 나타샤 짱도 나도 절대로 무사
 speaker_original = "ナターシャ"
 speaker_translation = "나타샤"
 original = "「だからさ……メルエルのそういうところが、嫌いだって言ってるんだけど？」"
-translation = "「그러니까…… 멜엘의 그런 점이 싫다고 하는 건데?」"
+translation = "「그러니까…… 메르엘의 그런 점이 싫다고 하는 건데?」"
 
 [[dialogue]]
 speaker = "unk"
@@ -613,7 +613,7 @@ translation = "「나타샤 짱이 손을 잡아주고 있어── 그러니까
 [[dialogue]]
 speaker = "unk"
 original = "メルエルが取り出したのは、先日緋宮クロトも触れた『アルケインカオスクエーサー』の刻まれた宝玉。"
-translation = "멜엘이 꺼낸 것은 요전날 히노미야 쿠로토도 만졌던 『아케인 카오스 퀘이사』가 새겨진 보옥."
+translation = "메르엘이 꺼낸 것은 요전날 히노미야 쿠로토도 만졌던 『아케인 카오스 퀘이사』가 새겨진 보옥."
 
 [[dialogue]]
 speaker_original = "メルエル"
@@ -642,7 +642,7 @@ translation = "「…………어쩔 수 없네. 뭐, 전생부터 이어진 인
 [[dialogue]]
 speaker = "unk"
 original = "ナターシャは、メルエルの持つ宝玉にその手を重ねた。"
-translation = "나타샤는 멜엘이 쥔 보옥에 그 손을 겹쳤다."
+translation = "나타샤는 메르엘이 쥔 보옥에 그 손을 겹쳤다."
 
 [[dialogue]]
 speaker_original = "メルエル"
@@ -660,7 +660,7 @@ translation = "（리크리에의 장기…… 정말 불쾌하니까. 빨리 �
 speaker_original = "ナターシャ"
 speaker_translation = "나타샤"
 original = "（私のメルエルに──これ以上、入ってくるな！！！）"
-translation = "（나의 멜엘에게── 더 이상 들어오지 마!!!）"
+translation = "（나의 메르엘에게── 더 이상 들어오지 마!!!）"
 
 [[dialogue]]
 speaker_original = "メルエル"

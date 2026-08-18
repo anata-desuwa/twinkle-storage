@@ -66,7 +66,7 @@ translation = "「여러분, 곤란해 보이시네요」"
 speaker_original = "シャロン"
 speaker_translation = "샤론"
 original = "「ウルスラさま！？」"
-translation = "「우르술라 님!?」"
+translation = "「우르슬라 님!?」"
 
 [[dialogue]]
 speaker_original = "ウルスラ"
@@ -78,7 +78,7 @@ translation = "「발렌타인 파동을 충전하느라 달려오는 게 늦어
 speaker_original = "イレーナ"
 speaker_translation = "이레이나"
 original = "「ウルスラさん、あなたも戦えるんですか？」"
-translation = "「우르술라 씨, 당신도 싸울 수 있나요?」"
+translation = "「우르슬라 씨, 당신도 싸울 수 있나요?」"
 
 [[dialogue]]
 speaker_original = "ウルスラ"
@@ -108,7 +108,7 @@ translation = "「지금부터, 발렌타인을 집행합니다」"
 speaker_original = "シャロン"
 speaker_translation = "샤론"
 original = "「す、すごいですっ！\u3000ウルスラさまの星力が爆発的に膨れ上がって──！」"
-translation = "「우, 우와아! 우르술라 님의 성력이 폭발적으로 부풀어 올라서──!」"
+translation = "「우, 우와아! 우르슬라 님의 성력이 폭발적으로 부풀어 올라서──!」"
 
 [[dialogue]]
 speaker_original = "ウルスラ"
@@ -136,13 +136,13 @@ translation = "그 경이로운 힘을 목격한 우리들은 고개를 몇 번�
 [[dialogue]]
 speaker = "unk"
 original = "ウルスラの大活躍によってモンスターは全て倒され、街に平和が戻った。"
-translation = "우르술라의 대활약으로 몬스터는 모두 쓰러졌고, 거리에 평화가 돌아왔다."
+translation = "우르슬라의 대활약으로 몬스터는 모두 쓰러졌고, 거리에 평화가 돌아왔다."
 
 [[dialogue]]
 speaker_original = "イレーナ"
 speaker_translation = "이레이나"
 original = "「──以上、バレンタインの使者、ウルスラ・バレンタインの活躍により、教皇庁主催のバレンタインイベントは無事に終了しました──と」"
-translation = "「──이상, 발렌타인의 사자, 우르술라 발렌타인의 활약으로 교황청 주최 발렌타인 이벤트는 무사히 종료되었습니다──라고」"
+translation = "「──이상, 발렌타인의 사자, 우르슬라 발렌타인의 활약으로 교황청 주최 발렌타인 이벤트는 무사히 종료되었습니다──라고」"
 
 [[dialogue]]
 speaker_original = "イレーナ"
@@ -227,7 +227,7 @@ translation = "『보내드리지 않아요』"
 [[dialogue]]
 speaker = "unk"
 original = "今の声は──ウルスラ！？"
-translation = "방금 목소리는── 우르술라!?"
+translation = "방금 목소리는── 우르슬라!?"
 
 [[dialogue]]
 speaker_original = "ウルスラ"

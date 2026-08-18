@@ -5,7 +5,7 @@ translation = "처음 얼굴을 마주한 코우메이와 쿠셴."
 
 [[dialogue]]
 speaker_original = "紅明"
-speaker_translation = "코메이"
+speaker_translation = "코우메이"
 original = "「まさか、悟空……！？\u3000『孫悟空』なのか！？」"
 translation = "「설마, 오공……!? 『손오공』인 거야!?」"
 
@@ -17,7 +17,7 @@ translation = "「손오공……? 아니, 내 이름은 쿠셴인데?」"
 
 [[dialogue]]
 speaker_original = "紅明"
-speaker_translation = "코메이"
+speaker_translation = "코우메이"
 original = "「えぇっ！？\u3000まさかの他人の空似っ！？\u3000……いやでも、その格好はどう見ても、前世の悟空と瓜二つだし！」"
 translation = "「에엣!? 설마 닮은 사람뿐!? ……아니 하지만 그 모습은 아무리 봐도 전생의 오공과 판박이라구!」"
 
@@ -51,7 +51,7 @@ translation = "「마계에 『화과산』이라는 곳이 있는데, 나는 �
 
 [[dialogue]]
 speaker_original = "紅明"
-speaker_translation = "코메이"
+speaker_translation = "코우메이"
 original = "「！\u3000それ、悟空が生まれた場所と同じっしょ！」"
 translation = "「! 거기 오공이 태어난 장소랑 똑같다구!」"
 
@@ -63,13 +63,13 @@ translation = "「그래? 그나저나 아까부터 말하는 그 『오공』�
 
 [[dialogue]]
 speaker_original = "紅明"
-speaker_translation = "코메이"
+speaker_translation = "코우메이"
 original = "「えっと、人間界で有名な『西遊記』って伝説があってな？\u3000と言っても、魔界生まれだとわからないか……」"
 translation = "「그게 인간계에서 유명한 『서유기』라는 전설이 있는데 말야? 뭐 마계 태생이면 모르려나…….」"
 
 [[dialogue]]
 speaker_original = "紅明"
-speaker_translation = "코메이"
+speaker_translation = "코우메이"
 original = "「簡単に言うと、『孫悟空』は今から２０００年前、魔王を名乗って人間界に侵攻した悪い魔族を倒し、人間界を救った英雄なのさ」"
 translation = "「간단히 말하면 『손오공』은 지금으로부터 2000년 전, 마왕을 자처하며 인간계에 침공한 나쁜 마족을 쓰러뜨리고 인간계를 구한 영웅이야.」"
 
@@ -81,7 +81,7 @@ translation = "「영웅……! 음? 근데 이상하지 않아? 2000년 전 영
 
 [[dialogue]]
 speaker_original = "紅明"
-speaker_translation = "코메이"
+speaker_translation = "코우메이"
 original = "「それは――アタシが昔、実際に会ったことがあるからさ」"
 translation = "「그건── 내가 옛날에 실제로 만난 적이 있기 때문이지.」"
 
@@ -93,7 +93,7 @@ translation = "「? 그게 무슨 소리야……?」"
 
 [[dialogue]]
 speaker_original = "紅明"
-speaker_translation = "코메이"
+speaker_translation = "코우메이"
 original = "「嘘を言ってないって信じてもらう為にも、まずは見てもらった方がいいかな。ダーリン、芭蕉扇をこっちにもらってもいいかい？」"
 translation = "「거짓말이 아니라는 걸 믿어주기 위해서라도 우선은 보여주는 게 좋겠네. 달링, 파초선을 이쪽으로 줘도 될까?」"
 
@@ -110,7 +110,7 @@ translation = "「응. 마리온에게서도 원래 주인이 있으니 돌려�
 
 [[dialogue]]
 speaker_original = "紅明"
-speaker_translation = "코메이"
+speaker_translation = "코우메이"
 original = "「こいつはアタシにとって、思い入れのある物なんだ――あんがとね！」"
 translation = "「이건 나한테도 추억이 깃든 물건이라구── 고맙다구!」"
 
@@ -121,7 +121,7 @@ translation = "코우메이는 내가 내민 파초선을 손에 쥐더니──
 
 [[dialogue]]
 speaker_original = "紅明"
-speaker_translation = "코메이"
+speaker_translation = "코우메이"
 original = "「羅刹再臨！」"
 translation = "「나찰 재림!」"
 
@@ -133,7 +133,7 @@ translation = "「와아……!?」"
 
 [[dialogue]]
 speaker_original = "紅明（羅刹）"
-speaker_translation = "코메이(나찰)"
+speaker_translation = "코우메이(나찰)"
 original = "「威風堂々――元気羅刹、ここに再臨！\u3000今こそ羅刹のごとく、勝利の風を吹かすぜ！」"
 translation = "「위풍당당── 활기 나찰, 여기에 재림! 지금이야말로 나찰처럼 승리의 바람을 일으키겠다구!」"
 
@@ -150,13 +150,13 @@ translation = "「우와, 대단해! 엄청난 성력……! 너는 대체 정�
 
 [[dialogue]]
 speaker_original = "紅明（羅刹）"
-speaker_translation = "코메이(나찰)"
+speaker_translation = "코우메이(나찰)"
 original = "「うっし☆\u3000改めて名乗らせてもらうぜ！\u3000我こそは、前世にて<ruby>鉄扇公主<rt>てっせんこうしゅ</rt></ruby>が娘、<ruby>善哉童子<rt>ぜんざいどうじ</rt></ruby>『<ruby>紅孩児<rt>こうがいじ</rt></ruby>』！」"
 translation = "「좋아☆ 다시 한번 이름을 밝히지! 나는 바로 전생에서 철선공주의 딸, 선재동자 『홍해아』!」"
 
 [[dialogue]]
 speaker_original = "紅明（羅刹）"
-speaker_translation = "코메이(나찰)"
+speaker_translation = "코우메이(나찰)"
 original = "「そして現世に転生し、今に名乗るは『<ruby>牛紅明<rt>ぎゅうこうめい</rt></ruby>』！\u3000ってなわけで、アタシのことは気軽に紅明ちゃんって呼んでくれよな、クーちん♪」"
 translation = "「그리고 현세에 전생하여 지금 자칭하는 이름은 『규우 코우메이』! 그런 고로 나를 편하게 코우메이 짱이라고 불러줘, 쿠셴!」"
 
@@ -168,7 +168,7 @@ translation = "「쿠셴!? 그건 나를 말하는 거……!?」"
 
 [[dialogue]]
 speaker_original = "紅明（羅刹）"
-speaker_translation = "코메이(나찰)"
+speaker_translation = "코우메이(나찰)"
 original = "「おうよ☆\u3000アタシ、友達はあだ名で呼ぶ派だからさ♪\u3000クーシェンって名前なら、クーちんって呼ぶのが可愛いって思ったんだけど、どうよ？」"
 translation = "「그렇다구☆ 난 친구를 별명으로 부르는 파거든♪ 쿠셴이라는 이름이면 쿠셴이라고 부르는 게 귀엽다고 생각했는데 어때?」"
 
@@ -186,7 +186,7 @@ translation = "「뭐랄까, 하늘을 나는 신이라고 쓰고 『공신』�
 
 [[dialogue]]
 speaker_original = "紅明（羅刹）"
-speaker_translation = "코메이(나찰)"
+speaker_translation = "코우메이(나찰)"
 original = "「なるほど、わかるマン。でも、カッコいい本名と、友達からのあだ名は別物っしょ☆\u3000あだ名は可愛い方が親しみを持てるじゃん？」"
 translation = "「과연, 알겠다구. 하지만 멋진 본명이랑 친구가 지어준 별명은 별개라구☆ 별명은 귀여운 편이 친근감이 생기잖아?」"
 
@@ -198,7 +198,7 @@ translation = "「그, 그래? 뭐 그러면 어쩔 수 없네~. 그렇게까지
 
 [[dialogue]]
 speaker_original = "紅明（羅刹）"
-speaker_translation = "코메이(나찰)"
+speaker_translation = "코우메이(나찰)"
 original = "「うっし♪\u3000それじゃあクーちんのことは、たった今からクーちんで！\u3000ウェ～イ☆」"
 translation = "「좋아♪ 그럼 쿠셴은 지금 이 순간부터 쿠셴으로! 웨이~☆」"
 
@@ -210,31 +210,31 @@ translation = "「아니, 그것보다 코우메이가 『파초선』으로 변
 
 [[dialogue]]
 speaker_original = "紅明（羅刹）"
-speaker_translation = "코메이(나찰)"
+speaker_translation = "코우메이(나찰)"
 original = "「――この『芭蕉扇』は、アタシの前世のお袋殿……『羅刹女』の持ち物でね」"
 translation = "「──이 『파초선』은 내 전생의 어머니…… 『나찰녀』의 소지품이라서 말야.」"
 
 [[dialogue]]
 speaker_original = "紅明（羅刹）"
-speaker_translation = "코메이(나찰)"
+speaker_translation = "코우메이(나찰)"
 original = "「２０００年前、当時のアタシは、お袋殿からこれを譲り受けて、それはもう必死に修業した果てに、この姿に変身できるようになったってわけよ」"
 translation = "「2000년 전 당시의 나는 어머니로부터 이걸 물려받아 정말 필사적으로 수행한 끝에 이 모습으로 변신할 수 있게 됐다는 거지.」"
 
 [[dialogue]]
 speaker_original = "紅明（羅刹）"
-speaker_translation = "코메이(나찰)"
+speaker_translation = "코우메이(나찰)"
 original = "「こうして実際に変身してみせた後なら、信じてもらえると思うんだけど――」"
 translation = "「이렇게 실제로 변신해 보인 뒤라면 믿어줄 거라 생각하는데──」"
 
 [[dialogue]]
 speaker_original = "紅明（羅刹）"
-speaker_translation = "코메이(나찰)"
+speaker_translation = "코우메이(나찰)"
 original = "「アタシは、前世で『孫悟空』が戦った悪の親玉……『牛魔王』の娘で、後に悟空と友達になって、一緒に旅をした仲間だったんだ。つまり――」"
 translation = "「나는 전생에서 『손오공』이 싸웠던 악의 우두머리…… 『우마왕』의 딸이자, 나중에 오공과 친구가 되어 함께 여행을 했던 동료였어. 즉──」"
 
 [[dialogue]]
 speaker_original = "紅明（羅刹）"
-speaker_translation = "코메이(나찰)"
+speaker_translation = "코우메이(나찰)"
 original = "「今ここにいるアタシは、２０００年前に存在した『紅孩児』って魔族が、生まれ変わった存在ってわけさ☆」"
 translation = "「지금 여기 있는 나는 2000년 전에 존재했던 『홍해아』라는 마족이 다시 태어난 존재라는 거지☆」"
 
@@ -246,7 +246,7 @@ translation = "「그런 일이 정말로……!? 앗! 그럼 설마……?」"
 
 [[dialogue]]
 speaker_original = "紅明（羅刹）"
-speaker_translation = "코메이(나찰)"
+speaker_translation = "코우메이(나찰)"
 original = "「そう。アタシと同じく、クーちんも孫悟空の生まれ変わりなんじゃないかって、アタシは思ってるんだ」"
 translation = "「그래. 나랑 마찬가지로 쿠셴도 손오공의 환생이 아닐까 하고 나는 생각하고 있어.」"
 
@@ -258,7 +258,7 @@ translation = "「내가 영웅의 환생……!」"
 
 [[dialogue]]
 speaker_original = "紅明（羅刹）"
-speaker_translation = "코메이(나찰)"
+speaker_translation = "코우메이(나찰)"
 original = "「アタシと違って、どうして前世の記憶を持っていないのかはわからないけど……」"
 translation = "「나와는 달리 왜 전생의 기억을 가지고 있지 않은지는 모르겠지만……」"
 
@@ -274,7 +274,7 @@ translation = "새삼스럽지만 원래는 전생의 기억을 가지고 있는
 
 [[dialogue]]
 speaker_original = "紅明（羅刹）"
-speaker_translation = "코메이(나찰)"
+speaker_translation = "코우메이(나찰)"
 original = "「おぉ～、言われてみれば確かに！\u3000ダーリン、ナイスツッコミ☆」"
 translation = "「오오~ 듣고 보니 확실히! 달링, 나이스 츳코미☆」"
 
@@ -297,7 +297,7 @@ translation = "「윽, 머리가……!」"
 
 [[dialogue]]
 speaker_original = "紅明（羅刹）"
-speaker_translation = "코메이(나찰)"
+speaker_translation = "코우메이(나찰)"
 original = "「およ？\u3000どした、クーちん？」"
 translation = "「어라? 왜 그래, 쿠셴?」"
 
@@ -320,7 +320,7 @@ translation = "그렇게 말하며 쿠셴은 코우메이에게 달려가── 
 
 [[dialogue]]
 speaker_original = "紅明（羅刹）"
-speaker_translation = "코메이(나찰)"
+speaker_translation = "코우메이(나찰)"
 original = "「おおぅっ！？\u3000おっぱいの間に思いっきり顔面ツッコミが入ったけど、どした！？」"
 translation = "「오옷!? 가슴 사이에 아주 제대로 안면 박치기를 했는데, 왜 그래!?」"
 
@@ -337,7 +337,7 @@ translation = "코우메이의 가슴에 얼굴을 묻은 채 텐션 높게 말�
 
 [[dialogue]]
 speaker_original = "紅明（羅刹）"
-speaker_translation = "코메이(나찰)"
+speaker_translation = "코우메이(나찰)"
 original = "「……もしかしてクーちん、おっぱい好きなん？」"
 translation = "「……혹시 쿠셴, 가슴 좋아해?」"
 
@@ -366,13 +366,13 @@ translation = "「기억이 돌아왔다고 하고 자연스럽게 껴안으면 
 
 [[dialogue]]
 speaker_original = "紅明（羅刹）"
-speaker_translation = "코메이(나찰)"
+speaker_translation = "코우메이(나찰)"
 original = "「別にそんなことせんでも、おっぱいくらい好きに触っていいぜ？」"
 translation = "「별로 그런 짓 안 해도 가슴 정도는 마음껏 만져도 된다구?」"
 
 [[dialogue]]
 speaker_original = "紅明（羅刹）"
-speaker_translation = "코메이(나찰)"
+speaker_translation = "코우메이(나찰)"
 original = "「アタシは自分の立派なおっぱいに自負と自信を持ってるからね！\u3000女の子同士の戯れなら、別に触られても気にしないっしょ☆」"
 translation = "「나는 내 훌륭한 가슴에 자부심과 자신을 가지고 있으니까 말야! 여자끼리의 장난이라면 딱히 만져져도 상관없다구☆」"
 
@@ -384,7 +384,7 @@ translation = "「정말!? 와아!!! 나 가슴뿐만 아니라 야한 거 엄�
 
 [[dialogue]]
 speaker_original = "紅明（羅刹）"
-speaker_translation = "코메이(나찰)"
+speaker_translation = "코우메이(나찰)"
 original = "「うん、これは確かに悟空だわ。記憶は戻ってないけど、このエッチなお猿さんな感じは、間違いなく孫悟空です」"
 translation = "「응, 이건 확실히 오공이네. 기억은 안 돌아왔지만 이 음란한 원숭이 같은 느낌은 틀림없이 손오공입니다.」"
 
@@ -395,7 +395,7 @@ translation = "영, 영웅의 이미지가……"
 
 [[dialogue]]
 speaker_original = "紅明（羅刹）"
-speaker_translation = "코메이(나찰)"
+speaker_translation = "코우메이(나찰)"
 original = "「伝説ってのは美化されるものだからね～」"
 translation = "「전설이라는 건 미화되는 법이니까 말야~」"
 
@@ -407,7 +407,7 @@ translation = "「아아~♪ 이 폭신폭신한 가슴의 소리이~♪」"
 
 [[dialogue]]
 speaker_original = "紅明（羅刹）"
-speaker_translation = "코메이(나찰)"
+speaker_translation = "코우메이(나찰)"
 original = "「あ、そうだ♪\u3000ついでだし――ダーリンもおっぱい揉む？」"
 translation = "「아, 맞다♪ 하는 김에── 달링도 가슴 주무를래?」"
 
@@ -418,13 +418,13 @@ translation = "잠깐, 무슨 말을 하는 거야!?"
 
 [[dialogue]]
 speaker_original = "紅明（羅刹）"
-speaker_translation = "코메이(나찰)"
+speaker_translation = "코우메이(나찰)"
 original = "「あははっ☆\u3000そんな慌てなくてもいいじゃ～ん♪\u3000男の子でも、ダーリンだったら、アタシは全然構わないっしょ♪」"
 translation = "「아하하☆ 그렇게 당황하지 않아도 되잖아♪ 남자애라도 달링이라면 난 전혀 상관없다구♪」"
 
 [[dialogue]]
 speaker_original = "紅明（羅刹）"
-speaker_translation = "코메이(나찰)"
+speaker_translation = "코우메이(나찰)"
 original = "「だって、ダーリンは、アタシのダーリンだし<emoji=heart04>\u3000うしし☆」"
 translation = "「왜냐면 달링은 내 달링이니까♥ 우히히☆」"
 
@@ -458,7 +458,7 @@ translation = "진짜로 무슨 소릴 하는 거야!?"
 
 [[dialogue]]
 speaker_original = "紅明（羅刹）"
-speaker_translation = "코메이(나찰)"
+speaker_translation = "코우메이(나찰)"
 original = "「こら、クーちん。そういうエッチな話題を大声でするのははしたないぞ？\u3000めっ☆」"
 translation = "「이놈, 쿠셴. 그런 야한 화제를 큰 소리로 하는 건 점잖지 못하다구? 안 돼☆」"
 
@@ -548,7 +548,7 @@ translation = "「하지만 말이야~. 지금까지 나랑 어울리는 남자�
 
 [[dialogue]]
 speaker_original = "紅明（羅刹）"
-speaker_translation = "코메이(나찰)"
+speaker_translation = "코우메이(나찰)"
 original = "「クーちんよ。大事なことを教えるんだけど──男と女は一緒にお風呂に入っても妊娠はしないんだ。……まあ、気持ちいいとは思うんだけど」"
 translation = "「쿠셴아. 중요한 걸 가르쳐주겠는데── 남자랑 여자는 같이 목욕해도 임신은 안 해. ……뭐 기분 좋기는 하겠지만.」"
 
@@ -605,7 +605,7 @@ translation = "이렇게나 성욕 왕성한 거야……!?"
 
 [[dialogue]]
 speaker_original = "紅明（羅刹）"
-speaker_translation = "코메이(나찰)"
+speaker_translation = "코우메이(나찰)"
 original = "「う～～ん。どうやらクーちんには、長期目線で性教育カリキュラムを組まなきゃいけないみたいだぜ☆」"
 translation = "「으음~. 아무래도 쿠셴에게는 장기적인 안목으로 성교육 커리큘럼을 짜야 할 것 같다구☆」"
 

@@ -59,7 +59,7 @@ translation = "「『천개』──!? 말도 안 돼, 위험해!」"
 speaker_original = "ケイティ"
 speaker_translation = "케이티"
 original = "「メルエルちゃん、天蓋というのは……？」"
-translation = "「멜엘 짱, 천개라는 건……?」"
+translation = "「메르엘 짱, 천개라는 건……?」"
 
 [[dialogue]]
 speaker_original = "メルエル"
@@ -89,7 +89,7 @@ translation = "「확실히 수호성과의 링크가 좁아지고 가늘어지�
 speaker_original = "ケイティ"
 speaker_translation = "케이티"
 original = "「──メルエルちゃん。ナターシャちゃん。私が隙を作ります。２人は神殿内部を進み、侵入者を撃破して」"
-translation = "「──멜엘 짱. 나타샤 짱. 제가 틈을 만들겠습니다. 두 사람은 신전 내부로 나아가 침입자를 격파하세요」"
+translation = "「──메르엘 짱. 나타샤 짱. 제가 틈을 만들겠습니다. 두 사람은 신전 내부로 나아가 침입자를 격파하세요」"
 
 [[dialogue]]
 speaker_original = "メルエル"
@@ -113,7 +113,7 @@ translation = "「제가 없으면 이곳의 천사들은 전멸하고 말 겁�
 speaker_original = "ナターシャ"
 speaker_translation = "나타샤"
 original = "「……了解。ケイティ姉さんたちがやられないうちに、侵入者を全て排除する。メルエル、四の五の言ってる場合じゃないよ」"
-translation = "「……알았어. 케이티 언니 일행이 당하기 전에 침입자를 전부 배제하겠어. 멜엘, 이럴 때 따지고 들 상황 아냐」"
+translation = "「……알았어. 케이티 언니 일행이 당하기 전에 침입자를 전부 배제하겠어. 메르엘, 이럴 때 따지고 들 상황 아냐」"
 
 [[dialogue]]
 speaker_original = "メルエル"
@@ -131,7 +131,7 @@ translation = "「네, 맡겨주세요── 파쇄의 난격──!!!」"
 speaker_original = "ナターシャ"
 speaker_translation = "나타샤"
 original = "「相変わらず、剣が出す音じゃないよね──行くよ、メルエル！！」"
-translation = "「여전히 검에서 날 소리가 아니네── 가자, 멜엘!!」"
+translation = "「여전히 검에서 날 소리가 아니네── 가자, 메르엘!!」"
 
 [[dialogue]]
 speaker_original = "メルエル"
@@ -142,7 +142,7 @@ translation = "「응! 단숨에 안쪽까지──!!」"
 [[dialogue]]
 speaker = "unk"
 original = "神殿全体を揺るがすほどの衝撃と、舞い上がった砂塵に紛れ──メルエルたちが神殿内部へ侵入する。"
-translation = "신전 전체를 흔들 정도의 충격과 치솟는 먼지 구덩이에 섞여── 멜엘 일행이 신전 내부로 침입한다."
+translation = "신전 전체를 흔들 정도의 충격과 치솟는 먼지 구덩이에 섞여── 메르엘 일행이 신전 내부로 침입한다."
 
 [[dialogue]]
 speaker = "unk"
@@ -165,7 +165,7 @@ translation = "「불행히도 싸움을 즐겁다고 생각한 적은 없어서
 speaker_original = "ケイティ"
 speaker_translation = "케이티"
 original = "（……妙ですね。使徒がメルエルちゃんたちを妨害しようとしたら、すぐに動く準備はしていましたが……）"
-translation = "（……묘하네요. 사도가 멜엘 짱 일행을 방해하려고 한다면 즉시 움직일 준비는 하고 있었습니다만……）"
+translation = "（……묘하네요. 사도가 메르엘 짱 일행을 방해하려고 한다면 즉시 움직일 준비는 하고 있었습니다만……）"
 
 [[dialogue]]
 speaker_original = "ケイティ"
@@ -183,7 +183,7 @@ translation = "（무언가── 불길한 예감이 들어요. 서둘러 뒤�
 speaker_original = "ナターシャ"
 speaker_translation = "나타샤"
 original = "「またこの神殿を攻略することになるだなんてね──メルエル、体調はどう？」"
-translation = "「또 이 신전을 공략하게 될 줄이야── 멜엘, 컨디션은 어때?」"
+translation = "「또 이 신전을 공략하게 될 줄이야── 메르엘, 컨디션은 어때?」"
 
 [[dialogue]]
 speaker = "unk"
@@ -374,7 +374,7 @@ translation = "「그래. 그립네, 정말」"
 speaker_original = "ナターシャ"
 speaker_translation = "나타샤"
 original = "「メルエルは言ったよね。今まで知らなかったこと、たくさん知りたいってさ？」"
-translation = "「멜엘은 말했지. 지금까지 몰랐던 것들, 많이 알고 싶다고 말이야?」"
+translation = "「메르엘은 말했지. 지금까지 몰랐던 것들, 많이 알고 싶다고 말이야?」"
 
 [[dialogue]]
 speaker_original = "ナターシャ"
@@ -410,7 +410,7 @@ translation = "「…………응」"
 speaker_original = "ナターシャ"
 speaker_translation = "나타샤"
 original = "「──ま、いいや。先に進もう、メルエル」"
-translation = "「──뭐, 됐어. 앞으론 가자, 멜엘」"
+translation = "「──뭐, 됐어. 앞으론 가자, 메르엘」"
 
 [[dialogue]]
 speaker_original = "メルエル"
@@ -447,7 +447,7 @@ translation = "리갈타 노인에게 숨겨진 자식이 있다는 소문이 �
 [[dialogue]]
 speaker = "unk"
 original = "魔王の王政復興を求める派閥や、現状維持の保守派の中にもスパイがいるかもしれない──そう考えたリガルタ老は、メルエルを一時的に人間界へ避難させた。"
-translation = "마왕의 왕정 복고를 요구하는 파벌이나 현상 유지를 바라는 보수파 안에도 스파이가 있을지 모른다── 그렇게 생각한 리갈타 노인은 멜엘을 일시적으로 인간계로 피신시켰다."
+translation = "마왕의 왕정 복고를 요구하는 파벌이나 현상 유지를 바라는 보수파 안에도 스파이가 있을지 모른다── 그렇게 생각한 리갈타 노인은 메르엘을 일시적으로 인간계로 피신시켰다."
 
 [[dialogue]]
 speaker = "unk"
@@ -468,12 +468,12 @@ translation = "나타샤는 성정원 요원으로서의 훈련도 동시에 부
 [[dialogue]]
 speaker = "unk"
 original = "メルエルにバレないように護衛をする訓練を、この時から積まされていた。"
-translation = "멜엘에게 들키지 않게 호위하는 훈련을 이때부터 쌓고 있었던 것이다."
+translation = "메르엘에게 들키지 않게 호위하는 훈련을 이때부터 쌓고 있었던 것이다."
 
 [[dialogue]]
 speaker = "unk"
 original = "朝も昼も夜も、人間界を楽しむメルエルを陰から見守り続ける日々──"
-translation = "아침도 낮도 밤도 인간계를 즐기는 멜엘을 뒤에서 계속 지켜보는 나날──"
+translation = "아침도 낮도 밤도 인간계를 즐기는 메르엘을 뒤에서 계속 지켜보는 나날──"
 
 [[dialogue]]
 speaker_original = "ナターシャ"
@@ -494,13 +494,13 @@ translation = "어느 날, 이례적인 일이 일어났다."
 [[dialogue]]
 speaker = "unk"
 original = "メルエルが、朝の礼拝に訪れた大聖堂で、１人の少年に出会ったのだ。"
-translation = "멜엘이 아침 예배를 위해 방문한 대성당에서 한 소년을 만난 것이다."
+translation = "메르엘이 아침 예배를 위해 방문한 대성당에서 한 소년을 만난 것이다."
 
 [[dialogue]]
 speaker_original = "メルエル"
 speaker_translation = "메르엘"
 original = "「こ、こんにちは……わたし、メルエル！」"
-translation = "「아, 안녕…… 나, 멜엘이야!」"
+translation = "「아, 안녕…… 나, 메르엘이야!」"
 
 [[dialogue]]
 speaker_original = "少年"
@@ -527,7 +527,7 @@ translation = "그날부터 두 사람은 대성당에서 얼굴을 마주할 �
 speaker_original = "ナターシャ"
 speaker_translation = "나타샤"
 original = "（……メルエル、すごく──楽しそう）"
-translation = "（……멜엘, 엄청── 즐거워 보여）"
+translation = "（……메르엘, 엄청── 즐거워 보여）"
 
 [[dialogue]]
 speaker = "unk"
@@ -537,7 +537,7 @@ translation = "──저런 남자애의 어디가 좋다는 거야. 맨날 멍�
 [[dialogue]]
 speaker = "unk"
 original = "メルエルは顔を真っ赤にして、とても楽しそう。"
-translation = "멜엘은 얼굴을 붉히며 무척 즐거워 보였다."
+translation = "메르엘은 얼굴을 붉히며 무척 즐거워 보였다."
 
 [[dialogue]]
 speaker_original = "ナターシャ"
@@ -558,7 +558,7 @@ translation = "──몇 개월 후."
 [[dialogue]]
 speaker = "unk"
 original = "天界での政争にひと段落がついたため、メルエルは天界へと戻ってきた。"
-translation = "천계의 정쟁이 일단락되자 멜엘은 천계로 돌아왔다."
+translation = "천계의 정쟁이 일단락되자 메르엘은 천계로 돌아왔다."
 
 [[dialogue]]
 speaker_original = "メルエル"
@@ -575,7 +575,7 @@ translation = "「헤~ 그렇구나」"
 [[dialogue]]
 speaker = "unk"
 original = "メルエルは緋宮クロトのことばかりを喋った。ナターシャは初耳だというふりをして、笑顔を貼りつかせて、相槌を打った。"
-translation = "멜엘은 히노미야 쿠로토에 관한 이야기만 늘어놓았다. 나타샤는 처음 듣는 척 미소를 지으며 맞장구를 쳤다."
+translation = "메르엘은 히노미야 쿠로토에 관한 이야기만 늘어놓았다. 나타샤는 처음 듣는 척 미소를 지으며 맞장구를 쳤다."
 
 [[dialogue]]
 speaker_original = "ナターシャ"
@@ -593,7 +593,7 @@ translation = "（…………다 알고 있다고. 저런 따분한 녀석 얘�
 speaker_original = "ナターシャ"
 speaker_translation = "나타샤"
 original = "（…………あんな奴より、わたしの方がメルエルのこと、よく知ってるのに……）"
-translation = "（…………저런 녀석보다 내가 멜엘에 대해 더 잘 아는데……）"
+translation = "（…………저런 녀석보다 내가 메르엘에 대해 더 잘 아는데……）"
 
 [[dialogue]]
 speaker_original = "メルエル"
@@ -617,7 +617,7 @@ translation = "（…………겨우 몇 달 같이 논 것뿐이잖아）"
 speaker_original = "ナターシャ"
 speaker_translation = "나타샤"
 original = "（……メルエルの幼なじみは、わたしでしょ？）"
-translation = "（……멜엘의 소꿉친구는 나잖아?）"
+translation = "（……메르엘의 소꿉친구는 나잖아?）"
 
 [[dialogue]]
 speaker = "unk"
@@ -628,7 +628,7 @@ translation = "그 짜증을 발산하기 위해 나타샤는 언제부턴가 �
 speaker_original = "ナターシャ"
 speaker_translation = "나타샤"
 original = "（メルエルは──あのクロトとかいうヤツのことが、好き）"
-translation = "（멜엘은── 저 쿠로토라는 녀석을 좋아해）"
+translation = "（메르엘은── 저 쿠로토라는 녀석을 좋아해）"
 
 [[dialogue]]
 speaker_original = "ナターシャ"
@@ -651,7 +651,7 @@ translation = "그것은 너무나도 감미롭고 중독성 있는 상상이었
 speaker_original = "ナターシャ"
 speaker_translation = "나타샤"
 original = "（わたし──メルエルが泣いている顔……好きかも）"
-translation = "（나── 멜엘이 울고 있는 얼굴…… 좋아할지도）"
+translation = "（나── 메르엘이 울고 있는 얼굴…… 좋아할지도）"
 
 [[dialogue]]
 speaker_original = "ナターシャ"
@@ -699,7 +699,7 @@ translation = "「그래도 나는──」"
 speaker_original = "ナターシャ"
 speaker_translation = "나타샤"
 original = "「諦めないって？\u3000ほんっとメルエルは──っと」"
-translation = "「포기 안 한다고? 정말 멜엘은── 아차」"
+translation = "「포기 안 한다고? 정말 메르엘은── 아차」"
 
 [[dialogue]]
 speaker_original = "ナターシャ"
@@ -716,7 +716,7 @@ translation = "「으, 응…… 준비는 됐어. 가자!」"
 [[dialogue]]
 speaker = "unk"
 original = "そして、メルエルとナターシャは、神殿の最奥にある部屋に到達し……"
-translation = "그리고 멜엘과 나타샤는 신전 가장 안쪽 방에 도달했고……"
+translation = "그리고 메르엘과 나타샤는 신전 가장 안쪽 방에 도달했고……"
 
 [[dialogue]]
 speaker_original = "メルエル"

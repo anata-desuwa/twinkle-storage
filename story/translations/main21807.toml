@@ -75,7 +75,7 @@ translation = "「……으, 앗……!!」"
 speaker_original = "ラストナンバー"
 speaker_translation = "라스트 넘버"
 original = "「──見事だったわ、衛兵隊長。使徒メルエルの駒として、お前の影を作ることも検討しましょうか」"
-translation = "「──훌륭했어, 위병대장. 사도 멜엘의 말로서 네 그림자를 만드는 것도 검토해 볼까」"
+translation = "「──훌륭했어, 위병대장. 사도 메르엘의 말로서 네 그림자를 만드는 것도 검토해 볼까」"
 
 [[dialogue]]
 speaker_original = "ケイティ"
@@ -135,7 +135,7 @@ translation = "「무슨 소리를 하는 거야……」"
 speaker_original = "ラストナンバー"
 speaker_translation = "라스트 넘버"
 original = "「聞かせて頂戴？\u3000貴女は、姫咲メルエルが嫌いだったのよね？」"
-translation = "「들려주겠어? 너는 히메사키 멜엘을 싫어했었지?」"
+translation = "「들려주겠어? 너는 히메사키 메르엘을 싫어했었지?」"
 
 [[dialogue]]
 speaker_original = "ラストナンバー"
@@ -207,7 +207,7 @@ translation = "「하아!? 성정원의 명령 따위 아무래도 좋아! 에�
 speaker_original = "ナターシャ"
 speaker_translation = "나타샤"
 original = "「メルエルだって嫌い！\u3000母さんと同じくらい──大嫌い！！」"
-translation = "「멜엘도 싫어! 어머니만큼이나── 정말 싫어!!」"
+translation = "「메르엘도 싫어! 어머니만큼이나── 정말 싫어!!」"
 
 [[dialogue]]
 speaker_original = "ラストナンバー"
@@ -225,7 +225,7 @@ translation = "「이이익──!!」"
 speaker_original = "ラストナンバー"
 speaker_translation = "라스트 넘버"
 original = "「見なさい、姫咲メルエルの顔を。瘴気に呑まれて、とても苦しんでいる」"
-translation = "「보렴, 히메사키 멜엘의 얼굴을. 장기에 삼켜져서 무척 고통스러워하고 있어」"
+translation = "「보렴, 히메사키 메르엘의 얼굴을. 장기에 삼켜져서 무척 고통스러워하고 있어」"
 
 [[dialogue]]
 speaker_original = "ラストナンバー"
@@ -243,13 +243,13 @@ translation = "「그런데 치루노 나타샤. 지금의 너는 왜 그렇게�
 speaker_original = "ナターシャ"
 speaker_translation = "나타샤"
 original = "「うっざ──今のメルエルを見たって、嫌な気分になるだけだっての！！」"
-translation = "「짜증 나── 지금의 멜엘을 봤자 기분만 더러울 뿐이라고!!」"
+translation = "「짜증 나── 지금의 메르엘을 봤자 기분만 더러울 뿐이라고!!」"
 
 [[dialogue]]
 speaker_original = "ナターシャ"
 speaker_translation = "나타샤"
 original = "「メルエルの泣いてる顔は好きだよ──せいせいするから！\u3000ざまあみろって思えて、楽しいから！」"
-translation = "「멜엘의 우는 얼굴은 좋아해── 속이 시원하니까! 꼴 좋다고 생각돼서 즐거우니까!」"
+translation = "「메르엘의 우는 얼굴은 좋아해── 속이 시원하니까! 꼴 좋다고 생각돼서 즐거우니까!」"
 
 [[dialogue]]
 speaker_original = "ナターシャ"
@@ -283,7 +283,7 @@ translation = "극대의 영력이 다발이 되어 나타샤의 전신을 직�
 [[dialogue]]
 speaker = "unk"
 original = "神殿の床を滑るように転がって、瘴気に苦しむメルエルのすぐそばまで、ナターシャは吹き飛ばされた。"
-translation = "신전 바닥을 미끄러지듯 굴러, 장기로 고통받는 멜엘의 바로 옆까지 나타샤는 날려 갔다."
+translation = "신전 바닥을 미끄러지듯 굴러, 장기로 고통받는 메르엘의 바로 옆까지 나타샤는 날려 갔다."
 
 [[dialogue]]
 speaker_original = "メルエル"
@@ -311,7 +311,7 @@ translation = "라스트 넘버에게는 당해낼 수 없다. 자신을 버리�
 [[dialogue]]
 speaker = "unk"
 original = "メルエルは懸命に言葉を紡ぐが──"
-translation = "멜엘은 필사적으로 말을 이어가지만──"
+translation = "메르엘은 필사적으로 말을 이어가지만──"
 
 [[dialogue]]
 speaker_original = "ナターシャ"
@@ -329,7 +329,7 @@ translation = "「남의 속도 모르고…… 위태롭고…… 자기 일은
 speaker_original = "ナターシャ"
 speaker_translation = "나타샤"
 original = "「メルエルが……魔王なんかじゃ、なかったら……こんな風に、悩まなくて、すんだのに……」"
-translation = "「멜엘이…… 마왕 같은 게 아니었다면…… 이런 식으로 고민하지 않아도 됐을 텐데……」"
+translation = "「메르엘이…… 마왕 같은 게 아니었다면…… 이런 식으로 고민하지 않아도 됐을 텐데……」"
 
 [[dialogue]]
 speaker_original = "ナターシャ"
@@ -346,7 +346,7 @@ translation = "「아── 안 돼, 안 돼──!」"
 [[dialogue]]
 speaker = "unk"
 original = "ナターシャが、メルエルの手をそっと握る──途端に、瘴気が繋いだ手を伝って、ナターシャをも呑み込みにかかる。"
-translation = "나타샤가 멜엘의 손을 살며시 잡는다── 그 즉시 장기가 맞잡은 손을 타고 나타샤마저 집어삼키려 한다."
+translation = "나타샤가 메르엘의 손을 살며시 잡는다── 그 즉시 장기가 맞잡은 손을 타고 나타샤마저 집어삼키려 한다."
 
 [[dialogue]]
 speaker_original = "メルエル"
@@ -358,13 +358,13 @@ translation = "「아, 아앗…… 그만둬…… 놔, 줘…… 나타샤 짱
 speaker_original = "ナターシャ"
 speaker_translation = "나타샤"
 original = "「──あは。良い顔……メルエルの辛そうな顔、やっぱサイコーだよね……」"
-translation = "「──아하. 좋은 표정…… 멜엘의 고통스러운 얼굴, 역시 최고네……」"
+translation = "「──아하. 좋은 표정…… 메르엘의 고통스러운 얼굴, 역시 최고네……」"
 
 [[dialogue]]
 speaker_original = "ナターシャ"
 speaker_translation = "나타샤"
 original = "「やっぱり、メルエルの顔をゆがめるのは……自分でやらなきゃ、面白くないや……」"
-translation = "「역시 멜엘의 얼굴을 일그러뜨리는 건…… 내가 직접 하지 않으면 재미없단 말이지……」"
+translation = "「역시 메르엘의 얼굴을 일그러뜨리는 건…… 내가 직접 하지 않으면 재미없단 말이지……」"
 
 [[dialogue]]
 speaker_original = "メルエル"

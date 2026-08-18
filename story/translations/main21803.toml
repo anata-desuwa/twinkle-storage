@@ -41,7 +41,7 @@ translation = "대규모 천계 습격 직후라 인원이 부족한 천사들�
 speaker_original = "ケイティ"
 speaker_translation = "케이티"
 original = "「メルエルちゃん！\u3000タイミングを合わせて！」"
-translation = "「멜엘 짱! 타이밍을 맞춰!」"
+translation = "「메르엘 짱! 타이밍을 맞춰!」"
 
 [[dialogue]]
 speaker_original = "メルエル"
@@ -141,7 +141,7 @@ translation = "「나타샤 짱…… 고, 고마워!!」"
 speaker_original = "ナターシャ"
 speaker_translation = "나타샤"
 original = "「お喋りは後！\u3000集中して、メルエル！！」"
-translation = "「수다는 나중에! 집중해, 멜엘!!」"
+translation = "「수다는 나중에! 집중해, 메르엘!!」"
 
 [[dialogue]]
 speaker_original = "ジグ"
@@ -219,12 +219,12 @@ translation = "（이게 나에게 정해진 삶의 방식이니까. 이것 이�
 speaker_original = "ナターシャ"
 speaker_translation = "나타샤"
 original = "（今さら変えられない……それだけ！\u3000メルエルに忠義の心なんて、持ってない──！！）"
-translation = "（새삼스럽게 바꿀 순 없어…… 그뿐이야! 멜엘에게 충의 같은 거, 안 가지고 있어──!!）"
+translation = "（새삼스럽게 바꿀 순 없어…… 그뿐이야! 메르엘에게 충의 같은 거, 안 가지고 있어──!!）"
 
 [[dialogue]]
 speaker = "unk"
 original = "執拗にメルエルを付け狙う使徒の斬撃を、ナターシャは弾き続ける。"
-translation = "집요하게 멜엘을 노리는 사도의 참격을 나타샤는 계속해서 쳐낸다."
+translation = "집요하게 메르엘을 노리는 사도의 참격을 나타샤는 계속해서 쳐낸다."
 
 [[dialogue]]
 speaker_original = "ジグ"
@@ -287,7 +287,7 @@ translation = "「위험해!! 나타샤 짱!!」"
 [[dialogue]]
 speaker = "unk"
 original = "メルエルがナターシャを庇うために、その必殺の間合いに自ら飛び込んできた。"
-translation = "멜엘이 나타샤를 감싸기 위해 그 필살의 거리 안으로 스스로 뛰어들었다."
+translation = "메르엘이 나타샤를 감싸기 위해 그 필살의 거리 안으로 스스로 뛰어들었다."
 
 [[dialogue]]
 speaker_original = "ナターシャ"
@@ -304,12 +304,12 @@ translation = "「하하! 성안으로 본 그대로의 비전이다──!!」"
 [[dialogue]]
 speaker = "unk"
 original = "ぞっとするほどにナターシャの心臓が冷え込む──自分をエサに、メルエルを釣りだされた。"
-translation = "소름이 끼칠 정도로 나타샤의 심장이 싸늘하게 식는다── 자신을 미끼로 멜엘을 낚아낸 것이다."
+translation = "소름이 끼칠 정도로 나타샤의 심장이 싸늘하게 식는다── 자신을 미끼로 메르엘을 낚아낸 것이다."
 
 [[dialogue]]
 speaker = "unk"
 original = "この未来をなぞると使徒が決めた。それはすなわち、メルエルに刃が食い込むことも織り込み済みの行動に他ならない──"
-translation = "사도가 이 미래를 따라가기로 결정했다. 그것은 즉 멜엘에게 칼날이 박히는 것까지 계산에 넣은 행동에 다름없다──"
+translation = "사도가 이 미래를 따라가기로 결정했다. 그것은 즉 메르엘에게 칼날이 박히는 것까지 계산에 넣은 행동에 다름없다──"
 
 [[dialogue]]
 speaker_original = "ナターシャ"
@@ -384,7 +384,7 @@ translation = "「으, 응…… 고마워, 케이티 언니. 나타샤 짱도�
 speaker_original = "ナターシャ"
 speaker_translation = "나타샤"
 original = "「どういうつもり、メルエル！？」"
-translation = "「무슨 생각이야, 멜엘!?」"
+translation = "「무슨 생각이야, 메르엘!?」"
 
 [[dialogue]]
 speaker_original = "メルエル"
@@ -455,7 +455,7 @@ translation = "타이르듯 재촉하자 나타샤는 크게 숨을 내뱉는다
 speaker_original = "ナターシャ"
 speaker_translation = "나타샤"
 original = "「…………ごめん、メルエル」"
-translation = "「…………미안, 멜엘」"
+translation = "「…………미안, 메르엘」"
 
 [[dialogue]]
 speaker_original = "メルエル"
