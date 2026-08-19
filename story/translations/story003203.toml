@@ -2,7 +2,7 @@
 speaker_original = "シャロン"
 speaker_translation = "샤론"
 original = "「ウルスラ・バレンタインさまと仰るのですね？\u3000苗字がバレンタインなんて奇遇ですっ！」"
-translation = "「우르슬라 발렌타인 님이라고 하시는군요? 성이 발렌타인이라니 기막힌 우연이에요!」"
+translation = "「우르술라 발렌타인 님이라고 하시는군요? 성이 발렌타인이라니 기막힌 우연이에요!」"
 
 [[dialogue]]
 speaker_original = "イレーナ"
@@ -50,7 +50,7 @@ translation = "「발렌타인을 사랑하는 사람으로서, 초콜릿을 사
 speaker_original = "シャロン"
 speaker_translation = "샤론"
 original = "「猫の手も借りたかったところなので、心強いですっ。ウルスラさま、よろしかったらご教授願えますか」"
-translation = "「고양이 손이라도 빌리고 싶던 참이라 든든해요. 우르슬라 님, 괜찮으시다면 가르침을 주시겠어요?」"
+translation = "「고양이 손이라도 빌리고 싶던 참이라 든든해요. 우르술라 님, 괜찮으시다면 가르침을 주시겠어요?」"
 
 [[dialogue]]
 speaker_original = "イレーナ"
@@ -173,7 +173,7 @@ translation = "「아이스박스 쿠키라면 반죽을 만들어 두면 나중
 speaker_original = "シャロン"
 speaker_translation = "샤론"
 original = "「いいアイデアをもらっちゃいましたねっ。ありがとうございます、ウルスラさまっ」"
-translation = "「좋은 아이디어를 얻었네요. 감사합니다, 우르슬라 님」"
+translation = "「좋은 아이디어를 얻었네요. 감사합니다, 우르술라 님」"
 
 [[dialogue]]
 speaker_original = "ウルスラ"
@@ -291,5 +291,5 @@ translation = "(으…… 이 녀석, 왠지 거북하네……)"
 [[dialogue]]
 speaker = "unk"
 original = "人の心を見透かすようなウルスラの瞳は、イレーナを捉えて離さないのだった。"
-translation = "사람의 마음을 꿰뚫어 보는 듯한 우르슬라의 눈동자는, 이레이나를 포착해 놓아주지 않았다."
+translation = "사람의 마음을 꿰뚫어 보는 듯한 우르술라의 눈동자는, 이레이나를 포착해 놓아주지 않았다."
 

@@ -6,7 +6,7 @@ translation = "제1화, 발렌타인 몬스터 탄생 비화, P"
 [[dialogue]]
 speaker = "unk"
 original = "ウルスラが起こしたバレンタインの騒動が落ち着いて数日後──"
-translation = "우르슬라가 일으킨 발렌타인 소동이 진정되고 며칠 후──"
+translation = "우르술라가 일으킨 발렌타인 소동이 진정되고 며칠 후──"
 
 [[dialogue]]
 speaker_original = "シャロン"
@@ -18,7 +18,7 @@ translation = "「올해는 힘든 발렌타인이었네요」"
 speaker_original = "イレーナ"
 speaker_translation = "이레이나"
 original = "「はぁ……バレンタインはしばらく懲り懲り～って感じ。ま、ウルスラも次のバレンタインまではおとなしくしてるでしょ。今頃どこにいるのかも知らないけど──」"
-translation = "「하아…… 발렌타인은 당분간 지긋지긋하다는 느낌. 뭐, 우르슬라도 다음 발렌타인까지는 얌전히 있겠지. 지금 어디 있는지도 모르겠지만──」"
+translation = "「하아…… 발렌타인은 당분간 지긋지긋하다는 느낌. 뭐, 우르술라도 다음 발렌타인까지는 얌전히 있겠지. 지금 어디 있는지도 모르겠지만──」"
 
 [[dialogue]]
 speaker_original = "ウルスラ"
@@ -30,7 +30,7 @@ translation = "「어머, 혹시 제 이야기를 하고 계셨나요?」"
 speaker_original = "シャロン"
 speaker_translation = "샤론"
 original = "「ウルスラさま！？」"
-translation = "「우르슬라 님!?」"
+translation = "「우르술라 님!?」"
 
 [[dialogue]]
 speaker = "unk"
@@ -71,7 +71,7 @@ translation = "「적인지 아군인지 따지자면 아슬아슬하게 적의 
 speaker_original = "シャロン"
 speaker_translation = "샤론"
 original = "「まあまあ、イレーナさま。ウルスラさまも悪気があったわけではないでしょうし」"
-translation = "「자자, 이레나 님. 우르슬라 님도 악의가 있었던 건 아닐 테고요」"
+translation = "「자자, 이레나 님. 우르술라 님도 악의가 있었던 건 아닐 테고요」"
 
 [[dialogue]]
 speaker_original = "イレーナ"
@@ -83,13 +83,13 @@ translation = "「저런 건 악의로 한 쪽이 그나마 구제할 길이라�
 speaker_original = "シャロン"
 speaker_translation = "샤론"
 original = "「まあまあまあ、イレーナさま。ウルスラさまにもきっと深～い事情がおありなんですよ」"
-translation = "「자자자, 이레나 님. 우르슬라 님에게도 분명 기~픈 사정이 있으실 거예요」"
+translation = "「자자자, 이레나 님. 우르술라 님에게도 분명 기~픈 사정이 있으실 거예요」"
 
 [[dialogue]]
 speaker_original = "イレーナ"
 speaker_translation = "이레이나"
 original = "「随分とウルスラの肩を持つじゃない。……ま、相手の事情も知らずに頭ごなしに否定するのもよくないわね。一応神官だし、懺悔する気があるなら聞いてあげる」"
-translation = "「상당히 우르슬라 편을 드네. ……뭐, 상대의 사정도 모르고 무턱대고 부정하는 것도 좋지 않겠지. 일단 신관이고, 참회할 마음이 있다면 들어줄게」"
+translation = "「상당히 우르술라 편을 드네. ……뭐, 상대의 사정도 모르고 무턱대고 부정하는 것도 좋지 않겠지. 일단 신관이고, 참회할 마음이 있다면 들어줄게」"
 
 [[dialogue]]
 speaker_original = "イレーナ"
@@ -301,13 +301,13 @@ translation = "수호성의 영향을 받는 성기사는 계절에 따라 성�
 [[dialogue]]
 speaker = "unk"
 original = "だがウルスラほど極端な例は聞いたことがない。"
-translation = "하지만 우르슬라만큼 극단적인 예는 들어본 적이 없다."
+translation = "하지만 우르술라만큼 극단적인 예는 들어본 적이 없다."
 
 [[dialogue]]
 speaker_original = "シャロン"
 speaker_translation = "샤론"
 original = "「ウルスラさま、やっぱり悪い人ではありませんねっ」"
-translation = "「우르슬라 님, 역시 나쁜 분은 아니시네요」"
+translation = "「우르술라 님, 역시 나쁜 분은 아니시네요」"
 
 [[dialogue]]
 speaker_original = "イレーナ"
@@ -324,10 +324,10 @@ translation = "「매점에 있을 때도 있으니 언제든 들러주세요. �
 [[dialogue]]
 speaker = "unk"
 original = "ウルスラは小さく会釈し、大聖堂を去っていった。"
-translation = "우르슬라는 가볍게 목례하고, 대성당을 떠나갔다."
+translation = "우르술라는 가볍게 목례하고, 대성당을 떠나갔다."
 
 [[dialogue]]
 speaker = "unk"
 original = "それからウルスラは、ちょくちょく大聖堂に顔を覗かせては、シャロンと（時々イレーナと）談話に花を咲かせるようになったのである。"
-translation = "그 뒤로 우르슬라는 자주 대성당에 얼굴을 비추며, 샤론과 (가끔은 이레나와) 담소의 꽃을 피우게 된 것이었다."
+translation = "그 뒤로 우르술라는 자주 대성당에 얼굴을 비추며, 샤론과 (가끔은 이레나와) 담소의 꽃을 피우게 된 것이었다."
 

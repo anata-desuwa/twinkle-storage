@@ -147,7 +147,7 @@ translation = "「어린이 모임에서 낼 과자라면 그렇게까지 수가
 speaker_original = "シャロン"
 speaker_translation = "샤론"
 original = "「どんなお菓子がいいか、ウルスラさまに聞いてみましょうか？」"
-translation = "「어떤 과자가 좋을지 우르슬라 님께 여쭤볼까요?」"
+translation = "「어떤 과자가 좋을지 우르술라 님께 여쭤볼까요?」"
 
 [[dialogue]]
 speaker_original = "イレーナ"
@@ -324,13 +324,13 @@ translation = "「후후후……」"
 speaker_original = "イレーナ"
 speaker_translation = "이레이나"
 original = "「ウルスラ！？\u3000なんであんたがここにいるのよ！？」"
-translation = "「우르슬라!? 왜 네가 여기 있는 거야!?」"
+translation = "「우르술라!? 왜 네가 여기 있는 거야!?」"
 
 [[dialogue]]
 speaker_original = "ウルスラ"
 speaker_translation = "우르슬라"
 original = "「バレンタインの波動を感じたもので……恋あるところ、ウルスラありです」"
-translation = "「발렌타인의 파동을 느꼈기에…… 사랑이 있는 곳에 우르슬라가 있답니다」"
+translation = "「발렌타인의 파동을 느꼈기에…… 사랑이 있는 곳에 우르술라가 있답니다」"
 
 [[dialogue]]
 speaker_original = "ウルスラ"
@@ -359,5 +359,5 @@ translation = "「네 그 미소가 짜증 난다고!!」"
 [[dialogue]]
 speaker = "unk"
 original = "結局ウルスラにも手伝ってもらって、子ども会用のチョコティラミスを完成させたのだった。"
-translation = "결국 우르슬라에게도 도움을 받아 어린이 모임용 초코 티라미수를 완성시킨 것이었다."
+translation = "결국 우르술라에게도 도움을 받아 어린이 모임용 초코 티라미수를 완성시킨 것이었다."
 

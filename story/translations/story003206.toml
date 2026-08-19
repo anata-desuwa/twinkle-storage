@@ -185,7 +185,7 @@ translation = "(──랄까, 위험해라. 이상한 소리 할 뻔했네……
 [[dialogue]]
 speaker = "unk"
 original = "ウルスラの言動は、フェイクの可能性もある。"
-translation = "우르슬라의 언행은 페이크일 가능성도 있다."
+translation = "우르술라의 언행은 페이크일 가능성도 있다."
 
 [[dialogue]]
 speaker = "unk"
@@ -196,7 +196,7 @@ translation = "학원에서 나갈 수 없는 게 사실인지 확인하기 위�
 speaker_original = "イレーナ"
 speaker_translation = "이레이나"
 original = "「やっぱり、駄目ね。ウルスラが言った通り、校門は閉じてて、ビクともしない」"
-translation = "「역시 안 되네. 우르슬라가 말한 대로 교문은 닫혀서 꿈쩍도 안 해」"
+translation = "「역시 안 되네. 우르술라가 말한 대로 교문은 닫혀서 꿈쩍도 안 해」"
 
 [[dialogue]]
 speaker = "unk"
@@ -225,7 +225,7 @@ translation = "「샤론!? 돌아간 거 아니었어!?」"
 speaker_original = "イレーナ"
 speaker_translation = "이레이나"
 original = "「そっか、シャロンもウルスラに閉じ込められたのね。それなら３人で協力して、一緒にあのクレイジーバレンタインモンスターを倒しましょう！」"
-translation = "「그렇구나, 샤론도 우르슬라에게 갇힌 거네. 그렇다면 셋이서 협력해서 저 크레이지 발렌타인 몬스터를 쓰러뜨리자!」"
+translation = "「그렇구나, 샤론도 우르술라에게 갇힌 거네. 그렇다면 셋이서 협력해서 저 크레이지 발렌타인 몬스터를 쓰러뜨리자!」"
 
 [[dialogue]]
 speaker_original = "シャロン"
@@ -248,12 +248,12 @@ translation = "「샤론!? 설마 당신……!」"
 speaker_original = "シャロン"
 speaker_translation = "샤론"
 original = "「会長さまにチョコを渡すか、さもなくば──ウルスラさまを倒す前に私を倒してください！」"
-translation = "「회장님께 초코를 주시거나, 아니면── 우르슬라 님을 쓰러뜨리기 전에 저를 쓰러뜨려 주세요!」"
+translation = "「회장님께 초코를 주시거나, 아니면── 우르술라 님을 쓰러뜨리기 전에 저를 쓰러뜨려 주세요!」"
 
 [[dialogue]]
 speaker = "unk"
 original = "ウルスラと意気投合してるー！？"
-translation = "우르슬라와 의기투합했어!? "
+translation = "우르술라와 의기투합했어!? "
 
 [[dialogue]]
 speaker_original = "イレーナ"

@@ -22,7 +22,7 @@ translation = "몬스터 쪽은 아직 이쪽의 존재를 알아차리지 못�
 
 [[dialogue]]
 speaker_original = "紅明（羅刹）"
-speaker_translation = "코우메이(나찰)"
+speaker_translation = "코메이(나찰)"
 original = "「……いや、本物の親父殿ってわけじゃない。あれは恐らく……親父殿の姿だけを模したモンスターだと思う」"
 translation = "「…… 아니, 진짜 아버지인 건 아냐. 저건 아마…… 아버지의 모습만을 본뜬 몬스터라고 생각해」"
 
@@ -39,37 +39,37 @@ translation = "코우메이, 아버님은 분명……"
 
 [[dialogue]]
 speaker_original = "紅明（羅刹）"
-speaker_translation = "코우메이(나찰)"
+speaker_translation = "코메이(나찰)"
 original = "「うん。親父殿は２０００年前、人間界に侵攻して、三界を魔族の手で支配しようという野望を抱いていた」"
 translation = "「응. 아버지는 2000년 전, 인간계를 침공해서 삼계를 마족의 손으로 지배하겠다는 야망을 품고 있었어」"
 
 [[dialogue]]
 speaker_original = "紅明（羅刹）"
-speaker_translation = "코우메이(나찰)"
+speaker_translation = "코메이(나찰)"
 original = "「その為に力を求めて……リクリエを自らの中に取り込み、あの怪物の姿に変身して、『牛魔王』を名乗ったんだ」"
 translation = "「그걸 위해 힘을 갈구하다…… 리크리에를 스스로의 몸에 받아들여 저 괴물의 모습으로 변신하고 『우마왕』이라 자칭했지」"
 
 [[dialogue]]
 speaker_original = "紅明（羅刹）"
-speaker_translation = "코우메이(나찰)"
+speaker_translation = "코메이(나찰)"
 original = "「『我こそは魔王の後継者である』、と称してね」"
 translation = "「『내야말로 마왕의 후계자다』라면서 말야」"
 
 [[dialogue]]
 speaker_original = "紅明（羅刹）"
-speaker_translation = "코우메이(나찰)"
+speaker_translation = "코메이(나찰)"
 original = "「しかし結局は……リクリエを制御できるはずもなく、時間と共に親父殿の方が取り込まれてしまった。……自我まで怪物に変貌してしまったんだよ」"
 translation = "「하지만 결국은…… 리크리에를 제어할 수 있을 리도 없었고, 시간과 함께 아버지가 오히려 침식당하고 말았어. …… 자아까지 괴물로 변해버렸지」"
 
 [[dialogue]]
 speaker_original = "紅明（羅刹）"
-speaker_translation = "코우메이(나찰)"
+speaker_translation = "코메이(나찰)"
 original = "「本物の親父殿は、アタシと悟空たちで２０００年前に介錯してる。だから……あれは多分、かつてリクリエが取り込んだ牛魔王を模倣したもの」"
 translation = "「진짜 아버지는 나랑 오공 일행이 2000년 전에 끝내드렸어. 그러니까…… 저건 아마 예전에 리크리에가 집어삼켰던 우마왕을 모방한 것」"
 
 [[dialogue]]
 speaker_original = "紅明（羅刹）"
-speaker_translation = "코우메이(나찰)"
+speaker_translation = "코메이(나찰)"
 original = "「……愚かな男が招いた、自業自得の結果だよ」"
 translation = "「…… 어리석은 남자가 자초한 자업자득의 결과야」"
 
@@ -81,7 +81,7 @@ translation = "「…… 용서 못 해」"
 
 [[dialogue]]
 speaker_original = "紅明（羅刹）"
-speaker_translation = "코우메이(나찰)"
+speaker_translation = "코메이(나찰)"
 original = "「え……？」"
 translation = "「에……?」"
 
@@ -105,19 +105,19 @@ translation = "「죽은 사람의 힘을 이용해서 세계를 멸망시키려
 
 [[dialogue]]
 speaker_original = "紅明（羅刹）"
-speaker_translation = "코우메이(나찰)"
+speaker_translation = "코메이(나찰)"
 original = "「クーちん……」"
 translation = "「쿠셴……」"
 
 [[dialogue]]
 speaker_original = "紅明（羅刹）"
-speaker_translation = "코우메이(나찰)"
+speaker_translation = "코메이(나찰)"
 original = "「仕方ないよ。リクリエにそんなこと言ったって、意味はない」"
 translation = "「어쩔 수 없어. 리크리에한테 그런 말을 해봤자 의미는 없어」"
 
 [[dialogue]]
 speaker_original = "紅明（羅刹）"
-speaker_translation = "코우메이(나찰)"
+speaker_translation = "코메이(나찰)"
 original = "「地震とか台風とかの災害――天災と同じなんだ。リクリエに言葉は通じないんだよ」"
 translation = "「지진이나 태풍 같은 재해── 천재지변이랑 같은 거야. 리크리에한테는 말이 통하지 않아」"
 
@@ -153,55 +153,55 @@ translation = "「하지만! 그 어쩔 수 없는 일── 세계의 부조리
 
 [[dialogue]]
 speaker_original = "紅明（羅刹）"
-speaker_translation = "코우메이(나찰)"
+speaker_translation = "코메이(나찰)"
 original = "「……！」"
 translation = "「……!」"
 
 [[dialogue]]
 speaker_original = "紅明（羅刹）"
-speaker_translation = "코우메이(나찰)"
+speaker_translation = "코메이(나찰)"
 original = "「ああ、そっか。……そうだね、クーちん」"
 translation = "「아아, 그렇구나. …… 그렇네, 쿠셴」"
 
 [[dialogue]]
 speaker_original = "紅明（羅刹）"
-speaker_translation = "코우메이(나찰)"
+speaker_translation = "코메이(나찰)"
 original = "「仕方のないことだからって……全部が全部、割り切ってみせる必要はないんだ」"
 translation = "「어쩔 수 없는 일이라고 해서…… 전부 다 이해하고 넘어갈 필요는 없는 거였어」"
 
 [[dialogue]]
 speaker_original = "紅明（羅刹）"
-speaker_translation = "코우메이(나찰)"
+speaker_translation = "코메이(나찰)"
 original = "「ありがと、クーちん……アタシはまた、昔みたいに諦めちゃうところだった」"
 translation = "「고마워, 쿠셴…… 나는 또 옛날처럼 포기해버릴 뻔했어」"
 
 [[dialogue]]
 speaker_original = "紅明（羅刹）"
-speaker_translation = "코우메이(나찰)"
+speaker_translation = "코메이(나찰)"
 original = "「親父殿の偽物が現れたなら、元娘として、ちゃんと怒らなくちゃね……！」"
 translation = "「아버지의 가짜가 나타났다면, 전 딸로서 제대로 화를 내줘야겠지……!」"
 
 [[dialogue]]
 speaker_original = "紅明（羅刹）"
-speaker_translation = "코우메이(나찰)"
+speaker_translation = "코메이(나찰)"
 original = "「かつて、怒りを伝えられずに後悔して、アタシにこの芭蕉扇を託した――お袋殿の為にも！」"
 translation = "「일찍이 분노를 전하지 못해 후회하며 나에게 이 파초선을 맡겼던── 어머니를 위해서라도!」"
 
 [[dialogue]]
 speaker_original = "紅明（羅刹）"
-speaker_translation = "코우메이(나찰)"
+speaker_translation = "코메이(나찰)"
 original = "「でも、クーちん、キミはやっぱり――『アタシの<ruby>孫悟空<rt>リーダー</rt></ruby>』だ」"
 translation = "「하지만 쿠셴, 너는 역시── 『나의 <ruby>손오공<rt>리더</rt></ruby>』야」"
 
 [[dialogue]]
 speaker_original = "紅明（羅刹）"
-speaker_translation = "코우메이(나찰)"
+speaker_translation = "코메이(나찰)"
 original = "「たとえ記憶が無くても……生まれ変わっても、キミの中にはちゃんと受け継がれているものがある」"
 translation = "「설령 기억이 없어도…… 다시 태어났어도, 너의 안에는 제대로 이어져 오고 있는 게 있어」"
 
 [[dialogue]]
 speaker_original = "紅明（羅刹）"
-speaker_translation = "코우메이(나찰)"
+speaker_translation = "코메이(나찰)"
 original = "「かつて親父殿を止めることを諦めてしまっていたアタシを、同じ言葉で救ってくれた、『<ruby>斉天大聖<rt>せいてんたいせい</rt></ruby>』の心が」"
 translation = "「예전에 아버지를 멈추는 걸 포기했던 나를 똑같은 말로 구해줬던, 『제천대성』의 마음이」"
 
@@ -213,7 +213,7 @@ translation = "「제천대성……?」"
 
 [[dialogue]]
 speaker_original = "紅明（羅刹）"
-speaker_translation = "코우메이(나찰)"
+speaker_translation = "코메이(나찰)"
 original = "「『天にも<ruby>斉<rt>ひと</rt></ruby>しい大聖者』って意味の言葉で、孫悟空が名乗っていた称号さ。今風に言うと、二つ名ってやつかな」"
 translation = "「『하늘과 맞먹는 위대한 성자』라는 뜻의 말로, 손오공이 자칭했던 칭호야. 요즘 식으로 말하면 이명이라는 거려나」"
 
@@ -237,19 +237,19 @@ translation = "「하지만 언니가 그렇게 말해준다면 나는 그 이�
 
 [[dialogue]]
 speaker_original = "紅明（羅刹）"
-speaker_translation = "코우메이(나찰)"
+speaker_translation = "코메이(나찰)"
 original = "「ふふっ、そっか♪」"
 translation = "「후훗, 그렇구나♪」"
 
 [[dialogue]]
 speaker_original = "紅明（羅刹）"
-speaker_translation = "코우메이(나찰)"
+speaker_translation = "코메이(나찰)"
 original = "「――よし、じゃあ、気を取り直して、２０００年ぶりの牛魔王退治と行きますか！」"
 translation = "「──좋아, 그럼 기운 차리고 2000년 만에 우마왕 퇴치하러 가볼까!」"
 
 [[dialogue]]
 speaker_original = "紅明（羅刹）"
-speaker_translation = "코우메이(나찰)"
+speaker_translation = "코메이(나찰)"
 original = "「ダーリン、指示をお願い！」"
 translation = "「달링, 지시를 부탁해!」"
 
@@ -289,7 +289,7 @@ translation = "「내 이름은 제천대성 쿠셴! 현대에 다시 태어난 
 
 [[dialogue]]
 speaker_original = "紅明（羅刹）"
-speaker_translation = "코우메이(나찰)"
+speaker_translation = "코메이(나찰)"
 original = "「同じく、我こそは善財童子、牛紅明！\u3000前世の名は、紅孩児！\u3000牛魔王の元娘だぜ！」"
 translation = "「마찬가지로 나야말로 선재동자, 규우 코우메이! 전생의 이름은 홍해아! 우마왕의 전 딸이라구!」"
 

@@ -7,7 +7,7 @@ translation = "제12화, VS 별 먹보 섀도우·흑기사 전투 후, B"
 speaker_original = "ネーゼマイン（覚醒）"
 speaker_translation = "네제마인 (각성)"
 original = "「メルエル！\u3000敵陣の中央に風穴を開けるよ、突っ込んで！」"
-translation = "「메르엘! 적진 중앙에 구멍을 뚫을 거야, 돌격해!」"
+translation = "「멜엘! 적진 중앙에 구멍을 뚫을 거야, 돌격해!」"
 
 [[dialogue]]
 speaker_original = "メルエル（覚醒）"
@@ -194,7 +194,7 @@ translation = "「슈프림──── 데터미네이션!!!」"
 [[dialogue]]
 speaker = "unk"
 original = "アニュラス、メルエル、ネーゼマインのユニゾンアタックが、黒騎士に致命の一撃を与えた──"
-translation = "아뉴라스, 메르엘, 네제마인의 유니존 어택이 흑기사에게 치명적인 일격을 가했다──"
+translation = "아뉴라스, 멜엘, 네제마인의 유니존 어택이 흑기사에게 치명적인 일격을 가했다──"
 
 [[dialogue]]
 speaker_original = "黒騎士"
@@ -242,7 +242,7 @@ translation = "「부디── 평온하게────」"
 speaker_original = "クロト"
 speaker_translation = "쿠로토"
 original = "「……そうか。連絡ありがとう、メルエル」"
-translation = "「……그래. 연락 고마워, 메르엘」"
+translation = "「……그래. 연락 고마워, 멜엘」"
 
 [[dialogue]]
 speaker = "unk"

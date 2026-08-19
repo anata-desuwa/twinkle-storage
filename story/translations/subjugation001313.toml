@@ -20,7 +20,7 @@ translation = "「해낸 거야……!?」"
 speaker_original = "コハルコ"
 speaker_translation = "쿠하루코"
 original = "『堕天使マグダレナの霊力反応減少──いえ、この反応は！？\u3000ミルフィーさん、逃げて！』"
-translation = "『타락천사 막달레나의 영력 반응 감소── 아니, 이 반응은!? 밀피 씨, 도망쳐요!』"
+translation = "『타락천사 마그달레나의 영력 반응 감소── 아니, 이 반응은!? 밀피 씨, 도망쳐요!』"
 
 [[dialogue]]
 speaker_original = "ミルフィー"
@@ -55,7 +55,7 @@ translation = "「아아…… 세계는 어찌하여 나뉘어 있는 것일까
 speaker_original = "コハルコ"
 speaker_translation = "쿠하루코"
 original = "『堕天使マグダレナの霊力、反転して増大……接敵時の値を超えてさらに上昇……！\u3000霊力が２倍……３倍！？』"
-translation = "『타락천사 막달레나의 영력, 반전하여 증대…… 접적 시의 수치를 넘어 더욱 상승 중……! 영력이 2배…… 3배!?』"
+translation = "『타락천사 마그달레나의 영력, 반전하여 증대…… 접적 시의 수치를 넘어 더욱 상승 중……! 영력이 2배…… 3배!?』"
 
 [[dialogue]]
 speaker_original = "ヴィーナス"
@@ -79,13 +79,13 @@ translation = "「세계를 하나로…… 혼돈과 종언을……」"
 speaker_original = "ヴィーナス"
 speaker_translation = "비너스"
 original = "「！\u3000これが堕天使マグダレナの本気ってワケね……！」"
-translation = "「! 이게 타락천사 막달레나의 본때라는 거네……!」"
+translation = "「! 이게 타락천사 마그달레나의 본때라는 거네……!」"
 
 [[dialogue]]
 speaker_original = "コハルコ"
 speaker_translation = "쿠하루코"
 original = "『それにこの反応は……！？\u3000魔界中のモンスターが堕天使マグダレナの神殿に集まろうとしています！』"
-translation = "『거기다 이 반응은……!? 마계의 몬스터들이 타락천사 막달레나의 신전으로 집결하고 있습니다!』"
+translation = "『거기다 이 반응은……!? 마계의 몬스터들이 타락천사 마그달레나의 신전으로 집결하고 있습니다!』"
 
 [[dialogue]]
 speaker_original = "イニシュ"
@@ -121,7 +121,7 @@ translation = "「세계를 하나로…… 혼돈과 종언을……」"
 speaker_original = "ミルフィー"
 speaker_translation = "밀피"
 original = "「私……結局何もできなかった……ごめんなさい、マグダレナ様……」"
-translation = "「나…… 결국 아무것도 못 했어…… 죄송해요, 막달레나님……」"
+translation = "「나…… 결국 아무것도 못 했어…… 죄송해요, 마그달레나님……」"
 
 [[dialogue]]
 speaker_original = "ミルフィー"

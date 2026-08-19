@@ -75,7 +75,7 @@ translation = "왜 이 루비네는 **굳이 마지막 개체이다**라고 자�
 speaker_original = "ラストナンバー"
 speaker_translation = "라스트 넘버"
 original = "「姫咲メルエル。そして散乃ナターシャ。お前たちの戦いぶりは本当に見事だったわ」"
-translation = "「히메사키 메르엘. 그리고 치루노 나타샤. 너희의 싸움은 정말 훌륭했어」"
+translation = "「히메사키 멜엘. 그리고 치루노 나타샤. 너희의 싸움은 정말 훌륭했어」"
 
 [[dialogue]]
 speaker_original = "ラストナンバー"
@@ -92,7 +92,7 @@ translation = "「……윽!? 무, 무슨 말을 하는 거야!?」"
 [[dialogue]]
 speaker = "unk"
 original = "天界から招致した増援を一堂に会する作戦のことを、メルエルたちは緋宮クロトから聞いていた。"
-translation = "천계에서 초치한 증원을 한데 모으는 작전에 대해서 메르엘 일행은 히노미야 쿠로토에게 들어서 알고 있었다."
+translation = "천계에서 초치한 증원을 한데 모으는 작전에 대해서 멜엘 일행은 히노미야 쿠로토에게 들어서 알고 있었다."
 
 [[dialogue]]
 speaker = "unk"
@@ -193,7 +193,7 @@ translation = "「네뷸라니 디재스터 핸드니…… 애초에 미래에�
 speaker_original = "ナターシャ"
 speaker_translation = "나타샤"
 original = "「メルエル。やることは１つだよ」"
-translation = "「메르엘. 할 일은 하나야」"
+translation = "「멜엘. 할 일은 하나야」"
 
 [[dialogue]]
 speaker_original = "メルエル"
@@ -240,12 +240,12 @@ translation = "「지금이다!!」"
 [[dialogue]]
 speaker = "unk"
 original = "本来、従者であるナターシャは、吹き飛ばされるメルエルをサポートするのが普通だ。"
-translation = "본래 종자인 나타샤는 튕겨 나가는 메르엘을 서포트하는 것이 일반적이다."
+translation = "본래 종자인 나타샤는 튕겨 나가는 멜엘을 서포트하는 것이 일반적이다."
 
 [[dialogue]]
 speaker = "unk"
 original = "だからこその奇襲だった。極限までメルエルの影に隠れ、一息にラストナンバーの首を取る──はずだった。"
-translation = "그렇기에 노린 기습이었다. 극한까지 메르엘의 그림자에 숨어 단숨에 라스트 넘버의 목을 칠── 생각이었다."
+translation = "그렇기에 노린 기습이었다. 극한까지 멜엘의 그림자에 숨어 단숨에 라스트 넘버의 목을 칠── 생각이었다."
 
 [[dialogue]]
 speaker_original = "ナターシャ"
@@ -346,7 +346,7 @@ translation = "「무, 무슨 말을 하는 거야……!?」"
 speaker_original = "ラストナンバー"
 speaker_translation = "라스트 넘버"
 original = "「姫咲メルエル。お前の先祖は２０００年前に、この過ちに満ちた世界を刷新しようとした」"
-translation = "「히메사키 메르엘. 네 선조는 2000년 전에 이 잘못으로 가득 찬 세계를 쇄신하려 했지」"
+translation = "「히메사키 멜엘. 네 선조는 2000년 전에 이 잘못으로 가득 찬 세계를 쇄신하려 했지」"
 
 [[dialogue]]
 speaker_original = "ラストナンバー"
@@ -369,7 +369,7 @@ translation = "「자── 다시 한번. 눈을 뜨렴」"
 speaker_original = "ナターシャ"
 speaker_translation = "나타샤"
 original = "「──メルエルっ！\u3000避けて！！」"
-translation = "「──메르엘! 피해!!」"
+translation = "「──멜엘! 피해!!」"
 
 [[dialogue]]
 speaker_original = "メルエル"
@@ -380,7 +380,7 @@ translation = "「────꺄아아앗!?」"
 [[dialogue]]
 speaker = "unk"
 original = "まるで意思を持っているかのように瘴気がメルエルに殺到し、包み込んでゆく──"
-translation = "마치 의지를 가진 것처럼 장기가 메르엘에게 쇄도하여 감싸기 시작한다──"
+translation = "마치 의지를 가진 것처럼 장기가 멜엘에게 쇄도하여 감싸기 시작한다──"
 
 [[dialogue]]
 speaker_original = "ラストナンバー"
@@ -392,5 +392,5 @@ translation = "「미래를 바꾸기 위해 말은 많으면 많을수록 좋�
 speaker_original = "ラストナンバー"
 speaker_translation = "라스트 넘버"
 original = "「姫咲メルエル。お前をリクリエの使徒として──再創生の手伝いをさせてあげましょう」"
-translation = "「히메사키 메르엘. 너를 리크리에의 사도로서── 재창조를 돕게 해주지」"
+translation = "「히메사키 멜엘. 너를 리크리에의 사도로서── 재창조를 돕게 해주지」"
 

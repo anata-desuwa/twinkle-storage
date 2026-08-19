@@ -66,7 +66,7 @@ translation = "「굉장한 상황이 되어 있네─. 헤에, 저게 창조신
 [[dialogue]]
 speaker = "unk"
 original = "メルエルたちの背後には、俺も名を知らない膨大な数の天使たちの姿──それだけじゃない！"
-translation = "메르엘 일행의 등 뒤에는 나도 이름을 모르는 방대한 수의 천사들의 모습── 그뿐만이 아니다!"
+translation = "멜엘 일행의 등 뒤에는 나도 이름을 모르는 방대한 수의 천사들의 모습── 그뿐만이 아니다!"
 
 [[dialogue]]
 speaker = "unk"
@@ -122,7 +122,7 @@ translation = "「피가 끓고 살이 떨린다는 건 이런 것이로군, 인
 [[dialogue]]
 speaker = "unk"
 original = "マグダレナとアルモタヘルだけではない。他の守護天使たちの姿も見える！"
-translation = "막달레나와 아르모타헬뿐만이 아니다. 다른 수호천사들의 모습도 보인다!"
+translation = "막달레나와 알모타헬뿐만이 아니다. 다른 수호천사들의 모습도 보인다!"
 
 [[dialogue]]
 speaker = "unk"
@@ -561,17 +561,17 @@ translation = "「회장님…… 난전이 되기 전에 나한테도 부탁해
 speaker_original = "クロト"
 speaker_translation = "쿠로토"
 original = "「メルエル──君も天界で、何か新しいアルケインコードを？」"
-translation = "「메르엘── 너도 천계에서 뭔가 새로운 아르케인 코드를?」"
+translation = "「멜엘── 너도 천계에서 뭔가 새로운 아르케인 코드를?」"
 
 [[dialogue]]
 speaker = "unk"
 original = "今まで、メルエルにもアルケインノヴァエクストリームを試したことはあった。"
-translation = "지금까지 메르엘에게도 아르케인 노바 익스트림을 시도한 적은 있었다."
+translation = "지금까지 멜엘에게도 아르케인 노바 익스트림을 시도한 적은 있었다."
 
 [[dialogue]]
 speaker = "unk"
 original = "しかし、『<ruby>魔王の力を貸し与える技<rt>アルケインノヴァエクストリーム</rt></ruby>』と『メルエルの血に流れる魔王因子』が反発するせいなのか、技が成功することはなかった。"
-translation = "하지만, 『<ruby>마왕의 힘을 빌려주는 기술<rt>아르케인 노바 익스트림</rt></ruby>』과 『메르엘의 피에 흐르는 마왕 인자』가 반발하는 탓인지 기술이 성공한 적은 없었다."
+translation = "하지만, 『<ruby>마왕의 힘을 빌려주는 기술<rt>아르케인 노바 익스트림</rt></ruby>』과 『멜엘의 피에 흐르는 마왕 인자』가 반발하는 탓인지 기술이 성공한 적은 없었다."
 
 [[dialogue]]
 speaker_original = "メルエル"
@@ -630,7 +630,7 @@ translation = "「나는 <b>천계의 마왕은 되지 않겠다</b>고, 그렇�
 [[dialogue]]
 speaker = "unk"
 original = "メルエルのその宣言を聞いた瞬間──彼女の胸を中心に、清廉に輝く魂のきらめきが、爆発的な広がりを見せた。"
-translation = "메르엘의 그 선언을 들은 순간── 그녀의 가슴을 중심으로 청렴하게 빛나는 영혼의 반짝임이 폭발적으로 퍼져 나갔다."
+translation = "멜엘의 그 선언을 들은 순간── 그녀의 가슴을 중심으로 청렴하게 빛나는 영혼의 반짝임이 폭발적으로 퍼져 나갔다."
 
 [[dialogue]]
 speaker_original = "メルエル"
@@ -654,7 +654,7 @@ translation = "「마왕 인자라는 건 정말 마음의 힘에 영향을 많�
 speaker_original = "メルエル"
 speaker_translation = "메르엘"
 original = "「だって私は、魔王メルエルなんかじゃなくって……」"
-translation = "「왜냐면 나는 마왕 메르엘 같은 게 아니라……」"
+translation = "「왜냐면 나는 마왕 멜엘 같은 게 아니라……」"
 
 [[dialogue]]
 speaker_original = "メルエル"
@@ -666,7 +666,7 @@ translation = "「마왕 쿠로토의 권속으로서 너의 힘으로 싸우고
 speaker_original = "クロト"
 speaker_translation = "쿠로토"
 original = "「……わかった。メルエル。俺の剣として、世界を救う手助けをしてほしい」"
-translation = "「……알았어. 메르엘. 나의 검으로서 세계를 구하는 일을 도와줘」"
+translation = "「……알았어. 멜엘. 나의 검으로서 세계를 구하는 일을 도와줘」"
 
 [[dialogue]]
 speaker_original = "メルエル"

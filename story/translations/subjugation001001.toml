@@ -1,7 +1,7 @@
 [[dialogue]]
 speaker = "unk"
 original = "某日、俺が守護天使の２人――マグダレナさんとアルモタヘルさんに頼まれて、街での買い物に付き添っている際に、アステライトが出現。"
-translation = "어느 날, 내가 수호천사인 두 사람── 막달레나 씨와 아르모타헬 씨의 부탁을 받아 거리의 쇼핑에 동행하던 중, 아스텔라이트가 출현."
+translation = "어느 날, 내가 수호천사인 두 사람── 마그달레나 씨와 아르모타헬 씨의 부탁을 받아 거리의 쇼핑에 동행하던 중, 아스텔라이트가 출현."
 
 [[dialogue]]
 speaker = "unk"
@@ -64,7 +64,7 @@ translation = "그때였다."
 speaker_original = "アルモタヘル"
 speaker_translation = "아르모타헬"
 original = "「！\u3000マグダレナ、後ろだ！」"
-translation = "「! 막달레나, 뒤다!」"
+translation = "「! 마그달레나, 뒤다!」"
 
 [[dialogue]]
 speaker_original = "マグダレナ"
