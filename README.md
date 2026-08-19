@@ -27,3 +27,10 @@
 3. `GeminiModel`에 모델 이름 입력하기
 5. `GeminiThinkingLevel` 모델에 따라 설정하기(3.7-flash 3.1-pro는 LOW, 그 외 모델 minimal 권장)
 6. `FallbackProvider`를 Gemini로 설정하기
+
+<br>
+
+# 에디터 사용 방법
+1. 게임 실행 후 `TranslatorEditor`폴더에 있는 TranslatorEditor.exe실행
+2. 플러그인 경로 `BepInEx\plugins\TwinkleTranslator` 경로 지정
+3. 이용하기
