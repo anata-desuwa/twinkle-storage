@@ -1,0 +1,443 @@
+[[dialogue]]
+speaker = "unk"
+original = "第３話,聖沙と内緒の趣味,P"
+translation = "제3화, 세이사와의 비밀 취미, P"
+
+[[dialogue]]
+speaker = "unk"
+original = "梨緒と知り合ったその日。聖沙はフィオナに誘われ、星見家に泊まることになった。"
+translation = "리오와 알게 된 그날. 세이사는 피오나의 권유로 호시미 가에서 묵게 되었다."
+
+[[dialogue]]
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
+original = "「それでは紹介しますね。こちらが私の姉さん――星見アポロです」"
+translation = "「그럼 소개할게요. 이쪽이 저희 언니―― 호시미 아폴로예요」"
+
+[[dialogue]]
+speaker_original = "アポロ"
+speaker_translation = "아폴로"
+original = "「おう！\u3000お前が流星クルセイダースの聖沙か。フィオナから話は聞いているぜ！」"
+translation = "「오우! 네가 유성 크루세이더즈의 세이사가. 피오나한테 얘기 들었다고!」"
+
+[[dialogue]]
+speaker_original = "聖沙"
+speaker_translation = "미사"
+original = "「お邪魔しております。聖沙・<ruby>Ｂ<rt>ブリジッタ</rt></ruby>・クリステレスです。本日はよろしくお願い致します♪」"
+translation = "「신세 좀 지겠습니다. 세이사 <ruby>B<rt>브리짓타</rt></ruby> 크리스텔레스입니다. 오늘 잘 부탁드립니다♪」"
+
+[[dialogue]]
+speaker_original = "アポロ"
+speaker_translation = "아폴로"
+original = "「ん？\u3000なんで敬語なんだ？」"
+translation = "「응? 왜 존댓말이야?」"
+
+[[dialogue]]
+speaker_original = "聖沙"
+speaker_translation = "미사"
+original = "「えっ？\u3000アポロさんは私よりも年上ですし……」"
+translation = "「에? 아폴로 씨는 저보다 연상이시기도 하고……」"
+
+[[dialogue]]
+speaker_original = "アポロ"
+speaker_translation = "아폴로"
+original = "「あー、そういうことか！\u3000あははっ、聖沙は真面目だな♪」"
+translation = "「아― 그런 건가! 아하하, 세이사는 진지하구나♪」"
+
+[[dialogue]]
+speaker_original = "アポロ"
+speaker_translation = "아폴로"
+original = "「でも、敬語は別に要らないぜ！\u3000あたしも気にせず話すからさ♪」"
+translation = "「하지만 존댓말은 딱히 필요 없다고! 나도 신경 쓰지 않고 말할 테니까 말야♪」"
+
+[[dialogue]]
+speaker_original = "梨緒"
+speaker_translation = "리오"
+original = "「私もアポロとは、そういうのは気にせずに話しているしな」"
+translation = "「나도 아폴로와는 그런 거 신경 쓰지 않고 말하고 있고 말이지」"
+
+[[dialogue]]
+speaker_original = "聖沙"
+speaker_translation = "미사"
+original = "「アポロさんがいいなら――わかったわ。じゃあ、普通に話させてもらうわね♪」"
+translation = "「아폴로 씨가 괜찮다면―― 알겠어요. 그럼 편하게 이야기할게♪」"
+
+[[dialogue]]
+speaker_original = "アポロ"
+speaker_translation = "아폴로"
+original = "「おう！\u3000よろしくな、聖沙♪」"
+translation = "「오우! 잘 부탁해, 세이샤♪」"
+
+[[dialogue]]
+speaker = "unk"
+original = "それから、聖沙は梨緒の部屋を訪れていた。"
+translation = "그 후, 세이샤는 리오의 방을 방문해 있었다."
+
+[[dialogue]]
+speaker_original = "梨緒"
+speaker_translation = "리오"
+original = "「ここが星見家で間借りさせてもらっている私の部屋だ。見たいと言っていた『ぶちゃ猫』のグッズは、そこの棚に並べてある」"
+translation = "「여기가 호시미 가문에서 방을 빌려 쓰고 있는 내 방이다. 보고 싶다고 했던 『못난이 고양이』 굿즈는 저쪽 선반에 늘어놓았어」"
+
+[[dialogue]]
+speaker_original = "聖沙"
+speaker_translation = "미사"
+original = "「わあっ、可愛い<emoji=heart04>\u3000それに、他の素敵なぬいぐるみさん達もいっぱい……<emoji=heart04>」"
+translation = "「와아, 귀여워<emoji=heart04> 거기다 다른 근사한 인형 분들도 가득……<emoji=heart04>」"
+
+[[dialogue]]
+speaker_original = "梨緒"
+speaker_translation = "리오"
+original = "「ああ……その、外ではあまり言えないが、趣味で集めていてな。街で可愛いと思ったものを見かけると、つい買ってきてしまう」"
+translation = "「아아…… 그, 밖에서는 별로 말할 수 없지만, 취미로 모으고 있어서 말이지. 거리에서 귀엽다고 생각한 걸 발견하면 나도 모르게 사 와 버리고 말아」"
+
+[[dialogue]]
+speaker_original = "聖沙"
+speaker_translation = "미사"
+original = "「ふふっ、私も同じよ♪\u3000部屋に沢山ぬいぐるみが置いてあるの♪」"
+translation = "「후후, 나도 마찬가지야♪ 방에 인형이 잔뜩 놓여 있거든♪」"
+
+[[dialogue]]
+speaker_original = "梨緒"
+speaker_translation = "리오"
+original = "「……そうか」"
+translation = "「……그렇군」"
+
+[[dialogue]]
+speaker_original = "梨緒"
+speaker_translation = "리오"
+original = "「不思議だな。今日会ったばかりなのに、聖沙には見せてもいいと思えた」"
+translation = "「신기하네. 오늘 처음 만났을 뿐인데, 세이샤에게는 보여줘도 괜찮겠다고 생각했어」"
+
+[[dialogue]]
+speaker_original = "聖沙"
+speaker_translation = "미사"
+original = "「私も同じよ。恥ずかしくて、なかなか言えないわよね。だから、部屋を見せてくれてありがとう♪」"
+translation = "「나도 마찬가지야. 부끄러워서 좀처럼 말할 수 없지. 그러니까 방을 보여줘서 고마워♪」"
+
+[[dialogue]]
+speaker_original = "聖沙"
+speaker_translation = "미사"
+original = "「って……あれ？\u3000この可愛い表紙のノートって……？」"
+translation = "「어라……? 이 귀여운 표지의 노트는……?」"
+
+[[dialogue]]
+speaker_original = "梨緒"
+speaker_translation = "리오"
+original = "「っ、それは……！」"
+translation = "「읏, 그것은……!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "梨緒は慌てて駆け寄って、ノートの上に手を置いて押さえる。"
+translation = "리오는 서둘러 달려가 노트 위에 손을 얹어 눌러 가린다."
+
+[[dialogue]]
+speaker_original = "梨緒"
+speaker_translation = "리오"
+original = "「こ、これは勉強用ので、表紙が可愛いから使っているだけなんだ」"
+translation = "「이, 이건 공부용이고 표지가 귀여워서 쓰고 있을 뿐이야」"
+
+[[dialogue]]
+speaker_original = "聖沙"
+speaker_translation = "미사"
+original = "「……ねぇ」"
+translation = "「……저기」"
+
+[[dialogue]]
+speaker_original = "聖沙"
+speaker_translation = "미사"
+original = "「その……私たちの趣味が似てるって前提の上で……直感みたいなものなんだけど……」"
+translation = "「그…… 우리 취미가 비슷하다는 전제하에…… 직감 같은 거지만……」"
+
+[[dialogue]]
+speaker_original = "聖沙"
+speaker_translation = "미사"
+original = "「それって……もしかして、『ポエムノート』だったりする……？」"
+translation = "「그거…… 혹시 『시 노트』라거나 하는 거야……?」"
+
+[[dialogue]]
+speaker_original = "梨緒"
+speaker_translation = "리오"
+original = "「なっ……！\u3000待ってくれ……まさか……」"
+translation = "「뭣……! 기다려 다오…… 설마……」"
+
+[[dialogue]]
+speaker_original = "梨緒"
+speaker_translation = "리오"
+original = "「聖沙も……ポエムを書くのか……？」"
+translation = "「세이샤도…… 시를 쓰는 건가……?」"
+
+[[dialogue]]
+speaker_original = "聖沙"
+speaker_translation = "미사"
+original = "「え、ええ……それに、雑誌やラジオのポエムコーナーに、密かに投稿してたり……」"
+translation = "「어, 언…… 그리고 잡지나 라디오의 시 코너에 몰래 투고하기도 하고……」"
+
+[[dialogue]]
+speaker_original = "梨緒"
+speaker_translation = "리오"
+original = "「なん……だと……？」"
+translation = "「뭐……라고……?」"
+
+[[dialogue]]
+speaker_original = "聖沙"
+speaker_translation = "미사"
+original = "「それも……一緒？」"
+translation = "「그것도…… 똑같아?」"
+
+[[dialogue]]
+speaker_original = "梨緒"
+speaker_translation = "리오"
+original = "「ああ……そうだ」"
+translation = "「아아…… 그래」"
+
+[[dialogue]]
+speaker_original = "聖沙"
+speaker_translation = "미사"
+original = "「……わ、私ね？\u3000今までポエムが趣味の人って、周りにいなくて……」"
+translation = "「……나, 나 말이지? 지금까지 시가 취미인 사람은 주변에 없어서……」"
+
+[[dialogue]]
+speaker_original = "梨緒"
+speaker_translation = "리오"
+original = "「私もだ……」"
+translation = "「나도다……」"
+
+[[dialogue]]
+speaker_original = "聖沙"
+speaker_translation = "미사"
+original = "「だから、今こうして同じ趣味仲間と出会うことができて、閃いちゃったんだけど……」"
+translation = "「그래서 지금 이렇게 같은 취미를 가진 동료를 만날 수 있어서 번뜩 생각해 낸 건데……」"
+
+[[dialogue]]
+speaker_original = "聖沙"
+speaker_translation = "미사"
+original = "「ポエムで勝負って……どうかしら？」"
+translation = "「시로 승부하는 건…… 어떨까?」"
+
+[[dialogue]]
+speaker_original = "梨緒"
+speaker_translation = "리오"
+original = "「……奇遇だな。私も、同じことを考えていた――」"
+translation = "「……기우로군. 나도 같은 생각을 하고 있었다――」"
+
+[[dialogue]]
+speaker = "unk"
+original = "そうして、２人は初めて、ポエムで勝負をすることになった。"
+translation = "그리하여 두 사람은 처음으로 시로 승부를 겨루게 되었다."
+
+[[dialogue]]
+speaker_original = "聖沙"
+speaker_translation = "미사"
+original = "「じゃ、じゃあ……私から……」"
+translation = "「그, 그럼…… 나부터……」"
+
+[[dialogue]]
+speaker_original = "梨緒"
+speaker_translation = "리오"
+original = "「あ、ああ……」"
+translation = "「아, 아아……」"
+
+[[dialogue]]
+speaker_original = "聖沙"
+speaker_translation = "미사"
+original = "「すぅ～……はあぁ～……」"
+translation = "「후우~…… 하아~……」"
+
+[[dialogue]]
+speaker_original = "聖沙"
+speaker_translation = "미사"
+original = "『遠く離れた空の下、同じ星を見上げていた。出会うはずのない光が、いま胸の奥で重なっていく。アナザークルセイダース……<emoji=heart04>』"
+translation = "『멀리 떨어진 하늘 아래, 같은 별을 올려다보고 있었어. 만날 리 없던 빛이 지금 가슴속 깊은 곳에서 겹쳐져 가. 어나더 크루세이더즈……<emoji=heart04>』"
+
+[[dialogue]]
+speaker_original = "梨緒"
+speaker_translation = "리오"
+original = "「……！」"
+translation = "「……!」"
+
+[[dialogue]]
+speaker_original = "梨緒"
+speaker_translation = "리오"
+original = "「コホン……」"
+translation = "「크흠……」"
+
+[[dialogue]]
+speaker_original = "梨緒"
+speaker_translation = "리오"
+original = "『交わらないはずの軌道が、いま重なり合う奇跡。ＡとＢ、違うはずの私たち、２人は隣り合う。アナザースターナイツ……☆』"
+translation = "『교차하지 않을 터였던 궤도가 지금 겹쳐지는 기적. A와 B, 다를 터였던 우리, 두 사람은 서로 인접해. 어나더 스타 나이츠……☆』"
+
+[[dialogue]]
+speaker_original = "聖沙"
+speaker_translation = "미사"
+original = "「……！\u3000す……」"
+translation = "「……! 멋……」"
+
+[[dialogue]]
+speaker_original = "聖沙"
+speaker_translation = "미사"
+original = "「素敵な詩ね、梨緒……♪」"
+translation = "「멋진 시네, 리오……♪」"
+
+[[dialogue]]
+speaker_original = "梨緒"
+speaker_translation = "리오"
+original = "「キミもだ、聖沙……今こそ、確信した」"
+translation = "「너도다, 세이샤…… 이제야 확신했어」"
+
+[[dialogue]]
+speaker_original = "聖沙"
+speaker_translation = "미사"
+original = "「ええ、私もよ――」"
+translation = "「응, 나도야――」"
+
+[[dialogue]]
+speaker_original = "梨緒"
+speaker_translation = "리오"
+original = "「私たちは……」"
+translation = "「우리는……」"
+
+[[dialogue]]
+speaker_original = "聖沙"
+speaker_translation = "미사"
+original = "「アナザーステラね<emoji=heart04>」"
+translation = "「어나더 스텔라네<emoji=heart04>」"
+
+[[dialogue]]
+speaker_original = "梨緒"
+speaker_translation = "리오"
+original = "「ああ――」"
+translation = "「아아――」"
+
+[[dialogue]]
+speaker_original = "梨緒"
+speaker_translation = "리오"
+original = "「ふっ……ふふっ……」"
+translation = "「훗…… 후후……」"
+
+[[dialogue]]
+speaker_original = "聖沙"
+speaker_translation = "미사"
+original = "「ふふふっ……♪」"
+translation = "「후후후……♪」"
+
+[[dialogue]]
+speaker = "unk"
+original = "――その後。"
+translation = "――그 후."
+
+[[dialogue]]
+speaker_original = "梨緒"
+speaker_translation = "리오"
+original = "『同じ心が、違う言葉で、同じ想いを紡いでいく☆』"
+translation = "『같은 마음이 다른 언어로 같은 마음을 자아내 가☆』"
+
+[[dialogue]]
+speaker_original = "聖沙"
+speaker_translation = "미사"
+original = "『響き合う鼓動が新しい言葉を生み出していく<emoji=heart04>』"
+translation = "『공명하는 고동이 새로운 언어를 만들어 내 가<emoji=heart04>』"
+
+[[dialogue]]
+speaker_original = "梨緒"
+speaker_translation = "리오"
+original = "『重なり合う感情が、境界を越えて共鳴して☆』"
+translation = "『포개어지는 감정이 경계를 넘어 공명하고☆』"
+
+[[dialogue]]
+speaker_original = "聖沙"
+speaker_translation = "미사"
+original = "『２つの光が溶け合って、ひとつの輝きへ変わっていくの<emoji=heart04>』"
+translation = "『두 개의 빛이 녹아들어 하나의 빛남으로 바뀌어 가<emoji=heart04>』"
+
+[[dialogue]]
+speaker_original = "聖沙"
+speaker_translation = "미사"
+original = "「――すごい<emoji=heart04>\u3000どんどん言葉が溢れてくるわ♪」"
+translation = "「――대단해<emoji=heart04> 점점 시어가 넘쳐흘러 나와♪」"
+
+[[dialogue]]
+speaker_original = "梨緒"
+speaker_translation = "리오"
+original = "「ああ……！\u3000こんな感覚、初めてだ……！」"
+translation = "「아아……! 이런 감각, 처음이야……!」"
+
+[[dialogue]]
+speaker_original = "聖沙"
+speaker_translation = "미사"
+original = "「もっと聞かせて、梨緒<emoji=heart04>」"
+translation = "「더 들려줘, 리오<emoji=heart04>」"
+
+[[dialogue]]
+speaker_original = "梨緒"
+speaker_translation = "리오"
+original = "「キミもだ――聖沙☆」"
+translation = "「너도 말이야――세이사☆」"
+
+[[dialogue]]
+speaker_original = "聖沙"
+speaker_translation = "미사"
+original = "「ふふっ、ふふふっ<emoji=heart04>」"
+translation = "「후후, 후후후<emoji=heart04>」"
+
+[[dialogue]]
+speaker_original = "梨緒"
+speaker_translation = "리오"
+original = "「ははっ、はははっ☆」"
+translation = "「하하, 하하하☆」"
+
+[[dialogue]]
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
+original = "「えっと……これは……」"
+translation = "「저기…… 이건……」"
+
+[[dialogue]]
+speaker_original = "アポロ"
+speaker_translation = "아폴로"
+original = "「お前ら、何してんだ……？」"
+translation = "「너희, 뭐 하고 있냐……?」"
+
+[[dialogue]]
+speaker_original = "梨緒"
+speaker_translation = "리오"
+original = "「なっ……フィオナとアポロ！？\u3000どうしてここに！？」"
+translation = "「힉…… 피오나랑 아폴로!? 어째서 여기에!?」"
+
+[[dialogue]]
+speaker_original = "アポロ"
+speaker_translation = "아폴로"
+original = "「いや、あたしたちも後から部屋に遊びに行くって言ってただろ？」"
+translation = "「아니, 우리도 나중에 방으로 놀러 간다고 말했었잖아?」"
+
+[[dialogue]]
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
+original = "「ご、ごめんなさい！\u3000一応ノックしたんですが、楽しそうな声が聞こえて来てるのに、返事がなくて……」"
+translation = "「죄, 죄송해요! 일단 노크는 했습니다만, 즐거운 듯한 목소리가 들려오는데도 대답이 없으셔서……」"
+
+[[dialogue]]
+speaker_original = "アポロ"
+speaker_translation = "아폴로"
+original = "「で、２人で楽しそうに、何を書いてたんだ？」"
+translation = "「그래서, 둘이서 즐겁게 뭘 쓰고 있던 거냐?」"
+
+[[dialogue]]
+speaker_original = "梨緒"
+speaker_translation = "리오"
+original = "「～～っ！\u3000み――」"
+translation = "「~~으! 보――」"
+
+[[dialogue]]
+speaker_original = "聖沙"
+speaker_translation = "미사"
+original = "「見ないでぇぇぇ～～っ！！！」"
+translation = ""
+
+[[dialogue]]
+speaker = "unk"
+original = "２人は仲良く顔を真っ赤にして、叫んでしまうのであった。"
+translation = "두 사람은 사이좋게 얼굴을 새빨갛게 익히고서, 소리치고 마는 것이었다."
+

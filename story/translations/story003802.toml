@@ -1,0 +1,398 @@
+[[dialogue]]
+speaker = "unk"
+original = "リゾート結界で、異世界の『流星クルセイダース』と再会した俺たち。"
+translation = "리조트 결계에서, 이세계의 『유성 쿠루세이더스』와 재회한 우리들."
+
+[[dialogue]]
+speaker = "unk"
+original = "一体何が起きて世界が繋がったのか、ひとまず話し合うことになった。"
+translation = "대체 무슨 일이 일어나서 세계가 연결된 것인지, 우선 이야기해 보기로 했다."
+
+[[dialogue]]
+speaker_original = "リア"
+speaker_translation = "리아"
+original = "「――なるほど。マトイちゃんたちもちょうど、リゾート結界へ遊びに来てたところだったんだね」"
+translation = "「――과연. 마토이짱 일행도 마침, 리조트 결계로 놀러 왔던 참이었구나」"
+
+[[dialogue]]
+speaker_original = "マトイ"
+speaker_translation = "마토이"
+original = "「はい。私と会長、それにヴィーナス、アナ、サーシャさんの新星星徒会メンバーと、ヘレナさんで来ていました」"
+translation = "「네. 저와 회장, 그리고 비너스, 아나, 서샤 씨의 신성 학생회 멤버와, 헬레나 씨가 함께 왔었습니다」"
+
+[[dialogue]]
+speaker_original = "ヘレナ"
+speaker_translation = "헬레나"
+original = "「今朝、『魂の囁き』が聞こえてな。皆でリゾート結界で休日を過ごさないかと、私が声をかけたのだ」"
+translation = "「오늘 아침, 『영혼의 속삭임』이 들려서 말이지. 다 함께 리조트 결계에서 휴일을 보내지 않겠냐고, 내가 말을 꺼낸 것이다」"
+
+[[dialogue]]
+speaker = "unk"
+original = "そうしたら、突然空間の穴が開いて……"
+translation = "랬더니, 갑자기 공간의 구멍이 뚫려서……"
+
+[[dialogue]]
+speaker_original = "ヘレナ"
+speaker_translation = "헬레나"
+original = "「気づけば、マトイとここにいて……ヴィーナス、アナ、サーシャの姿はなかった」"
+translation = "「정신을 차려보니, 마토이와 여기에 있었고…… 비너스, 아나, 서샤의 모습은 없었다」"
+
+[[dialogue]]
+speaker_original = "ヘレナ"
+speaker_translation = "헬레나"
+original = "「他に誰かいないか探していたところ、魔王と一緒にいるそなたたちを見つけた、というわけだ」"
+translation = "「달리 누군가 없는지 찾던 중에, 마왕과 함께 있는 그대들을 발견했다, 라는 뜻이다」"
+
+[[dialogue]]
+speaker_original = "ヘレナ（原作）"
+speaker_translation = "헬레나(원작)"
+original = "「なるほどね～」"
+translation = "「과연~」"
+
+[[dialogue]]
+speaker_original = "ヘレナ（原作）"
+speaker_translation = "헬레나(원작)"
+original = "「それで、ルネアちゃん。何が起こったのか、わかりそうかしら？」"
+translation = "「그래서, 루네아짱. 무슨 일이 일어난 건지, 알 것 같니?」"
+
+[[dialogue]]
+speaker_original = "ルネア"
+speaker_translation = "루네아"
+original = "「ええ。私の力で、少し結界内を調べてみたんだけど……」"
+translation = "「응. 내 힘으로, 조금 결계 내부를 조사해 보았는데……」"
+
+[[dialogue]]
+speaker_original = "ルネア"
+speaker_translation = "루네아"
+original = "「どうやら私たちは――このリゾート結界に閉じ込められてしまっているみたいね」"
+translation = "「아무래도 우리들은―― 이 리조트 결계에 갇혀버리고 만 것 같네」"
+
+[[dialogue]]
+speaker_original = "聖沙"
+speaker_translation = "미사"
+original = "「えっ！？\u3000それって、外に出られないってこと……！？」"
+translation = "「에!? 그것이라는 건, 밖으로 나갈 수 없다는 것……!?」"
+
+[[dialogue]]
+speaker_original = "ルネア"
+speaker_translation = "루네아"
+original = "「ええ。何が原因なのかは、まだわからないけれど……」"
+translation = "「응. 무엇이 원인인지는, 아직 모르겠지만……」"
+
+[[dialogue]]
+speaker_original = "ルネア"
+speaker_translation = "루네아"
+original = "「あと、ちょっと調べてわかったのは、このリゾート結界は、私が作ったものではなくて――」"
+translation = "「그리고, 조금 조사해서 알게 된 것은, 이 리조트 결계는, 내가 만든 것이 아니라――」"
+
+[[dialogue]]
+speaker_original = "ルネア"
+speaker_translation = "루네아"
+original = "「どうやら、<b>流星市国の方</b>にあるリゾート結界の『プライベートビーチ』みたいね」"
+translation = "「아무래도, <b>유성시국 쪽</b>에 있는 리조트 결계의 『프라이빗 비치』 같네」"
+
+[[dialogue]]
+speaker_original = "ロロット"
+speaker_translation = "로롯토"
+original = "「……？\u3000どういうことなのです？」"
+translation = "「……? 무슨 뜻인 것인가요?」"
+
+[[dialogue]]
+speaker_original = "リア"
+speaker_translation = "리아"
+original = "「それって……会長くんたちが、私たちの世界へ飛ばされて来たんじゃなくて……」"
+translation = "「그건…… 회장군 일행이, 우리들의 세계로 날아온 게 아니라……」"
+
+[[dialogue]]
+speaker_original = "聖沙"
+speaker_translation = "미사"
+original = "「私たちの方が、あの空間の穴に吸い込まれて、異世界へ転移してきちゃった、ってこと……！？」"
+translation = "「우리 쪽이, 그 공간의 구멍에 빨려 들어가서, 이세계로 전이해와버렸다, 라는 뜻……!?」"
+
+[[dialogue]]
+speaker_original = "ルネア"
+speaker_translation = "루네아"
+original = "「そうなるわね」"
+translation = "「그렇게 되는 거네」"
+
+[[dialogue]]
+speaker_original = "ナナカ"
+speaker_translation = "나나카"
+original = "「それじゃあ、シンは１人だけ穴に吸い込まれずに、向こうの世界に残ってるってことなのかな……？」"
+translation = "「그러면, 신은 혼자서만 구멍에 빨려 들어가지 않고, 저쪽 세계에 남아있다는 뜻인 걸까……?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "なんとなくだけど、俺の中にいる気がする……"
+translation = "왠지모르게지만, 내 안에 있는 느낌이 들어……"
+
+[[dialogue]]
+speaker = "unk"
+original = "いや、それが……"
+translation = "아니, 그게……"
+
+[[dialogue]]
+speaker_original = "ナナカ"
+speaker_translation = "나나카"
+original = "「え？\u3000それって、どういう……？」"
+translation = "「에? 그건, 무슨……?」"
+
+[[dialogue]]
+speaker_original = "ルネア"
+speaker_translation = "루네아"
+original = "「……！\u3000本当だわ……！\u3000会長の中に、確かにシンの気配を感じる……！」"
+translation = "「……! 정말이다……! 회장 안에, 분명히 신의 기운이 느껴져……!」"
+
+[[dialogue]]
+speaker_original = "ルネア"
+speaker_translation = "루네아"
+original = "「これは……会長とシンが、１つに『融合』した状態になってしまっているんだわ……！」"
+translation = "「이건…… 회장과 신이, 하나로 『융합』된 상태가 되어버린 거야……!」"
+
+[[dialogue]]
+speaker_original = "マトイ"
+speaker_translation = "마토이"
+original = "「えぇっ！？\u3000融合って、そんなことあるの……！？」"
+translation = "「에에!? 융합이라니, 그런 일이 있는 거야……!?」"
+
+[[dialogue]]
+speaker_original = "ルネア"
+speaker_translation = "루네아"
+original = "「私も信じられないけど……事実よ」"
+translation = "「나도 믿기지 않지만…… 사실이야」"
+
+[[dialogue]]
+speaker_original = "パッキー"
+speaker_translation = "팟키"
+original = "「おいおい、マジかよ……！」"
+translation = "「어이어이, 진짜냐고……!」"
+
+[[dialogue]]
+speaker_original = "ロロット"
+speaker_translation = "로롯토"
+original = "「つまり、２人の会長さんが『超会長』さんにフュージョンして、パワーアップ魔王さんになったということですか！？」"
+translation = "「즉, 두 분의 회장님이 『초회장』님으로 퓨전하셔서, 파워업 마왕님이 되었다는 것인가요!?」"
+
+[[dialogue]]
+speaker_original = "聖沙"
+speaker_translation = "미사"
+original = "「そ、それって……咲良クンは大丈夫なの……！？」"
+translation = "「그, 그건…… 사쿠라 군은 괜찮은 거야……!?」"
+
+[[dialogue]]
+speaker_original = "ルネア"
+speaker_translation = "루네아"
+original = "「今のところ、会長の中でシンの『魂』が眠りについているような状態ね……」"
+translation = "「지금으로서는, 회장 안에서 신의 『영혼』이 잠에 들어있는 듯한 상태네……」"
+
+[[dialogue]]
+speaker_original = "リア"
+speaker_translation = "리아"
+original = "「ルネアちゃんの力で、シンくんを目覚めさせて、２人を分離させることはできないのかな？」"
+translation = "「루네아짱의 힘으로, 신 군을 눈뜨게 해서, 두 사람을 분리시키는 것은 불가능한 걸까?」"
+
+[[dialogue]]
+speaker_original = "ルネア"
+speaker_translation = "루네아"
+original = "「そうしたいのはやまやまだけど……このリゾート結界が、私たちの世界じゃなくて、異世界側にあるっていうのが問題ね」"
+translation = "「그렇게 하고 싶은 마음은 굴뚝같지만…… 이 리조트 결계가, 우리들의 세계가 아니라, 이세계 쪽에 있다는 것이 문제네」"
+
+[[dialogue]]
+speaker_original = "マトイ"
+speaker_translation = "마토이"
+original = "「そういえば前に、ルネアさんが私たちの世界へ来た時、『力が制限される』って……」"
+translation = "「그러고 보니 전에, 루네아 씨가 우리들의 세계에 왔을 때, 『힘이 제한된다』라고……」"
+
+[[dialogue]]
+speaker_original = "ルネア"
+speaker_translation = "루네아"
+original = "「そう。ここは私が管理する世界じゃないから、好き勝手には力を振るえないのよ」"
+translation = "「맞아. 여기는 내가 관리하는 세계가 아니니까, 마음대로 힘을 떨칠 수 없어」"
+
+[[dialogue]]
+speaker = "unk"
+original = "あと、俺も今は『力』が使えないみたいだ"
+translation = "그리고, 나도 지금은 『힘』을 사용할 수 없는 것 같다"
+
+[[dialogue]]
+speaker = "unk"
+original = "先程目を覚ました時から、俺は『魔王の力』を始めとした、あらゆる能力が使えなくなっていた。"
+translation = "아까 눈을 떴을 때부터, 나는 『마왕의 힘』을 비롯한, 모든 능력을 사용할 수 없게 되어 있었다."
+
+[[dialogue]]
+speaker_original = "ルネア"
+speaker_translation = "루네아"
+original = "「――会長とシンの２人の間には、流れる時間に『捻じれ』があるのよ」"
+translation = "「――회장과 신 두 사람 사이에는, 흐르는 시간에 『비틀림』이 있어」"
+
+[[dialogue]]
+speaker_original = "ルネア"
+speaker_translation = "루네아"
+original = "「おそらく、２人が同時に存在することに問題が起きて、１つの存在へ融合してしまっているんだと思うわ」"
+translation = "「아마도, 두 사람이 동시에 존재하는 것에 문제가 생겨서, 하나의 존재로 융합해버린 거라고 생각해」"
+
+[[dialogue]]
+speaker_original = "リア"
+speaker_translation = "리아"
+original = "「それじゃあ、シンくんを元に戻すには……？」"
+translation = "「그러면, 신 군을 원래대로 되돌리려면……?」"
+
+[[dialogue]]
+speaker_original = "ルネア"
+speaker_translation = "루네아"
+original = "「このリゾート結界に閉じ込められている原因を解決して、私たちの世界に戻るのが、一番早いでしょうね」"
+translation = "「이 리조트 결계에 갇혀있는 원인을 해결해서, 우리들의 세계로 돌아가는 것이, 가장 빠르겠지」"
+
+[[dialogue]]
+speaker_original = "ナナカ"
+speaker_translation = "나나카"
+original = "「シン……大丈夫かな……」"
+translation = "「신…… 괜찮을까……」"
+
+[[dialogue]]
+speaker_original = "ロロット"
+speaker_translation = "로롯토"
+original = "「会長さんがこんなふうになってしまうのは、初めてなのです……」"
+translation = "「회장님이 이런 모습이 되어버리는 것은, 처음인 것이에요……」"
+
+[[dialogue]]
+speaker_original = "聖沙"
+speaker_translation = "미사"
+original = "「咲良クン……」"
+translation = "「사쿠라 군……」"
+
+[[dialogue]]
+speaker = "unk"
+original = "みんな、シンのことが心配なんだろう。不安そうな表情を浮かべていた。"
+translation = "모두, 신의 일이 걱정되는 거겠지. 불안한 표정을 짓고 있었다."
+
+[[dialogue]]
+speaker_original = "リア"
+speaker_translation = "리아"
+original = "「……でも、暗いままで過ごしてたら、ダメだよね」"
+translation = "「……하지만, 어두운 채로 지내면, 안 되겠지」"
+
+[[dialogue]]
+speaker_original = "聖沙"
+speaker_translation = "미사"
+original = "「リア先輩……？」"
+translation = "「리아 선배……?」"
+
+[[dialogue]]
+speaker_original = "リア"
+speaker_translation = "리아"
+original = "「私たちがもし暗くなってたら、シンくんならきっと、こう言うはず――」"
+translation = "「우리가 만약 어두워져 있다면, 신 군이라면 분명, 이렇게 말할 터――」"
+
+[[dialogue]]
+speaker_original = "リア"
+speaker_translation = "리아"
+original = "「『もっと前向きに考えて行こうよ』って」"
+translation = "「『좀 더 긍정적으로 생각하며 가자』라고」"
+
+[[dialogue]]
+speaker_original = "聖沙"
+speaker_translation = "미사"
+original = "「……！\u3000そうですね。先輩の言う通り、咲良クンなら、ポジティブに解決方法を考えるはず」"
+translation = "「……! 그렇네요. 선배의 말씀대로, 사쿠라 군이라면, 포지티브하게 해결 방법을 생각할 터」"
+
+[[dialogue]]
+speaker_original = "ナナカ"
+speaker_translation = "나나카"
+original = "「確かに、そうだね……シンなら大丈夫だって信じて、あたしたちで頑張らなきゃ！」"
+translation = "「확실히, 그렇네…… 신이라면 괜찮을 거라고 믿고, 우리가 힘내야지!」"
+
+[[dialogue]]
+speaker_original = "ロロット"
+speaker_translation = "로롯토"
+original = "「はい！\u3000私たちが明るい気持ちで信じていれば、会長さんはきっと何事もなかったように目覚めるはずなのです！」"
+translation = "「네! 우리가 밝은 마음으로 믿고 있으면, 회장님은 분명 아무 일도 없었던 것처럼 눈을 뜰 것인 것이에요!」"
+
+[[dialogue]]
+speaker_original = "ルネア"
+speaker_translation = "루네아"
+original = "「ええ。シンならきっと大丈夫……だって、私を救ってくれた『魔王』なんだから！」"
+translation = "「그래. 신이라면 분명 괜찮아…… 왜냐하면, 나를 구해준 『마왕』인걸!」"
+
+[[dialogue]]
+speaker_original = "ルネア"
+speaker_translation = "루네아"
+original = "「私も、早く元の世界へ戻れるように原因を調べてみるわ」"
+translation = "「나도, 얼른 원래 세계로 돌아갈 수 있도록 원인을 조사해 볼게」"
+
+[[dialogue]]
+speaker_original = "ヘレナ"
+speaker_translation = "헬레나"
+original = "「ふふっ……これがそなたたちの世界で『リ・クリエ』を止め、世界を救ってみせたクルセイダースか」"
+translation = "「후훗…… 이것이 그대들의 세계에서 『리 크리에』를 저지하고, 세계를 구해낸 쿠루세이더스인가」"
+
+[[dialogue]]
+speaker_original = "ヘレナ"
+speaker_translation = "헬레나"
+original = "「実に明るく、心の強き者たちであるな」"
+translation = "「실로 밝고, 마음이 강한 자들이로군」"
+
+[[dialogue]]
+speaker_original = "ヘレナ（原作）"
+speaker_translation = "헬레나(원작)"
+original = "「ええ。自慢の子たちよ♪」"
+translation = "「응. 자랑스러운 아이들이란다♪」"
+
+[[dialogue]]
+speaker_original = "ヘレナ（原作）"
+speaker_translation = "헬레나(원작)"
+original = "「シンちゃんが引っ張れない状況でも、『希望』を信じて諦めたりしない」"
+translation = "「신짱이 이끌 수 없는 상황에서도, 『희망』을 믿고 포기하지 않아」"
+
+[[dialogue]]
+speaker_original = "ヘレナ（原作）"
+speaker_translation = "헬레나(원작)"
+original = "「みんな、成長してるわね♪」"
+translation = "「모두, 성장하고 있네♪」"
+
+[[dialogue]]
+speaker = "unk"
+original = "俺たちも、もちろん手伝います"
+translation = "우리도, 물론 돕겠습니다"
+
+[[dialogue]]
+speaker_original = "マトイ"
+speaker_translation = "마토이"
+original = "「世界は違っても、私たちは仲間だもんね！」"
+translation = "「세계는 달라도, 우리는 동료인걸!」"
+
+[[dialogue]]
+speaker_original = "リア"
+speaker_translation = "리아"
+original = "「２人とも、ありがとう♪\u3000前みたいに協力すれば、今回もきっと大丈夫だよ！」"
+translation = "「두 사람 모두, 고마워♪ 전처럼 협력하면, 이번에도 분명 괜찮을 거야!」"
+
+[[dialogue]]
+speaker_original = "聖沙"
+speaker_translation = "미사"
+original = "「<size=20>副</size>会長として、私が咲良クンの代わりに、みんなを引っ張るわ♪」"
+translation = "「<size=20>부</size>회장으로서, 내가 사쿠라 군 대신에, 모두를 이끌겠어♪」"
+
+[[dialogue]]
+speaker_original = "ナナカ"
+speaker_translation = "나나카"
+original = "「よ～し！\u3000ナナカちゃんも、シンの分まで元気に明るく行くよ～！」"
+translation = "「좋~아! 나나카짱도, 신의 몫까지 기운차고 밝게 갈게~!」"
+
+[[dialogue]]
+speaker_original = "ロロット"
+speaker_translation = "로롯토"
+original = "「流星クルセイダース＆スターナイツ、ふぁいおー、なのです♪」"
+translation = "「유성 쿠루세이더스 & 스타 나이츠, 화이오-, 인 것이에요♪」"
+
+[[dialogue]]
+speaker_original = "みんな"
+speaker_translation = "모두"
+original = "「お～っ♪」"
+translation = "「오~읏♪」"
+
+[[dialogue]]
+speaker = "unk"
+original = "俺たちはリゾート結界から脱出する為、協力して行動を開始するのだった。"
+translation = "우리는 리조트 결계에서 탈출하기 위해, 협력하여 행동을 개시하는 것이었다."
+

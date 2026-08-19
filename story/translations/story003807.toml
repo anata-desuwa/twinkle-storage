@@ -1,0 +1,344 @@
+[[dialogue]]
+speaker = "unk"
+original = "俺たちは魔族の大群を退け、丸い宝玉を持った魔族をダウンさせることに成功した。"
+translation = "우리들은 마족 대군을 물리치고, 둥근 보옥을 가진 마족을 쓰러뜨리는 데 성공했다."
+
+[[dialogue]]
+speaker_original = "魔族"
+speaker_translation = "마족"
+original = "「い……イ～……」"
+translation = "「으…… 이~……」"
+
+[[dialogue]]
+speaker_original = "聖沙"
+speaker_translation = "미사"
+original = "「よし、動きを止めたわ！」"
+translation = "「좋았어, 움직임을 멈췄어!」"
+
+[[dialogue]]
+speaker_original = "リア"
+speaker_translation = "리아"
+original = "「ふぅ……これで終わりかな？」"
+translation = "「후우…… 이걸로 끝인가?」"
+
+[[dialogue]]
+speaker_original = "魔族"
+speaker_translation = "마족"
+original = "「……イ～～」"
+translation = "「……이~~」"
+
+[[dialogue]]
+speaker_original = "ヘレナ（原作）"
+speaker_translation = "헬레나(원작)"
+original = "「！\u3000待って、何か様子がおかしいわ！」"
+translation = "「! 잠깐, 뭔가 상태가 이상해!」"
+
+[[dialogue]]
+speaker_original = "ナナカ"
+speaker_translation = "나나카"
+original = "「宝玉が怪しく光って、目に見えるくらいすごい力が溢れ出してる……！」"
+translation = "「보옥이 수상하게 빛나더니, 눈에 보일 정도로 엄청난 힘이 흘러넘치고 있어……!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "なんてすさまじい力だ……！"
+translation = "엄청나게 무시무시한 힘이다……!"
+
+[[dialogue]]
+speaker = "unk"
+original = "鳥肌が立ち、思わず体が震える。"
+translation = "소름이 돋고, 나도 모르게 몸이 떨린다."
+
+[[dialogue]]
+speaker = "unk"
+original = "やがて、その力は魔族の体を黒い影で包み込み――"
+translation = "이윽고, 그 힘은 마족의 몸을 검은 그림자로 감싸 안고――"
+
+[[dialogue]]
+speaker = "unk"
+original = "やがて１つの禍々しい形を成す。"
+translation = "이윽고 하나의 불길한 형상을 이룬다."
+
+[[dialogue]]
+speaker_original = "？？？"
+speaker_translation = "？？？"
+original = "「……姿を偽るのは、どうやらここまでのようだな」"
+translation = "「……모습을 속이는 건, 아무래도 여기까지인 것 같군」"
+
+[[dialogue]]
+speaker_original = "パッキー"
+speaker_translation = "팟키"
+original = "「……！\u3000コイツは……！」"
+translation = "「……! 이 녀석은……!」"
+
+[[dialogue]]
+speaker_original = "聖沙"
+speaker_translation = "미사"
+original = "「あなた……何者……！？」"
+translation = "「당신…… 누구야……!?」"
+
+[[dialogue]]
+speaker_original = "ロロット"
+speaker_translation = "로롯토"
+original = "「もしかして……天使、なのですか……？」"
+translation = "「혹시…… 천사, 인 건가요……?」"
+
+[[dialogue]]
+speaker_original = "パッキー"
+speaker_translation = "팟키"
+original = "「コイツは――堕天使『ザタナーン』だ！」"
+translation = "「이 녀석은―― 타천사 『자타난』이다!」"
+
+[[dialogue]]
+speaker_original = "リア"
+speaker_translation = "리아"
+original = "「パーちゃん、知ってるの……？」"
+translation = "「파짱, 알고 있어……?」"
+
+[[dialogue]]
+speaker_original = "パッキー"
+speaker_translation = "팟키"
+original = "「ああ。ひと目見て、すぐに思い出したぜ……！」"
+translation = "「아아. 한눈보고, 바로 떠올렸다구……!」"
+
+[[dialogue]]
+speaker_original = "パッキー"
+speaker_translation = "팟키"
+original = "「俺がこの姿になる前――初代魔王ハーヴィス様と俺たちが戦った、堕天使衆『グリゴリ』の１人……！」"
+translation = "「내가 이 모습이 되기 전―― 초대 마왕 하비스 님과 우리들이 싸웠던, 타천사 중 『그리고리』의 한 명……!」"
+
+[[dialogue]]
+speaker_original = "パッキー"
+speaker_translation = "팟키"
+original = "「いちばん最初にリ・クリエの力を使って、世界を滅ぼそうとした敵だぜ……！」"
+translation = "「가장 처음에 리 크리에의 힘을 사용해서, 세계를 멸망시키려 했던 적이라구……!」"
+
+[[dialogue]]
+speaker_original = "ザタナーン"
+speaker_translation = "자타난"
+original = "「……久しいな、大賢者パッキー。そして――創世の女神ルネア」"
+translation = "「……오랜만이구나, 대현자 패키. 그리고―― 창세의 여신 루네아」"
+
+[[dialogue]]
+speaker_original = "ルネア"
+speaker_translation = "루네아"
+original = "「なんであなたがここに……！？\u3000グリゴリは、ハーヴィスたち初代クルセイダースが全員倒したはず……！」"
+translation = "「어째서 당신이 여기에……!? 그리고리는, 하비스 일행 초대 크루세이더스가 전부 없앴을 터……!」"
+
+[[dialogue]]
+speaker_original = "ザタナーン"
+speaker_translation = "자타난"
+original = "「……言ったはずだ。たとえ滅びても、神が存在し続ける限り、我らは必ず、再び現れると」"
+translation = "「……말했을 텐데. 설령 멸망할지라도, 신이 계속 존재하는 한, 우리들은 반드시, 다시 나타난다고」"
+
+[[dialogue]]
+speaker_original = "パッキー"
+speaker_translation = "팟키"
+original = "「もしかして、さっきの宝玉が何か関係あるのか……？」"
+translation = "「혹시, 아까 그 보옥이 무슨 관계라도 있는 건가……?」"
+
+[[dialogue]]
+speaker_original = "ザタナーン"
+speaker_translation = "자타난"
+original = "「その通り。我の核となっている『リ・クリエ<ruby>玉<rt>ぎょく</rt></ruby>』。我の魂と、リ・クリエの力が宿ったものだ」"
+translation = "「말한 그대로다. 나의 핵심이 되어 있는 『리 크리에 구슬』. 나의 영혼과, 리 크리에의 힘이 숙련된 것이다」"
+
+[[dialogue]]
+speaker_original = "ザタナーン"
+speaker_translation = "자타난"
+original = "「かつて貴様らに敗れた際、こうして再び蘇れるように、事前に我の魂の一部を切り分け、封じておいたのだ」"
+translation = "「한때 너희에게 패했을 때, 이렇게 다시 부활할 수 있도록, 미리 나의 영혼의 일부를 잘라내어, 봉인해 두었던 것이다」"
+
+[[dialogue]]
+speaker_original = "ルネア"
+speaker_translation = "루네아"
+original = "「でも、そこまでのリ・クリエの力をどうやって……！？」"
+translation = "「하지만, 그 정도의 리 크리에의 힘을 어떻게……!?」"
+
+[[dialogue]]
+speaker_original = "ザタナーン"
+speaker_translation = "자타난"
+original = "「年月をかけ、蓄えたのだ。このリ・クリエ玉は、リ・クリエの力を吸収し、蓄積することができる」"
+translation = "「세월을 들여, 축적한 것이다. 이 리 크리에 구슬은, 리 크리에의 힘을 흡수하여, 축적할 수 있다」"
+
+[[dialogue]]
+speaker_original = "ザタナーン"
+speaker_translation = "자타난"
+original = "「我らはリ・クリエが再び必ず起こると予見し、その力を吸収して、復活できる装置として、これを作った」"
+translation = "「우리들은 리 크리에가 다시 반드시 일어날 것이라 예견하고, 그 힘을 흡수해서, 부활할 수 있는 장치로서, 이것을 만들었다」"
+
+[[dialogue]]
+speaker_original = "ザタナーン"
+speaker_translation = "자타난"
+original = "「そして先日、女神ルネアが２つに分かれ、破壊神イレアとしてリ・クリエを起こそうとした際――」"
+translation = "「그리고 얼마 전, 여신 루네아가 둘로 나누어져, 파괴신 이레아로서 리 크리에를 일으키려 했을 때――」"
+
+[[dialogue]]
+speaker_original = "ザタナーン"
+speaker_translation = "자타난"
+original = "「魔王に敗れ、霧散しかけたリ・クリエの力を吸収することで、我はついに復活を果たしたのだ」"
+translation = "「마왕에게 패해, 산산이 부서질 뻔한 리 크리에의 힘을 흡수함으로써, 나는 마침내 부활을 해낸 것이다」"
+
+[[dialogue]]
+speaker = "unk"
+original = "一体なんなんだ……！？"
+translation = "대체 뭐라는 거야……!?"
+
+[[dialogue]]
+speaker = "unk"
+original = "俺たちをここに閉じ込めた目的は"
+translation = "우리들을 여기에 가둔 목적은"
+
+[[dialogue]]
+speaker_original = "ザタナーン"
+speaker_translation = "자타난"
+original = "「……我らの目的は、変わらずただ１つ」"
+translation = "「……우리들의 목적은, 변함없이 단 하나」"
+
+[[dialogue]]
+speaker_original = "ザタナーン"
+speaker_translation = "자타난"
+original = "「世界と女神の――『再生』である」"
+translation = "「세계와 여신의―― 『재생』이다」"
+
+[[dialogue]]
+speaker_original = "マトイ"
+speaker_translation = "마토이"
+original = "「再生……！？」"
+translation = "「재생……!?」"
+
+[[dialogue]]
+speaker_original = "ザタナーン"
+speaker_translation = "자타난"
+original = "「……かつて天使・人間・魔族の三種族が争っていた際、女神ルネアはそれを止める為に世界を三つに分けた」"
+translation = "「……한때 천사·인간·마족의 세 종족이 다툴 때, 여신 루네아는 그것을 멈추기 위해 세계를 셋으로 나누었다」"
+
+[[dialogue]]
+speaker_original = "ザタナーン"
+speaker_translation = "자타난"
+original = "「しかし、そのことで女神でも制御できぬ、三界が１つの世界へと戻ろうとする『再生力』が生まれた。それこそがリ・クリエ」"
+translation = "「하지만, 그 일로 여신조차 제어할 수 없는, 삼계가 하나의 세계로 돌아가려 하는 『재생력』이 태어났다. 그것이야말로 리 크리에」"
+
+[[dialogue]]
+speaker_original = "ザタナーン"
+speaker_translation = "자타난"
+original = "「その時、我らは『神は完璧ではない』と悟ったのだ」"
+translation = "「그때, 우리들은 『신은 완벽하지 않다』는 것을 깨달은 것이다」"
+
+[[dialogue]]
+speaker_original = "ザタナーン"
+speaker_translation = "자타난"
+original = "「そして、神が完璧な存在でないのなら、より完璧な存在になるように再生させる必要がある」"
+translation = "「그리고, 신이 완벽한 존재가 아니라면, 보다 완벽한 존재가 되도록 재생시킬 필요가 있다」"
+
+[[dialogue]]
+speaker_original = "ザタナーン"
+speaker_translation = "자타난"
+original = "「故に――」"
+translation = "「고로――」"
+
+[[dialogue]]
+speaker_original = "ザタナーン"
+speaker_translation = "자타난"
+original = "「我らはリ・クリエの力を使い、女神ルネアを１度完全消去し、新たな神へと作り直す」"
+translation = "「우리들은 리 크리에의 힘을 사용해, 여신 루네아를 한 번 완전 소멸시키고, 새로운 신으로 다시 만든다」"
+
+[[dialogue]]
+speaker_original = "ルネア"
+speaker_translation = "루네아"
+original = "「っ……！」"
+translation = "「쯧……!」"
+
+[[dialogue]]
+speaker_original = "ヘレナ"
+speaker_translation = "헬레나"
+original = "「そうか……だから、ルネアの女神の力を封じる為に、異世界側のリゾート結界へ転移させたのだな」"
+translation = "「그래…… 그래서, 루네아의 여신의 힘을 봉인하기 위해, 이세계 쪽의 리조트 결계로 전이시킨 거였군」"
+
+[[dialogue]]
+speaker_original = "ザタナーン"
+speaker_translation = "자타난"
+original = "「いかにも」"
+translation = "「그렇다」"
+
+[[dialogue]]
+speaker_original = "ザタナーン"
+speaker_translation = "자타난"
+original = "「リ・クリエの『抑止力』たる魔王の力か、異世界の魔王が引き寄せられたのは想定外であったが……」"
+translation = "「리 크리에의 『억지력』인 마왕의 힘인가, 이세계의 마왕이 끌려온 것은 예상 외였지만……」"
+
+[[dialogue]]
+speaker_original = "ザタナーン"
+speaker_translation = "자타난"
+original = "「しかし、その際の融合により、魔王が力を発揮できなくなっている今こそ、最大の好機」"
+translation = "「하지만, 그때의 융합으로 인해, 마왕이 힘을 발휘할 수 없게 된 지금이야말로, 최대의 호기」"
+
+[[dialogue]]
+speaker = "unk"
+original = "それでも、ルネアの命は奪わせない！"
+translation = "그래도, 루네아의 목숨은 빼앗기게 두지 않아!"
+
+[[dialogue]]
+speaker_original = "リア"
+speaker_translation = "리아"
+original = "「そうだよ！\u3000ルネアちゃんは女神様でも、今は私たちにとって、大切な友達なんだから！」"
+translation = "「맞아! 루네아짱은 여신님이라도, 지금은 우리에게 있어, 소중한 친구니까!」"
+
+[[dialogue]]
+speaker_original = "ロロット"
+speaker_translation = "로롯토"
+original = "「大切な友達を、絶対に奪わせません！」"
+translation = "「소중한 친구를, 절대로 빼앗기게 두지 않겠어요!」"
+
+[[dialogue]]
+speaker_original = "聖沙"
+speaker_translation = "미사"
+original = "「それにルネアさんは、間違っても、そこから成長したからこそ、今ここにいるのよ！」"
+translation = "「게다가 루네아 씨는, 틀렸을지언정, 거기서 성장을 했기에, 지금 여기에 있는 거야!」"
+
+[[dialogue]]
+speaker_original = "聖沙"
+speaker_translation = "미사"
+original = "「それが間違いだなんて、絶対に言わせないわ！」"
+translation = "「그게 틀렸다는 말 따위, 절대로 못 하게 하겠어!」"
+
+[[dialogue]]
+speaker_original = "ナナカ"
+speaker_translation = "나나카"
+original = "「そうさ！\u3000ルネアはやっと長い苦しみから解放されて、ここからってところなんだから、邪魔なんてさせないよ！」"
+translation = "「그래! 루네아는 겨우 긴 고통에서 해방되어서, 이제부터 시작인 참인데, 방해하게 두지 않을 거라구!」"
+
+[[dialogue]]
+speaker_original = "ルネア"
+speaker_translation = "루네아"
+original = "「みんな……！」"
+translation = "「모두들……!」"
+
+[[dialogue]]
+speaker_original = "ザタナーン"
+speaker_translation = "자타난"
+original = "「下らぬ情など不要。再生は、完璧な神と世界を作り出す為の摂理である」"
+translation = "「하찮은 정 따위 불필요하다. 재생은, 완벽한 신과 세계를 만들어 내기 위한 섭리다」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ザタナーンが構え、空間が震える程の強大な力が発せられる。"
+translation = "자타난이 태세를 갖추자, 공간이 떨릴 정도의 강대한 힘이 발산된다."
+
+[[dialogue]]
+speaker_original = "聖沙"
+speaker_translation = "미사"
+original = "「だったら……勝負よ！」"
+translation = "「그렇다면…… 승부야!」"
+
+[[dialogue]]
+speaker_original = "リア"
+speaker_translation = "리아"
+original = "「リ・クリエの力に、私たちは絶対負けたりしないんだから！」"
+translation = "「리 크리에의 힘 따위에, 우리들은 절대로 지지 않을 거니까!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "こうして、俺たちとザタナーンの戦いが始まるのだった。"
+translation = "이렇게, 우리들과 자타난의 싸움이 시작되는 것이었다."
+

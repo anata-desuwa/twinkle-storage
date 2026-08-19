@@ -1,0 +1,368 @@
+[[dialogue]]
+speaker = "unk"
+original = "第１話,聖沙とアナザーステラ,P"
+translation = "제1화, 세이사와 어나더 스테라"
+
+[[dialogue]]
+speaker = "unk"
+original = "リゾート結界の一件の後。"
+translation = "리조트 결계 사건이 끝난 후."
+
+[[dialogue]]
+speaker = "unk"
+original = "流星クルセイダースの一行は、元の世界へ戻るまでの数日間、流星市国に滞在することになった。"
+translation = "유성 크루세이더즈 일행은, 원래 세계로 돌아가기 전까지 며칠 동안 유성시국에 체류하게 되었다."
+
+[[dialogue]]
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
+original = "「聖沙さん、お久しぶりです♪」"
+translation = "「세이사 씨, 오랜만이에요♪」"
+
+[[dialogue]]
+speaker_original = "聖沙"
+speaker_translation = "미사"
+original = "「フィオナさん！\u3000また会えて嬉しいわ♪」"
+translation = "「피오나 씨! 다시 만나서 기뻐요♪」"
+
+[[dialogue]]
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
+original = "「私もです♪\u3000それで、私を呼んだのは、もしかして……？」"
+translation = "「저도요♪ 그래서, 저를 부르신 건 혹시……?」"
+
+[[dialogue]]
+speaker_original = "聖沙"
+speaker_translation = "미사"
+original = "「ええ。あなたも流星学園の星徒会長だもの。だから――」"
+translation = "「네. 당신도 유성학원의 성도회장이니까요. 그러니까――」"
+
+[[dialogue]]
+speaker_original = "聖沙"
+speaker_translation = "미사"
+original = "「フィオナさん、私と水着フォームの訓練も兼ねて、勝負よ！」"
+translation = "「피오나 씨, 저와 수영복 폼의 훈련도 겸해서, 승부예요!」"
+
+[[dialogue]]
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
+original = "「ふふっ♪\u3000星騎士として、喜んでお受けします」"
+translation = "「후후♪ 성기사로서 기꺼이 받아들이겠어요」"
+
+[[dialogue]]
+speaker_original = "聖沙"
+speaker_translation = "미사"
+original = "「ありがとう♪\u3000もちろん――」"
+translation = "「고마워요♪ 물론――」"
+
+[[dialogue]]
+speaker = "unk"
+original = "聖沙は、俺の方にも視線を向けながら言う。"
+translation = "세이사는 내 쪽으로도 시선을 돌리며 말한다."
+
+[[dialogue]]
+speaker_original = "聖沙"
+speaker_translation = "미사"
+original = "「新星学園の星徒会長である、あなたもよ！」"
+translation = "「신성학원의 성도회장인 당신도예요!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ああ。俺も受けて立つよ"
+translation = "「아아. 나도 기꺼이 받아들일게」"
+
+[[dialogue]]
+speaker = "unk"
+original = "努力家でやる気に満ちた聖沙との勝負は、いい刺激になる。俺としても大歓迎だ。"
+translation = "노력가에 의욕이 넘치는 세이사와의 승부는 좋은 자극이 된다. 나로서도 대환영이다."
+
+[[dialogue]]
+speaker_original = "聖沙"
+speaker_translation = "미사"
+original = "「と、ところで……」"
+translation = "「그, 그런데……」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ふと、急にそわそわした様子で聖沙は辺りを見回す。"
+translation = "문득, 갑자기 안절부절못하는 모습으로 세이사는 주변을 둘러본다."
+
+[[dialogue]]
+speaker_original = "聖沙"
+speaker_translation = "미사"
+original = "「あの子は……一緒に来てないのかしら……？」"
+translation = "「그아이는…… 같이 오지 않은 걸까……?」"
+
+[[dialogue]]
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
+original = "「ふふっ、そう言うと思って、ちゃんと呼んでありますよ♪」"
+translation = "「후후, 그렇게 말씀하실 줄 알고 제대로 불러두었답니다♪」"
+
+[[dialogue]]
+speaker_original = "ニャリオン"
+speaker_translation = "냐리온"
+original = "「フィオナ嬢～、使い魔として呼ばれて来たニャ～」"
+translation = "「피오나 양~, 사역마로서 불려 왔다냥~」"
+
+[[dialogue]]
+speaker_original = "聖沙"
+speaker_translation = "미사"
+original = "「あっ！\u3000ニャリオンさん<emoji=heart04>」"
+translation = "「앗! 냐리온 씨<emoji=heart04>」"
+
+[[dialogue]]
+speaker_original = "ニャリオン"
+speaker_translation = "냐리온"
+original = "「って、ニャニャッ……！？\u3000お前は異世界の……！\u3000また来てたニャン！？」"
+translation = "「게, 냐냐앍……!? 너는 이세계의……! 또 왔냐응!?」"
+
+[[dialogue]]
+speaker_original = "聖沙"
+speaker_translation = "미사"
+original = "「はああぁ～～っ<emoji=heart04><emoji=heart04><emoji=heart04>\u3000お久しぶり～っ<emoji=heart04><emoji=heart04><emoji=heart04>\u3000やっぱり可愛い～～っ<emoji=heart04><emoji=heart04><emoji=heart04>」"
+translation = "「하아아아~~앗<emoji=heart04><emoji=heart04><emoji=heart04> 오랜만이야~~앗<emoji=heart04><emoji=heart04><emoji=heart04> 역시 귀여워~~앗<emoji=heart04><emoji=heart04><emoji=heart04>」"
+
+[[dialogue]]
+speaker_original = "ニャリオン"
+speaker_translation = "냐리온"
+original = "「ギニャあああぁ～～っ！？\u3000ワガハイに抱きつくニャ～～っ！？」"
+translation = "「기냐아아아~~앗!? 이 몸에게 안기지 마라냥~~앗!?」"
+
+[[dialogue]]
+speaker_original = "聖沙"
+speaker_translation = "미사"
+original = "「会いたかったわ、ニャリオンさ～んっ<emoji=heart04><emoji=heart04>」"
+translation = "「보고 싶었어요, 냐리온 씨~~앙<emoji=heart04><emoji=heart04>」"
+
+[[dialogue]]
+speaker_original = "パッキー"
+speaker_translation = "팟키"
+original = "「おいヒス、騒がしいけど何かあったのか？\u3000って……お前！\u3000いつかの喋るニャン公じゃねぇか！」"
+translation = "「어이 히스, 시끄러운데 무슨 일 있냐? ……가 아니라 너! 언젠가의 말하는 고양이 새끼잖아!」"
+
+[[dialogue]]
+speaker_original = "ニャリオン"
+speaker_translation = "냐리온"
+original = "「あっ、お前はいつかの喋るパンダ！？\u3000よくもあの時はやってくれたニャ～！？」"
+translation = "「앗, 너는 언젠가의 말하는 판다!? 잘도 그때는 나한테 그런 짓을 했겠다냥~!?」"
+
+[[dialogue]]
+speaker_original = "パッキー"
+speaker_translation = "팟키"
+original = "「ちょっ、待て！\u3000あん時は洗脳されててだな……あだだっ！？\u3000猫パンチはやめろぉ～っ！？」"
+translation = "「잠, 잠깐 기다려! 그때는 세뇌당해서 그…… 아다닷!? 고양이 펀치는 그만둬~~앗!?」"
+
+[[dialogue]]
+speaker_original = "聖沙"
+speaker_translation = "미사"
+original = "「すごい<emoji=heart04>\u3000可愛い２人がユニゾンね<emoji=heart04>」"
+translation = "「대단해<emoji=heart04> 귀여운 두 사람이 유니즌이네<emoji=heart04>」"
+
+[[dialogue]]
+speaker_original = "パッキー"
+speaker_translation = "팟키"
+original = "「いや、ランブルだろ！？\u3000というか、嬉しそうに見てないで、コイツをどうにかしてくれよっ！？」"
+translation = "「아니, 럼블이겠지!? 그보다 기쁜 듯이 보지 말고, 이 녀석 좀 어떻게 좀 해줘!?」"
+
+[[dialogue]]
+speaker_original = "ニャリオン"
+speaker_translation = "냐리온"
+original = "「お前、何者ニャ！\u3000名を名乗れニャ～～っ！！」"
+translation = "「너, 정체가 뭐냐냥! 이름을 대라냥~~앗!!」"
+
+[[dialogue]]
+speaker_original = "パッキー"
+speaker_translation = "팟키"
+original = "「お、俺様は、大賢者パッキー様だっ！\u3000お前こそ、なんなんだよ！？」"
+translation = "「이, 이몸은 대현자 패키 님이시다! 너야말로 뭔데!?」"
+
+[[dialogue]]
+speaker_original = "ニャリオン"
+speaker_translation = "냐리온"
+original = "「大賢者ニャと！？\u3000それはワガハイの肩書きニャっ！！」"
+translation = "「대현자냐고!? 그건 이 몸의 직함이다냥!」"
+
+[[dialogue]]
+speaker_original = "パッキー"
+speaker_translation = "팟키"
+original = "「はぁ！？\u3000なに言ってんだ、お前！」"
+translation = "「하아!? 무슨 소릴 하는 거냐, 너!」"
+
+[[dialogue]]
+speaker_original = "ニャリオン"
+speaker_translation = "냐리온"
+original = "「ワガハイこそは、３０００年前――魔王ラクシス様に仕えていた使い魔、大賢者ニャメニア・ワールフリオンだニャン！」"
+translation = "「이 몸이야말로 3000년 전―― 마왕 낙시스 님을 모시던 사역마, 대현자 냐메니아 와르프리온이다냥!」"
+
+[[dialogue]]
+speaker_original = "聖沙"
+speaker_translation = "미사"
+original = "「えっ！？\u3000ニャリオンさんって、そうだったの！？」"
+translation = "「에!? 냐리온 씨, 그런 거였나요!?」"
+
+[[dialogue]]
+speaker_original = "パッキー"
+speaker_translation = "팟키"
+original = "「ちょ、ちょっと待て……こっちの世界の魔王に仕えていた大賢者……！？」"
+translation = "「자, 잠깐 기다려…… 이쪽 세계의 마왕을 모시던 대현자……!?」"
+
+[[dialogue]]
+speaker_original = "パッキー"
+speaker_translation = "팟키"
+original = "「それじゃあ何か？\u3000天使――ロロットの奴に、ルリエルって似た存在がいるみたいに……」"
+translation = "「그러면 뭐야? 천사―― 로롯 녀석한테 루리엘이라는 닮은 존재가 있는 것처럼……」"
+
+[[dialogue]]
+speaker_original = "聖沙"
+speaker_translation = "미사"
+original = "「ニャリオンさんが、パッキーさんの『<ruby>平行同位体<rt>アナザーステラ</rt></ruby>』ってこと……！？」"
+translation = "「냐리온 씨가 패키 씨의 『<ruby>평행동위체<rt>어나더 스테라</rt></ruby>』라는 것……!?」"
+
+[[dialogue]]
+speaker_original = "ニャリオン"
+speaker_translation = "냐리온"
+original = "「アナザーステラ？」"
+translation = "「어나더 스테라?」"
+
+[[dialogue]]
+speaker_original = "パッキー"
+speaker_translation = "팟키"
+original = "「え、嘘だろ……俺様と、このアホそうなニャン公が……？」"
+translation = "「에, 거짓말이지…… 이몸과 이 바보 같아 보이는 고양이 새끼가……?」"
+
+[[dialogue]]
+speaker_original = "ニャリオン"
+speaker_translation = "냐리온"
+original = "「誰がアホにゃん！？\u3000女の大きな胸にダイブしまくってたエロパンダに言われたくないニャ！」"
+translation = "「누가 바보냐응!? 여자의 큰 가슴에 다이빙해 대던 에로 판다한테 들을 소리가 아니다냥!」"
+
+[[dialogue]]
+speaker_original = "聖沙"
+speaker_translation = "미사"
+original = "「道理で２人共、私の琴線に触れる可愛さなわけね<emoji=heart04>」"
+translation = "「어쩐지 둘 다 내 심금을 울리는 귀여움이다 했더니<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "unk"
+original = "と、そこで俺は聖沙に声をかける。"
+translation = "거기서 나는 세이사에게 말을 걸었다."
+
+[[dialogue]]
+speaker = "unk"
+original = "そういえば、聖沙に会わせたい人がいるんだ"
+translation = "「그러고 보니 세이사에게 소개해 주고 싶은 사람이 있어」"
+
+[[dialogue]]
+speaker_original = "聖沙"
+speaker_translation = "미사"
+original = "「え？\u3000私に会わせたい人……？」"
+translation = "「에? 저에게 소개하고 싶은 사람……?」"
+
+[[dialogue]]
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
+original = "「以前から、もし次の機会があれば、聖沙さんに是非紹介したいと、緋宮会長と話していたんです」"
+translation = "「이전부터 혹시 다음 기회가 있다면, 세이사 씨에게 꼭 소개하고 싶다고 히미야 회장님과 이야기했었어요」"
+
+[[dialogue]]
+speaker_original = "？？？"
+speaker_translation = "？？？"
+original = "「――会長、フィオナ」"
+translation = "「――회장, 피오나」"
+
+[[dialogue]]
+speaker_original = "梨緒"
+speaker_translation = "리오"
+original = "「待たせたな。私に会わせたい人がいる、とのことだったが……」"
+translation = "「기다리게 했군. 나에게 소개하고 싶은 사람이 있다고 들었다만……」"
+
+[[dialogue]]
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
+original = "「はい、梨緒さん。こちらの方です」"
+translation = "「네, 리오 씨. 이쪽 분이에요」"
+
+[[dialogue]]
+speaker_original = "聖沙"
+speaker_translation = "미사"
+original = "「あっ、ごきげんよう。私は『聖沙・<ruby>Ｂ<rt>ブリジッタ</rt></ruby>・クリステレス』と言います」"
+translation = "「앗, 안녕하세요. 저는 『세이사 <ruby>B<rt>브리지타</rt></ruby> 크리스테레스』라고 합니다」"
+
+[[dialogue]]
+speaker_original = "梨緒"
+speaker_translation = "리오"
+original = "「クリステレス……？」"
+translation = "「크리스테레스……?」"
+
+[[dialogue]]
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
+original = "「聖沙さん。こちらは私たちの同級生で、新星学園２年生の『梨緒・<ruby>Ａ<rt>アガサ</rt></ruby>・クリステレス』さんです」"
+translation = "「세이사 씨. 이쪽은 저희 동급생이자 신성학원 2학년인 『리오 <ruby>A<rt>아가사</rt></ruby> 크리스테레스』 양이에요」"
+
+[[dialogue]]
+speaker_original = "聖沙"
+speaker_translation = "미사"
+original = "「え……それって……」"
+translation = "「에…… 그거……」"
+
+[[dialogue]]
+speaker_original = "聖沙"
+speaker_translation = "미사"
+original = "「この世界での、私の……？」"
+translation = "「이 세계에서의 내……?」"
+
+[[dialogue]]
+speaker_original = "梨緒"
+speaker_translation = "리오"
+original = "「……なるほど。つまり聖沙は、異世界における私と似た存在――『アナザーステラ』かもしれないというわけか」"
+translation = "「……그렇군. 즉 세이사는 이세계에 있는 나와 닮은 존재―― 『어나더 스테라』일지도 모른다는 뜻인가」"
+
+[[dialogue]]
+speaker_original = "聖沙"
+speaker_translation = "미사"
+original = "「確かな証拠があるわけでもないから、正直、半信半疑だけれど……」"
+translation = "「확실한 증거가 있는 것도 아니라서, 솔직히 반신반의하지만……」"
+
+[[dialogue]]
+speaker_original = "聖沙"
+speaker_translation = "미사"
+original = "「……いえ、でも、こういう時こそ――」"
+translation = "「……아니요, 하지만 이럴 때일수록――」"
+
+[[dialogue]]
+speaker_original = "聖沙"
+speaker_translation = "미사"
+original = "「梨緒さん、私と勝負しましょう！」"
+translation = "「리오 씨, 저와 승부해요!」"
+
+[[dialogue]]
+speaker_original = "梨緒"
+speaker_translation = "리오"
+original = "「勝負……？」"
+translation = "「승부……?」"
+
+[[dialogue]]
+speaker_original = "聖沙"
+speaker_translation = "미사"
+original = "「ええ。もし私たちが似た存在だというなら、勝負すれば何かわかるかもしれない」"
+translation = "「네. 만약 우리가 닮은 존재라면, 승부해보면 무언가 알 수 있을지도 몰라요」"
+
+[[dialogue]]
+speaker_original = "梨緒"
+speaker_translation = "리오"
+original = "「……そうか。勝負か」"
+translation = "「……그래. 승부인가」"
+
+[[dialogue]]
+speaker_original = "梨緒"
+speaker_translation = "리오"
+original = "「確かにそうだな……わかった。その勝負、受けて立とう」"
+translation = "「확실히 그렇군…… 알았다. 그 승부, 받아들이지」"
+
+[[dialogue]]
+speaker = "unk"
+original = "こうして、初めて対面した２人は、勝負を行うことになるのだった。"
+translation = "이렇게 해서 처음 대면한 두 사람은 승부를 겨루게 된 것이었다."
+

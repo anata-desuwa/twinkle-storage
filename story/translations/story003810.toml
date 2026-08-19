@@ -1,0 +1,426 @@
+[[dialogue]]
+speaker = "unk"
+original = "ザタナーンの消滅後、リゾート結界の封印術式が解かれたことが確認され、俺たちは流星市国へと戻ってきた。"
+translation = "자타난의 소멸 후, 리조트 결계의 봉인술식이 풀린 것이 확인되어, 우리들은 류세이 시국으로 돌아왔다."
+
+[[dialogue]]
+speaker_original = "マトイ"
+speaker_translation = "마토이"
+original = "「戻って来れた～♪」"
+translation = "「돌아왔다~♪」"
+
+[[dialogue]]
+speaker_original = "ロロット"
+speaker_translation = "로롯토"
+original = "「脱出成功なのです～♪」"
+translation = "「탈출 성공인 것입니다~♪」"
+
+[[dialogue]]
+speaker_original = "ルネア"
+speaker_translation = "루네아"
+original = "「――どうやら、ザタナーンが異世界転移を実行したことで、空間の繋がりに歪みが発生しているみたいね」"
+translation = "「――아무래도, 자타난이 이세계 전이를 실행한 것으로, 공간의 연결에 뒤틀림이 발생한 모양이네」"
+
+[[dialogue]]
+speaker_original = "リア"
+speaker_translation = "리아"
+original = "「じゃあ……前の時みたいに空間の歪みが修復されるまで、少し時間がかかる感じかな？」"
+translation = "「그럼…… 전처럼 공간의 뒤틀림이 수복될 때까지, 조금 시간이 걸리는 느낌일까?」"
+
+[[dialogue]]
+speaker_original = "ルネア"
+speaker_translation = "루네아"
+original = "「ええ。早くても数日はかかると思うわ」"
+translation = "「응. 빨라도 며칠은 걸릴 거라고 생각해」"
+
+[[dialogue]]
+speaker_original = "聖沙"
+speaker_translation = "미사"
+original = "「――咲良クン、また会長の中で眠っちゃっている感じかしら？」"
+translation = "「――사쿠라 군, 또 회장 안에서 잠들어 있는 느낌일까?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "残念ながら、そうみたいだ"
+translation = "안타깝게도, 그런 모양이다"
+
+[[dialogue]]
+speaker_original = "ナナカ"
+speaker_translation = "나나카"
+original = "「異世界に行ってみたい！\u3000って言ってたけど、またお預けか～」"
+translation = "「이세계에 가보고 싶어! 라고 말했었는데, 또 다음으로 미뤄진 건가~」"
+
+[[dialogue]]
+speaker = "unk"
+original = "でも、何かお土産を渡したいな"
+translation = "하지만, 무슨 선물이라도 전해주고 싶네"
+
+[[dialogue]]
+speaker_original = "ロロット"
+speaker_translation = "로롯토"
+original = "「それ、きっと会長さん、喜ぶのです！」"
+translation = "「그거, 분명 회장님, 기뻐할 것입니다!」"
+
+[[dialogue]]
+speaker_original = "リア"
+speaker_translation = "리아"
+original = "「そうだね♪\u3000何がいいか、一緒に考えよっか」"
+translation = "「그렇네♪ 뭐가 좋을지, 같이 생각해 볼까」"
+
+[[dialogue]]
+speaker_original = "聖沙"
+speaker_translation = "미사"
+original = "「まあ、咲良クンも頑張ってくれたし、お土産選びで１番いいものを用意してあげるわ！」"
+translation = "「뭐, 사쿠라 군도 힘써줬고, 선물 고르기에서 가장 좋은 걸 준비해 줄게!」"
+
+[[dialogue]]
+speaker_original = "パッキー"
+speaker_translation = "팟키"
+original = "「ククク……！\u3000異世界の魔王様よ。同じ男として、秘蔵の本をプレゼントしてやるのはどうだ……？」"
+translation = "「크크크……! 이세계의 마왕님이여. 같은 남자로서, 비장의 책을 선물해 주는 건 어떠냐……?」"
+
+[[dialogue]]
+speaker_original = "ナナカ"
+speaker_translation = "나나카"
+original = "「それは却下」"
+translation = "「그건 기각」"
+
+[[dialogue]]
+speaker_original = "ロロット"
+speaker_translation = "로롯토"
+original = "「秘蔵の本とは、どんな本なのです？」"
+translation = "「비장의 책이란, 어떤 책인 것입니까?」"
+
+[[dialogue]]
+speaker_original = "聖沙"
+speaker_translation = "미사"
+original = "「さ、さあ！？\u3000私にはわからないわ！」"
+translation = "「글, 글쎄!? 나는 모르겠어!」"
+
+[[dialogue]]
+speaker_original = "リア"
+speaker_translation = "리아"
+original = "「と、とりあえず、それ以外で考えようか～？」"
+translation = "「우, 우선, 그거 말고 다른 걸로 생각해 볼까~?」"
+
+[[dialogue]]
+speaker_original = "ヘレナ（原作）"
+speaker_translation = "헬레나(원작)"
+original = "「あと、せっかくこっちに滞在するなら、異世界も楽しまないとね！」"
+translation = "「그리고, 체류하는 김에, 이세계도 즐겨야지!」"
+
+[[dialogue]]
+speaker_original = "ヘレナ"
+speaker_translation = "헬레나"
+original = "「九浄家に部屋を用意しよう。流星クルセイダース一行、歓迎するぞ」"
+translation = "「쿠죠가에 방을 준비하도록 하지. 류세이 크루세이더스 일행, 환영한다」"
+
+[[dialogue]]
+speaker_original = "ヘレナ（原作）"
+speaker_translation = "헬레나(원작)"
+original = "「本当！？\u3000ヘレナちゃん、ありがと～♪」"
+translation = "「정말!? 헬레나짱, 고마워~♪」"
+
+[[dialogue]]
+speaker = "unk"
+original = "こうして、流星クルセイダースは数日の間、流星市国へ滞在することになるのだった。"
+translation = "이렇게, 류세이 크루세이더스는 며칠 동안, 류세이 시국에 체류하게 되는 것이었다."
+
+[[dialogue]]
+speaker = "unk"
+original = "それから、数日後。"
+translation = "그리고, 며칠 후."
+
+[[dialogue]]
+speaker = "unk"
+original = "流星クルセイダースが元の世界に戻る時がやって来た。"
+translation = "류세이 크루세이더스가 원래 세계로 돌아갈 때가 찾아왔다."
+
+[[dialogue]]
+speaker_original = "ヘレナ（原作）"
+speaker_translation = "헬레나(원작)"
+original = "「――じゃあ、ヘレナちゃん、またね」"
+translation = "「――그럼, 헬레나짱, 또 봐」"
+
+[[dialogue]]
+speaker_original = "ヘレナ"
+speaker_translation = "헬레나"
+original = "「ああ。離れても魂はいつも共にある。壮健でな、もう１人の私よ」"
+translation = "「아아. 떨어져 있어도 영혼은 언제나 함께다. 건강하거라, 또 한 명의 나여」"
+
+[[dialogue]]
+speaker = "unk"
+original = "２人のヘレナさんは、握手を交わす。"
+translation = "두 명의 헬레나 씨는, 악수를 나눈다."
+
+[[dialogue]]
+speaker_original = "マトイ"
+speaker_translation = "마토이"
+original = "「聖沙お姉様も、元気でね♪」"
+translation = "「미사 언니도, 잘 지내♪」"
+
+[[dialogue]]
+speaker_original = "聖沙"
+speaker_translation = "미사"
+original = "「ええ、マトイも♪\u3000また勝負しましょう」"
+translation = "「응, 마토이도♪ 또 승부해요」"
+
+[[dialogue]]
+speaker = "unk"
+original = "シンにもよろしくね"
+translation = "신에게도 안부 전해줘"
+
+[[dialogue]]
+speaker_original = "ナナカ"
+speaker_translation = "나나카"
+original = "「オッケー、会長。伝えとくよ♪」"
+translation = "「오케이, 회장. 전해줄게♪」"
+
+[[dialogue]]
+speaker_original = "ロロット"
+speaker_translation = "로롯토"
+original = "「またきっと、お会いしましょ～♪」"
+translation = "「또 분명, 만나기로 해요~♪」"
+
+[[dialogue]]
+speaker_original = "リア"
+speaker_translation = "리아"
+original = "「ヴィーナスちゃんたちにもよろしくね♪」"
+translation = "「비너스짱 일행에게도 안부 전해줘♪」"
+
+[[dialogue]]
+speaker_original = "パッキー"
+speaker_translation = "팟키"
+original = "「頑張れよ、異世界の魔王様！」"
+translation = "「힘내라구, 이세계의 마왕님!」"
+
+[[dialogue]]
+speaker_original = "ルネア"
+speaker_translation = "루네아"
+original = "「それじゃあ、元の世界に戻るわよ」"
+translation = "「그러면, 원래 세계로 돌아갈게」"
+
+[[dialogue]]
+speaker_original = "リア"
+speaker_translation = "리아"
+original = "「またね、マトイちゃん、会長くん！」"
+translation = "「또 봐, 마토이짱, 회장군!」"
+
+[[dialogue]]
+speaker_original = "聖沙"
+speaker_translation = "미사"
+original = "「ヘレナさんも、ごきげんよう♪」"
+translation = "「헬레나 씨도, 안녕히 계세요♪」"
+
+[[dialogue]]
+speaker_original = "ナナカ"
+speaker_translation = "나나카"
+original = "「じゃあね！」"
+translation = "「그럼 안녕!」"
+
+[[dialogue]]
+speaker_original = "ロロット"
+speaker_translation = "로롯토"
+original = "「さよならなのです～！」"
+translation = "「작별인 것입니다~!」"
+
+[[dialogue]]
+speaker_original = "パッキー"
+speaker_translation = "팟키"
+original = "「あばよ！」"
+translation = "「잘 있어라!」"
+
+[[dialogue]]
+speaker_original = "ルネア"
+speaker_translation = "루네아"
+original = "「また会いに来るわ♪」"
+translation = "「또 만나러 올게♪」"
+
+[[dialogue]]
+speaker_original = "ヘレナ（原作）"
+speaker_translation = "헬레나(원작)"
+original = "「魔王ちゃん、マトイちゃん、星徒会頑張ってね♪\u3000それから――」"
+translation = "「마왕짱, 마토이짱, 성도회 힘내♪ 그리고――」"
+
+[[dialogue]]
+speaker_original = "ヘレナ（原作）"
+speaker_translation = "헬레나(원작)"
+original = "「ヘレナちゃん、愛してるわよ～<emoji=heart04>\u3000――チュッ<emoji=heart04>」"
+translation = "「헬레나짱, 사랑해~♥ ――쪽♥」"
+
+[[dialogue]]
+speaker = "unk"
+original = "最後にヘレナさんが投げキッスをして。"
+translation = "마지막으로 헬레나 씨가 손키스를 날리고."
+
+[[dialogue]]
+speaker = "unk"
+original = "流星クルセイダースは光に包まれ、元の世界へと戻って行った。"
+translation = "류세이 크루세이더스는 빛에 감싸여, 원래 세계로 돌아갔다."
+
+[[dialogue]]
+speaker_original = "マトイ"
+speaker_translation = "마토이"
+original = "「……行っちゃったね」"
+translation = "「……가 버렸네」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ちょっと寂しくなるな"
+translation = "조금 쓸쓸해지네"
+
+[[dialogue]]
+speaker_original = "ヘレナ"
+speaker_translation = "헬레나"
+original = "「ああ。だが、またきっと会えるだろう」"
+translation = "「아아. 하지만, 또 분명 만날 수 있겠지」"
+
+[[dialogue]]
+speaker_original = "マトイ"
+speaker_translation = "마토이"
+original = "「シンくんも、元の世界へ戻れたのかな？」"
+translation = "「신군도, 원래 세계로 돌아간 걸까?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "俺の中からは、もういなくなってる"
+translation = "내 안에서는, 이제 없어졌어"
+
+[[dialogue]]
+speaker_original = "マトイ"
+speaker_translation = "마토이"
+original = "「会えなくて残念だったね」"
+translation = "「만나지 못해서 아쉬웠겠네」"
+
+[[dialogue]]
+speaker = "unk"
+original = "そうでもないよ"
+translation = "그렇지도 않아"
+
+[[dialogue]]
+speaker = "unk"
+original = "だって、会えなくたって――共に過ごした友達だと、そう思えるから。"
+translation = "왜냐면, 만나지 못하더라도―― 함께 지낸 친구라고, 그렇게 생각할 수 있으니까."
+
+[[dialogue]]
+speaker_original = "マトイ"
+speaker_translation = "마토이"
+original = "「……そっか♪」"
+translation = "「……그렇구나♪」"
+
+[[dialogue]]
+speaker = "unk"
+original = "俺の言葉に、マトイは微笑むのだった。"
+translation = "내 말에, 마토이는 미소를 짓는 것이었다."
+
+[[dialogue]]
+speaker = "unk"
+original = "流星クルセイダースが元の世界へ戻って、少しして。"
+translation = "류세이 크루세이더스가 원래 세계로 돌아가고, 얼마 지나지 않아."
+
+[[dialogue]]
+speaker_original = "パッキー"
+speaker_translation = "팟키"
+original = "「――おっ、魔王様、どうやら起きたみたいだぜ～！」"
+translation = "「――앗, 마왕님, 아무래도 일어난 모양이라구~!」"
+
+[[dialogue]]
+speaker_original = "ヘレナ（原作）"
+speaker_translation = "헬레나(원작)"
+original = "「おはよう、シンちゃん♪」"
+translation = "「안녕, 신짱♪」"
+
+[[dialogue]]
+speaker_original = "ナナカ"
+speaker_translation = "나나카"
+original = "「あっ、シン！\u3000起きた？\u3000よっ、元気～？」"
+translation = "「앗, 신! 일어났어? 여어, 잘 지냈어~?」"
+
+[[dialogue]]
+speaker_original = "リア"
+speaker_translation = "리아"
+original = "「シンくん、よかった～♪\u3000それで、どこまで覚えてるかな？」"
+translation = "「신군, 다행이다~♪ 그래서, 어디까지 기억하고 있을까?」"
+
+[[dialogue]]
+speaker_original = "ロロット"
+speaker_translation = "로롯토"
+original = "「――夢を見てた感じだけど、なんとなく海で遊んだりした気がする……ですか？\u3000それは夢じゃないですよ～♪」"
+translation = "「――꿈을 꾼 것 같은 느낌이지만, 왠지 바다에서 놀았던 것 같은 기분이 드는…… 건가요? 그건 꿈이 아니에요~♪」"
+
+[[dialogue]]
+speaker_original = "聖沙"
+speaker_translation = "미사"
+original = "「はいこれ、お土産よ」"
+translation = "「자 이거, 선물이야」"
+
+[[dialogue]]
+speaker_original = "聖沙"
+speaker_translation = "미사"
+original = "「一体何かって？\u3000咲良クンが寝たまんまだったから、会長が何か渡したいって言って、用意したのよ♪」"
+translation = "「대체 뭐냐고? 사쿠라 군이 잠든 채였으니까, 회장이 뭔가를 전해주고 싶다고 해서, 준비한 거라구♪」"
+
+[[dialogue]]
+speaker_original = "ロロット"
+speaker_translation = "로롯토"
+original = "「みんなで何がいいか、一緒に考えたのですよ～」"
+translation = "「다 같이 뭐가 좋을지, 함께 생각한 것입니다~」"
+
+[[dialogue]]
+speaker_original = "ナナカ"
+speaker_translation = "나나카"
+original = "「中身はなんと――『トンテキ弁当』だよ♪」"
+translation = "「내용물은 무려―― 『돈테키 도시락』이라구♪」"
+
+[[dialogue]]
+speaker_original = "ルネア"
+speaker_translation = "루네아"
+original = "「私が女神の力で、出来たて熱々のままで保管しておいたわ♪」"
+translation = "「내가 여신의 힘으로, 갓 만든 따끈따끈한 상태로 보관해 뒀어♪」"
+
+[[dialogue]]
+speaker_original = "ロロット"
+speaker_translation = "로롯토"
+original = "「異世会長さんの手作りなのですよ～♪」"
+translation = "「이세계 회장님의 수제인 것입니다~♪」"
+
+[[dialogue]]
+speaker_original = "ナナカ"
+speaker_translation = "나나카"
+original = "「さあ、冷めないうちに、食いねぇ！」"
+translation = "「자, 식기 전에, 어서 먹어!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "そうして間もなく――青い空に「うまいっ！！！」という元気な声が響いて。"
+translation = "그렇게 머지않아―― 푸른 하늘에 「맛있다!!!」라는 활기찬 목소리가 울려 퍼지고."
+
+[[dialogue]]
+speaker_original = "聖沙"
+speaker_translation = "미사"
+original = "「ふふっ、どうやら、会長の勝ちみたいね♪」"
+translation = "「후후, 아무래도, 회장의 승리인 것 같네♪」"
+
+[[dialogue]]
+speaker_original = "リア"
+speaker_translation = "리아"
+original = "「キラキラの笑顔、いただきました～♪」"
+translation = "「반짝반짝한 미소, 잘 받았습니다~♪」"
+
+[[dialogue]]
+speaker_original = "ナナカ"
+speaker_translation = "나나카"
+original = "「イェ～イ♪」"
+translation = "「예~이♪」"
+
+[[dialogue]]
+speaker_original = "ロロット"
+speaker_translation = "로롯토"
+original = "「なのです～♪」"
+translation = "「인 것입니다~♪」"
+
+[[dialogue]]
+speaker = "unk"
+original = "流星学園の生徒会室に、いつもの賑やかな日常が戻ってくるのだった。"
+translation = "유성학원의 학생회실에, 평소의 시끌벅적한 일상이 돌아오는 것이었다."
+

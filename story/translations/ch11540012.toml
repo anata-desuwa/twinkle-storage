@@ -1,0 +1,470 @@
+[[dialogue]]
+speaker = "unk"
+original = "第２話,イタズラ好きなスーパーレディ,P"
+translation = "제2화, 장난을 좋아하는 슈퍼 레이디"
+
+[[dialogue]]
+speaker = "unk"
+original = "その日、俺とヴィーナスとマトイの３人で星徒会室に着くと、机の上に見慣れないものが置いてあった。"
+translation = "그날, 나와 비너스와 마토이 3명이서 성도회실에 도착하자, 책상 위에 낯선 물건이 놓여 있었다."
+
+[[dialogue]]
+speaker_original = "マトイ"
+speaker_translation = "마토이"
+original = "「あれ？\u3000これって……カセットテープレコーダー？」"
+translation = "「어라? 이건…… 카세트테이프 레코더?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "本当だ。でも、なんでここに……？"
+translation = "진짜네. 하지만, 왜 여기에……?"
+
+[[dialogue]]
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
+original = "「ねぇ、マトイ。『かせっとてーぷ』って何？」"
+translation = "「저기, 마토이. 『카세트테이프』가 뭐야?」"
+
+[[dialogue]]
+speaker_original = "マトイ"
+speaker_translation = "마토이"
+original = "「え！？\u3000カセットテープって、まだ普通に知られてるものなんじゃないの！？」"
+translation = "「에!? 카세트테이프라니, 아직 흔히 알려진 물건 아니야!?」"
+
+[[dialogue]]
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
+original = "「？\u3000私は今日、初めて知ったわ！」"
+translation = "「? 나는 오늘, 처음 알았어!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "と、その時。カチッという音と共に、レコーダーが動き出す。"
+translation = "그때. 찰칵하는 소리와 함께, 레코더가 작동하기 시작한다."
+
+[[dialogue]]
+speaker_original = "ヘレナ（原作）"
+speaker_translation = "헬레나(원작)"
+original = "『おはよう、星徒会の諸君！』"
+translation = "『안녕, 성도회 여러분!』"
+
+[[dialogue]]
+speaker_original = "マトイ"
+speaker_translation = "마토이"
+original = "「この声……異世界のヘレナさん？」"
+translation = "「이 목소리…… 이세계의 헬레나 씨?」"
+
+[[dialogue]]
+speaker_original = "ヘレナ（原作）"
+speaker_translation = "헬레나(원작)"
+original = "『今日は諸君に頼みたい任務がある。詳細は機密事項につき、直接会って伝える』"
+translation = "『오늘은 여러분에게 부탁하고 싶은 임무가 있다. 자세한 것은 기밀사항이므로, 직접 만나서 전하겠다』"
+
+[[dialogue]]
+speaker_original = "ヘレナ（原作）"
+speaker_translation = "헬레나(원작)"
+original = "『なお――このテープは自動的に爆発して消滅する』"
+translation = "『덧붙여―― 이 테이프는 자동으로 폭발하여 소멸한다』"
+
+[[dialogue]]
+speaker_original = "マトイ"
+speaker_translation = "마토이"
+original = "「爆発！？」"
+translation = "「폭발!?」"
+
+[[dialogue]]
+speaker_original = "ヘレナ（原作）"
+speaker_translation = "헬레나(원작)"
+original = "「どっか～ん♪」"
+translation = "「쿠~쿵♪」"
+
+[[dialogue]]
+speaker_original = "マトイ"
+speaker_translation = "마토이"
+original = "「きゃあぁっ！？」"
+translation = "「캬아앗!?」"
+
+[[dialogue]]
+speaker_original = "ヘレナ（原作）"
+speaker_translation = "헬레나(원작)"
+original = "「ふふっ♪\u3000いい反応ね、マトイちゃん。お姉さん、からかい甲斐があるわ～♪」"
+translation = "「후후♪ 좋은 반응이네, 마토이짱. 언니가, 놀리는 보람이 있어~♪」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ヘレナさん、いつの間に……！"
+translation = "헬레나 씨, 어느 사이에……!"
+
+[[dialogue]]
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
+original = "「ヘレナお姉ちゃん！」"
+translation = "「헬레나 언니!」"
+
+[[dialogue]]
+speaker_original = "ヘレナ（原作）"
+speaker_translation = "헬레나(원작)"
+original = "「あら～、ヴィーナスちゃ～ん！\u3000お姉ちゃんが遊びに来たわよ～♪\u3000ぎゅ～っ<emoji=heart04>」"
+translation = "「어머~, 비너스짱~! 언니가 놀러 왔단다~♪ 꼬~옥<emoji=heart04>」"
+
+[[dialogue]]
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
+original = "「んっ♪\u3000えへへ～<emoji=heart04>\u3000そんな撫でられたらくすぐったいわ♪」"
+translation = "「응읏♪ 에헤헤~<emoji=heart04> 그렇게 쓰다듬으면 간지러워♪」"
+
+[[dialogue]]
+speaker_original = "マトイ"
+speaker_translation = "마토이"
+original = "「なんか知らない間に、ヘレナさんとヴィーナスがめっちゃ仲良くなってる！？」"
+translation = "「왠지 모르는 사이에, 헬레나 씨랑 비너스가 엄청 사이좋아졌어!?」"
+
+[[dialogue]]
+speaker_original = "リア"
+speaker_translation = "리아"
+original = "「あはは……こっちの世界の九浄家に泊まらせてもらってる間に、すっかり家族みたいになっちゃって～」"
+translation = "「아하하…… 이쪽 세계의 쿠죠가에서 묵게 해주는 동안에, 완전히 가족처럼 돼버려서~」"
+
+[[dialogue]]
+speaker_original = "マトイ"
+speaker_translation = "마토이"
+original = "「リアさん！\u3000一緒にいらっしゃったんですね」"
+translation = "「리아 씨! 함께 오셨군요」"
+
+[[dialogue]]
+speaker_original = "リア"
+speaker_translation = "리아"
+original = "「マトイちゃん、会長くん、こんにちは～」"
+translation = "「마토이짱, 회장군, 안녕~」"
+
+[[dialogue]]
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
+original = "「あっ！\u3000リアお姉ちゃんも遊びに来てくれたのね♪」"
+translation = "「앗! 리아 언니도 놀러 와준 거구나♪」"
+
+[[dialogue]]
+speaker_original = "リア"
+speaker_translation = "리아"
+original = "「ヴィーナスちゃ～ん<emoji=heart04>\u3000そうなの～、私も遊びに来ちゃった♪\u3000お姉ちゃんも、頭をなでなで～<emoji=heart04>」"
+translation = "「비너스짱~<emoji=heart04> 그렇단다~, 나도 놀러 와버렸어♪ 언니도, 머리 쓰담쓰담~<emoji=heart04>」"
+
+[[dialogue]]
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
+original = "「えへへ～♪\u3000リアお姉ちゃんにも撫でてもらえて、嬉しいわ♪」"
+translation = "「에헤헤~♪ 리아 언니한테도 쓰다듬어져서, 기뻐♪」"
+
+[[dialogue]]
+speaker_original = "マトイ"
+speaker_translation = "마토이"
+original = "「なんかリアさんも、ヴィーナスに対しての態度が変わってる！？」"
+translation = "「왠지 리아 씨도, 비너스에 대한 태도가 바뀌었어!?」"
+
+[[dialogue]]
+speaker_original = "ヘレナ（原作）"
+speaker_translation = "헬레나(원작)"
+original = "「ふふっ、実はね、リアったら――ヴィーナスちゃんを妹みたいだって改めて思ったら、急に可愛くて仕方なくなっちゃったみたいなのよ～♪」"
+translation = "「후후, 사실은 말이지, 리아 말이야―― 비너스짱을 동생 같다고 다시 생각했더니, 갑자기 귀여워서 어쩔 줄 모르게 돼버린 모양이야~♪」"
+
+[[dialogue]]
+speaker_original = "マトイ"
+speaker_translation = "마토이"
+original = "「九浄家で何があったのか、気になるんですけど……」"
+translation = "「쿠죠가에서 무슨 일이 있었는지, 궁금한데요……」"
+
+[[dialogue]]
+speaker = "unk"
+original = "俺たちに頼みたい任務っていうのは？"
+translation = "우리에게 부탁하고 싶다는 임무라는 건?"
+
+[[dialogue]]
+speaker = "unk"
+original = "それでヘレナさん"
+translation = "그래서 헬레나 씨"
+
+[[dialogue]]
+speaker_original = "ヘレナ（原作）"
+speaker_translation = "헬레나(원작)"
+original = "「ああ、それね♪\u3000ほら、私は向こうの世界で流星学園の理事長をやってるって、この前話したでしょ？」"
+translation = "「아아, 그거 말이지♪ 봐봐, 나는 저쪽 세계에서 유성학원의 이사장을 하고 있다고, 요전에 얘기했었지?」"
+
+[[dialogue]]
+speaker_original = "ヘレナ（原作）"
+speaker_translation = "헬레나(원작)"
+original = "「だから、こっちの学園を見学して、いいところは積極的に取り入れたいって考えてるのよ」"
+translation = "「그러니까, 이쪽 학원을 견학하고, 좋은 점은 적극적으로 받아들이고 싶다고 생각하고 있어」"
+
+[[dialogue]]
+speaker_original = "ヘレナ（原作）"
+speaker_translation = "헬레나(원작)"
+original = "「それで魔王ちゃんたちには、新星学園の星徒会の仕事を見せてもらえないかな～と思って♪」"
+translation = ""
+
+[[dialogue]]
+speaker = "unk"
+original = "俺たちはヘレナさんのお願いを承諾して、星徒会の業務を見せることになった。"
+translation = "우리들은 헬레나 씨의 부탁을 승낙하고, 성도회의 업무를 보여주기로 했다."
+
+[[dialogue]]
+speaker_original = "ヘレナ（原作）"
+speaker_translation = "헬레나(원작)"
+original = "「――なるほど。それなら、ここはこうした方が、もっと効率がよくなるんじゃないかしら？」"
+translation = "「――그렇군. 그렇다면, 여기는 이렇게 하는 편이, 좀 더 효율이 좋아지지 않을까?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "あっ、確かに……！\u3000ありがとうございます"
+translation = "앗, 확실히……! 감사합니다"
+
+[[dialogue]]
+speaker_original = "マトイ"
+speaker_translation = "마토이"
+original = "「あはは、なんだか、私たちの方が逆にアドバイスをもらっちゃってる感じだね」"
+translation = "「아하하, 왠지, 우리 쪽이 역으로 조언을 받고 있는 느낌이네」"
+
+[[dialogue]]
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
+original = "「さすがヘレナお姉ちゃんね！\u3000まあ、私には難しくて、よくわからないけど！」"
+translation = "「역시 헬레나 언니네! 뭐, 나한테는 어려워서, 잘 모르겠지만!」"
+
+[[dialogue]]
+speaker_original = "リア"
+speaker_translation = "리아"
+original = "「お姉ちゃんは元生徒会長で、なんでもこなせちゃう『スーパーレディー』だからね～」"
+translation = "「언니는 전 학생회장이라서, 뭐든지 해내버리는 『슈퍼 레이디』니까~」"
+
+[[dialogue]]
+speaker_original = "ヘレナ（原作）"
+speaker_translation = "헬레나(원작)"
+original = "「や～ね、なんでもできるわけじゃないわよ。経験があるから、コツがわかるってだけ」"
+translation = "「싫다 참, 뭐든지 할 수 있는 건 아니야. 경험이 있으니까, 요령을 안다는 것뿐」"
+
+[[dialogue]]
+speaker_original = "マトイ"
+speaker_translation = "마토이"
+original = "「ヘレナさん、あの……もしよければなんですけど、後で戦闘訓練も見てもらえたりとかってできますか」"
+translation = "「헬레나 씨, 저기…… 괜찮으시다면 말입니다만, 나중에 전투 훈련도 봐주실 수 있으신가요」"
+
+[[dialogue]]
+speaker_original = "ヘレナ（原作）"
+speaker_translation = "헬레나(원작)"
+original = "「あら、私に？」"
+translation = "「어머, 나에게?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "その後、星徒会の仕事がひと段落してから、俺たちはリゾート結界のプライベートビーチへと移動した。"
+translation = "그 후, 성도회의 일이 일단락되고 나서, 우리들은 리조트 결계의 프라이빗 비치로 이동했다."
+
+[[dialogue]]
+speaker_original = "ヘレナ（原作）"
+speaker_translation = "헬레나(원작)"
+original = "「――私に訓練を頼んできたのは、マトイちゃんの巫女フォームが二刀流だからってわけね♪」"
+translation = "「――나에게 훈련을 부탁해 온 것은, 마토이짱의 무녀 폼이 이도류이기 때문이라는 거네♪」"
+
+[[dialogue]]
+speaker_original = "マトイ"
+speaker_translation = "마토이"
+original = "「はい。この前のヘレナさん、すごい剣捌きだったので……」"
+translation = "「네. 지난번의 헬레나 씨, 엄청난 검술이었기 때문에……」"
+
+[[dialogue]]
+speaker_original = "ヘレナ（原作）"
+speaker_translation = "헬레나(원작)"
+original = "「よ～し、そういうことなら、さっそく刀を交えてみましょうか♪」"
+translation = "「좋~아, 그렇다면, 당장 칼을 맞춰볼까♪」"
+
+[[dialogue]]
+speaker_original = "マトイ"
+speaker_translation = "마토이"
+original = "「よろしくお願いします！」"
+translation = "「잘 부탁드립니다!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "そうして、ヘレナさんと実戦訓練を行うマトイだったが……。"
+translation = "그렇게, 헬레나 씨와 실전 훈련을 실시하는 마토이였지만……."
+
+[[dialogue]]
+speaker_original = "マトイ"
+speaker_translation = "마토이"
+original = "「ま、参りました……！\u3000ヘレナさん、やっぱりとんでもなく強い……！」"
+translation = "「항, 항복입니다……! 헬레나 씨, 역시 터무니없이 강해……!」"
+
+[[dialogue]]
+speaker_original = "ヘレナ（原作）"
+speaker_translation = "헬레나(원작)"
+original = "「あら、マトイちゃんこそ、二刀流で戦うようになってからそんなに経ってないのに、これだけ使いこなせたら大したものよ♪」"
+translation = "「어머, 마토이짱이야말로, 이도류로 싸우게 되고 나서 그다지 지나지 않았는데, 이만큼 다룰 수 있다면 대단한거야♪」"
+
+[[dialogue]]
+speaker_original = "ヘレナ（原作）"
+speaker_translation = "헬레나(원작)"
+original = "「さすが最前線で戦い続けてる星騎士ね～。私の方は、体の動きがまだ思考について来なくて、長く戦ってなかったブランクを感じちゃうわ」"
+translation = "「역시 최전선에서 계속 싸우고 있는 성기사네~. 나 쪽은, 몸의 움직임이 아직 생각을 따라오지 않아서, 오랫동안 싸우지 않았던 공백을 느껴버려」"
+
+[[dialogue]]
+speaker_original = "マトイ"
+speaker_translation = "마토이"
+original = "「え？\u3000いやいや！\u3000ブランク含めても、全然勝てる気がしませんでしたよ！？」"
+translation = "「에? 아니아니! 공백을 포함해도, 전혀 이길 수 있을 것 같지 않았다고요!?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "向こうの九浄家に伝わるものだったり？"
+translation = "저쪽 쿠죠가에 전해 내려오는 거라던가?"
+
+[[dialogue]]
+speaker = "unk"
+original = "二刀流の剣技って"
+translation = "이도류 검술은"
+
+[[dialogue]]
+speaker_original = "ヘレナ（原作）"
+speaker_translation = "헬레나(원작)"
+original = "「ん？\u3000あははっ、そんなものないわよ～。私の二刀流剣術は、自分で作った我流よ。我流♪」"
+translation = "「응? 아하하, 그런 거 없어~. 내 이도류 검술은, 내가 만든 아류야. 아류♪」"
+
+[[dialogue]]
+speaker_original = "マトイ"
+speaker_translation = "마토이"
+original = "「我流！？」"
+translation = "「아류!?」"
+
+[[dialogue]]
+speaker_original = "リア"
+speaker_translation = "리아"
+original = "「お姉ちゃんの二刀流は、好きな洋画に出てくる、刀使いのオジサマが使う剣技が元ネタなんだよ～」"
+translation = "「언니의 이도류는, 좋아하는 서양 영화에 나오는, 검객 아저씨가 사용하는 검술이 원조거든~」"
+
+[[dialogue]]
+speaker_original = "ヘレナ（原作）"
+speaker_translation = "헬레나(원작)"
+original = "「そうなのよ～♪\u3000映画自体はＢ級で、いかにも日本じゃなく海外で作られましたって感じのインチキ侍アクションなんだけど～」"
+translation = "「그렇단다~♪ 영화 자체는 B급으로, 참으로 일본이 아니라 해외에서 만들어졌다는 느낌의 엉터리 사무라이 액션이지만~」"
+
+[[dialogue]]
+speaker_original = "ヘレナ（原作）"
+speaker_translation = "헬레나(원작)"
+original = "「でも、主人公のオジサマは、それはもう渋くて素敵でね？\u3000銃を一切使わず、二刀流の日本刀で無双するのが、痺れるカッコよさなのよ～<emoji=heart04>」"
+translation = "「하지만, 주인공인 아저씨는, 아주 그냥 묵직하고 멋져서 말이지? 총을 일절 사용하지 않고, 이도류 일본도로 무쌍을 찍는 게, 소름 돋게 멋지단다~<emoji=heart04>」"
+
+[[dialogue]]
+speaker_original = "マトイ"
+speaker_translation = "마토이"
+original = "「映画の真似でこの強さ！？\u3000やっぱり普通じゃない……！」"
+translation = "「영화 흉내로 이 강함!? 역시 평범하지 않아……!」"
+
+[[dialogue]]
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
+original = "「ヘレナお姉ちゃんは、まさにスーパーなレディーということね！」"
+translation = "「헬레나 언니는, 그야말로 슈퍼한 레이디라는 거네!」"
+
+[[dialogue]]
+speaker_original = "リア"
+speaker_translation = "리아"
+original = "「でも、意外と子供っぽいところもあるんだけどね～」"
+translation = "「하지만, 의외로 아이 같은 구석도 있지만 말이지~」"
+
+[[dialogue]]
+speaker_original = "リア"
+speaker_translation = "리아"
+original = "「イタズラ好きだったり～、ネギが嫌いで、料理に入ってると、お父さんお母さんに見つからないように、こっそり私に食べてもらおうとしたり～」"
+translation = "「장난치는 걸 좋아한다거나~, 파를 싫어해서, 요리에 들어있으면, 아빠 엄마한테 안 들키게, 몰래 나한테 먹게 하려고 한다거나~」"
+
+[[dialogue]]
+speaker_original = "ヘレナ（原作）"
+speaker_translation = "헬레나(원작)"
+original = "「こら、リア～？\u3000お姉ちゃんの弱点を人様に教えちゃうなんて、悪い子ね～」"
+translation = "「이놈, 리아~? 언니의 약점을 남한테 가르쳐주다니, 나쁜 아이네~」"
+
+[[dialogue]]
+speaker_original = "ヘレナ（原作）"
+speaker_translation = "헬레나(원작)"
+original = "「そんな悪い子にはお仕置きよ？\u3000――えいっ<emoji=heart04>」"
+translation = "「그런 나쁜 아이에게는 벌을 줄까? ――에잇<emoji=heart04>」"
+
+[[dialogue]]
+speaker_original = "リア"
+speaker_translation = "리아"
+original = "「きゃあっ！？\u3000ちょっと、お姉ちゃん！？」"
+translation = "「캬앗!? 잠시만, 언니!?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ヘレナさんはリア先輩の背後に回ると――なんと、その大きな胸を掴んで揉み始めた。"
+translation = "헬레나 씨는 리아 선배의 등 뒤로 돌아가더니―― 놀랍게도, 그 큰 가슴을 잡고 주무르기 시작했다."
+
+[[dialogue]]
+speaker_original = "ヘレナ（原作）"
+speaker_translation = "헬레나(원작)"
+original = "「あら♪\u3000リアったら、また少し大きくなったんじゃな～い？」"
+translation = "「어머♪ 리아, 또 조금 커진 거 아니~니?」"
+
+[[dialogue]]
+speaker_original = "リア"
+speaker_translation = "리아"
+original = "「も、もうっ、そういうとこだよ、お姉ちゃん！\u3000恥ずかしいから、触るのやめて～！」"
+translation = "「정, 정말이지, 그런 점이라구, 언니! 부끄러우니까, 만지는 거 그만둬~!」"
+
+[[dialogue]]
+speaker_original = "マトイ"
+speaker_translation = "마토이"
+original = "「ちょっ、ヘレナさん！？\u3000会長も見ているのに、またそんな……！」"
+translation = "「잠깐, 헬레나 씨!? 회장도 보고 있는데, 또 그런……!」"
+
+[[dialogue]]
+speaker_original = "ヘレナ（原作）"
+speaker_translation = "헬레나(원작)"
+original = "「ふふっ♪\u3000これは姉妹のコミュニケーションよ、コミュニケーション<emoji=heart04>」"
+translation = "「후후♪ 이건 자매간의 커뮤니케이션이야, 커뮤니케이션<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "unk"
+original = "お、俺は何も見てませんよ！？"
+translation = "나, 나는 아무것도 안 보고 있어요!?."
+
+[[dialogue]]
+speaker_original = "マトイ"
+speaker_translation = "마토이"
+original = "「そう言いつつ、顔を覆う指の隙間がガッツリ開いてるけど！？」"
+translation = "「말은 그렇게 하면서, 얼굴을 가린 손가락 틈새가 아주 벌어져 있는데!?」"
+
+[[dialogue]]
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
+original = "「ふふっ、こっちの世界のヘレナちゃんに似て、面白いお姉ちゃんよね♪」"
+translation = "「후후, 이쪽 세계의 헬레나짱을 닮아서, 재밌는 언니네♪」"
+
+[[dialogue]]
+speaker_original = "ヘレナ（原作）"
+speaker_translation = "헬레나(원작)"
+original = "「ヴィーナスちゃんも、お姉ちゃんとコミュニケーションどうかしら～？」"
+translation = "「비너스짱도, 언니랑 커뮤니케이션 어떨까나~?」"
+
+[[dialogue]]
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
+original = "「えっ、いいの！？\u3000私もリアお姉ちゃんの胸を揉めばいいってことよね♪」"
+translation = "「에, 좋아!? 나도 리아 언니 가슴을 주무르면 된다는 거지♪」"
+
+[[dialogue]]
+speaker_original = "リア"
+speaker_translation = "리아"
+original = "「私を揉む方なの！？」"
+translation = "「나를 주무르는 쪽이야!?」"
+
+[[dialogue]]
+speaker_original = "ヘレナ（原作）"
+speaker_translation = "헬레나(원작)"
+original = "「ぷっ……あははははっ♪\u3000その返しは思いつかなかったわ～」"
+translation = "「풋…… 아하하하핫♪ 그 받아치기는 생각 못 했네~」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ヘレナさんはヴィーナスの言葉がツボに入ったらしく、噴き出して楽しそうに笑うのだった。"
+translation = "헬레나 씨는 비너스의 말이 웃음보에 터진 듯, 뿜어내며 즐거운 듯 웃는 것이었다."
+

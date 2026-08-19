@@ -1,0 +1,397 @@
+[[dialogue]]
+speaker = "unk"
+original = "第４話,また勝負する日まで,P"
+translation = "제4화, 다시 승부하는 날까지,P"
+
+[[dialogue]]
+speaker = "unk"
+original = "流星クルセイダースが元の世界へ帰る前日。"
+translation = "유성 크루세이더즈가 원래 세계로 돌아가기 전날."
+
+[[dialogue]]
+speaker = "unk"
+original = "聖沙は、今回仲良くなった梨緒のもとを訪ねていた。"
+translation = "세이사는 이번에 친해진 리오의 거처를 찾아가 있었다."
+
+[[dialogue]]
+speaker_original = "梨緒"
+speaker_translation = "리오"
+original = "「――そうか。もう帰ってしまうんだな」"
+translation = "「――그런가. 벌써 돌아가 버리는 거구나」"
+
+[[dialogue]]
+speaker_original = "聖沙"
+speaker_translation = "미사"
+original = "「ええ。せっかく仲良くなれたのに、残念だけど……」"
+translation = "「응. 모처럼 친해졌는데, 아쉽지만……」"
+
+[[dialogue]]
+speaker_original = "梨緒"
+speaker_translation = "리오"
+original = "「……聖沙、実は、聞いておきたかったことがあるんだ」"
+translation = "「……세이사, 사실은 물어보고 싶었던 게 있어」"
+
+[[dialogue]]
+speaker_original = "聖沙"
+speaker_translation = "미사"
+original = "「なにかしら……？」"
+translation = "「무얼까나……?」"
+
+[[dialogue]]
+speaker_original = "梨緒"
+speaker_translation = "리오"
+original = "「キミは私と同じで、よく相手に『勝負』を挑むだろう？」"
+translation = "「너는 나와 마찬가지로, 자주 상대에게 『승부』를 걸지?」"
+
+[[dialogue]]
+speaker_original = "梨緒"
+speaker_translation = "리오"
+original = "「それは聖沙にとってなんの為に勝負をしているのか、知りたかったんだ」"
+translation = "「그건 세이사에게 있어서 무엇을 위해 승부를 하고 있는 건지, 알고 싶었어」"
+
+[[dialogue]]
+speaker_original = "聖沙"
+speaker_translation = "미사"
+original = "「そっか……私たちが似た者同士だからこそ、そこは気になるわよね」"
+translation = "「그렇구나…… 우리가 닮은꼴이라서 더욱, 그 부분이 신경 쓰이는 거겠지」"
+
+[[dialogue]]
+speaker_original = "聖沙"
+speaker_translation = "미사"
+original = "「……私がよく勝負を挑むのは、もともとは両親に誇れるような自分になりたかったからなの」"
+translation = "「……내가 자주 승부를 거는 건, 원래는 부모님께 자랑스러운 자신이 되고 싶었기 때문이야」"
+
+[[dialogue]]
+speaker_original = "聖沙"
+speaker_translation = "미사"
+original = "「私の両親は共働きで、帰りが遅いことが多くて……」"
+translation = "「우리 부모님은 맞벌이라서, 귀가가 늦으실 때가 많아서……」"
+
+[[dialogue]]
+speaker_original = "聖沙"
+speaker_translation = "미사"
+original = "「だから、１人でもちゃんとやれてるって、心配させないようにしたかった」"
+translation = "「그래서 혼자서도 잘 해내고 있다고, 걱정하시지 않도록 하고 싶었어」"
+
+[[dialogue]]
+speaker_original = "聖沙"
+speaker_translation = "미사"
+original = "「成績とか、何かで１位を取るとか……そういう形で、『私は大丈夫よ』って、安心してもらいたかったのよ」"
+translation = "「성적이라든가, 무언가에서 1위를 한다든가…… 그런 형태로, 『나는 괜찮아요』라며 안심시켜 드리고 싶었던 거야」"
+
+[[dialogue]]
+speaker_original = "聖沙"
+speaker_translation = "미사"
+original = "「まあ、もちろん、私の気質が『負けず嫌い』だっていうのはあるけど――」"
+translation = "「뭐, 물론 나의 기질이 『지기 싫어함』이라는 것도 있겠지만――」"
+
+[[dialogue]]
+speaker_original = "聖沙"
+speaker_translation = "미사"
+original = "「でも、それ以上に……私が勝負を挑むのは――きっと、不器用だからなんだと思うわ」"
+translation = "「하지만, 그 이상으로…… 내가 승부를 거는 건―― 분명, 서툴기 때문이라고 생각해」"
+
+[[dialogue]]
+speaker_original = "聖沙"
+speaker_translation = "미사"
+original = "「異世界の魔王――咲良クンに、私が勝負を挑み続けているのも……」"
+translation = "「이세계의 마왕―― 사쿠라 군에게, 내가 계속 승부를 걸고 있는 것도……」"
+
+[[dialogue]]
+speaker_original = "聖沙"
+speaker_translation = "미사"
+original = "「今まで男の子と仲良く接する機会があまりなくて……気恥ずかしかったから」"
+translation = "「지금까지 남자아이와 친하게 지낼 기회가 별로 없어서…… 쑥스러웠으니까」"
+
+[[dialogue]]
+speaker_original = "聖沙"
+speaker_translation = "미사"
+original = "「でも、勝負をしていると……上手く言葉が交わせなくても、相手のことが少しずつ見えてくるでしょ？」"
+translation = "「하지만, 승부를 하고 있으면…… 말을 잘 나누지 못해도, 상대에 대해 조금씩 보여 오잖아?」"
+
+[[dialogue]]
+speaker_original = "聖沙"
+speaker_translation = "미사"
+original = "「あっ、いや！\u3000だからって別に、咲良クンと仲良くなりたかったとか、そういうわけじゃないんだけどね！？」"
+translation = "「앗, 아니! 그렇다고 딱히, 사쿠라 군과 친해지고 싶었다거나, 그런 건 아니지만 말야!?」"
+
+[[dialogue]]
+speaker_original = "梨緒"
+speaker_translation = "리오"
+original = "「ふふっ……そうか」"
+translation = "「후후…… 그렇구나」"
+
+[[dialogue]]
+speaker_original = "聖沙"
+speaker_translation = "미사"
+original = "「り、梨緒ったら、なに笑ってるのよ、もうっ……！」"
+translation = "「리, 리오도 참, 뭘 웃고 있는 거야, 정말……!」"
+
+[[dialogue]]
+speaker_original = "聖沙"
+speaker_translation = "미사"
+original = "「……コホン。つ、つまるところ――」"
+translation = "「……크흠. 요, 요컨대――」"
+
+[[dialogue]]
+speaker_original = "聖沙"
+speaker_translation = "미사"
+original = "「私にとって『勝負』は……相手と分かり合うための『魔法』みたいなものなのよ」"
+translation = "「나에게 있어서 『승부』는…… 상대와 서로를 이해하기 위한 『마법』 같은 거야」"
+
+[[dialogue]]
+speaker_original = "梨緒"
+speaker_translation = "리오"
+original = "「魔法……か」"
+translation = "「마법…… 인가」"
+
+[[dialogue]]
+speaker_original = "梨緒"
+speaker_translation = "리오"
+original = "「……ふふっ。確かに、そうかもしれないな」"
+translation = "「……후후. 확실히, 그럴지도 모르겠네」"
+
+[[dialogue]]
+speaker_original = "梨緒"
+speaker_translation = "리오"
+original = "「この前泊まった時に、ジグの話はしたと思うが……」"
+translation = "「이전에 묵었을 때, 지그의 이야기는 했다고 생각하지만……」"
+
+[[dialogue]]
+speaker_original = "梨緒"
+speaker_translation = "리오"
+original = "「私も諦めずに、彼女と勝負をし続けたことで、私はリクリエから彼女を救い出すことができた」"
+translation = "「나도 포기하지 않고, 그녀와 승부를 계속함으로 인해, 나는 리크리에로부터 그녀를 구해낼 수 있었어」"
+
+[[dialogue]]
+speaker_original = "梨緒"
+speaker_translation = "리오"
+original = "「それに、会長との御前試合や、新星星徒会と選挙管理委員会で競ったクイズ大会……」"
+translation = "「게다가, 회장과의 어전시합이나, 신성학생회와 선거관리위원회에서 겨룬 퀴즈 대회……」"
+
+[[dialogue]]
+speaker_original = "梨緒"
+speaker_translation = "리오"
+original = "「そういう勝負があったからこそ、仲間としての絆を得られたような気がする」"
+translation = "「그런 승부가 있었기에 비로소, 동료로서의 유대감을 얻을 수 있었던 느낌이 들어」"
+
+[[dialogue]]
+speaker_original = "梨緒"
+speaker_translation = "리오"
+original = "「聖沙、キミとも――勝負することで、お互いがアナザーステラだと分かり合えたしな」"
+translation = "「세이샤, 너와도――승부함으로써, 서로가 어나더 스테라라는 걸 이해할 수 있었고 말이지」"
+
+[[dialogue]]
+speaker_original = "聖沙"
+speaker_translation = "미사"
+original = "「ええ。勝負して、正解だったわね♪」"
+translation = "「그래. 승부하길 잘했네♪」"
+
+[[dialogue]]
+speaker_original = "梨緒"
+speaker_translation = "리오"
+original = "「ああ。ポエムの勝負も……とても楽しかった」"
+translation = "「아아. 시 승부도…… 매우 즐거웠어」"
+
+[[dialogue]]
+speaker_original = "梨緒"
+speaker_translation = "리오"
+original = "「ありがとう、聖沙。私にとっても、『勝負』が大切なものだと再認識できたよ」"
+translation = "「고마워, 세이샤. 나에게 있어서도, 『승부』가 중요한 것이라고 재인식할 수 있었어」"
+
+[[dialogue]]
+speaker_original = "聖沙"
+speaker_translation = "미사"
+original = "「ふふっ、それならよかったわ♪\u3000まあ、私も――」"
+translation = "「후후, 그렇다면 다행이네♪ 뭐, 나도――」"
+
+[[dialogue]]
+speaker_original = "聖沙"
+speaker_translation = "미사"
+original = "「自分がどうして勝負したいのか、ちゃんと考えられるようになったのは最近になってからなんだけどね」"
+translation = "「내가 어째서 승부하고 싶은 건지, 제대로 생각할 수 있게 된 건 최근에 들어서부터지만 말이야」"
+
+[[dialogue]]
+speaker_original = "梨緒"
+speaker_translation = "리오"
+original = "「そうなのか？」"
+translation = "「그런 건가?」"
+
+[[dialogue]]
+speaker_original = "聖沙"
+speaker_translation = "미사"
+original = "「ええ。それもきっと、勝負し続けてきたから気づけたこと」"
+translation = "「응. 그것도 분명, 계속 승부해 왔기에 깨달을 수 있었던 점」"
+
+[[dialogue]]
+speaker_original = "梨緒"
+speaker_translation = "리오"
+original = "「……異世界の魔王との勝負か？」"
+translation = "「……이세계의 마왕과의 승부 말인가?」"
+
+[[dialogue]]
+speaker_original = "聖沙"
+speaker_translation = "미사"
+original = "「ま、まあね……！」"
+translation = "「그, 그렇지 뭐……!」"
+
+[[dialogue]]
+speaker_original = "聖沙"
+speaker_translation = "미사"
+original = "「あ、でも言っとくけど、咲良クンとは、あくまで同じ生徒会の仲間として、少し分かり合えてきたってだけだからね！？」"
+translation = "「아, 하지만 말해두겠는데, 사쿠라 군과는 어디까지나 같은 학생회 동료로서, 조금 서로를 이해하게 되었을 뿐이니까!?」"
+
+[[dialogue]]
+speaker_original = "聖沙"
+speaker_translation = "미사"
+original = "「そ、そういう梨緒こそ……会長とはどうなの？\u3000フィオナさんに聞いたけど、今も勝負を挑み続けているんでしょう？」"
+translation = "「그, 그런 리오야말로…… 회장과는 어때? 피오나 씨에게 들었는데, 지금도 계속 승부를 걸고 있는 거잖아?」"
+
+[[dialogue]]
+speaker_original = "梨緒"
+speaker_translation = "리오"
+original = "「えっ！？\u3000そ、それは……！\u3000彼が魔王として暴走してしまった時に、それを止められるよう、同じくらい強くなっておく必要があるからで……！」"
+translation = "「앗!? 그, 그것은……! 그가 마왕으로서 폭주해 버렸을 때, 그것을 저지할 수 있도록, 그만큼 강해져 둘 필요가 있어서……!」"
+
+[[dialogue]]
+speaker_original = "梨緒"
+speaker_translation = "리오"
+original = "「た、確かに今では信頼はしている……！\u3000だがそれでも、彼が私を信じてくれているからこそ、それに応え続けたいというか……！」"
+translation = "「확, 확실히 지금은 신뢰하고 있어……! 하지만 그래도, 그가 나를 믿어주고 있기에, 거기에 계속 보답하고 싶다고 할까……!」"
+
+[[dialogue]]
+speaker_original = "梨緒"
+speaker_translation = "리오"
+original = "「と、とにかく！\u3000彼との勝負は、これからも必要なものなんだ……！」"
+translation = "「어, 어쨌든! 그와의 승부는, 앞으로도 필요한 거야……!」"
+
+[[dialogue]]
+speaker_original = "聖沙"
+speaker_translation = "미사"
+original = "「ふふっ♪\u3000そう――」"
+translation = "「후후♪ 그래――」"
+
+[[dialogue]]
+speaker_original = "聖沙"
+speaker_translation = "미사"
+original = "「なら、応援してるわ。負けないように、頑張りなさい♪」"
+translation = "「그럼, 응원할게. 지지 않도록, 힘내도록 해♪」"
+
+[[dialogue]]
+speaker_original = "梨緒"
+speaker_translation = "리오"
+original = "「ああ、キミもな――異世界の魔王に勝てるように」"
+translation = "「아아, 너도 말이지――이세계의 마왕에게 이길 수 있도록」"
+
+[[dialogue]]
+speaker_original = "聖沙"
+speaker_translation = "미사"
+original = "「ええ、もちろん！」"
+translation = "「응, 물론이지!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "――そして、聖沙が元の世界へ帰る当日。"
+translation = "――그리고, 세이샤가 원래 세계로 돌아가는 당일."
+
+[[dialogue]]
+speaker_original = "梨緒"
+speaker_translation = "리오"
+original = "「聖沙。よかった、間に合った」"
+translation = "「세이샤. 다행이다, 늦지 않았군」"
+
+[[dialogue]]
+speaker_original = "聖沙"
+speaker_translation = "미사"
+original = "「梨緒！\u3000会いに来てくれたの？」"
+translation = "「리오! 보러 와준 거야?」"
+
+[[dialogue]]
+speaker_original = "梨緒"
+speaker_translation = "리오"
+original = "「ああ。餞別を渡したくてな」"
+translation = "「아아. 작별 선물을 주고 싶어서 말이지」"
+
+[[dialogue]]
+speaker_original = "聖沙"
+speaker_translation = "미사"
+original = "「えっ……これって……！」"
+translation = "「앗…… 이건……!」"
+
+[[dialogue]]
+speaker_original = "梨緒"
+speaker_translation = "리오"
+original = "「ぶちゃ猫のぬいぐるみポーチだ。気に入って、何度も見ていただろう？」"
+translation = "「못난이 고양이 인형 파우치다. 마음에 들어서, 몇 번이고 보고 있었지?」"
+
+[[dialogue]]
+speaker_original = "聖沙"
+speaker_translation = "미사"
+original = "「で、でも……！\u3000それ、簡単には手に入らないって言ってたじゃない！」"
+translation = "「하, 하지만……! 그거, 쉽게는 구할 수 없다고 했잖아!」"
+
+[[dialogue]]
+speaker_original = "梨緒"
+speaker_translation = "리오"
+original = "「ああ。でも、手に入れようと思えば、今時はネットでも探せるし、なんとでもなる」"
+translation = "「아아. 하지만, 구하려고 하면 요즘은 인터넷으로도 찾을 수 있고, 어떻게든 되니까」"
+
+[[dialogue]]
+speaker_original = "梨緒"
+speaker_translation = "리오"
+original = "「だが、キミの世界には……ぶちゃ猫は存在していないんだろう？」"
+translation = "「하지만, 너의 세계에는…… 못난이 고양이가 존재하지 않잖아?」"
+
+[[dialogue]]
+speaker_original = "梨緒"
+speaker_translation = "리오"
+original = "「だから、これをキミにプレゼントしたいと思ったんだ」"
+translation = "「그러니까, 이것을 너에게 선물하고 싶다고 생각했어」"
+
+[[dialogue]]
+speaker_original = "聖沙"
+speaker_translation = "미사"
+original = "「梨緒……いいの？」"
+translation = "「리오…… 괜찮아?」"
+
+[[dialogue]]
+speaker_original = "梨緒"
+speaker_translation = "리오"
+original = "「ああ。私たちはアナザーステラ――いや、それ以上に……」"
+translation = "「아아. 우리는 어나더 스테라――아니, 그 이상으로……」"
+
+[[dialogue]]
+speaker_original = "梨緒"
+speaker_translation = "리오"
+original = "「大切な友人だからな」"
+translation = "「소중한 친구니까」"
+
+[[dialogue]]
+speaker_original = "聖沙"
+speaker_translation = "미사"
+original = "「……梨緒！」"
+translation = "「……리오!」"
+
+[[dialogue]]
+speaker_original = "聖沙"
+speaker_translation = "미사"
+original = "「ありがとう……！\u3000大切にするわ♪」"
+translation = "「고마워……! 소중히 간직할게♪」"
+
+[[dialogue]]
+speaker_original = "梨緒"
+speaker_translation = "리오"
+original = "「次に会えたら、また勝負しよう」"
+translation = "「다음에 만난다면, 또 승부하자」"
+
+[[dialogue]]
+speaker_original = "聖沙"
+speaker_translation = "미사"
+original = "「ええ、約束よ♪」"
+translation = "「응, 약속이야♪」"
+
+[[dialogue]]
+speaker = "unk"
+original = "そうして２人は、最初の時よりも固く握手を交わすのだった。"
+translation = "그렇게 두 사람은, 처음 때보다 더욱 굳게 악수를 나누는 것이었다."
+
