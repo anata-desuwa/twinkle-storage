@@ -1,10 +1,12 @@
 # twinkle-storage
 트윙클 한국어 번역 저장소
 
+<br><br>
+
 # 스토리 번역만 이용하는 방법
 - `BepInEx\plugins\TwinkleTranslator` 폴더 제거
 
-<br><br><br>
+<br>
 
 # AI 번역 설정 방법
 ## 공통 설정
