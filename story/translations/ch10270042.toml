@@ -1,33 +1,33 @@
 [[dialogue]]
 speaker = "unk"
 original = "第２話,正義の在処,P"
-translation = "제2화, 정의가 있는 곳, P"
+translation = "제2화, 정의의 소재, P"
 
 [[dialogue]]
 speaker = "unk"
 original = "放課後、コハルコはトレーニング施設にいることが多く、星徒会の仕事がない日は俺も自然と足が向く。今日は何故かレイラも一緒にいた。"
-translation = "방과 후, 코하루코는 트레이닝 시설에 있을 때가 많아, 성도회 일이 없는 날엔 나도 자연스럽게 발길이 향한다. 오늘은 왠지 레이라도 함께 있었다."
+translation = "방과 후, 코하루코는 트레이닝 시설에 있는 경우가 많아, 성도회 일이 없는 날은 나도 자연스레 발걸음이 향한다. 오늘은 왠지 레이라도 함께 있었다."
 
 [[dialogue]]
 speaker_original = "コハルコ"
 speaker_translation = "쿠하루코"
 original = "「会長さん、シミュレーターの調整に付き合ってもらっていいかな？\u3000この前のフライドチキンモンスターも一応登録しておきたくて」"
-translation = "「회장님, 시뮬레이터 조정 좀 도와줄 수 있을까? 저번에 그 프라이드 치킨 몬스터도 일단 등록해두고 싶어서」"
+translation = "「회장님, 시뮬레이터 조정 좀 도와줄 수 있어? 요 전의 프라이드치킨 몬스터도 일단 등록해 두고 싶어서」"
 
 [[dialogue]]
 speaker = "unk"
 original = "もちろん"
-translation = "물론이지"
+translation = "당연하지"
 
 [[dialogue]]
 speaker = "unk"
 original = "何かの拍子で再び現れないとも限らない。対策できるならしておくべきだろう。"
-translation = "어떤 계기로 다시 나타나지 않으리란 법도 없다. 대비할 수 있다면 해둬야 할 것이다."
+translation = "무슨 기회로 다시 나타나지 않는다고도 할 수 없다. 대책할 수 있다면 해둬야겠지."
 
 [[dialogue]]
 speaker = "unk"
 original = "……ただコハルコと一緒にいたいだけってのもあるけど。"
-translation = "……그저 코하루코와 함께 있고 싶을 뿐인 것도 있지만."
+translation = "……그냥 코하루코와 함께 있고 싶을 뿐이기도 하지만."
 
 [[dialogue]]
 speaker_original = "コハルコ"
@@ -45,54 +45,54 @@ translation = "「근데, 레이라는 뭐 하러 왔어?」"
 speaker_original = "レイラ"
 speaker_translation = "레이라"
 original = "「今日はイングリットがイニシュさんと訓練なので、羽を伸ばしに来ました」"
-translation = "「오늘은 잉그리드가 이니슈 씨와 훈련이라, 기분 전환하러 남의 집에 왔습니다」"
+translation = "「오늘은 인그리드가 이니슈 씨와 훈련 중이라, 기분 전환하러 왔습니다」"
 
 [[dialogue]]
 speaker_original = "コハルコ"
 speaker_translation = "쿠하루코"
 original = "「羽を伸ばしに他所ん家に来るんじゃないの。私は仕事中だから、いてもいいけど邪魔はしないでよね」"
-translation = "「기분 전환하러 남의 집에 오지 마. 나는 일하는 중이니까, 있어도 되지만 방해는 하지 마」"
+translation = "「기분 전환하러 남의 집에 오지 마. 나는 일하는 중이니까, 있어도 상관없지만 방해는 하지 마」"
 
 [[dialogue]]
 speaker_original = "レイラ"
 speaker_translation = "레이라"
 original = "「はーい、コハタン先輩」"
-translation = "「네ー에, 코하탄 선배」"
+translation = "「네~, 코하탄 선배」"
 
 [[dialogue]]
 speaker_original = "コハルコ"
 speaker_translation = "쿠하루코"
 original = "「コハタンて誰。というかレイラが私の後輩だったことないでしょ」"
-translation = "「코하탄이 누구야. 그보다 레이라가 내 후배였던 적 없잖아」"
+translation = "「코하탄은 누구야. 그보다 레이라가 내 후배였던 적은 없잖아」"
 
 [[dialogue]]
 speaker = "unk"
 original = "かつては敵だったコラプサーも今では味方だ。特にレイラはコハルコと話が合うらしく、用もないのに訪ねてくる。"
-translation = "과거에는 적이었던 콜랩서도 이제는 아군이다. 특히 레이라는 코하루코와 말이 잘 통하는 모양이라, 볼일도 없는데 찾아오곤 한다."
+translation = "한때는 적이었던 콜랩서도 지금은 아군이다. 특히 레이라는 코하루코와 말이 잘 통하는지, 일도 없는데 찾아오곤 한다."
 
 [[dialogue]]
 speaker_original = "コハルコ"
 speaker_translation = "쿠하루코"
 original = "「じゃあそろそろ始めようか」"
-translation = "「그럼 슬슬 시작해볼까」"
+translation = "「그럼 이제 시작해 볼까」"
 
 [[dialogue]]
 speaker_original = "コハルコ"
 speaker_translation = "쿠하루코"
 original = "「フライドチキンモンスターを出してみるから、挙動におかしなところがあったら教えてね」"
-translation = "「프라이드 치킨 몬스터를 내보낼 테니까, 거동에 이상한 점이 있으면 알려줘」"
+translation = "「프라이드치킨 몬스터를 꺼내 볼 테니까, 거동에 이상한 부분이 있으면 알려줘」"
 
 [[dialogue]]
 speaker_original = "モンスター"
 speaker_translation = "몬스터"
 original = "「チキチキチー！」"
-translation = "「치키치키치!」"
+translation = "「치키치키치ー！」"
 
 [[dialogue]]
 speaker_original = "コハルコ"
 speaker_translation = "쿠하루코"
 original = "「うーん……見た目や動きは問題なさそうかな。今度は戦ってみてレビューお願いね」"
-translation = "「으음…… 겉모습이나 움직임은 문제없어 보이네. 이번엔 싸워보고 리뷰 부탁해」"
+translation = "「음…… 외형이나 움직임은 문제없어 보이려나. 이번엔 싸워보고 리뷰 부탁해」"
 
 [[dialogue]]
 speaker_original = "コハルコ"
@@ -104,30 +104,30 @@ translation = "「수고했어. 몬스터의 전투 방식은 어땠어?」"
 speaker_original = "コハルコ"
 speaker_translation = "쿠하루코"
 original = "「……戦い方も本物と同じ？\u3000じゃあこのまま登録しちゃうね。……よし、これでいつでも戦えるよ」"
-translation = "「……전투 방식도 실물이랑 같아? 그럼 이대로 등록해버릴게. ……좋아, 이걸로 언제든 싸울 수 있어」"
+translation = "「……전투 방식도 진짜랑 같아? 그럼 이대로 등록할게. ……좋아, 이걸로 언제든 싸울 수 있어」"
 
 [[dialogue]]
 speaker_original = "シノ"
 speaker_translation = "시노"
 original = "「お疲れ様です、コハルコさん。ここにいらしたんですね」"
-translation = "「수고하십니다, 코하루코 씨. 여기 계셨군요」"
+translation = "「수고 많으십니다, 코하루코 씨. 여기 계셨군요」"
 
 [[dialogue]]
 speaker_original = "コハルコ"
 speaker_translation = "쿠하루코"
 original = "「シノさん、お疲れ様です」"
-translation = "「시노 씨, 수고하십니다」"
+translation = "「시노 씨, 수고 많으세요」"
 
 [[dialogue]]
 speaker_original = "シノ"
 speaker_translation = "시노"
 original = "「会長さんと百目騎さんも、シミュレーターの調整ですか？\u3000お疲れ様です」"
-translation = "「회장님과 도우메키 씨도, 시뮬레이터 조정인가요? 수고하십니다」"
+translation = "「회장님과 도메키 씨도 시뮬레이터 조정 중이신가요? 수고 많으십니다」"
 
 [[dialogue]]
 speaker = "unk"
 original = "お疲れ様です"
-translation = "수고하십니다"
+translation = "수고 많으십니다"
 
 [[dialogue]]
 speaker_original = "レイラ"
@@ -139,31 +139,31 @@ translation = "「이자요이 학원장님, 오랜만입니다」"
 speaker_original = "コハルコ"
 speaker_translation = "쿠하루코"
 original = "「あー、レイラは遊びに来てるだけなので無視していいですよ……。ところで、私に御用でしたか？」"
-translation = "「아ー, 레이라는 놀러 온 것뿐이니까 무시해도 돼요……. 그런데, 저에게 용무가 있으신가요?」"
+translation = "「아ー, 레이라는 놀러 온 것뿐이니 무시하셔도 돼요……. 그나저나, 저한테 용무가 있으신가요?」"
 
 [[dialogue]]
 speaker_original = "シノ"
 speaker_translation = "시노"
 original = "「はい、職員の勤怠管理システムの改修の件について、確認したいことがあって」"
-translation = "「네, 직원 근태 관리 시스템의 개정 건에 대해서 확인하고 싶은 것이 있어서요」"
+translation = "「네, 직원 근태 관리 시스템 개편 건에 대해 확인하고 싶은 게 있어서요」"
 
 [[dialogue]]
 speaker_original = "コハルコ"
 speaker_translation = "쿠하루코"
 original = "「ああ、あの件ですね。シノさんの職員ヒアリングが完璧だったので、改修プランはできてますよ。今月中にはベータ版を出す予定です」"
-translation = "「아아, 그 건이군요. 시노 씨의 직원 히어링이 완벽했기 때문에, 개정 플랜은 다 짜여 있어요. 이번 달 안에는 베타판을 낼 예정입니다」"
+translation = "「아아, 그건이군요. 시노 씨의 직원 인터뷰가 완벽했기 때문에, 개편 플랜은 완성되어 있어요. 이번 달 안으로는 베타 버전을 낼 예정입니다」"
 
 [[dialogue]]
 speaker_original = "シノ"
 speaker_translation = "시노"
 original = "「いえ、完璧だなんて……コハルコさんが優秀なんですよ」"
-translation = "「아뇨, 완벽하다니요…… 코하루코 씨가 우수한 거예요」"
+translation = "「아뇨, 완벽하다니요…… 코하루코 씨가 우수한 거죠」"
 
 [[dialogue]]
 speaker_original = "レイラ"
 speaker_translation = "레이라"
 original = "「あのジャスティスウィザードが勤怠管理システムの改修だなんて、平和な世の中ですね～」"
-translation = "「그 저스티스 위저드가 근태 관리 시스템 개정이라니, 평화로운 세상이네요～」"
+translation = "「그 저스티스 위저드가 근태 관리 시스템 개편이라니, 평화로운 세상이네요～」"
 
 [[dialogue]]
 speaker_original = "シノ"
@@ -175,77 +175,77 @@ translation = "「저스티스 위저드……?」"
 speaker_original = "コハルコ"
 speaker_translation = "쿠하루코"
 original = "「レイラ～！\u3000シノさんは私のクソダサネームのことは知らないの！\u3000せっかくヘレナさんにも秘密にしてもらったのに、台無しにしないで！」"
-translation = "「레이라～! 시노 씨는 내 구린 네이밍에 대해서는 모른다고! 어렵사리 헬레나 씨에게도 비밀로 해달라고 했는데, 망치지 마!」"
+translation = "「레이라～! 시노 씨는 내 오글거리는 흑역사 이름은 모른다고! 어렵게 헤레나 씨한테도 비밀로 해달라고 했는데, 망치지 마!」"
 
 [[dialogue]]
 speaker_original = "レイラ"
 speaker_translation = "레이라"
 original = "「え、そうだったんですか！？\u3000失礼しました～！」"
-translation = "「에, 그랬나요!? 실례했습니다～!」"
+translation = "「에, 그랬던 건가요!? 실례했습니다～!」"
 
 [[dialogue]]
 speaker_original = "シノ"
 speaker_translation = "시노"
 original = "「え、あの……さっきからコハルコさんがジャスティスウィザードである前提でお話されているみたいなんですが」"
-translation = "「에, 저기…… 아까부터 코하루코 씨가 저스티스 위저드라는 전제로 말씀하시는 것 같은데요」"
+translation = "「에, 저기…… 아까부터 코하루코 씨가 저스티스 위저드라는 전제로 말씀하시는 것 같습니다만」"
 
 [[dialogue]]
 speaker_original = "コハルコ"
 speaker_translation = "쿠하루코"
 original = "「ぴゅ、ぴゅーーーー」"
-translation = "「퓨, 퓨우우우」"
+translation = "「휘, 휘ーーーー」"
 
 [[dialogue]]
 speaker_original = "レイラ"
 speaker_translation = "레이라"
 original = "「ほーほけきょ」"
-translation = "「호호케쿄」"
+translation = "「휘익 휘호」"
 
 [[dialogue]]
 speaker_original = "シノ"
 speaker_translation = "시노"
 original = "「人知れず巨悪を倒す正義のスーパーハッカ―『ジャスティスウィザード』……」"
-translation = "「남몰래 거악을 물리치는 정의의 슈퍼 해커 『저스티스 위저드』……」"
+translation = "「남모르게 거악을 무찌르는 정의의 슈퍼 해커 『저스티스 위저드』……」"
 
 [[dialogue]]
 speaker_original = "シノ"
 speaker_translation = "시노"
 original = "「都市伝説だとばかり思っていましたけど、実在していて……しかも正体がコハルコさんなんですか！？」"
-translation = "「도시전설이라고만 생각했습니다만, 실재하고 있었고…… 게다가 정체가 코하루코 씨였던 건가요!?」"
+translation = "「도시전설이라고만 생각했습니다만, 실존하고 있었고…… 게다가 정체가 코하루코 씨였나요!?」"
 
 [[dialogue]]
 speaker = "unk"
 original = "実はそうなんです"
-translation = "사실 그렇습니다"
+translation = "사실 그래요"
 
 [[dialogue]]
 speaker = "unk"
 original = "コハルコさんはかつてジャスティスウィザードと呼ばれた凄腕のハッカーだ。政治家の汚職や大企業の不正を暴いたりしていた過去がある。"
-translation = "코하루코 씨는 과거에 저스티스 위저드라고 불린 실력 있는 해커다. 정치인의 부패나 대기업의 부정을 파헤치거나 했던 과거가 있다."
+translation = "코하루코는 한때 저스티스 위저드라 불리던 뛰어난 실력의 해커다. 정치인의 부패나 대기업의 비리를 파헤치곤 했던 과거가 있다."
 
 [[dialogue]]
 speaker_original = "コハルコ"
 speaker_translation = "쿠하루코"
 original = "「なんで会長さんが肯定するの！？」"
-translation = "「왜 회장님이 긍정하는 거야!?」"
+translation = "「왜 회장님이 인정하는 거야!?」"
 
 [[dialogue]]
 speaker_original = "コハルコ"
 speaker_translation = "쿠하루코"
 original = "「……バレてしまったのは仕方ないし、このまま隠し事する方がよくない？\u3000うぅ、それはそうだけど…………」"
-translation = "「……들켜버린 건 어쩔 수 없고, 이대로 숨기는 것보단 낫지 않아? 으으, 그건 그렇지만…………」"
+translation = "「……들통나 버린 건 어쩔 수 없고, 이대로 숨기는 게 더 안 좋지 않아? 으으, 그건 그렇지만…………」"
 
 [[dialogue]]
 speaker_original = "シノ"
 speaker_translation = "시노"
 original = "「コハルコさん。あなたがジャスティスウィザードで間違いないんですね？\u3000チームではなく単独なんですか？」"
-translation = "「코하루코 씨. 당신이 저스티스 위저드인 게 확실하군요? 팀이 아니라 단독인가요?」"
+translation = "「코하루코 씨. 당신이 저스티스 위저드가 틀림없는 거죠? 팀이 아니라 단독인가요?」"
 
 [[dialogue]]
 speaker_original = "コハルコ"
 speaker_translation = "쿠하루코"
 original = "「……はい、そうです。仲間はいなくて私ひとりでやってました」"
-translation = "「……네, 그렇습니다. 동료는 없고 저 혼자서 했습니다」"
+translation = "「……네, 맞아요. 동료는 없고 저 혼자서 했습니다」"
 
 [[dialogue]]
 speaker_original = "シノ"
@@ -257,111 +257,111 @@ translation = "「참고로 동기는……?」"
 speaker_original = "コハルコ"
 speaker_translation = "쿠하루코"
 original = "「弱い人を食い物にする悪い人が許せなくて、つい……」"
-translation = "「약한 사람을 등쳐먹는 나쁜 사람을 용서할 수 없어서, 그만……」"
+translation = "「약한 사람을 먹잇감으로 삼는 나쁜 사람을 용서할 수 없어서, 그만……」"
 
 [[dialogue]]
 speaker_original = "シノ"
 speaker_translation = "시노"
 original = "「ついって……そんな、つまみ食いじゃないんですから…………」"
-translation = "「그만이라니…… 그런, 군것질하는 것도 아니고요…………」"
+translation = "「그만이라니…… 그런, 간식 주워 먹는 것도 아니고요…………」"
 
 [[dialogue]]
 speaker_original = "コハルコ"
 speaker_translation = "쿠하루코"
 original = "「学園に入学する前、ハッキングを身に着けた私は……悪い人に苦しめられている人が世の中にいることを知ったんです」"
-translation = "「학원에 입학하기 전, 해킹을 익힌 저는…… 나쁜 사람에게 고통받는 사람이 세상에 있다는 걸 알게 됐어요」"
+translation = "「학원에 입학하기 전, 해킹을 익힌 저는…… 나쁜 사람에게 괴로움을 당하는 사람이 세상에 있다는 걸 알았어요」"
 
 [[dialogue]]
 speaker_original = "コハルコ"
 speaker_translation = "쿠하루코"
 original = "「なんとか助けられないか、いろいろやってるうちに、変なあだ名がついちゃったんです」"
-translation = "「어떻게든 도와줄 수 없을까 이것저것 하는 사이에, 이상한 별명이 붙어버렸어요」"
+translation = "「어떻게든 돕고 싶어서 이것저것 하는 사이에, 이상한 별명이 붙어버렸어요」"
 
 [[dialogue]]
 speaker_original = "レイラ"
 speaker_translation = "레이라"
 original = "「あ、それ私がつけました」"
-translation = "「아, 그거 제가 지었습니다」"
+translation = "「아, 그거 제가 붙였습니다」"
 
 [[dialogue]]
 speaker_original = "コハルコ"
 speaker_translation = "쿠하루코"
 original = "「コラプサーとしてやったことはともかく、あだ名のことは未だに許してないし、そして今後も許すつもりないからね！」"
-translation = "「콜랩서로서 한 일은 어찌 됐든, 별명 지은 건 여전히 용서 안 했고, 앞으로도 용서할 생각 없으니까!」"
+translation = "「콜랩서로서 한 짓은 둘째 치고, 별명만큼은 아직도 용서 안 했고, 앞으로도 용서할 생각 없거든!」"
 
 [[dialogue]]
 speaker_original = "レイラ"
 speaker_translation = "레이라"
 original = "「うーん、コハルコさんの正義感って独特なんですよね。社会の正義とズレているというか……」"
-translation = "「으음, 코하루코 씨의 정의감은 독특하거든요. 사회의 정의와 어긋나 있다고나 할까……」"
+translation = "「음ー, 코하루코 씨의 정의감은 독특하단 말이죠. 사회의 정의와 어긋나 있다고 해야 하나……」"
 
 [[dialogue]]
 speaker_original = "コハルコ"
 speaker_translation = "쿠하루코"
 original = "「いや、私は自分が正しいと思ったことしかしてないから！」"
-translation = "「아니, 나는 내가 옳다고 생각한 일밖에 안 했으니까!」"
+translation = "「아니, 나는 내가 옳다고 생각한 일밖에 안 했거든!」"
 
 [[dialogue]]
 speaker_original = "レイラ"
 speaker_translation = "레이라"
 original = "「この人、自分の正義＞＞＞＞越えられない壁＞＞＞＞世間の正義なんです。世が世ならレジスタンスとかやってますよ、きっと」"
-translation = "「이 사람, 자신의 정의＞＞＞＞넘사벽＞＞＞＞세상의 정의거든요. 시대만 잘 타고났으면 레지스탕스 같은 걸 하고 있었을걸요, 분명」"
+translation = "「이 사람, 자신의 정의＞＞＞＞넘을 수 없는 벽＞＞＞＞세상의 정의예요. 시대를 잘 못 타고났으면 레지스탕스 같은 걸 하고 있었을걸요, 분명」"
 
 [[dialogue]]
 speaker_original = "コハルコ"
 speaker_translation = "쿠하루코"
 original = "「やらないよレジスタンスなんて！」"
-translation = "「안 해, 레지스탕스 같은 거!」"
+translation = "「안 해 레지스탕스 같은 거!」"
 
 [[dialogue]]
 speaker = "unk"
 original = "実は並行世界のコハルコはレジスタンスに参加してるんだけど、ここは黙っておこう。"
-translation = "사실 평행 세계의 코하루코는 레지스탕스에 참가하고 있지만, 여기서는 입을 다물어 두자."
+translation = "사실 평행세계의 코하루코는 레지스탕스에 참가하고 있지만, 여기선 침묵해 두자."
 
 [[dialogue]]
 speaker_original = "シノ"
 speaker_translation = "시노"
 original = "「な、なるほど……コハルコさんの過去については分かりました。でも、ハッカー活動は今はしていないんですよね？」"
-translation = "「그, 그렇군요…… 코하루코 씨의 과거에 대해서는 알겠습니다. 하지만 해커 활동은 지금은 하고 있지 않은 거죠?」"
+translation = "「그, 그렇군요…… 코하루코 씨의 과거에 대해서는 알겠습니다. 하지만 해커 활동은 지금은 안 하고 계신 거죠?」"
 
 [[dialogue]]
 speaker_original = "コハルコ"
 speaker_translation = "쿠하루코"
 original = "「……はい、今はしてない、です……基本的に……」"
-translation = "「……네, 지금은 안 해요, 예…… 기본적으로는……」"
+translation = "「……네, 지금은 안 해요…… 기본적으로는……」"
 
 [[dialogue]]
 speaker_original = "コハルコ"
 speaker_translation = "쿠하루코"
 original = "「ほんの少し、たま～に……ちょっと、ちょこっとだけ……先っぽだけ……」"
-translation = "「아주 조금, 가끔씩～…… 아주 살짝, 찔끔…… 끝 부분만……」"
+translation = "「아주 조금, 가~끔…… 약간, 살짝만…… 끝부분만……」"
 
 [[dialogue]]
 speaker_original = "シノ"
 speaker_translation = "시노"
 original = "「してるじゃないですかー！\u3000<ruby>遵法精神<rt>コンプライアンス</rt></ruby>、<ruby>遵法精神<rt>コンプライアンス</rt></ruby>はないんですか！？」"
-translation = ""
+translation = "「하고 있잖아요ー! <ruby>준법정신<rt>컴플라이언스</rt></ruby>, <ruby>준법정신<rt>컴플라이언스</rt></ruby>은 없는 건가요!?」"
 
 [[dialogue]]
 speaker_original = "レイラ"
 speaker_translation = "레이라"
 original = "「そこになかったらないですね～」"
-translation = "「거기에 없었다면 없는 거겠네요～」"
+translation = "「거기에 없다면 없는 거겠네요～」"
 
 [[dialogue]]
 speaker_original = "コハルコ"
 speaker_translation = "쿠하루코"
 original = "「あるよ！\u3000人並みには！」"
-translation = "「있어! 남들만큼은!」"
+translation = "「있거든! 남들만큼은!」"
 
 [[dialogue]]
 speaker_original = "シノ"
 speaker_translation = "시노"
 original = "「そこは人並み以上でお願いします～～！！」"
-translation = "「거기는 남들 이상으로 부탁드려요～～!!」"
+translation = "「거기는 남들 이상으로 부탁드립니다～～!!」"
 
 [[dialogue]]
 speaker = "unk"
 original = "学園長には悪いけど、コハルコのジャスティスは止まらないと思う。この人は根っからだから。"
-translation = "학원장님에겐 미안하지만, 코하루코의 저스티스는 멈추지 않을 것 같다. 이 사람은 뼛속까지니까."
+translation = "학원장님한테는 미안하지만, 코하루코의 저스티스는 멈추지 않을 것 같다. 이 사람은 타고났으니까."
 

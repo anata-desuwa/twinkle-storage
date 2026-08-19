@@ -1,34 +1,34 @@
 [[dialogue]]
 speaker = "unk"
 original = "ルネアによって、生徒会室から繋がる形で『リゾート結界』が設置された後。"
-translation = "루네아에 의해, 학생회실로부터 이어지는 형태로 『리조트 결계』가 설치된 후."
+translation = "루네아에 의해, 학생회실에서 연결되는 형태로 『리조트 결계』가 설치된 후."
 
 [[dialogue]]
 speaker = "unk"
 original = "日曜日に、僕――<ruby>咲良<rt>さくら</rt></ruby>シンは、聖沙と２人でデートにやって来ていた。"
-translation = "일요일에, 나――<ruby>사쿠라<rt>사쿠라</rt></ruby> 신은, 세이샤와 둘이서 데이트를 하러 와 있었다."
+translation = "일요일에, 나――<ruby>사쿠라<rt>사쿠라</rt></ruby> 신은, 미사와 둘이서 데이트를 하러 와 있었다."
 
 [[dialogue]]
 speaker_original = "聖沙"
 speaker_translation = "미사"
 original = "「――んっ……<emoji=heart04>\u3000もう、咲良クンったら、まだ海にも入ってないのに……<emoji=heart04>」"
-translation = "「――응……<emoji=heart04> 참 나, 사쿠라 군도 참, 아직 바다에 들어가지도 않았는데……<emoji=heart04>」"
+translation = "「――응……<emoji=heart04> 정말, 사쿠라 군도 참, 아직 바다에도 안 들어갔는데……<emoji=heart04>」"
 
 [[dialogue]]
 speaker_original = "シン"
 speaker_translation = "신"
 original = "「だって、今日はリゾート結界を貸し切りで、僕と聖沙と２人きりで好きにできると思ったら……」"
-translation = "「그치만, 오늘은 리조트 결계를 대여해서, 나와 세이샤 둘이서 마음대로 할 수 있다고 생각했더니……」"
+translation = "「그치만, 오늘은 리조트 결계를 대여해서, 나와 미사 둘이서만 마음대로 할 수 있다고 생각하니까……」"
 
 [[dialogue]]
 speaker = "unk"
 original = "まだ学生である僕たちには、これまで２人きりで人目を気にせずイチャイチャできる場所というものがなかった。"
-translation = "아직 학생인 우리에게는, 지금까지 둘이서 남의 눈을 신경 쓰지 않고 꽁냥거릴 수 있는 장소라는 것이 없었다."
+translation = "아직 학생인 우리에게는, 지금까지 둘이서만 남의 눈을 신경 쓰지 않고 꽁냥거릴 수 있는 장소라는 것이 없었다."
 
 [[dialogue]]
 speaker = "unk"
 original = "だから、健全な男子としてはいつもより気持ちがはやってしまうわけで。"
-translation = "그러니까, 건전한 남자로서 평소보다 마음이 조급해져 버리는 법이고."
+translation = "그래서, 건전한 남자로서 평소보다 마음이 조급해져 버리는 것이고."
 
 [[dialogue]]
 speaker_original = "聖沙"
@@ -39,76 +39,76 @@ translation = "「앗…… 사쿠라 군……<emoji=heart04> 응…… 츄…�
 [[dialogue]]
 speaker = "unk"
 original = "僕が顔を寄せると、聖沙は頬を赤くしながら、ちゃんとキスで受け止めてくれる。"
-translation = "내가 얼굴을 가까이 대자, 세이샤는 뺨을 붉히면서, 제대로 키스로 받아 매어 준다."
+translation = "내가 얼굴을 가까이 대자, 미사는 뺨을 붉히면서, 제대로 키스로 받아준다."
 
 [[dialogue]]
 speaker_original = "聖沙"
 speaker_translation = "미사"
 original = "「んむっ……<emoji=heart04>\u3000ちゅっ……んちゅっ……<emoji=heart04>\u3000ちゅむっ……ちゅぱっ……<emoji=heart04>\u3000んちゅぅ……れろちゅっ<emoji=heart04>\u3000ちゅむむっ……ちゅれるっ<emoji=heart04>\u3000ちゅるるるっ<emoji=heart04>\u3000ちゅぱぁっ……<emoji=heart04>」"
-translation = "「응무……<emoji=heart04> 츄…… 응츄……<emoji=heart04> 츄무…… 츄파……<emoji=heart04> 응츄우…… 레로츄<emoji=heart04> 츄무무…… 츄렐<emoji=heart04> 츄루루……<emoji=heart04> 츄파아……<emoji=heart04>」"
+translation = "「응읏……<emoji=heart04> 츄…… 응츄……<emoji=heart04> 츄뭇…… 츄팟……<emoji=heart04> 응츄우…… 레로츄<emoji=heart04> 츄무뭇…… 츄렐럿<emoji=heart04> 츄루루룻<emoji=heart04> 츄파아……<emoji=heart04>」"
 
 [[dialogue]]
 speaker_original = "聖沙"
 speaker_translation = "미사"
 original = "「はあぁっ……<emoji=heart04>\u3000も、もう……強引なんだから……<emoji=heart04>」"
-translation = "「하아앗……<emoji=heart04> 정말, 참…… 강압적이라니까……<emoji=heart04>」"
+translation = "「하아아……<emoji=heart04> 정, 정말…… 강압적이라니까……<emoji=heart04>」"
 
 [[dialogue]]
 speaker_original = "聖沙"
 speaker_translation = "미사"
 original = "「仕方ないわね……<emoji=heart04>\u3000いやらしい気持ちを落ち着かせる為に……１回だけなんだからね？」"
-translation = "「어쩔 수 없네……<emoji=heart04> 야한 기분을 가라앉히기 위해서…… 딱 한 번뿐이니까?」"
+translation = "「어쩔 수 없네……<emoji=heart04> 야한 기분을 진정시키기 위해서…… 딱 한 번뿐이니까?」"
 
 [[dialogue]]
 speaker = "unk"
 original = "そうして、僕たちはリゾート結界の中にある水上コテージへと移動することになった。"
-translation = "그렇게, 우리들은 리조트 결계 안에 있는 수상 코티지로 이동하게 되었다."
+translation = "그렇게, 우리들은 리조트 결계 안에 있는 수상 코테지로 이동하게 되었다."
 
 [[dialogue]]
 speaker_original = "聖沙"
 speaker_translation = "미사"
 original = "「あんっ……<emoji=heart04>\u3000咲良クンのおち○ぽ、もうギンギンに固くなってる……<emoji=heart04>\u3000はあぁっ……<emoji=heart04>」"
-translation = "「앙……<emoji=heart04> 사쿠라 군의 자지, 벌써 팽팽하게 딱딱해졌어……<emoji=heart04> 하아앗……<emoji=heart04>」"
+translation = "「앙……<emoji=heart04> 사쿠라 군의 자지, 벌써 팽팽하게 딱딱해졌어……<emoji=heart04> 하아아……<emoji=heart04>」"
 
 [[dialogue]]
 speaker = "unk"
 original = "ベッドの上で横になり、僕は後ろから聖沙を抱き締めながら、ペニスを秘部に擦り付ける。"
-translation = "침대 위에 누워, 나는 뒤에서 세이샤를 껴안으면서 페니스를 비부에 문지른다."
+translation = "침대 위에 누워, 나는 뒤에서 미사를 끌어안으면서, 페니스를 비부에 문지른다."
 
 [[dialogue]]
 speaker_original = "シン"
 speaker_translation = "신"
 original = "「聖沙のおま○こも、愛液ですごく濡れてるよ」"
-translation = "「세이샤의 보지도 애액으로 엄청 젖어 있어」"
+translation = "「미사의 보지도, 애액으로 엄청 젖어 있어」"
 
 [[dialogue]]
 speaker_original = "聖沙"
 speaker_translation = "미사"
 original = "「だ、だってぇ<emoji=heart04>\u3000この水上コテージ、壁が無いから、まるで外でしてるみたいで……っ<emoji=heart04>」"
-translation = "「그, 그치만<emoji=heart04> 이 수상 코티지, 벽이 없으니까 마치 야외에서 하는 것 같아서……<emoji=heart04>」"
+translation = "「그, 그치만<emoji=heart04> 이 수상 코테지, 벽이 없으니까, 마치 밖에서 하는 것 같아서……읏<emoji=heart04>」"
 
 [[dialogue]]
 speaker_original = "シン"
 speaker_translation = "신"
 original = "「うん、僕もちょっといけないことしてるみたいでドキドキしてる……」"
-translation = "「응, 나도 약간 못된 짓을 하는 것 같아서 두근거려……」"
+translation = "「응, 나도 조금 못된 짓을 하는 것 같아서 두근거려……」"
 
 [[dialogue]]
 speaker = "unk"
 original = "今日は貸し切りなので、僕たち２人以外は誰もいないが、それでもなんだか妙な背徳感を感じて興奮してきてしまう。"
-translation = "오늘은 대관했기 때문에 우리 둘 외에는 아무도 없지만, 그런데도 왠지 모를 기묘한 배덕감이 느껴져 흥분되고 만다."
+translation = "오늘은 대여했기 때문에, 우리 두 사람 외에는 아무도 없지만, 그런데도 왠지 묘한 배덕감을 느껴 흥분해 버리고 만다."
 
 [[dialogue]]
 speaker_original = "聖沙"
 speaker_translation = "미사"
 original = "「んっ<emoji=heart04>\u3000ふうぅ……<emoji=heart04>\u3000咲良クンのおち○ぽ、いつもより大きくなってる……<emoji=heart04>\u3000はあぁっ……<emoji=heart04>\u3000んんっ……<emoji=heart04>」"
-translation = "「응……<emoji=heart04> 후우……<emoji=heart04> 사쿠라 군의 자지, 평소보다 더 커졌어……<emoji=heart04> 하아앗……<emoji=heart04> 응응……<emoji=heart04>」"
+translation = "「응<emoji=heart04> 후우……<emoji=heart04> 사쿠라 군의 자지, 평소보다 커졌어……<emoji=heart04> 하아아……<emoji=heart04> 응응……<emoji=heart04>」"
 
 [[dialogue]]
 speaker_original = "シン"
 speaker_translation = "신"
 original = "「聖沙と早くエッチしたくて堪らないんだ。聖沙はどう？」"
-translation = "「세이사와 얼른 섹스하고 싶어서 견딜 수 없어. 세이사는 어때?」"
+translation = "「미사랑 빨리 섹스하고 싶어서 견딜 수 없어. 미사는 어때?」"
 
 [[dialogue]]
 speaker_original = "聖沙"
@@ -120,107 +120,107 @@ translation = "「그, 그런 거…… 정해져 있잖아<emoji=heart04>」"
 speaker_original = "聖沙"
 speaker_translation = "미사"
 original = "「私だって……今日は２人きりで、絶対にエッチしちゃうだろうなって期待してたんだからぁ……<emoji=heart04>」"
-translation = "「나도…… 오늘은 둘이서만 있어서, 분명 섹스하게 될 거라고 기대했단 말이야……<emoji=heart04>」"
+translation = "「나도…… 오늘은 둘이서만, 분명 섹스해 버릴 거라고 기대하고 있었으니까아……<emoji=heart04>」"
 
 [[dialogue]]
 speaker_original = "シン"
 speaker_translation = "신"
 original = "「っ……ごめん。僕もう、聖沙の中に挿れたい……」"
-translation = "「웏…… 미안. 나 이제, 세이사 안에 넣고 싶어……」"
+translation = "「읏…… 미안. 나 이제, 미사 안에 삽입하고 싶어……」"
 
 [[dialogue]]
 speaker_original = "聖沙"
 speaker_translation = "미사"
 original = "「あぁんっ<emoji=heart04>\u3000おち○ぽ、入り口に当たって……<emoji=heart04>」"
-translation = "「아앙읏<emoji=heart04> 자지, 입구에 닿아서……<emoji=heart04>」"
+translation = "「아앙<emoji=heart04> 자지, 입구에 닿아서……<emoji=heart04>」"
 
 [[dialogue]]
 speaker_original = "聖沙"
 speaker_translation = "미사"
 original = "「押し広げられちゃう……んっ――<emoji=heart04><emoji=heart04>」"
-translation = "「벌려져 버려…… 으응――<emoji=heart04><emoji=heart04>」"
+translation = "「벌려져 버려…… 응――<emoji=heart04><emoji=heart04>」"
 
 [[dialogue]]
 speaker_original = "聖沙"
 speaker_translation = "미사"
 original = "「あっ――ふあああぁぁぁ～～っ<emoji=heart04><emoji=heart04>」"
-translation = "「아――후아아아아아~~읏<emoji=heart04><emoji=heart04>」"
+translation = "「앗――후아아아아아~~읏<emoji=heart04><emoji=heart04>」"
 
 [[dialogue]]
 speaker = "unk"
 original = "僕は我慢できず、聖沙の膣内にペニスを挿入して、動かし始めた。"
-translation = "나는 참지 못하고, 세이사의 질 내에 페니스를 삽입하고, 움직이기 시작했다."
+translation = "나는 참지 못하고, 세이사의 질 내에 페니스를 삽입하여 움직이기 시작했다."
 
 [[dialogue]]
 speaker_original = "聖沙"
 speaker_translation = "미사"
 original = "「おち○ぽ、中に入ってきたああぁ～っ<emoji=heart04>\u3000んっ<emoji=heart04>\u3000あっ<emoji=heart04>\u3000あんっ<emoji=heart04>\u3000はあぁっ<emoji=heart04>\u3000ふああぁんっ<emoji=heart04>」"
-translation = "「자지, 안에 들어왔어어어~읏<emoji=heart04> 으응<emoji=heart04> 아읏<emoji=heart04> 안앙<emoji=heart04> 하아앗<emoji=heart04> 후아앙읏<emoji=heart04>」"
+translation = "「자지, 안으로 들어왔어어어~읏<emoji=heart04> 윽<emoji=heart04> 아<emoji=heart04> 앙<emoji=heart04> 하아앗<emoji=heart04> 후아아앙읏<emoji=heart04>」"
 
 [[dialogue]]
 speaker_original = "聖沙"
 speaker_translation = "미사"
 original = "「あっ<emoji=heart04>\u3000はあぁっ<emoji=heart04>\u3000んっ<emoji=heart04>\u3000ふうぅっ<emoji=heart04>\u3000んああぁんっ<emoji=heart04>\u3000んっ<emoji=heart04>\u3000あっ<emoji=heart04>\u3000はあぁっ<emoji=heart04>\u3000ふあぁっ<emoji=heart04>\u3000んああぁんっ<emoji=heart04>」"
-translation = "「아읏<emoji=heart04> 하아앗<emoji=heart04> 으응<emoji=heart04> 후우앗<emoji=heart04> 응아앙읏<emoji=heart04> 으응<emoji=heart04> 아읏<emoji=heart04> 하아앗<emoji=heart04> 후아앗<emoji=heart04> 응아앙읏<emoji=heart04>」"
+translation = "「아<emoji=heart04> 하아앗<emoji=heart04> 윽<emoji=heart04> 후우앗<emoji=heart04> 응아아앙읏<emoji=heart04> 윽<emoji=heart04> 아<emoji=heart04> 하아앗<emoji=heart04> 후아앗<emoji=heart04> 응아아앙읏<emoji=heart04>」"
 
 [[dialogue]]
 speaker_original = "聖沙"
 speaker_translation = "미사"
 original = "「ダメっ<emoji=heart04>\u3000おま○こ、いつもより気持ちいいのっ<emoji=heart04>\u3000あっ<emoji=heart04>\u3000あんっ<emoji=heart04>\u3000んっ<emoji=heart04>\u3000はあぁっ<emoji=heart04>\u3000ふああぁんっ<emoji=heart04>」"
-translation = "「안 돼<emoji=heart04> 보지, 평소보다 기분 좋은걸<emoji=heart04> 아읏<emoji=heart04> 안앙<emoji=heart04> 으응<emoji=heart04> 하아앗<emoji=heart04> 후아앙읏<emoji=heart04>」"
+translation = "「안 돼<emoji=heart04> 보지, 평소보다 기분 좋아<emoji=heart04> 아<emoji=heart04> 앙<emoji=heart04> 윽<emoji=heart04> 하아앗<emoji=heart04> 후아아앙읏<emoji=heart04>」"
 
 [[dialogue]]
 speaker_original = "聖沙"
 speaker_translation = "미사"
 original = "「外でエッチしてるみたいで、おま○こ興奮して感じちゃうっ<emoji=heart04>\u3000あっ<emoji=heart04>\u3000あんっ<emoji=heart04>\u3000んうぅっ<emoji=heart04>\u3000はあぁっ<emoji=heart04>\u3000ふああぁ～っ<emoji=heart04>」"
-translation = "「밖에서 섹스하는 것 같아서, 보지 흥분해서 느껴버려<emoji=heart04> 아읏<emoji=heart04> 안앙<emoji=heart04> 응우앗<emoji=heart04> 하아앗<emoji=heart04> 후아아아~읏<emoji=heart04>」"
+translation = "「밖에서 섹스하는 것 같아서, 보지 흥분해서 느껴버려<emoji=heart04> 아<emoji=heart04> 앙<emoji=heart04> 응우앗<emoji=heart04> 하아앗<emoji=heart04> 후아아아~읏<emoji=heart04>」"
 
 [[dialogue]]
 speaker_original = "聖沙"
 speaker_translation = "미사"
 original = "「おち○ぽ気持ちいいっ<emoji=heart04>\u3000あっ<emoji=heart04>\u3000はぁんっ<emoji=heart04>\u3000すごく気持ちいいのぉ～っ<emoji=heart04><emoji=heart04>\u3000んっ<emoji=heart04>\u3000ふうぅっ<emoji=heart04>\u3000んうぅっ<emoji=heart04>\u3000はあぁっ<emoji=heart04>\u3000んああぁんっ<emoji=heart04><emoji=heart04>」"
-translation = "「자지 기분 좋아<emoji=heart04> 아읏<emoji=heart04> 하앙읏<emoji=heart04> 엄청 기분 좋아아~읏<emoji=heart04><emoji=heart04> 으응<emoji=heart04> 후우앗<emoji=heart04> 응우앗<emoji=heart04> 하아앗<emoji=heart04> 응아앙읏<emoji=heart04><emoji=heart04>」"
+translation = "「자지 기분 좋아<emoji=heart04> 아<emoji=heart04> 하앙읏<emoji=heart04> 엄청 기분 좋아아~읏<emoji=heart04><emoji=heart04> 윽<emoji=heart04> 후우앗<emoji=heart04> 응우앗<emoji=heart04> 하아앗<emoji=heart04> 응아아앙읏<emoji=heart04><emoji=heart04>」"
 
 [[dialogue]]
 speaker_original = "シン"
 speaker_translation = "신"
 original = "「聖沙、挿れてすぐに乱れてて、すごくエッチだ」"
-translation = "「세이사, 넣자마자 흐트러져서, 엄청 야해」"
+translation = "「세이사, 넣자마자 흐트러져서는, 엄청 야해」"
 
 [[dialogue]]
 speaker_original = "聖沙"
 speaker_translation = "미사"
 original = "「やぁ<emoji=heart04>\u3000そんなこと言っちゃダメぇ<emoji=heart04>\u3000私がこんなにエッチになっちゃってるのは、咲良クンのせいなんだからぁっ<emoji=heart04>\u3000んっ<emoji=heart04>\u3000ふぅんっ<emoji=heart04>\u3000あっ<emoji=heart04>\u3000はぁんっ<emoji=heart04>\u3000んああぁんっ<emoji=heart04>」"
-translation = ""
+translation = "「야아<emoji=heart04> 그런 말 하면 안 돼애<emoji=heart04> 내가 이렇게 엣치하게 돼버린 건, 사쿠라 군 때문이란 말이야아<emoji=heart04> 앙<emoji=heart04> 후웅<emoji=heart04> 아<emoji=heart04> 하앙<emoji=heart04> 응아아앙<emoji=heart04>」"
 
 [[dialogue]]
 speaker_original = "聖沙"
 speaker_translation = "미사"
 original = "「咲良クンが、エッチが気持ちいいって、私にいっぱい教え込むから、体が勝手に反応しちゃうようになっちゃったのぉっ<emoji=heart04>\u3000あっ<emoji=heart04>\u3000あんっ<emoji=heart04>\u3000はあぁっ<emoji=heart04>\u3000ふああぁんっ<emoji=heart04>」"
-translation = "「사쿠라 군이, 섹스가 기분 좋다고, 나한테 잔뜩 가르쳐주니까, 몸이 알아서 반응하게 돼버린 거라구우읏<emoji=heart04> 아읏<emoji=heart04> 안앙<emoji=heart04> 하아앗<emoji=heart04> 후아앙읏<emoji=heart04>」"
+translation = "「사쿠라 군이, 섹스가 기분 좋다고, 나한테 잔뜩 주입했으니까, 몸이 제멋대로 반응해버리게 되어버렸는걸<emoji=heart04> 아<emoji=heart04> 앙<emoji=heart04> 하아앗<emoji=heart04> 후아아앙읏<emoji=heart04>」"
 
 [[dialogue]]
 speaker = "unk"
 original = "僕は聖沙の耳元に口を寄せると、息を吹きかけるように囁く。"
-translation = ""
+translation = "나는 세이사의 귓가에 입을 대고는, 입김을 불어넣듯 속삭인다."
 
 [[dialogue]]
 speaker_original = "シン"
 speaker_translation = "신"
 original = "「――エッチしてる時の聖沙は素直で可愛すぎるから、ついしたくなっちゃうんだ」"
-translation = "「――섹스하고 있을 때의 세이사는 솔직해서 너무 귀여우니까, 나도 모르게 하고 싶어지는 거야」"
+translation = "「――섹스할 때의 세이사는 솔직하고 너무 귀여워서, 나도 모르게 하고 싶어진단 말이지」"
 
 [[dialogue]]
 speaker_original = "聖沙"
 speaker_translation = "미사"
 original = "「はあぁんっ<emoji=heart04>\u3000咲良クン、耳元で囁くの反則ぅ<emoji=heart04>」"
-translation = "「하아앙읏<emoji=heart04> 사쿠라 군, 귓가에서 속삭이는 거 반칙이야아<emoji=heart04>」"
+translation = "「하아앙읏<emoji=heart04> 사쿠라 군, 귓가에서 속삭이는 건 반칙이야<emoji=heart04>」"
 
 [[dialogue]]
 speaker_original = "聖沙"
 speaker_translation = "미사"
 original = "「好きな人の声で愛を囁かれると、おま○こキュンってしちゃうのぉっ<emoji=heart04>」"
-translation = "「좋아하는 사람의 목소리로 사랑을 속삭여지면, 보지 쿵쾅거려 버린단 말이야아읏<emoji=heart04>」"
+translation = "「좋아하는 사람의 목소리로 사랑을 속삭여지면, 보지 쿵쾅거려버리는걸<emoji=heart04>」"
 
 [[dialogue]]
 speaker_original = "シン"
@@ -232,100 +232,100 @@ translation = "「그렇구나…… 나도 세이사의 야한 목소리, 좋�
 speaker_original = "シン"
 speaker_translation = "신"
 original = "「だから――もっと聞かせて欲しいな」"
-translation = "「그러니까――좀 더 들려줬으면 좋겠는데」"
+translation = "「그러니까―― 더 들려줬으면 좋겠어」"
 
 [[dialogue]]
 speaker_original = "聖沙"
 speaker_translation = "미사"
 original = "「んっ<emoji=heart04>\u3000はああぁ～っ<emoji=heart04><emoji=heart04>\u3000ダメっ<emoji=heart04>\u3000おま○こキュンキュン止まらなくて、すごく感じちゃうぅ～～っ<emoji=heart04><emoji=heart04>」"
-translation = "「응읏<emoji=heart04> 하아아아~읏<emoji=heart04><emoji=heart04> 안 돼<emoji=heart04> 보지 쿵쾅거리는 게 멈추질 않아서, 너무 느껴져버려어~~읏<emoji=heart04><emoji=heart04>」"
+translation = "「윽<emoji=heart04> 하아아아~읏<emoji=heart04><emoji=heart04> 안 돼<emoji=heart04> 보지 쿵쾅거리는 게 안 멈춰서, 엄청 느껴버려어~~읏<emoji=heart04><emoji=heart04>」"
 
 [[dialogue]]
 speaker_original = "聖沙"
 speaker_translation = "미사"
 original = "「あっ、あっ、あっ<emoji=heart04>\u3000はあぁっ<emoji=heart04>\u3000ふあぁっ<emoji=heart04>\u3000んあああぁ～～っ<emoji=heart04><emoji=heart04>」"
-translation = "「아읏, 아읏, 아읏<emoji=heart04> 하아앗<emoji=heart04> 후아앗<emoji=heart04> 응아아아~~읏<emoji=heart04><emoji=heart04>」"
+translation = "「아, 아, 아<emoji=heart04> 하아앗<emoji=heart04> 후아앗<emoji=heart04> 응아아아~읏<emoji=heart04><emoji=heart04>」"
 
 [[dialogue]]
 speaker_original = "聖沙"
 speaker_translation = "미사"
 original = "「あっ<emoji=heart04>\u3000ダメダメっ<emoji=heart04>\u3000きちゃうっ<emoji=heart04><emoji=heart04>\u3000気持ちいいの登ってきて、もうイっちゃうぅ～～～っ<emoji=heart04><emoji=heart04><emoji=heart04>」"
-translation = "「아읏<emoji=heart04> 안 돼 안 돼<emoji=heart04> 올라와<emoji=heart04><emoji=heart04> 기분 좋은 게 차올라서, 이제 가버려어~~~읏<emoji=heart04><emoji=heart04><emoji=heart04>」"
+translation = "「아<emoji=heart04> 안 돼 안 돼<emoji=heart04> 와버려<emoji=heart04><emoji=heart04> 기분 좋은 게 차올라서, 이제 가버려어~~~읏<emoji=heart04><emoji=heart04><emoji=heart04>」"
 
 [[dialogue]]
 speaker_original = "聖沙"
 speaker_translation = "미사"
 original = "「あっ、あっ、あっ、あっ<emoji=heart04><emoji=heart04>\u3000ふああああああぁ～～～っ<emoji=heart04><emoji=heart04><emoji=heart04>」"
-translation = "「아읏, 아읏, 아읏, 아읏<emoji=heart04><emoji=heart04> 후아아아아아아~~읏<emoji=heart04><emoji=heart04><emoji=heart04>」"
+translation = "「아, 아, 아, 아<emoji=heart04><emoji=heart04> 후아아아아아아~읏<emoji=heart04><emoji=heart04><emoji=heart04>」"
 
 [[dialogue]]
 speaker_original = "聖沙"
 speaker_translation = "미사"
 original = "「んっ――はあああぁぁ～～っ<emoji=heart04><emoji=heart04>」"
-translation = "「응읏――하아아아아~~읏<emoji=heart04><emoji=heart04>」"
+translation = "「윽――하아아아아~~읏<emoji=heart04><emoji=heart04>」"
 
 [[dialogue]]
 speaker = "unk"
 original = "聖沙は背筋を仰け反らせながら、ビクビクを体を震わせる。"
-translation = "미사는 등줄기를 젖히면서, 흠칫흠칫 몸을 떨었다."
+translation = "세이사는 등줄기를 젖히면서, 찌릿찌릿 몸을 떨어댄다."
 
 [[dialogue]]
 speaker_original = "聖沙"
 speaker_translation = "미사"
 original = "「――あっ！？\u3000はああぁんっ<emoji=heart04><emoji=heart04>\u3000咲良クン、待ってぇ<emoji=heart04>\u3000イってるっ<emoji=heart04>\u3000まだイってるからぁ～っ<emoji=heart04>」"
-translation = "「――아앗!? 하아아앙읏<emoji=heart04><emoji=heart04> 사쿠라 군, 기다려어<emoji=heart04> 가고 있어<emoji=heart04> 아직 가고 있으니까아~읏<emoji=heart04>」"
+translation = "「――아!? 하아아앙읏<emoji=heart04><emoji=heart04> 사쿠라 군, 기다려어<emoji=heart04> 가고 있어<emoji=heart04> 아직 가고 있으니까아~읏<emoji=heart04>」"
 
 [[dialogue]]
 speaker_original = "シン"
 speaker_translation = "신"
 original = "「ごめん、聖沙がエッチ過ぎて、止められないんだ……！」"
-translation = "「미안, 미사가 너무 야해서, 멈출 수가 없어……!」"
+translation = "「미안, 세이사가 너무 야해서, 멈출 수 없어……!」"
 
 [[dialogue]]
 speaker_original = "聖沙"
 speaker_translation = "미사"
 original = "「あぁんっ<emoji=heart04>\u3000ダメぇ<emoji=heart04>\u3000イって敏感になってるから、おま○こ感じ過ぎておかしくなっちゃうぅ～んっ<emoji=heart04>」"
-translation = ""
+translation = "「아앙<emoji=heart04> 안 돼애<emoji=heart04> 가버려서 민감해졌으니까, 보지 느낄대로 느껴져서 이상해져버려어~응<emoji=heart04>」"
 
 [[dialogue]]
 speaker_original = "シン"
 speaker_translation = "신"
 original = "「聖沙の体、感じやすくて、すごくエッチで可愛い……！」"
-translation = "「미사의 몸, 느끼기 쉬워서, 엄청 야하고 귀여워……!」"
+translation = "「세이사 몸, 느끼기 쉬워서, 엄청 야하고 귀여워……!」"
 
 [[dialogue]]
 speaker = "unk"
 original = "僕は言いながら、彼女の首筋にキスをする。"
-translation = "나는 말하면서, 그녀의 목덜미에 키스를 했다."
+translation = "나는 말하면서, 그녀의 목덜미에 키스를 한다."
 
 [[dialogue]]
 speaker_original = "聖沙"
 speaker_translation = "미사"
 original = "「んあぁっ<emoji=heart04>\u3000咲良クン、首筋は弱いから、キスだめぇっ<emoji=heart04>\u3000またおま○こ、キュンってしてイキそうになっちゃうからぁ<emoji=heart04>」"
-translation = ""
+translation = "「응아아<emoji=heart04> 사쿠라 군, 목덜미는 약하니까 키스 안 돼에<emoji=heart04> 또 보지 찌릿찌릿해서 가버릴 것 같아지니까아<emoji=heart04>」"
 
 [[dialogue]]
 speaker_original = "シン"
 speaker_translation = "신"
 original = "「聖沙、初めての時は痛いって言ってたのに……今ではすっかり感じまくって、すぐイクようになっちゃったね」"
-translation = "「미사, 처음일 때는 아프다고 했었으면서…… 지금은 완전히 엄청 느껴대고, 금방 가게 돼버렸네」"
+translation = "「세이사, 처음일 때는 아프다고 했었는데…… 지금은 완전히 팍팍 느껴서, 금방 가게 되어버렸네」"
 
 [[dialogue]]
 speaker = "unk"
 original = "正確には、聖沙は初めてのエッチの時も、すぐに気持ちよくなってイってしまっていた。"
-translation = "정확히는, 미사는 첫 섹스 때도, 금방 기분 좋아져서 가버리고 았었다."
+translation = "정확히는, 세이사는 첫 섹스 때도, 금방 기분 좋아져서 가버렸었다."
 
 [[dialogue]]
 speaker_original = "聖沙"
 speaker_translation = "미사"
 original = "「そ、それは咲良クンのおち○ぽのせいよ<emoji=heart04>」"
-translation = "「그, 그거야 사쿠라 군의 자지 때문이야<emoji=heart04>」"
+translation = "「그, 그건 사쿠라 군의 자지 때문이야<emoji=heart04>」"
 
 [[dialogue]]
 speaker_original = "聖沙"
 speaker_translation = "미사"
 original = "「咲良クンがいっぱいおま○こを気持ち良くするせいで、すっかり負け癖が付いちゃったんだからぁ<emoji=heart04>\u3000んうぅっ<emoji=heart04>\u3000ふうぅっ<emoji=heart04>\u3000あっ<emoji=heart04>\u3000あんっ<emoji=heart04>\u3000はああぁんっ……<emoji=heart04>」"
-translation = "「사쿠라 군이 잔뜩 보지를 기분 좋게 하는 바람에, 완전히 지는 버릇이 들어버렸으니까아<emoji=heart04> 응우앗<emoji=heart04> 후우앗<emoji=heart04> 아읏<emoji=heart04> 안앙<emoji=heart04> 하아아앙읏……<emoji=heart04>」"
+translation = "「사쿠라 군이 잔뜩 보지를 기분 좋게 만드는 바람에, 완전히 패배 습관이 들어버렸단 말이야아<emoji=heart04> 응우앗<emoji=heart04> 후우앗<emoji=heart04> 아<emoji=heart04> 앙<emoji=heart04> 하아아앙읏……<emoji=heart04>」"
 
 [[dialogue]]
 speaker_original = "シン"
@@ -342,13 +342,13 @@ translation = "「에……?」"
 [[dialogue]]
 speaker = "unk"
 original = "いつもより開放的な気分になったせいか、僕は湧き上がる欲望のままに口を開く。"
-translation = "평소보다 개방적인 기분이 된 탓인지, 나는 솟구치는 욕망대로 입을 열었다."
+translation = "평소보다 개방적인 기분이 된 탓일까, 나는 솟구치는 욕망대로 입을 연다."
 
 [[dialogue]]
 speaker_original = "シン"
 speaker_translation = "신"
 original = "「聖沙――僕の赤ちゃんを産んで欲しい」"
-translation = "「미사――내 아기를 낳아줬으면 좋겠어」"
+translation = "「세이사―― 내 아기를 낳아줬으면 좋겠어」"
 
 [[dialogue]]
 speaker_original = "聖沙"
@@ -359,13 +359,13 @@ translation = "「!? 사, 사쿠라 군!?」"
 [[dialogue]]
 speaker = "unk"
 original = "聖沙のお腹を手で擦りながら、耳元で愛を囁く。"
-translation = "미사의 배를 손으로 문지르면서, 귓가에 사랑을 속삭였다."
+translation = "세이사의 배를 손으로 문지르며, 귓가에 사랑을 속삭인다."
 
 [[dialogue]]
 speaker_original = "シン"
 speaker_translation = "신"
 original = "「聖沙のこと、孕ませたい」"
-translation = "「미사를, 임신시키고 싶어」"
+translation = "「세이사, 임신시키고 싶어」"
 
 [[dialogue]]
 speaker_original = "聖沙"
@@ -376,24 +376,24 @@ translation = "「~~읏<emoji=heart04><emoji=heart04> 그, 그런 건 안 돼<em
 [[dialogue]]
 speaker = "unk"
 original = "そう否定の言葉を口にしつつも、聖沙の声色は全然嫌そうじゃない。"
-translation = "그렇게 부정의 말을 입에 담으면서도, 미사의 목소리는 전혀 싫어하는 것 같지 않았다."
+translation = "그렇게 부정의 말을 입으로 내뱉으면서도, 세이사의 목소리는 전혀 싫어하는 기색이 아니다."
 
 [[dialogue]]
 speaker = "unk"
 original = "だから、僕は言葉を重ねる。"
-translation = "그래서, 나는 말을 겹쳤다."
+translation = "그래서, 나는 말을 덧붙인다."
 
 [[dialogue]]
 speaker_original = "シン"
 speaker_translation = "신"
 original = "「今日は２人きりで、誰も来ないから、そういうエッチがしたい――」"
-translation = "「오늘은 둘만 있어서, 아무도 안 오니까, 그런 섹스가 하고 싶어――」"
+translation = "「오늘은 둘뿐이고, 아무도 안 오니까, 그런 섹스가 하고 싶어――」"
 
 [[dialogue]]
 speaker_original = "シン"
 speaker_translation = "신"
 original = "「聖沙……ダメ？」"
-translation = "「미사…… 안 돼?」"
+translation = "「세이사…… 안 돼?」"
 
 [[dialogue]]
 speaker_original = "聖沙"
@@ -410,36 +410,36 @@ translation = "「그럼…… 만약, 아기가 생겨버리면――」"
 [[dialogue]]
 speaker = "unk"
 original = "聖沙は僕の方へちらっと目を向けて、はにかみながら言う。"
-translation = "미사는 내 쪽을 힐끔 바라보고는, 수줍어하며 말했다."
+translation = "세이사는 내 쪽으로 힐끔 눈길을 돌리고는, 수줍어하며 말한다."
 
 [[dialogue]]
 speaker_original = "聖沙"
 speaker_translation = "미사"
 original = "「責任取ってよね？\u3000――『旦那様』<emoji=heart04>」"
-translation = "「책임져줘야 해? ――『여보』<emoji=heart04>」"
+translation = "「책임져야 해? ――『여보』<emoji=heart04>」"
 
 [[dialogue]]
 speaker_original = "シン"
 speaker_translation = "신"
 original = "「！\u3000……聖沙っ！！」"
-translation = "「! ……미사!!」"
+translation = "「! ……세이사!!」"
 
 [[dialogue]]
 speaker = "unk"
 original = "初めてそんな風に呼ばれ、僕は興奮が抑えきれなくなってしまって。"
-translation = "처음으로 그런 식으로 불려서, 나는 흥분을 억누를 수가 없게 돼버려서."
+translation = "처음으로 그런 식으로 불려서, 나는 흥분을 억누를 수 없게 되어버려서."
 
 [[dialogue]]
 speaker_original = "聖沙"
 speaker_translation = "미사"
 original = "「あっ――<emoji=heart04><emoji=heart04>」"
-translation = "「아읏――<emoji=heart04><emoji=heart04>」"
+translation = "「앗――<emoji=heart04><emoji=heart04>」"
 
 [[dialogue]]
 speaker_original = "聖沙"
 speaker_translation = "미사"
 original = "「ふああああああぁ～～～っ<emoji=heart04><emoji=heart04><emoji=heart04>」"
-translation = "「후아아아아아아~~읏<emoji=heart04><emoji=heart04><emoji=heart04>」"
+translation = "「후아아아아아아~~~읏<emoji=heart04><emoji=heart04><emoji=heart04>」"
 
 [[dialogue]]
 speaker = "unk"
@@ -450,70 +450,70 @@ translation = "페니스를 깊은 곳까지 삽입하면서, 허리의 움직�
 speaker_original = "聖沙"
 speaker_translation = "미사"
 original = "「おち○ぽピストンすごいぃっ<emoji=heart04>\u3000あっ、あっ、あっ、あっ<emoji=heart04>\u3000はああぁんっ<emoji=heart04><emoji=heart04>\u3000あっ、あっ、あっ、あんっ<emoji=heart04>\u3000んああぁんっ<emoji=heart04><emoji=heart04>」"
-translation = ""
+translation = "「자지 피스톤 엄청나아읏<emoji=heart04> 앗, 앗, 앗, 앗<emoji=heart04> 하아아앙읏<emoji=heart04><emoji=heart04> 앗, 앗, 앗, 앙읏<emoji=heart04> 응아아앙읏<emoji=heart04><emoji=heart04>」"
 
 [[dialogue]]
 speaker_original = "聖沙"
 speaker_translation = "미사"
 original = "「おま○こ気持ちいいのぉ～～っ<emoji=heart04><emoji=heart04>\u3000あっ、あっ、あっ、あっ<emoji=heart04>\u3000ふああぁんっ<emoji=heart04><emoji=heart04>」"
-translation = "「보지 기분 좋아아~~읏<emoji=heart04><emoji=heart04> 아읏, 아읏, 아읏, 아읏<emoji=heart04> 후아아앙읏<emoji=heart04><emoji=heart04>」"
+translation = "「보지 기분 좋아아~~읏<emoji=heart04><emoji=heart04> 앗, 앗, 앗, 앗<emoji=heart04> 후아아앙읏<emoji=heart04><emoji=heart04>」"
 
 [[dialogue]]
 speaker = "unk"
 original = "昂る興奮のまま、僕は聖沙の揺れる胸に手を伸ばして、鷲掴みにする。"
-translation = "고조되는 흥분 그대로, 나는 미사의 흔들리는 가슴에 손을 뻗어, 꽉 움켜쥐었다."
+translation = " 고조되는 흥분 그대로, 나는 세이사의 흔들리는 가슴으로 손을 늘려, 덥석 움켜쥔다."
 
 [[dialogue]]
 speaker_original = "聖沙"
 speaker_translation = "미사"
 original = "「あっ！？\u3000旦那様、今おっぱい触っちゃ<emoji=heart04>\u3000あっ、あっ、あっ、あんっ<emoji=heart04>\u3000んああぁんっ<emoji=heart04>」"
-translation = "「아앗!? 여보, 지금 가슴 만지면<emoji=heart04> 아읏, 아읏, 아읏, 안앙<emoji=heart04> 응아아앙읏<emoji=heart04>」"
+translation = "「앗!? 여보, 지금 가슴 만지면아<emoji=heart04> 앗, 앗, 앗, 앙읏<emoji=heart04> 응아아앙읏<emoji=heart04>」"
 
 [[dialogue]]
 speaker_original = "聖沙"
 speaker_translation = "미사"
 original = "「おち○ぽ激しくしながらおっぱい揉まれたら、すごく感じちゃうぅ～っ<emoji=heart04><emoji=heart04>\u3000あっ、あっ、あっ、はあぁっ<emoji=heart04>\u3000ふああぁ～～っ<emoji=heart04><emoji=heart04>」"
-translation = "「자지 격렬하게 하면서 가슴 주물러지면, 엄청 느껴버려어~읏<emoji=heart04><emoji=heart04> 아읏, 아읏, 아읏, 하아앗<emoji=heart04> 후아아아~~읏<emoji=heart04><emoji=heart04>」"
+translation = "「자지 격렬하게 하면서 가슴 주물러지면, 엄청 느껴버려어~읏<emoji=heart04><emoji=heart04> 앗, 앗, 앗, 하아읏<emoji=heart04> 후아아아~~읏<emoji=heart04><emoji=heart04>」"
 
 [[dialogue]]
 speaker_original = "聖沙"
 speaker_translation = "미사"
 original = "「あぁんっ<emoji=heart04>\u3000ダメぇっ<emoji=heart04>\u3000乳首クリクリ弄られたら、刺激強くて、おま○こ反応しちゃうのぉ～～っ<emoji=heart04><emoji=heart04>\u3000あっ、あっ、あっ、あっ<emoji=heart04>\u3000はああぁ～～っ<emoji=heart04><emoji=heart04>」"
-translation = ""
+translation = "「아앙읏<emoji=heart04> 안 돼에읏<emoji=heart04> 젖꼭지 지물지물 만져지면, 자극이 세서, 보지 반응해버려어~~읏<emoji=heart04><emoji=heart04> 앗, 앗, 앗, 앗<emoji=heart04> 하아아아~~읏<emoji=heart04><emoji=heart04>」"
 
 [[dialogue]]
 speaker_original = "聖沙"
 speaker_translation = "미사"
 original = "「きちゃうっ<emoji=heart04>\u3000乳首で感じて、おま○こイっちゃうぅっ<emoji=heart04><emoji=heart04>」"
-translation = "「올라와<emoji=heart04> 젖꼭지로 느끼고, 보지 가버려어읏<emoji=heart04><emoji=heart04>」"
+translation = "「와버렷<emoji=heart04> 젖꼭지로 느끼고, 보지 가버려어읏<emoji=heart04><emoji=heart04>」"
 
 [[dialogue]]
 speaker_original = "聖沙"
 speaker_translation = "미사"
 original = "「あっ、あっ、あっ、あっ<emoji=heart04><emoji=heart04>\u3000ふああああぁ～～っ<emoji=heart04><emoji=heart04><emoji=heart04>」"
-translation = "「아읏, 아읏, 아읏, 아읏<emoji=heart04><emoji=heart04> 후아아아아~~읏<emoji=heart04><emoji=heart04><emoji=heart04>」"
+translation = "「앗, 앗, 앗, 앗<emoji=heart04><emoji=heart04> 후아아아아~~읏<emoji=heart04><emoji=heart04><emoji=heart04>」"
 
 [[dialogue]]
 speaker = "unk"
 original = "再びビクビクと聖沙は体を震わせるが、僕は興奮を抑えられずに、そのまま動かし続ける。"
-translation = "다시 흠칫흠칫 미사는 몸을 떨었지만, 나는 흥분을 주체하지 못하고, 그대로 계속 움직였다."
+translation = "다시 찌릿찌릿 세이사는 몸을 떨지만, 나는 흥분을 주체하지 못하고, 그대로 계속 움직인다."
 
 [[dialogue]]
 speaker_original = "聖沙"
 speaker_translation = "미사"
 original = "「んあああぁぁぁ～～っ<emoji=heart04><emoji=heart04>\u3000旦那様、イキながらのピストンだめぇぇ～～っ<emoji=heart04><emoji=heart04>\u3000これ以上は気持ちよすぎて、おかしくなっちゃうぅ～～っ<emoji=heart04><emoji=heart04>」"
-translation = ""
+translation = "「응아아아아~~읏<emoji=heart04><emoji=heart04> 여보, 가면서 피스톤 안 돼에에~~읏<emoji=heart04><emoji=heart04> 이 이상은 너무 기분 좋아서, 이상해져버려어~~읏<emoji=heart04><emoji=heart04>」"
 
 [[dialogue]]
 speaker_original = "シン"
 speaker_translation = "신"
 original = "「聖沙、好きだ！」"
-translation = "「미사, 좋아해!」"
+translation = "「세이사, 좋아해!」"
 
 [[dialogue]]
 speaker = "unk"
 original = "僕は聖沙の首筋に再びキスをしながら、愛を囁く。"
-translation = "나는 미사의 목덜미에 다시 키스를 하면서, 사랑을 속삭였다."
+translation = "나는 세이사의 목덜미에 다시 키스를 하면서, 사랑을 속삭인다."
 
 [[dialogue]]
 speaker_original = "聖沙"
@@ -525,13 +525,13 @@ translation = "「응읏<emoji=heart04><emoji=heart04> 하아아앙읏<emoji=hea
 speaker_original = "シン"
 speaker_translation = "신"
 original = "「大好きな聖沙に、僕の赤ちゃん孕んで欲しい……！」"
-translation = "「너무 좋아하는 미사가, 내 아기를 임신했으면 좋겠어……!」"
+translation = "「너무 좋아하는 세이사에게, 내 아기 임신해주었으면 좋겠어……!」"
 
 [[dialogue]]
 speaker_original = "聖沙"
 speaker_translation = "미사"
 original = "「～～っ<emoji=heart04><emoji=heart04>\u3000私も、好き<emoji=heart04>\u3000大好きぃ<emoji=heart04><emoji=heart04>」"
-translation = ""
+translation = "「~~읏<emoji=heart04><emoji=heart04> 나도, 좋아해<emoji=heart04> 너무 좋아아<emoji=heart04><emoji=heart04>」"
 
 [[dialogue]]
 speaker_original = "聖沙"
@@ -543,60 +543,60 @@ translation = "「여보의 아기, 나도 갖고 싶어<emoji=heart04> 그러�
 speaker_original = "聖沙"
 speaker_translation = "미사"
 original = "「旦那様の愛がこもった精子、私の子宮にいっぱい注いでぇ～～っ<emoji=heart04><emoji=heart04>」"
-translation = "「여보의 사랑이 담긴 정자, 내 자궁에 잔뜩 쏟아줘어~~읏<emoji=heart04><emoji=heart04>」"
+translation = "「여보의 사랑이 담긴 정자, 내 자궁에 가득 부어줘어~~읏<emoji=heart04><emoji=heart04>」"
 
 [[dialogue]]
 speaker_original = "シン"
 speaker_translation = "신"
 original = "「聖沙っ！！」"
-translation = "「미사!!」"
+translation = "「세이사!!」"
 
 [[dialogue]]
 speaker = "unk"
 original = "僕は腰の動きを更に激しくし、興奮を限界まで高めていく。"
-translation = "나는 허리의 움직임을 더욱 격렬하게 하고, 흥분을 한계까지 높여갔다."
+translation = "나는 허리의 움직임을 더욱 격렬하게 하여, 흥분을 한계까지 높여간다."
 
 [[dialogue]]
 speaker_original = "聖沙"
 speaker_translation = "미사"
 original = "「ふああああぁ～～っ<emoji=heart04><emoji=heart04><emoji=heart04>\u3000旦那様っ、ピストン激しいぃ～～っ<emoji=heart04><emoji=heart04><emoji=heart04><emoji=heart04>」"
-translation = ""
+translation = "「후아아아아~~읏<emoji=heart04><emoji=heart04><emoji=heart04> 여보, 피스톤 격렬해에~~읏<emoji=heart04><emoji=heart04><emoji=heart04><emoji=heart04>」"
 
 [[dialogue]]
 speaker_original = "聖沙"
 speaker_translation = "미사"
 original = "「あっ、あっ、あっ、あっ、んああぁんっ<emoji=heart04><emoji=heart04>\u3000あっ、あっ、あっ、あんっ、はああぁんっ<emoji=heart04><emoji=heart04>」"
-translation = "「아읏, 아읏, 아읏, 아읏, 응아아앙읏<emoji=heart04><emoji=heart04> 아읏, 아읏, 아읏, 안앙, 하아아앙읏<emoji=heart04><emoji=heart04>」"
+translation = "「앗, 앗, 앗, 앗, 응아아앙읏<emoji=heart04><emoji=heart04> 앗, 앗, 앗, 앙읏, 하아아앙읏<emoji=heart04><emoji=heart04>」"
 
 [[dialogue]]
 speaker_original = "聖沙"
 speaker_translation = "미사"
 original = "「奥っ<emoji=heart04>\u3000奥どちゅどちゅ、気持ちいいのぉ～～っ<emoji=heart04><emoji=heart04>\u3000あっ、あっ、あっ、あっ、ふあああぁんっ<emoji=heart04><emoji=heart04>」"
-translation = "「안쪽<emoji=heart04> 안쪽 더벅더벅, 기분 좋아아~~읏<emoji=heart04><emoji=heart04> 아읏, 아읏, 아읏, 아읏, 후아아아앙읏<emoji=heart04><emoji=heart04>」"
+translation = "「깊은 곳<emoji=heart04> 깊은 곳 찌북찌북, 기분 좋아아~~읏<emoji=heart04><emoji=heart04> 앗, 앗, 앗, 앗, 후아아아앙읏<emoji=heart04><emoji=heart04>」"
 
 [[dialogue]]
 speaker_original = "聖沙"
 speaker_translation = "미사"
 original = "「おち○ぽ<emoji=heart04>\u3000おち○ぽ気持ちぃっ<emoji=heart04><emoji=heart04>\u3000あっ、あっ、あっ、あっ、んああぁ～～っ<emoji=heart04><emoji=heart04>」"
-translation = "「자지<emoji=heart04> 자지 기분 좋아앗<emoji=heart04><emoji=heart04> 아읏, 아읏, 아읏, 아읏, 응아아아~~읏<emoji=heart04><emoji=heart04>」"
+translation = "「자지<emoji=heart04> 자지 기분 좋아앗<emoji=heart04><emoji=heart04> 앗, 앗, 앗, 앗, 응아아아~~읏<emoji=heart04><emoji=heart04>」"
 
 [[dialogue]]
 speaker_original = "聖沙"
 speaker_translation = "미사"
 original = "「もっと<emoji=heart04>\u3000もっといっぱいおま○こ突いてぇ～～っ<emoji=heart04><emoji=heart04>\u3000あっ、あっ、あっ、あっ、ふあああぁ～～っ<emoji=heart04><emoji=heart04>」"
-translation = "「좀 더<emoji=heart04> 좀 더 잔뜩 보지 찌러줘어~~읏<emoji=heart04><emoji=heart04> 아읏, 아읏, 아읏, 아읏, 후아아아~~읏<emoji=heart04><emoji=heart04>」"
+translation = "「더<emoji=heart04> 더 가득 보지 찌르고 줘어~~읏<emoji=heart04><emoji=heart04> 앗, 앗, 앗, 앗, 후아아아아~~읏<emoji=heart04><emoji=heart04>」"
 
 [[dialogue]]
 speaker_original = "聖沙"
 speaker_translation = "미사"
 original = "「あっ<emoji=heart04><emoji=heart04>\u3000きたっ<emoji=heart04><emoji=heart04>\u3000きたきたっ<emoji=heart04><emoji=heart04><emoji=heart04>\u3000おま○こ気持ちいいの登ってきたぁ～～っ<emoji=heart04><emoji=heart04><emoji=heart04>」"
-translation = "「아읏<emoji=heart04><emoji=heart04> 왔어<emoji=heart04><emoji=heart04> 왔어 왔어<emoji=heart04><emoji=heart04><emoji=heart04> 보지 기분 좋은 거 차올랐어어~~읏<emoji=heart04><emoji=heart04><emoji=heart04>」"
+translation = "「앗<emoji=heart04><emoji=heart04> 왔다<emoji=heart04><emoji=heart04> 왔다왔다<emoji=heart04><emoji=heart04><emoji=heart04> 보지 기분 좋은 거 차올랐어어~~읏<emoji=heart04><emoji=heart04><emoji=heart04>」"
 
 [[dialogue]]
 speaker_original = "聖沙"
 speaker_translation = "미사"
 original = "「ああああああっ<emoji=heart04><emoji=heart04><emoji=heart04>\u3000これ、大きいっ<emoji=heart04><emoji=heart04><emoji=heart04>\u3000すごく気持ちいい絶頂きてるのぉ～～っ<emoji=heart04><emoji=heart04>」"
-translation = "「아아아아아앗<emoji=heart04><emoji=heart04><emoji=heart04> 이거, 커어<emoji=heart04><emoji=heart04><emoji=heart04> 엄청 기분 좋은 절정 오고 있어어~~읏<emoji=heart04><emoji=heart04>」"
+translation = "「아아아아앗<emoji=heart04><emoji=heart04><emoji=heart04> 이거, 커어<emoji=heart04><emoji=heart04><emoji=heart04> 엄청 기분 좋은 절정 오고 있어어~~읏<emoji=heart04><emoji=heart04>」"
 
 [[dialogue]]
 speaker_original = "シン"
@@ -608,94 +608,94 @@ translation = "「나도 이제 갈 것 같아……!」"
 speaker_original = "聖沙"
 speaker_translation = "미사"
 original = "「きてっ<emoji=heart04>\u3000きてきてっ<emoji=heart04><emoji=heart04>\u3000旦那様の精液、一緒に出してぇっ<emoji=heart04><emoji=heart04><emoji=heart04>」"
-translation = "「와줘<emoji=heart04> 와줘 와줘<emoji=heart04><emoji=heart04> 여보의 정액, 같이 내보내줘어읏<emoji=heart04><emoji=heart04><emoji=heart04>」"
+translation = "「와줘<emoji=heart04> 와줘와줘<emoji=heart04><emoji=heart04> 여보의 정액, 같이 내보내줘어<emoji=heart04><emoji=heart04><emoji=heart04>」"
 
 [[dialogue]]
 speaker_original = "聖沙"
 speaker_translation = "미사"
 original = "「あっあっあっあっ、はあああぁ～っ<emoji=heart04><emoji=heart04>\u3000あっあっあっあっ、んああああああ～～～っ<emoji=heart04><emoji=heart04><emoji=heart04>」"
-translation = "「아읏아읏아읏아읏, 하아아아아~읏<emoji=heart04><emoji=heart04> 아읏아읏아읏아읏, 응아아아아아아~~~읏<emoji=heart04><emoji=heart04><emoji=heart04>」"
+translation = "「앗앗앗앗, 하아아아아~읏<emoji=heart04><emoji=heart04> 앗앗앗앗, 응아아아아아아~~~읏<emoji=heart04><emoji=heart04><emoji=heart04>」"
 
 [[dialogue]]
 speaker_original = "聖沙"
 speaker_translation = "미사"
 original = "「イクっ<emoji=heart04><emoji=heart04><emoji=heart04>\u3000イクイクイクイクぅっ<emoji=heart04><emoji=heart04><emoji=heart04><emoji=heart04>」"
-translation = "「간다<emoji=heart04><emoji=heart04><emoji=heart04> 간다 간다 간다 간다아읏<emoji=heart04><emoji=heart04><emoji=heart04><emoji=heart04>」"
+translation = "「간다<emoji=heart04><emoji=heart04><emoji=heart04> 간다간다간다간다아읏<emoji=heart04><emoji=heart04><emoji=heart04><emoji=heart04>」"
 
 [[dialogue]]
 speaker_original = "シン"
 speaker_translation = "신"
 original = "「聖沙っ、中に出すよっ！！！」"
-translation = "「미사, 안에 낼게!!!」"
+translation = "「세이사, 안에 싼다!!!」"
 
 [[dialogue]]
 speaker_original = "聖沙"
 speaker_translation = "미사"
 original = "「あっ――<emoji=heart04><emoji=heart04><emoji=heart04><emoji=heart04>」"
-translation = "「아읏――<emoji=heart04><emoji=heart04><emoji=heart04><emoji=heart04>」"
+translation = "「앗――<emoji=heart04><emoji=heart04><emoji=heart04><emoji=heart04>」"
 
 [[dialogue]]
 speaker_original = "聖沙"
 speaker_translation = "미사"
 original = "「ふあああああああああぁぁぁ～～～～～～～～～っ<emoji=heart04><emoji=heart04><emoji=heart04><emoji=heart04><emoji=heart04>\u3000イックううううううぅぅぅ～～～～～～～～～っ<emoji=heart04><emoji=heart04><emoji=heart04><emoji=heart04><emoji=heart04>」"
-translation = "「후아아아아아아아아아아~~읏<emoji=heart04><emoji=heart04><emoji=heart04><emoji=heart04><emoji=heart04> 가아아아아아아아아아~~읏<emoji=heart04><emoji=heart04><emoji=heart04><emoji=heart04><emoji=heart04>」"
+translation = "「후아아아아아아아아아아아~~~~~~~읏<emoji=heart04><emoji=heart04><emoji=heart04><emoji=heart04><emoji=heart04> 간다아아아아아아아아아~~~~~~~읏<emoji=heart04><emoji=heart04><emoji=heart04><emoji=heart04><emoji=heart04>」"
 
 [[dialogue]]
 speaker = "unk"
 original = "限界まで溜め込んだ興奮を解き放つように、僕は聖沙の中に精液を吐き出した。"
-translation = "한계까지 모아둔 흥분을 해방하듯, 나는 미사의 안에 정액을 토해냈다."
+translation = "한계까지 모아둔 흥분을 해방하듯이, 나는 세이사 안에 정액을 뿜어냈다."
 
 [[dialogue]]
 speaker_original = "聖沙"
 speaker_translation = "미사"
 original = "「あっ<emoji=heart04><emoji=heart04><emoji=heart04>\u3000んああああぁ～～～っ<emoji=heart04><emoji=heart04><emoji=heart04>\u3000旦那様の熱い子種が、子宮の中にいっぱい来てるうううぅ～～っ<emoji=heart04><emoji=heart04>」"
-translation = "「아읏<emoji=heart04><emoji=heart04><emoji=heart04> 응아아아아아~~읏<emoji=heart04><emoji=heart04><emoji=heart04> 여보의 뜨거운 씨앗이, 자궁 안에 잔뜩 오고 있어어어~~읏<emoji=heart04><emoji=heart04>」"
+translation = "「앗<emoji=heart04><emoji=heart04><emoji=heart04> 응아아아아~~읏<emoji=heart04><emoji=heart04><emoji=heart04> 여보의 뜨거운 씨앗이, 자궁 안에 가득 오고 있어어어~~읏<emoji=heart04><emoji=heart04>」"
 
 [[dialogue]]
 speaker_original = "聖沙"
 speaker_translation = "미사"
 original = "「んっ<emoji=heart04>\u3000はああぁ～っ<emoji=heart04>\u3000すごぉいっ<emoji=heart04>\u3000旦那様のおち○ぽ、何度も脈打って、射精止まらないぃ～っ……<emoji=heart04><emoji=heart04>」"
-translation = ""
+translation = "「응읏<emoji=heart04> 하아아아~읏<emoji=heart04> 대단해엣<emoji=heart04> 여보의 자지, 몇 번이나 맥박치고, 사정 멈추지 않아아~읏……<emoji=heart04><emoji=heart04>」"
 
 [[dialogue]]
 speaker_original = "聖沙"
 speaker_translation = "미사"
 original = "「あっ……はあぁんっ<emoji=heart04>\u3000子宮口にぴったりくっ付いて、一滴残らず種付けされちゃってる……<emoji=heart04>\u3000んっ……ふうぅ……<emoji=heart04>」"
-translation = "「아읏…… 하아앙읏<emoji=heart04> 자궁구에 딱 붙어서, 한 방울도 남김없이 씨뿌리기 당하고 있어……<emoji=heart04> 응읏…… 후우……<emoji=heart04>」"
+translation = "「앗…… 하아앙읏<emoji=heart04> 자궁 입구에 딱 붙어서, 한 방울도 남김없이 씨뿌리기 당해버리고 있어……<emoji=heart04> 응읏…… 후우……<emoji=heart04>」"
 
 [[dialogue]]
 speaker = "unk"
 original = "そうして、射精の余韻をたっぷりと味わった後――僕はゆっくりとペニスを引き抜く。"
-translation = "그렇게, 사정의 여운을 듬뿍 맛본 후―― 나는 천천히 페니스를 뽑아냈다."
+translation = "그렇게, 사정의 여운을 듬뿍 맛본 후―― 나는 천천히 페니스를 뽑아낸다."
 
 [[dialogue]]
 speaker_original = "聖沙"
 speaker_translation = "미사"
 original = "「――あんっ……<emoji=heart04>\u3000はあぁ……ふうぅ……<emoji=heart04>」"
-translation = "「――안앙……<emoji=heart04> 하아아…… 후우……<emoji=heart04>」"
+translation = "「――앙읏……<emoji=heart04> 하아아…… 후우……<emoji=heart04>」"
 
 [[dialogue]]
 speaker_original = "聖沙"
 speaker_translation = "미사"
 original = "「すっごくエッチに乱れて、イっちゃったぁ……<emoji=heart04>\u3000んっ……はあぁ……<emoji=heart04>」"
-translation = "「엄청 야하게 흐트러져서, 가버렸어어……<emoji=heart04> 응읏…… 하아아……<emoji=heart04>」"
+translation = "「엄청 에로하게 흐트러져서, 가버렸다아……<emoji=heart04> 응읏…… 하아아……<emoji=heart04>」"
 
 [[dialogue]]
 speaker_original = "シン"
 speaker_translation = "신"
 original = "「僕も……すごくいっぱい出た……」"
-translation = "「나도…… 엄청 잔뜩 나왔어……」"
+translation = "「나도…… 엄청 많이 나왔어……」"
 
 [[dialogue]]
 speaker = "unk"
 original = "落ち着いてきた僕は、聖沙の頭を撫でながら謝る。"
-translation = "진정된 나는, 미사의 머리를 듬으며 사과했다."
+translation = "진정된 나는, 세이사의 머리를 쓰다듬으며 사과한다."
 
 [[dialogue]]
 speaker_original = "シン"
 speaker_translation = "신"
 original = "「聖沙、ごめん……興奮して、途中で止められなくて……」"
-translation = "「미사, 미안…… 흥분해서, 중간에 멈출 수가 없어서……」"
+translation = "「세이사, 미안해…… 흥분해서, 중간에 멈출 수가 없어서……」"
 
 [[dialogue]]
 speaker_original = "聖沙"
@@ -725,25 +725,25 @@ translation = "「그럼…… 용서해 줄게<emoji=heart04> 나도…… 기�
 speaker_original = "聖沙"
 speaker_translation = "미사"
 original = "「それに……旦那様が気持ち良くなってくれたら、私も嬉しいもの……<emoji=heart04>」"
-translation = "「게다가…… 여보가 기분 좋아졌다면, 나도 기쁜걸……<emoji=heart04>」"
+translation = "「게다가…… 여보가 기분 좋아져주면, 나도 기쁜걸……<emoji=heart04>」"
 
 [[dialogue]]
 speaker_original = "シン"
 speaker_translation = "신"
 original = "「っ……聖沙！」"
-translation = "「읏…… 미사!」"
+translation = "「읏…… 세이사!」"
 
 [[dialogue]]
 speaker_original = "聖沙"
 speaker_translation = "미사"
 original = "「あんっ<emoji=heart04>\u3000咲良クンの、またすぐに大きくなってる……<emoji=heart04>」"
-translation = "「안앙<emoji=heart04> 사쿠라 군 거, 또 금방 커졌어……<emoji=heart04>」"
+translation = "「앙읏<emoji=heart04> 사쿠라 군 거, 또 금방 커졌어……<emoji=heart04>」"
 
 [[dialogue]]
 speaker_original = "シン"
 speaker_translation = "신"
 original = "「聖沙が愛おしくなるようなこと言うから……」"
-translation = "「미사가 사랑스러워할 만한 소리를 하니까……」"
+translation = "「세이사가 사랑스러워질 만한 소리를 하니까……」"
 
 [[dialogue]]
 speaker_original = "聖沙"
@@ -755,16 +755,16 @@ translation = "「정, 정말이지……<emoji=heart04> 정말 성욕 왕성한
 speaker_original = "聖沙"
 speaker_translation = "미사"
 original = "「あぁんっ<emoji=heart04>\u3000旦那様、そんなすぐになんてダメよ……<emoji=heart04>」"
-translation = "「아앙읏<emoji=heart04> 여보, 그렇게 금방이라니 안 돼……<emoji=heart04>」"
+translation = "「아앙읏<emoji=heart04> 여보, 그렇게 바로는 안 돼……<emoji=heart04>」"
 
 [[dialogue]]
 speaker_original = "聖沙"
 speaker_translation = "미사"
 original = "「あっ……はぁん……<emoji=heart04>」"
-translation = "「아읏…… 하앙……<emoji=heart04>」"
+translation = "「앗…… 하앙……<emoji=heart04>」"
 
 [[dialogue]]
 speaker = "unk"
 original = "その後も、僕たちは海に入らず、ベッド上での甘いスキンシップに浸り続けてしまうのだった。"
-translation = "그 후로도, 우리들은 바다에 들어가지 않고, 침대 위에서의 달콤한 스킨십에 계속 잠겨버리는 것이었다."
+translation = "그 후로도, 우리들은 바다에 들어가지 않고, 침대 위에서의 달콤한 스킨십에 계속 빠져버리고 마는 것이었다."
 

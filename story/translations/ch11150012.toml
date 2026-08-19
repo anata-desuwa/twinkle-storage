@@ -7,77 +7,77 @@ translation = "제2화, 『코우레이』의 이름, P"
 speaker_original = "モンスター"
 speaker_translation = "몬스터"
 original = "「グモォオオオッ！！」"
-translation = "「그오오오오옷!!」"
+translation = "「구모오오오앗!!」"
 
 [[dialogue]]
 speaker_original = "シルヴィ"
 speaker_translation = "실비"
 original = "「いくよ、会長くん！」"
-translation = "「간다, 회장 군!」"
+translation = "「가자, 회장군!」"
 
 [[dialogue]]
 speaker = "unk"
 original = "街にモンスターが出現し、近くに居合わせたシルヴィ先輩とともに戦闘に突入する──"
-translation = "거리에 몬스터가 출현하여, 마침 근처에 있던 실비 선배와 함께 전투에 돌입한다──"
+translation = "거리에서 몬스터가 출현하여, 근처에 마침 함께 있던 실비 선배와 함께 전투에 돌입한다──"
 
 [[dialogue]]
 speaker_original = "煌嶺"
 speaker_translation = "코레이"
 original = "「ちぇりゃーっ！」"
-translation = "「체랴앗─!」"
+translation = "「체랴아아-!」"
 
 [[dialogue]]
 speaker_original = "モンスター"
 speaker_translation = "몬스터"
 original = "「グォオオッ！！？」"
-translation = "「구오오옷!!?」"
+translation = "「구오오앗!!?」"
 
 [[dialogue]]
 speaker_original = "シルヴィ"
 speaker_translation = "실비"
 original = "「モンスターを蹴り倒したーっ！？」"
-translation = "「몬스터를 걷어차 쓰러뜨렸어─!?」"
+translation = "「몬스터를 차서 쓰러뜨렸다ー!?」"
 
 [[dialogue]]
 speaker_original = "煌嶺"
 speaker_translation = "코레이"
 original = "「私、キュリオスの女帝だよ？\u3000リーエンちゃんから格闘技も教わってるし、このくらい朝飯前なんだから」"
-translation = "「나, 큐리오스의 여제라구? 리엔 짱에게 격투기도 배우고 있고, 이 정도는 식은 죽 먹기야」"
+translation = "「나, 큐리오스의 여제거든? 리엔한테 격투기도 배웠고, 이 정도는 식은 죽 먹기라구」"
 
 [[dialogue]]
 speaker_original = "モンスター"
 speaker_translation = "몬스터"
 original = "「グルルァアアッ！」"
-translation = "「구르르앗!」"
+translation = "「그루르아아앗!」"
 
 [[dialogue]]
 speaker_original = "煌嶺"
 speaker_translation = "코레이"
 original = "「あ、まだモンスターいるんだ。ひぃ、ふぅ、みぃ、よぉ……たくさんいるね！\u3000それじゃ──」"
-translation = "「아, 아직 몬스터가 있네. 하나, 둘, 셋, 넷…… 많이 있네! 그럼──」"
+translation = "「아, 아직 몬스터 있네. 하나, 둘, 셋, 넷…… 많이 있네! 그럼──」"
 
 [[dialogue]]
 speaker_original = "煌嶺"
 speaker_translation = "코레이"
 original = "「燃やすとするか」"
-translation = "「태워버려 볼까」"
+translation = "「태워버릴까」"
 
 [[dialogue]]
 speaker_original = "煌嶺"
 speaker_translation = "코레이"
 original = "「機械型モンスターなど今更我が物にするまでもない。せいぜい鮮やかに散ってみせよ──千熾万紅！」"
-translation = ""
+translation = "「기계형 몬스터 따위 이제 와서 내 것으로 만들 필요도 없다. 제법 화려하게 흩어져 보아라── 천치만홍!」"
 
 [[dialogue]]
 speaker = "unk"
 original = "煌嶺が扇を振るうと、業火がモンスターの群れを呑み込み、あっという間に燃やし尽くした。"
-translation = "코우레이가 부채를 휘두르자 겁화가 몬스터 무리를 집어삼키고 순식간에 태워버렸다."
+translation = "코우레이가 부채를 휘두르자, 업화가 몬스터 무리를 삼켜, 눈 깜짝할 사이에 태워버렸다."
 
 [[dialogue]]
 speaker_original = "シルヴィ"
 speaker_translation = "실비"
 original = "「ひょえー……あっさり倒しちゃった。さっすが煌嶺だ」"
-translation = "「효에~…… 가볍게 쓰러뜨렸어. 역시 코우레이야」"
+translation = "「히에ー…… 손쉽게 쓰러뜨려 버렸어. 역시 코우레이야」"
 
 [[dialogue]]
 speaker = "unk"
@@ -88,19 +88,19 @@ translation = "유성시국을 지켜준 건가……?"
 speaker_original = "煌嶺"
 speaker_translation = "코레이"
 original = "「流星市国がどうなろうと妾の知ったことではない」"
-translation = "「유성시국이 어떻게 되든 첩이 알 바 아니다」"
+translation = "「유성시국이 어떻게 되든 짐이 알 바 아니다」"
 
 [[dialogue]]
 speaker_original = "煌嶺"
 speaker_translation = "코레이"
 original = "「だがここには妾が出資した店もあるのでな。投資を回収する前に潰れてもらっては損になるというだけのことよ」"
-translation = "「다만 여기에는 첩이 출자한 가게도 있어서 말이지. 투자를 회수하기도 전에 무너져 버리면 손해를 볼 뿐인 일이다」"
+translation = "「하지만 여기에는 짐이 출자한 가게도 있어서 말이지. 투수를 회수하기도 전에 망해버려서는 손해가 된다는 것뿐이다」"
 
 [[dialogue]]
 speaker_original = "煌嶺"
 speaker_translation = "코레이"
 original = "「ここで会ったが百年目！\u3000お小遣いちょうだい、おじいちゃん！」"
-translation = "「여기서 만난 것도 인연! 용돈 줘, 할아버지!」"
+translation = "「여기서 만난 것도 100년째! 용돈 줘, 할아버지!」"
 
 [[dialogue]]
 speaker = "unk"
@@ -111,94 +111,94 @@ translation = "할아버지!?"
 speaker_original = "煌嶺"
 speaker_translation = "코레이"
 original = "「あはは、冗談冗談。３０００年前のご先祖様だからって、さすがにおじいちゃんとは思ってないよ」"
-translation = "「아하하, 농담 농담. 3000년 전의 조상님이라고 해도 역시 할아버지라고는 생각 안 해」"
+translation = "「아하하, 농담 농담. 3000년 전의 조상님이라고 해서, 역시 할아버지라고는 생각 안 해」"
 
 [[dialogue]]
 speaker_original = "煌嶺"
 speaker_translation = "코레이"
 original = "「シルヴィちゃんも久しぶり～♪」"
-translation = "「실비 짱도 오랜만~♪」"
+translation = "「실비짱도 오랜만~♪」"
 
 [[dialogue]]
 speaker_original = "シルヴィ"
 speaker_translation = "실비"
 original = "「うん、久しぶりー」"
-translation = "「응, 오랜만─」"
+translation = "「응, 오랜만ー」"
 
 [[dialogue]]
 speaker = "unk"
 original = "あれ、２人ってけっこう仲がいい？"
-translation = "어라, 둘이 꽤 사이가 좋은가?"
+translation = "어라, 두 사람 의외로 사이가 좋은가?"
 
 [[dialogue]]
 speaker_original = "シルヴィ"
 speaker_translation = "실비"
 original = "「仲いいかはわかんないけど、一緒にフライドチキン食べに行ったことあるよ。たくさん奢ってもらっちゃった」"
-translation = "「사이좋은지는 모르겠지만, 같이 프라이드치킨 먹으러 간 적 있어. 잔뜩 얻어먹었어」"
+translation = "「사이가 좋은지는 모르겠지만, 같이 프라이드치킨 먹으러 간 적은 있어. 엄청 많이 한턱 얻어먹어 버렸어」"
 
 [[dialogue]]
 speaker_original = "煌嶺"
 speaker_translation = "코레이"
 original = "「あの時の食べっぷりはすごかったね～」"
-translation = "「그때 먹성이 대단했지~」"
+translation = "「그때의 먹방은 대단했지~」"
 
 [[dialogue]]
 speaker_original = "シルヴィ"
 speaker_translation = "실비"
 original = "「でもお店とかポンポン買っちゃって、お金大丈夫なの？」"
-translation = "「그런데 가게 같은 걸 펑펑 사버리는데 돈은 괜찮아?」"
+translation = "「그치만 가게 같은 걸 턱턱 사버리고, 돈은 괜찮아?」"
 
 [[dialogue]]
 speaker_original = "煌嶺"
 speaker_translation = "코레이"
 original = "「だいじょーぶだいじょーぶ。私は頽廃都市キュリオスの女帝だよ？\u3000ケチケチせすに、お金はばーんと稼いで、どーんと使わなきゃ！」"
-translation = "「괜찮아 괜찮아. 나는 퇴폐도시 큐리오스의 여제라구? 인색하게 굴지 말고, 돈은 확 벌어서 팍팍 써야지!」"
+translation = "「괜찮아 괜찮아. 나는 퇴폐도시 큐리오스의 여제라구? 인색하게 굴지 말고, 돈은 확 벌어서, 팍팍 써야지!」"
 
 [[dialogue]]
 speaker_original = "煌嶺"
 speaker_translation = "코레이"
 original = "「欲しいものは手に入れるのが私の流儀だもんね！」"
-translation = "「갖고 싶은 건 손에 넣는 게 내 방식이니까!」"
+translation = "「갖고 싶은 것은 손에 넣는 게 내 방식인걸!」"
 
 [[dialogue]]
 speaker_original = "煌嶺"
 speaker_translation = "코레이"
 original = "「ま、心配しなくても平気だよ。キュリオスは賭場でけっこう儲けてるし」"
-translation = "「뭐, 걱정 안 해도 돼. 큐리오스는 도박장으로 꽤 벌고 있고」"
+translation = "「뭐, 걱정하지 않아도 괜찮아. 큐리오스는 도박장으로 제법 벌고 있으니까」"
 
 [[dialogue]]
 speaker_original = "煌嶺"
 speaker_translation = "코레이"
 original = "「あとお宝を売ったりとか。世界に１つしかないような珍しいお宝もいろいろ持ってるけど、いらなかったら処分しちゃうしね」"
-translation = "「그리고 보물을 팔거나 하기도 하고. 세계에 하나뿐인 희귀한 보물도 이것저것 가지고 있지만, 필요 없으면 처분해 버리니까」"
+translation = "「그리고 보물을 팔거나 해서. 세계에 단 하나밖에 없는 희귀한 보물도 이것저것 가지고 있지만, 필요 없으면 처분해 버리고 말이지」"
 
 [[dialogue]]
 speaker_original = "シルヴィ"
 speaker_translation = "실비"
 original = "「ほえ～……煌嶺ってほんとにお金持ちなんだ」"
-translation = "「호에~…… 코우레이는 정말 부자구나」"
+translation = "「호에~…… 코우레이는 정말로 부자구나」"
 
 [[dialogue]]
 speaker_original = "煌嶺"
 speaker_translation = "코레이"
 original = "「……おや、魔王さん。その顔は、他にも気になることがあるって顔だね」"
-translation = "「……오호, 마왕 씨. 그 표정은 다른 궁금한 게 더 있다는 표정이네」"
+translation = "「……어라, 마왕님. 그 얼굴은, 그 외에도 신경 쓰이는 게 있다는 얼굴이네」"
 
 [[dialogue]]
 speaker = "unk"
 original = "俺やフィオナ、アポロがそうであったように、魔王の血に秘められた魔王因子は、血縁の者に助けを求められた時に真に覚醒する。"
-translation = "나나 피오나, 아폴로가 그랬던 것처럼 마왕의 피에 숨겨진 마왕 인자는 혈연인 자에게 도움을 요청받았을 때 진정으로 각성한다."
+translation = "나나 피오나, 아폴로가 그러했듯이, 마왕의 피에 숨겨진 마왕 인자는 혈육에게 도움을 요청받았을 때 진정으로 각성한다."
 
 [[dialogue]]
 speaker = "unk"
 original = "先ほどのような圧倒的な力を持つ煌嶺であれば、魔王への覚醒を果たしているはずだが……"
-translation = "방금 같은 압도적인 힘을 가진 코우레이라면 마왕으로의 각성을 마쳤을 텐데……"
+translation = "방금 전과 같은 압도적인 힘을 가진 코우레이라면, 마왕으로의 각성을 이루었을 터이지만……"
 
 [[dialogue]]
 speaker_original = "煌嶺"
 speaker_translation = "코레이"
 original = "「へー、魔王因子ってそういう仕組みなんだ。じゃああの時かな？」"
-translation = "「헤에, 마왕 인자란 게 그런 구조구나. 그럼 그때일까?」"
+translation = "「헤-, 마왕 인자라는 건 그런 구조구나. 그럼 그때인가?」"
 
 [[dialogue]]
 speaker_original = "シルヴィ"
@@ -210,48 +210,48 @@ translation = "「그때?」"
 speaker_original = "煌嶺"
 speaker_translation = "코레이"
 original = "「うちのしきたりでね。『煌嶺』の名前を襲名する時に、母──先代の煌嶺を殺すんだ」"
-translation = "「우리 집안 관습이라서 말이야. 『코우레이』의 이름을 습명할 때 어머니── 선대 코우레이를 죽여」"
+translation = "「우리 집안 관습으로 말이지. 『코우레이』라는 이름을 습명할 때, 어머니──선대의 코우레이를 죽여」"
 
 [[dialogue]]
 speaker = "unk"
 original = "え……！？"
-translation = "에……!?"
+translation = "에……!? "
 
 [[dialogue]]
 speaker_original = "煌嶺"
 speaker_translation = "코레이"
 original = "「次代の『煌嶺』は名前を付けられず、親から離して育てられるんだ」"
-translation = "「차세대 『코우레이』는 이름도 지어지지 않고 부모와 떨어져서 길러져」"
+translation = "「차대의 『코우레이』는 이름을 얻지 못하고, 부모에게서 떨어져서 키워져」"
 
 [[dialogue]]
 speaker_original = "煌嶺"
 speaker_translation = "코레이"
 original = "「その子は名無しのまま、この世に存在しないものとして幽閉されながら育てられる。やがて成長して、名前を……自分の存在を欲した時、親を殺して『煌嶺』になるの」"
-translation = "「그 아이는 이름도 없는 채로 이 세상에 존재하지 않는 것으로서 유폐되어 자라게 돼. 그러다 성장해서 이름을…… 자신의 존재를 원하게 됐을 때, 부모를 죽이고 『코우레이』가 되는 거야」"
+translation = "「그 아이는 이름이 없는 채로, 이 세상에 존재하지 않는 것으로서 유폐된 채 키워지지. 이윽고 성장해서, 이름을…… 자신의 존재를 원했을 때, 부모를 죽이고 『코우레이』가 되는 거야」"
 
 [[dialogue]]
 speaker_original = "煌嶺"
 speaker_translation = "코레이"
 original = "「そして殺す前に、母親に命乞いさせるんだ。『命だけは助けて。許してください』って」"
-translation = "「그리고 죽이기 전에 어머니에게 목숨을 구걸하게 해. 『목숨만은 살려줘. 용서해줘』라고」"
+translation = "「그리고 죽이기 전에, 어머니에게 목숨을 구걸하게 만들어. 『목숨만은 살려줘. 용서해 주세요』라고」"
 
 [[dialogue]]
 speaker_original = "煌嶺"
 speaker_translation = "코레이"
 original = "「もちろんお芝居じゃダメ。本気の本気で追い詰めて、心の底から命乞いさせて、ようやく『煌嶺』になれるってわけ」"
-translation = "「물론 연기로는 안 돼. 진심으로 몰아붙여서 마음 깊은 곳에서 목숨을 구걸하게 해야 비로소 『코우레이』가 될 수 있는 거야」"
+translation = "「물론 연기로는 안 돼. 진심의 진심으로 몰아붙여서, 마음속 깊은 곳에서 목숨을 구걸하게 만들어야, 겨우 『코우레이』가 될 수 있다는 말씀」"
 
 [[dialogue]]
 speaker_original = "煌嶺"
 speaker_translation = "코레이"
 original = "「命乞いさせたら実際に殺さなくていいし、追放で済ませることもあるんだけど……だいたい殺されるね」"
-translation = "「목숨을 구걸하게 하면 실제로 죽이지 않아도 되고 추방으로 끝내기도 하지만…… 대부분 죽임당하지」"
+translation = "「목숨을 구걸하게 만들면 실제로 죽이지 않아도 되고, 추방으로 끝내는 경우도 있지만…… 대부분 죽임을 당하지」"
 
 [[dialogue]]
 speaker_original = "煌嶺"
 speaker_translation = "코레이"
 original = "「私はどうしたっけな……ああ、寸でのところで逃げられたんだった。でも先代の煌嶺がキュリオスに戻ることはもうないよ」"
-translation = "「나는 어떻게 했더라…… 아아, 직전에 놓쳐버렸지. 하지만 선대 코우레이가 큐리오스로 돌아올 일은 이제 없어」"
+translation = "「나는 어떻게 했더라…… 아아, 하마터면 놓칠 뻔했었지. 하지만 선대의 코우레이가 큐리오스로 돌아올 일은 이제 없어」"
 
 [[dialogue]]
 speaker_original = "シルヴィ"
@@ -263,19 +263,19 @@ translation = "「…………」"
 speaker_original = "煌嶺"
 speaker_translation = "코레이"
 original = "「あはは、２人ともびっくりしてるー。やっぱり余所からしたらドン引きなんだね～」"
-translation = "「아하하, 둘 다 깜짝 놀랐네. 역시 외부인이 보기엔 정떨어지는 이야기인가~」"
+translation = "「아하하, 둘 다 깜짝 놀랐어ー. 역시 외부 사람 시선에서는 정색할 만한 일인가 보네~」"
 
 [[dialogue]]
 speaker_original = "シルヴィ"
 speaker_translation = "실비"
 original = "「そりゃそうでしょ。そのしきたりヤバすぎだって」"
-translation = "「그야 당연하지. 그 관습 너무 위험하다구」"
+translation = "「그야 그렇겠지. 그 관습 너무 위험하다니까」"
 
 [[dialogue]]
 speaker_original = "煌嶺"
 speaker_translation = "코레이"
 original = "「ちなみに煌嶺の血筋は、女しか生まれない家系で、後継ぎが生まれないってことはないらしいよ」"
-translation = "「참고로 코우레이의 혈통은 여자밖에 태어나지 않는 가계라, 후계자가 안 태어나는 일은 없나 봐」"
+translation = "「참고로 코우레이의 혈통은, 여자밖에 태어나지 않는 가계라서, 후계자가 태어나지 않는 일은 없는 모양이야」"
 
 [[dialogue]]
 speaker_original = "シルヴィ"
@@ -287,42 +287,42 @@ translation = "「아빠는 어떻게 됐어?」"
 speaker_original = "煌嶺"
 speaker_translation = "코레이"
 original = "「し～らないっ。少なくとも私は会ったことないなぁ。顔も知らないし」"
-translation = "「몰~라. 적어도 나는 만난 적 없어. 얼굴도 모르고」"
+translation = "「몰~라. 적어도 나는 만나본 적 없네. 얼굴도 모르고」"
 
 [[dialogue]]
 speaker_original = "煌嶺"
 speaker_translation = "코레이"
 original = "「どこに行ったかも興味ないし～……ま、運が良ければ、先代の煌嶺と一緒に逃げてるんじゃない？」"
-translation = "「어디로 갔는지도 관심 없고~…… 뭐, 운이 좋으면 선대 코우레이랑 같이 도망쳤지 않았을까?」"
+translation = "「어디로 갔는지도 흥미 없고~…… 뭐, 운이 좋다면 선대의 코우레이와 함께 도망쳤지 않겠어?」"
 
 [[dialogue]]
 speaker_original = "シルヴィ"
 speaker_translation = "실비"
 original = "「お父さんもそんな感じか……ホントにハードだ……」"
-translation = "「아빠도 그런 느낌인가…… 진짜 하드하다……」"
+translation = "「아빠도 그런 느낌인가…… 정말 하드하네……」"
 
 [[dialogue]]
 speaker = "unk"
 original = "先代の煌嶺はどうして──"
-translation = "선대 코우레이는 어째서──"
+translation = "선대의 코우레이는 어째서──"
 
 [[dialogue]]
 speaker_original = "煌嶺"
 speaker_translation = "코레이"
 original = "「……ん？\u3000自分の娘に女帝の座を追われることがわかっていて、どうして子どもを産むんだ──って？」"
-translation = "「……응? 자기 딸에게 여제의 자리를 뺏길 걸 알면서 왜 아이를 낳느냐── 고?」"
+translation = "「……응? 자신의 딸에게 여제의 자리를 빼앗길 것을 알고 있으면서, 어째서 아이를 낳는가──라고?」"
 
 [[dialogue]]
 speaker_original = "煌嶺"
 speaker_translation = "코레이"
 original = "「ん～……言われてみたらどうしてだろうね？\u3000ま、でも、代々継いでいくものって、そういうものじゃないの？」"
-translation = "「음~…… 듣고 보니 왜일까? 뭐, 그래도 대대로 이어가는 거란 게 그런 거 아니겠어?」"
+translation = "「음~…… 듣고 보니 어째서일까? 뭐, 그렇지만, 대대로 이어가는 것이란, 그런 거 아니겠어?」"
 
 [[dialogue]]
 speaker_original = "シルヴィ"
 speaker_translation = "실비"
 original = "「うーん……そうかなぁ……？\u3000あたし普通の家の生まれだからわかんないや」"
-translation = "「으음…… 그런가……? 난 평범한 집 태생이라 잘 모르겠네」"
+translation = "「으음…… 있으려나……? 나는 평범한 집안 태생이라 잘 모르겠어」"
 
 [[dialogue]]
 speaker = "unk"
@@ -332,5 +332,5 @@ translation = "원하는 모든 것을 손에 넣으려 하는 폭군 코우레�
 [[dialogue]]
 speaker = "unk"
 original = "だが彼女もいずれ皇帝の座を追われるのかもしれないと思うと、複雑な気持ちになるのだった。"
-translation = "하지만 그녀도 언젠가 황제의 자리를 쫓겨날지도 모른다고 생각하니 복잡한 기분이 들었다."
+translation = "하지만 그녀도 언젠가 황제의 자리를 빼앗길지도 모른다고 생각하니, 복잡한 기분이 되는 것이었다."
 
