@@ -1,0 +1,364 @@
+[[dialogue]]
+speaker = "unk"
+original = "第１話,リア、お姉ちゃんになる,P"
+translation = "제1화, 리아, 언니가 되다"
+
+[[dialogue]]
+speaker = "unk"
+original = "リゾート結界の事件の解決後。"
+translation = "리조트 결계 사건이 해결된 후."
+
+[[dialogue]]
+speaker = "unk"
+original = "流星クルセイダースの一行は、元の世界へ戻れるようになるまでの数日間、流星市国に滞在することになった。"
+translation = "유성 크루세이더스 일행은 원래 세계로 돌아갈 수 있게 될 때까지 며칠 동안 유성시국에 체류하게 되었다."
+
+[[dialogue]]
+speaker_original = "リア"
+speaker_translation = "리아"
+original = "「ヘレナさん、九浄家に泊めて頂いて、ありがとうございます」"
+translation = "「헬레나 씨, 쿠죠가에 묵게 해 주셔서 감사합니다」"
+
+[[dialogue]]
+speaker_original = "ヘレナ"
+speaker_translation = "헬레나"
+original = "「なに、遠慮することはない。自分の家だと思ってくつろぐがよい」"
+translation = "「무얼, 사려할 필요 없다. 제 집이라 생각하고 편히 쉬도록 하거라」"
+
+[[dialogue]]
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
+original = "「そうそう♪\u3000世界は違っても同じ九浄家なんだから、親戚みたいなものよね♪」"
+translation = "「그래그래♪ 세계는 달라도 같은 쿠죠가니까, 친척 같은 거잖아♪」"
+
+[[dialogue]]
+speaker_original = "ヘレナ（原作）"
+speaker_translation = "헬레나(원작)"
+original = "「あら、それはいい考えね～♪\u3000それなら私たち、血は直接繋がってないけど、『姉妹』みたいなものってことよね♪」"
+translation = "「어머, 그거 좋은 생각이네~♪ 그렇다면 우리, 피는 직접 이어지지 않았지만 『자매』 같은 거란 소리네♪」"
+
+[[dialogue]]
+speaker_original = "リア"
+speaker_translation = "리아"
+original = "「そういえば、こっちの世界のヘレナさんの年齢って……？」"
+translation = "「그러고 보니, 이쪽 세계의 헬레나 씨의 나이는……?」"
+
+[[dialogue]]
+speaker_original = "ヘレナ"
+speaker_translation = "헬레나"
+original = "「ふっ……そこは秘密だ。だが、少なくとも異世界の私よりは年上であるぞ」"
+translation = "「훗…… 거기부터는 비밀이다. 하지만 적어도 이세계의 나보다는 연상이다」"
+
+[[dialogue]]
+speaker_original = "ヘレナ（原作）"
+speaker_translation = "헬레나(원작)"
+original = "「なら、ヘレナちゃんが一番上のお姉さんで、私は２番目ね♪」"
+translation = "「그럼 헬레나짱이 제일 큰언니고, 나는 둘째네♪」"
+
+[[dialogue]]
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
+original = "「そっか♪\u3000じゃあ私は、一番下の妹ってことね！」"
+translation = "「그렇구나♪ 그럼 나는 제일 막내동생이라는 거네!」"
+
+[[dialogue]]
+speaker_original = "リア"
+speaker_translation = "리아"
+original = "「え？\u3000ヴィーナスちゃんが、私の妹……？」"
+translation = "「에? 비너스짱이 내 동생……?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "驚いたように目を丸くするリア。"
+translation = "놀란 듯 눈을 동그랗게 뜨는 리아."
+
+[[dialogue]]
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
+original = "「うん♪\u3000リアさんは３年生で、私は２年生でしょ？」"
+translation = "「응♪ 리아 씨는 3학년이고, 나는 2학년이잖아?」"
+
+[[dialogue]]
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
+original = "「前にリアさんと知り合った時は思いつかなかったけど……」"
+translation = "「전에 리아 씨를 만났을 때는 생각나지 않았지만……」"
+
+[[dialogue]]
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
+original = "「姉妹みたいなものだって思ったら、先輩よりも『リアお姉ちゃん』って呼ぶ方がしっくり来るわ♪」"
+translation = "「자매 같은 거라고 생각하니까, 선배보다 『리아 언니』라고 부르는 편이 착 감겨♪」"
+
+[[dialogue]]
+speaker_original = "リア"
+speaker_translation = "리아"
+original = "「私が、お姉ちゃん……！？」"
+translation = "「내가, 언니……!?」"
+
+[[dialogue]]
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
+original = "「うんっ♪\u3000これからリアさんのこと、そう呼んでもいい？」"
+translation = "「응♪ 앞으로 리아 씨를 그렇게 불러도 돼?」"
+
+[[dialogue]]
+speaker_original = "リア"
+speaker_translation = "리아"
+original = "「えっと……その……」"
+translation = "「저기…… 그……」"
+
+[[dialogue]]
+speaker_original = "ヘレナ（原作）"
+speaker_translation = "헬레나(원작)"
+original = "「ふふっ♪\u3000リアったら、すごく嬉しそうよ～♪」"
+translation = "「후후♪ 리아도 참, 엄청 기뻐 보여~♪」"
+
+[[dialogue]]
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
+original = "「えっ、そうなの？」"
+translation = "「에, 그래?」"
+
+[[dialogue]]
+speaker_original = "リア"
+speaker_translation = "리아"
+original = "「う、うん……<emoji=heart04>\u3000ちょっと照れるけど――」"
+translation = "「으, 응……<emoji=heart04> 조금 쑥스럽지만――」"
+
+[[dialogue]]
+speaker_original = "リア"
+speaker_translation = "리아"
+original = "「ヴィーナスちゃんが妹だって思ったら……すごく嬉しいかも<emoji=heart04>」"
+translation = "「비너스짱이 동생이라고 생각하니까…… 엄청 기쁠지도<emoji=heart04>」"
+
+[[dialogue]]
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
+original = "「ほんと？\u3000私もお姉ちゃんが２人もできて、嬉しいわ！」"
+translation = "「정말? 나도 언니가 2명이나 생겨서 기뻐!」"
+
+[[dialogue]]
+speaker_original = "ヘレナ（原作）"
+speaker_translation = "헬레나(원작)"
+original = "「あら～♪\u3000じゃあヴィーナスちゃん、私のこともお姉ちゃんって呼んで～♪」"
+translation = "「어머나~♪ 그럼 비너스짱, 나도 언니라고 불러줘~♪」"
+
+[[dialogue]]
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
+original = "「もちろんいいわよ♪\u3000ヘレナお姉ちゃん♪」"
+translation = "「당연히 괜찮지♪ 헬레나 언니♪」"
+
+[[dialogue]]
+speaker_original = "ヘレナ（原作）"
+speaker_translation = "헬레나(원작)"
+original = "「あ～ん、可愛い～っ<emoji=heart04>\u3000私も、もう１人妹ができたみたいで嬉しいわ～♪」"
+translation = "「아앙, 귀여워라~<emoji=heart04> 나도 여동생이 한 명 더 생긴 것 같아서 기뻐~♪」"
+
+[[dialogue]]
+speaker_original = "リア"
+speaker_translation = "리아"
+original = "「び、ヴィーナスちゃん、あのね？\u3000私も……その……」"
+translation = "「비, 비너스짱, 저기 말야? 나도…… 그……」"
+
+[[dialogue]]
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
+original = "「ん？\u3000どうしたの、リアお姉ちゃん？」"
+translation = "「응? 왜 그래, 리아 언니?」"
+
+[[dialogue]]
+speaker_original = "リア"
+speaker_translation = "리아"
+original = "「はうぅっ！？<emoji=heart04><emoji=heart04>\u3000妹って思ったら、ヴィーナスちゃんがすごく可愛く見えてきて……！」"
+translation = "「하우앗!?<emoji=heart04><emoji=heart04> 동생이라고 생각하니까, 비너스짱이 너무 귀엽게 보여서……!」"
+
+[[dialogue]]
+speaker_original = "リア"
+speaker_translation = "리아"
+original = "「ね、ねぇ……ヴィーナスちゃん。その……頭、撫でてもいい？」"
+translation = "「저, 저기…… 비너스짱. 그…… 머리, 쓰다듬어 줘도 될까?」"
+
+[[dialogue]]
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
+original = "「え？\u3000撫でてくれるの？\u3000やった～♪」"
+translation = "「에? 쓰다듬어 주는 거야? 신난다~♪」"
+
+[[dialogue]]
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
+original = "「リアお姉ちゃん、撫でて～♪」"
+translation = "「리아 언니, 쓰다듬어 줘~♪」"
+
+[[dialogue]]
+speaker_original = "リア"
+speaker_translation = "리아"
+original = "「それじゃあ……ヴィーナスちゃん――よしよ～し<emoji=heart04>」"
+translation = "「그러면…… 비너스짱――오냐오냐~<emoji=heart04>」"
+
+[[dialogue]]
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
+original = "「えへへへぇ～<emoji=heart04>\u3000お姉ちゃんに撫でてもらえるの、嬉しい♪」"
+translation = ""
+
+[[dialogue]]
+speaker_original = "リア"
+speaker_translation = "리아"
+original = "「～～っ<emoji=heart04>\u3000い、妹ができると、こんな感じなんだね……♪」"
+translation = "「～～읏<emoji=heart04> 여, 여동생이 생기면, 이런 느낌이구나……♪」"
+
+[[dialogue]]
+speaker_original = "ヘレナ（原作）"
+speaker_translation = "헬레나(원작)"
+original = "「ふふっ♪\u3000私がついリアのおっぱいを揉んで構いたくなる気持ち、わかったでしょ～？」"
+translation = "「후훗♪ 내가 괜히 리아의 가슴을 주무르며 가만두지 못했던 마음, 알겠지～？」"
+
+[[dialogue]]
+speaker_original = "リア"
+speaker_translation = "리아"
+original = "「う、うん<emoji=heart04>\u3000すごく可愛くてちょっと――って、いやいや！\u3000私はそこまでしないからね！？」"
+translation = "「어, 응<emoji=heart04> 너무 귀여워서 조금――이 아니라, 아냐 아냐! 나는 거기까지는 안 하니까!?」"
+
+[[dialogue]]
+speaker_original = "ヘレナ（原作）"
+speaker_translation = "헬레나(원작)"
+original = "「え～？\u3000別に恥ずかしがらなくてもいいのに～♪\u3000姉妹のコミュニケーションよ、コミュニケーション<emoji=heart04>\u3000――えいっ<emoji=heart04>」"
+translation = "「에～？ 딱히 부끄러워하지 않아도 되는데～♪ 자매의 커뮤니케이션이야, 커뮤니케이션<emoji=heart04> ――에잇<emoji=heart04>」"
+
+[[dialogue]]
+speaker_original = "リア"
+speaker_translation = "리아"
+original = "「きゃあっ！？」"
+translation = "「캬앗!?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ヘレナはいつものように背後に回り込むと、リアの大きな胸を掴んで揉み始める。"
+translation = "헬레나는 평소처럼 등 뒤로 돌아들어 가, 리아의 큰 가슴을 쥐고 주무르기 시작한다."
+
+[[dialogue]]
+speaker_original = "リア"
+speaker_translation = "리아"
+original = "「んっ<emoji=heart04>\u3000も～、お姉ちゃんってば～！\u3000私の方が恥ずかしいよ～！」"
+translation = "「응읏<emoji=heart04> 정말～, 언니도 참～! 내가 더 부끄럽잖아～！」"
+
+[[dialogue]]
+speaker_original = "リア"
+speaker_translation = "리아"
+original = "「ほら、ヴィーナスちゃんたちがこっちを見て――」"
+translation = "「자, 비너스짱 일행이 이쪽을 보고――」"
+
+[[dialogue]]
+speaker_original = "ヘレナ"
+speaker_translation = "헬레나"
+original = "「ぷく～っ」"
+translation = "「쁘앵～」"
+
+[[dialogue]]
+speaker_original = "リア"
+speaker_translation = "리아"
+original = "「って、ヘレナさんが、なんかむくれてる！？」"
+translation = "「이라니, 헬레나 씨가, 왠지 시무룩해져 있어!?」"
+
+[[dialogue]]
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
+original = "「ヘレナちゃんがこんな顔するの、初めて見たわ！」"
+translation = "「헬레나짱이 이런 얼굴 하는 거, 처음 봤어!」"
+
+[[dialogue]]
+speaker_original = "ヘレナ（原作）"
+speaker_translation = "헬레나(원작)"
+original = "「あら……もしかして――」"
+translation = "「어머…… 혹시――」"
+
+[[dialogue]]
+speaker_original = "ヘレナ（原作）"
+speaker_translation = "헬레나(원작)"
+original = "「ヘレナちゃん、私たちだけ盛り上がってたから……拗ねちゃった？」"
+translation = "「헬레나짱, 우리끼리만 신나 있었으니까…… 삐쳐버린 거야？」"
+
+[[dialogue]]
+speaker_original = "ヘレナ"
+speaker_translation = "헬레나"
+original = "「……私だけ『姉』と呼ばれぬのは、なんだかイヤではないか」"
+translation = "「……나만 『언니』라고 불리지 못하는 것은, 어쩐지 싫지 않은가」"
+
+[[dialogue]]
+speaker_original = "ヘレナ（原作）"
+speaker_translation = "헬레나(원작)"
+original = "「あ～んっ<emoji=heart04>\u3000なにそれ、可愛い～っ<emoji=heart04>\u3000これが『姉萌え』ってやつかしら～♪\u3000お姉ちゃん、よしよ～し<emoji=heart04>」"
+translation = "「아～앙<emoji=heart04> 뭐야 그게, 귀여워～잇<emoji=heart04> 이것이 『언니 모에』라는 것일까나～♪ 언니, 착하다 착해～<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "unk"
+original = "異世界のヘレナは、こちらの世界のヘレナちゃんの頭を撫でる。"
+translation = "이세계의 헬레나는, 이쪽 세계의 헬레나짱의 머리를 쓰다듬는다."
+
+[[dialogue]]
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
+original = "「う～ん、でもヘレナちゃんは、私にとっては、もう１人のママって感じなのよね～」"
+translation = "「으～음, 하지만 헬레나짱은, 나한테는, 또 한 명의 엄마라는 느낌이란 말이지～」"
+
+[[dialogue]]
+speaker_original = "リア"
+speaker_translation = "리아"
+original = "「えっと……私の場合は、どっちも『ヘレナお姉ちゃん』になるので、なんと呼べばいいのかわからなくて……」"
+translation = "「저기…… 내 경우에는, 둘 다 『헬레나 언니』가 되니까, 뭐라고 불러야 좋을지 몰라서……」"
+
+[[dialogue]]
+speaker_original = "ヘレナ"
+speaker_translation = "헬레나"
+original = "「ふむ……ヴィーナスはともかく、ならばリアよ」"
+translation = "「흠…… 비너스는 그렇다 치고, 그렇다면 리아야」"
+
+[[dialogue]]
+speaker_original = "ヘレナ"
+speaker_translation = "헬레나"
+original = "「私のことは『お姉ちゃん』ではなく、『姉さん』と呼び分けるがよい。……どうだ？」"
+translation = "「나를 『언니』가 아니라, 『누님』이라 구분하여 부르도록 해라. ……어떠냐?」"
+
+[[dialogue]]
+speaker_original = "リア"
+speaker_translation = "리아"
+original = "「じ、じゃあ…………ヘレナ姉さん♪」"
+translation = "「그, 그러면………… 헬레나 언니♪」"
+
+[[dialogue]]
+speaker_original = "ヘレナ"
+speaker_translation = "헬레나"
+original = "「……うむ♪\u3000ふふっ」"
+translation = "「……음♪ 후훗」"
+
+[[dialogue]]
+speaker_original = "リア"
+speaker_translation = "리아"
+original = "「あ……」"
+translation = "「아……」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ヘレナは嬉しそうに微笑みながら、リアの頭にそっと手を置き、撫でる。"
+translation = "헬레나는 기쁜 듯이 미소 지으며, 리아의 머리에 살포시 손을 얹고, 쓰다듬는다."
+
+[[dialogue]]
+speaker_original = "ヘレナ"
+speaker_translation = "헬레나"
+original = "「リアよ。これからは私のことも、姉のように甘えてくれて構わないぞ♪」"
+translation = "「리아야. 앞으로는 나에게도, 언니처럼 응석 부려도 상관없단다♪」"
+
+[[dialogue]]
+speaker_original = "リア"
+speaker_translation = "리아"
+original = "「ん……えへへ……<emoji=heart04>\u3000うんっ、姉さん♪」"
+translation = "「응…… 에헤헤……<emoji=heart04> 응, 언니♪」"
+
+[[dialogue]]
+speaker = "unk"
+original = "こうして、リアたち４人は九浄家同士、世界を越えて仲良くなるのだった。"
+translation = "이렇게 해서, 리아 일행 4명은 쿠죠 가문끼리, 세계를 넘어 사이가 좋아지는 것이었다."
+

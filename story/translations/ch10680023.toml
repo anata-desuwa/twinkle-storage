@@ -1,0 +1,502 @@
+[[dialogue]]
+speaker = "unk"
+original = "第３話,３年生の邂逅と絵日記,P"
+translation = "제3화, 3학년의 해후와 그림 일기"
+
+[[dialogue]]
+speaker = "unk"
+original = "その日、リゾート結界で過ごしているリア先輩が、なにやらノートを広げて書き込んでいるのを見かけた。"
+translation = "그날, 리조트 결계에서 보내고 있는 리아 선배가, 무언가 노트르 펼쳐서 적어 넣고 있는 것을 보았다."
+
+[[dialogue]]
+speaker_original = "リア"
+speaker_translation = "리아"
+original = "「――ふんふんふふ～ん♪」"
+translation = "「――흥흥흥후～응♪」"
+
+[[dialogue]]
+speaker = "unk"
+original = "リア先輩、何を書いているんですか？"
+translation = "리아 선배, 뭘 쓰고 계신 건가요？"
+
+[[dialogue]]
+speaker_original = "リア"
+speaker_translation = "리아"
+original = "「あっ、会長くん！\u3000実はね～」"
+translation = "「앗, 회장군! 사실은 말이지～」"
+
+[[dialogue]]
+speaker_original = "ヒルディオーネ"
+speaker_translation = "힐디오네"
+original = "「おーっほっほっほ！\u3000見つけましてよ♪」"
+translation = "「오～홋홋호! 찾아냈어요♪」"
+
+[[dialogue]]
+speaker_original = "マハムート"
+speaker_translation = "마하무트"
+original = "「少し邪魔をするわよ」"
+translation = "「잠시 방해하겠어」"
+
+[[dialogue]]
+speaker_original = "リア"
+speaker_translation = "리아"
+original = "「え？\u3000あなたたちは……？」"
+translation = "「에? 당신들은……？」"
+
+[[dialogue]]
+speaker_original = "ヒルディオーネ"
+speaker_translation = "힐디오네"
+original = "「私は、流星寮の寮長を務めている流星学園３年生、<ruby>千園寺<rt>せんおんじ</rt></ruby>ヒルディオーネですわ！」"
+translation = ""
+
+[[dialogue]]
+speaker_original = "マハムート"
+speaker_translation = "마하무트"
+original = "「同じく、新星学園の３年生で、新星寮の寮長。<ruby>妃竜院<rt>きりゅういん</rt></ruby>マハムートよ」"
+translation = ""
+
+[[dialogue]]
+speaker_original = "リア"
+speaker_translation = "리아"
+original = "「確か、こっちの学園の寮長さん２人って……」"
+translation = "「그러고 보니, 이쪽 학원의 사감장님 두 분이란……」"
+
+[[dialogue]]
+speaker = "unk"
+original = "星騎士として、学園最強クラスのお２人です"
+translation = "성기사로서, 학원 최강 클래스인 두 분입니다"
+
+[[dialogue]]
+speaker = "unk"
+original = "星徒会には所属してませんが"
+translation = "성도회에는 소속되어 있지 않지만요"
+
+[[dialogue]]
+speaker_original = "ヒルディオーネ"
+speaker_translation = "힐디오네"
+original = "「ですわ♪\u3000本日ここへ来たのは――」"
+translation = "「그렇답니다♪ 오늘 이곳에 온 것은――」"
+
+[[dialogue]]
+speaker_original = "ヒルディオーネ"
+speaker_translation = "힐디오네"
+original = "「異世界でリ・クリエを阻止したという、流星クルセイダースの３年生、九浄リア」"
+translation = "「이세계에서 리 크리에를 저지했다는, 류세이 크루세이더즈의 3학년, 쿠죠 리아」"
+
+[[dialogue]]
+speaker_original = "ヒルディオーネ"
+speaker_translation = "힐디오네"
+original = "「あなたの力を、この目で確かめに来ましたの」"
+translation = "「당신의 힘을, 이 눈으로 확인하러 왔답니다」"
+
+[[dialogue]]
+speaker_original = "マハムート"
+speaker_translation = "마하무트"
+original = "「まあ、私の方は半分付き添いみたいなものだけどね」"
+translation = "「뭐, 내 쪽은 반쯤 동행 같은 거지만 말야」"
+
+[[dialogue]]
+speaker_original = "ヒルディオーネ"
+speaker_translation = "힐디오네"
+original = "「そういうわけで、九浄リア。単刀直入に申し上げますわ――」"
+translation = "「그런 고로, 쿠죠 리아. 단도직입적으로 말씀드리겠어요――」"
+
+[[dialogue]]
+speaker_original = "ヒルディオーネ"
+speaker_translation = "힐디오네"
+original = "「私たちと、戦闘で勝負ですわ！」"
+translation = "「저희와, 전투로 승부입니다！」"
+
+[[dialogue]]
+speaker_original = "リア"
+speaker_translation = "리아"
+original = "「えっ！？\u3000勝負……！？」"
+translation = "「엣!? 승부……!?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "そうして、リア先輩は２人と順番に手合わせを行った。"
+translation = "그리하여, 리아 선배는 두 사람과 차례로 겨루기를 실시했다."
+
+[[dialogue]]
+speaker_original = "マハムート"
+speaker_translation = "마하무트"
+original = "「――さすが、会長たちが強いと言っていただけあるわね」"
+translation = "「――과연, 회장 일행이 강하다고 말할 만하네」"
+
+[[dialogue]]
+speaker_original = "リア"
+speaker_translation = "리아"
+original = "「いやいや！\u3000２人の方こそすっごく強くて、さすが日々モンスターと戦ってる星騎士だなって思ったよ～」"
+translation = "「아니아니! 두 사람이야말로 엄청 강해서, 과연 매일 몬스터와 싸우고 있는 성기사구나 하고 생각했어～」"
+
+[[dialogue]]
+speaker_original = "リア"
+speaker_translation = "리아"
+original = "「でも、千園寺さんがバニー衣装に変身したのは、ビックリしちゃったな～」"
+translation = "「하지만, 센온지 씨가 바니 의상으로 변신한 것은, 깜짝 놀라버렸네～」"
+
+[[dialogue]]
+speaker_original = "ヒルディオーネ"
+speaker_translation = "힐디오네"
+original = "「おーっほっほっほ♪\u3000私は残念ながら、まだ水着フォームを持ってませんから、代わりにバニーフォームを使わせてもらいましたの♪」"
+translation = "「오～홋홋호♪ 저는 아쉽게도, 아직 수영복 폼을 가지고 있지 않아서, 대신 바니 폼을 사용하게 되었답니다♪」"
+
+[[dialogue]]
+speaker_original = "マハムート"
+speaker_translation = "마하무트"
+original = "「ミーティアフォームを使えばいいのに……」"
+translation = "「미티어 폼을 쓰면 될 텐데……」"
+
+[[dialogue]]
+speaker_original = "ヒルディオーネ"
+speaker_translation = "힐디오네"
+original = "「ふふっ、わかってませんわね、マム。相手に合わせるのが、淑女のドレスコードというものですわ♪」"
+translation = "「후훗, 모르시는 말씀이군요, 마무. 상대에게 맞추는 것이, 숙녀의 드레스 코드라는 것이랍니다♪」"
+
+[[dialogue]]
+speaker_original = "ヒルディオーネ"
+speaker_translation = "힐디오네"
+original = "「それにしても、守護天使の霊力を引き出して戦うクルセイダースの力……実に見事でしたわ！」"
+translation = "「그나저나, 수호천사의 영력을 끌어내어 싸우는 크루세이더즈의 힘…… 참으로 훌륭했답니다！」"
+
+[[dialogue]]
+speaker_original = "リア"
+speaker_translation = "리아"
+original = "「ありがとう♪\u3000最初は勝負を挑まれて驚いちゃったけど、手合わせできてよかったよ。強い人と戦うと、自分ももっと頑張ろうって思えるよね♪」"
+translation = "「고마워♪ 처음에는 승부를 걸어와서 놀랐지만, 겨룰 수 있어서 좋았어. 강한 사람과 싸우면, 자신도 더 힘내자고 생각하게 되지♪」"
+
+[[dialogue]]
+speaker_original = "ヒルディオーネ"
+speaker_translation = "힐디오네"
+original = "「リア、私たちはもう、戦って力を認め合った仲。同じ３年生ですし、愛称で『ヒルディー』と呼んでくれて構いませんわ」"
+translation = "「리아, 우리들은 이제, 싸워서 힘을 인정한 사이. 같은 3학년이기도 하고, 애칭으로 『힐디』라고 불러도 상관없답니다」"
+
+[[dialogue]]
+speaker_original = "マハムート"
+speaker_translation = "마하무트"
+original = "「私のことも畏怖を込めて、マムと呼びなさい。ちなみに返事は『イエス・マム』よ」"
+translation = "「나에 대해서도 외포를 담아, 마무라고 부르도록 해. 참고로 대답은 『이예스 마무』야」"
+
+[[dialogue]]
+speaker_original = "リア"
+speaker_translation = "리아"
+original = "「い、イエス・マム……？」"
+translation = "「이, 이예스 마무……？」"
+
+[[dialogue]]
+speaker = "unk"
+original = "マムに返事する時、そう言ってるんだ"
+translation = "마무에게 대답할 때, 그렇게 말하고 있거든요"
+
+[[dialogue]]
+speaker = "unk"
+original = "新星寮の寮生たちは"
+translation = "신세이 사감의 기숙사생들은"
+
+[[dialogue]]
+speaker_original = "リア"
+speaker_translation = "리아"
+original = "「そうなんだ。じゃあ――」"
+translation = "「그렇구나. 그럼――」"
+
+[[dialogue]]
+speaker_original = "リア"
+speaker_translation = "리아"
+original = "「イエス・マム～♪\u3000ヒルディーちゃん、マムちゃん、改めてよろしくね♪」"
+translation = "「이예스 마무～♪ 힐디짱, 마무짱, 새삼스럽지만 잘 부탁해♪」"
+
+[[dialogue]]
+speaker_original = "マハムート"
+speaker_translation = "마하무트"
+original = "「畏怖が少し足りてない気がするけど……まあ、いいわ。よろしく、リア」"
+translation = "「외포가 조금 부족한 느낌이지만…… 뭐, 좋아. 잘 부탁해, 리아」"
+
+[[dialogue]]
+speaker_original = "ヒルディオーネ"
+speaker_translation = "힐디오네"
+original = "「おーっほっほっほ♪\u3000世界は違っても同志として、歓迎致しますわよ、リア♪」"
+translation = "「오～홋홋호♪ 세계는 달라도 동지로서, 환영해 드리겠어요, 리아♪」"
+
+[[dialogue]]
+speaker = "unk"
+original = "それから、流れでお茶会をすることになり、俺たちはビーチのテーブル席に４人で座っていた。"
+translation = "그후, 흐름상 다과회를 하게 되어, 우리들은 비치의 테이블 석에 4명이서 앉아 있었다."
+
+[[dialogue]]
+speaker_original = "ヒルディオーネ"
+speaker_translation = "힐디오네"
+original = "「――リア？\u3000それは何を書いてますの？」"
+translation = "「――리아？ 그것은 무엇을 쓰고 계신가요？」"
+
+[[dialogue]]
+speaker_original = "リア"
+speaker_translation = "리아"
+original = "「あっ、これ？\u3000実は、絵日記なんだ～」"
+translation = "「앗, 이거? 사실은, 그림 일기야～」"
+
+[[dialogue]]
+speaker = "unk"
+original = "リア先輩は再びノートを取り出して、色鉛筆を使い分けながら書き込んでいた。"
+translation = "리아 선배는 다시 노트를 꺼내어, 색연필을 돌려가며 적어 넣고 있었다."
+
+[[dialogue]]
+speaker_original = "マハムート"
+speaker_translation = "마하무트"
+original = "「絵日記？」"
+translation = "「그림 일기？」"
+
+[[dialogue]]
+speaker_original = "リア"
+speaker_translation = "리아"
+original = "「そう♪\u3000子供の頃から続けてる、私の趣味なの～♪」"
+translation = "「응♪ 어릴 때부터 계속하고 있는, 나의 취미야～♪」"
+
+[[dialogue]]
+speaker_original = "リア"
+speaker_translation = "리아"
+original = "「向こうの世界でも毎日書いてるんだけど、異世界に来てるでしょ？\u3000だから思い出を忘れないように、いつもよりたくさん、スペシャル仕様で書いてるんだ～」"
+translation = "「저쪽 세계에서도 매일 쓰고 있지만, 이세계에 와 있잖아? 그러니까 추억을 잊지 않도록, 평소보다 많이, 스페셜 사양으로 쓰고 있어～」"
+
+[[dialogue]]
+speaker_original = "ヒルディオーネ"
+speaker_translation = "힐디오네"
+original = "「素敵な趣味ですわね♪\u3000よろしければ見せてもらっても？」"
+translation = "「멋진 취미로군요♪ 괜찮으시다면 보여주실 수 있으신가요？」"
+
+[[dialogue]]
+speaker_original = "リア"
+speaker_translation = "리아"
+original = "「うん、いいよ～♪\u3000今ちょうど、ヒルディーちゃんとマムちゃんと知り合ったってことを書いてたの。ほら♪」"
+translation = "「응, 좋아～♪ 지금 막, 힐디짱하고 마무짱하고 알게 되었다는 걸 쓰고 있었어. 봐봐♪」"
+
+[[dialogue]]
+speaker = "unk"
+original = "そう言って、リア先輩は絵日記をテーブルの上に置き、俺たちに見せてくれる。"
+translation = "그렇게 말하며, 리아 선배는 그림 일기를 테이블 위에 놓고, 우리에게 보여준다."
+
+[[dialogue]]
+speaker_original = "ヒルディオーネ"
+speaker_translation = "힐디오네"
+original = "「！\u3000これは……！」"
+translation = "「! 이것은……！」"
+
+[[dialogue]]
+speaker_original = "マハムート"
+speaker_translation = "마하무트"
+original = "「どれどれ……えっ」"
+translation = "「어디 어디…… 엣」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ここに描かれてる絵って……"
+translation = "여기에 그려져 있는 그림이란……"
+
+[[dialogue]]
+speaker_original = "リア"
+speaker_translation = "리아"
+original = "「ヒルディーちゃんと、マムちゃんだよ～♪」"
+translation = "「힐디짱하고, 마무짱이야～♪」"
+
+[[dialogue]]
+speaker_original = "マハムート"
+speaker_translation = "마하무트"
+original = "「…………どっちが？」"
+translation = "「………… 어느 쪽이？」"
+
+[[dialogue]]
+speaker_original = "リア"
+speaker_translation = "리아"
+original = "「あっ、わかりにくかったかな？\u3000こっちがマムちゃん♪」"
+translation = "「앗, 알아보기 힘들었으려나? 이쪽이 마무짱♪」"
+
+[[dialogue]]
+speaker_original = "マハムート"
+speaker_translation = "마하무트"
+original = "「これが……私……？」"
+translation = "「이게…… 나……？」"
+
+[[dialogue]]
+speaker_original = "リア"
+speaker_translation = "리아"
+original = "「うん♪\u3000ちょっと可愛くアレンジしながら描いてみたんだ～♪」"
+translation = "「응♪ 조금 귀엽게 어레인지하면서 그려본 거야～♪」"
+
+[[dialogue]]
+speaker_original = "マハムート"
+speaker_translation = "마하무트"
+original = "「ちょっと……？」"
+translation = "「조금……？」"
+
+[[dialogue]]
+speaker = "unk"
+original = "マムが珍しく、引きつった表情を浮かべている。"
+translation = "마무가 드물게, 경련하는 표정을 짓고 있다."
+
+[[dialogue]]
+speaker = "unk"
+original = "（こ、コメントしづらい……！）"
+translation = "（코, 코멘트하기 힘들어……！）"
+
+[[dialogue]]
+speaker = "unk"
+original = "――その絵は、一言で言うなら。"
+translation = "――그 그림은, 한마디로 말하자면."
+
+[[dialogue]]
+speaker = "unk"
+original = "センスが大変に『奇抜』であった。"
+translation = "센스가 매우 『기발』했다."
+
+[[dialogue]]
+speaker_original = "ヒルディオーネ"
+speaker_translation = "힐디오네"
+original = "「……リア、あなた――」"
+translation = "「……리아, 당신――」"
+
+[[dialogue]]
+speaker_original = "ヒルディオーネ"
+speaker_translation = "힐디오네"
+original = "「絵のセンスが天才的ですわね……！」"
+translation = "「그림의 센스가 천재적이군요……！」"
+
+[[dialogue]]
+speaker_original = "マハムート"
+speaker_translation = "마하무트"
+original = "「えっ」"
+translation = "「엣」"
+
+[[dialogue]]
+speaker_original = "リア"
+speaker_translation = "리아"
+original = "「そ、そうかな？\u3000えへへ……♪」"
+translation = "「그, 그러려나? 에헤헤……♪」"
+
+[[dialogue]]
+speaker_original = "リア"
+speaker_translation = "리아"
+original = "「自分ではよくわからなくて、周りからも絵柄が独特だって言われちゃうんだけどね～」"
+translation = "「스스로는 잘 몰라서, 주변에서도 화풍이 독특하다고 들어버리지만 말야～」"
+
+[[dialogue]]
+speaker_original = "ヒルディオーネ"
+speaker_translation = "힐디오네"
+original = "「確かに独特ですけれど……これは本当に素晴らしいですわ！」"
+translation = "「확실히 독특합니다만…… 이것은 정말로 훌륭하답니다！」"
+
+[[dialogue]]
+speaker_original = "ヒルディオーネ"
+speaker_translation = "힐디오네"
+original = "「私の父は芸術が好きで、私も幼い頃からよく、美術館に連れて行ってもらっておりましたの」"
+translation = "「저의 아버지는 예술을 좋아하셔서, 저도 어릴 적부터 자주, 미술관에 데려가 주시곤 했답니다」"
+
+[[dialogue]]
+speaker_original = "ヒルディオーネ"
+speaker_translation = "힐디오네"
+original = "「ですから私、絵の知識は多少あるのですが……この絵には、解体と再構築――キュビズム的発想を感じますわ！」"
+translation = "「그러니 저, 그림 지식은 다소 있습니다만…… 이 그림에는, 해체와 재구축―― 큐비즘적 발상을 느낄 수 있답니다！」"
+
+[[dialogue]]
+speaker_original = "マハムート"
+speaker_translation = "마하무트"
+original = "（そうなの……！？）"
+translation = "（그런 거야……!?）"
+
+[[dialogue]]
+speaker_original = "リア"
+speaker_translation = "리아"
+original = "「実はね、向こうの世界でも私の描いた絵をお姉ちゃんが勝手にコンクールに出して、それで賞をもらっちゃったりすることがあって……」"
+translation = "「사실은 말이지, 저쪽 세계에서도 내가 그린 그림을 언니가 마음대로 콩쿠르에 내서, 그래서 상을 받아버리거나 하는 일이 있어서……」"
+
+[[dialogue]]
+speaker_original = "マハムート"
+speaker_translation = "마하무트"
+original = "（本当に……！？）"
+translation = "（정말로……!?）"
+
+[[dialogue]]
+speaker_original = "リア"
+speaker_translation = "리아"
+original = "「私は好きに描いてるだけだから、自信があるわけじゃなくて、ちょっと恥ずかしくなっちゃうんだけどね～」"
+translation = "「나는 좋을 대로 그리고 있을 뿐이라서, 자신감이 있는 건 아니고, 조금 부끄러워져 버리지만 말야～」"
+
+[[dialogue]]
+speaker_original = "ヒルディオーネ"
+speaker_translation = "힐디오네"
+original = "「リア、自信を持ちなさいな！\u3000この千園寺ヒルディオーネが断言致しますわ――」"
+translation = "「리아, 자신감을 가지세요! 이 센온지 힐디요네가 단언해 드리지요――」"
+
+[[dialogue]]
+speaker_original = "ヒルディオーネ"
+speaker_translation = "힐디오네"
+original = "「あなたの絵のセンスは、天才ですの！」"
+translation = "「당신의 그림 센스는, 천재랍니다！」"
+
+[[dialogue]]
+speaker_original = "リア"
+speaker_translation = "리아"
+original = "「ヒルディーちゃん……！\u3000ありがとう♪」"
+translation = "「힐디짱……！ 고마워♪」"
+
+[[dialogue]]
+speaker_original = "リア"
+speaker_translation = "리아"
+original = "「私、もう少し絵を勉強して、頑張ってみようかな♪」"
+translation = "「나, 조금 더 그림을 공부해서, 힘내볼까나♪」"
+
+[[dialogue]]
+speaker_original = "ヒルディオーネ"
+speaker_translation = "힐디오네"
+original = "「ええ！\u3000磨けば必ず光る、宝石の原石ですわ♪\u3000ねぇ、マムや会長もそう思いますでしょう？」"
+translation = "「예에! 다듬으면 반드시 빛날, 보석의 원석이랍니다♪ 저기, 마무나 회장도 그렇게 생각하시지요？」"
+
+[[dialogue]]
+speaker_original = "マハムート"
+speaker_translation = "마하무트"
+original = "「えっ」"
+translation = "「엣」"
+
+[[dialogue]]
+speaker_original = "マハムート"
+speaker_translation = "마하무트"
+original = "「…………そ、そうね」"
+translation = "「…………그, 그렇네」"
+
+[[dialogue]]
+speaker_original = "マハムート"
+speaker_translation = "마하무트"
+original = "「いいと思うわ……うん。コンクールで実際に賞を取るくらいだもの」"
+translation = "「좋다고 생각해…… 응. 콩쿠르에서 실제로 상을 탈 정도인걸」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ヒルディオーネ先輩が褒めるくらいですし！"
+translation = "힐디요네 선배가 칭찬할 정도이고요!"
+
+[[dialogue]]
+speaker = "unk"
+original = "そ、そうですね！"
+translation = "그, 그렇네요!"
+
+[[dialogue]]
+speaker_original = "リア"
+speaker_translation = "리아"
+original = "「えへへ<emoji=heart04>\u3000２人とも、ありがとう♪」"
+translation = "「에헤헤<emoji=heart04> 두 사람 모두, 고마워♪」"
+
+[[dialogue]]
+speaker_original = "マハムート"
+speaker_translation = "마하무트"
+original = "（わからないけど……見栄を張ってしまったわ……）"
+translation = "（모르겠지만…… 체면을 차려버리고 말았어……）"
+
+[[dialogue]]
+speaker = "unk"
+original = "俺とマムは１度視線を見合わせてから、リア先輩の描いた絵とにらめっこしつつ――"
+translation = "나와 마무는 한 번 시선을 주고받은 뒤, 리아 선배가 그린 그림과 눈싸움을 하면서――"
+
+[[dialogue]]
+speaker = "unk"
+original = "芸術って、奥が深いな……としみじみ思うのだった。"
+translation = "예술이란, 깊이가 깊구나…… 하고 뼈저리게 생각하는 것이었다."
+

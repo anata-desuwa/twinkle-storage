@@ -1,0 +1,734 @@
+[[dialogue]]
+speaker = "unk"
+original = "ルネアの力によってリゾート結界が設置されてから少し経った、とある休日。"
+translation = "루네아의 힘에 의해 리조트 결계가 설치되고 얼마 지나지 않은, 어느 휴일."
+
+[[dialogue]]
+speaker = "unk"
+original = "僕――『<ruby>咲良<rt>さくら</rt></ruby>シン』は、リア先輩と一緒にデートへやって来ていた。"
+translation = "나―― 『<ruby>사쿠라<rt>사쿠라</rt></ruby> 신』은, 리아 선배와 함께 데이트를 하러 나와 있었다."
+
+[[dialogue]]
+speaker_original = "シン"
+speaker_translation = "신"
+original = "「さ～て、リア先輩！\u3000何して遊びましょうか？」"
+translation = "「자～ 그럼, 리아 선배! 뭐 하고 놀까요？」"
+
+[[dialogue]]
+speaker_original = "リア"
+speaker_translation = "리아"
+original = "「ん……はふぅ……<emoji=heart04>」"
+translation = "「응…… 하후우……<emoji=heart04>」"
+
+[[dialogue]]
+speaker_original = "シン"
+speaker_translation = "신"
+original = "「って、先輩……？\u3000なんだか様子が……」"
+translation = "「랄까, 선배……？ 어쩐지 상태가……」"
+
+[[dialogue]]
+speaker_original = "リア"
+speaker_translation = "리아"
+original = "「あのね……今日はリゾート結界を貸し切りで、私とシンくんの２人きりでしょ？」"
+translation = "「있잖아…… 오늘은 리조트 결계를 대절해서, 나랑 신군 둘뿐이지？」"
+
+[[dialogue]]
+speaker_original = "リア"
+speaker_translation = "리아"
+original = "「だから、『サリーちゃん』に……『魔界通販』でまた<b>アレ</b>をお願いしたの……」"
+translation = "「그래서, 『샐리짱』에게…… 『마계통판』으로 또 <b>그것</b>을 부탁했어……」"
+
+[[dialogue]]
+speaker_original = "シン"
+speaker_translation = "신"
+original = "「えっと……アレって……？」"
+translation = "「저기…… 그거라니……？」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ちなみに『サリーちゃん』とは、流星クルセイダースの活動の中で仲良くなった、魔族の女の子である。"
+translation = "참고로 『샐리짱』이란, 유성 크루세이더스의 활동 속에서 사이가 좋아진, 마족 소녀이다."
+
+[[dialogue]]
+speaker = "unk"
+original = "彼女は『魔界通販』という不思議な力（？）を使って、人間界にはない（ちょっと怪しい）アイテムを取り寄せることができるのだ。"
+translation = "그녀는 『마계통판』이라는 신기한 힘(？)을 사용해서, 인간계에는 없는 (조금 수상한) 아이템을 구해주곤 하는 것이다."
+
+[[dialogue]]
+speaker_original = "リア"
+speaker_translation = "리아"
+original = "「ほら、前に言ってた……『赤まむし<ruby>＆ＹＯＵ<rt>アンドユー</rt></ruby>』っていう元気が出るドリンク……<emoji=heart04>」"
+translation = "「보라구, 전에 말했던…… 『살모사<ruby>＆YOU<rt>앤드 유</rt></ruby>』라는 활력이 솟는 드링크……<emoji=heart04>」"
+
+[[dialogue]]
+speaker_original = "シン"
+speaker_translation = "신"
+original = "「えっ！？\u3000それってまさか……すっごくゼツリンになれるってやつですか！？」"
+translation = "「앗！？ 그거 혹시…… 엄청 절륜해진다는 그건가요！？」"
+
+[[dialogue]]
+speaker_original = "リア"
+speaker_translation = "리아"
+original = "「うん……<emoji=heart04>\u3000それを飲んだの……<emoji=heart04>\u3000だから――」"
+translation = "「응……<emoji=heart04> 그걸 마셨어……<emoji=heart04> 그러니까――」"
+
+[[dialogue]]
+speaker = "unk"
+original = "先輩は僕の手を取って、熱い視線を向けて来ながら言う。"
+translation = "선배는 내 손을 잡고, 뜨거운 시선을 보내오며 말한다."
+
+[[dialogue]]
+speaker_original = "リア"
+speaker_translation = "리아"
+original = "「今日はもう……シンくんとエッチな遊びがしたいな……<emoji=heart04>」"
+translation = "「오늘은 이제…… 신군이랑 야한 놀이가 하고 싶은걸……<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "unk"
+original = "そうして、リア先輩に誘われるまま移動した場所は、リゾート結界の中に設置されている『水上コテージ』で。"
+translation = "그리하여, 리아 선배에게 이끌려 이동한 장소는, 리조트 결계 안에 설치되어 있는 『수상 코티지』였다."
+
+[[dialogue]]
+speaker_original = "リア"
+speaker_translation = "리아"
+original = "「はあぁ……んふうぅ……<emoji=heart04>\u3000ふふっ……シンくんを押し倒しちゃった……<emoji=heart04>」"
+translation = "「하아아…… 응후우……<emoji=heart04> 후후…… 신군을 덮쳐버렸다……<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "unk"
+original = "コテージのベッドで僕は仰向けに押し倒され、リア先輩がその上に乗ってきて、騎乗位の体勢をとる。"
+translation = "코티지의 침대에서 나는 위를 향해 덮쳐졌고, 리아 선배가 그 위에 올라타, 기승위 자세를 취한다."
+
+[[dialogue]]
+speaker_original = "リア"
+speaker_translation = "리아"
+original = "「今日は、私がシンくんにしてあげるね<emoji=heart04>」"
+translation = "「오늘은, 내가 신군한테 해줄게<emoji=heart04>」"
+
+[[dialogue]]
+speaker_original = "リア"
+speaker_translation = "리아"
+original = "「んしょっ……<emoji=heart04>\u3000んっ……ふうぅ……<emoji=heart04>\u3000んん……<emoji=heart04>」"
+translation = "「응쌰……<emoji=heart04> 응…… 후우……<emoji=heart04> 응응……<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "unk"
+original = "リア先輩は腰を動かして、秘部をペニスに擦り付け始める。"
+translation = "리아 선배는 허리를 움직여, 비부를 페니스에 문지르기 시작한다."
+
+[[dialogue]]
+speaker_original = "リア"
+speaker_translation = "리아"
+original = "「はあぁっ……<emoji=heart04>\u3000シンくんのおち○ぽ、もう大きくなってる……<emoji=heart04>」"
+translation = "「하아아……<emoji=heart04> 신 군의 자지, 벌써 커졌어……<emoji=heart04>」"
+
+[[dialogue]]
+speaker_original = "リア"
+speaker_translation = "리아"
+original = "「固くて熱い感触が擦れて……はぁんっ<emoji=heart04>\u3000おま○こがウズウズしちゃうよぉ～……<emoji=heart04>」"
+translation = "「단단하고 뜨거운 감촉이 스치고…… 하앙<emoji=heart04> 보지가 문질문질해져 버려~……<emoji=heart04>」"
+
+[[dialogue]]
+speaker_original = "シン"
+speaker_translation = "신"
+original = "「リア先輩の愛液も、すっごく溢れてきてます……」"
+translation = "「리아 선배의 애액도, 엄청 흘러넘치고 있어요……」"
+
+[[dialogue]]
+speaker_original = "リア"
+speaker_translation = "리아"
+original = "「だってぇ……<emoji=heart04>\u3000体が熱くて、早くおち○ぽ挿れたくなっちゃってるんだもん……<emoji=heart04>」"
+translation = "「그치만……<emoji=heart04> 몸이 뜨거워서, 빨리 자지 넣고 싶어졌단 말야……<emoji=heart04>」"
+
+[[dialogue]]
+speaker_original = "リア"
+speaker_translation = "리아"
+original = "「おま○こ切なくて、我慢できないの……<emoji=heart04>\u3000んっ……ふうぅ～っ……<emoji=heart04>」"
+translation = "「보지가 아려와서, 참을 수 없어……<emoji=heart04> 응…… 후우~……<emoji=heart04>」"
+
+[[dialogue]]
+speaker_original = "リア"
+speaker_translation = "리아"
+original = "「だから、シンくんのおち○ぽ、もう挿れちゃうねっ……？\u3000はあぁ～っ……<emoji=heart04>」"
+translation = "「그러니까, 신 군의 자지, 벌써 넣어 버릴게……? 하아아~……<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "unk"
+original = "僕のペニスがぬるぬるになるや否や、先輩はすぐさま膣穴に押し当てて挿入しようとする――しかし。"
+translation = "내 페니스가 미끈미끈해지자마자, 선배는 곧바로 질 구멍에 밀어붙여 삽입하려 한다―― 그러나."
+
+[[dialogue]]
+speaker_original = "リア"
+speaker_translation = "리아"
+original = "「あんっ<emoji=heart04>\u3000早く挿れたいのに、焦っておち○ぽ滑っちゃう……<emoji=heart04>\u3000はあぁ～っ、んうぅ～っ、おち○ぽ早くぅ～<emoji=heart04>」"
+translation = "「앙<emoji=heart04> 빨리 넣고 싶은데, 서두르다가 자지가 미끄러져 버려……<emoji=heart04> 하아아~, 응으~, 자지 빨리이~<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "unk"
+original = "そうして、切なそうにお尻を振りながら、何度か繰り返したところで、ペニスが上手く膣穴を押し広げる感覚があって――"
+translation = "그렇게, 아쉬운 듯 엉덩이를 흔들며, 몇 번인가 반복하던 차에, 페니스가 잘 질 구멍을 넓히며 들어가는 감촉이 있어서――"
+
+[[dialogue]]
+speaker_original = "リア"
+speaker_translation = "리아"
+original = "「あっ<emoji=heart04>\u3000んんっ――<emoji=heart04><emoji=heart04>」"
+translation = "「앗<emoji=heart04> 응응――<emoji=heart04><emoji=heart04>」"
+
+[[dialogue]]
+speaker_original = "リア"
+speaker_translation = "리아"
+original = "「ふああああぁっ<emoji=heart04><emoji=heart04>\u3000おち○ぽ、入ったあぁ～～んっ<emoji=heart04><emoji=heart04>」"
+translation = "「후아아아아……<emoji=heart04><emoji=heart04> 자지, 들어갔어어~~앙<emoji=heart04><emoji=heart04>」"
+
+[[dialogue]]
+speaker = "unk"
+original = "次の瞬間、僕のペニスは、リア先輩のいちばん奥まで一気に飲み込まれてしまった。"
+translation = "다음 순간, 내 페니스는, 리아 선배의 가장 안쪽까지 한 번에 삼켜지고 말았다."
+
+[[dialogue]]
+speaker_original = "リア"
+speaker_translation = "리아"
+original = "「あっ<emoji=heart04><emoji=heart04>\u3000ふあああぁっ<emoji=heart04><emoji=heart04>\u3000あっ<emoji=heart04>\u3000あんっ……<emoji=heart04>\u3000んっ<emoji=heart04>\u3000あっ<emoji=heart04>\u3000はあぁっ<emoji=heart04>\u3000んうぅっ<emoji=heart04>\u3000んああぁんっ<emoji=heart04>」"
+translation = "「앗<emoji=heart04><emoji=heart04> 후아아아<emoji=heart04><emoji=heart04> 앗<emoji=heart04> 앙……<emoji=heart04> 응<emoji=heart04> 앗<emoji=heart04> 하아아<emoji=heart04> 응으<emoji=heart04> 응아아앙<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "unk"
+original = "リア先輩は気持ち良さそうな悦びの表情を浮かべながら、快楽を堪能するように腰を動かす。"
+translation = "리아 선배는 기분 좋은 듯한 기쁨의 표정을 지으며, 쾌락을 능숙하게 만끽하듯 허리를 움직인다."
+
+[[dialogue]]
+speaker_original = "リア"
+speaker_translation = "리아"
+original = "「これぇ～っ<emoji=heart04>\u3000これが欲しかったのぉ～っ<emoji=heart04>\u3000あっ<emoji=heart04>\u3000ふあぁっ<emoji=heart04>\u3000んっ<emoji=heart04>\u3000ふうぅっ<emoji=heart04>\u3000ふああぁんっ<emoji=heart04>」"
+translation = "「이거어~<emoji=heart04> 이게 원했던 거야아~<emoji=heart04> 앗<emoji=heart04> 후아<emoji=heart04> 응<emoji=heart04> 후우<emoji=heart04> 후아아앙<emoji=heart04>」"
+
+[[dialogue]]
+speaker_original = "シン"
+speaker_translation = "신"
+original = "「くっ……リア先輩のおま○こ、いつもより絡みついてきてて、すごい……！」"
+translation = "「큭…… 리아 선배의 보지, 평소보다 잘 감겨와서, 조여들어……！」"
+
+[[dialogue]]
+speaker_original = "リア"
+speaker_translation = "리아"
+original = "「私もシンくんのおち○ぽ、いつもより感じて気持ちいいのぉ～っ<emoji=heart04>\u3000あっ<emoji=heart04>\u3000はぁんっ<emoji=heart04>\u3000ふあっ<emoji=heart04>\u3000んあぁっ<emoji=heart04>\u3000はああぁんっ<emoji=heart04>」"
+translation = "「나도 신 군의 자지, 평소보다 느껴져서 기분 좋아아~<emoji=heart04> 앗<emoji=heart04> 하앙<emoji=heart04> 후아<emoji=heart04> 응아<emoji=heart04> 하아아앙<emoji=heart04>」"
+
+[[dialogue]]
+speaker_original = "リア"
+speaker_translation = "리아"
+original = "「んうぅ～っ<emoji=heart04>\u3000おま○こ、気持ち良くて幸せぇ～っ<emoji=heart04>\u3000おち○ぽ好きぃっ<emoji=heart04>\u3000あっ<emoji=heart04>\u3000あんっ<emoji=heart04>\u3000んふぅっ<emoji=heart04>\u3000ふあぁっ<emoji=heart04>\u3000んああぁんっ<emoji=heart04>」"
+translation = "「응으~<emoji=heart04> 보지, 기분 좋아서 행복해에~<emoji=heart04> 자지 좋아아<emoji=heart04> 앗<emoji=heart04> 앙<emoji=heart04> 응후<emoji=heart04> 후아<emoji=heart04> 응아아앙<emoji=heart04>」"
+
+[[dialogue]]
+speaker_original = "シン"
+speaker_translation = "신"
+original = "「先輩のおっぱいも、目の前で大きく揺れててすごいです……！」"
+translation = "「선배의 가슴도, 눈앞에서 크게 흔들려서 대단해요……！」"
+
+[[dialogue]]
+speaker_original = "リア"
+speaker_translation = "리아"
+original = "「んふぅ～っ<emoji=heart04>\u3000シンくん、おっぱい好きなだけちゅぱちゅぱ甘えていいからね<emoji=heart04>」"
+translation = "「응후~<emoji=heart04> 신 군, 가슴 원하는 만큼 쪽쪽 응석 부려도 되니까<emoji=heart04>」"
+
+[[dialogue]]
+speaker_original = "リア"
+speaker_translation = "리아"
+original = "「私のおっぱいは、シンくん専用だからぁ<emoji=heart04>\u3000あっ<emoji=heart04>\u3000あんっ<emoji=heart04>\u3000んっ<emoji=heart04>\u3000ふうぅっ……<emoji=heart04>」"
+translation = "「내 가슴은, 신 군 전용이니까아<emoji=heart04> 앗<emoji=heart04> 앙<emoji=heart04> 응<emoji=heart04> 후우……<emoji=heart04>」"
+
+[[dialogue]]
+speaker_original = "リア"
+speaker_translation = "리아"
+original = "「それに私も、おっぱい疼いちゃってるからっ<emoji=heart04>\u3000シンくんに弄って欲しいのぉ<emoji=heart04>」"
+translation = "「게다가 나도, 가슴이 쑤시고 있으니까<emoji=heart04> 신 군이 만져줬으면 좋겠어어<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "unk"
+original = "僕はリア先輩の言葉に頷いて、たわわに揺れるおっぱいに手を伸ばして触れる。"
+translation = "나는 리아 선배의 말에 고개를 끄덕이고, 탐스럽게 흔들리는 가슴에 손을 뻗어 만진다."
+
+[[dialogue]]
+speaker_original = "リア"
+speaker_translation = "리아"
+original = "「あっ――はああぁんっ<emoji=heart04><emoji=heart04>\u3000シンくんに触られて、おっぱい敏感に反応しちゃうぅ～っ<emoji=heart04>」"
+translation = "「앗――하아아앙<emoji=heart04><emoji=heart04> 신 군이 만져줘서, 가슴이 민감하게 반응해 버려어~<emoji=heart04>」"
+
+[[dialogue]]
+speaker_original = "リア"
+speaker_translation = "리아"
+original = "「んふぅ～っ<emoji=heart04>\u3000撫でるだけじゃなくて、もっと<emoji=heart04>\u3000おっぱいもっと強く揉んでぇ～っ<emoji=heart04>」"
+translation = "「응후~<emoji=heart04> 쓰다듬는 것뿐만 아니라, 더<emoji=heart04> 가슴 더 강하게 주물러줘어~<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "unk"
+original = "僕は両手でおっぱいを鷲掴みにして、ぐにゅぐにゅと形を変えるように揉みしだく。"
+translation = "나는 양손으로 가슴을 움켜쥐고, 꽉꽉 모형을 바꾸듯 주물러 댄다."
+
+[[dialogue]]
+speaker_original = "リア"
+speaker_translation = "리아"
+original = "「んんっ<emoji=heart04>\u3000ふあああぁ～～っ<emoji=heart04><emoji=heart04>\u3000すごい感じるっ<emoji=heart04>\u3000シンくんにおっぱい揉まれると、興奮して感じちゃうのぉ～っ<emoji=heart04>」"
+translation = "「응응<emoji=heart04> 후아아아~~<emoji=heart04><emoji=heart04> 엄청 느껴져<emoji=heart04> 신 군이 가슴 주물러주면, 흥분해서 느껴 버려어~<emoji=heart04>」"
+
+[[dialogue]]
+speaker_original = "リア"
+speaker_translation = "리아"
+original = "「シンくん、乳首もっ<emoji=heart04>\u3000乳首も弄ってぇ<emoji=heart04>」"
+translation = "「신 군, 젖꼭지도<emoji=heart04> 젖꼭지도 만져줘어<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "unk"
+original = "僕は両手の指で摘まむように、リア先輩の乳首を挟む。"
+translation = "나는 양손 손가락으로 집어 올리듯, 리아 선배의 젖꼭지를 꼬집는다."
+
+[[dialogue]]
+speaker_original = "リア"
+speaker_translation = "리아"
+original = "「あっ――んあああぁ～～っ<emoji=heart04><emoji=heart04>\u3000乳首っ<emoji=heart04>\u3000乳首感じるぅ～～っ<emoji=heart04><emoji=heart04>\u3000シンくんに乳首弄られると、おっぱい気持ち良くなっちゃうのぉ～～っ<emoji=heart04><emoji=heart04>」"
+translation = "「앗――응아아아~~<emoji=heart04><emoji=heart04> 젖꼭지<emoji=heart04> 젖꼭지 느껴져어~~<emoji=heart04><emoji=heart04> 신 군이 젖꼭지 만져주면, 가슴 기분 좋아져 버려어~~<emoji=heart04><emoji=heart04>」"
+
+[[dialogue]]
+speaker_original = "リア"
+speaker_translation = "리아"
+original = "「いつもより敏感になってるから、乳首すごく気持ちいいのぉ～～っ<emoji=heart04><emoji=heart04>\u3000あっ<emoji=heart04>\u3000あんっ<emoji=heart04>\u3000ふあぁっ……んああぁんっ<emoji=heart04>」"
+translation = "「평소보다 민감해져 있으니까, 젖꼭지 엄청 기분 좋아아~~<emoji=heart04><emoji=heart04> 앗<emoji=heart04> 앙<emoji=heart04> 후아……응아아앙<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "unk"
+original = "そんなふうに淫らな反応をするリア先輩の姿に、僕も興奮してきてしまって――"
+translation = "그런 음란한 반응을 하는 리아 선배의 모습에, 나도 흥분해버리고 말아서――"
+
+[[dialogue]]
+speaker = "unk"
+original = "顔を上げて、目の前のぷっくりと勃起している乳首にしゃぶりつく。"
+translation = "얼굴을 올려, 눈앞의 봉긋하게 발기해 있는 젖꼭지를 빨아대기 시작한다."
+
+[[dialogue]]
+speaker_original = "リア"
+speaker_translation = "리아"
+original = "「あっ！？\u3000ふああぁんっ<emoji=heart04><emoji=heart04>\u3000シンくんに乳首ちゅぱちゅぱされてるぅ～っ<emoji=heart04><emoji=heart04>」"
+translation = "「앗!? 후아아앙<emoji=heart04><emoji=heart04> 신 군이 젖꼭지 쪽쪽 빨고 있어어~<emoji=heart04><emoji=heart04>」"
+
+[[dialogue]]
+speaker_original = "リア"
+speaker_translation = "리아"
+original = "「あぁんっ<emoji=heart04>\u3000すごく気持ちいいっ<emoji=heart04>\u3000はあぁっ<emoji=heart04>\u3000んうぅっ<emoji=heart04>\u3000ふあぁっ……んああぁ～～っ<emoji=heart04><emoji=heart04>」"
+translation = "「아앙<emoji=heart04> 엄청 기분 좋아<emoji=heart04> 하아아<emoji=heart04> 응으<emoji=heart04> 후아……응아아~~<emoji=heart04><emoji=heart04>」"
+
+[[dialogue]]
+speaker_original = "リア"
+speaker_translation = "리아"
+original = "「乳首感じて、おま○この方までキュンキュンしちゃうぅ～っ<emoji=heart04>\u3000あっ、あっっ<emoji=heart04>\u3000んあああぁ～っ<emoji=heart04><emoji=heart04>」"
+translation = "「젖꼭지 느껴서, 보지 쪽까지 쿵쾅쿵쾅해 버려어~<emoji=heart04> 앗, 앗<emoji=heart04> 응아아아~<emoji=heart04><emoji=heart04>」"
+
+[[dialogue]]
+speaker_original = "リア"
+speaker_translation = "리아"
+original = "「あっ、ダメっ<emoji=heart04>\u3000きちゃうっ<emoji=heart04><emoji=heart04>\u3000乳首強く吸われたら、おま○こ気持ちいいのぐんぐん上がってきちゃうぅ～～っ<emoji=heart04><emoji=heart04>」"
+translation = "「앗, 안 돼<emoji=heart04> 나와버려<emoji=heart04><emoji=heart04> 젖꼭지 강하게 빨리면, 보지 기분 좋은 게 쭉쭉 올라와 버려어~~<emoji=heart04><emoji=heart04>」"
+
+[[dialogue]]
+speaker_original = "リア"
+speaker_translation = "리아"
+original = "「ふあああああっ<emoji=heart04><emoji=heart04>\u3000もうイっちゃうっ<emoji=heart04><emoji=heart04>\u3000おっぱいと一緒に、おま○こイっちゃうよぉ～～っ<emoji=heart04><emoji=heart04>」"
+translation = "「후아아아아앗<emoji=heart04><emoji=heart04> 벌써 가버려<emoji=heart04><emoji=heart04> 가슴이랑 같이, 보지 가버려어~~<emoji=heart04><emoji=heart04>」"
+
+[[dialogue]]
+speaker_original = "リア"
+speaker_translation = "리아"
+original = "「あっ、あっ、あっ、あっ<emoji=heart04>\u3000イクっ<emoji=heart04><emoji=heart04>\u3000んんぅっ――<emoji=heart04><emoji=heart04><emoji=heart04>」"
+translation = "「앗, 앗, 앗, 앗<emoji=heart04> 가아<emoji=heart04><emoji=heart04> 응응――<emoji=heart04><emoji=heart04><emoji=heart04>」"
+
+[[dialogue]]
+speaker_original = "リア"
+speaker_translation = "리아"
+original = "「あっ――んあああぁぁぁ～～～～～～っ<emoji=heart04><emoji=heart04><emoji=heart04><emoji=heart04>」"
+translation = "「앗――응아아아아아~~~~~~~~~~~~~~~~<emoji=heart04><emoji=heart04><emoji=heart04><emoji=heart04>」"
+
+[[dialogue]]
+speaker = "unk"
+original = "リア先輩の体がビクビクと大きく震え、おま○こがきゅうぅっとペニスを強く締め付けてくる。"
+translation = "리아 선배의 몸이 파르르 크게 떨리고, 보지가 꽉 페니스를 세게 조여온다."
+
+[[dialogue]]
+speaker_original = "リア"
+speaker_translation = "리아"
+original = "「んっ……はああぁ～っ……<emoji=heart04><emoji=heart04>\u3000イっちゃったぁ……っ<emoji=heart04><emoji=heart04>」"
+translation = "「응…… 하아아~……<emoji=heart04><emoji=heart04> 가버렸다아……<emoji=heart04><emoji=heart04>」"
+
+[[dialogue]]
+speaker = "unk"
+original = "しかし、リア先輩は腰を止めることなく、動かし続ける。"
+translation = "하지만, 리아 선배는 허리를 멈추지 않고, 계속해서 움직인다."
+
+[[dialogue]]
+speaker_original = "リア"
+speaker_translation = "리아"
+original = "「あっ<emoji=heart04>\u3000んうぅっ<emoji=heart04>\u3000ふうぅっ……<emoji=heart04>\u3000んっ<emoji=heart04>\u3000んうぅっ<emoji=heart04>\u3000んふうぅんっ……<emoji=heart04>」"
+translation = "「앗<emoji=heart04> 응으<emoji=heart04> 후우……<emoji=heart04> 응<emoji=heart04> 응으<emoji=heart04> 응후운……<emoji=heart04>」"
+
+[[dialogue]]
+speaker_original = "シン"
+speaker_translation = "신"
+original = "「り、リア先輩？\u3000休まなくて大丈夫ですか……？」"
+translation = "「리, 리아 선배？ 쉬지 않아도 괜찮으세요……？」"
+
+[[dialogue]]
+speaker_original = "リア"
+speaker_translation = "리아"
+original = "「大丈夫ぅ<emoji=heart04>\u3000むしろ、もっとぉ<emoji=heart04>\u3000気持ちいいのがもっと欲しくて、腰が止まらないのぉ<emoji=heart04>」"
+translation = "「괜찮아아<emoji=heart04> 오히려, 더어<emoji=heart04> 기분 좋은 게 더 원해서, 허리가 멈추지 않아아<emoji=heart04>」"
+
+[[dialogue]]
+speaker_original = "リア"
+speaker_translation = "리아"
+original = "「だから……シンくんお願い<emoji=heart04>\u3000シンくんも、下からおち○ぽ突き上げて欲しいの<emoji=heart04>」"
+translation = "「그러니까…… 신군 부탁해<emoji=heart04> 신군도, 아래에서 자지 쳐올려줬으면 좋겠어<emoji=heart04>」"
+
+[[dialogue]]
+speaker_original = "リア"
+speaker_translation = "리아"
+original = "「シンくんの本気おち○ぽピストンで――私のおま○こ、いっぱい気持ち良くしてぇ～<emoji=heart04>」"
+translation = "「신군의 진짜 자지 피스톤으로―― 내 보지, 가득 기분 좋게 해줘어～<emoji=heart04>」"
+
+[[dialogue]]
+speaker_original = "シン"
+speaker_translation = "신"
+original = "「……！\u3000そんなこと言われたら――」"
+translation = "「……！ 그런 말을 들으면――」"
+
+[[dialogue]]
+speaker = "unk"
+original = "僕は彼女の目を見ながら、言う。"
+translation = "나는 그녀의 눈을 바라보며, 말한다."
+
+[[dialogue]]
+speaker_original = "シン"
+speaker_translation = "신"
+original = "「なら……本気でしちゃうからね？\u3000<b>リア</b>」"
+translation = "「그럼…… 진심으로 해버릴 거니까？ <b>리아</b>」"
+
+[[dialogue]]
+speaker_original = "リア"
+speaker_translation = "리아"
+original = "「っ！\u3000――はううぅ～んっ<emoji=heart04><emoji=heart04>」"
+translation = "「쯧! ――하우우~웅<emoji=heart04><emoji=heart04>」"
+
+[[dialogue]]
+speaker = "unk"
+original = "呼び方を変えてみせた瞬間、リアは再びブルブルと体を震わせて、おま○こがきゅうぅっと締めつけてくる。"
+translation = "호칭을 바꿔 보인 순간, 리아는 다시 부르르 몸을 떨며, 보지가 꽉 조여온다."
+
+[[dialogue]]
+speaker_original = "シン"
+speaker_translation = "신"
+original = "「もしかしてリア……またイっちゃった？」"
+translation = "「혹시 리아…… 또 가버렸어？」"
+
+[[dialogue]]
+speaker_original = "リア"
+speaker_translation = "리아"
+original = "「う、うん……<emoji=heart04>\u3000だってぇ、シンくんが私のこと、先輩じゃなくてカノジョとして呼ぶからぁ<emoji=heart04>」"
+translation = "「으, 응……<emoji=heart04> 그치만, 신군이 나를, 선배가 아니라 여자친구로 불러줬으니까아<emoji=heart04>」"
+
+[[dialogue]]
+speaker_original = "リア"
+speaker_translation = "리아"
+original = "「おま○こ喜んで、すぐにイっちゃったのぉ……<emoji=heart04>\u3000んっ……<emoji=heart04>\u3000はあぁっ……ふうぅっ……<emoji=heart04>」"
+translation = "「보지가 기뻐서, 바로 가버린거야아……<emoji=heart04> 응……<emoji=heart04> 하아앗…… 후우앗……<emoji=heart04>」"
+
+[[dialogue]]
+speaker_original = "リア"
+speaker_translation = "리아"
+original = "「私も、シンくんのカノジョとして、おち○ぽ気持ち良くできるようにいっぱい動くから<emoji=heart04>\u3000ね？\u3000だから――」"
+translation = "「나도, 신군의 여자친구로서, 자지 기분 좋게 해줄 수 있도록 가득 움직일 테니까<emoji=heart04> 응？ 그러니까――」"
+
+[[dialogue]]
+speaker_original = "リア"
+speaker_translation = "리아"
+original = "「私のカノジョおま○こに、シンくんの愛、いっぱい注いでぇ<emoji=heart04>」"
+translation = "「내 여자친구 보지에, 신군의 사랑, 가득 쏟아줘어<emoji=heart04>」"
+
+[[dialogue]]
+speaker_original = "シン"
+speaker_translation = "신"
+original = "「っ……！\u3000わかった――」"
+translation = "「씃……! 알았어――」"
+
+[[dialogue]]
+speaker = "unk"
+original = "リアが発情しきった顔で甘えてくる姿に、僕も興奮が抑えきれずに。"
+translation = "리아가 발정할 대로 발정한 얼굴로 어리광 부려오는 모습에, 나도 흥분을 주체하지 못하고."
+
+[[dialogue]]
+speaker_original = "シン"
+speaker_translation = "신"
+original = "「リア、行くよ？」"
+translation = "「리아, 간다？」"
+
+[[dialogue]]
+speaker_original = "リア"
+speaker_translation = "리아"
+original = "「あっ――<emoji=heart04><emoji=heart04>」"
+translation = "「앗――<emoji=heart04><emoji=heart04>」"
+
+[[dialogue]]
+speaker_original = "リア"
+speaker_translation = "리아"
+original = "「ふああああぁぁ～～～っ<emoji=heart04><emoji=heart04><emoji=heart04>\u3000下からおち○ぽ来たぁ～～～っ<emoji=heart04><emoji=heart04><emoji=heart04>」"
+translation = "「후아아아아아~~~<emoji=heart04><emoji=heart04><emoji=heart04> 아래에서 자지 들어왔다~~~<emoji=heart04><emoji=heart04><emoji=heart04>」"
+
+[[dialogue]]
+speaker = "unk"
+original = "僕はリアの動きに合わせて、腰を下から突き上げ始めた。"
+translation = "나는 리아의 움직임에 맞춰, 허리를 아래에서 쳐올리기 시작했다."
+
+[[dialogue]]
+speaker_original = "リア"
+speaker_translation = "리아"
+original = "「あっ、あっ、あっ、あっ、んああぁ～～っ<emoji=heart04><emoji=heart04>\u3000んっ、あっ、あっ、あっ、ふああぁんっ<emoji=heart04><emoji=heart04>\u3000あっ、あっ、あっ、あっ、はああぁんっ<emoji=heart04><emoji=heart04>」"
+translation = "「앗, 앗, 앗, 앗, 응아아~~<emoji=heart04><emoji=heart04> 응, 앗, 앗, 앗, 후아아앙<emoji=heart04><emoji=heart04> 앗, 앗, 앗, 앗, 하아아앙<emoji=heart04><emoji=heart04>」"
+
+[[dialogue]]
+speaker_original = "リア"
+speaker_translation = "리아"
+original = "「気持ちいぃっ<emoji=heart04>\u3000おち○ぽどちゅどちゅ気持ちいいのぉ～っ<emoji=heart04><emoji=heart04>\u3000あっ、あっ、あっ、あんっ、ふああぁんっ<emoji=heart04><emoji=heart04>」"
+translation = "「기분 좋아<emoji=heart04> 자지 퍽퍽 기분 좋아아~<emoji=heart04><emoji=heart04> 앗, 앗, 앗, 앙, 후아아앙<emoji=heart04><emoji=heart04>」"
+
+[[dialogue]]
+speaker_original = "リア"
+speaker_translation = "리아"
+original = "「はああぁっ<emoji=heart04>\u3000おま○こ気持ちいいっ<emoji=heart04>\u3000気持ちよくて幸せぇ～～っ<emoji=heart04><emoji=heart04>\u3000あっ、あっ、あっ、あっ、ふああぁ～～っ<emoji=heart04><emoji=heart04>」"
+translation = "「하아아<emoji=heart04> 보지 기분 좋아<emoji=heart04> 기분 좋아서 행복해에~~<emoji=heart04><emoji=heart04> 앗, 앗, 앗, 앗, 후아아~~<emoji=heart04><emoji=heart04>」"
+
+[[dialogue]]
+speaker = "unk"
+original = "悦びの声を上げて、自身も更に腰を振るリア。"
+translation = "기쁨의 소리를 지르며, 자신도 더욱 허리를 흔드는 리아."
+
+[[dialogue]]
+speaker_original = "リア"
+speaker_translation = "리아"
+original = "「私もっ<emoji=heart04>\u3000私もシンくんのこと、幸せにするからぁっ<emoji=heart04>\u3000いっぱい動くから、おち○ぽ気持ちよくなってぇ～っ<emoji=heart04><emoji=heart04>」"
+translation = "「나도<emoji=heart04> 나도 신 군을 행복하게 해줄 테니까아<emoji=heart04> 많이 움직일 테니까, 자지 기분 좋아져어~<emoji=heart04><emoji=heart04>」"
+
+[[dialogue]]
+speaker_original = "リア"
+speaker_translation = "리아"
+original = "「んうぅっ<emoji=heart04>\u3000んっ、ふうぅっ、んっ、ふうぅんっ<emoji=heart04>\u3000んうぅっ、ふんっ、ふんっ、ふんっ<emoji=heart04>\u3000んふうぅんっ<emoji=heart04><emoji=heart04>」"
+translation = "「응으<emoji=heart04> 응, 후우, 응, 후웅<emoji=heart04> 응으, 흥, 흥, 흥<emoji=heart04> 응후웅<emoji=heart04><emoji=heart04>」"
+
+[[dialogue]]
+speaker = "unk"
+original = "と、そこでリアは僕に顔を近づけてきて――"
+translation = "라며, 거기서 리아는 나에게 얼굴을 가까이 대고는――"
+
+[[dialogue]]
+speaker_original = "リア"
+speaker_translation = "리아"
+original = "「シンくん、好きぃ<emoji=heart04>\u3000んふうぅ～っ<emoji=heart04>\u3000んっ――ちゅっ<emoji=heart04>」"
+translation = "「신 군, 좋아해<emoji=heart04> 응후우~<emoji=heart04> 응――쪽<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "unk"
+original = "そう言って唇を奪われて、舌を絡めたディープキスをされる。"
+translation = "그렇게 말하며 입술을 빼앗고, 혀를 얽어매는 딥키스를 해온다."
+
+[[dialogue]]
+speaker_original = "リア"
+speaker_translation = "리아"
+original = "「んむっ<emoji=heart04>\u3000んちゅっ<emoji=heart04>\u3000ちゅぱっ<emoji=heart04>\u3000ちゅむっ<emoji=heart04>\u3000ちゅれるっ<emoji=heart04>\u3000ちゅぷっ<emoji=heart04>\u3000れるれるっ<emoji=heart04>\u3000ちゅむむっ<emoji=heart04>\u3000ちゅるるる<emoji=heart04>\u3000れろちゅっ<emoji=heart04>」"
+translation = "「응묵<emoji=heart04> 응쪽<emoji=heart04> 쪽쪽<emoji=heart04> 츄웁<emoji=heart04> 츄르릅<emoji=heart04> 츄웁<emoji=heart04> 핥짝핥짝<emoji=heart04> 츄무묵<emoji=heart04> 츄르르르<emoji=heart04> 핥짝쪽<emoji=heart04>」"
+
+[[dialogue]]
+speaker_original = "リア"
+speaker_translation = "리아"
+original = "「はあぁっ<emoji=heart04>\u3000キス気持ちいぃ<emoji=heart04>\u3000ちゅむっ<emoji=heart04>\u3000んちゅっ<emoji=heart04>\u3000ちゅぱっ<emoji=heart04>\u3000ちゅるるっ<emoji=heart04>\u3000ちゅっちゅっ<emoji=heart04>」"
+translation = "「하아앗<emoji=heart04> 키스 기분 좋아아<emoji=heart04> 츄웁<emoji=heart04> 응쪽<emoji=heart04> 쪽쪽<emoji=heart04> 츄르륵<emoji=heart04> 쪽쪽<emoji=heart04>」"
+
+[[dialogue]]
+speaker_original = "リア"
+speaker_translation = "리아"
+original = "「ちゅぱっ<emoji=heart04>\u3000しゅきっ<emoji=heart04>\u3000シンくん、だいしゅきぃ～っ<emoji=heart04>\u3000んむぅ～っ<emoji=heart04>\u3000ちゅっ<emoji=heart04>\u3000ちゅぷっ<emoji=heart04>\u3000れるれるっ<emoji=heart04>\u3000ちゅれるっ<emoji=heart04>\u3000れろちゅっ<emoji=heart04>」"
+translation = "「쪽<emoji=heart04> 죠아<emoji=heart04> 신 군, 너무 죠아아~<emoji=heart04> 응무~<emoji=heart04> 쪽<emoji=heart04> 츄웁<emoji=heart04> 낼름낼름<emoji=heart04> 츄르릅<emoji=heart04> 낼름쪽<emoji=heart04>」"
+
+[[dialogue]]
+speaker_original = "シン"
+speaker_translation = "신"
+original = "「リア、僕も好きだっ……！」"
+translation = "「리아, 나도 좋아해……！」"
+
+[[dialogue]]
+speaker_original = "リア"
+speaker_translation = "리아"
+original = "「あっ<emoji=heart04>\u3000シンくんっ<emoji=heart04>\u3000体も心も気持ちいいっ<emoji=heart04>\u3000幸せで満たされて、私またイっちゃいそうっ<emoji=heart04><emoji=heart04>」"
+translation = "「앗<emoji=heart04> 신 군<emoji=heart04> 몸도 마음도 기분 좋아<emoji=heart04> 행복으로 가득 차서, 나 또 가버릴 것 같아<emoji=heart04><emoji=heart04>」"
+
+[[dialogue]]
+speaker_original = "リア"
+speaker_translation = "리아"
+original = "「すっごく大きいのがきちゃいそうなのぉ～っ<emoji=heart04><emoji=heart04>\u3000んっ、はあぁっ、あっ、あっ、ふああぁんっ<emoji=heart04><emoji=heart04>」"
+translation = "「엄청 커다란 게 와버릴 것 같아아~<emoji=heart04><emoji=heart04> 응, 하아, 앗, 앗, 후아아앙<emoji=heart04><emoji=heart04>」"
+
+[[dialogue]]
+speaker_original = "シン"
+speaker_translation = "신"
+original = "「僕も気持ちよすぎて、もう……！」"
+translation = "「나도 너무 기분 좋아서, 이제……！」"
+
+[[dialogue]]
+speaker_original = "リア"
+speaker_translation = "리아"
+original = "「なら、一緒にぃっ<emoji=heart04>\u3000２人で一緒に幸せイキしよぉっ<emoji=heart04>\u3000あっ――<emoji=heart04><emoji=heart04>」"
+translation = "「그러면, 같이이<emoji=heart04> 둘이서 같이 행복하게 가자아<emoji=heart04> 앗――<emoji=heart04><emoji=heart04>」"
+
+[[dialogue]]
+speaker_original = "リア"
+speaker_translation = "리아"
+original = "「あっ、あっ、あっ、はあぁっ、ふああぁんっ<emoji=heart04><emoji=heart04>\u3000んっ、あっ、あっ、あっ、んああぁんっ<emoji=heart04><emoji=heart04>」"
+translation = "「앗, 앗, 앗, 하아, 후아아앙<emoji=heart04><emoji=heart04> 응, 앗, 앗, 앗, 응아아앙<emoji=heart04><emoji=heart04>」"
+
+[[dialogue]]
+speaker = "unk"
+original = "リアはラストスパートとばかりに、腰の動きを更に速めていく。"
+translation = "리아는 라스트 스퍼트라는 듯, 허리의 움직임을 더욱 속도를 올려간다."
+
+[[dialogue]]
+speaker_original = "リア"
+speaker_translation = "리아"
+original = "「あっ、イクっ<emoji=heart04><emoji=heart04>\u3000大きいのくるぅっ<emoji=heart04><emoji=heart04><emoji=heart04>\u3000あっ、あっ、あっ、あっ、はあああぁんっ<emoji=heart04><emoji=heart04><emoji=heart04>」"
+translation = "「앗, 가아<emoji=heart04><emoji=heart04> 커다란 게 와아<emoji=heart04><emoji=heart04><emoji=heart04> 앗, 앗, 앗, 앗, 하아아아앙<emoji=heart04><emoji=heart04><emoji=heart04>」"
+
+[[dialogue]]
+speaker_original = "シン"
+speaker_translation = "신"
+original = "「くっ……もう出るっ！！\u3000リア、中に出すよっ！！！」"
+translation = "「큭…… 이제 나와！！ 리아, 안에 사정할게！！！」"
+
+[[dialogue]]
+speaker_original = "リア"
+speaker_translation = "리아"
+original = "「きてっ<emoji=heart04>\u3000きてきてっ<emoji=heart04><emoji=heart04>\u3000シンくんの精子、子宮にいっぱい注いでぇ～～～っ<emoji=heart04><emoji=heart04><emoji=heart04>\u3000あっあっあっあっ、ふああああああ～～っ<emoji=heart04><emoji=heart04><emoji=heart04>」"
+translation = "「와줘<emoji=heart04> 와줘와줘<emoji=heart04><emoji=heart04> 신 군의 정자, 자궁에 듬뿍 쏟아줘어~~~<emoji=heart04><emoji=heart04><emoji=heart04> 앗앗앗앗, 후아아아아아아~~<emoji=heart04><emoji=heart04><emoji=heart04>」"
+
+[[dialogue]]
+speaker_original = "リア"
+speaker_translation = "리아"
+original = "「イク<emoji=heart04><emoji=heart04><emoji=heart04>\u3000イクイクイクイクっ<emoji=heart04><emoji=heart04><emoji=heart04>」"
+translation = "「가아<emoji=heart04><emoji=heart04><emoji=heart04> 가가가가<emoji=heart04><emoji=heart04><emoji=heart04>」"
+
+[[dialogue]]
+speaker_original = "リア"
+speaker_translation = "리아"
+original = "「おま○こイックうううぅぅぅ～～～～～～っ<emoji=heart04><emoji=heart04><emoji=heart04><emoji=heart04>」"
+translation = "「보지 간다아아아아아~~~~~~~~~~~~~~~~<emoji=heart04><emoji=heart04><emoji=heart04><emoji=heart04>」"
+
+[[dialogue]]
+speaker_original = "リア"
+speaker_translation = "리아"
+original = "「あっ<emoji=heart04><emoji=heart04><emoji=heart04><emoji=heart04><emoji=heart04>\u3000――ふあああああああああぁぁぁ～～～～～～～～～っ<emoji=heart04><emoji=heart04><emoji=heart04><emoji=heart04><emoji=heart04>」"
+translation = "「앗<emoji=heart04><emoji=heart04><emoji=heart04><emoji=heart04><emoji=heart04> ――후아아아아아아아아아~~~~~~~~~~~~~~~~~<emoji=heart04><emoji=heart04><emoji=heart04><emoji=heart04><emoji=heart04>」"
+
+[[dialogue]]
+speaker = "unk"
+original = "リアが腰を深くまで落とした瞬間、僕も限界まで溜め込んでいた射精欲が限界を迎え、いちばん奥で爆発するように弾けた。"
+translation = "리아가 허리를 깊숙이 내린 순간, 나도 한계까지 모아두었던 사정 욕구가 한계를 맞이하여, 가장 안쪽에서 터지듯 발사되었다."
+
+[[dialogue]]
+speaker_original = "リア"
+speaker_translation = "리아"
+original = "「はあああぁんっ<emoji=heart04><emoji=heart04><emoji=heart04>\u3000シンくんの精液、どぴゅどぴゅ入ってくるうぅぅぅ～～～っ<emoji=heart04><emoji=heart04><emoji=heart04>」"
+translation = "「하아아아앙<emoji=heart04><emoji=heart04><emoji=heart04> 신 군의 정액, 왈칵왈칵 들어와아아아~~~<emoji=heart04><emoji=heart04><emoji=heart04>」"
+
+[[dialogue]]
+speaker = "unk"
+original = "噴水のように大量の精液が噴き出して、リアの子宮へ勢いよく注がれてゆく。"
+translation = "분수처럼 대량의 정액이 뿜어져 나와, 리아의 자궁으로 기세 좋게 쏟아져 들어간다."
+
+[[dialogue]]
+speaker_original = "リア"
+speaker_translation = "리아"
+original = "「んあああぁ～～っ<emoji=heart04><emoji=heart04><emoji=heart04>\u3000すごい<emoji=heart04><emoji=heart04>\u3000熱いので、子宮が満たされてくの感じるぅ～っ……<emoji=heart04><emoji=heart04>」"
+translation = "「응아아아~~<emoji=heart04><emoji=heart04><emoji=heart04> 대단해<emoji=heart04><emoji=heart04> 뜨거운 걸로, 자궁이 채워져 가는 게 느껴져어~……<emoji=heart04><emoji=heart04>」"
+
+[[dialogue]]
+speaker_original = "リア"
+speaker_translation = "리아"
+original = "「はあぁんっ<emoji=heart04>\u3000シンくんの愛で……体も心もいっぱいになっちゃうぅっ……<emoji=heart04>」"
+translation = "「하아앙<emoji=heart04> 신 군의 사랑으로…… 몸도 마음도 가득 차 버려어……<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "unk"
+original = "やがて射精も収まってきて、多幸感の余韻にしばらく浸った後――"
+translation = "이윽고 사정도 가라앉아 오고, 다행감의 여운에 잠시 젖어 든 후――"
+
+[[dialogue]]
+speaker_original = "リア"
+speaker_translation = "리아"
+original = "「んっ……はぁん……<emoji=heart04>\u3000おち○ぽ抜けちゃったぁ……<emoji=heart04>」"
+translation = "「응…… 하앙……<emoji=heart04> 자지 빠져버렸다아……<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "unk"
+original = "射精後で柔らかくなったペニスが、リア先輩の膣から抜け落ちた。"
+translation = "사정 후라 부드러워진 페니스가, 리아 선배의 질에서 빠져나왔다."
+
+[[dialogue]]
+speaker_original = "リア"
+speaker_translation = "리아"
+original = "「んんぅっ……<emoji=heart04>\u3000気持ちいいのまだ続いてたから、おま○こに入れたままにしときたかったのにぃ……<emoji=heart04>」"
+translation = "「응응으……<emoji=heart04> 기분 좋은 게 아직 계속되고 있으니까, 보지에 넣은 채로 두고 싶었는데에……<emoji=heart04>」"
+
+[[dialogue]]
+speaker_original = "リア"
+speaker_translation = "리아"
+original = "「はあぁっ……んふぅ～……<emoji=heart04>」"
+translation = "「하아앗…… 응후～……<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "unk"
+original = "リア先輩は腰を前後に動かして、事後の白濁溢れる秘部をペニスに擦り付け始める。"
+translation = "리아 선배는 허리를 앞뒤로 움직여, 사정 후의 백탁액이 넘쳐나는 비부를 페니스에 문지르기 시작한다."
+
+[[dialogue]]
+speaker_original = "シン"
+speaker_translation = "신"
+original = "「り、リア先輩……？」"
+translation = "「리, 리아 선배……？」"
+
+[[dialogue]]
+speaker_original = "リア"
+speaker_translation = "리아"
+original = "「ねぇ、シンくん、私……<emoji=heart04>\u3000まだおま○こ熱いままで、収まらないの……<emoji=heart04>」"
+translation = "「저기, 신군, 나……<emoji=heart04> 아직 보지가 뜨거운 채로, 안 가라앉아……<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "unk"
+original = "例の元気が出るドリンクの効果がまだ続いているのか――リア先輩の瞳には、ハートが浮かんでいるかのように未だ発情の色が濃く宿っていた。"
+translation = "그 활력이 솟는 드링크의 효과가 아직 계속되고 있는 것인지―― 리아 선배의 눈동자에는, 하트가 떠 있는 것처럼 여전히 발정의 빛이 짙게 서려 있었다."
+
+[[dialogue]]
+speaker_original = "シン"
+speaker_translation = "신"
+original = "「う……そんなアソコを刺激されたらまた……！」"
+translation = "「우…… 그런 곳을 자극당하면 또……！」"
+
+[[dialogue]]
+speaker_original = "リア"
+speaker_translation = "리아"
+original = "「ふふっ<emoji=heart04>\u3000元気になってきたから……またできるよね？」"
+translation = "「후후<emoji=heart04> 기운이 차올랐으니까…… 또 할 수 있지?」"
+
+[[dialogue]]
+speaker_original = "リア"
+speaker_translation = "리아"
+original = "「もう１回、しよ<emoji=heart04>」"
+translation = "「한 번 더, 하자<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "unk"
+original = "そうして僕はその日、リア先輩が満足するまで、何度も搾り取られてしまうのだった。"
+translation = "그리하여 나는 그날, 리아 선배가 만족할 때까지, 몇 번이고 쥐어짜이고 마는 것이었다."
+
