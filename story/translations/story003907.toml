@@ -1,0 +1,303 @@
+[[dialogue]]
+speaker_original = "蘭美"
+speaker_translation = "라미"
+original = "「せつなと閃から報告を受けたわ。２人ともなかなかやるようね！」"
+translation = "「세츠나와 센에게 보고받았어. 둘 다 제법이더구나!」"
+
+[[dialogue]]
+speaker_original = "エルデリーゼ"
+speaker_translation = "엘데리제"
+original = "「それはもう見事なお手並みでしたの！\u3000肝心の捕り物シーンが見られなかったのは残念でしたけど」"
+translation = "「그야말로 대단한 솜씨였어요! 정작 중요한 체포 장면을 보지 못한 건 아쉽지만요」"
+
+[[dialogue]]
+speaker_original = "蘭美"
+speaker_translation = "라미"
+original = "「そう……でも九浄家に仕える使用人たる者、荒事に長けているだけでもダメよ。頭脳や対応力も優秀でなければね」"
+translation = "「그래…… 하지만 쿠죠가를 섬기는 사용인인 자, 싸움에 뛰어난 것만으로는 안 돼. 두뇌나 대응력도 우수해야 하지」"
+
+[[dialogue]]
+speaker_original = "蘭美"
+speaker_translation = "라미"
+original = "「というわけで、ヨミの事務仕事を手伝ってもらうわ！」"
+translation = "「그런 고로, 요미의 사무 일을 도와주렴!」"
+
+[[dialogue]]
+speaker_original = "ヒマワリ"
+speaker_translation = "히마와리"
+original = "「事務仕事ですか？」"
+translation = "「사무 일 말인가요?」"
+
+[[dialogue]]
+speaker_original = "ヨミ"
+speaker_translation = "요미"
+original = "「お願いしてしまってごめんなさい！\u3000メイドのお仕事じゃないんですけど……」"
+translation = "「부탁해서 죄송해요! 메이드 일이 아닌데요……」"
+
+[[dialogue]]
+speaker_original = "ミウ"
+speaker_translation = "미우"
+original = "「どういったお仕事なんですか？」"
+translation = "「어떤 일인가요?」"
+
+[[dialogue]]
+speaker_original = "ヨミ"
+speaker_translation = "요미"
+original = "「ご存知かと思いますが、私、学園では任務管轄係として働いておりまして」"
+translation = "「알고 계시리라 생각합니다만, 저, 학원에서는 임무관할계로 일하고 있어서요」"
+
+[[dialogue]]
+speaker_original = "ヒマワリ"
+speaker_translation = "히마와리"
+original = "「知ってますよ。何度かお世話になったこともありますし」"
+translation = "「알고 있어요. 몇 번 신세를 진 적도 있고요」"
+
+[[dialogue]]
+speaker = "unk"
+original = "モンスターとの戦闘時にオペレーターを務めたり、任務の発注や案内などを行うのが任務管轄係の主な仕事だ。"
+translation = "몬스터와의 전투 시 오퍼레이터를 맡거나, 임무의 발주나 안내 등을 실시하는 것이 임무관할계의 주요 업무다."
+
+[[dialogue]]
+speaker = "unk"
+original = "星騎士の出撃数や、モンスターの撃墜数などの管理も行っているが、ヨミもその任務管轄係として働いている。"
+translation = "성기사의 출격 수나, 몬스터 격퇴 수 등의 관리도 하고 있지만, 요미도 그 임무관할계로서 일하고 있다."
+
+[[dialogue]]
+speaker = "unk"
+original = "ヒマワリもミウも大聖堂カフェテリアで、仕事に従事しているヨミの姿を何度も見たことがあった。"
+translation = "히마와리도 미우도 대성당 카페테리아에서, 업무에 종사하고 있는 요미의 모습을 몇 번이고 본 적이 있었다."
+
+[[dialogue]]
+speaker_original = "ヨミ"
+speaker_translation = "요미"
+original = "「最近、利用者が大幅に増えたのは嬉しい悲鳴なんですけど、お仕事がいっぱい過ぎて事務作業が追いつかない状態になってしまってまして」"
+translation = "「최근, 이용자가 대폭 늘어난 건 기쁜 비명이지만, 일이 너무 많아서 사무 작업이 따라가지 못하는 상태가 되어버려서요」"
+
+[[dialogue]]
+speaker_original = "蘭美"
+speaker_translation = "라미"
+original = "「利用者のリスト化と上手な捌き方を考案して、ヨミを手伝ってあげてほしいの。どう、できるかしら？」"
+translation = "「이용자 리스트화와 효율적인 처리 방법을 고안해서, 요미를 도와줬으면 해. 어때, 할 수 있겠니?」"
+
+[[dialogue]]
+speaker_original = "ミウ"
+speaker_translation = "미우"
+original = "「大丈夫です。むしろ、荒事よりも得意ジャンルです」"
+translation = ""
+
+[[dialogue]]
+speaker_original = "ヒマワリ"
+speaker_translation = "히마와리"
+original = "「分業にしよっか。利用者のリスト化はあたしが入力するんで、誰か未処理のリストを仕分けて並べてくれませんか？」"
+translation = "「분업으로 할까. 이용자 리스트화는 내가 입력할 테니까, 누구 미처리 리스트를 분류해서 늘어놓아 주지 않을래?」"
+
+[[dialogue]]
+speaker_original = "蘭美"
+speaker_translation = "라미"
+original = "「私がやるわ！\u3000ヒマワリの入力スピード、私の仕分けスピードに追いつけるかしら？」"
+translation = "「내가 할게! 히마와리의 입력 속도, 내 분류 속도가 따라갈 수 있을까?」"
+
+[[dialogue]]
+speaker_original = "ヨミ"
+speaker_translation = "요미"
+original = "「あの、では私はどうしましょう……？」"
+translation = "「저기, 그럼 저는 어떻게 할까요……?」"
+
+[[dialogue]]
+speaker_original = "ミウ"
+speaker_translation = "미우"
+original = "「私と一緒にリスト化の効率的なフローを考えませんか？\u3000それが終わったら、リスト化作業に合流ということで」"
+translation = "「나와 함께 리스트화의 효율적인 흐름을 생각해보지 않겠습니까? 그게 끝나면, 리스트화 작업에 합류하는 걸로 해서」"
+
+[[dialogue]]
+speaker_original = "ヨミ"
+speaker_translation = "요미"
+original = "「わ、わかりました～！」"
+translation = "「아, 알겠습니다~!」"
+
+[[dialogue]]
+speaker_original = "エルデリーゼ"
+speaker_translation = "엘데리제"
+original = "「うううっ！\u3000何なんですの、２人のこのお仕事出来るオーラ！\u3000私の入り込む隙がありませんわ！」"
+translation = ""
+
+[[dialogue]]
+speaker_original = "蘭美"
+speaker_translation = "라미"
+original = "「ふふ、ヒマワリもミウもやるわね。山積みだった報告書がこんなに簡単に片づいてしまうなんて」"
+translation = "「후후, 히마와리도 미우도 제법이네. 산더미 같던 보고서가 이렇게 간단하게 정리되어 버리다니」"
+
+[[dialogue]]
+speaker_original = "ヨミ"
+speaker_translation = "요미"
+original = "「明日からのお仕事が、とっても楽になりますー！\u3000ミウさん、ありがとうございます！」"
+translation = "「내일부터의 일이, 엄청 편해져요ー! 미우 님, 감사합니다!」"
+
+[[dialogue]]
+speaker_original = "ミウ"
+speaker_translation = "미우"
+original = "「いえいえ、私はちょっとアイデアを出しただけですから。元々のヨミさんの処理能力の高さを活かしているだけですよ」"
+translation = "「아니에요, 저는 그저 아이디어를 조금 냈을 뿐이니까요. 원래 요미 님의 처리 능력이 높은 점을 살렸을 뿐이에요」"
+
+[[dialogue]]
+speaker_original = "蘭美"
+speaker_translation = "라미"
+original = "「閃やせつなも、あなたたちをべた褒めしていたわ。『見習い』が外れるのも、そう遠い先の話じゃなさそうね」"
+translation = "「센이나 세츠나도, 너희를 아주 극찬했단다. 『견습』을 떼는 것도, 그리 먼 미래의 일은 아닐 것 같네」"
+
+[[dialogue]]
+speaker_original = "ヒマワリ"
+speaker_translation = "히마와리"
+original = "「えへへー、そういってもらえて嬉しいです。早く立派な使用人になりたいですねー」"
+translation = "「에헤헤ー, 그렇게 말해주셔서 기뻐요. 빨리 훌륭한 사용인이 되고 싶네요ー」"
+
+[[dialogue]]
+speaker_original = "ミウ"
+speaker_translation = "미우"
+original = "（ヒマワリちゃん、楽しむのもいいけど、私たちの本当の目的は忘れないようにね）"
+translation = "（히마와리짱, 즐기는 것도 좋지만, 우리들의 진짜 목적은 잊지 않도록 해）"
+
+[[dialogue]]
+speaker_original = "ヒマワリ"
+speaker_translation = "히마와리"
+original = "（そうなんだよねー。メイド隊のみんなを騙してるみたいで、ちょっと胸が痛いなー）"
+translation = "（그렇지ー. 메이드대 모두를 속이는 것 같아서, 조금 가슴이 아프네ー）"
+
+[[dialogue]]
+speaker_original = "エルデリーゼ"
+speaker_translation = "엘데리제"
+original = "「ヒマワリ様もミウ様も使用人体験を満喫していて……羨ましいですわ」"
+translation = "「히마와리 님도 미우 님도 사용인 체험을 만끽하고 계셔서…… 부럽습니다」"
+
+[[dialogue]]
+speaker_original = "エルデリーゼ"
+speaker_translation = "엘데리제"
+original = "「せっかくの可愛いメイドタイプの人工戦闘服なのですし、持ち腐れになってしまいますわ！\u3000私ももっとメイドとしてご奉仕したいですのっ！」"
+translation = ""
+
+[[dialogue]]
+speaker_original = "蘭美"
+speaker_translation = "라미"
+original = "「ヘレナ様からは許可を頂いているけど……本当にいいのかしら？\u3000あなたは桜十路家という名家のお嬢様なのに」"
+translation = "「헬레나 님께는 허가를 받았지만…… 정말 괜찮겠니? 너는 사쿠라쥬지가라는 명가의 영애인데」"
+
+[[dialogue]]
+speaker_original = "エルデリーゼ"
+speaker_translation = "엘데리제"
+original = "「あら、名家というならば蘭美様も魔界の名家の出身ですわよね？\u3000それなのにメイドとして働いていらっしゃるではありませんの」"
+translation = "「어머, 명가라고 한다면 라비 님도 마계 명가의 출신이시잖아요? 그런데도 메이드로서 일하고 계시지 않나요」"
+
+[[dialogue]]
+speaker_original = "蘭美"
+speaker_translation = "라미"
+original = "「あら、これは１本取られたわね……」"
+translation = "「어머, 이건 한 방 먹었네……」"
+
+[[dialogue]]
+speaker_original = "エルデリーゼ"
+speaker_translation = "엘데리제"
+original = "「可愛いだけではなくてとても動きやすくて、お仕事でも戦闘でも力を発揮できますのよ？\u3000黙って見ているだけなんてもったいないですわ！」"
+translation = "「귀여울 뿐만 아니라 매우 움직이기 편해서, 일에서도 전투에서도 힘을 발휘할 수 있답니다? 가만히 보고만 있기엔 아깝습니다!」"
+
+[[dialogue]]
+speaker_original = "ミウ"
+speaker_translation = "미우"
+original = "「その人工戦闘服、すごくハイスペックそうですもんね？\u3000それにしても何故エルデリーゼ先輩が、その人工戦闘服を着ることになったんですか？」"
+translation = "「그 인공 전투복, 엄청 하이스펙인 것 같네요? 그나저나 어째서 엘데리제 선배가, 그 인공 전투복을 입게 된 건가요?」"
+
+[[dialogue]]
+speaker_original = "ヒマワリ"
+speaker_translation = "히마와리"
+original = "「あ、それ気になってました！\u3000あたしも知りたいです！」"
+translation = ""
+
+[[dialogue]]
+speaker_original = "エルデリーゼ"
+speaker_translation = "엘데리제"
+original = "「あら、おふたりにはお話ししてませんでしたか？\u3000実はヘレナ様がこの人工戦闘服を思いついた際に私をイメージしてくださったのです」"
+translation = ""
+
+[[dialogue]]
+speaker_original = "エルデリーゼ"
+speaker_translation = "엘데리제"
+original = "「実際に戦闘服が出来上がったら、どうしても私が着ているところをみたくて、モデルとしてスカウトされたという事ですのよ」"
+translation = ""
+
+[[dialogue]]
+speaker_original = "ミウ"
+speaker_translation = "미우"
+original = "「では本当に、エルデリーゼ先輩のために作られた戦闘服なんですね」"
+translation = ""
+
+[[dialogue]]
+speaker_original = "ヒマワリ"
+speaker_translation = "히마와리"
+original = "「少しだけ戦った感じだと、なんか普通の人工戦闘服に感じない力を感じたんですけど……何か秘密があったりするんですか？」"
+translation = ""
+
+[[dialogue]]
+speaker_original = "エルデリーゼ"
+speaker_translation = "엘데리제"
+original = "「いいえ？\u3000特にうかがってはいませんけど……」"
+translation = ""
+
+[[dialogue]]
+speaker_original = "ヒマワリ"
+speaker_translation = "히마와리"
+original = "「そっかー……エルゼ先輩がそう言うなら、そうなのかなー」"
+translation = ""
+
+[[dialogue]]
+speaker_original = "ミウ"
+speaker_translation = "미우"
+original = "（何かを隠している様子はなし……あてが外れちゃったかな？）"
+translation = ""
+
+[[dialogue]]
+speaker_original = "蘭美"
+speaker_translation = "라미"
+original = "「２人とも、随分と食いつきがいいのね……はっ！？\u3000もしかして、あなたたち……！」"
+translation = ""
+
+[[dialogue]]
+speaker_original = "ヒマワリ"
+speaker_translation = "히마와리"
+original = "「ぎくっ！？」"
+translation = ""
+
+[[dialogue]]
+speaker_original = "ミウ"
+speaker_translation = "미우"
+original = "（潜入捜査が勘付かれた！？\u3000ちょっと前のめりになりすぎちゃったから──）"
+translation = ""
+
+[[dialogue]]
+speaker_original = "蘭美"
+speaker_translation = "라미"
+original = "「チーパオよりもメイド服に興味があったのかしら？\u3000それなら今度、美鶴にお願いしてみるといいわ！」"
+translation = ""
+
+[[dialogue]]
+speaker_original = "ヒマワリ"
+speaker_translation = "히마와리"
+original = "「め、メイド服もいいですね～！\u3000長いスカートの中に武器を仕込んでおくのとか格好いいですしー！」"
+translation = ""
+
+[[dialogue]]
+speaker_original = "エルデリーゼ"
+speaker_translation = "엘데리제"
+original = "「まあ！\u3000言われてみれば、映画やアニメで見たことがありますわ！\u3000素敵ですわよね！」"
+translation = ""
+
+[[dialogue]]
+speaker_original = "ミウ"
+speaker_translation = "미우"
+original = "「それも含めて、今度、美鶴さんにも詳しいお話をうかがいたいです」"
+translation = ""
+
+[[dialogue]]
+speaker_original = "ミウ"
+speaker_translation = "미우"
+original = "（ふぅ……気づかれてない……よね？）"
+translation = ""
+

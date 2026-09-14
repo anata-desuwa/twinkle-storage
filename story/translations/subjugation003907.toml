@@ -1,0 +1,834 @@
+[[dialogue]]
+speaker = "unk"
+original = "その日の放課後。"
+translation = "그날 방과후."
+
+[[dialogue]]
+speaker_original = "狛里"
+speaker_translation = "狛里"
+original = "「ヨミ先輩、お呼びなのですか？」"
+translation = "「요미 선배, 부르셨나요?」"
+
+[[dialogue]]
+speaker_original = "ヨミ"
+speaker_translation = "요미"
+original = "「はい。狛里さん……」"
+translation = "「네. 코마리 양……」"
+
+[[dialogue]]
+speaker_original = "ヨミ"
+speaker_translation = "요미"
+original = "「――いえ、<b>狛里</b>」"
+translation = "「――아니요, <b>코마리</b>」"
+
+[[dialogue]]
+speaker_original = "ヨミ"
+speaker_translation = "요미"
+original = "「狛里の先輩として、お話があります！」"
+translation = "「코마리의 선배로서, 할 말이 있습니다!」"
+
+[[dialogue]]
+speaker_original = "狛里"
+speaker_translation = "狛里"
+original = "「！」"
+translation = "「!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "狛里は耳をピンと立て、少し驚いた様子で姿勢を正す。"
+translation = "코마리는 귀를 쫑긋 세우고, 조금 놀란 듯한 모습으로 자세를 바르게 한다."
+
+[[dialogue]]
+speaker_original = "ヨミ"
+speaker_translation = "요미"
+original = "「先日の戦闘の時……口では大丈夫と言っていましたけど、無茶をしていましたよね？」"
+translation = "「지난번 전투 때…… 말로는 괜찮다고 했었지만, 무리를 하고 있었죠?」"
+
+[[dialogue]]
+speaker_original = "ヨミ"
+speaker_translation = "요미"
+original = "「予想外の怪我をしたのではなく──怪我をすることを承知で、乱暴に動き回っているように見えました」"
+translation = "「예상치 못한 부상을 입은 것이 아니라── 부상을 입을 것을 알면서도, 거칠게 뛰어다니는 것처럼 보였습니다」"
+
+[[dialogue]]
+speaker_original = "狛里"
+speaker_translation = "狛里"
+original = "「そ、それは……はいなのです」"
+translation = "「그, 그거는…… 맞아요」"
+
+[[dialogue]]
+speaker_original = "ヨミ"
+speaker_translation = "요미"
+original = "「あの戦い方は、良くないと思います」"
+translation = "「그런 싸움 방식은, 좋지 않다고 생각해요」"
+
+[[dialogue]]
+speaker_original = "ヨミ"
+speaker_translation = "요미"
+original = "「戦い方だけじゃありません、仕事でもそうです。早く終わらせようとして、小さなミスをしてしまう」"
+translation = "「싸움 방식뿐만이 아니에요, 일할 때도 그래요. 빨리 끝내려고 하다가, 작은 실수들을 해버려요」"
+
+[[dialogue]]
+speaker_original = "ヨミ"
+speaker_translation = "요미"
+original = "「狛里は、全部自分１人でやろうとしているように見えます」"
+translation = "「코마리는, 전부 혼자서 하려고 하는 것처럼 보여요」"
+
+[[dialogue]]
+speaker_original = "ヨミ"
+speaker_translation = "요미"
+original = "「狛里は頑張っていると思います。でも……頑張り方を間違っています！」"
+translation = "「코마리는 열심히 하고 있다고 생각해요. 하지만…… 노력하는 방향이 틀렸어요!」"
+
+[[dialogue]]
+speaker_original = "ヨミ"
+speaker_translation = "요미"
+original = "「ずっと無理をしていたら、いつか大きなミスをするかもしれない――」"
+translation = "「계속 무리를 하다 보면, 언젠가 큰 실수를 하게 될지도 몰라요――」"
+
+[[dialogue]]
+speaker_original = "ヨミ"
+speaker_translation = "요미"
+original = "「それは先輩として、狛里の為にも見過ごせません！！」"
+translation = "「그건 선배로서, 코마리를 위해서라도 그냥 넘어갈 수 없습니다!!」"
+
+[[dialogue]]
+speaker_original = "狛里"
+speaker_translation = "狛里"
+original = "「…………」"
+translation = "「…………」"
+
+[[dialogue]]
+speaker_original = "狛里"
+speaker_translation = "狛里"
+original = "「ヨミ先輩、ごめんなさいなのです」"
+translation = "「요미 선배, 죄송해요」"
+
+[[dialogue]]
+speaker = "unk"
+original = "狛里は深々と頭を下げた。"
+translation = "코마리는 깊숙이 고개를 숙였다."
+
+[[dialogue]]
+speaker_original = "狛里"
+speaker_translation = "狛里"
+original = "「……ヨミ先輩の言っていることは、正しいのです」"
+translation = "「……요미 선배가 하시는 말씀이, 맞아요」"
+
+[[dialogue]]
+speaker_original = "狛里"
+speaker_translation = "狛里"
+original = "「辺境で『白虎』と戦っていた時も、討伐隊の人たちから似たようなことを言われたのです」"
+translation = "「변방에서 『백호』와 싸우고 있었을 때도, 토벌대 분들한테 비슷한 말을 들었었어요」"
+
+[[dialogue]]
+speaker_original = "ヨミ"
+speaker_translation = "요미"
+original = "「白虎……？」"
+translation = "「백호……?」"
+
+[[dialogue]]
+speaker_original = "狛里"
+speaker_translation = "狛里"
+original = "「はいなのです。ここに来る前、魔界にいた時のことなのですが――」"
+translation = "「네. 여기 오기 전, 마계에 있었을 때의 일인데요――」"
+
+[[dialogue]]
+speaker_original = "狛里"
+speaker_translation = "狛里"
+original = "「狛里の故郷の村で、今から１年くらい前に、ある異変が起きたのです」"
+translation = "「코마리의 고향 마을에서, 지금으로부터 1년 정도 전에, 어떤 이변이 일어났었어요」"
+
+[[dialogue]]
+speaker_original = "狛里"
+speaker_translation = "狛里"
+original = "「村の近くにある大空洞には、魔獣『白虎』が大昔から封印されていたのです。でも、リクリエの影響で封印が弱くなって、目覚めてしまったのであります」"
+translation = "「마을 근처에 있는 대공동에는, 마수 『백호』가 아주 먼 옛날부터 봉인되어 있었어요. 하지만, 리크리에의 영향으로 봉인이 약해져서, 깨어나 버렸단 말이에요」"
+
+[[dialogue]]
+speaker_original = "狛里"
+speaker_translation = "狛里"
+original = "「それで、大空洞から溢れ出る白虎の魔力で、魔物たちが眷族になって……突然、村を襲うようになったのです」"
+translation = "「그래서, 대공동에서 흘러넘치는 백호의 마력으로, 마물들이 권속이 되어…… 갑자기, 마을을 습격하게 되었어요」"
+
+[[dialogue]]
+speaker_original = "狛里"
+speaker_translation = "狛里"
+original = "「でも、村で戦える星力持ちは、狛里しかいなかったのです」"
+translation = "「하지만, 마을에서 싸울 수 있는 성력을 가진 건, 코마리밖에 없었어요」"
+
+[[dialogue]]
+speaker_original = "ヨミ"
+speaker_translation = "요미"
+original = "「……！」"
+translation = "「……！」"
+
+[[dialogue]]
+speaker_original = "狛里"
+speaker_translation = "狛里"
+original = "「だから、狛里が『門番』になって、ひとりで村を守るしかなかったのです」"
+translation = "「그래서, 코마리가 『문지기』가 되어서, 혼자서 마을을 지킬 수밖에 없었던 거예요」"
+
+[[dialogue]]
+speaker_original = "狛里"
+speaker_translation = "狛里"
+original = "「誰かが助けを呼びに出たら、その人が白虎の眷族に襲われちゃうのです」"
+translation = "「누군가가 구원을 요청하러 나가면, 그 사람이 백호의 권속에게 습격당해 버리거든요」"
+
+[[dialogue]]
+speaker_original = "狛里"
+speaker_translation = "狛里"
+original = "「だから、村に立てこもるしかなかったのです」"
+translation = "「그래서, 마을에 농성할 수밖에 없었던 거예요」"
+
+[[dialogue]]
+speaker_original = "狛里"
+speaker_translation = "狛里"
+original = "「でも、１ヵ月くらい頑張ってたら、隣村の人たちが異変に気づいてくれて――」"
+translation = "「하지만, 1개월 정도 노력했더니, 옆 마을 사람들이 이변을 차려채 줘서――」"
+
+[[dialogue]]
+speaker_original = "狛里"
+speaker_translation = "狛里"
+original = "「大きな街から星騎士の人たちが助けに来てくれたおかげで、狛里も村のみんなも生き残れたのです」"
+translation = "「큰 도시에서 별기사 분들이 도우러 와 준 덕분에, 코마리도 마을의 모두도 살아남을 수 있었던 거예요」"
+
+[[dialogue]]
+speaker_original = "ヨミ"
+speaker_translation = "요미"
+original = "「１ヵ月間、１人でずっと村を……？」"
+translation = "「1개월 동안, 혼자서 계속 마을을……？」"
+
+[[dialogue]]
+speaker_original = "狛里"
+speaker_translation = "狛里"
+original = "「はいなのです。狛里が戦わなかったら、誰かが怪我をする……狛里が頑張らなかったら、村がなくなっちゃう」"
+translation = "「네인 거예요. 코마리가 싸우지 않으면, 누군가가 다쳐요…… 코마리가 노력하지 않으면, 마을이 사라져 버려요」"
+
+[[dialogue]]
+speaker_original = "狛里"
+speaker_translation = "狛里"
+original = "「だから狛里は、白虎の眷族と戦い続けるしかなかったのです」"
+translation = "「그래서 코마리는, 백호의 권속과 계속 싸울 수밖에 없었던 거예요」"
+
+[[dialogue]]
+speaker_original = "ヨミ"
+speaker_translation = "요미"
+original = "「その後、白虎はどうなったんですか……？」"
+translation = "「그 후, 백호는 어떻게 되었나요……？」"
+
+[[dialogue]]
+speaker_original = "狛里"
+speaker_translation = "狛里"
+original = "「魔界の星騎士による討伐部隊がきて、狛里も一緒に戦って、討伐できたのです」"
+translation = "「마계의 별기사에 의한 토벌부대가 와서, 코마리도 함께 싸워서, 토벌할 수 있었던 거예요」"
+
+[[dialogue]]
+speaker_original = "狛里"
+speaker_translation = "狛里"
+original = "「それで、たまたま狛里が白虎にトドメを刺したから、九浄家のスカウトさんの目に留まったみたいで……」"
+translation = "「그래서, 어쩌다 보니 코마리가 백호에게 결정타를 날렸기 때문에, 쿠죠 가문의 스카우트분의 눈에 띄게 된 것 같아서……」"
+
+[[dialogue]]
+speaker_original = "ヨミ"
+speaker_translation = "요미"
+original = "「そういえば、ご当主様が狛里は『英雄』だって……」"
+translation = "「그러고 보니, 당주님께서 코마리는 『영웅』이라고……」"
+
+[[dialogue]]
+speaker_original = "狛里"
+speaker_translation = "狛里"
+original = "「戦いが終わった時、討伐隊の人たちが狛里のことを『辺境の英雄』だーって言ってくれて……えへへ、ちょっと恥ずかしいのです」"
+translation = "「싸움이 끝났을 때, 토벌대 분들이 코마리를 『변방의 영웅』이라ー고 불러 줘서…… 에헤헤, 조금 부끄러운 거예요」"
+
+[[dialogue]]
+speaker_original = "狛里"
+speaker_translation = "狛里"
+original = "「でも、そんなことがあったから──」"
+translation = "「하지만, 그런 일이 있었으니까──」"
+
+[[dialogue]]
+speaker_original = "狛里"
+speaker_translation = "狛里"
+original = "「今でも……狛里がやらなきゃって、すぐ思っちゃうのです」"
+translation = "「지금도…… 코마리가 해야 한다고, 바로 생각해 버리는 거예요」"
+
+[[dialogue]]
+speaker_original = "狛里"
+speaker_translation = "狛里"
+original = "「頭では、よくないってわかっているのです……」"
+translation = "「머리로는, 좋지 않다는 걸 알고 있는 거예요……」"
+
+[[dialogue]]
+speaker = "unk"
+original = "狛里は困ったように笑う。"
+translation = "코마리는 난처한 듯이 웃는다."
+
+[[dialogue]]
+speaker_original = "狛里"
+speaker_translation = "狛里"
+original = "「あの１ヵ月、ずっとひとりで村を守っていたから……今でも、胸の奥がきゅーってなるのです」"
+translation = "「그 1개월, 계속 혼자서 마을을 지켰으니까…… 지금도, 가슴 깊은 곳이 꽉 조여오는 거예요」"
+
+[[dialogue]]
+speaker_original = "狛里"
+speaker_translation = "狛里"
+original = "「狛里がやらなきゃって、不安な気持ちになっちゃうのです……」"
+translation = "「코마리가 해야 한다고, 불안한 기분이 되어 버리는 거예요……」"
+
+[[dialogue]]
+speaker_original = "ヨミ"
+speaker_translation = "요미"
+original = "「狛里……」"
+translation = "「코마리……」"
+
+[[dialogue]]
+speaker = "unk"
+original = "しょんぼりと肩を落とす狛里のことを、ヨミは思わず抱きしめた。"
+translation = "시무룩하게 어깨를 떨어뜨리는 코마리를, 요미는 나도 모르게 안아주었다."
+
+[[dialogue]]
+speaker_original = "狛里"
+speaker_translation = "狛里"
+original = "「わふっ、ヨミ先輩……！？」"
+translation = "「와훗, 요미 선배……!?」"
+
+[[dialogue]]
+speaker_original = "ヨミ"
+speaker_translation = "요미"
+original = "「狛里はすごく頑張ってます！\u3000狛里はとっても偉いです！」"
+translation = "「코마리는 엄청 노력하고 있어요! 코마리는 정말 대단해요!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ヨミにとってもリクリエやモンスターは恐ろしい存在だったが、それでも狛里や会長のように、自分の両肩に誰かの命を乗せて戦ったことはなかった。"
+translation = "요미에게 있어서도 리크리에나 몬스터는 두려운 존재였지만, 그래도 코마리나 회장처럼, 자신의 양어깨에 누군가의 목숨을 짊어지고 싸운 적은 없었다."
+
+[[dialogue]]
+speaker = "unk"
+original = "つい先日まで、会長のことはどこか遠い存在のように感じていた。尊敬や憧れはあっても、自分とは違う特別な存在であると、どこか壁を作っていた。"
+translation = ""
+
+[[dialogue]]
+speaker = "unk"
+original = "だけど、会長は言っていた。不安はあると。自信なんて、最初からなかったと。"
+translation = "하지만, 회장은 말했었다. 불안은 있다고. 자신감 따위, 처음부터 없었다고."
+
+[[dialogue]]
+speaker_original = "ヨミ"
+speaker_translation = "요미"
+original = "（それでも、あの人は立ち上がった）"
+translation = "（그래도, 그 사람은 일어섰어）"
+
+[[dialogue]]
+speaker_original = "ヨミ"
+speaker_translation = "요미"
+original = "（ヴィーナスお嬢様や、私たち。『魔王』という肩書きを信じてついてくる人たちのために、腹をくくったんだ）"
+translation = "（비너스 아가씨나, 우리들. 『마왕』이라는 직함을 믿고 따라오는 사람들을 위해서, 각오를 다진 거야）"
+
+[[dialogue]]
+speaker = "unk"
+original = "それは、狛里も同じ。"
+translation = "그것은, 코마리도 마찬가지."
+
+[[dialogue]]
+speaker = "unk"
+original = "村を救う英雄。まだ若い狛里が、本当は背負う必要のない『英雄』という責任を、その小さな体に背負った。仲間のために覚悟を決めた。"
+translation = "마을을 구한 영웅. 아직 어린 코마리가, 사실은 짊어질 필요가 없는 『영웅』이라는 책임을, 그 작은 몸에 짊어졌다. 동료를 위해 각오를 다졌다."
+
+[[dialogue]]
+speaker_original = "ヨミ"
+speaker_translation = "요미"
+original = "（こんな小さな子がやって見せたことを、『私にはできません』じゃ済まされません！）"
+translation = "（이런 작은 아이가 해내 보인 것을, 『저는 못 합니다』로 끝낼 수는 없습니다!）"
+
+[[dialogue]]
+speaker = "unk"
+original = "だから今度は、自分が狛里を守る。狛里や会長とはやり方は違うかもしれない、力不足かもしれない、でもそんなことは関係ないんだ。"
+translation = "그러니 이번에는, 자신이 코마리를 지킨다. 코마리나 회장과는 방식이 다를지도 모른다, 역부족일지도 모른다, 하지만 그런 건 관계없다."
+
+[[dialogue]]
+speaker_original = "ヨミ"
+speaker_translation = "요미"
+original = "（私が、狛里を守る。私たち九浄家メイド隊が、狛里を守るんだ！）"
+translation = "（내가, 코마리를 지키겠어. 우리 쿠죠가 메이드대가, 코마리를 지키는 거야!）"
+
+[[dialogue]]
+speaker_original = "ヨミ"
+speaker_translation = "요미"
+original = "（私で足りなければせつなさんが、それでも足りなければメイド長が、狛里を守る！\u3000私ひとりは弱くても、九浄家メイド隊は最強なんですから！！）"
+translation = "（나로 부족하다면 세츠나 씨가, 그래도 부족하다면 메이드장이, 코마리를 지킨다! 나 혼자는 약해도, 쿠죠가 메이드대는 최강이니까요!!）"
+
+[[dialogue]]
+speaker_original = "ヨミ"
+speaker_translation = "요미"
+original = "（九浄家メイド隊心得その７！\u3000『１人はみんなのために、みんなは１人のために』です！！）"
+translation = "（쿠죠가 메이드대 마음가짐 그 일곱! 『하나를 위하여 모두가, 모두를 위하여 하나가』입니다!!）"
+
+[[dialogue]]
+speaker = "unk"
+original = "狛里を抱きしめながら、ヨミは何度も狛里の頭を撫でる。"
+translation = "코마리를 안아주면서, 요미는 몇 번이고 코마리의 머리를 다독인다."
+
+[[dialogue]]
+speaker_original = "ヨミ"
+speaker_translation = "요미"
+original = "「狛里の覚悟は立派です！\u3000でもここは、魔界にある小さな村ではありません！」"
+translation = "「코마리의 각오는 훌륭합니다! 하지만 여기는, 마계에 있는 작은 마을이 아닙니다!」"
+
+[[dialogue]]
+speaker_original = "ヨミ"
+speaker_translation = "요미"
+original = "「ここは流星市国であり、天下の九浄家です。狛里の味方はたくさんいます！」"
+translation = "「여기는 유성시국이며, 천하의 쿠죠 가문입니다. 코마리의 편방은 많이 있어요!」"
+
+[[dialogue]]
+speaker_original = "ヨミ"
+speaker_translation = "요미"
+original = "「狛里のことは、私たちが守ります……！」"
+translation = "「코마리는, 우리가 지키겠어요……!」"
+
+[[dialogue]]
+speaker_original = "ヨミ"
+speaker_translation = "요미"
+original = "「だから、狛里は新しい戦い方を覚えなさい！！\u3000これは先輩命令なんですからね！！」"
+translation = "「그러니까, 코마리는 새로운 싸움 방식을 익히세요!! 이것은 선배 명령이니까요!!」"
+
+[[dialogue]]
+speaker_original = "狛里"
+speaker_translation = "狛里"
+original = "「ばうわふぅ、ヨミ先輩……」"
+translation = "「바우와후, 요미 선배……」"
+
+[[dialogue]]
+speaker_original = "狛里"
+speaker_translation = "狛里"
+original = "「わかったのです……狛里、もっとヨミ先輩の指示を守れるように、やってみるのです」"
+translation = "「알겠는 거예요…… 코마리, 좀 더 요미 선배의 지시를 잘 따를 수 있도록, 해보는 거예요」"
+
+[[dialogue]]
+speaker_original = "ヨミ"
+speaker_translation = "요미"
+original = "「はいっ。約束ですよ、狛里！」"
+translation = "「네. 약속이에요, 코마리!」"
+
+[[dialogue]]
+speaker_original = "狛里"
+speaker_translation = "狛里"
+original = "「えへへ♪\u3000初めてヨミ先輩に抱きしめてもらいましたが、とってもいい匂いがするのであります♪\u3000安心できる匂いなのですっ」"
+translation = "「에헤헤♪ 처음으로 요미 선배가 안아주셨는데, 엄청 좋은 냄새가 나는 것이에요♪ 안심할 수 있는 냄새인 거예요」"
+
+[[dialogue]]
+speaker = "unk"
+original = "決して侮られていたわけではないものの、今までの反応と違った狛里の反応に、ヨミはほっと息を撫で下ろした。"
+translation = "결코 업신여겨진 것은 아니었지만, 지금까지의 반응과 달랐던 코마리의 반응에, 요미는 후우 하고 한숨을 돌렸다."
+
+[[dialogue]]
+speaker = "unk"
+original = "この信頼を裏切らないよう、これからも先輩として精進しよう……そんなことを改めて決意するのだった。"
+translation = "이 신뢰를 져버리지 않도록, 앞으로도 선배로서 정진하자…… 그런 것을 새삼 결의하는 것이었다."
+
+[[dialogue]]
+speaker = "unk"
+original = "と、そんな時。"
+translation = "그런 그때."
+
+[[dialogue]]
+speaker_original = "狛里"
+speaker_translation = "狛里"
+original = "「！\u3000モンスター出現のアラートであります！」"
+translation = "「! 몬스터 출현 알람인 것이에요!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "街には、先日戦ったライカンスウォームの群れが再び出現していた。"
+translation = "거리에는, 요전에 싸웠던 라이칸 스웜 무리가 다시 출현해 있었다."
+
+[[dialogue]]
+speaker = "unk"
+original = "──しかし、その数は先日の比ではない。数千匹クラスの狼の群れが流星市国を取り囲む大事件となっていた。"
+translation = "──하지만, 그 수는 요전과 비할 바가 아니다. 수천 마리 규모의 늑대 무리가 유성시국을 둘러싸는 대사건이 되어 있었다."
+
+[[dialogue]]
+speaker = "unk"
+original = "ヨミたちだけではない、その日、流星市国内にいたすべてのプリマステラに出動要請がかかった。"
+translation = "요미 일행뿐만 아니라, 그날, 유성시국 내에 있던 모든 프리마스테라에게 출동 요청이 내려졌다."
+
+[[dialogue]]
+speaker_original = "ライカンスウォーム"
+speaker_translation = "ライカンスウォーム"
+original = "「ガルルルルル！！」"
+translation = "「크르르르르!!」"
+
+[[dialogue]]
+speaker_original = "狛里"
+speaker_translation = "狛里"
+original = "「あの１匹だけ色が違うライカンスウォーム！\u3000群れのボスかもしれないのです！」"
+translation = "「저 한 마리만 색이 다른 라이칸 스웜! 무리의 보스일지도 모르는 거예요!」"
+
+[[dialogue]]
+speaker_original = "モンスターたち"
+speaker_translation = "モンスターたち"
+original = "「ガルオオォーーンッ！」"
+translation = "「크아아아아앙!」"
+
+[[dialogue]]
+speaker_original = "ヨミ"
+speaker_translation = "요미"
+original = "「色違いのライカンスウォームから分裂した！？」"
+translation = "「색이 다른 라이칸 스웜에게서 분열했다!?」"
+
+[[dialogue]]
+speaker_original = "ヨミ"
+speaker_translation = "요미"
+original = "「そうか。こんな大群がどこから現れたのかと思ったけど、こいつらは全部、ボスのコピーなんですね！」"
+translation = "「그렇구나. 이런 대군이 어디서 나타났나 싶었는데, 이 녀석들은 전부, 보스의 복제품이군요!」"
+
+[[dialogue]]
+speaker_original = "狛里"
+speaker_translation = "狛里"
+original = "「それなら、あのボスを倒すであります！」"
+translation = "「그러면, 저 보스를 처치하는 것이에요!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "狛里は反射的に前へ出ようとする。"
+translation = "코마리는 반사적으로 앞으로 나아가려 한다."
+
+[[dialogue]]
+speaker_original = "ヨミ"
+speaker_translation = "요미"
+original = "「待ってください！！」"
+translation = "「기다리세요!!」"
+
+[[dialogue]]
+speaker_original = "狛里"
+speaker_translation = "狛里"
+original = "「ヨミ先輩っ！？」"
+translation = "「요미 선배!?」"
+
+[[dialogue]]
+speaker_original = "ヨミ"
+speaker_translation = "요미"
+original = "「今日は無茶しちゃダメです！」"
+translation = "「오늘은 무리하면 안 돼요!」"
+
+[[dialogue]]
+speaker_original = "狛里"
+speaker_translation = "狛里"
+original = "「でも……！」"
+translation = "「하지만……!」"
+
+[[dialogue]]
+speaker_original = "ヨミ"
+speaker_translation = "요미"
+original = "「狛里！！」"
+translation = "「코마리!!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ヨミは真っ直ぐに彼女の目を見て言う。"
+translation = "요미는 똑바로 그녀의 눈을 보며 말한다."
+
+[[dialogue]]
+speaker_original = "ヨミ"
+speaker_translation = "요미"
+original = "「もっと、私たちを頼ってください」"
+translation = "「좀 더 저희를 의지해 주세요.」"
+
+[[dialogue]]
+speaker_original = "狛里"
+speaker_translation = "狛里"
+original = "「！」"
+translation = "「!」"
+
+[[dialogue]]
+speaker_original = "ヨミ"
+speaker_translation = "요미"
+original = "「さっきも話しましたが、学園には沢山の星騎士がいます。狛里１人じゃありません！」"
+translation = "「아까도 말씀드렸지만, 학원에는 수많은 성기사가 있어요. 코마리 혼자가 아니에요!」"
+
+[[dialogue]]
+speaker_original = "ヨミ"
+speaker_translation = "요미"
+original = "「そして――私は、あなたの先輩です！」"
+translation = "「그리고―― 저는 당신의 선배예요!」"
+
+[[dialogue]]
+speaker_original = "ヨミ"
+speaker_translation = "요미"
+original = "「だから、１人で無茶はしないで下さい」"
+translation = "「그러니까 혼자서 무모한 짓은 하지 말아 주세요.」"
+
+[[dialogue]]
+speaker_original = "ヨミ"
+speaker_translation = "요미"
+original = "「私も一緒に前線で戦います！！」"
+translation = "「저도 함께 전선에서 싸우겠어요!!」"
+
+[[dialogue]]
+speaker_original = "狛里"
+speaker_translation = "狛里"
+original = "「……！！」"
+translation = "「……!!」"
+
+[[dialogue]]
+speaker_original = "狛里"
+speaker_translation = "狛里"
+original = "「はいなのです！\u3000よろしくお願いするであります！」"
+translation = "「네인 것입니다! 잘 부탁드리는 바입니다!」"
+
+[[dialogue]]
+speaker_original = "狛里"
+speaker_translation = "狛里"
+original = "「狛里に力を貸してください、ヨミ先輩！！」"
+translation = "「코마리에게 힘을 빌려주세요, 요미 선배!!」"
+
+[[dialogue]]
+speaker_original = "ヨミ"
+speaker_translation = "요미"
+original = "「っ！\u3000この感覚は……！！」"
+translation = "「읏! 이 감각은……!!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ヨミの胸の奥で何かが灯る。"
+translation = "요미의 가슴 깊은 곳에서 무언가가 켜진다."
+
+[[dialogue]]
+speaker = "unk"
+original = "その頃──"
+translation = "그무렵──"
+
+[[dialogue]]
+speaker = "unk"
+original = "校門前で、クロトたち星徒会メンバーも、ライカンスウォームと交戦していた。"
+translation = "교문 앞에서, 쿠로토 일행인 성도회 멤버들도 라이칸 스웜과 교전하고 있었다."
+
+[[dialogue]]
+speaker_original = "ヴィーナス（覚醒）"
+speaker_translation = "비너스(각성)"
+original = "「ノヴァゴッデスビーム！！」"
+translation = "「노바 가디스 빔!!」"
+
+[[dialogue]]
+speaker_original = "ライカンスウォーム"
+speaker_translation = "ライカンスウォーム"
+original = "「ガルオォーーッ！？」"
+translation = "「크아아아앗!?」"
+
+[[dialogue]]
+speaker_original = "ヴィーナス（覚醒）"
+speaker_translation = "비너스(각성)"
+original = "「敵の数が多くて、いくら倒してもキリがないわ！」"
+translation = "「적의 수가 많아서 아무리 쓰러뜨려도 끝이 없어!」"
+
+[[dialogue]]
+speaker_original = "ヴィーナス（覚醒）"
+speaker_translation = "비너스(각성)"
+original = "「って、クロト！？\u3000どうかしたの！？」"
+translation = "「그나저나, 쿠로토!? 무슨 일이야!?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ヨミの『心の輝き』を感じる"
+translation = "요미의 『마음의 반짝임』을 느낀다"
+
+[[dialogue]]
+speaker = "unk"
+original = "クロトは離れた場所に、瞬く星のような輝きを感じ取っていた。"
+translation = "쿠로토는 떨어진 장소에서 반짝이는 별과 같은 빛을 감지하고 있었다."
+
+[[dialogue]]
+speaker = "unk"
+original = "確信があった。だから――"
+translation = "확신이 있었다. 그러니까――"
+
+[[dialogue]]
+speaker = "unk"
+original = "アルケインノヴァエクストリーム！！！"
+translation = "알케인 노바 익스트림!!!"
+
+[[dialogue]]
+speaker = "unk"
+original = "空に向けて手を掲げながら、叫んだ。"
+translation = "하늘을 향해 손을 치켜들며 외쳤다."
+
+[[dialogue]]
+speaker_original = "ヨミ"
+speaker_translation = "요미"
+original = "「！」"
+translation = "「!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "空高く昇った流星のような光が方向を変え、ヨミへ降り注ぐ。"
+translation = "하늘 높이 올라간 유성과 같은 빛이 방향을 바꾸어, 요미에게 쏟아져 내린다."
+
+[[dialogue]]
+speaker_original = "ヨミ"
+speaker_translation = "요미"
+original = "「この力は、会長の！？\u3000だとしたら、今こそ……！」"
+translation = "「이 힘은 회장님의!? 그렇다면 지금이야말로……!」"
+
+[[dialogue]]
+speaker_original = "ヨミ"
+speaker_translation = "요미"
+original = "「チェンジ――ノヴァフォーム！！」"
+translation = "「체인지―― 노바 폼!!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "光がヨミを包み込む――そして。"
+translation = "빛이 요미를 감싸 안는다―― 그리고."
+
+[[dialogue]]
+speaker_original = "ヨミ"
+speaker_translation = "요미"
+original = "「エクスノヴァフォーム、起動しました！！」"
+translation = "「엑스 노바 폼, 기동했습니다!!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ヨミの姿は、人工覚醒戦闘服へとフォームチェンジしていた。"
+translation = "요미의 모습은 인공 각성 전투복으로 폼 체인지되어 있었다."
+
+[[dialogue]]
+speaker_original = "狛里"
+speaker_translation = "狛里"
+original = "「ヨミ先輩の体から、すごい力を感じるのです！」"
+translation = "「요미 선배의 몸에서 엄청난 힘이 느껴지는 것입니다!」"
+
+[[dialogue]]
+speaker_original = "モンスターたち"
+speaker_translation = "モンスターたち"
+original = "「ガルルァッ！」"
+translation = "「크르르앗!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ヨミの体から発せられる星力の波動を感じてか、ライカンスウォームたちが一斉に動き出し、飛びかかってくる。"
+translation = "요미의 몸에서 뿜어져 나오는 성력의 파동을 느꼈는지, 라이칸 스웜들이 일제히 움직여 덤벼든다."
+
+[[dialogue]]
+speaker_original = "狛里"
+speaker_translation = "狛里"
+original = "「ヨミ先輩、敵が来るのです！」"
+translation = "「요미 선배, 적이 오는 것입니다!」"
+
+[[dialogue]]
+speaker_original = "ヨミ"
+speaker_translation = "요미"
+original = "（アニマ先輩が搭載したという<b>あの機能</b>が本当なら……！）"
+translation = "（아니마 선배가 탑재했다고 하는 <b>그 기능</b>이 사실이라면……!）"
+
+[[dialogue]]
+speaker_original = "ヨミ"
+speaker_translation = "요미"
+original = "「破邪の鈴！」"
+translation = "「파사의 방울!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "鈴を鳴らす。"
+translation = "방울을 울린다."
+
+[[dialogue]]
+speaker = "unk"
+original = "身体が舞う。"
+translation = "몸이 넘나든다."
+
+[[dialogue]]
+speaker = "unk"
+original = "祈りを捧げるように踊る。"
+translation = "기도를 올리듯 춤춘다."
+
+[[dialogue]]
+speaker = "unk"
+original = "今までできなかったはずの動きが、自然と身体から溢れてくる。"
+translation = "지금까지 할 수 없었을 터인 움직임이 자연스럽게 몸에서 넘쳐흘러 나온다."
+
+[[dialogue]]
+speaker_original = "ヨミ"
+speaker_translation = "요미"
+original = "「爆裂神楽――！！」"
+translation = "「폭렬 카구라――!!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "清らかな鈴音が響き渡った。"
+translation = "맑은 방울 소리가 울려 퍼졌다."
+
+[[dialogue]]
+speaker_original = "モンスターたち"
+speaker_translation = "モンスターたち"
+original = "「ガアアアッ！？」"
+translation = "「크아아앗!?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "襲いかかって来たライカンスウォームたちが浄化されて、次々と吹き飛んだ。"
+translation = "덤벼들던 라이칸 스웜들이 정화되어, 차례차례 튕겨져 나갔다."
+
+[[dialogue]]
+speaker_original = "狛里"
+speaker_translation = "狛里"
+original = "「ヨミ先輩の舞う姿……綺麗なのです！」"
+translation = "「요미 선배가 춤추는 모습…… 아름다워요!」"
+
+[[dialogue]]
+speaker_original = "ヨミ"
+speaker_translation = "요미"
+original = "「できた……！\u3000天ヶ崎の『巫女舞』！！」"
+translation = "「해냈다……! 아마가사키의 『무녀춤』!!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "これまで、『リズム感』が壊滅的で、舞を踊れなかったヨミ。"
+translation = "지금까지, 『리듬감』이 괴멸적이어서, 춤을 추지 못했던 요미."
+
+[[dialogue]]
+speaker = "unk"
+original = "しかし、人工戦闘服に搭載されたアニマ特性のアシストシステム『リズム感補正機能』により、ついに踊ることができるようになったのだ。"
+translation = "하지만, 인공 전투복에 탑재된 아니마 특성의 보조 시스템 『리듬감 보정 기능』 덕분에, 마침내 춤을 칠 수 있게 된 것이다."
+
+[[dialogue]]
+speaker_original = "ライカンスウォーム"
+speaker_translation = "ライカンスウォーム"
+original = "「ガルルルル……！」"
+translation = "「크르르르르……!」"
+
+[[dialogue]]
+speaker_original = "ヨミ"
+speaker_translation = "요미"
+original = "「狛里。あのボスを倒す為に、力を貸して下さい！」"
+translation = "「코마리. 저 보스를 쓰러뜨리기 위해, 힘을 보태주세요!」"
+
+[[dialogue]]
+speaker_original = "ヨミ"
+speaker_translation = "요미"
+original = "「２人で一緒に戦いましょう！」"
+translation = "「둘이서 함께 싸워요!」"
+
+[[dialogue]]
+speaker_original = "狛里"
+speaker_translation = "狛里"
+original = "「！\u3000はいっ、ヨミ先輩！」"
+translation = "「! 네, 요미 선배!」"
+
+[[dialogue]]
+speaker_original = "狛里"
+speaker_translation = "狛里"
+original = "「かしこまりましたであります！」"
+translation = ""
+
+[[dialogue]]
+speaker = "unk"
+original = "２人は肩を並べる。"
+translation = ""
+
+[[dialogue]]
+speaker = "unk"
+original = "先輩と後輩は共に駆け出し、群れを率いるボス個体へと挑むのだった。"
+translation = ""
+

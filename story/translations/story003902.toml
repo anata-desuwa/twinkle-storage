@@ -1,0 +1,324 @@
+[[dialogue]]
+speaker_original = "エルデリーゼ"
+speaker_translation = "엘데리제"
+original = "「お帰りなさいませ、ご主人様……」"
+translation = "「다녀오셨습니까, 주인님……」"
+
+[[dialogue]]
+speaker_original = "エルデリーゼ"
+speaker_translation = "엘데리제"
+original = "「メイドのエルデリーゼでございます。ご主人様、私になんなりとお申し付けくださいませ──ですわ♪」"
+translation = "「메이드 엘데리제라고 합니다. 주인님, 제게 무엇이든 명령해 주십시오──랍니다♪」"
+
+[[dialogue]]
+speaker_original = "ヘレナ"
+speaker_translation = "헬레나"
+original = "「実に見事な立ち振る舞いだな、エルデリーゼ嬢」"
+translation = "「참으로 훌륭한 품위로군, 엘데리제 양」"
+
+[[dialogue]]
+speaker_original = "エルデリーゼ"
+speaker_translation = "엘데리제"
+original = "「ありがとうございます。それにしても……美鶴様が仕立てを担当されたこのメイド風の人工戦闘服、本当に素晴らしいですわ」"
+translation = "「감사합니다. 그나저나…… 미츠루 님께서 맞춤 제작을 담당하신 이 메이드풍 인공 전투복, 정말로 멋지네요」"
+
+[[dialogue]]
+speaker_original = "ヘレナ"
+speaker_translation = "헬레나"
+original = "「うむ、戦闘服としての機能面はいつも通りアニマに任せているが、服飾部分は美鶴の仕事だ。今回はいつも以上に良い仕事をしてくれた」"
+translation = "「음, 전투복으로서의 기능면은 평소대로 아니마에게 맡겼지만, 복식 부분은 미츠루의 작품이다. 이번엔 평소 이상으로 좋은 일을 해주었어」"
+
+[[dialogue]]
+speaker_original = "美鶴"
+speaker_translation = "미츠루"
+original = "「ありがとうございます。やー、我ながらめちゃカワに仕上がりましたわ」"
+translation = "「감사합니다. 야~ 내가 만들었지만 진짜 졸귀로 완성됐다니까요」"
+
+[[dialogue]]
+speaker_original = "美鶴"
+speaker_translation = "미츠루"
+original = "「でも当主様、どういう心境の変化です？\u3000うちらはみんな和風メイドなのに、いきなり洋風メイドだなんて。や、作ってて楽しかったすけど」"
+translation = "「근데 당주님, 무슨 심경의 변화예요? 저희는 전부 와풍 메이드인데, 갑자기 양풍 메이드라니. 뭐, 만들면서 즐거웠지만요」"
+
+[[dialogue]]
+speaker_original = "ヘレナ"
+speaker_translation = "헬레나"
+original = "「なぁに、いつもの気まぐれというやつだ。たまには洋風メイドも良かろうと思ってな」"
+translation = "「무얼, 평소 같은 변덕이라는 거지. 가끔은 양풍 메이드도 좋지 않겠나 싶어서 말이다」"
+
+[[dialogue]]
+speaker_original = "ヘレナ"
+speaker_translation = "헬레나"
+original = "「モデルとして思い浮かべていたのがエルデリーゼ嬢だったので、さっそく屋敷に呼んで着てもらうことにしたのだが……大正解であったな」"
+translation = "「모델로서 떠올렸던 것이 엘데리제 양이었기에, 즉시 저택으로 불러 입혀보기로 했다만…… 대성공이었군」"
+
+[[dialogue]]
+speaker_original = "美鶴"
+speaker_translation = "미츠루"
+original = "「眼福ではありますけどね……恐れ多くも桜十路家のお嬢様にメイド服を着せようなんて、とんでもないこと考えるのたぶん当主様くらいっすよ……」"
+translation = "「눈호강이긴 합니다만…… 황송하게도 사쿠라쥬지가의 영애한테 메이드복을 입힐 생각을 하다니, 터무니없는 발상을 하는 건 아마 당주님 정도일 거라구요……」"
+
+[[dialogue]]
+speaker_original = "エルデリーゼ"
+speaker_translation = "엘데리제"
+original = "「うふふ、私もこんなに可愛いメイド服を着ることができて本当に嬉しいですわ」"
+translation = "「우후후, 저도 이렇게 귀여운 메이드복을 입을 수 있어서 정말 기쁜걸요」"
+
+[[dialogue]]
+speaker_original = "エルデリーゼ"
+speaker_translation = "엘데리제"
+original = "「実は以前、お屋敷に帰った時、当家のメイドにお洋服を交換してもらおうとしたこともあったのですけど……」"
+translation = "「사실 이전에, 저택으로 돌아갔을 때 저희 가문의 메이드에게 옷을 교환하자고 해본 적도 있었습니다만……」"
+
+[[dialogue]]
+speaker_original = "エルデリーゼ"
+speaker_translation = "엘데리제"
+original = "「メイドからは『とんでもございません！』と拒否され、それがばれてお母様からはこっ酷く叱られてしまって……諦めざるを得ませんでしたの」"
+translation = ""
+
+[[dialogue]]
+speaker_original = "美鶴"
+speaker_translation = "미츠루"
+original = "「へぇ～、それじゃ念願のメイド服なんすね～」"
+translation = ""
+
+[[dialogue]]
+speaker_original = "エルデリーゼ"
+speaker_translation = "엘데리제"
+original = "「ええ、思いもよらぬところで夢が叶ってしまいましたわ。重ね重ね、素晴らしいお洋服をありがとうございます」"
+translation = ""
+
+[[dialogue]]
+speaker_original = "エルデリーゼ"
+speaker_translation = "엘데리제"
+original = "「それで私はどのようなお仕事をすればよろしいでしょう？\u3000お掃除ですの？\u3000お洗濯ですの？」"
+translation = ""
+
+[[dialogue]]
+speaker_original = "美鶴"
+speaker_translation = "미츠루"
+original = "「え……働くつもり、なんすか？」"
+translation = ""
+
+[[dialogue]]
+speaker_original = "エルデリーゼ"
+speaker_translation = "엘데리제"
+original = "「もちろんですわ！\u3000メイド服を着たからには、メイドのお仕事をしなくてはなりませんの！」"
+translation = ""
+
+[[dialogue]]
+speaker_original = "美鶴"
+speaker_translation = "미츠루"
+original = "「っておっしゃってますけど、どうします？\u3000当主様」"
+translation = ""
+
+[[dialogue]]
+speaker_original = "ヘレナ"
+speaker_translation = "헬레나"
+original = "「着飾られるだけでは満足できぬというわけか。ふふ……さすがはエルデリーゼ嬢、私の目に狂いは無かったということだな」"
+translation = ""
+
+[[dialogue]]
+speaker_original = "ヘレナ"
+speaker_translation = "헬레나"
+original = "「よろしい、この際であるからメイドの仕事も体験して頂こう！\u3000美鶴、屋敷を案内し、仕事を手伝ってもらうがいい」"
+translation = ""
+
+[[dialogue]]
+speaker_original = "美鶴"
+speaker_translation = "미츠루"
+original = "「うぃっす、了解しました」"
+translation = ""
+
+[[dialogue]]
+speaker_original = "エルデリーゼ"
+speaker_translation = "엘데리제"
+original = "「ありがとうございます。では美鶴様、参りましょう」"
+translation = ""
+
+[[dialogue]]
+speaker_original = "美鶴"
+speaker_translation = "미츠루"
+original = "「──というわけでヨミー、協力よろ、ってことで」"
+translation = ""
+
+[[dialogue]]
+speaker_original = "ヨミ"
+speaker_translation = "요미"
+original = "「もー、そんなこと言って美鶴さん、またいつもの省エネモードに入るつもりじゃないんですか？」"
+translation = ""
+
+[[dialogue]]
+speaker_original = "美鶴"
+speaker_translation = "미츠루"
+original = "「いやいや、まさか。そんな事しませんって」"
+translation = ""
+
+[[dialogue]]
+speaker_original = "ヨミ"
+speaker_translation = "요미"
+original = "「あっ、失礼しました、エルデリーゼ様。私たちでお屋敷のご案内をさせていただきますね」"
+translation = ""
+
+[[dialogue]]
+speaker_original = "エルデリーゼ"
+speaker_translation = "엘데리제"
+original = "「よろしくお願いしますわ、ヨミ様」"
+translation = ""
+
+[[dialogue]]
+speaker_original = "ヨミ"
+speaker_translation = "요미"
+original = "「はいっ。……こや～、メイド服姿になってもお綺麗で、思わず見惚れてしまいます……」"
+translation = ""
+
+[[dialogue]]
+speaker_original = "エルデリーゼ"
+speaker_translation = "엘데리제"
+original = "「ありがとうございます。まるで生まれた時から着ていたかのようなシンデレラフィットですの」"
+translation = ""
+
+[[dialogue]]
+speaker_original = "エルデリーゼ"
+speaker_translation = "엘데리제"
+original = "「きっと美鶴様の腕が、とてもよろしいのですわね」"
+translation = ""
+
+[[dialogue]]
+speaker_original = "美鶴"
+speaker_translation = "미츠루"
+original = "「嬉しいっすね～。でも、シンデレラフィットってのも当然と言えば当然なんすよ」"
+translation = ""
+
+[[dialogue]]
+speaker_original = "美鶴"
+speaker_translation = "미츠루"
+original = "「だってそのメイド服はエルデリーゼ様のためのオーダーメイドっすからね」"
+translation = ""
+
+[[dialogue]]
+speaker_original = "エルデリーゼ"
+speaker_translation = "엘데리제"
+original = "「ヘレナ様が私をイメージして作ってくださったのですよね、本当に嬉しいです♪」"
+translation = ""
+
+[[dialogue]]
+speaker_original = "美鶴"
+speaker_translation = "미츠루"
+original = "「あー、それだけじゃなくてですね。これはちょっとした技術革新なんすよ」"
+translation = ""
+
+[[dialogue]]
+speaker_original = "エルデリーゼ"
+speaker_translation = "엘데리제"
+original = "「？\u3000どういうことですの？」"
+translation = ""
+
+[[dialogue]]
+speaker_original = "美鶴"
+speaker_translation = "미츠루"
+original = "「これまでの人工戦闘服はその力を引き出すために、その戦闘服に込められたテーマにアプローチする必要があったんすけど──」"
+translation = ""
+
+[[dialogue]]
+speaker_original = "美鶴"
+speaker_translation = "미츠루"
+original = "「最近の研究で、着用する対象者をきっかり定めて調整すれば、テーマにアプローチしなくてもすぐに力を引き出せるようになったんす」"
+translation = ""
+
+[[dialogue]]
+speaker_original = "エルデリーゼ"
+speaker_translation = "엘데리제"
+original = "「まあ、そうなんですのね！」"
+translation = ""
+
+[[dialogue]]
+speaker_original = "美鶴"
+speaker_translation = "미츠루"
+original = "「起動するだけならって話っすけどね。本当にそのフォームを使いこなそうと思ったら、やっぱ習熟と理解を深めた方がいいんすけど」"
+translation = ""
+
+[[dialogue]]
+speaker_original = "ヨミ"
+speaker_translation = "요미"
+original = "「やっぱり訓練は必要ってことなんですね～」"
+translation = ""
+
+[[dialogue]]
+speaker_original = "美鶴"
+speaker_translation = "미츠루"
+original = "「そそ」"
+translation = ""
+
+[[dialogue]]
+speaker_original = "エルデリーゼ"
+speaker_translation = "엘데리제"
+original = "「問題ありませんわ！\u3000私、お勉強も訓練も大好物ですの！」"
+translation = ""
+
+[[dialogue]]
+speaker_original = "エルデリーゼ"
+speaker_translation = "엘데리제"
+original = "「戦闘服の理解を深めるということは……メイドのなんたるかを知るのが大切ですわね！\u3000ヨミ様、美鶴様、メイドの極意、ご教授くださいませ！」"
+translation = ""
+
+[[dialogue]]
+speaker_original = "美鶴"
+speaker_translation = "미츠루"
+original = "「メイドの極意なんて大層なコト、うちに聞くのは間違ってますんで～。その辺はヨミー、よろしく～」"
+translation = ""
+
+[[dialogue]]
+speaker_original = "ヨミ"
+speaker_translation = "요미"
+original = "「こやぁーん！？\u3000私にも荷が重いです！\u3000メイドのことならメイド長に聞くのが１番では──」"
+translation = ""
+
+[[dialogue]]
+speaker_original = "ヨミ"
+speaker_translation = "요미"
+original = "「ん？\u3000そこの茂み、ちょっと動きませんでしたか？」"
+translation = ""
+
+[[dialogue]]
+speaker_original = "？？？"
+speaker_translation = "？？？"
+original = "「ぎくっ」"
+translation = ""
+
+[[dialogue]]
+speaker_original = "エルデリーゼ"
+speaker_translation = "엘데리제"
+original = "「そこにいらっしゃるのは──どなたですのっ！？」"
+translation = ""
+
+[[dialogue]]
+speaker_original = "？？？"
+speaker_translation = "？？？"
+original = "「ヒマワリちゃん、避けて！」"
+translation = ""
+
+[[dialogue]]
+speaker_original = "ヒマワリ"
+speaker_translation = "히마와리"
+original = "「ひゃあっ！？\u3000あ、危なかったぁ！」"
+translation = ""
+
+[[dialogue]]
+speaker_original = "ミウ"
+speaker_translation = "미우"
+original = "「エルデリーゼ先輩……！？\u3000桜十路のお嬢様が、どうして九浄家に……！？」"
+translation = ""
+
+[[dialogue]]
+speaker_original = "エルデリーゼ"
+speaker_translation = "엘데리제"
+original = "「あなたたち、何者ですの！？\u3000曲者です！\u3000皆の者、出合え出合えですわー！」"
+translation = ""
+
+[[dialogue]]
+speaker_original = "ヨミ"
+speaker_translation = "요미"
+original = "（ヒマワリ、と叫んでいたように思いましたけど……それじゃあの２人、ヒマワリさんとミウさん？）"
+translation = ""
+

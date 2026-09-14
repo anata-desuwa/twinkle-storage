@@ -1,0 +1,390 @@
+[[dialogue]]
+speaker = "unk"
+original = "第１話,ヒマワリの告白,P"
+translation = ""
+
+[[dialogue]]
+speaker_original = "セナリィ"
+speaker_translation = "세나리"
+original = "「むむぅ……」"
+translation = ""
+
+[[dialogue]]
+speaker_original = "ヒマワリ"
+speaker_translation = "히마와리"
+original = "「これでよしっと。セナリィ社長、昨晩のモンスター捕獲大作戦の報告書完成しました。確認をお願いしま～す」"
+translation = ""
+
+[[dialogue]]
+speaker_original = "セナリィ"
+speaker_translation = "세나리"
+original = "「相変わらず仕事がチョッパヤですわね。確認しますわ」"
+translation = ""
+
+[[dialogue]]
+speaker_original = "セナリィ"
+speaker_translation = "세나리"
+original = "「ふむふむ……要点は完璧に抑えてますし、記載内容にも不備なし。問題ありませんわ、ヒマワリ。ご苦労様」"
+translation = ""
+
+[[dialogue]]
+speaker_original = "ヒマワリ"
+speaker_translation = "히마와리"
+original = "「ありがとうございまーす！\u3000えへへ、褒められたー」"
+translation = ""
+
+[[dialogue]]
+speaker_original = "セナリィ"
+speaker_translation = "세나리"
+original = "「ところでヒマワリ。仕事に打ち込んでくれるのはとても有難いし、助かってますけど、プライベートはどうなっていますの？」"
+translation = "「그건 그렇고, 히마와리. 일에 열중해 주는 건 정말 고맙고 도움도 되고 있습니다만, 개인적인 시간은 어떻게 보내고 계신가요?」"
+
+[[dialogue]]
+speaker_original = "ヒマワリ"
+speaker_translation = "히마와리"
+original = "「プライベート、ですか？\u3000ご心配なく！」"
+translation = "「개인적인 시간 말인가요? 걱정 마세요!」"
+
+[[dialogue]]
+speaker_original = "ヒマワリ"
+speaker_translation = "히마와리"
+original = "「ちゃんとゲームもやってますし、アニメも見てますし、プラモも作って、毎日遊んでますよ！\u3000今期はロボアニメが不作なのが残念なんですけどね」"
+translation = "「게임도 제대로 하고 있고, 애니메이션도 보고 있고, 프라모델도 만들면서 매일 놀고 있거든요! 이번 분기는 로봇 애니메이션이 불작인 게 좀 아쉽지만요.」"
+
+[[dialogue]]
+speaker_original = "セナリィ"
+speaker_translation = "세나리"
+original = "（学園に真面目に通って、日々の任務もこなしながら、どうやってそれだけの遊びの時間を捻出してるんですの？\u3000ヒマワリだけ１日５０時間あるんですの？）"
+translation = "（학원에 성실히 다니고 매일 임무도 해내면서, 도대체 어떻게 그만큼의 놀 시간을 만들어내는 걸까요? 히마와리만 하루가 50시간이라도 되는 건가요?）"
+
+[[dialogue]]
+speaker_original = "セナリィ"
+speaker_translation = "세나리"
+original = "「そういったプライベートではなく……えー、どう尋ねればいいのかしら……上司からのセクハラになってしまわないかしら……」"
+translation = ""
+
+[[dialogue]]
+speaker_original = "ミウ"
+speaker_translation = "미우"
+original = "「ヒマワリちゃん、セナリィ社長が聞きたいプライベートはそこじゃないと思うよ」"
+translation = "「히마와리짱, 세나리 사장님이 듣고 싶어 하는 개인적인 시간은 그게 아닌 것 같은데.」"
+
+[[dialogue]]
+speaker_original = "ヒマワリ"
+speaker_translation = "히마와리"
+original = "「んん？\u3000そこじゃないなら、どこ？」"
+translation = "「응? 그게 아니라면 어디?」"
+
+[[dialogue]]
+speaker_original = "ミウ"
+speaker_translation = "미우"
+original = "「社長が聞きたいのは、会長さんとのプライベート、ですよね？」"
+translation = "「사장님이 듣고 싶은 건 회장님과의 개인적인 시간, 맞죠?」"
+
+[[dialogue]]
+speaker_original = "ミウ"
+speaker_translation = "미우"
+original = "「会長さんとヒマワリちゃんがお付き合いを始めたことはもっぱらの噂ですけど、２人の様子は以前と変わりなく、付き合っているようには見えない」"
+translation = "「회장님과 히마와리짱이 사귀기 시작했다는 건 파다한 소문이지만, 두 사람의 모습은 이전과 다름없어서 사귀는 것처럼 보이지 않거든.」"
+
+[[dialogue]]
+speaker_original = "ミウ"
+speaker_translation = "미우"
+original = "「ちゃんと会ってるのか、恋人らしくデートしてるのか。社長はその辺が気になっているんだと思うよ」"
+translation = "「제대로 만나고 있는지, 연인답게 데이트는 하고 있는지. 사장님은 그런 부분이 궁금한 거라고 생각해.」"
+
+[[dialogue]]
+speaker_original = "セナリィ"
+speaker_translation = "세나리"
+original = "「心を読んだかのように代弁してくれましたわね！\u3000そう、そこなんですのよ。ヒマワリの口から会長様の名が出たこともほとんどありませんし」"
+translation = "「마음을 읽은 것처럼 대변해 주셨군요! 그래요, 바로 그거예요. 히마와리의 입에서 회장님의 이름이 나온 적도 거의 없었고요.」"
+
+[[dialogue]]
+speaker_original = "セナリィ"
+speaker_translation = "세나리"
+original = "「ヒマワリは本当に、会長様とお付き合いされてるんですの？」"
+translation = "「히마와리는 정말로 회장님과 사귀고 계신 건가요?」"
+
+[[dialogue]]
+speaker_original = "ヒマワリ"
+speaker_translation = "히마와리"
+original = "「あー、そこでしたかー。もっと気軽に聞いてくれても全然良かったのにー」"
+translation = "「아-, 그거였나요-. 좀 더 편하게 물어보셨어도 전혀 상관없었는데-」"
+
+[[dialogue]]
+speaker_original = "ヒマワリ"
+speaker_translation = "히마와리"
+original = "「はい、もちろん！\u3000会長さんとお付き合いしてますよー！」"
+translation = "「네, 물론이죠! 회장님과 사귀고 있어요-!」"
+
+[[dialogue]]
+speaker_original = "ミウ"
+speaker_translation = "미우"
+original = "「どんな風にお付き合いが始まったのか、セナリィ社長は興味ありそうだよ」"
+translation = "「어떤 계기로 사귀기 시작했는지, 세나리 사장님이 흥미가 있어 보여.」"
+
+[[dialogue]]
+speaker_original = "セナリィ"
+speaker_translation = "세나리"
+original = "「べ、別に？\u3000人様の恋愛事情に興味なんてありませんけど？\u3000あまり踏み込むのも野暮ですし？\u3000いつ？\u3000どこで？\u3000どちらから告白しましたの？」"
+translation = "「딱, 딱히요? 남의 연애 사정에 흥미 따위 없는데요? 너무 깊이 파고드는 것도 눈치 없는 짓이고요? 언제? 어디서? 어느 쪽이 고백했나요?」"
+
+[[dialogue]]
+speaker_original = "ヒマワリ"
+speaker_translation = "히마와리"
+original = "「あはは、めっちゃ興味津々じゃないですか。隠すことでもないですし、お話ししますよ？」"
+translation = "「아하하, 엄청 흥미진진하시잖아요. 숨길 일도 아니니 이야기해 드릴까요?」"
+
+[[dialogue]]
+speaker_original = "ヒマワリ"
+speaker_translation = "히마와리"
+original = "「と言っても、ラブレターを渡したりーとか校舎裏に呼び出したりーとか少女漫画みたいなロマンチックな話でもないんですよね」"
+translation = "「이라고 해도, 러브레터를 전달한다거나 학교 뒤편으로 불러낸다거나 하는 순정만화 같은 로맨틱한 이야기는 아니지만요.」"
+
+[[dialogue]]
+speaker_original = "ヒマワリ"
+speaker_translation = "히마와리"
+original = "「会長さんとはしょっちゅう秋葉原に行ってた遊び仲間だったんですよ。プラモ買ったり、ゲーセンで対戦したり、アニメとコラボしてるコンカフェに行ったり」"
+translation = "「회장님과는 자주 아키하바라에 가던 놀이 친구였어요. 프라모델도 사고, 오락실에서 대전도 하고, 애니메이션과 콜라보하는 컨셉 카페에 가기도 하고.」"
+
+[[dialogue]]
+speaker_original = "ヒマワリ"
+speaker_translation = "히마와리"
+original = "「最初は年下のあたしに合わせてくれてるだけなのかなーって思ってたんですけど、あたしと会長さんの趣味、バッチリ噛み合ってたんですよね」"
+translation = "「처음에는 연하인 나한테 맞춰주는 것 뿐인가- 하고 생각했었는데, 나랑 회장님의 취향이 딱 들어맞았단 말이죠.」"
+
+[[dialogue]]
+speaker_original = "ヒマワリ"
+speaker_translation = "히마와리"
+original = "「あたしの欲しいところにズバーンと刺さること言ってくれたり、話してるだけでもすっごく楽しいし」"
+translation = "「내가 원하는 부분을 콕 짚어서 말해주기도 하고, 이야기하는 것만으로도 너무 즐겁고.」"
+
+[[dialogue]]
+speaker_original = "ヒマワリ"
+speaker_translation = "히마와리"
+original = "「年上ですごく偉い人なのに、遠慮のいらない関係っていうか……あ、いい意味でですよ？\u3000いい意味で」"
+translation = "「연상에 엄청 높은 분인데도 조심할 필요 없는 관계랄까…… 아, 좋은 의미로요! 좋은 의미로.」"
+
+[[dialogue]]
+speaker_original = "ヒマワリ"
+speaker_translation = "히마와리"
+original = "「でも、会長さんって、いざっていう時、めっちゃ頼りになるじゃないですか」"
+translation = "「하지만 회장님은 정작 중요할 때 엄청 의지가 되잖아요.」"
+
+[[dialogue]]
+speaker_original = "セナリィ"
+speaker_translation = "세나리"
+original = "「……わかりますわ」"
+translation = "「……이해해요.」"
+
+[[dialogue]]
+speaker_original = "ヒマワリ"
+speaker_translation = "히마와리"
+original = "「モンスターに襲われて、大ピンチだったとこを助けてもらった時なんて、すっごくカッコよくて！\u3000ヒーローじゃん！\u3000って！\u3000キュンってしちゃって！」"
+translation = "「몬스터에게 공격받아서 위기일 때 도와주셨을 때 같은 건 정말 멋져서! 영웅이잖아! 하고! 쿵쾅거려 버려서!」"
+
+[[dialogue]]
+speaker_original = "ヒマワリ"
+speaker_translation = "히마와리"
+original = "「だから、こう……勢いで告白したとかじゃなくて、ちゃんとした要因が積み重なってるんですよね」"
+translation = "「그러니까, 뭐랄까…… 홧김에 고백했다거나 한 게 아니라, 확실한 요인이 쌓여 있었던 거죠.」"
+
+[[dialogue]]
+speaker_original = "ヒマワリ"
+speaker_translation = "히마와리"
+original = "「あたし相場的に下落要素ゼロ！\u3000あとは上昇傾向だけ！\u3000みたいな？」"
+translation = "「내 시세로 치면 하락 요소 제로! 남은 건 상승 경향뿐! 같은 느낌?」"
+
+[[dialogue]]
+speaker_original = "ミウ"
+speaker_translation = "미우"
+original = "「ヒマワリちゃんって感覚型だけど、そういうとこはしっかりしてるよね」"
+translation = "「히마와리짱은 감각파지만, 그런 부분은 확실하네.」"
+
+[[dialogue]]
+speaker_original = "ヒマワリ"
+speaker_translation = "히마와리"
+original = "「そう決まったら、あたし、会長さんのこと好き好き大好き！\u3000ってなっちゃったんで──」"
+translation = "「그렇게 마음먹고 나니까, 나, 회장님이 좋아 좋아 너무 좋아! 상태가 돼버려서──」"
+
+[[dialogue]]
+speaker_original = "ヒマワリ"
+speaker_translation = "히마와리"
+original = "「会長さん、あたしと付き合ってください！」"
+translation = "「회장님, 저랑 사귀어 주세요!」"
+
+[[dialogue]]
+speaker_original = "ヒマワリ"
+speaker_translation = "히마와리"
+original = "「──って感じに、あたしから告白したら、その場でＯＫしてもらえたんです。それで今に至ってます」"
+translation = "「──라는 느낌으로 제가 고백했더니, 그 자리에서 OK 해주셨어요. 그래서 지금에 이른 거랍니다.」"
+
+[[dialogue]]
+speaker_original = "ヒマワリ"
+speaker_translation = "히마와리"
+original = "「あはは、映画みたいにドラマチックじゃなくてごめんなさい。あんまり面白くないですよねー」"
+translation = "「아하하, 영화처럼 드라마틱하지 않아서 죄송해요. 별로 재미없죠-」"
+
+[[dialogue]]
+speaker_original = "セナリィ"
+speaker_translation = "세나리"
+original = "「そ、そんなことありませんわよ。むしろ生々しいというか……真実味がありましたわね」"
+translation = "「그, 그렇지 않아요. 오히려 생생하다고 해야 할지…… 진실성이 있었어요.」"
+
+[[dialogue]]
+speaker_original = "ミウ"
+speaker_translation = "미우"
+original = "「でも、ヒマワリちゃん、結構最初から会長さんに好き好きオーラ出してなかった？」"
+translation = "「하지만 히마와리짱, 꽤 처음부터 회장님한테 좋아 좋아 오라를 내뿜지 않았어?」"
+
+[[dialogue]]
+speaker_original = "ヒマワリ"
+speaker_translation = "히마와리"
+original = "「そ、そうだったー？\u3000ミウから見て、あたし、そんなだったー？」"
+translation = "「그, 그랬나-? 미우가 보기에 나 그렇게 보였어-?」"
+
+[[dialogue]]
+speaker_original = "ミウ"
+speaker_translation = "미우"
+original = "「例えばだけど……会長さん相手だとボディタッチが多かったと思うよ。ハイタッチしたり、抱きついたり」"
+translation = "「예를 들면 말인데…… 회장님 상대라면 스킨십이 많았다고 생각해. 하이파이브를 하거나, 껴안거나.」"
+
+[[dialogue]]
+speaker_original = "ヒマワリ"
+speaker_translation = "히마와리"
+original = "「えー？\u3000そんなこと……あれ？\u3000あった、かも……？\u3000他の男の子にはしないのに……」"
+translation = "「에-? 그런 적이…… 어라? 있었, 지도……? 다른 남자애들한테는 안 하는데……」"
+
+[[dialogue]]
+speaker_original = "ミウ"
+speaker_translation = "미우"
+original = "「だよね。他の男の人とはちょっと違うんだなって伝わってたよ」"
+translation = "「그렇지. 다른 남자 사람과는 조금 다르다는 게 전달되고 있었어.」"
+
+[[dialogue]]
+speaker_original = "ヒマワリ"
+speaker_translation = "히마와리"
+original = "「そこまでー！？」"
+translation = "「그 정도까지-!?」"
+
+[[dialogue]]
+speaker_original = "ミウ"
+speaker_translation = "미우"
+original = "「会長さんと秋葉原デートの話をしてる時も、ヒマワリちゃん、ずっとニコニコで、女の子の顔になってたもん」"
+translation = "「회장님과 아키하바라 데이트 이야기를 할 때도 히마와리짱은 내내 싱글벙글하면서 여자아이의 얼굴이 되어 있었는걸.」"
+
+[[dialogue]]
+speaker_original = "ヒマワリ"
+speaker_translation = "히마와리"
+original = "「うぁー！\u3000ほんとに！？\u3000あたし、昔っから会長さんのこと好きすぎだったんじゃーん！？」"
+translation = "「우아-! 정말로!? 나 예전부터 회장님을 너무 좋아했던 거잖아-!?」"
+
+[[dialogue]]
+speaker_original = "セナリィ"
+speaker_translation = "세나리"
+original = "「ふふ、お付き合いに至った今となっては、微笑ましいだけですわね」"
+translation = "「후후, 사귀게 된 지금에 와서는 그저 미소지울 뿐이네요.」"
+
+[[dialogue]]
+speaker_original = "セナリィ"
+speaker_translation = "세나리"
+original = "「有難いことにゴールデングースの知名度も上がったお陰で、引っ張りだこ。休みらしい休みもありませんでしたわよね？」"
+translation = "「감사하게도 골든 구스의 인지도도 올라간 덕분에 눈코 뜰 새 없이 바빠졌죠. 쉬는 날다운 쉬는 날도 없지 않았나요?」"
+
+[[dialogue]]
+speaker_original = "セナリィ"
+speaker_translation = "세나리"
+original = "「それがあなたの負担になっているのだとしたら、私の望むところではありませんわ」"
+translation = "「그것이 당신에게 부담이 되고 있다면, 제가 바라는 바가 아닙니다.」"
+
+[[dialogue]]
+speaker_original = "セナリィ"
+speaker_translation = "세나리"
+original = "「あなたは私の社員である前に、青春を謳歌するべき少女なのですから」"
+translation = ""
+
+[[dialogue]]
+speaker_original = "ヒマワリ"
+speaker_translation = "히마와리"
+original = "「だ、大丈夫です！\u3000お気遣いなく！\u3000ちゃんとデートもしてますし……うぁー、あたし、そんなんだったんだー……」"
+translation = "「괜, 괜찮습니다! 신경 쓰지 마세요! 데이트도 제대로 하고 있고…… 우아-, 나 그런 상태였구나-……」"
+
+[[dialogue]]
+speaker_original = "セナリィ"
+speaker_translation = "세나리"
+original = "「それで？\u3000お、おふたりの関係はどこまで進んでいるのかしら？\u3000いえ、野暮な話ではなくて、そう、私の社員として、聞いておかねば業務に支障が出かねませんから！」"
+translation = "「그래서? 두, 두 분의 관계는 어디까지 진행되어 있나요? 아니, 눈치 없는 이야기가 아니라, 그래요, 제 사원으로서 들어두지 않으면 업무에 차질이 생길 수 있으니까요!」"
+
+[[dialogue]]
+speaker_original = "ヒマワリ"
+speaker_translation = "히마와리"
+original = "「──ってことが事務所でありましてねー。セナリィ社長に根掘り葉掘り聞かれたんですよー」"
+translation = "「──라는 일이 사무실에서 있어서 말이죠-. 세나리 사장님이 이것저것 꼬치꼬치 물어보셨어요-」"
+
+[[dialogue]]
+speaker = "unk"
+original = "なんて答えたの？"
+translation = "뭐라고 대답했어?"
+
+[[dialogue]]
+speaker_original = "ヒマワリ"
+speaker_translation = "히마와리"
+original = "「いろいろ話しちゃいましたよ。セナリィ社長に隠すことでもないですし」"
+translation = "「여러 가지 다 얘기해 버렸죠. 세나리 사장님께 숨길 것도 아니니까요」"
+
+[[dialogue]]
+speaker = "unk"
+original = "もしや、あんなことやこんなことまで！？"
+translation = "설마, 그런 일이나 이런 일까지!?"
+
+[[dialogue]]
+speaker = "unk"
+original = "いろいろ！？"
+translation = "여러 가지!?"
+
+[[dialogue]]
+speaker_original = "ヒマワリ"
+speaker_translation = "히마와리"
+original = "「んもー、会長さんってば何を慌ててるんですー？\u3000心配しないでくださいよー」"
+translation = "「증말~, 회장님도 참 뭘 그렇게 당황하시는 거예요~? 걱정하지 마세요~」"
+
+[[dialogue]]
+speaker_original = "ヒマワリ"
+speaker_translation = "히마와리"
+original = "「いくらあたしでも、深～いとこまで言うわけないじゃないですか～」"
+translation = "「아무리 저라도 깊~은 곳까지 말할 리가 없잖아요~」"
+
+[[dialogue]]
+speaker_original = "ヒマワリ"
+speaker_translation = "히마와리"
+original = "「あんなことやこんなことはー……ミウにしか話してないですよ」"
+translation = "「그런 일이나 이런 일은~…… 미우한테밖에 안 했다고요」"
+
+[[dialogue]]
+speaker = "unk"
+original = "話したの！？"
+translation = "말했어!?"
+
+[[dialogue]]
+speaker = "unk"
+original = "えっ……！？"
+translation = "어……!?"
+
+[[dialogue]]
+speaker_original = "ヒマワリ"
+speaker_translation = "히마와리"
+original = "「やー、親友には隠しておけないっていうか……言うまでもなく、ミウにはすぐバレちゃったんですよねー」"
+translation = "「야~, 절친한테는 숨겨둘 수 없다고나 할까…… 말할 것도 없이, 미우한테는 바로 들켜버렸지만요~」"
+
+[[dialogue]]
+speaker_original = "ヒマワリ"
+speaker_translation = "히마와리"
+original = "「あたし、そんなに顔に出るのかなー。ミウが鋭すぎるんだと思うんですけどー。ま、ミウなら口は堅いですし問題ないですよ」"
+translation = "「나, 그렇게 얼굴에 티가 나나~. 미우가 너무 예리한 거라고 생각하지만요~. 뭐, 미우라면 입이 무거우니까 문제없어요」"
+
+[[dialogue]]
+speaker_original = "ヒマワリ"
+speaker_translation = "히마와리"
+original = "「というわけで、すっかり会社公認の仲なんで。会長さん、これからも末永く、よろしくお願いしますねっ<emoji=heart04>」"
+translation = "「그런 고로, 완전히 회사 공인의 사이니까요. 회장님, 앞으로도 오래오래 잘 부탁드려요<emoji=heart04>」"
+
