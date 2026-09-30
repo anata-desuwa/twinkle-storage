@@ -166,7 +166,7 @@ translation = "「어째서 인간계에 있는 것인가요!?」"
 [[dialogue]]
 speaker = "unk"
 original = "ライカンスウォームは、本来なら魔界に生息している原生生物である。"
-translation = "라이칸 스웜은 본래 마계에 서식하는 원생생물이다."
+translation = "라이칸 스웜은 원래대로라면 마계에 생식하고 있는 원생생물이다."
 
 [[dialogue]]
 speaker_original = "ヨミ"
@@ -178,7 +178,7 @@ translation = "「경보 시스템의 반응, 그리고 아스테라에서 출�
 speaker_original = "ヨミ"
 speaker_translation = "요미"
 original = "「あれはライカンスウォームの姿を模したモンスター！？\u3000でもそんなの、見たことも聞いたこともありませんっ！」"
-translation = "「저건 라이칸 스웜의 모습을 흉내 낸 몬스터!? 하지만 그런 건 본 적도 들은 적도 없어요!」"
+translation = "「저건 라이칸 스웜의 모습을 흉내 낸 몬스터!? 하지만 그런 거, 본 적도 들은 적도 없습니다!」"
 
 [[dialogue]]
 speaker_original = "狛里"
@@ -196,18 +196,18 @@ translation = "「코마리 씨!?」"
 speaker_original = "狛里"
 speaker_translation = "狛里"
 original = "「大丈夫であります！\u3000ライカンスウォームなら、辺境で嫌っていうほど相手にしてきたのです！」"
-translation = "「괜찮은 것입니다! 라이칸 스웜이라면 변방에서 지겹도록 상대해 본 것입니다!」"
+translation = "「괜찮은 것입니다! 라이칸 스웜이라면 변방에서 질릴 정도로 상대해 왔던 것입니다!」"
 
 [[dialogue]]
 speaker = "unk"
 original = "そう言うなり、狛里は群れへ向かって駆け出し始める。"
-translation = "그렇게 말하자마자, 코마리는 무리를 향해 달려나가기 시작한다."
+translation = "그렇게 말하자마자, 코마리는 무리를 향해 뛰어나가기 시작한다."
 
 [[dialogue]]
 speaker_original = "ヨミ"
 speaker_translation = "요미"
 original = "「待ってください！\u3000１人でそんな前に出ちゃ……！」"
-translation = "「기다리세요! 혼자서 그렇게 앞으로 나가면……!」"
+translation = "「기다리세요! 혼자서 그렇게 앞으로 나서면……!」"
 
 [[dialogue]]
 speaker_original = "狛里"
@@ -218,24 +218,24 @@ translation = "「하아아앗!!」"
 [[dialogue]]
 speaker = "unk"
 original = "狛里は群れの中心へ飛び込んでいく。"
-translation = "코마리는 무리의 한가운데로 뛰어든다."
+translation = "코마리는 무리의 중심 속으로 튀어 들어간다."
 
 [[dialogue]]
 speaker_original = "ライカンスウォーム"
 speaker_translation = "ライカンスウォーム"
 original = "「ガルルルァッ！」"
-translation = "「크르르앗!」"
+translation = "「크르르르앗!」"
 
 [[dialogue]]
 speaker_original = "狛里"
 speaker_translation = "狛里"
 original = "「ばうわふっ！！」"
-translation = "「바우와프!!」"
+translation = "「바우와후!!」"
 
 [[dialogue]]
 speaker = "unk"
 original = "そして、まるで獣同士がぶつかり合うような荒々しい戦いを繰り広げる。"
-translation = "그리고 마치 짐승끼리 부딪치는 듯한 거친 전투를 펼친다."
+translation = "그리고 마치 짐승들끼리 부딪치는 것 같은 거친 싸움을 펼친다."
 
 [[dialogue]]
 speaker_original = "狛里"
@@ -280,34 +280,34 @@ translation = "「크아앗!」"
 speaker_original = "狛里"
 speaker_translation = "狛里"
 original = "「甘いであります！」"
-translation = "「무른 것입니다!」"
+translation = "「어설픈 것입니다!」"
 
 [[dialogue]]
 speaker_original = "ヨミ"
 speaker_translation = "요미"
 original = "「はぁっ！\u3000爆裂鈴音！」"
-translation = "「하앗! 폭렬방울 소리!」"
+translation = "「하앗! 폭렬방울소리!」"
 
 [[dialogue]]
 speaker = "unk"
 original = "ヨミは狛里がカバーしきれない範囲のライカンスウォームを、狛里の背後を守りながら倒していく。"
-translation = "요미는 코마리가 전부 커버하지 못하는 범위의 라이칸 스웜을, 코마리의 등 뒤를 지키며 쓰러뜨려 간다."
+translation = "요미는 코마리가 전부 커버하지 못하는 범위의 라이칸 스웜을, 코마리의 등 뒤를 지키면서 쓰러뜨려 간다."
 
 [[dialogue]]
 speaker = "unk"
 original = "とはいえ、狛里の撃破数は圧倒的だ。短時間でヨミの数倍のライカンスウォームを倒していた。"
-translation = "그렇다고는 하나, 코마리의 격파 수는 압도적이다. 짧은 시간에 요미의 수배에 달하는 라이칸 스웜을 쓰러뜨리고 있었다."
+translation = "그렇다고는 하나, 코마리의 격파 수는 압도적이다. 짧은 시간에 요미의 수배나 되는 라이칸 스웜을 쓰러뜨리고 있었다."
 
 [[dialogue]]
 speaker_original = "ヨミ"
 speaker_translation = "요미"
 original = "（戦闘に関しては、私が口を出さなくても大丈夫なんじゃ……）"
-translation = "(전투에 관해서는 내가 참견하지 않아도 괜찮은 게……)"
+translation = "(전투에 관해서는, 내가 참견하지 않아도 괜찮은 거 아닌가……)"
 
 [[dialogue]]
 speaker = "unk"
 original = "そう思いかけたところで――ふと違和感を覚える。"
-translation = "막 그렇게 생각하려던 차에―― 문득 위화감을 느낀다."
+translation = "그렇게 생각하려던 찰나――문득 위화감을 느낀다."
 
 [[dialogue]]
 speaker_original = "狛里"
@@ -319,7 +319,7 @@ translation = "「하아…… 하아……!」"
 speaker_original = "ヨミ"
 speaker_translation = "요미"
 original = "（あれ？\u3000狛里さんの動きが、少しずつ荒くなって……）"
-translation = "(어라? 코마리 씨의 움직임이 조금씩 거칠어지고……)"
+translation = "(어라? 코마리 씨의 움직임이 조금씩 거칠어져서……)"
 
 [[dialogue]]
 speaker = "unk"
@@ -336,7 +336,7 @@ translation = "(메이드 일을 할 때와 같아……)"
 speaker_original = "ヨミ"
 speaker_translation = "요미"
 original = "（ペース配分無視の全力全開、オーバーペース）"
-translation = "(페이스 조절을 무시한 전력 전개, 오버 페이스)"
+translation = "(페이스 조절을 무시한 전력전개, 오버 페이스)"
 
 [[dialogue]]
 speaker = "unk"
@@ -346,7 +346,7 @@ translation = "판단에 망설인다."
 [[dialogue]]
 speaker = "unk"
 original = "先輩としてグングンと先行していく狛里を止めるべきか。それとも狛里の判断を信じるべきか。"
-translation = "선배로서 쭉쭉 앞서나가는 코마리를 멈춰야 할까. 아니면 코마리의 판단을 믿어야 할까."
+translation = "선배로서 쭉쭉 선행해 나가는 코마리를 멈춰야 할까. 아니면 코마리의 판단을 믿어야 할까."
 
 [[dialogue]]
 speaker = "unk"
@@ -368,7 +368,7 @@ translation = "「큭!?」"
 [[dialogue]]
 speaker = "unk"
 original = "死角から飛び出した一体が、狛里の腕を爪で切り裂いた。"
-translation = "사각에서 뛰어내린 한 마리가 코마리의 팔을 손톱으로 찢었다."
+translation = "사각에서 튀어나온 한 마리가 코마리의 팔을 손톱으로 베어 갈랐다."
 
 [[dialogue]]
 speaker_original = "ヨミ"
@@ -379,13 +379,13 @@ translation = "「앗, 코마리 씨!!」"
 [[dialogue]]
 speaker = "unk"
 original = "ヨミは狛里を助ける為に飛び出す。"
-translation = "요미는 코마리를 구하기 위해 뛰어든다."
+translation = "요미는 코마리를 돕기 위해 뛰어나간다."
 
 [[dialogue]]
 speaker_original = "ヨミ"
 speaker_translation = "요미"
 original = "「破邪の鈴よ――爆裂浄化！」"
-translation = "「사악함을 멸하는 방울이여―― 폭렬정화!」"
+translation = "「파사의 방울이여――폭렬정화!」"
 
 [[dialogue]]
 speaker_original = "ライカンスウォーム"
@@ -401,7 +401,7 @@ translation = "그 후."
 [[dialogue]]
 speaker = "unk"
 original = "ライカンスウォームの群れは、ひとまず全て討伐することができた。"
-translation = "라이칸 스웜 무리는 우선 모두 토벌할 수 있었다."
+translation = "라이칸 스웜 무리는 우선 전부 토벌할 수 있었다."
 
 [[dialogue]]
 speaker_original = "狛里"
@@ -413,7 +413,7 @@ translation = "「후우……!」"
 speaker_original = "狛里"
 speaker_translation = "狛里"
 original = "「ばうわふっ♪\u3000プリマステラとしての初戦闘、完了であります！」"
-translation = "「바우와프♪ 프리마스테라로서의 첫 전투, 완료인 것입니다!」"
+translation = "「바우와후♪ 프리마스테라로서의 첫 전투, 완료인 것입니다!」"
 
 [[dialogue]]
 speaker_original = "ヨミ"
@@ -431,7 +431,7 @@ translation = "「괜찮나요!? 상처를 보여주세요!」"
 speaker_original = "狛里"
 speaker_translation = "狛里"
 original = "「あっ、これでありますか？\u3000掠り傷なのですし、ぜんぜん平気なのですよ♪」"
-translation = "「앗, 이거 말인가요? 스친 상처이고, 전혀 멀쩡한 것이에요♪」"
+translation = "「앗, 이거 말인 것입니다? 스친 상처이고, 전혀 멀쩡한 것이에요♪」"
 
 [[dialogue]]
 speaker = "unk"
@@ -448,19 +448,19 @@ translation = "「하지만……!」"
 speaker_original = "狛里"
 speaker_translation = "狛里"
 original = "「怪我をしたのは、狛里がちょっと飛び出しすぎちゃったからなのです。もっと上手にできたはずなのに、張り切りすぎちゃったかも……えへへっ」"
-translation = "「상처를 입은 건 코마리가 조금 너무 앞으로 뛰어들었기 때문인 것입니다. 더 잘할 수 있었을 텐데, 너무 의욕을 낸 걸지도…… 에헤헤」"
+translation = "「다친 건, 코마리가 조금 너무 뛰어쳐나갔기 때문인 것입니다. 더 잘할 수 있었을 텐데, 너무 의욕이 넘쳐버렸을지도…… 에헤헤」"
 
 [[dialogue]]
 speaker_original = "狛里"
 speaker_translation = "狛里"
 original = "「心配かけてごめんなさいなのです！\u3000でも、これくらいは辺境で毎日のように経験してたのです！」"
-translation = "「걱정시켜서 죄송한 것입니다! 하지만 이 정도는 변방에서 매일같이 겪었던 것입니다!」"
+translation = "「걱정시켜서 죄송한 것입니다! 하지만 이 정도는 변방에서 매일같이 경험했던 것입니다!」"
 
 [[dialogue]]
 speaker_original = "狛里"
 speaker_translation = "狛里"
 original = "「それよりも、周りに怪我人さんがいないかどうか、確認してくるのです！」"
-translation = "「그보다 주변에 부상자분이 계신지 아닌지 확인하고 오는 것입니다!」"
+translation = "「그것보다 주변에 부상자분이 계신지 아닌지 확인하고 오는 것입니다!」"
 
 [[dialogue]]
 speaker_original = "ヨミ"
@@ -477,16 +477,16 @@ translation = "코마리는 상처도 신경 쓰지 않고 달려가 버린다."
 speaker_original = "ヨミ"
 speaker_translation = "요미"
 original = "（また同じ……私は、気づいてたのに）"
-translation = "(또 똑같아…… 나는 알고 있었는데)"
+translation = "(또 같아…… 나는 알고 있었는데)"
 
 [[dialogue]]
 speaker_original = "ヨミ"
 speaker_translation = "요미"
 original = "「先輩失格です……」"
-translation = "「선배 자격 박탈이에요……」"
+translation = "「선배 실격이에요……」"
 
 [[dialogue]]
 speaker = "unk"
 original = "自分の不甲斐なさに胸が痛み、その場で尻尾と耳を垂らしてしまうヨミなのだった。"
-translation = "자신의 한심함에 가슴이 아파, 그자리에서 꼬리와 귀를 늘어뜨려 버리는 요미였다."
+translation = "자신의 한심함에 가슴이 아파, 그 자리에서 꼬리와 귀를 늘어뜨려 버리는 요미였다."
 

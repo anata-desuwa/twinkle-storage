@@ -1,0 +1,366 @@
+[[dialogue]]
+speaker = "unk"
+original = "第２話,浮気だぴょん！！！,P"
+translation = ""
+
+[[dialogue]]
+speaker_original = "蘭美"
+speaker_translation = "라미"
+original = "「こんなのっ……こんなの！！！」"
+translation = ""
+
+[[dialogue]]
+speaker_original = "蘭美"
+speaker_translation = "라미"
+original = "「────浮気だぴょんっっっ！！！！」"
+translation = ""
+
+[[dialogue]]
+speaker = "unk"
+original = "どうしてこんなことになってしまったのか──俺は天を仰ぎながら、今回の騒動のきっかけを思い返すのだった……"
+translation = ""
+
+[[dialogue]]
+speaker_original = "マトイ"
+speaker_translation = "마토이"
+original = "「平和だねー……」"
+translation = ""
+
+[[dialogue]]
+speaker_original = "アナ"
+speaker_translation = "아나"
+original = "「平和ですね。先日までの騒動が嘘のようです」"
+translation = ""
+
+[[dialogue]]
+speaker_original = "シュティレ"
+speaker_translation = "슈틸레"
+original = "「失礼いたします」"
+translation = ""
+
+[[dialogue]]
+speaker_original = "マトイ"
+speaker_translation = "마토이"
+original = "「あ。シュティレちゃん！\u3000どうかしたの？」"
+translation = ""
+
+[[dialogue]]
+speaker_original = "シュティレ"
+speaker_translation = "슈틸레"
+original = "「はい。実は星徒会の皆様にお願いがありまして……まずはこちらを見ていただけますか？」"
+translation = ""
+
+[[dialogue]]
+speaker = "unk"
+original = "これは……お掃除ロボット？"
+translation = ""
+
+[[dialogue]]
+speaker_original = "シュティレ"
+speaker_translation = "슈틸레"
+original = "「はい。シュティレが所属する『機械工作同好会』で試作した一品です」"
+translation = ""
+
+[[dialogue]]
+speaker_original = "マトイ"
+speaker_translation = "마토이"
+original = "「機械工作同好会……？」"
+translation = ""
+
+[[dialogue]]
+speaker_original = "アナ"
+speaker_translation = "아나"
+original = "「流星附属校にある小規模サークルですね。日夜、あらゆるロボットの開発に勤しんでいるという……」"
+translation = ""
+
+[[dialogue]]
+speaker_original = "シュティレ"
+speaker_translation = "슈틸레"
+original = "「ええ。購買部やマスターとの修行の傍らで参加している、趣味のサークルです」"
+translation = ""
+
+[[dialogue]]
+speaker_original = "シュティレ"
+speaker_translation = "슈틸레"
+original = "「機械工作同好会では、学園生から制作依頼を受けることがあるのです。このお掃除ロボットはそのプロトタイプ」"
+translation = ""
+
+[[dialogue]]
+speaker = "unk"
+original = "ウサギの耳みたいなのがついてる"
+translation = ""
+
+[[dialogue]]
+speaker = "unk"
+original = "ずいぶん変わったフォルムだな"
+translation = ""
+
+[[dialogue]]
+speaker_original = "シュティレ"
+speaker_translation = "슈틸레"
+original = "「ウサギは綺麗好きな動物のため、お掃除ロボットのアイコンとして最適かなと……なかなか可愛いデフォルメになっているでしょう」"
+translation = ""
+
+[[dialogue]]
+speaker_original = "シュティレ"
+speaker_translation = "슈틸레"
+original = "「先日のロストアイテム騒動の折、バニーフォームに目覚めたこともあり、その時のインスピレーションをふんだんに盛り込んでみました。ぶい」"
+translation = ""
+
+[[dialogue]]
+speaker_original = "アナ"
+speaker_translation = "아나"
+original = "「ソファの下なんかを掃除する時、うさ耳が邪魔になりそうですが……」"
+translation = ""
+
+[[dialogue]]
+speaker_original = "シュティレ"
+speaker_translation = "슈틸레"
+original = "「折り畳み式で状況に応じて変形します。ウサギをモチーフにしたお掃除ロボなので、耳は外せません。これもまたロマンです」"
+translation = ""
+
+[[dialogue]]
+speaker_original = "アナ"
+speaker_translation = "아나"
+original = "「なるほど。ロマンなら仕方ない」"
+translation = ""
+
+[[dialogue]]
+speaker_original = "シュティレ"
+speaker_translation = "슈틸레"
+original = "「スイッチを入れればごらんのとおり。脱兎のごとく機敏に動き回り、床の汚れをたちどころに綺麗にします」"
+translation = "「스위치를 넣으면 보시는 바와 같습니다. 토끼처럼 민첩하게 돌아다니며, 바닥의 더러움을 순식간에 깨끗하게 만듭니다」"
+
+[[dialogue]]
+speaker = "unk"
+original = "おお、すごい！"
+translation = "오오, 대단하다!"
+
+[[dialogue]]
+speaker_original = "シュティレ"
+speaker_translation = "슈틸레"
+original = "「いかがでしょう、このお掃除ロボット『ぴょん子１号』──性能テストを、星徒会室の方でさせていただけないでしょうか？」"
+translation = "「어떠신지요, 이 청소 로봇 『푱코 1호』──성능 테스트를, 성도회실 쪽에서 하게 해 주실 수 없을까요?」"
+
+[[dialogue]]
+speaker_original = "マトイ"
+speaker_translation = "마토이"
+original = "「ぴょん子って……一応メスなんだね、これ」"
+translation = "「푱코라니…… 일단 암컷이네, 이거」"
+
+[[dialogue]]
+speaker_original = "シュティレ"
+speaker_translation = "슈틸레"
+original = "「ロボットもキャラ付けが大事ですので。それでこのぴょん子１号、活動する場所に飢えております」"
+translation = "「로봇도 캐릭터 설정이 중요하니까요. 그래서 이 푱코 1호, 활동할 장소에 목말라 있습니다」"
+
+[[dialogue]]
+speaker_original = "シュティレ"
+speaker_translation = "슈틸레"
+original = "「学園内は美化委員会の方々が常にピカピカにしてしまうので、なかなか試す機会がなくて困っていまして……」"
+translation = "「학원 내는 미화위원회 분들이 항상 반짝반짝하게 만들어 버려서, 좀처럼 시험해 볼 기회가 없어 난감해하던 차라……」"
+
+[[dialogue]]
+speaker_original = "アナ"
+speaker_translation = "아나"
+original = "「ふむ。星徒会室は関係者以外、原則立ち入り禁止ですからね。清掃も役員が持ち回りで行っていますし……」"
+translation = "「흠. 성도회실은 관계자 이외에는, 원칙적으로 출입 금지니까요. 청소도 임원이 교대로 하고 있고……」"
+
+[[dialogue]]
+speaker_original = "マトイ"
+speaker_translation = "마토이"
+original = "「いいんじゃない、会長？\u3000このお掃除ロボットが優秀なら、掃除の時間を節約できそうだよ！」"
+translation = "「괜찮지 않아, 회장? 이 청소 로봇이 우수하다면, 청소 시간을 절약할 수 있을 것 같아!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "それじゃあ、掃除はこいつに任せるか"
+translation = "그럼, 청소는 이 녀석한테 맡길까"
+
+[[dialogue]]
+speaker_original = "シュティレ"
+speaker_translation = "슈틸레"
+original = "「感謝いたします、会長。では数日ほど、こちらで稼働をお願いいたします」"
+translation = "「감사드립니다, 회장. 그럼 며칠 정도, 이곳에서 가동을 부탁드립니다」"
+
+[[dialogue]]
+speaker_original = "蘭美"
+speaker_translation = "라미"
+original = "「ふぅ。今日のメイド隊の仕事は終了ね！\u3000我ながら完璧な出来栄えだわ！」"
+translation = "「후우. 오늘 메이드대의 일은 끝이네! 내가 생각해도 완벽한 성과야!」"
+
+[[dialogue]]
+speaker_original = "蘭美"
+speaker_translation = "라미"
+original = "「思った以上に時間が余ってしまったわね……手際が良すぎるのも考え物だわ！」"
+translation = "「생각했던 것 이상으로 시간이 남아 버렸네…… 솜씨가 너무 좋은 것도 문제라니까!」"
+
+[[dialogue]]
+speaker_original = "蘭美"
+speaker_translation = "라미"
+original = "「……そうだわ！\u3000会長も忙しいだろうし、星徒会室の掃除をしてあげるのはどうかしら！」"
+translation = "「……맞다! 회장도 바쁠 테고, 성도회실 청소를 해 주는 건 어떨까!」"
+
+[[dialogue]]
+speaker_original = "蘭美"
+speaker_translation = "라미"
+original = "「──今さらだけど、ちょっぴり非常識かしら？\u3000星徒会室を許可もなくお掃除しちゃうだなんて……」"
+translation = "「──새삼스럽지만, 조금 몰상식하려나? 성도회실을 허락도 없이 청소해 버린다니……」"
+
+[[dialogue]]
+speaker_original = "蘭美"
+speaker_translation = "라미"
+original = "「いいえ！\u3000普通の生徒ならいざ知らず、私は会長の婚約者よ！\u3000将来の旦那様の職場を掃除するのも、できるお嫁さんの務めよね！」"
+translation = "「아니지! 일반 학생이라면 몰라도, 나는 회장의 약혼녀야! 미래의 남편의 직장을 청소하는 것도, 능력 있는 아내의 의무겠지!」"
+
+[[dialogue]]
+speaker_original = "蘭美"
+speaker_translation = "라미"
+original = "「失礼するわ！\u3000って──あら？\u3000誰もいない……留守かしら？」"
+translation = "「실례할게! ……어라? 아무도 없어…… 부재중인가?」"
+
+[[dialogue]]
+speaker_original = "蘭美"
+speaker_translation = "라미"
+original = "「でもちょうどいいわね！\u3000会長が帰ってくるまでにピカピカに──」"
+translation = "「하지만 딱 잘됐네! 회장이 돌아올 때까지 반짝반짝하게──」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ういーん……ういーん……（←お掃除ロボット『ぴょん子』稼働中）"
+translation = "위이잉…… 위이잉…… (←청소 로봇 『푱코』 가동 중)"
+
+[[dialogue]]
+speaker_original = "蘭美"
+speaker_translation = "라미"
+original = "「──ぴょんっ！？！？」"
+translation = ""
+
+[[dialogue]]
+speaker = "unk"
+original = "あれ、蘭美。来てたんだ？"
+translation = "어라, 라비. 와 있었어?"
+
+[[dialogue]]
+speaker_original = "蘭美"
+speaker_translation = "라미"
+original = "「か、会長！？\u3000な、何これ！？\u3000何なの！？！？」"
+translation = "「회, 회장!? 뭐, 뭐야 이거!? 뭔데!?!?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "先日来た、お掃除ロボットだよ"
+translation = "요전에 온, 청소 로봇이야"
+
+[[dialogue]]
+speaker = "unk"
+original = "ああ──ぴょん子か"
+translation = "아아── 푱코 말인가"
+
+[[dialogue]]
+speaker_original = "蘭美"
+speaker_translation = "라미"
+original = "「ぴょんっ！？\u3000ぴょん子！？\u3000お掃除ロボット！？\u3000ど、どういうことなの！\u3000私というものがありながら！？」"
+translation = ""
+
+[[dialogue]]
+speaker_original = "蘭美"
+speaker_translation = "라미"
+original = "「掃除の必要があるなら、私を呼べばいいじゃない！？\u3000よりにもよってこんな怪しげなウサギを無断で連れ込むだなんて！！」"
+translation = "「청소할 필요가 있다면, 나를 부르면 되잖아!? 하필이면 이런 수상쩍은 토끼를 무단으로 끌어들이다니!!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "蘭美はメイド隊の仕事で忙しいでしょ？"
+translation = "라비는 메이드대 일로 바쁘잖아?"
+
+[[dialogue]]
+speaker = "unk"
+original = "連れ込むだなんてそんな……"
+translation = "끌어들였다니 무슨……"
+
+[[dialogue]]
+speaker_original = "蘭美"
+speaker_translation = "라미"
+original = "「舐めないで欲しいぴょんっ！\u3000会長のためなら、万難を排して駆けつけるぴょん！！」"
+translation = ""
+
+[[dialogue]]
+speaker_original = "蘭美"
+speaker_translation = "라미"
+original = "「私がどれほど会長のことが好きなのか、知らないとは言わせないぴょんっ！\u3000そこに正座しなさいっ！\u3000お説教だぴょんっ！！！」"
+translation = ""
+
+[[dialogue]]
+speaker = "unk"
+original = "お、落ち着いて蘭美！！"
+translation = "진, 진정해 라비!!"
+
+[[dialogue]]
+speaker_original = "アナ"
+speaker_translation = "아나"
+original = "「お疲れ様です──おや？」"
+translation = "「수고하셨습니다── 어라?」"
+
+[[dialogue]]
+speaker_original = "マトイ"
+speaker_translation = "마토이"
+original = "「あれれ。なんだろう、修羅場な雰囲気……？」"
+translation = "「어라라. 뭘까, 수라장 같은 분위기……?」"
+
+[[dialogue]]
+speaker_original = "蘭美"
+speaker_translation = "라미"
+original = "「そもそもぴょん子って何よ！\u3000何なのよこの女！\u3000妻をさしおいて夫の職場を掃除するだなんて！\u3000泥棒ウサギじゃない！！！」"
+translation = "「애초에 푱코가 뭔데! 뭔데 이 여자는! 아내를 제쳐두고 남편의 직장을 청소하다니! 도둑 토끼잖아!!!」"
+
+[[dialogue]]
+speaker_original = "蘭美"
+speaker_translation = "라미"
+original = "「こんなのっ……こんなの！！！」"
+translation = "「이런 건…… 이런 건!!!」"
+
+[[dialogue]]
+speaker_original = "蘭美"
+speaker_translation = "라미"
+original = "「────浮気だぴょんっっっ！！！！」"
+translation = ""
+
+[[dialogue]]
+speaker = "unk"
+original = "ご、ごめんなさい……軽率でした！！"
+translation = "미, 미안해…… 경솔했어!!"
+
+[[dialogue]]
+speaker_original = "蘭美"
+speaker_translation = "라미"
+original = "「すぐに返品しなさいっ！\u3000会長のそばにいていいウサギは私だけよ！！」"
+translation = "「당장 반품해! 회장 곁에 있어도 되는 토끼는 나뿐이야!!」"
+
+[[dialogue]]
+speaker_original = "アナ"
+speaker_translation = "아나"
+original = "「……よくよく聞いてみたら、平和な口論でしたね」"
+translation = "「……자세히 들어 보니, 평화로운 말다툼이었네요」"
+
+[[dialogue]]
+speaker_original = "マトイ"
+speaker_translation = "마토이"
+original = "「そうだね。私たちはお茶でも入れよっか」"
+translation = "「그렇네. 우리는 차라도 우려볼까」"
+
+[[dialogue]]
+speaker = "unk"
+original = "２人とも、助けてくれ──！？"
+translation = "둘 다, 도와줘──!?"
+
+[[dialogue]]
+speaker = "unk"
+original = "こうしてお掃除ロボット・ぴょん子１号はすぐに機械工作同好会に返品され──"
+translation = "이렇게 해서 청소 로봇·푱코 1호는 즉시 기계공작 동호회로 반품되었고──"
+
+[[dialogue]]
+speaker = "unk"
+original = "俺は嫉妬した蘭美に、長い長いお説教をもらう羽目になるのだった……"
+translation = "나는 질투한 라비에게, 길고 긴 설교를 듣는 신세가 되는 것이었다……"
+

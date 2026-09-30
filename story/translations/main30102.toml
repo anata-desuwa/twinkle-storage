@@ -1,0 +1,583 @@
+[[dialogue]]
+speaker = "unk"
+original = "第２話,『女神との契約』,B"
+translation = "제2화, 『여신과의 계약』, B"
+
+[[dialogue]]
+speaker_original = "オオヒメ"
+speaker_translation = "오오히메"
+original = "「では、お願いします。ルヴィネ様」"
+translation = "「그럼, 부탁드립니다. 루비네 님」"
+
+[[dialogue]]
+speaker_original = "ルヴィネ"
+speaker_translation = "루비네"
+original = "「ええ、わかったわ」"
+translation = "「그래, 알았어」"
+
+[[dialogue]]
+speaker = "unk"
+original = "守護天使たちの会議が行われてから数日後、デネブよりルヴィネがやってきた。"
+translation = "수호천사들의 회의가 열리고 며칠 뒤, 데네브로부터 루비네가 찾아왔다."
+
+[[dialogue]]
+speaker = "unk"
+original = "オオヒメはマグダレナと共に先日の守護天使会議の報告を済ませると、早速ルヴィネに主従の契約を申し込んだ。"
+translation = "오오히메는 막달레나와 함께 지난번 수호천사 회의의 보고를 마치고, 곧바로 루비네에게 주종 계약을 신청했다."
+
+[[dialogue]]
+speaker_original = "ルヴィネ"
+speaker_translation = "루비네"
+original = "「これで、どうかしら？」"
+translation = "「이걸로, 어떨까?」"
+
+[[dialogue]]
+speaker_original = "オオヒメ"
+speaker_translation = "오오히메"
+original = "「問題なく……私の内にルヴィネ様との新たな繋がりが作られました」"
+translation = "「문제없이…… 제 안에 루비네 님과의 새로운 연결이 만들어졌습니다」"
+
+[[dialogue]]
+speaker_original = "ルヴィネ"
+speaker_translation = "루비네"
+original = "「嬉しいわ。オオヒメ、今後ともお願いね」"
+translation = "「기뻐. 오오히메, 앞으로 잘 부탁해」"
+
+[[dialogue]]
+speaker_original = "オオヒメ"
+speaker_translation = "오오히메"
+original = "「宜しくお願いします、次代の女神よ」"
+translation = "「잘 부탁드립니다, 차대의 여신이시여」"
+
+[[dialogue]]
+speaker_original = "マグダレナ"
+speaker_translation = "막달레나"
+original = "「ではルヴィネ様、次は私と──」"
+translation = "「그럼 루비네 님, 다음은 저와──」"
+
+[[dialogue]]
+speaker_original = "オオヒメ"
+speaker_translation = "오오히메"
+original = "「っ！？\u3000な──！？」"
+translation = "「윽!? 무──!?」"
+
+[[dialogue]]
+speaker_original = "ルヴィネ"
+speaker_translation = "루비네"
+original = "「何が……起きたの？」"
+translation = "「무슨 일이…… 일어난 거야?」"
+
+[[dialogue]]
+speaker_original = "オオヒメ（幼少）"
+speaker_translation = "オオヒメ（幼少）"
+original = "「わ、私の身体が……小さく！？」"
+translation = "「제, 제 몸이…… 작게!?」"
+
+[[dialogue]]
+speaker_original = "マグダレナ"
+speaker_translation = "막달레나"
+original = "「もしかしてこれは、新たな契約の影響でしょうか……？」"
+translation = "「혹시 이것은, 새로운 계약의 영향일까요……?」"
+
+[[dialogue]]
+speaker_original = "ルヴィネ"
+speaker_translation = "루비네"
+original = "「摂理への影響は？\u3000守護天使としての力を失っていたりは、していない……わよね？」"
+translation = "「섭리에의 영향은? 수호천사로서의 힘을 잃거나 하지는…… 않았지?」"
+
+[[dialogue]]
+speaker_original = "マグダレナ"
+speaker_translation = "막달레나"
+original = "「どうなのでしょうか、オオヒメ？」"
+translation = "「어떠한가요, 오오히메?」"
+
+[[dialogue]]
+speaker_original = "オオヒメ（幼少）"
+speaker_translation = "オオヒメ（幼少）"
+original = "「……身体は小さくなりましたが、守護天使としての力が失われたといったことはないようです」"
+translation = "「……몸은 작아졌습니다만, 수호천사로서의 힘이 잃어졌다거나 하는 일은 없는 듯합니다」"
+
+[[dialogue]]
+speaker_original = "オオヒメ（幼少）"
+speaker_translation = "オオヒメ（幼少）"
+original = "「摂理への影響もありません。ご安心ください、ルヴィネ様」"
+translation = "「섭리에 대한 영향도 없습니다. 안심하십시오, 루비네 님」"
+
+[[dialogue]]
+speaker_original = "ルヴィネ"
+speaker_translation = "루비네"
+original = "「……そう、よかったわ」"
+translation = "「……그래, 다행이다」"
+
+[[dialogue]]
+speaker_original = "ルヴィネ"
+speaker_translation = "루비네"
+original = "「けれど、あなたをこんな姿にしてしまって。私が女神として未熟なせいね……ごめんなさい」"
+translation = "「하지만, 너를 이런 모습으로 만들어 버리다니. 내가 여신으로서 미숙한 탓이네…… 미안해」"
+
+[[dialogue]]
+speaker_original = "オオヒメ（幼少）"
+speaker_translation = "オオヒメ（幼少）"
+original = "「お、落ち込まずとも大丈夫です！\u3000ただ外見が変化しただけに過ぎないのですから！」"
+translation = "「낙, 낙담하지 않으셔도 괜찮습니다! 단지 외견이 변화했을 뿐에 지나지 않으니까요!」"
+
+[[dialogue]]
+speaker_original = "マグダレナ"
+speaker_translation = "막달레나"
+original = "「そうですね。私やアルモタヘルもこの姿だけでなく『幼アバター』なるものを所持しています」"
+translation = "「그렇네요. 저나 알모타헬도 이 모습뿐만 아니라 『어린 아바타』라는 것을 소지하고 있습니다」"
+
+[[dialogue]]
+speaker_original = "マグダレナ"
+speaker_translation = "막달레나"
+original = "「小さい姿でしか得られない知見もありますし、この機会にいろいろ経験してみてはいかがでしょう？」"
+translation = "「작은 모습으로밖에 얻을 수 없는 지견도 있고, 이 기회에 여러 가지를 경험해 보는 것은 어떨까요?」"
+
+[[dialogue]]
+speaker_original = "オオヒメ（幼少）"
+speaker_translation = "オオヒメ（幼少）"
+original = "「そうだな！\u3000女神ルヴィネ様、貴重な機会を頂き、ありがとうございます」"
+translation = "「그렇군요! 여신 루비네 님, 귀중한 기회를 주셔서 감사합니다」"
+
+[[dialogue]]
+speaker_original = "ルヴィネ"
+speaker_translation = "루비네"
+original = "「ありがとう。オオヒメ、マグダレナ……」"
+translation = "「고마워. 오오히메, 막달레나……」"
+
+[[dialogue]]
+speaker_original = "マグダレナ"
+speaker_translation = "막달레나"
+original = "「そうです。オオヒメ、いっそあなたも附属校に通ってみませんか？」"
+translation = "「맞아요. 오오히메, 차라리 당신도 부속교에 다녀보는 것은 어떨까요?」"
+
+[[dialogue]]
+speaker_original = "オオヒメ（幼少）"
+speaker_translation = "オオヒメ（幼少）"
+original = "「え……？」"
+translation = "「에……?」"
+
+[[dialogue]]
+speaker_original = "マグダレナ"
+speaker_translation = "막달레나"
+original = "「会長さまを通じてヘレナさまにお願いすれば、きっと手配してくださるでしょう」"
+translation = "「회장님을 통해 헬레나 님께 부탁드리면, 분명 수속을 해주실 거예요」"
+
+[[dialogue]]
+speaker_original = "オオヒメ（幼少）"
+speaker_translation = "オオヒメ（幼少）"
+original = "「そ、それはまあ……ヘレナ殿なら大喜びで手配してくれそうではあるが……」"
+translation = "「그, 그거야 뭐…… 헬레나 공이라면 크게 기뻐하며 수속을 해줄 것 같기는 하다만……」"
+
+[[dialogue]]
+speaker_original = "オオヒメ（幼少）"
+speaker_translation = "オオヒメ（幼少）"
+original = "「しかし良いのだろうか？\u3000守護天使の面々がこぞって人の子らの真似事に興じていては……本来の役目に支障が出るのでは？」"
+translation = "「하지만 괜찮은 것일까? 수호천사 전원이 모여 인간들의 흉내에 열중해서야…… 본래의 역할에 지장이 나오지 않겠나?」"
+
+[[dialogue]]
+speaker_original = "オオヒメ（幼少）"
+speaker_translation = "オオヒメ（幼少）"
+original = "「特に今は、世界がどのように転換していくか大事な時期だ。摂理の維持に注力し、未知の世界の危機に対して備えなければならないのではないか？」"
+translation = "「특히 지금은, 세계가 어떻게 전환되어 갈지 중요한 시기다. 섭리의 유지에 집중하고, 미지의 세계의 위기에 대해 대비해야 하는 것 아닌가?」"
+
+[[dialogue]]
+speaker_original = "マグダレナ"
+speaker_translation = "막달레나"
+original = "「ええ、それは勿論、その通りでしょう」"
+translation = "「네, 그것은 물론, 그렇겠지요」"
+
+[[dialogue]]
+speaker_original = "マグダレナ"
+speaker_translation = "막달레나"
+original = "「ですが、もうひとつ……『私たち』にしか出来ない、重要な役目があります」"
+translation = "「하지만, 또 하나…… 『우리들』밖에 할 수 없는, 중요한 역할이 있습니다」"
+
+[[dialogue]]
+speaker_original = "オオヒメ（幼少）"
+speaker_translation = "オオヒメ（幼少）"
+original = "「重要な役目……？」"
+translation = "「중요한 역할……?」"
+
+[[dialogue]]
+speaker_original = "マグダレナ"
+speaker_translation = "막달레나"
+original = "「それは、今、この世界に生きる人々の生を見て、知って、私たち自身が経験を積むことです」"
+translation = "「그것은, 지금, 이 세계에 사는 사람들의 삶을 보고, 알고, 우리들 자신이 경험을 쌓는 것입니다」"
+
+[[dialogue]]
+speaker_original = "マグダレナ"
+speaker_translation = "막달레나"
+original = "「これは霊体の<b>私たち</b>には出来なかったこと、ヒトの身体を得なければ出来なかったこと……今の<b>私たち</b>にしか出来ないことです」"
+translation = "「이것은 영체인 <b>우리들</b>에게는 할 수 없었던 일, 인간의 몸을 얻지 않으면 할 수 없었던 일…… 지금의 <b>우리들</b>밖에 할 수 없는 일입니다」"
+
+[[dialogue]]
+speaker_original = "マグダレナ"
+speaker_translation = "막달레나"
+original = "「あなたもそれを分かっているから、眠りから覚めた後、様々な場所に足を向け、積極的に人々と交流を持とうとしたのでしょう？」"
+translation = "「당신도 그것을 알고 있기에, 잠에서 깬 후, 다양한 장소로 발걸음을 옮겨, 적극적으로 사람들과 교류를 가지려 했던 것 아닌가요?」"
+
+[[dialogue]]
+speaker_original = "オオヒメ（幼少）"
+speaker_translation = "オオヒメ（幼少）"
+original = "「……その通りだ。私もその考えには同意できる。重要なことであると理解している」"
+translation = "「……그 말대로다. 나도 그 생각에는 동의할 수 있다. 중요한 일이라고 이해하고 있다」"
+
+[[dialogue]]
+speaker_original = "オオヒメ（幼少）"
+speaker_translation = "オオヒメ（幼少）"
+original = "「だが、やはり今は……最も重要な役目を疎かには出来ない」"
+translation = "「하지만, 역시 지금은…… 가장 중요한 역할을 소홀히 할 수는 없다」"
+
+[[dialogue]]
+speaker_original = "マグダレナ"
+speaker_translation = "막달레나"
+original = "「では期限付き、と言うことにしてはどうでしょう？」"
+translation = "「그럼 기한을 두는 것으로 하면 어떨까요?」"
+
+[[dialogue]]
+speaker_original = "オオヒメ（幼少）"
+speaker_translation = "オオヒメ（幼少）"
+original = "「期限付き？」"
+translation = "「기한을 둔다?」"
+
+[[dialogue]]
+speaker_original = "マグダレナ"
+speaker_translation = "막달레나"
+original = "「そうですね……２週間、その期間だけ集中して附属校に通う……短い期間であれば摂理の維持に支障が出ることはないでしょう」"
+translation = "「그렇네요…… 2주일, 그 기간에만 집중해서 부속교에 다니는…… 짧은 기간이라면 섭리의 유지에 지장이 나오는 일은 없겠지요」"
+
+[[dialogue]]
+speaker_original = "マグダレナ"
+speaker_translation = "막달레나"
+original = "「それに私たちは、こうしてヒトの形を得て生活を送っていますが、実際の私たちの本体はフィーニスの塔の内部に存在しています」"
+translation = "「게다가 우리들은, 이렇게 인간의 형태를 얻어 생활을 보내고 있습니다만, 실제 우리들의 본체는 피니스 탑의 내부 존재하고 있습니다」"
+
+[[dialogue]]
+speaker_original = "マグダレナ"
+speaker_translation = "막달레나"
+original = "「世界の摂理を司る役目を担っているのはその本体。２週間ほどであれば、分体である私たちが別な行動を取っていても問題はないはずです」"
+translation = "「세계의 섭리를 관장하는 역할을 맡고 있는 것은 그 본체. 2주일 정도라면, 분체인 우리들이 다른 행동을 취하고 있어도 문제는 없을 터입니다」"
+
+[[dialogue]]
+speaker_original = "オオヒメ（幼少）"
+speaker_translation = "オオヒメ（幼少）"
+original = "「むぅ、だが……だがな……」"
+translation = "「음, 하지만…… 하지만 말이다……」"
+
+[[dialogue]]
+speaker_original = "マグダレナ"
+speaker_translation = "막달레나"
+original = "「まだ何か気にかかっていることがあるようですね？」"
+translation = "「아직 무언가 마음에 걸리는 것이 있는 모양이군요?」"
+
+[[dialogue]]
+speaker_original = "オオヒメ（幼少）"
+speaker_translation = "オオヒメ（幼少）"
+original = "「我々は守護天使だ。守るべき対象である人々に混じって気軽に学園生活を送るなどあっていいのか？」"
+translation = "「우리들은 수호천사다. 지켜야 할 대상인 사람들에 섞여 가볍게 학원 생활을 보낸다니, 그래도 되는 것인가?」"
+
+[[dialogue]]
+speaker_original = "マグダレナ"
+speaker_translation = "막달레나"
+original = "「あら、それに何の不都合があるのです？」"
+translation = "「어머나, 거기에 무슨 불편함이 있죠?」"
+
+[[dialogue]]
+speaker_original = "オオヒメ（幼少）"
+speaker_translation = "オオヒメ（幼少）"
+original = "「今はヒトの形を取っているが、守護天使は本来、人々に畏れられる対象だ」"
+translation = "「지금은 인간의 형상을 취하고 있다만, 수호천사는 본래, 사람들에게 두려움 받는 대상이다」"
+
+[[dialogue]]
+speaker_original = "オオヒメ（幼少）"
+speaker_translation = "オオヒメ（幼少）"
+original = "「そのような者たちが日常の中に踏み入っては、とても心穏やかには過ごせまい」"
+translation = "「그러한 자들이 일상 속에 발을 들여서는, 도저히 마음 편히 지낼 수 없을 텐데」"
+
+[[dialogue]]
+speaker_original = "マグダレナ"
+speaker_translation = "막달레나"
+original = "「私は今も時折、アバターを使って附属校に通わせてもらっていますが、そのような事を気にしているヒトはいませんよ？」"
+translation = "「저는 지금도 때때로, 아바타를 사용해 부속교에 다니고 있습니다만, 그러한 것을 신경 쓰는 인간은 없답니다?」"
+
+[[dialogue]]
+speaker_original = "オオヒメ（幼少）"
+speaker_translation = "オオヒメ（幼少）"
+original = "「そう、なのか……？」"
+translation = "「그런, 것인가……?」"
+
+[[dialogue]]
+speaker_original = "マグダレナ"
+speaker_translation = "막달레나"
+original = "「ええ。皆と変わらない、１人のクラスメイトとして親しくしてもらっています」"
+translation = "「네. 모두와 다름없는, 한 명의 반 친구로서 친하게 지내고 있습니다」"
+
+[[dialogue]]
+speaker_original = "マグダレナ"
+speaker_translation = "막달레나"
+original = "「今の言葉で分かりました。オオヒメ、あなたはやはり附属校に通い、知見を広めるべきです」"
+translation = "「방금 한 말로 알았습니다. 오오히메, 당신은 역시 부속교에 다니며, 지견을 넓혀야 합니다」"
+
+[[dialogue]]
+speaker_original = "ルヴィネ"
+speaker_translation = "루비네"
+original = "「……マグダレナの言うことにも一理あるわね。オオヒメ、ものは試しということで、やってみてはどうかしら？」"
+translation = "「……막달레나가 하는 말에도 일리가 있네. 오오히메, 밑져야 본전이라 생각하고 해보면 어떨까?」"
+
+[[dialogue]]
+speaker_original = "オオヒメ（幼少）"
+speaker_translation = "オオヒメ（幼少）"
+original = "「むぅ……ルヴィネ様まで、そうおっしゃるなら」"
+translation = "「음…… 루비네 님까지, 그리 말씀하신다면」"
+
+[[dialogue]]
+speaker_original = "マグダレナ"
+speaker_translation = "막달레나"
+original = "「決まりですね。ふふっ、クラスメイトが増えて嬉しいです♪」"
+translation = "「결정됐네요. 후후, 반 친구가 늘어서 기뻐요♪」"
+
+[[dialogue]]
+speaker_original = "ルヴィネ"
+speaker_translation = "루비네"
+original = "「それにしても、附属校ね……」"
+translation = "「그나저나, 부속교라……」"
+
+[[dialogue]]
+speaker_original = "オオヒメ（幼少）"
+speaker_translation = "オオヒメ（幼少）"
+original = "「附属校がどうかしたのですか？」"
+translation = "「부속교가 왜 그러시나요?」"
+
+[[dialogue]]
+speaker_original = "ルヴィネ"
+speaker_translation = "루비네"
+original = "「極星学園には、まだ附属校がないわ。……だから近いうちに、視察させてもらおうと考えていたの」"
+translation = "「극성학원에는, 아직 부속교가 없어. ……그래서 조만간, 시찰하러 가볼까 생각하던 참이었어」"
+
+[[dialogue]]
+speaker_original = "ルヴィネ"
+speaker_translation = "루비네"
+original = "「デネブは先のリクリエで、多くの星騎士が失われたわ」"
+translation = "「데네브는 지난 리크리에로, 많은 성기사를 잃었거든」"
+
+[[dialogue]]
+speaker_original = "ルヴィネ"
+speaker_translation = "루비네"
+original = "「今は平和な時代が訪れているけれど、いつまた世界が危機に見舞われるとも限らない」"
+translation = "「지금은 평화로운 시대가 찾아왔지만, 언제 또 세계가 위기에 처할지 모르잖아」"
+
+[[dialogue]]
+speaker_original = "ルヴィネ"
+speaker_translation = "루비네"
+original = "「その時に向けて、新たな星騎士たちを育てていかなければならないわ」"
+translation = "「그때를 향해서, 새로운 성기사들을 키워나가야만 해」"
+
+[[dialogue]]
+speaker_original = "マグダレナ"
+speaker_translation = "막달레나"
+original = "「仰る通りだと思います」"
+translation = "「말씀하신 대로라고 생각합니다」"
+
+[[dialogue]]
+speaker_original = "マグダレナ"
+speaker_translation = "막달레나"
+original = "「では、善は急げと申しますから、今から連絡を取ってみましょう」"
+translation = "「그럼, 쇠뿔도 단김에 빼라는 말이 있으니, 지금 바로 연락을 취해 보죠」"
+
+[[dialogue]]
+speaker_original = "ヘレナ"
+speaker_translation = "헬레나"
+original = "「もちろん、承認だ！」"
+translation = "「당연히, 승인이다!」"
+
+[[dialogue]]
+speaker_original = "ヘレナ"
+speaker_translation = "헬레나"
+original = "「オオヒメ殿の転入手続きはすぐにでも済ませられる。その気であれば明日からでも通えるようにしておこう」"
+translation = "「오오히메 공의 전입 수속은 당장이라도 끝낼 수 있다. 그럴 생각이라면 내일부터라도 다닐 수 있도록 해두지」"
+
+[[dialogue]]
+speaker_original = "オオヒメ（幼少）"
+speaker_translation = "オオヒメ（幼少）"
+original = "「か、感謝する」"
+translation = "「고, 감사한다」"
+
+[[dialogue]]
+speaker_original = "ヘレナ"
+speaker_translation = "헬레나"
+original = "「そしてルヴィネ殿の視察の件だが、こちらも問題ない」"
+translation = "「그리고 루비네 공의 시찰 건 말이다만, 이쪽도 문제없다」"
+
+[[dialogue]]
+speaker_original = "ヘレナ"
+speaker_translation = "헬레나"
+original = "「期間は２週間でよいのか？\u3000ひと月でも半年でも、お望みであればそれ以上でも構わないのだが」"
+translation = "「기간은 2주일이면 되겠는가? 한 달이든 반년이든, 원한다면 그 이상이라도 상관없다만」"
+
+[[dialogue]]
+speaker_original = "ルヴィネ"
+speaker_translation = "루비네"
+original = "「ありがとう。貴女の協力に感謝するわ」"
+translation = "「고마워. 당신의 협력에 감사할게」"
+
+[[dialogue]]
+speaker_original = "ルヴィネ"
+speaker_translation = "루비네"
+original = "「デネブでやり残した仕事があるもの。今回の滞在は、２週間でちょうどいいわ」"
+translation = "「데네브에서 다 끝내지 못한 일이 있거든. 이번 체류는, 2주일로 딱 좋아」"
+
+[[dialogue]]
+speaker_original = "オオヒメ（幼少）"
+speaker_translation = "オオヒメ（幼少）"
+original = "（承認されるであろうとは予測していたが、こうもあっさり決まってしまうとは思わなかったぞ。トントン拍子とはこの事だな）"
+translation = "（승인될 것이라 예상은 했다만, 이렇게 쉽게 결정되어 버릴 줄은 몰랐구나. 일사천리라는 건 이런 것을 말하는 거겠지）"
+
+[[dialogue]]
+speaker_original = "オオヒメ（幼少）"
+speaker_translation = "オオヒメ（幼少）"
+original = "（それにしても守護天使である私が学園生活を送ることになるとは……）"
+translation = "（그나저나 수호천사인 내가 학원 생활을 보내게 되다니……）"
+
+[[dialogue]]
+speaker_original = "オオヒメ（幼少）"
+speaker_translation = "オオヒメ（幼少）"
+original = "（……学園生活？）"
+translation = "（……학원 생활?）"
+
+[[dialogue]]
+speaker_original = "オオヒメ（幼少）"
+speaker_translation = "オオヒメ（幼少）"
+original = "（待て、学園生活とは何だ？）"
+translation = "（잠깐, 학원 생활이란 것은 무엇이지?）"
+
+[[dialogue]]
+speaker_original = "オオヒメ（幼少）"
+speaker_translation = "オオヒメ（幼少）"
+original = "（冷静になって考えてみると、私は『学園生活』という物について何も知らない……）"
+translation = "（냉정해져서 생각해 보면, 나는 『학원 생활』이라는 것에 대해 아무것도 모른다……）"
+
+[[dialogue]]
+speaker_original = "オオヒメ（幼少）"
+speaker_translation = "オオヒメ（幼少）"
+original = "（急に不安になってきてしまった！\u3000ど、どうすればいいのだ？）"
+translation = "（갑자기 불안해지기 시작했다! 어, 어떻게 해야 하는 거지?）"
+
+[[dialogue]]
+speaker_original = "オオヒメ（幼少）"
+speaker_translation = "オオヒメ（幼少）"
+original = "（このままではまずい！\u3000急いで学園生活の何たるかを学習しなくては！）"
+translation = "（이대로는 위험하다! 서둘러 학원 생활이 무엇인지 학습해야만 해!）"
+
+[[dialogue]]
+speaker_original = "ヘレナ"
+speaker_translation = "헬레나"
+original = "「そうだ、良いことを思いついたぞ」"
+translation = "「맞다, 좋은 생각이 떠올랐다」"
+
+[[dialogue]]
+speaker_original = "ヘレナ"
+speaker_translation = "헬레나"
+original = "「良い機会であるから、ルヴィネ殿も附属校へ通ってみてはいかがか？」"
+translation = "「좋은 기회이니, 루비네 공도 부속교에 다녀보는 것은 어떠한가?」"
+
+[[dialogue]]
+speaker_original = "ルヴィネ"
+speaker_translation = "루비네"
+original = "「え……？」"
+translation = "「에……?」"
+
+[[dialogue]]
+speaker_original = "マグダレナ"
+speaker_translation = "막달레나"
+original = "「まあ、それは素晴らしい考えです！\u3000私たちと一緒に、学園生活を送ってみましょう！」"
+translation = "「어머, 그건 멋진 생각이에요! 저희와 함께, 학원 생활을 보내보도록 해요!」"
+
+[[dialogue]]
+speaker_original = "ルヴィネ"
+speaker_translation = "루비네"
+original = "「い、いや、私の目的は附属校の視察！\u3000今更附属生になって通うというのは、少し話が違ってくるでしょう！？」"
+translation = "「아, 아니, 내 목적은 부속교 시찰이야! 이제 와서 부속생이 되어 다닌다는 건, 조금 이야기가 달라지잖아!?」"
+
+[[dialogue]]
+speaker_original = "ルヴィネ"
+speaker_translation = "루비네"
+original = "「それに私は極星学園の生徒よ、学園生活はそちらで十分に経験を積んでいるから！」"
+translation = "「게다가 나는 극성학원의 학생이야, 학원 생활은 그쪽에서 충분히 경험을 쌓았으니까!」"
+
+[[dialogue]]
+speaker_original = "マグダレナ"
+speaker_translation = "막달레나"
+original = "「こちらの附属校ではまた別な経験が得られるかもしれませんよ？」"
+translation = "「이쪽 부속교에서는 또 다른 경험을 얻을 수 있을지도 몰라요?」"
+
+[[dialogue]]
+speaker_original = "マグダレナ"
+speaker_translation = "막달레나"
+original = "「実際に身を置いて経験することでしか得られない知見もある、そうは思いませんか？」"
+translation = "「직접 몸담아 경험하는 것으로밖에 얻을 수 없는 지견도 있다, 그렇게는 생각하지 않으시나요?」"
+
+[[dialogue]]
+speaker_original = "ルヴィネ"
+speaker_translation = "루비네"
+original = "「ぅ……」"
+translation = "「으……」"
+
+[[dialogue]]
+speaker_original = "オオヒメ（幼少）"
+speaker_translation = "オオヒメ（幼少）"
+original = "（気が付けばこちらも大変なことになってきているな）"
+translation = "（정신을 차리고 보니 이쪽도 큰일이 되어가고 있군）"
+
+[[dialogue]]
+speaker_original = "オオヒメ（幼少）"
+speaker_translation = "オオヒメ（幼少）"
+original = "（だが、先ほど私はこのマグダレナの言い分に押し切られて、転入を決意した）"
+translation = "（하지만, 조금 전 나는 이 막달레나의 말에 밀려서, 전입을 결의했다）"
+
+[[dialogue]]
+speaker_original = "オオヒメ（幼少）"
+speaker_translation = "オオヒメ（幼少）"
+original = "（その際にルヴィネ様は『マグダレナに理がある』と納得していた。その手前、これは断り切れないだろう……）"
+translation = "（그때 루비네 님은 『막달레나의 말이 일리가 있다』라며 납득하고 있었다. 그런 마당에, 이건 거절하지 못하겠지……）"
+
+[[dialogue]]
+speaker_original = "ヘレナ"
+speaker_translation = "헬레나"
+original = "「──聞いた話によると、ルヴィネ殿は今、女神を引き継ぐために経験を積んでいる最中であるとか」"
+translation = "「──들은 바에 의하면, 루비네 공은 지금, 여신을 인계받기 위해 경험을 쌓고 있는 중이라고」"
+
+[[dialogue]]
+speaker_original = "ヘレナ"
+speaker_translation = "헬레나"
+original = "「であればどうだろう？\u3000物は試しに、こちらでも学園生活を送ってみてはいかがかな？」"
+translation = "「그렇다면 어떤가? 밑져야 본전으로, 이쪽에서도 학원 생활을 보내보는 것은 어떨런지?」"
+
+[[dialogue]]
+speaker_original = "ルヴィネ"
+speaker_translation = "루비네"
+original = "「わ、わかったわよ。あなたたちの言い分もわかるし、覚悟を決めて視察の２週間、流星学園附属校に通う事にするわ」"
+translation = "「알, 알았어. 당신들의 말도 이해하고, 각오를 정해서 시찰 2주일 동안, 유성학원 부속교에 다니기로 할게」"
+
+[[dialogue]]
+speaker_original = "ルヴィネ"
+speaker_translation = "루비네"
+original = "「けれど私の本分はあくまで視察だから。その事を理解しておきなさい、いいわね！」"
+translation = "「하지만 내 본분은 어디까지나 시찰이니까. 그 점을 이해해 두도록 해, 알겠지!」"
+
+[[dialogue]]
+speaker_original = "オオヒメ（幼少）"
+speaker_translation = "オオヒメ（幼少）"
+original = "（やはり、こういう展開になってしまったか……）"
+translation = "（역시, 이런 전개가 되어 버린 건가……）"
+
+[[dialogue]]
+speaker = "unk"
+original = "嘆息と共に、自らの状況を受け入れる。"
+translation = "한숨과 함께, 자신의 상황을 받아들인다."
+
+[[dialogue]]
+speaker = "unk"
+original = "こうして小さな体になってしまった守護天使オオヒメと、次代の女神ルヴィネは、半ば強引に流星学園附属校で学園生活を送ることになってしまったのだった。"
+translation = "이렇게 작은 몸이 되어버린 수호천사 오오히메와, 차대의 여신 루비네는, 반강제로 유성학원 부속교에서 학원 생활을 보내게 되어버린 것이었다."
+

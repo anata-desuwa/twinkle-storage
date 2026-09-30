@@ -1,0 +1,367 @@
+[[dialogue]]
+speaker = "unk"
+original = "ある日のこと、秘密結社ゴールデングースに２人の来客があった。"
+translation = "어느 날, 비밀결사 골든 구스에 2명의 손님이 찾아왔다."
+
+[[dialogue]]
+speaker_original = "ミウ"
+speaker_translation = "미우"
+original = "「いらっしゃいませ。早速ですが、今回はどういったご依頼でしょうか？」"
+translation = "「어서 오세요. 다짜고짜 죄송하지만, 이번엔 어떤 의뢰이신가요?」"
+
+[[dialogue]]
+speaker_original = "依頼人Ａ"
+speaker_translation = "依頼人Ａ"
+original = "「えぇっと……君たちがゴールデングースの構成員なのかね……？」"
+translation = "「에또…… 너희가 골든 구스의 구성원인 건가……?」"
+
+[[dialogue]]
+speaker_original = "ヒマワリ"
+speaker_translation = "히마와리"
+original = "「はいっ！\u3000秘密結社ゴールデングースの鈴野ヒマワリっていいます！」"
+translation = "「네! 비밀결사 골든 구스의 스즈노 히마와리라고 해요!」"
+
+[[dialogue]]
+speaker_original = "ミウ"
+speaker_translation = "미우"
+original = "「同じく秘密結社ゴールデングースの構成員、深沢ミウと申します。よろしくお願いします」"
+translation = "「마찬가지로 비밀결사 골든 구스의 구성원, 후카자와 미우라고 합니다. 잘 부탁드립니다」"
+
+[[dialogue]]
+speaker_original = "依頼人Ｂ"
+speaker_translation = "依頼人Ｂ"
+original = "「……もっと上役はいないのか？\u3000話をするにしても、キミらのような……」"
+translation = "「……더 위에 있는 사람은 없나? 이야기를 나누려고 해도, 너희 같은……」"
+
+[[dialogue]]
+speaker_original = "ミウ"
+speaker_translation = "미우"
+original = "「申し訳ありません。社長のセナリィがあいにく留守にしておりますので」"
+translation = "「죄송합니다. 사장인 세나리가 안타깝게도 자리를 비운 상태라서요」"
+
+[[dialogue]]
+speaker_original = "ヒマワリ"
+speaker_translation = "히마와리"
+original = "「だけど心配はいらないですよ？\u3000こう見えてもお仕事の経験はいっぱい積んでますし、それにミウは大人顔負けに頭がいいから！」"
+translation = "「하지만 걱정할 필요 없어요! 이래 봬도 일 경험은 엄청 많이 쌓았고, 거기다 미우는 어른 못지않게 머리가 좋으니까!」"
+
+[[dialogue]]
+speaker_original = "ミウ"
+speaker_translation = "미우"
+original = "「僭越ながら作戦立案を担当させて頂いています」"
+translation = "「외람되지만 작전 입안을 담당하고 있습니다」"
+
+[[dialogue]]
+speaker_original = "依頼人Ｂ"
+speaker_translation = "依頼人Ｂ"
+original = "「そ、そうなのか……」"
+translation = "「그, 그런가……」"
+
+[[dialogue]]
+speaker_original = "ミウ"
+speaker_translation = "미우"
+original = "「ご不満のようですね？\u3000でしたら、アポイントを取っていただいて、再度社長のいらっしゃる時にお越し頂ければ──」"
+translation = "「불만이신가 보네요? 그러시다면, 약속을 잡으시고 다시 사장님이 계실 때 방문해 주신다면──」"
+
+[[dialogue]]
+speaker_original = "依頼人Ａ"
+speaker_translation = "依頼人Ａ"
+original = "「いや、急を要する案件だ。問題なく依頼を果たしてくれるならそれでいい」"
+translation = "「아니, 급을 요하는 안건이다. 문제없이 의뢰를 완수해 준다면 그걸로 됐다」"
+
+[[dialogue]]
+speaker_original = "依頼人Ａ"
+speaker_translation = "依頼人Ａ"
+original = "「実は君たちに調査して欲しいことがあるのだ。あまり大きな声では言えないのだが……五名門の九浄家を知っているだろうか？」"
+translation = "「사실 너희에게 조사해 줬으면 하는 것이 있다. 그다지 큰 소리로 말할 수는 없다만…… 5명문의 쿠죠 가문을 알고 있나?」"
+
+[[dialogue]]
+speaker_original = "ミウ"
+speaker_translation = "미우"
+original = "「はい、それはもちろん」"
+translation = "「네, 그건 물론이죠」"
+
+[[dialogue]]
+speaker_original = "依頼人Ａ"
+speaker_translation = "依頼人Ａ"
+original = "「その九浄家にだな、黒い噂があるのだ。それについて調査して欲しい」"
+translation = "「그 쿠죠 가문에 말이지, 검은 소문이 있다. 그것에 대해 조사해 줬으면 한다」"
+
+[[dialogue]]
+speaker_original = "ヒマワリ"
+speaker_translation = "히마와리"
+original = "「黒い噂、ですか？」"
+translation = "「검은 소문, 말인가요?」"
+
+[[dialogue]]
+speaker_original = "依頼人Ｂ"
+speaker_translation = "依頼人Ｂ"
+original = "「そうだ。キミらは知っているか？\u3000人工的に製造された星騎士の戦闘服があるという話を」"
+translation = "「그래. 너희는 알고 있나? 인공적으로 제조된 별기사의 전투복이 있다는 이야기를」"
+
+[[dialogue]]
+speaker_original = "ミウ"
+speaker_translation = "미우"
+original = "「ええ、存じております。私たちも流星学園附属校に通う星騎士ですから」"
+translation = "「네, 알고 있습니다. 저희도 유성학원 부속교에 다니는 별기사니까요」"
+
+[[dialogue]]
+speaker_original = "依頼人Ａ"
+speaker_translation = "依頼人Ａ"
+original = "「そうでしたか。ならば話は早い」"
+translation = "「그러셨습니까. 그렇다면 이야기가 빠르겠군요」"
+
+[[dialogue]]
+speaker_original = "依頼人Ａ"
+speaker_translation = "依頼人Ａ"
+original = "「実はこの度、九浄家で新たに人工戦闘服が開発された、という情報を入手したのだ」"
+translation = "「사실 이번에, 쿠죠 가문에서 새로 인공 전투복이 개발되었다는 정보를 입수했다」"
+
+[[dialogue]]
+speaker_original = "依頼人Ａ"
+speaker_translation = "依頼人Ａ"
+original = "「しかし、その新たな戦闘服が問題で──非常に危険なものであるらしい」"
+translation = "「하지만, 그 새로운 전투복이 문제라서── 매우 위험한 것인 모양이다」"
+
+[[dialogue]]
+speaker_original = "ミウ"
+speaker_translation = "미우"
+original = "「そうなんですか？\u3000その情報、どこから入手したものなのでしょう？」"
+translation = "「그런가요? 그 정보, 어디서 입수한 건가요?」"
+
+[[dialogue]]
+speaker_original = "依頼人Ａ"
+speaker_translation = "依頼人Ａ"
+original = "「それは言えない。が、信頼できる筋からの情報だとは言っておく」"
+translation = "「그건 말할 수 없다. 하지만, 신뢰할 수 있는 출처로부터의 정보라고는 말해 두지」"
+
+[[dialogue]]
+speaker_original = "ヒマワリ"
+speaker_translation = "히마와리"
+original = "「本当なのかな～。危険って、どういう風に危険なんだろ？」"
+translation = "「진짜일까나~. 위험하다니, 어떤 식으로 위험한 걸까?」"
+
+[[dialogue]]
+speaker_original = "依頼人Ａ"
+speaker_translation = "依頼人Ａ"
+original = "「問題はそこだ」"
+translation = "「문제는 거기다」"
+
+[[dialogue]]
+speaker_original = "依頼人Ａ"
+speaker_translation = "依頼人Ａ"
+original = "「現在、人工戦闘服の製作技術は九浄家によって秘匿されており、外部の者ではそれを知ることが出来ない状態になっている」"
+translation = "「현재, 인공 전투복의 제작 기술은 쿠죠 가문에 의해 은닉되어 있어, 외부 사람들은 그것을 알 수 없는 상태가 되어 있다」"
+
+[[dialogue]]
+speaker_original = "依頼人Ａ"
+speaker_translation = "依頼人Ａ"
+original = "「つまり具体的にその戦闘服が『なぜ危険で、どれほど危険なものなのか？』ということについて知る術がない、ということだ」"
+translation = "「즉 구체적으로 그 전투복이 『왜 위험하고, 얼마나 위험한 것인가?』라는 것에 대해 알 방도가 없다, 라는 것이다」"
+
+[[dialogue]]
+speaker_original = "ミウ"
+speaker_translation = "미우"
+original = "「なるほど……」"
+translation = "「그렇군요……」"
+
+[[dialogue]]
+speaker_original = "依頼人Ｂ"
+speaker_translation = "依頼人Ｂ"
+original = "「キミらだって仕組みの全く分からないものを身に着けて戦うのは、怖いと思わないか？」"
+translation = "「너희도 구조를 전혀 모르는 것을 착용하고 싸우는 건, 무섭다고 생각하지 않나?」"
+
+[[dialogue]]
+speaker_original = "依頼人Ｂ"
+speaker_translation = "依頼人Ｂ"
+original = "「我々はそれを明らかにしたいと思っているんだ。現場で戦う星騎士たちのために」"
+translation = "「우리는 그것을 밝혀내고 싶다고 생각하는 거다. 현장에서 싸우는 별기사들을 위해서」"
+
+[[dialogue]]
+speaker_original = "ヒマワリ"
+speaker_translation = "히마와리"
+original = "「あたしたちのこと心配してくれているんですね」"
+translation = "「우리를 걱정해 주고 계신 거네요」"
+
+[[dialogue]]
+speaker_original = "依頼人Ａ"
+speaker_translation = "依頼人Ａ"
+original = "「うむ。だがそれだけではない。加えて別な懸念もある。──人工戦闘服の技術を独占することで、九浄家が力を持ちすぎてしまうということだ」"
+translation = "「음. 하지만 그뿐만이 아니다. 게다가 다른 우려도 있다. ──인공 전투복 기술을 독점함으로써, 쿠죠 가문이 힘을 너무 많이 갖게 된다는 것이다」"
+
+[[dialogue]]
+speaker_original = "依頼人Ａ"
+speaker_translation = "依頼人Ａ"
+original = "「現在、流星市国は五名門の間でバランスが取れているが、九浄家の力が伸びすぎることでその平穏が脅かされるという可能性は十分に考えられる」"
+translation = "「현재, 류세이 시국은 5명문 사이에서 균형이 잡혀 있지만, 쿠죠 가문의 힘이 너무 커짐으로써 그 평온이 위협받을 가능성은 충분히 생각할 수 있다」"
+
+[[dialogue]]
+speaker_original = "ミウ"
+speaker_translation = "미우"
+original = "「九浄家の御当主、ヘレナさんは聡明な方です。その辺りは細心の注意を払っているように思いますが」"
+translation = "「쿠죠 가문의 가주이신, 헬레나 님은 현명하신 분입니다. 그 부분은 세심한 주의를 기울이고 계실 거라 생각합니다만」"
+
+[[dialogue]]
+speaker_original = "依頼人Ａ"
+speaker_translation = "依頼人Ａ"
+original = "「そうかもしれない。が、我々の話しているのは可能性の問題だ」"
+translation = "「그럴지도 모른다. 하지만, 우리가 말하는 건 가능성의 문제다」"
+
+[[dialogue]]
+speaker_original = "依頼人Ａ"
+speaker_translation = "依頼人Ａ"
+original = "「その懸念を払うためにも、人工戦闘服の技術は明らかにすべきなのだ。しかし正面からかけ合ったとして、九浄家がその情報を開示するとは思えない」"
+translation = "「그 우려를 씻어내기 위해서라도, 인공 전투복 기술은 밝혀내야만 한다. 하지만 정면으로 부딪친다고 해서, 쿠죠 가문이 그 정보를 개시할 리는 없겠지」"
+
+[[dialogue]]
+speaker_original = "ミウ"
+speaker_translation = "미우"
+original = "「なるほど……お話は分かりました」"
+translation = "「그렇군요…… 말씀은 잘 알겠습니다」"
+
+[[dialogue]]
+speaker_original = "ミウ"
+speaker_translation = "미우"
+original = "「依頼の内容としては『九浄家が隠匿している人工戦闘服の情報』と『新たに作られた人工戦闘服』について調査して欲しいということですね？」"
+translation = "「의뢰 내용으로서는 『쿠죠 가문이 은닉하고 있는 인공 전투복 정보』와 『새롭게 만들어진 인공 전투복』에 대해 조사해 줬으면 한다는 말씀이시죠?」"
+
+[[dialogue]]
+speaker_original = "依頼人Ａ"
+speaker_translation = "依頼人Ａ"
+original = "「その通りだ。話が早くて助かるな。どうだろう、お願いできるかね？」"
+translation = "「맞다. 말이 통해서 다행이군. 어떨까, 부탁할 수 있겠나?」"
+
+[[dialogue]]
+speaker_original = "ミウ"
+speaker_translation = "미우"
+original = "「わかりました、お引き受けいたします。では依頼手続きの書類をご用意いたしますね──」"
+translation = "「알겠습니다, 맡도록 하겠습니다. 그럼 의뢰 절차 서류를 준비해 드릴게요──」"
+
+[[dialogue]]
+speaker_original = "ヒマワリ"
+speaker_translation = "히마와리"
+original = "「うーん……」"
+translation = "「으음……」"
+
+[[dialogue]]
+speaker_original = "ミウ"
+speaker_translation = "미우"
+original = "「どうしたの、ヒマワリちゃん？」"
+translation = "「왜 그래, 히마와리짱?」"
+
+[[dialogue]]
+speaker_original = "ヒマワリ"
+speaker_translation = "히마와리"
+original = "「依頼、受けちゃったけど良かったのかなぁ？」"
+translation = "「의뢰, 받아 버렸는데 괜찮으려나?」"
+
+[[dialogue]]
+speaker_original = "ミウ"
+speaker_translation = "미우"
+original = "「ヒマワリちゃんはあの２人、怪しいって思う？」"
+translation = "「히마와리짱은 저 두 사람, 수상하다고 생각해?」"
+
+[[dialogue]]
+speaker_original = "ヒマワリ"
+speaker_translation = "히마와리"
+original = "「ちょっと思う。見た目で判断しちゃいけないとは思うんだけど、あからさまに悪人面だったし……」"
+translation = "「조금 생각해. 외모로 판단하면 안 된다고는 생각하지만, 노골적으로 악인상이었고……」"
+
+[[dialogue]]
+speaker_original = "ヒマワリ"
+speaker_translation = "히마와리"
+original = "「そもそもヘレナさんがそんな危ない人工戦闘服を安易に誰かに与えるとは思わないんだよね」"
+translation = "「애초에 헬레나 님이 그런 위험한 인공 전투복을 안일하게 누군가에게 줄 거라고는 생각되지 않거든」"
+
+[[dialogue]]
+speaker_original = "ヒマワリ"
+speaker_translation = "히마와리"
+original = "「ほら、社長の<ruby>女帝<rt>エンプレス</rt></ruby>フォームの時も、丁寧な試験運用がされたでしょ？」"
+translation = "「봐봐, 사장님의 <ruby>엠프레스<rt>엠프레스</rt></ruby> 폼 때도, 정성스러운 시험 운용을 거쳤잖아?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "秘密結社ゴールデングースの社長のセナリィのまとう特殊な人工戦闘服、女帝フォーム。"
+translation = "비밀결사 골든 구스의 사장 세나리가 두르는 특수한 인공 전투복, 엠프레스 폼."
+
+[[dialogue]]
+speaker = "unk"
+original = "膨大な体力と星力の消費と引き換えに、機械化モンスターすら一撃で屠るほどの絶大な力を持っている。"
+translation = "방대한 체력과 성력 소비를 대가로, 기계화 몬스터조차 일격에 도륙할 정도의 절대한 힘을 가지고 있다."
+
+[[dialogue]]
+speaker = "unk"
+original = "しかし、同時に消耗も非常に大きいというハイリスクハイリターンな戦闘フォームである。"
+translation = "하지만, 동시에 소모도 매우 크다는 하이 리스크 하이 리턴의 전투 폼이다."
+
+[[dialogue]]
+speaker = "unk"
+original = "ヒマワリとミウがゴールデングースへの入社を希望した時、セナリィが九浄家から受けていた依頼がその女帝フォームの試験運用だった。"
+translation = "히마와리와 미우가 골든 구스로의 입사를 희망했을 때, 세나리가 쿠죠 가문으로부터 받고 있던 의뢰가 바로 그 엠프레스 폼의 시험 운용이었다."
+
+[[dialogue]]
+speaker_original = "ヒマワリ"
+speaker_translation = "히마와리"
+original = "「ヘレナさんならそのへん、ちゃーんと検証するんじゃないかな？」"
+translation = "「헬레나 님이라면 그 부분, 따~악 검증하지 않을까?」"
+
+[[dialogue]]
+speaker_original = "ミウ"
+speaker_translation = "미우"
+original = "「そうだね、私もそう思う」"
+translation = "「맞아, 나도 그렇게 생각해」"
+
+[[dialogue]]
+speaker_original = "ヒマワリ"
+speaker_translation = "히마와리"
+original = "「え？\u3000だったらどうしてこの依頼、受けちゃったの？」"
+translation = "「에? 그렇다면 어째서 이 의뢰, 받아 버린 거야?」"
+
+[[dialogue]]
+speaker_original = "ミウ"
+speaker_translation = "미우"
+original = "「人工戦闘服の製作技術の一切が秘匿されてるっていうのは、おじさんたちの言う通りなんだよね」"
+translation = "「인공 전투복의 제작 기술 일체가 은닉되어 있다는 건, 아저씨들 말이 맞거든」"
+
+[[dialogue]]
+speaker_original = "ミウ"
+speaker_translation = "미우"
+original = "「ヘレナさんは信用できる人だと思うけど、全てを九浄家に委ねてるっていう状態は確かに健全とは言えないと思う」"
+translation = "「헬레나 님은 신뢰할 수 있는 분이라고 생각하지만, 모든 것을 쿠죠 가문에 맡기고 있다는 상태는 확실히 건전하다고는 할 수 없다고 생각해」"
+
+[[dialogue]]
+speaker_original = "ミウ"
+speaker_translation = "미우"
+original = "「それに、どうやって次から次へと強力な人工戦闘服を作り出してるのか、気になるところではあるから……」"
+translation = "「게다가, 어떻게 차례차례 강력한 인공 전투복을 만들어 내고 있는 건지, 궁금한 부분이기도 하고……」"
+
+[[dialogue]]
+speaker_original = "ヒマワリ"
+speaker_translation = "히마와리"
+original = "「もしかしてミウも人工戦闘服の秘密、知りたくなっちゃってるんじゃない？」"
+translation = "「혹시 미우도 인공 전투복의 비밀, 알고 싶어진 거 아니야?」"
+
+[[dialogue]]
+speaker_original = "ミウ"
+speaker_translation = "미우"
+original = "「うん、まあ、ちょっとね」"
+translation = "「응, 뭐, 조금은」"
+
+[[dialogue]]
+speaker_original = "ヒマワリ"
+speaker_translation = "히마와리"
+original = "「よーし、じゃあ頑張って調査しちゃおう！\u3000どういう作戦でいく？」"
+translation = "「좋아~, 그럼 열심히 조사해 보자! 어떤 작전으로 갈까?」"
+
+[[dialogue]]
+speaker_original = "ミウ"
+speaker_translation = "미우"
+original = "「そうだね。今回は九浄家に潜入捜査ってことになると思うから……」"
+translation = "「글쎄. 이번엔 쿠죠 가문에 잠입 수사라는 게 될 것 같으니까……」"
+
+[[dialogue]]
+speaker_original = "ヒマワリ"
+speaker_translation = "히마와리"
+original = "「えへへ、面白くなってきたー♪」"
+translation = "「에헤헤, 재미있어졌어─♪」"
+

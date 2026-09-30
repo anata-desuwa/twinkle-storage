@@ -307,7 +307,7 @@ translation = "요미에게 있어서도 리크리에나 몬스터는 두려운 
 [[dialogue]]
 speaker = "unk"
 original = "つい先日まで、会長のことはどこか遠い存在のように感じていた。尊敬や憧れはあっても、自分とは違う特別な存在であると、どこか壁を作っていた。"
-translation = ""
+translation = "얼마 전까지만 해도, 회장은 어딘가 먼 존재처럼 느끼고 있었다. 존경이나 동경은 있어도, 자신과는 다른 특별한 존재라며, 어딘가 벽을 치고 있었다."
 
 [[dialogue]]
 speaker = "unk"
@@ -820,12 +820,12 @@ translation = "「! 네, 요미 선배!」"
 speaker_original = "狛里"
 speaker_translation = "狛里"
 original = "「かしこまりましたであります！」"
-translation = ""
+translation = "「알겠습니다 말입니다!」"
 
 [[dialogue]]
 speaker = "unk"
 original = "２人は肩を並べる。"
-translation = ""
+translation = "두 사람은 어깨를 나란히 한다."
 
 [[dialogue]]
 speaker = "unk"

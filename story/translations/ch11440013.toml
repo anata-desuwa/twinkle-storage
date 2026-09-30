@@ -23,7 +23,7 @@ translation = "비너스는 그 어린이 런치, 진짜 좋아하는구나"
 speaker_original = "ヴィーナス"
 speaker_translation = "비너스"
 original = "「えへへっ、だって美味しいんだもの♪」"
-translation = ""
+translation = "「에헤헤, 그치만 맛있는걸♪」"
 
 [[dialogue]]
 speaker = "unk"
@@ -34,7 +34,7 @@ translation = "그런 이야기를 하고 있자니――"
 speaker_original = "狛里"
 speaker_translation = "狛里"
 original = "「魔王様～っ♪\u3000ヴィーナスお嬢様～！」"
-translation = ""
+translation = "「마왕님~♪ 비너스 아가씨~!」"
 
 [[dialogue]]
 speaker = "unk"
@@ -79,7 +79,7 @@ translation = "코마리는 주먹밥이야?"
 speaker_original = "狛里"
 speaker_translation = "狛里"
 original = "「はいっ♪\u3000狛里はおにぎり大好きなのです！」"
-translation = ""
+translation = "「네♪ 코마리는 주먹밥을 정말 좋아하는 것입니다!」"
 
 [[dialogue]]
 speaker = "unk"
@@ -107,7 +107,7 @@ translation = "「앗, 또 시작됐네」"
 speaker_original = "狛里"
 speaker_translation = "狛里"
 original = "「えへへへっ♪\u3000やっぱり魔王様はいい匂いがするのです♪」"
-translation = ""
+translation = "「에헤헤헤♪ 역시 마왕님은 좋은 냄새가 나는 것입니다♪」"
 
 [[dialogue]]
 speaker_original = "ヴィーナス"
@@ -119,7 +119,7 @@ translation = "「코마리는 눈 깜짝할 사이에 쿠로토한테 따랐네
 speaker_original = "狛里"
 speaker_translation = "狛里"
 original = "「はいっ！」"
-translation = ""
+translation = "「네!」"
 
 [[dialogue]]
 speaker = "unk"
@@ -220,7 +220,7 @@ translation = "「쿠죠가에서는 메이드대 아이들을 대상으로, 성
 [[dialogue]]
 speaker = "unk"
 original = "いや、確かに大切なことですけれどもっ！！！"
-translation = ""
+translation = "아니, 확실히 중요한 일입니다만!!! "
 
 [[dialogue]]
 speaker_original = "狛里"
@@ -248,7 +248,7 @@ translation = "「이것이 『사랑』이라는 것이었군요!」"
 [[dialogue]]
 speaker = "unk"
 original = "えっ！？"
-translation = ""
+translation = "엣!?"
 
 [[dialogue]]
 speaker = "unk"
@@ -374,7 +374,7 @@ translation = "그 후로도――"
 speaker_original = "狛里"
 speaker_translation = "狛里"
 original = "「魔王様～っ♪\u3000大好きなのです～<emoji=heart04>\u3000くんくん♪」"
-translation = ""
+translation = "「마왕님~♪ 정말 좋아하는 것입니다~<emoji=heart04> 킁킁♪」"
 
 [[dialogue]]
 speaker_original = "狛里"
@@ -386,7 +386,7 @@ translation = "「코마리 배, 쓰다듬어 주세요인 것입니다~♪ 아�
 speaker_original = "狛里"
 speaker_translation = "狛里"
 original = "「えへへ♪\u3000今日は褒めてもらえて嬉しいのですっ。魔王様のお顔、ぺろぺろしちゃうのですぅ<emoji=heart04>」"
-translation = ""
+translation = "「에헤헤♪ 오늘은 칭찬받아서 기쁜 것입니다. 마왕님의 얼굴, 낼름낼름해 버릴 거라구요<emoji=heart04>」"
 
 [[dialogue]]
 speaker = "unk"
@@ -455,7 +455,7 @@ translation = "무슨 소리야!?."
 speaker_original = "狛里"
 speaker_translation = "狛里"
 original = "「ばうわふっ♪」"
-translation = ""
+translation = "「바우와후♪」"
 
 [[dialogue]]
 speaker = "unk"
