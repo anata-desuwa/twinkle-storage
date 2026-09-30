@@ -1,4 +1,9 @@
 [[dialogue]]
+speaker = "unk"
+# 第１話,待ち合わせの時間にて,P
+line = "第１話,待ち合わせの時間にて,P"
+
+[[dialogue]]
 speaker = "オオヒメ"
 # 「…………はぁ」
 line = "「…………はぁ」"
