@@ -1,0 +1,471 @@
+[[dialogue]]
+speaker = "unk"
+original = "第２話,辺境の英雄,P"
+translation = "제2화, 변방의 영웅, P"
+
+[[dialogue]]
+speaker = "unk"
+original = "狛里がカティアと知り合ってから、少し経ったある日の放課後。"
+translation = "코마리가 카티아와 알고 지낸 지 얼마 지나지 않은 어느 날 방과후."
+
+[[dialogue]]
+speaker = "unk"
+original = "俺たちは『仮想結界』の中で、一緒に戦闘訓練を行うことになった。"
+translation = "우리는 『가상결계』 속에서 함께 전투 훈련을 하기로 했다."
+
+[[dialogue]]
+speaker_original = "カティア"
+speaker_translation = "카티아"
+original = "「狛里、負けないワン！」"
+translation = "「코마리, 지지 않는다멍!」"
+
+[[dialogue]]
+speaker_original = "狛里"
+speaker_translation = "狛里"
+original = "「はいっ、カティア先輩！\u3000ライバル同士、仲良く勝負なのです♪」"
+translation = "「네, 카티아 선배! 라이벌끼리 사이좋게 승부하는 것입니다♪」"
+
+[[dialogue]]
+speaker_original = "カティア"
+speaker_translation = "카티아"
+original = "「だから、ライバルの意味を間違ってるガオ！」"
+translation = "「 그러니까 라이벌의 의미를 착각하고 있다크앙!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "そんなやり取りをしながら、仮想モンスター相手の訓練が始まった。"
+translation = "그런 주고받음을 하면서 가상 몬스터를 상대로 훈련이 시작되었다."
+
+[[dialogue]]
+speaker_original = "モンスター"
+speaker_translation = "몬스터"
+original = "「グルルルル……！」"
+translation = "「그르르르르……!」"
+
+[[dialogue]]
+speaker_original = "狛里"
+speaker_translation = "狛里"
+original = "「そこであります！」"
+translation = "「거기입니다!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "狛里は一瞬で懐へ飛び込み、敵を撃破する。更に――"
+translation = "코마리는 순식간에 품으로 파고들어 적을 격파한다. 거기다――"
+
+[[dialogue]]
+speaker_original = "モンスターたち"
+speaker_translation = "モンスターたち"
+original = "「ガアアッ！」"
+translation = "「크아앗!」"
+
+[[dialogue]]
+speaker_original = "狛里"
+speaker_translation = "狛里"
+original = "「後ろから３匹！」"
+translation = "「뒤에서 3마리!」"
+
+[[dialogue]]
+speaker_original = "カティア"
+speaker_translation = "카티아"
+original = "「えっ！？」"
+translation = "「에!?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "カティアが振り向くより早く、狛里は敵の気配を察知していた。"
+translation = "카티아가 돌아보기보다 빠르게 코마리는 적의 기척을 감지하고 있었다."
+
+[[dialogue]]
+speaker_original = "狛里"
+speaker_translation = "狛里"
+original = "「ばうわふっ！」"
+translation = "「바우와프!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "狛里は３匹の攻撃を最小限の動きでかわしながら、一撃ずつ確実に仕留めていく。"
+translation = "코마리는 3마리의 공격을 최소한의 움직임으로 피하면서 한 마리씩 확실하게 처리해 나간다."
+
+[[dialogue]]
+speaker_original = "カティア"
+speaker_translation = "카티아"
+original = "「す、すごい……！」"
+translation = "「대, 대단해……!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "戦闘終了後。"
+translation = "전투 종료 후."
+
+[[dialogue]]
+speaker = "unk"
+original = "休憩中に、カティアは隣に座る狛里へ問いかけた。"
+translation = "휴식 중에 카티아는 옆에 앉은 코마리에게 질문했다."
+
+[[dialogue]]
+speaker_original = "カティア"
+speaker_translation = "카티아"
+original = "「あのさ……狛里って、なんでそんなに強いの？」"
+translation = "「저기…… 코마리는 왜 그렇게 강해?」"
+
+[[dialogue]]
+speaker_original = "狛里"
+speaker_translation = "狛里"
+original = "「え？」"
+translation = "「네?」"
+
+[[dialogue]]
+speaker_original = "カティア"
+speaker_translation = "카티아"
+original = "「私もプリマステラを目指してるからわかるけど……」"
+translation = "「나도 프리마스테라를 목표로 하고 있으니까 알지만……」"
+
+[[dialogue]]
+speaker_original = "カティア"
+speaker_translation = "카티아"
+original = "「狛里は転入してきたばかりなのに、明らかに戦い慣れてる動きだったから……」"
+translation = "「코마리는 전학 온 지 얼마 안 됐는데 명백히 싸움에 익숙한 움직임이었으니까……」"
+
+[[dialogue]]
+speaker_original = "狛里"
+speaker_translation = "狛里"
+original = "「……実は狛里、１年くらい前に、たくさんの『敵』と戦ってたのです」"
+translation = "「……사실 코마리, 1년쯤 전에 많은 『적』과 싸웠던 것입니다」"
+
+[[dialogue]]
+speaker_original = "カティア"
+speaker_translation = "카티아"
+original = "「たくさんの敵……？」"
+translation = "「많은 적……?」"
+
+[[dialogue]]
+speaker_original = "狛里"
+speaker_translation = "狛里"
+original = "「狛里の故郷は、魔界の辺境にある小さな村なのですが――」"
+translation = "「코마리의 고향은 마계 변방에 있는 작은 마을입니다만――」"
+
+[[dialogue]]
+speaker_original = "狛里"
+speaker_translation = "狛里"
+original = "「１年前、村の近くにある大空洞で異変が起きて、まわりの魔物たちがいっせいに狂暴化して、村を襲うようになったのです」"
+translation = "「1년 전 마을 근처에 있는 대공동에서 이상현상이 일어나서 주변 마물들이 일제히 흉포화되어 마을을 습격하게 된 것입니다」"
+
+[[dialogue]]
+speaker_original = "狛里"
+speaker_translation = "狛里"
+original = "「大空洞には、大昔に封印された魔獣の『白虎』が眠っていたそうで……」"
+translation = "「대공동에는 먼 옛날 봉인된 마수의 『백호』가 잠들어 있었다고 해서……」"
+
+[[dialogue]]
+speaker_original = "狛里"
+speaker_translation = "狛里"
+original = "「その魔力を受けて、まわりの魔物たちが白虎の眷族になっちゃったのです」"
+translation = "「그 마력을 받아서 주변 마물들이 백호의 권속이 되어버린 것입니다」"
+
+[[dialogue]]
+speaker_original = "カティア"
+speaker_translation = "카티아"
+original = "「そんなことが……」"
+translation = "「그런 일이……」"
+
+[[dialogue]]
+speaker_original = "狛里"
+speaker_translation = "狛里"
+original = "「狂暴化した魔物たちは、昼も夜も、ずっと村を襲ってきたのです」"
+translation = "「흉포화된 마물들은 밤낮없이 계속 마을을 습격해 왔던 것입니다」"
+
+[[dialogue]]
+speaker_original = "狛里"
+speaker_translation = "狛里"
+original = "「……村で唯一星力を使えて、戦えるのは狛里だけだったのであります」"
+translation = "「……마을에서 유일하게 성력을 쓸 수 있고 싸울 수 있는 건 코마리뿐이었던 것입니다」"
+
+[[dialogue]]
+speaker_original = "狛里"
+speaker_translation = "狛里"
+original = "「だから狛里が村の門番になって、みんなを守ることになったのです」"
+translation = "「그래서 코마리가 마을의 문지기가 되어 모두를 지키게 된 것입니다」"
+
+[[dialogue]]
+speaker_original = "カティア"
+speaker_translation = "카티아"
+original = "「ひ、１人でっ！？」"
+translation = "「혼, 혼자서!?」"
+
+[[dialogue]]
+speaker_original = "狛里"
+speaker_translation = "狛里"
+original = "「といっても、たった１ヵ月の間だけであります」"
+translation = "「이라고 해도 단 1개월 동안뿐이었던 것입니다」"
+
+[[dialogue]]
+speaker = "unk"
+original = "狛里は笑ってみせながら言う。"
+translation = "코마리는 웃어 보이며 말한다."
+
+[[dialogue]]
+speaker_original = "狛里"
+speaker_translation = "狛里"
+original = "「でも、あの時はいつ助けが来るかもわからなくて……」"
+translation = "「하지만 그때는 언제 구하러 올지도 몰랐고……」"
+
+[[dialogue]]
+speaker_original = "狛里"
+speaker_translation = "狛里"
+original = "「狛里が頑張らないと、みんなが危ないって思って、とにかく必死だったのです」"
+translation = "「코마리가 힘내지 않으면 모두가 위험하다고 생각해서 어쨌든 필사적이었던 것입니다」"
+
+[[dialogue]]
+speaker_original = "狛里"
+speaker_translation = "狛里"
+original = "「そのあと、近くの街から星騎士の人たちが助けに来てくれて、最後は白虎も倒すことができたのであります」"
+translation = "「그 뒤 근처 도시에서 성기사 분들이 구하러 와주셔서 마지막에는 백호도 쓰러뜨릴 수 있었던 것입니다」"
+
+[[dialogue]]
+speaker = "unk"
+original = "『辺境の英雄』って呼ばれてると聞いた"
+translation = "『변방의 영웅』이라고 불린다고 들었어"
+
+[[dialogue]]
+speaker = "unk"
+original = "狛里が白虎にトドメを刺して"
+translation = "코마리가 백호에게 숨통을 끊어서"
+
+[[dialogue]]
+speaker = "unk"
+original = "ヘレナちゃんから狛里を紹介してもらった後、その村で何があったのかについても、ある程度話は聞いていた。"
+translation = "헬레나 양에게 코마리를 소개받은 후, 그 마을에서 무슨 일이 있었는지에 대해서도 어느 정도 이야기는 들었다."
+
+[[dialogue]]
+speaker_original = "狛里"
+speaker_translation = "狛里"
+original = "「他の星騎士さんたちの力も借りましたし、たまたま狛里が最後にトドメを刺しただけなのですっ」"
+translation = "「다른 성기사님들의 힘도 빌렸고 어쩌다 보니 코마리가 마지막에 숨통을 끊었을 뿐입니다!」"
+
+[[dialogue]]
+speaker_original = "狛里"
+speaker_translation = "狛里"
+original = "「でも、それがきっかけで九浄家の人にスカウトされて……」"
+translation = "「하지만 그게 계기가 되어 쿠죠 가 사람에게 스카우트되어서……」"
+
+[[dialogue]]
+speaker_original = "狛里"
+speaker_translation = "狛里"
+original = "「一緒に戦った星騎士さんたちや、村のみんなに背中を押されて、人間界へ来ることを決めたのです」"
+translation = "「함께 싸운 성기사님들이나 마을 모두가 응원해 주어서 인간계로 오기로 결정한 것입니다」"
+
+[[dialogue]]
+speaker_original = "カティア"
+speaker_translation = "카티아"
+original = "「そうだったんだ……」"
+translation = "「그랬구나……」"
+
+[[dialogue]]
+speaker_original = "狛里"
+speaker_translation = "狛里"
+original = "「それで、狛里には目標があるのです！」"
+translation = "「그래서 코마리에게는 목표가 있는 것입니다!」"
+
+[[dialogue]]
+speaker_original = "カティア"
+speaker_translation = "카티아"
+original = "「目標？」"
+translation = "「목표?」"
+
+[[dialogue]]
+speaker_original = "狛里"
+speaker_translation = "狛里"
+original = "「はいっ！」"
+translation = "「네!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "狛里は力強く頷く。"
+translation = "코마리는 힘차게 고개를 끄덕인다."
+
+[[dialogue]]
+speaker_original = "狛里"
+speaker_translation = "狛里"
+original = "「１人で門番をやって、白虎との戦いでも生き残ることができて――」"
+translation = "「혼자서 문지기를 하고 백호와의 싸움에서도 살아남을 수 있어서――」"
+
+[[dialogue]]
+speaker_original = "狛里"
+speaker_translation = "狛里"
+original = "「だからこそ狛里は、『幸せに生きたい』って強く思ったのです！」"
+translation = "「그렇기 때문에 코마리는 『행복하게 살고 싶다』고 강하게 생각했던 것입니다!」"
+
+[[dialogue]]
+speaker_original = "狛里"
+speaker_translation = "狛里"
+original = "「村のみんなも、これからは狛里のやりたいことを見つけてほしいって言って、送り出してくれたのです」"
+translation = "「마을 모두도 앞으로는 코마리가 하고 싶은 일을 찾았으면 좋겠다고 하면서 보내주었던 것입니다」"
+
+[[dialogue]]
+speaker_original = "狛里"
+speaker_translation = "狛里"
+original = "「だから狛里は、人間界で自分の夢――」"
+translation = "「그래서 코마리는 인간계에서 자신의 꿈――」"
+
+[[dialogue]]
+speaker_original = "狛里"
+speaker_translation = "狛里"
+original = "「幸せな生き方を見つけたいのであります！」"
+translation = "「행복한 삶을 찾고 싶은 것입니다!」"
+
+[[dialogue]]
+speaker_original = "カティア"
+speaker_translation = "카티아"
+original = "「その……」"
+translation = "「그……」"
+
+[[dialogue]]
+speaker_original = "カティア"
+speaker_translation = "카티아"
+original = "「そういうことなら、困った時は私が相談に乗ってあげてもいい……ワン」"
+translation = "「그런 거라면 곤란할 때는 내가 상담해 줘도 괜찮아…… 멍」"
+
+[[dialogue]]
+speaker_original = "狛里"
+speaker_translation = "狛里"
+original = "「え？」"
+translation = "「네?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "狛里は目をぱちくりさせた後、耳をぴんと立てて。"
+translation = "코마리는 눈을 깜빡인 후 귀를 쫑긋 세우더니."
+
+[[dialogue]]
+speaker_original = "狛里"
+speaker_translation = "狛里"
+original = "「カティア先輩、本当なのです！？」"
+translation = "「카티아 선배, 정말인 것입니까!?」"
+
+[[dialogue]]
+speaker_original = "カティア"
+speaker_translation = "카티아"
+original = "「ら、ライバルだけど……私は１年先輩なんだから、それくらいしてあげてもいい……ガオ！」"
+translation = "「라, 라이벌이지만…… 나는 1년 선배니까 그 정도는 해줘도 괜찮아…… 크앙!」"
+
+[[dialogue]]
+speaker_original = "狛里"
+speaker_translation = "狛里"
+original = "「う～っ！\u3000カティア先輩～っ♪」"
+translation = "「우~! 카티아 선배~♪」"
+
+[[dialogue]]
+speaker_original = "カティア"
+speaker_translation = "카티아"
+original = "「わっ！？」"
+translation = "「와!?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "狛里は勢いよく、カティアに抱きついた。"
+translation = "코마리는 기세 좋게 카티아에게 왈칵 안겼다."
+
+[[dialogue]]
+speaker_original = "狛里"
+speaker_translation = "狛里"
+original = "「ありがとうなのです～っ♪\u3000ばうわ～ふっ♪」"
+translation = "「고마운 것입니다~♪ 바우와~프♪」"
+
+[[dialogue]]
+speaker_original = "カティア"
+speaker_translation = "카티아"
+original = "「い、言っとくけど、ライバルなのは変わらないからね！？」"
+translation = "「마, 말해두지만 라이벌인 건 변함없으니까 말야!?」"
+
+[[dialogue]]
+speaker_original = "カティア"
+speaker_translation = "카티아"
+original = "「今は狛里の方が強くても、魔王様の第一のしもべの座は譲らないガオ！」"
+translation = "「지금은 코마리가 더 강해도 마왕님의 첫 번째 하수인 자리는 양보 안 한다크앙!」"
+
+[[dialogue]]
+speaker_original = "狛里"
+speaker_translation = "狛里"
+original = "「えへへへへへぇ<emoji=heart04>\u3000くんくん♪」"
+translation = "「에헤헤헤헤헤<emoji=heart04> 킁킁♪」"
+
+[[dialogue]]
+speaker_original = "カティア"
+speaker_translation = "카티아"
+original = "「って、どさくさに紛れて服の中まで顔を突っ込んで匂いを嗅ぐなぁ！？」"
+translation = "「이봐, 어물쩍 넘어가지 말고 옷 속까지 얼굴을 처박고 냄새 맡지 마!?」"
+
+[[dialogue]]
+speaker_original = "狛里"
+speaker_translation = "狛里"
+original = "「カティア先輩、大好きであります～♪」"
+translation = "「카티아 선배, 너무 좋은 것입니다~♪」"
+
+[[dialogue]]
+speaker_original = "カティア"
+speaker_translation = "카티아"
+original = "「なっ！？\u3000なに言ってるの、本当に！？」"
+translation = "「뭐!? 무슨 소리 하는 거야, 정말!?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "カティアの顔が真っ赤になる。だが、今回は振りほどこうとはしなかった。"
+translation = "카티아의 얼굴이 새빨개진다. 하지만 이번에는 뿌리치려고 하지 않았다."
+
+[[dialogue]]
+speaker = "unk"
+original = "その様子を見ながら、俺は思わず笑ってしまう。"
+translation = "그 모습을 보면서 나는 나도 모르게 웃음을 터뜨리고 만다."
+
+[[dialogue]]
+speaker = "unk"
+original = "狛里、よかったな"
+translation = "코마리, 잘 됐네"
+
+[[dialogue]]
+speaker_original = "狛里"
+speaker_translation = "狛里"
+original = "「はいっ！」"
+translation = "「네!」"
+
+[[dialogue]]
+speaker_original = "狛里"
+speaker_translation = "狛里"
+original = "「これから、よろしくお願いするであります！\u3000カティア先輩♪」"
+translation = "「앞으로 잘 부탁드리는 것입니다! 카티아 선배♪」"
+
+[[dialogue]]
+speaker_original = "カティア"
+speaker_translation = "카티아"
+original = "「わ、わかったから！\u3000訓練の続きをやるよ！」"
+translation = "「아, 알았으니까! 훈련 계속하자!」"
+
+[[dialogue]]
+speaker_original = "カティア"
+speaker_translation = "카티아"
+original = "「私も負けないで、さっきのモンスターを倒してみせるんだからっ！」"
+translation = "「나도 지지 않고 아까 그 몬스터를 쓰러뜨려 보일 테니까!」"
+
+[[dialogue]]
+speaker_original = "狛里"
+speaker_translation = "狛里"
+original = "「ばうわふっ♪\u3000一緒にお手伝いするのです！」"
+translation = "「바우와프♪ 같이 도와드리는 것입니다!」"
+
+[[dialogue]]
+speaker_original = "カティア"
+speaker_translation = "카티아"
+original = "「それじゃ意味ないガオ！」"
+translation = "「그러면 의미 없다크앙!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "どうやら２人は、本当に仲良くなれそうだ。"
+translation = "아무래도 두 사람은 정말로 친해질 수 있을 것 같다."
+
+[[dialogue]]
+speaker = "unk"
+original = "その日以来、狛里とカティアはよく一緒に戦闘訓練をするようになるのだった。"
+translation = "그날 이후 코마리와 카티아는 자주 함께 전투 훈련을 하게 되는 것이었다."
+

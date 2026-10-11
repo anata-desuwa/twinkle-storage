@@ -1,0 +1,149 @@
+[[dialogue]]
+speaker = "unk"
+original = "『支配』のロストアイテム、シエスタによる誘拐騒動から数日が経った──"
+translation = "『지배』의 로스트 아이템, 시에스타에 의한 유괴 소동으로부터 며칠이 지났다──"
+
+[[dialogue]]
+speaker_original = "アナ"
+speaker_translation = "아나"
+original = "「しかしまさか、ヒトならざる『妹』まで増えるとは。流石は会長」"
+translation = "「하지만 설마, 사람이 아닌 『여동생』까지 늘어날 줄이야. 역시 회장님」"
+
+[[dialogue]]
+speaker_original = "マトイ"
+speaker_translation = "마토이"
+original = "「昔はモンスターを惹き寄せる体質だって騒がれてたのに……今はもう、妹を惹き寄せる体質に変わってるんじゃない……？」"
+translation = "「예전에는 몬스터를 끌어당기는 체질이라고 소란스러웠는데…… 지금은 이제, 여동생을 끌어당기는 체질로 바뀐 거 아니야……？」"
+
+[[dialogue]]
+speaker = "unk"
+original = "怖いことを言わないでくれ"
+translation = "무서운 소리 하지 마."
+
+[[dialogue]]
+speaker_original = "蘭美"
+speaker_translation = "라미"
+original = "「失礼するわ！\u3000会長、調子はどうかしら！？」"
+translation = "「실례하겠어! 회장, 컨디션은 어떠니!?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "やあ、みんな。元気だよ"
+translation = "안녕, 얘들아. 멀쩡해."
+
+[[dialogue]]
+speaker_original = "蘭美"
+speaker_translation = "라미"
+original = "「当主様から、会長の仕事の手伝いをしろと仰せつかっているわ！\u3000困ってる事があったら何でも言いなさい！」"
+translation = "「당주님으로부터 회장의 일을 도우라는 분부를 받았어! 곤란한 일이 있으면 뭐든지 말하렴!」"
+
+[[dialogue]]
+speaker_original = "シュティレ"
+speaker_translation = "슈틸레"
+original = "「こちら、錬金術同好会からの差し入れです。副作用はなし、一発キメると体力が全回復するスペシャルドリンクです」"
+translation = "「이쪽은 연금술 동호회에서 보낸 찬조품입니다. 부작용은 없고, 한 발 맞으면 체력이 완전 회복되는 스페셜 드링크입니다」"
+
+[[dialogue]]
+speaker_original = "トリュファイナ"
+speaker_translation = "트류파이나"
+original = "「魔王様。お疲れでしたらいつでも申し付けてくださいね。癒しの魔法をお届けいたします！」"
+translation = "「마왕님. 피곤하시면 언제든지 말씀해 주세요. 치유의 마법을 전해드리겠습니다!」"
+
+[[dialogue]]
+speaker_original = "マトイ"
+speaker_translation = "마토이"
+original = "「わわわ。最近多いね、差し入れとか……」"
+translation = "「와와와. 요즘 많네, 찬조품 같은 거……」"
+
+[[dialogue]]
+speaker_original = "アナ"
+speaker_translation = "아나"
+original = "「先日のシエスタの一件で、会長の激務を少しでも減らそうという心配りでしょうか。ありがたく受け取っておきましょう」"
+translation = "「일전의 시에스타 일로 회장님의 격무를 조금이라도 줄여주려는 배려일까요. 감사히 받아두죠」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ところで、２人はなんでバニーに？"
+translation = "그나저나 둘은 왜 바니 차림이야?"
+
+[[dialogue]]
+speaker_original = "シュティレ"
+speaker_translation = "슈틸레"
+original = "「せっかくダッチから衣装を手に入れたので。最近、不定期でこの格好にて購買部の店番をしております」"
+translation = "「모처럼 더치에게서 의상을 얻었기 때문입니다. 최근 비정기적으로 이 차림으로 매점 보초를 서고 있습니다」"
+
+[[dialogue]]
+speaker_original = "トリュファイナ"
+speaker_translation = "트류파이나"
+original = "「はい！\u3000大盛況なのですよ、魔王様♪\u3000ぴょん、ぴょん♪」"
+translation = "「네! 대성황이랍니다, 마왕님♪ 뿅, 뿅♪」"
+
+[[dialogue]]
+speaker = "unk"
+original = "蘭美はもうバニーガール着ないの？"
+translation = "라비는 이제 바니걸 안 입어?"
+
+[[dialogue]]
+speaker_original = "蘭美"
+speaker_translation = "라미"
+original = "「着るわけないぴょんっ！\u3000あんなの、もうあれっきりなんだから！！」"
+translation = "「입을 리 없잖아 뿅! 그런 건, 이제 그때뿐이었으니까!!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "にぎやかな放課後の星徒会室。ようやく、日常が帰ってきたって感じだ──"
+translation = "시끌벅적한 방과 후의 성도회실. 드디어 일상이 돌아왔다는 느낌이다──"
+
+[[dialogue]]
+speaker = "unk"
+original = "──あの騒動以降、シエスタは俺の前に姿を現さない。"
+translation = "──그 소동 이후, 시에스타는 내 앞에 모습을 나타내지 않는다."
+
+[[dialogue]]
+speaker = "unk"
+original = "少し寂しいなと思いながら、俺は執務机の引き出しを開くと──"
+translation = "조금 쓸쓸하다고 생각하면서, 나는 집무 책상의 서랍을 열자──"
+
+[[dialogue]]
+speaker = "unk"
+original = "……手紙？"
+translation = "……편지?"
+
+[[dialogue]]
+speaker = "unk"
+original = "たどたどしい筆跡で、俺宛ての──『妹』からの手紙が入っていた。"
+translation = "서투른 필적으로 나에게 보낸── 『여동생』의 편지가 들어있었다."
+
+[[dialogue]]
+speaker_original = "シエスタ"
+speaker_translation = "シエスタ"
+original = "『お兄ちゃんへ』"
+translation = "『오빠에게』"
+
+[[dialogue]]
+speaker_original = "シエスタ"
+speaker_translation = "シエスタ"
+original = "『自分のしたこと、しっかり反省できたら、その時に会いに行くの』"
+translation = "『내가 한 짓, 제대로 반성할 수 있게 되면 그때 만나러 가는 거야』"
+
+[[dialogue]]
+speaker_original = "シエスタ"
+speaker_translation = "シエスタ"
+original = "『だから……またね、なの！\u3000お兄ちゃん！』"
+translation = "『그러니까…… 또 봐, 인 거야! 오빠!』"
+
+[[dialogue]]
+speaker = "unk"
+original = "……待ってるよ、シス"
+translation = "……기다릴게, 시스."
+
+[[dialogue]]
+speaker = "unk"
+original = "俺は手紙を丁寧に畳んで、元にあったところへしまって。"
+translation = "나는 편지를 정성껏 접어서 원래 있던 곳에 넣어두고."
+
+[[dialogue]]
+speaker = "unk"
+original = "いつか実現するであろう、ロストアイテムの『妹』との再会を心待ちにするのだった──"
+translation = "언젠가 실현될 로스트 아이템인 『여동생』과의 재회를 고대하는 것이었다──"
+

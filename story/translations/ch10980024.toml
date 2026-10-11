@@ -1,0 +1,354 @@
+[[dialogue]]
+speaker = "unk"
+original = "第４話,勝者にキスの祝福を,P"
+translation = "제4화, 승자에게 키스의 축복을, P"
+
+[[dialogue]]
+speaker = "unk"
+original = "ヒマワリが事務所で待機していると聞いて、俺もゴールデングースの事務所にお邪魔していた。"
+translation = "히마와리가 사무실에서 대기하고 있다는 말을 듣고, 나도 골든 구스의 사무실에 신세를 지고 있었다."
+
+[[dialogue]]
+speaker_original = "ヒマワリ"
+speaker_translation = "히마와리"
+original = "「契約書と請求書、完成っと。よーし、今日の事務仕事おしまーい！」"
+translation = "「계약서랑 청구서, 완성. 좋아─, 오늘 사무 일 끝─!」"
+
+[[dialogue]]
+speaker_original = "ヒマワリ"
+speaker_translation = "히마와리"
+original = "「社長たちがなかなか帰ってきませんね～。……あ、そうだ、ゲームしませんか？」"
+translation = "「사장님들이 좀처럼 돌아오시지 않네요~. ……아, 맞다, 게임하지 않으실래요?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "遊んでていいの？"
+translation = "놀아도 괜찮아?"
+
+[[dialogue]]
+speaker_original = "ヒマワリ"
+speaker_translation = "히마와리"
+original = "「やることは、ちゃんとやりましたもん。ボーッと待ってるだけじゃ時間の無駄じゃないですかー」"
+translation = "「할 일은, 제대로 했으니까요. 멍하니 기다리기만 하는 건 시간 wastage잖아요─」"
+
+[[dialogue]]
+speaker_original = "ヒマワリ"
+speaker_translation = "히마와리"
+original = "「このパソコンにインストールしてあるんですけどー……このＦＰＳ、知ってますー？\u3000めちゃオモロ、めちゃアツですよー！」"
+translation = "「이 컴퓨터에 설치되어 있는데요─…… 이 FPS, 알고 계세요─? 엄청 재밌고, 엄청 hot하다고요─!」"
+
+[[dialogue]]
+speaker_original = "ヒマワリ"
+speaker_translation = "히마와리"
+original = "「会長さんとあたしがチームを組んだら、絶対、最強バディになれるんで！\u3000手取り足取り教えますよ！」"
+translation = "「회장님이랑 제가 팀을 짜면, 절대, 최강 버디가 될 수 있으니까요! 하나부터 열까지 가르쳐 드릴게요!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ヒマワリ先生つきっきりでチュートリアルを習う。"
+translation = "히마와리 선생님이 전담으로 붙어서 튜토리얼을 배운다."
+
+[[dialogue]]
+speaker_original = "ヒマワリ"
+speaker_translation = "히마와리"
+original = "「そうそう、クリックすると武器が切り替わってー、カーソルを合わせて、撃つ！」"
+translation = "「그렇지 그렇지, 클릭하면 무기가 교체되고─, 커서를 맞추고, 쏘기!」"
+
+[[dialogue]]
+speaker_original = "ヒマワリ"
+speaker_translation = "히마와리"
+original = "「さっすが、会長さん！\u3000飲み込み早ーい！\u3000じゃ、対人戦デビューしましょっか！」"
+translation = "「역시, 회장님! 습득이 빠르시네요─! 그럼, 대인전 데뷔해 볼까요!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "早くない！？"
+translation = "빠르지 않아!?"
+
+[[dialogue]]
+speaker_original = "ヒマワリ"
+speaker_translation = "히마와리"
+original = "「大丈夫ですよー。ビギナーランクなら、みんなデビューしたばっかりだから怖くない怖くなーい」"
+translation = "「괜찮아요─. 비기너 랭크라면, 다들 막 데뷔했을 뿐이니까 무섭지 않아요 무섭지 않아─」"
+
+[[dialogue]]
+speaker_original = "ヒマワリ"
+speaker_translation = "히마와리"
+original = "「ＣＰＵと対人だと全然別物ですし。こればっかりは経験しないと覚えられないですし。多少の痛みはつきものですから！」"
+translation = "「CPU랑 대인전은 완전히 딴판이기도 하고요. 이건 경험해 보지 않으면 익힐 수 없으니까요. 약간의 고통은 따르기 마련이라고요!」"
+
+[[dialogue]]
+speaker_original = "ヒマワリ"
+speaker_translation = "히마와리"
+original = "「ゲームスタート！\u3000デビュー戦ファイトっ！」"
+translation = "「게임 스타트! 데뷔전 화이팅─!」"
+
+[[dialogue]]
+speaker_original = "ヒマワリ"
+speaker_translation = "히마와리"
+original = "「レーダー、見てくださいね。後ろから迫ってきてますよー」"
+translation = "「레이더, 확인해 주세요. 뒤에서 접근하고 있어요─」"
+
+[[dialogue]]
+speaker_original = "ヒマワリ"
+speaker_translation = "히마와리"
+original = "「あ、そこトラップあるー！\u3000右に迂回しましょう！」"
+translation = "「아, 거기 트랩 있어요─! 오른쪽으로 우회해요!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "有能すぎるオペレーターの的確な指示を受けながら、俺は着々と対戦相手を仕留め、順位を上げていく。"
+translation = "유능하기 짝이 없는 오퍼레이터의 적절한 지시를 받으며, 나는 착착 상대방을 꺾고 순위를 올려간다."
+
+[[dialogue]]
+speaker_original = "ヒマワリ"
+speaker_translation = "히마와리"
+original = "「！？\u3000上から来るよ、気をつけて！」"
+translation = "「!? 위에서 와요, 조심해요!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ヒマワリが警告した次の瞬間、俺のキャラは地面に倒れ伏した。"
+translation = "히마와리가 경고한 다음 순간, 내 캐릭터는 땅바닥에 엎어졌다."
+
+[[dialogue]]
+speaker = "unk"
+original = "教えてくれてたのに、ごめんな"
+translation = "가르쳐 줬는데, 미안해"
+
+[[dialogue]]
+speaker = "unk"
+original = "良い感じだったのに……"
+translation = "좋은 분위기였는데……"
+
+[[dialogue]]
+speaker_original = "ヒマワリ"
+speaker_translation = "히마와리"
+original = "「よしよし。会長さんは悪くないですよ。相手と運が悪かっただけ……んー？」"
+translation = "「어라어라. 회장님은 잘못 없어요. 상대와 운이 나빴을 뿐…… 응ー?」"
+
+[[dialogue]]
+speaker_original = "ヒマワリ"
+speaker_translation = "히마와리"
+original = "「あー、ちょっと見てくださいよー。このゲーム、やられた後は自分を倒したプレイヤーの視点にできるんですけど……この人、素人じゃなさそう」"
+translation = "「아ー, 이것 좀 봐주세요ー. 이 게임, 당한 후에는 자신을 처치한 플레이어의 시점으로 전환할 수 있는데요…… 이 사람, 초보자가 아닌 것 같아요」"
+
+[[dialogue]]
+speaker_original = "ヒマワリ"
+speaker_translation = "히마와리"
+original = "「ほら、ここのショートカットとか初めてだったら絶対気づくわけないし、エイムもめちゃ上手いし」"
+translation = "「보세요, 여기 숏컷 같은 건 처음이라면 절대 알 리가 없고, 에임도 엄청 잘하고요」"
+
+[[dialogue]]
+speaker_original = "ヒマワリ"
+speaker_translation = "히마와리"
+original = "「中級プレイヤーの初心者狩りっぽいなー……結構いるんですよねー、そういう悪趣味なプレイするヤツ」"
+translation = "「중급 플레이어의 양학 같은데요ー…… 제법 있거든요ー, 그런 악취미인 플레이를 하는 녀석」"
+
+[[dialogue]]
+speaker = "unk"
+original = "結局、俺を倒したプレイヤーは、そのまま１位になった。"
+translation = "결국, 나를 처치한 플레이어는 그대로 1위가 되었다."
+
+[[dialogue]]
+speaker_original = "ヒマワリ"
+speaker_translation = "히마와리"
+original = "「こんにゃろー、あたしの彼氏にいい度胸だー！\u3000名前覚えたし、次に会ったらボッコボコに──って、連戦してんじゃん！\u3000調子乗ってんなー！」"
+translation = "「이 자식이ー, 내 남자친구한테 배짱도 좋네ー! 이름 기억했으니까 다음에 만나면 패배기──가 아니라, 연전하고 있잖아! 신났네ー!」"
+
+[[dialogue]]
+speaker_original = "ヒマワリ"
+speaker_translation = "히마와리"
+original = "「よーし、会長さん、代わってください！\u3000仇はあたしが取る！\u3000復讐のリベンジマッチだー！」"
+translation = "「좋아ー, 회장님, 교대해 주세요! 원수는 내가 갚는다! 복수의 리벤지 매치다ー!」"
+
+[[dialogue]]
+speaker_original = "ヒマワリ"
+speaker_translation = "히마와리"
+original = "「他のプレイヤーはガン無視でやったります！\u3000素人さんに手を出したらアイツと同じになっちゃうから狙いはアイツだけでね！」"
+translation = "「다른 플레이어는 싹 무시하고 해치우겠어요! 초보자한테 손을 대면 저 녀석이랑 똑같아지니까 목표는 저 녀석뿐이에요!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "周りを飛び交う銃弾の雨あられをかいくぐり、ヒマワリは俺を倒したプレイヤーと対敵する。"
+translation = "주위에 빗발치는 총알 세례를 뚫고, 히마와리는 나를 처치한 플레이어와 맞선다."
+
+[[dialogue]]
+speaker_original = "ヒマワリ"
+speaker_translation = "히마와리"
+original = "「くぬっ！\u3000ほら、もー！\u3000今の鬼回避、絶対素人のテクじゃないってー！」"
+translation = "「크윽! 거봐, 정말ー! 방금 그 귀신같은 회피, 절대 초보자 테크닉이 아니라니까ー!」"
+
+[[dialogue]]
+speaker_original = "ヒマワリ"
+speaker_translation = "히마와리"
+original = "「でも！\u3000会長さんをイジメたツケは、払ってもらうんだからねっ！」"
+translation = ""
+
+[[dialogue]]
+speaker = "unk"
+original = "放った銃弾、そして、弧を描く手榴弾。"
+translation = "쏜 총알, 그리고 호를 그리는 수류탄."
+
+[[dialogue]]
+speaker = "unk"
+original = "巧みな時間差攻撃により、ヒマワリは俺を倒したプレイヤーを、きっちり仕留めてくれたのだった。"
+translation = "교묘한 시차 공격을 통해 히마와리는 나를 처치한 플레이어를 확실하게 처리해 주었던 것이다."
+
+[[dialogue]]
+speaker_original = "ヒマワリ"
+speaker_translation = "히마와리"
+original = "「へへっ、復讐を終えたところで得るものなんて何もありゃしない……虚しいものだぜ」"
+translation = ""
+
+[[dialogue]]
+speaker = "unk"
+original = "格好よかったよ"
+translation = "멋있었어"
+
+[[dialogue]]
+speaker = "unk"
+original = "ありがとう、ヒマワリ"
+translation = "고마워, 히마와리"
+
+[[dialogue]]
+speaker_original = "ヒマワリ"
+speaker_translation = "히마와리"
+original = "「えへへ、ありがとうこざいます。んー……♪」"
+translation = "「에헤헤, 감사합니다. 음ー……♪」"
+
+[[dialogue]]
+speaker_original = "ヒマワリ"
+speaker_translation = "히마와리"
+original = "「もー、会長さん、何をボーッとしてるんですかー。勝利のご褒美といったら、キスでしょ？」"
+translation = "「정말ー, 회장님, 뭘 멍하니 있는 건가요ー. 승리의 포상이라고 하면 키스죠?」"
+
+[[dialogue]]
+speaker_original = "ヒマワリ"
+speaker_translation = "히마와리"
+original = "「ほら、もう１回。彼氏の仇討ちに成功した彼女にー……んーっ♪」"
+translation = ""
+
+[[dialogue]]
+speaker_original = "ヒマワリ"
+speaker_translation = "히마와리"
+original = "「ちゅっ<emoji=heart04>\u3000えへ、えへへへへ<emoji=heart04>\u3000最高のご褒美、もらえちゃいましたー<emoji=heart04>」"
+translation = "「쪽<emoji=heart04> 에헤, 에헤헤헤헤<emoji=heart04> 최고의 포상, 받아버렸어요ー<emoji=heart04>」"
+
+[[dialogue]]
+speaker_original = "ヒマワリ"
+speaker_translation = "히마와리"
+original = "「じゃ、会長さん、もっかいプレイしてみて。会長さんがナイスプレイする度に、今度はあたしがキスしてあげますね♪」"
+translation = "「그럼, 회장님, 다시 한번 플레이해 보세요. 회장님이 나이스 플레이를 할 때마다, 이번엔 내가 키스해 줄게요♪」"
+
+[[dialogue]]
+speaker = "unk"
+original = "というわけで、その後も──"
+translation = "그런 이유로, 그 후로도──"
+
+[[dialogue]]
+speaker_original = "ヒマワリ"
+speaker_translation = "히마와리"
+original = "「あっ、今のはナイスキルです！\u3000んちゅっ<emoji=heart04>」"
+translation = "「앗, 방금 건 나이스 킬이에요! 쯉<emoji=heart04>」"
+
+[[dialogue]]
+speaker_original = "ヒマワリ"
+speaker_translation = "히마와리"
+original = "「ナイス占領！\u3000ちゅっ<emoji=heart04>\u3000ちゅっ<emoji=heart04>」"
+translation = "「나이스 점령! 쪽<emoji=heart04> 쪽<emoji=heart04>」"
+
+[[dialogue]]
+speaker_original = "ヒマワリ"
+speaker_translation = "히마와리"
+original = "「すごいすごーい、最後まで生き残ったじゃないですかー！\u3000偉すぎるので、キス１０回っ！\u3000ちゅっちゅっちゅっちゅっちゅっ<emoji=heart04>」"
+translation = "「대단해 대단해ー, 마지막까지 살아남았잖아요ー! 너무 장하니까, 키스 10번! 쪽쪽쪽쪽쪽<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ナイスなプレイを決めるたびに、ヒマワリは俺にキスの祝福を授けてくれた。"
+translation = "나이스 플레이를 해낼 때마다, 히마와리는 나에게 키스의 축복을 내려주었다."
+
+[[dialogue]]
+speaker = "unk"
+original = "ご褒美があるとモチベーションが上がる。ついつい夢中になっていると──"
+translation = "포상이 있으니 의욕이 솟구친다. 나도 모르게 열중하고 있자──"
+
+[[dialogue]]
+speaker_original = "セナリィ"
+speaker_translation = "세나리"
+original = "「……あなたたち、事務所で何をイチャコラやってるんですの」"
+translation = "「……당신들, 사무실에서 무슨 꽁냥거림을 시전하는 건가요」"
+
+[[dialogue]]
+speaker_original = "ヒマワリ"
+speaker_translation = "히마와리"
+original = "「あっ」"
+translation = "「앗」"
+
+[[dialogue]]
+speaker = "unk"
+original = "あっ"
+translation = "앗"
+
+[[dialogue]]
+speaker = "unk"
+original = "いつの間にか帰ってきていたセナリィとミウに見られてしまっていた。"
+translation = "어느새 돌아와 있던 세나리와 미우에게 들키고 말았다."
+
+[[dialogue]]
+speaker_original = "ミウ"
+speaker_translation = "미우"
+original = "「私たちがお仕事してる間、随分とお楽しみになってたみたいですね？」"
+translation = "「저희가 일하고 있는 동안, 제법 재미를 보고 계셨던 모양이네요?」"
+
+[[dialogue]]
+speaker_original = "ヒマワリ"
+speaker_translation = "히마와리"
+original = "「あたしの仕事はちゃんと終わらせてるしー！\u3000さ、最後まではしてないよ！？」"
+translation = "「내 일은 제대로 끝내놨거든ー! 끝, 끝까지 하진 않았거든!?」"
+
+[[dialogue]]
+speaker_original = "セナリィ"
+speaker_translation = "세나리"
+original = "「何を言ってますの！？\u3000当たり前ですわ！？」"
+translation = "「무슨 소릴 하시는 건가요!? 당연한 거 아닌가요!?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "そんなわけでこれ以降、ゴールデングース事務所でのイチャイチャ禁止令が制定されてしまうのだが──"
+translation = "그런 이유로 이 이후, 골든 구스 사무실에서의 꽁냥거림 금지령이 제정되고 말지만──"
+
+[[dialogue]]
+speaker_original = "ヒマワリ"
+speaker_translation = "히마와리"
+original = "「会長さん、社長もミウも出かけてるしー、ちょっとだけイチャイチャしませーん？」"
+translation = "「회장님, 사장도 미우도 나갔는데ー, 조금만 꽁냥거리지 않을래요ー?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "イチャイチャは禁止されたばっかでしょ！？"
+translation = "꽁냥거리는 건 방금 금지당했잖아!?"
+
+[[dialogue]]
+speaker_original = "ヒマワリ"
+speaker_translation = "히마와리"
+original = "「ちっちっち、あたしはアウトロー。ルールを守ってるだけのいい子じゃ、刺激が足りないですよねー♪」"
+translation = "「쯧쯧쯧, 나는 아웃로. 규칙만 지키는 착한 아이로는, 자극이 부족하다고요ー♪」"
+
+[[dialogue]]
+speaker_original = "ヒマワリ"
+speaker_translation = "히마와리"
+original = "「とゆーわけでー、会長さん、好き好き好きー<emoji=heart04>\u3000ちゅ、ちゅっ、ちゅーーっ<emoji=heart04>」"
+translation = "「그런 고로ー, 회장님, 좋아좋아좋아ー<emoji=heart04> 쪽, 쪽, 쪽ーー<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "unk"
+original = "好奇心旺盛なヒマワリは『懲りる』という言葉を知らないらしい。"
+translation = "호기심 왕성한 히마와리는 『반성하다』라는 단어를 모르는 모양이다."
+
+[[dialogue]]
+speaker = "unk"
+original = "どうやら危なっかしい彼女から目を離せない日々は、これからも続くらしかった。"
+translation = "아무래도 위태로운 그녀에게서 눈을 뗄 수 없는 날들은, 앞으로도 계속될 것 같았다."
+

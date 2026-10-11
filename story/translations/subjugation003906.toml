@@ -300,56 +300,56 @@ translation = "(나도 주변 사람들에게 이렇게 가르침을 받아왔�
 speaker_original = "ヨミ"
 speaker_translation = "요미"
 original = "（だったら今度は……）"
-translation = ""
+translation = "（그러면 이번에는……）"
 
 [[dialogue]]
 speaker_original = "ヨミ"
 speaker_translation = "요미"
 original = "（私が、狛里さんに教える番なんだ！）"
-translation = ""
+translation = "（내가, 코마사토 씨에게 가르쳐 줄 차례야!）"
 
 [[dialogue]]
 speaker = "unk"
 original = "ヨミは顔を上げる。"
-translation = ""
+translation = "요미는 고개를 든다."
 
 [[dialogue]]
 speaker_original = "ヨミ"
 speaker_translation = "요미"
 original = "「会長、私――」"
-translation = ""
+translation = "「회장님, 저――」"
 
 [[dialogue]]
 speaker_original = "ヨミ"
 speaker_translation = "요미"
 original = "「もう１度、ちゃんと狛里さんに伝えてみます」"
-translation = ""
+translation = "「다시 한번, 제대로 코마사토 씨에게 전달해 볼게요」"
 
 [[dialogue]]
 speaker_original = "クロト"
 speaker_translation = "쿠로토"
 original = "「うん、その意気だ」"
-translation = ""
+translation = "「응, 바로 그 기세야」"
 
 [[dialogue]]
 speaker = "unk"
 original = "会長は微笑みながら、サムズアップをしてみせる。"
-translation = ""
+translation = "회장은 미소 지으며, 엄지를 세워 보인다."
 
 [[dialogue]]
 speaker_original = "クロト"
 speaker_translation = "쿠로토"
 original = "「頑張れ、ヨミ<b>先輩</b>！」"
-translation = ""
+translation = "「힘내라, 요미 <b>선배</b>!」"
 
 [[dialogue]]
 speaker_original = "ヨミ"
 speaker_translation = "요미"
 original = "「！\u3000……はいっ！」"
-translation = ""
+translation = "「! ……네!」"
 
 [[dialogue]]
 speaker = "unk"
 original = "ヨミも力強く頷いてみせるのだった。"
-translation = ""
+translation = "요미도 힘차게 고개를 끄덕이는 것이었다."
 

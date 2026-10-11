@@ -1,0 +1,440 @@
+[[dialogue]]
+speaker = "unk"
+original = "カフェテリアを訪れたベアトリスとナターシャ。"
+translation = "카페테리아를 방문한 베아트리스와 나타샤."
+
+[[dialogue]]
+speaker = "unk"
+original = "２人はハロウィンの準備をしていたサランと蛍火に事情を説明し、協力してもらうことになった。"
+translation = "두 사람은 할로윈 준비를 하고 있던 사란과 호타루비에게 사정을 설명하고, 협력을 구하기로 했다."
+
+[[dialogue]]
+speaker_original = "サラン"
+speaker_translation = "사란"
+original = "「ふんふん……とっておきのハロウィンパーティーにしたいんだね～。サランも応援するよ～」"
+translation = "「흠흠…… 특별한 할로윈 파티를 만들고 싶은 거구나~. 사란도 응원할게~」"
+
+[[dialogue]]
+speaker_original = "サラン"
+speaker_translation = "사란"
+original = "「ハロウィンパーティー用のお菓子なら、カボチャのモンブランを作るのはどうかな～？」"
+translation = "「할로윈 파티용 과자라면, 호박 몽블랑을 만드는 건 어떨까~?」"
+
+[[dialogue]]
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
+original = "「モンブラン！？\u3000すっごく繊細そうな気がしますけど、私たちにできるかなぁ……？」"
+translation = "「몽블랑!? 엄청 섬세할 것 같은 느낌이 드는데, 저희가 할 수 있으려나요……?」"
+
+[[dialogue]]
+speaker_original = "サラン"
+speaker_translation = "사란"
+original = "「だいじょうぶ～♪\u3000作るって言っても、タルト生地とカボチャクリームはできてるから～」"
+translation = "「괜찮아~♪ 만든다고 해도, 타르트 시트랑 호박 크림은 완성되어 있으니까~」"
+
+[[dialogue]]
+speaker_original = "サラン"
+speaker_translation = "사란"
+original = "「タルト生地に生クリームを載せて、カボチャクリームをにゅるにゅる～って搾るだけ～。簡単でしょ～？」"
+translation = "「타르트 시트에 생크림을 올리고, 호박 크림을 쭉쭉~ 짜내기만 하면 돼~. 간단하지~?」"
+
+[[dialogue]]
+speaker_original = "ナターシャ"
+speaker_translation = "나타샤"
+original = "「ん、そのくらいならできそうかな」"
+translation = "「응, 그 정도라면 할 수 있을지도」"
+
+[[dialogue]]
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
+original = "「じゃあやってみますっ」"
+translation = "「그럼 해볼게요」"
+
+[[dialogue]]
+speaker = "unk"
+original = "サランに準備をしてもらって、モンブラン作りを始めるベアトリスとナターシャ。"
+translation = "사란에게 준비를 받고, 몽블랑 만들기를 시작하는 베아트리스와 나타샤."
+
+[[dialogue]]
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
+original = "「あれ、あれれれれ？\u3000にゅるにゅる搾るの、思ったより難しいですニャ～……」"
+translation = "「어라, 어라라라라? 쭉쭉 짜내는 거, 생각보다 어려워요 냥~……」"
+
+[[dialogue]]
+speaker_original = "ナターシャ"
+speaker_translation = "나타샤"
+original = "「ベアト、力入れすぎだし焦りすぎ。もっとゆっくりでいいんだよ。ほら、こうやって──」"
+translation = "「베아토, 힘을 너무 줬고 너무 조급해. 더 천천히 해도 된다고. 봐봐, 이렇게──」"
+
+[[dialogue]]
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
+original = "「わ、わ、ナターシャちゃん、やっぱり器用だねっ！\u3000とっても綺麗っ！」"
+translation = "「와, 와, 나타샤짱, 역시 손재주가 좋네! 엄청 예뻐!」"
+
+[[dialogue]]
+speaker_original = "サラン"
+speaker_translation = "사란"
+original = "「初めてとは思えないくらい上手だね～♪」"
+translation = "「처음이라고는 믿기지 않을 정도로 잘하네~♪」"
+
+[[dialogue]]
+speaker_original = "蛍火"
+speaker_translation = "호타루비"
+original = "「確かに。見事な手際です。試食していかれますか？」"
+translation = "「확실히. 훌륭한 솜씨입니다. 시식해 보시겠습니까?」"
+
+[[dialogue]]
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
+original = "「はいっ！\u3000ちゃんと美味しいか、確認しないとですよねっ。いただきま～すっ、あむっ♪」"
+translation = "「네! 제대로 맛있는지 확인해야 하니까요. 잘 먹겠습니다, 냠♪」"
+
+[[dialogue]]
+speaker_original = "ナターシャ"
+speaker_translation = "나타샤"
+original = "「べースはサランたちが作ってるんだから、大丈夫に決まってるでしょ。……あむ」"
+translation = "「베이스는 사란 일행이 만든 거니까, 당연히 맛있겠지. ……냠」"
+
+[[dialogue]]
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
+original = "「ん～～っ♪\u3000ナターシャちゃんのモンブラン美味しいニャ～っ！」"
+translation = "「음~~♪ 나타샤짱의 몽블랑 맛있어 냥~!」"
+
+[[dialogue]]
+speaker_original = "ナターシャ"
+speaker_translation = "나타샤"
+original = "「ベアトのモンブランは……うん、私のと変わんないね。タルト生地とクリームは同じだしそりゃそうか」"
+translation = "「베아토의 몽블랑은…… 응, 내 거랑 다를 바 없네. 타르트 시트랑 크림은 똑같으니 그야 당연하지만」"
+
+[[dialogue]]
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
+original = "「美味しくない？」"
+translation = "「맛없어?」"
+
+[[dialogue]]
+speaker_original = "ナターシャ"
+speaker_translation = "나타샤"
+original = "「ん～……私、美味しいってのがよくわからないからね」"
+translation = "「음~…… 나, 맛있다는 게 잘 뭔지 모르겠거든」"
+
+[[dialogue]]
+speaker_original = "蛍火"
+speaker_translation = "호타루비"
+original = "「ナターシャさんは味蕾が目覚めてないのでしょうか？」"
+translation = "「나타샤 씨는 미뢰가 깨어나지 않은 걸까요?」"
+
+[[dialogue]]
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
+original = "「ミライ？\u3000時を超える能力とか……？」"
+translation = "「미래? 시간을 넘나드는 능력이라든가……?」"
+
+[[dialogue]]
+speaker_original = "蛍火"
+speaker_translation = "호타루비"
+original = "「『未来』ではなく『味蕾』です。舌にある味を感じ取る器官です」"
+translation = "「『미래』가 아니라 『미뢰』입니다. 혀에 있는 맛을 느끼는 기관입니다」"
+
+[[dialogue]]
+speaker_original = "ナターシャ"
+speaker_translation = "나타샤"
+original = "「や、味はわかるよ。甘いとかしょっぱいとかは判別できるし。嗅覚も機能してる」"
+translation = "「아니, 맛은 알아. 달다든가 짜다든가는 판별할 수 있고. 구각도 기능하고 있어」"
+
+[[dialogue]]
+speaker_original = "ナターシャ"
+speaker_translation = "나타샤"
+original = "「仕事柄、心を殺す訓練ってのをやったせいか、味はわかっても美味しいって思わないんだよね」"
+translation = "「직업상, 감정을 죽이는 훈련이란 걸 한 탓인지, 맛은 알아도 맛있다고는 안 느껴지더라고」"
+
+[[dialogue]]
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
+original = "「ナターシャちゃん……」"
+translation = "「나타샤짱……」"
+
+[[dialogue]]
+speaker_original = "蛍火"
+speaker_translation = "호타루비"
+original = "「それは……相当過酷な訓練だったのですね」"
+translation = "「그건…… 상당히 가혹한 훈련이었겠군요」"
+
+[[dialogue]]
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
+original = "「私……ナターシャちゃんにも『美味しい』って気持ちを知ってほしい」"
+translation = "「나…… 나타샤짱에게도 『맛있다』는 기분을 알게 해주고 싶어」"
+
+[[dialogue]]
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
+original = "「私は吸血鬼だけど、食べるのが好き。美味しいものを食べると幸せな気持ちになる」"
+translation = "「나는 흡혈귀지만, 먹는 걸 좋아해. 맛있는 걸 먹으면 행복한 기분이 들어」"
+
+[[dialogue]]
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
+original = "「ナターシャちゃんにも、その幸せを知ってほしいよ！」"
+translation = "「나타샤짱에게도, 그 행복을 알게 해주고 싶어!」"
+
+[[dialogue]]
+speaker_original = "ナターシャ"
+speaker_translation = "나타샤"
+original = "「気持ちはありがたいけど、別に不便してるわけじゃないしね。ベアトが気にしなくてもいいんじゃない」"
+translation = "「마음은 고맙지만, 딱히 불편한 것도 아니고 말이지. 베아토가 신경 쓰지 않아도 돼」"
+
+[[dialogue]]
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
+original = "「それでも、ナターシャちゃんに知ってもらいたいの！\u3000私の気持ち！」"
+translation = "「그래도, 나타샤짱에게 알게 해주고 싶어! 내 마음!」"
+
+[[dialogue]]
+speaker_original = "ナターシャ"
+speaker_translation = "나타샤"
+original = "「ベアト……」"
+translation = "「베아토……」"
+
+[[dialogue]]
+speaker_original = "ナターシャ"
+speaker_translation = "나타샤"
+original = "「確かにベアトはわがままかもね。お人好しなわがままだ」"
+translation = "「확실히 베아토는 떼쟁이일지도 모르겠네. 오지랖 넓은 떼쟁이야」"
+
+[[dialogue]]
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
+original = "「あの……蛍火さん。私、作りたい料理があるんです。ごにょごにょごにょ……」"
+translation = "「저기…… 호타루비 씨. 저, 만들고 싶은 요리가 있어요. 소곤소곤소곤……」"
+
+[[dialogue]]
+speaker_original = "蛍火"
+speaker_translation = "호타루비"
+original = "「なるほど。それでしたら材料は揃っていますので、用意しましょう」"
+translation = "「그렇군요. 그렇다면 재료는 갖춰져 있으니, 준비하도록 하죠」"
+
+[[dialogue]]
+speaker = "unk"
+original = "蛍火に材料を準備してもらい、ベアトリスが厨房に立つ。"
+translation = "호타루비에게 재료를 준비받고, 베아트리스가 주방에 선다."
+
+[[dialogue]]
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
+original = "「というわけで、ナターシャちゃんにちなんで『暗殺者のパスタ』を作りますっ」"
+translation = "「그런 이유로, 나타샤짱에 맞춰 『암살자의 파스타』를 만들겠습니다」"
+
+[[dialogue]]
+speaker_original = "ナターシャ"
+speaker_translation = "나타샤"
+original = "「物騒な名前だね。それ、本当にある料理？\u3000ベアトの創作じゃなくて？」"
+translation = "「험악한 이름이네. 그거, 진짜로 있는 요리? 베아토가 창작한 게 아니고?」"
+
+[[dialogue]]
+speaker_original = "蛍火"
+speaker_translation = "호타루비"
+original = "「安心してください。実在する料理です。トマトソースとニンニクを使って、フライパンで直接炒めて作るパスタです」"
+translation = "「안심해 주세요. 실재하는 요리입니다. 토마토소스와 마늘을 사용해서, 프라이팬에서 직접 볶아서 만드는 파스타입니다」"
+
+[[dialogue]]
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
+original = "「私の大好物ニャんですっ」"
+translation = "「제가 제일 좋아하는 음식 냥입니다」"
+
+[[dialogue]]
+speaker_original = "ナターシャ"
+speaker_translation = "나타샤"
+original = "「暗殺者にニンニクとか匂いの強い食べ物はタブーなんだけどな。ガーリックハラスメント、ガリハラだよ？」"
+translation = "「암살자에게 마늘 같은 냄새가 강한 음식은 금기인데 말이지. 가릭 해러스먼트, 갈하라라고?」"
+
+[[dialogue]]
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
+original = "「でも今は任務がないんだし、暗殺者がお休みなら、食べてみてもいいんじゃニャい？」"
+translation = "「하지만 지금은 임무가 없기도 하고, 암살자가 휴업 중이라면 먹어봐도 괜찮지 않냐냐?」"
+
+[[dialogue]]
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
+original = "「それに吸血鬼の格好してるなら、血のように赤いパスタはピッタリだよ！」"
+translation = "「게다가 흡혈귀 차림을 하고 있다면 피처럼 붉은 파스타가 딱이지!」"
+
+[[dialogue]]
+speaker_original = "ナターシャ"
+speaker_translation = "나타샤"
+original = "「そういうものかな～？」"
+translation = "「그런가~?」"
+
+[[dialogue]]
+speaker_original = "蛍火"
+speaker_translation = "호타루비"
+original = "「ニンニク料理でしたら、サランさんよりも私の領分。私がお手伝いしましょう」"
+translation = "「마늘 요리라면 사랑 씨보다는 제 전문 분야죠. 제가 도와드릴게요」"
+
+[[dialogue]]
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
+original = "「蛍火さん、よろしくお願いしますっ」"
+translation = "「호타루비 씨, 잘 부탁드립니다앗」"
+
+[[dialogue]]
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
+original = "「完成～～～っ！」"
+translation = ""
+
+[[dialogue]]
+speaker_original = "ナターシャ"
+speaker_translation = "나타샤"
+original = "「え、もう？\u3000１５分しか経ってないよ」"
+translation = "「어, 벌써? 15분밖에 안 지났는데」"
+
+[[dialogue]]
+speaker_original = "蛍火"
+speaker_translation = "호타루비"
+original = "「材料も簡単に揃うものですし、手早く作れるのが利点の料理ですから」"
+translation = "「재료도 구하기 쉽고, 재빨리 만들 수 있는 게 장점인 요리니까요」"
+
+[[dialogue]]
+speaker_original = "蛍火"
+speaker_translation = "호타루비"
+original = "「ただ、こちらの暗殺者のパスタ、従来のレシピの約１０倍のニンニクを使用しています。味を調えるのに一苦労でした」"
+translation = "「다만, 이쪽의 암살자 파스타는 기존 레시피의 약 10배에 달하는 마늘을 사용하거든요. 맛을 맞추는 데 한참 애먹었답니다」"
+
+[[dialogue]]
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
+original = "「大丈夫ですよっ。ニンニクは使えば使うほど美味しいんですからっ。ナターシャちゃん、召し上がれ」"
+translation = ""
+
+[[dialogue]]
+speaker_original = "ナターシャ"
+speaker_translation = "나타샤"
+original = "「うわ！？\u3000すっごい匂い……鼻が利かなくなりそう……。これ、食べても大丈夫なやつなの？」"
+translation = "「우와!? 엄청난 냄새…… 코가 마비될 것 같아……. 이거, 먹어도 괜찮은 거 맞아?」"
+
+[[dialogue]]
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
+original = "「一口だけ！\u3000一口だけでもいいから食べてみて！」"
+translation = "「한 입만! 한 입만이라도 좋으니까 먹어봐!」"
+
+[[dialogue]]
+speaker_original = "ナターシャ"
+speaker_translation = "나타샤"
+original = "「まぁ、そこまで言うなら、一口だけは食べるかな」"
+translation = "「뭐, 거기까지 말한다면 한 입 정도는 먹어볼까」"
+
+[[dialogue]]
+speaker_original = "ナターシャ"
+speaker_translation = "나타샤"
+original = "「フォークでくるくるくるっと……あむっ」"
+translation = "「포크로 돌돌돌 말아서…… 아움」"
+
+[[dialogue]]
+speaker_original = "ナターシャ"
+speaker_translation = "나타샤"
+original = "「んぅむーーーっ！！？\u3000けほっ！\u3000けほっ！」"
+translation = ""
+
+[[dialogue]]
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
+original = "「大丈夫、ナターシャちゃん！？」"
+translation = "「괜찮아, 나타샤짱!?」"
+
+[[dialogue]]
+speaker_original = "ナターシャ"
+speaker_translation = "나타샤"
+original = "「けほ、けほ……食べさせたのベアトでしょ。一瞬死ぬかと思った……暗殺者が暗殺されるところだったよ」"
+translation = "「콜록, 콜록…… 먹인 건 베아트잖아. 순간 죽는 줄 알았어…… 암살자가 암살당할 뻔했네」"
+
+[[dialogue]]
+speaker_original = "ナターシャ"
+speaker_translation = "나타샤"
+original = "「ニンニクに慣れてないのに、これはさすがにキツいかも。私を苦しめるなんて、よっぽどだよ」"
+translation = "「마늘에 익숙하지 않은데, 이건 역시 힘들지도. 나를 괴롭게 만들다니 보통이 아니야」"
+
+[[dialogue]]
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
+original = "「そ、そう……ごめん、残りは私が食べるね……」"
+translation = "「그, 그래…… 미안, 남은 건 내가 먹을게……」"
+
+[[dialogue]]
+speaker_original = "ナターシャ"
+speaker_translation = "나타샤"
+original = "「あ、ちょっと待って」"
+translation = "「아, 잠깐 기다려봐」"
+
+[[dialogue]]
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
+original = "「え？」"
+translation = "「응?」"
+
+[[dialogue]]
+speaker_original = "ナターシャ"
+speaker_translation = "나타샤"
+original = "「どうしてかわからないけど、自分でも変な気分だけど……もう一口だけなら食べていい気がした」"
+translation = "「왜인지 모르겠는데, 스스로도 이상한 기분이지만…… 한 입만 더 먹어도 될 것 같은 기분이 들었어」"
+
+[[dialogue]]
+speaker_original = "ナターシャ"
+speaker_translation = "나타샤"
+original = "「癖になるってやつ？\u3000これが『美味しい』なのかわからないけど、一周回ってアリな気がする」"
+translation = "「중독된다는 건가? 이게 『맛있다』는 건지 모르겠지만, 한 바퀴 돌아 괜찮은 느낌이 들어」"
+
+[[dialogue]]
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
+original = "「ナターシャちゃん……！」"
+translation = "「나타샤짱……!」"
+
+[[dialogue]]
+speaker_original = "ナターシャ"
+speaker_translation = "나타샤"
+original = "「さすがに完食は無理だけどね。だから一緒に食べよ、ベアト」"
+translation = "「역시 다 먹는 건 무리지만 말이야. 그러니까 같이 먹자, 베아트」"
+
+[[dialogue]]
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
+original = "「うん！」"
+translation = "「응!」"
+
+[[dialogue]]
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
+original = "「じゃあ私が食べさせてあげるね！\u3000あ～ん」"
+translation = "「그럼 내가 먹여줄게! 아~앙」"
+
+[[dialogue]]
+speaker_original = "ナターシャ"
+speaker_translation = "나타샤"
+original = "「や、それはいらない」"
+translation = "「아니, 그건 됐어」"
+
+[[dialogue]]
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
+original = "「え～～っ！？」"
+translation = ""
+
+[[dialogue]]
+speaker_original = "蛍火"
+speaker_translation = "호타루비"
+original = "「どうやらうまくいった……みたいですね」"
+translation = "「어찌저찌 잘된…… 모양이네요」"
+
+[[dialogue]]
+speaker_original = "サラン"
+speaker_translation = "사란"
+original = "「うん、２人とも仲良しでよかった～♪」"
+translation = "「응, 둘 다 사이좋아져서 다행이야~♪」"
+

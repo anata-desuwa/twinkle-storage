@@ -1,0 +1,335 @@
+[[dialogue]]
+speaker = "unk"
+original = "ある日の放課後。"
+translation = "어느 날 방과 후."
+
+[[dialogue]]
+speaker = "unk"
+original = "俺が星徒会室で書類仕事を片付けていると――"
+translation = "내가 성도회실에서 서류 일을 처리하고 있으려니――"
+
+[[dialogue]]
+speaker_original = "ヘレナ"
+speaker_translation = "헬레나"
+original = "「失礼するぞ、魔王よ」"
+translation = "「실례하겠다, 마왕이여」"
+
+[[dialogue]]
+speaker_original = "ヨミ"
+speaker_translation = "요미"
+original = "「会長、お疲れ様です」"
+translation = "「회장님, 수고 많으십니다」"
+
+[[dialogue]]
+speaker = "unk"
+original = "２人共、今日はどうしたんですか？"
+translation = "두 사람 다, 오늘은 무슨 일이에요?"
+
+[[dialogue]]
+speaker = "unk"
+original = "ヘレナちゃんにヨミヨミ"
+translation = "헬레나 찬에 요미요미"
+
+[[dialogue]]
+speaker_original = "ヨミ"
+speaker_translation = "요미"
+original = "「か、会長っ！\u3000ヨミヨミ呼びは恥ずかしいですからぁ！」"
+translation = "「회, 회장님! 요미요미라고 부르는 건 부끄러우니까요!」"
+
+[[dialogue]]
+speaker_original = "ヘレナ"
+speaker_translation = "헬레나"
+original = "「実はな。ヨミヨミの新しい人工戦闘服が完成したのだ」"
+translation = "「사실은 말이다. 요미요미의 새로운 인공 전투복이 완성되었다」"
+
+[[dialogue]]
+speaker_original = "ヨミ"
+speaker_translation = "요미"
+original = "「ご当主様まで！\u3000いつも言っているのに、もうっ……！」"
+translation = "「당주님까지! 항상 말씀드리는데, 정말……!」"
+
+[[dialogue]]
+speaker_original = "ヘレナ"
+speaker_translation = "헬레나"
+original = "「ふふっ。よいではないか。呼び捨てよりも、愛称の方が親しみも込めやすいというものだ」"
+translation = "「후후. 좋지 않으냐. 이름만 부르는 것보다, 애칭이 친근감도 담기 쉬운 법이다」"
+
+[[dialogue]]
+speaker_original = "ヨミ"
+speaker_translation = "요미"
+original = "「そ、それはそうかもしれないですけどぉ～」"
+translation = "「그, 그건 그럴지도 모르지만요~」"
+
+[[dialogue]]
+speaker = "unk"
+original = "それで、新しい戦闘服っていうのは？"
+translation = "그래서, 새로운 전투복이라는 건?"
+
+[[dialogue]]
+speaker_original = "ヘレナ"
+speaker_translation = "헬레나"
+original = "「ふっふっふっ♪\u3000アニマ、アナ、そしてトレジアンナに依頼して作らせた、最新式だぞ」"
+translation = "「후후후♪ 아니마, 아나, 그리고 트레지안나에게 의뢰해서 만들게 한, 최신식이다」"
+
+[[dialogue]]
+speaker_original = "ヘレナ"
+speaker_translation = "헬레나"
+original = "「ヨミヨミ、見せてやるがよい」"
+translation = "「요미요미, 보여주도록 해라」"
+
+[[dialogue]]
+speaker_original = "ヨミ"
+speaker_translation = "요미"
+original = "「はい。それでは――」"
+translation = "「네. 그렇다면――」"
+
+[[dialogue]]
+speaker_original = "ヨミ"
+speaker_translation = "요미"
+original = "「――これが、ご当主様に新しく作って頂いた『エクスノヴァフォーム』です！」"
+translation = "「――이것이, 당주님께서 새로 만들어 주신 『엑스 노바 폼』입니다!」"
+
+[[dialogue]]
+speaker_original = "ヘレナ"
+speaker_translation = "헬레나"
+original = "「ネーゼマイン用に製作したものから更にアップデートした、ヨミ専用の『人工覚醒戦闘服』だ！」"
+translation = "「네제마인용으로 제작한 것에서 더욱 업데이트한, 요미 전용 『인공 각성 전투복』이다!」"
+
+[[dialogue]]
+speaker_original = "ヘレナ"
+speaker_translation = "헬레나"
+original = "「ヨミヨミは、初の人工戦闘服である『クリスマスフォーム』の運用において、多くの貴重なデータを与えてくれたからな」"
+translation = "「요미요미는, 첫 인공 전투복인 『크리스마스 폼』 운용에 있어서, 많은 귀중한 데이터를 제공해 주었으니까 말이다」"
+
+[[dialogue]]
+speaker_original = "ヘレナ"
+speaker_translation = "헬레나"
+original = "「その実績を評価し、今回も引き続きデータ収集を頼むことにしたのだ」"
+translation = "「그 실적을 평가하여, 이번에도 계속해서 데이터 수집을 부탁하기로 한 것이다」"
+
+[[dialogue]]
+speaker_original = "ヨミ"
+speaker_translation = "요미"
+original = "「頼まれたからには、爆裂頑張ります！」"
+translation = "「부탁받은 이상, 폭렬 열심히 하겠습니다!」"
+
+[[dialogue]]
+speaker_original = "ヘレナ"
+speaker_translation = "헬레나"
+original = "「今回も起動には、ネーゼマインの時と同じく『アルケインノヴァエクストリーム』が必要となる」"
+translation = "「이번에도 기동에는, 네제마인 때와 마찬가지로 『알케인 노바 엑스트림』이 필요하다」"
+
+[[dialogue]]
+speaker_original = "ヘレナ"
+speaker_translation = "헬레나"
+original = "「魔王よ、頼めるか？」"
+translation = ""
+
+[[dialogue]]
+speaker_original = "ヨミ"
+speaker_translation = "요미"
+original = "「会長、よろしくお願いします！」"
+translation = ""
+
+[[dialogue]]
+speaker = "unk"
+original = "――アルケインノヴァエクストリーム！"
+translation = ""
+
+[[dialogue]]
+speaker = "unk"
+original = "わかった。やってみよう"
+translation = ""
+
+[[dialogue]]
+speaker_original = "ヨミ"
+speaker_translation = "요미"
+original = "「…………」"
+translation = ""
+
+[[dialogue]]
+speaker_original = "ヨミ"
+speaker_translation = "요미"
+original = "「……こや？」"
+translation = ""
+
+[[dialogue]]
+speaker_original = "ヨミ"
+speaker_translation = "요미"
+original = "「な、何も起きない……？」"
+translation = ""
+
+[[dialogue]]
+speaker_original = "ヘレナ"
+speaker_translation = "헬레나"
+original = "「うむ、ズバリ不発であるな」"
+translation = ""
+
+[[dialogue]]
+speaker_original = "ヨミ"
+speaker_translation = "요미"
+original = "「えっ」"
+translation = ""
+
+[[dialogue]]
+speaker_original = "ヘレナ"
+speaker_translation = "헬레나"
+original = "「まあ、我が魂の囁きから、そうなる予感はしていた」"
+translation = ""
+
+[[dialogue]]
+speaker_original = "ヨミ"
+speaker_translation = "요미"
+original = "「えぇっ！？」"
+translation = ""
+
+[[dialogue]]
+speaker_original = "ヨミ"
+speaker_translation = "요미"
+original = "「じゃあ私は、まだこの戦闘服を使えないってことですか！？」"
+translation = ""
+
+[[dialogue]]
+speaker_original = "ヨミ"
+speaker_translation = "요미"
+original = "「ご当主様、なんで教えてくれなかったんですかぁ～！？」"
+translation = ""
+
+[[dialogue]]
+speaker = "unk"
+original = "俺もまた、アルケインコード発動の兆しを示す『心の輝き』が見えなかったため、なんとなくそんな気はしていた。"
+translation = ""
+
+[[dialogue]]
+speaker_original = "ヘレナ"
+speaker_translation = "헬레나"
+original = "「現状、ノヴァフォーム覚醒に必要な要素は３つあると分析されている」"
+translation = ""
+
+[[dialogue]]
+speaker_original = "ヘレナ"
+speaker_translation = "헬레나"
+original = "「『本人の類まれな才能』、『心理的ブレイクスルー』、そして『魔王との絆』だ」"
+translation = ""
+
+[[dialogue]]
+speaker_original = "ヘレナ"
+speaker_translation = "헬레나"
+original = "「ヨミヨミの場合、魔王との絆については問題なく達成しているだろう」"
+translation = ""
+
+[[dialogue]]
+speaker_original = "ヨミ"
+speaker_translation = "요미"
+original = "「こ、こややっ」"
+translation = ""
+
+[[dialogue]]
+speaker = "unk"
+original = "照れたように尻尾を左右へ揺らしながら、ヨミはちらりとこちらへ視線を向けてくる。"
+translation = ""
+
+[[dialogue]]
+speaker_original = "ヘレナ"
+speaker_translation = "헬레나"
+original = "「『才能』については、不足する部分を補い、さらなる高みへ押し上げることこそがエクスノヴァフォームの役割だ」"
+translation = ""
+
+[[dialogue]]
+speaker_original = "ヘレナ"
+speaker_translation = "헬레나"
+original = "「つまり、残る問題はあと１つ――」"
+translation = ""
+
+[[dialogue]]
+speaker_original = "ヘレナ"
+speaker_translation = "헬레나"
+original = "「ヨミヨミには、アルケインコードによる覚醒に必要な『心理的ブレイクスルー』がまだ足りていないのである！」"
+translation = ""
+
+[[dialogue]]
+speaker_original = "ヨミ"
+speaker_translation = "요미"
+original = "「……！」"
+translation = ""
+
+[[dialogue]]
+speaker_original = "ヨミ"
+speaker_translation = "요미"
+original = "「つまり、今の私に必要なのは精神的な成長……」"
+translation = ""
+
+[[dialogue]]
+speaker_original = "ヘレナ"
+speaker_translation = "헬레나"
+original = "「ああ。そのための秘策については、ちゃんと考えてある」"
+translation = ""
+
+[[dialogue]]
+speaker_original = "ヘレナ"
+speaker_translation = "헬레나"
+original = "「――と、その話は後にするとしよう」"
+translation = ""
+
+[[dialogue]]
+speaker_original = "ヘレナ"
+speaker_translation = "헬레나"
+original = "「今日の用件はもう１つ。魔王に紹介したい者がいてな」"
+translation = ""
+
+[[dialogue]]
+speaker = "unk"
+original = "紹介したい人……？"
+translation = ""
+
+[[dialogue]]
+speaker_original = "ヨミ"
+speaker_translation = "요미"
+original = "「そうでした！\u3000本日は私の新しい戦闘服を見てもらうほかに――」"
+translation = ""
+
+[[dialogue]]
+speaker_original = "ヨミ"
+speaker_translation = "요미"
+original = "「『九浄家メイド隊』に新しく加わる新人さんを紹介しに来たんです！」"
+translation = ""
+
+[[dialogue]]
+speaker_original = "ヘレナ"
+speaker_translation = "헬레나"
+original = "「待たせたな。もう中に入って来てもよいぞ」"
+translation = ""
+
+[[dialogue]]
+speaker = "unk"
+original = "ヘレナちゃんが星徒会室の入口へ向かって声をかける。"
+translation = ""
+
+[[dialogue]]
+speaker_original = "？？？"
+speaker_translation = "？？？"
+original = "「はいっ、失礼するのです♪」"
+translation = ""
+
+[[dialogue]]
+speaker_original = "？？？"
+speaker_translation = "？？？"
+original = "「魔王様、初めましてなのです！\u3000ちょっと前に九浄家メイド隊に入れてもらって、附属校にも３年生として転入させてもらったであります♪」"
+translation = ""
+
+[[dialogue]]
+speaker_original = "狛里"
+speaker_translation = "狛里"
+original = "「<ruby>狛里<rt>こまり</rt></ruby>の名前は、『<ruby>狛里<rt>こまり</rt></ruby>』なのです！\u3000九浄家メイド隊の新人さんであります！\u3000ばうわふっ♪」"
+translation = ""
+
+[[dialogue]]
+speaker = "unk"
+original = "犬耳と尻尾を揺らす獣人魔族の少女。"
+translation = ""
+
+[[dialogue]]
+speaker = "unk"
+original = "彼女は人懐っこい明るい笑顔を浮かべて、挨拶するのだった。"
+translation = ""
+

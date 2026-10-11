@@ -1,0 +1,240 @@
+[[dialogue]]
+speaker = "unk"
+original = "第４話,これからも,P"
+translation = "제4화, 앞으로도, P"
+
+[[dialogue]]
+speaker = "unk"
+original = "星徒会の仕事を終える頃には、すっかり日も暮れてしまい、夜になっていた。"
+translation = "성도회의 일을 마칠 즈음에는, 날이 완전히 저물어 밤이 되어 있었다."
+
+[[dialogue]]
+speaker = "unk"
+original = "っ！？"
+translation = "읏!?"
+
+[[dialogue]]
+speaker = "unk"
+original = "校門を出た俺は、背後に気配を感じて振り返る。"
+translation = "교문을 나선 나는, 등 뒤에서 기척을 느끼고 돌아본다."
+
+[[dialogue]]
+speaker = "unk"
+original = "そこには──"
+translation = "그곳에는──"
+
+[[dialogue]]
+speaker_original = "ナターシャ"
+speaker_translation = "나타샤"
+original = "「いい反応だね。でも気づくのがちょっと遅かったかな、会長さん」"
+translation = "「좋은 반응이네. 하지만 눈치채는 게 조금 늦었으려나, 회장님」"
+
+[[dialogue]]
+speaker_original = "ナターシャ"
+speaker_translation = "나타샤"
+original = "「私が本物の吸血鬼だったら、とっくに首筋をガブリとやられてるよ？」"
+translation = "「내가 진짜 흡혈귀였다면, 진작 목덜미를 앙 하고 물렸을 거라고?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "吸血鬼を模したハロウィンフォームに身を包むナターシャが、背後に忍び寄っていた。"
+translation = "흡혈귀를 본뜬 할로윈 폼을 입은 나타샤가, 등 뒤에 살금살금 다가와 있었다."
+
+[[dialogue]]
+speaker = "unk"
+original = "何の用？"
+translation = "무슨 일이야?"
+
+[[dialogue]]
+speaker_original = "ナターシャ"
+speaker_translation = "나타샤"
+original = "「用ってわけでもないんだけど。美味しそうな血を飲みたくなるのは吸血鬼の本能でしょ？」"
+translation = "「용건이 있는 건 아니지만. 맛있어 보이는 피를 마시고 싶어지는 건 흡혈귀의 본능이잖아?」"
+
+[[dialogue]]
+speaker_original = "ナターシャ"
+speaker_translation = "나타샤"
+original = "「会長さんの血をチューチュー吸って、私の眷属にしようかなって。会長さんを私の手駒にしたら、便利に使えそうだからね」"
+translation = "「회장님의 피를 쪽쪽 빨아서, 내 권속으로 만들어 볼까 싶어서. 회장님을 내 수하로 만들면, 편리하게 쓸 수 있을 테니까 말이야」"
+
+[[dialogue]]
+speaker_original = "ナターシャ"
+speaker_translation = "나타샤"
+original = "「──なーんて、冗談、冗談。どこかのニンニク大好き吸血鬼じゃないんだし、ハロウィンフォームの私にそんな能力はないよ」"
+translation = "「──라~든가, 농담, 농담. 어딘가의 마늘 엄청 좋아하는 흡혈귀도 아니고, 할로윈 폼인 나한테는 그런 능력은 없어」"
+
+[[dialogue]]
+speaker_original = "ナターシャ"
+speaker_translation = "나타샤"
+original = "「むしろ、私に聞きたいことがあるのは、会長さんの方じゃないの？\u3000顔に出てるよ」"
+translation = "「오히려, 나한테 물어보고 싶은 게 있는 건, 회장님 쪽 아니야? 얼굴에 나와 있다고」"
+
+[[dialogue]]
+speaker = "unk"
+original = "メルエルとは和解したんだよね？"
+translation = "멜엘과는 화해한 거지?"
+
+[[dialogue]]
+speaker_original = "ナターシャ"
+speaker_translation = "나타샤"
+original = "「なんだ、そのこと。もう少し色っぽい話題かと思って期待したのに」"
+translation = "「뭐야, 그 얘기. 조금 더 색다른 화제인가 싶어서 기대했는데」"
+
+[[dialogue]]
+speaker_original = "ナターシャ"
+speaker_translation = "나타샤"
+original = "「和解……ま、そうだね。前ほどギスギスした感じではなくなったかな」"
+translation = "「화해…… 뭐, 그렇네. 이전만큼 험악한 느낌은 아니게 되었으려나」"
+
+[[dialogue]]
+speaker_original = "ナターシャ"
+speaker_translation = "나타샤"
+original = "「でも勘違いしないでほしいんだけど、別にメルエルのことを好きになったわけでもないからね」"
+translation = "「하지만 착각하지 말아 줬으면 하는데, 딱히 멜엘을 좋아하게 된 건 아니니까 말이야」"
+
+[[dialogue]]
+speaker_original = "ナターシャ"
+speaker_translation = "나타샤"
+original = "「彼女のお気楽な性格を受け入れるのは正直無理」"
+translation = "「그녀의 태평한 성격을 받아들이는 건 솔직히 무리」"
+
+[[dialogue]]
+speaker_original = "ナターシャ"
+speaker_translation = "나타샤"
+original = "「でも、ずっと意地張ってケンカ腰なのも子どもみたいだからね。大人の対応をしてるだけだよ。納得した？」"
+translation = "「하지만, 내내 오기를 부리며 싸울 태세를 취하는 것도 어린애 같으니까 말이야. 어른스러운 대응을 하고 있을 뿐이야. 납득했어?」"
+
+[[dialogue]]
+speaker_original = "ナターシャ"
+speaker_translation = "나타샤"
+original = "「……なに。そのニヤニヤ笑い、気になるんだけど」"
+translation = "「……뭐야. 그 싱글벙글 웃는 거, 신경 쓰이는데」"
+
+[[dialogue]]
+speaker_original = "ナターシャ"
+speaker_translation = "나타샤"
+original = "「というわけで、メルエルの護衛はなくなって手隙になったんだ」"
+translation = "「그런 까닭으로, 멜엘의 호위는 없어져서 손이 비게 되었어」"
+
+[[dialogue]]
+speaker_original = "ナターシャ"
+speaker_translation = "나타샤"
+original = "「だからといって、私の仕事が全部なくなったわけじゃない」"
+translation = "「 그렇다고 해서, 내 일이 전부 없어진 건 아니야」"
+
+[[dialogue]]
+speaker_original = "ナターシャ"
+speaker_translation = "나타샤"
+original = "「魔王である会長さんの監視は、これからも続けさせてもらうよ。私なりの方法でね」"
+translation = "「마왕인 회장님의 감시는, 앞으로도 계속하도록 할게. 나 나름의 방법으로 말이지」"
+
+[[dialogue]]
+speaker_original = "ナターシャ"
+speaker_translation = "나타샤"
+original = "「つきまとわれて迷惑だろうけど、つまり『これからもよろしく』ってことで」"
+translation = "「지켜봐져서 방해되겠지만, 요컨대 『앞으로도 잘 부탁해』라는 것으로」"
+
+[[dialogue]]
+speaker_original = "ナターシャ"
+speaker_translation = "나타샤"
+original = "「ちゅっ」"
+translation = "「쪽」"
+
+[[dialogue]]
+speaker = "unk"
+original = "……っ！？"
+translation = "……읏!?"
+
+[[dialogue]]
+speaker = "unk"
+original = "首筋に牙を突き立てられる代わりに、唇が触れ、ぺろりと舐められる。"
+translation = "목덜미에 송곳니가 꽂히는 대신, 입술이 닿고, 낼름 핥아진다."
+
+[[dialogue]]
+speaker_original = "ナターシャ"
+speaker_translation = "나타샤"
+original = "「ふふ、会長さんの汗、しょっぱいね」"
+translation = "「후후, 회장님의 땀, 짭짤하네」"
+
+[[dialogue]]
+speaker_original = "ナターシャ"
+speaker_translation = "나타샤"
+original = "「こんな格好だし、ちょっとくらい吸血鬼らしくしといた方がいいかなって──あ」"
+translation = "「이런 차림이고 하니, 조금쯤은 흡혈귀답게 해두는 편이 좋으려나 싶어서──아」"
+
+[[dialogue]]
+speaker = "unk"
+original = "まだ何か……？"
+translation = "아직 뭔가……?"
+
+[[dialogue]]
+speaker_original = "ナターシャ"
+speaker_translation = "나타샤"
+original = "「会長さんの、こ・こ」"
+translation = "「회장님의, 여기」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ナターシャが細い指で、俺の首筋を指差す。"
+translation = "나타샤가 가는 손가락으로, 내 목덜미를 가리킨다."
+
+[[dialogue]]
+speaker = "unk"
+original = "研ぎ澄まされた刃を思わせる、綺麗な指で。"
+translation = "잘 날카롭게 다듬어진 날을 떠올리게 하는, 예쁜 손가락으로."
+
+[[dialogue]]
+speaker_original = "ナターシャ"
+speaker_translation = "나타샤"
+original = "「痕、残っちゃった」"
+translation = "「자국, 남아 버렸네」"
+
+[[dialogue]]
+speaker_original = "ナターシャ"
+speaker_translation = "나타샤"
+original = "「絆創膏か何かで隠しておいた方がいいかも。目聡い誰かさんに見つかったら誤解されるからね」"
+translation = "「반창고 같은 걸로 가려두는 편이 좋을지도. 눈치 빠른 누군가에게 들키면 오해받을 테니까」"
+
+[[dialogue]]
+speaker_original = "ナターシャ"
+speaker_translation = "나타샤"
+original = "「あ、でも、あからさまに隠してても疑われちゃうか」"
+translation = "「아, 하지만, 뻔히 보이게 가려둬도 의심받으려나」"
+
+[[dialogue]]
+speaker = "unk"
+original = "──っ！？"
+translation = "──읏!?"
+
+[[dialogue]]
+speaker_original = "ナターシャ"
+speaker_translation = "나타샤"
+original = "「ふふ、いい顔。その顔が見れただけでも、会長さんを待ってた甲斐があるよ」"
+translation = "「후후, 좋은 표정. 그 얼굴을 본 것만으로도, 회장님을 기다린 보람이 있네」"
+
+[[dialogue]]
+speaker_original = "ナターシャ"
+speaker_translation = "나타샤"
+original = "「じゃ、またね。少し暇になったから、たまには遊びにも付き合ってくれると嬉しいな」"
+translation = "「그럼, 또 봐. 조금 한가해졌으니까, 가끔은 놀아주는 데 같이 어울려 주면 기쁘겠어」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ナターシャがコウモリの翼のようにヒラヒラと手を振る。"
+translation = "나타샤가 박쥐 날개처럼 펄럭펄럭 손을 흔든다."
+
+[[dialogue]]
+speaker = "unk"
+original = "次の瞬間、またも彼女は闇に溶け込むように姿を消す。"
+translation = "다음 순간, 또다시 그녀는 어둠에 녹아들듯 모습을 숨긴다."
+
+[[dialogue]]
+speaker = "unk"
+original = "ナターシャのイタズラに弄ばれる日々はまだ続くらしい。"
+translation = "나타샤의 장난에 농락당하는 나날은 아직 계속되는 모양이다."
+
+[[dialogue]]
+speaker = "unk"
+original = "彼女に吸われた首筋は、仄かな熱を持っていた。"
+translation = "그녀에게 빨린 목덜미는, 옅은 열기를 띠고 있었다."
+

@@ -1,0 +1,339 @@
+[[dialogue]]
+speaker = "unk"
+original = "第１話,『守護天使会議』,B"
+translation = "제1화, 『수호천사 회의』, B"
+
+[[dialogue]]
+speaker_original = "オオヒメ"
+speaker_translation = "오오히메"
+original = "「皆、招集に応じてよくぞ集まってくれた。此度の会合の場を用意してくださった九浄ヘレナ殿にも感謝を」"
+translation = ""
+
+[[dialogue]]
+speaker_original = "ヘレナ"
+speaker_translation = "헬레나"
+original = "「お安い御用だ。守護天使の方々の重要な会談ともなれば、相応の場を用意する必要があるだろうからな」"
+translation = "「쉬운 일이다. 수호천사 분들의 중요한 회담이라면, 그에 어울리는 자리를 마련할 필요가 있을 테니까」"
+
+[[dialogue]]
+speaker_original = "ヘレナ"
+speaker_translation = "헬레나"
+original = "「九浄の屋敷内であれば、盗み聞きされる恐れもない。存分に話し合われるが良かろう」"
+translation = "「쿠죠의 저택 안이라면, 엿들을 염려도 없다. 마음껏 이야기하도록 해라」"
+
+[[dialogue]]
+speaker_original = "マグダレナ"
+speaker_translation = "막달레나"
+original = "「ありがとうございます。では、始めましょうか……守護天使会議を」"
+translation = "「감사합니다. 그럼, 시작해 볼까요…… 수호천사 회의를」"
+
+[[dialogue]]
+speaker = "unk"
+original = "女神を補佐する上位の天使であり、世界の摂理を司る存在。"
+translation = "여신을 보좌하는 상위의 천사이자, 세계의 섭리를 관장하는 존재."
+
+[[dialogue]]
+speaker = "unk"
+original = "《境界》のマグダレナ、《命脈》のアルモタヘル、《万成》のセシア──"
+translation = "《경계》의 막달레나, 《명맥》의 알모타헬, 《만성》의 세시아──"
+
+[[dialogue]]
+speaker = "unk"
+original = "《試練》のパテル、《天恵》のオオヒメ、そして《円環》のラクシャ──"
+translation = "《시련》의 파텔, 《천혜》의 오오히메, 그리고 《원환》의 락샤──"
+
+[[dialogue]]
+speaker = "unk"
+original = "この６柱こそが、現在のアルタイルを守る守護天使だ。"
+translation = "이 6주야말로, 현재의 알타이르를 지키는 수호천사다."
+
+[[dialogue]]
+speaker = "unk"
+original = "ちなみに、現在の『デネブの守護天使』たちは消耗が激しく、現在もコアの状態のまま、デネブのフィーニスの塔で療養している。"
+translation = "참고로, 현재의 『데네브의 수호천사』들은 소모가 심하여, 현재도 코어 상태인 채, 데네브의 피니스 탑에서 요양하고 있다."
+
+[[dialogue]]
+speaker = "unk"
+original = "コアの状態でも摂理の維持は可能だが、守護天使として再び万全の状態で活動するには、数年の時間を要する。"
+translation = "코어 상태로도 섭리의 유지 기능은 가능하지만, 수호천사로서 다시 만전의 상태로 활동하기까지는, 몇 년의 시간이 필요하다."
+
+[[dialogue]]
+speaker_original = "オオヒメ"
+speaker_translation = "오오히메"
+original = "「まず先だって皆に周知しておきたいことがある。それはラクシャについてだ」"
+translation = "「우선 그에 앞서 모두에게 알리고 싶은 것이 있다. 그것은 락샤에 대해서다」"
+
+[[dialogue]]
+speaker_original = "ラクシャ"
+speaker_translation = "락샤"
+original = "「担当する世界の配置換えの話、だよね？」"
+translation = "「담당하는 세계의 배치 전환 이야기, 맞지?」"
+
+[[dialogue]]
+speaker_original = "オオヒメ"
+speaker_translation = "오오히메"
+original = "「ああ。すでに知っている者も多いだろうが、全体での告知はしておきたい」"
+translation = "「아아. 이미 알고 있는 자도 많겠지만, 전체적인 고지는 해두고 싶다」"
+
+[[dialogue]]
+speaker_original = "ラクシャ"
+speaker_translation = "락샤"
+original = "「りょーかい！」"
+translation = "「라~져!」"
+
+[[dialogue]]
+speaker_original = "ラクシャ"
+speaker_translation = "락샤"
+original = "「ここにいるみんなは知っての通り、ここにいるボクは、元々デネブのラクシャだ」"
+translation = "「여기 있는 모두가 알고 있듯이, 여기 있는 나는, 원래 데네브의 락샤야」"
+
+[[dialogue]]
+speaker_original = "ラクシャ"
+speaker_translation = "락샤"
+original = "「魔王とバイト仲間である市倉環の正体は、『デネブのラクシャだったボク』で、アルタイルのラクシャは魔王との縁は薄い」"
+translation = "「마왕과 알바 동료인 이치쿠라 타마키의 정체는, 『데네브의 락샤였던 나』이고, 알타이르의 락샤는 마왕과의 인연이 옅어」"
+
+[[dialogue]]
+speaker_original = "ラクシャ"
+speaker_translation = "락샤"
+original = "「生き残った魔王──緋宮クロトはアルタイルの所属だし、今後もアルタイルを中心に活動することになる」"
+translation = "「살아남은 마왕── 히노미야 쿠로토는 알타이르 소속이고, 앞으로도 알타이르를 중심으로 활동하게 될 거야」"
+
+[[dialogue]]
+speaker_original = "ラクシャ"
+speaker_translation = "락샤"
+original = "「だから、今後の連携も考えて、『デネブのラクシャだったボク』こと市倉環が、これからはアルタイルを担当することにしたよ」"
+translation = "「그러니까, 향후의 연계도 생각해서, 『데네브의 락샤였던 나』인 이치쿠라 타마키가, 이제부터는 알타이르를 담당하기로 했어」"
+
+[[dialogue]]
+speaker_original = "セシア"
+speaker_translation = "세시아"
+original = "「『元アルタイルのラクシャ』は、もうデネブにいるのかしら？」"
+translation = "「『전 알타이르의 락샤』는, 이제 데네브에 있는 걸까?」"
+
+[[dialogue]]
+speaker_original = "ラクシャ"
+speaker_translation = "락샤"
+original = "「そうだね。彼女もまだ消耗していたから、他のデネブの守護天使と同じように、フィーニスの塔で療養してもらってるよ」"
+translation = "「응. 그녀도 아직 소모되어 있었으니까, 다른 데네브의 수호천사들과 마찬가지로, 피니스 탑에서 요양받고 있어」"
+
+[[dialogue]]
+speaker_original = "ラクシャ"
+speaker_translation = "락샤"
+original = "「制御する摂理の管理権も交換済みだ。だからもう、今はボクが『アルタイルのラクシャ』になってるよ」"
+translation = "「제어하는 섭리의 관리권도 교환 완료했어. 그러니까 이제, 지금은 내가 『알타이르의 락샤』가 되어있지」"
+
+[[dialogue]]
+speaker_original = "セシア"
+speaker_translation = "세시아"
+original = "「ちょっとややこしいわね。今後は向こうのラクシャと呼び分ける時は、わたくしたちも『市倉環』と呼ぶべきかしら？」"
+translation = "「조금 복잡하네. 앞으로 저쪽의 락샤와 구분하여 부를 때에는, 저희도 『이치쿠라 타마키』라고 불러야 할까?」"
+
+[[dialogue]]
+speaker_original = "ラクシャ"
+speaker_translation = "락샤"
+original = "「その辺はお任せするよ。まあ、よほどの大事件でもなければ、２世界の守護天使がそろい踏みになることもないだろうけど」"
+translation = "「그건 맡길게. 뭐, 엄청난 대사건이라도 터지지 않는 한, 두 세계의 수호천사가 한자리에 모일 일도 없겠지만」"
+
+[[dialogue]]
+speaker_original = "オオヒメ"
+speaker_translation = "오오히메"
+original = "「他の者も、異論や懸念はないだろうか？」"
+translation = "「다른 자들도, 이론이나 우려는 없는가?」"
+
+[[dialogue]]
+speaker_original = "マグダレナ"
+speaker_translation = "막달레나"
+original = "「はい。問題ございません」"
+translation = "「네. 문제없습니다」"
+
+[[dialogue]]
+speaker = "unk"
+original = "マグダレナの言葉に、アルモタヘルもパテルもうなずいて見せた。"
+translation = "막달레나의 말에, 알모타헬도 파텔도 고개를 끄덕여 보였다."
+
+[[dialogue]]
+speaker_original = "オオヒメ"
+speaker_translation = "오오히메"
+original = "「では本日をもって正式に、彼女を『アルタイルのラクシャ』として迎えることにする」"
+translation = "「그럼 오늘부로 정식으로, 그녀를 『알타이르의 락샤』로 맞이하기로 하지」"
+
+[[dialogue]]
+speaker_original = "マグダレナ"
+speaker_translation = "막달레나"
+original = "「ふふ……何だか不思議な感じですけど、これからもよろしくお願いしますね」"
+translation = "「후후…… 왠지 신기한 느낌이지만, 앞으로도 잘 부탁드려요」"
+
+[[dialogue]]
+speaker_original = "ラクシャ"
+speaker_translation = "락샤"
+original = "「こちらこそ、あらためてよろしくー♪」"
+translation = "「나야말로, 다시 한번 잘 부탁해~♪」"
+
+[[dialogue]]
+speaker_original = "オオヒメ"
+speaker_translation = "오오히메"
+original = "「さて、本題はここからなのだが──」"
+translation = "「자, 본론은 지금부터다만──」"
+
+[[dialogue]]
+speaker_original = "オオヒメ"
+speaker_translation = "오오히메"
+original = "「皆も知っての通り、先日の『<ruby>ＸＥＬＯＳ<rt>ゼロス</rt></ruby>』との戦いを通じて、永きに渡るリクリエとの戦いに決着がついた」"
+translation = "「모두 알고 있다시피, 지난번 『<ruby>XELOS<rt>제로스</rt></ruby>』와의 싸움을 통해, 오랜 세월에 걸친 리크리에와의 싸움에 결착이 났다」"
+
+[[dialogue]]
+speaker_original = "オオヒメ"
+speaker_translation = "오오히메"
+original = "「しかし、払った犠牲も大きかった。我々の主である女神テルル様も、戦いの中で亡くなられてしまったが……」"
+translation = "「하지만, 치른 희생도 컸다. 우리의 주인이신 여신 테룰 님도, 싸움 속에서 돌아가셨지만……」"
+
+[[dialogue]]
+speaker_original = "オオヒメ"
+speaker_translation = "오오히메"
+original = "「テルル様は最後に、次代の女神であるルヴィネ様へ全てを託し、その役目を継承してくださった。その時に──」"
+translation = "「테룰 님은 마지막에, 차세대 여신이신 루비네 님에게 모든 것을 맡기시고, 그 책무를 계승해 주셨다. 그때──」"
+
+[[dialogue]]
+speaker_original = "セシア"
+speaker_translation = "세시아"
+original = "「わたくしたちと女神様の関係も一緒に移譲されているということね？」"
+translation = "「저희와 여신님의 관계도 함께 이양되었다는 뜻이지요?」"
+
+[[dialogue]]
+speaker_original = "アルモタヘル"
+speaker_translation = "아르모타헬"
+original = "「うむ……しかしそれについては我も、ここにいる皆もテルル様が亡くなる直前に送られた思念を受け取り知っているが？」"
+translation = "「음…… 하지만 그것에 대해서는 나도, 여기 있는 모두도 테룰 님이 돌아가시기 직전에 보내신 사념을 받아 알고 있다만?」"
+
+[[dialogue]]
+speaker_original = "オオヒメ"
+speaker_translation = "오오히메"
+original = "「そう……既に新たに女神となられるルヴィネ様と、私たちの間には主従の関係が結ばれている」"
+translation = "「그렇다…… 이미 새로이 여신이 되시는 루비네 님과, 우리 사이에는 주종 관계가 맺어져 있다」"
+
+[[dialogue]]
+speaker_original = "オオヒメ"
+speaker_translation = "오오히메"
+original = "「しかし私たちがより力を発揮するためには、強固な繋がりをルヴィネ様との間に作っておく必要があるだろう」"
+translation = "「하지만 우리가 더욱 힘을 발휘하기 위해서는, 강고한 연결고리를 루비네 님과의 사이에 만들어 둘 필요가 있겠지」"
+
+[[dialogue]]
+speaker_original = "オオヒメ"
+speaker_translation = "오오히메"
+original = "「その為にも皆にはルヴィネ様と、１対１であらためて契約を結び直してもらいたい」"
+translation = "「그를 위해서라도 모두, 루비네 님과 1 대 1로 다시 한번 계약을 맺어주었으면 한다」"
+
+[[dialogue]]
+speaker_original = "マグダレナ"
+speaker_translation = "막달레나"
+original = "「そういうことでしたか……」"
+translation = "「그런 것이었군요……」"
+
+[[dialogue]]
+speaker_original = "マグダレナ"
+speaker_translation = "막달레나"
+original = "「私は異存ありませんよ。関係性を明らかにし、私たちの意思を明確に示しておいた方が、ルヴィネ様の心も安らぐことでしょう」"
+translation = "「저는 이의 없습니다. 관계성을 명확히 하고, 우리의 의사를 분명히 나타내 두는 편이, 루비네 님의 마음도 편안해지겠지요」"
+
+[[dialogue]]
+speaker_original = "オオヒメ"
+speaker_translation = "오오히메"
+original = "「他の皆も異存はないだろうか？」"
+translation = "「다른 이들도 이의는 없는가?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "オオヒメの言葉に守護天使たち全員が頷く。"
+translation = "오오히메의 말에 수호천사들 전원이 고개를 끄덕인다."
+
+[[dialogue]]
+speaker_original = "オオヒメ"
+speaker_translation = "오오히메"
+original = "「では、決まりだな」"
+translation = "「그럼, 결정되었군」"
+
+[[dialogue]]
+speaker_original = "オオヒメ"
+speaker_translation = "오오히메"
+original = "「ルヴィネ様は現在デネブに戻られているが、今後も定期的にアルタイルにいらっしゃるそうだ。その際に契約を結んでくれ」"
+translation = "「루비네 님은 현재 데네브로 돌아가 계시지만, 앞으로도 정기적으로 알타이르에 오신다고 한다. 그때 계약을 맺어다오」"
+
+[[dialogue]]
+speaker_original = "ラクシャ"
+speaker_translation = "락샤"
+original = "「タイミングは各々に任せる感じ？」"
+translation = "「타이밍은 각자에게 맡기는 느낌?」"
+
+[[dialogue]]
+speaker_original = "オオヒメ"
+speaker_translation = "오오히메"
+original = "「全体で事務的に更新するよりも、各々が１対１でルヴィネ様と話し、改めて契約を結ぶ方がいいだろう。よって、タイミングは各々に任せたい」"
+translation = "「전체적으로 사무적으로 갱신하는 것보다, 각자가 1 대 1로 루비네 님과 이야기하고, 새로이 계약을 맺는 편이 좋겠지. 따라서, 타이밍은 각자에게 맡기고 싶다」"
+
+[[dialogue]]
+speaker_original = "オオヒメ"
+speaker_translation = "오오히메"
+original = "「とはいえ、タイミングを気にするとは。ラクシャは何か懸念があるのか？」"
+translation = "「그나저나, 타이밍을 신경 쓰다니. 락샤는 무슨 우려라도 있나?」"
+
+[[dialogue]]
+speaker_original = "ラクシャ"
+speaker_translation = "락샤"
+original = "「ボク、あの戦いで消耗しすぎちゃってさ。新しい契約を交わすにしても、その傷が癒えてからにしたいんだよね」"
+translation = "「나, 그 싸움에서 너무 소모해 버려서 말이지. 새로운 계약을 맺더라도, 그 상처가 치유된 후에 하고 싶거든」"
+
+[[dialogue]]
+speaker_original = "マグダレナ"
+speaker_translation = "막달레나"
+original = "「大丈夫なのですか？」"
+translation = "「괜찮으신가요?」"
+
+[[dialogue]]
+speaker_original = "ラクシャ"
+speaker_translation = "락샤"
+original = "「ふふ、そんな心配そうな顔をしなくてもいいよ。復調にそれほど時間はかからないと思うからさ」"
+translation = "「후후, 그런 걱정스러운 얼굴은 하지 않아도 돼. 회복에 그리 오랜 시간이 걸리지는 않을 테니까」"
+
+[[dialogue]]
+speaker_original = "オオヒメ"
+speaker_translation = "오오히메"
+original = "「承知した。タイミングは任せるので、ラクシャは十分回復してからルヴィネ様に声をかけてくれ」"
+translation = "「알았다. 타이밍은 맡길 테니, 락샤는 충분히 회복하고 나서 루비네 님께 말을 걸도록 해라」"
+
+[[dialogue]]
+speaker_original = "オオヒメ"
+speaker_translation = "오오히메"
+original = "「では他の皆も、宜しく頼んだぞ」"
+translation = "「그럼 다른 자들도, 잘 부탁하마」"
+
+[[dialogue]]
+speaker = "unk"
+original = "世界は変化しつつある。"
+translation = "세계는 변화하고 있다."
+
+[[dialogue]]
+speaker = "unk"
+original = "永きに渡り人々を脅かしていたリクリエの脅威は、『<ruby>ＸＥＬＯＳ<rt>ゼロス</rt></ruby>』の打倒により消え去った。"
+translation = "오랜 세월 동안 사람들을 위협하던 리크리에의 위협은, 『<ruby>XELOS<rt>제로스</rt></ruby>』의 타도로 인해 사라졌다."
+
+[[dialogue]]
+speaker = "unk"
+original = "世界中の人々の信仰の対象であった女神は失われたが、彼女の想いを託された次代の女神が誕生する。"
+translation = ""
+
+[[dialogue]]
+speaker = "unk"
+original = "希望に満ちた時代──"
+translation = "희망으로 가득 찬 시대──"
+
+[[dialogue]]
+speaker = "unk"
+original = "多くの犠牲の上に掴み取られたこの平和が失われないように──"
+translation = "많은 희생 위에 움켜쥔 이 평화가 사라지지 않도록──"
+
+[[dialogue]]
+speaker = "unk"
+original = "世界の摂理を守る６柱の守護天使たちは、新たな時代を護るべく決意を固めるのだった。"
+translation = "세계의 섭리를 지키는 6주의 수호천사들은, 새로운 시대를 지키고자 결의를 다지는 것이었다."
+

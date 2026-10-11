@@ -1,0 +1,504 @@
+[[dialogue]]
+speaker_original = "蘭美"
+speaker_translation = "라미"
+original = "「ここが『支配』のロストアイテム……シエスタがいるアステラね！」"
+translation = "「여기가 『지배』의 로스트 아이템…… 시에스타가 있는 아스테라구나!」"
+
+[[dialogue]]
+speaker_original = "トリュファイナ"
+speaker_translation = "트류파이나"
+original = "「……普通のアステラとは雰囲気が全く違いますね？」"
+translation = "「……보통의 아스테라와는 분위기가 전혀 다르네요?」"
+
+[[dialogue]]
+speaker_original = "モンスター"
+speaker_translation = "몬스터"
+original = "「イ～～～～♪」"
+translation = "「이～～～～♪」"
+
+[[dialogue]]
+speaker_original = "シュティレ"
+speaker_translation = "슈틸레"
+original = "「遠目に敵影を発見……ですが、呑気に散歩をしているようです。あのようなふるまいのモンスターは初めて見ますね」"
+translation = "「멀리 적의 그림자를 발견……입니다만, 태평하게 산책을 하고 있는 듯합니다. 저러한 행동의 몬스터는 처음 보네요」"
+
+[[dialogue]]
+speaker_original = "ダッチ"
+speaker_translation = "더치"
+original = "「これらも全て、シエスタの力によるものですよ」"
+translation = "「이것들도 전부, 시에스타의 힘에 의한 거랍니다」"
+
+[[dialogue]]
+speaker_original = "ダッチ"
+speaker_translation = "더치"
+original = "「お伝えしたでしょう？\u3000シエスタは、あらゆる事象やエネルギーに対して支配権を持つ、と」"
+translation = "「말씀드렸죠? 시에스타는, 모든 사상이나 에너지에 대해 지배권을 가진다고」"
+
+[[dialogue]]
+speaker_original = "ダッチ"
+speaker_translation = "더치"
+original = "「その力を応用すれば、アステラの改造など造作もないこと」"
+translation = "「그 힘을 응용하면, 아스테라의 개조 따위는 아무것도 아니죠」"
+
+[[dialogue]]
+speaker_original = "ダッチ"
+speaker_translation = "더치"
+original = "「ほかにも記憶の改竄、モンスターの傀儡化……対象を支配するという概念の延長にあるものは、あの子は何でも行えます」"
+translation = "「그 외에도 기억 개조, 몬스터의 괴뢰화…… 대상의 지배라는 개념의 연장선상에 있는 것은, 그 아이는 무엇이든 할 수 있습니다」"
+
+[[dialogue]]
+speaker_original = "ダッチ"
+speaker_translation = "더치"
+original = "「弱点と呼べるのは、能力の射程が短いことくらいでしょうか」"
+translation = "「약점이라 부를 수 있는 것은, 능력의 사거리가 짧다는 것 정도일까요」"
+
+[[dialogue]]
+speaker_original = "トリュファイナ"
+speaker_translation = "트류파이나"
+original = "「……聞けば聞くほどに、恐ろしいお相手ですね」"
+translation = "「……들으면 들을수록, 무서운 상대군요」"
+
+[[dialogue]]
+speaker_original = "蘭美"
+speaker_translation = "라미"
+original = "「だからって臆してなんていられないわ！\u3000会長たちがどんな目に遭ってるか……光速で解決するわよ！」"
+translation = "「그렇다고 주저앉아 있을 수는 없어! 회장 일행이 어떤 꼴을 당하고 있을지…… 광속으로 해결하겠어!」"
+
+[[dialogue]]
+speaker_original = "ダッチ"
+speaker_translation = "더치"
+original = "「その意気です、蘭美様。さぁ──敵が我々に気づいたようですよ！？」"
+translation = "「기세가 좋네요, 라비 님. 자── 적이 우리를 눈치챈 모양인데요!?」"
+
+[[dialogue]]
+speaker_original = "モンスター"
+speaker_translation = "몬스터"
+original = "「イィィイ～～～！！」"
+translation = "「이이이이～～!!」"
+
+[[dialogue]]
+speaker_original = "蘭美"
+speaker_translation = "라미"
+original = "「向かってきたわね！\u3000迎撃するわ！！」"
+translation = "「덤벼드는구나! 요격하겠어!!」"
+
+[[dialogue]]
+speaker_original = "蘭美"
+speaker_translation = "라미"
+original = "「行くわよ、２人とも！」"
+translation = "「가자, 둘 다!」"
+
+[[dialogue]]
+speaker_original = "シュティレ"
+speaker_translation = "슈틸레"
+original = "「了解しました。各個撃破しましょう」"
+translation = "「알겠습니다. 각개격파하죠」"
+
+[[dialogue]]
+speaker_original = "トリュファイナ"
+speaker_translation = "트류파이나"
+original = "「はいっ！\u3000援護はお任せください！」"
+translation = "「네! 엄호는 맡겨 주세요!」"
+
+[[dialogue]]
+speaker_original = "ダッチ"
+speaker_translation = "더치"
+original = "「２人とも──ですか。悲しいですねぇ！\u3000私も仲間の一員ですのに！！」"
+translation = "「둘 다── 인가요. 슬프네요! 저도 동료의 일원인데!!」"
+
+[[dialogue]]
+speaker_original = "蘭美"
+speaker_translation = "라미"
+original = "「一気に決めるわっ！\u3000フォトン・スマッシュ！！」"
+translation = "「단숨에 끝내겠어! 포톤 스매시!!」"
+
+[[dialogue]]
+speaker_original = "モンスター"
+speaker_translation = "몬스터"
+original = "「イーッ！？」"
+translation = "「이익!?」"
+
+[[dialogue]]
+speaker_original = "シュティレ"
+speaker_translation = "슈틸레"
+original = "「お見事ですね。シュティレも負けていられません」"
+translation = "「훌륭하네요. 슈틸레도 지고 있을 수는 없습니다」"
+
+[[dialogue]]
+speaker_original = "シュティレ"
+speaker_translation = "슈틸레"
+original = "「本日入手したてのコレの出番──螺旋機構、起動！\u3000唸れギガンドリル！」"
+translation = "「오늘 막 입수한 이것이 나설 차례── 나선 기구, 기동! 울려라 기간 드릴!」"
+
+[[dialogue]]
+speaker_original = "シュティレ"
+speaker_translation = "슈틸레"
+original = "「ローテーション・ドライブッ──！！」"
+translation = "「로테이션 드라이브──!!」"
+
+[[dialogue]]
+speaker_original = "モンスター"
+speaker_translation = "몬스터"
+original = "「イイイイ～～！！」"
+translation = "「이이이이～～!!」"
+
+[[dialogue]]
+speaker_original = "シュティレ"
+speaker_translation = "슈틸레"
+original = "「……耐久力に自信があるようですね」"
+translation = "「……내구력에 자신 있는 모양이군요」"
+
+[[dialogue]]
+speaker_original = "トリュファイナ"
+speaker_translation = "트류파이나"
+original = "「トドメはお任せを！\u3000魔弾装填──レプス・イルミナーレ！！」"
+translation = "「마무리는 맡겨 주시길! 마탄 장전── 레푸스 일루미나레!!」"
+
+[[dialogue]]
+speaker_original = "モンスター"
+speaker_translation = "몬스터"
+original = "「イイイイ～～～！？」"
+translation = "「이이이이～～～!?」"
+
+[[dialogue]]
+speaker_original = "ダッチ"
+speaker_translation = "더치"
+original = "「フゥ！\u3000私の出番はなかったようですねぇ。新フォームの武装も、操れているようで何よりです」"
+translation = "「후우! 제 나설 자리는 없었던 모양이네요. 새 폼의 무장도 잘 다루시는 것 같아 다행입니다」"
+
+[[dialogue]]
+speaker_original = "シュティレ"
+speaker_translation = "슈틸레"
+original = "「感無量です。まさかドリルを扱えるようになるとは」"
+translation = "「감개가 무량합니다. 설마 드릴을 다룰 수 있게 될 줄이야」"
+
+[[dialogue]]
+speaker_original = "ダッチ"
+speaker_translation = "더치"
+original = "「ムフフフ。ギガンドムがお好きと聞きましたのでね？\u3000ドリルはロマン──お気に召していただけましたか？」"
+translation = "「무후후후. 기간돔을 좋아하신다고 들었거든요. 드릴은 로망── 마음에 드셨습니까?」"
+
+[[dialogue]]
+speaker_original = "シュティレ"
+speaker_translation = "슈틸레"
+original = "「素晴らしいです。気に入りました。ぶい」"
+translation = "「훌륭합니다. 마음에 들었습니다. 브이」"
+
+[[dialogue]]
+speaker_original = "トリュファイナ"
+speaker_translation = "트류파이나"
+original = "「私も普段の杖が変化して、魔弾を発射できる銃杖になっているようです」"
+translation = "「저도 평소의 지팡이가 변화해서 마탄을 발사할 수 있는 총지팡이가 된 것 같습니다」"
+
+[[dialogue]]
+speaker_original = "トリュファイナ"
+speaker_translation = "트류파이나"
+original = "「銃の扱いは私、ロボットアニメで勉強済みです。戦闘に問題はございません！」"
+translation = "「총 다루는 법은 저, 로봇 애니메이션으로 공부 마쳤습니다. 전투에 문제 없습니다!」"
+
+[[dialogue]]
+speaker_original = "蘭美"
+speaker_translation = "라미"
+original = "「敵から受け取った戦闘服──心配していたけれど、今のところは大丈夫そうね！」"
+translation = "「적에게 받은 전투복── 걱정했는데, 지금으로선 괜찮아 보이네!」"
+
+[[dialogue]]
+speaker_original = "ダッチ"
+speaker_translation = "더치"
+original = "「ひどいですねぇ。まだ信用していただけないのですか？」"
+translation = "「너무하시네요. 아직도 신용해 주시지 않는 건가요?」"
+
+[[dialogue]]
+speaker_original = "蘭美"
+speaker_translation = "라미"
+original = "「するわけないでしょ！\u3000今までの自分の行いを考えてごらんなさい！」"
+translation = "「할 리가 없잖아! 지금까지 당신이 한 짓을 생각해 봐!」"
+
+[[dialogue]]
+speaker_original = "モンスター"
+speaker_translation = "몬스터"
+original = "「イイイィィイイ──！！」"
+translation = "「이이이이이이──!!」"
+
+[[dialogue]]
+speaker_original = "蘭美"
+speaker_translation = "라미"
+original = "「大型モンスター……くぅっ！？」"
+translation = "「대형 몬스터…… 큭!?」"
+
+[[dialogue]]
+speaker_original = "蘭美"
+speaker_translation = "라미"
+original = "「星力が急に吸われている感覚っ……これが『支配』の力！？」"
+translation = "「성력이 갑자기 빨려 나가는 느낌이…… 이것이 『지배』의 힘!?」"
+
+[[dialogue]]
+speaker_original = "ダッチ"
+speaker_translation = "더치"
+original = "「流石はシエスタ。もう我々の存在に気付きましたか！」"
+translation = "「역시 시에스타. 벌써 저희의 존재를 눈치채셨군요!」"
+
+[[dialogue]]
+speaker_original = "ダッチ"
+speaker_translation = "더치"
+original = "「ご安心ください！\u3000私の欲望シールドを起動します！！\u3000──さぁ、皆様ご一緒に！」"
+translation = "「안심하십시오! 제 욕망 실드를 기동하겠습니다!! ──자, 여러분 다 함께!」"
+
+[[dialogue]]
+speaker_original = "シュティレ"
+speaker_translation = "슈틸레"
+original = "「致し方ありません。ぴょーんぴょん」"
+translation = "「어쩔 수 없군요. 깡충깡충」"
+
+[[dialogue]]
+speaker_original = "トリュファイナ"
+speaker_translation = "트류파이나"
+original = "「ダッチ様、お願いしますぴょんっ！」"
+translation = "「닷치 님, 부탁해요 깡충!」"
+
+[[dialogue]]
+speaker_original = "ダッチ"
+speaker_translation = "더치"
+original = "「フゥウ～！！\u3000絶好調ですよぉ！！」"
+translation = "「후우우~! 절정조라고요!!」"
+
+[[dialogue]]
+speaker_original = "シュティレ"
+speaker_translation = "슈틸레"
+original = "「おお。一気に体が軽くなりました」"
+translation = "「오오. 한순간에 몸이 가벼워졌습니다」"
+
+[[dialogue]]
+speaker_original = "トリュファイナ"
+speaker_translation = "트류파이나"
+original = "「ええ！\u3000魔力の減衰が止まりました……！」"
+translation = "「네! 마력의 감쇠가 멈췄어요……!」"
+
+[[dialogue]]
+speaker_original = "蘭美"
+speaker_translation = "라미"
+original = "「ちょ、ちょっと待ちなさいっ！\u3000ぐ、ぅ……！\u3000どうして私は星力を吸われたままなの！？」"
+translation = "「잠, 잠깐 기다려 봐! 으, 윽……! 어째서 나만 성력을 계속 빼앗기고 있는 거야!?」"
+
+[[dialogue]]
+speaker_original = "ダッチ"
+speaker_translation = "더치"
+original = "「だって蘭美様、ぴょんを付けてくださらないではないですか？」"
+translation = "「그야 라비 님, 깡충을 안 붙여 주시지 않습니까?」"
+
+[[dialogue]]
+speaker_original = "蘭美"
+speaker_translation = "라미"
+original = "「こんのっ──！\u3000後で絶対ぶっ飛ばすぴょんっ！！！」"
+translation = "「이 잡것이──! 나중에 꼭 날려버릴 거다 깡충!!!」"
+
+[[dialogue]]
+speaker_original = "ダッチ"
+speaker_translation = "더치"
+original = "「──オッホォォオォ！！\u3000ぴょん、キターーーーッ！！！」"
+translation = "「──오호호호!! 깡충, 왔다ーーーー!!」"
+
+[[dialogue]]
+speaker_original = "蘭美"
+speaker_translation = "라미"
+original = "「ほ、本当に星力の略奪が止まった……くぅぅうう！！」"
+translation = "「제, 정말로 성력 약탈이 멈췄어…… 으으으!!」"
+
+[[dialogue]]
+speaker_original = "シュティレ"
+speaker_translation = "슈틸레"
+original = "「腹に据えかねるのはわかりますが、今が好機です。シュティレは右側から攻撃するぴょん」"
+translation = "「분통이 터지는 건 이해하지만, 지금이 기회입니다. 슈틸레는 우측에서 공격하는 깡충」"
+
+[[dialogue]]
+speaker_original = "トリュファイナ"
+speaker_translation = "트류파이나"
+original = "「私は後方より狙撃いたしますぴょんっ！」"
+translation = "「저는 후방에서 저격하겠습니다 깡충!」"
+
+[[dialogue]]
+speaker_original = "蘭美"
+speaker_translation = "라미"
+original = "「正面からねじ伏せるわ、行くわよ──！！」"
+translation = "「정면에서 찍어 눌러주겠어, 가자──!!」"
+
+[[dialogue]]
+speaker_original = "ダッチ"
+speaker_translation = "더치"
+original = "「ンンン～～～～？？？」"
+translation = "「응응응~~~~???」"
+
+[[dialogue]]
+speaker_original = "蘭美"
+speaker_translation = "라미"
+original = "「正面から行く『ぴょん』っ！！！！\u3000あー、もうっ！！」"
+translation = "「정면에서 간다 『깡충』!!!! 아─ 진짜!!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "シエスタによって差し向けられる大型モンスターを次々に撃破し、蘭美たち救出チームはアステラ遊園地の奥へと突き進む。"
+translation = "시에스타가 보낸 대형 몬스터를 차례차례 격파하며, 라비 일행 구출팀은 아스테라 유원지 안쪽으로 돌진한다."
+
+[[dialogue]]
+speaker = "unk"
+original = "そして──"
+translation = "그리고──"
+
+[[dialogue]]
+speaker_original = "アニマ"
+speaker_translation = "아니마"
+original = "「ぜぇっ……ぜぇっ！\u3000も、もう勘弁してくれたまえヨ……！！」"
+translation = "「헉…… 헉! 이제 좀 봐주게나……!!」"
+
+[[dialogue]]
+speaker_original = "モンスター"
+speaker_translation = "몬스터"
+original = "「イ～！\u3000イ～～！！」"
+translation = "「이~! 이~~!!」"
+
+[[dialogue]]
+speaker_original = "アニマ"
+speaker_translation = "아니마"
+original = "「いタっ、いたタっ！\u3000小突くのはやめたまエ……！」"
+translation = "「아윽, 아파라! 쥐어박는 건 그만두게나……!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "フワッチに囲まれ、ぽこぽこと攻撃を続けられているアニマを発見した。"
+translation = "후왓치에게 둘러싸여 쿡쿡 계속 공격당하고 있는 아니마를 발견했다."
+
+[[dialogue]]
+speaker_original = "シュティレ"
+speaker_translation = "슈틸레"
+original = "「マスター！！」"
+translation = "「마스터!!」"
+
+[[dialogue]]
+speaker_original = "アニマ"
+speaker_translation = "아니마"
+original = "「おお、シュティレ！\u3000助けに来てくれたのカ！！」"
+translation = "「오오, 슈틸레! 구하러 와 준 건가!!」"
+
+[[dialogue]]
+speaker_original = "シュティレ"
+speaker_translation = "슈틸레"
+original = "「一掃します！\u3000ギガンドリル・プレッシャー！！」"
+translation = "「일소하겠습니다! 기간 드릴 프레셔!!」"
+
+[[dialogue]]
+speaker_original = "モンスター"
+speaker_translation = "몬스터"
+original = "「イ～～～～！？！？」"
+translation = "「이~~~~!?!?」"
+
+[[dialogue]]
+speaker_original = "トリュファイナ"
+speaker_translation = "트류파이나"
+original = "「危ないところでしたね。もう大丈夫ですよ、アニマ様！」"
+translation = "「위험한 순간이었네요. 이제 괜찮습니다, 아니마 님!」"
+
+[[dialogue]]
+speaker_original = "アニマ"
+speaker_translation = "아니마"
+original = "「トリュファイナも！\u3000助かったゾ……しかしその珍妙な格好はどうしたんダ？」"
+translation = "「트리파이나도! 살았다네…… 그런데 그 진묘한 차림새는 어찌 된 건가?」"
+
+[[dialogue]]
+speaker_original = "アニマ"
+speaker_translation = "아니마"
+original = "「むむム？\u3000九浄家のメイド長に──お前ハ……！？」"
+translation = "「음음음? 쿠죠가의 메이드장에── 자네는……!?」"
+
+[[dialogue]]
+speaker_original = "シュティレ"
+speaker_translation = "슈틸레"
+original = "「……と、こんな経緯がありまして」"
+translation = "「……라 하여 이런 경위가 있었습니다」"
+
+[[dialogue]]
+speaker_original = "アニマ"
+speaker_translation = "아니마"
+original = "「ふム。ロストアイテムと協力しての救出チーム……随分と面白いことになっているみたいダナ！」"
+translation = "「흠. 로스트 아이템과 협력한 구출팀이라…… 제법 재미있는 상황이 된 것 같군!」"
+
+[[dialogue]]
+speaker_original = "アニマ"
+speaker_translation = "아니마"
+original = "「敵の能力のからくりもわかったヨ。なぜ変身できないのか、ずっと疑問だったんダ」"
+translation = "「적 능력의 트릭도 알았다네. 왜 변신할 수 없는지 계속 의문이었지」"
+
+[[dialogue]]
+speaker_original = "アニマ"
+speaker_translation = "아니마"
+original = "「アニマはなぜかひどく敵視されていてネ。さっきみたいにフワッチにどつきまわされて大変だったヨ……トリュファイナ、治療感謝するゾ！」"
+translation = "「아니마는 어째서인지 지독하게 적시당해서 말이야. 아까처럼 후왓치에게 두들겨 맞느라 고생했다네…… 트리파이나, 치료 고맙네!」"
+
+[[dialogue]]
+speaker_original = "トリュファイナ"
+speaker_translation = "트류파이나"
+original = "「礼には及びません。しかしよく３日も耐えられましたね、アニマ様」"
+translation = "「감사는 무슨 말씀을요. 그나저나 잘도 사흘 동안이나 견디셨네요, 아니마 님」"
+
+[[dialogue]]
+speaker_original = "アニマ"
+speaker_translation = "아니마"
+original = "「んン？\u3000いや、そんなに長い時間は逃げられなイ。アニマがここに来て、まだ半日くらいだガ……」"
+translation = "「응? 아니, 그렇게 긴 시간 동안 도망친 건 아니라네. 아니마가 이곳에 온 지는 아직 반나절 정도다만……」"
+
+[[dialogue]]
+speaker_original = "ダッチ"
+speaker_translation = "더치"
+original = "「時間の流れもおかしくなっているようですねぇ！\u3000早急にシエスタを倒し、現実に帰還しなくては！」"
+translation = "「시간의 흐름도 이상해진 모양이군요! 조속히 시에스타를 쓰러뜨리고 현실로 귀환해야 합니다!」"
+
+[[dialogue]]
+speaker_original = "蘭美"
+speaker_translation = "라미"
+original = "「ええ！\u3000アニマ、会長の救出は私たちに任せて。貴女は先にここから脱出するのよ！」"
+translation = "「그래! 아니마, 회장 구출은 우리한테 맡겨. 너는 먼저 여기서 탈출해!」"
+
+[[dialogue]]
+speaker_original = "アニマ"
+speaker_translation = "아니마"
+original = "「む……確かにアニマがついていっても、敵を強化してしまうだけカ。了解だヨ」"
+translation = "「음…… 확실히 아니마가 따라가 봐야 적을 강화할 뿐이겠지. 알았다네」"
+
+[[dialogue]]
+speaker_original = "アニマ"
+speaker_translation = "아니마"
+original = "「シエスタは会長と一緒に遊園地内を遊びまわっている。すぐに見つけられるはずダ！」"
+translation = "「시에스타는 회장과 함께 유원지 내부를 놀러 다니고 있다네. 금방 찾을 수 있을 거야!」"
+
+[[dialogue]]
+speaker_original = "シュティレ"
+speaker_translation = "슈틸레"
+original = "「承知いたしました。また後で会いましょう、マスター！」"
+translation = "「알겠습니다. 나중에 다시 뵙죠, 마스터!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "アニマをアステラの外に送って、再度アステラ遊園地の探索を進める一行。"
+translation = "아니마를 아스테라 밖에 보내고, 다시 아스테라 유원지 탐색을 진행하는 일행."
+
+[[dialogue]]
+speaker = "unk"
+original = "ダッチの案内で、遊園地の一画にたどり着いた蘭美たちが目にしたのは──"
+translation = "닷치의 안내로 유원지의 한 구역에 도달한 라비 일행이 눈에 담은 것은──"
+
+[[dialogue]]
+speaker_original = "シエスタ"
+speaker_translation = "シエスタ"
+original = "「お兄ちゃん、お兄ちゃんっ♪\u3000シス、お兄ちゃんとアイスの食べさせっこがしたいの～♪」"
+translation = "「오빠, 오빠♪ 시스, 오빠랑 아이스크림 서로 먹여주기 하고 싶어~♪」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ははは。シスは甘えん坊だなあ"
+translation = "하하하. 시스는 어리광쟁이구나"
+
+[[dialogue]]
+speaker_original = "蘭美"
+speaker_translation = "라미"
+original = "「な、なななっ──何が起こってるぴょんっ！？！？」"
+translation = "「무, 무슨 일이 일어나고 있는 거냐 깡충!?!?」"
+

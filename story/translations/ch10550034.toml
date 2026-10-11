@@ -1,0 +1,333 @@
+[[dialogue]]
+speaker = "unk"
+original = "第４話,エルデリーゼ、初めてのお泊り,P"
+translation = "제4화, 엘데리제, 첫 자고 가기, P"
+
+[[dialogue]]
+speaker_original = "エルデリーゼ"
+speaker_translation = "엘데리제"
+original = "「ついに今日……この時が来てしまいましたのね……！」"
+translation = "「드디어 오늘…… 이 순간이 와 버렸군요……!」"
+
+[[dialogue]]
+speaker_original = "エルデリーゼ"
+speaker_translation = "엘데리제"
+original = "「会長様のお家でのお泊り……！\u3000前々より約束していましたけれども、いざとなると、すごく緊張しますわ……」"
+translation = "「회장님 집에서 자고 가기……! 전부터 약속했습니다만, 막상 때가 되니 너무 긴장돼요……」"
+
+[[dialogue]]
+speaker_original = "エルデリーゼ"
+speaker_translation = "엘데리제"
+original = "「事前にしっかり調べて、お泊りする準備は整えてきましたの。お着替えも用意しましたのよ」"
+translation = "「사전에 확실히 조사해서 자고 갈 준비는 마쳤어요. 갈아입을 옷도 준비했답니다」"
+
+[[dialogue]]
+speaker_original = "エルデリーゼ"
+speaker_translation = "엘데리제"
+original = "「外泊のための口実もきちんと……アムのお家にお泊りすると口裏を合わせてもらうようお伝えしましたわ」"
+translation = "「외박을 위한 핑계도 제대로…… 아무네 집에서 자고 간다고 말을 맞추어 달라고 전해 두었어요」"
+
+[[dialogue]]
+speaker_original = "アム"
+speaker_translation = "아무"
+original = "「か、会長のお家にお泊り～！？\u3000それであたしの家に泊まることにするって……」"
+translation = "「회, 회장님 집에서 자고 가기~!? 그래서 내 집에서 자고 가는 걸로 하기로 했다니……」"
+
+[[dialogue]]
+speaker_original = "アム"
+speaker_translation = "아무"
+original = "「エルゼ……ライバルのあたしをダシにするなんて、いい度胸してるよね」"
+translation = "「엘제…… 라이벌인 나를 핑계로 대다니 배짱 한번 두둑하네」"
+
+[[dialogue]]
+speaker_original = "エルデリーゼ"
+speaker_translation = "엘데리제"
+original = "「申し訳ありませんですわ。ですが、他にどうしてもいい口実が思いつかず、アムしか頼れる人がいなかったものですから……」"
+translation = "「죄송합니다. 하지만 달리 아무리 해도 좋은 핑계가 떠오르지 않아 아무밖에 의지할 사람이 없었거든요……」"
+
+[[dialogue]]
+speaker_original = "アム"
+speaker_translation = "아무"
+original = "「責めてるわけじゃないから、別にいいけど。エルゼ、会長に惚れてからすっかり変わったよね。いい意味で」"
+translation = "「나무라는 건 아니니까 상관없지만. 엘제, 회장한테 반하고 나서 완전히 변했네. 좋은 의미로」"
+
+[[dialogue]]
+speaker_original = "アム"
+speaker_translation = "아무"
+original = "「これでエルゼに貸し１つだからね。いつか絶対に返してもらうから、忘れないでよ？」"
+translation = "「이걸로 엘제한테 빚 하나 생긴 거다. 언젠가 반드시 갚아야 하니까 잊지 마?」"
+
+[[dialogue]]
+speaker_original = "エルデリーゼ"
+speaker_translation = "엘데리제"
+original = "「アムには大きな借りを作ってしまいましたわね」"
+translation = "「아무에게 큰 빚을 지고 말았군요」"
+
+[[dialogue]]
+speaker_original = "エルデリーゼ"
+speaker_translation = "엘데리제"
+original = "「お泊りの準備は、万全に整ってますわ。忘れてはいけない大切なものもきちんと持ってきていますのよ」"
+translation = "「자고 갈 준비는 완벽해요. 잊어서는 안 될 중요한 것도 제대로 가져왔답니다」"
+
+[[dialogue]]
+speaker_original = "エルデリーゼ"
+speaker_translation = "엘데리제"
+original = "「ここが会長様のお家……普通のお住まいとはこういうものなのですわね」"
+translation = "「여기가 회장님 집…… 일반적인 주거라는 건 이런 거군요」"
+
+[[dialogue]]
+speaker_original = "エルデリーゼ"
+speaker_translation = "엘데리제"
+original = "「お邪魔いたしますわ……お母様はご不在ですのよね……？」"
+translation = "「실례하겠어요…… 어머님은 안 계시는 거죠……?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "帰ってくるのは明日かな"
+translation = "돌아오시는 건 내일이려나"
+
+[[dialogue]]
+speaker = "unk"
+original = "仕事が忙しいみたいでね"
+translation = "일이 바쁘신 모양이라서 말이지"
+
+[[dialogue]]
+speaker_original = "エルデリーゼ"
+speaker_translation = "엘데리제"
+original = "「そ、そうですのね。せっかくの機会ですし、ご挨拶させていただこうかとも思っていたのですけど……」"
+translation = "「그, 그렇군요. 모처럼의 기회라 인사라도 드릴까 생각했습니다만……」"
+
+[[dialogue]]
+speaker_original = "エルデリーゼ"
+speaker_translation = "엘데리제"
+original = "「…………」"
+translation = "「…………」"
+
+[[dialogue]]
+speaker_original = "エルデリーゼ"
+speaker_translation = "엘데리제"
+original = "「す、すみません！\u3000どこを見て良いかわからなくて、ついキョロキョロとしてしまいまして……」"
+translation = "「죄, 죄송해요! 어디를 봐야 할지 몰라서, 그만 두리번거리고 말아서……」"
+
+[[dialogue]]
+speaker_original = "エルデリーゼ"
+speaker_translation = "엘데리제"
+original = "「寮の部屋ともずいぶん違っていて……会長様のお家にお邪魔してるんだなーって……」"
+translation = "「기숙사 방과도 많이 다르고…… 회장님의 집에 와 있구나 해서……」"
+
+[[dialogue]]
+speaker_original = "エルデリーゼ"
+speaker_translation = "엘데리제"
+original = "「私、明日の朝まで、ここで会長様と２人きりで過ごしますのね……」"
+translation = "「저, 내일 아침까지 여기서 회장님과 둘이서만 지내는 거군요……」"
+
+[[dialogue]]
+speaker_original = "エルデリーゼ"
+speaker_translation = "엘데리제"
+original = "「…………」"
+translation = "「…………」"
+
+[[dialogue]]
+speaker_original = "エルデリーゼ"
+speaker_translation = "엘데리제"
+original = "「っっっ～～！！！\u3000も、申し訳ありません！\u3000変なことを口走ってしまいましたわ！\u3000忘れてくださいませっ！」"
+translation = "「읏읏읏~~!!! 죄, 죄송해요! 이상한 말을 중얼거리고 말았어요! 잊어주세요!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "初めてのお泊りということで、緊張のあまり挙動が変になってしまっているエルゼだった。"
+translation = "처음으로 자고 가는 것이라, 너무 긴장한 나머지 거동이 수상해진 엘제였다."
+
+[[dialogue]]
+speaker_original = "エルデリーゼ"
+speaker_translation = "엘데리제"
+original = "「まあ、これはビーフシチュー？\u3000とっても美味しそうですわ……！」"
+translation = "「어머, 이건 비프스튜? 정말 맛있어 보여요……!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "夕飯に俺の手料理を振る舞うと、エルゼはぱぁっと顔を輝かせた。"
+translation = "저녁으로 나의 손요리를 대접하자, 엘제는 화사하게 얼굴을 빛냈다."
+
+[[dialogue]]
+speaker = "unk"
+original = "たくさん用意したから、いっぱい食べて"
+translation = "많이 준비했으니까, 많이 먹어"
+
+[[dialogue]]
+speaker = "unk"
+original = "エルゼのために作ったんだ"
+translation = "엘제를 위해 만든 거니까"
+
+[[dialogue]]
+speaker_original = "エルデリーゼ"
+speaker_translation = "엘데리제"
+original = "「はむ、はむ……会長様の手作りお料理、とっても美味しいですわ……当家のシェフに勝るとも劣らぬ──」"
+translation = "「냠, 냠…… 회장님의 수제 요리, 정말 맛있어요…… 저희 집 셰프에게도 뒤지지 않는──」"
+
+[[dialogue]]
+speaker_original = "エルデリーゼ"
+speaker_translation = "엘데리제"
+original = "「いえ、愛情の分だけ会長様に軍配が上がりますわ。毎日でも食べたいくらいですの」"
+translation = "「아니요, 애정이 들어간 만큼 회장님의 승리예요. 매일이라도 먹고 싶을 정도인걸요」"
+
+[[dialogue]]
+speaker = "unk"
+original = "まるで同棲のような幸せな時間を過ごした。"
+translation = "마치 동거하는 듯한 행복한 시간을 보냈다."
+
+[[dialogue]]
+speaker = "unk"
+original = "次第に夜も更ける。"
+translation = "점차 밤이 깊어간다."
+
+[[dialogue]]
+speaker_original = "エルデリーゼ"
+speaker_translation = "엘데리제"
+original = "「ここが会長様のお部屋……男性のお部屋にお邪魔するのは、初めてですわ……」"
+translation = "「여기가 회장님 방…… 남성의 방에 들어오는 건, 처음이에요……」"
+
+[[dialogue]]
+speaker = "unk"
+original = "物珍しそうに俺の部屋を見回す。"
+translation = "신기하다는 듯 내 방을 둘러본다."
+
+[[dialogue]]
+speaker_original = "エルデリーゼ"
+speaker_translation = "엘데리제"
+original = "「すんすん……お部屋中から会長様の匂いがしますわ……私の大好きな匂い……」"
+translation = "「킁킁…… 방 안 가득 회장님의 냄새가 나요…… 제가 정말 좋아하는 냄새……」"
+
+[[dialogue]]
+speaker_original = "エルデリーゼ"
+speaker_translation = "엘데리제"
+original = "「はっ！\u3000私、またはしたない真似を！」"
+translation = "「앗! 저, 또 흉흉한 짓을!」"
+
+[[dialogue]]
+speaker_original = "エルデリーゼ"
+speaker_translation = "엘데리제"
+original = "「申し訳ありません……ここで毎日、会長様が寝起きしていると思うと、なんだかドキドキしてしまって……」"
+translation = "「죄송해요…… 여기서 매일, 회장님이 자고 일어난다고 생각하니, 왠지 두근거려서……」"
+
+[[dialogue]]
+speaker = "unk"
+original = "もっと近くに来たら？"
+translation = "좀 더 가까이 오지 그래?"
+
+[[dialogue]]
+speaker = "unk"
+original = "そんな遠くにいなくても"
+translation = "그렇게 멀리 있지 않아도 돼"
+
+[[dialogue]]
+speaker_original = "エルデリーゼ"
+speaker_translation = "엘데리제"
+original = "「は、はい……では、失礼して……」"
+translation = "「네, 네…… 그럼, 실례해서……」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ベッドに腰かける俺の横に、少しだけ距離を置いて座る。この期に及んで、エルゼに警戒されているのだろうか。"
+translation = "침대에 앉아 있는 내 옆에, 약간 거리를 두고 앉는다. 이 판국에 엘제에게 경계받고 있는 걸까."
+
+[[dialogue]]
+speaker_original = "エルデリーゼ"
+speaker_translation = "엘데리제"
+original = "「この上なく、ドキドキしていますわ……お顔が燃えそうに熱くて……心臓が口から飛び出てしまいそうですの……」"
+translation = "「이 이상 없을 정도로 두근거리고 있어요…… 얼굴이 타버릴 것처럼 뜨겁고…… 심장이 입에서 튀어나올 것만 같아요……」"
+
+[[dialogue]]
+speaker_original = "エルデリーゼ"
+speaker_translation = "엘데리제"
+original = "「会長様はドキドキしてませんの……？」"
+translation = "「회장님은 두근거리지 않으신가요……?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "もちろんドキドキしてるよ"
+translation = "당연히 두근거리지"
+
+[[dialogue]]
+speaker = "unk"
+original = "緊張で胸が張り裂けそうだが、年上の俺がリードするべきだろう。エルゼの緊張を解きほぐそうと、気の利いた言葉を探す。"
+translation = "긴장으로 가슴이 찢어질 것 같지만, 연상인 내가 리드해야겠지. 엘제의 긴장을 풀어주려고 센스 있는 말을 찾는다."
+
+[[dialogue]]
+speaker_original = "エルデリーゼ"
+speaker_translation = "엘데리제"
+original = "「会長様？\u3000もし、私を落ち着かせようとしてくださっているなら、お気遣いなく……」"
+translation = "「회장님? 혹시 저를 진정시키려 해주시는 거라면, 신경 쓰지 마세요……」"
+
+[[dialogue]]
+speaker_original = "エルデリーゼ"
+speaker_translation = "엘데리제"
+original = "「お互い、ドキドキしたままで構いませんわ」"
+translation = "「서로 두근거리는 채로 있어도 괜찮아요」"
+
+[[dialogue]]
+speaker_original = "エルデリーゼ"
+speaker_translation = "엘데리제"
+original = "「きっとこのドキドキも、会長様と過ごすこれからの日々の中で大切な思い出になると思っていますの」"
+translation = "「분명 이 두근거림도, 회장님과 함께 보낼 앞으로의 나날 속에서 소중한 추억이 될 거라 생각하거든요」"
+
+[[dialogue]]
+speaker = "unk"
+original = "エルゼは一言発する度、少しずつ少しずつ距離を詰めてくる。"
+translation = "엘제는 한 마디 내뱉을 때마다, 조금씩 조금씩 거리를 좁혀온다."
+
+[[dialogue]]
+speaker_original = "エルデリーゼ"
+speaker_translation = "엘데리제"
+original = "「恋人のお家にお邪魔するのに、一番大切なものはちゃんと持ってきましたから」"
+translation = "「연인의 집에 놀러 오는데, 가장 소중한 건 제대로 챙겨왔으니까요」"
+
+[[dialogue]]
+speaker = "unk"
+original = "それって……？"
+translation = "그건……?"
+
+[[dialogue]]
+speaker_original = "エルデリーゼ"
+speaker_translation = "엘데리제"
+original = "「貴方様に全てを捧げる覚悟ですわ」"
+translation = "「당신에게 모든 것을 바칠 각오예요」"
+
+[[dialogue]]
+speaker_original = "エルデリーゼ"
+speaker_translation = "엘데리제"
+original = "「会長様……心よりお慕い申し上げております。大好きですわ……<emoji=heart04>」"
+translation = "「회장님…… 진심으로 연모하고 있습니다. 정말 좋아해요……<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "unk"
+original = "エルゼは目を閉じると、唇をそっと差し出してくる。"
+translation = "엘제는 눈을 감으며, 입술을 살며시 살포시 내밀어온다."
+
+[[dialogue]]
+speaker = "unk"
+original = "その意を察して、優しく唇を重ねる。"
+translation = "그 뜻을 알아차리고, 다정하게 입술을 맞춘다."
+
+[[dialogue]]
+speaker_original = "エルデリーゼ"
+speaker_translation = "엘데리제"
+original = "「ふふ、会長様とキスしてしまいました……ますますドキドキしてきましたわ……でも、とても嬉しいドキドキ……」"
+translation = "「후후, 회장님과 키스해버렸어요…… 점점 더 두근거리기 시작했어요…… 하지만, 정말 기쁜 두근거림……」"
+
+[[dialogue]]
+speaker_original = "エルデリーゼ"
+speaker_translation = "엘데리제"
+original = "「会長様にまで聞こえてしまいそう……私の鼓動、感じてくださいませ……<emoji=heart04>」"
+translation = "「회장님에게까지 들릴 것 같아요…… 제 고동, 느껴주세요……<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "unk"
+original = "キスのおかわりを望むエルゼの唇に再び唇を重ねる。"
+translation = "키스를 더 하길 바라는 엘제의 입술에 다시 입술을 맞춘다."
+
+[[dialogue]]
+speaker = "unk"
+original = "緊張に震える身体を押し殺しながら、俺を受け止めようとしてくれるエルゼがどこまでも愛おしかった。"
+translation = "긴장으로 떨리는 몸을 누르면서, 나를 받아들이려 해주는 엘제가 더없이 사랑스러웠다."
+

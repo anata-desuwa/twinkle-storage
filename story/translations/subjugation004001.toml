@@ -1,0 +1,446 @@
+[[dialogue]]
+speaker = "unk"
+original = "流星市国がハロウィンの色に染まる少し前の出来事。"
+translation = "유성시국이 할로윈 색으로 물들기 조금 전의 일."
+
+[[dialogue]]
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
+original = "「みんな、久しぶり～っ♪」"
+translation = "「얘들아, 오랜만이야～♪」"
+
+[[dialogue]]
+speaker_original = "アポロ"
+speaker_translation = "아폴로"
+original = "「おっ、ベアト～！\u3000元気だったか！？」"
+translation = "「오, 베아트～! 잘 지냈어!?」"
+
+[[dialogue]]
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
+original = "「うん、すっごく元気！\u3000みんなはどう？」"
+translation = "「응, 엄청 잘 지냈어! 다들 어때?」"
+
+[[dialogue]]
+speaker_original = "ナターシャ"
+speaker_translation = "나타샤"
+original = "「私たちは特に変わらずって感じ。まぁ元気と言えば元気かな。ベアトはルヴィネについてきたの？」"
+translation = "「우리는 별다를 것 없는 느낌. 뭐 잘 지낸다면 잘 지낸다랄까. 베아트는 루비네를 따라온 거야?」"
+
+[[dialogue]]
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
+original = "「そうだよ～♪」"
+translation = "「맞아～♪」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ベアトリスは、アルタイルとの交流のためにやってきたルヴィネに同行してきた。"
+translation = "베아트리스는, 알타이르와의 교류를 위해 찾아온 루비네에 동행해 왔다."
+
+[[dialogue]]
+speaker = "unk"
+original = "平行世界の同一人物は同じ世界に存在できないため、アルタイルのベアトリスは今デネブに滞在している。"
+translation = "평행세계의 동일인물은 같은 세계에 존재할 수 없기 때문에, 알타이르의 베아트리스는 지금 데네브에 체류하고 있다."
+
+[[dialogue]]
+speaker_original = "梨緒"
+speaker_translation = "리오"
+original = "「しばらくぶりだな。……お帰り、ベアト」"
+translation = "「오랜만이네. ……어서 와, 베아트」"
+
+[[dialogue]]
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
+original = "「……ただいま、梨緒ちゃん」"
+translation = "「……다녀왔어, 리오짱」"
+
+[[dialogue]]
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
+original = "「えへへ、お帰りって言ってもらえるの嬉しいな～」"
+translation = "「에헤헤, 어서 오라고 말해주는 거 기쁘네～」"
+
+[[dialogue]]
+speaker_original = "梨緒"
+speaker_translation = "리오"
+original = "「言っただろう、ここは君の第二の故郷だと。時間の許す限り羽を伸ばすといい」"
+translation = "「말했잖아, 여기가 너의 제2의 고향이라고. 시간이 허락하는 한 편히 쉬다 가도록 해」"
+
+[[dialogue]]
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
+original = "「うん、ありがとう！」"
+translation = "「응, 고마워!」"
+
+[[dialogue]]
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
+original = "「ところでさ、アルタイルもそろそろハロウィンの時期だよねっ？」"
+translation = "「그나저나 말야, 알타이르도 슬슬 할로윈 시기잖아?」"
+
+[[dialogue]]
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
+original = "「せっかくだし、選挙管理委員会のみんなで一緒にハロウィンパーティーできないかな？」"
+translation = "「모처럼인데, 선거관리위원회 다 같이 함께 할로윈 파티 할 수 없을까?」"
+
+[[dialogue]]
+speaker_original = "アポロ"
+speaker_translation = "아폴로"
+original = "「みんなでハロウィンパーティー！？\u3000いいな、最高じゃないか！\u3000天才だな！」"
+translation = "「다 같이 할로윈 파티!? 좋네, 최고잖아! 천재인데!」"
+
+[[dialogue]]
+speaker_original = "ナターシャ"
+speaker_translation = "나타샤"
+original = "「お、アポロ食いつきいいね」"
+translation = "「오, 아폴로 반응 빠른데」"
+
+[[dialogue]]
+speaker_original = "アポロ"
+speaker_translation = "아폴로"
+original = "「なんたって、ハロウィンならお菓子をどんなに食べ過ぎても怒られないからな！」"
+translation = "「뭐니 뭐니 해도, 할로윈이라면 과자를 아무리 많이 먹어도 혼나지 않으니까!」"
+
+[[dialogue]]
+speaker_original = "梨緒"
+speaker_translation = "리오"
+original = "「あまり度を越すようなら、流石に止めるぞ。だがパーティーを開く件については歓迎だ」"
+translation = "「너무 정도를 넘는다면, 역시 말리겠다. 하지만 파티를 여는 건에 대해서는 환영이야」"
+
+[[dialogue]]
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
+original = "「やった♪\u3000楽しいパーティーにしようねっ！」"
+translation = "「아싸♪ 즐거운 파티로 만들자!」"
+
+[[dialogue]]
+speaker_original = "ジグ"
+speaker_translation = "지그"
+original = "「ふむ。確かにそれはいい考えだね」"
+translation = "「흠. 확실히 그거 좋은 생각이네」"
+
+[[dialogue]]
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
+original = "「あ、ジグさん。お久しぶりです」"
+translation = "「아, 지그씨. 오랜만이에요」"
+
+[[dialogue]]
+speaker_original = "ジグ"
+speaker_translation = "지그"
+original = "「うん、久しぶり。息災なようで何よりだ」"
+translation = "「응, 오랜만이야. 무탈한 것 같아 무엇보다도 다행이네」"
+
+[[dialogue]]
+speaker_original = "ジグ"
+speaker_translation = "지그"
+original = "「で、大々的にパーティーをするのはいいんだけど、そうなると事前準備が大変そうだね？\u3000そこはどうするんだい？」"
+translation = "「그래서, 대대적으로 파티를 하는 건 좋은데, 그렇게 되면 사전 준비가 힘들 것 같네? 그 부분은 어떻게 할 거지?」"
+
+[[dialogue]]
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
+original = "「それは言い出しっぺの私が責任もって請け負います！」"
+translation = "「그건 말을 꺼낸 내가 책임지고 맡겠습니다!」"
+
+[[dialogue]]
+speaker_original = "梨緒"
+speaker_translation = "리오"
+original = "「それは助かるが……さすがにベアト１人では心許ない気がするな」"
+translation = "「그건 고맙지만…… 역시 베아트 혼자서는 미덥지 않은 기분이 드는걸」"
+
+[[dialogue]]
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
+original = "「それなら……ナターシャちゃん、一緒にやろっ」"
+translation = "「그러면…… 나타샤짱, 같이 하자」"
+
+[[dialogue]]
+speaker_original = "ナターシャ"
+speaker_translation = "나타샤"
+original = "「え、私？」"
+translation = "「에, 나?」"
+
+[[dialogue]]
+speaker_original = "ナターシャ"
+speaker_translation = "나타샤"
+original = "「まぁいいけど、適任かどうかはわからないよ？\u3000暗殺者流のハロウィンになるかも」"
+translation = "「뭐 괜찮지만, 적임인지는 모르겠어? 암살자식 할로윈이 될지도」"
+
+[[dialogue]]
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
+original = "「あはは、それもハロウィンっぽいかも！」"
+translation = "「아하하, 그것도 할로윈다울지도!」"
+
+[[dialogue]]
+speaker_original = "ジグ"
+speaker_translation = "지그"
+original = "「それじゃ２人にお任せしようかな。うん、異議なし」"
+translation = "「그럼 두 사람에게 맡겨볼까. 응, 이의 없음」"
+
+[[dialogue]]
+speaker_original = "梨緒"
+speaker_translation = "리오"
+original = "「待て、ジグ。面倒だからって、手っ取り早くベアトたちに押し付けたわけじゃないだろうな？」"
+translation = "「기다려, 지그. 귀찮다고 해서, 손쉽게 베아트 일행에게 떠넘긴 건 아니겠지?」"
+
+[[dialogue]]
+speaker_original = "ジグ"
+speaker_translation = "지그"
+original = "「ははは、そんなはずないだろう」"
+translation = "「하하하, 그럴 리가 없잖아」"
+
+[[dialogue]]
+speaker_original = "梨緒"
+speaker_translation = "리오"
+original = "「笑って誤魔化そうとしてるな！？」"
+translation = "「웃어서 얼버무리려고 하고 있구나!?」"
+
+[[dialogue]]
+speaker_original = "梨緒"
+speaker_translation = "리오"
+original = "「まぁ確かに、２人が引き受けてくれるならありがたいのは間違いないが……」"
+translation = "「뭐 확실히, 두 사람이 맡아준다면 고마운 건 틀림없지만……」"
+
+[[dialogue]]
+speaker_original = "アポロ"
+speaker_translation = "아폴로"
+original = "「あたしは問題なーし！\u3000じゃ、ベアトとナターシャがハロウィンパーティー盛り上げ部隊だな！」"
+translation = "「나는 문제없─음! 그럼, 베아트랑 나타샤가 할로윈 파티 분위기 고조 부대네!」"
+
+[[dialogue]]
+speaker_original = "ナターシャ"
+speaker_translation = "나타샤"
+original = "「まぁ、ほどほどに楽しみにしててよ」"
+translation = "「뭐, 적당히 기대하고 있어」"
+
+[[dialogue]]
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
+original = "「ハロウィン盛り上げ部隊がんばりま～すっ！」"
+translation = "「할로윈 흥행 부대 힘내겠습니~다!」"
+
+[[dialogue]]
+speaker_original = "ナターシャ"
+speaker_translation = "나타샤"
+original = "「パーティーっていっても何すればいいのかよくわからないし、準備はベアト主導でお願いするよ。私はあくまでサポートってことで」"
+translation = "「파티라고 해도 뭘 해야 좋을지 잘 모르겠고, 준비는 베아트 주도로 부탁할게. 나는 어디까지나 서포트하는 걸로」"
+
+[[dialogue]]
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
+original = "「任せてっ！\u3000今までに見たことも聞いたこともないような最高のハロウィンパーティーにしようねっ！」"
+translation = "「맡겨줘! 지금까지 본 적도 들은 적도 없는 듯한 최고의 할로윈 파티로 만들자!」"
+
+[[dialogue]]
+speaker_original = "ナターシャ"
+speaker_translation = "나타샤"
+original = "「あんまり張り切り過ぎても、空回りするよ？\u3000そこんとこ、ベアトなら心当たりあるでしょ」"
+translation = "「너무 의욕을 부려도, 헛돌아버려? 그 점, 베아트라면 짚이는 데가 있잖아」"
+
+[[dialogue]]
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
+original = "「う……確かに……。さすがナターシャちゃん、私のことわかってる……」"
+translation = "「으…… 확실히……. 역시 나타샤짱, 나에 대해 잘 알고 있어……」"
+
+[[dialogue]]
+speaker_original = "ナターシャ"
+speaker_translation = "나타샤"
+original = "「とりあえずどこから手を付けよっか？\u3000ハロウィンパーティーなら……お菓子とか、飾り付けとか？」"
+translation = "「우선 어디부터 손을 대볼까? 할로윈 파티라면…… 과자라든가, 장식이라든가?」"
+
+[[dialogue]]
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
+original = "「それも大事だけど、ハロウィンパーティーといえば、何よりも忘れちゃいけないのは仮装だよねっ」"
+translation = "「그것도 중요하지만, 할로윈 파티라고 하면, 무엇보다도 잊어서는 안 되는 건 가장이지!」"
+
+[[dialogue]]
+speaker_original = "ナターシャ"
+speaker_translation = "나타샤"
+original = "「ああ、そうだね。仮装がないと始まらないや。そうと決まれば──」"
+translation = "「아아, 그렇네. 가장이 없으면 시작하지 않지. 그렇게 정했으면──」"
+
+[[dialogue]]
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
+original = "「うん、行こう！」"
+translation = "「응, 가자!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ベアトリスとナターシャは、新星学園内で『ある人物』を探した。"
+translation = "베아트리스와 나타샤는, 신성학원 내에서 『어떤 인물』을 찾았다."
+
+[[dialogue]]
+speaker_original = "ジャクリーヌ"
+speaker_translation = "자클린"
+original = "「ゆっゆっゆ～、ゆゆゆのゆ～♪」"
+translation = "「유~유~유~, 유유유의 유~♪」"
+
+[[dialogue]]
+speaker_original = "ナターシャ"
+speaker_translation = "나타샤"
+original = "「いたいた。やっぱり目立つね」"
+translation = "「있었다 있었다. 역시 눈에 띄네」"
+
+[[dialogue]]
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
+original = "「ハロウィンの申し子、ジャクリーヌさーん！」"
+translation = "「할로윈의 출중한 자식, 자클린씨─!」"
+
+[[dialogue]]
+speaker_original = "ジャクリーヌ"
+speaker_translation = "자클린"
+original = "「んゆ？\u3000余を称える声が聞こえたゆ？\u3000なんか用なの？」"
+translation = "「응유? 짐을 찬양하는 소리가 들렸다유? 무슨 볼일인 유?」"
+
+[[dialogue]]
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
+original = "「はいっ、かいつまんで説明すると、これこれこういうことでして──」"
+translation = "「네, 요약해서 설명하자면, 이러저러한 이유로 해서──」"
+
+[[dialogue]]
+speaker_original = "ジャクリーヌ"
+speaker_translation = "자클린"
+original = "「ふむふむ、ハロウィンで盛り上がるのは余が最も望むところなの。ハロウィンの極意を教えてあげるのも、やぶさかではないゆ」"
+translation = "「흠흠, 할로윈으로 분위기가 고조되는 것은 짐이 가장 바라는 바인 유. 할로윈의 오의를 가르쳐 주는 것도, 마다하지 않는 유」"
+
+[[dialogue]]
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
+original = "「ありがとうございます、とっても助かります！」"
+translation = "「감사합니다, 엄청 도움이 돼요!」"
+
+[[dialogue]]
+speaker_original = "ジャクリーヌ"
+speaker_translation = "자클린"
+original = "「ただし！\u3000ハロウィンはタダというわけにはいかない催しなの！」"
+translation = "「단! 할로윈은 공짜라는 법은 없는 행사인 유!」"
+
+[[dialogue]]
+speaker_original = "ナターシャ"
+speaker_translation = "나타샤"
+original = "「え、お金取るの？」"
+translation = "「에, 돈 받는 거야?」"
+
+[[dialogue]]
+speaker_original = "ジャクリーヌ"
+speaker_translation = "자클린"
+original = "「お金ではないゆ！\u3000ギブ・アンド・テイク・アンド・トリック・オア・トリート！\u3000教えてほしくば、お菓子をよこすゆ！」"
+translation = "「돈이 아닌 유! 기브 앤 테이크 앤 트릭 오어 트릿! 가르쳐 주고 싶거든, 과자를 내놓는 유!」"
+
+[[dialogue]]
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
+original = "「渡さないと、どうなるんですか？」"
+translation = "「건네주지 않으면, 어떻게 되나요?」"
+
+[[dialogue]]
+speaker_original = "ジャクリーヌ"
+speaker_translation = "자클린"
+original = "「もちろんイタズラしちゃうの。それがハロウィンの厳しくも楽しい掟ゆ」"
+translation = "「당연히 장난쳐 버리는 유. 그것이 할로윈의 엄격하면서도 즐거운 규칙 유」"
+
+[[dialogue]]
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
+original = "「イタズラは困っちゃいますね……。それなら……ジャジャーン！」"
+translation = "「장난은 난처하네요…… 그렇다면…… 짜자잔!」"
+
+[[dialogue]]
+speaker_original = "ナターシャ"
+speaker_translation = "나타샤"
+original = "「なに？\u3000その虹色の立方体は」"
+translation = "「뭐야? 그 무지개색 입방체는」"
+
+[[dialogue]]
+speaker_original = "ジャクリーヌ"
+speaker_translation = "자클린"
+original = "「んゆゆゆっ！？\u3000このゲーミングブロックはなんだゆ？\u3000これがお菓子ゆ！？」"
+translation = "「응유유유!? 이 게이밍 블록은 뭐냐유? 이게 과자유!?」"
+
+[[dialogue]]
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
+original = "「デネブでも販売が開始したばかりの、最新のお菓子なんです。もちろんアルタイルには存在しないものですよ」"
+translation = "「데네브에서도 판매가 시작된 지 얼마 안 된, 최신 과자예요. 물론 알타이르에는 존재하지 않는 거랍니다」"
+
+[[dialogue]]
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
+original = "「ハロウィンの時期だからちょうどいいと思って、お土産に持ってきたんです」"
+translation = "「할로윈 시기라 딱 좋다고 생각해서, 선물로 가져온 거예요」"
+
+[[dialogue]]
+speaker_original = "ジャクリーヌ"
+speaker_translation = "자클린"
+original = "「ゆっゆ～っ！\u3000こんなの、見たことも聞いたことも食べたこともないゆ！\u3000こんなミラクルＳＳＲなお菓子があるなら、最初っから言えなの！」"
+translation = "「유~유~! 이런 거, 본 적도 들은 적도 먹어본 적도 없는 유! 이런 미라클 SSR 같은 과자가 있다면, 처음부터 말하라 유!」"
+
+[[dialogue]]
+speaker_original = "ジャクリーヌ"
+speaker_translation = "자클린"
+original = "「さっそくいただくゆ！\u3000あ～ん♪」"
+translation = "「당장 먹어보는 유! 아~앙♪」"
+
+[[dialogue]]
+speaker_original = "ジャクリーヌ"
+speaker_translation = "자클린"
+original = "「ゆゆゆ～～っ！！\u3000大・満・足ゆーーーーっっ！！！」"
+translation = "「유유유~~!! 대·만·족 유ーーーー!!」"
+
+[[dialogue]]
+speaker_original = "ナターシャ"
+speaker_translation = "나타샤"
+original = "「うわ、眩し！？」"
+translation = "「우와, 눈부셔!?」"
+
+[[dialogue]]
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
+original = "「うぅ、目が開けられない……何が起きてるの？」"
+translation = "「으으, 눈을 뜰 수 없어…… 무슨 일이 일어나고 있는 거야?」"
+
+[[dialogue]]
+speaker_original = "ナターシャ"
+speaker_translation = "나타샤"
+original = "「ふぅ、さっきのでまだ目がシパシパする……ベアトは無事……？」"
+translation = "「후우, 아까 일 때문에 아직도 눈이 빡빡해…… 베아토는 무사해……?」"
+
+[[dialogue]]
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
+original = "「なんとか～……あれ？\u3000ナターシャちゃん、その服って──」"
+translation = "「어떻게든~…… 어라? 나타샤짱, 그 옷은──」"
+
+[[dialogue]]
+speaker_original = "ナターシャ"
+speaker_translation = "나타샤"
+original = "「ん？\u3000私の服がどうしたって──あ、ベアトに猫耳が生えてるよ」"
+translation = "「응? 내 옷이 어쨌다고── 아, 베아토에게 고양이 귀가 자랐어」"
+
+[[dialogue]]
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
+original = "「耳！？\u3000本当だ、なんかついてる！？\u3000あ、これ、ネコミミのカチューシャだ」"
+translation = "「귀!? 진짜네, 뭔가 달려 있어!? 아, 이거 고양이 귀 머리띠다」"
+
+[[dialogue]]
+speaker_original = "ナターシャ"
+speaker_translation = "나타샤"
+original = "「ていうか、私たち──」"
+translation = "「그보다, 우리──」"
+
+[[dialogue]]
+speaker_original = "２人"
+speaker_translation = "2명"
+original = "「変身しちゃってるーーーーっ！？」"
+translation = "「변신해 버렸어ーーーー!?」"
+

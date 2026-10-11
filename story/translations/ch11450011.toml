@@ -1,0 +1,412 @@
+[[dialogue]]
+speaker = "unk"
+original = "第１話,待ち合わせの時間にて,P"
+translation = "제1화, 약속 시간에"
+
+[[dialogue]]
+speaker_original = "オオヒメ"
+speaker_translation = "오오히메"
+original = "「…………はぁ」"
+translation = "「…………하아」"
+
+[[dialogue]]
+speaker_original = "オオヒメ"
+speaker_translation = "오오히메"
+original = "「また、やってしまった……」"
+translation = "「또, 저질러 버렸다……」"
+
+[[dialogue]]
+speaker_original = "オオヒメ"
+speaker_translation = "오오히메"
+original = "「まだ１時間以上もあるというのに……あまりに落ち着かなくて、待ち合わせ場所に来てしまった……」"
+translation = "「아직 1시간 이상이나 남아있는데…… 너무나 차분해지질 않아서, 약속 장소에 와버렸다……」"
+
+[[dialogue]]
+speaker_original = "オオヒメ"
+speaker_translation = "오오히메"
+original = "「これで何度目だというのか……デートのたびに同じ失敗を繰り返して……」"
+translation = "「이걸로 몇 번째란 말인가…… 데이트할 때마다 같은 실수를 되풀이하고……」"
+
+[[dialogue]]
+speaker_original = "オオヒメ"
+speaker_translation = "오오히메"
+original = "「……おそらく魔王には気取られてはいないだろう。しかし、ここの店員には目を付けられているのではないだろうか？」"
+translation = "「……아마 마왕에게 눈치채이지는 않았겠지. 하지만, 여기 점원에게 눈총을 받고 있는 것은 아닐까?」"
+
+[[dialogue]]
+speaker_original = "オオヒメ"
+speaker_translation = "오오히메"
+original = "「『ねえねえ、見てよ。あのお客さん、またあの席に陣取ってるわ。今日もデートの待ち合わせかしら？』」"
+translation = "「『얘얘, 저기 봐. 저 손님, 또 저 자리에 진치고 있어. 오늘도 데이트 약속일까?』」"
+
+[[dialogue]]
+speaker_original = "オオヒメ"
+speaker_translation = "오오히메"
+original = "「『いつもいつも時間より早く来るのよね～。そんなに彼氏に会いたくて我慢出来ないのかしら？\u3000守護天使なのに、それってちょっとはしたなくなーい？』」"
+translation = "「『항상 항상 시간보다 일찍 온단 말이지~. 그렇게 남자친구를 만나고 싶어서 참을 수 없는 걸까? 수호천사인데, 그건 좀 하잘것없지 않~아?』」"
+
+[[dialogue]]
+speaker_original = "オオヒメ"
+speaker_translation = "오오히메"
+original = "「そんな噂になってしまっていたらどうすればいいのだ！！！」"
+translation = "「그런 소문이라도 나버리면 어쩌라는 말이냐!!!!」"
+
+[[dialogue]]
+speaker_original = "マグダレナ"
+speaker_translation = "막달레나"
+original = "「あら、オオヒメではありませんか？」"
+translation = "「어머, 오오히메 아니신가요?」"
+
+[[dialogue]]
+speaker_original = "オオヒメ"
+speaker_translation = "오오히메"
+original = "「っ……！？\u3000マグダレナにアルモタヘルにセシア……どうしてここに……？」"
+translation = "「윽……!? 막달레나에 알모타헬에 세시아…… 어째서 여기에……?」"
+
+[[dialogue]]
+speaker_original = "アルモタヘル"
+speaker_translation = "아르모타헬"
+original = "「異なことを言う。ここに空腹を満たす以外の目的で訪れる者など居らぬだろう」"
+translation = "「이상한 소리를 하는군. 여기에 배를 채우는 것 외의 목적으로 방문하는 자 따위 없을 테지」"
+
+[[dialogue]]
+speaker_original = "セシア"
+speaker_translation = "세시아"
+original = "「あら、アルモタヘル。あなたはそうかもしれないけれど、他の者はそうとはかぎらないわよ」"
+translation = "「어머, 알모타헬. 당신은 그럴지 몰라도, 다른 자는 그렇다고 할 수 없어」"
+
+[[dialogue]]
+speaker_original = "マグダレナ"
+speaker_translation = "막달레나"
+original = "「そうですね。カフェテリアは友人たちとの交流の場として利用されることもあれば、待ち合わせの場所として利用されることもありますから」"
+translation = "「그렇네요. 카페테리아는 친구들과의 교류의 장으로서 이용되는가 하면, 약속 장소로서 이용되는 경우도 있으니까요」"
+
+[[dialogue]]
+speaker_original = "オオヒメ"
+speaker_translation = "오오히메"
+original = "「っ……！！」"
+translation = "「윽……!!」"
+
+[[dialogue]]
+speaker_original = "アルモタヘル"
+speaker_translation = "아르모타헬"
+original = "「うむ……そういうものか。時にオオヒメよ、顔色が優れぬように見えるがどうしたのだ？」"
+translation = "「음…… 그런 것인가. 그나저나 오오히메여, 안색이 좋아 보이지 않는데 무슨 일인가?」"
+
+[[dialogue]]
+speaker_original = "セシア"
+speaker_translation = "세시아"
+original = "「そうね、小刻みに震えているようにも見えるわ」"
+translation = "「그래, 잘게 떨고 있는 것처럼 보이기도 해」"
+
+[[dialogue]]
+speaker_original = "マグダレナ"
+speaker_translation = "막달레나"
+original = "「義体の調子が悪いのであれば、アニマさまに診ていただいた方がよいのでは？」"
+translation = "「의체의 상태가 나쁜 것이라면, 아니마 님에게 진찰받는 편이 좋지 않을까요?」"
+
+[[dialogue]]
+speaker_original = "アルモタヘル"
+speaker_translation = "아르모타헬"
+original = "「いや、空腹なのであろう？\u3000オオヒメ、きちんと食事をしろ。特に肉だ。肉をしっかり食べるといい」"
+translation = "「아니, 배가 고픈 것이겠지? 오오히메, 제대로 식사를 해라. 특히 고기다. 고기를 든든히 먹는 게 좋다」"
+
+[[dialogue]]
+speaker_original = "オオヒメ"
+speaker_translation = "오오히메"
+original = "「い、いや、結構だ。食事はきちんと取っているし、義体の調子が悪いわけでもない。心配は無用だ」"
+translation = "「아, 아니, 됐네. 식사는 제대로 하고 있고, 의체의 상태가 나쁜 것도 아니다. 걱정은 무용하다」"
+
+[[dialogue]]
+speaker_original = "オオヒメ"
+speaker_translation = "오오히메"
+original = "（くっ……よりにもよって、この３人と鉢合わせてしまうとは……何という不運……）"
+translation = "(잰장…… 하필이면 이 3명과 마주치다니…… 이 무슨 불운이란 말인가……)"
+
+[[dialogue]]
+speaker_original = "オオヒメ"
+speaker_translation = "오오히메"
+original = "（悟られてはならない。今、私がここで誰と何のために待ち合わせているのかということを）"
+translation = "(눈치채여서는 안 된다. 지금, 내가 여기서 누구와 무엇을 위해 약속했는지라는 것을)"
+
+[[dialogue]]
+speaker_original = "オオヒメ"
+speaker_translation = "오오히메"
+original = "（凌がなければならない……小粋な話術を駆使して立ち振る舞い、３人の食事が終わるその時までどうにか耐え忍ぶのだ）"
+translation = "(넘겨내야만 한다…… 멋들어진 화술을 구사하여 처신하고, 3명의 식사가 끝나는 그때까지 어떻게든 견뎌내는 거다)"
+
+[[dialogue]]
+speaker_original = "オオヒメ"
+speaker_translation = "오오히메"
+original = "（…………いや、その考えは甘いか？）"
+translation = "(…………아니, 그 생각은 무른가?)"
+
+[[dialogue]]
+speaker_original = "オオヒメ"
+speaker_translation = "오오히메"
+original = "（マグダレナやセシアはともかくアルモタヘルが空腹を満たすまで、どれ程の時間を要するかわかったものではない）"
+translation = "(막달레나나 세시아는 그렇다 치고 알모타헬이 배를 채울 때까지, 어느 정도의 시간이 걸릴지 알 수 없지 않은가)"
+
+[[dialogue]]
+speaker_original = "オオヒメ"
+speaker_translation = "오오히메"
+original = "（ならば一度、カフェテリアから離れるか？）"
+translation = "(그렇다면 일단, 카페테리아에서 떨어질까?)"
+
+[[dialogue]]
+speaker_original = "オオヒメ"
+speaker_translation = "오오히메"
+original = "（いや、それも不審ではないか？\u3000あからさまに３人から逃げるようで……かえって疑いを抱かれてしまうかもしれない）"
+translation = "(아니, 그것도 수상하지 않은가? 노골적으로 3명에게서 달아나는 것 같아…… 도리어 의심을 품게 될지도 모른다)"
+
+[[dialogue]]
+speaker_original = "オオヒメ"
+speaker_translation = "오오히메"
+original = "（となれば、しばらく食事に付き合って、頃合いを見て席を外す──それしかない）"
+translation = "(그렇게 되면, 잠시 식사에 동행하고, 때를 봐서 자리를 비운다── 그것밖에 없다)"
+
+[[dialogue]]
+speaker_original = "オオヒメ"
+speaker_translation = "오오히메"
+original = "（しかし……となると、困るのは魔王が時間よりも早くこの場に現れた場合だな）"
+translation = "(하지만…… 그렇게 되면, 난감한 것은 마왕이 시간보다 일찍 이곳에 나타났을 경우로군)"
+
+[[dialogue]]
+speaker_original = "オオヒメ"
+speaker_translation = "오오히메"
+original = "（そのような緊急事態にすぐさま対処できるよう、常に周囲に気を配っていなければ……）"
+translation = "(그러한 긴급 사태에 즉시 대처할 수 있도록, 항상 주위에 신경을 쓰고 있지 않으면……)"
+
+[[dialogue]]
+speaker_original = "マグダレナ"
+speaker_translation = "막달레나"
+original = "「オオヒメ？」"
+translation = "「오오히메?」"
+
+[[dialogue]]
+speaker_original = "オオヒメ"
+speaker_translation = "오오히메"
+original = "「ひゃいっ！？」"
+translation = "「히약!?」"
+
+[[dialogue]]
+speaker_original = "マグダレナ"
+speaker_translation = "막달레나"
+original = "「どうしたのですか、今度は急にキョロキョロし始めて？」"
+translation = "「무슨 일이신가요, 이번엔 갑자기 두리번거리기 시작하시고?」"
+
+[[dialogue]]
+speaker_original = "オオヒメ"
+speaker_translation = "오오히메"
+original = "「わ、わわわ、私の何がおかしいとでも！？」"
+translation = "「내, 내내내, 내가 뭐가 이상하다는 게냐!?」"
+
+[[dialogue]]
+speaker_original = "アルモタヘル"
+speaker_translation = "아르모타헬"
+original = "「落ち着くがいい、オオヒメ。今のおまえは明らかに動揺している」"
+translation = "「진정하는 게 좋다, 오오히메. 지금의 너는 명백히 동요하고 있다」"
+
+[[dialogue]]
+speaker_original = "オオヒメ"
+speaker_translation = "오오히메"
+original = "「動揺してなどいないのでは！？」"
+translation = "「동요 같은 거 하지 않았다만!?」"
+
+[[dialogue]]
+speaker_original = "セシア"
+speaker_translation = "세시아"
+original = "「わたくし、わかってしまったわ！\u3000オオヒメ、あなたはどなたかと待ち合わせをしているのではないかしら？」"
+translation = "「저, 알아버렸어요! 오오히메, 당신 누군가와 약속을 한 게 아니신가요?」"
+
+[[dialogue]]
+speaker_original = "オオヒメ"
+speaker_translation = "오오히메"
+original = "「ギクゥっ！！\u3000……そ、そんなことは！」"
+translation = "「찔끔!! ……그, 그런 일은!」"
+
+[[dialogue]]
+speaker_original = "アルモタヘル"
+speaker_translation = "아르모타헬"
+original = "「ほう、そうであったか。ならばもっと早くそう言えばよかろうに」"
+translation = "「호오, 그러하였는가. 그렇다면 좀 더 일찍 그렇게 말하면 좋았을 것을」"
+
+[[dialogue]]
+speaker_original = "マグダレナ"
+speaker_translation = "막달레나"
+original = "「どなたと待ち合わせをしているのですか？」"
+translation = "「누구와 약속을 하신 건가요?」"
+
+[[dialogue]]
+speaker_original = "オオヒメ"
+speaker_translation = "오오히메"
+original = "「それは……ええと……」"
+translation = "「그건…… 어 그러니까……」"
+
+[[dialogue]]
+speaker_original = "アルモタヘル"
+speaker_translation = "아르모타헬"
+original = "「む、誤魔化そうとしているか？\u3000だとしたらその様なことは考えぬ方がよい。おまえは絶望的に隠し事が下手なのだからな」"
+translation = "「음, 얼버무리려 하는가? 그렇다면 그러한 짓은 생각지 않는 편이 좋다. 너는 절망적으로 숨기는 것에 서투르니까 말이다」"
+
+[[dialogue]]
+speaker_original = "オオヒメ"
+speaker_translation = "오오히메"
+original = "「ぁ……う……」"
+translation = "「아…… 우……」"
+
+[[dialogue]]
+speaker_original = "マグダレナ"
+speaker_translation = "막달레나"
+original = "「まあまあ♪\u3000オオヒメと会長さまがお付き合いをすることになっていたなんて」"
+translation = "「어머어머♪ 오오히메와 회장님이 사귀시기로 되어있었다니」"
+
+[[dialogue]]
+speaker_original = "アルモタヘル"
+speaker_translation = "아르모타헬"
+original = "「おまえが魔王と連れ立って出かけていることは知っていたが、まさかそのような関係になっていたとは驚かされたぞ」"
+translation = "「네가 마왕과 함께 나들이하는 것은 알고 있었지만, 설마 그러한 관계가 되어있었다니 놀랐다고」"
+
+[[dialogue]]
+speaker_original = "オオヒメ"
+speaker_translation = "오오히메"
+original = "「うぅ……結局、全部話すことになってしまうとは……」"
+translation = "「우우…… 결국, 전부 이야기하게 되어버리다니……」"
+
+[[dialogue]]
+speaker_original = "オオヒメ"
+speaker_translation = "오오히메"
+original = "（そう。あれはつい先日のことだった──）"
+translation = "(그래. 그것은 불과 요전날의 일이었다──)"
+
+[[dialogue]]
+speaker_original = "オオヒメ"
+speaker_translation = "오오히메"
+original = "「わ、私と……男女としてお付き合いを！？」"
+translation = "「나, 나와…… 남녀로서 사귀자고!?」"
+
+[[dialogue]]
+speaker_original = "オオヒメ"
+speaker_translation = "오오히메"
+original = "「分かっているのか？\u3000私は守護天使というヒトならざる身……そんな私に──」"
+translation = "「알고 있는 건가? 나는 수호천사라는 인간이 아닌 몸…… 그런 나에게──」"
+
+[[dialogue]]
+speaker_original = "オオヒメ"
+speaker_translation = "오오히메"
+original = "「いや……聡明なるあなたのことだ。そんなことは全て承知した上で、想いを伝えてきてくれたのだな」"
+translation = "「아니…… 총명한 당신의 일이다. 그런 것은 전부 승낙한 위에, 마음을 전해와준 것이겠지」"
+
+[[dialogue]]
+speaker_original = "オオヒメ"
+speaker_translation = "오오히메"
+original = "「その澄んだ瞳を見ればわかる……申し訳なかった……そして、ありがとう」"
+translation = "「그 맑은 눈동자를 보면 안다…… 미안했네…… 그리고, 고맙다」"
+
+[[dialogue]]
+speaker_original = "オオヒメ"
+speaker_translation = "오오히메"
+original = "「私も……わ、私、も……あなたの事は……憎からず思っている……だから、その……」"
+translation = "「나도…… 나, 도…… 당신에 대해서는…… 싫지 않게 생각하고 있다…… 그러니까, 그……」"
+
+[[dialogue]]
+speaker_original = "オオヒメ"
+speaker_translation = "오오히메"
+original = "「謹んで、その想いを受け取らせて欲しい……ぅぅぅ……」"
+translation = "「삼가, 그 마음을 받아들이게 해주었으면 한다…… 으으으……」"
+
+[[dialogue]]
+speaker_original = "オオヒメ"
+speaker_translation = "오오히메"
+original = "「魔王から想いを告げられた。そして私はその想いに応えると決めた」"
+translation = "「마왕에게서 마음을 고백받았다. 그리고 나는 그 마음에 응하기로 결심했다」"
+
+[[dialogue]]
+speaker_original = "オオヒメ"
+speaker_translation = "오오히메"
+original = "「そして２人の想いが結実してから初めてのデート……特別な意味を持つデート……それが今日だったというのに……」"
+translation = "「그리고 두 사람의 마음이 결실을 맺고서 첫 데이트…… 특별한 의미를 갖는 데이트…… 그것이 오늘이었는데도……」"
+
+[[dialogue]]
+speaker_original = "セシア"
+speaker_translation = "세시아"
+original = "「待ち合わせ時間よりだいぶ早く来てしまうわ、わたくしたちと鉢合わせて全部バレてしまうわ、災難続きだったということね」"
+translation = "「약속 시간보다 훨씬 일찍 와버리질 않나, 저희와 마주쳐서 전부 들켜버리질 않나, 재앙의 연속이었다는 소리네」"
+
+[[dialogue]]
+speaker_original = "オオヒメ"
+speaker_translation = "오오히메"
+original = "「そういうことだ……」"
+translation = "「그런 셈이다……」"
+
+[[dialogue]]
+speaker_original = "マグダレナ"
+speaker_translation = "막달레나"
+original = "「オオヒメらしいといえばオオヒメらしいですね。その……ちょっと不憫なところが……」"
+translation = "「오오히메답다고 해야 오오히메답네요. 그…… 약간 불쌍한 부분이……」"
+
+[[dialogue]]
+speaker_original = "オオヒメ"
+speaker_translation = "오오히메"
+original = "「不憫……！？\u3000《天恵》与える天使である私が……あ、いや……言われてみれば何となくそういったことが多い気はしていたが……」"
+translation = "「불쌍……!? 《천혜》를 주는 천사인 내가…… 아, 아니…… 듣고 보니 왠지 그런 일이 많았던 느낌은 들었다만……」"
+
+[[dialogue]]
+speaker_original = "アルモタヘル"
+speaker_translation = "아르모타헬"
+original = "「今更気付いたか？\u3000挙げれば数え切れぬではないか。まずフィーニスの塔では登場する機会すら与えられず魔王のビームで消し飛ばされ──」"
+translation = "「이제야 깨달았는가? 꼽자면 끝이 없지 않은가. 우선 피니스 탑에서는 등장할 기회조차 주어지지 않고 마왕의 빔으로 날아가 버리고──」"
+
+[[dialogue]]
+speaker_original = "オオヒメ"
+speaker_translation = "오오히메"
+original = "「そ、それ以上は言うな！\u3000掘り返したくない過去なのだ！」"
+translation = "「그, 그 이상은 말하지 마라! 들춰내고 싶지 않은 과거란 말이다!」"
+
+[[dialogue]]
+speaker_original = "セシア"
+speaker_translation = "세시아"
+original = "「けれど喜ばしいことも起きているわ！\u3000まさか守護天使であるあなたが恋をする機会を得るなんて素晴らしいことよ！」"
+translation = "「하지만 기쁜 일도 일어났잖아! 설마 수호천사인 당신이 연애를 할 기회를 얻다니 멋진 일이야!」"
+
+[[dialogue]]
+speaker_original = "オオヒメ"
+speaker_translation = "오오히메"
+original = "「セシア……ありがとう……そうだな、私は幸せだ……」"
+translation = "「세시아…… 고맙다…… 그렇구나, 나는 행복해……」"
+
+[[dialogue]]
+speaker_original = "セシア"
+speaker_translation = "세시아"
+original = "「ええ、そうよ！\u3000だからあなたの積んだ恋愛の経験、わたくしにも蓄積させて欲しいわ！」"
+translation = "「그래, 맞아요! 그러니까 당신이 쌓은 연애 경험, 저에게도 축적시키게 해주었으면 해요!」"
+
+[[dialogue]]
+speaker_original = "オオヒメ"
+speaker_translation = "오오히메"
+original = "「なん、だと……」"
+translation = "「뭣, 이라고……」"
+
+[[dialogue]]
+speaker_original = "アルモタヘル"
+speaker_translation = "아르모타헬"
+original = "「うむ、それはいいな。食事がてら魔王とどのようにして恋仲になったのか、詳しく聞かせてもらおう」"
+translation = "「음, 그것 참 좋군. 식사를 겸해 마왕과 어떻게 연인 사이가 되었는지, 자세히 들려다오」"
+
+[[dialogue]]
+speaker_original = "マグダレナ"
+speaker_translation = "막달레나"
+original = "「私も興味があります。オオヒメ、お願いしますね」"
+translation = "「저도 흥미가 있어요. 오오히메, 부탁드릴게요」"
+
+[[dialogue]]
+speaker_original = "オオヒメ"
+speaker_translation = "오오히메"
+original = "「め、目を輝かせながら迫ってくるなっ！」"
+translation = "「눈, 눈을 빛내면서 다가오지 마!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "こうして、恋人が到着するまでの間、オオヒメは２人の間で起きたことを洗いざらい白状させられたのだった。"
+translation = "이렇게 해서, 연인이 도착할 때까지의 시간 동안, 오오히메는 두 사람 사이에서 일어났던 일을 숨김없이 자백해야만 했다."
+

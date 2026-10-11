@@ -1,0 +1,208 @@
+[[dialogue]]
+speaker_original = "アナ"
+speaker_translation = "아나"
+original = "「……由々しき事態です」"
+translation = "「……유심한 사태입니다」"
+
+[[dialogue]]
+speaker_original = "マトイ"
+speaker_translation = "마토이"
+original = "「まさか、こんなことになるだなんて……」"
+translation = "「설마, 이런 일이 되다니……」"
+
+[[dialogue]]
+speaker = "unk"
+original = "新星学園の星徒会長、魔王・緋宮クロト。"
+translation = "신세이 학원의 성도회장, 마왕 히노미야 쿠로토."
+
+[[dialogue]]
+speaker = "unk"
+original = "そして天才錬金術師・アニマが行方不明となってはや３日──"
+translation = "그리고 천재 연금술사 아니마가 행방불명되고 벌써 사흘──"
+
+[[dialogue]]
+speaker_original = "ヘレナ"
+speaker_translation = "헬레나"
+original = "「事態は深刻。解決は迅速に行わなくてはならぬな……」"
+translation = "「사태는 심각. 해결은 신속하게 하지 않으면 안 되겠군……」"
+
+[[dialogue]]
+speaker_original = "アナ"
+speaker_translation = "아나"
+original = "「理事長、方々への情報統制、感謝いたします」"
+translation = "「이사장님, 각지에 대한 정보 통제, 감사드립니다」"
+
+[[dialogue]]
+speaker_original = "ヘレナ"
+speaker_translation = "헬레나"
+original = "「礼には及ばぬ。魔王と錬金術師が行方不明などと、外部に漏れれば大事件だ」"
+translation = "「감사를 표할 필요는 없다. 마왕과 연금술사가 행방불명이라는 사실이 외부로 새어 나가면 큰 사건이니까」"
+
+[[dialogue]]
+speaker_original = "ヘレナ"
+speaker_translation = "헬레나"
+original = "「魔王が不在と知られれば、星術犯罪組織の動きまで活発になるのは火を見るよりも明らかだからな」"
+translation = "「마왕이 부재중이라는 사실을 알게 되면, 성술 범죄 조직의 움직임까지 활발해질 것은 불 보듯 뻔한 일이니 말이다」"
+
+[[dialogue]]
+speaker_original = "マトイ"
+speaker_translation = "마토이"
+original = "「えっと……ヴィーナスはどうしてますか？」"
+translation = "「저기…… 비너스는 어떻게 하고 있나요?」"
+
+[[dialogue]]
+speaker_original = "ヘレナ"
+speaker_translation = "헬레나"
+original = "「パパを探すと言ってひと時もじっとしておらん。あちらにはサーシャと九浄家メイド隊がついている。心配は無用だ」"
+translation = "「아빠를 찾겠다고 하며 잠시도 가만히 있질 않더구나. 그쪽에는 사샤와 쿠죠 가문 메이드대가 붙어 있다. 걱정할 필요는 없다」"
+
+[[dialogue]]
+speaker_original = "ヘレナ"
+speaker_translation = "헬레나"
+original = "「ヴィーナスはあれでなかなか鼻が利く娘だ。魔王の失踪に関わっているのが、ただの犯罪組織であればじきに見つかるであろう」"
+translation = "「비너스는 보기와 달리 제법 코가 밝은 아이다. 마왕의 실종에 관여한 것이 그저 범죄 조직뿐이라면 곧 찾아낼 테지」"
+
+[[dialogue]]
+speaker_original = "アナ"
+speaker_translation = "아나"
+original = "「しかし……それは考えにくいです。うちの会長とアニマ先輩が、ただの反社会組織に後れを取るとは思えません」"
+translation = "「하지만…… 그건 생각하기 어렵네요. 우리 회장님과 아니마 선배가 단순한 반사회 조직에 발목을 잡힐 리 없다고 생각해요」"
+
+[[dialogue]]
+speaker_original = "ヘレナ"
+speaker_translation = "헬레나"
+original = "「道理であるな。だからこそ我々は、別のアプローチを行う──そこでこの２人の出番というわけだ！」"
+translation = "「이치에 맞는 말이로다. 그렇기에 우리들은 다른 방식으로 접근한다── 그래서 이 두 사람의 turn이라는 말씀이지!」"
+
+[[dialogue]]
+speaker_original = "シュティレ"
+speaker_translation = "슈틸레"
+original = "「どうも、アナお姉ちゃん。今回の事件、私たちにも協力させてください」"
+translation = "「안녕하세요, 아나 언니. 이번 사건, 저희도 협력하게 해주세요」"
+
+[[dialogue]]
+speaker_original = "トリュファイナ"
+speaker_translation = "트류파이나"
+original = "「はい。魔王様とアニマ様の窮地とあっては、ジッとしていられません！」"
+translation = "「네. 마왕님과 아니마 님의 궁지라니, 가만히 있을 수 없습니다!」"
+
+[[dialogue]]
+speaker_original = "ヘレナ"
+speaker_translation = "헬레나"
+original = "「この２人は失踪した者たちと関係が深い。情報統制も難しいと判断し、事情を話した」"
+translation = "「이 두 사람은 실종된 자들과 관계가 깊다. 정보 통제도 어렵다고 판단해 사정을 이야기했지」"
+
+[[dialogue]]
+speaker_original = "マトイ"
+speaker_translation = "마토이"
+original = "「アニマ先輩の弟子のシュティレちゃんと……あ、そっか。トリュファイナさんは、会長に引っ張られて現代に再誕したから──」"
+translation = "「아니마 선배의 제자인 슈틸레 고…… 아, 그렇구나. 트리파이나 씨는 회장님에게 끌려와 현대에 재탄생했으니까──」"
+
+[[dialogue]]
+speaker_original = "トリュファイナ"
+speaker_translation = "트류파이나"
+original = "「はい。私の魂と、魔王様の魂には繋がりがございます。だからこそ断言できます──魔王様は、存命です」"
+translation = "「네. 제 영혼과 마왕님의 영혼에는 연결고리가 있습니다. 그렇기에 단언할 수 있습니다── 마왕님은 살아 계십니다」"
+
+[[dialogue]]
+speaker_original = "マトイ"
+speaker_translation = "마토이"
+original = "「よ、よかった……！」"
+translation = "「다, 다행이다……!」"
+
+[[dialogue]]
+speaker_original = "トリュファイナ"
+speaker_translation = "트류파이나"
+original = "「しかし、申し訳ございません。繋がりがあり、距離はそう離れていない気もするのですが、場所が特定できないのです……」"
+translation = "「하지만 죄송합니다. 연결되어 있어 거리가 그리 멀지 않은 느낌은 듭니다만, 위치를 특정할 수가 없습니다……」"
+
+[[dialogue]]
+speaker_original = "アナ"
+speaker_translation = "아나"
+original = "「……そうですか。つまり会長は──」"
+translation = "「…… 그렇습니까. 즉 회장님은──」"
+
+[[dialogue]]
+speaker_original = "ヘレナ"
+speaker_translation = "헬레나"
+original = "「うむ。人間界の流星市国にはいるが……どこぞの異空間にでも迷い込んでいる。そう考えるのが妥当であろう」"
+translation = "「음. 인간계의 유성시국에는 있지만…… 어디 다른 이공간에라도 헤매 들어간 것이겠지. 그렇게 생각하는 것이 타당하겠지」"
+
+[[dialogue]]
+speaker_original = "シュティレ"
+speaker_translation = "슈틸레"
+original = "「マスターは失踪される直前、とあるレーダーを開発しておりました」"
+translation = "「마스터는 실종되시기 직전, 어떤 레이더를 개발하고 계셨습니다」"
+
+[[dialogue]]
+speaker_original = "シュティレ"
+speaker_translation = "슈틸레"
+original = "「シュティレも開発に関わったので、内容を知っています。あれは、マイナスエネルギーの揺らぎを感知するレーダー」"
+translation = "「슈틸레도 개발에 관여했기 때문에 내용을 알고 있어요. 그건 마이너스 에너지를 감지하는 레이더」"
+
+[[dialogue]]
+speaker_original = "シュティレ"
+speaker_translation = "슈틸레"
+original = "「つまり、ロストアイテムの居場所を探る機械です」"
+translation = "「즉, 로스트 아이템의 위치를 찾는 기계입니다」"
+
+[[dialogue]]
+speaker_original = "アナ"
+speaker_translation = "아나"
+original = "「……ロストアイテム！」"
+translation = "「…… 로스트 아이템!」"
+
+[[dialogue]]
+speaker_original = "マトイ"
+speaker_translation = "마토이"
+original = "「ということは……ま、まさかっ！？」"
+translation = "「그렇다는 건…… 설, 설마!?」"
+
+[[dialogue]]
+speaker_original = "ヘレナ"
+speaker_translation = "헬레나"
+original = "「そうだ。例の変態バニーフェチ──『欲望』のダッチが絡んでいる。私はそう睨んでいる」"
+translation = "「그래. 그 변태 바니 페티시── 『욕망』의 더치가 얽혀 있다. 나는 그렇게 노려보고 있지」"
+
+[[dialogue]]
+speaker_original = "シュティレ"
+speaker_translation = "슈틸레"
+original = "「『欲望』のダッチ……アナお姉ちゃんから聞いています。相当おかしな輩だとか」"
+translation = "「『욕망』의 더치…… 아나 언니한테 들었어요. 상당한 이상한 녀석이라고」"
+
+[[dialogue]]
+speaker_original = "トリュファイナ"
+speaker_translation = "트류파이나"
+original = "「ロストアイテムについての情報も、ヘレナ様から伝え聞いております。とても驚きました……」"
+translation = "「로스트 아이템에 대한 정보도 헬레나 님께 전해 들었습니다. 너무나 놀랐습니다……」"
+
+[[dialogue]]
+speaker_original = "アナ"
+speaker_translation = "아나"
+original = "「……ダッチの行方を探るとなると、骨が折れそうですね」"
+translation = "「…… 더치의 행방을 찾으려면 애를 좀 먹겠네요」"
+
+[[dialogue]]
+speaker_original = "ヘレナ"
+speaker_translation = "헬레나"
+original = "「その点は問題ない。敵はロストアイテム……強大な相手だが、それゆえに弱点も見えている」"
+translation = "「그 점은 문제없다. 적은 로스트 아이템…… 강대한 상대지만, 그렇기에 약점도 보이는 법」"
+
+[[dialogue]]
+speaker_original = "ヘレナ"
+speaker_translation = "헬레나"
+original = "「このヘレナちゃんに策がある。さぁ出番だ──蘭美！！」"
+translation = "「이 헬레나 짱에게 책략이 있다. 자, 나올 차례다── 라비!!」"
+
+[[dialogue]]
+speaker_original = "蘭美"
+speaker_translation = "라미"
+original = "「…………し、失礼いたします」"
+translation = "「………… 실, 실례하겠습니다」"
+
+[[dialogue]]
+speaker_original = "マトイ"
+speaker_translation = "마토이"
+original = "「そ、その格好は──！？」"
+translation = "「그, 그 복장은──!?」"
+

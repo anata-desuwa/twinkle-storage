@@ -123,7 +123,7 @@ translation = ""
 speaker_original = "アナ"
 speaker_translation = "아나"
 original = "「なるほど。ロマンなら仕方ない」"
-translation = ""
+translation = "「과연. 로망이라면 어쩔 수 없지」"
 
 [[dialogue]]
 speaker_original = "シュティレ"
@@ -234,7 +234,7 @@ translation = "위이잉…… 위이잉…… (←청소 로봇 『푱코』 �
 speaker_original = "蘭美"
 speaker_translation = "라미"
 original = "「──ぴょんっ！？！？」"
-translation = ""
+translation = "「──뿅!?」"
 
 [[dialogue]]
 speaker = "unk"
@@ -261,7 +261,7 @@ translation = "아아── 푱코 말인가"
 speaker_original = "蘭美"
 speaker_translation = "라미"
 original = "「ぴょんっ！？\u3000ぴょん子！？\u3000お掃除ロボット！？\u3000ど、どういうことなの！\u3000私というものがありながら！？」"
-translation = ""
+translation = "「뿅!? 뿅코!? 청소 로봇!? 어, 어떻게 된 거야! 나라는 존재가 있는데도!?」"
 
 [[dialogue]]
 speaker_original = "蘭美"
@@ -283,13 +283,13 @@ translation = "끌어들였다니 무슨……"
 speaker_original = "蘭美"
 speaker_translation = "라미"
 original = "「舐めないで欲しいぴょんっ！\u3000会長のためなら、万難を排して駆けつけるぴょん！！」"
-translation = ""
+translation = "「업신여기지 말라 뿅! 회장님을 위해서라면 온갖 난관을 무릅쓰고 달려온다 뿅!!」"
 
 [[dialogue]]
 speaker_original = "蘭美"
 speaker_translation = "라미"
 original = "「私がどれほど会長のことが好きなのか、知らないとは言わせないぴょんっ！\u3000そこに正座しなさいっ！\u3000お説教だぴょんっ！！！」"
-translation = ""
+translation = "「내가 얼마나 회장님을 좋아하는지 몰랐다는 소리는 못 하게 하겠다 뿅! 거기 무릎 꿇고 앉아라 뿅! 잔소리 타임이다 뿅!!!」"
 
 [[dialogue]]
 speaker = "unk"
@@ -324,7 +324,7 @@ translation = "「이런 건…… 이런 건!!!」"
 speaker_original = "蘭美"
 speaker_translation = "라미"
 original = "「────浮気だぴょんっっっ！！！！」"
-translation = ""
+translation = "「────바람이다 뿅!!!!」"
 
 [[dialogue]]
 speaker = "unk"

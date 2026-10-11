@@ -32,7 +32,7 @@ translation = "「도망치는 게 상책, 이라고는 했지만 조금 정도�
 speaker_original = "ヒマワリ"
 speaker_translation = "히마와리"
 original = "「だよね。じゃ、ちょっとだけ──暴れさせてもらいますねっ！」"
-translation = ""
+translation = "「그렇지. 그럼, 잠깐만── 날뛰어 보도록 할게요!」"
 
 [[dialogue]]
 speaker_original = "エルデリーゼ"
@@ -56,7 +56,7 @@ translation = "「큭……! 커다란 나이프…… 어디에 숨겨두고 �
 speaker_original = "ヒマワリ"
 speaker_translation = "히마와리"
 original = "「それは内緒っ！\u3000長物が相手なら距離を詰めちゃうのが有効だよね！」"
-translation = ""
+translation = "「그건 비밀! 긴 무기가 상대라면 거리를 좁혀버리는 게 유효하지!」"
 
 [[dialogue]]
 speaker_original = "エルデリーゼ"
@@ -74,7 +74,7 @@ translation = "「쯧! 흘려보내듯이, 공격을 휘감아쥐고……!」"
 speaker_original = "エルデリーゼ"
 speaker_translation = "엘데리제"
 original = "「そのまますかさず攻撃に転じますのっ！」"
-translation = ""
+translation = "「그대로 재빠르게 공격으로 전환하는 거예요!」"
 
 [[dialogue]]
 speaker_original = "ヒマワリ"
@@ -98,37 +98,37 @@ translation = "「조, 조금은 살살해 주세요ー!」"
 speaker_original = "エルデリーゼ"
 speaker_translation = "엘데리제"
 original = "「訓練であれば手加減もしますわ。ですが、不審者を捕まえるとなればそうは参りませんっ！」"
-translation = ""
+translation = "「훈련이라면 봐드리겠어요. 그렇지만, 수상한 자를 잡는 것이라면 그렇게는 안 되죠!」"
 
 [[dialogue]]
 speaker_original = "美鶴"
 speaker_translation = "미츠루"
 original = "「おー、さすがの攻撃力。さすがは『最強の矛』って呼ばれてるだけあるね～。あれならうちらが手を出すまでもなさそうかな」"
-translation = "「오ー, 역시나의 공격력. 과연 『최강의 창』이라 불릴 만하네~. 저 정도라면 우리가 손을 댈 필요도 없으려나」"
+translation = "「오~, 역시 공격력 대단하네. 과연 『최강의 창』이라 불릴 만해~. 저 정도면 우리가 나설 필요도 없겠는걸」"
 
 [[dialogue]]
 speaker_original = "ヨミ"
 speaker_translation = "요미"
 original = "「そんなこと言ってないで、私たちも協力しましょう！」"
-translation = "「그런 소리 하지 말고, 우리도 협력해요!」"
+translation = "「그런 소리 하지 마시고, 우리도 협력해요!」"
 
 [[dialogue]]
 speaker_original = "美鶴"
 speaker_translation = "미츠루"
 original = "「へーい……」"
-translation = "「네에네……」"
+translation = "「네~에……」"
 
 [[dialogue]]
 speaker_original = "ミウ"
 speaker_translation = "미우"
 original = "（美鶴さんとヨミさんが加わったら情報収集どころじゃなさそうだね……これ以上は無理かな）"
-translation = "(미츠루 씨와 요미 씨가 합세하면 정보 수집이고 뭐고 없겠네…… 더 이상은 무리려나)"
+translation = "（미츠루 씨랑 요미 씨까지 합세하면 정보 수집이고 뭐고 안 되겠어…… 더 이상은 무리려나）"
 
 [[dialogue]]
 speaker_original = "ミウ"
 speaker_translation = "미우"
 original = "（幸い、少しだけだけど人工戦闘服の力を見ることが出来た。この状況で得られる成果としては十分）"
-translation = "(다행히, 조금이지만 인공 전투복의 힘을 볼 수 있었어. 이 상황에서 얻을 수 있는 성과로서는 충분해)"
+translation = "（다행히, 조금이지만 인공 전투복의 힘을 볼 수 있었어. 이 상황에서 얻은 성과치고는 충분해）"
 
 [[dialogue]]
 speaker_original = "ミウ"
@@ -158,25 +158,25 @@ translation = "「병법삼십육계·<ruby>주위상<rt>주위상</rt></ruby>. 
 speaker_original = "せつな"
 speaker_translation = "세츠나"
 original = "「ふっふっふ、そうは問屋が卸さないでござる！」"
-translation = "「훗훗훗, 그렇게 호락호락하게는 안 되는 것이오!」"
+translation = "「훗훗훗, 그렇게 순순히 물러날 줄 알고 소인!」"
 
 [[dialogue]]
 speaker_original = "ミウ"
 speaker_translation = "미우"
 original = "「えっ……！？\u3000追いつかれた！？\u3000きゃっ！？」"
-translation = ""
+translation = "「엣……!? 따라잡혔어!? 캬앗!?」"
 
 [[dialogue]]
 speaker_original = "ヒマワリ"
 speaker_translation = "히마와리"
 original = "「ミウ──ぁうっ！？」"
-translation = ""
+translation = "「미우──아앗!?」"
 
 [[dialogue]]
 speaker_original = "蘭美"
 speaker_translation = "라미"
 original = "「残念だったわね、可愛らしい侵入者さん。私たちと渡り合うには圧倒的にスピード不足よ」"
-translation = "「안됐네, 귀여운 침입자 양. 우리와 겨루기에는 압도적으로 스피드가 부족하다고」"
+translation = "「안됐네, 귀여운 침입자 양. 우리 상대가 되기엔 스피드가 압도적으로 부족해」"
 
 [[dialogue]]
 speaker_original = "エルデリーゼ"
@@ -188,13 +188,13 @@ translation = "「세츠나 님, 라비 님!」"
 speaker_original = "せつな"
 speaker_translation = "세츠나"
 original = "「エルデリーゼ殿の声を聞き届け、九浄家メイド隊せつな、推参でござる！」"
-translation = ""
+translation = "「엘데리제 전하의 목소리를 듣고, 쿠죠가 메이드대 세츠나, 산상하여 소인!」"
 
 [[dialogue]]
 speaker_original = "蘭美"
 speaker_translation = "라미"
 original = "「我が九浄家に忍び込んでおいて、そう易々と逃げられるわけがないでしょう？\u3000ヘレナ様の前で、納得のいく説明をしてもらうわよ！」"
-translation = "「우리 쿠죠가에 몰래 들어와 놓고서, 그렇게 쉽사리 도망칠 수 있을 리가 없잖아? 헬레나 님 앞에서, 납득이 갈 만한 설명을 해 주셔야겠어!」"
+translation = "「우리 쿠죠가에 몰래 들어와 놓고, 그렇게 쉽게 도망칠 수 있을 줄 알았어? 헬레나 님 앞에서, 납득할 만한 설명을 들어야겠어!」"
 
 [[dialogue]]
 speaker_original = "ヒマワリ"
@@ -206,13 +206,13 @@ translation = "「우헤에~…… 어쩌지, 미우~」"
 speaker_original = "ミウ"
 speaker_translation = "미우"
 original = "「こんなにあっさり捕まっちゃうとは……想像以上だったね」"
-translation = "「이렇게 허무하게 잡혀버리다니…… 상상 이상이었네」"
+translation = "「이렇게 허무하게 잡힐 줄이야…… 상상 이상이었네」"
 
 [[dialogue]]
 speaker_original = "ヘレナ"
 speaker_translation = "헬레나"
 original = "「これはこれは、ゴールデングース有望株の２人ではないか。そんなに畏まらずともよいぞ」"
-translation = "「이거 이거, 골든 구스 유망주 둘 아닌가. 그렇게 경직되지 않아도 된다네」"
+translation = "「이거 이거, 골든 구스의 유망주 2명이 아닌가. 그렇게 경직되지 않아도 좋다」"
 
 [[dialogue]]
 speaker_original = "ミウ"
@@ -230,13 +230,13 @@ translation = "「신세 지고 있습니다……」"
 speaker_original = "ヘレナ"
 speaker_translation = "헬레나"
 original = "「うむ。それにしても此度は何事かな？\u3000事前に連絡もなく、警備網をかいくぐり、客人であるエルデリーゼ嬢に攻撃を仕掛けるとは」"
-translation = "「음. 그나저나 이번엔 무슨 일인가? 사전 연락도 없이, 경비망을 뚫고, 손님인 엘데리제 양에게 공격을 가하다니」"
+translation = "「음. 그나저나 이번엔 무슨 일인가? 사전에 연락도 없이, 경비망을 뚫고, 손님인 엘데리제 양에게 공격을 퍼붓다니」"
 
 [[dialogue]]
 speaker_original = "ヘレナ"
 speaker_translation = "헬레나"
 original = "「意味も無くこのような事をしたわけではあるまい。九浄家を探るよう、何者からか依頼を受けたかな？」"
-translation = "「의미도 없이 이런 짓을 했을 리는 없을 터. 쿠죠가를 캐내도록, 누군가에게 의뢰라도 받았나?」"
+translation = "「의미도 없이 이런 짓을 했을 리는 없을 터. 쿠죠가를 탐색하라고, 누군가에게 의뢰라도 받았나?」"
 
 [[dialogue]]
 speaker_original = "ヒマワリ"
@@ -254,121 +254,121 @@ translation = "「…………」"
 speaker_original = "ヒマワリ"
 speaker_translation = "히마와리"
 original = "（こんなとこで潜入の目的がバレるわけにはいかないよ～……ミウ、どうしよっか）"
-translation = "(이런 데서 잠입 목적을 들킬 수는 없어~…… 미우, 어쩌지)"
+translation = "（이런 데서 잠입 목적이 들통나면 안 되는데~…… 미우, 어쩌지）"
 
 [[dialogue]]
 speaker_original = "ミウ"
 speaker_translation = "미우"
 original = "（どうにかしてこの場を乗り切れる言い訳をするから……ヒマワリちゃん。上手にのってきて）"
-translation = "(어떻게든 이 상황을 넘길 수 있는 핑계를 댈 테니까…… 히마와리짱. 잘 맞춰줘)"
+translation = "（어떻게든 이 상황을 넘길 핑계를 댈 테니까…… 히마와리짱. 잘 맞춰줘）"
 
 [[dialogue]]
 speaker_original = "ヒマワリ"
 speaker_translation = "히마와리"
 original = "（りょーかいっ！\u3000ミウについていく！）"
-translation = ""
+translation = "（라져~! 미우를 따를게!）"
 
 [[dialogue]]
 speaker_original = "ミウ"
 speaker_translation = "미우"
 original = "「誰かの差し金というわけではありません。私たちは、私たちの意思で、ここにやってきました」"
-translation = "「누군가의 교사로 온 것이 아닙니다. 저희는, 저희의 의지로, 이곳에 왔습니다」"
+translation = "「누군가의 사주를 받은 게 아니에요. 저희는, 저희 의지로, 여기에 온 겁니다」"
 
 [[dialogue]]
 speaker_original = "ミウ"
 speaker_translation = "미우"
 original = "「私たちは九浄家に雇ってもらうために、秘密結社ゴールデングースを辞めてここに来たんです」"
-translation = "「저희는 쿠죠가에 고용되기 위해, 비밀결사 골든 구스를 그만두고 이곳에 온 것입니다」"
+translation = "「저희는 쿠죠가에 고용되기 위해, 비밀결사 골든 구스를 그만두고 여기에 온 거예요」"
 
 [[dialogue]]
 speaker_original = "ヒマワリ"
 speaker_translation = "히마와리"
 original = "「そ、そうそう！\u3000ゴールデングースを──って、うぇええぇええぇぇぇっ！？」"
-translation = "「그, 그래 맞아! 골든 구스를── 어, 우에에에에에에엑!?」"
+translation = "「그, 그래 맞아! 골든 구스를── 어, 우에에에에엑!?」"
 
 [[dialogue]]
 speaker_original = "ミウ"
 speaker_translation = "미우"
 original = "（落ち着いて、ヒマワリちゃん）"
-translation = "(진정해, 히마와리짱)"
+translation = "（진정해, 히마와리짱）"
 
 [[dialogue]]
 speaker_original = "ヒマワリ"
 speaker_translation = "히마와리"
 original = "（落ち着けないよ！\u3000そそそんなのダメだよミウ！\u3000セナリィ社長を裏切るのー！？）"
-translation = "(진정할 수 없어! 그그그런 거 안 돼 미우! 세나리 사장님을 배신하는 거야ー!?)"
+translation = "（진정이 안 돼! 그, 그그그런 건 안 돼 미우! 세나리 사장님을 배신하는 거야~!?）"
 
 [[dialogue]]
 speaker_original = "ミウ"
 speaker_translation = "미우"
 original = "（この場をしのぐために決まってるでしょ。今はこれしか手段がないの。何でもいいからそれっぽい事を言ってヘレナさんを信用させて）"
-translation = "(이 상황을 모면하기 위해서라는 거 알잖아. 지금은 이 방법밖에 없어. 뭐든 좋으니까 그럴듯한 말을 해서 헬레나 씨를 신용시켜)"
+translation = "（이 상황을 넘기기 위해서잖아. 지금은 이 방법밖에 없어. 뭐든 좋으니까 그럴듯한 말을 해서 헬레나 씨를 신용시켜）"
 
 [[dialogue]]
 speaker_original = "ヒマワリ"
 speaker_translation = "히마와리"
 original = "（そ、そんなこと急に言われても……あーっ、頭の中が真っ白でなんにも言葉が出てこないよっ！）"
-translation = ""
+translation = "（그, 그런 걸 갑자기 말해도…… 아─앗, 머릿속이 하얘져서 아무 말도 안 나와!）"
 
 [[dialogue]]
 speaker_original = "ミウ"
 speaker_translation = "미우"
 original = "（何とか頑張って）"
-translation = "(어떻게든 힘내봐)"
+translation = "（어떻게든 힘내봐）"
 
 [[dialogue]]
 speaker_original = "ヒマワリ"
 speaker_translation = "히마와리"
 original = "（えええっ！？\u3000え、ええっと……どうしよ、どうしよっ……！）"
-translation = "(에에엑!? 어, 어쩌지, 어쩌지……!)"
+translation = "（에에엑!? 에, 에또…… 어쩌지, 어쩌지……!）"
 
 [[dialogue]]
 speaker_original = "ヒマワリ"
 speaker_translation = "히마와리"
 original = "「そ、そうなんですよー！\u3000ポンコツ社長についていくのはもうコリゴリでしてー！」"
-translation = "「그, 그렇단 말이에요ー! 폰코츠 사장님을 따라가는 건 이제 지긋지긋해서 말이죠ー!」"
+translation = "「그, 그렇단 말이에요~! 지긋지긋한 폰코츠 사장님을 따르는 건 이제 질려버려서요~!」"
 
 [[dialogue]]
 speaker_original = "ヒマワリ"
 speaker_translation = "히마와리"
 original = "「金銭感覚はデタラメですしっ、すぐピンチに陥って白目になりますし、肝心なところで甘っちょろいですしっ！」"
-translation = ""
+translation = "「금전 감각은 엉망진창이고, 금방 핀치에 빠져서 눈 하얘지고, 정작 중요한 부분에서는 무르고!」"
 
 [[dialogue]]
 speaker_original = "ヒマワリ"
 speaker_translation = "히마와리"
 original = "「あたしたちに無理難題ばかり押しつけてくるし、最初のイメージと全然違いましたし、もう嫌気が差してたんですっ！」"
-translation = ""
+translation = "「우리한테 무리한 요구만 강요하고, 처음 이미지랑 전혀 다르고, 이제 정나미가 떨어졌다구요!」"
 
 [[dialogue]]
 speaker_original = "ミウ"
 speaker_translation = "미우"
 original = "（ヒマワリちゃん……そんなこと思ってたの？）"
-translation = "(히마와리짱…… 그런 생각 하고 있었어?)"
+translation = "（히마와리짱…… 그렇게 생각하고 있었어?）"
 
 [[dialogue]]
 speaker_original = "ヒマワリ"
 speaker_translation = "히마와리"
 original = "（思ってないよっ！\u3000全然っ！\u3000それっぽい事を言ってるだけだよ！\u3000話を合わせるってこういうことだよね！）"
-translation = ""
+translation = "（안 그랬어! 전혀~! 그럴듯한 말을 하고 있을 뿐이야! 장단을 맞춘다는 건 이런 거잖아!）"
 
 [[dialogue]]
 speaker_original = "ミウ"
 speaker_translation = "미우"
 original = "（そうだけど、ちょっと言い過ぎじゃない？）"
-translation = "(그렇긴 한데, 너무 지나친 거 아니야?)"
+translation = "（그렇긴 한데, 좀 너무 심한 거 아니야?）"
 
 [[dialogue]]
 speaker_original = "ヒマワリ"
 speaker_translation = "히마와리"
 original = "（い、意地悪言わないでよ！\u3000急に振られてあたしもパニックなんだからーっ！）"
-translation = ""
+translation = "（읏, 짓궂게 말하지 마! 갑자기 질문받아서 나도 패닉이란 말이야─!）"
 
 [[dialogue]]
 speaker_original = "蘭美"
 speaker_translation = "라미"
 original = "「ふっ、そんな言い訳が通用すると思っているの？\u3000苦し紛れだということはバレバレなのだけど──」"
-translation = "「훗, 그런 핑계가 통할 거라 생각하는 거야? 임기응변이라는 건 빤히 보이는데──」"
+translation = "「훗, 그런 핑계가 통할 거라 생각하는 거야? 궁여지책이라는 게 훤히 보이는데──」"
 
 [[dialogue]]
 speaker_original = "ヘレナ"
@@ -380,179 +380,179 @@ translation = "「후후후, 제법 재미있지 않은가. 그럼, 채용 면�
 speaker_original = "蘭美"
 speaker_translation = "라미"
 original = "「な……当主様……！？」"
-translation = ""
+translation = "「네…… 당주님……!?」"
 
 [[dialogue]]
 speaker_original = "ヘレナ"
 speaker_translation = "헬레나"
 original = "「そうだな……２人はどのような事が出来る？\u3000他の誰にも負けない特技があれば披露してもらおうではないか」"
-translation = ""
+translation = "「글쎄…… 너희 둘은 어떤 일을 할 수 있지? 다른 누구에게도 지지 않을 특기가 있다면 선보여 보아라」"
 
 [[dialogue]]
 speaker_original = "ヒマワリ"
 speaker_translation = "히마와리"
 original = "「特技ですか……？\u3000あたしはロボアニメが大好きー、じゃなくてー……アピールポイント、アピールポイント……うーん」"
-translation = ""
+translation = "「특기 말인가요……? 난 로봇 애니메이션을 엄청 좋아─ 가 아니라…… 어필 포인트, 어필 포인트…… 음─」"
 
 [[dialogue]]
 speaker_original = "ミウ"
 speaker_translation = "미우"
 original = "「ヒマワリちゃんはお金に対する嗅覚が卓越しています」"
-translation = ""
+translation = "「히마와리짱은 돈에 대한 후각이 탁월해요」"
 
 [[dialogue]]
 speaker_original = "ミウ"
 speaker_translation = "미우"
 original = "「火の車だったゴールデングースの台所事情を救ったのはヒマワリちゃんの手腕です。必ず九浄家のお役に立てると思います」"
-translation = ""
+translation = "「파산 직전이었던 골든 구스의 살림살이를 구한 건 히마와리짱의 수완이에요. 분명 쿠죠가에 도움이 될 거라고 생각해요」"
 
 [[dialogue]]
 speaker_original = "ヒマワリ"
 speaker_translation = "히마와리"
 original = "「えへへ、いやぁ、それほどでもぉ」"
-translation = ""
+translation = "「에헤헤, 아니 뭐, 그 정도까지는요」"
 
 [[dialogue]]
 speaker_original = "ヘレナ"
 speaker_translation = "헬레나"
 original = "「ほう、それは実に素晴らしい。その手腕、是非ともこの目で見てみたいものだな」"
-translation = ""
+translation = "「호오, 그거 참 훌륭하군. 그 수완, 부디 이 눈으로 확인해 보고 싶구나」"
 
 [[dialogue]]
 speaker_original = "ヘレナ"
 speaker_translation = "헬레나"
 original = "「では、ミウ。貴殿は何か誇れる特技があるのかな？」"
-translation = ""
+translation = "「그럼, 미우. 자네는 자랑할 만한 특기가 있나?」"
 
 [[dialogue]]
 speaker_original = "ミウ"
 speaker_translation = "미우"
 original = "「情報収集や戦術プランニングを得意としています」"
-translation = ""
+translation = "「정보 수집이나 전술 플래닝을 잘합니다」"
 
 [[dialogue]]
 speaker_original = "ヘレナ"
 speaker_translation = "헬레나"
 original = "「ほう？」"
-translation = ""
+translation = "「호오?」"
 
 [[dialogue]]
 speaker_original = "ヒマワリ"
 speaker_translation = "히마와리"
 original = "「ゴールデングースの作戦立案はだいたいミウが考えてるんですよ♪」"
-translation = ""
+translation = "「골든 구스의 작전 입안은 대부분 미우가 생각하고 있다구요♪」"
 
 [[dialogue]]
 speaker_original = "ミウ"
 speaker_translation = "미우"
 original = "「はい、このお屋敷への潜入プランも私が立てました」"
-translation = ""
+translation = "「네, 이 저택으로의 잠입 플랜도 제가 세웠어요」"
 
 [[dialogue]]
 speaker_original = "ミウ"
 speaker_translation = "미우"
 original = "「事前に収集した情報から、セキュリティ対策は上手くいったのですが……エルデリーゼ先輩がいたのが計算外でしたね」"
-translation = ""
+translation = "「사전에 수집한 정보로, 보안 대책은 잘 풀렸습니다만…… 엘데리제 선배가 있었던 건 계산 외였네요」"
 
 [[dialogue]]
 speaker_original = "ヒマワリ"
 speaker_translation = "히마와리"
 original = "「でもでも難攻不落って言われる九浄家の中庭まで侵入できたのはミウの作戦があったからですよ！」"
-translation = ""
+translation = "「하지만 난공불락이라 불리는 쿠죠가의 중정까지 침입할 수 있었던 건 미우의 작전이 있었기 때문이라구요!」"
 
 [[dialogue]]
 speaker_original = "ヘレナ"
 speaker_translation = "헬레나"
 original = "「確かにな……この屋敷の警備網を抜けて中庭にまで至ったのは評価できる。ミウ。貴殿も素晴らしい人材だ」"
-translation = ""
+translation = "「확실히…… 이 저택의 경비망을 뚫고 중정에까지 도달한 것은 평가할 만하군. 미우. 자네도 훌륭한 인재다」"
 
 [[dialogue]]
 speaker_original = "ヘレナ"
 speaker_translation = "헬레나"
 original = "「それに何より、この泣く子も黙る九浄ヘレナちゃんを前にしても、まるで物怖じしないその胆力は素晴らしい！」"
-translation = ""
+translation = "「게다가 무엇보다, 이 우는 아이도 뚝 그치게 만드는 쿠죠 헬레나짱 앞에서도, 전혀 주눅 들지 않는 그 배짱이 훌륭해!」"
 
 [[dialogue]]
 speaker_original = "ヒマワリ"
 speaker_translation = "히마와리"
 original = "「えへへ、ありがとうございます」"
-translation = ""
+translation = "「에헤헤, 감사합니다」"
 
 [[dialogue]]
 speaker_original = "ミウ"
 speaker_translation = "미우"
 original = "「こう見えて心臓はバクバクなんですけどね……」"
-translation = ""
+translation = "「이래 보여도 심장은 콩닥콩닥 뛰어대지만요……」"
 
 [[dialogue]]
 speaker_original = "ヘレナ"
 speaker_translation = "헬레나"
 original = "「ふふ……よろしい！\u3000鈴野ヒマワリと深沢ミウの両名を九浄家で雇い入れるとしよう！」"
-translation = ""
+translation = "「후후…… 좋다! 스즈노 히마와리와 후카자와 미우 두 사람을 쿠죠가에 고용하도록 하지!」"
 
 [[dialogue]]
 speaker_original = "ヒマワリ"
 speaker_translation = "히마와리"
 original = "「あ、ありがとうございます！\u3000あたし、がんばります！」"
-translation = ""
+translation = "「아, 감사합니다! 저, 열심히 할게요!」"
 
 [[dialogue]]
 speaker_original = "ミウ"
 speaker_translation = "미우"
 original = "「ヘレナさんのお役に立てるよう、精いっぱいお仕えします」"
-translation = ""
+translation = "「헬레나 씨에게 도움이 되도록, 최선을 다해 섬기겠습니다」"
 
 [[dialogue]]
 speaker_original = "ヘレナ"
 speaker_translation = "헬레나"
 original = "「うむっ！」"
-translation = ""
+translation = "「음!」"
 
 [[dialogue]]
 speaker_original = "ヒマワリ"
 speaker_translation = "히마와리"
 original = "（ミウ、まさか本当にゴールデングースを裏切るわけじゃないよね？）"
-translation = ""
+translation = "（미우, 설마 진짜로 골든 구스를 배신하는 건 아니지?）"
 
 [[dialogue]]
 speaker_original = "ミウ"
 speaker_translation = "미우"
 original = "（もちろんだよ。屋敷でお勤めしながら、内部から人工戦闘服の情報を探るの）"
-translation = ""
+translation = "（당연하지. 저택에서 일하면서, 내부에서 인공 전투복의 정보를 탐색하는 거야）"
 
 [[dialogue]]
 speaker_original = "ヒマワリ"
 speaker_translation = "히마와리"
 original = "（わぉ、ミウってば、あくど～い）"
-translation = ""
+translation = "（와오, 미우도 참, 지독해~）"
 
 [[dialogue]]
 speaker_original = "ミウ"
 speaker_translation = "미우"
 original = "（ふう……苦肉の策だったけど、無事に潜入できたなら結果オーライ、だよね）"
-translation = ""
+translation = "（후우…… 고육지책이었지만, 무사히 잠입했다면 결과 오라이, 겠지）"
 
 [[dialogue]]
 speaker_original = "蘭美"
 speaker_translation = "라미"
 original = "「……本当によろしいのですか？」"
-translation = ""
+translation = "「……정말로 괜찮으신가요?」"
 
 [[dialogue]]
 speaker_original = "ヘレナ"
 speaker_translation = "헬레나"
 original = "「よいよい、なかなか面白いことになったではないか。蘭美、メイド隊で２人の教育を頼んだぞ」"
-translation = ""
+translation = "「괜찮다, 제법 재미있게 되지 않았느냐. 라비, 메이드대에서 두 사람의 교육을 맡아다오」"
 
 [[dialogue]]
 speaker_original = "蘭美"
 speaker_translation = "라미"
 original = "「そうね……きっと当主様のことだから、なにか深いお考えがあるのでしょう」"
-translation = ""
+translation = "「그렇네…… 분명 당주님이시니까, 뭔가 깊은 생각이 있으신 거겠지」"
 
 [[dialogue]]
 speaker_original = "蘭美"
 speaker_translation = "라미"
 original = "「いいわ、２人とも！\u3000九浄家に仕える者として恥ずかしくないよう厳しく教育してあげるわ、覚悟しなさい！」"
-translation = ""
+translation = "「좋아, 두 사람 다! 쿠죠가를 섬기는 자로서 부끄럽지 않도록 엄격하게 교육해 줄 테니, 각오하렴!」"
 

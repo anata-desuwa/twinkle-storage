@@ -1,0 +1,361 @@
+[[dialogue]]
+speaker_original = "エルデリーゼ"
+speaker_translation = "엘데리제"
+original = "「お掃除、終わりましたわ！」"
+translation = "「청소, 끝났어요!」"
+
+[[dialogue]]
+speaker_original = "ヒマワリ"
+speaker_translation = "히마와리"
+original = "「お洗濯完了です♪」"
+translation = "「빨래 완료입니다♪」"
+
+[[dialogue]]
+speaker_original = "ミウ"
+speaker_translation = "미우"
+original = "「次は何をすればいいですか？」"
+translation = "「다음은 뭘 하면 되나요?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ヒマワリとミウは九浄家の見習い使用人として、そして時々エルデリーゼも飛び入り参加しながら、日々の仕事をこなしていた。"
+translation = "히마와리와 미우는 쿠죠가의 수습 하인으로서, 그리고 가끔 엘데리제도 갑자기 참가하면서, 나날의 일을 해내고 있었다."
+
+[[dialogue]]
+speaker = "unk"
+original = "そして──"
+translation = "그리고──"
+
+[[dialogue]]
+speaker_original = "ヒマワリ"
+speaker_translation = "히마와리"
+original = "「これでお屋敷の構造はだいたい掴めたかなー」"
+translation = "「이걸로 저택의 구조는 대충 파악했으려나─」"
+
+[[dialogue]]
+speaker_original = "ミウ"
+speaker_translation = "미우"
+original = "「踏み入れてない部屋は、ほとんど残ってないね。逆に言えば、その踏み入れてない場所に秘密が隠されてるのかも」"
+translation = "「발을 들이지 않은 방은, 거의 남지 않았네. 역으로 말하자면, 그 발을 들이지 않은 장소에 비밀이 숨겨져 있는지도 몰라」"
+
+[[dialogue]]
+speaker = "unk"
+original = "裏では屋敷の調査を着々と進めていた。"
+translation = "뒤에서는 저택 조사를 차근차근 진행하고 있었다."
+
+[[dialogue]]
+speaker_original = "美鶴"
+speaker_translation = "미츠루"
+original = "「お、チーパオちゃんたちー。なんかうちに聞きたいことがあるらしいじゃないすか」"
+translation = "「오, 치파오 양들─. 왠지 우리 집에 물어보고 싶은 게 있는 모양이잖아」"
+
+[[dialogue]]
+speaker_original = "ヒマワリ"
+speaker_translation = "히마와리"
+original = "「美鶴さん！\u3000そうなんですよー、エルゼ様のメイド服についてなんですけど」"
+translation = "「미츠루 씨! 맞아요─, 엘제 님의 메이드복에 대해서인데요」"
+
+[[dialogue]]
+speaker_original = "美鶴"
+speaker_translation = "미츠루"
+original = "「エルデリーゼ様のメイド服すか」"
+translation = "「엘데리제 님의 메이드복 말인가」"
+
+[[dialogue]]
+speaker_original = "ミウ"
+speaker_translation = "미우"
+original = "「とても素敵なデザインですけど、他の方のとは趣きが違うじゃないですか。どういった心境の変化なのか……」"
+translation = "「매우 멋진 디자인입니다만, 다른 분들 것과는 분위기가 다르잖아요. 어떤 심경의 변화이신지……」"
+
+[[dialogue]]
+speaker_original = "ヒマワリ"
+speaker_translation = "히마와리"
+original = "「それとも、他のメイド服にはない、とてつもない能力なんかが隠されてるのかなーなんて思いまして」"
+translation = "「아니면, 다른 메이드복에는 없는, 엄청난 능력 같은 게 숨겨져 있는 걸까─ 해서요」"
+
+[[dialogue]]
+speaker_original = "美鶴"
+speaker_translation = "미츠루"
+original = "「はは、そんなのないない」"
+translation = "「하하, 그런 거 없어 없어」"
+
+[[dialogue]]
+speaker_original = "ヒマワリ"
+speaker_translation = "히마와리"
+original = "「ないの！？」"
+translation = "「없어!?」"
+
+[[dialogue]]
+speaker_original = "美鶴"
+speaker_translation = "미츠루"
+original = "「アレを作ったのは当主様の気まぐれすよ。たまには和風メイドじゃなくて、洋風メイドの衣装をデザインしたいって欲望が弾けたからみたいで」"
+translation = "「저걸 만든 건 당주님의 변덕이야. 가끔은 일본풍 메이드가 아니라, 서양풍 메이드 의상을 디자인하고 싶다는 욕망이 터져 나온 것 같아서」"
+
+[[dialogue]]
+speaker_original = "ミウ"
+speaker_translation = "미우"
+original = "「え……？\u3000それだけ、ですか？」"
+translation = "「에……? 그것뿐, 인가요?」"
+
+[[dialogue]]
+speaker_original = "美鶴"
+speaker_translation = "미츠루"
+original = "「それ以外に何かあるなら、うちが知りたいくらいすね。当主様の気まぐれには、うちも手を焼いてるんでー」"
+translation = "「그것 외에 뭔가 더 있다면, 내가 알고 싶을 정도네. 당주님의 변덕에는, 나도 애를 먹고 있어서─」"
+
+[[dialogue]]
+speaker_original = "ヒマワリ"
+speaker_translation = "히마와리"
+original = "「そうですか。お話、有難うございました」"
+translation = "「그렇습니까. 이야기, 감사했습니다」"
+
+[[dialogue]]
+speaker_original = "美鶴"
+speaker_translation = "미츠루"
+original = "「ん？\u3000もういいの？\u3000ほんじゃね、チーパオちゃんたち、がんばれ～」"
+translation = "「응? 이제 된 거야? 그럼 안녕, 치파오 양들, 힘내라구─」"
+
+[[dialogue]]
+speaker_original = "ミウ"
+speaker_translation = "미우"
+original = "「やっぱりメイド型人工戦闘服に、危険な新技術が用いられているなんてことはないみたいだね」"
+translation = "「역시 메이드형 인공 전투복에, 위험한 신기술이 쓰이고 있다거나 하는 건 없는 것 같네」"
+
+[[dialogue]]
+speaker_original = "ヒマワリ"
+speaker_translation = "히마와리"
+original = "「そんなー！\u3000今まで無駄骨を折っちゃったってことー！？」"
+translation = "「헛짓거리를 한 거잖아─!?」"
+
+[[dialogue]]
+speaker_original = "ミウ"
+speaker_translation = "미우"
+original = "「どこかで情報が食い違っている……？\u3000ううん、そもそも──」"
+translation = "「어딘가에서 정보가 어긋나 있는 걸까……? 아니, 애초에──」"
+
+[[dialogue]]
+speaker_original = "ヒマワリ"
+speaker_translation = "히마와리"
+original = "「決定的な情報を得るには、やっぱり本丸に切り込まないとかな？」"
+translation = "「결정적인 정보를 얻으려면, 역시 본진에 쳐들어가야 하려나?」"
+
+[[dialogue]]
+speaker_original = "ミウ"
+speaker_translation = "미우"
+original = "「踏み入れてない部屋──ヘレナさんの私室。衣装のデザインもそこで行っているみたいだし、この屋敷に人工戦闘服の情報があるとしたら、そこしかない」"
+translation = "「발을 들이지 않은 방── 헬레나 씨의 사실. 의상 디자인도 거기서 진행하는 것 같고, 이 저택에 인공 전투복의 정보가 있다면, 거기밖에 없어」"
+
+[[dialogue]]
+speaker_original = "ヒマワリ"
+speaker_translation = "히마와리"
+original = "「そんな場所、潜入難易度ＭＡＸだよね。セキュリティもちゃんと敷かれてるだろうなー」"
+translation = "「그런 장소, 잠입 난이도 MAX잖아. 보안도 확실히 걸려있겠지─」"
+
+[[dialogue]]
+speaker_original = "ミウ"
+speaker_translation = "미우"
+original = "「一応、部屋へ侵入する最も安全な経路は確認済み。セキュリティを無力化するプログラムも用意してるよ」"
+translation = "「일단, 방으로 침입하는 가장 안전한 경로 확인 완료. 보안을 무력화하는 프로그램도 준비되어 있어」"
+
+[[dialogue]]
+speaker_original = "ヒマワリ"
+speaker_translation = "히마와리"
+original = "「わぉ、完璧じゃん。さっすが、ミウ」"
+translation = "「와오, 완벽하잖아. 역시, 미우」"
+
+[[dialogue]]
+speaker_original = "ミウ"
+speaker_translation = "미우"
+original = "（何か見落としがあるんじゃないかって気がするし、嫌な予感もするけど……任務の期日まで猶予はないし……）"
+translation = "（무언가 간과한 게 있는 것 같은 기분이 들고, 불길한 예감도 들지만…… 임무 기한까지 여유는 없고……）"
+
+[[dialogue]]
+speaker_original = "ミウ"
+speaker_translation = "미우"
+original = "「決行は今晩にしよう。頑張ろうね、ヒマワリちゃん」"
+translation = "「결행은 오늘 밤에 하자. 힘내자, 히마와리짱」"
+
+[[dialogue]]
+speaker = "unk"
+original = "２人は意を決し、ヘレナの私室への侵入を敢行する。"
+translation = "두 사람은 결심을 하고, 헬레나의 사실로의 침입을 감행한다."
+
+[[dialogue]]
+speaker = "unk"
+original = "その夜──"
+translation = "그날 밤──"
+
+[[dialogue]]
+speaker_original = "ヒマワリ"
+speaker_translation = "히마와리"
+original = "「抜き足、差し足……あった！\u3000ミウ、これじゃない！？」"
+translation = "「조심조심…… 찾았다! 미우, 이거 아니야!?」"
+
+[[dialogue]]
+speaker_original = "ミウ"
+speaker_translation = "미우"
+original = "「データコピー開始──よし、完了っと。これさえ手に入れば、もうここに用はないね」"
+translation = "「데이터 복사 개시── 좋아, 완료. 이것만 손에 넣으면, 이제 여기에 볼일은 없네」"
+
+[[dialogue]]
+speaker_original = "ヒマワリ"
+speaker_translation = "히마와리"
+original = "「九浄家の使用人生活、結構楽しかったのに。これでおしまいなのも、ちょっと残念だね」"
+translation = "「쿠죠가에서의 하인 생활, 제법 즐거웠는데. 이걸로 끝인 것도, 약간 아쉽네」"
+
+[[dialogue]]
+speaker_original = "ミウ"
+speaker_translation = "미우"
+original = "「仕方ないよ。でも、まだ油断は禁物だよ。ここから無事に脱出するまでが──」"
+translation = "「어쩔 수 없어. 하지만, 아직 방심은 금물이야. 여기서 무사히 탈출할 때까지가──」"
+
+[[dialogue]]
+speaker_original = "エルデリーゼ"
+speaker_translation = "엘데리제"
+original = "「そうは問屋が卸しませんですわ」"
+translation = "「그렇게 순순히 물러날 수는 없어요」"
+
+[[dialogue]]
+speaker_original = "ヒマワリ"
+speaker_translation = "히마와리"
+original = "「この声は！！？」"
+translation = "「이 목소리는!!?」"
+
+[[dialogue]]
+speaker_original = "ミウ"
+speaker_translation = "미우"
+original = "「エルデリーゼ先輩！！？\u3000こんな夜中に、どうして！？」"
+translation = "「엘데리제 선배!!? 이런 한밤중에, 어째서!?」"
+
+[[dialogue]]
+speaker_original = "エルデリーゼ"
+speaker_translation = "엘데리제"
+original = "「ヘレナ様からご招待いただいて、今夜はお屋敷にお泊りしておりましたの」"
+translation = "「헬레나 님으로부터 초대를 받아서, 오늘 밤은 저택에서 묵어가기로 했거든요」"
+
+[[dialogue]]
+speaker_original = "エルデリーゼ"
+speaker_translation = "엘데리제"
+original = "「そうしたらあなたたちがこの部屋に忍びこむところを見つけましたわ」"
+translation = "「그랬더니 당신들이 이 방에 몰래 들어오는 것을 발견했어요」"
+
+[[dialogue]]
+speaker_original = "ヒマワリ"
+speaker_translation = "히마와리"
+original = "「う……タイミング悪かったかぁ……」"
+translation = "「우…… 타이밍이 안 좋았나……」"
+
+[[dialogue]]
+speaker_original = "ミウ"
+speaker_translation = "미우"
+original = "「ううん、違うかも……これは……」"
+translation = "「으응, 아닐지도…… 이건……」"
+
+[[dialogue]]
+speaker_original = "エルデリーゼ"
+speaker_translation = "엘데리제"
+original = "「こそこそといったい何を……まさか今までここで働いていたのは、何かを目論んでいらっしゃったの？」"
+translation = "「소곤소곤 대체 무엇을…… 설마 지금까지 여기서 일하고 있었던 것은, 무언가를 꾀하고 계셨던 건가요?」"
+
+[[dialogue]]
+speaker_original = "エルデリーゼ"
+speaker_translation = "엘데리제"
+original = "「あなたたちとはお友達になれると思っていましたのに……！」"
+translation = "「당신들과는 친구가 될 수 있을 거라 생각했었는데……!」"
+
+[[dialogue]]
+speaker_original = "ヒマワリ"
+speaker_translation = "히마와리"
+original = "「うぅ、ごめんね、エルゼ先輩」"
+translation = "「우으, 미안해, 엘제 선배」"
+
+[[dialogue]]
+speaker_original = "ミウ"
+speaker_translation = "미우"
+original = "「戦略的撤退だよ、ヒマワリちゃん！」"
+translation = "「전략적 후퇴야, 히마와리짱!」"
+
+[[dialogue]]
+speaker_original = "エルデリーゼ"
+speaker_translation = "엘데리제"
+original = "「あら……そちらに逃げても無駄ですのに」"
+translation = "「어머…… 그쪽으로 도망치셔도 소용없는데 말이죠」"
+
+[[dialogue]]
+speaker_original = "ヒマワリ"
+speaker_translation = "히마와리"
+original = "「よし、ここまで逃げれば！\u3000エルゼ先輩を振り切って──」"
+translation = "「좋아, 여기까지 도망치면! 엘제 선배를 따돌리고──」"
+
+[[dialogue]]
+speaker_original = "蘭美"
+speaker_translation = "라미"
+original = "「追いかけっこなら私も混ぜて欲しいわね」"
+translation = "「술래잡기라면 나도 끼워줬으면 좋겠는데」"
+
+[[dialogue]]
+speaker_original = "ミウ"
+speaker_translation = "미우"
+original = "「蘭美……さんっ……！？」"
+translation = ""
+
+[[dialogue]]
+speaker_original = "閃"
+speaker_translation = "센"
+original = "「こんな夜更けにどちらにお出かけです？\u3000子供はふかふかのベッドで夢を見る時間ですよ？」"
+translation = "「이런 늦은 밤중에 어디를 가시는 건가요? 아이들은 푹신한 침대에서 꿈을 꿀 시간이라고요?」"
+
+[[dialogue]]
+speaker_original = "せつな"
+speaker_translation = "세츠나"
+original = "「夜遊びが楽しいのはわかるでござるが……危険な火遊びは感心しないでござるな」"
+translation = "「밤놀이가 즐거운 것은 알겠소만…… 위험한 불장난은 바람직하지 않소이다」"
+
+[[dialogue]]
+speaker_original = "ヒマワリ"
+speaker_translation = "히마와리"
+original = "「わ、わぁ……閃さんにせつなさん、美鶴さんにヨミさんも……メイド隊の皆さん、お揃いで……」"
+translation = "「우, 와아…… 센 씨에 세츠나 씨, 미츠루 씨에 요미 씨도…… 메이드대의 여러분, 다 같이 모여서……」"
+
+[[dialogue]]
+speaker_original = "エルデリーゼ"
+speaker_translation = "엘데리제"
+original = "「お待ちになりなさいですわー！」"
+translation = "「기다리시와요ー!」"
+
+[[dialogue]]
+speaker_original = "ヒマワリ"
+speaker_translation = "히마와리"
+original = "「前門のメイド隊！\u3000後門からは槍を持ったメイドさんだよー！」"
+translation = "「앞문에는 메이드대! 뒷문에서는 창을 든 메이드 씨라고ー!」"
+
+[[dialogue]]
+speaker_original = "ミウ"
+speaker_translation = "미우"
+original = "「まさに四面楚歌だね……この窮地を脱する切り札なんて、そんなの──」"
+translation = "「그야말로 사면초가네…… 이 궁지를 탈출할 히든카드 같은 건, 그런 건──」"
+
+[[dialogue]]
+speaker_original = "セナリィ（覚醒）"
+speaker_translation = "세나리(각성)"
+original = "「ジョーカーを切るしかありませんわねぇ！」"
+translation = "「조커를 꺼낼 수밖에 없겠네요!」"
+
+[[dialogue]]
+speaker_original = "ヒマワリ"
+speaker_translation = "히마와리"
+original = "「セナリィ社長っ！？」"
+translation = ""
+
+[[dialogue]]
+speaker_original = "ミウ"
+speaker_translation = "미우"
+original = "「ど、どうして、ここに──」"
+translation = "「어, 어째서 여기에──」"
+
+[[dialogue]]
+speaker_original = "セナリィ（覚醒）"
+speaker_translation = "세나리(각성)"
+original = "「説明は後！\u3000とにかく今は、脱兎の如く撤退ですわーっ！」"
+translation = "「설명은 나중! 어쨌든 지금은 토끼처럼 도망치는 거예요─!」"
+

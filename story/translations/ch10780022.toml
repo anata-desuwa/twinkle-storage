@@ -1,0 +1,255 @@
+[[dialogue]]
+speaker = "unk"
+original = "第２話,購買部のバニー魔女,P"
+translation = "제2화, 매점의 바니 마녀"
+
+[[dialogue]]
+speaker = "unk"
+original = "『支配』のロストアイテム・シエスタの誘拐騒動が解決して、数日が経った。"
+translation = "『지배』의 로스트 아이템·시에스타의 납치 소동이 해결되고, 며칠이 지났다."
+
+[[dialogue]]
+speaker = "unk"
+original = "俺はその日、恋人のトリュファイナさんに呼ばれて、購買部まで顔を出したのだが──"
+translation = "나는 그날, 연인인 트리파이나 씨가 불러서 매점까지 얼굴을 비췄는데──"
+
+[[dialogue]]
+speaker_original = "トリュファイナ"
+speaker_translation = "트류파이나"
+original = "「お買い上げありがとうございます♪\u3000ぴょん、ぴょんっ♪」"
+translation = "「구매해 주셔서 감사합니다♪ 깡충, 깡충♪」"
+
+[[dialogue]]
+speaker_original = "シュティレ"
+speaker_translation = "슈틸레"
+original = "「こちら、おつりと──看板娘のぴょんぴょんスマイルになります。ご査収ください。ぴょーん、ぴょん」"
+translation = "「이쪽, 거스름돈과── 간판 가녀의 깡충깡충 미소가 되겠습니다. 확인해 주세요. 깡~충, 깡충」"
+
+[[dialogue]]
+speaker = "unk"
+original = "──何事！？！？"
+translation = "──웬 일이야!?!?"
+
+[[dialogue]]
+speaker_original = "トリュファイナ"
+speaker_translation = "트류파이나"
+original = "「あっ！\u3000魔王様、いらっしゃいませ！\u3000ぴょん、ぴょん♪」"
+translation = "「앗! 마왕님, 어서 오세요! 깡충, 깡충♪」"
+
+[[dialogue]]
+speaker_original = "トリュファイナ"
+speaker_translation = "트류파이나"
+original = "「いかがでしょう、この衣装♪\u3000先日の騒動の際は、あまりゆっくりお見せできなかったので……」"
+translation = "「어떠신가요, 이 의상♪ 요전 소동 때는, 그다지 천천히 보여드리지 못해서……」"
+
+[[dialogue]]
+speaker = "unk"
+original = "とっても可愛いです！"
+translation = "엄청 귀여워요!"
+
+[[dialogue]]
+speaker_original = "トリュファイナ"
+speaker_translation = "트류파이나"
+original = "「ありがとうございます、魔王様♪\u3000あぁ、よかったです。普段の私とは雰囲気が違いますので、どう思われているのか不安で……」"
+translation = "「감사합니다, 마왕님♪ 아아, 다행이에요. 평소의 저와는 분위기가 다르다 보니, 어떻게 생각하실지 불안해서……」"
+
+[[dialogue]]
+speaker_original = "トリュファイナ"
+speaker_translation = "트류파이나"
+original = "「でも、気に入っていただけたのでしたら、こんなに嬉しいことはございません！\u3000ぴょんぴょん、ぴょーんっ♪」"
+translation = "「하지만, 마음에 들어 해 주셨다면, 이렇게 기쁜 일은 없답니다! 깡충깡충, 깡~충♪」"
+
+[[dialogue]]
+speaker = "unk"
+original = "その恰好で店番を？"
+translation = "그 차림으로 가게를 보는 거야?"
+
+[[dialogue]]
+speaker = "unk"
+original = "よく似合ってますけれど……"
+translation = "잘 어울리긴 한데……"
+
+[[dialogue]]
+speaker_original = "シュティレ"
+speaker_translation = "슈틸레"
+original = "「マスターからのアイデアです。せっかく目を惹く衣装を手に入れたのだから、それで存分に客引きを、と」"
+translation = "「마스터의 아이디어입니다. 모처럼 눈길을끄는 의상을 손에 넣었으니, 그걸로 마음껏 호객을 하라며」"
+
+[[dialogue]]
+speaker_original = "トリュファイナ"
+speaker_translation = "트류파이나"
+original = "「はい。どうやら人間界の皆様は、バニーがお好きなご様子で……」"
+translation = "「네. 아무래도 인간계의 여러분은, 바니를 좋아하시는 모앙이라……」"
+
+[[dialogue]]
+speaker_original = "トリュファイナ"
+speaker_translation = "트류파이나"
+original = "「この衣装で接客をすると、いつも大繁盛なのです。ふふふっ<emoji=heart04>」"
+translation = "「이 의상으로 접객을 하면, 항상 대번창이랍니다. 후후후<emoji=heart04>」"
+
+[[dialogue]]
+speaker_original = "トリュファイナ"
+speaker_translation = "트류파이나"
+original = "「魔王様。お買い得品がたくさんございますので、何か買っていってくださいませ！\u3000ぴょーん、ぴょんっ♪」"
+translation = "「마왕님. 싸고 좋은 상품이 많이 있으니, 뭐라도 사 가 주세요! 깡~충, 깡충♪」"
+
+[[dialogue]]
+speaker = "unk"
+original = "……今、いくら持ってたかな？"
+translation = "……지금, 얼마 가지고 있더라?"
+
+[[dialogue]]
+speaker_original = "シュティレ"
+speaker_translation = "슈틸레"
+original = "「ふふ。マスターの目論見通りです。店員がバニーガールになることで、購買部の売上は過去最高を記録しております」"
+translation = "「후후. 마스터의 계획대로입니다. 점원이 바니걸이 됨으로써, 매점의 매출은 과거 최고를 기록하고 있습니다」"
+
+[[dialogue]]
+speaker_original = "シュティレ"
+speaker_translation = "슈틸레"
+original = "「この調子でがっぽり稼がせていただきましょう。錬金術の研究のためには、資金はいくらあっても困りませんので」"
+translation = "「이 기세로 듬뿍 벌어들이도록 하죠. 연금술 연구를 위해서라면, 자금은 얼마가 있어도 곤란하지 않으니까요」"
+
+[[dialogue]]
+speaker = "unk"
+original = "もしネビュラの魔女たちにバレたら……"
+translation = "만약 네뷸라의 마녀들에게 들키면……"
+
+[[dialogue]]
+speaker = "unk"
+original = "だけど心配にもなるな……"
+translation = "하지만 걱정도 되는걸……"
+
+[[dialogue]]
+speaker_original = "ウェンディ"
+speaker_translation = "웬디"
+original = "「あっ、会長さん。こんにちは！」"
+translation = "「앗, 회장님. 안녕하세요!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "げえっ！\u3000ウェンディ！？！？"
+translation = "게엑! 웬디!?!?"
+
+[[dialogue]]
+speaker_original = "シュティレ"
+speaker_translation = "슈틸레"
+original = "「む。噂をすれば、というやつですね」"
+translation = "「무. 호랑이도 제 말 하면 온다더니, 딱 그 꼴이군요」"
+
+[[dialogue]]
+speaker_original = "ウェンディ"
+speaker_translation = "웬디"
+original = "「星徒会室に顔を出そうかと思っていたのですが、こんなところで会えるだなんて……」"
+translation = "「성도회실에 얼굴을 비출까 했는데, 이런 데서 만날 줄이야……」"
+
+[[dialogue]]
+speaker_original = "ウェンディ"
+speaker_translation = "웬디"
+original = "「もしよかったら、今後のことで少しお話できませんか？\u3000飲み物くらいはごちそうしますので！\u3000いつものコーヒーでいいですよね？」"
+translation = "「혹시 괜찮으시다면, 앞으로의 일로 조금 이야기할 수 있을까요? 음료수 정도는 대접할 테니까요! 평소의 커피로 괜찮죠?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "あ、ちょ──ちょっと待って！？"
+translation = "아, 자── 잠깐만!? blow"
+
+[[dialogue]]
+speaker_original = "ウェンディ"
+speaker_translation = "웬디"
+original = "「すみません、これください──」"
+translation = "「죄송해요, 이거 주세요──」"
+
+[[dialogue]]
+speaker_original = "トリュファイナ"
+speaker_translation = "트류파이나"
+original = "「まあ。ウェンディ様、ご無沙汰しております♪\u3000ぴょん、ぴょんっ♪」"
+translation = "「어머. 웬디 님, 오랜만입니다♪ 깡충, 깡충♪」"
+
+[[dialogue]]
+speaker_original = "ウェンディ"
+speaker_translation = "웬디"
+original = "「……？\u3000…………？？？？」"
+translation = "「……? …………????」"
+
+[[dialogue]]
+speaker_original = "シュティレ"
+speaker_translation = "슈틸레"
+original = "「おお。ごしごしと目をこすっております」"
+translation = "「오호. 벅벅 눈을 비비고 있군요」"
+
+[[dialogue]]
+speaker_original = "トリュファイナ"
+speaker_translation = "트류파이나"
+original = "「コーヒーをお２つですね。お買い上げありがとうございます♪\u3000ぴょんぴょん♪\u3000ぴょーんっ♪」"
+translation = "「커피 두 잔이시군요. 구매해 주셔서 감사합니다♪ 깡충깡충♪ 깡~충♪」"
+
+[[dialogue]]
+speaker_original = "ウェンディ"
+speaker_translation = "웬디"
+original = "「はェエ──────！？！？！？」"
+translation = "「하에에──────!?!?!?」"
+
+[[dialogue]]
+speaker_original = "ウェンディ"
+speaker_translation = "웬디"
+original = "「バニー！？\u3000バニーなんで！？！？\u3000なんでやねーん！？！？！？」"
+translation = "「바니!? 바니 왜 때문에!? 어째서인데-!?!?!?」"
+
+[[dialogue]]
+speaker_original = "シュティレ"
+speaker_translation = "슈틸레"
+original = "「流石はツッコミの輪の一員。キレが違いますね」"
+translation = "「명불허전 딴지 서클의 일원. 날카로움이 다르군요」"
+
+[[dialogue]]
+speaker_original = "トリュファイナ"
+speaker_translation = "트류파이나"
+original = "「私、今はこの格好で接客をしているのです。いかがでしょう。ウサギらしく振舞えているでしょうか♪\u3000ぴょんぴょんっ♪」"
+translation = "「저, 지금은 이 차림으로 접객을 하고 있답니다. 어떠신가요. 토끼답게 행동하고 있나요♪ 깡충깡충♪」"
+
+[[dialogue]]
+speaker_original = "ウェンディ"
+speaker_translation = "웬디"
+original = "「会長さん！！\u3000あなた、いくらトリュファイナ様が何でも素直に信じるからって！\u3000光の魔女を何だと思ってるんですかっ！？！？」"
+translation = "「회장님!! 당신, 아무리 트리파이나 님이 뭐든지 순순히 믿는다고 해서! 빛의 마녀를 뭐라고 생각하시는 거예요!?!?!?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "濡れ衣だ──！？"
+translation = "누명이다──!?"
+
+[[dialogue]]
+speaker_original = "ウェンディ"
+speaker_translation = "웬디"
+original = "「新星学園に来たらいつもこう！！\u3000絶対１つは長官に報告できないことが見つかるんです！！\u3000もうヤダぁ！！！！」"
+translation = "「신성학원에 오면 항상 이래!! 절대 하나는 장관님께 보고할 수 없는 일이 발견된다고요!! 이제 싫어어!!!!」"
+
+[[dialogue]]
+speaker_original = "シュティレ"
+speaker_translation = "슈틸레"
+original = "「大変ですね、魔女様も。どうぞ、コーヒーでも飲んでリラックスしてください」"
+translation = "「고생이 많으시네요, 마녀님도. 자, 커피라도 마시고 리랙스하세요」"
+
+[[dialogue]]
+speaker_original = "ウェンディ"
+speaker_translation = "웬디"
+original = "「それ、私が買ったやつじゃないですか～～～っ！？！？」"
+translation = "「그거, 내가 산 거잖아~~~!?!?!?」"
+
+[[dialogue]]
+speaker_original = "トリュファイナ"
+speaker_translation = "트류파이나"
+original = "「あ、あれれ……？\u3000どうしてこんなにも取り乱して……私、ウサギの真似、何か間違っていたでしょうか……？」"
+translation = "「아, 어라라……? 어째서 이렇게까지 당황해하셔서…… 저, 토끼 시늉, 뭔가 잘못된 걸까요……?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "トリュファイナさんの可愛い接客姿を見れたのはよかったのだけれど……"
+translation = "트리파이나 씨의 귀여운 접객 모습을 본 건 좋았지만……"
+
+[[dialogue]]
+speaker = "unk"
+original = "再びウェンディに、セドナさんには伝えられない秘密を抱えさせてしまうのだった──"
+translation = "다시금 웬디에게, 세도나 씨에게는 말할 수 없는 비밀을 짊어지게 만들어 버린 것이었다──"
+

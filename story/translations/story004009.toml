@@ -1,0 +1,273 @@
+[[dialogue]]
+speaker_original = "シュティレ"
+speaker_translation = "슈틸레"
+original = "「流石は新星学園最速の星騎士……凄まじいスピードでした、蘭美先輩」"
+translation = "「역시 신세이 학원 최속의 성기사…… 엄청난 스피드였어요, 라비 선배.」"
+
+[[dialogue]]
+speaker_original = "トリュファイナ"
+speaker_translation = "트류파이나"
+original = "「ええ。蘭美様がいなかったら、どうなっていたことか……！」"
+translation = "「네. 라비 님이 계시지 않았다면 어떻게 되었을지……!」"
+
+[[dialogue]]
+speaker_original = "蘭美"
+speaker_translation = "라미"
+original = "「全員で勝ち取った勝利よ！\u3000２人ともお疲れ様……いいえ。ダッチ、貴方も。作戦自体は褒められたものではなかったけれど、うまくいったわね！！」"
+translation = "「모두 함께 쟁취한 승리야! 두 사람 모두 수고했어…… 아니. 더치, 너도. 작전 자체는 칭찬할 만한 게 못 되었지만, 잘 풀렸네!!」"
+
+[[dialogue]]
+speaker_original = "ダッチ"
+speaker_translation = "더치"
+original = "「ヌフフ！\u3000蘭美様のスピードありきの作戦でしたが、上手くいきましたねぇ！！」"
+translation = "「누후후! 라비 님의 스피드가 있었기에 가능했던 작전이었지만, 잘 들어맞았네요!!」"
+
+[[dialogue]]
+speaker_original = "シエスタ"
+speaker_translation = "シエスタ"
+original = "「う……うぅう……！」"
+translation = "「우…… 우으응……!」"
+
+[[dialogue]]
+speaker_original = "蘭美"
+speaker_translation = "라미"
+original = "「『支配』のシエスタ。もう抵抗は無駄よ。諦めてお縄につきなさい！」"
+translation = ""
+
+[[dialogue]]
+speaker = "unk"
+original = "みんな──待ってくれ！！"
+translation = "얘들아── 기다려줘!!"
+
+[[dialogue]]
+speaker_original = "蘭美"
+speaker_translation = "라미"
+original = "「ぴょんっ！？\u3000会長っ……どうして止めるのよ！？\u3000こいつは貴方を──いいえ、あ、貴女？\u3000を誘拐したのよ！」"
+translation = "「뿅!? 회장…… 왜 말리는 거야!? 이 녀석은 너를── 아니, 당, 당신을? 납치했다고!」"
+
+[[dialogue]]
+speaker_original = "シュティレ"
+speaker_translation = "슈틸레"
+original = "「女体化していると何だか調子が狂いますね。ぴょんぴょん。まだ操られているのでしょうか」"
+translation = ""
+
+[[dialogue]]
+speaker = "unk"
+original = "話を聞いて欲しいんだ！！"
+translation = ""
+
+[[dialogue]]
+speaker = "unk"
+original = "蘭美、シュティレ、トリュファイナさん！"
+translation = ""
+
+[[dialogue]]
+speaker_original = "トリュファイナ"
+speaker_translation = "트류파이나"
+original = "「私たちの名を……！？」"
+translation = ""
+
+[[dialogue]]
+speaker_original = "ダッチ"
+speaker_translation = "더치"
+original = "「ふむ。シスの『支配』の力が弱まったからでしょう。ようやく正気を取り戻してくれたみたいですねぇ！」"
+translation = ""
+
+[[dialogue]]
+speaker = "unk"
+original = "彼女は俺のために、この誘拐騒ぎを……！"
+translation = ""
+
+[[dialogue]]
+speaker = "unk"
+original = "シエスタを許してやってくれ！"
+translation = ""
+
+[[dialogue]]
+speaker_original = "シュティレ"
+speaker_translation = "슈틸레"
+original = "「……いったい、どういうことなのです？」"
+translation = ""
+
+[[dialogue]]
+speaker_original = "シエスタ"
+speaker_translation = "シエスタ"
+original = "「…………お兄ちゃん」"
+translation = ""
+
+[[dialogue]]
+speaker = "unk"
+original = "シス、みんなに説明するんだ"
+translation = ""
+
+[[dialogue]]
+speaker_original = "蘭美"
+speaker_translation = "라미"
+original = "「ここまで来たからには、話を聞かせなさい！\u3000私たちは、それを聞く権利があるわ！」"
+translation = ""
+
+[[dialogue]]
+speaker_original = "シエスタ"
+speaker_translation = "シエスタ"
+original = "「…………わかった、の」"
+translation = "「…………알겠어, 나」"
+
+[[dialogue]]
+speaker = "unk"
+original = "『支配』のロストアイテム──シエスタ。"
+translation = "『지배』의 로스트 아이템──시에스타."
+
+[[dialogue]]
+speaker = "unk"
+original = "彼女はリクリエすらも超える永き時を生き続け、他の兄弟たちと同じく自我を持つに至った。"
+translation = "그녀는 리크리에조차 넘어서는 긴 시간을 살아왔으며, 다른 형제들과 마찬가지로 자아를 갖게 되었다."
+
+[[dialogue]]
+speaker = "unk"
+original = "『七彩のアイテムズ』は、自身の他に６つ。全員が自我を持っており、末娘であるシエスタの自我の芽生えを祝福してくれた。"
+translation = "『칠채의 아이템즈』는 자신 외에 6개. 전원이 자아를 가지고 있으며, 막내 딸인 시에스타의 자아가 싹튼 것을 축복해 주었다."
+
+[[dialogue]]
+speaker = "unk"
+original = "だがシエスタ本人は、己の境遇を呪った……なぜか？"
+translation = "하지만 시에스타 본인은 자신의 처지를 저주했다…… 어째서인가?"
+
+[[dialogue]]
+speaker = "unk"
+original = "それは実に単純明快で、救いのない事実──彼女の兄弟は、頭のおかしいやつしかいなかったからだ。"
+translation = "그것은 참으로 단순명쾌하고 구원 없는 사실──그녀의 형제는 제정신이 아닌 녀석들뿐이었기 때문이다."
+
+[[dialogue]]
+speaker = "unk"
+original = "長兄の獅子舞は、堅物そうに見えてその実、女性に晴れ着を与えて喜ぶ性癖を持つ変なやつ。"
+translation = ""
+
+[[dialogue]]
+speaker = "unk"
+original = "次兄のダッチは、シエスタにとって汚点でしかなかった──ウサギ狂いが高じて、妹に着脱不可能なうさ耳カチューシャまで贈りつけるような輩。"
+translation = "둘째 오빠인 더치는 시에스타에게 오점일 뿐이었다──토끼에 미쳐서 여동생에게 탈착 불가능한 토끼 귀 머리띠까지 선물하는 따위의 패거리."
+
+[[dialogue]]
+speaker = "unk"
+original = "──長兄と次兄で、これなのだ。三男以降の連中もまともなわけがない。"
+translation = "──맏형과 둘째 오빠가 이 모양이다. 셋째 남동생 이후의 녀석들도 제정신일 리가 없다."
+
+[[dialogue]]
+speaker = "unk"
+original = "シエスタは自我を獲得してから『優しくてかっこいい素敵なお兄ちゃん』が欲しいと思い続けた……"
+translation = "시에스타는 자아를 획득하고 나서 『상냥하고 멋진 멋쟁이 오빠』를 갖고 싶다고 계속 바랐다……"
+
+[[dialogue]]
+speaker = "unk"
+original = "それから永き時が過ぎ──森羅歴３００２年。"
+translation = "그리고 긴 시간이 지나──신라력 3002년."
+
+[[dialogue]]
+speaker = "unk"
+original = "シエスタは人間界で運命の相手に出会った。"
+translation = "시에스타는 인간계에서 운명의 상대를 만났다."
+
+[[dialogue]]
+speaker = "unk"
+original = "学園中の女の子から『お兄ちゃん』と慕われる存在──"
+translation = "학원의 모든 여학생들로부터 『오빠』라며 존경받는 존재──"
+
+[[dialogue]]
+speaker = "unk"
+original = "──緋宮クロト。"
+translation = "──히노미야 쿠로토."
+
+[[dialogue]]
+speaker_original = "シエスタ"
+speaker_translation = "シエスタ"
+original = "（…………！！）"
+translation = "（…………！！）"
+
+[[dialogue]]
+speaker = "unk"
+original = "血が繋がっていなくても、彼は自分に甘えてくる女生徒たちを『妹』として扱い、優しく接していた。"
+translation = "피가 이어져 있지 않아도 그는 자신에게 어리광을 부리는 여학생들을 『여동생』으로 대하며 상냥하게 접하고 있었다."
+
+[[dialogue]]
+speaker_original = "シエスタ"
+speaker_translation = "シエスタ"
+original = "（シスの……理想のお兄ちゃんなのっ！！）"
+translation = ""
+
+[[dialogue]]
+speaker = "unk"
+original = "自分もあの輪に入りたい。そう幾度、願ったか。"
+translation = "자신도 저 고리 안에 들어가고 싶다. 그렇게 몇 번이나 바랐던가."
+
+[[dialogue]]
+speaker = "unk"
+original = "しかしそのたびに、シエスタは自分の身体を見て──諦めた。"
+translation = "하지만 그때마다 시에스타는 자신의 몸을 보고──포기했다."
+
+[[dialogue]]
+speaker_original = "シエスタ"
+speaker_translation = "シエスタ"
+original = "（……シスは人間じゃないの。天使でもない。魔族でもない。言葉が喋れるだけの、モンスターと変わらないの……）"
+translation = "（……시스는 인간이 아닌 거야. 천사도 아니야. 마족도 아니야. 말만 할 수 있을 뿐인, 몬스터와 다름없는 거야……）"
+
+[[dialogue]]
+speaker = "unk"
+original = "こんな異形が近づいたらびっくりさせてしまう。"
+translation = "이런 이형이 다가가면 놀라게 하고 만다."
+
+[[dialogue]]
+speaker = "unk"
+original = "『お兄ちゃん』なんて呼んだところで──気味悪がられるに決まっている。"
+translation = "『오빠』라고 불러봤자──기분 나빠할 게 뻔하다."
+
+[[dialogue]]
+speaker = "unk"
+original = "だからシエスタは『理想のお兄ちゃん』を、影から見るだけで満足しようと心に決めた──"
+translation = "그래서 시에스타는 『이상적인 오빠』를 그림자 속에서 보는 것만으로 만족하기로 마음먹었다──"
+
+[[dialogue]]
+speaker = "unk"
+original = "しかし、クロトの日々を観察していくうちに、シエスタはどんどん不安になっていった。"
+translation = "하지만 쿠로토의 나날을 관찰하는 사이에 시에스타는 점점 불안해져 갔다."
+
+[[dialogue]]
+speaker = "unk"
+original = "彼は学園中の生徒から頼られ、寝る間もなく活動していた。"
+translation = "그는 학원 안의 학생들에게 의지받으며 잠잘 시간도 없이 활동하고 있었다."
+
+[[dialogue]]
+speaker = "unk"
+original = "朝も昼も夜もなく、みんなのために忙しく働き続けて……いつか倒れるんじゃないか、とシエスタは心配と不安を抱くようになった。"
+translation = "아침도 낮도 밤도 없이 모두를 위해 바쁘게 일하며…… 언젠가 쓰러지는 게 아닐까, 하고 시에스타는 걱정과 불안을 품게 되었다."
+
+[[dialogue]]
+speaker = "unk"
+original = "特にシエスタが目の敵にしたのは、錬金術同好会の存在だった。あの優しいお兄ちゃんを実験台にして、アヤシイ薬を日夜飲ませて、苦しめていた。"
+translation = "특히 시에스타가 눈엣가시로 여긴 것은 연금술 동호회의 존재였다. 그 상냥한 오빠를 실험대로 삼아 수상한 약을 밤낮으로 먹여 괴롭히고 있었다."
+
+[[dialogue]]
+speaker = "unk"
+original = "アニマの薬を飲んだクロトは、女の子になったり、翼が生えたり……"
+translation = "아니마의 약을 먹은 쿠로토는 여자아이가 되거나, 날개가 돋아나거나……"
+
+[[dialogue]]
+speaker = "unk"
+original = "ある日、新薬を飲んだクロトが、四足歩行をしながら山奥に消え、一晩中遠吠えをしているのを見た時に、シエスタの我慢は限界を迎えた。"
+translation = "어느 날, 신약을 먹은 쿠로토가 네 발로 걸으며 산속으로 사라져 밤새도록 하울링을 하는 것을 보았을 때, 시에스타의 참을성은 한계에 달했다."
+
+[[dialogue]]
+speaker_original = "シエスタ"
+speaker_translation = "シエスタ"
+original = "「もう見てられないの……お兄ちゃん、このままじゃ死んじゃうの！！」"
+translation = "「더는 보고 있을 수 없는 거야…… 오빠, 이대로라면 죽어버리는 거야！！」"
+
+[[dialogue]]
+speaker = "unk"
+original = "その時、生まれて初めて、シスは己の能力を我欲のために使うことを決意し──"
+translation = "그때 태어나서 처음으로 시스는 자신의 능력을 사리사욕을 위해 쓰기로 결의하고──"
+
+[[dialogue]]
+speaker = "unk"
+original = "今回の誘拐騒ぎを、引き起こしたのだった。"
+translation = "이번 유괴 소동을 일으킨 것이었다."
+

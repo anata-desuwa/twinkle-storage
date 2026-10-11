@@ -1,0 +1,304 @@
+[[dialogue]]
+speaker_original = "ジグ"
+speaker_translation = "지그"
+original = "「梨緒は右から、アポロは左から。円を描くように囲い込んで、退路を塞いでね」"
+translation = "「리오는 오른쪽에서, 아폴로는 왼쪽에서. 원을 그리듯 둘러싸서 퇴로를 막아줘」"
+
+[[dialogue]]
+speaker_original = "梨緒"
+speaker_translation = "리오"
+original = "「よし、行くぞ、アポロ」"
+translation = "「좋아, 가자, 아폴로」"
+
+[[dialogue]]
+speaker_original = "アポロ"
+speaker_translation = "아폴로"
+original = "「おとなしくしてりゃ痛くしないからなっ！\u3000うりゃりゃりゃりゃーーーっ！」"
+translation = ""
+
+[[dialogue]]
+speaker_original = "ゴースト"
+speaker_translation = "ゴースト"
+original = "「キャー！\u3000キャーキャーーーッ！？」"
+translation = ""
+
+[[dialogue]]
+speaker_original = "ジグ"
+speaker_translation = "지그"
+original = "「大声を発して威嚇し、一点に追い詰める。追い込み漁というやつだね。３人がかりなら学園内のゴーストをかき集めるのも容易い」"
+translation = "「큰 소리를 내어 위협하고, 한곳으로 몰아넣는다. 몰이잡이라는 거지. 3명이서라면 학원 내의 고스트를 끌어모으는 것도 쉬운 일이야」"
+
+[[dialogue]]
+speaker_original = "梨緒"
+speaker_translation = "리오"
+original = "「３人がかりというが、君は動いてないだろう！」"
+translation = "「3명이서라니, 너는 움직이지 않고 있잖아!」"
+
+[[dialogue]]
+speaker_original = "ジグ"
+speaker_translation = "지그"
+original = "「いやいや、指揮は大事だよ？\u3000特に私のはね。ほら、あとは梨緒がそこに網を張れば、文字通り一網打尽だ」"
+translation = "「이런이런, 지휘는 중요하다고? 특히 내 건 말이지. 봐, 나머지는 리오가 거기에 그물을 치면 문자 그대로 일망타진이야」"
+
+[[dialogue]]
+speaker = "unk"
+original = "梨緒はジグの指示通りに星術の網を放ち、ゴーストの群れを捕獲する。"
+translation = "리오는 지그의 지시대로 성술의 그물을 날려 고스트 무리를 포획한다."
+
+[[dialogue]]
+speaker_original = "ゴースト"
+speaker_translation = "ゴースト"
+original = "「キャキャキャーーーッ！？！！？」"
+translation = ""
+
+[[dialogue]]
+speaker_original = "梨緒"
+speaker_translation = "리오"
+original = "「ぐっ……確かに指示は的確だった。悔しいが、こればかりは認めざるを得ないな……」"
+translation = "「윽…… 확실히 지시는 정확했어. 분하지만 이것만큼은 인정하지 않을 수 없네……」"
+
+[[dialogue]]
+speaker_original = "アポロ"
+speaker_translation = "아폴로"
+original = "「さすがはジグ、あっという間に片付いちまったな！\u3000ちょっと暴れ足りないくらいだぜ！」"
+translation = "「역시 지그, 눈 깜짝할 사이에 치워버렸네! 약간 난동이 부족할 정도라구!」"
+
+[[dialogue]]
+speaker_original = "ジグ"
+speaker_translation = "지그"
+original = "「はは、ゴーストたちの代わりにアポロが暴れたら本末転倒だよ」"
+translation = "「하하, 고스트들 대신 아폴로가 난동을 부리면 본말전도라구」"
+
+[[dialogue]]
+speaker_original = "梨緒"
+speaker_translation = "리오"
+original = "「ここは片付いたし、次はアリーナに移動しよう。私たちが頑張っている間に、ベアトとナターシャが準備を進めてくれているはずだ」"
+translation = "「여기는 정리되었으니 다음은 아레나로 이동하자. 우리가 힘내는 동안 베아토와 나타샤가 준비를 진행해주고 있을 터이다」"
+
+[[dialogue]]
+speaker_original = "アポロ"
+speaker_translation = "아폴로"
+original = "「チマチマした飾りつけより、こっちの鬼ごっこの方があたし向きだな！\u3000次行くぞ、次ーっ！」"
+translation = "「자잘한 장식 만들기보다는 이쪽 술래잡기가 나한테 맞네! 다음 가자, 다음ー!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ゴーストの捕獲は梨緒たちに任せ、ベアトリスとナターシャはハロウィンパーティーの飾り作りに勤しんでいた。"
+translation = "고스트 포획은 리오 일행에게 맡기고, 베아트리스와 나타샤는 할로윈 파티 장식 만들기에 힘쓰고 있었다."
+
+[[dialogue]]
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
+original = "「ゴーストを捕まえるの、梨緒ちゃんたちに任せちゃって大丈夫かニャ？」"
+translation = "「고스트를 잡는 거, 리오짱 일행에게 맡겨버려도 괜찮은 거냐냥?」"
+
+[[dialogue]]
+speaker_original = "ナターシャ"
+speaker_translation = "나타샤"
+original = "「ジグがいれば万が一にも失敗しないし、アポロも梨緒が止めてくれるでしょ」"
+translation = "「지그가 있으면 만에 하나라도 실패하지 않고, 아폴로도 리오가 말려줄 테니까」"
+
+[[dialogue]]
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
+original = "「ふふ、ナターシャちゃん、みんなのことよくわかってるねっ」"
+translation = "「후후, 나타샤짱, 모두에 대해 잘 알고 있네」"
+
+[[dialogue]]
+speaker_original = "ナターシャ"
+speaker_translation = "나타샤"
+original = "「ま、選管の一員としての付き合いも長くなってきたし、ある程度はね」"
+translation = "「뭐, 선관의 일원으로서의 교제도 길어졌고, 어느 정도는 말이지」"
+
+[[dialogue]]
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
+original = "「じゃあゴーストさんたちが楽しくなれるように、私たちは飾り付けを進めよっ」"
+translation = "「그럼 고스트 씨들이 즐거워질 수 있도록 우리들은 장식을 진행하자」"
+
+[[dialogue]]
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
+original = "「やっぱりカボチャのランタンは必要だよね。んっしょ、んっしょ」"
+translation = "「역시 호박 란탄은 필요하겠지. 영차, 영차」"
+
+[[dialogue]]
+speaker_original = "ナターシャ"
+speaker_translation = "나타샤"
+original = "「あー……ベアトのそれ、ランタン彫ってるつもりだったんだ」"
+translation = "「아ー…… 베아토의 그것, 란탄 파고 있었던 작정이였구나」"
+
+[[dialogue]]
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
+original = "「そうだよっ！？\u3000何作ってると思ってたニャンーっ！？」"
+translation = "「그렇다구!? 뭘 만들고 있다고 생각했던 거냐냥ー!?」"
+
+[[dialogue]]
+speaker_original = "ナターシャ"
+speaker_translation = "나타샤"
+original = "「ランタンには全然見えなかったから、てっきりデネブ仕込みの前衛芸術作品なのかなって」"
+translation = "「란탄으로는 전혀 보이지 않았으니까, 틀림없이 데네브에게서 전수받은 전위 예술 작품인가 했지」"
+
+[[dialogue]]
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
+original = "「うっ……確かに不格好だとは思うけど……」"
+translation = "「윽…… 확실히 못생겼다고는 생각하지만……」"
+
+[[dialogue]]
+speaker_original = "ナターシャ"
+speaker_translation = "나타샤"
+original = "「ちょっと貸して。ランタンにするんなら、先にこっちから彫らないと──」"
+translation = "「잠깐 빌려줘. 랜턴으로 만들 거라면 먼저 이쪽부터 깎아야──」"
+
+[[dialogue]]
+speaker_original = "ナターシャ"
+speaker_translation = "나타샤"
+original = "「ほら、それっぽくなったでしょ」"
+translation = "「자, 제법 그럴싸해졌지?」"
+
+[[dialogue]]
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
+original = "「すっご～いっ！\u3000ナターシャちゃん、ランタン作りやったことあるのニャ？」"
+translation = ""
+
+[[dialogue]]
+speaker_original = "ナターシャ"
+speaker_translation = "나타샤"
+original = "「や、初めてだけど。手先は器用な方だし、刃物の扱いも得意だからね」"
+translation = "「아니, 처음인데. 손재주가 좀 있는 편이고, 날붙이 다루는 것도 잘하니까」"
+
+[[dialogue]]
+speaker_original = "ナターシャ"
+speaker_translation = "나타샤"
+original = "「ちょいちょいちょいっと……はい、できた」"
+translation = "「싹둑싹둑싹둑…… 자, 완성」"
+
+[[dialogue]]
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
+original = "「わ、わ、あっという間！\u3000私、ぶきっちょだから羨ましいよ～っ」"
+translation = "「와, 와, 눈 깜짝할 사이에! 나, 손재주가 없어서 부러워~」"
+
+[[dialogue]]
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
+original = "「ランタン作りはナターシャちゃんに任せて、他ので貢献した方が良さそうかニャ」"
+translation = ""
+
+[[dialogue]]
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
+original = "「う～ん、ハロウィンっぽい飾りつけといえば……そうだ。折り紙を折って、この線に合わせて、チョキチョキチョキ……っと」"
+translation = "「음~ 할로윈다운 장식이라고 하면…… 맞다. 색종이를 접어서 이 선에 맞춰서 싹둑싹둑싹둑……하고」"
+
+[[dialogue]]
+speaker_original = "ナターシャ"
+speaker_translation = "나타샤"
+original = "「何作ってるの？\u3000切り絵？」"
+translation = "「뭐 만드는 거야? 오리기 장식?」"
+
+[[dialogue]]
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
+original = "「ふふ、この切れ込みを入れた折り紙を広げると──じゃーんっ！\u3000クモの巣の完成～！」"
+translation = "「후후, 가위질을 한 이 색종이를 펼치면── 짜잔! 거미줄 완성~!」"
+
+[[dialogue]]
+speaker_original = "ナターシャ"
+speaker_translation = "나타샤"
+original = "「ひぃいっ！？\u3000く、く、クモ、禁止っ！\u3000巣でもダメ！」"
+translation = "「히익!? 거, 거, 거미, 금지! 거미줄도 안 돼!」"
+
+[[dialogue]]
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
+original = "「クモは害虫を食べてくれるんだよ？」"
+translation = "「거미는 해충을 잡아 먹어 준다고?」"
+
+[[dialogue]]
+speaker_original = "ナターシャ"
+speaker_translation = "나타샤"
+original = "「そういう問題じゃないの！\u3000何考えてるかわからないのも、ウジャウジャいるのも、本能で動いてて理屈が通じないのもダメ！」"
+translation = "「그런 문제가 아니야! 무슨 생각을 하는지 모르는 것도, 바글바글한 것도, 본능으로 움직여서 말이 안 통하는 것도 다 싫어!」"
+
+[[dialogue]]
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
+original = "「クモの巣だけでもダメニャの？」"
+translation = ""
+
+[[dialogue]]
+speaker_original = "ナターシャ"
+speaker_translation = "나타샤"
+original = "「ダメダメムリムリムリ！\u3000暗い所でいきなり顔に絡んだ時の不快感ったらないし！」"
+translation = ""
+
+[[dialogue]]
+speaker_original = "ナターシャ"
+speaker_translation = "나타샤"
+original = "「アレに他の虫も絡みついてたのかと思うと……あーダメ、もーダメ、想像しただけで鳥肌立つ！」"
+translation = "「거기에 다른 벌레도 엉켜 있었을 거라 생각하면…… 아~ 안 돼, 더는 안 돼, 상상만 해도 소름이 돋아!」"
+
+[[dialogue]]
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
+original = "「わ、本当だ。ナターシャちゃんの腕、ブツブツにニャってる～」"
+translation = ""
+
+[[dialogue]]
+speaker_original = "ナターシャ"
+speaker_translation = "나타샤"
+original = "「逆にベアトはどうして平気なの？\u3000大抵の女の子って虫が嫌いなものでしょ」"
+translation = "「반대로 베아토는 어째서 멀쩡한 거야? 웬만한 여자아이들은 벌레를 싫어하잖아」"
+
+[[dialogue]]
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
+original = "「虫なんて故郷の洞窟にいくらでもいたからね。外で見られない面白い虫もいて……」"
+translation = "「벌레 같은 건 고향 동굴에 얼마든지 있었으니까. 밖에서는 볼 수 없는 재미있는 벌레도 있고……」"
+
+[[dialogue]]
+speaker_original = "ナターシャ"
+speaker_translation = "나타샤"
+original = "「やめやめやめやめ！\u3000だから、そういうのもダメなんだって～～っ！」"
+translation = "「그만 그만 그만 그만! 그러니까 그런 것도 안 된다고~~!」"
+
+[[dialogue]]
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
+original = "「どうして平気なのか答えただけなのに～……」"
+translation = "「어째서 멀쩡한지 대답했을 뿐인데~……」"
+
+[[dialogue]]
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
+original = "「だけど、いつもクールで落ち着いてるのに、取り乱しちゃうナターシャちゃん、ちょっと可愛いかもニャ」"
+translation = ""
+
+[[dialogue]]
+speaker_original = "ナターシャ"
+speaker_translation = "나타샤"
+original = "「こっちは笑いごとじゃないの。なんか鳥肌通り越して体痒くなってきたよ。蕁麻疹出そう」"
+translation = "「이쪽은 웃을 일이 아니라고. 어쩐지 소름을 넘어서 몸이 간지러워지기 시작했어. 두드러기 나올 것 같아」"
+
+[[dialogue]]
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
+original = "「ナターシャちゃんが倒れちゃったら困るよっ。……仕方ないから、クモの巣はこっそり作ろうっと」"
+translation = "「나타샤짱이 쓰러져 버리면 큰일이야. ……어쩔 수 없으니 거미줄은 몰래 만들어야지」"
+
+[[dialogue]]
+speaker_original = "ナターシャ"
+speaker_translation = "나타샤"
+original = "「ベアト……斬るよ？」"
+translation = "「베아토…… 베어버린다?」"
+
+[[dialogue]]
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
+original = "「ごめんごめん、冗談だってば～っ」"
+translation = "「미안 미안, 농담이라니까~」"
+

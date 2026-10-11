@@ -1,0 +1,387 @@
+[[dialogue]]
+speaker = "unk"
+original = "第４話,『守護天使と友情』,B"
+translation = "제4화 『수호천사와 우정』 B"
+
+[[dialogue]]
+speaker_original = "アルモタヘル（幼少）"
+speaker_translation = "아르모타헬(어린 시절)"
+original = "「まったく、オオヒメがいきなりコケたからビックリしたのだ！」"
+translation = "「정말이지, 오오히메가 갑자기 넘어져서 깜짝 놀랐단 말이다!」"
+
+[[dialogue]]
+speaker_original = "マグダレナ（幼少）"
+speaker_translation = "막달레나(어린 시절)"
+original = "「ふふ……小さくなってもオオヒメはオオヒメですね」"
+translation = "「후후…… 작아져도 오오히메는 오오히메네요」"
+
+[[dialogue]]
+speaker_original = "オオヒメ（幼少）"
+speaker_translation = "オオヒメ（幼少）"
+original = "「うぐぐ……その事はもう掘り返さないでくれ」"
+translation = "「으구구…… 그 일은 이제 들춰내지 말아다오」"
+
+[[dialogue]]
+speaker = "unk"
+original = "休憩時間になると、オオヒメのところにマグダレナとアルモタヘルがやってきた。"
+translation = "쉬는 시간이 되자, 오오히메가 있는 곳으로 막달레나와 알모타헬이 찾아왔다."
+
+[[dialogue]]
+speaker = "unk"
+original = "３人が同じクラスになるよう、ヘレナが手配したのだ。"
+translation = "세 사람이 같은 반이 되도록, 헬레나가 손을 쓴 것이다."
+
+[[dialogue]]
+speaker_original = "ナミエル"
+speaker_translation = "나미엘"
+original = "「ヒメさんは守護天使ですから、お２人と知り合いなのは当然ですよね」"
+translation = "「히메 씨는 수호천사니까, 두 분과 아는 사이인 건 당연하겠네요」"
+
+[[dialogue]]
+speaker_original = "オオヒメ（幼少）"
+speaker_translation = "オオヒメ（幼少）"
+original = "「ああ。附属校に通うことにしたのもマグダレナに説得されたからだ」"
+translation = "「아아. 부속교에 다니기로 한 것도 막달레나가 설득했기 때문이다」"
+
+[[dialogue]]
+speaker_original = "オオヒメ（幼少）"
+speaker_translation = "オオヒメ（幼少）"
+original = "「ところで……ママダレナ？\u3000アルモたん？\u3000２人はナミエル殿に、そのような呼び方をさせているのか？」"
+translation = "「그나저나…… 마마달레나? 알모짱? 두 사람은 나미엘 도노에게, 그런 식으로 부르게 하는 건가?」"
+
+[[dialogue]]
+speaker_original = "マグダレナ（幼少）"
+speaker_translation = "막달레나(어린 시절)"
+original = "「ええ、そうですよ～」"
+translation = "「네, 그렇답니다~」"
+
+[[dialogue]]
+speaker_original = "アルモタヘル（幼少）"
+speaker_translation = "아르모타헬(어린 시절)"
+original = "「オオヒメもアルモたんと呼んでいいのだ！」"
+translation = "「오오히메도 알모짱이라고 불러도 된다고!」"
+
+[[dialogue]]
+speaker_original = "オオヒメ（幼少）"
+speaker_translation = "オオヒメ（幼少）"
+original = "「そんな気の抜ける呼び方はお断りだ」"
+translation = "「그런 맥빠지는 호칭은 거절하겠다」"
+
+[[dialogue]]
+speaker_original = "オオヒメ（幼少）"
+speaker_translation = "オオヒメ（幼少）"
+original = "「ナミエル殿、２人が迷惑をかけている様で……私からも謝罪させて頂きたい」"
+translation = "「나미엘 도노, 두 사람이 폐를 끼치고 있는 것 같아서…… 나로서도 사과를 건네고 싶군」"
+
+[[dialogue]]
+speaker_original = "ナミエル"
+speaker_translation = "나미엘"
+original = "「ええと……問題ありません。色々あってのこの呼び方ですから」"
+translation = "「저기…… 문제없어요. 여러 가지 일이 있어서 이렇게 부르는 거니까요」"
+
+[[dialogue]]
+speaker_original = "アルモタヘル（幼少）"
+speaker_translation = "아르모타헬(어린 시절)"
+original = "「そういうオオヒメも、ナミエルに『ヒメさん』と呼ばせているのだ！」"
+translation = "「그러는 오오히메도, 나미엘에게 『히메 씨』라고 부르게 하고 있잖아!」"
+
+[[dialogue]]
+speaker_original = "オオヒメ（幼少）"
+speaker_translation = "オオヒメ（幼少）"
+original = "「オオヒメ様、では堅苦しいと思ったからだ。私をヒメと略すのは別段不自然ではあるまい」"
+translation = "「오오히메님, 은 딱딱하다고 생각했기 때문이다. 나를 히메로 줄여 부르는 건 특별히 어색하지 않잖나」"
+
+[[dialogue]]
+speaker_original = "アルモタヘル（幼少）"
+speaker_translation = "아르모타헬(어린 시절)"
+original = "「アルモたんだって不自然ではないのだ！」"
+translation = "「알모짱도 어색하지 않단 말이다!」"
+
+[[dialogue]]
+speaker_original = "マグダレナ（幼少）"
+speaker_translation = "막달레나(어린 시절)"
+original = "「ママダレナだって不自然ではありませんよ？」"
+translation = "「마마달레나도 어색하지 않다고요?」"
+
+[[dialogue]]
+speaker_original = "オオヒメ（幼少）"
+speaker_translation = "オオヒメ（幼少）"
+original = "「いや、アルモたんはともかくママダレナはおかしいだろう」"
+translation = "「아니, 알모짱은 그렇다 치고 마마달레나는 이상하잖아」"
+
+[[dialogue]]
+speaker_original = "ナミエル"
+speaker_translation = "나미엘"
+original = "「…………」"
+translation = "「…………」"
+
+[[dialogue]]
+speaker_original = "オオヒメ（幼少）"
+speaker_translation = "オオヒメ（幼少）"
+original = "「ん？\u3000どうかしたか、ナミエル殿？」"
+translation = "「응? 무슨 일인가, 나미엘 도노?」"
+
+[[dialogue]]
+speaker_original = "ナミエル"
+speaker_translation = "나미엘"
+original = "「あっ……申し訳ありません。皆様が話している様子を見ていると、不思議な気持ちになってしまいました」"
+translation = "「앗…… 죄송합니다. 여러분이 이야기하고 계신 모습을 보고 있으니, 신기한 기분이 들어버려서요」"
+
+[[dialogue]]
+speaker_original = "ナミエル"
+speaker_translation = "나미엘"
+original = "「守護天使様と言えば世界の摂理を司る畏れ多き存在。それなのにまるで私と同年代の者が集まって話しているような錯覚を覚えてしまって……」"
+translation = "「수호천사님이라고 하면 세계의 섭리를 관장하는 두려운 존재. 그런데도 마치 나와 또래인 사람들이 모여 이야기하는 듯한 착각이 들어서……」"
+
+[[dialogue]]
+speaker_original = "ナミエル"
+speaker_translation = "나미엘"
+original = "「と……これは失礼な発言でしたね。申し訳ありませんでした……」"
+translation = "「앗…… 이건 실례되는 발언이었네요. 죄송했습니다……」"
+
+[[dialogue]]
+speaker_original = "マグダレナ（幼少）"
+speaker_translation = "막달레나(어린 시절)"
+original = "「今ここにいる私たちは守護天使である前に、１人の附属生ですから、ナミエルの感想は間違っていませんよ」"
+translation = "「지금 여기에 있는 저희는 수호천사이기 전에, 한 명의 부속생이니까, 나미엘의 감상은 틀리지 않았어요」"
+
+[[dialogue]]
+speaker_original = "アルモタヘル（幼少）"
+speaker_translation = "아르모타헬(어린 시절)"
+original = "「何を言うのだ！\u3000アルモたんはいつだって威厳たっぷりの畏れ多き存在なのだ！」"
+translation = "「무슨 소리를 하는 거냐! 알모짱은 언제나 위엄 넘치는 두려운 존재란 말이다!」"
+
+[[dialogue]]
+speaker_original = "オオヒメ（幼少）"
+speaker_translation = "オオヒメ（幼少）"
+original = "「最近のあなたは元の姿の時も、威厳があるかどうか甚だ怪しいが……いや、それを言うならマグダレナもセシアもそうか」"
+translation = "「요즘의 너는 원래 모습일 때도, 위엄이 있는지 심히 의심스럽다만…… 아니, 그걸 말하자면 막달레나도 세시아도 그런가」"
+
+[[dialogue]]
+speaker_original = "アルモタヘル（幼少）"
+speaker_translation = "아르모타헬(어린 시절)"
+original = "「さっき盛大にすっころんで尊厳大破したオオヒメが何か言ってるのだ」"
+translation = "「아까 대대적으로 자빠져서 존엄이 대파된 오오히메가 뭐라고 말하고 있다」"
+
+[[dialogue]]
+speaker_original = "オオヒメ（幼少）"
+speaker_translation = "オオヒメ（幼少）"
+original = "「ほ、掘り返さないでくれと言っているだろう！！」"
+translation = "「들, 들춰내지 말아달라고 말했을 텐데!!」"
+
+[[dialogue]]
+speaker_original = "マグダレナ（幼少）"
+speaker_translation = "막달레나(어린 시절)"
+original = "「ところで今日はセシアがやってきませんね」"
+translation = "「그나저나 오늘은 세시아가 오지 않네요」"
+
+[[dialogue]]
+speaker_original = "ナミエル"
+speaker_translation = "나미엘"
+original = "「そうですね。休憩時間になるとよく遊びにいらっしゃるのですが」"
+translation = "「그러게 말이에요. 쉬는 시간이 되면 자주 놀러 오시는데」"
+
+[[dialogue]]
+speaker_original = "オオヒメ（幼少）"
+speaker_translation = "オオヒメ（幼少）"
+original = "「ああ、セシアはおそらくルヴィネ様の面倒を見ているのだろう」"
+translation = "「아아, 세시아는 아마 루비네 님의 수발을 들고 있는 거겠지」"
+
+[[dialogue]]
+speaker_original = "ナミエル"
+speaker_translation = "나미엘"
+original = "「ルヴィネと言うと……極星学園の星徒会長ですか？\u3000彼女がなぜ？」"
+translation = "「루비네라고 하면…… 극성학원의 학생회장인가요? 그녀가 어째서?」"
+
+[[dialogue]]
+speaker_original = "オオヒメ（幼少）"
+speaker_translation = "オオヒメ（幼少）"
+original = "「極星学園の附属校設立を計画しているそうだ。そのための視察として期間限定でこちらの附属校に通う事になったのだ」"
+translation = "「극성학원의 부속교 설립을 계획하고 있다고 하더군. 그걸 위한 시찰로서 기간 한정으로 이쪽 부속교에 다니게 된 거다」"
+
+[[dialogue]]
+speaker_original = "オオヒメ（幼少）"
+speaker_translation = "オオヒメ（幼少）"
+original = "「これも私の時と同じく、マグダレナのごり押しだったのだがな」"
+translation = "「이것도 내 때와 마찬가지로, 막달레나의 억지 쓰기 때문이었지만 말이지」"
+
+[[dialogue]]
+speaker_original = "マグダレナ（幼少）"
+speaker_translation = "막달레나(어린 시절)"
+original = "「ふふっ♪\u3000ルヴィネさまにも附属校の雰囲気を体験してもらいたかったんです～」"
+translation = "「후후♪ 루비네 님에게도 부속교의 분위기를 체험시켜 드리고 싶었거든요~」"
+
+[[dialogue]]
+speaker_original = "アルモタヘル（幼少）"
+speaker_translation = "아르모타헬(어린 시절)"
+original = "「それじゃあルヴィネさまは、セシアのクラスに入った、ということなのだ？」"
+translation = "「그러면 루비네 님은, 세시아네 반에 들어갔다는 뜻인가?」"
+
+[[dialogue]]
+speaker_original = "オオヒメ（幼少）"
+speaker_translation = "オオヒメ（幼少）"
+original = "「ええ」"
+translation = "「그래」"
+
+[[dialogue]]
+speaker_original = "アルモタヘル（幼少）"
+speaker_translation = "아르모타헬(어린 시절)"
+original = "「む～、つまんないのだ！\u3000どうせならみんな同じクラスに転入してきた方が楽しかったのだ！」"
+translation = "「으~, 재미없단 말이다! 이왕이면 다 같이 같은 반으로 전학 오는 편이 더 즐거웠을 텐데!」"
+
+[[dialogue]]
+speaker_original = "オオヒメ（幼少）"
+speaker_translation = "オオヒメ（幼少）"
+original = "「『今回の編入は楽しむことが目的ではない』『附属校への編入はあくまで視察のためだから』と、何度も念押しして主張していたからな」"
+translation = "「『이번 편입은 즐기는 것이 목적이 아니다』 『부속교로의 편입은 어디까지나 시찰을 위해서니까』라고, 몇 번이고 다짐하듯 주장했으니까 말이지」"
+
+[[dialogue]]
+speaker_original = "オオヒメ（幼少）"
+speaker_translation = "オオヒメ（幼少）"
+original = "「守護天使率の高いこのクラスに編入しなかったのも、その姿勢を崩したくなかったから、とのことだ」"
+translation = "「수호천사 비율이 높은 이 반으로 편입하지 않은 것도, 그 태도를 무너뜨리고 싶지 않았기 때문이라고 하더군」"
+
+[[dialogue]]
+speaker_original = "アルモタヘル（幼少）"
+speaker_translation = "아르모타헬(어린 시절)"
+original = "「ルヴィネさまもオオヒメと同じで、少し頭が固い気がするのだ」"
+translation = "「루비네 님도 오오히메처럼 조금 머리가 융통성 없는 것 같다」"
+
+[[dialogue]]
+speaker_original = "オオヒメ（幼少）"
+speaker_translation = "オオヒメ（幼少）"
+original = "「私にはお前たちが少し緩すぎるように思うがな」"
+translation = "「나한테는 너희가 너무 느슨한 것 같다만」"
+
+[[dialogue]]
+speaker_original = "先生"
+speaker_translation = "先生"
+original = "「では授業を始めます。教科書を開いてください」"
+translation = "「그럼 수업을 시작하겠어요. 교과서를 펼쳐주세요」"
+
+[[dialogue]]
+speaker_original = "ナミエル"
+speaker_translation = "나미엘"
+original = "「ヒメさんはまだ教科書をお持ちでないのですよね？\u3000机を寄せていただけますか？」"
+translation = "「히메 씨는 아직 교과서가 없으시죠? 책상을 붙여주시겠어요?」"
+
+[[dialogue]]
+speaker_original = "オオヒメ（幼少）"
+speaker_translation = "オオヒメ（幼少）"
+original = "「こ、こうか？」"
+translation = "「이, 이렇게인가?」"
+
+[[dialogue]]
+speaker_original = "ナミエル"
+speaker_translation = "나미엘"
+original = "「はい。では教科書、一緒に見ましょう」"
+translation = "「네. 그럼 교과서, 같이 봐요」"
+
+[[dialogue]]
+speaker_original = "オオヒメ（幼少）"
+speaker_translation = "オオヒメ（幼少）"
+original = "「感謝する、ナミエル殿」"
+translation = "「고맙다, 나미엘 도노」"
+
+[[dialogue]]
+speaker_original = "オオヒメ（幼少）"
+speaker_translation = "オオヒメ（幼少）"
+original = "（机を寄せ合って教科書を見せてもらう……やはりこれは王道の主人公とヒロイン展開だな）"
+translation = "（책상을 붙여서 교과서를 보여준다…… 역시 이건 왕도의 주인공과 히로인 전개로군）"
+
+[[dialogue]]
+speaker_original = "オオヒメ（幼少）"
+speaker_translation = "オオヒメ（幼少）"
+original = "（いや、我々は女性同士であるのだから、友情を育むルートと言った方が正しいか？）"
+translation = "（아니, 우리는 같은 여성이니, 우정을 키우는 루트라고 하는 편이 맞으려나?）"
+
+[[dialogue]]
+speaker_original = "オオヒメ（幼少）"
+speaker_translation = "オオヒメ（幼少）"
+original = "（友情…………友情、か……）"
+translation = "（우정…………우정, 인가……）"
+
+[[dialogue]]
+speaker_original = "オオヒメ（幼少）"
+speaker_translation = "オオヒメ（幼少）"
+original = "（マグダレナやアルモタヘル、セシアにパテルにラクシャ……）"
+translation = "（막달레나나 알모타헬, 세시아와 파텔에 락샤……）"
+
+[[dialogue]]
+speaker_original = "オオヒメ（幼少）"
+speaker_translation = "オオヒメ（幼少）"
+original = "（彼女らは共に女神を支える仲間であったが、果たしてそこに流れる感情は友情と呼ぶべきものなのか──）"
+translation = "（그녀들은 함께 여신을 받드는 동료였지만, 과연 그 사이에 흐르는 감정을 우정이라 불러야 하는 것인가──）"
+
+[[dialogue]]
+speaker_original = "オオヒメ（幼少）"
+speaker_translation = "オオヒメ（幼少）"
+original = "（それは分からない。今までそのようなこと、考えもしなかった……）"
+translation = "（그건 모르겠다. 지금까지 그런 것은 생각지도 못했으니……）"
+
+[[dialogue]]
+speaker_original = "オオヒメ（幼少）"
+speaker_translation = "オオヒメ（幼少）"
+original = "（実際に学園で生活を送ることで、そういった感情についても知ることが出来るのだろうか？）"
+translation = "（실제로 학원 생활을 보내면서, 그런 감정에 대해서도 알 수 있게 되는 것일까?）"
+
+[[dialogue]]
+speaker_original = "オオヒメ（幼少）"
+speaker_translation = "オオヒメ（幼少）"
+original = "（そしてナミエル殿や他のクラスメイトたちと、友情を感じ合える関係になることも……）"
+translation = ""
+
+[[dialogue]]
+speaker_original = "ナミエル"
+speaker_translation = "나미엘"
+original = "「ヒメさん？\u3000もしかして何か分からないことがありますか？」"
+translation = "「히메 씨? 혹시 뭔가 모르시는 것이라도 있나요?」"
+
+[[dialogue]]
+speaker_original = "オオヒメ（幼少）"
+speaker_translation = "オオヒメ（幼少）"
+original = "「ああ、いや……今のところは大丈夫だ、何とかついていけている」"
+translation = "「아아, 아니…… 지금으로선 괜찮다, 어떻게든 따라가고 있으니까」"
+
+[[dialogue]]
+speaker_original = "ナミエル"
+speaker_translation = "나미엘"
+original = "「そうですか……分からない所がありましたらおっしゃってください、お教えしますので」"
+translation = "「그러신가요…… 모르는 부분이 있으면 말씀해 주세요, 가르쳐 드릴 테니까요」"
+
+[[dialogue]]
+speaker_original = "オオヒメ（幼少）"
+speaker_translation = "オオヒメ（幼少）"
+original = "「ありがとう。文系科目は問題ないと思うが、理数系にはやや自信がない。その時は助けて貰えるだろうか？」"
+translation = "「고맙다. 문과 과목은 문제없다고 생각하지만, 이과 계열에는 약간 자신이 없구나. 그때는 도움을 받을 수 있겠느냐?」"
+
+[[dialogue]]
+speaker_original = "ナミエル"
+speaker_translation = "나미엘"
+original = "「はい、お任せください」"
+translation = "「네, 맡겨 주세요」"
+
+[[dialogue]]
+speaker_original = "オオヒメ（幼少）"
+speaker_translation = "オオヒメ（幼少）"
+original = "（ナミエル殿は……本当に良い子だな）"
+translation = ""
+
+[[dialogue]]
+speaker_original = "オオヒメ（幼少）"
+speaker_translation = "オオヒメ（幼少）"
+original = "（確か星見家にメイドとして仕えているのだったな……それで普段から言葉遣いが丁寧なのか）"
+translation = "（확실히 호시미가에 메이드로 섬기고 있다고 했던가…… 그래서 평소에도 말투가 정중한 것인가）"
+
+[[dialogue]]
+speaker_original = "オオヒメ（幼少）"
+speaker_translation = "オオヒメ（幼少）"
+original = "（淡々とはしているが言葉に温かみがある。私のことを気遣ってくれている、その気持ちが伝わってくる……）"
+translation = "（담담하긴 하지만 말에 온기가 있다. 나를 배려해 주고 있다, 그 마음이 전해져 오는구나……）"
+
+[[dialogue]]
+speaker_original = "オオヒメ（幼少）"
+speaker_translation = "オオヒメ（幼少）"
+original = "（……なれるだろうか、私は……ナミエル殿と、友達に……）"
+translation = ""
+

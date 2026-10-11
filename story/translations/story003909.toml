@@ -1,0 +1,634 @@
+[[dialogue]]
+speaker_original = "ヒマワリ"
+speaker_translation = "히마와리"
+original = "「は～～っ、着いた～～っ！」"
+translation = "「하~~아, 도착했다~~!」"
+
+[[dialogue]]
+speaker_original = "ミウ"
+speaker_translation = "미우"
+original = "「ここまで来れば、もう大丈夫だね……セナリィ社長、危ないところを助けに来てくださって……本当にありがとうございます」"
+translation = "「여기까지 오면 이제 괜찮겠지…… 세나리 사장님, 위험한 순간에 구하러 와주셔서…… 정말 감사드립니다」"
+
+[[dialogue]]
+speaker_original = "ヒマワリ"
+speaker_translation = "히마와리"
+original = "「ありがとうございます！\u3000あたしたちの絶体絶命ピンチに颯爽と駆けつけてくれるだなんて……」"
+translation = "「감사합니다! 저희의 절체절명 위기에 늠름하게 달려와 주시다니……」"
+
+[[dialogue]]
+speaker_original = "ヒマワリ"
+speaker_translation = "히마와리"
+original = "「セナリィ社長がヒーローに見えました！\u3000ううん、いつもヒーローなんですけど！\u3000今日は特に、スーパーヒーローでした！」"
+translation = "「세나리 사장님이 히어로처럼 보였어요! 아니, 항상 히어로였지만요! 오늘은 특히, 슈퍼 히어로였어요!」"
+
+[[dialogue]]
+speaker_original = "セナリィ（覚醒）"
+speaker_translation = "세나리(각성)"
+original = "「そ、そうですの？\u3000ふふふ……♪」"
+translation = "「그, 그런가요? 후후후……♪」"
+
+[[dialogue]]
+speaker_original = "セナリィ（覚醒）"
+speaker_translation = "세나리(각성)"
+original = "「──ではなく！\u3000社員の窮地を助けるのは、社長として当然の役目ですわ！」"
+translation = "「──가 아니라! 사원의 궁지를 구하는 것은 사장으로서 당연한 의무랍니다!」"
+
+[[dialogue]]
+speaker_original = "ミウ"
+speaker_translation = "미우"
+original = "「でも、どうして私たちが九浄家にいることをご存じで──あっ、まさか……！」"
+translation = "「하지만 어떻게 저희가 쿠죠 가문에 있다는 걸 알고 계셨나요── 아, 설마……!」"
+
+[[dialogue]]
+speaker_original = "セナリィ（覚醒）"
+speaker_translation = "세나리(각성)"
+original = "「ふふふ、そのまさかですわ。でも、真相解明まで、もう少しお芝居に付き合ってくださいな」"
+translation = "「후후후, 바로 그 설마랍니다. 하지만 진상 규명까지 조금만 더 연극에 맞춰주시겠어요?」"
+
+[[dialogue]]
+speaker_original = "依頼人Ａ"
+speaker_translation = "依頼人Ａ"
+original = "「まさか……本当に新型の人工戦闘服の資料を入手するとは……」"
+translation = "「설마…… 정말로 신형 인공 전투복 자료를 입수할 줄이야……」"
+
+[[dialogue]]
+speaker_original = "セナリィ"
+speaker_translation = "세나리"
+original = "「あら、まるで我々を信用していなかったかのような物言いですわね？」"
+translation = "「어머, 마치 저희를 신용하지 않으셨다는 말투군요?」"
+
+[[dialogue]]
+speaker_original = "依頼人Ｂ"
+speaker_translation = "依頼人Ｂ"
+original = "「と、とんでもない。いやいや、さすがは依頼達成率１００％！\u3000聞きしに勝るゴールデングースだな！」"
+translation = "「당, 당치도 않네. 아니아니, 역시 의뢰 달성률 100%! 소문대로 황금알을 낳는 거위로군!」"
+
+[[dialogue]]
+speaker_original = "セナリィ"
+speaker_translation = "세나리"
+original = "「ええ、ウチの可愛い社員たちが見事にやってのけましたわ。ですが──」"
+translation = "「예, 저희 귀여운 사원들이 훌륭하게 해냈답니다. 그렇지만──」"
+
+[[dialogue]]
+speaker_original = "セナリィ"
+speaker_translation = "세나리"
+original = "「今回のご依頼、想定以上に経費がかさんでしまいましたの」"
+translation = "「이번 의뢰는 예상 이상으로 경비가 많이 들어갔어요」"
+
+[[dialogue]]
+speaker_original = "依頼人Ａ"
+speaker_translation = "依頼人Ａ"
+original = "「はは、多少足が出るくらい構わん、構わん」"
+translation = "「하하, 약간 예산을 초과하는 것 정도야 상관없네, 상관없어」"
+
+[[dialogue]]
+speaker_original = "セナリィ"
+speaker_translation = "세나리"
+original = "「まあ、景気がよろしくて羨ましい限りですわ。では、こちらが潜入調査に用いた諸経費の請求書です」"
+translation = "「뭐, 경기가 좋으셔서 부러울 따름이네요. 그럼, 이쪽이 잠입 조사에 사용된 제반 경비 청구서입니다」"
+
+[[dialogue]]
+speaker_original = "依頼人Ａ"
+speaker_translation = "依頼人Ａ"
+original = "「なに……ん、んん？\u3000いち、じゅー、ひゃく、せん、まん、お──こ、これは何の冗談だね！？」"
+translation = "「뭐라고…… 흠, 음음? 일, 십, 백, 천, 만, 억── 이, 이건 무슨 장난인가!?」"
+
+[[dialogue]]
+speaker_original = "セナリィ"
+speaker_translation = "세나리"
+original = "「ジョークなど書かれてませんわよ。そこの数字が、当社からの請求額」"
+translation = "「농담 같은 건 적혀있지 않아요. 거기 찍힌 숫자가 당사의 청구액」"
+
+[[dialogue]]
+speaker_original = "セナリィ"
+speaker_translation = "세나리"
+original = "「また、そちらの情報不足により、ウチの可愛い社員が危険な目に遭わされた手当コミコミのお値段となっていますわ」"
+translation = "「또한 그쪽의 정보 부족으로 인해 저희 귀여운 사원이 위험에 처했던 수당까지 꽉꽉 채워 넣은 가격이랍니다」"
+
+[[dialogue]]
+speaker_original = "依頼人Ｂ"
+speaker_translation = "依頼人Ｂ"
+original = "「待て待て待て！\u3000最初に見積もった報酬の１０００倍だぞ！？」"
+translation = "「기다려 기다려 기다려! 처음 견적 낸 보수의 1000배잖아!?」"
+
+[[dialogue]]
+speaker_original = "セナリィ"
+speaker_translation = "세나리"
+original = "「それだけの価値がある情報ではありませんの？\u3000五名門・九浄家の門外不出の機密情報、これでもお安くしたつもりなのですけど」"
+translation = "「그만한 가치가 있는 정보 아닌가요? 오명문·쿠죠 가문의 문외불출 기밀정보니 이래봬도 싸게 해드린 셈입니다만」"
+
+[[dialogue]]
+speaker_original = "依頼人Ｂ"
+speaker_translation = "依頼人Ｂ"
+original = "「ふ、ふ、ふざけるのもいい加減にしろ！\u3000こんな馬鹿げた金額なんて払えるものか！」"
+translation = "「웃, 웃, 장난치는 것도 적당히 해라! 이런 말도 안 되는 금액을 지낼 수 있을 것 같냐!」"
+
+[[dialogue]]
+speaker_original = "セナリィ"
+speaker_translation = "세나리"
+original = "「あら、それは残念。では、今回のお話はなかったということで。無駄足を踏まされたおかげで、大赤字ですわね。困ってしまいます」"
+translation = "「어머, 그거 아쉽네요. 그럼, 이번 이야기는 없었던 걸로. 쓸데없는 걸음을 하게 한 덕분에 대적자랍니다. 난처하네요」"
+
+[[dialogue]]
+speaker_original = "依頼人Ａ"
+speaker_translation = "依頼人Ａ"
+original = "「き、貴様……我々を馬鹿にしているのか？」"
+translation = "「네, 네놈…… 우리를 바보 취급하는 거냐?」"
+
+[[dialogue]]
+speaker_original = "セナリィ"
+speaker_translation = "세나리"
+original = "「私たちを馬鹿にしていたのはそちらでしょう？\u3000ウチの可愛い社員を<ruby>囮<rt>デコイ</rt></ruby>に使おうだなんて小癪な真似を」"
+translation = ""
+
+[[dialogue]]
+speaker_original = "セナリィ"
+speaker_translation = "세나리"
+original = "「そもそも九浄家のお屋敷に、危険をはらんだ新たな人工戦闘服など存在していない──ですわよね？」"
+translation = "「애초에 쿠죠가 저택에 위험을 품은 새로운 인공 전투복 따위 존재하지 않는다──겠죠?」"
+
+[[dialogue]]
+speaker_original = "依頼人Ａ"
+speaker_translation = "依頼人Ａ"
+original = "「なっ……い、いや、そんなこと、は──」"
+translation = "「뭣…… 아, 아니, 그런 건──」"
+
+[[dialogue]]
+speaker_original = "セナリィ"
+speaker_translation = "세나리"
+original = "「あなた方の組織が目論んでいたのは、第三者に騒ぎを起こさせ、その隙に本命の人工戦闘服の情報の保管場所へ潜入部隊を派遣する作戦」"
+translation = "「당신네 조직이 노린 건, 제3자에게 소란을 일으키게 하고, 그 사이에 진짜 목표인 인공 전투복 정보 보관 장소로 침투 부대를 파견하는 작전」"
+
+[[dialogue]]
+speaker_original = "セナリィ"
+speaker_translation = "세나리"
+original = "「つまり、ウチのヒマワリとミウを捨て石として利用した──ホンット舐められたものですわ」"
+translation = "「즉, 우리 히마와리와 미우를 버림수로 이용했다──진짜 우습게 보인 모양이네요」"
+
+[[dialogue]]
+speaker_original = "依頼人Ａ"
+speaker_translation = "依頼人Ａ"
+original = "「ふ、ふふ、ははは！\u3000そこまで見通しているならば、お前たちは既に用済みだということも分かっているな？」"
+translation = "「후, 후후, 하하하! 거기까지 꿰뚫어 보고 있다면, 너희는 이미 이용 가치가 없어졌다는 것도 알고 있겠지?」"
+
+[[dialogue]]
+speaker_original = "依頼人Ｂ"
+speaker_translation = "依頼人Ｂ"
+original = "「今頃、我々の組織の潜入部隊が作戦を完遂している頃だ。そうなれば、お前たちも──」"
+translation = "「지금쯤 우리 조직의 침투 부대가 작전을 완수했을 때다. 그렇게 되면 너희도──」"
+
+[[dialogue]]
+speaker_original = "ネーゼマイン"
+speaker_translation = "네제마인"
+original = "「にひひ♪\u3000それはどうかな～？」"
+translation = "「니히히♪ 그건 어떨까나~?」"
+
+[[dialogue]]
+speaker_original = "ネーゼマイン"
+speaker_translation = "네제마인"
+original = "「ここまでバレバレなのに、まだ潜入作戦が成功すると思ってるなんてさ。おじさんたちの頭、お花畑すぎな～い？」"
+translation = "「여기까지 뻔히 보이는데, 아직도 침투 작전이 성공할 거라고 생각하다니 말이야. 아저씨들 머릿속, 너무 꽃밭 아니~야?」"
+
+[[dialogue]]
+speaker_original = "依頼人Ａ"
+speaker_translation = "依頼人Ａ"
+original = "「潜入工作や暗殺に長けた精鋭中の精鋭だぞ！\u3000お前ら如き小娘に──」"
+translation = "「침투 공작이나 암살에 능한 정예 중의 정예다! 너희 따위 애송이에게──」"
+
+[[dialogue]]
+speaker_original = "ネーゼマイン"
+speaker_translation = "네제마인"
+original = "「九浄家ナメすぎ～。あそこを守ってるのって軍隊並みの戦力だからね？」"
+translation = "「쿠죠가 너무 우습게 보네~. 거기 지키고 있는 건 군대급 전력이거든?」"
+
+[[dialogue]]
+speaker_original = "ネーゼマイン"
+speaker_translation = "네제마인"
+original = "「あ、シアン先輩からの報告～。潜入部隊は全滅。アジトも別部隊に制圧されて、全員捕縛だって～」"
+translation = "「아, 시안 선배한테서 보고~. 침투 부대는 전멸. 아지트도 다른 부대에 제압당해서 전원 포획이래~」"
+
+[[dialogue]]
+speaker_original = "依頼人Ｂ"
+speaker_translation = "依頼人Ｂ"
+original = "「バ、バカな……！？」"
+translation = "「바, 바보 같은……!?」"
+
+[[dialogue]]
+speaker_original = "ネーゼマイン"
+speaker_translation = "네제마인"
+original = "「ほら、おじさん見てよ、この縛られてる人、情けなくて傑作でしょ～？\u3000この顔に見覚えな～い？」"
+translation = "「봐봐, 아저씨 이것 좀 봐, 이 묶여 있는 사람, 한심해서 걸작이지~? 이 얼굴 본 적 없~어?」"
+
+[[dialogue]]
+speaker_original = "依頼人Ａ"
+speaker_translation = "依頼人Ａ"
+original = "「あっ、ああ……！\u3000全てお見通しだったというわけか……貴様ら、いつから……！」"
+translation = "「앗, 아아……! 전부 꿰뚫어 보고 있었다는 뜻인가…… 네놈들, 언제부터……!」"
+
+[[dialogue]]
+speaker_original = "セナリィ"
+speaker_translation = "세나리"
+original = "「最初も最初。あなたがヒマワリとミウに依頼をするよりも前から筒抜けでしたわよ？」"
+translation = "「처음 중의 처음. 당신이 히마와리와 미우에게 의뢰를 하기 전부터 훤히 새고 있었다고요?」"
+
+[[dialogue]]
+speaker_original = "セナリィ"
+speaker_translation = "세나리"
+original = "「そもそもの大失敗は、私たちを小娘と侮ったこと。覚悟はよろしくて？」"
+translation = "「애초에 큰 실패는 우리를 애송이라고 얕본 것. 각오는 되셨겠죠?」"
+
+[[dialogue]]
+speaker_original = "ネーゼマイン"
+speaker_translation = "네제마인"
+original = "「セナリィ、ちょい待ち☆」"
+translation = "「세나리, 잠깐만☆」"
+
+[[dialogue]]
+speaker_original = "セナリィ"
+speaker_translation = "세나리"
+original = "「なんですの、マイン。いいところなのに水を差さないでくださいな」"
+translation = "「뭔가요, 마인. 좋을 때인데 초치지 말아 주세요」"
+
+[[dialogue]]
+speaker_original = "エルデリーゼ"
+speaker_translation = "엘데리제"
+original = "「いいえ、ここはあえて水を差させていただきますわ」"
+translation = "「아니요, 여기는 일부러 초를 치겠어요」"
+
+[[dialogue]]
+speaker_original = "セナリィ"
+speaker_translation = "세나리"
+original = "「エルデリーゼ様！？」"
+translation = ""
+
+[[dialogue]]
+speaker_original = "依頼人Ｂ"
+speaker_translation = "依頼人Ｂ"
+original = "「エルデ──ということは……あんたは、桜十路の御令嬢っ……！？」"
+translation = "「엘데──라는 건…… 너는 사쿠라쥬지의 영애……!?」"
+
+[[dialogue]]
+speaker_original = "エルデリーゼ"
+speaker_translation = "엘데리제"
+original = "「ヒマワリ様とミウ様を捕まえようと追いかけていたら、ここに辿り着いてしまったのですけど……」"
+translation = "「히마와리님과 미우님을 잡으려고 쫓아가다 보니, 여기에 도달해 버렸습니다만……」"
+
+[[dialogue]]
+speaker_original = "エルデリーゼ"
+speaker_translation = "엘데리제"
+original = "「ここがゴールデングースの本拠地でお間違いありませんの？」"
+translation = "「여기가 골든 구스의 본거지가 맞나요?」"
+
+[[dialogue]]
+speaker_original = "依頼人Ａ"
+speaker_translation = "依頼人Ａ"
+original = "「そ、そうです、間違いありません！\u3000こ奴らが九浄家から盗みを働き──」"
+translation = "「그, 그렇습니다, 틀림없습니다! 이놈들이 쿠죠가에서 도둑질을──」"
+
+[[dialogue]]
+speaker_original = "エルデリーゼ"
+speaker_translation = "엘데리제"
+original = "「いいえ、お話は全て聞かせてもらいましたわ」"
+translation = "「아니요, 이야기는 전부 들었어요」"
+
+[[dialogue]]
+speaker_original = "エルデリーゼ"
+speaker_translation = "엘데리제"
+original = "「つまり、こちらの方々が諸悪の根源ということですわね？」"
+translation = "「즉, 이분들이 제반 악의 근원이라는 뜻이죠?」"
+
+[[dialogue]]
+speaker_original = "依頼人Ａ"
+speaker_translation = "依頼人Ａ"
+original = "「ひっ！？」"
+translation = "「히익!?」"
+
+[[dialogue]]
+speaker_original = "ネーゼマイン"
+speaker_translation = "네제마인"
+original = "「そうそう、こいつらが悪い奴ら～☆\u3000プスッとヤッちゃって♪」"
+translation = "「맞아 맞아, 이 녀석들이 나쁜 녀석들~☆ 푹 하고 해치워버려♪」"
+
+[[dialogue]]
+speaker_original = "エルデリーゼ"
+speaker_translation = "엘데리제"
+original = "「いたいけなヒマワリ様とミウ様はこの人たちに騙されて……何も悪くなかったのですわね……！」"
+translation = "「애달픈 히마와리님과 미우님은 이 사람들에게 속아서…… 아무것도 나쁘지 않았던 거군요……!」"
+
+[[dialogue]]
+speaker_original = "エルデリーゼ"
+speaker_translation = "엘데리제"
+original = "「それなのに私……私……！\u3000怒りマックスですわーっ！」"
+translation = "「그런데도 나…… 나……! 분노 맥스예요ー잇!」"
+
+[[dialogue]]
+speaker_original = "依頼人Ｂ"
+speaker_translation = "依頼人Ｂ"
+original = "「くっ……ふざけた格好しやがって……！」"
+translation = "「큭…… 장난친 차림을 하고서……!」"
+
+[[dialogue]]
+speaker_original = "エルデリーゼ"
+speaker_translation = "엘데리제"
+original = "「これっぽっちもふざけてなどいませんですわ！\u3000メイドをバカにする者は、メイドに泣くがいいですわー！」"
+translation = "「조금도 장난치지 않았어요! 메이드를 바보 취급하는 자는 메이드에게 우는 게 좋아요ー!」"
+
+[[dialogue]]
+speaker_original = "依頼人Ａ・Ｂ"
+speaker_translation = "依頼人Ａ・Ｂ"
+original = "「う、わあぁあぁぁぁぁっ！」"
+translation = "「으, 와아아아아아앗!」"
+
+[[dialogue]]
+speaker_original = "ネーゼマイン"
+speaker_translation = "네제마인"
+original = "「わ～ぉ、１人でやっつけちゃったね～」"
+translation = "「와~우, 혼자서 해치워버렸네~」"
+
+[[dialogue]]
+speaker_original = "セナリィ"
+speaker_translation = "세나리"
+original = "「人工戦闘服を完璧に使いこなしていましたわね……メイドに対しての理解を深めたから……かしら？」"
+translation = "「인공 전투복을 완벽하게 습득하고 있었군요…… 메이드에 대한 이해를 깊게 했기 때문……일까요?」"
+
+[[dialogue]]
+speaker_original = "ネーゼマイン"
+speaker_translation = "네제마인"
+original = "「ボロ雑巾のこいつらはウチで片づけるんで、セナリィ、まったね～☆」"
+translation = "「걸레짝이 된 이 녀석들은 우리 쪽에서 치울 테니까, 세나리, 또 봐~☆」"
+
+[[dialogue]]
+speaker_original = "セナリィ"
+speaker_translation = "세나리"
+original = "「まったく、マインはいつも美味しいとこだけ掻っ攫っていきますわね……」"
+translation = "「정말이지, 마인은 항상 맛있는 부분만 챙겨가네요……」"
+
+[[dialogue]]
+speaker_original = "ヒマワリ"
+speaker_translation = "히마와리"
+original = "「あの……社長、これで終わったんですか？」"
+translation = "「저기…… 사장님, 이걸로 끝난 건가요?」"
+
+[[dialogue]]
+speaker_original = "ミウ"
+speaker_translation = "미우"
+original = "「今回の件、全てご存じだったんですね」"
+translation = "「이번 건, 전부 알고 계셨던 거군요」"
+
+[[dialogue]]
+speaker_original = "セナリィ"
+speaker_translation = "세나리"
+original = "「ええ、そもそも今回の件は、最初に九浄家から依頼がありましたの」"
+translation = "「네, 애초에 이번 건은 처음에 쿠죠가에서 의뢰가 있었어요」"
+
+[[dialogue]]
+speaker_original = "セナリィ"
+speaker_translation = "세나리"
+original = "「人工戦闘服の秘密を狙う犯罪組織があり、その撲滅を計画しているので協力してほしい、と」"
+translation = "「인공 전투복의 비밀을 노리는 범죄 조직이 있어, 그 박멸을 계획하고 있으니 협력해 달라고요」"
+
+[[dialogue]]
+speaker_original = "セナリィ"
+speaker_translation = "세나리"
+original = "「意図的に偽の情報を漏らすことで、近い内にゴールデングースに九浄家への潜入調査の依頼が来るはず」"
+translation = "「의도적으로 가짜 정보를 흘림으로써, 조만간 골든 구스에 쿠죠가로의 침투 조사 의뢰가 올 터」"
+
+[[dialogue]]
+speaker_original = "セナリィ"
+speaker_translation = "세나리"
+original = "「なので、何も知らない体でそれを受けて欲しい、と」"
+translation = "「그러니, 아무것도 모르는 척 그것을 받아 달라고요」"
+
+[[dialogue]]
+speaker_original = "ミウ"
+speaker_translation = "미우"
+original = "「私たちが九浄家に潜入捜査しているように見せかけつつ、裏では依頼主の組織について調査を行っていた……と」"
+translation = "「우리가 쿠죠가에 침투 수사하고 있는 것처럼 보이게 하면서, 뒤에서는 의뢰주의 조직에 대해 조사를 진행하고 있었다……라는 건가요」"
+
+[[dialogue]]
+speaker_original = "ヒマワリ"
+speaker_translation = "히마와리"
+original = "「それでセキュリティがチョロくて、簡単に忍びこめたんだー！\u3000おかしいとは思ったんだよねー」"
+translation = "「그래서 보안이 허술해서 쉽게 몰래 들어갈 수 있었던 거구나ー! 이상하다고는 생각했거든ー」"
+
+[[dialogue]]
+speaker_original = "セナリィ"
+speaker_translation = "세나리"
+original = "「九浄家のセキュリティレベルは世界でも最高峰ですわ。本気になったら猫の子一匹、壁を越えることすらできませんわよ？」"
+translation = "「쿠죠가의 보안 수준은 세계에서도 최고봉이에요. 진심이 되면 고양이 한 마리 담을 넘는 것조차 못 해요」"
+
+[[dialogue]]
+speaker_original = "ミウ"
+speaker_translation = "미우"
+original = "「変だとは思っていたんです……もっと早く気付くべきでした……」"
+translation = "「이상하다고는 생각했어요…… 더 일찍 눈치챘어야 했는데……」"
+
+[[dialogue]]
+speaker_original = "セナリィ"
+speaker_translation = "세나리"
+original = "「あなたたちが九浄家で働いている間に、敵方の作戦の詳細を把握し──」"
+translation = "「당신들이 쿠죠가에서 일하는 동안 적의 작전 상세를 파악하고──」"
+
+[[dialogue]]
+speaker_original = "セナリィ"
+speaker_translation = "세나리"
+original = "「アジトの在り処を突き止めたところで、あなたたちが騒ぎを起こすように誘導」"
+translation = "「아지트 위치를 밝혀낸 시점에서 당신들이 소란을 일으키도록 유도」"
+
+[[dialogue]]
+speaker_original = "ヒマワリ"
+speaker_translation = "히마와리"
+original = "「ヘレナさんの部屋に簡単に入れたのもそういう事だったんですね……ってことは、あの時取ったデータも……」"
+translation = "「헬레나씨의 방에 쉽게 들어간 것도 그런 거였군요…… 그렇다는 건, 그때 빼낸 데이터도……」"
+
+[[dialogue]]
+speaker_original = "ミウ"
+speaker_translation = "미우"
+original = "「ダミーってことだよね……はぁぁ……どんどん自信がなくなっていきます……」"
+translation = "「더미라는 거네…… 하아아…… 점점 자신감이 없어져 가요……」"
+
+[[dialogue]]
+speaker_original = "セナリィ"
+speaker_translation = "세나리"
+original = "「あなたたちが期待通りに動いてくれたおかげで、犯罪組織も行動を起こした。それを待ち構えて、組織もろとも一網打尽にする、という作戦──」"
+translation = "「당신들이 기대대로 움직여 준 덕분에 범죄 조직도 행동을 일으켰다. 그것을 기다렸다가 조직째 일망타진한다는 작전──」"
+
+[[dialogue]]
+speaker_original = "セナリィ"
+speaker_translation = "세나리"
+original = "「見事、大成功！\u3000九浄家からの報酬もガッポガッポですわー！」"
+translation = "「멋지게 대성공! 쿠죠가로부터의 보수도 듬뿍듬뿍이에요ー!」"
+
+[[dialogue]]
+speaker_original = "セナリィ"
+speaker_translation = "세나리"
+original = "「とまぁ、結果オーライでしたけど、勇み足で勝手に依頼を受けたのはマイナス査定ですわね」"
+translation = "「뭐, 결과 오라이였습니다만, 섣부르게 마음대로 의뢰를 받은 건 감점 감점이네요」"
+
+[[dialogue]]
+speaker_original = "ヒマワリ"
+speaker_translation = "히마와리"
+original = "「う……ごめんなさい……」"
+translation = "「으…… 죄송해요……」"
+
+[[dialogue]]
+speaker_original = "ミウ"
+speaker_translation = "미우"
+original = "「申し訳ありません……でも、何も知らない私たちが上手くやれていなかったら、途中でプランが崩壊していたのでは……？」"
+translation = "「죄송합니다…… 하지만 아무것도 모르는 저희가 잘 해내지 못했다면 중간에 플랜이 붕괴하지 않았을까요……?」"
+
+[[dialogue]]
+speaker_original = "セナリィ"
+speaker_translation = "세나리"
+original = "「その時はその時でフレキシブルに対応しましたわ。実際、プランの変更は何度もおこなわれていましたの。あなたたちが想定していたよりも優秀だったお陰でね」"
+translation = "「그때는 그때대로 유연하게 대응했어요. 실제로 플랜 변경은 몇 번이고 이루어졌는걸요. 당신들이 예상했던 것보다 우수했던 덕분이죠」"
+
+[[dialogue]]
+speaker_original = "セナリィ"
+speaker_translation = "세나리"
+original = "「まったく……黙って依頼を受けたりせず、ちゃんと私に相談していれば満点でしたのに。会社組織では報・連・相が大事と教えてきましたわよね？」"
+translation = "「정말이지…… 얌전히 의뢰를 받지 않고 제대로 나에게 상담했다면 만점이었을 텐데요. 회사 조직에서는 보고·연락·상담이 중요하다고 가르쳐 왔죠?」"
+
+[[dialogue]]
+speaker_original = "ヒマワリ"
+speaker_translation = "히마와리"
+original = "「はい……次からは気をつけます」"
+translation = "「네…… 다음부터는 조심할게요」"
+
+[[dialogue]]
+speaker_original = "ミウ"
+speaker_translation = "미우"
+original = "「反省です……」"
+translation = "「반성입니다……」"
+
+[[dialogue]]
+speaker_original = "セナリィ"
+speaker_translation = "세나리"
+original = "「でも、あなたたちはちゃんと仕事をしてくれた。私の元でちゃんと成長してくれてるのを実感しました。とても嬉しく思いますわ」"
+translation = "「하지만 당신들은 제대로 일을 해 주었어요. 내 밑에서 제대로 성장해 주고 있다는 걸 실감했습니다. 매우 기쁘게 생각해요」"
+
+[[dialogue]]
+speaker_original = "ヒマワリ"
+speaker_translation = "히마와리"
+original = "「し、社長～～っ！\u3000ありがとうございます！」"
+translation = "「사, 사장니~~~~임! 감사합니다!」"
+
+[[dialogue]]
+speaker_original = "ミウ"
+speaker_translation = "미우"
+original = "「やっぱり私たちにはセナリィ社長が必要不可欠です！」"
+translation = "「역시 저희에게는 세나리 사장님이 없어서는 안 돼요!」"
+
+[[dialogue]]
+speaker_original = "セナリィ"
+speaker_translation = "세나리"
+original = "（ヒマワリとミウの勇み足も、ヘレナ様の計算の内だったそうですけど……）"
+translation = "(히마와리와 미우의 섣부른 행동도 헬레나님의 계산 속이었던 것 같지만……)"
+
+[[dialogue]]
+speaker_original = "セナリィ"
+speaker_translation = "세나리"
+original = "（あの方の掌の上で踊らされているようではまだまだ未熟ですわね。もっと成長していただきませんと）"
+translation = "(그분의 손바닥 위에서 놀아나고 있어서는 아직 미숙하네요. 더 성장해 주셔야겠어요)"
+
+[[dialogue]]
+speaker_original = "エルデリーゼ"
+speaker_translation = "엘데리제"
+original = "「あのー……ご指導は終わりましたですの？」"
+translation = "「저기ー…… 지도는 끝나셨나요?」"
+
+[[dialogue]]
+speaker_original = "セナリィ"
+speaker_translation = "세나리"
+original = "「ええ。エルデリーゼ様、協力してくださってありがとうございます」"
+translation = "「네. 엘데리제님, 협력해 주셔서 감사합니다」"
+
+[[dialogue]]
+speaker_original = "エルデリーゼ"
+speaker_translation = "엘데리제"
+original = "「私、事情を全然知りませんでしたの！\u3000でも、とってもドキドキしましたの」"
+translation = "「저, 사정을 전혀 몰랐어요! 하지만 정말 두근두근했어요」"
+
+[[dialogue]]
+speaker_original = "エルデリーゼ"
+speaker_translation = "엘데리제"
+original = "「ヒマワリ様にミウ様、事情も知らず、思いっきり攻撃を仕掛けてしまい申し訳ありませんでしたわ」"
+translation = "「히마와리님, 미우님, 사정도 모르고 마음껏 공격을 퍼부어 버려서 죄송했습니다」"
+
+[[dialogue]]
+speaker_original = "ミウ"
+speaker_translation = "미우"
+original = "「それはお互いさまです。私たちも何も知らなかったですし」"
+translation = "「그건 서로 마찬가지예요. 저희도 아무것도 몰랐고요」"
+
+[[dialogue]]
+speaker_original = "ヒマワリ"
+speaker_translation = "히마와리"
+original = "「こっちこそごめんなさいっ！\u3000へへ……なんか今回のあたしたち、謝ってばっかだね」"
+translation = "「이쪽이야말로 미안해! 헤헤…… 어쩐지 이번 우리, 사과만 하고 있네」"
+
+[[dialogue]]
+speaker_original = "エルデリーゼ"
+speaker_translation = "엘데리제"
+original = "「では、仲直りの印として……私とお友達になっていただけませんか？」"
+translation = "「그럼 화해의 증표로…… 저와 친구가 되어 주시지 않겠어요?」"
+
+[[dialogue]]
+speaker_original = "ヒマワリ"
+speaker_translation = "히마와리"
+original = "「はいっ！\u3000もちろん、喜んでですっ♪」"
+translation = "「네! 물론 기꺼이예요♪」"
+
+[[dialogue]]
+speaker_original = "ミウ"
+speaker_translation = "미우"
+original = "「これからもよろしくお願いします、エルデリーゼ先輩」"
+translation = "「앞으로도 잘 부탁드립니다, 엘데리제 선배」"
+
+[[dialogue]]
+speaker_original = "セナリィ"
+speaker_translation = "세나리"
+original = "「ふう……これにて一件落着、ですわね」"
+translation = "「후우…… 이걸로 사건 해결,이네요」"
+
+[[dialogue]]
+speaker_original = "セナリィ"
+speaker_translation = "세나리"
+original = "「さすがにゴールデングースを抜けて、九浄家で働く、という流れになった時は驚きましたけど」"
+translation = "「아무래도 골든 구스를 나가서 쿠죠가에서 일한다는 흐름이 되었을 때는 놀랐지만요」"
+
+[[dialogue]]
+speaker_original = "ネーゼマイン"
+speaker_translation = "네제마인"
+original = "「ずいぶん心配してたもんね～、２人が本当に九浄家に引き抜かれるんじゃないかって」"
+translation = "「엄청 걱정했었잖아~, 둘이 정말 쿠죠가에 스카우트되는 거 아닌가 하고」"
+
+[[dialogue]]
+speaker_original = "セナリィ"
+speaker_translation = "세나리"
+original = "「マイン！？\u3000帰ったんじゃなかったんですの！？\u3000余計なことは言わなくて結構ですわ！」"
+translation = "「마인!? 돌아간 거 아니었나요!? 쓸데없는 말은 안 해도 돼요!」"
+
+[[dialogue]]
+speaker_original = "ミウ"
+speaker_translation = "미우"
+original = "「まさか私たちが社長を裏切るわけないじゃないですか」"
+translation = "「설마 저희가 사장님을 배신할 리가 없잖아요」"
+
+[[dialogue]]
+speaker_original = "ヒマワリ"
+speaker_translation = "히마와리"
+original = "「これからもずっと社長についていきます！」"
+translation = "「앞으로도 계속 사장님을 따라가겠습니다!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "社員同士の結束が、より強固なものとなった秘密結社ゴールデングース。"
+translation = "사원끼리의 결속이 더욱 강고해진 비밀결사 골든 구스."
+
+[[dialogue]]
+speaker = "unk"
+original = "発展途上な金の卵を抱えるゴールデングースの未来は、希望の光で輝いている。"
+translation = "발전 도상인 황금 알을 품은 골든 구스의 미래는 희망의 빛으로 반짝이고 있다."
+

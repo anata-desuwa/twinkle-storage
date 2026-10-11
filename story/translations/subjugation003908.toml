@@ -1,17 +1,17 @@
 [[dialogue]]
 speaker = "unk"
 original = "果たして、ヨミと狛里の２人により、ライカンスウォームのボス個体は討伐された。"
-translation = "결국 요미와 코마리 두 사람에 의해 라이칸 스웜의 보스 개체는 토벌되었다."
+translation = "과연, 요미와 코마리 두 사람에 의해, 라이칸 스웜의 보스 개체는 토벌되었다."
 
 [[dialogue]]
 speaker = "unk"
 original = "その後、増殖が止まった群れについても、学園の星騎士たちによって無事に全滅させることができた。"
-translation = "그 후 증식이 멈춘 무리에 대해서도 학원의 성기사들에 의해 무사히 전멸시킬 수 있었다."
+translation = "그 후, 증식이 멈춘 무리에 대해서도, 학원의 성기사들에 의해 무사히 전멸시킬 수 있었다."
 
 [[dialogue]]
 speaker = "unk"
 original = "それから数日後。"
-translation = "그리고 며칠 후."
+translation = "그로부터 며칠 후."
 
 [[dialogue]]
 speaker_original = "狛里"
@@ -23,13 +23,13 @@ translation = "「요미 선배! 부탁받았던 청소, 끝난 것입니다!」
 speaker_original = "ヨミ"
 speaker_translation = "요미"
 original = "「狛里、ありがとうございます」"
-translation = "「코마리, 고맙습니다.」"
+translation = "「코마리, 감사합니다」"
 
 [[dialogue]]
 speaker_original = "ヨミ"
 speaker_translation = "요미"
 original = "「……あっ、そこの隅っこの窓、拭き忘れがありますね」"
-translation = "「……앗, 저기 구석에 있는 창문, 닦는 걸 잊으셨네요.」"
+translation = "「……앗, 거기 구석의 창문, 닦는 걸 잊으셨네요」"
 
 [[dialogue]]
 speaker_original = "狛里"
@@ -47,31 +47,31 @@ translation = "「정, 정말인 것입니다! 죄송한 것입니다……」"
 speaker_original = "ヨミ"
 speaker_translation = "요미"
 original = "「ですが、以前よりミスが減って、丁寧な仕事ができていると感じますよ！」"
-translation = "「하지만 이전보다 실수도 줄고 꼼꼼하게 잘 해내고 있다고 느껴져요!」"
+translation = "「하지만, 이전보다 실수도 줄고, 정성스러운 일을 하고 있다고 느껴요!」"
 
 [[dialogue]]
 speaker_original = "狛里"
 speaker_translation = "狛里"
 original = "「えへへっ♪\u3000本当でありますか……？\u3000ヨミ先輩にそう言ってもらえると、嬉しいのです！」"
-translation = "「에헤헤♪ 정말인 것입니까……? 요미 선배에게 그런 말을 들으니 기쁜 것입니다!」"
+translation = "「에헤헤♪ 정말인 것입니까……? 요미 선배에게 그런 말을 들으니, 기쁜 것입니다!」"
 
 [[dialogue]]
 speaker_original = "狛里"
 speaker_translation = "狛里"
 original = "「実は最近、お仕事が終わった後に『見直しの時間』を作るようにしているのです！」"
-translation = "「사실 최근에는 일이 끝난 후에 『검토 시간』을 만들도록 하고 있는 것입니다!」"
+translation = "「사실 최근, 일이 끝난 후에 『재확인 시간』을 만들도록 하고 있는 것입니다!」"
 
 [[dialogue]]
 speaker_original = "ヨミ"
 speaker_translation = "요미"
 original = "「なるほど。凄くいいことだと思います」"
-translation = "「그렇군요. 아주 좋은 일이라고 생각해요.」"
+translation = "「그렇군요. 아주 좋은 일이라고 생각합니다」"
 
 [[dialogue]]
 speaker_original = "ヨミ"
 speaker_translation = "요미"
 original = "「焦らなくても、狛里は十分頑張っていますから。この調子で行きましょう！」"
-translation = "「서두르지 않아도 코마리는 충분히 노력하고 있으니까요. 이 기세로 가기로 해요!」"
+translation = "「조급해하지 않아도, 코마리는 충분히 노력하고 있으니까요. 이 기세로 가봅시다!」"
 
 [[dialogue]]
 speaker_original = "狛里"
@@ -82,12 +82,12 @@ translation = "「네인 것입니다!」"
 [[dialogue]]
 speaker = "unk"
 original = "狛里は嬉しそうに尻尾を振る。"
-translation = "코마리는 기쁜 듯이 꼬리를 흔든다."
+translation = "코마리는 기쁜 듯이 꼬리를 친다."
 
 [[dialogue]]
 speaker = "unk"
 original = "その様子を見て、ヨミも少し嬉しくなるのだった。"
-translation = "그 모습을 보고 요미도 조금 기뻐지는 것이었다."
+translation = "그 모습을 보고, 요미도 조금 기뻐지는 것이었다."
 
 [[dialogue]]
 speaker = "unk"
@@ -119,314 +119,314 @@ translation = "코, 코마리, 남들 앞에서는 부끄럽다고!"
 [[dialogue]]
 speaker = "unk"
 original = "狛里は俺の隣へやって来ると、べったりと体をひっつけて頭や腋の匂いを嗅ぎ始めた。"
-translation = ""
+translation = "코마리는 내 옆으로 오더니, 찰싹 몸을 붙이고 머리와 겨드랑이 냄새를 맡기 시작했다."
 
 [[dialogue]]
 speaker_original = "狛里"
 speaker_translation = "狛里"
 original = "「えへへっ、今日も魔王様はいい匂いがするのです♪」"
-translation = ""
+translation = "「에헤헤, 오늘도 마왕님은 좋은 냄새가 나는 것입니다♪」"
 
 [[dialogue]]
 speaker_original = "ヨミ"
 speaker_translation = "요미"
 original = "「こややっ！？\u3000こ、狛里！\u3000お昼休憩だからといって、会長にくっ付き過ぎです！」"
-translation = ""
+translation = "「코야얏!? 코, 코마리! 점심 휴식이라고 해서, 회장님에게 너무 들러붙어 있습니다!」"
 
 [[dialogue]]
 speaker_original = "狛里"
 speaker_translation = "狛里"
 original = "「ばうわふっ♪\u3000だって魔王様の匂い、大好きなんですもん♪」"
-translation = ""
+translation = "「바우와프♪ 그치만 마왕님의 냄새, 너무 좋아하는걸요♪」"
 
 [[dialogue]]
 speaker_original = "ヨミ"
 speaker_translation = "요미"
 original = "「め、メイドたるもの、節度は必要ですよ！」"
-translation = ""
+translation = "「메, 메이드로서 절도는 필요하다고요!」"
 
 [[dialogue]]
 speaker_original = "狛里"
 speaker_translation = "狛里"
 original = "「は～い♪」"
-translation = ""
+translation = "「네~♪」"
 
 [[dialogue]]
 speaker_original = "ヨミ"
 speaker_translation = "요미"
 original = "「返事だけは素直なんですから、もう……」"
-translation = ""
+translation = "「대답 하나는 솔직하니까, 정말……」"
 
 [[dialogue]]
 speaker_original = "狛里"
 speaker_translation = "狛里"
 original = "「てへへ♪」"
-translation = ""
+translation = "「테헤헤♪」"
 
 [[dialogue]]
 speaker = "unk"
 original = "狛里の尻尾が、楽しそうにパタパタと振られる。"
-translation = ""
+translation = "코마리의 꼬리가, 즐거운 듯이 찰싹찰싹 흔들린다."
 
 [[dialogue]]
 speaker = "unk"
 original = "ヨミも狛里にすっかり懐かれてるな"
-translation = ""
+translation = "요미도 코마리에게 완전히 정들었네"
 
 [[dialogue]]
 speaker_original = "ヨミ"
 speaker_translation = "요미"
 original = "「あはは……。威厳がなくて、いいのか悪いのか」"
-translation = ""
+translation = "「아하하……. 위엄이 없어서, 좋은 건지 나쁜 건지」"
 
 [[dialogue]]
 speaker_original = "ヨミ"
 speaker_translation = "요미"
 original = "「それでは一緒に、本日の料理練習を始めましょう！」"
-translation = ""
+translation = "「그러면 함께, 오늘의 요리 연습을 시작해요!」"
 
 [[dialogue]]
 speaker_original = "狛里"
 speaker_translation = "狛里"
 original = "「了解であります！」"
-translation = ""
+translation = "「라져인 것입니다!」"
 
 [[dialogue]]
 speaker_original = "狛里"
 speaker_translation = "狛里"
 original = "「今日は肉じゃがなのですね！」"
-translation = ""
+translation = "「오늘은 감자조림인 거네요!」"
 
 [[dialogue]]
 speaker_original = "ヨミ"
 speaker_translation = "요미"
 original = "「はい。メイド長から教わった内容を思い出して――」"
-translation = ""
+translation = "「네. 메이드장에게 배운 내용을 떠올려서――」"
 
 [[dialogue]]
 speaker_original = "ヨミ"
 speaker_translation = "요미"
 original = "「……あれ？」"
-translation = ""
+translation = "「……어라?」"
 
 [[dialogue]]
 speaker_original = "狛里"
 speaker_translation = "狛里"
 original = "「ヨミ先輩？」"
-translation = ""
+translation = "「요미 선배?」"
 
 [[dialogue]]
 speaker_original = "ヨミ"
 speaker_translation = "요미"
 original = "「そのぉ……じゃがいもって、先に入れるんでしたっけ？」"
-translation = ""
+translation = "「그으…… 감자는, 먼저 넣는 거였던가요?」"
 
 [[dialogue]]
 speaker_original = "狛里"
 speaker_translation = "狛里"
 original = "「え？」"
-translation = ""
+translation = "「에?」"
 
 [[dialogue]]
 speaker_original = "ヨミ"
 speaker_translation = "요미"
 original = "「お肉が先でしたっけ……？」"
-translation = ""
+translation = "「고기가 먼저였던가요……?」"
 
 [[dialogue]]
 speaker_original = "狛里"
 speaker_translation = "狛里"
 original = "「え？」"
-translation = ""
+translation = "「에?」"
 
 [[dialogue]]
 speaker_original = "ヨミ"
 speaker_translation = "요미"
 original = "「…………」"
-translation = ""
+translation = "「…………」"
 
 [[dialogue]]
 speaker_original = "狛里"
 speaker_translation = "狛里"
 original = "「…………」"
-translation = ""
+translation = "「…………」"
 
 [[dialogue]]
 speaker_original = "ヨミ"
 speaker_translation = "요미"
 original = "「こやぁ～～っ！？」"
-translation = ""
+translation = "「고야아~~!?」"
 
 [[dialogue]]
 speaker_original = "ヨミ"
 speaker_translation = "요미"
 original = "「わ、忘れてしまいました～～っ！！」"
-translation = ""
+translation = "「까, 깜빡해 버렸습니다~~!!」"
 
 [[dialogue]]
 speaker_original = "狛里"
 speaker_translation = "狛里"
 original = "「だ、大丈夫なのです！」"
-translation = ""
+translation = "「괜, 괜찮은 것입니다!」"
 
 [[dialogue]]
 speaker_original = "狛里"
 speaker_translation = "狛里"
 original = "「狛里、ちゃんとメモしてあるのです！」"
-translation = ""
+translation = "「코마리, 제대로 메모해 둔 것입니다!」"
 
 [[dialogue]]
 speaker = "unk"
 original = "狛里は懐からメモ帳を取り出す。"
-translation = ""
+translation = "코마리는 품에서 메모장을 꺼낸다."
 
 [[dialogue]]
 speaker_original = "ヨミ"
 speaker_translation = "요미"
 original = "「助かります……！」"
-translation = ""
+translation = "「살았습니다……!」"
 
 [[dialogue]]
 speaker_original = "狛里"
 speaker_translation = "狛里"
 original = "「先輩、できない時は狛里を頼ってくださいなのです」"
-translation = ""
+translation = "「선배, 못 할 때는 코마리를 의지하는 것입니다」"
 
 [[dialogue]]
 speaker_original = "狛里"
 speaker_translation = "狛里"
 original = "「狛里も、できない時はヨミ先輩を頼るのですから！」"
-translation = ""
+translation = "「코마리도 못 할 때는 요미 선배를 의지할 테니까요!」"
 
 [[dialogue]]
 speaker_original = "ヨミ"
 speaker_translation = "요미"
 original = "「……ふふっ」"
-translation = ""
+translation = "「……후훗」"
 
 [[dialogue]]
 speaker = "unk"
 original = "ヨミは少し照れながら笑った。"
-translation = ""
+translation = "요미는 조금 수줍어하며 웃었다."
 
 [[dialogue]]
 speaker_original = "ヨミ"
 speaker_translation = "요미"
 original = "「そうですね」"
-translation = ""
+translation = "「그렇네요」"
 
 [[dialogue]]
 speaker_original = "ヨミ"
 speaker_translation = "요미"
 original = "「私も、まだまだ未熟です」"
-translation = ""
+translation = "「저도 아직 미숙해요」"
 
 [[dialogue]]
 speaker_original = "ヨミ"
 speaker_translation = "요미"
 original = "「でも――」"
-translation = ""
+translation = "「하지만──」"
 
 [[dialogue]]
 speaker_original = "ヨミ"
 speaker_translation = "요미"
 original = "「狛里が安心して頼れるような先輩になれるよう、これからも頑張ります」"
-translation = ""
+translation = "「코마리가 안심하고 의지할 수 있는 선배가 될 수 있도록 앞으로도 노력하겠어요」"
 
 [[dialogue]]
 speaker_original = "狛里"
 speaker_translation = "狛里"
 original = "「はいっ！」"
-translation = ""
+translation = "「네!」"
 
 [[dialogue]]
 speaker_original = "狛里"
 speaker_translation = "狛里"
 original = "「狛里も、そんな先輩を頼ってもらえるような、立派な後輩になるのです！」"
-translation = ""
+translation = "「코마리도 그런 선배가 의지할 수 있는 훌륭한 후배가 되는 것입니다!」"
 
 [[dialogue]]
 speaker = "unk"
 original = "２人は顔を見合わせる。そして――"
-translation = ""
+translation = "두 사람은 서로를 바라본다. 그리고──"
 
 [[dialogue]]
 speaker_original = "ヨミ＆狛里"
 speaker_translation = "ヨミ＆狛里"
 original = "「あははっ♪」"
-translation = ""
+translation = "「아하하♪」"
 
 [[dialogue]]
 speaker = "unk"
 original = "楽しそうな笑い声が厨房に響く。"
-translation = ""
+translation = "즐거운 웃음소리가 주방에 울려 퍼진다."
 
 [[dialogue]]
 speaker_original = "ヘレナ"
 speaker_translation = "헬레나"
 original = "「ふむ」"
-translation = ""
+translation = "「흠」"
 
 [[dialogue]]
 speaker_original = "ヘレナ"
 speaker_translation = "헬레나"
 original = "「ヨミも、少しは先輩らしくなったようだな」"
-translation = ""
+translation = "「요미도 조금은 선배답게 된 모양이구나」"
 
 [[dialogue]]
 speaker_original = "蘭美"
 speaker_translation = "라미"
 original = "「はい。まだまだ未熟ですけど……」"
-translation = ""
+translation = "「네. 아직 미숙하지만요……」"
 
 [[dialogue]]
 speaker_original = "蘭美"
 speaker_translation = "라미"
 original = "「先輩は後輩に教えて、一緒に成長していくものですから♪」"
-translation = ""
+translation = "「선배는 후배에게 가르쳐 주며, 함께 성장해 가는 법이니까요♪」"
 
 [[dialogue]]
 speaker_original = "ヘレナ"
 speaker_translation = "헬레나"
 original = "「であるな。狛里も一歩、良き方向へ進めたようだ」"
-translation = ""
+translation = "「그렇지. 코마리도 한 걸음, 좋은 방향으로 나아간 듯하군」"
 
 [[dialogue]]
 speaker = "unk"
 original = "ヨミと狛里を影から見守りながら、微笑む２人。"
-translation = ""
+translation = "요미와 코마리를 그림자 속에서 지켜보며, 미소 짓는 두 사람."
 
 [[dialogue]]
 speaker_original = "ヨミ"
 speaker_translation = "요미"
 original = "「狛里、次は買い出しの復習をしますよ」"
-translation = ""
+translation = "「코마리, 다음은 장보기에 대해 복습하겠어요」"
 
 [[dialogue]]
 speaker_original = "狛里"
 speaker_translation = "狛里"
 original = "「はいっ！\u3000ちゃんとメモも持ってきたのです！」"
-translation = ""
+translation = "「네! 메모도 제대로 챙겨 온 것이에요!」"
 
 [[dialogue]]
 speaker_original = "ヨミ"
 speaker_translation = "요미"
 original = "「バッチリですね♪\u3000それでは一緒に行きましょう！」"
-translation = ""
+translation = "「완벽하네요♪ 그러면 함께 가요!」"
 
 [[dialogue]]
 speaker_original = "狛里"
 speaker_translation = "狛里"
 original = "「かしこまりましたであります！」"
-translation = ""
+translation = "「알겠습니다인 것입니다!」"
 
 [[dialogue]]
 speaker = "unk"
 original = "以前より少しだけ先輩らしくなったヨミと、前より落ち着いて人を頼れるようになった狛里。"
-translation = ""
+translation = "이전보다 조금은 선배다워진 요미와, 전보다 진정하고 남에게 의지할 수 있게 된 코마리."
 
 [[dialogue]]
 speaker = "unk"
 original = "九浄家メイド隊の２人は、仲良く並んで歩き出すのだった。"
-translation = ""
+translation = "쿠죠가 메이드대의 두 사람은, 사이좋게 나란히 걸어가기 시작하는 것이었다."
 

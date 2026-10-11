@@ -1,0 +1,403 @@
+[[dialogue]]
+speaker = "unk"
+original = "次の日。"
+translation = "다음 날."
+
+[[dialogue]]
+speaker = "unk"
+original = "ヨミは料理が苦手で指導できない為、代役が立つことになった。"
+translation = "요미는 요리를 못해서 지도할 수 없었기에, 대역이 서게 되었다."
+
+[[dialogue]]
+speaker_original = "蘭美"
+speaker_translation = "라미"
+original = "「――というわけで、メイド長である私の出番よ！」"
+translation = "「――그런 이유로, 메이드장인 나의 등장이야!」"
+
+[[dialogue]]
+speaker_original = "狛里"
+speaker_translation = "狛里"
+original = "「ばうわふっ♪\u3000よろしくお願いするであります、蘭美メイド長！」"
+translation = "「바우와후♪ 잘 부탁드리는 바입니다, 라비 메이드장!」"
+
+[[dialogue]]
+speaker_original = "蘭美"
+speaker_translation = "라미"
+original = "「任せなさい！\u3000狛里が最速で最強の料理ができるように指導してあげるわ！」"
+translation = "「맡겨 두렴! 코마리가 최속이자 최강의 요리를 할 수 있도록 지도해 줄 테니까!」"
+
+[[dialogue]]
+speaker_original = "蘭美"
+speaker_translation = "라미"
+original = "「ヨミ、あなたもそのうち自分で料理を教えられるように、ちゃんと見ておきなさい！」"
+translation = "「요미, 너도 조만간 스스로 요리를 가르칠 수 있도록, 잘 보고 있으렴!」"
+
+[[dialogue]]
+speaker_original = "ヨミ"
+speaker_translation = "요미"
+original = "「はいっ、学ばせて頂きます！」"
+translation = "「네, 배움의 기회로 삼겠습니다!」"
+
+[[dialogue]]
+speaker_original = "ヘレナ"
+speaker_translation = "헬레나"
+original = "「ヨミヨミ、狛里の様子はどうだ？」"
+translation = "「요미요미, 코마리의 상태는 어떠냐?」"
+
+[[dialogue]]
+speaker_original = "ヨミ"
+speaker_translation = "요미"
+original = "「あっ。ご当主様、お疲れ様です」"
+translation = "「아. 당주님, 수고 많으십니다」"
+
+[[dialogue]]
+speaker_original = "ヨミ"
+speaker_translation = "요미"
+original = "「狛里さんはやる気があって、頑張っていると思います。今は煮物――『肉じゃが』を作っているところなんですが……」"
+translation = "「코마리 씨는 의욕이 있어서, 열심히 하고 있다고 생각해요. 지금은 조림―― 『고기조림』을 만들고 있는 참입니다만……」"
+
+[[dialogue]]
+speaker_original = "蘭美"
+speaker_translation = "라미"
+original = "「狛里、具材の切り方が雑よ！\u3000速いのはいいことだけど、最初は丁寧に切ることから意識なさい！」"
+translation = "「코마리, 재료 썰기가 엉성해! 빠른 건 좋지만, 처음에는 정성껏 써는 것부터 의식하렴!」"
+
+[[dialogue]]
+speaker_original = "狛里"
+speaker_translation = "狛里"
+original = "「はいっ！\u3000かしこまりましたであります！」"
+translation = "「네! 잘 알겠는 바입니다!」"
+
+[[dialogue]]
+speaker_original = "ヘレナ"
+speaker_translation = "헬레나"
+original = "「ふむ……」"
+translation = "「흠……」"
+
+[[dialogue]]
+speaker_original = "ヘレナ"
+speaker_translation = "헬레나"
+original = "「ヨミよ、少し耳を貸せ」"
+translation = "「요미여, 귀 좀 내밀어 봐라」"
+
+[[dialogue]]
+speaker_original = "ヨミ"
+speaker_translation = "요미"
+original = "「はい、なんでしょうか？」"
+translation = "「네, 무슨 일이신가요?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ヨミがヘレナに近づき、耳を口元に寄せると……"
+translation = "요미가 헬레나에게 다가가, 입가에 귀를 대자……"
+
+[[dialogue]]
+speaker_original = "ヘレナ"
+speaker_translation = "헬레나"
+original = "「……狛里は作業スピードを上げすぎていて、今の自分の<ruby>処理能力<rt>キャパシティー</rt></ruby>を超える仕事をやろうとしてしまっている」"
+translation = "「……코마리는 작업 속도를 너무 올려서, 지금 자신의 <ruby>처리 능력<rt>캐퍼시티</rt></ruby>을 넘어서는 일을 하려고 해버리고 있어」"
+
+[[dialogue]]
+speaker_original = "ヨミ"
+speaker_translation = "요미"
+original = "「……！」"
+translation = "「……!」"
+
+[[dialogue]]
+speaker_original = "ヘレナ"
+speaker_translation = "헬레나"
+original = "「頑張るのはよいことだが、その結果、処理が追い付かずに小さなミスが発生してしまっている、であろう？」"
+translation = "「열심히 하는 건 좋은 일이지만, 그 결과, 처리가 쫓아가지 못해 작은 실수가 발생하고 있잖아?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ヘレナの言葉に、ヨミは小さくうなずく。"
+translation = "헬레나의 말에, 요미는 작게 고개를 끄덕인다."
+
+[[dialogue]]
+speaker = "unk"
+original = "どうやらヘレナは、ヨミがその問題点に気づきつつも、先輩として上手く指導しきれていないことまで見抜いているようだった。"
+translation = "아무래도 헬레나는, 요미가 그 문제점을 깨달으면서도, 선배로서 제대로 지도해 내지 못하고 있다는 것까지 간파하고 있는 듯했다."
+
+[[dialogue]]
+speaker_original = "ヘレナ"
+speaker_translation = "헬레나"
+original = "「それが癖づいてしまうと、後々大きなミスに繋がってしまう可能性も、あるだろうな」"
+translation = "「그게 습관이 되어 버리면, 나중에 큰 실수로 이어질 가능성도 있겠지」"
+
+[[dialogue]]
+speaker_original = "ヨミ"
+speaker_translation = "요미"
+original = "「やっぱり……そう、ですよね」"
+translation = "「역시…… 그렇죠」"
+
+[[dialogue]]
+speaker_original = "ヘレナ"
+speaker_translation = "헬레나"
+original = "「だからヨミよ。教育係として、『それは良くないことだ』とちゃんと伝えておいてもらえるか？」"
+translation = "「그러니 요미여. 교육 담당으로서, 『그건 좋지 않은 일이다』라고 제대로 전달해 두어 주겠나?」"
+
+[[dialogue]]
+speaker_original = "ヨミ"
+speaker_translation = "요미"
+original = "「はい、わかりました！」"
+translation = "「네, 알겠습니다!」"
+
+[[dialogue]]
+speaker_original = "ヘレナ"
+speaker_translation = "헬레나"
+original = "「頼んだぞ」"
+translation = "「부탁하마」"
+
+[[dialogue]]
+speaker = "unk"
+original = "そう言ってヘレナはヨミの肩をポンと叩くと、柔らかく微笑んで、その場を去ってゆくのだった。"
+translation = "그렇게 말하며 헬레나는 요미의 어깨를 탁 치고는, 부드럽게 미소 지으며 자리를 떠나는 것이었다."
+
+[[dialogue]]
+speaker_original = "ヨミ"
+speaker_translation = "요미"
+original = "「狛里さん、少しいいですか？」"
+translation = "「코마리 씨, 잠시 괜찮으신가요?」"
+
+[[dialogue]]
+speaker_original = "狛里"
+speaker_translation = "狛里"
+original = "「ばうわふっ♪\u3000ヨミ先輩、なんでありますか？」"
+translation = "「바우와후♪ 요미 선배, 무슨 일이신가요?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "肉じゃがの調理が終わったタイミングを見計らい、ヨミは狛里に声をかける。"
+translation = "고기조림 조리가 끝난 타이밍을 가늠해, 요미는 코마리에게 말을 건다."
+
+[[dialogue]]
+speaker_original = "ヨミ"
+speaker_translation = "요미"
+original = "「メイド長と料理を作っている様子を見させてもらっていたんですが……ちょっと気になることがありまして」"
+translation = "「메이드장과 요리를 만드는 모습을 지켜보고 있었습니다만…… 조금 신경 쓰이는 점이 있어서요」"
+
+[[dialogue]]
+speaker_original = "狛里"
+speaker_translation = "狛里"
+original = "「気になること？」"
+translation = "「신경 쓰이는 점요?」"
+
+[[dialogue]]
+speaker_original = "ヨミ"
+speaker_translation = "요미"
+original = "「はい。狛里さんは……目の前の仕事を早く終わらせて、次の仕事に移ろうという意識が強いように思います」"
+translation = "「네. 코마리 씨는…… 눈앞의 일을 일찍 끝내고, 다음 일로 넘어가려는 의식이 강하다고 생각해요」"
+
+[[dialogue]]
+speaker_original = "ヨミ"
+speaker_translation = "요미"
+original = "「その結果、小さなミスが出てしまっているのは……良くない傾向だと思うんです」"
+translation = "「그 결과, 작은 실수가 나와 버리는 건…… 좋지 않은 경향이라고 생각해요」"
+
+[[dialogue]]
+speaker_original = "ヨミ"
+speaker_translation = "요미"
+original = "「頑張ろうとしているのは伝わってきます」"
+translation = "「열심히 하려는 건 전해져 와요」"
+
+[[dialogue]]
+speaker_original = "ヨミ"
+speaker_translation = "요미"
+original = "「でも、急ぎ過ぎているようにも見えて……」"
+translation = "「하지만, 너무 서두르고 있는 것처럼 보이기도 해서……」"
+
+[[dialogue]]
+speaker_original = "狛里"
+speaker_translation = "狛里"
+original = "「ごめんなさいなのです！」"
+translation = "「죄송한 것입니다!」"
+
+[[dialogue]]
+speaker_original = "狛里"
+speaker_translation = "狛里"
+original = "「でも――狛里、新人さんなのです。だから、誰よりもいっぱい頑張らなきゃって思うのです！」"
+translation = "「하지만―― 코마리, 신인인 것입니다. 그러니까, 누구보다 훨씬 열심히 해야 한다고 생각하는 것입니다!」"
+
+[[dialogue]]
+speaker_original = "ヨミ"
+speaker_translation = "요미"
+original = "「えっ……」"
+translation = "「앗……」"
+
+[[dialogue]]
+speaker_original = "狛里"
+speaker_translation = "狛里"
+original = "「もちろん、ミスは減らせるように頑張るのです！」"
+translation = "「물론, 실수는 줄일 수 있도록 노력하는 것입니다!」"
+
+[[dialogue]]
+speaker_original = "狛里"
+speaker_translation = "狛里"
+original = "「今ミスが多いのは、まだまだ狛里の頑張りが足らないからなのです！\u3000頑張って頑張って、頑張れば！\u3000狛里はもっとできるようになるのであります！」"
+translation = "「지금 실수가 많은 건, 아직 코마리의 노력이 부족하기 때문인 것입니다! 열심히 하고, 열심히 해서, 노력하면! 코마리는 더 잘할 수 있게 되는 바입니다!」"
+
+[[dialogue]]
+speaker_original = "ヨミ"
+speaker_translation = "요미"
+original = "「……そう、ですね」"
+translation = "「……그렇, 겠네요」"
+
+[[dialogue]]
+speaker_original = "ヨミ"
+speaker_translation = "요미"
+original = "「その気持ちは、とても大切だと思います」"
+translation = "「그 마음은, 매우 중요하다고 생각해요」"
+
+[[dialogue]]
+speaker_original = "ヨミ"
+speaker_translation = "요미"
+original = "「だけど……その……」"
+translation = "「하지만…… 그……」"
+
+[[dialogue]]
+speaker_original = "ヨミ"
+speaker_translation = "요미"
+original = "「ミスだけは、気を付けて下さいね」"
+translation = "「실수만큼은, 조심해 주세요」"
+
+[[dialogue]]
+speaker_original = "狛里"
+speaker_translation = "狛里"
+original = "「はいっ、かしこまりましたであります！」"
+translation = "「네, 잘 알겠는 바입니다!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "狛里は元気よく、ビシッと敬礼をしながら答えてみせるのだった。"
+translation = "코마리는 씩씩하게, 딱 소리가 나게 경례를 하며 대답해 보이는 것이었다."
+
+[[dialogue]]
+speaker = "unk"
+original = "蘭美による料理指導が終わった後。"
+translation = "라비에 의한 요리 지도가 끝난 뒤."
+
+[[dialogue]]
+speaker_original = "ヨミ"
+speaker_translation = "요미"
+original = "「はあぁあぁ……」"
+translation = "「하아아아……」"
+
+[[dialogue]]
+speaker_original = "蘭美"
+speaker_translation = "라미"
+original = "「珍しく大きなため息じゃない！\u3000どうかしたの、ヨミ？」"
+translation = "「왠일로 큰 한숨을 쉬네! 무슨 일 있니, 요미?」"
+
+[[dialogue]]
+speaker_original = "ヨミ"
+speaker_translation = "요미"
+original = "「あっ、メイド長」"
+translation = "「아, 메이드장」"
+
+[[dialogue]]
+speaker_original = "蘭美"
+speaker_translation = "라미"
+original = "「料理指導の途中で狛里に声をかけていたみたいだけど……何かあったのかしら？」"
+translation = "「요리 지도 도중에 코마리에게 말을 거는 것 같던데…… 무슨 일이라도 있었니?」"
+
+[[dialogue]]
+speaker_original = "ヨミ"
+speaker_translation = "요미"
+original = "「はい、実は……」"
+translation = "「네, 실은……」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ヨミは先程の狛里とのやり取りを説明する。"
+translation = "요미는 조금 전 코마리와의 주고받았던 대화를 설명한다."
+
+[[dialogue]]
+speaker_original = "ヨミ"
+speaker_translation = "요미"
+original = "「狛里さんは悪気があったわけじゃないと思うんです」"
+translation = "「코마리 씨는 악의가 있었던 게 아니라고 생각해요」"
+
+[[dialogue]]
+speaker_original = "ヨミ"
+speaker_translation = "요미"
+original = "「でも私の言葉は、ちゃんと伝わっていない気がして……」"
+translation = "「하지만 제 말은, 제대로 전달되지 않은 느낌이 들어서……」"
+
+[[dialogue]]
+speaker_original = "ヨミ"
+speaker_translation = "요미"
+original = "「それなのに私、そこで強く言えませんでした」"
+translation = "「그런데도 저, 거기서 강하게 말하지 못했어요」"
+
+[[dialogue]]
+speaker_original = "蘭美"
+speaker_translation = "라미"
+original = "「どうして？」"
+translation = "「어째서?」"
+
+[[dialogue]]
+speaker_original = "ヨミ"
+speaker_translation = "요미"
+original = "「その……もしかしたら、間違っているのは私なのかもって……」"
+translation = "「그…… 어쩌면, 틀린 건 내가 아닐까 싶어서……」"
+
+[[dialogue]]
+speaker_original = "ヨミ"
+speaker_translation = "요미"
+original = "「自分の言葉に自信が持てなくなっちゃったから、だと思います」"
+translation = "「제 말에 확신을 가질 수 없게 되어 버렸기 때문이라고 생각해요」"
+
+[[dialogue]]
+speaker_original = "ヨミ"
+speaker_translation = "요미"
+original = "「元々、狛里さんに言わなくちゃって思ったのも、ご当主様から言われてのことでしたし……」"
+translation = "「원래, 코마리 씨에게 말해야겠다고 생각했던 것도, 당주님이 말씀하셔서 그랬던 거였고……」"
+
+[[dialogue]]
+speaker_original = "ヨミ"
+speaker_translation = "요미"
+original = "「教育係なのに、情けないですよね……」"
+translation = "「교육 담당인데, 한심하죠……」"
+
+[[dialogue]]
+speaker_original = "蘭美"
+speaker_translation = "라미"
+original = "「ふぅん……」"
+translation = "「흐음……」"
+
+[[dialogue]]
+speaker_original = "蘭美"
+speaker_translation = "라미"
+original = "（ここで、ヨミにこうしなさいって、私が最速で具体案を提示してしまうのは可能だけれど……）"
+translation = "(여기서, 요미에게 이렇게 하라고 내가 최속으로 구체적인 안을 제시하는 건 가능하지만……)"
+
+[[dialogue]]
+speaker_original = "蘭美"
+speaker_translation = "라미"
+original = "（でもそれじゃ、ヨミの為にはならないわね）"
+translation = "(하지만 그러면, 요미를 위하는 게 되지 않겠지)"
+
+[[dialogue]]
+speaker_original = "蘭美"
+speaker_translation = "라미"
+original = "「――なら、次はどうしたら伝わるか考えて、また挑戦してみなさい！」"
+translation = "「――그럼, 다음에는 어떻게 해야 전달될지 생각해서, 다시 도전해 보렴!」"
+
+[[dialogue]]
+speaker_original = "蘭美"
+speaker_translation = "라미"
+original = "「成功っていうのは何度も失敗して、それでも挑戦してこそ得られるものなんだから！」"
+translation = "「성공이라는 건 몇 번이고 실패하고, 그래도 도전해야 얻을 수 있는 법이니까!」"
+
+[[dialogue]]
+speaker_original = "蘭美"
+speaker_translation = "라미"
+original = "「私が今日までメイドとして、最速で腕を磨き続けてきた上での持論だけどね♪」"
+translation = "「내가 오늘까지 메이드로서, 최속으로 실력을 계속 닦아온 끝에 얻은 지론이지만 말야♪」"
+
+[[dialogue]]
+speaker = "unk"
+original = "そう言って、若くして世界ナンバー２の実力を持つメイド長は、ヨミにウィンクをしてみせるのだった。"
+translation = "그렇게 말하며, 어린 나이에 세계 넘버 2의 실력을 가진 메이드장은, 요미에게 윙크를 해 보이는 것이었다."
+

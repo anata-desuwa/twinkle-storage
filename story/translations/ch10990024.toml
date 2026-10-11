@@ -1,0 +1,286 @@
+[[dialogue]]
+speaker = "unk"
+original = "第４話,愛するあなたと未来の約束を,P"
+translation = "제4화 사랑하는 당신과 미래의 약속을"
+
+[[dialogue]]
+speaker = "unk"
+original = "浅草での放課後デートを散々楽しんだその後──ミウを自宅まで送り届ける帰り道。"
+translation = "아사쿠사에서의 방과 후 데이트를 마음껏 즐긴 후──미우를 집까지 바래다주는 길."
+
+[[dialogue]]
+speaker = "unk"
+original = "日は落ち、すっかり暗くなってしまった。"
+translation = "해는 지고, 완전히 어두워져 버렸다."
+
+[[dialogue]]
+speaker_original = "ミウ"
+speaker_translation = "미우"
+original = "「デート、とっても楽しかったです。また会長さんとの想い出が増えちゃいましたね」"
+translation = "「데이트, 정말 즐거웠어요. 또 회장님과의 추억이 늘어나 버렸네요」"
+
+[[dialogue]]
+speaker_original = "ミウ"
+speaker_translation = "미우"
+original = "「まだまだ一緒にいたいですけど……門限もありますし、わがまま言っちゃダメですよね……」"
+translation = "「아직 더 함께 있고 싶지만…… 귀가 시간도 있고, 떼쓰면 안 되겠죠……」"
+
+[[dialogue]]
+speaker_original = "ミウ"
+speaker_translation = "미우"
+original = "「明日も、明後日も、会長さんには会えますもんね……」"
+translation = "「내일도, 모레도, 회장님은 만날 수 있으니까요……」"
+
+[[dialogue]]
+speaker = "unk"
+original = "家が近づくにつれ、ミウのテンションとトーンは少しずつ下がっていく。"
+translation = "집이 가까워질수록, 미우의 텐션과 톤은 조금씩 떨어져 간다."
+
+[[dialogue]]
+speaker = "unk"
+original = "しかし、反比例するように手を握る力は強まっていた。"
+translation = "하지만 반대로 손을 쥐는 힘은 강해지고 있었다."
+
+[[dialogue]]
+speaker_original = "ミウ"
+speaker_translation = "미우"
+original = "「あ……着いちゃいました……」"
+translation = "「아…… 도착해 버렸네요……」"
+
+[[dialogue]]
+speaker_original = "ミウ"
+speaker_translation = "미우"
+original = "「会長さんのお家は逆方向なのに、わざわざ送ってくれて、ありがとうございました」"
+translation = "「회장님 댁은 반대 방향인데, 일부러 바래다주셔서 감사했어요」"
+
+[[dialogue]]
+speaker = "unk"
+original = "夜道は危ないからね"
+translation = "밤길은 위험하니까"
+
+[[dialogue]]
+speaker_original = "ミウ"
+speaker_translation = "미우"
+original = "「ふふ、忘れてませんか？\u3000私はゴールデングースの社員ですよ？\u3000不審者なんて逆にバーンとやっつけちゃいます」"
+translation = "「후후, 잊으신 건가요? 저는 골든 구스의 직원이라고요? 수상한 사람 따위는 역으로 쾅 하고 퇴치해 버려요」"
+
+[[dialogue]]
+speaker_original = "ミウ"
+speaker_translation = "미우"
+original = "「でも、少しでも会長さんと長く過ごせたのが嬉しいです。ちょっぴり遠回りした甲斐もありました」"
+translation = "「하지만 조금이라도 회장님과 오래 있을 수 있어서 기뻤어요. 조금 돌아온 보람이 있었네요」"
+
+[[dialogue]]
+speaker = "unk"
+original = "そのまま家の前で立ち話。ミウはなかなか家に入ろうとはしなかった。"
+translation = "그대로 집 앞에서 스몰 토크. 미우는 좀처럼 집에 들어가려 하지 않았다."
+
+[[dialogue]]
+speaker_original = "ミウ"
+speaker_translation = "미우"
+original = "「あーあ……早く大人になりたいな……」"
+translation = "「아아…… 빨리 어른이 되고 싶다……」"
+
+[[dialogue]]
+speaker = "unk"
+original = "どうして？"
+translation = "왜?"
+
+[[dialogue]]
+speaker_original = "ミウ"
+speaker_translation = "미우"
+original = "「だって……大人になれば、会長さんと一緒に暮らせるようになるじゃないですか」"
+translation = "「그야…… 어른이 되면 회장님과 함께 살 수 있게 되잖아요」"
+
+[[dialogue]]
+speaker_original = "ミウ"
+speaker_translation = "미우"
+original = "「別れを惜しむこともなくなりますし、おはようからおやすみまで、会長さんの顔を見ながら過ごせますもんね」"
+translation = "「헤어짐을 아쉬워할 필요도 없어지고, 안녕히 주무셨어요부터 안녕히 주무세요까지, 회장님 얼굴을 보면서 지낼 수 있으니까요」"
+
+[[dialogue]]
+speaker_original = "ミウ"
+speaker_translation = "미우"
+original = "「それってすごく楽しくて、幸せな毎日だと思うんです」"
+translation = "「그건 정말 즐겁고, 행복한 매일일 거라고 생각해요」"
+
+[[dialogue]]
+speaker_original = "ミウ"
+speaker_translation = "미우"
+original = "「うぅ……いやです……さよならしたくないです……でも、会長さんを困らせたくもないんです……」"
+translation = "「으으…… 싫어요…… 작별하고 싶지 않아요…… 하지만 회장님을 곤란하게 만들고 싶지도 않아요……」"
+
+[[dialogue]]
+speaker_original = "ミウ"
+speaker_translation = "미우"
+original = "「私、仕事とプライベートは切り離せるタイプだと思っていました。両親や、親友や、会長さんですら必要ならばプランに組み込めると思ってました」"
+translation = "「저, 공과 사를 분리할 수 있는 타입이라고 생각했어요. 부모님이나, 절친이나, 회장님조차 필요하다면 계획에 집어넣을 수 있을 거라 생각했어요」"
+
+[[dialogue]]
+speaker_original = "ミウ"
+speaker_translation = "미우"
+original = "「でも、今はもう無理です……私の心は会長さんに奪われちゃいました」"
+translation = "「하지만 지금은 이제 무리에요…… 제 마음은 회장님께 빼앗겨 버렸어요」"
+
+[[dialogue]]
+speaker_original = "ミウ"
+speaker_translation = "미우"
+original = "「全てにおいて会長さんが最優先です。あなたのためなら、なんだってできるつもりです」"
+translation = "「모든 것에 있어서 회장님이 최우선이에요. 당신을 위해서라면 뭐든지 할 생각이에요」"
+
+[[dialogue]]
+speaker_original = "ミウ"
+speaker_translation = "미우"
+original = "「自分がこんなにも誰かに依存しちゃうタイプだなんて思ってもみませんでした」"
+translation = "「제가 이렇게까지 누군가에게 의존해 버리는 타입일 줄은 생각도 못 했어요」"
+
+[[dialogue]]
+speaker_original = "ミウ"
+speaker_translation = "미우"
+original = "「恋ってプランの枠に収まってくれなくて、未知数すぎて怖いものなんですね」"
+translation = "「사랑이란 계획의 틀에 수렵해 주지 않아서, 너무 미지수라 무서운 거네요」"
+
+[[dialogue]]
+speaker_original = "ミウ"
+speaker_translation = "미우"
+original = "「大好きです、会長さん。いくら口にしても、伝えきれなくて、言い足りないです」"
+translation = "「정말 좋아해요, 회장님. 아무리 입으로 말해도 다 전할 수 없고, 부족해요」"
+
+[[dialogue]]
+speaker = "unk"
+original = "いつか、必ず一緒に暮らそうね"
+translation = "언젠가 반드시 함께 살자"
+
+[[dialogue]]
+speaker = "unk"
+original = "俺もミウが大好きだよ"
+translation = "나도 미우가 정말 좋아"
+
+[[dialogue]]
+speaker_original = "ミウ"
+speaker_translation = "미우"
+original = "「はい<emoji=heart04>\u3000約束です。でも、口約束だけで信用するほど、私はお子様じゃありませんよ？」"
+translation = "「네<emoji=heart04> 약속이에요. 하지만 입약속만으로 신용할 만큼, 저는 어린애가 아니라고요?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "それじゃ、約束代わりに──"
+translation = "그럼, 약속 대신에──"
+
+[[dialogue]]
+speaker_original = "ミウ"
+speaker_translation = "미우"
+original = "「え……？\u3000か、会長さん、何を……！？」"
+translation = "「에……? 회, 회장님, 무슨짓을……!?」"
+
+[[dialogue]]
+speaker_original = "ミウ"
+speaker_translation = "미우"
+original = "「んぅ、ちゅっ、ちゅ……<emoji=heart04>\u3000んぅ、ぷぁはっ……！」"
+translation = "「응으, 츄, 츄……<emoji=heart04> 응으, 푸하……!」"
+
+[[dialogue]]
+speaker_original = "ミウ"
+speaker_translation = "미우"
+original = "「か、会長さんっ……！？\u3000外で……しかも、家の前でキスするなんて……！」"
+translation = "「회, 회장님……!? 밖에서…… 그것도, 집 앞에서 키스라니……!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "これもある意味、口約束かな"
+translation = "이것도 어떤 의미로는, 입약속이려나"
+
+[[dialogue]]
+speaker = "unk"
+original = "初めてじゃないでしょ？"
+translation = "처음은 아니잖아?"
+
+[[dialogue]]
+speaker_original = "ミウ"
+speaker_translation = "미우"
+original = "「そ、そ、そうですけどっ……！\u3000いつもは誰もいない部屋とかで……外でしたなんて初めてですし……」"
+translation = "「그, 그, 그렇긴 하지만요……! 평소에는 아무도 없는 방 같은 곳에서 했고…… 밖에서 한 건 처음이고요……」"
+
+[[dialogue]]
+speaker_original = "ミウ"
+speaker_translation = "미우"
+original = "「誰かに……ウチの両親にでも見られてたら、どうするつもりなんですか……！？」"
+translation = "「누군가에게…… 저희 부모님에게라도 들키면, 어쩔 셈이었나요……!?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "娘さんを僕に──"
+translation = "따님을 제게──"
+
+[[dialogue]]
+speaker = "unk"
+original = "ご挨拶する！"
+translation = "인사드리자!"
+
+[[dialogue]]
+speaker_original = "ミウ"
+speaker_translation = "미우"
+original = "「いくらなんでも、急展開すぎませんか！？」"
+translation = "「아무리 그래도, 너무 급전개 아닌가요!?」"
+
+[[dialogue]]
+speaker_original = "ミウ"
+speaker_translation = "미우"
+original = "「もう……会長さんの破天荒さは私のプランから外れてばかりです……思考が追いつきません。そのせいでプランがちっとも役に立たないです」"
+translation = "「정말…… 회장님의 파천황적인 면은 제 플랜에서 벗어나기만 해요…… 사고가 따라가지 못하겠어요. 그 때문에 플랜이 전혀 도움이 안 돼요」"
+
+[[dialogue]]
+speaker_original = "ミウ"
+speaker_translation = "미우"
+original = "「でも、想像できないからこそ、吊り橋効果みたいにドキドキさせられて……会長さんのことをどんどん好きになってしまうんでしょうね」"
+translation = "「하지만, 상상할 수 없기에 더더욱, 현수교 효과처럼 두근거리게 되어서…… 회장님을 점점 더 좋아하게 되어버리는 거겠죠」"
+
+[[dialogue]]
+speaker = "unk"
+original = "可愛すぎて、キスを我慢できなかった"
+translation = "너무 귀여워서, 키스를 참을 수 없었어"
+
+[[dialogue]]
+speaker = "unk"
+original = "俺もミウのプランにハメられっぱなしだよ"
+translation = "나도 미우의 플랜에 계속 당하기만 하는걸"
+
+[[dialogue]]
+speaker_original = "ミウ"
+speaker_translation = "미우"
+original = "「え……会長さん──私にメロメロなんですか？\u3000ふふ、ふふふ<emoji=heart04>\u3000なんだ、やられてるのは私だけじゃなかったんですね」"
+translation = "「에…… 회장님── 저한테 완전 반하신 건가요? 후후, 후후후<emoji=heart04> 뭐야, 당하고 있는 건 나뿐만이 아니었구나」"
+
+[[dialogue]]
+speaker_original = "ミウ"
+speaker_translation = "미우"
+original = "「お互い様だなんて、私たち相性抜群かもですね」"
+translation = "「서로 마찬가지라니, 우리 궁합이 엄청 좋을지도 모르겠네요」"
+
+[[dialogue]]
+speaker_original = "ミウ"
+speaker_translation = "미우"
+original = "「ふふ、会長さんにキスしてもらったおかげですかね？\u3000お別れがちょっとだけ辛くなくなりました」"
+translation = "「후후, 회장님이 키스해 주신 덕분일까요? 헤어지는 게 아주 조금은 덜 괴로워졌어요」"
+
+[[dialogue]]
+speaker_original = "ミウ"
+speaker_translation = "미우"
+original = "「それでは、また明日。だぁい好きです、会長さん<emoji=heart04>」"
+translation = "「그러면, 내일 또 봐요. 머어엉청 좋아해요, 회장님<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "unk"
+original = "名残惜しいけど、ミウとはお別れだ。"
+translation = "아쉽지만, 미우와는 헤어질 시간이다."
+
+[[dialogue]]
+speaker = "unk"
+original = "さっきまで繋いでいた手を振りながら、次第に距離を取る。"
+translation = "방금 전까지 맞잡고 있던 손을 흔들며, 점점 거리를 벌린다."
+
+[[dialogue]]
+speaker = "unk"
+original = "そのまま帰路につくが……互いの姿が見えなくなるまで、ずっと手を振り続けていたのだった。"
+translation = "그대로 귀갓길에 올랐지만…… 서로의 모습이 보이지 않게 될 때까지, 계속 손을 흔들고 있었다."
+

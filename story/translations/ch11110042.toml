@@ -1,0 +1,324 @@
+[[dialogue]]
+speaker = "unk"
+original = "第２話,世界間交流はニンニクの香り,P"
+translation = "제2화, 세계 간 교류는 마늘 향기, P"
+
+[[dialogue]]
+speaker = "unk"
+original = "平行世界間交流の代表として、新星学園星徒会会長の俺は、ゲートを通ってデネブを訪れた。"
+translation = "평행 세계 간 교류 대표로서, 신성학원 성도회 회장인 나는 게이트를 통과해 데네브를 방문했다."
+
+[[dialogue]]
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
+original = "「ようこそ、会長さん。我らがデネブへ！」"
+translation = "「어서 오세요, 회장님. 우리 데네브에!」"
+
+[[dialogue]]
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
+original = "「今日１日、私がツアーコンダクターとして、デネブをご案内しますねっ」"
+translation = "「오늘 하루, 제가 투어 컨덕터로서 데네브를 안내해 드릴게요」"
+
+[[dialogue]]
+speaker = "unk"
+original = "よろしく！"
+translation = "잘 부탁해!"
+
+[[dialogue]]
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
+original = "「まぁ、デネブでも流星市国であることは変わらないんですけどね。気候や環境がまったく別物だったら、大変なことになりますし」"
+translation = "「뭐, 데네브라도 유성시국이라는 건 변함없지만요. 기후나 환경이 완전히 딴판이면 큰일이기도 하고요」"
+
+[[dialogue]]
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
+original = "「もしアルタイルの流星市国が、ニンニクすらないような魔境だったら、力が出なくて死活問題でしたよ～っ」"
+translation = "「만약 알타이르의 유성시국이 마늘조차 없는 마경이었다면, 힘이 안 나서 사느냐 죽느냐의 문제였다고요~」"
+
+[[dialogue]]
+speaker = "unk"
+original = "さすがにニンニクはあるかな……"
+translation = "아무리 그래도 마늘은 있으려나……"
+
+[[dialogue]]
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
+original = "「あはは、それは心配しすぎでしたね。杞憂でした」"
+translation = "「아하하, 그건 너무 걱정했네요. 기우였어요」"
+
+[[dialogue]]
+speaker = "unk"
+original = "デネブとアルタイルでニンニクに違いはあった？"
+translation = "데네브랑 알타이르 사이에 마늘 차이가 있었어?"
+
+[[dialogue]]
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
+original = "「あまり変わらないですね。どっちのニンニクも美味しくて、調理方法もほとんど同じでした」"
+translation = "「별로 안 달라요. 어느 쪽 마늘이든 맛있고, 조리 방법도 거의 같았거든요」"
+
+[[dialogue]]
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
+original = "「あっ、あそこの角のお店、ニンニクと唐辛子どっさりのペペロンチーノが絶品なんですよっ！」"
+translation = "「앗, 저기 모퉁이에 있는 가게, 마늘이랑 페페론치노를 듬뿍 넣은 알리오 올리오가 일품이에요!」"
+
+[[dialogue]]
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
+original = "「パスタ１皿にニンニクをまるまる１個使ってて、ごろごろ入ってて……じゅるり」"
+translation = "「파스타 한 접시에 마늘을 통째로 1개나 써서, 큼직하게 들어있고…… 꼴깍」"
+
+[[dialogue]]
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
+original = "「……あっ」"
+translation = "「……앗」"
+
+[[dialogue]]
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
+original = "「か、会長さん、そろそろお腹も空いてきた頃じゃないですか……なーんて……」"
+translation = "「회, 회장님, 슬슬 배가 고파질 즈음 아닌가요…… 농담이에요……」"
+
+[[dialogue]]
+speaker = "unk"
+original = "匂いに釣られちゃった"
+translation = "냄새에 끌려버렸네"
+
+[[dialogue]]
+speaker = "unk"
+original = "もう、お腹ぺこぺこだよ"
+translation = "벌써 배가 너무 고파"
+
+[[dialogue]]
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
+original = "「ですよねっ！\u3000でしたら、私が知ってる中で一番美味しいニンニク料理のお店にご案内しますねっ」"
+translation = "「그렇죠! 그렇다면 제가 아는 곳 중에 제일 맛있는 마늘 요리 가게로 안내할게요」"
+
+[[dialogue]]
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
+original = "「じゃんっ！\u3000こちらのお店です！」"
+translation = "「짜잔! 바로 이 가게예요!」"
+
+[[dialogue]]
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
+original = "「名物はなんと言っても、シュクメルリ！\u3000世界で一番ニンニクを美味しく食べる料理なんて言われてるんですよっ」"
+translation = "「명물은 뭐니 뭐니 해도 슈크멜리! 세계에서 가장 마늘을 맛있게 먹는 요리라는 말도 있다고요」"
+
+[[dialogue]]
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
+original = "「ただでさえ世界一美味しい食材のニンニクを更に美味しくするんですから、絶品に決まってますよねっ！」"
+translation = "「가뜩이나 세계에서 제일 맛있는 식재료인 마늘을 한층 더 맛있게 만드니, 일품인 게 당연하죠!」"
+
+[[dialogue]]
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
+original = "「遠慮せずになんでも頼んでくださいねっ。今日は私の奢りですからっ」"
+translation = "「부담 갖지 말고 뭐든 시키세요. 오늘은 제가 쏠 테니까요」"
+
+[[dialogue]]
+speaker = "unk"
+original = "もう空腹が限界で、ベアトがオススメするお店に入った。"
+translation = "이미 배고픔이 한계라 베아토가 추천하는 가게로 들어갔다."
+
+[[dialogue]]
+speaker = "unk"
+original = "テーブルの上に並んだのは、ニンニクとベーコンのアヒージョに、ニンニクの丸揚げ、ニンニクを利かせた唐揚げに、ニンニクと砂肝の塩炒め。"
+translation = "테이블 위에 차려진 것은 마늘과 베이컨 아히죠, 통마늘 튀김, 마늘 향을 낸 닭강정, 마늘과 닭 모래집 소금 볶음."
+
+[[dialogue]]
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
+original = "「ん～～～っ<emoji=heart04>\u3000コリコリの歯触りがたまりませんっ<emoji=heart04>」"
+translation = ""
+
+[[dialogue]]
+speaker = "unk"
+original = "トドメにガーリックステーキにガーリックライス。オードブルからメインディッシュまでニンニクのフルコースだった。"
+translation = "마무리로 갈릭 스테이크에 갈릭 라이스. 오르되브르부터 메인 디시까지 마늘 풀코스였다."
+
+[[dialogue]]
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
+original = "「どうですか、会長さん。デネブのニンニク料理は舌に合いました？」"
+translation = "「어때요, 회장님? 데네브의 마늘 요리는 입에 맞으시나요?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "み\u3000な\u3000ぎ\u3000っ\u3000て\u3000き\u3000た\u3000ぜ\u3000！"
+translation = "힘\u3000이\u3000솟\u3000아\u3000난\u3000다\u3000！"
+
+[[dialogue]]
+speaker = "unk"
+original = "スタミナ満点！"
+translation = "스태미나 만점!"
+
+[[dialogue]]
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
+original = "「えへへ、私も会長さんの食べっぷりを見てて、元気になりましたっ」"
+translation = "「에헤헤, 저도 회장님이 맛있게 드시는 모습을 보니 기운이 나요」"
+
+[[dialogue]]
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
+original = "「こっちの世界のお料理も気に入ってもらえたなら、とっても嬉しいですっ♪」"
+translation = "「이쪽 세계 요리도 마음에 드셨다면 정말 기뻐요♪」"
+
+[[dialogue]]
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
+original = "「ふう、お腹いっぱいです。頼みすぎちゃったかと思いましたけど完食しましたねっ」"
+translation = "「후우, 배가 가득 차네요. 너무 많이 시켰나 싶었는데 전부 먹어치웠네요」"
+
+[[dialogue]]
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
+original = "「会長さんも私に負けないくらいの食べっぷりでした。見ていて気持ちよかったです。満足してもらえて良かった♪」"
+translation = "「회장님도 저한테 뒤지지 않을 정도로 잘 드셨어요. 보는 제가 다 기분이 좋았네요. 만족하셔서 다행이에요♪」"
+
+[[dialogue]]
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
+original = "「次にアルタイルに行ったら、会長さんのオススメのお店に連れてってくださいねっ」"
+translation = "「다음번에 알타이르에 가면 회장님이 추천하는 가게에 데려가 주세요」"
+
+[[dialogue]]
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
+original = "「──って、あれ！？\u3000これじゃデートの催促みたい！？」"
+translation = "「──앗, 어라!? 이래서는 데이트 신청 같잖아!?」"
+
+[[dialogue]]
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
+original = "「でも、おかしくないよね？\u3000自然な流れだよね？」"
+translation = "「하지만 이상하지 않지? 자연스러운 흐름 맞지?」"
+
+[[dialogue]]
+speaker_original = "チナ"
+speaker_translation = "치나"
+original = "「おっ、ベアトに……魔王じゃないか。そういや、アルタイルとの交流で来てたんだっけ」"
+translation = "「앗, 베아토에…… 마왕이잖아. 그러고 보니 알타이르와의 교류 때문에 왔었지」"
+
+[[dialogue]]
+speaker_original = "チナ"
+speaker_translation = "치나"
+original = "「んぅっ……！？\u3000今日もニンニクくさいな……いや、いつもの倍以上だな！？\u3000この漂ってくる匂いは魔王からもか？」"
+translation = "「으윽……!? 오늘도 마늘 냄새가 나네…… 아니, 평소보다 배 이상인데!? 이 감도는 냄새는 마왕한테서도 나는 거냐?」"
+
+[[dialogue]]
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
+original = "「あ、やっぱり匂っちゃった？\u3000自分の匂いってあんまりわからなくて……」"
+translation = "「아, 역시 냄새나? 자기 냄새는 잘 몰라서……」"
+
+[[dialogue]]
+speaker_original = "チナ"
+speaker_translation = "치나"
+original = "「『やっぱり匂っちゃった？』じゃないっ！\u3000ベアト、デネブに来てくれたゲストをニンニク料理の店に連れて行ったのかっ！？」"
+translation = "「『역시 냄새나?』가 아니야! 베아토, 데네브에 와 준 손님을 마늘 요리 집에 데려간 거냐!?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "どれも美味しかったよ！"
+translation = "다 전부 맛있었어!"
+
+[[dialogue]]
+speaker_original = "チナ"
+speaker_translation = "치나"
+original = "「そ、そうか……？\u3000まあ、魔王がベアトのおもてなしに満足してるなら、アタシが余計な口を挟むこともないか……」"
+translation = "「그, 그래……? 뭐, 마왕이 베아토의 대접에 만족하고 있다면 내가 괜한 참견을 할 필요도 없겠지……」"
+
+[[dialogue]]
+speaker_original = "チナ"
+speaker_translation = "치나"
+original = "「なんだか距離が近い気もするし、案外２人とも似た者同士なのか……？\u3000文字通り、くさい仲ってやつ……？」"
+translation = "「어쩐지 거리가 가까운 것 같기도 하고, 의외로 둘이 비슷비슷한 부류인가……? 문자 그대로 구린 사이라는 건가……?」"
+
+[[dialogue]]
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
+original = "「チナちゃんも一緒に会長さんのおもてなしする？」"
+translation = "「치나 짱도 같이 회장님을 대접할래?」"
+
+[[dialogue]]
+speaker_original = "チナ"
+speaker_translation = "치나"
+original = "「いやいいよ。匂いがキツすぎて鼻がおかしくなりそうだし、２人の邪魔をするのも悪いしな」"
+translation = "「아니, 됐어. 냄새가 너무 독해서 코가 마비될 것 같기도 하고, 두 사람을 방해하는 것도 미안하니까.」"
+
+[[dialogue]]
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
+original = "「じゃ、邪魔って、そんなことないよっ！？」"
+translation = "「 방, 방해라니, 그렇지 않아!」"
+
+[[dialogue]]
+speaker_original = "チナ"
+speaker_translation = "치나"
+original = "「ベアトと末永く仲良くしてやってくれよな、魔王！\u3000ベアトを泣かしたら許さないぞ！」"
+translation = "「베아트랑 오래오래 사이좋게 지내줘, 마왕! 베아트 울리면 안 참는다!」"
+
+[[dialogue]]
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
+original = "「チナちゃんっ！？\u3000どの立場からの台詞～っ！？」"
+translation = "「치나 짱!? 무슨 입장에서 하는 소리야~!?」"
+
+[[dialogue]]
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
+original = "（おもてなしっていうよりは、デ、デートっぽいかなとは思ってたけどっ！\u3000ますます意識させるようなこと言わないで～っ！）"
+translation = "（대접이라기보다는 데, 데이트 같다는 생각은 했지만! 점점 더 의식하게 되는 말은 하지 말아줘~!）"
+
+[[dialogue]]
+speaker = "unk"
+original = "楽しい平行世界間交流のおもてなしも、終わりの時間が来てしまった。"
+translation = "즐거운 평행세계 간 교류 대접도 끝날 시간이 찾아오고 말았다."
+
+[[dialogue]]
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
+original = "「それじゃ、またこっちに遊びに来てくださいねっ。私も近い内にお邪魔しますからっ」"
+translation = "「그럼, 다음에 또 놀러 오세요. 저도 조만간 찾아뵐 테니까요.」"
+
+[[dialogue]]
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
+original = "「またお会いしましょうね、会長さんっ」"
+translation = "「다음에 또 만나요, 회장님.」"
+
+[[dialogue]]
+speaker = "unk"
+original = "平行世界間交流を終えた俺は、名残惜しそうなベアトリスに見送られ──"
+translation = "평행세계 간 교류를 마친 나는, 아쉬워하는 베아트리스의 배웅을 받으며──"
+
+[[dialogue]]
+speaker = "unk"
+original = "アルタイルへと帰還し、そのまま我が家へと帰宅する。"
+translation = "알타이르로 귀환하여, 그대로 집으로 귀가한다."
+
+[[dialogue]]
+speaker = "unk"
+original = "ただいまっ！"
+translation = "다녀왔어!"
+
+[[dialogue]]
+speaker_original = "リノ"
+speaker_translation = "리노"
+original = "「お帰りなさい、クロト。あっちはどう──って、ニンニクくさーっ！？\u3000向こうで何食べてきたの！？」"
+translation = "「다녀오셨어요, 쿠로토. 그쪽은 어땠── 잠깐, 마늘 냄새 엄청 나-!? 저쪽에서 뭘 먹고 온 거야!?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ニンニクの強烈な匂いは、世界の壁をも超越したのであった。"
+translation = "마늘의 강렬한 냄새는 세계의 벽마저 초월한 것이었다."
+

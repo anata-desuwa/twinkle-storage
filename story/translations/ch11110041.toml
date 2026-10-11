@@ -1,0 +1,312 @@
+[[dialogue]]
+speaker = "unk"
+original = "第１話,重罪に課される罰,P"
+translation = "제1화, 중죄에 부과되는 벌, P"
+
+[[dialogue]]
+speaker = "unk"
+original = "創造神『<ruby>ＸＥＬＯＳ<rt>ゼロス</rt></ruby>』が滅され、世界に平穏が訪れてしばらく──"
+translation = "창조신 『<ruby>XELOS<rt>제로스</rt></ruby>』가 멸망하고, 세계에 평온이 찾아온 지 얼마 지나──"
+
+[[dialogue]]
+speaker = "unk"
+original = "ベアトリスは新星学園役員揃い踏みの星徒会室を訪れていた。"
+translation = "베아트리스는 신성학원 임원진이 모두 모인 성토회실을 방문하고 있었다."
+
+[[dialogue]]
+speaker_original = "アナ"
+speaker_translation = "아나"
+original = "「ベアトリスさん、随分と神妙な顔をされていますね。どうされましたか？」"
+translation = "「베아트리스 씨, 매우 심묘한 표정을 짓고 계시네요. 무슨 일 있으신가요?」"
+
+[[dialogue]]
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
+original = "「皆さんに謝りたいことがあって、ここに足を運びました」"
+translation = "「여러분께 사과드리고 싶은 일이 있어서, 이곳에 발걸음을 옮겼습니다」"
+
+[[dialogue]]
+speaker_original = "サーシャ"
+speaker_translation = "사샤"
+original = "「謝りたいこと～？」"
+translation = "「사과하고 싶은 일～?」"
+
+[[dialogue]]
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
+original = "「もう皆さんご存じですけど、うやむやにするのはいけないし、ちゃんとけじめを付けなきゃいけないと思うから……改めて、私の口から言わせてください」"
+translation = "「이미 여러분도 알고 계시겠지만, 어물쩍 넘어가는 건 안 되고, 제대로 매듭을 지어야 한다고 생각해서…… 다시 한번, 제 입으로 말씀드리게 해주세요」"
+
+[[dialogue]]
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
+original = "「私──ベアトリス・シェイドは、魔界からの留学生じゃなくて……デネブから来た極星学園の副会長なんです」"
+translation = "「저── 베아트리스 셰이드는, 마계에서 온 유학생이 아니라…… 데네브에서 온 극성학원의 부회장이에요」"
+
+[[dialogue]]
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
+original = "「大事なことを黙ったまま、留学生だと偽って、この新星学園に入りました。皆さんを騙してごめんなさいっ！」"
+translation = "「중요한 사실을 숨긴 채, 유학생이라고 속이고 이 신성학원에 들어왔습니다. 여러분을 속여서 죄송합니다!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "深々と頭を下げるベアトリス。"
+translation = "깊숙이 고개를 숙이는 베아트리스."
+
+[[dialogue]]
+speaker = "unk"
+original = "その姿勢からも真剣さが伺える。"
+translation = "그 자세에서도 진지함이 엿보인다."
+
+[[dialogue]]
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
+original = "「知ってはいたけど、改めて聞くと大胆なことしたわね！」"
+translation = "「알고는 있었지만, 다시 들으니 대담한 짓을 했네!」"
+
+[[dialogue]]
+speaker_original = "サーシャ"
+speaker_translation = "사샤"
+original = "「私たちももう一度聞くけど……ベアトリスちゃんが嘘をついていたのは、アルタイルとデネブ、２つの世界を救うためなのよね～？」"
+translation = "「우리도 다시 한번 묻겠지만…… 베아트리스짱이 거짓말을 한 건, 알타이르와 데네브, 두 세계를 구하기 위해서지～?」"
+
+[[dialogue]]
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
+original = "「はい……」"
+translation = "「네……」"
+
+[[dialogue]]
+speaker_original = "マトイ"
+speaker_translation = "마토이"
+original = "「目的は立派だし、おかげで世界は助かったわけだけど……不正は不正だよね。他に方法はなかったのかな？」"
+translation = "「목적은 훌륭하고, 덕분에 세계는 살았지만…… 부정은 부정이지. 다른 방법은 없었던 걸까?」"
+
+[[dialogue]]
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
+original = "「もっと時間があればいい考えが思いついたかもしれないですけど……急を要する事態でしたし、咄嗟の状況ではこれ以外の手段を取れませんでした」"
+translation = "「시간이 더 있었다면 좋은 생각이 떠올랐을지도 모르지만…… 급을 요하는 사태였고, 찰나의 상황에서는 이 외의 수단을 쓸 수 없었습니다」"
+
+[[dialogue]]
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
+original = "「星騎士の学び舎において、許されない罪を犯したのは紛れもない事実です。どんな処罰でも受け入れます」"
+translation = "「성기사의 배움터에서, 허용되지 않는 죄를 지은 것은 틀림없는 사실입니다. 어떤 처벌이라도 받아들이겠습니다」"
+
+[[dialogue]]
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
+original = "「……だって。どうする、クロト？」"
+translation = "「……라는데. 어떻게 할 거야, 쿠로토?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "本来なら退学レベルの重罪だ"
+translation = "원래라면 퇴학 수준의 중죄다"
+
+[[dialogue]]
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
+original = "「っ……はいっ……！」"
+translation = "「읏…… 네……!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "本来ならね"
+translation = "원래라면 말이지"
+
+[[dialogue]]
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
+original = "「え……？」"
+translation = "「에……?」"
+
+[[dialogue]]
+speaker_original = "アナ"
+speaker_translation = "아나"
+original = "「ベアトリスさんはデネブとアルタイル、双方の世界を救うために尽力しました」"
+translation = "「베아트리스 씨는 데네브와 알타이르, 양쪽 세계를 구하기 위해 진력했습니다」"
+
+[[dialogue]]
+speaker_original = "マトイ"
+speaker_translation = "마토이"
+original = "「世界を超えるほどの決意なんて、簡単にできることじゃないよね。私だったら諦めちゃってたと思うな」"
+translation = "「세계마저 뛰어넘을 결의 같은 거, 쉽게 할 수 있는 게 아니잖아. 나라면 포기해 버렸을 거라고 생각해」"
+
+[[dialogue]]
+speaker_original = "サーシャ"
+speaker_translation = "사샤"
+original = "「みんなに内緒で、誰にも相談できなかったのはつらかったわよね～。それでもすっごく頑張ったのよね～」"
+translation = "「모두에게 비밀로 하고, 아무에게도 상담할 수 없었던 건 괴로웠겠지~. 그런데도 정말 훌륭하게 구슬땀을 흘린 거겠지~」"
+
+[[dialogue]]
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
+original = "「は、はいっ……え？\u3000あの……怒られるつもりでここに来たんですけど……」"
+translation = "「네, 네…… 어? 저기…… 혼날 작정으로 여기에 왔습니다만……」"
+
+[[dialogue]]
+speaker_original = "アナ"
+speaker_translation = "아나"
+original = "「情状酌量の余地あり……というやつです。今さらベアトリスさんを罰するつもりはありません」"
+translation = "「정상참작의 여지 있음……이라는 겁니다. 이제 와서 베아트리스 씨를 벌할 생각은 없습니다」"
+
+[[dialogue]]
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
+original = "「<ruby>デネブ<rt>あっち</rt></ruby>だったら重罪なのかもしれないけど、<ruby>アルタイル<rt>こっち</rt></ruby>じゃ大したことないってことよ！」"
+translation = "「<ruby>데네브<rt>저쪽</rt></ruby>에서라면 중죄일지도 모르겠지만, <ruby>알타이르<rt>이쪽</rt></ruby>에선 별일 아니라는 소리야!」"
+
+[[dialogue]]
+speaker_original = "マトイ"
+speaker_translation = "마토이"
+original = "「いやいや、こっちでも大したことなくはないよ？\u3000ベアトリスさんじゃなかったら普通に退学だからね？」"
+translation = "「아니아니, 이쪽에서도 별일 아니진 않거든? 베아트리스 씨가 아니었으면 평범하게 퇴학이라니까?」"
+
+[[dialogue]]
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
+original = "「ということは、つまり……？」"
+translation = "「그 말은, 즉……?」"
+
+[[dialogue]]
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
+original = "「ベアトリス、あなたは世界を救った功労者のひとりなのよ」"
+translation = "「베아트리스, 당신은 세계를 구한 공로자 중 한 사람이라고」"
+
+[[dialogue]]
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
+original = "「せっかくみんなが頑張って平和を掴んだっていうのに、あなたばかり不幸になるわけにはいかないわ！」"
+translation = "「모처럼 모두가 노력해서 평화를 움켜쥐었는데, 당신만 불행해질 수는 없잖아!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "これからもベアトリスは新星学園の生徒だよ"
+translation = "앞으로도 베아트리스는 신성학원의 학생이야."
+
+[[dialogue]]
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
+original = "「い、いいんですか……？」"
+translation = "「개, 괜찮은 건가요……?」"
+
+[[dialogue]]
+speaker_original = "アナ"
+speaker_translation = "아나"
+original = "「良いも悪いもです。会長の裁きに異を唱える人はいません。満場一致で、無罪放免です」"
+translation = "「좋고 나쁨의 문제입니다. 회장님의 처벌에 이의를 제기할 사람은 없습니다. 만장일치로 무죄방면입니다」"
+
+[[dialogue]]
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
+original = "「でもそれは……あまりにも私に都合がよすぎるような……。せめて、何か償いをさせてくださいっ」"
+translation = "「하지만 그건…… 너무 제게 편의적인 것 같아서……. 적어도, 무언가 속죄를 하게 해주세요」"
+
+[[dialogue]]
+speaker_original = "サーシャ"
+speaker_translation = "사샤"
+original = "「あらあら、困ったわね～」"
+translation = "「어라어라, 난처하게 됐네~」"
+
+[[dialogue]]
+speaker_original = "マトイ"
+speaker_translation = "마토이"
+original = "「ベアトリスさんって真面目だから、悪いことをした後ろめたさで、自分を罰したいっていう気持ちはわからなくもないけど……」"
+translation = "「베아트리스 씨는 진지하니까, 나쁜 짓을 한 죄책감으로 자신을 벌하고 싶다는 마음을 모르는 건 아니지만……」"
+
+[[dialogue]]
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
+original = "「そう。そこまで言うなら、私が厳し～い罰を与えてあげるわ！」"
+translation = "「그래. 거기까지 말한다면, 내가 엄~청 엄한 벌을 내려 줄게!」"
+
+[[dialogue]]
+speaker_original = "マトイ"
+speaker_translation = "마토이"
+original = "「ヴィーナス、お手柔らかにね？」"
+translation = "「비너스, 좀 살살해 줘?」"
+
+[[dialogue]]
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
+original = "「ベアトリス、あなたは今後──」"
+translation = "「베아트리스, 당신은 앞으로──」"
+
+[[dialogue]]
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
+original = "「デネブから来る時、必ず星徒会にお土産を持ってくること！\u3000アルタイルにない珍しいお菓子がいいわ！」"
+translation = "「데네브에서 올 때, 반드시 성도회에 기념품을 사 올 것! 알타이르에 없는 희귀한 과자가 좋겠어!」"
+
+[[dialogue]]
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
+original = "「え……？\u3000それが罰、ですか……？」"
+translation = "「에……? 그게 벌, 인가요……?」"
+
+[[dialogue]]
+speaker_original = "アナ"
+speaker_translation = "아나"
+original = "「ナイスアイデアです。デネブ産の和菓子、是非とも食べてみたいです。じゅるり」"
+translation = "「나이스 아이디어입니다. 데네브산 화과자, 꼭 먹어보고 싶습니다. 침 꼴깍」"
+
+[[dialogue]]
+speaker = "unk"
+original = "汝、お土産納品の罰に処す！"
+translation = "너, 기념품 납품의 벌에 처한다!"
+
+[[dialogue]]
+speaker = "unk"
+original = "うわー、なんて重すぎる罰だー（棒読み）"
+translation = "우와, 너무 중대한 벌이네─ (국어책 읽기)"
+
+[[dialogue]]
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
+original = "「もう……皆さん、優しすぎるんですってばぁ……！」"
+translation = "「정말…… 여러분, 너무 다정하시다니깐요……!」"
+
+[[dialogue]]
+speaker_original = "サーシャ"
+speaker_translation = "사샤"
+original = "「この決定に不服や異議申し立てはあるかしら～？」"
+translation = "「이 결정에 불복이나 이의 신청은 있을까나~?」"
+
+[[dialogue]]
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
+original = "「いいえ、ありません。デネブから来た時は必ずお土産をお持ちしますっ」"
+translation = "「아니요, 없습니다. 데네브에서 올 때는 반드시 기념품을 가지고 오겠습니다」"
+
+[[dialogue]]
+speaker_original = "ヴィーナス"
+speaker_translation = "비너스"
+original = "「はい、これにて一件落着よ！」"
+translation = "「좋아, 이걸로 사건 해결이야!」"
+
+[[dialogue]]
+speaker_original = "ベアトリス"
+speaker_translation = "베아트리스"
+original = "「会長さん、皆さんっ……これからも新星学園の一生徒として、よろしくお願いしますっ」"
+translation = "「회장님, 여러분…… 앞으로도 신성학원의 한 학생으로서, 잘 부탁드립니다」"
+
+[[dialogue]]
+speaker = "unk"
+original = "以降、星徒会のティータイムには珍しいおまんじゅうやおはぎがお茶菓子として並ぶようになった。"
+translation = "이후, 성도회의 티타임에는 희귀한 만주나 오하기가 찻과자로 늘어서게 되었다."
+
+[[dialogue]]
+speaker_original = "アナ"
+speaker_translation = "아나"
+original = "「もちゃもちゃ……不可思議な形状のおまんじゅうですが、味はマーベラスですね。むふー♪」"
+translation = "「우물우물…… 불가사의한 형상의 만주입니다만, 맛은 마벨러스하군요. 므후─♪」"
+
+[[dialogue]]
+speaker = "unk"
+original = "そして、ほくほく顔のアナを見かける機会が増えるのだった。"
+translation = "그리고, 흐뭇한 표정의 아나를 마주치는 기회가 늘어나는 것이었다."
+
