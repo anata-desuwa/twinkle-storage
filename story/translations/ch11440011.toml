@@ -379,13 +379,13 @@ translation = "며칠 후."
 speaker_original = "狛里"
 speaker_translation = "狛里"
 original = "「カティア先輩～っ♪」"
-translation = ""
+translation = "「카티아 선배님～♪」"
 
 [[dialogue]]
 speaker_original = "カティア"
 speaker_translation = "카티아"
 original = "「わわっ、狛里！？\u3000ちょっ……！」"
-translation = ""
+translation = "「와왓, 코마리!? 잠깐……!」"
 
 [[dialogue]]
 speaker = "unk"
@@ -396,7 +396,7 @@ translation = "카페테리아에 점심을 먹으러 온 카티아의 모습을
 speaker_original = "狛里"
 speaker_translation = "狛里"
 original = "「ばうわふっ♪\u3000――くんくん、くんくん♪」"
-translation = ""
+translation = "「바우와후♪ ――킁킁, 킁킁♪」"
 
 [[dialogue]]
 speaker_original = "カティア"
@@ -408,7 +408,7 @@ translation = "「캬우!? 이, 이봐! 마음대로 달라붙어서, 냄새 맡
 speaker_original = "狛里"
 speaker_translation = "狛里"
 original = "「えへへへっ♪\u3000狛里はカティア先輩のライバルでありますから♪」"
-translation = ""
+translation = "「에헤헤헤♪ 코마리는 카티아 선배님의 라이벌이니까요♪」"
 
 [[dialogue]]
 speaker_original = "カティア"

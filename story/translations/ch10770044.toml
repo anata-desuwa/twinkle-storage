@@ -1,24 +1,24 @@
 [[dialogue]]
 speaker = "unk"
 original = "第４話,ご主人様の求めなら,P"
-translation = "제4화, 주인님이 원하신다면, P"
+translation = "제4화, 주인님이 원하신다면,P"
 
 [[dialogue]]
 speaker_original = "蘭美"
 speaker_translation = "라미"
 original = "「今日の家デートのテーマは──癒しよ！！」"
-translation = "「오늘 집 데이트의 테마는── 힐링이야!!」"
+translation = "「오늘 집 데이트의 테마는──힐링이야!!」"
 
 [[dialogue]]
 speaker = "unk"
 original = "また急だなぁ……"
-translation = "또 갑작스럽네……"
+translation = "또 갑자기 그러네……"
 
 [[dialogue]]
 speaker_original = "蘭美"
 speaker_translation = "라미"
 original = "「そんなことないわ！\u3000私、以前から思っていたのよ。会長の日常は、あまりに忙しすぎるって！」"
-translation = "「그렇지 않아! 나, 이전부터 생각하고 있었어. 회장의 일상은 너무 바쁘다고!」"
+translation = "「그렇지 않아! 나, 전부터 생각했었어. 회장의 일상은, 너무나 바쁘다고!」"
 
 [[dialogue]]
 speaker_original = "蘭美"
@@ -30,7 +30,7 @@ translation = "「시에스타가 납치 사건을 일으킨 것도, 성도회�
 speaker_original = "蘭美"
 speaker_translation = "라미"
 original = "「貴方の恋人として、婚約者として、専属メイドとして！\u3000もう二度と、あんな事件は起こさせないわ！」"
-translation = "「당신의 연인으로서, 약혼자로서, 전속 메이드로서! 또 다시 그런 사건은 일어나게 두지 않을 거야!」"
+translation = "「당신의 연인으로서, 약혼자로서, 전속 메이드로서! 또다시 두 번 다시, 그런 사건은 일으키게 두지 않겠어!」"
 
 [[dialogue]]
 speaker_original = "蘭美"
@@ -47,7 +47,7 @@ translation = "그럼 오늘 하루, 라비는……"
 speaker_original = "蘭美"
 speaker_translation = "라미"
 original = "「ええ。貴方を全力で癒やしてあげる。リクエストだって何でも聞いてあげるわよ！」"
-translation = "「그래. 당신을 전력으로 힐링해 줄게. 리퀘스트도 뭐든 들어줄 테니까!」"
+translation = "「응. 당신을 전력으로 힐링해 줄게. 리퀘스트든 뭐든 들어줄 테니까!」"
 
 [[dialogue]]
 speaker = "unk"
@@ -58,53 +58,53 @@ translation = "그렇다면──"
 speaker_original = "蘭美"
 speaker_translation = "라미"
 original = "「……私を膝上に乗せて、スキンシップがしたい？\u3000ふふ、ずいぶんと控えめなおねだりなのね？」"
-translation = "「……나를 무릎 위에 앉히고 스킨십이 하고 싶어? 후후, 제법 소박한 응석이네?」"
+translation = "「……나를 무릎 위에 올리고, 스킨십을 하고 싶어? 후후, 제법 조심스러운 떼쓰기네?」"
 
 [[dialogue]]
 speaker_original = "蘭美"
 speaker_translation = "라미"
 original = "「いいわ！\u3000それじゃあ、ベッドに座りなさいっ♪」"
-translation = "「좋아! 그럼 침대에 앉으렴♪」"
+translation = "「좋아! 그럼, 침대에 앉으렴♪」"
 
 [[dialogue]]
 speaker_original = "蘭美"
 speaker_translation = "라미"
 original = "「ん──しょっ。ふふ、貴方の太もも、すっかり私の特等席ね。でもいいのかしら？」"
-translation = "「으─차. 후후, 당신의 허벅지, 완전히 나의 특등석이네. 하지만 괜찮을까?」"
+translation = "「응──차. 후후, 당신의 허벅지, 완전히 나의 특등석이네. 하지만 괜찮으려나?」"
 
 [[dialogue]]
 speaker_original = "蘭美"
 speaker_translation = "라미"
 original = "「これ、疲れちゃわないかしら？\u3000私が膝枕でもしてあげた方が、癒やされるような気がするのだけれど……」"
-translation = "「이거, 피곤해지지 않을까? 내가 무릎베개라도 해주는 편이 더 힐링이 될 것 같은 기분이 드는데……」"
+translation = "「이거, 피곤해지지 않으려나? 내가 무릎베개라도 해 주는 편이, 힐링될 것 같은 기분이 드는데……」"
 
 [[dialogue]]
 speaker = "unk"
 original = "膝枕だと、蘭美をぎゅってできないから"
-translation = "무릎베개면 라비를 꽉 안아줄 수 없으니까"
+translation = "무릎베개를 하면, 라비를 꽉 안아줄 수 없으니까"
 
 [[dialogue]]
 speaker_original = "蘭美"
 speaker_translation = "라미"
 original = "「ぴゃっ！？\u3000ん、んぅ……<emoji=heart04>\u3000会長ったら、遠慮なく私のこと、ぎゅーってして……<emoji=heart04>」"
-translation = ""
+translation = "「뺘앗!? 응, 으응……<emoji=heart04> 회장도 참, 사양 않고 나를 꼭 안아주고……<emoji=heart04>」"
 
 [[dialogue]]
 speaker_original = "蘭美"
 speaker_translation = "라미"
 original = "「──ううん。痛くなんてないわ。あったかくて、安心する感じ……貴方も同じ気持ちなの？」"
-translation = "「──으응. 아프거나 하지 않아. 따뜻하고 안심되는 느낌…… 당신도 같은 마음이야?」"
+translation = "「──으응. 아프지 않아. 따뜻하고, 안심되는 느낌…… 당신도 같은 마음이야?」"
 
 [[dialogue]]
 speaker_original = "蘭美"
 speaker_translation = "라미"
 original = "「ふふ、私をハグして癒やされるんだったら、好きなだけさせてあげるわ。もっと強くぎゅーってしていいわよ♪」"
-translation = "「후후, 나를 안아서 힐링된다면 원하는 만큼 하게 해줄게. 더 세게 꽉 안아도 돼♪」"
+translation = "「후후, 나를 허그해서 힐링된다면, 마음껏 하게 해 줄게. 더 세게 꽉 안아줘도 된다구♪」"
 
 [[dialogue]]
 speaker = "unk"
 original = "このすっぽり収まる感じが最高だ"
-translation = "이 쏙 들어오는 느낌이 최고다"
+translation = "이 쏙 들어오는 느낌이 최고야"
 
 [[dialogue]]
 speaker = "unk"
@@ -115,23 +115,23 @@ translation = "라비는 작고 귀엽네"
 speaker_original = "蘭美"
 speaker_translation = "라미"
 original = "「だ、誰が小さいぴょんっ！？\u3000こ、これでも会長とお付き合い始めてから、ちょっとは成長──し、してるぴょんっ！！\u3000……たぶん」"
-translation = ""
+translation = "「누, 누가 작다는 거푱!? 이, 이래 봬도 회장이랑 교제를 시작하고 나서, 조금은 성장──하, 하고 있푱!! ……아마도」"
 
 [[dialogue]]
 speaker_original = "蘭美"
 speaker_translation = "라미"
 original = "「もう。貴方ってば、いつも私をからかうんだから……あっ<emoji=heart04>\u3000う、うさ耳に吐息、当たってる……くすぐったいってばぁ<emoji=heart04>」"
-translation = "「정말이지. 당신도 참, 항상 나를 놀리기만 하고…… 앗<emoji=heart04> 토, 토끼 귀에 숨결이 닿고 있어…… 간지럽다니까<emoji=heart04>」"
+translation = "「정말. 당신도 참, 항상 나를 놀리기만 하고…… 아앗<emoji=heart04> 으, 토끼귀에 숨결이, 닿고 있어…… 간지럽다니까아<emoji=heart04>」"
 
 [[dialogue]]
 speaker = "unk"
 original = "癒されるー……"
-translation = "힐링된다─……"
+translation = "힐링된다ー……"
 
 [[dialogue]]
 speaker = "unk"
 original = "ぎゅー……"
-translation = "꼬옥─……"
+translation = "꼬옥ー……"
 
 [[dialogue]]
 speaker_original = "蘭美"
@@ -143,7 +143,7 @@ translation = "「응읏<emoji=heart04> 매일의 피로가 풀린다면 다행�
 speaker_original = "蘭美"
 speaker_translation = "라미"
 original = "「今日はとことん会長の言うこと、聞いてあげちゃうんだから<emoji=heart04>\u3000私にしてほしいこと、何でもリクエストしなさい♪」"
-translation = "「오늘은 철저하게 회장이 하는 말 들어줄 테니까<emoji=heart04> 나한테 바라는 게 있다면 뭐든 리퀘스트해♪」"
+translation = "「오늘은 철저히 회장이 하는 말, 들어줘 버릴 테니까<emoji=heart04> 내가 해줬으면 하는 일, 뭐든지 리퀘스트해♪」"
 
 [[dialogue]]
 speaker = "unk"
@@ -153,25 +153,25 @@ translation = "……본심을 말하자면, 라비의 바니걸 모습을 보�
 [[dialogue]]
 speaker = "unk"
 original = "けれど彼女はあまりあの衣装を好いていない。だからおねだりが難しい──"
-translation = "하지만 그녀는 저 의상을 그다지 좋아하지 않는다. 그래서 부탁하기가 어려운데──"
+translation = "하지만 그녀는 저 의상을 그다지 좋아하지 않는다. 그래서 조르기가 어렵다──"
 
 [[dialogue]]
 speaker_original = "蘭美"
 speaker_translation = "라미"
 original = "「……い、言っておくけれど。何でもリクエストを聞いてあげるって言ったの、言葉どおりに取ってくれていいのよ？」"
-translation = "「……말, 말해두겠는데. 뭐든 리퀘스트를 들어주겠다고 한 거, 말 그대로 받아들여도 돼?」"
+translation = "「……말, 해두겠지만. 뭐든지 리퀘스트를 들어준다고 한 거, 말 그대로 받아들여도 된다구?」"
 
 [[dialogue]]
 speaker_original = "蘭美"
 speaker_translation = "라미"
 original = "「私、貴方のメイドだもの。ご主人様の求めにノーを言うような不忠者に見えるかしら……？」"
-translation = "「나, 당신의 메이드인걸. 주인님의 요구에 노라고 말하는 불충한 자로 보여……?」"
+translation = "「나, 당신의 메이드인걸. 주인님의 요구에 노라고 말할 법한 불충한 자로 보여……?」"
 
 [[dialogue]]
 speaker_original = "蘭美"
 speaker_translation = "라미"
 original = "「め、命令されたら、どんなことだって──き、聞いちゃう、ぴょんっ<emoji=heart04>」"
-translation = "「명, 명령하신다면 어떤 일이라도──드, 들을 거다, 뿅<emoji=heart04>」"
+translation = "「명, 명령 받는다면, 어떤 일이라도──드, 들어줄게, 푱<emoji=heart04>」"
 
 [[dialogue]]
 speaker = "unk"
@@ -199,42 +199,42 @@ translation = "「……알겠습니다, 주인님<emoji=heart04>」"
 speaker_original = "蘭美"
 speaker_translation = "라미"
 original = "「ど、どうかしら……？」"
-translation = "「어, 어떠니……?」"
+translation = "「어, 어떨까나……?」"
 
 [[dialogue]]
 speaker = "unk"
 original = "ぎゅー……！！"
-translation = "꼬옥─……!!"
+translation = "꼬옥ー……!!"
 
 [[dialogue]]
 speaker_original = "蘭美"
 speaker_translation = "라미"
 original = "「ぴゃあっ<emoji=heart04>\u3000さ、さっきより、強いぎゅー、されてるっ……ふ、ふふっ<emoji=heart04>\u3000そんなに喜んでくれるだなんて……」"
-translation = "「뺘앗<emoji=heart04> 아, 아까보다 세게 안아주고 있어…… 후, 후훗<emoji=heart04> 그렇게나 기뻐해 주다니……」"
+translation = "「퍅아앗<emoji=heart04> 아, 아까보다, 강하게 꼬옥, 당하고 있어…… 후, 후후<emoji=heart04> 그렇게나 기뻐해 주다니……」"
 
 [[dialogue]]
 speaker_original = "蘭美"
 speaker_translation = "라미"
 original = "「──私が嫌がってるから、リクエスト、しづらかったの？」"
-translation = "「──내가 싫어하고 있어서, 리퀘스트하기 힘들었어?」"
+translation = "「──내가 싫어하니까, 리퀘스트, 하기 어려웠어?」"
 
 [[dialogue]]
 speaker_original = "蘭美"
 speaker_translation = "라미"
 original = "「……確かに、あんまり積極的には着たくないわね。ラパン地方への誤解や偏見が広まっちゃうもの、この衣装」"
-translation = "「……확실히, 그다지 적극적으로 입고 싶지는 않네. 라팡 지방에 대한 오해나 편견이 넓어져 버리는걸, 이 의상」"
+translation = "「……확실히, 그다지 적극적으로 입고 싶진 않네. 라팡 지방에 대한 오해나 편견이 넓어져 버리는걸, 이 의상」"
 
 [[dialogue]]
 speaker_original = "蘭美"
 speaker_translation = "라미"
 original = "「でも、あくまで……不特定多数の人から見られる場所では、着たくないってだけよ？」"
-translation = "「하지만, 어디까지나…… 불특정 다수의 사람이 보는 장소에서는 입고 싶지 않을 뿐이야?」"
+translation = "「하지만, 어디까지나…… 불특정 다수의 사람들에게 보이는 장소에서는, 입고 싶지 않을 뿐이야?」"
 
 [[dialogue]]
 speaker_original = "蘭美"
 speaker_translation = "라미"
 original = "「……ご主人様と２人きりなら、私だってやぶさかじゃないぴょん<emoji=heart04>\u3000貴方も──すっごく喜んでくれるし」"
-translation = "「……주인님과 단둘이라면 나도 마다하지 않는다 뿅<emoji=heart04> 당신도── 엄청 기뻐해 주고」"
+translation = "「……주인님과 둘이서만이라면, 나도 못 할 건 없다푱<emoji=heart04> 당신도──엄청 기뻐해 주고」"
 
 [[dialogue]]
 speaker = "unk"
@@ -245,13 +245,13 @@ translation = "고마워, 라비. 정말 좋아해"
 speaker_original = "蘭美"
 speaker_translation = "라미"
 original = "「うん……私も<emoji=heart04>\u3000あっ……ちょ、ちょっとっ<emoji=heart04>\u3000お顔、そんなに近づけちゃ──んんんっ<emoji=heart04>」"
-translation = "「응…… 나도<emoji=heart04> 앗…… 잠, 잠깐만<emoji=heart04> 얼굴을 그렇게 가까이 가져다 대면── 읍읍읍<emoji=heart04>」"
+translation = "「응…… 나도<emoji=heart04> 아…… 자, 잠깐만<emoji=heart04> 얼굴, 그렇게 가까이 대면──응응응<emoji=heart04>」"
 
 [[dialogue]]
 speaker_original = "蘭美"
 speaker_translation = "라미"
 original = "「んちゅ、ぷぁ<emoji=heart04>\u3000はぅう……こんな恥ずかしい格好で、キスしちゃったぴょん……<emoji=heart04>」"
-translation = "「쪽, 푸하<emoji=heart04> 하으으…… 이런 부끄러운 차림으로 키스해 버렸다 뿅……<emoji=heart04>」"
+translation = "「응츄, 푸하<emoji=heart04> 하으으…… 이런 부끄러운 모습으로, 키스해 버렸다푱……<emoji=heart04>」"
 
 [[dialogue]]
 speaker = "unk"
@@ -261,7 +261,7 @@ translation = "꼬리도 귀엽네……"
 [[dialogue]]
 speaker = "unk"
 original = "うさ耳、なでなで……"
-translation = "토끼 귀, 쓰담쓰담……"
+translation = "토끼귀, 쓰다듬 쓰다듬……"
 
 [[dialogue]]
 speaker_original = "蘭美"
@@ -278,10 +278,10 @@ translation = "──안 돼?"
 speaker_original = "蘭美"
 speaker_translation = "라미"
 original = "「だ、ダメじゃない……ぴょん<emoji=heart04>\u3000もう──あんまり、言わせないで欲しいぴょん……んぅ<emoji=heart04>」"
-translation = "「아, 안 되는 건 아니야…… 뿅<emoji=heart04> 정말이지── 너무 말하게 하지 말았으면 좋겠다 뿅…… 으응<emoji=heart04>」"
+translation = "「아, 안 되는 건 아니야…… 푱<emoji=heart04> 정말──너무, 말하게 하지 말아 줬으면 좋겠다푱…… 응으<emoji=heart04>」"
 
 [[dialogue]]
 speaker = "unk"
 original = "俺の腕の中で、もじもじと身じろぎするウサギの恋人が可愛すぎて……その日は１日中、蘭美とくっついて過ごすのだった──"
-translation = "내 품 안에서 쭈뼛쭈뼛 몸을 움직이는 토끼 연인이 너무 귀여워서…… 그날은 하루 종일 라비와 안겨서 지내는 것이었다──"
+translation = "내 품 안에서, 머뭇머뭇 몸을 바르작거리는 토끼 연인이 너무 귀여워서…… 그날은 하루 종일, 라비와 붙어서 지내는 것이었다──"
 

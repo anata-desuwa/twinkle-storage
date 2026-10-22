@@ -286,7 +286,7 @@ translation = "「호타루비 씨, 잘 부탁드립니다앗」"
 speaker_original = "ベアトリス"
 speaker_translation = "베아트리스"
 original = "「完成～～～っ！」"
-translation = ""
+translation = "「완성～～～!」"
 
 [[dialogue]]
 speaker_original = "ナターシャ"
@@ -310,7 +310,7 @@ translation = "「다만, 이쪽의 암살자 파스타는 기존 레시피의 �
 speaker_original = "ベアトリス"
 speaker_translation = "베아트리스"
 original = "「大丈夫ですよっ。ニンニクは使えば使うほど美味しいんですからっ。ナターシャちゃん、召し上がれ」"
-translation = ""
+translation = "「괜찮아요. 마늘은 쓰면 쓸수록 맛있어지는 법이니까요. 나타샤 양, 드셔 보세요」"
 
 [[dialogue]]
 speaker_original = "ナターシャ"
@@ -340,7 +340,7 @@ translation = "「포크로 돌돌돌 말아서…… 아움」"
 speaker_original = "ナターシャ"
 speaker_translation = "나타샤"
 original = "「んぅむーーーっ！！？\u3000けほっ！\u3000けほっ！」"
-translation = ""
+translation = "「응으음ーーー!!? 쿨럭! 쿨럭!」"
 
 [[dialogue]]
 speaker_original = "ベアトリス"
@@ -424,7 +424,7 @@ translation = "「아니, 그건 됐어」"
 speaker_original = "ベアトリス"
 speaker_translation = "베아트리스"
 original = "「え～～っ！？」"
-translation = ""
+translation = "「에～～!?」"
 
 [[dialogue]]
 speaker_original = "蛍火"

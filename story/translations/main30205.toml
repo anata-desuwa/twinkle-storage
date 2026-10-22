@@ -1,0 +1,338 @@
+[[dialogue]]
+speaker = "unk"
+original = "第５話,『ソウルだけじゃどうにもならないこともある』,B"
+translation = "제5화, 『소울만으로는 어떻게 안 되는 것도 있다』, B"
+
+[[dialogue]]
+speaker_original = "オオヒメ"
+speaker_translation = "오오히메"
+original = "「練習場所まで確保しているとは……ラクシャ、見直したぞ」"
+translation = "「연습 장소까지 확보해 두다니…… 라쿠샤, 다시 봤다」"
+
+[[dialogue]]
+speaker_original = "ラクシャ"
+speaker_translation = "락샤"
+original = "「学園長のシノさんにお願いして空いてるトレーニングルームの１室を貸してもらったんだ。防音設備もしっかりしてるよ」"
+translation = "「학원장이신 시노 씨에게 부탁해서 비어 있는 트레이닝 룸 1실을 빌렸거든. 방음 설비도 제대로 되어 있어」"
+
+[[dialogue]]
+speaker_original = "セシア"
+speaker_translation = "세시아"
+original = "「楽器もちゃんと用意されているのね」"
+translation = "「악기도 제대로 준비되어 있네」"
+
+[[dialogue]]
+speaker_original = "マグダレナ"
+speaker_translation = "막달레나"
+original = "「ところで……私たちはそれぞれどの楽器を担当するのでしょう？」"
+translation = "「그런데…… 저희는 각각 어느 악기를 담당하게 되는 건가요?」"
+
+[[dialogue]]
+speaker_original = "ラクシャ"
+speaker_translation = "락샤"
+original = "「もちろんちゃーんと全員の担当を、ボクの独断と偏見で決めてるから♪」"
+translation = "「물론 차근차근 전원의 담당을, 내 독단과 편견으로 결정했으니까♪」"
+
+[[dialogue]]
+speaker_original = "オオヒメ"
+speaker_translation = "오오히메"
+original = "「自慢げに言うことか？」"
+translation = "「자랑스럽게 말할 거리인가?」"
+
+[[dialogue]]
+speaker_original = "ラクシャ"
+speaker_translation = "락샤"
+original = "「どーせみんな未経験者だし、誰がどの担当になっても同じでしょ？」"
+translation = "「어차피 다들 미경험자고, 누구 어떤 담당이 되어도 똑같잖아?」"
+
+[[dialogue]]
+speaker_original = "オオヒメ"
+speaker_translation = "오오히메"
+original = "「それはそうだが……ぶつぶつ……」"
+translation = "「그건 그렇다만…… 웅얼웅얼……」"
+
+[[dialogue]]
+speaker_original = "ラクシャ"
+speaker_translation = "락샤"
+original = "「それじゃ、発表するねー！\u3000まずはボーカル担当がセシア！」"
+translation = "「그럼, 발표할게~! 우선 보컬 담당이 세시아!」"
+
+[[dialogue]]
+speaker_original = "セシア"
+speaker_translation = "세시아"
+original = "「わかったわ」"
+translation = "「알았어」"
+
+[[dialogue]]
+speaker_original = "パテル"
+speaker_translation = "파텔"
+original = "「まぁ、適任じゃないかな」"
+translation = "「뭐, 적임이 아닐까」"
+
+[[dialogue]]
+speaker_original = "オオヒメ"
+speaker_translation = "오오히메"
+original = "「異議なしだ」"
+translation = "「이의 없다」"
+
+[[dialogue]]
+speaker_original = "ラクシャ"
+speaker_translation = "락샤"
+original = "「それからギターを担当するのがボクとオオヒメ！」"
+translation = "「그리고 기타를 담당하는 게 나랑 오오히메!」"
+
+[[dialogue]]
+speaker_original = "オオヒメ"
+speaker_translation = "오오히메"
+original = "「ギターか……責任重大だな。ラクシャ、知っているとは思うが、私は芸事が好きだが楽器が弾けるというわけではないぞ？」"
+translation = "「기타인가…… 책임 중대하군. 라쿠샤, 알고는 있을 거라 생각하지만, 내가 예능을 좋아하긴 해도 악기를 연주할 수 있다는 건 아니다?」"
+
+[[dialogue]]
+speaker_original = "ラクシャ"
+speaker_translation = "락샤"
+original = "「分かってるって。本番までにたくさん練習すれば、きっと弾けるようになるからさ」"
+translation = "「알고 있다니까. 본방까지 많이 연습하면, 분명 연주할 수 있게 될 테니까」"
+
+[[dialogue]]
+speaker_original = "オオヒメ"
+speaker_translation = "오오히메"
+original = "「うむ……」"
+translation = "「음……」"
+
+[[dialogue]]
+speaker_original = "ラクシャ"
+speaker_translation = "락샤"
+original = "「それからベースがアルモタヘル」"
+translation = "「그리고 베이스가 알모타헬」"
+
+[[dialogue]]
+speaker_original = "アルモタヘル"
+speaker_translation = "아르모타헬"
+original = "「べーす？\u3000べーす、というのは……どれだ？」"
+translation = "「베이스? 베이스, 라는 것은…… 어느 것인가?」"
+
+[[dialogue]]
+speaker_original = "ラクシャ"
+speaker_translation = "락샤"
+original = "「これこれ」"
+translation = "「이거 이거」"
+
+[[dialogue]]
+speaker_original = "アルモタヘル"
+speaker_translation = "아르모타헬"
+original = "「ラクシャやオオヒメの担当するギターという楽器と似ているが、違う楽器なのか？」"
+translation = "「라쿠샤나 오오히메가 담당하는 기타라는 악기와 닮았는데, 다른 악기인가?」"
+
+[[dialogue]]
+speaker_original = "ラクシャ"
+speaker_translation = "락샤"
+original = "「うーん、似て非なるものって感じかな。メインのメロディを弾くっていうより、リズムを刻む感じだよ」"
+translation = "「음, 닮았지만 다른 거라는 느낌이려나. 메인 멜로디를 연주한다기보다는, 리듬을 새기는 느낌이야」"
+
+[[dialogue]]
+speaker_original = "アルモタヘル"
+speaker_translation = "아르모타헬"
+original = "「よく分からぬが……承知した」"
+translation = "「잘 모르겠지만…… 알겠다」"
+
+[[dialogue]]
+speaker_original = "マグダレナ"
+speaker_translation = "막달레나"
+original = "「私の担当は何になるのでしょう？」"
+translation = "「제 담당은 무엇이 되는 걸까요?」"
+
+[[dialogue]]
+speaker_original = "ラクシャ"
+speaker_translation = "락샤"
+original = "「マグダレナにはドラムをお願いしようかな」"
+translation = "「마그달레나에게는 드럼을 부탁할까 해」"
+
+[[dialogue]]
+speaker_original = "マグダレナ"
+speaker_translation = "막달레나"
+original = "「あら」"
+translation = "「어머」"
+
+[[dialogue]]
+speaker_original = "オオヒメ"
+speaker_translation = "오오히메"
+original = "「おっとりしているマグダレナにドラムとは、意外な担当だな」"
+translation = "「의젓한 마그달레나에게 드럼이라니, 의외의 담당이군」"
+
+[[dialogue]]
+speaker_original = "ラクシャ"
+speaker_translation = "락샤"
+original = "「マグダレナみたいなおっとりお姉さんが、豪快にドラムを叩いてるのがカッコイイんだよ！」"
+translation = "「마그달레나 같은 의젓한 언니가, 호쾌하게 드럼을 치고 있는 게 멋지다구!」"
+
+[[dialogue]]
+speaker_original = "マグダレナ"
+speaker_translation = "막달레나"
+original = "「こちらのバチで叩けばいいのですね？」"
+translation = "「이쪽 채로 치면 되는 거지요?」"
+
+[[dialogue]]
+speaker_original = "ラクシャ"
+speaker_translation = "락샤"
+original = "「スティックって言ってね」"
+translation = "「스틱이라고 해」"
+
+[[dialogue]]
+speaker_original = "マグダレナ"
+speaker_translation = "막달레나"
+original = "「トントントン♪\u3000ふふっ、何だか楽しそうですね♪」"
+translation = "「통통통♪ 후후, 왠지 즐거울 것 같네요♪」"
+
+[[dialogue]]
+speaker_original = "ラクシャ"
+speaker_translation = "락샤"
+original = "「最後にパテルは本人からの希望もあってキーボードをやってもらうよ」"
+translation = "「마지막으로 파텔은 본인의 희망도 있고 해서 키보드를 맡기기로 했어」"
+
+[[dialogue]]
+speaker_original = "パテル"
+speaker_translation = "파텔"
+original = "「オッケー」"
+translation = "「오케이」"
+
+[[dialogue]]
+speaker_original = "オオヒメ"
+speaker_translation = "오오히메"
+original = "「ちなみに何故、キーボードなのだ？\u3000もしや経験者なのか？」"
+translation = "「참고로 어째서 키보드인 것인가? 혹시 경험자인가?」"
+
+[[dialogue]]
+speaker_original = "パテル"
+speaker_translation = "파텔"
+original = "「違うよ。ボーカルとかギターとか、そういう花形なのは勘弁して欲しいだけ」"
+translation = "「아니야. 보컬이라든가 기타라든가, 그런 화려한 자리는 봐줬으면 할 뿐」"
+
+[[dialogue]]
+speaker_original = "オオヒメ"
+speaker_translation = "오오히메"
+original = "「成程、目立たずステージの後ろに居られる役割を選んだのだな」"
+translation = "「성록, 눈에 띄지 않고 무대 뒤에 있을 수 있는 역할을 택한 것이군」"
+
+[[dialogue]]
+speaker_original = "ラクシャ"
+speaker_translation = "락샤"
+original = "「これがボクの考えてきたパートだけど、みんな異論はないかな？」"
+translation = "「이게 내가 생각해 온 파트인데, 다들 이론은 없으려나?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ラクシャの言葉に全員が異論はないと頷く。"
+translation = "라쿠샤의 말에 전원이 이론은 없다고 고개를 끄덕인다."
+
+[[dialogue]]
+speaker = "unk"
+original = "納得したというより、よく分からないので流れに身を任せたといった様子だった。"
+translation = "납득했다기보다는, 잘 모르기 때문에 흐름에 몸을 맡겼다는 모습이었다."
+
+[[dialogue]]
+speaker_original = "オオヒメ"
+speaker_translation = "오오히메"
+original = "「担当が決まったところで……ラクシャ、演奏する楽曲は決まっているのか？」"
+translation = "「담당이 정해진 김에…… 라쿠샤, 연주할 악곡은 정해져 있는가?」"
+
+[[dialogue]]
+speaker_original = "ラクシャ"
+speaker_translation = "락샤"
+original = "「抜かりはないよ。ちゃんと目星はつけてるから」"
+translation = "「빈틈은 없어. 제대로 점찍어 뒀으니까」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ラクシャはＤＩＳＣを取り出すと、画面が見えるようにみんなの前に差し出す。"
+translation = "라쿠샤는 DISC를 꺼내 들고는, 화면이 보이도록 모두의 앞에 내밀어 보인다."
+
+[[dialogue]]
+speaker_original = "ラクシャ"
+speaker_translation = "락샤"
+original = "「じゃあいくよ、動画再生、スタート！」"
+translation = "「자 그럼 간다, 동영상 재생, 스타트!」"
+
+[[dialogue]]
+speaker_original = "マグダレナ"
+speaker_translation = "막달레나"
+original = "「…………」"
+translation = "「…………」"
+
+[[dialogue]]
+speaker_original = "アルモタヘル"
+speaker_translation = "아르모타헬"
+original = "「…………」"
+translation = "「…………」"
+
+[[dialogue]]
+speaker_original = "セシア"
+speaker_translation = "세시아"
+original = "「…………」"
+translation = "「…………」"
+
+[[dialogue]]
+speaker_original = "パテル"
+speaker_translation = "파텔"
+original = "「…………」"
+translation = "「…………」"
+
+[[dialogue]]
+speaker_original = "オオヒメ"
+speaker_translation = "오오히메"
+original = "「……随分と、激しい曲のようだが……」"
+translation = "「……제법, 격렬한 곡인 것 같다만……」"
+
+[[dialogue]]
+speaker_original = "ラクシャ"
+speaker_translation = "락샤"
+original = "「バリバリのロックだよ♪\u3000フェスでこれの生演奏を見たことがあるんだけど、すごかったんだ～！\u3000盛り上がること間違いなし！」"
+translation = "「정통 록이야♪ 페스에서 이거 라이브 연주를 본 적이 있는데, 엄청났다구~! 분위기 업될 것은 틀림없어!」"
+
+[[dialogue]]
+speaker_original = "オオヒメ"
+speaker_translation = "오오히메"
+original = "「それはそうだが……このような激しい曲を、未経験者だらけの私たちに演奏できるのか？」"
+translation = "「그건 그렇다만…… 이러한 격렬한 곡을, 미경험자투성이인 우리가 연주할 수 있는 건가?」"
+
+[[dialogue]]
+speaker_original = "ラクシャ"
+speaker_translation = "락샤"
+original = "「大丈夫だよ！\u3000なんたってボクらは守護天使バンド『Ｇｏｌｄｅｎ\u3000Ａｎｇｅｌｓ』だからね」"
+translation = "「괜찮아! 어쨌든 우리들은 수호천사 밴드 『Golden Angels』니까 말이야」"
+
+[[dialogue]]
+speaker_original = "ラクシャ"
+speaker_translation = "락샤"
+original = "「ボクたちにはデネブの人々を励ましたいっていう熱いソウルがあるんだ！\u3000普通なら不可能ってことも可能にできちゃったりするのさっ！」"
+translation = "「우리들에게는 데네브의 사람들을 격려하고 싶다는 뜨거운 소울이 있어! 보통이라면 불가능하다는 것도 가능하게 만들어 버릴 수 있다구!」"
+
+[[dialogue]]
+speaker_original = "ラクシャ"
+speaker_translation = "락샤"
+original = "「さあ、みんな！\u3000楽器を持って！\u3000『Ｇｏｌｄｅｎ\u3000Ａｎｇｅｌｓ』の初セッションだよ！」"
+translation = "「자, 모두들! 악기를 들고! 『Golden Angels』의 첫 세션이야!」"
+
+[[dialogue]]
+speaker_original = "オオヒメ"
+speaker_translation = "오오히메"
+original = "「セッション！？\u3000いきなり弾くとか、無理に決まっている！？」"
+translation = "「세션!? 갑자기 연주한다니, 무리인 게 당연하다!?」"
+
+[[dialogue]]
+speaker_original = "ラクシャ"
+speaker_translation = "락샤"
+original = "「そんなことないさ！\u3000ソウルの命じるままに奏でれば、相棒はきっと応えてくれる！\u3000オーケー？」"
+translation = "「그렇지 않아! 소울이 명하는 대로 연주하면, 파트너는 분명 응해 줄 거야! 오케이?」"
+
+[[dialogue]]
+speaker_original = "オオヒメ"
+speaker_translation = "오오히메"
+original = "「お。おーけー……」"
+translation = "「오. 오케이……」"
+
+[[dialogue]]
+speaker_original = "ラクシャ"
+speaker_translation = "락샤"
+original = "「オーケー、いくよ～♪\u3000ワーン、ツー、ワンツースリーフォーっ♪」"
+translation = "「오케이, 간다~~♪ 원, 투, 원투스리포~♪」"
+

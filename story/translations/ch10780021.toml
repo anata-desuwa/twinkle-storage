@@ -1,7 +1,7 @@
 [[dialogue]]
 speaker = "unk"
 original = "第１話,光の魔女の落とし方,P"
-translation = "제1화, 빛의 마녀를 공략하는 방법, P"
+translation = "제1화, 빛의 마녀를 공략하는 법,P"
 
 [[dialogue]]
 speaker = "unk"
@@ -16,7 +16,7 @@ translation = "이것은, 그녀와 내가 아직 교제를 시작하기 전의 
 [[dialogue]]
 speaker = "unk"
 original = "トリュファイナさんに告白しようと思う"
-translation = "트리파이나 씨에게 고백하려고 한다"
+translation = "트리파이나 씨에게 고백하려고 해"
 
 [[dialogue]]
 speaker_original = "アナ"
@@ -28,12 +28,12 @@ translation = "「무려……!」"
 speaker_original = "マトイ"
 speaker_translation = "마토이"
 original = "「とうとう覚悟を決めたんだね、会長！\u3000応援してるよ！」"
-translation = "「드디어 각오를 다진 거구나, 회장! 응원하고 있을게!」"
+translation = "「드디어 각오를 다졌구나, 회장! 응원하고 있어!」"
 
 [[dialogue]]
 speaker = "unk"
 original = "でも悩んでることがあって……"
-translation = "하지만 고민하고 있는 것이 있어서……"
+translation = "하지만 고민하고 있는 게 있어서……"
 
 [[dialogue]]
 speaker = "unk"
@@ -44,7 +44,7 @@ translation = "둘 다, 고마워!"
 speaker_original = "アナ"
 speaker_translation = "아나"
 original = "「ふむ……？\u3000永き時を生きる、魔女の中でもとびきり格の高い『光の魔女様』に、どのようにアプローチすれば良いのかわからない、と」"
-translation = "「흠……? 오랜 세월을 살아가는 마녀 중에서도 유독 격이 높은 『빛의 마녀님』에게, 어떻게 접근하면 좋을지 모르겠다, 라」"
+translation = "「흠……? 오랜 세월을 살아온, 마녀 중에서도 으뜸가는 격을 지닌 『빛의 마녀님』에게, 어떻게 어프로치해야 좋을지 모르겠다, 라」"
 
 [[dialogue]]
 speaker_original = "マトイ"
@@ -66,31 +66,31 @@ translation = "절대로 실패하고 싶지 않아"
 speaker_original = "アナ"
 speaker_translation = "아나"
 original = "「特に奇をてらった作戦などいらないと思いますが。傍目から見て、光の魔女様は会長にぞっこんに見えます」"
-translation = "「딱히 엉뚱한 작전 따위는 필요 없을 거라 생각합니다만. 겉에서 보기에, 빛의 마녀님은 회장님에게 푹 빠져 있는 것처럼 보입니다」"
+translation = "「딱히 엉뚱한 작전 따위는 필요 없다고 생각합니다만. 겉보기에, 빛의 마녀님은 회장에게 푹 빠져 있는 것으로 보입니다」"
 
 [[dialogue]]
 speaker_original = "マトイ"
 speaker_translation = "마토이"
 original = "「うん。会長が告白したら、二つ返事でＯＫしてくれそうだよね……」"
-translation = "「응. 회장이 고백하면, 선뜻 OK해 줄 것 같은데……」"
+translation = "「응. 회장이 고백하면, 단번에 OK해 줄 것 같은데……」"
 
 [[dialogue]]
 speaker_original = "アナ"
 speaker_translation = "아나"
 original = "「しかしオーダーは把握しました。トリュファイナさんが告白をＯＫしたくなるようなアプローチのアイデアを出せばいいのですね」"
-translation = "「하지만 오더는 파악했습니다. 트리파이나 씨가 고백을 OK하고 싶어질 만한 접근 아이디어를 내면 되는 것이군요」"
+translation = "「하지만 오더는 파악했습니다. 트리파이나 씨가 고백을 OK하고 싶어질 만한 어프로치 아이디어를 내면 되는 것이군요」"
 
 [[dialogue]]
 speaker_original = "アナ"
 speaker_translation = "아나"
 original = "「んー。やはり王道がよいのでは？\u3000放課後に校舎裏に呼び出して、愚直に『あいらぶゆー』とアタックです」"
-translation = "「음─. 역시 왕도가 좋지 않을까요? 방과 후에 교사 뒤편으로 불러내서, 솔직하게 『아이 러브 유』라고 어택하는 겁니다」"
+translation = "「음ー. 역시 왕도가 좋지 않을까요? 방과 후에 교사 뒤편으로 불러내서, 솔직하게 『아이 러브 유』라고 어택하는 겁니다」"
 
 [[dialogue]]
 speaker_original = "マトイ"
 speaker_translation = "마토이"
 original = "「別のパターンだったら……ラブレターとか！\u3000形に残るものだったら、喜んでくれるかも！」"
-translation = "「다른 패턴이라면…… 러브레터라든가! 형태에 남는 거라면, 기뻐해 줄지도!」"
+translation = "「다른 패턴이라면…… 러브레터라든가! 형태에 남는 거라면, 기뻐해 줄지도 몰라!」"
 
 [[dialogue]]
 speaker = "unk"
@@ -101,19 +101,19 @@ translation = "둘 다, 즐거워 보이는걸……"
 speaker_original = "アナ"
 speaker_translation = "아나"
 original = "「楽しいですね。会長のコイバナですよ？」"
-translation = "「즐겁네요. 회장님의 연애담이라고요?」"
+translation = "「즐겁네요. 회장의 연애 이야기니까요?」"
 
 [[dialogue]]
 speaker_original = "マトイ"
 speaker_translation = "마토이"
 original = "「うん！\u3000すっごく楽しい！\u3000でも悩むなあ、どんなアプローチがいいかなぁ……！」"
-translation = "「응! 엄청 즐거워! 하지만 고민되네, 어떤 접근이 좋을까나……!」"
+translation = "「응! 엄청 즐거워! 하지만 고민되네, 어떤 어프로치가 좋을까나……!」"
 
 [[dialogue]]
 speaker_original = "シュティレ"
 speaker_translation = "슈틸레"
 original = "「──盛り上がっておりますね、先輩方」"
-translation = "「──열기가 뜨겁네요, 선배님들」"
+translation = "「──신나 계시네요, 선배님들」"
 
 [[dialogue]]
 speaker_original = "マトイ"
@@ -131,19 +131,19 @@ translation = "「네. 『섬광』의 슈틸레입니다. 이야기 들었습�
 speaker_original = "シュティレ"
 speaker_translation = "슈틸레"
 original = "「僭越ながら、トリュファイナさんへのアプローチでアイデアがございます。シュティレは光の魔女様とズッ友の間柄ですので。ぶい」"
-translation = "「주제넘지만, 트리파이나 씨에게 할 접근으로 아이디어가 있습니다. 슈틸레는 빛의 마녀님과 베프 관계이니까요. 브이」"
+translation = "「외람되오나, 트리파이나 씨를 향한 어프로치에 아이디어가 있습니다. 슈틸레는 빛의 마녀님과 절친한 사이이니까요. 브이」"
 
 [[dialogue]]
 speaker_original = "アナ"
 speaker_translation = "아나"
 original = "「おお。購買部で一緒に過ごすことが多いですものね。会長、貴重な意見が貰えそうですよ」"
-translation = "「오오. 매점에서 함께 보내는 일이 많으니까요. 회장, 귀중한 의견을 얻을 수 있을 것 같아요」"
+translation = "「오오. 매점에서 함께 지내는 일이 많으니까요. 회장, 귀중한 의견을 들을 수 있을 것 같아요」"
 
 [[dialogue]]
 speaker_original = "シュティレ"
 speaker_translation = "슈틸레"
 original = "「これは先日の話です。購買部の休憩時間に、シュティレのタブレットで、トリュファイナさんと漫画を読んでおりました──」"
-translation = "「이건 요전 날의 이야기입니다. 매점 휴식 시간에, 슈틸레의 태블릿으로, 트리파이나 씨와 만화를 읽고 있었습니다──」"
+translation = "「이건 일전의 이야기입니다. 매점 휴식 시간에, 슈틸레의 태블릿으로, 트리파이나 씨와 만화를 읽고 있었습니다──」"
 
 [[dialogue]]
 speaker_original = "トリュファイナ"
@@ -155,55 +155,55 @@ translation = "「호에에～…… 이것이 현대의 『순정만화』라�
 speaker_original = "シュティレ"
 speaker_translation = "슈틸레"
 original = "「はい。クラスメイトからオススメされて購入したのですが、なかなかどうして読ませますね」"
-translation = "「네. 반 친구에게 추천받아 구입한 것입니다만, 제법 재미있게 읽히네요」"
+translation = "「네. 반 친구에게 추천받아서 구매했습니다만, 제법 읽을 만하네요」"
 
 [[dialogue]]
 speaker_original = "トリュファイナ"
 speaker_translation = "트류파이나"
 original = "「ふふ。シュティレ様は、ロボットの出てくる漫画ばかり読んでいらっしゃいますものね」"
-translation = "「후후. 슈틸레 님은, 로봇이 나오는 만화만 읽고 계셨으니까요」"
+translation = "「후후. 슈틸레 님은, 로봇이 나오는 만화만 읽고 계시니까요」"
 
 [[dialogue]]
 speaker_original = "シュティレ"
 speaker_translation = "슈틸레"
 original = "「ええ。ギガンドムのコミカライズは余さずチェックしていますが、少女漫画は新鮮です」"
-translation = "「네. 기간돔의 코미컬라이즈는 빠짐없이 체크하고 있습니다만, 순정만화는 신선합니다」"
+translation = "「예. 기간돔의 코미컬라이즈는 빠짐없이 체크하고 있습니다만, 순정만화는 신선합니다」"
 
 [[dialogue]]
 speaker_original = "シュティレ"
 speaker_translation = "슈틸레"
 original = "「あ──とうとうイケメン君が、ヒロインに告白するみたいですね。少女漫画の山場と言えましょう」"
-translation = "「아── 드디어 미남군이, 히로인에게 고백하는 모양이네요. 순정만화의 절정이라 할 수 있겠죠」"
+translation = "「아──드디어 잘생긴 남주가, 히로인에게 고백하는 모양이네요. 순정만화의 절정이라 할 수 있겠습니다」"
 
 [[dialogue]]
 speaker_original = "トリュファイナ"
 speaker_translation = "트류파이나"
 original = "「……ほ、ほぇっ！？\u3000この情熱的なアプローチはいったい！？」"
-translation = "「……호, 호에!? 이 열정적인 어프로치는 도대체!?」"
+translation = "「……호, 호엣!? 이 열정적인 어프로치는 대체!?」"
 
 [[dialogue]]
 speaker_original = "シュティレ"
 speaker_translation = "슈틸레"
 original = "「壁ドンというやつですね。主に俺様系の男子が、内気な女子に向かって行う、逃げ場を封じる告白シチュエーションです」"
-translation = "「카베돈(벽치기)이라는 것입니다. 주로 나쁜 남자 스타일의 남성이, 내성적인 여성을 향해 실시하는, 도망칠 곳을 막는 고백 시츄에이션입니다」"
+translation = "「카베돈(벽치기)이라는 것입니다. 주로 오레사마(나님)계 남자가, 내성적인 여자를 향해 행하는, 도망칠 곳을 차단하는 고백 시츄에이션입니다」"
 
 [[dialogue]]
 speaker_original = "トリュファイナ"
 speaker_translation = "트류파이나"
 original = "「か、壁ドン……！？\u3000こ、ここ、こんな距離で逃げ場をなくされて、意中の殿方から見つめられては、ひとたまりも……！！」"
-translation = "「카, 카베돈……!? 이, 이, 이런 거리에서 도망칠 곳을 잃고, 마음에 둔 남성분이 바라보시면, 당해낼 수가……!!」"
+translation = "「벽, 벽치기……!? 이, 이, 이런 거리에서 도망칠 곳을 잃고, 마음에 둔 남성분께 시선이 고정당하면, 견딜 수가……!!」"
 
 [[dialogue]]
 speaker_original = "トリュファイナ"
 speaker_translation = "트류파이나"
 original = "「し、しかも──『俺の女になれ』！？\u3000ひゃぁ！？\u3000顎をクイって持ち上げて──そんな、口づけまで！？\u3000ほぇぇえ～……！」"
-translation = "「게, 게다가── 『내 여자가 되어라』!? 히야아!? 턱을 슥 올려 세우고── 세상에, 입맞춤까지!? 호에에에~……!」"
+translation = "「게, 게다가── 『내 여자가 돼라』!? 히야아!? 턱을 퀵 하고 쳐들어 올리고── 그런, 입맞춤까지!? 호에에에～……!」"
 
 [[dialogue]]
 speaker_original = "シュティレ"
 speaker_translation = "슈틸레"
 original = "「現代の恋愛アプローチは多様です。いかがですか、トリュファイナさん」"
-translation = "「현대의 연애 접근은 다양합니다. 어떠신가요, 트리파이나 씨」"
+translation = "「현대의 연애 어프로치는 다양합니다. 어떠신가요, 트리파이나 씨」"
 
 [[dialogue]]
 speaker_original = "トリュファイナ"
@@ -221,7 +221,7 @@ translation = "「──이상입니다. 경청해 주셔서 감사합니다. �
 speaker_original = "アナ"
 speaker_translation = "아나"
 original = "「これは強力な情報ですね。会長、壁ドンでいきましょう」"
-translation = "「이건 강력한 정보네요. 회장, 카베돈으로 가죠」"
+translation = "「이건 강력한 정보네요. 회장, 벽치기로 갑시다」"
 
 [[dialogue]]
 speaker_original = "マトイ"
@@ -261,12 +261,12 @@ translation = "(아, 안 됩니다 안 됩니다. 마왕님은 매우 진지한 
 speaker_original = "トリュファイナ"
 speaker_translation = "트류파이나"
 original = "「それで魔王様。お話とは、いったい──」"
-translation = "「그래서 마왕님. 할 말씀이란, 대체──」"
+translation = "「그래서 마왕님. 하실 말씀이란, 대체──」"
 
 [[dialogue]]
 speaker = "unk"
 original = "俺はトリュファイナさんを壁際に追い詰めた──壁ドンである。"
-translation = "나는 트리파이나 씨를 벽가로 몰아넣었다── 카베돈이다."
+translation = "나는 트리파이나 씨를 벽가로 몰아붙였다── 벽치기다."
 
 [[dialogue]]
 speaker_original = "トリュファイナ"
@@ -294,13 +294,13 @@ translation = "……내 여자가 돼라"
 speaker_original = "トリュファイナ"
 speaker_translation = "트류파이나"
 original = "「ほぇえぇぇぇえぇえ～～～～～っ！？！？！？」"
-translation = "「호에에에에에에~~!?!?!?」"
+translation = "「호에에에에에에～～～～～앗!?!?!?」"
 
 [[dialogue]]
 speaker_original = "トリュファイナ"
 speaker_translation = "트류파이나"
 original = "（こ、告白っ！？\u3000私、告白されています！？！？\u3000しかも壁ドン！！\u3000あの壁ドンです～っ！？！？）"
-translation = ""
+translation = "(고, 고백!? 나, 고백받고 있나요!?!? 그것도 카베동!! 그 카베동이에요~!?!?)"
 
 [[dialogue]]
 speaker = "unk"
@@ -317,35 +317,35 @@ translation = "「아…… 저기! 저기 저기…… 그게 말이죠……!!
 speaker_original = "トリュファイナ"
 speaker_translation = "트류파이나"
 original = "「つ、謹んで……お、お受け、いたします……<emoji=heart04>」"
-translation = "「삼, 삼가…… 받, 받아들이겠, 습니다……<emoji=heart04>」"
+translation = "「삼, 삼가…… 바, 받아, 들이겠습니다……<emoji=heart04>」"
 
 [[dialogue]]
 speaker = "unk"
 original = "（成功したあぁぁぁぁッッッ！？！？）"
-translation = "（성공했다아아아아읏!?!?!?）"
+translation = "（성공했다아아아아씃!?!?!?）"
 
 [[dialogue]]
 speaker_original = "トリュファイナ"
 speaker_translation = "트류파이나"
 original = "（こ、この後は……顎クイがあって、それでそれで……！）"
-translation = "(이, 이 다음은…… 턱을 슥 올리고, 그래서 그래서……!)"
+translation = "（이, 이 다음은…… 턱을 들어 올리는 게 있고, 그리고 그리고……!）"
 
 [[dialogue]]
 speaker_original = "トリュファイナ"
 speaker_translation = "트류파이나"
 original = "「じ……じぃ～…………<emoji=heart04>」"
-translation = "「빤…… 빤히～…………<emoji=heart04>」"
+translation = "「지…… 빤히～…………<emoji=heart04>」"
 
 [[dialogue]]
 speaker = "unk"
 original = "（顎クイとキスを待ってる────！？！？）"
-translation = "(턱 슥이랑 키스를 기다리고 있어────!?!?)"
+translation = "（턱 들어 올리기와 키스를 기다리고 있다────!?!?!?）"
 
 [[dialogue]]
 speaker_original = "トリュファイナ"
 speaker_translation = "트류파이나"
 original = "（あ、あれれ？\u3000見つめてキスをおねだりしたの、間違っていたでしょうか……！？\u3000はしたないって、思われたでしょうか！？）"
-translation = "(어, 어라라? 바라보며 키스를 졸라댄 것, 잘못된 걸까요……!? 얌전하지 못하다고, 생각하셨을까요!?)"
+translation = "（어, 어라라? 빤히 바라보며 키스를 조른 거, 잘못된 걸까요……!? 조신하지 못하다고, 생각하셨을까요!?）"
 
 [[dialogue]]
 speaker = "unk"
@@ -355,7 +355,7 @@ translation = "트리파이나 씨, 가만히 있어 봐"
 [[dialogue]]
 speaker = "unk"
 original = "（最後まで、しっかりやらなきゃ……！）"
-translation = "(끝까지, 제대로 해야 해……!)"
+translation = "（끝까지, 확실히 해야 해……!）"
 
 [[dialogue]]
 speaker_original = "トリュファイナ"
@@ -367,7 +367,7 @@ translation = "「아…… 마왕님──<emoji=heart04>」"
 speaker_original = "トリュファイナ"
 speaker_translation = "트류파이나"
 original = "「んぅ────ちゅっ<emoji=heart04>」"
-translation = "「응으──── 쪽<emoji=heart04>」"
+translation = "「응으────쪽<emoji=heart04>」"
 
 [[dialogue]]
 speaker = "unk"
@@ -383,7 +383,7 @@ translation = "이렇게 나와 트리파이나 씨는, 연인 사이가 된 것
 speaker_original = "アナ"
 speaker_translation = "아나"
 original = "「……わーぉ」"
-translation = "「……와─우」"
+translation = "「……와ー우」"
 
 [[dialogue]]
 speaker_original = "マトイ"
@@ -395,7 +395,7 @@ translation = "「걱정돼서 따라왔는데…… 보, 보, 봐서는 안 될
 speaker_original = "シュティレ"
 speaker_translation = "슈틸레"
 original = "「そうですね。無粋なギャラリーはクールに去るとしましょう」"
-translation = "「그렇군요. 멋없는 갤러리는 쿨하게 떠나기로 하죠」"
+translation = "「그렇군요. 멋없는 갤러리는 쿨하게 떠나도록 하죠」"
 
 [[dialogue]]
 speaker_original = "シュティレ"

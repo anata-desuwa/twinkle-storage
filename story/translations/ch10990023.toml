@@ -7,23 +7,23 @@ translation = ""
 speaker_original = "ミウ"
 speaker_translation = "미우"
 original = "「教室に迎えに来るなら、来るって連絡してくれれば、途中で抜けてきましたのに……」"
-translation = ""
+translation = "「교실로 마중 나올 거면, 나온다고 연락이라도 해 주시지. 도중에 빠져나왔을 텐데……」"
 
 [[dialogue]]
 speaker = "unk"
 original = "メールしたと思うんだけど？"
-translation = ""
+translation = "문자 보냈던 것 같은데?"
 
 [[dialogue]]
 speaker_original = "ミウ"
 speaker_translation = "미우"
 original = "「えっ……？\u3000あ、本当だ……見逃しちゃってました。話に夢中になってて、気づかなかったんですね。ごめんなさい」"
-translation = ""
+translation = "「앗……? 아, 진짜다…… 못 보고 지나쳤었네요. 이야기하느라 정신이 팔려서 몰랐나 봐요. 죄송해요」"
 
 [[dialogue]]
 speaker = "unk"
 original = "俺に関する話だったみたいだけど"
-translation = ""
+translation = "나에 관한 이야기였던 것 같은데"
 
 [[dialogue]]
 speaker = "unk"

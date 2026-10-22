@@ -1,7 +1,7 @@
 [[dialogue]]
 speaker = "unk"
 original = "九浄家メイド隊の新人メイドだと紹介された獣人魔族の少女『<ruby>狛里<rt>こまり</rt></ruby>』。"
-translation = ""
+translation = "쿠죠가 메이드대의 신입 메이드라고 소개받은 수인 마족 소녀 『<ruby>코마리<rt>코마리</rt></ruby>』."
 
 [[dialogue]]
 speaker_original = "狛里"
@@ -114,7 +114,7 @@ translation = "「후후. 사실 코마리는── 『오픈 냄새 페티시�
 speaker_original = "ヨミ"
 speaker_translation = "요미"
 original = "「えぇ～～っ！？」"
-translation = ""
+translation = "「에에~~~!?」"
 
 [[dialogue]]
 speaker_original = "ヨミ"
@@ -515,7 +515,7 @@ translation = "「이른바 『음흉한 냄새 페티시』라는 녀석이다�
 speaker_original = "ヨミ"
 speaker_translation = "요미"
 original = "「ご当主様ぁーーっ！？」"
-translation = ""
+translation = "「당주님~~~!?」"
 
 [[dialogue]]
 speaker_original = "狛里"

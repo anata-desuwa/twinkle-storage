@@ -17,42 +17,42 @@ translation = "나는 아레나에서, 요미의 훈련을 도와주고 있었�
 speaker_original = "ヨミ"
 speaker_translation = "요미"
 original = "「――ふぅ……これが天ヶ崎に伝わる『巫女舞』です。いかがでしょうか？」"
-translation = "「――후우…… 이것이 아마가사키에 전해지는 『무녀춤』입니다. 어떠신가요?」"
+translation = "「――후우…… 이것이 아마가사키에 전해지는 『무녀의 춤』입니다. 어떠신가요?」"
 
 [[dialogue]]
 speaker = "unk"
 original = "すごい！\u3000綺麗だ！"
-translation = "대단해! 아름다워!"
+translation = "엄청나! 아름다워!"
 
 [[dialogue]]
 speaker_original = "ヨミ"
 speaker_translation = "요미"
 original = "「ありがとうございます♪\u3000えへへ、やっと会長に、ちゃんと踊る姿をお見せできました」"
-translation = "「감사합니다♪ 에헤헤, 드디어 회장님에게, 제대로 춤추는 모습을 보여드릴 수 있었네요」"
+translation = "「감사합니다♪ 에헤헤, 드디어 회장님께, 제대로 춤추는 모습을 보여드릴 수 있게 되었네요」"
 
 [[dialogue]]
 speaker_original = "ヨミ"
 speaker_translation = "요미"
 original = "「昔からリズム感が壊滅的で、まともに踊ることすらできなかった私ですが……」"
-translation = "「예전부터 리듬감이 괴멸적이어서, 제대로 춤추는 것조차 못했던 저입니다만……」"
+translation = "「옛날부터 리듬감이 절망적이라, 제대로 춤추는 것조차 못 했던 저였습니다만……」"
 
 [[dialogue]]
 speaker_original = "ヨミ"
 speaker_translation = "요미"
 original = "「この『エクスノヴァフォーム』のおかげで、巫女の星騎士として新しい１歩を踏み出せそうです♪」"
-translation = "「이 『엑스노바 폼』 덕분에, 무녀 별기사로서 새로운 한 걸음을 내딛을 수 있을 것 같아요♪」"
+translation = "「이 『엑스노바 폼』 덕분에, 무녀 스탄으로서 새로운 1발을 내딛을 수 있을 것 같아요♪」"
 
 [[dialogue]]
 speaker_original = "アニマ"
 speaker_translation = "아니마"
 original = "「フヒ♪\u3000素晴らしい舞だったゾ、ヨミ」"
-translation = "「후히♪ 훌륭한 춤이었다조, 요미」"
+translation = "「후히♪ 훌륭한 춤이었다고, 요미」"
 
 [[dialogue]]
 speaker_original = "アニマ"
 speaker_translation = "아니마"
 original = "「『リズム感補正機能』が役に立っているようで何よりダ♪」"
-translation = "「『리듬감 보정 기능』이 도움이 되고 있는 것 같아서 다행이다♪」"
+translation = "「『리듬감 보정 기능』이 도움이 되고 있는 것 같아서 무엇보다 다행이다♪」"
 
 [[dialogue]]
 speaker_original = "ヨミ"
@@ -63,12 +63,12 @@ translation = "「네! 아니마 선배 덕분이에요. 정말로 감사합니�
 [[dialogue]]
 speaker = "unk"
 original = "ヨミの『エクスノヴァフォーム』は、ヘレナちゃんがデザインし、アニマ先輩が開発した最新の『人工覚醒戦闘服』だ。"
-translation = "요미의 『엑스노바 폼』은, 헬레나짱이 디자인하고, 아니마 선배가 개발한 최신 『인공 각성 전투복』이다."
+translation = "요미의 『엑스노바 폼』은, 헬레나양이 디자인하고, 아니마 선배가 개발한 최신의 『인공 각성 전투복』이다."
 
 [[dialogue]]
 speaker = "unk"
 original = "エクスノヴァフォームの強みは、さながらヒトが眼鏡を用いるように、着用者の能力を人工的な外付けの機能によって補助できることにある。"
-translation = "엑스노바 폼의 강점은, 마치 사람이 안경을 사용하는 것처럼, 착용자의 능력을 인공적인 외부 기능을 통해 보조할 수 있다는 점에 있다."
+translation = "엑스노바 폼의 강점은, 마치 사람이 안경을 쓰는 것처럼, 착용자의 능력을 인공적인 외부 장착 기능으로 보조할 수 있다는 점에 있다."
 
 [[dialogue]]
 speaker = "unk"
@@ -79,7 +79,7 @@ translation = "그렇게 이번에, 요미 전용으로 탑재된 것이 『리�
 speaker_original = "アニマ"
 speaker_translation = "아니마"
 original = "「フヒヒ♪\u3000心の友のためだからナ♪」"
-translation = "「후히히♪ 마음의 친구를 위해서니까 다♪」"
+translation = "「후히히♪ 마음의 친구를 위해서니까 말이지♪」"
 
 [[dialogue]]
 speaker = "unk"
@@ -95,37 +95,37 @@ translation = "그러고 보니 전에"
 speaker_original = "アニマ"
 speaker_translation = "아니마"
 original = "「ああ。ヨミのリズム感改善の為に作った薬、『リズムワカール』の実験ダナ」"
-translation = "「아아. 요미의 리듬감 개선을 위해 만든 약, 『리듬와카루』의 실험이다나」"
+translation = "「아아. 요미의 리듬감 개선을 위해 만든 약, 『리듬와카루』의 실험 말이지」"
 
 [[dialogue]]
 speaker_original = "アニマ"
 speaker_translation = "아니마"
 original = "「実はあれ以降も、ヨミには定期的にリズムワカールを飲んでもらっていたんダ」"
-translation = "「사실 그 이후로도, 요미에게는 주기적으로 리듬와카루를 먹게 하고 있었다다」"
+translation = "「사실 그 이후로도, 요미에게는 정기적으로 리듬와카루를 마시게 하고 있었단다」"
 
 [[dialogue]]
 speaker_original = "アニマ"
 speaker_translation = "아니마"
 original = "「その実験データを積み重ねた結果、今回の補正機能が完成したというわけダ」"
-translation = "「그 실험 데이터를 쌓은 결과, 이번 보정 기능이 완성되었다는 것이다」"
+translation = "「그 실험 데이터를 쌓아올린 결과, 이번 보정 기능이 완성되었다는 말씀이지」"
 
 [[dialogue]]
 speaker_original = "アニマ"
 speaker_translation = "아니마"
 original = "「ヨミがアニマの実験を信じて付き合い続けてくれたこと、むしろアニマの方が感謝しているヨ」"
-translation = "「요미가 아니마의 실험을 믿고 계속 함께해 준 것, 오히려 아니마 쪽이 감사하고 있다요」"
+translation = "「요미가 아니마의 실험을 믿고 계속 함께해 준 것, 오히려 아니마 쪽이 감사하고 있다고」"
 
 [[dialogue]]
 speaker_original = "ヨミ"
 speaker_translation = "요미"
 original = "「いえ……私も、どうしても巫女舞を踊れるようになりたかったので……♪」"
-translation = "「아니에요…… 저도, 어떻게든 무녀춤을 춤출 수 있게 되고 싶었기 때문에……♪」"
+translation = "「아니에요…… 저도, 어떻게 해서든 무녀의 춤을 출 수 있게 되고 싶었기 때문에……♪」"
 
 [[dialogue]]
 speaker_original = "アニマ"
 speaker_translation = "아니마"
 original = "「ところでヨミ。『リズム感の真理』については説明できるようになったのカ？」"
-translation = "「그건 그렇고 요미. 『리듬감의 진리』에 대해서는 설명할 수 있게 되었는가?」"
+translation = "「그런데 요미. 『리듬감의 진리』에 대해서는 설명할 수 있게 된 거냐?」"
 
 [[dialogue]]
 speaker_original = "ヨミ"
@@ -137,7 +137,7 @@ translation = "「네?」"
 speaker_original = "アニマ"
 speaker_translation = "아니마"
 original = "「ほら、宇宙が見えると言っていたアレだヨ」"
-translation = "「봐, 우주가 보인다고 했던 그거다요」"
+translation = "「이봐, 우주가 보인다고 했던 그거 말이다」"
 
 [[dialogue]]
 speaker_original = "ヨミ"
@@ -155,7 +155,7 @@ translation = "「…………」"
 speaker_original = "ヨミ"
 speaker_translation = "요미"
 original = "「……爆裂にズキューンと来て」"
-translation = "「……폭렬하게 즈큥 하고 와서」"
+translation = "「……폭렬하게 즈큐웅 하고 와서」"
 
 [[dialogue]]
 speaker_original = "ヨミ"
@@ -178,67 +178,67 @@ translation = "전혀 성장하지 않았어……!"
 speaker_original = "アニマ"
 speaker_translation = "아니마"
 original = "「フヒ♪\u3000まだまだ解明には時間がかかりそうダナ」"
-translation = "「후히♪ 아직 해명에는 시간이 걸릴 것 같다나」"
+translation = "「후히♪ 아직 해명하려면 시간이 걸릴 것 같구만」"
 
 [[dialogue]]
 speaker_original = "ヨミ"
 speaker_translation = "요미"
 original = "「こやぁっ！？\u3000でも本当に、そうとしか表現できないんです……！」"
-translation = "「고야앗!? 하지만 정말로, 그렇게밖에 표현할 수 없단 말이에요……!」"
+translation = "「코야앗!? 하지만 정말로, 그렇게밖에 표현할 수 없다구요……!」"
 
 [[dialogue]]
 speaker_original = "アニマ"
 speaker_translation = "아니마"
 original = "「まあ理論を理解できなくても、本人が感覚的に扱えているなら、現状は十分ダロウ」"
-translation = "「뭐 이론을 이해하지 못하더라도, 본인이 감각적으로 다룰 수 있다면, 현상황은 충분하다로우」"
+translation = "「뭐 이론을 이해하지 못해도, 본인이 감각적으로 다룰 수 있다면, 현상황에서는 충분하겠지」"
 
 [[dialogue]]
 speaker_original = "アニマ"
 speaker_translation = "아니마"
 original = "「現にヨミは、こうしてちゃんと舞えているわけだからナ」"
-translation = "「현에 요미는, 이렇게 제대로 춤추고 있는 셈이니까나」"
+translation = "「실제로 요미는, 이렇게 제대로 춤추고 있는 셈이니까 말이다」"
 
 [[dialogue]]
 speaker_original = "アニマ"
 speaker_translation = "아니마"
 original = "「今後も研究を続ければ、その感覚が体に染み付いて、いずれエクスノヴァフォームに頼らず踊れるようになるかもしれナイ」"
-translation = "「향후에도 연구를 계속하면, 그 감각이 몸에 배어서, 언젠가 엑스노바 폼에 의존하지 않고 춤출 수 있게 될지도 모른나이」"
+translation = "「앞으로도 연구를 계속한다면, 그 감각이 몸에 배어서, 언젠가 엑스노바 폼에 의존하지 않고 춤출 수 있게 될지도 모른다고」"
 
 [[dialogue]]
 speaker_original = "ヨミ"
 speaker_translation = "요미"
 original = "「はい。――私１人では手が届かなかった場所に、ご当主様やアニマ先輩、それに会長が連れて来てくれました」"
-translation = "「네. ――저 혼자서는 손이 닿지 않았던 장소에, 당주님과 아니마 선배, 그리고 회장님이 데려와 주셨어요」"
+translation = "「네. ――저 혼자서는 손이 닿지 않던 장소에, 당주님이나 아니마 선배, 그리고 회장님이 데려와 주셨습니다」"
 
 [[dialogue]]
 speaker_original = "ヨミ"
 speaker_translation = "요미"
 original = "「だから私も、この力でみなさんのお役に立てるように、これからも爆裂頑張ります！」"
-translation = "「그러니까 저도, 이 힘으로 여러분에게 도움이 될 수 있도록, 앞으로도 폭렬 힘내겠습니다!」"
+translation = "「그러니까 저도, 이 힘으로 여러분께 도움이 될 수 있도록, 앞으로도 폭렬 힘낼게요!」"
 
 [[dialogue]]
 speaker_original = "アニマ"
 speaker_translation = "아니마"
 original = "「フヒ♪\u3000いい心意気ダ♪」"
-translation = "「후히♪ 좋은 기상이다♪」"
+translation = "「후히♪ 좋은 기상이로군♪」"
 
 [[dialogue]]
 speaker_original = "アニマ"
 speaker_translation = "아니마"
 original = "「ちなみにヨミ。リズム感補正機能の他に、もうひとつヨミ専用の機能を搭載しておいたゾ」"
-translation = "「참고로 요미. 리듬감 보정 기능 외에, 또 하나 요미 전용 기능을 탑재해 두었다조」"
+translation = "「참고로 요미. 리듬감 보정 기능 외에, 또 하나 요미 전용 기능을 탑재해 두었다고」"
 
 [[dialogue]]
 speaker_original = "ヨミ"
 speaker_translation = "요미"
 original = "「えっ、そうなんですか？」"
-translation = "「에, 그렇습니까?」"
+translation = "「앗, 그런가요?」"
 
 [[dialogue]]
 speaker_original = "アニマ"
 speaker_translation = "아니마"
 original = "「ズバリ――『指向性嗅覚強化機能』ダ♪」"
-translation = ""
+translation = "「바로―― 『지향성 후각 강화 기능』이다♪」"
 
 [[dialogue]]
 speaker_original = "ヨミ"
@@ -250,25 +250,25 @@ translation = "「지향성……?」"
 speaker_original = "アニマ"
 speaker_translation = "아니마"
 original = "「戦闘中の状況把握能力向上を目的として、特定の匂いだけを選択し、強く感知できる機能ダ」"
-translation = "「전투 중 상황 파악 능력 향상을 목적으로, 특정 냄새만 선택하여, 강하게 감지할 수 있는 기능이다」"
+translation = "「전투 중의 상황 파악 능력 향상을 목적으로, 특정 냄새만을 선택해, 강하게 감지할 수 있는 기능이다」"
 
 [[dialogue]]
 speaker_original = "アニマ"
 speaker_translation = "아니마"
 original = "「弱点を補うだけではつまらないからナ。ヨミの強みも更に伸ばしてやろうと思ったんダ♪」"
-translation = "「약점을 보완하는 것만으로는 재미없으니까나. 요미의 강점도 더욱 늘려주려고 생각했다다♪」"
+translation = "「약점을 보완하기만 해서는 재미없으니까 말이지. 요미의 강점도 더욱 늘려주려고 생각했단다♪」"
 
 [[dialogue]]
 speaker_original = "ヨミ"
 speaker_translation = "요미"
 original = "「な、なるほど……？\u3000言われてみれば……」"
-translation = "「그, 그렇군요……? 듣고 보니……」"
+translation = "「아, 과연……? 듣고 보니……」"
 
 [[dialogue]]
 speaker_original = "ヨミ"
 speaker_translation = "요미"
 original = "（意識すると、『会長の匂い』がすごく近くに感じられて……）"
-translation = "（의식하니까, 『회장님의 냄새』가 엄청 가깝게 느껴져서……）"
+translation = "（의식하니까, 『회장님의 냄새』가 엄청 가까이서 느껴져서……）"
 
 [[dialogue]]
 speaker_original = "ヨミ"
@@ -280,7 +280,7 @@ translation = "「……킁킁<emoji=heart04>」"
 speaker_original = "ヨミ"
 speaker_translation = "요미"
 original = "（！\u3000こ、これは……爆裂すごいです……！）"
-translation = "（! 이, 이것은…… 폭렬 대단해요……!）"
+translation = "（! 이, 이것은…… 폭렬 굉장해요……!）"
 
 [[dialogue]]
 speaker_original = "ヨミ"
@@ -292,24 +292,24 @@ translation = "（이거라면 주변을 신경 쓰지 않아도, 회장님의 �
 speaker_original = "ヨミ"
 speaker_translation = "요미"
 original = "「すううぅ……！\u3000はああぁ～……<emoji=heart04>」"
-translation = "「스우우우……! 하아아아～……<emoji=heart04>」"
+translation = "「스우우웁……! 하아아아～……<emoji=heart04>」"
 
 [[dialogue]]
 speaker_original = "ヨミ"
 speaker_translation = "요미"
 original = "（ああ、こうしていると……会長に抱き締めてもらっている時みたいに……安心して……幸せで……<emoji=heart04>）"
-translation = "（아아, 이러고 있으니…… 회장님에게 안겨 있을 때처럼…… 안심되고…… 행복해서……<emoji=heart04>）"
+translation = "（아아, 이렇게 있으니…… 회장님께 안겨 있을 때처럼…… 안심되고…… 행복해서……<emoji=heart04>）"
 
 [[dialogue]]
 speaker_original = "ヨミ"
 speaker_translation = "요미"
 original = "「こやぁ～……<emoji=heart04>」"
-translation = "「고야아～……<emoji=heart04>」"
+translation = "「코야아～……<emoji=heart04>」"
 
 [[dialogue]]
 speaker = "unk"
 original = "だ、大丈夫かヨミ……？"
-translation = "괜, 괜찮아 요미……?"
+translation = "괜, 괜찮은 거냐 요미……?"
 
 [[dialogue]]
 speaker_original = "ヨミ"
@@ -327,67 +327,67 @@ translation = "「그저 조금…… 킁킁<emoji=heart04>」"
 speaker_original = "ヨミ"
 speaker_translation = "요미"
 original = "「会長の匂いに包まれているだけで……<emoji=heart04>」"
-translation = "「회장님의 냄새에 싸여 있는 것만으로……<emoji=heart04>」"
+translation = "「회장님의 냄새에 둘러싸여 있는 것만으로……<emoji=heart04>」"
 
 [[dialogue]]
 speaker_original = "ヨミ"
 speaker_translation = "요미"
 original = "「えへへへぇ……<emoji=heart04>」"
-translation = "「에헤헤헤……<emoji=heart04>」"
+translation = "「에헤헤헤에……<emoji=heart04>」"
 
 [[dialogue]]
 speaker_original = "アニマ"
 speaker_translation = "아니마"
 original = "「フム。ヨミはどうやら会長の匂いを強く感じ取って、陶酔状態に入っているようダ。嗅覚強化の副作用だナ」"
-translation = "「흠. 요미는 아무래도 회장의 냄새를 강하게 감지하고, 도취 상태에 들어간 것 같다. 후각 강화의 부작용이다나」"
+translation = "「흠. 요미는 아무래도 회장님의 냄새를 강하게 감지하고, 도취 상태에 들어간 것 같구만. 후각 강화의 부작용이로군」"
 
 [[dialogue]]
 speaker_original = "ヨミ"
 speaker_translation = "요미"
 original = "「副作用じゃありませんよ<emoji=heart04>\u3000元からです<emoji=heart04>」"
-translation = "「부작용이 아니에요<emoji=heart04> 원래부터예요<emoji=heart04>」"
+translation = "「부작용이 아니에요<emoji=heart04> 원래부터라구요<emoji=heart04>」"
 
 [[dialogue]]
 speaker_original = "アニマ"
 speaker_translation = "아니마"
 original = "「ホウ」"
-translation = "「호우」"
+translation = "「호오」"
 
 [[dialogue]]
 speaker_original = "ヨミ"
 speaker_translation = "요미"
 original = "「……ハッ！？」"
-translation = "「……앗!?」"
+translation = "「……핫!?」"
 
 [[dialogue]]
 speaker_original = "ヨミ"
 speaker_translation = "요미"
 original = "「い、今のはなしですっ！\u3000忘れてください！」"
-translation = "「지, 방금 건 취소예요! 잊어주세요!」"
+translation = "「방, 방금 건 없던 일이에요! 잊어주세요!」"
 
 [[dialogue]]
 speaker_original = "アニマ"
 speaker_translation = "아니마"
 original = "「フヒ♪\u3000それはできない相談ダ。実験記録はしっかり残さないとナ♪」"
-translation = "「후히♪ 그것은 할 수 없는 상담이다. 실험 기록은 확실히 남겨야 하니까나♪」"
+translation = "「후히♪ 그것은 불가능한 상담이다. 실험 기록은 확실히 남겨둬야 하니까 말이지♪」"
 
 [[dialogue]]
 speaker_original = "ヨミ"
 speaker_translation = "요미"
 original = "「こやぁぁぁっ！？\u3000ち、違うんです！」"
-translation = "「고야아아앗!? 아, 아니에요!」"
+translation = "「코야아아앗!? 아, 아니에요!」"
 
 [[dialogue]]
 speaker_original = "アニマ"
 speaker_translation = "아니마"
 original = "「会長の匂いは好きじゃないのカ？」"
-translation = "「회장의 냄새는 좋아하지 않는 것인가?」"
+translation = "「회장님의 냄새는 좋아하지 않는 거냐?」"
 
 [[dialogue]]
 speaker_original = "ヨミ"
 speaker_translation = "요미"
 original = "「違わないですけど……違うんですっ！」"
-translation = "「아닌 건 아니지만…… 아니에요!」"
+translation = "「아닌 건 아니지만…… 아니란 말이에요!」"
 
 [[dialogue]]
 speaker_original = "アニマ"
@@ -399,7 +399,7 @@ translation = "「후히히♪ 아하하하♪」"
 speaker_original = "ヨミ"
 speaker_translation = "요미"
 original = "「笑わないでくださいっ！\u3000会長もです！」"
-translation = "「웃지 말아 주세요! 회장님도요!」"
+translation = "「웃지 말아주세요! 회장님도요!」"
 
 [[dialogue]]
 speaker = "unk"
@@ -410,13 +410,13 @@ translation = "아니, 미안. 귀여워서 그만……♪"
 speaker_original = "ヨミ"
 speaker_translation = "요미"
 original = "「～～～～っ！？」"
-translation = "「~~~~!?」"
+translation = "「～～～～앗!?」"
 
 [[dialogue]]
 speaker_original = "ヨミ"
 speaker_translation = "요미"
 original = "「うぅぅ～……穴があったら入りたいです……！」"
-translation = "「우우우～…… 쥐구멍이라도 들어가고 싶어요……!」"
+translation = "「우으으～…… 쥐구멍이라도 있으면 들어가고 싶어요……!」"
 
 [[dialogue]]
 speaker_original = "アニマ"
@@ -428,25 +428,25 @@ translation = "「즉 결론으로서는――」"
 speaker_original = "アニマ"
 speaker_translation = "아니마"
 original = "「リズム感補正機能に加え、指向性嗅覚強化機能も問題なく成功ということダナ♪」"
-translation = "「리듬감 보정 기능에 더해, 지향성 후각 강화 기능도 문제없이 성공이라는 것이다나♪」"
+translation = "「리듬감 보정 기능에 더해, 지향성 후각 강화 기능도 문제없이 성공이라는 뜻이로군♪」"
 
 [[dialogue]]
 speaker_original = "ヨミ"
 speaker_translation = "요미"
 original = "「成功しなくていい部分まで成功してます～っ！」"
-translation = "「성공하지 않아도 되는 부분까지 성공했잖아요～!」"
+translation = "「성공하지 않아도 되는 부분까지 성공해 있잖아요～앗!」"
 
 [[dialogue]]
 speaker_original = "アニマ"
 speaker_translation = "아니마"
 original = "「では次は、モフモフ強化機能も試してみるカ？」"
-translation = "「그럼 다음은, 폭신폭신 강화 기능도 시도해 볼 것인가?」"
+translation = "「그럼 다음은, 폭신폭신 강화 기능도 시험해 볼까?」"
 
 [[dialogue]]
 speaker_original = "ヨミ"
 speaker_translation = "요미"
 original = "「モフモフ強化って何ですか！？\u3000絶対に嫌ですっ！」"
-translation = "「폭신폭신 강화가 뭐예요!? 절대로 싫어요!」"
+translation = "「폭신폭신 강화라니 그게 뭔가요!? 절대로 싫어요!」"
 
 [[dialogue]]
 speaker_original = "アニマ"
@@ -463,7 +463,7 @@ translation = "아니마 선배, 그 기능에 대해 자세히!!"
 speaker_original = "ヨミ"
 speaker_translation = "요미"
 original = "「会長まで興味を持たないでください～っ！？」"
-translation = "「회장님까지 흥미를 가지지 말아 주세요～!?」"
+translation = "「회장님까지 흥미를 가지지 말아주세요～앗!?」"
 
 [[dialogue]]
 speaker = "unk"
@@ -473,5 +473,5 @@ translation = "이렇게 오늘도, 아니마 선배의 발명에 휘둘리면�
 [[dialogue]]
 speaker = "unk"
 original = "ヨミは少しずつ、星騎士として前に進んでいくのだった。"
-translation = "요미는 조금씩, 별기사로서 앞으로 나아가는 것이었다."
+translation = "요미는 조금씩, 스탄으로서 앞으로 나아가는 것이었다."
 

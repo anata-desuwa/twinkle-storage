@@ -73,7 +73,7 @@ translation = "「히메 씨」"
 speaker_original = "オオヒメ（幼少）"
 speaker_translation = "オオヒメ（幼少）"
 original = "「ナミエル殿？」"
-translation = ""
+translation = "「나미엘 전하?」"
 
 [[dialogue]]
 speaker_original = "ナミエル"
@@ -85,13 +85,13 @@ translation = "「괜찮으시다면 저와 조를 짜지 않으시겠어요?」
 speaker_original = "オオヒメ（幼少）"
 speaker_translation = "オオヒメ（幼少）"
 original = "「な、ナミエル殿っ……！\u3000あなたはどこまで優しいのだ……」"
-translation = ""
+translation = "「나, 나미엘 전하……! 당신은 어디까지 상냥하신 것인가……」"
 
 [[dialogue]]
 speaker_original = "オオヒメ（幼少）"
 speaker_translation = "オオヒメ（幼少）"
 original = "「是非、お願いする。大丈夫だ、ナミエル殿が怪我をせぬよう力を加減するからな」"
-translation = ""
+translation = "「부디, 부탁한다. 괜찮다, 나미엘 전하가 다치지 않도록 힘을 조절할 테니까 말이다」"
 
 [[dialogue]]
 speaker_original = "ナミエル"
@@ -156,7 +156,7 @@ translation = "（아니…… 놀란 것은 공격의 날카로움뿐만이 아
 speaker_original = "オオヒメ（幼少）"
 speaker_translation = "オオヒメ（幼少）"
 original = "（ナミエル殿から伝わってくる強烈な気迫……内に漲る星力……今までとはまるで別人のようだ……）"
-translation = ""
+translation = "(나미엘 전하에게서 전해져 오는 강렬한 기박…… 내면에 넘쳐흐르는 성력…… 지금까지와는 마치 별인 같구나……)"
 
 [[dialogue]]
 speaker_original = "オオヒメ（幼少）"
@@ -192,7 +192,7 @@ translation = "「잘 모르겠습니다만, 아직 딴생각을 할 정도의 �
 speaker_original = "オオヒメ（幼少）"
 speaker_translation = "オオヒメ（幼少）"
 original = "「いえ……あなたは強い。私こそ見誤っていたようだ、ナミエル殿の正体を……」"
-translation = ""
+translation = "「아닙니다…… 당신은 강하다. 나야말로 잘못 보고 있었던 것 같군, 나미엘 전하의 정체를……」"
 
 [[dialogue]]
 speaker_original = "ナミエル"
@@ -287,7 +287,7 @@ translation = "──이렇게 수업 시간 끝까지, 오오히메와 나미�
 speaker_original = "オオヒメ（幼少）"
 speaker_translation = "オオヒメ（幼少）"
 original = "「ではナミエル殿、始めよう」"
-translation = ""
+translation = "「그럼 나미엘 전하, 시작하자」"
 
 [[dialogue]]
 speaker_original = "ナミエル"
@@ -333,7 +333,7 @@ translation = "（실체를 얻고 나서, 이때다 싶어 이것저것 그려�
 speaker_original = "オオヒメ（幼少）"
 speaker_translation = "オオヒメ（幼少）"
 original = "（だが……ナミエル殿には今日１日、本当に世話になったからな……）"
-translation = ""
+translation = "(하지만…… 나미엘 전하에게는 오늘 하루, 정말 신세를 졌으니까 말이다……)"
 
 [[dialogue]]
 speaker_original = "オオヒメ（幼少）"
@@ -351,7 +351,7 @@ translation = "（…………）"
 speaker_original = "オオヒメ（幼少）"
 speaker_translation = "オオヒメ（幼少）"
 original = "（まじまじと見ていると……ナミエル殿は美しい顔立ちをしているのだな……）"
-translation = ""
+translation = "(뚫어지게 보고 있으니…… 나미엘 전하는 아름다운 이목구비를 하고 있구나……)"
 
 [[dialogue]]
 speaker_original = "オオヒメ（幼少）"
@@ -369,7 +369,7 @@ translation = "（모든 것을 그려 담고, 모든 것을 표현하고 싶다
 speaker_original = "オオヒメ（幼少）"
 speaker_translation = "オオヒメ（幼少）"
 original = "（この真っ白な紙の上に、ナミエル殿の魅力を余すことなく注ぎ込みたい……）"
-translation = ""
+translation = "(이 새하얀 종이 위에, 나미엘 전하의 매력을 남김없이 쏟아붓고 싶다……)"
 
 [[dialogue]]
 speaker_original = "オオヒメ（幼少）"
@@ -458,7 +458,7 @@ translation = "「감사합니다, 히메 씨. 이렇게 훌륭한 그림을 그
 speaker_original = "オオヒメ（幼少）"
 speaker_translation = "オオヒメ（幼少）"
 original = "「親切にしてくれたナミエル殿へのせめてもの礼だ、受け取って貰えると嬉しい」"
-translation = ""
+translation = "「친절하게 대해준 나미엘 전하에게 최소한의 답례다, 받아 준다면 기쁘겠구나」"
 
 [[dialogue]]
 speaker_original = "ナミエル"
@@ -536,7 +536,7 @@ translation = "「죄송합니다…… 그림은, 잘 그리지 못해서……
 speaker_original = "オオヒメ（幼少）"
 speaker_translation = "オオヒメ（幼少）"
 original = "「い、いや、個性的で素晴らしい絵だと思う！\u3000私は好きだ！\u3000何よりナミエル殿が一生懸命描いてくれた、その心が伝わってくる！」"
-translation = ""
+translation = "「아, 아니, 개성적이고 훌륭한 그림이라고 생각한다! 나는 좋다! 무엇보다 나미엘 전하가 열심히 그려 준, 그 마음이 전해져 온다!」"
 
 [[dialogue]]
 speaker_original = "ナミエル"
@@ -584,7 +584,7 @@ translation = "「…………라고 하셨나요?」"
 speaker_original = "オオヒメ（幼少）"
 speaker_translation = "オオヒメ（幼少）"
 original = "「ん？\u3000どうしたのだ、ナミエル殿？」"
-translation = ""
+translation = "「응? 왜 그러나, 나미엘 전하?」"
 
 [[dialogue]]
 speaker_original = "ナミエル"

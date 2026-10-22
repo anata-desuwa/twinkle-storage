@@ -1,0 +1,430 @@
+[[dialogue]]
+speaker = "unk"
+original = "第２話,合体しましょう、ぶい,P"
+translation = "제2화, 합체합시다, 브이, P"
+
+[[dialogue]]
+speaker_original = "シュティレ"
+speaker_translation = "슈틸레"
+original = "「購買部へようこそ、アナお姉ちゃん。今日の昼食はこちらでお求めですか？」"
+translation = "「매점에 오신 것을 환영해요, 아나 언니. 오늘 점심은 여기서 찾으시나요?」"
+
+[[dialogue]]
+speaker_original = "アナ"
+speaker_translation = "아나"
+original = "「ええ。何か軽食でもと思いまして」"
+translation = "「네. 무슨 가벼운 식사라도 할까 해서요」"
+
+[[dialogue]]
+speaker_original = "アナ"
+speaker_translation = "아나"
+original = "「ところでシュティレさん。今日もその衣装で店番をしているのですね？」"
+translation = "「그나저나 슈틸레 씨. 오늘도 그 의상으로 가게를 보고 계시네요?」"
+
+[[dialogue]]
+speaker_original = "シュティレ"
+speaker_translation = "슈틸레"
+original = "「イエス。ダッチから受け取ったバニーフォーム、これは客引きに最適なのです。おかげさまで購買部の売上も過去最高を記録中です。ぶい」"
+translation = "「예스. 다치에게서 받은 바니 폼, 이것은 호객 행위에 최적인 것입니다. 덕분에 매점 매출도 과거 최고를 기록 중입니다. 브이」"
+
+[[dialogue]]
+speaker_original = "シュティレ"
+speaker_translation = "슈틸레"
+original = "「それに彼ピの会長も、シュティレのこの衣装をいたく気に入っているご様子──」"
+translation = "「게다가 남친인 회장도, 슈틸레의 이 의상을 몹시 마음에 들어 하는 모습──」"
+
+[[dialogue]]
+speaker_original = "シュティレ"
+speaker_translation = "슈틸레"
+original = "「あわよくば今日も見せつけて、可愛いと言ってもらいたい算段ですが……」"
+translation = "「운이 좋다면 오늘도 과시해서, 귀엽다는 말을 듣고 싶은 타산입니다만……」"
+
+[[dialogue]]
+speaker_original = "アナ"
+speaker_translation = "아나"
+original = "「会長は今、星徒会室で大忙しです。会長のぶんのお昼も、私が買いに来たという感じで……」"
+translation = "「회장님은 지금, 성토회실에서 눈코 뜰 새 없이 바쁘십니다. 회장님의 점심도, 제가 사러 온 느낌이라……」"
+
+[[dialogue]]
+speaker_original = "シュティレ"
+speaker_translation = "슈틸레"
+original = "「なるほど。ではバニーのお披露目は放課後まで持ち越しですね」"
+translation = "「과연. 그럼 바니의 선보임은 방과 후까지 이월이군요」"
+
+[[dialogue]]
+speaker_original = "アニマ"
+speaker_translation = "아니마"
+original = "「フヒヒ！\u3000だったらアナ、この薬もついでに会長の元へ届けてくれたまエ！」"
+translation = "「후히히! 그렇다면 아나, 이 약도 겸사겸사 회장에게 전달해 주게나!」"
+
+[[dialogue]]
+speaker_original = "アナ"
+speaker_translation = "아나"
+original = "「アニマ先輩、また新しいお薬ですか。そうやって会長を実験台にばかりしていると、またシエスタが騒ぎを起こすかもしれませんよ？」"
+translation = "「아니마 선배, 또 새로운 약인가요. 그렇게 회장님을 실험체로만 삼다간, 또 시에스타가 소동을 일으킬지도 몰라요?」"
+
+[[dialogue]]
+speaker_original = "アニマ"
+speaker_translation = "아니마"
+original = "「そうは言うがネ。やはり新薬は実験せねばデータが取れなイ。錬金術の発展のためにモ、付き合ってほしいんだヨ」"
+translation = "「그렇게 말하지만 말이지. 역시 신약은 실험하지 않으면 데이터를 얻을 수 없다구. 연금술의 발전을 위해서도, 함께해 줬으면 좋겠어」"
+
+[[dialogue]]
+speaker_original = "シュティレ"
+speaker_translation = "슈틸레"
+original = "「一応マスターは、これでも少しだけ遠慮というものを覚えたのです。会長への投薬量も、以前に比べて３割ほどは減少しました」"
+translation = "「일단 마스터는, 이래봬도 조금은 사리는 법을 깨우친 것입니다. 회장에 대한 투약량도, 이전에 비해 3할 정도는 감소했습니다」"
+
+[[dialogue]]
+speaker_original = "アナ"
+speaker_translation = "아나"
+original = "「……そうでしたか。その理屈で、シエスタが納得してくれると良いのですが」"
+translation = "「……그러셨나요. 그 논리로, 시에스타가 납득해 주면 좋겠습니다만」"
+
+[[dialogue]]
+speaker_original = "シュティレ"
+speaker_translation = "슈틸레"
+original = "「会長も『ドタバタする日常は嫌いではない』とシエスタに伝えておりました」"
+translation = "「회장도 『야단법석인 일상은 싫지 않다』고 시에스타에게 전달했었습니다」"
+
+[[dialogue]]
+speaker_original = "シュティレ"
+speaker_translation = "슈틸레"
+original = "「ですから、そこまで神経質にならなくても大丈夫でしょう」"
+translation = "「그러니까, 거기까지 신경질적으로 되지 않아도 괜찮겠죠」"
+
+[[dialogue]]
+speaker_original = "アニマ"
+speaker_translation = "아니마"
+original = "「フヒヒヒ♪\u3000それじゃあ頼んだヨ。このラブラブポーションボム２を会長に飲ませてくレ！」"
+translation = "「후히히히♪ 그렇다면 부탁하네. 이 러블리 포션 봄 2를 회장에게 마시게 해주게나!」"
+
+[[dialogue]]
+speaker_original = "アニマ"
+speaker_translation = "아니마"
+original = "「これを飲めばあら不思議、深層心理で一番愛している者へ、熱烈なスキンシップをしたくてしたくてたまらなくなるという一品ダ♪」"
+translation = "「이걸 마시면 어라 신기해라, 심층 심리에서 가장 사랑하는 자에게, 열렬한 스킨십을 하고 싶어서 어쩔 줄 몰라하게 되는 일품이라구♪」"
+
+[[dialogue]]
+speaker_original = "アナ"
+speaker_translation = "아나"
+original = "「これはまた、やばそうな惚れ薬を作りましたね」"
+translation = "「이건 또, 위험해 보이는 반하는 약을 만드셨네요」"
+
+[[dialogue]]
+speaker_original = "アニマ"
+speaker_translation = "아니마"
+original = "「フヒ。お得意様からの依頼でネ。依頼料もたっぷり貰っているから早く結果を出したいんだヨ」"
+translation = "「후히. 단골 고객의 의뢰로 말이지. 의뢰비도 듬뿍 받았으니 어서 결과를 내고 싶다구」"
+
+[[dialogue]]
+speaker_original = "シュティレ"
+speaker_translation = "슈틸레"
+original = "「…………惚れ薬」"
+translation = "「…………반하는 약」"
+
+[[dialogue]]
+speaker_original = "シュティレ"
+speaker_translation = "슈틸레"
+original = "「マスター、提案なのですが。そのお薬の実験台。シュティレが立候補してはダメでしょうか？」"
+translation = "「마스터, 제안입니다만. 그 약의 실험체. 슈틸레가 입후보해서는 안 될까요?」"
+
+[[dialogue]]
+speaker_original = "アナ"
+speaker_translation = "아나"
+original = "「……大丈夫なのですか、そんな安請け合いをして」"
+translation = "「……괜찮으신가요, 그런 섣부른 승낙을 하셔도」"
+
+[[dialogue]]
+speaker_original = "シュティレ"
+speaker_translation = "슈틸레"
+original = "「ノープロブレムです。会長もお忙しいでしょうし、代わりを勤めるのもカノジョの役割というものです。ぶい」"
+translation = "「노 프로블럼입니다. 회장도 바쁘실 테고, 대역을 맡는 것도 여자친구의 역할이라는 것입니다. 브이」"
+
+[[dialogue]]
+speaker_original = "アニマ"
+speaker_translation = "아니마"
+original = "「さっきと言ってることが逆だゾ、シュティレ？\u3000ははーン、もしかしテ……」"
+translation = "「방금 말한 거랑 반대잖아, 슈틸레? 하하앙, 혹시……」"
+
+[[dialogue]]
+speaker_original = "アナ"
+speaker_translation = "아나"
+original = "「ええ。深層心理で一番好きな相手……会長が、もしも自分でない相手にアプローチをかけてしまったら嫌だと。そういうことでしょうか？」"
+translation = "「네. 심층 심리에서 가장 좋아하는 상대…… 회장님이, 만약 자신이 아닌 상대에게 어프로치를 해버리면 싫다. 그런 뜻일까요?」"
+
+[[dialogue]]
+speaker_original = "シュティレ"
+speaker_translation = "슈틸레"
+original = "「む──鋭いですね、お２人とも。その通りです。実はシュティレ、ちょっぴり不安なのです」"
+translation = "「음── 날카로우시네요, 두 분 다. 그렇습니다. 사실 슈틸레, 조금 불안한 것입니다」"
+
+[[dialogue]]
+speaker_original = "シュティレ"
+speaker_translation = "슈틸레"
+original = "「シュティレはこの通り不愛想なバニー天使なので。もしも会長が別の女の子にアプローチしてしまったら、ショックで寝込んでしまいます」"
+translation = "「슈틸레는 이처럼 붙싹싹성 없는 바니 천사이므로. 만약 회장이 다른 여자아이에게 어프로치해 버리면, 쇼크로 눕게 되어버립니다」"
+
+[[dialogue]]
+speaker_original = "アナ"
+speaker_translation = "아나"
+original = "「杞憂だと思いますが……うちの会長はシュティレさん一筋ですよ？」"
+translation = "「기우라고 생각합니다만…… 우리 회장님은 슈틸레 씨 일해바라기라구요?」"
+
+[[dialogue]]
+speaker_original = "アニマ"
+speaker_translation = "아니마"
+original = "「フヒ。まぁデータが取れればアニマは誰でも構わないヨ。じゃあシュティレ、グビっと一発、キメてみたまエ！」"
+translation = "「후히. 뭐 데이터만 얻을 수 있다면 아니마는 누구라도 상관없다구. 그럼 슈틸레, 꿀꺽 한 방, 결정해 보게나!」"
+
+[[dialogue]]
+speaker_original = "シュティレ"
+speaker_translation = "슈틸레"
+original = "「ラジャーです。では──」"
+translation = "「라저입니다. 그럼──」"
+
+[[dialogue]]
+speaker = "unk"
+original = "アニマから渡されたドドメ色のドリンクを、シュティレは一気に飲み干した──"
+translation = "아니마에게서 전달받은 거무죽죽한 색의 드링크를, 슈틸레는 한숨에 마셔버렸다──"
+
+[[dialogue]]
+speaker_original = "マトイ"
+speaker_translation = "마토이"
+original = "「アナってば、遅いね？」"
+translation = "「아나 치고는, 늦네?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "購買部が混んでるのかな"
+translation = ""
+
+[[dialogue]]
+speaker_original = "マトイ"
+speaker_translation = "마토이"
+original = "「ふふ。最近、シュティレちゃんバニー衣装で接客してるからかな。いつも大賑わいなんだって」"
+translation = ""
+
+[[dialogue]]
+speaker = "unk"
+original = "むむむ……複雑だ"
+translation = ""
+
+[[dialogue]]
+speaker_original = "マトイ"
+speaker_translation = "마토이"
+original = "「あはは。会長でも嫉妬ってするんだ。ちょっと新鮮かも」"
+translation = ""
+
+[[dialogue]]
+speaker_original = "シュティレ"
+speaker_translation = "슈틸레"
+original = "「────会長」"
+translation = ""
+
+[[dialogue]]
+speaker_original = "マトイ"
+speaker_translation = "마토이"
+original = "「あれ、シュティレちゃん？\u3000星徒会室に何か用事でも──」"
+translation = ""
+
+[[dialogue]]
+speaker_original = "シュティレ"
+speaker_translation = "슈틸레"
+original = "「────シンメトリー・ドッキング！！！」"
+translation = ""
+
+[[dialogue]]
+speaker = "unk"
+original = "うわぁぁぁああぁ！？"
+translation = ""
+
+[[dialogue]]
+speaker_original = "マトイ"
+speaker_translation = "마토이"
+original = "「──シュティレちゃんがいきなり会長に抱き着いたあぁー！？」"
+translation = ""
+
+[[dialogue]]
+speaker_original = "アナ"
+speaker_translation = "아나"
+original = "「はぁ、はぁっ……お、遅かったようです。まさかこんなに急に効果が出るとは……」"
+translation = ""
+
+[[dialogue]]
+speaker_original = "シュティレ"
+speaker_translation = "슈틸레"
+original = "「会長。愛しています。熱いシンメトリー・ドッキング完了しました。もう何があっても離しません。ぶいぶいぶいのぶいっ」"
+translation = ""
+
+[[dialogue]]
+speaker_original = "アナ"
+speaker_translation = "아나"
+original = "「おお。コアラのように会長に抱き着いていますね。両足を背中に回して……あれではとても振りほどけません」"
+translation = ""
+
+[[dialogue]]
+speaker_original = "マトイ"
+speaker_translation = "마토이"
+original = "「アナ、こ、これは一体どういう……！？」"
+translation = ""
+
+[[dialogue]]
+speaker_original = "アナ"
+speaker_translation = "아나"
+original = "「実は、かくかくしかじか、な感じで……」"
+translation = ""
+
+[[dialogue]]
+speaker = "unk"
+original = "またアニマ先輩か！？"
+translation = ""
+
+[[dialogue]]
+speaker_original = "シュティレ"
+speaker_translation = "슈틸레"
+original = "「──会長。今そのお口から、シュティレ以外のオンナの名前を出しましたね？\u3000いけませんよ。彼ピの自覚がありません」"
+translation = ""
+
+[[dialogue]]
+speaker_original = "シュティレ"
+speaker_translation = "슈틸레"
+original = "「ふさがせていただきます。ズキュゥゥゥゥン」"
+translation = ""
+
+[[dialogue]]
+speaker = "unk"
+original = "んむむむむーっ！？"
+translation = ""
+
+[[dialogue]]
+speaker_original = "マトイ"
+speaker_translation = "마토이"
+original = "「うわぁぁあ！？\u3000あ、あんなえぐりこむようにチューを──！？」"
+translation = ""
+
+[[dialogue]]
+speaker_original = "アナ"
+speaker_translation = "아나"
+original = "「流石はドリルを愛するシュティレさんですね」"
+translation = ""
+
+[[dialogue]]
+speaker_original = "マトイ"
+speaker_translation = "마토이"
+original = "「冷静に言ってる場合！？\u3000まずいよアレ！！」"
+translation = ""
+
+[[dialogue]]
+speaker_original = "シュティレ"
+speaker_translation = "슈틸레"
+original = "「──ぷは。熱いベーゼをいたしました。ぶいぶいっ。ぶいぶいぶいっ。ぴょんぴょん、ぴょーんっ<emoji=heart04>」"
+translation = ""
+
+[[dialogue]]
+speaker_original = "マトイ"
+speaker_translation = "마토이"
+original = "「大変だよ！\u3000シュティレちゃんが壊れちゃった！？」"
+translation = ""
+
+[[dialogue]]
+speaker = "unk"
+original = "アナ、マトイ！\u3000助けてくれ──！"
+translation = ""
+
+[[dialogue]]
+speaker_original = "シュティレ"
+speaker_translation = "슈틸레"
+original = "「またシュティレ以外のギャルの名前を出しましたね。悪いのはこのお口ですか。ズキュゥゥウゥン」"
+translation = ""
+
+[[dialogue]]
+speaker = "unk"
+original = "んむむむむ～～～～っ！？"
+translation = ""
+
+[[dialogue]]
+speaker_original = "マトイ"
+speaker_translation = "마토이"
+original = "「こ、これどうやったら治るの！？」"
+translation = ""
+
+[[dialogue]]
+speaker_original = "アナ"
+speaker_translation = "아나"
+original = "「……薬の効果がいつ切れるかは不明だそうです」"
+translation = ""
+
+[[dialogue]]
+speaker_original = "マトイ"
+speaker_translation = "마토이"
+original = "「そんな！？\u3000もう昼休み終わるよ！？\u3000授業始まっちゃうって！！」"
+translation = ""
+
+[[dialogue]]
+speaker_original = "アナ"
+speaker_translation = "아나"
+original = "「…………このまま出るしかないでしょう。星徒会長がさぼりだなんて示しがつきません……！」"
+translation = ""
+
+[[dialogue]]
+speaker = "unk"
+original = "そ、そんな……！？！？"
+translation = ""
+
+[[dialogue]]
+speaker_original = "トワ先生"
+speaker_translation = "토와 선생님"
+original = "「はーい、授業を始めま～す！」"
+translation = ""
+
+[[dialogue]]
+speaker_original = "トワ先生"
+speaker_translation = "토와 선생님"
+original = "「ってぇ！？\u3000会長くんと──シュティレちゃん！？\u3000な、何をして……！？」"
+translation = ""
+
+[[dialogue]]
+speaker = "unk"
+original = "すみません、トワ先生。実は……！"
+translation = ""
+
+[[dialogue]]
+speaker_original = "シュティレ"
+speaker_translation = "슈틸레"
+original = "「反省が足りませんね、このお口は。熱いベーゼの刑です。ズッキュゥウウゥン」"
+translation = ""
+
+[[dialogue]]
+speaker = "unk"
+original = "むむむむぅう～～！？"
+translation = ""
+
+[[dialogue]]
+speaker_original = "トワ先生"
+speaker_translation = "토와 선생님"
+original = "「ぎゃー！？\u3000待って待って！\u3000神聖な学び舎でそんな熱いキスを──ななな、なんでぇ～～～っ！？」"
+translation = ""
+
+[[dialogue]]
+speaker_original = "マトイ"
+speaker_translation = "마토이"
+original = "「すみません、すみませんっ……！\u3000授業、始めてください……！」"
+translation = ""
+
+[[dialogue]]
+speaker_original = "トワ先生"
+speaker_translation = "토와 선생님"
+original = "「無理だよぉ！？\u3000こんな状況で～～～っ！？」"
+translation = ""
+
+[[dialogue]]
+speaker = "unk"
+original = "それから日が暮れるまで、俺はバニー姿のシュティレに抱き着かれながら過ごすことになるのだった……"
+translation = ""
+
+[[dialogue]]
+speaker = "unk"
+original = "アニマ先輩……覚えていてくださいよ……！！"
+translation = ""
+

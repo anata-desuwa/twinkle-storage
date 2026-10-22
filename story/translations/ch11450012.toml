@@ -141,7 +141,7 @@ translation = "「그는커녕 내가 이 모습으로 나타난 순간, 양팔�
 speaker_original = "オオヒメ（幼少）"
 speaker_translation = "オオヒメ（幼少）"
 original = "「このままでは魔王は小さい子にしか反応しない、そっちの趣味の持ち主になってしまうのではないか！？」"
-translation = "「이대로라면 마왕은 작은 아이에게만 반응하는, 그쪽 취향의 소유자가 되어 버리는 것이 아닐까!?」"
+translation = "「이대로라면 마왕은 어린아이에게만 반응하는, 그쪽 취향의 소유자가 되어버리는 것이 아닌가!?」"
 
 [[dialogue]]
 speaker_original = "オオヒメ（幼少）"
@@ -153,13 +153,13 @@ translation = "「게다가…… 게다가 말이다……」"
 speaker_original = "オオヒメ（幼少）"
 speaker_translation = "オオヒメ（幼少）"
 original = "「私もどんどん慣れ始めている。魔王が両手を広げている姿を見ると、当たり前のようにお膝の上に乗ってしまっているのだ」"
-translation = "「나도 점점 익숙해지기 시작하고 있다. 마왕이 양팔을 벌리고 있는 모습을 보면, 당연하다는 듯이 무릎 위에 앉아 버리는 것이다」"
+translation = "「나도 점점 익숙해지기 시작하고 있다. 마왕이 양팔을 벌리고 있는 모습을 보면, 당연하다는 듯이 무릎 위에 올라타버리고 만다」"
 
 [[dialogue]]
 speaker_original = "オオヒメ（幼少）"
 speaker_translation = "オオヒメ（幼少）"
 original = "「そして頭をよしよしされていると、もっともっとして欲しくて……魔王に甘えたくなってしまう……」"
-translation = "「그리고 머리를 쓰다듬어지고 있으면, 좀 더 좀 더 해줬으면 해서…… 마왕에게 응석 부리고 싶어져 버린다……」"
+translation = "「그리고 머리를 쓰다듬받고 있으면, 더욱더 받고 싶어져서…… 마왕에게 어리광을 부리고 싶어져버린다……」"
 
 [[dialogue]]
 speaker = "unk"
@@ -176,7 +176,7 @@ translation = "「응…… 에헤헤……<emoji=heart04>」"
 speaker_original = "オオヒメ（幼少）"
 speaker_translation = "オオヒメ（幼少）"
 original = "「って違う！\u3000撫でて欲しくて言ったわけではない！」"
-translation = "「앗 아니야! 쓰다듬어줬으면 해서 말한 게 아니다!」"
+translation = "「앗, 아니야! 쓰다듬어달라고 말한 게 아니다!」"
 
 [[dialogue]]
 speaker = "unk"
@@ -187,19 +187,19 @@ translation = "아니야?"
 speaker_original = "オオヒメ（幼少）"
 speaker_translation = "オオヒメ（幼少）"
 original = "「う……いや……撫でて欲しい、のは……いつだって撫でて欲しいのだが……」"
-translation = "「으…… 아니…… 쓰다듬어줬으면 하는, 건…… 언제든 쓰다듬어줬으면 하지만……」"
+translation = "「우…… 아니…… 쓰다듬어주었으면 하는, 것은…… 언제든 쓰다듬어주었으면 하지만……」"
 
 [[dialogue]]
 speaker_original = "オオヒメ（幼少）"
 speaker_translation = "オオヒメ（幼少）"
 original = "「とにかく私もこの姿でいると魔王に甘えてしまうのだ！\u3000大人の姿でいる時は、自分から甘えることが出来ないというのに！」"
-translation = "「어쨌든 나도 이 모습으로 있으면 마왕에게 응석 부리게 되어 버린다! 어른의 모습으로 있을 때는, 스스로 응석 부릴 수 없는데도!」"
+translation = "「어쨌든 나도 이 모습으로 있으면 마왕에게 어리광을 부리게 된단 말이다! 어른 모습으로 있을 때는, 스스로 어리광을 부리지 못하는데도!」"
 
 [[dialogue]]
 speaker_original = "オオヒメ（幼少）"
 speaker_translation = "オオヒメ（幼少）"
 original = "「このままではいけない！\u3000とてもではないが健全な関係とは言えない！」"
-translation = "「이대로는 안 된다! 도저히 건전한 관계라고는 할 수 없다!」"
+translation = "「이대로는 안 된다! 아무리 그래도 건전한 관계라곤 할 수 없다!」"
 
 [[dialogue]]
 speaker = "unk"
@@ -210,25 +210,25 @@ translation = "그게 히메의 고민인가"
 speaker_original = "オオヒメ（幼少）"
 speaker_translation = "オオヒメ（幼少）"
 original = "「そうなのだ。私もどうにかこの循環を断ち切ろうと努力してみた……」"
-translation = "「그렇다. 나도 어떻게든 이 악순환을 끊으려고 노력해 보았다……」"
+translation = "「그렇다. 나도 어떻게든 이 순환을 끊어내려고 노력해 보았다……」"
 
 [[dialogue]]
 speaker_original = "オオヒメ（幼少）"
 speaker_translation = "オオヒメ（幼少）"
 original = "「魔王に甘えたくなっても懸命に我慢した。だが愛する者の姿が目に入れば、甘えたい気持ちが湧き出てきてしまう」"
-translation = "「마왕에게 응석 부리고 싶어져도 열심히 참았다. 하지만 사랑하는 자의 모습이 눈에 들어오면, 응석 부리고 싶은 마음이 샘솟아 버린다」"
+translation = "「마왕에게 어리광을 부리고 싶어져도 필사적으로 참았다. 하지만 사랑하는 사람의 모습이 눈에 들어오면, 어리광 부리고 싶은 마음이 샘솟아버린다」"
 
 [[dialogue]]
 speaker_original = "オオヒメ（幼少）"
 speaker_translation = "オオヒメ（幼少）"
 original = "「けれど、大人の私では甘えることができない。でも甘えたい。心が揺れる──」"
-translation = "「그렇지만, 어른인 나로는 응석 부릴 수 없다. 하지만 응석 부리고 싶다. 마음이 흔들린다──」"
+translation = "「하지만, 어른인 나는 어리광을 부릴 수 없다. 그래도 어리광 부리고 싶다. 마음이 흔들린다──」"
 
 [[dialogue]]
 speaker_original = "オオヒメ（幼少）"
 speaker_translation = "オオヒメ（幼少）"
 original = "「そして気付けばこの姿になって、魔王の胸に飛び込んでしまっているのだ！\u3000ああ魔王、守護天使でありながら私は何と弱いのだろう！」"
-translation = "「그리고 정신을 차려보면 이 모습이 되어서, 마왕의 가슴에 뛰어들어 버리는 것이다! 아아 마왕, 수호천사이면서 나는 어쩜 이리 약한 것인가!」"
+translation = "「그리고 정신을 차려보면 이 모습이 되어서, 마왕의 품에 뛰어들어버리는 것이다! 아아 마왕, 수호천사이면서 나는 어쩜 이리도 약하단 말인가!」"
 
 [[dialogue]]
 speaker = "unk"
@@ -244,25 +244,25 @@ translation = "참지 않아도 된다고 생각하지만"
 speaker_original = "オオヒメ（幼少）"
 speaker_translation = "オオヒメ（幼少）"
 original = "「っ……！！」"
-translation = "「쯧……!!」"
+translation = "「씃……!!」"
 
 [[dialogue]]
 speaker_original = "オオヒメ（幼少）"
 speaker_translation = "オオヒメ（幼少）"
 original = "「そ、それは……嬉しいが……少々はしたない行為ではないだろうか……？」"
-translation = "「그, 그거야…… 기쁘지만…… 약간은 볼품없는 행위가 아닐까……?」"
+translation = "「그, 그거야…… 기쁘지만…… 약간 점잖지 못한 행위가 아닐까……?」"
 
 [[dialogue]]
 speaker_original = "オオヒメ（幼少）"
 speaker_translation = "オオヒメ（幼少）"
 original = "「だが、そうだな……。魔王を特殊な趣味に堕としてしまうわけにはいかない……」"
-translation = "「하지만, 그렇군……. 마왕을 특수한 취향으로 타락하게 할 수는 없다……」"
+translation = "「하지만, 그렇군……. 마왕을 특수한 취향에 빠뜨릴 수는 없는 노릇이다……」"
 
 [[dialogue]]
 speaker_original = "オオヒメ（幼少）"
 speaker_translation = "オオヒメ（幼少）"
 original = "「わかった。今度甘えたくなった時には、この姿に頼らず甘えさせてもらうことにしよう」"
-translation = "「알았다. 다음번에 응석 부리고 싶어졌을 때는, 이 모습에 의존하지 않고 응석 부리도록 하지」"
+translation = "「알았다. 다음번에 어리광 부리고 싶어졌을 때는, 이 모습에 의존하지 않고 어리광을 부리기로 하지」"
 
 [[dialogue]]
 speaker = "unk"
@@ -272,7 +272,7 @@ translation = "결의를 다지는 히메였다."
 [[dialogue]]
 speaker = "unk"
 original = "しかし──"
-translation = "그러나──"
+translation = "하지만──"
 
 [[dialogue]]
 speaker_original = "オオヒメ（幼少）"
@@ -283,21 +283,21 @@ translation = "「마…… 마왕……」"
 [[dialogue]]
 speaker = "unk"
 original = "勇気が出なかったか～"
-translation = "용기가 나지 않았나~"
+translation = "용기가 안 났나~"
 
 [[dialogue]]
 speaker = "unk"
 original = "顔を真っ赤にしたヒメは、小さい姿のままだった。"
-translation = "얼굴을 새빨갛게 물들인 히메는, 작은 모습 그대로였다."
+translation = "얼굴이 새빨개진 히메는, 작은 모습 그대로였다."
 
 [[dialogue]]
 speaker = "unk"
 original = "おいで、と両手を広げると、ヒメはベソをかきながら俺の胸に飛び込んできたのだった。"
-translation = "이리 오렴, 하고 양팔을 벌리자, 히메는 울먹이면서 내 가슴에 뛰어들어온 것이었다."
+translation = "일로 오렴, 하고 양팔을 벌리자, 히메는 울상을 지으며 내 품으로 뛰어들어온 것이었다."
 
 [[dialogue]]
 speaker_original = "オオヒメ（幼少）"
 speaker_translation = "オオヒメ（幼少）"
 original = "「魔王ーーーっ！\u3000不甲斐ない私を許してくれーーーっ！！」"
-translation = "「마왕ーーー앗! 한심한 나를 용서해 다오ーーー앗!!」"
+translation = "「마왕ーーー씃! 한심한 나를 용서해다오ーーー씃!!」"
 

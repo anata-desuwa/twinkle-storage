@@ -1,0 +1,315 @@
+[[dialogue]]
+speaker = "unk"
+original = "第４話,『その名も、ＧｏｌｄｅｎＡｎｇｅｌｓ！』,B"
+translation = "제4화, 『그 이름도, Golden Angels!』"
+
+[[dialogue]]
+speaker = "unk"
+original = "一行が向かったのは流星市国から少し外れたところにある遊園地だった。"
+translation = "일행이 향한 곳은 유성시국에서 조금 떨어진 곳에 있는 유원지였다."
+
+[[dialogue]]
+speaker_original = "セシア"
+speaker_translation = "세시아"
+original = "「本当にここにパテルが居るのかしら？」"
+translation = "「정말로 여기에 파텔이 있는 걸까?」"
+
+[[dialogue]]
+speaker_original = "ラクシャ"
+speaker_translation = "락샤"
+original = "「多分ね。ここは彼女のお気に入りの場所だから」"
+translation = "「아마도. 여기는 그녀가 마음에 들어 하는 장소니까」"
+
+[[dialogue]]
+speaker_original = "ラクシャ"
+speaker_translation = "락샤"
+original = "「ちょっと待ってね…………うん、居るみたいだ。ボクたちラッキーだよ♪」"
+translation = "「잠깐만 기다려 봐………… 응, 있는 것 같아. 우리 운이 좋네♪」"
+
+[[dialogue]]
+speaker_original = "アルモタヘル"
+speaker_translation = "아르모타헬"
+original = "「完全に気配を絶っているようだが、本当にここに居るのか？」"
+translation = "「완전히 기척을 끊고 있는 것 같은데, 정말로 여기에 있는 건가?」"
+
+[[dialogue]]
+speaker_original = "マグダレナ"
+speaker_translation = "막달레나"
+original = "「私にも何も感じられません……」"
+translation = "「저에게도 아무것도 느껴지지 않습니다만……」"
+
+[[dialogue]]
+speaker_original = "ラクシャ"
+speaker_translation = "락샤"
+original = "「近くに居るよ。ねえ、隠れていないで姿を現してよ」"
+translation = "「근처에 있어. 얘, 숨어 있지 말고 모습을 드러내 줘」"
+
+[[dialogue]]
+speaker_original = "パテル"
+speaker_translation = "파텔"
+original = "「はぁ、もう……本当に面倒な相手だよ、ラクシャは」"
+translation = "「하아, 정말…… 참 귀찮은 상대야, 락샤는」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ラクシャの呼びかけに応じて、パテルが姿を現す。"
+translation = "락샤의 부름에 응하여 파텔이 모습을 드러낸다."
+
+[[dialogue]]
+speaker_original = "セシア"
+speaker_translation = "세시아"
+original = "「本当に居たわ！」"
+translation = "「정말로 있었어!」"
+
+[[dialogue]]
+speaker_original = "パテル"
+speaker_translation = "파텔"
+original = "「守護天使が勢ぞろいでゾロゾロと、何をしに来たのさ。どうせロクでもないことだと思うけど～」"
+translation = "「수호천사가 떼거지로 몰려와서는 뭘 하러 온 거야? 어차피 뻔할 뻔자겠지만~」"
+
+[[dialogue]]
+speaker_original = "ラクシャ"
+speaker_translation = "락샤"
+original = "「そんな嫌そうな顔をしないでよ。ちょっとだけキミに協力して欲しいってことがあるだけだから」"
+translation = "「그런 싫은 표정 짓지 마. 약간 너한테 협조를 구하고 싶은 게 있을 뿐이니까」"
+
+[[dialogue]]
+speaker_original = "パテル"
+speaker_translation = "파텔"
+original = "「ふーん……<ruby>守護天使<rt>あたし</rt></ruby>たちでバンドを組んで、ハロウィンパーティーで演奏かー」"
+translation = "「흐응…… <ruby>수호천사<rt>나</rt></ruby>끼리 밴드를 결성해서 핼러윈 파티에서 연주라니~」"
+
+[[dialogue]]
+speaker_original = "ラクシャ"
+speaker_translation = "락샤"
+original = "「ね、面白そうじゃない？\u3000パテルも参加してよ」"
+translation = "「그치, 재미있을 것 같지 않아? 파텔도 참가해 줘」"
+
+[[dialogue]]
+speaker_original = "パテル"
+speaker_translation = "파텔"
+original = "「パス～」"
+translation = "「패스~」"
+
+[[dialogue]]
+speaker_original = "ラクシャ"
+speaker_translation = "락샤"
+original = "「えー！」"
+translation = "「에~!」"
+
+[[dialogue]]
+speaker_original = "パテル"
+speaker_translation = "파텔"
+original = "「ライブって、たくさんの人の前に姿を晒すことになるよね？\u3000あたしは基本的に『現世には不干渉』なんだけど」"
+translation = "「라이브라니, 수많은 사람 앞에 모습을 드러내게 되는 거지? 나는 기본적으로 『이승에는 불간섭』인데」"
+
+[[dialogue]]
+speaker_original = "パテル"
+speaker_translation = "파텔"
+original = "「しかもあたしがぷりちーすぎてファンが増えちゃうかもしれないし。パテルちゃん的にはそういうのＮＧなんだよねー」"
+translation = "「게다가 내가 너무 프리티해서 팬이 늘어날지도 모르고. 파텔 양으로서는 그런 거 NG거든~」"
+
+[[dialogue]]
+speaker_original = "パテル"
+speaker_translation = "파텔"
+original = "「六分の五柱まで揃ってるんだったら、もう十分、守護天使バンドって<ruby>謳<rt>うた</rt></ruby>ってもいいじゃん」"
+translation = "「6분의 5주까지 모였으면 이미 충분히 수호천사 밴드라고 <ruby>칭해도<rt>의해도</rt></ruby> 되잖아」"
+
+[[dialogue]]
+speaker_original = "パテル"
+speaker_translation = "파텔"
+original = "「というわけで、みんなだけで頑張ってよ♪\u3000じゃーねー」"
+translation = "「그런 고로, 너희들끼리 힘내 봐♪ 그럼 안녕~」"
+
+[[dialogue]]
+speaker_original = "ラクシャ"
+speaker_translation = "락샤"
+original = "「あのさ、絶対にダメかな？\u3000今回はどうしても、キミに加わって欲しいんだけど」"
+translation = "「있잖아, 절대로 안 될까? 이번에는 어떻게 해서든 네가 합류해 줬으면 좋겠는데」"
+
+[[dialogue]]
+speaker_original = "パテル"
+speaker_translation = "파텔"
+original = "「何なに……ラクシャらしくなくて、ちょっと気持ち悪いんだけど」"
+translation = "「뭐야 뭐야…… 락샤답지 않게 약간 기분 나쁜데」"
+
+[[dialogue]]
+speaker_original = "ラクシャ"
+speaker_translation = "락샤"
+original = "「そうかもね。ルヴィネさまが頑張ってるから、それに感化されちゃったのかもしれない……」"
+translation = "「그럴지도 모르겠네. 루비네 님이 힘내고 계시니까, 거기에 감화되어 버린 걸지도……」"
+
+[[dialogue]]
+speaker_original = "ラクシャ"
+speaker_translation = "락샤"
+original = "「ルヴィネさまもハロウィンに『主体的に参加する』ことで、お祭りの何たるかを学ぼうとしてるんだよ」"
+translation = "「루비네 님도 핼러윈에 『주체적으로 참가』함으로써 축제란 무엇인가를 배우려고 하시는 거야」"
+
+[[dialogue]]
+speaker_original = "ラクシャ"
+speaker_translation = "락샤"
+original = "「主であるルヴィネさまがあんなに一生懸命なのに、ボクたち守護天使が我関せずを決め込むのはちょっと申し訳ないかなーって」"
+translation = "「주군이신 루비네 님이 저렇게 열심히이신데, 우리 수호천사가 나 몰라라 하는 건 좀 미안하다 싶기도 하고~」"
+
+[[dialogue]]
+speaker_original = "ラクシャ"
+speaker_translation = "락샤"
+original = "「それにボクだって守護天使だ。人々の生きる活力になるのなら、出来る限りのことをしたいよ」"
+translation = "「게다가 나도 수호천사야. 사람들의 삶의 활력이 된다면 할 수 있는 한의 일을 하고 싶어」"
+
+[[dialogue]]
+speaker_original = "ラクシャ"
+speaker_translation = "락샤"
+original = "「だから……復興に励むデネブのみんなのために、ボクはライブがしたいんだ」"
+translation = "「그러니까…… 복구에 힘쓰는 데네브의 모두를 위해, 나는 라이브를 하고 싶어」"
+
+[[dialogue]]
+speaker_original = "パテル"
+speaker_translation = "파텔"
+original = "「…………」"
+translation = "「…………」"
+
+[[dialogue]]
+speaker_original = "ラクシャ"
+speaker_translation = "락샤"
+original = "「どうかな、パテル？」"
+translation = "「어때, 파텔?」"
+
+[[dialogue]]
+speaker_original = "パテル"
+speaker_translation = "파텔"
+original = "「胡散臭い」"
+translation = "「수상쩍어」"
+
+[[dialogue]]
+speaker_original = "ラクシャ"
+speaker_translation = "락샤"
+original = "「えー、酷いよー」"
+translation = "「에~, 너무해~」"
+
+[[dialogue]]
+speaker_original = "パテル"
+speaker_translation = "파텔"
+original = "「ラクシャのことだし、口では立派なことを言いながら、実はただ面白がってるだけでした、とかありそーだし」"
+translation = "「락샤너니까, 말로는 그럴듯하게 하면서 실은 그저 즐기고 있을 뿐이었습니다, 같은 거 충분히 있을 법하고~」"
+
+[[dialogue]]
+speaker_original = "パテル"
+speaker_translation = "파텔"
+original = "「はぁ……でも、まあいいや。ラクシャがそこまで言うんだったら」"
+translation = "「하아…… 하지만 뭐, 됐어. 락샤가 거기까지 말한다면야」"
+
+[[dialogue]]
+speaker_original = "オオヒメ"
+speaker_translation = "오오히메"
+original = "「驚いたな、引き受けてくれるというのか！？」"
+translation = "「놀랍군, 승낙해 준다는 말인가!?」"
+
+[[dialogue]]
+speaker_original = "パテル"
+speaker_translation = "파텔"
+original = "「義体に適合できなかった時に、ラクシャの権能で体を作ってもらったっていう借りもあるからね」"
+translation = "「의체에 적응하지 못했을 때 락샤의 권능으로 몸을 만들어 줬다는 빚도 있으니까 말이야」"
+
+[[dialogue]]
+speaker_original = "ラクシャ"
+speaker_translation = "락샤"
+original = "「それについては前にいろいろ手伝ってもらって清算したってことになってるんだけど……」"
+translation = "「그건 전에 이것저것 도와줘서 청산한 걸로 되어 있는데……」"
+
+[[dialogue]]
+speaker_original = "パテル"
+speaker_translation = "파텔"
+original = "「あたしは優しいから、今回限りのおまけってことにしといてあげるよ」"
+translation = "「내가 상냥하니까 이번 한정 덤으로 해 주는 거야」"
+
+[[dialogue]]
+speaker_original = "パテル"
+speaker_translation = "파텔"
+original = "「みんなだけに任せると、とんでもない恥をかきそうだし、それは守護天使として見過ごせないからね」"
+translation = "「너희에게만 맡겨 두면 엄청나게 망신을 당할 것 같고, 그건 수호천사로서 좌시할 수 없으니까 말이지」"
+
+[[dialogue]]
+speaker_original = "ラクシャ"
+speaker_translation = "락샤"
+original = "「あはは、助かるよ～！」"
+translation = ""
+
+[[dialogue]]
+speaker_original = "パテル"
+speaker_translation = "파텔"
+original = "「ああでも、１つだけ条件を出させてもらおうかな」"
+translation = ""
+
+[[dialogue]]
+speaker_original = "ラクシャ"
+speaker_translation = "락샤"
+original = "「ん、何？」"
+translation = ""
+
+[[dialogue]]
+speaker_original = "パテル"
+speaker_translation = "파텔"
+original = "「あたしの担当する楽器は自分で選ばせてよ」"
+translation = ""
+
+[[dialogue]]
+speaker_original = "ラクシャ"
+speaker_translation = "락샤"
+original = "「ふーん、やりたい楽器があるんだ。いいよ、その条件で」"
+translation = ""
+
+[[dialogue]]
+speaker_original = "マグダレナ"
+speaker_translation = "막달레나"
+original = "「とうとう守護天使全員が揃いましたね」"
+translation = ""
+
+[[dialogue]]
+speaker_original = "ラクシャ"
+speaker_translation = "락샤"
+original = "「うん！\u3000いよいよここから始まるよ、ボクたちの伝説が！」"
+translation = ""
+
+[[dialogue]]
+speaker_original = "パテル"
+speaker_translation = "파텔"
+original = "「バンド名は決まってるの？」"
+translation = ""
+
+[[dialogue]]
+speaker_original = "ラクシャ"
+speaker_translation = "락샤"
+original = "「もちろん！」"
+translation = ""
+
+[[dialogue]]
+speaker_original = "セシア"
+speaker_translation = "세시아"
+original = "「あら？\u3000わたくしたち、まだ聞いてないのだけれど？」"
+translation = ""
+
+[[dialogue]]
+speaker_original = "オオヒメ"
+speaker_translation = "오오히메"
+original = "「確かに聞いていないな」"
+translation = ""
+
+[[dialogue]]
+speaker_original = "ラクシャ"
+speaker_translation = "락샤"
+original = "「あれ、言ってなかったっけ？\u3000それじゃ、ここで発表といこうかな♪」"
+translation = ""
+
+[[dialogue]]
+speaker_original = "ラクシャ"
+speaker_translation = "락샤"
+original = "「コホン……守護天使バンド、その名も『<ruby>Ｇｏｌｄｅｎ\u3000Ａｎｇｅｌｓ<rt>ゴールデン\u3000エンジェルス</rt></ruby>』、ここに結成だよっ！」"
+translation = ""
+
+[[dialogue]]
+speaker_original = "守護天使たち"
+speaker_translation = "수호천사들"
+original = "「微妙……」"
+translation = ""
+

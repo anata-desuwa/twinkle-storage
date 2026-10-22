@@ -1,7 +1,7 @@
 [[dialogue]]
 speaker = "unk"
 original = "時は、少しだけ遡り──"
-translation = "시간은 조금 전으로 거슬러 올라가──"
+translation = "시간은, 아주 조금 거슬러 올라가──"
 
 [[dialogue]]
 speaker_original = "ヒマワリ"
@@ -13,43 +13,43 @@ translation = "「그나저나 쿠죠 가문에 잠입하게 될 줄이야~」"
 speaker_original = "ヒマワリ"
 speaker_translation = "히마와리"
 original = "「今までで１番難しいミッションかも？\u3000ミウ、何か気をつけた方がいいことってある？」"
-translation = "「지금까지 중 가장 어려운 미션일지도? 미우, 뭐 주의해야 할 점이라도 있어?」"
+translation = "「지금까지 중 1번 어려운 미션일지도? 미우, 뭔가 조심해야 할 점이 있어?」"
 
 [[dialogue]]
 speaker_original = "ミウ"
 speaker_translation = "미우"
 original = "「情報が少ないから、わからないことだらけだよ。五名門のお屋敷だし、とりあえず監視や護衛は最高難易度を想定しといて」"
-translation = "「정보가 적어서 모르는 것투성이야. 오명문의 저택이니 우선 감시나 경호는 최고 난이도를 가정해 둬」"
+translation = "「정보가 적어서, 모르는 것투성이야. 오명가의 저택이고, 일단 감시나 호위는 최고 난이도를 상정해 둬」"
 
 [[dialogue]]
 speaker_original = "ミウ"
 speaker_translation = "미우"
 original = "「あとお抱えの九浄家メイド隊は強敵かつ曲者揃いだから、戦闘はできるだけ避けたいかな。もし見つかっちゃったら、逃げの一手だからね」"
-translation = "「그리고 직속 쿠죠 가문 메이드대는 강적이자 까다로운 녀석들뿐이니까, 전투는 가급적 피하고 싶네. 만약 들키면 도망치는 수밖에 없어」"
+translation = "「그리고 전속 쿠죠가 메이드대는 강적이자 만만치 않은 녀석들이 모여 있으니까, 전투는 가능한 한 피하고 싶네. 만약 걸려 버린다면, 도망치는 수밖에 없어」"
 
 [[dialogue]]
 speaker_original = "ヒマワリ"
 speaker_translation = "히마와리"
 original = "「つまり、マッピングも罠探知もされてないお屋敷の中を、即死級つよつよボスに出会わないように探索するってこと？\u3000かなり無理ゲーっぽくなーい？」"
-translation = "「즉, 매핑도 트랩 탐지도 안 된 저택 안을 즉사급 짱센 보스와 만나지 않게 탐색하라는 거? 완벽히 무리게임 아니야ー?」"
+translation = "「즉, 매핑도 함정 탐지도 안 된 저택 안을, 즉사급 개강한 보스를 만나지 않도록 탐색한다는 거지? 엄청 무리겜 같지 않아~?」"
 
 [[dialogue]]
 speaker_original = "ミウ"
 speaker_translation = "미우"
 original = "「そうだね、普通の人なら。でも、ヒマワリちゃんはクリアが難しいゲームほど楽しくなるタイプでしょ？」"
-translation = "「그렇지, 일반적인 사람이라면. 하지만 히마와리짱은 클리어가 어려운 게임일수록 즐거워하는 타입이잖아?」"
+translation = "「그렇네, 보통 사람이라면. 하지만, 히마와리짱은 클리어가 어려운 게임일수록 즐거워하는 타입이잖아?」"
 
 [[dialogue]]
 speaker_original = "ヒマワリ"
 speaker_translation = "히마와리"
 original = "「へへっ、そうだねっ♪\u3000それにミウなら勝ち目のない勝負には挑まないだろうし、対応できないことはないって感じなんでしょ？」"
-translation = ""
+translation = "「헤헤, 그렇지~♪ 게다가 미우라면 승산 없는 승부에는 도전하지 않을 거고, 대응할 수 없는 건 없다는 느낌이지?」"
 
 [[dialogue]]
 speaker_original = "ミウ"
 speaker_translation = "미우"
 original = "「そうだね。私たちなら大丈夫だって思ってるよ」"
-translation = "「그래. 우리라면 괜찮을 거라고 생각해」"
+translation = "「그렇네. 우리라면 괜찮다고 생각해」"
 
 [[dialogue]]
 speaker_original = "ヒマワリ"

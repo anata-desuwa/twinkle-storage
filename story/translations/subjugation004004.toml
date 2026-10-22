@@ -14,13 +14,13 @@ translation = "「좋아, 가자, 아폴로」"
 speaker_original = "アポロ"
 speaker_translation = "아폴로"
 original = "「おとなしくしてりゃ痛くしないからなっ！\u3000うりゃりゃりゃりゃーーーっ！」"
-translation = ""
+translation = "「얌전히 있으면 안 아프게 해줄 테니까! 우랴랴랴랴ーー앗!」"
 
 [[dialogue]]
 speaker_original = "ゴースト"
 speaker_translation = "ゴースト"
 original = "「キャー！\u3000キャーキャーーーッ！？」"
-translation = ""
+translation = "「캬ー! 캬ー 캬ーー앗!?」"
 
 [[dialogue]]
 speaker_original = "ジグ"
@@ -49,7 +49,7 @@ translation = "리오는 지그의 지시대로 성술의 그물을 날려 고�
 speaker_original = "ゴースト"
 speaker_translation = "ゴースト"
 original = "「キャキャキャーーーッ！？！！？」"
-translation = ""
+translation = "「캬캬캬ーー앗!?!!?」"
 
 [[dialogue]]
 speaker_original = "梨緒"
@@ -162,7 +162,7 @@ translation = "「자, 제법 그럴싸해졌지?」"
 speaker_original = "ベアトリス"
 speaker_translation = "베아트리스"
 original = "「すっご～いっ！\u3000ナターシャちゃん、ランタン作りやったことあるのニャ？」"
-translation = ""
+translation = "「대단해～! 나타샤 양, 랜턴 만들기 해본 적 있냐냥?」"
 
 [[dialogue]]
 speaker_original = "ナターシャ"
@@ -186,7 +186,7 @@ translation = "「와, 와, 눈 깜짝할 사이에! 나, 손재주가 없어서
 speaker_original = "ベアトリス"
 speaker_translation = "베아트리스"
 original = "「ランタン作りはナターシャちゃんに任せて、他ので貢献した方が良さそうかニャ」"
-translation = ""
+translation = "「랜턴 만들기는 나타샤 양한테 맡기고, 다른 걸로 기여하는 게 좋을 것 같다냥」"
 
 [[dialogue]]
 speaker_original = "ベアトリス"
@@ -228,13 +228,13 @@ translation = "「그런 문제가 아니야! 무슨 생각을 하는지 모르�
 speaker_original = "ベアトリス"
 speaker_translation = "베아트리스"
 original = "「クモの巣だけでもダメニャの？」"
-translation = ""
+translation = "「거미줄만으로는 안 되는 거냐냥?」"
 
 [[dialogue]]
 speaker_original = "ナターシャ"
 speaker_translation = "나타샤"
 original = "「ダメダメムリムリムリ！\u3000暗い所でいきなり顔に絡んだ時の不快感ったらないし！」"
-translation = ""
+translation = "「안 돼 안 돼 무리 무리 무리! 어두운 곳에서 갑자기 얼굴에 엉켰을 때의 불쾌감이란!」"
 
 [[dialogue]]
 speaker_original = "ナターシャ"
@@ -246,7 +246,7 @@ translation = "「거기에 다른 벌레도 엉켜 있었을 거라 생각하�
 speaker_original = "ベアトリス"
 speaker_translation = "베아트리스"
 original = "「わ、本当だ。ナターシャちゃんの腕、ブツブツにニャってる～」"
-translation = ""
+translation = "「와, 진짜다. 나타샤 양 팔, 소름이 돋아 있다냥～」"
 
 [[dialogue]]
 speaker_original = "ナターシャ"
@@ -276,7 +276,7 @@ translation = "「어째서 멀쩡한지 대답했을 뿐인데~……」"
 speaker_original = "ベアトリス"
 speaker_translation = "베아트리스"
 original = "「だけど、いつもクールで落ち着いてるのに、取り乱しちゃうナターシャちゃん、ちょっと可愛いかもニャ」"
-translation = ""
+translation = "「하지만, 항상 쿨하고 진정되어 있는데, 당황해 버리는 나타샤 양, 조금 귀여울지도냥」"
 
 [[dialogue]]
 speaker_original = "ナターシャ"

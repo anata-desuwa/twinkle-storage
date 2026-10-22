@@ -6,12 +6,12 @@ translation = "제9화, 『길고도 짧은 시간의 끝』, B"
 [[dialogue]]
 speaker = "unk"
 original = "オオヒメとルヴィネが流星学園附属校に通い始めて、早くも２週間が過ぎた。"
-translation = "오오히메와 루비네가 유성학원 부속교에 다니기 시작한 지 벌써 2주일이 지났다."
+translation = "오오히메와 루비네가 유성학원 부속교에 다니기 시작하고, 벌써 2주일이 지나갔다."
 
 [[dialogue]]
 speaker = "unk"
 original = "それはルヴィネが予定していた視察の期間の終わりも意味していた。"
-translation = "그것은 루비네가 예정했던 시찰 기간의 끝을 의미하기도 했다."
+translation = "그것은 루비네가 예정하고 있던 시찰 기간의 끝도 의미하고 있었다."
 
 [[dialogue]]
 speaker_original = "ルヴィネ"
@@ -22,36 +22,36 @@ translation = "「결실이 많은 2주일이었어」"
 [[dialogue]]
 speaker = "unk"
 original = "オオヒメたちがルヴィネに視察の感想を訊ねると、ルヴィネは朗らかな笑顔を浮かべてそう答えた。"
-translation = "오오히메 일행이 루비네에게 시찰 소감을 묻자, 루비네는 명랑한 미소를 지으며 그렇게 답했다."
+translation = "오오히메 일행이 루비네에게 시찰 소감을 묻자, 루비네는 화사한 미소를 지으며 그렇게 답했다."
 
 [[dialogue]]
 speaker_original = "ルヴィネ"
 speaker_translation = "루비네"
 original = "「<ruby>流星学園附属校<rt>ここ</rt></ruby>で学んだ知見と経験は、きっと極星学園の附属校設立の際に活かされるわ」"
-translation = "「<ruby>유성학원 부속교<rt>여기</rt></ruby>에서 배운 지견과 경험은, 분명 극성학원의 부속교를 설립할 때 도움이 될 거야」"
+translation = "「<ruby>유성학원 부속교<rt>여기</rt></ruby>에서 배운 지식과 경험은, 분명 극성학원의 부속교를 설립할 때 도움이 될 거야」"
 
 [[dialogue]]
 speaker_original = "ルヴィネ"
 speaker_translation = "루비네"
 original = "「けれど、様々な問題点も見えてきた。もっと慎重に、十分な時間をかけて取り組まなければならない事だということも見えてきたわ」"
-translation = "「하지만 여러 문제점도 보였어. 더욱 신중하게, 충분한 시간을 들여 임해야 하는 일이라는 것도 보였지」"
+translation = "「하지만, 여러 문제점도 보였어. 더욱 신중하게, 충분한 시간을 들여서 임해야 할 일이라는 점도 알게 되었지」"
 
 [[dialogue]]
 speaker_original = "ルヴィネ"
 speaker_translation = "루비네"
 original = "「開校にこぎつけるまで、１０年以上の歳月がかかってしまうかもしれないわね……」"
-translation = "「개교를 성사시킬 때까지 10년 이상의 세월이 걸려버릴지도 모르겠네……」"
+translation = "「개교에 도달하기까지, 10년 이상의 세월이 걸려 버릴지도 모르겠네……」"
 
 [[dialogue]]
 speaker_original = "ルヴィネ"
 speaker_translation = "루비네"
 original = "「けれど、それでもいつか必ず実現させてみせるわ」"
-translation = "「하지만, 그럼에도 언젠가 반드시 실현해 보이고 말겠어」"
+translation = "「하지만, 그래도 언젠가 반드시 실현시켜 보이고 말겠어」"
 
 [[dialogue]]
 speaker = "unk"
 original = "熱を帯びた口調で、ルヴィネは決意を語ったのだった。"
-translation = "열띤 어조로, 루비네는 결의를 이야기한 것이었다."
+translation = "열띤 어조로 루비네는 결의를 이야기한 것이었다."
 
 [[dialogue]]
 speaker = "unk"
@@ -62,31 +62,31 @@ translation = "그리고 한편, 오오히메는──"
 speaker_original = "オオヒメ（幼少）"
 speaker_translation = "オオヒメ（幼少）"
 original = "「毎週の地域清掃の分担を巡って１班と２班の空気がギスギスしているのだな？」"
-translation = "「매주 구역 청소 분담을 둘러싸고 1반과 2반의 분위기가 험악해져 있다는 것인가?」"
+translation = "「매주 하는 지역 청소 분담을 둘러싸고 1반과 2반의 분위기가 험악해져 있다는 말이지?」"
 
 [[dialogue]]
 speaker_original = "オオヒメ（幼少）"
 speaker_translation = "オオヒメ（幼少）"
 original = "「わかった。それぞれの班長に私のところへ来るよう伝えてくれ。一度、３人で話をしよう」"
-translation = "「알았다. 각각의 반장에게 나 있는 곳으로 오라고 전해주게. 우선 세 사람이서 이야기를 하지」"
+translation = "「알았다. 각각의 반장에게 나 있는 곳으로 오라고 전해 다오. 일단 셋이서 이야기를 하자」"
 
 [[dialogue]]
 speaker_original = "オオヒメ（幼少）"
 speaker_translation = "オオヒメ（幼少）"
 original = "「放課後の戦闘訓練に参加したかったが、家庭の事情で難しくなってしまった？」"
-translation = "「방과 후 전투 훈련에 참가하고 싶었으나, 집안 사정으로 어려워졌다?」"
+translation = "「방과 후 전투 훈련에 참가하고 싶었지만 가정 사정으로 어렵게 되었다?」"
 
 [[dialogue]]
 speaker_original = "オオヒメ（幼少）"
 speaker_translation = "オオヒメ（幼少）"
 original = "「それは残念だな。どれだけ力になれるかわからないが、私でよければ相手になるぞ」"
-translation = "「그건 아쉽군. 얼마나 힘이 되어줄 수 있을지는 모르겠지만, 나라도 괜찮다면 상대가 되어주마」"
+translation = "「그건 아쉽게 되었구나. 얼마나 도움이 될지는 모르겠다만, 나라도 괜찮다면 상대를 해 주지」"
 
 [[dialogue]]
 speaker_original = "オオヒメ（幼少）"
 speaker_translation = "オオヒメ（幼少）"
 original = "「なになに？\u3000隣の家に住んでいる幼なじみの男の子に告白されたのだけど、どうすればいいかだと？」"
-translation = "「뭐라뭐라? 옆집에 사는 소꿉친구 남학생에게 고백받았는데 어떻게 하면 좋겠냐고?」"
+translation = "「뭐라고 뭐라고? 옆집에 사는 소꿉친구 남학생에게 고백을 받았는데 어떻게 하면 좋겠냐고?」"
 
 [[dialogue]]
 speaker_original = "オオヒメ（幼少）"
@@ -97,13 +97,13 @@ translation = "「뭐뭐뭐…… 나, 나에게 그런 것을 물어봐도 곤�
 [[dialogue]]
 speaker = "unk"
 original = "……と、生来の委員長気質を発揮し、クラスでもすっかり頼られる存在になっていた。"
-translation = "……하고 타고난 반장 기질을 발휘하여, 반에서도 완전히 의지받는 존재가 되어 있었다."
+translation = "……라며, 타고난 반장 기질을 발휘해 반에서도 완전히 의지가 되는 존재가 되어 있었다."
 
 [[dialogue]]
 speaker_original = "ナミエル"
 speaker_translation = "나미엘"
 original = "「ヒメさんがここまで頼られる存在になるとは思いませんでした」"
-translation = "「히메 씨가 이정도로 의지받는 존재가 될 줄은 몰랐습니다」"
+translation = "「히메 씨가 여기까지 의지가 되는 존재가 될 줄은 몰랐습니다」"
 
 [[dialogue]]
 speaker_original = "オオヒメ（幼少）"
@@ -115,25 +115,25 @@ translation = "「음…… 어쩐지 뼈가 있는 말투처럼 들린다만?�
 speaker_original = "ナミエル"
 speaker_translation = "나미엘"
 original = "「いえ、最初の印象が大転倒でしたから。よくここまで回復できたものだなと」"
-translation = "「아뇨, 첫인상이 크게 넘어졌으니까요. 잘도 여기까지 회복했구나 싶어서요」"
+translation = "「아뇨, 첫인상이 워낙 크게 넘어졌었으니까요. 잘도 여기까지 회복했구나 싶어서요」"
 
 [[dialogue]]
 speaker_original = "オオヒメ（幼少）"
 speaker_translation = "オオヒメ（幼少）"
 original = "「ううっ……！！」"
-translation = "「우우……!!」"
+translation = "「으윽……!!」"
 
 [[dialogue]]
 speaker_original = "ナミエル"
 speaker_translation = "나미엘"
 original = "「誉め言葉ですよ。ヒメさんはいつも真面目で、一生懸命で、何事に対しても全力です」"
-translation = "「칭찬이에요. 히메 씨는 항상 진지하고, 열심히며, 무슨 일이든 전력을 다하니까요」"
+translation = "「칭찬이에요. 히메 씨는 언제나 진지하고, 열심히고, 무슨 일이든 전력을 다하니까요」"
 
 [[dialogue]]
 speaker_original = "ナミエル"
 speaker_translation = "나미엘"
 original = "「だからこそクラスの皆もヒメさんに心を開き、ここまで頼られる存在になったのだと思います」"
-translation = "「그렇기에 반 모두도 히메 씨에게 마음을 열고, 여기까지 의지하는 존재가 되었다고 생각해요」"
+translation = "「그렇기에 반 아이들도 히메 씨에게 마음을 열고, 여기까지 의지하는 존재가 된 거라고 생각해요」"
 
 [[dialogue]]
 speaker_original = "オオヒメ（幼少）"
@@ -145,25 +145,25 @@ translation = "「그, 그런가? 후후, 인정받는다는 건 기쁜 일이�
 speaker_original = "ナミエル"
 speaker_translation = "나미엘"
 original = "「同時にそのチョロすぎる性格も知れ渡ってしまいましたが……」"
-translation = "「동시에 그 너무 호구 같은 성격도 널리 알려져 버렸지만요……」"
+translation = "「동시에 너무 쉬운 그 성격도 널리 알려져 버렸지만요……」"
 
 [[dialogue]]
 speaker_original = "オオヒメ（幼少）"
 speaker_translation = "オオヒメ（幼少）"
 original = "「私は別に、チョロいわけでは……！」"
-translation = "「저는 딱히, 호구 같은 게……!」"
+translation = "「나는 딱히, 만만한 게……!」"
 
 [[dialogue]]
 speaker_original = "ナミエル"
 speaker_translation = "나미엘"
 original = "「しかも天然ですし……立派に愛されキャラクターの座を獲得していますよ」"
-translation = "「게다가 천연이고요…… 훌륭하게 사랑받는 캐릭터의 자리를 획득하고 있어요」"
+translation = "「게다가 천연이고요…… 훌륭하게 사랑받는 캐릭터 자리를 획득했네요」"
 
 [[dialogue]]
 speaker_original = "オオヒメ（幼少）"
 speaker_translation = "オオヒメ（幼少）"
 original = "「うぅぅ……私は守護天使なのにあんまりな評価だ。いっそ掃除道具入れの中に閉じこもってしまおうか……」"
-translation = "「우으으…… 나는 수호천사인데 너무한 평가다. 차라리 청소도구함 속에 틀어박혀 버릴까……」"
+translation = "「으으으…… 나는 수호천사인데 너무한 평가다. 차라리 청소도구함 속에 틀어박혀 버릴까……」"
 
 [[dialogue]]
 speaker_original = "ナミエル"
@@ -175,19 +175,19 @@ translation = "「…………」"
 speaker_original = "ナミエル"
 speaker_translation = "나미엘"
 original = "「こんなやり取りも、今日で最後かもしれないのですね……」"
-translation = "「이런 주고받음도, 오늘로 마지막일지도 모르겠네요……」"
+translation = "「이런 주고받음도 오늘로 마지막일지도 모르겠네요……」"
 
 [[dialogue]]
 speaker_original = "オオヒメ（幼少）"
 speaker_translation = "オオヒメ（幼少）"
 original = "「ナミエル殿……」"
-translation = ""
+translation = "「나미엘 공……」"
 
 [[dialogue]]
 speaker_original = "ナミエル"
 speaker_translation = "나미엘"
 original = "「こんな愛され守護天使に毎日会えなくなると思うと、きっと寂しがるでしょう……みんなも、私も……」"
-translation = "「이런 사랑받는 수호천사를 매일 만날 수 없게 된다고 생각하면, 분명 외로워하겠죠…… 모두도, 저도……」"
+translation = "「이런 사랑받는 수호천사를 매일 만날 수 없게 된다고 생각하면, 분명 쓸쓸해하겠죠…… 모두도, 저도……」"
 
 [[dialogue]]
 speaker_original = "ナミエル"
