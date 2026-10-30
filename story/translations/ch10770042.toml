@@ -99,25 +99,25 @@ translation = ""
 speaker_original = "シュティレ"
 speaker_translation = "슈틸레"
 original = "「ウサギは綺麗好きな動物のため、お掃除ロボットのアイコンとして最適かなと……なかなか可愛いデフォルメになっているでしょう」"
-translation = ""
+translation = "「토끼는 깨끗한 것을 좋아하는 동물이라 청소 로봇의 아이콘으로 최적일까 해서…… 제법 귀엽게 데포르메되었죠?」"
 
 [[dialogue]]
 speaker_original = "シュティレ"
 speaker_translation = "슈틸레"
 original = "「先日のロストアイテム騒動の折、バニーフォームに目覚めたこともあり、その時のインスピレーションをふんだんに盛り込んでみました。ぶい」"
-translation = ""
+translation = "「지난번 로스트 아이템 소동 때 바니 폼에 눈을 뜬 것도 있고 해서, 그때의 인스피레이션을 듬뿍 담아보았습니다. 브이.」"
 
 [[dialogue]]
 speaker_original = "アナ"
 speaker_translation = "아나"
 original = "「ソファの下なんかを掃除する時、うさ耳が邪魔になりそうですが……」"
-translation = ""
+translation = "「소파 밑 같은 곳을 청소할 때, 토끼 귀가 방해가 될 것 같습니다만……」"
 
 [[dialogue]]
 speaker_original = "シュティレ"
 speaker_translation = "슈틸레"
 original = "「折り畳み式で状況に応じて変形します。ウサギをモチーフにしたお掃除ロボなので、耳は外せません。これもまたロマンです」"
-translation = ""
+translation = "「접이식이라 상황에 따라 변형합니다. 토끼를 모티브로 한 청소 로봇이니 귀를 뗄 수는 없습니다. 이것 또한 로망입니다.」"
 
 [[dialogue]]
 speaker_original = "アナ"
@@ -170,65 +170,65 @@ translation = "「흠. 성도회실은 관계자 외에는, 원칙적으로 출�
 speaker_original = "マトイ"
 speaker_translation = "마토이"
 original = "「いいんじゃない、会長？\u3000このお掃除ロボットが優秀なら、掃除の時間を節約できそうだよ！」"
-translation = "「괜찮잖아, 회장? 이 청소 로봇이 우수하다면, 청소 시간을 절약할 수 있을 것 같아!」"
+translation = "「괜찮지 않아, 회장? 이 청소 로봇이 우수하다면, 청소 시간을 절약할 수 있을 것 같아!」"
 
 [[dialogue]]
 speaker = "unk"
 original = "それじゃあ、掃除はこいつに任せるか"
-translation = "그럼, 청소는 이 녀석한테 맡길까"
+translation = "그럼, 청소는 이 녀석에게 맡길까."
 
 [[dialogue]]
 speaker_original = "シュティレ"
 speaker_translation = "슈틸레"
 original = "「感謝いたします、会長。では数日ほど、こちらで稼働をお願いいたします」"
-translation = "「감사합니다, 회장. 그럼 며칠 정도, 이곳에서 가동을 부탁드립니다」"
+translation = "「감사합니다, 회장님. 그럼 며칠 정도, 이곳에서 가동을 부탁드립니다.」"
 
 [[dialogue]]
 speaker_original = "蘭美"
 speaker_translation = "라미"
 original = "「ふぅ。今日のメイド隊の仕事は終了ね！\u3000我ながら完璧な出来栄えだわ！」"
-translation = "「후우. 오늘 메이드대의 일은 종료야! 내가 생각해도 완벽한 완성도라고!」"
+translation = "「후우. 오늘 메이드대의 일은 끝이네! 내가 봐도 완벽한 완성도야!」"
 
 [[dialogue]]
 speaker_original = "蘭美"
 speaker_translation = "라미"
 original = "「思った以上に時間が余ってしまったわね……手際が良すぎるのも考え物だわ！」"
-translation = "「생각했던 것 이상으로 시간이 남아 버렸네…… 솜씨가 너무 좋은 것도 문제야!」"
+translation = "「생각했던 것 이상으로 시간이 남아 버렸네…… 수완이 너무 좋은 것도 문제야!」"
 
 [[dialogue]]
 speaker_original = "蘭美"
 speaker_translation = "라미"
 original = "「……そうだわ！\u3000会長も忙しいだろうし、星徒会室の掃除をしてあげるのはどうかしら！」"
-translation = "「……그렇지! 회장도 바쁠 테고, 성도회실 청소를 해 주는 건 어떨까!」"
+translation = "「……그렇지! 회장님도 바쁠 테고, 성도회실 청소를 해주는 건 어떨까!」"
 
 [[dialogue]]
 speaker_original = "蘭美"
 speaker_translation = "라미"
 original = "「──今さらだけど、ちょっぴり非常識かしら？\u3000星徒会室を許可もなくお掃除しちゃうだなんて……」"
-translation = "「──이제 와서지만, 약간 몰상식하려나? 성도회실을 허락도 없이 청소해 버리다니……」"
+translation = "「──이제 와서 하는 말이지만, 약간 몰상식하려나? 성도회실을 허락도 없이 청소해 버린다니……」"
 
 [[dialogue]]
 speaker_original = "蘭美"
 speaker_translation = "라미"
 original = "「いいえ！\u3000普通の生徒ならいざ知らず、私は会長の婚約者よ！\u3000将来の旦那様の職場を掃除するのも、できるお嫁さんの務めよね！」"
-translation = "「아니지! 일반 학생이라면 몰라도, 나는 회장의 약혼자야! 미래의 남편의 직장을 청소하는 것도, 능력 있는 아내의 의무겠지!」"
+translation = "「아니지! 일반 학생이라면 몰라도, 나는 회장님의 약혼자야! 미래의 남편분의 직장을 청소하는 것도, 능력 있는 아내의 의무겠지!」"
 
 [[dialogue]]
 speaker_original = "蘭美"
 speaker_translation = "라미"
 original = "「失礼するわ！\u3000って──あら？\u3000誰もいない……留守かしら？」"
-translation = "「실례할게! 어라? 아무도 없어…… 부재중인가?」"
+translation = "「실례할게! ……어라? 아무도 없어…… 부재중인가?」"
 
 [[dialogue]]
 speaker_original = "蘭美"
 speaker_translation = "라미"
 original = "「でもちょうどいいわね！\u3000会長が帰ってくるまでにピカピカに──」"
-translation = "「하지만 딱 잘됐네! 회장이 돌아올 때까지 반짝반짝하게──」"
+translation = "「하지만 딱 잘됐네! 회장님이 돌아올 때까지 반짝반짝하게──」"
 
 [[dialogue]]
 speaker = "unk"
 original = "ういーん……ういーん……（←お掃除ロボット『ぴょん子』稼働中）"
-translation = "위잉…… 위잉…… (←청소 로봇 『푱코』 가동 중)"
+translation = "위잉…… 위잉…… (←청소 로봇 『뼝코』 가동 중)"
 
 [[dialogue]]
 speaker_original = "蘭美"
@@ -245,29 +245,29 @@ translation = "어라, 라비. 와 있었어?"
 speaker_original = "蘭美"
 speaker_translation = "라미"
 original = "「か、会長！？\u3000な、何これ！？\u3000何なの！？！？」"
-translation = "「회, 회장!? 뭐, 뭐야 이거!? 뭔데!?」"
+translation = "「회, 회장님!? 무, 뭐야 이거!? 뭔데!?!?」"
 
 [[dialogue]]
 speaker = "unk"
 original = "先日来た、お掃除ロボットだよ"
-translation = "요전에 들어온, 청소 로봇이야"
+translation = "요전에 들어온, 청소 로봇이야."
 
 [[dialogue]]
 speaker = "unk"
 original = "ああ──ぴょん子か"
-translation = "아아──푱코 말인가"
+translation = "아아──뼝코 말이지."
 
 [[dialogue]]
 speaker_original = "蘭美"
 speaker_translation = "라미"
 original = "「ぴょんっ！？\u3000ぴょん子！？\u3000お掃除ロボット！？\u3000ど、どういうことなの！\u3000私というものがありながら！？」"
-translation = "「푱!? 푱코!? 청소 로봇!? 어, 어떻게 된 거야! 나라는 존재가 있는데도!?」"
+translation = "「뼝!? 뼝코!? 청소 로봇!? 어, 어떻게 된 거야! 나라는 존재가 있는데도!?」"
 
 [[dialogue]]
 speaker_original = "蘭美"
 speaker_translation = "라미"
 original = "「掃除の必要があるなら、私を呼べばいいじゃない！？\u3000よりにもよってこんな怪しげなウサギを無断で連れ込むだなんて！！」"
-translation = "「청소할 필요가 있다면, 나를 부르면 되잖아!?하필이면 이런 수상쩍은 토끼를 무단으로 들이라니!!」"
+translation = "「청소할 필요가 있다면, 나를 부르면 되잖아!? 하필이면 이런 수상쩍은 토끼를 무단으로 들여놓다니!!」"
 
 [[dialogue]]
 speaker = "unk"
@@ -277,19 +277,19 @@ translation = "라비는 메이드대 일로 바쁘잖아?"
 [[dialogue]]
 speaker = "unk"
 original = "連れ込むだなんてそんな……"
-translation = "들이다니 그런……"
+translation = "들여놓다니 그건 좀……"
 
 [[dialogue]]
 speaker_original = "蘭美"
 speaker_translation = "라미"
 original = "「舐めないで欲しいぴょんっ！\u3000会長のためなら、万難を排して駆けつけるぴょん！！」"
-translation = "「깔보지 말아 줬으면 좋겠푱! 회장을 위해서라면, 만난을 무릅쓰고 달려갈 거푱!!」"
+translation = "「얕보지 말아 줬으면 좋겠뼝! 회장님을 위해서라면, 만난을 무릅쓰고 달려갈 거뼝!!」"
 
 [[dialogue]]
 speaker_original = "蘭美"
 speaker_translation = "라미"
 original = "「私がどれほど会長のことが好きなのか、知らないとは言わせないぴょんっ！\u3000そこに正座しなさいっ！\u3000お説教だぴょんっ！！！」"
-translation = "「내가 얼마나 회장을 좋아하는지, 모른다고는 말 못 하게 할 거푱! 거기에 정좌해! 설교다푱!!!」"
+translation = "「내가 얼마나 회장님을 좋아하는지, 모른다고는 말 못 하게 할 거뼝! 거기 정좌해! 설교다뼝!!!」"
 
 [[dialogue]]
 speaker = "unk"
@@ -306,13 +306,13 @@ translation = "「수고하셨습니다──어라?」"
 speaker_original = "マトイ"
 speaker_translation = "마토이"
 original = "「あれれ。なんだろう、修羅場な雰囲気……？」"
-translation = "「어라라. 뭘까, 아수라장 같은 분위기……?」"
+translation = "「어라라. 뭘까, 수라장 같은 분위기……?」"
 
 [[dialogue]]
 speaker_original = "蘭美"
 speaker_translation = "라미"
 original = "「そもそもぴょん子って何よ！\u3000何なのよこの女！\u3000妻をさしおいて夫の職場を掃除するだなんて！\u3000泥棒ウサギじゃない！！！」"
-translation = "「애초에 푱코가 뭔데! 뭔데 이 여자는! 아내를 제쳐두고 남편의 직장을 청소하다니! 도둑 토끼잖아!!!」"
+translation = "「애초에 뼝코가 뭔데! 뭔데 이 여자는! 아내를 제쳐두고 남편의 직장을 청소하다니! 도둑 토끼잖아!!!」"
 
 [[dialogue]]
 speaker_original = "蘭美"
@@ -324,40 +324,40 @@ translation = "「이런 건…… 이런 건!!!」"
 speaker_original = "蘭美"
 speaker_translation = "라미"
 original = "「────浮気だぴょんっっっ！！！！」"
-translation = "「────바람이다푱!!!!」"
+translation = "「────바람이다뼝!!!!」"
 
 [[dialogue]]
 speaker = "unk"
 original = "ご、ごめんなさい……軽率でした！！"
-translation = "미, 미안해…… 경솔했어!!"
+translation = "죄, 죄송합니다…… 경솔했습니다!!"
 
 [[dialogue]]
 speaker_original = "蘭美"
 speaker_translation = "라미"
 original = "「すぐに返品しなさいっ！\u3000会長のそばにいていいウサギは私だけよ！！」"
-translation = "「당장 반품해! 회장 곁에 있어도 되는 토끼는 나뿐이야!!」"
+translation = "「당장 반품해! 회장님 옆에 있어도 되는 토끼는 나뿐이야!!」"
 
 [[dialogue]]
 speaker_original = "アナ"
 speaker_translation = "아나"
 original = "「……よくよく聞いてみたら、平和な口論でしたね」"
-translation = "「……자세히 들어보니, 평화로운 말다툼이었네요」"
+translation = "「……자세히 들어보니, 평화로운 말다툼이었네요.」"
 
 [[dialogue]]
 speaker_original = "マトイ"
 speaker_translation = "마토이"
 original = "「そうだね。私たちはお茶でも入れよっか」"
-translation = "「그러게. 우리는 차라도 우릴까」"
+translation = "「그렇네. 우리는 차라도 타 올까.」"
 
 [[dialogue]]
 speaker = "unk"
 original = "２人とも、助けてくれ──！？"
-translation = "두 사람 모두, 구해 줘──!?"
+translation = "둘 다, 구해줘──!?"
 
 [[dialogue]]
 speaker = "unk"
 original = "こうしてお掃除ロボット・ぴょん子１号はすぐに機械工作同好会に返品され──"
-translation = "이렇게 청소 로봇 푱코 1호는 즉시 기계공작 동호회로 반품되었고──"
+translation = "이렇게 청소 로봇 뼝코 1호는 즉시 기계공작 동호회로 반품되었고──"
 
 [[dialogue]]
 speaker = "unk"

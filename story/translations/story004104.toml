@@ -1,0 +1,395 @@
+[[dialogue]]
+speaker_original = "モネ"
+speaker_translation = "모네"
+original = "「サランさん！？」"
+translation = "「사란 씨!?」"
+
+[[dialogue]]
+speaker_original = "サラン"
+speaker_translation = "사란"
+original = "「モネちゃんこんにちは～。借りてた絵本を返しに来たら、不思議な匂いがしたから、つい声をかけちゃった～」"
+translation = "「모네짱 안녕～. 빌렸던 그림책을 반납하러 왔더니, 희한한 냄새가 나서 그만 말을 걸어 버렸어～」"
+
+[[dialogue]]
+speaker_original = "リィベル"
+speaker_translation = "리벨"
+original = "「不思議な匂い……？\u3000本の匂いしかしないはずだけど……」"
+translation = "「희한한 냄새……? 책 냄새밖에 안 날 텐데……」"
+
+[[dialogue]]
+speaker_original = "サラン"
+speaker_translation = "사란"
+original = "「ぽよ～？\u3000そうなの～？\u3000でも、甘くてスパイスの混じった、すご～くいい匂いがするよ～？」"
+translation = "「포요～? 그래～? 하지만 달콤하고 향신료가 섞인, 엄～청 좋은 냄새가 나는걸～?」"
+
+[[dialogue]]
+speaker_original = "リィベル"
+speaker_translation = "리벨"
+original = "「魔本に惹かれているということかしら。サラン、少しじっとしていなさい」"
+translation = "「마도서에 끌리고 있다는 뜻일까. 사란, 잠시 가만히 있어 봐」"
+
+[[dialogue]]
+speaker_original = "サラン"
+speaker_translation = "사란"
+original = "「ぽよ？」"
+translation = "「포요?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "サランの頭の上に魔本をかざすと、激しく明滅した。"
+translation = "사란의 머리 위에 마도서를 갖다 대자, 격렬하게 명멸했다."
+
+[[dialogue]]
+speaker_original = "サラン"
+speaker_translation = "사란"
+original = "「すごいすご～い！\u3000光るお本だ～♪」"
+translation = "「대단해 대단해～! 빛나는 책이다～♪」"
+
+[[dialogue]]
+speaker_original = "モネ"
+speaker_translation = "모네"
+original = "「サランさん、実は……」"
+translation = "「사란 씨, 사실은……」"
+
+[[dialogue]]
+speaker = "unk"
+original = "モネは先ほどシャルレーヌにしたのと同じように、深淵書庫と魔将について説明した。"
+translation = "모네는 방금 샤를렌에게 했던 것과 마찬가지로, 심연서고와 마장에 대해 설명했다."
+
+[[dialogue]]
+speaker_original = "サラン"
+speaker_translation = "사란"
+original = "「わかった～。サラン、その魔将っていうのになればいいんだね～？」"
+translation = "「알겠어～. 사란, 그 마장이라는 게 되면 되는 거지～?」"
+
+[[dialogue]]
+speaker_original = "ウィステリア"
+speaker_translation = "위스테리아"
+original = "「こっちからお願いしておいてなんだけど、本当に大丈夫？\u3000魔将になるということは、魔本に呪われるということ。危険と隣り合わせなのよ」"
+translation = "「이쪽에서 부탁해 두고 할 말은 아니지만, 정말 괜찮겠어? 마장이 된다는 건, 마도서에 저주받는다는 뜻이야. 위험을 무릅써야 한다고」"
+
+[[dialogue]]
+speaker_original = "サラン"
+speaker_translation = "사란"
+original = "「だいじょうぶ～。サランも星騎士だから、危険は慣れっこだもん～」"
+translation = "「괜찮아～. 사란도 성기사니까, 위험에는 익숙한걸～」"
+
+[[dialogue]]
+speaker_original = "サラン"
+speaker_translation = "사란"
+original = "「それに、むか～しむか～しの魔族さんのことが書かれたお本なら、もう誰も知らないお菓子のレシピが見付かるかも～。ワクワクする～♪」"
+translation = "「게다가 예~ 옛날 마족 분의 이야기가 적힌 책이라면, 이제 아무도 모르는 과자 레시피를 찾을지도 몰라～. 두근두근해～♪」"
+
+[[dialogue]]
+speaker_original = "リィベル"
+speaker_translation = "리벨"
+original = "「決まりね。もうすぐ図書館も閉館時間だし、閉めたら深淵書庫へ行きましょう」"
+translation = "「결정됐네. 이제 곧 도서관도 문 닫을 시간이고, 닫으면 심연서고로 가자」"
+
+[[dialogue]]
+speaker_original = "シャルレーヌ"
+speaker_translation = "샤를렌"
+original = "「ここが深淵書庫……空気が重いですね」"
+translation = "「여기가 심연서고…… 공기가 중후하네요」"
+
+[[dialogue]]
+speaker = "unk"
+original = "初めて深淵書庫を訪れたシャルレーヌ。その一方で、イクシリオンは別の感情を抱いていた。"
+translation = "처음으로 심연서고를 방문한 샤를렌. 한편, 익실리온은 다른 감정을 품고 있었다."
+
+[[dialogue]]
+speaker_original = "イクシリオン"
+speaker_translation = "익실리온"
+original = "「久しぶりにお邪魔します。……防衛システムは本当に反応しなくなったんですね。驚きです」"
+translation = "「오랜만에 실례하겠습니다. ……방어 시스템은 정말로 반응하지 않게 되었군요. 놀라워요」"
+
+[[dialogue]]
+speaker_original = "ウィステリア"
+speaker_translation = "위스테리아"
+original = "「システムの大元がこっちにいるしね。まぁ防衛システムが動いてても蹴散らすだけだけど」"
+translation = "「시스템의 근본이 이쪽에 있으니까. 뭐, 방어 시스템이 작동해도 걷어차 버리면 그만이지만」"
+
+[[dialogue]]
+speaker_original = "リィベル"
+speaker_translation = "리벨"
+original = "「そこ、うるさい。ウィステリアだけには反応するように設定するわよ」"
+translation = "「거기, 시끄러워. 위스테리아한테만 반응하도록 설정해 버린다」"
+
+[[dialogue]]
+speaker = "unk"
+original = "イクシリオンはモネと深淵書庫に迷い込み、防衛システムと戦闘になったことがある。ウィステリアが強力な星騎士だと知ったのもそのときだ。"
+translation = "익실리온은 모네와 심연서고에 헤매어 들어왔다가 방어 시스템과 전투를 벌인 적이 있다. 위스테리아가 강력한 성기사라는 것을 안 것도 그때다."
+
+[[dialogue]]
+speaker_original = "サラン"
+speaker_translation = "사란"
+original = "「そうだ～。さっきは図書館だから出せなかったけど、よかったらクッキーどうぞ～」"
+translation = "「맞다～. 아까는 도서관이라서 못 꺼냈는데, 괜찮다면 쿠키 드세요～」"
+
+[[dialogue]]
+speaker_original = "イクシリオン"
+speaker_translation = "익실리온"
+original = "「ええと、深淵書庫内って飲食をしてもよいのでしょうか？」"
+translation = "「저기, 심연서고 내부에서 음식물을 섭취해도 되는 건가요?」"
+
+[[dialogue]]
+speaker_original = "リィベル"
+speaker_translation = "리벨"
+original = "「構わないわ。魔本はそれくらいじゃ汚れないし、魔法で綺麗にできるもの」"
+translation = "「상관없어. 마도서는 그 정도로 더러워지지 않고, 마법으로 깨끗하게 할 수 있으니까」"
+
+[[dialogue]]
+speaker_original = "イクシリオン"
+speaker_translation = "익실리온"
+original = "「でしたら頂きます。あむ。……ん～っ、さすがサランさん、クッキーも絶品です！」"
+translation = "「그러시다면 잘 먹겠습니다. 냠. ……음～, 역시 사란 씨, 쿠키도 일품이네요!」"
+
+[[dialogue]]
+speaker_original = "シャルレーヌ"
+speaker_translation = "샤를렌"
+original = "「小麦とバターの香りが調和した、シンプルながらも素晴らしい一品です。これほどのものはディアーブル家お抱えの菓子職人でも作れませんよ」"
+translation = "「밀가루와 버터의 향이 조화를 이룬, 심플하면서도 훌륭한 일품입니다. 이 정도 물건은 디아블가 전속 과자 장인도 만들지 못해요」"
+
+[[dialogue]]
+speaker_original = "モネ"
+speaker_translation = "모네"
+original = "「とっても美味しいです♪\u3000このクッキーがあれば、読書ももっと進みそうですね」"
+translation = "「정말 맛있어요♪ 이 쿠키가 있다면, 독서도 한층 잘 될 것 같아요」"
+
+[[dialogue]]
+speaker_original = "サラン"
+speaker_translation = "사란"
+original = "「えへへ～♪\u3000みんなが喜んでくれてうれし～♪」"
+translation = "「에헤헤～♪ 모두 기뻐해 줘서 기뻐～♪」"
+
+[[dialogue]]
+speaker_original = "カティア"
+speaker_translation = "카티아"
+original = "（いいな～！\u3000サラン先輩のクッキー、私も食べたいな～！）"
+translation = "（부럽다～! 사란 선배의 쿠키, 나도 먹고 싶은데～!）"
+
+[[dialogue]]
+speaker_original = "カティア"
+speaker_translation = "카티아"
+original = "（でも、移動する時になんとか潜り込んだけど、勝手に入って怒られないかな……。うぅ、なんか怖いんだけど、ここ…………）"
+translation = "（하지만 이동할 때 어떻게든 슬그머니 들어왔지만, 마음대로 들어왔다고 혼나지 않을까……. 우으, 왠지 무서운데, 여기…………）"
+
+[[dialogue]]
+speaker_original = "カティア"
+speaker_translation = "카티아"
+original = "（ううんっ、ここまで来たからには絶対、魔将になって強くなってやるっ！）"
+translation = "（으응, 여기까지 온 이상 반드시 마장이 되어서 강해지고 말겠어!）"
+
+[[dialogue]]
+speaker_original = "リィベル"
+speaker_translation = "리벨"
+original = "「……ふぅん。そういうことね」"
+translation = "「……후음. 그런 거구나」"
+
+[[dialogue]]
+speaker_original = "リィベル"
+speaker_translation = "리벨"
+original = "「それじゃサラン、前へ出てちょうだい」"
+translation = "「그럼 사란, 앞으로 나와 줘」"
+
+[[dialogue]]
+speaker_original = "サラン"
+speaker_translation = "사란"
+original = "「は～い」"
+translation = "「네～에」"
+
+[[dialogue]]
+speaker = "unk"
+original = "リィベルが手にした魔本がまた光を放つ。『暴食』の力を宿した魔本だ。"
+translation = "리벨이 손에 쥔 마도서가 다시 빛을 발한다. 『폭식』의 힘을 숙성한 마도서다."
+
+[[dialogue]]
+speaker_original = "サラン"
+speaker_translation = "사란"
+original = "「ふふふ～、やっぱりいい匂～い♪」"
+translation = "「후후후～, 역시 좋은 냄새～♪」"
+
+[[dialogue]]
+speaker_original = "リィベル"
+speaker_translation = "리벨"
+original = "「呪いの本を開く覚悟はいいかしら？」"
+translation = "「저주의 책을 열 각오는 되었겠지?」"
+
+[[dialogue]]
+speaker_original = "サラン"
+speaker_translation = "사란"
+original = "「いつでもどうぞ～」"
+translation = "「언제든 시작하세요～」"
+
+[[dialogue]]
+speaker_original = "リィベル"
+speaker_translation = "리벨"
+original = "「……軽い返事ね。まぁ、それくらい豪胆な方がいいでしょう。じゃあ始めるわよ」"
+translation = "「……가벼운 대답이네. 뭐, 그 정도로 호탕한 편이 좋겠지. 그럼 시작한다」"
+
+[[dialogue]]
+speaker_original = "リィベル"
+speaker_translation = "리벨"
+original = "「対象者『桜十路サラン』、適合罪科『暴食』。……魔本、貸出承認」"
+translation = "「대상자 『사쿠라쥬지 사란』, 적합 죄과 『폭식』. ……마도서, 대출 승인」"
+
+[[dialogue]]
+speaker = "unk"
+original = "リィベルの宣告とともに、魔本がサランの頭上へと飛び立つ。"
+translation = "리벨의 선언과 함께, 마도서가 사란의 머리 위로 날아오른다."
+
+[[dialogue]]
+speaker = "unk"
+original = "するとページが開き、魔力がサランへと降り注いだ。"
+translation = "그러자 페이지가 열리고, 마력이 사란에게 쏟아져 내렸다."
+
+[[dialogue]]
+speaker_original = "サラン"
+speaker_translation = "사란"
+original = "「ぽよ～？\u3000すごいすご～い。力が溢れてきちゃう～」"
+translation = "「포요～? 대단해 대단해. 힘이 넘쳐흘러 버려～」"
+
+[[dialogue]]
+speaker_original = "サラン"
+speaker_translation = "사란"
+original = "「ふわ～。体がなんだかぽかぽかするの～。これが魔将の力なのかな～」"
+translation = "「후와～. 몸이 왠지 따끈따끈해～. 이것이 마장의 힘인 걸까～」"
+
+[[dialogue]]
+speaker_original = "サラン"
+speaker_translation = "사란"
+original = "「ふふっ、ふふふ～<emoji=heart04>」"
+translation = "「후훗, 후후후～<emoji=heart04>」"
+
+[[dialogue]]
+speaker_original = "イクシリオン"
+speaker_translation = "익실리온"
+original = "「これが『暴食』の魔将となったサランさんのお姿……すごく、その…………これで『暴食』なんですか？」"
+translation = "「이것이 『폭식』의 마장이 된 사란 씨의 모습…… 엄청, 그………… 이걸로 『폭식』인 건가요?」"
+
+[[dialogue]]
+speaker_original = "シャルレーヌ"
+speaker_translation = "샤를렌"
+original = "「イクシリオンせんぱ～い？\u3000言いたいことは分かりますけど、それ以上はダメですよ～」"
+translation = "「익실리온 선배～? 하고 싶은 말은 알겠지만, 그 이상은 안 돼요～」"
+
+[[dialogue]]
+speaker_original = "リィベル"
+speaker_translation = "리벨"
+original = "「サラン。なぜあなたが魔将に選ばれたのか、理解できたわ」"
+translation = "「사란. 왜 당신이 마장으로 선택되었는지 이해했어」"
+
+[[dialogue]]
+speaker_original = "リィベル"
+speaker_translation = "리벨"
+original = "「さっきもクッキーを持ってきていたけど、あなたはお菓子作りが得意なのよね？」"
+translation = "「아까도 쿠키를 가져왔었지만, 당신은 과자 만들기가 특기였지?」"
+
+[[dialogue]]
+speaker_original = "サラン"
+speaker_translation = "사란"
+original = "「うん、そうだよ～」"
+translation = "「응, 맞아～」"
+
+[[dialogue]]
+speaker_original = "リィベル"
+speaker_translation = "리벨"
+original = "「暴食とは、いくら食べても満たされぬ飢えとされている。けれど、飢えているなら食べるのは当然のことだわ」"
+translation = "「폭식이란 아무리 먹어도 채워지지 않는 굶주림으로 여겨지지. 하지만 굶주려 있다면 먹는 것은 당연한 일이야」"
+
+[[dialogue]]
+speaker_original = "リィベル"
+speaker_translation = "리벨"
+original = "「でもお菓子は飢えを満たすものではない。満たされた上でなお食べるもの」"
+translation = "「하지만 과자는 굶주림을 채우는 게 아니야. 채워진 상태에서 한층 더 먹는 것」"
+
+[[dialogue]]
+speaker_original = "リィベル"
+speaker_translation = "리벨"
+original = "「命を繋ぐはずの食を娯楽とし、甘美を極めんとするその姿勢──まさに暴食の魔将に相応しいわ」"
+translation = "「목숨을 이어 가야 할 식사를 오락으로 삼고, 달콤함을 극에 달하려 하는 그 자세── 그야말로 폭식의 마장에 어울려」"
+
+[[dialogue]]
+speaker_original = "サラン"
+speaker_translation = "사란"
+original = "「ぽよ～？\u3000むずかしくてよくわかんないよ～？」"
+translation = "「포요～? 어려워서 잘 모르겠어～?」"
+
+[[dialogue]]
+speaker_original = "リィベル"
+speaker_translation = "리벨"
+original = "「つまり、お菓子は贅沢品で、欲望の塊ということよ」"
+translation = "「요컨대 과자는 사치품이고, 욕망의 덩어리라는 뜻이야」"
+
+[[dialogue]]
+speaker_original = "サラン"
+speaker_translation = "사란"
+original = "「あは～♪\u3000お菓子は夢の結晶だからね～♪」"
+translation = "「아하～♪ 과자는 꿈의 결정이니까 말이지～♪」"
+
+[[dialogue]]
+speaker_original = "サラン"
+speaker_translation = "사란"
+original = "「ところで、リィベルちゃんはどんなお菓子が好き～？\u3000今度、作ってきてあげる～♪」"
+translation = "「그나저나, 리벨짱은 어떤 과자를 좋아해～? 다음에 만들어 올게～♪」"
+
+[[dialogue]]
+speaker_original = "リィベル"
+speaker_translation = "리벨"
+original = "「私は甘いものはあまり好きじゃな……いえ、私の好みなんてどうでもいいでしょ」"
+translation = "「나는 단것은 별로 안 좋아…… 아니, 내 취향 따위 아무래도 상관없잖아」"
+
+[[dialogue]]
+speaker_original = "サラン"
+speaker_translation = "사란"
+original = "「せっかくだからリィベルちゃんのこと知りたいな～♪」"
+translation = "「모처럼이니까 리벨짱에 대해 알고 싶은걸～♪」"
+
+[[dialogue]]
+speaker_original = "リィベル"
+speaker_translation = "리벨"
+original = "「ちょ、ちょっと、ひっつかないでっ」"
+translation = "「잠, 잠깐, 들러붙지 마」"
+
+[[dialogue]]
+speaker_original = "ウィステリア"
+speaker_translation = "위스테리아"
+original = "（サランさん、ちょっと様子がおかしくない？）"
+translation = "（사란 씨, 약간 상태가 이상하지 않아?）"
+
+[[dialogue]]
+speaker_original = "モネ"
+speaker_translation = "모네"
+original = "（噂に聞く美食酔いではないでしょうか？\u3000サランさんの体質の）"
+translation = "（소문으로 들은 미식 취기가 아닐까요? 사란 씨의 체질인）"
+
+[[dialogue]]
+speaker_original = "ウィステリア"
+speaker_translation = "위스테리아"
+original = "（ええと……本当に美味しいものを食べると、酔っぱらったみたいになるんだったっけ。でも今は何も食べてないわよ？）"
+translation = "（저기…… 정말 맛있는 걸 먹으면 취한 것처럼 된다고 했던가. 하지만 지금은 아무것도 안 먹었잖아?）"
+
+[[dialogue]]
+speaker_original = "モネ"
+speaker_translation = "모네"
+original = "（魔将になった影響かもしれません。何せ背負う大罪は『暴食』ですから）"
+translation = "（마장이 된 영향일지도 몰라요. 아무튼 짊어진 대죄는 『폭식』이니까요）"
+
+[[dialogue]]
+speaker_original = "カティア"
+speaker_translation = "카티아"
+original = "（サラン先輩、本当に魔将になっちゃった……。すごく強そう……遠くから見てるだけでも、なんかこう、力が伝わってくる……これが魔力なんだ）"
+translation = "（사란 선배, 정말로 마장이 되어 버렸어……. 엄청 강해 보여…… 멀리서 보고만 있어도, 왠지 이렇게, 힘이 전해져 와…… 이것이 마력이구나）"
+
+[[dialogue]]
+speaker_original = "カティア"
+speaker_translation = "카티아"
+original = "（ああ～～～～いいなぁ～～～～。私ももっともっと強くなりたいなぁ～～～～。うぅ～～）"
+translation = "（아아～～～～ 좋겠다～～～～. 나도 더욱더 강해지고 싶다～～～～. 우으～～）"
+
+[[dialogue]]
+speaker_original = "カティア"
+speaker_translation = "카티아"
+original = "（なになになに～～～～！？\u3000見付かっちゃった～～！？）"
+translation = "（뭐야 뭐야 뭐야～～～～!? 들켜 버렸어～～!?）"
+

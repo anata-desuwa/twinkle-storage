@@ -1,0 +1,327 @@
+[[dialogue]]
+speaker = "unk"
+original = "第４話,悪い子サラン,P"
+translation = "제4화, 나쁜 아이 사란"
+
+[[dialogue]]
+speaker = "unk"
+original = "星徒会室で書類を片付けていると、来客があった。高そうなスーツを着た壮年の紳士だ。"
+translation = "성태회실에서 서류를 정리하고 있자, 손님이 찾아왔다. 비싸 보이는 슈트를 입은 장년의 신사다."
+
+[[dialogue]]
+speaker_original = "スーツの男性"
+speaker_translation = "スーツの男性"
+original = "「こんにちは。突然、訪ねてしまって申し訳ない。君が星徒会長の緋宮クロト君だね？」"
+translation = "「안녕하세요. 갑자기 찾아와서 미안하네. 자네가 성태회장인 히노미야 쿠로토 군이지?」"
+
+[[dialogue]]
+speaker_original = "スーツの男性"
+speaker_translation = "スーツの男性"
+original = "「私は桜十路の……いや、迂遠な言い方はよそう。サランの父です。初めまして、緋宮君。会えて嬉しいよ」"
+translation = "「나는 사쿠라쥬지의…… 아니, 돌려 말하는 건 그만두지. 사란의 아버지라네. 처음 뵙겠네, 히노미야 군. 만나서 반가워」"
+
+[[dialogue]]
+speaker = "unk"
+original = "……初めまして！"
+translation = "……처음 뵙겠습니다!"
+
+[[dialogue]]
+speaker = "unk"
+original = "思わずがばっと頭を下げる。心の準備が全くできていない。"
+translation = "나도 모르게 획 고개를 숙인다. 마음의 준비가 전혀 되어 있지 않다."
+
+[[dialogue]]
+speaker_original = "サラン父"
+speaker_translation = "サラン父"
+original = "「ははっ、そう畏まらないで。まぁ、彼女の父親だとそうもいかないかな。私も経験があるから分かるよ」"
+translation = "「하하, 그렇게 굳지 말게. 뭐, 그녀의 아버지라면 어쩔 수 없으려나. 나도 경험이 있으니 이해하네」"
+
+[[dialogue]]
+speaker_original = "サラン父"
+speaker_translation = "サラン父"
+original = "「今日はカフェテリアの視察に来ていたんだ。ついでで申し訳ないけど、こっちにも寄らせてもらったよ」"
+translation = "「오늘은 카페테리아 시찰을 하러 왔었다네. 겸사겸사 미안하지만, 이쪽에도 들렀어」"
+
+[[dialogue]]
+speaker = "unk"
+original = "いつもお世話になってます。"
+translation = "항상 신세 지고 있습니다."
+
+[[dialogue]]
+speaker = "unk"
+original = "カフェテリアの食材はもちろん、学園で使う物資は桜十路家の流通ルートで賄われている。俺たちの学園生活はこの人たちに支えられているのだ。"
+translation = ""
+
+[[dialogue]]
+speaker_original = "サラン父"
+speaker_translation = "サラン父"
+original = "「ああ、ありがとう。学園もカフェテリアも、活気があって私も嬉しいよ。私たちの仕事は、いつも誰かのためにあるからね」"
+translation = "「아아, 고맙네. 학원도 카페테리아도 활기가 넘쳐서 나도 기쁘군. 우리들의 일은 항상 누군가를 위해 있는 것이니까」"
+
+[[dialogue]]
+speaker_original = "サラン父"
+speaker_translation = "サラン父"
+original = "「ところで最近、サランの様子が少しおかしいような気がして……何か知らないかね？」"
+translation = "「그런데 최근 사란의 상태가 조금 이상한 것 같은 느낌이 들어서…… 혹시 아는 게 있나?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "……いえ、分からないです。"
+translation = "……아뇨, 모르겠습니다."
+
+[[dialogue]]
+speaker = "unk"
+original = "心当たりがない。俺の前ではいつものサランだから。"
+translation = "짚이는 데가 없다. 내 앞에서는 평소의 사란이니까."
+
+[[dialogue]]
+speaker_original = "サラン父"
+speaker_translation = "サラン父"
+original = "「そうか、ありがとう。変な質問をしてすまないね。仕事の邪魔をしてもいけないから私は失礼するよ。気が向いたら、家にも遊びに来てね」"
+translation = "「그런가, 고맙네. 이상한 질문을 해서 미안하군. 일에 방해가 되면 안 되니 나는 이만 물러가지. 마음 내키면 집에도 놀러 오게나」"
+
+[[dialogue]]
+speaker = "unk"
+original = "そうにこやかに言って、紳士は去っていった。"
+translation = "그렇게 미소를 지으며 신사는 떠나갔다."
+
+[[dialogue]]
+speaker = "unk"
+original = "下校しながら、今日あったことをサランに伝える。"
+translation = "하교하면서 오늘 있었던 일을 사란에게 전달한다."
+
+[[dialogue]]
+speaker_original = "サラン"
+speaker_translation = "사란"
+original = "「お父様が会長ちゃんに～？\u3000なんかごめんね～」"
+translation = "「아버님이 회장짱한테~? 왠지 미안해~」"
+
+[[dialogue]]
+speaker = "unk"
+original = "お父さんとケンカしたとか？"
+translation = "아버지랑 싸우기라도 했어?"
+
+[[dialogue]]
+speaker_original = "サラン"
+speaker_translation = "사란"
+original = "「ううん、してないよ～。……してないんだけど、う～～ん……なんて言ったらいいかなぁ……」"
+translation = "「으응, 안 했어~. ……안 했는데, 으~~음…… 뭐라고 말해야 좋을까나……」"
+
+[[dialogue]]
+speaker_original = "サラン"
+speaker_translation = "사란"
+original = "「お父様に謝りたくて……サラン、悪い子になっちゃったから」"
+translation = "「아버님께 사과하고 싶어서…… 사란, 나쁜 아이가 되어버렸으니까」"
+
+[[dialogue]]
+speaker_original = "サラン"
+speaker_translation = "사란"
+original = "「桜十路のお仕事は、いつも誰かのためなの～。とても大きな力があるけど、自分のためだけに使っちゃいけないんだ～。昔からのお父様との約束なの～」"
+translation = "「사쿠라쥬지의 일은 항상 누군가를 위한 거야~. 엄청 큰 힘이 있지만, 자신만을 위해 쓰면 안 되는 거거든~. 옛날부터 아버님과의 약속이야~」"
+
+[[dialogue]]
+speaker_original = "サラン"
+speaker_translation = "사란"
+original = "「桜十路はすっごくお金持ちで、世界中に繋がりがあって……世界のどんなものでも、簡単に手に入れられて……貴重なものでも、その気になれば、ひとり占めできちゃう～」"
+translation = "「사쿠라쥬지는 엄청 부자고, 세계에 연결되어 있어서…… 세계의 어떤 것이든 쉽게 손에 넣을 수 있고…… 귀중한 것도 마음만 먹으면 혼자 독점할 수 있어~」"
+
+[[dialogue]]
+speaker_original = "サラン"
+speaker_translation = "사란"
+original = "「それはダメなの～。みんな不幸になっちゃうから～」"
+translation = "「그건 안 되는 거야~. 모두 불행해지니까~」"
+
+[[dialogue]]
+speaker = "unk"
+original = "大きな力を持つがゆえに自制が求められる──それは俺にもよく分かる。もし俺が魔王の力を我欲のために使えば、大きな混乱と破滅を招くだろう。"
+translation = "큰 힘을 가졌기에 자제가 요구된다── 그건 나도 잘 알고 있다. 만약 내가 마왕의 힘을 사욕을 위해 쓴다면, 큰 혼란과 파멸을 불러일으킬 것이다."
+
+[[dialogue]]
+speaker_original = "サラン"
+speaker_translation = "사란"
+original = "「サランもね、ずっとそうしてきたんだ～。お菓子もお料理も、誰かに喜んでもらうのが大好き～」"
+translation = "「사란도 말이야, 계속 그래왔어~. 과자도 요리도 누군가가 기뻐해 주는 게 정말 좋아~」"
+
+[[dialogue]]
+speaker_original = "サラン"
+speaker_translation = "사란"
+original = "「でも、魔将になったとき、誰の顔も浮かばなくて……サランが楽しくて、気持ちよくなるためだけに戦っちゃったんだ～」"
+translation = "「하지만 마장이 되었을 때, 누구의 얼굴도 떠오르지 않아서…… 사란이 즐겁고 기분 좋아지기 위해서만 싸워버렸어~」"
+
+[[dialogue]]
+speaker_original = "サラン"
+speaker_translation = "사란"
+original = "「あんまりよく覚えてないけど、それだけは覚えてるの～。強い力は、みんなのために使わなくちゃいけないのに……だからお父様に謝りたいんだけど、恥ずかしくって……」"
+translation = "「잘 기억나지 않지만, 그것만큼은 기억하고 있어~. 강한 힘은 모두를 위해 써야 하는데…… 그래서 아버님께 사과하고 싶지만, 부끄러워서……」"
+
+[[dialogue]]
+speaker_original = "サラン"
+speaker_translation = "사란"
+original = "「うまくお父様とお話できなくて、心配かけちゃった……。会長ちゃんにもうちのことで迷惑かけてごめんね～」"
+translation = "「아버님과 이야기를 잘 못해서 걱정시켜버렸어……. 회장짱한테도 우리 일로 불편을 줘서 미안해~」"
+
+[[dialogue]]
+speaker_original = "サラン"
+speaker_translation = "사란"
+original = "「じゃあ、今日はこれでバイバイ……」"
+translation = "「그럼 오늘은 이걸로 바이바이……」"
+
+[[dialogue]]
+speaker_original = "サラン"
+speaker_translation = "사란"
+original = "「──！\u3000モンスターだ～！\u3000行こう、会長ちゃん！」"
+translation = "「──! 몬스터다~! 가자, 회장짱!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "いつもはのんびりなサランも、モンスターには反応が早い。ともに駆け出す。"
+translation = "평소에는 느긋한 사란도 몬스터에게는 반응이 빠르다. 함께 달려 나간다."
+
+[[dialogue]]
+speaker_original = "モンスター"
+speaker_translation = "몬스터"
+original = "「ガァアアアアアッ！！」"
+translation = "「크아아아아아앗!!」"
+
+[[dialogue]]
+speaker_original = "サラン"
+speaker_translation = "사란"
+original = "「いた、おっきなモンスター！」"
+translation = "「있었다, 커다란 몬스터!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "リクリエの元凶であるＸＥＬＯＳを倒した後も、モンスターの出現は続いている。"
+translation = "리크리에의 원흉인 XELOS를 쓰러뜨린 후에도 몬스터의 출현은 계속되고 있다."
+
+[[dialogue]]
+speaker_original = "サラン"
+speaker_translation = "사란"
+original = "「強いモンスターだから、早く倒さなきゃ……」"
+translation = "「강한 몬스터니까 빨리 쓰러뜨려야……」"
+
+[[dialogue]]
+speaker_original = "サラン"
+speaker_translation = "사란"
+original = "「ふふふ～♪\u3000全力でいくよ～♪」"
+translation = "「후후후~♪ 전력으로 갈게~♪」"
+
+[[dialogue]]
+speaker_original = "サラン"
+speaker_translation = "사란"
+original = "「そ～れ、ホイッパースマッシュ～！」"
+translation = "「자~아, 휘퍼 스매시~!」"
+
+[[dialogue]]
+speaker_original = "モンスター"
+speaker_translation = "몬스터"
+original = "「ガッ！？」"
+translation = "「크악!?」"
+
+[[dialogue]]
+speaker_original = "サラン"
+speaker_translation = "사란"
+original = "「さらに～グラトニースイートディザスタ～♪\u3000キャンディの流星群だよ～♪」"
+translation = "「게다가~ 글러트니 스위트 디자스터~♪ 캔디 유성군이야~♪」"
+
+[[dialogue]]
+speaker_original = "モンスター"
+speaker_translation = "몬스터"
+original = "「ガァ……」"
+translation = "「크아……」"
+
+[[dialogue]]
+speaker_original = "サラン"
+speaker_translation = "사란"
+original = "「ふふ～♪\u3000楽しかった～♪\u3000でもまだまだ試したいお菓子たくさんあるんだ～」"
+translation = "「후후~♪ 즐거웠어~♪ 하지만 아직 해보고 싶은 과자가 엄청 많아~」"
+
+[[dialogue]]
+speaker = "unk"
+original = "圧倒的な力でモンスターを倒したサラン。そこには人々を守った安堵はなく、力に酔った笑みを浮かべていた。"
+translation = "압도적인 힘으로 몬스터를 쓰러뜨린 사란. 거기에는 사람들을 지켰다는 안도는 없고, 힘에 취한 미소를 띠고 있었다."
+
+[[dialogue]]
+speaker_original = "サラン"
+speaker_translation = "사란"
+original = "「ふふっ♪\u3000これが今のサランなの～♪\u3000悪い子でしょ～？」"
+translation = "「후후♪ 이것이 지금의 사란이야~♪ 나쁜 아이지~?」"
+
+[[dialogue]]
+speaker_original = "サラン"
+speaker_translation = "사란"
+original = "「どう、会長ちゃん……嫌いになっちゃった？」"
+translation = "「어때, 회장짱…… 싫어하게 됐어?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ううん。嫌いになんかならないよ"
+translation = "아니. 싫어하게 될 리 없잖아."
+
+[[dialogue]]
+speaker_original = "サラン"
+speaker_translation = "사란"
+original = "「ふふ～、よかった～♪\u3000会長ちゃんに嫌われちゃったら悲しいよ～」"
+translation = "「후후~, 다행이다~♪ 회장짱한테 싫어함당하면 슬퍼~」"
+
+[[dialogue]]
+speaker_original = "サラン"
+speaker_translation = "사란"
+original = "「でも、でもね……誰に嫌われても、ダメだって言われても……サランが楽しいのは本当なんだ～」"
+translation = "「하지만, 하지만 말이야…… 누구한테 싫어함당해도, 안 된다고 들어도…… 사란이 즐거운 건 사실이야~」"
+
+[[dialogue]]
+speaker_original = "サラン"
+speaker_translation = "사란"
+original = "「だから、今のサランのこと、好きじゃなくてもいいから覚えててね……？」"
+translation = "「그러니까 지금의 사란, 좋아하지 않아도 되니까 기억해줘……?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "うん。今の君も含めてサランだから"
+translation = "응. 지금의 너를 포함해서 사란이니까."
+
+[[dialogue]]
+speaker_original = "サラン"
+speaker_translation = "사란"
+original = "「ありがと～<emoji=heart04>\u3000やっぱり会長ちゃん大好き～<emoji=heart04>」"
+translation = "「고마워~<emoji=heart04> 역시 회장짱 너무 좋아~<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "unk"
+original = "サランはいつも誰かのために微笑んでいた。だけどその裏で眠っていた欲望が、魔将となったことで解き放たれたんだ。"
+translation = "사란은 항상 누군가를 위해 미소 짓고 있었다. 하지만 그 뒤에서 잠들어 있던 욕망이 마장이 됨으로써 해방된 것이다."
+
+[[dialogue]]
+speaker = "unk"
+original = "この姿も、きっと本当のサランだ。"
+translation = "이 모습도 분명 진짜 사란이다."
+
+[[dialogue]]
+speaker_original = "サラン"
+speaker_translation = "사란"
+original = "「ふわぁ～……ねむたくなっちゃった…………会長ちゃん、あとおねがいね～」"
+translation = "「후와아~…… 졸려져버렸어………… 회장짱, 뒤는 부탁해~」"
+
+[[dialogue]]
+speaker_original = "サラン"
+speaker_translation = "사란"
+original = "「すぅ……すぅ……」"
+translation = "「스윽…… 스윽……」"
+
+[[dialogue]]
+speaker = "unk"
+original = "立ったまま寝るサランを抱き留める。いつになく強い、甘い香りにちょっと驚く。"
+translation = "서서 자는 사란을 안아 받친다. 평소보다 강하고 달콤한 향기에 조금 놀란다."
+
+[[dialogue]]
+speaker_original = "サラン"
+speaker_translation = "사란"
+original = "「……えへへ～……おっきなケーキぃ……すぅ……」"
+translation = "「……에헤헤~…… 커다란 케이크…… 스윽……」"
+
+[[dialogue]]
+speaker = "unk"
+original = "俺のお姫様は、どんな夢を見ているのだろう。いい夢だといいなと思いながら、そっとその頭を撫でた。"
+translation = "내 공주님은 어떤 꿈을 보고 있는 것일까. 좋은 꿈이었으면 좋겠다고 생각하며 살며시 그 머리를 빗어주었다."
+

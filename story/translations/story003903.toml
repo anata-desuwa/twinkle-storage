@@ -1,7 +1,7 @@
 [[dialogue]]
 speaker = "unk"
 original = "時は、少しだけ遡り──"
-translation = "시간은, 아주 조금 거슬러 올라가──"
+translation = "시점은, 조금 전으로 거슬러 올라가──"
 
 [[dialogue]]
 speaker_original = "ヒマワリ"
@@ -13,7 +13,7 @@ translation = "「그나저나 쿠죠 가문에 잠입하게 될 줄이야~」"
 speaker_original = "ヒマワリ"
 speaker_translation = "히마와리"
 original = "「今までで１番難しいミッションかも？\u3000ミウ、何か気をつけた方がいいことってある？」"
-translation = "「지금까지 중 1번 어려운 미션일지도? 미우, 뭔가 조심해야 할 점이 있어?」"
+translation = "「지금까지 중 1위로 어려운 미션일지도? 미우, 뭔가 조심해야 할 점이라도 있어?」"
 
 [[dialogue]]
 speaker_original = "ミウ"
@@ -25,13 +25,13 @@ translation = "「정보가 적어서, 모르는 것투성이야. 오명가의 �
 speaker_original = "ミウ"
 speaker_translation = "미우"
 original = "「あとお抱えの九浄家メイド隊は強敵かつ曲者揃いだから、戦闘はできるだけ避けたいかな。もし見つかっちゃったら、逃げの一手だからね」"
-translation = "「그리고 전속 쿠죠가 메이드대는 강적이자 만만치 않은 녀석들이 모여 있으니까, 전투는 가능한 한 피하고 싶네. 만약 걸려 버린다면, 도망치는 수밖에 없어」"
+translation = "「그리고 직속 쿠죠가 메이드대는 강적이자 까다로운 녀석들뿐이니까, 전투는 가급적 피하고 싶네. 만약 걸려 버리면, 도망치는 게 상책이니까」"
 
 [[dialogue]]
 speaker_original = "ヒマワリ"
 speaker_translation = "히마와리"
 original = "「つまり、マッピングも罠探知もされてないお屋敷の中を、即死級つよつよボスに出会わないように探索するってこと？\u3000かなり無理ゲーっぽくなーい？」"
-translation = "「즉, 매핑도 함정 탐지도 안 된 저택 안을, 즉사급 개강한 보스를 만나지 않도록 탐색한다는 거지? 엄청 무리겜 같지 않아~?」"
+translation = "「즉, 매핑도 함정 탐지도 안 된 저택 안을, 즉사급 짱쎈 보스와 마주치지 않도록 탐색해야 한다는 소리? 그거 엄청 똥겜 같지 않아ー?」"
 
 [[dialogue]]
 speaker_original = "ミウ"
@@ -43,25 +43,25 @@ translation = "「그렇네, 보통 사람이라면. 하지만, 히마와리짱�
 speaker_original = "ヒマワリ"
 speaker_translation = "히마와리"
 original = "「へへっ、そうだねっ♪\u3000それにミウなら勝ち目のない勝負には挑まないだろうし、対応できないことはないって感じなんでしょ？」"
-translation = "「헤헤, 그렇지~♪ 게다가 미우라면 승산 없는 승부에는 도전하지 않을 거고, 대응할 수 없는 건 없다는 느낌이지?」"
+translation = "「헤헤, 그렇긴 하지♪ 게다가 미우라면 승산 없는 싸움에는 덤비지 않을 테고, 대응할 수 없는 일은 없다는 느낌이지?」"
 
 [[dialogue]]
 speaker_original = "ミウ"
 speaker_translation = "미우"
 original = "「そうだね。私たちなら大丈夫だって思ってるよ」"
-translation = "「그렇네. 우리라면 괜찮다고 생각해」"
+translation = "「응. 우리라면 괜찮을 거라고 생각해」"
 
 [[dialogue]]
 speaker_original = "ヒマワリ"
 speaker_translation = "히마와리"
 original = "「よーし、やっちゃうぞーっ！」"
-translation = ""
+translation = "「좋ー아, 해버리는 거야ー!」"
 
 [[dialogue]]
 speaker_original = "ヒマワリ"
 speaker_translation = "히마와리"
 original = "「九浄家の中庭に侵入成功」"
-translation = "「쿠죠 가문 안뜰에 침투 성공」"
+translation = "「쿠죠가 안뜰에 잠입 성공」"
 
 [[dialogue]]
 speaker_original = "ミウ"
@@ -73,31 +73,31 @@ translation = "「반경 20m 이내, 동체 반응 없음. 감시 카메라나 �
 speaker_original = "ヒマワリ"
 speaker_translation = "히마와리"
 original = "「順調、順調。このチーパオ、動きやすくていいねー。それにお揃いコーデだと、ザ・バディって感じでテンション上がる～♪」"
-translation = "「순조, 순조. 이 치파오, 움직이기 편해서 좋네ー. 게다가 시밀러 룩이라 더 바디라는 느낌으로 흥이 난다~♪」"
+translation = "「순조, 순조. 이 치파오, 움직이기 편해서 좋네ー. 거기다 시밀러 룩이라, 더 버디라는 느낌이라 기분 업된다~♪」"
 
 [[dialogue]]
 speaker_original = "ミウ"
 speaker_translation = "미우"
 original = "「身も心もギュッと引き締まる感じだよね──よし、この周辺の警備システムの無力化、成功したよ」"
-translation = "「몸도 마음도 팍 긴장되는 느낌이지── 좋아, 이 주변 경비 시스템의 무력화, 성공했어」"
+translation = "「몸도 마음도 꽉 조여지는 느낌이지──좋아, 이 주변 경비 시스템의 무력화, 성공했어」"
 
 [[dialogue]]
 speaker_original = "ヒマワリ"
 speaker_translation = "히마와리"
 original = "「もう！？\u3000すごいね、ミウ、また腕上げたんじゃないの！？」"
-translation = "「벌써!? 대단해, 미우, 실력 또 늘어난 거 아니야!?」"
+translation = "「벌써!? 대단해, 미우, 또 실력이 늘어난 거 아니야!?」"
 
 [[dialogue]]
 speaker_original = "ヒマワリ"
 speaker_translation = "히마와리"
 original = "「でも、随分と簡単に潜入出来ちゃったね～、てっきりゲキヤバなビーム撃ってきたり、もっと手強いと思ってたのに」"
-translation = "「하지만 제법 너무 쉽게 잠입해 버렸네~, 틀림없이 엄청 위험한 빔을 쏘아대거나 훨씬 까다로울 줄 알았는데」"
+translation = "「하지만, 제법 간단하게 잠입해 버렸네~, 틀림없이 진짜 위험한 빔을 쏘아대거나, 훨씬 더 까다로울 줄 알았는데」"
 
 [[dialogue]]
 speaker_original = "ヒマワリ"
 speaker_translation = "히마와리"
 original = "「もしかしてあたしたち、ゴールデングースに入っていろんな修羅場を乗り越えてるうちに、めっちゃ強くなっちゃったのかも？」"
-translation = "「혹시 우리들, 골든 구스에 들어와서 여러 사선을 넘나드는 사이에 엄청 강해져 버린 걸지도?」"
+translation = "「혹시 우리들, 골든 구스에 들어와서 여러 수라장을 헤쳐 나오는 동안, 엄청 강해져 버린 걸지도?」"
 
 [[dialogue]]
 speaker_original = "ミウ"
@@ -109,13 +109,13 @@ translation = "「그럴까…… 그럴지도?」"
 speaker_original = "ミウ"
 speaker_translation = "미우"
 original = "（でも、このセキュリティはいくらなんでも穴だらけすぎる……私たちじゃなくても、簡単に侵入できたんじゃないかな）"
-translation = "(하지만 이 보안은 아무리 그래도 허점투성이야…… 우리가 아니더라도 쉽게 침투할 수 있었던 거 아닐까)"
+translation = "(하지만, 이 보안은 아무리 그래도 구멍이 너무 많아…… 우리가 아니더라도, 쉽게 잠입할 수 있지 않았을까)"
 
 [[dialogue]]
 speaker_original = "ミウ"
 speaker_translation = "미우"
 original = "（お屋敷まで目と鼻の先……まるで侵入者に対して、お膳立てでもしてくれてるみたいに……でも、だとしたら、何のために……？）"
-translation = "(저택까지 눈앞인데…… 마치 침입자를 위해 판을 깔아두기라도 한 것처럼…… 하지만 그렇다면 무엇을 위해……?)"
+translation = "(저택까지 눈앞인데…… 마치 침입자를 위해, 멍석이라도 깔아주고 있는 것처럼…… 하지만, 그렇다면, 무엇을 위해……?)"
 
 [[dialogue]]
 speaker_original = "ヒマワリ"
@@ -127,7 +127,7 @@ translation = "「미우?」"
 speaker_original = "ミウ"
 speaker_translation = "미우"
 original = "「あ──ごめんね、ヒマワリちゃん。ちょっと考えごとしてた。もしかしたら油断させておいて、急に難易度を上げてくる仕掛けかも、って」"
-translation = "「아── 미안해, 히마와리짱. 잠시 딴생각을 했어. 어쩌면 방심하게 만들고서 갑자기 난이도를 올리는 트릭일지도 모른다고」"
+translation = "「아──미안해, 히마와리짱. 잠깐 생각 좀 하느라. 어쩌면 방심하게 만들고서, 갑자기 난이도를 올려오는 장치일지도 모른다고」"
 
 [[dialogue]]
 speaker_original = "ヒマワリ"
@@ -139,13 +139,13 @@ translation = "「아~, 흔히 있는 패턴이네」"
 speaker_original = "ミウ"
 speaker_translation = "미우"
 original = "「特に九浄家メイド隊は要注意人物だらけだから、警戒は怠らないようにね」"
-translation = "「특히 쿠죠 가문 메이드대는 요주의 인물들뿐이니까 경계를 게을리하지 마」"
+translation = "「특히 쿠죠가 메이드대는 주의 인물들뿐이니까, 경계를 게을리하지 않도록 해」"
 
 [[dialogue]]
 speaker_original = "ヒマワリ"
 speaker_translation = "히마와리"
 original = "「うん、気を付けるよ。一番おっかないのが、メイド長の蘭美さんだよね？」"
-translation = "「응, 조심할게. 제일 무서운 건 메이드장인 라미 씨지?」"
+translation = "「응, 조심할게. 제일 무서운 게, 메이드장인 라비 씨지?」"
 
 [[dialogue]]
 speaker_original = "ヒマワリ"
@@ -157,19 +157,19 @@ translation = "「그리고 센 씨에, 세츠나 씨, 미츠루 씨, 또 다른
 speaker_original = "ヨミ"
 speaker_translation = "요미"
 original = "「こやぁーん！？\u3000私にも荷が重いです！\u3000メイドのことならメイド長に聞くのが一番では──」"
-translation = "「앙~!? 저한테도 짐이 무겁습니다! 메이드에 관한 거라면 메이드장에게 물어보는 게 가장 좋을 터──」"
+translation = "「꺄아아앙!? 저에게도 벅찬 일입니다! 메이드에 관한 거라면 메이드장님께 물어보는 게 제일──」"
 
 [[dialogue]]
 speaker_original = "ヒマワリ"
 speaker_translation = "히마와리"
 original = "「あの人は、ヨミさんだよね」"
-translation = "「저 사람은 요미 씨지」"
+translation = "「저 사람은, 요미 씨지」"
 
 [[dialogue]]
 speaker_original = "ヨミ"
 speaker_translation = "요미"
 original = "「ん？\u3000そこの茂み、ちょっと動きませんでしたか？」"
-translation = "「응? 거기 수풀, 방금 움직이지 않았나요?」"
+translation = "「응? 거기 풀숲, 조금 움직이지 않았나요?」"
 
 [[dialogue]]
 speaker_original = "ヒマワリ"
@@ -181,7 +181,7 @@ translation = "「찔끔」"
 speaker_original = "エルデリーゼ"
 speaker_translation = "엘데리제"
 original = "「そこにいらっしゃるのは──どなたですのっ！？」"
-translation = ""
+translation = "「거기 계신 건──뉘신지요!?」"
 
 [[dialogue]]
 speaker_original = "ミウ"
@@ -199,13 +199,13 @@ translation = "「히얏!? 아, 위험했다아!」"
 speaker_original = "ミウ"
 speaker_translation = "미우"
 original = "「エルデリーゼ先輩……！？\u3000桜十路のお嬢様が、どうして九浄家に……！？」"
-translation = "「엘데리제 선배……!? 오쥬로의 영애가 어째서 쿠죠 가문에……!?」"
+translation = "「엘데리제 선배……!? 사쿠라쥬지의 아가씨가, 어째서 쿠죠가에……!?」"
 
 [[dialogue]]
 speaker_original = "美鶴"
 speaker_translation = "미츠루"
 original = "「お、キャワワな子２名発見～。でもお忍びでお客様が来るなんて言ってたっけ？」"
-translation = "「오, 귀염둥이 2명 발견~. 하지만 몰래 손님이 온다는 말은 했던가?」"
+translation = "「어, 귀여운 아이 2명 발견~. 하지만 암암리에 손님이 온다는 말 같은 건 했던가?」"
 
 [[dialogue]]
 speaker_original = "ヨミ"
@@ -217,7 +217,7 @@ translation = "「딱히 들은 바 없어요!」"
 speaker_original = "エルデリーゼ"
 speaker_translation = "엘데리제"
 original = "「ということはやはり曲者ですのね！\u3000私がひっ捕らえて差し上げますわ！」"
-translation = "「그렇다면 역시 수상한 자로군요! 제가 붙잡아 드리겠어요!」"
+translation = "「그렇다는 건 역시 수상한 자였군요! 제가 붙잡아 드리겠어요!」"
 
 [[dialogue]]
 speaker_original = "ヒマワリ"
@@ -229,23 +229,23 @@ translation = "「에엑!? 왜 엘제 선배가 여기에!? 게다가 메이드�
 speaker_original = "ミウ"
 speaker_translation = "미우"
 original = "「エルデリーゼ先輩は『流星学園附属校、最強の矛』って言われる槍の名手……下手するとメイド隊よりも危険かもだよ？」"
-translation = "「엘데리제 선배는 『류세이 학원 부속교, 최강의 창』이라고 불리는 창의 명수…… 잘못하면 메이드대보다 위험할지도 몰라」"
+translation = "「엘데리제 선배는 『유성학원 부속교, 최강의 창』이라고 불리는 창의 명수…… 잘못하면 메이드대보다 위험할지도 몰라?」"
 
 [[dialogue]]
 speaker_original = "ヒマワリ"
 speaker_translation = "히마와리"
 original = "「ここまでイージーモードだったけど、世の中そう上手くはいかないね……」"
-translation = "「지금까지 이지 모드였지만 세상일이 그렇게 만만하진 않네……」"
+translation = "「여기까지는 이지 모드였지만, 세상일 그렇게 잘 풀리지는 않네……」"
 
 [[dialogue]]
 speaker_original = "ヒマワリ"
 speaker_translation = "히마와리"
 original = "「ところでエルゼ先輩の着てるメイド服、あれってそういう事かな？」"
-translation = "「그나저나 엘제 선배가 입고 있는 메이드복, 그거 그런 거려나?」"
+translation = "「그나저나 엘제 선배가 입고 있는 메이드복, 저건 그런 뜻이려나?」"
 
 [[dialogue]]
 speaker_original = "ミウ"
 speaker_translation = "미우"
 original = "「そうだね。多分、あれが依頼人の言ってた新しく開発された人工戦闘服だと思う」"
-translation = "「그래. 아마 저게 의뢰인이 말했던 새로 개발된 인공 전투복이라고 생각해」"
+translation = "「응. 아마, 저게 의뢰인이 말했던 새로 개발된 인공 전투복이라고 생각해」"
 

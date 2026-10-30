@@ -1,0 +1,361 @@
+[[dialogue]]
+speaker_original = "モネ"
+speaker_translation = "모네"
+original = "「いったい何事ですか……！？」"
+translation = "「대체 무슨 일인가요……!?」"
+
+[[dialogue]]
+speaker_original = "リィベル"
+speaker_translation = "리벨"
+original = "「深淵書庫は、魔界と流星市国内ならモンスターの出現を感知できるわ。リクリエは仇敵だもの」"
+translation = "「심연서고는 마계와 유성시국 내라면 몬스터의 출현을 감지할 수 있어. 리크리에이는 원수니까」"
+
+[[dialogue]]
+speaker_original = "リィベル"
+speaker_translation = "리벨"
+original = "「映像、出すわ」"
+translation = "「영상, 띄울게」"
+
+[[dialogue]]
+speaker_original = "モンスター"
+speaker_translation = "몬스터"
+original = "「コォォオッ！」"
+translation = "「크으으으읏!」"
+
+[[dialogue]]
+speaker_original = "リィベル"
+speaker_translation = "리벨"
+original = "「幸い、すぐに居住地には到達しそうにないわね。でも見過ごすわけにはいかないわ」"
+translation = "「다행히 당장 거주지까지 도달할 것 같진 않네. 하지만 간과할 수는 없어」"
+
+[[dialogue]]
+speaker_original = "ウィステリア"
+speaker_translation = "위스테리아"
+original = "「こんな機能があったとは知らなかったわ。映像まであるなんて……正確には遠見の魔法なんでしょうけど」"
+translation = "「이런 기능이 있었을 줄은 몰랐네. 영상까지 있다니…… 정확히는 천리안 마법이겠지만」"
+
+[[dialogue]]
+speaker_original = "リィベル"
+speaker_translation = "리벨"
+original = "「今までは感知しても手出しできなかっただけよ。あと、アラームと映像はアニメで見ていいなと思って……こほん、実用性を考慮して実装したわ」"
+translation = "「지금까지는 감지해도 손을 쓸 수 없었을 뿐이야. 그리고 알람이랑 영상은 애니메이션에서 보고 괜찮다 싶어서…… 큼, 실용성을 고려해서 구현했어」"
+
+[[dialogue]]
+speaker_original = "イクシリオン"
+speaker_translation = "익실리온"
+original = "（リィベルさん、もしや深夜アニメなど嗜んでいたり……特に肌色の多いムフフなものとか……）"
+translation = "（리벨 씨, 혹시 심야 애니메이션 같은 걸 즐기신다거나…… 특히 살색이 많은 흐뭇한 거라든가……）"
+
+[[dialogue]]
+speaker_original = "リィベル"
+speaker_translation = "리벨"
+original = "「特に騒いでいるのは……書架１７１８番、来なさい」"
+translation = "「특히 소란스러운 건…… 서가 1718번, 오렴」"
+
+[[dialogue]]
+speaker = "unk"
+original = "リィベルが命令すると、目の前に本棚がせり出した。その中の一冊を手に取る。"
+translation = "리벨이 명령하자, 눈앞에 책장이 솟아올랐다. 그중 한 권을 손에 든다."
+
+[[dialogue]]
+speaker_original = "リィベル"
+speaker_translation = "리벨"
+original = "「モネ。あなたなら、この魔本の声が聞こえるでしょう」"
+translation = "「모네. 너라면 이 마도서의 소리가 들리겠지」"
+
+[[dialogue]]
+speaker_original = "モネ"
+speaker_translation = "모네"
+original = "「……はい。地獄の炎のような怒りと憎しみを感じます。厄災の化身を滅ぼしたいと、そう叫んでいます」"
+translation = "「……네. 지옥의 불꽃 같은 분노와 증오가 느껴져요. 재앙의 화신을 멸하고 싶다고, 그렇게 부르짖고 있어요」"
+
+[[dialogue]]
+speaker_original = "イクシリオン"
+speaker_translation = "익실리온"
+original = "「でもどうやって魔界まで行けばいいんでしょう？」"
+translation = "「하지만 어떻게 마계까지 가야 하나요?」"
+
+[[dialogue]]
+speaker_original = "イクシリオン"
+speaker_translation = "익실리온"
+original = "「大交流はまだ先ですし、ネビュラの世界樹を借りるにしても、都合よくモンスターのところまで行けるでしょうか？」"
+translation = "「대교류는 아직 멀었고, 네뷸라의 세계수를 빌린다고 해도 타이밍 좋게 몬스터가 있는 곳까지 갈 수 있을까요?」"
+
+[[dialogue]]
+speaker_original = "リィベル"
+speaker_translation = "리벨"
+original = "「問題ないわ。その魔本があれば、魔界なら距離を無視して転送できるから。ウィステリアをフィーニスの塔に送り込んだのに比べれば簡単よ」"
+translation = "「문제없어. 그 마도서만 있다면 마계라면 거리를 무시하고 전송할 수 있으니까. 위스테리아를 피니스 탑으로 보냈던 것에 비하면 간단해」"
+
+[[dialogue]]
+speaker_original = "サラン"
+speaker_translation = "사란"
+original = "「すご～い、ウィステリアさん、フィーニスの塔に入ったことあるんだ～♪」"
+translation = "「대단해～, 위스테리아 씨, 피니스 탑에 들어간 적 있구나～♪」"
+
+[[dialogue]]
+speaker_original = "ウィステリア"
+speaker_translation = "위스테리아"
+original = "「ま、まぁね。入りたくて入ったわけじゃないけど……」"
+translation = "「뭐, 뭐 그렇지. 들어가고 싶어서 들어간 건 아니지만……」"
+
+[[dialogue]]
+speaker_original = "リィベル"
+speaker_translation = "리벨"
+original = "「モネ。行ってくれるかしら？」"
+translation = "「모네. 가 주겠어?」"
+
+[[dialogue]]
+speaker_original = "モネ"
+speaker_translation = "모네"
+original = "「もちろんです。任せてください」"
+translation = "「물론이에요. 맡겨 주세요」"
+
+[[dialogue]]
+speaker_original = "ウィステリア"
+speaker_translation = "위스테리아"
+original = "「待って、私も行くわ。紙屋敷さんだけ危ない目に遭わせるわけにはいかないもの」"
+translation = "「잠깐, 나도 가겠어. 카미야시키 양만 위험한 꼴을 당하게 둘 수는 없는걸」"
+
+[[dialogue]]
+speaker_original = "リィベル"
+speaker_translation = "리벨"
+original = "「ウィステリアは強制的に送るから聞かなかっただけよ。当然、行ってもらうわ」"
+translation = "「위스테리아는 강제로 보낼 거라 물어보지 않았을 뿐이야. 당연히 가 줘야지」"
+
+[[dialogue]]
+speaker_original = "ウィステリア"
+speaker_translation = "위스테리아"
+original = "「あなた本当に私のこと嫌いよね！？」"
+translation = "「너 정말 나 싫어하지!?」"
+
+[[dialogue]]
+speaker_original = "リィベル"
+speaker_translation = "리벨"
+original = "「じゃあ転送するわ。回収には時間がかかるから、モンスターを倒したら魔本を読んで時間をつぶしておいて」"
+translation = "「그럼 전송할게. 회수하는 데는 시간이 걸리니까, 몬스터를 처치하면 마도서를 읽으면서 시간을 때우고 있어」"
+
+[[dialogue]]
+speaker_original = "モネ"
+speaker_translation = "모네"
+original = "「はい、分かりました。では行ってきます！」"
+translation = "「네, 알겠습니다. 그럼 다녀올게요!」"
+
+[[dialogue]]
+speaker_original = "ウィステリア"
+speaker_translation = "위스테리아"
+original = "「ちょっ、私の話を聞きな──」"
+translation = "「잠까, 내 말 좀 들어──」"
+
+[[dialogue]]
+speaker_original = "モネ（覚醒）"
+speaker_translation = "모네(각성)"
+original = "「魔本よ、汝の仇敵のもとへ我らを導きたまえ！」"
+translation = "「마도서여, 그대의 원수가 있는 곳으로 우리를 인도하라!」"
+
+[[dialogue]]
+speaker_original = "イクシリオン"
+speaker_translation = "익실리온"
+original = "（一瞬だけでしたが、モネさんの魔将のお姿も……大変えっっっで素敵でした……）"
+translation = "（찰나였습니다만, 모네 씨의 마장 모습도…… 엄청 야해서 멋졌습니다……）"
+
+[[dialogue]]
+speaker_original = "サラン"
+speaker_translation = "사란"
+original = "「ぽよ～？\u3000サランは行かなくてもよかったの～？」"
+translation = "「포요～? 사란은 안 가도 됐던 거야～?」"
+
+[[dialogue]]
+speaker_original = "リィベル"
+speaker_translation = "리벨"
+original = "「あなたは魔将の力に目覚めたばかりでしょう。まだ実戦は早いわ」"
+translation = "「당신은 마장의 힘에 막 눈을 뜬 참이잖아. 아직 실전은 일러」"
+
+[[dialogue]]
+speaker_original = "リィベル"
+speaker_translation = "리벨"
+original = "「それにあの２人なら十分よ。それは私が保証するわ」"
+translation = "「게다가 그 두 사람이라면 충분해. 그건 내가 보증할게」"
+
+[[dialogue]]
+speaker_original = "リィベル"
+speaker_translation = "리벨"
+original = "「……っ！」"
+translation = "「……읏!」"
+
+[[dialogue]]
+speaker_original = "イクシリオン"
+speaker_translation = "익실리온"
+original = "「またモンスターですか！？」"
+translation = "「또 몬스터인가요!?」"
+
+[[dialogue]]
+speaker_original = "リィベル"
+speaker_translation = "리벨"
+original = "「そのようね。──書架３１７番、起動。反応しているのはこの魔本よ」"
+translation = "「그런 것 같네. ──서가 317번, 기동. 반응하고 있는 건 이 마도서야」"
+
+[[dialogue]]
+speaker = "unk"
+original = "本棚から抜き出した一冊が、鼓動するかのように光を放っている。暖かな光ではない。禍々しい、憎悪の火だ。"
+translation = "서가에서 빼낸 한 권이, 고동치는 것처럼 빛을 발하고 있다. 따뜻한 빛이 아니다. 불길하고, 증오에 찬 불꽃이다."
+
+[[dialogue]]
+speaker_original = "リィベル"
+speaker_translation = "리벨"
+original = "「現地の様子を見てみましょう」"
+translation = "「현장의 모습을 보기로 하죠」"
+
+[[dialogue]]
+speaker_original = "モンスター"
+speaker_translation = "몬스터"
+original = "「グガァアアアッ！」"
+translation = "「크가아아아앗!」"
+
+[[dialogue]]
+speaker_original = "モンスター"
+speaker_translation = "몬스터"
+original = "「ガルルルッ！！」"
+translation = "「크르르르읏!!」"
+
+[[dialogue]]
+speaker_original = "シャルレーヌ"
+speaker_translation = "샤를렌"
+original = "「もしかしてここ、シャリオン……！？\u3000しかもディアーブル領じゃないですか！？\u3000見覚えがあります！」"
+translation = "「혹시 여기, 샤리온……!? 게다가 디아블 영지잖아요!? 본 적이 있어요!」"
+
+[[dialogue]]
+speaker_original = "シャルレーヌ"
+speaker_translation = "샤를렌"
+original = "「強力なモンスターがあんなにっ……！\u3000くっ……このままじゃ、<ruby>ディアーブル領<rt>うち</rt></ruby>が……」"
+translation = "「강력한 몬스터가 저렇게나……! 윽…… 이대로라면, <ruby>디아블 영지<rt>우리 집</rt></ruby>가……」"
+
+[[dialogue]]
+speaker_original = "リィベル"
+speaker_translation = "리벨"
+original = "「私が行こうにも、私が出撃したらモネたちを回収できなくなる……それ以前に、私じゃ戦力としても足りない……」"
+translation = "「내가 가려고 해도, 내가 출격하면 모네 일행을 회수할 수 없게 돼…… 그전에, 나로는 전력으로도 부족하고……」"
+
+[[dialogue]]
+speaker = "unk"
+original = "書庫の中ではヴィライアの力を行使できるリィベルだが、外では星騎士１人分の戦力でしかない。外からでは書庫の魔力を十全に使えないからだ。"
+translation = "서고 안에서는 빌라이아의 힘을 행사할 수 있는 리벨이지만, 바깥에서는 성기사 1인분의 전력에 불과하다. 바깥에서는 서고의 마력을 완전하게 쓸 수 없기 때문이다."
+
+[[dialogue]]
+speaker_original = "サラン"
+speaker_translation = "사란"
+original = "「じゃあサランが行く～」"
+translation = "「그럼 사란이 갈게~」"
+
+[[dialogue]]
+speaker_original = "リィベル"
+speaker_translation = "리벨"
+original = "「魔将としては、これが初陣になるのよ。暴走の可能性だってある。その危険性が分かっているのかしら？」"
+translation = "「마장으로서는, 이것이 첫 출전이 되는 거야. 폭주의 가능성도 있어. 그 위험성을 알고 있는 걸까?」"
+
+[[dialogue]]
+speaker_original = "サラン"
+speaker_translation = "사란"
+original = "「それは分かんないけど～……でもサランは美味しいものと、美味しいものを食べる人たちが大好きなの～」"
+translation = "「그건 잘 모르겠지만~…… 하지만 사란은 맛있는 거랑, 맛있는 걸 먹는 사람들을 정말 좋아하거든~」"
+
+[[dialogue]]
+speaker_original = "サラン"
+speaker_translation = "사란"
+original = "「だから、大好きを守るためならなんでもするよ～」"
+translation = "「그러니까, 좋아하는 걸 지키기 위해서라면 뭐든지 할 거야~」"
+
+[[dialogue]]
+speaker_original = "イクシリオン"
+speaker_translation = "익실리온"
+original = "「私もです。生きとし生けるものを守ることこそ、星騎士の使命。お供いたします！」"
+translation = "「저도입니다. 살아있는 모든 것을 지키는 것이야말로, 성기사의 사명. 동행하겠습니다!」"
+
+[[dialogue]]
+speaker_original = "シャルレーヌ"
+speaker_translation = "샤를렌"
+original = "「サラン先輩、イクシリオン先輩、ありがとうございます……！\u3000私も参ります。ディアーブルの名に懸けて！」"
+translation = "「사란 선배, 익실리온 선배, 감사드립니다……! 저도 가겠어요. 디아블의 이름을 걸고!」"
+
+[[dialogue]]
+speaker_original = "リィベル"
+speaker_translation = "리벨"
+original = "「……止めても無駄なようね。あなたたち星騎士は、みんな無茶が好きみたい」"
+translation = "「……말려도 소용없는 모양이네. 너희 성기사들은, 전부 무모한 짓을 좋아하는 것 같아」"
+
+[[dialogue]]
+speaker_original = "リィベル"
+speaker_translation = "리벨"
+original = "「イクシリオン。シャルレーヌ。この本を預けるわ」"
+translation = "「익실리온. 샬레느. 이 책을 맡길게」"
+
+[[dialogue]]
+speaker_original = "イクシリオン"
+speaker_translation = "익실리온"
+original = "「これは……『色欲』の魔本？」"
+translation = "「이건…… 『색욕』의 마도서?」"
+
+[[dialogue]]
+speaker_original = "シャルレーヌ"
+speaker_translation = "샤를렌"
+original = "「こちらは『強欲』の魔本……私たちは魔将に適合しなかったんじゃないですか？」"
+translation = "「이쪽은 『강욕』의 마도서…… 저희는 마장에 적합하지 않았던 게 아닌가요?」"
+
+[[dialogue]]
+speaker_original = "リィベル"
+speaker_translation = "리벨"
+original = "「素質はあるようだから、覚醒する可能性はゼロではないわ。もしもの時は役に立つかもしれないから持っておきなさい」"
+translation = "「소질은 있는 것 같으니, 적합할 가능성이 제로는 아니야. 만약의 경우에는 도움이 될지도 모르니 가지고 있으렴」"
+
+[[dialogue]]
+speaker_original = "リィベル"
+speaker_translation = "리벨"
+original = "「サランはこの本を使いなさい。念じればモンスターのところまで連れて行ってくれるわ」"
+translation = "「사란은 이 책을 쓰도록 해. 염원하면 몬스터가 있는 곳까지 데려다줄 거야」"
+
+[[dialogue]]
+speaker_original = "サラン"
+speaker_translation = "사란"
+original = "「わかった～。魔本さん、よろしくお願いしま～すっ」"
+translation = "「알겠어~. 마도서님, 잘 부탁해~요」"
+
+[[dialogue]]
+speaker = "unk"
+original = "サランが魔本を掲げると、ページが風もないのにめくれ、黒く波打つ魔力を撒き散らす。"
+translation = "사란이 마도서를 들어 올리자, 바람도 없는데 페이지가 넘어가며, 검게 넘실거리는 마력을 뿌린다."
+
+[[dialogue]]
+speaker_original = "サラン"
+speaker_translation = "사란"
+original = "「それじゃあ、行ってきま～す♪」"
+translation = "「그럼, 다녀올게~요♪」"
+
+[[dialogue]]
+speaker_original = "カティア"
+speaker_translation = "카티아"
+original = "（モネ先輩とウィステリアさんが出撃したと思ったら、今度はサラン先輩たちも行くんだ……）"
+translation = "（모네 선배랑 위스테리아 씨가 출격했다고 생각했는데, 이번엔 사란 선배 일행도 가는구나……）"
+
+[[dialogue]]
+speaker_original = "カティア"
+speaker_translation = "카티아"
+original = "（会話まで聞こえなかったけど、さっき見えたの、シャリオンの山だよね？\u3000強そうなモンスターがあんなに……どうしよう、私なんかじゃ役に立たないし……）"
+translation = "（대화까지는 들리지 않았지만, 아까 보인 거, 샤리온의 산 맞지? 강해 보이는 몬스터가 저렇게나…… 어쩌지, 나 같은 건 도움이 안 되고……）"
+
+[[dialogue]]
+speaker_original = "カティア"
+speaker_translation = "카티아"
+original = "（ううぅ～～～～っ、やっぱり行かなくちゃ！\u3000私だって星騎士なんだ！）"
+translation = "（으으으~~~~읏, 역시 가야 해! 나도 성기사니까!）"
+
+[[dialogue]]
+speaker_original = "カティア"
+speaker_translation = "카티아"
+original = "「うおおぉぉーーっ！\u3000待ってください、私も行きます！」"
+translation = "「우오오오ーー읏! 기다려 주세요, 저도 갈게요!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "魔界行きの光に飛び込むカティア。次の瞬間には星騎士たちの姿はかき消えていた。"
+translation = "마계로 향하는 빛 속으로 뛰어드는 카티아. 다음 순간에는 성기사들의 모습이 감쪽같이 사라져 있었다."
+

@@ -272,12 +272,12 @@ translation = "「응, 고마워ー<emoji=heart04>」"
 speaker_original = "オオヒメ"
 speaker_translation = "오오히메"
 original = "「また始まった……」"
-translation = "「또 시작이군……」"
+translation = "「또 시작됐다……」"
 
 [[dialogue]]
 speaker = "unk"
 original = "俺たちの様子を見て、ヒメがげんなりした顔になっていた。"
-translation = "우리들의 모습을 보고, 히메가 질렸다는 표정을 지었다."
+translation = "우리들의 모습을 보고, 히메가 어이없다는 표정을 지었다."
 
 [[dialogue]]
 speaker = "unk"
@@ -293,13 +293,13 @@ translation = "아, 맞다……"
 speaker_original = "ラクシャ"
 speaker_translation = "락샤"
 original = "「あっ、そうだね！\u3000だったら会長にも見てもらえる！」"
-translation = "「앗, 그렇네! 그러면 회장도 볼 수 있어!」"
+translation = "「앗, 그렇네! 그러면 회장님도 볼 수 있어!」"
 
 [[dialogue]]
 speaker_original = "ラクシャ"
 speaker_translation = "락샤"
 original = "「任せといて！\u3000会長が惚れ直しちゃうようなカッコいい雄姿を見せてあげるから、楽しみにしててよ♪」"
-translation = ""
+translation = "「맡겨 둬! 회장님이 다시 반해 버릴 정도로 멋진 용맹한 모습을 보여 줄 테니까, 기대하고 있어♪」"
 
 [[dialogue]]
 speaker = "unk"
@@ -309,5 +309,5 @@ translation = "자신만만하게 엄지를 세워 보이는 타마키."
 [[dialogue]]
 speaker = "unk"
 original = "ライブで声援を送れないのは残念だけど、これでハロウィンの楽しみが１つ増えたのだった。"
-translation = "라이브에서 응원을 보낼 수 없는 건 아쉽지만, 이걸로 할로윈의 즐거움이 하나 늘어난 것이었다."
+translation = "라이브에서 성원을 보내지 못하는 건 아쉽지만, 이것으로 할로윈의 즐거움이 하나 늘어난 것이었다."
 

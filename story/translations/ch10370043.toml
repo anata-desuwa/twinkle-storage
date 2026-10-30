@@ -1,0 +1,389 @@
+[[dialogue]]
+speaker = "unk"
+original = "第３話,新メニュー試食会,P"
+translation = "제3화, 신메뉴 시식회"
+
+[[dialogue]]
+speaker = "unk"
+original = "カフェテリアには、錚々たる顔ぶれが揃っていた。"
+translation = "카페테리아에는 쟁쟁한 멤버들이 모여 있었다."
+
+[[dialogue]]
+speaker_original = "レイラ"
+speaker_translation = "레이라"
+original = "「ドーモ、百目騎レイラです」"
+translation = "「도모, 도우메키 레이라입니다」"
+
+[[dialogue]]
+speaker = "unk"
+original = "片やブラックホールの胃袋を持つコラプサーの首領、百目騎レイラ。"
+translation = "한쪽은 블랙홀 같은 위장을 가진 콜랩서의 수장, 도우메키 레이라."
+
+[[dialogue]]
+speaker_original = "エルデリーゼ"
+speaker_translation = "엘데리제"
+original = "「お招きありがとうございます、サランお姉さま、蛍火様」"
+translation = "「초대해 주셔서 감사합니다, 사란 언니, 호타루비 님」"
+
+[[dialogue]]
+speaker = "unk"
+original = "片や流星学園附属の大食姫、桜十路エルデリーゼ。"
+translation = "다른 한쪽은 유성학원 부속의 대식 공주, 사쿠라쥬지 엘데리제."
+
+[[dialogue]]
+speaker = "unk"
+original = "星騎士界の大食い２大巨頭が揃い踏みである。"
+translation = "성기사계의 대식가 2대 거두가 한자리에 모인 것이다."
+
+[[dialogue]]
+speaker_original = "蛍火"
+speaker_translation = "호타루비"
+original = "「師匠、ご足労いただきありがとうございます」"
+translation = "「스승님, 수고스러움을 무릅쓰고 와주셔서 감사합니다」"
+
+[[dialogue]]
+speaker = "unk"
+original = "今日は何の集まり？"
+translation = "오늘은 무슨 모임이야?"
+
+[[dialogue]]
+speaker_original = "サラン"
+speaker_translation = "사란"
+original = "「カフェテリアの新メニュー試食会だよ～」"
+translation = "「카페테리아의 신메뉴 시식회야～」"
+
+[[dialogue]]
+speaker = "unk"
+original = "サランや蛍火の所属する給食委員会はカフェテリアの運営を担っている。新メニューの開発は委員会の主な仕事だ。"
+translation = "사란이나 호타루비가 속한 급식위원회는 카페테리아의 운영을 맡고 있다. 신메뉴 개발은 위원회의 주요 업무다."
+
+[[dialogue]]
+speaker_original = "サラン"
+speaker_translation = "사란"
+original = "「いつもおんなじメニューじゃ飽きちゃうでしょ～？\u3000だから、定期的に新しいメニューを追加するの～」"
+translation = "「항상 똑같은 메뉴면 질려버리잖아～? 그러니까, 주기적으로 새로운 메뉴를 추가하는 거야～」"
+
+[[dialogue]]
+speaker_original = "蛍火"
+speaker_translation = "호타루비"
+original = "「今のメニューも歴代の給食委員会によって作られたもの。こうした積み重ねが私たちの学園を作っているのです」"
+translation = "「지금의 메뉴도 역대 급식위원회에 의해 만들어진 것. 이러한 쌓아 올림이 우리들의 학원을 만들고 있는 것입니다」"
+
+[[dialogue]]
+speaker_original = "レイラ"
+speaker_translation = "레이라"
+original = "「ふふっ、素敵ですね。……ひゅごっ」"
+translation = "「후후, 멋지네요. ……휘곡」"
+
+[[dialogue]]
+speaker_original = "エルデリーゼ"
+speaker_translation = "엘데리제"
+original = "「あの、そちらは……？\u3000試食会前になぜおにぎりを食べているんですの？」"
+translation = "「저기, 그쪽은……? 시식회 전에 어째서 주먹밥을 드시고 계신 건가요?」"
+
+[[dialogue]]
+speaker_original = "レイラ"
+speaker_translation = "레이라"
+original = "「万全に試食会に臨むため、胃袋を温めています。……ひゅごっ」"
+translation = "「만전의 상태로 시식회에 임하기 위해, 위장을 워밍업하고 있습니다. ……휘곡」"
+
+[[dialogue]]
+speaker_original = "エルデリーゼ"
+speaker_translation = "엘데리제"
+original = "「なるほど……空腹が長いと胃が収縮すると聞きますしね」"
+translation = "「그렇군요…… 공복이 길어지면 위가 수축한다고 들었으니까요」"
+
+[[dialogue]]
+speaker = "unk"
+original = "空気を吸う音がすると同時に、拳大のおにぎりが一瞬で消え去る。コラプサーと秋葉原で戦った時はレイラがこんな人だとは思わなかった。"
+translation = "공기를 들이마시는 소리가 남과 동시에, 주먹만 한 주먹밥이 순식간에 사라진다. 콜랩서와 아키하바라에서 싸웠을 때는 레이라가 이런 사람일 줄은 몰랐다."
+
+[[dialogue]]
+speaker_original = "サラン"
+speaker_translation = "사란"
+original = "「ふふ～。レイラちゃん、相変わらずだね～。子どもの頃から変わらないな～」"
+translation = "「후후～. 레이라짱, 여전하네～. 어릴 때부터 변하지 않는구나～」"
+
+[[dialogue]]
+speaker_original = "レイラ"
+speaker_translation = "레이라"
+original = "「子どもの頃ですか？\u3000失礼ですが、どなたかとお間違えでは……？\u3000そんなに昔にサランさんと会ったことありましたっけ？」"
+translation = "「어릴 때 말인가요? 실례지만, 누군가와 착각하신 게……? 그렇게 옛날에 사란 씨와 만난 적이 있었던가요?」"
+
+[[dialogue]]
+speaker_original = "サラン"
+speaker_translation = "사란"
+original = "「うん。サランが小さいころ、五名門のパーティーがあって～」"
+translation = "「응. 사란이 어릴 때, 오명문의 파티가 있어서～」"
+
+[[dialogue]]
+speaker_original = "蛍火"
+speaker_translation = "호타루비"
+original = "「小さいサランさん、きっとすっごく可愛かったでしょうねぇ～<emoji=heart04>」"
+translation = "「어릴 적 사란 씨, 분명 엄청나게 귀여우셨겠네요～<emoji=heart04>」"
+
+[[dialogue]]
+speaker_original = "エルデリーゼ"
+speaker_translation = "엘데리제"
+original = "（蛍火様ってこんなお方だったのですね……）"
+translation = "(호타루비 님은 이런 분이셨군요……)"
+
+[[dialogue]]
+speaker = "unk"
+original = "緊張しいの蛍火だが、サランにだけはこんな感じだ。知らない人から見たらもはや別人である。"
+translation = "낯을 가리는 호타루비지만, 사란에게만큼은 이런 느낌이다. 모르는 사람이 보면 그야말로 딴사람이다."
+
+[[dialogue]]
+speaker_original = "サラン"
+speaker_translation = "사란"
+original = "「でね～、パーティーだから、いろんなご馳走があったんだけど～、サラン、人見知りで緊張しちゃって、ごはんがのどを通らなかったの～」"
+translation = "「그래서 말이지～, 파티니까 여러 가지 진수성찬이 있었는데～, 사란, 낯가림을 해서 긴장하는 바람에, 밥이 목으로 넘어가지 않았어～」"
+
+[[dialogue]]
+speaker_original = "エルデリーゼ"
+speaker_translation = "엘데리제"
+original = "「サランお姉さまがですか！？\u3000サランお姉さまにもそんな頃があったのですね……」"
+translation = "「사란 언니가 말인가요!? 사란 언니에게도 그런 시절이 있었군요……」"
+
+[[dialogue]]
+speaker_original = "蛍火"
+speaker_translation = "호타루비"
+original = "「その頃の写真とか残ってませんか！？」"
+translation = "「그 시절의 사진 같은 건 남아있지 않나요!?」"
+
+[[dialogue]]
+speaker_original = "エルデリーゼ"
+speaker_translation = "엘데리제"
+original = "「蛍火様、やっぱり様子がおかしいですわ！？」"
+translation = "「호타루비 님, 역시 상태가 이상하십니다만!?」"
+
+[[dialogue]]
+speaker_original = "サラン"
+speaker_translation = "사란"
+original = "「でも～、サランと同じぐらいで、たくさんご飯食べてる子がいて、すごいな～って思ったんだ～。きれいな銀髪の女の子だったから、レイラちゃんかな～って」"
+translation = "「하지만～, 사란이랑 비슷하면서도, 많이 밥을 먹고 있는 아이가 있어서, 대단하네～ 하고 생각했어～. 예쁜 은발의 여자아이였으니까, 레이라짱이 아닐까 해서～」"
+
+[[dialogue]]
+speaker_original = "サラン"
+speaker_translation = "사란"
+original = "「堂々と美味しそうにごはん食べてて、かっこよかったな～」"
+translation = "「당당하고 맛있게 밥을 먹어서, 멋졌어～」"
+
+[[dialogue]]
+speaker_original = "レイラ"
+speaker_translation = "레이라"
+original = "「あー、それは確かに私ですね。そんなところですれ違っていたとは……覚えていなくてすみません」"
+translation = "「아-, 그건 확실히 저네요. 그런 곳에서 스쳐 지나갔었다니…… 기억하지 못해서 죄송합니다」"
+
+[[dialogue]]
+speaker_original = "サラン"
+speaker_translation = "사란"
+original = "「ううん、気にしないで～。サランが覚えてただけだから～」"
+translation = "「으응, 신경 쓰지 마～. 사란이 기억하고 있었을 뿐이니까～」"
+
+[[dialogue]]
+speaker_original = "サラン"
+speaker_translation = "사란"
+original = "「それより、今日は協力ありがと～。お話できて嬉しいな～」"
+translation = "「그보다, 오늘은 협조해 줘서 고마워～. 이야기 나눌 수 있어서 기쁘네～」"
+
+[[dialogue]]
+speaker_original = "レイラ"
+speaker_translation = "레이라"
+original = "「いえ、こちらこそ。蛍火さんはじめ、給食委員会のみなさんにはお世話になっていますから」"
+translation = "「아니요, 저야말로요. 호타루비 씨를 비롯해, 급식위원회 여러분께 신세를 지고 있으니까요」"
+
+[[dialogue]]
+speaker_original = "蛍火"
+speaker_translation = "호타루비"
+original = "「フードロス削減は私たちにとっても永遠のテーマです。百目騎さんにはいつも感謝しています」"
+translation = "「푸드 로스 감축은 저희에게도 영원한 테마입니다. 도우메키 씨에게는 항상 감사하고 있습니다」"
+
+[[dialogue]]
+speaker_original = "エルデリーゼ"
+speaker_translation = "엘데리제"
+original = "「……どういうことですの？」"
+translation = "「……무슨 뜻인가요?」"
+
+[[dialogue]]
+speaker_original = "サラン"
+speaker_translation = "사란"
+original = "「レイラちゃんには、料理や食材の廃棄が出そうな時に消費に協力してもらっているの～。委員会のみんなで食べきるのは限界があるから～」"
+translation = "「레이라짱에게는, 요리나 식재료의 폐기가 나올 것 같을 때 소비하는 걸 도와달라고 하고 있어～. 위원회 모두가 다 먹기에는 한계가 있으니까～」"
+
+[[dialogue]]
+speaker_original = "レイラ"
+speaker_translation = "레이라"
+original = "「名付けて、百目騎フードロスコンサルタント！」"
+translation = "「이름하여, 도우메키 푸드 로스 컨설턴트!」"
+
+[[dialogue]]
+speaker_original = "エルデリーゼ"
+speaker_translation = "엘데리제"
+original = "「は、はぁ……」"
+translation = "「하, 하아……」"
+
+[[dialogue]]
+speaker_original = "サラン"
+speaker_translation = "사란"
+original = "「じゃあそろそろ、試食会はじめよっか～。まず始めは、魔界風焼きそば～」"
+translation = "「그럼 이제 슬슬, 시식회 시작해 볼까～. 우선 시작은, 마계풍 볶음국수～」"
+
+[[dialogue]]
+speaker_original = "サラン"
+speaker_translation = "사란"
+original = "「魔界といっても、今の魔界じゃないよ～。魔本に書いてあったレシピなんだ～」"
+translation = "「마계라고 해도, 지금의 마계가 아니야～. 마도서에 적혀 있던 레시피야～」"
+
+[[dialogue]]
+speaker_original = "蛍火"
+speaker_translation = "호타루비"
+original = "「そのままではかなり人を選ぶ味付けだったので、アレンジを加えています。香辛料の量を変えて３種類作ってみたので、食べ比べてみてください」"
+translation = "「그대로는 다분히 취향을 타는 간이었기에, 아렌지를 더했습니다. 향신료의 양을 바꿔 3종류 만들어 보았으니, 비교하며 드셔보세요」"
+
+[[dialogue]]
+speaker_original = "レイラ"
+speaker_translation = "레이라"
+original = "「ではまずＡから……ひゅごっ……あむあむ……う～～ん、後を引く辛さでお箸が止まりません！\u3000シャキシャキ野菜の食感も楽しいです」"
+translation = "「그럼 우선 A부터…… 휘곡…… 냠냠…… 음～～, 감칠맛 나는 매운맛에 젓가락이 멈추질 않네요! 아삭아삭한 야채의 식감도 즐겁습니다」"
+
+[[dialogue]]
+speaker_original = "エルデリーゼ"
+speaker_translation = "엘데리제"
+original = "（お箸は一瞬しか使ってらっしゃいませんけど……）"
+translation = "(젓가락은 한순간밖에 안 쓰셨습니다만……)"
+
+[[dialogue]]
+speaker_original = "エルデリーゼ"
+speaker_translation = "엘데리제"
+original = "「では私はＢを……んっ！\u3000美味しいですけれど、とても辛いですわ！\u3000これより辛くては、一部の人限定になってしまいますわ」"
+translation = "「그럼 저는 B를…… 읍! 맛있긴 합니다만, 너무 매워요! 이보다 매우면 일부 사람 전용이 되어버려요」"
+
+[[dialogue]]
+speaker_original = "サラン"
+speaker_translation = "사란"
+original = "「だよね～。オリジナルに近いのはＣなんだけど、ちょっと辛すぎかな～？」"
+translation = "「그렇지～. 오리지널에 가까운 건 C지만, 조금 너무 매울까나～?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "と、自分でＣの焼きそばを食べるサラン。ちなみにサラン自身は激辛も平気だ。"
+translation = "하며, 스스로 C 볶음국수를 먹는 사란. 참고로 사란 본인은 아주 매운 것도 아무렇지 않다."
+
+[[dialogue]]
+speaker_original = "蛍火"
+speaker_translation = "호타루비"
+original = "「再現性を取るか、食べやすさを取るか、難しいところですね……」"
+translation = "「재현성을 취할지, 먹기 편함을 취할지, 어려운 부분이네요……」"
+
+[[dialogue]]
+speaker = "unk"
+original = "オプションで辛さを足すのはどうかな？"
+translation = "옵션으로 매운맛을 더하는 건 어떨까?"
+
+[[dialogue]]
+speaker = "unk"
+original = "思い浮かんだのは、以前バイトしたことのあるカレー屋だ。辛さをオプションで変更することで、幅広いニーズに対応できる。"
+translation = "떠오른 것은, 이전에 알바했던 적이 있는 카레 집이다. 매운맛을 옵션으로 변경함으로써, 다양한 니즈에 대응할 수 있다."
+
+[[dialogue]]
+speaker_original = "サラン"
+speaker_translation = "사란"
+original = "「なるほど～。見たことあるかも～」"
+translation = "「과연～. 본 적 있을지도～」"
+
+[[dialogue]]
+speaker_original = "蛍火"
+speaker_translation = "호타루비"
+original = "「オペレーションには工夫が必要そうですが、よいですね。実現すれば他のメニューにも採用できそうです」"
+translation = ""
+
+[[dialogue]]
+speaker_original = "サラン"
+speaker_translation = "사란"
+original = "「じゃあそれで行こっか～。お次は魔界プリン～。まったりとろ～り幸せの味～♪」"
+translation = "「그럼 그걸로 가볼까～. 다음은 마계 푸딩～. 걸쭉하고 사르르 행복한 맛～♪」"
+
+[[dialogue]]
+speaker = "unk"
+original = "試食会を終え、俺はサランと一緒に帰路に就いた。"
+translation = "시식회를 마치고, 나는 사란과 함께 집으로 향했다."
+
+[[dialogue]]
+speaker_original = "サラン"
+speaker_translation = "사란"
+original = "「ごめんね～、会長ちゃん。おなか大丈夫～？」"
+translation = "「미안해～, 회장짱. 배 괜찮아～?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "な、なんとか……"
+translation = "어, 어떻게든……"
+
+[[dialogue]]
+speaker = "unk"
+original = "試食会に参加したはいいものの、レイラやエルゼほどには力になれなかった。単純に量が入らないし、腹が膨れても舌が鈍らないのは特別な資質だと思う。"
+translation = "시식회에 참가한 것은 좋았지만, 레이라나 엘제만큼 도움이 되지는 못했다. 단순하게 양이 들어가지도 않고, 배가 불러도 혀가 둔해지지 않는 것은 특별한 자질이라고 생각한다."
+
+[[dialogue]]
+speaker_original = "サラン"
+speaker_translation = "사란"
+original = "「今日はね、サランたち給食委員会の活動を見てほしかったんだ～」"
+translation = "「오늘은 말이지, 사란 일행 급식위원회의 활동을 보여주고 싶었어～」"
+
+[[dialogue]]
+speaker_original = "サラン"
+speaker_translation = "사란"
+original = "「学園のみんなにはいつも美味しいごはんを食べてほしいからね～。給食委員会みんなの願いだよ～」"
+translation = "「학원 모두에게는 항상 맛있는 밥을 먹어주었으면 하니까～. 급식위원회 모두의 바람이야～」"
+
+[[dialogue]]
+speaker = "unk"
+original = "普段は見かけない、給食委員会の人たち。その努力は美味しいごはんに繋がっている。俺たちはこうして、支えられて、支え合って、暮らしているんだ。"
+translation = "평소에는 잘 보이지 않는, 급식위원회 사람들. 그 노력은 맛있는 밥으로 이어지고 있다. 우리들은 이렇게, 지지를 받고, 서로를 지지하며, 살아가고 있는 것이다."
+
+[[dialogue]]
+speaker_original = "サラン"
+speaker_translation = "사란"
+original = "「それにね、会長ちゃんに新しいメニューを早く食べてほしかったんだ～」"
+translation = "「게다가 말이지, 회장짱에게 새로운 메뉴를 빨리 먹여주고 싶었어～」"
+
+[[dialogue]]
+speaker_original = "サラン"
+speaker_translation = "사란"
+original = "「魔本を読んでるとね、魔族のひとたちがごはんをどんなに楽しみにしてたのか伝わってくるの～」"
+translation = "「마도서를 읽다 보면 말이지, 마족 사람들이 밥을 얼마나 기대하고 있었는지 전해져 와～」"
+
+[[dialogue]]
+speaker_original = "サラン"
+speaker_translation = "사란"
+original = "「魔界って魔獣もいるし、暑かったり寒かったり、いろいろ大変なんだけど～、だからこそ、ごはんの喜びもひとしおなの～」"
+translation = "「마계는 마수도 있고, 춥거나 덥거나 여러 가지로 힘들지만～, 그렇기 때문에 밥을 먹는 기쁨도 더한 거야～」"
+
+[[dialogue]]
+speaker_original = "サラン"
+speaker_translation = "사란"
+original = "「遠い昔の魔族のひとたちが愛おしくって……会長ちゃんにも感じて欲しかったんだ～」"
+translation = "「아득히 먼 옛날 마족 사람들이 사랑스러워서…… 회장짱도 느껴주었으면 했어～」"
+
+[[dialogue]]
+speaker = "unk"
+original = "夜空を見上げるサランの瞳には、古き魔族たちの営みが映っているのかもしれない。"
+translation = "밤하늘을 올려다보는 사란의 눈동자에는, 옛 마족들의 삶이 비치고 있는지도 모른다."
+
+[[dialogue]]
+speaker = "unk"
+original = "日々の営み、日々の食事……それを想うサランの横顔がすごく綺麗だった。"
+translation = "매일의 삶, 매일의 식사…… 그것을 생각하는 사란의 옆모습이 너무나 예뻤다."
+
+[[dialogue]]
+speaker_original = "サラン"
+speaker_translation = "사란"
+original = "「思い出したらおなかすいてきちゃった～。会長ちゃんのおうち行ってもい～い？\u3000何か買って帰ろ～？」"
+translation = "「떠올렸더니 배가 고파져 버렸어～. 회장짱 집으로 가도 돼～? 뭐 사 가지고 갈까～?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "まだ食べるの、などと無粋なことは言わない。たくさん食べるサランは可愛いから。"
+translation = "또 먹는 거냐는 등 촌스러운 말은 하지 않는다. 많이 먹는 사란은 귀여우니까."
+

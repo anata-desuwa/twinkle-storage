@@ -1,0 +1,354 @@
+[[dialogue]]
+speaker = "unk"
+original = "第３話,魔王軍四天王結成！？,P"
+translation = "제3화, 마왕군 사천왕 결성!?"
+
+[[dialogue]]
+speaker = "unk"
+original = "カティアに呼ばれて、カフェテリアに行くと、なんだかよく分からない面子が揃っていた。"
+translation = "카티아에게 불려 카페테리아로 가니, 어쩐지 뜬금없는 면면이 모여 있었다."
+
+[[dialogue]]
+speaker_original = "マリーベル"
+speaker_translation = "메리벨"
+original = "「何なの、この集まりは？」"
+translation = "「뭐야, 이 모임은?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "まず、カティアの園芸仲間にして串料理の達人、マリーベル。"
+translation = "우선, 카티아의 원예 동료이자 꼬치 요리의 달인, 메리벨."
+
+[[dialogue]]
+speaker_original = "レイラ"
+speaker_translation = "레이라"
+original = "「私も呼ばれただけで、何も聞いてなくて……」"
+translation = "「저도 불려 왔을 뿐이라 아무것도 들은 게 없어서……」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ブラックホールを守護星とする星騎士、コラプサーの首領、レイラ。"
+translation = "블랙홀을 수호성으로 삼는 성기사, 콜랩서의 수령, 레이라."
+
+[[dialogue]]
+speaker_original = "リィベル"
+speaker_translation = "리벨"
+original = "「私も知らないわ。呼び出した張本人もまだ来てないし」"
+translation = "「나도 몰라. 불러낸 장본인도 아직 안 왔고」"
+
+[[dialogue]]
+speaker = "unk"
+original = "『深淵書庫』の管理者、リィベル。"
+translation = "『심연서고』의 관리자, 리벨."
+
+[[dialogue]]
+speaker_original = "カティア"
+speaker_translation = "카티아"
+original = "「お待たせしました～。みなさんご足労ありがとうございまベロス～」"
+translation = "「기다리셨습니다～. 여러분 발걸음 해주셔서 감사하다 베로스～」"
+
+[[dialogue]]
+speaker = "unk"
+original = "そこに、みんなを集めた張本人のカティアが現れる。"
+translation = "거기에 모두를 모은 장본인인 카티아가 나타난다."
+
+[[dialogue]]
+speaker_original = "リィベル"
+speaker_translation = "리벨"
+original = "「どうして魔将フォームに変身しているの？」"
+translation = "「왜 마장 폼으로 변신하고 있는 거야?」"
+
+[[dialogue]]
+speaker_original = "カティア"
+speaker_translation = "카티아"
+original = "「それはもちろん、これが私の一張羅だから！\u3000形から入るのって大事でしょ？」"
+translation = "「그건 당연히 이게 내 단벌 신사니까! 겉모습부터 갖추는 게 중요하잖아?」"
+
+[[dialogue]]
+speaker_original = "リィベル"
+speaker_translation = "리벨"
+original = "「ふーん……で、今日は何の用なの？」"
+translation = "「흐음…… 그래서, 오늘은 무슨 용건인데?」"
+
+[[dialogue]]
+speaker_original = "カティア"
+speaker_translation = "카티아"
+original = "「ふっふっふ～♪\u3000今日は今まで棚上げしていた『アレ』を決めたいと思って！」"
+translation = "「흣흣흣～♪ 오늘은 지금까지 미뤄두었던 『그것』을 정하고 싶어서!」"
+
+[[dialogue]]
+speaker_original = "リィベル"
+speaker_translation = "리벨"
+original = "「『アレ』……？\u3000どれ……？」"
+translation = "「『그것』……? 어느 거……?」"
+
+[[dialogue]]
+speaker_original = "カティア"
+speaker_translation = "카티아"
+original = "「それはもちろん、魔王軍四天王です！」"
+translation = "「그건 당연히 마왕군 사천왕입니다!」"
+
+[[dialogue]]
+speaker_original = "マリーベル"
+speaker_translation = "메리벨"
+original = "「はぁ……」"
+translation = "「하아……」"
+
+[[dialogue]]
+speaker_original = "レイラ"
+speaker_translation = "레이라"
+original = "「……すみません、どなたかご説明をいただけますか？\u3000魔王軍？\u3000なんてあったんですか？」"
+translation = "「……죄송합니다, 누구 설명해 주실 분 계신가요? 마왕군? 같은 게 있었나요?」"
+
+[[dialogue]]
+speaker_original = "マリーベル"
+speaker_translation = "메리벨"
+original = "「ないわよ、そんなもの。カティアさんが勝手に言い出しただけ。……まだ世界征服なんて言ってたのね」"
+translation = "「없어, 그런 거. 카티아 씨가 제멋대로 꺼낸 말일 뿐. ……아직도 세계 정복 같은 소릴 하고 있었구나」"
+
+[[dialogue]]
+speaker_original = "カティア"
+speaker_translation = "카티아"
+original = "「まだ、どころか絶賛進行中です！\u3000ね、リィベル？」"
+translation = "「아직도는커녕 절찬 진행 중입니다! 그치, 리벨?」"
+
+[[dialogue]]
+speaker_original = "リィベル"
+speaker_translation = "리벨"
+original = "「なんで私に振るのよ」"
+translation = "「왜 나한테 넘기는데」"
+
+[[dialogue]]
+speaker_original = "カティア"
+speaker_translation = "카티아"
+original = "「だって、世界征服の夢を語ったら、それでこそ魔族って言ってくれたし！」"
+translation = "「그치만 세계 정복 꿈을 말했을 때, '이래야 마족이지' 하고 말해줬잖아!」"
+
+[[dialogue]]
+speaker_original = "マリーベル"
+speaker_translation = "메리벨"
+original = "「あなた、そんなこと言ったの？\u3000カティアさんは純粋なんだからちゃんとできないことはできないって言わないとダメよ」"
+translation = "「너, 그런 말을 했어? 카티아 씨는 순진하니까 안 되는 건 안 된다고 똑바로 말해줘야지」"
+
+[[dialogue]]
+speaker_original = "リィベル"
+speaker_translation = "리벨"
+original = "「え、なんで私が怒られてるの……？\u3000確かに魔族らしいとは言ったけど、世界征服に協力するとまでは言ってないわ」"
+translation = "「에, 왜 내가 혼나는데……? 확실히 마족답다고는 했지만 세계 정복에 협력하겠다고까지는 안 했어」"
+
+[[dialogue]]
+speaker_original = "カティア"
+speaker_translation = "카티아"
+original = "「ええ～～～！？\u3000リィベルには四天王の参謀やってほしかったのに～！\u3000本たくさん読んでるから頭よさそうだし」"
+translation = "「에에～～～!? 리벨한테는 사천왕 참모를 맡아주길 바랐는데～! 책 많이 읽으니까 머리 좋아 보이고」"
+
+[[dialogue]]
+speaker_original = "リィベル"
+speaker_translation = "리벨"
+original = "（……残念ながら、読書量と成績は比例しないわ。それなら苦労しないのに）"
+translation = "(……아쉽게도 독서량과 성적은 비례하지 않아. 그랬으면 고생도 안 했지)"
+
+[[dialogue]]
+speaker_original = "レイラ"
+speaker_translation = "레이라"
+original = "「四天王の中にも役割分担があるんですね。他にはどんな役割があるんですか？」"
+translation = "「사천왕 안에서도 역할 분담이 있군요. 다른 역할은 뭐가 있나요?」"
+
+[[dialogue]]
+speaker_original = "カティア"
+speaker_translation = "카티아"
+original = "「マリーベル先輩は魔王軍の切り込み隊長です！\u3000魔犬の群れを率いて戦います！」"
+translation = "「메리벨 선배는 마왕군의 돌격대장입니다! 마견 무리를 이끌고 싸웁니다!」"
+
+[[dialogue]]
+speaker_original = "マリーベル"
+speaker_translation = "메리벨"
+original = "「魔犬？」"
+translation = "「마견?」"
+
+[[dialogue]]
+speaker_original = "カティア"
+speaker_translation = "카티아"
+original = "「私の使い魔だよ。いけ、ワンワンアーミー！」"
+translation = "「내 사역마야. 가라, 멍멍 아미!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "カティアが呼ぶと、子犬の使い魔が飛び出してくる。"
+translation = "카티아가 부르자, 강아지 사역마가 튀어나온다."
+
+[[dialogue]]
+speaker_original = "犬の使い魔"
+speaker_translation = "犬の使い魔"
+original = "「ワンワン！」"
+translation = "「멍멍!」"
+
+[[dialogue]]
+speaker_original = "マリーベル"
+speaker_translation = "메리벨"
+original = "「かわいい……」"
+translation = "「귀여워……」"
+
+[[dialogue]]
+speaker_original = "カティア"
+speaker_translation = "카티아"
+original = "「じゃあ、ひと株あげますよ！\u3000いくらでも生えてくるので！」"
+translation = "「그럼 한 포기 드릴게요! 얼마든지 자라나니까!」"
+
+[[dialogue]]
+speaker_original = "マリーベル"
+speaker_translation = "메리벨"
+original = "「は？\u3000生えてくる？」"
+translation = "「하? 자라나?」"
+
+[[dialogue]]
+speaker_original = "カティア"
+speaker_translation = "카티아"
+original = "「はい！\u3000あ、でも、水をあげないとすぐ枯れちゃうので気を付けてください」"
+translation = "「네! 아, 하지만 물을 안 주면 금방 시들어버리니까 조심해 주세요」"
+
+[[dialogue]]
+speaker_original = "マリーベル"
+speaker_translation = "메리벨"
+original = "「枯れる！？\u3000犬なのに！？」"
+translation = "「시들어!? 개인데!?」"
+
+[[dialogue]]
+speaker_original = "カティア"
+speaker_translation = "카티아"
+original = "「まぁ、野菜みたいなものなので……」"
+translation = "「뭐, 야채 같은 거라서……」"
+
+[[dialogue]]
+speaker_original = "レイラ"
+speaker_translation = "레이라"
+original = "「このワンちゃん、お野菜なんですか！？\u3000食べたらどんなお味なんでしょう……」"
+translation = "「이 강아지, 야채인가요!? 먹으면 무슨 맛일까요……」"
+
+[[dialogue]]
+speaker_original = "リィベル"
+speaker_translation = "리벨"
+original = "「魔力で具現化したものだから食べても腹は膨らまないわよ。というか、調理した時点で消えると思うけど」"
+translation = "「마력으로 구현화한 거라 먹어도 배는 안 차. 그보다 조리한 시점에서 사라질 것 같은데」"
+
+[[dialogue]]
+speaker_original = "マリーベル"
+speaker_translation = "메리벨"
+original = "「そもそも食べようとしないで。コラプサーって変人しかいないのかしら……」"
+translation = "「애초에 먹으려고 하지 마. 콜랩서에는 괴짜밖에 없는 건가……」"
+
+[[dialogue]]
+speaker_original = "カティア"
+speaker_translation = "카티아"
+original = "「うぅ……蘇る思い出……」"
+translation = "「우으…… 되살아나는 추억……」"
+
+[[dialogue]]
+speaker = "unk"
+original = "カティア、マリーベルとは一緒にコラプサーを撃退したこともある。"
+translation = "카티아, 메리벨과는 함께 콜랩서를 퇴치한 적도 있다."
+
+[[dialogue]]
+speaker = "unk"
+original = "戦ったのは、戦闘狂のイングリットとコラプサー最弱のジュリエッテという極端なコンビだった。"
+translation = "싸웠던 건 전투 광인 잉그리드와 콜랩서 최약체인 줄리에트라는 극단적인 콤비였다."
+
+[[dialogue]]
+speaker_original = "レイラ"
+speaker_translation = "레이라"
+original = "「その節は大変ご迷惑をおかけしました……」"
+translation = "「그때는 큰 심려를 끼쳐드려 정말 죄송했습니다……」"
+
+[[dialogue]]
+speaker_original = "レイラ"
+speaker_translation = "레이라"
+original = "「ちなみに、私の四天王での役割は？\u3000ブラックホールを活かした決戦兵器……あるいはハッキングによる情報工作……どっちも自信ありです」"
+translation = "「참고로 제 사천왕에서의 역할은요? 블랙홀을 살린 결전병기…… 아니면 해킹을 통한 정보 공작…… 둘 다 자신 있습니다」"
+
+[[dialogue]]
+speaker_original = "カティア"
+speaker_translation = "카티아"
+original = "「あ、考えてませんでした。なんか見た目が悪の幹部っぽいからそれだけで……。う～～ん…………大食い番長、とか？」"
+translation = "「아, 안 생각했는데요. 왠지 겉모습이 악의 간부 같아서 그것만으로…… 우～～음………… 대식가 번장, 같은 거?」"
+
+[[dialogue]]
+speaker_original = "レイラ"
+speaker_translation = "레이라"
+original = "「私ってそんなイメージなんですか！？\u3000ていうか世界征服どこいっちゃいました！？」"
+translation = "「저 그런 이미지인가요!? 그보다 세계 정복은 어디로 간 건가요!?」"
+
+[[dialogue]]
+speaker_original = "リィベル"
+speaker_translation = "리벨"
+original = "「カティア、あなたはどうなの？\u3000あなたは四天王で何を担っているのよ」"
+translation = "「카티아, 너는 어떰? 너는 사천왕에서 뭘 맡고 있는 건데」"
+
+[[dialogue]]
+speaker_original = "カティア"
+speaker_translation = "카티아"
+original = "「私は四天王筆頭兼魔王様の恋人だベロス！\u3000ふっふ～、すごいでしょっ！」"
+translation = "「나는 사천왕 으뜸 겸 마왕님의 연인이다 베로스! 흣흣～, 대단하지!」"
+
+[[dialogue]]
+speaker_original = "リィベル"
+speaker_translation = "리벨"
+original = "「ふぅん。あなたたち、付き合いだしたのね。おめでとう」"
+translation = "「후운. 너희들, 사귀기 시작했구나. 축하해」"
+
+[[dialogue]]
+speaker_original = "マリーベル"
+speaker_translation = "메리벨"
+original = "「……そう。もしかして私たち、あなたたちのノロケに付き合わされたのかしら」"
+translation = "「……그래. 혹시 우리, 너희 염장 지르는 거에 어울려준 건가」"
+
+[[dialogue]]
+speaker_original = "カティア"
+speaker_translation = "카티아"
+original = "「え！？\u3000そんなつもりじゃ……」"
+translation = "「에!? 그럴 작정은……」"
+
+[[dialogue]]
+speaker_original = "マリーベル"
+speaker_translation = "메리벨"
+original = "「邪魔になっても悪いから、もう行くわ。蛍火さんと串バトルしてくる」"
+translation = "「방해되면 안 되니까 이만 가볼게. 호타루비 씨랑 꼬치 대결하고 올게」"
+
+[[dialogue]]
+speaker_original = "レイラ"
+speaker_translation = "레이라"
+original = "「あの伝説のイベント、串バトルがついに復刻……！？\u3000私も同行しますっ！」"
+translation = "「그 전설의 이벤트, 꼬치 대결이 마침내 복각……!? 저도 동행하겠습니다!」"
+
+[[dialogue]]
+speaker_original = "リィベル"
+speaker_translation = "리벨"
+original = "「じゃあ私、串カツが食べたいわ。うずらの卵と豚玉ねぎをお願い」"
+translation = "「그럼 나, 꼬치카츠 먹고 싶어. 메추리알이랑 돼지 양파로 부탁해」"
+
+[[dialogue]]
+speaker_original = "カティア"
+speaker_translation = "카티아"
+original = "「魔王様～！\u3000四天王が、四天王がバラバラになっちゃいました～！」"
+translation = "「마왕님～! 사천왕이, 사천왕이 와해돼 버렸어요～!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "おお、よしよし……"
+translation = "오냐, 착하지 착해……"
+
+[[dialogue]]
+speaker = "unk"
+original = "凹むカティアの頭を撫でてやる。そんな日もあるさ。"
+translation = "시무룩해진 카티아의 머리를 쓰다듬어 준다. 그런 날도 있는 법이지."
+
+[[dialogue]]
+speaker_original = "カティア"
+speaker_translation = "카티아"
+original = "「うぅ、魔王様……カティアには魔王様だけですぅ……」"
+translation = "「우으, 마왕님…… 카티아한테는 마왕님뿐이에요……」"
+
+[[dialogue]]
+speaker = "unk"
+original = "魔王軍四天王、結成ならず……そもそも魔王軍すら結成してないけど。"
+translation = "마왕군 사천왕, 결성 실패…… 애초에 마왕군조차 결성 안 했지만."
+

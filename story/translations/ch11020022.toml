@@ -376,18 +376,18 @@ translation = ""
 speaker_original = "トワ先生"
 speaker_translation = "토와 선생님"
 original = "「はーい、授業を始めま～す！」"
-translation = ""
+translation = "「네~, 수업을 시작하겠어~요!」"
 
 [[dialogue]]
 speaker_original = "トワ先生"
 speaker_translation = "토와 선생님"
 original = "「ってぇ！？\u3000会長くんと──シュティレちゃん！？\u3000な、何をして……！？」"
-translation = ""
+translation = "「어라!? 회장 군이랑── 슈틸레 양!? 무, 뭘 하고……!?」"
 
 [[dialogue]]
 speaker = "unk"
 original = "すみません、トワ先生。実は……！"
-translation = ""
+translation = "「죄송해요, 토와 선생님. 사실은……!」"
 
 [[dialogue]]
 speaker_original = "シュティレ"
@@ -398,7 +398,7 @@ translation = ""
 [[dialogue]]
 speaker = "unk"
 original = "むむむむぅう～～！？"
-translation = ""
+translation = "「으으으으음~~!?」"
 
 [[dialogue]]
 speaker_original = "トワ先生"
@@ -410,7 +410,7 @@ translation = ""
 speaker_original = "マトイ"
 speaker_translation = "마토이"
 original = "「すみません、すみませんっ……！\u3000授業、始めてください……！」"
-translation = ""
+translation = "「죄송합니다, 죄송합니다……! 수업, 시작해 주세요……!」"
 
 [[dialogue]]
 speaker_original = "トワ先生"
@@ -421,10 +421,10 @@ translation = ""
 [[dialogue]]
 speaker = "unk"
 original = "それから日が暮れるまで、俺はバニー姿のシュティレに抱き着かれながら過ごすことになるのだった……"
-translation = ""
+translation = "그로부터 해가 질 때까지, 나는 바니 차림의 슈틸레에게 안긴 채 시간을 보내게 되었다……"
 
 [[dialogue]]
 speaker = "unk"
 original = "アニマ先輩……覚えていてくださいよ……！！"
-translation = ""
+translation = "아니마 선배…… 기억해 두세요……!!"
 

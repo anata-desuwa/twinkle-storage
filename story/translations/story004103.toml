@@ -1,0 +1,298 @@
+[[dialogue]]
+speaker_original = "イクシリオン"
+speaker_translation = "익실리온"
+original = "「……み、みなさん、こんにちは……」"
+translation = "「……여, 여러분, 안녕하세요……」"
+
+[[dialogue]]
+speaker_original = "モネ"
+speaker_translation = "모네"
+original = "「イクシーさん？\u3000どうしてそんなところに隠れていたんですか？」"
+translation = "「익시 씨? 어째서 그런 곳에 숨어 계셨던 건가요?」"
+
+[[dialogue]]
+speaker_original = "イクシリオン"
+speaker_translation = "익실리온"
+original = "「なんと言いましょうか……出ていきづらくて……つい」"
+translation = "「뭐라고 해야 할까요…… 나가기가 힘들어서…… 그만」"
+
+[[dialogue]]
+speaker_original = "カティア"
+speaker_translation = "카티아"
+original = "（なんでイクシーが？\u3000イクシーも魔将狙いってこと？）"
+translation = "(왜 익시가? 익시도 마장을 노린다는 건가?)"
+
+[[dialogue]]
+speaker_original = "カティア"
+speaker_translation = "카티아"
+original = "（うぅ～、ライバルが多いなぁ……）"
+translation = "(우으～, 라이벌이 많네……)"
+
+[[dialogue]]
+speaker_original = "リィベル"
+speaker_translation = "리벨"
+original = "「ウィステリア。彼女は深淵書庫のことは聞いているのよね？」"
+translation = "「위스테리아. 그녀는 심연서고에 대해 들었지?」"
+
+[[dialogue]]
+speaker_original = "ウィステリア"
+speaker_translation = "위스테리아"
+original = "「ええ。あなたも知っての通り、イクシーさんは以前、紙屋敷さんと一緒に深淵書庫に落ちたことがあるから、書庫の正体や魔将のことは伝えてあるわ」"
+translation = "「응. 너도 알다시피 익시 씨는 이전에 카미야시키 양과 함께 심연서고에 떨어진 적이 있으니까, 서고의 정체나 마장에 대해서는 전해두었어」"
+
+[[dialogue]]
+speaker_original = "シャルレーヌ"
+speaker_translation = "샤를렌"
+original = "「くふふ♪\u3000イクシリオン先輩も実は『強欲』の力が目当てだったりして～♪」"
+translation = "「크후후♪ 익실리온 선배도 사실은 『강욕』의 힘이 목적이라든가～♪」"
+
+[[dialogue]]
+speaker_original = "イクシリオン"
+speaker_translation = "익실리온"
+original = "「い、いえ、私はただ、いつもお世話になっているウィステリアさんやモネさんのお役に立ちたくて……」"
+translation = "「아, 아니요, 저는 그저 항상 신세를 지고 있는 위스테리아 씨나 모네 씨에게 도움이 되고 싶어서……」"
+
+[[dialogue]]
+speaker_original = "イクシリオン"
+speaker_translation = "익실리온"
+original = "（ウソですごめんなさい！\u3000私が気になっているのは『強欲』ではなくて別の…………）"
+translation = "(거짓말이에요 죄송해요! 제가 신경 쓰이는 건 『강욕』이 아니라 다른…………)"
+
+[[dialogue]]
+speaker_original = "ウィステリア"
+speaker_translation = "위스테리아"
+original = "「じゃあ、もしかして『暴食』の魔本に興味があったり……？」"
+translation = "「그럼 혹시 『폭식』의 마서에 관심이 있다거나……?」"
+
+[[dialogue]]
+speaker_original = "モネ"
+speaker_translation = "모네"
+original = "「確かにイクシーさんは健啖家ですもんね。いつもご飯を美味しそうに食べていて、見てる方も幸せになります」"
+translation = "「확실히 익시 씨는 대식가이시니까요. 항상 밥을 맛있게 드셔서 보고 있는 쪽도 행복해져요」"
+
+[[dialogue]]
+speaker_original = "イクシリオン"
+speaker_translation = "익실리온"
+original = "「いえ、いえいえいえ…………」"
+translation = "「아니요, 아니아니아니…………」"
+
+[[dialogue]]
+speaker_original = "ウィステリア"
+speaker_translation = "위스테리아"
+original = "「ふふっ、冗談よ。品行方正な優等生のイクシーさんに、大罪を背負う魔将は似合わないわ」"
+translation = "「후후, 농담이야. 품행방정한 우등생인 익시 씨에게 대죄를 짊어지는 마장은 어울리지 않아」"
+
+[[dialogue]]
+speaker_original = "モネ"
+speaker_translation = "모네"
+original = "「そうですね。お気持ちはありがたいのですが、イクシーさんは無理をしなくていいんですよ。そのままのイクシーさんでいてください」"
+translation = "「맞아요. 마음은 감사하지만 익시 씨는 무리하지 않으셔도 돼요. 그대로의 익시 씨로 있어 주세요」"
+
+[[dialogue]]
+speaker_original = "イクシリオン"
+speaker_translation = "익실리온"
+original = "「はわ、はわわ…………恐縮です…………」"
+translation = "「하와, 하와와………… 황송합니다…………」"
+
+[[dialogue]]
+speaker_original = "イクシリオン"
+speaker_translation = "익실리온"
+original = "（違うんです、違うんですぅっ！\u3000私は本当は……っ）"
+translation = "(틀려요, 틀리단 말이에요읏! 저는 사실……읏)"
+
+[[dialogue]]
+speaker_original = "イクシリオン"
+speaker_translation = "익실리온"
+original = "（エッチな本に興味があるだけなんです～～～～っ！！）"
+translation = "(야한 책에 관심이 있을 뿐이에요～～～～읏!!)"
+
+[[dialogue]]
+speaker_original = "リィベル"
+speaker_translation = "리벨"
+original = "「そもそも魔本に収められているのは魔力──魔族の力よ。天使とは相性が悪いわ。魔将なら他をあたらせてもら──え、うそ？」"
+translation = "「애초에 마서에 담긴 건 마력──마족의 힘이야. 천사와는 상성이 나빠. 마장이라면 다른 사람을 알아보라고──어, 거짓말?」"
+
+[[dialogue]]
+speaker_original = "リィベル"
+speaker_translation = "리벨"
+original = "「『色欲』の魔本が反応しているわ……。イクシリオン、あなたに」"
+translation = "「『색욕』의 마서가 반응하고 있어……. 익실리온, 너에게」"
+
+[[dialogue]]
+speaker_original = "ウィステリア"
+speaker_translation = "위스테리아"
+original = "「えぇっ！？\u3000本当に！？\u3000あの真面目なイクシリオンさんに！？」"
+translation = "「에엣!? 정말로!? 그 성실한 익실리온 씨에게!?」"
+
+[[dialogue]]
+speaker_original = "モネ"
+speaker_translation = "모네"
+original = "「いつも勉強熱心で、保健委員の仕事にも真摯に取り組んでいるイクシーさんに！？」"
+translation = "「항상 공부에 열심이고, 보건위원 일에도 진지하게 임하는 익시 씨에게!?」"
+
+[[dialogue]]
+speaker_original = "イクシリオン"
+speaker_translation = "익실리온"
+original = "「ひあ～～～っ！！」"
+translation = "「히아～～～읏!!」"
+
+[[dialogue]]
+speaker_original = "カティア"
+speaker_translation = "카티아"
+original = "（イクシーもプリマステラで、今でも強いのに、魔将の力でもっと強くなっちゃうのかな……？）"
+translation = "(익시도 프리마스테라라 지금도 강한데, 마장의 힘으로 더 강해져 버리는 걸까……?)"
+
+[[dialogue]]
+speaker_original = "カティア"
+speaker_translation = "카티아"
+original = "（いいなぁ……私ももっともっと強くなりたい……）"
+translation = "(좋겠다…… 나도 더욱더 강해지고 싶은데……)"
+
+[[dialogue]]
+speaker_original = "カティア"
+speaker_translation = "카티아"
+original = "（強い力……欲しいなぁ……）"
+translation = "(강한 힘…… 갖고 싶다……)"
+
+[[dialogue]]
+speaker_original = "イクシリオン"
+speaker_translation = "익실리온"
+original = "「『色欲』の魔本が私に反応を……！？\u3000本当ですか！？」"
+translation = "「『색욕』의 마서가 저에게 반응을……!? 정말인가요!?」"
+
+[[dialogue]]
+speaker_original = "イクシリオン"
+speaker_translation = "익실리온"
+original = "（そう、私が求めていたのは『色欲』の魔本。きっと、ムフフなことがたくさん書いてあるはず……ああ、気になって仕方がありません！）"
+translation = "(그래, 내가 원하던 건 『색욕』의 마서. 분명 흐뭇한 내용이 잔뜩 적혀있을 터…… 아아, 궁금해서 견딜 수가 없어요!)"
+
+[[dialogue]]
+speaker_original = "イクシリオン"
+speaker_translation = "익실리온"
+original = "（モネさんやウィステリアさんの力になりたいのもウソではないのです。ですが、ですが……！\u3000私の本能が告げています。深淵書庫には『何か』があると！）"
+translation = "(모네 씨나 위스테리아 씨에게 도움이 되고 싶은 것도 거짓말은 아니에요. 하지만, 하지만……! 제 본능이 고하고 있어요. 심연서고에는 『무언가』가 있다고!)"
+
+[[dialogue]]
+speaker_original = "リィベル"
+speaker_translation = "리벨"
+original = "「私も信じがたいけど、本当よ。ほら、この魔本をあなたに近付けると点滅するでしょう」"
+translation = "「나도 믿기 힘들지만 사실이야. 봐, 이 마서를 너에게 가까이 대면 깜빡이지」"
+
+[[dialogue]]
+speaker_original = "イクシリオン"
+speaker_translation = "익실리온"
+original = "「なんと！\u3000まるで夜闇に浮かぶホタルのようです！」"
+translation = "「이럴 수가! 마치 밤하늘에 뜨는 반딧불이 같아요!」"
+
+[[dialogue]]
+speaker_original = "ウィステリア"
+speaker_translation = "위스테리아"
+original = "「思ったより単純な仕組みね……」"
+translation = "「생각보다 단순한 구조네……」"
+
+[[dialogue]]
+speaker_original = "リィベル"
+speaker_translation = "리벨"
+original = "「イクシリオン。これが読めるか試してみなさい」"
+translation = "「익실리온. 이것을 읽을 수 있는지 시험해 보아라」"
+
+[[dialogue]]
+speaker_original = "イクシリオン"
+speaker_translation = "익실리온"
+original = "「これが『色欲』の魔本……？\u3000ただならない気配を感じます」"
+translation = "「이것이 『색욕』의 마서……? 예사롭지 않은 기운이 느껴집니다」"
+
+[[dialogue]]
+speaker_original = "リィベル"
+speaker_translation = "리벨"
+original = "「もしこれが読めるなら、魔将の適性があるということよ。もし読めなくて呪いが暴走しても、ウィステリアが肩代わりするから問題ないわ」"
+translation = "「만약 이것을 읽을 수 있다면 마장의 적성이 있다는 뜻이야. 혹시 읽지 못해서 저주가 폭주하더라도 위스테리아가 대신 짊어질 테니 문제없어」"
+
+[[dialogue]]
+speaker_original = "ウィステリア"
+speaker_translation = "위스테리아"
+original = "「コラ、いつのまにそんな術式組んだのよ。はぁ……まぁいいわ。イクシーさんを危険に晒すわけにはいかないし」"
+translation = "「이봐, 어느 사이에 그런 술식을 짜둔 거야. 하아…… 뭐 됐어. 익시 씨를 위험에 빠뜨릴 수는 없으니까」"
+
+[[dialogue]]
+speaker_original = "ウィステリア"
+speaker_translation = "위스테리아"
+original = "「イクシーさんが魔将だなんて、何かの間違いだと思うから、試すだけ試してみて。読めなかったらこの話はおしまい、ね？」"
+translation = "「익시 씨가 마장이라니 무슨 착오가 있는 거라고 생각하니까, 시험 삼아 시험해 봐. 읽지 못하면 이 이야기는 끝, 알았지?」"
+
+[[dialogue]]
+speaker_original = "イクシリオン"
+speaker_translation = "익실리온"
+original = "「は、はい。では失礼して…………」"
+translation = "「네, 네. 그럼 실례하겠습니다…………」"
+
+[[dialogue]]
+speaker = "unk"
+original = "おそるおそる魔本を手に取るイクシリオン。"
+translation = "조심조심 마도서를 손에 쥐는 익실리온."
+
+[[dialogue]]
+speaker = "unk"
+original = "普段読んでいる本より、ずっしりと重い。"
+translation = "평소 읽던 책보다 묵직하게 묵직하다."
+
+[[dialogue]]
+speaker_original = "イクシリオン"
+speaker_translation = "익실리온"
+original = "「よ、読め………………ません！」"
+translation = "「이, 읽을………… 수 없습니다!」"
+
+[[dialogue]]
+speaker_original = "イクシリオン"
+speaker_translation = "익실리온"
+original = "「何やら文字が書かれていることは理解できるのですが……一文字も読めず……うぅ、すみません……」"
+translation = "「무언가 문자가 적혀 있다는 건 이해하겠는데…… 한 자도 읽을 수 없어서…… 우으, 죄송해요……」"
+
+[[dialogue]]
+speaker_original = "モネ"
+speaker_translation = "모네"
+original = "「謝るようなことじゃないですよ。むしろ挑戦してくれてありがとうございます」"
+translation = "「사과하실 일이 아니에요. 오히려 도전해 주셔서 감사합니다」"
+
+[[dialogue]]
+speaker_original = "ウィステリア"
+speaker_translation = "위스테리아"
+original = "「私からもありがとう、イクシーさん」"
+translation = "「나로서도 고마워, 익시 씨」"
+
+[[dialogue]]
+speaker_original = "イクシリオン"
+speaker_translation = "익실리온"
+original = "「うぅ～、残念です……」"
+translation = "「우으～, 아쉽네요……」"
+
+[[dialogue]]
+speaker_original = "リィベル"
+speaker_translation = "리벨"
+original = "「『強欲』も『色欲』も覚醒ならず、ね。『暴食』だけでも適合者を見付けたいところだけど──」"
+translation = "「『탐욕』도 『색욕』도 각성하지 못했네. 『폭식』만이라도 적합자를 찾고 싶은 참이지만──」"
+
+[[dialogue]]
+speaker_original = "リィベル"
+speaker_translation = "리벨"
+original = "「え、『暴食』も光った？」"
+translation = "「어, 『폭식』도 빛났어?」"
+
+[[dialogue]]
+speaker_original = "？？？"
+speaker_translation = "？？？"
+original = "「こんにちは～」"
+translation = "「안녕하세요～」"
+
+[[dialogue]]
+speaker_original = "リィベル"
+speaker_translation = "리벨"
+original = "「あなたは──」"
+translation = "「당신은──」"
+
+[[dialogue]]
+speaker_original = "サラン"
+speaker_translation = "사란"
+original = "「新星学園２年生の桜十路サランだよ～。あなたの持ってる本、すごくいい匂いがするね～」"
+translation = "「신성학원 2학년인 사쿠라쥬지 사란이야～. 당신이 가진 책, 엄청 좋은 냄새가 나네～」"
+

@@ -1,0 +1,348 @@
+[[dialogue]]
+speaker = "unk"
+original = "第１話,魔王としもべのご関係,P"
+translation = "제1화, 마왕과 하수인의 관계"
+
+[[dialogue]]
+speaker = "unk"
+original = "昼時のカフェテリアはいつも込み合っている。空いている席を探していると──"
+translation = "점심시간의 카페테리아는 항상 붐빈다. 빈자리를 찾고 있자니──"
+
+[[dialogue]]
+speaker_original = "カティア"
+speaker_translation = "카티아"
+original = "「魔王様～、こっちこっちー！」"
+translation = "「마왕님~, 이쪽 이쪽ー!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "カティアに声をかけられた。イクシリオンとサランも一緒だ。"
+translation = "카티아가 나를 불렀다. 익실리온과 사란도 함께다."
+
+[[dialogue]]
+speaker = "unk"
+original = "相席いいかな？"
+translation = "합석해도 될까?"
+
+[[dialogue]]
+speaker_original = "イクシリオン"
+speaker_translation = "익실리온"
+original = "「はい、会長なら大歓迎ですよ」"
+translation = "「네, 회장님이시라면 대환영이에요」"
+
+[[dialogue]]
+speaker_original = "サラン"
+speaker_translation = "사란"
+original = "「ど～ぞど～ぞ～」"
+translation = "「어서 오세요 어서 오세요~」"
+
+[[dialogue]]
+speaker = "unk"
+original = "２人のお許しも得たところで、カティアの隣に座る。"
+translation = "두 사람의 허락도 받았으니, 카티아의 옆자리에 앉는다."
+
+[[dialogue]]
+speaker_original = "カティア"
+speaker_translation = "카티아"
+original = "「新たに魔将になった３人でごはんしてたんですよ。いわゆる同期？\u3000ってやつですワン」"
+translation = "「새로 마장이 된 3명이서 밥 먹고 있었어요. 이른바 동기? 라는 거다 멍」"
+
+[[dialogue]]
+speaker_original = "イクシリオン"
+speaker_translation = "익실리온"
+original = "「カティアさんとは以前からお友達でしたけど、魔将になってサランさんとお話する機会が増えて、とても嬉しいです」"
+translation = "「카티아 씨와는 이전부터 친구였지만, 마장이 되고 사란 씨와 이야기할 기회가 늘어서 정말 기뻐요」"
+
+[[dialogue]]
+speaker_original = "サラン"
+speaker_translation = "사란"
+original = "「えへへ～、そう言ってくれるとサランも嬉しいな～。２人ともたくさん食べてくれるから大好き～♪」"
+translation = "「에헤헤~, 그렇게 말해주니 사란이도 기쁜걸~. 둘 다 많이 먹어줘서 너무 좋아~♪」"
+
+[[dialogue]]
+speaker_original = "カティア"
+speaker_translation = "카티아"
+original = "「サラン先輩、最近は昔の魔界料理の研究に凝ってて、何度か試作品を食べさせてもらったんですけど、それがもう本当に美味しいんです」"
+translation = "「사란 선배, 요즘 옛날 마계 요리 연구에 푹 빠져 계셔서 몇 번 시제품을 얻어먹었는데, 그게 정말 맛있거든요」"
+
+[[dialogue]]
+speaker_original = "イクシリオン"
+speaker_translation = "익실리온"
+original = "「この前食べさせていただいたケーキも絶品でしたね。不思議な香りで、食欲をそそるんですよ。あれは初めての衝撃でした」"
+translation = "「요전에 얻어먹었던 케이크도 절품이었죠. 신기한 향이라 식욕을 돋우더라고요. 그건 처음 느껴본 충격이었어요」"
+
+[[dialogue]]
+speaker = "unk"
+original = "（そんなに美味しいなら食べてみたかった……）"
+translation = "(그렇게 맛있다면 먹어보고 싶었는데……)"
+
+[[dialogue]]
+speaker_original = "サラン"
+speaker_translation = "사란"
+original = "「完成したら、カフェテリアのメニューにも追加されるよ～。いつでも食べられるようになるから安心してね～」"
+translation = "「완성되면 카페테리아 메뉴에도 추가될 거야~. 언제든 먹을 수 있게 되니까 안심해~」"
+
+[[dialogue]]
+speaker = "unk"
+original = "どうやら顔に出ていたようだ。ちょっと恥ずかしい。"
+translation = "아무래도 얼굴에 드러난 모양이다. 조금 부끄럽다."
+
+[[dialogue]]
+speaker_original = "イクシリオン"
+speaker_translation = "익실리온"
+original = "「ところで、会長とカティアさんのおふたりが揃ったので聞いてみたいことがあるんですが、よろしいでしょうか？」"
+translation = "「그건 그렇고, 회장님과 카티아 씨 두 분이 모였으니 물어보고 싶은 게 있는데, 괜찮을까요?」"
+
+[[dialogue]]
+speaker_original = "カティア"
+speaker_translation = "카티아"
+original = "「うん。いいけど、なに？」"
+translation = "「응. 괜찮은데, 뭔데?」"
+
+[[dialogue]]
+speaker_original = "イクシリオン"
+speaker_translation = "익실리온"
+original = "「カティアさんは魔王……つまり会長の配下だそうですが」"
+translation = "「카티아 씨는 마왕…… 즉 회장님의 부하라고 들었습니다만」"
+
+[[dialogue]]
+speaker_original = "カティア"
+speaker_translation = "카티아"
+original = "「そうだよ。それがどうかした？」"
+translation = "「응, 맞아. 그게 왜?」"
+
+[[dialogue]]
+speaker_original = "イクシリオン"
+speaker_translation = "익실리온"
+original = "「実際、男女としてはどこまでいっていらっしゃるんでしょうか？」"
+translation = "「실제로, 남녀로서는 어디까지 가신 건가요?」"
+
+[[dialogue]]
+speaker_original = "カティア"
+speaker_translation = "카티아"
+original = "「ぶはっ！？\u3000なに言ってるのイクシー！？」"
+translation = "「푸핫!? 무슨 소릴 하는 거야 익시ー!?」"
+
+[[dialogue]]
+speaker_original = "イクシリオン"
+speaker_translation = "익실리온"
+original = "「え、違うんですか？\u3000てっきりそういうご関係かと……」"
+translation = "「에, 아닌가요? 틀림없이 그런 관계인 줄 알고……」"
+
+[[dialogue]]
+speaker_original = "サラン"
+speaker_translation = "사란"
+original = "「サランもそう思ってた～。会長ちゃんとカティアちゃん、お付き合いしてるんじゃないの～？」"
+translation = "「사란이도 그렇게 생각했어~. 회장님이랑 카티아 양, 사귀고 있는 거 아니야~?」"
+
+[[dialogue]]
+speaker_original = "カティア"
+speaker_translation = "카티아"
+original = "「サラン先輩まで！？\u3000そういうのじゃないですよ！」"
+translation = "「사란 선배까지!? 그런 거 아니에요!」"
+
+[[dialogue]]
+speaker_original = "サラン"
+speaker_translation = "사란"
+original = "「でもでも～、カティアちゃんは会長ちゃんが大好きなんだよね～？」"
+translation = "「하지만 하지만~, 카티아 양은 회장님을 너무너무 좋아하는 거지~?」"
+
+[[dialogue]]
+speaker_original = "カティア"
+speaker_translation = "카티아"
+original = "「それはもちろん……大好きですけど……でも、私が魔王様とお付き合いなんて畏れ多いですワン……」"
+translation = "「그건 당연히…… 너무 좋아하지만…… 하지만, 제가 마왕님과 사귄다니 황송하다 멍……」"
+
+[[dialogue]]
+speaker_original = "サラン"
+speaker_translation = "사란"
+original = "「そうなの～？\u3000じゃあ会長ちゃんは～？\u3000カティアちゃんのこと大好き～？」"
+translation = "「그래~? 그럼 회장님은~? 카티아 양을 너무너무 좋아해~?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "うん、大好き"
+translation = "응, 너무 좋아해"
+
+[[dialogue]]
+speaker_original = "カティア"
+speaker_translation = "카티아"
+original = "「ふええぇっ！？\u3000そうなんですか！？」"
+translation = "「후에에앍!? 정말인가요!?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "当たり前だ。そうでなければこんなに傍にいない。"
+translation = "당연하다. 그렇지 않다면 이렇게 곁에 있지 않는다."
+
+[[dialogue]]
+speaker_original = "サラン"
+speaker_translation = "사란"
+original = "「だって～、カティアちゃん？」"
+translation = "「거 봐~, 카티아 양?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "カティアとははっきり恋人とは言ってないけど、なんだかんだずっと一緒にいる。気持ちは伝わっていると思ったけど、そうじゃなかったみたいだ。"
+translation = "카티아와 명확하게 연인이라고 말한 적은 없지만, 어찌어찌 계속 함께 있었다. 마음은 전해졌다고 생각했는데, 아닌 모양이었다."
+
+[[dialogue]]
+speaker_original = "カティア"
+speaker_translation = "카티아"
+original = "「えっと、えっと……私たち、両想いなんですよね……？」"
+translation = "「저기, 저기…… 우리, 서로 좋아하는 사이인 거죠……?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "そうみたい"
+translation = "그런 것 같아"
+
+[[dialogue]]
+speaker_original = "カティア"
+speaker_translation = "카티아"
+original = "「じゃ、じゃあ……これからは、恋人兼配下として、今後ともよろしくお願いします…………ワン」"
+translation = "「그, 그럼…… 앞으로는, 연인 겸 부하로서, 잘 부탁드립니다…………멍」"
+
+[[dialogue]]
+speaker = "unk"
+original = "こちらこそ、よろしく"
+translation = "나야말로 잘 부탁해"
+
+[[dialogue]]
+speaker_original = "イクシリオン"
+speaker_translation = "익실리온"
+original = "「カティアさん、おめでとうございます！」"
+translation = "「카티아 씨, 축하해요!」"
+
+[[dialogue]]
+speaker_original = "サラン"
+speaker_translation = "사란"
+original = "「ウェディングケーキは任せてね～。腕によりをかけて作るから～」"
+translation = "「웨딩케이크는 맡겨줘~. 팔한번 걷어붙이고 만들 테니까~」"
+
+[[dialogue]]
+speaker_original = "カティア"
+speaker_translation = "카티아"
+original = "「サラン先輩、気が早いですよ！？」"
+translation = "「사란 선배, 성급해요!?」"
+
+[[dialogue]]
+speaker_original = "イクシリオン"
+speaker_translation = "익실리온"
+original = "「ハッ……恋人兼配下ということは、逆らえないのをいいことにエッチな命令をされたり、逆に身も心も屈服してエッチなおねだりしたり……っ！」"
+translation = ""
+
+[[dialogue]]
+speaker_original = "カティア"
+speaker_translation = "카티아"
+original = "「……イクシー、キモい」"
+translation = "「……익시, 기분 나빠」"
+
+[[dialogue]]
+speaker_original = "イクシリオン"
+speaker_translation = "익실리온"
+original = "「すみません、大変失礼しましたぁ！」"
+translation = "「죄송합니다, 대단히 실례했습니다아!」"
+
+[[dialogue]]
+speaker_original = "カティア"
+speaker_translation = "카티아"
+original = "「失礼どころじゃないって！\u3000まったく……イクシーって本当にむっつりドスケベなんだって実感したよ……」"
+translation = "「실례 정도가 아니라고! 정말…… 익시가 진짜 숨은 변태 도스케베라는 걸 실감했어……」"
+
+[[dialogue]]
+speaker_original = "イクシリオン"
+speaker_translation = "익실리온"
+original = "「はい。それはもう」"
+translation = "「네. 그야 물론이죠」"
+
+[[dialogue]]
+speaker_original = "カティア"
+speaker_translation = "카티아"
+original = "「なんでドヤ顔！？」"
+translation = "「왜 당당한 표정인데!?」"
+
+[[dialogue]]
+speaker_original = "イクシリオン"
+speaker_translation = "익실리온"
+original = "「嘘偽りない自分自身を晒すことでしか得られないものがあると、他でもないカティアさんから学びましたから！」"
+translation = "「거짓 없는 자기 자신을 드러내야만 얻을 수 있는 것이 있다고, 다른 누구도 아닌 카티아 씨에게 배웠으니까요!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "何かあったの……？"
+translation = "무슨 일 있었어……?"
+
+[[dialogue]]
+speaker_original = "カティア"
+speaker_translation = "카티아"
+original = "「私まで変態に誤解されるから、その言い方やめて！\u3000違うんですよ魔王様～！！」"
+translation = "「나까지 변태로 오해받으니까 그런 식 표현 그만둬! 아니라고요 마왕님～!!」"
+
+[[dialogue]]
+speaker_original = "サラン"
+speaker_translation = "사란"
+original = "「カティアちゃんとイクシーちゃんはとっても仲良しだね～♪」"
+translation = "「카티아 양이랑 익시 양은 사이가 정말 좋네～♪」"
+
+[[dialogue]]
+speaker_original = "カティア"
+speaker_translation = "카티아"
+original = "「違わないけど違うんです～！\u3000こんな変態と一緒にしないでくださ～い！」"
+translation = "「아니지 않지만 다르단 말이에요～! 이런 변태랑 같이 취급하지 말아 주세요～!」"
+
+[[dialogue]]
+speaker_original = "イクシリオン"
+speaker_translation = "익실리온"
+original = "「はぁ、はぁ……もっと言ってくださいぃ……」"
+translation = "「하아, 하아…… 더 말해주세요오……」"
+
+[[dialogue]]
+speaker_original = "カティア"
+speaker_translation = "카티아"
+original = "「もぉ～！\u3000イクシーのバカ～！！」"
+translation = "「정말～! 익시 바보～!!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "放課後、カティアと時間を合わせて下校する。前は寮に送ると理由を付けていたけど、今はただの習慣になっていた。"
+translation = "방과 후, 카티아와 시간을 맞춰 하교한다. 전에는 기숙사까지 바래다준다는 구실을 댔지만, 지금은 그저 습관이 되어 있었다."
+
+[[dialogue]]
+speaker_original = "カティア"
+speaker_translation = "카티아"
+original = "「魔王様、えっと、その……」"
+translation = "「마왕님, 저기, 그……」"
+
+[[dialogue]]
+speaker = "unk"
+original = "カティア、好きだよ"
+translation = "카티아, 좋아해"
+
+[[dialogue]]
+speaker_original = "カティア"
+speaker_translation = "카티아"
+original = "「っ！」"
+translation = "「읏!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "さっきは話の流れで少し適当になってしまったから、改めて口にする。"
+translation = "아까는 대화 흐름상 조금 적당히 넘어가 버렸기에, 다시 한번 입으로 전한다."
+
+[[dialogue]]
+speaker = "unk"
+original = "逆に、あんな流れでもないと気持ちを表せなかったかもしれないけど。"
+translation = "반대로, 그런 흐름이라도 아니었으면 마음을 표현하지 못했을지도 모르지만."
+
+[[dialogue]]
+speaker_original = "カティア"
+speaker_translation = "카티아"
+original = "「えへへ、私も好きですっ！」"
+translation = "「에헤헤, 저도 좋아해요!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "そう言って、俺の差し出した手を握るカティア。この温かい手を、一生忘れないと思う。"
+translation = "그렇게 말하며, 내가 내민 손을 잡는 카티아. 이 따뜻한 손을, 평생 잊지 못할 것 같다."
+

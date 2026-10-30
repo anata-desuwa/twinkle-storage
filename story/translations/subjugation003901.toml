@@ -6,7 +6,7 @@ translation = "어느 날 방과 후."
 [[dialogue]]
 speaker = "unk"
 original = "俺が星徒会室で書類仕事を片付けていると――"
-translation = "내가 성도회실에서 서류 일을 처리하고 있으려니――"
+translation = "내가 성도회실에서 서류 작업을 처리하고 있자――"
 
 [[dialogue]]
 speaker_original = "ヘレナ"
@@ -18,17 +18,17 @@ translation = "「실례하겠다, 마왕이여」"
 speaker_original = "ヨミ"
 speaker_translation = "요미"
 original = "「会長、お疲れ様です」"
-translation = "「회장님, 수고 많으십니다」"
+translation = "「회장님, 수고하셨습니다」"
 
 [[dialogue]]
 speaker = "unk"
 original = "２人共、今日はどうしたんですか？"
-translation = "두 사람 다, 오늘은 무슨 일이에요?"
+translation = "두 사람 다 오늘 무슨 일이에요?"
 
 [[dialogue]]
 speaker = "unk"
 original = "ヘレナちゃんにヨミヨミ"
-translation = "헬레나 찬에 요미요미"
+translation = "헬레나짱에 요미요미"
 
 [[dialogue]]
 speaker_original = "ヨミ"
@@ -46,13 +46,13 @@ translation = "「사실은 말이다. 요미요미의 새로운 인공 전투�
 speaker_original = "ヨミ"
 speaker_translation = "요미"
 original = "「ご当主様まで！\u3000いつも言っているのに、もうっ……！」"
-translation = "「당주님까지! 항상 말씀드리는데, 정말……!」"
+translation = "「당주님까지! 항상 말씀드리는데 정말……!」"
 
 [[dialogue]]
 speaker_original = "ヘレナ"
 speaker_translation = "헬레나"
 original = "「ふふっ。よいではないか。呼び捨てよりも、愛称の方が親しみも込めやすいというものだ」"
-translation = "「후후. 좋지 않으냐. 이름만 부르는 것보다, 애칭이 친근감도 담기 쉬운 법이다」"
+translation = "「후훗. 좋을지 않느냐. 이름만 부르는 것보다 애칭 쪽이 친근감도 담기 쉬운 법이다」"
 
 [[dialogue]]
 speaker_original = "ヨミ"
@@ -69,7 +69,7 @@ translation = "그래서, 새로운 전투복이라는 건?"
 speaker_original = "ヘレナ"
 speaker_translation = "헬레나"
 original = "「ふっふっふっ♪\u3000アニマ、アナ、そしてトレジアンナに依頼して作らせた、最新式だぞ」"
-translation = "「후후후♪ 아니마, 아나, 그리고 트레지안나에게 의뢰해서 만들게 한, 최신식이다」"
+translation = "「훠훠훠♪ 아니마, 아나, 그리고 트레지안나에게 의뢰하여 만들게 한 최신식이다」"
 
 [[dialogue]]
 speaker_original = "ヘレナ"
@@ -87,19 +87,19 @@ translation = "「네. 그렇다면――」"
 speaker_original = "ヨミ"
 speaker_translation = "요미"
 original = "「――これが、ご当主様に新しく作って頂いた『エクスノヴァフォーム』です！」"
-translation = "「――이것이, 당주님께서 새로 만들어 주신 『엑스 노바 폼』입니다!」"
+translation = "「――이것이, 당주님께서 새로 만들어 주신 『엑스노바 폼』입니다!」"
 
 [[dialogue]]
 speaker_original = "ヘレナ"
 speaker_translation = "헬레나"
 original = "「ネーゼマイン用に製作したものから更にアップデートした、ヨミ専用の『人工覚醒戦闘服』だ！」"
-translation = "「네제마인용으로 제작한 것에서 더욱 업데이트한, 요미 전용 『인공 각성 전투복』이다!」"
+translation = "「네제마인용으로 제작한 것에서 더욱 업데이트한, 요미 전용의 『인공 각성 전투복』이다!」"
 
 [[dialogue]]
 speaker_original = "ヘレナ"
 speaker_translation = "헬레나"
 original = "「ヨミヨミは、初の人工戦闘服である『クリスマスフォーム』の運用において、多くの貴重なデータを与えてくれたからな」"
-translation = "「요미요미는, 첫 인공 전투복인 『크리스마스 폼』 운용에 있어서, 많은 귀중한 데이터를 제공해 주었으니까 말이다」"
+translation = "「요미요미는 첫 인공 전투복인 『크리스마스 폼』 운용에 있어서, 많은 귀중한 데이터를 주었으니까 말이지」"
 
 [[dialogue]]
 speaker_original = "ヘレナ"
@@ -117,7 +117,7 @@ translation = "「부탁받은 이상, 폭렬 열심히 하겠습니다!」"
 speaker_original = "ヘレナ"
 speaker_translation = "헬레나"
 original = "「今回も起動には、ネーゼマインの時と同じく『アルケインノヴァエクストリーム』が必要となる」"
-translation = "「이번에도 기동에는, 네제마인 때와 마찬가지로 『알케인 노바 엑스트림』이 필요하다」"
+translation = "「이번에도 기동에는 네제마인 때와 마찬가지로 『아르케인 노바 익스트림』이 필요하다」"
 
 [[dialogue]]
 speaker_original = "ヘレナ"
@@ -134,7 +134,7 @@ translation = "「회장님, 잘 부탁드립니다!」"
 [[dialogue]]
 speaker = "unk"
 original = "――アルケインノヴァエクストリーム！"
-translation = "――알케인 노바 익스트림!"
+translation = "――아르케인 노바 익스트림!"
 
 [[dialogue]]
 speaker = "unk"
@@ -151,37 +151,37 @@ translation = "「…………」"
 speaker_original = "ヨミ"
 speaker_translation = "요미"
 original = "「……こや？」"
-translation = "「……고요?」"
+translation = "「……어라?」"
 
 [[dialogue]]
 speaker_original = "ヨミ"
 speaker_translation = "요미"
 original = "「な、何も起きない……？」"
-translation = "「아, 아무것도 안 일어나……?」"
+translation = "「아, 아무것도 안 일어난다……?」"
 
 [[dialogue]]
 speaker_original = "ヘレナ"
 speaker_translation = "헬레나"
 original = "「うむ、ズバリ不発であるな」"
-translation = "「음, 불발이 확실하군」"
+translation = "「음, 그야말로 불발이군」"
 
 [[dialogue]]
 speaker_original = "ヨミ"
 speaker_translation = "요미"
 original = "「えっ」"
-translation = ""
+translation = "「에」"
 
 [[dialogue]]
 speaker_original = "ヘレナ"
 speaker_translation = "헬레나"
 original = "「まあ、我が魂の囁きから、そうなる予感はしていた」"
-translation = "「뭐, 내 영혼의 속삭임으로 그렇게 될 예감은 하고 있었다」"
+translation = "「뭐, 내 영혼의 속삭임으로 보아 그렇게 될 예감은 들었다」"
 
 [[dialogue]]
 speaker_original = "ヨミ"
 speaker_translation = "요미"
 original = "「えぇっ！？」"
-translation = "「에에윽!?」"
+translation = "「에엑!?」"
 
 [[dialogue]]
 speaker_original = "ヨミ"
@@ -193,24 +193,24 @@ translation = "「그럼 저는 아직 이 전투복을 쓸 수 없다는 건가
 speaker_original = "ヨミ"
 speaker_translation = "요미"
 original = "「ご当主様、なんで教えてくれなかったんですかぁ～！？」"
-translation = "「당주님, 왜 안 알려주신 건가요오～!?」"
+translation = "「당주님, 왜 안 알려주신 건가요~!?」"
 
 [[dialogue]]
 speaker = "unk"
 original = "俺もまた、アルケインコード発動の兆しを示す『心の輝き』が見えなかったため、なんとなくそんな気はしていた。"
-translation = "나 역시 알케인 코드 발동의 징조를 나타내는 『마음의 빛』이 보이지 않았기 때문에, 어렴풋이 그럴 것 같은 기분은 들었다."
+translation = "나 역시 아르케인 코드 발동의 징조를 나타내는 『마음의 빛』이 보이지 않았기에, 왠지 그럴 것 같은 기분은 들었다."
 
 [[dialogue]]
 speaker_original = "ヘレナ"
 speaker_translation = "헬레나"
 original = "「現状、ノヴァフォーム覚醒に必要な要素は３つあると分析されている」"
-translation = "「현상황에서 노바 폼 각성에 필요한 요소는 3가지가 있다고 분석되어 있지」"
+translation = "「현상황에서 노바 폼 각성에 필요한 요소는 3가지가 있다고 분석되고 있다」"
 
 [[dialogue]]
 speaker_original = "ヘレナ"
 speaker_translation = "헬레나"
 original = "「『本人の類まれな才能』、『心理的ブレイクスルー』、そして『魔王との絆』だ」"
-translation = "「『본인의 남다른 재능』, 『심리적 브레이크스루』, 그리고 『마왕과의 인연』이다」"
+translation = "「『본인의 뛰어난 재능』, 『심리적 브레이크스루』, 그리고 『마왕과의 인연』이다」"
 
 [[dialogue]]
 speaker_original = "ヘレナ"
@@ -222,18 +222,18 @@ translation = "「요미요미의 경우, 마왕과의 인연에 대해서는 �
 speaker_original = "ヨミ"
 speaker_translation = "요미"
 original = "「こ、こややっ」"
-translation = "「고, 고요얏」"
+translation = "「어, 어라라」"
 
 [[dialogue]]
 speaker = "unk"
 original = "照れたように尻尾を左右へ揺らしながら、ヨミはちらりとこちらへ視線を向けてくる。"
-translation = "부끄러운 듯 꼬리를 좌우로 흔들며, 요미는 슬쩍 이쪽으로 시선을 보낸다."
+translation = "수줍은 듯 꼬리를 좌우로 흔들며, 요미는 슬쩍 이쪽으로 시선을 보낸다."
 
 [[dialogue]]
 speaker_original = "ヘレナ"
 speaker_translation = "헬레나"
 original = "「『才能』については、不足する部分を補い、さらなる高みへ押し上げることこそがエクスノヴァフォームの役割だ」"
-translation = "「『재능』에 대해서는 부족한 부분을 보완하고 더욱 높은 곳으로 끌어올리는 것이야말로 익스노바 폼의 역할이다」"
+translation = "「『재능』에 대해서는 부족한 부분을 보완하고 더욱 높은 곳으로 끌어올리는 것이야말로 엑스노바 폼의 역할이다」"
 
 [[dialogue]]
 speaker_original = "ヘレナ"
@@ -245,7 +245,7 @@ translation = "「즉, 남은 문제는 앞으로 하나――」"
 speaker_original = "ヘレナ"
 speaker_translation = "헬레나"
 original = "「ヨミヨミには、アルケインコードによる覚醒に必要な『心理的ブレイクスルー』がまだ足りていないのである！」"
-translation = "「요미요미에게는 알케인 코드에 의한 각성에 필요한 『심리적 브레이크스루』가 아직 부족한 것이다!」"
+translation = "「요미요미에게는 아르케인 코드에 의한 각성에 필요한 『심리적 브레이크스루』가 아직 부족한 것이다!」"
 
 [[dialogue]]
 speaker_original = "ヨミ"
@@ -257,25 +257,25 @@ translation = "「……!」"
 speaker_original = "ヨミ"
 speaker_translation = "요미"
 original = "「つまり、今の私に必要なのは精神的な成長……」"
-translation = "「즉, 지금의 나에게 필요한 건 정신적인 성장……」"
+translation = "「즉, 지금의 제게 필요한 것은 정신적인 성장……」"
 
 [[dialogue]]
 speaker_original = "ヘレナ"
 speaker_translation = "헬레나"
 original = "「ああ。そのための秘策については、ちゃんと考えてある」"
-translation = "「아아. 그것을 위한 비책에 대해서는 제대로 생각해 두었다」"
+translation = "「아아. 그를 위한 비책에 대해서는 잘 생각해 두었다」"
 
 [[dialogue]]
 speaker_original = "ヘレナ"
 speaker_translation = "헬레나"
 original = "「――と、その話は後にするとしよう」"
-translation = "「――라는 이야기는 나중에 하도록 하지」"
+translation = "「――라고, 그 이야기는 나중에 하도록 하지」"
 
 [[dialogue]]
 speaker_original = "ヘレナ"
 speaker_translation = "헬레나"
 original = "「今日の用件はもう１つ。魔王に紹介したい者がいてな」"
-translation = "「오늘 볼일은 하나 더 있다. 마왕에게 소개하고 싶은 자가 있어서 말이지」"
+translation = "「오늘의 용건은 하나 더 있다. 마왕에게 소개하고 싶은 자가 있어서 말이지」"
 
 [[dialogue]]
 speaker = "unk"
@@ -286,36 +286,36 @@ translation = "소개하고 싶은 사람……?"
 speaker_original = "ヨミ"
 speaker_translation = "요미"
 original = "「そうでした！\u3000本日は私の新しい戦闘服を見てもらうほかに――」"
-translation = "「맞았습니다! 오늘은 저의 새로운 전투복을 보여드리는 것 외에――」"
+translation = "「맞다, 그랬죠! 오늘은 제 새로운 전투복을 보여드리는 것 말고도――」"
 
 [[dialogue]]
 speaker_original = "ヨミ"
 speaker_translation = "요미"
 original = "「『九浄家メイド隊』に新しく加わる新人さんを紹介しに来たんです！」"
-translation = "「『쿠죠 가 메이드대』에 새로 합류한 신입분을 소개하러 온 거에요!」"
+translation = "「『쿠죠가 메이드대』에 새로 들어온 신입분을 소개하러 온 거였어요!」"
 
 [[dialogue]]
 speaker_original = "ヘレナ"
 speaker_translation = "헬레나"
 original = "「待たせたな。もう中に入って来てもよいぞ」"
-translation = "「기다리게 했군. 이제 안으로 들어와도 좋다」"
+translation = "「기다리게 했군. 이제 들어와도 좋다」"
 
 [[dialogue]]
 speaker = "unk"
 original = "ヘレナちゃんが星徒会室の入口へ向かって声をかける。"
-translation = "헬레나 양이 성도회실 입구를 향해 목소리를 높인다."
+translation = "헬레나짱이 성도회실 입구를 향해 목소리를 낸다."
 
 [[dialogue]]
 speaker_original = "？？？"
 speaker_translation = "？？？"
 original = "「はいっ、失礼するのです♪」"
-translation = "「네, 실례하겠습니다♪」"
+translation = "「네, 실례하는 것인 거냐♪」"
 
 [[dialogue]]
 speaker_original = "？？？"
 speaker_translation = "？？？"
 original = "「魔王様、初めましてなのです！\u3000ちょっと前に九浄家メイド隊に入れてもらって、附属校にも３年生として転入させてもらったであります♪」"
-translation = "「마왕님, 처음 뵙겠습니다! 얼마 전에 쿠죠 가 메이드대에 들어왔고, 부속교에도 3학년으로 전학 오게 되었습니다♪」"
+translation = "「마왕님, 처음 뵙는 것인 거냐! 조금 전에 쿠죠가 메이드대에 들어왔고, 부속교에도 3학년으로 전학 온 것인 거냐♪」"
 
 [[dialogue]]
 speaker_original = "狛里"
@@ -331,5 +331,5 @@ translation = "개 귀와 꼬리를 흔드는 수인 마족 소녀."
 [[dialogue]]
 speaker = "unk"
 original = "彼女は人懐っこい明るい笑顔を浮かべて、挨拶するのだった。"
-translation = "그녀는 싹싹하고 밝은 미소를 지으며 인사하는 것이었다."
+translation = "그녀는 싹싹하고 밝은 미소를 지으며 인사를 하는 것이었다."
 

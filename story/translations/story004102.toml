@@ -1,0 +1,237 @@
+[[dialogue]]
+speaker_original = "シャルレーヌ"
+speaker_translation = "샤를렌"
+original = "「『千年に一度の英雄』ウィステリアさんに、謎の転入生と噂のリィベル先輩じゃないですか。お近づきになれて光栄です」"
+translation = "「『천 년에 한 번 나올 영웅』 위스테리아 씨에, 수수께끼의 전학생이라 소문난 리벨 선배 아닌가요. 가까워질 수 있어서 영광이에요」"
+
+[[dialogue]]
+speaker_original = "ウィステリア"
+speaker_translation = "위스테리아"
+original = "「うっ……またそのあだ名……」"
+translation = "「윽…… 또 그 별명……」"
+
+[[dialogue]]
+speaker_original = "リィベル"
+speaker_translation = "리벨"
+original = "「謎の転入生ってなに？」"
+translation = "「수수께끼의 전학생이라니 뭐야?」"
+
+[[dialogue]]
+speaker_original = "シャルレーヌ"
+speaker_translation = "샤를렌"
+original = "「竜の魔族は希少ですから、流星学園や附属の魔族の間で噂になっているんです。竜の魔族、しかもとても神秘的な女の子が突然現れたって」"
+translation = "「용의 마족은 희귀하니까, 유성학원이나 부속 마족들 사이에서 소문이 자자하다고요. 용의 마족, 게다가 매우 신비로운 여자아이가 갑자기 나타났다고」"
+
+[[dialogue]]
+speaker_original = "リィベル"
+speaker_translation = "리벨"
+original = "「そう……」"
+translation = "「그래……」"
+
+[[dialogue]]
+speaker_original = "モネ"
+speaker_translation = "모네"
+original = "「ええと、シャルレーヌさんをお呼びした理由なんですけど……」"
+translation = "「저기, 샬레느 씨를 부른 이유 말입니다만……」"
+
+[[dialogue]]
+speaker = "unk"
+original = "モネは以前に深淵書庫で起きた事件と、書庫の現状と魔将について説明した。"
+translation = "모네는 이전에 심연서고에서 일어난 사건과, 서고의 현상황 및 마장에 대해 설명했다."
+
+[[dialogue]]
+speaker_original = "シャルレーヌ"
+speaker_translation = "샤를렌"
+original = "「なるほど……わかりました。私も現代に生きる魔族として、可能な限り協力させていただきます」"
+translation = "「그렇군요…… 알겠습니다. 저도 현대에 살아가는 마족으로서, 가능한 한 협력하겠습니다」"
+
+[[dialogue]]
+speaker_original = "シャルレーヌ"
+speaker_translation = "샤를렌"
+original = "「……くふ♪\u3000つまり私に魔将になれってことですよね♪」"
+translation = "「……쿠후♪ 즉 제게 마장이 되라는 뜻이죠♪」"
+
+[[dialogue]]
+speaker_original = "リィベル"
+speaker_translation = "리벨"
+original = "「それは魔本たち次第ね。……モネ、どうして彼女を連れてきたの？」"
+translation = "「그건 마도서들에게 달렸지. ……모네, 어째서 그녀를 데려온 거야?」"
+
+[[dialogue]]
+speaker_original = "モネ"
+speaker_translation = "모네"
+original = "「シャルレーヌさんはサキュバスの魔族だと聞きました。ならば『色欲』の魔本に適合できるのではと……」"
+translation = "「샤를렌 씨는 서큐버스 마족이라고 들었습니다. 그렇다면 『색욕』의 마서에 적합할 지도 모른다고……」"
+
+[[dialogue]]
+speaker_original = "シャルレーヌ"
+speaker_translation = "샤를렌"
+original = "「んー……確かにディアーブルはサキュバス、インキュバスの一族です。劣情を煽る術には長けていますが……それでいいなら、うちの一族はみんな魔将になってしまいますよ」"
+translation = "「음―…… 확실히 디아블은 서큐버스, 인큐버스 일족이에요. 열정을 부추기는 술법에는 능하지만…… 그걸로 됐따면 저희 일족은 전부 마장이 되어버려요」"
+
+[[dialogue]]
+speaker_original = "シャルレーヌ"
+speaker_translation = "샤를렌"
+original = "「話を聞く限り、魔将ってそういうものではないですよね？」"
+translation = "「이야기를 들은 바로는, 마장이란 그런 게 아니죠?」"
+
+[[dialogue]]
+speaker_original = "リィベル"
+speaker_translation = "리벨"
+original = "「そうね。あくまで魔本に適合するかどうかだけど、モネが傲慢、ウィステリアが怠惰の魔将になったように、一面的に決まるものではないわ」"
+translation = "「그래. 어디까지나 마서에 적합하느냐 아니냐지만, 모네가 오만, 위스테리아가 나태의 마장이 된 것처럼 일면적으로 정해지는 건 아니야」"
+
+[[dialogue]]
+speaker_original = "モネ"
+speaker_translation = "모네"
+original = "「そういえば……私も傲慢の魔本を貸し出されて、最初戸惑ったような……」"
+translation = "「그러고 보니…… 저도 오만의 마서를 빌려받고 처음에 당황했던 것 같은……」"
+
+[[dialogue]]
+speaker_original = "モネ"
+speaker_translation = "모네"
+original = "「すみません、シャルレーヌさん。先入観で声をかけてしまって」"
+translation = "「죄송해요, 샤를렌 씨. 선입견으로 말을 걸어서」"
+
+[[dialogue]]
+speaker_original = "シャルレーヌ"
+speaker_translation = "샤를렌"
+original = "「いえいえ、気にしていませんよ。それにお呼びいただいたこと自体は嬉しいです。頼りにされているということですから」"
+translation = "「아니에요, 신경 쓰지 않아요. 그리고 불러주신 것 자체는 기뻐요. 의지하고 계신다는 뜻이니까요」"
+
+[[dialogue]]
+speaker_original = "シャルレーヌ"
+speaker_translation = "샤를렌"
+original = "「何より、大きな力を手にする機会ですし……くふふ♪」"
+translation = "「무엇보다 큰 힘을 손에 넣을 기회이기도 하고…… 크후후♪」"
+
+[[dialogue]]
+speaker_original = "シャルレーヌ"
+speaker_translation = "샤를렌"
+original = "「私は『色欲』より『強欲』に興味があります。そちらが適合するか、見ていただけませんか？」"
+translation = "「저는 『색욕』보다 『강욕』에 관심이 있어요. 그쪽에 적합한지 봐주시지 않겠어요?」"
+
+[[dialogue]]
+speaker_original = "リィベル"
+speaker_translation = "리벨"
+original = "「いいわよ。出なさい」"
+translation = "「좋아. 나와라」"
+
+[[dialogue]]
+speaker = "unk"
+original = "リィベルがシャルレーヌの前で手をかざすと、また魔本が現れる。"
+translation = "리벨이 샤를렌의 앞에서 손을가리키자, 다시 마서가 나타난다."
+
+[[dialogue]]
+speaker_original = "リィベル"
+speaker_translation = "리벨"
+original = "「ふむ……確かに、『色欲』より『強欲』の方が反応が強いわね。魔将になるほどではないようだけど」"
+translation = "「흠…… 확실히 『색욕』보다 『강욕』 쪽이 반응이 강하네. 마장이 될 정도는 아닌 것 같지만」"
+
+[[dialogue]]
+speaker_original = "シャルレーヌ"
+speaker_translation = "샤를렌"
+original = "「そうですか、残念です。これからのことを考えると、強い力が欲しかったのですが」"
+translation = "「그런가요, 아쉽네요. 앞으로의 일을 생각하면 강한 힘을 원했습니다만」"
+
+[[dialogue]]
+speaker_original = "モネ"
+speaker_translation = "모네"
+original = "「これから、ですか？」"
+translation = "「앞으로, 말인가요?」"
+
+[[dialogue]]
+speaker_original = "シャルレーヌ"
+speaker_translation = "샤를렌"
+original = "「ええ。魔界のシャリオン地方のことはご存知ですか？」"
+translation = "「네. 마계의 샤리온 지방에 대해서는 알고 계신가요?」"
+
+[[dialogue]]
+speaker_original = "モネ"
+speaker_translation = "모네"
+original = "「はい。本で読んだことがあります。１０の大貴族が治める土地で、風情は人間界でいうと、中世ヨーロッパに近いとか」"
+translation = "「네. 책에서 읽은 적이 있어요. 10대 귀족이 다스리는 땅으로, 풍경은 인간계로 치면 중세 유럽에 가깝다든가」"
+
+[[dialogue]]
+speaker_original = "シャルレーヌ"
+speaker_translation = "샤를렌"
+original = "「さすがモネ先輩、博識ですね。我がディアーブル家もその十貴族の一角です」"
+translation = "「역시 모네 선배, 박식하시네요. 저희 디아블 가문도 그 십귀족 중 하나랍니다」"
+
+[[dialogue]]
+speaker_original = "シャルレーヌ"
+speaker_translation = "샤를렌"
+original = "「リクリエが落ち着いた以上、今まで水面下で行われていた貴族間の勢力争いが激しくなるでしょう。そのための用意として力を付けておきたいんです」"
+translation = "「리크리에가 진정된 이상, 지금까지 수면 밑에서 이뤄지던 귀족 간의 세력 싸움이 치열해지겠죠. 그걸 위한 준비로서 힘을 키워두고 싶어요」"
+
+[[dialogue]]
+speaker_original = "リィベル"
+speaker_translation = "리벨"
+original = "「魔将の力は、リクリエと戦うための力よ。権力争いなんかに使うものじゃないわ」"
+translation = "「마장의 힘은 리크리에와 싸우기 위한 힘이야. 권력 싸움 따위에 쓰는 게 아니라고」"
+
+[[dialogue]]
+speaker_original = "シャルレーヌ"
+speaker_translation = "샤를렌"
+original = "「ええ、承知しています。あくまで領地や領民を守るためですよ。くふふ♪」"
+translation = "「네, 알고 있어요. 어디까지나 영지와 영민을 지키기 위해서예요. 크후후♪」"
+
+[[dialogue]]
+speaker_original = "リィベル"
+speaker_translation = "리벨"
+original = "「本当かしら……？」"
+translation = "「정말일까……?」"
+
+[[dialogue]]
+speaker_original = "カティア"
+speaker_translation = "카티아"
+original = "（シャルレーヌ──様もリィベルと何か話してる……）"
+translation = "(샤를렌──님도 리벨과 무슨 이야기를 하고 있어……)"
+
+[[dialogue]]
+speaker_original = "カティア"
+speaker_translation = "카티아"
+original = "（まさか、シャルレーヌ様も魔将になるつもり？）"
+translation = "(설마 샤를렌 님도 마장이 될 셈인가?)"
+
+[[dialogue]]
+speaker_original = "カティア"
+speaker_translation = "카티아"
+original = "（うぅ～……附属生でもうプリマステラなのに、さらに魔将になるなんて、そんなのズルくない？\u3000シャルレーヌ様に魔将の力は渡さないぞ！）"
+translation = "(우으～…… 부속생인데 벌써 프리마스테라인데, 거기다 마장까지 된다니 그런 건 치사하잖아? 샤를렌 님에게 마장의 힘을 넘겨주지 않겠어!)"
+
+[[dialogue]]
+speaker_original = "シャルレーヌ"
+speaker_translation = "샤를렌"
+original = "「ところで、さっきから視線を感じませんか？」"
+translation = "「그건 그렇고, 아까부터 시선이 느껴지지 않나요?」"
+
+[[dialogue]]
+speaker_original = "カティア"
+speaker_translation = "카티아"
+original = "（うそっ、気付かれてた！？）"
+translation = "(거짓말, 눈치채였어!?)"
+
+[[dialogue]]
+speaker_original = "シャルレーヌ"
+speaker_translation = "샤를렌"
+original = "「ね、イクシリオン先輩？」"
+translation = "「저기, 익실리온 선배?」"
+
+[[dialogue]]
+speaker_original = "モネ"
+speaker_translation = "모네"
+original = "「イクシーさん！？」"
+translation = "「익시 씨!?」"
+
+[[dialogue]]
+speaker_original = "イクシリオン"
+speaker_translation = "익실리온"
+original = "「…………えっと、あのぉ……」"
+translation = "「…………저기, 그게……」"
+
+[[dialogue]]
+speaker = "unk"
+original = "シャルレーヌが視線の先。そこにいたのは、口をパクパクさせるイクシリオンだった。"
+translation = "샤를렌의 시선 끝. 거기에는 입을 뻐끔거리는 익실리온이 있었다."
+

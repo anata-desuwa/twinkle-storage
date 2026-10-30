@@ -1,0 +1,568 @@
+[[dialogue]]
+speaker_original = "カティア"
+speaker_translation = "카티아"
+original = "「これが魔将の力……っ！\u3000今ならどこまでも走れそう！！」"
+translation = "「이것이 마장의 힘……! 지금이라면 어디까지라도 달릴 수 있을 것 같아!!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "力を噛みしめるように、カティアが肉球グローブをぎゅっぎゅっと握る。"
+translation = "힘을 되새기듯, 카티아가 젤리패드 글러브를 꽉 꽉 쥐어본다."
+
+[[dialogue]]
+speaker_original = "サラン"
+speaker_translation = "사란"
+original = "「すごいすご～い♪\u3000カティアちゃんが魔将になっちゃった～♪」"
+translation = "「대단해 대단해～♪ 카티아짱이 마장이 되어버렸어～♪」"
+
+[[dialogue]]
+speaker_original = "イクシリオン"
+speaker_translation = "익실리온"
+original = "「元の戦闘服から露出こそ減りましたが、チラ見せするおへそがグッド！\u3000実にグッドです！」"
+translation = "「원래 전투복에서 노출이야 줄었습니다만, 살짝 보이는 배꼽이 굿! 참으로 굿입니다!」"
+
+[[dialogue]]
+speaker_original = "シャルレーヌ"
+speaker_translation = "샤를렌"
+original = "「どこから目線のレビューなんですか、それ……」"
+translation = "「어디서 나오는 관점의 리뷰인가요, 그거……」"
+
+[[dialogue]]
+speaker_original = "カティア"
+speaker_translation = "카티아"
+original = "「サラン先輩、お待たせしました！\u3000私も戦います！」"
+translation = "「사란 선배, 기다리셨습니다! 저도 싸우겠어요!」"
+
+[[dialogue]]
+speaker_original = "サラン"
+speaker_translation = "사란"
+original = "「うん、一緒にがんばろ～♪」"
+translation = "「응, 함께 힘내자～♪」"
+
+[[dialogue]]
+speaker_original = "モンスター"
+speaker_translation = "몬스터"
+original = "「ガアァァァァッ！！！」"
+translation = "「크아아아아앗!!!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "カティアの新たな力を脅威と感じたのか、モンスターがカティアに迫る。"
+translation = "카티아의 새로운 힘을 위협으로 느꼈는지, 몬스터가 카티아에게 육박한다."
+
+[[dialogue]]
+speaker = "unk"
+original = "だが──"
+translation = "하지만──"
+
+[[dialogue]]
+speaker_original = "カティア"
+speaker_translation = "카티아"
+original = "「遅い！」"
+translation = "「느려!」"
+
+[[dialogue]]
+speaker_original = "カティア"
+speaker_translation = "카티아"
+original = "「遅い遅ーい！\u3000モンスターが止まって見える！」"
+translation = "「느려 느려어! 몬스터가 멈춰서 보여!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "モンスターの攻撃を縫うようにかわすカティア。"
+translation = "몬스터의 공격을 요리조리 피해내는 카티아."
+
+[[dialogue]]
+speaker = "unk"
+original = "元より快速自慢の彼女だったが、魔将の力によって更なるスピードを獲得した。"
+translation = "원래부터 빠른 발을 자랑하던 그녀였으나, 마장의 힘에 의해 더욱더 높은 스피드를 얻었다."
+
+[[dialogue]]
+speaker = "unk"
+original = "そしてもちろん、得たのは早さだけではない。"
+translation = "그리고 물론, 얻은 것은 빠름뿐만이 아니다."
+
+[[dialogue]]
+speaker_original = "カティア"
+speaker_translation = "카티아"
+original = "「じゃあ今度はこっちから行くぞーっ！\u3000グリーディークロウ！」"
+translation = "「그럼 이번엔 이쪽에서 간다─앗! 그리디 크로우!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "魔力を伴った斬撃が、モンスターの胴体を深々と切り裂く。攻撃力も今までと段違いだ。"
+translation = "마력을 동반한 참격이 몬스터의 몸통을 깊숙이 베어가른다. 공격력도 지금까지와는 차원이 다르다."
+
+[[dialogue]]
+speaker_original = "カティア"
+speaker_translation = "카티아"
+original = "「まだまだぁーっ！！\u3000ポチ、ゴン！」"
+translation = "「아직 멀었다고─앗!! 포치, 공!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "カティアから鎖で繋がれた２頭の犬が宙を駆ける。魔将の力によって具現化した使い魔だ。"
+translation = "카티아로부터 사슬로 연결된 2마리의 개가 허공을 달린다. 마장의 힘으로 구현화된 사역마다."
+
+[[dialogue]]
+speaker_original = "カティア"
+speaker_translation = "카티아"
+original = "「せーの！\u3000トライヘッドバイト！」"
+translation = "「하나 둘! 트라이 헤드 바이트!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ポチとゴン、そしてカティア自身の両手。３つの<ruby>顎<rt>アギト</rt></ruby>がモンスターを同時に捉えた。断末魔を上げる隙すら与えず、モンスターを消滅させる。"
+translation = "포치와 공, 그리고 카티아 자신의 양손. 3개의 <ruby>턱<rt>아기토</rt></ruby>이 몬스터를 동시에 포착했다. 단말마를 지를 틈조차 주지 않고, 몬스터를 소멸시킨다."
+
+[[dialogue]]
+speaker_original = "イクシリオン"
+speaker_translation = "익실리온"
+original = "「凄まじい力です。瞬く間にモンスターを倒してしまいました！」"
+translation = "「무시무시한 힘입니다. 눈 깜짝할 사이에 몬스터를 쓰러뜨려 버렸습니다!」"
+
+[[dialogue]]
+speaker_original = "シャルレーヌ"
+speaker_translation = "샤를렌"
+original = "「でも瘴気をなんとかしないと……！」"
+translation = "「하지만 장기를 어떻게든 하지 않으면……!」"
+
+[[dialogue]]
+speaker_original = "カティア"
+speaker_translation = "카티아"
+original = "「大丈夫！\u3000種はまいたから！」"
+translation = "「괜찮아! 씨앗은 뿌려뒀으니까!」"
+
+[[dialogue]]
+speaker_original = "サラン"
+speaker_translation = "사란"
+original = "「たね～？」"
+translation = "「씨앗～?」"
+
+[[dialogue]]
+speaker_original = "モンスター"
+speaker_translation = "몬스터"
+original = "「ガァァ！！」"
+translation = "「크아아!!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "力では勝てないと判断したのか、モンスターが一斉に瘴気を吐き出した。"
+translation = "힘으로는 이길 수 없다고 판단했는지, 몬스터가 일제히 장기를 내뿜었다."
+
+[[dialogue]]
+speaker = "unk"
+original = "だが、もうカティアは動じない。"
+translation = "하지만, 이제 카티아는 동요하지 않는다."
+
+[[dialogue]]
+speaker_original = "カティア"
+speaker_translation = "카티아"
+original = "「もうお前たちには何ひとつくれてやらない！\u3000雑草一本だってやるもんか！」"
+translation = "「이제 너희에게는 단 하나도 줄 수 없어! 잡초 한 포기도 줄까 보냐!」"
+
+[[dialogue]]
+speaker_original = "カティア"
+speaker_translation = "카티아"
+original = "「さぁ、芽吹けぇーーーっ！！」"
+translation = "「자, 싹터라─────앗!!」"
+
+[[dialogue]]
+speaker_original = "シャルレーヌ"
+speaker_translation = "샤를렌"
+original = "「リクリエに侵食された土地から、花が咲いた……！？」"
+translation = "「리크리에에 침식당한 땅에서, 꽃이 피어났어……!?」"
+
+[[dialogue]]
+speaker_original = "イクシリオン"
+speaker_translation = "익실리온"
+original = "「それだけではありません。草花が瘴気を押し返しています！」"
+translation = "「그뿐만이 아닙니다. 풀과 꽃이 장기를 쳐내고 있습니다!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "リクリエによって変貌した大地が、カティアの花畑によって本来の法則を取り戻す。"
+translation = "리크리에에 의해 변모한 대지가 카티아의 꽃밭으로 인해 본래의 법칙을 되찾는다."
+
+[[dialogue]]
+speaker = "unk"
+original = "さらに、咲いた花は淡く光を帯びて、瘴気をはじき返した。"
+translation = "게다가 피어난 꽃은 은은하게 빛을 띠며, 장기를 튕겨냈다."
+
+[[dialogue]]
+speaker_original = "サラン"
+speaker_translation = "사란"
+original = "「んん～～♪\u3000いい香り～♪」"
+translation = "「음음～～♪ 좋은 향기～♪」"
+
+[[dialogue]]
+speaker = "unk"
+original = "不浄を優しく払う、花の香り。穏やかで、けれど確かに大地を染めていく。"
+translation = "부정을 부드럽게 털어내는 꽃의 향기. 온화하면서도 확실하게 대지를 물들여간다."
+
+[[dialogue]]
+speaker_original = "カティア"
+speaker_translation = "카티아"
+original = "「花が咲いたところは、もう私の領地だ！\u3000瘴気なんてもう効かない！\u3000魔王様の領地、返してもらうぞー！」"
+translation = "「꽃이 피어난 곳은 이제 나의 영지다! 장기 따위 더는 안 통해! 마왕님의 영지, 돌려받겠다ー!」"
+
+[[dialogue]]
+speaker_original = "カティア"
+speaker_translation = "카티아"
+original = "「あっ、その前に……ポチ、ゴン！」"
+translation = "「앗, 그전에…… 포치, 공!」"
+
+[[dialogue]]
+speaker_original = "ポチ"
+speaker_translation = "ポチ"
+original = "「ワン！」"
+translation = "「멍!」"
+
+[[dialogue]]
+speaker_original = "ゴン"
+speaker_translation = "ゴン"
+original = "「キャゥン！」"
+translation = "「낑!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ポチとゴンが器用に口を使って、カティアの領地から草を引っこ抜く。すると──"
+translation = "포치와 공이 영리하게 입을 사용해 카티아의 영지에서 풀을 뽑아낸다. 그러자──"
+
+[[dialogue]]
+speaker_original = "犬の使い魔"
+speaker_translation = "犬の使い魔"
+original = "「ワンワン！\u3000ワウゥ！」"
+translation = "「멍멍! 왈왈!」"
+
+[[dialogue]]
+speaker_original = "イクシリオン"
+speaker_translation = "익실리온"
+original = "「なんと！\u3000新しいワンちゃんが地中から現れました！」"
+translation = "「이럴 수가! 새로운 멍멍이가 땅속에서 나타났습니다!」"
+
+[[dialogue]]
+speaker_original = "シャルレーヌ"
+speaker_translation = "샤를렌"
+original = "「増えた犬がまた犬を収穫して……数がどんどん増えていくわ！」"
+translation = "「늘어난 개가 또 개를 수확해서…… 수가 점점 늘어나고 있어!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "最初は２頭だった使い魔犬もみるみる増殖し、あっという間に犬がひしめき合う。"
+translation = "처음에는 2마리였던 사역마 개도 순식간에 증식하여, 눈 깜짝할 사이에 개들로 득실거린다."
+
+[[dialogue]]
+speaker_original = "カティア"
+speaker_translation = "카티아"
+original = "「ふっふっふ、名付けてワンワンアーミー！\u3000どうだモンスターども！\u3000地獄の番犬の群れが怖いだろ～！」"
+translation = "「후후후, 이름하여 멍멍이 아미! 어떠냐 몬스터 놈들! 지옥의 파수꾼 개떼가 무섭지～!」"
+
+[[dialogue]]
+speaker_original = "サラン"
+speaker_translation = "사란"
+original = "「かわいい～～♪\u3000食べちゃいたいくら～い<emoji=heart04>」"
+translation = "「귀여워～～♪ 먹어버리고 싶을 정도야～<emoji=heart04>」"
+
+[[dialogue]]
+speaker_original = "カティア"
+speaker_translation = "카티아"
+original = "「かわいい！？\u3000こんなに強そうなのに！？\u3000あと食べないでー！」"
+translation = "「귀엽다니!? 이렇게 강해 보이는데!? 그리고 먹지 마ー!」"
+
+[[dialogue]]
+speaker_original = "イクシリオン"
+speaker_translation = "익실리온"
+original = "「私もとってもかわいいと思います！」"
+translation = "「저도 무척 귀엽다고 생각합니다!」"
+
+[[dialogue]]
+speaker_original = "シャルレーヌ"
+speaker_translation = "샤를렌"
+original = "「カティア先輩に似て、とってもお可愛らしいですよ～♪」"
+translation = "「카티아 선배를 닮아서 무척 귀여우시네요～♪」"
+
+[[dialogue]]
+speaker_original = "カティア"
+speaker_translation = "카티아"
+original = "「うぅ～、なら目にもの見せてやる！」"
+translation = "「으으～, 그럼 따끔한 맛을 보여주겠어!」"
+
+[[dialogue]]
+speaker_original = "カティア"
+speaker_translation = "카티아"
+original = "「征服の時間だ！\u3000いっけぇ～～、バウバンキッシュマーチ！」"
+translation = "「정복의 시간이다! 가라아～～, 바우 뱅키시 마치!」"
+
+[[dialogue]]
+speaker_original = "ワンちゃん"
+speaker_translation = "ワンちゃん"
+original = "「ワオオン！\u3000ワンワン！」"
+translation = "「아우우! 멍멍!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "カティアの号令に従い、使い魔犬の群れがモンスターに襲い掛かる。行進は種を撒き散らし、さらに草花を生い茂らせていく。"
+translation = "카티아의 구령에 따라, 사역마 개 무리가 몬스터에게 덤벼든다. 행진은 씨앗을 흩뿌리며 더욱더 풀과 꽃을 무성하게 피워낸다."
+
+[[dialogue]]
+speaker_original = "カティア"
+speaker_translation = "카티아"
+original = "「はーっはっはっは！\u3000もっともっと、私の領地にしてやるんだ！\u3000魔王様に献上だー！\u3000世界は私たちのものだー！」"
+translation = "「하ー하하하! 더욱더, 나의 영지로 만들어 주마! 마왕님께 헌상이다ー! 세계는 우리의 것이다ー!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "調子に乗って高笑いを上げるカティア。"
+translation = "신이 나서 고성방가를 지르는 카티아."
+
+[[dialogue]]
+speaker = "unk"
+original = "普段は小動物的な雰囲気さえあるが、これもまた彼女の本性だ。世界を自分で染める快楽に酔いしれている。"
+translation = "평소에는 소동물 같은 분위기마저 있지만, 이것 또한 그녀의 본성이다. 세계를 스스로 물들이는 쾌락에 취해 있다."
+
+[[dialogue]]
+speaker_original = "イクシリオン"
+speaker_translation = "익실리온"
+original = "（ああ……カティアさん、本当はこんな方だったのですね。心からイキイキしていて、羨ましい……）"
+translation = "（아아…… 카티아 님, 사실은 이런 분이셨군요. 진심으로 생기발랄하셔서 부러워……）"
+
+[[dialogue]]
+speaker_original = "イクシリオン"
+speaker_translation = "익실리온"
+original = "（私も、嘘偽りなく自分をさらけ出せたら…………）"
+translation = "（나도 거짓 없이 나를 드러낼 수 있다면…………）"
+
+[[dialogue]]
+speaker_original = "イクシリオン"
+speaker_translation = "익실리온"
+original = "（いえ、違います。今日がその日、今がその時なんです！）"
+translation = "（아니요, 틀려요. 오늘이 바로 그날, 지금이 바로 그때인 거예요!）"
+
+[[dialogue]]
+speaker_original = "イクシリオン"
+speaker_translation = "익실리온"
+original = "「みなさん、戦いながら聞いてください！」"
+translation = "「여러분, 싸우면서 들어주세요!」"
+
+[[dialogue]]
+speaker_original = "イクシリオン"
+speaker_translation = "익실리온"
+original = "「私は今まで、偽りの姿で生きてきました……。どこに出しても恥ずかしくない優等生とか、品行方正とか、憧れのプリマステラとかいろいろ言われておりますが……」"
+translation = "「저는 지금까지 거짓된 모습으로 살아왔습니다……. 어디에 내놓아도 부끄럽지 않은 우등생이라든가, 품행방정이라든가, 동경하는 프리마스테라라든가 여러 소리를 듣고 있습니다만……」"
+
+[[dialogue]]
+speaker_original = "イクシリオン"
+speaker_translation = "익실리온"
+original = "「私は、本当は、本当は────」"
+translation = "「저는, 사실은, 사실은────」"
+
+[[dialogue]]
+speaker_original = "イクシリオン"
+speaker_translation = "익실리온"
+original = "「むっっっつりドスケベなんです～～～～～～っ！！！」"
+translation = "「음~~~~~흉한 음란마귀라구요~~~~~~~앗!!!」"
+
+[[dialogue]]
+speaker_original = "サラン"
+speaker_translation = "사란"
+original = "「ぽよ～？」"
+translation = "「뽀요～?」"
+
+[[dialogue]]
+speaker_original = "カティア"
+speaker_translation = "카티아"
+original = "「はぁ！？」"
+translation = "「하아!?」"
+
+[[dialogue]]
+speaker_original = "シャルレーヌ"
+speaker_translation = "샤를렌"
+original = "「…………は？」"
+translation = "「…………하?」"
+
+[[dialogue]]
+speaker_original = "リィベル"
+speaker_translation = "리벨"
+original = "『何を言っているの、あなた……錯乱して──いいえ、あなたにとっては大事なことなのね。分かったわ。言ってみなさい』"
+translation = "『무슨 소리를 하는 거니, 너…… 착란해서── 아니, 너에게 있어서는 중요한 일이겠구나. 알겠다. 말해 보렴』"
+
+[[dialogue]]
+speaker_original = "イクシリオン"
+speaker_translation = "익실리온"
+original = "「はい！\u3000ありがとうございます！」"
+translation = "「네! 감사합니다!」"
+
+[[dialogue]]
+speaker_original = "イクシリオン"
+speaker_translation = "익실리온"
+original = "「……私は、天界で《命脈》のアルモタヘル様を祀る家系に生を受けました」"
+translation = "「……저는 천계에서 《명맥》의 알모타헬 님을 모시는 가문에서 태어났습니다」"
+
+[[dialogue]]
+speaker_original = "イクシリオン"
+speaker_translation = "익실리온"
+original = "「命脈とは、命から命へと受け継がれるもの。命の営みそのものです」"
+translation = "「명맥이란, 생명에서 생명으로 이어지는 것. 생명의 영위 그 자체입니다」"
+
+[[dialogue]]
+speaker_original = "イクシリオン"
+speaker_translation = "익실리온"
+original = "「人はもちろん、動物や虫、草木にいたるまで、それを紡いできたのです。はるかな昔から、ずっとずっとずっと……それらの行為を、私は神聖なものと教えられてきました」"
+translation = "「사람은 물론, 동물이나 벌레, 풀포기에 이르기까지, 그것을 이어왔던 거랍니다. 아득한 옛날부터, 줄곧 줄곧 줄곧…… 그런 행위를, 저는 신성한 것이라 배워왔습니다」"
+
+[[dialogue]]
+speaker_original = "イクシリオン"
+speaker_translation = "익실리온"
+original = "「ですが、ですが……っ！\u3000人間界に来た時、私は出会ってしまったんです──」"
+translation = "「하지만, 하지만……! 인간계에 왔을 때, 저는 만나고 만 거예요──」"
+
+[[dialogue]]
+speaker_original = "イクシリオン"
+speaker_translation = "익실리온"
+original = "「エッチな漫画に！！！」"
+translation = "「야한 만화에!!!」"
+
+[[dialogue]]
+speaker_original = "イクシリオン"
+speaker_translation = "익실리온"
+original = "「ああいえ、それが主題の漫画ではなかったのですが！\u3000ちょっと肌色が多いだけでちゃんとした恋愛漫画でしたが！」"
+translation = "「아아 아니, 그게 주제인 만화는 아니었지만요! 살색이 좀 많을 뿐인 제대로 된 연애 만화였습니다만!」"
+
+[[dialogue]]
+speaker_original = "イクシリオン"
+speaker_translation = "익실리온"
+original = "「でもそれが私には衝撃で……雷に打たれたかのような思いでした」"
+translation = "「하지만 그게 저에게는 충격이라…… 벼락이라도 맞은 것 같은 기분이었습니다」"
+
+[[dialogue]]
+speaker_original = "イクシリオン"
+speaker_translation = "익실리온"
+original = "「それから気が付けば、そんな描写のある漫画ばかり読んで、エッチなことをいつも考えるように…………」"
+translation = "「그러다 정신을 차려보니, 그런 묘사가 있는 만화만 읽고, 야한 생각을 언제나 하게 되어서…………」"
+
+[[dialogue]]
+speaker_original = "イクシリオン"
+speaker_translation = "익실리온"
+original = "「命の営みとは神聖なもの。それを娯楽として消費するなんて、悪いことだと思っていました。いえ、今もそうです。いけないことだと思っています」"
+translation = "「생명의 영위란 신성한 것. 그것을 오락으로서 소비하다니, 나쁜 일이라고 생각하고 있었습니다. 아니요, 지금도 그래요. 해서는 안 될 일이라고 생각하고 있습니다」"
+
+[[dialogue]]
+speaker_original = "イクシリオン"
+speaker_translation = "익실리온"
+original = "「それでも、この心を止めることはできません。たとえそれが悪だとしても……」"
+translation = "「그럼에도, 이 마음을 멈출 수는 없습니다. 설령 그것이 악이라 할지라도……」"
+
+[[dialogue]]
+speaker_original = "イクシリオン"
+speaker_translation = "익실리온"
+original = "「いえ、悪いからこそ気持ちいいこともあるのです！！\u3000むしろ背徳感が……イイ！！」"
+translation = "「아니요, 나쁘니까 비로소 기분 좋은 것도 있는 법이에요!! 오히려 배덕감이…… 좋아!!」"
+
+[[dialogue]]
+speaker_original = "イクシリオン"
+speaker_translation = "익실리온"
+original = "「魔将になりたかったのも、本当は過激でムフフな本を読みたかったからなのです。決して使命感とかではありません！」"
+translation = "「마장이 되고 싶었던 것도, 사실은 과격하고 므흣한 책을 읽고 싶었기 때문입니다. 결코 사명감 같은 게 아니에요!」"
+
+[[dialogue]]
+speaker_original = "イクシリオン"
+speaker_translation = "익실리온"
+original = "「カティアさんを見て思い知りました。自分に正直にならなければ、欲しいものなど手に入らないのだと！\u3000あと、おへそがベリーグッドですっ！」"
+translation = "「카티아 씨를 보고 깨달았습니다. 자신에게 정직해지지 않으면, 원하는 것 따위 손에 넣을 수 없다는 걸요! 그리고, 배꼽이 베리 굿입니다!」"
+
+[[dialogue]]
+speaker_original = "カティア"
+speaker_translation = "카티아"
+original = "「それさっき聞いた！\u3000何度も言わなくていいから！」"
+translation = "「그거 아까 들었어! 몇 번이고 말하지 않아도 되니까!」"
+
+[[dialogue]]
+speaker_original = "イクシリオン"
+speaker_translation = "익실리온"
+original = "「──！\u3000リィベルさんから預かった魔本が光っている……？」"
+translation = "「──! 리벨 씨에게 맡겨진 마도서가 빛나고 있어……?」"
+
+[[dialogue]]
+speaker_original = "リィベル"
+speaker_translation = "리벨"
+original = "『もう言うまでもないでしょう。魔本があなたを認めたの。後は手を伸ばすだけよ』"
+translation = "『이제 말할 필요도 없겠지. 마도서가 너를 인정한 거야. 남은 건 손을 뻗는 것뿐이야』"
+
+[[dialogue]]
+speaker_original = "イクシリオン"
+speaker_translation = "익실리온"
+original = "「はい！\u3000『色欲』の魔本よ……禁忌禁断のムフフをどうか私に授けて！」"
+translation = "「네! 『색욕』의 마도서여…… 금기금단의 므흣을 부디 저에게 주소서!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "イクシリオンが持つ魔本の光が強くなり、ピンク色の波動がイクシリオンを包む。"
+translation = "익실리온이 가진 마도서의 빛이 강해지며, 핑크색 파동이 익실리온을 감싼다."
+
+[[dialogue]]
+speaker_original = "イクシリオン"
+speaker_translation = "익실리온"
+original = "「ああ、覚えがあります……肌色が多い漫画を書店で見かけた時、手を伸ばしかけてやめたことを」"
+translation = "「아아, 기억이 납니다…… 살색이 많은 만화를 서점에서 발견했을 때, 손을 뻗으려다 그만둔 것을」"
+
+[[dialogue]]
+speaker_original = "イクシリオン"
+speaker_translation = "익실리온"
+original = "「きっと誰しも経験があるでしょう。『これ読んでるのバレたらエッチなやつだと思われるのでは』──と」"
+translation = "「분명 누구든 경험이 있겠지요. 『이거 읽는 거 걸리면 야한 녀석이라 생각되는 거 아닐까』──라고」"
+
+[[dialogue]]
+speaker_original = "イクシリオン"
+speaker_translation = "익실리온"
+original = "「そのせいでネットをよく利用するようになりました。でもこの手で直接取らなければ、手に入らないものもあるのです！」"
+translation = "「그 때문에 인터넷을 자주 이용하게 되었습니다. 하지만 이 손으로 직접 집지 않으면, 손에 넣을 수 없는 것도 있는 법입니다!」"
+
+[[dialogue]]
+speaker_original = "カティア"
+speaker_translation = "카티아"
+original = "「いやそんな経験誰も聞いてないから！」"
+translation = "「아니 그런 경험 아무도 안 물어봤거든!」"
+
+[[dialogue]]
+speaker_original = "イクシリオン"
+speaker_translation = "익실리온"
+original = "「申し訳ありません、アルモタヘル様、私は罪を背負って堕ちます。《命脈》を崇拝する私が愛欲に耽るなんて、あってはならないことだと理解していますが──」"
+translation = "「죄송합니다, 알모타헬 님, 저는 죄를 짊어지고 몰락하겠습니다. 《명맥》을 숭배하는 제가 애욕에 빠지다니, 있어선 안 될 일이라고 이해하고 있습니다만──」"
+
+[[dialogue]]
+speaker_original = "イクシリオン"
+speaker_translation = "익실리온"
+original = "「だからこそ気持ちイイですよね<emoji=heart04>」"
+translation = "「그렇기에 기분 좋은 거겠죠<emoji=heart04>」"
+
+[[dialogue]]
+speaker_original = "リィベル"
+speaker_translation = "리벨"
+original = "『対象者『イクシリオン・グレゴール』、適合罪科『色欲』。……魔本、貸出承認』"
+translation = "『대상자 『익실리온 그레고르』, 적합 죄과 『색욕』. ……마도서, 대여 승인』"
+
+[[dialogue]]
+speaker_original = "イクシリオン"
+speaker_translation = "익실리온"
+original = "「はうあ～～～～～～～～～っ<emoji=heart04>」"
+translation = "「하우아~~~~~~~~~앗<emoji=heart04>」"
+
+[[dialogue]]
+speaker_original = "イクシリオン（覚醒）"
+speaker_translation = "イクシリオン（覚醒）"
+original = "「イクシリオン・グレゴール、色欲の魔将を拝命いたしました！\u3000この力は生きとし生けるもの、その営みを守るために！」"
+translation = "「익실리온 그레고르, 색욕의 마장을 받들게 되었습니다! 이 힘은 살아있는 모든 것, 그 영위를 지키기 위해!」"
+
+[[dialogue]]
+speaker_original = "イクシリオン（覚醒）"
+speaker_translation = "イクシリオン（覚醒）"
+original = "「あぁっ<emoji=heart04>\u3000体が熱い……ああぁんっ<emoji=heart04>」"
+translation = "「아앗<emoji=heart04> 몸이 뜨거워…… 아아앙<emoji=heart04>」"
+
+[[dialogue]]
+speaker_original = "シャルレーヌ"
+speaker_translation = "샤를렌"
+original = "「…………変態だわ。変態がいるわ」"
+translation = "「…………변태야. 변태가 있어」"
+

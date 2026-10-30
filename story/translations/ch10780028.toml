@@ -6,12 +6,12 @@ translation = "트리파이나 씨와 연인 사이가 되고, 몸을 겹치게 
 [[dialogue]]
 speaker = "unk"
 original = "当初、トリュファイナさんは俺の部屋のベッドでしか、『そういうこと』をしたがらなかった。"
-translation = "당초, 트리파이나 씨는 내 방 침대에서만, 『그런 짓』을 하고 싶어 했다."
+translation = "처음에는, 트리파이나 씨는 내 방 침대에서만 『그런 짓』을 하고 싶어 했다."
 
 [[dialogue]]
 speaker = "unk"
 original = "彼女は見た目通りの、清楚で、貞淑で、常識的な魔女だから。"
-translation = "그녀는 겉보기대로의, 청초하고, 정숙하며, 상식적인 마녀니까."
+translation = "그녀는 보이는 그대로, 청순하고, 정숙하며, 상식적인 마녀니까."
 
 [[dialogue]]
 speaker = "unk"
@@ -21,71 +21,71 @@ translation = "하지만 교제를 계속함에 따라, 조금씩 그녀도 현�
 [[dialogue]]
 speaker = "unk"
 original = "俺のベッドだけでなく、浴室で。続いてラブホテル──様々な場所で営みを交わすようになった結果……"
-translation = "내 침대뿐만 아니라, 욕실에서. 이어서 러브호텔── 다양한 장소에서 관계를 맺게 된 결과……"
+translation = "내 침대뿐만 아니라, 욕실에서. 이어서 러브호텔──방방곡곡 여러 장소에서 관계를 맺게 된 결과……"
 
 [[dialogue]]
 speaker_original = "トリュファイナ"
 speaker_translation = "트류파이나"
 original = "「……魔王様。魔女トリュファイナ、参りました<emoji=heart04>」"
-translation = "「……마왕님. 마녀 트리파이나, 왔습니다<emoji=heart04>」"
+translation = "「……마왕님. 마녀 트리파이나, 찾아뵈었습니다<emoji=heart04>」"
 
 [[dialogue]]
 speaker = "unk"
 original = "──今はこうして、皆が帰った後の星徒会室なんかでも、こっそり逢うようになっていた。"
-translation = "──지금은 이렇게, 모두가 돌아간 뒤의 성도회실 같은 곳에서도, 몰래 만나게 되어 있었다."
+translation = "──지금은 이렇게, 모두가 돌아간 후의 성도회실 같은 곳에서도, 몰래 만나게 되었다."
 
 [[dialogue]]
 speaker_original = "トリュファイナ"
 speaker_translation = "트류파이나"
 original = "「な、何度経験しても、悪いことをしている気分です……神聖な星徒会室で、逢瀬を行うだなんて……」"
-translation = "「몇, 몇 번을 경험해도 나쁜 짓을 하는 기분이에요…… 신성한 성도회실에서 밀회를 즐기다니……」"
+translation = "「몇, 몇 번을 경험해도, 나쁜 짓을 하고 있는 기분이에요…… 신성한 성도회실에서, 밀회를 나누다니……」"
 
 [[dialogue]]
 speaker_original = "クロト"
 speaker_translation = "쿠로토"
 original = "「仕事がようやく終わって、トリュファイナさんに会いたくなっちゃって。大丈夫です、鍵はかけておきましたから」"
-translation = "「일이 드디어 끝나서 트리파이나 씨가 보고 싶어졌거든요. 괜찮아요, 문은 잠가 두었으니까요」"
+translation = "「일이 드디어 끝나서, 트리파이나 씨가 보고 싶어져 버렸어요. 괜찮아요, 문은 잠궈 두었으니까.」"
 
 [[dialogue]]
 speaker_original = "トリュファイナ"
 speaker_translation = "트류파이나"
 original = "「もう……魔王様ったら。求めていただけるのは嬉しいですが、さ、最近ちょっぴり、えっちすぎる気がいたしますよ……？」"
-translation = "「정말이지…… 마왕님도 참. 원해주시는 건 기쁘지만, 요, 요즘은 약간 너무 야하신 기분이 드는데요……?」"
+translation = "「참…… 마왕님도 원. 원해 주시는 것은 기쁩니다만, 요, 요즘 약간, 너무 야한 것 같은 기분이 드는데요……?」"
 
 [[dialogue]]
 speaker_original = "クロト"
 speaker_translation = "쿠로토"
 original = "「……自覚はあります。でも、来てくれて嬉しいです。トリュファイナさん」"
-translation = "「……자각은 있어요. 하지만 와주셔서 기뻐요, 트리파이나 씨」"
+translation = "「……자각은 있어요. 하지만, 와줘서 기뻐요. 트리파이나 씨.」"
 
 [[dialogue]]
 speaker_original = "トリュファイナ"
 speaker_translation = "트류파이나"
 original = "「他ならぬ魔王様のお願いですから。私が拒むなど、あり得ません……」"
-translation = "「다름 아닌 마왕님의 부탁이니까요. 제가 거절할 리가 없습니다……」"
+translation = "「다른 사람도 아닌 마왕님의 부탁이니까요. 제가 거절한다니, 있을 수 없습니다……」"
 
 [[dialogue]]
 speaker_original = "トリュファイナ"
 speaker_translation = "트류파이나"
 original = "「それで、今日はどのような行為をご所望ですか？\u3000私、な、何でもお聞きいたしますよ？」"
-translation = "「그래서, 오늘은 어떤 행위를 원하시나요? 저, 뭐, 무엇이든 들을게요?」"
+translation = "「그래서, 오늘은 어떤 행위를 원하시나요? 저, 무, 무엇이든 들을게요?」"
 
 [[dialogue]]
 speaker_original = "クロト"
 speaker_translation = "쿠로토"
 original = "「それ、いつも言いますよね……いいんですか。俺、しょっちゅう色んなことを頼んじゃってる気がしますけど」"
-translation = "「그거, 항상 말씀하시네요…… 괜찮겠어요? 저, 자주 여러 가지를 부탁하고 있는 기분인데요」"
+translation = "「그거, 항상 말하시네요…… 괜찮은가요. 저, 자주 여러 가지를 부탁하고 있는 것 같은데요.」"
 
 [[dialogue]]
 speaker_original = "トリュファイナ"
 speaker_translation = "트류파이나"
 original = "「魔王様のお望みを叶えることが、私の喜びですので。そ、それに……か、彼女ですからっ<emoji=heart04>」"
-translation = "「마왕님의 바람을 이루어 드리는 것이 저의 기쁨이니까요. 그, 그리고…… 여, 여자친구니까요<emoji=heart04>」"
+translation = "「마왕님의 바람을 이루어 드리는 것이, 저의 기쁨이니까요. 거기, 거기다가…… 여, 여자친구니까요<emoji=heart04>」"
 
 [[dialogue]]
 speaker = "unk"
 original = "この人は本当に、いじらしいことを言ってくれる。"
-translation = "이 사람은 정말이지 훔쳐보고 싶을 만큼 애틋한 말을 해준다."
+translation = "이 사람은 정말로, 가련한 말을 해준다."
 
 [[dialogue]]
 speaker_original = "クロト"
@@ -97,161 +97,161 @@ translation = "「그럼, 리퀘스트 해도 될까요?」"
 speaker_original = "トリュファイナ"
 speaker_translation = "트류파이나"
 original = "「はい！\u3000魔王様の、仰せのままに……<emoji=heart04>」"
-translation = "「네! 마왕님이 말씀하시는 대로……<emoji=heart04>」"
+translation = "「네! 마왕님이, 원하시는 대로……<emoji=heart04>」"
 
 [[dialogue]]
 speaker = "unk"
 original = "そうして、俺はトリュファイナさんにリクエストをした。"
-translation = "그렇게 나는 트리파이나 씨에게 리퀘스트를 했다."
+translation = "그렇게, 나는 트리파이나 씨에게 리퀘스트를 했다."
 
 [[dialogue]]
 speaker = "unk"
 original = "服装。体勢。彼女は全て、俺の言う通りにしてくれて──"
-translation = "복장. 자세. 그녀는 모든 것을 내가 말하는 대로 해주었고──"
+translation = "복장. 자세. 그녀는 모두, 내가 말하는 대로 해주었고──"
 
 [[dialogue]]
 speaker_original = "トリュファイナ"
 speaker_translation = "트류파이나"
 original = "「きょ、今日はちょっぴりはしたない格好なのですね……こ、こんな感じでよろしいでしょうか？」"
-translation = "「오, 오늘은 약간 노골적인 복장이군요…… 이, 이런 느낌이면 될까요?」"
+translation = "「오, 오늘은 조금 염치없는 복장이군요…… 이, 이런 느낌이면 될까요?」"
 
 [[dialogue]]
 speaker_original = "トリュファイナ"
 speaker_translation = "트류파이나"
 original = "「うぅ。少し抵抗があります……魔王様が執務を行う机に、脚を乗せるだなんて……」"
-translation = "「으으. 조금 거부감이 드네요…… 마왕님이 집무를 보시는 책상에 다리를 올리다니……」"
+translation = "「우으. 조금 저항감이 있어요…… 마왕님이 집무를 보시는 책상에, 다리를 올리다니……」"
 
 [[dialogue]]
 speaker = "unk"
 original = "和風バニーフォームに変身したのち、星徒会室の執務机の上で、四つん這いのがに股しゃがみ。"
-translation = "풍 바니폼으로 변신한 뒤, 성도회실 집무 책상 위에서 엎드린 채 다리를 벌리고 쪼그려 앉은 자세."
+translation = "일본풍 바니 폼으로 변신한 후, 성도회실 집무 책상 위에서, 엎드려 쩍벌 웅크리기."
 
 [[dialogue]]
 speaker = "unk"
 original = "その上で後背位で交わりたいという、あの『欲望』のダッチもびっくりのよくばりセットである。"
-translation = "그 상태에서 후배위로 교합하고 싶다는, 그 '욕망'의 더치도 놀랄 욕심쟁이 세트다."
+translation = "그 위에서 후배위로 관계를 맺고 싶다는, 그 『욕망』의 오나홀도 깜짝 놀랄 욕심쟁이 세트다."
 
 [[dialogue]]
 speaker_original = "クロト"
 speaker_translation = "쿠로토"
 original = "（トリュファイナさん、何でも言うことを聞いてくれるから調子に乗っちゃうんだよな……）"
-translation = "(트리파이나 씨, 무슨 말이든 다 들어주니까 우쭐해지는구나……)"
+translation = "(트리파이나 씨, 뭐든지 말하는 대로 들어주니까 신이 나버리는 거라니까……)"
 
 [[dialogue]]
 speaker_original = "トリュファイナ"
 speaker_translation = "트류파이나"
 original = "「この時代で、魔王様と番ってから、様々な体位を経験してきましたが……こ、このようなポーズは初めてです……<emoji=heart04>」"
-translation = "「이 시대에서 마왕님과 짝을 맺은 뒤로 다양한 체위를 경험해 왔습니다만…… 이, 이런 포즈는 처음이에요……<emoji=heart04>」"
+translation = "「이 시대에서, 마왕님과 짝을 짓고 나서, 다양한 체위를 경험해 왔습니다만…… 이, 이런 포즈는 처음이에요……<emoji=heart04>」"
 
 [[dialogue]]
 speaker_original = "クロト"
 speaker_translation = "쿠로토"
 original = "「お互いを信頼しあっている恋人ならみんな経験してます。現代では、とてもポピュラーな体位ですよ」"
-translation = "「서로를 신뢰하는 연인이라면 누구나 경험하는 거랍니다. 현대에서는 아주 보편적인 체위예요」"
+translation = "「서로를 신뢰하고 있는 연인이라면 모두 경험해요. 현대에서는, 매우 포퓰러한 체위라고요.」"
 
 [[dialogue]]
 speaker_original = "トリュファイナ"
 speaker_translation = "트류파이나"
 original = "「ほ、ほぇえ……<emoji=heart04>\u3000そうなのですね。勉強になります……<emoji=heart04>」"
-translation = "「하, 호에에……<emoji=heart04> 그렇군요. 공부가 됩니다……<emoji=heart04>」"
+translation = "「호, 홀……<emoji=heart04> 그렇군요. 공부가 됩니다……<emoji=heart04>」"
 
 [[dialogue]]
 speaker = "unk"
 original = "ああ……俺は本当に悪い奴だ。トリュファイナさんが何でも信じてくれるからって、こんなお下品なポーズまで取らせてしまった。"
-translation = "아아…… 나는 정말 나쁜 놈이다. 트리파이나 씨가 무엇이든 믿어준다고 해서 이런 음란한 포즈까지 취하게 만들다니."
+translation = "아아…… 나는 정말 나쁜 놈이다. 트리파이나 씨가 뭐든지 믿어주니까, 이런 저속한 포즈까지 취하게 만들다니."
 
 [[dialogue]]
 speaker = "unk"
 original = "現代の文化に対する誤解は後で解くとして──今は楽しませてもらおう。"
-translation = "현대 문화에 대한 오해는 나중에 풀기로 하고── 지금은 즐기도록 하자."
+translation = "현대 문화에 대한 오해는 나중에 풀기로 하고──지금은 즐기기로 하자."
 
 [[dialogue]]
 speaker_original = "トリュファイナ"
 speaker_translation = "트류파이나"
 original = "「うぅ……でも、な、慣れません……私のはしたないところ、全て見えてしまっているような……」"
-translation = "「으으…… 하지만 익, 익숙해지지 않아요…… 저의 음란한 부분이 전부 보여 버리는 듯한……」"
+translation = "「우으…… 하지만, 익, 익숙해지지 않아요…… 제 저속한 곳이, 전부 보여 버리는 듯한……」"
 
 [[dialogue]]
 speaker_original = "クロト"
 speaker_translation = "쿠로토"
 original = "「全部見えますよ。お尻の穴まで、丸見えです」"
-translation = "「전부 보여요. 엉덩이 구멍까지 훤히 보입니다」"
+translation = "「전부 보여요. 엉덩이 구멍까지, 잘 보여요.」"
 
 [[dialogue]]
 speaker_original = "トリュファイナ"
 speaker_translation = "트류파이나"
 original = "「～～～っ<emoji=heart04>\u3000は、はは、恥ずかしいです……あ、あまり見ないで……ください……<emoji=heart04>」"
-translation = "「~~~~<emoji=heart04> 부, 부끄러워요…… 너, 너무 보지 말아…… 주세요……<emoji=heart04>」"
+translation = "「~~~~쯧<emoji=heart04> 부, 부끄러워요…… 너, 너무 보지 말아…… 주세요……<emoji=heart04>」"
 
 [[dialogue]]
 speaker_original = "クロト"
 speaker_translation = "쿠로토"
 original = "「ダメですよ、トリュファイナさん。『もっと見て』っておねだりしないと。一目瞭然でしょう、これは女性が、男を誘惑する体位です」"
-translation = "「안 돼요, 트리파이나 씨. '더 봐줘'라고 조르지 않으면요. 일목요연하잖아요, 이건 여성이 남성을 유혹하는 체위입니다」"
+translation = "「안 돼요, 트리파이나 씨. 『더 봐줘』라고 조르지 않으면. 일목요연하잖아요, 이것은 여성이, 남성을 유혹하는 체위예요.」"
 
 [[dialogue]]
 speaker_original = "クロト"
 speaker_translation = "쿠로토"
 original = "「ウサギが──動物が交尾する時、恥じらいなんて持つと思います？\u3000しっかり俺のこと、誘ってください」"
-translation = "「토끼가── 동물이 교미할 때 수줍어할 것 같아요? 확실하게 저를 유혹해 주세요」"
+translation = "「토끼가──동물이 교미할 때, 부끄러움을 가진다고 생각해요? 확실하게 나를, 유혹해 주세요.」"
 
 [[dialogue]]
 speaker_original = "トリュファイナ"
 speaker_translation = "트류파이나"
 original = "「あ、あぅう……<emoji=heart04>\u3000ウサギの衣装になれというのは、そ、そういうことでしたか……なりきれ、ということなのですね……？」"
-translation = "「아, 아우우……<emoji=heart04> 토끼 의상이 되라고 하신 건 그, 그런 뜻이었군요…… 몰입하라는 말씀이시죠……?」"
+translation = "「아, 아응……<emoji=heart04> 토끼 의상이 되라는 것은, 그런, 그런 뜻이었나요…… 몰입하라는, 말씀이시군요……?」"
 
 [[dialogue]]
 speaker_original = "トリュファイナ"
 speaker_translation = "트류파이나"
 original = "「は、はい……では──い、いっぱい、見てください、ませ……<emoji=heart04>\u3000魔王様……<emoji=heart04>」"
-translation = "「네, 네…… 그럼── 마, 많이 봐주세요…… 마왕님……<emoji=heart04>」"
+translation = "「네, 네…… 그럼──많, 많이, 봐주세요……<emoji=heart04> 마왕님……<emoji=heart04>」"
 
 [[dialogue]]
 speaker_original = "トリュファイナ"
 speaker_translation = "트류파이나"
 original = "「ウサギのトリュファイナの……そのぉ……」"
-translation = "「토끼 트리파이나의…… 그……」"
+translation = "「토끼 트리파이나의…… 그게……」"
 
 [[dialogue]]
 speaker = "unk"
 original = "トリュファイナさんには、女性器の呼び名は教えてある。初めてしたときは明言せず誤魔化していた秘所の名を、彼女はすでに知っている。"
-translation = "트리파이나 씨에게는 여성기의 명칭을 가르쳐두었다. 처음 했을 때는 명시하지 않고 얼버무렸던 비밀스러운 부위의 이름을 그녀는 이미 알고 있다."
+translation = "트리파이나 씨에게는, 여성기의 명칭을 가르쳐 두었다. 처음 했을 때는 명시하지 않고 얼버무렸던 비밀스러운 곳의 이름을, 그녀는 이미 알고 있다."
 
 [[dialogue]]
 speaker_original = "トリュファイナ"
 speaker_translation = "트류파이나"
 original = "「お、おま○こ……<emoji=heart04>\u3000魔王様専用の、ウサギ魔女のおま○こ<emoji=heart04>\u3000逞しいおち○ぽで、ふ、蓋をして、くださいませぇ……<emoji=heart04>」"
-translation = "「보, 보지……<emoji=heart04> 마왕님 전용의 토끼 마녀 보지<emoji=heart04> 늠름한 자지로 뚜, 뚜껑을 덮어주세요……<emoji=heart04>」"
+translation = "「보, 보지……<emoji=heart04> 마왕님 전용의, 토끼 마녀의 보지<emoji=heart04> 늠름한 자지로, 뚜, 뚜껑을 덮어, 주세요……<emoji=heart04>」"
 
 [[dialogue]]
 speaker_original = "トリュファイナ"
 speaker_translation = "트류파이나"
 original = "「魔王様のおち○ぽ……いただけるのを、こ、心待ちにしておりますっ……この濡れ濡れの、すけべおま○こに、どうか情けを……<emoji=heart04>」"
-translation = "「마왕님의 자지…… 주시기를 간, 간절히 기다리고 있답니다…… 이 푹 젖은 흠뻑 야한 보지에 부디 자비를……<emoji=heart04>」"
+translation = "「마왕님의 자지…… 받을 수 있기를, 간, 간절히 기다리고 있습니다…… 이 흠뻑 젖은, 음란한 보지에, 부디 자비를……<emoji=heart04>」"
 
 [[dialogue]]
 speaker_original = "クロト"
 speaker_translation = "쿠로토"
 original = "「おねだりが上手になりましたね。トリュファイナさん」"
-translation = "「조르기가 늘었네요. 트리파이나 씨」"
+translation = "「애교가 늘었네요. 트리파이나 씨.」"
 
 [[dialogue]]
 speaker_original = "トリュファイナ"
 speaker_translation = "트류파이나"
 original = "「お、おかげさまで……<emoji=heart04>\u3000私、これからもたくさん、精進いたします……<emoji=heart04>\u3000魔王様が好まれる、えっちな彼女になりますから……<emoji=heart04>」"
-translation = "「덕, 덕분에……<emoji=heart04> 저, 앞으로도 많이 정진하겠습니다……<emoji=heart04> 마왕님이 좋아하시는 야한 여자친구가 될 테니까요……<emoji=heart04>」"
+translation = "「덕, 덕분에……<emoji=heart04> 저, 앞으로도 많이, 정진하겠습니다……<emoji=heart04> 마왕님이 좋아하시는, 야한 여자친구가 될 테니까요……<emoji=heart04>」"
 
 [[dialogue]]
 speaker_original = "トリュファイナ"
 speaker_translation = "트류파이나"
 original = "「恋人せっくす……お願い、いたします……ぴょんっ<emoji=heart04>」"
-translation = "「연인 섹스…… 부탁드립니다…… 깡충<emoji=heart04>」"
+translation = "「연인 섹스…… 부탁, 드려요…… 깡총<emoji=heart04>」"
 
 [[dialogue]]
 speaker = "unk"
 original = "ウサギの白い丸尻尾のついたヒップをふりふりするトリュファイナさん。"
-translation = "토끼의 하얗고 동그란 꼬리가 달린 엉덩이를 살랑거리는 트리파이나 씨."
+translation = "토끼의 하얗고 동그란 꼬리가 달린 엉덩이를 흔들흔들하는 트리파이나 씨."
 
 [[dialogue]]
 speaker = "unk"
@@ -262,474 +262,474 @@ translation = "나는 그녀의 엉덩이를 잡고──"
 speaker_original = "トリュファイナ"
 speaker_translation = "트류파이나"
 original = "「ふわあぁぁぁあぁぁっ……<emoji=heart04><emoji=heart04><emoji=heart04>」"
-translation = "「후와아아아아아아앗……<emoji=heart04><emoji=heart04><emoji=heart04>」"
+translation = "「후와아아아아아앗……<emoji=heart04><emoji=heart04><emoji=heart04>」"
 
 [[dialogue]]
 speaker_original = "トリュファイナ"
 speaker_translation = "트류파이나"
 original = "「ひぁ、ぁあっ……<emoji=heart04>\u3000はあぁ、あぁぁっ……<emoji=heart04>\u3000一息に奥まで、ずぷぅって……おち○ぽ、入ってきましたぁっ……<emoji=heart04>」"
-translation = "「히아, 아앗……<emoji=heart04> 하아아, 아아앗……<emoji=heart04> 단숨에 안쪽까지 푹하고…… 자지가 들어왔어요……<emoji=heart04>」"
+translation = "「히아, 아앗……<emoji=heart04> 하아아, 아아앗……<emoji=heart04> 단숨에 안쪽까지, 푹 하고…… 자지, 들어왔어요……<emoji=heart04>」"
 
 [[dialogue]]
 speaker = "unk"
 original = "バニー衣装への着替えと、はしたないポーズを取らせただけで、トリュファイナさんの女性器はぐちゅ濡れになっていた。"
-translation = "바니 의상으로 갈아입히고 음란한 포즈를 취하게 만든 것만으로 트리파이나 씨의 여성기는 푹 젖어 있었다."
+translation = "바니 의상으로의 갈아입기와, 저속한 포즈를 취하게 한 것만으로, 트리파이나 씨의 여성기는 흠뻑 젖어 있었다."
 
 [[dialogue]]
 speaker = "unk"
 original = "セックスを重ねるたびに、彼女の感度は上がっているような気がする。"
-translation = "섹스를 거듭할수록 그녀의 감도가 올라가는 듯한 기분이 든다."
+translation = "섹스를 겹칠 때마다, 그녀의 감도는 올라가고 있는 것 같은 기분이 든다."
 
 [[dialogue]]
 speaker_original = "トリュファイナ"
 speaker_translation = "트류파이나"
 original = "「ふえぁあぁっ……<emoji=heart04>\u3000今日も、素敵です……魔王様……<emoji=heart04>\u3000おち○ぽ、あったかくて、ガチガチで……んんっ……<emoji=heart04>」"
-translation = "「후에아아앗……<emoji=heart04> 오늘 밤도 멋져요…… 마왕님……<emoji=heart04> 자지가 따뜻하고 딱딱해서…… 으응……<emoji=heart04>」"
+translation = "「후에아아앗……<emoji=heart04> 오늘도, 멋져요…… 마왕님……<emoji=heart04> 자지, 따뜻하고, 딱딱해서…… 응응……<emoji=heart04>」"
 
 [[dialogue]]
 speaker_original = "トリュファイナ"
 speaker_translation = "트류파이나"
 original = "「はぁ、はぁあっ……<emoji=heart04>\u3000普段よりも、お、大きいような……興奮されているの、ですか……？」"
-translation = "「하아, 하아앗……<emoji=heart04> 평소보다 더 크, 큰 것 같은…… 흥분하신 건가요……?」"
+translation = "「하아, 하아앗……<emoji=heart04> 평소보다, 더, 큰 것 같은…… 흥분하신, 건가요……?」"
 
 [[dialogue]]
 speaker_original = "クロト"
 speaker_translation = "쿠로토"
 original = "「エッチなウサギの魔女様が相手ですから」"
-translation = "「야한 토끼 마녀님이 상대니까요」"
+translation = "「야한 토끼 마녀님이 상대니까요.」"
 
 [[dialogue]]
 speaker_original = "トリュファイナ"
 speaker_translation = "트류파이나"
 original = "「う、嬉しいですっ……で、ではっ……どうぞっ<emoji=heart04>\u3000ウサギのおま○こ、いっぱい……ぱ、ぱんぱん<emoji=heart04>\u3000してくださいませ──ぴょん<emoji=heart04>」"
-translation = "「기, 기뻐요…… 그럼…… 어서요<emoji=heart04> 토끼 보지 잔뜩…… 팡, 팡팡<emoji=heart04> 해주세요── 깡충<emoji=heart04>」"
+translation = "「기, 기뻐요…… 그럼…… 어서요<emoji=heart04> 토끼의 보지, 많이…… 팡, 팡<emoji=heart04> 해주세요──깡총<emoji=heart04>」"
 
 [[dialogue]]
 speaker = "unk"
 original = "──俺は頷き、両足を踏ん張ってペニスを突き込む。"
-translation = "──나는 고개를 끄덕이고 두 다리에 힘을 주어 페니스를 찔러 넣는다."
+translation = "──나는 고개를 끄덕이고, 양다리에 힘을 주어 자지를 찔러 넣는다."
 
 [[dialogue]]
 speaker_original = "トリュファイナ"
 speaker_translation = "트류파이나"
 original = "「ひあぁっ<emoji=heart04>\u3000あ、あぁあっ……<emoji=heart04>\u3000はぁあ、んぅうっ……ふあぁ、あ、あぁっ……ひぅうっ……<emoji=heart04><emoji=heart04>」"
-translation = "「히아앗<emoji=heart04> 아, 아아앗……<emoji=heart04> 하아아, 응읏…… 후아아, 아, 아앗…… 히우읏……<emoji=heart04><emoji=heart04>」"
+translation = "「히아앗<emoji=heart04> 아, 아아앗……<emoji=heart04> 하아아, 응읏…… 후아아, 아, 아앗…… 히읏……<emoji=heart04><emoji=heart04>」"
 
 [[dialogue]]
 speaker_original = "トリュファイナ"
 speaker_translation = "트류파이나"
 original = "「こ、この体勢はっ……んぅ、ふぅうっ<emoji=heart04>\u3000すごく、奥まで、あ、あぁあっ<emoji=heart04>\u3000響き、ますっ……ひぅんっ<emoji=heart04>」"
-translation = "「이, 이 자세는…… 응으, 후우읏<emoji=heart04> 너무 깊은 곳까지, 아, 아아앗<emoji=heart04> 울려요…… 히웅읏<emoji=heart04>」"
+translation = "「이, 이 자세는…… 응, 후우<emoji=heart04> 엄청, 안쪽까지, 아, 아아앗<emoji=heart04> 울려, 퍼져요…… 히응<emoji=heart04>」"
 
 [[dialogue]]
 speaker_original = "トリュファイナ"
 speaker_translation = "트류파이나"
 original = "「魔王様のおち○ぽっ<emoji=heart04>\u3000私の、気持ちいいところ──い、いっぱいこすれてぇっ<emoji=heart04>\u3000ふぇあ、あぁ、あぁっ<emoji=heart04>」"
-translation = "「마왕님의 자지<emoji=heart04> 저의 기분 좋은 곳── 자, 잔뜩 문질러져서어<emoji=heart04> 후에아, 아아, 아앗<emoji=heart04>」"
+translation = "「마왕님의 자지<emoji=heart04> 제, 기분 좋은 곳──많, 많이 문질러져서<emoji=heart04> 후에아, 아아, 아앗<emoji=heart04>」"
 
 [[dialogue]]
 speaker = "unk"
 original = "スタイルのいいトリュファイナさん……バニー衣装になると、一段と凄い。"
-translation = "몸매가 좋은 트리파이나 씨…… 바니 의상이 되니 한층 더 대단하다."
+translation = "몸매가 좋은 트리파이나 씨…… 바니 의상이 되니, 한층 더 대단하다."
 
 [[dialogue]]
 speaker = "unk"
 original = "特に普段、スカートに包まれているお尻。むっちりと張りがあって、掴むと指が沈みそうなほどに柔らかくて、すべすべしている。"
-translation = "특히 평소에 스커트에 감싸여 있던 엉덩이. 두툼하고 탄력이 있어서 잡으면 손가락이 파묻힐 정도로 부드럽고 매끄럽다."
+translation = "특히 평소, 스커트에 싸여있는 엉덩이. 두툼하게 탄력이 있고, 잡으면 손가락이 파묻힐 정도로 파고들며 푹신하고, 매끄럽다."
 
 [[dialogue]]
 speaker_original = "トリュファイナ"
 speaker_translation = "트류파이나"
 original = "「はぁぁあっ<emoji=heart04>\u3000お、お尻っ<emoji=heart04>\u3000そんな、ぎゅうって、掴んだらぁっ<emoji=heart04>\u3000あ、あぁああっ<emoji=heart04>\u3000んんぅうっ<emoji=heart04>」"
-translation = "「하아아앗<emoji=heart04> 엉, 엉덩이<emoji=heart04> 그렇게 꽉 쥐면아앗<emoji=heart04> 아, 아아아앗<emoji=heart04> 응응읏<emoji=heart04>」"
+translation = "「하아아앗<emoji=heart04> 어, 엉덩이<emoji=heart04> 그렇게, 꽉, 잡으면<emoji=heart04> 아, 아아아앗<emoji=heart04> 응응읏<emoji=heart04>」"
 
 [[dialogue]]
 speaker = "unk"
 original = "お尻をおっぱい代わりに揉みしだきながら、ズンズンと奥を責めていく。"
-translation = "엉덩이를 가슴 대신 주무르면서 쿵쾅쿵쾅 깊은 곳을 침범해 간다."
+translation = "엉덩이를 가슴 대신 주무르면서, 쿵쾅쿵쾅 안쪽을 공략해 간다."
 
 [[dialogue]]
 speaker_original = "トリュファイナ"
 speaker_translation = "트류파이나"
 original = "「魔王様っ<emoji=heart04>\u3000魔王様ぁっ<emoji=heart04>\u3000お、おち○ぽ凄いですっ<emoji=heart04>\u3000どんどん、どんどん硬くなって──ひぅぅうっ<emoji=heart04>」"
-translation = "「마왕님<emoji=heart04> 마왕님아앗<emoji=heart04> 자, 자지 엄청나요<emoji=heart04> 점점, 점점 단단해져서── 히우우읏<emoji=heart04>」"
+translation = "「마왕님<emoji=heart04> 마왕님<emoji=heart04> 자, 자지 대단해요<emoji=heart04> 점점, 점점 단단해져서──히우우읏<emoji=heart04>」"
 
 [[dialogue]]
 speaker_original = "トリュファイナ"
 speaker_translation = "트류파이나"
 original = "「わ、私のお尻が、え、えっち……だから？\u3000はぁあ、ふぅっ<emoji=heart04>\u3000恥ずかしい、ですがぁっ<emoji=heart04>\u3000う、嬉しい、ですっ<emoji=heart04>」"
-translation = "「저, 저의 엉덩이가 야, 야해서…… 그런가요? 하아아, 후읏<emoji=heart04> 부끄럽지만아앗<emoji=heart04> 기, 기뻐요<emoji=heart04>」"
+translation = "「제, 제 엉덩이가, 야, 야해서……? 하아아, 후우<emoji=heart04> 부끄럽지만<emoji=heart04> 기, 기뻐요<emoji=heart04>」"
 
 [[dialogue]]
 speaker_original = "トリュファイナ"
 speaker_translation = "트류파이나"
 original = "「ウサギのお尻っ<emoji=heart04>\u3000目で、手の平で、楽しんでくださいませぇっ<emoji=heart04>\u3000ぴょ、ぴょん、ぴょんっ──お、ぉぉっ<emoji=heart04>\u3000うぅうっ<emoji=heart04>」"
-translation = "「토끼 엉덩이<emoji=heart04> 눈으로, 손바닥으로 즐겨주세요오앗<emoji=heart04> 깡, 깡충, 깡충── 아, 앗<emoji=heart04> 으으읏<emoji=heart04>」"
+translation = "「토끼 엉덩이<emoji=heart04> 눈으로, 손바닥으로, 즐겨주세요<emoji=heart04> 깡, 깡총, 깡총──오, 오오<emoji=heart04> 우우읏<emoji=heart04>」"
 
 [[dialogue]]
 speaker = "unk"
 original = "セックス中に『ぴょんぴょん』って言われるの、めちゃくちゃ興奮する──！"
-translation = "섹스 중에 '깡충깡충'이라고 해주는 거, 엄청나게 흥분된다──!"
+translation = "섹스 중에 『깡총깡총』 거리는 거, 엄청나게 흥분된다──!"
 
 [[dialogue]]
 speaker = "unk"
 original = "特に、あのトリュファイナさんが言ってくれているっていうのが、たまらない。"
-translation = "특히 그 트리파이나 씨가 말해주고 있다는 게 견딜 수 없다."
+translation = "특히, 그 트리파이나 씨가 말해주고 있다는 게, 견딜 수 없다."
 
 [[dialogue]]
 speaker_original = "トリュファイナ"
 speaker_translation = "트류파이나"
 original = "「魔王様の、おち○ぽが喜んでくださるならぁっ<emoji=heart04>\u3000い、いっぱい言いますっ<emoji=heart04>\u3000ぴょ、ぴょんっ<emoji=heart04>\u3000ぴょんぴょん、ぴょんっ<emoji=heart04>」"
-translation = "「마왕님의 자지가 기뻐해 주신다면아앗<emoji=heart04> 자, 잔뜩 말할게요<emoji=heart04> 깡, 깡충<emoji=heart04> 깡충깡충, 깡충<emoji=heart04>」"
+translation = "「마왕님의, 자지가 기뻐해 주신다면<emoji=heart04> 많, 많이 말할게요<emoji=heart04> 깡, 깡총<emoji=heart04> 깡총깡총, 깡총<emoji=heart04>」"
 
 [[dialogue]]
 speaker_original = "トリュファイナ"
 speaker_translation = "트류파이나"
 original = "「おっきいおち○ぽっ<emoji=heart04>\u3000気持ちいいですぴょんっ<emoji=heart04>\u3000魔王様の恋人ぴすとんっ<emoji=heart04>\u3000感じすぎちゃいますぴょんっ──お、ぉおおぉっ<emoji=heart04>」"
-translation = "「커다란 자지<emoji=heart04> 기분 좋아요 깡충<emoji=heart04> 마왕님의 연인 피스톤<emoji=heart04> 너무 느껴버려요 깡충── 아, 아아앗<emoji=heart04>」"
+translation = "「커다란 자지<emoji=heart04> 기분 좋아요 깡총<emoji=heart04> 마왕님의 연인 피스톤<emoji=heart04> 너무 느껴버려요 깡총──오, 오오오<emoji=heart04>」"
 
 [[dialogue]]
 speaker_original = "トリュファイナ"
 speaker_translation = "트류파이나"
 original = "「私のおま○こ、ふぁ、あぁあ<emoji=heart04>\u3000どんどんおつゆ、あふれてぇ……と、止まりませんっ<emoji=heart04>\u3000ひぁあぁああっ<emoji=heart04>」"
-translation = "「제 보지, 후아, 아아<emoji=heart04> 점점 애액이 흘러넘쳐서…… 멈, 멈추지 않아요<emoji=heart04> 히아아아앗<emoji=heart04>」"
+translation = "「제 보지, 후아, 아아<emoji=heart04> 점점 애액이, 넘쳐흘러서…… 멈, 멈추지 않아요<emoji=heart04> 히아아아앗<emoji=heart04>」"
 
 [[dialogue]]
 speaker_original = "クロト"
 speaker_translation = "쿠로토"
 original = "「トリュファイナさん、本当に濡れやすくなりましたね」"
-translation = "「트리파이나 씨, 정말 잘 젖게 되었네요」"
+translation = "「트리파이나 씨, 정말 쉽게 젖게 되었네요.」"
 
 [[dialogue]]
 speaker_original = "トリュファイナ"
 speaker_translation = "트류파이나"
 original = "「魔王様が、お、お相手ですからぁっ<emoji=heart04>\u3000大好きな、お、お慕いしている、御方ですからぁっ<emoji=heart04>\u3000ん、んんぅぅううっ<emoji=heart04><emoji=heart04><emoji=heart04>」"
-translation = "「마왕님이 상, 상대니까요오앗<emoji=heart04> 너무나 좋아하는, 사, 사랑하는 분이니까요오앗<emoji=heart04> 응, 응응으으읏<emoji=heart04><emoji=heart04><emoji=heart04>」"
+translation = "「마왕님이, 상, 상대니까요<emoji=heart04> 정말 좋아하는, 연, 연모하는, 분이니까요<emoji=heart04> 응, 응응으으으읏<emoji=heart04><emoji=heart04><emoji=heart04>」"
 
 [[dialogue]]
 speaker = "unk"
 original = "この前みたいに星徒会室のソファでせず、机の上でセックスしたのは正解だった。"
-translation = "요전처럼 성도회실 소파에서 하지 않고 책상 위에서 섹스한 것은 정답이었다."
+translation = "요전처럼 성도회실 소파에서 하지 않고, 책상 위에서 섹스한 것은 정답이었다."
 
 [[dialogue]]
 speaker = "unk"
 original = "トリュファイナさんにあの時のことを訊ねてみると──"
-translation = "트리파이나 씨에게 그때의 일을 물어보자──"
+translation = "트리파이나 씨에게 그때 일을 물어보자──"
 
 [[dialogue]]
 speaker_original = "トリュファイナ"
 speaker_translation = "트류파이나"
 original = "「や、やぁぁっ<emoji=heart04>\u3000魔王様、イジワルですっ<emoji=heart04>\u3000あ、あの時、私、気持ちよすぎるからやめてって、お願いしました、のにぃっ<emoji=heart04>」"
-translation = "「야, 야앗<emoji=heart04> 마왕님, 짓궏으세요<emoji=heart04> 그, 그때 저, 너무 기분 좋으니까 그만해달라고 부탁드렸는데도요오앗<emoji=heart04>」"
+translation = "「야, 야아앗<emoji=heart04> 마왕님, 짓궃어요<emoji=heart04> 그, 그때, 저, 너무 기분 좋으니까 그만해달라고, 부탁했습니다, 는데도<emoji=heart04>」"
 
 [[dialogue]]
 speaker_original = "トリュファイナ"
 speaker_translation = "트류파이나"
 original = "「魔王様が、い、今みたいなぁっ<emoji=heart04>\u3000手加減なしの、おち○ぽ攻撃をいたしますからぁっ<emoji=heart04>\u3000んんんぅぅっ<emoji=heart04>」"
-translation = "「마왕님이 지, 지금 같은아앗<emoji=heart04> 봐주는 것 없는 자지 공격을 하시니까요오앗<emoji=heart04> 응응응읏<emoji=heart04>」"
+translation = "「마왕님이, 지, 지금처럼<emoji=heart04> 봐주는 것 없는, 자지 공격을 하시니까<emoji=heart04> 응응응읏<emoji=heart04>」"
 
 [[dialogue]]
 speaker_original = "トリュファイナ"
 speaker_translation = "트류파이나"
 original = "「私、感じすぎてしまってっ<emoji=heart04>\u3000たくさんお潮、ふ、吹いちゃったんじゃ、ありませんかっ──んんぅぅうっ<emoji=heart04>」"
-translation = "「저, 너무 느껴버려서<emoji=heart04> 분수 잔뜩 뿜, 뿜어버린 거 아닌가요── 응응우읏<emoji=heart04>」"
+translation = "「저, 너무 느껴버려서<emoji=heart04> 많이 애액을, 뿜, 뿜어버린 거, 아닙니까──응응으읏<emoji=heart04>」"
 
 [[dialogue]]
 speaker_original = "クロト"
 speaker_translation = "쿠로토"
 original = "「あの時みたいに激しいやつ、してあげますよ。覚悟はいいですか？」"
-translation = "「그때처럼 격렬한 거, 해드릴게요. 각오는 되었나요?」"
+translation = "「그때처럼 격렬한 거, 해줄게요. 각오는 됐나요?」"
 
 [[dialogue]]
 speaker_original = "トリュファイナ"
 speaker_translation = "트류파이나"
 original = "「は──はぇぇっ？\u3000そ、そそ、そんなっ<emoji=heart04><emoji=heart04>\u3000まだ余力が、あ、あるのですかっ！？」"
-translation = ""
+translation = "「하──하에에? 그, 그그, 그런<emoji=heart04><emoji=heart04> 아직 여력이, 있, 있으신가요!?」"
 
 [[dialogue]]
 speaker = "unk"
 original = "こんな清純で従順なドスケベウサギを前にして、俺がどれだけ興奮しているかわかっていないらしい。"
-translation = ""
+translation = "이런 청순하고 순종적인 완전 야한 토끼를 앞에 두고, 내가 얼마나 흥분해 있는지 모르는 모양이다."
 
 [[dialogue]]
 speaker_original = "トリュファイナ"
 speaker_translation = "트류파이나"
 original = "「ままま、待ってくださいっ<emoji=heart04>\u3000お、お慈悲をっ<emoji=heart04>\u3000この体勢、す、すごく感じちゃうんですっ<emoji=heart04>\u3000これ以上、激しくするのはぁ──<emoji=heart04>」"
-translation = ""
+translation = "「기, 기다려주세요<emoji=heart04> 자, 자비를<emoji=heart04> 이 자세, 엄, 엄청 느껴버려요<emoji=heart04> 이 이상, 격렬하게 하는 건──<emoji=heart04>」"
 
 [[dialogue]]
 speaker = "unk"
 original = "そんなに喘ぎながら懇願されても、男を煽るスパイスにしかならない。"
-translation = ""
+translation = "그렇게 신음하며 간청해 와도, 남자를 자극하는 조미료밖에 되지 않는다."
 
 [[dialogue]]
 speaker = "unk"
 original = "トリュファイナさんにはしっかり学習してもらおう──"
-translation = ""
+translation = "트리파이나 씨에게는 확실히 학습시켜 주자──"
 
 [[dialogue]]
 speaker_original = "トリュファイナ"
 speaker_translation = "트류파이나"
 original = "「ふわぁぁぁあぁあああっ<emoji=heart04><emoji=heart04><emoji=heart04>\u3000あっあっあっあっ<emoji=heart04>\u3000んっんっんっんっんっ──んんぅぅぅう～～っ<emoji=heart04><emoji=heart04><emoji=heart04>」"
-translation = ""
+translation = "「후와아아아아아앗<emoji=heart04><emoji=heart04><emoji=heart04> 앗앗앗앗<emoji=heart04> 응응응응응──응응으으으~~~쯧<emoji=heart04><emoji=heart04><emoji=heart04>」"
 
 [[dialogue]]
 speaker_original = "トリュファイナ"
 speaker_translation = "트류파이나"
 original = "「お、奥ぅっ<emoji=heart04>\u3000おま○この奥っ<emoji=heart04>\u3000そ、そんな責めちゃらめ、れすぅうっ<emoji=heart04>\u3000おま○こ壊れちゃいまひゅっ<emoji=heart04>\u3000んん、んぅっ<emoji=heart04>」"
-translation = ""
+translation = "「아, 안쪽<emoji=heart04> 보지 안쪽<emoji=heart04> 그, 그렇게 괴롭히면 안 돼, 요오<emoji=heart04> 보지 망가져 버려요오<emoji=heart04> 응, 응읏<emoji=heart04>」"
 
 [[dialogue]]
 speaker_original = "クロト"
 speaker_translation = "쿠로토"
 original = "「ウサギの真似はどうしました？」"
-translation = ""
+translation = "「토끼 흉내는 어떻게 된 건가요?」"
 
 [[dialogue]]
 speaker_original = "トリュファイナ"
 speaker_translation = "트류파이나"
 original = "「ほぇぇえっ<emoji=heart04><emoji=heart04><emoji=heart04>\u3000申し訳ございません、ぴょんっ<emoji=heart04>\u3000気持ちよすぎて忘れちゃってました、ぴょんっ<emoji=heart04>\u3000ぴょん、ぴょんっ<emoji=heart04>」"
-translation = ""
+translation = "「호에에잇<emoji=heart04><emoji=heart04><emoji=heart04> 죄송합니다, 깡총<emoji=heart04> 너무 기분 좋아서 잊어버리고 있었어요, 깡총<emoji=heart04> 깡총, 깡총<emoji=heart04>」"
 
 [[dialogue]]
 speaker_original = "トリュファイナ"
 speaker_translation = "트류파이나"
 original = "「おち○ぽ、感じすぎてぇっ──ぴょ、ぴょっ……おおぉぉ<emoji=heart04>\u3000お、ぉおっ<emoji=heart04>\u3000おおぉおっ<emoji=heart04>\u3000おっおっ、おぉおっ<emoji=heart04><emoji=heart04>」"
-translation = ""
+translation = "「자지, 너무 느껴버려서──깡, 깡총…… 오, 오오<emoji=heart04> 오, 오오<emoji=heart04> 오오오<emoji=heart04> 오오, 오오<emoji=heart04><emoji=heart04>」"
 
 [[dialogue]]
 speaker = "unk"
 original = "可愛い喘ぎ声だ。もっと啼かせたくなる──"
-translation = ""
+translation = "귀여운 교성이다. 더 울리고 싶어진다──"
 
 [[dialogue]]
 speaker_original = "トリュファイナ"
 speaker_translation = "트류파이나"
 original = "「ぴょんぴょん、ぴょっ──お、ぉっ<emoji=heart04>\u3000ふぅうっ<emoji=heart04>\u3000ほ、ほぉぉおっ<emoji=heart04>\u3000ほぇえぇっ<emoji=heart04>\u3000あ、あぁああ、あぁあ～～～っ<emoji=heart04><emoji=heart04><emoji=heart04>」"
-translation = ""
+translation = "「깡총깡총, 깡총──오, 오<emoji=heart04> 후우읏<emoji=heart04> 호, 호오오<emoji=heart04> 호에에앗<emoji=heart04> 아, 아아아, 아아아~~~쯧<emoji=heart04><emoji=heart04><emoji=heart04>」"
 
 [[dialogue]]
 speaker = "unk"
 original = "ピストンするたびに、２人の愛液が混ざったものが、机を汚していく。"
-translation = ""
+translation = "피스톤질을 할 때마다, 두 사람의 애액이 섞인 것이, 책상을 더럽혀 간다."
 
 [[dialogue]]
 speaker = "unk"
 original = "ウサギの魔女のお尻はしっとり汗ばんで、女性器は俺のペニスにまとわりついて離れない。"
-translation = ""
+translation = "토끼 마녀의 엉덩이는 촉촉이 땀에 젖고, 여성기는 내 자지에 얽혀서 떨어지지 않는다."
 
 [[dialogue]]
 speaker_original = "トリュファイナ"
 speaker_translation = "트류파이나"
 original = "「魔王様ぁあぁっ<emoji=heart04>\u3000気持ちいいですっ<emoji=heart04>\u3000ささ、最高ですぅっ<emoji=heart04>\u3000おち○ぽよすぎて、お、おばかになっちゃいます、ぴょんっ<emoji=heart04><emoji=heart04>」"
-translation = ""
+translation = "「마왕님아아앗<emoji=heart04> 기분 좋아요<emoji=heart04> 최, 최상이에요<emoji=heart04> 자지 너무 좋아서, 바, 바보가 되어버려요, 깡총<emoji=heart04><emoji=heart04>」"
 
 [[dialogue]]
 speaker_original = "クロト"
 speaker_translation = "쿠로토"
 original = "「──もっと気持ちよくしてあげましょうか？」"
-translation = ""
+translation = "「──더 기분 좋게 해드릴까요?」"
 
 [[dialogue]]
 speaker_original = "トリュファイナ"
 speaker_translation = "트류파이나"
 original = "「も、もっと！？\u3000そ、そそ、そんなっ……ふぅ、ふぅうっ<emoji=heart04>\u3000あ、あっ──お、お、おっ……お願い、します、ぴょんっ<emoji=heart04>」"
-translation = ""
+translation = "「더, 더요!? 그, 그그, 그런…… 후우, 후우<emoji=heart04> 아, 앗──부, 부, 부…… 부탁, 해요, 깡총<emoji=heart04>」"
 
 [[dialogue]]
 speaker = "unk"
 original = "トリュファイナさんの真っ白なお尻めがけて、ぱちんと叩く。"
-translation = ""
+translation = "트리파이나 씨의 하얀 엉덩이를 향해, 짝하고 때린다."
 
 [[dialogue]]
 speaker_original = "トリュファイナ"
 speaker_translation = "트류파이나"
 original = "「ふぇあぁぁぁあっ！？\u3000あ、ああぁあっ<emoji=heart04><emoji=heart04><emoji=heart04>\u3000い、いい、今のっ<emoji=heart04><emoji=heart04>\u3000今のはぁあっ──んんぅっ<emoji=heart04>」"
-translation = ""
+translation = "「후에아아아앗!? 아, 아아앗<emoji=heart04><emoji=heart04><emoji=heart04> 방, 방금 것<emoji=heart04><emoji=heart04> 방금 거는아앗──응응읏<emoji=heart04>」"
 
 [[dialogue]]
 speaker = "unk"
 original = "目的は痛みを与えることではなく、ペニスを飲み込んでいる女性器を、お尻ごと揺らして刺激するため。"
-translation = ""
+translation = "목적은 고통을 주는 것이 아니라, 자지를 삼키고 있는 여성기를, 엉덩이째 흔들어 자극하기 위해서."
 
 [[dialogue]]
 speaker = "unk"
 original = "動物同士の交尾ではあり得ないスパンキング。ちょっぴりＭっ気のあるトリュファイナさんは、想像以上に感じてくれていた。"
-translation = ""
+translation = "동물들끼리의 교미에서는 있을 수 없는 스팽킹. 약간 M기운이 있는 트리파이나 씨는, 상상 이상으로 느껴주고 있었다."
 
 [[dialogue]]
 speaker_original = "トリュファイナ"
 speaker_translation = "트류파이나"
 original = "「すす、すごいです、魔王様っ<emoji=heart04>\u3000目の前が、ち、ちかちかって……さ、さっきの、あのぉっ──<emoji=heart04>」"
-translation = ""
+translation = "「대, 대단해요, 마왕님<emoji=heart04> 눈앞이, 번, 번쩍거리면서…… 아, 아까의, 그거는──<emoji=heart04>」"
 
 [[dialogue]]
 speaker_original = "クロト"
 speaker_translation = "쿠로토"
 original = "「もっとしてあげますよ。ほらっ」"
-translation = ""
+translation = "「더 해줄게요. 자요.」"
 
 [[dialogue]]
 speaker_original = "トリュファイナ"
 speaker_translation = "트류파이나"
 original = "「ああぁぁっ<emoji=heart04>\u3000お、ぉぉおっ<emoji=heart04>\u3000ふぅうっ<emoji=heart04>\u3000ふあぁああっ<emoji=heart04>\u3000ら、らめぇえっ<emoji=heart04>\u3000おま○こ、きゅんきゅん、しましゅっ──うぅうっ<emoji=heart04>」"
-translation = ""
+translation = "「아아아앗<emoji=heart04> 오, 오오<emoji=heart04> 후우<emoji=heart04> 후아아앗<emoji=heart04> 안, 안 돼요<emoji=heart04> 보지, 큥큥거려요──우우읏<emoji=heart04>」"
 
 [[dialogue]]
 speaker_original = "トリュファイナ"
 speaker_translation = "트류파이나"
 original = "「んんんぅう～～～っ<emoji=heart04><emoji=heart04><emoji=heart04>」"
-translation = ""
+translation = "「응응응으으으~~~쯧<emoji=heart04><emoji=heart04><emoji=heart04>」"
 
 [[dialogue]]
 speaker_original = "トリュファイナ"
 speaker_translation = "트류파이나"
 original = "「ふわあぁぁあっ<emoji=heart04>\u3000あっあっ、ああぁぁあっ──<emoji=heart04><emoji=heart04>\u3000こ、こんなに愛されたら、私っ<emoji=heart04>\u3000私ぃっ──ん、んんぅううっ<emoji=heart04><emoji=heart04>」"
-translation = ""
+translation = "「후와아아앗<emoji=heart04> 앗앗, 아아아앗──<emoji=heart04><emoji=heart04> 이, 이렇게 사랑받으면, 저<emoji=heart04> 저어──응, 응응으으읏<emoji=heart04><emoji=heart04>」"
 
 [[dialogue]]
 speaker = "unk"
 original = "ペニスへの締まりがどんどん増していく。濡れそぼった魔女の女性器で搾られて、俺の方も限界が近い──"
-translation = ""
+translation = "자지에 대한 조임이 점점 늘어간다. 흠뻑 젖은 마녀의 여성기에게 쥐어짜여, 나도 한계가 가깝다──"
 
 [[dialogue]]
 speaker_original = "トリュファイナ"
 speaker_translation = "트류파이나"
 original = "「も、もう私、が、我慢ができませっ……んんぅっ<emoji=heart04>\u3000ま、魔王様ぁっ<emoji=heart04>\u3000一緒に──一緒にぃいいぃっ<emoji=heart04><emoji=heart04>」"
-translation = ""
+translation = "「더, 더는 저, 참, 참을 수가 없…… 응응읏<emoji=heart04> 마, 마왕님<emoji=heart04> 같이──같이이이잇<emoji=heart04><emoji=heart04>」"
 
 [[dialogue]]
 speaker_original = "トリュファイナ"
 speaker_translation = "트류파이나"
 original = "「いつもみたいに、中にっ……魔王様の精液で、私のおま○こ、い、いっぱいにしてくださいっ<emoji=heart04>\u3000あ、ああ、あぁあっ<emoji=heart04><emoji=heart04>」"
-translation = ""
+translation = "「평소처럼, 안에…… 마왕님의 정액으로, 제 보지, 가, 가득 채워주세요<emoji=heart04> 아, 아아, 아아앗<emoji=heart04><emoji=heart04>」"
 
 [[dialogue]]
 speaker = "unk"
 original = "はしたない格好のまま、中出しをおねだりするトリュファイナさんに応える。"
-translation = ""
+translation = "저속한 자세 그대로, 질내사정을 조르는 트리파이나 씨에게 응한다."
 
 [[dialogue]]
 speaker = "unk"
 original = "少しでも速く、一滴でも多く出せるように、全力のピストンを続ける──"
-translation = ""
+translation = "조금이라도 빠르게, 한 방울이라도 많이 낼 수 있도록, 전력의 피스톤을 계속한다──"
 
 [[dialogue]]
 speaker_original = "トリュファイナ"
 speaker_translation = "트류파이나"
 original = "「んんぅうっ<emoji=heart04>\u3000あっあっあっあっ<emoji=heart04>\u3000あっあっあっあっあっあっあっ<emoji=heart04><emoji=heart04><emoji=heart04>」"
-translation = ""
+translation = "「응응읏<emoji=heart04> 앗앗앗앗<emoji=heart04> 앗앗앗앗앗앗앗<emoji=heart04><emoji=heart04><emoji=heart04>」"
 
 [[dialogue]]
 speaker_original = "トリュファイナ"
 speaker_translation = "트류파이나"
 original = "「魔王様ぁっ<emoji=heart04>\u3000出してっ<emoji=heart04>\u3000出してくださいっ<emoji=heart04>\u3000精液っ<emoji=heart04>\u3000光の魔女の、お、おま○こにっ<emoji=heart04>\u3000お恵みくださいっ<emoji=heart04><emoji=heart04>」"
-translation = ""
+translation = "「마왕님<emoji=heart04> 뿜어줘요<emoji=heart04> 뿜어주세요<emoji=heart04> 정액<emoji=heart04> 빛의 마녀의, 보, 보지에<emoji=heart04> 은혜를 내려주세요<emoji=heart04><emoji=heart04>」"
 
 [[dialogue]]
 speaker_original = "トリュファイナ"
 speaker_translation = "트류파이나"
 original = "「ぴょ、ぴょんっ<emoji=heart04>\u3000ぴょんぴょんっ<emoji=heart04>\u3000ぴょんぴょん、ぴょんぴょんっ──お、ぉおぉ、おぉぉおっ<emoji=heart04><emoji=heart04><emoji=heart04>」"
-translation = ""
+translation = "「깡, 깡총<emoji=heart04> 깡총깡총<emoji=heart04> 깡총깡총, 깡총깡총──오, 오오, 오오오<emoji=heart04><emoji=heart04><emoji=heart04>」"
 
 [[dialogue]]
 speaker = "unk"
 original = "最後の最後まで、ウサギの真似をやめないトリュファイナさんを可愛いなと思いつつ──"
-translation = ""
+translation = "마지막의 마지막까지, 토끼 흉내를 그만두지 않는 트리파이나 씨를 귀엽다고 생각하면서──"
 
 [[dialogue]]
 speaker_original = "トリュファイナ"
 speaker_translation = "트류파이나"
 original = "「あ、あぁぁああっ<emoji=heart04>\u3000イキますっ<emoji=heart04>\u3000イキますイキますイキます──ん、んんぅうぅぅうう～～～っ<emoji=heart04><emoji=heart04><emoji=heart04>」"
-translation = ""
+translation = "「아, 아아아아앗<emoji=heart04> 가요<emoji=heart04> 가요 가요 가요──응, 응응으으으으으~~~쯧<emoji=heart04><emoji=heart04><emoji=heart04>」"
 
 [[dialogue]]
 speaker_original = "トリュファイナ"
 speaker_translation = "트류파이나"
 original = "「あぁああぁあぁああぁあぁああ～～～っ<emoji=heart04><emoji=heart04><emoji=heart04>」"
-translation = ""
+translation = "「아아아아아아아아아~~~~~쯧<emoji=heart04><emoji=heart04><emoji=heart04><emoji=heart04><emoji=heart04>」"
 
 [[dialogue]]
 speaker = "unk"
 original = "トリュファイナさんの汗だくのお尻を限界まで引きよせ、彼女の大切な場所をとことんまで汚す。"
-translation = ""
+translation = "트리파이나 씨의 땀범벅이 된 엉덩이를 한계까지 끌어당겨, 그녀의 소중한 곳을 끝까지 더럽힌다."
 
 [[dialogue]]
 speaker_original = "トリュファイナ"
 speaker_translation = "트류파이나"
 original = "「ひあぁぁあっ<emoji=heart04><emoji=heart04>\u3000お、ぉぉおっ<emoji=heart04>\u3000私の子宮、魔王様の精液で、満たされてっ──あぁ、あぁ、あぁああぁあ～～っ……<emoji=heart04>」"
-translation = ""
+translation = "「히아아아앗<emoji=heart04><emoji=heart04> 오, 오오<emoji=heart04> 제 자궁, 마왕님의 정액으로, 채워져서──아아, 아아, 아아아아~~앗……<emoji=heart04>」"
 
 [[dialogue]]
 speaker = "unk"
 original = "どくん、どくん、どくん、どくん──何度も何度もペニスが震えて、止まらない。"
-translation = ""
+translation = "울컥, 울컥, 울컥, 울컥──몇 번이고 몇 번이고 자지가 떨리고, 멈추지 않는다."
 
 [[dialogue]]
 speaker = "unk"
 original = "清廉な存在である光の魔女に中出しをしているという背徳感。そして両想いの恋人と絶頂を迎えているという多幸感──"
-translation = ""
+translation = "청렴한 존재인 빛의 마녀에게 질내사정을 하고 있다는 배덕감. 그리고 서로 좋아하는 연인과 절정을 맞이하고 있다는 다행감──"
 
 [[dialogue]]
 speaker = "unk"
 original = "様々な感情に浸りながら、俺は精液を出し尽くして……"
-translation = ""
+translation = "다양한 감정에 잠기면서, 나는 정액을 남김없이 쏟아내고……"
 
 [[dialogue]]
 speaker_original = "トリュファイナ"
 speaker_translation = "트류파이나"
 original = "「ふわあぁぁぁっ……<emoji=heart04><emoji=heart04>\u3000こ、こんなに……出していただけた、だなんてぇ……<emoji=heart04><emoji=heart04><emoji=heart04>」"
-translation = ""
+translation = "「후와아아아앗……<emoji=heart04><emoji=heart04> 이, 이렇게나…… 뿜어 주셨다니……<emoji=heart04><emoji=heart04><emoji=heart04>」"
 
 [[dialogue]]
 speaker = "unk"
 original = "ペニスが栓になっていたのだろう。繋がりを解いた瞬間、ごぽごぽと精液がこぼれ出てくる。"
-translation = ""
+translation = "자지가 마개 역할을 하고 있었을 것이다. 연결을 푸는 순간, 꿀컥꿀컥 정액이 흘러나온다."
 
 [[dialogue]]
 speaker_original = "トリュファイナ"
 speaker_translation = "트류파이나"
 original = "「普段、よりも……ずうっと量が、多い気がいたします……<emoji=heart04><emoji=heart04>\u3000魔王様……ウサギの私で、こ、興奮……していただけたのですね？」"
-translation = ""
+translation = "「평소보다…… 훨씬 양이, 많은 기분이 듭니다……<emoji=heart04><emoji=heart04> 마왕님…… 토끼인 저 때문에, 흥, 흥분…… 하신 거군요?」"
 
 [[dialogue]]
 speaker_original = "クロト"
 speaker_translation = "쿠로토"
 original = "「……最高でした。その、すみません……途中、色々と調子に乗っちゃって……」"
-translation = ""
+translation = "「……최고였어요. 그, 죄송해요…… 도중에, 여러 가지로 신나 버려서……」"
 
 [[dialogue]]
 speaker_original = "トリュファイナ"
 speaker_translation = "트류파이나"
 original = "「ふふふー……<emoji=heart04>\u3000構いませんよ……はぁあ、はぁあ……<emoji=heart04>\u3000恋人の私だけが聞ける、魔王様のわがままですから……<emoji=heart04>」"
-translation = ""
+translation = "「후후후~……<emoji=heart04> 상관없어요…… 하아, 하아……<emoji=heart04> 연인인 저만이 들을 수 있는, 마왕님의 어리광이니까요……<emoji=heart04>」"
 
 [[dialogue]]
 speaker_original = "トリュファイナ"
 speaker_translation = "트류파이나"
 original = "「魔王様……あの、よろしければ、もう一度……<emoji=heart04>」"
-translation = ""
+translation = "「마왕님…… 저기, 괜찮으시다면, 한 번 더……<emoji=heart04>」"
 
 [[dialogue]]
 speaker_original = "クロト"
 speaker_translation = "쿠로토"
 original = "「ちょ、ちょっと休ませてください……」"
-translation = ""
+translation = "「잠, 잠시 쉬게 해주세요……」"
 
 [[dialogue]]
 speaker_original = "トリュファイナ"
 speaker_translation = "트류파이나"
 original = "「ふふ～<emoji=heart04>\u3000お疲れでしたら、魔法でお癒やしいたします……あ、それとも、こちらの方が、よいでしょうか……？」"
-translation = ""
+translation = "「후후~<emoji=heart04> 피곤하시다면, 마법으로 치유해 드릴게요…… 아, 아니면, 이쪽이, 더 좋으신가요……?」"
 
 [[dialogue]]
 speaker_original = "トリュファイナ"
 speaker_translation = "트류파이나"
 original = "「ぴょーん、ぴょん……<emoji=heart04>\u3000えっちなウサギの魔女に、もっと精液、お恵みくださぁい<emoji=heart04>\u3000ぴょんぴょん、ぴょーん……<emoji=heart04><emoji=heart04><emoji=heart04>」"
-translation = ""
+translation = "「깡~총, 깡총……<emoji=heart04> 야한 토끼 마녀에게, 정액 더, 베풀어주세요<emoji=heart04> 깡총깡총, 깡~총……<emoji=heart04><emoji=heart04><emoji=heart04>」"
 
 [[dialogue]]
 speaker = "unk"
 original = "中出しされた精液をぽたぽた垂らしながら、トリュファイナさんはお尻をふりふり、俺を誘惑するのだった──"
-translation = ""
+translation = "질내사정된 정액을 똑똑 흘리면서, 트리파이나 씨는 엉덩이를 흔들흔들, 나를 유혹하는 것이었다──"
 
