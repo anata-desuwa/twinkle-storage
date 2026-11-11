@@ -1,0 +1,453 @@
+[[dialogue]]
+speaker = "unk"
+original = "第４話,アポロでお願いします,P"
+translation = "제4화, 아폴로로 부탁드립니다, P"
+
+[[dialogue]]
+speaker = "unk"
+original = "――とある夜、アポロに招待されて星見家にやってきた。"
+translation = "――어느 날 밤, 아폴로의 초대를 받아 호시미 가문에 오게 되었다."
+
+[[dialogue]]
+speaker_original = "アポロ"
+speaker_translation = "아폴로"
+original = "「おー、よく来たな、魔王！\u3000歓迎するぞ」"
+translation = "「오-, 잘 왔어, 마왕! 환영한다」"
+
+[[dialogue]]
+speaker_original = "アポロ"
+speaker_translation = "아폴로"
+original = "「わざわざ呼び出して悪かったな。明日はおやすみだし、おまえと一緒にいたいなって思ってさ」"
+translation = "「일부러 불러내서 미안해. 내일은 쉬는 날이고, 너랑 함께 있고 싶어서 말이야」"
+
+[[dialogue]]
+speaker_original = "アポロ"
+speaker_translation = "아폴로"
+original = "「ん？\u3000どうした、そんな不思議そうな顔して。あたしとおまえは恋人同士なんだから、全然おかしくないだろ」"
+translation = "「응? 왜 그래, 그런 의아하다는 표정을 짓고. 나랑 너는 연인 사이니까 전혀 이상할 거 없잖아」"
+
+[[dialogue]]
+speaker = "unk"
+original = "星見家のみんながいるけど"
+translation = "호시미 가문 식구들이 다 있는데"
+
+[[dialogue]]
+speaker = "unk"
+original = "大丈夫なの？"
+translation = "괜찮은 거야?"
+
+[[dialogue]]
+speaker_original = "アポロ"
+speaker_translation = "아폴로"
+original = "「はっはっは！\u3000うちの連中がいたら、おまえもあたしも落ち着いてイチャイチャできないだろ？\u3000そう思って、２人きりにしてもらったんだ！」"
+translation = "「하하하! 우리 집 녀석들이 있으면 너도 나도 편하게 꽁냥거릴 수 없잖아? 그렇게 생각해서 둘만 있게 해달라고 했어!」"
+
+[[dialogue]]
+speaker_original = "アポロ"
+speaker_translation = "아폴로"
+original = "「厳密には誰もいないわけじゃないんだけどな。邪魔しないように釘さしてるから、おまえも遠慮しなくていいぞ」"
+translation = "「엄밀히 말하면 아무도 없는 건 아니지만 말이야. 방해하지 않도록 쐐기를 박아뒀으니, 너도 방심하지 마라」"
+
+[[dialogue]]
+speaker_original = "アポロ"
+speaker_translation = "아폴로"
+original = "「流星ライダーの試聴会なんかで、おまえがうちに来てお泊まりしたことは何度かあったけどさ。必ず他に誰か一緒にいたし……」"
+translation = "「유성 라이더 시청회 같은 걸로 네가 우리 집에 와서 자고 간 적은 몇 번 있었지만 말이야. 반드시 다른 누군가가 함께 있었고……」"
+
+[[dialogue]]
+speaker_original = "アポロ"
+speaker_translation = "아폴로"
+original = "「だから、今日は２人きりだぞ。特別な夜だから、めいっぱい楽しもう！」"
+translation = "「그러니까 오늘은 둘뿐이라고. 특별한 밤이니까 마음껏 즐기자!」"
+
+[[dialogue]]
+speaker_original = "アポロ"
+speaker_translation = "아폴로"
+original = "「どうした、柄にもなく緊張してるのか？\u3000２人きりになることなんて、何度もあったのに」"
+translation = "「왜 그래, 답지 않게 긴장한 거야? 둘만 있는 것 정도는 몇 번이나 있었는데」"
+
+[[dialogue]]
+speaker_original = "アポロ"
+speaker_translation = "아폴로"
+original = "「うちの連中が気になるなら大丈夫だぞ。こっそりのぞき見したら、１週間口きかないって言ってあるから」"
+translation = "「우리 집 녀석들이 신경 쓰인다면 괜찮아. 엿보면 일주일 동안 말 안 한다고 해뒀으니까」"
+
+[[dialogue]]
+speaker_original = "アポロ"
+speaker_translation = "아폴로"
+original = "「ということで、いつも通りどーんと構えててくれ。あたしがおまえの家にお邪魔してる時みたいにな」"
+translation = "「그런 고로 평소처럼 든든하게 굴어줘. 내가 네 집에 놀러 갔을 때처럼 말이야」"
+
+[[dialogue]]
+speaker = "unk"
+original = "いつものアポロみたいにしてみる"
+translation = "평소의 아폴로처럼 해볼게"
+
+[[dialogue]]
+speaker = "unk"
+original = "わかった"
+translation = "알았어"
+
+[[dialogue]]
+speaker_original = "アポロ"
+speaker_translation = "아폴로"
+original = "「おわっ、い、いきなりくっつくなって。ビックリするだろ」"
+translation = "「으앗, 갑자기 들이붙지 마. 놀라잖아」"
+
+[[dialogue]]
+speaker_original = "アポロ"
+speaker_translation = "아폴로"
+original = "「いつものあたしみたいに……って、そういうことか。いや、そんなにくっついてるか？」"
+translation = "「평소의 나처럼……이라니, 그런 뜻인가. 아니, 그렇게 들이붙어 있나?」"
+
+[[dialogue]]
+speaker_original = "アポロ"
+speaker_translation = "아폴로"
+original = "「……ごめん、確かにおまえの家だとくっついてるな。膝の上にどーんって乗っかったり」"
+translation = "「……미안, 확실히 네 집에서는 들이붙어 있었네. 무릎 위에 털썩 앉기도 하고」"
+
+[[dialogue]]
+speaker_original = "アポロ"
+speaker_translation = "아폴로"
+original = "「でも、今日はちょっと待ってくれ。あたしにも考えがあるんだ」"
+translation = "「하지만 오늘은 잠깐 기다려줘. 나한테도 생각이 있단 말이지」"
+
+[[dialogue]]
+speaker_original = "アポロ"
+speaker_translation = "아폴로"
+original = "「ほら、あたしのメイド修行も無事終了しただろ。もちろん、まだまだちゃんとしたメイドには程遠いんだけど……」"
+translation = "「자, 내 메이드 수행도 무사히 끝났잖아. 물론 아직 제대로 된 메이드가 되려면 멀었지만……」"
+
+[[dialogue]]
+speaker_original = "アポロ"
+speaker_translation = "아폴로"
+original = "「途中経過を見てもらうのは悪くないって、キリカとマリオンが言ってくれて」"
+translation = "「중간 과정을 보여주는 것도 나쁘지 않다고 키리카랑 마리온이 말해줘서」"
+
+[[dialogue]]
+speaker_original = "アポロ"
+speaker_translation = "아폴로"
+original = "「だから、メイドのあたしを見てよ。どのくらい成長したか、おまえに確認してもらいたいんだ」"
+translation = "「그러니까 메이드인 나를 봐줘. 얼마나 성장했는지 네가 확인해 줬으면 좋겠어」"
+
+[[dialogue]]
+speaker_original = "アポロ"
+speaker_translation = "아폴로"
+original = "「――変身！」"
+translation = "「――변신!」"
+
+[[dialogue]]
+speaker_original = "アポロ"
+speaker_translation = "아폴로"
+original = "「じゃじゃーん！\u3000メイドのあたしに変身したぞ」"
+translation = "「짠-! 메이드인 나로 변신했다」"
+
+[[dialogue]]
+speaker_original = "アポロ"
+speaker_translation = "아폴로"
+original = "「へへーん、ビックリしただろ。いつでもメイドになれるように改造してもらったんだ。戦闘だってできるから便利なんだぜ」"
+translation = "「헤헨-, 깜짝 놀랐지. 언제든 메이드가 될 수 있도록 개조받았어. 전투도 할 수 있으니까 편리하다고」"
+
+[[dialogue]]
+speaker_original = "アポロ"
+speaker_translation = "아폴로"
+original = "「でもまあ……今日は戦うのはいいんだ。そんな必要ないからな」"
+translation = "「하지만 뭐…… 오늘은 싸우는 건 됐어. 그럴 필요 없으니까」"
+
+[[dialogue]]
+speaker_original = "アポロ"
+speaker_translation = "아폴로"
+original = "「メイドさんとして、魔王にご奉仕するから。黙ってご奉仕されてて」"
+translation = "「메이드로서 마왕에게 봉사할 테니까. 잠자코 봉사받고 있어」"
+
+[[dialogue]]
+speaker = "unk"
+original = "こうして俺は、メイドさんになったアポロにサービスされることになった。"
+translation = "이렇게 나는 메이드가 된 아폴로에게 서비스를 받게 되었다."
+
+[[dialogue]]
+speaker_original = "アポロ"
+speaker_translation = "아폴로"
+original = "「あ、うん、最初からするから、仕切り直し」"
+translation = "「아, 응, 처음부터 할 테니까, 다시 정돈하고」"
+
+[[dialogue]]
+speaker_original = "アポロ"
+speaker_translation = "아폴로"
+original = "「おかえりなさいませ、ご主人様。本日もお仕事お疲れさまでした。お食事にしますか？\u3000それともお風呂にしますか？」"
+translation = "「다녀오셨습니까, 주인님. 오늘 하루도 일하느라 수고하셨습니다. 식사를 하시겠습니까? 아니면 목욕을 하시겠습니까?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "アポロでお願いします！"
+translation = "아폴로로 부탁드립니다!"
+
+[[dialogue]]
+speaker_original = "アポロ"
+speaker_translation = "아폴로"
+original = "「…………アポロをご所望ですね。かしこまりました」"
+translation = "「…………아폴로를 원하시는군요. 알겠습니다」"
+
+[[dialogue]]
+speaker_original = "アポロ"
+speaker_translation = "아폴로"
+original = "「えへへ、ふざけたつもりかもしんないけど、今更撤回させないからな♪」"
+translation = "「에헤헤, 장난칠 셈이었는지 몰라도 이제 와서 철회하게 두지 않을 거니까♪」"
+
+[[dialogue]]
+speaker_original = "アポロ"
+speaker_translation = "아폴로"
+original = "「疲れて帰ってきたおまえに与えられるのは、アポロだ！\u3000ぜーんぶあたしの思うままにしちゃうから、覚悟しろよ」"
+translation = "「지쳐서 돌아온 너에게 줄 수 있는 건 아폴로다! 전부 내 마음대로 할 테니까 각오해라」"
+
+[[dialogue]]
+speaker_original = "アポロ"
+speaker_translation = "아폴로"
+original = "「お風呂はまだ早いから、まずは食事だな！\u3000バッチリ準備出来てるから期待してくれ」"
+translation = "「목욕은 아직 이르니까 우선 식사네! 완벽하게 준비해 뒀으니까 기대해 줘」"
+
+[[dialogue]]
+speaker_original = "アポロ"
+speaker_translation = "아폴로"
+original = "「今日の献立はハンバーグだ！\u3000目玉焼きもついてるから、最高だな！」"
+translation = "「오늘 메뉴는 함바그다! 계란후라이도 올려져 있으니까 최고지!」"
+
+[[dialogue]]
+speaker_original = "アポロ"
+speaker_translation = "아폴로"
+original = "「全部自分で出来たらよかったけど……半分くらい、みんなに手伝ってもらったんだ。こねるのと、まとめるのと、ひっくり返すのはあたしの担当だぞ」"
+translation = "「전부 혼자서 할 수 있었다면 좋았겠지만…… 절반 정도는 다들 도와줬어. 반죽하고, 모양 잡고, 뒤집는 건 내 담당이야」"
+
+[[dialogue]]
+speaker_original = "アポロ"
+speaker_translation = "아폴로"
+original = "「あたしの手柄は半分しかないから……もう半分はメイドさんのご奉仕でカバーするつもり」"
+translation = "「내 공로는 절반밖에 없으니까…… 나머지 절반은 메이드의 봉사로 커버할 셈이야」"
+
+[[dialogue]]
+speaker_original = "アポロ"
+speaker_translation = "아폴로"
+original = "「じゃあ、失礼して……はい、あーん<emoji=heart04>」"
+translation = "「그럼 실례해서…… 자, 아-앙<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "unk"
+original = "メイドさんのあーんだ"
+translation = "메이드의 아-앙이다"
+
+[[dialogue]]
+speaker = "unk"
+original = "食べさせてくれるの？"
+translation = "먹여주는 거야?"
+
+[[dialogue]]
+speaker_original = "アポロ"
+speaker_translation = "아폴로"
+original = "「そ、そんな嬉しそうにするなって。まだ始めたばっかなんだから」"
+translation = "「그, 그렇게 기뻐하지 마. 이제 막 시작했을 뿐이니까」"
+
+[[dialogue]]
+speaker_original = "アポロ"
+speaker_translation = "아폴로"
+original = "「ったく、にやけるなよ～。このくらい、たまにしてるだろ。もしかしてメイドさん効果なのか？」"
+translation = "「나 참, 싱글벙글하지 마~. 이 정도는 가끔 해주잖아. 혹시 메이드 효과인가?」"
+
+[[dialogue]]
+speaker_original = "アポロ"
+speaker_translation = "아폴로"
+original = "「えへへ、悪い気はしないな。おまえも、いつもと同じだって油断するなよ。あーんの技術もちゃんと教わってるんだから」"
+translation = "「에헤헤, 기분 나쁘진 않네. 너도 평소랑 똑같다고 방심하지 마. 아-앙하는 기술도 제대로 배웠으니까」"
+
+[[dialogue]]
+speaker_original = "アポロ"
+speaker_translation = "아폴로"
+original = "「ってことで……あーんだ。はい、口開けて……」"
+translation = "「그런 고로…… 아-앙이다. 자, 입 벌려……」"
+
+[[dialogue]]
+speaker_original = "アポロ"
+speaker_translation = "아폴로"
+original = "「どうだ、うまいか？\u3000あたしの好きな、ケチャップとソースで作ったソースだぞ」"
+translation = "「어때, 맛있어? 내가 좋아하는 케첩과 소스로 만든 소스라고」"
+
+[[dialogue]]
+speaker_original = "アポロ"
+speaker_translation = "아폴로"
+original = "「よーく噛んで味わえよ。メイドさんの愛情がいっぱい詰まったハンバーグだからな」"
+translation = "「꼭꼭 씹어서 맛봐. 메이드의 애정이 듬뿍 담긴 함바그니까」"
+
+[[dialogue]]
+speaker_original = "アポロ"
+speaker_translation = "아폴로"
+original = "「あ、目玉焼きも一緒に食べたいよな。わかってるって。小さく切って、一緒に……はい、もいちどあーんして……」"
+translation = "「아, 계란후라이도 같이 먹고 싶지. 알고 있대도. 작게 잘라서, 같이…… 자, 다시 한번 아-앙 해봐……」"
+
+[[dialogue]]
+speaker_original = "アポロ"
+speaker_translation = "아폴로"
+original = "「えへへ、よく出来ました♪\u3000すっごくおいしそうに食べてるな」"
+translation = "「에헤헤, 잘했습니다♪ 정말 맛있게 먹네」"
+
+[[dialogue]]
+speaker = "unk"
+original = "１番のハンバーグだ！"
+translation = "으뜸가는 함바그야!"
+
+[[dialogue]]
+speaker = "unk"
+original = "すごくおいしいよ"
+translation = "정말 맛있어"
+
+[[dialogue]]
+speaker_original = "アポロ"
+speaker_translation = "아폴로"
+original = "「そっか、ありがとな。え？\u3000あたし？\u3000あたしはいいって。今はメイドさんなんだから」"
+translation = "「그렇구나, 고마워. 응? 나? 나는 됐어. 지금은 메이드니까」"
+
+[[dialogue]]
+speaker_original = "アポロ"
+speaker_translation = "아폴로"
+original = "「確かに気になるけど……うん、じゃあ１口だけ……」"
+translation = "「확실히 신경 쓰이긴 하지만…… 응, 그럼 한 입만……」"
+
+[[dialogue]]
+speaker = "unk"
+original = "はい、あーん♪"
+translation = "자, 아-앙♪"
+
+[[dialogue]]
+speaker_original = "アポロ"
+speaker_translation = "아폴로"
+original = "「あむっ、もぐもぐもぐ……」"
+translation = "「아움, 우물우물우물……」"
+
+[[dialogue]]
+speaker_original = "アポロ"
+speaker_translation = "아폴로"
+original = "「うわ、めちゃくちゃうまいな、このハンバーグ。うちで出るのと同じなのに、ずっとおいしく感じる」"
+translation = "「우와, 엄청나게 맛있네, 이 함바그. 우리 집에서 나오는 거랑 똑같은데 훨씬 맛있게 느껴져」"
+
+[[dialogue]]
+speaker_original = "アポロ"
+speaker_translation = "아폴로"
+original = "「おまえにあーんってしてもらったからかな？\u3000前してもらったときは、ドキドキしちゃって味もわかんなくなっちゃったけど……」"
+translation = "「네가 아-앙 해줘서 그런가? 전에 받았을 때는 두근거려서 맛도 잘 몰랐었는데……」"
+
+[[dialogue]]
+speaker_original = "アポロ"
+speaker_translation = "아폴로"
+original = "「もう、すっかりおまえの恋人だもんな。味わう余裕も出来たみたいだ」"
+translation = "「이제 완전히 네 연인이니까 말이야. 맛볼 여유도 생긴 모양이야」"
+
+[[dialogue]]
+speaker_original = "アポロ"
+speaker_translation = "아폴로"
+original = "「ハンバーグの次はどうする？\u3000ごはんか？\u3000それともサラダがいい？」"
+translation = "「함바그 다음은 어떻게 할래? 밥이야? 아니면 샐러드가 좋아?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "アポロでお願いします！"
+translation = "아폴로로 부탁드립니다!"
+
+[[dialogue]]
+speaker_original = "アポロ"
+speaker_translation = "아폴로"
+original = "「おい、またふざけるのか？\u3000アポロはもう提供中なのに……」"
+translation = "「어이, 또 장난치는 거야? 아폴로는 이미 제공 중인데……」"
+
+[[dialogue]]
+speaker_original = "アポロ"
+speaker_translation = "아폴로"
+original = "「でもわかった。おまえはとにかく、あたしをめいっぱい堪能したいんだな？」"
+translation = "「그래도 알았어. 너는 어쨌든 나를 마음껏 탐닉하고 싶은 거지?」"
+
+[[dialogue]]
+speaker_original = "アポロ"
+speaker_translation = "아폴로"
+original = "「今日はメイドのあたしだし、特に欲しくなっちゃうのかもな」"
+translation = "「오늘은 메이드인 나니까 특히 갖고 싶어지는 걸지도 모르겠네」"
+
+[[dialogue]]
+speaker_original = "アポロ"
+speaker_translation = "아폴로"
+original = "「……ううん、怒ったりしてない。むしろ、うれしいかも<emoji=heart04>」"
+translation = "「……으응, 화내거나 한 거 아니야. 오히려 기쁠지도<emoji=heart04>」"
+
+[[dialogue]]
+speaker_original = "アポロ"
+speaker_translation = "아폴로"
+original = "「おまえがあたしを求めてくれて……あたしもおまえが欲しくなってる。おあいこだな。仲良しだ<emoji=heart04>」"
+translation = "「네가 나를 원해줘서…… 나도 네가 갖고 싶어졌어. 샘샘이네. 사이좋네<emoji=heart04>」"
+
+[[dialogue]]
+speaker_original = "アポロ"
+speaker_translation = "아폴로"
+original = "「今日はメイドさんだけど……いつもみたいにするぞ。メイドだけど、おまえの彼女だ<emoji=heart04>」"
+translation = "「오늘은 메이드지만…… 평소처럼 할 거라고. 메이드지만 네 여자친구다<emoji=heart04>」"
+
+[[dialogue]]
+speaker_original = "アポロ"
+speaker_translation = "아폴로"
+original = "「えへへ……魔王だけの、可愛いメイドさんだぞ<emoji=heart04>」"
+translation = "「에헤헤…… 마왕만의 귀여운 메이드라고<emoji=heart04>」"
+
+[[dialogue]]
+speaker_original = "アポロ"
+speaker_translation = "아폴로"
+original = "「すっごく大好きだから、おまえもあたしのこと、愛してくれよ<emoji=heart04>」"
+translation = "「엄청나게 좋아하니까, 너도 나를 사랑해 줘<emoji=heart04>」"
+
+[[dialogue]]
+speaker_original = "アポロ"
+speaker_translation = "아폴로"
+original = "「うん……いっぱい好きって言って<emoji=heart04>\u3000あと、いっぱい触って<emoji=heart04>」"
+translation = "「응…… 많이 좋아한다고 말해줘<emoji=heart04> 그리고 많이 만져줘<emoji=heart04>」"
+
+[[dialogue]]
+speaker_original = "アポロ"
+speaker_translation = "아폴로"
+original = "「あたしだって……おまえ以上に触るからな<emoji=heart04>\u3000今日は飽きるまでするんだ<emoji=heart04>\u3000飽きたらやめて、またしたくなったらする<emoji=heart04>」"
+translation = "「나 역시…… 너 이상으로 만질 테니까<emoji=heart04> 오늘은 질릴 때까지 할 거야<emoji=heart04> 질리면 그만두고, 또 하고 싶어지면 할 거야<emoji=heart04>」"
+
+[[dialogue]]
+speaker_original = "アポロ"
+speaker_translation = "아폴로"
+original = "「これがいつものあたし達だもんな。でも、今日はうちでするなんて……えへへへ、やっぱりあたしもドキドキしちゃってるみたいだ<emoji=heart04>」"
+translation = "「이게 평소의 우리들이니까. 하지만 오늘은 우리 집에서 하다니…… 에헤헤헤, 역시 나도 두근거리고 있는 것 같아<emoji=heart04>」"
+
+[[dialogue]]
+speaker_original = "アポロ"
+speaker_translation = "아폴로"
+original = "「ん～、まおう～<emoji=heart04>\u3000メイドさんのあたしでも、いつもみたいに可愛がって<emoji=heart04>」"
+translation = "「응~, 마왕~<emoji=heart04> 메이드인 나라도 평소처럼 귀여워해 줘<emoji=heart04>」"
+
+[[dialogue]]
+speaker_original = "アポロ"
+speaker_translation = "아폴로"
+original = "「えへへへへ<emoji=heart04>\u3000やっぱり魔王に触ってもらうの、好きだ<emoji=heart04>」"
+translation = "「에헤헤헤헤<emoji=heart04> 역시 마왕이 만져주는 거 좋아<emoji=heart04>」"
+
+[[dialogue]]
+speaker_original = "アポロ"
+speaker_translation = "아폴로"
+original = "「魔王も好きだろ、あたしに触られるの？\u3000とろとろになるまで触りまくっちゃうからな<emoji=heart04>」"
+translation = "「마왕도 내가 만져주는 거 좋아하지? 녹아내릴 때까지 듬뿍 만져줄 테니까<emoji=heart04>」"
+
+[[dialogue]]
+speaker_original = "アポロ"
+speaker_translation = "아폴로"
+original = "「あ、でも……ハンバーグさめちゃう前に食べなきゃ。食べ終わったら続きするぞ」"
+translation = "「아, 하지만…… 함바그 식기 전에 먹어야 해. 다 먹으면 식은 후에 계속하자」"
+
+[[dialogue]]
+speaker_original = "アポロ"
+speaker_translation = "아폴로"
+original = "「約束、だからな<emoji=heart04>\u3000えへへ、魔王～<emoji=heart04>」"
+translation = "「약속이니까<emoji=heart04> 에헤헤, 마왕~<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "unk"
+original = "こうして俺とアポロは、夜の星見家でイチャつきまくるのだった。"
+translation = "이렇게 나와 아폴로는 밤의 호시미 가문에서 엄청나게 꽁냥거리는 것이었다."
+

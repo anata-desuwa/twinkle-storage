@@ -1,0 +1,391 @@
+[[dialogue]]
+speaker = "unk"
+original = "第３話,にーにーの専属メイドさん,P"
+translation = "제3화, 오빠의 전속 메이드님"
+
+[[dialogue]]
+speaker = "unk"
+original = "放課後、用事があって星見家に行くと、メイド服姿のクーシェンがいた。"
+translation = "방과 후, 볼일이 있어 호시미가에 가자, 메이드복 차림의 쿠셴이 있었다."
+
+[[dialogue]]
+speaker_original = "クーシェン"
+speaker_translation = "쿠셰엔"
+original = "「あ！\u3000にーにーだ！」"
+translation = "「아！ 오빠다！」"
+
+[[dialogue]]
+speaker_original = "キリカ"
+speaker_translation = "키리카"
+original = "「待ちなさい。今のあなたは星見家のメイドですよ」"
+translation = "「기다리세요. 지금 당신은 호시미가의 메이드입니다」"
+
+[[dialogue]]
+speaker_original = "クーシェン"
+speaker_translation = "쿠셰엔"
+original = "「いっけない、そうだったそうだった」"
+translation = "「아차차, 그랬지 그랬어」"
+
+[[dialogue]]
+speaker_original = "クーシェン"
+speaker_translation = "쿠셰엔"
+original = "「いらっしゃいませ、お客様。ご用があればお伺いします」"
+translation = "「어서 오십시오, 손님. 볼일이 있으시다면 말씀해 주십시오」"
+
+[[dialogue]]
+speaker_original = "キリカ"
+speaker_translation = "키리카"
+original = "「……ふむ」"
+translation = "「……흠」"
+
+[[dialogue]]
+speaker_original = "クーシェン"
+speaker_translation = "쿠셰엔"
+original = "「ど、どうだった……ですか、メイド長？」"
+translation = "「어, 어땠……습니까, 메이드장？」"
+
+[[dialogue]]
+speaker_original = "キリカ"
+speaker_translation = "키리카"
+original = "「指摘を受けて速やかに修正した点は評価しましょう」"
+translation = "「지적을 받고 즉시 수정한 점은 평가하도록 하죠」"
+
+[[dialogue]]
+speaker_original = "クーシェン"
+speaker_translation = "쿠셰엔"
+original = "「やった！」"
+translation = "「해냈다！」"
+
+[[dialogue]]
+speaker_original = "キリカ"
+speaker_translation = "키리카"
+original = "「喜ぶのは早いですよ。見習いとしても、あなたの振る舞いはまだまだメイドには程遠いです」"
+translation = "「기뻐하기엔 빠릅니다. 견습으로서도, 당신의 태도는 아직 메이드에는 턱없이 부족합니다」"
+
+[[dialogue]]
+speaker = "unk"
+original = "メイド修行は終わったはずじゃ？"
+translation = "메이드 수련은 끝났을 텐데？"
+
+[[dialogue]]
+speaker = "unk"
+original = "どうしてクーシェンがメイドしてるの？"
+translation = "어째서 쿠셴이 메이드를 하고 있어？"
+
+[[dialogue]]
+speaker_original = "クーシェン"
+speaker_translation = "쿠셰엔"
+original = "「うん！\u3000メイドの修行で学ぶことも多かったからさ～。続けてもいいかなって」"
+translation = "「응！ 메이드 수련에서 배운 것도 많았으니까 말이야～. 계속해도 괜찮으려나 해서」"
+
+[[dialogue]]
+speaker_original = "マリオン"
+speaker_translation = "마리온"
+original = "「うふふふ、クーシェン様も正式に星見家メイド隊の仲間入りでしょうか？」"
+translation = "「우후후후, 쿠셴 님도 정식으로 호시미가 메이드대의 동료가 되시는 건가요？」"
+
+[[dialogue]]
+speaker_original = "キリカ"
+speaker_translation = "키리카"
+original = "「クーシェンが望むのであれば、フィオナお嬢様に打診しても構いませんが」"
+translation = "「쿠셴이 원하는 것이라면, 피오나 아가씨께 의진해보아도 상관없습니다만」"
+
+[[dialogue]]
+speaker_original = "クーシェン"
+speaker_translation = "쿠셰엔"
+original = "「待って待って！\u3000さすがにボクも本気でメイドになるつもりはないってば」"
+translation = "「잠깐 잠깐！ 아무리 나라도 진심으로 메이드가 될 생각은 없다니깐」"
+
+[[dialogue]]
+speaker_original = "クーシェン"
+speaker_translation = "쿠셰엔"
+original = "「ほら、アポロだってそうでしょ？\u3000メイド修行自体は、ボクにとってもプラスになるからってだけで」"
+translation = "「봐, 아폴로도 그렇잖아？ 메이드 수련 자체는, 나에게도 플러스가 되기 때문일 뿐이라서」"
+
+[[dialogue]]
+speaker_original = "クーシェン"
+speaker_translation = "쿠셰엔"
+original = "「こうしてたま～にお稽古つけてくれたらうれしいなって」"
+translation = "「이렇게 가~끔씩 지도를 해준다면 좋겠다고 생각해서」"
+
+[[dialogue]]
+speaker_original = "キリカ"
+speaker_translation = "키리카"
+original = "「なるほど、でしたら不定期参加の見習いメイドとして、あなたを遇しましょう」"
+translation = "「그렇군요, 그렇다면 비정기 참가의 견습 메이드로서, 당신을 대우하도록 하겠습니다」"
+
+[[dialogue]]
+speaker_original = "マリオン"
+speaker_translation = "마리온"
+original = "「改めてよろしくお願いしますね、クーシェン様」"
+translation = "「다시 한번 잘 부탁드립니다, 쿠셴 님」"
+
+[[dialogue]]
+speaker_original = "クーシェン"
+speaker_translation = "쿠셰엔"
+original = "「うん！\u3000……じゃなかった、はい！\u3000こちらこそご指導よろしくお願いします！」"
+translation = "「응！ ……이 아니라, 네！ 저야말로 잘 지도해 주시길 부탁드립니다！」"
+
+[[dialogue]]
+speaker_original = "キリカ"
+speaker_translation = "키리카"
+original = "「少しはよくなったようですね。ただクーシェン、あなたはまだメイド道の入り口に立ったに過ぎません。ここで学んだことをいつでも忘れず精進なさい」"
+translation = "「조금은 좋아진 것 같군요. 다만 쿠셴, 당신은 아직 메이드도의 입구에 섰을 뿐입니다. 여기서 배운 것을 언제나 잊지 말고 정진하세요」"
+
+[[dialogue]]
+speaker_original = "クーシェン"
+speaker_translation = "쿠셰엔"
+original = "「わかりました！」"
+translation = "「알겠습니다！」"
+
+[[dialogue]]
+speaker_original = "マリオン"
+speaker_translation = "마리온"
+original = "「じゃあ、修行の続きをしましょう。せっかく会長様もいらっしゃいますから、クーシェン様もやる気が出るでしょうし」"
+translation = "「그럼, 수련을 계속하도록 하죠. 모처럼 회장님도 와 계시니, 쿠셴 님도 의욕이 생기실 테고요」"
+
+[[dialogue]]
+speaker_original = "キリカ"
+speaker_translation = "키리카"
+original = "「そう言えば、アポロ様から伺いましたが、クーシェンは緋宮会長と交際を始めたとか」"
+translation = "「그러고 보니, 아폴로 님께 들었습니다만, 쿠셴은 히미야 회장님과 교제를 시작했다면서요」"
+
+[[dialogue]]
+speaker_original = "クーシェン"
+speaker_translation = "쿠셰엔"
+original = "「ウキキ♪\u3000そうだよ～、ボクのカレシになってもらったの」"
+translation = "「우키키♪ 맞아～, 내 남자친구가 되어 달라고 했어」"
+
+[[dialogue]]
+speaker_original = "キリカ"
+speaker_translation = "키리카"
+original = "「クーシェンが正式なメイドでしたら、浮ついたことをするなとたしなめるところですが……おめでとうございます」"
+translation = "「쿠셴이 정식 메이드였다면, 들뜬 짓을 하지 말라고 타이렀을 것입니다만…… 축하드립니다」"
+
+[[dialogue]]
+speaker_original = "マリオン"
+speaker_translation = "마리온"
+original = "「よかったですね、クーシェン様。メイド修行で培った技は、きっと会長様との将来に役立ちますよ」"
+translation = "「잘됐네요, 쿠셴 님. 메이드 수련으로 다진 기술은, 분명 회장님과의 장래에 도움이 될 거예요」"
+
+[[dialogue]]
+speaker_original = "クーシェン"
+speaker_translation = "쿠셰엔"
+original = "「……そ、そうなの？」"
+translation = "「……그, 그래？」"
+
+[[dialogue]]
+speaker_original = "キリカ"
+speaker_translation = "키리카"
+original = "「緋宮会長は責任感の強い方ですから、男女交際をするなら、その先も考えているでしょう」"
+translation = "「히미야 회장님은 책임감이 강한 분이시니, 남녀 교제를 하신다면, 그 미래도 생각하고 계시겠죠」"
+
+[[dialogue]]
+speaker_original = "マリオン"
+speaker_translation = "마리온"
+original = "「うふふ、でしたら修行も特別メニューを加えた方がよさそうですね」"
+translation = "「우후후, 그렇다면 수련도 특별 메뉴를 추가하는 편이 좋아 보이겠네요」"
+
+[[dialogue]]
+speaker_original = "クーシェン"
+speaker_translation = "쿠셰엔"
+original = "「ん？\u3000なんだかよくわかんないけど、特別メニューってのは気になるかも！」"
+translation = "「응？ 왠지 잘 모르겠지만, 특별 메뉴라는 건 신경 쓰일 지도！」"
+
+[[dialogue]]
+speaker_original = "マリオン"
+speaker_translation = "마리온"
+original = "「頑張って下さいね。クーシェン様が星見家メイド隊のスペシャルテクニックを会得したら、会長様もきっと喜んじゃうはずですから」"
+translation = "「힘내세요. 쿠셴 님이 호시미가 메이드대의 스페셜 테크닉을 체득하신다면, 회장님도 분명 기뻐하실 테니까요」"
+
+[[dialogue]]
+speaker_original = "クーシェン"
+speaker_translation = "쿠셰엔"
+original = "「にーにーも……喜ぶの？」"
+translation = "「오빠도…… 기뻐해？」"
+
+[[dialogue]]
+speaker_original = "マリオン"
+speaker_translation = "마리온"
+original = "「はい、あなたの大好きなにーにーを、これでもかってくらい喜ばせちゃいましょう♪」"
+translation = "「네, 당신이 너무 좋아하는 오빠를, 질릴 만큼 기쁘게 해주도록 하죠♪」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ドキドキしてしまうんだけど？"
+translation = "두근거려 버리는데?"
+
+[[dialogue]]
+speaker = "unk"
+original = "だ、大丈夫なの？"
+translation = "괜, 괜찮은 거야?"
+
+[[dialogue]]
+speaker_original = "キリカ"
+speaker_translation = "키리카"
+original = "「何やら誤解を与えてしまっているようですが、あくまで健全な修行ですので。マリオンさんも自重してください」"
+translation = "「어째서인지 오해를 사고 있는 것 같습니다만, 어디까지나 건전한 수련이니까요. 마리온 씨도 자중해 주세요」"
+
+[[dialogue]]
+speaker_original = "マリオン"
+speaker_translation = "마리온"
+original = "「うふふ、ごめんなさい♪」"
+translation = "「우후후, 미안해요♪」"
+
+[[dialogue]]
+speaker_original = "マリオン"
+speaker_translation = "마리온"
+original = "「でも、特別メニューでメイドの技術に更に磨きをかければ、未来の旦那様にも喜んでもらえますよ」"
+translation = "「하지만, 특별 메뉴로 메이드 기술을 더욱 닦는다면, 미래의 남편분께서도 기뻐해 주실 거예요」"
+
+[[dialogue]]
+speaker_original = "クーシェン"
+speaker_translation = "쿠셰엔"
+original = "「そうだよね、ボクがもっと頑張って、大人ゲージを上げたらきっとにーにーも……」"
+translation = "「그렇지, 내가 더 힘내서 어른 게이지를 올리면 분명 오빠도……」"
+
+[[dialogue]]
+speaker_original = "マリオン"
+speaker_translation = "마리온"
+original = "「きっと喜んで頂けます。大好きな彼女の大好きなメイドご奉仕ですから♪」"
+translation = "「분명 기뻐해 주실 거예요. 사랑하는 그녀의 사랑스러운 메이드 봉사니까요♪」"
+
+[[dialogue]]
+speaker_original = "クーシェン"
+speaker_translation = "쿠셰엔"
+original = "「そうだね！\u3000にーにーはボクがこの服着てると、いっつもうれしそうに見てるもん」"
+translation = "「그렇지! 오빠는 내가 이 옷을 입고 있으면 항상 기쁜 듯이 바라보는걸」"
+
+[[dialogue]]
+speaker_original = "キリカ"
+speaker_translation = "키리카"
+original = "「……緋宮会長は、自制心をもっと養わねばならないようですね」"
+translation = "「……히미야 회장은 자제심을 좀 더 길러야 할 것 같네요」"
+
+[[dialogue]]
+speaker_original = "マリオン"
+speaker_translation = "마리온"
+original = "「まあまあ、いいじゃないですか。自分の彼女をエッチな目で見てしまうのは当然のことですよ」"
+translation = "「에이 에이, 괜찮잖아요. 자기 여자친구를 야한 눈으로 봐 버리는 건 당연한 일이라고요」"
+
+[[dialogue]]
+speaker_original = "クーシェン"
+speaker_translation = "쿠셰엔"
+original = "「ウキキ♪\u3000ボクも全然オッケーだよ。にーにーにもっと見て欲しいな♪」"
+translation = "「우키키♪ 나도 완전 오케이이야. 오빠가 좀 더 봐주면 좋겠어♪」"
+
+[[dialogue]]
+speaker_original = "クーシェン"
+speaker_translation = "쿠셰엔"
+original = "「ねぇ、にーにー……ボクのこと好きなら……もっといっぱい見て……いつもボクのことだけ考えてて欲しいの……<emoji=heart04>」"
+translation = "「저기, 오빠…… 나를 좋아한다면…… 좀 더 많이 봐줘…… 항상 나만 생각해 줬으면 좋겠어……<emoji=heart04>」"
+
+[[dialogue]]
+speaker_original = "クーシェン"
+speaker_translation = "쿠셰엔"
+original = "「ボクもにーにーだけの可愛いメイドさんになるから<emoji=heart04>\u3000ねっ<emoji=heart04>」"
+translation = "「나도 오빠만의 귀여운 메이드가 될 테니까<emoji=heart04> 응?<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "unk"
+original = "可愛すぎるよ！"
+translation = "너무 귀엽잖아!"
+
+[[dialogue]]
+speaker = "unk"
+original = "クーシェン……！"
+translation = "쿠셴……!"
+
+[[dialogue]]
+speaker_original = "クーシェン"
+speaker_translation = "쿠셰엔"
+original = "「わわっ、にーにー！？\u3000抱きついちゃうくらい興奮したの？」"
+translation = "「와왓, 오빠!? 껴안을 정도로 흥분한 거야?」"
+
+[[dialogue]]
+speaker_original = "クーシェン"
+speaker_translation = "쿠셰엔"
+original = "「ダメだってばぁ。メイド長たちが見てるんだし。むむぅ～～、ぎゅってしすぎぃ～～」"
+translation = "「안 된다니까아. 메이드장 언니들이 보고 있는데. 으으~~, 너무 꽉 안아~~」"
+
+[[dialogue]]
+speaker_original = "キリカ"
+speaker_translation = "키리카"
+original = "「メイドの護身術で容易に引き剥がせるはずですが……」"
+translation = "「메이드의 호신술로 쉽게 떼어낼 수 있을 텐데요……」"
+
+[[dialogue]]
+speaker_original = "マリオン"
+speaker_translation = "마리온"
+original = "「恋する女の子ですから、離れたくないですよね～」"
+translation = "「사랑하는 소녀니까요, 떨어지고 싶지 않은 거겠죠~」"
+
+[[dialogue]]
+speaker_original = "クーシェン"
+speaker_translation = "쿠셰엔"
+original = "「う、ううっ……否定出来ない～」"
+translation = "「으, 으윽…… 부정할 수 없어~」"
+
+[[dialogue]]
+speaker_original = "クーシェン"
+speaker_translation = "쿠셰엔"
+original = "「にーにーは、ボクのことぎゅうってしたいくらい好きになっちゃったんだよね……」"
+translation = "「오빠는 나를 꽉 안고 싶을 정도로 좋아하게 돼 버린 거네……」"
+
+[[dialogue]]
+speaker_original = "クーシェン"
+speaker_translation = "쿠셰엔"
+original = "「だったら……いいよ、にーにーが満足するまでボクのことぎゅってして……」"
+translation = "「그러면…… 좋아, 오빠가 만족할 때까지 나를 꽉 안아줘……」"
+
+[[dialogue]]
+speaker = "unk"
+original = "このまま持ち帰りたい"
+translation = "이대로 집에 데려가고 싶다"
+
+[[dialogue]]
+speaker = "unk"
+original = "ずっと抱き締めてたい"
+translation = "계속 안고 있고 싶다"
+
+[[dialogue]]
+speaker_original = "クーシェン"
+speaker_translation = "쿠셰엔"
+original = "「にーにーってば大胆だ～<emoji=heart04>」"
+translation = "「오빠도 참 대담해~<emoji=heart04>」"
+
+[[dialogue]]
+speaker_original = "キリカ"
+speaker_translation = "키리카"
+original = "「いくら恋人同士と言えど、ある程度は自重して頂きたいですね」"
+translation = "「아무리 연인 사이라고는 하나, 어느 정도는 자중해 주셨으면 하네요」"
+
+[[dialogue]]
+speaker_original = "マリオン"
+speaker_translation = "마리온"
+original = "「ええ～、ちょっとくらいいいじゃない」"
+translation = "「에에~, 조금쯤은 괜찮잖아」"
+
+[[dialogue]]
+speaker_original = "キリカ"
+speaker_translation = "키리카"
+original = "「今のクーシェンはメイド修行中の身。であれば、星見家のメイドとしての応対をすべきでしょう」"
+translation = "「지금의 쿠셴은 메이드 수련 중인 몸. 그렇다면 호시미가의 메이드로서 응대해야겠지요」"
+
+[[dialogue]]
+speaker_original = "クーシェン"
+speaker_translation = "쿠셰엔"
+original = "「そ、そうだった。じゃあ改めて、にーにーの専属メイドさんとして……」"
+translation = "「그, 그랬었지. 그럼 새롭게, 오빠의 전속 메이드로서……」"
+
+[[dialogue]]
+speaker_original = "クーシェン"
+speaker_translation = "쿠셰엔"
+original = "「ご主人様<emoji=heart04>\u3000ボクにいっぱいご奉仕させて下さい<emoji=heart04>」"
+translation = "「주인님<emoji=heart04> 저에게 잔뜩 봉사하게 해주세요<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "unk"
+original = "こうして、可愛い専属メイドのクーシェンにご奉仕してもらうという最高の体験をするのだった。"
+translation = "이렇게 해서, 귀여운 전속 메이드인 쿠셴에게 봉사받는 최고의 체험을 하게 된 것이었다."
+

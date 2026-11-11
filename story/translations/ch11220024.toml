@@ -1,0 +1,417 @@
+[[dialogue]]
+speaker = "unk"
+original = "第４話,好きゲージ限界突破,P"
+translation = "제4화, 호감 게이지 한계 돌파, P"
+
+[[dialogue]]
+speaker = "unk"
+original = "この日はたまたま遅くまで居残っていた。"
+translation = "이날은 마침 늦게까지 남아 있었다."
+
+[[dialogue]]
+speaker = "unk"
+original = "溜め込んでしまった書類仕事が片付くまで、もうひと頑張りだ。"
+translation = "밀려 있던 서류 작업이 끝날 때까지 조금만 더 힘내자."
+
+[[dialogue]]
+speaker_original = "クーシェン"
+speaker_translation = "쿠셰엔"
+original = "「ごめんくださーい……あ、にーにー！\u3000やっぱりいたんだ？」"
+translation = "「계세요~…… 아, 오빠! 역시 있었구나?」"
+
+[[dialogue]]
+speaker_original = "クーシェン"
+speaker_translation = "쿠셰엔"
+original = "「電気ついてたから、まだいるのかなって見に来ちゃった♪」"
+translation = "「불이 켜져 있길래, 아직 있는 건가 하고 보러 와 버렸어♪」"
+
+[[dialogue]]
+speaker_original = "クーシェン"
+speaker_translation = "쿠셰엔"
+original = "「お仕事大変そう？\u3000あんまり無理するとダメだよ～」"
+translation = "「일 힘들어 보여? 너무 무리하면 안 돼~」"
+
+[[dialogue]]
+speaker = "unk"
+original = "キリのいいとこまで進めたくて"
+translation = "적당히 끊을 수 있는 곳까지 진행하고 싶어서"
+
+[[dialogue]]
+speaker = "unk"
+original = "無理してないよ"
+translation = "무리하지 않아"
+
+[[dialogue]]
+speaker_original = "クーシェン"
+speaker_translation = "쿠셰엔"
+original = "「にーにーってば頑張り屋さんだなぁ。他の子は？\u3000帰っちゃったの？」"
+translation = "「오빠도 참 노력가라니까. 다른 애들은? 집에 갔어?」"
+
+[[dialogue]]
+speaker_original = "クーシェン"
+speaker_translation = "쿠셰엔"
+original = "「女の子を遅くまで残したら可哀想～って、先に帰したんでしょ？\u3000わかるよ～、にーにーが考えそうなことだもん」"
+translation = "「여자아이를 늦게까지 남겨두면 불쌍해~라면서 먼저 보내준 거지? 알아~, 오빠가 생각할 법한 일인걸」"
+
+[[dialogue]]
+speaker_original = "クーシェン"
+speaker_translation = "쿠셰엔"
+original = "「ボク？\u3000ボクはバトルの後みんなとおしゃべりしてて遅くなっちゃっただけ～」"
+translation = "「나? 나는 배틀이 끝난 뒤에 다 같이 수다 떠느라 늦어졌을 뿐이야~」"
+
+[[dialogue]]
+speaker_original = "クーシェン"
+speaker_translation = "쿠셰엔"
+original = "「なーに？\u3000ボクがかっこよく戦うとこ見たかった？\u3000ざーんねん、最近のボクは可愛さ重視だから」"
+translation = "「뭐어야? 내가 멋지게 싸우는 모습이 보고 싶었어? 아쉽~게도, 요즘 나는 귀여움 중시거든」"
+
+[[dialogue]]
+speaker_original = "クーシェン"
+speaker_translation = "쿠셰엔"
+original = "「メイド服で戦う方法を教わってるから、いろいろ試してみたくって。見てる人みーんなボクのこと可愛い～って言ってくれるんだよ」"
+translation = "「메이드복으로 싸우는 방법을 배우고 있어서, 이것저것 시도해 보고 싶었단 말이지. 보는 사람 모~두가 나보고 귀엽다~고 말해준다고」"
+
+[[dialogue]]
+speaker_original = "クーシェン"
+speaker_translation = "쿠셰엔"
+original = "「ま、にーにー以外にどんだけ褒められても、なんとも思わないんだけどね～」"
+translation = "「뭐, 오빠 말고 칭찬해 봤자 아무렇지도 않지만 말이야~」"
+
+[[dialogue]]
+speaker_original = "クーシェン"
+speaker_translation = "쿠셰엔"
+original = "「それよりも……ね！\u3000ね！\u3000にーにーはまだ時間かかるんだよね？」"
+translation = "「그것보다…… 있잖아! 있잖아! 오빠는 아직 시간 걸리는 거지?」"
+
+[[dialogue]]
+speaker_original = "クーシェン"
+speaker_translation = "쿠셰엔"
+original = "「だったら専属メイドのボクが、ばっちりサポートしてあげちゃうよ♪」"
+translation = "「그러면 전속 메이드인 내가 완벽하게 서포트해 줄게♪」"
+
+[[dialogue]]
+speaker_original = "クーシェン"
+speaker_translation = "쿠셰엔"
+original = "「ということで……へーんしん！」"
+translation = "「그런 고로…… 변~신!」"
+
+[[dialogue]]
+speaker_original = "クーシェン"
+speaker_translation = "쿠셰엔"
+original = "「じゃじゃーん！\u3000っと……メイドなんだからお淑やかにしなきゃ」"
+translation = "「짜잔~! 아참…… 메이드니까 점잖게 해야지」"
+
+[[dialogue]]
+speaker_original = "クーシェン"
+speaker_translation = "쿠셰엔"
+original = "「あなたの専属メイド、クーシェンです。何なりとお申し付け下さいね<emoji=heart04>」"
+translation = "「당신의 전속 메이드, 쿠셴입니다. 무엇이든 말씀해 주세요<emoji=heart04>」"
+
+[[dialogue]]
+speaker_original = "クーシェン"
+speaker_translation = "쿠셰엔"
+original = "「どうどう？\u3000今のはちゃんとメイドっぽくなかった～？\u3000ナミエルを参考にしてみたんだけど」"
+translation = "「어때 어때? 방금 거 제법 메이드 같지 않았어~? 나미엘을 참고해 봤는데」"
+
+[[dialogue]]
+speaker = "unk"
+original = "凄かった、驚いたよ"
+translation = "대단했어, 놀랐는걸"
+
+[[dialogue]]
+speaker = "unk"
+original = "本当にメイドしてた"
+translation = "정말로 메이드다웠어"
+
+[[dialogue]]
+speaker_original = "クーシェン"
+speaker_translation = "쿠셰엔"
+original = "「えへへ～、にーにーに褒められちゃった～♪\u3000うれしすぎてにやけちゃうよ～」"
+translation = "「에헤헤~, 오빠한테 칭찬받았다~♪ 너무 기뻐서 실실 웃게 돼~」"
+
+[[dialogue]]
+speaker_original = "クーシェン"
+speaker_translation = "쿠셰엔"
+original = "「あ、こんなことしてる場合じゃなかったね。にーにーはお仕事頑張って。でないと帰るのもっと遅くなっちゃうよ」"
+translation = "「아, 이러고 있을 때가 아니었지. 오빠는 일 열심히 해. 안 그러면 집 가는 거 더 늦어진다구」"
+
+[[dialogue]]
+speaker_original = "クーシェン"
+speaker_translation = "쿠셰엔"
+original = "「ボクはにーにーの専属メイドとしてお世話するからね。アポロはいないけど大丈夫、２人分頑張っちゃうから」"
+translation = "「나는 오빠의 전속 메이드로서 시중들 테니까. 아폴로는 없지만 괜찮아, 2인분 치 힘낼 테니까」"
+
+[[dialogue]]
+speaker_original = "クーシェン"
+speaker_translation = "쿠셰엔"
+original = "「あ、飲み物が空になってる。水分補給は大事だよってフェニエルに教わったから、補充するね」"
+translation = "「아, 마실 게 비어 있네. 수분 보충은 중요하다고 페니엘한테 배웠으니까, 채워 올게」"
+
+[[dialogue]]
+speaker_original = "クーシェン"
+speaker_translation = "쿠셰엔"
+original = "「さあさあ、にーにーも頑張って～。応援するのもメイドさんのお仕事だからね♪」"
+translation = "「자자, 오빠도 힘내~. 응원하는 것도 메이드의 일이니까♪」"
+
+[[dialogue]]
+speaker = "unk"
+original = "こうして俺は、可愛い専属メイドさんにお世話をされることになった。"
+translation = "이렇게 해서 나는 귀여운 전속 메이드에게 시중을 받게 되었다."
+
+[[dialogue]]
+speaker_original = "クーシェン"
+speaker_translation = "쿠셰엔"
+original = "「にーにー、欲しかった書類はこれでよかった？」"
+translation = "「오빠, 찾던 서류가 이건가?」"
+
+[[dialogue]]
+speaker_original = "クーシェン"
+speaker_translation = "쿠셰엔"
+original = "「やった、せいか～い♪\u3000お手伝いしてたら覚えちゃった」"
+translation = "「나이스, 정~답♪ 도와주다 보니 외워 버렸어」"
+
+[[dialogue]]
+speaker_original = "クーシェン"
+speaker_translation = "쿠셰엔"
+original = "「にーにーの専属メイドさんだし、それにカノジョだし……いっぱい頑張るからね<emoji=heart04>」"
+translation = "「오빠의 전속 메이드이고, 게다가 여자친구니까…… 엄청 힘낼 테니까<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "unk"
+original = "よしよし"
+translation = "착하지 착해"
+
+[[dialogue]]
+speaker = "unk"
+original = "ありがとう"
+translation = "고마워"
+
+[[dialogue]]
+speaker_original = "クーシェン"
+speaker_translation = "쿠셰엔"
+original = "「えへへぇ～、ご褒美のなでなでだ～♪」"
+translation = "「에헤헤에~, 포상으로 쓰다듬어 주는 거다~♪」"
+
+[[dialogue]]
+speaker_original = "クーシェン"
+speaker_translation = "쿠셰엔"
+original = "「今みたいに、いっぱい触って、可愛がってね。にーにーがしてくれたら、ボクももっと張り切っちゃうから」"
+translation = "「지금처럼 잔뜩 만지고 귀여워해 줘. 오빠가 해주면 나도 더 힘낼 테니까」"
+
+[[dialogue]]
+speaker_original = "クーシェン"
+speaker_translation = "쿠셰엔"
+original = "「そ・れ・に～……たくさん触ると、ボクの大人ゲージも上がるから<emoji=heart04>」"
+translation = "「거·기·다·가~…… 많이 만지면 내 어른 게이지도 올라가니까<emoji=heart04>」"
+
+[[dialogue]]
+speaker_original = "クーシェン"
+speaker_translation = "쿠셰엔"
+original = "「にーにーの手で、ボクをボンキュッボンに育ててね<emoji=heart04>」"
+translation = "「오빠의 손으로 나를 빵빵하게 키워줘<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "unk"
+original = "もっと撫でちゃう！"
+translation = "더 쓰다듬어 버린다!"
+
+[[dialogue]]
+speaker_original = "クーシェン"
+speaker_translation = "쿠셰엔"
+original = "「わわっ、激しすぎるよぉ！\u3000髪がボサボサになっちゃうでしょー」"
+translation = "「와왓, 너무 격렬해! 머리가 부스스해져 버리잖아ー」"
+
+[[dialogue]]
+speaker_original = "クーシェン"
+speaker_translation = "쿠셰엔"
+original = "「もー、髪直して。そう、いつも撫でてくれる感じでそっとだよ<emoji=heart04>」"
+translation = "「정말-, 머리 정돈해 줘. 그래, 평소에 쓰다듬어 주는 느낌으로 살살이야<emoji=heart04>」"
+
+[[dialogue]]
+speaker_original = "クーシェン"
+speaker_translation = "쿠셰엔"
+original = "「んふふ～……にーにーの手、好きぃ<emoji=heart04>\u3000こんなのされたら大人ゲージがギュンギュン上がっちゃうよ」"
+translation = "「응후후~…… 오빠 손 좋아<emoji=heart04> 이런 거 당하면 어른 게이지가 쑥쑥 올라가 버려」"
+
+[[dialogue]]
+speaker_original = "クーシェン"
+speaker_translation = "쿠셰엔"
+original = "「にーにー、ゴミ捨ててきたよ～」"
+translation = "「오빠, 쓰레기 버리고 왔어~」"
+
+[[dialogue]]
+speaker_original = "クーシェン"
+speaker_translation = "쿠셰엔"
+original = "「うん……今度はどこ触る？\u3000頭はもう十分だから……他のとこがいい<emoji=heart04>」"
+translation = "「응…… 이번엔 어디 만질 거야? 머리는 이제 됐으니까…… 다른 데가 좋아<emoji=heart04>」"
+
+[[dialogue]]
+speaker_original = "クーシェン"
+speaker_translation = "쿠셰엔"
+original = "「あ～、エッチなとこだと思った？\u3000もう、にーにーのスケベ～」"
+translation = "「아~, 야한 데라고 생각했지? 정말, 오빠는 음란마귀라니까~」"
+
+[[dialogue]]
+speaker_original = "クーシェン"
+speaker_translation = "쿠셰엔"
+original = "「ボクはいいけど、にーにーがお仕事できなくなっちゃうでしょ。だから今は我慢しようね<emoji=heart04>」"
+translation = "「나는 괜찮지만, 오빠가 일을 못 하게 돼 버리잖아. 그러니까 지금은 참자<emoji=heart04>」"
+
+[[dialogue]]
+speaker_original = "クーシェン"
+speaker_translation = "쿠셰엔"
+original = "「代わりにどこがいいかなぁ？\u3000そうだ、手がいい。ボクの手にぎにぎして～」"
+translation = "「대신 어디가 좋을까나~? 맞아, 손이 좋아. 내 손 조물조물해 줘~」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ちっちゃくて可愛い手だね"
+translation = "조그마하고 귀여운 손이네"
+
+[[dialogue]]
+speaker_original = "クーシェン"
+speaker_translation = "쿠셰엔"
+original = "「あははっ、くすぐったいよぉ」"
+translation = "「아하핫, 간지러워라」"
+
+[[dialogue]]
+speaker_original = "クーシェン"
+speaker_translation = "쿠셰엔"
+original = "「でも……ん……大人ゲージが上がってる気がする……こういうのでもアップするんだ……」"
+translation = "「하지만…… 응…… 어른 게이지가 올라가는 느낌이 들어…… 이런 것으로도 업하는구나……」"
+
+[[dialogue]]
+speaker_original = "クーシェン"
+speaker_translation = "쿠셰엔"
+original = "「何度もおねだりしてごめんって思うけど、にーにーもうれしそうだよね」"
+translation = "「몇 번이고 조라서 미안하다고 생각하지만, 오빠도 기뻐 보이네」"
+
+[[dialogue]]
+speaker_original = "クーシェン"
+speaker_translation = "쿠셰엔"
+original = "「マリオンが教えてくれたんだ。メイドはお手伝いさんじゃないって」"
+translation = "「마리온이 가르쳐 줬어. 메이드는 심부름꾼이 아니라고」"
+
+[[dialogue]]
+speaker_original = "クーシェン"
+speaker_translation = "쿠셰엔"
+original = "「にーにーの身の回りだけじゃなく、心もお世話するのが、メイドなんだって」"
+translation = "「오빠의 신변뿐만 아니라 마음도 보살피는 게 메이드래」"
+
+[[dialogue]]
+speaker_original = "クーシェン"
+speaker_translation = "쿠셰엔"
+original = "「だからね……ボクのこと触って、少しでもにーにーのお仕事が楽になったら……」"
+translation = "「그러니까 말이야…… 나를 만져서 조금이라도 오빠 일이 편해진다면……」"
+
+[[dialogue]]
+speaker_original = "クーシェン"
+speaker_translation = "쿠셰엔"
+original = "「そ、それだけっ。ボクもメイド修行でいろいろ教わったんだから」"
+translation = "「그, 그것뿐이야. 나도 메이드 수련으로 이것저것 배웠으니까」"
+
+[[dialogue]]
+speaker_original = "クーシェン"
+speaker_translation = "쿠셰엔"
+original = "「いつものクーシェンのままだと思わないでね。油断してたら、新しいボクのこと、もっと夢中になっちゃうんだぞ<emoji=heart04>」"
+translation = "「평소의 쿠셴 그대로라고 생각하지 마. 방심하고 있으면 새로운 나한테 훨씬 더 빠져들고 말 거라고<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "unk"
+original = "今まさに夢中になってる"
+translation = "지금 마침 빠져들고 있어"
+
+[[dialogue]]
+speaker_original = "クーシェン"
+speaker_translation = "쿠셰엔"
+original = "「そ、そうなんだ……えへへ、ボクってばほんと罪深いなぁ」"
+translation = "「그, 그렇구나…… 에헤헤, 나도 참 정말 죄많은 여자라니까」"
+
+[[dialogue]]
+speaker_original = "クーシェン"
+speaker_translation = "쿠셰엔"
+original = "「えっと……こっそりにーにーにだけ教えちゃうけどね……」"
+translation = "「저기…… 몰래 오빠한테만 가르쳐 줄 건데 말이야……」"
+
+[[dialogue]]
+speaker_original = "クーシェン"
+speaker_translation = "쿠셰엔"
+original = "「ボクの好きゲージも、上がっちゃってるみたい<emoji=heart04>」"
+translation = "「내 좋아함 게이지도 올라간 것 같아<emoji=heart04>」"
+
+[[dialogue]]
+speaker_original = "クーシェン"
+speaker_translation = "쿠셰엔"
+original = "「あ、でも前みたいに苦しくならないね。おっぱいのところがトクントクンってしてるのに、全然嫌じゃなくて……気持ちいいの」"
+translation = "「아, 하지만 전처럼 괴롭지는 않네. 가슴 있는 곳이 두근두근거리는데 전혀 싫지 않고…… 기분 좋아」"
+
+[[dialogue]]
+speaker_original = "クーシェン"
+speaker_translation = "쿠셰엔"
+original = "「これって、ボクの大人ゲージが上がったからかなぁ？」"
+translation = "「이건 내 어른 게이지가 올라가서 그런 걸까나~?」"
+
+[[dialogue]]
+speaker_original = "クーシェン"
+speaker_translation = "쿠셰엔"
+original = "「んむむ……おっぱいの大きさは変わってないかも。大人ゲージがまだ足りないか～」"
+translation = "「음…… 가슴 크기는 안 변했을지도. 어른 게이지가 아직 부족한가~」"
+
+[[dialogue]]
+speaker_original = "クーシェン"
+speaker_translation = "쿠셰엔"
+original = "「おっぱい大きくなったら、にーにーも喜んでくれると思ったのにな～」"
+translation = "「가슴이 커지면 오빠도 기뻐해 줄 거라고 생각했는데 말이지~」"
+
+[[dialogue]]
+speaker_original = "クーシェン"
+speaker_translation = "쿠셰엔"
+original = "「ね！\u3000ね！\u3000にーにーも大きい方が好きでしょ？」"
+translation = "「있지! 있지! 오빠도 큰 쪽이 좋지?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "大きくても小さくても好きだよ"
+translation = "크든 작든 좋아해"
+
+[[dialogue]]
+speaker_original = "クーシェン"
+speaker_translation = "쿠셰엔"
+original = "「えへへ～<emoji=heart04>」"
+translation = "「에헤헤~<emoji=heart04>」"
+
+[[dialogue]]
+speaker_original = "クーシェン"
+speaker_translation = "쿠셰엔"
+original = "「ボクのおっぱいはずっとにーにーのだよ」"
+translation = "「내 가슴은 평생 오빠 거야」"
+
+[[dialogue]]
+speaker_original = "クーシェン"
+speaker_translation = "쿠셰엔"
+original = "「だから……ね。ボクのこと、ずっと可愛がって……にーにーだけのボクでいさせて……」"
+translation = "「그러니까…… 응. 나를 평생 귀여워해 줘…… 오빠만의 나로 있게 해줘……」"
+
+[[dialogue]]
+speaker_original = "クーシェン"
+speaker_translation = "쿠셰엔"
+original = "「大人ゲージ、だいぶ貯まったし……ちょっとだけならいいよね……」"
+translation = "「어른 게이지도 제법 쌓였고…… 조금쯤이라면 괜찮겠지……」"
+
+[[dialogue]]
+speaker_original = "クーシェン"
+speaker_translation = "쿠셰엔"
+original = "「好きゲージも上がっちゃうけど……ボクもう、好きって気持ち我慢できないから……」"
+translation = "「좋아함 게이지도 올라가 버리지만…… 나 이제 좋아하는 마음 참을 수 없으니까……」"
+
+[[dialogue]]
+speaker_original = "クーシェン"
+speaker_translation = "쿠셰엔"
+original = "「にーにー……だぁいすき<emoji=heart04>」"
+translation = "「오빠…… 정말 좋아해<emoji=heart04>」"
+
+[[dialogue]]
+speaker = "unk"
+original = "こうして、可愛いメイドさんに好き好き言われながら、残りの仕事を片付けるのだった。"
+translation = "이렇게 해서 귀여운 메이드에게 연신 좋아한다는 말을 들으며 남은 업무를 처리하는 것이었다."
+

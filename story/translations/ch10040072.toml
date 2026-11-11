@@ -1,0 +1,315 @@
+[[dialogue]]
+speaker = "unk"
+original = "第２話,修行ジャンキー,P"
+translation = "제2화, 수행 중독자, P"
+
+[[dialogue]]
+speaker = "unk"
+original = "アポロとクーシェンのメイド修行は始まったが、そう簡単には行かなかった。"
+translation = "아폴로와 쿠셴의 메이드 수행이 시작되었지만, 그리 쉽지만은 않았다."
+
+[[dialogue]]
+speaker_original = "アポロ"
+speaker_translation = "아폴로"
+original = "「うう～、これどうなってるんだよ……難しすぎるぞ」"
+translation = "「우우~, 이거 어떻게 된 거야…… 너무 어렵다고」"
+
+[[dialogue]]
+speaker_original = "クーシェン"
+speaker_translation = "쿠셰엔"
+original = "「やめだやめだー！\u3000ボクはこういうちまちましたの向いてないんだよ！」"
+translation = "「관둬관둬-! 나는 이런 자잘한 건 안 맞아!」"
+
+[[dialogue]]
+speaker_original = "クーシェン"
+speaker_translation = "쿠셰엔"
+original = "「ねえ、適当にごまかして終わりにしちゃおうよ」"
+translation = "「얘, 적당히 속여서 끝내 버리자」"
+
+[[dialogue]]
+speaker_original = "アポロ"
+speaker_translation = "아폴로"
+original = "「いーや、ダメだ！\u3000あたしはそんな悪の誘惑には乗らないぞ！\u3000ちゃんと修行してパワーアップするんだ！」"
+translation = "「아~니, 안 돼! 나는 그런 악의 유혹에는 넘어가지 않아! 제대로 수행해서 파워 업할 거라고!」"
+
+[[dialogue]]
+speaker_original = "アポロ"
+speaker_translation = "아폴로"
+original = "「ナミエル！\u3000ちょっとコツ教えてくれ！」"
+translation = "「나미엘! 요령 좀 가르쳐 줘!」"
+
+[[dialogue]]
+speaker_original = "ナミエル"
+speaker_translation = "나미엘"
+original = "「指導ですね？\u3000了解しました。フニさまもこちらに来て下さい」"
+translation = "「지도시군요? 알겠습니다. 페니 님도 이쪽으로 오세요」"
+
+[[dialogue]]
+speaker_original = "フェニエル"
+speaker_translation = "페니엘"
+original = "「あ、はいっ。お掃除のコツですよね。まず、ホウキの持ち方はこう。隅からなぞるようにすうーっと動かして下さい」"
+translation = "「아, 네. 청소 요령이죠. 우선 빗자루 쥐는 법은 이렇게. 구석부터 쓸어내리듯 스윽- 하고 움직여 주세요」"
+
+[[dialogue]]
+speaker_original = "アポロ"
+speaker_translation = "아폴로"
+original = "「こうか？\u3000おおー、ゴミがきれいに集まったぞ」"
+translation = "「이렇게인가? 오오-, 쓰레기가 깨끗하게 모였다고」"
+
+[[dialogue]]
+speaker_original = "ナミエル"
+speaker_translation = "나미엘"
+original = "「普段から清掃に務めていますので、汚れやゴミは見えづらいかもしれません。ですが、何もなくても掃き清めて下さい」"
+translation = "「평소부터 청소에 힘쓰고 있으므로, 더러움이나 쓰레기는 잘 보이지 않을지도 모릅니다. 하지만, 아무것도 없어도 쓸어내려 청소해 주세요」"
+
+[[dialogue]]
+speaker_original = "アポロ"
+speaker_translation = "아폴로"
+original = "「何もないのに掃除するのか？」"
+translation = "「아무것도 없는데 청소하는 거야?」"
+
+[[dialogue]]
+speaker_original = "ナミエル"
+speaker_translation = "나미엘"
+original = "「何もないのではありません、何もないように見えるだけです」"
+translation = "「아무것도 없는 것이 아닙니다, 아무것도 없는 것처럼 보일 뿐입니다」"
+
+[[dialogue]]
+speaker_original = "フェニエル"
+speaker_translation = "페니엘"
+original = "「よーく目をこらさないと見えないホコリがありますからね。それを放置していると、どんどん積もっていずれ大きな汚れになっちゃいます」"
+translation = "「자~잘 눈을 응시하지 않으면 보이지 않는 먼지가 있으니까요. 그것을 방치하면 점점 쌓여서 언젠가 큰 더러움이 되어 버려요」"
+
+[[dialogue]]
+speaker_original = "アポロ"
+speaker_translation = "아폴로"
+original = "「なるほどなー。修行とおんなじだ。すぐに結果は見えなくても、ちゃんと続けないと成長しないもんな」"
+translation = "「그렇구나-. 수행하고 똑같네. 당장 결과는 보이지 않아도, 제대로 계속하지 않으면 성장하지 않으니까」"
+
+[[dialogue]]
+speaker_original = "ナミエル"
+speaker_translation = "나미엘"
+original = "「メイドには地道な努力が欠かせません。それはメイドに限らず、全ての事象に当てはまることなのです」"
+translation = "「메이드에게는 꾸준한 노력이 필수적입니다. 그것은 메이드에 국한되지 않고, 모든 사상에 해당되는 것입니다」"
+
+[[dialogue]]
+speaker_original = "アポロ"
+speaker_translation = "아폴로"
+original = "「そっか！\u3000すごいな、ナミエルは！\u3000教えてくれてありがとう！」"
+translation = "「그렇구나! 대단하네, 나미엘은! 가르쳐 줘서 고마워!」"
+
+[[dialogue]]
+speaker_original = "ナミエル"
+speaker_translation = "나미엘"
+original = "「い、いえ……メイド隊の先輩方に教わったことを話しただけですから」"
+translation = "「아, 아닙니다…… 메이드대의 선배님들께 배운 것을 이야기했을 뿐이니까요」"
+
+[[dialogue]]
+speaker_original = "フェニエル"
+speaker_translation = "페니엘"
+original = "「私もナミエルちゃんも、可愛い後輩が出来て嬉しいんですよ。私たちが先輩から教わったことを、いっぱいお伝えしますからね」"
+translation = "「저도 나미엘 양도, 귀여운 후배가 생겨서 기뻐요. 저희가 선배님께 배운 것을 듬뿍 알려드릴 테니까요」"
+
+[[dialogue]]
+speaker_original = "アポロ"
+speaker_translation = "아폴로"
+original = "「おう！\u3000じゃなくて、はい、先輩！\u3000よろしくお願いします！」"
+translation = "「오냐! 가 아니라, 네, 선배님! 잘 부탁드립니다!」"
+
+[[dialogue]]
+speaker_original = "ナミエル"
+speaker_translation = "나미엘"
+original = "「はい……こちらこそよろしくお願いします」"
+translation = "「네…… 저야말로 잘 부탁드립니다」"
+
+[[dialogue]]
+speaker_original = "クーシェン"
+speaker_translation = "쿠셰엔"
+original = "「ねえ、アポロたちっていつもあんな感じなの？」"
+translation = "「얘, 아폴로 일행은 항상 저런 느낌이야?」"
+
+[[dialogue]]
+speaker_original = "アポロ"
+speaker_translation = "아폴로"
+original = "「あんな感じって、どんな感じだ？」"
+translation = "「저런 느낌이라니, 어떤 느낌이지?」"
+
+[[dialogue]]
+speaker_original = "クーシェン"
+speaker_translation = "쿠셰엔"
+original = "「メイドと仲よさそうじゃん。アポロは星見家のお嬢様なんだろ？\u3000もっとえらそうにしてるのかと思ってた」"
+translation = "「메이드랑 사이가 좋아 보이잖아. 아폴로는 호시미 가문의 아가씨잖아? 좀 더 잘난 척하고 있을 줄 알았어」"
+
+[[dialogue]]
+speaker_original = "アポロ"
+speaker_translation = "아폴로"
+original = "「別にえらくないから、えらそうになんてしないぞ。もちろん今はメイド修行で、あたしは後輩だからな」"
+translation = "「딱히 잘나지 않으니까, 잘난 척 같은 건 안 해. 물론 지금은 메이드 수행이라, 나는 후배니까 말이지」"
+
+[[dialogue]]
+speaker_original = "クーシェン"
+speaker_translation = "쿠셰엔"
+original = "「後輩だったら、逆にちょっと馴れ馴れしくない？」"
+translation = "「후배라면, 역으로 너무 서슴없는 거 아니야?」"
+
+[[dialogue]]
+speaker_original = "アポロ"
+speaker_translation = "아폴로"
+original = "「そ、そうか？\u3000でも、普段もだいたいあんな感じだぞ。みんないいやつだし、しゃべってると楽しいんだ」"
+translation = "「그, 그래? 하지만, 평소에도 대충 저런 느낌이라고. 모두 좋은 녀석들이고, 이야기하고 있으면 즐겁거든」"
+
+[[dialogue]]
+speaker_original = "クーシェン"
+speaker_translation = "쿠셰엔"
+original = "「ふーん、メイド長なんかは強そうだけど、あいつらよわそーなのにねー」"
+translation = "「흠-, 메이드장 같은 녀석은 강해 보이는데, 저 녀석들 약해 보이는데 말이지-」"
+
+[[dialogue]]
+speaker_original = "アポロ"
+speaker_translation = "아폴로"
+original = "「そう見えるかもしんないけど、弱くないぞ」"
+translation = "「그렇게 보일지도 모르지만, 약하지 않다고」"
+
+[[dialogue]]
+speaker_original = "クーシェン"
+speaker_translation = "쿠셰엔"
+original = "「そうなのか！？」"
+translation = "「그렇단 말이야!?」"
+
+[[dialogue]]
+speaker_original = "アポロ"
+speaker_translation = "아폴로"
+original = "「弱かったらうちのメイドになれないし。舐めてると痛い目見るから気をつけろよ」"
+translation = "「약하면 우리 메이드가 될 수 없고. 얕보다간 큰코다치니까 조심해라」"
+
+[[dialogue]]
+speaker_original = "クーシェン"
+speaker_translation = "쿠셰엔"
+original = "「へー、逆に楽しみになってきちゃった。つまんない家事だけじゃなくて、戦闘訓練もあるんだよね？」"
+translation = "「헤-, 역으로 기대되기 시작했어. 지루한 집안일뿐만 아니라, 전투 훈련도 있는 거겠지?」"
+
+[[dialogue]]
+speaker_original = "アポロ"
+speaker_translation = "아폴로"
+original = "「クーシェンにとってはご褒美みたいなもんだな。それを期待して、家事の方も頑張れよ！」"
+translation = "「쿠셴에게는 포상 같은 거네. 그걸 기대하고, 집안일 쪽도 힘내라!」"
+
+[[dialogue]]
+speaker_original = "クーシェン"
+speaker_translation = "쿠셰엔"
+original = "「ええー、そっちは勘弁して欲しいんだけど」"
+translation = "「에에-, 그쪽은 봐줬으면 좋겠는데」"
+
+[[dialogue]]
+speaker_original = "アポロ"
+speaker_translation = "아폴로"
+original = "「楽しいだけじゃ修行にならないしな！\u3000あたしもおしとやかなのはちょっと苦手だ。でも、修行だから頑張るぞ」"
+translation = "「즐겁기만 해서는 수행이 되지 않으니까! 나도 조신한 건 좀 거북해. 하지만, 수행이니까 힘낼 거라고」"
+
+[[dialogue]]
+speaker_original = "アポロ"
+speaker_translation = "아폴로"
+original = "「おーい、こっち掃き終わったから、確認してくれー」"
+translation = "「어-이, 이쪽 쓸기 끝났으니까, 확인해 줘-」"
+
+[[dialogue]]
+speaker_original = "ナミエル"
+speaker_translation = "나미엘"
+original = "「わかりました……ふむふむ」"
+translation = "「알겠습니다…… 흠흠」"
+
+[[dialogue]]
+speaker_original = "クーシェン"
+speaker_translation = "쿠셰엔"
+original = "「うわ、いじわるなしゅーとめみたいな厳しいチェックだ」"
+translation = "「우와, 심술궂은 시어머니 같은 엄격한 체크다」"
+
+[[dialogue]]
+speaker_original = "ナミエル"
+speaker_translation = "나미엘"
+original = "「姑レベルでは困ります。我らメイドが求めるのはもっと高い基準ですから、厳しいのは当然です」"
+translation = "「시어머니 수준으로는 곤란합니다. 우리 메이드가 요구하는 것은 더욱 높은 기준이므로, 엄격한 것은 당연합니다」"
+
+[[dialogue]]
+speaker_original = "フェニエル"
+speaker_translation = "페니엘"
+original = "「あ、あんまり厳しくしすぎなくても……」"
+translation = "「아, 너무 엄격하게 하지 않아도……」"
+
+[[dialogue]]
+speaker_original = "ナミエル"
+speaker_translation = "나미엘"
+original = "「……お２人は、どちらがいいですか？」"
+translation = "「……두 분은, 어느 쪽이 좋으신가요?」"
+
+[[dialogue]]
+speaker_original = "クーシェン"
+speaker_translation = "쿠셰엔"
+original = "「ボクは厳しくないほーがいいな～、なんて」"
+translation = "「나는 엄격하지 않은 쪽이 좋은데~, 라든가」"
+
+[[dialogue]]
+speaker_original = "アポロ"
+speaker_translation = "아폴로"
+original = "「あたしだって厳しいやつがいいぞ！\u3000ナミエルたちが受けた修行くらいのを頼む！」"
+translation = "「나도 엄격한 녀석이 좋다고! 나미엘 일행이 받은 수행 정도의 것으로 부탁해!」"
+
+[[dialogue]]
+speaker_original = "ナミエル"
+speaker_translation = "나미엘"
+original = "「わかりました。では激ヤバ超難易度コースで行きます」"
+translation = "「알겠습니다. 그럼 존나 빡센 초고난이도 코스로 가겠습니다」"
+
+[[dialogue]]
+speaker_original = "クーシェン"
+speaker_translation = "쿠셰엔"
+original = "「ちょ！\u3000待って待って、コース名がヤバくない！？\u3000やっぱりボクはゆるふわコースで頼むよ～！」"
+translation = "「잠깐! 기다려 기다려, 코스 이름이 빡세지 않아!? 역시 나는 푹신푹신 코스로 부탁해~!」"
+
+[[dialogue]]
+speaker_original = "アポロ"
+speaker_translation = "아폴로"
+original = "「厳しい方が楽しいぞ？」"
+translation = "「엄격한 쪽이 더 즐겁다고?」"
+
+[[dialogue]]
+speaker_original = "クーシェン"
+speaker_translation = "쿠셰엔"
+original = "「そりゃふつーの修行だったら楽しいかもだけどさ！\u3000メイド修行の激ヤバコースなんて楽しくないって！」"
+translation = "「그이야 보통 수행이라면 즐거울지도 모르지만 말이야! 메이드 수행의 존나 빡센 코스라니 즐겁지 않다고!」"
+
+[[dialogue]]
+speaker_original = "アポロ"
+speaker_translation = "아폴로"
+original = "「今はそうでも、きっとすぐ楽しくなるはずだぞ！」"
+translation = "「지금은 그렇더라도, 분명 금방 즐거워질 게 틀림없어!」"
+
+[[dialogue]]
+speaker_original = "ナミエル"
+speaker_translation = "나미엘"
+original = "「ですね。すぐ慣れます」"
+translation = "「그렇습니다. 금방 익숙해집니다」"
+
+[[dialogue]]
+speaker_original = "フェニエル"
+speaker_translation = "페니엘"
+original = "「な、慣れるけど……慣れるまでしんどかったなぁ」"
+translation = "「익, 익숙해지지만…… 익숙해질 때까지 힘들었었지」"
+
+[[dialogue]]
+speaker_original = "アポロ"
+speaker_translation = "아폴로"
+original = "「あたしと一緒に頑張ったらすぐだし、ちょっとの辛抱だぞ、クーシェン」"
+translation = "「나와 함께 힘내면 금방이고, 조금만 참는 거야, 쿠셴」"
+
+[[dialogue]]
+speaker_original = "クーシェン"
+speaker_translation = "쿠셰엔"
+original = "「うう、修行ジャンキーめぇ……」"
+translation = "「우우, 수행 중독자 녀석……」"
+
+[[dialogue]]
+speaker = "unk"
+original = "クーシェンのボヤキもまるで聞こえないように、意気揚々と修行に励むアポロだった。"
+translation = "쿠셴의 푸념도 전혀 들리지 않는 것처럼, 의기양양하게 수행에 힘쓰는 아폴로였다."
+

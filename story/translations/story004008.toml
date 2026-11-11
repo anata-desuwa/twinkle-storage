@@ -8,97 +8,97 @@ translation = "「──하아아아앗!!」"
 speaker_original = "シエスタ"
 speaker_translation = "シエスタ"
 original = "「そんな攻撃、いくらしたって無駄なの！\u3000シスの『支配』の力の前では、無意味なの！」"
-translation = "「그런 공격, 아무리 해봤자 소용없어! 시스의 『지배』 힘 앞에서는, 무의미해!」"
+translation = "「그런 공격, 아무리 해도 소용없어! 시스의 『지배』의 힘 앞에서는, 무의미해!」"
 
 [[dialogue]]
 speaker_original = "蘭美"
 speaker_translation = "라미"
 original = "（くぅっ……！\u3000能力の射程距離は短い──それがシエスタの弱点だって、ダッチは言っていたけれど！）"
-translation = "(크윽……! 능력의 사정거리는 짧다── 그게 시에스타의 약점이라고, 더치는 말했지만!)"
+translation = "(쿠읏……! 능력의 사정거리는 짧다── 그것이 시에스타의 약점이라고, 다치는 말했지만!)"
 
 [[dialogue]]
 speaker_original = "蘭美"
 speaker_translation = "라미"
 original = "（裏を返せばそれって──接近するほど力が増すってことじゃない！！）"
-translation = "(바꿔 말하면 그건── 접근할수록 힘이 강해진다는 거잖아!!)"
+translation = "(뒤집어 말하면 그건── 접근할수록 힘이 증가한다는 거잖아!!)"
 
 [[dialogue]]
 speaker_original = "シュティレ"
 speaker_translation = "슈틸레"
 original = "「まずいですね。ドリルの有効範囲まで近づくと、ダッチの欲望シールドも貫通されてしまうようです」"
-translation = "「곤란하네요. 드릴의 유효 범위까지 접근하면, 더치의 욕망 실드도 관통되어 버리는 것 같습니다」"
+translation = "「곤란하네요. 드릴의 유효 범위까지 접근하면, 다치의 욕망 실드도 관통되어 버리는 것 같습니다」"
 
 [[dialogue]]
 speaker_original = "トリュファイナ"
 speaker_translation = "트류파이나"
 original = "「くぅっ、ダメです！\u3000遠距離から狙撃しても、魔弾が直撃するまでに、その力を吸われてしまいますっ！」"
-translation = "「크윽, 안 돼요! 원거리에서 저격해도, 마탄이 직격하기 전에 그 힘을 빼앗겨 버려요!」"
+translation = "「쿠읏, 안 돼요! 원거리에서 저격해도, 마탄이 직격하기 전에, 그 힘을 빼앗겨 버립니다!」"
 
 [[dialogue]]
 speaker_original = "蘭美"
 speaker_translation = "라미"
 original = "「どういうことよダッチ！\u3000欲望のシールドで拮抗はできるって言ってたじゃない！？」"
-translation = "「어떻게 된 거야 더치! 욕망의 실드로 팽팽하게 맞설 수 있다고 했잖아!?」"
+translation = "「무슨 소리야 다치! 욕망의 실드로 팽팽하게 맞설 수 있다고 말했잖아!?」"
 
 [[dialogue]]
 speaker_original = "ダッチ"
 speaker_translation = "더치"
 original = "「ふぅむ。私と会わないうちに、シスはより高みへと登ったのでしょうか……計算外ですねぇ～！」"
-translation = "「후음. 저와 만나지 않은 사이에, 시스는 더 높은 곳으로 올라간 걸까요…… 계산 외군요~!」"
+translation = "「후음. 나와 만나지 않은 사이에, 시스는 더 높은 곳으로 올라간 걸까요…… 계산 외네요～!」"
 
 [[dialogue]]
 speaker_original = "ダッチ"
 speaker_translation = "더치"
 original = "「ですがやることは変わりません！\u3000皆様を守るシールドをより強固にいたします。ヒットアンドアウェーでじりじり削っていきましょう！！」"
-translation = "「하지만 할 일은 변하지 않습니다! 여러분을 지키는 실드를 더욱 견고하게 만들겠습니다. 치고 빠지기로 야금야금 깎아내립시다!!」"
+translation = "「하지만 할 일은 변하지 않습니다! 여러분을 지키는 실드를 더욱 견고하게 만들겠습니다. 히트 앤드 어웨이로 서서히 깎아 나갑시다!!」"
 
 [[dialogue]]
 speaker_original = "蘭美"
 speaker_translation = "라미"
 original = "「あぁもうっ──了解よ！\u3000じゃないっ……了解ぴょんっ！」"
-translation = "「아아 정말── 알았어! 가 아니라…… 알았다 뿅!」"
+translation = "「아아 정말── 알았어! 가 아니야…… 알았다 깡충!」"
 
 [[dialogue]]
 speaker_original = "シエスタ"
 speaker_translation = "シエスタ"
 original = "「いくら粘ったところで無駄なの！\u3000この空間は全てシスの支配下！！\u3000行くの、モンスターたちっ！！」"
-translation = "「아무리 버텨봤자 소용없어! 이 공간은 전부 시스의 지배하!! 가라, 몬스터들!!」"
+translation = "「아무리 버텨봤자 소용없어! 이 공간은 전부 시스의 지배하!! 가라, 몬스터들읏!!」"
 
 [[dialogue]]
 speaker_original = "モンスター"
 speaker_translation = "몬스터"
 original = "「イィィィィイ～～～！！！」"
-translation = "「이이이이이~~~!!!」"
+translation = "「이이이이이～～～!!!」"
 
 [[dialogue]]
 speaker_original = "蘭美"
 speaker_translation = "라미"
 original = "「さらに敵がっ！？」"
-translation = "「적들이 더!?」"
+translation = "「거기다 적이!?」"
 
 [[dialogue]]
 speaker_original = "トリュファイナ"
 speaker_translation = "트류파이나"
 original = "「シエスタ様の能力で、限界以上の力が引き出されているようです！\u3000皆様、ご注意を！」"
-translation = "「시에스타 님의 능력으로, 한계 이상의 힘이 끌어내어지고 있는 것 같습니다! 여러분, 조심하세요!」"
+translation = "「시에스타 님의 능력으로, 한계 이상의 힘이 끌어내어지고 있는 것 같습니다! 여러분, 주의를!」"
 
 [[dialogue]]
 speaker_original = "シエスタ"
 speaker_translation = "シエスタ"
 original = "「モンスターたち！\u3000メイドのウサギと魔女は後回しでいいの！\u3000あのヘンタイ馬鹿と……錬金術師の弟子から仕留めるの！！」"
-translation = "「몬스터들! 메이드 토끼랑 마녀는 나중으로 미뤄도 돼! 저 변태 바보랑…… 연금술사의 제자부터 해치워!!」"
+translation = "「몬스터들! 메이드 토끼랑 마녀는 나중으로 미뤄도 돼! 저 변태 바보랑…… 연금술사의 제자부터 처치해!!」"
 
 [[dialogue]]
 speaker_original = "シュティレ"
 speaker_translation = "슈틸레"
 original = "「がーん。ダッチはともかく、シュティレまで名指しで恨まれています。なぜでしょう？」"
-translation = "「쿠웅. 더치는 그렇다 치고, 슈틸레까지 지목당해서 원망받고 있습니다. 왜일까요?」"
+translation = "「콰광. 다치는 몰라도, 슈틸레까지 지명해서 원망받고 있습니다. 왜일까요?」"
 
 [[dialogue]]
 speaker_original = "シエスタ"
 speaker_translation = "シエスタ"
 original = "「不動シュティレ！\u3000お前は、あの錬金術師と同じ！\u3000お兄ちゃんを困らせる悪者なのっ！！」"
-translation = "「후도 슈틸레! 너는 그 연금술사와 마찬가지야! 오빠를 괴롭히는 악당이라고!!」"
+translation = "「후도 슈틸레! 너는, 저 연금술사와 같아! 오빠를 괴롭히는 악당이야!!」"
 
 [[dialogue]]
 speaker_original = "シュティレ"
@@ -110,7 +110,7 @@ translation = "「…………?」"
 speaker_original = "シエスタ"
 speaker_translation = "シエスタ"
 original = "「ここまで戦って、実力差はわかったはずなの！\u3000シスには敵わない。メイドのウサギ、そして魔女。お前たちはとっとと帰るといいの！」"
-translation = "「여기까지 싸워봤으면, 실력 차이는 알았을 텐데! 시스에게는 당해낼 수 없어. 메이드 토끼, 그리고 마녀. 너희는 얼른 돌아가는 게 좋아!」"
+translation = "「여기까지 싸워보고, 실력 차이는 알았을 터! 시스에게는 당해낼 수 없어. 메이드 토끼, 그리고 마녀. 너희는 어서 돌아가는 게 좋아!」"
 
 [[dialogue]]
 speaker_original = "シエスタ"
@@ -122,13 +122,13 @@ translation = "「너희에게 원한은 없어…… 지금 당장 돌아간다
 speaker_original = "トリュファイナ"
 speaker_translation = "트류파이나"
 original = "「ど、どういうことでしょう？\u3000私と蘭美様だけ……情けをかけられている？」"
-translation = "「어, 어떻게 된 걸까요? 저와 라비 님만…… 자비를 베풀어 주고 있다니?」"
+translation = "「어, 어떻게 된 일이죠? 저와 라비 님만…… 정을 베풀어지고 있다?」"
 
 [[dialogue]]
 speaker_original = "ダッチ"
 speaker_translation = "더치"
 original = "「シスにしかわからない優先順位があるのかもしれませんねぇ！\u3000はてさていったいどういうことやら──」"
-translation = "「시스만 아는 우선순위가 있을지도 모르겠군요! 아무튼 대체 어떻게 된 일인지──」"
+translation = "「시스에게만 알 수 있는 우선순위가 있는 걸지도 모르겠네요! 어라라 대체 어떻게 된 일인지──」"
 
 [[dialogue]]
 speaker_original = "モンスター"
@@ -140,19 +140,19 @@ translation = "「──이이이이!!」"
 speaker_original = "ダッチ"
 speaker_translation = "더치"
 original = "「オゥフッ──！？！？」"
-translation = "「오우프──!?!?」"
+translation = "「오우후──!?!?」"
 
 [[dialogue]]
 speaker_original = "蘭美"
 speaker_translation = "라미"
 original = "「ダッチへの攻撃は容赦がカケラもないわ！？」"
-translation = "「더치를 향한 공격은 사정이라곤 눈곱만큼도 없잖아!?」"
+translation = "「다치를 향한 공격은 사정이라고는 눈곱만큼도 없잖아!?」"
 
 [[dialogue]]
 speaker_original = "シエスタ"
 speaker_translation = "シエスタ"
 original = "「そいつのしぶとさはゴキブリ並みなの！\u3000畳みかけるの！！」"
-translation = "「그 녀석의 끈질김은 바퀴벌레급이야! 몰아붙여!!」"
+translation = "「그 녀석의 끈질김은 바퀴벌레 급이야! 몰아붙여!!」"
 
 [[dialogue]]
 speaker_original = "モンスター"
@@ -164,48 +164,48 @@ translation = "「──서어어어어몬!!」"
 speaker_original = "ダッチ"
 speaker_translation = "더치"
 original = "「アゥチ！\u3000容赦がありませんねぇ、シス！！」"
-translation = "「아우치! 사정이 없군요, 시스!!」"
+translation = "「아우치! 사정이 없네요, 시스!!」"
 
 [[dialogue]]
 speaker = "unk"
 original = "大型モンスターに四方八方から飛び掛かられ、タコ殴りにされるダッチ。"
-translation = "대형 몬스터들에게 사방에서 집단으로 덤벼들어져, 두들겨 맞는 더치."
+translation = "대형 몬스터에게 사방팔방에서 덤벼들여져, 난타당하는 다치."
 
 [[dialogue]]
 speaker_original = "シュティレ"
 speaker_translation = "슈틸레"
 original = "「ダッチだけではありません。なぜかシュティレも執拗に狙われています。困りました……！」"
-translation = ""
+translation = "「다치뿐만이 아닙니다. 어째서인지 슈틸레도 집요하게 노려지고 있습니다. 곤란하네요……!」"
 
 [[dialogue]]
 speaker_original = "トリュファイナ"
 speaker_translation = "트류파이나"
 original = "「数が膨大ですっ……逆転の一手を打たなくては！」"
-translation = "「수가 너무 많아요…… 역전의 한 수를 던져야 해요!」"
+translation = "「수가 방대합니다…… 역전의 한 수를 두어야 해요!」"
 
 [[dialogue]]
 speaker_original = "蘭美"
 speaker_translation = "라미"
 original = "「ええ。そのためには──まずダッチを救うわよ！！」"
-translation = "「그래. 그러기 위해서는── 우선 더치를 구하겠어!!」"
+translation = "「그래. 그러기 위해서는── 우선 다치를 구하겠어!!」"
 
 [[dialogue]]
 speaker_original = "モンスター"
 speaker_translation = "몬스터"
 original = "「シャーッ！！」"
-translation = "「샤앗!!」"
+translation = "「샤아앗!!」"
 
 [[dialogue]]
 speaker_original = "蘭美"
 speaker_translation = "라미"
 original = "「光になりなさいっ──ブリリアント・ブレイカー！」"
-translation = "「빛이 되어라── 브릴리언트 브레이커!」"
+translation = "「빛이 되어라읏── 브릴리언트 브레이커!」"
 
 [[dialogue]]
 speaker_original = "モンスター"
 speaker_translation = "몬스터"
 original = "「──シャーーーク！？！？」"
-translation = "「──샤아아아크!?!?」"
+translation = "「──샤아아악!?!?」"
 
 [[dialogue]]
 speaker_original = "ダッチ"
@@ -217,67 +217,67 @@ translation = "「오우 라비 님! 저를 구하러 와주시다니!」"
 speaker_original = "蘭美"
 speaker_translation = "라미"
 original = "「貴方に倒れられたら困るのよ！\u3000長期戦は不利……何とかしてシエスタに渾身の一撃を叩きこまなきゃ勝機はないわ！」"
-translation = "「당신이 쓰러지면 곤란하다고! 장기전은 불리해…… 어떻게든 시에스타에게 혼신의 일격을 날리지 않으면 승산은 없어!」"
+translation = "「당신이 쓰러지면 곤란하다고! 장기전은 불리…… 어떻게든 시에스타에게 혼신의 일격을 날리지 않으면 승기는 없어!」"
 
 [[dialogue]]
 speaker_original = "蘭美"
 speaker_translation = "라미"
 original = "「ハンマーの有効射程まで近づいても星力を吸われない──そんなシールドを出せないかしら！？」"
-translation = "「해머의 유효 사정거리까지 접근해도 성력을 빼앗기지 않는── 그런 실드를 칠 수는 없는 거야!?」"
+translation = "「망치의 유효 사정까지 접근해도 성력을 빼앗기지 않는── 그런 실드를 낼 수 없을까!?」"
 
 [[dialogue]]
 speaker_original = "ダッチ"
 speaker_translation = "더치"
 original = "「むぅ……私もできる限り強い欲望を抱いてはいるのですが。どうしても出力負けしてしまうようですねぇ！」"
-translation = "「음…… 저도 가능한 한 강한 욕망을 품고는 있습니다만. 아무래도 출력에서 밀리는 모양이군요!」"
+translation = "「무으…… 저도 가능한 한 강한 욕망을 품고는 있습니다만. 아무래도 출력에서 밀려버리는 것 같네요～!」"
 
 [[dialogue]]
 speaker_original = "トリュファイナ"
 speaker_translation = "트류파이나"
 original = "「ぴょ、ぴょんぴょんっ！\u3000ぴょーん、ぴょんっ！\u3000ダッチ様、頑張ってくださいぴょんっ！」"
-translation = "「뿅, 뿅뿅! 뿅~뿅, 뿅! 더치 님, 힘내세요 뿅!」"
+translation = "「까, 깡충깡충읏! 깡충─, 깡충읏! 다치 님, 힘내세요 깡충읏!」"
 
 [[dialogue]]
 speaker_original = "ダッチ"
 speaker_translation = "더치"
 original = "「おぅふ……光の魔女ウサギ様、申し訳ございません。ちょっぴり元気にはなりましたが、やはりこのままでは──」"
-translation = "「오우프…… 빛의 마녀 토끼 님, 죄송합니다. 약간 기운이 나긴 했습니다만, 역시 이대로는──」"
+translation = "「오우후…… 빛의 마녀 토끼 님, 죄송합니다. 조금은 기운이 났습니다만, 역시 이대로는──」"
 
 [[dialogue]]
 speaker_original = "シュティレ"
 speaker_translation = "슈틸레"
 original = "「トリュファイナさんにここまで体を張らせているのに。なんて贅沢な……ぴょんぴょん」"
-translation = "「트리파이나 씨가 이렇게까지 온몸을 던지고 계신데. 참 사치스럽기도 하지…… 깡충깡충」"
+translation = "「트리파이나 씨에게 여기까지 몸을 던지게 하고 있는데. 이 무슨 사치인가…… 깡충깡충」"
 
 [[dialogue]]
 speaker_original = "蘭美"
 speaker_translation = "라미"
 original = "「貴方ね！？\u3000ヘンタイなのが取り柄なのに、こんな時に役に立たなくてどうするんだぴょんっ！？」"
-translation = "「너 말이야!? 변태인 게 유일한 장점인데, 이럴 때 도움이 안 되면 어쩌자는 거야 뿅!?」"
+translation = "「너 말이야!? 변태인 게 장점 주제에, 이럴 때 쓸모가 없으면 어쩌자는 거야 깡충!?」"
 
 [[dialogue]]
 speaker_original = "ダッチ"
 speaker_translation = "더치"
 original = "「子ウサギのエールは沁みますが、やはり才能というのは残酷ですねぇ。シスは本当に強い……」"
-translation = "「아기 토끼의 응원이 사무칩니다만, 역시 재능이라는 건 잔혹하군요. 시스는 정말 강해요……」"
+translation = "「아기 토끼의 응원은 가슴에 사무치지만, 역시 재능이라는 건 잔혹하네요. 시스는 정말로 강해……」"
 
 [[dialogue]]
 speaker_original = "シエスタ"
 speaker_translation = "シエスタ"
 original = "「当然なの。シスは、『七彩のアイテムズ』の中でも最強。舐めてもらっちゃ困るの」"
-translation = "「당연하지. 시스는 『칠색의 아이템즈』 중에서도 최강. 얕보면 곤란해」"
+translation = "「당연해. 시스는, 『칠채의 아이템즈』 중에서도 최강. 깔보면 곤란해」"
 
 [[dialogue]]
 speaker_original = "シエスタ"
 speaker_translation = "シエスタ"
 original = "「ほら。早くメイドと魔女はここから消えるの。これ以上ここにいたら、もう容赦しないの！」"
-translation = "「자. 얼른 메이드랑 마녀는 여기서 사라져. 더 이상 여기에 있으면, 이제 사정 안 봐줘!」"
+translation = "「자. 어서 메이드와 마녀는 여기서 사라져. 더 이상 여기에 있으면, 이제 사정 안 봐!」"
 
 [[dialogue]]
 speaker_original = "ダッチ"
 speaker_translation = "더치"
 original = "「……致し方ありません。最後の手段です」"
-translation = "「……어쩔 수 없군요. 수단방법을 가릴 때가 아닙니다」"
+translation = "「……어쩔 수 없습니다. 최후의 수단입니다」"
 
 [[dialogue]]
 speaker_original = "ダッチ"
@@ -289,13 +289,13 @@ translation = "「아기 토끼 여러분, 잠시 토끼 귀 좀 빌려주세요
 speaker_original = "蘭美"
 speaker_translation = "라미"
 original = "「──はぁ！？\u3000ふ、ふざけてるでしょ貴方！？\u3000ぶっ飛ばされたいぴょん！？」"
-translation = "「──하아!? 너, 너 장난해!? 날려버리고 싶다 뿅!?」"
+translation = "「──하아!? 장, 장난해 당신!? 쳐날려지고 싶어 깡충!?」"
 
 [[dialogue]]
 speaker_original = "シュティレ"
 speaker_translation = "슈틸레"
 original = "「しかし、光明はあります。シエスタを下すには、ダッチの策に乗るしかありません」"
-translation = "「하지만, 한 자락 빛은 있습니다. 시에스타를 무찌르려면, 더치의 책략에 타는 수밖에 없습니다」"
+translation = "「하지만, 광명은 있습니다. 시에스타를 쓰러뜨리려면, 다치의 책략에 탈 수밖에 없습니다」"
 
 [[dialogue]]
 speaker_original = "トリュファイナ"
@@ -307,19 +307,19 @@ translation = "「……알겠습니다. 저도 하겠어요!」"
 speaker_original = "ダッチ"
 speaker_translation = "더치"
 original = "「だそうですが、蘭美様？\u3000この作戦、貴女が最後の切り札なのですよ」"
-translation = "「라는 모양입니다만, 라비 님? 이 작전, 당신이 마지막 조커라고요」"
+translation = "「라고 합니다만, 라비 님? 이 작전, 당신이 마지막 히든카드가 되는 거예요」"
 
 [[dialogue]]
 speaker_original = "蘭美"
 speaker_translation = "라미"
 original = "「くぅぅう……！\u3000やればいいんでしょ、やれば！」"
-translation = "「쿠우우우……! 하면 되잖아, 하면!」"
+translation = "「쿠우우……! 하면 되잖아, 하면!」"
 
 [[dialogue]]
 speaker_original = "シエスタ"
 speaker_translation = "シエスタ"
 original = "「無駄話はそこまでなの！\u3000そっちが逃げないなら……こっちから行くの！！」"
-translation = "「잡담은 거기까지인 거야! 그쪽이 도망치지 않는다면…… 이쪽에서 가는 거야!!」"
+translation = "「쓸데없는 이야기는 거기까지야! 그쪽이 안 도망친다면…… 이쪽에서 간다!!」"
 
 [[dialogue]]
 speaker_original = "シュティレ"
@@ -331,7 +331,7 @@ translation = "「후도 슈틸레, 돌격합니다──!」"
 speaker_original = "シエスタ"
 speaker_translation = "シエスタ"
 original = "「お前じゃシスには勝てないの──マリオネット・ネスト！！」"
-translation = "「너로는 시스에게 이길 수 없는 거야──마리오네트 네스트!!」"
+translation = "「너로는 시스에게 이길 수 없어── 마리오네트 네스트!!」"
 
 [[dialogue]]
 speaker = "unk"
@@ -342,48 +342,48 @@ translation = "시에스타의 『지배』의 힘으로 강화된 몬스터들�
 speaker_original = "シュティレ"
 speaker_translation = "슈틸레"
 original = "「螺旋機構、展開──シャイニング・キャノピー！」"
-translation = "「나선기공, 전개──샤이닝 캐노피!」"
+translation = "「나선 기구, 전개── 샤이닝 캐노피!」"
 
 [[dialogue]]
 speaker_original = "シエスタ"
 speaker_translation = "シエスタ"
 original = "「ドリルの傘を開いて……攻撃を防いだの！？\u3000意外と器用なの……！」"
-translation = "「드릴 우산을 펼쳐서…… 공격을 막은 거야!? 뜻밖에 손재주가 좋은 거야……!」"
+translation = "「드릴 우산을 펼쳐서…… 공격을 막았어!? 뜻밖에 다재다능하네……!」"
 
 [[dialogue]]
 speaker_original = "シュティレ"
 speaker_translation = "슈틸레"
 original = "「応用が利くのです。ぶい」"
-translation = "「응용이 잘 듣는 것입니다. 브이」"
+translation = "「응용이 잘 되는 것입니다. 브이」"
 
 [[dialogue]]
 speaker_original = "シエスタ"
 speaker_translation = "シエスタ"
 original = "「だけどそんな防御、すぐに破って──あっ！？」"
-translation = "「하지만 그런 방어, 금방 뚫어 버려──앗!?」"
+translation = "「하지만 그런 방어, 금방 뚫어버── 앗!?」"
 
 [[dialogue]]
 speaker_original = "トリュファイナ"
 speaker_translation = "트류파이나"
 original = "「──魔弾、装填完了。狙撃します！！」"
-translation = "「──마탄, 장전 완료. 조준합니다!!」"
+translation = "「──마탄, 장전 완료. 저격합니다!!」"
 
 [[dialogue]]
 speaker = "unk"
 original = "シュティレの傘の影に隠れていたトリュファイナが銃杖を向ける──その相手は。"
-translation = "슈틸레의 우산 그림자에 숨어 있던 트리파이나가 총장을 겨눈다──그 상대는."
+translation = "슈틸레의 우산 그림자에 숨어 있던 트리파이나가 총장창을 겨눈다── 그 상대는."
 
 [[dialogue]]
 speaker_original = "トリュファイナ"
 speaker_translation = "트류파이나"
 original = "「魔王様。申し訳ございません──シュート！！」"
-translation = "「마왕님. 죄송합니다──슛!!」"
+translation = "「마왕 님. 죄송합니다── 슛!!」"
 
 [[dialogue]]
 speaker_original = "シエスタ"
 speaker_translation = "シエスタ"
 original = "「お兄ちゃんに攻撃っ！？\u3000な、何をしてるの！？」"
-translation = "「오빠한테 공격!? 무, 무슨 짓을 하는 거야!?」"
+translation = "「오빠에게 공격!? 뭣, 뭘 하고 있는 거야!?」"
 
 [[dialogue]]
 speaker = "unk"
@@ -394,99 +394,99 @@ translation = "트리파이나의 마탄이, 먼 곳에서 기절해 있던 히�
 speaker_original = "シエスタ"
 speaker_translation = "シエスタ"
 original = "「っ！？\u3000回復の……魔弾！？」"
-translation = "「!? 회복의…… 마탄!?」"
+translation = "「읏!? 회복의…… 마탄!?」"
 
 [[dialogue]]
 speaker_original = "トリュファイナ"
 speaker_translation = "트류파이나"
 original = "「魔王様、お目覚めください！！」"
-translation = "「마왕님, 눈을 뜨십시오!!」"
+translation = "「마왕 님, 깨어나십시오!!」"
 
 [[dialogue]]
 speaker = "unk"
 original = "う、うーん……？"
-translation = "으, 으응……?"
+translation = "으, 으음……?"
 
 [[dialogue]]
 speaker_original = "ダッチ"
 speaker_translation = "더치"
 original = "「ありがとうございます、ウサギの魔女様！\u3000これぞ最後の一押し！！」"
-translation = "「감사합니다, 토끼 마녀님! 이것이야말로 마지막 한 자극!!」"
+translation = "「감사합니다, 토끼 마녀 님! 이것이야말로 마지막 한 발!!」"
 
 [[dialogue]]
 speaker_original = "ダッチ"
 speaker_translation = "더치"
 original = "「さぁ──私のやる気をブーストしてください！！\u3000現れろッ、女体化バニークロトッ！！」"
-translation = "「자──나의 의욕을 부스트해 주십시오!! 나타나랏, 여체화 바니 쿠로토!!」"
+translation = "「자── 나의 의욕을 부스트해 주세요!! 나타나라앗, 여체화 바니 쿠로토앗!!」"
 
 [[dialogue]]
 speaker = "unk"
 original = "なんだ、この格好！？！？"
-translation = "뭐야, 이 차림은!?!?"
+translation = "뭐야, 이 모습은!?!?"
 
 [[dialogue]]
 speaker = "unk"
 original = "うわあぁぁああ！？"
-translation = "우와아아아아아!?"
+translation = "우와아아아아아!?."
 
 [[dialogue]]
 speaker_original = "シエスタ"
 speaker_translation = "シエスタ"
 original = "「お、お兄ちゃんが女の子にー！？\u3000よ、よくもよくも！\u3000なんてことをしてくれるの、ダッチ！？！？」"
-translation = "「오, 오빠가 여자아이가ー!? 잘, 잘도 잘도! 무슨 짓을 저지르는 거야, 더치!?!?」"
+translation = "「오, 오빠가 여자아이가ー!? 잘, 잘도 잘도! 무슨 짓을 해주는 거야, 다치!?!?」"
 
 [[dialogue]]
 speaker_original = "ダッチ"
 speaker_translation = "더치"
 original = "「フオォオォォォォオオ────！！\u3000理想のバニィィィィ────欲望シールド、フルスロットルッ！！！」"
-translation = "「후오오오오오오────!! 이상적인 바니이이이──── 욕망 실드, 풀 스로틀!!」"
+translation = "「후오오오오오오오오────!! 이상적인 바니이이이──── 욕망 실드, 풀 스로틀읏!!!」"
 
 [[dialogue]]
 speaker_original = "ダッチ"
 speaker_translation = "더치"
 original = "「これが最後のチャンスです！\u3000シールドが破られる前に、シスに攻撃を撃ち込んでください、蘭美様！！」"
-translation = "「이것이 마지막 기회입니다! 실드가 뚫리기 전에, 시스에게 공격을 꽂아 넣으세요, 라비 님!!」"
+translation = "「이것이 마지막 기회입니다! 실드가 뚫리기 전에, 시스에게 공격을 날려주세요, 라비 님!!」"
 
 [[dialogue]]
 speaker_original = "蘭美"
 speaker_translation = "라미"
 original = "「ええ──これで決めるわっ！！」"
-translation = "「그래──이걸로 끝내겠어!!」"
+translation = "「그래── 이걸로 끝내겠어!!」"
 
 [[dialogue]]
 speaker = "unk"
 original = "ダッチの欲望シールドを纏った蘭美が、モンスターの軍勢に守られているシエスタに突撃する。"
-translation = "더치의 욕망 실드를 두른 라비가, 몬스터 군단에게 보호받고 있는 시에스타에게 돌격한다."
+translation = "다치의 욕망 실드를 두른 라비가, 몬스터 군세의 호위를 받고 있는 시에스타에게 돌격한다."
 
 [[dialogue]]
 speaker_original = "シエスタ"
 speaker_translation = "シエスタ"
 original = "「許さない、許さないの！\u3000手加減してあげてたのに！\u3000もう本気でいくの！！」"
-translation = "「용서 못 해, 용서 못 하는 거야! 봐주고 있었는데! 이제 본기억으로 가는 거야!!」"
+translation = "「용서 못 해, 용서 못 해! 봐주고 있었는데! 이제 본기로 갈 거야!!」"
 
 [[dialogue]]
 speaker_original = "蘭美"
 speaker_translation = "라미"
 original = "「はぁああぁあああッ────！！」"
-translation = "「하아아아아아앗────!!」"
+translation = "「하아아아아아아앗────!!」"
 
 [[dialogue]]
 speaker_original = "シエスタ"
 speaker_translation = "シエスタ"
 original = "（ダッチはシスのこと、なんにもわかっちゃいないの……！）"
-translation = "(더치는 시스에 대해, 아무것도 모르고 있는 거야……!)"
+translation = "(다치는 시스에 대해, 아무것도 모르고 있어……!)"
 
 [[dialogue]]
 speaker_original = "シエスタ"
 speaker_translation = "シエスタ"
 original = "（シスが本気になれば、いくら『欲望』で願ったところで無駄なの！）"
-translation = "(시스가 진심이 되면, 아무리 『욕망』으로 바라본들 소용없는 거야!)"
+translation = "(시스가 본기를 내면, 아무리 『욕망』으로 바라봤자 소용없어!)"
 
 [[dialogue]]
 speaker_original = "シエスタ"
 speaker_translation = "シエスタ"
 original = "（近づけば近づくほどに、シスの『支配』の圏内に入る。何枚防壁を重ねても、ぜんぶ壊して力を吸い取るだけなの！）"
-translation = "(접근하면 접근할수록, 시스의 『지배』 권내에 들어간다. 몇 장이나 방벽을 겹쳐도, 전부 부수고 힘을 빨아들일 뿐인 거야!)"
+translation = "(접근하면 접근할수록, 시스의 『지배』 권내에 들어온다. 몇 장의 방벽을 겹쳐도, 전부 부수고 힘을 흡수할 뿐이야!)"
 
 [[dialogue]]
 speaker_original = "蘭美"
@@ -497,52 +497,52 @@ translation = "「방해된다, 몬스터!」"
 [[dialogue]]
 speaker = "unk"
 original = "分厚く配置しているモンスターをなぎ倒し、わずかな隙間を狙って、蘭美は光のように地を駆ける──"
-translation = "두껍게 배치되어 있는 몬스터를 쳐내고, 틈새를 노려, 라비는 빛처럼 땅을 달린다──"
+translation = "두껍게 배치되어 있는 몬스터를 해치우고, 찰나의 틈새를 노려, 라비는 빛처럼 땅을 달린다──"
 
 [[dialogue]]
 speaker = "unk"
 original = "シエスタに接近するたび、ダッチのシールドは次々に破られていく──しかし。"
-translation = "시에스타에게 접근할 때마다, 더치의 실드는 차례차례 뚫려 간다──하지만."
+translation = "시에스타에게 접근할 때마다, 다치의 실드는 차례차례 뚫려 간다── 하지만."
 
 [[dialogue]]
 speaker_original = "シエスタ"
 speaker_translation = "シエスタ"
 original = "（な……何なの、こいつ──！？）"
-translation = "(무…… 뭐야, 이 녀석은──!?)"
+translation = "(뭣…… 뭐야, 이 녀석──!?)"
 
 [[dialogue]]
 speaker_original = "蘭美"
 speaker_translation = "라미"
 original = "「反動加速ッ──！」"
-translation = "「반동 가속──!」"
+translation = "「반동 가속읏──!」"
 
 [[dialogue]]
 speaker = "unk"
 original = "シエスタの『支配』によって、ダッチのシールドが剥ぎ取られるよりも速く接近する蘭美は──まるで地面を疾走する稲妻。"
-translation = "시에스타의 『지배』에 의해, 더치의 실드가 벗겨져 나가는 것보다 빠르게 접근하는 라비는──마치 지면을 질주하는 번개."
+translation = "시에스타의 『지배』에 의해, 다치의 실드가 벗겨지는 것보다 빠르게 접근하는 라비는── 마치 지면을 질주하는 번개."
 
 [[dialogue]]
 speaker = "unk"
 original = "あんな重たい得物を持っているとは到底思えないほどの、光速メイドスター。"
-translation = "저렇게 무거운 무기를 가지고 있다고는 도저히 믿을 수 없을 정도의, 광속 메이드 스타."
+translation = "저런 무거운 무기를 들고 있다고는 도저히 생각할 수 없을 정도의, 광속 메이드 스타."
 
 [[dialogue]]
 speaker_original = "シエスタ"
 speaker_translation = "シエスタ"
 original = "（信じられないの……破壊が間に合わないの！？）"
-translation = "(믿을 수 없는 거야…… 파괴가 미처 대지 못하는 거야!?)"
+translation = "(믿을 수 없어…… 파괴가 미처 따라가지 못해!?)"
 
 [[dialogue]]
 speaker_original = "蘭美"
 speaker_translation = "라미"
 original = "「これでっ──トドメ！！」"
-translation = "「이걸로──최후의 일격!!」"
+translation = "「이걸로읏── 마무리!!」"
 
 [[dialogue]]
 speaker_original = "シエスタ"
 speaker_translation = "シエスタ"
 original = "（こいつ────光より速いの！！！）"
-translation = "(이 녀석──── 빛보다 빠른 거야!!!)"
+translation = "(이 녀석──── 빛보다 빨라!!!)"
 
 [[dialogue]]
 speaker_original = "蘭美"
@@ -554,10 +554,10 @@ translation = "「리코일 쇼스토퍼!!!」"
 speaker_original = "シエスタ"
 speaker_translation = "シエスタ"
 original = "「きゃあぁぁああぁああっ────！？」"
-translation = "「캬아아아아아앗────!?」"
+translation = "「캬아아아아아아앗────!?」"
 
 [[dialogue]]
 speaker = "unk"
 original = "『支配』の星力奪取よりも速く肉薄した蘭美が、ガンハンマーの重たい一撃をシエスタに叩きこんだのだった。"
-translation = "『지배』의 성력 탈취보다 빠르게 바짝 육박한 라비가, 건해머의 무거운 일격을 시에스타에게 내리친 것이었다."
+translation = "『지배』의 성력 강탈보다 빠르게 육박한 라비가, 건 해머의 무거운 일격을 시에스타에게 날린 것이었다."
 

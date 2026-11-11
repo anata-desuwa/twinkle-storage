@@ -6,24 +6,24 @@ translation = "제3화, 두 사람의 개인 연습, P"
 [[dialogue]]
 speaker = "unk"
 original = "ハロウィンまでお互い忙しくなる。だから２人で会える頻度は落ちてしまうかもしれない。"
-translation = "할로윈까지 서로 바빠진다. 그래서 둘이서 만날 수 있는 빈도는 줄어들지도 모른다."
+translation = "할로윈까지 서로 바빠진다. 그래서 둘이서 만날 수 있는 빈도는 떨어져 버릴지도 모른다."
 
 [[dialogue]]
 speaker = "unk"
 original = "と、そんな風に覚悟していたのも束の間、環が俺の部屋に遊びに来ていた。"
-translation = "라고, 그런 식으로 각오하고 있던 것도 잠시, 타마키가 내 방에 놀러 와 있었다."
+translation = "라고, 그렇게 각오했던 것도 잠시, 타마키가 내 방으로 놀러 와 있었다."
 
 [[dialogue]]
 speaker_original = "ラクシャ"
 speaker_translation = "락샤"
 original = "「だってずっと会長に会えないのは辛いからさ」"
-translation = "「그치만 계속 회장님을 만나지 못하는 건 괴로우니까 말이야」"
+translation = "「그야 계속 회장을 못 만나는 건 괴로우니까 말이야」"
 
 [[dialogue]]
 speaker_original = "ラクシャ"
 speaker_translation = "락샤"
 original = "「そこで思いついたんだ。デート代わりに会長に練習に付き合ってもらえばいいって」"
-translation = "「그래서 떠올렸지. 데이트 대신 회장님이 연습을 함께해 주면 된다고」"
+translation = "「그래서 떠올렸어. 데이트 대신에 회장이 연습을 함께해 주면 된다고」"
 
 [[dialogue]]
 speaker = "unk"
@@ -34,34 +34,34 @@ translation = "천재적인 발상이다"
 speaker_original = "ラクシャ"
 speaker_translation = "락샤"
 original = "「あはは、もっと褒め称えたまえ～♪」"
-translation = "「아하하, 좀 더 칭송하라구～♪」"
+translation = "「아하하, 좀 더 칭찬해 주라구~♪」"
 
 [[dialogue]]
 speaker = "unk"
 original = "ハロウィンに向けて仕事はあるものの、俺の方は全く時間が作れないほど忙しいというわけではない。"
-translation = "할로윈을 향한 일은 있지만, 내 쪽은 전혀 시간을 낼 수 없을 정도로 바쁜 것은 아니다."
+translation = "할로윈을 향해 일은 있지만, 내 쪽은 전혀 시간을 낼 수 없을 정도로 바쁜 것은 아니다."
 
 [[dialogue]]
 speaker = "unk"
 original = "だから環の練習に付き合うというのは渡りに船だった。"
-translation = "그래서 타마키의 연습을 함께해 준다는 것은 가뭄에 단비 같은 일이었다."
+translation = "그래서 타마키의 연습을 함께한다는 것은 가뭄에 단비 같은 일이었다."
 
 [[dialogue]]
 speaker = "unk"
 original = "練習ってどんなことをするんだ？"
-translation = "연습이란 어떤 걸 하는 거야?"
+translation = "연습이란 건 어떤 걸 하는 거야?"
 
 [[dialogue]]
 speaker_original = "ラクシャ"
 speaker_translation = "락샤"
 original = "「ちゃんと練習用の教本もあるよ」"
-translation = "「제대로 연습용 교본도 있어」"
+translation = "「교재용 교본도 제대로 있어」"
 
 [[dialogue]]
 speaker_original = "ラクシャ"
 speaker_translation = "락샤"
 original = "「これはシルヴィさんのバンドのギターの人からもらった初心者用の本なんだ～」"
-translation = "「이건 실비 씨 밴드의 기타 치는 사람에게 받은 초보자용 책이야～」"
+translation = "「이건 실비 씨네 밴드의 기타 치는 사람에게 받은 초보자용 책이야~」"
 
 [[dialogue]]
 speaker = "unk"
@@ -72,19 +72,19 @@ translation = "실비 선배도 밴드맨이었던가?"
 speaker_original = "ラクシャ"
 speaker_translation = "락샤"
 original = "「うん。シルヴィさんはドラム担当だから、別に先生をつけてくれたんだ～」"
-translation = "「응. 실비 씨는 드럼 담당이라서, 따로 선생님을 붙여 줬어～」"
+translation = "「응. 실비 씨는 드럼 담당이라서, 따로 선생님을 붙여줬어~」"
 
 [[dialogue]]
 speaker_original = "ラクシャ"
 speaker_translation = "락샤"
 original = "「ちなみにチューニングはここに来る前に済ませてきたよ。本当は毎回、弾く前にちゃんとチューニングしたほうがいいらしいんだけどね」"
-translation = "「참고로 튜닝은 여기 오기 전에 끝내 두고 왔어. 사실은 매번, 치기 전에 제대로 튜닝하는 편이 좋다는 것 같지만 말이야」"
+translation = "「참고로 튜닝은 여기 오기 전에 끝내고 왔어. 사실은 매번, 치기 전에 제대로 튜닝하는 편이 좋다고 하지만 말이지」"
 
 [[dialogue]]
 speaker_original = "ラクシャ"
 speaker_translation = "락샤"
 original = "「えーと、なになに……？\u3000まずは音を鳴らしてみましょう。１弦３フレットを押さえて弦を弾いてみてください」"
-translation = "「어디 보자, 어디 보자……? 우선은 소리를 내 봅시다. 1번 줄 3프렛을 누르고 줄을 튕겨 보세요」"
+translation = "「어디 보자, 어디 어디……? 우선은 소리를 내봅시다. 1프렛 3번 줄을 누르고 줄을 튕겨보세요」"
 
 [[dialogue]]
 speaker = "unk"
@@ -95,13 +95,13 @@ translation = "프렛이 뭐야?"
 speaker_original = "ラクシャ"
 speaker_translation = "락샤"
 original = "「左手で押さえるところに入ってる、この線のことをフレットって言うんだって」"
-translation = "「왼손으로 누르는 곳에 들어 있는, 이 선을 프렛이라고 한대」"
+translation = "「왼손으로 누르는 곳에 들어있는, 이 선을 프렛이라고 한대」"
 
 [[dialogue]]
 speaker_original = "ラクシャ"
 speaker_translation = "락샤"
 original = "「１弦３フレットっていうことは、１番下の弦の３フレット目の手前を押さえて……こう！」"
-translation = "「1번 줄 3프렛이라는 건, 가장 아래쪽 줄의 3번째 프렛 앞쪽을 누르고…… 이렇게!」"
+translation = "「1번 줄 3프렛이라는 건, 가장 아래쪽 줄의 3번째 프렛의 앞쪽을 누르고…… 이렇게!」"
 
 [[dialogue]]
 speaker = "unk"
@@ -112,24 +112,24 @@ translation = ""
 speaker_original = "ラクシャ"
 speaker_translation = "락샤"
 original = "「ダメかー。上手く弾けてないと、今みたいな変な音がするみたいなんだよね」"
-translation = "「안 되나ー. 잘 치지 못하면, 방금처럼 이상한 소리가 나는 모양이야」"
+translation = "「안 되나-. 잘 짚지 못하면, 방금처럼 이상한 소리가 나는 모양이네」"
 
 [[dialogue]]
 speaker_original = "ラクシャ"
 speaker_translation = "락샤"
 original = "「ちゃんと弦を押さえられてないことが原因らしいんだけど……おかしいな～、しっかり押さえてるはずなのに」"
-translation = "「제대로 줄을 누르지 못한 게 원인 같은데…… 이상하네～, 분명히 잘 누르고 있을 텐데」"
+translation = "「제대로 줄을 누르지 못한 게 원인인 것 같은데…… 이상하네~, 분명하게 누르고 있을 텐데」"
 
 [[dialogue]]
 speaker_original = "ラクシャ"
 speaker_translation = "락샤"
 original = "「そうだ、会長もちょっとやってみてよ」"
-translation = "「맞다, 회장님도 한번 해봐」"
+translation = "「맞다, 회장도 조금 해봐」"
 
 [[dialogue]]
 speaker = "unk"
 original = "環からギターを受け取ると、同じように押さえて弦を弾いてみる。"
-translation = "타마키에게 기타를 받아 들고, 같은 방식으로 누르며 줄을 튕겨 본다."
+translation = "타마키에게 기타를 받아 들고는, 똑같이 누르며 줄을 튕겨본다."
 
 [[dialogue]]
 speaker_original = "ラクシャ"
@@ -140,160 +140,160 @@ translation = "「아하하, 대단해 대단해! 제대로 소리가 났어!」
 [[dialogue]]
 speaker = "unk"
 original = "でもなんか割れてて汚い音だったな"
-translation = "하지만 왠지 깨지는 듯한 지저분한 소리였는데"
+translation = "하지만 왠지 갈라져서 지저분한 소리였는데"
 
 [[dialogue]]
 speaker_original = "ラクシャ"
 speaker_translation = "락샤"
 original = "「でも全然鳴らなかったボクよりすごいって！\u3000ねえねえ、どうやったの？」"
-translation = "「그래도 전혀 소리를 못 낸 나보다 대단해! 저기 저기, 어떻게 한 거야?」"
+translation = "「그래도 전혀 소리를 못 낸 나보다 대단하다고! 저기 저기, 어떻게 한 거야?」"
 
 [[dialogue]]
 speaker = "unk"
 original = "しっかり押さえた、としか……"
-translation = "꽉 눌렀다, 라고밖엔……"
+translation = "단단히 눌렀다, 라고밖에는……"
 
 [[dialogue]]
 speaker_original = "ラクシャ"
 speaker_translation = "락샤"
 original = "「けっこう力を入れて押さえなきゃだめなのかもね……指が痛くなっちゃいそー」"
-translation = "「꽤 힘을 주고 눌러야 하는 걸지도 모르겠네…… 손가락이 아플 것 같아ー」"
+translation = "「제법 힘을 주어 누르지 않으면 안 되는 걸지도 모르겠네…… 손가락이 아파질 것 같아-」"
 
 [[dialogue]]
 speaker_original = "ラクシャ"
 speaker_translation = "락샤"
 original = "「でもやってみるよ！\u3000ここで綺麗な音を鳴らせなきゃ話にならないもんね！\u3000頑張るよっ！」"
-translation = "「하지만 해볼게! 여기서 예쁜 소리를 내지 못하면 이야기가 안 되니까! 힘낼게!」"
+translation = "「하지만 해볼게! 여기서 아름다운 소리를 내지 못하면 이야기가 안 되니까! 힘낼게!」"
 
 [[dialogue]]
 speaker_original = "ラクシャ"
 speaker_translation = "락샤"
 original = "「──音をちゃんと鳴らせるようになったら、次はコードを鳴らしてみましょう、だって！」"
-translation = "「──소리를 제대로 낼 수 있게 되면, 다음은 코드를 소리 내 봅시다, 라는데!」"
+translation = "「──소리를 제대로 낼 수 있게 되면, 다음은 코드를 소리 내봅시다, 라네!」"
 
 [[dialogue]]
 speaker_original = "ラクシャ"
 speaker_translation = "락샤"
 original = "「まずは中指で５弦２フレット、薬指で４弦２フレットを押さえ、全ての弦を鳴らしてみましょう」"
-translation = "「우선 중지로 5번 줄 2프렛, 약지로 4번 줄 2프렛을 누르고, 모든 줄을 소리 내 봅시다」"
+translation = "「우선은 가운데손가락으로 5번 줄 2프렛, 약지로 4번 줄 2프렛을 누르고, 모든 줄을 튕겨봅시다」"
 
 [[dialogue]]
 speaker_original = "ラクシャ"
 speaker_translation = "락샤"
 original = "「それがＥｍというコードになります。ふむふむ、じゃあちょっとやってみるね」"
-translation = "「그게 Em라는 코드가 됩니다. 흠흠, 그럼 한번 해볼게」"
+translation = "「그게 Em라는 코드가 됩니다. 흠흠, 그럼 조금 해볼게」"
 
 [[dialogue]]
 speaker = "unk"
 original = "左手で弦を押さえ、右手にピックを持って、６本の弦を一気に弾いていく。"
-translation = "왼손으로 줄을 누르고, 오른손에 피크를 쥐고, 6개의 줄을 한 번에 튕겨 나간다."
+translation = "왼손으로 줄을 누르고, 오른손에 픽을 쥐고, 6개의 줄을 한꺼번에 튕겨나간다."
 
 [[dialogue]]
 speaker_original = "ラクシャ"
 speaker_translation = "락샤"
 original = "「わ……あはは、予想はしてたけど酷いね～。全然鳴ってないや」"
-translation = "「와…… 아하하, 예상은 했지만 끔찍하네～. 전혀 소리가 안 나」"
+translation = "「와…… 아하하, 예상은 했지만 심각하네~. 전혀 안 울려」"
 
 [[dialogue]]
 speaker_original = "ラクシャ"
 speaker_translation = "락샤"
 original = "「４弦と５弦以外の弦には触れないように。それから押さえていない弦も含めて全ての弦を弾くように……って、難しいよ！！」"
-translation = "「4번 줄과 5번 줄 이외의 줄에는 닿지 않도록. 그리고 누르지 않은 줄을 포함해 모든 줄을 튕기도록……이라니, 어렵잖아!!」"
+translation = "「4번 줄과 5번 줄 이외의 줄에는 닿지 않도록. 그리고 누르지 않은 줄을 포함해서 모든 줄을 튕기도록……이라니, 어렵잖아!!」"
 
 [[dialogue]]
 speaker_original = "ラクシャ"
 speaker_translation = "락샤"
 original = "「でもだんだん、ギターを弾いてる、って感じになってきたね！」"
-translation = "「하지만 점점, 기타를 치고 있다, 라는 느낌이 들기 시작했네!」"
+translation = "「하지만 점점, 기타를 치고 있다, 라는 느낌이 되어오네!」"
 
 [[dialogue]]
 speaker_original = "ラクシャ"
 speaker_translation = "락샤"
 original = "「よーし、もう１回…………うーん、駄目かぁ～」"
-translation = "「좋아ー, 다시 한 번………… 음ー, 안 되려나ー」"
+translation = "「좋아-, 한 번 더…………으-음, 안 되려나~」"
 
 [[dialogue]]
 speaker = "unk"
 original = "指を立てる感じにしてみたら？"
-translation = "손가락을 세우는 느낌으로 해보면 어때?"
+translation = "손가락을 세우는 느낌으로 해보는 건 어때?"
 
 [[dialogue]]
 speaker = "unk"
 original = "６弦に触っちゃってるみたいだね"
-translation = "6번 줄에 닿고 있는 것 같은데"
+translation = "6번 줄에 건드려버리고 있는 것 같은데"
 
 [[dialogue]]
 speaker_original = "ラクシャ"
 speaker_translation = "락샤"
 original = "「どんな感じだよ～。やって見せてよ～」"
-translation = "「어떤 느낌인데ー. 해서 보여줘ー」"
+translation = "「어떤 느낌인 거야~. 해보여줘~」"
 
 [[dialogue]]
 speaker_original = "ラクシャ"
 speaker_translation = "락샤"
 original = "「え～？\u3000それじゃわかんないって～♪\u3000ほら、もっと近くに寄って教えて～♪」"
-translation = "「에～? 그걸로는 모르겠다고～♪ 자, 좀 더 가까이 와서 가르쳐줘～♪」"
+translation = "「에~? 그것만으로는 모르겠다고~♪ 자, 좀 더 가까이 다가와서 가르쳐줘~♪」"
 
 [[dialogue]]
 speaker = "unk"
 original = "イタズラっぽい笑みを浮かべる環。"
-translation = "장난스러운 미소를 짓는 타마키."
+translation = "장난스러운 미소를 띠는 타마키."
 
 [[dialogue]]
 speaker = "unk"
 original = "俺はひとつため息をついて環の後ろに回ると、二人羽織りのようにして弦を押さえてみせる。"
-translation = "나는 한숨을 한 번 쉬고 타마키의 뒤로 돌아가, 2인 3각처럼 줄을 눌러 보인다."
+translation = "나는 한숨을 한 번 쉬고 타마키의 뒤로 돌아가, 2인 3각처럼 줄을 눌러보인다."
 
 [[dialogue]]
 speaker_original = "ラクシャ"
 speaker_translation = "락샤"
 original = "「うんうん、なるほどね。じゃ、弾いてみるからそのままくっついててね。せーの……じゃらーん♪」"
-translation = "「응응, 그렇구나. 그럼, 튕겨 볼 테니까 그대로 붙어 있어줘. 하나 둘…… 짠ー♪」"
+translation = "「응응, 그렇구나. 그럼, 칠 테니까 그대로 붙어있어줘. 하나 둘…… 짠-♪」"
 
 [[dialogue]]
 speaker_original = "ラクシャ"
 speaker_translation = "락샤"
 original = "「やった♪\u3000いい感じにギターっぽい音が鳴ったね♪」"
-translation = "「됐다♪ 좋은 느낌으로 기타 같은 소리가 났네♪」"
+translation = "「해냈다♪ 좋은 느낌으로 기타 같은 소리가 났네♪」"
 
 [[dialogue]]
 speaker_original = "ラクシャ"
 speaker_translation = "락샤"
 original = "「教えてくれてありがと、会長♪」"
-translation = "「가르쳐 줘서 고마워, 회장님♪」"
+translation = "「가르쳐줘서 고마워, 회장♪」"
 
 [[dialogue]]
 speaker = "unk"
 original = "わかっていても、間近でこんな笑顔を見せられたら心臓が跳ねてしまう。"
-translation = "알고 있으면서도, 바로 앞에서 이런 미소를 보여 주면 심장이 뛰어 버린다."
+translation = "알고 있으면서도, 바로 앞에서 이런 미소를 보여주면 심장이 뛰어버린다."
 
 [[dialogue]]
 speaker_original = "ラクシャ"
 speaker_translation = "락샤"
 original = "「あはは、顔近すぎかな～♪」"
-translation = "「아하하, 얼굴이 너무 가까우려나～♪」"
+translation = "「아하하, 얼굴 너무 가까우려나~♪」"
 
 [[dialogue]]
 speaker_original = "ラクシャ"
 speaker_translation = "락샤"
 original = "「でもこうやって密着して練習してるの、恋人って感じで良くない？」"
-translation = "「하지만 이렇게 밀착해서 연습하는 거, 연인 같은 느낌이라 좋지 않아?」"
+translation = "「하지만 이렇게 밀착해서 연습하는 거, 연인이라는 느낌이라 좋지 않아?」"
 
 [[dialogue]]
 speaker_original = "ラクシャ"
 speaker_translation = "락샤"
 original = "「これなら普通にやるより楽しく練習できそう♪\u3000さ、次いこうか、次♪\u3000ええと次は<ruby>Ａｍ<rt>エーマイナー</rt></ruby>で……」"
-translation = "「이러면 평소처럼 하는 것보다 즐겁게 연습할 수 있을 것 같아♪ 자, 다음으로 갈까, 다음♪ 어디 보자 다음은 <ruby>Am<rt>에이 마이너</rt></ruby>이고……」"
+translation = "「이러면 보통으로 하는 것보다 즐겁게 연습할 수 있을 것 같아♪ 자, 다음 가볼까, 다음♪ 어디 보자 다음은 <ruby>Am<rt>에이 마이너</rt></ruby>이고……」"
 
 [[dialogue]]
 speaker = "unk"
 original = "そんな調子でギターの練習を続けた。"
-translation = "그런 상태로 기타 연습을 계속했다."
+translation = "그런 기세로 기타 연습을 계속했다."
 
 [[dialogue]]
 speaker = "unk"
 original = "あまりに夢中になり過ぎたせいで、練習後は指がつりそうになるほど痛くなってしまった。"
-translation = "너무 열중한 탓에, 연습 후에는 손가락에 쥐가 날 정도로 아파지고 말았다."
+translation = "너무 열중해버린 탓에, 연습 후에는 손가락이 쥐가 날 정도로 아파지고 말았다."
 
 [[dialogue]]
 speaker = "unk"

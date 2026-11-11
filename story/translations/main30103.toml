@@ -1,7 +1,7 @@
 [[dialogue]]
 speaker = "unk"
 original = "第３話,『附属生としての新生活』,B"
-translation = "제3화, 『부속생으로서의 새 생활』, B"
+translation = "제3화, 『부속생으로서의 신생활』, B"
 
 [[dialogue]]
 speaker_original = "オオヒメ（幼少）"
@@ -17,13 +17,13 @@ translation = "이제부터 학원 생활을 보내게 될 교실 앞에 서서,
 [[dialogue]]
 speaker = "unk"
 original = "ちなみに、ルヴィネはオオヒメとは別のクラスの転入となっており、頼ることはできない。"
-translation = "참고로, 루비네는 오오히메와는 다른 반으로 편입하게 되어, 의지할 수는 없다."
+translation = "참고로, 루비네는 오오히메와는 다른 반으로 전입하게 되어 있어, 의지할 수는 없다."
 
 [[dialogue]]
 speaker_original = "オオヒメ（幼少）"
 speaker_translation = "オオヒメ（幼少）"
 original = "（いよいよここから私の学園生活が始まるのか）"
-translation = "(드디어 여기서부터 나의 학원 생활이 시작되는 것인가)"
+translation = "(드디어 여기서부터 나의 학원 생활이 시작되는 건가)"
 
 [[dialogue]]
 speaker_original = "オオヒメ（幼少）"
@@ -35,7 +35,7 @@ translation = "(나에게 있어서 첫 경험──)"
 speaker_original = "オオヒメ（幼少）"
 speaker_translation = "オオヒメ（幼少）"
 original = "（守護天使として恥ずかしくないよう、上手く立ち回るために予習をしてきた……完璧に！）"
-translation = "(수호천사로서 부끄럽지 않도록, 잘 대처하기 위해 예습을 해왔다…… 완벽하게!)"
+translation = "(수호천사로서 부끄럽지 않도록, 처신을 잘하기 위해 예습을 해 왔다…… 완벽하게!)"
 
 [[dialogue]]
 speaker_original = "オオヒメ（幼少）"
@@ -52,25 +52,25 @@ translation = "오오히메는 선생님의 뒤를 이어 교실로 들어간다
 speaker_original = "オオヒメ（幼少）"
 speaker_translation = "オオヒメ（幼少）"
 original = "（さて……ここが最初の関門、自己紹介だが……）"
-translation = "(자…… 여기가 첫 번째 관문, 자기소개지만……)"
+translation = "(자…… 여기가 첫 관문, 자기소개다만……)"
 
 [[dialogue]]
 speaker_original = "オオヒメ（幼少）"
 speaker_translation = "オオヒメ（幼少）"
 original = "（接しやすい印象を与えるために、１番大事なのは笑顔だ）"
-translation = "(접하기 쉬운 인상을 주기 위해, 가장 중요한 것은 미소다)"
+translation = "(접하기 쉬운 인상을 주기 위해, 가장 중요한 것은 웃는 얼굴이다)"
 
 [[dialogue]]
 speaker_original = "オオヒメ（幼少）"
 speaker_translation = "オオヒメ（幼少）"
 original = "（声が小さかったり、聞き取りづらかったりしてはいけない。歯切れの良い明朗な挨拶をする）"
-translation = "(목소리가 작거나, 알아듣기 힘들어서는 안 된다. 또박또박하고 명랑한 인사를 한다)"
+translation = "(목소리가 작거나, 알아듣기 힘들어서는 안 된다. 맺고 끊음이 명확한 명랑한 인사를 한다)"
 
 [[dialogue]]
 speaker_original = "オオヒメ（幼少）"
 speaker_translation = "オオヒメ（幼少）"
 original = "（そして内容……必要以上に自分語りをしてはいけない。だが、あまりに無個性な自己紹介になってしまってもいけない）"
-translation = "(그리고 내용…… 필요 이상으로 자기 이야기를 해서는 안 된다. 하지만, 너무나 개성이 없는 자기소개가 되어 버려서도 안 된다)"
+translation = "(그리고 내용…… 필요 이상으로 자신에 대해 이야기해서는 안 된다. 하지만, 너무나 무개성한 자기소개가 되어 버려서도 안 된다)"
 
 [[dialogue]]
 speaker_original = "オオヒメ（幼少）"
@@ -82,13 +82,13 @@ translation = "(왜냐하면 그 후의 대화의 물꼬가 사라져 버리기 
 speaker_original = "オオヒメ（幼少）"
 speaker_translation = "オオヒメ（幼少）"
 original = "（会話の糸口が無ければ、クラスメイト達は私に話しかけづらくなってしまう）"
-translation = "(대화의 물꼬가 없으면, 학급 친구들은 나에게 말을 걸기 어려워지고 만다)"
+translation = "(대화의 물꼬가 없으면, 반 친구들은 나에게 말을 걸기 어려워지고 만다)"
 
 [[dialogue]]
 speaker_original = "オオヒメ（幼少）"
 speaker_translation = "オオヒメ（幼少）"
 original = "（結果、１人ぼっちの寂しい自由時間を過ごすという未来が待っているわけだ。そのような愚を犯してはならない）"
-translation = "(결국, 외톨이로 쓸쓸한 자유 시간을 보낸다는 미래가 기다리고 있는 셈이다. 그런 어리석은 짓을 저질러서는 안 된다)"
+translation = "(결과, 외톨이의 쓸쓸한 자유 시간을 보내게 된다는 미래가 기다리고 있는 법이다. 그러한 짓을 저질러서는 안 된다)"
 
 [[dialogue]]
 speaker_original = "先生"
@@ -100,25 +100,25 @@ translation = "「그럼 오오히메 양. 자기소개를 부탁합니다」"
 speaker_original = "オオヒメ（幼少）"
 speaker_translation = "オオヒメ（幼少）"
 original = "「うむ……私はオオヒメ。このような姿をしているが、この世界の摂理を司る守護天使の１柱である」"
-translation = "「음…… 나는 오오히메. 이러한 모습을 하고 있지만, 이 세계의 섭리를 관장하는 수호천사의 1주다」"
+translation = "「음…… 나는 오오히메. 이러한 모습을 하고 있지만, 이 세계의 섭리를 관장하는 수호천사의 1주이다」"
 
 [[dialogue]]
 speaker_original = "オオヒメ（幼少）"
 speaker_translation = "オオヒメ（幼少）"
 original = "「芸術や芸能の分野に特に関心を持っている。特にお笑いが好きだ。古典的な落語から、現代の芸人たちの披露するコントまで」"
-translation = "「예술이나 예능 분야에 특히 관심을 가지고 있다. 특히 개그를 좋아한다. 고전적인 라쿠고부터, 현대의 예인들이 선보이는 콘트까지」"
+translation = "「예술이나 예능 분야에 특히 관심을 가지고 있다. 특히 개그를 좋아한다. 고전적인 라쿠고부터, 현대의 예능인들이 선보이는 콘트까지」"
 
 [[dialogue]]
 speaker_original = "オオヒメ（幼少）"
 speaker_translation = "オオヒメ（幼少）"
 original = "「同じ趣味の者がいれば、是非語り合いたいと思っている。どうぞよろしくお願いします」"
-translation = "「같은 취미를 가진 자가 있다면, 꼭 함께 이야기 나누고 싶다고 생각한다. 잘 부탁한다」"
+translation = "「같은 취미를 가진 자가 있다면, 부디 이야기 나누고 싶다고 생각하고 있다. 모쪼록 잘 부탁한다」"
 
 [[dialogue]]
 speaker_original = "オオヒメ（幼少）"
 speaker_translation = "オオヒメ（幼少）"
 original = "（……キマった。長すぎず短すぎず、的確に自身のことを伝えきった。これで私の学園生活は好スタートを切ることが出来るだろう）"
-translation = "(……멋지게 정해졌다. 너무 길지도 짧지도 않게, 적절하게 자신에 대해 전부 전달했다. 이것으로 나의 학원 생활은 좋은 출발을 할 수 있겠지)"
+translation = "(……완벽했다. 너무 길지도 짧지도 않게, 적절하게 자신의 것을 모두 전달했다. 이것으로 나의 학원 생활은 좋은 스타트를 끊을 수 있을 것이다)"
 
 [[dialogue]]
 speaker_original = "先生"
@@ -135,7 +135,7 @@ translation = "「내 자리는, 저쪽 자리면 되는 것인가?」"
 [[dialogue]]
 speaker = "unk"
 original = "後列の窓際寄りに空席があった。"
-translation = "뒷줄 창가 쪽에 빈자리가 있었다."
+translation = "뒷열 창가 쪽에 빈자리가 있었다."
 
 [[dialogue]]
 speaker = "unk"
@@ -145,13 +145,13 @@ translation = "거기가 자신에게 할당된 자리라고 판단하고, 오�
 [[dialogue]]
 speaker = "unk"
 original = "しかし、自己紹介という大仕事を終えたオオヒメの中に、わずかな油断があった──"
-translation = "하지만, 자기소개라는 큰일을 마친 오오히메의 마음속에, 작은 방심이 있었다──"
+translation = "하지만, 자기소개라는 큰일을 마친 오오히메의 마음속에, 약간의 방심이 있었다──"
 
 [[dialogue]]
 speaker_original = "オオヒメ（幼少）"
 speaker_translation = "オオヒメ（幼少）"
 original = "「ぐはっ！！！！！」"
-translation = "「크헉─────!!!!!」"
+translation = "「크학!!!!!」"
 
 [[dialogue]]
 speaker_original = "先生"
@@ -162,7 +162,7 @@ translation = "「오, 오오히메 양!?」"
 [[dialogue]]
 speaker = "unk"
 original = "足がもつれて思いきり転んでしまっていた。"
-translation = "발이 꼬여서 힘껏 넘어져 버리고 말았다."
+translation = "발이 꼬여서 크게 넘어지고 말았다."
 
 [[dialogue]]
 speaker_original = "オオヒメ（幼少）"
@@ -174,13 +174,13 @@ translation = "「…………」"
 speaker_original = "先生"
 speaker_translation = "先生"
 original = "「あ、あの……大丈夫、ですか……オオヒメさん？」"
-translation = "「저, 저기…… 괜찮, 으신가요…… 오오히메 양?」"
+translation = "「저, 저기…… 괜찮, 으세요…… 오오히메 양?」"
 
 [[dialogue]]
 speaker_original = "オオヒメ（幼少）"
 speaker_translation = "オオヒメ（幼少）"
 original = "（うぅうううっ！！！\u3000失敗した！\u3000失敗した！\u3000失敗したっ！\u3000やらかしてしまったぁっ！！）"
-translation = "(으으으으읏!!! 실패했다! 실패했다! 실패했다아앗! 저질러 버렸다아앗!!)"
+translation = "(으으으으응!!! 실패했다! 실패했다! 실패했다! 저질러 버렸다아앗!!)"
 
 [[dialogue]]
 speaker_original = "オオヒメ（幼少）"
@@ -192,13 +192,13 @@ translation = ""
 speaker_original = "オオヒメ（幼少）"
 speaker_translation = "オオヒメ（幼少）"
 original = "（これではもう『ドジっ子守護天使』という印象以外は吹き飛んでしまったに違いないっ！\u3000くぅうううううっ！！！！）"
-translation = "(이래서야 이제 『덜렁이 수호천사』라는 인상 외에는 날아가 버렸음에 틀림없다앗! 끄으으으으읏!!!!)"
+translation = "(이래서야 이제 『덜렁이 수호천사』라는 인상 외에는 날아가 버렸음에 틀림없다앗! 으으으으으윽!!!!)"
 
 [[dialogue]]
 speaker_original = "オオヒメ（幼少）"
 speaker_translation = "オオヒメ（幼少）"
 original = "（だが、いつまでも顔を伏せてはいられぬ。何事も無かったように立ち上がり席に向かうのだ）"
-translation = "(하지만, 언제까지고 얼굴을 엎드리고 있을 수는 없다. 아무 일도 없었다는 듯이 일어나 자리로 향하는 것이다)"
+translation = "(하지만, 언제까지고 얼굴을 엎드리고 있을 수는 없는 법. 아무 일도 없었다는 듯이 일어서서 자리로 향하는 거다)"
 
 [[dialogue]]
 speaker_original = "オオヒメ（幼少）"
@@ -216,7 +216,7 @@ translation = "「괜찮다, 걱정할 필요는 없다. 모두도 놀라게 해
 speaker_original = "オオヒメ（幼少）"
 speaker_translation = "オオヒメ（幼少）"
 original = "「ふっ……ふふ……」"
-translation = "「훗…… 후후……」"
+translation = "「후…… 후후……」"
 
 [[dialogue]]
 speaker_original = "オオヒメ（幼少）"
@@ -228,43 +228,43 @@ translation = "(사라져 버리고 싶다!!!!!)"
 speaker_original = "オオヒメ（幼少）"
 speaker_translation = "オオヒメ（幼少）"
 original = "（はぁ……もういやだ……今すぐ神殿に逃げ帰って扉の奥に閉じこもりたい……）"
-translation = "(하아…… 이제 싫다…… 지금 당장 신전으로 도망쳐 돌아가서 문 안쪽에 갇혀있고 싶어……)"
+translation = "(하아…… 이제 싫어…… 지금 당장 신전으로 도망쳐 돌아가서 문 안쪽에 틀어박히고 싶어……)"
 
 [[dialogue]]
 speaker_original = "オオヒメ（幼少）"
 speaker_translation = "オオヒメ（幼少）"
 original = "（転んでしまったのは実は、皆に親しみを持ってもらうためのパフォーマンスだった、ということに出来ないだろうか？）"
-translation = "(넘어져 버린 건 사실, 모두에게 친근감을 갖게 하기 위한 퍼포먼스였다, 라고 할 수는 없을까?)"
+translation = "(넘어진 것은 사실, 모두에게 친근감을 갖게 하기 위한 퍼포먼스였다, 라는 걸로 할 수는 없을까?)"
 
 [[dialogue]]
 speaker_original = "オオヒメ（幼少）"
 speaker_translation = "オオヒメ（幼少）"
 original = "（いや、それはあまりに苦しい！\u3000それに、そんな誤魔化しをしたところで何の意味があろうか……）"
-translation = "(아니, 그거는 너무 억지야! 게다가, 그런 속임수를 쓴다고 해서 무슨 의미가 있겠어……)"
+translation = "(아니, 그건 너무나 억지다! 게다가, 그런 얼렁뚱땅 넘기기를 한들 무슨 의미가 있겠는가……)"
 
 [[dialogue]]
 speaker_original = "オオヒメ（幼少）"
 speaker_translation = "オオヒメ（幼少）"
 original = "（こんな時……<b>彼ら</b>はどうしていたか……）"
-translation = "(이럴 때…… <b>그들</b>은 어떻게 했을까……)"
+translation = "(이럴 때…… <b>그들</b>은 어떻게 하고 있었던가……)"
 
 [[dialogue]]
 speaker_original = "オオヒメ（幼少）"
 speaker_translation = "オオヒメ（幼少）"
 original = "（学園生活を送るに当たって、私が調べた文献の<b>主人公</b>たちが取った行動……ここで私が取るべき最適解は……）"
-translation = "(학원 생활을 보내는 데 있어서, 내가 조사한 문헌의 <b>주인공</b>들이 취했던 행동…… 여기서 내가 취해야 할 최적해는……)"
+translation = "(학원 생활을 보냄에 있어, 내가 조사한 문헌의 <b>주인공</b>들이 취한 행동…… 여기서 내가 취해야 할 최적해는……)"
 
 [[dialogue]]
 speaker_original = "オオヒメ（幼少）"
 speaker_translation = "オオヒメ（幼少）"
 original = "（────そうだ！\u3000モブになるのだ！）"
-translation = "(────그래! 엑스트라가 되는 거다!)"
+translation = "(────그렇다! 엑스트라가 되는 거다!)"
 
 [[dialogue]]
 speaker_original = "オオヒメ（幼少）"
 speaker_translation = "オオヒメ（幼少）"
 original = "（転校生ということで物珍しさから関心を持たれているが、数日もすればその熱も冷めてくるだろう）"
-translation = "(전학생이라서 희귀함 때문에 관심을 받고 있지만, 며칠만 지나면 그 열기도 식어가겠지)"
+translation = "(전학생이라는 점에서 신기함 때문에 관심을 받고 있지만, 며칠만 지나면 그 열기도 식어 오겠지)"
 
 [[dialogue]]
 speaker_original = "オオヒメ（幼少）"
@@ -276,19 +276,19 @@ translation = "(앞으로 2주간, 나는 결코 눈에 띄지 않도록 기척�
 speaker_original = "オオヒメ（幼少）"
 speaker_translation = "オオヒメ（幼少）"
 original = "（そうすれば今の私の失態も、皆の記憶から忘れられてゆくはず……）"
-translation = "(그러면 지금 나의 실태도, 모두의 기억 속에서 잊혀 갈 터……)"
+translation = "(그렇게 하면 지금 나의 실수도, 모두의 기억 속에서 잊혀 갈 터……)"
 
 [[dialogue]]
 speaker_original = "オオヒメ（幼少）"
 speaker_translation = "オオヒメ（幼少）"
 original = "（本来の目的を考えれば積極的に交流を持つべきところなのだが、これは不測の事態であるから仕方がない！）"
-translation = "(본래의 목적을 생각하면 적극적으로 교류를 가져야 할 부분이지만, 이것은 불측의 사태이니까 어쩔 수 없다!)"
+translation = "(본래의 목적을 생각하면 적극적으로 교류를 가져야 할 부분이지만, 이것은 불측의 사태이므로 어쩔 수 없다!)"
 
 [[dialogue]]
 speaker_original = "オオヒメ（幼少）"
 speaker_translation = "オオヒメ（幼少）"
 original = "（私はモブ……私はモブ……何の特徴もないただの守護天使……）"
-translation = "(나는 엑스트라…… 나는 엑스트라…… 아무런 특징도 없는 그냥 수호천사……)"
+translation = "(나는 엑스트라…… 나는 엑스트라…… 아무런 특징도 없는 그저 수호천사……)"
 
 [[dialogue]]
 speaker_original = "ナミエル"
@@ -300,31 +300,31 @@ translation = "「저기……」"
 speaker_original = "オオヒメ（幼少）"
 speaker_translation = "オオヒメ（幼少）"
 original = "「ひゃいっ！？」"
-translation = "「히얏!?」"
+translation = "「히약!?」"
 
 [[dialogue]]
 speaker_original = "ナミエル"
 speaker_translation = "나미엘"
 original = "「あ、すみません……急に声をかけてしまって……」"
-translation = "「아, 죄송해요…… 갑자기 말을 걸어버려서……」"
+translation = "「아, 죄송해요…… 갑자기 말을 걸어서……」"
 
 [[dialogue]]
 speaker_original = "オオヒメ（幼少）"
 speaker_translation = "オオヒメ（幼少）"
 original = "「い、いや……少々考えごとをしていたのだ……。私のようなモブ守護天使に何か御用か？」"
-translation = "「아, 아니…… 잠시 생각을 하고 있었을 뿐이다……. 나 같은 엑스트라 수호천사에게 무슨 볼일이라도 있나?」"
+translation = "「아, 아니…… 약간 생각을 하고 있었을 뿐이다……. 나 같은 엑스트라 수호천사에게 무슨 일인가?」"
 
 [[dialogue]]
 speaker_original = "ナミエル"
 speaker_translation = "나미엘"
 original = "「先ほど転んだ時にどこか痛めたのではないかと心配になりまして……大丈夫でしたか？」"
-translation = "「아까 넘어졌을 때 어디 다치지 않으셨을까 걱정이 돼서…… 괜찮으신가요?」"
+translation = "「아까 넘어졌을 때 어디 다친 건 아닌가 걱정이 되어서요…… 괜찮으셨나요?」"
 
 [[dialogue]]
 speaker_original = "オオヒメ（幼少）"
 speaker_translation = "オオヒメ（幼少）"
 original = "「ああ、大丈夫だ……どこも怪我はしていない……」"
-translation = "「아아, 괜찮다…… 어디도 다치지 않았어……」"
+translation = "「아아, 괜찮다…… 어디도 다치지 않았다……」"
 
 [[dialogue]]
 speaker_original = "ナミエル"
@@ -336,13 +336,13 @@ translation = "「그러신가요. 그렇다면 안심이에요……」"
 speaker_original = "オオヒメ（幼少）"
 speaker_translation = "オオヒメ（幼少）"
 original = "「気遣い感謝する。あなたの名を教えてもらえるだろうか？」"
-translation = "「배려에 감사하지. 당신의 이름을 가르쳐 줄 수 있겠나?」"
+translation = "「배려에 감사한다. 그대의 이름을 가르쳐 줄 수 있겠는가?」"
 
 [[dialogue]]
 speaker_original = "ナミエル"
 speaker_translation = "나미엘"
 original = "「ナミエル・クレシェンテと申します。よろしくお願いします、オオヒメ様」"
-translation = "「나미엘 크레셴테라고 합니다. 잘 부탁드려요, 오오히메 님」"
+translation = "「나미엘 크레셴테라고 합니다. 잘 부탁드립니다, 오오히메 님」"
 
 [[dialogue]]
 speaker_original = "オオヒメ（幼少）"
@@ -354,19 +354,19 @@ translation = "(한심한 모습을 드러낸 나를 놀리지도 않고…… �
 speaker_original = "オオヒメ（幼少）"
 speaker_translation = "オオヒメ（幼少）"
 original = "（ナミエル・クレシェンテ……偶然、席が隣になった彼女があまりにも天使すぎるのだが！？\u3000私はむしろ運がいいのかもしれない……）"
-translation = "(나미엘 크레셴테…… 우연히 옆자리가 된 그녀가 너무나도 천사 같은데!? 나는 오히려 운이 좋은 걸지도 몰라……)"
+translation = "(나미엘 크레셴테…… 우연히 자리가 옆이 된 그녀가 너무나도 천사 같은데!? 나는 오히려 운이 좋은 걸지도 모른다……)"
 
 [[dialogue]]
 speaker_original = "オオヒメ（幼少）"
 speaker_translation = "オオヒメ（幼少）"
 original = "（はっ……待て！？\u3000モブとして気配を消して過ごそうと決めたばかりなのに、この展開はまるで……）"
-translation = "(앗…… 잠깐!? 엑스트라로서 기척을 지우고 지내기로 방금 정했는데, 이 전개는 마치……)"
+translation = "(앗…… 잠깐!? 엑스트라로서 기척을 지우고 지내기로 방금 전 결심했거늘, 이 전개는 마치……)"
 
 [[dialogue]]
 speaker_original = "オオヒメ（幼少）"
 speaker_translation = "オオヒメ（幼少）"
 original = "（主人公とヒロイン、運命の出会いではないか！\u3000この場合、私はどう振る舞えばいいのだ？）"
-translation = "(주인공과 히로인, 운명의 만남 아닌가! 이 경우, 나는 어떻게 행동해야 하지?)"
+translation = "(주인공과 히로인, 운명의 만남이 아닌가! 이 경우, 나는 어떻게 행동해야 하는가?)"
 
 [[dialogue]]
 speaker = "unk"
@@ -377,10 +377,10 @@ translation = "갑작스러운 상황에 혼란스러워하는 오오히메. 우
 speaker_original = "オオヒメ（幼少）"
 speaker_translation = "オオヒメ（幼少）"
 original = "「クラスメイトなのだから私のことは気軽にヒメとでも呼んでくれ。まあ、私にはいささか可愛すぎる響きではあるが……」"
-translation = "「클래스메이트니까 나에 대해서는 편하게 히메라고 불러줘. 뭐, 나에게는 약간 너무 귀여운 뉘앙스이긴 하지만……」"
+translation = "「반 친구이니까 나의 일은 편하게 히메라고 불러 다오. 뭐, 나에게는 다소 너무 귀여운 뉘앙스이긴 하다만……」"
 
 [[dialogue]]
 speaker = "unk"
 original = "余所行きでない、いつもの自己紹介をしておくことにしたのだった。"
-translation = "외출용이 아닌, 평소의 자기소개를 해두기로 한 것이었다."
+translation = "격식 차리지 않은, 평소대로의 자기소개를 해 두기로 한 것이었다."
 

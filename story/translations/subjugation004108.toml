@@ -1,0 +1,245 @@
+[[dialogue]]
+speaker = "unk"
+original = "変わるものがあり、変わらないものもある。"
+translation = "변하는 것이 있고, 변하지 않는 것도 있다."
+
+[[dialogue]]
+speaker = "unk"
+original = "それは気付きにくくて、だからこそ、わかったとき嬉しくなるんだ。"
+translation = "그건 알아차리기 어려워서, 그렇기에 깨달았을 때 기뻐지는 것이다."
+
+[[dialogue]]
+speaker = "unk"
+original = "平和だなぁ"
+translation = "평화롭네"
+
+[[dialogue]]
+speaker = "unk"
+original = "偶然見つけたオアシスのような、何事もない日常だった。"
+translation = "우연히 발견한 오아시스 같은, 아무 일도 없는 일상이었다."
+
+[[dialogue]]
+speaker = "unk"
+original = "このまま何も起きなければ……なんて考えるとフラグになってしまう。そんな経験があるんだ。"
+translation = "이대로 아무 일도 일어나지 않는다면…… 같은 생각을 하면 플래그가 되어 버린다. 그런 경험이 있다."
+
+[[dialogue]]
+speaker_original = "女生徒"
+speaker_translation = "여학생"
+original = "「た、大変です緋宮会長！\u3000アリーナに来て下さい！」"
+translation = "「대, 큰일이에요 히미야 회장님! 아레나로 와 주세요!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "……はい、平和終了。"
+translation = "……네, 평화 끝."
+
+[[dialogue]]
+speaker = "unk"
+original = "デジャブを感じるけど、いつも大体こんなものだ。"
+translation = "데자뷔가 느껴지지만, 항상 대개 이런 식이다."
+
+[[dialogue]]
+speaker_original = "クーシェン"
+speaker_translation = "쿠셰엔"
+original = "「今日は本気で行くよ！\u3000アポロ！」"
+translation = "「오늘은 진심으로 갈 거야! 아폴로!」"
+
+[[dialogue]]
+speaker_original = "アポロ"
+speaker_translation = "아폴로"
+original = "「望むところだ！\u3000あたしの強さをおまえの体に刻み込んでやるぞ！」"
+translation = "「바라던 바다! 내 강함을 너의 몸에 새겨 주마!」"
+
+[[dialogue]]
+speaker_original = "クーシェン"
+speaker_translation = "쿠셰엔"
+original = "「伸びろ、如意棒！」"
+translation = "「늘어나라, 여의봉!」"
+
+[[dialogue]]
+speaker_original = "アポロ"
+speaker_translation = "아폴로"
+original = "「唸れ鉄拳！\u3000流星の力を今ここに！」"
+translation = "「울부짖어라 철권! 유성의 힘을 지금 여기에!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "大丈夫かなぁ？"
+translation = "괜찮으려나?"
+
+[[dialogue]]
+speaker = "unk"
+original = "今度は間に合ったけど"
+translation = "이번엔 늦지 않게 왔지만"
+
+[[dialogue]]
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
+original = "「……わかりません。ですが、見守りましょう。予約時間をオーバーしたらその時は……」"
+translation = "「……모르겠습니다. 하지만, 지켜보죠. 예약 시간을 초과하면 그때는……」"
+
+[[dialogue]]
+speaker_original = "マリオン"
+speaker_translation = "마리온"
+original = "「そうなったら、また私がなんとかしますよ。でも、心配はないと思いますけれどね」"
+translation = "「그렇게 되면, 또 제가 어떻게든 할게요. 하지만, 걱정할 필요는 없다고 생각하지만요」"
+
+[[dialogue]]
+speaker = "unk"
+original = "俺たちの他にも大勢の星騎士たちが、クーシェンとアポロの模擬戦闘を息を殺して見守る。"
+translation = "우리들 외에도 많은 성기사들이 쿠셴과 아폴로의 모의 전투를 숨을 죽이고 지켜본다."
+
+[[dialogue]]
+speaker = "unk"
+original = "攻防は一進一退。お互いの戦闘スタイルを熟知しているからこそ、均衡はそう簡単には崩れない。"
+translation = "공방은 일진일퇴. 서로의 전투 스타일을 숙지하고 있기에 균형은 그리 쉽게 깨지지 않는다."
+
+[[dialogue]]
+speaker_original = "アポロ"
+speaker_translation = "아폴로"
+original = "「よーし！\u3000次はでかいのお見舞いするからな！」"
+translation = "「좋았어! 다음은 큰 거 한 방 날려 줄 테니까!」"
+
+[[dialogue]]
+speaker_original = "クーシェン"
+speaker_translation = "쿠셰엔"
+original = "「ウキキ♪\u3000やっぱアポロと戦うのはめちゃくちゃ楽しいな～！」"
+translation = "「우키키♪ 역시 아폴로랑 싸우는 건 엄청나게 재미있네~!」"
+
+[[dialogue]]
+speaker_original = "アポロ"
+speaker_translation = "아폴로"
+original = "「そうか、実はあたしも同じだ！」"
+translation = "「그래, 실은 나도 마찬가지야!」"
+
+[[dialogue]]
+speaker_original = "クーシェン"
+speaker_translation = "쿠셰엔"
+original = "「自分と同じくらい強いやつじゃないと、戦ってもつまんないしな！\u3000強くてありがとな、アポロ！」"
+translation = "「나만큼 강한 녀석이 아니면 싸워도 재미없고 말이지! 강해 줘서 고마워, 아폴로!」"
+
+[[dialogue]]
+speaker_original = "アポロ"
+speaker_translation = "아폴로"
+original = "「こっちこそ！\u3000全力を出せる相手がいてくれてうれしいぞ！」"
+translation = "「나야말로! 전력을 다할 수 있는 상대가 있어 줘서 기뻐!」"
+
+[[dialogue]]
+speaker_original = "クーシェン"
+speaker_translation = "쿠셰엔"
+original = "「戦うのって楽しいな！」"
+translation = "「싸우는 건 정말 재미있네!」"
+
+[[dialogue]]
+speaker_original = "アポロ"
+speaker_translation = "아폴로"
+original = "「ああ！」"
+translation = "「응!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "両者とも、とっておきの技をお見舞いするつもりのようだ。"
+translation = "양쪽 모두 비장의 기술을 날릴 생각인 것 같다."
+
+[[dialogue]]
+speaker = "unk"
+original = "機を窺いながら、その瞬間に全神経を集中する。"
+translation = "기회를 노리며, 그 순간에 모든 신경을 집중한다."
+
+[[dialogue]]
+speaker_original = "クーシェン"
+speaker_translation = "쿠셰엔"
+original = "「――今だ！！」"
+translation = "「――지금이다!!」"
+
+[[dialogue]]
+speaker_original = "マリオン"
+speaker_translation = "마리온"
+original = "「時間です！」"
+translation = "「시간입니다!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "終了を告げる合図が鳴った。"
+translation = "종료를 알리는 신호가 울렸다."
+
+[[dialogue]]
+speaker = "unk"
+original = "クーシェンとアポロの拳は……激突することなく、静止している。"
+translation = "쿠셴과 아폴로의 주먹은…… 격돌하지 않고 정지해 있다."
+
+[[dialogue]]
+speaker_original = "クーシェン"
+speaker_translation = "쿠셰엔"
+original = "「ちぇ～、また時間切れか～」"
+translation = "「체~, 또 시간 초과인가~」"
+
+[[dialogue]]
+speaker_original = "アポロ"
+speaker_translation = "아폴로"
+original = "「残念だけど引き分けだ」"
+translation = "「아쉽지만 비겼네」"
+
+[[dialogue]]
+speaker_original = "クーシェン"
+speaker_translation = "쿠셰엔"
+original = "「次こそ絶対勝つ！」"
+translation = "「다음번에야말로 꼭 이길 거야!」"
+
+[[dialogue]]
+speaker_original = "アポロ"
+speaker_translation = "아폴로"
+original = "「それはこっちのセリフだ！」"
+translation = "「그건 내가 할 소리야!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "戦闘を中止したものの、２人はまだ一触即発。"
+translation = "전투를 중지하긴 했지만, 두 사람은 아직 일촉즉발."
+
+[[dialogue]]
+speaker = "unk"
+original = "きっかけがあれば、すぐにでも戦い始めそうな勢いだ。"
+translation = "계기만 있다면 당장이라도 다시 싸우기 시작할 기세다."
+
+[[dialogue]]
+speaker_original = "クーシェン"
+speaker_translation = "쿠셰엔"
+original = "「あっ、にーにーだ！」"
+translation = "「앗, 오빠다!」"
+
+[[dialogue]]
+speaker_original = "アポロ"
+speaker_translation = "아폴로"
+original = "「フィオナとマリオンも……心配で見てたのか？」"
+translation = "「피오나랑 마리온도…… 걱정돼서 보고 있었어?」"
+
+[[dialogue]]
+speaker_original = "クーシェン"
+speaker_translation = "쿠셰엔"
+original = "「でも、ボク達はもう大丈夫だよ。メイドの心を教わったからさ」"
+translation = "「하지만 우린 이제 괜찮아. 메이드의 마음을 배웠으니까」"
+
+[[dialogue]]
+speaker_original = "アポロ"
+speaker_translation = "아폴로"
+original = "「ルールは守る！\u3000ヒーローもメイドも、そこは同じだぜ！」"
+translation = "「규칙은 지킨다! 히어로도 메이드도 그건 마찬가지라고!」"
+
+[[dialogue]]
+speaker_original = "クーシェン"
+speaker_translation = "쿠셰엔"
+original = "「それともう１つ。ボク達は女の子だから、常にエレガントを忘れずに……ってね♪」"
+translation = "「그리고 또 하나. 우린 여자아이니까 항상 엘레강스를 잊지 말고……라는 거지♪」"
+
+[[dialogue]]
+speaker = "unk"
+original = "清々しい笑顔を浮かべながら、固い握手を交わす。"
+translation = "상쾌한 미소를 지으며 굳은 악수를 나눈다."
+
+[[dialogue]]
+speaker = "unk"
+original = "その姿は、２人がメイド修行を経て、ひと回りもふた回りも成長したことを感じさせるものだった。"
+translation = "그 모습은 두 사람이 메이드 수행을 거쳐 한층 더 성장했음을 느껴지게 하는 것이었다."
+

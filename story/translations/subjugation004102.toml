@@ -1,0 +1,414 @@
+[[dialogue]]
+speaker = "unk"
+original = "クーシェンとアポロのメイド修行が始まった。"
+translation = "쿠셴과 아폴로의 메이드 수행이 시작되었다."
+
+[[dialogue]]
+speaker_original = "マリオン"
+speaker_translation = "마리온"
+original = "「さあ２人とも、ビシバシ行きますからね！」"
+translation = "「자 두 분 다, 엄하게 나갈 테니까요!」"
+
+[[dialogue]]
+speaker_original = "アポロ"
+speaker_translation = "아폴로"
+original = "「よろしくお願いします！」"
+translation = "「잘 부탁드립니다!」"
+
+[[dialogue]]
+speaker_original = "クーシェン"
+speaker_translation = "쿠셰엔"
+original = "「…………えー？」"
+translation = "「…………에―?」"
+
+[[dialogue]]
+speaker_original = "マリオン"
+speaker_translation = "마리온"
+original = "「アポロ様はよいお返事ですね。ですがクーシェン様、あなたは……」"
+translation = "「아폴로 님은 대답이 좋네요. 그렇지만 쿠셴 님, 당신은……」"
+
+[[dialogue]]
+speaker_original = "アポロ"
+speaker_translation = "아폴로"
+original = "「返事は大事だぞ。メイドじゃなくてもぜったい必要なんだ」"
+translation = "「대답은 중요하다고. 메이드가 아니더라도 절대 필요한 거야」"
+
+[[dialogue]]
+speaker_original = "クーシェン"
+speaker_translation = "쿠셰엔"
+original = "「わ、わかってるって。よろしくお願いしまーすっ」"
+translation = "「아, 알고 있다니까. 잘 부탁함다―」"
+
+[[dialogue]]
+speaker_original = "マリオン"
+speaker_translation = "마리온"
+original = "「いいでしょう。ではさっそく修行を始めます」"
+translation = "「좋습니다. 그럼 바로 수행을 시작하죠」"
+
+[[dialogue]]
+speaker_original = "アポロ"
+speaker_translation = "아폴로"
+original = "「いよいよだな！\u3000楽しみだぞ～！」"
+translation = "「드디어구나! 기대된다고~!」"
+
+[[dialogue]]
+speaker_original = "クーシェン"
+speaker_translation = "쿠셰엔"
+original = "「さっそくでごめん、１つ質問なんだけどさ……」"
+translation = "「바로 말해서 미안한데, 하나 질문이 있거든……」"
+
+[[dialogue]]
+speaker_original = "クーシェン"
+speaker_translation = "쿠셰엔"
+original = "「どうしてお嬢様がここにいるの？」"
+translation = "「어째서 아가씨가 여기에 있는 거야?」"
+
+[[dialogue]]
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
+original = "「いてはまずかったかしら？」"
+translation = "「있으면 안 되는 거였니?」"
+
+[[dialogue]]
+speaker_original = "キリカ"
+speaker_translation = "키리카"
+original = "「アポロ様を見守りたいお気持ちはわかりますが、２人の修行の邪魔になりますから」"
+translation = "「아폴로 님을 지켜보고 싶은 마음은 알겠습니다만, 두 사람의 수행에 방해가 되니까요」"
+
+[[dialogue]]
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
+original = "「決して邪魔はしないわ。黙って見ているだけだから……」"
+translation = "「결코 방해는 안 할게. 조용히 보고 있을 뿐일 테니까……」"
+
+[[dialogue]]
+speaker_original = "キリカ"
+speaker_translation = "키리카"
+original = "「フィオナお嬢様」"
+translation = "「피오나 아가씨」"
+
+[[dialogue]]
+speaker_original = "マリオン"
+speaker_translation = "마리온"
+original = "「すみません、見習いメイドもやりづらくなっちゃいますので」"
+translation = "「죄송해요, 견습 메이드도 하기 불편해지니까요」"
+
+[[dialogue]]
+speaker_original = "フィオナ"
+speaker_translation = "피오나"
+original = "「ううっ、わかったわ。今日のところは引き下がります」"
+translation = "「우우, 알았어. 오늘은 이만 물러갈게」"
+
+[[dialogue]]
+speaker_original = "キリカ"
+speaker_translation = "키리카"
+original = "「マリオンさん、後はよろしく頼みます」"
+translation = "「마리온 씨, 뒤는 잘 부탁합니다」"
+
+[[dialogue]]
+speaker = "unk"
+original = "明日も来るのかな？"
+translation = "내일도 오려나?"
+
+[[dialogue]]
+speaker = "unk"
+original = "今日のところはって言ってたけど"
+translation = "오늘은 이만이라고 말했지만"
+
+[[dialogue]]
+speaker_original = "マリオン"
+speaker_translation = "마리온"
+original = "「大丈夫ですよ、キリカさんがしっかり釘を刺してくれると思いますから♪」"
+translation = "「괜찮아요, 키리카 씨가 확실히 따끔하게 말해 줄 테니까요♪」"
+
+[[dialogue]]
+speaker_original = "クーシェン"
+speaker_translation = "쿠셰엔"
+original = "「にしてもあのお嬢様、ほんとにアポロのこと大好きなんだな～」"
+translation = "「그나저나 저 아가씨, 진짜로 아폴로를 엄청 좋아하는구나~」"
+
+[[dialogue]]
+speaker_original = "アポロ"
+speaker_translation = "아폴로"
+original = "「本人はそういうの出さないように気をつけてるみたいだけどな」"
+translation = "「본인은 그런 거 티 내지 않도록 조심하는 것 같지만 말이야」"
+
+[[dialogue]]
+speaker_original = "マリオン"
+speaker_translation = "마리온"
+original = "「残念ながら、ダダ漏れなんですよね～」"
+translation = "「안타깝게도, 전부 새어나오고 있지만요~」"
+
+[[dialogue]]
+speaker_original = "クーシェン"
+speaker_translation = "쿠셰엔"
+original = "「ふーん。それで、お嬢様の方は解決したけどさー……にーにーはなんでここにいるの？\u3000おかしくない？」"
+translation = "「흐음. 그래서, 아가씨 쪽은 해결됐는데 말이야─…… 오빠는 왜 여기에 있어? 이상하지 않아?」"
+
+[[dialogue]]
+speaker_original = "アポロ"
+speaker_translation = "아폴로"
+original = "「もしかして、魔王も一緒にメイド修行するのか！？」"
+translation = "「혹시, 마왕도 같이 메이드 수행을 하는 건가!?」"
+
+[[dialogue]]
+speaker_original = "マリオン"
+speaker_translation = "마리온"
+original = "「あら、それもありですね♪」"
+translation = "「어머, 그것도 괜찮네요♪」"
+
+[[dialogue]]
+speaker_original = "マリオン"
+speaker_translation = "마리온"
+original = "「ふふふ、会長様ならきっと可憐なメイドになるはず……いえいえ、これは忘れて下さい♪」"
+translation = "「후후후, 회장님이라면 분명 가련한 메이드가 될 텐데…… 아니아니, 이건 잊어 주세요♪」"
+
+[[dialogue]]
+speaker_original = "マリオン"
+speaker_translation = "마리온"
+original = "「今回、会長様にはフィオナお嬢様の代理をお願いしています。ご主人様役が必要になった際に、参加して頂きますね」"
+translation = "「이번에, 회장님께는 피오나 아가씨의 대리를 부탁드리고 있습니다. 주인님 역할이 필요해졌을 때, 참가해 주시는 거죠」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ご主人様として協力させてもらうよ"
+translation = "주인님으로서 협력해 줄게"
+
+[[dialogue]]
+speaker = "unk"
+original = "メイド修行はしないけど"
+translation = "메이드 수행은 안 하지만"
+
+[[dialogue]]
+speaker_original = "クーシェン"
+speaker_translation = "쿠셰엔"
+original = "「にーにーがご主人様やるんだ！\u3000それは面白くなりそうだね～！」"
+translation = "「오빠가 주인님을 하는구나! 그건 재밌어지겠네~!」"
+
+[[dialogue]]
+speaker_original = "アポロ"
+speaker_translation = "아폴로"
+original = "「よろしくな、魔王！」"
+translation = "「잘 부탁한다, 마왕!」"
+
+[[dialogue]]
+speaker_original = "フェニエル"
+speaker_translation = "페니엘"
+original = "「星見家メイド隊のフェニエルです」"
+translation = "「호시미 가문 메이드대의 페니엘입니다」"
+
+[[dialogue]]
+speaker_original = "ナミエル"
+speaker_translation = "나미엘"
+original = "「同じく、ナミエルです」"
+translation = "「마찬가지로, 나미엘입니다」"
+
+[[dialogue]]
+speaker_original = "マリオン"
+speaker_translation = "마리온"
+original = "「まずはこの２人に新人メイドの仕事を指導してもらいますね」"
+translation = "「우선 이 두 사람에게 신입 메이드의 일을 지도받도록 하죠」"
+
+[[dialogue]]
+speaker_original = "アポロ"
+speaker_translation = "아폴로"
+original = "「よろしくお願いします！」"
+translation = "「잘 부탁드립니다!」"
+
+[[dialogue]]
+speaker_original = "クーシェン"
+speaker_translation = "쿠셰엔"
+original = "「ウキキ♪\u3000よろしく～」"
+translation = "「우키키♪ 잘 부탁해~」"
+
+[[dialogue]]
+speaker_original = "ナミエル"
+speaker_translation = "나미엘"
+original = "「……調子が軽いですね。もしかして私たち舐められていませんか？」"
+translation = "「……태도가 가볍네요. 혹시 저희를 우습게 보는 건가요?」"
+
+[[dialogue]]
+speaker_original = "フェニエル"
+speaker_translation = "페니엘"
+original = "「わ、私たちはマリオンさんと比べたらぺーぺーですから」"
+translation = "「저, 저희는 마리온 씨에 비하면 신참이니까요」"
+
+[[dialogue]]
+speaker_original = "ナミエル"
+speaker_translation = "나미엘"
+original = "「それはそうですが……いえ、ここは先輩としてビシッと指導させてもらいましょう」"
+translation = "「그건 그렇습니다만…… 아니요, 여기선 선배로서 확실하게 지도하도록 하죠」"
+
+[[dialogue]]
+speaker = "unk"
+original = "なんでも手伝うよ"
+translation = "뭐든 도와줄게"
+
+[[dialogue]]
+speaker = "unk"
+original = "俺はなにをすればいい？"
+translation = "나는 뭘 하면 돼?"
+
+[[dialogue]]
+speaker_original = "マリオン"
+speaker_translation = "마리온"
+original = "「あ、ご主人様は今不要ですので……そうですね、数々のアルバイトを渡り歩いてきたという会長様の美技を見せて頂きましょうか」"
+translation = "「아, 주인님은 지금 필요 없으시니…… 그렇네요, 수많은 알바를 거쳐 오셨다는 회장님의 훌륭한 기술을 보여 주실까요」"
+
+[[dialogue]]
+speaker_original = "アポロ"
+speaker_translation = "아폴로"
+original = "「魔王が何を見せてくれるんだ？」"
+translation = "「마왕이 뭘 보여 주는 건데?」"
+
+[[dialogue]]
+speaker_original = "ナミエル"
+speaker_translation = "나미엘"
+original = "「新人メイドの仕事と言えばこれ、シルバー磨きです」"
+translation = "「신입 메이드의 일이라고 하면 이것, 은식기 닦기입니다」"
+
+[[dialogue]]
+speaker_original = "クーシェン"
+speaker_translation = "쿠셰엔"
+original = "「なんだそれ？\u3000面白いのか？」"
+translation = "「뭐야 그게? 재미있는 거야?」"
+
+[[dialogue]]
+speaker_original = "フェニエル"
+speaker_translation = "페니엘"
+original = "「面白くは……ないかもです。ナイフやフォークなどの食器を磨く地味～なお仕事ですから」"
+translation = "「재미있지는…… 않을지도 몰라요. 나이프나 포크 같은 식기를 닦는 수수한~ 일이니까요」"
+
+[[dialogue]]
+speaker_original = "クーシェン"
+speaker_translation = "쿠셰엔"
+original = "「へー。そんなの機械に任せちゃえばいいんじゃないの？」"
+translation = "「헤─. 그런 건 기계한테 맡겨 버리면 되는 거 아니야?」"
+
+[[dialogue]]
+speaker_original = "フェニエル"
+speaker_translation = "페니엘"
+original = "「人の手で丁寧に磨くことで、より美しい食器になるんですよ」"
+translation = "「사람의 손으로 정성스럽게 닦음으로써, 더욱 아름다운 식기가 되는 거랍니다」"
+
+[[dialogue]]
+speaker = "unk"
+original = "違いを見せてあげる"
+translation = "차이를 보여 줄게"
+
+[[dialogue]]
+speaker = "unk"
+original = "ちょっと見てて"
+translation = "잠깐 보고 있어 봐"
+
+[[dialogue]]
+speaker_original = "ナミエル"
+speaker_translation = "나미엘"
+original = "「なっ！\u3000とても手慣れた動きですね」"
+translation = "「앗! 엄청 손에 익은 움직임이네요」"
+
+[[dialogue]]
+speaker_original = "フェニエル"
+speaker_translation = "페니엘"
+original = "「さすが会長さんだぁ、なまらすんごいべ……」"
+translation = "「역시 회장님이네, 엄청 굉장해……」"
+
+[[dialogue]]
+speaker_original = "クーシェン"
+speaker_translation = "쿠셰엔"
+original = "「すごぉ……にーにーってば、そういうのもできたんだね……」"
+translation = "「대단해…… 오빠는, 그런 것도 할 수 있구나……」"
+
+[[dialogue]]
+speaker_original = "アポロ"
+speaker_translation = "아폴로"
+original = "「よーし、あたしもやるぞ～！\u3000魔王みたいにやればいいんだよなっ」"
+translation = "「좋아―, 나도 할 거라고~! 마왕처럼 하면 되는 거지」"
+
+[[dialogue]]
+speaker_original = "アポロ"
+speaker_translation = "아폴로"
+original = "「うおおおおおおお～～～～っ！！\u3000超高速みがき～～～っ！！」"
+translation = "「우오오오오오오~~~~!! 초고속 닦기~~~~!!」"
+
+[[dialogue]]
+speaker_original = "フェニエル"
+speaker_translation = "페니엘"
+original = "「あ、あの、そんなに強くこすらなくても大丈夫ですから」"
+translation = "「저, 저기, 그렇게 세게 문지르지 않아도 괜찮으니까요」"
+
+[[dialogue]]
+speaker_original = "アポロ"
+speaker_translation = "아폴로"
+original = "「え？\u3000そうなのか？」"
+translation = "「에? 그런 건가?」"
+
+[[dialogue]]
+speaker_original = "マリオン"
+speaker_translation = "마리온"
+original = "「ふふっ、会長様を見て下さい。スピードはありますが、それ以上に丁寧で繊細ですから」"
+translation = "「후후, 회장님을 보세요. 스피드는 있지만, 그 이상으로 정성스럽고 섬세하니까요」"
+
+[[dialogue]]
+speaker = "unk"
+original = "速度を出すのは慣れてからだよ"
+translation = "속도를 내는 건 익숙해지고 나서야"
+
+[[dialogue]]
+speaker = "unk"
+original = "最初は丁寧にね"
+translation = "처음에는 정성스럽게 해"
+
+[[dialogue]]
+speaker_original = "アポロ"
+speaker_translation = "아폴로"
+original = "「なるほどな……ほら、クーシェンもやってみようぜ！」"
+translation = "「과연…… 이봐, 쿠셴도 해 보자고!」"
+
+[[dialogue]]
+speaker_original = "クーシェン"
+speaker_translation = "쿠셰엔"
+original = "「別にいいけどさ……ふきふきふき……」"
+translation = "「딱히 상관은 없지만…… 쓱싹 쓱싹 쓱싹……」"
+
+[[dialogue]]
+speaker_original = "アポロ"
+speaker_translation = "아폴로"
+original = "「おおー、あたしよりなんかエレガントな感じがする！」"
+translation = "「오―, 나보다 왠지 엘레강스한 느낌이 들어!」"
+
+[[dialogue]]
+speaker_original = "クーシェン"
+speaker_translation = "쿠셰엔"
+original = "「そんなことないって。こんなの皿洗うのと一緒だよ」"
+translation = "「그렇지도 않아. 이런 건 접시 닦는 거랑 똑같다고」"
+
+[[dialogue]]
+speaker_original = "アポロ"
+speaker_translation = "아폴로"
+original = "「あたしはお皿なんて洗ったことなくて……お手伝いをもっとしないとダメだよな」"
+translation = "「나는 접시 같은 거 닦아 본 적이 없어서…… 집안일을 더 돕지 않으면 안 되겠네」"
+
+[[dialogue]]
+speaker_original = "クーシェン"
+speaker_translation = "쿠셰엔"
+original = "「今それをやるんじゃないの？」"
+translation = "「지금 그걸 하고 있는 거 아니야?」"
+
+[[dialogue]]
+speaker_original = "アポロ"
+speaker_translation = "아폴로"
+original = "「それもそーだなっ！\u3000あたしもフィオナがビックリするくらいすごいメイドになるぞ～！！」"
+translation = "「그것도 그렇네! 나도 피오나가 깜짝 놀랄 정도로 대단한 메이드가 될 거라고~!!」"
+
+[[dialogue]]
+speaker_original = "クーシェン"
+speaker_translation = "쿠셰엔"
+original = "「……こんなのつまんないな～、ボクは強くなる修行がしたいのにさぁ」"
+translation = "「……이런 건 재미없는데~, 나는 강해지는 수행을 하고 싶은 건데 말이야」"
+
+[[dialogue]]
+speaker = "unk"
+original = "２人の見習いメイドには温度差があったが、それでも修行は平等に行われていくのだった。"
+translation = "두 견습 메이드에게는 온도 차이가 있었지만, 그럼에도 수행은 평등하게 이루어져 가는 것이었다."
+

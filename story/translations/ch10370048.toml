@@ -7,7 +7,7 @@ translation = "「회장짱, 드세요~♪」"
 [[dialogue]]
 speaker = "unk"
 original = "夜のカフェテリアで、サランが試作した新作プリンを食べる。"
-translation = "밤의 카페테리아에서 사란이 시작한 신작 푸딩을 먹는다."
+translation = "밤의 카페테리아에서, 사란이 시작한 신작 푸딩을 먹는다."
 
 [[dialogue]]
 speaker_original = "クロト"
@@ -18,28 +18,28 @@ translation = "「맛있어……!!」"
 [[dialogue]]
 speaker = "unk"
 original = "ただのプリンではなく、たっぷり入れたスパイスと、砂糖やミルクの甘さが調和した独特の味わいだ。"
-translation = "단순한 푸딩이 아니라 듬뿍 넣은 향신료와 설탕이나 밀크의 달콤함이 조화를 이룬 독특한 맛이다."
+translation = "단순한 푸딩이 아니라, 듬뿍 넣은 향신료와, 설탕이나 밀크의 달콤함이 조화를 이룬 독특한 맛이다."
 
 [[dialogue]]
 speaker = "unk"
 original = "人を選びそうな味なのに、食べれば食べるほど、もっと欲しくなる。スプーンが止まらない。"
-translation = "취향을 탈 만한 맛인데도 먹으면 먹을수록 더 원하게 된다. 스푼이 멈추지 않는다."
+translation = "취향을 탈 것 같은 맛인데도, 먹으면 먹을수록, 더 원하게 된다. 스푼이 멈추지 않는다."
 
 [[dialogue]]
 speaker = "unk"
 original = "暴食の魔将となったサランが到達した、悪魔的な一品だ。"
-translation = "폭식의 마장이 된 사란이 도달한 악마적인 일품이다."
+translation = "폭식의 마장이 된 사란이 도달한, 악마적인 일품이다."
 
 [[dialogue]]
 speaker_original = "サラン"
 speaker_translation = "사란"
 original = "「ならよかった～。サランもいただきま～す♪」"
-translation = "「그러면 다행이다~. 사란도 잘 먹겠습니다~♪」"
+translation = "「그렇다면 다행이야~. 사란도 잘 먹겠습니다~♪」"
 
 [[dialogue]]
 speaker = "unk"
 original = "サランが自分で作ったプリンをスプーンですくい、口に運ぶ。"
-translation = "사란이 직접 만든 푸딩을 스푼으로 떠서 입으로 운반한다."
+translation = "사란이 직접 만든 푸딩을 스푼으로 떠서, 입으로 가져간다."
 
 [[dialogue]]
 speaker_original = "サラン"
@@ -50,67 +50,67 @@ translation = "「응, 맛있어~<emoji=heart04>」"
 [[dialogue]]
 speaker = "unk"
 original = "唇をペロリと舐め、蠱惑的な笑みを浮かべるサラン。"
-translation = "입술을 낼름 핥고 현혹적인 미소를 짓는 사란."
+translation = "입술을 핥짝 핥고, 현혹적인 미소를 짓는 사란."
 
 [[dialogue]]
 speaker = "unk"
 original = "今まで見せたことのなかった表情にドキリとしてしまう。"
-translation = "지금까지 보여준 적 없던 표정에 두근거리고 만다."
+translation = "지금까지 보여준 적 없었던 표정에 가슴이 두근거리고 만다."
 
 [[dialogue]]
 speaker_original = "サラン"
 speaker_translation = "사란"
 original = "「はぁ～……<emoji=heart04>\u3000体、熱くなってきたかも～<emoji=heart04>」"
-translation = "「하아~……<emoji=heart04> 몸, 뜨거워진 것 같을지도~<emoji=heart04>」"
+translation = "「하아~……<emoji=heart04> 몸, 뜨거워졌을지도~<emoji=heart04>」"
 
 [[dialogue]]
 speaker = "unk"
 original = "美食酔いのせいか、サランの顔がほんのり上気する。"
-translation = "미식에 취해서인지 사란의 얼굴이 살짝 상기된다."
+translation = "미식 취기 때문인지, 사란의 얼굴이 살짝 달아오른다."
 
 [[dialogue]]
 speaker = "unk"
 original = "露出の大きな魔将フォームと相まって、情欲をかき立てられる。"
-translation = "노출이 큰 마장 폼과 어우러져 정욕을 자극한다."
+translation = "노출이 큰 마장 폼과 어우러져, 정욕을 자극한다."
 
 [[dialogue]]
 speaker_original = "サラン"
 speaker_translation = "사란"
 original = "「美味しいもの、もっともっと食べたいなぁ～<emoji=heart04>」"
-translation = "「맛있는 거 더 많이 먹고 싶네~<emoji=heart04>」"
+translation = "「맛있는 거, 더욱더 먹고 싶네~<emoji=heart04>」"
 
 [[dialogue]]
 speaker_original = "クロト"
 speaker_translation = "쿠로토"
 original = "「え……？」"
-translation = "「어……?」"
+translation = "「에……?」"
 
 [[dialogue]]
 speaker = "unk"
 original = "サランは机の下に潜り込むと、俺のズボンに手をかけて──"
-translation = "사란은 책상 밑으로 기어들어가 내 바지에 손을 대고──"
+translation = "사란은 책상 밑으로 기어들어가더니, 내 바지에 손을 대고──"
 
 [[dialogue]]
 speaker_original = "サラン"
 speaker_translation = "사란"
 original = "「ぺろっ<emoji=heart04>」"
-translation = "「할짝<emoji=heart04>」"
+translation = "「핥짝<emoji=heart04>」"
 
 [[dialogue]]
 speaker_original = "クロト"
 speaker_translation = "쿠로토"
 original = "「くぁっ……！？」"
-translation = "「크앗……!?」"
+translation = "「쿠앗……!?」"
 
 [[dialogue]]
 speaker = "unk"
 original = "サランがいたずらっぽい表情を浮かべ、亀頭を舐めた。"
-translation = "사란이 장난스러운 표정을 지으며 귀두를 핥았다."
+translation = "사란이 장난스러운 표정을 지으며, 귀두를 핥았다."
 
 [[dialogue]]
 speaker = "unk"
 original = "しかも逃がさないと言わんばかりに、ペニスを大きなおっぱいで挟んでいる。"
-translation = "게다가 놓치지 않겠다는 듯이 자지를 커다란 가슴으로 감싸고 있다."
+translation = "게다가 놓치지 않겠다는 듯이, 페니스를 커다란 가슴으로 끼우고 있다."
 
 [[dialogue]]
 speaker_original = "サラン"
@@ -121,34 +121,34 @@ translation = "「에헤헤~♪ 회장짱의 자지, 엄청 쌩쌩해~♪」"
 [[dialogue]]
 speaker = "unk"
 original = "怒張した下半身で、サランのおっぱいの柔らかさを直に味わう。"
-translation = "발기한 하반신으로 사란의 가슴의 부드러움을 직접 느낀다."
+translation = "발기한 하반신으로, 사란의 가슴의 부드러움을 직접 맛본다."
 
 [[dialogue]]
 speaker = "unk"
 original = "おっぱいはむっちりしているのにふわふわで、極上のお菓子のようだ。"
-translation = "가슴은 빵빵하면서도 폭신폭신해서 최상급 과자 같다."
+translation = "가슴은 푹신하면서도 말랑말랑해서, 극상의 과자 같다."
 
 [[dialogue]]
 speaker_original = "サラン"
 speaker_translation = "사란"
 original = "「ぺろ、れる……んれろ<emoji=heart04>\u3000ちろちろ<emoji=heart04>\u3000あはぁ……会長ちゃんのおち○ぽ、おいし～<emoji=heart04>」"
-translation = "「할짝, 낼름…… 낼름<emoji=heart04> 핥짝핥짝<emoji=heart04> 아하아…… 회장짱의 자지, 맛있어~<emoji=heart04>」"
+translation = "「핥짝, 낼름…… 으낼름<emoji=heart04> 핥짝핥짝<emoji=heart04> 아하아…… 회장짱의 자지, 맛있어~<emoji=heart04>」"
 
 [[dialogue]]
 speaker = "unk"
 original = "亀頭を舐め、うっとりとした声を漏らすサラン。"
-translation = "귀두를 핥으며 황홀한 목소리를 내는 사란."
+translation = "귀두를 핥으며, 황홀한 목소리를 누출하는 사란."
 
 [[dialogue]]
 speaker = "unk"
 original = "甘い声と快感で、ペニスがさらにいきり立つ。"
-translation = "달콤한 목소리와 쾌감으로 자지가 더욱 우뚝 선다."
+translation = "달콤한 목소리와 쾌감으로, 페니스가 더욱 솟구친다."
 
 [[dialogue]]
 speaker_original = "サラン"
 speaker_translation = "사란"
 original = "「へろ……れろ……ちゅっ<emoji=heart04>\u3000カリのところも……ぺろ<emoji=heart04>」"
-translation = "「할짝…… 낼름…… 쪽<emoji=heart04> 귀두 테두리 부분도…… 할짝<emoji=heart04>」"
+translation = "「핥짝…… 낼름…… 츄윽<emoji=heart04> 귀두 테두리 부분도…… 핥짝<emoji=heart04>」"
 
 [[dialogue]]
 speaker_original = "クロト"
@@ -516,7 +516,7 @@ translation = "「니까 더, 쮸릅<emoji=heart04> 내줘 내줘～<emoji=heart
 [[dialogue]]
 speaker = "unk"
 original = "暴食に目覚めたサランは俺を味わうことに夢中で、乱暴に責めてくる。"
-translation = ""
+translation = "폭식에 눈뜬 사랑은 나를 맛보는 데 열중해서, 거칠게 압박해온다."
 
 [[dialogue]]
 speaker = "unk"

@@ -1,7 +1,7 @@
 [[dialogue]]
 speaker = "unk"
 original = "深淵書庫の力で魔界に降り立ったサランたち。"
-translation = "심연서고의 힘으로 마계에 내려선 사란 일행."
+translation = "심연서고의 힘으로 마계에 내려선 사란들."
 
 [[dialogue]]
 speaker = "unk"
@@ -12,19 +12,19 @@ translation = "그 앞에, 몬스터 무리가 가로막아 선다."
 speaker_original = "モンスター"
 speaker_translation = "몬스터"
 original = "「グガアァァァーーーーッ！！！」"
-translation = "「크가아아아ーーーー앗!!!」"
+translation = "「그가아아아────읏!!!」"
 
 [[dialogue]]
 speaker_original = "モンスター"
 speaker_translation = "몬스터"
 original = "「ギヤオオオッ！！」"
-translation = "「캬오오오읏!!」"
+translation = "「기야오오읏!!」"
 
 [[dialogue]]
 speaker_original = "カティア"
 speaker_translation = "카티아"
 original = "「うわぁ～～っ！！\u3000モンスター思ったよりいっぱいいるーっ！？」"
-translation = "「우와아~~읏!! 몬스터가 생각보다 엄청나게 많아ー읏!?」"
+translation = "「우와아～～읏!! 몬스터 생각보다 엄청 많아ー읏!?」"
 
 [[dialogue]]
 speaker_original = "イクシリオン"
@@ -36,37 +36,37 @@ translation = "「카티아 씨!? 어째서 여기에!?」"
 speaker_original = "カティア"
 speaker_translation = "카티아"
 original = "「それは、そのぉ……」"
-translation = "「그건, 그게……」"
+translation = "「그건, 그게에……」"
 
 [[dialogue]]
 speaker_original = "シャルレーヌ"
 speaker_translation = "샤를렌"
 original = "「どうせ図書館からコソコソついてきてたんでしょ。犬じゃなくてネズミみたいですね」"
-translation = "「어차피 도서관에서 몰래 따라온 거잖아. 개가 아니라 쥐 같네요」"
+translation = "「어차피 도서관에서 살금살금 따라온 거겠죠. 개가 아니라 쥐 같네요」"
 
 [[dialogue]]
 speaker_original = "シャルレーヌ"
 speaker_translation = "샤를렌"
 original = "「プリマステラでもないのに、本当になんでついてきたんですか？\u3000足手まといって言葉知ってます？」"
-translation = "「프리마스테라도 아니면서, 진짜 왜 따라온 거예요? 짐덩어리라는 단어 알아요?」"
+translation = "「프리마스테라도 아닌데, 정말로 왜 따라온 건가요? 짐덩어리라는 단어 알고 계세요?」"
 
 [[dialogue]]
 speaker_original = "イクシリオン"
 speaker_translation = "익실리온"
 original = "「シャルレーヌさん、そんな言い方はよくありませんよ」"
-translation = "「샬레느 씨, 그런 말은 좋지 않아요」"
+translation = "「샬레느 씨, 그런 말투는 좋지 않아요」"
 
 [[dialogue]]
 speaker_original = "シャルレーヌ"
 speaker_translation = "샤를렌"
 original = "「いいえ、イクシリオン先輩は甘いです。命懸けの戦場で、弱い味方を庇う余裕なんてありません。サラン先輩からも言ってやってください。…………サラン先輩？」"
-translation = "「아니요, 익실리온 선배는 무릅니다. 목숨을 건 전장에서, 약한 아군을 감싸줄 여유 같은 건 없어요. 사란 선배도 한마디 해주세요. …………사란 선배?」"
+translation = "「아니요, 익실리온 선배는 무릅니다. 목숨을 건 전장에서, 약한 아군을 감쌀 여유 따위는 없습니다. 사란 선배께서도 한마디 해주세요. …………사란 선배?」"
 
 [[dialogue]]
 speaker_original = "サラン"
 speaker_translation = "사란"
 original = "「ぽよ～？\u3000モンスターたち、どこへ向かってるのかな～？\u3000みんな、一直線に走ってるみたい～」"
-translation = "「포요~? 몬스터들, 어디로 향하는 걸까나~? 다들, 일직선으로 달리고 있는 것 같아~」"
+translation = "「뽀요～? 몬스터들, 어디로 향하고 있는 걸까나～? 다들, 일직선으로 달리고 있는 것 같아～」"
 
 [[dialogue]]
 speaker_original = "シャルレーヌ"
@@ -84,25 +84,25 @@ translation = "「아앗! 몬스터들, 아마 마을로 향하고 있어……�
 speaker_original = "イクシリオン"
 speaker_translation = "익실리온"
 original = "「そんな！\u3000早く止めないと大惨事になります！」"
-translation = "「그럴 수가! 얼른 막지 않으면 대참사가 돼요!」"
+translation = "「말도 안 돼! 어서 막지 않으면 대참사가 돼요!」"
 
 [[dialogue]]
 speaker_original = "カティア"
 speaker_translation = "카티아"
 original = "「近くの町の戦士団に出撃してもらえれば、なんとか、なる……かな……？」"
-translation = "「근처 마을의 전사단이 출격해 준다면, 어떻게든, 될……까……?」"
+translation = "「근처 마을의 전사단이 출격해 주면, 어떻게든, 될……까……?」"
 
 [[dialogue]]
 speaker_original = "シャルレーヌ"
 speaker_translation = "샤를렌"
 original = "「なりません。強力なモンスターの群れ相手では、田舎の戦士なんか手も足も出ません。足手まといが増えるだけです」"
-translation = "「안 됩니다. 강력한 몬스터 무리를 상대로는, 시골의 전사 따위 손도 발도 못 씁니다. 짐덩어리만 늘어날 뿐이에요」"
+translation = "「안 됩니다. 강력한 몬스터 무리를 상대로는, 시골의 전사 따위 손도 발도 못 뺍니다. 짐덩어리가 늘어날 뿐입니다」"
 
 [[dialogue]]
 speaker_original = "カティア"
 speaker_translation = "카티아"
 original = "「だよねぇ……」"
-translation = "「그렇지……」"
+translation = "「그렇겠지……」"
 
 [[dialogue]]
 speaker_original = "イクシリオン"
@@ -114,19 +114,19 @@ translation = "「그럼, 역시 저희가 어떻게든 해야겠네요. 사란 
 speaker_original = "サラン"
 speaker_translation = "사란"
 original = "「うん、サランはそのつもりだよ～」"
-translation = "「응, 사란은 그럴 작정이야~」"
+translation = "「응, 사란은 그럴 작정이야～」"
 
 [[dialogue]]
 speaker_original = "イクシリオン"
 speaker_translation = "익실리온"
 original = "「私とサランさんが前衛を務めます。シャルレーヌさんはサポートをお願いします！」"
-translation = "「저와 사란 씨가 전위를 맡겠습니다. 샬레느 씨는 서포트를 부탁해요!」"
+translation = "「저와 사란 씨가 전위를 맡겠습니다. 샬레느 씨는 서포트를 부탁드립니다!」"
 
 [[dialogue]]
 speaker_original = "サラン"
 speaker_translation = "사란"
 original = "「わかった～」"
-translation = "「알겠어~」"
+translation = "「알았어～」"
 
 [[dialogue]]
 speaker_original = "シャルレーヌ"
@@ -138,19 +138,19 @@ translation = "「네, 알겠습니다」"
 speaker_original = "カティア"
 speaker_translation = "카티아"
 original = "「イクシー！\u3000私はどうすればいい？」"
-translation = "「익시ー! 나는 어떻게 해야 해?」"
+translation = "「익시ー! 나는 어떻게 하면 돼?」"
 
 [[dialogue]]
 speaker_original = "イクシリオン"
 speaker_translation = "익실리온"
 original = "「カティアさんは……いったん隠れていてください。また後で指示を出します」"
-translation = "「카티아 씨는…… 일단 숨어 계세요. 나중에 다시 지시를 내릴게요」"
+translation = "「카티아 씨는…… 일단 숨어 계세요. 나중에 다시 지시를 내리겠습니다」"
 
 [[dialogue]]
 speaker_original = "カティア"
 speaker_translation = "카티아"
 original = "「うん……分かった」"
-translation = "「응…… 알겠어」"
+translation = "「응…… 알았어」"
 
 [[dialogue]]
 speaker = "unk"
@@ -166,46 +166,46 @@ translation = "그 사실을 카티아도 이해하고 있었기에, 순순히 �
 speaker_original = "サラン"
 speaker_translation = "사란"
 original = "「じゃ、いこっか～」"
-translation = "「그럼, 가볼까~」"
+translation = "「그럼, 가볼까나～」"
 
 [[dialogue]]
 speaker_original = "サラン"
 speaker_translation = "사란"
 original = "「ホイッパースマッシュ～！」"
-translation = "「휘퍼 스매시~!」"
+translation = "「휘퍼 스매시～!」"
 
 [[dialogue]]
 speaker_original = "モンスター"
 speaker_translation = "몬스터"
 original = "「グガァッ！？」"
-translation = "「크가앗!?」"
+translation = "「그가앗!?」"
 
 [[dialogue]]
 speaker = "unk"
 original = "魔力を秘めたメイスが先頭のモンスターを強かに打ち付ける。巨体が地面にのめり込み、衝撃で大地が揺れた。"
-translation = "마력을 머금은 메이스가 맨 앞의 몬스터를 세차게 내리친다. 거구가 땅속으로 처박히고, 충격으로 대지가 흔들렸다."
+translation = "마력을 품은 메이스가 선두의 몬스터를 호되게 쳐내린다. 거구가 지면에 처박히고, 충격으로 대지가 흔들렸다."
 
 [[dialogue]]
 speaker_original = "サラン"
 speaker_translation = "사란"
 original = "「そ～れ、もういっぱ～つ♪」"
-translation = "「자~아, 한 번 더♪」"
+translation = "「자～아, 한 번 더♪」"
 
 [[dialogue]]
 speaker = "unk"
 original = "モンスターが起き上がる前に追撃を加え、複数ある頭をまとめて叩き潰す。"
-translation = "몬스터가 일어서기 전에 추격을 가해, 여러 개 달린 머리를 한꺼번에 짓뭉갠다."
+translation = "몬스터가 일어서기 전에 추격을 가해, 여러 개 있는 머리를 한데 짓밟아 으깬다."
 
 [[dialogue]]
 speaker = "unk"
 original = "普段の朗らかな雰囲気からは想像できないほどのパワーファイト。お菓子作りで培った体力が存分に発揮されていた。"
-translation = "평소의 화기애애한 분위기에서는 상상할 수 없을 정도의 파워 파이트. 과자 만들기로 다져진 체력이 감쪽같이 발휘되고 있었다."
+translation = "평소의 쾌활한 분위기에서는 상상도 할 수 없을 정도의 파워 파이트. 과자 만들기로 다져진 체력이 감쪽같이 발휘되고 있었다."
 
 [[dialogue]]
 speaker_original = "イクシリオン"
 speaker_translation = "익실리온"
 original = "「サラン先輩、いつになくパワフルで、ワイルドで、素敵です……<emoji=heart04>\u3000私も負けていられません。はあぁっ！」"
-translation = "「사란 선배, 어느 때보다 파워풀하고, 와일드해서, 멋져요……<emoji=heart04> 저도 지고 있을 수는 없죠. 하아앗!」"
+translation = "「사란 선배, 여느 때 없이 파워풀하고, 와일드해서, 멋져요……<emoji=heart04> 저도 지고 있을 수만은 없죠. 하아앗!」"
 
 [[dialogue]]
 speaker_original = "シャルレーヌ"
@@ -216,51 +216,51 @@ translation = "「몬스터 놈들, 디아블의 향수에 도취되세요!」"
 [[dialogue]]
 speaker = "unk"
 original = "シャルレーヌが手榴弾のごとく香水瓶を投げると、混乱をもたらす香によって、街へ向かうモンスターの隊列を乱す。"
-translation = "샬레느가 수류탄처럼 향수병을 던지자, 혼란을 가져오는 향에 의해, 마을로 향하던 몬스터의 대열이 흐트러진다."
+translation = "샬레느가 수류탄처럼 향수병을 던지자, 혼란을 가져오는 향에 의해, 거리로 향하던 몬스터의 대열이 흐트러진다."
 
 [[dialogue]]
 speaker_original = "カティア"
 speaker_translation = "카티아"
 original = "（やっぱりプリマステラは強いなぁ……かっこいいなぁ……）"
-translation = "（역시 프리마스테라는 강하구나…… 멋지다……）"
+translation = "(역시 프리마스테라는 강하구나…… 멋지다……)"
 
 [[dialogue]]
 speaker = "unk"
 original = "モンスターの群れにも怯まず攻撃を仕掛ける星騎士たち。綺羅星のごとく輝く彼女たちは、まだプリマステラにもなれないカティアにとっても憧れの存在だ。"
-translation = "몬스터 무리에게도 겁먹지 않고 공격을 퍼붓는 성기사들. 기라성처럼 빛나는 그녀들은, 아직 프리마스테라조차 되지 못한 카티아에게도 동경의 대상이다."
+translation = "몬스터 무리에도 겁먹지 않고 공격을 가하는 성기사들. 기라성처럼 빛나는 그녀들은, 아직 프리마스테라도 되지 못한 카티아에게 있어 동경의 존재다."
 
 [[dialogue]]
 speaker_original = "サラン"
 speaker_translation = "사란"
 original = "「さようなら～」"
-translation = "「잘 가~」"
+translation = "「잘 가요～」"
 
 [[dialogue]]
 speaker_original = "モンスター"
 speaker_translation = "몬스터"
 original = "「ガァ……」"
-translation = "「크아……」"
+translation = "「가……」"
 
 [[dialogue]]
 speaker = "unk"
 original = "魔将の力を発揮し、サランがまずモンスターを倒した。"
-translation = "마장의 힘을 발휘해, 사란이 먼저 몬스터를 쓰러뜨렸다."
+translation = "마장의 힘을 발휘하여, 사란이 먼저 몬스터를 쓰러뜨렸다."
 
 [[dialogue]]
 speaker = "unk"
 original = "このまま他のモンスターも……と皆が考えた瞬間──"
-translation = "이대로 다른 몬스터도……라고 모두가 생각한 순간──"
+translation = "이대로 다른 몬스터도…… 라고 모두가 생각한 순간──"
 
 [[dialogue]]
 speaker_original = "モンスター"
 speaker_translation = "몬스터"
 original = "「ガアァァーーーッ！！」"
-translation = "「크아아아아아ーーー앗!!」"
+translation = "「가아아아────읏!!」"
 
 [[dialogue]]
 speaker = "unk"
 original = "多頭のモンスターの頭から一斉に、瘴気が噴出し始めた。"
-translation = "머리가 여럿 달린 몬스터의 머리에서 일제히 장기가 분출하기 시작했다."
+translation = "다두 몬스터의 머리에서 일제히, 장기가 뿜어져 나오기 시작했다."
 
 [[dialogue]]
 speaker = "unk"
@@ -276,58 +276,58 @@ translation = "장기에 닿은 대지에서는 본 적도 없는 식물이 자�
 speaker_original = "イクシリオン"
 speaker_translation = "익실리온"
 original = "「そんな……これではまるで、リクリエそのものです……」"
-translation = "「그런…… 이래서는 마치, 리크리에 그 자체입니다……」"
+translation = "「말도 안 돼…… 이래서는 마치, 리크리에 그 자체입니다……」"
 
 [[dialogue]]
 speaker_original = "サラン"
 speaker_translation = "사란"
 original = "「これはよくないかも～……」"
-translation = "「이건 안 좋을지도～……」"
+translation = "「이건 좋지 않을지도～……」"
 
 [[dialogue]]
 speaker = "unk"
 original = "瘴気が吹きあがり、シャリオンの土地が塗り替えられていく。リクリエに染まっていく。"
-translation = "장기가 피어올라, 샤리온의 땅이 새로 칠해져 간다. 리크리에로 물들어 간다."
+translation = "장기가 솟구쳐 올라, 샤리온의 땅이 물들여져 간다. 리크리에에 물들어 간다."
 
 [[dialogue]]
 speaker_original = "シャルレーヌ"
 speaker_translation = "샤를렌"
 original = "「くっ……！\u3000瘴気に阻まれて香水が届かないっ！」"
-translation = "「웋……! 장기에 막혀서 향수가 도달하지 않아!」"
+translation = "「큭……! 장기에 막혀 향수가 닿지 않아!」"
 
 [[dialogue]]
 speaker_original = "イクシリオン"
 speaker_translation = "익실리온"
 original = "「こちらもダメですっ！\u3000斬っても斬っても、瘴気が晴れません！」"
-translation = "「이쪽도 안 됩니다! 베어도 베어도, 장기가 걷히지 않아요!」"
+translation = "「이쪽도 안 돼요! 베고 베어도, 장기가 걷히지 않습니다!」"
 
 [[dialogue]]
 speaker = "unk"
 original = "炎の斬撃が瘴気をわずかに焼くが、それだけだ。瘴気の霧は依然、大地を蝕もうとしている。"
-translation = ""
+translation = "화염의 참격이 장기를 살짝 태우지만, 그것뿐이다. 장기의 안개는 여전히, 대지를 침식하려 하고 있다."
 
 [[dialogue]]
 speaker_original = "カティア"
 speaker_translation = "카티아"
 original = "「シャリオンが、シャリオンじゃなくなっていく……！\u3000こんな土じゃ、何も植えられないよっ……！」"
-translation = "「샤리온이, 샤리온이 아니게 되어 가……! 이런 흙에는, 아무것도 심을 수 없다고……!」"
+translation = "「샤리온이, 샤리온이 아니게 되어 가……! 이런 흙으로는, 아무것도 심을 수 없다고……!」"
 
 [[dialogue]]
 speaker_original = "カティア"
 speaker_translation = "카티아"
 original = "「うおおぉぉーーーーっ！！\u3000くそ、くそぉっ！！」"
-translation = "「우오오오ーー앗!! 쿠소, 쿠소옷!!」"
+translation = "「우오오오────읏!! 젠장, 젠장읏!!」"
 
 [[dialogue]]
 speaker = "unk"
 original = "カティアがモンスターに渾身の拳を叩き込む。けれど、モンスターがわずかに揺らぐだけで何も起きない。"
-translation = "카티아가 몬스터에게 혼신의 주먹을 꽂아 넣는다. 하지만, 몬스터가 약간 흔들릴 뿐 아무 일도 일어나지 않는다."
+translation = "카티아가 몬스터에게 혼신의 주먹을 꽂아 넣는다. 하지만, 몬스터가 살짝 흔들릴 뿐 아무 일도 일어나지 않는다."
 
 [[dialogue]]
 speaker_original = "モンスター"
 speaker_translation = "몬스터"
 original = "「ガァッ！！」"
-translation = "「크앗!!」"
+translation = "「가앗!!」"
 
 [[dialogue]]
 speaker_original = "カティア"
@@ -339,18 +339,18 @@ translation = "「히윽……」"
 speaker_original = "イクシリオン"
 speaker_translation = "익실리온"
 original = "「カティアさんっ！！」"
-translation = "「카티아 씨!!」"
+translation = "「카티아 씨읏!!」"
 
 [[dialogue]]
 speaker_original = "シャルレーヌ"
 speaker_translation = "샤를렌"
 original = "「このバカ……っ！」"
-translation = "「이 바보가……!」"
+translation = "「이 바보……읏!」"
 
 [[dialogue]]
 speaker = "unk"
 original = "カティアがモンスターにやられる間一髪のところを、シャルレーヌが咄嗟に助け出した。"
-translation = "카티아가 몬스터에게 당하기 일보 직전인 순간을, 샬레느가 순간적으로 구해냈다."
+translation = "카티아가 몬스터에게 당하기 일보 직전의 순간을, 샬레느가 찰나의 순간에 구출해 냈다."
 
 [[dialogue]]
 speaker_original = "カティア"
@@ -362,25 +362,25 @@ translation = "「하아, 하아………… 나, 살아있어?」"
 speaker_original = "シャルレーヌ"
 speaker_translation = "샤를렌"
 original = "「生きてる？\u3000じゃないわよ！\u3000頭に小麦でも詰まってるの、この駄犬！」"
-translation = "「살아있어? 가 아니잖아! 머리에 밀가루라도 차 있는 거야, 이 똥개!」"
+translation = "「살아있어? 가 아니야! 머리에 밀가루라도 들어찬 거야, 이 똥개!」"
 
 [[dialogue]]
 speaker_original = "シャルレーヌ"
 speaker_translation = "샤를렌"
 original = "「今、戦えているのはサラン先輩だけ……私やイクシリオン先輩でさえお荷物になりかけてるのに、あんたなんか役に立つわけないでしょ！？\u3000何考えてるのよ！！」"
-translation = "「지금 싸우고 있는 건 사란 선배뿐…… 나나 익실리온 선배조차 짐이 되어 가고 있는데, 너 따위가 도움이 될 리 없잖아!? 무슨 생각을 하는 거야!!」"
+translation = "「지금, 싸우고 있는 건 사란 선배뿐…… 나나 익실리온 선배조차 짐이 되어가고 있는데, 너 따위가 도움이 될 리 없잖아!? 무슨 생각을 하는 거야!!」"
 
 [[dialogue]]
 speaker_original = "カティア"
 speaker_translation = "카티아"
 original = "「だって、好き勝手するモンスターが許せなくて……」"
-translation = "「그치만, 제멋대로 굴어대는 몬스터를 용서할 수 없어서……」"
+translation = "「그치만, 제멋대로 구는 몬스터를 용서할 수 없어서……」"
 
 [[dialogue]]
 speaker_original = "カティア"
 speaker_translation = "카티아"
 original = "「この世界は、魔王様の領地なのに……」"
-translation = "「이 세계는, 마왕님의 영지인데……」"
+translation = "「이 세계는, 마왕 님의 영지인데……」"
 
 [[dialogue]]
 speaker_original = "シャルレーヌ"

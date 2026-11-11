@@ -1,0 +1,563 @@
+[[dialogue]]
+speaker = "unk"
+original = "クーシェンとアポロがメイド修行を始めてから、およそ１ヶ月が過ぎた。"
+translation = "쿠셴과 아폴로가 메이드 수행을 시작한 지, 대략 1개월이 지났다."
+
+[[dialogue]]
+speaker = "unk"
+original = "すぐ匙を投げるだろうという周囲の予想はあっさり裏切られ、２人の修行は続いた。"
+translation = "금방 포기할 것이라는 주위의 예상은 허망하게 빗나가고, 두 사람의 수행은 계속되었다."
+
+[[dialogue]]
+speaker = "unk"
+original = "そして……いよいよメイド修行の総決算という連絡があり、星徒会室に星見家メイド隊の人たちがやってきていた。"
+translation = "그리고…… 마침내 메이드 수행의 총결산이라는 연락이 와서, 학생회실에 호시미 가 메이드대의 사람들이 찾아와 있었다."
+
+[[dialogue]]
+speaker_original = "マリオン"
+speaker_translation = "마리온"
+original = "「振り返ってみれば、あっという間でしたね」"
+translation = "「돌아보면, 눈 깜짝할 사이였네요」"
+
+[[dialogue]]
+speaker_original = "キリカ"
+speaker_translation = "키리카"
+original = "「最初はどうなるかと思いましたが、２名ともよく励んでくれました」"
+translation = "「처음엔 어떻게 될까 싶었지만, 두 사람 모두 잘 힘내주었습니다」"
+
+[[dialogue]]
+speaker_original = "キリカ"
+speaker_translation = "키리카"
+original = "「たとえ一時的なものでも、同じ星見家メイド隊の仲間として、誇らしく感じます」"
+translation = "「비록 일시적인 것이라 해도, 같은 호시미 가 메이드대의 동료로서, 자랑스럽게 느껴집니다」"
+
+[[dialogue]]
+speaker_original = "マリオン"
+speaker_translation = "마리온"
+original = "「キリカさんが直接指導をすることはほとんどありませんでしたから、かなりもどかしかったのでは？」"
+translation = "「키리카 씨가 직접 지도를 하신 적은 거의 없었으니, 상당히 안달이 나셨죠?」"
+
+[[dialogue]]
+speaker_original = "キリカ"
+speaker_translation = "키리카"
+original = "「……否定はしません。が、指導はせずともずっと見守っていましたから」"
+translation = "「……부정하진 않겠습니다. 하지만, 지도는 하지 않아도 계속 지켜보고 있었으니까요」"
+
+[[dialogue]]
+speaker = "unk"
+original = "師匠は優しいですから"
+translation = "스승님은 상냥하시니까요"
+
+[[dialogue]]
+speaker_original = "キリカ"
+speaker_translation = "키리카"
+original = "「私のことなどどうでもいいでしょう。それよりも今は……」"
+translation = "「제 일 따위 아무래도 좋겠지요. 그것보다 지금은……」"
+
+[[dialogue]]
+speaker_original = "マリオン"
+speaker_translation = "마리온"
+original = "「はい、見習いメイドの卒業試験ですね」"
+translation = "「네, 견습 메이드의 졸업 시험이네요」"
+
+[[dialogue]]
+speaker_original = "キリカ"
+speaker_translation = "키리카"
+original = "「合格も不合格もありません。ただ２人の研鑽を、その先に結実したものを……緋宮会長、あなたが見届けて下さい」"
+translation = "「합격도 불합격도 없습니다. 그저 두 사람의 연마를, 그 끝에 결실을 맺은 것을…… 히미야 회장, 당신이 지켜봐 주십시오」"
+
+[[dialogue]]
+speaker_original = "マリオン"
+speaker_translation = "마리온"
+original = "「可愛い後輩を、よろしくお願いしますね、会長様」"
+translation = "「귀여운 후배를, 잘 부탁드려요, 회장님」"
+
+[[dialogue]]
+speaker = "unk"
+original = "先輩メイド２名は退出する。"
+translation = "선배 메이드 2명은 퇴장한다."
+
+[[dialogue]]
+speaker = "unk"
+original = "入れ替わるように、２名の見習いメイドが入室した。"
+translation = "교대하듯, 2명의 견습 메이드가 입실했다."
+
+[[dialogue]]
+speaker_original = "クーシェン"
+speaker_translation = "쿠셰엔"
+original = "「し、失礼します！」"
+translation = "「실, 실례하겠습니다!」"
+
+[[dialogue]]
+speaker_original = "アポロ"
+speaker_translation = "아폴로"
+original = "「緊張しすぎだぞ。いつも通りやればいい」"
+translation = "「너무 긴장했잖아. 평소대로 하면 돼」"
+
+[[dialogue]]
+speaker_original = "クーシェン"
+speaker_translation = "쿠셰엔"
+original = "「わかってるって。にーにーのメイドになるって思ったらドキドキしちゃってさ」"
+translation = "「알고 있다니까. 오빠의 메이드가 된다고 생각하니까 두근거려서 말이야」"
+
+[[dialogue]]
+speaker_original = "アポロ"
+speaker_translation = "아폴로"
+original = "「あたしもドキドキしちゃってる。でも、乗り越えなきゃ」"
+translation = "「나도 두근거리고 있어. 하지만, 이겨내야지」"
+
+[[dialogue]]
+speaker = "unk"
+original = "俺はどうすればいいのかな？"
+translation = "나는 어떻게 하면 될까?"
+
+[[dialogue]]
+speaker = "unk"
+original = "２人とも、今日はよろしくね"
+translation = "둘 다, 오늘은 잘 부탁해"
+
+[[dialogue]]
+speaker_original = "クーシェン"
+speaker_translation = "쿠셰엔"
+original = "「にーにーは、いつも通りにしててくれたらいいよ」"
+translation = "「오빠는, 평소대로 있어 주면 돼」"
+
+[[dialogue]]
+speaker_original = "アポロ"
+speaker_translation = "아폴로"
+original = "「その間、あたしとクーシェンがメイドとしてお世話するんだ」"
+translation = "「그동안, 나와 쿠셴이 메이드로서 시중들 거니까」"
+
+[[dialogue]]
+speaker_original = "クーシェン"
+speaker_translation = "쿠셰엔"
+original = "「そういうことだから……よろしくお願いします、ご主人様」"
+translation = "「그런 거니까…… 잘 부탁드립니다, 주인님」"
+
+[[dialogue]]
+speaker_original = "アポロ"
+speaker_translation = "아폴로"
+original = "「よろしくお願いします」"
+translation = "「잘 부탁드립니다」"
+
+[[dialogue]]
+speaker_original = "クーシェン"
+speaker_translation = "쿠셰엔"
+original = "「よし、ボクが部屋の片付けをするから、アポロはにーにーのサポートを頼んだよ」"
+translation = "「좋아, 내가 방 정리를 할 테니까, 아폴로는 오빠 서포트를 부탁해」"
+
+[[dialogue]]
+speaker_original = "アポロ"
+speaker_translation = "아폴로"
+original = "「りょーかいっ、フォーメーションαだなっ」"
+translation = "「라~져, 포메이션 α로군!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "なんだか凄そうだね"
+translation = "어쩐지 대단해 보이네"
+
+[[dialogue]]
+speaker = "unk"
+original = "フォーメーションα？"
+translation = "포메이션 α?"
+
+[[dialogue]]
+speaker_original = "クーシェン"
+speaker_translation = "쿠셰엔"
+original = "「詳細は、秘密だ！」"
+translation = "「자세한 건, 비밀이다!」"
+
+[[dialogue]]
+speaker_original = "アポロ"
+speaker_translation = "아폴로"
+original = "「あたし達が考えた作戦だからな。ご主人様にはヒミツなんだ」"
+translation = "「우리들이 생각한 작전이니까 말이지. 주인님에게는 비밀이라고」"
+
+[[dialogue]]
+speaker_original = "クーシェン"
+speaker_translation = "쿠셰엔"
+original = "「にーにーはのんびりお世話されててよ。ね？」"
+translation = "「오빠는 느긋하게 시중이나 받고 계셔. 알았지?」"
+
+[[dialogue]]
+speaker_original = "アポロ"
+speaker_translation = "아폴로"
+original = "「ご主人様に安らぎを……仕事して疲れてるだろ？\u3000マッサージで身体のコリをほぐすぞ！」"
+translation = "「주인님에게 안식을…… 일하느라 피곤하잖아? 마사지로 몸의 뭉친 곳을 풀어줄 테니까!」"
+
+[[dialogue]]
+speaker_original = "アポロ"
+speaker_translation = "아폴로"
+original = "「いつもいつも、あたし達のために頑張ってくれてありがとな。こんなことしかしてやれないけど、みんな感謝してるから」"
+translation = "「항상 항상, 우리를 위해 힘내줘서 고마워. 이런 것밖에 해줄 수 없지만, 모두 감사하고 있으니까」"
+
+[[dialogue]]
+speaker_original = "クーシェン"
+speaker_translation = "쿠셰엔"
+original = "「ボクもだよ。メイドの修行を始めて気付いたんだ。周りに気を配るって、思った以上に大変なんだなって」"
+translation = "「나도야. 메이드 수행을 시작하고 깨달았어. 주변을 배려한다는 건, 생각 이상으로 힘들다는 걸」"
+
+[[dialogue]]
+speaker_original = "クーシェン"
+speaker_translation = "쿠셰엔"
+original = "「これまでずっと、自分のことばっかで突っ走ってたんだ。でも、それじゃよくないって教えてくれたのはにーにーと、メイド隊のみんな……」"
+translation = "「지금까지 줄곧, 내 일만 가지고 질주했었어. 하지만, 그러면 안 된다고 가르쳐준 건 오빠와, 메이드대의 모두……」"
+
+[[dialogue]]
+speaker_original = "クーシェン"
+speaker_translation = "쿠셰엔"
+original = "「それと、アポロなんだ……」"
+translation = "「그리고, 아폴로야……」"
+
+[[dialogue]]
+speaker_original = "アポロ"
+speaker_translation = "아폴로"
+original = "「クーシェン、手が止まってるぞ」"
+translation = "「쿠셴, 손이 멈춰있다고」"
+
+[[dialogue]]
+speaker_original = "クーシェン"
+speaker_translation = "쿠셰엔"
+original = "「おっと、ごめんごめん。今はにーにーの専属メイドなんだから、ちゃんとしなきゃね」"
+translation = "「앗차, 미안 미안. 지금은 오빠의 전속 메이드니까, 제대로 해야지」"
+
+[[dialogue]]
+speaker_original = "アポロ"
+speaker_translation = "아폴로"
+original = "「今日であたし達のメイド修行は終わりだけど、学んだことは消えないから……」"
+translation = "「오늘로 우리의 메이드 수행은 끝나지만, 배운 것은 사라지지 않으니까……」"
+
+[[dialogue]]
+speaker_original = "クーシェン"
+speaker_translation = "쿠셰엔"
+original = "「いつかまた、にーにーのメイドをしてあげてもいいよ。これはボクとアポロの気持ち」"
+translation = "「언젠가 또, 오빠의 메이드를 해줘도 좋아. 이건 나와 아폴로의 기분」"
+
+[[dialogue]]
+speaker = "unk"
+original = "でも、今日の結果次第かな"
+translation = "하지만, 오늘 결과에 따라 다르려나"
+
+[[dialogue]]
+speaker = "unk"
+original = "ありがとう"
+translation = "고마워"
+
+[[dialogue]]
+speaker_original = "クーシェン"
+speaker_translation = "쿠셰엔"
+original = "「そうだった！\u3000にーにーに、俺のメイドになって～ってお願いしてもらえるよう頑張るね」"
+translation = "「맞다 그랬지! 오빠가, 내 메이드가 되어줘~ 하고 부탁할 수 있도록 힘낼게」"
+
+[[dialogue]]
+speaker_original = "アポロ"
+speaker_translation = "아폴로"
+original = "「あたし達メイドのことは空気だと思えばいいから。自分のことに集中して」"
+translation = "「우리 메이드들은 공기라고 생각하면 되니까. 자기 일에 집중해」"
+
+[[dialogue]]
+speaker_original = "クーシェン"
+speaker_translation = "쿠셰엔"
+original = "「大事な書類には触らずに、にーにーのお仕事の邪魔にならないようにお片付けだ～」"
+translation = "「중요한 서류에는 손대지 않고, 오빠 일에 방해가 되지 않게 정리정돈이다~」"
+
+[[dialogue]]
+speaker = "unk"
+original = "こうして、星徒会室はいつになく静けさに包まれた。"
+translation = "이렇게, 학생회실은 여느 때와 달리 정적에 싸였다."
+
+[[dialogue]]
+speaker = "unk"
+original = "集中を妨げる雑音はなく、紙とペン、キーボードの音ばかりが響いていた。"
+translation = "집중을 방해하는 잡음은 없고, 종이와 펜, 키보드 소리만이 울려 퍼지고 있었다."
+
+[[dialogue]]
+speaker_original = "クーシェン"
+speaker_translation = "쿠셰엔"
+original = "「にーにー、そろそろ一息つこうよ」"
+translation = "「오빠, 슬슬 한숨 돌리자」"
+
+[[dialogue]]
+speaker_original = "アポロ"
+speaker_translation = "아폴로"
+original = "「すごい集中してたな。仕事してるご主人様はかっこよかったぞ」"
+translation = "「엄청 집중했었네. 일하는 주인님은 멋있었다고」"
+
+[[dialogue]]
+speaker_original = "クーシェン"
+speaker_translation = "쿠셰엔"
+original = "「お茶はなにがいい？\u3000紅茶か緑茶だったらアポロが、コーヒーならボクが淹れるから……」"
+translation = "「차는 뭐가 좋아? 홍차나 녹차라면 아폴로가, 커피라면 내가 타줄 테니까……」"
+
+[[dialogue]]
+speaker_original = "アポロ"
+speaker_translation = "아폴로"
+original = "「おいしいいれかたは全部教わったけど、得意不得意があるからな」"
+translation = "「맛있게 타는 법은 전부 배웠지만, 잘하고 못하고가 있으니까 말이지」"
+
+[[dialogue]]
+speaker = "unk"
+original = "あったかいものがいいな"
+translation = "따뜻한 게 좋은데"
+
+[[dialogue]]
+speaker = "unk"
+original = "胃が疲れてるから"
+translation = "위가 피곤해서"
+
+[[dialogue]]
+speaker_original = "クーシェン"
+speaker_translation = "쿠셰엔"
+original = "「それならボクに任せてよ！\u3000ご主人様のために、おいしいホットミルクを用意するからね～」"
+translation = "「그렇다면 나한테 맡겨줘! 주인님을 위해, 맛있는 핫밀크를 준비할 테니까~」"
+
+[[dialogue]]
+speaker_original = "アポロ"
+speaker_translation = "아폴로"
+original = "「少しだけ待ってて。すぐできるから」"
+translation = "「조금만 기다려줘. 금방 되니까」"
+
+[[dialogue]]
+speaker_original = "クーシェン"
+speaker_translation = "쿠셰엔"
+original = "「あちちっ。も～、ご主人様が待ってるのに……」"
+translation = "「아뜨뜨. 정말~, 주인님이 기다리고 계시는데……」"
+
+[[dialogue]]
+speaker_original = "アポロ"
+speaker_translation = "아폴로"
+original = "「急がなくていいぞ～。クーシェンは慌てると失敗するから」"
+translation = "「서두르지 않아도 된다고~. 쿠셴은 서두르면 실패하니까」"
+
+[[dialogue]]
+speaker_original = "クーシェン"
+speaker_translation = "쿠셰엔"
+original = "「わかってるって。アポロに言われなくたって……先輩たちに何度も教わったからね」"
+translation = "「알고 있다니까. 아폴로가 말하지 않아도…… 선배들에게 몇 번이고 배웠으니까」"
+
+[[dialogue]]
+speaker_original = "クーシェン"
+speaker_translation = "쿠셰엔"
+original = "「っと、ホットミルクできたよ～。あつあつだからふーふーしてあげるね」"
+translation = "「앗, 핫밀크 완성됐다~. 뜨끈뜨끈하니까 호~ 호~ 해줄게」"
+
+[[dialogue]]
+speaker_original = "クーシェン"
+speaker_translation = "쿠셰엔"
+original = "「ふーっ……ふーっ……」"
+translation = "「호~…… 호~……」"
+
+[[dialogue]]
+speaker_original = "アポロ"
+speaker_translation = "아폴로"
+original = "「あたしもふーふーする！\u3000交替してくれ」"
+translation = "「나도 호~ 호~ 할래! 교대해 줘」"
+
+[[dialogue]]
+speaker_original = "クーシェン"
+speaker_translation = "쿠셰엔"
+original = "「しょうがないな～。ご主人様の迷惑にならないように注意だぞ」"
+translation = "「어쩔 수 없네~. 주인님에게 민폐가 되지 않도록 주의하라고」"
+
+[[dialogue]]
+speaker_original = "アポロ"
+speaker_translation = "아폴로"
+original = "「わかってる！\u3000じゃあふーふーするぞ～……ふーっ、ふーっ……もひとつふぅーーっ」"
+translation = "「알고 있어! 그럼 호~ 호~ 한다~…… 호~, 호~…… 한 번 더 후ーー」"
+
+[[dialogue]]
+speaker_original = "クーシェン"
+speaker_translation = "쿠셰엔"
+original = "「……どう？\u3000おいし？」"
+translation = "「……어때? 맛있어?」"
+
+[[dialogue]]
+speaker_original = "アポロ"
+speaker_translation = "아폴로"
+original = "「おいしくなくても、今はこれを飲んで欲しいな。ぜったい胃に優しいから」"
+translation = "「맛없어도, 지금은 이걸 마셔줬으면 좋겠네. 분명 위장에 자극이 없을 테니까」"
+
+[[dialogue]]
+speaker_original = "クーシェン"
+speaker_translation = "쿠셰엔"
+original = "「慌てずゆっくりだぞ。急ぐとやけどしちゃうからな。熱かったらまたふーふーするし！」"
+translation = "「서두르지 말고 천천히라고. 급하게 마시면 데이니까. 뜨거우면 또 호~ 호~ 해줄 테고!」"
+
+[[dialogue]]
+speaker_original = "アポロ"
+speaker_translation = "아폴로"
+original = "「湯気がすごいぞ。やっぱりふーふーが足りなかったんだ。クーシェン、追加ふーふーだ！」"
+translation = "「김이 엄청나다고. 역시 호~ 호~가 부족했던 거야. 쿠셴, 추가 호~ 호~다!」"
+
+[[dialogue]]
+speaker_original = "クーシェン"
+speaker_translation = "쿠셰엔"
+original = "「ふーっ……ふーっ……ご主人様の疲れが少しでも取れますように……」"
+translation = "「호~…… 호~…… 주인님의 피로가 조금이라도 풀리기를……」"
+
+[[dialogue]]
+speaker_original = "アポロ"
+speaker_translation = "아폴로"
+original = "「ふーっ……ふーっ……ご主人様にはあたし達がついてるよ……だから安心して……頑張れっ……」"
+translation = "「후~…… 후~…… 주인님에게는 우리들이 붙어있어…… 그러니까 안심하고…… 힘내……」"
+
+[[dialogue]]
+speaker = "unk"
+original = "こうして俺は、２人のメイドさんに代わる代わるお世話を受けた。"
+translation = "이렇게 나는, 두 사람의 메이드양에게 번갈아 가며 시중을 받았다."
+
+[[dialogue]]
+speaker = "unk"
+original = "こんなことも？\u3000と驚くようなお世話もあって、いい発見だった。"
+translation = "이런 것까지? 하고 놀랄 만한 시중도 있어서, 좋은 발견이었다."
+
+[[dialogue]]
+speaker = "unk"
+original = "自分が疲れていることも忘れるくらい、星徒会の仕事に集中することが出来た。"
+translation = "자신이 피곤하다는 것도 잊을 정도로, 학생회 일에 집중할 수 있었다."
+
+[[dialogue]]
+speaker = "unk"
+original = "日が暮れて、そろそろ帰る時間だ。"
+translation = "해가 지고, 슬슬 돌아갈 시간이다."
+
+[[dialogue]]
+speaker = "unk"
+original = "この部屋を出たら、見習いメイドの卒業試験は終了となる。"
+translation = "이 방을 나가면, 견습 메이드의 졸업 시험은 종료된다."
+
+[[dialogue]]
+speaker_original = "クーシェン"
+speaker_translation = "쿠셰엔"
+original = "「ご主人様、お仕事お疲れさまでした」"
+translation = "「주인님, 일하느라 수고 많으셨습니다」"
+
+[[dialogue]]
+speaker_original = "アポロ"
+speaker_translation = "아폴로"
+original = "「クーシェンといっぱいお世話したけど、どうだった？」"
+translation = "「쿠셴하고 원 없이 시중들어줬는데, 어땠어?」"
+
+[[dialogue]]
+speaker_original = "クーシェン"
+speaker_translation = "쿠셰엔"
+original = "「あ、待ってにーにー。すぐ言わないで」"
+translation = "「아, 잠깐만 오빠. 바로 말하지 마」"
+
+[[dialogue]]
+speaker_original = "クーシェン"
+speaker_translation = "쿠셰엔"
+original = "「ボクもアポロも見習いだからね。メイド隊の先輩たちと比べたら、全然ダメダメだったと思うよ」"
+translation = "「나도 아폴로도 견습이니까 말이야. 메이드대의 선배들과 비교하면, 전혀 엉망진창이었다고 생각해」"
+
+[[dialogue]]
+speaker_original = "アポロ"
+speaker_translation = "아폴로"
+original = "「そうだな……教わったことを全部注ぎ込んだけど、付け焼き刃だもんな。本職のメイドさんには遠く及ばない」"
+translation = "「그렇지…… 배운 것을 전부 쏟아부었지만, 벼락치기니까 말이지. 본직 메이드분들에게는 한참 못 미쳐」"
+
+[[dialogue]]
+speaker_original = "クーシェン"
+speaker_translation = "쿠셰엔"
+original = "「そんなことわかってるんだ。前のボクなら、絶対負けないって意地張って、実力の分析もおろそかになってたはずだしね」"
+translation = "「그런 것쯤 알고 있다고. 이전의 나였다면, 절대 안 진다고 오기를 부리고, 실력 분석도 소홀히 했을 테니까 말이지」"
+
+[[dialogue]]
+speaker_original = "アポロ"
+speaker_translation = "아폴로"
+original = "「だけど、あたしとクーシェンは見習いメイドの修行を頑張ったからな。できることとできないことははっきりさせられる」"
+translation = "「하지만, 나와 쿠셴은 견습 메이드 수행을 열심히 했으니까 말이야. 할 수 있는 것과 할 수 없는 것은 명확하게 할 수 있어」"
+
+[[dialogue]]
+speaker_original = "アポロ"
+speaker_translation = "아폴로"
+original = "「その結果が、フォーメーションαなんだ」"
+translation = "「그 결과가, 포메이션 α야」"
+
+[[dialogue]]
+speaker_original = "クーシェン"
+speaker_translation = "쿠셰엔"
+original = "「にーにーのために全力で……技術が足りない分は、気持ちでカバーしようねって」"
+translation = "「오빠를 위해 전력으로…… 부족한 기술은 마음으로 채우자면서」"
+
+[[dialogue]]
+speaker_original = "クーシェン"
+speaker_translation = "쿠셰엔"
+original = "「そんな風に頑張ってみたけど……届いたかな？」"
+translation = "「그런 식으로 노력해 봤는데…… 전해졌을까?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "２人の気持ち、伝わったから"
+translation = "두 사람의 마음, 전해졌으니까"
+
+[[dialogue]]
+speaker = "unk"
+original = "届いたよ"
+translation = "전해졌어"
+
+[[dialogue]]
+speaker_original = "クーシェン"
+speaker_translation = "쿠셰엔"
+original = "「やったぁ！\u3000にーにーに届いた～！」"
+translation = "「아싸! 오빠한테 전해졌다~!」"
+
+[[dialogue]]
+speaker_original = "アポロ"
+speaker_translation = "아폴로"
+original = "「魔王なら大丈夫だって言ったろ？\u3000クーシェンは強いのに心配性だな」"
+translation = "「마왕이라면 괜찮을 거라고 했잖아? 쿠셴은 강하면서 걱정이 많다니까」"
+
+[[dialogue]]
+speaker_original = "クーシェン"
+speaker_translation = "쿠셰엔"
+original = "「うるさいなぁ！\u3000でも……何度も励ましてくれてありがと、アポロ」"
+translation = "「시끄러워! 그래도…… 몇 번이고 격려해 줘서 고마워, 아포로」"
+
+[[dialogue]]
+speaker_original = "アポロ"
+speaker_translation = "아폴로"
+original = "「うん……こっちもありがと。クーシェンと競い合って、楽しかった」"
+translation = "「응…… 나도 고마워. 쿠셴이랑 경쟁할 수 있어서 즐거웠어」"
+
+[[dialogue]]
+speaker_original = "クーシェン"
+speaker_translation = "쿠셰엔"
+original = "「これでボク達のメイド修行はおしまいだね！」"
+translation = "「이걸로 우리들의 메이드 수행은 끝이네!」"
+
+[[dialogue]]
+speaker_original = "アポロ"
+speaker_translation = "아폴로"
+original = "「すっごく大変だったけど、やめるとなるとちょっぴり寂しいかも」"
+translation = "「엄청 힘들었지만, 그만두게 되니 조금은 섭섭할지도」"
+
+[[dialogue]]
+speaker_original = "クーシェン"
+speaker_translation = "쿠셰엔"
+original = "「そしたらまた、にーにーのメイドになればいいよ！」"
+translation = "「그러면 또, 오빠의 메이드가 되면 되지!」"
+
+[[dialogue]]
+speaker_original = "アポロ"
+speaker_translation = "아폴로"
+original = "「魔王の迷惑にならないか？」"
+translation = "「마왕에게 폐가 되지 않을까?」"
+
+[[dialogue]]
+speaker_original = "クーシェン"
+speaker_translation = "쿠셰엔"
+original = "「それは大丈夫！\u3000だってボク達がにーにーをメイド大好きにしちゃったもんね！」"
+translation = "「그건 괜찮아! 왜냐면 우리가 오빠를 메이드 덕후로 만들어 버렸는걸!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "こうして２名の見習いメイドは卒業していった。"
+translation = "이렇게 2명의 견습 메이드는 졸업해 갔다."
+
+[[dialogue]]
+speaker = "unk"
+original = "その経験は、きっと未来の種となって……いつか芽吹き、咲き誇る日を……"
+translation = "그 경험은, 분명 미래의 씨앗이 되어…… 언젠가 싹을 트우고, 활짝 피어날 날을……"
+
