@@ -13,19 +13,19 @@ translation = "「오빠!」"
 speaker_original = "クーシェン"
 speaker_translation = "쿠셰엔"
 original = "「っとと、いけないいけない。いきなり走り出すなんてメイド失格だよね」"
-translation = "「앗 차차, 안 되지 안 돼. 갑자기 뛰어가는 건 메이드 실격이지」"
+translation = "「앗 차차, 안 되지 안 돼. 갑자기 달려 나가다니 메이드 실격이지」"
 
 [[dialogue]]
 speaker_original = "クーシェン"
 speaker_translation = "쿠셰엔"
 original = "「スカートのすそを動かさないように……よし、出来たっ」"
-translation = ""
+translation = "「스커트 자락이 움직이지 않도록…… 좋아, 됐다」"
 
 [[dialogue]]
 speaker_original = "クーシェン"
 speaker_translation = "쿠셰엔"
 original = "「ということで改めまして……ごきげんよう、にーにー。今日はボクたちの修行を見に来てくれてありがとう」"
-translation = "「그런 고로 다시 한번…… 안녕하신가요, 오빠. 오늘은 우리들의 수행을 보러 와줘서 고마워」"
+translation = "「그런 고로 다시 한번…… 안녕하신가요, 오빠. 오늘은 우리들의 수행을 보러 와 줘서 고마워」"
 
 [[dialogue]]
 speaker = "unk"
@@ -41,41 +41,41 @@ translation = "……쿠셴?"
 speaker_original = "クーシェン"
 speaker_translation = "쿠셰엔"
 original = "「もー、にーにーってば失礼だなぁ。これでも先輩メイドのみんなに厳しく指導してもらってるんだからね」"
-translation = "「정말, 오빠도 참 실례라니까. 이래봬도 선배 메이드 모두에게 엄하게 지도받고 있으니까 말이야」"
+translation = "「정말-, 오빠도 참 무례하네. 이래 봬도 선배 메이드 모두에게 엄하게 지도받고 있으니까 말이야」"
 
 [[dialogue]]
 speaker_original = "アポロ"
 speaker_translation = "아폴로"
 original = "「そうだぞー、魔王。クーシェンもあたしも、かなり上達してるんだから」"
-translation = "「그렇다고ー, 마왕. 쿠셴도 나도, 제법 실력이 늘었다고」"
+translation = "「맞다고-, 마왕. 쿠셴도 나도, 상당히 실력이 늘었으니까」"
 
 [[dialogue]]
 speaker_original = "マリオン"
 speaker_translation = "마리온"
 original = "「まだまだ見習いレベルですけれど、日々の訓練が結果に表われていると思います」"
-translation = "「아직은 견습 수준입니다만, 매일의 훈련이 결과로 나타나고 있다고 생각합니다」"
+translation = "「아직 견습 수준입니다만, 매일의 훈련이 결과로 나타나고 있다고 생각합니다」"
 
 [[dialogue]]
 speaker_original = "クーシェン"
 speaker_translation = "쿠셰엔"
 original = "「やった！\u3000マリオンに褒められた～」"
-translation = "「됐다! 마리온한테 칭찬받았다~」"
+translation = "「나이스! 마리온한테 칭찬받았다~」"
 
 [[dialogue]]
 speaker_original = "アポロ"
 speaker_translation = "아폴로"
 original = "「魔王もあたし達のこと褒めていいんだぞー」"
-translation = "「마왕도 우리 칭찬해 줘도 된다고ー」"
+translation = "「마왕도 우리를 칭찬해도 된다고-」"
 
 [[dialogue]]
 speaker = "unk"
 original = "頑張ったね"
-translation = "수고 많았어"
+translation = "열심히 했네"
 
 [[dialogue]]
 speaker = "unk"
 original = "２人ともえらい"
-translation = "둘 다 기특해"
+translation = "둘 다 장하다"
 
 [[dialogue]]
 speaker_original = "クーシェン"
@@ -93,42 +93,42 @@ translation = "「최고의 포상이네!」"
 speaker_original = "クーシェン"
 speaker_translation = "쿠셰엔"
 original = "「お礼にメイドのボクがにーにーにご奉仕しちゃおうかな♪」"
-translation = "「답례로 메이드인 내가 오빠를 시중들어 줄까나♪」"
+translation = "「보답으로 메이드인 내가 오빠에게 봉사해 버릴까나♪」"
 
 [[dialogue]]
 speaker_original = "アポロ"
 speaker_translation = "아폴로"
 original = "「あたしも一緒にするぞ」"
-translation = "「나도 같이할 거다」"
+translation = "「나도 함께하겠어」"
 
 [[dialogue]]
 speaker_original = "クーシェン"
 speaker_translation = "쿠셰엔"
 original = "「でも、具体的に何をするのがいいんだろ……？」"
-translation = "「하지만, 구체적으로 뭘 하는 게 좋으려나……?」"
+translation = "「하지만, 구체적으로 뭘 하는 게 좋을까……?」"
 
 [[dialogue]]
 speaker_original = "ナミエル"
 speaker_translation = "나미엘"
 original = "「でしたら、緋宮会長をご主人様に見立てて、身だしなみを整えて差し上げるのはどうですか？」"
-translation = "「그러면, 히미야 회장님을 주인님으로 삼아서, 용모를 정돈해 드리는 건 어떨까요?」"
+translation = "「그러면, 히미야 회장님을 주인님으로 가정하고, 용모를 정돈해 드리는 건 어떨까요?」"
 
 [[dialogue]]
 speaker_original = "クーシェン"
 speaker_translation = "쿠셰엔"
 original = "「昨日やったやつだね！\u3000それなら楽勝だよ～」"
-translation = "「어제했던 거네! 그거라면 식은 죽 먹기야~」"
+translation = "「어제 했던 거네! 그거라면 식은 죽 먹기야~」"
 
 [[dialogue]]
 speaker_original = "アポロ"
 speaker_translation = "아폴로"
 original = "「あたし達の手にかかれば、魔王も数倍かっこよくなっちゃうぞ」"
-translation = "「우리 손을 거치면, 마왕도 몇 배는 더 멋있어질 거라고」"
+translation = "「우리 손을 거치면, 마왕도 몇 배는 멋있어져 버린다고」"
 
 [[dialogue]]
 speaker = "unk"
 original = "楽しみだ"
-translation = "기대되는걸"
+translation = "기대되네"
 
 [[dialogue]]
 speaker = "unk"
@@ -139,49 +139,49 @@ translation = "그럼, 부탁해 볼까"
 speaker_original = "クーシェン"
 speaker_translation = "쿠셰엔"
 original = "「ボクは前をやるから、アポロは後ろを頼む！」"
-translation = "「나는 앞쪽을 할 테니까, 아폴로는 뒤쪽을 부탁해!」"
+translation = "「내가 앞쪽을 할 테니까, 아폴로는 뒤쪽을 부탁해!」"
 
 [[dialogue]]
 speaker_original = "アポロ"
 speaker_translation = "아폴로"
 original = "「わかった！\u3000ふふ、魔王の頭のとこ、寝癖ついてるぞ。ぴょこんってしてる」"
-translation = "「알았어! 후후, 마왕 머리 부분, 까치집 잘 지어졌다. 삐쭉 솟아있어」"
+translation = "「알았어! 후후, 마왕의 머리 쪽, 까치집 잘렸다고. 삐죽 나와 있어」"
 
 [[dialogue]]
 speaker_original = "クーシェン"
 speaker_translation = "쿠셰엔"
 original = "「ウキキ♪\u3000にーにーも見えないところは油断してるみたいだね」"
-translation = "「우키키♪ 오빠도 안 보이는 곳은 방심하고 있는 모양이네」"
+translation = "「우키키♪ 오빠도 안 보이는 곳은 방심하고 있는 것 같네」"
 
 [[dialogue]]
 speaker_original = "クーシェン"
 speaker_translation = "쿠셰엔"
 original = "「見えるところはちゃんとしてるけど……ここ、キュッと締めた方がいいんだって」"
-translation = "「보이는 곳은 제대로 하고 있지만…… 여기, 꽉 죄는 편이 좋다고 했어」"
+translation = "「보이는 곳은 제대로 하고 있지만…… 여기, 꽉 조이는 편이 좋대」"
 
 [[dialogue]]
 speaker_original = "アポロ"
 speaker_translation = "아폴로"
 original = "「うう～、魔王の寝癖がしつこい～。マリオン、これどうやったら直るんだ？」"
-translation = "「으으~, 마왕의 까치집 머리가 집요해~. 마리온, 이거 어떻게 해야 펴져?」"
+translation = "「으으~, 마왕의 까치집 머리가 집요해~. 마리온, 이거 어떻게 해야 펴지는 거야?」"
 
 [[dialogue]]
 speaker_original = "マリオン"
 speaker_translation = "마리온"
 original = "「整髪料の力を借りましょう～。常に持ち歩くようにしておくと便利ですよ」"
-translation = "「헤어 제품의 힘을 립시다~. 항상 가지고 다니도록 하면 편리해요」"
+translation = "「정발제의 힘을 맙시다~. 항상 가지고 다니도록 하면 편리해요」"
 
 [[dialogue]]
 speaker_original = "クーシェン"
 speaker_translation = "쿠셰엔"
 original = "「うわ、この飾りどうなってるの？\u3000引っ張ったら取れちゃいそうなんだけど」"
-translation = "「우와, 이 장식 어떻게 된 거야? 잡아당기면 빠져버릴 것 같은데」"
+translation = "「우와, 이 장식 어떻게 된 거야? 당기면 빠져 버릴 것 같은데」"
 
 [[dialogue]]
 speaker_original = "フェニエル"
 speaker_translation = "페니엘"
 original = "「あ、それは引っ張っちゃダメです！」"
-translation = "「아, 그거 잡아당기면 안 돼요!」"
+translation = "「아, 그거 당기면 안 돼요!」"
 
 [[dialogue]]
 speaker = "unk"
@@ -197,19 +197,19 @@ translation = "크, 괴로워~"
 speaker_original = "クーシェン"
 speaker_translation = "쿠셰엔"
 original = "「ごめん、にーにー！\u3000えっと、ボクは他のことするね」"
-translation = "「미안, 오빠! 에또, 나는 다른 거 할게」"
+translation = "「미안, 오빠! 어트, 나는 다른 거 할게」"
 
 [[dialogue]]
 speaker_original = "ナミエル"
 speaker_translation = "나미엘"
 original = "「慌てると余計に失敗しますよ」"
-translation = "「당황하면 더욱 실패하게 돼요」"
+translation = "「서두르면 오히려 더 실패해요」"
 
 [[dialogue]]
 speaker_original = "クーシェン"
 speaker_translation = "쿠셰엔"
 original = "「そ、そうだった。落ち着け～、落ち着け～」"
-translation = "「그, 그랬었지. 침착해라~, 침착해라~」"
+translation = "「그, 그랬지. 진정하자~, 진정하자~」"
 
 [[dialogue]]
 speaker_original = "アポロ"
@@ -227,13 +227,13 @@ translation = "「우갸! 눈테러 당했어~!」"
 speaker_original = "アポロ"
 speaker_translation = "아폴로"
 original = "「わ、悪い、そっちにかかっちゃったか？」"
-translation = "「미, 미안, 그쪽으로 튀었냐?」"
+translation = "「미, 미안, 그 쪽에 맞아 버렸나?」"
 
 [[dialogue]]
 speaker_original = "クーシェン"
 speaker_translation = "쿠셰엔"
 original = "「目がシパシパするよ～」"
-translation = "「눈이 따끔따끔해~」"
+translation = "「눈이 빡빡해~」"
 
 [[dialogue]]
 speaker_original = "フェニエル"
@@ -245,13 +245,13 @@ translation = "「아아, 비비면 더 따가우니까……」"
 speaker_original = "クーシェン"
 speaker_translation = "쿠셰엔"
 original = "「うわああぁぁ～～、そういうのはもっと早く言ってよ～」"
-translation = "「우와아아아~~, 그런 건 더 일찍 말해줘~」"
+translation = "「우와아아아~~, 그런 건 좀 더 일찍 말해 줘~」"
 
 [[dialogue]]
 speaker_original = "クーシェン"
 speaker_translation = "쿠셰엔"
 original = "「にーにー、ごめんなさぁい」"
-translation = "「오빠, 죄송해요~」"
+translation = "「오빠, 죄송해요-」"
 
 [[dialogue]]
 speaker_original = "アポロ"
@@ -262,7 +262,7 @@ translation = "「미안하다, 마왕. 우리들, 메이드로서는 아직 멀
 [[dialogue]]
 speaker = "unk"
 original = "努力賞をあげよう"
-translation = "노력상을 줄게"
+translation = "노력상을 주지"
 
 [[dialogue]]
 speaker = "unk"
@@ -273,43 +273,43 @@ translation = "마음은 전해졌어"
 speaker_original = "クーシェン"
 speaker_translation = "쿠셰엔"
 original = "「えへへ～、にーにーってばやさしいご主人様だね～」"
-translation = "「에헤헤~, 오빠는 참 상냥한 주인님이네~」"
+translation = "「에헤헤~, 오빠도 참 상냥한 주인님이네~」"
 
 [[dialogue]]
 speaker_original = "アポロ"
 speaker_translation = "아폴로"
 original = "「でも、それに甘えちゃダメだ。全部あたし達に任せてもらえるくらいにならなきゃ」"
-translation = "「하지만, 거기에 어리광 부리면 안 돼. 전부 우리한테 맡길 수 있을 정도가 되지 않으면」"
+translation = "「하지만, 거기에 어리광 부리면 안 돼. 전부 우리에게 맡길 수 있을 정도는 되어야지」"
 
 [[dialogue]]
 speaker_original = "クーシェン"
 speaker_translation = "쿠셰엔"
 original = "「わかってるって。メイド修行は始まったばっかりだし、いっぱい努力して最強のメイドさんになっちゃうんだから」"
-translation = "「알고 있다니까. 메이드 수행은 이제 막 시작됐을 뿐이고, 많이 노력해서 최강의 메이드가 되어버릴 테니까」"
+translation = "「알고 있다니까. 메이드 수행은 이제 막 시작했을 뿐이고, 많이 노력해서 최강의 메이드님이 되어 버릴 거니까」"
 
 [[dialogue]]
 speaker_original = "アポロ"
 speaker_translation = "아폴로"
 original = "「あたしもっ……クーシェンと同じだ！」"
-translation = ""
+translation = "「나도…… 쿠셴과 마찬가지다!」"
 
 [[dialogue]]
 speaker_original = "クーシェン"
 speaker_translation = "쿠셰엔"
 original = "「もー、真似っこするなよ～」"
-translation = "「정말, 따라 하지 말라고~」"
+translation = "「정말-, 흉내 내지 마~」"
 
 [[dialogue]]
 speaker_original = "アポロ"
 speaker_translation = "아폴로"
 original = "「クーシェンが先に言っただけだ。あたしはもっとずっと前から思ってたぞ」"
-translation = "「쿠셴이 먼저 말했을 뿐이다. 나는 훨씬 전부터 생각했었다고」"
+translation = "「쿠셴이 먼저 말했을 뿐이다. 나는 훨씬 전부터 생각하고 있었다고」"
 
 [[dialogue]]
 speaker_original = "クーシェン"
 speaker_translation = "쿠셰엔"
 original = "「嘘だぁ」"
-translation = "「거짓말이다~」"
+translation = "「거짓말-」"
 
 [[dialogue]]
 speaker_original = "アポロ"
@@ -337,31 +337,31 @@ translation = "둘 다 스톱!"
 speaker_original = "クーシェン"
 speaker_translation = "쿠셰엔"
 original = "「うぎゅっ、そうだった……今のボクは星見家のメイド見習いだったね……」"
-translation = "「으귯, 그랬었지…… 지금의 나는 호시미 가의 메이드 견습이었지……」"
+translation = "「우귯, 그랬었지…… 지금의 나는 호시미가의 메이드 견습이었지……」"
 
 [[dialogue]]
 speaker_original = "アポロ"
 speaker_translation = "아폴로"
 original = "「すぐ戦いたくなっちゃうのは、あたしとクーシェンの悪いクセだな」"
-translation = "「금방 싸우고 싶어 하는 건, 나와 쿠셴의 나쁜 버릇이네」"
+translation = "「바로 싸우고 싶어지는 건, 나랑 쿠셴의 나쁜 습관이네」"
 
 [[dialogue]]
 speaker_original = "クーシェン"
 speaker_translation = "쿠셰엔"
 original = "「失礼しました、にーにー。もう乱暴なことしないから許してね」"
-translation = "「실례했습니다, 오빠. 이제 거친 짓은 안 할 테니까 용서해 줘」"
+translation = "「실례했습니다, 오빠. 이제 난폭한 짓 안 할 테니까 용서해 줘」"
 
 [[dialogue]]
 speaker_original = "アポロ"
 speaker_translation = "아폴로"
 original = "「あたしも悪かった。メイド服を着てる時は大人しくしとくよ」"
-translation = "「나도 미안했다. 메이드복을 입고 있을 때는 얌전히 있을게」"
+translation = "「나도 잘못했다. 메이드복을 입고 있을 때는 얌전히 있을게」"
 
 [[dialogue]]
 speaker_original = "クーシェン"
 speaker_translation = "쿠셰엔"
 original = "「今はメイドだけど、いつまでもずっとメイドってわけじゃないから、それまでの辛抱だね」"
-translation = "「지금은 메이드지만, 언제까지나 계속 메이드인 건 아니니까, 그때까지 참는 거네」"
+translation = "「지금은 메이드지만, 언제까지나 계속 메이드라는 건 아니니까, 그때까지 인내하는 거네」"
 
 [[dialogue]]
 speaker_original = "アポロ"

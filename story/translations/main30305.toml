@@ -1,0 +1,379 @@
+[[dialogue]]
+speaker = "unk"
+original = "第５話,『思うがママに』,B"
+translation = "제6화, 『생각하는 대로』, B"
+
+[[dialogue]]
+speaker = "unk"
+original = "ルヴィネ率いる一行が次に向かったのは、星見家だった。"
+translation = "루비네가 이끄는 일행이 다음으로 향한 곳은, 호시미 가문이었다."
+
+[[dialogue]]
+speaker = "unk"
+original = "教皇庁の前で待っていたフィオナが、丁寧に挨拶を交わす。"
+translation = "교황청 앞에서 기다리고 있던 피오나가, 정중하게 인사를 건넨다."
+
+[[dialogue]]
+speaker = "unk"
+original = "それから、２人は流星教皇のもとへ向かうこととなった。"
+translation = "그리고, 두 사람은 유성교황의 계신 곳으로 향하게 되었다."
+
+[[dialogue]]
+speaker_original = "紅明"
+speaker_translation = "코메이"
+original = "「ルヴィっちとフィオナっち、教皇さんのとこまで行くみたいだ」"
+translation = "「루비치랑 피오나치, 교황님 계신 곳까지 가는 것 같아」"
+
+[[dialogue]]
+speaker_original = "セシア（覚醒）"
+speaker_translation = "세시아(각성)"
+original = "「それじゃあ、わたくし達はここで待っていましょうか」"
+translation = "「그러면, 저희는 여기서 기다리도록 할까요」"
+
+[[dialogue]]
+speaker_original = "ラクシャ"
+speaker_translation = "락샤"
+original = "「──お、セシアじゃん」"
+translation = "「──오, 세시아잖아」"
+
+[[dialogue]]
+speaker_original = "セシア（覚醒）"
+speaker_translation = "세시아(각성)"
+original = "「あら、ラクシャ。ここで会うとは奇遇ね」"
+translation = "「어머, 락샤. 여기서 만나다니 기우네요」"
+
+[[dialogue]]
+speaker_original = "ラクシャ"
+speaker_translation = "락샤"
+original = "「まったくだね。ルヴィネさまがアルタイルの要人の元を回ってるってのは聞いてたけど、今回は２人が付き添いなんだ？」"
+translation = "「그러게 말야. 루비네 님이 알타이르의 요인들을 돌고 계시다는 건 들었지만, 이번엔 두 사람이 수행하는 거야?」"
+
+[[dialogue]]
+speaker_original = "セシア（覚醒）"
+speaker_translation = "세시아(각성)"
+original = "「ええ、そうよ。つい先ほどまで九浄家にいて、その前は新星学園にいたわ」"
+translation = "「네, 그래요. 방금 전까지 쿠죠 가문에 있었고, 그 전에는 신세이 학원에 있었어요」"
+
+[[dialogue]]
+speaker_original = "ラクシャ"
+speaker_translation = "락샤"
+original = "「へえ、なんか結構楽しそうだね。ボクもついてっちゃおっかな～？」"
+translation = "「헤에, 왠지 제법 재밌어 보이네. 나도 따라가 볼까나~?」"
+
+[[dialogue]]
+speaker_original = "紅明"
+speaker_translation = "코메이"
+original = "「んん？\u3000環っちがラクシャ？\u3000ってどゆこと……？」"
+translation = "「응응? 타마키치가 락샤? 라는 건 무슨 소리……?」"
+
+[[dialogue]]
+speaker_original = "ラクシャ"
+speaker_translation = "락샤"
+original = "「あ、うん。実はボクね、セシアと同じ守護天使だったりするんだよね～」"
+translation = "「아, 응. 사실 나 말이지, 세시아와 같은 수호천사이기도 하거든~」"
+
+[[dialogue]]
+speaker_original = "紅明"
+speaker_translation = "코메이"
+original = "「ええええええっ！！！」"
+translation = "「에에에에에에엑!!!」"
+
+[[dialogue]]
+speaker_original = "紅明"
+speaker_translation = "코메이"
+original = "「そ、そーだったんだ……。さすがにこいつは驚きだぜ……！」"
+translation = ""
+
+[[dialogue]]
+speaker_original = "ラクシャ"
+speaker_translation = "락샤"
+original = "「呼び方は環でもラクシャでも任せるよ。好きなように呼んで」"
+translation = "「호칭은 타마키든 락샤든 맡길게. 편한 대로 불러」"
+
+[[dialogue]]
+speaker_original = "紅明"
+speaker_translation = "코메이"
+original = "「わかった。ま、慣れてるからね。今まで通り環っちって呼ばせてもらうことにするぜ☆」"
+translation = "「알았어. 뭐, 익숙하니까 말야. 지금까지처럼 타마키치라고 부르도록 할게☆」"
+
+[[dialogue]]
+speaker_original = "ラクシャ"
+speaker_translation = "락샤"
+original = "「オッケー♪\u3000ん……？」"
+translation = "「오케이♪ 응……?」"
+
+[[dialogue]]
+speaker_original = "ラクシャ"
+speaker_translation = "락샤"
+original = "「なーんか昔のセシアを思わせるみたいなその格好……もしかして、ルヴィネさまと新しい契約を結んで覚醒した？」"
+translation = "「어~쩐지 옛날 세시아를 떠올리게 하는 듯한 그 차림새…… 혹시, 루비네 님과 새로운 계약을 맺고 각성했어?」"
+
+[[dialogue]]
+speaker_original = "セシア（覚醒）"
+speaker_translation = "세시아(각성)"
+original = "「ええ、まだ以前の力には遠く及ばないけれど、《万成》のアウクセシアの力が蘇ったわ」"
+translation = "「네, 아직 이전의 힘에는 미치지 못하지만, 《만성》의 아욱세시아의 힘이 되살아났어요」"
+
+[[dialogue]]
+speaker_original = "ラクシャ"
+speaker_translation = "락샤"
+original = "「へぇ～そうなんだ！\u3000おめでとう！」"
+translation = "「헤~ 그렇구나! 축하해!」"
+
+[[dialogue]]
+speaker_original = "紅明"
+speaker_translation = "코메이"
+original = "「新しい契約……話の感じだと環っちもルヴィっちと契約したの？」"
+translation = "「새로운 계약…… 이야기 분위기로 보아 타마키치도 루비치랑 계약했어?」"
+
+[[dialogue]]
+speaker_original = "ラクシャ"
+speaker_translation = "락샤"
+original = "「うん。守護天使たちはみんな１対１で、ルヴィネさまと新たに<ruby>経路<rt>パス</rt></ruby>を繋いだんだ」"
+translation = "「응. 수호천사들은 모두 1 대 1로, 루비네 님과 새로 <ruby>경로<rt>패스</rt></ruby>를 연결했거든」"
+
+[[dialogue]]
+speaker_original = "紅明"
+speaker_translation = "코메이"
+original = "「ごくり……アタシには想像もつかない世界だなぁ。守護天使と女神様の契約──聞いてるだけでもすごそうだ」"
+translation = "「꿀꺽…… 나로서는 상상도 할 수 없는 세계네. 수호천사와 여신님의 계약── 듣기만 해도 대단해 보여」"
+
+[[dialogue]]
+speaker_original = "ラクシャ"
+speaker_translation = "락샤"
+original = "「といっても、そんなに壮大で荘厳なことをしてるわけじゃないよ」"
+translation = "「이라고 해도, 그렇게 거창하고 엄숙한 짓을 하는 건 아니야」"
+
+[[dialogue]]
+speaker_original = "ラクシャ"
+speaker_translation = "락샤"
+original = "「例えるなら、テルル社長からルヴィネ社長に代わるから、個人面談を受けてお互いを理解し合った、みたいな感じ？」"
+translation = "「비유하자면, 텔루르 사장에서 루비네 사장으로 바뀌었으니까, 개인 면담을 받아서 서로를 이해했다, 같은 느낌?」"
+
+[[dialogue]]
+speaker_original = "紅明"
+speaker_translation = "코메이"
+original = "「それはそれでノリが軽すぎない！？\u3000分かりやすくて助かるけどさ～」"
+translation = "「그건 그것대로 분위기가 너무 가볍잖아!? 알기 쉬워서 도움이 되지만 말야~」"
+
+[[dialogue]]
+speaker_original = "セシア（覚醒）"
+speaker_translation = "세시아(각성)"
+original = "「あ、そうだ。ラクシャに聞きたいことがあったの」"
+translation = "「아, 맞다. 락샤에게 물어보고 싶은 것이 있었어요」"
+
+[[dialogue]]
+speaker_original = "ラクシャ"
+speaker_translation = "락샤"
+original = "「セシアがボクに？\u3000いいんだけど、もしかして真面目な話？」"
+translation = "「세시아가 나한테? 상관은 없는데, 혹시 진지한 이야기?」"
+
+[[dialogue]]
+speaker_original = "セシア（覚醒）"
+speaker_translation = "세시아(각성)"
+original = "「もちろん真剣な話よ」"
+translation = "「물론 진지한 이야기예요」"
+
+[[dialogue]]
+speaker_original = "ラクシャ"
+speaker_translation = "락샤"
+original = "「ふぅん……今は特に、差し迫った深刻な話なんてなかったと思うけど。何だろ、聞かせてよ」"
+translation = "「흐음…… 지금은 딱히, 절박하고 심각한 이야기 같은 건 없었다고 생각하는데. 뭘까, 들려줘 봐」"
+
+[[dialogue]]
+speaker_original = "セシア（覚醒）"
+speaker_translation = "세시아(각성)"
+original = "「…………」"
+translation = "「…………」"
+
+[[dialogue]]
+speaker_original = "セシア（覚醒）"
+speaker_translation = "세시아(각성)"
+original = "「新しい、ママのことよ」"
+translation = "「새로운, 엄마에 대한 것이에요」"
+
+[[dialogue]]
+speaker_original = "ラクシャ"
+speaker_translation = "락샤"
+original = "「…………」"
+translation = "「…………」"
+
+[[dialogue]]
+speaker_original = "ラクシャ"
+speaker_translation = "락샤"
+original = "「シリアスに受け取ったボクが馬鹿だったよ」"
+translation = "「진지하게 받아들인 내가 바보였네」"
+
+[[dialogue]]
+speaker_original = "ラクシャ"
+speaker_translation = "락샤"
+original = "「で？\u3000なにさ、そのママのことって」"
+translation = "「그래서? 뭔데, 그 엄마라는 건」"
+
+[[dialogue]]
+speaker_original = "セシア（覚醒）"
+speaker_translation = "세시아(각성)"
+original = "「デネブにそれはそれは母性あふれるママがいるらしいの。あなた、心当たりないかしら？」"
+translation = "「데네브에 그야말로 모성이 넘쳐나는 엄마가 있다고 해요. 당신, 짚이는 데 없나요?」"
+
+[[dialogue]]
+speaker_original = "ラクシャ"
+speaker_translation = "락샤"
+original = "「デネブのママ～？\u3000んー、ちょっとそれだけじゃ分からないかな～。他に何か情報はないの？」"
+translation = "「데네브의 엄마~? 으음, 겨우 그것만으로는 잘 모르겠는데~. 달리 정보는 없어?」"
+
+[[dialogue]]
+speaker_original = "セシア（覚醒）"
+speaker_translation = "세시아(각성)"
+original = "「ええと、ナターシャに聞いた話によると……選挙管理委員会にいると言っていたかしら」"
+translation = "「저기, 나타샤에게 들은 바에 의하면…… 선거관리위원회에 있다고 했던가요」"
+
+[[dialogue]]
+speaker_original = "ラクシャ"
+speaker_translation = "락샤"
+original = "「……ああ、あの子のことかな？」"
+translation = "「……아아, 그 아이 말인가?」"
+
+[[dialogue]]
+speaker_original = "セシア（覚醒）"
+speaker_translation = "세시아(각성)"
+original = "「──知っているのね！？」"
+translation = "「──알고 계신가요!?」"
+
+[[dialogue]]
+speaker_original = "ラクシャ"
+speaker_translation = "락샤"
+original = "「うん。ちょうどこっちにいた頃は、梨緒といっしょに会長の監視をしてたからね」"
+translation = "「응. 마침 이쪽에 있었을 무렵에는, 리오랑 같이 회장의 감시를 하고 있었으니까말야」"
+
+[[dialogue]]
+speaker_original = "ラクシャ"
+speaker_translation = "락샤"
+original = "「あの子かあ……確かにセシアの好きそうな母性あふれる感じかもね。うん」"
+translation = "「그 아이인가…… 확실히 세시아가 좋아할 만한 모성 넘치는 느낌일지도. 응」"
+
+[[dialogue]]
+speaker_original = "セシア（覚醒）"
+speaker_translation = "세시아(각성)"
+original = "「ぜひ会いたいわ！\u3000セッティングしてちょうだい♪」"
+translation = "「꼭 만나고 싶어요! 세팅해 주세요♪」"
+
+[[dialogue]]
+speaker_original = "ラクシャ"
+speaker_translation = "락샤"
+original = "「そう簡単に言わないでよ。相手はデネブ人。平行世界をまたいだところにいる存在なんだよ？」"
+translation = "「그렇게 간단히 말하지 말아줘. 상대는 데네브인. 평행세계 너머에 있는 존재라고?」"
+
+[[dialogue]]
+speaker_original = "紅明"
+speaker_translation = "코메이"
+original = "「なんか平行世界を移動する門が開通したとかって話、なかったっけ？」"
+translation = "「뭔가 평행세계를 이동하는 문이 개통했다던가 하는 이야기, 있지 않았나?」"
+
+[[dialogue]]
+speaker_original = "ラクシャ"
+speaker_translation = "락샤"
+original = "「以前に比べれば全然現実的にはなったけど……同一存在のこととか、事前に準備がいるからね。気軽には使えないんだよ」"
+translation = "「이전에 비하면 전혀 현실적으로 되긴 했지만…… 동일 존재 문제라던가, 사전에 준비가 필요하니까 말이지. 가볍게는 쓸 수 없다구」"
+
+[[dialogue]]
+speaker_original = "紅明"
+speaker_translation = "코메이"
+original = "「そっか～。残念だったね、セッシー」"
+translation = "「그렇구나~. 아쉬웠겠네, 세시-」"
+
+[[dialogue]]
+speaker_original = "セシア（覚醒）"
+speaker_translation = "세시아(각성)"
+original = "「そんな……諦めきれないわ！\u3000せっかくまだ見ぬママに出会える、千載一遇のチャンスだというのに！」"
+translation = "「그런…… 포기할 수 없어요! 모처럼 아직 보지 못한 마마를 만날 수 있는, 천재일우의 기회인데!」"
+
+[[dialogue]]
+speaker_original = "ラクシャ"
+speaker_translation = "락샤"
+original = "「他の子を探すんじゃダメなの？」"
+translation = "「다른 아이를 찾는 건 안 되는 거야?」"
+
+[[dialogue]]
+speaker_original = "セシア（覚醒）"
+speaker_translation = "세시아(각성)"
+original = "「ダメではないけれど、隠れママの情報を聞いてしまった以上、会わずには終われないのよ」"
+translation = "「안 되는 건 아니지만, 숨겨진 마마의 정보를 들어버린 이상, 만나지 않고 끝낼 수는 없어요」"
+
+[[dialogue]]
+speaker_original = "セシア（覚醒）"
+speaker_translation = "세시아(각성)"
+original = "「ママみを宿しているのに、ママであると知らぬまま生活しているなんて……そんなにもったいないことはないの！」"
+translation = "「마마미를 품고 있는데도, 마마라는 것을 모르는 채 생활하고 있다니…… 그렇게 아까운 일은 없다구요!」"
+
+[[dialogue]]
+speaker_original = "ラクシャ"
+speaker_translation = "락샤"
+original = "「うーん、困ったなあ……あ、そうだ」"
+translation = "「으-음, 곤란하네…… 아, 그렇다」"
+
+[[dialogue]]
+speaker_original = "ラクシャ"
+speaker_translation = "락샤"
+original = "「デネブのママで思い出したけど──<ruby>アルタイル<rt>こっち</rt></ruby>にだってママみを持った人物がいるかもしれないよ？」"
+translation = "「데네브의 마마 하니까 생각났는데──<ruby>알타이르<rt>이쪽</rt></ruby>에라도 마마미를 가진 인물이 있을지도 모른다구?」"
+
+[[dialogue]]
+speaker_original = "セシア（覚醒）"
+speaker_translation = "세시아(각성)"
+original = "「えっ！\u3000本当？」"
+translation = "「엣! 정말인가요?」"
+
+[[dialogue]]
+speaker_original = "ラクシャ"
+speaker_translation = "락샤"
+original = "「その人物は優しくて、世話を焼いてくれて、時にやんわりたしなめてもくれるような……それはそれは溢れんばかりの母性を持った子なんだ！」"
+translation = "「그 인물은 상냥하고, 돌봐주고, 때로는 넘치지 않게 타이르기도 해주는…… 그야말로 넘쳐흐를 듯한 모성을 가진 아이라구!」"
+
+[[dialogue]]
+speaker_original = "紅明"
+speaker_translation = "코메이"
+original = "「へー、そんな子いるんだ☆\u3000紅明ママも負けてらんないかも？」"
+translation = "「헤-, 그런 아이가 있구나☆ 코메이 마마도 지고 있을 수는 없을지도?」"
+
+[[dialogue]]
+speaker_original = "セシア（覚醒）"
+speaker_translation = "세시아(각성)"
+original = "「ご、ごくり……なんて素敵そうな方なの。話を聞いているだけでも、ママ判定を出してしまいそうだわ」"
+translation = "「꿀, 꿀꺽…… 얼마나 멋질 듯한 분이신지. 이야기를 듣고 있는 것만으로도, 마마 판정을 내버릴 것 같아요」"
+
+[[dialogue]]
+speaker_original = "ラクシャ"
+speaker_translation = "락샤"
+original = "「しかもその人物は……今、この教皇庁にいる！」"
+translation = "「게다가 그 인물은…… 지금, 이 교황청에 있어!」"
+
+[[dialogue]]
+speaker_original = "紅明"
+speaker_translation = "코메이"
+original = "「──えぇっ！？」"
+translation = "「──에엣!?」"
+
+[[dialogue]]
+speaker_original = "セシア（覚醒）"
+speaker_translation = "세시아(각성)"
+original = "「いったい誰なの、それは……！？」"
+translation = "「대체 누구인 건가요, 그건……!?」"
+
+[[dialogue]]
+speaker_original = "ラクシャ"
+speaker_translation = "락샤"
+original = "「ふふ。ずばり──あの子さ」"
+translation = "「후후. 바로── 저 아이라구」"
+
+[[dialogue]]
+speaker = "unk"
+original = "ラクシャが指をさした、その先には──"
+translation = "락샤가 손가락을 가리킨, 그 끝에는──"
+
+[[dialogue]]
+speaker_original = "アポロ"
+speaker_translation = "아폴로"
+original = "「──ほえ？」"
+translation = "「──호에?」"
+

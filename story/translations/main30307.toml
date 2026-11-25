@@ -1,0 +1,339 @@
+[[dialogue]]
+speaker = "unk"
+original = "第７話,『今までとこれから』,B"
+translation = "제7화, 『지금까지와 앞으로』, B"
+
+[[dialogue]]
+speaker_original = "ルヴィネ"
+speaker_translation = "루비네"
+original = "「──２人とも。待たせたわね」"
+translation = "「──두 사람 모두. 기다리게 했네」"
+
+[[dialogue]]
+speaker_original = "ルヴィネ"
+speaker_translation = "루비네"
+original = "「今日の会談はこれで終了よ。いずれまた来ることもあるでしょうけど──今日のところはお疲れさま」"
+translation = "「오늘 회담은 이것으로 종료야. 언젠가 다시 올 일도 있겠지만── 오늘은 이쯤에서 수고했어」"
+
+[[dialogue]]
+speaker_original = "紅明"
+speaker_translation = "코메이"
+original = "「ルヴィっちこそお疲れ様☆\u3000そんじゃ、特別にホルスタミンの期間限定パワージンジャー味をしんぜよう～♪」"
+translation = "「루비치야말로 수고 많았어☆ 그럼, 특별히 홀스타민의 기간 한정 파워 생강 맛을 내리노라~♪」"
+
+[[dialogue]]
+speaker_original = "ルヴィネ"
+speaker_translation = "루비네"
+original = "「あら、ありがとう。ふふ、これがニューフレーバーなのね？」"
+translation = "「어머, 고마워. 후후, 이것이 뉴 플레이버인 거네?」"
+
+[[dialogue]]
+speaker_original = "紅明"
+speaker_translation = "코메이"
+original = "「フフッ、その通り！\u3000新たに生姜のテイストを入れた新作でね。これを飲めば疲れなんて一発で吹き飛んじゃうってわけさ☆」"
+translation = "「후훗, 정답! 새로 생강 맛을 넣은 신작이라서 말이지. 이걸 마시면 피로 따위 한 번에 날아가 버린다는 말씀☆」"
+
+[[dialogue]]
+speaker_original = "紅明"
+speaker_translation = "코메이"
+original = "「はい、セッシーにも♪」"
+translation = "「자, 세시한테도♪」"
+
+[[dialogue]]
+speaker_original = "セシア（覚醒）"
+speaker_translation = "세시아(각성)"
+original = "「ありがとう、紅明ママ♪」"
+translation = "「고마워, 코메이 마마♪」"
+
+[[dialogue]]
+speaker_original = "ルヴィネ"
+speaker_translation = "루비네"
+original = "「２人の案内と紹介のおかげで、スムーズに回ることができたわ。今日は事前の準備も含めて、本当にありがとう」"
+translation = "「두 사람의 안내와 소개 덕분에, 순조롭게 둘러볼 수 있었어. 오늘은 사전 준비를 포함해서, 정말 고마워」"
+
+[[dialogue]]
+speaker_original = "紅明"
+speaker_translation = "코메이"
+original = "「どういたしまして～☆\u3000セッシー的にも大満足の１日になったみたいだし、実りが多かったのなら善きかな善きかな♪」"
+translation = "「천만에 말씀~☆ 세시적으로도 대만족한 하루가 된 것 같고, 결실이 많았다면 좋도다 좋도다♪」"
+
+[[dialogue]]
+speaker_original = "ルヴィネ"
+speaker_translation = "루비네"
+original = "「……？\u3000セシア、確かにずいぶん満足げね。何かいいことでもあったのかしら？」"
+translation = "「……? 세시아, 확실히 상당히 만족스러운 표정이네. 무슨 좋은 일이라도 있었던 걸까?」"
+
+[[dialogue]]
+speaker_original = "セシア（覚醒）"
+speaker_translation = "세시아(각성)"
+original = "「ふふふ。それはもう！」"
+translation = "「후후후. 그야 당연하죠!」"
+
+[[dialogue]]
+speaker_original = "紅明"
+speaker_translation = "코메이"
+original = "「いやー、セッシーが新しいママに出くわしちゃってさ。偶然だったんだけど、もう大満足って感じ？」"
+translation = ""
+
+[[dialogue]]
+speaker = "unk"
+original = "紅明は、アポロとの出会いを説明した。"
+translation = "코메이는 아폴로와의 만남을 설명했다."
+
+[[dialogue]]
+speaker_original = "ルヴィネ"
+speaker_translation = "루비네"
+original = "「そう……期待通り、新しいママを見つけることが出来たのね」"
+translation = "「그래…… 기대대로, 새로운 마마를 발견할 수 있었던 거네」"
+
+[[dialogue]]
+speaker_original = "ルヴィネ"
+speaker_translation = "루비네"
+original = "「けれど私にはまだよく分からないわ、あなたがどうしてそれほどまでに『ママ』を求めているのか……」"
+translation = "「하지만 나로서는 아직 잘 모르겠어, 당신이 어째서 그토록 『마마』를 원하고 있는지……」"
+
+[[dialogue]]
+speaker_original = "セシア（覚醒）"
+speaker_translation = "세시아(각성)"
+original = "「ママはね、誰しも心の奥底で求めているものなのよ。自覚、無自覚の違いはあれど、生きとし生けるものはみなママに焦がれているの」"
+translation = "「마마는 말이죠, 누구나 마음 깊은 곳에서 갈구하는 것이에요. 자각, 무자각의 차이는 있을지언정, 살아 있는 모든 것은 다들 마마를 동경하고 있어요」"
+
+[[dialogue]]
+speaker_original = "セシア（覚醒）"
+speaker_translation = "세시아(각성)"
+original = "「生命は母なる海から生まれたのだから。ママに自己存在を肯定されるほど、生命にとって喜ばしいことはないのよ。そうでしょう？」"
+translation = "「생명은 어머니인 바다에서 태어났으니까요. 마마에게 자기 존재를 인정받는 것만큼, 생명에게 기쁜 일은 없어요. 그렇지 않나요?」"
+
+[[dialogue]]
+speaker_original = "ルヴィネ"
+speaker_translation = "루비네"
+original = "「え？\u3000あ……え、えぇ」"
+translation = "「어? 아…… 어, 으응」"
+
+[[dialogue]]
+speaker_original = "セシア（覚醒）"
+speaker_translation = "세시아(각성)"
+original = "「心を持つ者なら誰しも、本能でママを求めている……わたくしはただ、その本能に人より素直なだけ」"
+translation = "「마음을 가진 자라면 누구나, 본능으로 마마를 원하고 있어요…… 저는 단지, 그 본능에 남들보다 솔직할 뿐」"
+
+[[dialogue]]
+speaker_original = "セシア（覚醒）"
+speaker_translation = "세시아(각성)"
+original = "「人は誰しも、生まれた頃から母という<ruby>縁<rt>よすが</rt></ruby>にすがって生きている……」"
+translation = "「사람은 누구나, 태어났을 때부터 어머니라는 인연에 매달려 살아가고 있어요……」"
+
+[[dialogue]]
+speaker_original = "セシア（覚醒）"
+speaker_translation = "세시아(각성)"
+original = "「だからこそ、ママはこの世界において大変貴重な存在なのよ。ヒトはみな、本質的に迷える子羊なのだから」"
+translation = "「그렇기 때문에, 마마는 이 세계에서 매우 귀중한 존재인 거예요. 인간은 모두, 본질적으로 방황하는 어린 양이니까요」"
+
+[[dialogue]]
+speaker_original = "紅明"
+speaker_translation = "코메이"
+original = "「おーい、あのー、セッシー？」"
+translation = "「어이-, 저기-, 세시?」"
+
+[[dialogue]]
+speaker_original = "セシア（覚醒）"
+speaker_translation = "세시아(각성)"
+original = "「ならママは１人いればいいじゃないかって？\u3000ふふ、それこそ愚問ね。ママは、いればいるだけいいのよ！」"
+translation = "「그렇다면 마마는 1명만 있으면 되지 않냐고요? 후후, 그야말로 우문이네요. 마마는, 있으면 있을수록 좋은 거예요!」"
+
+[[dialogue]]
+speaker_original = "セシア（覚醒）"
+speaker_translation = "세시아(각성)"
+original = "「心から無条件に甘えたくなる存在……それはルヴィネさまにもいるはずよ。たとえ女神になろうとも」"
+translation = "「진심으로 조건 없이 어리광 부리고 싶어지는 존재…… 그것은 루비네 님에게도 있을 터예요. 설령 여신이 될지라도」"
+
+[[dialogue]]
+speaker_original = "ルヴィネ"
+speaker_translation = "루비네"
+original = "「なるほど……」"
+translation = "「그렇구나……」"
+
+[[dialogue]]
+speaker_original = "ルヴィネ"
+speaker_translation = "루비네"
+original = "「最初は面食らったけれど、話を聞いているうちに少しだけわかってきた気がするわ。セシアの言っていることが」"
+translation = "「처음에는 당황했지만, 이야기를 듣다 보니 조금은 알 것 같은 기분이 들어. 세시아가 말하는 것이」"
+
+[[dialogue]]
+speaker_original = "ルヴィネ"
+speaker_translation = "루비네"
+original = "「そして、だからこそセシアもまた、母性の化身めいた包容力を有している……」"
+translation = "「그리고, 그렇기에 세시아 또한, 모성의 화신 같은 포용력을 지니고 있다……」"
+
+[[dialogue]]
+speaker_original = "ルヴィネ"
+speaker_translation = "루비네"
+original = "「『ママ』とは……そういうものなのね？」"
+translation = "「『마마』란…… 그런 거구나?」"
+
+[[dialogue]]
+speaker_original = "紅明"
+speaker_translation = "코메이"
+original = "「わかっちゃったんだ！？\u3000ルヴィっちもやっぱりすごいね！？」"
+translation = "「알아버린 거야!? 루비치도 역시 대단하네!?」"
+
+[[dialogue]]
+speaker_original = "セシア（覚醒）"
+speaker_translation = "세시아(각성)"
+original = "「ふふふ。それでこそ互いに契約を結んだ者同士ね」"
+translation = "「후후후. 그래야 서로 계약을 맺은 사이죠」"
+
+[[dialogue]]
+speaker = "unk"
+original = "セシアとルヴィネは、お互いに得心して頷きあった。"
+translation = "세시아와 루비네는, 서로 납득하며 고개를 끄덕였다."
+
+[[dialogue]]
+speaker_original = "セシア（覚醒）"
+speaker_translation = "세시아(각성)"
+original = "「ルヴィネさまは確かに強大な存在で、これからも成長していくものなのかもしれない。けれど、あなたが物思う存在である限り、ママを求める本能というのは絶対なの」"
+translation = "「루비네 님은 확실히 강대한 존재이고, 앞으로도 성장해 나갈지 몰라요. 하지만, 당신이 생각하는 존재인 한, 마마를 원하는 본능이라는 것은 절대적이에요」"
+
+[[dialogue]]
+speaker_original = "セシア（覚醒）"
+speaker_translation = "세시아(각성)"
+original = "「女神という存在は大きいけれど、それがゆえの孤独もあるわ。そんな時は、いつだって素直にママを求めていいのよ」"
+translation = "「여신이라는 존재는 크지만, 그렇기에 생기는 고독도 있어요. 그럴 때는, 언제든 솔직하게 마마를 원해도 돼요」"
+
+[[dialogue]]
+speaker_original = "ルヴィネ"
+speaker_translation = "루비네"
+original = "「……！」"
+translation = "「……!」"
+
+[[dialogue]]
+speaker_original = "セシア（覚醒）"
+speaker_translation = "세시아(각성)"
+original = "「自分の気持ちに嘘をついてはダメよ。深層心理に眠るママへの欲求はきっと、女神となったあなたの支えにもなるはずだから」"
+translation = "「자신의 마음에 거짓말을 하면 안 돼요. 심층 심리에 잠들어 있는 마마를 향한 욕구는 분명, 여신이 된 당신의 지지대도 될 테니까요」"
+
+[[dialogue]]
+speaker_original = "セシア（覚醒）"
+speaker_translation = "세시아(각성)"
+original = "「ルヴィネさまのママポイントは現状、測定不能。これから眠れるママみが溢れてくるのかもしれないし、そうでないのかもしれない」"
+translation = "「루비네 님의 마마 포인트는 현상, 측정 불능. 앞으로 잠든 마마미가 넘쳐흐를지도 모르고, 그렇지 않을지도 몰라요」"
+
+[[dialogue]]
+speaker_original = "セシア（覚醒）"
+speaker_translation = "세시아(각성)"
+original = "「わたくしとしては、あなたが偉大なるママになることを望んでいるけれど……ルヴィネさまには、それを強制したくないわ」"
+translation = "「저로서는, 당신이 위대한 마마가 되기를 바라고 있지만…… 루비네 님에게, 그것을 강요하고 싶지는 않아요」"
+
+[[dialogue]]
+speaker_original = "セシア（覚醒）"
+speaker_translation = "세시아(각성)"
+original = "「だから……もし甘えたくなったら、わたくしに甘えてくれていいのよ？」"
+translation = "「그러니까…… 만약 어리광 부리고 싶어지면, 저에게 어리광 부려도 돼요?」"
+
+[[dialogue]]
+speaker_original = "ルヴィネ"
+speaker_translation = "루비네"
+original = "「もしかして、それが……その気持ちが、セシアの言う『愛』なのかしら？」"
+translation = "「혹시, 그것이…… 그 마음이, 세시아가 말하는 『사랑』인 걸까?」"
+
+[[dialogue]]
+speaker_original = "ルヴィネ"
+speaker_translation = "루비네"
+original = "「…………ありがとう、セシア。なんだか少し胸が軽くなった気がする」"
+translation = "「…………고마워, 세시아. 왠지 조금 가슴이 가벼워진 기분이 들어」"
+
+[[dialogue]]
+speaker_original = "ルヴィネ"
+speaker_translation = "루비네"
+original = "「あなたの包み込むような優しさを感じて……皆の求めている愛は、こんな優しい気持ちなのではないかと感じられたわ」"
+translation = "「당신의 감싸 안는 듯한 다정함을 느끼고…… 모두가 원하고 있는 사랑은, 이런 다정한 마음이 아닐까 하고 느껴졌어」"
+
+[[dialogue]]
+speaker_original = "セシア（覚醒）"
+speaker_translation = "세시아(각성)"
+original = "「ふふふ。そうね、ルヴィネさまの言う通り……母性こそがわたくしの理想とする愛のカタチ」"
+translation = "「후후후. 맞아요, 루비네 님이 말한 대로…… 모성이야말로 제가 이상으로 삼는 사랑의 형태」"
+
+[[dialogue]]
+speaker_original = "セシア（覚醒）"
+speaker_translation = "세시아(각성)"
+original = "「その気持ちをルヴィネさまに感じてもらえたのなら幸いよ」"
+translation = "「그 마음을 루비네 님이 느껴 주셨다면 다행이에요」"
+
+[[dialogue]]
+speaker_original = "紅明"
+speaker_translation = "코메이"
+original = "「おお……何やら新たな信頼関係が築かれている感じ！？」"
+translation = "「오오…… 왠지 새로운 신뢰 관계가 구축되고 있는 느낌!?」"
+
+[[dialogue]]
+speaker_original = "セシア（覚醒）"
+speaker_translation = "세시아(각성)"
+original = "「ところでルヴィネさま。デネブには素晴らしい素質を持ったママ候補がいると聞いたわ！」"
+translation = "「그런데 루비네 님. 데네브에는 훌륭한 소질을 가진 마마 후보가 있다고 들었어요!」"
+
+[[dialogue]]
+speaker_original = "セシア（覚醒）"
+speaker_translation = "세시아(각성)"
+original = "「アポロママから、母性の片鱗に触れることはできたけれど……デネブの成長した彼女はその比ではないでしょうし……」"
+translation = "「아폴로 마마에게서, 모성의 편린을 접할 수는 있었지만…… 데네브의 성장한 그녀는 그에 비할 바가 아닐 테고……」"
+
+[[dialogue]]
+speaker_original = "セシア（覚醒）"
+speaker_translation = "세시아(각성)"
+original = "「それにナターシャやラクシャの話していたあの方のことも、気になって気になって仕方ないわ！」"
+translation = "「게다가 나타샤나 락샤가 이야기했던 그분에 대해서도, 궁금해서 견딜 수가 없어요!」"
+
+[[dialogue]]
+speaker_original = "ルヴィネ"
+speaker_translation = "루비네"
+original = "「……あの方？」"
+translation = "「……그분?」"
+
+[[dialogue]]
+speaker_original = "紅明"
+speaker_translation = "코메이"
+original = "「もったいぶらずに教えとくと、元新星学園２年生、現在も選挙管理委員会に席を置く──」"
+translation = "「뜸 들이지 않고 가르쳐 주자면, 전 신성학원 2학년, 현재도 선거관리위원회에 적을 두고 있는──」"
+
+[[dialogue]]
+speaker_original = "紅明"
+speaker_translation = "코메이"
+original = "「極星学園、星徒会副会長……ベアトリス・シェイドこと、ベアちーだぜ！！」"
+translation = "「극성학원, 성도회 부회장…… 베아트리스 셰이드이자, 베아치다!!」"
+
+[[dialogue]]
+speaker_original = "ルヴィネ"
+speaker_translation = "루비네"
+original = "「ああ、ベアトね。確かにあの子は、母性に満ちていると言えるかもしれないわ」"
+translation = "「아아, 베아토 말이지. 확실히 그 아이는, 모성이 가득하다고 할 수 있을지도 몰라」"
+
+[[dialogue]]
+speaker_original = "セシア（覚醒）"
+speaker_translation = "세시아(각성)"
+original = "「わたくし、とても会いたいわ！\u3000このままルヴィネさまについていってもいいかしら？」"
+translation = "「저, 너무나도 만나고 싶어요! 이대로 루비네 님을 따라가도 될까요?」"
+
+[[dialogue]]
+speaker_original = "紅明"
+speaker_translation = "코메이"
+original = "「いやいやセッシー、だから平行世界は簡単に行き来できないって話だったっしょ？」"
+translation = "「아니아니 세시, 그러니까 평행세계는 간단히 오갈 수 없다는 이야기였잖아?」"
+
+[[dialogue]]
+speaker_original = "ルヴィネ"
+speaker_translation = "루비네"
+original = "「…………」"
+translation = "「…………」"
+
+[[dialogue]]
+speaker_original = "ルヴィネ"
+speaker_translation = "루비네"
+original = "「わかったわ……次にアルタイルを訪れる時は、彼女も一緒に連れて来ましょう」"
+translation = "「알았어…… 다음에 알타이르를 방문할 때는, 그녀도 함께 데리고 올게」"
+
+[[dialogue]]
+speaker_original = "セシア（覚醒）"
+speaker_translation = "세시아(각성)"
+original = "「本当！？\u3000ルヴィネさま、ありがとう！！」"
+translation = "「정말인가요!? 루비네 님, 고마워요!!」"
+

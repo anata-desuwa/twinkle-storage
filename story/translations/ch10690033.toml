@@ -1,0 +1,390 @@
+[[dialogue]]
+speaker = "unk"
+original = "第３話,本物のデート,P"
+translation = "제3화, 진짜 데이트,P"
+
+[[dialogue]]
+speaker = "unk"
+original = "後日──"
+translation = "훗날──"
+
+[[dialogue]]
+speaker = "unk"
+original = "星徒会の仕事もひと段落ついた頃、俺とセシアは改めてデートをすることになった。"
+translation = "성도회의 일도 한 단락 일찍 끝났을 무렵, 나와 세시아는 다시 데이트를 하게 되었다."
+
+[[dialogue]]
+speaker_original = "セシア（覚醒）"
+speaker_translation = "세시아(각성)"
+original = "「──あ！\u3000会長、こっちよ。ふふ、わたくしも今来たところなのだわ」"
+translation = "「──아! 회장, 이쪽이에요. 후후, 나도 막 방금 도착한 참이랍니다」"
+
+[[dialogue]]
+speaker_original = "セシア（覚醒）"
+speaker_translation = "세시아(각성)"
+original = "「え？\u3000わざわざ待ち合わせをしなくても学園で会えた？\u3000でも、こうするのがデートの流儀と、紅明ママも言っていたわ♪」"
+translation = "「네? 일부러 약속을 하지 않아도 학원에서 만날 수 있었다고요? 하지만, 이렇게 하는 것이 데이트의 예의라고, 코메이 엄마도 말했는걸요♪」"
+
+[[dialogue]]
+speaker = "unk"
+original = "行き先を聞いてない"
+translation = "가는 곳을 듣지 못했어"
+
+[[dialogue]]
+speaker = "unk"
+original = "今日はどこに行くの？"
+translation = "오늘은 어디로 가는 거야?"
+
+[[dialogue]]
+speaker_original = "セシア（覚醒）"
+speaker_translation = "세시아(각성)"
+original = "「ふふ、よい質問だわ。今日は行きたい場所があるのよ。前回とは違うデートスポットなの」"
+translation = "「후후, 좋은 질문이에요. 오늘은 가고 싶은 장소가 있어요. 지난번과는 다른 데이트 스폿이랍니다」"
+
+[[dialogue]]
+speaker_original = "セシア（覚醒）"
+speaker_translation = "세시아(각성)"
+original = "「さあ、行きましょう会長。わたくし、とっても楽しみにしていたのよ！」"
+translation = "「자, 가요 회장. 나, 대단히 기대하고 있었어요!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "セシアに腕を組まれて、俺たちは目的地へと向かった……"
+translation = "세시아에게 팔짱을 끼인 채, 우리들은 목적지로 향했다……"
+
+[[dialogue]]
+speaker_original = "セシア（覚醒）"
+speaker_translation = "세시아(각성)"
+original = "「ここよ！」"
+translation = "「여기예요!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "セシアが行きたかった場所というのは遊園地だった。"
+translation = "세시아가 가고 싶어 했던 장소는 유원지였다."
+
+[[dialogue]]
+speaker = "unk"
+original = "初めての遊園地体験？"
+translation = "첫 유원지 체험?"
+
+[[dialogue]]
+speaker_original = "セシア（覚醒）"
+speaker_translation = "세시아(각성)"
+original = "「いいえ。実はつい最近来たことがあるわ」"
+translation = "「아니요. 사실은 얼마 전에 와본 적이 있어요」"
+
+[[dialogue]]
+speaker_original = "セシア（覚醒）"
+speaker_translation = "세시아(각성)"
+original = "「でもその時は別な目的があって楽しむことが出来なかったの。だから、次は会長と一緒に来たいと思っていたわ」"
+translation = "「하지만 그때는 다른 목적이 있어서 즐길 수가 없었어요. 그러니까, 다음에는 회장과 함께 오고 싶다고 생각하고 있었어요」"
+
+[[dialogue]]
+speaker = "unk"
+original = "気になるアトラクションはある？"
+translation = "마음에 드는 어트랙션이 있어?"
+
+[[dialogue]]
+speaker = "unk"
+original = "思いっきり楽しもう！"
+translation = "마음껏 즐기자!"
+
+[[dialogue]]
+speaker_original = "セシア（覚醒）"
+speaker_translation = "세시아(각성)"
+original = "「そうね、どれも楽しそうで目を引くのだけれど、１番興味があるのはジェットコースターよ！」"
+translation = "「글쎄요, 어느 것이나 재미있어 보여 눈길을 끕니다만, 가장 흥미가 있는 것은 롤러코스터예요!」"
+
+[[dialogue]]
+speaker_original = "セシア（覚醒）"
+speaker_translation = "세시아(각성)"
+original = "「ものすごいスピードで走って揺られるなんて、どんな体験になるのかしら……」"
+translation = "「엄청난 속도로 달리고 흔들리다니, 어떤 체험이 될까……」"
+
+[[dialogue]]
+speaker_original = "セシア（覚醒）"
+speaker_translation = "세시아(각성)"
+original = "「意外かしら？\u3000わたくしは未知への興味は強いほうなのよ」"
+translation = "「뜻밖인가요? 나는 미지에 대한 흥미가 강한 편이랍니다」"
+
+[[dialogue]]
+speaker_original = "セシア（覚醒）"
+speaker_translation = "세시아(각성)"
+original = "「でも、最初からメインディッシュにかぶりつくような無粋はしないわ。まず、軽いアトラクションからならしていくものだと、紅明ママも言っていたもの」"
+translation = "「하지만, 처음부터 메인 디시를 덥석 물어버리는 야만스러운 짓은 하지 않아요. 우선, 가벼운 어트랙션부터 길들여가는 것이라고, 코메이 엄마도 말했는걸요」"
+
+[[dialogue]]
+speaker_original = "セシア（覚醒）"
+speaker_translation = "세시아(각성)"
+original = "「──あ！\u3000わたくし、あの回るティーカップが気になるわ！\u3000会長、きてきてっ♪」"
+translation = "「──아! 나, 저 빙글빙글 회전하는 찻잔이 신경 쓰여요! 회장, 와요 와요♪」"
+
+[[dialogue]]
+speaker_original = "セシア（覚醒）"
+speaker_translation = "세시아(각성)"
+original = "「──ああ、楽しい！\u3000遊園地って、こんなに愉快なところなのね。初めてのことばかりで、まったく飽きないわ！」"
+translation = "「──아아, 즐거워! 유원지란, 이렇게 유쾌한 곳이군요. 처음 접하는 것들뿐이라, 전혀 질리지 않아요!」"
+
+[[dialogue]]
+speaker_original = "セシア（覚醒）"
+speaker_translation = "세시아(각성)"
+original = "「メリーゴーランドも、小舟のアトラクションも大満足。メイプル味のポップコーンもおいしくて……これは人気になるのも頷けるわ！」"
+translation = "「회전목마도, 조그만 배 어트랙션도 대만족. 메이플 맛 팝콘도 맛있어서…… 이것은 인기 있는 것도 고개가 끄덕여지네요!」"
+
+[[dialogue]]
+speaker_original = "セシア（覚醒）"
+speaker_translation = "세시아(각성)"
+original = "「学園でも、楽しそうに遊園地について話している子がいたけれど、今なら理解できる気がするわ」"
+translation = "「학원에서도, 즐거운 듯이 유원지에 대해 이야기하고 있던 아이가 있었는데, 지금이라면 이해할 수 있을 것 같은 기분이에요」"
+
+[[dialogue]]
+speaker_original = "セシア（覚醒）"
+speaker_translation = "세시아(각성)"
+original = "「それにしても……メルヘンな格好をした人の子がずいぶんいるのね。あれはキャストというの？\u3000ふふ、仕事熱心ね」"
+translation = "「그나저나…… 메르헨틱한 차림을 한 인간의 아이가 꽤 있네. 저건 캐스트라고 하는 걸까? 후후, 일에 열심이네」"
+
+[[dialogue]]
+speaker = "unk"
+original = "彼女のファンシーな新衣装も、ここではさほど違和感がない。"
+translation = "그녀의 화려한 새 의상도, 여기서는 그다지 위화감이 없다."
+
+[[dialogue]]
+speaker = "unk"
+original = "それどころか……"
+translation = "그뿐만 아니라……"
+
+[[dialogue]]
+speaker_original = "セシア（覚醒）"
+speaker_translation = "세시아(각성)"
+original = "「あら？\u3000写真？\u3000わたくしと撮りたいの？\u3000別に構わないけれど……ふふ、そんな風に言われるのは珍しいわ」"
+translation = "「어머? 사진? 저랑 찍고 싶으신가요? 딱히 상관은 없지만…… 후후, 그런 말을 듣는 건 드문 일이네요」"
+
+[[dialogue]]
+speaker_original = "セシア（覚醒）"
+speaker_translation = "세시아(각성)"
+original = "「あなたも？\u3000構わないわよ。ふふ、せっかくだから、お望みのポーズをとってあげる♪」"
+translation = "「당신도요? 상관없어요. 후후, 모처럼이니 원하는 포즈를 취해 드릴게요♪」"
+
+[[dialogue]]
+speaker = "unk"
+original = "セシアは道行く女の子たちから『可愛い』としきりに声をかけられ、ツーショットなんかを要求されていた。"
+translation = "세시아는 길을 지나가는 여자아이들에게 끊임없이 『귀엽다』는 말을 들으며, 투샷 사진 따위를 요청받고 있었다."
+
+[[dialogue]]
+speaker_original = "セシア（覚醒）"
+speaker_translation = "세시아(각성)"
+original = "「なぜかしら。先ほどから、初めて会う人たちが、わたくしと写真を撮りたいと言ってくるのだけど……」"
+translation = "「왜일까요. 아까부터 처음 만나는 사람들이 저와 사진을 찍고 싶다고 말해오는데……」"
+
+[[dialogue]]
+speaker = "unk"
+original = "コスプレと思われてる？"
+translation = "코스프레라고 생각하는 건가?"
+
+[[dialogue]]
+speaker = "unk"
+original = "これってもしかして……"
+translation = "이거 혹시……"
+
+[[dialogue]]
+speaker_original = "セシア（覚醒）"
+speaker_translation = "세시아(각성)"
+original = "「わたくしも『キャスト』と思われているのかしら？\u3000想像もしていなかったわ」"
+translation = "「저도 『캐스트』라고 생각되는 걸까요? 상상도 못 했어요」"
+
+[[dialogue]]
+speaker_original = "セシア（覚醒）"
+speaker_translation = "세시아(각성)"
+original = "「でも、みんなに可愛いと褒められるのは、悪くないわね♪」"
+translation = "「하지만, 모두에게 귀엽다고 칭찬받는 건 나쁘지 않네요♪」"
+
+[[dialogue]]
+speaker_original = "セシア（覚醒）"
+speaker_translation = "세시아(각성)"
+original = "「さあ。そろそろわたくしの大本命──ジェットコースターへ向かいましょう？\u3000わたくし、もう期待で胸がいっぱいよ」"
+translation = "「자. 이제 슬슬 제 본명목── 롤러코스터로 향해 볼까요? 저, 벌써 기대감으로 가득해요」"
+
+[[dialogue]]
+speaker_original = "セシア（覚醒）"
+speaker_translation = "세시아(각성)"
+original = "「絶叫系だから、怖いかも？\u3000ふふ。問題ないわ。そういうのも含めて、スリルある体験を楽しめるのでしょう？\u3000予習済みよ」"
+translation = "「절규계니까 무서울지도? 후후. 문제없어요. 그런 것도 포함해서 스릴 있는 체험을 즐기는 거겠죠? 예습은 마쳤어요」"
+
+[[dialogue]]
+speaker_original = "セシア（覚醒）"
+speaker_translation = "세시아(각성)"
+original = "「それに……もし怖くても……」"
+translation = "「게다가…… 혹시 무섭더라도……」"
+
+[[dialogue]]
+speaker = "unk"
+original = "セシアは、いとも自然にこちらへ腕を回してきた。"
+translation = "세시아는 너무나 자연스럽게 이쪽으로 팔을 감아왔다."
+
+[[dialogue]]
+speaker_original = "セシア（覚醒）"
+speaker_translation = "세시아(각성)"
+original = "「隣にあなたがいればへっちゃらよ、きっと──ね？」"
+translation = "「옆에 당신이 있으면 든든해요, 분명── 그렇죠?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "そうして、俺たちは念願のジェットコースターの列に並んだ──"
+translation = "그렇게 우리들은 염원하던 롤러코스터 줄에 섰다──"
+
+[[dialogue]]
+speaker = "unk"
+original = "だが……"
+translation = "하지만……"
+
+[[dialogue]]
+speaker_original = "セシア（覚醒）"
+speaker_translation = "세시아(각성)"
+original = "「……」"
+translation = "「……」"
+
+[[dialogue]]
+speaker_original = "セシア（覚醒）"
+speaker_translation = "세시아(각성)"
+original = "「～～～～！」"
+translation = "「～～～～!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "元気出して"
+translation = "기운 내"
+
+[[dialogue]]
+speaker = "unk"
+original = "どんまい"
+translation = "돈마이"
+
+[[dialogue]]
+speaker_original = "セシア（覚醒）"
+speaker_translation = "세시아(각성)"
+original = "「なんてことなの……わたくしとしたことが、こんな落とし穴にかかるとは思わなかったわ」"
+translation = "「이런 일이라니…… 저답지 않게 이런 함정에 걸릴 줄은 몰랐어요」"
+
+[[dialogue]]
+speaker_original = "セシア（覚醒）"
+speaker_translation = "세시아(각성)"
+original = "「身長制限で乗れないなんて……っ！\u3000こんなのはおかしいわ。守護天使差別よ。せっかく楽しみにしていたのに……！」"
+translation = "「신장 제한으로 못 탄다니……! 이런 건 이상해요. 수호천사 차별이에요. 애써 기대하고 있었는데……!」"
+
+[[dialogue]]
+speaker_original = "セシア（覚醒）"
+speaker_translation = "세시아(각성)"
+original = "「ねえ会長。あなたもそう思うでしょう？\u3000ぷんぷん」"
+translation = "「저기 회장님. 당신도 그렇게 생각하죠? 훙훙」"
+
+[[dialogue]]
+speaker = "unk"
+original = "大きくなったら"
+translation = "커지면"
+
+[[dialogue]]
+speaker = "unk"
+original = "いつか"
+translation = "언젠가"
+
+[[dialogue]]
+speaker_original = "セシア（覚醒）"
+speaker_translation = "세시아(각성)"
+original = "「！\u3000そうね。確かにこのままなら、いつかアウクセシアの力を完全に取り戻す日だってくるかもしれないわ」"
+translation = "「! 그래요. 확실히 이대로라면 언젠가 아욱세시아의 힘을 완전히 되찾을 날이 올지도 몰라요」"
+
+[[dialogue]]
+speaker_original = "セシア（覚醒）"
+speaker_translation = "세시아(각성)"
+original = "「元の姿に戻ればきっと身長制限も突破しているに違いないもの、そう信じましょう！」"
+translation = "「원래 모습으로 돌아가면 분명 신장 제한도 통과해 있을 게 틀림없으니, 그렇게 믿기로 해요!」"
+
+[[dialogue]]
+speaker_original = "セシア（覚醒）"
+speaker_translation = "세시아(각성)"
+original = "「いつか会長とジェットコースターに乗るのよ。ふふ、やっぱりごちそうは取っておいたほうが、うんとおいしく感じるものね♪」"
+translation = "「언젠가 회장님과 롤러코스터를 타는 거예요. 후후, 역시 아껴두었다가 먹는 편이 훨씬 맛있게 느껴지는 법이니까요♪」"
+
+[[dialogue]]
+speaker = "unk"
+original = "元の姿も小さかったらどうしよう。一瞬、そう思いかけたが、言及するのはよしておいた。"
+translation = "원래 모습도 작으면 어쩌지. 순간 그런 생각이 들었지만, 언급하는 건 그만두었다."
+
+[[dialogue]]
+speaker_original = "セシア（覚醒）"
+speaker_translation = "세시아(각성)"
+original = "「ジェットコースターがなくても、遊園地にはたくさんの楽しさがあると知れたもの。ふふ、最高のデートには違いないわ！」"
+translation = "「롤러코스터가 없어도 놀이공원에는 많은 즐거움이 있다는 걸 알았으니까요. 후후, 최고의 데이트임에는 틀림없어요!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "遊園地デートの体験は蓄積できた？"
+translation = "놀이공원 데이트 경험은 축적됐어?"
+
+[[dialogue]]
+speaker_original = "セシア（覚醒）"
+speaker_translation = "세시아(각성)"
+original = "「恋人という経験の蓄積……そうね、最初はそのつもりだったけれど、なんだかもう特に意識することがなくなってしまったわ」"
+translation = "「연인이라는 경험의 축적…… 그래요, 처음엔 그럴 작정이었지만 어쩐지 이제 딱히 의식하지 않게 되어 버렸어요」"
+
+[[dialogue]]
+speaker_original = "セシア（覚醒）"
+speaker_translation = "세시아(각성)"
+original = "「隣にあなたがいてくれることが、なんだか自然になっていて……今、言われるまですっかり忘れていたわ」"
+translation = "「옆에 당신이 있어 주는 것이 어쩐지 자연스러워져서…… 방금 들을 때까지 까맣게 잊고 있었어요」"
+
+[[dialogue]]
+speaker = "unk"
+original = "セシアは元々、俺に『恋人体験』を頼んで今の関係になった。"
+translation = "세시아는 원래 나에게 『연인 체험』을 부탁하며 지금의 관계가 되었다."
+
+[[dialogue]]
+speaker = "unk"
+original = "しかし最近の彼女は、恋愛とはこうするものだ、なんて、いちいち訊ねてくることもなくなっていた。"
+translation = "하지만 최근의 그녀는 연애란 이렇게 하는 것이다, 같은 것을 일일이 물어보는 일도 없어졌다."
+
+[[dialogue]]
+speaker_original = "セシア（覚醒）"
+speaker_translation = "세시아(각성)"
+original = "「あなたはどうかしら、会長？\u3000わたくし、今の関係のほうが……自分らしくいられるのだけど」"
+translation = "「당신은 어떤가요, 회장님? 저, 지금 관계가…… 더 나답게 있을 수 있지만요」"
+
+[[dialogue]]
+speaker = "unk"
+original = "このままでいよう"
+translation = "이대로 있자"
+
+[[dialogue]]
+speaker = "unk"
+original = "俺もそう思う"
+translation = "나도 그렇게 생각해"
+
+[[dialogue]]
+speaker_original = "セシア（覚醒）"
+speaker_translation = "세시아(각성)"
+original = "「ふふ、ありがとう。いいのよね、これで」"
+translation = "「후후, 고마워요. 괜찮은 거네요, 이걸로」"
+
+[[dialogue]]
+speaker_original = "セシア（覚醒）"
+speaker_translation = "세시아(각성)"
+original = "「無理に肩肘を張って、恋人ぶろうとしなくても……素直な心から、あなたと触れ合いたいって思うもの。こうやって──」"
+translation = "「억지로 어깨에 힘을 주고 연인인 척하려고 하지 않아도…… 솔직한 마음으로 당신과 교감하고 싶다고 생각하는걸요. 이렇게──」"
+
+[[dialogue]]
+speaker = "unk"
+original = "セシアはまたも、歩きながら腕を組んできた。"
+translation = "세시아는 또다시 걸어가며 팔짱을 껴왔다."
+
+[[dialogue]]
+speaker_original = "セシア（覚醒）"
+speaker_translation = "세시아(각성)"
+original = "「ふふ。ここにはこうしているカップルがたくさんいるわ。わたくし達も、郷に入っては郷に従いましょう？」"
+translation = "「후후. 여기에는 이러고 있는 커플이 많이 있어요. 우리도 로마에 가면 로마 법을 따라볼까요?」"
+
+[[dialogue]]
+speaker = "unk"
+original = "こうして俺とセシアは、幸せに包まれた１日を満喫したのだった。"
+translation = "이렇게 나와 세시아는 행복에 싸인 하루를 만끽했던 것이었다."
+

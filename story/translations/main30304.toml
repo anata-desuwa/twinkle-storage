@@ -1,0 +1,278 @@
+[[dialogue]]
+speaker = "unk"
+original = "第４話,『ママならぬ存在』,B"
+translation = "제5화, 『마음이 엄마하는 대로』, B"
+
+[[dialogue]]
+speaker = "unk"
+original = "ルヴィネが次に向かったのは九浄家だった。"
+translation = "루비네가 다음으로 향한 곳은 쿠죠 가문이었다."
+
+[[dialogue]]
+speaker = "unk"
+original = "そこに集いしは当主ヘレナ、そして魔界・キュリオスの女帝である<ruby>煌嶺<rt>こうれい</rt></ruby>──"
+translation = "그곳에 모인 자는 당주 헬레나, 그리고 마계·큐리오스의 여제인 <ruby>코레이<rt>코우레이</rt></ruby>──"
+
+[[dialogue]]
+speaker = "unk"
+original = "名だたる面々が、今後の世界について議論を交わしている。"
+translation = "쟁쟁한 면면이, 향후 세계에 대해 논의를 나누고 있다."
+
+[[dialogue]]
+speaker_original = "紅明"
+speaker_translation = "코메이"
+original = "「あれが<ruby>煌嶺<rt>こうれい</rt></ruby>さんか～☆\u3000魔界での噂は聞いたことあったけど、噂以上におっかなさそうな人って雰囲気するねえ」"
+translation = "「저분이 <ruby>코레이<rt>코우레이</rt></ruby> 씨인가~☆ 마계에서의 소문은 들은 적 있었지만, 소문 이상으로 무서워 보이는 사람이라는 분위기가 나네」"
+
+[[dialogue]]
+speaker_original = "紅明"
+speaker_translation = "코메이"
+original = "「大物揃い踏みって感じでいかにもヤバげ！\u3000ルヴィっち、大丈夫かな～？」"
+translation = "「거물들 총출동이라는 느낌으로 그야말로 장난 아닌걸! 루비치, 괜찮으려나~?」"
+
+[[dialogue]]
+speaker_original = "セシア（覚醒）"
+speaker_translation = "세시아(각성)"
+original = "「ルヴィネさまなら心配いらないと思うのだけど……むぅ」"
+translation = "「루비네 님이라면 걱정할 필요 없다고 생각하지만…… 으음」"
+
+[[dialogue]]
+speaker_original = "紅明"
+speaker_translation = "코메이"
+original = "「？\u3000どしたん、セッシー？」"
+translation = "「? 왜 그래, 세시?」"
+
+[[dialogue]]
+speaker_original = "セシア（覚醒）"
+speaker_translation = "세시아(각성)"
+original = "「なんでもないわ」"
+translation = "「아무것도 아니에요」"
+
+[[dialogue]]
+speaker_original = "紅明"
+speaker_translation = "코메이"
+original = "「そう？\u3000なんかセッシーにしては、眉間にシワ寄ってる気もするけど……あ、元気不足ならホルスタミン飲む？」"
+translation = "「그래? 어쩐지 세시 치고는, 미간에 찌푸림이 들어간 느낌도 들지만…… 아, 기운 부족이라면 홀스타민 마실래?」"
+
+[[dialogue]]
+speaker_original = "セシア（覚醒）"
+speaker_translation = "세시아(각성)"
+original = "「ふふっ、気遣いありがとう紅明ママ。でも大丈夫よ」"
+translation = "「후훗, 신경 써줘서 고마워요 코메이 엄마. 하지만 괜찮아요」"
+
+[[dialogue]]
+speaker = "unk"
+original = "と、２人で遠巻きにその様子を見守っていると……。"
+translation = "라며, 둘이서 멀찍이 그 모습을 지켜보고 있자니……."
+
+[[dialogue]]
+speaker_original = "ヘレナ"
+speaker_translation = "헬레나"
+original = "「──ふむ。紅明、それにセシアよ。貴殿らも来ていたのだな」"
+translation = "「──흠. 코메이, 그리고 세시아로군. 귀공들도 와 있었던가」"
+
+[[dialogue]]
+speaker_original = "セシア（覚醒）"
+speaker_translation = "세시아(각성)"
+original = "「あら、ヘレナちゃん」"
+translation = "「어머, 헬레나 찬」"
+
+[[dialogue]]
+speaker_original = "紅明"
+speaker_translation = "코메이"
+original = "「おーヘレナちゃんだ！\u3000あっちは２人きりにしていいの？」"
+translation = "「오- 헬레나 찬이다! 저쪽은 둘만 남겨둬도 괜찮아?」"
+
+[[dialogue]]
+speaker_original = "ヘレナ"
+speaker_translation = "헬레나"
+original = "「ルヴィネ殿であれば問題なかろう。万が一、不穏な気配を感じ取ったらば私が介入すればよい」"
+translation = "「루비네 전하라면 문제없겠지. 만에 하나, 불온한 기운을 감지한다면 내가 개입하면 될 일이다」"
+
+[[dialogue]]
+speaker_original = "ヘレナ"
+speaker_translation = "헬레나"
+original = "「それよりもセシアよ……どうかな？」"
+translation = "「그것보다 세시아여…… 어떠한가?」"
+
+[[dialogue]]
+speaker_original = "セシア（覚醒）"
+speaker_translation = "세시아(각성)"
+original = "「どうって？」"
+translation = "「어떠하다니요?」"
+
+[[dialogue]]
+speaker_original = "ヘレナ"
+speaker_translation = "헬레나"
+original = "「貴殿の求める『ママ』のことだ。煌嶺殿──いささかクセがあるとはいえ、ヒトとしての度量は超常の域に達している」"
+translation = "「귀공이 바라는 『엄마』 말이다. 코레이 전하── 약간 버릇이 있다고는 하나, 사람으로서의 도량은 초상의 영역에 달해 있지」"
+
+[[dialogue]]
+speaker_original = "ヘレナ"
+speaker_translation = "헬레나"
+original = "「貴殿のお眼鏡にはかなわぬか？」"
+translation = "「귀공의 안목에는 차지 않는가?」"
+
+[[dialogue]]
+speaker_original = "セシア（覚醒）"
+speaker_translation = "세시아(각성)"
+original = "「ん～……残念だけれど、煌嶺はわたくしのママではないわ」"
+translation = "「음~…… 아쉽지만, 코레이는 저의 엄마가 아니에요」"
+
+[[dialogue]]
+speaker_original = "ヘレナ"
+speaker_translation = "헬레나"
+original = "「ほう」"
+translation = "「호오」"
+
+[[dialogue]]
+speaker_original = "セシア（覚醒）"
+speaker_translation = "세시아(각성)"
+original = "「彼女はむしろ……ママとは対極にある存在のように感じるわね」"
+translation = "「그녀는 오히려…… 엄마와는 대극점에 있는 존재처럼 느껴지네요」"
+
+[[dialogue]]
+speaker_original = "セシア（覚醒）"
+speaker_translation = "세시아(각성)"
+original = "「そもそもヘレナちゃんだって、本気で煌嶺がママだとは思っていないでしょう？」"
+translation = "「애초에 헬레나 찬도, 진심으로 코레이가 엄마라고는 생각하지 않죠?」"
+
+[[dialogue]]
+speaker_original = "ヘレナ"
+speaker_translation = "헬레나"
+original = "「はっはっはっ、それはそうだ。ただ……セシアの審美眼には驚かされることも多いからな。貴殿の煌嶺評を聞いておきたかっただけだ」"
+translation = "「하하하, 그건 그렇다. 다만…… 세시아의 심미안에는 놀라는 일도 많으니까 말이다. 귀공의 코레이 평을 들어두고 싶었을 뿐이다」"
+
+[[dialogue]]
+speaker_original = "ヘレナ"
+speaker_translation = "헬레나"
+original = "「うむ、どうやらママ成分が不足しているようだな」"
+translation = "「음, 아무래도 엄마 성분이 부족한 모양이군」"
+
+[[dialogue]]
+speaker_original = "ヘレナ"
+speaker_translation = "헬레나"
+original = "「ならば、この九浄ヘレナちゃんの胸に飛び込んできてくれてもいいのだぞ。何しろヴィーナスという娘を持つ、正真正銘のママだからな！」"
+translation = "「그렇다면, 이 쿠죠 헬레나 찬의 가슴에 뛰어들어 와주어도 좋다구. 뭐니 뭐니 해도 비너스라는 딸을 둔, 진짜 엄마니까 말이다!」"
+
+[[dialogue]]
+speaker_original = "セシア（覚醒）"
+speaker_translation = "세시아(각성)"
+original = "「う～ん……ヘレナちゃんは確かに器こそ大きいのだけれど、どこか安心できないのよ。何か企んでいそうで」"
+translation = "「으~음…… 헬레나 찬은 확실히 도량 자체는 크지만, 어딘가 안심할 수 없어요. 무언가 꿍꿍이가 있어 보여서」"
+
+[[dialogue]]
+speaker_original = "ヘレナ"
+speaker_translation = "헬레나"
+original = "「あっはっは、なんと失礼な」"
+translation = "「앗하하, 이거 참 실례되는군」"
+
+[[dialogue]]
+speaker_original = "セシア（覚醒）"
+speaker_translation = "세시아(각성)"
+original = "「ママに不可欠なのは『無償の愛』よ」"
+translation = "「엄마에게 불가결한 것은 『대가 없는 사랑』이에요」"
+
+[[dialogue]]
+speaker_original = "セシア（覚醒）"
+speaker_translation = "세시아(각성)"
+original = "「ヘレナちゃんの場合、愛の深さや多さは申し分ないけれど、それは『相手がもたらす成果への期待』という側面が大きいわ」"
+translation = "「헬레나 찬의 경우, 사랑의 깊이나 양은 흠잡을 데 없지만, 그것은 『상대가 가져올 성과에 대한 기대』라는 측면이 커요」"
+
+[[dialogue]]
+speaker_original = "セシア（覚醒）"
+speaker_translation = "세시아(각성)"
+original = "「新しい生命を迎え入れ、受け入れる……オギャりたくなるようなバブみとは、少々性質が違うわ」"
+translation = "「새로운 생명을 맞아들이고, 수용하는…… 응애 하고 어리광 부리고 싶어지는 엄마미와는, 약간 성질이 달라요」"
+
+[[dialogue]]
+speaker_original = "ヘレナ"
+speaker_translation = "헬레나"
+original = "「ふむ。奥が深いな。しかし実際、この疲れた現代社会に必要なものやもしれぬ。何か商売に活かせないだろうか……」"
+translation = "「흠. 심오하군. 하지만 실제로, 이 지친 현대 사회에 필요한 것일지도 모르겠군. 무언가 장사에 활용할 수는 없을까……」"
+
+[[dialogue]]
+speaker_original = "紅明"
+speaker_translation = "코메이"
+original = "「やっぱりすぐ何か企むじゃん、ヘレナちゃん！」"
+translation = "「역시 바로 무언가 꿍꿍이를 셈하잖아, 헬레나 찬!」"
+
+[[dialogue]]
+speaker = "unk"
+original = "と、そこで煌嶺がヘレナを呼ぶ声が聞こえてきた。"
+translation = "라며, 거기서 코레이가 헬레나를 부르는 소리가 들려왔다."
+
+[[dialogue]]
+speaker = "unk"
+original = "煌嶺の声は、一度聞いただけでは、無邪気な少女のような声に聞こえる。"
+translation = "코레이의 목소리는, 한 번 들은 것만으로는, 천진난만한 소녀 같은 목소리로 들린다."
+
+[[dialogue]]
+speaker = "unk"
+original = "しかし、ヘレナの表情が瞬間、引き締まる。"
+translation = "하지만, 헬레나의 표정이 순간, 굳어진다."
+
+[[dialogue]]
+speaker_original = "ヘレナ"
+speaker_translation = "헬레나"
+original = "「──おっと、お呼びか。すまぬな、少々抜けるぞ」"
+translation = "「──앗차, 부르는군. 미안하지만, 잠시 자리를 비우겠다」"
+
+[[dialogue]]
+speaker_original = "セシア（覚醒）"
+speaker_translation = "세시아(각성)"
+original = "「…………」"
+translation = "「…………」"
+
+[[dialogue]]
+speaker_original = "セシア（覚醒）"
+speaker_translation = "세시아(각성)"
+original = "「紅明ママ～。わたくし、ちょっと疲れてしまったわ。お庭に出ましょう？」"
+translation = "「코메이 엄마~. 저, 조금 피곤해져 버렸어요. 정원으로 나갈까요?」"
+
+[[dialogue]]
+speaker_original = "紅明"
+speaker_translation = "코메이"
+original = "「オッケー☆\u3000じゃ、後でルヴィっちと合流しよっか」"
+translation = "「오케이☆ 그럼, 나중에 루비치랑 합류할까」"
+
+[[dialogue]]
+speaker = "unk"
+original = "セシアと紅明はルヴィネを待つ間、２人だけの時間を楽しむ。"
+translation = "세시아와 코메이는 루비네를 기다리는 동안, 둘만의 시간을 즐긴다."
+
+[[dialogue]]
+speaker = "unk"
+original = "そして──"
+translation = "그리고──"
+
+[[dialogue]]
+speaker_original = "ルヴィネ"
+speaker_translation = "루비네"
+original = "「──お待たせ、２人とも」"
+translation = "「──기다리게 했네, 두 사람 모두」"
+
+[[dialogue]]
+speaker_original = "紅明"
+speaker_translation = "코메이"
+original = "「お、ルヴィっち。いいよー、アタシらはルヴィっちについてくのが今日の仕事だからね♪」"
+translation = "「오, 루비치. 괜찮아-, 우리는 루비치를 따라다니는 게 오늘 일이니까 말야♪」"
+
+[[dialogue]]
+speaker_original = "紅明"
+speaker_translation = "코메이"
+original = "「にしても、これまでで一番時間かかったかな？\u3000やっぱり、それだけ重要な話だったカンジ？」"
+translation = "「그나저나, 지금까지 중 가장 시간이 오래 걸렸나? 역시, 그만큼 중요한 이야기였다는 느낌?」"
+
+[[dialogue]]
+speaker_original = "ルヴィネ"
+speaker_translation = "루비네"
+original = "「重要かどうかというよりも、やっぱり煌嶺は一筋縄ではいかない相手だったから、かしら。多少は親しくなったような気がしていたのだけれどね」"
+translation = "「중요한지 아닌지라기보다는, 역시 코레이는 만만치 않은 상대였으니까, 일까. 어느 정도는 친해진 것 같은 느낌이 들었지만 말야」"
+
+[[dialogue]]
+speaker_original = "ルヴィネ"
+speaker_translation = "루비네"
+original = "「まあいいわ。気を取り直して次の目的地へ向かいましょう。残りのスケジュールもぎっちり詰まっているわ」"
+translation = "「뭐 됐어. 마음을 가다듬고 다음 목적지로 향하자. 남은 일정 일정도 빼곡하게 차 있어」"
+
